@@ -800,13 +800,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'La cucina romana sono quattro paste (cacio e pepe, gricia, amatriciana, carbonara) più il quinto quarto, che pochi provano e che spiega la città meglio delle paste: coda alla vaccinara, trippa, coratella. Da mangiare in trattoria a Testaccio o al Pigneto, non in centro. Il carciofo alla giudia nel Ghetto in stagione (da fine inverno a primavera), la pizza romana sottile e croccante, il supplì come merenda. **La regola più importante: non mangiare in nessun locale con le foto dei piatti fuori o con qualcuno che invita a entrare.**',
     comeArrivare:
-      'Volo su Fiumicino (FCO), con il Leonardo Express in 32 minuti per Termini, o su Ciampino (CIA) per i voli low cost. In treno l\'alta velocità collega Roma a Milano in tre ore e a Napoli in poco più di un\'ora.',
+      'Volo su Fiumicino (FCO), con il Leonardo Express in 32 minuti per Termini, o su Ciampino (CIA) per i voli low cost. In treno l\'alta velocità collega Roma a Milano in tre ore e a Napoli in poco più di un\'ora. Il Leonardo Express costa 14 € e parte ogni 15 minuti fino alle 23:30 circa; il taxi bianco dalla fila ufficiale ha una tariffa fissa di 55 € entro le Mura Aureliane. Da Ciampino il bus per Termini costa circa 6 € e impiega 40 minuti, il taxi fisso circa 40 €.',
     comeSpostarsi:
       'La metropolitana ha tre linee (poche per una città così, per ragioni archeologiche: ogni scavo trova qualcosa), gli autobus sono lenti e irregolari, i tram utili su alcune direttrici. **Il centro storico si gira a piedi**, ed è l\'unico modo sensato: le distanze sono minori di quanto sembri e quasi tutto è nel raggio di due chilometri.',
     periodoMigliore:
       '**da ottobre a marzo**, senza dubbio. Aprile, maggio e settembre sono bellissimi e pieni di gente; luglio e agosto sono difficili, con temperature che superano i 38 gradi e ondate di calore che rendono la visita faticosa e per alcuni rischiosa. Ad agosto in compenso molti romani sono via e la città cambia faccia, ma molte trattorie sono chiuse.',
     costi:
-      'Biglietto unico Colosseo-Foro-Palatino, nominativo e a fascia oraria; Musei Vaticani da prenotare per forza, anche se non è un obbligo formale; Galleria Borghese con ingressi contingentati ogni due ore. Le chiese sono quasi tutte gratuite, e contengono una parte enorme di quello che si viene a vedere.',
+      'Biglietto unico Colosseo-Foro-Palatino, nominativo e a fascia oraria; Musei Vaticani da prenotare per forza, anche se non è un obbligo formale; Galleria Borghese con ingressi contingentati ogni due ore. Le chiese sono quasi tutte gratuite, e contengono una parte enorme di quello che si viene a vedere. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 70-90 €, medio 130-180 €, alto oltre 250 €.',
     erroriDaEvitare: [
       'Comprare il biglietto del Colosseo sul posto o da rivenditori per strada: è **nominativo**, serve un documento d\'identità originale (non una copia), e dal 2026 il cambio del nominativo è ancora più limitato. Si compra solo sul canale ufficiale, con settimane di anticipo per le fasce migliori',
       'Non prenotare la Galleria Borghese: gli ingressi sono contingentati a fasce di due ore e si esauriscono',
@@ -825,6 +825,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Chiuso il 25 dicembre e il 1 gennaio. Dal 25 ottobre 2026 al 28 febbraio 2027 apre alle 8:30 e chiude alle 16:30, ultimo ingresso alle 15:30; d'estate l'orario è più lungo, sul sito ufficiale. Prima fascia del mattino o ultime ore per evitare le code; d'estate il Foro è molto caldo e senza ombra.",
         "tempo": "mezza giornata, 3-4 ore per tutto",
         "costo": "tariffe sul canale ufficiale; ingresso gratuito la prima domenica del mese, il 25 aprile, il 2 giugno e il 4 novembre",
+        "orari": "Tutti i giorni dalle 8:30; chiusura tra le 16:30 d'inverno e le 19:15 d'estate, ultimo ingresso un'ora prima. Chiuso il 25 dicembre e il 1 gennaio.",
+        "lat": 41.8902,
+        "lng": 12.4922,
         "url": "https://colosseo.it/",
         "consiglio": "Comprare solo dal canale ufficiale e con anticipo per le fasce migliori. Visitare prima il Foro e il Palatino se fa caldo, e il Colosseo dentro verso le ore più fresche."
       },
@@ -835,6 +838,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Dal lunedì al sabato 8-20, ultimo ingresso alle 18. Chiusi la domenica, tranne l'ultima del mese (9-14, ultimo ingresso alle 12:30), quando l'ingresso è gratuito e c'è una folla enorme. Chiusi anche in alcune festività religiose: vedere il calendario sul sito. Prima fascia del mattino o fine pomeriggio.",
         "tempo": "3-4 ore",
         "costo": "20 euro intero, 25 euro con la prenotazione online sul sito ufficiale (2026)",
+        "orari": "Lunedì-sabato 8-20, ultimo ingresso alle 18. Domenica chiusi, tranne l'ultima del mese (9-14, gratis).",
+        "lat": 41.9065,
+        "lng": 12.4536,
         "url": "https://www.museivaticani.va/",
         "consiglio": "In Sistina il silenzio e il divieto di fotografare sono controllati dal personale. Decidere prima cosa vedere: nessuno riesce a vederlo tutto."
       },
@@ -844,6 +850,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro A fino a Ottaviano e a piedi. Si passa per i controlli di sicurezza; l'ingresso alla basilica è gratuito, la salita alla cupola è a pagamento. Spalle e ginocchia devono essere coperte.",
         "quando": "Tutti i giorni, ma chiusa durante le cerimonie papali; il mercoledì mattina c'è l'udienza generale e la zona è molto affollata. Presto al mattino.",
         "tempo": "1-2 ore, più 1 ora per la cupola",
+        "costo": "basilica gratuita; cupola a pagamento, con supplemento per l'ascensore",
+        "orari": "Tutti i giorni dal primo mattino al tardo pomeriggio; chiusa o con accesso limitato durante le celebrazioni papali.",
+        "lat": 41.9022,
+        "lng": 12.4539,
         "url": "https://www.basilicasanpietro.va/",
         "consiglio": "Il codice di abbigliamento è controllato: in pantaloncini o con spalle scoperte non si entra. Portare una sciarpa leggera nello zaino."
       },
@@ -853,6 +863,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In centro, tra Piazza Navona e Fontana di Trevi, a piedi. Dal 2023 l'ingresso è a pagamento, con biglietto online o in loco. Durante le funzioni religiose l'accesso è limitato.",
         "quando": "Tutti i giorni 9-19, ultimo ingresso alle 18:30; la prima domenica del mese l'ingresso è gratuito (sito ufficiale). Mattina presto o sera per avere meno gente; con la pioggia l'oculo crea un'atmosfera particolare.",
         "tempo": "30-45 minuti",
+        "costo": "7 € (dal 1 luglio 2026); gratis la prima domenica del mese",
+        "orari": "Tutti i giorni 9-19, ultimo ingresso alle 18:30.",
+        "lat": 41.8986,
+        "lng": 12.4769,
         "consiglio": "Controllare in anticipo le regole e il prezzo del biglietto. La piazza all'esterno è affollata e piena di ristoranti turistici: non pranzare lì."
       },
       {
@@ -861,6 +875,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dentro Villa Borghese, a piedi da Piazza di Spagna o da Piazzale Flaminio. Prenotazione obbligatoria con ingresso a fasce da due ore.",
         "quando": "Chiusa il lunedì. Le fasce si esauriscono con giorni o settimane di anticipo in alta stagione.",
         "tempo": "2 ore (la visita ha durata fissa)",
+        "costo": "circa 18 €: 16 € il biglietto più 2 € di prenotazione obbligatoria (2026)",
+        "orari": "Martedì-domenica 9-19, ingressi a fasce di due ore. Chiusa il lunedì.",
+        "lat": 41.9142,
+        "lng": 12.4922,
         "url": "https://galleriaborghese.cultura.gov.it/",
         "consiglio": "Arrivare un po' prima per il ritiro del biglietto e il guardaroba. Il parco intorno è bello per una passeggiata dopo."
       },
@@ -870,6 +888,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dal centro con il bus 118 (fermata Circo Massimo o Colosseo) o con il 660 (dalla metro A Arco di Travertino), poi a piedi; in alternativa in bici a noleggio. La domenica e nei festivi l'Appia è chiusa ai veicoli a motore da Porta San Sebastiano in poi, dalle 9 alle 16 con l'ora solare e dalle 9 alle 18 con l'ora legale.",
         "quando": "Domenica, che è il giorno migliore perché è chiusa alle auto. Le catacombe hanno giorni di chiusura diversi: controllarli sui loro siti prima di andare.",
         "tempo": "mezza giornata",
+        "costo": "la strada è libera; catacombe e siti del Parco a pagamento",
+        "orari": "Chiusa alle auto la domenica e nei festivi dalle 9 alle 16 (ora solare) o alle 18 (ora legale).",
+        "lat": 41.856,
+        "lng": 12.515,
         "url": "https://www.parcoappiaantica.it/",
         "consiglio": "L'Appia di domenica non è lontana dal Colosseo e quasi nessuno ci va. Si cammina su basoli originali tra sepolcri e pini, con gli acquedotti in lontananza. Portare acqua: lungo la strada ci sono pochi punti di ristoro."
       },
@@ -879,6 +901,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A pochi minuti a piedi dal Colosseo, in via Labicana. La basilica superiore si visita liberamente, i livelli sotterranei con biglietto.",
         "quando": "Orari con pausa a metà giornata; controllare sul sito. Gli ambienti sotterranei sono umidi e freschi anche d'estate.",
         "tempo": "1 ora",
+        "costo": "basilica gratuita; livelli sotterranei a pagamento",
+        "lat": 41.8893,
+        "lng": 12.4975,
         "url": "https://www.basilicasanclemente.com/",
         "consiglio": "È il modo più semplice di capire cosa vuol dire Roma sotterranea, e sta a due passi dal Colosseo. Spesso si abbina alle Case Romane del Celio."
       },
@@ -889,6 +914,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Tutti i giorni con orari spezzati. A metà mattina di un giorno feriale c'è poca gente.",
         "tempo": "20-30 minuti",
         "costo": "ingresso gratuito",
+        "lat": 41.8996,
+        "lng": 12.4746,
         "consiglio": "Ci sono andato a metà mattina di un martedì di novembre: si può restare dieci minuti davanti alla Vocazione di San Matteo praticamente da soli. Portare monete."
       },
       {
@@ -897,33 +924,113 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal centro attraversando il Tevere sull'isola Tiberina, oppure con il tram 8 (da piazza Venezia, passando per Largo Argentina).",
         "quando": "Mattina per i vicoli; sera per cena. Trastevere il sabato sera è molto affollata.",
         "tempo": "mezza giornata",
+        "costo": "passeggiata gratuita; Santa Maria in Trastevere a ingresso libero",
+        "lat": 41.8894,
+        "lng": 12.47,
         "consiglio": "Per mangiare bene allontanarsi dai ristoranti con camerieri che invitano a entrare. A Testaccio, al Pigneto o a San Lorenzo si mangia una cacio e pepe fatta bene, spesso a una frazione del prezzo dei locali vicino ai monumenti."
+      },
+      {
+        "nome": "Castel Sant'Angelo",
+        "testo": "Nato come mausoleo di Adriano, è diventato fortezza, prigione e rifugio dei papi, collegato al Vaticano dal Passetto di Borgo. Dalla terrazza dell'Angelo si guarda San Pietro e il Tevere dall'alto.",
+        "come": "A piedi dal Vaticano lungo via della Conciliazione, o da Piazza Navona attraversando ponte Sant'Angelo. Si sale per la rampa elicoidale romana fino alle terrazze.",
+        "quando": "Nel tardo pomeriggio, per il tramonto sulla cupola di San Pietro.",
+        "tempo": "1h30-2 ore",
+        "costo": "circa 18 € (dal 1 luglio 2026)",
+        "orari": "Martedì-domenica 9-19:30. Chiuso il lunedì, il 1 maggio e il 25 dicembre.",
+        "lat": 41.9031,
+        "lng": 12.4663,
+        "consiglio": "Si abbina bene alla mattina in Vaticano: si esce dai Musei, si pranza a Borgo e si arriva qui nel pomeriggio."
+      },
+      {
+        "nome": "Fontana di Trevi",
+        "testo": "La fontana barocca di Nicola Salvi, finita nel 1762, addossata a Palazzo Poli in una piazza minuscola. È lo scenario della Dolce Vita e di milioni di monetine lanciate di spalle.",
+        "come": "A piedi da Piazza di Spagna o dal Pantheon, in dieci minuti. Dal 2026 l'area ai bordi della vasca è a pagamento e ad accesso contingentato; la piazza resta libera.",
+        "quando": "Prima delle 8 del mattino o dopo le 22: di giorno la piazza è impraticabile.",
+        "tempo": "15-20 minuti",
+        "costo": "2 € (2026) per scendere alla vasca; vista dalla piazza gratuita",
+        "lat": 41.9009,
+        "lng": 12.4833,
+        "consiglio": "Non si entra nella fontana e non ci si siede sul bordo: i vigili multano."
+      },
+      {
+        "nome": "Piazza Navona",
+        "testo": "La piazza ha la forma dello stadio di Domiziano, su cui è costruita. Al centro c'è la Fontana dei Quattro Fiumi del Bernini, di fronte alla facciata di Sant'Agnese in Agone del Borromini.",
+        "come": "A piedi dal Pantheon in cinque minuti; bus fino a corso Rinascimento o Largo Argentina.",
+        "quando": "Al mattino presto o dopo cena; a dicembre c'è il mercatino della Befana.",
+        "tempo": "30 minuti",
+        "costo": "gratuita",
+        "lat": 41.8992,
+        "lng": 12.4731,
+        "consiglio": "I resti dello stadio si vedono sotto la piazza, lato piazza di Tor Sanguigna, anche da fuori."
+      },
+      {
+        "nome": "Piazza di Spagna e Trinità dei Monti",
+        "testo": "La scalinata settecentesca sale dalla Barcaccia del Bernini alla chiesa di Trinità dei Monti. Intorno ci sono via Condotti e le strade della moda; dall'alto si arriva al Pincio a piedi.",
+        "come": "Metro A fermata Spagna, che sbuca accanto alla piazza.",
+        "quando": "Mattina presto per la scalinata vuota; a primavera ci sono le azalee.",
+        "tempo": "30-45 minuti",
+        "costo": "gratuita",
+        "lat": 41.9058,
+        "lng": 12.4823,
+        "consiglio": "Sedersi sui gradini è vietato e sanzionato."
+      },
+      {
+        "nome": "Musei Capitolini",
+        "testo": "Il museo pubblico più antico del mondo, sulla piazza del Campidoglio disegnata da Michelangelo. Ci sono la Lupa, il Marco Aurelio originale a cavallo, Caravaggio e, dal Tabularium, la vista migliore sul Foro.",
+        "come": "A piedi da Piazza Venezia salendo la Cordonata. Biglietto online o in biglietteria.",
+        "quando": "Nel pomeriggio, dopo il Colosseo: il Tabularium al tramonto guarda il Foro con la luce migliore.",
+        "tempo": "2-3 ore",
+        "orari": "Tutti i giorni 9:30-19:30, ultimo ingresso un'ora prima. Chiusi il 1 gennaio, il 1 maggio e il 25 dicembre.",
+        "lat": 41.893,
+        "lng": 12.4828,
+        "url": "https://www.museicapitolini.org/"
+      },
+      {
+        "nome": "Terme di Caracalla",
+        "testo": "Le terme del III secolo, con muri alti più di trenta metri e mosaici ancora a terra, danno la scala vera dell'architettura romana. D'estate ospitano la stagione dell'Opera di Roma all'aperto.",
+        "come": "Metro B fino a Circo Massimo e dieci minuti a piedi; dal Colosseo sono circa venti minuti.",
+        "quando": "Mattina, quando c'è poca gente; d'estate la sera per l'opera.",
+        "tempo": "1-1h30",
+        "orari": "Dal martedì alla domenica dalle 9, con chiusura che varia con la stagione. Chiuse il lunedì.",
+        "lat": 41.879,
+        "lng": 12.4925,
+        "consiglio": "È uno dei siti grandi meno affollati di Roma: si abbina al Circo Massimo e all'Aventino con il giardino degli Aranci."
+      },
+      {
+        "nome": "Santa Maria Maggiore",
+        "testo": "Una delle quattro basiliche papali, con i mosaici del V secolo nella navata e il soffitto a cassettoni dorato. Dal 2025 vi è sepolto papa Francesco, e la sua tomba richiama molti visitatori.",
+        "come": "A piedi da Termini in dieci minuti, o dalla metro A/B a Termini o Cavour. Ingresso libero dopo il controllo, spalle e ginocchia coperte.",
+        "quando": "Al mattino, prima che arrivino i gruppi alla tomba.",
+        "tempo": "30-45 minuti",
+        "costo": "ingresso gratuito",
+        "lat": 41.8976,
+        "lng": 12.4984
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: Colosseo e Foro Romano con biglietto prenotato, prima che arrivi la folla.",
-          "Pranzo lontano dai monumenti, a Monti o a Testaccio.",
-          "Pomeriggio al Pantheon e a San Luigi dei Francesi.",
-          "Passeggiata a Piazza Navona e, al tramonto, ponte Sant'Angelo.",
+          "Mattina: Colosseo, Foro Romano e Palatino con biglietto nominativo prenotato, alla prima fascia.",
+          "Pranzo a Monti, lontano dai monumenti.",
+          "Pomeriggio: Pantheon, San Luigi dei Francesi e Piazza Navona.",
+          "Fontana di Trevi dopo cena, quando la piazza si svuota.",
           "Cena a Trastevere o nel Ghetto."
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Colosseo, Foro e Palatino al mattino; San Clemente e pranzo a Monti; Pantheon e San Luigi dei Francesi nel pomeriggio.",
-          "Giorno 2: Musei Vaticani alla prima fascia e San Pietro; pranzo a Prati; pomeriggio libero a Trastevere e cena nel Ghetto."
+          "Giorno 1: Colosseo, Foro e Palatino al mattino; San Clemente e pranzo a Monti; Musei Capitolini al tramonto.",
+          "Giorno 2: Musei Vaticani alla prima fascia e San Pietro; pranzo a Borgo o Prati; Castel Sant'Angelo; Pantheon, San Luigi dei Francesi, Piazza Navona e Trevi la sera."
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: Colosseo, Foro e Palatino, San Clemente.",
-          "Giorno 2: Musei Vaticani e San Pietro, poi Castel Sant'Angelo e Piazza Navona.",
-          "Giorno 3: Galleria Borghese alla mattina con prenotazione; nel pomeriggio l'Appia Antica (meglio di domenica) o Trastevere e il Ghetto."
+          "Giorno 1: Colosseo, Foro e Palatino, San Clemente, Musei Capitolini.",
+          "Giorno 2: Musei Vaticani e San Pietro, Castel Sant'Angelo, Piazza Navona e Pantheon.",
+          "Giorno 3: Galleria Borghese al mattino, Piazza di Spagna e Trevi; nel pomeriggio l'Appia Antica (meglio di domenica) o le Terme di Caracalla e Trastevere."
         ]
       }
     ],
@@ -931,22 +1038,52 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Monti",
         "perChi": "chi vuole un rione vivo vicino a Colosseo e Termini",
-        "testo": "Vicoli, botteghe e locali a piedi dal Colosseo. Un po' rumorosa la sera, con pochi grandi hotel e molti appartamenti. Comoda per metro e treni."
+        "testo": "Vicoli, botteghe e locali a piedi dal Colosseo. Un po' rumorosa la sera, con pochi grandi hotel e molti appartamenti. Comoda per metro e treni.",
+        "fascia": "130-250 €"
       },
       {
         "nome": "Trastevere",
         "perChi": "chi vuole la vita serale",
-        "testo": "Vicoli, osterie e musica. Affollata e rumorosa nei fine settimana; i ristoranti sulle vie principali sono turistici. Il centro si raggiunge a piedi attraversando il Tevere."
+        "testo": "Vicoli, osterie e musica. Affollata e rumorosa nei fine settimana; i ristoranti sulle vie principali sono turistici. Il centro si raggiunge a piedi attraversando il Tevere.",
+        "fascia": "120-220 €"
       },
       {
         "nome": "Prati",
         "perChi": "chi vuole spendere meno e vedere il Vaticano",
-        "testo": "Quartiere residenziale con prezzi più bassi e la metro A per San Pietro e per Termini. Poco affascinante, ma tranquillo e comodo."
+        "testo": "Quartiere residenziale con prezzi più bassi e la metro A per San Pietro e per Termini. Poco affascinante, ma tranquillo e comodo.",
+        "fascia": "100-180 €"
       },
       {
         "nome": "Testaccio",
         "perChi": "chi vuole mangiare bene e stare fuori dalla calca",
-        "testo": "Quartiere popolare con trattorie storiche e il mercato. Un po' fuori mano dal centro e dai monumenti, ma ben collegato dalla metro B."
+        "testo": "Quartiere popolare con trattorie storiche e il mercato. Un po' fuori mano dal centro e dai monumenti, ma ben collegato dalla metro B.",
+        "fascia": "90-160 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Tivoli: Villa d'Este e Villa Adriana",
+        "distanza": "30 km, circa 1 ora",
+        "come": "Treno regionale da Tiburtina o bus Cotral da Ponte Mammolo (metro B); tra le due ville c'è un bus locale.",
+        "testo": "Le fontane rinascimentali di Villa d'Este e l'immensa residenza dell'imperatore Adriano, entrambe patrimonio UNESCO. Insieme occupano una giornata intera."
+      },
+      {
+        "nome": "Ostia Antica",
+        "distanza": "25 km, circa 40 minuti",
+        "come": "Treno Roma-Lido da Piramide (metro B) fino a Ostia Antica, con il biglietto urbano.",
+        "testo": "Il porto di Roma antica: strade, case, terme, un teatro e le botteghe con i mosaici delle corporazioni. È una Pompei con meno folla, a mezz'ora dal centro."
+      },
+      {
+        "nome": "Orvieto",
+        "distanza": "1 ora-1h20 in treno",
+        "come": "Treno regionale o Intercity da Termini, poi funicolare dalla stazione alla rupe.",
+        "testo": "Una città di tufo sulla rupe, con il Duomo dalla facciata a mosaici e gli affreschi di Signorelli. Sotto c'è una seconda città di grotte e pozzi."
+      },
+      {
+        "nome": "Castelli Romani e Frascati",
+        "distanza": "20 km, 30 minuti in treno",
+        "come": "Treno regionale da Termini a Frascati; per Castel Gandolfo e Nemi meglio l'auto.",
+        "testo": "Paesi sui colli vulcanici con il vino bianco di Frascati, le fraschette e i laghi di Albano e Nemi. È la gita che fanno i romani la domenica."
       }
     ],
     sapori: [
@@ -982,6 +1119,32 @@ export const destinazioniItalia: Destinazione[] = [
       "Taxi: salire solo su quelli bianchi con licenza, con tariffa fissa dall'aeroporto di Fiumicino al centro entro le Mura Aureliane. Rifiutare chi propone corse a prezzo concordato all'uscita dagli arrivi.",
       "Finti centurioni e persone che mettono braccialetti o rose in mano chiedono soldi dopo: dire no con decisione. Non entrare nelle fontane, c'è una multa.",
       "Tassa di soggiorno per notte, da pagare in struttura; l'importo dipende dalla categoria. Il centro storico ha una ZTL con telecamere: se si arriva in auto, chiedere all'hotel come fare per non prendere la multa."
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono per visitare Roma?",
+        "risposta": "Tre giorni bastano per Colosseo, Vaticano e centro storico senza correre. Con quattro o cinque si aggiungono Borghese, Appia Antica e una gita a Tivoli o Ostia."
+      },
+      {
+        "domanda": "Bisogna prenotare il Colosseo?",
+        "risposta": "Sì, di fatto: il biglietto è nominativo e a fascia oraria, e le fasce migliori finiscono con settimane di anticipo. Si compra solo sul sito ufficiale e all'ingresso si mostra il documento."
+      },
+      {
+        "domanda": "Si possono fare Vaticano e Colosseo nello stesso giorno?",
+        "risposta": "Si può, ma è sconsigliato: sono due mezze giornate faticose ai lati opposti del centro. Meglio dedicare a ciascuno una mattina."
+      },
+      {
+        "domanda": "Dove dormire a Roma la prima volta?",
+        "risposta": "Monti per stare a piedi dal Colosseo, Trastevere per la sera, Prati per spendere meno ed essere vicini al Vaticano. Una doppia va da circa 90 € a Testaccio a oltre 200 € a Monti in alta stagione."
+      },
+      {
+        "domanda": "Quando i musei di Roma sono gratis?",
+        "risposta": "La prima domenica del mese per Colosseo, Pantheon e musei statali, l'ultima domenica del mese per i Musei Vaticani. Sono le giornate con le code più lunghe dell'anno."
+      },
+      {
+        "domanda": "Come si va da Fiumicino al centro di Roma?",
+        "risposta": "Il Leonardo Express arriva a Termini in 32 minuti per 14 €. Il taxi bianco ha una tariffa fissa di 55 € fino al centro dentro le Mura Aureliane."
+      }
     ],
     esperienzeSlugs: ['roma-sotterranea', 'appia-antica'],
     tripSlugs: ['roma-4-giorni', 'grandi-citta-italia'],
@@ -1020,13 +1183,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'La cucina toscana è povera e di materia prima: ribollita, pappa al pomodoro, panzanella d\'estate, e la bistecca alla fiorentina, un taglio preciso, alto almeno tre dita, cotto al sangue senza discussioni e servito al chilo. Da provare i panini con il lampredotto ai banchi, la cosa più fiorentina che ci sia, e i crostini di fegatini. Il mercato di Sant\'Ambrogio è quello dei residenti; quello centrale di San Lorenzo, al primo piano, è diventato una food court.',
     comeArrivare:
-      'Alta velocità: Firenze Santa Maria Novella è in centro, a quindici minuti a piedi dal Duomo, e collega Milano in un\'ora e quaranta e Roma in un\'ora e mezza. L\'aeroporto di Firenze è piccolo; Pisa e Bologna sono le alternative con collegamento in treno.',
+      'Alta velocità: Firenze Santa Maria Novella è in centro, a quindici minuti a piedi dal Duomo, e collega Milano in un\'ora e quaranta e Roma in un\'ora e mezza. L\'aeroporto di Firenze è piccolo; Pisa e Bologna sono le alternative con collegamento in treno. Dall\'aeroporto di Peretola la tramvia T2 arriva accanto a Santa Maria Novella in circa 20 minuti, con biglietto da circa 2 €; il taxi ha una tariffa fissa per il centro di circa 28 € di giorno. Da Pisa il Pisa Mover e il treno regionale portano a Firenze in poco più di un\'ora.',
     comeSpostarsi:
       'Tutto a piedi: il centro storico è piccolo, ed è il suo pregio e insieme la causa della congestione. La tramvia serve la periferia e l\'aeroporto. **L\'auto in centro è inutile e la ZTL la multa**, con telecamere che sanzionano chi non lo sa.',
     periodoMigliore:
       'novembre, gennaio e febbraio sono i mesi in cui la città torna vivibile e i musei si visitano senza code infinite. Aprile-giugno e settembre-ottobre sono i più belli e i più pieni. Luglio e agosto sono caldissimi e saturi.',
     costi:
-      'Uffizi e Accademia hanno tariffe più alte in alta stagione; il biglietto cumulativo del complesso del Duomo copre cupola, battistero, campanile, cripta e museo ed è l\'unico modo di salire. **Le prime domeniche del mese i musei statali sono gratuiti**, e quindi ci sono code enormi.',
+      'Uffizi e Accademia hanno tariffe più alte in alta stagione; il biglietto cumulativo del complesso del Duomo copre cupola, battistero, campanile, cripta e museo ed è l\'unico modo di salire. **Le prime domeniche del mese i musei statali sono gratuiti**, e quindi ci sono code enormi. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 70-90 €, medio 120-170 €, alto oltre 250 €.',
     erroriDaEvitare: [
       'Presentarsi agli Uffizi o all\'Accademia senza prenotazione: le code arrivano a ore, e in alta stagione si rischia di non entrare',
       'Non prenotare la salita alla cupola, che ha fasce orarie contingentate e si esaurisce con giorni di anticipo',
@@ -1044,6 +1207,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In pieno centro, a piedi dalla stazione. La salita alla cupola è a fascia oraria e va prenotata online sul sito ufficiale dell'Opera del Duomo. L'ingresso in cattedrale è gratuito, con una coda ai controlli.",
         "quando": "Prima fascia del mattino, per salire con poca gente. La scala è stretta e non ci sono ascensori: non adatto a chi soffre di claustrofobia o di vertigini.",
         "tempo": "1 ora e mezza per la cupola, più la cattedrale",
+        "costo": "cattedrale gratuita; Brunelleschi Pass circa 30 € (2026), valido tre giorni per cupola, Battistero, Campanile, Museo dell'Opera e cripta",
+        "lat": 43.7731,
+        "lng": 11.256,
         "url": "https://www.duomo.firenze.it/",
         "consiglio": "Ho salito la cupola alla prima fascia, alle otto e mezza: è un'altra esperienza rispetto a mezzogiorno. Si passa vicino agli affreschi e in cima c'è aria."
       },
@@ -1053,6 +1219,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A due passi dal Duomo, sul retro. Il biglietto cumulativo del complesso del Duomo comprende cupola, battistero, campanile, cripta e museo.",
         "quando": "Tutti i giorni; controllare gli orari sul sito. La mattina presto è quasi vuoto.",
         "tempo": "1 ora e mezza-2 ore",
+        "costo": "incluso nei pass del complesso del Duomo",
+        "lat": 43.7733,
+        "lng": 11.2577,
         "url": "https://www.duomo.firenze.it/",
         "consiglio": "Non lo salterei: dentro ci sono le porte del Battistero e l'ultima Pietà di Michelangelo, quella che voleva distruggere. Quando ci sono andato c'erano quattro persone."
       },
@@ -1063,6 +1232,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Da martedì a domenica 8:15-18:30, ultimo ingresso alle 17:30; chiuso il lunedì, il 1 gennaio e il 25 dicembre. Prima fascia del mattino o tardo pomeriggio.",
         "tempo": "3 ore",
         "costo": "25 euro il giorno stesso, 29 euro prenotando in anticipo (sito ufficiale, 2026)",
+        "orari": "Martedì-domenica 8:15-18:30. Chiusi il lunedì.",
+        "lat": 43.7678,
+        "lng": 11.2553,
         "url": "https://www.uffizi.it/",
         "consiglio": "Prenotare con settimane di anticipo in alta stagione. Tre ore bastano per le sale principali: provare a concentrarsi su Botticelli, Leonardo e Caravaggio."
       },
@@ -1072,6 +1244,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal Duomo, in via Ricasoli. Prenotazione consigliata.",
         "quando": "Chiusa il lunedì; orari e giornate gratuite sul sito ufficiale. Meglio la prima fascia del mattino.",
         "tempo": "1 ora-1 ora e mezza",
+        "costo": "circa 20 € più la prenotazione (2026)",
+        "orari": "Martedì-domenica 8:15-18:50. Chiusa il lunedì.",
+        "lat": 43.7768,
+        "lng": 11.2586,
+        "url": "https://www.galleriaaccademiafirenze.it/",
         "consiglio": "Il David si guarda meglio da vicino, camminando intorno: i Prigioni nella galleria aiutano a capire come lavorava Michelangelo. Prenotare con anticipo."
       },
       {
@@ -1080,6 +1257,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal Ponte Vecchio. I musei e il giardino si visitano con biglietti separati o cumulativi: controllare sul sito.",
         "quando": "Chiuso il lunedì. D'estate il giardino è caldo e senza ombra in molti punti: andare la mattina presto.",
         "tempo": "mezza giornata",
+        "costo": "Palazzo Pitti 16 € il giorno stesso, 19 € prenotando; Pitti e Boboli 22 € (sito ufficiale, 2026)",
+        "orari": "Palazzo Pitti martedì-domenica 8:15-18:30, chiuso il lunedì. Boboli dalle 8:15 al tramonto, chiuso il primo e l'ultimo lunedì del mese.",
+        "lat": 43.7651,
+        "lng": 11.25,
         "url": "https://www.uffizi.it/palazzo-pitti",
         "consiglio": "Il Giardino di Boboli è il posto giusto per riposare dopo la folla del centro. Portare acqua."
       },
@@ -1089,6 +1270,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In Oltrarno, in piazza del Carmine, a piedi dal centro. Ingresso a numero limitato e prenotazione consigliata.",
         "quando": "Controllare orari e giorni di chiusura sul sito dei musei civici fiorentini prima di andare.",
         "tempo": "45 minuti",
+        "lat": 43.768,
+        "lng": 11.244,
         "url": "https://museicivicifiorentini.comune.fi.it/",
         "consiglio": "È meno affollata dei grandi musei e altrettanto importante. Prima di entrare vale la pena di leggere due righe sul Masaccio: la visita è molto più interessante."
       },
@@ -1098,6 +1281,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal Ponte Vecchio, passando per Porta San Niccolò e le scale, o in bus. Poco sopra il Piazzale Michelangelo.",
         "quando": "Tutti i giorni. Il tardo pomeriggio, per il tramonto e il canto dei monaci. Controllare gli orari delle funzioni sul sito.",
         "tempo": "1 ora",
+        "costo": "ingresso libero",
+        "lat": 43.7595,
+        "lng": 11.265,
         "url": "https://www.sanminiatoalmonte.it/",
         "consiglio": "Poco sopra il Piazzale Michelangelo, che a quell'ora è un parcheggio con i venditori, c'è la stessa vista con meno gente. Nella cripta i monaci cantano in gregoriano nel pomeriggio."
       },
@@ -1107,33 +1293,120 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi attraversando il Ponte Vecchio o il Ponte alla Carraia. Non servono biglietti: si cammina e si entra nelle botteghe.",
         "quando": "Pomeriggio nei giorni feriali, quando le botteghe sono aperte. La domenica molte sono chiuse.",
         "tempo": "mezza giornata",
+        "costo": "passeggiata gratuita; basilica di Santo Spirito a ingresso libero o con offerta",
+        "lat": 43.7672,
+        "lng": 11.2479,
         "consiglio": "Chiedere sempre il permesso prima di fotografare dentro le botteghe. Per cenare, le trattorie dell'Oltrarno sono migliori e più economiche di quelle attorno al Duomo."
+      },
+      {
+        "nome": "Piazza della Signoria e Palazzo Vecchio",
+        "testo": "La piazza politica della città, con la copia del David, il Nettuno dell'Ammannati e la Loggia dei Lanzi piena di statue a cielo aperto. Palazzo Vecchio, ancora sede del Comune, ha il Salone dei Cinquecento e una torre da cui si vede la cupola alla stessa altezza.",
+        "come": "A piedi dal Duomo in cinque minuti lungo via dei Calzaiuoli. Museo e torre hanno biglietti separati o combinati.",
+        "quando": "La piazza la sera, quando i gruppi sono andati via; la torre con il bel tempo, perché con pioggia chiude.",
+        "tempo": "1h30-2 ore con il museo",
+        "costo": "piazza e Loggia dei Lanzi gratuite; museo e torre a pagamento",
+        "lat": 43.7694,
+        "lng": 11.2562
+      },
+      {
+        "nome": "Ponte Vecchio",
+        "testo": "L'unico ponte di Firenze risparmiato dai tedeschi nel 1944, con le botteghe degli orafi appese sull'Arno. Sopra corre il Corridoio Vasariano, che univa Palazzo Vecchio a Palazzo Pitti.",
+        "come": "A piedi dagli Uffizi; la vista migliore del ponte è da ponte Santa Trinita, il successivo verso ovest.",
+        "quando": "All'alba o al tramonto; di giorno è un corridoio di folla.",
+        "tempo": "15-20 minuti",
+        "costo": "gratuito",
+        "lat": 43.768,
+        "lng": 11.2531
+      },
+      {
+        "nome": "Museo del Bargello",
+        "testo": "Il palazzo del podestà, poi carcere, è oggi il museo della scultura: il David di Donatello, il Bacco di Michelangelo, i bronzi del Cellini e del Giambologna. Ha un cortile medievale tra i più belli della città.",
+        "come": "In via del Proconsolo, a tre minuti dalla Signoria. Fuori stagione di solito non serve prenotare.",
+        "quando": "Nel primo pomeriggio, quando gli Uffizi sono pieni.",
+        "tempo": "1h30",
+        "costo": "circa 12 € (2026); cumulativo con Accademia e Cappelle Medicee",
+        "orari": "Chiuso il lunedì.",
+        "lat": 43.7704,
+        "lng": 11.2581,
+        "url": "https://bargellomusei.it/"
+      },
+      {
+        "nome": "Basilica di Santa Croce",
+        "testo": "La grande chiesa francescana dove sono sepolti Michelangelo, Galileo, Machiavelli e Rossini. Nelle cappelle Bardi e Peruzzi ci sono gli affreschi di Giotto, nel chiostro la Cappella dei Pazzi del Brunelleschi.",
+        "come": "A piedi dalla Signoria in dieci minuti. Biglietto unico per basilica, chiostri e museo.",
+        "quando": "Al mattino; la domenica la visita apre solo nel pomeriggio.",
+        "tempo": "1-1h30",
+        "lat": 43.7686,
+        "lng": 11.2622,
+        "url": "https://www.santacroceopera.it/"
+      },
+      {
+        "nome": "Cappelle Medicee",
+        "testo": "Il mausoleo dei Medici dietro San Lorenzo: la Cappella dei Principi coperta di marmi e pietre dure e la Sagrestia Nuova di Michelangelo, con le tombe e le statue del Giorno, della Notte, dell'Aurora e del Crepuscolo.",
+        "come": "Ingresso da piazza Madonna degli Aldobrandini, a cinque minuti dal Duomo e dalla stazione.",
+        "quando": "In qualsiasi momento: raramente c'è coda.",
+        "tempo": "45 minuti-1 ora",
+        "costo": "circa 11 € (2026)",
+        "orari": "Chiuse il lunedì.",
+        "lat": 43.775,
+        "lng": 11.2532,
+        "url": "https://bargellomusei.it/"
+      },
+      {
+        "nome": "Santa Maria Novella",
+        "testo": "La basilica domenicana davanti alla stazione, con la facciata in marmo di Leon Battista Alberti. Dentro ci sono la Trinità di Masaccio, il Crocifisso di Giotto e la Cappella Tornabuoni affrescata dal Ghirlandaio.",
+        "come": "Davanti alla stazione di Santa Maria Novella; si entra dal lato della piazza o dal giardino. Biglietto d'ingresso per il complesso.",
+        "quando": "Appena arrivati o prima del treno: è a due passi dai binari.",
+        "tempo": "1 ora",
+        "lat": 43.7743,
+        "lng": 11.2493,
+        "url": "https://www.smn.it/"
+      },
+      {
+        "nome": "Piazzale Michelangelo",
+        "testo": "La terrazza panoramica sopra l'Oltrarno, con tutta Firenze davanti: cupola, Palazzo Vecchio, i ponti sull'Arno. È affollata e piena di venditori, ma è la cartolina classica.",
+        "come": "A piedi da Ponte Vecchio in circa 25 minuti, per le Rampe del Poggi o via San Niccolò; in bus 12 o 13.",
+        "quando": "Al mattino presto per la luce senza folla; al tramonto meglio salire fino a San Miniato.",
+        "tempo": "30 minuti più la salita",
+        "costo": "gratuito",
+        "lat": 43.7629,
+        "lng": 11.265
+      },
+      {
+        "nome": "Mercato Centrale e San Lorenzo",
+        "testo": "Il mercato coperto in ghisa dell'Ottocento: al piano terra banchi di carne, formaggi e lampredotto, al primo piano una food hall. Accanto c'è la basilica di San Lorenzo, la chiesa dei Medici, con la Biblioteca Laurenziana di Michelangelo.",
+        "come": "A cinque minuti dalla stazione e dal Duomo; si attraversa il mercato di bancarelle di pelletteria intorno.",
+        "quando": "Al mattino per il mercato vero; a pranzo per la food hall.",
+        "tempo": "1 ora",
+        "costo": "ingresso libero al mercato",
+        "lat": 43.7765,
+        "lng": 11.2534,
+        "consiglio": "Le bancarelle di pelle intorno al mercato sono per turisti: la qualità va controllata pezzo per pezzo."
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: salita alla cupola del Brunelleschi con prenotazione.",
-          "Mattina: Museo dell'Opera del Duomo.",
-          "Primo pomeriggio: pranzo con panino al lampredotto o in una trattoria di Sant'Ambrogio.",
-          "Primo pomeriggio: Uffizi (sala a sala, senza voler vedere tutto).",
-          "Tramonto a San Miniato al Monte, poi cena in Oltrarno."
+          "Cupola alla prima fascia delle 8:30, poi Battistero e Museo dell'Opera del Duomo.",
+          "Piazza della Signoria e Loggia dei Lanzi; pranzo con il lampredotto al Mercato Centrale o a Sant'Ambrogio.",
+          "Uffizi nel pomeriggio, con fascia prenotata.",
+          "Ponte Vecchio e Oltrarno; al tramonto San Miniato al Monte."
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: cupola al mattino presto, Museo dell'Opera del Duomo, pranzo a Sant'Ambrogio, Uffizi nel pomeriggio.",
-          "Giorno 2: Accademia e David alla prima fascia; Oltrarno con Cappella Brancacci e Santo Spirito; tramonto a San Miniato."
+          "Giorno 1: cupola e Museo dell'Opera, Signoria e Palazzo Vecchio, Uffizi nel pomeriggio, Ponte Vecchio al tramonto.",
+          "Giorno 2: Accademia per il David all'apertura, Cappelle Medicee e Mercato Centrale; nel pomeriggio Santa Croce, poi Oltrarno, Santo Spirito e San Miniato al tramonto."
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: cupola, Museo dell'Opera del Duomo, centro storico a piedi.",
-          "Giorno 2: Uffizi al mattino, Accademia al pomeriggio.",
-          "Giorno 3: Palazzo Pitti e Boboli, Cappella Brancacci, Oltrarno; San Miniato al tramonto."
+          "Giorno 1: complesso del Duomo, Signoria, Uffizi.",
+          "Giorno 2: Accademia, Cappelle Medicee, Bargello, Santa Croce.",
+          "Giorno 3: Palazzo Pitti e Boboli, Cappella Brancacci, Santo Spirito e le botteghe; tramonto a San Miniato, oppure gita a Fiesole."
         ]
       }
     ],
@@ -1141,22 +1414,52 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Oltrarno",
         "perChi": "chi vuole un quartiere vivo a cinque minuti dal centro",
-        "testo": "Botteghe, trattorie e piazze. Più tranquillo del centro, con prezzi leggermente più bassi. San Frediano è il rione per la sera."
+        "testo": "Botteghe, trattorie e piazze. Più tranquillo del centro, con prezzi leggermente più bassi. San Frediano è il rione per la sera.",
+        "fascia": "110-200 €"
       },
       {
         "nome": "Sant'Ambrogio",
         "perChi": "chi cerca prezzi più bassi e un mercato vero",
-        "testo": "Zona residenziale a est del Duomo, con il mercato dei fiorentini e molte trattorie. Un po' fuori dai percorsi dei turisti."
+        "testo": "Zona residenziale a est del Duomo, con il mercato dei fiorentini e molte trattorie. Un po' fuori dai percorsi dei turisti.",
+        "fascia": "100-180 €"
       },
       {
         "nome": "Santa Maria Novella",
         "perChi": "chi arriva in treno e riparte presto",
-        "testo": "Vicina alla stazione: comoda per i treni e per i bus verso la Toscana. Zona più trafficata e meno bella la sera."
+        "testo": "Vicina alla stazione: comoda per i treni e per i bus verso la Toscana. Zona più trafficata e meno bella la sera.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Centro storico (Duomo e Signoria)",
         "perChi": "chi vuole tutto a piedi e non bada ai prezzi",
-        "testo": "Comodissimo e caro. La sera ci sono pochi residenti e molti turisti, e il rumore delle strade pedonali arriva fino alle camere."
+        "testo": "Comodissimo e caro. La sera ci sono pochi residenti e molti turisti, e il rumore delle strade pedonali arriva fino alle camere.",
+        "fascia": "150-300 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Siena",
+        "distanza": "75 km, 1h15 in bus",
+        "come": "Bus diretti da Firenze, che arrivano più vicini al centro del treno; in treno 1h30 con risalita in scale mobili.",
+        "testo": "Piazza del Campo, il Duomo con il pavimento a intarsi e il Palazzo Pubblico con il Buongoverno di Lorenzetti. È la rivale gotica di Firenze."
+      },
+      {
+        "nome": "Pisa e Lucca",
+        "distanza": "1 ora in treno ciascuna",
+        "come": "Treni regionali frequenti da Santa Maria Novella; tra Pisa e Lucca ci sono 30 minuti di treno.",
+        "testo": "Piazza dei Miracoli a Pisa al mattino, le mura alberate di Lucca da girare in bici nel pomeriggio. Si fanno bene nello stesso giorno."
+      },
+      {
+        "nome": "Chianti",
+        "distanza": "30-60 km, 45 minuti in auto",
+        "come": "In auto o con un tour organizzato; il bus per Greve c'è ma rende difficile girare più cantine.",
+        "testo": "Colline di vigne e cipressi tra Greve, Panzano, Radda e Castellina, con degustazioni in cantina. Chi guida non beve: meglio un tour con autista."
+      },
+      {
+        "nome": "Fiesole",
+        "distanza": "8 km, 20-30 minuti in bus",
+        "come": "Bus urbano 7 da piazza San Marco, con il normale biglietto.",
+        "testo": "Il paese etrusco sulla collina, con il teatro romano e la vista su Firenze dal convento di San Francesco. È mezza giornata fresca d'estate."
       }
     ],
     sapori: [
@@ -1192,6 +1495,32 @@ export const destinazioniItalia: Destinazione[] = [
       "Borseggi alla stazione Santa Maria Novella, sugli autobus affollati e nei punti più visitati come Ponte Vecchio. Tenere borse chiuse e davanti.",
       "Al ristorante controllare il prezzo della bistecca all'etto e il coperto. Diffidare di locali con menu turistici attorno al Duomo e a Piazza della Signoria.",
       "Tassa di soggiorno per notte, da pagare in struttura. In caso di scioperi dei trasporti, tenere un margine di tempo."
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Firenze?",
+        "risposta": "Due giorni pieni per Duomo, Uffizi, Accademia e Oltrarno; tre per aggiungere Pitti, Bargello e Santa Croce senza correre. Con quattro si fa una gita a Siena o nel Chianti."
+      },
+      {
+        "domanda": "Bisogna prenotare la cupola del Brunelleschi?",
+        "risposta": "Sì: la salita ha fasce orarie contingentate e si prenota insieme al Brunelleschi Pass sul sito dell'Opera del Duomo. In alta stagione le fasce finiscono con settimane di anticipo."
+      },
+      {
+        "domanda": "Uffizi e Accademia vanno prenotati?",
+        "risposta": "Conviene sempre, soprattutto da aprile a ottobre, quando senza prenotazione la coda arriva a ore. Entrambi sono chiusi il lunedì."
+      },
+      {
+        "domanda": "Si può entrare in auto nel centro di Firenze?",
+        "risposta": "No: il centro è una ZTL con telecamere e le multe arrivano a casa mesi dopo. Si lascia l'auto in un parcheggio fuori dalla ZTL e si gira a piedi."
+      },
+      {
+        "domanda": "Come si arriva in centro dall'aeroporto di Pisa?",
+        "risposta": "Pisa Mover fino a Pisa Centrale in 5 minuti, poi treno regionale per Santa Maria Novella in circa un'ora, circa 9 € in tutto per il treno. In alternativa ci sono bus diretti in circa 1h10."
+      },
+      {
+        "domanda": "Dove dormire a Firenze?",
+        "risposta": "Oltrarno o Sant'Ambrogio per un quartiere vissuto, Santa Maria Novella per la comodità del treno. In centro una doppia parte da circa 150 € e supera spesso i 250 € in alta stagione."
+      }
     ],
     esperienzeSlugs: ['cupola-brunelleschi'],
     tripSlugs: ['firenze-3-giorni', 'grandi-citta-italia'],
@@ -1230,13 +1559,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'La cucina veneziana è di laguna e di pesce povero: sarde in saor, baccalà mantecato, moeche (i granchi in muta, stagionali e costosissimi), risotto di gò, fegato alla veneziana. Il modo giusto di mangiare è il **giro di bacari**: piccole osterie dove si mangiano i cicheti in piedi al banco (mezzo uovo con l\'acciuga, polpette, baccalà su un crostino) con un\'ombra di vino, spostandosi da una all\'altra. Costa poco e si mangia benissimo, purché si esca dagli assi principali.',
     comeArrivare:
-      'Treno fino a Venezia Santa Lucia, che è **dentro** la città: è il modo più sensato di arrivarci. Aeroporto Marco Polo, collegato con vaporetto Alilaguna o bus a Piazzale Roma. In auto si arriva solo fino a Piazzale Roma o al Tronchetto, con parcheggi carissimi.',
+      'Treno fino a Venezia Santa Lucia, che è **dentro** la città: è il modo più sensato di arrivarci. Aeroporto Marco Polo, collegato con vaporetto Alilaguna o bus a Piazzale Roma. In auto si arriva solo fino a Piazzale Roma o al Tronchetto, con parcheggi carissimi. Dal Marco Polo il bus ATVO o l\'Aerobus 5 arrivano a Piazzale Roma in 20-25 minuti per circa 10 €; l\'Alilaguna va a San Marco in circa 75 minuti per circa 15-18 €; il taxi acqueo privato parte da circa 120-150 € a barca.',
     comeSpostarsi:
       'A piedi e in vaporetto. **I biglietti singoli del vaporetto sono cari e i pass a tempo si ripagano subito** se si fa più di una corsa al giorno. I traghetti da gondola che attraversano il Canal Grande nei punti senza ponte costano pochi centesimi e quasi nessun visitatore sa che esistono.',
     periodoMigliore:
       'da novembre a febbraio, Carnevale escluso, Venezia torna a essere una città. Le giornate sono corte e umide, c\'è la possibilità di acqua alta (che oggi il MOSE limita ma non annulla), ma in cambio si hanno i campielli tutti per sé. Aprile-giugno e settembre-ottobre sono i mesi più belli e i più saturi.',
     costi:
-      '**Il contributo di accesso** si applica a chi entra in giornata senza pernottare, in un numero definito di giornate di alta stagione: nel 2026 si è pagato in 60 giornate tra aprile e luglio, 5 euro prenotando con almeno quattro giorni d\'anticipo e 10 euro sotto quella soglia. Chi pernotta in città ne è esente ma deve comunque registrarsi. Il calendario cambia ogni anno: conviene controllarlo prima di partire. Il pass vaporetto a tempo è quasi sempre conveniente; la gondola ha tariffe fissate dal Comune ed è comunque cara.',
+      '**Il contributo di accesso** si applica a chi entra in giornata senza pernottare, in un numero definito di giornate di alta stagione: nel 2026 si è pagato in 60 giornate tra aprile e luglio, 5 euro prenotando con almeno quattro giorni d\'anticipo e 10 euro sotto quella soglia. Chi pernotta in città ne è esente ma deve comunque registrarsi. Il calendario cambia ogni anno: conviene controllarlo prima di partire. Il pass vaporetto a tempo è quasi sempre conveniente; la gondola ha tariffe fissate dal Comune ed è comunque cara. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 80-100 € (dormendo a Mestre), medio 150-200 €, alto oltre 300 €.',
     erroriDaEvitare: [
       'Venire in giornata in alta stagione senza controllare il contributo di accesso e senza prenotarlo in anticipo, pagando il doppio',
       'Fare Venezia tra le dieci e le cinque e giudicarla: in quelle ore, sugli assi principali, è una folla compatta. Alle sette del mattino la stessa calle è vuota',
@@ -1254,6 +1583,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In Piazza San Marco, raggiungibile in vaporetto (fermata San Marco-San Zaccaria) o a piedi da Rialto. L'ingresso richiede abiti che coprano spalle e ginocchia. Zaini e borse grandi non entrano: ci sono depositi nelle vicinanze.",
         "quando": "Tutti i giorni; le prime ore del mattino sono le meno affollate. Nelle funzioni religiose l'accesso è limitato.",
         "tempo": "1 ora",
+        "costo": "circa 10 € con prenotazione online a orario (2026)",
+        "lat": 45.4345,
+        "lng": 12.3397,
         "url": "https://www.basilicasanmarco.it/",
         "consiglio": "Prenotare online l'ingresso per evitare la coda in piazza. La Pala d'Oro e il Museo con la Loggia dei Cavalli hanno biglietti propri: la loggia vale la salita, per vedere i mosaici da vicino e la piazza dall'alto."
       },
@@ -1264,6 +1596,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Aperto tutti i giorni: 9-19 da aprile a ottobre, 9-18 da novembre a marzo, ultimo ingresso un'ora prima della chiusura. Prima mattina o fine pomeriggio per evitare i gruppi.",
         "tempo": "2-3 ore",
         "costo": "35 euro intero con i Musei di Piazza San Marco, 30 euro comprando online più di 30 giorni prima (2026)",
+        "lat": 45.4337,
+        "lng": 12.3404,
         "url": "https://palazzoducale.visitmuve.it/",
         "consiglio": "Comprare online con più di un mese di anticipo fa risparmiare 5 euro e permette di saltare la coda. Se si ha tempo, gli Itinerari Segreti, con visita guidata, mostrano le stanze che il percorso normale non tocca."
       },
@@ -1273,6 +1607,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dalla stazione ferroviaria o da Piazzale Roma, vicino alla chiesa dei Frari (campo San Rocco). Con il vaporetto fermata San Tomà.",
         "quando": "Aperta tutti i giorni; controllare orari e chiusure sul sito. Le ore centrali sono tranquille.",
         "tempo": "1 ora",
+        "lat": 45.4365,
+        "lng": 12.3264,
         "url": "https://www.scuolagrandesanrocco.it/",
         "consiglio": "Prendere uno degli specchi in prestito all'ingresso per guardare i dipinti del soffitto. Nei Frari, a due passi, ci sono le pale di Tiziano e Bellini."
       },
@@ -1282,6 +1618,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dalla stazione o da San Marco, o in vaporetto fino a Rialto. Il mercato è ad alcuni minuti dal ponte.",
         "quando": "Mattina presto. Controllare i giorni di apertura della Pescheria. Il ponte si riempie in tarda mattinata.",
         "tempo": "1 ora",
+        "costo": "gratuito",
+        "orari": "Mercato del pesce dal martedì al sabato la mattina; chiuso domenica e lunedì.",
+        "lat": 45.4392,
+        "lng": 12.3343,
         "consiglio": "Dopo il mercato si va a mangiare cicheti ai bacari vicini. Guardare il ponte all'alba, quando è vuoto."
       },
       {
@@ -1290,6 +1630,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dalla stazione ferroviaria. Il museo ebraico organizza visite guidate alle sinagoghe.",
         "quando": "Aperto tutto l'anno; orari e chiusure del museo ebraico sul suo sito.",
         "tempo": "mezza giornata",
+        "costo": "passeggiata gratuita; sinagoghe solo con visita guidata del Museo Ebraico",
+        "lat": 45.4447,
+        "lng": 12.326,
         "consiglio": "Perdersi nelle calli lontane dall'asse stazione-Rialto: a Cannaregio è facile trovare Venezia come la vivono i residenti."
       },
       {
@@ -1298,6 +1641,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dalla fermata San Zaccaria si prende il vaporetto della linea 2 per San Giorgio, in pochi minuti. Il campanile ha l'ascensore.",
         "quando": "Tutti i giorni; il tardo pomeriggio dà la luce migliore su San Marco. Controllare l'orario dell'ascensore.",
         "tempo": "1 ora",
+        "costo": "chiesa gratuita; campanile a pagamento",
+        "lat": 45.4294,
+        "lng": 12.3433,
         "consiglio": "Dal campanile si vede San Marco e tutta la laguna con una frazione della folla che c'è sul campanile in piazza."
       },
       {
@@ -1306,6 +1652,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Fondamente Nove con il vaporetto 12 fino a Burano, e da lì con la linea 9 a Torcello.",
         "quando": "Tutti i giorni; la mattina è tranquilla. Controllare l'orario della basilica.",
         "tempo": "mezza giornata, abbinata a Burano",
+        "lat": 45.4977,
+        "lng": 12.418,
         "consiglio": "Ci sono andato in pieno giorno e c'erano venti persone: è lì che Venezia è cominciata, prima che esistesse Venezia."
       },
       {
@@ -1314,34 +1662,102 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In vaporetto da Fondamente Nove: la linea 12 ferma a Murano e prosegue per Burano. Al Museo del Vetro si vedono i pezzi storici.",
         "quando": "Tutto l'anno; la mattina presto è meno affollato. In inverno l'isola è tranquilla.",
         "tempo": "mezza giornata ciascuna",
+        "costo": "vaporetto con i pass ACTV; vetrerie di Murano spesso a ingresso libero",
+        "lat": 45.4853,
+        "lng": 12.4168,
         "consiglio": "Evitare le fornaci che portano i turisti con lance gratuite e poi spingono ad acquistare: acquistare il vetro marchiato Vetro Artistico Murano."
+      },
+      {
+        "nome": "Canal Grande in vaporetto (linea 1)",
+        "testo": "La linea 1 percorre tutto il Canal Grande fermando quasi a ogni pontile, davanti a Ca' d'Oro, Rialto, Ca' Rezzonico e la Salute. È il giro turistico più economico e più bello della città.",
+        "come": "Si sale a Ferrovia o Piazzale Roma e si scende a San Marco: circa 40 minuti. Conviene sedersi sui posti esterni a prua o a poppa.",
+        "quando": "Al mattino presto o di sera, quando i palazzi sono illuminati e c'è meno gente.",
+        "tempo": "40 minuti",
+        "costo": "corsa singola circa 9,50 €, pass 24 ore circa 25 € (2026)",
+        "lat": 45.441,
+        "lng": 12.3215,
+        "url": "https://actv.avmspa.it/"
+      },
+      {
+        "nome": "Gallerie dell'Accademia",
+        "testo": "La pinacoteca della pittura veneziana, da Bellini e Carpaccio a Giorgione, Tiziano, Tintoretto e Veronese. Qui c'è la Tempesta di Giorgione e il Convito in casa di Levi del Veronese.",
+        "come": "Fermata vaporetto Accademia, ai piedi del ponte di legno, in Dorsoduro.",
+        "quando": "Chiuse il lunedì dal 2026: meglio la mattina, dal martedì alla domenica.",
+        "tempo": "2 ore",
+        "costo": "circa 15 € (2026)",
+        "orari": "Martedì-domenica 9-19, biglietteria fino alle 18. Chiuse il lunedì.",
+        "lat": 45.4312,
+        "lng": 12.3282,
+        "url": "https://www.gallerieaccademia.it/"
+      },
+      {
+        "nome": "Collezione Peggy Guggenheim",
+        "testo": "La casa-museo di Peggy Guggenheim in un palazzo incompiuto sul Canal Grande, con Pollock, Magritte, Ernst, Picasso e Calder. Il giardino delle sculture e la terrazza sull'acqua valgono la visita da soli.",
+        "come": "A cinque minuti a piedi dall'Accademia, in Dorsoduro; biglietto online consigliato.",
+        "quando": "In tarda mattinata, dopo le Gallerie dell'Accademia.",
+        "tempo": "1h30",
+        "costo": "circa 17 € (2026)",
+        "orari": "Dalle 10 alle 18. Chiusa il martedì.",
+        "lat": 45.4309,
+        "lng": 12.3315,
+        "url": "https://www.guggenheim-venice.it/"
+      },
+      {
+        "nome": "Basilica dei Frari",
+        "testo": "La grande chiesa gotica francescana di San Polo, con l'Assunta di Tiziano sull'altare maggiore e la sua Pala Pesaro. Ci sono le tombe di Tiziano e di Canova.",
+        "come": "A piedi da San Rocco, che è accanto, o da Rialto in quindici minuti. Biglietto d'ingresso, oppure Chorus Pass.",
+        "quando": "Da abbinare a San Rocco nella stessa mattina.",
+        "tempo": "45 minuti",
+        "costo": "circa 8 € (2026)",
+        "lat": 45.4371,
+        "lng": 12.3267,
+        "url": "https://www.basilicadeifrari.it/"
+      },
+      {
+        "nome": "Campanile di San Marco",
+        "testo": "Il campanile di 98 metri, ricostruito identico dopo il crollo del 1902. Si sale in ascensore e dalla cella campanaria si vedono la laguna, le isole e, nelle giornate limpide, le Dolomiti.",
+        "come": "In Piazza San Marco; biglietto online con orario per evitare la coda.",
+        "quando": "In una giornata tersa d'inverno, oppure all'ultima ora per il tramonto.",
+        "tempo": "30-45 minuti",
+        "lat": 45.434,
+        "lng": 12.339,
+        "consiglio": "Se la coda è lunga, la vista da San Giorgio Maggiore è simile e con meno gente."
+      },
+      {
+        "nome": "Santa Maria della Salute",
+        "testo": "La basilica barocca del Longhena, votata dopo la peste del 1630, chiude il Canal Grande davanti a San Marco. Nella sagrestia ci sono tele di Tiziano e le Nozze di Cana del Tintoretto.",
+        "come": "Fermata vaporetto Salute, o a piedi dall'Accademia; dalla Piazza si attraversa in traghetto da gondola dove c'è il servizio.",
+        "quando": "Il 21 novembre, festa della Salute, con il ponte di barche dalla riva opposta.",
+        "tempo": "30-45 minuti",
+        "costo": "basilica gratuita; sagrestia con piccolo biglietto",
+        "lat": 45.4308,
+        "lng": 12.3346
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: passeggiata da Rialto a San Marco, quando le calli sono vuote.",
-          "Mattina: Basilica di San Marco con ingresso prenotato.",
-          "Mattina: Palazzo Ducale.",
-          "Primo pomeriggio: giro di bacari a Cannaregio o a Castello.",
-          "Primo pomeriggio: Scuola Grande di San Rocco.",
-          "Tramonto in vaporetto lungo tutto il Canal Grande."
+          "Arrivo a Santa Lucia e Canal Grande in vaporetto linea 1 fino a San Marco.",
+          "Basilica di San Marco con prenotazione, poi Palazzo Ducale.",
+          "Pranzo a cicchetti verso Rialto e il mercato.",
+          "Pomeriggio tra San Polo e i Frari, con la Scuola Grande di San Rocco.",
+          "Sera a Cannaregio, sulla Fondamenta della Misericordia."
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: alba tra Rialto e San Marco, Basilica, Palazzo Ducale, San Giorgio Maggiore al tramonto.",
-          "Giorno 2: Rialto e mercato, Scuola Grande di San Rocco e Frari, Cannaregio e il Ghetto, giro di bacari."
+          "Giorno 1: Canal Grande in vaporetto, San Marco, Palazzo Ducale, Campanile; sera a Cannaregio.",
+          "Giorno 2: Rialto al mattino, Frari e San Rocco, Dorsoduro con Accademia o Guggenheim, Salute al tramonto e San Giorgio Maggiore in vaporetto."
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: San Marco, Palazzo Ducale, San Giorgio Maggiore.",
-          "Giorno 2: Rialto, San Rocco e Frari, Cannaregio e Ghetto.",
-          "Giorno 3: laguna: Murano, Burano e Torcello, con il vaporetto da Fondamente Nove."
+          "Giorno 1: Canal Grande, San Marco, Palazzo Ducale.",
+          "Giorno 2: Rialto, Frari, San Rocco, Gallerie dell'Accademia, Salute.",
+          "Giorno 3: laguna: Murano al mattino, Burano a pranzo, Torcello nel pomeriggio; rientro per cena a Castello."
         ]
       }
     ],
@@ -1349,22 +1765,46 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cannaregio",
         "perChi": "chi vuole una zona abitata e spendere meno",
-        "testo": "Vicino alla stazione, con canali ampi e osterie dei veneziani. Più tranquilla e meno cara del centro, a una passeggiata da San Marco."
+        "testo": "Vicino alla stazione, con canali ampi e osterie dei veneziani. Più tranquilla e meno cara del centro, a una passeggiata da San Marco.",
+        "fascia": "120-220 €"
       },
       {
         "nome": "Castello",
         "perChi": "chi cerca calma lontano da San Marco",
-        "testo": "Sestiere grande e residenziale, con zone molto quiete verso l'Arsenale e i Giardini. Poche cose da fare la sera, ma vicino a San Marco."
+        "testo": "Sestiere grande e residenziale, con zone molto quiete verso l'Arsenale e i Giardini. Poche cose da fare la sera, ma vicino a San Marco.",
+        "fascia": "130-240 €"
       },
       {
         "nome": "Dorsoduro",
         "perChi": "chi vuole musei e vita serale",
-        "testo": "Vicino alle Gallerie dell'Accademia e alla Collezione Guggenheim, con locali attorno a Campo Santa Margherita. Più viva la sera, un po' più cara."
+        "testo": "Vicino alle Gallerie dell'Accademia e alla Collezione Guggenheim, con locali attorno a Campo Santa Margherita. Più viva la sera, un po' più cara.",
+        "fascia": "150-280 €"
       },
       {
         "nome": "Mestre",
         "perChi": "chi vuole spendere il meno possibile",
-        "testo": "Sulla terraferma, a pochi minuti di treno da Venezia Santa Lucia. Costa meno, ma si perdono l'alba e la sera in città, che sono i momenti migliori. Chi dorme in centro storico è esente dal contributo di accesso."
+        "testo": "Sulla terraferma, a pochi minuti di treno da Venezia Santa Lucia. Costa meno, ma si perdono l'alba e la sera in città, che sono i momenti migliori. Chi dorme in centro storico è esente dal contributo di accesso.",
+        "fascia": "70-130 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Padova",
+        "distanza": "30 minuti in treno",
+        "come": "Treni regionali e alta velocità frequenti da Santa Lucia; la Cappella degli Scrovegni va prenotata.",
+        "testo": "La Cappella degli Scrovegni affrescata da Giotto, la basilica del Santo e le piazze del mercato sotto il Palazzo della Ragione. Una città universitaria viva e meno cara."
+      },
+      {
+        "nome": "Verona",
+        "distanza": "1h10 in alta velocità",
+        "come": "Frecciarossa o Italo da Santa Lucia a Verona Porta Nuova, poi 20 minuti a piedi fino all'Arena.",
+        "testo": "L'Arena romana, piazza delle Erbe, i ponti sull'Adige e la vista da Castel San Pietro. D'estate si può restare la sera per l'opera all'Arena."
+      },
+      {
+        "nome": "Chioggia",
+        "distanza": "1h30 tra vaporetto e bus",
+        "come": "Linea 11 dal Lido a Pellestrina e motonave per Chioggia, tutto con i biglietti ACTV.",
+        "testo": "Una piccola Venezia di pescatori, con canali, il mercato del pesce e quasi nessun turista. Il viaggio attraverso il Lido e Pellestrina fa parte della gita."
       }
     ],
     sapori: [
@@ -1400,6 +1840,32 @@ export const destinazioniItalia: Destinazione[] = [
       "Il biglietto singolo del vaporetto è caro e i pass a tempo convengono se si fanno più corse al giorno. Convalidare sempre il biglietto prima di salire.",
       "Ristoranti attorno a San Marco e Rialto con menu turistico e coperto alto: controllare il conto. La gondola ha tariffe fissate dal Comune; concordare il prezzo prima di salire.",
       "Acqua alta in autunno e inverno: il MOSE protegge la laguna, ma le passerelle si montano ancora quando la marea supera una certa soglia. Portare stivali di gomma leggeri. Divieti: nuotare nei canali, sedersi sui ponti e mangiare sui gradini dei monumenti."
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Venezia?",
+        "risposta": "Due giorni per San Marco, Rialto, i Frari e Dorsoduro; tre per aggiungere Murano, Burano e Torcello. Dormire in città permette di vederla la sera, quando i turisti di giornata sono partiti."
+      },
+      {
+        "domanda": "Si paga per entrare a Venezia?",
+        "risposta": "Solo chi arriva in giornata senza pernottare, in un calendario di giornate di alta stagione: nel 2026 5 € con prenotazione anticipata e 10 € a ridosso della data. Chi dorme in città è esente ma si registra."
+      },
+      {
+        "domanda": "Conviene il pass del vaporetto?",
+        "risposta": "Quasi sempre: una corsa singola costa circa 9,50 €, il pass di 24 ore circa 25 €. Con tre corse al giorno è già conveniente, e le isole lo rendono indispensabile."
+      },
+      {
+        "domanda": "Quanto costa un giro in gondola?",
+        "risposta": "Le tariffe sono fissate dal Comune: circa 90 € per 30 minuti di giorno, di più dopo le 19, per l'intera gondola fino a cinque persone. Per attraversare il Canal Grande il traghetto da gondola costa circa 2 €."
+      },
+      {
+        "domanda": "Meglio dormire a Venezia o a Mestre?",
+        "risposta": "Mestre costa circa la metà ed è a dieci minuti di treno, ma si perde la città di sera e al mattino presto. Per una o due notti vale la pena spendere di più e stare a Cannaregio o Castello."
+      },
+      {
+        "domanda": "Cosa succede con l'acqua alta?",
+        "risposta": "Da ottobre a gennaio può allagare la Piazza e le zone basse per qualche ora, in coincidenza con l'alta marea. Il MOSE protegge dalle maree più forti; per le altre bastano stivali di gomma e l'app delle maree del Comune."
+      }
     ],
     esperienzeSlugs: ['venezia-alba'],
     tripSlugs: ['venezia-3-giorni', 'grandi-citta-italia'],
@@ -1438,13 +1904,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'La pizza, con la differenza che qui è un cibo popolare e costa poco: l\'impasto alto sul cornicione, cotto novanta secondi a quattrocento gradi, morbido al centro al punto che si mangia piegata. Poi il ragù napoletano che cuoce ore, la genovese (che di genovese non ha niente), il babà, la sfogliatella riccia calda del mattino, e il caffè, che a Napoli è una cosa seria: corto, forte, bevuto in piedi. E la pizza a portafoglio da strada, che costa due euro.',
     comeArrivare:
-      'Alta velocità da Roma in poco più di un\'ora e da Milano in quattro e mezza, con la stazione di Napoli Centrale in città. Aeroporto di Capodichino, vicinissimo al centro. Per la Costiera e Pompei si usa la Circumvesuviana, che è lenta e affollata ma diretta.',
+      'Alta velocità da Roma in poco più di un\'ora e da Milano in quattro e mezza, con la stazione di Napoli Centrale in città. Aeroporto di Capodichino, vicinissimo al centro. Per la Costiera e Pompei si usa la Circumvesuviana, che è lenta e affollata ma diretta. Da Capodichino l\'Alibus arriva alla Stazione Centrale in 15-20 minuti e al Molo Beverello in circa 35, per circa 5 €; il taxi bianco ufficiale ha una tariffa predeterminata di circa 21 € per il centro storico, da chiedere prima di salire.',
     comeSpostarsi:
       'Metropolitana linea 1, con le «stazioni dell\'arte» che sono opere in sé, e funicolari verso il Vomero. Il centro si gira a piedi. **Per la costiera, il traghetto batte l\'auto e l\'autobus in ogni stagione**, e d\'estate la strada statale amalfitana è un ingorgo continuo.',
     periodoMigliore:
       'aprile-giugno e settembre-ottobre. Ad agosto la costiera è satura e la statale è bloccata; in inverno Napoli è ottima e la costiera si svuota (con molte strutture chiuse). Il periodo natalizio a San Gregorio Armeno, la strada dei presepi, è un fenomeno a sé: bellissimo e impraticabile.',
     costi:
-      'Museo Archeologico e siti vesuviani hanno biglietti contenuti rispetto al nord Italia. Il biglietto cumulativo per Pompei, Ercolano, Oplontis e Stabia dura tre giorni e conviene sempre se se ne fanno almeno due.',
+      'Museo Archeologico e siti vesuviani hanno biglietti contenuti rispetto al nord Italia. Il biglietto cumulativo per Pompei, Ercolano, Oplontis e Stabia dura tre giorni e conviene sempre se se ne fanno almeno due. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 60-80 €, medio 110-150 €, alto oltre 220 €.',
     erroriDaEvitare: [
       'Andare a Pompei senza biglietto prenotato: dal 2024 i biglietti sono **nominativi** e c\'è un **tetto di 20.000 visitatori al giorno**, con fasce orarie in estate (15.000 al mattino, 5.000 dal primo pomeriggio). Esaurita la quota non si entra, né online né in biglietteria',
       'Visitare Pompei senza aver visto prima il Museo Archeologico di Napoli: mosaici, affreschi e bronzi migliori sono lì, e senza quel passaggio il sito sembra un campo di muri',
@@ -1462,6 +1928,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi, partendo da Piazza del Gesù Nuovo o dalla fermata Dante della metro 1. Il percorso è tutto pedonale o quasi, con motorini che passano ovunque.",
         "quando": "Mattina presto per i vicoli senza folla. A dicembre San Gregorio Armeno è bellissima e impraticabile.",
         "tempo": "Mezza giornata",
+        "costo": "passeggiata gratuita; chiese per lo più a ingresso libero",
+        "lat": 40.8507,
+        "lng": 14.2576,
         "consiglio": "Entrare nelle chiese aperte (Gesù Nuovo, Santa Chiara, San Domenico Maggiore): sono gratis o costano poco e fanno da pausa dal rumore."
       },
       {
@@ -1470,6 +1939,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro linea 1 o 2 fino a Museo/Piazza Cavour, a pochi minuti a piedi. Si visita da soli con i pannelli; l'audioguida è facoltativa.",
         "quando": "Chiuso il martedì. Aperto 9-19:30, ultimo ingresso alle 18:30 (2026). Mattina, quando c'è meno gente nelle sale dei mosaici.",
         "tempo": "2-3 ore",
+        "orari": "9-19:30, ultimo ingresso alle 18:30. Chiuso il martedì.",
+        "lat": 40.8536,
+        "lng": 14.2505,
+        "url": "https://mann-napoli.it/",
         "consiglio": "Salire subito ai mosaici di Pompei e al Gabinetto segreto, poi scendere alla collezione Farnese se resta tempo."
       },
       {
@@ -1478,6 +1951,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi, in via Francesco De Sanctis, nel centro storico. Visita da soli, si entra con biglietto a orario.",
         "quando": "Prenotare in anticipo: i posti si esauriscono, soprattutto nei fine settimana e in alta stagione. Foto vietate all'interno.",
         "tempo": "45 minuti",
+        "costo": "circa 12 € con prenotazione online a fascia oraria (2026)",
+        "orari": "Chiusa di solito il martedì.",
+        "lat": 40.8494,
+        "lng": 14.2547,
         "url": "https://www.museosansevero.it/",
         "consiglio": "Comprare il biglietto sul sito ufficiale giorni prima: davanti alla porta spesso c'è già la coda."
       },
@@ -1487,6 +1964,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Per Napoli sotterranea l'ingresso è in Piazza San Gaetano, con visita guidata a orari fissi. Le catacombe di San Gennaro sono nel rione Sanità, raggiungibili a piedi dal MANN.",
         "quando": "Tutto l'anno, anche con pioggia. Sottoterra la temperatura è fresca: portare una felpa.",
         "tempo": "1 ora e mezza per ciascuna visita",
+        "lat": 40.851,
+        "lng": 14.257,
         "consiglio": "Fare una sola delle due visite se il tempo è poco: Napoli sotterranea per la guerra e le cave, le catacombe per l'arte."
       },
       {
@@ -1496,6 +1975,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "All'apertura o nel tardo pomeriggio d'estate; non a mezzogiorno, senza ombra. Aperto 9-19 dal 16 marzo al 14 ottobre (ultimo ingresso 17:30) e 9-17 nel resto dell'anno (ultimo ingresso 15:30). Chiuso il 25 dicembre e il 1 gennaio, salvo aperture straordinarie. Biglietti nominativi, tetto di 20.000 ingressi al giorno e fasce orarie in alta stagione.",
         "tempo": "3-4 ore",
         "costo": "Pompei Express 20 euro; Pompei+, con le ville suburbane e Boscoreale, 25 euro (dal 12 gennaio 2026). Vendita online solo su Vivaticket, oppure in biglietteria",
+        "lat": 40.749,
+        "lng": 14.4848,
         "url": "https://pompeiisites.org/",
         "consiglio": "Visto dopo il MANN: si riconoscono le opere. Portare acqua e cappello, i punti ristoro sono pochi."
       },
@@ -1505,6 +1986,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Circumvesuviana linea Napoli-Sorrento fino a Ercolano Scavi, da Napoli Garibaldi, poi un tratto a piedi in discesa.",
         "quando": "Mattina, in estate. Il sito chiude nelle festività principali: controllare il calendario sul sito ufficiale.",
         "tempo": "2 ore",
+        "lat": 40.8059,
+        "lng": 14.348,
         "url": "https://ercolano.beniculturali.it/",
         "consiglio": "Se c'è tempo per un solo sito, molti scelgono Ercolano: meno folla, più dettagli conservati."
       },
@@ -1514,6 +1997,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Ercolano ci sono navette verso i parcheggi in quota. Il biglietto per il Gran Cono si compra solo online, sul canale indicato dal Parco Nazionale del Vesuvio. Dal parcheggio si cammina su sentiero sterrato in salita, con scarpe chiuse.",
         "quando": "Mattina, con cielo limpido. Con le allerte meteo o per eventi l'accesso viene sospeso: controllare gli avvisi sul sito del Parco.",
         "tempo": "3-4 ore tra andata, salita e ritorno",
+        "costo": "circa 12 €, solo online (2026)",
+        "lat": 40.8213,
+        "lng": 14.4261,
         "url": "https://www.parconazionaledelvesuvio.it/",
         "consiglio": "Controllare il meteo il giorno prima: con nuvole basse si sale senza vedere nulla."
       },
@@ -1523,38 +2009,121 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Cumana o linea 2 della metropolitana fino a Pozzuoli, poi bus locali o taxi per i siti. Si arriva anche in auto.",
         "quando": "Controllare prima gli avvisi della Protezione civile e l'apertura dei singoli siti, che cambia con i lavori.",
         "tempo": "Mezza giornata",
+        "lat": 40.8231,
+        "lng": 14.1214,
         "consiglio": "Abbinarla a un pranzo di pesce a Pozzuoli: costa meno che a Posillipo."
+      },
+      {
+        "nome": "Certosa di San Martino e Castel Sant'Elmo",
+        "testo": "In cima al Vomero, la certosa barocca con il chiostro, i presepi e il belvedere sul golfo, e accanto la fortezza stellata di Sant'Elmo. Da qui si capisce la forma della città, dal Vesuvio a Posillipo.",
+        "come": "Funicolare Centrale o di Montesanto fino al Vomero, poi 10 minuti a piedi. Biglietti separati per certosa e castello.",
+        "quando": "Nel pomeriggio con il cielo limpido, per il golfo controluce.",
+        "tempo": "2-3 ore",
+        "costo": "circa 6 € la certosa e circa 5 € il castello (2026)",
+        "orari": "Certosa chiusa il martedì; Castel Sant'Elmo aperto tutti i giorni.",
+        "lat": 40.8434,
+        "lng": 14.239
+      },
+      {
+        "nome": "Museo e Real Bosco di Capodimonte",
+        "testo": "La reggia borbonica sulla collina ospita una delle pinacoteche più ricche d'Italia: la Flagellazione di Caravaggio, Tiziano, Masaccio, Artemisia Gentileschi. Intorno c'è un parco di oltre cento ettari.",
+        "come": "Bus dal Museo Archeologico o da piazza Dante, circa 20 minuti; in taxi è più semplice.",
+        "quando": "Una mattina feriale: le sale sono spesso quasi vuote.",
+        "tempo": "3 ore con il parco",
+        "costo": "circa 15 € il museo (2026); parco gratuito",
+        "orari": "Museo chiuso il mercoledì; il parco apre ogni giorno.",
+        "lat": 40.867,
+        "lng": 14.2505,
+        "url": "https://capodimonte.cultura.gov.it/"
+      },
+      {
+        "nome": "Duomo e Tesoro di San Gennaro",
+        "testo": "La cattedrale gotica conserva la cappella del Tesoro con le ampolle del sangue di san Gennaro, che si scioglie tre volte l'anno. Dal transetto si scende alla basilica paleocristiana di Santa Restituta e al battistero più antico d'Occidente.",
+        "come": "In via Duomo, a cinque minuti da via dei Tribunali. La cattedrale è gratuita; il Museo del Tesoro, accanto, ha un biglietto.",
+        "quando": "Il sabato prima della prima domenica di maggio, il 19 settembre e il 16 dicembre per il miracolo, con folla enorme.",
+        "tempo": "1 ora",
+        "costo": "cattedrale gratuita; Museo del Tesoro a pagamento",
+        "lat": 40.8525,
+        "lng": 14.2597
+      },
+      {
+        "nome": "Pio Monte della Misericordia",
+        "testo": "Un'istituzione di carità del Seicento ancora attiva, che conserva sull'altare per cui fu dipinto le Sette opere di Misericordia di Caravaggio. Al piano superiore c'è una piccola quadreria.",
+        "come": "In via dei Tribunali, di fronte alla guglia di San Gennaro, accanto al Duomo.",
+        "quando": "In mattinata, prima del pranzo in pizzeria sui Tribunali.",
+        "tempo": "30-45 minuti",
+        "costo": "circa 10 € (2026)",
+        "lat": 40.8517,
+        "lng": 14.2595,
+        "url": "https://www.piomontedellamisericordia.it/"
+      },
+      {
+        "nome": "Chiostro di Santa Chiara",
+        "testo": "Dietro la basilica angioina di Santa Chiara c'è il chiostro delle clarisse, con pilastri e panche rivestiti di maioliche settecentesche a tralci e scene di campagna. È un giardino silenzioso in mezzo a Spaccanapoli.",
+        "come": "Piazza del Gesù Nuovo, all'inizio di Spaccanapoli; metro 1 Dante o Toledo e cinque minuti a piedi.",
+        "quando": "A metà giornata, per una pausa dal caos.",
+        "tempo": "45 minuti",
+        "costo": "basilica gratuita; chiostro e museo con biglietto di pochi euro",
+        "lat": 40.8467,
+        "lng": 14.2525,
+        "url": "https://www.monasterodisantachiara.it/"
+      },
+      {
+        "nome": "Piazza del Plebiscito e Palazzo Reale",
+        "testo": "La piazza più grande di Napoli, chiusa dal colonnato di San Francesco di Paola e dal Palazzo Reale dei Borbone. Accanto ci sono il Teatro San Carlo e la Galleria Umberto I, e il Gambrinus per il caffè.",
+        "come": "Metro 1 fermata Municipio o Toledo; dal centro storico si scende a piedi per via Toledo in 20 minuti.",
+        "quando": "Al tramonto, scendendo poi verso il lungomare.",
+        "tempo": "1-2 ore con il Palazzo Reale",
+        "costo": "piazza gratuita; Palazzo Reale a pagamento",
+        "lat": 40.8359,
+        "lng": 14.2488
+      },
+      {
+        "nome": "Lungomare e Castel dell'Ovo",
+        "testo": "Il lungomare pedonale di via Caracciolo e via Partenope va da Mergellina al Castel dell'Ovo, con il Vesuvio di fronte. Il castello, sull'isolotto di Megaride, ha terrazze aperte e il borgo Marinari ai piedi.",
+        "come": "A piedi da Piazza del Plebiscito in dieci minuti.",
+        "quando": "La sera, quando i napoletani fanno la passeggiata.",
+        "tempo": "1-2 ore",
+        "costo": "gratuito, castello compreso",
+        "lat": 40.8282,
+        "lng": 14.2477
+      },
+      {
+        "nome": "Quartieri Spagnoli",
+        "testo": "La griglia di vicoli stretti sopra via Toledo, costruita per le truppe spagnole nel Cinquecento, con i panni stesi e i bassi a livello strada. In Largo Maradona c'è il murale dedicato al calciatore, diventato un santuario laico.",
+        "come": "Metro 1 Toledo, la stazione dell'arte più fotografata, e si sale nei vicoli.",
+        "quando": "Di giorno; il sabato sera il largo è pieno di gente.",
+        "tempo": "1 ora",
+        "costo": "gratuito",
+        "lat": 40.8418,
+        "lng": 14.2463,
+        "consiglio": "Telefono in tasca e attenzione agli scooter che passano nei vicoli."
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: Museo Archeologico Nazionale, con i mosaici di Pompei.",
-          "Tarda mattina: a piedi lungo via dei Tribunali fino a San Gregorio Armeno.",
-          "Pranzo: una pizza in centro storico.",
-          "Pomeriggio: Spaccanapoli, Cappella Sansevero con biglietto prenotato.",
-          "Sera: passeggiata sul lungomare di via Caracciolo fino a Castel dell'Ovo."
+          "Mattina: Spaccanapoli, Santa Chiara, San Gregorio Armeno e Cappella Sansevero prenotata.",
+          "Pio Monte della Misericordia e Duomo; pizza a pranzo su via dei Tribunali.",
+          "Pomeriggio: Museo Archeologico Nazionale.",
+          "Scendere per via Toledo e i Quartieri Spagnoli fino a Piazza del Plebiscito.",
+          "Sera sul lungomare fino al Castel dell'Ovo."
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1 come sopra, con il MANN la mattina.",
-          "Giorno 2, mattina: Circumvesuviana fino a Ercolano, due ore nel sito.",
-          "Pranzo veloce a Ercolano.",
-          "Pomeriggio: Pompei in una fascia oraria prenotata, oppure Vesuvio se il meteo è buono.",
-          "Sera: ritorno a Napoli, cena in una pizzeria storica senza fretta."
+          "Giorno 1: centro storico con Sansevero, Santa Chiara e Napoli sotterranea; pomeriggio al MANN.",
+          "Giorno 2: Pompei al mattino presto in Circumvesuviana; rientro nel pomeriggio, Plebiscito, Quartieri Spagnoli e lungomare al tramonto."
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: centro storico, MANN, Sansevero.",
-          "Giorno 2: Ercolano la mattina, Pompei il pomeriggio, rientro in treno prima di sera.",
-          "Giorno 3 mattina: Napoli sotterranea o le catacombe di San Gennaro.",
-          "Pomeriggio: funicolare fino al Vomero per Castel Sant'Elmo e la vista sul golfo.",
-          "Sera: ultima pizza o frittura in Chiaia."
+          "Giorno 1: centro storico, Sansevero, Pio Monte, Duomo, MANN.",
+          "Giorno 2: Pompei e, nel pomeriggio, Ercolano o il Vesuvio.",
+          "Giorno 3: Capodimonte al mattino, funicolare per il Vomero con San Martino e Sant'Elmo, discesa a Chiaia e sera sul lungomare."
         ]
       }
     ],
@@ -1562,17 +2131,46 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Centro storico",
         "perChi": "Chi vuole essere dentro la città",
-        "testo": "Tutto a piedi, vicoli pieni di vita e di locali fino a tardi. Rumore costante di motorini e voci anche la notte, strade strette e non sempre pulite. Meglio una camera sui piani alti o sul cortile."
+        "testo": "Tutto a piedi, vicoli pieni di vita e di locali fino a tardi. Rumore costante di motorini e voci anche la notte, strade strette e non sempre pulite. Meglio una camera sui piani alti o sul cortile.",
+        "fascia": "70-130 €"
       },
       {
         "nome": "Chiaia e lungomare",
         "perChi": "Chi cerca una zona più tranquilla",
-        "testo": "Quartiere residenziale e commerciale, con ristoranti e vista sul mare dal lungomare. Più tranquillo la sera, raggiungibile a piedi dal centro storico e vicino alla metro."
+        "testo": "Quartiere residenziale e commerciale, con ristoranti e vista sul mare dal lungomare. Più tranquillo la sera, raggiungibile a piedi dal centro storico e vicino alla metro.",
+        "fascia": "110-200 €"
       },
       {
         "nome": "Vomero",
         "perChi": "Chi bada ai prezzi e vuole una vista",
-        "testo": "Collina servita da funicolari e metro linea 1, con panorami sul golfo. Più sicuro e silenzioso, ma si scende e si risale in funicolare ogni volta: la sera si perde tempo."
+        "testo": "Collina servita da funicolari e metro linea 1, con panorami sul golfo. Più sicuro e silenzioso, ma si scende e si risale in funicolare ogni volta: la sera si perde tempo.",
+        "fascia": "80-140 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Reggia di Caserta",
+        "distanza": "40 minuti in treno",
+        "come": "Treni regionali da Napoli Centrale; la reggia è davanti alla stazione di Caserta.",
+        "testo": "La reggia borbonica del Vanvitelli, con 1.200 stanze e un parco lungo tre chilometri di fontane e cascate. Per il parco conviene noleggiare una bici o prendere la navetta."
+      },
+      {
+        "nome": "Capri",
+        "distanza": "50 minuti in aliscafo",
+        "come": "Aliscafi dal Molo Beverello e da Calata Porta di Massa, frequenti da primavera ad autunno.",
+        "testo": "La Piazzetta, i Faraglioni, Anacapri e il Monte Solaro in seggiovia. In giornata si vede bene se si parte con la prima corsa."
+      },
+      {
+        "nome": "Procida",
+        "distanza": "40 minuti-1 ora in traghetto",
+        "come": "Aliscafi e traghetti da Molo Beverello o da Pozzuoli.",
+        "testo": "L'isola più piccola e meno turistica del golfo, con le case colorate della Marina Corricella e Terra Murata in alto. Si gira a piedi o in bus."
+      },
+      {
+        "nome": "Sorrento e Costiera Amalfitana",
+        "distanza": "1h10 in Circumvesuviana fino a Sorrento",
+        "come": "Circumvesuviana fino a Sorrento e bus SITA per Positano e Amalfi; da primavera anche traghetti diretti da Napoli.",
+        "testo": "In giornata si arriva a Sorrento e a una delle due perle della Costiera. Per vederla davvero servono almeno due notti sul posto."
       }
     ],
     sapori: [
@@ -1604,6 +2202,28 @@ export const destinazioniItalia: Destinazione[] = [
       "Il centro ha zone a traffico limitato con telecamere: dormire dove si può lasciare l'auto in garage ed evitare di guidare in città.",
       "Scioperi dei trasporti frequenti, anche della Circumvesuviana: controllare il calendario prima di programmare Pompei o il Vesuvio.",
       "Vesuvio e Campi Flegrei sono aree vulcaniche attive: seguire gli avvisi della Protezione civile e le indicazioni dei sentieri."
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Napoli?",
+        "risposta": "Tre giorni: uno per il centro storico e il MANN, uno per Pompei ed Ercolano, uno per Vomero, Capodimonte e lungomare. Con cinque si aggiungono Capri o Procida e i Campi Flegrei."
+      },
+      {
+        "domanda": "Napoli è sicura per i turisti?",
+        "risposta": "Nel centro e nelle zone turistiche sì, con le precauzioni di ogni grande città: borseggi e scippi sono il rischio principale. Meglio non ostentare telefono e orologi e tenere la borsa dal lato del muro."
+      },
+      {
+        "domanda": "Come si va da Napoli a Pompei?",
+        "risposta": "Con la Circumvesuviana da Porta Nolana o Garibaldi fino a Pompei Scavi, circa 40 minuti. Il biglietto degli scavi è nominativo e a fascia oraria, da comprare su pompeiisites.org."
+      },
+      {
+        "domanda": "Serve prenotare la Cappella Sansevero?",
+        "risposta": "Sì, l'ingresso è solo a fasce orarie online e nei fine settimana si esaurisce. Costa circa 12 € ed è chiusa di solito il martedì."
+      },
+      {
+        "domanda": "Dove dormire a Napoli?",
+        "risposta": "Centro storico per avere tutto a piedi e spendere poco, Chiaia per il mare e i locali, Vomero per la tranquillità. Una doppia costa da circa 70 € in centro a 200 € sul lungomare."
+      }
     ],
     esperienzeSlugs: ['pompei-ercolano', 'napoli-sotterranea', 'pizza-napoletana'],
     tripSlugs: ['napoli-3-giorni', 'grandi-citta-italia'],

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from '@/components/ui/Link'
 import { Consigliati } from '@/components/Consigliati'
-import { LuoghiGuida, ProgrammiGuida, ZoneSaporiAttenzioni } from '@/components/scheda/MiniGuida'
+import { LuoghiGuida, ProgrammiGuida, ZoneSaporiAttenzioni, GiteGuida, FaqGuida } from '@/components/scheda/MiniGuida'
 import { MINI_GUIDE_VERIFICATE } from '@/content/mini-guide-verificate'
 import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
@@ -257,7 +257,7 @@ export default async function DestinazionePage({
             { nome: paese.nome, percorso: `/destinazioni/${paeseSlug}` },
             { nome: destinazione.nome, percorso: `/destinazioni/${paeseSlug}/${destinazione.slug}` },
           ], lingua),
-          faqJsonLd([
+          faqJsonLd(destinazione.faq?.length ? destinazione.faq : [
             { domanda: t.qGiorni(destinazione.nome), risposta: destinazione.giorniConsigliati },
             { domanda: t.qPeriodo(destinazione.nome), risposta: destinazione.periodoMigliore },
             { domanda: t.qArrivare(destinazione.nome), risposta: destinazione.comeArrivare },
@@ -349,6 +349,8 @@ export default async function DestinazionePage({
 
           <ProgrammiGuida d={destinazione} lingua={lingua} />
 
+          <GiteGuida d={destinazione} lingua={lingua} />
+
           {destinazione.cosaFare.length > 0 && (
             <div>
               <TitoloSezione icona={Footprints}>{t.cosaFare}</TitoloSezione>
@@ -386,6 +388,8 @@ export default async function DestinazionePage({
           )}
 
           <ZoneSaporiAttenzioni d={destinazione} lingua={lingua} />
+
+          <FaqGuida d={destinazione} lingua={lingua} />
 
           {destinazione.erroriDaEvitare.length > 0 && (
             <div className="max-w-4xl">

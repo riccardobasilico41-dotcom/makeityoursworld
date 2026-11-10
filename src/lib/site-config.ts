@@ -44,12 +44,13 @@ export type Titolare = {
 }
 
 const contact: Contatti = {
-  email: null,
+  // email di contatto generale data da Rick il 10/11/2026
+  email: 'rick.ugctravel@gmail.com',
   phone: null,
   address: null,
   bookingUrl: null,
   social: {},
-  contactEnabled: false,
+  contactEnabled: true,
 }
 
 /** Titolare del sito per privacy e note legali. Il nome è quello già dichiarato da Rick; il resto manca. */

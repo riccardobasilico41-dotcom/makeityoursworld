@@ -1,4 +1,4 @@
-import { AlertTriangle, ArrowUpRight, BedDouble, CalendarDays, Clock, Footprints, Lightbulb, MapPin, Route, Ticket, Utensils } from 'lucide-react'
+import { AlertTriangle, ArrowUpRight, BedDouble, CalendarDays, Clock, Compass, Footprints, HelpCircle, Lightbulb, MapPin, Route, Ticket, Utensils, Wallet } from 'lucide-react'
 import { TitoloSezione } from '@/components/scheda/Blocchi'
 import type { Destinazione } from '@/lib/types'
 import type { Lingua } from '@/lib/i18n/config'
@@ -10,9 +10,9 @@ import type { Lingua } from '@/lib/i18n/config'
  */
 
 const T = {
-  it: { luoghi: 'Cosa vedere, luogo per luogo', come: 'Come', quando: 'Quando', tempo: 'Quanto tempo', costo: 'Quanto costa', sito: 'Sito ufficiale', consiglio: 'Il consiglio', programmi: 'Se hai…', zone: 'Dove dormire, zona per zona', perChi: 'Per chi', sapori: 'Cosa assaggiare', attenzioni: 'Truffe e attenzioni' },
-  en: { luoghi: 'What to see, place by place', come: 'How', quando: 'When', tempo: 'Time needed', costo: 'Cost', sito: 'Official website', consiglio: 'My tip', programmi: 'If you have…', zone: 'Where to stay, area by area', perChi: 'Best for', sapori: 'What to eat', attenzioni: 'Scams and things to watch' },
-  es: { luoghi: 'Qué ver, lugar por lugar', come: 'Cómo', quando: 'Cuándo', tempo: 'Cuánto tiempo', costo: 'Cuánto cuesta', sito: 'Web oficial', consiglio: 'El consejo', programmi: 'Si tienes…', zone: 'Dónde dormir, zona por zona', perChi: 'Para quién', sapori: 'Qué probar', attenzioni: 'Timos y precauciones' },
+  it: { orari: 'Orari', mappa: 'Apri in Google Maps', fascia: 'Doppia a notte', gite: 'Gite in giornata', faq: 'Domande frequenti', luoghi: 'Cosa vedere, luogo per luogo', come: 'Come', quando: 'Quando', tempo: 'Quanto tempo', costo: 'Quanto costa', sito: 'Sito ufficiale', consiglio: 'Il consiglio', programmi: 'Se hai…', zone: 'Dove dormire, zona per zona', perChi: 'Per chi', sapori: 'Cosa assaggiare', attenzioni: 'Truffe e attenzioni' },
+  en: { orari: 'Opening hours', mappa: 'Open in Google Maps', fascia: 'Double room per night', gite: 'Day trips', faq: 'Frequently asked questions', luoghi: 'What to see, place by place', come: 'How', quando: 'When', tempo: 'Time needed', costo: 'Cost', sito: 'Official website', consiglio: 'My tip', programmi: 'If you have…', zone: 'Where to stay, area by area', perChi: 'Best for', sapori: 'What to eat', attenzioni: 'Scams and things to watch' },
+  es: { orari: 'Horarios', mappa: 'Abrir en Google Maps', fascia: 'Doble por noche', gite: 'Excursiones de un día', faq: 'Preguntas frecuentes', luoghi: 'Qué ver, lugar por lugar', come: 'Cómo', quando: 'Cuándo', tempo: 'Cuánto tiempo', costo: 'Cuánto cuesta', sito: 'Web oficial', consiglio: 'El consejo', programmi: 'Si tienes…', zone: 'Dónde dormir, zona por zona', perChi: 'Para quién', sapori: 'Qué probar', attenzioni: 'Timos y precauciones' },
 } satisfies Record<Lingua, Record<string, string>>
 
 function Dato({ icona: Icona, label, valore }: { icona: typeof Clock; label: string; valore?: string }) {
@@ -48,6 +48,7 @@ export function LuoghiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) 
               <Dato icona={CalendarDays} label={t.quando} valore={l.quando} />
               <Dato icona={Clock} label={t.tempo} valore={l.tempo} />
               <Dato icona={Ticket} label={t.costo} valore={l.costo} />
+              <Dato icona={CalendarDays} label={t.orari} valore={l.orari} />
             </dl>
             {l.consiglio && (
               <p className="mt-5 flex gap-2.5 border-l-4 border-rosso bg-rosso/[0.05] p-3 text-[0.95rem] leading-relaxed text-ink">
@@ -55,10 +56,24 @@ export function LuoghiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) 
                 <span><strong className="font-semibold">{t.consiglio}:</strong> {l.consiglio}</span>
               </p>
             )}
-            {l.url && (
-              <a href={l.url} target="_blank" rel="noopener noreferrer" className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-rosso hover:underline">
-                {t.sito} <ArrowUpRight size={14} aria-hidden />
-              </a>
+            {(l.url || typeof l.lat === 'number') && (
+              <p className="mt-4 flex flex-wrap gap-x-6 gap-y-2">
+                {l.url && (
+                  <a href={l.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5 text-sm font-semibold text-rosso hover:underline">
+                    {t.sito} <ArrowUpRight size={14} aria-hidden />
+                  </a>
+                )}
+                {typeof l.lat === 'number' && typeof l.lng === 'number' && (
+                  <a
+                    href={`https://www.google.com/maps/search/?api=1&query=${l.lat},${l.lng}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-sm font-semibold text-rosso hover:underline"
+                  >
+                    <MapPin size={14} aria-hidden /> {t.mappa}
+                  </a>
+                )}
+              </p>
             )}
           </li>
         ))}
@@ -107,6 +122,12 @@ export function ZoneSaporiAttenzioni({ d, lingua }: { d: Destinazione; lingua: L
                   {t.perChi}: <span className="normal-case tracking-normal text-stone">{z.perChi}</span>
                 </p>
                 <p className="mt-2 text-[0.95rem] leading-relaxed text-stone">{z.testo}</p>
+                {z.fascia && (
+                  <p className="mt-3 inline-flex items-center gap-2 text-sm text-ink">
+                    <Wallet size={15} aria-hidden className="text-rosso" />
+                    <span className="text-stone">{t.fascia}:</span> <strong className="font-semibold">{z.fascia}</strong>
+                  </p>
+                )}
               </li>
             ))}
           </ul>
@@ -141,5 +162,48 @@ export function ZoneSaporiAttenzioni({ d, lingua }: { d: Destinazione; lingua: L
         </div>
       ) : null}
     </>
+  )
+}
+
+export function GiteGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
+  if (!d.gite?.length) return null
+  const t = T[lingua]
+  return (
+    <div>
+      <TitoloSezione icona={Compass}>{t.gite}</TitoloSezione>
+      <ul className="mt-6 grid gap-4 md:grid-cols-2">
+        {d.gite.map((g) => (
+          <li key={g.nome} className="border border-alpine/15 bg-white p-5">
+            <h3 className="font-display text-lg text-alpine">{g.nome}</h3>
+            <p className="mt-1 text-[11px] font-semibold uppercase tracking-wider text-rosso">
+              {g.distanza} · <span className="normal-case tracking-normal text-stone">{g.come}</span>
+            </p>
+            <p className="mt-2 text-[0.95rem] leading-relaxed text-stone">{g.testo}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
+
+export function FaqGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
+  if (!d.faq?.length) return null
+  const t = T[lingua]
+  return (
+    <div className="max-w-4xl">
+      <TitoloSezione icona={HelpCircle}>{t.faq}</TitoloSezione>
+      <div className="mt-6 divide-y divide-ink/10 border-y border-ink/10">
+        {d.faq.map((f) => (
+          <details key={f.domanda} className="group py-4">
+            <summary className="cursor-pointer list-none font-semibold text-ink marker:hidden">
+              <span className="mr-2 text-rosso group-open:hidden">+</span>
+              <span className="mr-2 hidden text-rosso group-open:inline">−</span>
+              {f.domanda}
+            </summary>
+            <p className="mt-3 leading-relaxed text-stone">{f.risposta}</p>
+          </details>
+        ))}
+      </div>
+    </div>
   )
 }

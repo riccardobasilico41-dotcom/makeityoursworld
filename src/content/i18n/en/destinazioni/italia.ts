@@ -794,13 +794,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Roman cuisine is four pastas (cacio e pepe, gricia, amatriciana, carbonara) plus the quinto quarto (offal), which few people try and which explains the city better than the pastas do: coda alla vaccinara, tripe, coratella. Eat in a trattoria in Testaccio or Pigneto, not in the center. Carciofo alla giudia (Jewish-style artichoke) in the Ghetto in season (late winter to spring), thin, crispy Roman pizza, supplì as a snack. **The most important rule: don't eat at any place with photos of the dishes outside or with someone inviting you in.**",
     comeArrivare:
-      "Fly into Fiumicino (FCO), with the Leonardo Express reaching Termini in 32 minutes, or into Ciampino (CIA) for low-cost flights. By train, high-speed service connects Rome to Milan in three hours and to Naples in a little over an hour.",
+      'Fly into Fiumicino (FCO), with the Leonardo Express reaching Termini in 32 minutes, or into Ciampino (CIA) for low-cost flights. By train, high-speed service connects Rome to Milan in three hours and to Naples in a little over an hour. The Leonardo Express costs €14 and runs every 15 minutes until about 23:30; white taxis from the official rank charge a fixed €55 inside the Aurelian Walls. From Ciampino the bus to Termini costs about €6 and takes 40 minutes; the fixed taxi fare is about €40.',
     comeSpostarsi:
       "The metro has three lines (few for a city this size, for archaeological reasons: every dig finds something), buses are slow and irregular, trams are useful on a few routes. **The historic center is done on foot**, and it's the only sensible way: distances are shorter than they seem and almost everything is within two kilometers.",
     periodoMigliore:
       "**From October to March**, without a doubt. April, May and September are beautiful and full of people; July and August are hard, with temperatures above 38 degrees and heat waves that make visiting tiring and for some risky. In August, on the other hand, many Romans are away and the city changes face, but many trattorias are closed.",
     costi:
-      "Single ticket for Colosseum-Forum-Palatine, named and timed; Vatican Museums that you have to book, even if it's not formally required; Galleria Borghese with entries capped every two hours. Churches are almost all free, and they contain a huge part of what you come to see.",
+      'Single ticket for Colosseum-Forum-Palatine, named and timed; Vatican Museums that you have to book, even if it\'s not formally required; Galleria Borghese with entries capped every two hours. Churches are almost all free, and they contain a huge part of what you come to see. Rough daily budget per person, sharing a double: low €70-90, mid €130-180, high over €250.',
     erroriDaEvitare: [
       "Buying the Colosseum ticket on the spot or from street sellers: it's **named**, you need an original ID (not a copy), and from 2026 changing the name is even more restricted. Buy only through the official channel, weeks ahead for the best time slots",
       "Not booking the Galleria Borghese: entries are capped in two-hour slots and sell out",
@@ -819,6 +819,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Closed on 25 December and 1 January. From 25 October 2026 to 28 February 2027 it opens at 8:30 and closes at 16:30, last entry 15:30; summer hours are longer, on the official site. First slot of the morning or the last hours to avoid queues; in summer the Forum is very hot with no shade.",
         "tempo": "half a day, 3-4 hours for everything",
         "costo": "prices on the official channel; free entry on the first Sunday of the month, 25 April, 2 June and 4 November",
+        "orari": "Daily from 8:30; closes between 16:30 in winter and 19:15 in summer, last entry one hour before. Closed 25 December and 1 January.",
+        "lat": 41.8902,
+        "lng": 12.4922,
         "url": "https://colosseo.it/",
         "consiglio": "Buy only through the official channel and well in advance for the best slots. Visit the Forum and Palatine first if it is hot, and the Colosseum interior in the cooler hours."
       },
@@ -829,6 +832,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Monday to Saturday 8am-8pm, last entry at 6pm. Closed on Sundays, except the last Sunday of the month (9am-2pm, last entry 12:30pm), when entry is free and the crowds are huge. Also closed on some religious holidays: see the calendar on the website. First slot in the morning or late afternoon.",
         "tempo": "3-4 hours",
         "costo": "20 euros full price, 25 euros with online booking on the official website (2026)",
+        "orari": "Monday-Saturday 8-20, last entry 18:00. Closed Sundays except the last one of the month (9-14, free).",
+        "lat": 41.9065,
+        "lng": 12.4536,
         "url": "https://www.museivaticani.va/",
         "consiglio": "In the Sistine the silence and the ban on photography are enforced by staff. Decide beforehand what to see: nobody manages to see it all."
       },
@@ -838,6 +844,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro A to Ottaviano and walk. You go through security checks; entry to the basilica is free, the climb to the dome is paid. Shoulders and knees must be covered.",
         "quando": "Every day, but closed during papal ceremonies; on Wednesday morning there is the general audience and the area is very crowded. Early in the morning.",
         "tempo": "1-2 hours, plus 1 hour for the dome",
+        "costo": "basilica free; dome ticketed, with a supplement for the lift",
+        "orari": "Daily from early morning to late afternoon; closed or restricted during papal celebrations.",
+        "lat": 41.9022,
+        "lng": 12.4539,
         "url": "https://www.basilicasanpietro.va/",
         "consiglio": "The dress code is enforced: in shorts or with bare shoulders you do not get in. Keep a light scarf in your bag."
       },
@@ -847,6 +857,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In the centre, between Piazza Navona and the Trevi Fountain, on foot. Since 2023 entry is paid, with tickets online or on site. During religious services access is limited.",
         "quando": "Every day 9:00-19:00, last entry 18:30; on the first Sunday of the month entry is free (official site). Early morning or evening for fewer people; in the rain the oculus creates a special atmosphere.",
         "tempo": "30-45 minutes",
+        "costo": "€7 (from 1 July 2026); free on the first Sunday of the month",
+        "orari": "Daily 9-19, last entry 18:30.",
+        "lat": 41.8986,
+        "lng": 12.4769,
         "consiglio": "Check the rules and ticket price in advance. The square outside is crowded and full of tourist restaurants: do not have lunch there."
       },
       {
@@ -855,6 +869,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Inside Villa Borghese, on foot from Piazza di Spagna or Piazzale Flaminio. Booking is compulsory, with two-hour entry slots.",
         "quando": "Closed on Mondays. Slots sell out days or weeks ahead in high season.",
         "tempo": "2 hours (the visit has a fixed length)",
+        "costo": "about €18: €16 ticket plus €2 compulsory booking fee (2026)",
+        "orari": "Tuesday-Sunday 9-19, entry in two-hour slots. Closed Mondays.",
+        "lat": 41.9142,
+        "lng": 12.4922,
         "url": "https://galleriaborghese.cultura.gov.it/",
         "consiglio": "Arrive a little early for ticket collection and the cloakroom. The park around is lovely for a walk afterwards."
       },
@@ -864,6 +882,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From the centre by bus 118 (Circo Massimo or Colosseum stop) or bus 660 (from Arco di Travertino on metro line A), then on foot; or rent a bike. On Sundays and holidays the Appia is closed to motor vehicles from Porta San Sebastiano onwards, 9:00-16:00 in winter time and 9:00-18:00 in summer time.",
         "quando": "Sunday, the best day because it is closed to cars. The catacombs have different closing days: check them on their websites before going.",
         "tempo": "half a day",
+        "costo": "the road is free; catacombs and park sites are ticketed",
+        "orari": "Closed to cars on Sundays and holidays from 9 to 16 (winter time) or 18 (summer time).",
+        "lat": 41.856,
+        "lng": 12.515,
         "url": "https://www.parcoappiaantica.it/",
         "consiglio": "The Appian Way on Sunday is not far from the Colosseum and almost nobody goes. You walk on original paving stones among tombs and pines, with the aqueducts in the distance. Bring water: there are few places to refuel along the road."
       },
@@ -873,6 +895,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A few minutes on foot from the Colosseum, on via Labicana. The upper basilica can be visited freely, the underground levels with a ticket.",
         "quando": "Hours include a break in the middle of the day; check the website. The underground rooms are damp and cool even in summer.",
         "tempo": "1 hour",
+        "costo": "basilica free; underground levels ticketed",
+        "lat": 41.8893,
+        "lng": 12.4975,
         "url": "https://www.basilicasanclemente.com/",
         "consiglio": "It is the simplest way to understand what underground Rome means, and it is a couple of steps from the Colosseum. It pairs well with the Case Romane del Celio."
       },
@@ -883,6 +908,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Every day with split hours. Mid-morning on a weekday there are few people.",
         "tempo": "20-30 minutes",
         "costo": "free entry",
+        "lat": 41.8996,
+        "lng": 12.4746,
         "consiglio": "I went mid-morning on a Tuesday in November: you can stay ten minutes in front of the Calling of St Matthew practically alone. Bring coins."
       },
       {
@@ -891,33 +918,113 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the centre across the Tiber via Tiber Island, or by tram 8 (from Piazza Venezia, via Largo Argentina).",
         "quando": "Morning for the alleys; evening for dinner. Trastevere on Saturday night is very crowded.",
         "tempo": "half a day",
+        "costo": "free to walk; Santa Maria in Trastevere free entry",
+        "lat": 41.8894,
+        "lng": 12.47,
         "consiglio": "To eat well, move away from restaurants with waiters inviting you in. In Testaccio, Pigneto or San Lorenzo you get a well-made cacio e pepe, often for a fraction of the price near the monuments."
+      },
+      {
+        "nome": "Castel Sant'Angelo",
+        "testo": "Built as Hadrian's mausoleum, it became a fortress, a prison and a refuge for the popes, linked to the Vatican by the Passetto di Borgo. From the Angel terrace you look down on St Peter's and the Tiber.",
+        "come": "On foot from the Vatican along Via della Conciliazione, or from Piazza Navona across Ponte Sant'Angelo. You climb the Roman spiral ramp up to the terraces.",
+        "quando": "Late afternoon, for sunset over St Peter's dome.",
+        "tempo": "1.5-2 hours",
+        "costo": "about €18 (from 1 July 2026)",
+        "orari": "Tuesday-Sunday 9-19:30. Closed Mondays, 1 May and 25 December.",
+        "lat": 41.9031,
+        "lng": 12.4663,
+        "consiglio": "It pairs well with a morning at the Vatican: leave the Museums, have lunch in Borgo and come here in the afternoon."
+      },
+      {
+        "nome": "Trevi Fountain",
+        "testo": "Nicola Salvi's Baroque fountain, completed in 1762, set against Palazzo Poli in a tiny square. It is the backdrop of La Dolce Vita and of millions of coins tossed over the shoulder.",
+        "come": "On foot from the Spanish Steps or the Pantheon, ten minutes. Since 2026 the area by the basin is ticketed with controlled access; the square itself stays free.",
+        "quando": "Before 8 in the morning or after 22: during the day the square is packed solid.",
+        "tempo": "15-20 minutes",
+        "costo": "€2 (2026) to go down to the basin; the view from the square is free",
+        "lat": 41.9009,
+        "lng": 12.4833,
+        "consiglio": "Do not step into the fountain or sit on its edge: the police fine people."
+      },
+      {
+        "nome": "Piazza Navona",
+        "testo": "The square keeps the shape of Domitian's stadium, on which it is built. In the middle stands Bernini's Fountain of the Four Rivers, facing Borromini's façade of Sant'Agnese in Agone.",
+        "come": "Five minutes' walk from the Pantheon; buses to Corso Rinascimento or Largo Argentina.",
+        "quando": "Early morning or after dinner; in December there is the Befana Christmas market.",
+        "tempo": "30 minutes",
+        "costo": "free",
+        "lat": 41.8992,
+        "lng": 12.4731,
+        "consiglio": "The remains of the stadium can be seen beneath the square on the Piazza di Tor Sanguigna side, even from outside."
+      },
+      {
+        "nome": "Spanish Steps and Trinità dei Monti",
+        "testo": "The 18th-century staircase climbs from Bernini's Barcaccia fountain to the church of Trinità dei Monti. Around it are Via Condotti and the fashion streets; from the top you can walk to the Pincio.",
+        "come": "Metro A to Spagna, which comes out right by the square.",
+        "quando": "Early morning for empty steps; in spring the azaleas are out.",
+        "tempo": "30-45 minutes",
+        "costo": "free",
+        "lat": 41.9058,
+        "lng": 12.4823,
+        "consiglio": "Sitting on the steps is banned and fined."
+      },
+      {
+        "nome": "Capitoline Museums",
+        "testo": "The world's oldest public museum, on the Campidoglio square designed by Michelangelo. It holds the She-Wolf, the original equestrian Marcus Aurelius, Caravaggio and, from the Tabularium, the best view over the Forum.",
+        "come": "On foot from Piazza Venezia up the Cordonata ramp. Tickets online or at the desk.",
+        "quando": "In the afternoon after the Colosseum: at sunset the Tabularium looks over the Forum in the best light.",
+        "tempo": "2-3 hours",
+        "orari": "Daily 9:30-19:30, last entry one hour before. Closed 1 January, 1 May and 25 December.",
+        "lat": 41.893,
+        "lng": 12.4828,
+        "url": "https://www.museicapitolini.org/"
+      },
+      {
+        "nome": "Baths of Caracalla",
+        "testo": "These 3rd-century baths, with walls over thirty metres high and mosaics still on the floor, give the true scale of Roman architecture. In summer they host the Rome Opera's open-air season.",
+        "come": "Metro B to Circo Massimo and a ten-minute walk; about twenty minutes from the Colosseum on foot.",
+        "quando": "Morning, when it is quiet; summer evenings for the opera.",
+        "tempo": "1-1.5 hours",
+        "orari": "Tuesday to Sunday from 9, closing time varies by season. Closed Mondays.",
+        "lat": 41.879,
+        "lng": 12.4925,
+        "consiglio": "One of Rome's big sites with the fewest crowds: combine it with the Circus Maximus and the Aventine's Orange Garden."
+      },
+      {
+        "nome": "Santa Maria Maggiore",
+        "testo": "One of the four papal basilicas, with 5th-century mosaics in the nave and a gilded coffered ceiling. Pope Francis has been buried here since 2025, and his tomb draws many visitors.",
+        "come": "Ten minutes' walk from Termini, or metro A/B to Termini or Cavour. Free entry after the security check; shoulders and knees covered.",
+        "quando": "In the morning, before groups arrive at the tomb.",
+        "tempo": "30-45 minutes",
+        "costo": "free entry",
+        "lat": 41.8976,
+        "lng": 12.4984
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Colosseum and Roman Forum with a booked ticket, before the crowds.",
-          "Lunch away from the monuments, in Monti or Testaccio.",
-          "Afternoon at the Pantheon and San Luigi dei Francesi.",
-          "Stroll through Piazza Navona and, at sunset, Ponte Sant'Angelo.",
+          "Morning: Colosseum, Roman Forum and Palatine with a named ticket booked for the first slot.",
+          "Lunch in Monti, away from the monuments.",
+          "Afternoon: Pantheon, San Luigi dei Francesi and Piazza Navona.",
+          "Trevi Fountain after dinner, when the square empties.",
           "Dinner in Trastevere or the Ghetto."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Colosseum, Forum and Palatine in the morning; San Clemente and lunch in Monti; Pantheon and San Luigi dei Francesi in the afternoon.",
-          "Day 2: Vatican Museums at the first slot and St Peter's; lunch in Prati; free afternoon in Trastevere and dinner in the Ghetto."
+          "Day 1: Colosseum, Forum and Palatine in the morning; San Clemente and lunch in Monti; Capitoline Museums at sunset.",
+          "Day 2: Vatican Museums at the first slot and St Peter's; lunch in Borgo or Prati; Castel Sant'Angelo; Pantheon, San Luigi dei Francesi, Piazza Navona and Trevi in the evening."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: Colosseum, Forum and Palatine, San Clemente.",
-          "Day 2: Vatican Museums and St Peter's, then Castel Sant'Angelo and Piazza Navona.",
-          "Day 3: Galleria Borghese in the morning with a booking; in the afternoon the Appian Way (best on a Sunday) or Trastevere and the Ghetto."
+          "Day 1: Colosseum, Forum and Palatine, San Clemente, Capitoline Museums.",
+          "Day 2: Vatican Museums and St Peter's, Castel Sant'Angelo, Piazza Navona and the Pantheon.",
+          "Day 3: Galleria Borghese in the morning, Spanish Steps and Trevi; in the afternoon the Appian Way (best on Sunday) or the Baths of Caracalla and Trastevere."
         ]
       }
     ],
@@ -925,22 +1032,52 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Monti",
         "perChi": "anyone who wants a lively neighbourhood close to the Colosseum and Termini",
-        "testo": "Alleys, workshops and bars on foot from the Colosseum. A bit noisy in the evening, with few big hotels and many apartments. Convenient for metro and trains."
+        "testo": "Alleys, workshops and bars on foot from the Colosseum. A bit noisy in the evening, with few big hotels and many apartments. Convenient for metro and trains.",
+        "fascia": "130-250 €"
       },
       {
         "nome": "Trastevere",
         "perChi": "anyone who wants evening life",
-        "testo": "Lanes, osterie and music. Crowded and noisy at weekends; the restaurants on the main streets are touristy. The centre is a walk across the Tiber."
+        "testo": "Lanes, osterie and music. Crowded and noisy at weekends; the restaurants on the main streets are touristy. The centre is a walk across the Tiber.",
+        "fascia": "120-220 €"
       },
       {
         "nome": "Prati",
         "perChi": "anyone who wants to spend less and see the Vatican",
-        "testo": "A residential district with lower prices and metro A for St Peter's and Termini. Not very charming, but quiet and convenient."
+        "testo": "A residential district with lower prices and metro A for St Peter's and Termini. Not very charming, but quiet and convenient.",
+        "fascia": "100-180 €"
       },
       {
         "nome": "Testaccio",
         "perChi": "anyone who wants to eat well and stay out of the crowds",
-        "testo": "A working-class district with historic trattorias and the market. A bit off the beaten track from the centre and the monuments, but well connected by metro B."
+        "testo": "A working-class district with historic trattorias and the market. A bit off the beaten track from the centre and the monuments, but well connected by metro B.",
+        "fascia": "90-160 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Tivoli: Villa d'Este and Hadrian's Villa",
+        "distanza": "30 km, about 1 hour",
+        "come": "Regional train from Tiburtina or Cotral bus from Ponte Mammolo (metro B); a local bus links the two villas.",
+        "testo": "The Renaissance fountains of Villa d'Este and Emperor Hadrian's vast residence, both UNESCO sites. Together they fill a full day."
+      },
+      {
+        "nome": "Ostia Antica",
+        "distanza": "25 km, about 40 minutes",
+        "come": "Roma-Lido train from Piramide (metro B) to Ostia Antica, on a standard city ticket.",
+        "testo": "Ancient Rome's port: streets, houses, baths, a theatre and shops with the guilds' mosaics. A Pompeii with fewer crowds, half an hour from the centre."
+      },
+      {
+        "nome": "Orvieto",
+        "distanza": "1-1h20 by train",
+        "come": "Regional or Intercity train from Termini, then the funicular from the station up the cliff.",
+        "testo": "A tufa town on a cliff, with a cathedral whose façade is covered in mosaics and Signorelli's frescoes inside. Below lies a second town of caves and wells."
+      },
+      {
+        "nome": "Castelli Romani and Frascati",
+        "distanza": "20 km, 30 minutes by train",
+        "come": "Regional train from Termini to Frascati; for Castel Gandolfo and Nemi a car is better.",
+        "testo": "Hill towns on volcanic slopes with Frascati white wine, rustic fraschette taverns and the lakes of Albano and Nemi. It is where Romans go on Sundays."
       }
     ],
     sapori: [
@@ -976,6 +1113,32 @@ export const destinazioniItalia: Destinazione[] = [
       "Taxis: take only white licensed ones, with a fixed fare from Fiumicino airport to the centre inside the Aurelian Walls. Refuse anyone offering a negotiated price at arrivals.",
       "Fake centurions and people who put bracelets or roses in your hand ask for money afterwards: say no firmly. Do not enter the fountains, there is a fine.",
       "A tourist tax is charged per night, to be paid at the accommodation; the amount depends on the category. The historic centre has a ZTL with cameras: if you arrive by car, ask your hotel how to avoid a fine."
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Rome?",
+        "risposta": "Three days cover the Colosseum, the Vatican and the historic centre without rushing. With four or five you can add the Borghese, the Appian Way and a trip to Tivoli or Ostia."
+      },
+      {
+        "domanda": "Do you need to book the Colosseum?",
+        "risposta": "Yes, in practice: the ticket is named and timed, and the best slots sell out weeks ahead. Buy only on the official site and bring ID to the entrance."
+      },
+      {
+        "domanda": "Can you do the Vatican and the Colosseum on the same day?",
+        "risposta": "You can, but it is not advisable: they are two tiring half-days at opposite ends of the centre. Better to give each its own morning."
+      },
+      {
+        "domanda": "Where should you stay in Rome the first time?",
+        "risposta": "Monti to be within walking distance of the Colosseum, Trastevere for evenings, Prati to spend less and be near the Vatican. A double ranges from about €90 in Testaccio to over €200 in Monti in high season."
+      },
+      {
+        "domanda": "When are Rome's museums free?",
+        "risposta": "The first Sunday of the month for the Colosseum, the Pantheon and state museums; the last Sunday of the month for the Vatican Museums. They are the days with the longest queues of the year."
+      },
+      {
+        "domanda": "How do you get from Fiumicino to central Rome?",
+        "risposta": "The Leonardo Express reaches Termini in 32 minutes for €14. Licensed white taxis charge a fixed €55 to the centre inside the Aurelian Walls."
+      }
     ],
     esperienzeSlugs: ['roma-sotterranea', 'appia-antica'],
     tripSlugs: ['roma-4-giorni', 'grandi-citta-italia'],
@@ -1014,13 +1177,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Tuscan cuisine is humble and ingredient-driven: ribollita, pappa al pomodoro, panzanella in summer, and the bistecca alla fiorentina, a precise cut, at least three fingers thick, cooked rare with no discussion and served by the kilo. Try the lampredotto sandwiches at the stands, the most Florentine thing there is, and the chicken-liver crostini. The Sant'Ambrogio market is the one the residents use; the central San Lorenzo one, on the upper floor, has become a food court.",
     comeArrivare:
-      "High-speed rail: Firenze Santa Maria Novella is in the center, fifteen minutes' walk from the Duomo, and connects to Milan in an hour and forty and Rome in an hour and a half. Florence's airport is small; Pisa and Bologna are the alternatives with train connections.",
+      'High-speed rail: Firenze Santa Maria Novella is in the center, fifteen minutes\' walk from the Duomo, and connects to Milan in an hour and forty and Rome in an hour and a half. Florence\'s airport is small; Pisa and Bologna are the alternatives with train connections. From Peretola airport the T2 tram reaches Santa Maria Novella in about 20 minutes for about €2; taxis have a fixed daytime fare to the centre of about €28. From Pisa, the Pisa Mover plus a regional train gets you to Florence in just over an hour.',
     comeSpostarsi:
       "Everything on foot: the historic center is small, which is both its virtue and the cause of its congestion. The tram serves the outskirts and the airport. **A car in the center is useless and the ZTL (limited traffic zone) fines it**, with cameras that penalize those who don't know.",
     periodoMigliore:
       "November, January and February are the months when the city becomes livable again and museums can be visited without endless lines. April-June and September-October are the most beautiful and the most crowded. July and August are scorching and saturated.",
     costi:
-      "The Uffizi and the Accademia have higher rates in high season; the combined ticket for the Duomo complex covers the dome, baptistery, bell tower, crypt and museum and is the only way up. **On the first Sunday of the month state museums are free**, and so there are huge lines.",
+      'The Uffizi and the Accademia have higher rates in high season; the combined ticket for the Duomo complex covers the dome, baptistery, bell tower, crypt and museum and is the only way up. **On the first Sunday of the month state museums are free**, and so there are huge lines. Rough daily budget per person, sharing a double: low €70-90, mid €120-170, high over €250.',
     erroriDaEvitare: [
       "Showing up at the Uffizi or the Accademia without a reservation: lines can run to hours, and in high season you risk not getting in",
       "Not booking the dome climb, which has capped time slots and sells out days ahead",
@@ -1038,6 +1201,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Right in the centre, walkable from the station. The dome climb is by time slot and must be booked online on the Opera del Duomo's official site. Entry to the cathedral is free, with a queue at security.",
         "quando": "First slot in the morning, to climb with few people. The stairs are narrow and there are no lifts: not suitable for anyone claustrophobic or afraid of heights.",
         "tempo": "1.5 hours for the dome, plus the cathedral",
+        "costo": "cathedral free; Brunelleschi Pass about €30 (2026), valid three days for dome, Baptistery, bell tower, Opera museum and crypt",
+        "lat": 43.7731,
+        "lng": 11.256,
         "url": "https://www.duomo.firenze.it/",
         "consiglio": "I climbed the dome in the first slot, at half past eight: it is a different experience from midday. You pass close to the frescoes and at the top there is air."
       },
@@ -1047,6 +1213,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Two steps from the Duomo, behind it. The combined Duomo complex ticket includes dome, baptistery, bell tower, crypt and museum.",
         "quando": "Every day; check hours on the website. Early morning it is almost empty.",
         "tempo": "1.5-2 hours",
+        "costo": "included in the Duomo complex passes",
+        "lat": 43.7733,
+        "lng": 11.2577,
         "url": "https://www.duomo.firenze.it/",
         "consiglio": "I would not skip it: inside are the Baptistery doors and Michelangelo's last Pietà, the one he wanted to destroy. When I went there were four people."
       },
@@ -1057,6 +1226,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Tuesday to Sunday 8:15-18:30, last entry 17:30; closed on Mondays, 1 January and 25 December. First slot in the morning or late afternoon.",
         "tempo": "3 hours",
         "costo": "25 euros on the day, 29 euros booked in advance (official site, 2026)",
+        "orari": "Tuesday-Sunday 8:15-18:30. Closed Mondays.",
+        "lat": 43.7678,
+        "lng": 11.2553,
         "url": "https://www.uffizi.it/",
         "consiglio": "Book weeks ahead in high season. Three hours are enough for the main rooms: try to concentrate on Botticelli, Leonardo and Caravaggio."
       },
@@ -1066,6 +1238,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the Duomo, on via Ricasoli. Booking recommended.",
         "quando": "Closed on Mondays; hours and free days on the official site. The first morning slot is best.",
         "tempo": "1-1.5 hours",
+        "costo": "about €20 plus booking (2026)",
+        "orari": "Tuesday-Sunday 8:15-18:50. Closed Mondays.",
+        "lat": 43.7768,
+        "lng": 11.2586,
+        "url": "https://www.galleriaaccademiafirenze.it/",
         "consiglio": "The David is best seen up close, walking around it: the Prisoners in the gallery help you understand how Michelangelo worked. Book in advance."
       },
       {
@@ -1074,6 +1251,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the Ponte Vecchio. The museums and the garden have separate or combined tickets: check the website.",
         "quando": "Closed on Mondays. In summer the garden is hot and shadeless in many places: go early in the morning.",
         "tempo": "half a day",
+        "costo": "Pitti Palace €16 on the day, €19 booked ahead; Pitti and Boboli €22 (official site, 2026)",
+        "orari": "Palazzo Pitti Tuesday-Sunday 8:15-18:30, closed Mondays. Boboli from 8:15 to dusk, closed the first and last Monday of the month.",
+        "lat": 43.7651,
+        "lng": 11.25,
         "url": "https://www.uffizi.it/palazzo-pitti",
         "consiglio": "The Boboli Garden is the right place to rest after the crowds of the centre. Bring water."
       },
@@ -1083,6 +1264,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In the Oltrarno, on piazza del Carmine, walkable from the centre. Limited numbers and booking recommended.",
         "quando": "Check hours and closing days on the Florence civic museums website before going.",
         "tempo": "45 minutes",
+        "lat": 43.768,
+        "lng": 11.244,
         "url": "https://museicivicifiorentini.comune.fi.it/",
         "consiglio": "It is less crowded than the big museums and just as important. Before going in it is worth reading a couple of lines on Masaccio: the visit is far more interesting."
       },
@@ -1092,6 +1275,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the Ponte Vecchio, via Porta San Niccolò and the steps, or by bus. Just above Piazzale Michelangelo.",
         "quando": "Every day. Late afternoon, for sunset and the monks' chant. Check service times on the website.",
         "tempo": "1 hour",
+        "costo": "free entry",
+        "lat": 43.7595,
+        "lng": 11.265,
         "url": "https://www.sanminiatoalmonte.it/",
         "consiglio": "Just above Piazzale Michelangelo, which at that hour is a car park with vendors, there is the same view with fewer people. In the crypt the monks sing Gregorian chant in the afternoon."
       },
@@ -1101,33 +1287,120 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot over the Ponte Vecchio or the Ponte alla Carraia. No tickets are needed: you walk and step into the workshops.",
         "quando": "Weekday afternoons, when the workshops are open. On Sundays many are closed.",
         "tempo": "half a day",
+        "costo": "free to walk; Santo Spirito basilica free or by donation",
+        "lat": 43.7672,
+        "lng": 11.2479,
         "consiglio": "Always ask permission before photographing inside workshops. For dinner, the trattorias of the Oltrarno are better and cheaper than those around the Duomo."
+      },
+      {
+        "nome": "Piazza della Signoria and Palazzo Vecchio",
+        "testo": "The city's political square, with the copy of David, Ammannati's Neptune and the Loggia dei Lanzi full of open-air statues. Palazzo Vecchio, still the town hall, has the Hall of the Five Hundred and a tower that looks at the dome at eye level.",
+        "come": "Five minutes' walk from the Duomo along Via dei Calzaiuoli. Museum and tower have separate or combined tickets.",
+        "quando": "The square in the evening, after the groups have gone; the tower in good weather, as it closes in rain.",
+        "tempo": "1.5-2 hours with the museum",
+        "costo": "square and Loggia dei Lanzi free; museum and tower ticketed",
+        "lat": 43.7694,
+        "lng": 11.2562
+      },
+      {
+        "nome": "Ponte Vecchio",
+        "testo": "The only Florentine bridge spared by the Germans in 1944, with goldsmiths' shops hanging over the Arno. Above it runs the Vasari Corridor, which linked Palazzo Vecchio to Palazzo Pitti.",
+        "come": "On foot from the Uffizi; the best view of the bridge is from Ponte Santa Trinita, the next one west.",
+        "quando": "At dawn or sunset; during the day it is a corridor of crowds.",
+        "tempo": "15-20 minutes",
+        "costo": "free",
+        "lat": 43.768,
+        "lng": 11.2531
+      },
+      {
+        "nome": "Bargello Museum",
+        "testo": "The former palace of the podestà, later a prison, is now the museum of sculpture: Donatello's David, Michelangelo's Bacchus, bronzes by Cellini and Giambologna. Its medieval courtyard is among the finest in the city.",
+        "come": "On Via del Proconsolo, three minutes from the Signoria. Off season you usually don't need to book.",
+        "quando": "Early afternoon, when the Uffizi is packed.",
+        "tempo": "1.5 hours",
+        "costo": "about €12 (2026); combined ticket with Accademia and Medici Chapels",
+        "orari": "Closed Mondays.",
+        "lat": 43.7704,
+        "lng": 11.2581,
+        "url": "https://bargellomusei.it/"
+      },
+      {
+        "nome": "Basilica of Santa Croce",
+        "testo": "The great Franciscan church where Michelangelo, Galileo, Machiavelli and Rossini are buried. The Bardi and Peruzzi chapels hold Giotto's frescoes, and the cloister has Brunelleschi's Pazzi Chapel.",
+        "come": "Ten minutes' walk from the Signoria. One ticket for basilica, cloisters and museum.",
+        "quando": "In the morning; on Sundays visits open only in the afternoon.",
+        "tempo": "1-1.5 hours",
+        "lat": 43.7686,
+        "lng": 11.2622,
+        "url": "https://www.santacroceopera.it/"
+      },
+      {
+        "nome": "Medici Chapels",
+        "testo": "The Medici mausoleum behind San Lorenzo: the Chapel of the Princes clad in marble and inlaid stone, and Michelangelo's New Sacristy, with the tombs and the statues of Day, Night, Dawn and Dusk.",
+        "come": "Entrance on Piazza Madonna degli Aldobrandini, five minutes from the Duomo and the station.",
+        "quando": "Any time: there is rarely a queue.",
+        "tempo": "45 minutes-1 hour",
+        "costo": "about €11 (2026)",
+        "orari": "Closed Mondays.",
+        "lat": 43.775,
+        "lng": 11.2532,
+        "url": "https://bargellomusei.it/"
+      },
+      {
+        "nome": "Santa Maria Novella",
+        "testo": "The Dominican basilica opposite the station, with Leon Battista Alberti's marble façade. Inside are Masaccio's Trinity, Giotto's Crucifix and the Tornabuoni Chapel frescoed by Ghirlandaio.",
+        "come": "Opposite Santa Maria Novella station; enter from the square or the garden side. Ticket for the whole complex.",
+        "quando": "Right after arriving or before your train: it is steps from the platforms.",
+        "tempo": "1 hour",
+        "lat": 43.7743,
+        "lng": 11.2493,
+        "url": "https://www.smn.it/"
+      },
+      {
+        "nome": "Piazzale Michelangelo",
+        "testo": "The viewing terrace above the Oltrarno, with the whole of Florence in front of you: dome, Palazzo Vecchio, the Arno bridges. It is crowded and full of vendors, but it is the classic postcard.",
+        "come": "About 25 minutes' walk from Ponte Vecchio up the Rampe del Poggi or Via San Niccolò; or bus 12 or 13.",
+        "quando": "Early morning for light without crowds; at sunset it is better to carry on up to San Miniato.",
+        "tempo": "30 minutes plus the climb",
+        "costo": "free",
+        "lat": 43.7629,
+        "lng": 11.265
+      },
+      {
+        "nome": "Mercato Centrale and San Lorenzo",
+        "testo": "The 19th-century cast-iron covered market: butchers, cheese stalls and lampredotto on the ground floor, a food hall upstairs. Next door is San Lorenzo, the Medici church, with Michelangelo's Laurentian Library.",
+        "come": "Five minutes from the station and the Duomo, through the leather stalls around it.",
+        "quando": "Morning for the real market; lunchtime for the food hall.",
+        "tempo": "1 hour",
+        "costo": "free entry to the market",
+        "lat": 43.7765,
+        "lng": 11.2534,
+        "consiglio": "The leather stalls around the market are aimed at tourists: check quality piece by piece."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: climb Brunelleschi's dome with a booking.",
-          "Morning: Museo dell'Opera del Duomo.",
-          "Early afternoon: lunch with a lampredotto sandwich or in a Sant'Ambrogio trattoria.",
-          "Early afternoon: Uffizi (room by room, without trying to see everything).",
-          "Sunset at San Miniato al Monte, then dinner in the Oltrarno."
+          "Dome at the first 8:30 slot, then the Baptistery and the Museo dell'Opera del Duomo.",
+          "Piazza della Signoria and Loggia dei Lanzi; lampredotto lunch at the Mercato Centrale or Sant'Ambrogio.",
+          "Uffizi in the afternoon with a booked slot.",
+          "Ponte Vecchio and the Oltrarno; San Miniato al Monte at sunset."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: dome early in the morning, Museo dell'Opera del Duomo, lunch in Sant'Ambrogio, Uffizi in the afternoon.",
-          "Day 2: Accademia and the David at the first slot; Oltrarno with the Brancacci Chapel and Santo Spirito; sunset at San Miniato."
+          "Day 1: dome and Museo dell'Opera, Signoria and Palazzo Vecchio, Uffizi in the afternoon, Ponte Vecchio at sunset.",
+          "Day 2: Accademia for David at opening, Medici Chapels and Mercato Centrale; in the afternoon Santa Croce, then the Oltrarno, Santo Spirito and San Miniato at sunset."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: dome, Museo dell'Opera del Duomo, the historic centre on foot.",
-          "Day 2: Uffizi in the morning, Accademia in the afternoon.",
-          "Day 3: Palazzo Pitti and Boboli, Brancacci Chapel, Oltrarno; San Miniato at sunset."
+          "Day 1: Duomo complex, Signoria, Uffizi.",
+          "Day 2: Accademia, Medici Chapels, Bargello, Santa Croce.",
+          "Day 3: Palazzo Pitti and Boboli, Brancacci Chapel, Santo Spirito and the workshops; sunset at San Miniato, or a trip to Fiesole."
         ]
       }
     ],
@@ -1135,22 +1408,52 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Oltrarno",
         "perChi": "anyone who wants a lively district five minutes from the centre",
-        "testo": "Workshops, trattorias and squares. Quieter than the centre, with slightly lower prices. San Frediano is the district for the evening."
+        "testo": "Workshops, trattorias and squares. Quieter than the centre, with slightly lower prices. San Frediano is the district for the evening.",
+        "fascia": "110-200 €"
       },
       {
         "nome": "Sant'Ambrogio",
         "perChi": "anyone looking for lower prices and a real market",
-        "testo": "A residential area east of the Duomo, with the Florentines' market and many trattorias. A bit off the tourist routes."
+        "testo": "A residential area east of the Duomo, with the Florentines' market and many trattorias. A bit off the tourist routes.",
+        "fascia": "100-180 €"
       },
       {
         "nome": "Santa Maria Novella",
         "perChi": "anyone arriving by train and leaving early",
-        "testo": "Close to the station: convenient for trains and buses to Tuscany. A busier area and less pleasant in the evening."
+        "testo": "Close to the station: convenient for trains and buses to Tuscany. A busier area and less pleasant in the evening.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Historic centre (Duomo and Signoria)",
         "perChi": "anyone who wants everything on foot and does not mind the prices",
-        "testo": "Extremely convenient and expensive. In the evening there are few residents and many tourists, and the noise of the pedestrian streets reaches the rooms."
+        "testo": "Extremely convenient and expensive. In the evening there are few residents and many tourists, and the noise of the pedestrian streets reaches the rooms.",
+        "fascia": "150-300 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Siena",
+        "distanza": "75 km, 1h15 by bus",
+        "come": "Direct buses from Florence, which drop you closer to the centre than the train; by train 1h30 plus escalators up to town.",
+        "testo": "Piazza del Campo, the cathedral with its inlaid floor and the Palazzo Pubblico with Lorenzetti's Good Government. Florence's Gothic rival."
+      },
+      {
+        "nome": "Pisa and Lucca",
+        "distanza": "1 hour by train each",
+        "come": "Frequent regional trains from Santa Maria Novella; Pisa and Lucca are 30 minutes apart by train.",
+        "testo": "Pisa's Piazza dei Miracoli in the morning, Lucca's tree-lined walls by bike in the afternoon. They work well on the same day."
+      },
+      {
+        "nome": "Chianti",
+        "distanza": "30-60 km, 45 minutes by car",
+        "come": "By car or on an organised tour; there is a bus to Greve, but it makes visiting several wineries hard.",
+        "testo": "Hills of vines and cypresses between Greve, Panzano, Radda and Castellina, with cellar tastings. The driver does not drink: a tour with a driver is better."
+      },
+      {
+        "nome": "Fiesole",
+        "distanza": "8 km, 20-30 minutes by bus",
+        "come": "City bus 7 from Piazza San Marco on a normal ticket.",
+        "testo": "The Etruscan hill town with a Roman theatre and a view over Florence from the convent of San Francesco. A cool half-day in summer."
       }
     ],
     sapori: [
@@ -1186,6 +1489,32 @@ export const destinazioniItalia: Destinazione[] = [
       "Pickpocketing at Santa Maria Novella station, on crowded buses and in the most visited spots such as the Ponte Vecchio. Keep bags closed and in front.",
       "In restaurants check the price of the steak per hundred grams and the cover charge. Be wary of places with tourist menus around the Duomo and Piazza della Signoria.",
       "A tourist tax is charged per night, to be paid at the accommodation. In case of transport strikes, leave a time margin."
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Florence?",
+        "risposta": "Two full days for the Duomo, Uffizi, Accademia and Oltrarno; three to add Pitti, the Bargello and Santa Croce without rushing. With four you can do a trip to Siena or Chianti."
+      },
+      {
+        "domanda": "Do you need to book Brunelleschi's dome?",
+        "risposta": "Yes: the climb has limited time slots and is booked with the Brunelleschi Pass on the Opera del Duomo site. In high season slots sell out weeks ahead."
+      },
+      {
+        "domanda": "Should you book the Uffizi and the Accademia?",
+        "risposta": "Always advisable, especially April to October, when queues without a booking can last hours. Both are closed on Mondays."
+      },
+      {
+        "domanda": "Can you drive into central Florence?",
+        "risposta": "No: the centre is a camera-controlled ZTL and fines arrive at home months later. Leave the car in a car park outside the zone and walk."
+      },
+      {
+        "domanda": "How do you get to Florence from Pisa airport?",
+        "risposta": "Pisa Mover to Pisa Centrale in 5 minutes, then a regional train to Santa Maria Novella in about an hour, about €9 for the train. Direct buses take about 1h10."
+      },
+      {
+        "domanda": "Where to stay in Florence?",
+        "risposta": "Oltrarno or Sant'Ambrogio for a lived-in neighbourhood, Santa Maria Novella for train convenience. In the centre a double starts at about €150 and often tops €250 in high season."
+      }
     ],
     esperienzeSlugs: ['cupola-brunelleschi'],
     tripSlugs: ['firenze-3-giorni', 'grandi-citta-italia'],
@@ -1224,13 +1553,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Venetian cuisine is lagoon and humble fish: sarde in saor, baccalà mantecato, moeche (soft-shell crabs, seasonal and very expensive), risotto di gò, fegato alla veneziana. The right way to eat is the **bacari crawl**: small taverns where you eat cicheti standing at the counter (half an egg with anchovy, meatballs, baccalà on a crostino) with a shadow of wine, moving from one to the next. It costs little and you eat very well, as long as you leave the main routes.",
     comeArrivare:
-      "Train to Venezia Santa Lucia, which is **inside** the city: it's the most sensible way to get there. Marco Polo Airport, connected by Alilaguna vaporetto or bus to Piazzale Roma. By car you only get as far as Piazzale Roma or Tronchetto, with extremely expensive parking.",
+      'Train to Venezia Santa Lucia, which is **inside** the city: it\'s the most sensible way to get there. Marco Polo Airport, connected by Alilaguna vaporetto or bus to Piazzale Roma. By car you only get as far as Piazzale Roma or Tronchetto, with extremely expensive parking. From Marco Polo the ATVO bus or Aerobus 5 reaches Piazzale Roma in 20-25 minutes for about €10; the Alilaguna boat goes to San Marco in about 75 minutes for about €15-18; a private water taxi starts at about €120-150 per boat.',
     comeSpostarsi:
       "On foot and by vaporetto. **Single vaporetto tickets are expensive and timed passes pay for themselves right away** if you make more than one ride a day. The gondola ferries (traghetti) that cross the Grand Canal at points without a bridge cost a few cents and almost no visitor knows they exist.",
     periodoMigliore:
       "From November to February, Carnival excluded, Venice becomes a city again. Days are short and damp, there's a chance of acqua alta (which the MOSE now limits but doesn't eliminate), but in exchange you have the campielli all to yourself. April-June and September-October are the most beautiful and the most saturated months.",
     costi:
-      "**The access fee** applies to those who enter for the day without staying overnight, on a set number of high-season days: in 2026 it was charged on 60 days between April and July, 5 euros if booked at least four days ahead and 10 euros below that threshold. Those who stay overnight in the city are exempt but still have to register. The calendar changes every year: it's worth checking before you go. The timed vaporetto pass is almost always worthwhile; the gondola has rates set by the city and is expensive anyway.",
+      '**The access fee** applies to those who enter for the day without staying overnight, on a set number of high-season days: in 2026 it was charged on 60 days between April and July, 5 euros if booked at least four days ahead and 10 euros below that threshold. Those who stay overnight in the city are exempt but still have to register. The calendar changes every year: it\'s worth checking before you go. The timed vaporetto pass is almost always worthwhile; the gondola has rates set by the city and is expensive anyway. Rough daily budget per person, sharing a double: low €80-100 (staying in Mestre), mid €150-200, high over €300.',
     erroriDaEvitare: [
       "Coming for the day in high season without checking the access fee and without booking it in advance, paying double",
       "Doing Venice between ten and five and judging it: in those hours, on the main routes, it's a dense crowd. At seven in the morning the same calle is empty",
@@ -1248,6 +1577,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In Piazza San Marco, reached by vaporetto (San Marco-San Zaccaria stop) or on foot from Rialto. Entry requires clothes covering shoulders and knees. Backpacks and large bags are not allowed in: there are left-luggage points nearby.",
         "quando": "Every day; the early hours of the morning are the least crowded. During religious services access is limited.",
         "tempo": "1 hour",
+        "costo": "about €10 with timed online booking (2026)",
+        "lat": 45.4345,
+        "lng": 12.3397,
         "url": "https://www.basilicasanmarco.it/",
         "consiglio": "Book entry online to avoid the queue in the square. The Pala d'Oro and the Museum with the Loggia of the Horses have their own tickets: the loggia is worth the climb, to see the mosaics up close and the square from above."
       },
@@ -1258,6 +1590,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Open every day: 9am-7pm from April to October, 9am-6pm from November to March, last entry one hour before closing. Early morning or late afternoon to avoid the groups.",
         "tempo": "2-3 hours",
         "costo": "35 euros full price, including the Museums of St Mark's Square; 30 euros if bought online more than 30 days ahead (2026)",
+        "lat": 45.4337,
+        "lng": 12.3404,
         "url": "https://palazzoducale.visitmuve.it/",
         "consiglio": "Buying online more than a month ahead saves 5 euros and lets you skip the queue. If you have time, the Secret Itineraries, a guided tour, show rooms the normal route does not reach."
       },
@@ -1267,6 +1601,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the railway station or Piazzale Roma, near the Frari church (campo San Rocco). By vaporetto, San Tomà stop.",
         "quando": "Open every day; check hours and closures on the website. The middle hours are quiet.",
         "tempo": "1 hour",
+        "lat": 45.4365,
+        "lng": 12.3264,
         "url": "https://www.scuolagrandesanrocco.it/",
         "consiglio": "Borrow one of the mirrors at the entrance to look at the ceiling paintings. In the Frari, a short walk away, are the altarpieces by Titian and Bellini."
       },
@@ -1276,6 +1612,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the station or San Marco, or by vaporetto to Rialto. The market is a few minutes from the bridge.",
         "quando": "Early morning. Check the Pescheria's opening days. The bridge fills up by late morning.",
         "tempo": "1 hour",
+        "costo": "free",
+        "orari": "Fish market Tuesday to Saturday mornings; closed Sunday and Monday.",
+        "lat": 45.4392,
+        "lng": 12.3343,
         "consiglio": "After the market, go and eat cicheti at the nearby bacari. See the bridge at dawn, when it is empty."
       },
       {
@@ -1284,6 +1624,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the railway station. The Jewish museum runs guided tours of the synagogues.",
         "quando": "Open all year; Jewish museum hours and closures on its website.",
         "tempo": "half a day",
+        "costo": "free to walk; synagogues only with the Jewish Museum's guided tour",
+        "lat": 45.4447,
+        "lng": 12.326,
         "consiglio": "Get lost in the calli away from the station-Rialto axis: in Cannaregio it is easy to find Venice as the residents live it."
       },
       {
@@ -1292,6 +1635,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From the San Zaccaria stop take the line 2 vaporetto to San Giorgio, a few minutes. The bell tower has a lift.",
         "quando": "Every day; late afternoon gives the best light on San Marco. Check the lift hours.",
         "tempo": "1 hour",
+        "costo": "church free; bell tower ticketed",
+        "lat": 45.4294,
+        "lng": 12.3433,
         "consiglio": "From the bell tower you see San Marco and the whole lagoon with a fraction of the crowd on the campanile in the square."
       },
       {
@@ -1300,6 +1646,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Fondamente Nove by vaporetto line 12 to Burano, and from there line 9 to Torcello.",
         "quando": "Every day; the morning is quiet. Check the basilica's opening hours.",
         "tempo": "half a day, combined with Burano",
+        "lat": 45.4977,
+        "lng": 12.418,
         "consiglio": "I went in the middle of the day and there were twenty people: this is where Venice began, before Venice existed."
       },
       {
@@ -1308,34 +1656,102 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By vaporetto from Fondamente Nove: line 12 stops at Murano and continues to Burano. At the Glass Museum you see the historic pieces.",
         "quando": "All year; early morning is less crowded. In winter the islands are quiet.",
         "tempo": "half a day each",
+        "costo": "vaporetto on ACTV passes; Murano glassworks often free to enter",
+        "lat": 45.4853,
+        "lng": 12.4168,
         "consiglio": "Avoid furnaces that bring tourists in with free demonstrations and then push them to buy: buy glass carrying the Vetro Artistico Murano mark."
+      },
+      {
+        "nome": "Grand Canal by vaporetto (line 1)",
+        "testo": "Line 1 runs the full length of the Grand Canal, stopping at almost every pier, past Ca' d'Oro, Rialto, Ca' Rezzonico and the Salute. It is the cheapest and finest sightseeing ride in the city.",
+        "come": "Board at Ferrovia or Piazzale Roma and get off at San Marco: about 40 minutes. Try for the outside seats at the bow or stern.",
+        "quando": "Early morning or in the evening, when the palaces are lit and it is less crowded.",
+        "tempo": "40 minutes",
+        "costo": "single ride about €9.50, 24-hour pass about €25 (2026)",
+        "lat": 45.441,
+        "lng": 12.3215,
+        "url": "https://actv.avmspa.it/"
+      },
+      {
+        "nome": "Gallerie dell'Accademia",
+        "testo": "The gallery of Venetian painting, from Bellini and Carpaccio to Giorgione, Titian, Tintoretto and Veronese. It holds Giorgione's Tempest and Veronese's Feast in the House of Levi.",
+        "come": "Accademia vaporetto stop, at the foot of the wooden bridge, in Dorsoduro.",
+        "quando": "Closed on Mondays from 2026: best in the morning, Tuesday to Sunday.",
+        "tempo": "2 hours",
+        "costo": "about €15 (2026)",
+        "orari": "Tuesday-Sunday 9-19, ticket office until 18. Closed Mondays.",
+        "lat": 45.4312,
+        "lng": 12.3282,
+        "url": "https://www.gallerieaccademia.it/"
+      },
+      {
+        "nome": "Peggy Guggenheim Collection",
+        "testo": "Peggy Guggenheim's house-museum in an unfinished palazzo on the Grand Canal, with Pollock, Magritte, Ernst, Picasso and Calder. The sculpture garden and the terrace on the water are worth the visit on their own.",
+        "come": "Five minutes' walk from the Accademia, in Dorsoduro; online ticket recommended.",
+        "quando": "Late morning, after the Gallerie dell'Accademia.",
+        "tempo": "1.5 hours",
+        "costo": "about €17 (2026)",
+        "orari": "10 to 18. Closed Tuesdays.",
+        "lat": 45.4309,
+        "lng": 12.3315,
+        "url": "https://www.guggenheim-venice.it/"
+      },
+      {
+        "nome": "Frari Basilica",
+        "testo": "The great Gothic Franciscan church in San Polo, with Titian's Assumption on the high altar and his Pesaro Altarpiece. Titian and Canova are buried here.",
+        "come": "On foot from San Rocco next door, or fifteen minutes from Rialto. Entry ticket, or the Chorus Pass.",
+        "quando": "Pair it with San Rocco on the same morning.",
+        "tempo": "45 minutes",
+        "costo": "about €8 (2026)",
+        "lat": 45.4371,
+        "lng": 12.3267,
+        "url": "https://www.basilicadeifrari.it/"
+      },
+      {
+        "nome": "St Mark's Campanile",
+        "testo": "The 98-metre bell tower, rebuilt identically after it collapsed in 1902. A lift takes you up, and from the belfry you see the lagoon, the islands and, on clear days, the Dolomites.",
+        "come": "In St Mark's Square; timed online ticket to skip the queue.",
+        "quando": "On a clear winter day, or in the last hour for sunset.",
+        "tempo": "30-45 minutes",
+        "lat": 45.434,
+        "lng": 12.339,
+        "consiglio": "If the queue is long, the view from San Giorgio Maggiore is similar and less crowded."
+      },
+      {
+        "nome": "Santa Maria della Salute",
+        "testo": "Longhena's Baroque basilica, vowed after the plague of 1630, closes the Grand Canal opposite St Mark's. The sacristy holds paintings by Titian and Tintoretto's Wedding at Cana.",
+        "come": "Salute vaporetto stop, or on foot from the Accademia; from St Mark's you can cross by gondola traghetto when it runs.",
+        "quando": "On 21 November, the Festa della Salute, when a pontoon bridge crosses the canal.",
+        "tempo": "30-45 minutes",
+        "costo": "basilica free; sacristy with a small fee",
+        "lat": 45.4308,
+        "lng": 12.3346
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: early walk from Rialto to San Marco, when the calli are empty.",
-          "Morning: St Mark's Basilica with a booked entry.",
-          "Morning: Doge's Palace.",
-          "Early afternoon: bacari crawl in Cannaregio or Castello.",
-          "Early afternoon: Scuola Grande di San Rocco.",
-          "Sunset by vaporetto along the whole Grand Canal."
+          "Arrive at Santa Lucia and take vaporetto line 1 down the Grand Canal to San Marco.",
+          "St Mark's Basilica with a booking, then the Doge's Palace.",
+          "Cicchetti lunch around Rialto and the market.",
+          "Afternoon in San Polo and the Frari, with the Scuola Grande di San Rocco.",
+          "Evening in Cannaregio, on the Fondamenta della Misericordia."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: dawn between Rialto and San Marco, Basilica, Doge's Palace, San Giorgio Maggiore at sunset.",
-          "Day 2: Rialto and the market, Scuola Grande di San Rocco and the Frari, Cannaregio and the Ghetto, bacari crawl."
+          "Day 1: Grand Canal by vaporetto, St Mark's, Doge's Palace, Campanile; evening in Cannaregio.",
+          "Day 2: Rialto in the morning, Frari and San Rocco, Dorsoduro with the Accademia or Guggenheim, the Salute at sunset and San Giorgio Maggiore by vaporetto."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: San Marco, Doge's Palace, San Giorgio Maggiore.",
-          "Day 2: Rialto, San Rocco and the Frari, Cannaregio and the Ghetto.",
-          "Day 3: the lagoon: Murano, Burano and Torcello, by vaporetto from Fondamente Nove."
+          "Day 1: Grand Canal, St Mark's, Doge's Palace.",
+          "Day 2: Rialto, Frari, San Rocco, Gallerie dell'Accademia, Salute.",
+          "Day 3: the lagoon: Murano in the morning, Burano for lunch, Torcello in the afternoon; back for dinner in Castello."
         ]
       }
     ],
@@ -1343,22 +1759,46 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cannaregio",
         "perChi": "anyone who wants a lived-in area and to spend less",
-        "testo": "Close to the station, with wide canals and osterie used by Venetians. Quieter and cheaper than the centre, a walk from San Marco."
+        "testo": "Close to the station, with wide canals and osterie used by Venetians. Quieter and cheaper than the centre, a walk from San Marco.",
+        "fascia": "120-220 €"
       },
       {
         "nome": "Castello",
         "perChi": "anyone looking for calm away from San Marco",
-        "testo": "A large residential sestiere, with very quiet areas toward the Arsenale and the Giardini. Little to do in the evening, but close to San Marco."
+        "testo": "A large residential sestiere, with very quiet areas toward the Arsenale and the Giardini. Little to do in the evening, but close to San Marco.",
+        "fascia": "130-240 €"
       },
       {
         "nome": "Dorsoduro",
         "perChi": "anyone who wants museums and evening life",
-        "testo": "Close to the Gallerie dell'Accademia and the Guggenheim Collection, with bars around Campo Santa Margherita. Livelier in the evening, a bit more expensive."
+        "testo": "Close to the Gallerie dell'Accademia and the Guggenheim Collection, with bars around Campo Santa Margherita. Livelier in the evening, a bit more expensive.",
+        "fascia": "150-280 €"
       },
       {
         "nome": "Mestre",
         "perChi": "anyone who wants to spend as little as possible",
-        "testo": "On the mainland, a few minutes by train from Venezia Santa Lucia. It costs less, but you miss dawn and evening in the city, which are the best times. Those staying in the historic centre are exempt from the access fee."
+        "testo": "On the mainland, a few minutes by train from Venezia Santa Lucia. It costs less, but you miss dawn and evening in the city, which are the best times. Those staying in the historic centre are exempt from the access fee.",
+        "fascia": "70-130 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Padua",
+        "distanza": "30 minutes by train",
+        "come": "Frequent regional and high-speed trains from Santa Lucia; the Scrovegni Chapel must be booked.",
+        "testo": "The Scrovegni Chapel frescoed by Giotto, the Basilica of St Anthony and the market squares beneath the Palazzo della Ragione. A lively, cheaper university city."
+      },
+      {
+        "nome": "Verona",
+        "distanza": "1h10 by high-speed train",
+        "come": "Frecciarossa or Italo from Santa Lucia to Verona Porta Nuova, then a 20-minute walk to the Arena.",
+        "testo": "The Roman Arena, Piazza delle Erbe, the bridges over the Adige and the view from Castel San Pietro. In summer you can stay for an evening opera in the Arena."
+      },
+      {
+        "nome": "Chioggia",
+        "distanza": "1h30 by vaporetto and bus",
+        "come": "Line 11 from the Lido to Pellestrina and a ferry to Chioggia, all on ACTV tickets.",
+        "testo": "A small fishermen's Venice, with canals, a fish market and almost no tourists. The journey across the Lido and Pellestrina is part of the trip."
       }
     ],
     sapori: [
@@ -1394,6 +1834,32 @@ export const destinazioniItalia: Destinazione[] = [
       "The single vaporetto ticket is expensive and time passes pay off if you make several trips a day. Always validate the ticket before boarding.",
       "Restaurants around San Marco and Rialto with tourist menus and high cover charges: check the bill. The gondola has fares set by the city; agree the price before boarding.",
       "High water in autumn and winter: the MOSE protects the lagoon, but the walkways are still set up when the tide goes above a certain threshold. Bring light rubber boots. Bans: swimming in the canals, sitting on bridges and eating on the steps of monuments."
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Venice?",
+        "risposta": "Two days for St Mark's, Rialto, the Frari and Dorsoduro; three to add Murano, Burano and Torcello. Staying in town lets you see it in the evening, after the day-trippers leave."
+      },
+      {
+        "domanda": "Do you have to pay to enter Venice?",
+        "risposta": "Only day visitors who do not stay overnight, on a calendar of high-season days: in 2026, €5 booked in advance and €10 close to the date. Overnight guests are exempt but must register."
+      },
+      {
+        "domanda": "Is the vaporetto pass worth it?",
+        "risposta": "Almost always: a single ride costs about €9.50, the 24-hour pass about €25. With three rides a day it already pays off, and the islands make it essential."
+      },
+      {
+        "domanda": "How much is a gondola ride?",
+        "risposta": "Rates are set by the city: about €90 for 30 minutes by day, more after 19:00, for the whole gondola up to five people. To cross the Grand Canal, the gondola traghetto costs about €2."
+      },
+      {
+        "domanda": "Is it better to stay in Venice or Mestre?",
+        "risposta": "Mestre costs about half and is ten minutes by train, but you miss the city in the evening and early morning. For one or two nights it is worth paying more to stay in Cannaregio or Castello."
+      },
+      {
+        "domanda": "What happens with acqua alta?",
+        "risposta": "From October to January it can flood St Mark's Square and low areas for a few hours at high tide. MOSE protects against the strongest tides; for the rest, rubber boots and the city's tide app are enough."
+      }
     ],
     esperienzeSlugs: ['venezia-alba'],
     tripSlugs: ['venezia-3-giorni', 'grandi-citta-italia'],
@@ -1432,13 +1898,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Pizza, with the difference that here it's a popular food and costs little: dough high on the rim, baked ninety seconds at four hundred degrees, soft in the center to the point that you eat it folded. Then ragù napoletano that cooks for hours, la genovese (which has nothing Genoese about it), babà, the hot sfogliatella riccia in the morning, and coffee, which in Naples is a serious thing: short, strong, drunk standing up. And pizza a portafoglio from the street, which costs two euros.",
     comeArrivare:
-      "High-speed rail from Rome in a little over an hour and from Milan in four and a half, with Napoli Centrale station in the city. Capodichino airport, very close to the center. For the Coast and Pompeii you use the Circumvesuviana, which is slow and crowded but direct.",
+      'High-speed rail from Rome in a little over an hour and from Milan in four and a half, with Napoli Centrale station in the city. Capodichino airport, very close to the center. For the Coast and Pompeii you use the Circumvesuviana, which is slow and crowded but direct. From Capodichino the Alibus reaches the Central Station in 15-20 minutes and Molo Beverello in about 35, for about €5; official white taxis have a set fare of about €21 to the historic centre, to be requested before you get in.',
     comeSpostarsi:
       "Metro line 1, with the \"art stations\" that are works in themselves, and funiculars to the Vomero. The center is done on foot. **For the coast, the ferry beats the car and the bus in every season**, and in summer the Amalfi state road is one continuous traffic jam.",
     periodoMigliore:
       "April-June and September-October. In August the coast is saturated and the state road is blocked; in winter Naples is excellent and the coast empties (with many places closed). The Christmas period on San Gregorio Armeno, the street of nativity scenes, is a phenomenon of its own: beautiful and impassable.",
     costi:
-      "The Archaeological Museum and the Vesuvian sites have modest tickets compared with northern Italy. The combined ticket for Pompeii, Herculaneum, Oplontis and Stabiae lasts three days and is always worth it if you visit at least two.",
+      'The Archaeological Museum and the Vesuvian sites have modest tickets compared with northern Italy. The combined ticket for Pompeii, Herculaneum, Oplontis and Stabiae lasts three days and is always worth it if you visit at least two. Rough daily budget per person, sharing a double: low €60-80, mid €110-150, high over €220.',
     erroriDaEvitare: [
       "Going to Pompeii without a booked ticket: since 2024 tickets are **named** and there is a **cap of 20,000 visitors a day**, with time slots in summer (15,000 in the morning, 5,000 from early afternoon). Once the quota is used up you can't enter, neither online nor at the ticket office",
       "Visiting Pompeii without having seen the Naples Archaeological Museum first: the best mosaics, frescoes and bronzes are there, and without that stop the site looks like a field of walls",
@@ -1456,6 +1922,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot, starting from Piazza del Gesù Nuovo or the Dante stop on metro line 1. The route is pedestrian or nearly so, with scooters passing everywhere.",
         "quando": "Early morning for the lanes without the crowd. In December San Gregorio Armeno is beautiful and impassable.",
         "tempo": "Half a day",
+        "costo": "free to walk; churches mostly free",
+        "lat": 40.8507,
+        "lng": 14.2576,
         "consiglio": "Step into the open churches (Gesù Nuovo, Santa Chiara, San Domenico Maggiore): they are free or cheap and a break from the noise."
       },
       {
@@ -1464,6 +1933,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro line 1 or 2 to Museo/Piazza Cavour, a few minutes on foot. Visit on your own with the wall panels; the audio guide is optional.",
         "quando": "Closed on Tuesdays. Open 9am-7:30pm, last entry at 6:30pm (2026). Morning, when the mosaic rooms are quieter.",
         "tempo": "2-3 hours",
+        "orari": "9-19:30, last entry 18:30. Closed Tuesdays.",
+        "lat": 40.8536,
+        "lng": 14.2505,
+        "url": "https://mann-napoli.it/",
         "consiglio": "Go straight up to the Pompeii mosaics and the Secret Cabinet, then down to the Farnese collection if you have time left."
       },
       {
@@ -1472,6 +1945,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot, on via Francesco De Sanctis in the historic center. Visit on your own, with a timed ticket.",
         "quando": "Book ahead: slots sell out, especially on weekends and in high season. No photos inside.",
         "tempo": "45 minutes",
+        "costo": "about €12 with timed online booking (2026)",
+        "orari": "Usually closed Tuesdays.",
+        "lat": 40.8494,
+        "lng": 14.2547,
         "url": "https://www.museosansevero.it/",
         "consiglio": "Buy the ticket on the official site days before: there is often a queue at the door already."
       },
@@ -1481,6 +1958,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Napoli Sotterranea is entered from Piazza San Gaetano, with guided tours at set times. The catacombs of San Gennaro are in the Sanità district, walkable from the MANN.",
         "quando": "All year, rain included. It is cool underground: bring a sweater.",
         "tempo": "1.5 hours per visit",
+        "lat": 40.851,
+        "lng": 14.257,
         "consiglio": "Do only one of the two if time is short: Napoli Sotterranea for the war and the quarries, the catacombs for the art."
       },
       {
@@ -1490,6 +1969,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "At opening time or in the late afternoon in summer; not at midday, with no shade. Open 9am-7pm from 16 March to 14 October (last entry 5:30pm) and 9am-5pm the rest of the year (last entry 3:30pm). Closed on 25 December and 1 January, unless there are special openings. Named tickets, a cap of 20,000 visitors a day and time slots in high season.",
         "tempo": "3-4 hours",
         "costo": "Pompei Express 20 euros; Pompei+, with the suburban villas and Boscoreale, 25 euros (from 12 January 2026). Online sales only through Vivaticket, or at the ticket office",
+        "lat": 40.749,
+        "lng": 14.4848,
         "url": "https://pompeiisites.org/",
         "consiglio": "Seen after the MANN, you recognize the works. Bring water and a hat: there are few places to refresh."
       },
@@ -1499,6 +1980,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Circumvesuviana Napoli-Sorrento line to Ercolano Scavi, from Napoli Garibaldi, then a short walk downhill.",
         "quando": "Morning, in summer. The site closes on the main holidays: check the calendar on the official site.",
         "tempo": "2 hours",
+        "lat": 40.8059,
+        "lng": 14.348,
         "url": "https://ercolano.beniculturali.it/",
         "consiglio": "If you only have time for one site, many choose Herculaneum: fewer people, more preserved detail."
       },
@@ -1508,6 +1991,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Shuttles run from Ercolano to the high car parks. Tickets for the Gran Cono are sold online only, through the channel listed by the Vesuvius National Park. From the car park you walk up a dirt trail, in closed shoes.",
         "quando": "Morning, with clear skies. During weather alerts or events access is suspended: check the notices on the Park's website.",
         "tempo": "3-4 hours for the trip, climb and return",
+        "costo": "about €12, online only (2026)",
+        "lat": 40.8213,
+        "lng": 14.4261,
         "url": "https://www.parconazionaledelvesuvio.it/",
         "consiglio": "Check the weather the day before: with low clouds you climb and see nothing."
       },
@@ -1517,38 +2003,121 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Cumana railway or metro line 2 to Pozzuoli, then local buses or taxis to the sites. You can also drive.",
         "quando": "Check Civil Protection notices first and whether each site is open: it changes with works.",
         "tempo": "Half a day",
+        "lat": 40.8231,
+        "lng": 14.1214,
         "consiglio": "Combine it with a seafood lunch in Pozzuoli: it costs less than in Posillipo."
+      },
+      {
+        "nome": "Certosa di San Martino and Castel Sant'Elmo",
+        "testo": "At the top of the Vomero, the Baroque charterhouse with its cloister, nativity scenes and a belvedere over the bay, and next to it the star-shaped Sant'Elmo fortress. From here the shape of the city makes sense, from Vesuvius to Posillipo.",
+        "come": "Centrale or Montesanto funicular up to the Vomero, then a 10-minute walk. Separate tickets for charterhouse and castle.",
+        "quando": "Afternoon with clear skies, for the bay against the light.",
+        "tempo": "2-3 hours",
+        "costo": "about €6 for the charterhouse and about €5 for the castle (2026)",
+        "orari": "Charterhouse closed Tuesdays; Castel Sant'Elmo open daily.",
+        "lat": 40.8434,
+        "lng": 14.239
+      },
+      {
+        "nome": "Capodimonte Museum and Royal Park",
+        "testo": "The Bourbon palace on the hill holds one of Italy's richest picture galleries: Caravaggio's Flagellation, Titian, Masaccio, Artemisia Gentileschi. Around it lies a park of over a hundred hectares.",
+        "come": "Bus from the Archaeological Museum or Piazza Dante, about 20 minutes; a taxi is easier.",
+        "quando": "A weekday morning: the rooms are often almost empty.",
+        "tempo": "3 hours with the park",
+        "costo": "museum about €15 (2026); park free",
+        "orari": "Museum closed Wednesdays; the park opens daily.",
+        "lat": 40.867,
+        "lng": 14.2505,
+        "url": "https://capodimonte.cultura.gov.it/"
+      },
+      {
+        "nome": "Cathedral and Treasure of San Gennaro",
+        "testo": "The Gothic cathedral keeps the Treasure Chapel with the phials of San Gennaro's blood, which liquefies three times a year. From the transept you reach the early Christian basilica of Santa Restituta and the oldest baptistery in the West.",
+        "come": "On Via Duomo, five minutes from Via dei Tribunali. The cathedral is free; the Treasure Museum next door is ticketed.",
+        "quando": "The Saturday before the first Sunday of May, 19 September and 16 December for the miracle, with huge crowds.",
+        "tempo": "1 hour",
+        "costo": "cathedral free; Treasure Museum ticketed",
+        "lat": 40.8525,
+        "lng": 14.2597
+      },
+      {
+        "nome": "Pio Monte della Misericordia",
+        "testo": "A 17th-century charity still at work, which keeps Caravaggio's Seven Works of Mercy on the altar it was painted for. Upstairs is a small picture gallery.",
+        "come": "On Via dei Tribunali, opposite the San Gennaro spire, next to the cathedral.",
+        "quando": "Mid-morning, before a pizza lunch on Via dei Tribunali.",
+        "tempo": "30-45 minutes",
+        "costo": "about €10 (2026)",
+        "lat": 40.8517,
+        "lng": 14.2595,
+        "url": "https://www.piomontedellamisericordia.it/"
+      },
+      {
+        "nome": "Santa Chiara Cloister",
+        "testo": "Behind the Angevin basilica of Santa Chiara lies the Poor Clares' cloister, with pillars and benches covered in 18th-century majolica of vines and country scenes. A quiet garden in the middle of Spaccanapoli.",
+        "come": "Piazza del Gesù Nuovo, at the start of Spaccanapoli; metro 1 to Dante or Toledo and five minutes on foot.",
+        "quando": "Midday, for a break from the chaos.",
+        "tempo": "45 minutes",
+        "costo": "basilica free; cloister and museum for a few euros",
+        "lat": 40.8467,
+        "lng": 14.2525,
+        "url": "https://www.monasterodisantachiara.it/"
+      },
+      {
+        "nome": "Piazza del Plebiscito and Royal Palace",
+        "testo": "Naples' largest square, framed by the colonnade of San Francesco di Paola and the Bourbon Royal Palace. Next door are the San Carlo theatre and the Galleria Umberto I, and Gambrinus for coffee.",
+        "come": "Metro 1 to Municipio or Toledo; from the historic centre it is a 20-minute walk down Via Toledo.",
+        "quando": "At sunset, carrying on down to the seafront.",
+        "tempo": "1-2 hours with the Royal Palace",
+        "costo": "square free; Royal Palace ticketed",
+        "lat": 40.8359,
+        "lng": 14.2488
+      },
+      {
+        "nome": "Seafront and Castel dell'Ovo",
+        "testo": "The pedestrian seafront along Via Caracciolo and Via Partenope runs from Mergellina to Castel dell'Ovo, with Vesuvius opposite. The castle, on the islet of Megaride, has open terraces and the Borgo Marinari at its foot.",
+        "come": "Ten minutes' walk from Piazza del Plebiscito.",
+        "quando": "In the evening, when Neapolitans take their stroll.",
+        "tempo": "1-2 hours",
+        "costo": "free, castle included",
+        "lat": 40.8282,
+        "lng": 14.2477
+      },
+      {
+        "nome": "Quartieri Spagnoli",
+        "testo": "The grid of narrow alleys above Via Toledo, built for Spanish troops in the 16th century, with washing lines and street-level bassi homes. In Largo Maradona is the mural to the footballer, now a secular shrine.",
+        "come": "Metro 1 to Toledo, the most photographed art station, then climb into the alleys.",
+        "quando": "By day; on Saturday evenings the square is packed.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "lat": 40.8418,
+        "lng": 14.2463,
+        "consiglio": "Keep your phone in your pocket and watch for scooters in the alleys."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: National Archaeological Museum, with the Pompeii mosaics.",
-          "Late morning: walk along via dei Tribunali to San Gregorio Armeno.",
-          "Lunch: a pizza in the historic center.",
-          "Afternoon: Spaccanapoli, Sansevero Chapel with a booked ticket.",
-          "Evening: stroll along the via Caracciolo seafront to Castel dell'Ovo."
+          "Morning: Spaccanapoli, Santa Chiara, San Gregorio Armeno and a booked Sansevero Chapel.",
+          "Pio Monte della Misericordia and the cathedral; pizza lunch on Via dei Tribunali.",
+          "Afternoon: National Archaeological Museum.",
+          "Walk down Via Toledo and the Quartieri Spagnoli to Piazza del Plebiscito.",
+          "Evening on the seafront to Castel dell'Ovo."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1 as above, with the MANN in the morning.",
-          "Day 2, morning: Circumvesuviana to Herculaneum, two hours on site.",
-          "Quick lunch in Ercolano.",
-          "Afternoon: Pompeii in a booked time slot, or Vesuvius if the weather is good.",
-          "Evening: back in Naples, an unhurried dinner at a historic pizzeria."
+          "Day 1: historic centre with Sansevero, Santa Chiara and Underground Naples; afternoon at MANN.",
+          "Day 2: Pompeii early by Circumvesuviana; back in the afternoon for the Plebiscito, Quartieri Spagnoli and the seafront at sunset."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: historic center, MANN, Sansevero.",
-          "Day 2: Herculaneum in the morning, Pompeii in the afternoon, train back before evening.",
-          "Day 3 morning: Underground Naples or the Catacombs of San Gennaro.",
-          "Afternoon: funicular up to the Vomero for Castel Sant'Elmo and the view over the gulf.",
-          "Evening: a last pizza or fried snacks in Chiaia."
+          "Day 1: historic centre, Sansevero, Pio Monte, cathedral, MANN.",
+          "Day 2: Pompeii and, in the afternoon, Herculaneum or Vesuvius.",
+          "Day 3: Capodimonte in the morning, funicular up to the Vomero for San Martino and Sant'Elmo, down to Chiaia and the seafront in the evening."
         ]
       }
     ],
@@ -1556,17 +2125,46 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Historic center",
         "perChi": "Those who want to be inside the city",
-        "testo": "Everything on foot, lanes full of life and places open late. Constant noise of scooters and voices even at night, narrow streets that are not always clean. Better a room on an upper floor or facing the courtyard."
+        "testo": "Everything on foot, lanes full of life and places open late. Constant noise of scooters and voices even at night, narrow streets that are not always clean. Better a room on an upper floor or facing the courtyard.",
+        "fascia": "70-130 €"
       },
       {
         "nome": "Chiaia and the seafront",
         "perChi": "Those looking for a calmer area",
-        "testo": "A residential and shopping district, with restaurants and sea views from the seafront. Quieter in the evening, walkable from the historic centre and close to the metro."
+        "testo": "A residential and shopping district, with restaurants and sea views from the seafront. Quieter in the evening, walkable from the historic centre and close to the metro.",
+        "fascia": "110-200 €"
       },
       {
         "nome": "Vomero",
         "perChi": "Those watching prices who want a view",
-        "testo": "A hill served by funiculars and metro line 1, with views over the gulf. Safer and quieter, but you go down and back up by funicular each time: in the evening you lose time."
+        "testo": "A hill served by funiculars and metro line 1, with views over the gulf. Safer and quieter, but you go down and back up by funicular each time: in the evening you lose time.",
+        "fascia": "80-140 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Royal Palace of Caserta",
+        "distanza": "40 minutes by train",
+        "come": "Regional trains from Napoli Centrale; the palace is opposite Caserta station.",
+        "testo": "Vanvitelli's Bourbon palace, with 1,200 rooms and a three-kilometre park of fountains and cascades. For the park, hire a bike or take the shuttle."
+      },
+      {
+        "nome": "Capri",
+        "distanza": "50 minutes by hydrofoil",
+        "come": "Hydrofoils from Molo Beverello and Calata Porta di Massa, frequent from spring to autumn.",
+        "testo": "The Piazzetta, the Faraglioni, Anacapri and Monte Solaro by chairlift. It works as a day trip if you catch the first boat."
+      },
+      {
+        "nome": "Procida",
+        "distanza": "40 minutes-1 hour by ferry",
+        "come": "Hydrofoils and ferries from Molo Beverello or Pozzuoli.",
+        "testo": "The smallest and least touristy island in the bay, with the coloured houses of Marina Corricella and Terra Murata above. You get around on foot or by bus."
+      },
+      {
+        "nome": "Sorrento and the Amalfi Coast",
+        "distanza": "1h10 by Circumvesuviana to Sorrento",
+        "come": "Circumvesuviana to Sorrento and SITA bus to Positano and Amalfi; from spring also direct ferries from Naples.",
+        "testo": "In a day you reach Sorrento and one of the two Amalfi Coast gems. To really see it you need at least two nights there."
       }
     ],
     sapori: [
@@ -1598,6 +2196,28 @@ export const destinazioniItalia: Destinazione[] = [
       "The center has limited traffic zones with cameras: sleep where you can leave the car in a garage and avoid driving in the city.",
       "Transport strikes are frequent, the Circumvesuviana included: check the calendar before planning Pompeii or Vesuvius.",
       "Vesuvius and the Phlegraean Fields are active volcanic areas: follow Civil Protection notices and the trail instructions."
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Naples?",
+        "risposta": "Three days: one for the historic centre and MANN, one for Pompeii and Herculaneum, one for the Vomero, Capodimonte and the seafront. With five, add Capri or Procida and the Phlegraean Fields."
+      },
+      {
+        "domanda": "Is Naples safe for tourists?",
+        "risposta": "In the centre and tourist areas yes, with the usual big-city precautions: pickpocketing and bag snatching are the main risks. Don't flash phones or watches, and keep your bag on the wall side."
+      },
+      {
+        "domanda": "How do you get from Naples to Pompeii?",
+        "risposta": "By Circumvesuviana from Porta Nolana or Garibaldi to Pompei Scavi, about 40 minutes. The site ticket is named and timed, bought on pompeiisites.org."
+      },
+      {
+        "domanda": "Do you need to book the Sansevero Chapel?",
+        "risposta": "Yes, entry is by online time slot only and sells out at weekends. It costs about €12 and is usually closed on Tuesdays."
+      },
+      {
+        "domanda": "Where to stay in Naples?",
+        "risposta": "The historic centre to have everything on foot and spend little, Chiaia for the sea and nightlife, Vomero for quiet. A double runs from about €70 in the centre to €200 on the seafront."
+      }
     ],
     esperienzeSlugs: ['pompei-ercolano', 'napoli-sotterranea', 'pizza-napoletana'],
     tripSlugs: ['napoli-3-giorni', 'grandi-citta-italia'],

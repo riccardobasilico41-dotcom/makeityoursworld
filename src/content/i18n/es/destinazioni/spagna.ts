@@ -31,11 +31,13 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire: "El Barrio de Santa Cruz es el barrio más céntrico y turístico; Triana es más de barrio y cuesta algo menos, a pocos minutos a pie del centro por el Puente de Triana.",
     doveMangiare:
       "El tapeo (ronda de tapas entre varios bares) es la institución local: salmorejo (crema fría de tomate, más densa que el gazpacho), espinacas con garbanzos, el pescaíto frito (fritura mixta de pescado) y el jamón ibérico. En Triana los bares del mercado cubierto son la manera más económica de empezar la noche.",
-    comeArrivare: "Aeropuerto de San Pablo, a unos 10 km del centro (bus EA o taxi). Tren AVE de alta velocidad desde Madrid en unas 2 h 30.",
+    comeArrivare:
+      'Aeropuerto de San Pablo, a unos 10 km del centro (bus EA o taxi). Tren AVE de alta velocidad desde Madrid en unas 2 h 30. El autobús EA de Tussam va a Santa Justa, Prado de San Sebastián y Plaza de Armas en unos 35 minutos, cada 20-30 minutos, por unos 4 € que se pagan a bordo con tarjeta contactless; el taxi tiene tarifa fija al centro de unos 25 € de día y 28 € de noche y festivos.',
     comeSpostarsi: "El casco histórico se recorre casi por completo a pie; para las distancias mayores, autobuses urbanos y el tranvía (línea T1) a lo largo del eje central.",
     periodoMigliore:
       "marzo-mayo y octubre-principios de noviembre, con temperaturas agradables. Hay que evitar julio-agosto: Sevilla es de las ciudades más calurosas de España, con medias a menudo por encima de 36 °C y picos muy superiores. La Semana Santa y la Feria de Abril (dos semanas después de Pascua) traen multitud y precios altos, pero son también los días en que la ciudad vive sus tradiciones más sentidas.",
-    costi: "Catedral y Giralda unos 15 €; Real Alcázar unos 15,50 € (Aposentos Reales +5,50 €, gratuito por la noche con reserva en una franja horaria dedicada); un tablao de flamenco medio 35-45 € por persona.",
+    costi:
+      'Catedral y Giralda unos 15 €; Real Alcázar unos 15,50 € (Aposentos Reales +5,50 €, gratuito por la noche con reserva en una franja horaria dedicada); un tablao de flamenco medio 35-45 € por persona. Presupuesto orientativo por día y persona, compartiendo doble: bajo 60-80 €, medio 110-150 €, alto más de 220 €.',
     erroriDaEvitare: [
       "Subestimar el calor del verano: de junio a septiembre las horas centrales del día hay que evitarlas para cualquier actividad al aire libre",
       "Elegir el primer tablao anunciado en el centro sin comprobar su reputación: los locales más turísticos hacen espectáculos estándar y amplificados, lejos del flamenco de los barrios",
@@ -49,6 +51,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "De lunes a sábado de 10:45 a 18:00 (taquilla hasta las 17), domingo de 14:30 a 19:00 (taquilla hasta las 18); horarios 2026, que cambian por cultos y actos: consultar el calendario de la web. Mejor a la apertura.",
         "tempo": "1-2 horas",
         "costo": "13 euros online, 14 euros en taquilla (desde el 1 de enero de 2026); la entrada incluye también la iglesia del Salvador",
+        "orari": "De lunes a sábado desde media mañana hasta media tarde; el domingo solo por la tarde.",
+        "lat": 37.3858,
+        "lng": -5.9931,
         "url": "https://www.catedraldesevilla.es/",
         "consiglio": "Comprar la entrada online la noche antes: en primavera la cola de taquilla es larga. La visita empieza por la Giralda, así que conviene subir enseguida, con las piernas frescas."
       },
@@ -59,6 +64,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Abierto de 9:30 a 19 h de abril a septiembre y de 9:30 a 17 h de octubre a marzo. Cerrado el 1 y el 6 de enero, el Viernes Santo y el 25 de diciembre. A primera hora o en la última franja de la tarde para evitar los grupos.",
         "tempo": "2-3 horas",
         "costo": "15,50 euros la entrada general (tarifa de la web oficial, 2026); el Cuarto Real Alto se paga aparte",
+        "orari": "Todos los días desde las 9:30; cierra a las 19 de abril a septiembre y a las 17 en invierno.",
+        "lat": 37.3831,
+        "lng": -5.9902,
         "url": "https://www.alcazarsevilla.org/",
         "consiglio": "Reservar online y elegir el primer turno: los patios son pequeños y solo se disfrutan sin multitudes. Los Aposentos Reales se visitan con una reserva aparte."
       },
@@ -68,6 +76,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie, justo detrás del Alcázar. No hay recorrido fijo: conviene entrar por la calle Judería y salir por el otro lado.",
         "quando": "A primera hora está vacío y fresco; a media mañana se llena de grupos.",
         "tempo": "1-2 horas",
+        "costo": "gratuito",
+        "lat": 37.3851,
+        "lng": -5.9887,
         "consiglio": "Volver por la noche, después de cenar: las callejuelas se vacían y las plazuelas están iluminadas."
       },
       {
@@ -76,6 +87,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde la catedral, o en bici por el parque. Entrada libre.",
         "quando": "A primera hora o al atardecer. En las horas centrales del verano no hay sombra.",
         "tempo": "1 hora, más el parque",
+        "costo": "gratuito; barcas en el canal de pago",
+        "lat": 37.3772,
+        "lng": -5.9869,
         "consiglio": "Quien quiera fotos sin gente, que llegue temprano. Los bancos de cerámica están ordenados por provincias en orden alfabético: buscar la favorita es un pequeño juego."
       },
       {
@@ -84,6 +98,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Se cruza a pie el Puente de Isabel II (Puente de Triana) desde el centro.",
         "quando": "El mercado funciona sobre todo por la mañana. Por la noche la calle Betis está llena de gente y el río da la vista sobre la Torre del Oro.",
         "tempo": "2-3 horas",
+        "costo": "gratuito; Castillo de San Jorge de entrada libre",
+        "lat": 37.3851,
+        "lng": -6.0033,
         "consiglio": "Comer aquí en lugar de en el centro: los bares cuestan menos y los clientes son sobre todo del barrio."
       },
       {
@@ -92,6 +109,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Se reserva plaza en la web o por teléfono del local, con unos días de antelación. El Museo del Baile Flamenco, en Santa Cruz, también organiza veladas.",
         "quando": "Espectáculos casi todos los días, con horarios que cambian según el local: consultar la programación semanal.",
         "tempo": "1-1 hora y media",
+        "costo": "unos 35-45 € por persona en un tablao medio",
         "consiglio": "Sentarse en las primeras filas y preguntar al local si el programa es acústico: evita los grandes espectáculos para grupos."
       },
       {
@@ -100,36 +118,111 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde el centro: Las Setas al norte de la calle Sierpes, la Casa de Pilatos hacia el este.",
         "quando": "Las Setas al atardecer, la Casa de Pilatos por la mañana. Consultar horarios en las webs de los gestores.",
         "tempo": "1 hora cada una",
+        "lat": 37.3933,
+        "lng": -5.9918,
         "consiglio": "Si el Alcázar está agotado para la fecha elegida, la Casa de Pilatos es la alternativa más cercana para ver un palacio mudéjar."
+      },
+      {
+        "nome": "Archivo General de Indias",
+        "testo": "La antigua lonja de mercaderes, entre la Catedral y el Alcázar, guarda los documentos del imperio español en América, de las cartas de Colón a los mapas. Las salas de la primera planta, con estanterías de caoba, se visitan gratis.",
+        "come": "En la avenida de la Constitución, junto a la Catedral.",
+        "quando": "En las horas de calor, entre una visita y otra.",
+        "tempo": "30-45 minutos",
+        "costo": "gratuito",
+        "orari": "De martes a domingo; cerrado el lunes.",
+        "lat": 37.3846,
+        "lng": -5.9926
+      },
+      {
+        "nome": "Torre del Oro y la orilla del río",
+        "testo": "La torre de vigilancia almohade del siglo XIII sobre el Guadalquivir, que controlaba el puerto de los galeones. Dentro hay un pequeño museo naval; alrededor, el paseo de Cristóbal Colón lleva a la Maestranza y al puente de Triana.",
+        "come": "A diez minutos a pie de la Catedral.",
+        "quando": "Al atardecer, paseando junto al río hacia Triana.",
+        "tempo": "30 minutos",
+        "costo": "museo naval con entrada simbólica",
+        "lat": 37.3824,
+        "lng": -5.9964
+      },
+      {
+        "nome": "Plaza de Toros de la Maestranza",
+        "testo": "Una de las plazas más antiguas e importantes de España, del siglo XVIII, con la fachada blanca y albero junto al río. La visita guiada pasa por los tendidos, la capilla y el museo taurino.",
+        "come": "En el paseo de Cristóbal Colón; visitas guiadas frecuentes con hora.",
+        "quando": "Por la mañana; los días de corrida se suspenden las visitas.",
+        "tempo": "45 minutos",
+        "costo": "unos 12 €, con guía (2026)",
+        "lat": 37.3858,
+        "lng": -5.9988,
+        "url": "https://www.realmaestranza.com/"
+      },
+      {
+        "nome": "Museo de Bellas Artes",
+        "testo": "En un convento con claustros de azulejos, la segunda pinacoteca de España para la pintura del Siglo de Oro: Murillo, Zurbarán, Valdés Leal. La iglesia del convento está pintada de arriba abajo.",
+        "come": "Plaza del Museo, a diez minutos de la Catedral hacia el noroeste.",
+        "quando": "El domingo por la mañana, con el mercadillo de arte en la plaza.",
+        "tempo": "1h30",
+        "costo": "gratuito para ciudadanos de la UE",
+        "orari": "Cerrado el lunes.",
+        "lat": 37.3929,
+        "lng": -6.0001
+      },
+      {
+        "nome": "Palacio de las Dueñas",
+        "testo": "El palacio de los duques de Alba, gótico-mudéjar y renacentista, con patios floridos, el limonar y salas llenas de cuadros y recuerdos de la familia. Aquí nació el poeta Antonio Machado.",
+        "come": "A cinco minutos de las Setas, en la calle Dueñas; audioguía incluida.",
+        "quando": "En primavera, con las buganvillas y el azahar.",
+        "tempo": "1 hora",
+        "costo": "unos 15 €, con audioguía (2026)",
+        "lat": 37.3966,
+        "lng": -5.9898,
+        "url": "https://www.lasduenas.es/"
+      },
+      {
+        "nome": "Hospital de los Venerables",
+        "testo": "Una residencia barroca para sacerdotes ancianos en pleno Santa Cruz, con un patio escalonado y una iglesia pintada por Valdés Leal. Alberga el Centro Velázquez, con obras del pintor sevillano.",
+        "come": "En la plaza de los Venerables, en los callejones de Santa Cruz; audioguía incluida.",
+        "quando": "En las horas centrales, cuando el barrio está lleno de grupos.",
+        "tempo": "1 hora",
+        "costo": "de pago, con audioguía",
+        "lat": 37.3852,
+        "lng": -5.9907,
+        "url": "https://www.fundacionfocus.com/"
+      },
+      {
+        "nome": "Basílica de la Macarena",
+        "testo": "La iglesia de la Esperanza Macarena, la Virgen más venerada de Sevilla, que sale en procesión la Madrugá del Viernes Santo. El museo de al lado guarda los pasos y los mantos bordados de la hermandad.",
+        "come": "En el norte del casco antiguo, junto al Arco y la muralla almohade; autobús o 20 minutos a pie desde las Setas.",
+        "quando": "Por la mañana, combinando el mercado de Feria y la Alameda.",
+        "tempo": "45 minutos",
+        "costo": "basílica gratuita; museo de pago",
+        "lat": 37.403,
+        "lng": -5.9895,
+        "url": "https://www.hermandaddelamacarena.es/"
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: Catedral y Giralda con la entrada online ya comprada, antes de los grupos.",
-          "Final de la mañana: Real Alcázar, en el primer turno disponible o con audioguía.",
-          "Primera hora de la tarde: Comida tardía en Santa Cruz o en un bar del centro: tapas y salmorejo.",
-          "Tarde: Paseo por la Plaza de España y el Parque de María Luisa, donde la sombra ayuda.",
-          "Noche: Cruzar el Puente de Triana, cena de tapas junto al río y, si se puede, flamenco acústico."
+          "Mañana: Real Alcázar a la apertura, con entrada con hora",
+          "Catedral y Giralda, luego el Archivo de Indias",
+          "Comida y siesta; tarde en el Barrio de Santa Cruz",
+          "Plaza de España al atardecer",
+          "Noche: tapas en Triana y flamenco"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: como el programa de un día, sin prisas y con una pausa a media tarde.",
-          "Día 2, mañana: Casa de Pilatos y Las Setas, a pie por la calle Sierpes.",
-          "Día 2, media mañana: mercado de Triana y talleres de cerámica.",
-          "Día 2, tarde: Torre del Oro y paseo por el Guadalquivir.",
-          "Día 2, noche: espectáculo de flamenco, después tapeo."
+          "Día 1: Alcázar, Catedral y Giralda, Santa Cruz, tablao por la noche",
+          "Día 2: Plaza de España y Parque de María Luisa por la mañana, Torre del Oro y Maestranza, Triana por la tarde, las Setas al atardecer"
         ]
       },
       {
         "titolo": "3 días",
         "tappe": [
-          "Días 1 y 2: como arriba.",
-          "Día 3, mañana: excursión a Córdoba en AVE para la Mezquita.",
-          "Día 3, tarde: regreso a Sevilla y último paseo por el parque de María Luisa o por Santa Cruz de noche."
+          "Día 1: Alcázar, Catedral, Archivo de Indias, Santa Cruz",
+          "Día 2: Plaza de España, Torre del Oro, Maestranza, Triana y flamenco",
+          "Día 3: Casa de Pilatos, Palacio de las Dueñas, Museo de Bellas Artes y las Setas; o excursión a Córdoba"
         ]
       }
     ],
@@ -137,17 +230,46 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Santa Cruz",
         "perChi": "Quien quiere estar a dos pasos de los monumentos",
-        "testo": "Se sale del hotel y ya se está bajo la catedral. De día está lleno y de noche en las callejuelas se oyen las mesas de los restaurantes para turistas. Los precios son los más altos. Se anda solo a pie y los taxis no entran en las callejuelas."
+        "testo": "Se sale del hotel y ya se está bajo la catedral. De día está lleno y de noche en las callejuelas se oyen las mesas de los restaurantes para turistas. Los precios son los más altos. Se anda solo a pie y los taxis no entran en las callejuelas.",
+        "fascia": "110-220 €"
       },
       {
         "nome": "Triana",
         "perChi": "Quien prefiere un barrio vivo y menos turístico",
-        "testo": "Cuesta algo menos y tiene más bares de vecinos. Al centro se llega a pie cruzando el puente. El ruido de los locales de la orilla por la noche puede llegar a las habitaciones más cercanas."
+        "testo": "Cuesta algo menos y tiene más bares de vecinos. Al centro se llega a pie cruzando el puente. El ruido de los locales de la orilla por la noche puede llegar a las habitaciones más cercanas.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Alameda de Hércules y la Macarena",
         "perChi": "Quien viaja con presupuesto ajustado o le gusta la vida nocturna",
-        "testo": "Barrio más joven, con bares, locales alternativos y precios contenidos, al norte del centro y a pie desde la catedral. El fin de semana la plaza es ruidosa hasta tarde."
+        "testo": "Barrio más joven, con bares, locales alternativos y precios contenidos, al norte del centro y a pie desde la catedral. El fin de semana la plaza es ruidosa hasta tarde.",
+        "fascia": "80-150 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Córdoba",
+        "distanza": "45 minutos en tren de alta velocidad",
+        "come": "AVE o trenes privados de alta velocidad desde Santa Justa; 20 minutos a pie de la estación a la Mezquita.",
+        "testo": "La Mezquita-Catedral, con su bosque de arcos blancos y rojos, la Judería y el puente romano. La Mezquita cuesta unos 13 € y es gratuita a primera hora de lunes a sábado."
+      },
+      {
+        "nome": "Cádiz",
+        "distanza": "1h45 en tren",
+        "come": "Trenes regionales desde Santa Justa hasta Cádiz, que llegan al centro.",
+        "testo": "Una de las ciudades más antiguas de Europa sobre una península, con la catedral frente al mar, el mercado de abastos y la playa de La Caleta."
+      },
+      {
+        "nome": "Carmona",
+        "distanza": "35 km, 40 minutos en autobús",
+        "come": "Autobús desde la estación del Prado de San Sebastián.",
+        "testo": "Un pueblo blanco en una colina con puertas romanas, el Alcázar del rey Don Pedro y una necrópolis romana. Es una media jornada tranquila."
+      },
+      {
+        "nome": "Jerez de la Frontera",
+        "distanza": "1 hora en tren",
+        "come": "Trenes regionales desde Santa Justa; las bodegas están a pie del centro.",
+        "testo": "Las bodegas del jerez, con visita y cata, y la Real Escuela Andaluza del Arte Ecuestre con su espectáculo de caballos."
       }
     ],
     sapori: [
@@ -178,6 +300,32 @@ export const destinazioniSpagna: Destinazione[] = [
       "Entradas del Real Alcázar, la catedral y la Giralda: comprarlas solo en las webs oficiales. Los revendedores cobran recargos, y en Semana Santa y en la Feria de Abril las fechas se agotan con antelación.",
       "Calor de junio a septiembre: las horas centrales de la tarde se pasan a cubierto. Llevar agua y sombrero.",
       "Tablaos: desconfiar de quien para por la calle con folletos de descuento. Reservar directamente con el local."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Sevilla?",
+        "risposta": "Dos días para el Alcázar, la Catedral, Santa Cruz, la Plaza de España y Triana; tres para los palacios y museos con calma o una excursión a Córdoba."
+      },
+      {
+        "domanda": "¿Hay que reservar el Real Alcázar?",
+        "risposta": "Sí, conviene comprar online la entrada con hora, unos 15,50 €: en primavera las mejores franjas se agotan días antes. El Cuarto Real Alto tiene suplemento y plazas limitadas."
+      },
+      {
+        "domanda": "¿Se puede visitar Sevilla en verano?",
+        "risposta": "Sí, pero en julio y agosto se superan a menudo los 40 grados: visitas a primera hora y después de las 19, siesta en las horas centrales. Marzo-mayo y octubre-noviembre son los mejores meses."
+      },
+      {
+        "domanda": "¿Cuándo son la Semana Santa y la Feria de Abril?",
+        "risposta": "La Semana Santa es la semana antes de Pascua y la Feria dos semanas después. Esos días la ciudad está llena y el alojamiento puede costar el triple."
+      },
+      {
+        "domanda": "¿Dónde dormir en Sevilla?",
+        "risposta": "Santa Cruz para tener los monumentos al lado, Triana para un barrio vivido, la Alameda para los locales y precios más bajos. Fuera de fiestas una doble cuesta unos 80-220 €."
+      },
+      {
+        "domanda": "¿Cómo se va del aeropuerto al centro de Sevilla?",
+        "risposta": "El autobús EA llega a Santa Justa y al Prado de San Sebastián en unos 35 minutos por unos 4 €, pagando a bordo con tarjeta. El taxi tiene tarifa fija de unos 25 € de día."
+      }
     ],
     esperienzeSlugs: ['flamenco-triana', 'tapeo-siviglia'],
     tripSlugs: ['andalusia-itinerario'],
@@ -213,10 +361,12 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire: "El Albaicín por el ambiente y la vista, con cuestas empinadas que hay que tener en cuenta; el centro alrededor de la Catedral por comodidad y vida nocturna.",
     doveMangiare:
       "Granada es de las pocas ciudades españolas donde la tapa sigue siendo gratuita con cada bebida pedida: una ronda de cervezas en los bares del centro o de la Calle Navas equivale a una cena ligera. Hay que probar el remojón granadino (ensalada de naranja, bacalao y aceitunas) y los platos de la tradición morisca con especias como el comino y la canela.",
-    comeArrivare: "Aeropuerto Federico García Lorca, a unos 15 km del centro. Tren AVE desde Madrid en unas 3 h 10-3 h 30; autobús directo desde Sevilla (unas 3 h) o desde Córdoba (unas 2 h).",
+    comeArrivare:
+      'Aeropuerto Federico García Lorca, a unos 15 km del centro. Tren AVE desde Madrid en unas 3 h 10-3 h 30; autobús directo desde Sevilla (unas 3 h) o desde Córdoba (unas 2 h). Desde el aeropuerto un autobús llega al centro en unos 40 minutos. En la ciudad, los minibuses C30 (a la Alhambra) y C31 y C32 (al Albaicín y el Sacromonte) salen de Plaza Isabel la Católica y Plaza Nueva.',
     comeSpostarsi: "Casco histórico y Albaicín solo a pie (cuestas empinadas); microbuses locales para las zonas más altas del Sacromonte y del Albaicín; a la Alhambra se llega a pie cuesta arriba desde el centro o con un autobús lanzadera dedicado.",
     periodoMigliore: "abril-junio y septiembre-octubre. El verano es caluroso pero menos extremo que en Sevilla gracias a la altitud (unos 700 metros) y a la cercanía de Sierra Nevada; el invierno es frío, con la nieve visible en las cumbres a pocos km de la ciudad.",
-    costi: "Alhambra general 22,27 € más la comisión online (2026) (las entradas se agotan con semanas, en temporada alta incluso meses, de antelación); Catedral y Capilla Real unos 7 € cada una.",
+    costi:
+      'Alhambra general 22,27 € más la comisión online (2026) (las entradas se agotan con semanas, en temporada alta incluso meses, de antelación); Catedral y Capilla Real unos 7 € cada una. Presupuesto orientativo por día y persona, compartiendo doble: bajo 50-70 €, medio 90-130 €, alto más de 200 €.',
     erroriDaEvitare: [
       "Llegar a Granada sin haber reservado ya la Alhambra: las entradas se compran en la web oficial (también por teléfono o en las máquinas) y en temporada alta (junio-septiembre y vacaciones) se agotan con semanas de antelación",
       "Subestimar las cuestas del Albaicín y del Sacromonte: son empinadas y empedradas, poco cómodas con equipaje o con calzado inadecuado",
@@ -229,7 +379,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie cuesta arriba desde el centro o en el minibús urbano 30 o 32 desde la Plaza Isabel la Católica. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
         "quando": "Abierta todos los días: de 8:30 a 20 h del 1 de abril al 14 de octubre y de 8:30 a 18 h del 15 de octubre al 31 de marzo. Cerrada el 25 de diciembre y el 1 de enero. Las entradas se compran en el canal oficial (online, por teléfono o en los cajeros) y en temporada alta se agotan con semanas de antelación.",
         "tempo": "3-4 horas, media jornada para verlo todo",
-        "costo": "22,27 euros la Alhambra General diurna, más una comisión en la compra online (2026)",
+        "costo": "22,08 euros la Alhambra General diurna en el canal oficial (2026)",
+        "orari": "Todos los días desde las 8:30; cierra a las 20 de abril a mediados de octubre y a las 18 en invierno, con visitas nocturnas algunas noches.",
+        "lat": 37.1761,
+        "lng": -3.5881,
         "url": "https://www.alhambra-patronato.es/",
         "consiglio": "Elegir la franja de la mañana para los Palacios Nazaríes, cuando la luz entra por los patios. Tener en cuenta que el recorrido es todo al aire libre."
       },
@@ -239,6 +392,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde la Plaza Nueva, subiendo por la Cuesta del Chapiz o la calle Calderería Nueva. También hay minibuses que dan la vuelta al barrio.",
         "quando": "A primera hora o a última de la tarde. En las horas centrales del verano las cuestas pesan.",
         "tempo": "2-3 horas",
+        "costo": "gratuito",
+        "lat": 37.181,
+        "lng": -3.592,
         "consiglio": "Bajar a pie y subir en minibús: las pendientes se notan sobre todo al subir."
       },
       {
@@ -247,6 +403,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Subida a pie desde la Plaza Nueva, o con el minibús urbano C31 o C32 que sube al Albaicín. Entrada libre.",
         "quando": "Al atardecer. Como alternativa, al amanecer, casi sin gente.",
         "tempo": "30-60 minutos",
+        "costo": "gratuito",
+        "lat": 37.1811,
+        "lng": -3.5926,
         "consiglio": "Quien busque la misma vista con menos gente puede subir al cercano Mirador de San Cristóbal o al Carmen de los Mártires."
       },
       {
@@ -255,6 +414,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde el centro, en el barrio de la catedral. Son dos entradas separadas.",
         "quando": "Abiertas todos los días, normalmente con pausa en las horas centrales, y el domingo con horario reducido. Consultar los horarios oficiales.",
         "tempo": "1 hora la catedral, 30-45 minutos la Capilla Real",
+        "costo": "unos 7 € la Catedral y unos 7 € la Capilla Real (2026)",
+        "lat": 37.1764,
+        "lng": -3.5994,
         "url": "https://catedraldegranada.com/",
         "consiglio": "Conviene visitarlas después de la Alhambra, para entender lo que vino tras la caída del reino nazarí."
       },
@@ -264,6 +426,8 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie por el Camino del Sacromonte desde el Albaicín, o en el minibús urbano C34 desde el centro. El camino es largo y en cuesta.",
         "quando": "Espectáculos por la noche. De día se visita el museo y se pasea por el paisaje de las cuevas.",
         "tempo": "2-3 horas, más la noche para un espectáculo",
+        "lat": 37.183,
+        "lng": -3.58,
         "consiglio": "Antes de reservar una zambra, leer reseñas recientes: los espectáculos muy turísticos cuestan igual que los serios."
       },
       {
@@ -272,34 +436,108 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie, a pocos pasos de la catedral. La entrada al Corral es libre en horario de apertura.",
         "quando": "Por la mañana, cuando abren las tiendas y las calles están más libres.",
         "tempo": "30-45 minutos",
+        "costo": "gratuito",
+        "lat": 37.1755,
+        "lng": -3.5985,
         "consiglio": "El Corral merece verse aunque sea solo para entrar en el patio con galerías de madera."
+      },
+      {
+        "nome": "Carrera del Darro y Paseo de los Tristes",
+        "testo": "La calle empedrada junto al río Darro, con puentecillos de piedra, conventos y casas nobles bajo las murallas de la Alhambra. Termina en el Paseo de los Tristes, desde donde se ve la fortaleza desde abajo.",
+        "come": "A pie desde Plaza Nueva; por aquí pasan los minibuses C31 y C32.",
+        "quando": "Por la noche, con la Alhambra iluminada.",
+        "tempo": "1 hora",
+        "costo": "gratuito",
+        "lat": 37.1781,
+        "lng": -3.5905
+      },
+      {
+        "nome": "El Bañuelo",
+        "testo": "Los baños árabes del siglo XI en la Carrera del Darro, de los mejor conservados de España, con bóvedas perforadas por lucernarios en forma de estrella. Forma parte de la entrada Dobla de Oro con otros monumentos andalusíes.",
+        "come": "En la Carrera del Darro, a cinco minutos de Plaza Nueva.",
+        "quando": "En las horas de sol, cuando la luz entra por los lucernarios.",
+        "tempo": "20-30 minutos",
+        "costo": "entrada económica, incluida en la Dobla de Oro",
+        "lat": 37.1779,
+        "lng": -3.5911
+      },
+      {
+        "nome": "Mirador de San Miguel Alto",
+        "testo": "El mirador más alto sobre el Albaicín, junto a la ermita sobre la muralla nazarí, con vista a la vez de la Alhambra, la ciudad y Sierra Nevada. Mucho menos concurrido que San Nicolás.",
+        "come": "A pie desde el Sacromonte o la Puerta de Fajalauza, con una subida empinada; en taxi casi hasta arriba.",
+        "quando": "Al atardecer, con chaqueta en invierno.",
+        "tempo": "1 hora con la subida",
+        "costo": "gratuito",
+        "lat": 37.1858,
+        "lng": -3.5915
+      },
+      {
+        "nome": "Monasterio de San Jerónimo",
+        "testo": "El primer monasterio fundado tras la conquista cristiana, con dos claustros y una iglesia renacentista donde está enterrado el Gran Capitán. Su interior dorado es de los más bellos de la ciudad.",
+        "come": "A diez minutos a pie de la Catedral, hacia el oeste.",
+        "quando": "Por la mañana, con poca gente.",
+        "tempo": "45 minutos",
+        "costo": "entrada de pocos euros",
+        "lat": 37.1787,
+        "lng": -3.6038
+      },
+      {
+        "nome": "Monasterio de la Cartuja",
+        "testo": "La cartuja tiene una sacristía que es una obra maestra del barroco español, toda estucos blancos, mármoles y taraceas. El claustro y el refectorio tienen pinturas de Sánchez Cotán.",
+        "come": "Al norte del centro, junto a la universidad: autobuses urbanos o 25 minutos a pie.",
+        "quando": "Una tarde, después de la siesta.",
+        "tempo": "45 minutos",
+        "costo": "entrada de pocos euros",
+        "lat": 37.1924,
+        "lng": -3.5987
+      },
+      {
+        "nome": "Huerta de San Vicente",
+        "testo": "La casa de verano de la familia de Federico García Lorca, donde el poeta escribió parte de su obra y de la que salió poco antes de ser asesinado en 1936. Se visita con guía, entre muebles y objetos originales.",
+        "come": "En el parque García Lorca, a 20 minutos a pie del centro; visitas en grupo con hora.",
+        "quando": "Por la mañana; el lunes cierra.",
+        "tempo": "45 minutos",
+        "orari": "Cerrada el lunes.",
+        "lat": 37.17,
+        "lng": -3.613,
+        "url": "https://www.huertadesanvicente.com/"
+      },
+      {
+        "nome": "Hammam Al Ándalus",
+        "testo": "Baños de estilo árabe modernos, en una casa al pie de la Alhambra, con piscinas a tres temperaturas, sala de vapor y masajes. La forma de terminar un día de cuestas.",
+        "come": "En la calle Santa Ana, junto a Plaza Nueva; turnos de 90 minutos con reserva.",
+        "quando": "Por la noche, después de la Alhambra.",
+        "tempo": "1h30",
+        "costo": "de pago, con o sin masaje",
+        "lat": 37.1775,
+        "lng": -3.5917,
+        "url": "https://granada.hammamalandalus.com/"
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: Alhambra con entrada ya reservada y franja de la mañana para los Palacios Nazaríes.",
-          "Primera hora de la tarde: Comida en el centro con tapas gratis con la bebida.",
-          "Tarde: Catedral y Capilla Real.",
-          "Última hora de la tarde: Subida al Albaicín y Mirador de San Nicolás para el atardecer.",
-          "Noche: Ruta de bares de tapas en el centro o en la calle Navas."
+          "Mañana: Alhambra con los Palacios Nazaríes a la hora de la entrada, Alcazaba y Generalife",
+          "Comida y siesta en el centro",
+          "Tarde: Catedral, Capilla Real y Alcaicería",
+          "Carrera del Darro y subida al Albaicín",
+          "Atardecer en el Mirador de San Nicolás y cena de tapas"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: como el programa de un día, con Alhambra y atardecer.",
-          "Día 2, mañana: Albaicín y Corral del Carbón.",
-          "Día 2, tarde: Sacromonte y Museo de las Cuevas.",
-          "Día 2, noche: zambra en una cueva, tras comprobar las reseñas."
+          "Día 1: Alhambra y Generalife, Carrera del Darro y Paseo de los Tristes por la noche",
+          "Día 2: Catedral y Capilla Real, Alcaicería, El Bañuelo, Albaicín y Sacromonte, atardecer en San Miguel Alto o San Nicolás, flamenco en una cueva"
         ]
       },
       {
         "titolo": "3 días",
         "tappe": [
-          "Días 1 y 2: como arriba.",
-          "Día 3: excursión a Sierra Nevada (en invierno para esquiar) o a las Alpujarras, con pueblos blancos en la vertiente sur de la sierra."
+          "Día 1: Alhambra y Generalife, Paseo de los Tristes",
+          "Día 2: centro, Catedral, San Jerónimo, Albaicín y atardecer en San Nicolás",
+          "Día 3: Sacromonte y Museo Cuevas, la Cartuja o la Huerta de San Vicente, hammam por la noche; o excursión a las Alpujarras"
         ]
       }
     ],
@@ -307,17 +545,40 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Centro alrededor de la catedral",
         "perChi": "Quien quiere comodidad y vida nocturna",
-        "testo": "Todo a pie: Alhambra, tapas, Albaicín. Por la noche el ruido de los bares llega a las habitaciones bajas. Los precios son medios."
+        "testo": "Todo a pie: Alhambra, tapas, Albaicín. Por la noche el ruido de los bares llega a las habitaciones bajas. Los precios son medios.",
+        "fascia": "80-160 €"
       },
       {
         "nome": "Albaicín",
         "perChi": "Quien busca ambiente y vista a la Alhambra",
-        "testo": "Habitaciones en carmenes y pequeñas pensiones, silencio por la noche. Las calles son empinadas y empedradas, incómodas con maletas: muchas veces el taxi no llega a la puerta."
+        "testo": "Habitaciones en carmenes y pequeñas pensiones, silencio por la noche. Las calles son empinadas y empedradas, incómodas con maletas: muchas veces el taxi no llega a la puerta.",
+        "fascia": "90-180 €"
       },
       {
         "nome": "Realejo",
         "perChi": "Quien quiere un barrio de vida local, más económico",
-        "testo": "Al pie de la Alhambra, con bares de universitarios y precios bajos. El centro está a un paso y la subida a la colina empieza enseguida."
+        "testo": "Al pie de la Alhambra, con bares de universitarios y precios bajos. El centro está a un paso y la subida a la colina empieza enseguida.",
+        "fascia": "70-140 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Las Alpujarras",
+        "distanza": "75 km, 1h15 en coche",
+        "come": "En coche, o en autobuses Alsa a Pampaneira, Bubión y Capileira, pocas salidas al día.",
+        "testo": "Los pueblos blancos de tejados planos bereberes en las laderas de Sierra Nevada, en el barranco del Poqueira. Se camina de un pueblo a otro por senderos señalizados."
+      },
+      {
+        "nome": "Sierra Nevada",
+        "distanza": "35 km, 45 minutos-1 hora",
+        "come": "Autobuses directos desde la estación de autobuses de Granada a Pradollano, o en coche.",
+        "testo": "La estación de esquí más meridional de Europa, abierta normalmente de diciembre a abril; en verano hay senderos de altura hacia el Veleta."
+      },
+      {
+        "nome": "Córdoba",
+        "distanza": "1h30 en tren",
+        "come": "Trenes directos de alta velocidad desde Granada; el casco antiguo está a 20 minutos a pie de la estación.",
+        "testo": "La Mezquita-Catedral y la Judería se ven bien en un día saliendo temprano."
       }
     ],
     sapori: [
@@ -348,6 +609,28 @@ export const destinazioniSpagna: Destinazione[] = [
       "Albaicín y Sacromonte después de oscurecer: callejuelas poco iluminadas, algún episodio de robo. Mejor moverse en grupo o en minibús por la noche.",
       "Zona de bajas emisiones en el centro: si se llega en coche, comprobar en la web del ayuntamiento las normas para matrículas extranjeras antes de entrar.",
       "Cuestas empinadas: calzado cómodo, agua en verano, y contar con más tiempo para moverse del que indica el mapa."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Granada?",
+        "risposta": "Dos días: uno para la Alhambra y otro para el centro, el Albaicín y el Sacromonte. Con tres se añaden los monasterios, el hammam o una excursión a las Alpujarras."
+      },
+      {
+        "domanda": "¿Cómo se compran las entradas de la Alhambra?",
+        "risposta": "Solo en la web oficial, hasta tres meses antes: la entrada general cuesta 22,27 € más la comisión online (2026) y es nominativa. En temporada alta se agota con semanas o meses de antelación."
+      },
+      {
+        "domanda": "¿Qué pasa si llego tarde a los Palacios Nazaríes?",
+        "risposta": "No se entra: la hora impresa en la entrada es estricta y no se recupera. Conviene llegar a la entrada de los palacios con media hora de margen."
+      },
+      {
+        "domanda": "¿En Granada las tapas son gratis de verdad?",
+        "risposta": "Sí, en la mayoría de los bares cada bebida lleva una tapa incluida en el precio, que a menudo cambia en cada ronda. Con tres o cuatro consumiciones se cena."
+      },
+      {
+        "domanda": "¿Dónde dormir en Granada?",
+        "risposta": "El centro junto a la Catedral por comodidad, el Albaicín por ambiente y vistas pero con muchas cuestas, el Realejo para gastar menos. Una doble cuesta unos 70-180 €."
+      }
     ],
     esperienzeSlugs: ['alhambra-visita', 'zambra-sacromonte'],
     tripSlugs: ['andalusia-itinerario'],

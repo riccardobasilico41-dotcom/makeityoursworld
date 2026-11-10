@@ -385,13 +385,13 @@ export const destinazioniFrancia: Destinazione[] = [
     doveMangiare:
       "En París es facilísimo comer mal gastando mucho, y hay una sola defensa: **alejarse de los monumentos**. El **menú del mediodía** (fórmulas entrée-plat o plat-dessert) cuesta una fracción de la misma cocina por la noche. Los **bouillon**, restaurantes populares nacidos en el siglo XIX para dar de comer a los obreros, siguen existiendo y sirven cocina clásica a precios bajísimos. Para probar: **steak-frites**, **confit de canard**, **soupe à l'oignon gratinée**, las **ostras** desde septiembre, los quesos de una fromagerie de verdad y la **baguette de tradition** recién salida del horno. El **servicio está incluido por ley**: la propina es facultativa y simbólica.",
     comeArrivare:
-      "Tres aeropuertos: **Charles-de-Gaulle** (conectado por el tren regional RER B), **Orly** (conectado por la prolongación de la **línea 14** del metro, inaugurada en 2024, hoy la forma más sencilla de llegar al centro) y **Beauvais**, lejano, que atiende los vuelos de bajo coste. En tren el alta velocidad conecta París con toda Europa; el directo desde Milán y Turín estuvo mucho tiempo interrumpido por un desprendimiento en Saboya, así que **antes de reservar conviene comprobar si ha vuelto a funcionar**.",
+      'Tres aeropuertos: **Charles-de-Gaulle** (conectado por el tren regional RER B), **Orly** (conectado por la prolongación de la **línea 14** del metro, inaugurada en 2024, hoy la forma más sencilla de llegar al centro) y **Beauvais**, lejano, que atiende los vuelos de bajo coste. En tren el alta velocidad conecta París con toda Europa; el directo desde Milán y Turín estuvo mucho tiempo interrumpido por un desprendimiento en Saboya, así que **antes de reservar conviene comprobar si ha vuelto a funcionar**. Desde los aeropuertos el billete Paris Région-Aéroports cuesta 14 €, tanto en el RER B desde Charles-de-Gaulle (30-40 minutos a Gare du Nord y Châtelet) como en la línea 14 desde Orly (unos 25 minutos a Châtelet); los taxis tienen tarifas fijas de 56-65 € desde CDG y unos 36-44 € desde Orly.',
     comeSpostarsi:
       "El **metro** tiene dieciséis líneas y pasa continuamente: casi siempre es la respuesta correcta. **Los billetes de papel en carnet ya no existen**: se usa una tarjeta recargable o el móvil, y **desde 2025 hay una tarifa única simplificada para la red de París y de la Isla de Francia**, con un precio aparte para los aeropuertos. **Importes y condiciones cambian, conviene comprobarlos en la web oficial**. París se recorre muy bien también a pie, y en los últimos años los carriles bici han aumentado muchísimo, con un sistema de bicis públicas capilar.",
     periodoMigliore:
       "**abril-junio y septiembre-octubre.** El verano es caluroso y concurrido, y **en agosto muchos restaurantes y comercios de barrio cierran durante semanas**: la ciudad está más vacía, pero también es más difícil de vivir. El invierno es frío y húmedo, con días cortos, pero tiene las colas más cortas y los precios más bajos. Para quien viene sobre todo por los museos es una excelente elección.",
     costi:
-      "Altos, y la partida que más pesa es el alojamiento. Los museos sueltos cuestan poco. El **Paris Museum Pass** de 2, 4 o 6 días compensa a partir de unos tres museos al día, pero **no se salta los controles de seguridad y no sustituye la reserva horaria donde se exige** (Louvre y Versalles sobre todo): es el malentendido más común. Varios museos municipales, como Carnavalet y Petit Palais, tienen la **colección permanente gratuita**.",
+      'Altos, y la partida que más pesa es el alojamiento. Los museos sueltos cuestan poco. El **Paris Museum Pass** de 2, 4 o 6 días compensa a partir de unos tres museos al día, pero **no se salta los controles de seguridad y no sustituye la reserva horaria donde se exige** (Louvre y Versalles sobre todo): es el malentendido más común. Varios museos municipales, como Carnavalet y Petit Palais, tienen la **colección permanente gratuita**. Presupuesto orientativo por día y persona, compartiendo doble: bajo 90-120 €, medio 180-250 €, alto más de 350 €.',
     erroriDaEvitare: [
       "**No reservar Louvre y Versalles.** El pase solo no basta: hace falta la franja horaria, y en épocas punta se agota",
       "No comprobar los días de cierre: **el Louvre cierra los martes, Orsay los lunes, Versalles los lunes**, y los martes la multitud se vuelca sobre Orsay y Versalles",
@@ -543,116 +543,266 @@ export const destinazioniFrancia: Destinazione[] = [
       "En París los dos primeros días los pasé en los sitios que ya conocía antes de llegar, y el viaje de verdad empezó el tercero. El momento en que la ciudad cambia es casi siempre el mismo: sales de un museo grande, estás cansado, tomas una dirección al azar en lugar de ir hacia el siguiente monumento y acabas en un barrio donde no hay nada que ver. Belleville, el Canal Saint-Martin, la parte alta del distrito diez: la gente sentada en el borde del agua, la cola delante de las boulangeries, nadie que fotografíe nada. A partir de ahí la ciudad funciona. La segunda cosa que aprendí es la gestión del tiempo. En el plano del metro todo parece cerca, porque comprime las distancias y engaña, y tres grandes museos en un día significan no ver ninguno. Dos cosas grandes al día, nunca tres. Luego están las reglas pequeñas que cambian la relación con la ciudad: se dice bonjour al entrar en cualquier sitio, el café se toma en la barra, donde cuesta la mitad, y la Torre Eiffel se mira desde lejos. Desde allí arriba a la panorámica le falta justamente la torre.",
     luoghi: [
       {
-        nome: "Louvre",
-        testo: "Uno de los museos más grandes del mundo, en un palacio real. El recorrido esencial pasa por la Victoria de Samotracia, la Venus de Milo y la Gioconda. Es imposible verlo todo: elegir dos o tres alas.",
-        come: "Metro Palais Royal-Musée du Louvre. Conviene reservar online la hora de entrada, también quien entra gratis; se entra por la Pirámide o por la galería del Carrousel.",
-        quando: "Cerrado los martes, el 1 de enero, el 1 de mayo y el 25 de diciembre. Los miércoles y viernes abre hasta las 21. Llegar a la apertura (9) o a última hora de la tarde.",
-        tempo: "3-4 horas",
-        costo: "32 € para visitantes de fuera del Espacio Económico Europeo, 22 € para ciudadanos y residentes UE/EEE (2026). Gratis para menores de 18.",
-        url: "https://www.louvre.fr/",
-        consiglio: "La Gioconda está en la sala más concurrida: ir directo a la apertura o al final del día."
+        "nome": "Louvre",
+        "testo": "Uno de los museos más grandes del mundo, en un palacio real. El recorrido esencial pasa por la Victoria de Samotracia, la Venus de Milo y la Gioconda. Es imposible verlo todo: elegir dos o tres alas.",
+        "come": "Metro Palais Royal-Musée du Louvre. Conviene reservar online la hora de entrada, también quien entra gratis; se entra por la Pirámide o por la galería del Carrousel.",
+        "quando": "Cerrado los martes, el 1 de enero, el 1 de mayo y el 25 de diciembre. Los miércoles y viernes abre hasta las 21. Llegar a la apertura (9) o a última hora de la tarde.",
+        "tempo": "3-4 horas",
+        "costo": "32 € para visitantes de fuera del Espacio Económico Europeo, 22 € para ciudadanos y residentes UE/EEE (2026). Gratis para menores de 18.",
+        "orari": "9-18, miércoles y viernes hasta las 21. Cerrado el martes.",
+        "lat": 48.8606,
+        "lng": 2.3376,
+        "url": "https://www.louvre.fr/",
+        "consiglio": "La Gioconda está en la sala más concurrida: ir directo a la apertura o al final del día."
       },
       {
-        nome: "Musée d'Orsay",
-        testo: "Una antigua estación de tren terminada para la Exposición Universal de 1900 y convertida en museo, con una de las mayores colecciones del mundo de obras maestras impresionistas y postimpresionistas: Monet, Renoir, Degas, Van Gogh.",
-        come: "Metro Solférino o RER C Musée d'Orsay. Reservar horario se recomienda en temporada alta y es obligatorio el primer domingo del mes.",
-        quando: "Cerrado los lunes. Abre de 9.30 a 18, los jueves hasta las 21.45: la noche es el momento más tranquilo.",
-        tempo: "2-3 horas",
-        costo: "16 € online, 14 € en taquilla; tarifa reducida el jueves por la noche (2026). Gratis el primer domingo de cada mes, solo reservando horario.",
-        url: "https://www.musee-orsay.fr/",
-        consiglio: "Desde el reloj gigante del último piso se ve el Sacré-Cœur."
+        "nome": "Musée d'Orsay",
+        "testo": "Una antigua estación de tren terminada para la Exposición Universal de 1900 y convertida en museo, con una de las mayores colecciones del mundo de obras maestras impresionistas y postimpresionistas: Monet, Renoir, Degas, Van Gogh.",
+        "come": "Metro Solférino o RER C Musée d'Orsay. Reservar horario se recomienda en temporada alta y es obligatorio el primer domingo del mes.",
+        "quando": "Cerrado los lunes. Abre de 9.30 a 18, los jueves hasta las 21.45: la noche es el momento más tranquilo.",
+        "tempo": "2-3 horas",
+        "costo": "16 € online, 14 € en taquilla; tarifa reducida el jueves por la noche (2026). Gratis el primer domingo de cada mes, solo reservando horario.",
+        "orari": "9:30-18, jueves hasta las 21:45. Cerrado el lunes.",
+        "lat": 48.86,
+        "lng": 2.3266,
+        "url": "https://www.musee-orsay.fr/",
+        "consiglio": "Desde el reloj gigante del último piso se ve el Sacré-Cœur."
       },
       {
-        nome: "Sainte-Chapelle",
-        testo: "Una capilla gótica del siglo XIII con quince grandes vidrieras de hasta más de 15 metros, construida para guardar las reliquias de la Pasión de Luis IX. Con el sol de la mañana el color es único.",
-        come: "En la Île de la Cité, dentro del Palais de Justice; se pasa un control de seguridad.",
-        quando: "Por la mañana, con el sol atravesando las vidrieras.",
-        tempo: "45 minutos",
-        costo: "22 € para visitantes de fuera del Espacio Económico Europeo, 16 € para UE/EEE (2026).",
-        url: "https://www.sainte-chapelle.fr/",
-        consiglio: "Reservar horario: las colas son largas."
+        "nome": "Sainte-Chapelle",
+        "testo": "Una capilla gótica del siglo XIII con quince grandes vidrieras de hasta más de 15 metros, construida para guardar las reliquias de la Pasión de Luis IX. Con el sol de la mañana el color es único.",
+        "come": "En la Île de la Cité, dentro del Palais de Justice; se pasa un control de seguridad.",
+        "quando": "Por la mañana, con el sol atravesando las vidrieras.",
+        "tempo": "45 minutos",
+        "costo": "22 € para visitantes de fuera del Espacio Económico Europeo, 16 € para UE/EEE (2026).",
+        "orari": "Todos los días desde las 9; cierra a las 17 en invierno y a las 19 en verano.",
+        "lat": 48.8554,
+        "lng": 2.345,
+        "url": "https://www.sainte-chapelle.fr/",
+        "consiglio": "Reservar horario: las colas son largas."
       },
       {
-        nome: "Notre-Dame",
-        testo: "Reabierta en diciembre de 2024 tras el incendio de 2019. El interior, limpio, es claro y luminoso. La entrada es gratuita.",
-        come: "En la Île de la Cité. Se puede reservar en línea para evitar la cola.",
-        quando: "A primera hora.",
-        tempo: "1 hora",
-        costo: "Entrada gratuita a la catedral; torres 16 € (424 escalones), gratis para residentes en la UE menores de 26 años.",
-        url: "https://www.notredamedeparis.fr/",
-        consiglio: "Las torres y el tesoro tienen entradas aparte."
+        "nome": "Notre-Dame",
+        "testo": "Reabierta en diciembre de 2024 tras el incendio de 2019. El interior, limpio, es claro y luminoso. La entrada es gratuita.",
+        "come": "En la Île de la Cité. Se puede reservar en línea para evitar la cola.",
+        "quando": "A primera hora.",
+        "tempo": "1 hora",
+        "costo": "Entrada gratuita a la catedral; torres 16 € (424 escalones), gratis para residentes en la UE menores de 26 años.",
+        "orari": "Todos los días desde primera hora hasta las 19 aprox., el jueves hasta las 22.",
+        "lat": 48.853,
+        "lng": 2.3499,
+        "url": "https://www.notredamedeparis.fr/",
+        "consiglio": "Las torres y el tesoro tienen entradas aparte."
       },
       {
-        nome: "Torre Eiffel",
-        testo: "El monumento símbolo de París, 330 metros de hierro. El ascensor o las escaleras suben al segundo piso o a la cima.",
-        come: "Metro Bir-Hakeim o RER C Champ de Mars. Entradas con hora en línea.",
-        quando: "Atardecer por la luz; los mejores sitios para verla son el Trocadéro y el Arco del Triunfo.",
-        tempo: "2-3 horas",
-        costo: "36,70 € hasta la cima en ascensor, 14,80 € hasta el segundo piso a pie (tarifas desde el 12 de enero de 2026).",
-        url: "https://www.toureiffel.paris/",
-        consiglio: "Para ver sin cola se puede subir a la torre de Montparnasse."
+        "nome": "Torre Eiffel",
+        "testo": "El monumento símbolo de París, 330 metros de hierro. El ascensor o las escaleras suben al segundo piso o a la cima.",
+        "come": "Metro Bir-Hakeim o RER C Champ de Mars. Entradas con hora en línea.",
+        "quando": "Atardecer por la luz; los mejores sitios para verla son el Trocadéro y el Arco del Triunfo.",
+        "tempo": "2-3 horas",
+        "costo": "36,70 € hasta la cima en ascensor, 14,80 € hasta el segundo piso a pie (tarifas desde el 12 de enero de 2026).",
+        "orari": "Todos los días desde las 9:30 hasta la noche, con horario ampliado en verano.",
+        "lat": 48.8584,
+        "lng": 2.2945,
+        "url": "https://www.toureiffel.paris/",
+        "consiglio": "Para ver sin cola se puede subir a la torre de Montparnasse."
       },
       {
-        nome: "Palacio de Versalles",
-        testo: "La residencia de los reyes de Francia hasta 1789, con la Galería de los Espejos, los apartamentos reales y los jardines. El parque es inmenso.",
-        come: "RER C desde París hasta Versailles-Château Rive Gauche. La entrada al palacio es con horario y se reserva online.",
-        quando: "Cerrado los lunes, el 25 de diciembre, el 1 de enero y el 1 de mayo. El palacio abre a las 9; Trianon desde mediodía. Los días de jardines musicales (en temporada) el parque es de pago.",
-        tempo: "día completo",
-        costo: "Pasaporte (palacio, Trianon y jardines) 35 € de abril a octubre y 25 € en temporada baja para visitantes de fuera del Espacio Económico Europeo; 32 € y 22 € para UE/EEE (2026).",
-        url: "https://www.chateauversailles.fr/",
-        consiglio: "Reservar entrada y llevar comida para el parque."
+        "nome": "Palacio de Versalles",
+        "testo": "La residencia de los reyes de Francia hasta 1789, con la Galería de los Espejos, los apartamentos reales y los jardines. El parque es inmenso.",
+        "come": "RER C desde París hasta Versailles-Château Rive Gauche. La entrada al palacio es con horario y se reserva online.",
+        "quando": "Cerrado los lunes, el 25 de diciembre, el 1 de enero y el 1 de mayo. El palacio abre a las 9; Trianon desde mediodía. Los días de jardines musicales (en temporada) el parque es de pago.",
+        "tempo": "día completo",
+        "costo": "Pasaporte (palacio, Trianon y jardines) 35 € de abril a octubre y 25 € en temporada baja para visitantes de fuera del Espacio Económico Europeo; 32 € y 22 € para UE/EEE (2026).",
+        "orari": "Desde las 9; cierra a las 18:30 de abril a octubre y a las 17:30 en invierno. Cerrado el lunes.",
+        "lat": 48.8049,
+        "lng": 2.1204,
+        "url": "https://www.chateauversailles.fr/",
+        "consiglio": "Reservar entrada y llevar comida para el parque."
       },
       {
-        nome: "Montmartre y Sacré-Cœur",
-        testo: "La colina del norte, con la basílica blanca del Sacré-Cœur en lo alto y la vista de todo París desde la escalinata. Detrás, la Place du Tertre con sus pintores y calles en cuesta que conservan aire de pueblo. Más abajo está el Moulin Rouge.",
-        come: "Metro Anvers o Abbesses, luego a pie o en el funicular, que se usa con un billete de metro.",
-        quando: "Temprano por la mañana, antes de los grupos; al atardecer la escalinata está llena pero la luz es bonita.",
-        tempo: "medio día",
-        costo: "Basílica gratuita; la subida a la cúpula es de pago.",
-        consiglio: "Cuidado con quien ofrece pulseras de hilo en la escalinata: es una treta para pedir dinero."
+        "nome": "Montmartre y Sacré-Cœur",
+        "testo": "La colina del norte, con la basílica blanca del Sacré-Cœur en lo alto y la vista de todo París desde la escalinata. Detrás, la Place du Tertre con sus pintores y calles en cuesta que conservan aire de pueblo. Más abajo está el Moulin Rouge.",
+        "come": "Metro Anvers o Abbesses, luego a pie o en el funicular, que se usa con un billete de metro.",
+        "quando": "Temprano por la mañana, antes de los grupos; al atardecer la escalinata está llena pero la luz es bonita.",
+        "tempo": "medio día",
+        "costo": "Basílica gratuita; la subida a la cúpula es de pago.",
+        "orari": "Basílica abierta todos los días de 6:30 a 22:30.",
+        "lat": 48.8867,
+        "lng": 2.3431,
+        "url": "https://www.sacre-coeur-montmartre.com/",
+        "consiglio": "Cuidado con quien ofrece pulseras de hilo en la escalinata: es una treta para pedir dinero."
+      },
+      {
+        "nome": "Arco del Triunfo y Campos Elíseos",
+        "testo": "El arco que mandó construir Napoleón en lo alto de los Campos Elíseos, con la tumba del Soldado Desconocido y la llama que se reaviva cada tarde a las 18:30. Desde la terraza se ven las doce avenidas en estrella y el eje hasta La Défense.",
+        "come": "Metro 1, 2 o 6 o RER A hasta Charles de Gaulle-Étoile; al arco se llega solo por el paso subterráneo, nunca cruzando la rotonda. Arriba se sube a pie, 284 escalones.",
+        "quando": "Al atardecer, cuando se ilumina la Torre Eiffel.",
+        "tempo": "1 hora, más el paseo por los Campos Elíseos",
+        "costo": "terraza unos 16 € (2026), incluida en el Paris Museum Pass; gratis el primer domingo de mes de noviembre a marzo",
+        "orari": "Todos los días de 10 a 23 de abril a septiembre, hasta las 22:30 de octubre a marzo.",
+        "lat": 48.8738,
+        "lng": 2.295,
+        "url": "https://www.paris-arc-de-triomphe.fr/"
+      },
+      {
+        "nome": "Musée de l'Orangerie",
+        "testo": "En las dos salas ovaladas diseñadas con Monet están los ocho Nenúfares, paneles de hasta diecisiete metros que envuelven al visitante. Abajo está la colección Walter-Guillaume con Renoir, Cézanne y Modigliani.",
+        "come": "En el jardín de las Tullerías, lado Concorde; metro 1, 8 o 12 Concorde. Se recomienda reserva con hora.",
+        "quando": "A la apertura o en la última hora, cuando las salas de los Nenúfares están casi vacías.",
+        "tempo": "1-1h30",
+        "costo": "unos 12,50 € (2026), incluido en el Paris Museum Pass",
+        "orari": "9-18. Cerrado el martes.",
+        "lat": 48.8638,
+        "lng": 2.3227,
+        "url": "https://www.musee-orangerie.fr/"
+      },
+      {
+        "nome": "Museo Rodin",
+        "testo": "El Hôtel Biron, donde Rodin vivió y trabajó, con El pensador, El beso y La puerta del Infierno en el jardín de rosas. También están las esculturas de Camille Claudel.",
+        "come": "Metro 13 Varenne, a diez minutos a pie de los Inválidos.",
+        "quando": "Una mañana de sol, por el jardín.",
+        "tempo": "1h30",
+        "costo": "unos 14 € la entrada única para museo y jardín (2026), incluida en el Paris Museum Pass",
+        "orari": "10-18:30. Cerrado el lunes.",
+        "lat": 48.8553,
+        "lng": 2.3159,
+        "url": "https://www.musee-rodin.fr/"
+      },
+      {
+        "nome": "El Marais y la Place des Vosges",
+        "testo": "El barrio de los palacetes nobles del siglo XVII, luego barrio judío y hoy de galerías y tiendas. La Place des Vosges, con sus soportales de ladrillo rojo, es la plaza más antigua de París; el Museo Carnavalet cuenta la historia de la ciudad.",
+        "come": "Metro 1 Saint-Paul u 8 Chemin Vert; se recorre a pie.",
+        "quando": "El domingo, cuando muchas tiendas abren y la rue des Rosiers está llena de vida.",
+        "tempo": "medio día",
+        "costo": "paseo gratuito; colección permanente del Carnavalet gratuita",
+        "lat": 48.8556,
+        "lng": 2.3655
+      },
+      {
+        "nome": "Panteón y Jardines de Luxemburgo",
+        "testo": "El Panteón es el templo laico de la República, con las tumbas de Voltaire, Victor Hugo, Marie Curie y Joséphine Baker y el péndulo de Foucault. A cinco minutos está el Jardín de Luxemburgo, con sus sillas verdes, la fuente Médicis y los barquitos en el estanque.",
+        "come": "RER B Luxembourg o metro 10 Cardinal Lemoine, en el Barrio Latino.",
+        "quando": "El Panteón por la mañana; el jardín por la tarde, con un libro.",
+        "tempo": "2 horas",
+        "costo": "Panteón unos 13 € (2026), incluido en el Paris Museum Pass; jardín gratuito",
+        "orari": "Panteón todos los días 10-18 (18:30 en verano); jardín del amanecer al atardecer.",
+        "lat": 48.8462,
+        "lng": 2.3464,
+        "url": "https://www.paris-pantheon.fr/"
+      },
+      {
+        "nome": "Cementerio del Père-Lachaise",
+        "testo": "El cementerio más visitado del mundo, un parque en colina de avenidas y capillas. Están las tumbas de Chopin, Oscar Wilde, Édith Piaf, Jim Morrison y Proust, y el Muro de los Federados de la Comuna.",
+        "come": "Metro 2 Philippe Auguste o 3 Gambetta, entrando por arriba para bajar. Plano en la entrada o en la web municipal.",
+        "quando": "Una mañana de otoño.",
+        "tempo": "1h30-2 horas",
+        "costo": "entrada libre",
+        "orari": "Desde las 8 entre semana, algo más tarde el fin de semana, hasta media tarde.",
+        "lat": 48.8614,
+        "lng": 2.3933
+      },
+      {
+        "nome": "Catacumbas de París",
+        "testo": "Kilómetro y medio de galerías a veinte metros bajo tierra, con los huesos de unos seis millones de parisinos trasladados desde los cementerios a finales del siglo XVIII. Uno de los lugares más extraños de la ciudad.",
+        "come": "Metro 4 o 6 y RER B Denfert-Rochereau. Entradas solo online con hora, a la venta pocos días antes. Se bajan 131 escalones y se suben 112.",
+        "quando": "En la primera franja de la mañana.",
+        "tempo": "1 hora",
+        "costo": "unos 31 € con audioguía (2026)",
+        "orari": "Cerradas el lunes.",
+        "lat": 48.8338,
+        "lng": 2.3324,
+        "url": "https://www.catacombes.paris.fr/"
+      },
+      {
+        "nome": "Palacio Garnier",
+        "testo": "La Ópera del Segundo Imperio, con la escalinata de mármoles de colores, el Gran Foyer dorado y el techo de la sala pintado por Chagall. Es el escenario de El fantasma de la ópera.",
+        "come": "Metro 3, 7 u 8 Opéra. Visita libre o guiada; la sala puede estar cerrada por ensayos.",
+        "quando": "A media mañana, y después las Galeries Lafayette y su terraza panorámica gratuita.",
+        "tempo": "1 hora",
+        "orari": "Todos los días de 10 a 17 aprox., salvo funciones y matinés.",
+        "lat": 48.872,
+        "lng": 2.3316,
+        "url": "https://www.operadeparis.fr/"
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Notre-Dame y Sainte-Chapelle",
-          "Comida en la Île Saint-Louis",
-          "Louvre por la tarde",
-          "Atardecer en la Torre Eiffel"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Notre-Dame y la Sainte-Chapelle en la Île de la Cité, con franja reservada.",
+          "Paseo por el Barrio Latino y el Jardín de Luxemburgo; comida en Saint-Germain.",
+          "Tarde en el Louvre (o en el Orsay si es martes) con entrada con hora.",
+          "Tullerías y Campos Elíseos hasta el Arco del Triunfo al atardecer.",
+          "Noche en el Trocadéro para ver la Torre Eiffel iluminada."
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: Île de la Cité, Louvre, Tuileries",
-          "Día 2: Orsay, Montmartre y Sacré-Cœur"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Île de la Cité, Louvre, Tullerías y Orangerie, Arco del Triunfo al atardecer.",
+          "Día 2: Montmartre al amanecer y Sacré-Cœur; Museo de Orsay; el Marais y la Place des Vosges por la tarde; Torre Eiffel por la noche."
         ]
       },
       {
-        titolo: "3 días",
-        tappe: [
-          "Día 1: Île de la Cité y Louvre",
-          "Día 2: Orsay, Eiffel y Campos Elíseos",
-          "Día 3: Versalles o Canal Saint-Martin y Belleville"
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Notre-Dame, Sainte-Chapelle, Barrio Latino, Panteón y Luxemburgo.",
+          "Día 2: Louvre, Orangerie, Palacio Garnier, Arco del Triunfo; Torre Eiffel por la noche.",
+          "Día 3: Versalles por la mañana (no en lunes), vuelta para Montmartre al atardecer. Alternativa para el tercer día: Orsay, Museo Rodin, el Marais y el Père-Lachaise."
         ]
       }
     ],
     zone: [
       {
-        nome: "Marais e Île Saint-Louis",
-        perChi: "para un barrio animado y céntrico",
-        testo: "A pie de muchos museos, con restaurantes y callejuelas. Más caro y concurrido los fines de semana."
+        "nome": "Marais e Île Saint-Louis",
+        "perChi": "para un barrio animado y céntrico",
+        "testo": "A pie de muchos museos, con restaurantes y callejuelas. Más caro y concurrido los fines de semana.",
+        "fascia": "180-320 €"
       },
       {
-        nome: "Barrio Latino y Saint-Germain",
-        perChi: "para un ambiente clásico",
-        testo: "Cafés, librerías y metro cerca. Los precios son altos y las noches ruidosas."
+        "nome": "Barrio Latino y Saint-Germain",
+        "perChi": "para un ambiente clásico",
+        "testo": "Cafés, librerías y metro cerca. Los precios son altos y las noches ruidosas.",
+        "fascia": "170-300 €"
       },
       {
-        nome: "Canal Saint-Martin",
-        perChi: "para bares y menos turistas",
-        testo: "Barrio joven con bares y tiendas, al noreste del centro, bien comunicado en metro."
+        "nome": "Canal Saint-Martin",
+        "perChi": "para bares y menos turistas",
+        "testo": "Barrio joven con bares y tiendas, al noreste del centro, bien comunicado en metro.",
+        "fascia": "120-200 €"
+      },
+      {
+        "nome": "Montmartre y Pigalle",
+        "perChi": "quien busca ambiente de pueblo y precios algo más bajos",
+        "testo": "La parte alta es tranquila y en cuesta, con escaleras y callejones; la baja hacia Pigalle es más nocturna. Metro 2 y 12 al centro en 15-20 minutos.",
+        "fascia": "120-220 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Giverny",
+        "distanza": "75 km, 1h15 entre tren y lanzadera",
+        "come": "Tren desde Saint-Lazare a Vernon-Giverny en unos 50 minutos y lanzadera o bici hasta el pueblo. La casa de Monet abre de abril a octubre.",
+        "testo": "La casa y el jardín de Monet, con el estanque de los nenúfares y el puente japonés. Combina bien con la Orangerie de París."
+      },
+      {
+        "nome": "Reims y la Champaña",
+        "distanza": "45 minutos en TGV",
+        "come": "TGV desde la Gare de l'Est a Reims; las maisons del centro se alcanzan a pie o en tranvía.",
+        "testo": "La catedral donde se coronaba a los reyes de Francia y las bodegas de tiza de las grandes maisons, con cata. Las visitas a bodega hay que reservarlas."
+      },
+      {
+        "nome": "Fontainebleau",
+        "distanza": "60 km, 40 minutos en tren",
+        "come": "Tren desde la Gare de Lyon a Fontainebleau-Avon y autobús hasta el castillo.",
+        "testo": "El castillo habitado por todos los reyes de Francia durante ocho siglos, menos concurrido que Versalles, y un bosque enorme de rocas y senderos."
+      },
+      {
+        "nome": "Chantilly",
+        "distanza": "40 km, 25 minutos en tren",
+        "come": "Tren regional desde Gare du Nord a Chantilly-Gouvieux y 30 minutos a pie o lanzadera.",
+        "testo": "Un castillo sobre el agua con la segunda colección de pintura antigua de Francia después del Louvre y las Grandes Caballerizas."
       }
     ],
     sapori: [
@@ -678,6 +828,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "La estafa de la pulsera a los pies del Sacré-Cœur: rechazar y seguir.",
       "Las «peticiones» de personas con una tablilla junto a la Torre Eiffel sirven para distraer y robar.",
       "Entradas de museos: comprarlas solo en sitios oficiales, no a revendedores que las encarecen."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en París?",
+        "risposta": "Tres días para los grandes museos, la Île de la Cité, Montmartre y la Torre Eiffel; cuatro o cinco para añadir Versalles, el Marais y una excursión a Giverny o Reims."
+      },
+      {
+        "domanda": "¿Hay que reservar el Louvre?",
+        "risposta": "Sí, la entrada es por franja horaria incluso con el Paris Museum Pass. El museo cierra el martes y abre hasta las 21 los miércoles y viernes."
+      },
+      {
+        "domanda": "¿Compensa el Paris Museum Pass?",
+        "risposta": "Compensa a partir de unos tres museos al día, pero no evita los controles de seguridad ni sustituye la reserva con hora donde se exige. No incluye la Torre Eiffel ni las Catacumbas."
+      },
+      {
+        "domanda": "¿Merece la pena subir a lo alto de la Torre Eiffel?",
+        "risposta": "El segundo piso a pie cuesta menos y tiene la mejor vista de la ciudad; la cima en ascensor cuesta 36,70 € (2026). Las entradas online con hora evitan las colas más largas."
+      },
+      {
+        "domanda": "¿Dónde dormir en París la primera vez?",
+        "risposta": "Dentro de los veinte distritos y cerca del metro: el Marais o el Barrio Latino para estar en el centro, Canal Saint-Martin para gastar menos. Una doble va de unos 120 € a más de 300 € en las zonas más céntricas."
+      },
+      {
+        "domanda": "¿Cómo se va de Charles de Gaulle al centro?",
+        "risposta": "Con el RER B hasta Gare du Nord o Châtelet en 30-40 minutos, billete Paris Région-Aéroports de 14 €. El taxi tiene tarifa fija de 56 € a la orilla derecha y 65 € a la izquierda."
+      }
     ],
     esperienzeSlugs: ['louvre-strategia', 'sainte-chapelle', 'montmartre-alba', 'catacombe-parigi', 'pere-lachaise'],
     tripSlugs: ['parigi-5-giorni'],

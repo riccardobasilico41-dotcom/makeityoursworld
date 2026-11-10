@@ -105,12 +105,12 @@ export const destinazioniIslanda: Destinazione[] = [
       'Escursione notturna al relitto dell\'aereo: circa 20 minuti d\'auto da Vík fino al parcheggio sulla Ring Road, poi 4 km (40-60 minuti) a piedi su sabbia nera piatta ed esposta al vento, andata e ritorno',
     ],
     doveDormire:
-      'Ho dormito al campeggio di Vík (1.950 ISK + doccia 300 ISK): elettricità, docce, cucina comune. È in pratica l\'unica grande struttura della zona, comoda e ben servita, anche se nelle recensioni più recenti c\'è chi si lamenta del sovraffollamento in alta stagione.\n\nAlternative a Vík. Economiche: The Barn (uno dei migliori hostel d\'Islanda), Farmhouse Lodge Guesthouse · fascia media: Hotel Kría, design nordico sulla via principale · più curate: Hótel Vík í Mýrdal.',
+      'La prima notte in tenda l\'ho passata al campeggio di Skógafoss, ai piedi della cascata, a mezz\'ora da Vík. A Vík il campeggio (1.950 ISK + doccia 300 ISK) ha elettricità, docce, cucina comune. È in pratica l\'unica grande struttura della zona, comoda e ben servita, anche se nelle recensioni più recenti c\'è chi si lamenta del sovraffollamento in alta stagione.\n\nAlternative a Vík. Economiche: The Barn (uno dei migliori hostel d\'Islanda), Farmhouse Lodge Guesthouse · fascia media: Hotel Kría, design nordico sulla via principale · più curate: Hótel Vík í Mýrdal.',
     doveMangiare: 'Pranzo al sacco o nei dintorni delle cascate; cena al campeggio.',
-    comeArrivare: 'Da Keflavík, con soste al Golden Circle e alle cascate del sud lungo il tragitto.',
+    comeArrivare: "Da Keflavík, con soste al Golden Circle e alle cascate del sud lungo il tragitto. Da Reykjavík sono circa 180 km sulla Route 1, due ore e mezza senza soste, che con le cascate diventano facilmente una giornata intera; da Keflavík si aggiunge un'altra ora. Senza auto c'è il bus Strætó 51 tra Reykjavík e Höfn, che ferma a Vík con poche corse al giorno, oppure i tour di una giornata dalla capitale.",
     comeSpostarsi: 'Auto a noleggio (ritirata la mattina a Keflavík insieme alla tenda).',
     periodoMigliore: 'fine luglio, per la luce che a mezzanotte non cala mai del tutto e rende possibile l\'escursione notturna al relitto',
-    costi: 'Campeggio 1.950 ISK + doccia 300 ISK; parcheggio a Seljalandsfoss 700 ISK.',
+    costi: "Campeggio 1.950 ISK + doccia 300 ISK; parcheggio a Seljalandsfoss 700 ISK. Indicativamente, a persona al giorno con auto condivisa: 60-90 € in tenda con spesa al supermercato; 180-250 € con hotel a Vík e una cena al ristorante; oltre 350 € con hotel curato e tour sul ghiacciaio. Quasi tutti i parcheggi della costa sud sono a pagamento, 750-1.000 ISK l'uno.",
     erroriDaEvitare: [
       'Dopo una giornata già piena il relitto dell\'aereo è una bella sfacchinata: meglio valutare le energie prima di partire a mezzanotte',
       'Portare torcia o power bank per il telefono: quattro chilometri di sabbia nera piatta e senza punti di riferimento',
@@ -119,14 +119,114 @@ export const destinazioniIslanda: Destinazione[] = [
       'A fine luglio a mezzanotte c\'era ancora luce, così dopo cena ho deciso all\'ultimo di non andare a dormire e di raggiungere il relitto a piedi. Dopo una giornata già piena è stata una sfacchinata, ma è probabilmente il momento più assurdo del viaggio, e quello che ricordo meglio.',
     luoghi: [
       {
+        nome: "Seljalandsfoss e Gljúfrabúi",
+        testo: "Seljalandsfoss cade per 60 metri e si può aggirare con un sentiero scivoloso che passa dietro il getto. Poco più avanti, nascosta in una fessura, c'è Gljúfrabúi, che si vede entrando nel fiume.",
+        come: "Parcheggio a pagamento (700 ISK quando ci sono stato); percorso breve su sentiero fangoso.",
+        quando: "Sera d'estate, con il sole che colpisce la caduta da ovest.",
+        tempo: "1 ora",
+        costo: "parcheggio circa 900-1.000 ISK per auto (2025)",
+        lat: 63.61583,
+        lng: -19.99278,
+        consiglio: "Scarpe impermeabili per entrare nella gola di Gljúfrabúi.",
+      },
+      {
+        nome: "Skógafoss",
+        testo: "Cascata larga 25 metri e alta 60, sul bordo della scogliera vecchia della costa. Una scala laterale di 527 gradini sale in cima, dove parte il sentiero per il passo di Fimmvörðuháls.",
+        come: "Parcheggio ai piedi della cascata; il campeggio accanto è comodo per la sera, ed è lì che abbiamo montato la tenda la prima notte del giro.",
+        quando: "Pomeriggio, per l'arcobaleno quando c'è sole.",
+        tempo: "45 minuti",
+        costo: "ingresso libero; parcheggio 1.000 ISK per auto fino a 5 posti, circa 7 € (2026, si paga con l'app o il sito Parka)",
+        lat: 63.53211,
+        lng: -19.51114,
+        consiglio: "Salire dalla scala di legno per la vista dall'alto: dalla piattaforma si vede anche la costa.",
+      },
+      {
+        nome: "Kvernufoss",
+        testo: "Una cascata di una trentina di metri nascosta in una gola dietro il museo di Skógar, molto meno affollata di Skógafoss. Come a Seljalandsfoss si può passare dietro il getto, su un sentiero bagnato.",
+        come: "Dal parcheggio del museo di Skógar si segue il sentiero lungo il torrente, circa 15-20 minuti a piedi.",
+        quando: "Tardo pomeriggio, quando i pullman di Skógafoss sono ripartiti.",
+        tempo: "1 ora",
+        costo: "parcheggio 750 ISK per auto, circa 5 € (2026), con accesso ai bagni del museo",
+        lat: 63.52899,
+        lng: -19.4803,
+      },
+      {
+        nome: "Museo di Skógar (Skógasafn)",
+        testo: "Museo del folklore all'aperto, con case di torba, una chiesetta e migliaia di oggetti della vita rurale del sud, più una sezione sui trasporti e le comunicazioni. È la sosta giusta per un'ora di pioggia vicino a Skógafoss.",
+        come: "A Skógar, a pochi minuti d'auto dalla cascata; parcheggio a pagamento.",
+        quando: "Qualsiasi momento, utile con il brutto tempo.",
+        tempo: "1,5-2 ore",
+        costo: "3.000 ISK adulti, circa 21 € (2026); gratis sotto i 12 anni",
+        orari: "Giugno-agosto 9-18, settembre-maggio 10-17; chiuso il 24 e 25 dicembre e il 1° gennaio.",
+        lat: 63.52592,
+        lng: -19.49127,
+        url: "https://www.skogasafn.is",
+      },
+      {
+        nome: "Relitto del DC-3 a Sólheimasandur",
+        testo: "Un aereo della Marina americana caduto nel novembre 1973 su una pianura di sabbia nera, senza vittime. L'area è spoglia e battuta dal vento; dal 2016 i proprietari del terreno hanno vietato l'accesso in auto.",
+        come: "Parcheggio sulla Ring Road e una lunga camminata su sabbia piatta. Niente guida necessaria.",
+        quando: "Tardi in estate, quando il sole sfiora l'orizzonte; di notte serve una torcia.",
+        tempo: "2-3 ore andata e ritorno",
+        lat: 63.45908,
+        lng: -19.36482,
+        consiglio: "Ci siamo andati a mezzanotte con la luce di fine luglio: portare acqua e un power bank, il percorso non ha punti di riferimento.",
+      },
+      {
+        nome: "Dyrhólaey",
+        testo: "Promontorio con un grande arco di lava nera nel mare e un faro del 1927, con vista sulla costa del sud e sui faraglioni di Reynisdrangar. D'estate sulle scogliere nidificano le pulcinelle di mare.",
+        come: "In auto dalla Route 1 verso sud: parcheggio basso vicino all'arco e parcheggio alto, presso il faro, su una strada sterrata ripida.",
+        quando: "Da maggio ad agosto per le pulcinelle; al tramonto per la luce. In primavera parte del promontorio può chiudere per la nidificazione.",
+        tempo: "1 ora",
+        costo: "parcheggio 750 ISK per auto, circa 5 € (2026, Parka)",
+        lat: 63.39972,
+        lng: -19.12639,
+        consiglio: "Restare sui sentieri segnati: le scogliere sono alte e friabili.",
+      },
+      {
+        nome: "Reynisfjara",
+        testo: "La spiaggia di sabbia nera con le colonne di basalto della grotta di Hálsanefshellir e i faraglioni di Reynisdrangar davanti. È una delle più fotografate d'Islanda e anche una delle più pericolose, per le onde anomale che risalgono la spiaggia senza preavviso.",
+        come: "Strada 215 dalla Route 1, poi un breve sentiero dal parcheggio; all'ingresso un semaforo segnala il livello di rischio del giorno.",
+        quando: "Mattina presto, prima dei pullman; con mare grosso restare lontani dalla battigia.",
+        tempo: "1 ora",
+        costo: "ingresso libero; parcheggio 1.000 ISK per auto fino a 4 ore, circa 7 € (2026, Parka)",
+        lat: 63.4035,
+        lng: -19.0474,
+        consiglio: "Non voltare mai le spalle al mare e non salire sugli scogli bassi: le onde hanno fatto vittime.",
+      },
+      {
+        nome: "Vík e la chiesa di Víkurkirkja",
+        testo: "Il paese più a sud dell'Islanda, poche centinaia di abitanti tra la scogliera e la spiaggia nera. La chiesetta dal tetto rosso, del 1934, sulla collina sopra le case, è il punto da cui si vedono insieme il paese e i faraglioni di Reynisdrangar.",
+        come: "A piedi dal centro del paese, salendo la stradina dietro le case; c'è un piccolo parcheggio sotto la chiesa.",
+        quando: "Sera, con la luce radente sul mare.",
+        tempo: "1 ora",
+        costo: "libero",
+        lat: 63.42053,
+        lng: -19.00293,
+        consiglio: "In paese ci sono il supermercato e il distributore: conviene fare scorta prima di proseguire verso est, dove i servizi si diradano.",
+      },
+      {
+        nome: "Fjaðrárgljúfur",
+        testo: "Un canyon sinuoso profondo un centinaio di metri e lungo circa due chilometri, con pareti coperte di muschio e un fiume che scorre sul fondo. Il sentiero corre sul bordo con piattaforme panoramiche.",
+        come: "Circa 70 km a est di Vík, poco dopo la deviazione per la strada 206; dal parcheggio sentiero ben tenuto, in salita leggera.",
+        quando: "Estate, con il terreno asciutto; in primavera il sentiero può chiudere per il fango.",
+        tempo: "1 ora",
+        costo: "parcheggio 1.000 ISK per auto, valido per tutto il giorno, circa 7 € (2026, Parka)",
+        lat: 63.77125,
+        lng: -18.17194,
+        consiglio: "Restare sul sentiero: nel 2019 il canyon è stato chiuso perché il troppo afflusso danneggiava la vegetazione.",
+      },
+      {
         nome: "Þingvellir",
         testo: "Parco nazionale e sito UNESCO nella spaccatura tra due placche tettoniche, dove nel 930 si riunì il primo parlamento islandese. Si cammina tra pareti di basalto e il lago, con la faglia Almannagjá come passaggio.",
         come: "In auto da Reykjavík o da Keflavík. Sentieri segnati dal centro visitatori, senza guida necessaria.",
         quando: "Mattina presto o sera, per evitare i pullman; d'estate aperto a tutte le ore.",
         tempo: "1-2 ore",
         costo: "sentieri liberi; parcheggio a pagamento, circa 1.000 ISK per auto (2025)",
+        lat: 64.25381,
+        lng: -21.03725,
         url: "https://www.thingvellir.is",
-        consiglio: "Parcheggio e centro visitatori sono a pagamento: controllare le tariffe aggiornate sul sito ufficiale."
+        consiglio: "Parcheggio e centro visitatori sono a pagamento: controllare le tariffe aggiornate sul sito ufficiale.",
       },
       {
         nome: "Geysir e Strokkur",
@@ -135,7 +235,9 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Con il vento che porta il vapore lontano dal pubblico; sempre aperto.",
         tempo: "45 minuti",
         costo: "ingresso libero",
-        consiglio: "Stare sopravvento e a distanza dalle pozze: l'acqua è a quasi 100 gradi."
+        lat: 64.31306,
+        lng: -20.30056,
+        consiglio: "Stare sopravvento e a distanza dalle pozze: l'acqua è a quasi 100 gradi.",
       },
       {
         nome: "Gullfoss",
@@ -144,34 +246,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Prima mattina o sera, con la luce radente.",
         tempo: "45 minuti",
         costo: "ingresso libero",
-        consiglio: "Impermeabile addosso: lo spruzzo arriva fino ai percorsi."
+        lat: 64.32611,
+        lng: -20.12111,
+        consiglio: "Impermeabile addosso: lo spruzzo arriva fino ai percorsi.",
       },
-      {
-        nome: "Seljalandsfoss e Gljúfrabúi",
-        testo: "Seljalandsfoss cade per 60 metri e si può aggirare con un sentiero scivoloso che passa dietro il getto. Poco più avanti, nascosta in una fessura, c'è Gljúfrabúi, che si vede entrando nel fiume.",
-        come: "Parcheggio a pagamento (700 ISK quando ci sono stato); percorso breve su sentiero fangoso.",
-        quando: "Sera d'estate, con il sole che colpisce la caduta da ovest.",
-        tempo: "1 ora",
-        costo: "parcheggio circa 900-1.000 ISK per auto (2025)",
-        consiglio: "Scarpe impermeabili per entrare nella gola di Gljúfrabúi."
-      },
-      {
-        nome: "Skógafoss",
-        testo: "Cascata larga 25 metri e alta 60, sul bordo della scogliera vecchia della costa. Una scala laterale di 527 gradini sale in cima, dove parte il sentiero per il passo di Fimmvörðuháls.",
-        come: "Parcheggio ai piedi; il campeggio accanto è comodo per la sera.",
-        quando: "Pomeriggio, per l'arcobaleno quando c'è sole.",
-        tempo: "45 minuti",
-        costo: "ingresso libero; parcheggio a pagamento, circa 1.000 ISK (2025, app Parka)",
-        consiglio: "Salire dalla scala di legno per la vista dall'alto: dalla piattaforma si vede anche la costa."
-      },
-      {
-        nome: "Relitto del DC-3 a Sólheimasandur",
-        testo: "Un aereo della Marina americana caduto nel novembre 1973 su una pianura di sabbia nera, senza vittime. L'area è spoglia e battuta dal vento; dal 2016 i proprietari del terreno hanno vietato l'accesso in auto.",
-        come: "Parcheggio sulla Ring Road e una lunga camminata su sabbia piatta. Niente guida necessaria.",
-        quando: "Tardi in estate, quando il sole sfiora l'orizzonte; di notte serve una torcia.",
-        tempo: "2-3 ore andata e ritorno",
-        consiglio: "Ci siamo andati a mezzanotte con la luce di fine luglio: portare acqua e un power bank, il percorso non ha punti di riferimento."
-      }
     ],
     sapori: [
       {
@@ -192,6 +270,113 @@ export const destinazioniIslanda: Destinazione[] = [
       "Le strade F e i guadi senza ponte richiedono un 4x4 e di solito non sono coperti dall'assicurazione base del noleggio.",
       "Il campeggio libero con la tenda è molto limitato: usare i campeggi e rispettare i cartelli.",
       "Fuori dalla zona di Reykjavík molte pompe di benzina sono automatiche: avere carta con PIN."
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno da Reykjavík",
+        tappe: [
+          "Partenza presto lungo la Route 1",
+          "Seljalandsfoss e Gljúfrabúi",
+          "Skógafoss e, se resta tempo, Kvernufoss",
+          "Relitto del DC-3 a Sólheimasandur (2-3 ore a piedi)",
+          "Reynisfjara e cena a Vík",
+        ],
+      },
+      {
+        titolo: "2 giorni con notte a Vík",
+        tappe: [
+          "Giorno 1: Golden Circle o cascate del sud, notte a Skógar o a Vík",
+          "Giorno 2: Dyrhólaey e Reynisfjara la mattina",
+          "Vík e la chiesa di Víkurkirkja",
+          "Fjaðrárgljúfur nel pomeriggio, poi avanti verso Skaftafell",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: grotta di ghiaccio sotto il Mýrdalsjökull con un tour da Vík, oppure Þórsmörk",
+          "In alternativa, la laguna di Jökulsárlón per chi prosegue sulla Ring Road",
+        ],
+      },
+    ],
+    gite: [
+      {
+        nome: "Skaftafell e Jökulsárlón",
+        distanza: "Skaftafell circa 135 km, Jökulsárlón circa 190 km",
+        come: "In auto lungo la Route 1 verso est; trekking sul ghiacciaio e kayak solo con guida.",
+        testo: "Il parco del Vatnajökull, la cascata di Svartifoss e la laguna degli iceberg con la Diamond Beach. In giornata da Vík è una corsa: meglio dormire più a est.",
+      },
+      {
+        nome: "Grotta di ghiaccio di Katla",
+        distanza: "circa 30-40 minuti da Vík in fuoristrada",
+        come: "Solo con i tour in super jeep che partono da Vík, con ramponi e caschi forniti.",
+        testo: "Una grotta nel ghiaccio nero di cenere sotto il ghiacciaio Mýrdalsjökull, visitabile anche d'estate, quando le altre grotte del Vatnajökull sono chiuse.",
+      },
+      {
+        nome: "Þórsmörk",
+        distanza: "circa 30 km di pista dalla Route 1, vicino a Seljalandsfoss",
+        come: "Con il bus 4x4 estivo o un tour: la pista guada diversi fiumi e non va fatta con un'auto normale.",
+        testo: "Una valle verde tra tre ghiacciai, con sentieri di mezza giornata e l'arrivo del trekking che scende da Skógar per il passo di Fimmvörðuháls.",
+      },
+      {
+        nome: "Isole Vestmannaeyjar",
+        distanza: "traghetto da Landeyjahöfn, a circa 1 ora d'auto da Vík",
+        come: "Traghetto Herjólfur da Landeyjahöfn; d'inverno a volte parte da Þorlákshöfn, più lontano.",
+        testo: "L'isola di Heimaey, con il vulcano Eldfell dell'eruzione del 1973 e una delle colonie di pulcinelle di mare più grandi del mondo.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quante notti servono a Vík?",
+        risposta: "Una notte basta per Reynisfjara, Dyrhólaey e il paese. Con due si aggiungono la grotta di ghiaccio o Fjaðrárgljúfur senza correre.",
+      },
+      {
+        domanda: "Meglio dormire a Vík o a Skógar?",
+        risposta: "Skógar è più comoda per le cascate e il relitto, Vík per le spiagge e per ripartire verso est. A Vík ci sono più servizi, a Skógar si dorme ai piedi di Skógafoss.",
+      },
+      {
+        domanda: "Si arriva in auto al relitto di Sólheimasandur?",
+        risposta: "No, l'accesso in auto è vietato dal 2016. Dal parcheggio sulla Route 1 ci sono circa 4 km a piedi su sabbia piatta per tratta.",
+      },
+      {
+        domanda: "Reynisfjara è davvero pericolosa?",
+        risposta: "Sì: le onde anomale risalgono la spiaggia all'improvviso e hanno fatto diverse vittime. Il semaforo all'ingresso indica il rischio del giorno e va rispettato.",
+      },
+      {
+        domanda: "Si può fare la costa sud in giornata da Reykjavík?",
+        risposta: "Fino a Vík sì, ma sono circa cinque ore d'auto tra andata e ritorno più le soste. Per vedere anche il relitto e le spiagge conviene una notte sul posto.",
+      },
+      {
+        domanda: "Come si pagano i parcheggi?",
+        risposta: "Quasi tutti con l'app o il sito Parka, entro 24 ore dalla sosta, leggendo la targa. Se non si paga arriva una penale di 1.960 ISK in più, addebitata tramite il noleggio.",
+      },
+    ],
+    zone: [
+      {
+        nome: "Vík",
+        perChi: "chi vuole cena, supermercato e spiaggia a pochi minuti",
+        testo: "Hotel, guesthouse e il campeggio sotto la scogliera; d'estate si riempie presto e i prezzi salgono.",
+        fascia: "150-280 €",
+      },
+      {
+        nome: "Skógar",
+        perChi: "chi vuole svegliarsi davanti alla cascata",
+        testo: "Due o tre hotel e il campeggio ai piedi di Skógafoss, a metà strada tra Seljalandsfoss e Vík; pochissimi servizi la sera.",
+        fascia: "160-280 €",
+      },
+      {
+        nome: "Hvolsvöllur e Hella",
+        perChi: "chi arriva tardi da Reykjavík o cerca prezzi più bassi",
+        testo: "Paesi con supermercati, distributori e qualche ristorante, a circa un'ora da Vík; comodi anche per Þórsmörk.",
+        fascia: "130-220 €",
+      },
+      {
+        nome: "Campeggi della costa sud",
+        perChi: "chi gira in tenda o in camper",
+        testo: "Skógafoss e Vík sono i campeggi più comodi lungo la strada: docce, cucina comune e, a Vík, elettricità. Il campeggio libero non è permesso.",
+        fascia: "circa 30 € in due con tenda propria (Vík 1.950 ISK a persona più 300 ISK di doccia)",
+      },
     ],
     esperienzeSlugs: ['relitto-aereo-solheimasandur', 'golden-circle'],
     tripSlugs: ['islanda-2024'],
@@ -700,10 +885,10 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     doveDormire: 'Il nome dell\'hotel dell\'ultima notte non me lo sono segnato: conviene comunque dormire in centro, per girare tutto a piedi.\n\nAlternative a Reykjavík. Economiche: KEX Hostel, Loft HI Eco Hostel · fascia media: hotel in zona Þingholt, Hlemmur Square · più curate: The Reykjavik EDITION, Canopy by Hilton Reykjavík.',
     doveMangiare: 'Ultima cena in uno dei ristoranti del centro; il nome del locale non me lo sono segnato.',
-    comeArrivare: 'Da Grundarfjörður, circa 2h30 di guida (180 km via Borgarnes).',
+    comeArrivare: "Da Grundarfjörður, circa 2h30 di guida (180 km via Borgarnes). Dall'aeroporto di Keflavík (KEF), a circa 50 km, il Flybus arriva al terminal BSÍ in circa 45 minuti, per circa 4.000 ISK, con corse legate agli arrivi; Airport Direct porta al suo terminal o agli hotel per circa 5.000 ISK. Il bus Strætó 55 costa circa 2.400 ISK ma è lento e ha poche corse; il taxi costa 20.000-25.000 ISK e non c'è Uber.",
     comeSpostarsi: 'A piedi in centro.',
     periodoMigliore: 'quello di tutto il giro: l\'estate, se si gira l\'isola in tenda',
-    costi: 'i costi dell\'ultima tappa non li ho annotati',
+    costi: "i costi dell'ultima tappa non li ho annotati. Indicativamente, a persona al giorno: 90-120 € con ostello, spesa al supermercato e piscina comunale; 200-280 € con hotel in centro, una cena al ristorante e un museo; oltre 400 € con hotel di design, terme e uscita in barca. Un piatto principale al ristorante costa spesso 4.000-6.000 ISK.",
     erroriDaEvitare: [],
     miaEsperienza: 'Dopo sei notti in tenda, l\'ultima notte in un letto vero a Reykjavík è stata quasi surreale: un buon modo per festeggiare la fine del viaggio prima del volo di rientro da Keflavík.',
     luoghi: [
@@ -713,9 +898,12 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "In centro, a piedi. L'ingresso alla chiesa e alla torre è separato.",
         quando: "Chiesa tutti i giorni 10-17 d'inverno e 9-20 d'estate; torre fino alle 16:45 d'inverno e alle 19:45 d'estate. Mattina per la luce più morbida.",
         tempo: "45 minuti",
-        costo: "chiesa libera; torre 1.500 ISK adulti (2026), biglietto solo in chiesa, non prenotabile",
+        costo: "chiesa libera; torre 1.500 ISK adulti, circa 10 € (2026), biglietto solo in chiesa, non prenotabile",
+        orari: "Chiesa 10-17 d'inverno e 9-20 d'estate; torre fino alle 16:45 d'inverno e alle 19:45 d'estate, tutti i giorni salvo funzioni e concerti.",
+        lat: 64.1417,
+        lng: -21.9266,
         url: "https://hallgrimskirkja.is",
-        consiglio: "Controllare orari della torre sul sito ufficiale: possono cambiare per concerti e funzioni."
+        consiglio: "Controllare orari della torre sul sito ufficiale: possono cambiare per concerti e funzioni.",
       },
       {
         nome: "Harpa e il lungomare",
@@ -724,8 +912,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Tramonto, quando il vetro riflette il cielo.",
         tempo: "1 ora",
         costo: "ingresso libero al foyer",
+        lat: 64.15028,
+        lng: -21.9325,
         url: "https://www.harpa.is",
-        consiglio: "Prenotare i biglietti dei concerti in anticipo."
+        consiglio: "Prenotare i biglietti dei concerti in anticipo.",
       },
       {
         nome: "Perlan e museo Wonders of Iceland",
@@ -733,8 +923,11 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Fuori dal centro, con bus o auto; comodo in giornata di pioggia.",
         quando: "Mostre aperte tutti i giorni 9-21; ideale nelle giornate di brutto tempo.",
         tempo: "2-3 ore",
+        orari: "Mostre tutti i giorni 9-21.",
+        lat: 64.1292,
+        lng: -21.9189,
         url: "https://perlan.is",
-        consiglio: "Si prenota online per evitare le code."
+        consiglio: "Si prenota online per evitare le code.",
       },
       {
         nome: "Centro storico e street art",
@@ -742,7 +935,9 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "A piedi; il tratto in salita parte dalla chiesa.",
         quando: "Mattina o pomeriggio.",
         tempo: "2 ore",
-        consiglio: "Il sabato e la domenica c'è il mercatino delle pulci Kolaportið."
+        lat: 64.1458,
+        lng: -21.9285,
+        consiglio: "Il sabato e la domenica c'è il mercatino delle pulci Kolaportið.",
       },
       {
         nome: "Kolaportið",
@@ -750,8 +945,11 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "A piedi dal centro, accanto al porto vecchio.",
         quando: "Sabato e domenica, tutto l'anno; orari sul sito ufficiale.",
         tempo: "1 ora",
+        orari: "Sabato e domenica, tutto l'anno.",
+        lat: 64.14889,
+        lng: -21.93861,
         url: "https://kolaportid.is",
-        consiglio: "Provare lo harðfiskur (pesce secco) con burro."
+        consiglio: "Provare lo harðfiskur (pesce secco) con burro.",
       },
       {
         nome: "Terme e piscine pubbliche",
@@ -759,44 +957,136 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Bus o a piedi; ingresso a pagamento, doccia nuda obbligatoria prima di entrare.",
         quando: "Sera, quando i locali si ritrovano.",
         tempo: "2 ore",
-        consiglio: "Fare la doccia senza costume: è una regola di igiene che gli islandesi prendono sul serio."
-      }
+        costo: "piscine comunali 1.500 ISK adulti a ingresso, circa 10 € (tariffa in vigore dal 5 maggio 2026)",
+        lat: 64.14583,
+        lng: -21.88028,
+        url: "https://reykjavik.is/en/swimming-pools/fees",
+        consiglio: "Fare la doccia senza costume: è una regola di igiene che gli islandesi prendono sul serio.",
+      },
+      {
+        nome: "Museo Nazionale d'Islanda",
+        testo: "La mostra permanente racconta l'isola dall'arrivo dei coloni vichinghi a oggi, con la porta intagliata di Valþjófsstaður, corni potori e costumi tradizionali. È il posto giusto per capire il resto del viaggio, e una buona scelta nei giorni di pioggia.",
+        come: "A piedi dal centro, in Suðurgata, accanto all'università.",
+        quando: "Qualsiasi giorno, meglio di mattina.",
+        tempo: "2 ore",
+        costo: "3.300 ISK adulti, circa 23 € (2026); gratis sotto i 18 anni",
+        orari: "Tutti i giorni 10-17.",
+        lat: 64.14194,
+        lng: -21.94806,
+        url: "https://www.thjodminjasafn.is/english",
+      },
+      {
+        nome: "Settlement Exhibition (Reykjavík 871±2)",
+        testo: "Sotto la via Aðalstræti si visitano i resti di una casa lunga del X secolo, scavata dove è nata la città, con una sezione più recente che arriva fino a oggi. Ricostruzioni digitali e reperti spiegano come vivevano i primi abitanti.",
+        come: "In pieno centro, all'angolo di Aðalstræti 16; biglietto del Museo della Città di Reykjavík.",
+        quando: "Giornata di brutto tempo.",
+        tempo: "1 ora",
+        lat: 64.14751,
+        lng: -21.94281,
+        url: "https://borgarsogusafn.is/en/adalstraeti-en",
+      },
+      {
+        nome: "Tjörnin e municipio",
+        testo: "Il laghetto in centro, circondato da case colorate, con cigni, anatre e oche tutto l'anno. Il municipio affacciato sull'acqua ha al piano terra un grande plastico in rilievo dell'Islanda, utile per ripassare il giro.",
+        come: "A piedi, a due passi da Austurvöllur e dal Parlamento.",
+        quando: "Mattina o al tramonto; d'inverno a volte è ghiacciato.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        lat: 64.14444,
+        lng: -21.9425,
+      },
+      {
+        nome: "Sólfar (Sun Voyager)",
+        testo: "La scultura d'acciaio di Jón Gunnar Árnason, del 1990, a forma di scheletro di nave vichinga rivolta al mare e al monte Esja. È il punto più fotografato del lungomare.",
+        come: "A piedi lungo la Sæbraut, circa 10 minuti da Harpa.",
+        quando: "Tramonto o, d'inverno, nelle ore di luce bassa.",
+        tempo: "20 minuti",
+        costo: "libero",
+        lat: 64.1476,
+        lng: -21.92231,
+      },
+      {
+        nome: "Porto vecchio e Grandi",
+        testo: "Il porto da cui partono le uscite di whale watching e puffin tour, con baracche di pesce, gelaterie e il quartiere di Grandi, ex zona di magazzini con musei e una food hall. Qui c'è Whales of Iceland, con modelli di cetacei a grandezza naturale.",
+        come: "A piedi dal centro lungo la Geirsgata.",
+        quando: "Pomeriggio, magari prima o dopo un'uscita in barca.",
+        tempo: "2 ore",
+        costo: "porto libero; Whales of Iceland 4.000 ISK adulti, circa 28 € (2026)",
+        orari: "Whales of Iceland tutti i giorni 10-17.",
+        lat: 64.1556,
+        lng: -21.9488,
+        url: "https://whalesoficeland.is",
+      },
+      {
+        nome: "Sky Lagoon",
+        testo: "Laguna termale aperta nel 2021 a Kársnes, con una vasca a sfioro rivolta sull'oceano e un percorso in sette tappe tra acqua calda, tuffo freddo e sauna. È la terma più vicina al centro, l'alternativa urbana alla Blue Lagoon.",
+        come: "Circa 15 minuti d'auto o taxi dal centro, a Kópavogur; ingresso a orario da prenotare online.",
+        quando: "Sera, anche d'inverno con il cielo buio per le aurore.",
+        tempo: "2-3 ore",
+        lat: 64.11649,
+        lng: -21.94887,
+        url: "https://www.skylagoon.com",
+      },
+      {
+        nome: "Faro di Grótta",
+        testo: "Il faro sull'estremità della penisola di Seltjarnarnes, raggiungibile su una lingua di terra che l'alta marea sommerge. Accanto c'è una piccola vasca geotermica per i piedi, e d'inverno è uno dei punti più bui vicino alla città per guardare l'aurora.",
+        come: "In bus o in bici dal centro, circa 4 km; dall'auto si continua a piedi.",
+        quando: "Tramonto; per attraversare controllare la tabella delle maree.",
+        tempo: "1 ora",
+        costo: "libero",
+        lat: 64.1644,
+        lng: -22.022,
+        consiglio: "In primavera e a inizio estate l'isolotto chiude per la nidificazione degli uccelli: restare sulla riva.",
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Hallgrímskirkja e passeggiata a Skólavörðustígur",
-          "Pranzo in centro",
-          "Harpa e lungomare",
-          "Sera alla piscina geotermica"
-        ]
+          "Hallgrímskirkja e salita sulla torre",
+          "Skólavörðustígur e Laugavegur a piedi",
+          "Pranzo in centro, poi Tjörnin e il municipio",
+          "Harpa, il lungomare e Sólfar",
+          "Sera in una piscina comunale",
+        ],
       },
       {
         titolo: "2 giorni",
         tappe: [
           "Giorno 1 come sopra",
-          "Giorno 2: Golden Circle (Þingvellir, Geysir, Gullfoss) in auto o tour",
-          "Cena in centro"
-        ]
-      }
+          "Giorno 2: Museo Nazionale o Settlement Exhibition la mattina",
+          "Porto vecchio, Grandi e un'uscita di whale watching",
+          "Tramonto al faro di Grótta o sera alla Sky Lagoon",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Golden Circle (Þingvellir, Geysir, Gullfoss) in auto o con un tour",
+          "Cena in centro; il sabato o la domenica passaggio a Kolaportið",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Centro (101)",
         perChi: "Chi vuole girare a piedi",
-        testo: "Vicino a Hallgrímskirkja, ristoranti e locali. Più rumoroso nel weekend sera, camere piccole."
+        testo: "Vicino a Hallgrímskirkja, ristoranti e locali. Più rumoroso nel weekend sera, camere piccole.",
+        fascia: "180-350 €",
       },
       {
         nome: "Laugardalur",
         perChi: "Chi cerca tranquillità e prezzi più bassi",
-        testo: "Vicino alle piscine e al parco; più lontano dal centro, servito dai bus."
+        testo: "Vicino alle piscine e al parco; più lontano dal centro, servito dai bus.",
+        fascia: "130-220 €",
       },
       {
         nome: "Vicino al porto",
         perChi: "Chi arriva con traghetti o tour",
-        testo: "Ha hotel moderni, vicino a Harpa."
-      }
+        testo: "Ha hotel moderni, vicino a Harpa.",
+        fascia: "220-400 €",
+      },
     ],
     sapori: [
       {
@@ -820,6 +1110,58 @@ export const destinazioniIslanda: Destinazione[] = [
       "Prezzi alti: pranzare con zuppa o hot dog e cenare nei bar con piatto del giorno per risparmiare.",
       "I taxi sono cari: meglio bus o auto.",
       "Nei locali del centro il sabato sera i prezzi dell'alcol sono alti: controllare lo scontrino."
+    ],
+    gite: [
+      {
+        nome: "Golden Circle",
+        distanza: "circa 230 km ad anello, una giornata in auto",
+        come: "In auto o con i tour in pullman che partono dal centro; Þingvellir è a circa 45 minuti.",
+        testo: "Il classico giro di Þingvellir, del campo geotermico di Geysir e della cascata di Gullfoss: i tre luoghi più famosi vicino alla capitale.",
+      },
+      {
+        nome: "Penisola di Reykjanes e Blue Lagoon",
+        distanza: "circa 50 km, 45 minuti in auto",
+        come: "In auto o con i bus diretti alla laguna; la Blue Lagoon si prenota online, da 11.990 ISK (circa 83 €).",
+        testo: "Campi di lava, scogliere e la zona vulcanica di Grindavík, attiva più volte dal 2023. Prima di andare va controllato su safetravel.is se l'area è aperta.",
+      },
+      {
+        nome: "Costa sud fino a Vík",
+        distanza: "circa 180 km, 2 ore e mezza in auto per tratta",
+        come: "In auto o con un tour di una giornata intera.",
+        testo: "Seljalandsfoss, Skógafoss, Dyrhólaey e la spiaggia nera di Reynisfjara. In giornata è lunga: chi può dorme una notte a Vík.",
+      },
+      {
+        nome: "Penisola di Snæfellsnes",
+        distanza: "circa 180 km, 2 ore e mezza in auto",
+        come: "In auto, via Borgarnes; i tour di un giorno partono dalla capitale.",
+        testo: "Il monte Kirkjufell, il vulcano-ghiacciaio Snæfellsjökull e villaggi di pescatori: un'Islanda in miniatura a ovest della capitale.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Reykjavík?",
+        risposta: "Per il centro basta un giorno pieno, due se si aggiungono musei, porto e terme. Con tre si fa anche il Golden Circle.",
+      },
+      {
+        domanda: "Conviene usare Reykjavík come base per le gite?",
+        risposta: "Sì per Golden Circle, Reykjanes e Snæfellsnes. Per la costa sud oltre Vík conviene dormire lungo la strada, per non passare la giornata in auto.",
+      },
+      {
+        domanda: "Blue Lagoon o Sky Lagoon?",
+        risposta: "La Blue Lagoon è vicina all'aeroporto e comoda all'arrivo o alla partenza; la Sky Lagoon è a un quarto d'ora dal centro e guarda l'oceano. Tutte e due si prenotano online.",
+      },
+      {
+        domanda: "Le piscine comunali valgono la pena?",
+        risposta: "Sì: costano 1.500 ISK e sono il modo più islandese di passare la sera. Prima di entrare c'è la doccia senza costume, ed è obbligatoria.",
+      },
+      {
+        domanda: "Si vede l'aurora boreale da Reykjavík?",
+        risposta: "Da settembre ad aprile, con cielo sereno e attività alta, a volte si vede anche dalla città. Si va in punti più bui come il faro di Grótta o fuori città.",
+      },
+      {
+        domanda: "Serve l'auto in città?",
+        risposta: "No, il centro si gira a piedi e per il resto ci sono i bus Strætó. L'auto serve per le gite fuori città.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],

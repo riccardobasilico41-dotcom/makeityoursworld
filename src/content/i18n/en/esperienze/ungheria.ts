@@ -31,7 +31,7 @@ export const esperienzeUngheria: Esperienza[] = [
     nome: 'Gellért Baths',
     localita: 'At the foot of Gellért Hill, Buda side, Budapest',
     cosE:
-      "The Art Nouveau thermal complex attached to the historic Hotel Gellért, opened in 1918, with indoor pools decorated with mosaics, columns and colored stained glass, plus an outdoor pool with artificial waves (among the first in the world, introduced as early as 1927) and a solarium area.",
+      "Note: closed for restoration since 1 October 2025, with reopening not expected before 2028; today the nearest alternative on the Buda side is the Rudas Baths. The Art Nouveau thermal complex attached to the historic Hotel Gellért, opened in 1918, with indoor pools decorated with mosaics, columns and colored stained glass, plus an outdoor pool with artificial waves (among the first in the world, introduced as early as 1927) and a solarium area.",
     percheFarla:
       "Because it is the most elegant and \"photogenic\" alternative to Széchenyi: the building itself, with its Art Nouveau decorations, is worth the visit as much as the thermal water, and it is usually less crowded than the complex in the City Park.",
     durata: '2-3 hours, including changing room and time in the pools',

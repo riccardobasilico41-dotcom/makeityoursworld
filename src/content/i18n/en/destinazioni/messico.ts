@@ -760,86 +760,166 @@ export const destinazioniMessico: Destinazione[] = [
       "Sabor de Mar for fish, El Takazo Jr for cheap tacos, Bonita (Tulum Burger Bar) for a break from Mexican food. For a more sophisticated dinner, TuTulum: reinvented Mexican cooking (about €40 per person), with a few insect-based dishes for the curious.",
     usciteSerali:
       "Straw Hat is the busiest place in the evening; in winter a festival may be happening in the area. For live music there's also Vagalume.",
-    comeArrivare: 'By van or car from Mahahual (about 2-3 hours).',
+    comeArrivare: "By van or car from Mahahual (about 2-3 hours). From Cancún airport (CUN), about 120 km away, it takes around two hours by car or on direct ADO buses to the Tulum terminal. Closer is Tulum International Airport (TQO), opened in late 2023 about 25 km from town, with mainly domestic and North American flights. Tulum is also a Tren Maya station, on the line heading south to Bacalar.",
     comeSpostarsi: "I have no notes on how we got around in Tulum.",
     periodoMigliore: "I didn't note it for Tulum; the dry season recommended for the area applies, from November to April.",
-    costi: "I didn't note down my spending in Tulum; it's one of the pricier stops, with almost European prices.",
+    costi: "I didn't note down my spending in Tulum; it's one of the pricier stops, with almost European prices. Roughly, per person per day: €50-70 with a hostel, tacos and a bike; €120-180 with a hotel in town, a beach club and a couple of entry fees; over €300 with a beachfront hotel and dinners in the hotel zone.",
     erroriDaEvitare: [
       "At Caleta Tankah you're not refunded under any circumstances, even after a few minutes: better to think about it before paying the entry",
     ],
     miaEsperienza:
       "At Caleta Tankah the sea wasn't inviting at first, then the sun came out and the day changed, cenote included. The archaeological site on the cliff and Playa Paraíso remain among the strongest memories of the trip.",
       "luoghi": [
-        {
-          "nome": "Tulum archaeological site",
-          "testo": "A Maya city on the cliff above the Caribbean, one of the few Maya sites facing the sea. El Castillo and the Temple of the Wind God are the key points; the walls enclosing the city on three sides explain the name Tulum, 'wall' in Maya (its ancient name was Zamá, 'dawn').",
-          "come": "From Tulum town by taxi or bike to Parque del Jaguar, the protected area where the site stands; ask locally how to reach the entrance. The little beach below the site is sometimes closed (sargassum or turtle nesting).",
-          "quando": "Morning, before the heat and the coaches.",
-          "tempo": "2 hours",
-          "costo": "265 MXN for foreigners (2026).",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "A swim in the cove below the cliff after the visit, if access is open."
-        },
-        {
-          "nome": "Cenote Dos Ojos",
-          "testo": "Two connected cenotes in a cave with stalactites, in the Sac Actun system: different from the open-air cenotes of Yucatán.",
-          "come": "By car or taxi from Tulum, heading north.",
-          "quando": "Morning.",
-          "tempo": "2 hours",
-          "consiglio": "Around Tulum I'd skip the most touristy cenotes and suggest Dos Ojos. Next to it there's another beautiful one whose name I've forgotten."
-        },
-        {
-          "nome": "Caleta Tankah",
-          "testo": "A cove with turquoise water and a cenote, with a paid entry: cash only and no refunds.",
-          "come": "Taxi from Tulum.",
-          "quando": "Daytime.",
-          "tempo": "Half a day",
-          "consiglio": "At first the sea was not inviting, then the sun came out and the day changed."
-        },
-        {
-          "nome": "Playa Paraíso",
-          "testo": "A beach with beach clubs, among the most recommended in the area, with paid sunbeds.",
-          "come": "Taxi from Tulum.",
-          "quando": "Afternoon.",
-          "tempo": "Half a day"
-        },
-        {
-          "nome": "Xcacel",
-          "testo": "A protected beach without hotels, where turtles lay their eggs between spring and summer. The rules are strict: no food, alcohol or speakers; entry fee, hours and closing days should be checked locally.",
-          "come": "Taxi or car from Tulum.",
-          "quando": "Morning.",
-          "tempo": "2-3 hours"
-        }
-      ],
+      {
+        nome: "Tulum archaeological site",
+        testo: "A Maya city on the cliff above the Caribbean, one of the few Maya sites facing the sea. El Castillo and the Temple of the Wind God are the key points; the walls enclosing the city on three sides explain the name Tulum, 'wall' in Maya (its ancient name was Zamá, 'dawn').",
+        come: "From Tulum town by taxi or bike to Parque del Jaguar, the protected area where the site stands; ask locally how to reach the entrance. The little beach below the site is sometimes closed (sargassum or turtle nesting).",
+        quando: "Morning, before the heat and the coaches.",
+        tempo: "2 hours",
+        costo: "265 MXN for foreigners, about €13 (165 MXN for the archaeological zone plus 100 MXN for Parque del Jaguar, 2026)",
+        orari: "Daily 8am-5pm, last entry 3:30pm.",
+        lat: 20.21472,
+        lng: -87.42889,
+        url: "https://www.inah.gob.mx/",
+        consiglio: "A swim in the cove below the cliff after the visit, if access is open.",
+      },
+      {
+        nome: "Cenote Dos Ojos",
+        testo: "Two connected cenotes in a cave with stalactites, in the Sac Actun system: different from the open-air cenotes of Yucatán.",
+        come: "By car or taxi from Tulum, heading north.",
+        quando: "Morning.",
+        tempo: "2 hours",
+        lat: 20.32472,
+        lng: -87.39194,
+        consiglio: "Around Tulum I'd skip the most touristy cenotes and suggest Dos Ojos. Next to it there's another beautiful one whose name I've forgotten.",
+      },
+      {
+        nome: "Caleta Tankah",
+        testo: "A cove with turquoise water and a cenote, with a paid entry: cash only and no refunds.",
+        come: "Taxi from Tulum.",
+        quando: "Daytime.",
+        tempo: "Half a day",
+        costo: "300 MXN per person, about €15; cash only, no refunds",
+        lat: 20.23168,
+        lng: -87.4181,
+        consiglio: "At first the sea was not inviting, then the sun came out and the day changed.",
+      },
+      {
+        nome: "Playa Paraíso",
+        testo: "A beach with beach clubs, among the most recommended in the area, with paid sunbeds.",
+        come: "Taxi from Tulum.",
+        quando: "Afternoon.",
+        tempo: "Half a day",
+        costo: "free beach; beach club sunbeds and umbrellas are paid",
+        lat: 20.20404,
+        lng: -87.43127,
+        consiglio: "Arrive early to find a spot on the sand in front of the palms.",
+      },
+      {
+        nome: "Xcacel",
+        testo: "A protected beach without hotels, where turtles lay their eggs between spring and summer. The rules are strict: no food, alcohol or speakers.",
+        come: "Taxi or car from Tulum.",
+        quando: "Morning.",
+        tempo: "2-3 hours",
+        costo: "100 MXN, about €5",
+        orari: "10am-4pm, closed on Mondays.",
+        consiglio: "From April to October you may see turtles hatching: keep out of the fenced nesting areas.",
+      },
+      {
+        nome: "Gran Cenote",
+        testo: "The best-known cenote around Tulum: a pool of very clear water between low caves and wooden walkways, with small turtles swimming around. It suits first-time snorkellers, but it gets very busy in the middle of the day.",
+        come: "About 5 km from town on the road to Cobá: by bike, taxi or car. A shower before entering is compulsory and regular sunscreen is not allowed.",
+        quando: "At opening time, before the tours arrive.",
+        tempo: "1.5-2 hours",
+        lat: 20.24656,
+        lng: -87.4641,
+      },
+      {
+        nome: "Cenote Calavera",
+        testo: "A small cenote with three openings in the cave roof that look like a skull: you jump through one of the holes or climb down the ladder. Basic and less polished than the others, it's the most fun if you're after a jump.",
+        come: "Just outside town on the road to Cobá, easy to reach by bike.",
+        quando: "Morning or early afternoon, when light comes through the holes.",
+        tempo: "1 hour",
+        lat: 20.22918,
+        lng: -87.45727,
+      },
+      {
+        nome: "Cenote Zacil-Ha",
+        testo: "An open-air cenote with a small pool beside it, hammocks and a zipline over the water. Less spectacular than Dos Ojos but more relaxed, it works well for an afternoon with no plans.",
+        come: "On the road to Cobá, about 7 km from Tulum; by car, taxi or bike.",
+        quando: "Afternoon.",
+        tempo: "1-2 hours",
+        lat: 20.27441,
+        lng: -87.48831,
+      },
+      {
+        nome: "Kaan Luum Lagoon",
+        testo: "A turquoise lagoon with a deep cenote in the middle, which from above looks like a dark blue circle. You swim in the shallow part from the jetty, in a setting that is nearly always quiet.",
+        come: "About 20 minutes' drive south of Tulum, along Federal Highway 307 towards Felipe Carrillo Puerto.",
+        quando: "Morning, with the sun high to see the colours.",
+        tempo: "2 hours",
+        lat: 20.16259,
+        lng: -87.55401,
+      },
+      {
+        nome: "Parque del Jaguar",
+        testo: "The national park that since 2023 has enclosed the archaeological site and a stretch of coast with public beaches, cycle paths and facilities. Park entry is charged separately from the ruins and is included in the 265 MXN foreigners pay.",
+        come: "By bike or taxi from town; there is a car park inside and a small train to the archaeological zone.",
+        quando: "Morning, together with the ruins.",
+        tempo: "Half a day with the site",
+        costo: "100 MXN for foreigners, about €5 (2026)",
+        lat: 20.18752,
+        lng: -87.44357,
+      },
+    ],
       "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: archaeological site",
-            "Lunch at Playa Paraíso",
-            "Afternoon: Dos Ojos or Gran Cenote"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: archaeological site and Playa Paraíso",
-            "Day 2: Caleta Tankah, Dos Ojos and Xcacel"
-          ]
-        }
-      ],
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Tulum archaeological site at opening time and Parque del Jaguar",
+          "Lunch and a swim at Playa Paraíso",
+          "Afternoon: Gran Cenote or Cenote Calavera",
+          "Evening: dinner in town",
+        ],
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Cenote Dos Ojos in the morning",
+          "Afternoon at Caleta Tankah or Xcacel (closed on Mondays)",
+          "Evening at Straw Hat or Vagalume",
+        ],
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: day trip to Cobá, climbing Nohoch Mul",
+          "Back via Cenote Zacil-Ha or Kaan Luum Lagoon",
+        ],
+      },
+    ],
       "zone": [
-        {
-          "nome": "Tulum town",
-          "perChi": "services and prices",
-          "testo": "Hotels in the centre, restaurants, near bus stops."
-        },
-        {
-          "nome": "Beachfront hotel zone",
-          "perChi": "sea",
-          "testo": "Hotels and beach clubs, pricier."
-        }
-      ],
+      {
+        nome: "Tulum town",
+        perChi: "services and prices",
+        testo: "Hotels in the centre, restaurants, near bus stops.",
+        fascia: "€60-150",
+      },
+      {
+        nome: "Beachfront hotel zone",
+        perChi: "sea",
+        testo: "Hotels and beach clubs, pricier.",
+        fascia: "€250-600",
+      },
+      {
+        nome: "Aldea Zamá and La Veleta",
+        perChi: "those who want quiet halfway between town and sea",
+        testo: "New residential areas between the centre and the beach, with condos, small hotels and apartments; you need a bike or taxi to get around.",
+        fascia: "€90-180",
+      },
+    ],
       "sapori": [
         {
           "nome": "Cochinita pibil",
@@ -863,6 +943,52 @@ export const destinazioniMessico: Destinazione[] = [
         "Cenotes: follow the rules on sunscreen and showering; the most touristy are crowded.",
         "Caleta Tankah: no cards and no refunds, even if you leave after a few minutes."
       ],
+    gite: [
+      {
+        nome: "Cobá",
+        distanza: "45 km, about 45 minutes by car",
+        come: "By car or with ADO buses and colectivos from town; many rent a bike at the entrance to get around the site.",
+        testo: "A Maya city in the forest, with long white roads (sacbé) and the Nohoch Mul pyramid. Nearby there are a few little-visited cenotes.",
+      },
+      {
+        nome: "Muyil and Sian Ka'an",
+        distanza: "25 km, about 25 minutes by car",
+        come: "By car or on a tour; boats along the reserve's canals leave from the Muyil site.",
+        testo: "The small Maya site of Muyil is the gateway to the Sian Ka'an Biosphere Reserve, a UNESCO site: lagoons, mangroves and ancient canals where you float along with the current.",
+      },
+      {
+        nome: "Akumal",
+        distanza: "25 km, about 25 minutes by car",
+        come: "By car, colectivo or taxi north along Federal Highway 307.",
+        testo: "A bay where you snorkel over seagrass beds visited by green turtles. Swimming areas are regulated and you often go in with a local guide.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Tulum?",
+        risposta: "Two days are enough for the archaeological site, a beach and two cenotes. With three you can add Cobá or Sian Ka'an.",
+      },
+      {
+        domanda: "Is it better to stay in town or on the beach?",
+        risposta: "In town you spend much less and eat better, but you need a bike or taxi for the sea. The hotel zone is on the water but prices and dinners are expensive.",
+      },
+      {
+        domanda: "Tulum or Playa del Carmen as a base?",
+        risposta: "Tulum is handier for ruins, cenotes and quiet beaches; Playa del Carmen has more city life and the ferries to Cozumel. Many people stay in both.",
+      },
+      {
+        domanda: "Do you need to book the archaeological site?",
+        risposta: "No, tickets are sold at the Parque del Jaguar entrance. It's worth arriving at 8am, because last entry is at 3:30pm and the coaches arrive mid-morning.",
+      },
+      {
+        domanda: "Is there sargassum in Tulum?",
+        risposta: "Between spring and summer large amounts of seaweed can wash up on Riviera Maya beaches. In those months check the daily reports and keep the cenotes as a backup.",
+      },
+      {
+        domanda: "How do you get around Tulum?",
+        risposta: "By bike, on cycle paths linking town, ruins and beach, or by taxi, agreeing the fare before getting in. For Cobá and Akumal there are colectivos and ADO buses.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'A group in wetsuits and snorkeling gear in a cave cenote near Dos Ojos, Tulum',

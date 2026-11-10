@@ -33,10 +33,10 @@ export const destinazioniAustria: Destinazione[] = [
     doveMangiare:
       "El Wiener Schnitzel, la escalope de ternera empanada, es el plato símbolo; el Tafelspitz, el cocido de ternera a la vienesa, igual de tradicional. Entre los dulces, la Sachertorte (la célebre tarta de chocolate con mermelada de albaricoque, nacida precisamente en Viena) y el Apfelstrudel. El Naschmarkt es el mejor sitio para una comida informal entre cocinas distintas; los cafés históricos, además de café, sirven a menudo repostería y pequeñas comidas durante todo el día.",
     comeArrivare:
-      "Aeropuerto de Viena-Schwechat (VIE), a unos 18 km del centro: el City Airport Train (CAT) llega a Wien Mitte en 16 minutos (unos 14,90 € por trayecto), o bien los trenes regionales (S7, ÖBB) cubren el mismo trayecto en un poco más de tiempo a un precio inferior. En tren desde Italia, conexiones directas desde varias ciudades del norte; desde Praga, unas 4 horas de tren directo.",
+      "Aeropuerto de Viena-Schwechat (VIE), a unos 18 km del centro. El City Airport Train (CAT) suele llegar a Wien Mitte en 16 minutos (unos 14,90 € por trayecto), pero de finales de agosto de 2026 a finales de octubre de 2027 no entra en la ciudad por obras en la línea y lo sustituyen autobuses. Los trenes ÖBB cuestan menos: el S7 a Wien Mitte y los Railjet a la Hauptbahnhof en unos 15 minutos, unos 5 € con el billete del aeropuerto a la ciudad. Los autobuses Vienna Airport Lines cuestan unos 11 €; taxis de precio fijo, Uber y Bolt unos 40-50 €. El billete urbano de Wiener Linien no cubre el tramo hasta el aeropuerto. En tren desde Italia hay conexiones directas desde varias ciudades del norte; desde Praga, unas 4 horas.",
     comeSpostarsi: "Casco antiguo en gran parte a pie. Para el resto de la ciudad, U-Bahn, tranvía y autobús de Wiener Linien, con billetes sencillos o abonos diarios/de varios días. No hace falta coche.",
     periodoMigliore: "abril-mayo y septiembre-octubre por el clima templado y menos gente; junio-agosto es temporada alta, abarrotada sobre todo en Schönbrunn y Stephansplatz; de noviembre a marzo hace frío pero es llevadero, con los mercadillos de Navidad en diciembre",
-    costi: "en la media europea: museos principales 20-25 €, comida normal 15-25 € por persona, entradas de pie de la Ópera desde 13 €, transporte público económico",
+    costi: "Presupuesto diario por persona, sin vuelo: bajo 80-100 € (albergue o habitación en Leopoldstadt, puestos de salchichas y mercados, abono diario de transporte); medio 150-220 € (hotel de tres estrellas en doble, dos comidas en restaurante, dos museos principales de 20-25 €); alto desde 300 € (hotel en la Innere Stadt, restaurantes y cafés históricos, platea en la Ópera). Las entradas de pie de la Ópera empiezan en unos 13 €.",
     erroriDaEvitare: [
       "Presentarse en Schönbrunn o en el Belvedere en temporada alta sin entrada reservada online: las colas en el lugar pueden superar la hora",
       "Subestimar la Kaffeehauskultur como una simple pausa para el café: en los cafés históricos la mesa se «alquila» durante todo el tiempo que uno quiera: es una costumbre cultural precisa, que hay que tomarse con calma",
@@ -52,8 +52,11 @@ export const destinazioniAustria: Destinazione[] = [
         quando: "Palacio todos los días de 8:30 a 17, jardines desde las 6:30; temprano para adelantarse a los grupos.",
         tempo: "3-4 horas",
         costo: "Palace Ticket 42 € adultos (2026), solo en línea en la web oficial; jardines libres",
+        orari: "palacio todos los días 8.30-17; jardines desde las 6.30",
+        lat: 48.18452,
+        lng: 16.31187,
         url: "https://www.schoenbrunn.at",
-        consiglio: "Los recorridos cambian en duración y salas incluidas: elegirlos en la web oficial, el único canal de venta en línea, y no en revendedores."
+        consiglio: "Los recorridos cambian en duración y salas incluidas: elegirlos en la web oficial, el único canal de venta en línea, y no en revendedores.",
       },
       {
         nome: "Hofburg y Museo Sissi",
@@ -62,8 +65,10 @@ export const destinazioniAustria: Destinazione[] = [
         quando: "Horarios en la web oficial; el Museo Sisi renovado reabre el 19 de noviembre de 2026. Por la mañana entre semana.",
         tempo: "2 horas",
         costo: "Museo Sissi 15 €, con visita guiada a los apartamentos 33 € (2026)",
+        lat: 48.2077,
+        lng: 16.36561,
         url: "https://www.sisimuseum-hofburg.at",
-        consiglio: "Combinar con un paseo por el Volksgarten, justo al lado."
+        consiglio: "Combinar con un paseo por el Volksgarten, justo al lado.",
       },
       {
         nome: "Catedral de San Esteban (Stephansdom)",
@@ -71,8 +76,11 @@ export const destinazioniAustria: Destinazione[] = [
         come: "Metro U1 o U3 hasta Stephansplatz. Torres y catacumbas de pago: tarifas en la web oficial.",
         quando: "Visitas turísticas lun-sáb de 9 a 11:30 y de 13 a 16:30, domingos y festivos de 13 a 16:30, salvo oficios. Temprano o al atardecer para la luz sobre el tejado.",
         tempo: "1 hora",
+        orari: "visitas turísticas lun-sáb 9-11.30 y 13-16.30, domingos y festivos 13-16.30, salvo oficios",
+        lat: 48.2085,
+        lng: 16.373,
         url: "https://www.stephanskirche.at",
-        consiglio: "Las catacumbas solo se ven con visita guiada."
+        consiglio: "Las catacumbas solo se ven con visita guiada.",
       },
       {
         nome: "Belvedere",
@@ -81,8 +89,11 @@ export const destinazioniAustria: Destinazione[] = [
         quando: "Todos los días de 9 a 18; temprano para ver «El beso» sin multitudes.",
         tempo: "2 horas",
         costo: "Belvedere superior 23 € adultos (2026, precio del día); gratis para menores de 19 años",
+        orari: "todos los días 9-18",
+        lat: 48.19154,
+        lng: 16.38089,
         url: "https://www.belvedere.at",
-        consiglio: "Descuentos y horarios de verano en la web oficial."
+        consiglio: "Descuentos y horarios de verano en la web oficial.",
       },
       {
         nome: "Kunsthistorisches Museum",
@@ -91,8 +102,11 @@ export const destinazioniAustria: Destinazione[] = [
         quando: "Todos los días de 10 a 18, jueves hasta las 21; mañanas entre semana.",
         tempo: "2-3 horas",
         costo: "22 € en línea, 24 € en taquilla (2026); desde el 8 de septiembre de 2026 entrada solo por franja horaria",
+        orari: "todos los días 10-18, jueves hasta las 21",
+        lat: 48.20388,
+        lng: 16.3616,
         url: "https://www.khm.at",
-        consiglio: "La sala Bruegel por sí sola merece la visita."
+        consiglio: "La sala Bruegel por sí sola merece la visita.",
       },
       {
         nome: "Ópera Estatal (Staatsoper)",
@@ -100,8 +114,11 @@ export const destinazioniAustria: Destinazione[] = [
         come: "En el Ring, en el centro: metro U1, U2 o U4 hasta Karlsplatz, salida norte hacia la Ópera. Las entradas de pie solo se venden el día de la función, desde las 10.",
         quando: "Noche; las entradas de pie se compran esa misma mañana, en cuanto abre la venta.",
         tempo: "3 horas",
+        costo: "entradas de pie de unos 13 a 18 € según el sector, solo el día de la función",
+        lat: 48.20329,
+        lng: 16.36919,
         url: "https://www.wiener-staatsoper.at",
-        consiglio: "Las zonas de pie tienen vista limitada pero acústica excelente."
+        consiglio: "Las zonas de pie tienen vista limitada pero acústica excelente.",
       },
       {
         nome: "Prater y Riesenrad",
@@ -110,8 +127,10 @@ export const destinazioniAustria: Destinazione[] = [
         quando: "Tarde o noche, por la vista de la ciudad. Las atracciones abren de mediados de marzo a finales de octubre, más o menos de 11 a 1 de la madrugada; en invierno solo una parte.",
         tempo: "2 horas",
         costo: "entrada libre al parque, atracciones de pago (normalmente 3,50-8 €, 2026)",
+        lat: 48.21665,
+        lng: 16.39595,
         url: "https://www.wienerriesenrad.com",
-        consiglio: "Subir a la noria al atardecer."
+        consiglio: "Subir a la noria al atardecer.",
       },
       {
         nome: "Naschmarkt",
@@ -119,52 +138,142 @@ export const destinazioniAustria: Destinazione[] = [
         come: "A pie desde el centro, cerca de Karlsplatz; metro U4 hasta Kettenbrückengasse.",
         quando: "Puestos lun-vie de 6 a 21 y sábado de 6 a 18 (horario máximo fijado por el Ayuntamiento); los domingos solo abren restaurantes y bares, de 9 a 21. Mejor por la mañana.",
         tempo: "1-2 horas",
-        consiglio: "Ir por la mañana, cuando los puestos están llenos."
-      }
+        orari: "puestos lun-vie 6-21, sábado 6-18; domingo solo restaurantes y bares, 9-21",
+        lat: 48.19889,
+        lng: 16.36361,
+        consiglio: "Ir por la mañana, cuando los puestos están llenos.",
+      },
+      {
+        nome: "Albertina",
+        testo: "El palacio de los Habsburgo detrás de la Ópera, con los salones de representación restaurados y una de las grandes colecciones de dibujo y grabado del mundo, de donde procede la Liebre de Durero. La colección permanente va de Monet a Picasso, con exposiciones temporales a menudo de primer nivel.",
+        come: "En Albertinaplatz, a 2 minutos de la Ópera; metro Karlsplatz o Stephansplatz.",
+        quando: "Miércoles o viernes por la noche, cuando abre hasta las 21 y hay menos gente.",
+        tempo: "2 horas",
+        costo: "20,90 € adultos, gratis para menores de 19 años (2026)",
+        orari: "todos los días 10-18, miércoles y viernes hasta las 21",
+        lat: 48.20464,
+        lng: 16.36826,
+        url: "https://www.albertina.at",
+      },
+      {
+        nome: "Cripta Imperial (Kaisergruft)",
+        testo: "Bajo la iglesia de los Capuchinos, en el Neuer Markt, descansan 150 miembros de la familia Habsburgo en cuatro siglos de sarcófagos. Los más visitados son el doble sarcófago barroco de María Teresa y las tumbas de Francisco José, Sissi y su hijo Rodolfo.",
+        come: "A pie por el centro, a 5 minutos de Stephansplatz o de la Ópera.",
+        quando: "Por la mañana, o con la visita guiada en inglés de las 12.",
+        tempo: "45 minutos",
+        orari: "todos los días 10-18, último acceso 17.30",
+        lat: 48.20577,
+        lng: 16.37017,
+        url: "https://www.kaisergruft.at",
+      },
+      {
+        nome: "Escuela Española de Equitación",
+        testo: "Los caballos lipizanos actúan desde el siglo XVIII en la barroca Sala de Invierno del Hofburg. Además de las funciones de gala, algunas mañanas se puede ver el entrenamiento con música, más corto y más barato.",
+        come: "Entrada por Michaelerplatz, metro Herrengasse (U3). Entradas en la web oficial.",
+        quando: "Por la mañana, para el entrenamiento; las funciones se reservan con mucha antelación.",
+        tempo: "1-1,5 horas",
+        lat: 48.20731,
+        lng: 16.36671,
+        url: "https://www.srs.at",
+      },
+      {
+        nome: "Karlskirche",
+        testo: "La iglesia barroca de Fischer von Erlach, construida entre 1716 y 1737 como voto por el fin de la peste, con la gran cúpula pintada al fresco y dos columnas inspiradas en la Columna de Trajano. Desde el coro se sube a una terraza sobre el pórtico con vista a los tejados.",
+        come: "Metro U1, U2 o U4 hasta Karlsplatz.",
+        quando: "Última hora de la tarde, con la fachada reflejada en el estanque de delante.",
+        tempo: "45 minutos",
+        orari: "lun-sáb 9-18, domingos y festivos 11.30-19",
+        lat: 48.19828,
+        lng: 16.3719,
+        url: "https://www.karlskirche.at",
+      },
+      {
+        nome: "MuseumsQuartier y Museo Leopold",
+        testo: "Las antiguas caballerizas imperiales convertidas en un barrio de museos, con patios llenos de asientos de colores donde los vieneses se quedan por la noche. El Museo Leopold tiene la mayor colección de Egon Schiele del mundo y mucho Klimt.",
+        come: "Metro U2 hasta Museumsquartier o U3 hasta Volkstheater, frente al Kunsthistorisches Museum.",
+        quando: "Por la tarde para el Leopold, noches de verano en los patios.",
+        tempo: "2-3 horas",
+        costo: "patios gratuitos; Museo Leopold 19 € adultos (2026)",
+        orari: "Museo Leopold 10-18, cerrado el martes",
+        lat: 48.20318,
+        lng: 16.35835,
+        url: "https://www.leopoldmuseum.org",
+      },
+      {
+        nome: "Hundertwasserhaus",
+        testo: "El bloque de viviendas sociales diseñado por Friedensreich Hundertwasser y terminado en 1985: fachadas de colores, suelos ondulados y árboles en las terrazas. Está habitado y solo se ve por fuera; enfrente está el Hundertwasser Village con tiendas, y cerca el KunstHausWien.",
+        come: "Tranvía 1 hasta Hetzgasse y 2 minutos a pie.",
+        quando: "A primera hora, antes de los grupos.",
+        tempo: "30 minutos",
+        costo: "exterior gratuito",
+        lat: 48.2074,
+        lng: 16.39387,
+      },
+      {
+        nome: "Ringstrasse y Rathaus",
+        testo: "El bulevar en anillo de unos 5 km construido desde 1857 en lugar de las murallas, con la Ópera, el Hofburg, el Parlamento, el ayuntamiento neogótico (Rathaus), el Burgtheater y la Universidad uno tras otro. En invierno, delante del Rathaus se montan el gran mercado navideño y una pista de patinaje.",
+        come: "Los tranvías 1 y 2 recorren gran parte del anillo: con un billete normal es el paseo panorámico más barato de la ciudad.",
+        quando: "Al anochecer, cuando se iluminan los edificios; el mercado desde mediados de noviembre.",
+        tempo: "1-2 horas",
+        costo: "un billete de tranvía",
+        lat: 48.21083,
+        lng: 16.35657,
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Mañana: Stephansdom",
-          "Almuerzo con Schnitzel",
-          "Hofburg y Museo Sissi",
-          "Noche: Naschmarkt o café"
-        ]
+          "Mañana: Stephansdom y subida a la torre sur",
+          "Cripta Imperial (Kaisergruft)",
+          "Hofburg y Museo Sisi",
+          "Almuerzo con Wiener Schnitzel",
+          "Albertina por la tarde",
+          "Noche: entradas de pie en la Ópera, o cena en el Naschmarkt",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
           "Día 1 como arriba",
-          "Día 2: Schönbrunn por la mañana",
-          "Belvedere y Klimt",
-          "Noche: ópera de pie"
-        ]
+          "Día 2: Palacio de Schönbrunn a la apertura, con entrada con horario",
+          "Almuerzo en el Naschmarkt",
+          "Karlskirche",
+          "Belvedere superior y «El beso» de Klimt",
+          "Noche: Prater y Riesenrad",
+        ],
       },
       {
         titolo: "3 días",
         tappe: [
           "Días 1-2 como arriba",
-          "Día 3: Kunsthistorisches Museum, Prater y Riesenrad"
-        ]
-      }
+          "Día 3: Kunsthistorisches Museum",
+          "MuseumsQuartier y Museo Leopold (no en martes)",
+          "Vuelta a la Ringstrasse en tranvía hasta el Rathaus",
+          "Hundertwasserhaus a última hora de la tarde",
+          "Alternativa para el día 3: excursión a la Wachau",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Innere Stadt (centro)",
         perChi: "Quien quiere todo a pie",
-        testo: "Cerca de Stephansdom y Hofburg; precios altos, ruido nocturno."
+        testo: "Cerca de Stephansdom y Hofburg; precios altos, ruido nocturno.",
+        fascia: "150-300 €",
       },
       {
         nome: "Neubau y Mariahilf",
         perChi: "Quien busca vida cultural y cafés",
-        testo: "Barrios creativos cerca del MuseumsQuartier, buenas conexiones."
+        testo: "Barrios creativos cerca del MuseumsQuartier, buenas conexiones.",
+        fascia: "100-180 €",
       },
       {
         nome: "Leopoldstadt",
         perChi: "Quien quiere ahorrar y el Prater",
-        testo: "Barrio multicultural, cerca del Prater, con metro directo."
-      }
+        testo: "Barrio multicultural, cerca del Prater, con metro directo.",
+        fascia: "80-150 €",
+      },
     ],
     sapori: [
       {
@@ -189,6 +298,52 @@ export const destinazioniAustria: Destinazione[] = [
       "Los Fiaker (carruajes) son caros: preguntar el precio antes.",
       "Billetes de transporte: validar los de papel antes de subir, o se arriesga una multa en el acto.",
       "Carteristas en los centros concurridos, en el transporte y en las estaciones principales; más cuidado en los parques al anochecer."
+    ],
+    gite: [
+      {
+        nome: "Wachau y Abadía de Melk",
+        distanza: "1 hora en tren hasta Melk aprox.",
+        come: "Tren desde Wien Westbahnhof o Hauptbahnhof hasta Melk; de primavera a otoño, barco por el Danubio de Melk a Krems y tren de vuelta a Viena.",
+        testo: "El valle del Danubio patrimonio de la UNESCO, entre viñedos y pueblos como Dürnstein, con la abadía benedictina barroca de Melk y su biblioteca sobre el río.",
+      },
+      {
+        nome: "Bratislava",
+        distanza: "1 hora en tren aprox.",
+        come: "Trenes regionales frecuentes desde Wien Hauptbahnhof; en verano también el catamarán Twin City Liner por el Danubio.",
+        testo: "La capital eslovaca, con un casco antiguo pequeño y peatonal, el castillo en la colina y precios más bajos que en Viena. Se recorre bien en media jornada.",
+      },
+      {
+        nome: "Kahlenberg y Grinzing",
+        distanza: "40 minutos en metro y autobús aprox.",
+        come: "Metro U4 hasta Heiligenstadt y autobús 38A hasta Grinzing y el Kahlenberg.",
+        testo: "La colina del Bosque de Viena con vista sobre toda la ciudad y el Danubio, y debajo el pueblo de Grinzing con los Heuriger, las tabernas de los viticultores donde se bebe el vino nuevo.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para visitar Viena?",
+        risposta: "Tres días: uno para el centro y el Hofburg, uno para Schönbrunn y el Belvedere, uno para los museos del Ring. Con un cuarto día se añade la Wachau o Bratislava.",
+      },
+      {
+        domanda: "¿Hay que reservar Schönbrunn?",
+        risposta: "Sí, conviene: se entra por franja horaria y en verano las entradas se agotan. El único canal de venta en línea es la web oficial; los jardines son gratuitos.",
+      },
+      {
+        domanda: "¿Cómo funcionan las entradas de pie de la Ópera Estatal?",
+        risposta: "Cuestan de unos 13 a 18 € y solo se venden el día de la función: un primer cupo en línea desde las 10 y otro en taquilla desde 80 minutos antes del inicio.",
+      },
+      {
+        domanda: "¿Funciona el tren CAT del aeropuerto?",
+        risposta: "De finales de agosto de 2026 a finales de octubre de 2027 el City Airport Train no entra en la ciudad por obras en la línea y lo sustituyen autobuses. Los trenes ÖBB a Wien Mitte y a la Hauptbahnhof siguen siendo la opción más barata, unos 5 €.",
+      },
+      {
+        domanda: "¿Compensa un abono de transporte diario?",
+        risposta: "Sí, si se hacen más de dos trayectos al día: el billete sencillo cuesta unos 2,40 €, el de un día unos 6 € y el de 48 horas unos 14 €. El casco antiguo, de todos modos, se recorre a pie.",
+      },
+      {
+        domanda: "¿Dónde conviene alojarse en Viena?",
+        risposta: "En la Innere Stadt para tenerlo todo a pie, pagando más; en Neubau o Mariahilf por los cafés y mejores precios cerca de los museos; en Leopoldstadt para ahorrar, con metro directo al centro.",
+      },
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],

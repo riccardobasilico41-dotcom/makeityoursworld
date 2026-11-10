@@ -31,11 +31,13 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire: "The Barrio de Santa Cruz is the most central and touristy neighborhood; Triana is more of a local neighborhood and costs a bit less, a few minutes' walk from the center across the Puente de Triana.",
     doveMangiare:
       "The tapeo (a round of tapas across several bars) is the local institution: salmorejo (cold tomato cream, thicker than gazpacho), espinacas con garbanzos, pescaíto frito (mixed fried fish) and jamón ibérico. In Triana the bars of the covered market are the cheapest way to start the evening.",
-    comeArrivare: "San Pablo Airport, about 10 km from the center (EA bus or taxi). AVE high-speed train from Madrid in about 2h30.",
+    comeArrivare:
+      'San Pablo Airport, about 10 km from the center (EA bus or taxi). AVE high-speed train from Madrid in about 2h30. Tussam\'s EA bus runs to Santa Justa, Prado de San Sebastián and Plaza de Armas in about 35 minutes, every 20-30 minutes, for about €4 payable on board by contactless card; taxis have a fixed fare to the centre of about €25 by day and €28 at night and on holidays.',
     comeSpostarsi: "The historic center can be covered almost entirely on foot; for longer distances, city buses and the tram (line T1) along the central axis.",
     periodoMigliore:
       "March-May and October-early November, with pleasant temperatures. Avoid July-August: Seville is among the hottest cities in Spain, with averages often above 36°C (97°F) and peaks well beyond. Holy Week and the Feria de Abril (two weeks after Easter) bring crowds and high prices, but they're also the days when the city lives its most deeply felt traditions.",
-    costi: "Cathedral and Giralda about €15; Real Alcázar about €15.50 (Royal Apartments +€5.50, free in the evening with a reservation in a dedicated time slot); an average flamenco tablao €35-45 per person.",
+    costi:
+      'Cathedral and Giralda about €15; Real Alcázar about €15.50 (Royal Apartments +€5.50, free in the evening with a reservation in a dedicated time slot); an average flamenco tablao €35-45 per person. Rough daily budget per person, sharing a double: low €60-80, mid €110-150, high over €220.',
     erroriDaEvitare: [
       "Underestimating the summer heat: from June to September the middle hours of the day should be avoided for any outdoor activity",
       "Choosing the first tablao advertised in the center without checking its reputation: the most touristy venues put on standard, amplified shows, far from the flamenco of the neighborhoods",
@@ -49,6 +51,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Monday-Saturday 10:45-18:00 (ticket office until 17:00), Sunday 14:30-19:00 (ticket office until 18:00); 2026 hours, which change for services and events: check the calendar on the website. Best at opening.",
         "tempo": "1-2 hours",
         "costo": "€13 online, €14 at the ticket office (from 1 January 2026); the ticket also covers the church of El Salvador",
+        "orari": "Monday to Saturday from late morning to late afternoon; Sundays afternoon only.",
+        "lat": 37.3858,
+        "lng": -5.9931,
         "url": "https://www.catedraldesevilla.es/",
         "consiglio": "Buy the ticket online the night before: in spring the ticket office queue is long. The visit starts with the Giralda, so climb it straight away while your legs are fresh."
       },
@@ -59,6 +64,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Open 9:30am-7pm from April to September and 9:30am-5pm from October to March. Closed on 1 and 6 January, Good Friday and 25 December. Early morning or the last slot of the afternoon to avoid the groups.",
         "tempo": "2-3 hours",
         "costo": "15.50 euros full price (rate on the official website, 2026); the Royal Apartments cost extra",
+        "orari": "Daily from 9:30; closes at 19 April-September and 17 in winter.",
+        "lat": 37.3831,
+        "lng": -5.9902,
         "url": "https://www.alcazarsevilla.org/",
         "consiglio": "Book online and choose the first slot: the patios are small and only enjoyable without crowds. The Royal Apartments are visited with a separate booking."
       },
@@ -68,6 +76,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot, right behind the Alcázar. There is no set route: enter from Calle Judería and leave from the other side.",
         "quando": "Early in the morning it is empty and cool; by late morning it fills with groups.",
         "tempo": "1-2 hours",
+        "costo": "free",
+        "lat": 37.3851,
+        "lng": -5.9887,
         "consiglio": "Come back in the evening, after dinner: the lanes empty out and the squares are lit."
       },
       {
@@ -76,6 +87,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot from the cathedral, or by bike along the park. Free entry.",
         "quando": "Early morning or at sunset. In the central hours of summer there is no shade.",
         "tempo": "1 hour, plus the park",
+        "costo": "free; rowing boats on the canal charged",
+        "lat": 37.3772,
+        "lng": -5.9869,
         "consiglio": "If you want photos without people, come early in the morning. The ceramic benches are arranged by province in alphabetical order: finding your favourite one is a small game."
       },
       {
@@ -84,6 +98,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Walk across the Puente de Isabel II (Triana Bridge) from the centre.",
         "quando": "The market works mostly in the morning. In the evening Calle Betis is full of people and the river gives a view of the Torre del Oro.",
         "tempo": "2-3 hours",
+        "costo": "free; Castillo de San Jorge free entry",
+        "lat": 37.3851,
+        "lng": -6.0033,
         "consiglio": "Eat here rather than in the center: the bars cost less and the customers are mostly locals."
       },
       {
@@ -92,6 +109,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Book a seat on the venue's website or by phone a few days ahead. The Museo del Baile Flamenco, in Santa Cruz, also runs evening shows.",
         "quando": "Shows almost every day, with times that vary by venue: check the weekly programme.",
         "tempo": "1-1.5 hours",
+        "costo": "about €35-45 per person in an average tablao",
         "consiglio": "Sit in the front rows and ask the venue whether the program is acoustic: it avoids the big shows for tour groups."
       },
       {
@@ -100,36 +118,111 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot from the centre: Las Setas north of Calle Sierpes, the Casa de Pilatos to the east.",
         "quando": "Las Setas at sunset, the Casa de Pilatos in the morning. Check hours on the operators' websites.",
         "tempo": "1 hour each",
+        "lat": 37.3933,
+        "lng": -5.9918,
         "consiglio": "If the Alcázar is sold out for your date, the Casa de Pilatos is the closest alternative for seeing a Mudéjar palace."
+      },
+      {
+        "nome": "Archivo General de Indias",
+        "testo": "The former merchants' exchange, between the cathedral and the Alcázar, holds the records of Spain's American empire, from Columbus's letters to maps. The first-floor rooms, with mahogany shelving, are free to visit.",
+        "come": "On Avenida de la Constitución, next to the cathedral.",
+        "quando": "In the hot hours, between other visits.",
+        "tempo": "30-45 minutes",
+        "costo": "free",
+        "orari": "Tuesday to Sunday; closed Mondays.",
+        "lat": 37.3846,
+        "lng": -5.9926
+      },
+      {
+        "nome": "Torre del Oro and the riverside",
+        "testo": "The 13th-century Almohad watchtower on the Guadalquivir that guarded the galleon port. Inside is a small naval museum; the Paseo de Cristóbal Colón leads on to the Maestranza and the Triana bridge.",
+        "come": "Ten minutes' walk from the cathedral.",
+        "quando": "At sunset, walking along the river towards Triana.",
+        "tempo": "30 minutes",
+        "costo": "naval museum for a token fee",
+        "lat": 37.3824,
+        "lng": -5.9964
+      },
+      {
+        "nome": "Maestranza Bullring",
+        "testo": "One of Spain's oldest and most important bullrings, from the 18th century, with a white-and-ochre façade on the river. The guided tour covers the stands, the chapel and the bullfighting museum.",
+        "come": "On Paseo de Cristóbal Colón; frequent timed guided tours.",
+        "quando": "Morning; tours stop on bullfight days.",
+        "tempo": "45 minutes",
+        "costo": "about €12, guided (2026)",
+        "lat": 37.3858,
+        "lng": -5.9988,
+        "url": "https://www.realmaestranza.com/"
+      },
+      {
+        "nome": "Museum of Fine Arts",
+        "testo": "In a convent with tiled cloisters, Spain's second gallery for Golden Age painting: Murillo, Zurbarán, Valdés Leal. The convent church is frescoed from top to bottom.",
+        "come": "Plaza del Museo, ten minutes north-west of the cathedral.",
+        "quando": "Sunday morning, with the art market in the square.",
+        "tempo": "1.5 hours",
+        "costo": "free for EU citizens",
+        "orari": "Closed Mondays.",
+        "lat": 37.3929,
+        "lng": -6.0001
+      },
+      {
+        "nome": "Palacio de las Dueñas",
+        "testo": "The Dukes of Alba's palace, Gothic-Mudéjar and Renaissance, with flowering patios, the lemon grove and rooms full of family paintings and mementoes. The poet Antonio Machado was born here.",
+        "come": "Five minutes from Las Setas, on Calle Dueñas; audio guide included.",
+        "quando": "In spring, with bougainvillea and orange blossom.",
+        "tempo": "1 hour",
+        "costo": "about €15, with audio guide (2026)",
+        "lat": 37.3966,
+        "lng": -5.9898,
+        "url": "https://www.lasduenas.es/"
+      },
+      {
+        "nome": "Hospital de los Venerables",
+        "testo": "A Baroque home for elderly priests in the heart of Santa Cruz, with a sunken patio and a church frescoed by Valdés Leal. It houses the Velázquez Centre, with works by the Seville-born painter.",
+        "come": "On Plaza de los Venerables, in the lanes of Santa Cruz; audio guide included.",
+        "quando": "Midday, when the barrio is full of groups.",
+        "tempo": "1 hour",
+        "costo": "ticketed, with audio guide",
+        "lat": 37.3852,
+        "lng": -5.9907,
+        "url": "https://www.fundacionfocus.com/"
+      },
+      {
+        "nome": "Basílica de la Macarena",
+        "testo": "The church of the Esperanza Macarena, Seville's most revered Virgin, who goes out in procession on the night of Good Friday. The museum next door keeps the brotherhood's floats and embroidered mantles.",
+        "come": "In the north of the old town, by the Arch and the Almohad walls; bus or a 20-minute walk from Las Setas.",
+        "quando": "Morning, combined with the Feria market and the Alameda.",
+        "tempo": "45 minutes",
+        "costo": "basilica free; museum ticketed",
+        "lat": 37.403,
+        "lng": -5.9895,
+        "url": "https://www.hermandaddelamacarena.es/"
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Cathedral and Giralda with an online ticket already bought, before the groups.",
-          "Late morning: Real Alcázar, in the first available slot or with the audio guide.",
-          "Early afternoon: Late lunch in Santa Cruz or a bar in the center: tapas and salmorejo.",
-          "Afternoon: Stroll through Plaza de España and Parque de María Luisa, where shade helps.",
-          "Evening: Cross the Triana Bridge, tapas dinner by the river and, if possible, acoustic flamenco."
+          "Morning: Real Alcázar at opening, with a timed ticket",
+          "Cathedral and Giralda, then the Archivo de Indias",
+          "Lunch and siesta; afternoon in the Barrio de Santa Cruz",
+          "Plaza de España at sunset",
+          "Evening: tapas in Triana and flamenco"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: as in the one-day plan, without rushing and with a break in mid-afternoon.",
-          "Day 2, morning: Casa de Pilatos and Las Setas, on foot along Calle Sierpes.",
-          "Day 2, late morning: Triana market and ceramic workshops.",
-          "Day 2, afternoon: Torre del Oro and a walk on the Guadalquivir.",
-          "Day 2, evening: flamenco show, then tapeo."
+          "Day 1: Alcázar, Cathedral and Giralda, Santa Cruz, tablao in the evening",
+          "Day 2: Plaza de España and María Luisa Park in the morning, Torre del Oro and the Maestranza, Triana in the afternoon, Las Setas at sunset"
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Days 1 and 2: as above.",
-          "Day 3, morning: day trip to Córdoba by AVE train for the Mezquita.",
-          "Day 3, afternoon: back in Seville for a last walk in the María Luisa park or Santa Cruz in the evening."
+          "Day 1: Alcázar, Cathedral, Archivo de Indias, Santa Cruz",
+          "Day 2: Plaza de España, Torre del Oro, Maestranza, Triana and flamenco",
+          "Day 3: Casa de Pilatos, Palacio de las Dueñas, Museum of Fine Arts and Las Setas; or a trip to Córdoba"
         ]
       }
     ],
@@ -137,17 +230,46 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Santa Cruz",
         "perChi": "Those who want to be a step from the monuments",
-        "testo": "You step out of the hotel and you are already under the cathedral. By day it is crowded, and in the evening the lanes echo with tables from tourist restaurants. Prices are the highest. You get around on foot only, and taxis do not enter the lanes."
+        "testo": "You step out of the hotel and you are already under the cathedral. By day it is crowded, and in the evening the lanes echo with tables from tourist restaurants. Prices are the highest. You get around on foot only, and taxis do not enter the lanes.",
+        "fascia": "110-220 €"
       },
       {
         "nome": "Triana",
         "perChi": "Those who prefer a lively, less touristy district",
-        "testo": "It costs a little less and has more bars used by locals. The centre is a walk across the bridge. Noise from the riverside bars in the evening can reach the nearest rooms."
+        "testo": "It costs a little less and has more bars used by locals. The centre is a walk across the bridge. Noise from the riverside bars in the evening can reach the nearest rooms.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Alameda de Hércules and La Macarena",
         "perChi": "Budget travelers or those who like nightlife",
-        "testo": "A younger district, with bars, alternative venues and modest prices, north of the centre and walkable from the cathedral. At weekends the square is noisy until late."
+        "testo": "A younger district, with bars, alternative venues and modest prices, north of the centre and walkable from the cathedral. At weekends the square is noisy until late.",
+        "fascia": "80-150 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Córdoba",
+        "distanza": "45 minutes by high-speed train",
+        "come": "AVE or private high-speed trains from Santa Justa; 20 minutes' walk from the station to the Mezquita.",
+        "testo": "The Mosque-Cathedral, with its forest of red-and-white arches, the Jewish quarter and the Roman bridge. The Mezquita costs about €13 and is free early in the morning Monday to Saturday."
+      },
+      {
+        "nome": "Cádiz",
+        "distanza": "1h45 by train",
+        "come": "Regional trains from Santa Justa to Cádiz, arriving in the centre.",
+        "testo": "One of Europe's oldest cities on a peninsula, with a seafront cathedral, a fish market and La Caleta beach."
+      },
+      {
+        "nome": "Carmona",
+        "distanza": "35 km, 40 minutes by bus",
+        "come": "Bus from the Prado de San Sebastián station.",
+        "testo": "A white hill town with Roman gates, King Pedro's Alcázar and a Roman necropolis. An easy half-day."
+      },
+      {
+        "nome": "Jerez de la Frontera",
+        "distanza": "1 hour by train",
+        "come": "Regional trains from Santa Justa; the bodegas are walkable from the centre.",
+        "testo": "The sherry bodegas, with tours and tastings, and the Royal Andalusian School of Equestrian Art with its horse show."
       }
     ],
     sapori: [
@@ -178,6 +300,32 @@ export const destinazioniSpagna: Destinazione[] = [
       "Tickets for the Real Alcázar, cathedral and Giralda: buy them only on the official sites. Resellers add surcharges, and at Easter and during the Feria de Abril dates sell out early.",
       "Heat from June to September: spend the middle of the afternoon indoors. Carry water and a hat.",
       "Tablaos: be wary of people stopping you in the street with discounted flyers. Book directly with the venue."
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Seville?",
+        "risposta": "Two days for the Alcázar, Cathedral, Santa Cruz, Plaza de España and Triana; three for the palaces and museums at leisure or a trip to Córdoba."
+      },
+      {
+        "domanda": "Do you need to book the Real Alcázar?",
+        "risposta": "Yes, buy the timed ticket online, about €15.50: in spring the best slots go days ahead. The Royal Apartments carry a supplement and limited places."
+      },
+      {
+        "domanda": "Can you visit Seville in summer?",
+        "risposta": "Yes, but in July and August it often tops 40°C: sightsee early and after 19:00, siesta at midday. March-May and October-November are the best months."
+      },
+      {
+        "domanda": "When are Holy Week and the April Fair?",
+        "risposta": "Holy Week is the week before Easter, the Feria two weeks after. On those days the city is full and rooms can cost three times as much."
+      },
+      {
+        "domanda": "Where to stay in Seville?",
+        "risposta": "Santa Cruz to be next to the monuments, Triana for a lived-in neighbourhood, the Alameda for bars and lower prices. Outside festivals a double costs about €80-220."
+      },
+      {
+        "domanda": "How do you get from the airport to central Seville?",
+        "risposta": "The EA bus reaches Santa Justa and Prado de San Sebastián in about 35 minutes for about €4, payable on board by card. Taxis have a fixed fare of about €25 by day."
+      }
     ],
     esperienzeSlugs: ['flamenco-triana', 'tapeo-siviglia'],
     tripSlugs: ['andalusia-itinerario'],
@@ -213,10 +361,12 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire: "The Albaicín for the atmosphere and the view, with steep climbs to factor in; the center around the Cathedral for convenience and nightlife.",
     doveMangiare:
       "Granada is among the few Spanish cities where the tapa is still free with every drink ordered: a round of beers in the bars of the center or Calle Navas equals a light dinner. Try the remojón granadino (orange, salt cod and olive salad) and the dishes of Morisco tradition with spices like cumin and cinnamon.",
-    comeArrivare: "Federico García Lorca Airport, about 15 km from the center. AVE train from Madrid in about 3h10-3h30; direct bus from Seville (about 3h) or from Córdoba (about 2h).",
+    comeArrivare:
+      'Federico García Lorca Airport, about 15 km from the center. AVE train from Madrid in about 3h10-3h30; direct bus from Seville (about 3h) or from Córdoba (about 2h). From the airport a bus reaches the centre in about 40 minutes. In town, minibus C30 (to the Alhambra) and C31 and C32 (to the Albaicín and Sacromonte) leave from Plaza Isabel la Católica and Plaza Nueva.',
     comeSpostarsi: "Historic center and Albaicín on foot only (steep climbs); local minibuses for the higher areas of the Sacromonte and the Albaicín; the Alhambra can be reached on foot uphill from the center or with a dedicated shuttle bus.",
     periodoMigliore: "April-June and September-October. Summer is hot but less extreme than in Seville thanks to the altitude (about 700 meters) and the proximity of the Sierra Nevada; winter is cold, with snow visible on the peaks a few km from the city.",
-    costi: "Alhambra general admission €22.27 plus the online fee (2026) (tickets sell out weeks ahead, in high season even months); Cathedral and Capilla Real about €7 each.",
+    costi:
+      'Alhambra general admission €22.27 plus the online fee (2026) (tickets sell out weeks ahead, in high season even months); Cathedral and Capilla Real about €7 each. Rough daily budget per person, sharing a double: low €50-70, mid €90-130, high over €200.',
     erroriDaEvitare: [
       "Arriving in Granada without having already booked the Alhambra: tickets are sold on the official website (also by phone or at the ticket machines) and in high season (June-September and holidays) they sell out weeks in advance",
       "Underestimating the climbs of the Albaicín and the Sacromonte: they're steep and cobbled, not very comfortable with luggage or unsuitable shoes",
@@ -229,7 +379,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot uphill from the centre or by city minibus 30 or 32 from Plaza Isabel la Católica. Entry is by named ticket and for the Nasrid Palaces the time slot printed on it applies: arrive early, not late. Bring ID and confirmation.",
         "quando": "Open every day: 8:30am-8pm from 1 April to 14 October, 8:30am-6pm from 15 October to 31 March. Closed on 25 December and 1 January. Tickets are sold through the official channel (online, by phone or at the ticket machines) and in high season they sell out weeks ahead.",
         "tempo": "3-4 hours, half a day to see everything",
-        "costo": "22.27 euros for the daytime Alhambra General ticket, plus a fee for online purchases (2026)",
+        "costo": "€22.08 for the daytime Alhambra General ticket on the official channel (2026)",
+        "orari": "Daily from 8:30; closes at 20 from April to mid-October and 18 in winter, with night visits on some evenings.",
+        "lat": 37.1761,
+        "lng": -3.5881,
         "url": "https://www.alhambra-patronato.es/",
         "consiglio": "Choose the morning slot for the Nasrid Palaces, when light comes in through the patios. Keep in mind that the route is entirely outdoors."
       },
@@ -239,6 +392,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot from Plaza Nueva, climbing by the Cuesta del Chapiz or Calle Calderería Nueva. There are also minibuses that loop around the district.",
         "quando": "Early morning or late afternoon. In the central hours of summer the climbs are heavy.",
         "tempo": "2-3 hours",
+        "costo": "free",
+        "lat": 37.181,
+        "lng": -3.592,
         "consiglio": "Walk down and go up by minibus: the slopes are felt mostly uphill."
       },
       {
@@ -247,6 +403,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A walk uphill from Plaza Nueva, or the city minibus C31 or C32 that climbs to the Albaicín. Free entry.",
         "quando": "At sunset. Alternatively at dawn, almost with no one.",
         "tempo": "30-60 minutes",
+        "costo": "free",
+        "lat": 37.1811,
+        "lng": -3.5926,
         "consiglio": "For the same view with fewer crowds, climb to the nearby Mirador de San Cristóbal or the Carmen de los Mártires."
       },
       {
@@ -255,6 +414,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot from the center, in the cathedral district. There are two separate entrances.",
         "quando": "Open every day, usually with a break in the central hours, and reduced hours on Sunday. Check the official hours.",
         "tempo": "1 hour for the cathedral, 30-45 minutes for the Royal Chapel",
+        "costo": "about €7 for the Cathedral and about €7 for the Capilla Real (2026)",
+        "lat": 37.1764,
+        "lng": -3.5994,
         "url": "https://catedraldegranada.com/",
         "consiglio": "Best visited after the Alhambra, to understand what came after the fall of the Nasrid kingdom."
       },
@@ -264,6 +426,8 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot along the Camino del Sacromonte from the Albaicín, or by city minibus C34 from the centre. The road is long and uphill.",
         "quando": "Shows in the evening. By day you visit the museum and stroll through the landscape of caves.",
         "tempo": "2-3 hours, plus an evening for a show",
+        "lat": 37.183,
+        "lng": -3.58,
         "consiglio": "Before booking a zambra, read recent reviews: very touristy shows cost the same as the serious ones."
       },
       {
@@ -272,34 +436,108 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot, a few steps from the cathedral. Entry to the Corral is free during opening hours.",
         "quando": "In the morning, when shops open and the streets are clearer.",
         "tempo": "30-45 minutes",
+        "costo": "free",
+        "lat": 37.1755,
+        "lng": -3.5985,
         "consiglio": "The Corral is worth seeing even just to step into the courtyard with its wooden galleries."
+      },
+      {
+        "nome": "Carrera del Darro and Paseo de los Tristes",
+        "testo": "The cobbled street along the Darro river, with little stone bridges, convents and mansions beneath the Alhambra walls. It ends at the Paseo de los Tristes, where you look up at the fortress.",
+        "come": "On foot from Plaza Nueva; minibuses C31 and C32 run this way.",
+        "quando": "In the evening, with the Alhambra lit up.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "lat": 37.1781,
+        "lng": -3.5905
+      },
+      {
+        "nome": "El Bañuelo",
+        "testo": "The 11th-century Arab baths on the Carrera del Darro, among the best preserved in Spain, with star-pierced vaulted ceilings. It is part of the Dobla de Oro ticket with other Andalusi monuments.",
+        "come": "On the Carrera del Darro, five minutes from Plaza Nueva.",
+        "quando": "On sunny hours, when light pours through the skylights.",
+        "tempo": "20-30 minutes",
+        "costo": "cheap ticket, included in the Dobla de Oro",
+        "lat": 37.1779,
+        "lng": -3.5911
+      },
+      {
+        "nome": "San Miguel Alto viewpoint",
+        "testo": "The highest viewpoint over the Albaicín, by the hermitage on the Nasrid walls, with the Alhambra, the city and the Sierra Nevada all in view. Far less crowded than San Nicolás.",
+        "come": "On foot from Sacromonte or Puerta de Fajalauza, a steep climb; by taxi almost to the top.",
+        "quando": "At sunset, with a jacket in winter.",
+        "tempo": "1 hour with the climb",
+        "costo": "free",
+        "lat": 37.1858,
+        "lng": -3.5915
+      },
+      {
+        "nome": "Monastery of San Jerónimo",
+        "testo": "The first monastery founded after the Christian conquest, with two cloisters and a Renaissance church where the Gran Capitán is buried. Its gilded interior is among the finest in the city.",
+        "come": "Ten minutes' walk west of the cathedral.",
+        "quando": "Morning, when it is quiet.",
+        "tempo": "45 minutes",
+        "costo": "a few euros",
+        "lat": 37.1787,
+        "lng": -3.6038
+      },
+      {
+        "nome": "Granada Charterhouse",
+        "testo": "The charterhouse's sacristy is one of Spain's Baroque masterpieces, all white stucco, marble and inlay. The cloister and refectory hold paintings by Sánchez Cotán.",
+        "come": "North of the centre, near the university: city buses or a 25-minute walk.",
+        "quando": "An afternoon, after siesta.",
+        "tempo": "45 minutes",
+        "costo": "a few euros",
+        "lat": 37.1924,
+        "lng": -3.5987
+      },
+      {
+        "nome": "Huerta de San Vicente",
+        "testo": "The García Lorca family's summer house, where the poet wrote some of his works and which he left shortly before he was killed in 1936. Guided tours show original furniture and objects.",
+        "come": "In the García Lorca park, 20 minutes' walk from the centre; timed group tours.",
+        "quando": "Morning; closed Mondays.",
+        "tempo": "45 minutes",
+        "orari": "Closed Mondays.",
+        "lat": 37.17,
+        "lng": -3.613,
+        "url": "https://www.huertadesanvicente.com/"
+      },
+      {
+        "nome": "Hammam Al Ándalus",
+        "testo": "Modern Arab-style baths in a house at the foot of the Alhambra, with pools at three temperatures, a steam room and massages. A way to end a day of hills.",
+        "come": "On Calle Santa Ana, next to Plaza Nueva; 90-minute sessions by booking.",
+        "quando": "In the evening, after the Alhambra.",
+        "tempo": "1.5 hours",
+        "costo": "paid, with or without massage",
+        "lat": 37.1775,
+        "lng": -3.5917,
+        "url": "https://granada.hammamalandalus.com/"
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Alhambra with a pre-booked ticket and the morning slot for the Nasrid Palaces.",
-          "Early afternoon: Lunch in the center with free tapas with your drink.",
-          "Afternoon: Cathedral and Royal Chapel.",
-          "Late afternoon: Climb to the Albaicín and Mirador de San Nicolás for sunset.",
-          "Evening: Tapas bar crawl in the center or on Calle Navas."
+          "Morning: Alhambra with the Nasrid Palaces at your ticket time, Alcazaba and Generalife",
+          "Lunch and siesta in the centre",
+          "Afternoon: Cathedral, Capilla Real and Alcaicería",
+          "Carrera del Darro and the climb into the Albaicín",
+          "Sunset at the Mirador de San Nicolás and a tapas dinner"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: as in the one-day plan, with the Alhambra and sunset.",
-          "Day 2, morning: Albaicín and Corral del Carbón.",
-          "Day 2, afternoon: Sacromonte and the Cave Museum.",
-          "Day 2, evening: zambra in a cueva, after checking reviews."
+          "Day 1: Alhambra and Generalife, Carrera del Darro and Paseo de los Tristes in the evening",
+          "Day 2: Cathedral and Capilla Real, Alcaicería, El Bañuelo, Albaicín and Sacromonte, sunset at San Miguel Alto or San Nicolás, flamenco in a cave"
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Days 1 and 2: as above.",
-          "Day 3: trip to the Sierra Nevada (skiing in winter) or the Alpujarras, with white villages on the southern side of the range."
+          "Day 1: Alhambra and Generalife, Paseo de los Tristes",
+          "Day 2: centre, Cathedral, San Jerónimo, Albaicín and sunset at San Nicolás",
+          "Day 3: Sacromonte and the Cave Museum, the Charterhouse or Huerta de San Vicente, hammam in the evening; or a trip to the Alpujarras"
         ]
       }
     ],
@@ -307,17 +545,40 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Center around the cathedral",
         "perChi": "Those who want convenience and evening life",
-        "testo": "Everything on foot: Alhambra, tapas, Albaicín. In the evening the noise of the bars reaches low-floor rooms. Prices are average."
+        "testo": "Everything on foot: Alhambra, tapas, Albaicín. In the evening the noise of the bars reaches low-floor rooms. Prices are average.",
+        "fascia": "80-160 €"
       },
       {
         "nome": "Albaicín",
         "perChi": "Those looking for atmosphere and a view of the Alhambra",
-        "testo": "Rooms in carmenes and small guesthouses, quiet at night. The streets are steep and cobbled, awkward with suitcases: a taxi often cannot reach the door."
+        "testo": "Rooms in carmenes and small guesthouses, quiet at night. The streets are steep and cobbled, awkward with suitcases: a taxi often cannot reach the door.",
+        "fascia": "90-180 €"
       },
       {
         "nome": "Realejo",
         "perChi": "Those who want a local, cheaper neighborhood",
-        "testo": "At the foot of the Alhambra, with bars used by students and low prices. The centre is a short walk away, and the climb up the hill starts right away."
+        "testo": "At the foot of the Alhambra, with bars used by students and low prices. The centre is a short walk away, and the climb up the hill starts right away.",
+        "fascia": "70-140 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Las Alpujarras",
+        "distanza": "75 km, 1h15 by car",
+        "come": "By car, or Alsa buses to Pampaneira, Bubión and Capileira, a few a day.",
+        "testo": "White villages with flat Berber roofs on the slopes of the Sierra Nevada, in the Poqueira gorge. Marked trails link one village to the next."
+      },
+      {
+        "nome": "Sierra Nevada",
+        "distanza": "35 km, 45 minutes-1 hour",
+        "come": "Direct buses from Granada bus station to Pradollano, or by car.",
+        "testo": "Europe's southernmost ski resort, usually open December to April; in summer there are high trails towards the Veleta."
+      },
+      {
+        "nome": "Córdoba",
+        "distanza": "1h30 by train",
+        "come": "Direct high-speed trains from Granada; the old town is 20 minutes' walk from the station.",
+        "testo": "The Mosque-Cathedral and the Jewish quarter fit well into a day if you leave early."
       }
     ],
     sapori: [
@@ -348,6 +609,28 @@ export const destinazioniSpagna: Destinazione[] = [
       "Albaicín and Sacromonte after dark: poorly lit lanes, a few theft incidents. It is better to move in a group or by minibus in the evening.",
       "Low-emission zone in the center: if arriving by car, check the city website for rules on foreign plates before entering.",
       "Steep climbs: comfortable shoes, water in summer, and allow more time to get around than the map suggests."
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Granada?",
+        "risposta": "Two days: one for the Alhambra and one for the centre, the Albaicín and Sacromonte. With three, add the monasteries, the hammam or a trip to the Alpujarras."
+      },
+      {
+        "domanda": "How do you buy Alhambra tickets?",
+        "risposta": "Only on the official website, up to three months ahead: the general ticket costs €22.27 plus the online fee (2026) and carries your name. In high season it sells out weeks or months ahead."
+      },
+      {
+        "domanda": "What happens if I am late for the Nasrid Palaces?",
+        "risposta": "You will not get in: the time printed on the ticket is strict and cannot be changed. Arrive at the palace entrance with half an hour to spare."
+      },
+      {
+        "domanda": "Are tapas really free in Granada?",
+        "risposta": "Yes, in most bars every drink comes with a tapa included in the price, often a different one each round. Three or four drinks make a dinner."
+      },
+      {
+        "domanda": "Where to stay in Granada?",
+        "risposta": "The centre around the cathedral for convenience, the Albaicín for atmosphere and views but lots of climbing, the Realejo to spend less. A double costs about €70-180."
+      }
     ],
     esperienzeSlugs: ['alhambra-visita', 'zambra-sacromonte'],
     tripSlugs: ['andalusia-itinerario'],

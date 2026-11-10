@@ -34,10 +34,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
     doveMangiare:
       'Las bitterballen (croquetas fritas rellenas, típico aperitivo de bar) con una cerveza neerlandesa; el haring (arenque crudo marinado, servido en trozos con cebolla picada) de los puestos callejeros; el stroopwafel, la oblea rellena de sirope de caramelo, mejor recién hecho y todavía caliente en los puestos del mercado; la rijsttafel, la «mesa de arroz» con decenas de platitos al estilo indonesio, herencia del pasado colonial neerlandés y hoy parte de la cocina de la ciudad.',
     comeArrivare:
-      'Aeropuerto de Ámsterdam Schiphol (AMS), de los más transitados de Europa, a unos 15 km del centro: tren directo en 15-20 minutos hasta la Estación Central, con servicios muy frecuentes. Desde Italia no hay una conexión ferroviaria directa cómoda: casi siempre se llega en avión.',
+      "El aeropuerto de Schiphol (AMS) está a unos 15 km del centro. El tren NS llega a la Estación Central en 15-20 minutos, unos 6-7 €, con salidas cada pocos minutos y una por hora también de noche; se paga con tarjeta contactless en los tornos, sin olvidar el check-out al salir. El autobús 397 va a Museumplein y Leidseplein en unos 30 minutos (unos 6,50 €); el taxi de la parada oficial cuesta unos 50-60 €. Desde Italia se llega casi siempre en avión: no hay un tren directo cómodo.",
     comeSpostarsi: 'En el centro bicicleta o a pie; para el resto de la ciudad tranvía, autobús y metro GVB, que se pagan también con tarjeta contactless directamente en los transportes. Coche desaconsejado: en el centro se desincentiva el tráfico y el aparcamiento es caro y escaso.',
     periodoMigliore: 'abril-mayo y septiembre-octubre por el clima suave y menos gente; junio-agosto es temporada alta, calurosa y muy concurrida; noviembre-marzo es frío y a menudo lluvioso pero llevadero, con mercadillos de Navidad en diciembre',
-    costi: 'ciudad cara para los estándares europeos: museos principales 20-25 € cada uno, cena normal 20-25 € por persona, alquiler de bici 10-15 € al día',
+    costi: "Ciudad cara. Presupuesto bajo unos 90-120 € al día por persona (albergue u hotel fuera del centro, comida de mercados y supermercados, un museo); medio 180-250 € (hotel de gama media en doble, dos museos, cenas en restaurante); alto desde 350 € (hotel junto a los canales, restaurantes de nivel, tours privados). Museos principales unos 25 € cada uno, alquiler de bici 10-20 € al día.",
     erroriDaEvitare: [
       'Llegar sin haber reservado online la Casa de Ana Frank: las entradas se agotan con semanas de antelación y ya no se compran en taquilla',
       'Caminar o pararse distraído en los carriles bici (el asfalto rojo, distinto de la acera): en toda la ciudad es la causa más común de accidentes y discusiones con los turistas',
@@ -53,8 +53,11 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         quando: "Todos los días de 9 a 17, festivos incluidos; temprano o a última hora para evitar la multitud ante La ronda de noche.",
         tempo: "3 horas",
         costo: "25 € adultos (2026), gratis hasta los 18 años",
+        orari: "Todos los días 9-17, festivos incluidos (2026)",
+        lat: 52.36,
+        lng: 4.8853,
         url: "https://www.rijksmuseum.nl",
-        consiglio: "Empezar por la planta de la Edad de Oro: en una hora se ven las salas más importantes."
+        consiglio: "Empezar por la planta de la Edad de Oro: en una hora se ven las salas más importantes.",
       },
       {
         nome: "Museo Van Gogh",
@@ -62,8 +65,12 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "En el Museumplein, junto al Rijksmuseum. Entradas en la web oficial.",
         quando: "Temprano por la mañana, con la entrada ya comprada.",
         tempo: "2 horas",
+        costo: "25 € adultos, gratis para menores de 18 pero con reserva (2026; 26 € desde el 1 de enero de 2027)",
+        orari: "Todos los días desde las 9; cierra a las 17 o a las 18 según la temporada, los viernes casi siempre hasta las 21 (2026)",
+        lat: 52.3583,
+        lng: 4.8811,
         url: "https://www.vangoghmuseum.nl",
-        consiglio: "Comprar la entrada con antelación, sobre todo los fines de semana."
+        consiglio: "Comprar la entrada con antelación, sobre todo los fines de semana.",
       },
       {
         nome: "Casa de Ana Frank",
@@ -72,8 +79,11 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         quando: "Reservar en cuanto se decidan las fechas.",
         tempo: "1-1,5 horas",
         costo: "16,50 € adultos, con 1 € de gastos de gestión (web oficial, 2026)",
+        orari: "Todos los días 9-22, salvo las excepciones indicadas en la web (2026)",
+        lat: 52.37516,
+        lng: 4.88408,
         url: "https://www.annefrank.org",
-        consiglio: "Desconfiar de los revendedores: el sitio oficial es el único fiable."
+        consiglio: "Desconfiar de los revendedores: el sitio oficial es el único fiable.",
       },
       {
         nome: "Canales del siglo XVII",
@@ -81,7 +91,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "A pie, en paseo en barco o con alquiler de barca; mejor a pie.",
         quando: "Tarde, con luces sobre el agua.",
         tempo: "2-3 horas",
-        consiglio: "Hacer un paseo en barco al atardecer para ver las casas iluminadas."
+        lat: 52.3723,
+        lng: 4.8844,
+        consiglio: "Hacer un paseo en barco al atardecer para ver las casas iluminadas.",
       },
       {
         nome: "Jordaan y Begijnhof",
@@ -89,7 +101,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "A pie desde el centro.",
         quando: "Mañana, con luz suave y menos gente.",
         tempo: "2 horas",
-        consiglio: "El Begijnhof está habitado: hablar bajo y respetar la intimidad de los vecinos."
+        lat: 52.3694,
+        lng: 4.8901,
+        consiglio: "El Begijnhof está habitado: hablar bajo y respetar la intimidad de los vecinos.",
       },
       {
         nome: "Vondelpark",
@@ -98,7 +112,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         quando: "Tarde de verano.",
         tempo: "1-2 horas",
         costo: "entrada libre",
-        consiglio: "Alquilar una bici para recorrer el parque."
+        orari: "Siempre abierto",
+        lat: 52.3572,
+        lng: 4.86412,
+        consiglio: "Alquilar una bici para recorrer el parque.",
       },
       {
         nome: "Mercado Albert Cuyp",
@@ -106,57 +123,145 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "Metro Noord/Zuidlijn desde Centraal hasta De Pijp, o en tranvía.",
         quando: "Lunes a sábado de 9:30 a 17; cerrado los domingos y festivos. Mejor por la mañana.",
         tempo: "1 hora",
-        consiglio: "Probar stroopwafels calientes y arenque con cebolla."
-      }
+        costo: "entrada libre",
+        orari: "Lunes-sábado 9:30-17, cerrado domingos y festivos",
+        lat: 52.35523,
+        lng: 4.89178,
+        consiglio: "Probar stroopwafels calientes y arenque con cebolla.",
+      },
+      {
+        nome: "Plaza Dam y Palacio Real",
+        testo: "La plaza donde nació la ciudad, sobre el dique del río Amstel, con el Monumento Nacional y la Nieuwe Kerk. El Palacio Real, construido como ayuntamiento en el siglo XVII, sigue siendo el palacio de recepciones del rey: dentro están la Sala de los Ciudadanos de mármol y salas con pinturas del Siglo de Oro.",
+        come: "A pie desde la Estación Central, 10 minutos por el Damrak; tranvías 2, 4, 12, 14, 24 hasta Dam. La audioguía está incluida.",
+        quando: "El palacio abre unos 230 días al año y cierra por recepciones y visitas de Estado: conviene mirar el calendario en la web antes de ir.",
+        tempo: "1-1,5 horas con el palacio",
+        costo: "13,50 € adultos, audioguía incluida; gratis hasta 17 años (2026)",
+        orari: "Los días de apertura desde las 10 (calendario en la web oficial)",
+        lat: 52.37317,
+        lng: 4.89136,
+        url: "https://www.paleisamsterdam.nl/en/visit/",
+      },
+      {
+        nome: "De Wallen y Oude Kerk",
+        testo: "El barrio más antiguo de la ciudad, en torno a la Oude Kerk, la iglesia más vieja de Ámsterdam, consagrada en 1306 y usada hoy también para exposiciones de arte contemporáneo. Es también el Barrio Rojo: un barrio habitado, donde los escaparates no se fotografían.",
+        come: "A 5 minutos a pie de la Plaza Dam. La iglesia tiene entrada de pago; el barrio se recorre libremente.",
+        quando: "De día o a primera hora de la tarde, cuando está tranquilo; por la noche se llena de grupos.",
+        tempo: "1 hora",
+        orari: "Oude Kerk: lunes-sábado 10-18, domingo 13-17:30 (2026)",
+        lat: 52.37436,
+        lng: 4.89807,
+        url: "https://oudekerk.nl/en/visit/",
+        consiglio: "Desde 2023 está prohibido fumar cannabis en la calle en todo De Wallen, con multa.",
+      },
+      {
+        nome: "Ons' Lieve Heer op Solder",
+        testo: "Una casa de comerciantes del siglo XVII en el canal Oudezijds Voorburgwal que esconde, en los tres pisos del desván, una iglesia católica clandestina de la época en que el culto católico público estaba prohibido. Uno de los museos más sorprendentes de la ciudad, fuera de los grandes circuitos.",
+        come: "A pie desde De Wallen o la Estación Central; recorrido con audioguía por escaleras empinadas y salas de época.",
+        quando: "Por la mañana, con menos gente en las salas.",
+        tempo: "1 hora",
+        lat: 52.3751,
+        lng: 4.89929,
+        url: "https://opsolder.nl/en/",
+      },
+      {
+        nome: "Museo Casa de Rembrandt",
+        testo: "La casa donde Rembrandt vivió y trabajó de 1639 a 1658, amueblada como entonces a partir del inventario de sus bienes, con el taller, el gabinete de curiosidades y una colección casi completa de sus grabados. A menudo hay una demostración de grabado o de preparación de colores.",
+        come: "Metro hasta Waterlooplein y dos minutos a pie. Entradas en la web oficial.",
+        quando: "Por la mañana, junto con el mercado de Waterlooplein y el barrio judío.",
+        tempo: "1-1,5 horas",
+        lat: 52.3694,
+        lng: 4.90129,
+        url: "https://www.rembrandthuis.nl/en/",
+      },
+      {
+        nome: "Stedelijk Museum",
+        testo: "El museo de arte moderno y contemporáneo de la ciudad, en un edificio del siglo XIX ampliado en 2012 con la «bañera» blanca. La colección va de Mondrian, Malévich y Matisse al diseño holandés y los grandes nombres de posguerra.",
+        come: "En el Museumplein, junto al Museo Van Gogh; tranvía 2 o 12 hasta Van Baerlestraat.",
+        quando: "Por la tarde, después de uno de los dos grandes museos de la mañana.",
+        tempo: "2 horas",
+        lat: 52.35806,
+        lng: 4.87972,
+        url: "https://www.stedelijk.nl/en",
+      },
+      {
+        nome: "A'DAM Lookout y Amsterdam Noord",
+        testo: "El mirador en lo alto de la A'DAM Toren, a 100 metros sobre el IJ: el anillo de canales, el puerto y, con el cielo despejado, los pólderes. También está el columpio «Over the Edge», suspendido sobre el vacío. Alrededor, Noord es el lado más nuevo de la ciudad, con el EYE Film Museum y los antiguos astilleros NDSM.",
+        come: "Ferri GVB gratuito desde la parte trasera de la Estación Central hasta Buiksloterweg, 3 minutos de travesía.",
+        quando: "Al atardecer, con cielo despejado.",
+        tempo: "1-1,5 horas",
+        costo: "16,50 € online, 2 € más en taquilla; columpio 7,50 € aparte (2026)",
+        lat: 52.38377,
+        lng: 4.90214,
+        url: "https://www.adamlookout.com",
+      },
+      {
+        nome: "Bloemenmarkt",
+        testo: "El mercado de flores flotante del Singel, con puestos sobre barcazas: bulbos de tulipán, plantas y recuerdos. Es más turístico que antes, pero sigue siendo único y queda de paso entre la Plaza Dam y el Museumplein.",
+        come: "A pie desde la Plaza Dam o Rembrandtplein; tranvía hasta Muntplein.",
+        quando: "De día, de paso; en primavera hay más variedad de bulbos.",
+        tempo: "20-30 minutos",
+        costo: "entrada libre",
+        lat: 52.36693,
+        lng: 4.89076,
+        consiglio: "Los bulbos que salen de los Países Bajos deben llevar el certificado fitosanitario en el envase.",
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Mañana: Rijksmuseum",
-          "Almuerzo en Albert Cuyp",
-          "Canales por la tarde",
-          "Noche: Jordaan"
-        ]
+          "Mañana: Rijksmuseum con entrada con hora",
+          "Almuerzo rápido en el mercado Albert Cuyp",
+          "Tarde: Bloemenmarkt, Begijnhof y Plaza Dam",
+          "Paseo por los canales hasta el Jordaan",
+          "Noche: barco por los canales o cena en el Jordaan",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
           "Día 1 como arriba",
-          "Día 2: Casa de Ana Frank reservada",
-          "Museo Van Gogh",
-          "Vondelpark y cena"
-        ]
+          "Día 2: Casa de Ana Frank reservada, franja de la mañana",
+          "Museo Van Gogh o Stedelijk",
+          "Vondelpark",
+          "Atardecer en el A'DAM Lookout, con el ferri gratuito a Noord",
+        ],
       },
       {
         titolo: "3 días",
         tappe: [
           "Días 1-2 como arriba",
-          "Día 3: excursión a Keukenhof (primavera) o Zaanse Schans"
-        ]
-      }
+          "Día 3: Ons' Lieve Heer op Solder y Oude Kerk",
+          "Casa de Rembrandt y Waterlooplein",
+          "Tarde: excursión a Zaanse Schans o Haarlem, en primavera Keukenhof",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Centro histórico (Centrum)",
         perChi: "Quien quiere hacerlo todo a pie",
-        testo: "Canales y museos cerca, pero precios altísimos y ruido, sobre todo hacia De Wallen."
+        testo: "Canales y museos cerca, pero precios altísimos y ruido, sobre todo hacia De Wallen.",
+        fascia: "180-350 €",
       },
       {
         nome: "Jordaan y Canal Ring",
         perChi: "Quien busca ambiente y calles tranquilas",
-        testo: "Zonas bonitas y más tranquilas, pero caras."
+        testo: "Zonas bonitas y más tranquilas, pero caras.",
+        fascia: "200-400 €",
       },
       {
         nome: "De Pijp",
         perChi: "Quien quiere bares, restaurantes y vida local",
-        testo: "Barrio animado cerca de Albert Cuyp; menos turístico, precios algo más bajos."
+        testo: "Barrio animado cerca de Albert Cuyp; menos turístico, precios algo más bajos.",
+        fascia: "150-280 €",
       },
       {
         nome: "Amsterdam Oost y Noord",
         perChi: "Quien intenta ahorrar",
-        testo: "Fuera del centro, en tranvía o, para Noord, con los ferris GVB desde detrás de Centraal, gratuitos para peatones y ciclistas."
-      }
+        testo: "Fuera del centro, en tranvía o, para Noord, con los ferris GVB desde detrás de Centraal, gratuitos para peatones y ciclistas.",
+        fascia: "110-200 €",
+      },
     ],
     sapori: [
       {
@@ -182,6 +287,58 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       "Revendedores no oficiales para Ana Frank y museos: comprar solo en el sitio oficial. Desconfiar también de los falsos policías que piden efectivo o tarjetas.",
       "En De Wallen no fotografiar a las trabajadoras ni fumar cannabis en la calle: está prohibido.",
       "Los taxis no siempre son baratos: mejor tranvía o a pie."
+    ],
+    gite: [
+      {
+        nome: "Zaanse Schans",
+        distanza: "20 minutos en tren",
+        come: "Tren desde Amsterdam Centraal hasta Zaandijk Zaanse Schans y 10 minutos a pie.",
+        testo: "El pueblo de molinos de viento aún en funcionamiento sobre el río Zaan, con casas de madera verdes, un taller de zuecos y queserías. El pueblo es de entrada libre; molinos y museo se pagan aparte.",
+      },
+      {
+        nome: "Haarlem",
+        distanza: "15 minutos en tren",
+        come: "Trenes frecuentes desde Amsterdam Centraal.",
+        testo: "Una pequeña ciudad de canales y hofjes, los patios de las casas de caridad, con la Grote Kerk en la plaza del mercado y el Museo Frans Hals. La misma arquitectura que Ámsterdam con mucha menos gente.",
+      },
+      {
+        nome: "Keukenhof",
+        distanza: "35 km, unos 45 minutos",
+        come: "Autobús directo desde Schiphol o Leiden en los meses de apertura, con entradas combinadas en la web del parque.",
+        testo: "El gran parque de bulbos en flor, abierto solo en primavera, entre marzo y mayo. Alrededor, los campos de tulipanes de la zona de Lisse.",
+      },
+      {
+        nome: "Róterdam",
+        distanza: "40 minutos en tren",
+        come: "Tren de alta velocidad desde Amsterdam Centraal.",
+        testo: "La ciudad reconstruida casi desde cero tras los bombardeos de 1940, con las casas cubo, el Markthal y el puente Erasmus: lo contrario del centro histórico de Ámsterdam.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Ámsterdam?",
+        risposta: "Tres días bastan para los canales, los dos grandes museos del Museumplein, la Casa de Ana Frank y un par de barrios. Con un cuarto día se añade una excursión a Zaanse Schans, Haarlem o, en primavera, Keukenhof.",
+      },
+      {
+        domanda: "¿Hay que reservar la Casa de Ana Frank?",
+        risposta: "Sí, y no hay alternativa: las entradas se venden solo online en la web oficial, salen los martes para las visitas de seis semanas después y en la puerta no se venden.",
+      },
+      {
+        domanda: "¿Rijksmuseum y Museo Van Gogh el mismo día?",
+        risposta: "Se puede, porque están uno al lado del otro, pero son dos visitas largas: mejor el Rijksmuseum por la mañana y el Van Gogh por la tarde, con las dos entradas con hora ya compradas.",
+      },
+      {
+        domanda: "¿Se puede pagar el transporte con tarjeta?",
+        risposta: "Sí: tranvías, autobuses y metro GVB y trenes NS aceptan tarjetas contactless, haciendo check-in y check-out con la misma tarjeta. Si se olvida el check-out se cobra la tarifa máxima.",
+      },
+      {
+        domanda: "¿Conviene alquilar una bici?",
+        risposta: "Sí para quien está acostumbrado a ir en bici con tráfico: hay carriles por todas partes y las distancias son cortas. Quien no pedalea a menudo en ciudad conviene que empiece por el Vondelpark o por Noord, porque en el centro el tráfico de bicis es denso y rápido.",
+      },
+      {
+        domanda: "¿Se puede fumar cannabis en la calle?",
+        risposta: "No en el Barrio Rojo de De Wallen, donde está prohibido con multa desde 2023; en general se fuma en los coffeeshops y no en lugares públicos concurridos.",
+      },
     ],
     esperienzeSlugs: ['amsterdam-in-bicicletta', 'crociera-sui-canali-amsterdam', 'casa-di-anna-frank'],
     tripSlugs: ['amsterdam-weekend'],

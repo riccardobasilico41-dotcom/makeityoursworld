@@ -24,11 +24,12 @@ export const destinazioniScozia: Destinazione[] = [
       'Per il castello sulla roccia, i vicoli della Old Town e i panorami da Calton Hill e da Arthur\'s Seat. È anche il punto di partenza più comodo per il giro in auto.',
     cosaVedere: ['Il Castello di Edimburgo', 'Il Royal Mile', 'Holyrood e Arthur\'s Seat', 'Calton Hill', 'La New Town e Princes Street Gardens', 'Il Museo Nazionale di Scozia'],
     cosaFare: ['Salire su Arthur\'s Seat', 'Il tramonto da Calton Hill', 'Perdersi nei close, i vicoli che scendono dal Royal Mile'],
-    comeArrivare: 'Voli diretti dall\'Italia per l\'aeroporto di Edimburgo; dal Regno Unito anche in treno, fino alla stazione di Waverley in centro.',
+    comeArrivare:
+      'Voli diretti dall\'Italia per l\'aeroporto di Edimburgo; dal Regno Unito anche in treno, fino alla stazione di Waverley in centro. Dall\'aeroporto il tram arriva a Princes Street in 30-35 minuti per circa 7,90 £, con biglietto alla macchinetta prima di salire; l\'Airlink 100 va a Waverley in circa mezz\'ora per circa 6 £; il taxi costa circa 25-30 £. Da Londra King\'s Cross i treni diretti impiegano circa 4 ore e mezza. Serve l\'autorizzazione UK ETA, 20 £ (2026).',
     comeSpostarsi: 'A piedi, con i bus e il tram. L\'auto conviene ritirarla il giorno in cui si parte per le Highlands.',
     periodoMigliore: 'da maggio a settembre; ad agosto ci sono i festival e i prezzi salgono molto',
     costi:
-      'Castello: 23,50 sterline online, 26 alla cassa (adulti, 2026). Dal 24 luglio 2026 c\'è una tassa di soggiorno del 5% sul prezzo dell\'alloggio, per le prime 5 notti.',
+      'Castello: 23,50 sterline online, 26 alla cassa (adulti, 2026). Dal 24 luglio 2026 c\'è una tassa di soggiorno del 5% sul prezzo dell\'alloggio, per le prime 5 notti. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 90-120 €, medio 170-240 €, alto oltre 350 € (ad agosto molto di più).',
     erroriDaEvitare: [
       'Andare al castello senza biglietto: i biglietti finiscono spesso con molto anticipo',
       'Prenotare ad agosto all\'ultimo momento, quando c\'è il Fringe',
@@ -38,50 +39,262 @@ export const destinazioniScozia: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        nome: 'Castello di Edimburgo',
-        testo: 'La fortezza in cima alla Castle Rock, sopra la città. Dentro ci sono gli Onori di Scozia, i gioielli della Corona scozzese, e la cappella di St Margaret, del XII secolo, considerata il più antico edificio di Edimburgo.',
-        come: 'A piedi dalla parte alta del Royal Mile. Il biglietto online costa meno e conviene comprarlo prima: quando i biglietti online finiscono, al castello non se ne trovano.',
-        quando: 'All\'apertura, dalle 9:30.',
-        tempo: '2-3 ore',
-        costo: '23,50 sterline online, 26 alla cassa (adulti, 2026)',
-        url: 'https://www.edinburghcastle.scot',
+        "nome": "Castello di Edimburgo",
+        "testo": "La fortezza in cima alla Castle Rock, sopra la città. Dentro ci sono gli Onori di Scozia, i gioielli della Corona scozzese, e la cappella di St Margaret, del XII secolo, considerata il più antico edificio di Edimburgo.",
+        "come": "A piedi dalla parte alta del Royal Mile. Il biglietto online costa meno e conviene comprarlo prima: quando i biglietti online finiscono, al castello non se ne trovano.",
+        "quando": "All'apertura, dalle 9:30.",
+        "tempo": "2-3 ore",
+        "costo": "23,50 £ online (circa 27 €), 26 £ alla cassa (adulti, 2026)",
+        "orari": "Tutti i giorni dalle 9:30; chiusura alle 18 da aprile a settembre e alle 17 da ottobre a marzo, ultimo ingresso un'ora prima.",
+        "lat": 55.9486,
+        "lng": -3.1999,
+        "url": "https://www.edinburghcastle.scot"
       },
       {
-        nome: 'Royal Mile',
-        testo: 'La strada della Old Town che scende dal castello al palazzo di Holyrood, con la cattedrale di St Giles a metà. Ai lati si aprono i close, vicoli stretti e ripidi.',
-        come: 'A piedi, dall\'alto verso il basso.',
-        quando: 'La mattina presto o la sera, quando c\'è meno gente.',
-        tempo: 'mezza giornata',
+        "nome": "Royal Mile",
+        "testo": "La strada della Old Town che scende dal castello al palazzo di Holyrood, con la cattedrale di St Giles a metà. Ai lati si aprono i close, vicoli stretti e ripidi.",
+        "come": "A piedi, dall'alto verso il basso.",
+        "quando": "La mattina presto o la sera, quando c'è meno gente.",
+        "tempo": "mezza giornata",
+        "costo": "gratuito",
+        "lat": 55.95,
+        "lng": -3.188
       },
       {
-        nome: 'Arthur\'s Seat',
-        testo: 'La collina di un antico vulcano dentro l\'Holyrood Park, a due passi dalla Old Town. Dalla cima si vedono la città e il mare.',
-        come: 'A piedi da Holyrood, su sentieri in salita. Con il vento in cima fa freddo anche d\'estate.',
-        quando: 'Con il cielo sereno, meglio la mattina o al tramonto.',
-        tempo: '2 ore andata e ritorno',
+        "nome": "Arthur's Seat",
+        "testo": "La collina di un antico vulcano dentro l'Holyrood Park, a due passi dalla Old Town. Dalla cima si vedono la città e il mare.",
+        "come": "A piedi da Holyrood, su sentieri in salita. Con il vento in cima fa freddo anche d'estate.",
+        "quando": "Con il cielo sereno, meglio la mattina o al tramonto.",
+        "tempo": "2 ore andata e ritorno",
+        "costo": "gratuito",
+        "lat": 55.9441,
+        "lng": -3.1618
       },
       {
-        nome: 'Calton Hill',
-        testo: 'La collina sopra la fine di Princes Street, con i monumenti neoclassici e la vista sulla Old Town, sul castello e su Arthur\'s Seat.',
-        come: 'A piedi, con una salita breve.',
-        quando: 'Al tramonto.',
-        tempo: '1 ora',
+        "nome": "Calton Hill",
+        "testo": "La collina sopra la fine di Princes Street, con i monumenti neoclassici e la vista sulla Old Town, sul castello e su Arthur's Seat.",
+        "come": "A piedi, con una salita breve.",
+        "quando": "Al tramonto.",
+        "tempo": "1 ora",
+        "costo": "gratuito",
+        "lat": 55.9553,
+        "lng": -3.1826
       },
+      {
+        "nome": "Palazzo di Holyroodhouse",
+        "testo": "La residenza ufficiale del sovrano in Scozia, in fondo al Royal Mile, con gli appartamenti di Maria Stuarda e le rovine dell'abbazia di Holyrood nel parco. Di fronte c'è il Parlamento scozzese, un edificio contemporaneo molto discusso.",
+        "come": "A piedi scendendo il Royal Mile; biglietto con audioguida, meglio online.",
+        "quando": "La mattina, prima di salire su Arthur's Seat che parte da qui.",
+        "tempo": "1h30",
+        "costo": "a pagamento, con audioguida",
+        "orari": "Chiuso quando il sovrano è in residenza, di solito tra fine giugno e inizio luglio, e in alcuni giorni d'inverno: controllare il calendario.",
+        "lat": 55.9527,
+        "lng": -3.1722,
+        "url": "https://www.rct.uk/visit/palace-of-holyroodhouse"
+      },
+      {
+        "nome": "National Museum of Scotland",
+        "testo": "Il museo nazionale, gratuito, con la storia della Scozia dai Pitti alla pecora Dolly, le scacchiere di Lewis e una grande galleria di scienza e natura. Dalla terrazza sul tetto si vede il castello.",
+        "come": "In Chambers Street, a cinque minuti dal Royal Mile per George IV Bridge.",
+        "quando": "In un pomeriggio di pioggia.",
+        "tempo": "2 ore",
+        "costo": "gratuito",
+        "orari": "Tutti i giorni 10-17.",
+        "lat": 55.9469,
+        "lng": -3.1897,
+        "url": "https://www.nms.ac.uk/"
+      },
+      {
+        "nome": "Scottish National Gallery e Princes Street Gardens",
+        "testo": "La pinacoteca nazionale, gratuita, con Raffaello, Tiziano, Vermeer, Velázquez e i pittori scozzesi come Raeburn. È ai piedi della collina, nei giardini che separano la Old Town dalla New Town, sotto il castello.",
+        "come": "Sul Mound, a due minuti da Waverley e da Princes Street.",
+        "quando": "La mattina; i giardini al pomeriggio con il sole sul castello.",
+        "tempo": "1h30",
+        "costo": "gratuito",
+        "orari": "Tutti i giorni 10-17.",
+        "lat": 55.9509,
+        "lng": -3.1959,
+        "url": "https://www.nationalgalleries.org/"
+      },
+      {
+        "nome": "Cattedrale di St Giles",
+        "testo": "La chiesa principale di Edimburgo, a metà del Royal Mile, con la corona di pietra sul campanile e la Thistle Chapel, intagliata in legno e dedicata all'ordine del Cardo. Qui predicò John Knox.",
+        "come": "Sul Royal Mile, in Parliament Square. Ingresso libero con offerta suggerita; visita al tetto a pagamento in alcuni periodi.",
+        "quando": "A metà mattina, scendendo dal castello.",
+        "tempo": "30-45 minuti",
+        "costo": "ingresso libero, offerta suggerita",
+        "lat": 55.9495,
+        "lng": -3.1909,
+        "url": "https://www.stgilescathedral.org.uk/"
+      },
+      {
+        "nome": "Victoria Street e Grassmarket",
+        "testo": "La strada curva con le facciate colorate che scende dal George IV Bridge alla piazza del Grassmarket, l'antico mercato del bestiame e luogo delle impiccagioni, oggi piena di pub. Da qui si vede il castello dal basso.",
+        "come": "A piedi dal Royal Mile; dal Grassmarket la scalinata del Vennel porta a una delle viste migliori sul castello.",
+        "quando": "Al mattino presto per le foto; la sera per i pub.",
+        "tempo": "1 ora",
+        "costo": "gratuito",
+        "lat": 55.9478,
+        "lng": -3.1945
+      },
+      {
+        "nome": "Greyfriars Kirkyard",
+        "testo": "Il cimitero seicentesco con le tombe sovrastate dal castello e la statua del cane Bobby, che secondo la storia vegliò per anni la tomba del padrone. Alcune lapidi hanno dato nomi ai personaggi di Harry Potter.",
+        "come": "Ingresso da Candlemaker Row, accanto alla statua di Bobby, a due passi dal National Museum.",
+        "quando": "Di giorno; la sera ci sono i tour sui fantasmi.",
+        "tempo": "30 minuti",
+        "costo": "gratuito",
+        "lat": 55.9469,
+        "lng": -3.1925
+      },
+      {
+        "nome": "The Real Mary King's Close",
+        "testo": "Vicoli e case del Seicento rimasti sepolti sotto il palazzo della City Chambers, visitabili solo con guida. Si racconta la vita della Old Town, la peste e le storie del close.",
+        "come": "Ingresso sul Royal Mile di fronte a St Giles. Visite guidate a orario, da prenotare online.",
+        "quando": "Un giorno di pioggia; d'estate i turni si esauriscono.",
+        "tempo": "1 ora",
+        "costo": "circa 28,50 £ (circa 33 €, 2026), solo con visita guidata",
+        "lat": 55.95,
+        "lng": -3.1905,
+        "url": "https://www.realmarykingsclose.com/"
+      },
+      {
+        "nome": "Dean Village e Water of Leith",
+        "testo": "Un vecchio villaggio di mulini sul fiume, a dieci minuti dal West End, con case di pietra e il ponte di Telford. Il sentiero lungo il Water of Leith continua fino alla Scottish National Gallery of Modern Art e a Stockbridge.",
+        "come": "A piedi dalla fine di Princes Street per Queensferry Street; si scende a Bell's Brae.",
+        "quando": "La domenica mattina, con il mercato di Stockbridge.",
+        "tempo": "1-2 ore",
+        "costo": "gratuito",
+        "lat": 55.952,
+        "lng": -3.217,
+        "consiglio": "È un quartiere abitato: niente droni e voce bassa tra le case."
+      },
+      {
+        "nome": "Camera Obscura and World of Illusions",
+        "testo": "Una camera ottica vittoriana in cima a una torre accanto al castello, che proietta la città dal vivo su un tavolo, più cinque piani di illusioni ottiche. È adatta soprattutto a chi viaggia con bambini.",
+        "come": "In Castlehill, in cima al Royal Mile; biglietto online più economico.",
+        "quando": "Con il cielo limpido, per la proiezione.",
+        "tempo": "1h30",
+        "costo": "circa 25 £ alla cassa, circa 21 £ online (circa 29 € e 24 €, 2026)",
+        "lat": 55.949,
+        "lng": -3.1957,
+        "url": "https://www.camera-obscura.co.uk/"
+      },
+      {
+        "nome": "Leith e Royal Yacht Britannia",
+        "testo": "Il porto di Edimburgo, con i ristoranti di pesce sulla Shore e lo yacht della famiglia reale, ormeggiato all'Ocean Terminal. A bordo si vedono gli appartamenti della regina Elisabetta e la sala macchine.",
+        "come": "Tram da Princes Street fino a Ocean Terminal o Newhaven, circa 20 minuti.",
+        "quando": "Il pomeriggio, restando a Leith per cena.",
+        "tempo": "mezza giornata",
+        "costo": "Britannia 23 £ online, 25 £ alla cassa (circa 27-29 €, da ottobre 2026); il quartiere si gira gratis",
+        "lat": 55.9822,
+        "lng": -3.1772,
+        "url": "https://www.royalyachtbritannia.co.uk/"
+      }
     ],
     programmi: [
-      { titolo: '1 giorno', tappe: ['Castello all\'apertura', 'Royal Mile in discesa fino a Holyrood', 'Tramonto da Calton Hill'] },
-      { titolo: '2 giorni', tappe: ['Giorno 1: Royal Mile, la Old Town e Calton Hill', 'Giorno 2: castello, New Town e Princes Street Gardens, Arthur\'s Seat nel pomeriggio'] },
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Castello all'apertura, con biglietto online",
+          "Royal Mile in discesa, con St Giles e The Real Mary King's Close",
+          "Pranzo e Victoria Street, Grassmarket e Greyfriars",
+          "Holyrood e tramonto da Calton Hill"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: castello, Royal Mile, St Giles, Victoria Street e Grassmarket, Calton Hill al tramonto",
+          "Giorno 2: Holyrood e Arthur's Seat al mattino; National Museum of Scotland; New Town, Princes Street Gardens e Scottish National Gallery"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: castello, Royal Mile, Mary King's Close, Grassmarket",
+          "Giorno 2: Holyrood, Arthur's Seat, National Museum, Calton Hill al tramonto",
+          "Giorno 3: Dean Village e Stockbridge al mattino, poi Leith e il Britannia, con cena sulla Shore; oppure gita a Stirling"
+        ]
+      }
     ],
     zone: [
-      { nome: 'Old Town', perChi: 'chi vuole tutto a piedi', testo: 'Lungo e intorno al Royal Mile. Comodo, ma rumoroso la sera e caro d\'estate.' },
-      { nome: 'New Town', perChi: 'chi vuole più calma', testo: 'Le strade georgiane sotto il castello, a pochi minuti dalla stazione di Waverley.' },
-      { nome: 'Leith', perChi: 'chi cerca prezzi più bassi e buoni ristoranti', testo: 'Il porto, collegato al centro dal tram.' },
+      {
+        "nome": "Old Town",
+        "perChi": "chi vuole tutto a piedi",
+        "testo": "Lungo e intorno al Royal Mile. Comodo, ma rumoroso la sera e caro d'estate.",
+        "fascia": "160-300 €"
+      },
+      {
+        "nome": "New Town",
+        "perChi": "chi vuole più calma",
+        "testo": "Le strade georgiane sotto il castello, a pochi minuti dalla stazione di Waverley.",
+        "fascia": "170-320 €"
+      },
+      {
+        "nome": "Leith",
+        "perChi": "chi cerca prezzi più bassi e buoni ristoranti",
+        "testo": "Il porto, collegato al centro dal tram.",
+        "fascia": "110-200 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Stirling",
+        "distanza": "50 minuti in treno",
+        "come": "Treni frequenti da Waverley; dalla stazione si sale a piedi al castello in 15-20 minuti.",
+        "testo": "Il castello dei re Stuart sopra la pianura delle battaglie per l'indipendenza, e il Wallace Monument sulla collina di fronte."
+      },
+      {
+        "nome": "South Queensferry e i ponti sul Forth",
+        "distanza": "15 km, 20 minuti in treno",
+        "come": "Treno da Waverley a Dalmeny e 15 minuti a piedi in discesa fino al paese.",
+        "testo": "Il villaggio sotto il Forth Bridge, il ponte ferroviario rosso dell'Ottocento patrimonio UNESCO, affiancato da due ponti moderni. In stagione ci sono battelli per l'isola di Inchcolm."
+      },
+      {
+        "nome": "Rosslyn Chapel",
+        "distanza": "12 km, 45 minuti in bus",
+        "come": "Bus Lothian 37 dal centro fino a Roslin; ingresso a orario, da prenotare.",
+        "testo": "Una cappella del Quattrocento coperta di sculture in pietra, resa famosa dal Codice da Vinci. Intorno c'è una valle boscosa con i resti del castello."
+      },
+      {
+        "nome": "North Berwick",
+        "distanza": "35 minuti in treno",
+        "come": "Treno diretto da Waverley; il paese è davanti alla stazione.",
+        "testo": "Una cittadina di mare con spiagge, il Seabird Centre e le uscite in barca al Bass Rock, la più grande colonia di sule del mondo."
+      }
     ],
     sapori: [
       { nome: 'Haggis', testo: 'Il piatto nazionale, di frattaglie d\'agnello, avena e spezie, servito con neeps and tatties, rapa e patate.' },
       { nome: 'Cullen skink', testo: 'Una zuppa densa di eglefino affumicato, patate e cipolla.' },
     ],
     attenzioni: ['Ad agosto la città è piena per i festival: alloggi da prenotare con mesi di anticipo.', 'Il vento su Arthur\'s Seat e Calton Hill: serve una giacca anche d\'estate.'],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Edimburgo?",
+        "risposta": "Due giorni per castello, Old Town, Holyrood e New Town; tre per aggiungere Arthur's Seat con calma, Leith o una gita a Stirling."
+      },
+      {
+        "domanda": "Bisogna prenotare il castello di Edimburgo?",
+        "risposta": "Sì: online costa 23,50 £ contro 26 alla cassa (2026), e d'estate quando i biglietti online finiscono non se ne trovano sul posto."
+      },
+      {
+        "domanda": "Conviene andare a Edimburgo ad agosto?",
+        "risposta": "Solo per i festival, a partire dal Fringe: la città è piena, gli alloggi costano il doppio e vanno prenotati con mesi di anticipo. Maggio, giugno e settembre hanno giornate lunghe e meno gente."
+      },
+      {
+        "domanda": "C'è una tassa di soggiorno a Edimburgo?",
+        "risposta": "Sì, dal 24 luglio 2026: il 5% sul prezzo dell'alloggio, per le prime cinque notti."
+      },
+      {
+        "domanda": "Come si va dall'aeroporto al centro di Edimburgo?",
+        "risposta": "Il tram arriva a Princes Street in 30-35 minuti per circa 7,90 £, con biglietto da fare prima di salire. L'Airlink 100 va a Waverley in circa mezz'ora per circa 6 £."
+      },
+      {
+        "domanda": "Dove dormire a Edimburgo?",
+        "risposta": "Old Town per avere tutto a piedi, New Town per più calma vicino a Waverley, Leith per spendere meno e mangiare bene. Fuori da agosto una doppia costa circa 110-300 €."
+      }
+    ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['scozia-highlands-distillerie'],

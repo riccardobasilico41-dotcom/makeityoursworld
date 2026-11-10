@@ -42,10 +42,11 @@ export const destinazioniPortogallo: Destinazione[] = [
     doveMangiare:
       'Il pastel de nata, sfoglia con crema pasticcera e cannella, si trova ovunque, ma è nato alla Pastéis de Belém. Il bacalhau (baccalà) si prepara in centinaia di varianti. Al Bairro Alto e in Alfama si mangiano i petiscos, piccoli piatti da dividere come le tapas spagnole. Nei minuscoli chioschi storici della Baixa si beve la ginjinha, il liquore di amarena servito in bicchierini.',
     comeArrivare:
-      'L\'Aeroporto Humberto Delgado (LIS) è a circa 7 km dal centro: con la metro (linea rossa) si arriva in circa 20-25 minuti, oppure ci sono autobus, taxi e app di ride-hailing. Dall\'Italia non c\'è un treno diretto comodo, quindi si arriva quasi sempre in aereo.',
+      'L\'Aeroporto Humberto Delgado (LIS) è a circa 7 km dal centro: con la metro (linea rossa) si arriva in circa 20-25 minuti, oppure ci sono autobus, taxi e app di ride-hailing. Dall\'Italia non c\'è un treno diretto comodo, quindi si arriva quasi sempre in aereo. La corsa in metro costa circa 1,90 € più 0,50 € per la carta Navegante ocasional, che si compra alle macchinette della stazione; il taxi a tassametro costa circa 12-20 € con i bagagli, Uber e Bolt circa 10-15 €.',
     comeSpostarsi: 'Le salite sono tante, e per questo ci sono i tram storici, le funicolari (elevadores) e l\'Elevador de Santa Justa. Metro, autobus e treni suburbani si pagano con la carta contactless Viva Viagem/Navegante. Il centro si gira bene anche a piedi, con un po\' di fiato in più per le colline.',
     periodoMigliore: 'aprile-maggio e settembre-ottobre per il clima mite e meno folla; giugno-agosto è alta stagione, calda e molto affollata, soprattutto sul tram 28 e a Sintra; novembre-marzo è mite ma piovoso',
-    costi: 'città ancora abbastanza economica per l\'Europa occidentale, anche se i prezzi salgono: pranzo semplice 10-12€, cena normale 15-20€ a testa, biglietto di tram o autobus circa 2€',
+    costi:
+      'città ancora abbastanza economica per l\'Europa occidentale, anche se i prezzi salgono: pranzo semplice 10-12€, cena normale 15-20€ a testa, biglietto di tram o autobus circa 2€. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 60-80 €, medio 110-150 €, alto oltre 220 €.',
     erroriDaEvitare: [
       'Salire sul tram 28 nelle ore centrali sperando in un posto e in un po\' di tranquillità: è tra i mezzi pubblici più affollati d\'Europa e tra i preferiti dai borseggiatori',
       'Organizzare un giro a piedi come se Lisbona fosse in pianura',
@@ -86,6 +87,10 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Si sale a piedi dalla Baixa per Rua da Madalena o con il tram 28. Il castello ha un ingresso da Largo do Chão da Feira, con una salita ripida.",
         "quando": "Al mattino presto per il castello, al tramonto per le terrazze. Di sera i locali di fado si riempiono dopo le 20.",
         "tempo": "mezza giornata",
+        "costo": "castello circa 17 € (2026); Alfama gratuita",
+        "orari": "Castello tutti i giorni dalle 9; chiusura alle 21 da marzo a ottobre e alle 18 d'inverno.",
+        "lat": 38.7139,
+        "lng": -9.1335,
         "url": "https://www.castelodesaojorge.pt/",
         "consiglio": "Perdersi nei vicoli senza mappa e scendere a piedi: la salita è la parte dura, la discesa è facile."
       },
@@ -95,8 +100,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Dal centro con il tram 15 o con il treno da Cais do Sodré fino a Belém. Il biglietto serve per il chiostro; la chiesa ha orari propri.",
         "quando": "Chiostro da martedì a domenica 9:30-17:30, ultimo ingresso alle 17. Chiuso il lunedì, il 1 gennaio, la domenica di Pasqua, il 1 maggio, il 13 giugno e il 25 dicembre. Arrivare all'apertura: in tarda mattinata la fila si allunga.",
         "tempo": "1 ora e mezza",
-        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
         "costo": "Chiostro 18 €, 2026 (sito ufficiale)",
+        "orari": "Martedì-domenica 9:30-17:30. Chiuso il lunedì.",
+        "lat": 38.6979,
+        "lng": -9.2068,
+        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
         "consiglio": "Comprare il biglietto sulla biglietteria online ufficiale per non fare la coda alla cassa. La chiesa ha un ingresso separato dal chiostro e merita anche da sola, per la tomba di Vasco da Gama."
       },
       {
@@ -105,8 +113,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "A piedi dai Jerónimos lungo il fiume. Il tram 15 e il treno fermano nelle vicinanze.",
         "quando": "Da martedì a domenica 9:30-17:30; chiusa il lunedì e negli stessi festivi dei Jerónimos. Può chiudere quando il meteo rende la visita poco sicura. Il tramonto la illumina bene da fuori.",
         "tempo": "45 minuti dentro, più la passeggiata",
-        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
         "costo": "15 €, 2026 (sito ufficiale)",
+        "orari": "Martedì-domenica 9:30-17:30. Chiusa il lunedì.",
+        "lat": 38.6916,
+        "lng": -9.216,
+        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
         "consiglio": "Per una foto dalla riva, il lungofiume vicino al Padrão dos Descobrimentos è meglio dell'interno."
       },
       {
@@ -115,6 +126,9 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "A pochi passi dai Jerónimos. Fermate del tram 15 e del treno vicine.",
         "quando": "Aperta tutti i giorni; orari sul sito ufficiale. La fila fuori scorre in fretta perché c'è un banco per l'asporto.",
         "tempo": "mezz'ora",
+        "costo": "circa 1,50 € a pastel (2026)",
+        "lat": 38.6975,
+        "lng": -9.2032,
         "url": "https://pasteisdebelem.pt/",
         "consiglio": "Entrare nelle sale interne invece di restare in coda al banco: spesso c'è posto."
       },
@@ -124,6 +138,9 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "A piedi dalla metro Baixa-Chiado o Terreiro do Paço. L'ascensore è gestito da Carris, con biglietto a parte.",
         "quando": "Mattina per la piazza senza folla. Il belvedere dell'ascensore si riempie nelle ore centrali.",
         "tempo": "mezza giornata",
+        "costo": "gratuito; Arco da Rua Augusta a pagamento",
+        "lat": 38.7075,
+        "lng": -9.1364,
         "url": "https://www.carris.pt/",
         "consiglio": "Per la vista dall'alto, il Miradouro di Santa Luzia o la terrazza dell'Arco evita la coda dell'ascensore."
       },
@@ -133,6 +150,9 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Il tram parte da Martim Moniz o da Campo de Ourique. Si paga con la carta ricaricabile dei trasporti o con il biglietto a bordo, che costa di più.",
         "quando": "Presto la mattina o in serata: nelle ore centrali è pieno. I miradouros al tramonto.",
         "tempo": "2 ore per il giro",
+        "costo": "corsa circa 3 € a bordo, meno con la carta Navegante; miradouros gratuiti",
+        "lat": 38.7118,
+        "lng": -9.1301,
         "url": "https://www.carris.pt/",
         "consiglio": "Salire al capolinea per avere un posto a sedere."
       },
@@ -142,6 +162,9 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "LX Factory: tram 15 o bus dal centro. Time Out Market: metro Cais do Sodré, a piedi dalla Baixa.",
         "quando": "LX Factory nel pomeriggio e la domenica con il mercato. Il Time Out Market a pranzo, ma è affollato.",
         "tempo": "2 ore",
+        "costo": "ingresso libero",
+        "lat": 38.7034,
+        "lng": -9.1786,
         "consiglio": "A cena il quartiere di Cais do Sodré, con la Pink Street, è più animato che al Time Out Market."
       },
       {
@@ -150,33 +173,111 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Metro rossa fino a Oriente, poi un breve tratto a piedi. Dall'aeroporto è sulla stessa linea.",
         "quando": "Mattina, con meno scolaresche. Utile nei giorni di pioggia.",
         "tempo": "2-3 ore",
+        "lat": 38.7636,
+        "lng": -9.0938,
         "url": "https://www.oceanario.pt/",
         "consiglio": "Prenotare online per saltare la fila alla cassa."
+      },
+      {
+        "nome": "Sé de Lisboa",
+        "testo": "La cattedrale romanica del XII secolo, con l'aspetto di una fortezza, sopravvissuta al terremoto del 1755. Nel chiostro gli scavi mostrano strati romani, arabi e medievali.",
+        "come": "A metà salita tra Baixa e Alfama; il tram 28 e il 12 passano davanti.",
+        "quando": "Salendo verso il castello al mattino.",
+        "tempo": "30-45 minuti",
+        "costo": "chiesa a pagamento per i turisti, chiostro e tesoro inclusi",
+        "orari": "Chiusa la domenica alle visite turistiche.",
+        "lat": 38.7099,
+        "lng": -9.1335
+      },
+      {
+        "nome": "Elevador de Santa Justa",
+        "testo": "L'ascensore in ferro neogotico del 1902 che collega la Baixa al Largo do Carmo. Dalla piattaforma in cima si vede il castello, la Baixa e il fiume.",
+        "come": "Dalla Rua do Ouro, in Baixa. In alternativa si sale a piedi dal Chiado e si accede alla terrazza dall'alto, senza fare la coda dell'ascensore.",
+        "quando": "All'apertura o la sera; nelle ore centrali la coda è lunga.",
+        "tempo": "30 minuti più la coda",
+        "costo": "circa 6 € (6,20 € a bordo, fino a due corse con accesso al belvedere, 2026), incluso nella Lisboa Card",
+        "lat": 38.7121,
+        "lng": -9.1394,
+        "url": "https://www.carris.pt/"
+      },
+      {
+        "nome": "Bairro Alto e Príncipe Real",
+        "testo": "Il Bairro Alto è una griglia di vicoli con bar minuscoli e case di fado, che la sera si riempie di gente in strada. Più su, Príncipe Real ha giardini, palazzi ottocenteschi e il miradouro di São Pedro de Alcântara.",
+        "come": "Dal Chiado a piedi o con l'Elevador da Glória da Restauradores.",
+        "quando": "Il pomeriggio per Príncipe Real, la sera dopo le 22 per il Bairro Alto.",
+        "tempo": "2-3 ore",
+        "costo": "gratuito",
+        "lat": 38.7166,
+        "lng": -9.1489
+      },
+      {
+        "nome": "Museu Nacional do Azulejo",
+        "testo": "Cinque secoli di piastrelle portoghesi nel convento della Madre de Deus, con una chiesa barocca tutta d'oro e un panorama di Lisbona in azulejos lungo 23 metri, prima del terremoto.",
+        "come": "A est dell'Alfama, fuori dai percorsi: bus 759 o 794 da Praça do Comércio, o taxi.",
+        "quando": "Una mattina feriale, con poca gente.",
+        "tempo": "1h30",
+        "orari": "Chiuso il lunedì.",
+        "lat": 38.7247,
+        "lng": -9.1135,
+        "url": "https://www.museudoazulejo.gov.pt/"
+      },
+      {
+        "nome": "Museu Calouste Gulbenkian",
+        "testo": "La collezione di un magnate del petrolio, dall'Egitto antico ai tappeti persiani, da Rembrandt ai gioielli di Lalique, in un edificio modernista dentro un giardino. Accanto c'è il Centro de Arte Moderna.",
+        "come": "Metro São Sebastião o Praça de Espanha.",
+        "quando": "In un giorno di pioggia, o la domenica pomeriggio.",
+        "tempo": "2 ore",
+        "costo": "circa 16 € il museo, 18 € con CAM e mostre (2026)",
+        "orari": "10-18, sabato fino alle 21. Chiuso il martedì.",
+        "lat": 38.7375,
+        "lng": -9.1545,
+        "url": "https://gulbenkian.pt/museu/"
+      },
+      {
+        "nome": "Padrão dos Descobrimentos e MAAT",
+        "testo": "Il monumento alle scoperte sul Tago, con Enrico il Navigatore a prua e la rosa dei venti sulla piazza, e poco più a est il MAAT, il museo d'arte e architettura con il tetto percorribile sul fiume.",
+        "come": "A Belém, a piedi dai Jerónimos attraversando il sottopasso; tram 15 o treno da Cais do Sodré.",
+        "quando": "Al tramonto, con la luce sul fiume e sul ponte 25 de Abril.",
+        "tempo": "1 ora",
+        "costo": "piazza e tetto del MAAT gratuiti; terrazza del Padrão e mostre a pagamento",
+        "lat": 38.6936,
+        "lng": -9.2058
+      },
+      {
+        "nome": "Feira da Ladra e Panteão Nacional",
+        "testo": "Il mercato delle pulci di Campo de Santa Clara, con oggetti vecchi, azulejos e cianfrusaglie, sotto la cupola bianca del Panteão Nacional, dove è sepolta Amália Rodrigues. Dalla terrazza del Panteão si vede il Tago.",
+        "come": "Tram 28 fino a Voz do Operário, poi a piedi.",
+        "quando": "Il martedì o il sabato mattina, i giorni del mercato.",
+        "tempo": "1-2 ore",
+        "costo": "mercato gratuito; Panteão a pagamento",
+        "orari": "Mercato il martedì e il sabato, dalla mattina al primo pomeriggio; Panteão chiuso il lunedì.",
+        "lat": 38.715,
+        "lng": -9.125
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: Alfama e castello",
-          "Pranzo in Baixa",
-          "Pomeriggio: Belém, Jerónimos e pastel de nata",
-          "Tramonto a un miradouro"
+          "Mattina: Alfama, Sé e Castelo de São Jorge all'apertura",
+          "Miradouro de Santa Luzia e discesa in Baixa per pranzo",
+          "Pomeriggio: Belém, Jerónimos, Torre de Belém e pastel de nata",
+          "Tramonto al Padrão dos Descobrimentos o a un miradouro, sera al Bairro Alto"
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Belém, Baixa e Chiado, fado la sera",
-          "Giorno 2: Alfama, tram 28 e miradouros, LX Factory"
+          "Giorno 1: Alfama, castello, tram 28, Baixa e Chiado, fado la sera",
+          "Giorno 2: Belém con Jerónimos, Torre e MAAT, poi LX Factory e Cais do Sodré; tramonto a São Pedro de Alcântara"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: Alfama e Baixa",
-          "Giorno 2: Belém e LX Factory",
-          "Giorno 3: gita a Sintra, rientro per cena"
+          "Giorno 1: Alfama, castello, Sé e Feira da Ladra (martedì o sabato), Baixa",
+          "Giorno 2: Belém e LX Factory, sera al Bairro Alto",
+          "Giorno 3: gita a Sintra, rientro per cena; in alternativa Gulbenkian, Museu do Azulejo e Parque das Nações"
         ]
       }
     ],
@@ -184,17 +285,46 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Baixa e Chiado",
         "perChi": "chi vuole comodità",
-        "testo": "Centrale, in piano e vicina a metro e treni. Rumorosa la sera e cara. Pochi locali di quartiere."
+        "testo": "Centrale, in piano e vicina a metro e treni. Rumorosa la sera e cara. Pochi locali di quartiere.",
+        "fascia": "130-250 €"
       },
       {
         "nome": "Alfama e Graça",
         "perChi": "chi cerca atmosfera",
-        "testo": "Vicoli, fado, belvedere. Salite e scale, taxi difficili, notti con musica alta."
+        "testo": "Vicoli, fado, belvedere. Salite e scale, taxi difficili, notti con musica alta.",
+        "fascia": "100-180 €"
       },
       {
         "nome": "Príncipe Real, Estrela e Campo de Ourique",
         "perChi": "chi cerca quartieri residenziali",
-        "testo": "Più tranquilli, con giardini e bei negozi. Più lontani dal fiume."
+        "testo": "Più tranquilli, con giardini e bei negozi. Più lontani dal fiume.",
+        "fascia": "120-220 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Sintra",
+        "distanza": "40 minuti in treno",
+        "come": "Treno dalla stazione del Rossio con la carta Navegante, poi bus 434 per Pena e il Castelo dos Mouros.",
+        "testo": "Palácio da Pena, Quinta da Regaleira e Castelo dos Mouros tra i boschi della serra. Pena e Regaleira vanno prenotati online con fascia oraria."
+      },
+      {
+        "nome": "Cascais e la costa di Estoril",
+        "distanza": "40 minuti in treno",
+        "come": "Treno da Cais do Sodré lungo il mare, ogni 20 minuti circa.",
+        "testo": "La cittadina di pescatori diventata località di villeggiatura, con spiagge, il centro storico e la Boca do Inferno. In bici si arriva alla spiaggia del Guincho."
+      },
+      {
+        "nome": "Setúbal e Arrábida",
+        "distanza": "50 km, 45 minuti in auto",
+        "come": "In auto o con i bus da Sete Rios; per le spiagge della serra l'auto è quasi indispensabile.",
+        "testo": "Il parco naturale dell'Arrábida, con calette di acqua turchese sotto la montagna, e Setúbal per il choco frito. Da qui partono le uscite in barca per vedere i delfini del Sado."
+      },
+      {
+        "nome": "Óbidos",
+        "distanza": "85 km, 1 ora in bus",
+        "come": "Bus diretti da Campo Grande.",
+        "testo": "Un borgo bianco e giallo dentro le mura medievali, che si percorrono a piedi, con la ginjinha servita in bicchierini di cioccolato."
       }
     ],
     sapori: [
@@ -226,6 +356,32 @@ export const destinazioniPortogallo: Destinazione[] = [
       "Tuk-tuk e taxi fuori dalle zone turistiche: concordare il prezzo prima, o usare le app.",
       "Tassa di soggiorno comunale a notte, pagata in hotel e soggetta a variazioni (verificare l'importo attuale).",
       "Scioperi di metro, treni e Carris, avvisati in anticipo: controllare le notizie nei giorni di spostamento."
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Lisbona?",
+        "risposta": "Tre giorni: uno per Alfama e la Baixa, uno per Belém, uno per Sintra. Con quattro o cinque si aggiungono Cascais, i musei e una sera di fado senza fretta."
+      },
+      {
+        "domanda": "Conviene la Lisboa Card?",
+        "risposta": "Conviene se si concentrano in pochi giorni Jerónimos, Torre de Belém, Santa Justa e molti trasporti, compreso il treno per Sintra. Per chi gira a piedi e vede pochi musei basta la carta Navegante ricaricabile."
+      },
+      {
+        "domanda": "Come evitare la coda del tram 28?",
+        "risposta": "Salire presto al mattino o in serata, oppure prenderlo da una fermata intermedia invece che dal capolinea di Martim Moniz. È anche il mezzo preferito dei borseggiatori."
+      },
+      {
+        "domanda": "Si può fare Sintra in giornata da Lisbona?",
+        "risposta": "Sì, con il treno dal Rossio in 40 minuti, partendo presto: due palazzi con calma, tre di corsa. Pena e Regaleira vanno prenotati online."
+      },
+      {
+        "domanda": "Dove dormire a Lisbona?",
+        "risposta": "Baixa e Chiado per la comodità, Alfama e Graça per l'atmosfera, Príncipe Real ed Estrela per la calma. Una doppia costa circa 100-250 €; le salite e i sampietrini rendono utile stare vicino a una metro."
+      },
+      {
+        "domanda": "Come si va dall'aeroporto al centro di Lisbona?",
+        "risposta": "Con la metro, linea rossa, in 20-25 minuti per circa 1,90 € più 0,50 € della carta. Taxi circa 12-20 € con il tassametro acceso, Uber e Bolt circa 10-15 €."
+      }
     ],
     esperienzeSlugs: ['tram-28-alfama', 'pasteis-de-belem'],
     tripSlugs: ['lisbona-weekend'],

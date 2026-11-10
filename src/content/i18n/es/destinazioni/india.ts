@@ -32,11 +32,12 @@ export const destinazioniIndia: Destinazione[] = [
     doveMangiare:
       'Parathe en Paranthe Wali Gali, kebab alrededor de la Jama Masjid, chaat en Chandni Chowk, cocina punjabí por toda la ciudad.',
     comeArrivare:
-      'Aeropuerto internacional Indira Gandhi, conectado con el centro por el metro Airport Express (unos 20 minutos hasta Nueva Delhi) o con taxi de prepago y Uber.',
+      "El aeropuerto internacional Indira Gandhi está a unos 15 km del centro. Desde la Terminal 3 el metro Airport Express llega a la estación de Nueva Delhi en unos 20 minutos, por unas 60-65 rupias, más o menos de 5 a 23.30. Si no, el taxi de prepago del mostrador oficial dentro de llegadas, Uber u Ola: 45-60 minutos según el tráfico. En tren se llega a New Delhi, Hazrat Nizamuddin u Old Delhi, todas con metro.",
     comeSpostarsi: 'Metro (con vagón reservado a las mujeres), Uber, Ola y tuk-tuk a precio acordado.',
     periodoMigliore:
       'octubre-noviembre y febrero-marzo. Entre noviembre y enero la contaminación del aire suele ser muy alta; de abril a junio el calor supera los 40 °C.',
-    costi: 'Monumentos ASI unas 550-600 rupias para los extranjeros; metro unas pocas decenas de rupias por viaje.',
+    costi:
+      "Presupuesto diario por persona en doble: 40-60 € en guesthouse y metro, 90-140 € en hoteles de gama media con algún Uber y una guía, desde 250 € en hoteles de lujo con conductor. Monumentos ASI unas 600 rupias (6 €) para los extranjeros, 300 los menores; metro unas decenas de rupias por trayecto.",
     erroriDaEvitare: [
       'Subir a taxis no oficiales en el aeropuerto o creer a quien dice que el hotel está cerrado',
       'Entrar en las falsas oficinas de turismo cerca de la estación de Nueva Delhi y de Connaught Place',
@@ -49,9 +50,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Metro hasta JLN Stadium o Hazrat Nizamuddin y luego un tramo corto en tuk-tuk. Se visita por libre: los paneles lo explican bien y no hace falta guía.",
         quando: "Horarios en la web del ASI. Última hora de la tarde, con la mejor luz sobre la arenisca.",
         tempo: "1 hora y media-2 horas",
-        costo: "unas 600 rupias para los extranjeros, 550 online (tarifa ASI, 2026)",
+        costo: "unas 600 rupias (6 €) para los extranjeros, 550 online (tarifa ASI, 2026)",
         url: "https://asi.nic.in/",
-        consiglio: "Verla antes del Taj Mahal: se reconocen la planta, la cúpula doble y el jardín que en Agra serán perfectos."
+        consiglio: "Verla antes del Taj Mahal: se reconocen la planta, la cúpula doble y el jardín que en Agra serán perfectos.",
+        lat: 28.5933,
+        lng: 77.2507,
+        orari: "Todos los días del amanecer al atardecer (Delhi Tourism)."
       },
       {
         nome: "Qutb Minar y la columna de hierro",
@@ -59,9 +63,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Metro amarillo hasta Qutub Minar y luego un trayecto corto en tuk-tuk. A la torre no se sube: está cerrada al público desde 1981.",
         quando: "Horarios en la web del ASI. Mejor a primera hora, antes de los grupos y del calor.",
         tempo: "1 hora y media",
-        costo: "unas 600 rupias para los extranjeros, 550 online (tarifa ASI, 2026)",
+        costo: "unas 600 rupias (6 €) para los extranjeros, 550 online (tarifa ASI, 2026)",
         url: "https://asi.nic.in/",
-        consiglio: "Combina bien con el barrio de Mehrauli, a pie, con las tumbas y los pozos repartidos por el parque arqueológico."
+        consiglio: "Combina bien con el barrio de Mehrauli, a pie, con las tumbas y los pozos repartidos por el parque arqueológico.",
+        lat: 28.5245,
+        lng: 77.1855,
+        orari: "Todos los días del amanecer a las 20 (Delhi Tourism)."
       },
       {
         nome: "Fuerte Rojo",
@@ -69,9 +76,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Metro morado hasta Lal Quila. Entrada por la Lahori Gate tras los controles de seguridad.",
         quando: "Desde febrero de 2026 abre todos los días, lunes incluido, del amanecer a las 21. A primera hora, para evitar la multitud del domingo.",
         tempo: "2 horas",
-        costo: "600 rupias para los extranjeros, 550 online (tarifa del ASI, 2026)",
+        costo: "600 rupias (unos 6 €) para los extranjeros, 550 online (tarifa del ASI, 2026)",
         url: "https://asi.nic.in/",
-        consiglio: "Si vais justos de tiempo, mejor la Tumba de Humayún: el fuerte es grande, pero más desnudo de lo que uno espera."
+        consiglio: "Si vais justos de tiempo, mejor la Tumba de Humayún: el fuerte es grande, pero más desnudo de lo que uno espera.",
+        lat: 28.6562,
+        lng: 77.241,
+        orari: "Todos los días del amanecer a las 21, lunes incluido (desde febrero de 2026)."
       },
       {
         nome: "Jama Masjid",
@@ -80,7 +90,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Cerrada a los visitantes durante las oraciones, y el viernes a mediodía está abarrotada. Por la mañana o a media tarde.",
         tempo: "45 minutos",
         costo: "entrada libre; se paga por el móvil o la cámara y por subir al minarete",
-        consiglio: "Fijar las tarifas en la puerta y no dar dinero a quien se ofrece a «vigilar» los zapatos dentro del patio."
+        consiglio: "Fijar las tarifas en la puerta y no dar dinero a quien se ofrece a «vigilar» los zapatos dentro del patio.",
+        lat: 28.6507,
+        lng: 77.2334,
+        orari: "Abierta a los visitantes de día, hasta el atardecer; cerrada durante las oraciones."
       },
       {
         nome: "Chandni Chowk y el mercado de especias de Khari Baoli",
@@ -88,7 +101,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Metro amarillo hasta Chandni Chowk. Lo mejor es recorrerlo en ciclo-rickshaw a precio acordado antes y luego a pie.",
         quando: "Desde media mañana, cuando las tiendas están abiertas.",
         tempo: "medio día",
-        consiglio: "Entrar en el Gadodia Market, el edificio de los años veinte donde trabajan los mayoristas de especias: es el corazón del mercado."
+        consiglio: "Entrar en el Gadodia Market, el edificio de los años veinte donde trabajan los mayoristas de especias: es el corazón del mercado.",
+        lat: 28.6562,
+        lng: 77.23,
+        orari: "Tiendas abiertas más o menos de las 10 a la noche; el domingo muchas cierran."
       },
       {
         nome: "Gurudwara Bangla Sahib",
@@ -97,7 +113,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Abierto todos los días. Por la noche, con las luces y los cantos, impresiona más.",
         tempo: "1 hora",
         costo: "gratis",
-        consiglio: "Sentarse en el suelo del langar con todos los demás y, si apetece, echar una mano en la cocina."
+        consiglio: "Sentarse en el suelo del langar con todos los demás y, si apetece, echar una mano en la cocina.",
+        lat: 28.6264,
+        lng: 77.2091,
+        orari: "Abierto día y noche, todos los días; el langar sirve comidas durante toda la jornada."
       },
       {
         nome: "Dargah de Nizamuddin y los qawwali",
@@ -106,7 +125,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Cada noche después de la oración del atardecer; el jueves es la noche más intensa y concurrida.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Las ofrendas son voluntarias: dejad solo lo que queráis, aunque alguien insista."
+        consiglio: "Las ofrendas son voluntarias: dejad solo lo que queráis, aunque alguien insista.",
+        lat: 28.5913,
+        lng: 77.2419
       },
       {
         nome: "India Gate, Kartavya Path y los Lodhi Gardens",
@@ -115,7 +136,68 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Los Lodhi Gardens al amanecer, cuando Delhi sale a correr y hace yoga. India Gate al atardecer, cuando se ilumina.",
         tempo: "2 horas",
         costo: "gratis",
-        consiglio: "Terminar en los Lodhi Gardens con un café en Khan Market: es el rincón más tranquilo de la ciudad."
+        consiglio: "Terminar en los Lodhi Gardens con un café en Khan Market: es el rincón más tranquilo de la ciudad.",
+        lat: 28.6129,
+        lng: 77.2295
+      },
+      {
+        nome: "Purana Qila",
+        testo: "El «fuerte viejo», con murallas del siglo XVI levantadas por Humayún y Sher Shah Suri, en un lugar habitado desde hace al menos tres mil años. Dentro están la mezquita Qila-i-Kuhna y el Sher Mandal, la torrecilla donde, según se cuenta, Humayún cayó por las escaleras. Está mucho menos concurrido que el Fuerte Rojo.",
+        come: "Metro azul hasta Supreme Court (antes Pragati Maidan) y luego 10 minutos a pie. Se visita por libre.",
+        quando: "Por la tarde, junto con la Tumba de Humayún, a 3 kilómetros.",
+        tempo: "1 hora",
+        costo: "300 rupias para los extranjeros, unos 3 € (Delhi Tourism, 2026)",
+        orari: "Todos los días; por la noche hay espectáculo de luz y sonido.",
+        lat: 28.6096,
+        lng: 77.2437,
+        url: "https://delhitourism.gov.in/tourist_place/purana_quila.html"
+      },
+      {
+        nome: "Tumba de Safdarjung",
+        testo: "El último gran jardín-mausoleo mogol de Delhi, terminado en 1754 para el primer ministro Safdarjung. Repite el esquema de la Tumba de Humayún, pero más vertical y decorado: se ve cómo cambia el estilo mogol en el último siglo del imperio.",
+        come: "Metro amarilla hasta Jor Bagh y luego 5 minutos a pie. Se visita por libre.",
+        quando: "Última hora de la tarde, antes de los Lodhi Gardens, a 10 minutos.",
+        tempo: "45 minutos",
+        costo: "300 rupias para los extranjeros, unos 3 € (Delhi Tourism, 2026)",
+        orari: "Todos los días del amanecer al atardecer.",
+        lat: 28.5894,
+        lng: 77.2106,
+        url: "https://delhitourism.gov.in/tourist_place/safdarjang_tomb.html"
+      },
+      {
+        nome: "Akshardham",
+        testo: "El gran templo hindú de la comunidad Swaminarayan, inaugurado en 2005 en la orilla este del Yamuna: arenisca rosa y mármol tallados hasta el último centímetro, con más de 20.000 estatuas. No es antiguo, pero impresiona por tamaño y trabajo.",
+        come: "Metro azul hasta Akshardham. Teléfonos, cámaras y aparatos electrónicos no entran: se dejan en la consigna gratuita antes de los controles.",
+        quando: "Última hora de la tarde, para quedarse al espectáculo de fuentes tras el atardecer.",
+        tempo: "2-3 horas",
+        costo: "entrada y templo gratuitos; exposiciones 260 rupias (unos 2,5 €), espectáculo de fuentes 110 rupias (akshardham.com, 2026)",
+        orari: "De martes a domingo, primera entrada a las 10 y última a las 18.30; cerrado los lunes.",
+        lat: 28.6127,
+        lng: 77.2773,
+        url: "https://akshardham.com/newdelhi/",
+        consiglio: "Sin teléfono es fácil perderse: fijad antes un punto de encuentro."
+      },
+      {
+        nome: "Templo del Loto",
+        testo: "La casa de oración bahá'í de 1986, con forma de flor de loto y 27 pétalos de mármol blanco. Dentro hay una sala silenciosa abierta a todas las religiones, sin imágenes ni sermones.",
+        come: "Metro violeta o magenta hasta Kalkaji Mandir y luego 10 minutos a pie. Zapatos en la consigna, silencio en la sala.",
+        quando: "Por la mañana, antes de que se forme la cola; bonito también al atardecer desde el jardín.",
+        tempo: "1 hora",
+        costo: "gratuito",
+        orari: "De martes a domingo, en invierno más o menos de 9 a 17.30; cerrado los lunes.",
+        lat: 28.5535,
+        lng: 77.2588,
+        url: "https://bahaihouseofworship.in/"
+      },
+      {
+        nome: "Agrasen ki Baoli",
+        testo: "Un pozo escalonado de unos 60 metros de largo, con 103 escalones que bajan entre arcadas de piedra, escondido entre edificios modernos cerca de Connaught Place. Sus orígenes son inciertos, pero su aspecto actual es de la época de los sultanes.",
+        come: "Metro azul hasta Barakhamba Road y luego 10 minutos a pie por Hailey Lane.",
+        quando: "A media mañana, cuando la luz llega a los escalones de abajo.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        lat: 28.6262,
+        lng: 77.225
       }
     ],
     programmi: [
@@ -137,28 +219,41 @@ export const destinazioniIndia: Destinazione[] = [
           "Lodhi Gardens y Gurudwara Bangla Sahib",
           "India Gate al atardecer, o por la noche el tren nocturno a Benarés, como hicimos nosotros"
         ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Vieja Delhi con la Jama Masjid, Chandni Chowk y el Fuerte Rojo",
+          "Día 2: Tumba de Humayún, Purana Qila y Nizamuddin para los qawwali",
+          "Día 3: Qutb Minar y Mehrauli por la mañana, Templo del Loto",
+          "Safdarjung, Lodhi Gardens y cena en Khan Market; o Akshardham por la noche (no los lunes)"
+        ]
       }
     ],
     zone: [
       {
         nome: "Connaught Place y Karol Bagh",
         perChi: "quien quiere comodidad y metro",
-        testo: "En el centro de la red de metro, cerca de la estación de Nueva Delhi. Hoteles de gama media y restaurantes por todas partes; Karol Bagh es más ruidosa y tiene más tráfico."
+        testo: "En el centro de la red de metro, cerca de la estación de Nueva Delhi. Hoteles de gama media y restaurantes por todas partes; Karol Bagh es más ruidosa y tiene más tráfico.",
+        fascia: "50-120 €"
       },
       {
         nome: "South Delhi (Hauz Khas, Defence Colony)",
         perChi: "quien busca calma",
-        testo: "Barrios residenciales y verdes, con guesthouses cuidadas y locales. Quedan más lejos de la Vieja Delhi, y con tráfico el trayecto en coche es largo."
+        testo: "Barrios residenciales y verdes, con guesthouses cuidadas y locales. Quedan más lejos de la Vieja Delhi, y con tráfico el trayecto en coche es largo.",
+        fascia: "40-100 €"
       },
       {
         nome: "Paharganj",
         perChi: "presupuesto ajustado",
-        testo: "Frente a la estación de Nueva Delhi, comodísima para los trenes. Barata pero caótica, sucia y llena de gancheros: sirve para una noche antes de un tren."
+        testo: "Frente a la estación de Nueva Delhi, comodísima para los trenes. Barata pero caótica, sucia y llena de gancheros: sirve para una noche antes de un tren.",
+        fascia: "15-40 €"
       },
       {
         nome: "Aerocity",
         perChi: "vuelos al amanecer o de madrugada",
-        testo: "Hoteles de cadena junto al aeropuerto, conectados por el metro Airport Express. Cómoda para llegar y salir, poco interesante para visitar la ciudad."
+        testo: "Hoteles de cadena junto al aeropuerto, conectados por el metro Airport Express. Cómoda para llegar y salir, poco interesante para visitar la ciudad.",
+        fascia: "70-150 €"
       }
     ],
     sapori: [
@@ -189,6 +284,52 @@ export const destinazioniIndia: Destinazione[] = [
       "En el aeropuerto y por la noche: solo taxis de prepago, Uber u Ola, o el traslado del hotel. No creáis a quien dice que el hotel está cerrado o lleno.",
       "No aceptéis comida ni bebida de desconocidos: el Foreign Office británico informa de robos tras bebidas drogadas.",
       "Entre noviembre y enero el aire suele ser pésimo: mirad el índice de calidad del aire y llevad una mascarilla FFP2."
+    ],
+    gite: [
+      {
+        nome: "Agra y el Taj Mahal",
+        distanza: "unas 2 horas en tren",
+        come: "Gatimaan Express o Vande Bharat de primera hora desde Hazrat Nizamuddin o New Delhi, vuelta por la noche; reserva en IRCTC.",
+        testo: "En el día se ven el Taj y el Fuerte de Agra, pero una noche en Agra permite el amanecer en el Taj, que merece la pena. El Taj cierra los viernes."
+      },
+      {
+        nome: "Mathura y Vrindavan",
+        distanza: "unos 160 km, 2 horas y media en coche",
+        come: "Coche con conductor por la Yamuna Expressway, o tren hasta Mathura Junction.",
+        testo: "La ciudad natal de Krishna y el pueblo donde habría pasado su infancia, con cientos de templos y cantos todo el día. Durante Holi es la fiesta más intensa de la India."
+      },
+      {
+        nome: "Parque Nacional de Sultanpur",
+        distanza: "unos 50 km, 1 hora y media en coche",
+        come: "Coche o Uber pasando Gurugram; se recorre a pie alrededor del lago.",
+        testo: "Un pequeño parque con un lago al que en invierno llegan miles de aves migratorias, entre ellas grullas y pelícanos. Media jornada de aire más limpio."
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Delhi?",
+        risposta: "Dos días bastan para la Vieja Delhi, la Tumba de Humayún y el Qutb Minar. Con tres se añaden Purana Qila, los Lodhi Gardens y Akshardham sin prisas."
+      },
+      {
+        domanda: "¿Es Delhi segura para los turistas?",
+        risposta: "De día, en las zonas turísticas y en metro, sí, con la atención normal. Los problemas más frecuentes son las estafas en el aeropuerto y alrededor de la estación de Nueva Delhi; por la noche conviene moverse con Uber o taxis de prepago."
+      },
+      {
+        domanda: "¿Cómo se llega del aeropuerto al centro?",
+        risposta: "Con el metro Airport Express desde la Terminal 3 se llega a Nueva Delhi en unos 20 minutos por unas 60-65 rupias. De noche, taxi de prepago del mostrador oficial o Uber."
+      },
+      {
+        domanda: "¿Cuál es la mejor época para visitar Delhi?",
+        risposta: "Octubre-noviembre y febrero-marzo. Entre noviembre y enero el aire suele estar muy contaminado y de abril a junio se superan los 40 °C."
+      },
+      {
+        domanda: "¿Dónde dormir en Delhi la primera vez?",
+        risposta: "Connaught Place o Karol Bagh para tener el metro al lado; South Delhi para la tranquilidad; Aerocity solo para vuelos al amanecer o de madrugada."
+      },
+      {
+        domanda: "¿Se puede ir al Taj Mahal en el día desde Delhi?",
+        risposta: "Sí, con el Gatimaan Express o el Vande Bharat en unas 2 horas, salvo los viernes, cuando el Taj cierra. Dormir una noche en Agra permite verlo al amanecer."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi', 'india-sud-taj-mahal'],
@@ -221,11 +362,11 @@ export const destinazioniIndia: Destinazione[] = [
     doveDormire: 'Taj Ganj y Fatehabad Road, a distancia de paseo de la puerta este del Taj.',
     doveMangiare: 'Cocina mughlai (biryani, korma, kebab) y el petha, el dulce de calabaza confitada de la ciudad.',
     comeArrivare:
-      'Desde Delhi en tren, con el Gatimaan Express en unas 2 horas (no circula los viernes; horarios en IRCTC), o en coche por la autopista Yamuna Expressway (3-4 horas).',
+      "Desde Delhi el tren es lo mejor: Gatimaan Express o Vande Bharat desde Hazrat Nizamuddin o New Delhi en 1 hora y 40 minutos-2 horas, 800-1.600 rupias según la clase, con reserva en IRCTC (el Gatimaan no circula los viernes). En coche por la Yamuna Expressway hacen falta 3-4 horas. Las estaciones son Agra Cantt y Agra Fort; desde allí al Taj, 15-20 minutos en tuk-tuk. Desde Jaipur, 5-6 horas en coche con parada en Fatehpur Sikri.",
     comeSpostarsi: 'Tuk-tuk eléctricos cerca del Taj (los coches de gasolina no pueden acercarse), coche con conductor para Fatehpur Sikri.',
     periodoMigliore: 'octubre-marzo; entre diciembre y enero la niebla puede cubrir el Taj al amanecer durante un par de horas.',
     costi:
-      'Taj Mahal unas 1.100 rupias para los extranjeros, más 200 por el interior del mausoleo; Fuerte de Agra unas 650; Fatehpur Sikri unas 600 (orientativo, octubre de 2026). Entrada gratuita por debajo de los 15 años.',
+      "Taj Mahal 1.100 rupias para los extranjeros (unos 11 €), más 200 para el interior del mausoleo; Fuerte de Agra 650; Fatehpur Sikri 610; tumbas y jardines menores 300-310 (tajmahal.gov.in, 2026; 50 rupias menos online, gratis para menores de 15). Presupuesto diario por persona en doble: 40-60 € con guesthouse en Taj Ganj, 90-140 € con hotel de gama media y guía, desde 250 € en hoteles de lujo con vista al Taj.",
     erroriDaEvitare: [
       'Llegar en viernes: el Taj Mahal está cerrado',
       'Llevar comida, trípodes o drones, que no entran, y bolsos grandes, que alargan los controles',
@@ -238,9 +379,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Se llega en tuk-tuk eléctrico o en carrito de golf desde los aparcamientos, porque los coches no pueden acercarse. Dos entradas principales, este y oeste; entrada online en el portal oficial y controles de seguridad en el acceso. Los guías autorizados llevan acreditación.",
         quando: "Desde media hora antes del amanecer hasta media hora antes del atardecer. Cerrado los viernes. Algunas noches en torno a la luna llena hay visita nocturna, en grupos pequeños y con reserva: fechas y normas en la web oficial.",
         tempo: "2-3 horas",
-        costo: "1.100 rupias para los extranjeros, más 200 para el interior del mausoleo; gratis para menores de 15 años (tajmahal.gov.in, 2026)",
+        costo: "1.100 rupias (unos 11 €) para los extranjeros, más 200 para el interior del mausoleo; gratis para menores de 15 años (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
-        consiglio: "Nosotros lo vimos dos veces, al atardecer y al amanecer del día siguiente, y cada entrada necesita su billete. En los controles hay colas: llevad lo mínimo imprescindible y, si podéis, nada de mochilas, para que todo vaya más rápido."
+        consiglio: "Nosotros lo vimos dos veces, al atardecer y al amanecer del día siguiente, y cada entrada necesita su billete. En los controles hay colas: llevad lo mínimo imprescindible y, si podéis, nada de mochilas, para que todo vaya más rápido.",
+        lat: 27.1751,
+        lng: 78.0421,
+        orari: "Desde media hora antes del amanecer hasta media hora antes del atardecer; cerrado los viernes."
       },
       {
         nome: "Fuerte de Agra",
@@ -248,9 +392,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Entrada por la Amar Singh Gate, a 2,5 kilómetros del Taj, en tuk-tuk. Un guía autorizado ayuda a entender quién construyó qué.",
         quando: "Todos los días del amanecer al atardecer. Bien por la mañana o a primera hora de la tarde, antes del Taj.",
         tempo: "2 horas",
-        costo: "650 rupias para los extranjeros, 600 el viernes (tajmahal.gov.in, 2026)",
+        costo: "650 rupias (unos 6,5 €) para los extranjeros, 600 el viernes (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
-        consiglio: "El viernes, con el Taj cerrado, es el día ideal para el fuerte: cuesta un poco menos."
+        consiglio: "El viernes, con el Taj cerrado, es el día ideal para el fuerte: cuesta un poco menos.",
+        lat: 27.1795,
+        lng: 78.0211,
+        orari: "Todos los días del amanecer al atardecer."
       },
       {
         nome: "Itimad-ud-Daulah",
@@ -258,9 +405,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En tuk-tuk desde el Fuerte cruzando el puente, unos 20 minutos. Se visita por libre.",
         quando: "Abierto también el viernes, con tarifa reducida; horarios en la web oficial. Poca gente a cualquier hora.",
         tempo: "45 minutos",
-        costo: "310 rupias para los extranjeros, 300 el viernes (tajmahal.gov.in, 2026)",
+        costo: "310 rupias (unos 3 €) para los extranjeros, 300 el viernes (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
-        consiglio: "Mirar de cerca las incrustaciones: es el taller donde se ensayaron las decoraciones del Taj."
+        consiglio: "Mirar de cerca las incrustaciones: es el taller donde se ensayaron las decoraciones del Taj.",
+        lat: 27.1929,
+        lng: 78.0311,
+        orari: "Todos los días del amanecer al atardecer."
       },
       {
         nome: "Mehtab Bagh",
@@ -268,9 +418,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En tuk-tuk desde Itimad-ud-Daulah, 15 minutos. El mirador sobre el río está al fondo del jardín.",
         quando: "Al atardecer, y también el viernes, cuando el Taj está cerrado.",
         tempo: "1 hora",
-        costo: "300 rupias para los extranjeros (tajmahal.gov.in, 2026)",
+        costo: "300 rupias (unos 3 €) para los extranjeros (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
-        consiglio: "Si vuestro día en Agra cae en viernes, el Taj se mira desde aquí."
+        consiglio: "Si vuestro día en Agra cae en viernes, el Taj se mira desde aquí.",
+        lat: 27.1797,
+        lng: 78.0425,
+        orari: "Todos los días del amanecer al atardecer."
       },
       {
         nome: "Fatehpur Sikri",
@@ -278,9 +431,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A unos 37 kilómetros, una hora en coche, en la carretera hacia Jaipur o Ranthambore. El complejo real tiene entrada de pago; en la mezquita se entra sin zapatos.",
         quando: "Abierto también el viernes, con tarifa reducida; horarios en la web oficial. Por la mañana, antes de que el patio de arenisca se caliente.",
         tempo: "2 horas",
-        costo: "610 rupias para los extranjeros, 600 el viernes (tajmahal.gov.in, 2026)",
+        costo: "610 rupias (unos 6 €) para los extranjeros, 600 el viernes (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
-        consiglio: "En el patio de la mezquita se acercan vendedores y falsos guías: decid que no enseguida y seguid adelante."
+        consiglio: "En el patio de la mezquita se acercan vendedores y falsos guías: decid que no enseguida y seguid adelante.",
+        lat: 27.094,
+        lng: 77.665,
+        orari: "Todos los días del amanecer al atardecer."
       },
       {
         nome: "Tumba de Akbar en Sikandra",
@@ -288,9 +444,76 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En coche o tuk-tuk hacia el norte, en la carretera a Delhi. Se visita por libre.",
         quando: "Abierta también el viernes, con tarifa reducida; horarios en la web oficial.",
         tempo: "1 hora",
-        costo: "310 rupias para los extranjeros, 300 el viernes (tajmahal.gov.in, 2026)",
+        costo: "310 rupias (unos 3 €) para los extranjeros, 300 el viernes (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
-        consiglio: "Una parada cómoda si llegáis de Delhi en coche, antes de entrar en la ciudad."
+        consiglio: "Una parada cómoda si llegáis de Delhi en coche, antes de entrar en la ciudad.",
+        lat: 27.2204,
+        lng: 77.9503,
+        orari: "Todos los días del amanecer al atardecer."
+      },
+      {
+        nome: "Museo del Taj",
+        testo: "Un pequeño museo dentro del recinto del Taj, en el pabellón del lado oeste del jardín. Expone miniaturas de Shah Jahan y Mumtaz Mahal, dibujos del mausoleo, caligrafías y platos de celadón que, según se decía, cambiaban de color al tocar el veneno.",
+        come: "Se entra con la entrada del Taj, sin suplemento.",
+        quando: "A mitad de la visita, cuando el sol está alto sobre el mármol.",
+        tempo: "30 minutos",
+        orari: "Cerrado los viernes, como el Taj.",
+        lat: 27.1738,
+        lng: 78.0408,
+        url: "https://www.tajmahal.gov.in/"
+      },
+      {
+        nome: "Jama Masjid de Agra",
+        testo: "La mezquita del viernes que Shah Jahan dedicó en 1648 a su hija Jahanara, frente al Fuerte, con cúpulas a rayas de arenisca roja y mármol blanco. Es el corazón de la ciudad vieja y de sus mercados.",
+        come: "En tuk-tuk desde el Fuerte, 5 minutos. Sin zapatos, hombros y piernas cubiertos.",
+        quando: "Fuera de las horas de oración, nunca el viernes a mediodía.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        lat: 27.1823,
+        lng: 78.0151
+      },
+      {
+        nome: "Kinari Bazar",
+        testo: "El mercado de la ciudad vieja detrás de la Jama Masjid: cintas doradas para bodas, saris, especias, dulces y petha. Es la Agra de quien vive allí, lejos de las tiendas de mármol para turistas.",
+        come: "A pie desde la Jama Masjid; mejor en ciclo-rickshaw a precio fijado antes.",
+        quando: "A última hora de la tarde, cuando el mercado está más vivo.",
+        tempo: "1-2 horas",
+        lat: 27.184,
+        lng: 78.015
+      },
+      {
+        nome: "Chini ka Rauza",
+        testo: "La tumba del poeta y ministro persa Afzal Khan, muerto en 1639, en la orilla este del Yamuna. Estaba revestida de azulejos esmaltados de estilo persa, de los que quedan fragmentos azules, verdes y amarillos: un caso único en Agra.",
+        come: "En tuk-tuk, a un kilómetro al norte del Itimad-ud-Daulah, en la misma carretera.",
+        quando: "Junto con el Itimad-ud-Daulah y Mehtab Bagh.",
+        tempo: "20 minutos",
+        costo: "entrada libre",
+        lat: 27.1965,
+        lng: 78.033
+      },
+      {
+        nome: "Ram Bagh",
+        testo: "Considerado el jardín mogol más antiguo de la India, ligado a Babur, fundador de la dinastía, en la década de 1520. Hoy es un jardín en terrazas con canales y pabellones, poco cuidado pero casi siempre vacío.",
+        come: "En tuk-tuk por la orilla este, después de Chini ka Rauza.",
+        quando: "Por la mañana o a última hora de la tarde.",
+        tempo: "30 minutos",
+        costo: "300 rupias para los extranjeros, unos 3 € (tajmahal.gov.in, 2026)",
+        orari: "Todos los días del amanecer al atardecer.",
+        lat: 27.2035,
+        lng: 78.0382,
+        url: "https://www.tajmahal.gov.in/"
+      },
+      {
+        nome: "Tumba de Mariam-uz-Zamani",
+        testo: "La tumba de la esposa rajput de Akbar y madre de Jahangir, en Sikandra, a un kilómetro de la de su marido. Es un edificio sobrio de arenisca, nacido como pabellón de jardín y convertido en mausoleo en 1623.",
+        come: "En coche o tuk-tuk desde la Tumba de Akbar.",
+        quando: "Junto con Sikandra, llegando desde Delhi.",
+        tempo: "30 minutos",
+        costo: "300 rupias para los extranjeros, unos 3 € (tajmahal.gov.in, 2026)",
+        orari: "Todos los días del amanecer al atardecer.",
+        lat: 27.2253,
+        lng: 77.9531,
+        url: "https://www.tajmahal.gov.in/"
       }
     ],
     programmi: [
@@ -311,18 +534,34 @@ export const destinazioniIndia: Destinazione[] = [
           "Desayuno y salida con parada en Fatehpur Sikri",
           "Si uno de los dos días es viernes: Mehtab Bagh en lugar del Taj"
         ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Fuerte de Agra, Jama Masjid y Kinari Bazar, Taj Mahal al atardecer",
+          "Día 2: Taj Mahal al amanecer con el museo, luego la orilla este: Itimad-ud-Daulah, Chini ka Rauza, Ram Bagh y Mehtab Bagh al atardecer",
+          "Día 3: Sikandra y la tumba de Mariam, luego Fatehpur Sikri camino de Jaipur"
+        ]
       }
     ],
     zone: [
       {
         nome: "Taj Ganj",
         perChi: "quien quiere ir al Taj a pie",
-        testo: "Los callejones al sur del Taj, a 5-10 minutos de las puertas: guesthouses baratas y terrazas con vistas a la cúpula. Ruidoso, estrecho y lleno de gancheros."
+        testo: "Los callejones al sur del Taj, a 5-10 minutos de las puertas: guesthouses baratas y terrazas con vistas a la cúpula. Ruidoso, estrecho y lleno de gancheros.",
+        fascia: "15-50 €"
       },
       {
         nome: "Fatehabad Road",
         perChi: "gama media y alta",
-        testo: "La avenida de los hoteles de cadena y de lujo, a 1-2 kilómetros de la entrada este. Más tranquila y ordenada, pero hace falta un tuk-tuk para todo."
+        testo: "La avenida de los hoteles de cadena y de lujo, a 1-2 kilómetros de la entrada este. Más tranquila y ordenada, pero hace falta un tuk-tuk para todo.",
+        fascia: "50-150 €"
+      },
+      {
+        nome: "Sadar Bazar y Agra Cantt",
+        perChi: "quien llega y se va en tren",
+        testo: "El barrio del Cantonment, cerca de la estación Agra Cantt, con hoteles de gama media, tiendas y restaurantes. A 15-20 minutos en tuk-tuk del Taj, más ordenado que Taj Ganj.",
+        fascia: "30-80 €"
       }
     ],
     sapori: [
@@ -349,6 +588,42 @@ export const destinazioniIndia: Destinazione[] = [
       "Las tiendas de mármol con incrustaciones a las que os lleva el conductor o el tuk-tuk le pagan comisión: los precios suben en consecuencia.",
       "La comida, los drones y los trípodes sin permiso no entran en el Taj; los bolsos grandes y los libros alargan los controles.",
       "Entre diciembre y enero la niebla puede tapar el Taj al amanecer durante un par de horas."
+    ],
+    gite: [
+      {
+        nome: "Fatehpur Sikri y Bharatpur",
+        distanza: "37 km hasta Fatehpur Sikri, otros 20 hasta Bharatpur",
+        come: "Coche con conductor para el día, o saliendo hacia Jaipur.",
+        testo: "La ciudad fantasma de Akbar por la mañana y, en invierno, el parque nacional de Keoladeo en Bharatpur, un humedal patrimonio de la UNESCO lleno de aves, que se recorre en bicicleta o rickshaw."
+      },
+      {
+        nome: "Mathura y Vrindavan",
+        distanza: "unos 60 km, 1 hora y media en coche",
+        come: "Coche con conductor, o tren hasta Mathura Junction y luego tuk-tuk.",
+        testo: "Los lugares de Krishna, con templos abiertos desde el amanecer y cantos continuos. También sirve de parada entre Delhi y Agra."
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿El Taj Mahal cierra los viernes?",
+        risposta: "Sí, todos los viernes. Los demás monumentos de Agra siguen abiertos, con tarifa reducida, y el Taj se puede ver desde el jardín de Mehtab Bagh, en la otra orilla."
+      },
+      {
+        domanda: "¿Mejor el Taj Mahal al amanecer o al atardecer?",
+        risposta: "Al amanecer hay menos gente y el mármol pasa del gris al rosa; al atardecer la luz es cálida pero hay más gente. Quien duerme en Agra puede hacer ambos, con dos entradas."
+      },
+      {
+        domanda: "¿Hay que reservar la entrada del Taj Mahal?",
+        risposta: "No es obligatorio, pero online en el portal oficial cuesta 50 rupias menos y se evita la cola en taquilla. La entrada al mausoleo interior se añade a la misma entrada."
+      },
+      {
+        domanda: "¿Cuántos días hacen falta en Agra?",
+        risposta: "Una noche basta para el Fuerte y el Taj al atardecer y al amanecer. Con dos se añaden la orilla este, Sikandra y Fatehpur Sikri."
+      },
+      {
+        domanda: "¿Qué no se puede llevar al Taj Mahal?",
+        risposta: "Comida, trípodes, drones, tabaco y objetos como navajas se quedan fuera; bolsos grandes y mochilas alargan los controles. Agua y cubrezapatos vienen con la entrada para extranjeros."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi', 'india-sud-taj-mahal'],
@@ -382,11 +657,12 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     doveDormire: 'Haveli y hoteles heritage en la ciudad vieja o en Bani Park.',
     doveMangiare: 'Baati churma, laal maas, ker sangri, kachori por la mañana y lassi.',
-    comeArrivare: 'Desde Agra en coche en 5-6 horas con Fatehpur Sikri; desde Delhi en tren (unas 4-5 horas) o en avión.',
+    comeArrivare:
+      "Desde Delhi en tren en unas 4-5 horas (algunos Vande Bharat y Shatabdi), en coche en 5 horas o en avión en una hora. Desde Agra en coche 5-6 horas, con parada en Fatehpur Sikri o en Abhaneri. El aeropuerto de Jaipur está en Sanganer, unos 12 km al sur del centro: 30-40 minutos en Uber o taxi de prepago. La estación Jaipur Junction está a 15 minutos en tuk-tuk de la ciudad vieja.",
     comeSpostarsi: 'Tuk-tuk, Uber y Ola, conductor para Amber y Nahargarh.',
     periodoMigliore: 'octubre-marzo.',
     costi:
-      'Desde el 1 de enero de 2026 (revisión de las tarifas estatales) los extranjeros pagan 1.000 rupias en Amber y 600 en Hawa Mahal, Jantar Mantar, Nahargarh y Albert Hall; la entrada combinada vale 10 días para todos los monumentos y museos estatales del Rajastán (5.500 rupias según la prensa local). El City Palace, privado, tiene tarifas propias en su web oficial.',
+      "Desde el 1 de enero de 2026 los extranjeros pagan 1.000 rupias (unos 10 €) en Amber y 600 (unos 6 €) en Hawa Mahal, Jantar Mantar, Nahargarh y Albert Hall; la entrada combinada vale 10 días para los monumentos estatales del Rajastán (5.500 rupias según la prensa local). El City Palace, privado, tiene tarifas propias. Presupuesto diario por persona en doble: 40-60 € en guesthouse, 90-140 € en hoteles heritage con conductor, desde 250 € en palacios-hotel.",
     erroriDaEvitare: [
       'Creer la propuesta de comprar gemas para revender en Italia',
       'Subir a Amber a lomos de elefante',
@@ -399,8 +675,11 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Con el conductor o en Uber hasta el pie del fuerte y luego la rampa a pie, o en jeep. Un guía autorizado o la audioguía ayudan a orientarse entre los patios.",
         quando: "A la hora de apertura, antes de los autocares y del calor.",
         tempo: "2-3 horas",
-        costo: "1.000 rupias para los extranjeros según la revisión estatal vigente desde el 1 de enero de 2026",
-        consiglio: "Dentro del fuerte está el restaurante 1135 AD: nosotros volvimos para cenar, muy bueno y en un sitio con muchísimo encanto. Al final nos invitaron a ver la sala privada de los maharajás, en el último piso, donde todavía cenan y reciben a la gente importante."
+        costo: "1.000 rupias (unos 10 €) para los extranjeros según la revisión estatal vigente desde el 1 de enero de 2026",
+        consiglio: "Dentro del fuerte está el restaurante 1135 AD: nosotros volvimos para cenar, muy bueno y en un sitio con muchísimo encanto. Al final nos invitaron a ver la sala privada de los maharajás, en el último piso, donde todavía cenan y reciben a la gente importante.",
+        lat: 26.9855,
+        lng: 75.8513,
+        orari: "Todos los días de 8 a 17.30 más o menos."
       },
       {
         nome: "Hawa Mahal",
@@ -408,8 +687,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En la ciudad vieja, cerca de Badi Chaupar. La entrada está del lado del City Palace; la fachada se mira desde la calle o desde las terrazas de los cafés de enfrente.",
         quando: "A primera hora: la fachada mira al este y recibe el primer sol.",
         tempo: "45 minutos",
-        costo: "600 rupias para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
-        consiglio: "La mejor foto se hace desde una terraza al otro lado de la calle, con un chai, antes de las 9."
+        costo: "600 rupias (unos 6 €) para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
+        consiglio: "La mejor foto se hace desde una terraza al otro lado de la calle, con un chai, antes de las 9.",
+        lat: 26.9239,
+        lng: 75.8267
       },
       {
         nome: "City Palace",
@@ -419,7 +700,10 @@ export const destinazioniIndia: Destinazione[] = [
         tempo: "1 hora y media-2 horas",
         costo: "Royal Tour 4.000 rupias por persona; las tarifas del museo en la web oficial (citypalace.org, 2026)",
         url: "https://citypalace.org/visit",
-        consiglio: "Combinarlo con el Jantar Mantar, que está a dos pasos: los dos caben en la misma tarde."
+        consiglio: "Combinarlo con el Jantar Mantar, que está a dos pasos: los dos caben en la misma tarde.",
+        lat: 26.9258,
+        lng: 75.8237,
+        orari: "Todos los días de 9.30 a 18.30; cerrado solo el segundo día de Holi."
       },
       {
         nome: "Jantar Mantar",
@@ -427,8 +711,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Al lado del City Palace. Sin explicaciones los instrumentos parecen esculturas: mejor con guía o audioguía.",
         quando: "De día y con sol, que hace falta para ver cómo funcionan los relojes solares.",
         tempo: "1 hora",
-        costo: "600 rupias para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
-        consiglio: "Ir a mediodía: es el único sitio de Jaipur donde el sol alto ayuda."
+        costo: "600 rupias (unos 6 €) para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
+        consiglio: "Ir a mediodía: es el único sitio de Jaipur donde el sol alto ayuda.",
+        lat: 26.9248,
+        lng: 75.8246
       },
       {
         nome: "Jal Mahal y Panna Meena ka Kund",
@@ -437,7 +723,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "El pozo por la mañana, con la luz rasante sobre las escaleras. El Jal Mahal también al atardecer.",
         tempo: "1 hora en total",
         costo: "gratis",
-        consiglio: "Ya no se puede bajar por los escalones del pozo: las fotos se hacen desde el borde."
+        consiglio: "Ya no se puede bajar por los escalones del pozo: las fotos se hacen desde el borde.",
+        lat: 26.9535,
+        lng: 75.8462
       },
       {
         nome: "Fuerte de Nahargarh",
@@ -445,8 +733,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En coche con el conductor por la carretera de la cresta. Dentro está el palacio Madhavendra, con los aposentos de las reinas.",
         quando: "Última hora de la tarde, hasta el atardecer.",
         tempo: "1 hora y media",
-        costo: "600 rupias para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
-        consiglio: "No bajar a pie de noche: se vuelve en coche."
+        costo: "600 rupias (unos 6 €) para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
+        consiglio: "No bajar a pie de noche: se vuelve en coche.",
+        lat: 26.9373,
+        lng: 75.8155
       },
       {
         nome: "Albert Hall Museum",
@@ -454,7 +744,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Justo fuera de la ciudad vieja, en tuk-tuk. El recorrido es corto y está bien señalizado.",
         quando: "De día para el museo; por la noche el edificio está iluminado.",
         tempo: "1 hora",
-        consiglio: "Entrada 600 rupias para los extranjeros. La entrada combinada estatal vale 10 días en todo el Rajastán: solo compensa si se visitan muchos monumentos estatales, también fuera de Jaipur."
+        consiglio: "Entrada 600 rupias para los extranjeros. La entrada combinada estatal vale 10 días en todo el Rajastán: solo compensa si se visitan muchos monumentos estatales, también fuera de Jaipur.",
+        lat: 26.9116,
+        lng: 75.8195,
+        costo: "600 rupias para los extranjeros, unos 6 € (tarifa estatal desde el 1 de enero de 2026)"
       },
       {
         nome: "Los bazares de la ciudad vieja",
@@ -462,7 +755,60 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A pie bajo los soportales de la ciudad vieja. Para ver el estampado con bloques hay que ir a los talleres de Sanganer o Bagru, fuera de la ciudad.",
         quando: "A media mañana, cuando abren las tiendas y antes del calor.",
         tempo: "medio día",
-        consiglio: "Regatear con calma y no comprar nunca piedras «para revender en Europa»."
+        consiglio: "Regatear con calma y no comprar nunca piedras «para revender en Europa».",
+        lat: 26.9196,
+        lng: 75.8267,
+        orari: "Tiendas abiertas más o menos de 10-11 a 20; algunas cierran el domingo."
+      },
+      {
+        nome: "Fuerte de Jaigarh",
+        testo: "El fuerte militar sobre Amber, unido al palacio por un camino de ronda en las murallas. Guarda el Jaivana, uno de los mayores cañones sobre ruedas del mundo, fundido aquí en 1720, y las cisternas que daban agua a la guarnición.",
+        come: "En coche por la carretera de la cresta, o a pie cuesta arriba desde Amber. La entrada es aparte de las estatales.",
+        quando: "Después de Amber, a media mañana; se combina con Nahargarh, en la misma cresta.",
+        tempo: "1 hora y media",
+        lat: 26.9851,
+        lng: 75.8456
+      },
+      {
+        nome: "Galtaji, el templo de los monos",
+        testo: "Un conjunto de templos y estanques sagrados en un desfiladero de las colinas al este de la ciudad, alimentado por un manantial. Los peregrinos se bañan en los estanques y cientos de macacos viven entre los pabellones.",
+        come: "En tuk-tuk o coche, unos 20 minutos desde la ciudad vieja. Desde el Surya Mandir, en lo alto, se ve todo Jaipur.",
+        quando: "Última hora de la tarde, hacia el atardecer.",
+        tempo: "1 hora y media",
+        costo: "entrada libre; a veces se cobra una pequeña tasa por la cámara",
+        lat: 26.9196,
+        lng: 75.8586,
+        consiglio: "Nada de comida en la mano y las gafas bien sujetas: los monos son rápidos."
+      },
+      {
+        nome: "Birla Mandir",
+        testo: "El templo de Lakshmi Narayan, de mármol blanco, construido en 1988 a los pies del fuerte de Moti Dungri. Sus vidrieras y esculturas mezclan dioses hindúes con figuras de otras religiones.",
+        come: "En tuk-tuk, al sur de la ciudad vieja. Zapatos en la consigna; dentro no se hacen fotos.",
+        quando: "Al atardecer y por la noche, cuando el mármol está iluminado.",
+        tempo: "45 minutos",
+        costo: "entrada libre",
+        lat: 26.8921,
+        lng: 75.8155
+      },
+      {
+        nome: "Patrika Gate",
+        testo: "Una puerta monumental moderna a la entrada de Jawahar Circle, con nueve arcadas pintadas a mano que cuentan ciudades y tradiciones del Rajastán. Se ha convertido en uno de los lugares más fotografiados de la ciudad.",
+        come: "En Uber o tuk-tuk, al sur cerca del aeropuerto: se combina con la llegada o la salida.",
+        quando: "A primera hora, antes de las sesiones de fotos.",
+        tempo: "30 minutos",
+        costo: "gratuito",
+        lat: 26.8418,
+        lng: 75.8013
+      },
+      {
+        nome: "Anokhi Museum of Hand Printing",
+        testo: "Un museo dedicado a la estampación con bloques sobre tela, en una haveli restaurada del pueblo de Amber. Explica la técnica desde los bloques de madera tallados hasta los colores naturales, a menudo con un artesano que estampa delante de los visitantes.",
+        come: "A pie desde el aparcamiento del Fuerte de Amber, por las callejuelas del pueblo cerca de Keri Gate.",
+        quando: "Después de Amber, la misma mañana. Horarios y cierres en la web oficial.",
+        tempo: "1 hora",
+        lat: 26.9875,
+        lng: 75.8537,
+        url: "https://www.anokhimuseum.com/"
       }
     ],
     programmi: [
@@ -484,23 +830,34 @@ export const destinazioniIndia: Destinazione[] = [
           "Bazares de la ciudad vieja y un taller de estampado con bloques",
           "Albert Hall y atardecer desde Nahargarh, cena en el Jamavar"
         ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Hawa Mahal al amanecer, Amber, Anokhi Museum y Jaigarh, Panna Meena y Jal Mahal",
+          "Día 2: City Palace y Jantar Mantar, bazares de la ciudad vieja, Nahargarh al atardecer",
+          "Día 3: Patrika Gate por la mañana, Albert Hall, Galtaji por la tarde y Birla Mandir por la noche"
+        ]
       }
     ],
     zone: [
       {
         nome: "Ciudad vieja (Pink City)",
         perChi: "quien quiere los monumentos a pie",
-        testo: "Havelis convertidas en hoteles dentro de las murallas, a pocos minutos del Hawa Mahal y del City Palace. Ambiente único, pero tráfico, bocinas y calles llenas hasta la noche."
+        testo: "Havelis convertidas en hoteles dentro de las murallas, a pocos minutos del Hawa Mahal y del City Palace. Ambiente único, pero tráfico, bocinas y calles llenas hasta la noche.",
+        fascia: "30-120 €"
       },
       {
         nome: "Bani Park y Civil Lines",
         perChi: "calma y hoteles heritage",
-        testo: "Barrios residenciales justo al oeste de las murallas, con muchos hoteles heritage y jardines. A la ciudad vieja se llega en 10-15 minutos de tuk-tuk."
+        testo: "Barrios residenciales justo al oeste de las murallas, con muchos hoteles heritage y jardines. A la ciudad vieja se llega en 10-15 minutos de tuk-tuk.",
+        fascia: "40-120 €"
       },
       {
         nome: "C-Scheme y MI Road",
         perChi: "restaurantes y comodidad",
-        testo: "El centro moderno, con cafés, restaurantes y hoteles de cadena. Cómodo y limpio, con menos carácter."
+        testo: "El centro moderno, con cafés, restaurantes y hoteles de cadena. Cómodo y limpio, con menos carácter.",
+        fascia: "50-150 €"
       }
     ],
     sapori: [
@@ -535,6 +892,48 @@ export const destinazioniIndia: Destinazione[] = [
       "No subáis a Amber a lomos de elefante: las asociaciones de bienestar animal lo desaconsejan.",
       "Elegid bien al conductor para el Rajastán: el nuestro era un desastre y no lo recomiendo. Suelen parar en restaurantes «para turistas» donde ellos comen gratis: se puede pedir un dhaba normal.",
       "Los precios de los monumentos estatales cambiaron el 1 de enero de 2026: comprobad las tarifas en el portal oficial antes de salir."
+    ],
+    gite: [
+      {
+        nome: "Chand Baori en Abhaneri",
+        distanza: "unos 95 km, 1 hora y media-2 horas en coche",
+        come: "Coche con conductor, también como parada entre Agra y Jaipur.",
+        testo: "Uno de los pozos escalonados más profundos de la India, del siglo IX, con más de 3.500 escalones en zigzag sobre trece niveles. Al lado está el templo de Harshat Mata."
+      },
+      {
+        nome: "Sanganer y Bagru",
+        distanza: "15-30 km, 30-60 minutos en coche",
+        come: "Tuk-tuk o conductor para media jornada.",
+        testo: "Los pueblos de tintoreros y estampadores con bloques: en Bagru se sigue estampando con colores naturales y barro, en Sanganer también se hace papel a mano."
+      },
+      {
+        nome: "Pushkar y Ajmer",
+        distanza: "unos 145 km, 2 horas y media-3 horas en coche",
+        come: "Coche con conductor, o tren hasta Ajmer y 30 minutos de carretera; mejor con una noche en Pushkar.",
+        testo: "El dargah sufí de Ajmer y la ciudad santa de Pushkar, con su lago y sus ghats. En el día cansa: quien pueda, que duerma allí."
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Jaipur?",
+        risposta: "Dos días completos para Amber, la ciudad vieja y Nahargarh; tres para añadir Jaigarh, Galtaji y un taller de estampación con bloques."
+      },
+      {
+        domanda: "¿Merece la pena la entrada combinada de Jaipur?",
+        risposta: "Desde 2026 es un pase de 10 días para todos los monumentos estatales del Rajastán y cuesta más que la suma de las entradas de Jaipur. Solo compensa a quien visita muchos sitios estatales también en otras ciudades."
+      },
+      {
+        domanda: "¿A qué hora abre el Fuerte de Amber?",
+        risposta: "A las 8. Conviene estar allí a la apertura, antes de los autobuses y del calor, y subir a pie por la rampa."
+      },
+      {
+        domanda: "¿Dónde dormir en Jaipur?",
+        risposta: "En la ciudad vieja para tener los monumentos a pie, en Bani Park para un hotel heritage tranquilo, en C-Scheme para restaurantes y comodidad."
+      },
+      {
+        domanda: "¿Se puede subir a Amber en elefante?",
+        risposta: "Se puede, pero las asociaciones de bienestar animal lo desaconsejan. La rampa a pie lleva unos veinte minutos, o se sube en jeep."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
@@ -1061,10 +1460,12 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Un paseo en barca por el Pichola', 'Una cena en una terraza de Ambrai Ghat', 'Un espectáculo de danzas tradicionales en la Bagore ki Haveli'],
     doveDormire: 'Lal Ghat y Gangaur Ghat en gama económica y media; Ambrai y Hanuman Ghat por la vista al palacio.',
     doveMangiare: 'Terrazas sobre el lago por la vista, thali houses de la ciudad vieja para comer bien y gastar poco.',
-    comeArrivare: 'Desde Jodhpur en coche, un día largo con la parada en Ranakpur; aeropuerto con vuelos a Delhi, Mumbai y Jaipur.',
+    comeArrivare:
+      "El aeropuerto de Udaipur está a unos 22 km de la ciudad, 30-40 minutos en taxi de prepago o Uber, con vuelos directos a Delhi (1 hora y media, 4.000-8.000 rupias si se reservan pronto), Bombay y Jaipur. Desde Jodhpur en coche es una jornada larga con parada en Ranakpur; desde Jaipur hay trenes de unas 7 horas. La estación Udaipur City está a 10-15 minutos en tuk-tuk de la ciudad vieja.",
     comeSpostarsi: 'A pie y en tuk-tuk; barcas en el lago.',
     periodoMigliore: 'octubre-marzo; después del monzón los lagos están llenos.',
-    costi: 'City Palace 400 rupias, tarifa única para indios y extranjeros (web oficial, 2023); barca al Jag Mandir 600 rupias, 800 al atardecer (tarifas oficiales abril 2025-marzo 2026); en Ranakpur los no jainistas entran normalmente desde mediodía.',
+    costi:
+      "City Palace 400 rupias, unos 4 €, tarifa única para indios y extranjeros (web oficial, 2023); barca al Jag Mandir 600 rupias, 800 al atardecer (tarifas oficiales abril 2025-marzo 2026); en Ranakpur los no jainistas entran normalmente desde mediodía. Presupuesto diario por persona en doble: 40-60 € en guesthouse en los ghats, 90-140 € en hoteles heritage con vistas, desde 250 € en los palacios del lago.",
     erroriDaEvitare: ['Llegar a Ranakpur a primera hora de la mañana: los no jainistas entran solo desde mediodía', 'Llevar cuero en Ranakpur'],
     luoghi: [
       {
@@ -1073,9 +1474,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Entrada por la Badi Pol o por la puerta de Shitla Mata, a pie desde la ciudad vieja. Entradas en las dos puertas u online en la web del museo; guía o audioguía (en inglés, francés, alemán y español) útiles.",
         quando: "Abre todos los días de 9 a 21, taquilla hasta las 20. A la hora de apertura, antes de los grupos.",
         tempo: "2-3 horas",
-        costo: "400 rupias, la misma tarifa para indios y extranjeros (web oficial, 2023)",
+        costo: "400 rupias (unos 4 €), la misma tarifa para indios y extranjeros (web oficial, 2023)",
         url: "https://www.citypalacemuseum.org/planyourvisit",
-        consiglio: "Ver el palacio por la mañana y hacer la barca por el Pichola por la tarde, desde el mismo embarcadero."
+        consiglio: "Ver el palacio por la mañana y hacer la barca por el Pichola por la tarde, desde el mismo embarcadero.",
+        lat: 24.5764,
+        lng: 73.6835,
+        orari: "Todos los días de 9 a 21, taquilla hasta las 20."
       },
       {
         nome: "El lago Pichola en barca",
@@ -1083,8 +1487,11 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Las barcas oficiales salen de Rameshwar Ghat, junto al City Palace, y llevan al Jag Mandir; otras barcas salen de algunos ghats.",
         quando: "Vueltas de día desde las 10; la del atardecer cuesta más. Horarios que cambian entre verano e invierno.",
         tempo: "1 hora",
-        costo: "vuelta con parada en el Jag Mandir 600 rupias, al atardecer 800 (tarifas oficiales abril 2025-marzo 2026)",
-        consiglio: "Preguntar si la vuelta incluye la parada en el Jag Mandir: no todas la hacen."
+        costo: "vuelta con parada en el Jag Mandir 600 rupias (unos 6 €), al atardecer 800 (tarifas oficiales abril 2025-marzo 2026)",
+        consiglio: "Preguntar si la vuelta incluye la parada en el Jag Mandir: no todas la hacen.",
+        lat: 24.576,
+        lng: 73.682,
+        orari: "Paseos de día desde las 10, el último al atardecer; horarios distintos en verano e invierno."
       },
       {
         nome: "Templo de Jagdish",
@@ -1093,7 +1500,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "A primera hora y por la noche, durante las ceremonias.",
         tempo: "30 minutos",
         costo: "entrada libre",
-        consiglio: "Sentarse un momento en los escalones durante el aarti de la noche."
+        consiglio: "Sentarse un momento en los escalones durante el aarti de la noche.",
+        lat: 24.5797,
+        lng: 73.684
       },
       {
         nome: "Bagore ki Haveli",
@@ -1101,7 +1510,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A pie desde Lal Ghat. Entradas para el espectáculo en taquilla; conviene llegar pronto.",
         quando: "Por la noche: el espectáculo empieza a las 19 y dura una hora.",
         tempo: "1-2 horas",
-        consiglio: "Llegar media hora antes para coger sitio en primera fila."
+        consiglio: "Llegar media hora antes para coger sitio en primera fila.",
+        lat: 24.5806,
+        lng: 73.6816,
+        orari: "Espectáculo Dharohar cada noche a las 19, de una hora."
       },
       {
         nome: "Sajjangarh, el Palacio de los monzones",
@@ -1109,7 +1521,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En coche o tuk-tuk, por una carretera que sube a través del santuario. Se visita hasta el atardecer.",
         quando: "Al atardecer.",
         tempo: "1 hora y media",
-        consiglio: "Se disfruta más la vista que el palacio: se va por el atardecer."
+        consiglio: "Se disfruta más la vista que el palacio: se va por el atardecer.",
+        lat: 24.5951,
+        lng: 73.642
       },
       {
         nome: "Ranakpur y Kumbhalgarh",
@@ -1117,7 +1531,67 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Con el conductor, como parada en el día de viaje entre Jodhpur y Udaipur. En Ranakpur hay audioguía.",
         quando: "Ranakpur recibe a los no jainistas solo después de los rezos de la mañana, normalmente desde mediodía; la hora de cierre cambia según las fuentes.",
         tempo: "1 hora y media en Ranakpur, 2 horas en Kumbhalgarh",
-        consiglio: "Nada de piel en Ranakpur: cinturones, bolsos y carteras se quedan en el coche."
+        consiglio: "Nada de piel en Ranakpur: cinturones, bolsos y carteras se quedan en el coche.",
+        lat: 25.1162,
+        lng: 73.4729
+      },
+      {
+        nome: "Lago Fateh Sagar",
+        testo: "El segundo lago de la ciudad, al norte del Pichola, con un largo paseo sobre el dique donde por la tarde salen las familias de Udaipur. En el centro está la isla del Nehru Park.",
+        come: "En tuk-tuk desde la ciudad vieja, 15 minutos. Por el dique se pasea; hay barquitas a la isla.",
+        quando: "Última hora de la tarde y noche, con los puestos de tentempiés abiertos.",
+        tempo: "1 hora",
+        costo: "paseo gratuito",
+        lat: 24.6,
+        lng: 73.672
+      },
+      {
+        nome: "Saheliyon ki Bari",
+        testo: "El «jardín de las doncellas», creado en el siglo XVIII para las damas de la corte: céspedes, pabellones de mármol, elefantes de piedra y fuentes alimentadas por el Fateh Sagar. Una hora tranquila entre palacio y palacio.",
+        come: "En tuk-tuk, cerca del Fateh Sagar. Entrada en la puerta.",
+        quando: "Por la mañana, antes del calor; se combina con el Fateh Sagar.",
+        tempo: "45 minutos",
+        lat: 24.6036,
+        lng: 73.6862
+      },
+      {
+        nome: "Teleférico de Karni Mata",
+        testo: "Un teleférico corto que sube desde el parque Deen Dayal Upadhyay, a orillas del Pichola, hasta el templo de Karni Mata en la colina de Machla Magra. Desde arriba se ven el City Palace, el lago y la ciudad vieja.",
+        come: "A pie o en tuk-tuk hasta Doodh Talai, de donde sale la cabina.",
+        quando: "Al atardecer, cuando se ilumina el palacio; los fines de semana hay cola.",
+        tempo: "1 hora",
+        lat: 24.5745,
+        lng: 73.686
+      },
+      {
+        nome: "Ambrai Ghat y Hanuman Ghat",
+        testo: "La orilla oeste del Pichola, frente al City Palace: escalinatas donde las mujeres lavan la ropa por la mañana y desde donde se ve toda la fachada del palacio. Por la noche las terrazas de los restaurantes se llenan por la vista.",
+        come: "A pie desde la ciudad vieja cruzando el puente de Chandpole.",
+        quando: "Al atardecer y después, cuando el palacio está iluminado.",
+        tempo: "1 hora",
+        costo: "gratuito",
+        lat: 24.577,
+        lng: 73.68
+      },
+      {
+        nome: "Gangaur Ghat",
+        testo: "El ghat principal de la ciudad vieja, con el arco de tres vanos sobre el lago frente a la Bagore ki Haveli. Aquí se celebra en primavera la fiesta de Gangaur, con mujeres que llevan en procesión las estatuas de la diosa.",
+        come: "A pie desde Lal Ghat o desde el Jagdish.",
+        quando: "Al amanecer, cuando el lago está en calma, o antes del espectáculo de la noche.",
+        tempo: "30 minutos",
+        costo: "gratuito",
+        lat: 24.5803,
+        lng: 73.6812
+      },
+      {
+        nome: "Bharatiya Lok Kala Mandal",
+        testo: "El museo de arte popular del Rajastán, con una gran colección de marionetas de madera, máscaras, trajes e instrumentos. Por la tarde hay un espectáculo de títeres tradicionales.",
+        come: "En tuk-tuk, al norte de la ciudad vieja hacia Chetak Circle.",
+        quando: "Por la tarde, a tiempo para el espectáculo de títeres.",
+        tempo: "1 hora",
+        lat: 24.5875,
+        lng: 73.697,
+        consiglio: "Bien con niños y en las horas de calor."
       }
     ],
     programmi: [
@@ -1138,23 +1612,34 @@ export const destinazioniIndia: Destinazione[] = [
           "Día 2: mañana libre por los callejones y los talleres de miniaturas",
           "Atardecer desde Sajjangarh y cena en una terraza de Ambrai Ghat"
         ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: City Palace a la apertura, Jagdish, Gangaur Ghat, barca por el Pichola y Bagore ki Haveli",
+          "Día 2: Saheliyon ki Bari y Fateh Sagar por la mañana, Lok Kala Mandal, teleférico de Karni Mata y cena en Ambrai Ghat",
+          "Día 3: excursión a Kumbhalgarh y Ranakpur, o Eklingji y Nagda por la mañana y Sajjangarh al atardecer"
+        ]
       }
     ],
     zone: [
       {
         nome: "Lal Ghat y Gangaur Ghat",
         perChi: "presupuesto bajo y gama media",
-        testo: "Guesthouses con terraza en los callejones detrás del City Palace, a pie de todo. Calles estrechas y motos, pero es el corazón de la ciudad vieja."
+        testo: "Guesthouses con terraza en los callejones detrás del City Palace, a pie de todo. Calles estrechas y motos, pero es el corazón de la ciudad vieja.",
+        fascia: "20-70 €"
       },
       {
         nome: "Hanuman Ghat y Ambrai",
         perChi: "quien quiere vistas al palacio",
-        testo: "En la orilla opuesta del Pichola: desde las terrazas se ve el City Palace de frente. Más tranquila, se cruza el puente a pie."
+        testo: "En la orilla opuesta del Pichola: desde las terrazas se ve el City Palace de frente. Más tranquila, se cruza el puente a pie.",
+        fascia: "40-150 €"
       },
       {
         nome: "Lago Fateh Sagar",
         perChi: "hoteles con jardín y piscina",
-        testo: "Más al norte, junto a un lago con paseo. Más espacio y calma, hace falta un tuk-tuk para la ciudad vieja."
+        testo: "Más al norte, junto a un lago con paseo. Más espacio y calma, hace falta un tuk-tuk para la ciudad vieja.",
+        fascia: "50-150 €"
       }
     ],
     sapori: [
@@ -1180,6 +1665,48 @@ export const destinazioniIndia: Destinazione[] = [
       "La vuelta en barca al atardecer cuesta más que de día: comprobad la tarifa en taquilla.",
       "En Ranakpur los no jainistas solo entran desde mediodía: no lleguéis a primera hora.",
       "En las terrazas sobre el lago pueden aparecer monos: no dejéis comida a la vista."
+    ],
+    gite: [
+      {
+        nome: "Kumbhalgarh y Ranakpur",
+        distanza: "unos 85 km hasta Kumbhalgarh, 2 horas y media en coche",
+        come: "Coche con conductor para el día, en circuito.",
+        testo: "Las murallas de 36 kilómetros del fuerte en las colinas y el templo jainista de las 1.444 columnas. Ranakpur recibe a los no jainistas desde mediodía: conviene el fuerte por la mañana."
+      },
+      {
+        nome: "Chittorgarh",
+        distanza: "unos 115 km, 2 horas en coche",
+        come: "Coche con conductor, o tren desde Udaipur City en unas 2 horas.",
+        testo: "El mayor fuerte del Rajastán, patrimonio de la UNESCO, con la Torre de la Victoria y los palacios ligados a la reina Padmini. Un lugar clave de la historia rajput."
+      },
+      {
+        nome: "Eklingji y Nagda",
+        distanza: "unos 22 km, 30-40 minutos en coche",
+        come: "Tuk-tuk o coche para media jornada.",
+        testo: "El conjunto de templos de Shiva protector de los Maharana de Mewar y, cerca, los templos de Sas-Bahu en Nagda, del siglo X, finamente tallados."
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Udaipur?",
+        risposta: "Dos días para el City Palace, el Pichola y los ghats con calma; el tercero para Kumbhalgarh y Ranakpur o para Chittorgarh."
+      },
+      {
+        domanda: "¿Se puede visitar el Lake Palace?",
+        risposta: "No, es un hotel de lujo y solo entran los huéspedes o quien reserva en el restaurante. Se ve desde el lago con el paseo en barca al Jag Mandir."
+      },
+      {
+        domanda: "¿Cuándo conviene el paseo en barca por el Pichola?",
+        risposta: "Al atardecer la luz es la mejor pero la entrada cuesta más (800 rupias frente a 600). Tras el monzón el lago está lleno; en años de sequía el nivel puede estar bajo."
+      },
+      {
+        domanda: "¿Dónde dormir en Udaipur?",
+        risposta: "Lal Ghat y Gangaur Ghat para estar en el centro a pie, Hanuman Ghat y Ambrai para la vista del City Palace, Fateh Sagar para hoteles con jardín y piscina."
+      },
+      {
+        domanda: "¿A qué hora se entra en el templo de Ranakpur?",
+        risposta: "Los no jainistas entran normalmente desde mediodía, tras las oraciones de la mañana. Nada de piel y hombros y piernas cubiertos."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
@@ -1216,11 +1743,12 @@ export const destinazioniIndia: Destinazione[] = [
       'En los ghats o en los callejones justo detrás, entre Assi y Dashashwamedh: guesthouses económicas, haveli sobre el río en gama media y alta. La ciudad nueva es cómoda pero está lejos del río.',
     doveMangiare: 'Lassi, kachori sabzi, tamatar chaat, malaiyo en invierno, paan de Benarés. Muchos locales vegetarianos.',
     comeArrivare:
-      'Desde Delhi en tren nocturno (unas 10 horas en litera, como el Shiv Ganga Express) o en el Vande Bharat diurno (unas 8 horas), o en avión (aproximadamente 1 hora y media; el aeropuerto está a unos 26 km de la ciudad).',
+      "Desde Delhi en tren nocturno: el Shiv Ganga Express sale de New Delhi hacia las 20.05 y llega a Banaras hacia las 6.10, en litera por 1.000-3.000 rupias según la clase; el Vande Bharat diurno tarda unas 8 horas. En avión desde Delhi se vuela en 1 hora y media; el aeropuerto Lal Bahadur Shastri está a unos 26 km, una hora de taxi de prepago hasta los ghats. Los coches paran antes de las callejuelas: el último tramo se hace a pie o en e-rickshaw.",
     comeSpostarsi: 'A pie por los ghats y los callejones, barcas en el río, e-rickshaw y tuk-tuk hacia la ciudad nueva y Sarnath.',
     periodoMigliore:
       'octubre-marzo; noviembre para Dev Deepawali (el 24 de noviembre en 2026). Diciembre-enero con niebla espesa al amanecer. Con el monzón (julio-septiembre) los ghats bajos acaban bajo el agua.',
-    costi: 'Barca privada a un precio que se pacta antes de subir; Sarnath con entradas separadas para el yacimiento y el museo, tarifas ASI en taquilla; museo cerrado los viernes.',
+    costi:
+      "Barca al amanecer 800-1.500 rupias por barca, unos 8-15 €, a negociar antes de subir; Sarnath unas 300 rupias para los extranjeros, museo aparte y cerrado los viernes; los templos son gratuitos. Presupuesto diario por persona en doble: 40-60 € en guesthouse en los ghats (habitación desde 1.500 rupias), 90-140 € en havelis junto al río con guía, desde 250 € en hoteles de lujo sobre el Ganges.",
     erroriDaEvitare: [
       'Seguir al «guía» espontáneo en Manikarnika que luego pide dinero por la leña',
       'Fotografiar las cremaciones o a las familias de luto',
@@ -1236,7 +1764,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Media hora antes de que salga el sol. Entre diciembre y enero la niebla puede parar las barcas; con el monzón el río crece.",
         tempo: "1-2 horas",
         costo: "barca privada a precio pactado: las cifras cambian mucho según temporada, duración y barquero",
-        consiglio: "Benarés hay que hacerla sí o sí con Shiva. Pocas veces he encontrado a una persona tan amable y dispuesta, que conoce tan bien el lugar y te lo explica mientras paseas: es como dar una vuelta por las calles de tu pueblo con un amigo."
+        consiglio: "Benarés hay que hacerla sí o sí con Shiva. Pocas veces he encontrado a una persona tan amable y dispuesta, que conoce tan bien el lugar y te lo explica mientras paseas: es como dar una vuelta por las calles de tu pueblo con un amigo.",
+        lat: 25.2896,
+        lng: 83.0066
       },
       {
         nome: "El Ganga Aarti en Dashashwamedh",
@@ -1245,7 +1775,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Todas las noches al atardecer; el horario cambia según la estación. Llegar al menos una hora antes para coger sitio en los escalones.",
         tempo: "1 hora y media",
         costo: "gratis desde los escalones",
-        consiglio: "Llevar bolsos y móviles por delante: entre el gentío trabajan los carteristas."
+        consiglio: "Llevar bolsos y móviles por delante: entre el gentío trabajan los carteristas.",
+        lat: 25.3066,
+        lng: 83.0106,
+        orari: "Cada tarde al atardecer: hacia las 18 en invierno, hacia las 19 en verano."
       },
       {
         nome: "Subah-e-Banaras en Assi Ghat",
@@ -1254,7 +1787,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Antes del amanecer, todos los días.",
         tempo: "1 hora",
         costo: "gratis",
-        consiglio: "Se combina bien con la barca: al acabar la ceremonia se sube y se sale hacia el norte."
+        consiglio: "Se combina bien con la barca: al acabar la ceremonia se sube y se sale hacia el norte.",
+        lat: 25.2896,
+        lng: 83.0066
       },
       {
         nome: "Manikarnika Ghat",
@@ -1262,7 +1797,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Se mira desde la barca o a distancia desde los escalones de arriba. Ni fotos ni vídeos.",
         quando: "De día; por la noche se ve bien desde la barca.",
         tempo: "30 minutos",
-        consiglio: "Ignorad a quien se presenta como guía o «voluntario del hospicio»: al final pide dinero para la leña de los pobres."
+        consiglio: "Ignorad a quien se presenta como guía o «voluntario del hospicio»: al final pide dinero para la leña de los pobres.",
+        lat: 25.3109,
+        lng: 83.0141,
+        orari: "Las cremaciones siguen día y noche, sin interrupción."
       },
       {
         nome: "Kashi Vishwanath",
@@ -1272,7 +1810,9 @@ export const destinazioniIndia: Destinazione[] = [
         tempo: "1-3 horas según la cola",
         costo: "entrada libre",
         url: "https://shrikashivishwanath.org/",
-        consiglio: "Ropa larga y nada en los bolsillos: en los controles se pasa más rápido."
+        consiglio: "Ropa larga y nada en los bolsillos: en los controles se pasa más rápido.",
+        lat: 25.3109,
+        lng: 83.0107
       },
       {
         nome: "Los callejones de la ciudad vieja",
@@ -1280,7 +1820,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A pie, mejor con guía la primera vez: aquí Google Maps se pierde.",
         quando: "Por la mañana y por la tarde. Después del atardecer mejor no recorrerlos solos, sobre todo las mujeres.",
         tempo: "medio día",
-        consiglio: "La seda hay que comprarla en tiendas recomendadas: la que se vende como «hecha a mano» puede ser de telar mecánico."
+        consiglio: "La seda hay que comprarla en tiendas recomendadas: la que se vende como «hecha a mano» puede ser de telar mecánico.",
+        lat: 25.309,
+        lng: 83.01
       },
       {
         nome: "Sarnath",
@@ -1288,9 +1830,72 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En tuk-tuk o en coche. El yacimiento arqueológico y el museo tienen entradas separadas.",
         quando: "Por la mañana. El museo abre de 10 a 17 y cierra los viernes (Incredible India).",
         tempo: "medio día",
-        costo: "entradas ASI para el yacimiento y el museo, tarifas en taquilla",
+        costo: "unas 300 rupias para los extranjeros (unos 3 €), museo aparte (2026)",
         url: "https://asi.nic.in/",
-        consiglio: "No ir un viernes: sin el museo falta lo más bonito."
+        consiglio: "No ir un viernes: sin el museo falta lo más bonito.",
+        lat: 25.3808,
+        lng: 83.0245,
+        orari: "Recinto del amanecer al atardecer; museo de 10 a 17, cerrado los viernes."
+      },
+      {
+        nome: "El paseo de los ghats, de Assi a Dashashwamedh",
+        testo: "Unos tres kilómetros de escalinatas continuas junto al río, cada una con sus palacios y su historia: Tulsi, Harishchandra con las piras menores, Kedar con el templo a rayas blancas y rojas, Chet Singh con su fuerte, Darbhanga con el palacio sobre el agua. Es la mejor manera de entender la ciudad.",
+        come: "A pie, saliendo de Assi hacia el norte. Con el monzón algunos tramos quedan bajo el agua y se pasa por las callejuelas.",
+        quando: "Por la tarde, para llegar a Dashashwamedh a tiempo para el aarti.",
+        tempo: "2-3 horas",
+        costo: "gratuito",
+        lat: 25.2985,
+        lng: 83.0081,
+        consiglio: "En Harishchandra, como en Manikarnika, nada de fotos a las piras."
+      },
+      {
+        nome: "Banaras Hindu University y Bharat Kala Bhavan",
+        testo: "El gran campus verde fundado en 1916, una pausa del caos de la ciudad. Dentro están el Bharat Kala Bhavan, un museo con miniaturas, esculturas, tejidos de Benarés y una sala dedicada a la historia de la ciudad, y el nuevo templo de Vishwanath de la universidad.",
+        come: "En e-rickshaw desde Assi Ghat, 10 minutos.",
+        quando: "Por la mañana, entre semana. El museo cierra los domingos y los festivos de la universidad.",
+        tempo: "2 horas",
+        orari: "Museo cerrado los domingos y los festivos de la universidad.",
+        lat: 25.2677,
+        lng: 82.9913
+      },
+      {
+        nome: "Templo de Sankat Mochan",
+        testo: "El templo de Hanuman fundado, según la tradición, por el poeta Tulsidas, uno de los más queridos de la ciudad. Los martes y los sábados, días de Hanuman, se llena de fieles y de cantos.",
+        come: "En e-rickshaw desde la zona de Assi, 10 minutos. Controles en la entrada: teléfonos y bolsos suelen dejarse en la consigna.",
+        quando: "Martes o sábado por la tarde, por el ambiente.",
+        tempo: "45 minutos",
+        costo: "entrada libre",
+        lat: 25.2817,
+        lng: 82.9993,
+        consiglio: "Probar los laddu, los dulces de ofrenda que se compran en la entrada: son famosos en la ciudad."
+      },
+      {
+        nome: "Templo de Durga y Tulsi Manas Mandir",
+        testo: "Dos templos uno al lado del otro: el de Durga, del siglo XVIII, rojo ocre junto a un estanque, y el Tulsi Manas Mandir, de mármol blanco, con los versos del Ramcharitmanas de Tulsidas grabados en las paredes.",
+        come: "A pie o en e-rickshaw desde Sankat Mochan, 5 minutos. Sin zapatos.",
+        quando: "Junto con Sankat Mochan y la BHU.",
+        tempo: "45 minutos",
+        costo: "entrada libre",
+        lat: 25.2889,
+        lng: 82.9997
+      },
+      {
+        nome: "Fuerte de Ramnagar",
+        testo: "La residencia del siglo XVIII de los maharajás de Benarés, en la orilla este del Ganges, frente a la ciudad. Una parte es un museo algo polvoriento, con coches antiguos, palanquines, armas y un curioso reloj astronómico.",
+        come: "En coche o e-rickshaw cruzando el puente, unos 30-40 minutos desde Assi; o en barca.",
+        quando: "Por la tarde; entre septiembre y octubre aquí se celebra la Ramlila, la representación del Ramayana que dura un mes.",
+        tempo: "1 hora y media",
+        lat: 25.2679,
+        lng: 83.0249
+      },
+      {
+        nome: "Templo nepalí de Lalita Ghat",
+        testo: "Un templo de Shiva de madera oscura construido en el siglo XIX por el rey de Nepal, en estilo pagoda como los de Katmandú. Las vigas están muy talladas y la terraza mira al río.",
+        come: "A pie desde los ghats, entre Manikarnika y el corredor del Kashi Vishwanath. Sin zapatos.",
+        quando: "Por la mañana, junto con el Kashi Vishwanath.",
+        tempo: "20 minutos",
+        lat: 25.3115,
+        lng: 83.0151
       }
     ],
     programmi: [
@@ -1327,17 +1932,20 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Assi Ghat",
         perChi: "quien quiere el río con algo de calma",
-        testo: "El ghat más al sur, con cafés, guesthouses y la ceremonia de la mañana. Un poco más tranquilo; a Dashashwamedh se va en barca o con un largo paseo por los ghats."
+        testo: "El ghat más al sur, con cafés, guesthouses y la ceremonia de la mañana. Un poco más tranquilo; a Dashashwamedh se va en barca o con un largo paseo por los ghats.",
+        fascia: "20-80 €"
       },
       {
         nome: "Dashashwamedh y Godowlia",
         perChi: "quien quiere estar en el centro",
-        testo: "Guesthouses y havelis junto al río entre los ghats centrales, a dos pasos del aarti y del Kashi Vishwanath. Abarrotado y ruidoso a todas horas."
+        testo: "Guesthouses y havelis junto al río entre los ghats centrales, a dos pasos del aarti y del Kashi Vishwanath. Abarrotado y ruidoso a todas horas.",
+        fascia: "25-150 €"
       },
       {
         nome: "Cantonment, la ciudad nueva",
         perChi: "quien busca un hotel de cadena",
-        testo: "Cómoda para la estación y el aeropuerto, pero lejos del río, y el tráfico alarga los tiempos. Y el río al amanecer es el motivo para venir."
+        testo: "Cómoda para la estación y el aeropuerto, pero lejos del río, y el tráfico alarga los tiempos. Y el río al amanecer es el motivo para venir.",
+        fascia: "50-120 €"
       }
     ],
     sapori: [
@@ -1368,6 +1976,52 @@ export const destinazioniIndia: Destinazione[] = [
       "Fijad precio y duración de la barca antes de subir.",
       "No os bañéis en el Ganges ni bebáis agua del río, aunque esté «bendecida».",
       "En los callejones y entre la multitud del aarti puede haber acoso y carteristas: mejor ir acompañados después del atardecer."
+    ],
+    gite: [
+      {
+        nome: "Sarnath",
+        distanza: "unos 10 km, 30-40 minutos",
+        come: "Tuk-tuk o coche para media jornada.",
+        testo: "El parque de los ciervos donde el Buda dio su primer sermón: estupa de Dhamek, monasterios modernos de varios países budistas y el museo con el capitel de los leones. El museo cierra los viernes."
+      },
+      {
+        nome: "Fuerte de Chunar",
+        distanza: "unos 40 km, 1 hora y media en coche",
+        come: "Coche con conductor.",
+        testo: "Un fuerte sobre un espolón de roca encima del Ganges, disputado durante siglos por sultanes, mogoles y británicos. Pocos turistas y una bonita vista del río."
+      },
+      {
+        nome: "Bodh Gaya",
+        distanza: "unos 250 km, 5-6 horas en coche",
+        come: "Coche con conductor o tren hasta Gaya; hace falta al menos una noche.",
+        testo: "El lugar de la iluminación del Buda, con el templo de Mahabodhi, patrimonio de la UNESCO. No es una excursión de un día: hay que plantearla como etapa propia."
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Varanasi?",
+        risposta: "Al menos dos noches, para tener un amanecer en barca y un aarti de noche; tres días permiten también Sarnath y un paseo lento por los ghats."
+      },
+      {
+        domanda: "¿Se pueden fotografiar las cremaciones?",
+        risposta: "No. En Manikarnika y Harishchandra las fotos y los vídeos de las piras están prohibidos y ofenden a las familias; se mira en silencio, desde la barca o de lejos."
+      },
+      {
+        domanda: "¿Cuánto cuesta la barca al amanecer en el Ganges?",
+        risposta: "Una barca de remos privada cuesta más o menos 800-1.500 rupias por una o dos horas, según la temporada y el barquero. Precio y duración se fijan antes de subir."
+      },
+      {
+        domanda: "¿Dónde dormir en Varanasi?",
+        risposta: "En los ghats o en las callejuelas justo detrás, entre Assi y Dashashwamedh: el río al amanecer es el motivo del viaje. La ciudad nueva solo es cómoda para la estación y el aeropuerto."
+      },
+      {
+        domanda: "¿Se puede entrar en el Kashi Vishwanath?",
+        risposta: "Sí, también los no hindúes, con ropa que cubra y sin teléfonos ni bolsos, que se dejan en las taquillas gratuitas. Las colas pueden durar horas: hay una entrada más rápida de pago en la web oficial."
+      },
+      {
+        domanda: "¿Cuál es la mejor época para Varanasi?",
+        risposta: "De octubre a marzo; en noviembre está Dev Deepawali, con los ghats cubiertos de lamparillas. En diciembre y enero la niebla puede parar las barcas al amanecer; con el monzón los ghats bajos quedan bajo el agua."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],

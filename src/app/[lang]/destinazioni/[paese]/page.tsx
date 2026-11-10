@@ -3,6 +3,9 @@ import { Filigrana } from '@/components/Filigrana'
 import Link from '@/components/ui/Link'
 import { notFound } from 'next/navigation'
 import { ArrowRight } from 'lucide-react'
+import { MesiPaese } from '@/components/MesiPaese'
+import { CalcolatoreBudget } from '@/components/CalcolatoreBudget'
+import { MESI_PAESI } from '@/content/paesi-mesi'
 import { Container } from '@/components/ui/Container'
 import { SectionHeading } from '@/components/ui/SectionHeading'
 import { Reveal, RevealGroup, RevealItem } from '@/components/Reveal'
@@ -177,6 +180,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
   const paese = getPaese(paeseSlug, lingua)
   if (!paese) notFound()
 
+  const datiMesi = MESI_PAESI[paeseSlug]
   const destinazioni = getDestinazioniByPaese(paeseSlug, lingua)
   const esperienze = getEsperienzeByPaese(paeseSlug, lingua)
   const tripPrincipale = getViaggioBySlug(paese.tripPrincipaleSlug, lingua)
@@ -383,6 +387,9 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
       {/* le voci consultive del Paese (periodo migliore, durata, budget, stile): prima stavano
           sotto l'apertura, ora aprono la parte pratica */}
       <InBrevePaese paese={paese} />
+
+      {datiMesi && <MesiPaese dati={datiMesi} nomePaese={paese.nome} />}
+      {datiMesi && <CalcolatoreBudget costi={datiMesi.costi} nomePaese={paese.nome} />}
 
       {/* Organizza il viaggio: in fondo, a tendine, per chi cerca il dettaglio pratico */}
       <section id="organizza-il-viaggio" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 sezione">

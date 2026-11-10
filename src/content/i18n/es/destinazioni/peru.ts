@@ -30,10 +30,10 @@ export const destinazioniPeru: Destinazione[] = [
       "El casco histórico y San Blas son las zonas más cómodas y agradables; San Blas, sin embargo, es todo cuesta arriba, algo que en los primeros días en altura se nota bastante.",
     doveMangiare:
       "El mercado de San Pedro es el sitio adecuado para el primer impacto: zumos de fruta en el mostrador, sopas y menú del día por pocos soles. Para probar en la ciudad el cuy (conejillo de Indias), la alpaca a la parrilla y el chicharrón; el pisco sour es obligatorio la primera noche, pero con calma, porque a 3.400 metros el alcohol pesa el doble.",
-    comeArrivare: "Vuelo interno desde Lima (1 h 20 aprox.), la solución casi obligada. Por tierra desde Puno o Arequipa hacen falta 6-10 horas de autobús.",
+    comeArrivare: "Vuelo interno desde Lima (1 h 20 aprox.), la solución casi obligada. Por tierra desde Puno o Arequipa hacen falta 6-10 horas de autobús. El aeropuerto Alejandro Velasco Astete (CUZ) está en la ciudad: taxi oficial o app en 15-20 minutos, unos 20-40 soles (5-10 €); hay que evitar a los falsos taxistas a la salida de llegadas. Desde Puno existe también el bus turístico de unas 10 horas con paradas en Pukará, La Raya, Raqchi y Andahuaylillas. Cusco está a 3.400 metros: conviene dejar libre el día de llegada.",
     comeSpostarsi: "El centro se recorre a pie; taxis económicos y colectivos para las zonas exteriores. Para el Valle Sagrado, tours organizados o coche con conductor.",
     periodoMigliore: "mayo-septiembre, estación seca. Ojo con el 24 de junio, cuando el Inti Raymi llena la ciudad",
-    costi: "el Boleto Turístico del Cusco (unos 130 soles) cubre en una sola entrada Sacsayhuamán, los sitios del Valle Sagrado y varios museos; casi siempre compensa",
+    costi: "Presupuesto bajo 30-45 € al día (albergue, menú del día en el mercado, colectivos); medio 70-120 € (hotel en el centro o en San Blas, restaurantes, taxis); alto desde 200 € (hoteles en casonas coloniales, guía privado, tours privados). El Boleto Turístico del Cusco (unos 130 soles, unos 33 €) cubre en una sola entrada Sacsayhuamán, los sitios del Valle Sagrado y varios museos; casi siempre compensa.",
     erroriDaEvitare: [
       "Aterrizar en Cusco y salir al día siguiente a hacer un trek: es la forma más directa de arruinarse el viaje con el mal de altura",
       "Subestimar las noches: a 3.400 metros hace frío todo el año, incluso cuando de día hay 20 grados",
@@ -43,97 +43,204 @@ export const destinazioniPeru: Destinazione[] = [
       "El primer día aquí es un día perdido, y hay que asumirlo: aterrizamos a 3.400 metros y solo caminamos despacio entre la Plaza de Armas y San Blas, con el té de coca en la mano como hace todo el mundo. Es lo que hace falta, y el resto del viaje sale ganando. El segundo día Qorikancha y Sacsayhuamán, la mejor manera de entender de antemano lo que se verá en Machu Picchu, y la comida en el mercado de San Pedro entre zumos en el mostrador y sopas por pocos soles. Para los souvenirs, en Cusco yo voy a Assunta. Desde aquí hice tanto Rainbow Mountain como la laguna Humantay, más otra montaña de colores y un par de lagunas cuyo nombre no recuerdo. También estuve en Perú dos veces como voluntario, y una de ellas fue aquí en Cusco, con el Proyecto Cusimaky: es un proyecto que apoyo, e invito a quien pase por Cusco a visitarlo.",
     luoghi: [
       {
-        "nome": "Plaza de Armas y Catedral",
-        "testo": "El corazón colonial de Cusco: soportales, balcones de madera y una Catedral construida con bloques sacados de Sacsayhuamán. De noche, con las iglesias iluminadas, es el lugar para recuperar el aliento tras el día de llegada.",
-        "come": "En el centro, a pie desde casi todos los alojamientos. La Catedral tiene su propia entrada, no incluida en el Boleto Turístico general.",
-        "quando": "La plaza es mejor al amanecer y después del atardecer, cuando los grupos de los tours están en otra parte.",
-        "tempo": "1-2 horas con la Catedral",
-        "consiglio": "El primer día no hagas nada más: camina despacio entre la plaza y San Blas con un té de coca en la mano, como todos."
+        nome: "Plaza de Armas y Catedral",
+        testo: "El corazón colonial de Cusco: soportales, balcones de madera y una Catedral construida con bloques sacados de Sacsayhuamán. De noche, con las iglesias iluminadas, es el lugar para recuperar el aliento tras el día de llegada.",
+        come: "En el centro, a pie desde casi todos los alojamientos. La Catedral tiene su propia entrada, no incluida en el Boleto Turístico general.",
+        quando: "La plaza es mejor al amanecer y después del atardecer, cuando los grupos de los tours están en otra parte.",
+        tempo: "1-2 horas con la Catedral",
+        lat: -13.51677,
+        lng: -71.97878,
+        consiglio: "El primer día no hagas nada más: camina despacio entre la plaza y San Blas con un té de coca en la mano, como todos.",
       },
       {
-        "nome": "Qorikancha (convento de Santo Domingo)",
-        "testo": "Era el templo del Sol de los Incas. Los conquistadores construyeron encima el convento de Santo Domingo, pero los muros de piedra encajada en seco resistieron los terremotos que dañaron la parte colonial. Explica de qué trataban las piedras que se verán en Machu Picchu.",
-        "come": "A pie desde la Plaza de Armas, hacia el sureste. Se visita el convento con los claustros y las salas incas; hay también un museo de sitio aparte.",
-        "quando": "Mejor por la mañana, antes de los grupos organizados.",
-        "tempo": "1 hora",
-        "consiglio": "Visítalo el segundo día junto con Sacsayhuamán: son la mejor forma de entender la mampostería inca antes del resto del viaje."
+        nome: "Qorikancha (convento de Santo Domingo)",
+        testo: "Era el templo del Sol de los Incas. Los conquistadores construyeron encima el convento de Santo Domingo, pero los muros de piedra encajada en seco resistieron los terremotos que dañaron la parte colonial. Explica de qué trataban las piedras que se verán en Machu Picchu.",
+        come: "A pie desde la Plaza de Armas, hacia el sureste. Se visita el convento con los claustros y las salas incas; hay también un museo de sitio aparte.",
+        quando: "Mejor por la mañana, antes de los grupos organizados.",
+        tempo: "1 hora",
+        costo: "unos 20 soles, unos 5 € (2026); no incluido en el Boleto Turístico",
+        lat: -13.52,
+        lng: -71.97556,
+        consiglio: "Visítalo el segundo día junto con Sacsayhuamán: son la mejor forma de entender la mampostería inca antes del resto del viaje.",
       },
       {
-        "nome": "Sacsayhuamán",
-        "testo": "La fortaleza-santuario sobre la ciudad, con tres grandes muros en terrazas de bloques megalíticos encajados sin argamasa: el más grande se estima entre 128 y casi 200 toneladas. Desde arriba se ve todo Cusco, y el 24 de junio aquí se celebra el Inti Raymi.",
-        "come": "Sobre la ciudad, al norte: en taxi o a pie cuesta arriba, algo que conviene evitar los primeros días en altura. Está incluido en el Boleto Turístico.",
-        "quando": "Mañana o primera hora de la tarde. El 24 de junio, día del Inti Raymi, el acceso cambia: infórmate antes.",
-        "tempo": "1,5-2 horas",
-        "costo": "Boleto Turístico general unos 130 soles para extranjeros, válido 10 días, 16 sitios (tarifario de COSITUC, 2026). Los boletos parciales de un solo circuito cuestan 70 soles",
-        "consiglio": "Sube en taxi y baja a pie: la bajada hacia San Blas es agradable y no cansa."
+        nome: "Sacsayhuamán",
+        testo: "La fortaleza-santuario sobre la ciudad, con tres grandes muros en terrazas de bloques megalíticos encajados sin argamasa: el más grande se estima entre 128 y casi 200 toneladas. Desde arriba se ve todo Cusco, y el 24 de junio aquí se celebra el Inti Raymi.",
+        come: "Sobre la ciudad, al norte: en taxi o a pie cuesta arriba, algo que conviene evitar los primeros días en altura. Está incluido en el Boleto Turístico.",
+        quando: "Mañana o primera hora de la tarde. El 24 de junio, día del Inti Raymi, el acceso cambia: infórmate antes.",
+        tempo: "1,5-2 horas",
+        costo: "Boleto Turístico general unos 130 soles (unos 33 €) para extranjeros, válido 10 días, 16 sitios (tarifario COSITUC, 2026). Los boletos parciales de un solo circuito cuestan 70 soles (unos 18 €)",
+        lat: -13.50778,
+        lng: -71.98222,
+        consiglio: "Sube en taxi y baja a pie: la bajada hacia San Blas es agradable y no cansa.",
       },
       {
-        "nome": "San Blas y la Piedra de los Doce Ángulos",
-        "testo": "El barrio de los artesanos, todo callejones en subida, talleres y cafés. En la calle Hatun Rumiyoc está la piedra de los doce ángulos, un bloque inca encajado a la perfección entre los demás.",
-        "come": "A pie desde la plaza. Las calles son empinadas y empedradas.",
-        "quando": "Todo el día; los talleres están más animados por la tarde.",
-        "tempo": "1-2 horas",
-        "consiglio": "Para los souvenirs aquí hay cosas más cuidadas que en los puestos de la plaza. Cuenta con las cuestas: en los primeros días se notan."
+        nome: "San Blas y la Piedra de los Doce Ángulos",
+        testo: "El barrio de los artesanos, todo callejones en subida, talleres y cafés. En la calle Hatun Rumiyoc está la piedra de los doce ángulos, un bloque inca encajado a la perfección entre los demás.",
+        come: "A pie desde la plaza. Las calles son empinadas y empedradas.",
+        quando: "Todo el día; los talleres están más animados por la tarde.",
+        tempo: "1-2 horas",
+        costo: "entrada libre",
+        lat: -13.51601,
+        lng: -71.97625,
+        consiglio: "Para los souvenirs aquí hay cosas más cuidadas que en los puestos de la plaza. Cuenta con las cuestas: en los primeros días se notan.",
       },
       {
-        "nome": "Mercado de San Pedro",
-        "testo": "El mercado cubierto donde comen los cusqueños: puestos de jugos, sopas, quesos, hierbas y coca. Una primera prueba de la cocina andina sin gastar mucho.",
-        "come": "A pie desde la Plaza de Armas, hacia el oeste. Entrada libre.",
-        "quando": "Mañana y almuerzo; por la tarde muchos puestos cierran.",
-        "tempo": "1 hora",
-        "consiglio": "El menú del día al mediodía cuesta pocos soles y es lo que come la gente local. Lleva el bolso por delante: aquí hay carteristas."
+        nome: "Iglesia de la Compañía de Jesús",
+        testo: "La iglesia de los jesuitas en el lado sureste de la Plaza de Armas, construida sobre los restos del palacio del inca Huayna Cápac. La fachada barroca es más rica que la de la Catedral, con la que los jesuitas querían competir, e iluminada de noche es la postal de la plaza.",
+        come: "En la Plaza de Armas, a pocos pasos de la Catedral. Tiene entrada propia.",
+        quando: "La fachada al atardecer y de noche; el interior a última hora de la tarde.",
+        tempo: "30-45 minutos",
+        lat: -13.5176,
+        lng: -71.97796,
       },
       {
-        "nome": "Montaña de Siete Colores (Vinicunca)",
-        "testo": "La montaña a rayas ocre, rosa y turquesa, por encima de los 5.000 metros. Excursión de un día desde Cusco, con una caminata final en altura dura para el aliento más que por la distancia.",
-        "come": "Excursión de un día con salida de madrugada desde Cusco, unas horas de carretera y una caminata cuesta arriba. Se va con agencia.",
-        "quando": "Temporada seca. Salida antes del amanecer para encontrar menos gente.",
-        "tempo": "Día completo",
-        "consiglio": "Hazla tras algunos días de aclimatación. Rick también hizo la laguna Humantay y otras lagunas de la zona, siempre después de acostumbrarse a la altura."
-      }
+        nome: "Mercado de San Pedro",
+        testo: "El mercado cubierto donde comen los cusqueños: puestos de jugos, sopas, quesos, hierbas y coca. Una primera prueba de la cocina andina sin gastar mucho.",
+        come: "A pie desde la Plaza de Armas, hacia el oeste. Entrada libre.",
+        quando: "Mañana y almuerzo; por la tarde muchos puestos cierran.",
+        tempo: "1 hora",
+        costo: "entrada libre",
+        lat: -13.52116,
+        lng: -71.9825,
+        consiglio: "El menú del día al mediodía cuesta pocos soles y es lo que come la gente local. Lleva el bolso por delante: aquí hay carteristas.",
+      },
+      {
+        nome: "Museo Inka",
+        testo: "El museo de la Universidad San Antonio Abad, en una casona colonial a dos pasos de la plaza, con cerámica, textiles, objetos de oro, qeros pintados y momias. En el patio suelen trabajar tejedoras de comunidades andinas.",
+        come: "A pie desde la Plaza de Armas, subiendo por la Cuesta del Almirante. Tiene entrada propia, no incluida en el Boleto Turístico.",
+        quando: "Una tarde de descanso en los primeros días de aclimatación.",
+        tempo: "1-1,5 horas",
+        lat: -13.51563,
+        lng: -71.97815,
+      },
+      {
+        nome: "Museo de Arte Precolombino (MAP)",
+        testo: "Una selección de la colección del Museo Larco de Lima, expuesta en una casona colonial de la plazoleta Nazarenas. Pocas salas, muy cuidadas: cerámica moche y nazca, oro y plata de las culturas anteriores a los incas.",
+        come: "A pie desde la Plaza de Armas, en la plazoleta Nazarenas. Tiene entrada propia.",
+        quando: "Por la tarde o por la noche.",
+        tempo: "1 hora",
+        lat: -13.51491,
+        lng: -71.97735,
+        consiglio: "Quien no pase por Lima o no tenga tiempo para el Museo Larco encuentra aquí lo esencial.",
+      },
+      {
+        nome: "Iglesia y mirador de San Cristóbal",
+        testo: "La pequeña iglesia en la colina al norte de la plaza, con un atrio asomado a todo Cusco. Al lado quedan los muros del palacio de Manco Cápac, el Colcampata. Es el mirador de la ciudad más cercano al centro.",
+        come: "A pie cuesta arriba desde la Plaza de Armas por la Cuesta del Almirante o en taxi; está en el camino a Sacsayhuamán.",
+        quando: "Al atardecer, cuando la ciudad se ilumina.",
+        tempo: "30 minutos",
+        lat: -13.51343,
+        lng: -71.9802,
+      },
+      {
+        nome: "Q'enqo",
+        testo: "Un santuario inca tallado en un gran afloramiento de roca, con canales en zigzag, hornacinas y una cueva con un altar que se cree usado para ritos y momificaciones. Es el sitio más cercano a Sacsayhuamán y el más misterioso del circuito.",
+        come: "A 1 km de Sacsayhuamán, en la carretera a Pisac: a pie o en taxi. Incluido en el Boleto Turístico.",
+        quando: "Justo después de Sacsayhuamán, por la mañana.",
+        tempo: "30-45 minutos",
+        costo: "incluido en el Boleto Turístico (130 soles, unos 33 €, 2026)",
+        lat: -13.51056,
+        lng: -71.97167,
+      },
+      {
+        nome: "Cristo Blanco",
+        testo: "La estatua blanca de Cristo con los brazos abiertos, regalada a la ciudad en 1945, en la colina junto a Sacsayhuamán. Desde aquí se tiene la vista más amplia de Cusco y del valle.",
+        come: "En taxi o a pie desde la parte alta de San Blas o desde Sacsayhuamán, 10 minutos. Es un espacio abierto.",
+        quando: "Al atardecer, o de noche para ver la ciudad iluminada.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        lat: -13.51042,
+        lng: -71.97622,
+      },
+      {
+        nome: "Tambomachay y Puka Pukara",
+        testo: "Dos pequeños sitios uno frente al otro, en la carretera a Pisac. Tambomachay, el «baño del inca», tiene fuentes y canales de piedra que aún funcionan; Puka Pukara era un puesto de control y descanso en el camino al Valle Sagrado.",
+        come: "En taxi desde Cusco, unos 8 km, o con los buses hacia Pisac. Muchos bajan luego a pie hasta Q'enqo y Sacsayhuamán, cuesta abajo.",
+        quando: "Por la mañana, antes de los grupos del city tour de la tarde.",
+        tempo: "1 hora para los dos",
+        costo: "incluido en el Boleto Turístico (130 soles, unos 33 €, 2026)",
+        lat: -13.48083,
+        lng: -71.96472,
+        consiglio: "Subir en taxi hasta Tambomachay y bajar a pie pasando por Puka Pukara, Q'enqo y Sacsayhuamán: se hace todo el circuito sin esfuerzo de subida.",
+      },
+      {
+        nome: "Montaña de Siete Colores (Vinicunca)",
+        testo: "La montaña a rayas ocre, rosa y turquesa, por encima de los 5.000 metros. Excursión de un día desde Cusco, con una caminata final en altura dura para el aliento más que por la distancia.",
+        come: "Excursión de un día con salida de madrugada desde Cusco, unas horas de carretera y una caminata cuesta arriba. Se va con agencia.",
+        quando: "Temporada seca. Salida antes del amanecer para encontrar menos gente.",
+        tempo: "Día completo",
+        costo: "entrada a Vinicunca unos 25-30 soles (unos 7 €) en efectivo, pagada a la comunidad; el tour desde Cusco se paga aparte (2026)",
+        lat: -13.87023,
+        lng: -71.30295,
+        consiglio: "Hazla tras algunos días de aclimatación. Rick también hizo la laguna Humantay y otras lagunas de la zona, siempre después de acostumbrarse a la altura.",
+      },
+      {
+        nome: "Laguna Humantay",
+        testo: "Un lago turquesa a unos 4.200 metros, al pie del glaciar del Nevado Humantay, en la ruta del trek del Salkantay. La subida desde el aparcamiento de Soraypampa es corta pero empinada y en altura.",
+        come: "Excursión de un día con salida de madrugada desde Cusco: unas 3 horas de carretera hasta Soraypampa, luego 1-1,5 horas de subida. Hay caballos para buena parte de la subida.",
+        quando: "Temporada seca, de mayo a septiembre; llegar temprano, antes de que las nubes cubran la montaña.",
+        tempo: "Día completo",
+        costo: "entrada aparte del tour, a aclarar con la agencia",
+        lat: -13.37955,
+        lng: -72.58466,
+        consiglio: "Mejor tras unos días de aclimatación, como la Montaña de Siete Colores; capas de abrigo, protector solar y agua.",
+      },
     ],
     programmi: [
       {
-        "titolo": "1 día",
-        "tappe": [
-          "Mañana: Plaza de Armas y Catedral",
+        titolo: "1 día",
+        tappe: [
+          "Mañana: Plaza de Armas, Catedral e iglesia de la Compañía",
           "Qorikancha y almuerzo en el mercado de San Pedro",
           "Tarde: San Blas y la Piedra de los Doce Ángulos",
-          "Noche: cena ligera y a la cama temprano, estás en altura"
-        ]
+          "Atardecer en el mirador de San Cristóbal",
+          "Noche: cena ligera y a la cama temprano, estás en altura",
+        ],
       },
       {
-        "titolo": "2 días",
-        "tappe": [
+        titolo: "2 días",
+        tappe: [
           "Día 1: plaza, San Blas y mercado, todo tranquilo, té de coca y nada de alcohol",
-          "Día 2 mañana: Qorikancha",
-          "Día 2 tarde: Sacsayhuamán en taxi y bajada a pie hacia San Blas"
-        ]
+          "Día 2 mañana: Qorikancha y Museo Inka",
+          "Día 2 tarde: taxi hasta Tambomachay, luego a pie cuesta abajo por Puka Pukara, Q'enqo y Sacsayhuamán",
+          "Día 2 atardecer: Cristo Blanco y bajada hacia San Blas",
+        ],
       },
       {
-        "titolo": "3 días",
-        "tappe": [
+        titolo: "3 días",
+        tappe: [
           "Días 1-2 como en el programa de 2 días",
-          "Día 3: dormir ya en el Valle Sagrado (más bajo) o, bien aclimatados, Montaña de Siete Colores o laguna Humantay en el día"
-        ]
-      }
+          "Día 3: Museo de Arte Precolombino y últimos paseos por la ciudad, luego noche ya en el Valle Sagrado (más bajo)",
+          "Como alternativa, bien aclimatados: Montaña de Siete Colores o laguna Humantay en el día",
+        ],
+      },
     ],
     zone: [
       {
-        "nome": "Centro histórico y Plaza de Armas",
-        "perChi": "Quien llega y quiere todo a pie",
-        "testo": "La zona más cómoda para restaurantes, agencias y transporte. De noche es animada y algo ruidosa; cuidado con los carteristas en las calles más turísticas."
+        nome: "Centro histórico y Plaza de Armas",
+        perChi: "Quien llega y quiere todo a pie",
+        testo: "La zona más cómoda para restaurantes, agencias y transporte. De noche es animada y algo ruidosa; cuidado con los carteristas en las calles más turísticas.",
+        fascia: "40-150 €",
       },
       {
-        "nome": "San Blas",
-        "perChi": "Quien busca ambiente y talleres",
-        "testo": "El barrio más bonito, con callejones y cafés. Todo en subida, y en los primeros días en altura las escaleras pesan mucho."
+        nome: "San Blas",
+        perChi: "Quien busca ambiente y talleres",
+        testo: "El barrio más bonito, con callejones y cafés. Todo en subida, y en los primeros días en altura las escaleras pesan mucho.",
+        fascia: "40-130 €",
       },
       {
-        "nome": "Zona de San Pedro y Santa Ana",
-        "perChi": "Quien quiere ahorrar",
-        "testo": "Alojamientos más baratos cerca del mercado y de la terminal de buses. Menos pintoresca, pero la plaza queda a pie."
-      }
+        nome: "Zona de San Pedro y Santa Ana",
+        perChi: "Quien quiere ahorrar",
+        testo: "Alojamientos más baratos cerca del mercado y de la terminal de buses. Menos pintoresca, pero la plaza queda a pie.",
+        fascia: "25-60 €",
+      },
+      {
+        nome: "Valle Sagrado (Urubamba y Ollantaytambo)",
+        perChi: "quien quiere aclimatarse más abajo",
+        testo: "Pueblos a unos 2.800-2.900 metros, 600 por debajo de Cusco: se duerme mejor y ya se está en el camino a Machu Picchu. Desde aquí Cusco queda a hora y media.",
+        fascia: "50-250 €",
+      },
     ],
     sapori: [
       {
@@ -163,6 +270,58 @@ export const destinazioniPeru: Destinazione[] = [
       "Carteristas en las zonas turísticas concurridas y en el mercado de San Pedro: bolso por delante, sin el teléfono en la mano.",
       "Mal de altura (soroche): dos días de calma real antes de cualquier trek, sin alcohol el primer día.",
       "Buses de larga distancia: usa solo las compañías principales, sobre todo de noche."
+    ],
+    gite: [
+      {
+        nome: "Pisac y el Valle Sagrado",
+        distanza: "1 hora en coche aprox., 33 km",
+        come: "Colectivo o bus desde el centro, taxi, o tour de un día que combina Pisac, Urubamba y Ollantaytambo.",
+        testo: "Las terrazas y la ciudadela inca sobre el pueblo de Pisac, el mercado artesanal abajo y el valle del Urubamba. Las ruinas de Pisac están incluidas en el Boleto Turístico.",
+      },
+      {
+        nome: "Chinchero, Moray y Maras",
+        distanza: "1-1,5 horas en coche, unos 50 km",
+        come: "Coche con conductor o tour de medio día; en transporte público es incómodo.",
+        testo: "La iglesia y las tejedoras de Chinchero, las terrazas circulares de Moray y los miles de pozas de las salineras de Maras, que tienen entrada aparte de unos 20 soles en efectivo.",
+      },
+      {
+        nome: "Machu Picchu",
+        distanza: "3,5-4 horas entre coche y tren",
+        come: "Coche o bus hasta Ollantaytambo, tren PeruRail o IncaRail hasta Aguas Calientes, luego bus lanzadera hasta la entrada.",
+        testo: "Factible en el día pero larguísima: mejor dormir en Aguas Calientes y entrar en el primer turno. Entradas solo en tuboleto.cultura.pe, con mucha antelación.",
+      },
+      {
+        nome: "Tipón y Andahuaylillas",
+        distanza: "40-50 minutos en coche, unos 25-40 km",
+        come: "Taxi o coche para medio día hacia el sureste, en la carretera a Puno.",
+        testo: "Los canales de agua incas aún en funcionamiento de Tipón y la iglesia de Andahuaylillas, llamada la «Capilla Sixtina de los Andes» por sus muros pintados. Medio día lejos de los grupos.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Cusco?",
+        risposta: "Al menos tres: uno solo para aclimatarse, uno para el Qorikancha y los sitios sobre la ciudad, uno para museos o una excursión. Con el Valle Sagrado y Machu Picchu se llega fácilmente a 5-6 días en la zona.",
+      },
+      {
+        domanda: "¿Cómo evitar el mal de altura en Cusco?",
+        risposta: "El primer día se camina despacio, se bebe mucho, se evita el alcohol y se come ligero; el mate de coca ayuda. Quien pueda duerme las primeras noches en el Valle Sagrado, 600 metros más abajo, y deja para después las excursiones por encima de 4.000 metros.",
+      },
+      {
+        domanda: "¿Compensa el Boleto Turístico del Cusco?",
+        risposta: "Casi siempre: por unos 130 soles cubre durante 10 días Sacsayhuamán, Q'enqo, Tambomachay, Pisac, Ollantaytambo, Moray y varios museos. No incluye el Qorikancha, la Catedral, las salineras de Maras ni Machu Picchu.",
+      },
+      {
+        domanda: "¿Mejor dormir en Cusco o en el Valle Sagrado?",
+        risposta: "En Cusco por los museos, los restaurantes y la noche; en el Valle Sagrado para aclimatarse mejor y acercarse a Machu Picchu. Muchos reparten las noches entre los dos.",
+      },
+      {
+        domanda: "¿Montaña de Siete Colores o laguna Humantay?",
+        risposta: "La Montaña de Siete Colores supera los 5.000 metros y es más dura; Humantay es más corta y menos concurrida. Las dos requieren unos días de aclimatación y salir antes del amanecer.",
+      },
+      {
+        domanda: "¿Cuándo ir a Cusco?",
+        risposta: "De mayo a septiembre, la temporada seca, con días despejados y noches frías. En torno al 24 de junio, por el Inti Raymi, la ciudad está llena y el alojamiento se reserva con mucha antelación.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],

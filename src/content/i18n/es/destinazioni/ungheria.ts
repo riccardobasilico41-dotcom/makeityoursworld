@@ -24,7 +24,7 @@ export const destinazioniUngheria: Destinazione[] = [
       'La Isla Margarita (Margitsziget), parque sin tráfico en medio del Danubio, con fuente musical y sus propias termas',
     ],
     cosaFare: [
-      'Baño en las Termas de Széchenyi o de Gellért (ver las fichas de experiencia dedicadas)',
+      'Baño en las Termas de Széchenyi (las Gellért están cerradas por restauración al menos hasta 2028; en el lado de Buda está Rudas)',
       'Un crucero o un paseo nocturno por el Danubio, para ver el Parlamento y el Castillo iluminados desde el agua',
       'Subir a la Cúpula de la Basílica de San Esteban para ver el panorama sobre los tejados de Pest',
       'Una ruta por los ruin bars del barrio judío, como el Szimpla Kert',
@@ -35,10 +35,10 @@ export const destinazioniUngheria: Destinazione[] = [
     doveMangiare:
       'El gulash (gulyás), aquí más sopa que estofado, en la versión original húngara; el lángos, un disco de masa frita con nata agria y queso, la comida callejera más extendida; el paprikás csirke (pollo al pimentón); los dulces como el rétes (strudel) y la tarta Dobos. El Mercado Central (Nagycsarnok), inaugurado en 1897, es el mejor sitio para probar productos locales, pimentón incluido, a precios contenidos en comparación con los restaurantes turísticos del centro.',
     comeArrivare:
-      'Aeropuerto Ferenc Liszt (BUD), al sureste de la ciudad: autobús lanzadera directo al centro, o autobús de línea más metro. No existe una conexión ferroviaria directa cómoda desde Italia: normalmente se llega en avión. Desde Viena hay trenes directos.',
+      "Aeropuerto Liszt Ferenc (BUD), al sureste de la ciudad. El autobús 100E llega al centro (Kálvin tér, Astoria, Deák Ferenc tér) en 35-40 minutos: 2.500 HUF desde el 1 de octubre de 2025, pagados con tarjeta o móvil a bordo o en la app BudapestGO, porque los billetes normales de BKK no sirven. Más barato es el autobús 200E hasta el metro M3 en Kőbánya-Kispest y luego el metro: 50-60 minutos con dos billetes sencillos de unos 500 HUF, validando los dos. El taxi oficial Főtaxi, con la fila frente a las terminales 2A y 2B, cuesta unos 12.000-15.000 HUF hasta Pest; Bolt tiene precios parecidos. Desde España e Italia se llega normalmente en avión; desde Viena hay trenes directos.",
     comeSpostarsi: 'Red BKK de metro, tranvía y autobús, capilar y económica. El centro de Pest y la colina de Buda se recorren bien también a pie. No hace falta coche.',
     periodoMigliore: 'abril-mayo y septiembre-octubre por el clima suave y menos gente; junio-agosto es temporada alta, calurosa y abarrotada; noviembre-marzo es frío pero las termas se convierten en una experiencia especial, con los mercadillos de Navidad en diciembre',
-    costi: 'ciudad de gama medio-baja para los estándares de Europa occidental: transporte público económico, la entrada a las termas es el gasto más caro de una jornada tipo',
+    costi: "Presupuesto diario por persona, sin vuelo: bajo 50-70 € (albergue o habitación en el distrito VII, lángos y comedores, transporte público); medio 100-150 € (hotel de tres estrellas en doble, dos comidas en restaurante, balneario y un par de entradas); alto desde 220 € (hotel junto al Danubio, restaurantes de cocina húngara moderna, crucero nocturno). Lo más caro de un día típico suele ser la entrada al balneario.",
     erroriDaEvitare: [
       'Seguir a quien aborda en la calle proponiendo «un local fantástico» en el barrio judío o alrededor de las plazas turísticas: es el esquema clásico que lleva a cuentas infladas hasta el extremo',
       'Confundir los ceros del florín: una cuenta de «8.000» no son 8 euros, y es fácil equivocarse los primeros días',
@@ -52,7 +52,11 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "Funicular Sikló desde Clark Ádám tér, junto al Puente de las Cadenas, o a pie.",
         quando: "Mañana, para evitar los grupos.",
         tempo: "2-3 horas",
-        consiglio: "Desde el lado sur de la colina se tiene la mejor vista del Danubio."
+        costo: "patios y terrazas gratuitos; funicular y museos de pago",
+        orari: "patios y terrazas siempre accesibles; los museos tienen horarios propios",
+        lat: 47.49611,
+        lng: 19.03972,
+        consiglio: "Desde el lado sur de la colina se tiene la mejor vista del Danubio.",
       },
       {
         nome: "Bastión de los Pescadores e Iglesia de Matías",
@@ -60,7 +64,9 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "A pie desde el Castillo.",
         quando: "Amanecer o atardecer, para fotos sin multitudes; mucha gente a mediodía.",
         tempo: "1-1,5 horas",
-        consiglio: "Parte de las terrazas superiores es de pago: precios y horarios en el lugar."
+        lat: 47.5027,
+        lng: 19.0344,
+        consiglio: "Parte de las terrazas superiores es de pago: precios y horarios en el lugar.",
       },
       {
         nome: "Parlamento húngaro",
@@ -68,8 +74,11 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "Metro M2 o tranvía 2 hasta Kossuth Lajos tér. Las entradas se reservan online para una hora.",
         quando: "Mañana; hay control de seguridad en la entrada.",
         tempo: "1 hora",
+        costo: "unos 7.000 HUF (unos 18 €) para ciudadanos de la UE, solo con visita guiada de unos 45 minutos (2026)",
+        lat: 47.50694,
+        lng: 19.04556,
         url: "https://www.parlament.hu",
-        consiglio: "Reservar con días de antelación, sobre todo en temporada alta."
+        consiglio: "Reservar con días de antelación, sobre todo en temporada alta.",
       },
       {
         nome: "Puente de las Cadenas y paseo del río",
@@ -78,7 +87,10 @@ export const destinazioniUngheria: Destinazione[] = [
         quando: "Tarde, cuando el puente y el Parlamento están iluminados.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Caminar junto al Danubio desde Pest al atardecer."
+        orari: "siempre abierto",
+        lat: 47.49889,
+        lng: 19.04361,
+        consiglio: "Caminar junto al Danubio desde Pest al atardecer.",
       },
       {
         nome: "Termas Széchenyi",
@@ -86,8 +98,12 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "Metro M1 (línea amarilla) hasta la parada Széchenyi fürdő, en el centro del parque Városliget.",
         quando: "Mañana entre semana; las noches de verano tienen fiestas.",
         tempo: "media jornada",
+        costo: "entrada de día con taquilla 13.200 HUF (unos 33 €) de lunes a jueves, 14.800 HUF (unos 37 €) de viernes a domingo, 15.800 HUF en festivos y temporada alta; 10.500 HUF entrando antes de las 9 (2026)",
+        orari: "lun-jue 7-20, viernes 7-22, sábado y domingo 8-20",
+        lat: 47.51861,
+        lng: 19.08194,
         url: "https://www.szechenyibath.hu",
-        consiglio: "Llevar chancletas y toalla. Horarios y precios cambian: consultarlos en la web oficial, donde también se compran las entradas."
+        consiglio: "Llevar chancletas y toalla. Horarios y precios cambian: consultarlos en la web oficial, donde también se compran las entradas.",
       },
       {
         nome: "Gran Mercado Central",
@@ -95,7 +111,10 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "Metro M4 o tranvía 2, 47 y 49 hasta Fővám tér, o a pie desde Váci utca.",
         quando: "Mañana entre semana; cerrado el domingo.",
         tempo: "1-1,5 horas",
-        consiglio: "Pagar en forintos, las casas de cambio aquí son caras."
+        orari: "cerrado el domingo; el sábado cierra a primera hora de la tarde",
+        lat: 47.48667,
+        lng: 19.05889,
+        consiglio: "Pagar en forintos, las casas de cambio aquí son caras.",
       },
       {
         nome: "Gran Sinagoga de la calle Dohány",
@@ -103,7 +122,10 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "Metro M2 o tranvía 47 y 49 hasta Astoria, luego unos pasos a pie.",
         quando: "Mañana entre semana; días de cierre en la web oficial.",
         tempo: "1,5 horas",
-        consiglio: "En el complejo también está el Museo Judío Húngaro."
+        orari: "cerrada el sábado y en las fiestas judías",
+        lat: 47.49583,
+        lng: 19.06083,
+        consiglio: "En el complejo está también el Museo Judío de Hungría. Para entrar hay que llevar los hombros cubiertos.",
       },
       {
         nome: "Barrio judío y ruin bars",
@@ -111,53 +133,134 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "A pie desde el centro.",
         quando: "Noche.",
         tempo: "2-3 horas",
-        consiglio: "De día el Szimpla Kert está más tranquilo y se visita mejor."
-      }
+        costo: "entrada libre a los ruin bars",
+        lat: 47.497,
+        lng: 19.0634,
+        url: "https://szimpla.hu",
+        consiglio: "De día el Szimpla Kert está más tranquilo y se visita mejor.",
+      },
+      {
+        nome: "Basílica de San Esteban",
+        testo: "La iglesia más grande de Budapest, con una cúpula de 96 metros, la misma altura que la del Parlamento: por ley ningún edificio de la ciudad puede superarlas. En una capilla lateral se conserva la Santa Diestra, la mano momificada del rey Esteban.",
+        come: "Metro M1 hasta Bajcsy-Zsilinszky út o M3 hasta Arany János utca; desde Deák Ferenc tér son 5 minutos a pie.",
+        quando: "Última hora de la tarde para la terraza; el domingo la iglesia abre solo desde las 13.",
+        tempo: "1 hora",
+        costo: "terraza panorámica y tesoro con entrada aparte",
+        orari: "iglesia lun-sáb 9-18, domingo 13-18; terraza panorámica y tesoro todos los días 9-19",
+        lat: 47.50083,
+        lng: 19.05389,
+        url: "https://www.bazilika.biz",
+        consiglio: "A la terraza de la cúpula, a 65 metros, se sube en ascensor o por unos 300 escalones: es el mirador más alto de Pest.",
+      },
+      {
+        nome: "Avenida Andrássy y Ópera",
+        testo: "El bulevar decimonónico, patrimonio de la UNESCO, que recorre 2,5 km desde el centro hasta la Plaza de los Héroes, con debajo la línea M1 de 1896, el metro más antiguo de la Europa continental. A mitad de camino está la Ópera Estatal neorrenacentista de Miklós Ybl, reabierta en 2022 tras la restauración.",
+        come: "A pie desde Deák Ferenc tér, o en M1 hasta Opera. El interior de la Ópera se ve con visitas guiadas o en una función.",
+        quando: "Por la tarde, con una parada en uno de los cafés históricos de la avenida.",
+        tempo: "1-2 horas",
+        lat: 47.50287,
+        lng: 19.05816,
+        url: "https://www.opera.hu",
+      },
+      {
+        nome: "Casa del Terror",
+        testo: "El museo del número 60 de Andrássy út, en el edificio que fue sede de la Cruz Flechada nazi y después de la policía política comunista. Cuenta las dos dictaduras húngaras del siglo XX, con las celdas originales en el sótano.",
+        come: "Metro M1 hasta Vörösmarty utca, o tranvía 4 y 6 hasta Oktogon.",
+        quando: "Por la mañana, entre semana.",
+        tempo: "2 horas",
+        costo: "4.000 HUF (unos 10 €) adultos, solo en la taquilla del museo (2026)",
+        orari: "mar-dom 10-18, taquilla hasta las 17.30; cerrado el lunes",
+        lat: 47.5069,
+        lng: 19.0651,
+        url: "https://www.terrorhaza.hu",
+      },
+      {
+        nome: "Plaza de los Héroes y Városliget",
+        testo: "La plaza del monumento del Milenio, construido para los mil años de la llegada de los magiares, con las estatuas de los jefes tribales y los reyes. Detrás se abre el Városliget, el parque de la ciudad con el castillo de Vajdahunyad, el balneario Széchenyi y los nuevos museos del Liget.",
+        come: "Metro M1 hasta Hősök tere.",
+        quando: "Por la mañana o a última hora de la tarde; en invierno el lago se convierte en pista de patinaje.",
+        tempo: "1-2 horas",
+        costo: "plaza y parque gratuitos",
+        orari: "siempre accesibles",
+        lat: 47.515,
+        lng: 19.07778,
+      },
+      {
+        nome: "Colina Gellért y Ciudadela",
+        testo: "La colina de 235 metros en la orilla de Buda, con la Estatua de la Libertad y la fortaleza de los Habsburgo construida tras la revolución de 1848. Desde arriba se ve el Danubio con todos sus puentes, el Parlamento y el Castillo.",
+        come: "A pie desde el Puente Isabel o el Puente de la Libertad, unos 30 minutos de subida; o autobús 27 desde Móricz Zsigmond körtér.",
+        quando: "Al atardecer, cuando se encienden las luces de los puentes.",
+        tempo: "1,5-2 horas",
+        costo: "entrada libre",
+        lat: 47.48699,
+        lng: 19.04627,
+      },
+      {
+        nome: "Isla Margarita",
+        testo: "Una isla de 2,5 km en medio del Danubio, casi sin coches, donde la gente de Budapest va a correr y a hacer pícnic. Tiene la fuente musical, un jardín japonés, las ruinas de un convento dominico y una pista para correr de 5,3 km.",
+        come: "Tranvía 4 y 6 hasta la parada del Puente Margarita, o autobús 26, que la atraviesa.",
+        quando: "Por la tarde, de abril a octubre.",
+        tempo: "2 horas",
+        costo: "entrada libre",
+        lat: 47.5275,
+        lng: 19.0475,
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Mañana: Castillo de Buda",
-          "Bastión de los Pescadores",
+          "Primera hora: Bastión de los Pescadores e Iglesia de Matías",
+          "Castillo de Buda y Palacio Real",
+          "Bajada en funicular o a pie hasta el Puente de las Cadenas",
           "Almuerzo con lángos",
-          "Tarde: Puente de las Cadenas",
-          "Noche: Parlamento iluminado"
-        ]
+          "Basílica de San Esteban y terraza de la cúpula",
+          "Atardecer en los Zapatos a orillas del Danubio, con el Parlamento iluminado",
+          "Noche: ruin bars en el barrio judío",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
           "Día 1 como arriba",
-          "Día 2: Széchenyi por la mañana",
-          "Gran Mercado Central",
-          "Sinagoga y barrio judío, ruin bars"
-        ]
+          "Día 2: visita guiada al Parlamento, reservada",
+          "Avenida Andrássy y Ópera",
+          "Casa del Terror (no en lunes)",
+          "Plaza de los Héroes y Városliget",
+          "Tarde en el balneario Széchenyi",
+        ],
       },
       {
         titolo: "3 días",
         tappe: [
           "Días 1-2 como arriba",
-          "Día 3: Isla Margarita, Colina Gellért, House of Terror"
-        ]
-      }
+          "Día 3: Gran Mercado Central (no en domingo)",
+          "Gran Sinagoga de la calle Dohány (no en sábado)",
+          "Isla Margarita por la tarde",
+          "Atardecer en la Colina Gellért",
+          "Alternativa para el día 3: excursión a Szentendre",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Pest (distritos V y VI)",
         perChi: "Quien quiere estar a un paso de todo",
-        testo: "Cerca de Váci utca y la Basílica; precios más altos y ruido nocturno."
+        testo: "Cerca de Váci utca y la Basílica; precios más altos y ruido nocturno.",
+        fascia: "90-180 €",
       },
       {
         nome: "Barrio judío (VII)",
         perChi: "Quien busca vida nocturna",
-        testo: "Lleno de bares, ruidoso los fines de semana."
+        testo: "Lleno de bares, ruidoso los fines de semana.",
+        fascia: "70-140 €",
       },
       {
         nome: "Buda (distritos I y II)",
         perChi: "Quien prefiere la tranquilidad",
-        testo: "Cerca del Castillo, calles silenciosas; menos restaurantes baratos."
-      }
+        testo: "Cerca del Castillo, calles silenciosas; menos restaurantes baratos.",
+        fascia: "90-200 €",
+      },
     ],
     sapori: [
       {
@@ -183,6 +286,52 @@ export const destinazioniUngheria: Destinazione[] = [
       "Cambio: usar cajeros bancarios y rechazar que se cobre en euros.",
       "Transporte público: billetes a validar o a comprar con BudapestGO, la app oficial de BKK; los revisores multan a los turistas.",
       "El servicio a veces ya está incluido: revisar la cuenta."
+    ],
+    gite: [
+      {
+        nome: "Szentendre",
+        distanza: "40 minutos en tren de cercanías aprox.",
+        come: "Tren HÉV H5 desde Batthyány tér hasta el final de la línea; en verano también en barco por el Danubio.",
+        testo: "El pueblo de los artistas a orillas del Danubio, con iglesias ortodoxas serbias, callejuelas en cuesta, galerías y el museo al aire libre de arquitectura rural (Skanzen) a las afueras.",
+      },
+      {
+        nome: "Recodo del Danubio: Visegrád y Esztergom",
+        distanza: "1-1,5 horas en tren o autobús",
+        come: "Tren desde Budapest-Nyugati hasta Nagymaros y ferry a Visegrád; para Esztergom, tren directo o autobús. De mayo a septiembre también hay barcos.",
+        testo: "Donde el río gira hacia el sur entre colinas: en Visegrád la ciudadela sobre el recodo, en Esztergom la basílica más grande de Hungría, en la frontera con Eslovaquia.",
+      },
+      {
+        nome: "Palacio de Gödöllő",
+        distanza: "1 hora en tren de cercanías aprox.",
+        come: "Tren HÉV H8 desde Örs vezér tere (metro M2) hasta Gödöllő, Szabadság tér.",
+        testo: "El palacio barroco donde Isabel de Austria pasaba largas temporadas: las habitaciones de Sissi son el motivo de la visita.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para visitar Budapest?",
+        risposta: "Tres: uno para Buda y la ribera, uno para el Parlamento, la avenida Andrássy y los balnearios, y uno para el barrio judío, el mercado y la Colina Gellért. En dos días se ve lo esencial, con un ritmo apretado.",
+      },
+      {
+        domanda: "¿Qué balneario elegir en Budapest?",
+        risposta: "El Széchenyi es el más famoso y sigue abierto: conviene entrar temprano, también por la entrada reducida antes de las 9. El Gellért está cerrado por restauración desde el 1 de octubre de 2025, con reapertura prevista en 2028.",
+      },
+      {
+        domanda: "¿Hay que reservar el Parlamento?",
+        risposta: "Sí: solo se entra con visita guiada, en horarios e idiomas fijos, y las entradas en línea se agotan con días de antelación. Para ciudadanos de la UE cuesta unos 7.000 HUF; hay que llevar documento.",
+      },
+      {
+        domanda: "¿Se paga en euros en Budapest?",
+        risposta: "No, la moneda es el forinto (HUF). Las tarjetas funcionan casi en todas partes; mejor evitar las casas de cambio de Váci utca y sacar forintos de un cajero bancario.",
+      },
+      {
+        domanda: "¿Cómo se va del aeropuerto al centro?",
+        risposta: "Con el autobús 100E, que en 35-40 minutos llega a Kálvin tér, Astoria y Deák Ferenc tér: 2.500 HUF, con tarjeta a bordo o en la app BudapestGO. El taxi oficial Főtaxi cuesta unos 12.000-15.000 HUF.",
+      },
+      {
+        domanda: "¿Es mejor alojarse en Buda o en Pest?",
+        risposta: "En Pest, entre los distritos V, VI y VII: es más cómoda para moverse a pie y para salir de noche. Buda es más tranquila y panorámica, pero por la noche obliga a usar el transporte.",
+      },
     ],
     esperienzeSlugs: ['terme-szechenyi', 'terme-gellert', 'crociera-danubio', 'ruin-bar-tour'],
     tripSlugs: ['budapest-weekend'],

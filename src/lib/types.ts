@@ -118,9 +118,14 @@ export type Destinazione = {
    */
   luoghi?: LuogoGuida[]
   programmi?: { titolo: string; tappe: string[] }[]
-  zone?: { nome: string; perChi: string; testo: string }[]
+  /** `fascia`: prezzo indicativo di una doppia a notte («60-120 €»). */
+  zone?: { nome: string; perChi: string; testo: string; fascia?: string }[]
   sapori?: { nome: string; testo: string }[]
   attenzioni?: string[]
+  /** Gite in giornata da qui: distanza o tempo, come ci si va, perché merita. */
+  gite?: { nome: string; distanza: string; come: string; testo: string }[]
+  /** Domande frequenti mostrate in pagina (e nei dati strutturati al posto di quelle generiche). */
+  faq?: { domanda: string; risposta: string }[]
   esperienzeSlugs: string[]
   tripSlugs: string[]
   imageAlt: string
@@ -141,6 +146,11 @@ export type LuogoGuida = {
   tempo?: string
   /** Biglietto o costo indicativo, con l'anno del dato. */
   costo?: string
+  /** Orari e giorni di chiusura. */
+  orari?: string
+  /** Coordinate del luogo: diventano un link «Apri in Google Maps». */
+  lat?: number
+  lng?: number
   /** Sito ufficiale per biglietti o orari. */
   url?: string
   consiglio?: string

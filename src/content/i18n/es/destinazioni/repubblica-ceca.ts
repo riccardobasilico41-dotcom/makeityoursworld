@@ -33,10 +33,10 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     doveMangiare:
       "El plato símbolo es el svíčková (asado de ternera en salsa de nata y verduras, servido con knedlíky, las albóndigas de pan en rodajas), junto con el guláš y el trdelník, el dulce callejero enrollado y cocido en brasas, convertido en los últimos años en un símbolo (más turístico que tradicional). Las hospodas, los pubs tradicionales, siguen siendo la manera más auténtica y económica de comer platos checos con una cerveza de barril. Para beber está la cerveza: el país tiene el mayor consumo per cápita del mundo, y fuera de las zonas turísticas la cerveza cuesta a menudo menos que el agua embotellada.",
     comeArrivare:
-      "Aeropuerto Václav Havel (PRG), a unos 17 km del centro: no hay conexión directa en metro, pero un autobús (línea 119 o 191) lleva en 15-20 minutos a la estación de metro más cercana (Nádraží Veleslavín, línea A), y desde allí el centro está a pocos minutos. Desde Italia no hay un tren directo cómodo: por lo general se llega en avión. Desde Viena, tren directo en unas 4 horas.",
+      "El aeropuerto Václav Havel (PRG), a unos 17 km del centro, no tiene metro directo. El autobús 59 llega en 15-20 minutos a Nádraží Veleslavín (metro A) y el centro queda a unos 35 minutos con un solo billete de 90 minutos: 50 CZK en las máquinas, 46 en la app PID Lítačka. El Airport Express (AE) va a la estación central en unos 45 minutos por 200 CZK; de noche hay autobuses 907 y 910 cada media hora. Un taxi o un Uber o Bolt desde los puntos señalizados cuesta unos 600-800 CZK (25-32 €). Desde España e Italia se llega casi siempre en avión; desde Viena hay tren directo, unas 4 horas.",
     comeSpostarsi: "El casco histórico, todo a pie. Para el resto de la ciudad está la red de metro, tranvía y autobús PID, con billetes por tiempo económicos que hay que validar a bordo. No hace falta coche.",
     periodoMigliore: "abril-mayo y septiembre-octubre por el clima suave y menos gente; junio-agosto es temporada alta, concurrida y más calurosa; noviembre-marzo hace frío pero se recorre bien, con los mercadillos de Navidad en diciembre",
-    costi: "ciudad todavía económica fuera del centro más turístico: comida en una hospoda de barrio pocos euros, cena en el casco histórico 15-20 € por persona, transporte público pocos CZK por viaje",
+    costi: "Presupuesto diario por persona, sin vuelo: bajo 60-80 € (albergue o habitación fuera del centro, almuerzos en hospody de barrio, transporte público); medio 120-180 € (hotel de tres estrellas en doble, dos comidas en restaurante, un par de entradas); alto desde 250 € (hotel en Staré Město o Malá Strana, restaurantes del centro, visitas guiadas). Medio litro de cerveza en un pub de barrio cuesta 55-80 CZK, frente a los 100-150 CZK de la plaza principal.",
     erroriDaEvitare: [
       "Sentarse en un restaurante de alrededor de la Plaza de la Ciudad Vieja o de la calle Karlova sin comprobar antes el menú y los precios: es la zona con más denuncias de cuentas infladas, «welcome drink» no pedidos y partidas añadidas a la cuenta",
       "Coger el tranvía 22 hacia el Castillo con objetos de valor en bolsillos o mochilas abiertas: es la línea más señalada por los hurtos, sobre todo en temporada alta",
@@ -51,9 +51,12 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         come: "A pie; la parada de metro más cercana es Staroměstská. El Orloj se ve desde la plaza, gratis.",
         quando: "Cada hora de 8 a 23, llegando unos minutos antes; la torre del ayuntamiento tiene un mirador de pago.",
         tempo: "1 hora",
-        costo: "plaza y espectáculo gratuitos",
+        costo: "plaza y espectáculo gratuitos; torre del Ayuntamiento Viejo 350 CZK (unos 14 €), a mitad de precio en la primera hora tras la apertura (2026)",
+        orari: "torre del ayuntamiento todos los días 9-20 de abril a diciembre, 10-19 de enero a marzo",
+        lat: 50.08698,
+        lng: 14.42029,
         url: "https://www.prague.eu",
-        consiglio: "Subir a la torre del ayuntamiento para ver la plaza."
+        consiglio: "Subir a la torre del ayuntamiento para ver la plaza.",
       },
       {
         nome: "Puente de Carlos",
@@ -62,7 +65,10 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         quando: "Al amanecer, cuando está vacío, o a última hora de la noche.",
         tempo: "30-45 minutos",
         costo: "entrada libre",
-        consiglio: "Los carteristas están activos en las horas punta; llevar el bolso por delante."
+        orari: "siempre abierto",
+        lat: 50.08639,
+        lng: 14.41194,
+        consiglio: "Los carteristas están activos en las horas punta; llevar el bolso por delante.",
       },
       {
         nome: "Castillo de Praga y Catedral de San Vito",
@@ -70,8 +76,12 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         come: "Tranvía 22 hasta la parada Pražský hrad, o a pie cuesta arriba desde Malá Strana. El conjunto abre todos los días de 6 a 22; para entrar en los edificios hace falta entrada (en la taquilla o en línea, válida 2 días).",
         quando: "Temprano por la mañana, a la apertura. Cambio de guardia cada hora de 9 a 18 en las puertas; el solemne, con fanfarria, a mediodía en el primer patio.",
         tempo: "3-4 horas",
+        costo: "patios y nave de la Catedral gratuitos; circuito principal unos 450 CZK (unos 18 €) (2026)",
+        orari: "recinto del Castillo 6-22 todos los días; edificios históricos 9-17 de abril a octubre, 9-16 de noviembre a marzo; Catedral lun-sáb desde las 9, domingo desde las 12, cierra a las 17 (16 en invierno)",
+        lat: 50.09081,
+        lng: 14.40052,
         url: "https://www.hrad.cz",
-        consiglio: "Hay varios tipos de entrada: comparar en el sitio oficial qué incluye cada una."
+        consiglio: "Hay varios tipos de entrada: comparar en el sitio oficial qué incluye cada una.",
       },
       {
         nome: "Malá Strana y Muro de John Lennon",
@@ -80,7 +90,10 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         quando: "Mañana o última hora de la tarde.",
         tempo: "2 horas",
         costo: "entrada libre",
-        consiglio: "Dejar el muro como está: no hacen falta más dibujos."
+        orari: "barrio y muro siempre accesibles",
+        lat: 50.08624,
+        lng: 14.40695,
+        consiglio: "Dejar el muro como está: no hacen falta más dibujos.",
       },
       {
         nome: "Josefov y Museo Judío",
@@ -88,9 +101,12 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         come: "A pie desde la Plaza de la Ciudad Vieja.",
         quando: "Abierto todos los días salvo los sábados y las fiestas judías; temprano, antes de los grupos.",
         tempo: "2-3 horas",
-        costo: "600 CZK adultos para todos los sitios del Museo Judío (2026)",
+        costo: "600 CZK (unos 24 €) adultos para todos los sitios del Museo Judío (2026)",
+        orari: "de domingo a viernes 9-18 de abril a mediados de octubre, 9-16.30 de mediados de octubre a marzo; cerrado los sábados y en las fiestas judías",
+        lat: 50.08972,
+        lng: 14.41861,
         url: "https://www.jewishmuseum.cz",
-        consiglio: "La sinagoga Vieja-Nueva tiene una entrada aparte."
+        consiglio: "La sinagoga Vieja-Nueva tiene una entrada aparte.",
       },
       {
         nome: "Vyšehrad",
@@ -98,9 +114,12 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         come: "Metro línea C hasta Vyšehrad, o en tranvía hasta Albertov o el malecón Rašínovo nábřeží, y luego a pie.",
         quando: "Tarde.",
         tempo: "1,5 horas",
-        costo: "parque libre",
+        costo: "parque y murallas gratuitos; basílica unos 130 CZK (unos 5 €)",
+        orari: "parque y murallas siempre accesibles",
+        lat: 50.06417,
+        lng: 14.41944,
         url: "https://www.praha-vysehrad.cz",
-        consiglio: "Mejor que el Castillo para quien quiere caminar en silencio."
+        consiglio: "Mejor que el Castillo para quien quiere caminar en silencio.",
       },
       {
         nome: "Colina de Petřín",
@@ -108,58 +127,135 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         come: "Funicular desde Újezd: no valen los billetes de 30 y 90 minutos, hace falta el del funicular o un abono de 24 horas o más.",
         quando: "Día despejado.",
         tempo: "2 horas",
-        consiglio: "Subir en funicular y bajar a pie por los parques."
-      }
+        costo: "parque gratuito; torre mirador de pago",
+        orari: "torre mirador 10-18 de septiembre a marzo, 10-19 en abril y mayo, 9-19 de junio a agosto",
+        lat: 50.08354,
+        lng: 14.39505,
+        consiglio: "Subir en funicular y bajar a pie por los parques.",
+      },
+      {
+        nome: "Plaza de Wenceslao y Museo Nacional",
+        testo: "Más un bulevar que una plaza: 750 metros en cuesta en la Ciudad Nueva, donde en 1968 y en 1989 se decidió la historia reciente del país. Arriba están la estatua ecuestre de San Wenceslao y el edificio neorrenacentista del Museo Nacional, reabierto en 2018 tras una larga restauración.",
+        come: "Metro Můstek (líneas A y B) abajo, Muzeum (A y C) arriba; desde la Ciudad Vieja son 5 minutos a pie.",
+        quando: "Por la noche, con las fachadas iluminadas; el museo por la mañana.",
+        tempo: "30 minutos la plaza, 2-3 horas con el museo",
+        lat: 50.08139,
+        lng: 14.4275,
+        url: "https://www.nm.cz",
+      },
+      {
+        nome: "Torre de la Pólvora y Casa Municipal",
+        testo: "La Torre de la Pólvora, puerta gótica de 1475, marca el inicio del Camino Real que llevaba a los reyes a la coronación en el Castillo. Al lado está la Casa Municipal (Obecní dům), el edificio modernista más rico de la ciudad, inaugurado en 1912, con la sala Smetana e interiores decorados por Alfons Mucha.",
+        come: "Metro Náměstí Republiky (línea B). Los interiores de la Casa Municipal se ven con visitas guiadas o entrando en el café y el restaurante de la planta baja.",
+        quando: "Por la tarde, con un café bajo las lámparas del Kavárna Obecní dům.",
+        tempo: "1 hora, 2 con la visita guiada",
+        lat: 50.08776,
+        lng: 14.42776,
+        url: "https://www.obecnidum.cz",
+      },
+      {
+        nome: "Monasterio de Strahov",
+        testo: "Abadía premonstratense fundada en 1143 en la colina sobre el Castillo. Merece la visita por la biblioteca, con la Sala Teológica del siglo XVII y la Sala Filosófica de finales del XVIII pintada al fresco por Maulbertsch; desde los jardines se ve toda la ciudad.",
+        come: "Tranvía 22 o 23 hasta Pohořelec y 5 minutos a pie; desde el Castillo son unos 15 minutos de subida. Entradas en la taquilla de la iglesia de San Roque o en línea.",
+        quando: "A la apertura de las 9, antes de los grupos.",
+        tempo: "1-1,5 horas",
+        orari: "biblioteca todos los días 9-17, último acceso 16.30",
+        lat: 50.08629,
+        lng: 14.38871,
+        url: "https://www.strahovskyklaster.cz",
+        consiglio: "Las dos salas históricas se ven desde la puerta: no se entra, para proteger los libros.",
+      },
+      {
+        nome: "Loreta",
+        testo: "Santuario barroco de peregrinación construido alrededor de una copia de la Santa Casa de Loreto. El campanario tiene un carillón de 27 campanas que suena cada hora, y el tesoro guarda una custodia con más de 6.000 diamantes.",
+        come: "A 5 minutos a pie de Strahov o de la parada de tranvía Pohořelec.",
+        quando: "A la hora en punto, para oír el carillón.",
+        tempo: "45 minutos-1 hora",
+        lat: 50.08944,
+        lng: 14.39194,
+        url: "https://www.loreta.cz",
+      },
+      {
+        nome: "Parque de Letná",
+        testo: "La meseta verde en la orilla norte del Moldava, con la mejor vista de los puentes en fila. Donde estaba la estatua de Stalin, derribada en 1962, oscila un metrónomo gigante; en verano la terraza cervecera bajo los castaños se llena de praguenses.",
+        come: "Tranvía hasta Letenské náměstí, o a pie por las escaleras desde el puente Čechův most.",
+        quando: "Al atardecer, de mayo a septiembre.",
+        tempo: "1-2 horas",
+        costo: "entrada libre",
+        orari: "parque siempre abierto",
+        lat: 50.09374,
+        lng: 14.41253,
+      },
+      {
+        nome: "Casa Danzante",
+        testo: "El edificio de Frank Gehry y Vlado Milunić, terminado en 1996 junto al río, con dos torres que parecen una pareja bailando, de ahí el apodo «Ginger y Fred». Dentro hay un hotel, una galería y un bar panorámico en lo alto.",
+        come: "Tranvía hasta Jiráskovo náměstí, o metro Karlovo náměstí (línea B) y 5 minutos a pie.",
+        quando: "Al atardecer, desde la terraza del bar.",
+        tempo: "30 minutos",
+        lat: 50.07556,
+        lng: 14.41417,
+        url: "https://www.tancicidum.cz",
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Mañana: Castillo de Praga",
+          "Mañana: Castillo de Praga y Catedral de San Vito, a la apertura de las 9",
+          "Bajada a pie por Malá Strana y el Muro de John Lennon",
           "Almuerzo en Malá Strana",
           "Puente de Carlos",
-          "Plaza de la Ciudad Vieja y Orloj",
-          "Cena con cerveza checa"
-        ]
+          "Plaza de la Ciudad Vieja y Orloj a la hora en punto",
+          "Cena con cerveza checa en un hospoda lejos de la plaza",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
           "Día 1 como arriba",
-          "Día 2: Josefov",
-          "Petřín o Vyšehrad",
-          "Noche: Vinohrady"
-        ]
+          "Día 2: Josefov y el Museo Judío por la mañana (no en sábado)",
+          "Torre de la Pólvora y Casa Municipal",
+          "Plaza de Wenceslao y Museo Nacional",
+          "Atardecer en el Parque de Letná y cena en Vinohrady",
+        ],
       },
       {
         titolo: "3 días",
         tappe: [
           "Días 1-2 como arriba",
-          "Día 3: excursión a Kutná Hora o Karlštejn"
-        ]
-      }
+          "Día 3: Puente de Carlos al amanecer",
+          "Monasterio de Strahov y Loreta",
+          "Bajada a pie por la colina de Petřín",
+          "Tarde en Vyšehrad, o la Casa Danzante al atardecer",
+          "Alternativa para el día 3: excursión a Kutná Hora o Karlštejn",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Staré Město",
         perChi: "Quien quiere estar cerca de las atracciones",
-        testo: "El corazón turístico, muy concurrido y caro; ruido de noche."
+        testo: "El corazón turístico, muy concurrido y caro; ruido de noche.",
+        fascia: "120-250 €",
       },
       {
         nome: "Malá Strana",
         perChi: "Quien busca un barrio pintoresco",
-        testo: "Cerca del Castillo, calles silenciosas; restaurantes más caros."
+        testo: "Cerca del Castillo, calles silenciosas; restaurantes más caros.",
+        fascia: "130-280 €",
       },
       {
         nome: "Vinohrady",
         perChi: "Quien quiere ambiente local y mejores precios",
-        testo: "Barrio residencial con cafés y parques, conexiones en tranvía."
+        testo: "Barrio residencial con cafés y parques, conexiones en tranvía.",
+        fascia: "80-150 €",
       },
       {
         nome: "Žižkov",
         perChi: "Quien busca pubs y vida nocturna a precios bajos",
-        testo: "Barrio animado y menos turístico."
-      }
+        testo: "Barrio animado y menos turístico.",
+        fascia: "60-120 €",
+      },
     ],
     sapori: [
       {
@@ -185,6 +281,58 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Carteristas en los tranvías hacia el Castillo, en el transporte desde el aeropuerto y en las zonas turísticas llenas. Desconfiar de los falsos policías de paisano que piden ver el dinero y el pasaporte.",
       "El trdelník no es un dulce checo sino un producto turístico; las panaderías locales ofrecen algo mejor.",
       "Los billetes del transporte deben validarse antes de subir (no los comprados en las máquinas a bordo): sin validar se arriesga una multa: 1.200 CZK si se paga al revisor en el acto, 1.500 en 15 días, si no 2.000 (2026)."
+    ],
+    gite: [
+      {
+        nome: "Kutná Hora",
+        distanza: "1 hora en tren aprox.",
+        come: "Tren directo desde Praha hlavní nádraží a Kutná Hora hl.n.; desde allí el osario de Sedlec está a pocos minutos a pie y el casco antiguo a unos 3 km, en autobús local.",
+        testo: "La ciudad de la plata, patrimonio de la UNESCO: el osario de Sedlec decorado con los huesos de decenas de miles de personas, la catedral gótica de Santa Bárbara y un centro histórico tranquilo.",
+      },
+      {
+        nome: "Castillo de Karlštejn",
+        distanza: "40 minutos en tren aprox.",
+        come: "Tren regional desde Praha hlavní nádraží o Smíchov; desde la estación de Karlštejn, 30-40 minutos a pie cuesta arriba por el pueblo.",
+        testo: "El castillo gótico que Carlos IV mandó construir desde 1348 para guardar las joyas de la corona, en lo alto de una colina boscosa. Los interiores solo se ven con visita guiada.",
+      },
+      {
+        nome: "Terezín",
+        distanza: "1 hora en autobús aprox.",
+        come: "Autobús desde la estación Praha Nádraží Holešovice (metro C).",
+        testo: "Fortaleza del siglo XVIII que los nazis convirtieron en gueto y campo de tránsito. El Memorial incluye la Pequeña Fortaleza, el museo del gueto y el cementerio: una visita dura, para hacer sin prisa.",
+      },
+      {
+        nome: "Český Krumlov",
+        distanza: "3 horas en autobús aprox.",
+        come: "Autobuses directos desde Praha Na Knížecí (metro B, Anděl); en el día se hace largo, mejor con una noche.",
+        testo: "Pueblo UNESCO en un meandro del Moldava, bajo un castillo con teatro barroco y torre pintada. Es el lugar más visitado del país después de Praga.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para visitar Praga?",
+        risposta: "Tres días bastan para el Castillo, la Ciudad Vieja, Josefov y un barrio fuera del centro como Vinohrady o Letná. Con cuatro días se añade una excursión a Kutná Hora o Karlštejn.",
+      },
+      {
+        domanda: "¿Hay que reservar el Castillo de Praga?",
+        risposta: "No: el recinto del Castillo es libre de 6 a 22 y la entrada a los edificios se compra en taquilla o en línea. En temporada alta la cola está sobre todo en los controles de seguridad, así que conviene llegar hacia las 9.",
+      },
+      {
+        domanda: "¿Se paga en euros en Praga?",
+        risposta: "No, la moneda es la corona checa (CZK). Las tarjetas funcionan casi en todas partes; cuando el datáfono ofrece cobrar en euros, conviene elegir coronas, porque el cambio aplicado es peor.",
+      },
+      {
+        domanda: "¿Cómo se va del aeropuerto al centro de Praga?",
+        risposta: "Lo más barato es el autobús 59 hasta el metro Nádraží Veleslavín y luego la línea A: unos 35 minutos con un billete de 90 minutos (50 CZK). El Airport Express va a la estación central por 200 CZK; un taxi cuesta unos 600-800 CZK.",
+      },
+      {
+        domanda: "¿Cuándo está menos lleno el Puente de Carlos?",
+        risposta: "Antes de las 8 de la mañana, y otra vez a última hora de la noche. Entre media mañana y el atardecer está lleno de grupos, artistas callejeros y carteristas.",
+      },
+      {
+        domanda: "¿Dónde conviene alojarse en Praga?",
+        risposta: "Staré Město y Malá Strana para tenerlo todo a pie, pagando más; Vinohrady para un barrio con vida propia a pocos minutos en tranvía, con precios más bajos.",
+      },
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],

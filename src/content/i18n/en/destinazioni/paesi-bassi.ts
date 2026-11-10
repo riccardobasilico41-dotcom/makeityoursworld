@@ -34,10 +34,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
     doveMangiare:
       "Bitterballen (fried stuffed meatballs, a typical bar snack) with a Dutch beer; haring (marinated raw herring, served in pieces with chopped onion) from the street stalls; stroopwafel, the wafer filled with caramel syrup, best freshly made and still warm from the market stalls; rijsttafel, the \"rice table\" with dozens of small Indonesian-style dishes, a legacy of the Dutch colonial past and now part of the city's cuisine.",
     comeArrivare:
-      "Amsterdam Schiphol Airport (AMS), among the busiest in Europe, about 15 km from the center: a direct train in 15-20 minutes to Central Station, with very frequent service. From Italy there's no convenient direct rail link: you almost always arrive by air.",
+      "Schiphol Airport (AMS) is about 15 km from the centre. NS trains reach Centraal Station in 15-20 minutes for about €6-7, every few minutes and hourly through the night; pay by contactless card at the gates and remember to check out. Bus 397 runs to Museumplein and Leidseplein in about 30 minutes (about €6.50); a taxi from the official rank costs about €50-60. From Italy most people fly: there is no convenient direct train.",
     comeSpostarsi: "In the center by bicycle or on foot; for the rest of the city, GVB trams, buses and metro, which can also be paid for with a contactless card directly on board. Driving is discouraged: in the center traffic is discouraged and parking is expensive and scarce.",
     periodoMigliore: "April-May and September-October for the mild weather and fewer crowds; June-August is high season, hot and very crowded; November-March is cold and often rainy but manageable, with Christmas markets in December",
-    costi: "an expensive city by European standards: main museums €20-25 each, a regular dinner €20-25 per person, bike rental €10-15 a day",
+    costi: "An expensive city. Low budget about €90-120 per person per day (hostel or hotel outside the centre, food from markets and supermarkets, one museum); mid-range €180-250 (mid-range hotel in a double, two museums, restaurant dinners); high from €350 up (canal-side hotel, top restaurants, private tours). Main museums about €25 each, bike hire €10-20 a day.",
     erroriDaEvitare: [
       "Arriving without having booked the Anne Frank House online: tickets sell out weeks ahead and are no longer sold at the ticket office",
       "Walking or stopping distractedly on the bike paths (the red asphalt, distinct from the sidewalk): across the city it's the most common cause of accidents and arguments with tourists",
@@ -53,8 +53,11 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         quando: "Daily 9am-5pm, holidays included; early morning or late afternoon to avoid the crowd in front of The Night Watch.",
         tempo: "3 hours",
         costo: "€25 adults (2026), free under 18",
+        orari: "Daily 9am-5pm, holidays included (2026)",
+        lat: 52.36,
+        lng: 4.8853,
         url: "https://www.rijksmuseum.nl",
-        consiglio: "Start from the Golden Age floor: in an hour you see the most important rooms."
+        consiglio: "Start from the Golden Age floor: in an hour you see the most important rooms.",
       },
       {
         nome: "Van Gogh Museum",
@@ -62,8 +65,12 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "On Museumplein, next to the Rijksmuseum. Tickets on the official website.",
         quando: "Early morning, with a ticket already bought.",
         tempo: "2 hours",
+        costo: "€25 adults, free under 18 but booking required (2026; €26 from 1 January 2027)",
+        orari: "Daily from 9am; closes at 5pm or 6pm depending on the season, Fridays usually until 9pm (2026)",
+        lat: 52.3583,
+        lng: 4.8811,
         url: "https://www.vangoghmuseum.nl",
-        consiglio: "Buy your ticket ahead, especially at weekends."
+        consiglio: "Buy your ticket ahead, especially at weekends.",
       },
       {
         nome: "Anne Frank House",
@@ -72,8 +79,11 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         quando: "Book as soon as your dates are set.",
         tempo: "1-1.5 hours",
         costo: "€16.50 adults, including a €1 booking fee (official site, 2026)",
+        orari: "Daily 9am-10pm, except dates listed on the website (2026)",
+        lat: 52.37516,
+        lng: 4.88408,
         url: "https://www.annefrank.org",
-        consiglio: "Beware of resellers: the official site is the only reliable one."
+        consiglio: "Beware of resellers: the official site is the only reliable one.",
       },
       {
         nome: "Seventeenth-century canals",
@@ -81,7 +91,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "On foot, by boat tour or boat rental; best on foot.",
         quando: "Evening, with lights on the water.",
         tempo: "2-3 hours",
-        consiglio: "Take a sunset boat tour to see the houses lit up."
+        lat: 52.3723,
+        lng: 4.8844,
+        consiglio: "Take a sunset boat tour to see the houses lit up.",
       },
       {
         nome: "Jordaan and Begijnhof",
@@ -89,7 +101,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "On foot from the centre.",
         quando: "Morning, with soft light and fewer people.",
         tempo: "2 hours",
-        consiglio: "The Begijnhof is lived in: speak quietly and respect the residents' privacy."
+        lat: 52.3694,
+        lng: 4.8901,
+        consiglio: "The Begijnhof is lived in: speak quietly and respect the residents' privacy.",
       },
       {
         nome: "Vondelpark",
@@ -98,7 +112,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         quando: "Summer afternoon.",
         tempo: "1-2 hours",
         costo: "free entry",
-        consiglio: "Rent a bike to ride around the park."
+        orari: "Always open",
+        lat: 52.3572,
+        lng: 4.86412,
+        consiglio: "Rent a bike to ride around the park.",
       },
       {
         nome: "Albert Cuyp Market",
@@ -106,57 +123,145 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "Noord/Zuidlijn metro from Centraal to De Pijp, or by tram.",
         quando: "Monday-Saturday 9:30am-5pm; closed on Sundays and public holidays. Mornings are best.",
         tempo: "1 hour",
-        consiglio: "Try hot stroopwafels and herring with onions."
-      }
+        costo: "free entry",
+        orari: "Monday-Saturday 9:30am-5pm, closed Sundays and public holidays",
+        lat: 52.35523,
+        lng: 4.89178,
+        consiglio: "Try hot stroopwafels and herring with onions.",
+      },
+      {
+        nome: "Dam Square and the Royal Palace",
+        testo: "The square where the city began, on the dam across the Amstel, with the National Monument and the Nieuwe Kerk. The Royal Palace, built as the town hall in the 17th century, is still the King's reception palace: inside are the marble Citizens' Hall and rooms hung with Golden Age paintings.",
+        come: "On foot from Centraal Station, 10 minutes along the Damrak; trams 2, 4, 12, 14, 24 to Dam. The audio tour is included.",
+        quando: "The palace opens about 230 days a year and closes for state visits and receptions: check the calendar on the website first.",
+        tempo: "1-1.5 hours with the palace",
+        costo: "€13.50 adults, audio tour included; free up to age 17 (2026)",
+        orari: "On opening days from 10am (calendar on the official website)",
+        lat: 52.37317,
+        lng: 4.89136,
+        url: "https://www.paleisamsterdam.nl/en/visit/",
+      },
+      {
+        nome: "De Wallen and the Oude Kerk",
+        testo: "The oldest part of the city, around the Oude Kerk, Amsterdam's oldest church, consecrated in 1306 and now also used for contemporary art shows. It is also the Red Light District: a lived-in neighbourhood where the windows are not photographed.",
+        come: "5 minutes on foot from Dam Square. The church charges admission; the district is free to walk through.",
+        quando: "In the daytime or early afternoon, when it is quiet; late in the evening it fills with groups.",
+        tempo: "1 hour",
+        orari: "Oude Kerk: Monday-Saturday 10am-6pm, Sunday 1pm-5:30pm (2026)",
+        lat: 52.37436,
+        lng: 4.89807,
+        url: "https://oudekerk.nl/en/visit/",
+        consiglio: "Since 2023 smoking cannabis in the street is banned throughout De Wallen, with fines.",
+      },
+      {
+        nome: "Our Lord in the Attic (Ons' Lieve Heer op Solder)",
+        testo: "A 17th-century merchant's house on the Oudezijds Voorburgwal canal that hides a clandestine Catholic church across its three attic floors, built when public Catholic worship was banned. One of the city's most surprising museums, and off the main circuits.",
+        come: "On foot from De Wallen or Centraal Station; audio-guided route through steep stairs and period rooms.",
+        quando: "In the morning, when the rooms are less crowded.",
+        tempo: "1 hour",
+        lat: 52.3751,
+        lng: 4.89929,
+        url: "https://opsolder.nl/en/",
+      },
+      {
+        nome: "Rembrandt House Museum",
+        testo: "The house where Rembrandt lived and worked from 1639 to 1658, furnished as it was from the inventory of his belongings, with his studio, his cabinet of curiosities and an almost complete collection of his etchings. There is often a printing or paint-making demonstration.",
+        come: "Metro to Waterlooplein, then two minutes on foot. Tickets on the official website.",
+        quando: "Morning, combined with the Waterlooplein market and the Jewish Quarter.",
+        tempo: "1-1.5 hours",
+        lat: 52.3694,
+        lng: 4.90129,
+        url: "https://www.rembrandthuis.nl/en/",
+      },
+      {
+        nome: "Stedelijk Museum",
+        testo: "The city's museum of modern and contemporary art, in a 19th-century building extended in 2012 with the white \"bathtub\". The collection runs from Mondrian, Malevich and Matisse to Dutch design and the big post-war names.",
+        come: "On Museumplein, next to the Van Gogh Museum; tram 2 or 12 to Van Baerlestraat.",
+        quando: "Afternoon, after one of the two big museums in the morning.",
+        tempo: "2 hours",
+        lat: 52.35806,
+        lng: 4.87972,
+        url: "https://www.stedelijk.nl/en",
+      },
+      {
+        nome: "A'DAM Lookout and Amsterdam Noord",
+        testo: "The viewing deck on top of the A'DAM Toren, 100 metres above the IJ: the canal ring, the port and, on clear days, the polders. There is also the \"Over the Edge\" swing hanging over the drop. Around it, Noord is the newest side of the city, with the EYE Film Museum and the old NDSM shipyards.",
+        come: "Free GVB ferry from behind Centraal Station to Buiksloterweg, a 3-minute crossing.",
+        quando: "At sunset, on a clear day.",
+        tempo: "1-1.5 hours",
+        costo: "€16.50 online, €2 more at the desk; swing €7.50 extra (2026)",
+        lat: 52.38377,
+        lng: 4.90214,
+        url: "https://www.adamlookout.com",
+      },
+      {
+        nome: "Bloemenmarkt",
+        testo: "The floating flower market on the Singel, with stalls on barges: tulip bulbs, plants and souvenirs. It is more touristy than it used to be, but it is the only one of its kind and lies between Dam Square and Museumplein.",
+        come: "On foot from Dam Square or Rembrandtplein; tram to Muntplein.",
+        quando: "In the daytime, in passing; spring brings the widest choice of bulbs.",
+        tempo: "20-30 minutes",
+        costo: "free entry",
+        lat: 52.36693,
+        lng: 4.89076,
+        consiglio: "Bulbs taken out of the Netherlands should carry the phytosanitary certificate on the pack.",
+      },
     ],
     programmi: [
       {
         titolo: "1 day",
         tappe: [
-          "Morning: Rijksmuseum",
-          "Lunch at Albert Cuyp",
-          "Canals in the afternoon",
-          "Evening: Jordaan"
-        ]
+          "Morning: Rijksmuseum with a timed ticket",
+          "Quick lunch at the Albert Cuyp market",
+          "Afternoon: Bloemenmarkt, Begijnhof and Dam Square",
+          "Walk along the canals to the Jordaan",
+          "Evening: canal cruise or dinner in the Jordaan",
+        ],
       },
       {
         titolo: "2 days",
         tappe: [
           "Day 1 as above",
-          "Day 2: pre-booked Anne Frank House",
-          "Van Gogh Museum",
-          "Vondelpark and dinner"
-        ]
+          "Day 2: Anne Frank House, booked, morning slot",
+          "Van Gogh Museum or Stedelijk",
+          "Vondelpark",
+          "Sunset at A'DAM Lookout, with the free ferry to Noord",
+        ],
       },
       {
         titolo: "3 days",
         tappe: [
           "Days 1-2 as above",
-          "Day 3: trip to Keukenhof (spring) or Zaanse Schans"
-        ]
-      }
+          "Day 3: Our Lord in the Attic and the Oude Kerk",
+          "Rembrandt House and Waterlooplein",
+          "Afternoon: trip to Zaanse Schans or Haarlem, Keukenhof in spring",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Historic centre (Centrum)",
         perChi: "Those who want to do everything on foot",
-        testo: "Canals and museums close by, but very high prices and noise, especially toward De Wallen."
+        testo: "Canals and museums close by, but very high prices and noise, especially toward De Wallen.",
+        fascia: "€180-350",
       },
       {
         nome: "Jordaan and Canal Ring",
         perChi: "Those seeking atmosphere and quiet streets",
-        testo: "Beautiful and calmer areas, but expensive."
+        testo: "Beautiful and calmer areas, but expensive.",
+        fascia: "€200-400",
       },
       {
         nome: "De Pijp",
         perChi: "Those who want bars, restaurants and local life",
-        testo: "A lively district near Albert Cuyp; less touristy, slightly lower prices."
+        testo: "A lively district near Albert Cuyp; less touristy, slightly lower prices.",
+        fascia: "€150-280",
       },
       {
         nome: "Amsterdam Oost and Noord",
         perChi: "Those trying to save",
-        testo: "Outside the centre, by tram or, for Noord, by the GVB ferries from behind Centraal, free for pedestrians and cyclists."
-      }
+        testo: "Outside the centre, by tram or, for Noord, by the GVB ferries from behind Centraal, free for pedestrians and cyclists.",
+        fascia: "€110-200",
+      },
     ],
     sapori: [
       {
@@ -182,6 +287,58 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       "Unofficial resellers for Anne Frank and museums: buy only from the official site. Also beware of fake police officers asking for cash or cards.",
       "In De Wallen do not photograph the sex workers and do not smoke cannabis in the street: it is banned.",
       "Taxis are not always cheap: better by tram or on foot."
+    ],
+    gite: [
+      {
+        nome: "Zaanse Schans",
+        distanza: "20 minutes by train",
+        come: "Train from Amsterdam Centraal to Zaandijk Zaanse Schans, then a 10-minute walk.",
+        testo: "The village of working windmills on the river Zaan, with green wooden houses, a clog workshop and cheese farms. The village is free; the mills and the museum charge separately.",
+      },
+      {
+        nome: "Haarlem",
+        distanza: "15 minutes by train",
+        come: "Frequent trains from Amsterdam Centraal.",
+        testo: "A small town of canals and hofjes, the almshouse courtyards, with the Grote Kerk on the market square and the Frans Hals Museum. Same architecture as Amsterdam, far fewer crowds.",
+      },
+      {
+        nome: "Keukenhof",
+        distanza: "35 km, about 45 minutes",
+        come: "Direct bus from Schiphol or Leiden during the opening months, with combined tickets on the park's website.",
+        testo: "The great park of flowering bulbs, open only in spring, between March and May. Around it, the tulip fields of the Lisse area.",
+      },
+      {
+        nome: "Rotterdam",
+        distanza: "40 minutes by train",
+        come: "High-speed train from Amsterdam Centraal.",
+        testo: "The city rebuilt almost from scratch after the 1940 bombing, with the cube houses, the Markthal and the Erasmus Bridge: the opposite of Amsterdam's old centre.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Amsterdam?",
+        risposta: "Three days cover the canals, the two big Museumplein museums, the Anne Frank House and a couple of neighbourhoods. A fourth day adds a trip to Zaanse Schans, Haarlem or, in spring, Keukenhof.",
+      },
+      {
+        domanda: "Do you need to book the Anne Frank House?",
+        risposta: "Yes, there is no other way: tickets are sold only online on the official website, released on Tuesdays for visits six weeks later, and none are sold at the door.",
+      },
+      {
+        domanda: "Rijksmuseum and Van Gogh Museum on the same day?",
+        risposta: "It can be done, as they are next to each other, but both are long visits: the Rijksmuseum in the morning and the Van Gogh in the afternoon works best, with both timed tickets bought in advance.",
+      },
+      {
+        domanda: "Can you pay for public transport by card?",
+        risposta: "Yes: GVB trams, buses and metro and NS trains accept contactless cards, checking in and out with the same card. Forgetting to check out charges the maximum fare.",
+      },
+      {
+        domanda: "Is it worth renting a bike?",
+        risposta: "Yes, for anyone used to cycling in traffic: cycle lanes are everywhere and distances are short. Less confident riders should start in the Vondelpark or in Noord, as bike traffic in the centre is dense and fast.",
+      },
+      {
+        domanda: "Can you smoke cannabis in the street?",
+        risposta: "Not in the De Wallen red light district, where it has been banned with fines since 2023; in general it is smoked in coffeeshops, not in busy public places.",
+      },
     ],
     esperienzeSlugs: ['amsterdam-in-bicicletta', 'crociera-sui-canali-amsterdam', 'casa-di-anna-frank'],
     tripSlugs: ['amsterdam-weekend'],

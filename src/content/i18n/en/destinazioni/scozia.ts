@@ -17,11 +17,12 @@ export const destinazioniScozia: Destinazione[] = [
       "For the castle on its rock, the alleys of the Old Town and the views from Calton Hill and Arthur's Seat. It's also the most convenient starting point for the road trip.",
     cosaVedere: ['Edinburgh Castle', 'The Royal Mile', "Holyrood and Arthur's Seat", 'Calton Hill', 'The New Town and Princes Street Gardens', 'The National Museum of Scotland'],
     cosaFare: ["Climbing Arthur's Seat", 'Sunset from Calton Hill', 'Getting lost in the closes, the alleys that run down from the Royal Mile'],
-    comeArrivare: 'Direct flights from Italy to Edinburgh Airport; from within the United Kingdom also by train, to Waverley station in the centre.',
+    comeArrivare:
+      'Direct flights from Italy to Edinburgh Airport; from within the United Kingdom also by train, to Waverley station in the centre. From the airport the tram reaches Princes Street in 30-35 minutes for about £7.90, ticket from the machine before boarding; Airlink 100 goes to Waverley in about half an hour for about £6; a taxi costs about £25-30. Direct trains from London King\'s Cross take about four and a half hours. A UK ETA is required, £20 (2026).',
     comeSpostarsi: 'On foot, by bus and tram. Pick up the car on the day you leave for the Highlands.',
     periodoMigliore: 'May to September; in August there are the festivals and prices rise a lot',
     costi:
-      'Castle: £23.50 online, £26 at the gate (adults, 2026). Since July 24, 2026 there is a 5% visitor levy on the price of accommodation, for the first 5 nights.',
+      'Castle: £23.50 online, £26 at the gate (adults, 2026). Since July 24, 2026 there is a 5% visitor levy on the price of accommodation, for the first 5 nights. Rough daily budget per person, sharing a double: low €90-120, mid €170-240, high over €350 (much more in August).',
     erroriDaEvitare: [
       'Going to the castle without a ticket: tickets often sell out well in advance',
       'Booking at the last minute in August, during the Fringe',
@@ -31,50 +32,262 @@ export const destinazioniScozia: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        nome: 'Edinburgh Castle',
-        testo: "The fortress on top of Castle Rock, above the city. Inside are the Honours of Scotland, the Scottish Crown Jewels, and the 12th-century St Margaret's Chapel, regarded as the oldest building in Edinburgh.",
-        come: 'On foot from the top of the Royal Mile. The online ticket is cheaper and worth buying ahead: when online tickets sell out, none are sold at the castle.',
-        quando: 'At opening time, from 9:30.',
-        tempo: '2-3 hours',
-        costo: '£23.50 online, £26 at the gate (adults, 2026)',
-        url: 'https://www.edinburghcastle.scot',
+        "nome": "Edinburgh Castle",
+        "testo": "The fortress on top of Castle Rock, above the city. Inside are the Honours of Scotland, the Scottish Crown Jewels, and the 12th-century St Margaret's Chapel, regarded as the oldest building in Edinburgh.",
+        "come": "On foot from the top of the Royal Mile. The online ticket is cheaper and worth buying ahead: when online tickets sell out, none are sold at the castle.",
+        "quando": "At opening time, from 9:30.",
+        "tempo": "2-3 hours",
+        "costo": "£23.50 online, £26 at the gate (adults, 2026)",
+        "orari": "Daily from 9:30; closes at 18 April-September and 17 October-March, last entry one hour before.",
+        "lat": 55.9486,
+        "lng": -3.1999,
+        "url": "https://www.edinburghcastle.scot"
       },
       {
-        nome: 'Royal Mile',
-        testo: "The Old Town street that runs down from the castle to the Palace of Holyrood, with St Giles' Cathedral halfway. On both sides open the closes, narrow, steep alleys.",
-        come: 'On foot, from top to bottom.',
-        quando: 'Early morning or in the evening, when there are fewer people.',
-        tempo: 'half a day',
+        "nome": "Royal Mile",
+        "testo": "The Old Town street that runs down from the castle to the Palace of Holyrood, with St Giles' Cathedral halfway. On both sides open the closes, narrow, steep alleys.",
+        "come": "On foot, from top to bottom.",
+        "quando": "Early morning or in the evening, when there are fewer people.",
+        "tempo": "half a day",
+        "costo": "free",
+        "lat": 55.95,
+        "lng": -3.188
       },
       {
-        nome: "Arthur's Seat",
-        testo: 'The hill of an ancient volcano inside Holyrood Park, a short walk from the Old Town. From the top you see the city and the sea.',
-        come: 'On foot from Holyrood, on uphill paths. With the wind at the top it is cold even in summer.',
-        quando: 'With a clear sky, best in the morning or at sunset.',
-        tempo: '2 hours there and back',
+        "nome": "Arthur's Seat",
+        "testo": "The hill of an ancient volcano inside Holyrood Park, a short walk from the Old Town. From the top you see the city and the sea.",
+        "come": "On foot from Holyrood, on uphill paths. With the wind at the top it is cold even in summer.",
+        "quando": "With a clear sky, best in the morning or at sunset.",
+        "tempo": "2 hours there and back",
+        "costo": "free",
+        "lat": 55.9441,
+        "lng": -3.1618
       },
       {
-        nome: 'Calton Hill',
-        testo: "The hill above the end of Princes Street, with neoclassical monuments and a view over the Old Town, the castle and Arthur's Seat.",
-        come: 'On foot, with a short climb.',
-        quando: 'At sunset.',
-        tempo: '1 hour',
+        "nome": "Calton Hill",
+        "testo": "The hill above the end of Princes Street, with neoclassical monuments and a view over the Old Town, the castle and Arthur's Seat.",
+        "come": "On foot, with a short climb.",
+        "quando": "At sunset.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "lat": 55.9553,
+        "lng": -3.1826
       },
+      {
+        "nome": "Palace of Holyroodhouse",
+        "testo": "The monarch's official residence in Scotland, at the foot of the Royal Mile, with Mary Queen of Scots' chambers and the ruins of Holyrood Abbey in the grounds. Opposite is the Scottish Parliament, a much-debated contemporary building.",
+        "come": "On foot down the Royal Mile; ticket with audio guide, better online.",
+        "quando": "Morning, before climbing Arthur's Seat, which starts from here.",
+        "tempo": "1.5 hours",
+        "costo": "ticketed, with audio guide",
+        "orari": "Closed when the monarch is in residence, usually late June to early July, and on some winter days: check the calendar.",
+        "lat": 55.9527,
+        "lng": -3.1722,
+        "url": "https://www.rct.uk/visit/palace-of-holyroodhouse"
+      },
+      {
+        "nome": "National Museum of Scotland",
+        "testo": "The national museum, free, with Scotland's story from the Picts to Dolly the sheep, the Lewis chessmen and a big science and natural-history hall. The rooftop terrace looks at the castle.",
+        "come": "On Chambers Street, five minutes from the Royal Mile via George IV Bridge.",
+        "quando": "On a rainy afternoon.",
+        "tempo": "2 hours",
+        "costo": "free",
+        "orari": "Daily 10-17.",
+        "lat": 55.9469,
+        "lng": -3.1897,
+        "url": "https://www.nms.ac.uk/"
+      },
+      {
+        "nome": "Scottish National Gallery and Princes Street Gardens",
+        "testo": "The national gallery, free, with Raphael, Titian, Vermeer, Velázquez and Scottish painters such as Raeburn. It sits at the foot of the Mound, in the gardens dividing the Old Town from the New Town, below the castle.",
+        "come": "On the Mound, two minutes from Waverley and Princes Street.",
+        "quando": "Morning; the gardens in the afternoon with sun on the castle.",
+        "tempo": "1.5 hours",
+        "costo": "free",
+        "orari": "Daily 10-17.",
+        "lat": 55.9509,
+        "lng": -3.1959,
+        "url": "https://www.nationalgalleries.org/"
+      },
+      {
+        "nome": "St Giles' Cathedral",
+        "testo": "Edinburgh's main church, halfway down the Royal Mile, with its stone crown spire and the carved-wood Thistle Chapel of the Order of the Thistle. John Knox preached here.",
+        "come": "On the Royal Mile, in Parliament Square. Free entry with a suggested donation; roof tours charged at some times.",
+        "quando": "Mid-morning, on the way down from the castle.",
+        "tempo": "30-45 minutes",
+        "costo": "free entry, suggested donation",
+        "lat": 55.9495,
+        "lng": -3.1909,
+        "url": "https://www.stgilescathedral.org.uk/"
+      },
+      {
+        "nome": "Victoria Street and the Grassmarket",
+        "testo": "The curving street of coloured shopfronts that drops from George IV Bridge to the Grassmarket, the old cattle market and hanging place, now full of pubs. From here you see the castle from below.",
+        "come": "On foot from the Royal Mile; from the Grassmarket the Vennel steps lead to one of the best castle views.",
+        "quando": "Early morning for photos; evening for the pubs.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "lat": 55.9478,
+        "lng": -3.1945
+      },
+      {
+        "nome": "Greyfriars Kirkyard",
+        "testo": "The 17th-century graveyard with the castle above its tombs and the statue of Greyfriars Bobby, the dog said to have guarded his master's grave for years. Some headstones lent names to Harry Potter characters.",
+        "come": "Enter from Candlemaker Row, next to the Bobby statue, steps from the National Museum.",
+        "quando": "By day; in the evening there are ghost tours.",
+        "tempo": "30 minutes",
+        "costo": "free",
+        "lat": 55.9469,
+        "lng": -3.1925
+      },
+      {
+        "nome": "The Real Mary King's Close",
+        "testo": "17th-century lanes and houses buried beneath the City Chambers, visited only with a guide. The tour tells of Old Town life, the plague and the close's stories.",
+        "come": "Entrance on the Royal Mile opposite St Giles. Timed guided tours, to be booked online.",
+        "quando": "A rainy day; in summer slots sell out.",
+        "tempo": "1 hour",
+        "costo": "about £28.50 (2026), guided tour only",
+        "lat": 55.95,
+        "lng": -3.1905,
+        "url": "https://www.realmarykingsclose.com/"
+      },
+      {
+        "nome": "Dean Village and the Water of Leith",
+        "testo": "An old mill village on the river, ten minutes from the West End, with stone houses and Telford's bridge. The Water of Leith path continues to the Scottish National Gallery of Modern Art and Stockbridge.",
+        "come": "On foot from the end of Princes Street via Queensferry Street, down Bell's Brae.",
+        "quando": "Sunday morning, with the Stockbridge market.",
+        "tempo": "1-2 hours",
+        "costo": "free",
+        "lat": 55.952,
+        "lng": -3.217,
+        "consiglio": "It is a residential area: no drones and keep voices down between the houses."
+      },
+      {
+        "nome": "Camera Obscura and World of Illusions",
+        "testo": "A Victorian camera obscura at the top of a tower by the castle, projecting the city live onto a table, plus five floors of optical illusions. Best for families with children.",
+        "come": "On Castlehill, at the top of the Royal Mile; cheaper online.",
+        "quando": "With clear skies, for the projection.",
+        "tempo": "1.5 hours",
+        "costo": "about £25 at the desk, about £21 online (2026)",
+        "lat": 55.949,
+        "lng": -3.1957,
+        "url": "https://www.camera-obscura.co.uk/"
+      },
+      {
+        "nome": "Leith and the Royal Yacht Britannia",
+        "testo": "Edinburgh's port, with seafood restaurants on the Shore and the royal family's yacht moored at Ocean Terminal. On board you see Queen Elizabeth's apartments and the engine room.",
+        "come": "Tram from Princes Street to Ocean Terminal or Newhaven, about 20 minutes.",
+        "quando": "Afternoon, staying in Leith for dinner.",
+        "tempo": "half a day",
+        "costo": "Britannia £23 online, £25 at the desk (from October 2026); the district is free to wander",
+        "lat": 55.9822,
+        "lng": -3.1772,
+        "url": "https://www.royalyachtbritannia.co.uk/"
+      }
     ],
     programmi: [
-      { titolo: '1 day', tappe: ['Castle at opening time', 'Down the Royal Mile to Holyrood', 'Sunset from Calton Hill'] },
-      { titolo: '2 days', tappe: ['Day 1: the Royal Mile, the Old Town and Calton Hill', "Day 2: castle, New Town and Princes Street Gardens, Arthur's Seat in the afternoon"] },
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Castle at opening, with an online ticket",
+          "Down the Royal Mile, with St Giles and The Real Mary King's Close",
+          "Lunch, then Victoria Street, the Grassmarket and Greyfriars",
+          "Holyrood and sunset from Calton Hill"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: castle, Royal Mile, St Giles, Victoria Street and Grassmarket, Calton Hill at sunset",
+          "Day 2: Holyrood and Arthur's Seat in the morning; National Museum of Scotland; New Town, Princes Street Gardens and the Scottish National Gallery"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: castle, Royal Mile, Mary King's Close, Grassmarket",
+          "Day 2: Holyrood, Arthur's Seat, National Museum, Calton Hill at sunset",
+          "Day 3: Dean Village and Stockbridge in the morning, then Leith and Britannia, with dinner on the Shore; or a trip to Stirling"
+        ]
+      }
     ],
     zone: [
-      { nome: 'Old Town', perChi: 'anyone who wants everything on foot', testo: 'Along and around the Royal Mile. Convenient, but noisy in the evening and expensive in summer.' },
-      { nome: 'New Town', perChi: 'anyone who wants more calm', testo: 'The Georgian streets below the castle, a few minutes from Waverley station.' },
-      { nome: 'Leith', perChi: 'anyone looking for lower prices and good restaurants', testo: 'The port, linked to the centre by tram.' },
+      {
+        "nome": "Old Town",
+        "perChi": "anyone who wants everything on foot",
+        "testo": "Along and around the Royal Mile. Convenient, but noisy in the evening and expensive in summer.",
+        "fascia": "160-300 €"
+      },
+      {
+        "nome": "New Town",
+        "perChi": "anyone who wants more calm",
+        "testo": "The Georgian streets below the castle, a few minutes from Waverley station.",
+        "fascia": "170-320 €"
+      },
+      {
+        "nome": "Leith",
+        "perChi": "anyone looking for lower prices and good restaurants",
+        "testo": "The port, linked to the centre by tram.",
+        "fascia": "110-200 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Stirling",
+        "distanza": "50 minutes by train",
+        "come": "Frequent trains from Waverley; from the station walk up to the castle in 15-20 minutes.",
+        "testo": "The Stuart kings' castle above the plain of the independence battles, and the Wallace Monument on the hill opposite."
+      },
+      {
+        "nome": "South Queensferry and the Forth bridges",
+        "distanza": "15 km, 20 minutes by train",
+        "come": "Train from Waverley to Dalmeny and a 15-minute walk down to the village.",
+        "testo": "The village beneath the Forth Bridge, the red 19th-century railway bridge listed by UNESCO, flanked by two modern bridges. In season boats run to Inchcolm island."
+      },
+      {
+        "nome": "Rosslyn Chapel",
+        "distanza": "12 km, 45 minutes by bus",
+        "come": "Lothian bus 37 from the centre to Roslin; timed entry, to be booked.",
+        "testo": "A 15th-century chapel covered in stone carving, made famous by The Da Vinci Code. Around it is a wooded glen with the castle remains."
+      },
+      {
+        "nome": "North Berwick",
+        "distanza": "35 minutes by train",
+        "come": "Direct train from Waverley; the town is right by the station.",
+        "testo": "A seaside town with beaches, the Seabird Centre and boat trips to the Bass Rock, the world's largest gannet colony."
+      }
     ],
     sapori: [
       { nome: 'Haggis', testo: "The national dish, made of lamb offal, oats and spices, served with neeps and tatties, turnip and potatoes." },
       { nome: 'Cullen skink', testo: 'A thick soup of smoked haddock, potatoes and onion.' },
     ],
     attenzioni: ['In August the city is full for the festivals: book accommodation months ahead.', "The wind on Arthur's Seat and Calton Hill: you need a jacket even in summer."],
+    faq: [
+      {
+        "domanda": "How many days do you need in Edinburgh?",
+        "risposta": "Two days for the castle, Old Town, Holyrood and New Town; three to add Arthur's Seat at leisure, Leith or a trip to Stirling."
+      },
+      {
+        "domanda": "Do you need to book Edinburgh Castle?",
+        "risposta": "Yes: online it costs £23.50 versus £26 at the gate (2026), and in summer, once online tickets are gone, none are left on site."
+      },
+      {
+        "domanda": "Is August a good time for Edinburgh?",
+        "risposta": "Only for the festivals, led by the Fringe: the city is full, rooms cost double and must be booked months ahead. May, June and September have long days and fewer people."
+      },
+      {
+        "domanda": "Is there a tourist tax in Edinburgh?",
+        "risposta": "Yes, since 24 July 2026: 5% of the accommodation price, for the first five nights."
+      },
+      {
+        "domanda": "How do you get from the airport to central Edinburgh?",
+        "risposta": "The tram reaches Princes Street in 30-35 minutes for about £7.90, ticket bought before boarding. Airlink 100 goes to Waverley in about half an hour for about £6."
+      },
+      {
+        "domanda": "Where to stay in Edinburgh?",
+        "risposta": "Old Town to have everything walkable, New Town for quiet near Waverley, Leith to spend less and eat well. Outside August a double costs about €110-300."
+      }
+    ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['scozia-highlands-distillerie'],

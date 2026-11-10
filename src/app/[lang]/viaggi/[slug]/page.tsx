@@ -18,7 +18,7 @@ import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
 import { RiepilogoViaggio } from '@/components/RiepilogoViaggio'
 import { minutiDiLettura, PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
-import { Clock } from 'lucide-react'
+import { Clock, MapPinned } from 'lucide-react'
 import { BudgetBreakdown } from '@/components/BudgetBreakdown'
 import type { TocItem } from '@/components/StickyTableOfContents'
 import { GiorniBarraMobile, type VoceGiorno } from '@/components/signature/GiorniBarraMobile'
@@ -35,9 +35,13 @@ import { RouteLine } from '@/components/signature/RouteLine'
 import { MappaRottaDifferita } from '@/components/signature/rotta-client'
 import Link from '@/components/ui/Link'
 import { datiRotta } from '@/lib/mappa-rotta'
+import { linkGoogleMaps, luoghiDellaRotta } from '@/lib/luoghi-rotta'
+import { localizza } from '@/lib/i18n/percorsi'
+import aggiornamenti from '@/content/aggiornamenti-viaggi.json'
 import { Container } from '@/components/ui/Container'
 import { colorePaese, testaTitolo } from '@/lib/colori-etichette'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from '@/lib/viaggi'
+import { emailPubblica } from '@/lib/site-config'
 import { getPaese, getTripMeta } from '@/lib/geo'
 import type { ViaggioInBreve, TripMeta } from '@/lib/types'
 import { getContinente, slugify } from '@/lib/utils'
@@ -81,6 +85,12 @@ const T = {
     rottaLead: "Le tappe dell'itinerario, nell'ordine in cui si visitano.",
     rottaLeadMappa: "Le tappe dell'itinerario su una mappa vera, nell'ordine in cui si visitano: tocca un numero per avvicinarti e aprire la scheda.",
     tappeInOrdine: 'Le tappe, in ordine',
+    apriMaps: 'Apri il percorso in Google Maps',
+    scaricaKml: 'Salva le tappe in Google My Maps (KML)',
+    kmlAiuto: 'In My Maps: «Crea una nuova mappa» → «Importa» e scegli il file. Poi la ritrovi nell\'app di Google Maps, in Salvati → Mappe.',
+    aggiornato: 'Aggiornato il',
+    segnala: 'Segnala un errore',
+    oggettoErrore: (t: string) => `Errore nella pagina: ${t}`,
     rottaLeadUnica: (nome: string) => `Tutte le tappe del viaggio ruotano attorno a una sola destinazione, ${nome}: la mappa mostra dove si trova.`,
     budgetNota:
       "Voci di spesa indicative: dove non c'è un dato affidabile, la voce resta vuota invece di una stima inventata.",
@@ -122,6 +132,12 @@ const T = {
     rottaLead: 'The stops of the itinerary, in the order they are visited.',
     rottaLeadMappa: 'The stops of the itinerary on a real map, in the order they are visited: tap a number to zoom in and open its page.',
     tappeInOrdine: 'The stops, in order',
+    apriMaps: 'Open the route in Google Maps',
+    scaricaKml: 'Save the stops to Google My Maps (KML)',
+    kmlAiuto: 'In My Maps: “Create a new map” → “Import” and pick the file. You will then find it in the Google Maps app, under Saved → Maps.',
+    aggiornato: 'Updated on',
+    segnala: 'Report a mistake',
+    oggettoErrore: (t: string) => `Mistake on the page: ${t}`,
     rottaLeadUnica: (nome: string) => `Every stop of the trip revolves around a single destination, ${nome}: the map shows where it is.`,
     budgetNota:
       "Indicative costs: where there's no reliable figure, the line is left blank instead of an invented estimate.",
@@ -163,6 +179,12 @@ const T = {
     rottaLead: 'Las paradas del itinerario, en el orden en que se visitan.',
     rottaLeadMappa: 'Las paradas del itinerario en un mapa real, en el orden en que se visitan: toca un número para acercarte y abrir su ficha.',
     tappeInOrdine: 'Las paradas, en orden',
+    apriMaps: 'Abrir la ruta en Google Maps',
+    scaricaKml: 'Guardar las paradas en Google My Maps (KML)',
+    kmlAiuto: 'En My Maps: «Crear un mapa nuevo» → «Importar» y elige el archivo. Luego lo encuentras en la app de Google Maps, en Guardados → Mapas.',
+    aggiornato: 'Actualizado el',
+    segnala: 'Avisar de un error',
+    oggettoErrore: (t: string) => `Error en la página: ${t}`,
     rottaLeadUnica: (nome: string) => `Todas las paradas del viaje giran en torno a un solo destino, ${nome}: el mapa muestra dónde está.`,
     budgetNota:
       'Partidas de gasto orientativas: donde no hay un dato fiable, la partida queda vacía en lugar de una estimación inventada.',
@@ -272,6 +294,7 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
               descrizione: viaggio.descrizione,
               percorso: `/viaggi/${viaggio.slug}`,
               sezioni: viaggio.sezioni.map((s) => s.titolo),
+              aggiornato: (aggiornamenti as Record<string, string>)[viaggio.slug],
             },
             lingua,
           ),
@@ -377,6 +400,12 @@ function SignatureViaggioContent({
 
   // mappa vera della rotta (contorni, rilievo, tappe numerate): se manca, la linea schematica
   const rotta = meta.tappeMappa.length > 0 ? datiRotta(viaggio.slug, lingua) : null
+  // data dell'ultima modifica del testo (da git, tools/aggiornamenti-viaggi.mjs)
+  const iso = (aggiornamenti as Record<string, string>)[viaggio.slug]
+  const dataAggiornamento = iso
+    ? { iso, testo: new Date(`${iso}T12:00:00Z`).toLocaleDateString({ it: 'it-IT', en: 'en-GB', es: 'es-ES' }[lingua], { day: 'numeric', month: 'long', year: 'numeric' }) }
+    : null
+  const mapsUrl = linkGoogleMaps(luoghiDellaRotta(viaggio.slug, lingua))
   const nTappa = new Map(rotta?.tappe.map((q) => [q.id, q.n]))
   const unica = rotta?.punti.length === 1 ? rotta.punti[0] : null
   // con un solo punto sulla mappa l'elenco riporta le tappe del viaggio (tutte nello stesso posto), senza numero
@@ -415,6 +444,19 @@ function SignatureViaggioContent({
             <span>
               <span className="font-semibold text-ink">{minutiDiLettura(viaggio)} {t.min}</span> {t.diLettura}
             </span>
+            {dataAggiornamento && (
+              <span>
+                · {t.aggiornato} <time dateTime={dataAggiornamento.iso}>{dataAggiornamento.testo}</time>
+              </span>
+            )}
+            {emailPubblica && (
+              <a
+                href={`mailto:${emailPubblica}?subject=${encodeURIComponent(t.oggettoErrore(viaggio.titolo))}`}
+                className="underline decoration-rosso decoration-1 underline-offset-4 hover:text-rosso"
+              >
+                · {t.segnala}
+              </a>
+            )}
           </p>
         }
         media={
@@ -550,6 +592,27 @@ function SignatureViaggioContent({
                         )
                       })}
                     </ol>
+                    {mapsUrl && (
+                      <div className="mt-6 flex flex-col gap-2 text-sm">
+                        <a
+                          href={mapsUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex min-h-11 w-fit items-center gap-2 border-2 border-ink bg-ink px-4 font-semibold text-cream transition-colors hover:bg-rosso hover:border-rosso"
+                        >
+                          <MapPinned size={16} aria-hidden />
+                          {t.apriMaps}
+                        </a>
+                        <a
+                          href={localizza(`/rotte/${viaggio.slug}/kml`, lingua)}
+                          download={`${viaggio.slug}.kml`}
+                          className="w-fit font-semibold text-ink underline decoration-rosso decoration-2 underline-offset-[5px] hover:text-rosso"
+                        >
+                          {t.scaricaKml}
+                        </a>
+                        <p className="max-w-xl text-xs leading-relaxed text-stone">{t.kmlAiuto}</p>
+                      </div>
+                    )}
                   </>
                 ) : (
                   <div className="mt-8 border-2 border-ink bg-white p-6 sm:p-10">

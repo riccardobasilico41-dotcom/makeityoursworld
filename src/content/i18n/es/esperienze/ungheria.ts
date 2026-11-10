@@ -31,7 +31,7 @@ export const esperienzeUngheria: Esperienza[] = [
     nome: 'Termas de Gellért',
     localita: 'A los pies de la colina Gellért, lado Buda, Budapest',
     cosE:
-      'El complejo termal de estilo Art Nouveau anexo al histórico Hotel Gellért, abierto en 1918, con piscinas interiores decoradas con mosaicos, columnas y vidrieras de colores, más una piscina exterior con olas artificiales (entre las primeras del mundo, introducida ya en 1927) y una zona de solárium.',
+      'Atención: cerradas por restauración desde el 1 de octubre de 2025, con reapertura prevista no antes de 2028; hoy la alternativa más cercana en el lado de Buda son las Termas Rudas. El complejo termal de estilo Art Nouveau anexo al histórico Hotel Gellért, abierto en 1918, con piscinas interiores decoradas con mosaicos, columnas y vidrieras de colores, más una piscina exterior con olas artificiales (entre las primeras del mundo, introducida ya en 1927) y una zona de solárium.',
     percheFarla:
       'Porque es la alternativa más elegante y «fotogénica» a Széchenyi: el propio edificio, con sus decoraciones Art Nouveau, merece la visita tanto como el agua termal, y suele estar menos concurrida que el complejo del Parque de la Ciudad.',
     durata: '2-3 horas, entre vestuario y tiempo en las piscinas',

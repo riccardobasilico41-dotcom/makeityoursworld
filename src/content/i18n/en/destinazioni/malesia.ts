@@ -31,14 +31,12 @@ export const destinazioniMalesia: Destinazione[] = [
       "Bukit Bintang for convenience and evening life, Chinatown for low prices and character, KLCC for proximity to the towers and malls. The city is big and chaotic: it's best to stay near a monorail or metro station.",
     doveMangiare:
       "Kuala Lumpur is a city where you eat very well, and there's only one way to do it: food courts and street stalls, leaving the restaurants alone. Try nasi lemak (coconut rice with sambal, dried anchovies, peanuts and egg: it's considered the national dish and eaten at breakfast), char kway teow, Indian roti canai in the morning with dhal, laksa and charcoal-grilled satay. Jalan Alor in the evening is the most scenic version; the food courts of the malls, with air conditioning, are good and cheap.",
-    comeArrivare:
-      'Flight to Kuala Lumpur International (KUL), a major regional hub, with the KLIA Ekspres train taking you downtown. Terminal 2 serves low-cost flights, including those to Borneo.',
+    comeArrivare: "From KLIA (terminals 1 and 2) the KLIA Ekspres train reaches KL Sentral in about 30 minutes, every 15-20 minutes from 5am until just after midnight: 55 ringgit, about €11 (65 from 1 January 2027), with 10% off on the app or paying by contactless card at the gate. The bus to KL Sentral costs about 15 ringgit and takes an hour or more; a Grab about 70-100 ringgit, up to an hour in traffic. Taxis only with the prepaid coupon from the counter. From KL Sentral, continue by metro, monorail or Grab. Immigration may ask for the MDAC filled in online.",
     comeSpostarsi:
       "Metro, monorail and LRT cover the center well, with Touch 'n Go or a single ticket. Grab is cheap and solves everything else. Walking is possible but tiring: patchy sidewalks, heat and humidity.",
     periodoMigliore:
       'all year, with afternoon downpours in any season.',
-    costi:
-      "Petronas skybridge paid (prices on the official website), Batu Caves free, Islamic Arts Museum with a ticket (prices on the museum website). Transport costs a few ringgit.",
+    costi: "Batu Caves, mosques, temples and parks free; Islamic Arts Museum 20 ringgit (about €4), KL Forest Eco Park 40 ringgit for foreigners (about €8), Petronas skybridge about 80 ringgit (about €16). Metro and monorail cost a few ringgit a ride. Daily budget: about €30-40 with a hostel and food courts, €70-110 with a mid-range hotel in Bukit Bintang, over €200 in a luxury hotel at KLCC.",
     erroriDaEvitare: [
       'Climbing the Batu Caves in the middle of the day: a long staircase under the equatorial sun, with monkeys that steal everything you hold in your hands',
       "Dressing too revealingly to visit temples and mosques: at the Batu Caves and at Masjid Negara shoulders and knees need to be covered, and the sarongs lent at the entrance only partly solve it",
@@ -54,8 +52,12 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "LRT to KLCC, with a direct exit into the shopping centre. Tickets for the climb are timed and booked online on the official site.",
         quando: "Tuesday to Sunday, 9:00-21:00; closed on Mondays except public holidays (2025). Sunset is the most requested time and slots sell out. From below the towers look best at blue hour.",
         tempo: "1 hour for the climb; KLCC park takes half an hour",
-        costo: "Timed ticket for the skybridge and observation deck, more expensive for non-Malaysians: current prices and purchase on the official website (tickets from unofficial resellers are not refundable).",
-        consiglio: "Anyone who does not want to spend can look at them from below and take the view from another tower, the KL Tower."
+        costo: "about 80 ringgit for foreigners, about €16 (2026); timed tickets on the official website (unofficial resellers don't refund)",
+        consiglio: "Anyone who does not want to spend can look at them from below and take the view from another tower, the KL Tower.",
+        orari: "Tuesday-Sunday 9am-9pm, closed Monday except public holidays",
+        url: "https://www.petronastwintowers.com.my/",
+        lat: 3.15785,
+        lng: 101.71165
       },
       {
         nome: "Batu Caves",
@@ -64,7 +66,10 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Early in the morning, with worshippers climbing and the steps in shade. During the Thaipusam festival the crowds are huge.",
         tempo: "2 hours",
         costo: "free entry",
-        consiglio: "Do not hold bottles, glasses or food in your hands: the monkeys snatch them."
+        consiglio: "Do not hold bottles, glasses or food in your hands: the monkeys snatch them.",
+        orari: "daily, from early morning to evening",
+        lat: 3.2379,
+        lng: 101.684
       },
       {
         nome: "Masjid Jamek",
@@ -72,7 +77,11 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "LRT to Masjid Jamek. The mosque is visited outside prayer times, with a robe lent at the entrance.",
         quando: "In the morning.",
         tempo: "1 hour",
-        consiglio: "Walk on to Chinatown, in the same afternoon."
+        consiglio: "Walk on to Chinatown, in the same afternoon.",
+        costo: "free entry",
+        orari: "visits outside prayer times",
+        lat: 3.14905,
+        lng: 101.69575
       },
       {
         nome: "Chinatown, Petaling Street and Sri Mahamariamman",
@@ -80,7 +89,10 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "LRT to Pasar Seni. The market is open-air, the temple is visited barefoot.",
         quando: "In the morning for the temple; in the evening for the street, when the market is liveliest.",
         tempo: "1.5 hours",
-        consiglio: "Do not buy the fakes: opening prices are very high."
+        consiglio: "Do not buy the fakes: opening prices are very high.",
+        costo: "free entry to the temple",
+        lat: 3.1445,
+        lng: 101.6978
       },
       {
         nome: "Islamic Arts Museum",
@@ -90,7 +102,10 @@ export const destinazioniMalesia: Destinazione[] = [
         tempo: "2 hours",
         url: "https://www.iamm.org.my/",
         consiglio: "The museum café, air-conditioned and quiet, is an excellent break.",
-        costo: "Entry ticket; prices on the museum website."
+        costo: "20 ringgit, about €4 (official website, 2026)",
+        orari: "daily 9:30am-6pm, last entry 5:30pm",
+        lat: 3.1418,
+        lng: 101.6899
       },
       {
         nome: "Jalan Alor",
@@ -98,19 +113,144 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "On foot from Bukit Bintang or by monorail to Bukit Bintang.",
         quando: "In the evening.",
         tempo: "1-2 hours",
-        consiglio: "Ask the price before ordering fish, which is paid by weight."
+        consiglio: "Ask the price before ordering fish, which is paid by weight.",
+        costo: "dishes from a few ringgit up to about ten, about €1-3",
+        orari: "from late afternoon until late at night; cash at the stalls",
+        lat: 3.1455,
+        lng: 101.7087
+      },
+      {
+        nome: "Merdeka Square and the Sultan Abdul Samad Building",
+        testo: "The large lawn where, at midnight on 31 August 1957, the British flag was lowered and the Malayan flag raised, on a 95-metre flagpole. Opposite stands the Sultan Abdul Samad Building of 1897, Moorish in style with copper domes and a clock tower; on the other side, the old Royal Selangor Club in Tudor style.",
+        come: "LRT to Masjid Jamek, then five minutes on foot. Seen from outside, together with the mosque.",
+        quando: "Early morning, or in the evening when the buildings are lit.",
+        tempo: "45 minutes",
+        costo: "free",
+        orari: "always open",
+        consiglio: "Just to the south is the Kuala Lumpur City Gallery, with a scale model of the city: useful for getting your bearings on the first day.",
+        lat: 3.1478,
+        lng: 101.6934
+      },
+      {
+        nome: "Masjid Negara",
+        testo: "The National Mosque, opened in 1965 a few years after independence: an umbrella roof with eighteen points, for the thirteen states of the federation and the five pillars of Islam, and a 73-metre minaret. It's modern architecture, with pools and gardens, very different from the colonial mosques.",
+        come: "On foot from the Islamic Arts Museum, five minutes, or by Grab. Non-Muslims use a separate entrance; a long robe is lent free at the door, and shoes come off.",
+        quando: "In the morning, outside prayer times.",
+        tempo: "45 minutes",
+        costo: "free entry",
+        orari: "visits for non-Muslims outside prayer times, with shorter slots on Friday",
+        consiglio: "Pair it with the Islamic Arts Museum: the mosque first, then the museum in the hot hours.",
+        lat: 3.142,
+        lng: 101.6917
+      },
+      {
+        nome: "Perdana Botanical Garden (Lake Gardens)",
+        testo: "The large colonial park from the 1880s, around a lake on the hill behind the National Mosque. Inside are the orchid garden and the hibiscus garden, Malaysia's national flower, and it's where the city goes jogging in the morning.",
+        come: "By Grab, or on foot from Masjid Negara up through the park.",
+        quando: "At dawn or late afternoon; at midday there's little shade.",
+        tempo: "1-2 hours",
+        costo: "free entry",
+        consiglio: "If you don't want to walk much, stick to the orchid garden, the best kept.",
+        lat: 3.1429,
+        lng: 101.6848
+      },
+      {
+        nome: "KL Forest Eco Park (Bukit Nanas)",
+        testo: "One of the oldest forest reserves in the country, protected since 1906: real rainforest right in the centre, at the foot of KL Tower. A canopy walkway takes you through the treetops, with skyscrapers poking out between the leaves.",
+        come: "Monorail to Bukit Nanas, then a ten-minute walk uphill; you can also enter from the KL Tower side. Pay at the entrance, preferably in cash.",
+        quando: "Early morning, before the heat. The walkway closes in bad weather.",
+        tempo: "1-1.5 hours",
+        costo: "40 ringgit for foreigners, about €8 (2026)",
+        consiglio: "Bring repellent and water: it's real forest, with mosquitoes and humidity.",
+        lat: 3.1516,
+        lng: 101.7015
+      },
+      {
+        nome: "KL Tower (Menara Kuala Lumpur)",
+        testo: "The 421-metre telecommunications tower, completed in 1995. It stands on Bukit Nanas hill, so its observation deck at 276 metres is higher than the Petronas skybridge, and on the open-air Sky Deck you're outside, in the wind.",
+        come: "Free shuttle from the entrance on Jalan Puncak, or on foot through KL Forest Eco Park.",
+        quando: "At sunset, with the Petronas lighting up opposite.",
+        tempo: "1 hour",
+        orari: "daily 9am-10pm; the open-air Sky Deck closes in bad weather",
+        url: "https://kltower.com.my/",
+        consiglio: "This is the tower you see the Petronas from: if you only go up one, make it this one.",
+        lat: 3.1528,
+        lng: 101.7038
+      },
+      {
+        nome: "Thean Hou Temple",
+        testo: "A six-tiered Chinese temple finished in the late 1980s and dedicated to Mazu, the sea goddess dear to sailors. Red and gold roofs, hundreds of lanterns and a terrace looking over the city.",
+        come: "By Grab, about 15 minutes from the centre: there's no convenient station nearby.",
+        quando: "Late afternoon, with warm light on the roofs; at Chinese New Year the lanterns number in the thousands and it's crowded.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "It pairs well with Brickfields, a few minutes away by Grab.",
+        lat: 3.1218,
+        lng: 101.6873
+      },
+      {
+        nome: "Kampung Baru",
+        testo: "A Malay village from 1900 that survives among the skyscrapers, with wooden houses on stilts, vegetable plots and nasi lemak stalls. The contrast with the Petronas, a kilometre away, is the reason to come.",
+        come: "LRT to Kampung Baru. From the KLCC side you can walk over the Saloma Link footbridge across the Klang River.",
+        quando: "At sunset, then dinner at the stalls and the lit-up bridge.",
+        tempo: "1-2 hours",
+        costo: "free",
+        consiglio: "The houses are lived in: stay on the streets and don't walk into the yards.",
+        lat: 3.1631,
+        lng: 101.703
+      },
+      {
+        nome: "Central Market (Pasar Seni) and Kwai Chai Hong",
+        testo: "The covered market of 1888, with its sky-blue Art Deco façade from 1937, now full of crafts: batik, carved wood, pewter. A few steps away, Kwai Chai Hong is a restored Chinatown lane with murals of neighbourhood life in the 1960s.",
+        come: "LRT to Pasar Seni. The market is air-conditioned.",
+        quando: "The market in the hot hours; Kwai Chai Hong in the evening, with the lights.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "Upstairs in the market there's a cheap food court.",
+        lat: 3.1456,
+        lng: 101.6956
+      },
+      {
+        nome: "Brickfields (Little India)",
+        testo: "The Indian quarter next to KL Sentral: colourful arches on Jalan Tun Sambanthan, flower-garland stalls, sari shops and Tamil music from the loudspeakers. It's the place for rice served on a banana leaf.",
+        come: "On foot from KL Sentral or the KL Sentral monorail stop, five minutes.",
+        quando: "At lunchtime, for banana leaf rice.",
+        tempo: "1-1.5 hours",
+        costo: "free",
+        consiglio: "Banana leaf is eaten with the right hand; at the end, fold the leaf towards you to say you enjoyed it.",
+        lat: 3.1304,
+        lng: 101.6856
       }
     ],
     programmi: [
       {
         titolo: "1 day",
-        tappe: ["Early morning: Batu Caves, climbing in the shade","Back to KL Sentral for breakfast","Early afternoon: Islamic Arts Museum, in the cool","Late afternoon: Masjid Jamek on foot, then Chinatown","Blue hour: the Petronas from below","Evening: dinner on Jalan Alor"]
+        tappe: [
+          "Early morning: Batu Caves, climbing in the shade",
+          "Back for breakfast at KL Sentral",
+          "Early afternoon: Islamic Arts Museum, in the cool",
+          "Late afternoon: walk to Masjid Jamek, then Chinatown",
+          "Blue hour: the Petronas from below",
+          "Evening: dinner at Jalan Alor"
+        ]
       },
       {
         titolo: "2 days",
         tappe: [
-          "Day 1: as above without Jalan Alor",
-          "Day 2: morning at the Lake Gardens and Perdana Botanical Garden, then KL Tower; evening dinner at Jalan Alor and Bukit Bintang"
+          "Day 1: Batu Caves at dawn, Masjid Negara and the Islamic Arts Museum in the hot hours, Petronas and KLCC Park at blue hour",
+          "Day 2: Masjid Jamek and Merdeka Square in the morning, Central Market and Chinatown",
+          "Lunch in Brickfields with banana leaf rice, then Thean Hou Temple",
+          "Evening: dinner at Jalan Alor and Bukit Bintang"
+        ]
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1 and 2: as above",
+          "Day 3: KL Forest Eco Park at opening time and up KL Tower",
+          "Afternoon: Perdana Botanical Garden, or a free afternoon during the heat",
+          "Sunset in Kampung Baru, then the Saloma Link bridge towards the lit-up Petronas",
+          "Instead of a third day in the city: a day trip to Malacca or Putrajaya"
         ]
       }
     ],
@@ -118,17 +258,26 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Bukit Bintang",
         perChi: "anyone who wants food, shops and nightlife",
-        testo: "The shopping center, with a huge choice of lodging and restaurants. It is loud and a little touristy, but well connected."
+        testo: "The shopping center, with a huge choice of lodging and restaurants. It is loud and a little touristy, but well connected.",
+        fascia: "€40-110"
       },
       {
         nome: "KLCC",
         perChi: "anyone looking for views of the towers and high-end hotels",
-        testo: "Quiet, clean, with quality restaurants. Less authentic life."
+        testo: "Quiet, clean, with quality restaurants. Less authentic life.",
+        fascia: "€90-220"
       },
       {
         nome: "Chinatown and Pasar Seni",
         perChi: "anyone who wants to save money and be close to markets and the station",
-        testo: "Hostels and cheap hotels, close to the airport train. Noisy in the evening."
+        testo: "Hostels and cheap hotels, close to the airport train. Noisy in the evening.",
+        fascia: "€25-70"
+      },
+      {
+        nome: "KL Sentral and Brickfields",
+        perChi: "anyone arriving or leaving by train or plane",
+        testo: "Hotels around the central station, where the KLIA Ekspres arrives and the metro, monorail and Batu Caves trains stop. Convenient rather than pretty; in the evening you eat in Brickfields.",
+        fascia: "€40-100"
       }
     ],
     sapori: [
@@ -154,6 +303,52 @@ export const destinazioniMalesia: Destinazione[] = [
       "At the Batu Caves, monkeys are aggressive about food and open bags. In the shrine, shoulders and knees covered.",
       "Taxis: use Grab or metered taxis. Refuse anyone who proposes a «fixed price» at the station.",
       "Heat and afternoon downpours are almost daily: outdoor visits in the morning."
+    ],
+    gite: [
+      {
+        nome: "Malacca",
+        distanza: "about 2 hours by bus",
+        come: "Bus from the TBS terminal to Melaka Sentral, then a few minutes by Grab to the old town.",
+        testo: "The Portuguese, Dutch and British port on the strait, a UNESCO site, with Peranakan houses and the Jonker Street night market at weekends. It deserves a night; it has its own page on the site."
+      },
+      {
+        nome: "Putrajaya",
+        distanza: "about 25 km, half an hour by train",
+        come: "KLIA Transit train from KL Sentral to Putrajaya station, then Grab between the monuments.",
+        testo: "The administrative capital built from scratch in the 1990s around an artificial lake: the pink Putra Mosque, the steel Tuanku Mizan Mosque and the monumental bridges. Half a day is enough."
+      },
+      {
+        nome: "Kuala Selangor fireflies",
+        distanza: "about 70 km, 1.5 hours by car",
+        come: "By car or on an evening tour from Kuala Lumpur; the small boats leave after sunset from Kampung Kuantan.",
+        testo: "In the mangroves of the Selangor River thousands of fireflies light up in unison on the trees. You only see it on moonless, rainless nights, in a rowing boat and in silence."
+      }
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Kuala Lumpur?",
+        risposta: "Two full days for the Batu Caves, the Petronas, the museums and the neighbourhoods. A third adds KL Tower and the forest park, or a day trip to Malacca or Putrajaya."
+      },
+      {
+        domanda: "Is it worth going up the Petronas Twin Towers?",
+        risposta: "The skybridge costs about 80 ringgit and sunset slots sell out early. The towers look better from below at blue hour, or from KL Tower, which is higher and faces them."
+      },
+      {
+        domanda: "How do you get to the Batu Caves and how much does it cost?",
+        risposta: "By KTM Komuter train from KL Sentral to the Batu Caves terminus, about 35-40 minutes for a few ringgit. Entry to the main cave is free; it's best to arrive at dawn."
+      },
+      {
+        domanda: "Where to stay in Kuala Lumpur?",
+        risposta: "Bukit Bintang for food and convenience, Chinatown to spend little, KLCC for views of the towers. What matters is being near a metro or monorail stop."
+      },
+      {
+        domanda: "How do you get from the airport to central Kuala Lumpur?",
+        risposta: "The KLIA Ekspres reaches KL Sentral in about 30 minutes for 55 ringgit (65 from 2027). The bus costs about 15 ringgit but takes over an hour; a Grab about 70-100 ringgit."
+      },
+      {
+        domanda: "How should you dress for mosques and temples in Kuala Lumpur?",
+        risposta: "Shoulders and knees covered, and shoes off before going in. Masjid Negara and Masjid Jamek lend a long robe at the entrance; at the Batu Caves it's best to arrive already suitably dressed."
+      }
     ],
     esperienzeSlugs: ['batu-caves'],
     tripSlugs: ['malesia-singapore'],

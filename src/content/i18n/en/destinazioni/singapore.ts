@@ -31,13 +31,12 @@ export const destinazioniSingapore: Destinazione[] = [
       "The area is the most expensive in the city. Those who sleep here do it for the view; those who want to spend less stay in Chinatown, Bugis or Geylang and get here by metro in ten minutes, which is the reasonable choice.",
     doveMangiare:
       "It's the part of the city where you eat worst for the price: the restaurants around the bay are designed for people who don't move. The advice is to eat at a hawker centre in Chinatown or Bugis and come here after dinner.",
-    comeArrivare: "Metro: the Bayfront, Marina Bay and Promenade stops serve the whole area. From the airport it's about 30 minutes by MRT.",
+    comeArrivare: "From Changi, take the green MRT line to Expo and change there to the blue Downtown Line for Bayfront or Promenade: about 40 minutes and 2-3 SGD (about €2) paying with a contactless card at the gate, roughly 5:30am to 11:30pm. Taxis and Grab take 20-30 minutes and cost about 25-45 SGD (€16-30), plus the airport surcharge of up to 8 SGD and 50% extra after midnight. In the city, the Bayfront, Marina Bay, Promenade and Esplanade stations cover the whole bay.",
     comeSpostarsi:
       "All on foot, but with a warning: the heat is serious and there's little shade. The air-conditioned underground passages connecting the shopping malls are the city's real pedestrian network and are worth using.",
     periodoMigliore:
       "all year, better in the evening: there are the lights, and during the day the humidity on the bay is heavy and the asphalt radiates heat back.",
-    costi:
-      "the bay, the Supertrees and the light show are free; the conservatories and the Marina Bay Sands observation deck need a ticket, with current prices on the official websites. Almost everything else can be seen without paying anything.",
+    costi: "The bay, the Supertrees, the Garden Rhapsody and Spectra light shows and the walk around are all free. The two conservatories cost 46 SGD for non-residents (about €30), the OCBC Skyway 14 SGD (about €9), the Marina Bay Sands deck about 35-39 SGD (€23-26), the National Gallery 20 SGD (about €13). Daily budget in Singapore: about €70-90 with a hostel and hawker centres, €150-220 with a mid-range central hotel, over €350 sleeping on the bay.",
     erroriDaEvitare: [
       "Paying for the Marina Bay Sands observation deck: it costs as much as a cocktail at the bar in the same building, which has the same view and where you can sit down",
       "Going to the Gardens in the middle of the day, when it's very hot and there are no lights",
@@ -53,9 +52,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT to Bayfront, then a covered walkway into the gardens. The grove is free and self-guided; the elevated walkway (OCBC Skyway) is ticketed separately.",
         quando: "After sunset for the Garden Rhapsody light show, every evening at 19:45 and 20:45, about fifteen minutes; extra shows are added during festive periods (schedule on the official website).",
         tempo: "1.5 hours",
-        costo: "free entry to the gardens and the light show",
+        costo: "gardens and show free; OCBC Skyway 14 SGD for non-residents, about €9 (2026)",
         url: "https://www.gardensbythebay.com.sg/",
-        consiglio: "Lie on the lawn under the towers, as locals do, and watch the show lying down."
+        consiglio: "Lie on the lawn under the towers, as locals do, and watch the show lying down.",
+        orari: "outdoor gardens daily from 5am to 2am; OCBC Skyway 9am-9pm",
+        lat: 1.28195,
+        lng: 103.86391
       },
       {
         nome: "Cloud Forest and Flower Dome",
@@ -65,7 +67,10 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "1 hour per conservatory",
         url: "https://www.gardensbythebay.com.sg/",
         consiglio: "If you only pick one, the Cloud Forest: it is the most surprising thing in the area.",
-        costo: "ticket for each conservatory; prices on the official website"
+        costo: "ticket for both conservatories 46 SGD for non-residents, about €30 (official website, 2026)",
+        orari: "daily 9am-9pm; each dome closes in turn for a few maintenance days, dates on the official website",
+        lat: 1.28396,
+        lng: 103.8658
       },
       {
         nome: "Marina Bay Sands and the rooftop bar",
@@ -73,7 +78,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT to Bayfront; the shopping mall connects directly to the towers. To go up you can pay for the deck or go to the rooftop bar, where you order a drink.",
         quando: "At sunset, as the city lights come on.",
         tempo: "1 hour",
-        consiglio: "Have a cocktail at the rooftop bar of the same building rather than buying the deck ticket: the view is the same and you get to sit down."
+        consiglio: "Have a cocktail at the rooftop bar of the same building rather than buying the deck ticket: the view is the same and you get to sit down.",
+        costo: "observation deck about 35 SGD by day and 39 SGD from 5pm, about €23-26 (2026)",
+        orari: "deck daily 10am-10pm, last entry 9:30pm; early closures for events listed on the website",
+        url: "https://www.marinabaysands.com/attractions/sands-skypark.html",
+        lat: 1.2834,
+        lng: 103.8607
       },
       {
         nome: "Helix Bridge, the Merlion and the waterfront",
@@ -82,7 +92,10 @@ export const destinazioniSingapore: Destinazione[] = [
         quando: "At blue hour, when the lights come on but there is still some sky.",
         tempo: "1.5 hours for the full loop",
         costo: "free",
-        consiglio: "Walk the loop clockwise starting from the Merlion, so you reach the Gardens when the lights are already on."
+        consiglio: "Walk the loop clockwise starting from the Merlion, so you reach the Gardens when the lights are already on.",
+        orari: "always open",
+        lat: 1.28766,
+        lng: 103.86046
       },
       {
         nome: "ArtScience Museum",
@@ -90,7 +103,10 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "On foot from Marina Bay Sands, facing the bay.",
         quando: "In the hottest hours of the day, since it is indoors and air-conditioned.",
         tempo: "1.5 hours",
-        consiglio: "Check the program before deciding: you pay for the exhibitions, not for the building."
+        consiglio: "Check the program before deciding: you pay for the exhibitions, not for the building.",
+        url: "https://www.marinabaysands.com/museum.html",
+        lat: 1.28628,
+        lng: 103.85929
       },
       {
         nome: "Marina Barrage",
@@ -99,7 +115,92 @@ export const destinazioniSingapore: Destinazione[] = [
         quando: "At sunset, with the skyline in front of you.",
         tempo: "1 hour",
         costo: "free",
-        consiglio: "Bring a kite, or just a blanket and something to drink."
+        consiglio: "Bring a kite, or just a blanket and something to drink.",
+        lat: 1.2805,
+        lng: 103.871
+      },
+      {
+        nome: "Spectra, the water show at Marina Bay Sands",
+        testo: "Fifteen minutes of water jets, lasers and projections set to music, in front of Marina Bay Sands. It's the bay's other free evening show, different from the Supertree one: here the stage is the water.",
+        come: "Watch it from the Event Plaza, the stepped waterfront in front of the Marina Bay Sands shops; no booking.",
+        quando: "It fits with Garden Rhapsody: Supertrees at 7:45pm, then Spectra at 9pm.",
+        tempo: "15 minutes",
+        costo: "free",
+        orari: "daily at 8pm and 9pm, plus a 10pm show on Friday and Saturday",
+        url: "https://www.marinabaysands.com/attractions/spectra.html",
+        consiglio: "Arrive ten minutes early to sit on the lowest steps, close to the water.",
+        lat: 1.284,
+        lng: 103.8588
+      },
+      {
+        nome: "National Gallery Singapore",
+        testo: "The modern art museum fills two colonial buildings joined by a glass roof: the old Supreme Court and the City Hall where the Japanese signed their surrender in 1945. It holds the largest public collection of modern art from Singapore and Southeast Asia.",
+        come: "MRT to City Hall, then five minutes on foot across the Padang. Visit on your own; there are free guided tours in English.",
+        quando: "In the hottest hours, between noon and 4pm.",
+        tempo: "2-3 hours",
+        costo: "general admission 20 SGD for non-residents, about €13 (official website, 2026)",
+        orari: "daily 10am-7pm, last entry 6:30pm",
+        url: "https://www.nationalgallery.sg/",
+        consiglio: "The Southeast Asia gallery is closed for works until late 2027: if that's the main reason to go, check first what's on show.",
+        lat: 1.2904,
+        lng: 103.8515
+      },
+      {
+        nome: "Asian Civilisations Museum",
+        testo: "On the river, in a 19th-century colonial building, it tells the story of Asia's trade and religions through ceramics, textiles and statues. The highlight is the cargo of the Belitung wreck, a 9th-century Arab ship that sank with thousands of Chinese bowls.",
+        come: "MRT to Raffles Place, then cross the Cavenagh Bridge on foot.",
+        quando: "Friday evening, when it stays open until 9pm and is almost empty.",
+        tempo: "1.5-2 hours",
+        orari: "daily 10am-7pm, Friday until 9pm",
+        url: "https://www.acm.nhb.gov.sg/",
+        consiglio: "Start with the shipwreck gallery on the ground floor: on its own it explains why Singapore was born where it was.",
+        lat: 1.28749,
+        lng: 103.85138
+      },
+      {
+        nome: "Esplanade - Theatres on the Bay",
+        testo: "The theatre with two spiky domes that Singaporeans call «the durian» for its likeness to the fruit. The spikes are sunshades. On the waterfront there's an outdoor stage with free concerts, and the roof terrace looks over the whole bay.",
+        come: "MRT to Esplanade, or on foot from the Merlion over the Esplanade Bridge.",
+        quando: "In the evening, when there's music at the Outdoor Theatre (programme on the website).",
+        tempo: "45 minutes",
+        costo: "building and terrace free; indoor shows paid",
+        url: "https://www.esplanade.com/",
+        lat: 1.28977,
+        lng: 103.85549
+      },
+      {
+        nome: "Singapore Flyer",
+        testo: "The 165-metre observation wheel, opened in 2008: one rotation takes about half an hour, in air-conditioned cabins for around twenty people. From the top you see the bay, the Gardens and the ships at anchor in the strait.",
+        come: "MRT to Promenade, then a few minutes on foot.",
+        quando: "At sunset, or on a clear day after rain.",
+        tempo: "1 hour including the wait",
+        orari: "daily 10am-10pm",
+        url: "https://www.singaporeflyer.com/",
+        consiglio: "It's an alternative to the Marina Bay Sands deck, not an addition: one of the two is enough.",
+        lat: 1.2893,
+        lng: 103.8631
+      },
+      {
+        nome: "Lau Pa Sat",
+        testo: "An octagonal Victorian cast-iron market from 1894, set among the skyscrapers of the financial district and now a hawker centre. In the evening the street next to it, Boon Tat Street, closes to traffic and fills with satay grills.",
+        come: "MRT to Downtown or Raffles Place, five minutes on foot. Order at the stalls and pay straight away.",
+        quando: "In the evening for the outdoor satay; at lunch it's packed with office workers.",
+        tempo: "1 hour",
+        costo: "a dish usually 5-8 SGD, about €3-5 (2026)",
+        consiglio: "It's the hawker centre closest to the bay: the right place for dinner before the shows.",
+        lat: 1.28069,
+        lng: 103.85039
+      },
+      {
+        nome: "Singapore River, Boat Quay and Clarke Quay",
+        testo: "The river where the port began: the merchants' shophouses of Boat Quay, the Clarke Quay warehouses turned into bars, and the Cavenagh Bridge of 1869. It's the stretch linking Marina Bay to the old centre.",
+        come: "On foot from the Merlion along the bank, or by bumboat, the river boats that loop around the bay.",
+        quando: "In the evening, when the bars light up and it's cooler.",
+        tempo: "1-2 hours",
+        costo: "walk free; bumboat cruise paid",
+        consiglio: "Drinking at Boat Quay is expensive: better a beer at a hawker centre, then the walk.",
+        lat: 1.28642,
+        lng: 103.84918
       }
     ],
     programmi: [
@@ -121,23 +222,43 @@ export const destinazioniSingapore: Destinazione[] = [
           "Sunset at the Marina Barrage",
           "Evening: light show at the Supertrees"
         ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: as in the one-day plan, with the Cloud Forest in the morning and the Supertrees at night",
+          "Day 2: National Gallery at opening time and the Asian Civilisations Museum",
+          "Lunch at Lau Pa Sat",
+          "Afternoon: the riverside at Boat Quay and Clarke Quay, then the Esplanade",
+          "Sunset at the Marina Barrage or on the Singapore Flyer",
+          "Evening: Spectra at 9pm in front of Marina Bay Sands"
+        ]
       }
     ],
     zone: [
       {
         nome: "Marina Bay",
         perChi: "anyone who wants the view and does not watch the price",
-        testo: "High-end hotels around the bay. The view is exceptional, but prices are the highest in the city and restaurants are built for people who do not move around."
+        testo: "High-end hotels around the bay. The view is exceptional, but prices are the highest in the city and restaurants are built for people who do not move around.",
+        fascia: "€300-650"
       },
       {
         nome: "Chinatown and Tanjong Pagar",
         perChi: "anyone who wants to save money and stay central",
-        testo: "The bay is a few minutes away by metro. Right next to hawker centres, bars and restaurants, and much cheaper."
+        testo: "The bay is a few minutes away by metro. Right next to hawker centres, bars and restaurants, and much cheaper.",
+        fascia: "€120-220"
       },
       {
         nome: "Bugis and Kampong Glam",
         perChi: "anyone who wants nightlife and good value",
-        testo: "A lively neighborhood with many lodging options and a direct connection to the bay. A bit noisy on weekends."
+        testo: "A lively neighborhood with many lodging options and a direct connection to the bay. A bit noisy on weekends.",
+        fascia: "€110-200"
+      },
+      {
+        nome: "Clarke Quay and Robertson Quay",
+        perChi: "anyone who wants to stay on the river and walk to the bay",
+        testo: "Hotels along the Singapore River, a twenty-minute walk from the Merlion. Robertson Quay is quieter; Clarke Quay is the nightlife area and gets noisy at night.",
+        fascia: "€150-280"
       }
     ],
     sapori: [
@@ -163,6 +284,52 @@ export const destinazioniSingapore: Destinazione[] = [
       "Rules are strict and enforced: fines for littering, smoking outside permitted areas, or jaywalking. E-cigarettes are banned.",
       "The Merlion and the most photographed spots are crowded: keep your wallet in a front pocket, though thefts are rare.",
       "Dining around the bay means paying much more for a mediocre dish: a few minutes on the metro gets you better food for far less."
+    ],
+    gite: [
+      {
+        nome: "Sentosa",
+        distanza: "20 minutes by MRT and monorail",
+        come: "MRT to HarbourFront, then the Sentosa Express monorail from VivoCity, or walk across the Sentosa Boardwalk.",
+        testo: "Singapore's leisure island, with man-made beaches, Universal Studios and the southernmost point of continental Asia you can walk to, on the bridge at Palawan Beach. It has its own page on the site."
+      },
+      {
+        nome: "Pulau Ubin",
+        distanza: "about 1.5 hours by MRT, bus and boat",
+        come: "MRT to Tanah Merah, bus 2 to Changi Point Ferry Terminal, then a 10-minute bumboat that leaves when full.",
+        testo: "The last country village left in Singapore: wooden houses, dirt roads and mangroves. Explore it by bike, rented at the jetty, as far as the Chek Jawa wetlands."
+      },
+      {
+        nome: "Bintan",
+        distanza: "about 1 hour by ferry",
+        come: "Ferry from Tanah Merah Ferry Terminal; it's Indonesia, so you need your passport and Indonesia's entry rules apply.",
+        testo: "An Indonesian island with resorts and beaches that many Singapore residents use for the weekend. It only makes sense with an overnight stay, not as a rushed day trip."
+      }
+    ],
+    faq: [
+      {
+        domanda: "How much time do you need for Marina Bay and Gardens by the Bay?",
+        risposta: "A full day is enough, as long as you keep the evening for the Supertrees. Add the Civic District museums and the riverside and you'll use two."
+      },
+      {
+        domanda: "Is Gardens by the Bay free?",
+        risposta: "Yes for the outdoor gardens, the Supertree Grove and the light show. You pay for the two conservatories (46 SGD for non-residents) and the OCBC Skyway (14 SGD)."
+      },
+      {
+        domanda: "What time are the light shows at Marina Bay?",
+        risposta: "Garden Rhapsody at the Supertrees runs at 7:45pm and 8:45pm. Spectra, on the water in front of Marina Bay Sands, runs at 8pm and 9pm, plus 10pm on Friday and Saturday: you can see both on the same evening."
+      },
+      {
+        domanda: "Is the Marina Bay Sands observation deck worth it?",
+        risposta: "It costs about 35-39 SGD. The rooftop bar in the same building gives the same view for the price of a cocktail, and you get a seat."
+      },
+      {
+        domanda: "Where to stay to visit Marina Bay without overspending?",
+        risposta: "In Chinatown, Tanjong Pagar or Bugis, a few minutes away by metro: a double costs about half what it does on the bay."
+      },
+      {
+        domanda: "Can you see Marina Bay during a layover at Changi?",
+        risposta: "With at least six or seven hours, yes: the metro reaches Bayfront in about 40 minutes. Fill in the SG Arrival Card beforehand; it's required to enter Singapore."
+      }
     ],
     esperienzeSlugs: ['gardens-by-the-bay'],
     tripSlugs: ['malesia-singapore'],

@@ -30,10 +30,10 @@ export const destinazioniPeru: Destinazione[] = [
       'The historic center and San Blas are the most convenient and pleasant areas; San Blas is all uphill, though, which you feel a lot in the first days at altitude.',
     doveMangiare:
       "San Pedro Market is the right place for your first impression: fruit juices at the counter, soups and menú del día for a few soles. In town, try cuy (guinea pig), grilled alpaca and chicharrón; a pisco sour is a must the first night, but take it slow, because at 11,200 feet (3,400 meters) alcohol hits twice as hard.",
-    comeArrivare: 'Domestic flight from Lima (about 1h20), which is almost the only sensible option. By land from Puno or Arequipa it takes 6-10 hours by bus.',
+    comeArrivare: "Domestic flight from Lima (about 1h20), which is almost the only sensible option. By land from Puno or Arequipa it takes 6-10 hours by bus. Alejandro Velasco Astete airport (CUZ) is in the city: official taxi or app in 15-20 minutes, about 20-40 soles (€5-10); avoid the fake taxi drivers at the arrivals exit. From Puno there's also the tourist bus, about 10 hours with stops at Pukará, La Raya, Raqchi and Andahuaylillas. Cusco sits at 3,400 metres: keep your arrival day free.",
     comeSpostarsi: 'You get around the center on foot; cheap taxis and colectivos for the outer areas. For the Sacred Valley, organized tours or a car with a driver.',
     periodoMigliore: "May-September, the dry season. Watch out for June 24, when Inti Raymi fills the city",
-    costi: 'the Cusco Tourist Ticket (Boleto Turístico, about 130 soles) covers Sacsayhuamán, the Sacred Valley sites and several museums in a single ticket; it is almost always worth it',
+    costi: "Low budget €30-45 a day (hostel, menú del día at the market, colectivos); mid-range €70-120 (hotel in the centre or San Blas, restaurants, taxis); high from €200 (hotels in colonial mansions, private guide, private tours). The Cusco Tourist Ticket (Boleto Turístico, about 130 soles, about €33) covers Sacsayhuamán, the Sacred Valley sites and several museums in a single ticket; it is almost always worth it.",
     erroriDaEvitare: [
       'Landing in Cusco and leaving for a trek the next day: it is the most direct way to ruin your trip with altitude sickness',
       "Underestimating the nights: at 11,200 feet (3,400 meters) it's cold all year, even when it's 68°F (20°C) in the daytime",
@@ -43,97 +43,204 @@ export const destinazioniPeru: Destinazione[] = [
       "The first day here is a lost day, and you have to factor it in: we landed at 11,200 feet (3,400 meters) and only walked slowly between Plaza de Armas and San Blas, coca tea in hand like everyone else. It's what you need, and the rest of the trip benefits. On the second day, Qorikancha and Sacsayhuamán, the best way to understand beforehand what you'll see at Machu Picchu, and lunch at San Pedro Market among juices at the counter and soups for a few soles. For souvenirs in Cusco, I go to Assunta. From here I did both Rainbow Mountain and Humantay Lake, plus another colorful mountain and a couple of lakes whose names I don't remember. I've also been to Peru twice as a volunteer, and one of those times was right here in Cusco, with Proyecto Cusimaky: it's a project I support, and I invite anyone passing through Cusco to visit it.",
     luoghi: [
       {
-        "nome": "Plaza de Armas and Cathedral",
-        "testo": "The colonial heart of Cusco: arcades, wooden balconies and a Cathedral built with blocks taken from Sacsayhuamán. In the evening, with the churches lit up, it is the place to catch your breath after the arrival day.",
-        "come": "In the centre, a walk from almost every hotel. The Cathedral has its own ticket, not included in the general Boleto Turístico.",
-        "quando": "The square is best at dawn and after sunset, when tour groups are elsewhere.",
-        "tempo": "1-2 hours with the Cathedral",
-        "consiglio": "On the first day do nothing else: stroll slowly between the square and San Blas with a coca tea in hand, like everyone does."
+        nome: "Plaza de Armas and Cathedral",
+        testo: "The colonial heart of Cusco: arcades, wooden balconies and a Cathedral built with blocks taken from Sacsayhuamán. In the evening, with the churches lit up, it is the place to catch your breath after the arrival day.",
+        come: "In the centre, a walk from almost every hotel. The Cathedral has its own ticket, not included in the general Boleto Turístico.",
+        quando: "The square is best at dawn and after sunset, when tour groups are elsewhere.",
+        tempo: "1-2 hours with the Cathedral",
+        lat: -13.51677,
+        lng: -71.97878,
+        consiglio: "On the first day do nothing else: stroll slowly between the square and San Blas with a coca tea in hand, like everyone does.",
       },
       {
-        "nome": "Qorikancha (Santo Domingo convent)",
-        "testo": "It was the Inca Temple of the Sun. The conquistadors built the Santo Domingo convent on top, but the dry-stone walls survived the earthquakes that damaged the colonial part. It explains what the stones at Machu Picchu are about.",
-        "come": "On foot from the Plaza de Armas, heading south-east. You visit the convent with its cloisters and Inca rooms; there is also a separate site museum.",
-        "quando": "Best in the morning, before the organised groups.",
-        "tempo": "1 hour",
-        "consiglio": "Visit it on the second day together with Sacsayhuamán: the best way to understand Inca masonry before the rest of the trip."
+        nome: "Qorikancha (Santo Domingo convent)",
+        testo: "It was the Inca Temple of the Sun. The conquistadors built the Santo Domingo convent on top, but the dry-stone walls survived the earthquakes that damaged the colonial part. It explains what the stones at Machu Picchu are about.",
+        come: "On foot from the Plaza de Armas, heading south-east. You visit the convent with its cloisters and Inca rooms; there is also a separate site museum.",
+        quando: "Best in the morning, before the organised groups.",
+        tempo: "1 hour",
+        costo: "about 20 soles, about €5 (2026); not included in the Boleto Turístico",
+        lat: -13.52,
+        lng: -71.97556,
+        consiglio: "Visit it on the second day together with Sacsayhuamán: the best way to understand Inca masonry before the rest of the trip.",
       },
       {
-        "nome": "Sacsayhuamán",
-        "testo": "The fortress-sanctuary above the city, with three great terrace walls of megalithic blocks fitted without mortar: the largest is estimated at between 128 and almost 200 tonnes. From the top you see all of Cusco, and on 24 June Inti Raymi is celebrated here.",
-        "come": "Above the city, to the north: by taxi or uphill on foot, which is best avoided in your first days at altitude. It is included in the Boleto Turístico.",
-        "quando": "Morning or early afternoon. On 24 June, Inti Raymi day, access changes: check beforehand.",
-        "tempo": "1.5-2 hours",
-        "costo": "General Boleto Turístico about 130 soles for foreigners, valid 10 days, 16 sites (COSITUC price list, 2026). Partial tickets for a single circuit cost 70 soles",
-        "consiglio": "Go up by taxi and walk down: the descent towards San Blas is pleasant and does not tire you."
+        nome: "Sacsayhuamán",
+        testo: "The fortress-sanctuary above the city, with three great terrace walls of megalithic blocks fitted without mortar: the largest is estimated at between 128 and almost 200 tonnes. From the top you see all of Cusco, and on 24 June Inti Raymi is celebrated here.",
+        come: "Above the city, to the north: by taxi or uphill on foot, which is best avoided in your first days at altitude. It is included in the Boleto Turístico.",
+        quando: "Morning or early afternoon. On 24 June, Inti Raymi day, access changes: check beforehand.",
+        tempo: "1.5-2 hours",
+        costo: "General Boleto Turístico about 130 soles (about €33) for foreigners, valid 10 days, 16 sites (COSITUC rates, 2026). Partial tickets for a single circuit cost 70 soles (about €18)",
+        lat: -13.50778,
+        lng: -71.98222,
+        consiglio: "Go up by taxi and walk down: the descent towards San Blas is pleasant and does not tire you.",
       },
       {
-        "nome": "San Blas and the Stone of Twelve Angles",
-        "testo": "The artisans' quarter, all steep lanes, workshops and cafés. In Calle Hatun Rumiyoc is the twelve-angled stone, an Inca block fitted perfectly among the others.",
-        "come": "On foot from the square. The streets are steep and cobbled.",
-        "quando": "All day; the workshops are livelier in the afternoon.",
-        "tempo": "1-2 hours",
-        "consiglio": "For souvenirs you find better-made things here than at the stalls on the square. Allow for the climbs: they are felt in the first days."
+        nome: "San Blas and the Stone of Twelve Angles",
+        testo: "The artisans' quarter, all steep lanes, workshops and cafés. In Calle Hatun Rumiyoc is the twelve-angled stone, an Inca block fitted perfectly among the others.",
+        come: "On foot from the square. The streets are steep and cobbled.",
+        quando: "All day; the workshops are livelier in the afternoon.",
+        tempo: "1-2 hours",
+        costo: "free",
+        lat: -13.51601,
+        lng: -71.97625,
+        consiglio: "For souvenirs you find better-made things here than at the stalls on the square. Allow for the climbs: they are felt in the first days.",
       },
       {
-        "nome": "San Pedro Market",
-        "testo": "The covered market where the locals eat: juice stalls, soups, cheeses, herbs and coca. A first taste of Andean cooking without spending much.",
-        "come": "On foot from the Plaza de Armas, heading west. Free entry.",
-        "quando": "Morning and lunch; many stalls close in the afternoon.",
-        "tempo": "1 hour",
-        "consiglio": "The menú del día at lunch costs a few soles and is what locals eat. Keep your bag in front: pickpockets work here."
+        nome: "Church of La Compañía de Jesús",
+        testo: "The Jesuit church on the south-east side of the Plaza de Armas, built on the remains of the Inca Huayna Cápac's palace. Its baroque facade is richer than the Cathedral's, which the Jesuits meant to rival, and lit up at night it is the square's postcard view.",
+        come: "On the Plaza de Armas, a few steps from the Cathedral. It has its own ticket.",
+        quando: "The facade at sunset and at night; the interior in the late afternoon.",
+        tempo: "30-45 minutes",
+        lat: -13.5176,
+        lng: -71.97796,
       },
       {
-        "nome": "Rainbow Mountain (Vinicunca)",
-        "testo": "The striped mountain in ochre, pink and turquoise, above 16,400 feet (5,000 metres). A day trip from Cusco, with a final walk at altitude that is hard on your breath more than on distance.",
-        "come": "A day trip leaving Cusco at night, a few hours on the road and an uphill walk. You go with an agency.",
-        "quando": "Dry season. Leave before dawn for fewer crowds.",
-        "tempo": "Full day",
-        "consiglio": "Do it after a few days of acclimatisation. Rick also did Humantay lake and other lakes nearby, always after getting used to the altitude."
-      }
+        nome: "San Pedro Market",
+        testo: "The covered market where the locals eat: juice stalls, soups, cheeses, herbs and coca. A first taste of Andean cooking without spending much.",
+        come: "On foot from the Plaza de Armas, heading west. Free entry.",
+        quando: "Morning and lunch; many stalls close in the afternoon.",
+        tempo: "1 hour",
+        costo: "free",
+        lat: -13.52116,
+        lng: -71.9825,
+        consiglio: "The menú del día at lunch costs a few soles and is what locals eat. Keep your bag in front: pickpockets work here.",
+      },
+      {
+        nome: "Museo Inka",
+        testo: "The museum of the University of San Antonio Abad, in a colonial house close to the square, with pottery, textiles, gold objects, painted qeros and mummies. Weavers from Andean communities often work in the courtyard.",
+        come: "On foot from the Plaza de Armas, up the Cuesta del Almirante. It has its own ticket, not included in the Boleto Turístico.",
+        quando: "On a rest afternoon during your first days of acclimatisation.",
+        tempo: "1-1.5 hours",
+        lat: -13.51563,
+        lng: -71.97815,
+      },
+      {
+        nome: "Museo de Arte Precolombino (MAP)",
+        testo: "A selection from the collection of Lima's Museo Larco, shown in a colonial house on Plazoleta Nazarenas. Few rooms, beautifully curated: Moche and Nazca pottery, gold and silver from the cultures before the Incas.",
+        come: "On foot from the Plaza de Armas, on Plazoleta Nazarenas. It has its own ticket.",
+        quando: "Afternoon or evening.",
+        tempo: "1 hour",
+        lat: -13.51491,
+        lng: -71.97735,
+        consiglio: "If you're not going through Lima or have no time for the Museo Larco, the essentials are here.",
+      },
+      {
+        nome: "San Cristóbal church and viewpoint",
+        testo: "The small church on the hill north of the square, whose forecourt looks out over the whole of Cusco. Beside it stand the walls of Manco Cápac's palace, Colcampata. It's the viewpoint over the city closest to the centre.",
+        come: "Uphill on foot from the Plaza de Armas via the Cuesta del Almirante, or by taxi; it's on the road to Sacsayhuamán.",
+        quando: "At sunset, as the city lights up.",
+        tempo: "30 minutes",
+        lat: -13.51343,
+        lng: -71.9802,
+      },
+      {
+        nome: "Q'enqo",
+        testo: "An Inca shrine carved into a large rock outcrop, with zigzag channels, niches and a cave with an altar thought to have been used for rituals and mummification. It's the site closest to Sacsayhuamán and the most mysterious on the circuit.",
+        come: "About 1 km from Sacsayhuamán, on the road to Pisac: on foot or by taxi. Included in the Boleto Turístico.",
+        quando: "Right after Sacsayhuamán, in the morning.",
+        tempo: "30-45 minutes",
+        costo: "included in the Boleto Turístico (130 soles, about €33, 2026)",
+        lat: -13.51056,
+        lng: -71.97167,
+      },
+      {
+        nome: "Cristo Blanco",
+        testo: "The white statue of Christ with open arms, given to the city in 1945, on the hill next to Sacsayhuamán. From here you get the widest view over Cusco and the valley.",
+        come: "By taxi, or 10 minutes on foot from upper San Blas or from Sacsayhuamán. It's an open space.",
+        quando: "At sunset, or at night for the city lights.",
+        tempo: "30 minutes",
+        costo: "free",
+        lat: -13.51042,
+        lng: -71.97622,
+      },
+      {
+        nome: "Tambomachay and Puka Pukara",
+        testo: "Two small sites facing each other on the road to Pisac. Tambomachay, the \"Inca's bath\", has stone fountains and channels still running; Puka Pukara was a control post and resting place on the way to the Sacred Valley.",
+        come: "By taxi from Cusco, about 8 km, or with the buses towards Pisac. Many then walk back downhill to Q'enqo and Sacsayhuamán.",
+        quando: "Morning, before the afternoon city-tour groups.",
+        tempo: "1 hour for both",
+        costo: "included in the Boleto Turístico (130 soles, about €33, 2026)",
+        lat: -13.48083,
+        lng: -71.96472,
+        consiglio: "Take a taxi up to Tambomachay and walk down past Puka Pukara, Q'enqo and Sacsayhuamán: you cover the whole circuit with no uphill effort.",
+      },
+      {
+        nome: "Rainbow Mountain (Vinicunca)",
+        testo: "The striped mountain in ochre, pink and turquoise, above 16,400 feet (5,000 metres). A day trip from Cusco, with a final walk at altitude that is hard on your breath more than on distance.",
+        come: "A day trip leaving Cusco at night, a few hours on the road and an uphill walk. You go with an agency.",
+        quando: "Dry season. Leave before dawn for fewer crowds.",
+        tempo: "Full day",
+        costo: "entry to Vinicunca about 25-30 soles (about €7) in cash, paid to the community; the tour from Cusco is paid separately (2026)",
+        lat: -13.87023,
+        lng: -71.30295,
+        consiglio: "Do it after a few days of acclimatisation. Rick also did Humantay lake and other lakes nearby, always after getting used to the altitude.",
+      },
+      {
+        nome: "Humantay Lake",
+        testo: "A turquoise lake at about 4,200 metres, below the glacier of Nevado Humantay, on the Salkantay trek route. The climb from the Soraypampa car park is short but steep and at altitude.",
+        come: "Day trip leaving Cusco in the middle of the night: about 3 hours' drive to Soraypampa, then a 1-1.5 hour climb. Horses are available for much of the way up.",
+        quando: "Dry season, May to September; arrive early, before clouds cover the mountain.",
+        tempo: "Full day",
+        costo: "entry ticket separate from the tour, check with the agency",
+        lat: -13.37955,
+        lng: -72.58466,
+        consiglio: "Do it after a few days of acclimatisation, like Rainbow Mountain; warm layers, sunscreen and water.",
+      },
     ],
     programmi: [
       {
-        "titolo": "1 day",
-        "tappe": [
-          "Morning: Plaza de Armas and Cathedral",
+        titolo: "1 day",
+        tappe: [
+          "Morning: Plaza de Armas, Cathedral and La Compañía church",
           "Qorikancha and lunch at San Pedro market",
           "Afternoon: San Blas and the Stone of Twelve Angles",
-          "Evening: light dinner and early bed, you are at altitude"
-        ]
+          "Sunset at the San Cristóbal viewpoint",
+          "Evening: light dinner and early bed, you are at altitude",
+        ],
       },
       {
-        "titolo": "2 days",
-        "tappe": [
+        titolo: "2 days",
+        tappe: [
           "Day 1: square, San Blas and market, all easy, coca tea and no alcohol",
-          "Day 2 morning: Qorikancha",
-          "Day 2 afternoon: Sacsayhuamán by taxi and walk down towards San Blas"
-        ]
+          "Day 2 morning: Qorikancha and Museo Inka",
+          "Day 2 afternoon: taxi up to Tambomachay, then walk down past Puka Pukara, Q'enqo and Sacsayhuamán",
+          "Day 2 sunset: Cristo Blanco and walk down towards San Blas",
+        ],
       },
       {
-        "titolo": "3 days",
-        "tappe": [
+        titolo: "3 days",
+        tappe: [
           "Days 1-2 as in the 2-day plan",
-          "Day 3: sleep already in the Sacred Valley (lower) or, well acclimatised, Rainbow Mountain or Humantay lake as a day trip"
-        ]
-      }
+          "Day 3: Museo de Arte Precolombino and last walks in town, then sleep in the Sacred Valley (lower)",
+          "Alternatively, well acclimatised: Rainbow Mountain or Humantay lake as a day trip",
+        ],
+      },
     ],
     zone: [
       {
-        "nome": "Historic centre and Plaza de Armas",
-        "perChi": "Arrivals who want everything on foot",
-        "testo": "The most convenient area for restaurants, agencies and transport. Lively and a bit noisy at night; beware of pickpockets in the busiest streets."
+        nome: "Historic centre and Plaza de Armas",
+        perChi: "Arrivals who want everything on foot",
+        testo: "The most convenient area for restaurants, agencies and transport. Lively and a bit noisy at night; beware of pickpockets in the busiest streets.",
+        fascia: "€40-150",
       },
       {
-        "nome": "San Blas",
-        "perChi": "Those who want atmosphere and workshops",
-        "testo": "The prettiest quarter, with lanes and cafés. All uphill, and in the first days at altitude the stairs weigh a lot."
+        nome: "San Blas",
+        perChi: "Those who want atmosphere and workshops",
+        testo: "The prettiest quarter, with lanes and cafés. All uphill, and in the first days at altitude the stairs weigh a lot.",
+        fascia: "€40-130",
       },
       {
-        "nome": "San Pedro and Santa Ana area",
-        "perChi": "Budget travellers",
-        "testo": "Cheaper lodgings near the market and the bus station. Less picturesque, but the square is within walking distance."
-      }
+        nome: "San Pedro and Santa Ana area",
+        perChi: "Budget travellers",
+        testo: "Cheaper lodgings near the market and the bus station. Less picturesque, but the square is within walking distance.",
+        fascia: "€25-60",
+      },
+      {
+        nome: "Sacred Valley (Urubamba and Ollantaytambo)",
+        perChi: "those who want to acclimatise lower down",
+        testo: "Towns at about 2,800-2,900 metres, 600 lower than Cusco: you sleep better and you're already on the way to Machu Picchu. Cusco is an hour and a half away.",
+        fascia: "€50-250",
+      },
     ],
     sapori: [
       {
@@ -163,6 +270,58 @@ export const destinazioniPeru: Destinazione[] = [
       "Pickpockets in busy tourist areas and at San Pedro market: bag in front, no phone in hand.",
       "Altitude sickness (soroche): two days of real rest before any trek, no alcohol on the first day.",
       "Long-distance buses: use only the main companies, especially at night."
+    ],
+    gite: [
+      {
+        nome: "Pisac and the Sacred Valley",
+        distanza: "about 1 hour by car, 33 km",
+        come: "Colectivo or bus from the centre, taxi, or a day tour combining Pisac, Urubamba and Ollantaytambo.",
+        testo: "The terraces and Inca citadel above the town of Pisac, the craft market below and the Urubamba valley. The Pisac ruins are included in the Boleto Turístico.",
+      },
+      {
+        nome: "Chinchero, Moray and Maras",
+        distanza: "1-1.5 hours by car, about 50 km",
+        come: "Car with driver or half-day tour; awkward by public transport.",
+        testo: "The church and weavers of Chinchero, the circular terraces of Moray and the thousands of pools of the Maras salt flats, which have a separate ticket of about 20 soles in cash.",
+      },
+      {
+        nome: "Machu Picchu",
+        distanza: "3.5-4 hours by car and train",
+        come: "Car or bus to Ollantaytambo, PeruRail or IncaRail train to Aguas Calientes, then shuttle bus to the entrance.",
+        testo: "Doable in a day but very long: better to sleep in Aguas Calientes and enter on the first slot. Tickets only on tuboleto.cultura.pe, to book well ahead.",
+      },
+      {
+        nome: "Tipón and Andahuaylillas",
+        distanza: "40-50 minutes by car, about 25-40 km",
+        come: "Taxi or car for half a day heading south-east, on the road to Puno.",
+        testo: "The still-working Inca water channels of Tipón and the church of Andahuaylillas, called the \"Sistine Chapel of the Andes\" for its painted walls. Half a day away from the groups.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Cusco?",
+        risposta: "At least three: one just to acclimatise, one for Qorikancha and the sites above the city, one for museums or a day trip. With the Sacred Valley and Machu Picchu you easily reach 5-6 days in the area.",
+      },
+      {
+        domanda: "How do you avoid altitude sickness in Cusco?",
+        risposta: "On the first day walk slowly, drink plenty, avoid alcohol and eat light; coca tea helps. If you can, sleep the first nights in the Sacred Valley, 600 metres lower, and postpone hikes above 4,000 metres.",
+      },
+      {
+        domanda: "Is the Cusco Tourist Ticket worth it?",
+        risposta: "Almost always: for about 130 soles it covers Sacsayhuamán, Q'enqo, Tambomachay, Pisac, Ollantaytambo, Moray and several museums for 10 days. It doesn't include Qorikancha, the Cathedral, the Maras salt flats or Machu Picchu.",
+      },
+      {
+        domanda: "Is it better to stay in Cusco or the Sacred Valley?",
+        risposta: "Cusco for museums, restaurants and evenings; the Sacred Valley to acclimatise better and get closer to Machu Picchu. Many split their nights between the two.",
+      },
+      {
+        domanda: "Rainbow Mountain or Humantay Lake?",
+        risposta: "Rainbow Mountain goes above 5,000 metres and is harder; Humantay is shorter and less crowded. Both need a few days of acclimatisation and a pre-dawn start.",
+      },
+      {
+        domanda: "When is the best time to visit Cusco?",
+        risposta: "May to September, the dry season, with clear days and cold nights. Around 24 June, for Inti Raymi, the city is full and accommodation must be booked well ahead.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],

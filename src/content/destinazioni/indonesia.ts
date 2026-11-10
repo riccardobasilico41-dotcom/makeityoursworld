@@ -402,11 +402,11 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Ubud per la parte culturale e le risaie, Canggu per il surf e la vita serale, Uluwatu per le scogliere e la calma relativa, Sanur o Nusa Dua per un ritmo più tranquillo e familiare. Dormire una notte a Nusa Penida evita la traversata doppia in giornata.',
     doveMangiare:
       'L\'errore è mangiare solo nei caffè per stranieri, che sono ovunque e ottimi ma raccontano poco. Il babi guling, il maialino da latte allo spiedo, è il piatto balinese per eccellenza e si trova nei locali specializzati che aprono a pranzo e chiudono quando finiscono; il bebek betutu, l\'anatra cotta per ore nelle spezie, va spesso ordinato il giorno prima. Nei warung di quartiere si mangia con pochi euro, e la qualità non c\'entra niente col prezzo.',
-    comeArrivare: 'Volo su Denpasar (DPS), il principale scalo internazionale dell\'isola.',
+    comeArrivare: "Si atterra all'aeroporto Ngurah Rai di Denpasar (DPS), dall'Europa con uno scalo, di solito a Singapore, Doha, Dubai o Istanbul. Non ci sono treni né metro: al banco ufficiale dei taxi negli arrivi la tariffa è fissa per zona, circa 150.000-250.000 IDR per Kuta, Seminyak o Sanur e 300.000-450.000 IDR per Ubud, che dista da 1 a 2 ore secondo il traffico; Uluwatu è a circa 45 minuti. Grab e Gojek costano meno, dal punto di ritiro indicato nell'app. Prima di partire si pagano online l'e-VOA e la tassa turistica Love Bali (150.000 IDR) e si compila la All Indonesia Arrival Card.",
     comeSpostarsi:
       'Scooter a noleggio (patente internazionale consigliata, controlli frequenti) o autista privato/Grab per gli spostamenti più lunghi.',
     periodoMigliore: 'aprile-ottobre, stagione secca',
-    costi: 'variano molto: è tra le mete indonesiane con più offerta, sia economica sia di fascia alta',
+    costi: "Variano molto: è tra le mete indonesiane con più offerta, sia economica sia di fascia alta. Budget: circa 30-40 € al giorno con guesthouse, warung e scooter (60.000-100.000 IDR al giorno). Medio: 80-120 € con villa o boutique hotel e qualche giornata con driver (300.000-600.000 IDR a tratta). Alto: oltre 200 € con resort e driver fisso. Tassa turistica 150.000 IDR a persona.",
     erroriDaEvitare: [
       'Noleggiare uno scooter senza patente internazionale: i controlli sono frequenti e le multe salate',
       'Sottovalutare il traffico tra Canggu e Seminyak nelle ore di punta',
@@ -421,7 +421,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Da Denpasar o dal sud in auto con autista o scooter: i tempi dipendono molto dal traffico. Le risaie si visitano a piedi.",
         quando: "Al mattino, prima dei gruppi.",
         tempo: "1 giorno",
-        consiglio: "Basta allontanarsi un po' verso l'interno per ritrovare le offerte di fiori davanti alle case e i templi in uso."
+        costo: "Tegalalang circa 25.000 IDR, circa 1,5 €, variabile secondo l'accesso; altalene a parte.",
+        lat: -8.4335,
+        lng: 115.279,
+        consiglio: "Basta allontanarsi un po' verso l'interno per ritrovare le offerte di fiori davanti alle case e i templi in uso.",
       },
       {
         nome: "Monkey Forest di Ubud",
@@ -429,7 +432,12 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "A piedi dal centro di Ubud.",
         quando: "Al mattino.",
         tempo: "1 ora",
-        consiglio: "Non portare cibo né oggetti sporgenti: i macachi strappano tutto."
+        costo: "Circa 130.000 IDR per gli adulti stranieri dall'aprile 2026, circa 7 €.",
+        orari: "Tutti i giorni, circa 9-18.",
+        lat: -8.5188,
+        lng: 115.2585,
+        url: "https://www.monkeyforestubud.com/",
+        consiglio: "Non portare cibo né oggetti sporgenti: i macachi strappano tutto.",
       },
       {
         nome: "Tempio di Uluwatu e danza Kecak",
@@ -437,7 +445,11 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Da Canggu o Seminyak in auto o scooter; con il traffico serve margine. Ci sono macachi ovunque.",
         quando: "Al tramonto.",
         tempo: "2-3 ore",
-        consiglio: "Arrivare presto per avere un buon posto nell'anfiteatro."
+        costo: "Tempio circa 50.000 IDR, circa 3 €; Kecak circa 150.000 IDR, circa 8 €, biglietto a parte.",
+        orari: "La Kecak comincia ogni sera verso le 18; nei mesi di punta i posti finiscono.",
+        lat: -8.8291,
+        lng: 115.0849,
+        consiglio: "Arrivare presto per avere un buon posto nell'anfiteatro.",
       },
       {
         nome: "Tanah Lot",
@@ -445,15 +457,132 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "In auto da Canggu, poco lontano lungo la costa. Con la bassa marea si può arrivare alla base dello scoglio.",
         quando: "Al tramonto, ma è affollato.",
         tempo: "1 ora e mezza",
-        consiglio: "Controllare la marea: con la bassa marea è più suggestivo."
+        lat: -8.6212,
+        lng: 115.0868,
+        consiglio: "Controllare la marea: con la bassa marea è più suggestivo.",
       },
       {
         nome: "Alba sul Gunung Batur",
         testo: "Un trekking notturno che porta in cima al vulcano, 1.717 metri, per l'alba sulla caldera e sul lago Batur. La salita è di qualche ora e non è tecnica.",
-        come: "Con una guida locale, partendo da Toya Bungkah o dai villaggi vicini nel cuore della notte.",
+        come: "Con una guida locale, in pratica obbligatoria, partendo da Toya Bungkah o dai villaggi vicini; molte agenzie passano a prendere in hotel tra le 2 e le 3 di notte.",
         quando: "Partenza nel cuore della notte per essere in cima all'alba.",
-        tempo: "mezza giornata",
-        consiglio: "Portare una giacca: in cima fa freddo."
+        tempo: "Mezza giornata",
+        costo: "Permesso circa 100.000 IDR a persona, circa 5,5 €, più la guida.",
+        lat: -8.242,
+        lng: 115.375,
+        consiglio: "Portare una giacca: in cima fa freddo.",
+      },
+      {
+        nome: "Tirta Empul",
+        testo: "Il tempio delle sorgenti sacre, fondato nel X secolo, dove i balinesi fanno il bagno di purificazione sotto le fontane di pietra. Si può entrare nelle vasche con il sarong, seguendo la fila dei fedeli.",
+        come: "Circa 30-40 minuti d'auto a nord di Ubud, verso Tampaksiring. Si abbina a Tegalalang.",
+        quando: "All'apertura, prima dei gruppi; nei giorni di cerimonia le vasche possono essere riservate ai fedeli.",
+        tempo: "1-1,5 ore",
+        costo: "Circa 75.000 IDR per gli adulti stranieri, circa 4 € (2026); sarong in prestito o a noleggio.",
+        orari: "Tutti i giorni, circa 8-18.",
+        lat: -8.4155,
+        lng: 115.3153,
+        consiglio: "Chi entra in acqua salta le fontane riservate ai riti per i defunti: lo indicano i fedeli e i custodi.",
+      },
+      {
+        nome: "Pura Besakih",
+        testo: "Il «tempio madre» di Bali, sulle pendici del Gunung Agung a circa mille metri: un complesso di oltre venti templi su terrazze, il più importante dell'isola. Nei giorni di festa è pieno di processioni.",
+        come: "Circa un'ora e mezza d'auto da Ubud. Si entra con la guida del tempio, che si prende all'ingresso: le guide che si offrono lungo la strada vanno ignorate.",
+        quando: "Al mattino, quando l'Agung è libero dalle nuvole.",
+        tempo: "2 ore",
+        lat: -8.3739,
+        lng: 115.4517,
+      },
+      {
+        nome: "Pura Lempuyang",
+        testo: "Il tempio all'estremità orientale dell'isola, famoso per la porta spaccata che inquadra il Gunung Agung, la «porta del paradiso». La foto si fa a turni e la coda può durare ore; i templi più in alto, su una scalinata lunga, sono quasi deserti.",
+        come: "Circa 2 ore d'auto da Ubud. Le auto private si lasciano al terminal, poi una navetta obbligatoria porta all'ingresso.",
+        quando: "All'alba, quando la coda è più corta e l'Agung si vede meglio.",
+        tempo: "Mezza giornata con il viaggio",
+        costo: "Circa 100.000 IDR più 50.000 per la navetta andata e ritorno, circa 8 € in tutto (2026), solo in contanti; sarong compreso.",
+        lat: -8.3915,
+        lng: 115.6305,
+        consiglio: "Il riflesso «a specchio» delle foto è un trucco del fotografo con un vetro: non c'è nessun lago.",
+      },
+      {
+        nome: "Tirta Gangga",
+        testo: "Il giardino d'acqua dell'ultimo re di Karangasem, con vasche, fontane e pesci koi: si cammina sulle pietre che attraversano l'acqua. È la sosta naturale dopo Lempuyang.",
+        come: "In auto, una ventina di minuti da Lempuyang.",
+        quando: "Nella tarda mattinata, al ritorno da Lempuyang.",
+        tempo: "1 ora",
+        costo: "Piccolo biglietto d'ingresso.",
+        lat: -8.412,
+        lng: 115.587,
+      },
+      {
+        nome: "Sidemen",
+        testo: "Una valle di terrazze di riso ai piedi del Gunung Agung, meno turistica di Tegalalang, con villaggi di tessitori di songket. Non c'è un monumento da spuntare: si cammina tra i campi e ci si ferma in un warung con vista sul vulcano.",
+        come: "Da Ubud circa 1h15-1h30 di strada, in scooter o con driver (andata e ritorno circa 350.000 IDR, circa 20 €).",
+        quando: "Al mattino presto o nel tardo pomeriggio.",
+        tempo: "Mezza giornata, o una notte",
+        lat: -8.48,
+        lng: 115.44,
+        consiglio: "Per camminare tra le risaie conviene una guida del villaggio per un paio d'ore: i sentieri non sono segnalati e passano su proprietà private.",
+      },
+      {
+        nome: "Kerta Gosa a Klungkung",
+        testo: "Il padiglione di giustizia del vecchio regno di Klungkung, con i soffitti dipinti nello stile di Kamasan: pene dell'inferno e premi del paradiso, a fumetti. Accanto c'è il padiglione galleggiante e un piccolo museo.",
+        come: "Sulla strada tra Ubud e Sidemen o Padang Bai, una fermata facile con il driver.",
+        quando: "Di giorno, durante uno spostamento verso est.",
+        tempo: "45 minuti",
+        costo: "Biglietto d'ingresso modesto.",
+        lat: -8.5355,
+        lng: 115.4039,
+      },
+      {
+        nome: "Risaie di Jatiluwih",
+        testo: "Le terrazze più estese di Bali, patrimonio UNESCO per il subak, il sistema di irrigazione condiviso gestito dai templi dell'acqua. Si camminano su sentieri segnati di diverse lunghezze, con il monte Batukaru sullo sfondo.",
+        come: "Circa 1,5-2 ore d'auto da Ubud; si abbina a Ulun Danu Beratan.",
+        quando: "Al mattino, prima del caldo; prima del raccolto le terrazze sono verdi.",
+        tempo: "2-3 ore",
+        costo: "Circa 75.000 IDR per gli stranieri, circa 4 €.",
+        lat: -8.37,
+        lng: 115.131,
+      },
+      {
+        nome: "Ulun Danu Beratan",
+        testo: "Il tempio dedicato alla dea delle acque sul lago Beratan, a circa 1.200 metri, con i tetti a più piani che sembrano galleggiare. In quota fa fresco e la mattina c'è spesso la nebbia.",
+        come: "In auto, nella zona di Bedugul, sulla strada tra il sud e Munduk o Lovina.",
+        quando: "Al mattino presto, quando il lago è calmo.",
+        tempo: "1 ora",
+        costo: "Circa 100.000 IDR per gli stranieri dal luglio 2026, circa 5,5 €, in contanti o con carta.",
+        lat: -8.2752,
+        lng: 115.1668,
+      },
+      {
+        nome: "Palazzo reale e tempio Saraswati di Ubud",
+        testo: "Nel centro di Ubud il Puri Saren, il palazzo della famiglia reale, e poco più in là il tempio Saraswati con lo stagno di fior di loto. La sera, nei cortili, ci sono spettacoli di danza balinese quasi ogni giorno.",
+        come: "A piedi, sulla strada principale di Ubud.",
+        quando: "Di giorno per i cortili, la sera per le danze.",
+        tempo: "1 ora, più lo spettacolo",
+        costo: "Ingresso libero di giorno; biglietti per le danze serali in vendita all'ingresso nel pomeriggio.",
+        lat: -8.5069,
+        lng: 115.2625,
+      },
+      {
+        nome: "Campuhan Ridge Walk",
+        testo: "Un sentiero lastricato di circa due chilometri sulla cresta tra due valli fluviali, appena fuori Ubud, tra erba alta e palme. Alla fine ci sono caffè e risaie.",
+        come: "A piedi dal centro di Ubud; si parte dietro il tempio Gunung Lebah.",
+        quando: "All'alba o al tramonto: a metà giorno non c'è ombra.",
+        tempo: "1-1,5 ore",
+        costo: "Gratuito.",
+        lat: -8.503,
+        lng: 115.254,
+      },
+      {
+        nome: "Spiagge di Uluwatu",
+        testo: "Sulla penisola del Bukit le spiagge sono piccole calette sotto le falesie: Padang Padang, Bingin, Suluban, ognuna con la sua scalinata. Sono le onde da surf più famose di Bali.",
+        come: "In scooter o con driver; si scende a piedi per scale ripide.",
+        quando: "Con la bassa marea, quando c'è più sabbia; il tramonto dai warung di Bingin.",
+        tempo: "Mezza giornata",
+        costo: "Padang Padang circa 15.000 IDR per gli stranieri, in contanti.",
+        lat: -8.811,
+        lng: 115.103,
       },
       {
         nome: "Nusa Penida: Kelingking Beach",
@@ -461,49 +590,62 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Con barca veloce da Sanur o Padang Bai, poi auto o scooter sull'isola.",
         quando: "Sulla prima barca del mattino, per evitare la coda sul sentiero ripido.",
         tempo: "1 giorno",
-        consiglio: "Dormire una notte a Nusa Penida evita la traversata doppia in giornata."
-      }
+        lat: -8.7505,
+        lng: 115.4746,
+        consiglio: "Dormire una notte a Nusa Penida evita la traversata doppia in giornata.",
+      },
     ],
     programmi: [
       {
         titolo: "3 giorni",
         tappe: [
-          "Giorno 1: Ubud, Monkey Forest e risaie di Tegalalang",
-          "Giorno 2: alba sul Batur, pomeriggio libero",
-          "Giorno 3: Uluwatu al tramonto con la danza Kecak"
-        ]
+          "Giorno 1: Ubud, palazzo reale e Monkey Forest, Campuhan Ridge Walk al tramonto",
+          "Giorno 2: alba sul Batur, al ritorno Tirta Empul e le risaie di Tegalalang",
+          "Giorno 3: Uluwatu, spiagge con la bassa marea e danza Kecak al tramonto",
+        ],
+      },
+      {
+        titolo: "5 giorni",
+        tappe: [
+          "Giorni 1-2: come sopra",
+          "Giorno 3: est di Bali, Lempuyang all'alba, Tirta Gangga, Kerta Gosa e la valle di Sidemen",
+          "Giorno 4: Jatiluwih e Ulun Danu Beratan, Tanah Lot al tramonto",
+          "Giorno 5: Uluwatu, spiagge e danza Kecak",
+        ],
       },
       {
         titolo: "7 giorni",
         tappe: [
-          "Giorni 1-3 come sopra",
-          "Giorno 4: Tanah Lot al tramonto",
-          "Giorno 5-6: Nusa Penida, con notte sull'isola",
-          "Giorno 7: rientro e riposo"
-        ]
-      }
+          "Giorni 1-5: come sopra",
+          "Giorni 6-7: Nusa Penida sulla prima barca da Sanur, Kelingking prima della folla, notte sull'isola e rientro",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Ubud",
         perChi: "chi cerca cultura e risaie",
-        testo: "Cuore culturale, con guesthouse tra i campi. Molto turistico di giorno."
+        testo: "Cuore culturale, con guesthouse tra i campi. Molto turistico di giorno.",
+        fascia: "35-150 €",
       },
       {
         nome: "Canggu",
         perChi: "chi cerca surf e vita serale",
-        testo: "Locali, caffè e spiagge nere. Traffico pesante e cemento."
+        testo: "Locali, caffè e spiagge nere. Traffico pesante e cemento.",
+        fascia: "50-180 €",
       },
       {
         nome: "Uluwatu",
         perChi: "chi cerca scogliere e calma relativa",
-        testo: "Spiagge sotto le falesie e tramonti. Più tranquillo ma lontano da tutto."
+        testo: "Spiagge sotto le falesie e tramonti. Più tranquillo ma lontano da tutto.",
+        fascia: "60-250 €",
       },
       {
         nome: "Sanur o Nusa Dua",
         perChi: "famiglie",
-        testo: "Ritmo più tranquillo e mare riparato."
-      }
+        testo: "Ritmo più tranquillo e mare riparato. Da Sanur partono le barche per le Nusa.",
+        fascia: "50-250 €",
+      },
     ],
     sapori: [
       {
@@ -529,6 +671,52 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Cambiavalute e cocktail: usare cambi ufficiali e bere in locali affidabili. Il metanolo nei drink è un rischio segnalato dalle autorità.",
       "Nusa Penida: prenotare la barca in anticipo in alta stagione e partire presto.",
       "All'arrivo si paga la tassa turistica di Bali, 150.000 IDR a persona dal 2024: conviene pagarla online sul sito ufficiale Love Bali (lovebali.baliprov.go.id).",
+    ],
+    gite: [
+      {
+        nome: "Nusa Lembongan e Nusa Ceningan",
+        distanza: "circa 30 minuti di barca veloce da Sanur",
+        come: "Barca veloce da Sanur, più corse al giorno, da prenotare il giorno prima; sull'isola scooter o pick-up con autista.",
+        testo: "Più tranquille di Penida: mangrovie da girare in barca, il ponte giallo verso Ceningan, la Blue Lagoon e uscite di snorkeling. Si fanno in giornata, ma una notte rende tutto più calmo.",
+      },
+      {
+        nome: "Isole Gili",
+        distanza: "1,5-2 ore di barca veloce da Padang Bai",
+        come: "Barca veloce da Padang Bai (circa 350.000-475.000 IDR a tratta), più cara da Sanur; comprare dalla compagnia, non dai venditori al porto.",
+        testo: "Tre isolotti senza auto davanti a Lombok: Trawangan festaiola, Air a metà, Meno silenziosa, con le tartarughe a pochi metri dalla riva. In giornata non ha senso: servono almeno due notti.",
+      },
+      {
+        nome: "Isola di Menjangan",
+        distanza: "circa 3-4 ore d'auto dal sud, poi 30-40 minuti di barca",
+        come: "In auto fino al molo di Labuan Lalang, nel parco nazionale di Bali Barat, poi barca con guida.",
+        testo: "Il miglior snorkeling di Bali: pareti di corallo che scendono a picco in acqua limpida, nel parco nazionale dell'ovest. Si combina con una notte a Pemuteran o Munduk.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Bali?",
+        risposta: "Da 7 a 10 giorni per Ubud, il sud e almeno una delle isole vicine. Con meno di cinque si sceglie: Ubud e Uluwatu, rinunciando all'est.",
+      },
+      {
+        domanda: "Dove conviene dormire a Bali?",
+        risposta: "In due basi: Ubud per le risaie e i templi dell'interno, Uluwatu o Sanur per il mare. Cambiare base evita ore di traffico ogni giorno.",
+      },
+      {
+        domanda: "Cosa serve per entrare a Bali?",
+        risposta: "Passaporto con sei mesi di validità, e-VOA online (circa 500.000 IDR, circa 35 €), la All Indonesia Arrival Card e la tassa turistica Love Bali di 150.000 IDR, da pagare online su lovebali.baliprov.go.id.",
+      },
+      {
+        domanda: "Meglio scooter o autista a Bali?",
+        risposta: "Lo scooter costa 60.000-100.000 IDR al giorno, ma serve la patente internazionale e un'esperienza vera nel traffico. Il driver costa 300.000-600.000 IDR a tratta e per le gite lunghe è la scelta più sensata.",
+      },
+      {
+        domanda: "Qual è il periodo migliore per Bali?",
+        risposta: "Da aprile a ottobre, nella stagione secca. A marzo, nel giorno di Nyepi, l'isola si ferma per 24 ore e chiude anche l'aeroporto.",
+      },
+      {
+        domanda: "Nusa Penida si può fare in giornata?",
+        risposta: "Sì, ma è faticoso: due traversate e strade lente. Meglio dormire una notte sull'isola ed essere a Kelingking con la prima barca del mattino.",
+      },
     ],
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'bali-nusa-komodo', 'bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],

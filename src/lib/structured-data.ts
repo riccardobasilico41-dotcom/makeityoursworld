@@ -64,11 +64,14 @@ export function articoloViaggioJsonLd(
     descrizione,
     percorso,
     sezioni,
+    aggiornato,
   }: {
     titolo: string
     descrizione: string
     percorso: string
     sezioni: string[]
+    /** Data dell'ultima modifica, AAAA-MM-GG. */
+    aggiornato?: string
   },
   lingua: Lingua,
 ) {
@@ -88,6 +91,7 @@ export function articoloViaggioJsonLd(
       url: siteConfig.url,
     },
     articleSection: sezioni,
+    ...(aggiornato ? { dateModified: aggiornato } : {}),
   }
 }
 
