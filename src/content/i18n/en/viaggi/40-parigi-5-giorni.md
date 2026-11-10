@@ -17,6 +17,7 @@ Paris is the city where the plan goes wrong most often, for a specific reason: t
 - **Transport:** metro with a simplified single fare since 2025 (**amounts change: check them before leaving**); from Orly, metro line 14 is now the easiest way to get to the center.
 - **Where to stay:** Marais, Latin Quarter, Canal Saint-Martin/République for the best value for location.
 - **Food:** the midday menu is always better value than the evening one; coffee at the counter costs half as much as at a table.
+- **From the airport to the centre:** from **Charles de Gaulle (CDG)** the RER B reaches Gare du Nord and Châtelet in about 30-40 minutes, from about 5:00 to midnight, with the €14 Paris Région-Aéroports ticket (only on Navigo Easy or the app, no paper); the Roissybus no longer exists since 1 March 2026 · flat-rate taxis to Paris: €56 to the Right Bank, €65 to the Left Bank · from **Orly (ORY)** metro line 14 reaches Châtelet in about 25 minutes with the same €14 ticket; flat-rate taxi about €36-44 · Uber, Bolt and G7 work · avoid the fake taxis touting in the arrivals hall.
 
 ## Itinerario giorno per giorno
 

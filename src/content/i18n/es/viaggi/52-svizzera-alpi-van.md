@@ -15,6 +15,7 @@ Dicho esto, la región de Interlaken-Jungfrau, en los Alpes Berneses, sigue sien
 
 ## Scheda pratica
 - **Cuándo ir:** De junio a septiembre, con julio-agosto como ventana más fiable para los puertos alpinos
+- **Del aeropuerto al centro:** quien no llega en furgoneta desde Italia aterriza normalmente en Zúrich (ZRH), donde también se alquilan autocaravanas · tren SBB desde la estación bajo la terminal hasta Interlaken Ost, unas 2 horas con cambio en Berna, cada media hora, billete completo en segunda clase unos 75-80 CHF, menos con los Supersaver de la app SBB · desde Ginebra (GVA) el tren a Interlaken tarda unas 3 horas, y en la recogida de equipajes se coge gratis un billete para el transporte público de Ginebra válido 80 minutos · el taxi cuesta muchísimo y no hace falta · el error más común es comprar el billete en el último momento a precio completo.
 
 ### Cuánto cuesta de verdad: la parte que hay que leer primero
 Suiza no está en la Unión Europea y no ha adoptado el euro: se paga en francos suizos, y el cambio con el euro es históricamente desfavorable, lo que infla cada precio expresado en euros. Los conceptos que más pesan en un viaje en furgoneta:

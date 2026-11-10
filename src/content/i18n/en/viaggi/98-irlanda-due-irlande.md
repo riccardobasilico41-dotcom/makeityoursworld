@@ -24,6 +24,7 @@ There is also a long section on the two Irelands: why the island is divided, wha
 - **Sockets:** type G with three pins, the same in both Irelands. You need an adapter.
 - **Health:** the EHIC is valid in the Republic and, for treatment that cannot wait, in Northern Ireland too. Travel insurance is still recommended.
 - **Book ahead:** Kilmainham Gaol in Dublin (entry by guided tour only), the Book of Kells ticket, the Giant's Causeway car park and Titanic Belfast.
+- **From the airport to the centre:** from **Dublin (DUB)** the Aircoach (running 24 hours a day) and Dublin Express coaches reach O'Connell Street and the surrounding area in about 30 minutes without traffic, about €8-10 one way, ticket online, from the machines or by card on board · city buses 16 and 41 cost about €2-2.60 but take 40-60 minutes · metered taxis from the official rank, about €30-45 depending on the time; apps like Uber and FreeNow call regular taxis at the same fare · the typical mistake is picking up the rental car as soon as you land: you don't need it for the Dublin days.
 
 ## Itinerario giorno per giorno
 
@@ -39,7 +40,7 @@ Early in the morning, **Trinity College** and the **Book of Kells**, an illumina
 
 In the afternoon, **Kilmainham Gaol**, the prison opened in 1796 where the leaders of the 1916 Easter Rising were also held. Entry is by guided tour only, booked in advance. The gaol lies west of the centre, about half an hour's walk from Trinity or a few minutes by bus or taxi. The tour goes from the cells to the yard where the 1916 leaders were executed, and it helps make sense of the rest of the trip, including the part about the north.
 
-**In practice:** Book of Kells timed tickets online, price varies by day and season (check visittrinity.ie) · Kilmainham Gaol about €8, guided tour only, tickets only on the official site or heritageireland.ie, closed 24-27 December · Kilmainham tickets sell out fast in summer: book well ahead.
+**In practice:** Book of Kells timed tickets online, price varies by day and season, from about €25 (visittrinity.ie) · Kilmainham Gaol about €8, guided tour only, tickets only on the official site or heritageireland.ie, closed 24-27 December · Kilmainham tickets sell out fast in summer: book well ahead.
 
 ### Day 3 — Glendalough and Kilkenny
 You pick up the car and leave the city heading south into the **Wicklow Mountains**. It's best to collect it early in the morning, at the airport or at an office outside the centre, so your first kilometres on the left are away from traffic. At **Glendalough**, just over an hour from Dublin, are the ruins of the monastery founded by Saint Kevin in the 6th century, with its round tower, and an easy path to the **Upper Lake**. *The Upper Lake car park fills up early on summer weekends: arrive by 10 and you'll find a space.*
@@ -67,7 +68,7 @@ The **Ring of Kerry** is a 179 km loop around the Iveragh Peninsula, from Killar
 
 The best-known stops are **Ladies View**, **Moll's Gap** and, in Killarney National Park, **Muckross House** and **Torc** waterfall. Going clockwise, leave them for the end of the loop, when you head back to Killarney on the Kenmare road: Torc waterfall is a few minutes' walk from its car park, and the Muckross gardens can be visited without a ticket. Along the coast, Waterville and the area around Cahersiveen are the handiest places for lunch.
 
-**In practice:** 179 km loop, about 4 hours of pure driving, a full day with stops · Muckross House paid tour of the house (check the price on muckross-house.ie), gardens and park free · fill up in Killarney before setting off · narrow roads: in practice coaches always have right of way.
+**In practice:** 179 km loop, about 4 hours of pure driving, a full day with stops · Muckross House tour of the house about €7.50 (muckross-house.ie), gardens and park free · fill up in Killarney before setting off · narrow roads: in practice coaches always have right of way.
 
 ### Day 7 — Dingle Peninsula and the Slea Head Drive
 From Killarney to **Dingle**, about an hour's drive, and then onto the **Slea Head Drive**, the coastal loop at the tip of the peninsula: Ventry beach, a prehistoric fort, the beehive-shaped stone huts, the view of the **Blasket Islands** and the **Gallarus Oratory**, a small dry-stone church. The loop is about 50 km, but with stops and narrow roads it takes half a day. *As on the Ring of Kerry, you drive it clockwise, which here is the direction the signs show.*

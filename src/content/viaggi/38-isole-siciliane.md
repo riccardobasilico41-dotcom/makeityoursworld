@@ -34,6 +34,7 @@ E quindi l'itinerario che segue è onesto su una cosa: **c'è una giornata quasi
   - **Pantelleria:** cucina di terra e di orto, non di mare. **Ravioli amari** con ricotta e menta, **insalata pantesca** (patate, pomodoro, capperi, origano, cipolla), **pesto pantesco** crudo, i **capperi** e il **Passito**.
   - **Lampedusa:** pesce del Canale di Sicilia, **gambero rosso**, cernie e ricciole, con una cucina che guarda a sud.
 - **I vini:** **Passito di Pantelleria** dallo **Zibibbo**, dolce e ambrato; il **Moscato di Pantelleria**; e sulle Egadi i bianchi trapanesi, **Grillo** e **Catarratto**.
+- **Dall'aeroporto al centro:** a **Trapani Birgi (TPS)** il bus AST porta in città e al porto degli aliscafi in circa 40 minuti, con biglietto a bordo; il taxi ha una tariffa fissa di circa 35 € · da **Palermo (PMO)** il bus **Prestia e Comandè** arriva alla stazione centrale in circa 50 minuti, circa 6 € (6,50 € a bordo), ogni mezz'ora; il treno per Palermo Centrale impiega più o meno lo stesso tempo; il taxi costa circa 45-50 € · **Pantelleria (PNL)** e **Lampedusa (LMP)** hanno l'aeroporto a pochi minuti dal paese: si esce e si ritira il mezzo prenotato, senza bisogno di transfer.
 
 ## Itinerario giorno per giorno
 

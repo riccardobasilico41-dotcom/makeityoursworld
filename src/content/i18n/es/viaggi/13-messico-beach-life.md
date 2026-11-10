@@ -23,6 +23,7 @@ Si tengo que elegir un solo momento para abrir este relato, elijo el tiburón ba
 - **Salud:** kit de viaje básico, un antidiarreico y un protector gástrico para la clásica «Traveller's belly», repelente de mosquitos de fórmula «jungle», sobre todo para la bioluminiscencia nocturna en Punta Mosquito.
 - **Propinas:** se aconseja el 10-15 % en el restaurante y en las actividades en el mar (snorkel, tours en barca).
 - **Presupuesto de actividades extra:** varias experiencias (Temazcal, tour en barca por Bacalar, snorkel, excursión al tiburón ballena, tour de las 3 Islas) se pagan directamente allí; en la taquilla de los sitios principales (por ejemplo Chichén Itzá y el cenote Ik Kil) a menudo se paga con tarjeta/Revolut.
+- **Del aeropuerto al centro:** desde **Cancún (CUN)** el autobús ADO lleva a la terminal del Downtown en unos 30-40 minutos (unos 140 MXN) y va también a Playa del Carmen y Tulum; billetes en el mostrador de ADO de llegadas, con tarjeta, o en ado.com.mx, salidas hasta bien entrada la noche · taxis y vans oficiales con tarifa fija, unos 30-35 dólares al Downtown y más a la Zona Hotelera · Uber en el aeropuerto choca con los taxistas y no hay que darlo por hecho · a la salida, en el pasillo de vendedores, quien ofrece «transfer» a menudo vende tiempo compartido: se sigue de largo · el cambio en el aeropuerto es desfavorable, mejor un cajero de banco.
 
 ## Itinerario giorno per giorno
 

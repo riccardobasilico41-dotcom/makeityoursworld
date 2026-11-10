@@ -45,7 +45,7 @@ Prices for foreign tourists have gone up several times since 2024 and change wit
 - **Temple of Hatshepsut:** 440 EGP; **Medinet Habu** 220 EGP; **temple of Edfu** 550 EGP.
 
 ### Getting around
-- **Cairo airport to the center:** Uber or Careem from the departures parking lot, 30-60 minutes and roughly 300-500 EGP to Giza. Taxis only at an agreed price or booked by the hotel.
+- **From the airport to the centre:** from **Cairo (CAI)** Uber or Careem from the departures parking lot, 30-60 minutes (up to 90 at rush hour) and roughly 200-400 EGP to the center, 300-500 EGP to Giza; the metro does not reach the terminals · shuttles and public buses to the center, slow (60-90 minutes) and awkward with luggage · taxis only at a price agreed before getting in or booked through the hotel; ignore anyone offering rides inside the terminal · at **Luxor (LXR)** the center is 15-20 minutes away by taxi, price to agree first · **Marsa Alam (RMF)** is about 60 km from the town and **Hurghada (HRG)** 15-30 minutes from the hotels: almost everyone uses the hotel transfer.
 - **Cairo-Luxor:** one-hour EgyptAir flight, roughly €60-120 if booked in time. Alternatively the overnight sleeper train by Abela Trains (abelatrains.com), from Cairo Upper Egypt (Bashtil) or Giza stations: about 10-11 hours, $110-125 per person in a shared double cabin, $150-170 alone, dinner and breakfast included.
 - **Luxor-Marsa Alam:** car with a private driver, 4-4.5 hours, roughly $100-150 per vehicle; for Hurghada 4 hours and $70-120. There are also Go Bus buses to Hurghada, cheaper but less flexible.
 - **Within Luxor:** on foot and by Uber on the east bank, car with a driver for the day on the west bank ($25-40).

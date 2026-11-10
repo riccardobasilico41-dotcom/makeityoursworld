@@ -25,6 +25,7 @@ I do Bali away from the south. I sleep inland, in Munduk and Ubud, and only head
 - **Health:** no vaccinations required. Hepatitis A and B and typhoid are recommended, to be discussed with a travel doctor. Always drink bottled water.
 - **Electricity:** 230V, type C and F sockets: Italian plugs fit.
 - **Nyepi:** the Balinese New Year (March, date varies) shuts the island down for 24 hours and closes the airport. If it falls on your dates, the Bali block has to be moved.
+- **From the airport to the centre:** you land at **Jakarta Soekarno-Hatta (CGK)** and connect to the domestic flight: the free Skytrain links the terminals, but with immigration you need a generous margin. **Yogyakarta (YIA)** is on the coast, about 45 km from the city: **KA Bandara train** to Tugu station, about 40 minutes, about IDR 20,000 (about 50,000 for the faster YIA Xpress), ticket at the station or in the Access by KAI app; **DAMRI** bus about IDR 80,000; Grab, Gojek or taxi about IDR 250,000-350,000, over an hour. **Bali (DPS)**, where the trip ends: fixed-price taxi from the official desk, about IDR 150,000-250,000 to Kuta and 300,000-450,000 to Ubud; Grab and Gojek cost less, but only from the pickup point shown in the app · ignore drivers touting at the exit.
 
 ## Itinerario giorno per giorno
 

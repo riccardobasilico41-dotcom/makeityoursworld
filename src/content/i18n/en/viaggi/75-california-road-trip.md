@@ -46,6 +46,7 @@ It suits people who gladly drive for many hours, couples, friends and families w
 - **Snow chains:** in the Sierra Nevada, from October to April, they may be mandatory; many contracts forbid their use, so on snow days it's better not to go up.
 - **Fuel:** roughly $4.80-5.80 a gallon (3.8 liters), more expensive inside the parks and along Big Sur. Fill up before Death Valley and before Big Sur.
 - **Driving:** obey speed limits, and there are checks; a right turn on red is allowed after stopping unless a sign says otherwise, and you don't pass stopped school buses.
+- **From the airport to the centre:** **San Francisco (SFO)**. · **BART** from the International Terminal station to Powell Street or Embarcadero: about $11, about 30 minutes, with a Clipper card (also on your phone), last train around midnight · **Uber/Lyft**: about $40-60 to Union Square, from the pickup point shown in the app · metered **taxi**: about $55-70 · rental cars are collected at the Rental Car Center, reached on the free AirTrain · the mistake to avoid is leaving luggage in sight in a car parked in the city: break-ins through car windows are common in San Francisco.
 
 ### Budget: the items that surprise
 - **Taxes and tips:** about 7-10% sales tax is added to prices and, at restaurants, an 18-20% tip. In hotels, often a lodging tax or a "resort fee" per night.

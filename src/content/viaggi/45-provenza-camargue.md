@@ -16,6 +16,7 @@ Provenza, Camargue e Occitania sono tre paesaggi mediterranei diversi messi in u
 - **Lavanda**: la finestra è stretta e cambia da altopiano ad altopiano, conviene controllare lo stato pochi giorni prima.
 - **Calanques**: d'estate l'accesso cambia giorno per giorno per il rischio incendi, va controllato sempre.
 - **Vignetta Crit'Air** per Marsiglia e Aix.
+- **Dall'aeroporto al centro:** l'aeroporto più usato è **Marsiglia Provenza (MRS)**. · **Navetta A1** (ex linea 91) per la stazione Saint-Charles: circa 15 € con le tariffe 2026, 25-50 minuti, ogni 10-20 minuti dalle 4 circa a tarda sera, biglietto alle macchinette o online · **treno**: navetta gratuita fino alla stazione Vitrolles Aéroport Marseille Provence, poi TER per Saint-Charles in circa 15-20 minuti oppure per Avignone, dove comincia l'itinerario, in circa un'ora · **taxi** col tassametro: circa 60 € di giorno e 70 € di notte per Marsiglia · l'auto a noleggio conviene ritirarla in aeroporto, evitando di entrare in città.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Avignone

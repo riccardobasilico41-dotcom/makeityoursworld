@@ -22,6 +22,7 @@ Bolivia comes in steps: you land at over four thousand meters before you've even
 - **Electricity:** 220V (110V in some areas), type A and C plugs: Italian two-pin plugs almost always fit.
 - **Time zone:** UTC-4 all year, 6 hours behind Italy during daylight saving time, 5 in winter.
 - **Holidays:** the Oruro Carnival, in February, is a UNESCO heritage event and the most spectacular festival in the country; it falls outside the window of this itinerary, designed for the dry season.
+- **From the airport to the centre:** from **El Alto (LPB)** to La Paz takes 30-45 minutes, longer with traffic or roadblocks · airport taxi about 70-120 BOB, price to be agreed before getting in because there's no meter; the hotel transfer is more relaxing · shared minibuses about 5 BOB, awkward with luggage and with the altitude · InDrive works and is often cheaper · avoid unmarked cars and anyone offering to change money away from the desks · for domestic flights: **Sucre (SRE)** airport is about 30 km from town, a good half hour by taxi; at **Rurrenabaque (RBQ)** the town is a few minutes away by taxi or motorbike taxi.
 
 ## Itinerario giorno per giorno
 

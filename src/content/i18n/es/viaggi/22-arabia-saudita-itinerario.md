@@ -25,6 +25,7 @@ Hasta 2019 este viaje no se podía hacer: el visado turístico no existía, y se
 - **Seguridad:** delincuencia común muy baja, viaje tranquilo. Hay que consultar los avisos oficiales sobre las **zonas fronterizas con Yemen**, desaconsejadas, lo cual afecta al sur del Asir.
 - **Ramadán:** aquí se vive de forma más estricta que en otros lugares del Golfo. Casi todo cierra de día, **comer y beber en público a la luz del sol está prohibido para todos**, no musulmanes incluidos, y la vida se traslada toda a la noche.
 - **Presupuesto:** más alto de lo que uno espera. AlUla tiene pocos alojamientos y precios altos, Riad y Yeda tienen hoteles de capital, y los vuelos internos se suman. En cambio, la partida de alcohol no existe, la gasolina no cuesta nada y la comida de barrio es barata.
+- **Del aeropuerto al centro:** en Yeda King Abdulaziz (JED) lo más práctico es Uber o Careem, unos 50-100 SAR y 30-50 minutos hasta Al-Balad o la Corniche; los taxis oficiales de la parada cuestan unos 100-150 SAR; el tren Haramain sale de la Terminal 1 hacia la estación Al Sulaymaniyah (unos 20 minutos, unos 40-70 SAR en turista), pero queda lejos del casco antiguo · en Riad King Khalid (RUH) la línea 4 amarilla del metro va a la ciudad por unos 4 SAR con la app Darb o la tarjeta; Uber y Careem unos 60-100 SAR · en Abha (AHB) el coche se recoge en el aeropuerto · hay que evitar a los conductores sin licencia que se ofrecen en llegadas.
 
 ## Itinerario giorno per giorno
 

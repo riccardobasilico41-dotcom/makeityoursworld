@@ -22,6 +22,7 @@ El hilo conductor, además de la costa atlántica, es la comida: el pintxo vasco
 - **Santiago, la Compostela:** para obtener el certificado oficial de peregrinación hay que haber recorrido a pie al menos los últimos 100 km (200 en bici), con las credenciales selladas a lo largo del recorrido.
 - **Coche:** imprescindible para este itinerario, que sigue la costa durante cientos de km tocando pueblos pequeños y mal conectados por el transporte público.
 - **Electricidad y moneda:** euro, enchufes de tipo C/F idénticos a los de Italia.
+- **Del aeropuerto al centro:** a la ida se suele aterrizar en **Bilbao (BIO)**: el autobús directo de Pesa a San Sebastián tarda aproximadamente 1h15 y cuesta unos 14-17 €, salidas cada hora aproximadamente, billete en la máquina u online; el Bizkaibus A3247 lleva al centro de Bilbao en unos 20 minutos, unos 5 € (menos con la tarjeta Barik); el taxi a San Sebastián cuesta unos 170-190 € · más cerca de San Sebastián están los pequeños aeropuertos de **Hondarribia (EAS)** y **Biarritz (BIQ)** · a la vuelta desde **Santiago (SCQ)** el autobús a la Praza de Galicia y la estación tarda unos 20 minutos, alrededor de 1 €, el taxi unos 22 € · el error típico es el alquiler solo de ida Bilbao-Santiago sin haber comprobado el suplemento de devolución.
 
 ## Itinerario giorno per giorno
 

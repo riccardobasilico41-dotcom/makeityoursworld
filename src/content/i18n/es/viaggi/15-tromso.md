@@ -18,6 +18,7 @@ De este viaje me quedaron sobre todo flashes más que un diario minuto a minuto:
 - **Cómo me moví:** vuelo directo o con escala a Tromsø, luego todo a pie por el centro y con minibús/autocar organizados para las excursiones fuera de la ciudad.
 - **Clima:** frío intenso, viento en el paseo marítimo, poca luz diurna en pleno invierno.
 - **Base logística:** una única base en el centro de la ciudad, zona Storgata/puerto, cómoda a pie para todo y punto de encuentro de casi todas las excursiones organizadas.
+- **Del aeropuerto al centro:** el aeropuerto de **Tromsø-Langnes (TOS)** está a unos 5 km del centro. · **Flybussen**: unos 125 NOK (200 ida y vuelta), billete en la app o a bordo con tarjeta, unos 15-20 minutos hasta Storgata y los hoteles principales, con salidas ligadas a las llegadas · **autobuses urbanos 40 y 42**: unos 48 NOK, más lentos, billete con la app Troms Billett o en la máquina de la parada · **taxi**: unos 250-350 NOK, unos diez minutos · el error típico es contar con el autobús urbano a última hora, cuando las salidas escasean: con los últimos vuelos conviene el Flybussen o el taxi.
 
 ## Itinerario giorno per giorno
 

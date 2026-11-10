@@ -27,6 +27,7 @@ After the jungle, the sea. The beaches of the Mentawai are beautiful, and Sipora
 - **Insurance:** mandatory for the stay with Mentawai Tribe, and it must cover evacuation. If the return ferry is canceled once the trip has started, the operator doesn't refund.
 - **Cash:** outside the cities of Sumatra cards are of little use. It's best to leave Padang with cash for the islands.
 - **Time zone:** Sumatra and the Mentawai are on WIB (UTC+7).
+- **From the airport to the centre:** you land at Minangkabau International (PDG), about 23 km north of Padang · the Minangkabau Ekspres train runs to Padang and to Pulau Air station, near the port for the Mentawai ferries, in about 40 minutes for about IDR 10,000, but with few runs a day: check the timetable in the KAI Access app · DAMRI bus to Padang, about IDR 25,000-30,000 · Grab and Gojek from the pick-up area, about IDR 100,000-150,000 to the centre · to Bukittinggi, a private car for about IDR 500,000 · avoid unlicensed drivers touting in arrivals: fix the price first.
 
 ## Itinerario giorno per giorno
 

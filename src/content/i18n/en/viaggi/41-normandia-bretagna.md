@@ -16,6 +16,7 @@ Normandy and Brittany are two different trips set one after the other: one histo
 - **A car is necessary** for almost the whole route, except for the main cities.
 - **Mont-Saint-Michel:** before leaving, check the calendar of the big tides; better to sleep in the bay than to see it as a day trip from afar.
 - **Rip currents** on the Atlantic beaches: a serious danger, not a formal warning.
+- **From the airport to the centre:** the trip starts in Rouen and the handiest airport is **Paris Charles de Gaulle (CDG)**, about 2 hours' drive away, where it makes sense to pick up the rental car · without a car: RER B to Gare du Nord in about 35 minutes, about €13 from the machines, metro to Saint-Lazare and train to Rouen in about 1h15-1h30, 2h30-3 hours in all · official flat-rate taxi to Paris about €56-65, only from the signed rank: anyone offering a ride inside the terminal is unlicensed · at the end of the trip **Rennes (RNS)**, a little over an hour from Vannes: bus C6 to the centre in about 25 minutes, about €2, or a taxi in about 15 minutes.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Rouen

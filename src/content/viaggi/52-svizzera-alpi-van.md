@@ -15,6 +15,7 @@ Detto questo, la regione dell'Interlaken-Jungfrau, nelle Alpi Bernesi, resta uno
 
 ## Scheda pratica
 - **Quando andare:** Da giugno a settembre, con luglio-agosto come finestra più affidabile per i passi alpini
+- **Dall'aeroporto al centro:** chi non arriva in van dall'Italia atterra di solito a Zurigo (ZRH), dove si noleggiano anche i camper · treno FFS dalla stazione sotto il terminal per Interlaken Ost, circa 2 ore con cambio a Berna, ogni mezz'ora, biglietto pieno in seconda classe circa 75-80 CHF, meno con i Supersaver dell'app FFS · da Ginevra (GVA) il treno per Interlaken impiega circa 3 ore, e al ritiro bagagli si prende gratis un biglietto per i mezzi pubblici di Ginevra valido 80 minuti · il taxi costa moltissimo e non serve · l'errore più comune è comprare il biglietto all'ultimo a prezzo pieno.
 
 ### Quanto costa davvero — la parte che va letta per prima
 La Svizzera non è nell'Unione Europea e non ha adottato l'euro: si paga in franchi svizzeri, e il cambio con l'euro è storicamente sfavorevole, il che gonfia ogni prezzo espresso in euro. Le voci che pesano di più su un viaggio in van:

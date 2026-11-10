@@ -16,6 +16,7 @@ Entre todas las rutas del vino francesas, este itinerario combina las dos más i
 - **Alsacia**: las bodegas suelen recibir sin cita previa, con catas gratuitas o casi.
 - **Champaña**: se aconseja cita para las grandes maisons, gratuita o de pago según la casa.
 - **Conductor designado o escupir en la cata**, siempre.
+- **Del aeropuerto al centro:** para Colmar el aeropuerto más cómodo es el **EuroAirport Basilea-Mulhouse (BSL/MLH)**: desde el sector francés el autobús 11 lleva a la estación de Saint-Louis en unos 10 minutos (unos 2,50 €, de las 5 a medianoche), luego tren TER directo a Colmar cada media hora, unos 40 minutos · desde **Estrasburgo (SXB)** el tren lanzadera llega a la estación central en 9 minutos, luego TER a Colmar en unos 30 · quien alquila coche lo recoge en el aeropuerto y está en Colmar en aproximadamente una hora · a la vuelta, desde la estación Champagne-Ardenne TGV, cerca de Reims, los TGV directos llegan a **París Charles de Gaulle (CDG)** en unos 40 minutos · en el EuroAirport se sale por el lado francés, no por el suizo.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Llegada a Colmar

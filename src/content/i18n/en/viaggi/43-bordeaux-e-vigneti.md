@@ -17,6 +17,7 @@ Bordeaux combines a city you can cover on foot with a territory you can't see wi
 - **Driving and wine don't go together:** a designated driver who doesn't taste, guided excursions, or spitting at tastings (it's the norm, not an insult).
 - **Appointment always mandatory** for the big châteaux.
 - **Crit'Air sticker** to enter the city.
+- **From the airport to the centre:** from **Bordeaux-Mérignac (BOD)** tram A reaches the centre in about 35-40 minutes, with a tram roughly every 10 minutes and a standard TBM ticket (about €2, from the stop machines or the app, to be validated on board) · the 30'Direct shuttle goes to Saint-Jean station via the centre in about 30 minutes (€9 online, €10 on board) · taxi and Uber about €40-60 depending on the time · the shuttle ticket isn't valid on the tram, and vice versa.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Bordeaux city

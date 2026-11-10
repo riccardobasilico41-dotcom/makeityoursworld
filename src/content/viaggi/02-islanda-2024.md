@@ -29,6 +29,7 @@ Alle due di notte, davanti al relitto dell'aereo di Sólheimasandur, c'era ancor
 - **Guida:** strade sterrate, impervie, spesso senza guardrail, con tratte anche di
   2-3 ore per volta (fino a 7h in un giorno). Meglio essere in due a saper
   guidare, per alternarsi nei tratti più lunghi.
+- **Dall'aeroporto al centro:** si atterra a **Keflavík (KEF)**, a circa 50 km da Reykjavík. **Flybus** fino al terminal BSÍ in circa 45 minuti, circa 4.000 ISK, con corse legate agli arrivi (online, al banco o a bordo; con Flybus+ si arriva agli hotel) · **Airport Direct**, fino al suo terminal o agli hotel, circa 5.000 ISK · **bus Strætó 55**, il più economico (circa 2.400 ISK, a bordo o con l'app), ma lento e con poche corse · **taxi** circa 20.000-25.000 ISK, niente Uber · chi noleggia l'auto la ritira direttamente in aeroporto, ed è la soluzione più comoda.
 
 ## Itinerario giorno per giorno
 ### Giorno 0

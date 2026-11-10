@@ -29,6 +29,7 @@ Petra es uno de los sitios más visitados del mundo, pero aquel Fin de Año la r
 - **Presupuesto:** actividades y extras gestionados a través del DMC que organizó el
   viaje. El alcohol hay que comprarlo en tiendas especializadas (Soho, Hangover
   en Madaba) antes de llegar a las zonas más conservadoras o al desierto.
+- **Del aeropuerto al centro:** se aterriza en el **Queen Alia (AMM)**, a unos 35 km al sur de Amán. · **Autobús Sariyah Airport Express**: unos 3,50 JOD, billete a bordo, hasta el 7th Circle y la estación de Tabarbour en 45-60 minutos, cada 30 minutos de día y con menos frecuencia también de noche · **taxi amarillo oficial** en la fila frente a llegadas: unos 25-30 JOD hasta el centro, precio que hay que aclarar antes de subir · **Uber y Careem**: unos 15-25 JOD, a menudo la opción más barata · hay que evitar a los conductores que abordan a los pasajeros dentro de la terminal: solo la fila oficial o la app.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Llegada a Amán

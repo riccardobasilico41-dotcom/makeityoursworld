@@ -40,7 +40,7 @@ Los museos estatales se cotizan en euros y los precios suben cada año: las cifr
 - **Éfeso:** 40 €, **casas en terraza** 15 € aparte; **Afrodisias** 12 €.
 
 ### Cómo moverse
-- **Aeropuerto de Estambul-centro:** metro M11 hasta Gayrettepe y luego M2, o los autobuses **Havaist** hasta Sultanahmet o Taksim (aproximadamente 1-1,5 horas). Taxi en torno a 40-60 € al cambio.
+- **Del aeropuerto al centro:** desde el **aeropuerto de Estambul (IST)** el metro M11 llega a Gayrettepe en unos 35 minutos, y luego el M2 a Taksim o a la península histórica (unas 40-75 liras según la distancia, con la Istanbulkart de las máquinas del aeropuerto) · los autobuses **Havaist** van hasta Sultanahmet o Taksim (unas 1-1,5 horas, unas 270-300 liras con Istanbulkart o tarjeta, con servicio nocturno en las líneas principales) · taxi alrededor de 40-60 € al cambio, mejor pedido con BiTaksi o Uber, que aquí manda los taxis amarillos, y siempre con el taxímetro encendido · en **Kayseri (ASR)** y **Nevşehir (NAV)** hay lanzadera a Göreme que se reserva con el hotel, alrededor de una hora; en **Antalya (AYT)**, a 20-30 minutos del centro, el coche se devuelve en el aeropuerto.
 - **En Estambul:** **Istanbulkart** para el tranvía T1 (Sultanahmet-Eminönü-Karaköy), metro, funiculares y ferris. Taxi solo con app (BiTaksi o Uber).
 - **Estambul-Capadocia:** vuelo de una hora a **Kayseri** (traslado de una hora a Göreme) o a **Nevşehir** (40 minutos), de forma indicativa 40-90 € con equipaje; los traslados compartidos se reservan con el hotel.
 - **Capadocia-Pamukkale:** autobús nocturno desde Göreme o Nevşehir a Denizli/Pamukkale, unas 9-10 horas, de forma indicativa 20-35 €. Es la forma más sencilla de no perder un día.

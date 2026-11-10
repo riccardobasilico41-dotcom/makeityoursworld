@@ -20,6 +20,7 @@ La Sicilia viene sottodimensionata sistematicamente in fase di pianificazione: s
 - **Cibo:** la Sicilia ha due cucine, una per versante. A est prevalgono pesce e paste: **pasta alla Norma** a Catania, **ricci** a Siracusa, pesce spada nello Stretto. I dolci sono un capitolo a parte: **cannoli riempiti al momento e mai prima**, cassata e la **granita con la brioche col tuppo a colazione**, che d'estate è il modo giusto di cominciare la giornata (e si fa con acqua, zucchero e frutta, non con la panna).
 - **Vino:** Etna Rosso dal Nerello Mascalese, Nero d'Avola, Carricante per i bianchi. Le cantine dell'Etna si visitano **su appuntamento**.
 - **Guida:** l'interno (Enna, Piazza Armerina, le Madonie) è la parte dove la Sicilia è più sé stessa e meno turistica, e quasi tutti la saltano per stare sulla costa.
+- **Dall'aeroporto al centro:** **Catania Fontanarossa (CTA)** è a circa 5 km dal centro. **Alibus** AMTS fino alla stazione centrale e al centro in 20-30 minuti, 4 € (biglietto valido 90 minuti, a bordo, in aeroporto o in app), corse dalle 4:40 circa alla mezzanotte e mezza · **treno** dalla stazione Catania Aeroporto Fontanarossa, collegata al terminal da una navetta, fino a Catania Centrale in pochi minuti · **taxi** circa 20-30 € per il centro, meglio chiedere il prezzo prima di salire · bus Etna Trasporti e Interbus per Taormina e Siracusa · molte agenzie di noleggio stanno nei parcheggi esterni, raggiunti con le loro navette: vale anche per la riconsegna.
 
 ## Itinerario giorno per giorno
 

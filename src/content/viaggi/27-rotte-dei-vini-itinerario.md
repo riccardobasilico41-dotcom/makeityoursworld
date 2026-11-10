@@ -20,6 +20,7 @@ L'Italia è il maggior produttore mondiale di vino e ha oltre cinquecento variet
 - **Comprare:** in azienda il prezzo è quello di produzione e si parla con chi il vino l'ha fatto. **Non comprare in enoteca quello che si può comprare in cantina.** Conviene portare qualcosa per proteggere le bottiglie durante il viaggio.
 - **Alla degustazione:** niente profumi forti, che interferiscono. E non serve fingere di sapere: i produttori spiegano molto più volentieri a chi è curioso che a chi recita.
 - **Dove mangiare:** le **osterie convenzionate con i consorzi** hanno le carte dei vini locali complete a prezzi vicini a quelli di cantina. È il posto giusto.
+- **Dall'aeroporto al centro:** per le Langhe l'aeroporto più comodo è **Torino Caselle (TRN)**, ed è lì che conviene ritirare l'auto a noleggio: ad Alba sono circa 1 ora e 15 di strada. Per chi passa prima da Torino: treno regionale per la città, circa 3,70 €, biglietto in app Trenitalia o alla macchinetta, ultima corsa intorno alle 22:30 · bus Arriva per Porta Nuova, circa 45-50 minuti · taxi circa 40-50 €. Si riparte da **Firenze Peretola (FLR)**: tramvia T2 fino a Santa Maria Novella, circa 1,70 €, circa 20 minuti; taxi a tariffa fissa per il centro circa 28 €, con supplementi per notte, festivi e bagagli · a Firenze l'errore da evitare è entrare in auto nella ZTL per riconsegnare il noleggio.
 
 ## Itinerario giorno per giorno
 

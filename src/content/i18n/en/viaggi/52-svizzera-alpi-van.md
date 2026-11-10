@@ -15,6 +15,7 @@ That said, the Interlaken-Jungfrau region, in the Bernese Alps, remains one of t
 
 ## Scheda pratica
 - **When to go:** June to September, with July-August as the most reliable window for the Alpine passes
+- **From the airport to the centre:** if you are not driving a van up from Italy, you usually land at Zurich (ZRH), where campervans can also be rented · SBB train from the station under the terminal to Interlaken Ost, about 2 hours with a change in Bern, every half hour, full 2nd-class fare about CHF 75-80, less with Supersaver fares in the SBB app · from Geneva (GVA) the train to Interlaken takes about 3 hours, and at baggage claim you can pick up a free ticket for Geneva public transport valid 80 minutes · taxis are very expensive and unnecessary · the most common mistake is buying the ticket at the last minute at full price.
 
 ### What it really costs: the part to read first
 Switzerland is not in the European Union and has not adopted the euro: you pay in Swiss francs, and the exchange rate with the euro is historically unfavorable, which inflates every price expressed in euros. The items that weigh most on a van trip:

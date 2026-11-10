@@ -24,6 +24,7 @@ También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cus
 - **Seguridad:** el riesgo más concreto son los falsos taxistas a la salida de los aeropuertos. Solo taxis reservados o apps. En Cusco, nada de cambistas callejeros: pasan billetes falsos o fuera de circulación. Para los autobuses largos, solo las compañías principales.
 - **Conectividad:** Claro, Movistar, Entel y Bitel, SIM en el aeropuerto con el pasaporte. Buena cobertura en las ciudades y a lo largo del circuito turístico.
 - **Electricidad y huso horario:** 220 V, enchufes de tipo A y C; un adaptador universal ayuda. UTC-5 todo el año: 7 horas menos que en Italia con el horario de verano, 6 en invierno.
+- **Del aeropuerto al centro:** en **Lima Jorge Chávez (LIM)**, con la nueva terminal, el autobús oficial Airport Express Lima lleva a Miraflores en unos 45-75 minutos, unos 20 soles (15 por persona si van dos o más o comprando online), con salidas cada hora aproximadamente de 7:00 a 21:00 · taxi solo en los mostradores oficiales dentro de llegadas · Uber y Cabify unos 55-105 soles, solo desde la zona de recogida que indica la app · en **Arequipa (AQP)** y **Cusco (CUZ)** taxi oficial del aeropuerto o traslado del hotel, 15-30 minutos · el error que hay que evitar es seguir a los falsos taxistas a la salida de llegadas.
 
 ## Itinerario giorno per giorno
 

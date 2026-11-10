@@ -24,6 +24,7 @@ C'è anche una sezione lunga sulle due Irlande: perché l'isola è divisa, cosa 
 - **Prese:** tipo G a tre poli, uguali nelle due Irlande. Serve un adattatore.
 - **Salute:** la TEAM vale nella Repubblica e, per le cure che non possono aspettare, anche nell'Irlanda del Nord. Un'assicurazione di viaggio resta consigliata.
 - **Prenotare prima:** Kilmainham Gaol a Dublino (si entra solo con visita guidata), il biglietto del Book of Kells, il parcheggio del Giant's Causeway e Titanic Belfast.
+- **Dall'aeroporto al centro:** da **Dublino (DUB)** i pullman espressi Aircoach (attivo 24 ore su 24) e Dublin Express arrivano a O'Connell Street e dintorni in circa 30 minuti senza traffico, circa 8-10 € a tratta, biglietto online, alle macchinette o con carta a bordo · i bus urbani 16 e 41 costano circa 2-2,60 € ma impiegano 40-60 minuti · taxi a tassametro dalla fila ufficiale, circa 30-45 € secondo l'orario; le app come Uber e FreeNow chiamano taxi regolari, con la stessa tariffa · l'errore tipico è ritirare l'auto a noleggio appena atterrati: per i giorni a Dublino non serve.
 
 ## Itinerario giorno per giorno
 
@@ -39,7 +40,7 @@ La mattina presto il **Trinity College** con il **Book of Kells**, un vangelo mi
 
 Il pomeriggio a **Kilmainham Gaol**, il carcere aperto nel 1796 dove furono rinchiusi anche i capi della rivolta di Pasqua del 1916. Si entra solo con la visita guidata, prenotata prima. Il carcere è a ovest del centro, a una mezz'ora di cammino dal Trinity oppure pochi minuti in bus o taxi. La visita passa dalle celle al cortile dove furono fucilati i leader del 1916, e aiuta a capire tutto il resto del viaggio, compresa la parte sul nord.
 
-**In pratica:** Book of Kells biglietto online a fasce orarie, prezzo variabile secondo il giorno e la stagione (da controllare su visittrinity.ie) · Kilmainham Gaol circa 8 €, solo visita guidata, biglietti solo sul sito ufficiale o su heritageireland.ie, chiuso dal 24 al 27 dicembre · i biglietti di Kilmainham finiscono presto in estate: vanno presi con largo anticipo.
+**In pratica:** Book of Kells biglietto online a fasce orarie, prezzo variabile secondo il giorno e la stagione, da circa 25 € (visittrinity.ie) · Kilmainham Gaol circa 8 €, solo visita guidata, biglietti solo sul sito ufficiale o su heritageireland.ie, chiuso dal 24 al 27 dicembre · i biglietti di Kilmainham finiscono presto in estate: vanno presi con largo anticipo.
 
 ### Giorno 3 — Glendalough e Kilkenny
 Si ritira l'auto e si esce dalla città verso sud, sui **monti di Wicklow**. Conviene ritirarla la mattina presto, in aeroporto o in un'agenzia fuori dal centro, per fare i primi chilometri a sinistra lontano dal traffico. A **Glendalough**, a poco più di un'ora da Dublino, ci sono le rovine del monastero fondato da San Kevin nel VI secolo, con la torre rotonda, e un sentiero facile fino all'**Upper Lake**. *Il parcheggio dell'Upper Lake si riempie presto nei fine settimana d'estate: arrivando entro le 10 si trova posto.*
@@ -67,7 +68,7 @@ Il **Ring of Kerry** è un anello di 179 km attorno alla penisola di Iveragh, da
 
 Le soste più note sono **Ladies View**, **Moll's Gap** e, nel parco nazionale di Killarney, **Muckross House** e la cascata di **Torc**. In senso orario conviene lasciarle per la fine del giro, quando si rientra verso Killarney dalla strada di Kenmare: la cascata di Torc è a pochi minuti a piedi dal parcheggio, e i giardini di Muckross si girano senza biglietto. Lungo la costa, Waterville e i dintorni di Cahersiveen sono i punti più comodi per pranzare.
 
-**In pratica:** anello di 179 km, circa 4 ore di guida pura, una giornata intera con le soste · Muckross House visita della casa a pagamento (prezzo da controllare su muckross-house.ie), giardini e parco liberi · fare benzina a Killarney prima di partire · strade strette: i pullman hanno sempre la precedenza di fatto.
+**In pratica:** anello di 179 km, circa 4 ore di guida pura, una giornata intera con le soste · Muckross House visita della casa circa 7,50 € (muckross-house.ie), giardini e parco liberi · fare benzina a Killarney prima di partire · strade strette: i pullman hanno sempre la precedenza di fatto.
 
 ### Giorno 7 — Penisola di Dingle e Slea Head Drive
 Da Killarney a **Dingle**, circa un'ora di strada, e poi sulla **Slea Head Drive**, l'anello costiero in fondo alla penisola: la spiaggia di Ventry, un forte preistorico, le capanne di pietra a forma di alveare, la vista sulle **isole Blasket** e il **Gallarus Oratory**, una chiesetta in pietra a secco. L'anello è di circa 50 km, ma tra soste e strada stretta prende mezza giornata. *Come sul Ring of Kerry, si gira in senso orario, che qui è il verso indicato dai cartelli.*

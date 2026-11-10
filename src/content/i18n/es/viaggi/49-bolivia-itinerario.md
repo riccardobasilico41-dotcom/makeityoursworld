@@ -22,6 +22,7 @@ Bolivia se recorre a escalones: aterrizas a más de cuatro mil metros antes incl
 - **Electricidad:** 220V (110V en algunas zonas), enchufes de tipo A y C: los enchufes italianos de dos polos casi siempre entran.
 - **Huso horario:** UTC-4 todo el año, 6 horas menos que en Italia en horario de verano, 5 en invierno.
 - **Festividades:** el Carnaval de Oruro, en febrero, es Patrimonio de la UNESCO y es la fiesta más espectacular del país; cae fuera de la ventana de este itinerario, pensado para la estación seca.
+- **Del aeropuerto al centro:** de **El Alto (LPB)** a La Paz se tarda 30-45 minutos, más con tráfico o bloqueos · taxi del aeropuerto unos 70-120 BOB, precio que se fija antes de subir porque no hay taxímetro; más tranquilo el traslado del hotel · minibuses compartidos unos 5 BOB, incómodos con maletas y con la altura · InDrive funciona y suele costar menos · evitar los coches sin rótulo y a quien ofrece cambio fuera de los mostradores · para los vuelos internos: el aeropuerto de **Sucre (SRE)** está a unos 30 km de la ciudad, media hora larga en taxi; en **Rurrenabaque (RBQ)** el pueblo está a pocos minutos en taxi o mototaxi.
 
 ## Itinerario giorno per giorno
 

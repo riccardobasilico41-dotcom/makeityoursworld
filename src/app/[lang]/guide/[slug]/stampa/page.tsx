@@ -535,7 +535,8 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
           {creditoCopertina ? `Copertina: ${creditoCopertina.autore}, ${creditoCopertina.licenza}. ` : ''}
           {meta?.giorni.map((gm, i) => {
             const c = crediti[gm.titoloGiorno]
-            return c ? `Giorno ${i + 1}: ${c.autore}, ${c.licenza}. ` : ''
+            const n = gm.titoloGiorno.match(/(?:Giorno|Day|D[ií]a)\s+(\d+)/i)?.[1] ?? String(i + 1)
+            return c ? `Giorno ${n}: ${c.autore}, ${c.licenza}. ` : ''
           })}
         </p>
         <p className="piccolo colophon">

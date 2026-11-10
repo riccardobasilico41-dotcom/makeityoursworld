@@ -27,6 +27,7 @@ At two in the morning, in front of the plane wreck at Sólheimasandur, there was
 - **Driving:** dirt roads, rough, often without guardrails, with stretches of
   2-3 hours at a time (up to 7h in a day). Best to have two people who can
   drive, to take turns on the longest stretches.
+- **From the airport to the centre:** you land at **Keflavík (KEF)**, about 50 km from Reykjavík. **Flybus** to the BSÍ terminal in about 45 minutes, about 4,000 ISK, with departures timed to arrivals (online, at the desk or on board; Flybus+ takes you to the hotels) · **Airport Direct**, to its own terminal or to hotels, about 5,000 ISK · **Strætó bus 55**, the cheapest (about 2,400 ISK, on board or in the app), but slow and with few runs · **taxi** about 20,000-25,000 ISK, no Uber · if you rent a car, you pick it up right at the airport, and that's the easiest option.
 
 ## Itinerario giorno per giorno
 ### Day 0

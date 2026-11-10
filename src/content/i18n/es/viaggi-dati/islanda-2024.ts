@@ -38,6 +38,12 @@ export const islanda2024Meta: TripMeta = {
   ],
   giorni: [
     {
+      titoloGiorno: "Día 0",
+      intensita: 'leggero',
+      immagine: '/images/islanda/ring-road-drone-auto-riccardo.jpg',
+      imageAlt: "La Ring Road vista desde el dron: la carretera se curva en la llanura verde con los coches en fila, el anillo que el viaje recorre entero",
+    },
+    {
       titoloGiorno: "Día 1 — Llegada a Keflavík y la erupción vista de cerca",
       tratta: "Llegada a Keflavík",
       pernottamento: 'Konvin Hotel',

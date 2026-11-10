@@ -37,6 +37,7 @@ Petra è uno dei siti più visitati al mondo, ma quel Capodanno l'ho attraversat
 - **Budget:** attività ed extra gestiti tramite il DMC che ha organizzato il
   viaggio. Gli alcolici vanno comprati nei negozi specializzati (Soho, Hangover
   a Madaba) prima di arrivare nelle zone più conservatrici o nel deserto.
+- **Dall'aeroporto al centro:** si atterra al **Queen Alia (AMM)**, circa 35 km a sud di Amman. · **Bus Sariyah Airport Express**: circa 3,50 JOD, biglietto a bordo, fino al 7th Circle e alla stazione di Tabarbour in 45-60 minuti, ogni 30 minuti di giorno e con corse più rade anche di notte · **taxi giallo ufficiale** dalla fila davanti agli arrivi: circa 25-30 JOD per il centro, prezzo da chiarire prima di salire · **Uber e Careem**: circa 15-25 JOD, spesso la scelta più conveniente · da evitare gli autisti che avvicinano i passeggeri dentro il terminal: si va solo alla fila ufficiale o si prenota dall'app.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Arrivo ad Amman

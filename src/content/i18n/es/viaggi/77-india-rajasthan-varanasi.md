@@ -32,6 +32,7 @@ El resto de la ruta es la clásica del norte, hecha con calma. Tres días junto 
 - **Ropa y mujeres que viajan:** ropa holgada que cubra hombros y piernas, un pañuelo siempre en la bolsa. En Benarés los callejones son estrechos y están abarrotados: mejor no recorrerlos solas después del atardecer.
 - **Conectividad:** SIM de Airtel o Jio en el aeropuerto de Delhi; buena señal casi en todas partes, débil entre las dunas.
 - **Huso horario:** UTC+5:30, 3 horas y media por delante de Italia con el horario de verano, 4 y media en invierno.
+- **Del aeropuerto al centro:** desde **Delhi Indira Gandhi (DEL)** el metro Airport Express, línea naranja, sale de la Terminal 3 y llega a New Delhi Railway Station en unos 20 minutos, unas 60-65 rupias, ficha o QR en la taquilla, servicio de las 5:00 a las 23:30 aproximadamente; a la T1 llega la línea Magenta · taxi prepago en el mostrador oficial de la policía en llegadas, unas 500-900 rupias, con recargo nocturno · Uber y Ola unas 400-800 rupias desde la zona de recogida señalizada · a la vuelta, **Udaipur (UDR)** está a 30-40 minutos del centro en taxi o app · el error típico es hacer caso a quien dice que el hotel está cerrado o lleno y propone otro alojamiento: se va directo a la dirección reservada.
 
 ## Itinerario giorno per giorno
 

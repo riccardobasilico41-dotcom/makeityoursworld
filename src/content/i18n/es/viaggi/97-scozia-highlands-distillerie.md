@@ -32,6 +32,7 @@ Y hay una regla que vale para todo el viaje, destilerías incluidas. En Escocia 
 - **Salud:** la TSE cubre la atención necesaria en el servicio público; sigue siendo recomendable un seguro de viaje. En verano en las Highlands están los midges, unos mosquitos diminutos inofensivos pero molestos: hace falta repelente.
 - **Teléfono:** el roaming de la UE no vale en el Reino Unido. Hay tramos sin cobertura: mapas offline.
 - **Enchufes:** tipo G. Hace falta un adaptador.
+- **Del aeropuerto al centro:** se aterriza en Edimburgo (EDI) · el tranvía llega a Princes Street y St Andrew Square en unos 30-35 minutos, cada 7-10 minutos de día, de las 5 aproximadamente a medianoche, unas 7,90 libras por trayecto, billete en la máquina de la parada antes de subir · el Airlink 100 de Lothian va a Waverley en una media hora, unas 6 libras, que se pagan a bordo con tarjeta contactless · taxi de la parada oficial, unas 25-30 libras al centro · Uber funciona desde la zona de recogida señalizada · el error típico es subir al tranvía sin billete: hay controles y la multa es alta.
 
 ## Itinerario giorno per giorno
 

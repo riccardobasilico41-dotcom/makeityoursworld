@@ -26,6 +26,7 @@ You only need the car for three days. In the city it would be a burden, between 
 - **Health:** the EHIC covers necessary treatment in the public NHS service; travel insurance is still recommended.
 - **Sockets:** type G, with three rectangular pins. You need an adapter.
 - **Weather:** it can rain in any month. Layers and a waterproof jacket.
+- **From the airport to the centre:** **Heathrow (LHR)**. · **Piccadilly line** on the Underground: about £5.90 by contactless card, 50-60 minutes, the cheapest, and on Fridays and Saturdays it also runs through the night · **Elizabeth line**: about £15.50, about 30-40 minutes to Paddington and Tottenham Court Road · **Heathrow Express** to Paddington: about £25 bought on the day, about £10 well in advance, 15-20 minutes · metered **black cabs** about £70-110; Uber about £50-70 · the mistake to avoid is paying with two different cards or devices: the daily cap only works on one card.
 
 ## Itinerario giorno per giorno
 

@@ -24,6 +24,7 @@ Las cuatro grandes ciudades de arte italianas se visitan casi siempre de la mane
 - **Transportes:** la alta velocidad lo une todo y, reservando con semanas de antelación, los precios se hunden. Roma-Florencia 1 h 30, Florencia-Venecia 2 h, Venecia-Nápoles con transbordo, Roma-Nápoles poco más de una hora. **En las cuatro ciudades el coche es inútil o perjudicial**: ZTL en Florencia y en Roma, Área B y C en Milán, y en Venecia es que no hay carreteras.
 - **La regla de la comida:** en las cuatro, **no comer a menos de trescientos metros de un monumento famoso** y no entrar nunca en un local con fotos de los platos fuera o con alguien que te invita a entrar. Es la regla que más que ninguna otra separa comer bien de comer mal en Italia.
 - **Museos gratuitos:** los primeros domingos de mes los museos estatales son gratuitos, y por eso tienen colas enormes. Las iglesias, en cambio, son casi todas gratuitas y contienen una parte enorme de lo que se viene a ver.
+- **Del aeropuerto al centro:** en **Roma Fiumicino (FCO)** el Leonardo Express llega a Termini en 32 minutos (14 €, desde primera hora hasta las 23.30 más o menos, billete en la app de Trenitalia o en las máquinas) · el regional FL1 cuesta unos 8 € pero no va a Termini (para en Trastevere, Ostiense y Tiburtina) · autobús a Termini unos 6-7 €, casi una hora · taxis blancos de Roma Capitale con tarifa fija de 55 € dentro de las Murallas Aurelianas: hay que evitar a los captadores de llegadas y los taxis con licencia de Fiumicino, que no aplican la misma tarifa · en **Nápoles Capodichino (NAP)**, para la salida, el Alibus une la estación Centrale y el puerto en unos 15-20 minutos (5 €), y el taxi tiene una tarifa predeterminada (unos 16-21 € a la Centrale) que hay que pedir antes de salir.
 
 ## Itinerario giorno per giorno
 
@@ -120,7 +121,7 @@ Al atardecer subimos al **campanile de San Giorgio Maggiore**, que tiene la mejo
 
 Después del mercado se cruza el **puente de Rialto** aún vacío y se llega a San Marco antes de que abra la basílica, cuando la plaza está libre. Para la **basílica** conviene reservar la entrada, que cuesta poco, y añadir el museo con los caballos de bronce y la logia sobre la plaza. El **Palacio Ducal** requiere al menos dos horas, con las prisiones y el puente de los Suspiros visto desde dentro. La Scuola Grande di San Rocco, en el sestiere de San Polo, pone espejos a disposición para mirar los techos sin torcer el cuello. Para San Giorgio se coge el vaporetto en San Zaccaria. *En San Marco no se sienta uno en los escalones ni se come: hay multas.*
 
-**En la práctica:** Palacio Ducal unos 30 euros, menos comprando online con antelación · basílica de San Marco con entrada de pocos euros y reserva recomendada · campanario de San Giorgio con ascensor, entrada de pocos euros
+**En la práctica:** Palacio Ducal unos 30 euros, menos comprando online con antelación · basílica de San Marco con entrada nominativa de unos 10 euros y reserva recomendada · campanario de San Giorgio con ascensor, entrada de pocos euros
 
 ### Día 10 — La laguna
 Es la jornada que casi nadie hace. Fuimos a **Torcello**, a cuarenta minutos en vaporetto, con la basílica del siglo VII y el Juicio Final en mosaico que cubre una pared entera. Venecia empezó allí, antes de que existiera Venecia, y hay veinte personas.
@@ -131,7 +132,7 @@ Luego **Burano** por las casas de colores y **Murano** por el vidrio, sabiendo q
 
 Para Torcello se coge la línea 12 en las **Fondamente Nove**, que pasa por Murano y Burano; conviene ir primero a Torcello, la parada más lejana, y volver desde allí. En Torcello, además de la basílica, está el campanario, desde el que se ve toda la laguna norte entre cañaverales y marismas. Burano se recorre en una hora, entre las casas de colores y el museo del encaje; en Murano conviene entrar en un horno para ver trabajar el vidrio y visitar el **Museo del Vidrio**. *En las islas los restaurantes se llenan a mediodía: conviene reservar o comer pronto.* La vuelta al atardecer, en vaporetto, es una de las mejores vistas de la ciudad.
 
-**En la práctica:** vaporetto billete sencillo unos 9,50 euros, pases de 1, 2, 3 o 7 días desde unos 25 euros · línea 12 Fondamente Nove-Burano unos 40 minutos, luego la 9 a Torcello · basílica de Torcello y campanario con entradas separadas, pocos euros
+**En la práctica:** vaporetto billete sencillo unos 9,50 euros, pases de 1, 2, 3 o 7 días desde unos 25 euros · línea 12 Fondamente Nove-Burano unos 40 minutos, luego la 9 a Torcello · basílica de Torcello incluida en la entrada de San Marco si se usa en seis meses, campanario con entrada aparte, pocos euros
 
 ### Día 11 — Alta velocidad a Nápoles
 Nos trasladamos a **Nápoles**; para dormir, centro histórico o Chiaia.

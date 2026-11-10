@@ -17,6 +17,7 @@ Bordeaux mette insieme una città che si gira a piedi e un territorio che senza 
 - **Guida e vino non vanno d'accordo:** guidatore designato che non assaggia, escursioni accompagnate, oppure sputare in degustazione (è la norma, non un'offesa).
 - **Appuntamento sempre obbligatorio** per i grandi château.
 - **Vignetta Crit'Air** per entrare in città.
+- **Dall'aeroporto al centro:** da **Bordeaux-Mérignac (BOD)** il tram A arriva in centro in circa 35-40 minuti, con una corsa ogni 10 minuti circa e un normale biglietto TBM (circa 2 €, alle macchinette di fermata o sull'app, da convalidare a bordo) · la navetta 30'Direct va alla stazione Saint-Jean passando per il centro in circa 30 minuti (9 € online, 10 € a bordo) · taxi e Uber circa 40-60 € secondo l'orario · il biglietto della navetta non vale sul tram, e viceversa.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Bordeaux città

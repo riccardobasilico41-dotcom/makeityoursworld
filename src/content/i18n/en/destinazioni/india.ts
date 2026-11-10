@@ -636,7 +636,8 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
-    imageAlt: "Ranthambore National Park",
+    imageAlt: 'A tiger lying in a waterhole among the dry grass of Ranthambore',
+    immagine: '/images/india/ranthambore-tigre-pozza-riccardo.jpg',
   },
   {
     slug: 'pushkar',

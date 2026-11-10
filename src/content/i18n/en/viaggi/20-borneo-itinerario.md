@@ -24,6 +24,7 @@ Borneo isn't an appendix of Malaysia: it's a trip of its own, with timing, costs
 - **Transport:** you fly. Kota Kinabalu is 2h30 from Kuala Lumpur, and on the ground distances are long and roads slow: from Kota Kinabalu to Sandakan it takes six hours, from Sandakan to the Kinabatangan another two. Almost everything is organized as a package with transfers included, and it's the sensible choice.
 - **Budget:** this is the expensive part of any trip to Malaysia. Between package lodges, capped permits and domestic flights, you work out the bill beforehand, not along the way.
 - **What to bring:** binoculars (on the Kinabatangan they change the day more than any lens), real layers for the summit of Kinabalu, leech socks, headlamp, a light rain shell and cash.
+- **From the airport to the centre:** **Kota Kinabalu (BKI)** is about 8 km from the city. **Coupon taxi** at a fixed price, bought at the arrivals desk, about RM 30-45 depending on the zone · **Grab** from the marked pickup zone, about RM 15-25 in 20-30 minutes, with higher fares at peak times · **city bus** from level 1 of arrivals, about RM 5, slow and infrequent · buy the coupon only at the desk, never from drivers who approach you outside · on the way back from **Tawau (TWU)**, about an hour and a half from Semporna, the transfer booked through the dive centre or lodge is the way to go; Grab works there too.
 
 ## Itinerario giorno per giorno
 

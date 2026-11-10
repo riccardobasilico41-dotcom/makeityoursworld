@@ -27,6 +27,7 @@ La elección de las paradas es el punto en el que más se falla. Diez días no b
 - **Electricidad:** 230 V, enchufes C, D y M. Se recomienda un adaptador universal.
 - **Huso horario:** UTC+5:30, 3 horas y media por delante de Italia con el horario de verano, 4 y media en invierno.
 - **Ritmo:** cinco ciudades en diez días, con dos traslados largos en coche (Agra-Jaipur y Jodhpur-Udaipur) que se hacen más llevaderos con paradas por el camino.
+- **Del aeropuerto al centro:** en Delhi Indira Gandhi (DEL) el metro Airport Express (línea naranja) sale de la Terminal 3 y llega a la estación New Delhi en unos 20 minutos, unas 60-65 rupias, de las 4:45 a las 23:30 aproximadamente, ficha o QR en la taquilla; desde la Terminal 1 se llega a la T3 con la lanzadera o en taxi · taxi prepago del mostrador de la Delhi Police dentro de llegadas, unas 500-700 rupias a Connaught Place, un 25% más entre las 23 y las 5 · Uber y Ola desde la zona de recogida señalizada, unas 400-700 rupias · hay que evitar a quien se ofrece fuera de llegadas y a quien dice que el hotel está cerrado o lleno.
 
 ## Itinerario giorno per giorno
 

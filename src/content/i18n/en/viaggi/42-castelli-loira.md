@@ -14,6 +14,7 @@ The golden rule here is not to see too many: five or six châteaux in six days, 
 ## Scheda pratica
 - **When to go:** April-June for the gardens in bloom, September-October for the colors and fewer crowds.
 - **Base:** Amboise, Tours or Blois.
+- **From the airport to the centre:** from Italy you almost always land at **Paris Charles de Gaulle (CDG)** or **Orly (ORY)**. For this itinerary a rental car picked up at the airport is the best option: Blois and Amboise are about two and a half hours away by motorway. By train, direct TGVs leave CDG for Saint-Pierre-des-Corps, next to Tours, in 1h40-2h, prices vary on SNCF Connect; otherwise RER B from CDG or metro 14 from Orly with the Paris Région-Aéroports ticket, about €14, and from Austerlitz trains to Blois in about 1h30. CDG-Paris taxis have a fixed fare, €56-65 depending on the bank. A normal metro ticket isn't valid for the airports.
 - **One château a day**, not two: after the third masterpiece in two days you stop telling them apart.
 - **Bicycle:** the Loire à Vélo cycling route links the châteaux along the embankment, on the flat.
 

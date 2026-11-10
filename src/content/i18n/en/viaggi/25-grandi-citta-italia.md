@@ -24,6 +24,7 @@ Italy's four great art cities are almost always visited the wrong way, and not o
 - **Transport:** the high-speed train connects everything and, booking weeks ahead, prices drop sharply. Rome-Florence 1h30, Florence-Venice 2h, Venice-Naples with a change, Rome-Naples a little over an hour. **In all four cities a car is useless or harmful**: ZTL in Florence and Rome, Area B and C in Milan, and in Venice there are simply no roads.
 - **The food rule:** in all four, **don't eat within three hundred meters of a famous monument** and never go into a place with photos of the dishes outside or with someone urging you to come in. It's the rule that, more than any other, separates eating well from eating badly in Italy.
 - **Free museums:** on the first Sunday of the month state museums are free, and therefore have enormous lines. Churches, on the other hand, are almost all free and contain a huge part of what you come to see.
+- **From the airport to the centre:** at **Rome Fiumicino (FCO)** the Leonardo Express reaches Termini in 32 minutes (€14, from early morning to about 11.30pm, ticket on the Trenitalia app or at the machines) · the FL1 regional train costs about €8 but doesn't go to Termini (it stops at Trastevere, Ostiense and Tiburtina) · bus to Termini about €6-7, almost an hour · white Roma Capitale taxis at the fixed fare of €55 within the Aurelian Walls: avoid the touts in arrivals and the taxis licensed in Fiumicino, which don't apply the same fare · at **Naples Capodichino (NAP)**, for the departure, the Alibus links Centrale station and the port in about 15-20 minutes (€5), and taxis have a set fare (about €16-21 to Centrale) to ask for before setting off.
 
 ## Itinerario giorno per giorno
 
@@ -120,7 +121,7 @@ At sunset we climbed the **bell tower of San Giorgio Maggiore**, which has the b
 
 After the market cross the still-empty **Rialto Bridge** and reach San Marco before the basilica opens, when the square is clear. For the **basilica** it's worth booking entry, which is cheap, and adding the museum with the bronze horses and the loggia over the square. **Palazzo Ducale** needs at least two hours, with the prisons and the Bridge of Sighs seen from inside. The Scuola Grande di San Rocco, in the San Polo sestiere, provides mirrors so you can look at the ceilings without craning your neck. For San Giorgio take the vaporetto from San Zaccaria. *In Piazza San Marco you don't sit on the steps or eat: there are fines.*
 
-**In practice:** Palazzo Ducale around 30 euros, less if bought online in advance · San Marco basilica with a ticket of a few euros and booking recommended · San Giorgio bell tower with lift, ticket of a few euros
+**In practice:** Palazzo Ducale around 30 euros, less if bought online in advance · San Marco basilica with a named ticket of about 10 euros and booking recommended · San Giorgio bell tower with lift, ticket of a few euros
 
 ### Day 10 — The lagoon
 This is the day almost nobody does. We went to **Torcello**, forty minutes by vaporetto, with the seventh-century basilica and the mosaic Last Judgment that covers an entire wall. Venice began there, before Venice existed, and there are twenty people.
@@ -131,7 +132,7 @@ Then **Burano** for the colored houses and **Murano** for the glass, knowing the
 
 For Torcello take line 12 from the **Fondamente Nove**, which stops at Murano and Burano; it's best to go to Torcello first, the farthest stop, and work back. On Torcello, besides the basilica, there's the bell tower, from which you see the whole northern lagoon among reed beds and salt marshes. Burano takes an hour, among the colored houses and the lace museum; on Murano it's worth going into a furnace to watch glass being worked and visiting the **Glass Museum**. *On the islands restaurants fill up at lunch: book or eat early.* The ride back at sunset, on the vaporetto, is one of the best views of the city.
 
-**In practice:** vaporetto single ticket about 9.50 euros, 1, 2, 3 or 7-day passes from about 25 euros · line 12 Fondamente Nove-Burano about 40 minutes, then line 9 to Torcello · Torcello basilica and bell tower with separate tickets, a few euros
+**In practice:** vaporetto single ticket about 9.50 euros, 1, 2, 3 or 7-day passes from about 25 euros · line 12 Fondamente Nove-Burano about 40 minutes, then line 9 to Torcello · Torcello basilica included in the San Marco ticket if used within six months, bell tower with a separate ticket, a few euros
 
 ### Day 11 — High-speed train to Naples
 We moved to **Naples**; to sleep, the historic center or Chiaia.

@@ -32,6 +32,7 @@ E una regola vale per tutto il viaggio, distillerie comprese. In Scozia il limit
 - **Salute:** la TEAM copre le cure necessarie nel servizio pubblico; un'assicurazione di viaggio resta consigliata. D'estate nelle Highlands ci sono i midges, moscerini innocui ma fastidiosi: serve un repellente.
 - **Telefono:** il roaming UE non vale nel Regno Unito. Ci sono tratti senza segnale: mappe offline.
 - **Prese:** tipo G. Serve un adattatore.
+- **Dall'aeroporto al centro:** si atterra a Edimburgo (EDI) · il tram arriva a Princes Street e St Andrew Square in circa 30-35 minuti, ogni 7-10 minuti di giorno, dalle 5 circa a mezzanotte, circa 7,90 sterline a corsa, biglietto alla macchinetta della fermata prima di salire · l'Airlink 100 di Lothian va a Waverley in circa mezz'ora, circa 6 sterline, pagabili a bordo con carta contactless · taxi dalla fila ufficiale, circa 25-30 sterline per il centro · Uber funziona dall'area di ritiro segnalata · l'errore tipico è salire sul tram senza biglietto: i controlli ci sono e la multa è salata.
 
 ## Itinerario giorno per giorno
 

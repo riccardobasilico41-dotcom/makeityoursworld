@@ -25,6 +25,7 @@ La Croazia ha 1.800 chilometri di costa continentale e più di mille isole, ed �
 - **Regole locali:** Spalato, Hvar e Dubrovnik multano chi gira in costume o a torso nudo nel centro storico, chi beve per strada e chi si siede sui monumenti. A Spalato la multa per costume o alcol in strada è di 150 €; a Hvar si arriva a 500-700 €, e 400 € per chi dorme in strada o in spiaggia; il tetto delle sanzioni sul posto è 700 €. A Dubrovnik si prendono sanzioni anche per comportamenti molesti nel centro.
 - **Tassa di soggiorno:** si paga a notte e a persona, la fissa ogni comune: a Dubrovnik 2,65 € da aprile a settembre, a Zagabria 1,86 €, meno in bassa stagione. Spesso è esclusa dal prezzo online.
 - **Fuso orario ed elettricità:** come l'Italia, prese di tipo C e F.
+- **Dall'aeroporto al centro:** **Zagabria (ZAG)**: bus Pleso Prijevoz fino alla stazione degli autobus, circa 8-9 €, biglietto a bordo o online, circa 30-40 minuti, con corse legate ai voli; taxi, Uber e Bolt circa 20-30 € · **Spalato (SPU)**, a pochi chilometri da Traù: navetta Pleso per la stazione degli autobus di Spalato, circa 8 €, circa 30-40 minuti; taxi circa 40-50 € per Spalato, molto meno per Traù · **Dubrovnik (DBV)**: navetta Platanus per la città vecchia (porta Ploče) e la stazione di Gruž, circa 10 € (15 € andata e ritorno), online o ai punti vendita Platanus, circa 30-35 minuti; taxi circa 40-50 €, Uber e Bolt di solito meno · d'estate il prezzo del taxi si concorda prima di salire.
 
 ## Itinerario giorno per giorno
 
@@ -33,7 +34,7 @@ Siamo arrivati a Zagabria, che si raggiunge in aereo o in auto da Trieste in cir
 
 Il pomeriggio siamo stati al **mercato di Dolac**, con gli ombrelloni rossi, e al **Museo delle Relazioni Interrotte**, che raccoglie oggetti lasciati da coppie finite. *Il mercato dà il meglio la mattina: dopo pranzo molti banchi chiudono, quindi chi arriva tardi può invertire l'ordine e fare prima il museo.* La sera, i caffè di via Tkalčićeva. Prima di cena si può passare dalla **cattedrale**, con le due guglie neogotiche visibili da tutta la città, e dalla Porta di Pietra, dove i zagabresi accendono candele davanti all'immagine della Madonna sopravvissuta all'incendio del 1731.
 
-**In pratica:** aeroporto Franjo Tuđman a circa 17 km dal centro, collegato da bus navetta e taxi · funicolare con biglietto da pochi euro, corse ogni pochi minuti · Museo delle Relazioni Interrotte circa 7 €, aperto tutti i giorni fino a sera · per dormire, Città Bassa o dintorni di piazza Jelačić, comodi per ripartire in auto domani.
+**In pratica:** aeroporto Franjo Tuđman a circa 17 km dal centro, collegato da bus navetta e taxi · funicolare con biglietto da circa 0,66 €, corse ogni pochi minuti · Museo delle Relazioni Interrotte circa 7 €, aperto tutti i giorni fino a sera · per dormire, Città Bassa o dintorni di piazza Jelačić, comodi per ripartire in auto domani.
 
 ### Giorno 2 — Verso Plitvice: i laghi inferiori
 Abbiamo guidato circa due ore verso sud fino al **Parco Nazionale dei Laghi di Plitvice**, patrimonio UNESCO dal 1979: sedici laghi a terrazze collegati da cascate e barriere di travertino, attraversati da passerelle di legno. Si dorme vicino al parco, a Mukinje, Rastovača o Grabovac, per entrare all'apertura il giorno dopo.
@@ -87,7 +88,7 @@ Abbiamo preso il catamarano dal porto di Spalato a **Hvar** città, circa un'ora
 
 Arrivati in mattinata, si lasciano i bagagli e si gira la cittadina nelle ore più fresche: la **cattedrale di Santo Stefano** in fondo alla piazza, il monastero francescano sulla punta della baia, con il chiostro e i cipressi. La salita alla fortezza va fatta nel tardo pomeriggio, per vedere le isole Pakleni con la luce bassa; il sentiero tra i pini parte dal centro e richiede circa venti minuti.
 
-**In pratica:** catamarani Spalato-Hvar di Jadrolinija, TP Line e Krilo, circa 1 ora · i traghetti per auto arrivano a Stari Grad, non a Hvar città · fortezza spagnola con biglietto di pochi euro, oppure combinato con teatro, arsenale e altri siti circa 15 € · in agosto prenotare l'alloggio con largo anticipo.
+**In pratica:** catamarani Spalato-Hvar di Jadrolinija, TP Line e Krilo, circa 1 ora · i traghetti per auto arrivano a Stari Grad, non a Hvar città · fortezza spagnola con biglietto di circa 12 €, oppure combinato con teatro, arsenale e altri siti circa 15 € · in agosto prenotare l'alloggio con largo anticipo.
 
 ### Giorno 9 — Hvar: le isole Pakleni
 Davanti al porto di Hvar ci sono le **isole Pakleni**, un arcipelago di pinete e calette raggiunte da taxi-boat ogni mezz'ora in estate (indicativamente 10-15 € andata e ritorno). Le baie di **Palmižana** e **Ždrilca** su Sveti Klement hanno ristoranti e acqua trasparente; altre calette sono raggiungibili solo a piedi. Conviene prendere una delle prime barche del mattino, quando le baie sono ancora tranquille, e camminare sui sentieri tra i pini fino alle calette meno battute del lato sud. *Le spiagge sono quasi tutte di roccia o ciottoli: servono scarpette da scoglio, acqua e protezione solare, perché l'ombra è poca.*
@@ -122,14 +123,14 @@ Siamo andati in gita a **Ston**, a un'ora a nord-ovest, sulla penisola di **Pelj
 
 La penisola continua con i vigneti del **Dingač** e del **Postup**, dove si produce il plavac mali, il rosso più noto della Croazia, con cantine che fanno degustazioni. In alternativa c'è la gita in barca alle isole **Elafiti** (Koločep, Lopud e Šipan), oppure in Montenegro, alle **Bocche di Cattaro**, a due ore di strada con frontiera. Per Ston e Pelješac serve un'auto a noleggio per la giornata o un'escursione organizzata: i bus da Dubrovnik ci sono, ma con poche corse. *Chi guida e fa degustazioni deve ricordare il limite alcolemico croato e i controlli frequenti.*
 
-**In pratica:** Dubrovnik-Ston circa 1 ora in auto · mura di Ston con biglietto a pagamento, molto meno caro di quello di Dubrovnik, da verificare all'ingresso · ostriche nei locali sul porticciolo di Mali Ston · cantine di Pelješac meglio prenotate · Elafiti con battelli di linea Jadrolinija o gite organizzate dal porto di Gruž · per il Montenegro servono documento valido per l'espatrio e autorizzazione del noleggiatore.
+**In pratica:** Dubrovnik-Ston circa 1 ora in auto · mura di Ston con biglietto di circa 10 €, molto meno caro di quello di Dubrovnik · ostriche nei locali sul porticciolo di Mali Ston · cantine di Pelješac meglio prenotate · Elafiti con battelli di linea Jadrolinija o gite organizzate dal porto di Gruž · per il Montenegro servono documento valido per l'espatrio e autorizzazione del noleggiatore.
 
 ### Giorno 14 — Rientro da Dubrovnik
 L'aeroporto di Dubrovnik (Čilipi) è a circa 20 km a sud della città, con voli diretti per diverse città italiane in stagione. In alternativa c'è il traghetto notturno per Bari con Jadrolinija in alcuni periodi dell'anno. Chi ha il volo nel pomeriggio può usare la mattina per un ultimo giro in città vecchia all'apertura, quando lo Stradun è ancora vuoto, o per un bagno sugli scogli fuori dalle mura.
 
 L'aeroporto si raggiunge con il bus navetta che parte dalla stazione dei bus di Gruž e passa vicino alla Porta Pile, coordinato con i voli, oppure in taxi. *In alta stagione la strada costiera verso sud si intasa: conviene partire con largo margine, soprattutto nei giorni di cambio degli affitti.* Chi rientra in traghetto parte invece dal porto di Gruž la sera e arriva a Bari la mattina dopo, con la possibilità di portare l'auto.
 
-**In pratica:** Dubrovnik-aeroporto circa 30-40 minuti · navetta aeroportuale con biglietto da pochi euro, taxi decisamente più caro · traghetto per Bari con cabina o poltrona, da prenotare in anticipo e da verificare per date di esercizio · tassa di soggiorno spesso da pagare in contanti al check-out.
+**In pratica:** Dubrovnik-aeroporto circa 30-40 minuti · navetta aeroportuale Platanus con biglietto da circa 10 €, taxi decisamente più caro · traghetto per Bari con cabina o poltrona, da prenotare in anticipo e da verificare per date di esercizio · tassa di soggiorno spesso da pagare in contanti al check-out.
 
 ## Varianti
 **Una settimana.** Spalato (2 giorni con Traù), Hvar (2), Curzola (1) e Dubrovnik (2). Si arriva in aereo a Spalato e si riparte da Dubrovnik, senza auto.

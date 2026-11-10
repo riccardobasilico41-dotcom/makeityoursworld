@@ -29,6 +29,7 @@ Questo itinerario combina più viaggi in un unico percorso pratico: sono luoghi 
 - **Salute:** nessuna vaccinazione obbligatoria. Per Raja Ampat e la Papua passa da un ambulatorio di medicina dei viaggi prima di partire. Gli ospedali nella regione della Papua sono pochi: secondo gov.uk un'emergenza seria può richiedere l'evacuazione. Serve un'assicurazione che la copra.
 - **Sicurezza:** gov.uk invita alla prudenza nella regione della Papua, soprattutto in Highland Papua e Central Papua, lontane da Raja Ampat, che è nella provincia di Papua Barat Daya. Prima di partire controlla gli avvisi aggiornati su viaggiaresicuri.it.
 - **In mare:** le correnti di Raja Ampat sono forti e vanno rispettate sul serio. Certi punti si fanno solo negli orari giusti, con la guida.
+- **Dall'aeroporto al centro:** a **Bali (DPS)** non ci sono treni: al banco ufficiale dei taxi negli arrivi la tariffa è fissa per zona, circa 300.000-500.000 IDR per Ubud (1-1,5 ore), mentre Grab e Gojek, dalla zona di ritiro segnalata, costano circa 200.000-300.000 IDR; la soluzione più tranquilla è l'autista mandato dall'alloggio · chi offre «transport?» appena fuori dalla dogana non è ufficiale, e i cambiavalute fuori dalle banche spesso imbrogliano · a **Manado (MDC)** il centro è a circa mezz'ora e Grab funziona · a **Sorong (SOQ)** il porto dei traghetti per Waisai è a 10-15 minuti di taxi, prezzo da concordare prima.
 
 ## Itinerario giorno per giorno
 

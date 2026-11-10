@@ -22,6 +22,7 @@ What stayed with me most about the Lofoten was the light. In July the midnight s
 - **Climate:** cold, even in July, with wind especially on beaches and exposed trails.
 - **Logistics base:** two fixed stops (Svolvær and Nesland/Flakstad) from which to make day
   excursions.
+- **From the airport to the centre:** at **Oslo-Gardermoen (OSL)** the Flytoget reaches Oslo S in about 20 minutes (about 240-270 NOK, from the app, the machines or with a contactless card at the gates; trains from the early morning until after midnight) · Vy regional trains cover the same route in about 25 minutes for about half the price, ticket from the Ruter or Vy app: the usual mistake is paying for the Flytoget without noticing · taxi about 700-1,000 NOK, better at an agreed fixed price · at **Bodø (BOO)** the airport is about 1.5 km from the centre: buses 1 and 4 in 5-10 minutes (about 45 NOK, Reis Nordland app), taxi about 150-250 NOK, a quarter of an hour on foot; car rental is in the terminal.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Oslo
@@ -58,7 +59,7 @@ In the early afternoon we reached **Reine** (parking 200 NOK for three hours) fo
 
 We had dinner at **Ramberg Resort**, a couple of steps from Ramberg beach, and a walk on the sand after dinner closed the day nicely.
 
-**In practice:** Lofotr Viking Museum open every day in summer, a ticket of a few hundred kroner · Reinebringen: the steps are free, parking in Reine is paid; in rain the rock at the top is slippery · fill up in Leknes, further west there are few fuel stations
+**In practice:** Lofotr Viking Museum open every day in summer, a ticket of around 250 NOK in high season · Reinebringen: the steps are free, parking in Reine is paid; in rain the rock at the top is slippery · fill up in Leknes, further west there are few fuel stations
 
 ### Day 5 — Bunes Beach
 Breakfast at the house, sandwiches bought at the Coop Prix in Reine and the morning ferry to **Vindstad**: forty minutes of sailing among rock walls, among the most scenic stretches of the trip. Even with a reserved spot it's best to be at the pier half an hour early.

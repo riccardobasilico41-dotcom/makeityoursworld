@@ -32,6 +32,7 @@ And one rule applies to the whole trip, distilleries included. In Scotland the d
 - **Health:** the EHIC covers necessary treatment in the public health service; travel insurance is still recommended. In summer the Highlands have midges, harmless but annoying little flies: you need a repellent.
 - **Phone:** EU roaming doesn't apply in the United Kingdom. There are stretches with no signal: offline maps.
 - **Sockets:** type G. You need an adapter.
+- **From the airport to the centre:** you land at Edinburgh (EDI) · the tram reaches Princes Street and St Andrew Square in about 30-35 minutes, every 7-10 minutes by day, from about 5:00 to midnight, about £7.90 a ride, ticket from the machine at the stop before boarding · Lothian's Airlink 100 goes to Waverley in about half an hour, about £6, payable on board with a contactless card · taxi from the official rank, about £25-30 to the centre · Uber works from the signed pick-up area · the typical mistake is boarding the tram without a ticket: there are inspections and the fine is steep.
 
 ## Itinerario giorno per giorno
 

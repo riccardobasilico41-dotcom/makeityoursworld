@@ -16,6 +16,7 @@ Normandia e Bretagna sono due viaggi diversi messi in fila: uno storico e denso,
 - **Auto necessaria** per quasi tutto il percorso, salvo le città principali.
 - **Il Mont-Saint-Michel**: prima di partire conviene controllare il calendario delle grandi maree; meglio dormire nella baia che vederlo in giornata da lontano.
 - **Correnti di risacca** sulle spiagge atlantiche: un pericolo serio, non un avviso di forma.
+- **Dall'aeroporto al centro:** il giro parte da Rouen e l'aeroporto più comodo è **Parigi Charles de Gaulle (CDG)**, a circa 2 ore d'auto, dove conviene ritirare l'auto a noleggio · senza auto: RER B fino a Gare du Nord in circa 35 minuti, circa 13 € alle macchinette, metro per Saint-Lazare e treno per Rouen in circa 1h15-1h30, in tutto 2h30-3 ore · taxi ufficiale a forfait per Parigi circa 56-65 €, solo dalla fila segnalata: chi offre passaggi dentro il terminal è abusivo · alla fine del giro **Rennes (RNS)**, a poco più di un'ora da Vannes: bus C6 per il centro in circa 25 minuti, circa 2 €, oppure taxi in circa 15 minuti.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Rouen

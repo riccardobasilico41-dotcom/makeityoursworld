@@ -27,6 +27,7 @@ Después de la selva, el mar. Las playas de las Mentawai son preciosas, y Sipora
 - **Seguro:** obligatorio para la estancia con Mentawai Tribe, y debe cubrir la evacuación. Si el ferri de regreso se cancela una vez empezado el viaje, el operador no reembolsa.
 - **Efectivo:** fuera de las ciudades de Sumatra las tarjetas sirven poco. Conviene salir de Padang con el efectivo para las islas.
 - **Huso horario:** Sumatra y Mentawai están en WIB (UTC+7).
+- **Del aeropuerto al centro:** se aterriza en el Minangkabau International (PDG), unos 23 km al norte de Padang · el tren Minangkabau Ekspres va a Padang y a la estación de Pulau Air, cerca del puerto de los ferris a las Mentawai, en unos 40 minutos por unas 10.000 IDR, pero con pocas salidas al día: el horario se comprueba en la app KAI Access · autobús DAMRI a Padang, unas 25.000-30.000 IDR · Grab y Gojek desde la zona de recogida, unas 100.000-150.000 IDR al centro · a Bukittinggi coche privado, unas 500.000 IDR · hay que evitar a los conductores no autorizados que se ofrecen en llegadas: el precio se fija antes.
 
 ## Itinerario giorno per giorno
 

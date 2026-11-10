@@ -17,6 +17,7 @@ La Francia ha i comprensori collegati più grandi del mondo, costruiti da zero a
 - **Assicurazione soccorso piste**: in Francia è a pagamento, va comprata con lo skipass.
 - **Forfait online in anticipo**: costa meno che alla cassa.
 - **Sabato in alta stagione**: code lunghe in valle, meglio partire di domenica o molto presto.
+- **Dall'aeroporto al centro:** l'aeroporto più usato è Ginevra (GVA), che ha anche un settore francese comodo per noleggiare un'auto già attrezzata per la neve · per Chamonix, circa 1h15: navette condivise da circa 30-50 € a persona, transfer privato circa 200-270 € a vettura · per Tre Valli, Paradiski e Tignes-Val d'Isère, 2h30-3h30 secondo il traffico: bus Altibus per Moûtiers, Aime e Bourg-Saint-Maurice solo nella stagione invernale, poi bus locale, oppure transfer condiviso da circa 40-70 € a persona · alternative: Lione (LYS) e Torino (TRN) · l'errore classico è non prenotare: il sabato le navette sono piene.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Arrivo
@@ -45,7 +46,7 @@ Chi è in un comprensorio vicino può passare la giornata a **Chamonix**: la sal
 
 La **Vallée Blanche** parte da qui ed è una discesa fuoripista di una ventina di chilometri sui ghiacciai, adatta a sciatori sicuri sulle piste nere e da fare con una guida alpina, che porta corda e attrezzatura e conosce i crepacci. Si scende verso la Mer de Glace e si rientra con il trenino del Montenvers o sugli sci fino in paese, se la neve lo permette.
 
-**In pratica:** l'Aiguille du Midi costa qualche decina di euro andata e ritorno: meglio prenotare l'orario di salita online · la Vallée Blanche si prenota con una compagnia di guide di Chamonix, con giorni di riserva in caso di brutto tempo · chi non scia può scendere alla Mer de Glace con il trenino del Montenvers.
+**In pratica:** l'Aiguille du Midi costa circa 80-83 euro andata e ritorno: meglio prenotare l'orario di salita online · la Vallée Blanche si prenota con una compagnia di guide di Chamonix, con giorni di riserva in caso di brutto tempo · chi non scia può scendere alla Mer de Glace con il trenino del Montenvers.
 
 ### Giorno 5 — Sci libero
 Siamo tornati al comprensorio. Per chi vuole uscire dalla pista battuta, c'è mezza giornata di scialpinismo o di ciaspole in una valle laterale. La mattina si scia sulle piste, mentre il pomeriggio si dedica all'uscita: le scuole di sci e gli uffici delle guide organizzano mezze giornate di **scialpinismo** con attrezzatura a noleggio, e ciaspolate nei boschi e negli alpeggi vicini alle stazioni, adatte anche a chi non scia.

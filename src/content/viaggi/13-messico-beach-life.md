@@ -23,6 +23,7 @@ Se devo scegliere un solo momento per aprire questo racconto, scelgo lo squalo b
 - **Salute:** kit da viaggio base, un antidiarroico e un gastroprotettore per la classica «Traveller's belly», repellente antizanzare formula «jungle», soprattutto per la bioluminescenza serale a Punta Mosquito.
 - **Mance:** consigliato il 10-15% al ristorante e nelle attività in mare (snorkeling, tour in barca).
 - **Budget attività extra:** diverse esperienze (Temazcal, tour in barca a Bacalar, snorkeling, escursione allo squalo balena, tour delle 3 Islas) si pagano direttamente in loco; alla cassa dei siti principali (per esempio Chichén Itzá e il cenote Ik Kil) spesso si salda con carta/Revolut.
+- **Dall'aeroporto al centro:** da **Cancún (CUN)** il bus ADO porta al terminal del Downtown in circa 30-40 minuti (circa 140 MXN) e va anche a Playa del Carmen e Tulum; biglietti al banco ADO degli arrivi, con la carta, o su ado.com.mx, corse fino a sera inoltrata · taxi e van ufficiali a tariffa fissa, circa 30-35 dollari per il Downtown e di più per la Zona Hotelera · Uber in aeroporto è osteggiato dai tassisti e non va dato per scontato · all'uscita, nel corridoio dei venditori, chi offre «transfer» spesso vende multiproprietà: si tira dritto · il cambio in aeroporto è sfavorevole, meglio un bancomat di una banca.
 
 ## Itinerario giorno per giorno
 

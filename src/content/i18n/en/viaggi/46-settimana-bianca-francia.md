@@ -17,6 +17,7 @@ France has the largest linked ski areas in the world, built from scratch startin
 - **Piste rescue insurance**: in France rescue is paid for, so buy it with the ski pass.
 - **Lift pass online in advance**: it costs less than at the ticket office.
 - **Saturday in high season**: long queues in the valley, so it's better to leave on Sunday or very early.
+- **From the airport to the centre:** the most used airport is Geneva (GVA), which also has a French sector, handy for renting a car already fitted for snow · for Chamonix, about 1h15: shared shuttles from about €30-50 per person, private transfer about €200-270 per vehicle · for Les 3 Vallées, Paradiski and Tignes-Val d'Isère, 2h30-3h30 depending on traffic: Altibus coaches to Moûtiers, Aime and Bourg-Saint-Maurice only in the winter season, then a local bus, or a shared transfer from about €40-70 per person · alternatives: Lyon (LYS) and Turin (TRN) · the classic mistake is not booking: on Saturdays the shuttles are full.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Arrival
@@ -45,7 +46,7 @@ If you're in a nearby ski area you can spend the day in **Chamonix**: the ride u
 
 The **Vallée Blanche** starts here: an off-piste descent of about twenty kilometers across glaciers, for skiers confident on black runs and to be done with a mountain guide, who brings rope and gear and knows the crevasses. You descend toward the Mer de Glace and return on the Montenvers train, or on skis all the way to town if the snow allows.
 
-**In practice:** the Aiguille du Midi costs a few tens of euros return: book your ascent time online · book the Vallée Blanche with a Chamonix guiding company, with spare days in case of bad weather · non-skiers can go down to the Mer de Glace on the Montenvers train.
+**In practice:** the Aiguille du Midi costs about €80-83 return: book your ascent time online · book the Vallée Blanche with a Chamonix guiding company, with spare days in case of bad weather · non-skiers can go down to the Mer de Glace on the Montenvers train.
 
 ### Day 5 — Free skiing
 We went back to the ski area. For anyone who wants to leave the groomed runs, there's half a day of ski touring or snowshoeing in a side valley. The morning is for skiing on piste, the afternoon for the outing: ski schools and guides' offices run half days of **ski touring** with rental gear, and snowshoe walks in the woods and pastures near the resorts, suitable for non-skiers too.

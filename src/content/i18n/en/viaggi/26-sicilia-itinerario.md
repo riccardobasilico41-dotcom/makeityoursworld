@@ -20,6 +20,7 @@ Sicily is systematically undersized at the planning stage: on the map it looks l
 - **Food:** Sicily has two cuisines, one for each side. In the east fish and pasta prevail: **pasta alla Norma** in Catania, **sea urchins** in Syracuse, swordfish in the Strait. Sweets are a chapter of their own: **cannoli filled to order and never before**, cassata and **granita with a brioche col tuppo for breakfast**, which in summer is the right way to start the day (and it's made with water, sugar and fruit, not with cream).
 - **Wine:** Etna Rosso from Nerello Mascalese, Nero d'Avola, Carricante for the whites. Etna wineries are visited **by appointment**.
 - **Guidance:** the interior (Enna, Piazza Armerina, the Madonie) is where Sicily is most itself and least touristy, and almost everyone skips it to stay on the coast.
+- **From the airport to the centre:** **Catania Fontanarossa (CTA)** is about 5 km from the centre. **Alibus** AMTS to the central station and the centre in 20-30 minutes, €4 (ticket valid 90 minutes, on board, at the airport or in the app), running from about 4:40am to half past midnight · **train** from Catania Aeroporto Fontanarossa station, linked to the terminal by a shuttle, to Catania Centrale in a few minutes · **taxi** about €20-30 to the centre, best to ask the price before getting in · Etna Trasporti and Interbus coaches to Taormina and Siracusa · many rental agencies are in outside car parks, reached by their shuttles: the same goes for the return.
 
 ## Itinerario giorno per giorno
 

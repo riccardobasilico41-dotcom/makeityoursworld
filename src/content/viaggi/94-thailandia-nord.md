@@ -24,6 +24,7 @@ Il giro sale da Bangkok con il treno notturno, si ferma quasi una settimana a Ch
 - **Confini:** il Triangolo d'oro è sul confine con il Laos e il Myanmar. La situazione in Myanmar è imprevedibile e può cambiare senza preavviso; non tutti i valichi con il Laos sono aperti agli stranieri. In questo giro il confine si guarda dalla riva thailandese, non si attraversa.
 - **Templi:** spalle e ginocchia coperte, scarpe fuori dalle sale. Un pareo nello zaino risolve quasi tutto.
 - **Elefanti:** niente cavalcate, niente spettacoli, niente bagni con i turisti. La sezione dedicata è più sotto.
+- **Dall'aeroporto al centro:** da **Bangkok Suvarnabhumi (BKK)** l'Airport Rail Link arriva a Phaya Thai in circa 26 minuti (fino a 45 THB, gettone alle macchinette del piano interrato, dalle 6 a mezzanotte circa) · taxi pubblici dal banco ufficiale al piano 1, a ogni ora: tassametro più 50 THB di supplemento aeroportuale e i pedaggi, circa 300-450 THB per il centro · Grab circa 380-550 THB, con ritiro al piano 4 · chi negli arrivi propone una tariffa fissa senza tassametro di solito chiede il doppio · a **Chiang Rai (CEI)**, per la partenza, il centro è a circa un quarto d'ora in Grab o taxi.
 
 ## Itinerario giorno per giorno
 
@@ -39,7 +40,7 @@ La mattina presto il **Grand Palace** con il Wat Phra Kaew, il tempio del Buddha
 
 In serata si va alla stazione **Krung Thep Aphiwat**, la nuova stazione centrale dove partono i treni a lunga percorrenza, non più la vecchia Hua Lamphong. I treni notturni per Chiang Mai impiegano tra le 12 e le 14 ore. I posti letto si prenotano sul sito ufficiale delle ferrovie, dticket.railway.co.th, e nei periodi di festa thailandesi possono finire settimane prima. Le cuccette di seconda classe con aria condizionata sono il compromesso più comune: il personale prepara i letti dopo la partenza. *Chi ha poco tempo prende un volo interno per Chiang Mai e guadagna mezza giornata, ma perde la notte in treno.*
 
-**In pratica:** Grand Palace circa 500 baht, aperto dalle 8.30 con ultimo ingresso nel primo pomeriggio, a volte chiuso per cerimonie reali · Wat Pho e Wat Arun biglietti a parte, poche centinaia di baht · traghetto sul fiume pochi baht · cena e acqua da portare in treno.
+**In pratica:** Grand Palace circa 500 baht, aperto dalle 8.30 con ultimo ingresso nel primo pomeriggio, a volte chiuso per cerimonie reali · Wat Pho circa 300 baht e Wat Arun circa 200, biglietti a parte e solo in contanti · traghetto sul fiume pochi baht · cena e acqua da portare in treno.
 
 ### Giorno 3 — Chiang Mai: arrivo e città vecchia
 Si arriva la mattina. Dalla stazione di Chiang Mai alla **città vecchia** ci si sposta con un songthaew rosso, il pick-up con le panche che fa da taxi collettivo, o con Grab. La città vecchia è chiusa in un fossato quadrato e si gira a piedi o in bicicletta. Conviene lasciare i bagagli in hotel, fare colazione e cominciare i templi nelle ore meno calde.
@@ -109,7 +110,7 @@ Una giornata con un autista o un tour verso il **Triangolo d'oro**, a nord-est d
 
 Sulla via del ritorno, **Chiang Saen**, una cittadina sul Mekong con le mura e le rovine di templi antichi. Il confine si guarda, non si attraversa. L'ordine migliore è partire presto, fare prima il museo, che chiede un paio d'ore, poi il belvedere e il pranzo sul fiume, e chiudere a Chiang Saen nel pomeriggio, quando la luce sui mattoni dei templi è più calda. *Lungo il fiume si propongono gite in barca e visite all'isola-mercato laotiana: con i confini in questa situazione, meglio restare sulla riva thailandese.*
 
-**In pratica:** circa un'ora e mezza d'auto da Chiang Rai al Triangolo d'oro · Hall of Opium chiusa il lunedì, biglietto di qualche centinaio di baht · autista per la giornata da prenotare in hotel · passaporto con sé, ci sono controlli lungo le strade di confine.
+**In pratica:** circa un'ora e mezza d'auto da Chiang Rai al Triangolo d'oro · Hall of Opium chiusa il lunedì, biglietto circa 200 baht per gli stranieri · autista per la giornata da prenotare in hotel · passaporto con sé, ci sono controlli lungo le strade di confine.
 
 ### Giorno 13 — Volo da Chiang Rai a Bangkok e rientro
 Volo dall'aeroporto di Chiang Rai a Bangkok e coincidenza con il volo intercontinentale, con qualche ora di margine tra i due. L'aeroporto di Chiang Rai è a pochi chilometri dal centro e si raggiunge in Grab o taxi in un quarto d'ora; il volo per Bangkok dura poco più di un'ora. *Vale la pena controllare sul biglietto se si atterra a Suvarnabhumi (BKK) o a Don Mueang (DMK): sono due aeroporti diversi e lontani tra loro, e il trasferimento tra uno e l'altro richiede almeno un'ora.*

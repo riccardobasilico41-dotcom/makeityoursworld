@@ -46,6 +46,7 @@ Es adecuado para quien conduce a gusto muchas horas, para parejas, amigos y fami
 - **Cadenas para nieve:** en la Sierra Nevada, de octubre a abril, pueden ser obligatorias; muchos contratos prohíben su uso, así que en los días de nieve mejor no subir.
 - **Combustible:** aproximadamente 4,8-5,8 $ el galón (3,8 litros), más caro dentro de los parques y a lo largo de Big Sur. Se llena el depósito antes de Death Valley y antes de Big Sur.
 - **Conducción:** límites de velocidad que respetar, y hay controles; giro a la derecha con el semáforo en rojo permitido tras el stop salvo señal en contra, autobuses escolares parados que no se adelantan.
+- **Del aeropuerto al centro:** **San Francisco (SFO)**. · **BART** desde la estación de la terminal internacional hasta Powell Street o Embarcadero: unos 11 $, unos 30 minutos, con la tarjeta Clipper (también en el móvil), último tren hacia medianoche · **Uber/Lyft**: unos 40-60 $ hasta Union Square, desde el punto de recogida que indica la app · **taxi** con taxímetro: unos 55-70 $ · el coche de alquiler se recoge en el Rental Car Center, al que se llega con el AirTrain gratuito · el error que hay que evitar es dejar equipaje a la vista en el coche aparcado en la ciudad: en San Francisco los robos rompiendo la ventanilla son frecuentes.
 
 ### Presupuesto: las partidas que sorprenden
 - **Impuestos y propinas:** a los precios se suman en torno al 7-10 % de impuestos sobre las ventas y, en el restaurante, el 18-20 % de propina. En los hoteles a menudo una tasa turística o una «resort fee» por noche.

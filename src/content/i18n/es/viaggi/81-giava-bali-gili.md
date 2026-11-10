@@ -25,6 +25,7 @@ Bali la recorro lejos del sur. Duermo hacia el interior, en Munduk y en Ubud, y 
 - **Salud:** ninguna vacuna obligatoria. Se aconsejan hepatitis A y B y tifoidea, a valorar con el médico de viajes. Agua siempre embotellada.
 - **Electricidad:** 230 V, enchufes de tipo C y F: los enchufes europeos entran.
 - **Nyepi:** el Año Nuevo balinés (marzo, fecha variable) paraliza la isla durante 24 horas y cierra el aeropuerto. Si cae en tus fechas, hay que mover el bloque de Bali.
+- **Del aeropuerto al centro:** se aterriza en **Yakarta Soekarno-Hatta (CGK)** y se sigue con el vuelo interno: el Skytrain gratuito une las terminales, pero con la inmigración hace falta un margen amplio. **Yogyakarta (YIA)** está en la costa, a unos 45 km de la ciudad: **tren KA Bandara** hasta la estación Tugu, unos 40 minutos, unos 20.000 IDR (unos 50.000 el más rápido YIA Xpress), billete en la estación o en la app Access by KAI; autobús **DAMRI** unos 80.000 IDR; Grab, Gojek o taxi unos 250.000-350.000 IDR, más de una hora. **Bali (DPS)**, desde donde se vuelve: taxi del mostrador oficial a precio fijo, unos 150.000-250.000 IDR hasta Kuta y 300.000-450.000 hasta Ubud; Grab y Gojek cuestan menos, pero solo desde el punto de recogida que indica la app · hay que ignorar a los conductores que se ofrecen a la salida.
 
 ## Itinerario giorno per giorno
 

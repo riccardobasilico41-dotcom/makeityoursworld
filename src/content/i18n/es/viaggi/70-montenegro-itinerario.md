@@ -24,6 +24,7 @@ Este itinerario junta las dos almas del país. La costa, con la **bahía de Koto
 - **Electricidad:** 230V, enchufes de tipo C y F, como en Italia.
 - **Huso horario:** el mismo que Italia, con el horario de verano.
 - **Idioma:** montenegrino (muy cercano al serbio, al croata y al bosnio), escrito en alfabeto latino y cirílico. El inglés se habla en el sector turístico; el italiano se oye a menudo en la costa.
+- **Del aeropuerto al centro:** en Tivat (TIV) se recoge el coche de alquiler; si no, taxi a Kotor en unos 15-20 minutos, unos 15-20 €, mientras que la parada de los autobuses de línea está en la carretera principal, a unos 200 metros de la terminal · en Podgorica (TGD) no hay autobuses regulares: taxi al centro en unos 15 minutos, unos 15-25 €, a Kotor o Tivat unos 60-80 € · Uber y Bolt no operan en el país: el precio se acuerda antes de subir, o se llama a una compañía de taxis con taxímetro · hay que evitar los taxis parados delante de la salida de llegadas, normalmente los más caros.
 
 ## Itinerario giorno per giorno
 
@@ -46,7 +47,7 @@ Doce kilómetros por la orilla nos llevaron a **Perast**, un pueblo barroco de u
 
 Por la tarde seguimos la vuelta a la bahía en coche: **Risan**, con los mosaicos romanos de una villa del siglo II, luego el estrecho paso de **Verige** y el **ferri de Kamenari-Lepetane**, cinco minutos de travesía que evitan la vuelta completa a la bahía, hasta la península de Luštica y **Tivat**, con el puerto deportivo de Porto Montenegro. Al anochecer volvimos a Kotor por la otra orilla.
 
-**En la práctica:** barca a Nuestra Señora de las Rocas pocos euros por persona ida y vuelta, pequeña ofrenda para el museo de la iglesia · en Perast el coche se deja en los aparcamientos de la entrada del pueblo · ferri de Kamenari unos 5 € por coche, peatones gratis, abierto de día y de noche, colas largas por las tardes de verano.
+**En la práctica:** barca a Nuestra Señora de las Rocas unos 5 € por persona ida y vuelta desde el paseo marítimo de Perast, pequeña ofrenda para el museo de la iglesia · en Perast el coche se deja en los aparcamientos de la entrada del pueblo · ferri de Kamenari unos 5 € por coche, peatones gratis, abierto de día y de noche, colas largas por las tardes de verano.
 
 ### Día 4 — Las curvas del Lovćen, Njeguši y Cetinje
 La carretera que sube de Kotor hacia el **Lovćen** es una de las más espectaculares de los Balcanes: veinticinco curvas cerradas sobre la pared de la montaña, con la bahía cada vez más pequeña abajo. Arriba está **Njeguši**, el pueblo donde se producen el jamón curado ahumado (pršut) y el queso de montaña, que se prueban en una de las trattorie junto a la carretera. Seguimos en el parque nacional hasta el **mausoleo de Njegoš**, en la cima del Jezerski vrh a 1.657 metros, al que se llega por un túnel y 461 escalones: desde la terraza, en los días despejados, se ven el mar, el lago Skadar y Albania.
@@ -114,7 +115,7 @@ Con un vuelo por la tarde, la mañana basta para un paseo a pie: se sale de la *
 ## Cómo moverse
 - **Coche de alquiler:** la mejor solución. Se recoge en Tivat o Podgorica, aproximadamente 30-60 € al día en verano, menos en temporada baja. Para salir del país (Croacia, Bosnia, Albania) hacen falta la autorización escrita de la empresa de alquiler y la **carta verde**, con un suplemento orientativo de 30-60 € por alquiler, hasta 100 € con algunas compañías para Albania. Algunas empresas locales no permiten Albania. En el coche hace falta el permiso de circulación original, también para los coches de alquiler: con la fotocopia te rechazan.
 - **Normas de conducción:** luces encendidas también de día todo el año, límite de alcohol 0,3 g/l (cero para los conductores noveles), cinturón obligatorio, teléfono prohibido al volante. A bordo triángulo, botiquín, chaleco reflectante y bombillas de repuesto; del 15 de noviembre al 31 de marzo cadenas o neumáticos de invierno. Límites de velocidad bajos y controles frecuentes, con multas que se pagan en el lugar o en el banco.
-- **Carreteras:** la costera entre Herceg Novi y Ulcinj es lenta y con tráfico en verano. El túnel de Sozina (entre Virpazar y Bar) y el tramo de autopista Smokovac-Mateševo, hacia el norte, son de peaje, pocos euros. Las carreteras de montaña son estrechas, con curvas y pocos quitamiedos: se viaja solo de día.
+- **Carreteras:** la costera entre Herceg Novi y Ulcinj es lenta y con tráfico en verano. El túnel de Sozina (entre Virpazar y Bar) y el tramo de autopista Smokovac-Mateševo, hacia el norte, son de peaje: unos 2,50 € el túnel y 3,50 € la autopista en coche. Las carreteras de montaña son estrechas, con curvas y pocos quitamiedos: se viaja solo de día.
 - **Ferri de Kamenari-Lepetane:** cruza el punto más estrecho de la bahía en cinco minutos, unos 5 € por coche, de día y de noche. Evita la vuelta a la bahía a quien llega de Herceg Novi o de Croacia y va hacia Tivat y Budva.
 - **Sin coche:** autobuses frecuentes entre Kotor, Budva, Podgorica y Herceg Novi; autobuses y un tren para Podgorica-Bar y para el norte (Kolašin). Para el Durmitor, Ostrog y el lago hacen falta tours organizados o un conductor.
 - **Desde Italia por mar:** el ferri nocturno **Bari-Bar** en los últimos años ha navegado solo en verano, y según Viaggiare Sicuri en el verano de 2026 no hay conexiones directas entre Italia y Montenegro. Quien viaja con su propio coche pasa por Durrës, en Albania, o por Croacia.
@@ -144,7 +145,7 @@ Precios por persona en habitación doble, vuelos excluidos (de Italia a Tivat o 
 - **Gama económica (50-70 € al día):** casas de huéspedes y apartamentos, cocina local, coche compartido.
 - **Gama media (90-140 € al día):** pequeños hoteles junto al mar y en la montaña, cenas en konoba, excursiones en barca y rafting.
 - **Gama alta (desde 200 € al día):** resorts de Luštica y Porto Montenegro, hoteles de diseño en Kotor y Budva.
-- **Partidas principales:** coche 30-60 € al día; murallas de Kotor unos 15 €; ferri de Kamenari unos 5 € por el coche; parques nacionales 3-5 € cada uno, mausoleo de Njegoš unos 8 €; barca a Nuestra Señora de las Rocas pocos euros; paseo en barca por el lago 15-30 €; rafting 50-80 €; una comida en una konoba 15-30 €.
+- **Partidas principales:** coche 30-60 € al día; murallas de Kotor unos 15 €; ferri de Kamenari unos 5 € por el coche; parques nacionales 3-5 € cada uno, mausoleo de Njegoš unos 8 €; barca a Nuestra Señora de las Rocas unos 5 €; paseo en barca por el lago 15-30 €; rafting 50-80 €; una comida en una konoba 15-30 €.
 
 ## Timos comunes y seguridad
 - **El país es seguro** para los turistas, según Viaggiare Sicuri, a pesar de la presencia de grupos criminales locales que se ajustan las cuentas entre ellos. Los problemas más comunes son tirones y pequeños hurtos en las localidades concurridas de la costa en verano, sobre todo en la playa, y coches abiertos dejados con objetos a la vista. El país tiene riesgo sísmico y en verano hay incendios.

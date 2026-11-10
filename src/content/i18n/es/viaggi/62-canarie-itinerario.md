@@ -21,6 +21,7 @@ Siete islas en total, de las que este itinerario cubre tres (Tenerife, Gran Cana
 - **Vuelos interiores entre las islas:** Binter Canarias y Canaryfly cubren los trayectos entre las islas en 30-45 minutos. La alternativa es el ferri, más lento (1 h 30-2 h 30) pero útil si se viaja con un coche alquilado en una sola isla.
 - **Coche de alquiler:** recomendado en cada isla para llegar a los parques nacionales y a las zonas rurales; se devuelve y se vuelve a alquilar en cada cambio de isla, salvo paquetes multiisla específicos.
 - **Electricidad y moneda:** euro, enchufes de tipo C/F idénticos a los italianos.
+- **Del aeropuerto al centro:** a **Tenerife Sur (TFS)** llega la mayoría de los vuelos desde Italia, a **Tenerife Norte (TFN)**, cerca de La Laguna, sobre todo los interinsulares; las guaguas de TITSA conectan los dos (billete a bordo o tarjeta Ten+), y la línea 343 va de Sur a Norte y sigue hasta Puerto de la Cruz, unos 10 € · desde **Gran Canaria (LPA)** la línea 60 de Global llega a Las Palmas en unos 30 minutos, unos 3 € · desde **Lanzarote (ACE)** Arrecife está a 10 minutos, unos 15 € en taxi · taxis con taxímetro solo desde la parada oficial · en cada isla la opción más práctica sigue siendo el coche de alquiler recogido en el aeropuerto.
 
 ## Itinerario giorno per giorno
 

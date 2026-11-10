@@ -22,6 +22,7 @@ Delle Lofoten mi è rimasta addosso prima di tutto la luce. A luglio il sole di 
 - **Clima:** freddo, anche a luglio, con vento soprattutto su spiagge e sentieri esposti.
 - **Base logistica:** due tappe fisse (Svolvær e Nesland/Flakstad) da cui fare escursioni
   in giornata.
+- **Dall'aeroporto al centro:** a **Oslo-Gardermoen (OSL)** il Flytoget porta a Oslo S in circa 20 minuti (circa 240-270 NOK, dall'app, alle macchinette o con la carta contactless ai tornelli; corse dalle prime ore del mattino fino a dopo mezzanotte) · i regionali Vy fanno la stessa tratta in circa 25 minuti a circa metà prezzo, biglietto dall'app Ruter o Vy: l'errore tipico è pagare il Flytoget senza accorgersene · taxi circa 700-1.000 NOK, meglio a prezzo fisso concordato · a **Bodø (BOO)** l'aeroporto è a circa 1,5 km dal centro: bus 1 e 4 in 5-10 minuti (circa 45 NOK, app Reis Nordland), taxi circa 150-250 NOK, a piedi un quarto d'ora; il noleggio auto è nel terminal.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Oslo
@@ -58,7 +59,7 @@ Nel primo pomeriggio siamo arrivati a **Reine** (parcheggio 200 NOK per tre ore)
 
 Abbiamo cenato al **Ramberg Resort**, a due passi dalla spiaggia di Ramberg, e una passeggiata sulla sabbia dopo cena ha chiuso bene la giornata.
 
-**In pratica:** Lofotr Viking Museum aperto tutti i giorni in estate, biglietto di qualche centinaio di corone · Reinebringen: scale gratuite, parcheggio a pagamento a Reine; con pioggia la roccia in cima scivola · fare il pieno a Leknes, più a ovest i distributori sono pochi
+**In pratica:** Lofotr Viking Museum aperto tutti i giorni in estate, biglietto intorno ai 250 NOK in alta stagione · Reinebringen: scale gratuite, parcheggio a pagamento a Reine; con pioggia la roccia in cima scivola · fare il pieno a Leknes, più a ovest i distributori sono pochi
 
 ### Giorno 5 — Spiaggia di Bunes
 Colazione in casa, panini comprati alla Coop Prix di Reine e il traghetto del mattino per **Vindstad**: quaranta minuti di navigazione tra pareti di roccia, tra i tratti più scenografici del viaggio. Anche con il posto prenotato conviene essere al molo mezz'ora prima.

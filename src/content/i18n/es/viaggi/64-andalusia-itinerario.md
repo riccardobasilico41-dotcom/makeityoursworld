@@ -22,6 +22,7 @@ Nueve días bastan para hacer las cuatro paradas a un ritmo humano, sin las pris
 - **Flamenco, cómo elegirlo:** los tablaos más turísticos tienden a espectáculos estandarizados y amplificados para grandes grupos; los más pequeños y sin amplificación, a menudo en Triana (Sevilla) o en las casas-cueva del Sacromonte (Granada), devuelven algo más cercano a la tradición. El precio no siempre es garantía de autenticidad.
 - **El calor:** incluso en la ventana recomendada (marzo-mayo, septiembre-octubre) las horas centrales en Sevilla y Córdoba pueden ser pesadas: conviene programar los monumentos al aire libre a primera hora de la mañana o a última de la tarde.
 - **Electricidad y moneda:** euro, enchufes de tipo C/F idénticos a los de Italia. Ninguna sorpresa en este aspecto.
+- **Del aeropuerto al centro:** en Sevilla San Pablo (SVQ) el autobús EA de Tussam va a Santa Justa, Prado de San Sebastián y Plaza de Armas en unos 35 minutos, cada 20-30 minutos de las 5:20 a la 1:15 aproximadamente, unos 4 €, que se pagan a bordo también con tarjeta contactless · taxi con tarifa fija al centro, unos 25 € de día y 28 € de noche y en festivos · Uber, Cabify y Bolt funcionan · saliendo desde Málaga (AGP), el Cercanías C1 une María Zambrano y el centro en unos 12 minutos, unos 2 €, cada 20 minutos; el autobús A Express cuesta unos 4 €, el taxi unos 20-25 € · para evitar sorpresas, conviene comprobar siempre que el taxi aplique la tarifa fija.
 
 ## Itinerario giorno per giorno
 
@@ -57,7 +58,7 @@ Por la mañana estuvimos en el **Alcázar de los Reyes Cristianos** y en el **Pu
 
 A primera hora de la tarde, tren directo de alta velocidad hacia **Granada** (alrededor de una hora y media). Conviene reservarlo con antelación: no hay muchas salidas, y la estación de Granada está a unos veinte minutos a pie del centro. La noche sirvió para situarse, con una primera vuelta por el centro en torno a la Catedral. Al lado está la **Capilla Real**, donde están enterrados Isabel y Fernando. *En Granada la tapa llega gratis con cada bebida: dos o tres bares ya son una cena.*
 
-**En la práctica:** Alcázar de los Reyes Cristianos cerrado los lunes, entrada de pocos euros · festival de los Patios en la primera quincena de mayo, entrada libre en la mayoría de las casas · reservar el tren directo a Granada en Renfe o en las compañías privadas de alta velocidad.
+**En la práctica:** Alcázar de los Reyes Cristianos cerrado los lunes, entrada de unos 7 € · festival de los Patios en la primera quincena de mayo, entrada libre en la mayoría de las casas · reservar el tren directo a Granada en Renfe o en las compañías privadas de alta velocidad.
 
 ### Día 5 — Granada: la Alhambra y el Generalife
 El día fue casi entero para la **Alhambra**: los **Palacios Nazaríes** con el Patio de los Leones y el Salón de Embajadores (acceso ligado a la franja horaria de la entrada), la **Alcazaba**, la fortaleza más antigua del conjunto, y el **Generalife**, los jardines de verano de los sultanes con sus fuentes escondidas. Para la reserva, obligatoria con mucha antelación, hay una ficha de experiencia dedicada.

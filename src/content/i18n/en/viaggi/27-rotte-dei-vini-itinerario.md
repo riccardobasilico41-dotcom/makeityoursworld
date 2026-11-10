@@ -20,6 +20,7 @@ Italy is the world's largest wine producer and has over five hundred catalogued 
 - **Buying:** at the winery the price is the production price and you talk with whoever made the wine. **Don't buy in a wine shop what you can buy at the winery.** It's worth bringing something to protect the bottles during the trip.
 - **At the tasting:** no strong perfumes, which interfere. And there's no need to pretend to know: producers explain far more willingly to someone curious than to someone acting.
 - **Where to eat:** the **osterie affiliated with the consortia** have the complete local wine lists at prices close to winery prices. It's the right place.
+- **From the airport to the centre:** for the Langhe the handiest airport is **Turin Caselle (TRN)**, and that is where to pick up the rental car: Alba is about 1 hour 15 minutes away by road. For anyone going into Turin first: regional train to the city, about €3.70, ticket in the Trenitalia app or at the machine, last run around 10:30pm · Arriva bus to Porta Nuova, about 45-50 minutes · taxi about €40-50. The trip ends at **Florence Peretola (FLR)**: T2 tram to Santa Maria Novella, about €1.70, about 20 minutes; fixed-fare taxi to the centre about €28, with supplements for night, holidays and luggage · in Florence the mistake to avoid is driving into the ZTL to return the rental car.
 
 ## Itinerario giorno per giorno
 

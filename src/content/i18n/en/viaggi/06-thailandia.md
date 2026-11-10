@@ -21,6 +21,7 @@ I've seen Bangkok many times over the years, and each time I discovered somethin
   10:00 p.m. they don't sell alcohol (national law, applies everywhere).
 - **Useful apps:** Line (more used than WhatsApp to communicate with locals),
   Grab (taxi/moto-taxi in all the main cities).
+- **From the airport to the centre:** from **Suvarnabhumi (BKK)** the **Airport Rail Link** reaches Phaya Thai, on the BTS, in about 27 minutes, 15-45 baht, from 5:30 to midnight · metered taxis only from the kiosks on level 1, plus a 50 baht surcharge and the tolls: about 300-500 baht, 30-60 minutes · Grab from the point shown in the app. From **Don Mueang (DMK)**: SRT Red Line train to Krung Thep Aphiwat, about 20 baht, then the MRT; bus A1 to Mo Chit, about 30 baht; or a taxi or Grab. Anyone in arrivals offering a "fixed-price" taxi is almost always asking double: insist on the meter.
 - **Luggage:** light backpack, long pants for Bangkok's rooftop bars
   (dress code) and for temples (in some, covering shoulders and
   knees is mandatory; sarongs and cloths can often be rented or bought
@@ -86,7 +87,7 @@ We took the ferry in the morning from Ao Nopparat Thara Pier (check-in half an h
 
 For dinner, the Dow Restaurant or the ACQUA Restaurant. The evening is at the Backpacker Bar or the Reggae Bar, where the amateur Muay Thai fights are great fun to watch. Koh Phi Phi has no roads for cars: from the pier to the hotels you walk or use the porters' carts, so bring luggage that's easy to carry. On arrival at the pier you pay a small island entry fee. *If you have time, climb to the **viewpoint** above Tonsai, about half an hour of steps, to see the two bays almost touching: it's best at sunset, but bring water.* **Maya Bay** can only be visited with capped access and no swimming.
 
-**In practice:** ferry from Ao Nopparat Thara, check-in half an hour before · small entry fee at Tonsai pier, in cash · viewpoint ticket of a few dozen baht · book dives the day before · Tonsai is very noisy at night: if you want to sleep, pick a hotel away from the bars.
+**In practice:** ferry from Ao Nopparat Thara, check-in half an hour before · entry fee at Tonsai pier of about 20 baht, in cash · viewpoint ticket of about 30-50 baht · book dives the day before · Tonsai is very noisy at night: if you want to sleep, pick a hotel away from the bars.
 
 ### Day 9 — Koh Phi Phi-Krabi
 We took the return ferry in the early afternoon; it docks at Ao Nopparat Thara or Klong Jirat, depending on the operator. Dinner at the Reeve Beach Club Krabi, with the evening fire show.

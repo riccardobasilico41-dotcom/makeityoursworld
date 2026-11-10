@@ -26,6 +26,7 @@ I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaky, a 
 - **Time zone:** UTC-5 all year, the same along the whole itinerary: 7 hours behind Italy during daylight saving time, 6 in winter.
 - **Holidays:** Inti Raymi, on June 24 in Cusco, is the most important event of the year: the city is full and prices skyrocket, so book well ahead if your dates coincide.
 - **Two-part structure:** this itinerary is written as a single thirty-one-day story, but works just as well split in half: the details are in the note between Day 17 and Day 18.
+- **From the airport to the centre:** at **Lima Jorge Chávez (LIM)**, with the new terminal opened in 2025, Miraflores and Barranco are 45-90 minutes away depending on traffic. **Airport Express Lima** bus to Miraflores, about 25-30 soles, ticket at the desk in arrivals or online · **official taxi** from the desks inside the terminal, about 60-90 soles · **Uber, Cabify and inDrive** from the pickup zone shown in the app, usually cheaper · never the drivers who offer rides at the exit: it's the most concrete risk of the trip · at **Cusco (CUZ)** the airport is in town: official taxi or app in 15-20 minutes, about 20-40 soles.
 
 ## Itinerario giorno per giorno
 

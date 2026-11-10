@@ -46,6 +46,7 @@ La California però va organizzata. I parchi più famosi dal 2026 fanno pagare a
 - **Catene da neve:** in Sierra Nevada, da ottobre ad aprile, possono essere obbligatorie; molti contratti ne vietano l'uso, quindi nei giorni di neve meglio non salire.
 - **Carburante:** indicativamente 4,8-5,8 $ al gallone (3,8 litri), più caro dentro i parchi e lungo Big Sur. Si fa il pieno prima di Death Valley e prima di Big Sur.
 - **Guida:** limiti di velocità da rispettare, e i controlli ci sono; svolta a destra con il rosso consentita dopo lo stop salvo cartello contrario, scuolabus fermi da non sorpassare.
+- **Dall'aeroporto al centro:** **San Francisco (SFO)**. · **BART** dalla stazione del terminal internazionale fino a Powell Street o Embarcadero: circa 11 $, circa 30 minuti, con la tessera Clipper (anche sul telefono), ultima corsa intorno a mezzanotte · **Uber/Lyft**: circa 40-60 $ fino a Union Square, dal punto di ritiro indicato dall'app · **taxi** col tassametro: circa 55-70 $ · l'auto a noleggio si ritira al Rental Car Center, raggiungibile con l'AirTrain gratuito · l'errore da evitare è lasciare bagagli in vista nell'auto parcheggiata in città: i furti dai finestrini a San Francisco sono frequenti.
 
 ### Budget: le voci che sorprendono
 - **Tasse e mance:** ai prezzi si aggiungono circa il 7-10 % di tasse sulle vendite e, al ristorante, il 18-20 % di mancia. Negli hotel spesso una tassa di soggiorno o una «resort fee» a notte.

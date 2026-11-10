@@ -19,7 +19,7 @@ The islands are the second half, and they need a rule: **they're not interchange
 - **When to go:** **May-June and mid-September to early October.** July and August are saturated on every front (road, ferries, prices, beaches), and in August the ratio between what you spend and what you get is the worst of the year. **April and October** are ideal for the trails, with the sea still or already out of play. **From November to March** the coast truly empties out: it's beautiful and quiet, but many places are closed.
 - **No car. Seriously.** The SS163 is narrow, winding and without parking; where there is any, it costs absurd amounts. **In high season an alternating license plate system applies on some stretches**, and it changes from year to year. **In Capri, cars of non-residents are banned**, and **Procida and Ischia have seasonal limits on landing vehicles**: these are all rules to check before leaving.
 - **How you get around, in practice:**
-  - **Ferries and hydrofoils** connect Salerno, Amalfi, Positano, Sorrento, Capri, Ischia, Procida and Naples. They cost a few euros per leg, and are fast and scenic. **The limit is the sea:** in strong wind runs are cancelled, especially on minor routes and off season. **Always plan a plan B by land.**
+  - **Ferries and hydrofoils** connect Salerno, Amalfi, Positano, Sorrento, Capri, Ischia, Procida and Naples. They cost from about €10 per leg (Salerno-Amalfi) to over €25 (Naples-Capri by hydrofoil), and are fast and scenic. **The limit is the sea:** in strong wind runs are cancelled, especially on minor routes and off season. **Always plan a plan B by land.**
   - **SITA buses** run along the whole coast, are cheap, and are the only way to reach the upper towns like Ravello and Agerola. In summer they're full and you get left behind: it's best to board at the terminus.
   - **In Naples there are two ports:** **Molo Beverello** for the fast hydrofoils and **Calata Porta di Massa** for ferries carrying vehicles. They're close but distinct, and going to the wrong one costs an hour.
   - **For Ischia and Procida it's often better to leave from Pozzuoli** rather than Naples: the crossing is shorter and costs less.
@@ -28,6 +28,7 @@ The islands are the second half, and they need a rule: **they're not interchange
 - **Steps:** this coast is measured in steps, not kilometers. In Positano you walk down and back up; the Path of the Gods ends with **about 1,700 steps** of descent into Positano; Sorgeto on Ischia is reached by **over two hundred steps** down that then have to be climbed back up. If you have knee problems, you need to know this beforehand.
 - **Food:** the tradition here is the fishermen's, so **blue fish** and not noble fish. The **colatura di alici from Cetara**, direct heir of the Roman **garum**, made by maturing anchovies under salt in wooden barrels, is used **raw** on spaghetti with garlic, oil and parsley, and **must never be cooked**. Then **scialatielli**, **mozzarella in myrtle leaves**, **pezzogna** and squid, and the **Amalfi sfusato lemon**, huge, with a thick peel, which you can even eat in a salad. The **limoncello** on sale is almost always industrial: the good stuff you buy from producers.
 - **On Ischia, the thermal baths chapter:** the island is volcanic and springs are everywhere. There are **big equipped thermal parks** on the western side, paid, with day admission, and there are **free springs** like **Sorgeto**, where boiling water comes out directly into the sea in a bay of stones.
+- **From the airport to the centre:** you land at Naples Capodichino (NAP) · the Alibus goes to Centrale station (Piazza Garibaldi) in about 15-20 minutes and to Molo Beverello, for ferries and hydrofoils, in about 35-45, from about 6:00 to midnight, €5 · the Curreri bus goes straight to Sorrento in about 75-90 minutes, about €10, with few runs between 9:00 and 19:30 · taxis at a predetermined fare, about €21 to the historic centre or the station and about €24 to Molo Beverello: ask for it before getting in, otherwise the meter runs · avoid the unlicensed drivers touting in arrivals.
 
 ## Itinerario giorno per giorno
 
@@ -66,7 +67,7 @@ In the afternoon we went up to **Ravello**, about four hundred meters above the 
 
 The evening in Ravello, if you manage to stay, is something else: after the last buses have gone down, the town changes.
 
-**In practice:** ferry to Amalfi, a few euros each way · Cathedral and Cloister of Paradise with a ticket · Atrani ten minutes on foot · SITA bus to Ravello, which fills up in summer: better to board at the terminus · Villa Rufolo and Villa Cimbrone on separate tickets.
+**In practice:** ferry to Amalfi, about €9-15 each way from Salerno · Cathedral and Cloister of Paradise with a ticket · Atrani ten minutes on foot · SITA bus to Ravello, which fills up in summer: better to board at the terminus · Villa Rufolo and Villa Cimbrone on separate tickets.
 
 ### Day 4 — The eastern coast and the Valle delle Ferriere
 It's the day of the things almost nobody does.

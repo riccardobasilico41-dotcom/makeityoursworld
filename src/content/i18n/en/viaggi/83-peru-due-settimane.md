@@ -24,6 +24,7 @@ I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaky, a 
 - **Safety:** the most concrete risk is fake taxi drivers outside airports. Only booked taxis or apps. In Cusco, no street money changers: they pass counterfeit or out-of-circulation bills. For long bus rides, only the main companies.
 - **Connectivity:** Claro, Movistar, Entel and Bitel, SIM at the airport with your passport. Good coverage in cities and along the tourist circuit.
 - **Electricity and time zone:** 220V, type A and C sockets; a universal adapter helps. UTC-5 all year: 7 hours behind Italy during daylight saving time, 6 in winter.
+- **From the airport to the centre:** at **Lima Jorge Chávez (LIM)**, with its new terminal, the official Airport Express Lima bus reaches Miraflores in about 45-75 minutes, about 20 soles (15 each for two or more, or when bought online), roughly hourly from 7:00 to 21:00 · taxis only from the official desks inside arrivals · Uber and Cabify about 55-105 soles, only from the pick-up zone shown in the app · at **Arequipa (AQP)** and **Cusco (CUZ)** official airport taxi or hotel transfer, 15-30 minutes · the mistake to avoid is following the fake taxi drivers at the arrivals exit.
 
 ## Itinerario giorno per giorno
 

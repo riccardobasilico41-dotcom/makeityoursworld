@@ -204,7 +204,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       tratta: 'Bacalar → Cancún Aeropuerto, Tren Maya or car',
       intensita: 'medio',
       destinazioneSlug: 'cancun',
-      imageAlt: 'The Caribbean coast near Cancún',
+      immagine: '/images/messico/finger-aereo-rientro-riccardo.jpg',
+      imageAlt: "Backpack on, walking down the white jet bridge to the plane on the last day of the trip in Mexico",
     },
   ],
   budget: [

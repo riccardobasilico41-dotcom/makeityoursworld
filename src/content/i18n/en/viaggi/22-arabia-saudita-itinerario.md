@@ -25,6 +25,7 @@ Until 2019 this trip couldn't be done: the tourist visa didn't exist, and you en
 - **Safety:** petty crime is very low, the trip is trouble-free. Check the official advisories for the **border areas with Yemen**, which are not recommended, and which concerns the south of the Asir.
 - **Ramadan:** here it is observed more strictly than elsewhere in the Gulf. Almost everything closes by day, **eating and drinking in public in daylight is forbidden for everyone**, non-Muslims included, and life shifts entirely to the night.
 - **Budget:** higher than you'd expect. AlUla has few facilities and high prices, Riyadh and Jeddah have capital-city hotels, and the domestic flights add up. On the other hand the alcohol line doesn't exist, gas costs nothing and neighborhood food is cheap.
+- **From the airport to the centre:** at Jeddah King Abdulaziz (JED) the most practical option is Uber or Careem, about SAR 50-100 and 30-50 minutes to Al-Balad or the Corniche; official taxis at the rank cost about SAR 100-150; the Haramain train leaves from Terminal 1 for Al Sulaymaniyah station (about 20 minutes, about SAR 40-70 in economy), but it is far from the old town · at Riyadh King Khalid (RUH) the yellow metro Line 4 goes into town for about SAR 4 with the Darb app or card; Uber and Careem about SAR 60-100 · in Abha (AHB) you collect the car at the airport · avoid unlicensed drivers touting in arrivals.
 
 ## Itinerario giorno per giorno
 

@@ -17,6 +17,7 @@ París es la ciudad en la que más a menudo se equivoca el programa por un motiv
 - **Transportes:** metro con tarifa única simplificada desde 2025 (**los importes cambian: conviene comprobarlos antes de salir**); desde Orly la línea 14 del metro es hoy la manera más sencilla de llegar al centro.
 - **Alojamiento:** Marais, Barrio Latino, Canal Saint-Martin/República para la mejor relación precio-posición.
 - **Comida:** el menú de mediodía es siempre más conveniente que el de la noche; el café en la barra cuesta la mitad que en la mesa.
+- **Del aeropuerto al centro:** desde **Charles de Gaulle (CDG)** el RER B llega a Gare du Nord y Châtelet en unos 30-40 minutos, de las 5 a medianoche aproximadamente, con el billete Paris Région-Aéroports de 14 € (solo en Navigo Easy o en la app, sin papel); el Roissybus ya no existe desde el 1 de marzo de 2026 · taxi con tarifa plana hacia París: 56 € a la orilla derecha, 65 € a la orilla izquierda · desde **Orly (ORY)** la línea 14 del metro lleva a Châtelet en unos 25 minutos con el mismo billete de 14 €; taxi con tarifa plana de unos 36-44 € · Uber, Bolt y G7 funcionan · hay que evitar los falsos taxis que abordan en la sala de llegadas.
 
 ## Itinerario giorno per giorno
 

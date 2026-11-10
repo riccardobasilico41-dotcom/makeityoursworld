@@ -18,6 +18,7 @@ New York si vive a passo svelto, e in sei giorni l'ho attraversata a piedi per 1
 - **Budget indicativo:** intorno ai 200€ (250-280€ per fare quasi tutto).
 - **App utili:** Google Maps offline (le mappe di New York scaricate in anticipo funzionano anche senza connessione, utili soprattutto in metro), Uber/Lyft per i trasferimenti.
 - **Consapevolezza sul ritmo:** le attività proposte sono più di quelle fattibili in 6 giorni. È normale non riuscire a fare tutto: meglio decidere in anticipo che cosa lasciare, invece di rincorrere la lista completa.
+- **Dall'aeroporto al centro:** da **JFK** l'**AirTrain** (circa 8,75 $, si paga all'uscita a Jamaica o Howard Beach) porta alla metro E, J/Z o A (circa 3 $) o al treno LIRR da Jamaica, più rapido verso Penn Station e Grand Central: in tutto 50-75 minuti, 24 ore su 24 · **taxi giallo** dalla coda ufficiale, tariffa fissa di 70 $ per Manhattan più supplementi, pedaggi e mancia, circa 90-100 $ · **Uber/Lyft** dalla zona app, spesso 80-120 $ · da **Newark (EWR)** AirTrain più treno NJ Transit fino a Penn Station, circa 30 minuti e 16 $ · mai accettare passaggi da chi si offre negli arrivi.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 (07.09) — Arrivo, Times Square
@@ -41,7 +42,7 @@ Presto siamo passati dal **Rockefeller Center** per arrivare alla **Cattedrale d
 
 A pranzo c'è da scegliere qualcosa di veloce tra Shake Shack Midtown East, Five Guys e McDonald's, oppure il **Chelsea Market**. Nel primo pomeriggio abbiamo percorso la **High Line**, circa un miglio e mezzo a piedi, fino a **The Vessel**: un'ora e mezza o due in tutto. Dopo si può salire su **Edge** o su **Summit**, gli osservatori di Hudson Yards, oppure andare alla Grand Central Station e alla Public Library. La cena è stata da **Ellen's Stardust Diner**, dove i camerieri cantano.
 
-**In pratica:** MoMA biglietto online con orario, conviene entrare all'apertura · High Line gratuita, aperta dalla mattina alla sera, con accessi lungo tutto il percorso · The Vessel si sale solo con biglietto a orario · Edge e Summit costano qualche decina di dollari e la fascia del tramonto è la più cara: un solo osservatorio a Hudson Yards basta, visto che in programma ci sono già Empire e Top of the Rock.
+**In pratica:** MoMA circa 30 $ per gli adulti, biglietto online con orario, conviene entrare all'apertura · High Line gratuita, aperta dalla mattina alla sera, con accessi lungo tutto il percorso · The Vessel si sale solo con biglietto a orario · Edge e Summit costano circa 40-50 $ e la fascia del tramonto è la più cara: un solo osservatorio a Hudson Yards basta, visto che in programma ci sono già Empire e Top of the Rock.
 
 ### Giorno 4 (10.09) — Statua della Libertà, Wall Street, Chinatown, Broadway
 In mattinata il traghetto prenotato ci ha portati alla **Statua della Libertà**, vista dal basso, e a **Ellis Island**, con il museo dell'immigrazione. Nel primo pomeriggio siamo tornati a Manhattan per pranzo. Le opzioni: Liberty Bagels, Me La Wa (spesso con la fila) o Uncle Lo a Chinatown, oppure Prince Street Pizza a SoHo, famosa per la pepperoni pizza all'americana.
@@ -59,7 +60,7 @@ Il pomeriggio l'abbiamo passato a **DUMBO**, a Brooklyn: l'incrocio tra Water St
 
 Con il tempo che resta: la New York Public Library, la Quinta Avenue, Macy's, il Plaza, la Trump Tower, il Rockefeller Center. Il tramonto l'abbiamo visto dal **Top of the Rock**. L'ultima sera è cominciata da Virgil's BBQ, è continuata al 230 Rooftop ed è finita con un giro in limousine a Times Square.
 
-**In pratica:** il Memorial è gratuito, il 9/11 Museum costa qualche decina di dollari con biglietto a orario · l'11 settembre la mattina il Memorial è riservato ai familiari per la cerimonia e apre al pubblico più tardi: controllare gli orari del giorno · per DUMBO metro F fino a York Street o A/C fino a High Street · il Brooklyn Bridge a piedi richiede 30-40 minuti, più bello in direzione di Manhattan · Top of the Rock al tramonto da prenotare giorni prima.
+**In pratica:** il Memorial è gratuito, il 9/11 Museum costa circa 36 $ con biglietto a orario · l'11 settembre la mattina il Memorial è riservato ai familiari per la cerimonia e apre al pubblico più tardi: controllare gli orari del giorno · per DUMBO metro F fino a York Street o A/C fino a High Street · il Brooklyn Bridge a piedi richiede 30-40 minuti, più bello in direzione di Manhattan · Top of the Rock al tramonto da prenotare giorni prima.
 
 ### Giorno 6 (12.09) — Rientro
 Check-out e saluti.

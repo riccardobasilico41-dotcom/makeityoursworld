@@ -24,6 +24,7 @@ The route climbs from Bangkok on the night train, stops for almost a week in Chi
 - **Borders:** the Golden Triangle sits on the border with Laos and Myanmar. The situation in Myanmar is unpredictable and can change without notice; not all crossings into Laos are open to foreigners. On this trip you look at the border from the Thai bank, you don't cross it.
 - **Temples:** shoulders and knees covered, shoes off in the halls. A sarong in your backpack solves almost everything.
 - **Elephants:** no rides, no shows, no bathing with tourists. The dedicated section is further down.
+- **From the airport to the centre:** from **Bangkok Suvarnabhumi (BKK)** the Airport Rail Link reaches Phaya Thai in about 26 minutes (up to 45 THB, token from the machines on the basement level, from about 6am to midnight) · public taxis from the official counter on level 1, around the clock: meter plus a 50 THB airport surcharge and tolls, about 300-450 THB to the centre · Grab about 380-550 THB, pickup on level 4 · whoever offers a fixed fare without the meter in arrivals usually asks double · at **Chiang Rai (CEI)**, for the departure, the centre is about a quarter of an hour away by Grab or taxi.
 
 ## Itinerario giorno per giorno
 
@@ -39,7 +40,7 @@ Early morning at the **Grand Palace** with Wat Phra Kaew, the temple of the Emer
 
 In the evening you go to **Krung Thep Aphiwat**, the new central station where long-distance trains now leave from, no longer old Hua Lamphong. Night trains to Chiang Mai take between 12 and 14 hours. Berths are booked on the official railway website, dticket.railway.co.th, and around Thai holidays they can sell out weeks ahead. Second-class air-conditioned sleepers are the most common compromise: the staff make up the beds after departure. *If you're short on time, a domestic flight to Chiang Mai saves half a day, but you lose the night on the train.*
 
-**In practice:** Grand Palace about 500 baht, open from 8.30 with last entry in the early afternoon, sometimes closed for royal ceremonies · Wat Pho and Wat Arun separate tickets, a few hundred baht · river ferry a few baht · bring dinner and water for the train.
+**In practice:** Grand Palace about 500 baht, open from 8.30 with last entry in the early afternoon, sometimes closed for royal ceremonies · Wat Pho about 300 baht and Wat Arun about 200, separate tickets, cash only · river ferry a few baht · bring dinner and water for the train.
 
 ### Day 3 — Chiang Mai: arrival and the old city
 You arrive in the morning. From Chiang Mai station to the **old city** you take a red songthaew, the pick-up truck with benches that works as a shared taxi, or Grab. The old city sits inside a square moat and is easy on foot or by bicycle. Drop your bags at the hotel, have breakfast and start the temples in the cooler hours.
@@ -109,7 +110,7 @@ A day with a driver or a tour towards the **Golden Triangle**, north-east of Chi
 
 On the way back, **Chiang Saen**, a small Mekong town with walls and the ruins of ancient temples. The border is for looking at, not crossing. The best order is to leave early, do the museum first, which takes a couple of hours, then the viewpoint and lunch by the river, and finish at Chiang Saen in the afternoon, when the light on the temple bricks is warmer. *Along the river you'll be offered boat trips and visits to the Laotian market island: with the borders in their current state, it's better to stay on the Thai bank.*
 
-**In practice:** about an hour and a half by car from Chiang Rai to the Golden Triangle · Hall of Opium closed on Mondays, ticket of a few hundred baht · driver for the day to book through the hotel · carry your passport, there are checkpoints on the border roads.
+**In practice:** about an hour and a half by car from Chiang Rai to the Golden Triangle · Hall of Opium closed on Mondays, ticket about 200 baht for foreigners · driver for the day to book through the hotel · carry your passport, there are checkpoints on the border roads.
 
 ### Day 13 — Flight from Chiang Rai to Bangkok and home
 Flight from Chiang Rai airport to Bangkok and connection with the long-haul flight, with a few hours' margin between the two. Chiang Rai airport is a few kilometres from the centre, a quarter of an hour by Grab or taxi; the flight to Bangkok takes just over an hour. *Check on your ticket whether you land at Suvarnabhumi (BKK) or Don Mueang (DMK): they are two different airports, far apart, and transferring between them takes at least an hour.*

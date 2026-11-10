@@ -20,6 +20,7 @@ Eight days, linked by ferry, are enough to see all three without reducing them t
 - **Menorca:** the smallest and least developed of the three islands, with the Camí de Cavalls, the old coastal path of about 185 km that goes all the way around it.
 - **Rental car:** recommended on all three islands; on Menorca it is almost essential, because buses don't reach the most beautiful coves.
 - **Electricity and currency:** euro, type C/F sockets identical to Italy.
+- **From the airport to the centre:** **Palma (PMI)**: EMT **A1** bus to the centre and the port, about 15-20 minutes, roughly every 15 minutes, about €5 in cash and less by contactless card (fares under review for 2027); taxi from the official rank about €20-25. **Ibiza (IBZ)**: bus to Eivissa town (formerly line 10, renumbered into the AERO lines in 2026), about €3.50, about 20 minutes; taxi about €20-25, with long queues in summer. **Menorca, Mahón (MAH)**, where the trip ends: line 10 bus to the bus station, about €2.80, about 15 minutes; taxi about €15-20 · in summer, be wary of unlicensed rides offered outside arrivals.
 
 ## Itinerario giorno per giorno
 

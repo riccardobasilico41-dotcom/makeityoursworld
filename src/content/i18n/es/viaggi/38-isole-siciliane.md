@@ -34,6 +34,7 @@ Y por eso el itinerario que sigue es honesto en una cosa: **hay una jornada casi
   - **Pantelaria:** cocina de tierra y de huerta, no de mar. **Ravioli amari** con ricotta y menta, **ensalada pantesca** (patatas, tomate, alcaparras, orégano, cebolla), **pesto pantesco** crudo, las **alcaparras** y el **Passito**.
   - **Lampedusa:** pescado del Canal de Sicilia, **gamba roja**, meros y medregales, con una cocina que mira al sur.
 - **Los vinos:** **Passito de Pantelaria** de **Zibibbo**, dulce y ambarino; el **Moscato de Pantelaria**; y en las Égadas los blancos trapanenses, **Grillo** y **Catarratto**.
+- **Del aeropuerto al centro:** en **Trapani Birgi (TPS)** el autobús AST lleva a la ciudad y al puerto de los hidrodeslizadores en unos 40 minutos, con billete a bordo; el taxi tiene una tarifa fija de unos 35 € · desde **Palermo (PMO)** el autobús **Prestia e Comandè** llega a la estación central en unos 50 minutos, unos 6 € (6,50 € a bordo), cada media hora; el tren a Palermo Centrale tarda más o menos lo mismo; el taxi cuesta unos 45-50 € · **Pantelleria (PNL)** y **Lampedusa (LMP)** tienen el aeropuerto a pocos minutos del pueblo: se sale y se recoge el vehículo reservado, sin necesidad de traslado.
 
 ## Itinerario giorno per giorno
 

@@ -18,6 +18,7 @@ New York moves at a brisk pace, and over six days I crossed it on foot, 9-12 mil
 - **Budget indicativo:** around €200 (€250-280 to do almost everything).
 - **App utili:** offline Google Maps (New York maps downloaded in advance work without a connection, especially useful in the subway), Uber/Lyft for transfers.
 - **Consapevolezza sul ritmo:** there are more activities listed than can be done in 6 days. It's normal not to manage everything: better to decide in advance what to leave out, instead of chasing the whole list.
+- **From the airport to the centre:** from **JFK** the **AirTrain** (about $8.75, paid on exit at Jamaica or Howard Beach) connects to the E, J/Z or A subway (about $3) or to the LIRR train from Jamaica, faster to Penn Station and Grand Central: 50-75 minutes in all, 24 hours a day · **yellow taxi** from the official rank, flat fare of $70 to Manhattan plus surcharges, tolls and tip, about $90-100 · **Uber/Lyft** from the app zone, often $80-120 · from **Newark (EWR)** AirTrain plus NJ Transit train to Penn Station, about 30 minutes and $16 · never accept rides from people offering them in arrivals.
 
 ## Itinerario giorno per giorno
 ### Day 1 (07.09) — Arrival, Times Square
@@ -41,7 +42,7 @@ Early on we stopped by **Rockefeller Center** on the way to **St. Patrick's Cath
 
 For lunch, take your pick of something quick among Shake Shack Midtown East, Five Guys and McDonald's, or **Chelsea Market**. In the early afternoon we walked the **High Line**, about a mile and a half, to **The Vessel**: an hour and a half or two hours in all. Afterward you can go up **Edge** or **Summit**, the Hudson Yards observation decks, or head to Grand Central Station and the Public Library. Dinner was at **Ellen's Stardust Diner**, where the waiters sing.
 
-**In practice:** MoMA timed ticket online, best to go in at opening · the High Line is free, open from morning to evening, with entrances all along the route · The Vessel can only be climbed with a timed ticket · Edge and Summit cost a few tens of dollars and the sunset slot is the most expensive: one observatory at Hudson Yards is enough, since the Empire State and Top of the Rock are already on the plan.
+**In practice:** MoMA about $30 for adults, timed ticket online, best to go in at opening · the High Line is free, open from morning to evening, with entrances all along the route · The Vessel can only be climbed with a timed ticket · Edge and Summit cost about $40-50 and the sunset slot is the most expensive: one observatory at Hudson Yards is enough, since the Empire State and Top of the Rock are already on the plan.
 
 ### Day 4 (10.09) — Statue of Liberty, Wall Street, Chinatown, Broadway
 In the morning the ferry we'd booked took us to the **Statue of Liberty**, seen from below, and to **Ellis Island**, with its immigration museum. In the early afternoon we came back to Manhattan for lunch. The options: Liberty Bagels, Me La Wa (often with a line) or Uncle Lo in Chinatown, or Prince Street Pizza in SoHo, famous for its American-style pepperoni pizza.
@@ -59,7 +60,7 @@ We spent the afternoon in **DUMBO**, in Brooklyn: the corner of Water Street and
 
 With the time left: the New York Public Library, Fifth Avenue, Macy's, the Plaza, Trump Tower, Rockefeller Center. We watched the sunset from **Top of the Rock**. The last evening started at Virgil's BBQ, continued at 230 Rooftop and ended with a limo ride around Times Square.
 
-**In practice:** the Memorial is free, the 9/11 Museum costs a few tens of dollars with a timed ticket · on 11 September the Memorial is reserved for families in the morning for the ceremony and opens to the public later: check that day's hours · for DUMBO take the F train to York Street or the A/C to High Street · walking the Brooklyn Bridge takes 30-40 minutes, best in the direction of Manhattan · book Top of the Rock at sunset days ahead.
+**In practice:** the Memorial is free, the 9/11 Museum costs about $36 with a timed ticket · on 11 September the Memorial is reserved for families in the morning for the ceremony and opens to the public later: check that day's hours · for DUMBO take the F train to York Street or the A/C to High Street · walking the Brooklyn Bridge takes 30-40 minutes, best in the direction of Manhattan · book Top of the Rock at sunset days ahead.
 
 ### Day 6 (12.09) — Heading home
 Check-out and goodbyes.

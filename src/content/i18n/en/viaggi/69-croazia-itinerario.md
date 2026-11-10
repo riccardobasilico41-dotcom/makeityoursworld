@@ -25,6 +25,7 @@ It's a convenient trip for anyone leaving from Italy: euro, Schengen area, elect
 - **Local rules:** Split, Hvar and Dubrovnik fine people who walk around the old town in swimwear or shirtless, who drink in the street and who sit on monuments. In Split the fine for swimwear or alcohol in the street is €150; in Hvar it goes up to €500-700, and €400 for sleeping in the street or on the beach; the cap on on-the-spot fines is €700. In Dubrovnik you also get fined for disorderly behavior in the center.
 - **Tourist tax:** paid per night and per person, set by each municipality: in Dubrovnik €2.65 from April to September, in Zagreb €1.86, less in low season. It's often excluded from the online price.
 - **Time zone and electricity:** same as Italy, type C and F sockets.
+- **From the airport to the centre:** **Zagreb (ZAG)**: Pleso Prijevoz bus to the bus station, about €8-9, ticket on board or online, about 30-40 minutes, with runs timed to flights; taxi, Uber and Bolt about €20-30 · **Split (SPU)**, a few kilometres from Trogir: Pleso shuttle to Split bus station, about €8, about 30-40 minutes; taxi about €40-50 to Split, much less to Trogir · **Dubrovnik (DBV)**: Platanus shuttle to the old town (Ploče gate) and Gruž station, about €10 (€15 return), online or at Platanus sales points, about 30-35 minutes; taxi about €40-50, Uber and Bolt usually less · in summer, agree the taxi price before getting in.
 
 ## Itinerario giorno per giorno
 
@@ -33,7 +34,7 @@ We arrived in Zagreb, reached by plane or by car from Trieste in about two and a
 
 In the afternoon we went to the **Dolac market**, with its red umbrellas, and to the **Museum of Broken Relationships**, which collects objects left by couples who split up. *The market is at its best in the morning: after lunch many stalls close, so if you arrive late you can swap the order and do the museum first.* In the evening, the cafés of Tkalčićeva Street. Before dinner you can stop by the **cathedral**, with its two neo-Gothic spires visible from all over the city, and the Stone Gate, where people from Zagreb light candles in front of the image of the Virgin that survived the fire of 1731.
 
-**In practice:** Franjo Tuđman airport about 17 km from the center, linked by shuttle bus and taxi · funicular ticket of a few euros, departures every few minutes · Museum of Broken Relationships about €7, open daily until the evening · to sleep, the Lower Town or around Jelačić Square, handy for leaving by car tomorrow.
+**In practice:** Franjo Tuđman airport about 17 km from the center, linked by shuttle bus and taxi · funicular ticket of about €0.66, departures every few minutes · Museum of Broken Relationships about €7, open daily until the evening · to sleep, the Lower Town or around Jelačić Square, handy for leaving by car tomorrow.
 
 ### Day 2 — Toward Plitvice: the lower lakes
 We drove about two hours south to **Plitvice Lakes National Park**, a UNESCO site since 1979: sixteen terraced lakes linked by waterfalls and travertine barriers, crossed by wooden walkways. You sleep near the park, at Mukinje, Rastovača or Grabovac, to get in at opening the next day.
@@ -87,7 +88,7 @@ We took the catamaran from Split harbor to **Hvar** town, about an hour (roughly
 
 Arriving in the morning, you drop your bags and walk around town in the cooler hours: **St. Stephen's Cathedral** at the end of the square, the Franciscan monastery at the tip of the bay, with its cloister and cypresses. The climb to the fortress is for the late afternoon, to see the Pakleni Islands in low light; the path through the pines starts from the center and takes about twenty minutes.
 
-**In practice:** Split-Hvar catamarans by Jadrolinija, TP Line and Krilo, about 1 hour · car ferries arrive in Stari Grad, not Hvar town · Spanish Fortress with a ticket of a few euros, or combined with the theater, arsenal and other sites about €15 · in August book accommodation well ahead.
+**In practice:** Split-Hvar catamarans by Jadrolinija, TP Line and Krilo, about 1 hour · car ferries arrive in Stari Grad, not Hvar town · Spanish Fortress with a ticket of about €12, or combined with the theater, arsenal and other sites about €15 · in August book accommodation well ahead.
 
 ### Day 9 — Hvar: the Pakleni Islands
 In front of Hvar harbor are the **Pakleni Islands**, an archipelago of pine groves and coves reached by water taxi every half hour in summer (roughly €10-15 round trip). The bays of **Palmižana** and **Ždrilca** on Sveti Klement have restaurants and clear water; other coves are reachable only on foot. It's best to take one of the first boats in the morning, when the bays are still quiet, and walk the trails through the pines to the less frequented coves on the south side. *The beaches are almost all rock or pebbles: you need water shoes, water and sunscreen, because there's little shade.*
@@ -122,14 +123,14 @@ We took a day trip to **Ston**, an hour to the north-west, on the **Pelješac** 
 
 The peninsula continues with the vineyards of **Dingač** and **Postup**, where plavac mali is produced, Croatia's best-known red, with wineries offering tastings. Alternatively there's a boat trip to the **Elaphiti** islands (Koločep, Lopud and Šipan), or to Montenegro, to the **Bay of Kotor**, two hours' drive away with a border crossing. For Ston and Pelješac you need a rental car for the day or an organized tour: there are buses from Dubrovnik, but with few departures. *If you drive and taste wine, remember the Croatian alcohol limit and the frequent checks.*
 
-**In practice:** Dubrovnik-Ston about 1 hour by car · Ston walls with a paid ticket, much cheaper than Dubrovnik's, to check at the entrance · oysters in the places on the little harbor of Mali Ston · Pelješac wineries best booked · Elaphiti on Jadrolinija scheduled boats or organized trips from Gruž port · for Montenegro you need a document valid for travel abroad and the rental company's authorization.
+**In practice:** Dubrovnik-Ston about 1 hour by car · Ston walls with a ticket of about €10, much cheaper than Dubrovnik's · oysters in the places on the little harbor of Mali Ston · Pelješac wineries best booked · Elaphiti on Jadrolinija scheduled boats or organized trips from Gruž port · for Montenegro you need a document valid for travel abroad and the rental company's authorization.
 
 ### Day 14 — Return from Dubrovnik
 Dubrovnik airport (Čilipi) is about 20 km south of the city, with direct flights to several Italian cities in season. Alternatively there's the overnight ferry to Bari with Jadrolinija at certain times of the year. With an afternoon flight you can use the morning for a last walk in the old town at opening, when the Stradun is still empty, or for a swim off the rocks outside the walls.
 
 The airport is reached by the shuttle bus that leaves from the Gruž bus station and passes near the Pile Gate, timed with the flights, or by taxi. *In high season the coastal road south gets congested: leave with plenty of margin, especially on rental changeover days.* If you go back by ferry, you leave from Gruž port in the evening and reach Bari the next morning, with the option of taking your car.
 
-**In practice:** Dubrovnik-airport about 30-40 minutes · airport shuttle with a ticket of a few euros, taxi considerably more expensive · ferry to Bari with cabin or seat, to book ahead and check for operating dates · tourist tax often to be paid in cash at check-out.
+**In practice:** Dubrovnik-airport about 30-40 minutes · Platanus airport shuttle with a ticket of about €10, taxi considerably more expensive · ferry to Bari with cabin or seat, to book ahead and check for operating dates · tourist tax often to be paid in cash at check-out.
 
 ## Variations
 **One week.** Split (2 days with Trogir), Hvar (2), Korčula (1) and Dubrovnik (2). You arrive by plane in Split and leave from Dubrovnik, with no car.

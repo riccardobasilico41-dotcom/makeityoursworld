@@ -22,6 +22,7 @@ Il filo conduttore, oltre alla costa atlantica, è il cibo: il pintxo basco a Sa
 - **Santiago, la Compostela:** per avere il certificato ufficiale di pellegrinaggio bisogna aver percorso a piedi almeno gli ultimi 100 km (200 in bici), con le credenziali timbrate lungo il percorso.
 - **Auto:** indispensabile per questo itinerario, che segue la costa per centinaia di km toccando paesi piccoli e mal collegati dai mezzi pubblici.
 - **Elettricità e valuta:** euro, prese di tipo C/F identiche all'Italia.
+- **Dall'aeroporto al centro:** all'andata si atterra di solito a **Bilbao (BIO)**: il bus diretto Pesa per San Sebastián impiega circa 1h15 e costa circa 14-17 €, corse ogni ora circa, biglietto alla macchinetta o online; il Bizkaibus A3247 porta in centro a Bilbao in circa 20 minuti, circa 5 € (meno con la carta Barik); il taxi per San Sebastián costa circa 170-190 € · più vicini a San Sebastián ci sono i piccoli scali di **Hondarribia (EAS)** e **Biarritz (BIQ)** · al ritorno da **Santiago (SCQ)** il bus per Praza de Galicia e la stazione impiega circa 20 minuti, circa 1 €, il taxi circa 22 € · l'errore tipico è il noleggio di sola andata Bilbao-Santiago senza aver controllato il supplemento di riconsegna.
 
 ## Itinerario giorno per giorno
 

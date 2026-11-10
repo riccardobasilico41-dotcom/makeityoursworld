@@ -22,6 +22,7 @@ Nove giorni bastano per fare tutte e quattro le tappe con un ritmo umano, senza 
 - **Flamenco, come sceglierlo:** i tablao più turistici tendono a spettacoli standardizzati e amplificati per grandi gruppi; quelli più piccoli e senza amplificazione, spesso a Triana (Siviglia) o nelle case-grotta del Sacromonte (Granada), restituiscono qualcosa di più vicino alla tradizione. Il prezzo non è sempre garanzia di autenticità.
 - **Il caldo:** anche nella finestra consigliata (marzo-maggio, settembre-ottobre) le ore centrali a Siviglia e Córdoba possono essere pesanti: conviene programmare i monumenti all'aperto al mattino presto o nel tardo pomeriggio.
 - **Elettricità e valuta:** euro, prese di tipo C/F identiche all'Italia. Nessuna sorpresa da questo lato.
+- **Dall'aeroporto al centro:** a Siviglia San Pablo (SVQ) il bus EA di Tussam va a Santa Justa, Prado de San Sebastián e Plaza de Armas in circa 35 minuti, ogni 20-30 minuti dalle 5:20 all'1:15 circa, circa 4 €, pagabili a bordo anche con carta contactless · taxi a tariffa fissa per il centro, circa 25 € di giorno e 28 € di notte e nei festivi · Uber, Cabify e Bolt funzionano · in partenza da Málaga (AGP) il treno Cercanías C1 collega María Zambrano e il centro in circa 12 minuti, circa 2 €, ogni 20 minuti; il bus A Express costa circa 4 €, il taxi circa 20-25 € · da evitare: conviene controllare sempre che il taxi applichi la tariffa fissa.
 
 ## Itinerario giorno per giorno
 
@@ -57,7 +58,7 @@ La mattina siamo stati all'**Alcázar de los Reyes Cristianos** e sul **Ponte Ro
 
 Nel primo pomeriggio, treno diretto ad alta velocità verso **Granada** (circa 1 ora e mezza). Conviene prenotarlo in anticipo: le corse non sono frequentissime, e la stazione di Granada è a una ventina di minuti a piedi dal centro. La sera è servita per ambientarsi, con un primo giro nel centro intorno alla Cattedrale. Accanto c'è la **Capilla Real**, dove sono sepolti Isabella e Ferdinando. *A Granada la tapa arriva gratis con ogni bevanda: due o tre bar sono già una cena.*
 
-**In pratica:** Alcázar de los Reyes Cristianos chiuso il lunedì, biglietto di pochi euro · festival dei Patios nella prima metà di maggio, ingresso libero nella maggior parte delle case · treno diretto per Granada da prenotare su Renfe o sulle compagnie private ad alta velocità.
+**In pratica:** Alcázar de los Reyes Cristianos chiuso il lunedì, biglietto di circa 7 € · festival dei Patios nella prima metà di maggio, ingresso libero nella maggior parte delle case · treno diretto per Granada da prenotare su Renfe o sulle compagnie private ad alta velocità.
 
 ### Giorno 5 — Granada: l'Alhambra e il Generalife
 La giornata è andata quasi tutta all'**Alhambra**: i **Palazzi Nazridi** con il Patio de los Leones e la Sala degli Ambasciatori (accesso vincolato alla fascia oraria del biglietto), l'**Alcazaba**, la fortezza più antica del complesso, e il **Generalife**, i giardini estivi dei sultani con le fontane a scomparsa. Per la prenotazione, obbligatoria con largo anticipo, c'è la scheda esperienza dedicata.

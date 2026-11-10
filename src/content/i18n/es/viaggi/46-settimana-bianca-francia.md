@@ -17,6 +17,7 @@ Francia tiene los dominios esquiables conectados más grandes del mundo, constru
 - **Seguro de rescate en pistas**: en Francia es de pago, hay que comprarlo con el forfait.
 - **Forfait online con antelación**: cuesta menos que en taquilla.
 - **Sábado en temporada alta**: colas largas en el valle, mejor salir el domingo o muy temprano.
+- **Del aeropuerto al centro:** el aeropuerto más usado es Ginebra (GVA), que tiene también un sector francés cómodo para alquilar un coche ya equipado para la nieve · a Chamonix, alrededor de 1h15: lanzaderas compartidas desde unos 30-50 € por persona, traslado privado unos 200-270 € por vehículo · a Les 3 Vallées, Paradiski y Tignes-Val d'Isère, 2h30-3h30 según el tráfico: autobuses Altibus a Moûtiers, Aime y Bourg-Saint-Maurice solo en temporada de invierno, luego autobús local, o traslado compartido desde unos 40-70 € por persona · alternativas: Lyon (LYS) y Turín (TRN) · el error clásico es no reservar: los sábados las lanzaderas van llenas.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Llegada
@@ -45,7 +46,7 @@ Quien está en un dominio cercano puede pasar el día en **Chamonix**: la subida
 
 La **Vallée Blanche** sale de aquí y es un descenso fuera de pista de unos veinte kilómetros por glaciares, para esquiadores seguros en pistas negras y con un guía de alta montaña, que lleva cuerda y material y conoce las grietas. Se baja hacia el Mer de Glace y se vuelve con el tren del Montenvers, o esquiando hasta el pueblo si la nieve lo permite.
 
-**En la práctica:** la Aiguille du Midi cuesta unas decenas de euros ida y vuelta: mejor reservar la hora de subida online · la Vallée Blanche se reserva con una compañía de guías de Chamonix, con días de margen por si hace mal tiempo · quien no esquía puede bajar al Mer de Glace con el tren del Montenvers.
+**En la práctica:** la Aiguille du Midi cuesta unos 80-83 euros ida y vuelta: mejor reservar la hora de subida online · la Vallée Blanche se reserva con una compañía de guías de Chamonix, con días de margen por si hace mal tiempo · quien no esquía puede bajar al Mer de Glace con el tren del Montenvers.
 
 ### Día 5 — Esquí libre
 Volvimos al dominio. Para quien quiera salirse de la pista batida, hay media jornada de esquí de montaña o de raquetas en un valle lateral. La mañana se esquía en pista y la tarde se dedica a la salida: las escuelas de esquí y las oficinas de guías organizan medias jornadas de **esquí de montaña** con material de alquiler, y paseos con raquetas por bosques y pastos cerca de las estaciones, aptos también para quien no esquía.

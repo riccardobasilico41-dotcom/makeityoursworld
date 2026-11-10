@@ -22,6 +22,7 @@ De las Lofoten lo primero que se me quedó pegado fue la luz. En julio el sol de
 - **Clima:** frío, incluso en julio, con viento sobre todo en playas y senderos expuestos.
 - **Base logística:** dos paradas fijas (Svolvær y Nesland/Flakstad) desde las que hacer excursiones
   de un día.
+- **Del aeropuerto al centro:** en **Oslo-Gardermoen (OSL)** el Flytoget llega a Oslo S en unos 20 minutos (unos 240-270 NOK, en la app, en las máquinas o con tarjeta contactless en los torniquetes; trenes desde primera hora hasta pasada la medianoche) · los regionales de Vy hacen el mismo trayecto en unos 25 minutos por más o menos la mitad, billete en la app de Ruter o de Vy: el error típico es pagar el Flytoget sin darse cuenta · taxi unos 700-1.000 NOK, mejor con precio fijo pactado · en **Bodø (BOO)** el aeropuerto está a 1,5 km del centro: autobuses 1 y 4 en 5-10 minutos (unos 45 NOK, app Reis Nordland), taxi unos 150-250 NOK, un cuarto de hora a pie; el alquiler de coches está en la terminal.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Oslo
@@ -58,7 +59,7 @@ A primera hora de la tarde llegamos a **Reine** (aparcamiento 200 NOK por tres h
 
 Cenamos en el **Ramberg Resort**, a un paso de la playa de Ramberg, y un paseo por la arena después de cenar cerró bien el día.
 
-**En la práctica:** Lofotr Viking Museum abierto todos los días en verano, entrada de unos cientos de coronas · Reinebringen: escaleras gratuitas, aparcamiento de pago en Reine; con lluvia la roca de arriba resbala · llenar el depósito en Leknes, más al oeste hay pocas gasolineras
+**En la práctica:** Lofotr Viking Museum abierto todos los días en verano, entrada de unos 250 NOK en temporada alta · Reinebringen: escaleras gratuitas, aparcamiento de pago en Reine; con lluvia la roca de arriba resbala · llenar el depósito en Leknes, más al oeste hay pocas gasolineras
 
 ### Día 5 — Playa de Bunes
 Desayuno en casa, bocadillos comprados en el Coop Prix de Reine y el ferri de la mañana a **Vindstad**: cuarenta minutos de navegación entre paredes de roca, uno de los tramos más espectaculares del viaje. Incluso con plaza reservada conviene estar en el muelle media hora antes.

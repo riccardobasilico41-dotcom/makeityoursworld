@@ -40,7 +40,7 @@ State museums are quoted in euros and prices go up every year: the figures are a
 - **Ephesus:** €40, **Terrace Houses** €15 separate; **Aphrodisias** €12.
 
 ### Getting around
-- **Istanbul airport to the center:** M11 metro to Gayrettepe and then M2, or the **Havaist** buses to Sultanahmet or Taksim (about 1-1.5 hours). Taxi around €40-60 at the exchange rate.
+- **From the airport to the centre:** from **Istanbul Airport (IST)** the M11 metro reaches Gayrettepe in about 35 minutes, then the M2 to Taksim or the historic peninsula (about 40-75 lira depending on distance, with an Istanbulkart from the machines at the airport) · the **Havaist** buses go to Sultanahmet or Taksim (about 1-1.5 hours, about 270-300 lira with Istanbulkart or card, with night services on the main lines) · taxi around €40-60 at the exchange rate, better booked through BiTaksi or Uber, which here sends the yellow taxis, and always with the meter on · at **Kayseri (ASR)** and **Nevşehir (NAV)** there's a shuttle to Göreme to book through the hotel, about an hour; at **Antalya (AYT)**, 20-30 minutes from the centre, the car is returned at the airport.
 - **In Istanbul:** **Istanbulkart** for the T1 tram (Sultanahmet-Eminönü-Karaköy), metro, funiculars and ferries. Taxis only with an app (BiTaksi or Uber).
 - **Istanbul-Cappadocia:** one-hour flight to **Kayseri** (one-hour transfer to Göreme) or to **Nevşehir** (40 minutes), roughly €40-90 with luggage; shared transfers are booked with the hotel.
 - **Cappadocia-Pamukkale:** overnight bus from Göreme or Nevşehir to Denizli/Pamukkale, about 9-10 hours, roughly €20-35. It's the easiest way not to lose a day.

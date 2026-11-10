@@ -24,6 +24,7 @@ Questa guida mette in fila l'itinerario classico tra Ontario e Québec, quello c
 - **Assicurazione sanitaria** con massimale alto: le cure per i non residenti sono care.
 
 ### Il noleggio e la guida
+- **Dall'aeroporto al centro:** da **Toronto Pearson (YYZ)** il treno **UP Express** arriva a Union Station in 25 minuti, 12,35 CAD (9,25 con la carta PRESTO), ogni 15 minuti dalle 5 circa all'una di notte · bus TTC 900 fino alla metro di Kipling, circa 3,30 CAD, più lento · **taxi e limousine** a tariffa fissa per zona, circa 60-70 CAD per il centro più mancia · **Uber/Lyft** dalla zona indicata nell'app · chi noleggia l'auto la ritira all'arrivo · a **Montréal-Trudeau (YUL)** il bus **747** va in centro in 45-70 minuti, 11 CAD con pass di 24 ore incluso, attivo 24 ore su 24; il taxi ha una tariffa fissa per il centro, circa 49,45 CAD di giorno e 56,70 di notte.
 - **Sola andata Toronto-Montréal:** riconsegnare l'auto in un'altra provincia comporta quasi sempre un supplemento. Conviene chiederlo nel preventivo e confrontarlo con il costo di un volo di rientro da Toronto. In alternativa si può fare l'anello e tornare a Toronto, aggiungendo circa 550 km.
 - **Pick-up o SUV:** non servono per le strade di questo itinerario, tutte asfaltate, ma un mezzo grande è comodo con i bagagli. I pick-up a noleggio hanno di solito il cassone aperto: le valigie vanno tenute in cabina o coperte.
 - **Prenotare dall'Italia** con chilometraggio illimitato e assicurazione completa; serve una carta di credito intestata al conducente per il deposito.

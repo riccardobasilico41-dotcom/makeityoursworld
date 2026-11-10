@@ -22,6 +22,7 @@ La Bolivia si affronta a scalini: si atterra a oltre quattromila metri prima anc
 - **Elettricità:** 220V (110V in alcune zone), prese di tipo A e C: le spine italiane a due poli entrano quasi sempre.
 - **Fuso orario:** UTC-4 tutto l'anno, 6 ore indietro rispetto all'Italia in ora legale, 5 in inverno.
 - **Festività:** il Carnevale di Oruro, a febbraio, è Patrimonio UNESCO ed è la festa più spettacolare del paese; cade fuori dalla finestra di questo itinerario, pensato per la stagione secca.
+- **Dall'aeroporto al centro:** da **El Alto (LPB)** a La Paz ci vogliono 30-45 minuti, di più con il traffico o i blocchi · taxi dell'aeroporto circa 70-120 BOB, prezzo da fissare prima di salire perché il tassametro non c'è; più tranquillo il transfer dell'hotel · minibus condivisi circa 5 BOB, scomodi con le valigie e con la quota · InDrive funziona e spesso costa meno · evitare le auto senza insegna e chi propone il cambio fuori dai banchi · per i voli interni: l'aeroporto di **Sucre (SRE)** è a circa 30 km dalla città, mezz'ora abbondante di taxi; a **Rurrenabaque (RBQ)** il paese è a pochi minuti in taxi o motocarro.
 
 ## Itinerario giorno per giorno
 

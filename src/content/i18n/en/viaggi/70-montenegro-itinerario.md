@@ -24,6 +24,7 @@ This itinerary holds together the two souls of the country. The coast, with the 
 - **Electricity:** 230V, type C and F sockets, as in Italy.
 - **Time zone:** the same as Italy, with daylight saving time.
 - **Language:** Montenegrin (very close to Serbian, Croatian and Bosnian), written in Latin and Cyrillic alphabets. English is spoken in tourism; Italian is often understood on the coast.
+- **From the airport to the centre:** at Tivat (TIV) you collect the rental car; otherwise a taxi to Kotor takes about 15-20 minutes, about €15-20, while the stop for scheduled buses is on the main road, about 200 metres from the terminal · at Podgorica (TGD) there are no regular buses: taxi to the centre in about 15 minutes, about €15-25, to Kotor or Tivat about €60-80 · Uber and Bolt don't operate in the country: agree the price before getting in, or call a taxi company with a meter · avoid the taxis waiting right outside arrivals, usually the most expensive.
 
 ## Itinerario giorno per giorno
 
@@ -46,7 +47,7 @@ Seven and a half miles (twelve kilometers) along the shore took us to **Perast**
 
 In the afternoon we continued around the bay by car: **Risan**, with the Roman mosaics of a 2nd-century villa, then the narrow **Verige** passage and the **Kamenari-Lepetane ferry**, a five-minute crossing that avoids the full loop of the bay, as far as the Luštica peninsula and **Tivat**, with the Porto Montenegro marina. In the evening we went back to Kotor along the other shore.
 
-**In practice:** boat to Our Lady of the Rocks a few euros per person round trip, small donation for the church museum · in Perast you leave the car in the lots at the town entrance · Kamenari ferry about €5 for a car, pedestrians free, open day and night, long lines on summer afternoons.
+**In practice:** boat to Our Lady of the Rocks about €5 per person round trip from the Perast waterfront, small donation for the church museum · in Perast you leave the car in the lots at the town entrance · Kamenari ferry about €5 for a car, pedestrians free, open day and night, long lines on summer afternoons.
 
 ### Day 4 — The Lovćen switchbacks, Njeguši and Cetinje
 The road that climbs from Kotor toward **Lovćen** is one of the most spectacular in the Balkans: twenty-five tight hairpins on the mountain wall, with the Bay getting smaller beneath you. At the top is **Njeguši**, the village where smoked cured ham (pršut) and mountain cheese are made, to be tasted in one of the trattorias along the road. We continued into the national park to the **Njegoš mausoleum**, on the summit of Jezerski vrh at 5,436 feet (1,657 meters), reached by a tunnel and 461 steps: from the terrace, on clear days, you can see the sea, Lake Skadar and Albania.
@@ -114,7 +115,7 @@ With an afternoon flight, the morning is enough for a walk: start from the **Cat
 ## Getting Around
 - **Rental car:** the best solution. Pick up at Tivat or Podgorica, roughly €30-60 a day in summer, less in low season. To leave the country (Croatia, Bosnia, Albania) you need written authorization from the rental company and the **green card**, with an indicative surcharge of €30-60 per rental, up to €100 with some companies for Albania. Some local rental companies don't allow Albania. In the car you need the original vehicle registration document, even for rental cars: with a photocopy you're turned back.
 - **Driving rules:** headlights on in daytime all year, alcohol limit 0.03% (0.3 g/l) (zero for new drivers), seat belt mandatory, phone banned while driving. Carry a warning triangle, first-aid kit, reflective vest and spare bulbs; from November 15 to March 31 chains or snow tires. Speed limits are low and checks frequent, with fines to be paid on the spot or at a bank.
-- **Roads:** the coastal road between Herceg Novi and Ulcinj is slow and busy in summer. The Sozina tunnel (between Virpazar and Bar) and the Smokovac-Mateševo motorway stretch, toward the north, are tolled, a few euros. Mountain roads are narrow, with hairpins and few guardrails: travel only in daylight.
+- **Roads:** the coastal road between Herceg Novi and Ulcinj is slow and busy in summer. The Sozina tunnel (between Virpazar and Bar) and the Smokovac-Mateševo motorway stretch, toward the north, are tolled: about €2.50 for the tunnel and €3.50 for the motorway by car. Mountain roads are narrow, with hairpins and few guardrails: travel only in daylight.
 - **Kamenari-Lepetane ferry:** crosses the narrowest point of the Bay in five minutes, about €5 for a car, day and night. It avoids the loop around the bay for those arriving from Herceg Novi or Croatia and heading toward Tivat and Budva.
 - **Without a car:** frequent buses between Kotor, Budva, Podgorica and Herceg Novi; buses and a train for Podgorica-Bar and for the north (Kolašin). For Durmitor, Ostrog and the lake you need organized tours or a driver.
 - **From Italy by sea:** the overnight **Bari-Bar** ferry has run only in summer in recent years, and according to Viaggiare Sicuri in summer 2026 there are no direct connections between Italy and Montenegro. Anyone traveling with their own car goes via Durrës, in Albania, or via Croatia.
@@ -144,7 +145,7 @@ Prices per person in a double room, flights excluded (from Italy to Tivat or Pod
 - **Budget (€50-70 a day):** guesthouses and apartments, local cooking, shared car.
 - **Mid-range (€90-140 a day):** small hotels by the sea and in the mountains, dinners in konobe, boat excursions and rafting.
 - **High-end (from €200 a day):** resorts at Luštica and Porto Montenegro, design hotels in Kotor and Budva.
-- **Main items:** car €30-60 a day; Kotor walls about €15; Kamenari ferry about €5 for the car; national parks €3-5 each, Njegoš mausoleum about €8; boat to Our Lady of the Rocks a few euros; lake boat ride €15-30; rafting €50-80; a meal in a konoba €15-30.
+- **Main items:** car €30-60 a day; Kotor walls about €15; Kamenari ferry about €5 for the car; national parks €3-5 each, Njegoš mausoleum about €8; boat to Our Lady of the Rocks about €5; lake boat ride €15-30; rafting €50-80; a meal in a konoba €15-30.
 
 ## Common Scams and Safety
 - **The country is safe** for tourists, according to Viaggiare Sicuri, despite the presence of local criminal groups who settle scores among themselves. The most common problems are bag-snatching and petty theft in the crowded coastal resorts in summer, especially on the beach, and unlocked cars left with items in view. The country is at seismic risk and in summer there are fires.

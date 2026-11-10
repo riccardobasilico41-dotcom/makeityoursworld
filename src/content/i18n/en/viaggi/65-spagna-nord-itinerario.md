@@ -22,6 +22,7 @@ The common thread, besides the Atlantic coast, is food: the Basque pintxo in San
 - **Santiago, the Compostela:** to get the official pilgrimage certificate you must have walked at least the last 100 km (200 by bike), with your credentials stamped along the way.
 - **Car:** essential for this itinerary, which follows the coast for hundreds of km, touching small towns poorly connected by public transport.
 - **Electricity and currency:** euro, type C/F sockets identical to Italy.
+- **From the airport to the centre:** on the way out you usually land at **Bilbao (BIO)**: the direct Pesa bus to San Sebastián takes about 1h15 and costs about €14-17, roughly hourly, ticket from the machine or online; the Bizkaibus A3247 reaches central Bilbao in about 20 minutes, about €5 (less with the Barik card); a taxi to San Sebastián costs about €170-190 · closer to San Sebastián are the small airports of **Hondarribia (EAS)** and **Biarritz (BIQ)** · on the way back from **Santiago (SCQ)** the bus to Praza de Galicia and the station takes about 20 minutes, about €1, a taxi about €22 · the typical mistake is a one-way Bilbao-Santiago rental without checking the drop-off fee.
 
 ## Itinerario giorno per giorno
 

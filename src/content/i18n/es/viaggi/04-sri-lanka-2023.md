@@ -34,6 +34,7 @@ De la noche del Adam's Peak recuerdo sobre todo el esfuerzo compartido: salir en
   suelo puede quemar), una sudadera para la cima helada del Adam's Peak (3-6 °C
   y viento), adaptador tipo BS546 (de 3 clavijas redondas, no el estándar UK/Schuko),
   repelente de mosquitos de alta protección.
+- **Del aeropuerto al centro:** se aterriza en el Bandaranaike International (CMB) de Katunayake, a 20-30 minutos de Negombo y a 40-60 de Colombo por la autopista E03 · taxi del mostrador oficial en llegadas, con tarifa fija: a Colombo Fort unas 8.000 LKR, a Negombo bastante menos · PickMe o Uber, unas 2.500-4.000 LKR a Colombo, con el peaje de unas 400 LKR que a menudo se paga aparte · autobús 187 a Colombo Fort, unas 350 LKR y una hora de viaje, de noche mejor no contar con él · hay que evitar a quien ofrece transporte dentro de la terminal: taxi del mostrador, app o coche del hotel acordado antes.
 
 ### Cómo lo hice yo vs. las alternativas "on your own"
 Recorrí Sri Lanka en **furgoneta privada con conductor**: cómodo y sin preocupaciones,
@@ -79,7 +80,7 @@ Después del desayuno, cinco horas de carretera hasta **Anuradhapura**, la prime
 
 La visita al recinto dura unas tres horas, con guía: Anil, que va en bicicleta, o Lalith, que habla un inglés excelente, por unas 6.500 LKR (19 €) más la propina. *En los templos se entra descalzo, con hombros y rodillas cubiertos: unos calcetines ayudan sobre las piedras ardientes.* Sobre el papel se vuelve al hotel a última hora de la tarde; en la realidad, entre una rueda pinchada y la lluvia, llegué mucho más tarde. Cena de bufé en el hotel, unas 2.200 LKR más las bebidas.
 
-**En la práctica:** Negombo-Anuradhapura unas 5 horas en coche · la entrada para extranjeros al recinto de Anuradhapura cuesta algunas decenas de dólares y se paga aparte de la guía · agua, sombrero y crema solar: entre una estupa y otra hay poca sombra.
+**En la práctica:** Negombo-Anuradhapura unas 5 horas en coche · la entrada para extranjeros al recinto de Anuradhapura cuesta unos 25-30 USD y se paga aparte de la guía · agua, sombrero y crema solar: entre una estupa y otra hay poca sombra.
 
 ### Día 3 — Anuradhapura-Dambulla: Mihintale y safari
 Despertador antes del amanecer y media hora de carretera hasta **Mihintale**, donde según la tradición el budismo llegó a Sri Lanka en el siglo III a. C. La visita dura un par de horas: entrada 500 LKR, sarong de alquiler por 50 LKR y calcetines para caminar por los templos.
@@ -159,7 +160,7 @@ Luego están el Big Buddha, el surf, el snorkel, el buceo y el safari en barca p
 
 La cena de despedida, no incluida, vuelve a los mismos sitios de la primera noche: Salt Restaurant, Tuk Tuk Wine & Dine, Jude Restaurant. Y después, quizá, la última fiesta en la playa. *Conviene preparar el equipaje esa misma noche y comprobar la hora del vuelo: para los vuelos nocturnos o de primera hora, Negombo está a pocos minutos del aeropuerto.*
 
-**En la práctica:** Hikkaduwa-Negombo unas 3 horas por la autopista del sur, más con las paradas y el tráfico de Colombo · entrada al centro de tortugas de Bentota de pago, pocos euros · las últimas compras de té y especias cuestan menos en los mercados que en el aeropuerto.
+**En la práctica:** Hikkaduwa-Negombo unas 3 horas por la autopista del sur, más con las paradas y el tráfico de Colombo · entrada al centro de tortugas de Bentota de pago, unas 1.000-2.000 LKR · las últimas compras de té y especias cuestan menos en los mercados que en el aeropuerto.
 
 ### Día 12 — Negombo-Aeropuerto
 Check-out, y Michael me llevó de vuelta al aeropuerto, unas 5.000 LKR el coche. No hay nada organizado: el tiempo queda libre hasta el vuelo. Con un vuelo por la tarde o por la noche queda una mañana entera en Negombo, para pasarla en la playa o con un paseo en barca por la laguna y los canales, entre pescadores y manglares. Quien no vio el mercado de pescado la primera mañana puede ir ahora, al amanecer, cuando llegan las barcas.

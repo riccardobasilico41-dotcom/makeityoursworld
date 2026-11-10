@@ -18,6 +18,7 @@ Llegué a Tokio para la floración de los sakura, pero con unos días de desfase
 - **Presupuesto:** alrededor de 600-750€ para toda la estancia sobre el terreno (sin vuelos ni transporte público), muy variable según los restaurantes elegidos.
 - **Transporte:** JR Pass activado a partir del cuarto día (cubre los principales Shinkansen, Hikari y Sakura sí, Nozomi y Mizuho no, además de muchas líneas locales), complementado con una tarjeta PASMO/IC recargable para metro, autobús y konbini. Para activar el JR Pass hace falta el pasaporte, y es una operación que hay que hacer con calma: en la taquilla se pueden formar colas bastante largas.
 - **Equipaje:** mochila o bolsa de viaje blanda, nunca maleta de ruedas. Con todos los desplazamientos en transporte público y las escaleras de las estaciones, una maleta rígida se echa de menos enseguida.
+- **Del aeropuerto al centro:** desde **Narita (NRT)** el Keisei Skyliner llega a Nippori y Ueno en unos 40 minutos, unos 2.580 yenes (unos 2.300 comprándolo online), el Narita Express (N'EX) a Tokio, Shinjuku e Ikebukuro en 60-90 minutos, unos 3.100-3.300 yenes, y el Keisei Access Express cuesta la mitad pero es más lento · desde **Haneda (HND)** Keikyu hasta Shinagawa en 15 minutos, unos 330 yenes, o el monorraíl hasta Hamamatsucho, unos 520 yenes · autobuses limousine a hoteles y estaciones, cómodos con equipaje · trenes hasta medianoche aproximadamente · taxis con tarifa fija: unos 20.000-30.000 yenes desde Narita, unos 7.000-12.000 desde Haneda · el JR Pass cubre el N'EX y el monorraíl, no el Skyliner ni Keikyu.
 
 ## Itinerario giorno per giorno
 ### Día 1 (06.04) — Tokio, Asakusa y la caza de los sakura
@@ -36,7 +37,7 @@ Comimos caminando por **Komachi Dori**, la calle de los restaurantitos y la comi
 
 A última hora de la tarde volvimos a Tokio. El tiempo libre se puede gastar buscando kimonos de alquiler para las fotos: Sakaeya en Harajuku, el más caro, Tansuya en Asakusa desde 5.000 yenes, la tienda de segunda mano Miyoshiya en Nakano desde 1.100 yenes. Por la noche el **cruce de Shibuya** visto desde arriba: gratis desde la octava planta del Centro de Turismo, abierto hasta la noche, o desde la pasarela de Shibuya Mark City; de pago, 1.500 yenes con una bebida, desde la azotea del **Mag8**. Luego la cena, y otra vez al Agora Place Asakusa.
 
-**En la práctica:** línea Yokosuka Shimbashi-Kita-Kamakura unos 820 yenes · Engaku-ji 400 yenes, Kencho-ji 450 yenes, Gran Buda con una entrada de pocos cientos de yenes · para el Gran Buda y el mar se usa el trenecito Enoden, parada Hase · el cruce de Shibuya desde arriba: mirador gratuito del Centro de Turismo abierto hasta la noche, rooftop Mag8 unos 1.500 yenes con una bebida.
+**En la práctica:** línea Yokosuka Shimbashi-Kita-Kamakura unos 820 yenes · Engaku-ji 400 yenes, Kencho-ji 450 yenes, Gran Buda unos 300 yenes · para el Gran Buda y el mar se usa el trenecito Enoden, parada Hase · el cruce de Shibuya desde arriba: mirador gratuito del Centro de Turismo abierto hasta la noche, rooftop Mag8 unos 1.500 yenes con una bebida.
 
 ### Día 3 (08.04) — Monte Fuji y Pagoda Chureito
 Salimos temprano de Shinjuku hacia **Kawaguchiko** con el tren directo **Fuji Excursion**: unas dos horas y 4.130 yenes (quien ya ha activado el JR Pass cubre el tramo hasta Otsuki y paga solo el suplemento Fujikyu, unos 1.770 yenes). Como alternativa están los autobuses directos desde Shinjuku, Shibuya o la estación de Tokio, dos horas y 2.000-2.500 yenes, que hay que reservar con antelación. Para la pagoda nos bajamos antes, en la parada **Chureito/Shimoyoshida**.
@@ -54,7 +55,7 @@ A primera hora de la tarde llegamos al **Kiyomizudera**, uno de los templos más
 
 Cenamos en **Menbaka Fire Ramen**, donde el ramen llega con un espectáculo de fuego de verdad: hay que reservar con antelación, los sitios se acaban rápido. Para quien quiera trasnochar está la zona de Pontocho, con el **World Club** o **The Common One**. Durante tres noches dormimos en el Agora Kyoto Shijo.
 
-**En la práctica:** Shinkansen Hikari Tokio-Kioto unas 2 horas y 40, incluido en el JR Pass · Kiyomizudera con entrada de pocos cientos de yenes, y la subida por las callejuelas de Higashiyama está llena desde la mañana · Miyako Odori unos 6.000 yenes, solo en abril, fechas que hay que comprobar · Menbaka Fire Ramen con reserva muy anticipada.
+**En la práctica:** Shinkansen Hikari Tokio-Kioto unas 2 horas y 40, incluido en el JR Pass · Kiyomizudera unos 500 yenes, y la subida por las callejuelas de Higashiyama está llena desde la mañana · Miyako Odori unos 6.000 yenes, solo en abril, fechas que hay que comprobar · Menbaka Fire Ramen con reserva muy anticipada.
 
 ### Día 5 (10.04) — Kioto: Arashiyama, el bosque de bambú y Gion
 La mañana empezó en el **Camino del Filósofo**, a lo largo del canal entre los cerezos, llamado así por Nishida Kitaro, que lo recorría cada día meditando. Luego un walking tour de **Gion**, el barrio de las geikos: en algunas calles está prohibido hacer fotos a las geikos cuando se es demasiado invasivo, hay carteles y las multas son altas.
@@ -72,7 +73,7 @@ Después de comer y de un rato libre, el **Kinkaku-ji**, el Templo Dorado, abier
 
 Por la noche está la **ceremonia del té** con Camellia, en el corazón de Gion: 2.700 yenes por persona más 3.000 por el kimono, que hay que reservar por correo electrónico con mucha antelación porque hay pocos sitios. Para cenar valen las direcciones del día anterior; la última noche la pasamos en el Agora Kyoto Shijo.
 
-**En la práctica:** Fushimi Inari gratuito y siempre abierto, con la estación JR Inari justo delante, en una línea incluida en el JR Pass · Castillo Nijo y Kinkaku-ji con entradas de pocos cientos de yenes; el castillo cierra algunos días en invierno y en verano, mejor comprobarlo · ceremonia del té con Camellia 2.700 yenes, kimono 3.000 yenes, reserva por email.
+**En la práctica:** Fushimi Inari gratuito y siempre abierto, con la estación JR Inari justo delante, en una línea incluida en el JR Pass · Castillo Nijo unos 800 yenes (unos 1.300 con el palacio Ninomaru) y Kinkaku-ji unos 500 yenes; el castillo cierra algunos días en invierno y en verano, mejor comprobarlo · ceremonia del té con Camellia 2.700 yenes, kimono 3.000 yenes, reserva por email.
 
 ### Día 7 (12.04) — Kioto-Hiroshima-Miyajima
 El truco de esta jornada se hace la noche anterior: enviar el equipaje pesado a Osaka con el takkyubin, desde el hotel o desde un 7-Eleven, para viajar ligeros durante dos días. Salimos temprano y el Shinkansen Hikari nos llevó a Hiroshima en unas dos horas.
@@ -99,7 +100,7 @@ Luego el **Parque de Nara**, entre los ciervos sagrados que andan sueltos y los 
 
 Por la tarde volvimos a Osaka para el **Mercado de Kuromon** y la tarta de queso esponjosa de **Rikuro-Ojisan no Mise**, 900-1.000 yenes la tarta entera, para compartir. La noche la pasamos en **Shinsekai**: la **Torre de Tsutenkaku** (900 yenes, cierra por la noche, mejor no llegar tarde) y, para los curiosos, **Tobita Shinchi**, el barrio rojo más conocido del oeste de Japón, para mirar solo desde fuera y con respeto. Para cenar están las especialidades locales, kushikatsu, okonomiyaki, takoyaki, en **Jumbo-tsuribune Tsurikichi** o en uno de los muchos locales de la zona. Segunda noche en el Sarasa Hotel Namba.
 
-**En la práctica:** la línea Kintetsu desde Namba es privada y no entra en el JR Pass; con el pase se llega a Nara con la línea JR desde Osaka o Tennoji · las galletas para los ciervos se compran allí por pocos yenes, y los ciervos empujan y mordisquean: mejor no agitarlas delante de su hocico · cheesecake de Rikuro 900-1.000 yenes · Torre Tsutenkaku 900 yenes.
+**En la práctica:** la línea Kintetsu desde Namba es privada y no entra en el JR Pass; con el pase se llega a Nara con la línea JR desde Osaka o Tennoji · las galletas para los ciervos se compran allí por unos 200 yenes, y los ciervos empujan y mordisquean: mejor no agitarlas delante de su hocico · cheesecake de Rikuro 900-1.000 yenes · Torre Tsutenkaku 900 yenes.
 
 ### Día 10 (15.04) — Osaka-Tokio: Harajuku y Shibuya
 Muy temprano en Shin-Osaka cogimos el Shinkansen Hikari a Tokio, unas tres horas. Dejado el equipaje fuimos a **Harajuku**: Takeshita Dori, la calle superpop con la nube de algodón de azúcar arcoíris de Totti, y a diez minutos el **Meiji-Jingu**, un oasis de calma después de ese caos. El santuario está dedicado al emperador Meiji y se llega por una avenida de grava en el bosque, bajo grandes torii de madera: se camina unos diez minutos antes de llegar a la sala principal. El fin de semana Takeshita Dori está llena desde media mañana, así que conviene pasar temprano. Comimos en **Gyozaro**, especialidad en gyoza.

@@ -18,6 +18,7 @@ I wanted the most different New Year possible from the ones I'd had up to then: 
 - **How I got around:** Milan-Stockholm flight, domestic flight Stockholm-Kiruna, scenic train Kiruna-Abisko and back, same domestic and international flights on the way home.
 - **Weather:** extreme cold, well below zero for the whole stay. With this cold some disruption should be expected: there is a tip about trains below.
 - **Logistics base:** two nights in Stockholm (outbound and return, transit only), one night in Kiruna on the way out, two nights in Abisko, one night in Kiruna before heading home.
+- **From the airport to the centre:** at **Stockholm Arlanda (ARN)** the **Arlanda Express** reaches Central Station in 18 minutes, about 340-350 SEK (online or in the app, cheaper if bought in advance) · **Flygbussarna** bus to the City Terminal in about 45 minutes, about 120-130 SEK · **taxi** at a fixed price to the centre, about 600-700 SEK: fares are unregulated in Sweden, so check the price on the yellow sticker on the window before getting in · at **Kiruna (KRN)** the bus timed to arrivals takes about 20 minutes to the centre, about 100-110 SEK; a taxi costs about 300-400 SEK.
 
 ## Itinerario giorno per giorno
 
@@ -33,7 +34,7 @@ In the morning I flew to Kiruna. In the afternoon I took my first walk around th
 
 Visitors today will find the church somewhere else: in August 2025 it was moved in one piece, on trailers, about five kilometres east, between the cemetery and the new centre. The relocation of the rest of the town will go on for years, and a walk between the old and new centres shows well how it works. From the airport to the centre there is a bus timed to flight arrivals, about twenty minutes, or a taxi. *Around New Year the sun does not rise in Kiruna: for a few weeks there are only a few hours of blue light in the middle of the day, and the walk around town has to fit into that window.*
 
-**In practice:** airport-centre bus with departures timed to flights, about 20 minutes, timetable and operator to double-check · Kiruna church free to enter, opening times vary · at New Year restaurants have reduced hours or close, book dinner.
+**In practice:** airport-centre bus with departures timed to flights, about 20 minutes and about 100-110 SEK, timetable and operator to double-check · Kiruna church free to enter, opening times vary · at New Year restaurants have reduced hours or close, book dinner.
 
 ### Day 3 — Kiruna → Abisko
 I traveled on the scenic Kiruna-Abisko train: a good hour through a landscape that gets gradually barer and more Arctic. In Abisko I settled into the **STF Abisko Turiststation**, the historic mountain station inside the national park, where the **Aurora Sky Station** chairlift starts. The train is the one on the line to Narvik, run by SJ: Abisko has two stops, Abisko Östra for the village and Abisko Turiststation in front of the lodge, which is the right one. In daylight you can take a short walk to the canyon of the Abiskojåkka river, a few minutes from the station, with frozen Lake Torneträsk in the background.

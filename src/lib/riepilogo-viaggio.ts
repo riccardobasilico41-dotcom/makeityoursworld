@@ -112,6 +112,8 @@ export type DatiRiepilogo = {
   /** true quando manca la data vera del viaggio e «quando» è il periodo migliore per andarci. */
   quandoMigliore?: boolean
   budget?: string
+  /** Prima opzione per arrivare in centro dall'aeroporto (il resto è nella Scheda pratica). */
+  aeroporto?: string
   ritmo?: string
   muoversi?: string
   tappe?: string
@@ -176,6 +178,16 @@ export function datiRiepilogo(viaggio: Viaggio, meta: TripMeta, lingua: Lingua):
     breve(meta.trasporti, 110) ??
     breve(prima(scheda, (k) => /^(come ci si muove|come mi sono mosso|trasporti( interni)?|getting around|how i got around|transport|internal transport|domestic transport|c[oó]mo (moverse|me mov[ií]|se mueve|desplazarse)|transporte( interno)?)$/.test(k)), 110)
 
+  // «Dall'aeroporto al centro» della Scheda pratica: qui solo l'aeroporto e la prima opzione
+  const aeroportoIntero = prima(scheda, (k) => /^(dall['’]aeroporto( al centro)?|from the airport( to the cent(re|er))?|del aeropuerto( al centro)?|desde el aeropuerto( al centro)?)$/.test(k))
+  let aeroporto: string | undefined
+  if (aeroportoIntero) {
+    let a = aeroportoIntero.replace(/\s+/g, ' ').trim().split(' · ')[0].replace(/[.;,]$/, '')
+    if (a.length > 150) a = a.slice(0, 150).replace(/\s+\S*$/, '') + '…'
+    if ((a.match(/\*\*/g) ?? []).length % 2 === 1) a = a.replace(/\*\*/g, '')
+    aeroporto = a.charAt(0).toUpperCase() + a.slice(1)
+  }
+
   const nomi = new Set(meta.tappeMappa.map((t) => nomeTappa(t.nome)).filter(Boolean))
   const paesi = paesiDelViaggio(viaggio, meta, lingua)
   let tappe: string | undefined
@@ -193,6 +205,7 @@ export function datiRiepilogo(viaggio: Viaggio, meta: TripMeta, lingua: Lingua):
     quando: maiuscola(quando),
     quandoMigliore,
     budget,
+    aeroporto,
     ritmo: breve(meta.ritmo, 90),
     muoversi,
     tappe,

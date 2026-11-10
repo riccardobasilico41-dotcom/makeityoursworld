@@ -1,4 +1,4 @@
-import { CalendarDays, Clock, Gauge, Globe2, MapPinned, Route, Sparkles, Users, Wallet, Heart } from 'lucide-react'
+import { CalendarDays, Clock, Gauge, Globe2, MapPinned, Route, Sparkles, Users, Wallet, Heart, PlaneLanding } from 'lucide-react'
 import { InfoPratiche } from '@/components/scheda/Blocchi'
 import { datiRiepilogo, PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
 import { getPaese } from '@/lib/geo'
@@ -16,6 +16,7 @@ const T = {
     quando: 'Quando',
     migliore: 'Periodo migliore',
     budget: 'Budget indicativo',
+    aeroporto: "Dall'aeroporto",
     ritmo: 'Ritmo',
     muoversi: 'Come ci si muove',
     tappe: 'Tappe principali',
@@ -30,6 +31,7 @@ const T = {
     quando: 'When',
     migliore: 'Best time to travel',
     budget: 'Estimated budget',
+    aeroporto: 'From the airport',
     ritmo: 'Pace',
     muoversi: 'Getting around',
     tappe: 'Main stops',
@@ -44,6 +46,7 @@ const T = {
     quando: 'Cuándo',
     migliore: 'Mejor época',
     budget: 'Presupuesto orientativo',
+    aeroporto: 'Desde el aeropuerto',
     ritmo: 'Ritmo',
     muoversi: 'Cómo moverse',
     tappe: 'Paradas principales',
@@ -117,6 +120,7 @@ export async function RiepilogoViaggio({ viaggio, meta }: { viaggio: Viaggio; me
           { label: t.durata, value: d.durata, icona: Clock },
           { label: d.quandoMigliore ? t.migliore : t.quando, value: d.quando, icona: CalendarDays },
           { label: t.budget, value: d.budget, icona: Wallet },
+          { label: t.aeroporto, value: d.aeroporto, icona: PlaneLanding },
           { label: t.ritmo, value: d.ritmo, icona: Gauge },
           { label: t.muoversi, value: d.muoversi, icona: Route },
           { label: t.paesi, value: paesiEArea(viaggio.slug, lingua), icona: Globe2 },

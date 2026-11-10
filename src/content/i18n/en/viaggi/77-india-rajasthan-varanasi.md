@@ -32,6 +32,7 @@ The rest of the loop is the classic North, taken slowly. Three days on the Gange
 - **Clothing and women traveling:** loose clothes covering shoulders and legs, a scarf always in your bag. In Varanasi the alleys are narrow and crowded: better not to walk them alone after sunset.
 - **Connectivity:** Airtel or Jio SIM at Delhi airport; good signal almost everywhere, weak among the dunes.
 - **Time zone:** UTC+5:30, 3.5 hours ahead of Italy during daylight saving time, 4.5 in winter.
+- **From the airport to the centre:** from **Delhi Indira Gandhi (DEL)** the Airport Express metro, orange line, leaves from Terminal 3 and reaches New Delhi Railway Station in about 20 minutes, about 60-65 rupees, token or QR at the ticket office, running from about 5:00 to 23:30; T1 is served by the Magenta line · prepaid taxi from the official police desk in arrivals, about 500-900 rupees, with a night surcharge · Uber and Ola about 400-800 rupees from the signed pick-up zone · on the way back, **Udaipur (UDR)** is 30-40 minutes from the centre by taxi or app · the typical mistake is listening to anyone who says your hotel is closed or full and offers somewhere else: go straight to the address you booked.
 
 ## Itinerario giorno per giorno
 

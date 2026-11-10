@@ -16,6 +16,7 @@ Among all the French wine routes, this itinerary combines the two best suited to
 - **Alsace**: wineries often welcome visitors without an appointment, with free or almost free tastings.
 - **Champagne**: an appointment is recommended for the big houses, free or paid depending on the house.
 - **Designated driver, or spit when tasting**, always.
+- **From the airport to the centre:** for Colmar the handiest airport is **EuroAirport Basel-Mulhouse (BSL/MLH)**: from the French sector bus 11 goes to Saint-Louis station in about 10 minutes (about €2.50, 5am to midnight), then a direct TER train to Colmar every half hour, about 40 minutes · from **Strasbourg (SXB)** the shuttle train reaches the central station in 9 minutes, then a TER to Colmar in about 30 · if you rent a car, pick it up at the airport and you're in Colmar in about an hour · on the way back, from Champagne-Ardenne TGV station near Reims, direct TGVs reach **Paris Charles de Gaulle (CDG)** in about 40 minutes · at EuroAirport, exit on the French side, not the Swiss one.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Arrival in Colmar

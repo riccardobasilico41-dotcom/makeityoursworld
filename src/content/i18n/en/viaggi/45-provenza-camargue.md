@@ -16,6 +16,7 @@ Provence, the Camargue and Occitanie are three different Mediterranean landscape
 - **Lavender**: the window is narrow and changes from plateau to plateau, so it's worth checking the situation a few days before.
 - **Calanques**: in summer access changes day by day because of the fire risk, so always check.
 - **Crit'Air sticker** for Marseille and Aix.
+- **From the airport to the centre:** the most used airport is **Marseille Provence (MRS)**. · **A1 shuttle** (formerly line 91) to Saint-Charles station: about €15 at 2026 fares, 25-50 minutes, every 10-20 minutes from about 4am until late evening, ticket at the machines or online · **train**: free shuttle to Vitrolles Aéroport Marseille Provence station, then TER to Saint-Charles in about 15-20 minutes or to Avignon, where the itinerary starts, in about an hour · metered **taxi**: about €60 by day and €70 at night to Marseille · it is best to pick up the rental car at the airport and avoid driving into the city.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Avignon

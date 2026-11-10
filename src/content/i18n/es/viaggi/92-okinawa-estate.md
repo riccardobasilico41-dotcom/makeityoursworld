@@ -23,6 +23,7 @@ Como todos los viajes de esta web, nace de lugares que he visitado personalmente
 - **Mar:** en verano está la medusa habu, peligrosa. Muchas playas vigiladas tienen redes de protección: nadar dentro de las redes y usar neopreno o licra. En muchas zonas las corrientes son fuertes más allá del arrecife.
 - **Sol:** fuerte incluso con el cielo cubierto. Crema solar reef-safe, camiseta de manga larga en el agua, mucha agua para beber.
 - **Moneda:** yen. Tarjetas casi en todas partes en Naha e Ishigaki, efectivo para los locales pequeños y las islas menores.
+- **Del aeropuerto al centro:** desde **Naha (OKA)** el monorraíl Yui Rail sale de la estación conectada con la terminal y llega a Kencho-mae, en Kokusai-dori, en 12-15 minutos, unos 290 yenes (320 hasta Makishi), billete en la máquina o tarjeta IC como Suica o PASMO, servicio de las 6:00 a las 23:30 aproximadamente; el JR Pass no vale · taxi al centro en 15-20 minutos, unos 1.500-2.000 yenes · en **Ishigaki (ISG)** autobús a la terminal del puerto en unos 30-45 minutos, unos 550 yenes · en **Miyako (MMY)** autobús o taxi, el centro de Hirara está a 10-15 minutos · el error típico es recoger el coche en el aeropuerto el primer día en Naha, donde no hace falta y el aparcamiento se paga.
 
 ## Itinerario giorno per giorno
 
@@ -31,7 +32,7 @@ Se llega a Naha normalmente por la tarde, tras el vuelo interno. Monorraíl hast
 
 Para cenar, un izakaya con música en directo de sanshin, el laúd de tres cuerdas de la isla, y los primeros platos de Okinawa: goya champuru con el melón amargo, soki soba, rafute, el cerdo estofado. Los locales con música en directo suelen hacer varios pases por noche, y los fines de semana de verano conviene reservar. Para beber, la cerveza Orion de la isla o el awamori, el destilado local, que se alarga con agua y hielo. Las calles cubiertas que salen de Kokusai-dori, como Heiwa-dori, por la noche son más tranquilas y merece la pena recorrerlas.
 
-**En la práctica:** Yui Rail del aeropuerto al centro unos 15 minutos, unos pocos cientos de yenes, servicio aproximadamente de 6:00 a 23:30 · para dormir, la zona entre Kencho-mae y Makishi es la más cómoda · coche de alquiler que recoger el día 5, reservado desde casa para julio y agosto.
+**En la práctica:** Yui Rail del aeropuerto al centro unos 15 minutos, unos 290 yenes, servicio aproximadamente de 6:00 a 23:30 · para dormir, la zona entre Kencho-mae y Makishi es la más cómoda · coche de alquiler que recoger el día 5, reservado desde casa para julio y agosto.
 
 ### Día 2 — Naha: Shuri, el mercado y la historia
 Por la mañana el **castillo de Shuri**, la sede del reino de las Ryukyu, Patrimonio de la UNESCO junto con los demás sitios gusuku de la isla. El palacio principal, el Seiden, se quemó en 2019 y está en reconstrucción, con el final de las obras previsto para el otoño de 2026: la apertura al público está anunciada para el 23 de noviembre de 2026, con entrada a horario que reservar online, y qué está abierto y en qué punto están las obras se comprueba en la web del parque. Se llega con el Yui Rail hasta la estación de Shuri y luego a pie, cuesta arriba, en unos quince minutos. Conviene ir a la hora de apertura, antes del calor y de los grupos.

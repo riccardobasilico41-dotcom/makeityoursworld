@@ -24,6 +24,7 @@ Il Borneo non è un'appendice della Malesia: è un viaggio a sé, con tempi, cos
 - **Trasporti:** si vola. Kota Kinabalu è a 2h30 da Kuala Lumpur, e sul posto le distanze sono lunghe e le strade lente: da Kota Kinabalu a Sandakan ci vogliono sei ore, da Sandakan al Kinabatangan altre due. Quasi tutto si organizza a pacchetto con trasferimenti inclusi, ed è la scelta ragionevole.
 - **Budget:** è la parte cara di qualsiasi viaggio in Malesia. Tra lodge a pacchetto, permessi contingentati e voli interni, il conto si fa prima, non in corso d'opera.
 - **Cosa portare:** binocolo (sul Kinabatangan cambia la giornata più di qualsiasi obiettivo), strati veri per la vetta del Kinabalu, calze antisanguisughe, torcia frontale, guscio antipioggia leggero e contanti.
+- **Dall'aeroporto al centro:** **Kota Kinabalu (BKI)** è a circa 8 km dalla città. **Taxi con coupon** a prezzo fisso, da comprare al banco degli arrivi, circa 30-45 RM secondo la zona · **Grab** dalla zona di prelievo segnalata, circa 15-25 RM in 20-30 minuti, con tariffe più alte nelle ore di punta · **bus urbano** dal livello 1 degli arrivi, circa 5 RM, lento e poco frequente · il coupon si compra solo al banco, mai dagli autisti che si avvicinano fuori · al ritorno da **Tawau (TWU)**, a circa un'ora e mezza da Semporna, conviene il transfer prenotato con il dive center o il lodge; anche lì funziona Grab.
 
 ## Itinerario giorno per giorno
 

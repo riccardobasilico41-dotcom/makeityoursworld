@@ -26,6 +26,7 @@ L'auto serve solo per tre giorni. In città sarebbe un peso, tra traffico, parch
 - **Salute:** la TEAM copre le cure necessarie nel servizio pubblico NHS; un'assicurazione di viaggio resta consigliata.
 - **Prese:** tipo G, a tre poli rettangolari. Serve un adattatore.
 - **Meteo:** può piovere in qualunque mese. Strati e una giacca impermeabile.
+- **Dall'aeroporto al centro:** **Heathrow (LHR)**. · **Piccadilly line** della metro: circa 5,90 £ con carta contactless, 50-60 minuti, la più economica, e il venerdì e il sabato corre anche di notte · **Elizabeth line**: circa 15,50 £, circa 30-40 minuti fino a Paddington e Tottenham Court Road · **Heathrow Express** per Paddington: circa 25 £ comprato il giorno stesso, circa 10 £ con largo anticipo, 15-20 minuti · **taxi neri** col tassametro circa 70-110 £; Uber circa 50-70 £ · l'errore da evitare è pagare con due carte o due dispositivi diversi: il tetto giornaliero vale su una sola carta.
 
 ## Itinerario giorno per giorno
 

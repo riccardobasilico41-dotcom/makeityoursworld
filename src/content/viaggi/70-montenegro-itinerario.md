@@ -24,6 +24,7 @@ Questo itinerario tiene insieme le due anime del paese. La costa, con le **Bocch
 - **Elettricità:** 230V, prese di tipo C e F, come in Italia.
 - **Fuso orario:** lo stesso dell'Italia, con l'ora legale.
 - **Lingua:** montenegrino (molto vicino a serbo, croato e bosniaco), scritto in alfabeto latino e cirillico. L'inglese si parla nel turismo; l'italiano capita spesso sulla costa.
+- **Dall'aeroporto al centro:** a Tivat (TIV) si ritira l'auto a noleggio; in alternativa taxi per Kotor in circa 15-20 minuti, circa 15-20 €, mentre la fermata dei bus di linea è sulla strada principale, a circa 200 metri dal terminal · a Podgorica (TGD) non ci sono bus regolari: taxi per il centro in circa 15 minuti, circa 15-25 €, per Kotor o Tivat circa 60-80 € · Uber e Bolt non operano nel paese: il prezzo si concorda prima di salire, o si chiama una compagnia di taxi con tassametro · da evitare i taxi fermi davanti all'uscita degli arrivi, di solito i più cari.
 
 ## Itinerario giorno per giorno
 
@@ -46,7 +47,7 @@ Dodici chilometri lungo la riva ci hanno portato a **Perast**, un paese barocco 
 
 Nel pomeriggio abbiamo continuato il giro della baia in auto: **Risan**, con i mosaici romani di una villa del II secolo, poi il passaggio stretto di **Verige** e il **traghetto di Kamenari-Lepetane**, cinque minuti di traversata che evitano il giro completo della baia, fino alla penisola di Luštica e a **Tivat**, con il porto turistico di Porto Montenegro. In serata siamo rientrati a Kotor dall'altra sponda.
 
-**In pratica:** barca per la Madonna dello Scarpello pochi euro a persona andata e ritorno, piccola offerta per il museo della chiesa · a Perast l'auto si lascia nei parcheggi all'ingresso del paese · traghetto di Kamenari circa 5 € per un'auto, pedoni gratis, aperto giorno e notte, code lunghe nei pomeriggi d'estate.
+**In pratica:** barca per la Madonna dello Scarpello circa 5 € a persona andata e ritorno dal lungomare di Perast, piccola offerta per il museo della chiesa · a Perast l'auto si lascia nei parcheggi all'ingresso del paese · traghetto di Kamenari circa 5 € per un'auto, pedoni gratis, aperto giorno e notte, code lunghe nei pomeriggi d'estate.
 
 ### Giorno 4 — Le serpentine del Lovćen, Njeguši e Cetinje
 La strada che sale da Kotor verso il **Lovćen** è una delle più spettacolari dei Balcani: venticinque tornanti stretti sulla parete della montagna, con le Bocche sempre più piccole sotto di sé. In cima c'è **Njeguši**, il villaggio dove si producono il prosciutto crudo affumicato (pršut) e il formaggio di montagna, da assaggiare in una delle trattorie lungo la strada. Abbiamo proseguito nel parco nazionale fino al **mausoleo di Njegoš**, sulla vetta del Jezerski vrh a 1.657 metri, raggiunto da un tunnel e da 461 gradini: dalla terrazza, nelle giornate limpide, si vedono il mare, il lago di Scutari e l'Albania.
@@ -114,7 +115,7 @@ Con un volo nel pomeriggio, la mattina basta per un giro a piedi: si parte dalla
 ## Come muoversi
 - **Auto a noleggio:** la soluzione migliore. Si ritira a Tivat o Podgorica, indicativamente 30-60 € al giorno in estate, meno in bassa stagione. Per uscire dal paese (Croazia, Bosnia, Albania) serve l'autorizzazione scritta del noleggiatore e la **carta verde**, con un supplemento indicativo di 30-60 € a noleggio, fino a 100 € con alcune compagnie per l'Albania. Alcuni noleggiatori locali non permettono l'Albania. In auto serve il libretto di circolazione in originale, anche per le auto a noleggio: con la fotocopia si viene respinti.
 - **Regole di guida:** fari accesi anche di giorno tutto l'anno, limite di alcol 0,3 g/l (zero per i neopatentati), cintura obbligatoria, telefono vietato alla guida. A bordo triangolo, kit di pronto soccorso, giubbotto catarifrangente e lampadine di ricambio; dal 15 novembre al 31 marzo catene o gomme da neve. Limiti di velocità bassi e controlli frequenti, con multe da pagare sul posto o in banca.
-- **Strade:** la costiera tra Herceg Novi e Ulcinj è lenta e trafficata d'estate. Il tunnel Sozina (tra Virpazar e Bar) e il tratto autostradale Smokovac-Mateševo, verso nord, sono a pedaggio, pochi euro. Le strade di montagna sono strette, con tornanti e pochi guardrail: si viaggia solo di giorno.
+- **Strade:** la costiera tra Herceg Novi e Ulcinj è lenta e trafficata d'estate. Il tunnel Sozina (tra Virpazar e Bar) e il tratto autostradale Smokovac-Mateševo, verso nord, sono a pedaggio: circa 2,50 € il tunnel e 3,50 € l'autostrada per un'auto. Le strade di montagna sono strette, con tornanti e pochi guardrail: si viaggia solo di giorno.
 - **Traghetto di Kamenari-Lepetane:** attraversa il punto più stretto delle Bocche in cinque minuti, circa 5 € per un'auto, giorno e notte. Evita il giro della baia per chi arriva da Herceg Novi o dalla Croazia e va verso Tivat e Budva.
 - **Senza auto:** bus frequenti tra Kotor, Budva, Podgorica e Herceg Novi; bus e un treno per Podgorica-Bar e per il nord (Kolašin). Per Durmitor, Ostrog e il lago servono tour organizzati o un autista.
 - **Dall'Italia via mare:** il traghetto notturno **Bari-Bar** negli ultimi anni ha navigato solo d'estate, e secondo Viaggiare Sicuri nell'estate 2026 non ci sono collegamenti diretti tra Italia e Montenegro. Chi viaggia con la propria auto passa da Durazzo, in Albania, o dalla Croazia.
@@ -144,7 +145,7 @@ Prezzi a persona in camera doppia, voli esclusi (dall'Italia a Tivat o Podgorica
 - **Fascia economica (50-70 € al giorno):** guesthouse e appartamenti, cucina locale, auto in condivisione.
 - **Fascia media (90-140 € al giorno):** piccoli hotel sul mare e in montagna, cene in konoba, escursioni in barca e rafting.
 - **Fascia alta (da 200 € al giorno):** resort di Luštica e Porto Montenegro, hotel di design a Kotor e Budva.
-- **Voci principali:** auto 30-60 € al giorno; mura di Kotor circa 15 €; traghetto di Kamenari circa 5 € per l'auto; parchi nazionali 3-5 € ciascuno, mausoleo di Njegoš circa 8 €; barca per la Madonna dello Scarpello pochi euro; giro in barca sul lago 15-30 €; rafting 50-80 €; un pasto in konoba 15-30 €.
+- **Voci principali:** auto 30-60 € al giorno; mura di Kotor circa 15 €; traghetto di Kamenari circa 5 € per l'auto; parchi nazionali 3-5 € ciascuno, mausoleo di Njegoš circa 8 €; barca per la Madonna dello Scarpello circa 5 €; giro in barca sul lago 15-30 €; rafting 50-80 €; un pasto in konoba 15-30 €.
 
 ## Truffe comuni e sicurezza
 - **Il paese è sicuro** per i turisti, secondo Viaggiare Sicuri, nonostante la presenza di gruppi criminali locali che si regolano i conti tra loro. I problemi più comuni sono scippi e piccoli furti nelle località affollate della costa in estate, soprattutto in spiaggia, e auto aperte lasciate con oggetti in vista. Il paese è a rischio sismico e d'estate ci sono incendi.

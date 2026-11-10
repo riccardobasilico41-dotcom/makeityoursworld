@@ -19,7 +19,7 @@ Le isole sono il secondo tempo, e vanno prese con un criterio: **non sono interc
 - **Quando andare:** **maggio-giugno e da metà settembre a inizio ottobre.** Luglio e agosto sono saturi su ogni fronte (strada, traghetti, prezzi, spiagge), e in agosto il rapporto tra quello che si spende e quello che si ottiene è il peggiore dell'anno. **Aprile e ottobre** sono ideali per i sentieri, con il mare ancora o già fuori gioco. **Da novembre a marzo** la costa si svuota sul serio: è bellissima e silenziosa, ma molte strutture sono chiuse.
 - **Niente auto. Sul serio.** La statale 163 è stretta, tortuosa e senza parcheggi; dove ci sono, costano cifre fuori scala. **In alta stagione su alcuni tratti vige un regime a targhe alterne**, che cambia di anno in anno. **A Capri l'accesso delle auto dei non residenti è vietato**, e su **Procida e Ischia ci sono limitazioni stagionali allo sbarco dei veicoli**: sono regole da controllare tutte prima di partire.
 - **Come ci si muove, in pratica:**
-  - **Traghetti e aliscafi** collegano Salerno, Amalfi, Positano, Sorrento, Capri, Ischia, Procida e Napoli. Costano pochi euro a tratta, sono veloci e panoramici. **Il limite è il mare:** con vento forte le corse saltano, soprattutto sulle rotte minori e fuori stagione. **Va sempre previsto un piano B via terra.**
+  - **Traghetti e aliscafi** collegano Salerno, Amalfi, Positano, Sorrento, Capri, Ischia, Procida e Napoli. Costano da circa 10 € a tratta (Salerno-Amalfi) a oltre 25 € (Napoli-Capri in aliscafo), sono veloci e panoramici. **Il limite è il mare:** con vento forte le corse saltano, soprattutto sulle rotte minori e fuori stagione. **Va sempre previsto un piano B via terra.**
   - **I bus SITA** percorrono tutta la costiera, sono economici e sono l'unico modo di raggiungere i paesi alti come Ravello e Agerola. D'estate sono pieni e si resta a terra: conviene salire ai capolinea.
   - **A Napoli i porti sono due:** **Molo Beverello** per gli aliscafi veloci e **Calata Porta di Massa** per i traghetti con i veicoli. Sono vicini ma distinti, e sbagliare porto costa un'ora.
   - **Per Ischia e Procida conviene spesso partire da Pozzuoli** invece che da Napoli: la traversata è più corta e costa meno.
@@ -28,6 +28,7 @@ Le isole sono il secondo tempo, e vanno prese con un criterio: **non sono interc
 - **Scalini:** questa costa si misura in scalini, non in chilometri. Positano si scende e si risale a piedi; il Sentiero degli Dei finisce con **circa 1.700 gradini** di discesa su Positano; Sorgeto a Ischia si raggiunge con **oltre duecento scalini** in discesa che poi vanno rifatti in salita. Chi ha problemi alle ginocchia deve saperlo prima.
 - **Cibo:** qui la tradizione è quella dei pescatori, quindi **pesce azzurro** e non pesce nobile. La **colatura di alici di Cetara**, erede diretta del **garum** romano, ottenuta dalla maturazione delle alici sotto sale in botti di legno, si usa **a crudo** su spaghetti con aglio, olio e prezzemolo, e **non va mai cotta**. Poi gli **scialatielli**, la **mozzarella nella mortella**, la **pezzogna** e i totani, e il **limone sfusato amalfitano**, enorme, dalla buccia spessa, che si mangia anche in insalata. Il **limoncello** in vendita è quasi sempre industriale: quello buono si compra dai produttori.
 - **A Ischia, il capitolo terme:** l'isola è vulcanica e le sorgenti sono ovunque. Ci sono **grandi parchi termali attrezzati** sul versante occidentale, a pagamento e con ingresso a giornata, e ci sono **sorgenti libere** come **Sorgeto**, dove l'acqua bollente esce direttamente nel mare in una baia di sassi.
+- **Dall'aeroporto al centro:** si atterra a Napoli Capodichino (NAP) · l'Alibus porta alla stazione Centrale (Piazza Garibaldi) in circa 15-20 minuti e al Molo Beverello, per traghetti e aliscafi, in circa 35-45, dalle 6 a mezzanotte circa, 5 € · il bus Curreri va diretto a Sorrento in circa 75-90 minuti, circa 10 €, con poche corse tra le 9 e le 19:30 · taxi a tariffa predeterminata, circa 21 € per il centro storico o la stazione e circa 24 € per il Molo Beverello: va chiesta prima di salire, altrimenti parte il tassametro · da evitare gli autisti abusivi che si offrono agli arrivi.
 
 ## Itinerario giorno per giorno
 
@@ -66,7 +67,7 @@ Nel pomeriggio siamo saliti a **Ravello**, a circa quattrocento metri sopra la c
 
 La sera a Ravello, se si riesce a restare, è un'altra cosa: dopo che gli ultimi bus sono scesi, il paese cambia.
 
-**In pratica:** traghetto per Amalfi, pochi euro a tratta · Duomo e Chiostro del Paradiso con biglietto · Atrani a dieci minuti a piedi · bus SITA per Ravello, che d'estate si riempie: meglio salire al capolinea · Villa Rufolo e Villa Cimbrone con biglietti separati.
+**In pratica:** traghetto per Amalfi, circa 9-15 € a tratta da Salerno · Duomo e Chiostro del Paradiso con biglietto · Atrani a dieci minuti a piedi · bus SITA per Ravello, che d'estate si riempie: meglio salire al capolinea · Villa Rufolo e Villa Cimbrone con biglietti separati.
 
 ### Giorno 4 — La costa orientale e la Valle delle Ferriere
 È la giornata delle cose che quasi nessuno fa.

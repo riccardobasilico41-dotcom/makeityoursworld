@@ -18,6 +18,7 @@ The Tour du Mont Blanc circles the highest massif in the Alps in full, about a h
 - **Sleeping bag liner required** in all the huts.
 - **Cash** for the huts with no card line.
 - **Regular afternoon thunderstorms**: start early to reach the hut before early afternoon.
+- **From the airport to the centre:** you fly into **Geneva (GVA)**, 1h15-1h40 from Chamonix: direct buses (FlixBus, AlpyBus, Swiss Tours and others) about €15-30 per person, to book online, with few evening runs · shared door-to-door shuttles about €40-50 per person, private transfers over €200 per vehicle · from Chamonix to Les Houches local bus or the Mont-Blanc Express train in 10-15 minutes, free with the guest card given by hotels and campsites · alternatively **Turin (TRN)** or **Milan Malpensa (MXP)** for those starting from Courmayeur, 2-3 hours away · the typical mistake is booking the last bus of the evening: with a delayed flight you are stranded.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Les Houches, start
@@ -46,7 +47,7 @@ In **Courmayeur** you can stay longer or take a rest day. From Val Veny the trai
 
 The afternoon in Courmayeur is for practical things: washing clothes, restocking food and cash, changing socks. With energy left and a clear day, take the **Skyway Monte Bianco** up to Punta Helbronner, above 3,400 meters, to look down on the massif after walking around it. *With low cloud it is not worth the ticket: keep it in reserve for a sunny day.*
 
-**In practice:** Courmayeur has pharmacies, mountain shops, supermarkets and ATMs, the last easy chance before Switzerland · the Skyway costs a few tens of euros, so check the summit weather before going up · it has the widest choice of beds on the whole loop, but book for August.
+**In practice:** Courmayeur has pharmacies, mountain shops, supermarkets and ATMs, the last easy chance before Switzerland · the Skyway costs about €59-63 return to Punta Helbronner, so check the summit weather before going up · it has the widest choice of beds on the whole loop, but book for August.
 
 ### Day 5 — Rifugio Bonatti
 We climbed to the **Rifugio Bonatti**, one of the best-known viewpoints on the loop. From Courmayeur a steep climb through the woods starts straight away and leads to **Rifugio Bertone**, at about 2,000 meters, best done in the cool of the morning. From there begins the finest stretch of the Italian side: a balcony path along the slopes of Mont de la Saxe, almost level, with the **Grandes Jorasses** and the Dent du Géant in front of you all morning.

@@ -24,6 +24,7 @@ This guide lays out the classic Ontario and Québec itinerary, the one you do in
 - **Health insurance** with a high coverage limit: care for non-residents is expensive.
 
 ### Car rental and driving
+- **From the airport to the centre:** from **Toronto Pearson (YYZ)** the **UP Express** train reaches Union Station in 25 minutes, CAD 12.35 (9.25 with a PRESTO card), every 15 minutes from about 5am to 1am · TTC bus 900 to Kipling subway, about CAD 3.30, slower · **taxis and limousines** at a flat zone fare, about CAD 60-70 to downtown plus tip · **Uber/Lyft** from the zone shown in the app · if you rent a car, pick it up on arrival · at **Montréal-Trudeau (YUL)** the **747** bus goes downtown in 45-70 minutes, CAD 11 including a 24-hour pass, running 24 hours a day; taxis have a flat fare to downtown, about CAD 49.45 by day and 56.70 at night.
 - **One-way Toronto-Montréal:** returning the car in another province almost always carries a surcharge. It's worth asking for it in the quote and comparing it with the cost of a return flight to Toronto. Alternatively you can do a loop and go back to Toronto, adding about 550 km (340 miles).
 - **Pickup or SUV:** you don't need one for the roads on this itinerary, which are all paved, but a big vehicle is handy with luggage. Rental pickups usually have an open bed: keep suitcases in the cab or covered.
 - **Book from Italy** with unlimited mileage and full insurance; you need a credit card in the driver's name for the deposit.

@@ -14,6 +14,7 @@ La regola d'oro qui è non vederne troppi: cinque o sei castelli in sei giorni, 
 ## Scheda pratica
 - **Quando andare:** aprile-giugno per i giardini in fiore, settembre-ottobre per i colori e meno folla.
 - **Base:** Amboise, Tours o Blois.
+- **Dall'aeroporto al centro:** dall'Italia si arriva quasi sempre a **Parigi Charles de Gaulle (CDG)** o **Orly (ORY)**. Per questo itinerario conviene l'auto a noleggio presa in aeroporto: Blois e Amboise sono a circa due ore e mezza di autostrada. In treno, da CDG partono TGV diretti per Saint-Pierre-des-Corps, accanto a Tours, in 1h40-2h, prezzi variabili su SNCF Connect; altrimenti RER B da CDG o metro 14 da Orly con il biglietto Paris Région-Aéroports, circa 14 €, e da Austerlitz treni per Blois in circa 1h30. Taxi CDG-Parigi a tariffa fissa, 56-65 € secondo la riva. Il biglietto metro normale non vale per gli aeroporti.
 - **Un castello al giorno**, non due: dopo il terzo capolavoro in due giorni si smette di distinguerli.
 - **Bicicletta**: l'itinerario ciclabile Loira a Vélo collega i castelli lungo l'argine, in piano.
 

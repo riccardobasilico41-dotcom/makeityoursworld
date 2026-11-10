@@ -16,6 +16,7 @@ Provenza, Camarga y Occitania son tres paisajes mediterráneos distintos reunido
 - **Lavanda**: la ventana es estrecha y cambia de una meseta a otra, conviene comprobar el estado pocos días antes.
 - **Calanques**: en verano el acceso cambia día a día por el riesgo de incendios, hay que comprobarlo siempre.
 - **Pegatina Crit'Air** para Marsella y Aix.
+- **Del aeropuerto al centro:** el aeropuerto más usado es **Marsella Provenza (MRS)**. · **Lanzadera A1** (antigua línea 91) a la estación Saint-Charles: unos 15 € con las tarifas de 2026, 25-50 minutos, cada 10-20 minutos desde las 4 aproximadamente hasta última hora, billete en las máquinas o en línea · **tren**: lanzadera gratuita hasta la estación Vitrolles Aéroport Marseille Provence, luego TER a Saint-Charles en unos 15-20 minutos o a Aviñón, donde empieza el itinerario, en una hora aproximadamente · **taxi** con taxímetro: unos 60 € de día y 70 € de noche hasta Marsella · conviene recoger el coche de alquiler en el aeropuerto y no entrar en la ciudad.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Aviñón

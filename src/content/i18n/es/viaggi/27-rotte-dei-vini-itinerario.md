@@ -20,6 +20,7 @@ Italia es el mayor productor mundial de vino y tiene más de quinientas variedad
 - **Comprar:** en la bodega el precio es el de producción y se habla con quien ha hecho el vino. **No comprar en la enoteca lo que se puede comprar en la bodega.** Conviene llevar algo para proteger las botellas durante el viaje.
 - **En la cata:** nada de perfumes fuertes, que interfieren. Y no hace falta fingir que se sabe: los productores explican mucho más a gusto a quien es curioso que a quien actúa.
 - **Dónde comer:** las **osterie concertadas con los consorcios** tienen las cartas de vinos locales completas a precios cercanos a los de bodega. Es el sitio adecuado.
+- **Del aeropuerto al centro:** para las Langhe el aeropuerto más práctico es **Turín Caselle (TRN)**, y es ahí donde conviene recoger el coche de alquiler: hasta Alba hay alrededor de 1 hora y 15 minutos de carretera. Para quien pase antes por Turín: tren regional a la ciudad, unos 3,70 €, billete en la app de Trenitalia o en la máquina, último tren hacia las 22:30 · autobús Arriva hasta Porta Nuova, unos 45-50 minutos · taxi unos 40-50 €. Se vuelve desde **Florencia Peretola (FLR)**: tranvía T2 hasta Santa Maria Novella, unos 1,70 €, unos 20 minutos; taxi con tarifa fija al centro unos 28 €, con suplementos de noche, festivos y equipaje · en Florencia, el error que hay que evitar es entrar con el coche en la ZTL para devolver el alquiler.
 
 ## Itinerario giorno per giorno
 

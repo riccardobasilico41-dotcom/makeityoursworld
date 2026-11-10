@@ -22,6 +22,7 @@ Nine days are enough to do all four stops at a human pace, without the rushing t
 - **Flamenco, how to choose:** the more touristy tablaos tend toward standardized, amplified shows for large groups; the smaller ones without amplification, often in Triana (Seville) or in the cave houses of Sacromonte (Granada), give you something closer to the tradition. Price is not always a guarantee of authenticity.
 - **The heat:** even in the recommended window (March-May, September-October) the middle hours in Seville and Córdoba can be heavy: plan outdoor monuments for early morning or late afternoon.
 - **Electricity and currency:** euro, type C/F sockets identical to Italy. No surprises on that front.
+- **From the airport to the centre:** at Seville San Pablo (SVQ) Tussam's EA bus goes to Santa Justa, Prado de San Sebastián and Plaza de Armas in about 35 minutes, every 20-30 minutes from about 5:20 to 1:15, about €4, payable on board, contactless card included · fixed-fare taxi to the centre, about €25 by day and €28 at night and on holidays · Uber, Cabify and Bolt work · leaving from Málaga (AGP), the C1 Cercanías train links María Zambrano and the centre in about 12 minutes, about €2, every 20 minutes; the A Express bus costs about €4, a taxi about €20-25 · to avoid trouble, always check that the taxi applies the fixed fare.
 
 ## Itinerario giorno per giorno
 
@@ -57,7 +58,7 @@ In the morning we went to the **Alcázar de los Reyes Cristianos** and onto the 
 
 In the early afternoon, direct high-speed train to **Granada** (about an hour and a half). Book it in advance: services are not very frequent, and Granada station is about twenty minutes on foot from the center. The evening served to settle in, with a first walk around the center near the Cathedral. Next to it is the **Capilla Real**, where Isabella and Ferdinand are buried. *In Granada a free tapa comes with every drink: two or three bars already make a dinner.*
 
-**In practice:** Alcázar de los Reyes Cristianos closed on Mondays, ticket of a few euros · Patios festival in the first half of May, free entry to most houses · book the direct train to Granada on Renfe or the private high-speed operators.
+**In practice:** Alcázar de los Reyes Cristianos closed on Mondays, ticket about €7 · Patios festival in the first half of May, free entry to most houses · book the direct train to Granada on Renfe or the private high-speed operators.
 
 ### Day 5 — Granada: the Alhambra and the Generalife
 The day went almost entirely to the **Alhambra**: the **Nasrid Palaces** with the Patio de los Leones and the Hall of the Ambassadors (access tied to the ticket's time slot), the **Alcazaba**, the oldest fortress in the complex, and the **Generalife**, the sultans' summer gardens with their hidden fountains. For booking, mandatory well in advance, there's a dedicated experience page.

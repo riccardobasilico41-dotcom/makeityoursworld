@@ -24,6 +24,7 @@ Le quattro grandi città d'arte italiane si visitano quasi sempre nel modo sbagl
 - **Trasporti:** l'alta velocità collega tutto e, prenotando con settimane di anticipo, i prezzi crollano. Roma-Firenze 1h30, Firenze-Venezia 2h, Venezia-Napoli con cambio, Roma-Napoli poco più di un'ora. **In tutte e quattro le città l'auto è inutile o dannosa**: ZTL a Firenze e a Roma, Area B e C a Milano, e a Venezia le strade non ci sono proprio.
 - **La regola del cibo:** in tutte e quattro, **non mangiare entro trecento metri da un monumento famoso** e non entrare mai in un locale con le foto dei piatti fuori o con qualcuno che invita a entrare. È la regola che più di ogni altra separa il mangiare bene dal mangiare male in Italia.
 - **Musei gratuiti:** le prime domeniche del mese i musei statali sono gratuiti, e quindi hanno code enormi. Le chiese invece sono quasi tutte gratuite e contengono una parte enorme di ciò che si viene a vedere.
+- **Dall'aeroporto al centro:** a **Roma Fiumicino (FCO)** il Leonardo Express arriva a Termini in 32 minuti (14 €, dal primo mattino alle 23.30 circa, biglietto sull'app Trenitalia o alle macchinette) · il regionale FL1 costa circa 8 € ma non va a Termini (ferma a Trastevere, Ostiense e Tiburtina) · bus per Termini circa 6-7 €, quasi un'ora · taxi bianchi di Roma Capitale a tariffa fissa di 55 € entro le Mura Aureliane: da evitare i procacciatori negli arrivi e i taxi con licenza di Fiumicino, che non applicano la stessa tariffa · a **Napoli Capodichino (NAP)**, per la partenza, l'Alibus collega stazione Centrale e porto in circa 15-20 minuti (5 €), e il taxi ha una tariffa predeterminata (circa 16-21 € per la Centrale) da chiedere prima di partire.
 
 ## Itinerario giorno per giorno
 
@@ -120,7 +121,7 @@ Al tramonto siamo saliti sul **campanile di San Giorgio Maggiore**, che ha la vi
 
 Dopo il mercato si attraversa il **ponte di Rialto** ancora vuoto e si arriva a San Marco prima dell'apertura della basilica, quando la piazza è libera. Per la **basilica** conviene prenotare l'ingresso, che costa poco, e aggiungere il museo con i cavalli di bronzo e la loggia sulla piazza. **Palazzo Ducale** richiede almeno due ore, con le prigioni e il ponte dei Sospiri visto dall'interno. La Scuola Grande di San Rocco, nel sestiere di San Polo, ha specchi a disposizione per guardare i soffitti senza torcersi il collo. Per San Giorgio si prende il vaporetto da San Zaccaria. *A San Marco non ci si siede sui gradini e non si mangia: ci sono multe.*
 
-**In pratica:** Palazzo Ducale intorno ai 30 euro, meno comprando online in anticipo · basilica di San Marco con biglietto di pochi euro e prenotazione consigliata · campanile di San Giorgio con ascensore, biglietto di pochi euro
+**In pratica:** Palazzo Ducale intorno ai 30 euro, meno comprando online in anticipo · basilica di San Marco con biglietto di circa 10 euro, nominativo, e prenotazione consigliata · campanile di San Giorgio con ascensore, biglietto di pochi euro
 
 ### Giorno 10 — La laguna
 È la giornata che quasi nessuno fa. Siamo andati a **Torcello**, a quaranta minuti di vaporetto, con la basilica del VII secolo e il Giudizio Universale a mosaico che copre un'intera parete. Venezia è cominciata lì, prima che esistesse Venezia, e ci sono venti persone.
@@ -131,7 +132,7 @@ Poi **Burano** per le case colorate e **Murano** per il vetro, sapendo che sono 
 
 Per Torcello si prende la linea 12 dalle **Fondamente Nove**, che passa da Murano e Burano; conviene andare prima a Torcello, la tappa più lontana, e risalire. A Torcello, oltre alla basilica, c'è il campanile, da cui si vede tutta la laguna nord tra canneti e barene. Burano si gira in un'ora, tra le case colorate e il museo del merletto; a Murano conviene entrare in una fornace per vedere lavorare il vetro e visitare il **Museo del Vetro**. *Sulle isole i ristoranti si riempiono a pranzo: conviene prenotare o mangiare presto.* Il rientro al tramonto, sul vaporetto, è una delle viste migliori sulla città.
 
-**In pratica:** vaporetto biglietto singolo circa 9,50 euro, pass da 1, 2, 3 o 7 giorni a partire da circa 25 euro · linea 12 Fondamente Nove-Burano circa 40 minuti, poi la 9 per Torcello · basilica di Torcello e campanile con biglietti separati, pochi euro
+**In pratica:** vaporetto biglietto singolo circa 9,50 euro, pass da 1, 2, 3 o 7 giorni a partire da circa 25 euro · linea 12 Fondamente Nove-Burano circa 40 minuti, poi la 9 per Torcello · basilica di Torcello compresa nel biglietto di San Marco se usata entro sei mesi, campanile con biglietto separato, pochi euro
 
 ### Giorno 11 — Alta velocità per Napoli
 Ci siamo trasferiti a **Napoli**; per dormire, centro storico o Chiaia.

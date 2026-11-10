@@ -23,6 +23,7 @@ Come tutti i viaggi del sito, nasce da luoghi che ho visitato personalmente e da
 - **Bus da prenotare:** alcune corse del bus Nohi tra Takayama, Shirakawa-go e Kanazawa sono solo su prenotazione. Il bus diretto Matsumoto-Takayama è solo su prenotazione; orari e regole dei bus per Kamikochi sono sui siti degli operatori. Meglio controllare appena si hanno le date.
 - **Bagagli:** il trolley sul Nakasendō e a Kamikochi è un problema. Tra Magome e Tsumago c'è il servizio bagagli degli uffici turistici, per il resto si usa il takkyubin, la spedizione da hotel a hotel, da organizzare il giorno prima.
 - **Dormire:** almeno una notte in ryokan con onsen (Hakone), una in un paese del Nakasendō, una in shukubō a Kōya-san. Le case gasshō di Shirakawa-go con alloggio sono poche e vanno prenotate con largo anticipo.
+- **Dall'aeroporto al centro:** da Narita (NRT) il Narita Express arriva a Tokyo Station in circa un'ora, circa 3.100-3.300 yen con posto riservato; lo Skyliner porta a Ueno in circa 40 minuti, circa 2.600 yen; i bus per Tokyo Station costano circa 1.300-1.500 yen · da Haneda (HND) la Keikyu va a Shinagawa in circa 15 minuti, circa 300-330 yen, il monorail a Hamamatsuchō in circa 20 · le ultime corse partono verso mezzanotte, il taxi costa moltissimo · in partenza dal Kansai (KIX) l'Haruka da Kyoto impiega circa 75-80 minuti, circa 3.000-3.600 yen; da Namba il Rapi:t della Nankai costa circa 1.500 yen · l'errore classico: con la sola carta IC non si sale su Narita Express e Skyliner, serve il biglietto con posto.
 
 ## Itinerario giorno per giorno
 
@@ -52,7 +53,7 @@ Da Odawara lo Shinkansen porta a Nagoya, poi il limited express Shinano fino a N
 
 Magome è un paese di posta dell'epoca Edo, costruito in salita lungo la vecchia strada che univa Kyoto e Edo passando per le montagne. La via principale è lastricata e ripida, con case di legno, mulini ad acqua e botteghe di dolci di castagne. Si arriva nel pomeriggio, quando i gruppi in gita giornaliera se ne vanno. Si dorme in un minshuku del paese o a Tsumago. *Nei minshuku la cena e la colazione sono servite a orari fissi e il bagno è in comune: si prenota per tempo, i posti sono pochi.*
 
-**In pratica:** bus Nakatsugawa-Magome circa 25-30 minuti, poche centinaia di yen, non coperto dal JR Pass · contanti per il bus, il minshuku e le botteghe · chi vuole camminare domani da Magome lascia i bagagli all'ufficio turistico la mattina.
+**In pratica:** bus Nakatsugawa-Magome circa 25-30 minuti, circa 800 yen, non coperto dal JR Pass · contanti per il bus, il minshuku e le botteghe · chi vuole camminare domani da Magome lascia i bagagli all'ufficio turistico la mattina.
 
 ### Giorno 5 — A piedi da Magome a Tsumago, poi Matsumoto
 Il tratto più famoso del Nakasendō: circa 8 km, 2-3 ore di cammino tra boschi, cascate e una casa da tè a metà strada, con il passo di Magome a circa 790 metri. Da fine marzo a fine novembre gli uffici turistici dei due paesi spediscono i bagagli: si lasciano tra le 8.30 e le 11.30 e si ritirano all'arrivo dopo le 13, a 1.000 yen a collo. Partendo da Magome si sale nella prima parte e si scende verso Tsumago, la direzione più comoda. Lungo il sentiero ci sono campanelli contro gli orsi: si suonano passando.

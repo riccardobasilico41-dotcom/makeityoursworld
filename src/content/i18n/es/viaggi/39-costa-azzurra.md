@@ -18,6 +18,7 @@ Dos años viviendo en Antibes enseñan una cosa que ninguna guía escribe con su
 - **Viñeta Crit'Air:** si se conduce hacia Marsella u otras grandes ciudades, hay que pedirla en línea **semanas antes**.
 - **Playas:** gran parte de la costa, Niza incluida, es de **guijarros**. Con escarpines de goma la jornada cambia.
 - **Comida:** socca, pissaladière, pan bagnat, salade niçoise sin patatas ni judías verdes. El menú de mediodía cuesta la mitad que el de la noche.
+- **Del aeropuerto al centro:** **Niza Costa Azul (NCE)**. · **Tranvía línea 2** al centro de Niza y al puerto: unos 1,70 € el viaje más 2 € por la tarjeta recargable (hay también un ida y vuelta para el aeropuerto de unos 10 €), en las máquinas o en la app Lignes d'Azur, unos 30 minutos, hasta última hora · para la base de **Antibes**: desde la estación **Nice Aéroport**, a la que se llega en tranvía, el **tren regional** tarda unos 15 minutos y cuesta unos 5 € · **taxi** con tarifa plana oficial 2026: 32 € al centro de Niza, 72 € a Cap d'Antibes y Juan-les-Pins · solo taxis de la fila, con luminoso y número; Uber funciona.
 
 ## Itinerario giorno per giorno
 

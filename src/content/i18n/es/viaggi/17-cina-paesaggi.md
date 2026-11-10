@@ -21,6 +21,7 @@ Este es el viaje que se hace la segunda vez, cuando la Muralla y el Ejército de
 - **Presupuesto orientativo:** más bajo que el del itinerario clásico en alojamiento y comida (en las ciudades de provincia se encuentra una habitación nueva y limpia por 40 €, una comida cuesta menos de 10), más alto en transportes internos y entradas a los parques.
 - **Comida:** tres cocinas distintas en dieciocho días. La de Hunan es la más picante de China en sentido estricto: quema y punto. Sichuan añade la pimienta que adormece la lengua, el famoso «málà». Yunnan es exactamente lo contrario: setas, flores, hierbas e incluso quesos, rarísimos en el resto del país.
 - **Equipaje:** botas de trekking de verdad, no zapatillas, porque se camina en Zhangjiajie, por la escalinata de Tianmen y durante dos días a lo largo de la Garganta del Salto del Tigre. Capas para la altitud, un impermeable ligero, linterna frontal para el trek y efectivo, porque por el sendero de la garganta la conexión va y viene.
+- **Del aeropuerto al centro:** en **Chongqing Jiangbei (CKG)**, a la llegada, la línea 10 del metro con cambio a la 6 en Hongtudi lleva a Xiaoshizi, a cinco minutos de Jiefangbei, en 50-60 minutos, unos 6-7 yuanes, billete en las máquinas o con el código QR de Alipay; el taxi de la fila oficial o DiDi (también dentro de Alipay, en inglés) cuesta unos 60-80 yuanes · en **Guilin Liangjiang (KWL)** la lanzadera a la estación de autobuses de Guilin tarda unos 50 minutos, unos 20 yuanes, y el autocar directo a Yangshuo aproximadamente 1h30, unos 60 yuanes, últimas salidas hacia las 20:00; el taxi a Yangshuo cuesta unos 300 yuanes · en los aeropuertos interiores (Zhangjiajie DYG, Chengdu Tianfu TFU, Lijiang LJG) taxi con taxímetro o DiDi · nunca subir con quien se acerca en llegadas sin taxímetro.
 
 ## Itinerario giorno per giorno
 
@@ -31,7 +32,7 @@ La primera noche sirvió para situarse, que aquí significa una cosa precisa: en
 
 Antes incluso de salir del aeropuerto conviene resolver dos cosas: los pagos y la conexión. En China casi todo se paga con **Alipay** o **WeChat Pay**, que hoy aceptan también tarjetas de crédito extranjeras, y sin una eSIM o una VPN muchas apps occidentales no funcionan. El metro del aeropuerto al centro tarda menos de una hora. La primera tarde basta una vuelta por **Jiefangbei**, la zona peatonal del Monumento a la Liberación, y un paseo hasta la punta de la península, donde se juntan el Yangtsé y el Jialing. *Google Maps aquí es poco fiable: se usa Amap (Gaode), también en inglés.*
 
-**En la práctica:** aeropuerto-Yuzhong en metro, una hora con un transbordo, billete de pocos yuanes · taxis y Didi baratos, pero en hora punta los puentes se atascan · dormir entre Jiefangbei y Hongya Dong para hacerlo todo a pie
+**En la práctica:** aeropuerto-Yuzhong en metro, una hora con un transbordo, billete de unos 6-7 yuanes · taxis y Didi baratos, pero en hora punta los puentes se atascan · dormir entre Jiefangbei y Hongya Dong para hacerlo todo a pie
 
 ### Día 2 — Chongqing vertical
 Dedicamos la jornada a la ciudad más extraña de China. En **Liziba** el monorraíl entra y sale de la sexta planta de un edificio residencial habitado; luego el barrio antiguo de **Ciqikou**, conservado dentro de la megalópolis.
@@ -113,7 +114,7 @@ Excursión de un día al **Gran Buda de Leshan**, 71 metros tallados en la roca 
 
 De la estación de Leshan al recinto hay unos treinta minutos en taxi o autobús. El Buda se ve de dos formas: desde arriba, junto a la cabeza, y bajando por la **escalera de las Nueve Curvas**, el camino excavado en la pared que lleva a los pies de la estatua; o desde el río, en barco, que pasa por delante en pocos minutos y muestra la estatua entera con las dos figuras de los guardianes. *En días festivos la cola para la escalera puede durar más de una hora: conviene llegar a la apertura o elegir el barco.* Para comer, en Leshan se toman los **bobo ji**, brochetas frías en caldo picante, que se pagan por palillo.
 
-**En la práctica:** tren de alta velocidad Chengdu-Leshan una hora · entrada al recinto unos 80 yuanes, barco aparte por algunas decenas de yuanes · para el vuelo de la noche dejar buen margen: la vuelta a Chengdu y el traslado al aeropuerto llevan un par de horas
+**En la práctica:** tren de alta velocidad Chengdu-Leshan una hora · entrada al recinto unos 80 yuanes, barco aparte por unos 70 yuanes · para el vuelo de la noche dejar buen margen: la vuelta a Chengdu y el traslado al aeropuerto llevan un par de horas
 
 ### Día 10 — Lijiang y Baisha
 Entramos en la **ciudad vieja de Dayan a las seis de la mañana**, antes de que abra ninguna tienda: callejones mojados, canales que fluyen, las mujeres naxi barriendo delante de casa. Es un lugar completamente distinto del de las siete de la tarde, cuando la misma calle es un pasillo de recuerdos con la música alta.

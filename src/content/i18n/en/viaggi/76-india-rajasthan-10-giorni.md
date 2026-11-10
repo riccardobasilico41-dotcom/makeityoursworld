@@ -27,6 +27,7 @@ Choosing the stops is where people go wrong most often. Ten days isn't enough fo
 - **Electricity:** 230V, plug types C, D and M. A universal adapter is recommended.
 - **Time zone:** UTC+5:30, 3.5 hours ahead of Italy during daylight saving time, 4.5 in winter.
 - **Pace:** five cities in ten days, with two long car transfers (Agra-Jaipur and Jodhpur-Udaipur) made lighter by stops along the way.
+- **From the airport to the centre:** at Delhi Indira Gandhi (DEL) the Airport Express metro (orange line) leaves from Terminal 3 and reaches New Delhi station in about 20 minutes, about 60-65 rupees, from about 4:45 to 23:30, token or QR at the ticket office; from Terminal 1 you reach T3 by shuttle or taxi · prepaid taxi from the Delhi Police desk inside arrivals, about 500-700 rupees to Connaught Place, 25% more between 23:00 and 5:00 · Uber and Ola from the signed pick-up area, about 400-700 rupees · avoid anyone touting outside arrivals and anyone who says your hotel is closed or full.
 
 ## Itinerario giorno per giorno
 

@@ -18,6 +18,7 @@ Due anni vissuti ad Antibes insegnano una cosa che nessuna guida scrive abbastan
 - **Vignetta Crit'Air:** se si guida verso Marsiglia o altre grandi città, va ordinata online **settimane prima**.
 - **Spiagge:** gran parte della costa, Nizza compresa, è di **ciottoli**. Con le scarpette di gomma la giornata cambia.
 - **Cibo:** socca, pissaladière, pan bagnat, salade niçoise senza patate né fagiolini. Il menù di mezzogiorno costa la metà di quello della sera.
+- **Dall'aeroporto al centro:** **Nizza Costa Azzurra (NCE)**. · **Tram linea 2** per il centro di Nizza e il porto: circa 1,70 € a corsa più 2 € per la tessera ricaricabile (c'è anche un andata e ritorno per l'aeroporto da circa 10 €), alle macchinette o nell'app Lignes d'Azur, circa 30 minuti, fino a tarda sera · per la base di **Antibes**: dalla stazione **Nice Aéroport**, raggiungibile in tram, il **treno regionale** impiega circa 15 minuti e costa circa 5 € · **taxi** con forfait ufficiale 2026: 32 € per Nizza centro, 72 € per Cap d'Antibes e Juan-les-Pins · si prendono solo i taxi in fila, con insegna e numero; Uber funziona.
 
 ## Itinerario giorno per giorno
 

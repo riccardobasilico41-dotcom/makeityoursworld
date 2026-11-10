@@ -21,6 +21,7 @@ Seven islands in all, of which this itinerary covers three (Tenerife, Gran Canar
 - **Domestic flights between the islands:** Binter Canarias and Canaryfly cover the routes between the islands in 30-45 minutes. The alternative is the ferry, slower (1h30-2h30) but useful if you travel with a rental car on a single island.
 - **Rental car:** recommended on each island to reach national parks and rural areas; you return it and rent again at each island change, except for specific multi-island packages.
 - **Electricity and currency:** euro, type C/F sockets identical to Italian ones.
+- **From the airport to the centre:** most flights from Italy land at **Tenerife South (TFS)**, while **Tenerife North (TFN)**, near La Laguna, mostly handles inter-island flights; TITSA buses (guaguas) serve both (ticket on board or Ten+ card), and line 343 runs from South to North and on to Puerto de la Cruz, about €10 · from **Gran Canaria (LPA)** Global line 60 reaches Las Palmas in about 30 minutes, about €3 · from **Lanzarote (ACE)** Arrecife is 10 minutes away, about €15 by taxi · metered taxis only from the official rank · on every island the most practical choice is still a rental car picked up at the airport.
 
 ## Itinerario giorno per giorno
 

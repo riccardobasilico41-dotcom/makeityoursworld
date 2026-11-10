@@ -25,6 +25,7 @@ Fino al 2019 questo viaggio non si poteva fare: il visto turistico non esisteva,
 - **Sicurezza:** criminalità comune molto bassa, viaggio tranquillo. Vanno controllati gli avvisi ufficiali per le **zone di confine con lo Yemen**, sconsigliate, il che riguarda il sud dell'Asir.
 - **Ramadan:** qui si vive in modo più rigido che altrove nel Golfo. Quasi tutto chiude di giorno, **mangiare e bere in pubblico alla luce del sole è vietato per tutti**, non musulmani compresi, e la vita si sposta tutta sulla notte.
 - **Budget:** più alto di quanto ci si aspetti. AlUla ha poche strutture e prezzi alti, Riyadh e Jeddah hanno hotel da capitale, e i voli interni si sommano. In compenso la voce alcol non esiste, la benzina costa niente e il cibo di quartiere è economico.
+- **Dall'aeroporto al centro:** a Jeddah King Abdulaziz (JED) la soluzione più pratica è Uber o Careem, circa 50-100 SAR e 30-50 minuti per Al-Balad o la Corniche; i taxi ufficiali alla fila costano circa 100-150 SAR; il treno Haramain parte dal Terminal 1 per la stazione Al Sulaymaniyah (circa 20 minuti, circa 40-70 SAR in economy), ma è lontana dal centro storico · a Riyadh King Khalid (RUH) la linea 4 gialla della metro va in città per circa 4 SAR con l'app Darb o la carta; Uber e Careem circa 60-100 SAR · ad Abha (AHB) l'auto si ritira in aeroporto · da evitare gli autisti senza licenza che si offrono agli arrivi.
 
 ## Itinerario giorno per giorno
 

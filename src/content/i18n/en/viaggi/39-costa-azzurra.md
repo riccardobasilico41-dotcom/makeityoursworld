@@ -18,6 +18,7 @@ Two years lived in Antibes teach one thing that no guidebook writes clearly enou
 - **Crit'Air sticker:** if you drive toward Marseille or other big cities, it must be ordered online **weeks ahead**.
 - **Beaches:** most of the coast, Nice included, is **pebbles**. With rubber water shoes the day changes.
 - **Food:** socca, pissaladière, pan bagnat, salade niçoise without potatoes or green beans. The midday menu costs half as much as the evening one.
+- **From the airport to the centre:** **Nice Côte d'Azur (NCE)**. · **Tram line 2** to central Nice and the port: about €1.70 a ride plus €2 for the rechargeable card (there is also an airport return ticket for about €10), at the machines or in the Lignes d'Azur app, about 30 minutes, until late evening · for the **Antibes** base: from **Nice Aéroport** station, reachable by tram, the **regional train** takes about 15 minutes and costs about €5 · **taxi** at the official 2026 flat rates: €32 to central Nice, €72 to Cap d'Antibes and Juan-les-Pins · take only taxis from the rank, with roof sign and number; Uber works.
 
 ## Itinerario giorno per giorno
 

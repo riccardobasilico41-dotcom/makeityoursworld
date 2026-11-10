@@ -32,6 +32,7 @@ Il resto del giro è quello classico del Nord, preso con calma. Tre giorni sul G
 - **Abbigliamento e donne in viaggio:** vestiti larghi che coprono spalle e gambe, una sciarpa sempre in borsa. A Varanasi i vicoli sono stretti e affollati: meglio non girarli da sole dopo il tramonto.
 - **Connettività:** SIM Airtel o Jio all'aeroporto di Delhi; segnale buono quasi ovunque, debole tra le dune.
 - **Fuso orario:** UTC+5:30, 3 ore e mezza avanti rispetto all'Italia con l'ora legale, 4 e mezza in inverno.
+- **Dall'aeroporto al centro:** da **Delhi Indira Gandhi (DEL)** la metro Airport Express, linea arancione, parte dal Terminal 3 e arriva a New Delhi Railway Station in circa 20 minuti, circa 60-65 rupie, gettone o QR alla biglietteria, corse dalle 5 alle 23:30 circa; dal T1 passa la linea Magenta · taxi prepagato dal banco ufficiale della polizia agli arrivi, circa 500-900 rupie, con supplemento di notte · Uber e Ola circa 400-800 rupie dalla zona di ritiro segnalata · al ritorno, **Udaipur (UDR)** è a 30-40 minuti dal centro in taxi o app · l'errore tipico è dare retta a chi dice che l'hotel è chiuso o pieno e propone un'altra sistemazione: si va dritti all'indirizzo prenotato.
 
 ## Itinerario giorno per giorno
 

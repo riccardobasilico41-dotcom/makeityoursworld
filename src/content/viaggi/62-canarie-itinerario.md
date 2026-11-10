@@ -21,6 +21,7 @@ Sette isole in tutto, di cui questo itinerario ne copre tre (Tenerife, Gran Cana
 - **Voli interni tra le isole:** Binter Canarias e Canaryfly coprono le tratte tra le isole in 30-45 minuti. L'alternativa è il traghetto, più lento (1h30-2h30) ma utile se si viaggia con un'auto noleggiata su un'isola sola.
 - **Auto a noleggio:** consigliata su ciascuna isola per raggiungere parchi nazionali e zone rurali; si restituisce e si noleggia di nuovo a ogni cambio d'isola, salvo pacchetti multi-isola specifici.
 - **Elettricità e valuta:** euro, prese di tipo C/F identiche a quelle italiane.
+- **Dall'aeroporto al centro:** a **Tenerife Sud (TFS)** arriva la maggior parte dei voli dall'Italia, a **Tenerife Nord (TFN)**, vicino a La Laguna, soprattutto quelli interni; le guaguas TITSA li collegano entrambi (biglietto a bordo o carta Ten+), e la linea 343 va da Sud a Nord e prosegue per Puerto de la Cruz, circa 10 € · da **Gran Canaria (LPA)** la linea Global 60 arriva a Las Palmas in circa 30 minuti, circa 3 € · da **Lanzarote (ACE)** Arrecife è a 10 minuti, circa 15 € in taxi · taxi con tassametro solo dalla fila ufficiale · su ogni isola la scelta più pratica resta l'auto a noleggio ritirata in aeroporto.
 
 ## Itinerario giorno per giorno
 

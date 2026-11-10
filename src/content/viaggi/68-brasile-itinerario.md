@@ -23,6 +23,7 @@ Il periodo di luglio-agosto è scelto per quelle lagune, ed è lo stesso in cui 
 - **Lingua:** portoghese. Fuori dagli hotel e dalle agenzie l'inglese è limitato; lo spagnolo aiuta a farsi capire.
 - **Fuso orario:** Rio, Salvador, Foz do Iguaçu e São Luís sono su UTC-3, 5 ore indietro rispetto all'Italia in estate. Manaus e Cuiabá (Pantanal) sono su UTC-4. Dal 2019 il Brasile non usa più l'ora legale.
 - **Elettricità:** 127 V o 220 V secondo la città (127 V a Rio e Foz do Iguaçu, 220 V in gran parte del Nordeste), prese di tipo N; le spine italiane da 10 A spesso entrano, ma un adattatore è utile e i caricatori devono essere 100-240 V.
+- **Dall'aeroporto al centro:** da **Rio Galeão (GIG)**, a circa 20 km dalla Zona Sul, Copacabana e Ipanema sono a 40-60 minuti: **Uber** o **99** dalla zona di prelievo indicata nell'app, circa 60-100 R$ · **taxi** delle cooperative ufficiali, prepagato al banco degli arrivi, circa 120-150 R$ · i bus, tra cambi e valigie, non convengono · mai accettare corse da chi si avvicina negli arrivi: la Farnesina segnala falsi autisti proprio qui · a **Foz do Iguaçu (IGU)**, **Salvador (SSA)** e **São Luís (SLZ)** taxi ufficiale o app, 20-50 minuti fino alla città.
 
 ## Itinerario giorno per giorno
 

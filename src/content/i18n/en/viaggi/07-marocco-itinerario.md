@@ -17,6 +17,7 @@ My first real impact with Morocco came at Jemaa El-Fna, the Marrakech square tha
 - **Money:** Moroccan dirham (MAD). Cash is essential outside the big cities: many kasbahs, hammams and small restaurants don't accept cards.
 - **Guide:** Mustafa, +212 649431566. Flawless organization throughout the trip, from logistics to the restaurants chosen.
 - **Getting around:** private van for all legs, some of them long (up to 4 hours), broken up by stops for typical purchases (saffron, turbans, pashminas) and visits along the way.
+- **From the airport to the centre:** from **Marrakech Menara (RAK)**, about 6 km out, bus L19 goes to Jemaa el-Fnaa and Gueliz in about 30 minutes (about 30 MAD, ticket on board in cash, one bus roughly every half hour from 6am to 11.30pm) · official taxis at the rank outside arrivals, about 100-150 MAD by day and more after 8pm: the price is fixed before getting in, because in practice the meter isn't used · the easiest option is still the transfer from your accommodation, about 150-200 MAD · ride-hailing apps are not a reliable option here · cars can't enter the medina: whoever carries your bags to the riad expects a tip, and it's better to have someone from the riad meet you.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Marrakech

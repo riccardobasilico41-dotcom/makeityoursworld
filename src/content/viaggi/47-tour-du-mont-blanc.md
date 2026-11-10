@@ -18,6 +18,7 @@ Il Tour du Mont Blanc gira per intero attorno al massiccio più alto delle Alpi 
 - **Sacco lenzuolo obbligatorio** in tutti i rifugi.
 - **Contanti** per i rifugi senza linea.
 - **Temporali pomeridiani regolari**: si parte presto per arrivare al rifugio prima del primo pomeriggio.
+- **Dall'aeroporto al centro:** si vola su **Ginevra (GVA)**, a 1h15-1h40 da Chamonix: bus diretti (FlixBus, AlpyBus, Swiss Tours e altri) circa 15-30 € a persona, da prenotare online, con poche corse la sera · navette condivise porta a porta circa 40-50 € a persona, transfer privati oltre 200 € a veicolo · da Chamonix a Les Houches bus locale o treno Mont-Blanc Express in 10-15 minuti, gratis con la carta d'ospite che danno alloggi e campeggi · in alternativa **Torino (TRN)** o **Milano Malpensa (MXP)** per chi parte da Courmayeur, a 2-3 ore · l'errore tipico è prenotare l'ultimo bus della sera: con un volo in ritardo si resta a terra.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Les Houches, partenza
@@ -46,7 +47,7 @@ A **Courmayeur** ci si può fermare più a lungo o prendere un giorno di riposo.
 
 Il pomeriggio a Courmayeur serve per le cose pratiche: lavare i vestiti, rifornirsi di cibo e contanti, cambiare un paio di calze. Chi ha energie e una giornata limpida sale con la **Skyway Monte Bianco** fino a Punta Helbronner, sopra i 3.400 metri, per guardare il massiccio dall'alto dopo averlo girato a piedi. *Con nuvole basse non vale il biglietto: meglio tenerla come riserva per un giorno di sole.*
 
-**In pratica:** Courmayeur ha farmacie, negozi di montagna, supermercati e bancomat, l'ultima occasione comoda prima della Svizzera · la Skyway costa qualche decina di euro, conviene controllare il meteo in vetta prima di salire · per dormire c'è la scelta più ampia di tutto il giro, ma in agosto va prenotato.
+**In pratica:** Courmayeur ha farmacie, negozi di montagna, supermercati e bancomat, l'ultima occasione comoda prima della Svizzera · la Skyway costa circa 59-63 € andata e ritorno fino a Punta Helbronner, conviene controllare il meteo in vetta prima di salire · per dormire c'è la scelta più ampia di tutto il giro, ma in agosto va prenotato.
 
 ### Giorno 5 — Rifugio Bonatti
 Siamo saliti al **Rifugio Bonatti**, uno dei punti panoramici più noti del giro. Da Courmayeur si attacca subito una salita ripida nel bosco fino al **Rifugio Bertone**, a circa 2.000 metri, che conviene fare con il fresco del mattino. Da lì comincia il tratto più bello del versante italiano: un sentiero a mezza costa sulle pendici del Mont de la Saxe, quasi in piano, con davanti le **Grandes Jorasses** e il Dente del Gigante per tutta la mattina.

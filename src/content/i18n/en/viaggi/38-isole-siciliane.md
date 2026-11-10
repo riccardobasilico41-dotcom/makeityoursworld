@@ -34,6 +34,7 @@ So the itinerary that follows is honest about one thing: **there is one day that
   - **Pantelleria:** land and garden cooking, not sea. **Ravioli amari** with ricotta and mint, **insalata pantesca** (potatoes, tomato, capers, oregano, onion), raw **pesto pantesco**, the **capers** and the **Passito**.
   - **Lampedusa:** fish from the Strait of Sicily, **red prawns**, groupers and amberjack, with a cuisine that looks south.
 - **Wines:** **Passito di Pantelleria** from **Zibibbo**, sweet and amber; the **Moscato di Pantelleria**; and on the Egadi the Trapani whites, **Grillo** and **Catarratto**.
+- **From the airport to the centre:** at **Trapani Birgi (TPS)** the AST bus goes to town and to the hydrofoil port in about 40 minutes, ticket on board; taxis have a fixed fare of about €35 · from **Palermo (PMO)** the **Prestia e Comandè** bus reaches the central station in about 50 minutes, about €6 (€6.50 on board), every half hour; the train to Palermo Centrale takes about the same; a taxi costs about €45-50 · **Pantelleria (PNL)** and **Lampedusa (LMP)** have their airports a few minutes from town: you walk out and pick up the vehicle you booked, no transfer needed.
 
 ## Itinerario giorno per giorno
 

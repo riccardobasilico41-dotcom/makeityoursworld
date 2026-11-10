@@ -17,6 +17,7 @@ El primer impacto de verdad con Marruecos llegó en Jemaa El-Fna, la plaza de Ma
 - **Moneda:** dírham marroquí (MAD). El efectivo es indispensable fuera de las grandes ciudades: muchas kasbahs, hammams y pequeños restaurantes no aceptan tarjetas.
 - **Guía:** Mustafa, +212 649431566. Una organización impecable durante todo el viaje, desde la logística hasta los restaurantes elegidos.
 - **Cómo se viaja:** furgoneta privada para todos los trayectos, algunos largos (hasta 4 horas), con paradas para comprar productos típicos (azafrán, turbantes, pashminas) y visitas por el camino.
+- **Del aeropuerto al centro:** desde **Marrakech Menara (RAK)**, a unos 6 km, el autobús L19 lleva a Jemaa el-Fnaa y a Gueliz en unos 30 minutos (unos 30 MAD, billete a bordo en efectivo, uno cada media hora más o menos de 6 a 23.30) · taxis oficiales en la parada frente a llegadas, unos 100-150 MAD de día y más después de las 20: el precio se fija antes de subir, porque en la práctica el taxímetro no se usa · lo más cómodo sigue siendo el traslado del alojamiento, unos 150-200 MAD · las apps de transporte aquí no son una opción fiable · los coches no entran en la medina: quien lleva las maletas hasta el riad espera una propina, y es mejor que alguien del riad salga a buscarte.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Marrakech

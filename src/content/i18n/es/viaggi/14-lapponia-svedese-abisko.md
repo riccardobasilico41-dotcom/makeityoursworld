@@ -18,6 +18,7 @@ Quería la Nochevieja más distinta posible de las que había vivido hasta enton
 - **Cómo me moví:** vuelo Milán-Estocolmo, vuelo interno Estocolmo-Kiruna, tren panorámico Kiruna-Abisko y vuelta, mismo vuelo interno e internacional al regreso.
 - **Clima:** frío extremo, muy por debajo de cero durante toda la estancia. Con este frío hay que contar con algún contratiempo: hay un consejo sobre los trenes más abajo.
 - **Base logística:** dos noches en Estocolmo (ida y vuelta, solo tránsito), una noche en Kiruna a la ida, dos noches en Abisko, una noche en Kiruna antes del regreso.
+- **Del aeropuerto al centro:** en **Estocolmo Arlanda (ARN)** el **Arlanda Express** llega a la estación central en 18 minutos, unas 340-350 SEK (online o en la app, más barato si se compra con antelación) · autobús **Flygbussarna** hasta el City Terminal en unos 45 minutos, unas 120-130 SEK · **taxi** a precio fijo al centro, unas 600-700 SEK: en Suecia las tarifas son libres, y el precio se comprueba en la pegatina amarilla de la ventanilla antes de subir · en **Kiruna (KRN)** el autobús ligado a las llegadas lleva al centro en unos 20 minutos, unas 100-110 SEK; el taxi cuesta unas 300-400 SEK.
 
 ## Itinerario giorno per giorno
 
@@ -33,7 +34,7 @@ Por la mañana volé a Kiruna. Por la tarde di la primera vuelta por la ciudad: 
 
 Quien va hoy encuentra la iglesia en otro sitio: en agosto de 2025 se trasladó entera, sobre plataformas, unos cinco kilómetros hacia el este, entre el cementerio y el nuevo centro. El traslado del resto de la ciudad seguirá durante años, y el paseo entre el centro viejo y el nuevo cuenta bien cómo funciona. Del aeropuerto al centro hay un autobús ligado a las llegadas de los vuelos, en unos veinte minutos, o el taxi. *En torno a Nochevieja en Kiruna el sol no sale: durante unas semanas solo hay unas pocas horas de luz azul a mediodía, y la vuelta por la ciudad hay que hacerla en esa ventana.*
 
-**En la práctica:** autobús aeropuerto-centro con salidas ligadas a los vuelos, unos 20 minutos, horarios y operador que volver a comprobar · iglesia de Kiruna de entrada libre, horarios de apertura variables · en Nochevieja restaurantes con horario reducido o cerrados, cena que reservar.
+**En la práctica:** autobús aeropuerto-centro con salidas ligadas a los vuelos, unos 20 minutos y unas 100-110 SEK, horarios y operador que volver a comprobar · iglesia de Kiruna de entrada libre, horarios de apertura variables · en Nochevieja restaurantes con horario reducido o cerrados, cena que reservar.
 
 ### Día 3 — Kiruna → Abisko
 Me desplacé con el tren panorámico Kiruna-Abisko: una hora larga en un paisaje que se vuelve poco a poco más desnudo y ártico. En Abisko me instalé en el **STF Abisko Turiststation**, la histórica estación de montaña dentro del parque nacional, de donde sale el telesilla de la **Aurora Sky Station**. El tren es el de la línea hacia Narvik, operado por SJ: en Abisko hay dos paradas, Abisko Östra para el pueblo y Abisko Turiststation delante del alojamiento, que es la buena. Con luz de día se puede dar un paseo corto hasta el cañón del río Abiskojåkka, a pocos minutos de la estación, con el lago Torneträsk helado al fondo.

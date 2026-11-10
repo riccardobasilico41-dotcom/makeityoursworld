@@ -27,6 +27,7 @@ A las dos de la madrugada, delante del avión siniestrado de Sólheimasandur, to
 - **Conducción:** carreteras de tierra, difíciles, a menudo sin guardarraíl, con tramos de
   2-3 horas seguidas (hasta 7 h en un día). Mejor ser dos los que sepan
   conducir, para turnarse en los tramos más largos.
+- **Del aeropuerto al centro:** se aterriza en **Keflavík (KEF)**, a unos 50 km de Reikiavik. **Flybus** hasta la terminal BSÍ en unos 45 minutos, unas 4.000 ISK, con salidas ligadas a las llegadas (online, en el mostrador o a bordo; con Flybus+ se llega a los hoteles) · **Airport Direct**, hasta su terminal o a los hoteles, unas 5.000 ISK · **autobús Strætó 55**, el más barato (unas 2.400 ISK, a bordo o con la app), pero lento y con pocas salidas · **taxi** unas 20.000-25.000 ISK, sin Uber · quien alquila coche lo recoge directamente en el aeropuerto, y es la opción más cómoda.
 
 ## Itinerario giorno per giorno
 ### Día 0

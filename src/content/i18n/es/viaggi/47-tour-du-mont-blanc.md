@@ -18,6 +18,7 @@ El Tour del Mont Blanc rodea por completo el macizo más alto de los Alpes en un
 - **Saco sábana obligatorio** en todos los refugios.
 - **Efectivo** para los refugios sin cobertura.
 - **Tormentas de tarde habituales**: se sale temprano para llegar al refugio antes de primera hora de la tarde.
+- **Del aeropuerto al centro:** se vuela a **Ginebra (GVA)**, a 1h15-1h40 de Chamonix: autobuses directos (FlixBus, AlpyBus, Swiss Tours y otros) unos 15-30 € por persona, que conviene reservar online, con pocas salidas por la tarde-noche · lanzaderas compartidas puerta a puerta unos 40-50 € por persona, traslados privados más de 200 € por vehículo · de Chamonix a Les Houches autobús local o tren Mont-Blanc Express en 10-15 minutos, gratis con la tarjeta de huésped que dan alojamientos y campings · como alternativa **Turín (TRN)** o **Milán Malpensa (MXP)** para quien sale de Courmayeur, a 2-3 horas · el error típico es reservar el último autobús de la noche: con un vuelo retrasado uno se queda en tierra.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Les Houches, salida
@@ -46,7 +47,7 @@ En **Courmayeur** se puede uno quedar más tiempo o tomarse un día de descanso.
 
 La tarde en Courmayeur es para las cosas prácticas: lavar ropa, reponer comida y efectivo, cambiar de calcetines. Con energía y un día despejado se sube con el **Skyway Monte Bianco** hasta Punta Helbronner, por encima de los 3.400 metros, para ver el macizo desde arriba después de haberlo rodeado a pie. *Con nubes bajas no vale lo que cuesta el billete: mejor guardarlo para un día de sol.*
 
-**En la práctica:** Courmayeur tiene farmacias, tiendas de montaña, supermercados y cajeros, la última ocasión cómoda antes de Suiza · el Skyway cuesta unas decenas de euros, conviene mirar el tiempo en la cima antes de subir · hay la mayor oferta de alojamiento de toda la vuelta, pero en agosto hay que reservar.
+**En la práctica:** Courmayeur tiene farmacias, tiendas de montaña, supermercados y cajeros, la última ocasión cómoda antes de Suiza · el Skyway cuesta unos 59-63 € ida y vuelta hasta Punta Helbronner, conviene mirar el tiempo en la cima antes de subir · hay la mayor oferta de alojamiento de toda la vuelta, pero en agosto hay que reservar.
 
 ### Día 5 — Refugio Bonatti
 Subimos al **Refugio Bonatti**, uno de los miradores más conocidos de la vuelta. Desde Courmayeur empieza enseguida una subida empinada por el bosque hasta el **Refugio Bertone**, a unos 2.000 metros, que conviene hacer con el fresco de la mañana. Desde allí comienza el tramo más bonito de la vertiente italiana: un sendero a media ladera por el Mont de la Saxe, casi llano, con las **Grandes Jorasses** y el Diente del Gigante delante toda la mañana.

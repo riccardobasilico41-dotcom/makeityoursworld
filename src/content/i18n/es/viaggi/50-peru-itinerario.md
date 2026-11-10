@@ -26,6 +26,7 @@ También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cus
 - **Huso horario:** UTC-5 todo el año, igual a lo largo de todo el itinerario: 7 horas menos que en Italia con el horario de verano, 6 en invierno.
 - **Festividades:** el Inti Raymi, el 24 de junio en Cusco, es el evento más importante del año: ciudad llena y precios por las nubes, hay que reservar con mucha antelación si las fechas coinciden.
 - **Estructura en dos partes:** este itinerario está escrito como un único relato de treinta y un días, pero funciona igual de bien dividido por la mitad: los detalles están en la nota entre el Día 17 y el Día 18.
+- **Del aeropuerto al centro:** en **Lima Jorge Chávez (LIM)**, con la nueva terminal abierta en 2025, Miraflores y Barranco están a 45-90 minutos según el tráfico. Autobús **Airport Express Lima** hasta Miraflores, unos 25-30 soles, billete en el mostrador de llegadas u online · **taxi oficial** desde los mostradores dentro de la terminal, unos 60-90 soles · **Uber, Cabify e inDrive** desde la zona de recogida indicada en la app, normalmente más baratos · nunca los taxistas que se ofrecen a la salida: es el riesgo más concreto del viaje · en **Cusco (CUZ)** el aeropuerto está en la ciudad: taxi oficial o app en 15-20 minutos, unos 20-40 soles.
 
 ## Itinerario giorno per giorno
 

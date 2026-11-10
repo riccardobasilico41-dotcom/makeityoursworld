@@ -18,6 +18,7 @@ What I remember most about the night on Adam's Peak is the shared effort: settin
 - **How I got around:** private van with an English-speaking driver for the whole trip (included in the package), one stretch on the scenic train from Nuwara Eliya to Ella.
 - **SIM/data:** better to buy the local SIM (Dialog or SLT Mobitel) right after passport control at the airport: it costs much less than at the desk before the checks.
 - **What to pack without getting it wrong:** long pants or a pareo (to cover knees in the temples), socks (in the temples you walk barefoot and the floor can burn), a sweatshirt for the freezing top of Adam's Peak (3-6°C and wind), a BS546-type adapter (three round pins, not the UK/Schuko standard), high-protection mosquito repellent.
+- **From the airport to the centre:** you land at Bandaranaike International (CMB) in Katunayake, 20-30 minutes from Negombo and 40-60 from Colombo on the E03 expressway · taxi from the official desk in arrivals, at a fixed rate: about LKR 8,000 to Colombo Fort, much less to Negombo · PickMe or Uber, about LKR 2,500-4,000 to Colombo, with the toll of about LKR 400 often paid on top · bus 187 to Colombo Fort, about LKR 350 and an hour's ride, best not relied on at night · avoid anyone offering a ride inside the terminal: use the desk, an app or a hotel car agreed in advance.
 
 ### How I did it vs. the "on your own" alternatives
 I toured Sri Lanka in a **private van with driver**: comfortable and carefree, but also the most "guided" way to see the country. For those who organize the trip themselves or as a couple and want more freedom, there are two very popular alternatives:
@@ -38,7 +39,7 @@ After breakfast, five hours on the road to **Anuradhapura**, the first of the sa
 
 The visit to the site takes about three hours, with a guide: Anil, who goes around by bicycle, or Lalith, who speaks excellent English, for about 6,500 LKR (€19) plus a tip. *Temples are entered barefoot, with shoulders and knees covered: a pair of socks helps on the scorching stones.* On paper you're back at the hotel in the late afternoon; in reality, between a flat tyre and the rain, I arrived much later. Buffet dinner at the hotel, about 2,200 LKR plus drinks.
 
-**In practice:** Negombo-Anuradhapura about 5 hours by car · the foreigners' ticket for the Anuradhapura site costs a few tens of dollars, paid separately from the guide · water, a hat and sunscreen: there's little shade between the stupas.
+**In practice:** Negombo-Anuradhapura about 5 hours by car · the foreigners' ticket for the Anuradhapura site costs about USD 25-30, paid separately from the guide · water, a hat and sunscreen: there's little shade between the stupas.
 
 ### Day 3 — Anuradhapura-Dambulla: Mihintale and safari
 Wake-up before dawn and half an hour on the road to **Mihintale**, where according to tradition Buddhism arrived in Sri Lanka in the 3rd century BC. The visit lasts a couple of hours: entrance 500 LKR, a sarong for rent at 50 LKR and socks for walking in the temples.
@@ -118,7 +119,7 @@ Last free morning in Hikkaduwa: a final swim, or time to pack calmly, because th
 
 The farewell dinner, not included, goes back to the same places as the first evening: Salt Restaurant, Tuk Tuk Wine & Dine, Jude Restaurant. And afterwards, perhaps, one last beach party. *Pack your bags that evening and check the flight time: for night or early-morning flights, Negombo is a few minutes from the airport.*
 
-**In practice:** Hikkaduwa-Negombo about 3 hours on the Southern Expressway, longer with stops and Colombo traffic · the Bentota turtle centre charges a few euros entry · last purchases of tea and spices cost less at the markets than at the airport.
+**In practice:** Hikkaduwa-Negombo about 3 hours on the Southern Expressway, longer with stops and Colombo traffic · the Bentota turtle centre charges about LKR 1,000-2,000 entry · last purchases of tea and spices cost less at the markets than at the airport.
 
 ### Day 12 — Negombo-Airport
 Check-out, and Michael drove me back to the airport, about 5,000 LKR per car. Nothing is organised: the time is free until the flight. With an afternoon or evening flight there's a whole morning left in Negombo, to spend on the beach or on a boat trip on the lagoon and canals, among the fishermen and the mangroves. If you didn't see the fish market on the first morning, you can go now, at dawn, when the boats come in.

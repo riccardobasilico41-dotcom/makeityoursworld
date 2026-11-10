@@ -17,6 +17,7 @@ Petra is one of the most visited sites in the world, but that New Year's I walke
 - **Unusual timing:** I made this trip right after the conflict between Israel and Palestine began (October 2023). Tourism to Jordan had collapsed out of fear of its geographical proximity, even though the country was not involved in the conflict and remained entirely safe for visitors. So sites that are usually overrun, from Petra to Wadi Rum, I got to experience in a very rare quiet.
 - **How I got around:** transfers organized along the whole route (minivan/car), with some long drives (up to 4h30 between Aqaba and Amman).
 - **Budget:** activities and extras were handled through the DMC that organized the trip. Alcohol has to be bought at specialized shops (Soho, Hangover in Madaba) before reaching the more conservative areas or the desert.
+- **From the airport to the centre:** you land at **Queen Alia (AMM)**, about 35 km south of Amman. · **Sariyah Airport Express bus**: about 3.50 JOD, ticket on board, to 7th Circle and Tabarbour station in 45-60 minutes, every 30 minutes by day and less often through the night · **official yellow taxi** from the rank outside arrivals: about 25-30 JOD to the centre, price to be agreed before getting in · **Uber and Careem**: about 15-25 JOD, often the cheapest choice · avoid drivers approaching passengers inside the terminal: use only the official rank or book through the app.
 
 ## Itinerario giorno per giorno
 ### Day 1 — Arrival in Amman

@@ -16,6 +16,7 @@ Normandía y Bretaña son dos viajes distintos puestos en fila: uno histórico y
 - **Coche necesario** para casi todo el recorrido, salvo las ciudades principales.
 - **El Mont-Saint-Michel**: antes de salir conviene comprobar el calendario de las mareas vivas; mejor dormir en la bahía que verlo en el día desde lejos.
 - **Corrientes de resaca** en las playas atlánticas: un peligro serio, no un aviso de trámite.
+- **Del aeropuerto al centro:** el viaje empieza en Ruan y el aeropuerto más cómodo es **París Charles de Gaulle (CDG)**, a unas 2 horas en coche, donde conviene recoger el coche de alquiler · sin coche: RER B hasta Gare du Nord en unos 35 minutos, unos 13 € en las máquinas, metro hasta Saint-Lazare y tren a Ruan en aproximadamente 1h15-1h30, 2h30-3 horas en total · taxi oficial con tarifa fija a París unos 56-65 €, solo de la fila señalizada: quien ofrece transporte dentro de la terminal es ilegal · al final del viaje **Rennes (RNS)**, a poco más de una hora de Vannes: autobús C6 al centro en unos 25 minutos, unos 2 €, o taxi en unos 15 minutos.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Ruan

@@ -17,6 +17,7 @@ Burdeos reúne una ciudad que se recorre a pie y un territorio que sin coche no 
 - **Conducir y vino no se llevan bien:** conductor designado que no prueba, excursiones con acompañante, o escupir en la cata (es lo normal, no una ofensa).
 - **Cita siempre obligatoria** para los grandes châteaux.
 - **Viñeta Crit'Air** para entrar en la ciudad.
+- **Del aeropuerto al centro:** desde **Burdeos-Mérignac (BOD)** el tranvía A llega al centro en unos 35-40 minutos, con uno cada 10 minutos más o menos y un billete normal de TBM (unos 2 €, en las máquinas de la parada o en la app, que se valida a bordo) · la lanzadera 30'Direct va a la estación Saint-Jean pasando por el centro en unos 30 minutos (9 € en línea, 10 € a bordo) · taxi y Uber unos 40-60 € según la hora · el billete de la lanzadera no vale en el tranvía, ni al revés.
 
 ## Itinerario giorno per giorno
 ### Día 1 — Burdeos ciudad

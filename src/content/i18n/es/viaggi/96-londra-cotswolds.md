@@ -26,6 +26,7 @@ El coche solo hace falta tres días. En la ciudad sería un estorbo, entre el tr
 - **Salud:** la TSE cubre la atención necesaria en el servicio público NHS; sigue siendo recomendable un seguro de viaje.
 - **Enchufes:** tipo G, con tres clavijas rectangulares. Hace falta un adaptador.
 - **Tiempo:** puede llover en cualquier mes. Capas y una chaqueta impermeable.
+- **Del aeropuerto al centro:** **Heathrow (LHR)**. · **Piccadilly line** del metro: unos 5,90 £ con tarjeta contactless, 50-60 minutos, la más barata, y los viernes y sábados funciona también de noche · **Elizabeth line**: unos 15,50 £, unos 30-40 minutos hasta Paddington y Tottenham Court Road · **Heathrow Express** a Paddington: unos 25 £ comprado el mismo día, unos 10 £ con mucha antelación, 15-20 minutos · **taxis negros** con taxímetro unos 70-110 £; Uber unos 50-70 £ · el error que hay que evitar es pagar con dos tarjetas o dispositivos distintos: el tope diario solo vale en una tarjeta.
 
 ## Itinerario giorno per giorno
 

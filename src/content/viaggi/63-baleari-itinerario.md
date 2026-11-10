@@ -20,6 +20,7 @@ Otto giorni, collegati in traghetto, bastano per vedere tutte e tre senza ridurl
 - **Minorca:** l'isola più piccola e meno sviluppata delle tre, con il Camí de Cavalls, l'antico sentiero costiero di circa 185 km che la gira tutta.
 - **Auto a noleggio:** consigliata su tutte e tre le isole; su Minorca è quasi indispensabile, perché i bus non arrivano alle calette più belle.
 - **Elettricità e valuta:** euro, prese di tipo C/F identiche all'Italia.
+- **Dall'aeroporto al centro:** **Palma (PMI)**: bus EMT **A1** per il centro e il porto, circa 15-20 minuti, ogni 15 minuti circa, circa 5 € in contanti e meno con carta contactless (tariffe in revisione per il 2027); taxi dalla fila ufficiale circa 20-25 €. **Ibiza (IBZ)**: bus per Eivissa (ex linea 10, dal 2026 rinumerata nelle linee AERO), circa 3,50 €, circa 20 minuti; taxi circa 20-25 €, con lunghe code d'estate. **Minorca, Mahón (MAH)**, da cui si riparte: bus linea 10 per la stazione degli autobus, circa 2,80 €, circa 15 minuti; taxi circa 15-20 € · d'estate meglio diffidare dei passaggi abusivi offerti fuori dagli arrivi.
 
 ## Itinerario giorno per giorno
 

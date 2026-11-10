@@ -23,6 +23,7 @@ If I had to pick a single moment to open this story, I'd pick the whale shark at
 - **Health:** basic travel kit, an anti-diarrheal and a stomach protector for the classic "traveler's belly", "jungle"-formula mosquito repellent, especially for the evening bioluminescence at Punta Mosquito.
 - **Tips:** 10-15% recommended at restaurants and on sea activities (snorkeling, boat tours).
 - **Extra activities budget:** several experiences (Temazcal, boat tour at Bacalar, snorkeling, whale shark excursion, 3 Islas tour) are paid directly on site; at the ticket desks of the main sites (for example Chichén Itzá and the Ik Kil cenote) you often settle by card/Revolut.
+- **From the airport to the centre:** from **Cancún (CUN)** the ADO bus goes to the Downtown terminal in about 30-40 minutes (about 140 MXN) and also to Playa del Carmen and Tulum; tickets at the ADO desk in arrivals, by card, or on ado.com.mx, buses until late evening · official taxis and vans at fixed fares, about 30-35 dollars to Downtown and more to the Hotel Zone · Uber at the airport is opposed by taxi drivers and can't be taken for granted · on the way out, in the vendors' corridor, people offering a «transfer» are often selling timeshares: keep walking · the airport exchange rate is poor, better a bank ATM.
 
 ## Itinerario giorno per giorno
 
