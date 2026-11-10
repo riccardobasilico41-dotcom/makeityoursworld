@@ -1006,10 +1006,12 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: "El casco histórico de Ronda, cerca del Puente Nuevo, por la vista y la comodidad; como alternativa un agroturismo o una masía en el campo de alrededor, para quien quiere ir aún más despacio.",
     doveMangiare: "La cocina de montaña andaluza: rabo de toro, cordero a la brasa y quesos de cabra locales, a menudo acompañados de los vinos de la denominación Sierras de Málaga.",
-    comeArrivare: "En coche desde Sevilla (unas 2 h) o desde Málaga (unas 1 h 30) por la Serranía de Ronda; tren regional desde Málaga (unas 2 h, panorámico) o desde Algeciras.",
+    comeArrivare:
+      "Desde el aeropuerto de Málaga hay unos 97 km, 1h45 en coche, la opción más cómoda porque después el coche hace falta para los pueblos blancos; conviene alquilarlo en el aeropuerto. Desde Sevilla son 129 km, unas 2 horas, y desde Granada 2-2,5 horas. Sin coche está el tren regional desde Málaga, unas 2 horas por una línea panorámica: del aeropuerto a la estación de María Zambrano se va en el Cercanías C1, unos 12 minutos y unos 2 €. La estación de Ronda está en la parte nueva, a pie del centro.",
     comeSpostarsi: "El centro se recorre a pie; para los pueblos blancos cercanos hace falta coche, los enlaces en autobús entre pueblos son escasos y lentos.",
     periodoMigliore: "abril-junio y septiembre-octubre, con temperaturas más suaves que en la llanura del Guadalquivir gracias a la altitud (unos 750 metros).",
-    costi: "Plaza de Toros y museo unos 10 €; Puente Nuevo y Mirador libres; baños árabes unos 3,50 €.",
+    costi:
+      "Plaza de Toros 10 € (12 con audioguía); Baños Árabes 4,50 €; Palacio de Mondragón 5 €; bono municipal de 12 € para los Baños, Mondragón, el centro del Puente Nuevo y otros museos municipales; el Puente Nuevo, la Alameda y los pueblos son gratis. Presupuesto orientativo al día por persona, compartiendo habitación doble: bajo 60-80 €, medio 110-150 €, alto más de 200 €, sin contar el coche de alquiler.",
     erroriDaEvitare: [
       "Hacerla en el día desde Sevilla sin pernoctar: el trayecto (unas 2 h por tramo) hace la visita apresurada si no se pasa al menos una noche",
       "Conducir entre los pueblos blancos sin contar con carreteras de montaña estrechas y curvas cerradas",
@@ -1022,23 +1024,81 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde el centro, el puente está en pleno pueblo. Para verlo desde abajo se baja por el sendero del Camino de los Molinos, en el lado sur, o por el Mirador de Aldehuela.",
         "quando": "Entrada libre en el puente. El mejor momento es el atardecer, con luz baja sobre la garganta.",
         "tempo": "1-2 horas",
-        "consiglio": "El sendero de bajada es empinado y la subida cansa: calzado cerrado y agua."
+        "consiglio": "El sendero de bajada es empinado y la subida cansa: calzado cerrado y agua.",
+        "costo": "Gratis en el puente; el centro de interpretación dentro del puente está incluido en el bono municipal (12 €, tarifa de 2025, gratis para menores de 14 años)",
+        "orari": "El puente está siempre abierto. Centro de interpretación: Lunes y sábado de 10 a 14 y de 15 a 18, de martes a viernes de 10 a 19, domingos y festivos de 10 a 15; último acceso media hora antes del cierre.",
+        "lat": 36.74063,
+        "lng": -5.16585,
+        "url": "https://turismoderonda.es/es/ronda/que_ver/arquitectura_plazas_monumentos/puente_nuevo_de_ronda"
       },
       {
         "nome": "Plaza de Toros",
         "testo": "La plaza de Ronda, inaugurada en 1785, es una de las más antiguas de España y está ligada a la familia Romero, sobre todo a Pedro Romero, uno de los padres del toreo a pie. Dentro hay un museo de trajes y armas. Se puede visitar como simple obra de arquitectura, sin asistir a corridas.",
         "come": "A pie desde el Puente Nuevo, hacia el barrio del Mercadillo.",
-        "quando": "Comprobar horarios y días de apertura en la web del gestor; cambian según la temporada.",
+        "quando": "Por la mañana a la apertura, antes de los grupos que llegan de excursión desde la costa.",
         "tempo": "1 hora",
-        "consiglio": "Quien no quiera el tema taurino puede mirar solo la arquitectura y las caballerizas."
+        "consiglio": "Quien no quiera el tema taurino puede mirar solo la arquitectura y las caballerizas.",
+        "costo": "10 € general, 12 € con audioguía (tarifas de la web oficial, 2026)",
+        "orari": "Todos los días desde las 10; cierra a las 18 de noviembre a febrero, a las 19 en marzo y octubre y a las 20 de abril a septiembre. Hay obras de consolidación en curso en el coso.",
+        "lat": 36.74237,
+        "lng": -5.16707,
+        "url": "https://www.rmcr.org/visita-plaza-museo/"
       },
       {
         "nome": "Baños Árabes y la Ciudad",
         "testo": "La Ciudad, el barrio morisco, tiene callejuelas estrechas y puertas antiguas. Los baños árabes de los siglos XIII-XIV, a los pies de la ciudad vieja, están entre los mejor conservados de España, con bóvedas estrelladas.",
         "come": "A pie desde el Puente Nuevo, bajando hacia el río Guadalevín. El recorrido es cuesta abajo y a la sombra.",
-        "quando": "Comprobar los horarios de apertura en la web del ayuntamiento. Por la mañana para evitar a los grupos.",
+        "quando": "Por la mañana para evitar los grupos; el domingo cierra a las 15.",
         "tempo": "1-1 hora y media en total",
-        "consiglio": "Se combina bien con el sendero de los molinos bajo la garganta, en la misma media jornada."
+        "consiglio": "Se combina bien con el sendero de los molinos bajo la garganta, en la misma media jornada.",
+        "costo": "4,50 € general, 3 € estudiantes menores de 26 años y jubilados (2026); incluidos en el bono municipal de 12 €",
+        "orari": "Lunes y sábado de 10 a 14 y de 15 a 18, de martes a viernes de 10 a 19, domingos y festivos de 10 a 15; último acceso media hora antes del cierre.",
+        "lat": 36.73899,
+        "lng": -5.16271,
+        "url": "https://turismoderonda.es/es/ronda/que_ver/arquitectura_plazas_monumentos/banos_arabes"
+      },
+      {
+        "nome": "Casa del Rey Moro y la Mina",
+        "testo": "Una casa señorial junto al puente, con jardines en terrazas asomados al tajo. Se entra por la Mina, una escalera de época islámica excavada en la roca que baja hasta el río Guadalevín: servía para subir agua a la ciudad durante los asedios.",
+        "come": "A pie desde el Puente Nuevo, bajando por la calle Santo Domingo. Las entradas se venden solo en taquilla.",
+        "quando": "Por la mañana, cuando la escalera tiene menos gente.",
+        "tempo": "1 hora",
+        "orari": "Todos los días de 10 a 20 de octubre a abril y de 10 a 21:30 de mayo a septiembre.",
+        "lat": 36.73984,
+        "lng": -5.1643,
+        "url": "https://www.casadelreymoro.org/",
+        "consiglio": "Son unos trescientos escalones, húmedos y resbaladizos: calzado con buen agarre y fuerzas para la subida."
+      },
+      {
+        "nome": "Palacio de Mondragón (Museo de Ronda)",
+        "testo": "Palacio de la Ciudad con patios mudéjares y un jardín colgado al borde del tajo. Alberga el museo municipal, con salas sobre la prehistoria y la Ronda islámica.",
+        "come": "A pie en la Ciudad, en la plaza Mondragón, a diez minutos del puente.",
+        "quando": "A media mañana, junto con Santa María la Mayor.",
+        "tempo": "45 minutos",
+        "costo": "5 € (2026); incluido en el bono municipal de 12 €",
+        "orari": "Lunes y sábado de 10 a 14 y de 15 a 18, de martes a viernes de 10 a 19, domingos y festivos de 10 a 15; último acceso media hora antes del cierre.",
+        "lat": 36.73758,
+        "lng": -5.16679,
+        "url": "https://turismoderonda.es/es/ronda/que_ver/arquitectura_plazas_monumentos/palacio_mondragon"
+      },
+      {
+        "nome": "Santa María la Mayor",
+        "testo": "La iglesia principal de la Ciudad, levantada sobre la mezquita mayor tras la conquista cristiana de 1485. Del edificio islámico queda el arco del mihrab; el resto mezcla gótico tardío y renacimiento.",
+        "come": "A pie en la plaza Duquesa de Parcent, en el corazón de la Ciudad.",
+        "quando": "Fuera del horario de culto; la plaza está tranquila por la mañana.",
+        "tempo": "30-45 minutos",
+        "lat": 36.73748,
+        "lng": -5.16537
+      },
+      {
+        "nome": "Alameda del Tajo y miradores sobre el tajo",
+        "testo": "El jardín decimonónico junto a la plaza de toros acaba en balcones colgados sobre el valle. Desde aquí y desde el paseo de los Ingleses se ve la peña sobre la que se asienta la ciudad y el campo hasta la Serranía.",
+        "come": "A pie desde la Plaza de Toros; el parque es de acceso libre.",
+        "quando": "Al atardecer, cuando la luz da en la pared del tajo.",
+        "tempo": "30 minutos-1 hora",
+        "costo": "Gratis",
+        "lat": 36.74326,
+        "lng": -5.16822
       },
       {
         "nome": "Setenil de las Bodegas",
@@ -1046,26 +1106,68 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En coche desde Ronda, por una carretera de montaña con curvas. El pueblo es pequeño y se recorre a pie.",
         "quando": "Por la mañana o a mediodía para comer. Los fines de semana de verano el acceso en coche es lento.",
         "tempo": "2-3 horas",
-        "consiglio": "Aparcar en los aparcamientos de las afueras, no en las calles estrechas."
+        "consiglio": "Aparcar en los aparcamientos de las afueras, no en las calles estrechas.",
+        "costo": "Gratis, el pueblo se recorre libremente",
+        "lat": 36.86417,
+        "lng": -5.18139
+      },
+      {
+        "nome": "Grazalema",
+        "testo": "Pueblo blanco al pie de la Sierra de Grazalema, dentro del parque natural del mismo nombre. Es la base para los senderos de la sierra y para las carreteras panorámicas hacia Zahara.",
+        "come": "En coche desde Ronda, 32 km en unos 35 minutos por carretera de montaña. Aparcamiento a la entrada del pueblo.",
+        "quando": "Primavera y otoño; en invierno la carretera del Puerto de las Palomas puede helarse.",
+        "tempo": "2-3 horas",
+        "costo": "Gratis",
+        "lat": 36.75839,
+        "lng": -5.36607,
+        "consiglio": "Algunos senderos del parque, como el del Pinsapar, piden un permiso gratuito en el centro de visitantes: conviene comprobarlo antes."
+      },
+      {
+        "nome": "Zahara de la Sierra",
+        "testo": "Pueblo blanco en un espolón bajo una torre del castillo nazarí, con el embalse turquesa a sus pies. La subida a la torre da la vista más amplia sobre la sierra.",
+        "come": "En coche desde Ronda, 34 km en unos 40 minutos, o desde Grazalema por el Puerto de las Palomas (17 km). Sendero de subida a la torre desde el pueblo.",
+        "quando": "Por la mañana o a última hora de la tarde; en verano la subida a la torre es a pleno sol.",
+        "tempo": "2 horas",
+        "lat": 36.84058,
+        "lng": -5.39054
+      },
+      {
+        "nome": "Olvera",
+        "testo": "El pueblo blanco más al norte de la ruta, con la silueta del castillo y de la iglesia de la Encarnación en lo alto del cerro. Es el final de la Vía Verde de la Sierra, antiguo trazado ferroviario convertido en vía ciclista.",
+        "come": "En coche desde Ronda, 33 km en unos 50 minutos, o 15-20 minutos desde Setenil.",
+        "quando": "Por la tarde, junto con Setenil.",
+        "tempo": "1-2 horas",
+        "lat": 36.9349,
+        "lng": -5.26012
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: Puente Nuevo y paseo por el barrio morisco.",
-          "Final de la mañana: Baños Árabes y sendero de bajada a la garganta.",
-          "Primera hora de la tarde: Comida con rabo de toro o cordero.",
-          "Tarde: Plaza de Toros y museo.",
-          "Última hora de la tarde: Atardecer desde los miradores sobre la garganta."
+          "Mañana: Plaza de Toros a la apertura de las 10, luego la Alameda del Tajo y los miradores sobre el tajo.",
+          "Media mañana: Puente Nuevo y su centro de interpretación, luego la Ciudad con Santa María la Mayor y el Palacio de Mondragón.",
+          "Primera hora de la tarde: comida con rabo de toro o cordero.",
+          "Tarde: Casa del Rey Moro y la escalera de la Mina, luego los Baños Árabes y el sendero de los molinos bajo el tajo.",
+          "Atardecer: el puente desde abajo o desde el Mirador de Aldehuela."
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: como el programa de un día, con noche en Ronda.",
-          "Día 2, mañana: Setenil de las Bodegas en coche.",
-          "Día 2, tarde: Grazalema y el parque natural Sierra de Grazalema, por carretera panorámica."
+          "Día 1: Ronda como en el programa de un día, durmiendo en el centro.",
+          "Día 2, mañana: Setenil de las Bodegas (30 minutos en coche), con las calles Cuevas del Sol y Cuevas de la Sombra.",
+          "Día 2, comida: en Setenil, bajo las rocas.",
+          "Día 2, tarde: Olvera, a 15-20 minutos, con el castillo en lo alto; vuelta a Ronda."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: Ronda, luego Setenil y Olvera como arriba.",
+          "Día 3, mañana: Grazalema (35 minutos desde Ronda) y un paseo por el parque natural.",
+          "Día 3, tarde: Puerto de las Palomas y Zahara de la Sierra (17 km), subida a la torre del castillo.",
+          "Día 3, noche: vuelta a Ronda en 40 minutos, o se duerme en Grazalema."
         ]
       }
     ],
@@ -1073,12 +1175,40 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Casco histórico de Ronda",
         "perChi": "Quien quiere ver el puente por la noche y por la mañana",
-        "testo": "Hoteles y pensiones a un paso del Puente Nuevo. El pueblo se vacía tras la puesta de sol, cuando los grupos de la excursión se van. Las calles son estrechas y aparcar cuesta."
+        "testo": "Hoteles y pensiones a un paso del Puente Nuevo. El pueblo se vacía tras la puesta de sol, cuando los grupos de la excursión se van. Las calles son estrechas y aparcar cuesta.",
+        "fascia": "90-180 €"
       },
       {
         "nome": "Campo alrededor de Ronda",
         "perChi": "Quien viaja en coche y busca silencio",
-        "testo": "Casas rurales y cortijos entre olivares y viñas, a poca distancia en coche del pueblo. Hace falta el coche para cenar fuera."
+        "testo": "Casas rurales y cortijos entre olivares y viñas, a poca distancia en coche del pueblo. Hace falta el coche para cenar fuera.",
+        "fascia": "80-160 €"
+      },
+      {
+        "nome": "El Mercadillo y la zona de la estación",
+        "perChi": "Quien llega en tren o quiere gastar menos",
+        "testo": "La parte nueva entre la calle Virgen de la Paz y la estación tiene hostales y hoteles sencillos, aparcamiento más fácil y el puente a diez o quince minutos a pie. Menos vistas, más tranquilidad y precios más bajos.",
+        "fascia": "60-110 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Caminito del Rey",
+        "distanza": "60 km, aproximadamente 1 hora en coche",
+        "come": "En coche por la A-367 hasta Ardales y luego la MA-5403. El recorrido es de sentido único de norte a sur; un autobús lanzadera de 2,50 € lleva del final al acceso norte cada media hora de 8:30 a 16:30.",
+        "testo": "Pasarelas colgadas en las paredes del desfiladero de los Gaitanes. Entrada 10 €, visita guiada 18 €, con reserva en la web oficial; prohibido a menores de 8 años. Con mal tiempo se cierra."
+      },
+      {
+        "nome": "Arcos de la Frontera",
+        "distanza": "85 km, aproximadamente 1h20 en coche",
+        "come": "En coche hacia el oeste por la A-372 a través de la Sierra de Grazalema, o por la A-374 pasando por Algodonales.",
+        "testo": "El mayor de los pueblos blancos, sobre una peña encima del Guadalete, con la basílica de Santa María y el mirador de la plaza del Cabildo. Se combina con Grazalema por el camino."
+      },
+      {
+        "nome": "Antequera y los dólmenes",
+        "distanza": "88 km, aproximadamente 1h30 en coche",
+        "come": "En coche por la A-367 y la A-384 hacia Campillos, o como parada en la carretera desde Granada.",
+        "testo": "Los dólmenes de Menga y Viera, patrimonio de la UNESCO, gratis para ciudadanos de la UE y cerrados los lunes, y la ciudad con su Alcazaba. Cerca está el paisaje kárstico del Torcal."
       }
     ],
     sapori: [
@@ -1104,6 +1234,32 @@ export const destinazioniSpagna: Destinazione[] = [
       "Aparcamiento en Ronda y en los pueblos: las zonas azules son de pago y las multas son frecuentes. Usar los aparcamientos cubiertos fuera del centro.",
       "Viento fuerte sobre la garganta en invierno: por el sendero y en los miradores mantenerse lejos del borde.",
       "Grupos de excursión desde Sevilla y la Costa del Sol: en las horas centrales el centro está lleno. Quien duerme en Ronda tiene la mañana y la noche casi vacías."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Ronda?",
+        "risposta": "Un día completo basta para el puente, la Ciudad, la plaza de toros y los baños árabes. Con dos o tres días se suman Setenil, Olvera, Grazalema y Zahara."
+      },
+      {
+        "domanda": "¿Se puede visitar Ronda en un día desde Sevilla o Málaga?",
+        "risposta": "Sí, pero son unas 2 horas por trayecto desde Sevilla y 1h45 desde Málaga, y en las horas centrales el centro se llena de grupos. Dormir una noche permite ver el puente por la noche y casi vacío a primera hora."
+      },
+      {
+        "domanda": "¿Qué pueblos blancos ver cerca de Ronda?",
+        "risposta": "Setenil de las Bodegas, a 30 minutos, por las casas bajo la roca; Grazalema y Zahara de la Sierra por la montaña; Olvera por su castillo. Arcos de la Frontera queda más lejos, a 1h20."
+      },
+      {
+        "domanda": "¿Hace falta coche para los pueblos blancos?",
+        "risposta": "Casi siempre sí: los autobuses entre pueblos son pocos y lentos. Ronda se recorre a pie; el coche solo hace falta para salir."
+      },
+      {
+        "domanda": "¿Cuánto cuestan los monumentos de Ronda?",
+        "risposta": "La Plaza de Toros cuesta 10 €, los Baños Árabes 4,50 € y el Palacio de Mondragón 5 €. El bono municipal de 12 € incluye los Baños, Mondragón y el centro del Puente Nuevo; el puente es gratis."
+      },
+      {
+        "domanda": "¿Se puede hacer el Caminito del Rey desde Ronda?",
+        "risposta": "Sí, el acceso está a una hora en coche. La entrada cuesta 10 € y conviene reservarla en la web oficial, sobre todo los fines de semana de primavera."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['andalusia-itinerario'],
@@ -1140,11 +1296,13 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire: "La Parte Vieja para estar en medio de los bares de pintxos, pero por la noche es ruidosa; Gros, al otro lado del río Urumea, es más tranquilo y está cerca de la playa de Zurriola, la del surf.",
     doveMangiare:
       "El txikiteo en la Parte Vieja es la experiencia en sí (véase la ficha de experiencia dedicada): un bar, una especialidad, un vaso de txakoli (vino blanco vasco ligeramente espumoso) o sidra, y luego se pasa al bar siguiente. Regla no escrita: se come de pie en la barra, el pintxo se coge con las manos, se paga al final de la ronda diciéndole al camarero lo que se ha consumido.",
-    comeArrivare: "Aeropuerto de San Sebastián (pequeño, pocos vuelos) o, más a menudo, aeropuerto de Bilbao (unas 1 h 20 en autobús). Tren desde Madrid (unas 5 h) o Barcelona; en coche, unos 20 minutos desde la frontera francesa.",
+    comeArrivare:
+      "El vuelo más cómodo desde Italia suele aterrizar en Bilbao (BIO): delante de llegadas sale el autobús directo de Pesa a San Sebastián, aproximadamente 1 h 15 de viaje, más o menos uno por hora y billete de unos 14-17 € en la máquina o en línea; el taxi para el mismo trayecto cuesta unos 170-190 €. Más cerca de la ciudad están el pequeño aeropuerto de San Sebastián en Hondarribia (EAS), con pocos vuelos, sobre todo desde Madrid y Barcelona, y el de Biarritz (BIQ), en Francia. En tren desde Madrid se tarda unas 5 horas; en coche, la frontera francesa queda a unos veinte minutos. En la ciudad conviene dejar el coche en un aparcamiento: el centro se recorre a pie.",
     comeSpostarsi: "El centro se recorre a pie; autobuses urbanos para las zonas periféricas y las playas más lejanas.",
     periodoMigliore:
       "junio-septiembre, el periodo más seco y más cálido del año (de todos modos suave, rara vez por encima de 25-27 °C). En Andalucía es la temporada que hay que evitar por el calor.",
-    costi: "una ronda de 4-5 pintxos con otros tantos vasos cuesta aproximadamente 25-35 € por persona; los bares más sencillos tienen pintxos de 2-4 € cada uno.",
+    costi:
+      "una ronda de 4-5 pintxos con otros tantos vasos cuesta aproximadamente 25-35 € por persona; los bares más sencillos tienen pintxos de 2-4 € cada uno. Funicular de Igueldo 5,50 € ida y vuelta, Museo San Telmo 10 € (gratis los martes), Aquarium 16 €, barco a la isla de Santa Clara 5 € (datos de 2026). San Sebastián está entre las ciudades más caras de España para dormir. Presupuesto orientativo por persona y día, compartiendo habitación doble: bajo 80-110 €, medio 150-200 €, alto más de 300 €.",
     erroriDaEvitare: [
       "Pedir un plato y cargarlo de pintxos como en un bufé: se considera poco local, mejor uno o dos por bar antes de cambiar de local",
       "Quedarse en un solo bar toda la noche: el sentido del txikiteo es moverse",
@@ -1157,7 +1315,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde el paseo marítimo o el Boulevard. Se come de pie en la barra, se cogen los pintxos fríos del mostrador y los calientes se piden de viva voz.",
         "quando": "Comida desde las 13 y noche desde las 19-20. El fin de semana los mejores bares están llenos.",
         "tempo": "2-3 horas de ruta",
-        "consiglio": "Pedir siempre el pintxo caliente de la casa, no solo los del mostrador. Al final se dice al camarero lo que se ha consumido."
+        "consiglio": "Pedir siempre el pintxo caliente de la casa, no solo los del mostrador. Al final se dice al camarero lo que se ha consumido.",
+        "costo": "pintxos desde unos 2-4 € cada uno en los bares más sencillos; una ronda de 4-5 pintxos con otros tantos vasos, unos 25-35 € por persona",
+        "lat": 43.32333,
+        "lng": -1.985
       },
       {
         "nome": "Playa de la Concha y Paseo de la Concha",
@@ -1165,7 +1326,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde el centro: el paseo va de la Parte Vieja hasta el final de la bahía, hacia el Peine del Viento.",
         "quando": "Para bañarse, de junio a septiembre. La marea alta estrecha mucho la playa.",
         "tempo": "1-3 horas",
-        "consiglio": "Comprobar las mareas: con marea baja la playa se duplica."
+        "consiglio": "Comprobar las mareas: con marea baja la playa se duplica.",
+        "costo": "gratis",
+        "lat": 43.3177,
+        "lng": -1.98637
       },
       {
         "nome": "Monte Igueldo",
@@ -1173,7 +1337,12 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Funicular desde la base, a la que se llega en autobús urbano desde el centro. También se puede subir a pie.",
         "quando": "Al atardecer. Comprobar la temporada y los horarios del funicular en la web oficial.",
         "tempo": "1-1 hora y media",
-        "consiglio": "Subir hacia la hora del atardecer y bajar a pie por la carretera panorámica."
+        "consiglio": "Subir hacia la hora del atardecer y bajar a pie por la carretera panorámica.",
+        "costo": "funicular ida y vuelta 5,50 €, solo ida 4 €, niños hasta 7 años 2,50 €; el billete incluye la entrada al recinto, las atracciones se pagan aparte (tarifas 2026). Quien sube a pie o en coche paga 3 € por el mirador.",
+        "orari": "Los horarios del funicular, el mirador y las atracciones cambian cada día y se publican en el calendario de la web; las atracciones cierran los días de lluvia.",
+        "url": "https://www.monteigueldo.es/organiza-tu-visita",
+        "lat": 43.3207,
+        "lng": -2.0093
       },
       {
         "nome": "Monte Urgull",
@@ -1181,7 +1350,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde la Parte Vieja, escaleras junto al puerto. Entrada libre al parque.",
         "quando": "Todo el año; con lluvia los senderos resbalan.",
         "tempo": "1-1 hora y media",
-        "consiglio": "Senderos sombreados, buenos en las horas de calor del verano."
+        "consiglio": "Senderos sombreados, buenos en las horas de calor del verano.",
+        "costo": "gratis",
+        "lat": 43.32472,
+        "lng": -1.98889
       },
       {
         "nome": "Peine del Viento",
@@ -1189,7 +1361,113 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde La Concha, al final del paseo, o en autobús hasta Ondarreta.",
         "quando": "Con mar movido o con marea alta, cuando las salpicaduras se notan más.",
         "tempo": "30 minutos",
-        "consiglio": "Con olas fuertes mantenerse lejos de la plataforma baja."
+        "consiglio": "Con olas fuertes mantenerse lejos de la plataforma baja.",
+        "costo": "gratis",
+        "lat": 43.32177,
+        "lng": -2.00567
+      },
+      {
+        "nome": "Basílica de Santa María del Coro",
+        "testo": "La iglesia barroca del siglo XVIII al fondo de la calle Mayor, encajada entre las casas y el monte Urgull. Su fachada, muy labrada, solo se ve entera llegando desde la calle de enfrente, con la catedral del Buen Pastor alineada a la espalda, al otro lado de la ciudad.",
+        "come": "A pie en la Parte Vieja, en el extremo norte de la calle Mayor.",
+        "quando": "Por la mañana, fuera del horario de culto.",
+        "tempo": "20-30 minutos",
+        "lat": 43.32399,
+        "lng": -1.98669
+      },
+      {
+        "nome": "Plaza de la Constitución",
+        "testo": "La plaza porticada en el centro de la Parte Vieja, con los balcones numerados que recuerdan los años en que acogía corridas de toros. Alrededor están algunos de los bares de pintxos más conocidos, y aquí se celebran las fiestas principales, empezando por la Tamborrada del 20 de enero.",
+        "come": "A pie, en el corazón de la Parte Vieja.",
+        "quando": "Por la tarde-noche, cuando se llenan los bares de los soportales.",
+        "tempo": "15-30 minutos",
+        "costo": "gratis",
+        "lat": 43.32361,
+        "lng": -1.98489
+      },
+      {
+        "nome": "Museo San Telmo",
+        "testo": "El museo de la sociedad vasca, en un convento dominico del siglo XVI al pie del Urgull, con un ala moderna revestida de chapa perforada. Cuenta la historia y la cultura del País Vasco; en la iglesia del convento están los grandes lienzos dorados de Josep Maria Sert.",
+        "come": "A pie desde la plaza Zuloaga, en la Parte Vieja. Entradas en taquilla o en línea.",
+        "quando": "Los martes la entrada es gratuita para todos; los días de lluvia es el refugio evidente.",
+        "tempo": "1 h 30-2 horas",
+        "costo": "10 € general, 4 € reducida; gratis los martes y para menores de 25 años (tarifas 2026)",
+        "orari": "Martes a domingo de 10 a 19 h de noviembre a marzo, de 10 a 20 h de abril a octubre. Cerrado los lunes (salvo festivos y puentes), el 1 y el 20 de enero y el 25 de diciembre.",
+        "url": "https://www.santelmomuseoa.eus/",
+        "lat": 43.32477,
+        "lng": -1.9853
+      },
+      {
+        "nome": "Isla de Santa Clara",
+        "testo": "El islote en medio de la bahía de la Concha, con un faro, senderos entre la hierba y una pequeña playa con la marea baja. Desde aquí se ve la ciudad desde el mar, con la Concha y los dos montes a los lados.",
+        "come": "Con los barcos de Motoras de la Isla desde el puerto: la línea roja va directa a la isla en menos de 10 minutos, la línea azul hace un paseo de media hora por la bahía y permite bajar en la isla.",
+        "quando": "De junio a septiembre, con la mar en calma; fuera de temporada hay pocas salidas y conviene comprobarlas.",
+        "tempo": "2-3 horas",
+        "costo": "5 € ida y vuelta en la línea directa, 8 € el paseo por la bahía con parada en la isla (2026)",
+        "orari": "Línea directa del 1 de junio al 30 de septiembre, de 10 a 19 h cada 30 minutos aproximadamente, última vuelta desde la isla a las 20 h; sujeta al tiempo y al estado de la mar.",
+        "url": "https://www.motorasdelaisla.com/",
+        "lat": 43.32068,
+        "lng": -1.99967
+      },
+      {
+        "nome": "Aquarium",
+        "testo": "El acuario en el muelle del puerto, abierto en 1928. Lo mejor es el gran oceanario atravesado por un túnel transparente, con tiburones toro, rayas y tortugas; en la planta superior hay una sección sobre la historia marítima vasca.",
+        "come": "Al fondo del puerto, a pie desde la Parte Vieja por el muelle. Entradas en taquilla o en línea.",
+        "quando": "Martes, jueves y sábados a mediodía se puede ver cómo se alimenta a los peces del oceanario. Útil con niños y los días de lluvia.",
+        "tempo": "1 h 30",
+        "costo": "16 € adultos, 8 € niños de 4 a 12 años, 12 € reducida para estudiantes y mayores de 65 (2026)",
+        "orari": "Noviembre-marzo y octubre: martes a viernes de 10 a 19 h, fines de semana y festivos de 10 a 20 h, cerrado los lunes; abril-junio y septiembre todos los días de 10 a 19 h (fines de semana de 10 a 20 h); julio-agosto de 10 a 20 h. La taquilla cierra una hora antes; cerrado el 1 y el 20 de enero y el 25 de diciembre.",
+        "url": "https://aquariumss.com/tarifas/",
+        "lat": 43.32288,
+        "lng": -1.99206
+      },
+      {
+        "nome": "Gros y playa de la Zurriola",
+        "testo": "El barrio al otro lado del río Urumea, más joven y menos turístico que la Parte Vieja, con bares de pintxos frecuentados sobre todo por quienes viven allí. La Zurriola es la playa abierta al océano, con olas constantes: es la del surf, con escuelas y alquileres a lo largo del paseo.",
+        "come": "A pie desde la Parte Vieja por el puente del Kursaal o el de Santa Catalina.",
+        "quando": "Por la mañana para el surf, por la noche para los bares del barrio.",
+        "tempo": "Media jornada",
+        "costo": "gratis; clases de surf y alquiler de tablas de pago",
+        "lat": 43.3264,
+        "lng": -1.975
+      },
+      {
+        "nome": "Palacio y jardines de Miramar",
+        "testo": "La residencia de verano construida a finales del siglo XIX para la reina María Cristina, en estilo cottage inglés, sobre la colina que separa la Concha de Ondarreta. El palacio solo abre con eventos, pero el parque que lo rodea está abierto y tiene una de las mejores vistas de la bahía.",
+        "come": "A pie por el paseo de la Concha, subiendo por la rampa a mitad de la bahía.",
+        "quando": "Al atardecer, con la luz sobre la bahía.",
+        "tempo": "30-45 minutos",
+        "costo": "jardines gratis",
+        "lat": 43.31455,
+        "lng": -1.99772
+      },
+      {
+        "nome": "Catedral del Buen Pastor",
+        "testo": "La catedral neogótica de finales del siglo XIX en el centro del ensanche, con un campanario de 75 metros, el más alto de la provincia. Delante se abre una plaza donde la gente del barrio se encuentra por la tarde.",
+        "come": "A pie desde el Boulevard por la calle Loiola, en el Área Romántica.",
+        "quando": "De día, fuera del horario de misas.",
+        "tempo": "20-30 minutos",
+        "lat": 43.3167,
+        "lng": -1.98156
+      },
+      {
+        "nome": "Kursaal y Paseo Nuevo",
+        "testo": "Los dos cubos de cristal de Rafael Moneo en la desembocadura del Urumea son la sede del Festival de Cine de septiembre. Desde el Kursaal, el Paseo Nuevo rodea el monte Urgull sobre el mar hasta el puerto: con temporal, las olas saltan el pretil.",
+        "come": "A pie desde la Zurriola o la Parte Vieja; el Paseo Nuevo es un anillo de unos 2 km.",
+        "quando": "Con mar gruesa para ver las olas, o al atardecer.",
+        "tempo": "45 minutos-1 hora",
+        "costo": "paseo gratis",
+        "lat": 43.32444,
+        "lng": -1.97908
+      },
+      {
+        "nome": "Mercado de La Bretxa",
+        "testo": "El mercado histórico en el borde de la Parte Vieja, bajo la plaza del mismo nombre, con puestos de pescado, verdura y quesos donde también se abastecen los bares del centro. Es el sitio para ver el pescado del Cantábrico antes de que acabe en las barras.",
+        "come": "A pie, a la entrada de la Parte Vieja desde el Boulevard.",
+        "quando": "Por la mañana entre semana, cuando los puestos están llenos.",
+        "tempo": "30-45 minutos",
+        "lat": 43.32347,
+        "lng": -1.98274
       },
       {
         "nome": "Getaria y Zarautz",
@@ -1197,35 +1475,39 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Lurraldebus desde la estación de autobuses de San Sebastián o tren regional a Zarautz. Se hace en media jornada.",
         "quando": "Todo el año. En Getaria el pescado a la brasa se come a mediodía.",
         "tempo": "Media jornada",
-        "consiglio": "Probar el pescado en los locales de Getaria que asan en la calle."
+        "consiglio": "Probar el pescado en los locales de Getaria que asan en la calle.",
+        "lat": 43.30446,
+        "lng": -2.20374
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: Paseo por el Paseo de la Concha hasta el Peine del Viento.",
-          "Final de la mañana: Monte Urgull a pie, vista al puerto.",
-          "Primera hora de la tarde: Comida con ruta de pintxos en la Parte Vieja.",
-          "Tarde: Playa de la Concha o descanso.",
-          "Última hora de la tarde: Funicular del Monte Igueldo para el atardecer.",
-          "Noche: Segunda ronda de pintxos."
+          "Mañana: desayuno y paseo por el Paseo de la Concha desde el ayuntamiento hasta el Peine del Viento, con parada en los jardines de Miramar.",
+          "Media mañana: basílica de Santa María y plaza de la Constitución, luego el mercado de La Bretxa.",
+          "Comida: primera ronda de pintxos en la Parte Vieja.",
+          "Tarde: subida al monte Urgull y vuelta por el Paseo Nuevo hasta el Kursaal.",
+          "Atardecer: funicular del monte Igueldo para la vista de la bahía.",
+          "Noche: segunda ronda de pintxos en bares distintos de los de la primera."
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
           "Día 1: como el programa de un día.",
-          "Día 2, mañana: Gros y playa de Zurriola, desayuno en el mercado.",
-          "Día 2, tarde: Getaria en autobús, pescado a la brasa.",
-          "Día 2, noche: última velada de pintxos y txakoli o sidra."
+          "Día 2, mañana: Museo San Telmo (gratis los martes), luego el Aquarium al fondo del puerto.",
+          "Día 2, tarde: en verano, barco a la isla de Santa Clara; si no, Gros y la playa de la Zurriola.",
+          "Día 2, noche: pintxos en Gros, más tranquilos y baratos que en la Parte Vieja."
         ]
       },
       {
         "titolo": "3 días",
         "tappe": [
           "Días 1 y 2: como arriba.",
-          "Día 3: excursión de un día a Hondarribia (pueblo de pescadores) o a Pasaia en barco, y regreso por la noche."
+          "Día 3, mañana: Getaria en autobús, paseo marítimo y puerto, comida con pescado a la brasa y txakoli.",
+          "Día 3, tarde: Zarautz por su larga playa, o Chillida Leku (cerrado martes y miércoles) a la vuelta.",
+          "Día 3, noche: última cena en la ciudad, quizá en una sidrería del interior en temporada de sidra."
         ]
       }
     ],
@@ -1233,17 +1515,52 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Parte Vieja",
         "perChi": "Quien quiere estar entre los bares",
-        "testo": "Comer y salir a pie, pero de noche el ruido dura hasta tarde y los precios son más altos. Las habitaciones son pequeñas."
+        "testo": "Comer y salir a pie, pero de noche el ruido dura hasta tarde y los precios son más altos. Las habitaciones son pequeñas.",
+        "fascia": "120-250 €"
       },
       {
         "nome": "Centro (Área Romántica)",
         "perChi": "Quien busca comodidad y tiendas",
-        "testo": "Barrio decimonónico entre la Concha y el Boulevard, a un paso de la Parte Vieja. Más tranquilo que la zona vieja, con precios medios."
+        "testo": "Barrio decimonónico entre la Concha y el Boulevard, a un paso de la Parte Vieja. Más tranquilo que la zona vieja, con precios medios.",
+        "fascia": "130-280 €"
       },
       {
         "nome": "Gros",
         "perChi": "Quien ama el surf y quiere menos turistas",
-        "testo": "Al otro lado del río Urumea, junto a la playa de Zurriola. Bares y pintxos más baratos, a pie desde la parte vieja cruzando el puente."
+        "testo": "Al otro lado del río Urumea, junto a la playa de Zurriola. Bares y pintxos más baratos, a pie desde la parte vieja cruzando el puente.",
+        "fascia": "110-220 €"
+      },
+      {
+        "nome": "Antiguo y Ondarreta",
+        "perChi": "Familias y quien quiere una playa tranquila",
+        "testo": "El barrio residencial al fondo de la bahía, entre la playa de Ondarreta y el monte Igueldo. Es silencioso por la noche y tiene algún hotel menos caro; a la Parte Vieja hay 30-40 minutos a pie por el paseo o pocos minutos en autobús.",
+        "fascia": "100-200 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Getaria y Zarautz",
+        "distanza": "25 km, unos 30 minutos",
+        "come": "Autobús Lurraldebus desde la estación de autobuses o en coche por la costa.",
+        "testo": "El puerto pesquero con parrillas en la calle, los viñedos de txakoli en las colinas y el museo dedicado a Cristóbal Balenciaga, que nació aquí. Zarautz, a pocos kilómetros, tiene la playa más larga de la costa vasca."
+      },
+      {
+        "nome": "Hondarribia",
+        "distanza": "20 km, unos 30 minutos",
+        "come": "Autobús Lurraldebus o en coche; desde el puerto una pequeña lancha cruza el Bidasoa hasta Hendaya, en Francia.",
+        "testo": "La villa amurallada en la frontera, con el casco medieval en cuesta, el castillo de Carlos V y el barrio de la Marina, con casas de pescadores de colores y balcones de madera. Combina bien con una noche de pintxos en los bares de la Marina."
+      },
+      {
+        "nome": "Chillida Leku",
+        "distanza": "unos 10 km, 20 minutos en coche",
+        "come": "En coche o taxi hacia Hernani; hay aparcamiento gratuito para los visitantes.",
+        "testo": "El museo al aire libre de Eduardo Chillida, el autor del Peine del Viento: una cuarentena de esculturas de hierro y granito repartidas por una campa alrededor de un caserío del siglo XVI. Entrada 14 €, abierto de 10 a 17 h, cerrado martes y miércoles (2026)."
+      },
+      {
+        "nome": "Pasaia",
+        "distanza": "7 km, 15 minutos",
+        "come": "Autobús urbano, o a pie por el sendero costero del monte Ulía, unas 2-3 horas.",
+        "testo": "El puerto al fondo de una bocana estrecha, con Pasai Donibane, una sola calle de casas asomadas al agua, y la casa donde vivió Victor Hugo. Las dos orillas están unidas por una motora que va y viene todo el día."
       }
     ],
     sapori: [
@@ -1274,6 +1591,32 @@ export const destinazioniSpagna: Destinazione[] = [
       "Mar en La Concha: comprobar bandera y mareas antes de entrar, porque hay corrientes cerca de las rocas.",
       "Carteristas entre la multitud en la Parte Vieja los fines de semana y durante las fiestas de agosto (Semana Grande): llevar el bolso por delante.",
       "En sidrerías y restaurantes reservar el fin de semana: los buenos locales se llenan."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en San Sebastián?",
+        "risposta": "Dos días bastan para la Concha, la Parte Vieja, los dos montes y dos noches de pintxos. Con tres se añaden Getaria u Hondarribia y un museo con calma."
+      },
+      {
+        "domanda": "¿Cómo funciona la ronda de pintxos?",
+        "risposta": "Se entra en un bar, se toman uno o dos pintxos y un vaso, y se pasa al siguiente. Los fríos se cogen de la barra, los calientes se piden de palabra, y se paga al final diciendo lo que se ha tomado."
+      },
+      {
+        "domanda": "¿Cuánto cuesta el funicular del monte Igueldo?",
+        "risposta": "En 2026 la ida y vuelta cuesta 5,50 € para adultos y 2,50 € para niños hasta 7 años, e incluye la entrada al recinto de arriba. Las atracciones del parque se pagan aparte."
+      },
+      {
+        "domanda": "¿Mejor dormir en San Sebastián o en Bilbao?",
+        "risposta": "Para comer y para el mar, San Sebastián, que cuesta más. Las dos ciudades están a 1 h 20 en autobús: con poco presupuesto se puede dormir en Bilbao y venir en el día, renunciando a las noches de pintxos."
+      },
+      {
+        "domanda": "¿Se puede bañar uno en San Sebastián?",
+        "risposta": "Sí, de junio a septiembre: la Concha y Ondarreta son resguardadas y de poco fondo, la Zurriola está abierta a las olas y la frecuentan los surfistas. Con la marea alta la Concha se reduce a una franja."
+      },
+      {
+        "domanda": "¿Cuándo ir a San Sebastián?",
+        "risposta": "De junio a septiembre para el baño y el tiempo más seco. En septiembre está también el Festival de Cine, que llena los hoteles; en invierno llueve a menudo, pero los bares están llenos y bajan los precios del alojamiento."
+      }
     ],
     esperienzeSlugs: ['pintxos-crawl-donostia'],
     tripSlugs: ['spagna-nord-itinerario'],
@@ -1307,10 +1650,12 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: "El Casco Viejo por el ambiente histórico y los pintxos; el Ensanche, cerca del Guggenheim, por comodidad y conexiones.",
     doveMangiare: "La misma cultura del pintxo que San Sebastián pero con un carácter más urbano y menos turístico, concentrada en las Siete Calles del Casco Viejo; el bacalao al pil-pil y el txuletón (chuletón a la brasa) son los platos fuertes de la cocina vasca de restaurante.",
-    comeArrivare: "Aeropuerto de Bilbao (Loiu), a unos 12 km del centro (bus Bizkaibus A3247). Tren o autobús desde Madrid (unas 4 h 30-5 h) o desde San Sebastián (unas 1 h 20 en autobús).",
+    comeArrivare:
+      "El aeropuerto de Bilbao (Loiu) está a unos 12 km del centro: el Bizkaibus A3247 sale frente a llegadas y llega al centro en unos 20 minutos, por unos 5 € (menos con la tarjeta Barik); el taxi tarda un cuarto de hora. Desde el aeropuerto sale también el autobús directo de Pesa a San Sebastián, unos 1h15 y 14-17 €. Desde Madrid se llega en tren o autobús en unas 4h30-5h; desde San Sebastián en autobús en 1h20 aproximadamente.",
     comeSpostarsi: "Metro (línea Euskotren/Metro Bilbao) eficiente para llegar al Guggenheim y a las zonas periféricas; el casco histórico se recorre a pie.",
     periodoMigliore: "junio-septiembre, como el resto del Norte: clima fresco y lluvioso todo el año, con el verano como ventana más estable.",
-    costi: "Guggenheim: 18 € de mediados de junio a mediados de septiembre, 15 € el resto del año (reducida 9 €/7,50 €); gratuito para menores de 18 años y, en temporada baja, el último domingo del mes (conviene comprobarlo en la web oficial antes de ir).",
+    costi:
+      "Guggenheim 12 € la entrada general en noviembre de 2026 (la tarifa cambia con las exposiciones y en verano fue más alta), gratis para menores de 18; Museo de Bellas Artes 12 €, gratis los martes; entrada conjunta de los dos museos 16 €. Puente de Vizcaya: travesía en barquilla 0,60 €, pasarela 11 €. Una ronda de pintxos con bebida cuesta unos 20-30 € por persona. Presupuesto orientativo diario por persona, compartiendo habitación doble: bajo 70-90 €, medio 120-160 €, alto más de 230 €.",
     erroriDaEvitare: [
       "Visitar el Guggenheim en lunes sin comprobarlo antes: el museo cierra casi todos los lunes, salvo una ampliación estacional de verano",
       "Tratar Bilbao como una parada fugaz entre San Sebastián y Cantabria: el Casco Viejo merece al menos una noche entera",
@@ -1325,7 +1670,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "tempo": "2-3 horas dentro, 30 minutos el exterior",
         "costo": "12 euros la entrada general, gratis para menores de 18 (tarifa de la web oficial en noviembre de 2026: cambia según la temporada y las exposiciones)",
         "url": "https://www.guggenheim-bilbao.eus/",
-        "consiglio": "Comprar la entrada online y ver primero las salas de Serra; luego el exterior al atardecer."
+        "consiglio": "Comprar la entrada online y ver primero las salas de Serra; luego el exterior al atardecer.",
+        "orari": "Martes a domingo 10-19; hasta las 20 en Semana Santa y del 15 de junio al 13 de septiembre. Lunes cerrado, salvo los lunes de verano y algunas fechas (2026). Cerrado el 25 de diciembre y el 1 de enero; el 24 y el 31 de diciembre cierra a las 17.",
+        "lat": 43.26883,
+        "lng": -2.9341
       },
       {
         "nome": "Casco Viejo y Siete Calles",
@@ -1333,7 +1681,23 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie o en metro hasta Casco Viejo. La Plaza Nueva es el punto de encuentro.",
         "quando": "Pintxos desde el mediodía y desde las 19. El jueves por la noche y los fines de semana el barrio está lleno.",
         "tempo": "2-3 horas",
-        "consiglio": "Probar los bares junto a la Plaza Nueva y los de las calles laterales, menos turísticos."
+        "consiglio": "Probar los bares junto a la Plaza Nueva y los de las calles laterales, menos turísticos.",
+        "costo": "gratis",
+        "lat": 43.25722,
+        "lng": -2.92389
+      },
+      {
+        "nome": "Museo de Bellas Artes",
+        "testo": "El museo de bellas artes de la ciudad, a cinco minutos del Guggenheim, con una colección que va de la Edad Media al siglo XX: maestros españoles como El Greco, Zurbarán y Goya y una amplia sección de pintura vasca. Es el complemento clásico del Guggenheim y se visita en una mañana.",
+        "come": "Metro hasta Plaza Elíptica o tranvía hasta Abandoibarra o Guggenheim. El museo está en el parque de Doña Casilda, en la plaza Eduardo Chillida.",
+        "quando": "Los martes la entrada es gratuita pero solo abren algunas salas: para la colección completa conviene otro día.",
+        "tempo": "1 hora y media-2 horas",
+        "costo": "12 € general, 6 € reducida, gratis para menores de 18; conjunta con el Guggenheim 16 € (2026)",
+        "orari": "Lunes y de miércoles a sábado 10-19 (las colecciones cierran a las 18); martes 10-18 con espacios reducidos; domingo 10-15. Cerrado el 25 de diciembre y el 1 y 6 de enero.",
+        "lat": 43.26597,
+        "lng": -2.93785,
+        "url": "https://www.bilbaomuseoa.eus/",
+        "consiglio": "Quien visita los dos museos ahorra con la entrada conjunta."
       },
       {
         "nome": "Mercado de la Ribera",
@@ -1341,7 +1705,41 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie desde el Casco Viejo, a pocos minutos, a orillas del Nervión.",
         "quando": "Por la mañana para los puestos. Comprobar horarios en fines de semana y festivos.",
         "tempo": "1 hora",
-        "consiglio": "Tomar un pintxo o un café en la zona de restauración de la planta superior."
+        "consiglio": "Tomar un pintxo o un café en la zona de restauración de la planta superior.",
+        "costo": "entrada libre",
+        "orari": "Los puestos cierran los domingos.",
+        "lat": 43.25552,
+        "lng": -2.92424
+      },
+      {
+        "nome": "Plaza Nueva",
+        "testo": "La plaza porticada del siglo XIX del Casco Viejo, cerrada por edificios neoclásicos y rodeada de bares de pintxos. Es el punto de encuentro del casco antiguo, tanto a la hora del vermú como por la noche.",
+        "come": "A pie desde el Casco Viejo, o en metro hasta la estación Casco Viejo, a dos pasos.",
+        "quando": "El domingo por la mañana hay bajo los soportales un mercadillo de sellos y monedas; por la noche, para los pintxos.",
+        "tempo": "30 minutos-1 hora, más si se para a comer",
+        "costo": "gratis",
+        "lat": 43.25901,
+        "lng": -2.92269
+      },
+      {
+        "nome": "Catedral de Santiago",
+        "testo": "La catedral gótica del Casco Viejo, dedicada a Santiago, con claustro y una fachada rehecha en el siglo XIX. Bilbao era etapa del Camino del Norte y la iglesia conserva ese vínculo.",
+        "come": "A pie, en la plaza de Santiago, en el corazón de las Siete Calles. Las visitas turísticas tienen horarios distintos de los del culto.",
+        "quando": "Fuera de las horas de misa; los horarios cambian por motivos de culto.",
+        "tempo": "30-45 minutos",
+        "lat": 43.25721,
+        "lng": -2.9237,
+        "url": "https://catedralbilbao.com/"
+      },
+      {
+        "nome": "Paseo de la ría, Abandoibarra y Zubizuri",
+        "testo": "La ribera del Nervión, rehecha tras el cierre de los astilleros, une el Casco Viejo con el Guggenheim entre parques, esculturas y puentes. El Zubizuri, la pasarela blanca de Santiago Calatrava, es el punto más fotografiado del recorrido.",
+        "come": "A pie desde la Plaza Nueva o el Mercado de la Ribera por la margen izquierda; el tranvía va en paralelo para quien quiera volver.",
+        "quando": "Al atardecer o de noche, cuando el titanio del museo coge la luz. Con lluvia el suelo del Zubizuri resbala.",
+        "tempo": "1 hora a paso tranquilo",
+        "costo": "gratis",
+        "lat": 43.26632,
+        "lng": -2.9278
       },
       {
         "nome": "Puente de Vizcaya (Portugalete)",
@@ -1350,7 +1748,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Funciona todo el año; comprobar horarios y precios del transbordo y de la pasarela.",
         "tempo": "1-2 horas",
         "url": "https://puente-colgante.com/",
-        "consiglio": "Cruzar en barquilla y volver en metro, para ver el puente desde abajo."
+        "consiglio": "Cruzar en barquilla y volver en metro, para ver el puente desde abajo.",
+        "costo": "barquilla 0,60 € por persona; pasarela superior 11 € ida y vuelta, 9 € reducida, 14 € con audioguía (2026)",
+        "orari": "La barquilla hace viajes continuos de unos 8 minutos. Pasarela 10-20 de Semana Santa a octubre, 10-14 y 16-19 de noviembre a Semana Santa; último acceso 20 minutos antes. A finales de 2026 el ascensor funcionaba con horario reducido por una avería: comprobarlo en la web.",
+        "lat": 43.32306,
+        "lng": -3.01694
       },
       {
         "nome": "Funicular de Artxanda",
@@ -1358,28 +1760,82 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "La estación baja está a pocos minutos del centro, al otro lado del río.",
         "quando": "Al atardecer, con el cielo despejado. Comprobar horarios en la web del gestor.",
         "tempo": "1 hora",
-        "consiglio": "Subir hacia la hora del atardecer y parar a tomar una cerveza en la colina."
+        "consiglio": "Subir hacia la hora del atardecer y parar a tomar una cerveza en la colina.",
+        "orari": "De octubre a mayo, lunes a sábado 7:15-22 y domingos y festivos 8:15-22; de junio a septiembre hasta las 23 los viernes, sábados y vísperas de festivo (horarios de fuentes no oficiales, por comprobar).",
+        "lat": 43.2713,
+        "lng": -2.92253
+      },
+      {
+        "nome": "Azkuna Zentroa (Alhóndiga)",
+        "testo": "El antiguo almacén de vinos de principios del siglo XX, convertido por Philippe Starck en centro cultural. En el atrio hay decenas de columnas, todas distintas, de ladrillo, mármol, metal y madera; arriba hay cines, biblioteca, gimnasios y una piscina con el fondo transparente que se ve desde abajo.",
+        "come": "A pie desde la Gran Vía y la plaza Moyúa, o en metro hasta Indautxu.",
+        "quando": "Una tarde de lluvia, junto con un paseo por el Ensanche.",
+        "tempo": "30 minutos-1 hora",
+        "lat": 43.25969,
+        "lng": -2.93712,
+        "url": "https://www.azkunazentroa.eus/"
+      },
+      {
+        "nome": "Euskal Museoa (Museo Vasco)",
+        "testo": "El museo de etnografía vasca, en un antiguo colegio del siglo XVII en el Casco Viejo. Cuenta la pesca, el pastoreo, los oficios y las fiestas del País Vasco; en el claustro está el Mikeldi, un ídolo prehistórico de piedra con forma de animal.",
+        "come": "A pie, en la plaza Miguel de Unamuno, a la entrada del Casco Viejo.",
+        "quando": "Antes de recorrer las Siete Calles, para tener el contexto de la cultura vasca.",
+        "tempo": "1 hora",
+        "lat": 43.25803,
+        "lng": -2.92185
+      },
+      {
+        "nome": "Basílica de Begoña",
+        "testo": "El santuario de la patrona de Bizkaia, en una colina sobre el Casco Viejo. Desde el atrio se ve el casco antiguo desde arriba, y es una de las subidas clásicas de los bilbaínos.",
+        "come": "A pie por las escaleras de Mallona desde la plaza de Unamuno, o con el ascensor público de Begoña desde el Casco Viejo.",
+        "quando": "Por la mañana, junto con el Museo Vasco, que está al pie de las escaleras.",
+        "tempo": "1 hora con la subida",
+        "costo": "entrada libre",
+        "lat": 43.25877,
+        "lng": -2.91374
+      },
+      {
+        "nome": "Itsasmuseum",
+        "testo": "El museo marítimo de la ría, en el solar de los antiguos astilleros Euskalduna, junto al palacio de congresos. Cuenta el puerto, la construcción naval y el vínculo de la ciudad con el agua; fuera está la grúa roja Carola, símbolo del pasado industrial.",
+        "come": "A pie desde el Guggenheim por la ría en unos 15 minutos, o en tranvía hasta Euskalduna.",
+        "quando": "Un día de lluvia o viajando con niños.",
+        "tempo": "1-1 hora y media",
+        "orari": "Martes a domingo 11-19; lunes cerrado.",
+        "lat": 43.2664,
+        "lng": -2.9462,
+        "url": "https://www.itsasmuseum.eus/"
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: Guggenheim, por la mañana.",
-          "Final de la mañana: Paseo por el Nervión hasta el Casco Viejo.",
-          "Primera hora de la tarde: Mercado de la Ribera y comida de pintxos.",
-          "Tarde: Siete Calles y catedral.",
-          "Última hora de la tarde: Funicular de Artxanda para el atardecer.",
-          "Noche: Cena en el Casco Viejo."
+          "Mañana: Guggenheim a la apertura de las 10, con Puppy y Maman por fuera antes de entrar.",
+          "Media mañana: paseo por la ría hasta el Zubizuri y el Mercado de la Ribera.",
+          "Comida: pintxos en la Plaza Nueva o en la planta alta del mercado.",
+          "Tarde: Siete Calles, Catedral de Santiago y Museo Vasco.",
+          "Última hora de la tarde: funicular de Artxanda para la puesta de sol sobre la ciudad.",
+          "Noche: segunda ronda de pintxos en el Casco Viejo."
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: como el programa de un día.",
-          "Día 2, mañana: Museo de Bellas Artes y el Ensanche.",
-          "Día 2, tarde: Puente de Vizcaya en metro, cruce en barquilla.",
-          "Día 2, noche: última velada de pintxos."
+          "Día 1: Guggenheim, ría, Ribera, Casco Viejo y Artxanda como en el programa de un día.",
+          "Día 2, mañana: Museo de Bellas Artes (con la entrada conjunta) y parque de Doña Casilda.",
+          "Día 2, comida: Ensanche, Gran Vía y Azkuna Zentroa.",
+          "Día 2, tarde: metro hasta Portugalete o Areeta, travesía del Puente de Vizcaya en barquilla y pasarela superior.",
+          "Día 2, noche: cena de pintxos en la Plaza Nueva."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como en el programa de dos días.",
+          "Día 3, mañana: San Juan de Gaztelugatxe en coche (unos 45 minutos), reservando el acceso si es un día de aforo controlado.",
+          "Día 3, comida: Bermeo o Mundaka, en la costa.",
+          "Día 3, tarde: Gernika, con la Casa de Juntas y el árbol, y vuelta a Bilbao.",
+          "Día 3, noche: Basílica de Begoña al atardecer y última cena en el Casco Viejo."
         ]
       }
     ],
@@ -1387,12 +1843,52 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Casco Viejo",
         "perChi": "Quien quiere pintxos y ambiente",
-        "testo": "Habitaciones en el barrio histórico, cómodas para los bares. Por la noche es ruidoso los fines de semana, sobre todo el jueves."
+        "testo": "Habitaciones en el barrio histórico, cómodas para los bares. Por la noche es ruidoso los fines de semana, sobre todo el jueves.",
+        "fascia": "70-150 €"
       },
       {
         "nome": "Ensanche y alrededores del Guggenheim",
         "perChi": "Quien busca comodidad y conexiones",
-        "testo": "Barrio decimonónico con tiendas, metro y tranvía. Más tranquilo por la noche y a pocos minutos a pie del museo."
+        "testo": "Barrio decimonónico con tiendas, metro y tranvía. Más tranquilo por la noche y a pocos minutos a pie del museo.",
+        "fascia": "90-180 €"
+      },
+      {
+        "nome": "Abandoibarra",
+        "perChi": "Quien quiere el Guggenheim bajo la ventana",
+        "testo": "La zona nueva junto a la ría, entre el museo y el palacio Euskalduna, con hoteles grandes y habitaciones con vistas al río. Es tranquila de noche pero tiene pocos bares: para los pintxos se va a pie o en tranvía al Casco Viejo.",
+        "fascia": "120-250 €"
+      },
+      {
+        "nome": "Bilbao La Vieja y San Francisco",
+        "perChi": "Quien viaja con poco presupuesto y le gustan los locales alternativos",
+        "testo": "En la orilla opuesta al Casco Viejo, unida por el puente de San Antón, es el barrio de los bares jóvenes, las galerías y las cocinas del mundo. Los precios son los más bajos del centro, pero algunas calles están menos cuidadas de noche.",
+        "fascia": "60-120 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "San Juan de Gaztelugatxe",
+        "distanza": "34 km, unos 45 minutos en coche",
+        "come": "En coche hacia Bakio; desde el aparcamiento se baja a pie y luego se suben las escaleras hasta la ermita. En los días de más afluencia hace falta una reserva gratuita online, que se enseña en el acceso.",
+        "testo": "La ermita sobre un islote unido a la costa por un puente de piedra y una larga escalinata, uno de los lugares más fotografiados del País Vasco. La bajada es fácil, la subida de vuelta cansa: hacen falta buen calzado y un par de horas."
+      },
+      {
+        "nome": "Gernika",
+        "distanza": "38 km, 40 minutos en coche o 1 hora aproximadamente en tren",
+        "come": "Tren de Euskotren desde la estación de Atxuri o en coche; el centro se recorre a pie.",
+        "testo": "La villa símbolo del País Vasco, bombardeada en 1937 y pintada por Picasso. Se ven la Casa de Juntas con el árbol de Gernika, el Museo de la Paz y la reproducción mural del Guernica en una calle del centro. Combina bien con Mundaka y la reserva de Urdaibai."
+      },
+      {
+        "nome": "San Sebastián",
+        "distanza": "1h20 aproximadamente en autobús",
+        "come": "Autobuses directos desde la estación de Termibus, más o menos cada hora.",
+        "testo": "La Concha, el monte Urgull y la ronda de pintxos por la Parte Vieja. Se puede hacer en el día, pero la ciudad merece al menos una noche: tiene su propia ficha."
+      },
+      {
+        "nome": "Zumaia y el flysch",
+        "distanza": "79 km, 1 hora aproximadamente en coche",
+        "come": "En coche por la autopista hacia San Sebastián, salida de Zumaia; la playa de Itzurun está a pie desde el pueblo.",
+        "testo": "Los acantilados en capas del flysch cierran la playa de Itzurun y son de los paisajes más famosos de la costa vasca. Con marea baja queda al descubierto la rasa de roca."
       }
     ],
     sapori: [
@@ -1422,6 +1918,32 @@ export const destinazioniSpagna: Destinazione[] = [
       "Lluvia frecuente todo el año: llevar un impermeable ligero.",
       "Casco Viejo los fines de semana y durante la Aste Nagusia, la fiesta de agosto: lleno de gente y posibles carteristas.",
       "Metro y tranvía: validar el billete o la tarjeta recargable a la entrada."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Bilbao?",
+        "risposta": "Un día basta para el Guggenheim, el Casco Viejo y la ría. Con dos se añaden el Museo de Bellas Artes y el Puente de Vizcaya; con tres, San Juan de Gaztelugatxe y Gernika."
+      },
+      {
+        "domanda": "¿Hay que reservar el Guggenheim?",
+        "risposta": "No es obligatorio, pero la entrada online evita la cola en verano y en puentes. El museo cierra casi todos los lunes, salvo los del 15 de junio a principios de septiembre."
+      },
+      {
+        "domanda": "¿Cuánto cuesta el Guggenheim Bilbao?",
+        "risposta": "En noviembre de 2026 la entrada general cuesta 12 €, la reducida 6 €, gratis para menores de 18; el precio cambia con las exposiciones. Con el Museo de Bellas Artes hay una entrada conjunta de 16 €."
+      },
+      {
+        "domanda": "¿Hace falta reservar para San Juan de Gaztelugatxe?",
+        "risposta": "Solo en los días de aforo controlado, es decir, en temporada alta y festivos: la reserva es gratuita y se hace online. El resto de días el acceso es libre."
+      },
+      {
+        "domanda": "¿Bilbao o San Sebastián como base?",
+        "risposta": "San Sebastián tiene la playa y los pintxos más famosos; Bilbao, los museos, hoteles algo más baratos y mejores conexiones con el aeropuerto. Con 4-5 días conviene dormir en las dos."
+      },
+      {
+        "domanda": "¿Cómo se va del aeropuerto de Bilbao al centro?",
+        "risposta": "El Bizkaibus A3247 llega al centro en unos 20 minutos por unos 5 €, menos con la tarjeta Barik. Desde el mismo aeropuerto sale el autobús directo a San Sebastián."
+      }
     ],
     esperienzeSlugs: ['guggenheim-bilbao'],
     tripSlugs: ['spagna-nord-itinerario'],
@@ -1997,11 +2519,13 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: "Ibiza ciudad/Dalt Vila para la vida urbana y la cercanía a los clubes del sur; Santa Gertrudis o Sant Joan para la versión tranquila de la isla, con desplazamientos en coche para llegar a las playas.",
     doveMangiare: "El bullit de peix (sopa de pescado con el arroz aparte) es el plato tradicional de la isla; en el norte, los pequeños restaurantes de campo alrededor de Santa Gertrudis y San Juan tienen una cocina más sencilla y menos cara que la del puerto.",
-    comeArrivare: "Aeropuerto de Ibiza, con vuelos directos estacionales desde Italia en temporada alta; ferri desde Mallorca (Palma-Ibiza, unas 2 h 15-5 h según el tipo de barco) o desde Barcelona/Valencia.",
+    comeArrivare:
+      "Aeropuerto de Ibiza (IBZ), al sur de Eivissa, con vuelos directos de temporada desde Italia en temporada alta. El autobús a Eivissa (antigua línea 10, desde 2026 renumerada en las líneas AERO) cuesta unos 3,50 € y tarda unos 20 minutos; el taxi, unos 20-25 €, con largas colas en verano. Ferris de Baleària y Trasmed desde Palma (2h15-4h15 según el barco) y desde Barcelona o Valencia; Formentera está a unos 30 minutos del puerto de Eivissa. En verano, desconfiar de los traslados piratas que se ofrecen a la salida de llegadas.",
     comeSpostarsi: "Coche o scooter de alquiler casi imprescindibles para llegar al norte de la isla y a las calas más aisladas; los autobuses locales conectan los centros principales pero con frecuencias limitadas fuera de temporada.",
     periodoMigliore:
       "junio y septiembre, el mejor compromiso entre clima y gente. Julio-agosto es el pico de precios y vida nocturna, con el sur lleno; el norte sigue bastante tranquilo incluso en temporada alta.",
-    costi: "Muy variable: una entrada a los grandes clubes puede superar los 60-100 € en temporada alta, mientras que un día en el norte entre playas libres y una comida sencilla cuesta una fracción de esa cifra.",
+    costi:
+      "Entrada a las grandes discotecas a menudo por encima de 60-100 € en temporada alta; Cova de Can Marçà 15 €; ecotasa de unos pocos euros por noche que se paga en el hotel. El alojamiento está entre los más caros de Europa en julio y agosto. Presupuesto orientativo por persona y día en verano, compartiendo habitación doble y coche de alquiler: bajo 90-120 €, medio 160-250 €, alto más de 350 €; en mayo, junio y septiembre se gasta menos.",
     erroriDaEvitare: [
       "Reducir Ibiza a la vida nocturna sin ver nunca el norte: es la parte que más sorprende a quien llega con la idea de la isla de los clubes",
       "Reservar las entradas a los grandes clubes a última hora en temporada alta: los mejores eventos se agotan con días o semanas de antelación",
@@ -2015,7 +2539,19 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Al atardecer por la luz sobre las murallas. De día, en verano, hay poca sombra.",
         "tempo": "2-3 horas",
         "url": "https://www.eivissa.es/",
-        "consiglio": "Subir temprano y bajar a cenar al barrio de Sa Penya, bajo las murallas."
+        "consiglio": "Subir temprano y bajar a cenar al barrio de Sa Penya, bajo las murallas.",
+        "costo": "gratis",
+        "lat": 38.90661,
+        "lng": 1.43629
+      },
+      {
+        "nome": "Catedral de Ibiza",
+        "testo": "Santa Maria de les Neus está en lo alto de Dalt Vila, el punto más alto de la ciudad. Nació gótica en el siglo XIV en el lugar de la mezquita y se rehízo en estilo barroco en el XVIII. Desde la explanada se ven el puerto, la costa y, en los días claros, Formentera.",
+        "come": "A pie, subiendo por Dalt Vila desde el Portal de ses Taules: es la última etapa de la subida.",
+        "quando": "Por la mañana, antes del calor; fuera de temporada el horario se reduce.",
+        "tempo": "30 minutos",
+        "lat": 38.9067,
+        "lng": 1.4367
       },
       {
         "nome": "Es Vedrà e Cala d'Hort",
@@ -2023,7 +2559,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En coche desde Ibiza ciudad. Cala d'Hort tiene un aparcamiento pequeño, lleno las tardes de verano.",
         "quando": "El atardecer es el momento más concurrido: llegar al menos una hora antes.",
         "tempo": "2-3 horas",
-        "consiglio": "Cenar en uno de los locales de la playa y quedarse después del atardecer: la multitud se va."
+        "consiglio": "Cenar en uno de los locales de la playa y quedarse después del atardecer: la multitud se va.",
+        "costo": "gratis",
+        "lat": 38.89026,
+        "lng": 1.22429
       },
       {
         "nome": "Cala Comte",
@@ -2031,7 +2570,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En coche desde Sant Antoni, o en el autobús de temporada.",
         "quando": "El atardecer en verano está lleno. Mejor por la mañana o en septiembre.",
         "tempo": "media jornada",
-        "consiglio": "Para cenar frente al mar, elegir los restaurantes sobre las rocas, pero reservar."
+        "consiglio": "Para cenar frente al mar, elegir los restaurantes sobre las rocas, pero reservar.",
+        "costo": "gratis",
+        "lat": 38.96257,
+        "lng": 1.22012
       },
       {
         "nome": "Benirràs e tamburi della domenica",
@@ -2039,15 +2581,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En coche desde Sant Joan de Labritja. La carretera es estrecha en el último tramo.",
         "quando": "Los domingos al atardecer, de mayo a octubre. Los demás días la bahía está tranquila.",
         "tempo": "una tarde-noche",
-        "consiglio": "Llegar con mucha antelación para encontrar aparcamiento y sitio en la arena."
-      },
-      {
-        "nome": "Cala Xarraca e Cala Sant Vicent",
-        "testo": "Dos calas del norte. Xarraca es una bahía verde de agua calma; Sant Vicent es rocosa y más salvaje. Poca construcción alrededor.",
-        "come": "En coche desde Sant Joan de Labritja; aparcamientos pequeños.",
-        "quando": "A primera hora o al final de la tarde.",
-        "tempo": "media jornada",
-        "consiglio": "Llevar gafas y tubo: el agua es limpia y el fondo rocoso."
+        "consiglio": "Llegar con mucha antelación para encontrar aparcamiento y sitio en la arena.",
+        "costo": "gratis",
+        "lat": 39.08944,
+        "lng": 1.45392
       },
       {
         "nome": "Ses Salines",
@@ -2056,32 +2593,132 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Por la mañana, antes del calor. Es Cavallet tiene un tramo naturista.",
         "tempo": "media jornada",
         "url": "https://www.caib.es/",
-        "consiglio": "No entrar en las zonas de salinas y dunas señaladas como protegidas."
+        "consiglio": "No entrar en las zonas de salinas y dunas señaladas como protegidas.",
+        "costo": "playa libre; aparcamientos de pago en verano",
+        "lat": 38.84107,
+        "lng": 1.39186
+      },
+      {
+        "nome": "Cala Xarraca e Cala Sant Vicent",
+        "testo": "Dos calas del norte. Xarraca es una bahía verde de agua calma; Sant Vicent es rocosa y más salvaje. Poca construcción alrededor.",
+        "come": "En coche desde Sant Joan de Labritja; aparcamientos pequeños.",
+        "quando": "A primera hora o al final de la tarde.",
+        "tempo": "media jornada",
+        "consiglio": "Llevar gafas y tubo: el agua es limpia y el fondo rocoso.",
+        "costo": "gratis",
+        "lat": 39.0983,
+        "lng": 1.4975
+      },
+      {
+        "nome": "Sa Penya y La Marina",
+        "testo": "Los barrios bajos entre el puerto y las murallas: La Marina con sus casas encaladas, el mercado viejo y las calles de tiendas, y Sa Penya apretada sobre la roca, el histórico barrio de pescadores. Por la noche aquí se cena antes de subir a Dalt Vila o de ir a las discotecas.",
+        "come": "A pie desde el puerto de Eivissa.",
+        "quando": "Desde media tarde. En verano está llena hasta la madrugada.",
+        "tempo": "1-2 horas",
+        "costo": "gratis",
+        "lat": 38.90873,
+        "lng": 1.43856,
+        "consiglio": "Quien duerma aquí, que pida una habitación que no dé a las calles de bares."
+      },
+      {
+        "nome": "MACE, Museu d'Art Contemporani",
+        "testo": "El museo de arte contemporáneo de Eivissa, dentro de Dalt Vila junto al Portal de ses Taules, en un edificio militar del siglo XVIII. Reúne a los artistas que han trabajado en la isla desde los años cincuenta y, bajo un suelo de cristal, los restos arqueológicos hallados durante la restauración.",
+        "come": "A pie, justo después del Portal de ses Taules.",
+        "quando": "En las horas de calor, como pausa en la subida.",
+        "tempo": "1 hora",
+        "lat": 38.90836,
+        "lng": 1.43631
+      },
+      {
+        "nome": "Santa Eulària y Puig de Missa",
+        "testo": "El pueblo de la costa este, más tranquilo y familiar. Sobre el centro se alza el Puig de Missa, una colina con la iglesia blanca fortificada del siglo XVI, construida para defenderse de los piratas, y casas payesas alrededor.",
+        "come": "En coche o autobús desde Eivissa. Al Puig de Missa se sube a pie desde el centro en 15 minutos.",
+        "quando": "Al atardecer, con la luz sobre la iglesia y el valle del río.",
+        "tempo": "1-2 horas",
+        "costo": "gratis",
+        "lat": 38.98407,
+        "lng": 1.52932
+      },
+      {
+        "nome": "Mercadillo de Las Dalias",
+        "testo": "El mercadillo hippie más conocido de la isla, en Sant Carles de Peralta, en el jardín de un antiguo local junto a la carretera. Puestos de artesanía, ropa, joyas y comida: menos comercial que los mercadillos del sur.",
+        "come": "En coche por la carretera de Santa Eulària a Sant Carles; aparcamiento junto a la carretera.",
+        "quando": "El sábado por la mañana, nada más abrir.",
+        "tempo": "1-2 horas",
+        "orari": "Mercadillo hippie el sábado de 10 a 17 y el domingo de 11 a 17 (calendario de noviembre de 2026); en verano el programa cambia, consultar la web.",
+        "lat": 39.0283,
+        "lng": 1.55786,
+        "url": "https://lasdalias.es/"
+      },
+      {
+        "nome": "Santa Gertrudis de Fruitera",
+        "testo": "El pueblecito del centro de la isla, con la iglesia blanca, una plaza peatonal de bares y restaurantes y algunas galerías de arte. Es la base de quien busca la Ibiza rural.",
+        "come": "En coche desde Eivissa en un cuarto de hora; se recorre a pie.",
+        "quando": "A la hora de comer o de cenar, cuando la plaza se llena.",
+        "tempo": "1 hora",
+        "costo": "gratis",
+        "lat": 38.9986,
+        "lng": 1.43012
+      },
+      {
+        "nome": "Cova de Can Marçà",
+        "testo": "Una cueva sobre la bahía de Port de Sant Miquel, usada antaño por los contrabandistas. Se visita con guía, entre estalactitas, juegos de luz y una cascada artificial, y desde la salida se ve el mar desde lo alto.",
+        "come": "En coche por Sant Miquel de Balansat hasta Port de Sant Miquel. Visitas guiadas de unos 40 minutos, cada 45 minutos, sin reserva obligatoria.",
+        "quando": "En un día nublado o en las horas de calor.",
+        "tempo": "1 hora",
+        "costo": "15 € adultos",
+        "orari": "Abierta todo el año: de 10:30 a 19:30 de mayo a octubre, de 10:30 a 17:30 de noviembre a abril.",
+        "lat": 39.08337,
+        "lng": 1.44186,
+        "url": "https://www.covadecanmarsa.com/"
+      },
+      {
+        "nome": "Sant Antoni y el atardecer en Caló des Moro",
+        "testo": "Sant Antoni es la ciudad de la costa oeste, con la bahía de los atardeceres y el paseo de bares musicales. La pequeña cala rocosa de Caló des Moro es donde la gente se reúne para ver el sol bajar sobre el mar.",
+        "come": "En coche o autobús desde Eivissa; luego a pie por el paseo al norte del puerto.",
+        "quando": "Al atardecer, llegando una hora antes para coger sitio.",
+        "tempo": "2 horas",
+        "costo": "gratis en el paseo; en los bares hay consumición obligatoria",
+        "lat": 38.98522,
+        "lng": 1.29667
+      },
+      {
+        "nome": "Talamanca",
+        "testo": "La playa más cómoda desde Eivissa, en una bahía al este del puerto, con arena y agua poco profunda. No es la más bonita de la isla, pero se llega sin coche.",
+        "come": "A pie bordeando el puerto desde Eivissa, o en pocos minutos de taxi.",
+        "quando": "Por la tarde, después de la mañana en Dalt Vila.",
+        "tempo": "media jornada",
+        "costo": "gratis",
+        "lat": 38.9163,
+        "lng": 1.4539
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Dalt Vila por la mañana",
-          "Comida en Sa Penya",
-          "Tarde: Ses Salines o Cala Comte",
-          "Atardecer junto al mar"
+          "Mañana: Dalt Vila desde el Portal de ses Taules, MACE y la Catedral en lo alto",
+          "Comida: La Marina, bajo las murallas",
+          "Tarde: Ses Salines, o Talamanca si no hay coche",
+          "Noche: atardecer en Cala Comte o en Caló des Moro, luego cena en Sa Penya"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: Dalt Vila y Ses Salines, cena en la ciudad",
-          "Día 2: el norte, Cala Xarraca y Sant Vicent, mercado en Sant Joan o Las Dalias, atardecer en Benirràs si es domingo"
+          "Día 1: como el programa de un día",
+          "Día 2, mañana: el norte en coche, Cala Xarraca y Cala Sant Vicent, o el mercadillo de Las Dalias si es sábado",
+          "Día 2, tarde: Cova de Can Marçà y comida tardía en Santa Gertrudis",
+          "Día 2, noche: Benirràs al atardecer, con los tambores si es domingo"
         ]
       },
       {
         "titolo": "3 días",
         "tappe": [
-          "Día 1: Dalt Vila",
-          "Día 2: el norte y Benirràs",
-          "Día 3: Es Vedrà, Cala d'Hort y Cala Comte al atardecer"
+          "Días 1 y 2: como arriba",
+          "Día 3, mañana: Santa Eulària y el Puig de Missa",
+          "Día 3, tarde: Cala d'Hort y la Torre des Savinar frente a Es Vedrà",
+          "Día 3, noche: atardecer sobre Es Vedrà y cena en la playa, o una noche en una de las discotecas históricas reservada online"
         ]
       }
     ],
@@ -2089,17 +2726,40 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Ibiza ciudad",
         "perChi": "quien quiere servicios y no conducir",
-        "testo": "Puerto, restaurantes y autobuses a las playas del sur. Ruidosa de noche y cara en verano."
+        "testo": "Puerto, restaurantes y autobuses a las playas del sur. Ruidosa de noche y cara en verano.",
+        "fascia": "180-400 €"
       },
       {
         "nome": "Sant Antoni",
         "perChi": "quien quiere mar y ocio nocturno más barato",
-        "testo": "Bahía con atardeceres, locales y conexiones. Muy turística y nocturna."
+        "testo": "Bahía con atardeceres, locales y conexiones. Muy turística y nocturna.",
+        "fascia": "120-280 €"
       },
       {
         "nome": "Norte: Santa Gertrudis, Sant Joan",
         "perChi": "quien busca silencio",
-        "testo": "Colinas verdes, restaurantes y calas. Hace falta coche, los autobuses son pocos."
+        "testo": "Colinas verdes, restaurantes y calas. Hace falta coche, los autobuses son pocos.",
+        "fascia": "150-350 €"
+      },
+      {
+        "nome": "Santa Eulària des Riu",
+        "perChi": "familias y quien busca un pueblo tranquilo",
+        "testo": "Paseo marítimo, playa urbana y restaurantes, lejos de las discotecas. Autobuses a Eivissa y buena posición para el noreste y Las Dalias.",
+        "fascia": "150-300 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Formentera",
+        "distanza": "unos 30 minutos en ferri",
+        "come": "Ferris rápidos frecuentes desde el puerto de Eivissa hasta La Savina; en la isla se alquilan bicis eléctricas, motos o coches.",
+        "testo": "La más pequeña de las Baleares habitadas, llana, con las playas de Ses Illetes y Llevant dentro del parque natural y agua clarísima. Un día basta para el norte de la isla y el faro del Cap de Barbaria."
+      },
+      {
+        "nome": "Palma de Mallorca",
+        "distanza": "2h15-4h15 en ferri",
+        "come": "Baleària y Trasmed de Eivissa a Palma; los barcos rápidos tardan unas dos horas y cuarto.",
+        "testo": "La catedral gótica junto al mar con las intervenciones de Gaudí, el casco antiguo y el Passeig del Born. Mejor como siguiente etapa del viaje que como excursión de ida y vuelta."
       }
     ],
     sapori: [
@@ -2131,6 +2791,32 @@ export const destinazioniSpagna: Destinazione[] = [
       "Impuesto turístico (ecotasa) de unos pocos euros por noche, que se paga en el hotel.",
       "En Sant Antoni y otras zonas hay prohibición de beber en la calle y multas por conducta incívica.",
       "Es Vedrà y los acantilados: no salir de los senderos marcados, las caídas son frecuentes."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Ibiza?",
+        "risposta": "Tres días para Dalt Vila, las playas del suroeste y el norte con sus calas y mercadillos. Con cuatro o cinco se añade Formentera en el día."
+      },
+      {
+        "domanda": "¿Ibiza merece la pena si no se va de discotecas?",
+        "risposta": "Sí. El norte, entre Sant Joan, Santa Gertrudis y las calas, es tranquilo incluso en agosto, y la ciudad alta de Dalt Vila es Patrimonio de la UNESCO."
+      },
+      {
+        "domanda": "¿Dónde alojarse en Ibiza?",
+        "risposta": "En Eivissa para no conducir y estar cerca de las discotecas, en Sant Antoni por los atardeceres y precios algo más bajos, en el norte o en Santa Eulària por la tranquilidad. En verano una doble rara vez baja de 120-150 € la noche."
+      },
+      {
+        "domanda": "¿Hace falta coche en Ibiza?",
+        "risposta": "Para el norte y las calas sí, o al menos una moto: los autobuses unen los pueblos principales pero pasan poco fuera de temporada. Quien se quede entre Eivissa, Talamanca y Ses Salines puede prescindir de él."
+      },
+      {
+        "domanda": "¿Cuándo ir a Ibiza?",
+        "risposta": "Junio y septiembre son el equilibrio entre mar templado, discotecas abiertas y precios menos altos. Julio y agosto son el pico de gente y de costes."
+      },
+      {
+        "domanda": "¿Cómo se va a Formentera desde Ibiza?",
+        "risposta": "En los ferris rápidos desde el puerto de Eivissa, unos 30 minutos, frecuentes todo el día en temporada. En la isla se mueve uno en bici eléctrica, moto o coche de alquiler."
+      }
     ],
     esperienzeSlugs: ['ibiza-nord-calette'],
     tripSlugs: ['baleari-itinerario'],
@@ -2329,11 +3015,13 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: "Puerto de la Cruz para la costa norte, más verde y menos turística; Costa Adeje o Los Cristianos para la costa sur, más soleada y turística, cómoda para quien apuesta por el mar.",
     doveMangiare: "Las papas arrugadas (patatas pequeñas hervidas en agua muy salada) con mojo rojo y mojo verde (salsas picantes, una a base de pimiento, la otra de cilantro o perejil) son el plato símbolo de todas las Canarias; el gofio, harina tostada de cereales de origen guanche, aparece en mil variantes.",
-    comeArrivare: "Dos aeropuertos: Tenerife Sur (TFS), el principal para los vuelos internacionales y la costa turística sur, y Tenerife Norte (TNO), más cercano a Santa Cruz y La Laguna.",
+    comeArrivare:
+      "Dos aeropuertos: Tenerife Sur (TFS), donde llega la mayoría de los vuelos desde Italia, y Tenerife Norte (TFN), cerca de La Laguna, usado sobre todo para vuelos interinsulares. Las guaguas de TITSA llegan a los dos (billete a bordo o tarjeta Ten+); la línea 343 va del Sur al Norte y sigue hasta Puerto de la Cruz, unos 10 €. En coche se tarda unos 30 minutos desde el Norte hasta Puerto de la Cruz y una hora y cuarto desde el Sur. El coche de alquiler recogido en el aeropuerto sigue siendo lo más práctico para el Teide, Anaga y Masca.",
     comeSpostarsi: "Coche de alquiler recomendado para llegar al Teide y a Anaga; tranvía entre Santa Cruz y La Laguna; autobuses (guaguas) capilares pero con tiempos largos hacia las zonas de montaña.",
     periodoMigliore:
       "todo el año, con un clima suave y constante (16-21 °C incluso en enero): por eso las Canarias son el destino español adecuado en invierno, cuando el resto de Europa pasa frío. En altura, en el Teide, hace más frío y en invierno la nieve no es rara.",
-    costi: "Teleférico del Teide unos 40 € ida y vuelta; el permiso para la cumbre es gratuito pero con cupo limitado (200 personas al día, reservable hasta 56 días antes).",
+    costi:
+      "Teleférico del Teide 43 € ida y vuelta para no residentes (2026); permiso para el pico unos 15 € para no residentes desde 2026; sendero de Masca desde 40,66 € más el barco de vuelta; Palmetum 6 €, parque del Drago 5 €, Jardín Botánico unos 3 €. Presupuesto orientativo por persona y día, compartiendo habitación doble y coche de alquiler: bajo 60-80 €, medio 110-160 €, alto más de 230 €.",
     erroriDaEvitare: [
       "Subir al Teide sin haber reservado el permiso para la cumbre con mucha antelación: el teleférico por sí solo no da acceso al último tramo, regulado aparte",
       "Subestimar el frío en altura: en la estación superior del teleférico (3.555 m) las temperaturas son mucho más bajas que en la costa, en cualquier estación",
@@ -2347,7 +3035,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Coger el primer viaje para evitar colas y viento. Con viento fuerte el teleférico para. Mirar el tiempo del día.",
         "tempo": "media jornada, más con la subida a la cumbre",
         "url": "https://www.volcanoteide.com/",
-        "consiglio": "Comprar el billete del teleférico online con hora y pedir el permiso de cumbre con mucha antelación, incluso meses: son dos cosas distintas."
+        "consiglio": "Comprar el billete del teleférico online con hora y pedir el permiso de cumbre con mucha antelación, incluso meses: son dos cosas distintas.",
+        "costo": "teleférico ida y vuelta 43 € para no residentes y 10,75 € para residentes canarios, solo ida 24 € (tarifas 2026); permiso para el pico unos 15 € para no residentes desde 2026",
+        "orari": "Todos los días desde las 9. En los meses de horario corto (enero-marzo, mediados de abril-junio, desde finales de octubre) última subida a las 16 y última bajada a las 16:50; en julio-septiembre y en Semana Santa última subida a las 17:40 y última bajada a las 18:30 (calendario 2026). Se para con viento fuerte.",
+        "lat": 28.25455,
+        "lng": -16.62602
       },
       {
         "nome": "Roques de García y Las Cañadas",
@@ -2355,7 +3047,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Desde el aparcamiento a los pies de los Roques, en la TF-21, a pocos minutos de la estación del teleférico. El sendero está señalizado.",
         "quando": "Por la mañana o al atardecer. A mediodía el sol es fuerte y hay poca sombra.",
         "tempo": "1-2 horas",
-        "consiglio": "Llevar un cortavientos: en altura el viento es frío incluso en julio."
+        "consiglio": "Llevar un cortavientos: en altura el viento es frío incluso en julio.",
+        "costo": "gratis",
+        "lat": 28.23177,
+        "lng": -16.63995
       },
       {
         "nome": "Parque Rural de Anaga",
@@ -2364,7 +3059,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Por la mañana, cuando la niebla es menos frecuente. Con lluvia los senderos están embarrados.",
         "tempo": "media jornada o jornada completa",
         "url": "https://www.webtenerife.com/",
-        "consiglio": "Hacer el sendero de los Sentidos o de Cruz del Carmen a Taganana con un regreso organizado."
+        "consiglio": "Hacer el sendero de los Sentidos o de Cruz del Carmen a Taganana con un regreso organizado.",
+        "costo": "gratis, incluido el centro de visitantes de Cruz del Carmen; el bosque de El Pijaral solo con permiso gratuito pedido con antelación",
+        "lat": 28.53101,
+        "lng": -16.27989
       },
       {
         "nome": "La Laguna",
@@ -2372,15 +3070,43 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En tranvía desde Santa Cruz o en coche. Se visita a pie.",
         "quando": "Días laborables por la vida estudiantil. Por la noche, bares y tapas.",
         "tempo": "2-3 horas",
-        "consiglio": "Mirar los patios de las casas: muchos tienen un jardín abierto al público."
+        "consiglio": "Mirar los patios de las casas: muchos tienen un jardín abierto al público.",
+        "costo": "gratis",
+        "lat": 28.48889,
+        "lng": -16.31611
+      },
+      {
+        "nome": "La Orotava",
+        "testo": "La villa sobre Puerto de la Cruz, con un casco histórico en cuesta de casas señoriales del siglo XVII y balcones de madera oscura. La Casa de los Balcones, de 1632, tiene un patio interior con galería de madera y un pequeño museo de artesanía. Desde la iglesia de la Concepción se ve el valle hasta el mar.",
+        "come": "En coche desde Puerto de la Cruz en unos 15 minutos, con aparcamientos de pago en el borde del centro; luego todo a pie. También está en la carretera que sube al Teide.",
+        "quando": "Por la mañana. Por el Corpus Christi, en primavera, las calles y la plaza del ayuntamiento se cubren de alfombras de flores y arenas volcánicas.",
+        "tempo": "2 horas",
+        "lat": 28.38833,
+        "lng": -16.52583,
+        "consiglio": "Parar aquí bajando del Teide: la carretera del valle pasa justo por la villa."
+      },
+      {
+        "nome": "Puerto de la Cruz",
+        "testo": "El antiguo puerto de la costa norte, el primer destino turístico de la isla ya en el siglo XIX. Tiene un centro de verdad, con la Plaza del Charco, el barrio de La Ranilla y el paseo marítimo que llega al Lago Martiánez, las piscinas de agua de mar diseñadas por César Manrique.",
+        "come": "En guagua de TITSA desde el aeropuerto Norte o desde La Laguna, o en coche. El centro se recorre a pie.",
+        "quando": "Al final de la tarde y por la noche, en el paseo y la plaza. Aquí el mar suele estar movido: para bañarse, mejor las piscinas.",
+        "tempo": "media jornada",
+        "costo": "el centro es gratis; el Lago Martiánez se paga aparte",
+        "lat": 28.41653,
+        "lng": -16.55055
       },
       {
         "nome": "Masca",
         "testo": "Un caserío en un barranco profundo de las montañas de Teno, con casas de piedra y vistas al océano. El barranco de Masca baja a pie hasta el mar.",
-        "come": "Por la TF-436 desde Santiago del Teide, con curvas cerradas. El acceso al sendero del barranco se reserva en la web oficial caminobarrancodemasca.com, donde también se reserva aparte el barco obligatorio para volver desde la playa; comprobar allí si el sendero está abierto.",
+        "come": "Al caserío se llega por la TF-436 desde Santiago del Teide, una carretera estrecha y llena de curvas. Para el sendero del barranco se reserva en la web oficial caminobarrancodemasca.com y, desde diciembre de 2025, al punto de salida solo se llega con la guagua 355 de TITSA desde Santiago del Teide; el barco de vuelta desde la playa se compra aparte, dentro de las cuatro horas siguientes al turno de bajada.",
         "quando": "Por la mañana, para evitar los autocares. El sendero se cierra con lluvia o alertas.",
         "tempo": "1 hora en el pueblo, media jornada para el sendero",
-        "consiglio": "No hacer el sendero con calzado de paseo e informarse antes de cómo volver desde el mar: desde la playa no hay carretera."
+        "consiglio": "No hacer el sendero con calzado de paseo e informarse antes de cómo volver desde el mar: desde la playa no hay carretera.",
+        "costo": "acceso al sendero desde 40,66 € (solo bajada, en la fase de prueba actual); gratis para residentes en Tenerife; el barco de vuelta va aparte",
+        "orari": "Sendero abierto de 8:30 a 18, con turnos de bajada cada 30 minutos de 8:30 a 13; reservas de miércoles a sábado. Con mar de fondo el barco puede suspenderse y se vuelve a pie.",
+        "lat": 28.30528,
+        "lng": -16.84028,
+        "url": "https://www.caminobarrancodemasca.com/"
       },
       {
         "nome": "Garachico",
@@ -2388,7 +3114,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En coche desde Puerto de la Cruz o Santiago del Teide. Se recorre a pie.",
         "quando": "Por la mañana o después de comer, con el mar en calma para las piscinas.",
         "tempo": "2-3 horas",
-        "consiglio": "Comida de pescado fresco cerca del muelle."
+        "consiglio": "Comida de pescado fresco cerca del muelle.",
+        "costo": "gratis, incluidas las piscinas naturales de El Caletón",
+        "lat": 28.37369,
+        "lng": -16.76405
       },
       {
         "nome": "Los Gigantes",
@@ -2396,32 +3125,91 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En coche desde Costa Adeje. Las excursiones en barco salen de Puerto de Los Gigantes y de los puertos cercanos.",
         "quando": "Por la mañana, con el mar más calmado. Los barcos salen todo el año.",
         "tempo": "2-3 horas con excursión en barco",
-        "consiglio": "Elegir operadores con la licencia Barco Azul: siguen normas de distancia con los animales."
+        "consiglio": "Elegir operadores con la licencia Barco Azul: siguen normas de distancia con los animales.",
+        "lat": 28.29652,
+        "lng": -16.85577
+      },
+      {
+        "nome": "Jardín Botánico de Puerto de la Cruz",
+        "testo": "El Jardín de Aclimatación de La Orotava se fundó en 1788 por orden de Carlos III, para acostumbrar al clima europeo las plantas tropicales de las colonias antes de llevarlas a España. Hoy es un jardín compacto con palmeras, ficus gigantes de raíces aéreas y plantas de todos los continentes.",
+        "come": "A pie cuesta arriba desde el centro de Puerto de la Cruz, o en guagua urbana hasta la zona del Botánico.",
+        "quando": "Por la mañana o en un día nublado, frecuentes en la costa norte.",
+        "tempo": "1-1,5 horas",
+        "costo": "unos 3 €",
+        "lat": 28.41139,
+        "lng": -16.53583
+      },
+      {
+        "nome": "Santa Cruz: Auditorio y Palmetum",
+        "testo": "La capital de la isla se visita por dos cosas junto al mar. El Auditorio de Santiago Calatrava, de 2003, con su vela blanca de hormigón sobre el puerto. Al lado está el Palmetum, un jardín de palmeras construido sobre un antiguo vertedero, con plantas de todas las zonas tropicales.",
+        "come": "El tranvía une La Laguna con Santa Cruz en unos 40 minutos; desde el centro se va a pie por el litoral hasta el Auditorio y el Palmetum.",
+        "quando": "Por la mañana el Palmetum, que tiene poca sombra; el Auditorio al atardecer.",
+        "tempo": "media jornada",
+        "costo": "Palmetum 6 € para adultos no residentes; el exterior del Auditorio es libre",
+        "orari": "Palmetum todos los días de 10 a 18, último acceso a las 17.",
+        "lat": 28.45194,
+        "lng": -16.25583,
+        "url": "https://www.palmetumtenerife.es/"
+      },
+      {
+        "nome": "Playa de Las Teresitas",
+        "testo": "La playa de San Andrés, justo al norte de Santa Cruz, con arena clara traída del Sáhara en los años setenta y un dique rompeolas que mantiene el agua en calma. Detrás se levantan las montañas de Anaga.",
+        "come": "En coche o en guagua desde Santa Cruz, unos diez kilómetros por la costa.",
+        "quando": "Entre semana. El fin de semana llegan las familias de la capital y el aparcamiento se llena.",
+        "tempo": "media jornada",
+        "costo": "gratis",
+        "lat": 28.50861,
+        "lng": -16.18583,
+        "consiglio": "Combina bien con una mañana en Anaga: desde la TF-12 se baja a San Andrés."
+      },
+      {
+        "nome": "Drago Milenario de Icod de los Vinos",
+        "testo": "El drago (Dracaena draco) más grande y antiguo de Canarias, de más de veinte metros de altura y con una edad estimada de varios siglos. Es un símbolo de la isla, rodeado de un pequeño jardín de plantas endémicas.",
+        "come": "En coche por la carretera de la costa norte, entre Puerto de la Cruz y Garachico. El árbol también se ve desde la plaza de la iglesia de San Marcos; el parque que lo rodea es de pago.",
+        "quando": "De paso hacia Garachico o Masca.",
+        "tempo": "45 minutos",
+        "costo": "parque del Drago 5 € para adultos (2026)",
+        "lat": 28.3666,
+        "lng": -16.72222,
+        "consiglio": "Con poco tiempo, se mira desde la plaza de San Marcos sin entrar."
+      },
+      {
+        "nome": "Candelaria",
+        "testo": "El pueblo de la basílica de la Virgen de Candelaria, patrona de Canarias. En la plaza frente al mar están las estatuas de bronce de los nueve menceyes, los reyes guanches de la isla antes de la conquista.",
+        "come": "En coche por la autopista TF-1, entre Santa Cruz y el Sur.",
+        "quando": "Fuera de los días de la peregrinación de mediados de agosto, cuando la plaza está llena.",
+        "tempo": "1 hora",
+        "costo": "entrada libre a la basílica",
+        "lat": 28.35139,
+        "lng": -16.36972
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "A primera hora: teleférico del Teide",
-          "Roques de García a media mañana",
-          "Comida en altura o en Vilaflor",
-          "Tarde: atardecer desde Las Cañadas"
+          "Mañana: primer teleférico del Teide a las 9, con el permiso para el pico si se ha conseguido",
+          "Media mañana: el circuito de los Roques de García, con el Teide delante",
+          "Comida: bajando por el valle, en La Orotava, y paseo por el centro con la Casa de los Balcones",
+          "Noche: paseo marítimo y Plaza del Charco en Puerto de la Cruz"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: Teide y Roques de García",
-          "Día 2: Anaga por la mañana, La Laguna por la tarde, cena en Puerto de la Cruz"
+          "Día 1: como el programa de un día",
+          "Día 2, mañana: Anaga desde Cruz del Carmen, con el Sendero de los Sentidos o un tramo hacia Taganana",
+          "Día 2, tarde: La Laguna a pie, luego la Playa de Las Teresitas o el Palmetum en Santa Cruz",
+          "Día 2, noche: cena entre los bares de estudiantes de La Laguna"
         ]
       },
       {
         "titolo": "3 días",
         "tappe": [
-          "Día 1: Teide",
-          "Día 2: Anaga y La Laguna",
-          "Día 3: Masca, Garachico y Los Gigantes con excursión en barco"
+          "Días 1 y 2: como arriba",
+          "Día 3, mañana: Masca, el caserío o la bajada del barranco con turno reservado (miércoles-sábado) y barco de vuelta",
+          "Día 3, tarde: excursión en barco bajo los acantilados de Los Gigantes, o Garachico con las piscinas de El Caletón",
+          "Día 3, regreso: parada en el Drago Milenario de Icod de los Vinos camino de Puerto de la Cruz"
         ]
       }
     ],
@@ -2429,17 +3217,46 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Puerto de la Cruz",
         "perChi": "quien quiere verde, paseos y menos complejos turísticos",
-        "testo": "Norte: más fresco y húmedo, jardines, vida de ciudad. El mar es menos apto para nadar. Cerca de Anaga y del Teide."
+        "testo": "Norte: más fresco y húmedo, jardines, vida de ciudad. El mar es menos apto para nadar. Cerca de Anaga y del Teide.",
+        "fascia": "70-140 €"
       },
       {
         "nome": "Costa Adeje y Los Cristianos",
         "perChi": "quien quiere sol y playas",
-        "testo": "Sur: más seco y cálido, muchos hoteles, restaurantes y ocio nocturno. Menos carácter. Cerca del aeropuerto Sur."
+        "testo": "Sur: más seco y cálido, muchos hoteles, restaurantes y ocio nocturno. Menos carácter. Cerca del aeropuerto Sur.",
+        "fascia": "120-250 €"
       },
       {
         "nome": "La Laguna",
         "perChi": "estudiantes y quien va a Anaga",
-        "testo": "Ciudad histórica y animada, más fresca y húmeda. Tranvía a Santa Cruz."
+        "testo": "Ciudad histórica y animada, más fresca y húmeda. Tranvía a Santa Cruz.",
+        "fascia": "60-120 €"
+      },
+      {
+        "nome": "Santa Cruz de Tenerife",
+        "perChi": "quien se mueve en transporte público",
+        "testo": "La capital, con tranvía a La Laguna, la estación de guaguas para toda la isla, y el Palmetum y Las Teresitas cerca. Poco turística, con precios de ciudad y no de resort.",
+        "fascia": "70-130 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "La Gomera",
+        "distanza": "alrededor de 1 hora en ferri",
+        "come": "Ferris de Los Cristianos a San Sebastián de La Gomera; en la isla hace falta coche de alquiler o una excursión organizada.",
+        "testo": "La isla vecina, con el Parque Nacional de Garajonay, un bosque de laurisilva Patrimonio de la UNESCO, y valles de bancales. Se ve en un día largo saliendo en el primer barco."
+      },
+      {
+        "nome": "Gran Canaria",
+        "distanza": "30-40 minutos en avión",
+        "come": "Vuelos interinsulares de Binter o Canaryfly desde Tenerife Norte; al llegar se alquila otro coche.",
+        "testo": "Las Palmas con Vegueta y la playa de Las Canteras, las dunas de Maspalomas y el Roque Nublo. Mejor como etapa de unos días que como excursión de un día."
+      },
+      {
+        "nome": "Masca y Punta de Teno",
+        "distanza": "alrededor de 1 hora desde Puerto de la Cruz",
+        "come": "En coche por Garachico y Buenavista del Norte, o en guagua de TITSA hasta Santiago del Teide para el sendero.",
+        "testo": "El rincón noroeste de la isla, con el macizo de Teno, caseríos en barrancos y acantilados que caen al mar."
       }
     ],
     sapori: [
@@ -2471,6 +3288,32 @@ export const destinazioniSpagna: Destinazione[] = [
       "Las carreteras de montaña (Masca, Anaga) son estrechas y con curvas: la niebla y la lluvia pueden detener el tráfico.",
       "Bañarse con bandera roja es peligroso, sobre todo en el norte con olas fuertes.",
       "Sol y UV fuertes incluso con viento frío: crema y gorra."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Tenerife?",
+        "risposta": "Tres o cuatro días bastan para el Teide, Anaga con La Laguna y la costa noroeste entre Masca y Garachico. Con menos de dos días solo se ve el Teide."
+      },
+      {
+        "domanda": "¿Es mejor alojarse en el norte o en el sur de Tenerife?",
+        "risposta": "En el norte, en Puerto de la Cruz o La Laguna, para pueblos de verdad y más cerca del Teide y de Anaga. En el sur, en Costa Adeje o Los Cristianos, para sol y playa seguros."
+      },
+      {
+        "domanda": "¿Hay que reservar el teleférico y el permiso para el pico del Teide?",
+        "risposta": "Son dos reservas distintas. El teleférico cuesta 43 € ida y vuelta para no residentes y conviene comprarlo online con hora; el permiso para el pico tiene un cupo de unas 200 personas al día y se pide hasta 56 días antes."
+      },
+      {
+        "domanda": "¿Hace falta coche en Tenerife?",
+        "risposta": "Para el Teide, Anaga y la costa oeste, sí: las guaguas llegan a todas partes pero tardan mucho en la montaña. Entre Santa Cruz y La Laguna basta el tranvía."
+      },
+      {
+        "domanda": "¿Se puede hacer el sendero de Masca?",
+        "risposta": "Sí, con reserva obligatoria en la web oficial, desde 40,66 €, solo de bajada en la fase de prueba y con el barco de vuelta comprado aparte. Al punto de salida se llega en la guagua 355 de TITSA desde Santiago del Teide."
+      },
+      {
+        "domanda": "¿Cuándo ir a Tenerife?",
+        "risposta": "Todo el año: en la costa se está entre 16 y 21 grados incluso en enero. En el Teide hace frío en cualquier estación y en invierno la nieve puede cerrar las carreteras."
+      }
     ],
     esperienzeSlugs: ['teide-vetta-permesso'],
     tripSlugs: ['canarie-itinerario'],

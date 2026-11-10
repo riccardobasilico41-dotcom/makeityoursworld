@@ -32,106 +32,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "Roma Norte or Condesa, tree-lined, quiet neighborhoods not far from the center. The Centro Histórico is convenient by day but empty in the evening.",
     doveMangiare:
       "Taquerías, markets (Coyoacán, San Juan), tamales and atole for breakfast, churros with chocolate. The chef-driven restaurants of Roma and Polanco need to be booked weeks ahead.",
-    comeArrivare: "Benito Juárez International Airport (AICM), with direct flights or via a European capital; into the city by prepaid taxi or app.",
     comeSpostarsi: "Metro, Metrobús and ride apps; for Teotihuacán, the bus from the Terminal del Norte. No street-hailed taxis.",
     periodoMigliore: 'October to April, the dry season; late October for Día de los Muertos.',
-    costi: "Teotihuacán and the Anthropology Museum about 210 MXN each for foreigners (2026); trajineras are paid by the hour per boat, at a price agreed before getting on.",
     erroriDaEvitare: [
       'Taking street-hailed taxis instead of prepaid, de sitio or app taxis',
       'Scheduling the Anthropology Museum or the Templo Mayor on a Monday, when they are closed',
       'Underestimating the altitude in the first two days',
       "Not booking the Casa Azul, which sells out days ahead",
     ],
-      "luoghi": [
-        {
-          "nome": "Zócalo, Cathedral and Templo Mayor",
-          "testo": "The central square with the Metropolitan Cathedral, the Palacio Nacional and, beside it, the Templo Mayor, the Aztec heart of Tenochtitlan, with its museum.",
-          "come": "Metro Zócalo. The Templo Mayor has a separate INAH entry.",
-          "quando": "Morning; the Templo Mayor museum and archaeological zone open Tuesday to Sunday, 9am-5pm, and close on Mondays.",
-          "tempo": "3 hours",
-          "costo": "Templo Mayor: 210 MXN for foreigners (2026); on Sundays it is free only for Mexican citizens.",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "National Museum of Anthropology",
-          "testo": "Mexico's largest and most visited museum, in Chapultepec forest, with the Sun Stone and the rooms of Mesoamerican cultures.",
-          "come": "Metro Auditorio or Chapultepec.",
-          "quando": "Morning; usually closed on Monday.",
-          "tempo": "3-4 hours",
-          "costo": "210 MXN for foreigners (2026).",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Choose a few rooms: it is too big to see it all."
-        },
-        {
-          "nome": "Teotihuacán",
-          "testo": "The city of the Temples of the Sun and Moon and the Calzada de los Muertos, about 40 km north-east of the capital, a UNESCO site.",
-          "come": "Bus from Terminal Norte or tour; INAH entry.",
-          "quando": "At the 8am opening (open daily until 5pm), before the heat and the groups.",
-          "tempo": "Half a day",
-          "costo": "210 MXN for foreigners (2026). According to August 2026 reports the Pyramid of the Moon is closed until further notice: ask at the ticket office.",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Bring a hat and water: almost no shade."
-        },
-        {
-          "nome": "Coyoacán and Casa Azul",
-          "testo": "A colonial district with squares and a market, and Frida Kahlo's Casa Azul, now a museum.",
-          "come": "Metro or Uber; for Casa Azul tickets must be booked online in advance.",
-          "quando": "Morning; the museum is closed on Mondays and you must arrive at the time on your ticket.",
-          "tempo": "Half a day",
-          "costo": "Casa Azul: 320 MXN for foreigners (2026), with timed entry booked online.",
-          "url": "https://boletos.museofridakahlo.org.mx/"
-        },
-        {
-          "nome": "Xochimilco",
-          "testo": "The canals with colourful trajineras, a remnant of the Aztec lake system.",
-          "come": "Metro and light rail or Uber to the landing stages.",
-          "quando": "Weekday mornings, fewer crowds.",
-          "tempo": "2-3 hours",
-          "consiglio": "Agree the length and price of the boat before boarding."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Zócalo, Cathedral and Templo Mayor",
-            "Palacio de Bellas Artes",
-            "Lunch of tacos",
-            "Museo Nacional de Antropología in the afternoon"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: historic centre and Anthropology museum",
-            "Day 2: Teotihuacán at opening, Coyoacán in the afternoon"
-          ]
-        },
-        {
-          "titolo": "3 days",
-          "tappe": [
-            "Days 1-2 as above",
-            "Day 3: Xochimilco and Casa Azul, or Bellas Artes with the murals"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Historic centre",
-          "perChi": "on foot to everything",
-          "testo": "Zócalo and museums nearby, but noisy and unsafe at night away from the main streets."
-        },
-        {
-          "nome": "Roma and Condesa",
-          "perChi": "restaurants and venues",
-          "testo": "Neighbourhoods of cafés and nightlife, safer on foot, near Chapultepec."
-        },
-        {
-          "nome": "Coyoacán",
-          "perChi": "calm and history",
-          "testo": "A residential and colonial district, farther from the centre."
-        }
-      ],
       "sapori": [
         {
           "nome": "Tacos al pastor",
@@ -159,6 +67,266 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Street taxis: use Uber or sitio taxis.",
         "Altitude: drink water and go slowly on the first day."
       ],
+    comeArrivare: "Benito Juárez International Airport (AICM), with direct flights or via a European capital; into the city by prepaid taxi or app. Authorised taxis are paid at the desks inside arrivals: about 300-450 MXN, 15-23 €, to Roma Norte or Condesa, 30-60 minutes depending on traffic. Metrobús line 4 runs from terminals 1 and 2 to the historic centre for about 30 MXN, with the rechargeable card or a contactless bank card; the metro (Terminal Aérea station) costs 5 MXN but with luggage at rush hour it isn't worth it. Since March 2026 Uber and DiDi can't pick up inside the terminal. From Puebla and Oaxaca, ADO buses arrive at TAPO or the Terminal del Sur.",
+    costi: "Teotihuacán and the Anthropology Museum about 210 MXN each for foreigners (2026); the trajinera is paid per hour and per boat, at a price agreed before boarding. Low budget about 60-90 € a day per person (hostel or private room, taquerías, metro at 5 MXN); mid 125-200 € (boutique hotel in Roma or Condesa, restaurants, a few museums and Teotihuacán); high from 300 € up (design hotel or Polanco, driver, fine dining). Roughly 1 € = 20 MXN.",
+    luoghi: [
+      {
+        "nome": "Zócalo, Cathedral and Templo Mayor",
+        "testo": "The main square with the Metropolitan Cathedral, the Palacio Nacional and, next to it, the Templo Mayor, the Aztec heart of Tenochtitlan, with its museum. This is where you see how the colonial city was built on top of the Mexica one, with the same stones.",
+        "come": "Metro Zócalo. The Templo Mayor has a separate INAH ticket; the Cathedral is free.",
+        "quando": "Morning, before the heat and the demonstrations that often fill the square.",
+        "tempo": "3 hours",
+        "costo": "Templo Mayor: 210 MXN for foreigners, about 10 € (INAH page, 2026); on Sundays it is free only for Mexican citizens.",
+        "orari": "Templo Mayor: Tuesday to Sunday 9-17, closed on Mondays (INAH page).",
+        "lat": 19.435,
+        "lng": -99.13139,
+        "url": "https://lugares.inah.gob.mx/es/node/4463"
+      },
+      {
+        "nome": "Palacio Nacional and the Diego Rivera murals",
+        "testo": "The seat of the presidency, on the east side of the Zócalo. On the staircase and in the main courtyard are Diego Rivera's murals on the history of Mexico, from pre-Hispanic times to the Revolution: the clearest summary of how the country tells its own story.",
+        "come": "Through the entrance on the Zócalo, with an ID document; security can be slow and access closes without notice on days of official events.",
+        "quando": "Morning, on weekdays.",
+        "tempo": "1-1.5 hours",
+        "lat": 19.4325,
+        "lng": -99.13139
+      },
+      {
+        "nome": "Palacio de Bellas Artes",
+        "testo": "The white marble theatre and museum with yellow domes, at the start of the Alameda Central. Inside are murals by Rivera, Orozco, Siqueiros and Tamayo; in the evening it hosts the Ballet Folklórico.",
+        "come": "Metro Bellas Artes. The façade is free to see; for the murals you buy the museum ticket.",
+        "quando": "Morning for the museum; for the view from above, the top-floor bar of the building opposite, at sunset.",
+        "tempo": "1.5 hours",
+        "costo": "95 MXN, about 5 € (2026, from secondary sources: the official site was unreachable).",
+        "orari": "Tuesday to Sunday 10-18, ticket office until 17:30; closed on Mondays.",
+        "lat": 19.4353,
+        "lng": -99.1414
+      },
+      {
+        "nome": "Torre Latinoamericana",
+        "testo": "The 1956 skyscraper, a short walk from Bellas Artes, which withstood the 1957 and 1985 earthquakes. From the observation deck at the top you grasp the scale of the city, which on clear days reaches the volcanoes.",
+        "come": "Metro Bellas Artes or San Juan de Letrán; tickets at the base of the tower.",
+        "quando": "Late afternoon, to see the city before and after sunset.",
+        "tempo": "1 hour",
+        "lat": 19.43389,
+        "lng": -99.14056
+      },
+      {
+        "nome": "Museo Nacional de Antropología",
+        "testo": "The largest and most visited museum in Mexico, in Chapultepec forest, with the Sun Stone and the halls of the Mesoamerican cultures. It is the key to understanding every site you see in the rest of the trip.",
+        "come": "Metro Auditorio or Chapultepec.",
+        "quando": "Morning, at opening; start with the Mexica hall, in the centre.",
+        "tempo": "3-4 hours",
+        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
+        "orari": "Tuesday to Sunday 9-18, closed on Mondays (INAH page).",
+        "lat": 19.42611,
+        "lng": -99.18611,
+        "url": "https://lugares.inah.gob.mx/es/node/4237",
+        "consiglio": "Pick a few halls: it is too big to see everything."
+      },
+      {
+        "nome": "Chapultepec Castle",
+        "testo": "The castle on Chapultepec hill, residence of Emperor Maximilian and today the Museo Nacional de Historia. From the terraces you see the Paseo de la Reforma cutting through the city.",
+        "come": "Metro Chapultepec, then a walk uphill of about 15 minutes inside the park.",
+        "quando": "Morning, combined with the Anthropology Museum in the same park.",
+        "tempo": "2 hours",
+        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
+        "orari": "Tuesday to Sunday 9-17, closed on Mondays (INAH page).",
+        "lat": 19.42056,
+        "lng": -99.18167,
+        "url": "https://lugares.inah.gob.mx/es/node/4682"
+      },
+      {
+        "nome": "Teotihuacán",
+        "testo": "The city of the Temples of the Sun and the Moon and the Avenue of the Dead, about 40 km north-east of the capital, a UNESCO site. Its scale, conceived long before the Aztecs, only makes sense when you walk it.",
+        "come": "Autobuses Teotihuacán bus from the Terminal del Norte, about an hour, or a tour; INAH ticket.",
+        "quando": "At the 8 am opening, before the heat and the groups; Sundays are crowded.",
+        "tempo": "Half a day",
+        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026). According to news from August 2026 the Pyramid of the Moon is closed until further notice: ask at the ticket office.",
+        "orari": "Daily 8-17, last entry at 16:30 (INAH page).",
+        "lat": 19.693,
+        "lng": -98.844,
+        "url": "https://lugares.inah.gob.mx/es/node/4528",
+        "consiglio": "Bring a hat and water: there is almost no shade."
+      },
+      {
+        "nome": "Basilica of Guadalupe",
+        "testo": "The most visited Catholic shrine in the Americas. Next to the modern basilica, round and from the 1970s, stands the old one, which leans like the Cathedral in the centre; the image of the Virgin is seen from a moving walkway that passes under the altar.",
+        "come": "Metro La Villa-Basílica, or a stop on the way back from Teotihuacán.",
+        "quando": "Weekday mornings; around 12 December millions of pilgrims arrive.",
+        "tempo": "1.5 hours",
+        "lat": 19.48444,
+        "lng": -99.11722
+      },
+      {
+        "nome": "Coyoacán and the Casa Azul",
+        "testo": "A colonial neighbourhood with squares and a market, and Frida Kahlo's Casa Azul, now a museum. After the visit you have lunch at the market and stroll between the Jardín Centenario and the Plaza de la Conchita.",
+        "come": "Metro or Uber; for the Casa Azul, tickets must be booked online in advance.",
+        "quando": "Morning; you must turn up at the time printed on the ticket.",
+        "tempo": "Half a day",
+        "costo": "Casa Azul: 320 MXN for foreigners, about 16 € (2026), with timed entry booked online.",
+        "orari": "Casa Azul closed on Mondays.",
+        "lat": 19.35514,
+        "lng": -99.16253,
+        "url": "https://boletos.museofridakahlo.org.mx/"
+      },
+      {
+        "nome": "Museo Anahuacalli",
+        "testo": "The lava-stone temple-museum designed by Diego Rivera for his collection of pre-Hispanic art, in the south of the city. It is less known than the Casa Azul and pairs well with Coyoacán.",
+        "come": "Uber or taxi from Coyoacán, about twenty minutes.",
+        "quando": "Early afternoon, after Coyoacán.",
+        "tempo": "1.5 hours",
+        "orari": "Tuesday to Sunday 11-17:30, closed on Mondays (official site).",
+        "lat": 19.3227,
+        "lng": -99.14451,
+        "url": "https://www.museoanahuacalli.org.mx/"
+      },
+      {
+        "nome": "Xochimilco",
+        "testo": "The canals with colourful trajineras, what remains of the Aztec lake system. At weekends it is one big party with mariachis and beer; on weekdays it is much quieter.",
+        "come": "Metro to Tasqueña and then the light rail, or Uber to the embarcaderos.",
+        "quando": "Weekday mornings, fewer crowds.",
+        "tempo": "2-3 hours",
+        "costo": "Roughly 600-700 MXN per hour for the whole boat, about 30-35 € (from the trip, 2026).",
+        "lat": 19.25206,
+        "lng": -99.09335,
+        "consiglio": "Agree on duration and price of the boat before boarding; mariachis and vendors are paid separately."
+      },
+      {
+        "nome": "Museo Soumaya",
+        "testo": "The silver building on Plaza Carso, in Polanco, with Carlos Slim's collection: Rodin sculptures, European masters and Mexican art. The architecture and the inner ramp alone make it worth a visit.",
+        "come": "Uber or taxi to Polanco (Nuevo Polanco).",
+        "quando": "Afternoon, also on Mondays, when many museums are closed.",
+        "tempo": "1.5 hours",
+        "costo": "Free admission (official site).",
+        "orari": "Daily 10:30-18:30 (official site).",
+        "lat": 19.44066,
+        "lng": -99.20462,
+        "url": "https://www.museosoumaya.org/"
+      },
+      {
+        "nome": "Roma, Condesa and Parque México",
+        "testo": "The tree-lined neighbourhoods of the 1920s, with art deco houses, cafés, markets and the city's nightlife. Parque México and Avenida Ámsterdam, an oval with a pedestrian strip in the middle, are the place to wander without a plan.",
+        "come": "On foot or by Metrobús along Avenida Insurgentes.",
+        "quando": "Morning for cafés and the park, evening for dinner and bars.",
+        "tempo": "Half a day",
+        "costo": "Free",
+        "lat": 19.41222,
+        "lng": -99.16917
+      },
+      {
+        "nome": "Lucha libre at Arena México",
+        "testo": "CMLL lucha libre, with masks, acrobatics and a crowd that puts on more of a show than the ring. A popular and very Mexican night out.",
+        "come": "In the Doctores neighbourhood: there and back by taxi or app, not on foot.",
+        "quando": "Tuesday, Friday and Sunday (CMLL 2026 calendars).",
+        "tempo": "2-3 hours",
+        "lat": 19.42472,
+        "lng": -99.15194,
+        "consiglio": "Buy tickets at the arena box office or through official channels, not from street resellers."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Zócalo, Cathedral and Templo Mayor",
+          "Murals of the Palacio Nacional",
+          "Tacos for lunch in the centre",
+          "Afternoon: Palacio de Bellas Artes and Torre Latinoamericana at sunset"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: historic centre as above",
+          "Day 2: Museo Nacional de Antropología at opening, Chapultepec Castle, evening in Roma and Condesa"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Teotihuacán at opening, stopping at the Basilica of Guadalupe on the way back"
+        ]
+      },
+      {
+        "titolo": "4-5 days",
+        "tappe": [
+          "Day 4: Coyoacán and the Casa Azul, Anahuacalli, afternoon in Xochimilco",
+          "Day 5: Museo Soumaya in Polanco and, in the evening, lucha libre at Arena México (Tuesday, Friday or Sunday)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Historic centre",
+        "perChi": "everything on foot",
+        "testo": "Zócalo and museums nearby, but noisy and not pleasant at night away from the main streets."
+      },
+      {
+        "nome": "Roma and Condesa",
+        "perChi": "restaurants and bars",
+        "testo": "Neighbourhoods of cafés and nightlife, safer on foot, close to Chapultepec. From hostels and private rooms to boutique hotels.",
+        "fascia": "30-175 €"
+      },
+      {
+        "nome": "Polanco",
+        "perChi": "high end and fine dining",
+        "testo": "An upmarket neighbourhood north of Chapultepec, with design hotels, the Museo Soumaya and the city's best-known restaurants.",
+        "fascia": "from 250 €"
+      },
+      {
+        "nome": "Coyoacán",
+        "perChi": "calm and history",
+        "testo": "A residential, colonial neighbourhood, further from the centre."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Teotihuacán",
+        "distanza": "about 40 km, 1 hour by bus",
+        "come": "Autobuses Teotihuacán bus from the Terminal del Norte, frequent departures, or a tour with a sunrise balloon flight (roughly 2,500-4,000 MXN).",
+        "testo": "The Pyramids of the Sun and the Moon and the Avenue of the Dead: go in at the 8 am opening and you are back by early afternoon."
+      },
+      {
+        "nome": "Puebla and Cholula",
+        "distanza": "about 2 hours by bus",
+        "come": "ADO bus from TAPO or the Terminal del Oriente, 200-300 MXN (from the trip).",
+        "testo": "Puebla's baroque centre, with the Capilla del Rosario and the Biblioteca Palafoxiana, and the church of Cholula on top of the pyramid, with Popocatépetl behind it. Better with a night there."
+      },
+      {
+        "nome": "Tepoztlán",
+        "distanza": "about 80 km south, 1.5 hours by bus",
+        "come": "Bus from the Terminal del Sur (Tasqueña).",
+        "testo": "A mountain town with a weekend market and the small Tepozteco temple at the top of a steep climb of about an hour."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Mexico City?",
+        "risposta": "Three full days for the historic centre, Chapultepec and Teotihuacán; with four or five you add Coyoacán, Xochimilco and a night of lucha libre."
+      },
+      {
+        "domanda": "Which area is best to stay in?",
+        "risposta": "Roma Norte or Condesa: tree-lined, full of restaurants and quieter in the evening. The historic centre is handy by day but empties after dinner; Polanco is for the high end."
+      },
+      {
+        "domanda": "Which museums are closed on Mondays?",
+        "risposta": "Almost all of them: Anthropology, Chapultepec Castle, Templo Mayor, Bellas Artes, Casa Azul and Anahuacalli. Monday is the right day for Teotihuacán, open daily, or the Museo Soumaya."
+      },
+      {
+        "domanda": "Do you need to book Frida Kahlo's Casa Azul?",
+        "risposta": "Yes, tickets are sold only online with an entry time, often days ahead; for foreigners they cost 320 MXN (2026)."
+      },
+      {
+        "domanda": "How do you get to Teotihuacán?",
+        "risposta": "With the Autobuses Teotihuacán bus from the Terminal del Norte, about an hour, or on a tour. Go in at the 8 am opening and bring water and a hat."
+      },
+      {
+        "domanda": "Is Mexico City safe for tourists?",
+        "risposta": "In the tourist neighbourhoods yes, with the care any big city needs: pickpockets on the metro and in crowds, no taxis hailed on the street, apps or taxis de sitio at night. Areas like Doctores, where Arena México is, are reached by car."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos', 'messico-cdmx-baja-california'],
     imageAlt: 'The Palacio de Bellas Artes in the historic center of Mexico City',
@@ -314,87 +482,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     doveDormire:
       "The center between Santo Domingo and Jalatlaco. On festival nights prices rise steeply: book many months ahead.",
     doveMangiare: 'The markets for tlayudas, mole and chocolate; the mezcalerías in the center for artisanal mezcal.',
-    comeArrivare: 'ADO bus from Puebla or from Mexico City; flights from Mexico City.',
     comeSpostarsi: 'On foot in the center; colectivos and taxis for the towns; organized tours for the festival nights, when taxis are scarce.',
     periodoMigliore: 'October to April; late October-early November for Día de los Muertos; July for the Guelaguetza.',
-    costi: 'Entry to the panteones is free; evening cemetery tours at varying prices.',
     erroriDaEvitare: [
       'Booking festival lodging just a few weeks before departure',
       'Paying for tours that promise "access" to the cemeteries, which is free',
       'Photographing people and altars without asking',
       'Not checking on bloqueos before long trips',
     ],
-      "luoghi": [
-        {
-          "nome": "Templo de Santo Domingo and ethnobotanical garden",
-          "testo": "A Baroque church with gilded interiors, a former convent with a museum and the ethnobotanical garden, which can only be visited with a guide.",
-          "come": "On foot from the centre.",
-          "quando": "Morning.",
-          "tempo": "2-3 hours",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "The ethnobotanical garden is open only on guided tours, and hours and booking have changed several times recently: ask in town before going."
-        },
-        {
-          "nome": "Monte Albán",
-          "testo": "The ancient Zapotec capital on a hill above the city, a UNESCO site, with the great plaza and the tombs.",
-          "come": "Shuttles or taxi from Oaxaca; INAH entry.",
-          "quando": "At opening.",
-          "tempo": "2-3 hours",
-          "costo": "210 MXN for foreigners (2026).",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "20 de Noviembre and Benito Juárez markets",
-          "testo": "Markets with stalls of grilled meat, chapulines, chocolate, mole and cheese.",
-          "come": "On foot from the centre.",
-          "quando": "Morning and lunch.",
-          "tempo": "1-2 hours"
-        },
-        {
-          "nome": "Santa Cruz Xoxocotlán cemetery and Panteón General",
-          "testo": "The Día de Muertos vigils (31 October-2 November), with decorated tombs and candles.",
-          "come": "Taxi or tour; Panteón General at San Miguel.",
-          "quando": "Night of 31 October and 1-2 November.",
-          "tempo": "An evening",
-          "consiglio": "Respect the families: it is not a show."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Santo Domingo",
-            "Markets and lunch of tlayuda",
-            "Monte Albán in the afternoon"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: centre and Santo Domingo",
-            "Day 2: Monte Albán, markets, mezcalería"
-          ]
-        },
-        {
-          "titolo": "3 days",
-          "tappe": [
-            "Days 1-2 as above",
-            "Day 3: Central Valleys (Teotitlán, Mitla, Hierve el Agua)"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Historic centre",
-          "perChi": "on foot to everything",
-          "testo": "Hotels in colonial houses, culture and restaurants, noisier."
-        },
-        {
-          "nome": "Jalatlaco district",
-          "perChi": "cafés and atmosphere",
-          "testo": "A neighbourhood of colourful houses, quieter, walking distance from the centre."
-        }
-      ],
       "sapori": [
         {
           "nome": "Mole negro",
@@ -422,6 +517,255 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Craft mezcal: buy from reliable producers and shops.",
         "Taxis without meter: agree the price."
       ],
+    comeArrivare: "ADO bus from Puebla or Mexico City; flights from Mexico City. From Puebla (CAPU) the ADO bus takes about four and a half hours through the sierra, 450-800 MXN depending on the class (about 22-40 €); from Mexico City the direct journey takes 6-7 hours. During the Día de los Muertos seats sell out: book a few days ahead. The ADO terminal is north of the centre, about ten minutes by taxi from Santo Domingo. Towards the coast, the new motorway gets you to Puerto Escondido in about 3-3.5 hours by bus or van (300-500 MXN). Before leaving, ask at the hotel about bloqueos, the road blockades by unions and communities.",
+    costi: "Entry to the panteones is free; evening cemetery tours at varying prices, roughly 600-1,200 MXN per person with transport (from the trip, 2026). Monte Albán and Mitla 210 MXN each for foreigners (INAH pages, 2026), Museo de las Culturas 210 MXN, Hierve el Agua 50-100 MXN in cash. Low budget about 60-90 € a day per person (hostel, markets, colectivos); mid 125-200 € (casa de huéspedes or small hotel in the centre, restaurants, a Valles Centrales tour); high from 300 € (hotel in a colonial house, driver, fine dining). On the nights of the festival accommodation costs two or three times as much.",
+    luoghi: [
+      {
+        "nome": "Templo de Santo Domingo and the ethnobotanical garden",
+        "testo": "A baroque church with gilded interiors, a former convent with a museum, and the ethnobotanical garden, which can only be visited with a guide. It is the finest monument in the city and the landmark to find your way around.",
+        "come": "On foot from the centre; the church is free.",
+        "quando": "Morning.",
+        "tempo": "2-3 hours",
+        "lat": 17.06556,
+        "lng": -96.72306,
+        "url": "https://lugares.inah.gob.mx/es/node/4252",
+        "consiglio": "The ethnobotanical garden can only be entered on guided visits, and times and bookings have changed several times recently: ask in town before you go."
+      },
+      {
+        "nome": "Museo de las Culturas de Oaxaca",
+        "testo": "The museum inside the former convent of Santo Domingo, with halls on the Zapotec and Mixtec cultures and the treasure of Tomb 7 at Monte Albán, gold jewellery and jade. From the cloister windows you look down on the ethnobotanical garden.",
+        "come": "Entrance beside the church of Santo Domingo.",
+        "quando": "Morning, before Monte Albán or right after.",
+        "tempo": "2 hours",
+        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
+        "orari": "Tuesday to Saturday 10-16, closed Sunday and Monday according to the INAH page: check before going.",
+        "lat": 17.06592,
+        "lng": -96.72315,
+        "url": "https://lugares.inah.gob.mx/es/node/4252"
+      },
+      {
+        "nome": "Monte Albán",
+        "testo": "The ancient Zapotec capital on a levelled hilltop above the city, a UNESCO site, with the great plaza, the ball court and the tombs. From the top you see all three Valles Centrales.",
+        "come": "Shuttles from the centre or taxi, about 20 minutes; INAH ticket including the site museum.",
+        "quando": "At opening: in the middle of the day it is hot and there is no shade.",
+        "tempo": "2-3 hours",
+        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
+        "orari": "Daily 8-17, last entry at 16 (INAH page).",
+        "lat": 17.04389,
+        "lng": -96.76778,
+        "url": "https://lugares.inah.gob.mx/es/node/4351"
+      },
+      {
+        "nome": "Mercado 20 de Noviembre and Benito Juárez",
+        "testo": "Markets with grilled-meat stalls, chapulines, chocolate, mole and cheese. In the pasillo de humo of the 20 de Noviembre you pick raw meat and have it grilled on the spot.",
+        "come": "On foot, a few blocks from the Zócalo.",
+        "quando": "Morning and lunch; open every day.",
+        "tempo": "1-2 hours",
+        "costo": "Free",
+        "lat": 17.05799,
+        "lng": -96.727,
+        "consiglio": "Bring cash in small notes."
+      },
+      {
+        "nome": "Zócalo and Cathedral",
+        "testo": "The tree-lined square with the bandstand and arcades, and the green-stone Cathedral beside it, on the Alameda. In the evening it fills with balloon sellers, bands and families.",
+        "come": "On foot from the centre.",
+        "quando": "Evening, when the square is liveliest.",
+        "tempo": "1 hour",
+        "costo": "Free",
+        "lat": 17.06152,
+        "lng": -96.72509
+      },
+      {
+        "nome": "Andador Macedonio Alcalá",
+        "testo": "The pedestrian street running up from the Cathedral to Santo Domingo, lined with colonial houses, galleries, craft shops and mezcalerías. It is the natural route across the centre.",
+        "come": "On foot.",
+        "quando": "Late afternoon and evening.",
+        "tempo": "1 hour",
+        "costo": "Free",
+        "lat": 17.06312,
+        "lng": -96.72432
+      },
+      {
+        "nome": "Basílica de la Soledad",
+        "testo": "The baroque shrine of the Virgen de la Soledad, the city's patron, with a façade of carved panels. On the square in front, stalls sell nieves, ices in local flavours.",
+        "come": "On foot, west of the Zócalo.",
+        "quando": "Morning or late afternoon.",
+        "tempo": "45 minutes",
+        "costo": "Free",
+        "lat": 17.06361,
+        "lng": -96.73028
+      },
+      {
+        "nome": "Museo Textil de Oaxaca",
+        "testo": "A small museum devoted to the textiles of Oaxaca's communities and of the world, with changing exhibitions and a cooperative shop. It helps you recognise the fabrics you see in the markets and in Teotitlán.",
+        "come": "On foot from the centre, on calle Hidalgo.",
+        "quando": "Any time, evenings included.",
+        "tempo": "1 hour",
+        "costo": "Free (official site).",
+        "orari": "Monday-Friday 10-20, Saturday 11-20, Sunday 11-18 (official site).",
+        "lat": 17.06077,
+        "lng": -96.72292,
+        "url": "https://museotextildeoaxaca.org/"
+      },
+      {
+        "nome": "Museo Rufino Tamayo",
+        "testo": "The museum of pre-Hispanic art collected by the Oaxacan painter Rufino Tamayo, in a colonial house with rooms painted in strong colours. A collection chosen with an artist's eye rather than an archaeologist's.",
+        "come": "On foot, on avenida Morelos.",
+        "quando": "Morning or early afternoon.",
+        "tempo": "1 hour",
+        "lat": 17.06346,
+        "lng": -96.72689
+      },
+      {
+        "nome": "Instituto de Artes Gráficas de Oaxaca (IAGO)",
+        "testo": "The printmaking centre founded by Francisco Toledo, with exhibitions, an art library and a patio where people sit in silence. It shows the city's contemporary art scene.",
+        "come": "On the Andador Macedonio Alcalá, opposite Santo Domingo.",
+        "quando": "Afternoon.",
+        "tempo": "45 minutes",
+        "lat": 17.06657,
+        "lng": -96.72407
+      },
+      {
+        "nome": "Barrio de Jalatlaco",
+        "testo": "A neighbourhood of colourful houses and cobbled streets east of the centre, with murals, cafés and small restaurants. In the days before the Día de los Muertos the barrio comparsas pass through here.",
+        "come": "On foot from the centre, about 10 minutes.",
+        "quando": "Morning for photos, evening for dinner.",
+        "tempo": "1-2 hours",
+        "costo": "Free",
+        "lat": 17.06748,
+        "lng": -96.71609
+      },
+      {
+        "nome": "Cerro del Fortín and Auditorio Guelaguetza",
+        "testo": "The hill north-west of the centre, with the amphitheatre where the Guelaguetza, the festival of Oaxaca's regions, is held in July. From the stairway and the lookout you get the best view of the city.",
+        "come": "On foot up a flight of steps from the Santo Domingo area, or by taxi to the auditorium.",
+        "quando": "Late afternoon, for sunset; better in company.",
+        "tempo": "1.5 hours",
+        "costo": "Free",
+        "lat": 17.06864,
+        "lng": -96.731
+      },
+      {
+        "nome": "Central de Abastos",
+        "testo": "The city's wholesale market, huge and chaotic, where producers from the surrounding villages arrive. It is the most authentic place to see what Oaxaca eats, from dried chiles to handmade tortillas.",
+        "come": "Taxi or on foot from the centre, about 20 minutes south-west.",
+        "quando": "Morning.",
+        "tempo": "1-2 hours",
+        "lat": 17.05977,
+        "lng": -96.73534,
+        "consiglio": "Watch out for pickpockets in the busiest aisles."
+      },
+      {
+        "nome": "Santa Cruz Xoxocotlán cemetery and Panteón General",
+        "testo": "The Día de Muertos vigils (31 October-2 November), with graves decorated with cempasúchil flowers and candles. The Panteón General is walkable from the centre, Xoxocotlán is south of the city.",
+        "come": "Taxi or tour for Xoxocotlán, agreeing the return too; Panteón General on foot.",
+        "quando": "Night of 31 October and 1-2 November.",
+        "tempo": "Evening",
+        "costo": "Free: no tour sells an «entry»",
+        "lat": 17.03081,
+        "lng": -96.75015,
+        "consiglio": "Respect the families: it is not a show."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Monte Albán at opening",
+          "Lunch at the Mercado 20 de Noviembre, in the pasillo de humo",
+          "Afternoon: Santo Domingo and the Museo de las Culturas",
+          "Evening: Andador Macedonio Alcalá and the Zócalo"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1 as above",
+          "Day 2: Basílica de la Soledad, Museo Textil and Museo Tamayo, afternoon in Jalatlaco, sunset at Cerro del Fortín"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Valles Centrales (Árbol del Tule, Teotitlán, Mitla, Hierve el Agua) on a tour or by colectivo"
+        ]
+      },
+      {
+        "titolo": "Día de los Muertos",
+        "tappe": [
+          "31 October: Monte Albán in the morning, night at Santa Cruz Xoxocotlán",
+          "1 November: Valles Centrales by day, the San Agustín Etla muerteada at night",
+          "2 November: Panteón General and the last comparsas in town"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Historic centre",
+        "perChi": "everything on foot",
+        "testo": "Hotels in colonial houses, culture and restaurants, noisier. Between Santo Domingo and the Zócalo; on the nights of the festival prices rise two or three times.",
+        "fascia": "75-175 €"
+      },
+      {
+        "nome": "Barrio Jalatlaco",
+        "perChi": "cafés and atmosphere",
+        "testo": "A neighbourhood of colourful houses, quieter, walkable from the centre. Many casas de huéspedes and small hotels.",
+        "fascia": "75-175 €"
+      },
+      {
+        "nome": "Barrio de Xochimilco",
+        "perChi": "those who want calm",
+        "testo": "The old neighbourhood north of Santo Domingo, with the aqueduct and quiet streets, 10-15 minutes' walk from the centre."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Árbol del Tule and Teotitlán del Valle",
+        "distanza": "20-40 minutes by colectivo or taxi",
+        "come": "Colectivos towards Tlacolula from the centre, or taxi; the Tule enclosure costs a few pesos.",
+        "testo": "The cypress of Santa María del Tule, among the trees with the widest trunk in the world, and the wool-weaving village of Teotitlán, where you visit the workshops."
+      },
+      {
+        "nome": "Mitla and Hierve el Agua",
+        "distanza": "about 45 km and 70 km, full day",
+        "come": "Group tour, roughly 600-900 MXN per person excluding entries (from the trip), or colectivo to Mitla.",
+        "testo": "Mitla has stone geometric mosaics unique in Mesoamerica (210 MXN for foreigners, open daily 8-17, INAH page); Hierve el Agua the petrified waterfalls with pools on the edge of the cliff, when the community keeps it open (50-100 MXN in cash)."
+      },
+      {
+        "nome": "San Bartolo Coyotepec",
+        "distanza": "about 15 km south, 30 minutes",
+        "come": "Colectivo or taxi from the centre.",
+        "testo": "The village of barro negro, black pottery polished by hand: in the family workshops you see how it is made."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Oaxaca?",
+        "risposta": "Three days for the city, Monte Albán and a day in the Valles Centrales; four or five if you come for the Día de los Muertos, which has three different nights to follow."
+      },
+      {
+        "domanda": "When should you book for the Día de los Muertos?",
+        "risposta": "Accommodation 4-6 months ahead: between 30 October and 2 November prices rise two or three times and the centre sells out. Evening cemetery tours should be booked a few weeks ahead."
+      },
+      {
+        "domanda": "How do you get to Monte Albán?",
+        "risposta": "With the shuttles leaving from the centre or by taxi, about 20 minutes. The site opens at 8 and entry costs 210 MXN for foreigners (INAH page, 2026)."
+      },
+      {
+        "domanda": "Is Hierve el Agua open?",
+        "risposta": "It depends: the communities run it and in recent years it has closed several times over local disputes. Ask in town or at the agency the day before."
+      },
+      {
+        "domanda": "What are bloqueos?",
+        "risposta": "Road blockades by unions and communities, common in the state of Oaxaca: they can stop buses and taxis for hours. Before every transfer ask at the hotel and keep some margin."
+      },
+      {
+        "domanda": "What should you eat in Oaxaca?",
+        "risposta": "Mole negro, tlayudas over the coals, quesillo, chapulines, tejate and chocolate made with water. The pasillo de humo at the Mercado 20 de Noviembre is the simplest and most typical meal."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'A cempasúchil altar lit by candles on the night of the dead in Oaxaca',
@@ -577,76 +921,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     doveDormire:
       "La Punta for hostels and budget, Zicatela for mid-range and nightlife, Carrizalillo and Rinconada for quiet and a few high-end hotels.",
     doveMangiare: 'Pescado a la talla, ceviche, tiritas and fish tacos in the beachside palapas.',
-    comeArrivare: 'Bus or van from Oaxaca on the new highway; direct flights from Mexico City.',
     comeSpostarsi: 'Taxis and colectivos along coastal highway 200.',
     periodoMigliore: 'November to April, the dry season; June to October rains and possible hurricanes.',
-    costi: 'Surf lessons and lagoon tours at varying prices: compare locally.',
     erroriDaEvitare: [
       'Swimming at Zicatela, where the rip currents are dangerous',
       'Choosing bioluminescence tours that motor all the way to the end of the lagoon',
       'Leaving belongings unattended on the beach in the evening',
     ],
-      "luoghi": [
-        {
-          "nome": "Playa Zicatela",
-          "testo": "A powerful, famous wave, the «Mexican Pipeline», for experienced surfers; the beach has restaurants and hotels.",
-          "come": "On foot or taxi from the centre.",
-          "quando": "Dawn and sunset to watch surfers; swim only with great caution.",
-          "tempo": "Half a day",
-          "consiglio": "Dangerous currents: do not swim where there are big waves."
-        },
-        {
-          "nome": "Carrizalillo, Manzanillo and Puerto Angelito",
-          "testo": "Sheltered coves with calm water, good for swimming and snorkelling.",
-          "come": "Taxi or on foot with a staircase.",
-          "quando": "Morning.",
-          "tempo": "Half a day"
-        },
-        {
-          "nome": "Manialtepec Lagoon",
-          "testo": "A lagoon with mangroves and birds, with nocturnal bioluminescence.",
-          "come": "Boat tour from Puerto Escondido.",
-          "quando": "Dawn or night.",
-          "tempo": "2-3 hours"
-        },
-        {
-          "nome": "Mazunte, Zipolite and Punta Cometa",
-          "testo": "Villages of the nearby coast: Mazunte for the turtle centre, Zipolite for the free beach, Punta Cometa for sunset.",
-          "come": "Car or colectivo from Puerto Escondido, along the coast.",
-          "quando": "Sunset at Punta Cometa.",
-          "tempo": "Full day"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: Carrizalillo",
-            "Seafood lunch",
-            "Afternoon: Zicatela",
-            "Sunset on the beach"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: coves and Zicatela",
-            "Day 2: Mazunte, Punta Cometa and Zipolite"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Zicatela",
-          "perChi": "surf and nightlife",
-          "testo": "Hotels, bars and restaurants, noisy at night."
-        },
-        {
-          "nome": "La Punta",
-          "perChi": "quiet atmosphere",
-          "testo": "Quieter, with smaller waves, near the coves."
-        }
-      ],
       "sapori": [
         {
           "nome": "Fresh fish",
@@ -670,6 +951,187 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Thefts on the beach: leave nothing unattended.",
         "The road from Oaxaca is long and winding: consider the flight."
       ],
+    comeArrivare: "Bus or van from Oaxaca on the new motorway; direct flights from Mexico City. With the Barranca Larga-Ventanilla motorway, fully open since 2024, it takes about 3-3.5 hours from Oaxaca instead of six or seven, 300-500 MXN (15-25 €): better to leave in the morning with a seat booked the day before, and ask about bloqueos. The flight from Mexico City takes about an hour (Aeroméxico, Volaris and Viva) and the airport is a few minutes by taxi from Zicatela and the centre. Those staying in Mazunte use Huatulco airport, about an hour's drive away.",
+    costi: "Surf lessons and lagoon tours at varying prices: compare on the spot. Group surf lesson about 600-900 MXN (30-45 €), Centro Mexicano de la Tortuga about 50 MXN, turtle releases for a donation (from the trip, 2026). Low budget about 50-70 € a day per person (hostel at La Punta, fish on the beach, colectivos); mid 100-160 € (hotel in Zicatela, a surf lesson, Manialtepec lagoon); high from 250 € (quiet hotel in Carrizalillo or Rinconada, private outings).",
+    luoghi: [
+      {
+        "nome": "Playa Zicatela",
+        "testo": "A powerful, famous wave, the «Mexican Pipeline», for expert surfers; the beach, almost three kilometres long, has restaurants and hotels. From the sand you watch surfers riding the barrels.",
+        "come": "On foot or by taxi from the centre.",
+        "quando": "Dawn and sunset to watch the surfers; swimming only with great care.",
+        "tempo": "Half a day",
+        "costo": "Free",
+        "consiglio": "Strong rip currents and drownings every year: swim only in the sheltered coves."
+      },
+      {
+        "nome": "Carrizalillo, Manzanillo and Puerto Angelito",
+        "testo": "Sheltered coves with calm water, good for swimming and snorkelling. Carrizalillo, at the bottom of about 160 steps, is also the beach for first surf lessons and sunsets.",
+        "come": "Taxi or on foot; at Carrizalillo you go down the stairway.",
+        "quando": "Morning for a swim, sunset at Carrizalillo.",
+        "tempo": "Half a day",
+        "costo": "Free; sunbeds and umbrellas for a fee",
+        "lat": 15.85955,
+        "lng": -97.07851,
+        "consiglio": "The climb back from Carrizalillo in the heat is tiring: comfortable shoes and water."
+      },
+      {
+        "nome": "La Punta",
+        "testo": "The southern end of Zicatela, with a softer left-hand wave, surf schools, hostels and open-air bars. It is the youngest side of Puerto Escondido.",
+        "come": "Taxi from the centre or on foot along Zicatela.",
+        "quando": "Early morning for surfing, evening for the bars.",
+        "tempo": "Half a day",
+        "costo": "Group surf lesson about 600-900 MXN, 30-45 € (from the trip, 2026).",
+        "lat": 15.83415,
+        "lng": -97.0442
+      },
+      {
+        "nome": "Playa Bacocho and the turtle release",
+        "testo": "A long, open beach west of the centre, where at sunset some conservation projects release hatchlings from their nurseries into the sea. In late October and November the hatching season is at its peak.",
+        "come": "Taxi from the centre, a few minutes.",
+        "quando": "Sunset, with times to ask on the day.",
+        "tempo": "1-2 hours",
+        "costo": "A small donation to the project",
+        "lat": 15.86618,
+        "lng": -97.09354,
+        "consiglio": "Don't touch the hatchlings, no flash, stay behind the marked line. The sea here is open: no swimming."
+      },
+      {
+        "nome": "Playa Principal and Andador El Adoquín",
+        "testo": "The town bay, with fishing boats pulled up on the sand and fish sold in the morning. Behind it is El Adoquín, the pedestrian street with shops, bars and restaurants.",
+        "come": "On foot from the centre.",
+        "quando": "Early morning for the fishermen, evening for a stroll.",
+        "tempo": "1-2 hours",
+        "costo": "Free",
+        "lat": 15.86012,
+        "lng": -97.06322
+      },
+      {
+        "nome": "Manialtepec Lagoon",
+        "testo": "A mangrove lagoon about 20 minutes west of town. At dawn you go by boat for the birds (herons, cormorants, kingfishers), at night for the bioluminescence, plankton that glows blue when the water moves.",
+        "come": "Boat tour from Puerto Escondido.",
+        "quando": "Dawn or a moonless night; bioluminescence peaks between July and September and is weaker in November.",
+        "tempo": "2-3 hours",
+        "lat": 15.94583,
+        "lng": -97.19444,
+        "consiglio": "Ask the operator how the previous nights went."
+      },
+      {
+        "nome": "Mazunte, Zipolite and Punta Cometa",
+        "testo": "Villages on the nearby coast: Mazunte for the turtle centre, Zipolite for the free beach, Punta Cometa for sunset, with a short path through dry scrub.",
+        "come": "Colectivo or shared taxi along coastal highway 200, about an hour and a quarter.",
+        "quando": "Sunset at Punta Cometa.",
+        "tempo": "Full day",
+        "lat": 15.66006,
+        "lng": -96.55703,
+        "consiglio": "You need a torch for the walk down from Punta Cometa in the dark."
+      },
+      {
+        "nome": "Centro Mexicano de la Tortuga",
+        "testo": "The research centre and aquarium devoted to sea turtles, in Mazunte, founded after the 1990 hunting ban that changed the village's economy. You see the species that nest on the Oaxaca coast.",
+        "come": "In Mazunte, along the main road; combine it with Punta Cometa.",
+        "quando": "Morning or early afternoon.",
+        "tempo": "1 hour",
+        "costo": "About 50 MXN, 2-3 € (from the trip, 2026)",
+        "orari": "Closed Monday and Tuesday (from the trip).",
+        "lat": 15.66652,
+        "lng": -96.55177
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: swim at Carrizalillo or Puerto Angelito",
+          "Fish lunch on Playa Principal",
+          "Afternoon: Zicatela and La Punta to watch the surfers",
+          "Sunset at Bacocho with the turtle release"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1 as above",
+          "Day 2: surf lesson at La Punta in the morning, Manialtepec in the evening for the bioluminescence"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Mazunte with the Turtle Centre, Zipolite and sunset at Punta Cometa"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Zicatela",
+        "perChi": "surf and nightlife",
+        "testo": "Hotels, bars and restaurants, noisy at night. Mid-range.",
+        "fascia": "75-150 €"
+      },
+      {
+        "nome": "La Punta",
+        "perChi": "budget and a young vibe",
+        "testo": "Hostels and cheap rooms, softer waves, outdoor life.",
+        "fascia": "from 30 €"
+      },
+      {
+        "nome": "Carrizalillo and Rinconada",
+        "perChi": "peace and quiet",
+        "testo": "Residential areas above the coves, with quieter hotels and a few high-end places."
+      },
+      {
+        "nome": "Mazunte",
+        "perChi": "those who want to change base",
+        "testo": "A small, relaxed village about an hour and a quarter away, with cabañas and hostels; you fly out from Huatulco."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Mazunte, Zipolite and Punta Cometa",
+        "distanza": "about 1 hour 15 along coastal highway 200",
+        "come": "Colectivo or shared taxi; after sunset transport thins out.",
+        "testo": "The Turtle Centre, Zipolite beach and sunset from the Punta Cometa headland."
+      },
+      {
+        "nome": "Lagunas de Chacahua",
+        "distanza": "about 70 km west",
+        "come": "Day tour from Puerto Escondido, or colectivo to Zapotalito and then a boat.",
+        "testo": "A national park of lagoons and mangroves, with a fishing village on a sand spit between lagoon and ocean."
+      },
+      {
+        "nome": "Manialtepec Lagoon",
+        "distanza": "about 20 minutes west",
+        "come": "Boat tour at dawn or at night.",
+        "testo": "Birds among the mangroves in the morning, bioluminescence on moonless nights."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Can you swim at Zicatela?",
+        "risposta": "Better not: it has strong rip currents and there are drownings every year. To swim, go to Carrizalillo, Manzanillo or Puerto Angelito."
+      },
+      {
+        "domanda": "How many days do you need in Puerto Escondido?",
+        "risposta": "Three days for the coves, surfing, Manialtepec and a day in Mazunte; with five you add Chacahua or a few days of rest."
+      },
+      {
+        "domanda": "Where is best to stay?",
+        "risposta": "La Punta to spend little, Zicatela for nightlife, Carrizalillo and Rinconada for quiet."
+      },
+      {
+        "domanda": "When are the turtles released?",
+        "risposta": "At sunset, at Bacocho, during the hatching season, which peaks in late October and November. Ask for the time on the day and leave a small donation."
+      },
+      {
+        "domanda": "When can you see the bioluminescence at Manialtepec?",
+        "risposta": "On moonless nights, best after rain: it peaks between July and September; in November it is weaker and varies from night to night."
+      },
+      {
+        "domanda": "How do you get there from Oaxaca?",
+        "risposta": "By bus or van on the new motorway, about 3-3.5 hours and 300-500 MXN, or by plane via Mexico City."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'The bay of Puerto Escondido seen from above among the cacti',

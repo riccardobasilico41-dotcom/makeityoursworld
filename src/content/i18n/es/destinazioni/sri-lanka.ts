@@ -224,29 +224,24 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveDormire:
       "Dormimos en el Tropical Life Resort, sobre el papel el mejor de los nueve hoteles del viaje: n.º 1 entre los alojamientos specialty de Dambulla, 4/5 en Tripadvisor. Habitaciones limpias y bien equipadas, buffet abundante, todo inmerso en el verde. Alguna reseña señala que en la habitación falta WiFi.\n\nEconómicos: Relax Guesthouse, Lake Island Homestay. Gama media: Lake Lodge Boutique Hotel, Kalundewa Retreat. Lujo: Heritance Kandalama (el célebre hotel firmado por Geoffrey Bawa), Aliya Resort & Spa.",
     doveMangiare: "Mom's Kitchen y Golden Palace, entre Dambulla y Sigiriya.",
-    comeArrivare: 'Unos 1 h 30 de traslado desde Anuradhapura, pasando por Mihintale y por el safari.',
+    comeArrivare: "Desde Anuradhapura es un traslado de 1 hora y media, pasando por Mihintale y por el safari. Desde Kandy se tarda unas 2 horas en coche. Desde el aeropuerto de Colombo (CMB) son unas 4 horas en coche con conductor, la opción más habitual; los autobuses a Dambulla salen de Colombo y de Kandy, más lentos pero baratos. Entre Dambulla y Sigiriya hay una media hora de carretera.",
     comeSpostarsi: 'Furgoneta privada; a pie para los trekkings.',
     periodoMigliore: 'a primera hora de la mañana para Sigiriya, para evitar el calor',
-    costi: 'Mihintale 1.000 LKR (2026; en 2023 eran 500 LKR más 50 de sarong); safari en Minneriya unas 12.000 LKR por jeep más la entrada (2023); Sigiriya unos 35 USD (2026); Pidurangala 1.000 LKR.',
+    costi: "Mihintale 1.000 LKR (unos 3 €, 2026; en 2023 eran 500 LKR más 50 de sarong); safari en Minneriya unas 12.000 LKR por jeep más la entrada (2023); Sigiriya unos 35 USD (unos 30 €, 2026); Templo de Oro unas 3.000 LKR (unos 9 €, 2026); Pidurangala 1.000 LKR. Presupuesto diario orientativo por persona: bajo 30-40 € (casa de huéspedes en Sigiriya, rice and curry, tuk-tuk), medio 70-120 € (hotel con piscina, conductor, un safari), alto desde 200 € (Heritance Kandalama o resort de lujo, guía privado).",
     erroriDaEvitare: ['Salir tarde hacia Sigiriya: conviene moverse pronto para evitar el peor calor durante la subida'],
     miaEsperienza:
       "El atardecer desde Pidurangala Rock, con la Roca de Sigiriya enfrente, es uno de los panoramas más bonitos de todo el viaje. Quizá me gustó más que la subida a Sigiriya, que todos hacen a la carrera sin pararse aquí.",
     luoghi: [
-      {
-        "nome": "Mihintale",
-        "testo": "La colina donde, según la tradición, llegó por primera vez el budismo a Sri Lanka. Según la tradición, aquí el monje Mahinda se encontró con el rey Devanampiya Tissa. Una escalinata de 1.840 peldaños de granito lleva a los templos y a la gran estupa de la cima.",
-        "come": "A unos 12 km al este de Anuradhapura, en furgoneta. Se sube a pie; en los templos se entra descalzo.",
-        "quando": "Por la mañana, antes del calor.",
-        "tempo": "1,5 horas",
-        "costo": "Entrada 1.000 LKR para extranjeros (2026); en 2023 eran 500 LKR más 50 LKR de sarong"
-      },
       {
         "nome": "Sigiriya, la Roca del León",
         "testo": "Una roca de unos 180 metros de altura con los cimientos del palacio del rey Kashyapa (477-495) en la cima, patrimonio de la UNESCO desde 1982. En la subida se pasa junto a los frescos de las doncellas celestiales, el muro espejo cubierto de grafitis poéticos de los siglos IX-X y las dos garras del león que enmarcan la última escalinata.",
         "come": "Desde la taquilla se sube a pie (1,5-2 horas de subida en el viaje de 2023); desde Dambulla en furgoneta.",
         "quando": "Taquilla abierta de 7 a 17 h: llega a la apertura para evitar el peor calor y las colas.",
         "tempo": "3-4 horas",
-        "costo": "Unos 35 USD para extranjeros (marzo de 2026), pagados en rupias al cambio del día; incluye el museo. También se puede comprar en línea.",
+        "costo": "Unos 35 USD (unos 30 €) para extranjeros (marzo de 2026), pagados en rupias al cambio del día; incluye el museo. También se puede comprar en línea.",
+        "orari": "Taquilla todos los días de 7 a 17 h (2026).",
+        "lat": 7.95694,
+        "lng": 80.75972,
         "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "consiglio": "Ve temprano: a media mañana la subida es dura y está llena de gente."
       },
@@ -256,7 +251,9 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "Subida a pie, con un tramo final de roca (unos 30 minutos en el viaje de 2023).",
         "quando": "Atardecer.",
         "tempo": "2 horas",
-        "costo": "Entrada 1.000 LKR (del viaje de 2023, sin cambios en 2026)",
+        "costo": "Entrada 1.000 LKR, unos 3 € (del viaje de 2023, sin cambios en 2026)",
+        "lat": 7.96562,
+        "lng": 80.76185,
         "consiglio": "Lleva una linterna para la bajada cuando ya se ha puesto el sol."
       },
       {
@@ -265,7 +262,10 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "Desde Sigiriya en furgoneta; se sube por una escalinata y se entra descalzo, con hombros y rodillas cubiertos.",
         "quando": "Por la mañana o al final de la tarde.",
         "tempo": "1,5 horas",
-        "costo": "Unos 3.000 LKR para extranjeros (2026)"
+        "costo": "Unos 3.000 LKR (unos 9 €) para extranjeros (2026)",
+        "orari": "Taquilla hasta las 17 h, templo abierto hasta las 19 h (viaje de 2023).",
+        "lat": 7.85667,
+        "lng": 80.64917
       },
       {
         "nome": "Safari en Minneriya",
@@ -273,7 +273,71 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "En jeep con conductor-guía desde la zona de Sigiriya.",
         "quando": "Por la tarde; el periodo con más elefantes juntos (el «gathering») suele ser de julio a octubre, con el pico en agosto y septiembre.",
         "tempo": "3-4 horas",
-        "costo": "Unos 12.000 LKR por jeep más entrada (del viaje de 2023); entrada al parque unos 25 USD por adulto extranjero, más impuestos, servicio y vehículo (2026)"
+        "costo": "Unos 12.000 LKR por jeep más entrada (del viaje de 2023); entrada al parque unos 25 USD por adulto extranjero, más impuestos, servicio y vehículo (2026)",
+        "lat": 7.97889,
+        "lng": 80.84889
+      },
+      {
+        "nome": "Mihintale",
+        "testo": "La colina donde, según la tradición, llegó por primera vez el budismo a Sri Lanka. Según la tradición, aquí el monje Mahinda se encontró con el rey Devanampiya Tissa. Una escalinata de 1.840 peldaños de granito lleva a los templos y a la gran estupa de la cima.",
+        "come": "A unos 12 km al este de Anuradhapura, en furgoneta. Se sube a pie; en los templos se entra descalzo.",
+        "quando": "Por la mañana, antes del calor.",
+        "tempo": "1,5 horas",
+        "costo": "Entrada 1.000 LKR para extranjeros (2026); en 2023 eran 500 LKR más 50 LKR de sarong",
+        "lat": 8.35059,
+        "lng": 80.51694
+      },
+      {
+        "nome": "Parque Nacional de Kaudulla",
+        "testo": "El parque vecino de Minneriya, unido a él por el mismo corredor de elefantes: cuando baja el agua en un parque, las manadas se desplazan al otro, alrededor del lago de Kaudulla. Se visita en jeep, como Minneriya.",
+        "come": "En jeep con conductor-guía desde la zona de Sigiriya y Habarana; el parque se elige la misma mañana, según dónde estén los elefantes.",
+        "quando": "Por la tarde.",
+        "tempo": "3-4 horas",
+        "lat": 8.16111,
+        "lng": 80.905
+      },
+      {
+        "nome": "Mercado mayorista de Dambulla",
+        "testo": "El mercado mayorista de frutas y verduras más grande de Sri Lanka: camiones cargados, montañas de productos y regateos a voces. Entre los puestos se prueba comida callejera.",
+        "come": "En la carretera principal de Dambulla, a pocos minutos del Templo de Oro.",
+        "quando": "Por la mañana, cuando llegan los camiones.",
+        "tempo": "45 minutos",
+        "lat": 7.86604,
+        "lng": 80.65173
+      },
+      {
+        "nome": "Lago de Kandalama",
+        "testo": "El embalse al este de Dambulla, rodeado de bosque, donde Geoffrey Bawa construyó el Heritance Kandalama, encajado en la roca y cubierto de vegetación. Al atardecer la luz sobre el agua y las colinas es preciosa.",
+        "come": "En tuk-tuk o coche desde Dambulla, unos 20 minutos.",
+        "quando": "Atardecer.",
+        "tempo": "1-2 horas",
+        "lat": 7.87502,
+        "lng": 80.70501
+      },
+      {
+        "nome": "Tumbas megalíticas de Ibbankatuwa",
+        "testo": "Una necrópolis prehistórica de hace unos 2.700 años, a pocos kilómetros del Templo de Oro: tumbas de cista hechas con losas de piedra, donde se hallaron urnas, cuentas y objetos de metal.",
+        "come": "En tuk-tuk o coche, justo al sur de Dambulla por la carretera de Kandy.",
+        "tempo": "30-45 minutos",
+        "lat": 7.83725,
+        "lng": 80.62989
+      },
+      {
+        "nome": "Nalanda Gedige",
+        "testo": "Un templo de piedra de unos mil años que mezcla estilo hindú y budista, desmontado y vuelto a montar pieza a pieza para salvarlo de las aguas de un embalse. Según la tradición está en el centro geográfico de la isla.",
+        "come": "En la carretera entre Dambulla y Kandy, a unos 25 km al sur de Dambulla: se para durante el traslado.",
+        "tempo": "30-45 minutos",
+        "lat": 7.66972,
+        "lng": 80.64556
+      },
+      {
+        "nome": "Popham's Arboretum",
+        "testo": "Un arboreto de bosque seco creado en los años sesenta por un plantador inglés, Sam Popham. Senderos guiados entre ébanos y satinwood: una hora de silencio a pocos minutos de Dambulla.",
+        "come": "En tuk-tuk desde Dambulla, por la carretera de Kandalama.",
+        "quando": "Temprano por la mañana o al final de la tarde, cuando hace menos calor.",
+        "tempo": "1-2 horas",
+        "lat": 7.86081,
+        "lng": 80.67586
       }
     ],
     programmi: [
@@ -291,23 +355,40 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Día 1: Mihintale, safari en Minneriya, atardecer en Pidurangala",
           "Día 2: Sigiriya a la apertura, y luego Templo de Oro y mercado de Dambulla"
         ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Mihintale por la mañana, safari en Minneriya o Kaudulla por la tarde",
+          "Día 2: Sigiriya a la apertura, Templo de Oro y mercado de Dambulla, atardecer en Pidurangala",
+          "Día 3: excursión a Polonnaruwa en bicicleta, regreso con parada en el lago de Kandalama"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Dambulla",
         "perChi": "base cómoda",
-        "testo": "Hoteles rodeados de verde, a media hora de los sitios. El Tropical Life Resort fue el mejor de los nueve hoteles del viaje."
+        "testo": "Hoteles rodeados de verde, a media hora de los sitios. El Tropical Life Resort fue el mejor de los nueve hoteles del viaje.",
+        "fascia": "30-90 €"
       },
       {
         "nome": "Sigiriya",
         "perChi": "cerca de la roca",
-        "testo": "Casas de huéspedes y hoteles cerca de la taquilla, cómodos para una subida al amanecer. Menos restaurantes."
+        "testo": "Casas de huéspedes y hoteles cerca de la taquilla, cómodos para una subida al amanecer. Menos restaurantes.",
+        "fascia": "25-80 €"
       },
       {
         "nome": "Lago Kandalama",
         "perChi": "lujo y arquitectura",
-        "testo": "El Heritance Kandalama, firmado por Geoffrey Bawa, es el más célebre y de los más caros."
+        "testo": "El Heritance Kandalama, firmado por Geoffrey Bawa, es el más célebre y de los más caros.",
+        "fascia": "120-250 €"
+      },
+      {
+        "nome": "Habarana",
+        "perChi": "safaris y Polonnaruwa",
+        "testo": "Un cruce al noreste de Sigiriya, cerca de las entradas de Minneriya y Kaudulla y en la carretera de Polonnaruwa. Muchos resorts con piscina, poco que hacer por la noche.",
+        "fascia": "40-150 €"
       }
     ],
     sapori: [
@@ -333,6 +414,52 @@ export const destinazioniSriLanka: Destinazione[] = [
       "Monos: no tener comida a la vista y no mirarlos a los ojos.",
       "Sigiriya: salir pronto para evitar el peor calor en la subida.",
       "Sarong y hombros cubiertos para Mihintale y el Templo de Oro."
+    ],
+    gite: [
+      {
+        "nome": "Polonnaruwa",
+        "distanza": "1 h 10 desde Sigiriya",
+        "come": "En coche con conductor; el recinto se recorre en bicicleta, alquilada allí por unas 1.000 LKR (2023).",
+        "testo": "La segunda capital medieval de la isla, patrimonio de la UNESCO: templos, palacios y las grandes estatuas de Buda del Gal Vihara. Se visita en dos horas y media-tres, más ligeras y directas que Sigiriya."
+      },
+      {
+        "nome": "Ritigala",
+        "distanza": "unos 40 km",
+        "come": "En coche con conductor; se visita a pie, por senderos empedrados en el bosque.",
+        "testo": "Las ruinas de un monasterio de eremitas en la selva, en las laderas de la montaña más alta de la llanura del norte: caminos de piedra, plataformas y estanques, casi sin turistas."
+      },
+      {
+        "nome": "Buda de Avukana",
+        "distanza": "unos 40 km",
+        "come": "En coche con conductor, pasando junto al embalse de Kala Wewa.",
+        "testo": "Un Buda de pie de unos 12 metros, tallado en la roca en el siglo V junto al gran embalse de Kala Wewa. Es una de las estatuas antiguas mejor conservadas de la isla."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Mejor Sigiriya o Pidurangala?",
+        "risposta": "Sigiriya tiene los frescos, la historia y los cimientos del palacio; Pidurangala cuesta mucho menos y regala la vista de la Roca del León. Si hay tiempo, conviene hacer las dos: Sigiriya a la apertura, Pidurangala al atardecer."
+      },
+      {
+        "domanda": "¿Cuánto cuesta entrar en Sigiriya?",
+        "risposta": "Unos 35 USD para extranjeros (marzo de 2026), pagados en rupias al cambio del día, museo incluido. La entrada se compra en la taquilla oficial o en línea en el portal del Central Cultural Fund."
+      },
+      {
+        "domanda": "¿Mejor dormir en Dambulla o en Sigiriya?",
+        "risposta": "Sigiriya es más cómoda para subir al amanecer; Dambulla tiene más hoteles y restaurantes y está cerca del Templo de Oro. Están a una media hora la una de la otra."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta?",
+        "risposta": "Dos días completos bastan para Sigiriya, Pidurangala, el Templo de Oro y un safari. Con un tercero se añaden Polonnaruwa o Mihintale."
+      },
+      {
+        "domanda": "¿Minneriya o Kaudulla para ver elefantes?",
+        "risposta": "Depende de la época: las manadas se mueven entre los dos parques siguiendo el agua. La gran concentración más famosa es en Minneriya, normalmente de julio a octubre; el parque se elige la misma mañana según dónde estén los elefantes."
+      },
+      {
+        "domanda": "¿Cómo hay que vestir en el Templo de Oro?",
+        "risposta": "Hombros y rodillas cubiertos, y se entra descalzo dejando los zapatos en la consigna. Un sarong o unos pantalones largos bastan."
+      }
     ],
     esperienzeSlugs: ['safari-minneriya', 'trekking-sigiriya'],
     tripSlugs: ['sri-lanka-2023'],
@@ -452,10 +579,10 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveDormire:
       "Dormimos en el Rivendell Hotel: 4/5 en Tripadvisor, pero con opiniones encontradas. A quien le gusta habla de una ubicación tranquila fuera del centro y de la vista sobre las colinas; otros lo encuentran caro para lo que ofrece, y a primera hora de la mañana se oye el ruido de un templo cercano.\n\nEconómicos: 256 Townhouse Rest, Sharon Inn Kandy. Gama media: Hotel Suisse, OZO Kandy. Lujo: Earl's Regency, The Grand Kandyan.",
     doveMangiare: "El Ranweli Spice Garden a la hora de comer; un restaurante del sur de la India encontrado en el sitio, económico y excelente (con un poco de lío con los pedidos).",
-    comeArrivare: 'Unas 2 h de traslado desde Dambulla, con parada en el Ranweli Spice Garden.',
+    comeArrivare: "Desde Dambulla son unas 2 horas en coche, con la parada en el Ranweli Spice Garden que se hizo en el viaje de 2023. Desde el aeropuerto de Colombo (CMB) se tarda unas 3 horas en coche con conductor. En tren desde Colombo Fort el viaje dura unas 2 horas y media-3 horas y ya sube entre colinas. De Kandy salen los trenes de las tierras altas hacia Nanu Oya y Ella: los asientos reservados se reservan con antelación en el portal de Sri Lanka Railways.",
     comeSpostarsi: 'A pie por el centro.',
     periodoMigliore: 'última hora de la tarde o noche, para llegar a tiempo a la ceremonia del Templo del Diente',
-    costi: 'Entrada al Templo del Diente 2.000 LKR en 2023, 3.000 LKR en 2026.',
+    costi: "Entrada al Templo del Diente 2.000 LKR en 2023, 3.000 LKR (unos 9 €) en 2026. Presupuesto diario orientativo por persona: bajo 25-35 € (casa de huéspedes, rice and curry, autobús y tuk-tuk), medio 60-100 € (hotel en las colinas, restaurantes, conductor), alto desde 180 € (hotel de lujo y guía privado).",
     erroriDaEvitare: ['Llegar al Templo del Diente en el último momento: la cola se forma ya a última hora de la tarde, conviene presentarse con mucha antelación'],
     miaEsperienza:
       "La ceremonia nocturna en el Templo del Diente, con los tambores que empiezan poco antes de que baje la luz, fue uno de los momentos más intensos y espirituales de todo el viaje.",
@@ -466,9 +593,57 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "A pie desde el centro, junto al lago. Se entra descalzo con hombros y rodillas cubiertos; la reliquia está guardada en siete cofres de oro en la cámara llamada Handun Kunama. No se admiten pantalones cortos ni camisetas sin mangas; en la entrada hay ropa adecuada.",
         "quando": "Abierto todos los días de 5:30 a 20 h. Las ceremonias son a las 5:30, a las 9:30 y a las 18:30: para la de la tarde la fila se forma ya a última hora de la tarde.",
         "tempo": "2 horas",
-        "costo": "3.000 LKR para extranjeros (2026, web oficial), con los museos del complejo; en 2023 eran 2.000 LKR. Solo valen las entradas de las máquinas del templo.",
+        "costo": "3.000 LKR (unos 9 €) para extranjeros (2026, web oficial), con los museos del complejo; en 2023 eran 2.000 LKR. Solo valen las entradas de las máquinas del templo.",
+        "orari": "Todos los días de 5:30 a 20 h; ceremonias a las 5:30, a las 9:30 y a las 18:30 (web oficial, 2026).",
+        "lat": 7.2936,
+        "lng": 80.6414,
         "url": "https://sridaladamaligawa.lk/",
         "consiglio": "Presentarse con mucha antelación: llegar en el último momento significa quedarse al final de la fila."
+      },
+      {
+        "nome": "Jardín botánico real de Peradeniya",
+        "testo": "El jardín botánico más grande de Sri Lanka, unas 60 hectáreas en un meandro del río Mahaweli, a pocos kilómetros del centro. Fue un jardín real que los británicos transformaron en el siglo XIX: hoy tiene la avenida de palmeras reales, el invernadero de orquídeas y un enorme ficus de Java que cubre él solo todo un prado.",
+        "come": "En tuk-tuk o autobús desde el centro de Kandy, unos 20 minutos. Se recorre a pie: los paseos tienen sombra, pero el jardín es grande.",
+        "quando": "Por la mañana, antes del calor; los fines de semana llegan muchas familias locales.",
+        "tempo": "2-3 horas",
+        "orari": "Todos los días de 7:30 a 18 h (web oficial, 2026).",
+        "lat": 7.27111,
+        "lng": 80.59556,
+        "url": "https://en.botanicgardens.gov.lk/"
+      },
+      {
+        "nome": "Buda de Bahirawakanda y el lago",
+        "testo": "Una gran estatua de Buda en una colina sobre la ciudad, con vistas sobre Kandy y el lago artificial en su centro.",
+        "come": "En tuk-tuk desde el centro, pocos minutos.",
+        "quando": "Atardecer.",
+        "tempo": "1 hora",
+        "lat": 7.29558,
+        "lng": 80.6309
+      },
+      {
+        "nome": "Danzas kandyanas",
+        "testo": "El espectáculo de danzas tradicionales de Kandy, con tambores, trajes y el paseo sobre brasas al final. Está pensado para turistas, pero dura alrededor de una hora y encaja bien antes de la ceremonia de la tarde en el Templo del Diente.",
+        "come": "En la Kandyan Art Association, en el lado norte del lago, a pocos minutos a pie del templo. Entradas en taquilla.",
+        "quando": "Al final de la tarde, antes de la ceremonia.",
+        "tempo": "1 hora",
+        "lat": 7.29204,
+        "lng": 80.64241
+      },
+      {
+        "nome": "Museo Nacional de Kandy",
+        "testo": "En el antiguo palacio de las reinas, junto al Templo del Diente, reúne objetos del reino de Kandy: armas, joyas, utensilios y documentos hasta la llegada de los británicos en 1815.",
+        "come": "A pie, dentro del complejo del templo.",
+        "tempo": "45 minutos",
+        "lat": 7.29472,
+        "lng": 80.64083
+      },
+      {
+        "nome": "Natha Devale y Vishnu Devale",
+        "testo": "Junto al Templo del Diente están los santuarios de las divinidades protectoras de la ciudad: el Natha Devale, del siglo XIV, es uno de los edificios más antiguos de Kandy. Budismo y cultos de origen hindú conviven en el mismo patio, y de aquí parte la procesión de la Esala Perahera.",
+        "come": "A pie, saliendo del Templo del Diente hacia el norte. Se entra descalzo.",
+        "tempo": "30 minutos",
+        "lat": 7.2942,
+        "lng": 80.6405
       },
       {
         "nome": "Mercado de pescado de Kandy",
@@ -478,17 +653,61 @@ export const destinazioniSriLanka: Destinazione[] = [
         "tempo": "1 hora"
       },
       {
+        "nome": "Reserva forestal de Udawattakele",
+        "testo": "El bosque detrás del Templo del Diente, antes reservado a los reyes de Kandy. Senderos entre árboles, monos, muchas aves y un estanque, a pocos minutos a pie del centro: el sitio ideal para descansar del tráfico.",
+        "come": "A pie desde el templo, subiendo por detrás del complejo; la entrada se paga en la puerta.",
+        "quando": "Temprano por la mañana, por el fresco y las aves.",
+        "tempo": "1-2 horas",
+        "lat": 7.29944,
+        "lng": 80.63889,
+        "consiglio": "No llevar comida a la vista: los monos están acostumbrados a los visitantes."
+      },
+      {
+        "nome": "Ceylon Tea Museum",
+        "testo": "En una antigua fábrica de té de 1925 en las colinas de Hantana, cuenta la historia del té de Ceilán con la maquinaria original. En la última planta hay un salón de té con vistas a las colinas.",
+        "come": "En tuk-tuk desde el centro, unos 15-20 minutos de subida por la carretera de Hantana.",
+        "tempo": "1 hora y media",
+        "lat": 7.26861,
+        "lng": 80.63266
+      },
+      {
+        "nome": "Cementerio de la guarnición británica",
+        "testo": "Un pequeño cementerio colonial detrás del Templo del Diente, con las tumbas de británicos muertos en Kandy en el siglo XIX, muchos muy jóvenes. Las lápidas cuentan la vida de la colonia; es un rincón tranquilo y poco visitado.",
+        "come": "A pie, en subida desde la calle detrás del templo. Donativo al guarda.",
+        "tempo": "30 minutos",
+        "lat": 7.2928,
+        "lng": 80.6432
+      },
+      {
+        "nome": "Templo de Lankatilaka",
+        "testo": "Un templo del siglo XIV sobre un espolón rocoso al oeste de Kandy, con un santuario budista y otro dedicado a divinidades hindúes bajo el mismo techo. Es el más espectacular de los tres templos del oeste, junto con Gadaladeniya y Embekke.",
+        "come": "En tuk-tuk o coche desde Kandy, una media hora; los tres templos están cerca y se ven en una sola mañana.",
+        "quando": "Por la mañana.",
+        "tempo": "45 minutos",
+        "lat": 7.23384,
+        "lng": 80.56503
+      },
+      {
+        "nome": "Templo de Gadaladeniya",
+        "testo": "Un templo de piedra del siglo XIV, construido con ayuda de arquitectos del sur de la India: su estilo dravídico lo distingue de casi todos los demás templos de la isla.",
+        "come": "En tuk-tuk o coche desde Kandy, en la ruta de los templos del oeste.",
+        "tempo": "30 minutos",
+        "lat": 7.25731,
+        "lng": 80.55608
+      },
+      {
+        "nome": "Embekke Devalaya",
+        "testo": "Famoso por las columnas de madera de la sala de los tambores, talladas con bailarines, soldados, águilas bicéfalas y animales: una de las obras maestras de la talla de Kandy.",
+        "come": "En tuk-tuk o coche desde Kandy, en la ruta de los templos del oeste.",
+        "tempo": "30 minutos",
+        "lat": 7.21792,
+        "lng": 80.56772
+      },
+      {
         "nome": "Ranweli Spice Garden",
         "testo": "Una visita a la plantación de especias con almuerzo, en la carretera de Dambulla a Kandy.",
         "come": "Parada durante el traslado desde Dambulla, unas 2 horas en furgoneta.",
         "tempo": "1,5 horas"
-      },
-      {
-        "nome": "Buda de Bahirawakanda y el lago",
-        "testo": "Una gran estatua de Buda en una colina sobre la ciudad, con vistas sobre Kandy y el lago artificial en su centro.",
-        "come": "En tuk-tuk desde el centro, pocos minutos.",
-        "quando": "Atardecer.",
-        "tempo": "1 hora"
       }
     ],
     programmi: [
@@ -500,18 +719,41 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Final de la tarde: Templo del Diente, llegando con antelación",
           "Ceremonia vespertina"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: mercado y lago, danzas kandyanas al final de la tarde, ceremonia en el Templo del Diente",
+          "Día 2: jardín botánico de Peradeniya por la mañana, Ceylon Tea Museum, atardecer en el Buda de Bahirawakanda"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Templo del Diente con la ceremonia de las 9:30, museo nacional y devales, ceremonia de la tarde",
+          "Día 2: Peradeniya y los templos de Gadaladeniya, Lankatilaka y Embekke",
+          "Día 3: Udawattakele por la mañana, Ceylon Tea Museum, danzas kandyanas y Bahirawakanda al atardecer (o la excursión a Ambuluwawa)"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Fuera del centro",
         "perChi": "tranquilidad",
-        "testo": "Hoteles en las colinas como el Rivendell, con vistas, pero lejos del templo. Se duerme mejor, aunque a primera hora se oye un templo cercano."
+        "testo": "Hoteles en las colinas como el Rivendell, con vistas, pero lejos del templo. Se duerme mejor, aunque a primera hora se oye un templo cercano.",
+        "fascia": "40-100 €"
       },
       {
         "nome": "Cerca del lago",
         "perChi": "visitas a pie",
-        "testo": "Hoteles y casas de huéspedes a pocos minutos del templo y del mercado. Más tráfico y ruido."
+        "testo": "Hoteles y casas de huéspedes a pocos minutos del templo y del mercado. Más tráfico y ruido.",
+        "fascia": "25-70 €"
+      },
+      {
+        "nome": "Hoteles de lujo fuera de la ciudad",
+        "perChi": "piscina y comodidad",
+        "testo": "Earl's Regency y The Grand Kandyan, con piscina y vistas a las colinas. Para ir al centro hace falta tuk-tuk o coche.",
+        "fascia": "120-250 €"
       }
     ],
     sapori: [
@@ -537,6 +779,52 @@ export const destinazioniSriLanka: Destinazione[] = [
       "El templo no es un museo: en los días de fiesta y de luna llena (poya) está lleno de peregrinos.",
       "Los «tours de especias» de pago venden productos a precios altos: compara con el mercado.",
       "Acuerda el precio del tuk-tuk antes de subir."
+    ],
+    gite: [
+      {
+        "nome": "Kitulgala y el rafting en el Kelani",
+        "distanza": "unas 2 horas en coche",
+        "come": "En furgoneta o coche con conductor; el rafting se organiza con un operador local o con el DMC.",
+        "testo": "El río donde se rodó El puente sobre el río Kwai, con rápidos aptos también para quien nunca ha hecho rafting. Con el operador se añaden barranquismo, saltos en cascada y una caminata por la jungla. Queda de camino al Adam's Peak."
+      },
+      {
+        "nome": "Torre de Ambuluwawa",
+        "distanza": "alrededor de 1 hora en coche",
+        "come": "En coche o tuk-tuk por Gampola, luego una carretera estrecha hasta la cima de la colina.",
+        "testo": "Una torre en espiral en lo alto de una colina, con una escalera exterior que se estrecha hasta la punta y vistas de 360 grados sobre las montañas. En la colina conviven lugares de culto de cuatro religiones."
+      },
+      {
+        "nome": "Montes Knuckles",
+        "distanza": "unas 2 horas en coche",
+        "come": "Con conductor hasta Riverston o Deanston, y luego a pie con un guía local.",
+        "testo": "La cordillera de los Knuckles, patrimonio de la UNESCO junto con las tierras altas centrales, tiene senderos entre bosques nubosos, cascadas y aldeas. Desde Kandy da para una jornada de trekking."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Kandy?",
+        "risposta": "Un día basta para el Templo del Diente, el lago y la ceremonia de la tarde. Con dos se añaden el jardín de Peradeniya y el museo del té; con tres, los templos del oeste o una excursión."
+      },
+      {
+        "domanda": "¿A qué hora es la ceremonia del Templo del Diente?",
+        "risposta": "Las ceremonias son a las 5:30, a las 9:30 y a las 18:30 (web oficial, 2026). Para la de la tarde conviene hacer cola desde media tarde."
+      },
+      {
+        "domanda": "¿Cómo hay que vestir en el Templo del Diente?",
+        "risposta": "Hombros y rodillas cubiertos, y se entra descalzo. No se admiten pantalones cortos ni camisetas de tirantes; en la entrada hay ropa adecuada."
+      },
+      {
+        "domanda": "¿Cómo se va de Kandy a Ella?",
+        "risposta": "En tren por la línea de las tierras altas, unas 7 horas sobre el papel y a menudo más: es el trayecto más panorámico de la isla. Los asientos reservados hay que comprarlos con mucha antelación; si no, se va en coche con conductor."
+      },
+      {
+        "domanda": "¿Cuándo es la Esala Perahera?",
+        "risposta": "La gran procesión de Kandy se celebra entre julio y agosto, en fechas que cambian cada año según el calendario lunar. Esos días los hoteles se llenan y los precios suben: conviene reservar mucho antes."
+      },
+      {
+        "domanda": "¿Mejor dormir junto al lago o en las colinas?",
+        "risposta": "Junto al lago se va a pie al templo y al mercado, con más tráfico y ruido. En las colinas se duerme mejor y con vistas, pero cada desplazamiento es en tuk-tuk."
+      }
     ],
     esperienzeSlugs: ['tempio-del-dente'],
     tripSlugs: ['sri-lanka-2023'],
@@ -766,10 +1054,10 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveDormire:
       "Dormimos en el 88th Hotel, 4/5 en Tripadvisor y uno de los sitios más recomendados de la zona: céntrico, cerca de Ella Rock y del Nine Arches Bridge, con una acogida calurosa. Mejor ir con las expectativas correctas: sin aire acondicionado, sin ascensor, cama rígida con solo las sábanas.\n\nEconómicos: Ella Alpine Resort, Rock Side Inn. Gama media: Arawe Retreat, Zion View Ella Green Retreat. Lujo: 98 Acres Resort & Spa, Nine Skies.",
     doveMangiare: 'Clase de cocina con cena del DMC; copas después de cenar en el One Love Ella (ojo con las bebidas que ofrecen en la mesa, que a menudo acaban en la cuenta).',
-    comeArrivare: 'Con el tren panorámico desde Nuwara Eliya (estación de Nanu Oya): sobre el papel 3 horas, pero los horarios reales son imprevisibles.',
+    comeArrivare: "La forma clásica es el tren panorámico desde Nanu Oya, la estación de Nuwara Eliya: sobre el papel 3 horas, pero los horarios reales son imprevisibles. Desde Kandy el mismo tren tarda unas 7 horas sobre el papel. En coche con conductor se tarda unas 2 horas y media desde Nuwara Eliya y unas 2 horas desde Yala; desde el aeropuerto de Colombo es un día entero de carretera. Los asientos reservados se compran en el portal de Sri Lanka Railways.",
     comeSpostarsi: 'A pie para los miradores cercanos al pueblo.',
     periodoMigliore: 'no tengo indicaciones precisas sobre la mejor temporada para Ella: nosotros estuvimos en noviembre',
-    costi: 'Tirolina Flying Ravana unos 20 €.',
+    costi: "Tirolina Flying Ravana unos 20 € (2023); Nine Arches Bridge gratis. Presupuesto diario orientativo por persona: bajo 25-35 € (casa de huéspedes en el pueblo, rice and curry, tuk-tuk), medio 60-100 € (hotel en las colinas, clase de cocina, una actividad), alto desde 200 € (resort de lujo, conductor privado).",
     erroriDaEvitare: ['Esperar para reservar los billetes del tren panorámico: hay que sacarlos con mucha antelación, porque se agotan enseguida, sobre todo en temporada alta'],
     miaEsperienza:
       "El tren panorámico llegó con horas de retraso y sin nada de comer a bordo. Los valles de té a pérdida de vista desde la ventanilla, sin embargo, están entre las imágenes más bonitas de todo el viaje. Hay que subirse con el espíritu adecuado: los retrasos son lo normal.",
@@ -779,8 +1067,8 @@ export const destinazioniSriLanka: Destinazione[] = [
         "testo": "El tramo más famoso del ferrocarril de la meseta, entre valles de té hasta donde alcanza la vista. El tren llegó con horas de retraso y sin nada de comer a bordo, pero las imágenes desde la ventanilla están entre las más bellas del viaje.",
         "come": "Se sube en la estación de Nanu Oya, para Nuwara Eliya; sobre el papel 3 horas, pero los horarios reales son imprevisibles.",
         "quando": "Por la mañana. Los asientos reservados se reservan en el portal oficial de Sri Lanka Railways y se recogen en la taquilla con el código y el pasaporte: hay que sacarlos con mucha antelación, porque se agotan enseguida, sobre todo en temporada alta.",
-        "url": "https://seatreservation.railway.gov.lk/mtktwebslr/",
         "tempo": "3 horas sobre el papel (viaje de 2023), a menudo muchas más",
+        "url": "https://seatreservation.railway.gov.lk/mtktwebslr/",
         "consiglio": "Subir con el espíritu adecuado: los retrasos son la norma. Lleva comida y agua."
       },
       {
@@ -789,22 +1077,75 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "En Demodara, entre las estaciones de Ella y Demodara: en tuk-tuk y luego a pie por un sendero.",
         "quando": "Cuando pasa un tren: pregunta los horarios en la casa de huéspedes.",
         "tempo": "1 hora",
+        "costo": "Gratis (viaje de 2023)",
+        "lat": 6.87667,
+        "lng": 81.06111,
         "consiglio": "No camines por las vías cuando llega un tren."
+      },
+      {
+        "nome": "Little Adam's Peak",
+        "testo": "La caminata más fácil y más bonita de Ella: un sendero entre plantaciones de té lleva a la cima de una colina con vistas al valle y al Ella Gap. El nombre viene de su forma, que recuerda a la del Adam's Peak.",
+        "come": "A pie desde el pueblo por la carretera de Passara, y luego el sendero entre el té: unos 45 minutos de subida sin dificultad.",
+        "quando": "Al amanecer o temprano por la mañana, antes del calor y de las nubes.",
+        "tempo": "2 horas ida y vuelta",
+        "lat": 6.86505,
+        "lng": 81.06302
+      },
+      {
+        "nome": "Ella Rock",
+        "testo": "Una subida más larga y exigente, entre vías, plantaciones y bosque, hasta un espolón de roca sobre el valle. La vista compensa el esfuerzo, pero el sendero no siempre está señalizado.",
+        "come": "A pie desde Ella, en parte a lo largo de la vía; quien no quiera perderse puede ir con un guía local.",
+        "quando": "Salir al amanecer: a media mañana las nubes suelen tapar la vista.",
+        "tempo": "4-5 horas ida y vuelta",
+        "lat": 6.85472,
+        "lng": 81.05194,
+        "consiglio": "Desconfiar de quien señala «atajos» en el sendero y luego pide dinero para volver al camino correcto."
+      },
+      {
+        "nome": "Cascadas de Ravana",
+        "testo": "Una cascada escalonada de unos 25 metros junto a la carretera de Wellawaya, a unos 6 km de Ella. La leyenda del Ramayana la relaciona con el rey Ravana, que habría escondido aquí a la princesa Sita.",
+        "come": "En tuk-tuk o autobús hacia Wellawaya: se ve desde la carretera.",
+        "quando": "Durante y después de las lluvias, cuando lleva más agua.",
+        "tempo": "30 minutos",
+        "lat": 6.84083,
+        "lng": 81.05444
       },
       {
         "nome": "Lipton's Seat",
         "testo": "El mirador sobre las plantaciones de té de la finca de Dambatenne, que lleva el nombre de Thomas Lipton, el rey del té. No está en Ella sino encima de Haputale: merece la excursión si el cielo está despejado.",
         "come": "En furgoneta o tuk-tuk desde Ella hasta Haputale, y luego subiendo por la carretera de la finca de Dambatenne.",
         "quando": "Temprano por la mañana, antes de las nubes.",
-        "tempo": "medio día desde Ella"
+        "tempo": "medio día desde Ella",
+        "lat": 6.78068,
+        "lng": 81.0155
       },
       {
         "nome": "Tirolina Flying Ravana",
         "testo": "Una tirolina de dos cables de 550 metros sobre las colinas de Ella. Sale de Mini Adam's Peak y pasa por encima de las plantaciones de té.",
         "come": "En tuk-tuk desde Ella, pocos minutos (unos 15 en el viaje de 2023).",
-        "url": "https://www.flyingravana.com/",
         "tempo": "1,5 horas",
-        "costo": "Unos 20 € (del viaje de 2023)"
+        "costo": "Unos 20 € (del viaje de 2023)",
+        "lat": 6.86598,
+        "lng": 81.06207,
+        "url": "https://www.flyingravana.com/"
+      },
+      {
+        "nome": "Cueva de Ravana",
+        "testo": "Una cueva en la roca sobre el valle, también ligada a la leyenda de Ravana y Sita. Dentro hay poco que ver: merece la pena sobre todo por la subida y las vistas.",
+        "come": "En tuk-tuk hasta la base y luego una escalinata larga y empinada.",
+        "quando": "Por la mañana, antes del calor.",
+        "tempo": "1 hora",
+        "lat": 6.86438,
+        "lng": 81.04854
+      },
+      {
+        "nome": "Fábrica de té Uva Halpewatte",
+        "testo": "Una fábrica de té todavía en funcionamiento, en las colinas al norte de Ella. La visita guiada sigue el proceso desde la hoja recién recogida hasta el té envasado y termina con una degustación.",
+        "come": "En tuk-tuk desde Ella, por una carretera de montaña.",
+        "quando": "Por la mañana, cuando la fábrica procesa las hojas.",
+        "tempo": "1 hora",
+        "lat": 6.88956,
+        "lng": 81.03477
       }
     ],
     programmi: [
@@ -823,18 +1164,34 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Día 1: tren panorámico y Nine Arches Bridge",
           "Día 2: Lipton's Seat al amanecer (encima de Haputale), luego tirolina y masaje por la tarde"
         ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: tren panorámico desde Nanu Oya y Nine Arches Bridge al paso del tren",
+          "Día 2: Little Adam's Peak al amanecer, tirolina, fábrica de té de Halpewatte, clase de cocina por la noche",
+          "Día 3: Ella Rock al amanecer y cascadas de Ravana por la tarde, o la excursión a Lipton's Seat"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Centro de Ella",
         "perChi": "comodidad y vida nocturna",
-        "testo": "Casas de huéspedes como el 88th Hotel, cerca de Ella Rock y del Nine Arches Bridge. Ruidoso por la noche en la calle principal."
+        "testo": "Casas de huéspedes como el 88th Hotel, cerca de Ella Rock y del Nine Arches Bridge. Ruidoso por la noche en la calle principal.",
+        "fascia": "25-70 €"
       },
       {
         "nome": "Colinas fuera del centro",
         "perChi": "quien busque vistas y calma",
-        "testo": "Resorts y villas entre las plantaciones, con amplias vistas. Hace falta tuk-tuk para ir al pueblo."
+        "testo": "Resorts y villas entre las plantaciones, con amplias vistas. Hace falta tuk-tuk para ir al pueblo.",
+        "fascia": "60-150 €"
+      },
+      {
+        "nome": "Resorts de lujo",
+        "perChi": "una noche especial",
+        "testo": "98 Acres Resort & Spa, entre las plantaciones bajo el Little Adam's Peak, y Nine Skies, más aislado. Bungalós con vistas y piscina; al pueblo se llega en tuk-tuk.",
+        "fascia": "180-350 €"
       }
     ],
     sapori: [
@@ -860,6 +1217,52 @@ export const destinazioniSriLanka: Destinazione[] = [
       "One Love Ella y locales similares: las bebidas que ofrecen en la mesa suelen acabar en la cuenta.",
       "Algunas habitaciones no tienen aire acondicionado, ascensor ni camas blandas: lee bien la descripción antes de reservar.",
       "En las vías del Nine Arches Bridge no te quedes quieto cuando llega un tren."
+    ],
+    gite: [
+      {
+        "nome": "Cascadas de Diyaluma",
+        "distanza": "alrededor de 1 hora y media en coche",
+        "come": "En coche o tuk-tuk por Wellawaya y Koslanda; a las pozas de arriba se sube a pie, mejor con un guía del pueblo.",
+        "testo": "La segunda cascada más alta de Sri Lanka, unos 220 metros. Arriba hay pozas naturales para bañarse con vistas a la llanura."
+      },
+      {
+        "nome": "Buduruvagala",
+        "distanza": "alrededor de 1 hora en coche",
+        "come": "En coche por Wellawaya y luego unos kilómetros de carretera secundaria.",
+        "testo": "Siete figuras talladas en la roca hacia el siglo X, con un Buda de pie de unos 15 metros, en medio del bosque y casi sin turistas."
+      },
+      {
+        "nome": "Parque Nacional de Yala",
+        "distanza": "unas 2 horas en coche",
+        "come": "Con conductor, saliendo muy temprano; el safari se hace en jeep con guía.",
+        "testo": "El parque con la mayor densidad de leopardos del mundo, además de elefantes, cocodrilos, búfalos y muchas aves. El safari dura unas cuatro horas y costaba 12.000-16.000 LKR por jeep más la entrada (viaje de 2023)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Ella?",
+        "risposta": "Un día basta para el tren y el Nine Arches Bridge. Con dos o tres se añaden las caminatas del amanecer (Little Adam's Peak, Ella Rock), la tirolina y la excursión a Lipton's Seat."
+      },
+      {
+        "domanda": "¿Cómo se reserva el tren a Ella?",
+        "risposta": "Los asientos reservados se compran en el portal oficial de Sri Lanka Railways y se recogen en taquilla con el código y el pasaporte. Se agotan pronto, sobre todo en temporada alta: conviene reservar en cuanto abren las ventas."
+      },
+      {
+        "domanda": "¿Es puntual el tren panorámico?",
+        "risposta": "Casi nunca: los retrasos de horas son lo normal y a bordo no hay nada de comer. Mejor no fijar conexiones ajustadas y llevar agua y comida."
+      },
+      {
+        "domanda": "¿Little Adam's Peak o Ella Rock?",
+        "risposta": "Little Adam's Peak es fácil, unos 45 minutos de subida, apto para todos. Ella Rock es más largo y está peor señalizado, pero es más salvaje: para quien tiene tiempo y piernas."
+      },
+      {
+        "domanda": "¿Cuándo pasa el tren por el Nine Arches Bridge?",
+        "risposta": "Los trenes pasan varias veces al día, entre la mañana y la última hora de la tarde, pero los horarios no son fiables. Conviene preguntar en la casa de huéspedes y esperar en el mirador con margen."
+      },
+      {
+        "domanda": "¿Se puede ir a Yala en el día desde Ella?",
+        "risposta": "Sí: son unas 2 horas de carretera, saliendo muy temprano para el safari de la mañana. Muchos siguen luego hacia la costa sur."
+      }
     ],
     esperienzeSlugs: ['treno-panoramico-ella'],
     tripSlugs: ['sri-lanka-2023'],

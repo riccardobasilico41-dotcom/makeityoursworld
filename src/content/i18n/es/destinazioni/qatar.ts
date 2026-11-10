@@ -32,13 +32,13 @@ export const destinazioniQatar: Destinazione[] = [
     doveMangiare:
       "El Souq Waqif es la zona de la ciudad con más restaurantes, de cocina levantina, iraní y catarí, para todos los bolsillos. Hay que probar el machboos, la carne especiada con arroz, y el karak chai en los quioscos: el té con leche especiado que aquí se bebe a todas horas y cuesta pocos céntimos. Para gastar poco, en los barrios donde viven los trabajadores del subcontinente indio hay restaurantes excelentes y baratos.",
     comeArrivare:
-      "Vuelo al Hamad International (DOH), hub de Qatar Airways y uno de los mejores aeropuertos del mundo, conectado con el centro por el metro en unos veinte minutos.",
+      "Vuelo a Hamad International (DOH), hub de Qatar Airways y uno de los mejores aeropuertos del mundo. El metro, línea roja, llega a Msheireb, en el centro, en unos 20 minutos por 2 QAR en clase estándar; el taxi Karwa cuesta unos 40-60 QAR y también funciona Uber. Para los ciudadanos de la UE el visado a la llegada es gratuito. El stopover de Qatar Airways se reserva en el portal Discover Qatar con el código de reserva del vuelo.",
     comeSpostarsi:
       "Metro reciente, económico y climatizado, que cubre todo lo necesario; para lo demás Karwa Taxi y Uber. Caminar por la Corniche es agradable solo de noviembre a marzo.",
     periodoMigliore:
       "de noviembre a marzo. Entre junio y septiembre se superan los 45 grados con una humedad altísima, y una escala en verano se reduce a museos y centros comerciales.",
     costi:
-      "El Museo de Arte Islámico y el Museo Nacional tienen entradas contenidas; el Souq Waqif es gratis; el metro cuesta pocos riyales. Con el programa de escala el hotel parte de cifras simbólicas.",
+      "Presupuesto diario orientativo por persona, hotel incluido: bajo 60-90 € con el programa stopover, medio 140-220 €, alto más de 350 €. Museo de Arte Islámico 50 QAR para no residentes; Zoco Waqif, Msheireb Museums y Katara gratuitos; metro 2 QAR por viaje. Con el programa stopover el hotel parte de unos 14 dólares por persona y noche.",
     erroriDaEvitare: [
       "No reservar la escala en el portal dedicado: se reserva por separado del vuelo, con el código de reserva, y mucha gente no sabe que existe",
       "Programarla en verano, cuando estar al aire libre es impracticable",
@@ -100,8 +100,12 @@ export const destinazioniQatar: Destinazione[] = [
         "nome": "Museo de Arte Islámico",
         "testo": "El edificio de piedra caliza color crema de I. M. Pei, que lo proyectó a los 91 años, inaugurado en 2008 en una isla artificial frente a la Corniche. Dentro, manuscritos, cerámicas, metales y tejidos de todo el mundo musulmán.",
         "come": "Taxi o Uber desde el centro; el museo indica también un autobús lanzadera gratuito. Se camina por el parque.",
-        "quando": "Cerrado los miércoles. De sábado a martes 9-19, jueves 9-21, viernes 13.30-19 (2026); cierres extraordinarios en la web. Al atardecer, desde la escalinata exterior, se mira el skyline de West Bay.",
+        "quando": "Al atardecer, desde la escalinata exterior, se mira el skyline de West Bay.",
         "tempo": "2-3 horas",
+        "costo": "50 QAR para no residentes, unos 12 € (2026)",
+        "orari": "De sábado a martes 9-19, jueves 9-21, viernes 13.30-19; cerrado los miércoles (2026).",
+        "lat": 25.29502,
+        "lng": 51.53927,
         "url": "https://mia.org.qa/en/visit/",
         "consiglio": "Subir la escalinata de atrás al final de la visita: es la postal de la ciudad."
       },
@@ -111,14 +115,20 @@ export const destinazioniQatar: Destinazione[] = [
         "come": "Metro, línea dorada, hasta Souq Waqif, o Msheireb, donde se cruzan las tres líneas; se camina por los callejones.",
         "quando": "Por la noche, cuando los callejones se animan. El zoco de los halcones tiene horario partido, de mañana y de tarde: consultarlo en Visit Qatar.",
         "tempo": "2 horas",
+        "costo": "Entrada libre",
+        "lat": 25.28738,
+        "lng": 51.53321,
         "consiglio": "El lugar donde mejor se ve la vida catarí, sobre todo por la noche."
       },
       {
         "nome": "Museo Nacional de Catar",
         "testo": "El edificio de Jean Nouvel con discos que se cortan inspirados en la rosa del desierto. Dentro, la historia del país del desierto a las perlas y al gas.",
         "come": "Metro hasta la estación National Museum of Qatar, o taxi.",
-        "quando": "Cerrado los martes. Los demás días 9-19, jueves hasta las 21, viernes 13.30-19; última entrada 45 minutos antes del cierre (2026). Algunas salas pueden estar cerradas por obras. Mejor por la mañana.",
+        "quando": "Mejor por la mañana. Algunas salas pueden estar cerradas por obras.",
         "tempo": "2 horas",
+        "orari": "De sábado a lunes y miércoles 9-19, jueves 9-21, viernes 13.30-19; cerrado los martes; última entrada 45 minutos antes del cierre (2026).",
+        "lat": 25.28847,
+        "lng": 51.54926,
         "url": "https://nmoq.org.qa/en/visit/"
       },
       {
@@ -126,16 +136,22 @@ export const destinazioniQatar: Destinazione[] = [
         "testo": "El paseo marítimo en media luna sobre la bahía, con los dhow, los barcos de madera tradicionales, que hacen breves paseos de pago.",
         "come": "A pie desde el Museo de Arte Islámico.",
         "quando": "Atardecer.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "costo": "Paseo libre; los paseos en dhow se negocian en el muelle",
+        "lat": 25.29139,
+        "lng": 51.53722
       },
       {
-        "nome": "Mathaf, museo árabe de arte moderno",
-        "testo": "El museo de Qatar Museums dedicado al arte moderno y contemporáneo del mundo árabe, en una antigua escuela de Education City reformada por Jean-François Bodin. Las exposiciones cambian a menudo y reúnen a artistas del mundo árabe que en Europa se ven poco.",
-        "come": "En taxi o Uber desde el centro, o metro, línea verde, hasta Education City.",
-        "quando": "Horarios en la web de Qatar Museums. Bueno para las horas de calor.",
-        "tempo": "1-1,5 horas",
-        "costo": "Entrada libre para todos, con entrada que reservar (2026)",
-        "url": "https://qm.org.qa/tickets/select-tickets/"
+        "nome": "Msheireb Museums",
+        "testo": "Cuatro casas históricas restauradas en el barrio reconstruido de Msheireb, junto al Zoco Waqif. Bin Jelmood House cuenta la esclavitud en el Golfo y el océano Índico, Company House los primeros trabajadores del petróleo, las otras dos la vida de las familias y la historia del barrio. Es la Doha que no sale en las postales.",
+        "come": "Metro hasta Msheireb, donde se cruzan las tres líneas, y luego a pie.",
+        "quando": "Las horas de calor, antes de pasar al zoco por la noche.",
+        "tempo": "1,5-2 horas",
+        "costo": "Entrada libre (2026)",
+        "orari": "De lunes a jueves 9-17, viernes 15-21; cerrado los domingos (2026).",
+        "lat": 25.28689,
+        "lng": 51.52889,
+        "url": "https://msheirebmuseums.com/en/visit/"
       },
       {
         "nome": "Katara Cultural Village",
@@ -144,25 +160,97 @@ export const destinazioniQatar: Destinazione[] = [
         "quando": "Por la noche, cuando baja el calor y se encienden las luces del anfiteatro.",
         "tempo": "1,5-2 horas",
         "costo": "Entrada libre al barrio",
+        "lat": 25.36033,
+        "lng": 51.52636,
         "url": "https://www.katara.net/",
         "consiglio": "Mirar el calendario de eventos: en el anfiteatro hay a menudo conciertos y festivales."
+      },
+      {
+        "nome": "Mathaf, museo árabe de arte moderno",
+        "testo": "El museo de Qatar Museums dedicado al arte moderno y contemporáneo del mundo árabe, en una antigua escuela de Education City reformada por Jean-François Bodin. Las exposiciones cambian a menudo y reúnen a artistas del mundo árabe que en Europa se ven poco.",
+        "come": "En taxi o Uber desde el centro, o metro, línea verde, hasta Education City.",
+        "quando": "Horarios en la web de Qatar Museums. Bueno para las horas de calor.",
+        "tempo": "1-1,5 horas",
+        "costo": "Entrada libre para todos, con entrada que reservar (2026)",
+        "lat": 25.3106,
+        "lng": 51.4197,
+        "url": "https://qm.org.qa/tickets/select-tickets/"
+      },
+      {
+        "nome": "3-2-1 Qatar Olympic and Sports Museum",
+        "testo": "El museo del deporte de Qatar Museums, junto al Khalifa International Stadium en la Aspire Zone. Recorre la historia del deporte y de los Juegos Olímpicos, con mucho espacio para el fútbol y el Mundial de 2022, y es interactivo: gusta también a quien no sigue el deporte.",
+        "come": "Metro, línea dorada, hasta Sports City, o taxi.",
+        "quando": "Las horas de calor. Horarios y entradas en la web de Qatar Museums.",
+        "tempo": "2 horas",
+        "lat": 25.26375,
+        "lng": 51.45017,
+        "url": "https://qm.org.qa/"
+      },
+      {
+        "nome": "Biblioteca Nacional de Catar",
+        "testo": "La biblioteca nacional proyectada por Rem Koolhaas y OMA en la Education City: una única sala enorme con estanterías escalonadas, como un anfiteatro de libros. Bajo el nivel del suelo está la sección de manuscritos y colecciones históricas.",
+        "come": "Metro, línea verde, hasta Qatar National Library, y luego a pie.",
+        "quando": "Las horas de calor; se combina con el Mathaf, en la misma zona.",
+        "tempo": "1 hora",
+        "orari": "De sábado a jueves 8-20, viernes 16-20 (2026).",
+        "url": "https://www.qnl.qa/en"
+      },
+      {
+        "nome": "Al Bidda Park",
+        "testo": "El gran parque a lo largo de la Corniche entre el centro y West Bay, con césped, paseos arbolados y recorridos para correr y montar en bici. Es donde las familias de Doha pasan las tardes de invierno.",
+        "come": "Metro, línea roja, hasta Al Bidda o Corniche, y luego a pie.",
+        "quando": "Última hora de la tarde y noche, de noviembre a marzo.",
+        "tempo": "1 hora",
+        "costo": "Entrada libre",
+        "lat": 25.30087,
+        "lng": 51.51738
+      },
+      {
+        "nome": "The Pearl-Qatar",
+        "testo": "Una isla artificial construida sobre los antiguos bancos de perlas, con puertos deportivos, edificios de estilo mediterráneo y el colorido barrio de Qanat Quartier, inspirado en Venecia. Turística y cuidada, buena para un paseo y una cena.",
+        "come": "Taxi o Uber desde West Bay.",
+        "quando": "Por la noche.",
+        "tempo": "1,5-2 horas",
+        "costo": "Entrada libre",
+        "lat": 25.36861,
+        "lng": 51.55194
+      },
+      {
+        "nome": "Lusail y Place Vendôme",
+        "testo": "La ciudad nueva al norte de Doha, construida desde cero para el Mundial de 2022, con el estadio de la final, el Lusail Boulevard y el gran centro comercial Place Vendôme, que tiene un espectáculo de fuentes en su interior. Interesa para entender hacia dónde va el país.",
+        "come": "Metro, línea roja, hacia Lusail, o el tranvía de Lusail; taxi.",
+        "quando": "Por la noche, cuando se iluminan el bulevar y las torres.",
+        "tempo": "2 horas",
+        "costo": "Entrada libre",
+        "lat": 25.40502,
+        "lng": 51.52079
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: Museo de Arte Islámico",
-          "Almuerzo en Souq Waqif",
-          "Tarde: Museo Nacional",
-          "Atardecer: Corniche y dhow, noche en el zoco"
+          "Mañana: Museo Nacional de Catar (cerrado los martes)",
+          "Mediodía: Msheireb Museums y comida en el Zoco Waqif",
+          "Tarde: Museo de Arte Islámico (cerrado los miércoles), y luego la escalinata al atardecer",
+          "Noche: Corniche, paseo en dhow y cena en el Zoco Waqif"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: como arriba",
-          "Día 2: excursión en 4x4 al mar interior (ver desierto y norte)"
+          "Día 1: como el programa de un día",
+          "Día 2, mañana: Education City, con la Biblioteca Nacional de Catar y el Mathaf",
+          "Día 2, tarde: 3-2-1 Qatar Olympic and Sports Museum",
+          "Día 2, noche: Katara Cultural Village y The Pearl"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2: como arriba",
+          "Día 3: en 4x4 al mar interior de Khor Al Adaid hasta el atardecer, o el norte con Al Zubarah y las placas de Richard Serra",
+          "Noche: Lusail y el bulevar"
         ]
       }
     ],
@@ -170,17 +258,26 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Souq Waqif / Msheireb",
         "perChi": "quien quiere estar cerca de todo",
-        "testo": "Hoteles boutique y cadenas cerca del zoco y del metro."
+        "testo": "Hoteles boutique y cadenas cerca del zoco y del metro.",
+        "fascia": "90-220 €"
       },
       {
         "nome": "West Bay",
         "perChi": "quien quiere rascacielos y hoteles de lujo",
-        "testo": "Skyline moderno, lejos del zoco."
+        "testo": "Skyline moderno, lejos del zoco.",
+        "fascia": "100-250 €"
       },
       {
         "nome": "The Pearl",
         "perChi": "quien quiere playa y restaurantes",
-        "testo": "Isla artificial con puerto deportivo y locales, turística y cara."
+        "testo": "Isla artificial con puerto deportivo y locales, turística y cara.",
+        "fascia": "150-350 €"
+      },
+      {
+        "nome": "Lusail",
+        "perChi": "quien quiere hoteles nuevos y el mar",
+        "testo": "Hoteles recientes entre el bulevar y la marina, conectados por metro y tranvía, pero a 20-30 minutos del centro histórico.",
+        "fascia": "110-280 €"
       }
     ],
     sapori: [
@@ -208,6 +305,52 @@ export const destinazioniQatar: Destinazione[] = [
       "Normas de vestimenta y comportamiento en público: comprobar los canales oficiales."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Khor Al Adaid, el mar interior",
+        "distanza": "unas 1h30 desde Doha, la última media hora sobre arena",
+        "come": "Solo en 4x4 con conductor, reservado con un operador; el precio es por coche.",
+        "testo": "Un brazo del Golfo que entra en el desierto, con las dunas que bajan directamente al agua y Arabia Saudí en la otra orilla. Conviene quedarse hasta el atardecer (hay una ficha dedicada)."
+      },
+      {
+        "nome": "Al Zubarah y el norte",
+        "distanza": "unos 100 km al noroeste",
+        "come": "Coche de alquiler para un día entero; el último tramo hacia las placas de Serra es de tierra.",
+        "testo": "El fuerte y la ciudad portuaria de Al Zubarah, patrimonio de la UNESCO, la aldea abandonada de Al Jumail y las cuatro placas de acero de Richard Serra en el desierto de Brouq."
+      },
+      {
+        "nome": "Al Wakrah",
+        "distanza": "unos 20 km al sur",
+        "come": "Metro, línea roja, hasta Al Wakrah, y luego un taxi corto hasta el zoco.",
+        "testo": "El antiguo puerto pesquero al sur de Doha, con un zoco junto al mar más tranquilo que el Zoco Waqif y una playa pública. Bueno para medio día y una cena de pescado."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Doha?",
+        "risposta": "En 12-24 horas se ven el Museo de Arte Islámico, el Museo Nacional y el Zoco Waqif. Con dos días se añaden Education City, Katara y The Pearl; el tercero sirve para Khor Al Adaid o el norte."
+      },
+      {
+        "domanda": "¿Merece la pena salir del aeropuerto en una escala en Doha?",
+        "risposta": "Por encima de doce horas, sí: el metro llega al centro en veinte minutos y el visado a la llegada es gratuito para los ciudadanos de la UE. Por debajo de diez horas conviene quedarse en Hamad, que tiene jardines, piscina y zonas de descanso."
+      },
+      {
+        "domanda": "¿Qué días cierran los museos de Doha?",
+        "risposta": "El Museo de Arte Islámico cierra los miércoles, el Museo Nacional los martes; los viernes solo abren desde las 13.30. Conviene planificar la visita teniéndolo en cuenta."
+      },
+      {
+        "domanda": "¿Cómo funciona el stopover de Qatar Airways?",
+        "risposta": "Con una escala de 12 a 96 horas se reservan de 1 a 4 noches de hotel a tarifas muy bajas en el portal Discover Qatar, separado del vuelo, con el código de reserva. Las condiciones cambian: comprobarlas antes."
+      },
+      {
+        "domanda": "¿Cómo vestirse en Doha?",
+        "risposta": "Hombros y rodillas cubiertos en público, para hombres y mujeres; las normas son más conservadoras que en Dubái. En museos y centros comerciales se pide lo mismo."
+      },
+      {
+        "domanda": "¿Cuándo es mejor ir a Doha?",
+        "risposta": "De noviembre a marzo. Entre junio y septiembre se superan los 45 grados con humedad altísima, y uno se queda entre museos y centros comerciales."
+      }
+    ],
     esperienzeSlugs: ['souq-waqif', 'khor-al-adaid'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "Los rascacielos de West Bay vistos desde el agua bajo un cielo despejado, Doha",

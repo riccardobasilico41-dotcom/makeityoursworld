@@ -121,10 +121,12 @@ export const destinazioniCroazia: Destinazione[] = [
     cosaVedere: ['La Veliki slap, la cascada más alta (78 m)', 'Los lagos inferiores y el cañón', 'Los lagos superiores y el lago Kozjak'],
     cosaFare: ['Entrar a la apertura por la entrada 2 para los lagos superiores', 'Hacer los lagos inferiores a última hora de la tarde'],
     doveDormire: 'Pensiones y habitaciones en Mukinje, Rastovača y Grabovac (60-120 €); pocos hoteles dentro del parque.',
-    comeArrivare: 'En coche desde Zagreb (unas 2 horas) o desde Zadar (unas 2 horas); autobús desde ambas ciudades.',
+    comeArrivare:
+      "El parque está en la carretera nacional D1, a unas 2 horas en coche tanto de Zagreb como de Zadar. Los autobuses de línea entre Zagreb y la costa dálmata paran en las entradas 1 y 2. Los aparcamientos de las entradas abren de 7 a 17 y cuestan 2 € la hora de junio a septiembre y 1,50 € la hora en primavera y otoño. La entrada se compra online con franja horaria y se valida en la entrada elegida; conviene dormir en uno de los pueblos de alrededor y entrar a la apertura.",
     comeSpostarsi: 'A pie por las pasarelas, barco eléctrico en el lago Kozjak y trenecitos panorámicos incluidos en la entrada.',
     periodoMigliore: 'mayo-junio y septiembre-octubre; julio-agosto muy concurridos.',
-    costi: 'Entrada diaria unos 40 € en junio-septiembre, menos en primavera y otoño; se compra online con franja horaria.',
+    costi:
+      "Entrada de un día 2026: 40 € de junio a septiembre (25 € después de las 16 en junio-agosto y de las 15 en septiembre), 23 € en abril, mayo y octubre, 10 € de noviembre a marzo; entrada de dos días 60 €, 39 € o 15 € según la temporada. El barco y los trenes panorámicos están incluidos. Presupuesto diario por persona, compartiendo habitación doble: bajo 70-100 €, medio 130-200 €; una pensión cerca de las entradas cuesta unos 60-120 € la noche.",
     erroriDaEvitare: [
       'Llegar a media mañana en temporada alta',
       'No reservar online la franja de entrada',
@@ -132,60 +134,150 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     luoghi: [
       {
-        nome: "Lagos superiores y Kozjak",
-        testo: "Dieciséis lagos unidos por cascadas en terrazas de travertino, con pasarelas de madera sobre agua turquesa. Patrimonio UNESCO desde 1979.",
-        come: "Entrada 2 para los lagos superiores. Senderos marcados con letras (A-K) y barco eléctrico en el Kozjak incluido en la entrada.",
-        quando: "A la apertura o después de las 15, para evitar la hora de los autocares. El periodo más verde es mayo-junio; en otoño los colores son más intensos.",
-        tempo: "4-6 horas para un recorrido completo",
-        costo: "40 € de junio a septiembre (25 € después de las 16 en junio-agosto y de las 15 en septiembre), 23 € en abril, mayo y octubre, 10 € de noviembre a marzo (2026). Comprar solo en la web oficial.",
-        url: "https://np-plitvicka-jezera.hr/en/",
-        consiglio: "En temporada alta conviene comprar la entrada online con antelación: en taquilla puede agotarse. Se valida en la entrada elegida al comprarla."
+        "nome": "Lagos superiores y Kozjak",
+        "testo": "Dieciséis lagos unidos por cascadas en terrazas de travertino, con pasarelas de madera sobre agua turquesa. Patrimonio UNESCO desde 1979.",
+        "come": "Entrada 2 para los lagos superiores. Senderos marcados con letras (A-K) y barco eléctrico en el Kozjak incluido en la entrada.",
+        "quando": "A la apertura o después de las 15, para evitar la hora de los autocares. El periodo más verde es mayo-junio; en otoño los colores son más intensos.",
+        "tempo": "4-6 horas para un recorrido completo",
+        "costo": "40 € de junio a septiembre (25 € después de las 16 en junio-agosto y de las 15 en septiembre), 23 € en abril, mayo y octubre, 10 € de noviembre a marzo (2026). Comprar solo en la web oficial.",
+        "url": "https://np-plitvicka-jezera.hr/en/",
+        "consiglio": "En temporada alta conviene comprar la entrada online con antelación: en taquilla puede agotarse. Se valida en la entrada elegida al comprarla.",
+        "orari": "Abierto todos los días del año, con horarios que cambian según la temporada. En noviembre de 2026 las entradas 1 y 2 abren de 8 a 15 y la taquilla hasta las 13; el barco del Kozjak funciona de 8 a 16 en el tramo corto, trenes panorámicos cada 30 minutos.",
+        "lat": 44.88467,
+        "lng": 15.60956
       },
       {
-        nome: "Veliki slap",
-        testo: "La cascada más alta del parque, unos 78 metros, al final de los lagos inferiores. Se ve desde la pasarela de abajo o desde el sendero de arriba.",
-        come: "Entrada 1 para los lagos inferiores y la Veliki slap, a pie con escaleras.",
-        quando: "A primera hora o al final de la tarde.",
-        tempo: "1 hora",
-        consiglio: "Una gran última parada: luego se sube en el trenecito panorámico."
+        "nome": "Veliki slap",
+        "testo": "La cascada más alta del parque, unos 78 metros, al final de los lagos inferiores. Se ve desde la pasarela de abajo o desde el sendero de arriba.",
+        "come": "Entrada 1 para los lagos inferiores y la Veliki slap, a pie con escaleras.",
+        "quando": "A primera hora o al final de la tarde.",
+        "tempo": "1 hora",
+        "consiglio": "Una gran última parada: luego se sube en el trenecito panorámico.",
+        "costo": "incluida en la entrada del parque",
+        "lat": 44.90254,
+        "lng": 15.6079,
+        "url": "https://np-plitvicka-jezera.hr/en/"
       },
       {
-        nome: "Lagos inferiores y cañón",
-        testo: "Un tramo más salvaje y menos concurrido, con paredes de roca, cuevas y cascadas que brotan de la caliza. Las pasarelas pasan a ras de agua entre los lagos Milanovac, Gavanovac y Kaluđerovac, hasta el cañón donde los lagos terminan en el Korana. Desde el sendero alto se ve toda la escalera de lagos desde arriba, la vista de postal.",
-        come: "A pie desde la entrada 1 por el sendero indicado.",
-        quando: "Por la mañana.",
-        tempo: "2 horas",
-        consiglio: "Suela antideslizante: las pasarelas están mojadas."
+        "nome": "Lagos inferiores y cañón",
+        "testo": "Un tramo más salvaje y menos concurrido, con paredes de roca, cuevas y cascadas que brotan de la caliza. Las pasarelas pasan a ras de agua entre los lagos Milanovac, Gavanovac y Kaluđerovac, hasta el cañón donde los lagos terminan en el Korana. Desde el sendero alto se ve toda la escalera de lagos desde arriba, la vista de postal.",
+        "come": "A pie desde la entrada 1 por el sendero indicado.",
+        "quando": "Por la mañana.",
+        "tempo": "2 horas",
+        "consiglio": "Suela antideslizante: las pasarelas están mojadas.",
+        "costo": "incluidos en la entrada del parque",
+        "lat": 44.90116,
+        "lng": 15.61076,
+        "url": "https://np-plitvicka-jezera.hr/en/"
+      },
+      {
+        "nome": "Galovac",
+        "testo": "Uno de los lagos superiores más fotografiados: el agua baja por una serie de escalones de travertino en decenas de pequeñas cascadas, y las pasarelas pasan justo por en medio. Es donde se entiende cómo se formaron los lagos, barrera tras barrera.",
+        "come": "Desde la entrada 2 en tren panorámico hasta la estación St3 y luego a pie cuesta abajo por el recorrido de los lagos superiores (programa E).",
+        "quando": "Por la mañana, cuando la luz entra entre las hayas y los grupos aún no han subido.",
+        "tempo": "1 hora",
+        "costo": "incluido en la entrada del parque",
+        "lat": 44.87489,
+        "lng": 15.60592,
+        "url": "https://np-plitvicka-jezera.hr/en/"
+      },
+      {
+        "nome": "Veliki Prštavac",
+        "testo": "La cascada más espectacular de los lagos superiores, donde el Galovac cae al lago de abajo en un solo salto. Al lado está el Mali Prštavac, más pequeño. Las pasarelas pasan al pie del salto y por encima del borde.",
+        "come": "Por el recorrido de los lagos superiores, poco por debajo del Galovac.",
+        "quando": "En primavera, con el deshielo, el caudal es máximo.",
+        "tempo": "30 minutos",
+        "costo": "incluido en la entrada del parque",
+        "lat": 44.8779,
+        "lng": 15.60843,
+        "url": "https://np-plitvicka-jezera.hr/en/"
+      },
+      {
+        "nome": "Prošćansko jezero",
+        "testo": "El lago más alto del sistema, largo y rodeado de bosque, donde empieza la escalera de los dieciséis lagos. Tiene menos cascadas que los demás pero es el más silencioso: aquí las pasarelas dejan paso a un sendero por la orilla.",
+        "come": "Desde la entrada 2 en tren panorámico hasta la estación St3 (Labudovac) y luego a pie.",
+        "quando": "Temprano por la mañana, cuando aún hay niebla sobre el agua.",
+        "tempo": "1 hora",
+        "costo": "incluido en la entrada del parque",
+        "lat": 44.86158,
+        "lng": 15.59689,
+        "url": "https://np-plitvicka-jezera.hr/en/"
+      },
+      {
+        "nome": "Sastavci",
+        "testo": "Las cascadas al final de los lagos inferiores, donde el agua de todo el sistema cae al cañón y nace el río Korana. Están a pocos pasos de la Veliki slap, pero mucho menos concurridas.",
+        "come": "Desde la entrada 1, bajando al cañón por el recorrido de los lagos inferiores (programas A y B).",
+        "quando": "Por la mañana o a última hora de la tarde, junto con la Veliki slap.",
+        "tempo": "30 minutos",
+        "costo": "incluido en la entrada del parque",
+        "lat": 44.90283,
+        "lng": 15.60927,
+        "url": "https://np-plitvicka-jezera.hr/en/"
+      },
+      {
+        "nome": "Cueva Šupljara",
+        "testo": "Una cueva en la pared del cañón sobre el lago Kaluđerovac. Se entra desde el sendero de abajo y se sube por dentro por una escalera hasta el borde del cañón, con vistas a los lagos inferiores.",
+        "come": "Por el recorrido de los lagos inferiores desde la entrada 1: un desvío corto pero empinado.",
+        "quando": "Cuando el cañón está lleno de gente: es uno de los pocos rincones tranquilos.",
+        "tempo": "20-30 minutos",
+        "costo": "incluida en la entrada del parque",
+        "lat": 44.89995,
+        "lng": 15.61179,
+        "url": "https://np-plitvicka-jezera.hr/en/",
+        "consiglio": "Los escalones de dentro están húmedos: hace falta calzado con buena suela."
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Entrada 2 a la apertura",
-          "Lagos superiores y Kozjak en barco",
-          "Comida en el parque",
-          "Lagos inferiores y Veliki slap por la tarde"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: entrada 2 a la apertura, tren panorámico hasta St3 y bajada a pie por los lagos superiores: Prošćansko jezero, Galovac y Veliki Prštavac",
+          "Media mañana: barco eléctrico por el Kozjak hasta el tramo de los lagos inferiores",
+          "Primera hora de la tarde: bocadillo o el punto de restauración junto al barco",
+          "Tarde: cañón de los lagos inferiores, cueva Šupljara, Veliki slap y Sastavci",
+          "Final del día: subida al borde este del cañón y tren panorámico de vuelta a la entrada (es el programa H del parque)"
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: lagos superiores y Kozjak",
-          "Día 2: lagos inferiores, cañón y senderos más tranquilos"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1, tarde: entrada 1 después de las 15-16 con la entrada reducida, lagos inferiores, Veliki slap y Sastavci (programa A)",
+          "Día 2, mañana: entrada 2 a la apertura, lagos superiores con Galovac y Prošćansko jezero, barco por el Kozjak (programa E)",
+          "Día 2, tarde: salida hacia Zadar o Zagreb, con parada en Rastoke"
         ]
       }
     ],
     zone: [
       {
-        nome: "Mukinje y Rastovača",
-        perChi: "para estar cerca",
-        testo: "Pensiones y habitaciones junto a la entrada, cómodas para madrugar."
+        "nome": "Mukinje y Rastovača",
+        "perChi": "para estar cerca",
+        "testo": "Pensiones y habitaciones junto a la entrada, cómodas para madrugar.",
+        "fascia": "60-120 €"
       },
       {
-        nome: "Grabovac",
-        perChi: "para precios más bajos",
-        testo: "Más barato, a pocos minutos en coche de la entrada."
+        "nome": "Grabovac",
+        "perChi": "para precios más bajos",
+        "testo": "Más barato, a pocos minutos en coche de la entrada.",
+        "fascia": "60-120 €"
+      },
+      {
+        "nome": "Hoteles del parque",
+        "perChi": "Quien quiere entrar al amanecer sin coger el coche",
+        "testo": "Los pocos hoteles gestionados por el parque, como el Hotel Jezero, están cerca de la entrada 2. Son más prácticos que bonitos y se reservan en la web del parque; cerca están también los campings Korana y Borje."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Rastoke (Slunj)",
+        "distanza": "unos 30 km al norte, 30 minutos en coche",
+        "come": "En coche por la D1 hacia Zagreb; se deja el coche en Slunj y se recorre a pie.",
+        "testo": "Un pueblo de viejos molinos de agua construido sobre las cascadas donde el Slunjčica cae al Korana. Parece un Plitvice en miniatura con casas en medio: se ve en una hora y es una buena parada camino de Zagreb o a la vuelta."
+      },
+      {
+        "nome": "Cuevas de Barać",
+        "distanza": "unos 20 km, 25 minutos en coche",
+        "come": "En coche hacia Rakovica y luego la carretera de las cuevas. La visita es guiada.",
+        "testo": "Cuevas kársticas con estalactitas, salas y colonias de murciélagos, que se recorren con guía por un camino acondicionado. Siguen frescas incluso en verano: hace falta una chaqueta."
       }
     ],
     sapori: [
@@ -206,6 +298,32 @@ export const destinazioniCroazia: Destinazione[] = [
       "Bañarse en los lagos está prohibido y vigilado: no salir de los senderos.",
       "En verano las entradas pueden agotarse: comprarlas online antes de ir.",
       "Llevar comida y agua: dentro hay pocos servicios y caros."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto tiempo hace falta para visitar Plitvice?",
+        "risposta": "Un día completo basta para los lagos superiores e inferiores con el programa H (4-6 horas). Quien quiera verlos con calma y con poca gente puede dividir la visita en dos medias jornadas con la entrada de dos días."
+      },
+      {
+        "domanda": "¿Hay que reservar la entrada de Plitvice?",
+        "risposta": "Sí, de junio a septiembre conviene comprarla online en la web del parque con franja horaria: en temporada alta puede agotarse en taquilla. La entrada vale para el acceso elegido."
+      },
+      {
+        "domanda": "¿Mejor la entrada 1 o la entrada 2?",
+        "risposta": "La entrada 1 está más cerca de la Veliki slap y los lagos inferiores; la 2, de los lagos superiores y el barco. Temprano conviene la 2; por la tarde la 1, para ver las cascadas con luz baja."
+      },
+      {
+        "domanda": "¿Cuánto cuesta Plitvice en 2026?",
+        "risposta": "40 € de junio a septiembre (25 € por la tarde), 23 € en abril, mayo y octubre y 10 € de noviembre a marzo. El barco y los trenes panorámicos están incluidos."
+      },
+      {
+        "domanda": "¿Se puede nadar en los lagos de Plitvice?",
+        "risposta": "No, el baño está prohibido en todo el parque y se vigila. En el Krka también está prohibido bajo las cascadas desde 2021: para nadar hay que esperar al mar."
+      },
+      {
+        "domanda": "¿Se puede visitar Plitvice en invierno?",
+        "risposta": "Sí, el parque abre todo el año y de noviembre a marzo la entrada cuesta 10 €. Los horarios son más cortos y con nieve o hielo puede haber senderos cerrados: conviene mirar los avisos en la web del parque."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
@@ -347,73 +465,248 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     cosaFare: ['El picigin en Bačvice', 'Subir al campanario de San Doimo', 'La noche en la Riva'],
     doveDormire: 'Dentro o junto al palacio (habitaciones 100-180 €); hostales desde 30-40 € la cama.',
-    comeArrivare: 'Aeropuerto de Split; coche, autobús o ferri desde Ancona.',
+    comeArrivare:
+      "El aeropuerto de Split (SPU) está a unos 20 km del centro, a pocos kilómetros de Trogir: el autobús lanzadera Pleso lleva a la estación de autobuses de Split en unos 30-40 minutos por unos 8 €, el taxi cuesta unos 40-50 € (mucho menos a Trogir). La estación de autobuses, la de tren y el puerto de ferris están una al lado de otra, a pocos minutos a pie de la Riva. Desde Italia hay ferris nocturnos desde Ancona; desde Zagreb se llega en coche por autopista (peaje unos 25-30 €). Quien sigue hacia las islas conviene que devuelva aquí el coche.",
     comeSpostarsi: 'A pie por el centro; autobús a Trogir; catamaranes desde el puerto a las islas.',
     periodoMigliore: 'mayo-junio y septiembre-octubre.',
-    costi: 'Subterráneos del palacio 10-15 €.',
+    costi:
+      "Subterráneos del palacio unos 10 € (5 € jóvenes y estudiantes); Galería Meštrović 12 €; fortaleza de Klis 12 €; Salona y Museo Arqueológico 10 € juntos; catamarán a Hvar 10-25 €. Presupuesto diario por persona, compartiendo habitación doble: bajo 70-100 €, medio 130-200 €, alto más de 300 €.",
     erroriDaEvitare: ['Andar en bañador por el casco antiguo: te ponen multa'],
     luoghi: [
       {
-        nome: "Palacio de Diocleciano",
-        testo: "El palacio-fortaleza del emperador romano Diocleciano, construido entre finales del siglo III y el 305 d.C., dentro del cual vive hoy el casco antiguo. Peristilo, mausoleo convertido en catedral y sótanos son el corazón de la visita.",
-        come: "A pie desde la Riva, por la Puerta de Plata o la de Bronce. Las calles son gratis; catedral, campanario y sótanos son de pago.",
-        quando: "A primera hora o por la noche: en las horas centrales las calles están llenas.",
-        tempo: "2-3 horas",
-        consiglio: "Los sótanos: entrada de pago, casi vacíos y fotogénicos."
+        "nome": "Palacio de Diocleciano",
+        "testo": "El palacio-fortaleza del emperador romano Diocleciano, construido entre finales del siglo III y el 305 d.C., dentro del cual vive hoy el casco antiguo. Peristilo, mausoleo convertido en catedral y sótanos son el corazón de la visita.",
+        "come": "A pie desde la Riva, por la Puerta de Plata o la de Bronce. Las calles son gratis; catedral, campanario y sótanos son de pago.",
+        "quando": "A primera hora o por la noche: en las horas centrales las calles están llenas.",
+        "tempo": "2-3 horas",
+        "consiglio": "Los sótanos: entrada de pago, casi vacíos y fotogénicos.",
+        "costo": "calles y Peristilo gratis; catedral, campanario y subterráneos de pago",
+        "orari": "Siempre accesible; cada monumento tiene su propio horario.",
+        "lat": 43.5085,
+        "lng": 16.44025
       },
       {
-        nome: "Catedral de San Domnio y campanario",
-        testo: "El mausoleo octogonal de Diocleciano, convertido en catedral en el siglo VII, es uno de los edificios más antiguos del mundo aún usado como iglesia. El campanario de 57 metros da vistas sobre los tejados.",
-        come: "Dentro del Peristilo. Entrada para catedral y subida al campanario.",
-        quando: "Por la mañana.",
-        tempo: "1 hora",
-        consiglio: "Subir al campanario por la vista: los escalones son muchos y estrechos."
+        "nome": "Subterráneos del palacio",
+        "testo": "Las grandes salas abovedadas bajo los aposentos del emperador, casi intactas porque durante siglos estuvieron llenas de escombros. Reproducen en planta las estancias de arriba y dan la medida real del palacio. El pasillo central, con puestos, une la Riva con el Peristilo.",
+        "come": "Por la Puerta de Bronce, en el paseo marítimo. El pasillo central es libre; las salas laterales tienen entrada.",
+        "quando": "A la apertura, antes de que lleguen los grupos de los cruceros.",
+        "tempo": "45 minutos",
+        "costo": "unos 10 €, 5 € jóvenes y estudiantes (2026)",
+        "lat": 43.50758,
+        "lng": 16.43979,
+        "consiglio": "Entrar por la Puerta de Bronce y subir al Peristilo: es el recorrido de quien llegaba desde el mar."
       },
       {
-        nome: "Colina de Marjan",
-        testo: "El parque boscoso sobre la ciudad, con senderos, pequeñas iglesias y un mirador sobre el puerto y las islas. Desde el barrio de Veli Varoš se sube al primer mirador; más allá el pinar sigue hasta la cima, con la gran cruz blanca, y las pequeñas playas del lado del mar abierto. Es adonde van los de Split a correr y bañarse, lejos del gentío del palacio.",
-        come: "A pie desde el barrio Veli Varoš, cuesta arriba hasta el mirador.",
-        quando: "Final de la tarde.",
-        tempo: "2 horas",
-        consiglio: "Llevar agua: en la subida no hay bares."
+        "nome": "Peristilo y Templo de Júpiter",
+        "testo": "La plaza con columnas delante de los aposentos imperiales, donde Diocleciano se mostraba a sus súbditos: hoy hay cafés en los escalones y una esfinge egipcia de granito traída por el emperador. A pocos pasos, en un callejón, está el pequeño Templo de Júpiter, convertido en baptisterio, con techo de casetones de piedra.",
+        "come": "En el centro del palacio, a pie desde cualquier puerta.",
+        "quando": "Temprano para ver la plaza vacía, por la noche por el ambiente.",
+        "tempo": "30 minutos",
+        "costo": "Peristilo gratis; baptisterio de pago",
+        "lat": 43.50824,
+        "lng": 16.44017
       },
       {
-        nome: "Trogir",
-        testo: "Una pequeña ciudad-isla medieval al oeste de Split, con la catedral de San Lorenzo y su portal esculpido por Radovan. Patrimonio UNESCO.",
-        come: "En coche o en autobús desde Split. Se visita a pie.",
-        quando: "Por la mañana.",
-        tempo: "3 horas",
-        consiglio: "Por la tarde, parar a tomar un helado en la Riva."
+        "nome": "Catedral de San Domnio y campanario",
+        "testo": "El mausoleo octogonal de Diocleciano, convertido en catedral en el siglo VII, es uno de los edificios más antiguos del mundo aún usado como iglesia. El campanario de 57 metros da vistas sobre los tejados.",
+        "come": "Dentro del Peristilo. Entrada para catedral y subida al campanario.",
+        "quando": "Por la mañana.",
+        "tempo": "1 hora",
+        "consiglio": "Subir al campanario por la vista: los escalones son muchos y estrechos.",
+        "lat": 43.50805,
+        "lng": 16.44043
+      },
+      {
+        "nome": "Puerta de Oro y estatua de Gregorio de Nin",
+        "testo": "La puerta norte del palacio, la más decorada, de donde salía el camino a Salona. Fuera está la estatua gigante del obispo Gregorio de Nin, obra de Ivan Meštrović, que en el siglo X defendió el uso del croata en la liturgia. Frotarle el dedo gordo del pie da suerte, y por eso brilla.",
+        "come": "A pie desde el Peristilo, siguiendo la calle hacia el norte.",
+        "quando": "A cualquier hora.",
+        "tempo": "15 minutos",
+        "costo": "gratis",
+        "lat": 43.50918,
+        "lng": 16.44065
+      },
+      {
+        "nome": "Riva",
+        "testo": "El paseo marítimo peatonal bajo la fachada sur del palacio, con palmeras y cafés. Es el salón de la ciudad: se pasea por la noche, se miran los ferris y se espera el catamarán.",
+        "come": "A pie, entre el puerto y la Puerta de Bronce.",
+        "quando": "Por la noche, cuando se llena de gente del lugar.",
+        "tempo": "1 hora",
+        "costo": "gratis",
+        "lat": 43.50783,
+        "lng": 16.43829
+      },
+      {
+        "nome": "Colina de Marjan",
+        "testo": "El parque boscoso sobre la ciudad, con senderos, pequeñas iglesias y un mirador sobre el puerto y las islas. Desde el barrio de Veli Varoš se sube al primer mirador; más allá el pinar sigue hasta la cima, con la gran cruz blanca, y las pequeñas playas del lado del mar abierto. Es adonde van los de Split a correr y bañarse, lejos del gentío del palacio.",
+        "come": "A pie desde el barrio Veli Varoš, cuesta arriba hasta el mirador.",
+        "quando": "Final de la tarde.",
+        "tempo": "2 horas",
+        "consiglio": "Llevar agua: en la subida no hay bares.",
+        "costo": "gratis",
+        "orari": "Parque siempre abierto.",
+        "lat": 43.5079,
+        "lng": 16.43012
+      },
+      {
+        "nome": "Galería Meštrović",
+        "testo": "La villa junto al mar que el escultor Ivan Meštrović se construyó en los años treinta, hoy museo con sus esculturas en mármol, bronce y madera y un jardín sobre la bahía. Con la misma entrada se visita el Kaštilac, un poco más adelante, con el ciclo en madera de la vida de Cristo.",
+        "come": "A pie por el lado sur del Marjan (unos 30 minutos desde la Riva) o en el autobús 12.",
+        "quando": "Por la mañana, combinada con un baño en las playas del Marjan.",
+        "tempo": "1-2 horas",
+        "costo": "12 € adultos, Kaštilac incluido (tarifa oficial)",
+        "orari": "De martes a domingo 9-17, última entrada media hora antes. Cerrado los lunes y en las fiestas nacionales.",
+        "lat": 43.50492,
+        "lng": 16.41794,
+        "url": "https://mestrovic.hr/"
+      },
+      {
+        "nome": "Pazar y mercado de pescado",
+        "testo": "El Pazar es el mercado al aire libre de fruta, verdura y flores justo fuera de la Puerta de Plata. La pescadería (Peskarija), en la parte oeste del centro, vende el pescado de la noche bajo una cubierta del siglo XIX: sin moscas, dicen en Split, por el agua sulfurosa que corre por debajo.",
+        "come": "A pie: el Pazar al este del palacio, la pescadería cerca de la calle Marmontova.",
+        "quando": "Temprano por la mañana; hacia mediodía los puestos cierran.",
+        "tempo": "45 minutos",
+        "costo": "gratis",
+        "lat": 43.5076,
+        "lng": 16.44197
+      },
+      {
+        "nome": "Playa de Bačvice",
+        "testo": "La playa de arena de la ciudad, poco profunda, a diez minutos de la Riva. Aquí se juega al picigin, el pasatiempo local: pasarse en círculo una pelota pequeña en el agua baja sin que caiga.",
+        "come": "A pie desde la Riva, pasando por detrás de la estación.",
+        "quando": "Por la mañana o a última hora de la tarde; por la noche se animan los locales sobre la playa.",
+        "tempo": "2-3 horas",
+        "costo": "gratis; sombrillas de pago",
+        "lat": 43.50194,
+        "lng": 16.44598
+      },
+      {
+        "nome": "Museo Arqueológico",
+        "testo": "El museo más antiguo de Croacia, fundado en 1820, con inscripciones, sarcófagos y mosaicos de Salona y de la Dalmacia romana. El lapidario bajo el pórtico del jardín es la parte más sugerente.",
+        "come": "A unos 15 minutos a pie al norte del centro. Entrada combinada con Salona.",
+        "quando": "En las horas de calor, combinado con Salona el mismo día.",
+        "tempo": "1 hora",
+        "costo": "10 € con Salona, válida 7 días (tarifa 2026)",
+        "orari": "1 de junio-30 de septiembre lunes-sábado 9-14 y 15-20; 1 de octubre-31 de mayo lunes-viernes 9-14 y 15-20, sábado 9-14. Cerrado domingos y festivos. Cerrado por montaje del 9 de noviembre al 11 de diciembre de 2026.",
+        "lat": 43.5159,
+        "lng": 16.43458,
+        "url": "https://www.armus.hr/"
+      },
+      {
+        "nome": "Salona",
+        "testo": "Las ruinas de la capital romana de Dalmacia, la ciudad de donde era Diocleciano, hoy en Solin, en las afueras de Split. Se camina entre anfiteatro, termas, basílicas paleocristianas y la necrópolis de Manastirine, entre olivos y casi sin turistas.",
+        "come": "Autobús urbano de Split a Solin, unos 20 minutos. La entrada está en el Tusculum.",
+        "quando": "A primera hora o a última de la tarde: el sitio está todo al sol.",
+        "tempo": "2 horas",
+        "costo": "10 € con el Museo Arqueológico (tarifa 2026)",
+        "orari": "Todos los días: 1 de junio-30 de septiembre 9-20, 1 de octubre-31 de mayo 9-18. Cerrado los festivos.",
+        "lat": 43.54169,
+        "lng": 16.48331,
+        "url": "https://www.armus.hr/"
+      },
+      {
+        "nome": "Fortaleza de Klis",
+        "testo": "La fortaleza en el paso sobre Split, que durante siglos controló el camino entre la costa y el interior y resistió largo tiempo a los otomanos. Desde las murallas se ven Split, las islas y la llanura de Salona. Quien haya visto Juego de Tronos la reconocerá como Meereen.",
+        "come": "En coche o autobús desde Split, unos 20-30 minutos. Desde el aparcamiento se sube a pie.",
+        "quando": "Al atardecer, con la luz sobre la costa.",
+        "tempo": "1-1,5 horas",
+        "costo": "12 € adultos, 4 € menores de 15 años (web oficial)",
+        "orari": "Según la web oficial, todos los días 9-19.",
+        "lat": 43.56003,
+        "lng": 16.52433,
+        "url": "https://www.tvrdavaklis.com/"
+      },
+      {
+        "nome": "Trogir",
+        "testo": "Una pequeña ciudad-isla medieval al oeste de Split, con la catedral de San Lorenzo y su portal esculpido por Radovan. Patrimonio UNESCO.",
+        "come": "En coche o en autobús desde Split. Se visita a pie.",
+        "quando": "Por la mañana.",
+        "tempo": "3 horas",
+        "consiglio": "Por la tarde, parar a tomar un helado en la Riva.",
+        "lat": 43.51705,
+        "lng": 16.25144
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Palacio de Diocleciano por la mañana",
-          "Comida en el casco antiguo",
-          "Subida a Marjan por la tarde",
-          "Cena en la Riva"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Puerta de Bronce, subterráneos y Peristilo antes de los cruceros",
+          "Media mañana: catedral de San Domnio, campanario y Templo de Júpiter",
+          "Mediodía: Pazar y pescadería, luego comida en Veli Varoš",
+          "Tarde: Puerta de Oro y Gregorio de Nin, luego baño en Bačvice",
+          "Última hora de la tarde: subida al Marjan hasta el mirador",
+          "Noche: paseo por la Riva"
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: palacio, catedral y sótanos",
-          "Día 2: Trogir por la mañana, Klis o Salona por la tarde"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como en el programa de un día",
+          "Día 2, mañana: Galería Meštrović y Kaštilac, luego baño en las playas del Marjan",
+          "Día 2, tarde: Salona y Museo Arqueológico con la entrada combinada",
+          "Día 2, noche: fortaleza de Klis al atardecer"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba",
+          "Día 3, mañana: Trogir en autobús, catedral de San Lorenzo y portal de Radovan",
+          "Día 3, tarde: vuelta a Split y catamarán de la tarde a Hvar, o excursión al parque del Krka"
         ]
       }
     ],
     zone: [
       {
-        nome: "Casco antiguo",
-        perChi: "para estar en el centro",
-        testo: "Habitaciones dentro del palacio, a pie de todo; ruidoso hasta tarde por la noche."
+        "nome": "Casco antiguo",
+        "perChi": "para estar en el centro",
+        "testo": "Habitaciones dentro del palacio, a pie de todo; ruidoso hasta tarde por la noche.",
+        "fascia": "100-180 €"
       },
       {
-        nome: "Veli Varoš",
-        perChi: "para un barrio tranquilo",
-        testo: "Casas de pescadores a un paso del centro, bajo Marjan."
+        "nome": "Veli Varoš",
+        "perChi": "para un barrio tranquilo",
+        "testo": "Casas de pescadores a un paso del centro, bajo Marjan.",
+        "fascia": "70-130 €"
+      },
+      {
+        "nome": "Bačvice",
+        "perChi": "Quien quiere la playa al lado",
+        "testo": "El barrio sobre la playa de arena, a diez minutos a pie de la Riva y cerca de estaciones y puerto. En verano por la noche hay ruido por los locales de la playa.",
+        "fascia": "90-170 €"
+      },
+      {
+        "nome": "Žnjan",
+        "perChi": "Quien viaja en coche y busca hoteles modernos",
+        "testo": "El paseo marítimo del este, con una playa larga, hoteles nuevos y aparcamiento más fácil. El centro está a una media hora a pie o a pocos minutos en autobús.",
+        "fascia": "90-160 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Parque Nacional del Krka",
+        "distanza": "aproximadamente 1 hora y cuarto en coche",
+        "come": "En coche hasta Skradin y luego el barco hasta Skradinski buk (incluido en la entrada de abril a octubre); también hay excursiones organizadas.",
+        "testo": "La gran cascada escalonada de Skradinski buk, con pasarelas, y el monasterio del islote de Visovac. Entrada 40 € de junio a septiembre (30 € después de las 15), 20 € en abril, mayo y octubre; está prohibido bañarse."
+      },
+      {
+        "nome": "Hvar",
+        "distanza": "aproximadamente 1 hora en catamarán",
+        "come": "Catamaranes de Jadrolinija, TP Line y Krilo desde el puerto de Split hasta Hvar ciudad.",
+        "testo": "La ciudad veneciana con la fortaleza española y las islas Pakleni frente al puerto. Se puede hacer en un día, pero la isla merece al menos una noche."
+      },
+      {
+        "nome": "Bol y Zlatni Rat (Brač)",
+        "distanza": "aproximadamente 1 hora en catamarán",
+        "come": "Catamarán directo desde el puerto de Split a Bol, o ferry a Supetar y autobús cruzando la isla.",
+        "testo": "La playa de cantos en forma de punta que cambia con el viento y las corrientes, famosa entre los windsurfistas. Sobre Bol se sube a Vidova Gora, la cima más alta de las islas del Adriático."
+      },
+      {
+        "nome": "Omiš y el cañón del Cetina",
+        "distanza": "unos 25 km, 40 minutos en autobús",
+        "come": "Autobús de línea desde la estación de Split por la costa.",
+        "testo": "Un pueblo entre el mar y las paredes del cañón, con la fortaleza de Mirabella sobre los tejados. En el río Cetina se hace rafting, kayak y tirolina."
       }
     ],
     sapori: [
@@ -439,6 +732,32 @@ export const destinazioniCroazia: Destinazione[] = [
       "Para los ferris en verano, reservar plaza para el coche con Jadrolinija.",
       "Ojo con los restaurantes de plaza con menús turísticos y precios altos: alejarse una calle reduce el coste."
     ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Split?",
+        "risposta": "Un día completo basta para el palacio de Diocleciano, el Marjan y la Riva. Con dos se añaden la Galería Meštrović, Salona y Klis; con tres, también Trogir o el Krka."
+      },
+      {
+        "domanda": "¿Hay que pagar para ver el palacio de Diocleciano?",
+        "risposta": "No, las calles y el Peristilo son libres, porque son el casco antiguo. Se pagan la catedral y el campanario, el baptisterio y los subterráneos (unos 10 €)."
+      },
+      {
+        "domanda": "¿Split o Trogir como base?",
+        "risposta": "Split es más cómoda para ferris, autobuses y salir por la noche; Trogir es más pequeña, tranquila y cercana al aeropuerto. Para las islas conviene dormir en Split, cerca del puerto."
+      },
+      {
+        "domanda": "¿Dónde dormir en Split?",
+        "risposta": "Dentro del palacio para estar en el centro (unos 100-180 € la noche), en Veli Varoš por un barrio tranquilo, en Bačvice por la playa, en Žnjan por los hoteles con aparcamiento."
+      },
+      {
+        "domanda": "¿Cómo se va de Split a Hvar?",
+        "risposta": "En catamarán a Hvar ciudad, en una hora y por 10-25 € en verano. Los ferris con coche llegan en cambio a Stari Grad, al otro lado de la isla."
+      },
+      {
+        "domanda": "¿Se puede ir en bañador por Split?",
+        "risposta": "No: en el casco antiguo ir en bañador o sin camiseta y beber alcohol en la calle se multa con 150 €."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'Las columnas y los arcos del Peristilo del palacio de Diocleciano en Split',
@@ -458,71 +777,213 @@ export const destinazioniCroazia: Destinazione[] = [
     cosaVedere: ['La fortaleza española', 'Plaza de San Esteban y el teatro de 1612', 'Las islas Pakleni', 'La llanura de Stari Grad'],
     cosaFare: ['Taxi-boat a Palmižana', 'Vuelta por el interior entre lavanda y pueblos abandonados'],
     doveDormire: 'Hvar ciudad para la vida nocturna (100-220 €, más en agosto), Stari Grad y Jelsa para la quietud.',
-    comeArrivare: 'Catamarán desde Split (unas 1 hora); ferri para coches de Split a Stari Grad.',
+    comeArrivare:
+      "No hay aeropuerto: se llega desde Split. Los catamaranes de Jadrolinija, TP Line y Krilo llevan a Hvar ciudad en una hora, por unos 10-25 € en verano; los ferris con coche de Jadrolinija atracan en cambio en Stari Grad, desde donde Hvar ciudad está a 20-30 minutos en autobús o en coche. Desde Korčula y Dubrovnik hay catamaranes de temporada (Hvar-Korčula, una hora y media). En julio y agosto las plazas de coche en los ferris se reservan con antelación; quien se queda solo en Hvar ciudad puede prescindir del coche.",
     periodoMigliore: 'junio y septiembre; lavanda en flor entre junio y julio.',
-    costi: 'Taxi-boat a las Pakleni 10-15 € ida y vuelta.',
+    costi:
+      "Fortaleza 12 €, o 15 € con la entrada combinada (fortaleza, teatro, logia, torre del reloj e iglesia de San Juan); teatro 10 €; catedral 2 €; taxi-barco a las Pakleni unos 10-15 € ida y vuelta. Presupuesto diario por persona, compartiendo habitación doble: bajo 70-100 €, medio 130-200 €, alto más de 300 €; en agosto Hvar ciudad está entre los lugares más caros de Croacia.",
     erroriDaEvitare: ['Beber en la calle o andar en bañador por la ciudad: multas severas', 'Llegar en agosto sin alojamiento reservado'],
     luoghi: [
       {
-        nome: "Ciudad de Hvar y fortaleza Española",
-        testo: "Una ciudad veneciana junto al mar con la plaza más grande de Dalmacia, la catedral de San Esteban y el teatro del siglo XVII sobre el arsenal. Encima del pueblo está la fortaleza (Fortica) del siglo XVI, con vistas al puerto y a las islas Pakleni.",
-        come: "A pie desde el puerto. A la fortaleza se sube a pie desde el pueblo.",
-        quando: "Fortaleza por la mañana o al final de la tarde, por el calor.",
-        tempo: "2-3 horas",
-        consiglio: "Subir a la fortaleza al atardecer y cenar después en una callejuela fuera de la plaza."
+        "nome": "Ciudad de Hvar y fortaleza Española",
+        "testo": "Una ciudad veneciana junto al mar con la plaza más grande de Dalmacia, la catedral de San Esteban y el teatro del siglo XVII sobre el arsenal. Encima del pueblo está la fortaleza (Fortica) del siglo XVI, con vistas al puerto y a las islas Pakleni.",
+        "come": "A pie desde el puerto. A la fortaleza se sube a pie desde el pueblo.",
+        "quando": "Fortaleza por la mañana o al final de la tarde, por el calor.",
+        "tempo": "2-3 horas",
+        "consiglio": "Subir a la fortaleza al atardecer y cenar después en una callejuela fuera de la plaza.",
+        "costo": "fortaleza 12 €; combinada 15 € con teatro, logia, torre del reloj e iglesia de San Juan (2026)",
+        "orari": "Fortaleza 9-18 (horario de verano 2026 de la oficina de turismo); fuera de temporada hay que comprobarlo.",
+        "lat": 43.17474,
+        "lng": 16.4421,
+        "url": "https://visithvar.hr/"
       },
       {
-        nome: "Islas Pakleni",
-        testo: "Un archipiélago de islotes con calas y agua clara frente a la ciudad de Hvar. Se llega en taxi-barca desde el puerto.",
-        come: "Taxi-barca desde el puerto de Hvar, vuelta a horas acordadas.",
-        quando: "Por la mañana; las calas están más tranquilas antes del mediodía.",
-        tempo: "media jornada",
-        consiglio: "Acordar la hora de vuelta con el barquero."
+        "nome": "Plaza de San Esteban y catedral",
+        "testo": "La gran plaza enlosada que se abre desde el puerto hacia la colina, con el pozo veneciano del siglo XVI y palacios de piedra blanca. Al fondo está la catedral de San Esteban, con su campanario de cuatro pisos y altares barrocos en el interior. Por la noche es el centro de la vida del pueblo.",
+        "come": "A pie desde el puerto: la plaza empieza en el muelle.",
+        "quando": "Temprano para verla vacía, por la noche por el ambiente.",
+        "tempo": "45 minutos",
+        "costo": "plaza gratis; catedral 2 € (2026)",
+        "orari": "Catedral 9-12:30 y 17-19:30 (horario de verano 2026).",
+        "lat": 43.17218,
+        "lng": 16.44335,
+        "url": "https://visithvar.hr/"
       },
       {
-        nome: "Llanura de Stari Grad",
-        testo: "Un paisaje agrícola de muros y campos divididos por colonos griegos en el siglo IV a.C., casi sin cambios; patrimonio UNESCO.",
-        come: "Desde Stari Grad en bici o a pie por senderos entre olivos y viñas.",
-        quando: "Primavera y otoño.",
-        tempo: "2-3 horas",
-        consiglio: "El ferry desde Split llega a Stari Grad, no a la ciudad de Hvar."
+        "nome": "Teatro y Arsenal",
+        "testo": "El Arsenal veneciano, donde se reparaban las galeras, sostiene en el primer piso el teatro abierto en 1612, uno de los teatros públicos más antiguos de Europa. La sala, con palcos pintados, es pequeña e íntima; desde la terraza sobre el Arsenal se ve la plaza.",
+        "come": "En el lado de la plaza hacia el puerto. El teatro se visita con entrada individual o combinada.",
+        "quando": "En las horas de calor, cuando la fortaleza está a pleno sol.",
+        "tempo": "30 minutos",
+        "costo": "teatro 10 €, o combinada 15 € (2026)",
+        "orari": "Teatro 10-18 (verano 2026); el Arsenal no se puede visitar en 2026.",
+        "lat": 43.17212,
+        "lng": 16.44147,
+        "url": "https://visithvar.hr/"
       },
       {
-        nome: "Stari Grad",
-        testo: "La ciudad más antigua de la isla, fundada por griegos de Paros en el 384 a.C. con el nombre de Pharos. El puerto largo y estrecho está lleno de barcas y casas de piedra, y en el centro está el Tvrdalj, la villa fortificada del poeta renacentista Petar Hektorović. Es más tranquila y barata que Hvar ciudad.",
-        come: "Aquí llega el ferry de coches desde Split; a Hvar ciudad se llega en coche o autobús.",
-        quando: "Mañana o tarde; todo el año, también fuera de temporada.",
-        tempo: "2 horas",
-        consiglio: "Unir la visita a la llanura de Stari Grad, que empieza justo a las afueras."
+        "nome": "Convento benedictino y encaje de pita",
+        "testo": "Las monjas benedictinas de Hvar hacen un encaje finísimo con las fibras de las hojas de pita (agave), una tradición reconocida por la UNESCO. En el pequeño museo del convento se ven piezas terminadas y, a veces, cómo se preparan los hilos.",
+        "come": "En las callejuelas al norte de la plaza, a pie.",
+        "quando": "Por la mañana o a última hora de la tarde, según el horario.",
+        "tempo": "30 minutos",
+        "costo": "5 € (2026)",
+        "orari": "10-12:30 y 16-19; cerrado el jueves por la tarde y el domingo (verano 2026).",
+        "lat": 43.17313,
+        "lng": 16.44204,
+        "url": "https://visithvar.hr/"
+      },
+      {
+        "nome": "Islas Pakleni",
+        "testo": "Un archipiélago de islotes con calas y agua clara frente a la ciudad de Hvar. Se llega en taxi-barca desde el puerto.",
+        "come": "Taxi-barca desde el puerto de Hvar, vuelta a horas acordadas.",
+        "quando": "Por la mañana; las calas están más tranquilas antes del mediodía.",
+        "tempo": "media jornada",
+        "consiglio": "Acordar la hora de vuelta con el barquero.",
+        "costo": "taxi-barco unos 10-15 € ida y vuelta (precio orientativo 2026)",
+        "lat": 43.16347,
+        "lng": 16.39704
+      },
+      {
+        "nome": "Stari Grad",
+        "testo": "La ciudad más antigua de la isla, fundada por griegos de Paros en el 384 a.C. con el nombre de Pharos. El puerto largo y estrecho está lleno de barcas y casas de piedra, y en el centro está el Tvrdalj, la villa fortificada del poeta renacentista Petar Hektorović. Es más tranquila y barata que Hvar ciudad.",
+        "come": "Aquí llega el ferry de coches desde Split; a Hvar ciudad se llega en coche o autobús.",
+        "quando": "Mañana o tarde; todo el año, también fuera de temporada.",
+        "tempo": "2 horas",
+        "consiglio": "Unir la visita a la llanura de Stari Grad, que empieza justo a las afueras.",
+        "costo": "pueblo gratis; Tvrdalj de pago",
+        "lat": 43.18248,
+        "lng": 16.59573
+      },
+      {
+        "nome": "Llanura de Stari Grad",
+        "testo": "Un paisaje agrícola de muros y campos divididos por colonos griegos en el siglo IV a.C., casi sin cambios; patrimonio UNESCO.",
+        "come": "Desde Stari Grad en bici o a pie por senderos entre olivos y viñas.",
+        "quando": "Primavera y otoño.",
+        "tempo": "2-3 horas",
+        "consiglio": "El ferry desde Split llega a Stari Grad, no a la ciudad de Hvar.",
+        "costo": "gratis",
+        "lat": 43.18252,
+        "lng": 16.64771
+      },
+      {
+        "nome": "Vrboska",
+        "testo": "El pueblo más pequeño de la isla, construido a lo largo de un estrecho brazo de mar cruzado por puentecillos, por eso lo llaman la «pequeña Venecia» de Hvar. Tiene una iglesia fortificada del siglo XVI, levantada para defenderse de los piratas, y un museo de los pescadores.",
+        "come": "En coche o autobús desde Stari Grad o Jelsa; a pie por la costa desde Jelsa en una hora.",
+        "quando": "Por la noche, para cenar junto al canal.",
+        "tempo": "1-2 horas",
+        "costo": "gratis",
+        "lat": 43.18172,
+        "lng": 16.67123
+      },
+      {
+        "nome": "Jelsa",
+        "testo": "Un pueblo con puerto en el este de la isla, con una plaza arbolada detrás del muelle y playas de pinar a pocos minutos a pie. Es más tranquilo y barato que Hvar ciudad, y cómodo para las calas de la costa sur.",
+        "come": "Autobús desde Stari Grad y Hvar ciudad; en verano, catamarán a Split y a Bol.",
+        "quando": "Toda la temporada; en junio y septiembre está especialmente tranquilo.",
+        "tempo": "medio día",
+        "costo": "gratis",
+        "lat": 43.1612,
+        "lng": 16.69266
+      },
+      {
+        "nome": "Malo Grablje",
+        "testo": "Un pueblo de piedra abandonado en los años sesenta, en una garganta entre olivos sobre Milna. Las casas sin tejado, la iglesia y las terrazas de cultivo cuentan la isla de antes del turismo. Un sendero baja hasta el mar en Milna.",
+        "come": "En coche o moto desde Hvar ciudad hacia el interior y el último tramo a pie; o a pie subiendo desde Milna.",
+        "quando": "Por la mañana o a última hora de la tarde: a mediodía la garganta da calor.",
+        "tempo": "1-2 horas",
+        "costo": "gratis",
+        "lat": 43.16882,
+        "lng": 16.5033
+      },
+      {
+        "nome": "Velo Grablje y la lavanda",
+        "testo": "El pueblo del interior que en el siglo XX se convirtió en el centro de la producción de aceite de lavanda de la isla. Alrededor siguen los campos en terrazas, morados entre junio y julio, y los muros de piedra seca.",
+        "come": "En coche o moto por la carretera vieja entre Hvar ciudad y Stari Grad.",
+        "quando": "Entre finales de junio y julio, con la lavanda en flor.",
+        "tempo": "1 hora",
+        "costo": "gratis",
+        "lat": 43.17074,
+        "lng": 16.5217
+      },
+      {
+        "nome": "Playa de Dubovica",
+        "testo": "Una bahía de cantos blancos con unas pocas casas de piedra en la costa sur, al este de Hvar ciudad. El agua es transparente y, al no llegar la carretera hasta abajo, está más tranquila que las playas a las que se va en coche.",
+        "come": "En coche o autobús hasta la parada en la carretera principal y luego a pie por un sendero de unos 15-20 minutos.",
+        "quando": "Por la mañana; por la tarde en verano llegan también los barcos.",
+        "tempo": "medio día",
+        "costo": "gratis",
+        "lat": 43.14593,
+        "lng": 16.53487,
+        "consiglio": "La subida de vuelta es empinada y al sol: llevar agua."
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Ciudad de Hvar por la mañana",
-          "Islas Pakleni, baño",
-          "Fortaleza al atardecer"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: plaza de San Esteban, catedral y convento benedictino con el encaje de pita",
+          "Media mañana: taxi-barco a Palmižana, baño y comida en las Pakleni",
+          "Tarde: vuelta y teatro con la entrada combinada",
+          "Atardecer: subida a pie a la fortaleza española, unos veinte minutos entre pinos",
+          "Noche: cena en una callejuela lejos de la plaza"
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: ciudad de Hvar y fortaleza",
-          "Día 2: Stari Grad y su llanura, luego Jelsa o Vrboska"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como en el programa de un día",
+          "Día 2, mañana: en moto o coche por el interior, Malo Grablje y los campos de lavanda de Velo Grablje",
+          "Día 2, tarde: Stari Grad con el Tvrdalj y la llanura de la UNESCO",
+          "Día 2, noche: cena junto al canal en Vrboska o en Jelsa"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba",
+          "Día 3: excursión en barco a Vis y a la Cueva Azul de Biševo, o un día de playa en Dubovica y la costa sur"
         ]
       }
     ],
     zone: [
       {
-        nome: "Ciudad de Hvar",
-        perChi: "para vida y comodidad",
-        testo: "Hoteles, locales y el puerto, pero más caro y ruidoso en verano."
+        "nome": "Ciudad de Hvar",
+        "perChi": "para vida y comodidad",
+        "testo": "Hoteles, locales y el puerto, pero más caro y ruidoso en verano.",
+        "fascia": "100-250 €"
       },
       {
-        nome: "Stari Grad y Jelsa",
-        perChi: "para la calma",
-        testo: "Más tranquilas y baratas, con autobús a la ciudad de Hvar."
+        "nome": "Stari Grad",
+        "perChi": "Quien llega en ferry con coche y busca calma",
+        "testo": "La ciudad más antigua de la isla, con su puerto largo y estrecho, restaurantes en el muelle y la llanura de la UNESCO justo al lado. Aquí atraca el ferry desde Split; Hvar ciudad está a 20-30 minutos en autobús o en coche.",
+        "fascia": "80-180 €"
+      },
+      {
+        "nome": "Jelsa y Vrboska",
+        "perChi": "Quien busca precios más bajos y playas tranquilas",
+        "testo": "Dos pueblos vecinos en la costa noreste, con pinares y calas a pie. Son los más baratos de la isla pero quedan lejos de Hvar ciudad: poco prácticos para salir allí cada noche.",
+        "fascia": "70-150 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Vis y la Cueva Azul",
+        "distanza": "día completo en lancha",
+        "come": "Excursiones organizadas en lancha desde el puerto de Hvar ciudad, con paradas en Biševo, Vis y a menudo la bahía de Stiniva.",
+        "testo": "La isla más lejana y menos construida de la Dalmacia central y la Cueva Azul del islote de Biševo, donde la luz entra por una abertura bajo el agua. Se ve mejor en las horas centrales de un día de sol; con mala mar la cueva cierra."
+      },
+      {
+        "nome": "Bol y Zlatni Rat (Brač)",
+        "distanza": "travesía corta en catamarán desde Jelsa",
+        "come": "Catamarán de Jadrolinija de la línea Split-Bol-Jelsa, en los meses en que funciona.",
+        "testo": "La playa en punta de Zlatni Rat, que cambia de forma con el viento, y el pueblo de Bol con su convento dominico junto al mar."
+      },
+      {
+        "nome": "Korčula",
+        "distanza": "aproximadamente 1 hora y media en catamarán",
+        "come": "Catamarán desde Hvar ciudad, por unos 20-30 €.",
+        "testo": "La ciudad amurallada en su península, con calles en espina de pez y la catedral de San Marcos. Tiene más sentido como siguiente etapa hacia Dubrovnik que como ida y vuelta en el día."
       }
     ],
     sapori: [
@@ -543,6 +1004,32 @@ export const destinazioniCroazia: Destinazione[] = [
       "El ferry desde Split va a Stari Grad; desde allí hace falta autobús o taxi a la ciudad de Hvar.",
       "En verano las habitaciones de fin de semana se acaban pronto: reservar con meses de antelación.",
       "Llevar escarpines en las rocas: hay erizos de mar."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Hvar?",
+        "risposta": "Dos días bastan para Hvar ciudad, la fortaleza, las Pakleni y una vuelta por el interior con Stari Grad. Con tres se añade la excursión a Vis y a la Cueva Azul."
+      },
+      {
+        "domanda": "¿Es mejor dormir en Hvar ciudad o en Stari Grad?",
+        "risposta": "Hvar ciudad para la vida nocturna y las Pakleni, pero es más cara y ruidosa en verano. Stari Grad y Jelsa son más tranquilas, más baratas y cómodas para quien llega en ferry con coche."
+      },
+      {
+        "domanda": "¿Cómo se llega a Hvar desde Split?",
+        "risposta": "En catamarán a Hvar ciudad en una hora (10-25 € en verano) o en ferry con coche hasta Stari Grad. En temporada alta conviene reservar."
+      },
+      {
+        "domanda": "¿Cuándo florece la lavanda en Hvar?",
+        "risposta": "Entre junio y julio, en los campos del interior alrededor de Velo Grablje y a lo largo de la carretera vieja a Stari Grad."
+      },
+      {
+        "domanda": "¿Cuánto cuesta el taxi-barco a las islas Pakleni?",
+        "risposta": "Unos 10-15 € ida y vuelta, con salidas frecuentes en verano desde el puerto de Hvar. Conviene acordar la hora de vuelta."
+      },
+      {
+        "domanda": "¿Hay multas en Hvar por ir en bañador o beber en la calle?",
+        "risposta": "Sí, en la ciudad ir en bañador, beber en la calle o dormir en la playa se multa, con sanciones de hasta 500-700 €."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
@@ -671,10 +1158,12 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     cosaFare: ['El recorrido de las murallas a última hora de la tarde', 'Un baño en el Buža, fuera de las murallas', 'Ostras en Mali Ston'],
     doveDormire: 'Dentro de las murallas (desde 150 €, a menudo más de 250 € en temporada alta) o en Lapad y Gruž para precios más bajos.',
-    comeArrivare: 'Aeropuerto de Čilipi (unos 20 km); catamarán desde Split, Hvar y Korčula; coche por el puente de Pelješac.',
+    comeArrivare:
+      "El aeropuerto de Dubrovnik (Čilipi) está a unos 20 km al sur de la ciudad: el autobús lanzadera Platanus llega a la Puerta de Ploče y a la estación de Gruž en unos 30-35 minutos, por unos 10 € (15 € ida y vuelta); el taxi cuesta unos 40-50 €, Uber y Bolt suelen salir más baratos. Los catamaranes desde Split, Hvar y Korčula atracan en Gruž, desde donde los autobuses Libertas 1A y 1B llevan a la Puerta Pile por unos 2 €. En coche se llega desde el norte por el puente de Pelješac, sin pasar por Bosnia en Neum; el aparcamiento cerca del casco antiguo es escaso y caro.",
     comeSpostarsi: 'A pie por el centro; autobuses urbanos a Gruž y Lapad; barco a Lokrum.',
     periodoMigliore: 'mayo-junio y septiembre-octubre.',
-    costi: 'Murallas unos 40 € con Lovrijenac; Lokrum con barco 25-30 €.',
+    costi:
+      "Murallas unos 40 € (incluyen la fortaleza de Lovrijenac); teleférico 30 € ida y vuelta; Lokrum 30 € con el barco; Palacio del Rector 15 €, o 20 € con la entrada única de los diez museos de la ciudad, válida 7 días; murallas de Ston unos 10 €. Presupuesto diario por persona, compartiendo habitación doble: bajo 70-100 €, medio 130-200 €, alto más de 300 €. Dubrovnik es la ciudad más cara de Croacia, sobre todo en julio y agosto.",
     erroriDaEvitare: [
       'Subir a las murallas en las horas centrales, con calor y la multitud de los cruceros',
       'Reservar dentro de las murallas sin tener en cuenta las escaleras con el equipaje',
@@ -682,76 +1171,229 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     luoghi: [
       {
-        nome: "Murallas de Dubrovnik",
-        testo: "Un anillo de murallas medievales de casi dos kilómetros alrededor del casco antiguo, con torres y baluartes. El mejor recorrido para ver los tejados rojos y el mar.",
-        come: "Se sube por la Puerta Pile o por el lado del puerto, siguiendo las indicaciones en el lugar.",
-        quando: "A la apertura o al final de la tarde: a mediodía hace calor y hay mucha gente.",
-        tempo: "1 hora y media-2 horas",
-        costo: "Entrada de pago, precios en la web oficial.",
-        consiglio: "Llevar agua y gorra: hay poca sombra."
+        "nome": "Murallas de Dubrovnik",
+        "testo": "Un anillo de murallas medievales de casi dos kilómetros alrededor del casco antiguo, con torres y baluartes. El mejor recorrido para ver los tejados rojos y el mar.",
+        "come": "Se sube por la Puerta Pile o por el lado del puerto, siguiendo las indicaciones en el lugar.",
+        "quando": "A la apertura o al final de la tarde: a mediodía hace calor y hay mucha gente.",
+        "tempo": "1 hora y media-2 horas",
+        "costo": "unos 40 € (2026), con la entrada a la fortaleza de Lovrijenac incluida",
+        "consiglio": "Llevar agua y gorra: hay poca sombra.",
+        "lat": 42.64172,
+        "lng": 18.10729,
+        "url": "https://citywallsdubrovnik.hr/"
       },
       {
-        nome: "Stradun y casco antiguo",
-        testo: "La calle principal de piedra pulida, de unos 300 metros, con la fuente de Onofrio, el Palacio del Rector y la iglesia de San Blas. Tras el terremoto de 1667 se reconstruyó en formas barrocas.",
-        come: "A pie desde la Puerta Pile. Los coches no entran.",
-        quando: "A primera hora o por la noche.",
-        tempo: "2-3 horas",
-        consiglio: "Un paseo después de las 20, cuando se han ido los grupos, es muy distinto."
+        "nome": "Stradun y casco antiguo",
+        "testo": "La calle principal de piedra pulida, de unos 300 metros, con la fuente de Onofrio, el Palacio del Rector y la iglesia de San Blas. Tras el terremoto de 1667 se reconstruyó en formas barrocas.",
+        "come": "A pie desde la Puerta Pile. Los coches no entran.",
+        "quando": "A primera hora o por la noche.",
+        "tempo": "2-3 horas",
+        "consiglio": "Un paseo después de las 20, cuando se han ido los grupos, es muy distinto.",
+        "costo": "gratis",
+        "orari": "Siempre accesible; iglesias y museos de la calle tienen su propio horario.",
+        "lat": 42.64134,
+        "lng": 18.10885
       },
       {
-        nome: "Teleférico y monte Srđ",
-        testo: "Desde la estación sobre las murallas el teleférico sube en pocos minutos al monte Srđ, de 412 metros, con vistas a toda la ciudad y las islas. Arriba está el Fuerte Imperial, construido por los franceses a principios del siglo XIX, que alberga el museo de la guerra de los años noventa, cuando la ciudad fue sitiada. Al atardecer los tejados rojos y Lokrum se tiñen de color, y es el mejor momento.",
-        come: "Desde la estación cerca de la Puerta Buža, a pie.",
-        quando: "Final de la tarde para el atardecer.",
-        tempo: "1-2 horas",
-        costo: "30 € ida y vuelta, 17 € solo ida (web oficial, 2026). Cerrado en diciembre y de enero a marzo; último viaje 30 minutos antes del cierre.",
-        consiglio: "Reservar horario de atardecer: las colas pueden ser largas."
+        "nome": "Fortaleza de Lovrijenac",
+        "testo": "La fortaleza sobre un espolón de roca de 37 metros fuera de la Puerta Pile, que vigilaba la ciudad por el lado del mar. Sobre la entrada se lee «Non bene pro toto libertas venditur auro», el lema de la república de Ragusa. Desde las terrazas se ven las murallas de enfrente, la bahía de Pile y el mar abierto.",
+        "come": "A pie desde la Puerta Pile, por una escalinata empinada. Se entra con la entrada de las murallas.",
+        "quando": "A última hora de la tarde, después de las murallas, cuando la luz da en los baluartes de enfrente.",
+        "tempo": "45 minutos",
+        "costo": "incluida en la entrada de las murallas (unos 40 €, 2026)",
+        "lat": 42.6408,
+        "lng": 18.10423,
+        "url": "https://citywallsdubrovnik.hr/",
+        "consiglio": "Guardar la entrada de las murallas: también vale aquí los días siguientes."
       },
       {
-        nome: "Ston y las ostras de Mali Ston",
-        testo: "Las murallas de Ston, de unos 5,5 km, son de los sistemas de fortificación más largos conservados del mundo. En la bahía de Mali Ston se crían las ostras.",
-        come: "En coche desde Dubrovnik por la costa hacia el noroeste, al comienzo de la península de Pelješac.",
-        quando: "Por la mañana para las murallas y comida con ostras.",
-        tempo: "media jornada",
-        consiglio: "Las murallas son de pago y la caminata cansa."
+        "nome": "Palacio del Rector",
+        "testo": "El palacio gótico-renacentista desde el que se gobernaba la república: el rector vivía aquí un mes y luego dejaba el puesto a otro noble. Hoy es el Museo de Historia Cultural, con los salones de representación, la armería, las celdas y el patio porticado. Es la forma más clara de entender cómo funcionaba Ragusa.",
+        "come": "En la plaza de la Luža, al final del Stradun. Entrada individual o única para los diez museos de la ciudad.",
+        "quando": "Por la mañana, antes de los grupos de los cruceros.",
+        "tempo": "1 hora",
+        "costo": "15 €; entrada única para 10 museos 20 €, válida 7 días (tarifa oficial)",
+        "orari": "1 de abril-31 de octubre todos los días 9-18; 1 de noviembre-31 de marzo 9-16, cerrado los lunes. Cerrado en Navidad, Año Nuevo y el 3 de febrero (San Blas).",
+        "lat": 42.64032,
+        "lng": 18.11073,
+        "url": "https://www.dumus.hr/en/",
+        "consiglio": "Si también se piensa ver el Museo de la Guerra Patria en el Srđ o el Museo Marítimo, compensa la entrada única."
       },
       {
-        nome: "Isla de Lokrum",
-        testo: "La isla boscosa frente al casco antiguo, reserva natural a unos 600 metros de la ciudad. Hay un monasterio benedictino con jardín botánico, el fuerte napoleónico en lo alto, pavos reales sueltos y el «Mar Muerto», un pequeño lago de agua salada donde uno se baña. Se nada desde las rocas, lejos del gentío del Stradun.",
-        come: "Barcos regulares desde el puerto viejo, con una travesía corta.",
-        quando: "En la temporada buena, por la mañana; horarios de los barcos en el puerto.",
-        tempo: "medio día",
-        consiglio: "Comprobar la hora del último barco de vuelta antes de ir."
+        "nome": "Isla de Lokrum",
+        "testo": "La isla boscosa frente al casco antiguo, reserva natural a unos 600 metros de la ciudad. Hay un monasterio benedictino con jardín botánico, el fuerte napoleónico en lo alto, pavos reales sueltos y el «Mar Muerto», un pequeño lago de agua salada donde uno se baña. Se nada desde las rocas, lejos del gentío del Stradun.",
+        "come": "Barcos regulares desde el puerto viejo, con una travesía corta.",
+        "quando": "En la temporada buena, por la mañana; horarios de los barcos en el puerto.",
+        "tempo": "medio día",
+        "consiglio": "Comprobar la hora del último barco de vuelta antes de ir.",
+        "costo": "30 € adultos, 5 € de 7 a 18 años, barco de ida y vuelta incluido (tarifa 2026)",
+        "orari": "Barcos desde el puerto viejo; desde el 9 de noviembre de 2026 cada hora de 10 a 15, último regreso a las 16; en verano, más frecuentes. Con mala mar el barco no sale y en la isla no se puede pernoctar.",
+        "lat": 42.62757,
+        "lng": 18.12066,
+        "url": "https://www.lokrum.hr/"
+      },
+      {
+        "nome": "Teleférico y monte Srđ",
+        "testo": "Desde la estación sobre las murallas el teleférico sube en pocos minutos al monte Srđ, de 412 metros, con vistas a toda la ciudad y las islas. Arriba está el Fuerte Imperial, construido por los franceses a principios del siglo XIX, que alberga el museo de la guerra de los años noventa, cuando la ciudad fue sitiada. Al atardecer los tejados rojos y Lokrum se tiñen de color, y es el mejor momento.",
+        "come": "Desde la estación cerca de la Puerta Buža, a pie.",
+        "quando": "Final de la tarde para el atardecer.",
+        "tempo": "1-2 horas",
+        "costo": "30 € ida y vuelta, 17 € solo ida (web oficial, 2026). Cerrado en diciembre y de enero a marzo; último viaje 30 minutos antes del cierre.",
+        "consiglio": "Reservar horario de atardecer: las colas pueden ser largas.",
+        "orari": "2026: abril 9-21; mayo 9-22 (desde el 15 hasta las 23:30); junio-agosto 9-24; septiembre 9-24 (desde el 15 hasta las 23); octubre 9-21 (desde el 21 hasta las 20); noviembre 9-17. Cerrado de diciembre a marzo y con viento fuerte.",
+        "lat": 42.64307,
+        "lng": 18.11157,
+        "url": "https://www.dubrovnikcablecar.com/"
+      },
+      {
+        "nome": "Monasterio franciscano",
+        "testo": "El convento de los Frailes Menores, justo dentro de la Puerta Pile, con un claustro románico de columnas pareadas y capiteles todos distintos. Dentro hay una farmacia abierta a comienzos del siglo XIV y todavía en funcionamiento, de las más antiguas de Europa. El pequeño museo conserva los tarros y registros de la antigua botica.",
+        "come": "Se entra desde el Stradun, justo a la izquierda tras la Puerta Pile. Entrada para claustro y museo; la farmacia se visita como tienda.",
+        "quando": "A la apertura, cuando el claustro aún está en silencio.",
+        "tempo": "30-45 minutos",
+        "lat": 42.64167,
+        "lng": 18.10773
+      },
+      {
+        "nome": "Catedral de la Asunción",
+        "testo": "La catedral barroca reconstruida tras el terremoto de 1667, en el lugar de una iglesia románica más antigua. Sobre el altar mayor hay un políptico de la Asunción atribuido al taller de Tiziano. El tesoro guarda los relicarios de San Blas, el patrón de la ciudad.",
+        "come": "Detrás del Palacio del Rector, hacia el puerto viejo. La iglesia es gratuita; el tesoro se paga aparte.",
+        "quando": "Fuera del horario de misas, por la mañana.",
+        "tempo": "30 minutos",
+        "lat": 42.63991,
+        "lng": 18.11042
+      },
+      {
+        "nome": "Iglesia de San Blas y columna de Orlando",
+        "testo": "La iglesia barroca del patrón, al final del Stradun, con la estatua de plata del santo que sostiene una maqueta de la ciudad. Delante está la columna de Orlando, de 1418, donde se leían los decretos y se izaba la bandera de la república. El 3 de febrero la fiesta de San Blas llena la plaza.",
+        "come": "En la plaza de la Luža, a pie desde el Stradun.",
+        "quando": "Por la noche, cuando la plaza se vacía y la fachada está iluminada.",
+        "tempo": "20 minutos",
+        "costo": "gratis",
+        "lat": 42.6407,
+        "lng": 18.11028
+      },
+      {
+        "nome": "Monasterio dominico",
+        "testo": "El gran convento junto a la Puerta de Ploče, encajado en las murallas del lado este. El claustro gótico con ajimeces y jardín es uno de los rincones más tranquilos del casco antiguo. El museo reúne pinturas de la escuela ragusea, orfebrería y manuscritos.",
+        "come": "A pie desde la plaza de la Luža hacia la Puerta de Ploče. Entrada en el acceso al claustro.",
+        "quando": "A primera hora de la tarde, cuando los grupos están en las murallas.",
+        "tempo": "45 minutos",
+        "lat": 42.64165,
+        "lng": 18.11111
+      },
+      {
+        "nome": "Buža, las rocas bajo las murallas",
+        "testo": "Una abertura en las murallas del lado sur lleva a un bar sobre rocas cortadas a pico sobre el mar. Se toma algo mirando Lokrum y uno se tira al agua desde las rocas, con escalerillas metálicas para subir.",
+        "come": "Se sigue el cartel «Cold drinks» desde la zona de la iglesia de los jesuitas y se pasa por el hueco de la muralla.",
+        "quando": "Al atardecer para el bar, por la mañana para nadar con menos gente.",
+        "tempo": "1-2 horas",
+        "lat": 42.63899,
+        "lng": 18.10884,
+        "consiglio": "Escarpines y nada de niños pequeños: no hay playa, solo rocas."
+      },
+      {
+        "nome": "Playa de Banje",
+        "testo": "La playa de cantos más cercana al casco antiguo, justo fuera de la Puerta de Ploče, con vistas a las murallas y a Lokrum. Una parte es libre y otra la ocupa un beach club con tumbonas de pago.",
+        "come": "A 5 minutos a pie de la Puerta de Ploče, bajando desde la carretera.",
+        "quando": "A primera hora o después de las 17; en las horas centrales del verano está llena.",
+        "tempo": "2-3 horas",
+        "costo": "acceso libre; tumbonas del beach club de pago",
+        "lat": 42.64161,
+        "lng": 18.11638
+      },
+      {
+        "nome": "Ston y las ostras de Mali Ston",
+        "testo": "Las murallas de Ston, de unos 5,5 km, son de los sistemas de fortificación más largos conservados del mundo. En la bahía de Mali Ston se crían las ostras.",
+        "come": "En coche desde Dubrovnik por la costa hacia el noroeste, al comienzo de la península de Pelješac.",
+        "quando": "Por la mañana para las murallas y comida con ostras.",
+        "tempo": "media jornada",
+        "consiglio": "Las murallas son de pago y la caminata cansa.",
+        "costo": "murallas de Ston unos 10 € (2026)",
+        "lat": 42.83964,
+        "lng": 17.69399
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Murallas a la apertura",
-          "Stradun y Palacio del Rector",
-          "Comida fuera de las murallas",
-          "Teleférico al atardecer"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: el Stradun a la apertura, el monasterio franciscano y el Palacio del Rector antes de los cruceros",
+          "Media mañana: la catedral y la iglesia de San Blas en la Luža",
+          "Comida: fuera del Stradun, en las callejuelas laterales",
+          "Tarde: baño en Banje o en las rocas del Buža",
+          "Última hora de la tarde: las murallas desde la Puerta Pile y luego Lovrijenac con la misma entrada",
+          "Noche: teleférico al Srđ para la puesta de sol"
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: murallas, Stradun y teleférico",
-          "Día 2: Ston y ostras, o Lokrum en barca"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como en el programa de un día",
+          "Día 2, mañana: barco a Lokrum, monasterio benedictino, jardín botánico y baño en el «Mar Muerto»",
+          "Día 2, tarde: monasterio dominico y Museo Marítimo con la entrada única de los museos",
+          "Día 2, noche: cena en Lapad o en Gruž, más baratos que el centro"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba",
+          "Día 3: en coche a Ston, murallas hasta Mali Ston por la mañana y ostras a mediodía, luego las bodegas de Dingač en la península de Pelješac",
+          "Como alternativa: barco a las islas Elafiti (Koločep, Lopud, Šipan) desde el puerto de Gruž"
         ]
       }
     ],
     zone: [
       {
-        nome: "Casco antiguo",
-        perChi: "para dormir dentro de las murallas",
-        testo: "Habitaciones dentro de la ciudad, pero ruidoso, abarrotado de día y con pocos servicios para coches."
+        "nome": "Casco antiguo",
+        "perChi": "para dormir dentro de las murallas",
+        "testo": "Habitaciones dentro de la ciudad, pero ruidoso, abarrotado de día y con pocos servicios para coches.",
+        "fascia": "150-350 €"
       },
       {
-        nome: "Lapad y Babin Kuk",
-        perChi: "para playas",
-        testo: "Penínsulas a pocos km, con hoteles, playas y autobuses al centro."
+        "nome": "Ploče",
+        "perChi": "Quien quiere vistas al casco antiguo y tiene presupuesto alto",
+        "testo": "El barrio en la ladera justo al este de la Puerta de Ploče, con los hoteles más caros y terrazas sobre el puerto viejo y Lokrum. Banje queda debajo y el casco antiguo a pocos minutos a pie, pero todo son escaleras.",
+        "fascia": "250-500 €"
+      },
+      {
+        "nome": "Lapad y Babin Kuk",
+        "perChi": "para playas",
+        "testo": "Penínsulas a pocos km, con hoteles, playas y autobuses al centro.",
+        "fascia": "100-250 €"
+      },
+      {
+        "nome": "Gruž",
+        "perChi": "Quien llega o se va en catamarán y busca precios más bajos",
+        "testo": "El barrio del puerto, con el mercado de la mañana, la estación de autobuses y los muelles de los catamaranes. No es el más bonito, pero las habitaciones cuestan menos y los autobuses 1A y 1B llegan a la Puerta Pile en un cuarto de hora.",
+        "fascia": "80-180 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Cavtat",
+        "distanza": "unos 20 km, 30 minutos",
+        "come": "Autobús urbano Libertas línea 10 desde la estación de Gruž o barco desde el puerto viejo de Dubrovnik.",
+        "testo": "Un pueblo de mar tranquilo en una península verde, con paseo de palmeras, el mausoleo Račić del escultor Meštrović y un sendero alrededor de la punta con calas para bañarse. Está cerca del aeropuerto: sirve también para la última mañana."
+      },
+      {
+        "nome": "Islas Elafiti",
+        "distanza": "de 30 minutos a 1 hora en barco",
+        "come": "Barcos de línea de Jadrolinija o excursiones organizadas desde el puerto de Gruž hacia Koločep, Lopud y Šipan.",
+        "testo": "Tres islas sin coches, con pueblos de pescadores, villas de verano de la nobleza ragusea y playas como la arenosa Šunj en Lopud. Se pueden combinar dos islas en el mismo día."
+      },
+      {
+        "nome": "Mljet",
+        "distanza": "unas 1,5-2 horas en catamarán",
+        "come": "Catamarán desde el puerto de Gruž; luego autobús, bici o a pie hasta los lagos del parque nacional.",
+        "testo": "La mitad oeste de la isla es parque nacional, con dos lagos salados entre pinares y el monasterio benedictino en el islote de Santa María, en medio del lago grande. Se recorre en bici o en kayak."
+      },
+      {
+        "nome": "Bocas de Kotor (Montenegro)",
+        "distanza": "unas 2 horas en coche, con frontera",
+        "come": "En coche de alquiler (hace falta el permiso de la empresa y la carta verde) o con una excursión organizada.",
+        "testo": "El fiordo de Montenegro con Perast y sus islotes y la ciudad amurallada de Kotor bajo la montaña. La frontera, fuera de Schengen, puede ser lenta en verano: conviene salir temprano."
       }
     ],
     sapori: [
@@ -777,6 +1419,32 @@ export const destinazioniCroazia: Destinazione[] = [
       "Los restaurantes del Stradun cuestan más: ir a callejuelas laterales o fuera de las murallas.",
       "Los aparcamientos dentro y fuera de la ciudad cobran por horas y multan a quien se pasa.",
       "El puente de Pelješac evita cruzar Bosnia en Neum, así que no hay controles de frontera."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Dubrovnik?",
+        "risposta": "Dos días bastan para las murallas, el casco antiguo, el teleférico y Lokrum. Con tres se añade Ston con sus ostras, las Elafiti o Montenegro."
+      },
+      {
+        "domanda": "¿Cuánto cuestan las murallas de Dubrovnik y compensa el Dubrovnik Pass?",
+        "risposta": "La entrada a las murallas cuesta unos 40 € e incluye la fortaleza de Lovrijenac. El Dubrovnik Pass de un día cuesta lo mismo y añade museos y autobuses, pero no el teleférico."
+      },
+      {
+        "domanda": "¿Cuál es la mejor hora para recorrer las murallas?",
+        "risposta": "A la apertura o a última hora de la tarde. A mediodía en verano hace mucho calor, casi no hay sombra y llegan los grupos de los cruceros."
+      },
+      {
+        "domanda": "¿Dónde dormir en Dubrovnik?",
+        "risposta": "Dentro de las murallas por el ambiente (unos 150-350 € la noche, con muchas escaleras), en Ploče por las vistas, en Lapad por las playas y los precios más bajos, en Gruž por el puerto de catamaranes."
+      },
+      {
+        "domanda": "¿Cómo se llega a Lokrum y cuánto cuesta?",
+        "risposta": "En barco desde el puerto viejo, en unos 15 minutos. La entrada a la reserva cuesta 30 € (5 € de 7 a 18 años) e incluye la travesía; el último barco vuelve por la tarde."
+      },
+      {
+        "domanda": "¿Se puede hacer una excursión a Montenegro desde Dubrovnik?",
+        "risposta": "Sí, las Bocas de Kotor están a unas dos horas por carretera. Hace falta un documento válido para salir del país y, con coche de alquiler, el permiso de la empresa."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],

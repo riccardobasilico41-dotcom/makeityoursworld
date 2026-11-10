@@ -1063,12 +1063,10 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     doveDormire:
       "Económico: guesthouses nubias en la isla Elefantina o en Gharb Soheil · gama media: hoteles en la Corniche · lujo: Old Cataract (Sofitel Legendary). En Abu Simbel hay pocos alojamientos, entre ellos el ecolodge Eskaleh.",
-    comeArrivare:
-      "Vuelo desde El Cairo (1 h 25), tren nocturno con camarotes cama desde El Cairo o desde Guiza, crucero por el Nilo desde Luxor (3-4 noches). Para Abu Simbel: carretera de 3,5 horas con salida antes del amanecer, o bien vuelo de EgyptAir de 45 minutos.",
+    comeArrivare: "Desde El Cairo el vuelo de EgyptAir dura 1 h 25 y cuesta orientativamente 70-140 €. Como alternativa está el tren nocturno con camarotes de Abela Trains desde las estaciones Cairo Upper Egypt (Bashtil) o Guiza, unas 13-14 horas, 110-125 $ por persona en camarote doble con cena y desayuno, reservable en abelatrains.com. Desde Luxor se llega en crucero por el Nilo (hacia el sur los barcos hacen 4 noches) o en unas 3 horas en coche. Desde el aeropuerto de Asuán (ASW) el taxi se acuerda antes, en libras egipcias. Para Abu Simbel: 280 km, 3-3,5 horas de carretera saliendo antes del amanecer, o el vuelo de EgyptAir de 45 minutos.",
     comeSpostarsi: "Barcas públicas y privadas por el Nilo, taxis y Uber en la ciudad; para Abu Simbel minivan con conductor o excursión en grupo.",
     periodoMigliore: "de noviembre a marzo; en verano es el lugar más caluroso del país",
-    costi:
-      "Abu Simbel aproximadamente 750-850 EGP; Philae unos 550 EGP más la barca (a acordar, 300-500 EGP por barca); Museo Nubio unos 300 EGP; falúa aproximadamente 300-600 EGP la hora por barca (orientativos).",
+    costi: "Presupuesto bajo unos 30-45 € al día por persona (guesthouse en Elefantina, comida en puestos, barca pública, un sitio al día); medio 70-120 € (hotel en la Corniche, falúa, Abu Simbel en minivan compartida); alto desde 200 € (hotel histórico, coche privado o vuelo a Abu Simbel, guía). Entradas 2026: Abu Simbel 822 EGP, Filé 550 más la barca (300-500 EGP por barca), Museo Nubio 400, obelisco inacabado 220, Elefantina y Tumbas de los Nobles 200 EGP; falúa orientativamente 300-600 EGP la hora por barca. Un euro vale unas 60 EGP.",
     erroriDaEvitare: [
       "Hacer Abu Simbel en un día de verano sin contar con levantarse a las 3-4 y siete horas de carretera entre ida y vuelta",
       "Subirse a una falúa sin acordar si el precio es por persona o por barca, y por cuánto tiempo",
@@ -1081,9 +1079,12 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Desde Asuán unos 300 km por carretera, saliendo antes del amanecer, o en avión.",
         "quando": "Abierto todos los días de 6 a 17 (2026). Llegar a la apertura, antes de los autobuses de grupos.",
         "tempo": "1,5-2 horas en el lugar",
+        "costo": "822 EGP, unos 14 €, para adultos extranjeros, 375 para estudiantes; 1.200 EGP (estudiantes 600) el 22 de febrero y el 22 de octubre (2026)",
+        "orari": "Todos los días 6-17 (2026)",
+        "lat": 22.33694,
+        "lng": 31.62556,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
-        "consiglio": "Quien pueda, que duerma en Abu Simbel para el espectáculo de luz y sonido y el amanecer.",
-        "costo": "750 EGP adultos extranjeros, 375 estudiantes; 1.200 EGP (estudiantes 600) el 22 de febrero y el 22 de octubre (2026)"
+        "consiglio": "Quien pueda, que duerma en Abu Simbel para el espectáculo de luz y sonido y el amanecer."
       },
       {
         "nome": "Templo de Filé",
@@ -1091,8 +1092,81 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Taxi hasta el embarcadero, luego lancha, con el precio por acordar.",
         "quando": "Abierto todos los días de 7 a 16 (2026). A primera hora por la luz.",
         "tempo": "1,5 horas",
-        "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
-        "costo": "550 EGP adultos extranjeros, 275 estudiantes, más la barca desde el muelle, a acordar (2026)"
+        "costo": "550 EGP, unos 9 €, para adultos extranjeros, 275 para estudiantes, más la barca desde el embarcadero, a acordar, orientativamente 300-500 EGP por barca (2026)",
+        "orari": "Todos los días 7-16 (2026)",
+        "lat": 24.02083,
+        "lng": 32.88944,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/"
+      },
+      {
+        "nome": "Falúa al atardecer",
+        "testo": "El velero tradicional alrededor de la isla Elefantina, para un paseo de una o dos horas.",
+        "come": "Desde el paseo del río de Asuán.",
+        "quando": "Atardecer.",
+        "tempo": "1-2 horas",
+        "costo": "orientativamente 300-600 EGP la hora por barca, unos 5-10 € (2026, del viaje del sitio)",
+        "consiglio": "Acordar si el precio es por barco o por persona, y cuánto dura."
+      },
+      {
+        "nome": "Museo Nubio",
+        "testo": "El museo cuenta la Nubia sumergida por el lago Nasser tras la construcción de la Presa Alta, con estatuas, objetos de la vida cotidiana y maquetas de las aldeas. Fuera hay un jardín con una casa nubia reconstruida. Visto antes de Abu Simbel y Filé, ayuda a entenderlos.",
+        "come": "Al sur del centro, a pocos minutos en taxi desde la Corniche.",
+        "quando": "En las horas de calor de la tarde, o el jueves y el viernes por la noche.",
+        "tempo": "1,5-2 horas",
+        "costo": "400 EGP, unos 6,5 €, para adultos extranjeros; estudiantes 200 EGP (2026)",
+        "orari": "Todos los días desde las 9, última entrada a las 16; jueves y viernes también desde las 18, última entrada a las 20 (2026)",
+        "lat": 24.08,
+        "lng": 32.88944,
+        "url": "https://egymonuments.com/details/NubiaMuseum"
+      },
+      {
+        "nome": "Isla Elefantina",
+        "testo": "La isla frente a la Corniche era la frontera sur del antiguo Egipto. En la zona arqueológica del sur están los restos de la ciudad antigua, el templo de Jnum, el nilómetro y un pequeño museo; el resto de la isla son aldeas nubias con casas de colores y callejones entre palmeras.",
+        "come": "Barca pública desde la Corniche, pocos minutos, o en falúa.",
+        "quando": "Por la mañana o a última hora de la tarde.",
+        "tempo": "1,5-2 horas",
+        "costo": "200 EGP, unos 3,5 €, para adultos extranjeros; estudiantes 100 EGP (2026)",
+        "orari": "Todos los días 8-16 (2026)",
+        "lat": 24.08472,
+        "lng": 32.88667,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/elephantine-1/",
+        "consiglio": "Después de las ruinas conviene cruzar a pie las aldeas de la isla: se ve la vida cotidiana a dos pasos de los hoteles."
+      },
+      {
+        "nome": "Obelisco inacabado",
+        "testo": "Un obelisco que se quedó en la cantera de granito porque se agrietó durante el corte: habría sido uno de los más grandes jamás intentados. En la roca se ven aún las marcas del trabajo, y se entiende mejor que en un museo cómo se extraían los monolitos.",
+        "come": "En taxi, al sur del centro; normalmente se combina con Filé y la Presa Alta.",
+        "quando": "A primera hora, antes de que la cantera se caliente.",
+        "tempo": "45 minutos",
+        "costo": "220 EGP, unos 3,5 €, para adultos extranjeros; estudiantes 110 EGP (2026)",
+        "orari": "Todos los días desde las 7, última entrada a las 15 (2026)",
+        "lat": 24.07689,
+        "lng": 32.89545,
+        "url": "https://egymonuments.com/details/UnfinishedObelisk"
+      },
+      {
+        "nome": "Tumbas de los Nobles (Qubbet el-Hawa)",
+        "testo": "Las tumbas excavadas en la roca de los gobernadores de Elefantina, en la colina de la orilla oeste. Se sube por una escalinata empinada y desde arriba se tiene una de las mejores vistas del Nilo, las islas y la ciudad.",
+        "come": "Barca desde la Corniche hasta el embarcadero bajo la colina, luego a pie.",
+        "quando": "Por la tarde, antes del cierre: la luz sobre el río es más cálida.",
+        "tempo": "1,5 horas",
+        "costo": "200 EGP, unos 3,5 €, para adultos extranjeros; estudiantes 100 EGP (2026)",
+        "orari": "Todos los días 7-16 (2026)",
+        "lat": 24.10177,
+        "lng": 32.88916,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/qubbat-al-hawa-cemetery-1"
+      },
+      {
+        "nome": "Monasterio de San Simeón",
+        "testo": "Un monasterio copto fortificado en el desierto de la orilla oeste, con murallas de piedra y adobe, la iglesia y las celdas de los monjes. Es uno de los conjuntos monásticos mejor conservados de Egipto y suele haber muy poca gente.",
+        "come": "Barca hasta la orilla oeste, luego a pie cuesta arriba por la arena, o en camello acordando el precio.",
+        "quando": "A primera hora: en el desierto no hay sombra.",
+        "tempo": "1,5-2 horas con la subida",
+        "costo": "150 EGP, unos 2,5 €, para adultos extranjeros; estudiantes 50 EGP (2026)",
+        "orari": "Todos los días 7-17 (2026)",
+        "lat": 24.09472,
+        "lng": 32.87578,
+        "url": "https://egymonuments.gov.eg/en/monuments/monastery-of-st-simeon/"
       },
       {
         "nome": "Aldea nubia de Gharb Soheil",
@@ -1103,20 +1177,79 @@ export const destinazioniEgitto: Destinazione[] = [
         "consiglio": "Comer o cenar en una casa nubia es la mejor manera de conocer la zona."
       },
       {
-        "nome": "Falúa al atardecer",
-        "testo": "El velero tradicional alrededor de la isla Elefantina, para un paseo de una o dos horas.",
-        "come": "Desde el paseo del río de Asuán.",
-        "quando": "Atardecer.",
-        "tempo": "1-2 horas",
-        "consiglio": "Acordar si el precio es por barco o por persona, y cuánto dura."
+        "nome": "Templo de Kalabsha",
+        "testo": "El templo del dios nubio Mandulis, desmontado y reconstruido junto a la Presa Alta para salvarlo del lago Nasser, como Abu Simbel. Al lado están el quiosco de Kertassi y el pequeño templo de Beit el-Wali, también trasladados, y hay pocos visitantes.",
+        "come": "En lancha desde el puerto del lago, al sur de la Presa Alta, con el precio a acordar; en taxi junto con Filé y la presa.",
+        "quando": "Por la mañana.",
+        "tempo": "1-1,5 horas",
+        "costo": "200 EGP, unos 3,5 €, para adultos extranjeros; estudiantes 100 EGP; barca aparte (2026)",
+        "orari": "Todos los días desde las 7, última entrada a las 15 (2026)",
+        "lat": 23.96083,
+        "lng": 32.86722,
+        "url": "https://egymonuments.com/details/TempleofKalabsha"
+      },
+      {
+        "nome": "Presa Alta",
+        "testo": "La presa de los años sesenta que creó el lago Nasser, uno de los mayores lagos artificiales del mundo. Se cruza en coche y se para en el mirador: a un lado el lago, al otro el Nilo.",
+        "come": "En taxi, de camino a Filé o Kalabsha; puede haber control de documentos.",
+        "quando": "En la misma salida que Filé.",
+        "tempo": "20-30 minutos",
+        "lat": 23.97056,
+        "lng": 32.87778
+      },
+      {
+        "nome": "Jardín Botánico (isla Kitchener)",
+        "testo": "Una isla en el Nilo convertida en jardín botánico, con palmeras y plantas tropicales. Es una hora de sombra y pájaros en medio del río, a menudo incluida en el paseo en falúa.",
+        "come": "En falúa o lancha desde la Corniche, con la parada acordada antes.",
+        "quando": "A última hora de la tarde, antes de la falúa al atardecer.",
+        "tempo": "1 hora",
+        "lat": 24.09361,
+        "lng": 32.88694
+      },
+      {
+        "nome": "Mausoleo del Aga Khan",
+        "testo": "La tumba de granito rosa del Aga Khan III, en la colina de la orilla oeste, de estilo fatimí. Se ve bien desde el río, durante la falúa.",
+        "come": "Desde la falúa o la orilla oeste; si se puede visitar el interior, hay que preguntarlo allí.",
+        "quando": "Al atardecer, desde el río.",
+        "tempo": "Una parada desde el río",
+        "lat": 24.08828,
+        "lng": 32.8789
+      },
+      {
+        "nome": "Zoco de Asuán",
+        "testo": "La calle del mercado paralela a la Corniche, más tranquila que los zocos de El Cairo, con especias, karkadé, cestos de dátiles y telas nubias.",
+        "come": "A pie desde el centro.",
+        "quando": "Por la noche, cuando refresca.",
+        "tempo": "1-1,5 horas",
+        "consiglio": "Se regatea: preguntar antes el precio por kilo de especias y karkadé."
       }
     ],
     programmi: [
       {
+        "titolo": "1 día",
+        "tappe": [
+          "Al amanecer: Filé en barca desde el embarcadero de Shellal",
+          "Presa Alta y obelisco inacabado",
+          "Tarde: Museo Nubio",
+          "Desde las 16: falúa alrededor de Elefantina y el Jardín Botánico hasta el atardecer",
+          "Noche: paseo por el zoco"
+        ]
+      },
+      {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: Filé por la mañana, obelisco inacabado, falúa al atardecer",
-          "Día 2: Abu Simbel al amanecer, regreso a mediodía"
+          "Día 1: Filé por la mañana, obelisco inacabado, Museo Nubio y falúa al atardecer",
+          "Día 2: Abu Simbel al amanecer, con salida hacia las 4 y regreso a primera hora de la tarde",
+          "Última hora de la tarde: isla Elefantina y noche en el zoco"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: barca a la orilla oeste, Monasterio de San Simeón a primera hora y Tumbas de los Nobles",
+          "Tarde: Gharb Soheil, con cena en una casa nubia",
+          "Como alternativa: Kalabsha por la mañana o excursión a Kom Ombo"
         ]
       }
     ],
@@ -1124,7 +1257,20 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Paseo del río de Asuán",
         "perChi": "quien quiere ver el Nilo",
-        "testo": "Hoteles cerca del paseo y de las falúas. Cómodo para todo."
+        "testo": "Hoteles cerca del paseo y de las falúas. Cómodo para todo.",
+        "fascia": "50-130 €"
+      },
+      {
+        "nome": "Isla Elefantina",
+        "perChi": "quien quiere una aldea nubia a dos minutos en barca del centro",
+        "testo": "Guesthouses familiares y algún gran hotel; la barca pública une la isla con la Corniche en pocos minutos. Por la noche es muy tranquila.",
+        "fascia": "20-130 €"
+      },
+      {
+        "nome": "Aldeas nubias de la orilla oeste",
+        "perChi": "quien busca calma y ambiente",
+        "testo": "Casas nubias pintadas convertidas en guesthouses, con terrazas sobre el río, en Gharb Soheil y alrededores. Para ir al centro hace falta barca o taxi.",
+        "fascia": "35-85 €"
       },
       {
         "nome": "Abu Simbel",
@@ -1157,6 +1303,52 @@ export const destinazioniEgitto: Destinazione[] = [
       "Vendedores muy insistentes en el paseo del río: un no firme basta."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Kom Ombo",
+        "distanza": "unos 50 km, 1 hora",
+        "come": "Coche con conductor, o como primera parada del crucero hacia Luxor.",
+        "testo": "El único templo doble de Egipto, dedicado a Sobek, el dios cocodrilo, y a Horus, justo a orillas del Nilo; al lado está el pequeño museo de momias de cocodrilo. Entrada 450 EGP, unos 7,5 € (2026)."
+      },
+      {
+        "nome": "Edfu",
+        "distanza": "unos 110 km, 2 horas",
+        "come": "Coche con conductor, a menudo el mismo día que Kom Ombo, o en crucero.",
+        "testo": "El templo de Horus, el mejor conservado del país, con pilono, sala hipóstila y santuario casi intactos. Entrada 550 EGP (2026, del viaje del sitio)."
+      },
+      {
+        "nome": "Isla de Sehel",
+        "distanza": "unos 4 km al sur, en barca",
+        "come": "Lancha o falúa desde la Corniche, con el precio a acordar.",
+        "testo": "Una isla con una aldea nubia y cientos de inscripciones grabadas en los bloques de granito, entre ellas la Estela del Hambre. Media jornada tranquila en el río."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Asuán?",
+        "risposta": "Dos días bastan para Filé, el Museo Nubio, la falúa y Abu Simbel. Con un tercero se añaden la orilla oeste, Kalabsha o una noche en una aldea nubia."
+      },
+      {
+        "domanda": "¿Se puede hacer Abu Simbel en el día desde Asuán?",
+        "risposta": "Sí: se sale hacia las 4, se recorren 280 km en 3-3,5 horas, se pasan una hora y media o dos en los templos y se vuelve a primera hora de la tarde. Quien quiera evitar el madrugón duerme en Abu Simbel o toma el vuelo de EgyptAir de 45 minutos."
+      },
+      {
+        "domanda": "¿Cuánto cuesta ir a Abu Simbel?",
+        "risposta": "La minivan compartida cuesta orientativamente 20-35 $ por persona, el coche privado 100-150 $ por vehículo. La entrada es de 822 EGP, unos 14 € (2026)."
+      },
+      {
+        "domanda": "¿Cuándo entra el sol en el templo de Abu Simbel?",
+        "risposta": "El 22 de febrero y el 22 de octubre, al amanecer, el sol llega hasta el santuario del templo grande. Esos días la entrada sube a 1.200 EGP y hay mucha gente."
+      },
+      {
+        "domanda": "¿Cuánto cuesta una falúa en Asuán?",
+        "risposta": "Orientativamente 300-600 EGP la hora por barca (2026). Se acuerdan antes la duración, el recorrido y si el precio es por barca o por persona."
+      },
+      {
+        "domanda": "¿Se puede visitar Asuán en verano?",
+        "risposta": "De mayo a septiembre Asuán es de los lugares más calurosos del país, a menudo por encima de 40 °C: se visita al amanecer y se vuelve a salir por la noche. La mejor época va de noviembre a marzo."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-completo'],
     imageAlt: "Los templos de Abu Simbel con las estatuas colosales de Ramsés II esculpidas en la roca",

@@ -669,10 +669,10 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     cosaFare: ['Salire a piedi nudi dal basso al tramonto', 'Un bagno nella piscina antica'],
     doveDormire: 'Il villaggio di Pamukkale, ai piedi delle terrazze, con pensioni e piccoli hotel con piscina termale.',
-    comeArrivare: 'Aeroporto di Denizli Çardak, poi 1 ora di strada; bus da Göreme (notturno, circa 9-10 ore), da Selçuk (3 ore) e da Antalya (4 ore).',
+    comeArrivare: "L'aeroporto più vicino è Denizli Çardak, a circa un'ora di strada, con voli da Istanbul; da lì navette e taxi portano al paese. Chi arriva in bus scende all'autostazione di Denizli e prende il minibus (dolmuş) fino a Pamukkale, ai piedi della collina. Il bus notturno dalla Cappadocia, da Göreme o Nevşehir, impiega circa 9-10 ore e costa indicativamente 20-35 €; da Selçuk servono circa 3 ore, da Antalya circa 4. In auto, Pamukkale-Afrodisia-Selçuk sono circa 3,5 ore di guida.",
     comeSpostarsi: 'A piedi; dolmuş per Denizli.',
     periodoMigliore: 'primavera e autunno; d\'estate le terrazze bianche abbagliano e scottano',
-    costi: 'Ingresso Pamukkale-Hierapolis intorno ai 30 €; piscina antica a parte, intorno ai 10-15 € (indicativi).',
+    costi: "Budget basso circa 60-80 € al giorno a persona (pensione nel paese, cibo nei locali, biglietto da 30 €); medio 100-150 € (hotel con piscina termale, Piscina Antica, Laodicea, cena al ristorante); alto da 200 € in su (hotel termale a Karahayıt, auto, guida). Biglietti 2026 per i visitatori stranieri: Pamukkale-Hierapolis 30 €, Laodicea 12 €, Afrodisia 12 €; la Piscina Antica si paga a parte, in lire.",
     erroriDaEvitare: [
       'Salire a mezzogiorno d\'estate: il riflesso del bianco è accecante',
       'Aspettarsi tutte le vasche piene: molte vengono lasciate asciutte a rotazione per preservare il travertino',
@@ -682,12 +682,15 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Terrazze di travertino",
         "testo": "Le vasche bianche di calcare lungo il pendio, riempite dalle sorgenti calde. Le autorità regolano l'acqua e chiudono a turno alcuni tratti per far rigenerare il travertino. Patrimonio UNESCO dal 1988 insieme a Hierapolis.",
-        "come": "Ingresso dal sud o dal nord del sito; bus o auto fino al parcheggio.",
-        "quando": "Sito aperto tutti i giorni 8-18, biglietteria fino alle 17 (novembre 2026). Tramonto, con la luce sul bianco; a mezzogiorno d'estate abbaglia.",
+        "come": "Ingresso dal sud o dal nord del sito; bus o auto fino al parcheggio. Dall'ingresso basso, nel paese, si sale a piedi scalzi in circa mezz'ora.",
+        "quando": "Al tramonto, con la luce sul bianco; a mezzogiorno d'estate abbaglia.",
         "tempo": "1-2 ore",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Portare un telo e un costume, sapendo che molte vasche possono essere asciutte.",
-        "costo": "Biglietto unico per Hierapolis e travertini: prezzo per stranieri sul sito ufficiale"
+        "costo": "30 € per i visitatori stranieri, biglietto unico con Hierapolis (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8-18, biglietteria fino alle 17 (muze.gov.tr, 2026)",
+        "lat": 37.92389,
+        "lng": 29.12333,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK",
+        "consiglio": "Portare un telo e un costume, sapendo che molte vasche possono essere asciutte."
       },
       {
         "nome": "Hierapolis e Piscina Antica",
@@ -695,8 +698,82 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "Si cammina nel sito. La piscina si paga a parte.",
         "quando": "Mattina presto o fine pomeriggio.",
         "tempo": "2 ore",
-        "url": "https://muze.gov.tr/",
-        "costo": "Compreso nel biglietto delle terrazze; Piscina Antica a parte"
+        "costo": "Compreso nei 30 € del biglietto delle terrazze; Piscina Antica a parte, in lire",
+        "orari": "Tutti i giorni 8-18, biglietteria fino alle 17 (muze.gov.tr, 2026)",
+        "lat": 37.925,
+        "lng": 29.12583,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Teatro di Hierapolis",
+        "testo": "Il teatro romano scavato nel fianco della collina, con la scena decorata da rilievi restaurati dalla missione archeologica italiana che lavora qui da decenni. Dalle gradinate alte si vede tutta la valle del Lico.",
+        "come": "A piedi dalla Piscina Antica, in salita per una decina di minuti.",
+        "quando": "Mattina, prima del caldo: il sentiero non ha ombra.",
+        "tempo": "30-45 minuti",
+        "costo": "Compreso nel biglietto di Hierapolis",
+        "lat": 37.9267,
+        "lng": 29.1292,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Necropoli di Hierapolis",
+        "testo": "Una delle necropoli antiche più estese dell'Anatolia, lungo la strada che arriva da nord: tumuli, sarcofagi e tombe a casa, molte inclinate dai terremoti. Si attraversa entrando dalla porta nord.",
+        "come": "Dall'ingresso nord del sito, a piedi lungo la strada antica.",
+        "quando": "Fine pomeriggio, con la luce bassa.",
+        "tempo": "45 minuti-1 ora",
+        "costo": "Compreso nel biglietto di Hierapolis",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Porta di Frontino e via Frontina",
+        "testo": "La porta monumentale a tre archi tra due torri rotonde, costruita alla fine del I secolo d.C. dal proconsole Giulio Frontino e dedicata all'imperatore Domiziano. Da qui parte la via colonnata principale della città.",
+        "come": "Dall'ingresso nord, dopo la necropoli.",
+        "quando": "Insieme alla necropoli.",
+        "tempo": "20 minuti",
+        "costo": "Compreso nel biglietto di Hierapolis",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Martyrion di San Filippo",
+        "testo": "Il santuario ottagonale del V secolo costruito sul luogo della tradizione del martirio dell'apostolo Filippo, sulla collina sopra la città. Nel 2011 la missione italiana ha annunciato vicino al martyrion la scoperta della chiesa con quella che ritiene la sua tomba.",
+        "come": "Salita a piedi dal teatro, circa 15-20 minuti su scalini e sentiero.",
+        "quando": "Mattina presto o tardo pomeriggio.",
+        "tempo": "1 ora con la salita",
+        "costo": "Compreso nel biglietto di Hierapolis",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Plutonium",
+        "testo": "La grotta sacra a Plutone da cui escono gas di anidride carbonica, che nell'antichità uccidevano gli animali offerti in sacrificio. Ritrovata e scavata dalla missione italiana, si vede dall'esterno, accanto al tempio di Apollo.",
+        "come": "A piedi, tra il teatro e la Piscina Antica.",
+        "quando": "In qualsiasi momento della visita.",
+        "tempo": "15 minuti",
+        "costo": "Compreso nel biglietto di Hierapolis",
+        "lat": 37.9268,
+        "lng": 29.12681,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Museo archeologico di Hierapolis",
+        "testo": "Il museo dentro le grandi terme romane, con sale a volta in blocchi di travertino. Espone sarcofagi, statue e rilievi da Hierapolis, Laodicea e Tripolis, utili a capire le rovine viste fuori.",
+        "come": "Accanto alla Piscina Antica, nel centro del sito.",
+        "quando": "Nelle ore più calde, quando fuori il sole picchia.",
+        "tempo": "45 minuti",
+        "costo": "Indicato in 30 € su muze.gov.tr, lo stesso importo del biglietto del sito",
+        "orari": "Tutti i giorni 8-17.30, biglietteria fino alle 17 (muze.gov.tr, 2026)",
+        "lat": 37.92506,
+        "lng": 29.12405,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=DHA01&DistId=MRK"
+      },
+      {
+        "nome": "Karahayıt",
+        "testo": "Il villaggio termale a pochi chilometri a nord di Pamukkale, dove una sorgente di acqua calda ricca di ferro colora di rosso e arancio il calcare. Intorno ci sono molti hotel con piscine termali.",
+        "come": "In dolmuş o in auto dal paese di Pamukkale, circa 10 minuti.",
+        "quando": "Sera, dopo la visita a Hierapolis.",
+        "tempo": "1 ora",
+        "costo": "La sorgente rossa si vede gratis",
+        "lat": 37.96539,
+        "lng": 29.10268
       }
     ],
     programmi: [
@@ -708,18 +785,43 @@ export const destinazioniTurchia: Destinazione[] = [
           "Pomeriggio: salita sulle terrazze",
           "Tramonto sul travertino"
         ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1 come sopra",
+          "Giorno 2: Laodicea all'apertura",
+          "Museo archeologico di Hierapolis e salita al Martyrion di San Filippo",
+          "Sera alla sorgente rossa e nelle terme di Karahayıt"
+        ]
+      },
+      {
+        "titolo": "Lungo il percorso",
+        "tappe": [
+          "Bus notturno da Göreme o Nevşehir, arrivo a Pamukkale la mattina presto",
+          "Terrazze e Hierapolis in giornata, notte nel paese",
+          "Ritiro dell'auto a Denizli e partenza verso ovest",
+          "Sosta di due ore ad Afrodisia, poi Selçuk per la sera"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Pamukkale paese",
         "perChi": "chi vuole stare sotto le terrazze",
-        "testo": "Pensioni a conduzione familiare, piscine termali e ristoranti semplici."
+        "testo": "Pensioni a conduzione familiare, piscine termali e ristoranti semplici.",
+        "fascia": "35-70 €"
       },
       {
         "nome": "Karahayıt",
         "perChi": "chi vuole bagni termali",
-        "testo": "Villaggio vicino con terme e acque rosse ricche di ferro."
+        "testo": "Villaggio vicino con terme e acque rosse ricche di ferro.",
+        "fascia": "60-250 €"
+      },
+      {
+        "nome": "Denizli",
+        "perChi": "chi arriva tardi o riparte in auto",
+        "testo": "La città a circa mezz'ora, con autostazione, noleggi auto e hotel urbani; poco interessante da vivere, comoda per la logistica."
       }
     ],
     sapori: [
@@ -746,6 +848,46 @@ export const destinazioniTurchia: Destinazione[] = [
       "Seguire le indicazioni dei custodi su dove e come si cammina sul travertino: di solito si va scalzi, quindi portare una borsa per le scarpe."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Afrodisia",
+        "distanza": "circa 1,5 ore in auto",
+        "come": "In auto, sulla strada verso Selçuk; con i mezzi pubblici è scomodo.",
+        "testo": "La città di Afrodite, patrimonio UNESCO dal 2017, con uno stadio romano quasi intatto, il tetrapylon e un museo pieno di statue della sua scuola di scultori, compresi i rilievi del Sebasteion. Biglietto 12 €, aperto tutti i giorni 8.30-17.30 (muze.gov.tr, 2026)."
+      },
+      {
+        "nome": "Laodicea",
+        "distanza": "circa 20 minuti in auto",
+        "come": "In auto o in taxi da Pamukkale, verso Denizli.",
+        "testo": "Una delle sette chiese dell'Apocalisse, con due teatri, vie colonnate in parte rialzate e una chiesa del IV secolo sotto una copertura. Molto meno frequentata di Hierapolis. Biglietto 12 €, tutti i giorni 8-17.30 (muze.gov.tr, 2026)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanto tempo serve a Pamukkale?",
+        "risposta": "Un giorno pieno basta per le terrazze e Hierapolis. Conviene dormire nel paese per avere il tramonto sul travertino e la mattina presto senza gruppi; un secondo giorno serve solo se si aggiungono Laodicea o Afrodisia."
+      },
+      {
+        "domanda": "Quanto costa l'ingresso a Pamukkale?",
+        "risposta": "Per i visitatori stranieri il biglietto unico per terrazze e Hierapolis costa 30 € nel 2026. La Piscina Antica si paga a parte, in lire, alla sua cassa."
+      },
+      {
+        "domanda": "Si può fare il bagno nelle terrazze?",
+        "risposta": "Si cammina scalzi e ci si bagna nelle vasche aperte, che hanno poca acqua e cambiano a rotazione. Per nuotare davvero c'è la Piscina Antica, tra le colonne sommerse."
+      },
+      {
+        "domanda": "Meglio entrare dall'ingresso basso o da quello alto?",
+        "risposta": "Dall'ingresso basso, nel paese, si sale scalzi sul travertino in circa mezz'ora ed è il modo più bello di arrivare a Hierapolis. Gli ingressi nord e sud, raggiungibili in auto o con i tour, sono comodi per chi vuole partire dalle rovine e dalla necropoli."
+      },
+      {
+        "domanda": "Si può visitare Pamukkale in giornata da Selçuk?",
+        "risposta": "Sì, con un tour o in bus, ma sono circa 3 ore per tratta e si perde il tramonto. Meglio una notte nel paese, sulla strada tra la Cappadocia e la costa."
+      },
+      {
+        "domanda": "Vale la pena il Museum Pass?",
+        "risposta": "Il Museum Pass The Mediterranean, 90 € per 7 giorni, copre i siti statali delle province di Antalya, Mersin, Adana e Denizli, quindi anche Pamukkale e Laodicea. Conviene a chi prosegue verso la costa licia e Antalya."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Le vasche di travertino bianco di Pamukkale piene d\'acqua azzurra',
@@ -773,10 +915,10 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     cosaFare: ['Entrare dalla porta alta e scendere verso la biblioteca', 'Assaggiare i vini di frutta a Şirince'],
     doveDormire: 'Selçuk per comodità e prezzi, Şirince per la calma; Kuşadası per chi vuole il mare vicino.',
-    comeArrivare: 'Aeroporto di Izmir (1 ora); treno Izmir-Selçuk; bus da Pamukkale.',
+    comeArrivare: "L'aeroporto più vicino è Izmir Adnan Menderes, a circa un'ora di strada da Selçuk; dalla stazione dell'aeroporto e dal centro di Izmir i treni regionali arrivano alla stazione di Selçuk. Da Pamukkale ci sono bus diretti in circa 3 ore, mentre in auto, passando da Afrodisia, si calcolano circa 3,5 ore di guida. Da Selçuk all'ingresso alto di Efeso sono pochi chilometri: taxi per pochi euro o dolmuş.",
     comeSpostarsi: 'Taxi o dolmuş da Selçuk all\'ingresso alto di Efeso (pochi km); auto a noleggio.',
     periodoMigliore: 'aprile-giugno e settembre-ottobre, sempre all\'apertura',
-    costi: 'Efeso intorno ai 40 €, case a terrazza intorno ai 15 € (indicativi, in euro).',
+    costi: "Budget basso circa 70-90 € al giorno a persona (pensione a Selçuk, dolmuş, Efeso, cibo nei locali); medio 130-180 € (case in pietra a Şirince o hotel a Selçuk, taxi, case a terrazza e museo, cene con vino); alto da 250 € in su (boutique hotel, guida privata, auto). Biglietti 2026 per i visitatori stranieri: Efeso 40 € con il museo esperienziale, case a terrazza 15 €, museo di Efeso 10 €, basilica di San Giovanni 6 €.",
     erroriDaEvitare: [
       'Entrare a metà mattina in alta stagione, quando arrivano i passeggeri delle navi da crociera di Kuşadası',
       'Saltare le case a terrazza per risparmiare: sono la parte più bella del sito',
@@ -785,28 +927,111 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Efeso",
-        "testo": "La grande città greco-romana con la biblioteca di Celso (II secolo d.C.), il grande teatro da circa 24.000-25.000 posti, la via dei Cureti e le Case a terrazza, sei residenze romane con mosaici e affreschi sotto una copertura.",
+        "testo": "La grande città greco-romana con la biblioteca di Celso (II secolo d.C.), il grande teatro da circa 24.000-25.000 posti, la via dei Cureti e le Case a terrazza, residenze romane con mosaici e affreschi sotto una copertura.",
         "come": "Da Selçuk in taxi o dolmuş; l'ingresso alto evita la salita.",
-        "quando": "Aperto tutti i giorni 8-18, biglietteria fino alle 17.30 (novembre 2026). All'apertura, soprattutto quando arrivano le navi da crociera da Kuşadası.",
+        "quando": "All'apertura, soprattutto quando arrivano le navi da crociera da Kuşadası: dalle 10 il sito si riempie.",
         "tempo": "2-3 ore",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Le Case a terrazza sono tra le parti più belle del sito: verificare in biglietteria se sono incluse.",
-        "costo": "Il biglietto comprende anche il museo esperienziale di Efeso; prezzo per stranieri sul sito ufficiale"
+        "costo": "40 € per i visitatori stranieri, compreso il museo esperienziale di Efeso (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8-18, biglietteria fino alle 17.30 (muze.gov.tr, 2026)",
+        "lat": 37.94097,
+        "lng": 27.34147,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS",
+        "consiglio": "Le Case a terrazza hanno un biglietto a parte da 15 €: vale la pena, sono tra le parti più belle del sito."
+      },
+      {
+        "nome": "Case a terrazza",
+        "testo": "Sette case romane dei notabili di Efeso costruite nel I secolo d.C. sulle terrazze del monte Koressos, sotto una grande copertura. Si cammina su passerelle sopra pavimenti a mosaico e pareti affrescate.",
+        "come": "Dentro Efeso, lungo la via dei Cureti, con biglietto separato.",
+        "quando": "Prima di mezzogiorno, prima di scendere alla biblioteca.",
+        "tempo": "45 minuti-1 ora",
+        "costo": "15 € per i visitatori stranieri (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 9-17, biglietteria fino alle 16.30 (muze.gov.tr, 2026)",
+        "lat": 37.93806,
+        "lng": 27.34139,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS02&DistId=EFS"
+      },
+      {
+        "nome": "Biblioteca di Celso",
+        "testo": "La facciata a due piani più fotografata della Turchia, costruita all'inizio del II secolo d.C. dal figlio del governatore Celso come biblioteca e tomba del padre. È stata rialzata pezzo per pezzo negli anni Settanta.",
+        "come": "In fondo alla via dei Cureti, scendendo dall'ingresso alto.",
+        "quando": "Appena aperto, prima dei gruppi, o nell'ultima ora.",
+        "tempo": "20-30 minuti",
+        "costo": "Compresa nel biglietto di Efeso",
+        "lat": 37.93914,
+        "lng": 27.34075,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS"
+      },
+      {
+        "nome": "Grande teatro di Efeso",
+        "testo": "Il teatro scavato nel colle Panayır, il più grande dell'Asia Minore romana, con circa 24.000-25.000 posti. Davanti parte la via del Porto, che un tempo arrivava al mare.",
+        "come": "Dentro Efeso, accanto all'ingresso basso.",
+        "quando": "Fine visita, con la luce del pomeriggio.",
+        "tempo": "20-30 minuti",
+        "costo": "Compreso nel biglietto di Efeso",
+        "lat": 37.94101,
+        "lng": 27.34273,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS"
+      },
+      {
+        "nome": "Museo esperienziale di Efeso",
+        "testo": "Il museo multimediale di fronte al grande teatro, che ricostruisce con proiezioni e audioguida la vita della città antica. Utile prima o dopo il giro tra le rovine.",
+        "come": "Davanti al grande teatro, dentro il sito.",
+        "quando": "A fine visita, nelle ore calde.",
+        "tempo": "30-45 minuti",
+        "costo": "Compreso nei 40 € di Efeso (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8-18, biglietteria fino alle 17.30 (muze.gov.tr, 2026)",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS03&DistId=EFS"
+      },
+      {
+        "nome": "Museo di Efeso",
+        "testo": "Il museo archeologico di Selçuk, con le due statue di Artemide trovate a Efeso, i reperti delle case a terrazza e le sale delle fontane e del culto imperiale. Aiuta a rimettere insieme quello che si è visto la mattina.",
+        "come": "A piedi nel centro di Selçuk.",
+        "quando": "Pomeriggio, dopo Efeso.",
+        "tempo": "1 ora",
+        "costo": "10 € per i visitatori stranieri (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8.30-17.30, biglietteria fino alle 17 (muze.gov.tr, 2026)",
+        "lat": 37.94896,
+        "lng": 27.36767,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFM01&DistId=EFM"
       },
       {
         "nome": "Basilica di San Giovanni e castello di Selçuk",
         "testo": "La basilica fatta costruire da Giustiniano nel VI secolo sopra la tomba tradizionale dell'apostolo, con il castello sulla collina.",
         "come": "A piedi da Selçuk.",
-        "quando": "Mattina.",
+        "quando": "Mattina, o al tramonto.",
         "tempo": "1 ora",
-        "url": "https://muze.gov.tr/"
+        "costo": "6 € per i visitatori stranieri (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8-18, biglietteria fino alle 17.30 (muze.gov.tr, 2026)",
+        "lat": 37.95292,
+        "lng": 27.36697,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=STJ01&DistId=STJ"
+      },
+      {
+        "nome": "Moschea di İsa Bey",
+        "testo": "La moschea del 1375, ai piedi della collina di San Giovanni, con colonne di granito riprese dalle rovine di Efeso e un portale in marmo. È una delle più antiche dell'Anatolia occidentale.",
+        "come": "A piedi dal centro di Selçuk, sotto la basilica.",
+        "quando": "Fuori dagli orari di preghiera.",
+        "tempo": "20 minuti",
+        "lat": 37.95222,
+        "lng": 27.36583
+      },
+      {
+        "nome": "Artemision",
+        "testo": "Il tempio di Artemide, una delle sette meraviglie del mondo antico: oggi in un prato paludoso resta in piedi una sola colonna ricostruita. Da qui si vedono insieme la basilica e la moschea di İsa Bey.",
+        "come": "A piedi da Selçuk, sulla strada per Efeso.",
+        "quando": "Al tramonto.",
+        "tempo": "15-20 minuti",
+        "lat": 37.94972,
+        "lng": 27.36389
       },
       {
         "nome": "Casa della Madonna (Meryem Ana)",
         "testo": "Il santuario sulle colline sopra Selçuk che la tradizione cattolica, dall'Ottocento, considera l'ultima casa della Madonna. Ci sono venuti tre papi.",
-        "come": "In taxi o con un tour da Selçuk.",
+        "come": "In taxi o con un tour da Selçuk; è a circa 15 minuti dall'ingresso alto di Efeso.",
         "quando": "Mattina.",
-        "tempo": "45 minuti"
+        "tempo": "45 minuti",
+        "lat": 37.91154,
+        "lng": 27.33406
       },
       {
         "nome": "Şirince",
@@ -814,6 +1039,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "Dolmuş o taxi da Selçuk, circa 7 km.",
         "quando": "Pomeriggio.",
         "tempo": "1-2 ore",
+        "lat": 37.94139,
+        "lng": 27.43306,
         "consiglio": "Assaggiare i vini di frutta prima di comprare."
       }
     ],
@@ -826,18 +1053,43 @@ export const destinazioniTurchia: Destinazione[] = [
           "Pomeriggio: basilica di San Giovanni",
           "Sera: Şirince"
         ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Efeso dall'ingresso alto, Case a terrazza, biblioteca di Celso e grande teatro",
+          "Pomeriggio al museo di Efeso, poi cena a Selçuk",
+          "Giorno 2: casa della Madonna in mattinata",
+          "Basilica di San Giovanni, moschea di İsa Bey e Artemision, poi sera a Şirince"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Priene, Mileto e Didima in auto, verso sud",
+          "Oppure mezza giornata al mare a Kuşadası"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Selçuk",
         "perChi": "chi vuole stare vicino a Efeso",
-        "testo": "Cittadina con pensioni familiari, ristoranti e mercato."
+        "testo": "Cittadina con pensioni familiari, ristoranti e mercato.",
+        "fascia": "35-60 €"
       },
       {
         "nome": "Şirince",
         "perChi": "chi vuole atmosfera di villaggio",
-        "testo": "Case di pietra e vigneti, più tranquillo ma isolato e con pochi servizi."
+        "testo": "Case di pietra e vigneti, più tranquillo ma isolato e con pochi servizi.",
+        "fascia": "70-120 €"
+      },
+      {
+        "nome": "Kuşadası",
+        "perChi": "chi vuole il mare",
+        "testo": "La città di mare a una ventina di minuti, con il porto delle crociere, spiagge e grandi hotel; più cara e affollata di Selçuk.",
+        "fascia": "80-190 €"
       }
     ],
     sapori: [
@@ -864,6 +1116,46 @@ export const destinazioniTurchia: Destinazione[] = [
       "Guide sul posto: concordare prezzo e durata prima di iniziare."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Priene, Mileto e Didima",
+        "distanza": "circa 1 ora in auto fino a Priene",
+        "come": "In auto o con un tour di giornata da Selçuk; con i mezzi pubblici servono più cambi.",
+        "testo": "Tre siti ionici in fila verso sud: Priene sul fianco del monte, con la sua pianta a scacchiera, il grande teatro di Mileto e il tempio di Apollo a Didima, con colonne enormi."
+      },
+      {
+        "nome": "Kuşadası",
+        "distanza": "circa 20 km, 20-30 minuti",
+        "come": "In dolmuş o in auto da Selçuk.",
+        "testo": "La città di mare più vicina, con il lungomare, l'isolotto dei Piccioni e le spiagge della penisola di Dilek. Utile per mezza giornata di mare."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanto costa entrare a Efeso?",
+        "risposta": "Nel 2026 il biglietto per i visitatori stranieri costa 40 € e comprende il museo esperienziale. Le Case a terrazza si pagano a parte, 15 €; il museo di Efeso a Selçuk costa 10 € e la basilica di San Giovanni 6 €."
+      },
+      {
+        "domanda": "Quanto tempo serve per visitare Efeso?",
+        "risposta": "Il sito si vede in 2-3 ore, più un'ora per le Case a terrazza. Con Selçuk, il museo e Şirince servono un giorno pieno, due per aggiungere la casa della Madonna senza fretta."
+      },
+      {
+        "domanda": "Da quale ingresso conviene entrare?",
+        "risposta": "Dall'ingresso alto, raggiunto in taxi da Selçuk: si scende lungo la via dei Cureti fino alla biblioteca di Celso e al grande teatro, senza fare la salita."
+      },
+      {
+        "domanda": "Meglio dormire a Selçuk o a Kuşadası?",
+        "risposta": "Selçuk è a pochi minuti da Efeso, più tranquilla ed economica. Kuşadası ha il mare e più hotel, ma è più cara e affollata dalle crociere."
+      },
+      {
+        "domanda": "Quando conviene andare per evitare la folla?",
+        "risposta": "All'apertura delle 8: dalle 10 arrivano i passeggeri delle navi da crociera di Kuşadası. Primavera e inizio autunno sono i mesi migliori, d'estate a mezzogiorno si superano i 35 °C."
+      },
+      {
+        "domanda": "Si può arrivare a Efeso dall'aeroporto di Izmir?",
+        "risposta": "Sì: Selçuk è a circa un'ora di strada, con il treno regionale dalla stazione dell'aeroporto o con il transfer, e da Selçuk all'ingresso di Efeso bastano pochi minuti di taxi."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Le gradinate in pietra dell\'antico stadio di Efeso',

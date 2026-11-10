@@ -32,106 +32,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Roma Norte o Condesa, barrios arbolados y tranquilos, no lejos del centro. El Centro Histórico es cómodo de día pero está vacío por la noche.',
     doveMangiare:
       'Taquerías, mercados (Coyoacán, San Juan), tamales y atole en el desayuno, churros con chocolate. Los restaurantes de autor de Roma y Polanco se reservan con semanas de antelación.',
-    comeArrivare: 'Aeropuerto internacional Benito Juárez (AICM), con vuelos directos o vía una capital europea; en la ciudad, con taxi de prepago o app.',
     comeSpostarsi: 'Metro, Metrobús y apps de transporte; a Teotihuacán, autobús desde la Terminal del Norte. Nada de taxis parados en la calle.',
     periodoMigliore: 'de octubre a abril, estación seca; finales de octubre para el Día de los Muertos.',
-    costi: 'Teotihuacán y Museo de Antropología unos 210 MXN cada uno para extranjeros (2026); la trajinera se paga por hora y por barca, con precio a acordar antes de subir.',
     erroriDaEvitare: [
       'Coger taxis en la calle en lugar de taxis de prepago, de sitio o app',
       'Programar el Museo de Antropología o el Templo Mayor en lunes, cuando están cerrados',
       'Subestimar la altitud los dos primeros días',
       'No reservar la Casa Azul, que se agota días antes',
     ],
-      "luoghi": [
-        {
-          "nome": "Zócalo, Catedral y Templo Mayor",
-          "testo": "La plaza central con la Catedral Metropolitana, el Palacio Nacional y, al lado, el Templo Mayor, el corazón azteca de Tenochtitlan, con su museo.",
-          "come": "Metro Zócalo. El Templo Mayor tiene entrada INAH aparte.",
-          "quando": "Mañana; el museo y la zona arqueológica del Templo Mayor abren de martes a domingo, 9 a 17 h, y cierran los lunes.",
-          "tempo": "3 horas",
-          "costo": "Templo Mayor: 210 MXN para extranjeros (2026); los domingos es gratis solo para ciudadanos mexicanos.",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Museo Nacional de Antropología",
-          "testo": "El museo más grande y visitado de México, en el bosque de Chapultepec, con la Piedra del Sol y las salas de las culturas mesoamericanas.",
-          "come": "Metro Auditorio o Chapultepec.",
-          "quando": "Mañana; suele cerrar los lunes.",
-          "tempo": "3-4 horas",
-          "costo": "210 MXN para extranjeros (2026).",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Elegir algunas salas: es demasiado grande para verlo todo."
-        },
-        {
-          "nome": "Teotihuacán",
-          "testo": "La ciudad de los Templos del Sol y de la Luna y de la Calzada de los Muertos, a unos 40 km al noreste de la capital, patrimonio UNESCO.",
-          "come": "Bus desde la Terminal Norte o tour; entrada INAH.",
-          "quando": "A la apertura de las 8 (abre todos los días hasta las 17 h), antes del calor y de los grupos.",
-          "tempo": "Media jornada",
-          "costo": "210 MXN para extranjeros (2026). Según notas de agosto de 2026 la Pirámide de la Luna está cerrada hasta nuevo aviso: preguntar en taquilla.",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Llevar sombrero y agua: casi no hay sombra."
-        },
-        {
-          "nome": "Coyoacán y Casa Azul",
-          "testo": "Barrio colonial con plazas y mercado, y la Casa Azul de Frida Kahlo, hoy museo.",
-          "come": "Metro o Uber; para la Casa Azul hay que reservar entradas online con antelación.",
-          "quando": "Mañana; el museo cierra los lunes y hay que llegar a la hora indicada en el boleto.",
-          "tempo": "Media jornada",
-          "costo": "Casa Azul: 320 MXN para extranjeros (2026), con entrada por horario reservada en línea.",
-          "url": "https://boletos.museofridakahlo.org.mx/"
-        },
-        {
-          "nome": "Xochimilco",
-          "testo": "Los canales con trajineras de colores, resto del sistema lacustre azteca.",
-          "come": "Metro y tren ligero o Uber hasta los embarcaderos.",
-          "quando": "Mañanas entre semana, menos gente.",
-          "tempo": "2-3 horas",
-          "consiglio": "Acordar la duración y el precio de la barca antes de subir."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Zócalo, Catedral y Templo Mayor",
-            "Palacio de Bellas Artes",
-            "Almuerzo de tacos",
-            "Museo Nacional de Antropología por la tarde"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: centro histórico y museo de Antropología",
-            "Día 2: Teotihuacán a la apertura, Coyoacán por la tarde"
-          ]
-        },
-        {
-          "titolo": "3 días",
-          "tappe": [
-            "Días 1-2 como arriba",
-            "Día 3: Xochimilco y Casa Azul, o Bellas Artes con los murales"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro histórico",
-          "perChi": "a pie de todo",
-          "testo": "Zócalo y museos cerca, pero ruidoso y poco seguro de noche lejos de las calles principales."
-        },
-        {
-          "nome": "Roma y Condesa",
-          "perChi": "restaurantes y locales",
-          "testo": "Barrios de cafés y vida nocturna, más seguros a pie, cerca de Chapultepec."
-        },
-        {
-          "nome": "Coyoacán",
-          "perChi": "calma e historia",
-          "testo": "Barrio residencial y colonial, más lejos del centro."
-        }
-      ],
       "sapori": [
         {
           "nome": "Tacos al pastor",
@@ -159,6 +67,266 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Taxis de calle: usar Uber o taxis de sitio.",
         "Altitud: beber agua y ir despacio el primer día."
       ],
+    comeArrivare: "Aeropuerto Internacional Benito Juárez (AICM), con vuelos directos o vía una capital europea; a la ciudad en taxi prepagado o app. Los taxis autorizados se pagan en los mostradores dentro de llegadas: unos 300-450 MXN, 15-23 €, hasta Roma Norte o Condesa, con 30-60 minutos según el tráfico. La línea 4 del Metrobús sale de las terminales 1 y 2 hacia el Centro Histórico por unos 30 MXN, con la tarjeta recargable o la tarjeta bancaria sin contacto; el metro (estación Terminal Aérea) cuesta 5 MXN, pero con maletas en hora punta no compensa. Desde marzo de 2026 Uber y DiDi no pueden recoger dentro de la terminal. Desde Puebla y Oaxaca se llega en autobús ADO a la TAPO o a la Terminal del Sur.",
+    costi: "Teotihuacán y el Museo de Antropología unos 210 MXN cada uno para extranjeros (2026); la trajinera se paga por hora y por barca, con el precio acordado antes de subir. Presupuesto bajo unos 60-90 € al día por persona (hostal o habitación privada, taquerías, metro a 5 MXN); medio 125-200 € (hotel boutique en la Roma o la Condesa, restaurantes, algunos museos y Teotihuacán); alto desde 300 € (hotel de diseño o en Polanco, chófer, cocina de autor). Aproximadamente 1 € = 20 MXN.",
+    luoghi: [
+      {
+        "nome": "Zócalo, Catedral y Templo Mayor",
+        "testo": "La plaza central con la Catedral Metropolitana, el Palacio Nacional y, al lado, el Templo Mayor, el corazón azteca de Tenochtitlan, con su museo. Aquí se entiende cómo la ciudad colonial se construyó sobre la mexica, con las mismas piedras.",
+        "come": "Metro Zócalo. El Templo Mayor tiene entrada INAH aparte; la Catedral es gratuita.",
+        "quando": "Por la mañana, antes del calor y de las manifestaciones que a menudo ocupan la plaza.",
+        "tempo": "3 horas",
+        "costo": "Templo Mayor: 210 MXN para extranjeros, unos 10 € (ficha INAH, 2026); el domingo es gratis solo para ciudadanos mexicanos.",
+        "orari": "Templo Mayor: de martes a domingo 9-17, cerrado los lunes (ficha INAH).",
+        "lat": 19.435,
+        "lng": -99.13139,
+        "url": "https://lugares.inah.gob.mx/es/node/4463"
+      },
+      {
+        "nome": "Palacio Nacional y los murales de Diego Rivera",
+        "testo": "La sede de la presidencia, en el lado este del Zócalo. En la escalinata y en el patio principal están los murales de Diego Rivera sobre la historia de México, de la época prehispánica a la Revolución: el resumen más claro de cómo el país se cuenta a sí mismo.",
+        "come": "Por la entrada del Zócalo, con un documento de identidad; los controles pueden ser lentos y el acceso se cierra sin aviso los días de actos oficiales.",
+        "quando": "Por la mañana, entre semana.",
+        "tempo": "1-1,5 horas",
+        "lat": 19.4325,
+        "lng": -99.13139
+      },
+      {
+        "nome": "Palacio de Bellas Artes",
+        "testo": "El teatro y museo de mármol blanco con cúpulas amarillas, al inicio de la Alameda Central. Dentro están los murales de Rivera, Orozco, Siqueiros y Tamayo; por la noche acoge el Ballet Folklórico.",
+        "come": "Metro Bellas Artes. La fachada se ve gratis; para los murales se compra la entrada del museo.",
+        "quando": "Por la mañana para el museo; para la vista desde arriba, el bar del último piso del edificio de enfrente, al atardecer.",
+        "tempo": "1,5 horas",
+        "costo": "95 MXN, unos 5 € (2026, de fuentes secundarias: el sitio oficial no estaba accesible).",
+        "orari": "De martes a domingo 10-18, taquilla hasta las 17.30; cerrado los lunes.",
+        "lat": 19.4353,
+        "lng": -99.1414
+      },
+      {
+        "nome": "Torre Latinoamericana",
+        "testo": "El rascacielos de 1956, a dos pasos de Bellas Artes, que resistió los terremotos de 1957 y 1985. Desde el mirador de la cima se ve la escala de la ciudad, que en los días despejados llega hasta los volcanes.",
+        "come": "Metro Bellas Artes o San Juan de Letrán; entrada en la base de la torre.",
+        "quando": "Al final de la tarde, para ver la ciudad antes y después del atardecer.",
+        "tempo": "1 hora",
+        "lat": 19.43389,
+        "lng": -99.14056
+      },
+      {
+        "nome": "Museo Nacional de Antropología",
+        "testo": "El museo más grande y más visitado de México, en el bosque de Chapultepec, con la Piedra del Sol y las salas de las culturas mesoamericanas. Es la clave para entender todos los sitios del resto del viaje.",
+        "come": "Metro Auditorio o Chapultepec.",
+        "quando": "Por la mañana, a la apertura; conviene empezar por la sala Mexica, en el centro.",
+        "tempo": "3-4 horas",
+        "costo": "210 MXN para extranjeros, unos 10 € (ficha INAH, 2026).",
+        "orari": "De martes a domingo 9-18, cerrado los lunes (ficha INAH).",
+        "lat": 19.42611,
+        "lng": -99.18611,
+        "url": "https://lugares.inah.gob.mx/es/node/4237",
+        "consiglio": "Elegir algunas salas: es demasiado grande para verlo entero."
+      },
+      {
+        "nome": "Castillo de Chapultepec",
+        "testo": "El castillo en el cerro de Chapultepec, residencia del emperador Maximiliano y hoy Museo Nacional de Historia. Desde las terrazas se ve el Paseo de la Reforma cortando la ciudad.",
+        "come": "Metro Chapultepec y luego unos 15 minutos de subida a pie dentro del parque.",
+        "quando": "Por la mañana, junto con el Museo de Antropología en el mismo parque.",
+        "tempo": "2 horas",
+        "costo": "210 MXN para extranjeros, unos 10 € (ficha INAH, 2026).",
+        "orari": "De martes a domingo 9-17, cerrado los lunes (ficha INAH).",
+        "lat": 19.42056,
+        "lng": -99.18167,
+        "url": "https://lugares.inah.gob.mx/es/node/4682"
+      },
+      {
+        "nome": "Teotihuacán",
+        "testo": "La ciudad de los templos del Sol y de la Luna y de la Calzada de los Muertos, a unos 40 km al noreste de la capital, patrimonio de la UNESCO. Su escala, pensada mucho antes de los aztecas, solo se entiende caminándola.",
+        "come": "Autobús Autobuses Teotihuacán desde la Terminal del Norte, alrededor de una hora, o tour; entrada INAH.",
+        "quando": "A la apertura de las 8, antes del calor y de los grupos; el domingo está lleno.",
+        "tempo": "Media jornada",
+        "costo": "210 MXN para extranjeros, unos 10 € (ficha INAH, 2026). Según noticias de agosto de 2026 la Pirámide de la Luna está cerrada hasta nuevo aviso: preguntar en taquilla.",
+        "orari": "Todos los días 8-17, último acceso a las 16.30 (ficha INAH).",
+        "lat": 19.693,
+        "lng": -98.844,
+        "url": "https://lugares.inah.gob.mx/es/node/4528",
+        "consiglio": "Llevar sombrero y agua: casi no hay sombra."
+      },
+      {
+        "nome": "Basílica de Guadalupe",
+        "testo": "El santuario católico más visitado de América. Junto a la basílica moderna, redonda y de los años setenta, está la antigua, que se inclina como la Catedral del centro; la imagen de la Virgen se ve desde una banda transportadora que pasa bajo el altar.",
+        "come": "Metro La Villa-Basílica, o una parada a la vuelta de Teotihuacán.",
+        "quando": "Mañanas entre semana; alrededor del 12 de diciembre llegan millones de peregrinos.",
+        "tempo": "1,5 horas",
+        "lat": 19.48444,
+        "lng": -99.11722
+      },
+      {
+        "nome": "Coyoacán y la Casa Azul",
+        "testo": "Barrio colonial con plazas y mercado, y la Casa Azul de Frida Kahlo, hoy museo. Después de la visita se come en el mercado y se pasea entre el Jardín Centenario y la plaza de la Conchita.",
+        "come": "Metro o Uber; para la Casa Azul, entradas que se reservan online con antelación.",
+        "quando": "Por la mañana; hay que presentarse a la hora indicada en la entrada.",
+        "tempo": "Media jornada",
+        "costo": "Casa Azul: 320 MXN para extranjeros, unos 16 € (2026), con entrada a una hora fija reservada online.",
+        "orari": "Casa Azul cerrada los lunes.",
+        "lat": 19.35514,
+        "lng": -99.16253,
+        "url": "https://boletos.museofridakahlo.org.mx/"
+      },
+      {
+        "nome": "Museo Anahuacalli",
+        "testo": "El templo-museo de piedra volcánica que Diego Rivera diseñó para su colección de arte prehispánico, en el sur de la ciudad. Es menos conocido que la Casa Azul y combina bien con Coyoacán.",
+        "come": "Uber o taxi desde Coyoacán, unos veinte minutos.",
+        "quando": "Primera hora de la tarde, después de Coyoacán.",
+        "tempo": "1,5 horas",
+        "orari": "De martes a domingo 11-17.30, cerrado los lunes (sitio oficial).",
+        "lat": 19.3227,
+        "lng": -99.14451,
+        "url": "https://www.museoanahuacalli.org.mx/"
+      },
+      {
+        "nome": "Xochimilco",
+        "testo": "Los canales con las trajineras de colores, lo que queda del sistema lacustre azteca. El fin de semana es una gran fiesta con mariachis y cerveza; entre semana es mucho más tranquilo.",
+        "come": "Metro hasta Tasqueña y luego tren ligero, o Uber hasta los embarcaderos.",
+        "quando": "Mañanas entre semana, menos gente.",
+        "tempo": "2-3 horas",
+        "costo": "Aproximadamente 600-700 MXN por hora por toda la barca, unos 30-35 € (del viaje, 2026).",
+        "lat": 19.25206,
+        "lng": -99.09335,
+        "consiglio": "Acordar duración y precio de la barca antes de subir; mariachis y vendedores se pagan aparte."
+      },
+      {
+        "nome": "Museo Soumaya",
+        "testo": "El edificio plateado de Plaza Carso, en Polanco, con la colección de Carlos Slim: esculturas de Rodin, maestros europeos y arte mexicano. Vale la pena aunque sea por la arquitectura y la rampa interior.",
+        "come": "Uber o taxi hasta Polanco (Nuevo Polanco).",
+        "quando": "Por la tarde, también los lunes, cuando muchos museos cierran.",
+        "tempo": "1,5 horas",
+        "costo": "Entrada gratuita (sitio oficial).",
+        "orari": "Todos los días 10.30-18.30 (sitio oficial).",
+        "lat": 19.44066,
+        "lng": -99.20462,
+        "url": "https://www.museosoumaya.org/"
+      },
+      {
+        "nome": "Roma, Condesa y Parque México",
+        "testo": "Los barrios arbolados de los años veinte, con casas art déco, cafés, mercados y la vida nocturna de la ciudad. El Parque México y la avenida Ámsterdam, ovalada y con un camellón peatonal, son el lugar para caminar sin rumbo.",
+        "come": "A pie o en Metrobús por la avenida Insurgentes.",
+        "quando": "Por la mañana para cafés y parque, por la noche para cenar y salir.",
+        "tempo": "Media jornada",
+        "costo": "Entrada libre",
+        "lat": 19.41222,
+        "lng": -99.16917
+      },
+      {
+        "nome": "Lucha libre en la Arena México",
+        "testo": "La lucha libre del CMLL, con máscaras, acrobacias y un público que participa más que el ring. Una noche popular y muy mexicana.",
+        "come": "En la colonia Doctores: ida y vuelta en taxi o app, no a pie.",
+        "quando": "Martes, viernes y domingo (calendarios CMLL 2026).",
+        "tempo": "2-3 horas",
+        "lat": 19.42472,
+        "lng": -99.15194,
+        "consiglio": "Entradas en la taquilla de la arena o en los canales oficiales, no a revendedores en la calle."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Zócalo, Catedral y Templo Mayor",
+          "Murales del Palacio Nacional",
+          "Tacos para comer en el centro",
+          "Tarde: Palacio de Bellas Artes y Torre Latinoamericana al atardecer"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: centro histórico como arriba",
+          "Día 2: Museo Nacional de Antropología a la apertura, Castillo de Chapultepec, noche en la Roma y la Condesa"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: Teotihuacán a la apertura, con parada en la Basílica de Guadalupe a la vuelta"
+        ]
+      },
+      {
+        "titolo": "4-5 días",
+        "tappe": [
+          "Día 4: Coyoacán y Casa Azul, Anahuacalli, tarde en Xochimilco",
+          "Día 5: Museo Soumaya en Polanco y, por la noche, lucha libre en la Arena México (martes, viernes o domingo)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro histórico",
+        "perChi": "todo a pie",
+        "testo": "Zócalo y museos cerca, pero ruidoso y poco agradable de noche lejos de las calles principales."
+      },
+      {
+        "nome": "Roma y Condesa",
+        "perChi": "restaurantes y bares",
+        "testo": "Barrios de cafés y vida nocturna, más seguros a pie, cerca de Chapultepec. Desde hostales y habitaciones privadas hasta hoteles boutique.",
+        "fascia": "30-175 €"
+      },
+      {
+        "nome": "Polanco",
+        "perChi": "gama alta y cocina de autor",
+        "testo": "Barrio elegante al norte de Chapultepec, con hoteles de diseño, el Museo Soumaya y los restaurantes más conocidos de la ciudad.",
+        "fascia": "desde 250 €"
+      },
+      {
+        "nome": "Coyoacán",
+        "perChi": "calma e historia",
+        "testo": "Barrio residencial y colonial, más lejos del centro."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Teotihuacán",
+        "distanza": "unos 40 km, 1 hora en autobús",
+        "come": "Autobús Autobuses Teotihuacán desde la Terminal del Norte, salidas frecuentes, o tour con globo al amanecer (aproximadamente 2.500-4.000 MXN).",
+        "testo": "Las pirámides del Sol y de la Luna y la Calzada de los Muertos: se entra a la apertura de las 8 y se vuelve a primera hora de la tarde."
+      },
+      {
+        "nome": "Puebla y Cholula",
+        "distanza": "unas 2 horas en autobús",
+        "come": "Autobús ADO desde la TAPO o la Terminal del Oriente, 200-300 MXN (del viaje).",
+        "testo": "El centro barroco de Puebla, con la Capilla del Rosario y la Biblioteca Palafoxiana, y la iglesia de Cholula en lo alto de la pirámide, con el Popocatépetl detrás. Mejor con una noche."
+      },
+      {
+        "nome": "Tepoztlán",
+        "distanza": "unos 80 km al sur, 1,5 horas en autobús",
+        "come": "Autobús desde la Terminal del Sur (Tasqueña).",
+        "testo": "Pueblo de montaña con mercado de fin de semana y el pequeño templo del Tepozteco en lo alto de una subida empinada de alrededor de una hora."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Ciudad de México?",
+        "risposta": "Tres días completos para el centro histórico, Chapultepec y Teotihuacán; con cuatro o cinco se suman Coyoacán, Xochimilco y una noche de lucha libre."
+      },
+      {
+        "domanda": "¿En qué zona conviene alojarse?",
+        "risposta": "En la Roma Norte o la Condesa: arboladas, llenas de restaurantes y más tranquilas por la noche. El centro histórico es cómodo de día pero se vacía después de cenar; Polanco es para la gama alta."
+      },
+      {
+        "domanda": "¿Qué museos cierran los lunes?",
+        "risposta": "Casi todos: Antropología, Castillo de Chapultepec, Templo Mayor, Bellas Artes, Casa Azul y Anahuacalli. El lunes es el día para Teotihuacán, abierta todos los días, o para el Museo Soumaya."
+      },
+      {
+        "domanda": "¿Hay que reservar la Casa Azul de Frida Kahlo?",
+        "risposta": "Sí, las entradas se venden solo online con hora de acceso, a menudo con días de antelación; para extranjeros cuestan 320 MXN (2026)."
+      },
+      {
+        "domanda": "¿Cómo se va a Teotihuacán?",
+        "risposta": "Con el autobús Autobuses Teotihuacán desde la Terminal del Norte, alrededor de una hora, o con un tour. Conviene entrar a la apertura de las 8 y llevar agua y sombrero."
+      },
+      {
+        "domanda": "¿Es segura Ciudad de México para los turistas?",
+        "risposta": "En los barrios turísticos sí, con las precauciones de una gran ciudad: carteristas en el metro y entre la gente, nada de taxis tomados en la calle, app o taxis de sitio por la noche. Colonias como la Doctores, donde está la Arena México, se alcanzan en coche."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos', 'messico-cdmx-baja-california'],
     imageAlt: 'El Palacio de Bellas Artes en el centro histórico de Ciudad de México',
@@ -314,87 +482,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     doveDormire:
       'El centro entre Santo Domingo y Jalatlaco. En las noches de la fiesta los precios suben mucho: reservar con muchos meses de antelación.',
     doveMangiare: 'Los mercados para tlayudas, mole y chocolate; las mezcalerías del centro para el mezcal artesanal.',
-    comeArrivare: 'Autobús ADO desde Puebla o desde Ciudad de México; vuelos desde Ciudad de México.',
     comeSpostarsi: 'A pie por el centro; colectivos y taxis para los pueblos; tours organizados para las noches de la fiesta, cuando escasean los taxis.',
     periodoMigliore: 'de octubre a abril; de finales de octubre a principios de noviembre para el Día de los Muertos; julio para la Guelaguetza.',
-    costi: 'Entrada a los panteones libre; tours nocturnos a los cementerios a precios variables.',
     erroriDaEvitare: [
       'Reservar el alojamiento para la fiesta a pocas semanas de la salida',
       'Pagar tours que prometen un "acceso" a los cementerios, que es libre',
       'Fotografiar a personas y altares sin pedir permiso',
       'No informarse sobre los bloqueos antes de los desplazamientos largos',
     ],
-      "luoghi": [
-        {
-          "nome": "Templo de Santo Domingo y jardín etnobotánico",
-          "testo": "Iglesia barroca con interiores dorados, antiguo convento con museo y el jardín etnobotánico, que solo se visita con guía.",
-          "come": "A pie desde el centro.",
-          "quando": "Mañana.",
-          "tempo": "2-3 horas",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Al jardín etnobotánico solo se entra con visita guiada, y horarios y reservas han cambiado varias veces últimamente: infórmate en la ciudad antes de ir."
-        },
-        {
-          "nome": "Monte Albán",
-          "testo": "La antigua capital zapoteca en una colina sobre la ciudad, patrimonio UNESCO, con la gran plaza y las tumbas.",
-          "come": "Shuttles o taxi desde Oaxaca; entrada INAH.",
-          "quando": "A la apertura.",
-          "tempo": "2-3 horas",
-          "costo": "210 MXN para extranjeros (2026).",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Mercados 20 de Noviembre y Benito Juárez",
-          "testo": "Mercados con puestos de carne asada, chapulines, chocolate, mole y queso.",
-          "come": "A pie desde el centro.",
-          "quando": "Mañana y mediodía.",
-          "tempo": "1-2 horas"
-        },
-        {
-          "nome": "Panteón de Santa Cruz Xoxocotlán y Panteón General",
-          "testo": "Las veladas del Día de Muertos (31 de octubre-2 de noviembre), con tumbas decoradas y velas.",
-          "come": "Taxi o tour; Panteón General en San Miguel.",
-          "quando": "Noche del 31 de octubre y 1-2 de noviembre.",
-          "tempo": "Una velada",
-          "consiglio": "Respetar a las familias: no es un espectáculo."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Santo Domingo",
-            "Mercados y almuerzo de tlayuda",
-            "Monte Albán por la tarde"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: centro y Santo Domingo",
-            "Día 2: Monte Albán, mercados, mezcalería"
-          ]
-        },
-        {
-          "titolo": "3 días",
-          "tappe": [
-            "Días 1-2 como arriba",
-            "Día 3: Valles Centrales (Teotitlán, Mitla, Hierve el Agua)"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro histórico",
-          "perChi": "a pie de todo",
-          "testo": "Hoteles en casas coloniales, cultura y restaurantes, más ruidoso."
-        },
-        {
-          "nome": "Barrio de Jalatlaco",
-          "perChi": "cafés y ambiente",
-          "testo": "Barrio de casas de colores, más tranquilo, a pie del centro."
-        }
-      ],
       "sapori": [
         {
           "nome": "Mole negro",
@@ -422,6 +517,255 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Mezcal artesanal: comprar a productores y tiendas fiables.",
         "Taxis sin taxímetro: acordar el precio."
       ],
+    comeArrivare: "Autobús ADO desde Puebla o desde Ciudad de México; vuelos desde Ciudad de México. Desde Puebla (CAPU) el ADO tarda unas cuatro horas y media por la sierra, 450-800 MXN según la clase (unos 22-40 €); desde Ciudad de México el viaje directo dura 6-7 horas. En los días del Día de Muertos los asientos se agotan: reservar unos días antes. La terminal ADO está al norte del centro, a unos diez minutos en taxi de Santo Domingo. Hacia la costa, la nueva autopista lleva a Puerto Escondido en unas 3-3,5 horas en autobús o van (300-500 MXN). Antes de salir conviene preguntar en el hotel si hay bloqueos de sindicatos y comunidades.",
+    costi: "Entrada a los panteones libre; tours nocturnos a los cementerios a precios variables, aproximadamente 600-1.200 MXN por persona con transporte (del viaje, 2026). Monte Albán y Mitla 210 MXN cada uno para extranjeros (fichas INAH, 2026), Museo de las Culturas 210 MXN, Hierve el Agua 50-100 MXN en efectivo. Presupuesto bajo unos 60-90 € al día por persona (hostal, mercados, colectivos); medio 125-200 € (casa de huéspedes o pequeño hotel en el centro, restaurantes, un tour por los Valles Centrales); alto desde 300 € (hotel en casona colonial, chófer, cocina de autor). En las noches de la fiesta el alojamiento cuesta dos o tres veces más.",
+    luoghi: [
+      {
+        "nome": "Templo de Santo Domingo y jardín etnobotánico",
+        "testo": "Iglesia barroca con interiores dorados, antiguo convento con museo y el jardín etnobotánico, que solo se visita con guía. Es el monumento más bello de la ciudad y el punto de referencia para orientarse.",
+        "come": "A pie desde el centro; la iglesia es gratuita.",
+        "quando": "Por la mañana.",
+        "tempo": "2-3 horas",
+        "lat": 17.06556,
+        "lng": -96.72306,
+        "url": "https://lugares.inah.gob.mx/es/node/4252",
+        "consiglio": "Al jardín etnobotánico solo se entra con visita guiada, y horarios y reservas han cambiado varias veces últimamente: informarse en la ciudad antes de ir."
+      },
+      {
+        "nome": "Museo de las Culturas de Oaxaca",
+        "testo": "El museo dentro del antiguo convento de Santo Domingo, con salas sobre las culturas zapoteca y mixteca y el tesoro de la Tumba 7 de Monte Albán, joyas de oro y jade. Desde las ventanas de los claustros se ve el jardín etnobotánico.",
+        "come": "Entrada junto a la iglesia de Santo Domingo.",
+        "quando": "Por la mañana, antes o justo después de Monte Albán.",
+        "tempo": "2 horas",
+        "costo": "210 MXN para extranjeros, unos 10 € (ficha INAH, 2026).",
+        "orari": "De martes a sábado 10-16, cerrado domingo y lunes según la ficha INAH: comprobar antes.",
+        "lat": 17.06592,
+        "lng": -96.72315,
+        "url": "https://lugares.inah.gob.mx/es/node/4252"
+      },
+      {
+        "nome": "Monte Albán",
+        "testo": "La antigua capital zapoteca sobre un cerro allanado encima de la ciudad, patrimonio de la UNESCO, con la gran plaza, el juego de pelota y las tumbas. Desde arriba se ven los tres Valles Centrales.",
+        "come": "Transportes desde el centro o taxi, unos 20 minutos; entrada INAH con el museo de sitio incluido.",
+        "quando": "A la apertura: en las horas centrales hace calor y no hay sombra.",
+        "tempo": "2-3 horas",
+        "costo": "210 MXN para extranjeros, unos 10 € (ficha INAH, 2026).",
+        "orari": "Todos los días 8-17, último acceso a las 16 (ficha INAH).",
+        "lat": 17.04389,
+        "lng": -96.76778,
+        "url": "https://lugares.inah.gob.mx/es/node/4351"
+      },
+      {
+        "nome": "Mercados 20 de Noviembre y Benito Juárez",
+        "testo": "Mercados con puestos de carne asada, chapulines, chocolate, mole y queso. En el pasillo de humo del 20 de Noviembre se elige la carne cruda y la asan al momento.",
+        "come": "A pie, a pocas cuadras del Zócalo.",
+        "quando": "Mañana y comida; abiertos todos los días.",
+        "tempo": "1-2 horas",
+        "costo": "Entrada libre",
+        "lat": 17.05799,
+        "lng": -96.727,
+        "consiglio": "Llevar efectivo en billetes pequeños."
+      },
+      {
+        "nome": "Zócalo y Catedral",
+        "testo": "La plaza arbolada con el kiosco y los portales, y la Catedral de cantera verde al lado, en la Alameda. Por la noche se llena de vendedores de globos, bandas y familias.",
+        "come": "A pie desde el centro.",
+        "quando": "Por la noche, cuando la plaza está más viva.",
+        "tempo": "1 hora",
+        "costo": "Entrada libre",
+        "lat": 17.06152,
+        "lng": -96.72509
+      },
+      {
+        "nome": "Andador Macedonio Alcalá",
+        "testo": "La calle peatonal que sube de la Catedral a Santo Domingo, con casonas coloniales, galerías, tiendas de artesanía y mezcalerías. Es el recorrido natural para cruzar el centro.",
+        "come": "A pie.",
+        "quando": "Al final de la tarde y por la noche.",
+        "tempo": "1 hora",
+        "costo": "Entrada libre",
+        "lat": 17.06312,
+        "lng": -96.72432
+      },
+      {
+        "nome": "Basílica de la Soledad",
+        "testo": "El santuario barroco de la Virgen de la Soledad, patrona de la ciudad, con la fachada de paneles labrados. En la plaza de enfrente se venden nieves de sabores locales.",
+        "come": "A pie, al oeste del Zócalo.",
+        "quando": "Por la mañana o al final de la tarde.",
+        "tempo": "45 minutos",
+        "costo": "Entrada libre",
+        "lat": 17.06361,
+        "lng": -96.73028
+      },
+      {
+        "nome": "Museo Textil de Oaxaca",
+        "testo": "Pequeño museo dedicado a los textiles de las comunidades de Oaxaca y del mundo, con exposiciones que cambian y una tienda de cooperativas. Ayuda a reconocer las telas que se ven en los mercados y en Teotitlán.",
+        "come": "A pie desde el centro, en la calle Hidalgo.",
+        "quando": "Cualquier hora, también por la noche.",
+        "tempo": "1 hora",
+        "costo": "Entrada libre (sitio oficial).",
+        "orari": "Lunes-viernes 10-20, sábado 11-20, domingo 11-18 (sitio oficial).",
+        "lat": 17.06077,
+        "lng": -96.72292,
+        "url": "https://museotextildeoaxaca.org/"
+      },
+      {
+        "nome": "Museo Rufino Tamayo",
+        "testo": "El museo de arte prehispánico reunido por el pintor oaxaqueño Rufino Tamayo, en una casona colonial con salas pintadas de colores fuertes. Una colección elegida con ojo de artista más que de arqueólogo.",
+        "come": "A pie, en la avenida Morelos.",
+        "quando": "Por la mañana o a primera hora de la tarde.",
+        "tempo": "1 hora",
+        "lat": 17.06346,
+        "lng": -96.72689
+      },
+      {
+        "nome": "Instituto de Artes Gráficas de Oaxaca (IAGO)",
+        "testo": "El centro de gráfica fundado por Francisco Toledo, con exposiciones, una biblioteca de arte y un patio donde la gente se sienta en silencio. Cuenta la escena artística contemporánea de la ciudad.",
+        "come": "En el Andador Macedonio Alcalá, frente a Santo Domingo.",
+        "quando": "Por la tarde.",
+        "tempo": "45 minutos",
+        "lat": 17.06657,
+        "lng": -96.72407
+      },
+      {
+        "nome": "Barrio de Jalatlaco",
+        "testo": "Barrio de casas de colores y calles empedradas al este del centro, con murales, cafés y pequeños restaurantes. En los días antes del Día de Muertos pasan por aquí las comparsas de barrio.",
+        "come": "A pie desde el centro, unos 10 minutos.",
+        "quando": "Por la mañana para las fotos, por la noche para cenar.",
+        "tempo": "1-2 horas",
+        "costo": "Entrada libre",
+        "lat": 17.06748,
+        "lng": -96.71609
+      },
+      {
+        "nome": "Cerro del Fortín y Auditorio Guelaguetza",
+        "testo": "El cerro al noroeste del centro, con el anfiteatro donde en julio se celebra la Guelaguetza, la fiesta de las regiones de Oaxaca. Desde la escalinata y el mirador está la mejor vista de la ciudad.",
+        "come": "A pie subiendo escalones desde la zona de Santo Domingo, o en taxi hasta el auditorio.",
+        "quando": "Al final de la tarde, para el atardecer; mejor acompañados.",
+        "tempo": "1,5 horas",
+        "costo": "Entrada libre",
+        "lat": 17.06864,
+        "lng": -96.731
+      },
+      {
+        "nome": "Central de Abastos",
+        "testo": "El mercado mayorista de la ciudad, enorme y caótico, adonde llegan los productores de los pueblos de alrededor. Es el lugar más auténtico para ver qué se come en Oaxaca, de los chiles secos a las tortillas hechas a mano.",
+        "come": "Taxi o a pie desde el centro, unos 20 minutos al suroeste.",
+        "quando": "Por la mañana.",
+        "tempo": "1-2 horas",
+        "lat": 17.05977,
+        "lng": -96.73534,
+        "consiglio": "Cuidado con los carteristas en los pasillos más llenos."
+      },
+      {
+        "nome": "Panteón de Santa Cruz Xoxocotlán y Panteón General",
+        "testo": "Las veladas del Día de Muertos (31 de octubre-2 de noviembre), con tumbas adornadas con flores de cempasúchil y velas. El Panteón General está a pie desde el centro, Xoxocotlán al sur de la ciudad.",
+        "come": "Taxi o tour para Xoxocotlán, acordando también la vuelta; Panteón General a pie.",
+        "quando": "Noche del 31 de octubre y 1-2 de noviembre.",
+        "tempo": "Velada",
+        "costo": "Entrada libre: ningún tour vende un «acceso»",
+        "lat": 17.03081,
+        "lng": -96.75015,
+        "consiglio": "Respetar a las familias: no es un espectáculo."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Monte Albán a la apertura",
+          "Comida en el Mercado 20 de Noviembre, en el pasillo de humo",
+          "Tarde: Santo Domingo y Museo de las Culturas",
+          "Noche: Andador Macedonio Alcalá y Zócalo"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1 como arriba",
+          "Día 2: Basílica de la Soledad, Museo Textil y Museo Tamayo, tarde en Jalatlaco, atardecer en el Cerro del Fortín"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: Valles Centrales (Árbol del Tule, Teotitlán, Mitla, Hierve el Agua) con un tour o en colectivo"
+        ]
+      },
+      {
+        "titolo": "Día de Muertos",
+        "tappe": [
+          "31 de octubre: Monte Albán por la mañana, noche en Santa Cruz Xoxocotlán",
+          "1 de noviembre: Valles Centrales de día, muerteada de San Agustín Etla por la noche",
+          "2 de noviembre: Panteón General y últimas comparsas en la ciudad"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro histórico",
+        "perChi": "todo a pie",
+        "testo": "Hoteles en casonas coloniales, cultura y restaurantes, más ruidoso. Entre Santo Domingo y el Zócalo; en las noches de la fiesta los precios se multiplican por dos o tres.",
+        "fascia": "75-175 €"
+      },
+      {
+        "nome": "Barrio de Jalatlaco",
+        "perChi": "cafés y ambiente",
+        "testo": "Barrio de casas de colores, más tranquilo, a pie del centro. Muchas casas de huéspedes y pequeños hoteles.",
+        "fascia": "75-175 €"
+      },
+      {
+        "nome": "Barrio de Xochimilco",
+        "perChi": "quien busca calma",
+        "testo": "El viejo barrio al norte de Santo Domingo, con el acueducto y calles silenciosas, a 10-15 minutos a pie del centro."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Árbol del Tule y Teotitlán del Valle",
+        "distanza": "20-40 minutos en colectivo o taxi",
+        "come": "Colectivos hacia Tlacolula desde el centro, o taxi; el recinto del Tule cuesta pocos pesos.",
+        "testo": "El ahuehuete de Santa María del Tule, entre los árboles de tronco más ancho del mundo, y el pueblo de tejedores de lana de Teotitlán, donde se visitan los talleres."
+      },
+      {
+        "nome": "Mitla y Hierve el Agua",
+        "distanza": "unos 45 km y 70 km, jornada completa",
+        "come": "Tour de grupo, aproximadamente 600-900 MXN por persona sin entradas (del viaje), o colectivo hasta Mitla.",
+        "testo": "Mitla tiene grecas de piedra únicas en Mesoamérica (210 MXN para extranjeros, abierta todos los días 8-17, ficha INAH); Hierve el Agua las cascadas petrificadas con pozas al borde del precipicio, cuando la comunidad la mantiene abierta (50-100 MXN en efectivo)."
+      },
+      {
+        "nome": "San Bartolo Coyotepec",
+        "distanza": "unos 15 km al sur, 30 minutos",
+        "come": "Colectivo o taxi desde el centro.",
+        "testo": "El pueblo del barro negro, la cerámica negra pulida a mano: en los talleres familiares se ve cómo se trabaja."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Oaxaca?",
+        "risposta": "Tres días para la ciudad, Monte Albán y una jornada en los Valles Centrales; cuatro o cinco si se viene por el Día de Muertos, que tiene tres noches distintas."
+      },
+      {
+        "domanda": "¿Cuándo conviene reservar para el Día de Muertos?",
+        "risposta": "El alojamiento con 4-6 meses de antelación: entre el 30 de octubre y el 2 de noviembre los precios se multiplican por dos o tres y el centro se agota. Los tours nocturnos a los panteones, unas semanas antes."
+      },
+      {
+        "domanda": "¿Cómo se va a Monte Albán?",
+        "risposta": "Con los transportes que salen del centro o en taxi, unos 20 minutos. El sitio abre a las 8 y la entrada cuesta 210 MXN para extranjeros (ficha INAH, 2026)."
+      },
+      {
+        "domanda": "¿Está abierto Hierve el Agua?",
+        "risposta": "Depende: lo gestionan las comunidades y en los últimos años ha cerrado varias veces por disputas locales. Conviene preguntar en la ciudad o en la agencia el día anterior."
+      },
+      {
+        "domanda": "¿Qué son los bloqueos?",
+        "risposta": "Cortes de carretera de sindicatos y comunidades, frecuentes en el estado de Oaxaca: pueden parar autobuses y taxis durante horas. Antes de cada traslado se pregunta en el hotel y se deja margen."
+      },
+      {
+        "domanda": "¿Qué comer en Oaxaca?",
+        "risposta": "Mole negro, tlayudas a la brasa, quesillo, chapulines, tejate y chocolate de agua. El pasillo de humo del Mercado 20 de Noviembre es la comida más sencilla y típica."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'Un altar de cempasúchil iluminado por velas en la noche de los muertos en Oaxaca',
@@ -577,76 +921,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     doveDormire:
       'La Punta para hostales y presupuesto ajustado, Zicatela para la gama media y la vida nocturna, Carrizalillo y Rinconada para la calma y algún hotel de gama alta.',
     doveMangiare: 'Pescado a la talla, ceviche, tiritas y tacos de pescado en las palapas de la playa.',
-    comeArrivare: 'Autobús o van desde Oaxaca por la nueva autopista; vuelos directos desde Ciudad de México.',
     comeSpostarsi: 'Taxi y colectivos por la carretera 200.',
     periodoMigliore: 'de noviembre a abril, estación seca; de junio a octubre lluvias y posibles huracanes.',
-    costi: 'Clases de surf y tours de la laguna a precios variables: comparar en el lugar.',
     erroriDaEvitare: [
       'Nadar en Zicatela, donde las corrientes de resaca son peligrosas',
       'Elegir tours de bioluminiscencia con motor hasta el fondo de la laguna',
       'Dejar objetos sin vigilancia en la playa por la noche',
     ],
-      "luoghi": [
-        {
-          "nome": "Playa Zicatela",
-          "testo": "Una ola potente y famosa, la «Mexican Pipeline», para surfistas expertos; la playa tiene restaurantes y hoteles.",
-          "come": "A pie o taxi desde el centro.",
-          "quando": "Amanecer y atardecer para mirar a los surfistas; bañarse solo con mucha prudencia.",
-          "tempo": "Media jornada",
-          "consiglio": "Corrientes peligrosas: no nadar donde hay olas grandes."
-        },
-        {
-          "nome": "Carrizalillo, Manzanillo y Puerto Angelito",
-          "testo": "Calas resguardadas con agua calma, aptas para bañarse y hacer snorkel.",
-          "come": "Taxi o a pie con una escalinata.",
-          "quando": "Mañana.",
-          "tempo": "Media jornada"
-        },
-        {
-          "nome": "Laguna de Manialtepec",
-          "testo": "Una laguna con manglares y aves, con bioluminiscencia nocturna.",
-          "come": "Tour en barca desde Puerto Escondido.",
-          "quando": "Amanecer o noche.",
-          "tempo": "2-3 horas"
-        },
-        {
-          "nome": "Mazunte, Zipolite y Punta Cometa",
-          "testo": "Pueblos de la costa cercana: Mazunte por el centro de tortugas, Zipolite por la playa libre, Punta Cometa por el atardecer.",
-          "come": "Coche o colectivo desde Puerto Escondido, por la costa.",
-          "quando": "Atardecer en Punta Cometa.",
-          "tempo": "Día completo"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: Carrizalillo",
-            "Almuerzo de pescado",
-            "Tarde: Zicatela",
-            "Atardecer en la playa"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: calas y Zicatela",
-            "Día 2: Mazunte, Punta Cometa y Zipolite"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Zicatela",
-          "perChi": "surf y vida nocturna",
-          "testo": "Hoteles, bares y restaurantes, ruidosos de noche."
-        },
-        {
-          "nome": "La Punta",
-          "perChi": "ambiente tranquilo",
-          "testo": "Más tranquila, con olas más bajas, cerca de las calas."
-        }
-      ],
       "sapori": [
         {
           "nome": "Pescado fresco",
@@ -670,6 +951,187 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Robos en la playa: no dejar nada sin vigilancia.",
         "La carretera desde Oaxaca es larga y con curvas: valorar el vuelo."
       ],
+    comeArrivare: "Autobús o van desde Oaxaca por la nueva autopista; vuelos directos desde Ciudad de México. Con la autopista Barranca Larga-Ventanilla, abierta por completo en 2024, desde Oaxaca se tardan unas 3-3,5 horas en lugar de seis o siete, 300-500 MXN (15-25 €): mejor salir por la mañana con el asiento reservado el día antes y preguntar si hay bloqueos. El vuelo desde Ciudad de México dura alrededor de una hora (Aeroméxico, Volaris y Viva) y el aeropuerto está a pocos minutos en taxi de Zicatela y del centro. Quien duerme en Mazunte usa el aeropuerto de Huatulco, a una hora de carretera.",
+    costi: "Clases de surf y tours de la laguna a precios variables: comparar en el lugar. Clase de surf en grupo unos 600-900 MXN (30-45 €), Centro Mexicano de la Tortuga unos 50 MXN, liberación de tortugas con donativo (del viaje, 2026). Presupuesto bajo unos 50-70 € al día por persona (hostal en La Punta, pescado en la playa, colectivos); medio 100-160 € (hotel en Zicatela, una clase de surf, la laguna de Manialtepec); alto desde 250 € (hotel tranquilo en Carrizalillo o Rinconada, salidas privadas).",
+    luoghi: [
+      {
+        "nome": "Playa Zicatela",
+        "testo": "Una ola potente y famosa, el «Mexican Pipeline», para surfistas expertos; la playa, de casi tres kilómetros, tiene restaurantes y hoteles. Desde la arena se ve a los surfistas entrar en los tubos.",
+        "come": "A pie o en taxi desde el centro.",
+        "quando": "Amanecer y atardecer para ver a los surfistas; el baño solo con mucha prudencia.",
+        "tempo": "Media jornada",
+        "costo": "Entrada libre",
+        "consiglio": "Corrientes de resaca fuertes y ahogados cada año: se nada solo en las calas protegidas."
+      },
+      {
+        "nome": "Carrizalillo, Manzanillo y Puerto Angelito",
+        "testo": "Calas protegidas con agua tranquila, buenas para nadar y hacer snorkel. Carrizalillo, al final de unos 160 escalones, es también la playa de las primeras clases de surf y de los atardeceres.",
+        "come": "Taxi o a pie; a Carrizalillo se baja por la escalinata.",
+        "quando": "Por la mañana para nadar, atardecer en Carrizalillo.",
+        "tempo": "Media jornada",
+        "costo": "Entrada libre; camastros y sombrillas de pago",
+        "lat": 15.85955,
+        "lng": -97.07851,
+        "consiglio": "La subida desde Carrizalillo con calor cansa: calzado cómodo y agua."
+      },
+      {
+        "nome": "La Punta",
+        "testo": "El extremo sur de Zicatela, con una ola izquierda más suave, escuelas de surf, hostales y bares al aire libre. Es el lado más joven de Puerto Escondido.",
+        "come": "Taxi desde el centro o a pie por Zicatela.",
+        "quando": "Temprano por la mañana para el surf, por la noche para los bares.",
+        "tempo": "Media jornada",
+        "costo": "Clase de surf en grupo unos 600-900 MXN, 30-45 € (del viaje, 2026).",
+        "lat": 15.83415,
+        "lng": -97.0442
+      },
+      {
+        "nome": "Playa Bacocho y la liberación de tortugas",
+        "testo": "Playa larga y abierta al oeste del centro, donde al atardecer algunos proyectos de conservación liberan en el mar las tortugas recién nacidas en sus viveros. A finales de octubre y en noviembre la temporada de eclosiones está en su punto.",
+        "come": "Taxi desde el centro, pocos minutos.",
+        "quando": "Atardecer, con horarios que se preguntan el mismo día.",
+        "tempo": "1-2 horas",
+        "costo": "Pequeño donativo al proyecto",
+        "lat": 15.86618,
+        "lng": -97.09354,
+        "consiglio": "No se tocan las crías, nada de flash, se queda uno detrás de la línea marcada. Aquí el mar es abierto: no hay que bañarse."
+      },
+      {
+        "nome": "Playa Principal y Andador El Adoquín",
+        "testo": "La bahía del centro, con las lanchas de los pescadores en la arena y el pescado que se vende por la mañana. Detrás está El Adoquín, la calle peatonal con tiendas, bares y restaurantes.",
+        "come": "A pie desde el centro.",
+        "quando": "Temprano para los pescadores, por la noche para pasear.",
+        "tempo": "1-2 horas",
+        "costo": "Entrada libre",
+        "lat": 15.86012,
+        "lng": -97.06322
+      },
+      {
+        "nome": "Laguna de Manialtepec",
+        "testo": "Laguna con manglares a unos 20 minutos al oeste de la ciudad. Al amanecer se va en lancha por las aves (garzas, cormoranes, martines pescadores), de noche por la bioluminiscencia, el plancton que se enciende de azul cuando el agua se mueve.",
+        "come": "Tour en lancha desde Puerto Escondido.",
+        "quando": "Amanecer o noche sin luna; el pico de la bioluminiscencia es entre julio y septiembre, en noviembre es más débil.",
+        "tempo": "2-3 horas",
+        "lat": 15.94583,
+        "lng": -97.19444,
+        "consiglio": "Preguntar al operador cómo fueron las noches anteriores."
+      },
+      {
+        "nome": "Mazunte, Zipolite y Punta Cometa",
+        "testo": "Pueblos de la costa cercana: Mazunte por el centro de las tortugas, Zipolite por la playa libre, Punta Cometa por el atardecer, con un sendero corto entre la vegetación seca.",
+        "come": "Colectivo o taxi compartido por la costera 200, alrededor de una hora y cuarto.",
+        "quando": "Atardecer en Punta Cometa.",
+        "tempo": "Jornada completa",
+        "lat": 15.66006,
+        "lng": -96.55703,
+        "consiglio": "Para bajar de Punta Cometa, ya de noche, hace falta una linterna."
+      },
+      {
+        "nome": "Centro Mexicano de la Tortuga",
+        "testo": "El centro de investigación y acuario dedicado a las tortugas marinas, en Mazunte, nacido tras la veda de 1990 que cambió la economía del pueblo. Se ven las especies que anidan en la costa de Oaxaca.",
+        "come": "En Mazunte, en la carretera principal; se combina con Punta Cometa.",
+        "quando": "Por la mañana o a primera hora de la tarde.",
+        "tempo": "1 hora",
+        "costo": "Unos 50 MXN, 2-3 € (del viaje, 2026)",
+        "orari": "Cerrado lunes y martes (del viaje).",
+        "lat": 15.66652,
+        "lng": -96.55177
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: baño en Carrizalillo o Puerto Angelito",
+          "Comida de pescado en la Playa Principal",
+          "Tarde: Zicatela y La Punta para ver a los surfistas",
+          "Atardecer en Bacocho con la liberación de tortugas"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1 como arriba",
+          "Día 2: clase de surf en La Punta por la mañana, Manialtepec por la noche para la bioluminiscencia"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: Mazunte con el Centro de la Tortuga, Zipolite y atardecer en Punta Cometa"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Zicatela",
+        "perChi": "surf y vida nocturna",
+        "testo": "Hoteles, bares y restaurantes, ruidosos de noche. Gama media.",
+        "fascia": "75-150 €"
+      },
+      {
+        "nome": "La Punta",
+        "perChi": "presupuesto bajo y ambiente joven",
+        "testo": "Hostales y habitaciones económicas, olas más suaves, vida al aire libre.",
+        "fascia": "desde 30 €"
+      },
+      {
+        "nome": "Carrizalillo y Rinconada",
+        "perChi": "tranquilidad",
+        "testo": "Zonas residenciales sobre las calas, con hoteles más tranquilos y algún alojamiento de gama alta."
+      },
+      {
+        "nome": "Mazunte",
+        "perChi": "quien quiere cambiar de base",
+        "testo": "Pueblo pequeño y relajado a una hora y cuarto, con cabañas y hostales; se vuela desde Huatulco."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Mazunte, Zipolite y Punta Cometa",
+        "distanza": "alrededor de 1 hora y cuarto por la costera 200",
+        "come": "Colectivo o taxi compartido; después del atardecer hay menos transporte.",
+        "testo": "El Centro de la Tortuga, la playa de Zipolite y el atardecer desde el promontorio de Punta Cometa."
+      },
+      {
+        "nome": "Lagunas de Chacahua",
+        "distanza": "unos 70 km al oeste",
+        "come": "Tour de un día desde Puerto Escondido, o colectivo hasta Zapotalito y luego lancha.",
+        "testo": "Parque nacional de lagunas y manglares, con un pueblo de pescadores sobre una lengua de arena entre laguna y océano."
+      },
+      {
+        "nome": "Laguna de Manialtepec",
+        "distanza": "unos 20 minutos al oeste",
+        "come": "Tour en lancha al amanecer o de noche.",
+        "testo": "Aves entre los manglares por la mañana, bioluminiscencia en las noches sin luna."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Se puede nadar en Zicatela?",
+        "risposta": "Mejor no: tiene corrientes de resaca fuertes y cada año hay ahogados. Para nadar se va a Carrizalillo, Manzanillo o Puerto Angelito."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta en Puerto Escondido?",
+        "risposta": "Tres días para las calas, el surf, Manialtepec y una jornada en Mazunte; con cinco se añade Chacahua o algunos días de descanso."
+      },
+      {
+        "domanda": "¿Dónde conviene alojarse?",
+        "risposta": "En La Punta para gastar poco, en Zicatela para la vida nocturna, en Carrizalillo y Rinconada para la calma."
+      },
+      {
+        "domanda": "¿Cuándo se liberan las tortugas?",
+        "risposta": "Al atardecer, en Bacocho, durante la temporada de eclosiones, que a finales de octubre y en noviembre está en su punto. Los horarios se preguntan el mismo día y se deja un pequeño donativo."
+      },
+      {
+        "domanda": "¿Cuándo se ve la bioluminiscencia en Manialtepec?",
+        "risposta": "En las noches sin luna, mejor después de las lluvias: el pico es entre julio y septiembre; en noviembre es más débil y cambia de una noche a otra."
+      },
+      {
+        "domanda": "¿Cómo se llega desde Oaxaca?",
+        "risposta": "En autobús o van por la nueva autopista, unas 3-3,5 horas y 300-500 MXN, o en avión vía Ciudad de México."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'La bahía de Puerto Escondido vista desde lo alto entre los cactus',

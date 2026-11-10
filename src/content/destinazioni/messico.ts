@@ -310,82 +310,13 @@ export const destinazioniMessico: Destinazione[] = [
     doveDormire: 'Ho dormito all\'Hotel Waye, a pochi passi dalla piazza principale.',
     doveMangiare:
       'I nomi dei ristoranti non me li sono segnati. Il centro storico intorno alla piazza principale è pieno di cantinas e loncherías yucateche a prezzi bassi, tutte a piedi dall\'hotel: si può improvvisare senza prenotare.',
-    comeArrivare: 'Via van/auto da Cancún (circa 2-2h30), spesso con tappa a Río Lagartos lungo il tragitto.',
     comeSpostarsi: 'Il centro storico è piccolo e si gira bene a piedi.',
     periodoMigliore: 'per questa tappa non l\'ho annotato; vale la stagione secca consigliata per tutto lo Yucatán, da novembre ad aprile.',
-    costi: 'Non mi sono segnato le spese di Valladolid; come il resto dell\'entroterra, è una tappa economica.',
     erroriDaEvitare: [
       'Sottovalutare Ek Balam perché è meno famoso di Chichén Itzá: è molto meno affollato e, col cenote Xcanché lì accanto, è un abbinamento ideale',
     ],
     miaEsperienza:
       'Valladolid è stata una sosta breve ma piacevole: una città molto tranquilla, dove la sera ho fatto una passeggiata dopo una giornata piena fra Río Lagartos, Ek Balam e il cenote Xcanché.',
-      "luoghi": [
-        {
-          "nome": "Chichén Itzá",
-          "testo": "Una delle meraviglie del mondo moderne, sito maya patrimonio UNESCO con il Castillo, il campo del gioco di palla e il cenote sacro.",
-          "come": "Da Valladolid in auto o taxi, oppure tour con guida.",
-          "quando": "Mattina, all'apertura, prima dei pullman e del caldo.",
-          "tempo": "3-4 ore",
-          "costo": "697 MXN per gli stranieri, con biglietto unico federale e statale in un'unica cassa dal 27 marzo 2026; la domenica gratis solo per messicani e residenti.",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Per Chichén Itzá consiglio una guida: Alejandro parla spagnolo e inglese, è nato a 20 minuti dal sito ed è preparatissimo."
-        },
-        {
-          "nome": "Ek Balam",
-          "testo": "Sito maya più piccolo e molto meno affollato, con una grande acropoli e decorazioni in stucco conservate molto bene, come la «bocca del mostro» all'ingresso della tomba. Se oggi si possa salire in cima dipende dalle regole del momento: chiederlo in biglietteria.",
-          "come": "Da Valladolid in taxi o auto.",
-          "quando": "Mattina.",
-          "tempo": "2 ore",
-          "costo": "Circa 690 MXN per gli stranieri fra quota federale e statale (2026).",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Spesso sottovalutato: abbinarlo al cenote Xcanché lì accanto."
-        },
-        {
-          "nome": "Cenote Xcanché",
-          "testo": "Cenote a cielo aperto vicino a Ek Balam. Si scende per una scala nella roccia fino all'acqua, circondata da radici e piante pendenti.",
-          "come": "Taxi o bici da Ek Balam.",
-          "quando": "Mattina o primo pomeriggio.",
-          "tempo": "1-2 ore"
-        },
-        {
-          "nome": "Río Lagartos e Las Coloradas",
-          "testo": "Riserva con fenicotteri e laghi rosa, a nord di Valladolid.",
-          "come": "Tour o auto, lungo la strada per la costa.",
-          "quando": "Mattina.",
-          "tempo": "Mezza giornata",
-          "consiglio": "Spesso tappa lungo il percorso da Cancún."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: Ek Balam e cenote Xcanché",
-            "Pranzo in piazza",
-            "Pomeriggio: centro storico",
-            "Sera: passeggiata"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: Ek Balam, Xcanché, centro",
-            "Giorno 2: Chichén Itzá all'apertura, poi Río Lagartos"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro storico",
-          "perChi": "a piedi da tutto",
-          "testo": "Piazza principale, cantinas e loncherías vicine, hotel a pochi passi."
-        },
-        {
-          "nome": "Fuori dal centro",
-          "perChi": "chi ha l'auto",
-          "testo": "Haciendas e cenote, ma serve un mezzo."
-        }
-      ],
       "sapori": [
         {
           "nome": "Cochinita pibil e poc chuc",
@@ -409,6 +340,236 @@ export const destinazioniMessico: Destinazione[] = [
         "Non salire sulle piramidi dove è vietato: le multe sono reali.",
         "Cenote: seguire le regole su crema solare e doccia prima del bagno."
       ],
+    comeArrivare: "Via van/auto da Cancún (circa 2-2h30), spesso con tappa a Río Lagartos lungo il tragitto. In auto si prende l'autostrada a pedaggio Cancún-Mérida, uscendo a Valladolid; i bus ADO partono dal terminal del centro di Cancún e arrivano al terminal di Valladolid, a pochi isolati dalla piazza principale. Il Tren Maya ha una stazione fuori città: da lì al centro serve un taxi. Chichén Itzá è a circa 40 km, tre quarti d'ora di strada; Mérida a circa un'ora e mezza-due ore, passando per Chichén Itzá e Izamal.",
+    costi: "Non mi sono segnato le spese di Valladolid; come il resto dell'entroterra, è una tappa economica. Budget basso circa 35-50 € al giorno a persona (hotel semplice in centro, loncherías, colectivos per i cenote); medio 80-130 € (hotel boutique, ristoranti, Ek Balam o Chichén Itzá con guida); alto da 220 € (hacienda fuori città, auto con autista). Ek Balam 691 MXN per gli stranieri più 100 MXN di parcheggio (scheda INAH); Chichén Itzá 105 MXN INAH più 548 MXN di quota statale secondo la scheda INAH (novembre 2026), mentre la stampa locale riporta 697 MXN con il biglietto unico.",
+    luoghi: [
+      {
+        "nome": "Chichén Itzá",
+        "testo": "Una delle meraviglie del mondo moderne, sito maya patrimonio UNESCO con il Castillo, il campo del gioco di palla e il cenote sacro.",
+        "come": "Da Valladolid in auto o taxi, oppure tour con guida.",
+        "quando": "Mattina, all'apertura, prima dei pullman e del caldo.",
+        "tempo": "3-4 ore",
+        "costo": "697 MXN per gli stranieri, con biglietto unico federale e statale in un'unica cassa dal 27 marzo 2026; la domenica gratis solo per messicani e residenti. La scheda INAH indica invece 105 + 548 MXN (novembre 2026).",
+        "orari": "Tutti i giorni 8-16, ultimo ingresso alle 15 (scheda INAH).",
+        "lat": 20.68289,
+        "lng": -88.56861,
+        "url": "https://lugares.inah.gob.mx/es/node/4335",
+        "consiglio": "Per Chichén Itzá consiglio una guida: Alejandro parla spagnolo e inglese, è nato a 20 minuti dal sito ed è preparatissimo."
+      },
+      {
+        "nome": "Ek Balam",
+        "testo": "Sito maya più piccolo e molto meno affollato, con una grande acropoli e decorazioni in stucco conservate molto bene, come la «bocca del mostro» all'ingresso della tomba. Se oggi si possa salire in cima dipende dalle regole del momento: chiederlo in biglietteria.",
+        "come": "Da Valladolid in taxi o auto, circa mezz'ora.",
+        "quando": "Mattina.",
+        "tempo": "2 ore",
+        "costo": "210 MXN INAH più 481 MXN di quota statale per gli stranieri, cioè 691 MXN, circa 35 €, più 100 MXN di parcheggio dell'ejido (scheda INAH, 2026).",
+        "lat": 20.89111,
+        "lng": -88.13639,
+        "url": "https://www.inah.gob.mx/",
+        "consiglio": "Spesso sottovalutato: abbinarlo al cenote Xcanché lì accanto."
+      },
+      {
+        "nome": "Cenote Xcanché",
+        "testo": "Cenote a cielo aperto vicino a Ek Balam. Si scende per una scala nella roccia fino all'acqua, circondata da radici e piante pendenti.",
+        "come": "Taxi o bici da Ek Balam.",
+        "quando": "Mattina o primo pomeriggio.",
+        "tempo": "1-2 ore",
+        "costo": "Ingresso a parte rispetto a Ek Balam (dal viaggio)",
+        "lat": 20.88828,
+        "lng": -88.12041
+      },
+      {
+        "nome": "Río Lagartos e Las Coloradas",
+        "testo": "Riserva con fenicotteri e laghi rosa, a nord di Valladolid.",
+        "come": "Tour o auto, lungo la strada per la costa, circa un'ora e mezza.",
+        "quando": "Mattina.",
+        "tempo": "Mezza giornata",
+        "lat": 21.5975,
+        "lng": -88.15778,
+        "consiglio": "Spesso tappa lungo il percorso da Cancún."
+      },
+      {
+        "nome": "Convento de San Bernardino de Siena",
+        "testo": "Il convento francescano del Cinquecento nel barrio di Sisal, con la chiesa fortificata e un grande cortile verde costruito sopra un cenote. La sera, sulla facciata, si proietta uno spettacolo di luci sulla storia della città.",
+        "come": "A piedi dal centro lungo la Calzada de los Frailes, circa 15 minuti.",
+        "quando": "Pomeriggio per la visita, sera per lo spettacolo sulla facciata.",
+        "tempo": "1 ora",
+        "lat": 20.68579,
+        "lng": -88.20993
+      },
+      {
+        "nome": "Calzada de los Frailes",
+        "testo": "La strada coloniale in diagonale che collega il centro al convento di Sisal, con case colorate ben restaurate, negozi e caffè. È la via più fotografata di Valladolid.",
+        "come": "A piedi.",
+        "quando": "Mattina presto o al tramonto, con la luce radente.",
+        "tempo": "45 minuti",
+        "costo": "Ingresso libero",
+        "lat": 20.68813,
+        "lng": -88.20717
+      },
+      {
+        "nome": "Parque Francisco Cantón e San Servacio",
+        "testo": "La piazza principale, con le panchine a confidente, i venditori di marquesitas e la chiesa di San Servacio dalla facciata bianca, ricostruita nel Settecento. La sera è il centro della vita cittadina.",
+        "come": "A piedi.",
+        "quando": "Sera.",
+        "tempo": "1 ora",
+        "costo": "Ingresso libero",
+        "lat": 20.6902,
+        "lng": -88.20166
+      },
+      {
+        "nome": "Cenote Zací",
+        "testo": "Un cenote semiaperto in pieno centro, a pochi isolati dalla piazza, con una volta di roccia e stalattiti sopra l'acqua. Comodo per un bagno senza uscire dalla città.",
+        "come": "A piedi dal centro.",
+        "quando": "Mattina, prima dei gruppi.",
+        "tempo": "1 ora",
+        "lat": 20.69167,
+        "lng": -88.19736
+      },
+      {
+        "nome": "Casa de los Venados",
+        "testo": "Una casa coloniale privata con una grande collezione di arte popolare messicana, visitabile con una guida. Racconta l'artigianato del paese meglio di molti musei.",
+        "come": "A piedi, a un isolato dalla piazza.",
+        "quando": "Mattina.",
+        "tempo": "1 ora",
+        "lat": 20.68928,
+        "lng": -88.20088
+      },
+      {
+        "nome": "Museo San Roque",
+        "testo": "Un piccolo museo nella vecchia chiesa di San Roque, con oggetti maya e coloniali e la storia della Guerra delle Caste, cominciata proprio intorno a Valladolid.",
+        "come": "A piedi dal centro.",
+        "quando": "Qualsiasi ora del giorno.",
+        "tempo": "30 minuti",
+        "lat": 20.68978,
+        "lng": -88.1994
+      },
+      {
+        "nome": "Cenote Suytun",
+        "testo": "Il cenote in grotta con la passerella di pietra al centro e il fascio di luce che entra dal foro della volta, molto fotografato. Si arriva fino alla piattaforma circondata dall'acqua.",
+        "come": "In auto o taxi, circa 10 minuti a est sulla strada per Cancún.",
+        "quando": "Mezzogiorno, quando la luce entra dritta.",
+        "tempo": "1 ora",
+        "lat": 20.69899,
+        "lng": -88.12457
+      },
+      {
+        "nome": "Cenote Oxman",
+        "testo": "Un cenote profondo nella vecchia hacienda San Lorenzo Oxman, con la corda per lanciarsi in acqua e la piscina dell'hacienda.",
+        "come": "Taxi o bici, circa 10 minuti a sud-ovest del centro.",
+        "quando": "Primo pomeriggio.",
+        "tempo": "2 ore",
+        "lat": 20.66756,
+        "lng": -88.23006
+      },
+      {
+        "nome": "Cenotes Xkeken e Samulá",
+        "testo": "Due cenote in grotta uno accanto all'altro a Dzitnup, con un biglietto combinato: Xkeken ha stalattiti e radici che scendono fino all'acqua, Samulá un foro nella volta da cui scendono le radici di un albero.",
+        "come": "Taxi o bici, circa 10 minuti a ovest del centro.",
+        "quando": "Mattina.",
+        "tempo": "1,5 ore",
+        "lat": 20.66077,
+        "lng": -88.24261
+      },
+      {
+        "nome": "Cenote Ik Kil",
+        "testo": "Il grande cenote aperto vicino a Chichén Itzá, con le liane che pendono fino all'acqua e una scalinata scavata nella roccia. Si abbina alla visita del sito.",
+        "come": "Lungo la strada per Mérida, a pochi chilometri da Chichén Itzá.",
+        "quando": "Dopo Chichén Itzá, prima di pranzo.",
+        "tempo": "1 ora",
+        "lat": 20.6609,
+        "lng": -88.5505
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Ek Balam e cenote Xcanché",
+          "Pranzo in piazza",
+          "Pomeriggio: centro storico, Calzada de los Frailes e San Bernardino",
+          "Sera: passeggiata e spettacolo di luci sulla facciata del convento"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Ek Balam, Xcanché, centro",
+          "Giorno 2: Chichén Itzá all'apertura, poi Ik Kil o Río Lagartos"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: cenote intorno alla città (Suytun, Xkeken e Samulá, Oxman), Casa de los Venados e Cenote Zací"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro storico",
+        "perChi": "a piedi da tutto",
+        "testo": "Piazza principale, cantinas e loncherías vicine, hotel a pochi passi.",
+        "fascia": "55-110 €"
+      },
+      {
+        "nome": "Barrio di Sisal e Calzada de los Frailes",
+        "perChi": "atmosfera e calma",
+        "testo": "Il quartiere del convento, con piccoli hotel in case coloniali e caffè, a 10-15 minuti a piedi dalla piazza."
+      },
+      {
+        "nome": "Fuori dal centro",
+        "perChi": "chi ha l'auto",
+        "testo": "Haciendas e cenote, ma serve un mezzo."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Izamal",
+        "distanza": "circa 1,5 ore in auto",
+        "come": "Auto, o bus con cambio; spesso tappa fra Chichén Itzá e Mérida.",
+        "testo": "La città gialla con il convento francescano costruito sopra una piramide maya e la piramide di Kinich Kakmó in mezzo alle case (ingresso gratuito, tutti i giorni 8-17, scheda INAH)."
+      },
+      {
+        "nome": "Cobá",
+        "distanza": "circa 1 ora in auto",
+        "come": "Auto o colectivo verso Tulum.",
+        "testo": "Il sito maya fra due lagune, con lunghi sacbé da percorrere in bici e la piramide di Nohoch Mul (210 MXN per gli stranieri, tutti i giorni 8-17, ultimo ingresso alle 16, scheda INAH)."
+      },
+      {
+        "nome": "Las Coloradas",
+        "distanza": "circa 1,5-2 ore a nord",
+        "come": "Auto o tour, insieme a Río Lagartos.",
+        "testo": "Le vasche rosa delle saline sulla costa, che si guardano dalla strada senza entrare nell'acqua."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Valladolid è una buona base per Chichén Itzá?",
+        "risposta": "Sì: è a circa 40 km, tre quarti d'ora di strada, e dormendo qui si arriva al sito all'apertura delle 8, prima dei pullman da Cancún."
+      },
+      {
+        "domanda": "Quanti giorni servono a Valladolid?",
+        "risposta": "Una notte basta di passaggio; con due si fanno Ek Balam e Chichén Itzá, con tre si aggiungono i cenote intorno alla città."
+      },
+      {
+        "domanda": "Quanto costa entrare a Chichén Itzá?",
+        "risposta": "Per gli stranieri la scheda INAH indica 105 MXN più 548 MXN di quota statale (novembre 2026), la stampa locale 697 MXN con il biglietto unico: conviene controllare prima di partire. Il sito apre alle 8 e l'ultimo ingresso è alle 15."
+      },
+      {
+        "domanda": "Quali cenote vedere intorno a Valladolid?",
+        "risposta": "Zací in centro; Suytun, Xkeken e Samulá e Oxman a pochi minuti; Xcanché vicino a Ek Balam e Ik Kil vicino a Chichén Itzá. Prima del bagno si fa la doccia e niente crema solare."
+      },
+      {
+        "domanda": "Si può salire sulla piramide di Ek Balam?",
+        "risposta": "Dipende dalle regole del momento: va chiesto in biglietteria. A Chichén Itzá invece non si sale, e le multe sono reali."
+      },
+      {
+        "domanda": "Come si arriva da Cancún?",
+        "risposta": "In auto sull'autostrada a pedaggio, circa 2-2 ore e mezza, in bus ADO o con il Tren Maya, la cui stazione è fuori città."
+      }
+    ],
     esperienzeSlugs: ['rio-lagartos', 'ek-balam-cenote-xcanche'],
     tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Portici e facciata gialla in stile coloniale nel centro di Valladolid, Yucatán',
@@ -949,77 +1110,13 @@ export const destinazioniMessico: Destinazione[] = [
     cosaFare: ['Tour in barca di 2 ore sulla laguna', 'Kayak (nel mio caso era incluso dopo il tour in barca)'],
     doveDormire: 'Non ho dormito a Bacalar (l\'ho vista in giornata da Mahahual), quindi non ho una struttura da consigliare; chi vuole fermarsi una notte trova alloggi sulla laguna in tutte le fasce di prezzo.',
     doveMangiare: 'In giornata non mi sono segnato dove abbiamo mangiato.',
-    comeArrivare: 'In tour organizzato da Mahahual, oppure in autonomia con van o auto.',
     comeSpostarsi: 'Noi eravamo in tour organizzato da Mahahual; sulla laguna ci si muove in barca o in kayak.',
     periodoMigliore: 'non l\'ho annotato per Bacalar; vale la stagione secca consigliata per la zona, da novembre ad aprile.',
-    costi: 'Il prezzo del tour non me lo sono segnato.',
     erroriDaEvitare: [
       'In tour da Mahahual il tempo è poco: chi può, valuti una notte sul posto per goderla con calma',
     ],
     miaEsperienza:
       'L\'ho vista solo in giornata, con un tour in barca di 2 ore e un\'ora di kayak. Bellissima, ma il tempo stretto si è sentito: è una delle tappe che in un prossimo giro farei con più calma.',
-      "luoghi": [
-        {
-          "nome": "Laguna di Bacalar",
-          "testo": "La laguna dei sette colori, lunga decine di chilometri e stretta, con acqua dalle sfumature di azzurro e turchese su fondale bianco. Ospita il più esteso sistema di stromatoliti d'acqua dolce al mondo: formazioni rocciose create da microrganismi, vecchie di migliaia di anni.",
-          "come": "Da Mahahual in tour organizzato oppure in autonomia con van o auto.",
-          "quando": "Mattina, con luce piena.",
-          "tempo": "Mezza giornata o più",
-          "consiglio": "Il tempo in giornata è stretto: chi può, valuti una notte sul posto per goderla con calma."
-        },
-        {
-          "nome": "Tour in barca e kayak",
-          "testo": "Giro di 2 ore in barca sulla laguna e, nel mio caso, un'ora di kayak inclusa dopo il tour.",
-          "come": "Tour prenotato dall'hotel o dal lungolago.",
-          "quando": "Mattina.",
-          "tempo": "3 ore"
-        },
-        {
-          "nome": "Cenote Azul",
-          "testo": "Un cenote profondo e rotondo sulla riva della laguna.",
-          "come": "In taxi dal centro.",
-          "quando": "Mattina.",
-          "tempo": "1-2 ore"
-        },
-        {
-          "nome": "Fuerte San Felipe",
-          "testo": "Forte costruito dagli spagnoli per difendere Bacalar dai pirati, sulla riva della laguna. Orari e ingresso sul sito dell'INAH.",
-          "come": "A piedi dal centro.",
-          "quando": "Mattina.",
-          "tempo": "1 ora",
-          "url": "https://www.inah.gob.mx/"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Tour in barca di 2 ore",
-            "Kayak",
-            "Pranzo sul lago",
-            "Cenote Azul"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: tour in barca e Fuerte San Felipe",
-            "Giorno 2: kayak e cenote, poi partenza"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Lungolago di Bacalar",
-          "perChi": "vista sulla laguna",
-          "testo": "Hotel e cabañas direttamente sull'acqua, più cari."
-        },
-        {
-          "nome": "Centro del paese",
-          "perChi": "budget",
-          "testo": "Più economico, a pochi minuti dalla laguna."
-        }
-      ],
       "sapori": [
         {
           "nome": "Pesce fresco",
@@ -1043,6 +1140,189 @@ export const destinazioniMessico: Destinazione[] = [
         "Proteggere la laguna: crema solare biodegradabile obbligatoria in molti punti.",
         "Non camminare sugli stromatoliti: sono organismi fragili."
       ],
+    comeArrivare: "In tour organizzato da Mahahual, oppure in autonomia con van o auto. Da Cancún sono circa 4-5 ore in auto lungo la Federale 307, passando per Tulum; ci sono anche i bus ADO, che fermano in paese, e il Tren Maya con la stazione di Bacalar, fuori dal centro. L'aeroporto più vicino è quello di Chetumal, a circa 40 km, raggiungibile in taxi. Da Xpujil e Calakmul servono circa 2 ore di strada. Entrando in Quintana Roo da Campeche si sposta l'orologio un'ora avanti.",
+    costi: "Il prezzo del tour non me lo sono segnato. Il tour in barca di un paio d'ore si concorda al molo o in agenzia e si paga in contanti; il Fuerte de San Felipe ha un biglietto di pochi euro; molti pontili sulla laguna sono di hotel o club privati, con ingresso a pagamento (dal viaggio). Budget indicativo a persona al giorno: basso 40-60 € (camera in paese, cucina semplice), medio 100-160 € (hotel sulla laguna, tour in barca, kayak), alto da 250 € (hotel di design sull'acqua, uscite private).",
+    luoghi: [
+      {
+        "nome": "Laguna di Bacalar",
+        "testo": "La laguna dei sette colori, lunga decine di chilometri e stretta, con acqua dalle sfumature di azzurro e turchese su fondale bianco. Ospita il più esteso sistema di stromatoliti d'acqua dolce al mondo: formazioni rocciose create da microrganismi, vecchie di migliaia di anni.",
+        "come": "Da Mahahual in tour organizzato oppure in autonomia con van o auto.",
+        "quando": "Mattina, con luce piena.",
+        "tempo": "Mezza giornata o più",
+        "lat": 18.75,
+        "lng": -88.315,
+        "consiglio": "Il tempo in giornata è stretto: chi può, valuti una notte sul posto per goderla con calma."
+      },
+      {
+        "nome": "Tour in barca e kayak",
+        "testo": "Giro di 2 ore in barca sulla laguna e, nel mio caso, un'ora di kayak inclusa dopo il tour.",
+        "come": "Tour prenotato dall'hotel o dal lungolago, il giorno prima.",
+        "quando": "Mattina.",
+        "tempo": "3 ore",
+        "costo": "Prezzo da concordare al molo o in agenzia, in contanti (dal viaggio)."
+      },
+      {
+        "nome": "Canal de los Piratas e Isla de los Pájaros",
+        "testo": "Il canale stretto da cui un tempo passavano i pirati verso Chetumal, con l'acqua più chiara della laguna e un fondo di sabbia bianca dove si scende dalla barca. Lì vicino c'è l'isolotto degli uccelli, che si guarda solo da lontano.",
+        "come": "Solo in barca, di solito come tappa del tour.",
+        "quando": "Mattina, con il sole alto per i colori.",
+        "tempo": "1 ora",
+        "lat": 18.66993,
+        "lng": -88.37578,
+        "consiglio": "Solo creme solari biodegradabili, e niente camminate sugli stromatoliti, protetti."
+      },
+      {
+        "nome": "Cenote Azul",
+        "testo": "Un cenote profondo e rotondo sulla riva della laguna, a sud del paese, con il ristorante sul bordo e l'acqua blu scurissima.",
+        "come": "In taxi dal centro, pochi minuti.",
+        "quando": "Mattina.",
+        "tempo": "1-2 ore",
+        "lat": 18.64701,
+        "lng": -88.41298
+      },
+      {
+        "nome": "Cenote Negro",
+        "testo": "Una voragine profonda dentro la laguna, che dall'alto appare come una macchia scura in mezzo al turchese. È uno dei punti che si vedono meglio con il tour in barca.",
+        "come": "In barca o in kayak dal lungolago.",
+        "quando": "Mattina.",
+        "tempo": "30 minuti",
+        "lat": 18.66693,
+        "lng": -88.39428
+      },
+      {
+        "nome": "Cocalitos e le stromatoliti",
+        "testo": "Una riva a sud del paese dove le stromatoliti si vedono nell'acqua bassa, vicino alla spiaggia, con altalene e pontili. È il posto più comodo per capire che cosa sono senza andare in barca.",
+        "come": "In taxi o in bici dal centro, lungo il Boulevard Costero.",
+        "quando": "Mattina presto.",
+        "tempo": "2 ore",
+        "lat": 18.65179,
+        "lng": -88.40917,
+        "consiglio": "Non toccare e non salire sulle stromatoliti."
+      },
+      {
+        "nome": "Balneario Ejidal",
+        "testo": "La spiaggia comunitaria del paese, con pontili, palapas e accesso all'acqua bassa e chiara. È uno dei pochi accessi alla laguna fuori dai pontili degli hotel.",
+        "come": "A piedi o in bici dal centro.",
+        "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "2-3 ore"
+      },
+      {
+        "nome": "Los Rápidos",
+        "testo": "A sud della laguna l'acqua si stringe in un canale con corrente, dove ci si lascia trasportare galleggiando fra le stromatoliti. Ci sono ristoranti sull'acqua e noleggio di kayak.",
+        "come": "In auto o taxi, circa 30 minuti a sud del paese.",
+        "quando": "Mattina nei giorni feriali.",
+        "tempo": "Mezza giornata",
+        "lat": 18.59081,
+        "lng": -88.43398
+      },
+      {
+        "nome": "Fuerte San Felipe",
+        "testo": "Forte costruito dagli spagnoli per difendere Bacalar dai pirati, sulla riva della laguna, con un piccolo museo della pirateria. Dalle mura si vede la laguna dall'alto.",
+        "come": "A piedi dal centro.",
+        "quando": "Mattina.",
+        "tempo": "1 ora",
+        "costo": "Biglietto di pochi euro (dal viaggio)",
+        "orari": "Giorni di chiusura da controllare sul posto.",
+        "lat": 18.67694,
+        "lng": -88.39528
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Tour in barca di 2 ore: Canal de los Piratas, Cenote Negro, stromatoliti",
+          "Kayak",
+          "Pranzo sul lago",
+          "Cenote Azul"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: tour in barca e Fuerte San Felipe",
+          "Giorno 2: Cocalitos al mattino, Los Rápidos nel pomeriggio, poi partenza"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: rovine maya di Chacchoben o Kohunlich, tramonto al Balneario Ejidal"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lungolago di Bacalar",
+        "perChi": "vista sulla laguna",
+        "testo": "Hotel e cabañas direttamente sull'acqua, più cari, spesso con pontile e kayak.",
+        "fascia": "110-230 €"
+      },
+      {
+        "nome": "Centro del paese",
+        "perChi": "budget",
+        "testo": "Più economico, a pochi minuti dalla laguna.",
+        "fascia": "45-90 €"
+      },
+      {
+        "nome": "Verso sud, Cocalitos e Los Rápidos",
+        "perChi": "chi ha l'auto",
+        "testo": "Ecohotel e piccoli alloggi isolati sulla riva, molto tranquilli; per cenare in paese serve un mezzo."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Chacchoben",
+        "distanza": "circa 40 km a nord, 45 minuti",
+        "come": "Auto o tour.",
+        "testo": "Sito maya nella foresta con piramidi restaurate e pochi visitatori nei giorni senza navi da crociera a Mahahual."
+      },
+      {
+        "nome": "Kohunlich",
+        "distanza": "circa 1 ora a ovest",
+        "come": "Auto lungo la Federale 186 verso Escárcega.",
+        "testo": "Il Tempio dei Mascheroni, con grandi volti in stucco, in un sito immerso nella foresta di palme. Biglietto INAH, ultimo ingresso alle 16 ora locale (dal viaggio)."
+      },
+      {
+        "nome": "Chetumal e Oxtankah",
+        "distanza": "circa 40 km, 40 minuti",
+        "come": "Auto, bus o colectivo.",
+        "testo": "Il Museo de la Cultura Maya e il lungomare della capitale del Quintana Roo, e poco a nord il sito di Oxtankah (145 MXN per gli stranieri, tutti i giorni 9-17, scheda INAH)."
+      },
+      {
+        "nome": "Mahahual",
+        "distanza": "circa 1,5 ore",
+        "come": "Auto o van.",
+        "testo": "Il paese sul mare della Costa Maya, con il malecón, lo snorkeling sulla barriera e Banco Chinchorro al largo."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Bacalar?",
+        "risposta": "Mezza giornata basta per il tour in barca, ma per goderla servono una o due notti: la laguna è più bella al mattino presto e al tramonto."
+      },
+      {
+        "domanda": "Ci si può fare il bagno nella laguna?",
+        "risposta": "Sì, dai balnearios pubblici come il Balneario Ejidal, da Cocalitos o dai pontili degli hotel; molti pontili sono privati, con ingresso a pagamento."
+      },
+      {
+        "domanda": "Che cosa sono le stromatoliti?",
+        "risposta": "Formazioni rocciose create da microrganismi, vecchie di migliaia di anni: a Bacalar c'è il sistema d'acqua dolce più esteso al mondo. Non si toccano e non si calpestano."
+      },
+      {
+        "domanda": "Che crema solare si può usare?",
+        "risposta": "Solo creme biodegradabili, e meglio ancora maglia e cappello: le creme normali danneggiano le stromatoliti e l'acqua."
+      },
+      {
+        "domanda": "Come si arriva a Bacalar?",
+        "risposta": "In auto o bus ADO da Cancún, circa 4-5 ore, con il Tren Maya, o in volo su Chetumal, a circa 40 km."
+      },
+      {
+        "domanda": "Bacalar si può vedere in giornata?",
+        "risposta": "Sì, con un tour da Mahahual, ma il tempo si sente stretto: con una notte si aggiungono Cocalitos, Los Rápidos e il tramonto."
+      }
+    ],
     esperienzeSlugs: ['tour-barca-bacalar'],
     tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Acque turchesi e trasparenti della laguna di Bacalar con un pontile di legno tra la vegetazione',
@@ -1328,74 +1608,11 @@ export const destinazioniMessico: Destinazione[] = [
       'Las Camelias sulla 5ta Avenida per un pasto sostanzioso, Zitla come alternativa. Per un\'occasione speciale Mezcla (circa 50€ a persona): caro ma molto buono.',
     usciteSerali:
       'Il Coco Bongo (la stessa catena di Cancún) è la scelta più nota; sulla 5ta Avenida sono molto frequentati anche Clandestino e Santino.',
-    comeArrivare: 'In van o in auto da Tulum (circa 1 ora).',
     comeSpostarsi: 'Su come muoversi in città non ho appunti: l\'ho vista solo per una serata.',
     periodoMigliore: 'non l\'ho annotato; vale la stagione secca consigliata per la Riviera Maya, da novembre ad aprile.',
-    costi: 'Per una sola serata non mi sono segnato le spese; come Tulum, ha prezzi quasi europei.',
     erroriDaEvitare: [],
     miaEsperienza:
       'L\'ho vista solo di sera, con una tappa al Clandestino: troppo poco per farmi un\'idea della città, che meriterebbe più tempo (magari con l\'escursione a Cozumel, che nel mio viaggio non abbiamo fatto).',
-      "luoghi": [
-        {
-          "nome": "5ta Avenida",
-          "testo": "La via pedonale principale, parallela al mare, con negozi, ristoranti e bar.",
-          "come": "A piedi dal centro.",
-          "quando": "Pomeriggio e sera.",
-          "tempo": "2 ore"
-        },
-        {
-          "nome": "Mamitas Beach, Playacar e Parque Fundadores",
-          "testo": "Le spiagge pubbliche del centro, con beach club e tratti gratuiti.",
-          "come": "A piedi dal centro.",
-          "quando": "Mattina.",
-          "tempo": "Mezza giornata"
-        },
-        {
-          "nome": "Cozumel in catamarano o in barca privata",
-          "testo": "Escursione di una giornata a Cozumel con snorkeling nelle barriere di Palancar, El Cielo ed El Cielito. In questo viaggio non l'abbiamo fatta, ma con più tempo la consiglio.",
-          "come": "Catamarano condiviso con traghetto, pranzo e open bar, oppure barca privata con il traghetto a parte: confrontare i prezzi di più operatori.",
-          "quando": "Mattina.",
-          "tempo": "Giornata"
-        },
-        {
-          "nome": "Clandestino",
-          "testo": "Locale serale in centro.",
-          "come": "A piedi dalla 5ta.",
-          "quando": "Sera.",
-          "tempo": "Serata",
-          "consiglio": "L'ho vista solo di sera, con una tappa al Clandestino."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: spiaggia pubblica",
-            "Pranzo sulla 5ta Avenida",
-            "Pomeriggio: shopping",
-            "Sera: Clandestino"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: spiagge e 5ta Avenida",
-            "Giorno 2: Cozumel in catamarano"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro (5ta Avenida)",
-          "perChi": "vita serale",
-          "testo": "Tutto a piedi, ma rumoroso e caro."
-        },
-        {
-          "nome": "Playacar",
-          "perChi": "resort",
-          "testo": "Zona recintata di resort, più tranquilla, vicino al traghetto."
-        }
-      ],
       "sapori": [
         {
           "nome": "Tacos al pastor e di pesce",
@@ -1419,6 +1636,211 @@ export const destinazioniMessico: Destinazione[] = [
         "Procacciatori che vendono tour: non fermarsi.",
         "Il traghetto per Cozumel ha orari fissi: controllare l'ultimo rientro."
       ],
+    comeArrivare: "In van o in auto da Tulum (circa 1 ora). Dall'aeroporto di Cancún, a circa 70 km, i bus ADO partono dai terminal e arrivano in centro in circa un'ora; i biglietti si comprano al banco ADO negli arrivi o su ado.com.mx. Da Tulum il bus impiega circa 45 minuti. Il terminal ADO principale è all'incrocio fra la Quinta Avenida e la Calle Juárez, a due passi dal mare e dal molo dei traghetti per Cozumel. Il Tren Maya ha una stazione alla periferia della città: da lì al centro serve un taxi.",
+    costi: "Per una sola serata non mi sono segnato le spese; come Tulum, ha prezzi quasi europei. Indicativamente, a persona al giorno: 50-70 € con ostello, tacos e colectivos; 120-180 € con hotel in centro, un cenote e un beach club; da 300 € con resort a Playacar o parchi come Xcaret. Cozumel in catamarano condiviso circa 1.670 MXN a persona con traghetto; barca privata circa 700 MXN a persona più il traghetto, circa 580 MXN andata e ritorno.",
+    luoghi: [
+      {
+        "nome": "5ta Avenida",
+        "testo": "La via pedonale principale, parallela al mare, con negozi, ristoranti e bar per diversi chilometri. Verso nord, oltre la Calle 38, diventa più tranquilla e alberata.",
+        "come": "A piedi dal centro.",
+        "quando": "Pomeriggio e sera.",
+        "tempo": "2 ore",
+        "costo": "Ingresso libero",
+        "lat": 20.63472,
+        "lng": -87.06666
+      },
+      {
+        "nome": "Mamitas Beach, Playacar e Parque Fundadores",
+        "testo": "Le spiagge pubbliche del centro, con beach club e tratti gratuiti. Mamitas è la più animata, Playacar la più tranquilla, davanti ai resort.",
+        "come": "A piedi dal centro.",
+        "quando": "Mattina.",
+        "tempo": "Mezza giornata",
+        "costo": "Spiaggia libera; nei beach club lettini con consumazione minima",
+        "lat": 20.63109,
+        "lng": -87.0652
+      },
+      {
+        "nome": "Cozumel in catamarano o in barca privata",
+        "testo": "Escursione di una giornata a Cozumel con snorkeling nelle barriere di Palancar, El Cielo ed El Cielito. In questo viaggio non l'abbiamo fatta, ma con più tempo la consiglio.",
+        "come": "Catamarano condiviso con traghetto, pranzo e open bar, oppure barca privata con il traghetto a parte: confrontare i prezzi di più operatori.",
+        "quando": "Mattina.",
+        "tempo": "Giornata",
+        "costo": "Catamarano circa 1.670 MXN a persona, circa 85 €, con traghetto andata e ritorno; barca privata circa 700 MXN a persona più il traghetto, circa 580 MXN andata e ritorno (dal viaggio).",
+        "lat": 20.43,
+        "lng": -87.02
+      },
+      {
+        "nome": "Parque Fundadores e Portal Maya",
+        "testo": "La piazza sul mare dove comincia la Quinta Avenida, con la grande scultura in bronzo del Portal Maya e la piccola chiesa della Virgen del Carmen. Nel pomeriggio ci sono spesso i voladores, che si lanciano legati da un palo altissimo.",
+        "come": "A piedi, all'altezza della Calle 1.",
+        "quando": "Tardo pomeriggio.",
+        "tempo": "30 minuti",
+        "costo": "Ingresso libero",
+        "lat": 20.62204,
+        "lng": -87.07497
+      },
+      {
+        "nome": "Punta Esmeralda",
+        "testo": "La spiaggia pubblica a nord della città frequentata dalle famiglie locali, con una pozza di acqua dolce dove sfocia un piccolo cenote. Niente resort alle spalle e mare spesso più calmo.",
+        "come": "Taxi o a piedi lungo la spiaggia dal centro, circa 30 minuti.",
+        "quando": "Mattina nei giorni feriali.",
+        "tempo": "Mezza giornata",
+        "costo": "Ingresso libero",
+        "lat": 20.64822,
+        "lng": -87.05054
+      },
+      {
+        "nome": "Xaman Ha (Playacar)",
+        "testo": "Piccole strutture maya fra i giardini dei resort di Playacar: Xaman Ha era il porto da cui si partiva per il santuario di Ixchel a Cozumel. Non è un grande sito, ma si vede passeggiando verso la spiaggia.",
+        "come": "A piedi o in bici da Parque Fundadores, dentro Playacar.",
+        "quando": "Mattina.",
+        "tempo": "30 minuti",
+        "costo": "Ingresso gratuito (scheda INAH, 2026).",
+        "orari": "Tutti i giorni 8-17 (scheda INAH).",
+        "lat": 20.60728,
+        "lng": -87.09289,
+        "url": "https://lugares.inah.gob.mx/es/node/4354"
+      },
+      {
+        "nome": "Calle 12 e la vita notturna",
+        "testo": "La strada dei locali, fra la Quinta Avenida e il mare, con bar, discoteche e beach club aperti fino a tardi. È rumorosa e affollata nel fine settimana.",
+        "come": "A piedi dal centro.",
+        "quando": "Sera e notte.",
+        "tempo": "Serata",
+        "lat": 20.66842,
+        "lng": -87.08293,
+        "consiglio": "Contare il resto e tenere d'occhio il bicchiere; usare taxi del sito per tornare."
+      },
+      {
+        "nome": "Clandestino",
+        "testo": "Locale serale in centro.",
+        "come": "A piedi dalla 5ta.",
+        "quando": "Sera.",
+        "tempo": "Serata",
+        "lat": 20.63746,
+        "lng": -87.06578,
+        "consiglio": "L'ho vista solo di sera, con una tappa al Clandestino."
+      },
+      {
+        "nome": "Cenote Chaak Tun",
+        "testo": "Un cenote in grotta alla periferia ovest della città, con due sale illuminate da fasci di luce che entrano dall'alto. È il cenote più vicino al centro.",
+        "come": "Taxi dal centro, circa 15 minuti; visita con guida.",
+        "quando": "Mezzogiorno, quando i raggi di luce entrano dritti.",
+        "tempo": "1,5 ore",
+        "lat": 20.65233,
+        "lng": -87.12539
+      },
+      {
+        "nome": "Cenote Cristalino e Cenote Azul",
+        "testo": "Cenote aperti uno accanto all'altro lungo la Federale 307, verso Tulum, con acqua trasparente, pesci e piattaforme per i tuffi. Sono il bagno più facile fuori città.",
+        "come": "Colectivo per Tulum dalla Calle 2, con fermata a richiesta sulla strada, o auto, circa 20-25 minuti.",
+        "quando": "Mattina presto, prima dei gruppi.",
+        "tempo": "2-3 ore",
+        "lat": 20.49041,
+        "lng": -87.25028,
+        "consiglio": "Doccia prima del bagno e niente crema solare, come in tutti i cenote."
+      },
+      {
+        "nome": "Parco Xcaret",
+        "testo": "Il parco tematico più grande della Riviera Maya, con fiumi sotterranei da percorrere a nuoto, animali, una zona archeologica maya e lo spettacolo serale sulla storia del Messico. Costoso, ma pensato per una giornata intera.",
+        "come": "Navette dal centro o taxi, circa 10 minuti a sud.",
+        "quando": "Giornata intera, fino allo spettacolo della sera.",
+        "tempo": "Giornata",
+        "orari": "Tutti i giorni 8.30-22 (sito ufficiale).",
+        "lat": 20.57806,
+        "lng": -87.11917,
+        "url": "https://www.xcaret.com/"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: spiaggia pubblica, Mamitas o Punta Esmeralda",
+          "Pranzo sulla 5ta Avenida",
+          "Pomeriggio: Parque Fundadores e Portal Maya, shopping",
+          "Sera: Calle 12 o il Clandestino"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: spiagge e 5ta Avenida",
+          "Giorno 2: Cozumel in catamarano"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Cenote Chaak Tun al mattino, Cenote Cristalino e Azul, pomeriggio ad Akumal per le tartarughe"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro (5ta Avenida)",
+        "perChi": "vita serale",
+        "testo": "Tutto a piedi, ma rumoroso e caro; meglio una via laterale lontano dalla Calle 12.",
+        "fascia": "45-100 €"
+      },
+      {
+        "nome": "Playacar",
+        "perChi": "resort",
+        "testo": "Zona recintata di resort, più tranquilla, vicino al traghetto."
+      },
+      {
+        "nome": "Zona nord, verso Punta Esmeralda",
+        "perChi": "più calma",
+        "testo": "Oltre la Calle 38, condomini e piccoli hotel più tranquilli, a 15-20 minuti a piedi dal centro."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Tulum",
+        "distanza": "circa 63 km, 45 minuti in bus",
+        "come": "Bus ADO o colectivo dalla Calle 2.",
+        "testo": "Le rovine maya sulla scogliera e le spiagge del Parque del Jaguar. Si entra all'apertura delle 8; ingressi nella scheda di Tulum."
+      },
+      {
+        "nome": "Akumal",
+        "distanza": "circa 37 km, 30 minuti",
+        "come": "Colectivo verso Tulum, poi a piedi dalla strada alla baia.",
+        "testo": "La baia dove si nuota con le tartarughe marine che brucano le alghe, con regole e accesso controllati dalla comunità."
+      },
+      {
+        "nome": "Puerto Morelos",
+        "distanza": "circa 35 km, 30 minuti",
+        "come": "Bus ADO o colectivo verso Cancún.",
+        "testo": "Paese di pescatori con il faro inclinato e la barriera corallina protetta davanti alla spiaggia; verso l'interno, la Ruta de los Cenotes."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Meglio Playa del Carmen o Tulum come base?",
+        "risposta": "Playa è più comoda per trasporti, ristoranti e traghetti per Cozumel, ma è una città affollata; Tulum ha spiagge più belle e un'atmosfera più rilassata, con prezzi ancora più alti."
+      },
+      {
+        "domanda": "Quanti giorni servono a Playa del Carmen?",
+        "risposta": "Uno o due giorni bastano per spiagge, Quinta Avenida e Cozumel; con tre si aggiungono cenote e Akumal."
+      },
+      {
+        "domanda": "Come si va a Cozumel?",
+        "risposta": "Con il traghetto dal molo del centro, circa 580 MXN andata e ritorno, oppure con un catamarano condiviso che include traghetto, snorkeling e pranzo (circa 1.670 MXN a persona, dal viaggio)."
+      },
+      {
+        "domanda": "Le spiagge di Playa del Carmen sono libere?",
+        "risposta": "Sì, la spiaggia in Messico è pubblica: si paga solo lettino e ombrellone nei beach club. Punta Esmeralda e Playacar sono i tratti più tranquilli."
+      },
+      {
+        "domanda": "C'è il sargasso?",
+        "risposta": "Può arrivare in estate e lasciare spiagge piene di alghe brune. Conviene controllare i bollettini locali prima di scegliere dove passare la giornata."
+      },
+      {
+        "domanda": "Che cos'è il Visitax?",
+        "risposta": "È la tassa per i turisti del Quintana Roo: 20,99 dollari a persona, da pagare solo online (Viaggiare Sicuri, maggio 2026)."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'La spiaggia e il lungomare di Playa del Carmen visti dal mare, con barche e palme',
@@ -1450,10 +1872,8 @@ export const destinazioniMessico: Destinazione[] = [
       'Per spendere poco: Taco Queto per tacos economici e buoni, El Crustaceo Kascarudo per pesce e frutti di mare senza fronzoli. Fascia media: Mandarina, Posada Mawimbi, Viva Zapata, Chiringuito Raíces. Per un\'occasione: Casa Alebrije o Tacos de Humo (qui capita spesso un tequila di benvenuto offerto dalla casa).',
     usciteSerali:
       'Al tramonto il Café del Mar è il posto giusto per un drink con vista. La sera: Hot Corner per pachangueo e musica dal vivo, La Combi fra musica live e DJ set, Bikini Bottom per un DJ set in spiaggia, Tribe Hostel per musica live, Chobys se si vuole vedere ancora il tramonto più tardi.',
-    comeArrivare: 'Traghetto da Chiquilà (25-30 minuti), raggiungibile via van/auto da Cancún.',
     comeSpostarsi: 'Isola senza auto: a piedi o con i "carritos" (taxi locali/golf cart).',
     periodoMigliore: 'La bioluminescenza si vede meglio da aprile a novembre, e dipende da fasi lunari e meteo.',
-    costi: 'Il conto complessivo di Holbox non me lo sono segnato; i prezzi delle singole escursioni sono nelle voci qui sopra e nelle schede esperienza.',
     erroriDaEvitare: [
       'Partire per la bioluminescenza serale senza molto repellente: a Punta Mosquito le zanzare non danno tregua',
       'Andare a piedi a vedere la bioluminescenza: è quasi un\'ora di cammino al buio per direzione, meglio un carrito, un kayak o un tour in barca',
@@ -1461,73 +1881,6 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'Holbox è stata la chiusura giusta del viaggio. Se dovessi consigliare una sola attività di tutto l\'itinerario, sarebbe l\'escursione con lo squalo balena, che ho fatto proprio qui.',
-      "luoghi": [
-        {
-          "nome": "Squalo balena",
-          "testo": "Escursione in barca per nuotare con lo squalo balena, ammesso a gruppi piccoli. Esiste una scheda esperienza dedicata. Se dovessi consigliare una sola attività di tutto l'itinerario, sarebbe questa.",
-          "come": "Tour dal porto di Holbox, con guida.",
-          "quando": "La stagione va più o meno da metà maggio a metà settembre, con i mesi migliori a luglio e agosto; le uscite si fanno con permessi della CONANP.",
-          "tempo": "Mezza giornata"
-        },
-        {
-          "nome": "Bioluminescenza a Punta Mosquito",
-          "testo": "Il plancton luminescente illumina l'acqua di notte. Ci si va in autonomia con un «carrito» fino al punto, in kayak con guida o con un tour in barca.",
-          "come": "Chiedere sul posto il giorno stesso: dipende da fasi lunari e meteo.",
-          "quando": "Sera, meglio nelle notti senza luna.",
-          "tempo": "2 ore",
-          "consiglio": "A piedi è sconsigliato: circa un'ora di cammino per direzione, quasi tutta al buio."
-        },
-        {
-          "nome": "Tour delle 3 Islas",
-          "testo": "Giro condiviso in barca, con fenicotteri, delfini e uccelli: Isla Pájaros, cenote di Yalahau, Isla Pasión o Punta Mosquito.",
-          "come": "Prezzi diversi secondo l'operatore, alcuni con il transfer dall'hotel. Il cenote Yalahau si paga a parte.",
-          "quando": "Mattina.",
-          "tempo": "Mezza giornata"
-        },
-        {
-          "nome": "Cabo Catoche",
-          "testo": "Escursione in barca verso la punta nord-orientale della penisola dello Yucatán, fra Golfo del Messico e Caraibi, di solito con soste per lo snorkeling. Nel viaggio non l'abbiamo fatta.",
-          "come": "Tour condiviso in barca; confrontare più operatori e cosa include il prezzo.",
-          "quando": "Giornata.",
-          "tempo": "Giornata"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: tour delle 3 Islas",
-            "Pomeriggio: spiaggia",
-            "Sera: bioluminescenza"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: squalo balena (stagione)",
-            "Giorno 2: 3 Islas e Punta Mosquito"
-          ]
-        },
-        {
-          "titolo": "3 giorni",
-          "tappe": [
-            "Giorni 1-2 come sopra",
-            "Giorno 3: Cabo Catoche o passeggiata a cavallo"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro del paese",
-          "perChi": "a piedi da tutto",
-          "testo": "Ristoranti, negozi e hotel vicini alla piazza, strade di sabbia senza auto."
-        },
-        {
-          "nome": "Spiaggia fuori dal paese",
-          "perChi": "calma",
-          "testo": "Hotel sul mare, più isolati."
-        }
-      ],
       "sapori": [
         {
           "nome": "Pizza di Holbox",
@@ -1551,6 +1904,181 @@ export const destinazioniMessico: Destinazione[] = [
         "Bioluminescenza: dipende da fasi lunari e meteo, chiedere sul posto il giorno stesso.",
         "Sulla spiaggia a Holbox ci sono sargassi in certi mesi: non è un difetto dell'isola ma va messo in conto."
       ],
+    comeArrivare: "Traghetto da Chiquilà (25-30 minuti), raggiungibile via van/auto da Cancún. Da Cancún a Chiquilá ci vogliono circa 2 ore e mezza di strada; chi va in auto la lascia nei parcheggi custoditi a pagamento di Chiquilá, perché sull'isola le auto dei turisti non entrano. Il traghetto costa circa 330 MXN a tratta (circa 16 €), con corse frequenti dal mattino alla sera (dal viaggio, 2026). Al molo di Holbox aspettano i golf cart taxi: il prezzo si concorda prima di salire. Sull'isola c'è un solo bancomat: arrivare con abbastanza contanti.",
+    costi: "Il conto complessivo di Holbox non me lo sono segnato; i prezzi delle singole escursioni sono nelle voci qui sopra e nelle schede esperienza. Indicativamente: squalo balena 3.000-4.000 MXN a persona più il braccialetto del parco, 3 Islas 750-900 MXN, kayak per la bioluminescenza 400-500 MXN, cavallo 850 MXN per un'ora e mezza, traghetto 330 MXN a tratta (dal viaggio, 2026). Budget a persona al giorno: basso 50-70 € (ostello in paese, cucina di strada), medio 120-180 € (hotel in paese e un'escursione), alto da 300 € (hotel sulla spiaggia e squalo balena).",
+    luoghi: [
+      {
+        "nome": "Squalo balena",
+        "testo": "Escursione in barca per nuotare con lo squalo balena, ammesso a gruppi piccoli. Esiste una scheda esperienza dedicata. Se dovessi consigliare una sola attività di tutto l'itinerario, sarebbe questa.",
+        "come": "Tour dal porto di Holbox, con guida; partenza verso le 7-8 e rientro nel primo pomeriggio.",
+        "quando": "La stagione va più o meno da metà maggio a metà settembre, con i mesi migliori a luglio e agosto; le uscite si fanno con permessi della CONANP.",
+        "tempo": "Mezza giornata",
+        "costo": "Tour condiviso indicativamente 3.000-4.000 MXN a persona, circa 150-200 €, più l'eventuale braccialetto del parco (dal viaggio, 2026).",
+        "consiglio": "Crema solare biodegradabile, maglia a maniche lunghe e acqua; il giubbotto di salvataggio in acqua è obbligatorio."
+      },
+      {
+        "nome": "Bioluminescenza a Punta Mosquito",
+        "testo": "Il plancton luminescente illumina l'acqua di notte. Ci si va in autonomia con un «carrito» fino al punto, in kayak con guida o con un tour in barca.",
+        "come": "Chiedere sul posto il giorno stesso: dipende da fasi lunari e meteo.",
+        "quando": "Sera, meglio nelle notti senza luna; si vede meglio da aprile a novembre.",
+        "tempo": "2 ore",
+        "costo": "Kayak con guida 500 MXN a persona per gruppi sopra le 8 persone, 400 MXN sotto le 8 (dal viaggio).",
+        "lat": 21.54307,
+        "lng": -87.35312,
+        "consiglio": "A piedi è sconsigliato: circa un'ora di cammino per direzione, quasi tutta al buio."
+      },
+      {
+        "nome": "Tour delle 3 Islas",
+        "testo": "Giro condiviso in barca di circa 3 ore, con fenicotteri, delfini e uccelli: Isla Pájaros, cenote di Yalahau, Isla Pasión o Punta Mosquito.",
+        "come": "Prezzi diversi secondo l'operatore, alcuni con il transfer dall'hotel. Il cenote Yalahau si paga a parte.",
+        "quando": "Mattina.",
+        "tempo": "Mezza giornata",
+        "costo": "750-900 MXN a persona, circa 38-45 € (circa 1.100 MXN con transfer); cenote Yalahau circa 200 MXN (dal viaggio).",
+        "lat": 21.45715,
+        "lng": -87.40564
+      },
+      {
+        "nome": "Cabo Catoche",
+        "testo": "Escursione in barca verso la punta nord-orientale della penisola dello Yucatán, fra Golfo del Messico e Caraibi, di solito con soste per lo snorkeling. Nel viaggio non l'abbiamo fatta.",
+        "come": "Tour condiviso in barca; confrontare più operatori e cosa include il prezzo.",
+        "quando": "Giornata.",
+        "tempo": "Giornata",
+        "costo": "Indicativamente 80-100 dollari a persona (dal viaggio).",
+        "lat": 21.6058,
+        "lng": -87.1033
+      },
+      {
+        "nome": "Punta Cocos",
+        "testo": "L'estremo ovest dell'isola, dove si va al tramonto, con il sole che scende sul Golfo. Di notte è un altro punto per la bioluminescenza, più vicino al paese di Punta Mosquito.",
+        "come": "In bici o golf cart dal centro, circa 15 minuti, o a piedi lungo la spiaggia.",
+        "quando": "Tramonto.",
+        "tempo": "1-2 ore",
+        "costo": "Ingresso libero",
+        "lat": 21.50984,
+        "lng": -87.39468
+      },
+      {
+        "nome": "Punta Mosquito di giorno",
+        "testo": "Il banco di sabbia a est del paese, dove con la bassa marea si cammina nell'acqua bassa fra stormi di uccelli e, in stagione, i fenicotteri. È la parte più selvaggia dell'isola raggiungibile a piedi.",
+        "come": "A piedi lungo la spiaggia verso est, circa 30-40 minuti dal centro, o in golf cart fino all'inizio del banco.",
+        "quando": "Mattina o tardo pomeriggio, con la bassa marea.",
+        "tempo": "2 ore",
+        "costo": "Ingresso libero",
+        "lat": 21.54307,
+        "lng": -87.35312,
+        "consiglio": "Repellente e scarpe da acqua."
+      },
+      {
+        "nome": "Centro del paese e murales",
+        "testo": "Le strade di sabbia senza auto intorno alla piazza, con casette colorate, murales, ristoranti e golf cart. La sera la piazza è il punto d'incontro dell'isola.",
+        "come": "A piedi.",
+        "quando": "Sera.",
+        "tempo": "1-2 ore",
+        "costo": "Ingresso libero",
+        "lat": 21.52167,
+        "lng": -87.37667
+      },
+      {
+        "nome": "Spiaggia principale e beach club",
+        "testo": "La spiaggia davanti al paese, con acqua bassa e calma e i beach club che chiedono un minimum spending, di solito scalato dal conto finale: Carolinda, Zomay, Barbarossa, Amaite Beach Club.",
+        "come": "A piedi dal centro.",
+        "quando": "Pomeriggio.",
+        "tempo": "Mezza giornata",
+        "costo": "Spiaggia libera; nei beach club consumazione minima"
+      },
+      {
+        "nome": "Passeggiata a cavallo sulla spiaggia",
+        "testo": "Un'ora e mezza a cavallo lungo la spiaggia, un modo tranquillo per vedere i tratti fuori dal paese.",
+        "come": "Si prenota in paese.",
+        "quando": "Tardo pomeriggio.",
+        "tempo": "1,5 ore",
+        "costo": "850 MXN a persona, circa 43 € (dal viaggio)."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: tour delle 3 Islas",
+          "Pomeriggio: spiaggia",
+          "Tramonto a Punta Cocos",
+          "Sera: bioluminescenza"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: squalo balena (stagione)",
+          "Giorno 2: 3 Islas e Punta Mosquito"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Cabo Catoche o passeggiata a cavallo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro del paese",
+        "perChi": "a piedi da tutto",
+        "testo": "Ristoranti, negozi e hotel vicini alla piazza, strade di sabbia senza auto. In bassa stagione i prezzi scendono molto.",
+        "fascia": "50-170 €"
+      },
+      {
+        "nome": "Spiaggia fuori dal paese",
+        "perChi": "calma",
+        "testo": "Hotel sul mare, più isolati.",
+        "fascia": "150-400 €"
+      },
+      {
+        "nome": "Verso Punta Cocos",
+        "perChi": "tramonti e silenzio",
+        "testo": "Pochi alloggi sul lato ovest, tranquilli; per il centro serve il golf cart o la bici."
+      }
+    ],
+    gite: [
+      {
+        "nome": "El Cuyo",
+        "distanza": "indicativamente 2 ore in auto da Chiquilá",
+        "come": "Traghetto per Chiquilá, poi auto.",
+        "testo": "Paese di pescatori sulla costa dello Yucatán, con spiagge lunghe e quasi vuote e un'atmosfera da Holbox di vent'anni fa."
+      },
+      {
+        "nome": "Río Lagartos e Las Coloradas",
+        "distanza": "indicativamente 3 ore in auto da Chiquilá",
+        "come": "Auto o tour; meglio come tappa lungo il viaggio verso Valladolid.",
+        "testo": "Riserva della biosfera con fenicotteri e mangrovie in barca, e i laghi rosa delle saline di Las Coloradas."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Holbox?",
+        "risposta": "Due o tre giorni: uno per le 3 Islas e Punta Mosquito, uno per lo squalo balena in stagione o Cabo Catoche, più le sere per la bioluminescenza."
+      },
+      {
+        "domanda": "Quando si nuota con lo squalo balena?",
+        "risposta": "Più o meno da metà maggio a metà settembre, con i mesi migliori a luglio e agosto; le uscite si fanno con permessi della CONANP."
+      },
+      {
+        "domanda": "Come si arriva a Holbox?",
+        "risposta": "In van, bus o auto da Cancún fino a Chiquilá, circa 2 ore e mezza, poi traghetto di 25-30 minuti, circa 330 MXN a tratta."
+      },
+      {
+        "domanda": "A Holbox ci sono bancomat?",
+        "risposta": "Uno solo su tutta l'isola, spesso con code o vuoto: conviene arrivare con abbastanza contanti in pesos."
+      },
+      {
+        "domanda": "Ci si muove in auto sull'isola?",
+        "risposta": "No, le auto dei turisti restano a Chiquilá. Sull'isola si cammina, si va in bici o si usano i golf cart taxi, con il prezzo concordato prima."
+      },
+      {
+        "domanda": "Quando si vede la bioluminescenza?",
+        "risposta": "Si vede meglio da aprile a novembre, nelle notti senza luna; dipende da fasi lunari e meteo, quindi conviene chiedere sul posto il giorno stesso."
+      }
+    ],
     esperienzeSlugs: ['squalo-balena-holbox', 'bioluminescenza-holbox', 'tour-3-islas-holbox', 'cabo-catoche'],
     tripSlugs: ['messico-beach-life'],
     imageAlt: "Una barca ancorata nell'acqua bassa e cristallina di Holbox, con la riva bianca e le palme all'orizzonte",
@@ -1707,69 +2235,13 @@ export const destinazioniMessico: Destinazione[] = [
       'Il paese per spendere meno; la strada che sale al sito per dormire nella vegetazione, più vicino all\'ingresso.',
     doveMangiare:
       'Cucina semplice in paese. Nel sito non si entra con il cibo.',
-    comeArrivare: 'Tren Maya (stazione di Palenque) o bus ADO; in auto dalla Federale 186, deviando al km 114 verso Palenque (scheda INAH).',
     comeSpostarsi: 'Dal paese al sito, a circa 7 km dentro il parco nazionale, taxi o colectivo.',
     periodoMigliore: 'da novembre ad aprile, la stagione più asciutta; nel resto dell\'anno piove spesso e fa molto caldo umido.',
-    costi: '210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota del parco nazionale (CONANP) (scheda INAH, novembre 2026).',
     erroriDaEvitare: [
       'Andare alle cascate in auto propria sulla Federale 199 senza controllare gli avvisi: il Foreign Office sconsiglia i viaggi non essenziali su quel tratto',
       'Arrivare a metà giornata: caldo forte e folla',
       'Cercare il museo di sito il lunedì: è aperto dal martedì alla domenica (scheda INAH)',
     ],
-      "luoghi": [
-        {
-          "nome": "Zona archeologica di Palenque",
-          "testo": "Il Tempio delle Iscrizioni custodiva la tomba di Pakal, re di Palenque nel VII secolo; il Palazzo ha una torre, rara nell'architettura maya. Intorno, il Gruppo delle Croci e templi minori tra la foresta.",
-          "come": "Biglietti al centro visitatori (CATVI) o online. Si paga l'ingresso INAH e la quota del parco nazionale.",
-          "quando": "Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16 (scheda INAH). Meglio all'apertura.",
-          "tempo": "3-4 ore",
-          "costo": "210 MXN INAH più 215 MXN CONANP per gli stranieri (scheda INAH, novembre 2026).",
-          "url": "https://lugares.inah.gob.mx/en/node/4853",
-          "consiglio": "Niente cibo all'ingresso: si mangia prima o dopo."
-        },
-        {
-          "nome": "Museo di sito Alberto Ruz Lhuillier",
-          "testo": "Il museo del sito, con i rilievi e gli oggetti trovati negli scavi, intitolato all'archeologo che nel 1952 scoprì la tomba di Pakal.",
-          "come": "Lungo la strada del sito. L'ingresso è compreso nel biglietto della zona archeologica.",
-          "quando": "Dal martedì alla domenica, dalle 8.30 alle 17 (scheda INAH).",
-          "tempo": "1 ora",
-          "url": "https://lugares.inah.gob.mx/en/node/4293"
-        },
-        {
-          "nome": "Misol-Ha e Agua Azul",
-          "testo": "Due cascate famose a sud di Palenque, sulla strada per Ocosingo, la Federale 199: Misol-Ha è un salto unico in una grande pozza, Agua Azul una serie di vasche d'acqua azzurra, che nella stagione delle piogge perde il colore, a circa 60 km più una deviazione.",
-          "come": "Solo con un tour organizzato dal paese, e solo se gli avvisi ufficiali lo permettono al momento.",
-          "consiglio": "Il Foreign Office britannico sconsiglia i viaggi non essenziali sulla 199 tra Rancho Nuevo e il bivio di Chancalá, appena fuori Palenque, per blocchi illegali, proteste e rischio di sequestro. Le quote d'ingresso sono gestite dalle comunità: non verificate."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: il sito all'apertura",
-            "Pomeriggio: il museo di sito"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: sito e museo",
-            "Giorno 2: sentieri nella foresta o, se gli avvisi lo permettono, le cascate con un tour"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Paese di Palenque",
-          "perChi": "budget e trasporti",
-          "testo": "Più economico, vicino a bus e servizi."
-        },
-        {
-          "nome": "Strada del sito",
-          "perChi": "chi vuole la foresta",
-          "testo": "Alloggi nella vegetazione, più vicini all'ingresso del parco."
-        }
-      ],
       "sapori": [
         {
           "nome": "Caffè e cioccolato del Chiapas",
@@ -1785,6 +2257,176 @@ export const destinazioniMessico: Destinazione[] = [
         "Il Foreign Office sconsiglia la fascia di 40 km dal confine con il Guatemala: Yaxchilán e Bonampak sono in quella zona.",
         "Repellente forte: nel parco ci sono molte zanzare."
       ],
+    comeArrivare: "Tren Maya (stazione di Palenque) o bus ADO; in auto dalla Federale 186, deviando al km 114 verso Palenque (scheda INAH). Da Campeche servono circa 5-6 ore di auto, da Xpujil e Calakmul altre 5-6; Palenque è nel fuso del Centro, come Campeche, un'ora indietro rispetto al Quintana Roo. L'aeroporto con più voli è quello di Villahermosa, da cui si arriva con la stessa Federale 186. Dal paese al sito, a circa 7 km dentro il parco nazionale, si va in taxi o con i colectivos che passano lungo la strada di El Panchán. Orari e biglietti del Tren Maya vanno controllati sul sito ufficiale qualche giorno prima.",
+    costi: "210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota del parco nazionale (CONANP) (scheda INAH, novembre 2026). Budget indicativo a persona al giorno: basso 35-50 € (camera in paese, comedores, colectivo per il sito); medio 70-110 € (cabaña nella foresta lungo la strada del sito, guida al sito); alto da 180 € (hotel nella vegetazione, tour privato per Yaxchilán e Bonampak). Yaxchilán: ingresso INAH gratuito ma lancia circa 1.200 MXN; Bonampak 210 MXN più quote della comunità (scheda INAH).",
+    luoghi: [
+      {
+        "nome": "Zona archeologica di Palenque",
+        "testo": "Il Tempio delle Iscrizioni custodiva la tomba di Pakal, re di Palenque nel VII secolo; il Palazzo ha una torre, rara nell'architettura maya. Intorno, il Gruppo delle Croci e templi minori tra la foresta.",
+        "come": "Biglietti al centro visitatori (CATVI) o online. Si paga l'ingresso INAH e la quota del parco nazionale.",
+        "quando": "Meglio all'apertura, quando la foresta è fresca.",
+        "tempo": "3-4 ore",
+        "costo": "210 MXN INAH più 215 MXN CONANP per gli stranieri, circa 21 € in tutto (scheda INAH, novembre 2026).",
+        "orari": "Tutti i giorni 8-17, ultimo ingresso alle 16 (scheda INAH).",
+        "lat": 17.4836,
+        "lng": -92.0468,
+        "url": "https://lugares.inah.gob.mx/en/node/4853",
+        "consiglio": "Niente cibo all'ingresso: si mangia prima o dopo."
+      },
+      {
+        "nome": "Templo de las Inscripciones",
+        "testo": "La piramide a gradoni che custodiva la tomba di Pakal, scoperta nel 1952 sotto il pavimento del tempio, con il celebre coperchio scolpito del sarcofago. Prende il nome dai lunghi testi geroglifici del tempio in cima.",
+        "come": "Dentro la zona archeologica, a destra appena entrati; la salita e la tomba sono chiuse al pubblico.",
+        "quando": "Mattina presto, con la luce sulla facciata.",
+        "tempo": "30 minuti",
+        "lat": 17.4836,
+        "lng": -92.0468
+      },
+      {
+        "nome": "El Palacio",
+        "testo": "Il complesso di cortili, gallerie e stanze su una grande piattaforma, con la torre a quattro piani, unica nel mondo maya, forse usata per osservare il cielo. Nei cortili ci sono rilievi di prigionieri e iscrizioni.",
+        "come": "Dentro la zona archeologica, di fronte al Tempio delle Iscrizioni.",
+        "quando": "Mattina.",
+        "tempo": "45 minuti",
+        "lat": 17.48415,
+        "lng": -92.04616
+      },
+      {
+        "nome": "Grupo de las Cruces",
+        "testo": "Tre templi su una piazza alzata, il Tempio della Croce, della Croce Fogliata e del Sole, costruiti dal figlio di Pakal, con pannelli scolpiti all'interno. Dalla cima del Tempio della Croce si vede tutto il sito con la pianura sullo sfondo.",
+        "come": "A piedi oltre il Palazzo, attraversando il ruscello Otolum.",
+        "quando": "Tarda mattinata.",
+        "tempo": "45 minuti",
+        "lat": 17.48292,
+        "lng": -92.04523
+      },
+      {
+        "nome": "Templo del Conde e Gruppo Nord",
+        "testo": "Il tempio dove nell'Ottocento visse per un periodo l'esploratore Jean-Frédéric Waldeck, che si faceva chiamare conte, e accanto il Gruppo Nord con il gioco della palla. È la parte meno affollata del centro del sito.",
+        "come": "A piedi dentro la zona archeologica, verso nord.",
+        "quando": "Mattina.",
+        "tempo": "30 minuti",
+        "lat": 17.48556,
+        "lng": -92.04563
+      },
+      {
+        "nome": "Sentiero delle cascate e Baño de la Reina",
+        "testo": "Dal Gruppo Nord il percorso scende nella foresta lungo il ruscello Otolum, fra piccole cascate, vasche naturali e gruppi di edifici ancora coperti dalla vegetazione. È il tratto dove si sentono le scimmie urlatrici e si capisce quanto del sito sia ancora da scavare.",
+        "come": "Fa parte della visita e scende verso il museo di sito: si esce dalla parte bassa senza tornare indietro.",
+        "quando": "A fine visita, scendendo verso il museo.",
+        "tempo": "45 minuti",
+        "consiglio": "Nelle vasche non si fa il bagno; scarpe chiuse, perché le scale sono scivolose."
+      },
+      {
+        "nome": "Museo di sito Alberto Ruz Lhuillier",
+        "testo": "Il museo del sito, con i rilievi e gli oggetti trovati negli scavi, intitolato all'archeologo che nel 1952 scoprì la tomba di Pakal. C'è la riproduzione della tomba e del coperchio del sarcofago.",
+        "come": "Lungo la strada del sito. L'ingresso è compreso nel biglietto della zona archeologica.",
+        "quando": "Dopo la visita, scendendo dal sentiero delle cascate.",
+        "tempo": "1 ora",
+        "orari": "Dal martedì alla domenica, dalle 8.30 alle 17 (scheda INAH).",
+        "url": "https://lugares.inah.gob.mx/en/node/4293"
+      },
+      {
+        "nome": "Misol-Ha e Agua Azul",
+        "testo": "Due cascate famose a sud di Palenque, sulla strada per Ocosingo, la Federale 199: Misol-Ha è un salto unico in una grande pozza, Agua Azul una serie di vasche d'acqua azzurra, che nella stagione delle piogge perde il colore, a circa 60 km più una deviazione.",
+        "come": "Solo con un tour organizzato dal paese, e solo se gli avvisi ufficiali lo permettono al momento.",
+        "lat": 17.2557,
+        "lng": -92.11595,
+        "consiglio": "Il Foreign Office britannico sconsiglia i viaggi non essenziali sulla 199 tra Rancho Nuevo e il bivio di Chancalá, appena fuori Palenque, per blocchi illegali, proteste e rischio di sequestro. Le quote d'ingresso sono gestite dalle comunità: non verificate."
+      },
+      {
+        "nome": "Cascate di Roberto Barrios",
+        "testo": "Una serie di vasche e piccole cascate di acqua turchese su gradini di travertino, vicino al villaggio di Roberto Barrios, meno conosciute di Agua Azul. Le gestisce la comunità locale.",
+        "come": "Con un tour o un taxi dal paese; prima di partire controllare gli avvisi aggiornati sulla zona.",
+        "quando": "Stagione secca, quando l'acqua è più limpida.",
+        "tempo": "Mezza giornata",
+        "lat": 17.33012,
+        "lng": -91.91792
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: il sito all'apertura, Tempio delle Iscrizioni, Palazzo e Gruppo delle Croci",
+          "Sentiero delle cascate fino al museo di sito",
+          "Pomeriggio: riposo nella foresta di El Panchán"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: sito e museo",
+          "Giorno 2: Roberto Barrios o, se gli avvisi lo permettono, Misol-Ha e Agua Azul con un tour"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Yaxchilán e Bonampak in giornata con un tour, partendo all'alba"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Paese di Palenque",
+        "perChi": "budget e trasporti",
+        "testo": "Più economico, vicino a bus e servizi.",
+        "fascia": "30-70 €"
+      },
+      {
+        "nome": "Strada del sito (El Panchán)",
+        "perChi": "chi vuole la foresta",
+        "testo": "Alloggi nella vegetazione, più vicini all'ingresso del parco, con le scimmie urlatrici al mattino.",
+        "fascia": "60-120 €"
+      },
+      {
+        "nome": "La Cañada",
+        "perChi": "compromesso",
+        "testo": "Il quartiere verde all'ingresso ovest del paese, con hotel fra gli alberi e ristoranti, a pochi minuti dal centro e sulla strada per il sito."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Yaxchilán e Bonampak",
+        "distanza": "circa 3 ore di strada verso il fiume Usumacinta",
+        "come": "Tour di una giornata dal paese, con partenza all'alba; a Yaxchilán si arriva solo in lancia da Frontera Corozal.",
+        "testo": "Yaxchilán, sul fiume al confine con il Guatemala, ha architravi scolpiti nella foresta (ingresso gratuito, lancia circa 1.200 MXN); Bonampak i murales maya meglio conservati (210 MXN per gli stranieri più 40 MXN della comunità e 250 MXN di trasporto interno). Entrambi aperti 8-16.30, ultimo ingresso alle 16 (schede INAH). Prima di partire controllare gli avvisi aggiornati: la zona è vicina al confine."
+      },
+      {
+        "nome": "Misol-Ha e Agua Azul",
+        "distanza": "circa 20 km e 60 km a sud",
+        "come": "Solo con un tour organizzato e solo se gli avvisi ufficiali lo permettono.",
+        "testo": "Le cascate più famose del Chiapas, sulla Federale 199. Il Foreign Office britannico sconsiglia i viaggi non essenziali sulla 199 tra Rancho Nuevo e il bivio di Chancalá, appena fuori Palenque, per blocchi illegali, proteste e rischio di sequestro. Le quote d'ingresso sono gestite dalle comunità: non verificate."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Palenque?",
+        "risposta": "Due notti, con un giorno pieno per il sito e il museo; con un terzo giorno si aggiungono Yaxchilán e Bonampak o le cascate."
+      },
+      {
+        "domanda": "A che ora conviene entrare al sito?",
+        "risposta": "All'apertura delle 8, quando la foresta è fresca e i gruppi non sono ancora arrivati; l'ultimo ingresso è alle 16 (scheda INAH)."
+      },
+      {
+        "domanda": "Quanto costa entrare a Palenque?",
+        "risposta": "Per gli stranieri 210 MXN di ingresso INAH più 215 MXN di quota del parco nazionale, con il museo di sito compreso (scheda INAH, novembre 2026)."
+      },
+      {
+        "domanda": "Si può andare a Misol-Ha e Agua Azul?",
+        "risposta": "Sono sulla Federale 199, dove il Foreign Office britannico sconsiglia i viaggi non essenziali tra Rancho Nuevo e il bivio di Chancalá: si decide solo dopo aver letto gli avvisi aggiornati, e solo con un tour."
+      },
+      {
+        "domanda": "Yaxchilán e Bonampak si fanno in giornata?",
+        "risposta": "Sì, con un tour che parte all'alba e rientra la sera; a Yaxchilán si arriva in lancia sul fiume Usumacinta."
+      },
+      {
+        "domanda": "Meglio dormire in paese o vicino al sito?",
+        "risposta": "Il paese costa meno ed è vicino a bus e Tren Maya; la strada del sito, verso El Panchán, è nella foresta e più vicina all'ingresso."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo'],
     imageAlt: "Il Tempio delle Iscrizioni di Palenque tra gli alberi della foresta del Chiapas",

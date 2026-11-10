@@ -665,10 +665,10 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     cosaFare: ['Walking up barefoot from the bottom at sunset', 'A swim in the Antique Pool'],
     doveDormire: 'The village of Pamukkale, at the foot of the terraces, with guesthouses and small hotels with thermal pools.',
-    comeArrivare: 'Denizli Çardak airport, then 1 hour by road; buses from Göreme (overnight, about 9-10 hours), from Selçuk (3 hours) and from Antalya (4 hours).',
+    comeArrivare: "The nearest airport is Denizli Çardak, about an hour's drive away, with flights from Istanbul; shuttles and taxis run from there to the village. By bus you get off at Denizli bus station and take the minibus (dolmuş) to Pamukkale, at the foot of the hill. The overnight bus from Cappadocia, from Göreme or Nevşehir, takes about 9-10 hours and costs roughly €20-35; from Selçuk it takes about 3 hours, from Antalya about 4. By car, Pamukkale-Aphrodisias-Selçuk is about 3.5 hours of driving.",
     comeSpostarsi: 'On foot; dolmuş to Denizli.',
     periodoMigliore: "spring and autumn; in summer the white terraces dazzle and burn",
-    costi: 'Pamukkale-Hierapolis admission around €30; Antique Pool separate, around €10-15 (approximate).',
+    costi: "Low budget about €60-80 a day per person (guesthouse in the village, food in local places, €30 ticket); mid €100-150 (hotel with thermal pool, Antique Pool, Laodicea, dinner at a restaurant); high €200 and up (thermal hotel in Karahayıt, car, guide). 2026 tickets for foreign visitors: Pamukkale-Hierapolis €30, Laodicea €12, Aphrodisias €12; the Antique Pool is paid separately, in lira.",
     erroriDaEvitare: [
       'Going up at noon in summer: the glare off the white is blinding',
       'Expecting all the pools to be full: many are left dry on rotation to preserve the travertine',
@@ -678,12 +678,15 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Travertine terraces",
         "testo": "The white limestone pools down the slope, filled by hot springs. The authorities regulate the water and close some sections in turn so the travertine can regenerate. UNESCO World Heritage since 1988 together with Hierapolis.",
-        "come": "Entrance from the south or north of the site; bus or car to the parking lot.",
-        "quando": "Site open daily 8am-6pm, ticket office until 5pm (November 2026). Sunset, with the light on the white; at midday in summer it is blinding.",
+        "come": "Entrance from the south or north of the site; bus or car to the parking lot. From the lower entrance, in the village, you walk up barefoot in about half an hour.",
+        "quando": "At sunset, with the light on the white; at midday in summer it is blinding.",
         "tempo": "1-2 hours",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Bring a towel and swimsuit, knowing that many pools may be dry.",
-        "costo": "Single ticket for Hierapolis and the travertines: price for foreigners on the official website"
+        "costo": "€30 for foreign visitors, single ticket with Hierapolis (muze.gov.tr, 2026)",
+        "orari": "Daily 8am-6pm, ticket office until 5pm (muze.gov.tr, 2026)",
+        "lat": 37.92389,
+        "lng": 29.12333,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK",
+        "consiglio": "Bring a towel and swimsuit, knowing that many pools may be dry."
       },
       {
         "nome": "Hierapolis and the Antique Pool",
@@ -691,8 +694,82 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "You walk around the site. The pool is paid separately.",
         "quando": "Early morning or late afternoon.",
         "tempo": "2 hours",
-        "url": "https://muze.gov.tr/",
-        "costo": "Included in the travertines ticket; Antique Pool extra"
+        "costo": "Included in the €30 travertines ticket; Antique Pool extra, in lira",
+        "orari": "Daily 8am-6pm, ticket office until 5pm (muze.gov.tr, 2026)",
+        "lat": 37.925,
+        "lng": 29.12583,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Theatre of Hierapolis",
+        "testo": "The Roman theatre cut into the hillside, with a stage building decorated with reliefs restored by the Italian archaeological mission that has worked here for decades. From the top rows you see the whole Lycus valley.",
+        "come": "On foot from the Antique Pool, about ten minutes uphill.",
+        "quando": "Morning, before the heat: the path has no shade.",
+        "tempo": "30-45 minutes",
+        "costo": "Included in the Hierapolis ticket",
+        "lat": 37.9267,
+        "lng": 29.1292,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Necropolis of Hierapolis",
+        "testo": "One of the largest ancient cemeteries in Anatolia, along the road coming in from the north: tumuli, sarcophagi and house tombs, many tilted by earthquakes. You cross it when entering from the north gate.",
+        "come": "From the north entrance of the site, on foot along the ancient road.",
+        "quando": "Late afternoon, with low light.",
+        "tempo": "45 minutes-1 hour",
+        "costo": "Included in the Hierapolis ticket",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Frontinus Gate and Frontinus Street",
+        "testo": "The monumental three-arched gate between two round towers, built at the end of the 1st century AD by the proconsul Julius Frontinus and dedicated to Emperor Domitian. The city's main colonnaded street starts here.",
+        "come": "From the north entrance, after the necropolis.",
+        "quando": "Together with the necropolis.",
+        "tempo": "20 minutes",
+        "costo": "Included in the Hierapolis ticket",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Martyrium of St Philip",
+        "testo": "The 5th-century octagonal shrine built where tradition places the martyrdom of the apostle Philip, on the hill above the city. In 2011 the Italian mission announced the discovery, near the martyrium, of the church holding what it believes is his tomb.",
+        "come": "Walk up from the theatre, about 15-20 minutes on steps and path.",
+        "quando": "Early morning or late afternoon.",
+        "tempo": "1 hour including the climb",
+        "costo": "Included in the Hierapolis ticket",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Plutonium",
+        "testo": "The cave sacred to Pluto that releases carbon dioxide, which in antiquity killed the animals offered in sacrifice. Found and excavated by the Italian mission, it is seen from outside, next to the temple of Apollo.",
+        "come": "On foot, between the theatre and the Antique Pool.",
+        "quando": "Any time during the visit.",
+        "tempo": "15 minutes",
+        "costo": "Included in the Hierapolis ticket",
+        "lat": 37.9268,
+        "lng": 29.12681,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Hierapolis Archaeological Museum",
+        "testo": "The museum inside the great Roman baths, with vaulted halls of travertine blocks. It shows sarcophagi, statues and reliefs from Hierapolis, Laodicea and Tripolis, useful for making sense of the ruins outside.",
+        "come": "Next to the Antique Pool, in the centre of the site.",
+        "quando": "In the hottest hours, when the sun is fierce outside.",
+        "tempo": "45 minutes",
+        "costo": "Listed at €30 on muze.gov.tr, the same amount as the site ticket",
+        "orari": "Daily 8am-5:30pm, ticket office until 5pm (muze.gov.tr, 2026)",
+        "lat": 37.92506,
+        "lng": 29.12405,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=DHA01&DistId=MRK"
+      },
+      {
+        "nome": "Karahayıt",
+        "testo": "The spa village a few kilometres north of Pamukkale, where an iron-rich hot spring stains the limestone red and orange. Around it are many hotels with thermal pools.",
+        "come": "By dolmuş or car from Pamukkale village, about 10 minutes.",
+        "quando": "Evening, after visiting Hierapolis.",
+        "tempo": "1 hour",
+        "costo": "The red spring is free to see",
+        "lat": 37.96539,
+        "lng": 29.10268
       }
     ],
     programmi: [
@@ -704,18 +781,43 @@ export const destinazioniTurchia: Destinazione[] = [
           "Afternoon: climb the terraces",
           "Sunset on the travertine"
         ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1 as above",
+          "Day 2: Laodicea at opening time",
+          "Hierapolis Archaeological Museum and the climb to the Martyrium of St Philip",
+          "Evening at the red spring and thermal baths of Karahayıt"
+        ]
+      },
+      {
+        "titolo": "Along the route",
+        "tappe": [
+          "Overnight bus from Göreme or Nevşehir, arriving in Pamukkale early in the morning",
+          "Terraces and Hierapolis during the day, night in the village",
+          "Pick up the car in Denizli and head west",
+          "Two-hour stop at Aphrodisias, then Selçuk for the evening"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Pamukkale village",
         "perChi": "those who want to be under the terraces",
-        "testo": "Family-run guesthouses, thermal pools and simple restaurants."
+        "testo": "Family-run guesthouses, thermal pools and simple restaurants.",
+        "fascia": "€35-70"
       },
       {
         "nome": "Karahayıt",
         "perChi": "those who want thermal baths",
-        "testo": "A nearby village with spas and red iron-rich waters."
+        "testo": "A nearby village with spas and red iron-rich waters.",
+        "fascia": "€60-250"
+      },
+      {
+        "nome": "Denizli",
+        "perChi": "those arriving late or leaving by car",
+        "testo": "The city about half an hour away, with the bus station, car rentals and city hotels; not much to see, but handy for logistics."
       }
     ],
     sapori: [
@@ -742,6 +844,46 @@ export const destinazioniTurchia: Destinazione[] = [
       "Follow the guards' instructions on where and how to walk on the travertine: usually barefoot, so bring a bag for your shoes."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Aphrodisias",
+        "distanza": "about 1.5 hours by car",
+        "come": "By car, on the road towards Selçuk; awkward by public transport.",
+        "testo": "The city of Aphrodite, UNESCO World Heritage since 2017, with an almost intact Roman stadium, the tetrapylon and a museum full of statues from its school of sculptors, including the reliefs of the Sebasteion. Ticket €12, open daily 8:30am-5:30pm (muze.gov.tr, 2026)."
+      },
+      {
+        "nome": "Laodicea",
+        "distanza": "about 20 minutes by car",
+        "come": "By car or taxi from Pamukkale, towards Denizli.",
+        "testo": "One of the seven churches of the Book of Revelation, with two theatres, colonnaded streets partly re-erected and a 4th-century church under a roof. Far less visited than Hierapolis. Ticket €12, daily 8am-5:30pm (muze.gov.tr, 2026)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How much time do you need in Pamukkale?",
+        "risposta": "One full day is enough for the terraces and Hierapolis. It is worth sleeping in the village for sunset on the travertine and an early morning without groups; a second day only makes sense if you add Laodicea or Aphrodisias."
+      },
+      {
+        "domanda": "How much is the Pamukkale entrance fee?",
+        "risposta": "For foreign visitors the single ticket for the terraces and Hierapolis costs €30 in 2026. The Antique Pool is paid separately, in lira, at its own ticket desk."
+      },
+      {
+        "domanda": "Can you bathe in the terraces?",
+        "risposta": "You walk barefoot and wade in the open pools, which are shallow and change on rotation. For a real swim there is the Antique Pool, among the submerged columns."
+      },
+      {
+        "domanda": "Is it better to enter from the lower or upper entrance?",
+        "risposta": "From the lower entrance, in the village, you climb barefoot on the travertine in about half an hour, the nicest way to reach Hierapolis. The north and south entrances, reached by car or on tours, suit those who want to start from the ruins and the necropolis."
+      },
+      {
+        "domanda": "Can you visit Pamukkale as a day trip from Selçuk?",
+        "risposta": "Yes, on a tour or by bus, but it is about 3 hours each way and you miss the sunset. Better a night in the village, on the way between Cappadocia and the coast."
+      },
+      {
+        "domanda": "Is the Museum Pass worth it?",
+        "risposta": "The Museum Pass The Mediterranean, €90 for 7 days, covers state sites in the provinces of Antalya, Mersin, Adana and Denizli, so Pamukkale and Laodicea too. It pays off if you continue to the Lycian coast and Antalya."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'The white travertine pools of Pamukkale filled with blue water',
@@ -769,10 +911,10 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     cosaFare: ['Entering through the upper gate and walking down toward the library', 'Tasting the fruit wines in Şirince'],
     doveDormire: 'Selçuk for convenience and prices, Şirince for the quiet; Kuşadası for those who want the sea nearby.',
-    comeArrivare: 'Izmir airport (1 hour); Izmir-Selçuk train; buses from Pamukkale.',
+    comeArrivare: "The nearest airport is Izmir Adnan Menderes, about an hour's drive from Selçuk; regional trains from the airport station and from central Izmir run to Selçuk station. From Pamukkale there are direct buses in about 3 hours, while by car, via Aphrodisias, allow about 3.5 hours of driving. From Selçuk to the upper entrance of Ephesus it is only a few kilometres: a taxi for a few euros or a dolmuş.",
     comeSpostarsi: 'Taxi or dolmuş from Selçuk to the upper entrance of Ephesus (a few km); rental car.',
     periodoMigliore: 'April-June and September-October, always at opening time',
-    costi: 'Ephesus around €40, Terrace Houses around €15 (approximate, in euros).',
+    costi: "Low budget about €70-90 a day per person (guesthouse in Selçuk, dolmuş, Ephesus, food in local places); mid €130-180 (stone house in Şirince or hotel in Selçuk, taxis, Terrace Houses and museum, dinners with wine); high €250 and up (boutique hotel, private guide, car). 2026 tickets for foreign visitors: Ephesus €40 including the Experience Museum, Terrace Houses €15, Ephesus Museum €10, Basilica of St John €6.",
     erroriDaEvitare: [
       'Going in mid-morning in high season, when the cruise ship passengers from Kuşadası arrive',
       'Skipping the Terrace Houses to save money: they are the best part of the site',
@@ -781,35 +923,120 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ephesus",
-        "testo": "The great Greco-Roman city with the Library of Celsus (2nd century AD), the great theatre for about 24,000-25,000 spectators, Curetes Street and the Terrace Houses, six Roman homes with mosaics and frescoes under a protective roof.",
-        "come": "From Selçuk by taxi or dolmuş; the upper entrance saves the climb.",
-        "quando": "Open daily 8am-6pm, ticket office until 5:30pm (November 2026). At opening, especially when cruise ships arrive from Kuşadası.",
+        "testo": "The great Greco-Roman city with the Library of Celsus (2nd century AD), the Great Theatre with about 24,000-25,000 seats, Curetes Street and the Terrace Houses, Roman residences with mosaics and frescoes under a roof.",
+        "come": "From Selçuk by taxi or dolmuş; the upper entrance avoids the climb.",
+        "quando": "At opening time, especially when the cruise ships arrive from Kuşadası: from 10am the site fills up.",
         "tempo": "2-3 hours",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "The Terrace Houses are among the best parts of the site: check at the ticket office whether they are included.",
-        "costo": "The ticket also includes the Ephesus Experience Museum; price for foreigners on the official website"
+        "costo": "€40 for foreign visitors, Ephesus Experience Museum included (muze.gov.tr, 2026)",
+        "orari": "Daily 8am-6pm, ticket office until 5:30pm (muze.gov.tr, 2026)",
+        "lat": 37.94097,
+        "lng": 27.34147,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS",
+        "consiglio": "The Terrace Houses have a separate €15 ticket: it is worth it, they are among the best parts of the site."
       },
       {
-        "nome": "Basilica of St John and Selçuk Castle",
+        "nome": "Terrace Houses",
+        "testo": "Seven Roman houses of Ephesus's leading families, built in the 1st century AD on the terraces of Mount Koressos, under a large roof. You walk on walkways above mosaic floors and frescoed walls.",
+        "come": "Inside Ephesus, along Curetes Street, with a separate ticket.",
+        "quando": "Before midday, before heading down to the library.",
+        "tempo": "45 minutes-1 hour",
+        "costo": "€15 for foreign visitors (muze.gov.tr, 2026)",
+        "orari": "Daily 9am-5pm, ticket office until 4:30pm (muze.gov.tr, 2026)",
+        "lat": 37.93806,
+        "lng": 27.34139,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS02&DistId=EFS"
+      },
+      {
+        "nome": "Library of Celsus",
+        "testo": "The most photographed two-storey façade in Turkey, built in the early 2nd century AD by the son of governor Celsus as a library and tomb for his father. It was re-erected piece by piece in the 1970s.",
+        "come": "At the bottom of Curetes Street, walking down from the upper entrance.",
+        "quando": "Right at opening, before the groups, or in the last hour.",
+        "tempo": "20-30 minutes",
+        "costo": "Included in the Ephesus ticket",
+        "lat": 37.93914,
+        "lng": 27.34075,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS"
+      },
+      {
+        "nome": "Great Theatre of Ephesus",
+        "testo": "The theatre cut into Mount Panayır, the largest in Roman Asia Minor, with about 24,000-25,000 seats. In front of it starts Harbour Street, which once reached the sea.",
+        "come": "Inside Ephesus, next to the lower entrance.",
+        "quando": "End of the visit, in the afternoon light.",
+        "tempo": "20-30 minutes",
+        "costo": "Included in the Ephesus ticket",
+        "lat": 37.94101,
+        "lng": 27.34273,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS"
+      },
+      {
+        "nome": "Ephesus Experience Museum",
+        "testo": "The multimedia museum opposite the Great Theatre, which recreates daily life in the ancient city with projections and an audio guide. Useful before or after the walk through the ruins.",
+        "come": "Opposite the Great Theatre, inside the site.",
+        "quando": "At the end of the visit, in the hot hours.",
+        "tempo": "30-45 minutes",
+        "costo": "Included in the €40 Ephesus ticket (muze.gov.tr, 2026)",
+        "orari": "Daily 8am-6pm, ticket office until 5:30pm (muze.gov.tr, 2026)",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS03&DistId=EFS"
+      },
+      {
+        "nome": "Ephesus Museum",
+        "testo": "The archaeological museum in Selçuk, with the two statues of Artemis found at Ephesus, finds from the Terrace Houses and halls on the fountains and the imperial cult. It helps piece together what you saw in the morning.",
+        "come": "On foot in the centre of Selçuk.",
+        "quando": "Afternoon, after Ephesus.",
+        "tempo": "1 hour",
+        "costo": "€10 for foreign visitors (muze.gov.tr, 2026)",
+        "orari": "Daily 8:30am-5:30pm, ticket office until 5pm (muze.gov.tr, 2026)",
+        "lat": 37.94896,
+        "lng": 27.36767,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFM01&DistId=EFM"
+      },
+      {
+        "nome": "Basilica of St John and Selçuk castle",
         "testo": "The basilica Justinian had built in the 6th century over the traditional tomb of the apostle, with the castle on the hill.",
         "come": "On foot from Selçuk.",
-        "quando": "Morning.",
+        "quando": "Morning, or at sunset.",
         "tempo": "1 hour",
-        "url": "https://muze.gov.tr/"
+        "costo": "€6 for foreign visitors (muze.gov.tr, 2026)",
+        "orari": "Daily 8am-6pm, ticket office until 5:30pm (muze.gov.tr, 2026)",
+        "lat": 37.95292,
+        "lng": 27.36697,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=STJ01&DistId=STJ"
+      },
+      {
+        "nome": "İsa Bey Mosque",
+        "testo": "The mosque from 1375, at the foot of St John's hill, with granite columns taken from the ruins of Ephesus and a marble portal. It is one of the oldest in western Anatolia.",
+        "come": "On foot from central Selçuk, below the basilica.",
+        "quando": "Outside prayer times.",
+        "tempo": "20 minutes",
+        "lat": 37.95222,
+        "lng": 27.36583
+      },
+      {
+        "nome": "Artemision",
+        "testo": "The Temple of Artemis, one of the Seven Wonders of the ancient world: today a single re-erected column stands in a marshy field. From here you see the basilica and the İsa Bey Mosque together.",
+        "come": "On foot from Selçuk, on the road to Ephesus.",
+        "quando": "At sunset.",
+        "tempo": "15-20 minutes",
+        "lat": 37.94972,
+        "lng": 27.36389
       },
       {
         "nome": "House of the Virgin Mary (Meryem Ana)",
-        "testo": "The shrine in the hills above Selçuk that Catholic tradition, since the 19th century, regards as the Virgin Mary's last home. Three popes have visited.",
-        "come": "By taxi or on a tour from Selçuk.",
+        "testo": "The shrine in the hills above Selçuk that Catholic tradition has considered, since the 19th century, the last home of the Virgin Mary. Three popes have visited.",
+        "come": "By taxi or on a tour from Selçuk; it is about 15 minutes from the upper entrance of Ephesus.",
         "quando": "Morning.",
-        "tempo": "45 minutes"
+        "tempo": "45 minutes",
+        "lat": 37.91154,
+        "lng": 27.33406
       },
       {
         "nome": "Şirince",
-        "testo": "A small village of stone houses on a hill, with fruit wines and shops.",
+        "testo": "A small village of stone houses in the hills, with fruit wines and shops.",
         "come": "Dolmuş or taxi from Selçuk, about 7 km.",
         "quando": "Afternoon.",
         "tempo": "1-2 hours",
+        "lat": 37.94139,
+        "lng": 27.43306,
         "consiglio": "Taste the fruit wines before buying."
       }
     ],
@@ -817,23 +1044,48 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Ephesus at opening and Terrace Houses",
+          "Morning: Ephesus at opening and the Terrace Houses",
           "Lunch in Selçuk",
           "Afternoon: Basilica of St John",
           "Evening: Şirince"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Ephesus from the upper entrance, Terrace Houses, Library of Celsus and Great Theatre",
+          "Afternoon at the Ephesus Museum, then dinner in Selçuk",
+          "Day 2: House of the Virgin Mary in the morning",
+          "Basilica of St John, İsa Bey Mosque and the Artemision, then evening in Şirince"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Priene, Miletus and Didyma by car, heading south",
+          "Or half a day at the beach in Kuşadası"
         ]
       }
     ],
     zone: [
       {
         "nome": "Selçuk",
-        "perChi": "those who want to be near Ephesus",
-        "testo": "A town with family guesthouses, restaurants and a market."
+        "perChi": "those who want to stay close to Ephesus",
+        "testo": "A small town with family-run guesthouses, restaurants and a market.",
+        "fascia": "€35-60"
       },
       {
         "nome": "Şirince",
         "perChi": "those who want village atmosphere",
-        "testo": "Stone houses and vineyards, quieter but isolated with few services."
+        "testo": "Stone houses and vineyards, quieter but isolated and with few services.",
+        "fascia": "€70-120"
+      },
+      {
+        "nome": "Kuşadası",
+        "perChi": "those who want the sea",
+        "testo": "The seaside town about twenty minutes away, with the cruise port, beaches and large hotels; pricier and busier than Selçuk.",
+        "fascia": "€80-190"
       }
     ],
     sapori: [
@@ -860,6 +1112,46 @@ export const destinazioniTurchia: Destinazione[] = [
       "Guides on site: agree the price and duration before starting."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Priene, Miletus and Didyma",
+        "distanza": "about 1 hour by car to Priene",
+        "come": "By car or on a day tour from Selçuk; public transport needs several changes.",
+        "testo": "Three Ionian sites in a row heading south: Priene on the mountainside, with its grid plan, the great theatre of Miletus and the temple of Apollo at Didyma, with huge columns."
+      },
+      {
+        "nome": "Kuşadası",
+        "distanza": "about 20 km, 20-30 minutes",
+        "come": "By dolmuş or car from Selçuk.",
+        "testo": "The nearest seaside town, with its promenade, Pigeon Island and the beaches of the Dilek peninsula. Good for half a day at the sea."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How much does it cost to enter Ephesus?",
+        "risposta": "In 2026 the ticket for foreign visitors costs €40 and includes the Experience Museum. The Terrace Houses are extra, €15; the Ephesus Museum in Selçuk costs €10 and the Basilica of St John €6."
+      },
+      {
+        "domanda": "How long does it take to visit Ephesus?",
+        "risposta": "The site takes 2-3 hours, plus an hour for the Terrace Houses. With Selçuk, the museum and Şirince you need a full day, two to add the House of the Virgin Mary without rushing."
+      },
+      {
+        "domanda": "Which entrance is best?",
+        "risposta": "The upper entrance, reached by taxi from Selçuk: you walk down Curetes Street to the Library of Celsus and the Great Theatre, with no climb."
+      },
+      {
+        "domanda": "Is it better to stay in Selçuk or Kuşadası?",
+        "risposta": "Selçuk is a few minutes from Ephesus, quieter and cheaper. Kuşadası has the sea and more hotels, but it is pricier and crowded with cruise passengers."
+      },
+      {
+        "domanda": "When should you go to avoid the crowds?",
+        "risposta": "At the 8am opening: from 10am the cruise passengers from Kuşadası arrive. Spring and early autumn are the best months; in summer it goes above 35 °C at midday."
+      },
+      {
+        "domanda": "Can you get to Ephesus from Izmir airport?",
+        "risposta": "Yes: Selçuk is about an hour away, by regional train from the airport station or by transfer, and from Selçuk the entrance to Ephesus is a few minutes by taxi."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'The stone tiers of the ancient stadium of Ephesus',

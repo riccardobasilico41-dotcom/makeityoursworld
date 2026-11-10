@@ -27,10 +27,10 @@ export const destinazioniGiordania: Destinazione[] = [
       'Ho dormito in un hotel qualsiasi, e il nome non me lo sono segnato. Conviene stare in centro, per muoversi a piedi tra Cittadella, Teatro Romano e Rainbow Street.\n\nEconomici: Farah Hotel & Hostel, Cliff Hostel, entrambi a due passi dal Teatro Romano · fascia media: Toledo Hotel (vicino a Rainbow Street), Kaya Hotel Amman (quartiere Abdali, spa interna) · più lussuosi: Fairmont Amman, W Amman.',
     doveMangiare: 'Zajal per la cena di benvenuto; pranzo al Bazaar al rientro.',
     usciteSerali: 'Talet Al Jabal o C-Ling, su Rainbow Street.',
-    comeArrivare: 'Volo internazionale su Amman.',
+    comeArrivare: "Si atterra al Queen Alia (AMM), circa 35 km a sud della città. Il bus Sariyah Airport Express costa circa 3,50 JOD (circa 4 €), con il biglietto a bordo, e arriva al 7th Circle e alla stazione di Tabarbour in 45-60 minuti, ogni 30 minuti di giorno e con corse più rade di notte. Il taxi giallo ufficiale, dalla fila davanti agli arrivi, costa circa 25-30 JOD per il centro; Uber e Careem circa 15-25 JOD. Da evitare gli autisti che avvicinano i passeggeri dentro il terminal. Per il volo di rientro conviene arrivare tre ore prima: i controlli di sicurezza iniziano già all'ingresso del terminal.",
     comeSpostarsi: 'Transfer organizzati, a piedi nel centro.',
     periodoMigliore: 'dicembre-gennaio',
-    costi: 'Cena da Zajal circa 15 JOD; buggy nel deserto vicino Amman 40 JOD (opzione alternativa del Giorno 7).',
+    costi: "Budget basso circa 40-60 € al giorno a persona (ostello o hotel semplice a Downtown, falafel e hummus, bus e molti tratti a piedi); medio 90-140 € (hotel a Jabal Amman, ristoranti, taxi e app); alto da 220 € in su (hotel internazionali ad Abdali, cene con terrazza, autista). Cena da Zajal circa 15 JOD; Cittadella 3 JOD e Teatro Romano 2 JOD, entrambi compresi nel Jordan Pass (70-80 JOD); Jordan Museum 5 JOD; buggy nel deserto vicino ad Amman 40 JOD (opzione alternativa del Giorno 7). Un dinaro vale circa 1,2 €.",
     erroriDaEvitare: [],
     miaEsperienza:
       'La Cittadella, con la vista su tutta la città vecchia, è stata una tappa carina per chiudere il viaggio prima del volo di rientro, anche se non è quello che ricordo di più della Giordania.',
@@ -42,7 +42,10 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Dal centro si sale in taxi o a piedi, con una salita ripida. Si gira da soli, i pannelli sono in inglese.",
         "quando": "Aperta 8-17 (2026). Il tardo pomeriggio ha la luce migliore sul tempio; a mezzogiorno d'estate non c'è ombra.",
         "tempo": "1-1,5 ore",
-        "costo": "3 JOD per gli stranieri, oppure incluso nel Jordan Pass (2026)",
+        "costo": "3 JOD, circa 3,5 €, per gli stranieri, oppure incluso nel Jordan Pass (2026)",
+        "orari": "8-17 (2026)",
+        "lat": 31.9547,
+        "lng": 35.9343,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
         "consiglio": "Salire in taxi e scendere a piedi verso il teatro romano: è in discesa e si arriva in centro."
       },
@@ -52,7 +55,22 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Sta nel cuore del centro, a piedi dai souq e da Rainbow Street.",
         "quando": "Aperto 8-17 (2026). Mattina o tardo pomeriggio, quando le gradinate sono in ombra.",
         "tempo": "45 minuti",
-        "costo": "Incluso nel Jordan Pass",
+        "costo": "2 JOD, circa 2,5 €, con i due musei, oppure incluso nel Jordan Pass (2026)",
+        "orari": "8-17 (2026)",
+        "lat": 31.95169,
+        "lng": 35.93931,
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+      },
+      {
+        "nome": "Museo delle tradizioni popolari",
+        "testo": "Due piccoli musei nelle ali del Teatro Romano: quello delle tradizioni popolari, con abiti tradizionali, gioielli e oggetti di casa, e quello del folklore, dedicato alla vita beduina e di villaggio. Si vedono in mezz'ora, nella stessa visita al teatro.",
+        "come": "Ai lati dell'ingresso del Teatro Romano.",
+        "quando": "Insieme al teatro.",
+        "tempo": "30-45 minuti",
+        "costo": "Compreso nel biglietto del teatro e nel Jordan Pass (2026)",
+        "orari": "8-17.15 (2026)",
+        "lat": 31.95169,
+        "lng": 35.93931,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       },
       {
@@ -64,12 +82,89 @@ export const destinazioniGiordania: Destinazione[] = [
         "consiglio": "Fermarsi per un kunafa caldo e per falafel e hummus in uno dei locali storici del centro."
       },
       {
+        "nome": "Moschea al-Husseini",
+        "testo": "La moschea principale del centro vecchio e il punto di riferimento di Downtown: intorno si aprono i souq, il mercato della frutta e le strade dei negozi d'oro.",
+        "come": "A piedi dal Teatro Romano, in pochi minuti. Chi non è musulmano la guarda dall'esterno o chiede all'ingresso se può entrare, fuori dagli orari di preghiera.",
+        "quando": "Fuori dagli orari di preghiera, evitando il venerdì a mezzogiorno.",
+        "tempo": "15 minuti",
+        "lat": 31.9497,
+        "lng": 35.9347
+      },
+      {
+        "nome": "Ninfeo romano",
+        "testo": "La grande fontana pubblica dell'antica Philadelphia, del II secolo, a due passi dal teatro e dalla moschea al-Husseini. Restano le arcate e le nicchie della facciata, in mezzo al traffico del centro.",
+        "come": "A piedi, tra il Teatro Romano e la moschea al-Husseini.",
+        "quando": "Di giorno, passando per Downtown.",
+        "tempo": "15 minuti",
+        "lat": 31.95033,
+        "lng": 35.93617
+      },
+      {
         "nome": "Rainbow Street",
         "testo": "Strada pedonale nel quartiere Jabal Amman, con caffè, ristoranti con terrazza, librerie e negozi di artigianato. Si viene la sera, quando si riempie di giovani.",
         "come": "Taxi dal centro o a piedi dal teatro romano, in salita.",
         "quando": "Dopo il tramonto, soprattutto il giovedì e il venerdì sera.",
         "tempo": "2-3 ore",
+        "lat": 31.95062,
+        "lng": 35.92311,
         "consiglio": "Scegliere un locale con terrazza sul pendio: la vista sulla città illuminata è la parte migliore."
+      },
+      {
+        "nome": "Jordan Museum",
+        "testo": "Il museo nazionale, nel quartiere di Ras al-Ain, con frammenti dei Rotoli del Mar Morto e le statue di 'Ain Ghazal, tra le più antiche figure umane di grandi dimensioni. Il percorso va dalla preistoria all'epoca moderna ed è il posto giusto per capire il Paese prima o dopo il giro.",
+        "come": "Taxi o Uber dal centro, pochi minuti.",
+        "quando": "La mattina del giorno di partenza, se il volo è nel pomeriggio.",
+        "tempo": "1,5-2 ore",
+        "costo": "5 JOD, circa 6 €, per i non giordani (2026)",
+        "lat": 31.94565,
+        "lng": 35.92652,
+        "url": "https://jordanmuseum.jo"
+      },
+      {
+        "nome": "Moschea di Re Abdullah I",
+        "testo": "La moschea con la grande cupola blu, costruita alla fine degli anni Ottanta e dedicata al fondatore del regno. È tra le moschee di Amman più abituate ai visitatori non musulmani.",
+        "come": "Taxi dal centro, verso Abdali. Si entra con braccia e gambe coperte; alle donne si chiede di coprire i capelli.",
+        "quando": "Fuori dagli orari di preghiera; il venerdì evitare il mezzogiorno.",
+        "tempo": "30-45 minuti",
+        "lat": 31.9616,
+        "lng": 35.9131
+      },
+      {
+        "nome": "Jabal al-Weibdeh",
+        "testo": "Uno dei quartieri più vecchi della città, sulla collina di fronte alla Cittadella, con case in pietra della prima metà del Novecento, gallerie e caffè frequentati da artisti e studenti. Intorno a Paris Circle si passa un pomeriggio senza programma.",
+        "come": "A piedi in salita da Downtown, o in taxi.",
+        "quando": "Pomeriggio e sera.",
+        "tempo": "1-2 ore",
+        "lat": 31.95556,
+        "lng": 35.92778
+      },
+      {
+        "nome": "Darat al Funun",
+        "testo": "Un centro d'arte contemporanea araba in alcune ville storiche di Jabal al-Weibdeh, con mostre, un giardino a terrazze e i resti di una chiesa bizantina. È uno dei posti più tranquilli della città, con la vista su Downtown.",
+        "come": "A piedi da Jabal al-Weibdeh; l'ingresso principale è in Nadeem al Mallah Street.",
+        "quando": "Pomeriggio, con la luce sul giardino.",
+        "tempo": "1 ora",
+        "orari": "Da sabato a giovedì 10-19; chiuso il venerdì, ad agosto e nei giorni festivi; nel Ramadan chiude alle 15",
+        "url": "https://daratalfunun.org"
+      },
+      {
+        "nome": "Abdali e il Boulevard",
+        "testo": "Il quartiere nuovo di grattacieli e centri commerciali, con il Boulevard pedonale pieno di ristoranti e negozi di catena. Non ha il carattere del centro vecchio, ma mostra l'altra faccia della capitale.",
+        "come": "Taxi o Uber dal centro, una decina di minuti.",
+        "quando": "La sera.",
+        "tempo": "1-2 ore",
+        "lat": 31.96444,
+        "lng": 35.90639
+      },
+      {
+        "nome": "Royal Automobile Museum",
+        "testo": "La collezione di auto e moto della famiglia reale, dalle vetture degli anni Venti a quelle di re Hussein, appassionato di motori. Piace anche a chi non segue le auto, perché racconta la storia del Paese attraverso i suoi re.",
+        "come": "Taxi o Uber: è nel parco Re Hussein, a ovest del centro.",
+        "quando": "Nelle ore calde, al coperto.",
+        "tempo": "1 ora",
+        "costo": "5 JOD, circa 6 €; 7 JOD con l'audioguida (2026)",
+        "lat": 31.9842,
+        "lng": 35.8257
       }
     ],
     programmi: [
@@ -81,23 +176,44 @@ export const destinazioniGiordania: Destinazione[] = [
           "Pranzo e passeggiata a Downtown e nei souq",
           "Tramonto e cena a Rainbow Street"
         ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Cittadella, Teatro Romano con i due musei, Ninfeo e souq di Downtown",
+          "Sera: cena e locali su Rainbow Street",
+          "Giorno 2: Jordan Museum al mattino, poi la Moschea di Re Abdullah I",
+          "Pomeriggio: Jabal al-Weibdeh e Darat al Funun (chiuso il venerdì)",
+          "Sera: Abdali Boulevard, o di nuovo in centro per il kunafa"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: gita a Jerash al mattino e rientro nel pomeriggio",
+          "In alternativa: Madaba e Monte Nebo, oppure il pomeriggio al Mar Morto con il bagno al tramonto"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Downtown / Al-Balad",
         "perChi": "chi vuole stare tra souq e teatro",
-        "testo": "Si va a piedi a quasi tutto e si mangia molto bene a poco. Di sera è rumoroso e meno curato, e gli hotel sono semplici."
+        "testo": "Si va a piedi a quasi tutto e si mangia molto bene a poco. Di sera è rumoroso e meno curato, e gli hotel sono semplici.",
+        "fascia": "25-70 €"
       },
       {
         "nome": "Jabal Amman / Rainbow Street",
         "perChi": "chi vuole locali e quartiere vivibile",
-        "testo": "Più tranquillo, ristoranti e caffè a due passi. Le strade sono in salita e gli hotel costano di più."
+        "testo": "Più tranquillo, ristoranti e caffè a due passi. Le strade sono in salita e gli hotel costano di più.",
+        "fascia": "70-140 €"
       },
       {
         "nome": "Abdali",
         "perChi": "chi viaggia per lavoro o vuole hotel moderni",
-        "testo": "Zona nuova di grattacieli e catene internazionali. Comodo e curato, ma privo di carattere."
+        "testo": "Zona nuova di grattacieli e catene internazionali. Comodo e curato, ma privo di carattere.",
+        "fascia": "100-250 €"
       }
     ],
     sapori: [
@@ -126,6 +242,58 @@ export const destinazioniGiordania: Destinazione[] = [
       "Tensioni nella regione: il governo britannico (ottobre 2026) segnala il rischio di escalation improvvise, possibili cancellazioni di voli e chiusure dello spazio aereo, e sconsiglia qualsiasi viaggio entro 3 km dal confine siriano. Controllare viaggiaresicuri.it prima di partire."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Jerash",
+        "distanza": "circa 1 ora in auto",
+        "come": "Auto con autista, taxi per la giornata o tour organizzato.",
+        "testo": "Una delle città romane meglio conservate fuori dall'Italia, con il foro ovale, il cardo colonnato e i due teatri. L'ingresso è compreso nel Jordan Pass; conviene arrivare presto, prima dei gruppi."
+      },
+      {
+        "nome": "Madaba e Monte Nebo",
+        "distanza": "Madaba circa 45 minuti, il Monte Nebo mezz'ora più in là",
+        "come": "Auto o taxi per la giornata; si abbina bene al Mar Morto.",
+        "testo": "Madaba è la città dei mosaici, con la mappa bizantina della Terra Santa nella chiesa di San Giorgio; il Monte Nebo ha la basilica dei mosaici e la vista sulla valle del Giordano. Parco archeologico di Madaba 3 JOD, Monte Nebo 2 JOD."
+      },
+      {
+        "nome": "Mar Morto",
+        "distanza": "circa 1 ora in auto",
+        "come": "Auto o taxi; molti resort vendono l'ingresso giornaliero a spiaggia e piscine.",
+        "testo": "Si galleggia nell'acqua ipersalina, nel punto più basso della terra, e si guarda il tramonto sulle colline della Cisgiordania. Non bagnare viso e occhi e non entrare in acqua con tagli o dopo la rasatura."
+      },
+      {
+        "nome": "Castelli del deserto",
+        "distanza": "a est di Amman, mezza giornata abbondante",
+        "come": "In auto con autista o a noleggio: è il modo più comodo.",
+        "testo": "Qasr al-Kharrana, Qusayr Amra con gli affreschi omayyadi e il forte di Azraq, nel deserto orientale. Ingressi 3 JOD o compresi nel Jordan Pass; Kharrana è aperto 8-17."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono ad Amman?",
+        "risposta": "Un giorno basta per Cittadella, Teatro Romano, Downtown e Rainbow Street. Con due si aggiungono il Jordan Museum e Jabal al-Weibdeh; con tre si usa la città come base per Jerash o il Mar Morto."
+      },
+      {
+        "domanda": "Conviene il Jordan Pass?",
+        "risposta": "Quasi sempre: costa 70, 75 o 80 JOD secondo i giorni a Petra (2026), comprende la tassa del visto per chi resta almeno due notti intere e gli ingressi di oltre 40 siti, tra cui Cittadella e Teatro Romano. Va comprato online prima di arrivare."
+      },
+      {
+        "domanda": "Come si va dall'aeroporto al centro di Amman?",
+        "risposta": "Il bus Sariyah Airport Express costa circa 3,50 JOD e arriva al 7th Circle e a Tabarbour in 45-60 minuti; il taxi giallo ufficiale costa circa 25-30 JOD, Uber e Careem circa 15-25 JOD."
+      },
+      {
+        "domanda": "Dove conviene dormire ad Amman?",
+        "risposta": "Downtown per spendere poco e girare a piedi tra souq e teatro; Jabal Amman, intorno a Rainbow Street, per un quartiere più tranquillo con ristoranti; Abdali per hotel moderni e catene internazionali."
+      },
+      {
+        "domanda": "Cosa cambia il venerdì ad Amman?",
+        "risposta": "Il venerdì è il giorno di riposo: molti negozi del centro aprono solo dopo la preghiera di mezzogiorno, Darat al Funun è chiuso e le moschee vanno evitate in quell'ora."
+      },
+      {
+        "domanda": "Amman è una buona base per le gite in giornata?",
+        "risposta": "Sì: Jerash e il Mar Morto sono a circa un'ora, Madaba e il Monte Nebo poco di più, e si rientra la sera. Per Petra e Wadi Rum invece conviene spostarsi e dormire lì."
+      }
+    ],
     esperienzeSlugs: ['cittadella-amman'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: "Un gatto bianco e arancio avanza verso l'obiettivo sulle colline di Amman, con i palazzi della città sullo sfondo",

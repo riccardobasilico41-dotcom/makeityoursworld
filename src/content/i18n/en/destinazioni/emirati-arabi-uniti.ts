@@ -33,13 +33,13 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     doveMangiare:
       "Outside India, Dubai is one of the best places to eat the cuisine of the subcontinent, and it costs very little: in Karama, Bur Dubai and Deira you can have dinner for under ten euros in restaurants full of residents. Try the biryani, the Pakistani curries, the Afghan bread baked in the tandoor and, for local food, the machboos and the shawarma from street stalls. Real Emirati cooking is rare: the country is overwhelmingly inhabited by foreigners, and you see it first of all in the menus.",
     comeArrivare:
-      "By plane to Dubai International (DXB), twenty minutes by metro from the center, or Al Maktoum (DWC), much farther away. From Abu Dhabi there are frequent buses, about 2 hours.",
+      "By plane to Dubai International (DXB). From terminals 1 and 3 the Red Line metro reaches Downtown in 20-30 minutes for about 5-7.50 AED on a Nol card bought at the station, from about 5am to midnight; terminal 2 is not served. An RTA metered taxi costs about 60-90 AED, including the 25 AED airport flag fall; Uber and Careem also work. Al Maktoum (DWC) is much farther out. From Abu Dhabi there are frequent buses, about 2 hours.",
     comeSpostarsi:
       "Metro with the Nol Card on the main axis, taxis and Careem for the rest, abra on the creek at one dirham a crossing. You can walk only in winter and only in certain areas: the city is made for cars.",
     periodoMigliore:
       "November to March. From June to September temperatures top 45 degrees (113 °F) with high humidity and life moves indoors: a summer stopover comes down to shopping malls and hotels.",
     costi:
-      "Burj Khalifa from about 170 dirhams for floors 124-125, much more for 148 and for the sunset slots; abra 1 dirham; metro a few dirhams; desert safari 200-400 dirhams depending on the package. With Dubai Connect or the Etihad stopover the hotel comes off the bill.",
+      "Indicative daily budget per person, hotel included: low €70-100 (Deira, metro, subcontinental food), mid €150-250, high over €400. Burj Khalifa from about 170 dirhams for floors 124-125, much more for 148 and for the sunset slots; abra 1 dirham; metro a few dirhams; desert safari 200-400 dirhams depending on the package. With Dubai Connect or the Etihad stopover the hotel comes off the bill.",
     erroriDaEvitare: [
       "Buying the Burj Khalifa ticket on the spot: it costs more, and the sunset slots sell out days ahead",
       "Stopping at the malls and the Marina: it's the Dubai everyone expects, and the least interesting. The creek, the souks and Al Fahidi are twenty minutes by metro",
@@ -148,7 +148,9 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro Green Line to Al Ras or Al Ghubaiba, then walk to the abra stations.",
         "quando": "Morning or late afternoon, less heat.",
         "tempo": "2-3 hours",
-        "costo": "The abra crossing is cheap, paid on board",
+        "costo": "1 AED per crossing, about €0.25, paid to the boatman (2026)",
+        "lat": 25.26749,
+        "lng": 55.29708,
         "consiglio": "Sit on the abra among people going to work: it is the part of Dubai nobody looks for."
       },
       {
@@ -157,6 +159,9 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro to Sharaf DG or Al Ghubaiba, then on foot.",
         "quando": "Morning, before the heat.",
         "tempo": "1-2 hours",
+        "costo": "Free entry to the district",
+        "lat": 25.26423,
+        "lng": 55.30017,
         "consiglio": "It combines well with the creek tour in the same morning."
       },
       {
@@ -165,16 +170,57 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro Red Line to Burj Khalifa/Dubai Mall. Timed ticket, best bought online.",
         "quando": "Sunset, the most requested slot: book it ahead.",
         "tempo": "1-1.5 hours",
+        "costo": "Floors 124-125 from about 170 AED, about €40; floor 148 and the sunset slots cost more (2026)",
+        "lat": 25.19703,
+        "lng": 55.27413,
         "url": "https://www.burjkhalifa.ae/",
         "consiglio": "Book online before you go: the sunset slots sell out first."
       },
       {
-        "nome": "Desert safari",
-        "testo": "An evening in a 4x4 on the dunes, with sunset, dinner in a desert camp and a night under the stars. It is one of the most popular \"desert\" experiences sold around Dubai.",
-        "come": "Operators with hotel pickup. The dunes used for evening safaris are a short drive from the city.",
-        "quando": "Afternoon and evening, in the cooler months.",
-        "tempo": "5-6 hours",
-        "consiglio": "For the real desert you need Liwa and the Rub' al-Khali."
+        "nome": "Dubai Mall and Dubai Fountain",
+        "testo": "The mall at the foot of the Burj Khalifa is an air-conditioned city, with an aquarium, an ice rink and hundreds of shops. On the artificial lake in front, in the evening, the fountain dances to music with jets as tall as a building. It is the Dubai of the photographs, and worth seeing once.",
+        "come": "Metro Red Line to Burj Khalifa/Dubai Mall, then the covered walkway.",
+        "quando": "Evening, when the fountain shows follow one another.",
+        "tempo": "1.5-2 hours",
+        "costo": "Entry and fountain show free",
+        "lat": 25.19512,
+        "lng": 55.27517,
+        "consiglio": "Pair it with the Burj Khalifa at sunset: once down from the tower, watch the fountain from the lakeside."
+      },
+      {
+        "nome": "Al Shindagha Museum",
+        "testo": "Dubai's history museum, spread across a series of restored traditional houses at the mouth of the creek, where the ruling family lived. It tells how a pearl-diving village became a port and then a metropolis, and has a section on perfume and incense.",
+        "come": "Metro Green Line to Al Ghubaiba, then walk along the creek.",
+        "quando": "The hot hours: it is indoors and links well with Al Fahidi.",
+        "tempo": "1.5-2 hours",
+        "costo": "50 AED, about €12 (official 2024 rate)",
+        "lat": 25.26643,
+        "lng": 55.28945,
+        "url": "https://dubaiculture.gov.ae/"
+      },
+      {
+        "nome": "Jumeirah Mosque",
+        "testo": "One of the few mosques in Dubai open to non-Muslims, in white stone and Fatimid style. Visits are run by the Sheikh Mohammed Centre for Cultural Understanding, with Arabic coffee and open questions about Islam and life in the Emirates.",
+        "come": "Taxi or Careem to Jumeirah Road; you register at the majlis opposite the mosque. Covering clothes, headscarf for women.",
+        "quando": "Morning, with the guided visit booked on the centre's website.",
+        "tempo": "1-1.5 hours",
+        "lat": 25.23406,
+        "lng": 55.26548,
+        "url": "https://www.cultures.ae/",
+        "consiglio": "It is the right place to ask the questions that would seem nosy elsewhere."
+      },
+      {
+        "nome": "Dubai Frame",
+        "testo": "A frame about 150 metres high in Zabeel Park, with a bridge at the top partly floored with glass: to the north you look at old Dubai, Deira and Karama, to the south the towers of Sheikh Zayed Road. One section tells the city's history.",
+        "come": "Taxi to the Zabeel Park entrance.",
+        "quando": "Late afternoon, to see the city in daylight and then lit up.",
+        "tempo": "1 hour",
+        "costo": "50 AED, about €12; children 3-12 20 AED (2026)",
+        "orari": "Daily 9am-9pm; shorter hours during Ramadan and public holidays (2026).",
+        "lat": 25.23546,
+        "lng": 55.30037,
+        "url": "https://www.dubaiframe.ae/",
+        "consiglio": "The view over Deira, which you do not see well from the Burj, is the reason to go up."
       },
       {
         "nome": "Museum of the Future",
@@ -182,34 +228,101 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro Red Line to Emirates Towers.",
         "quando": "As of November 2026 the museum is temporarily closed for a new set-up: check the official website before going. In the evening the lit calligraphy looks better in photos.",
         "tempo": "1.5-2 hours",
+        "orari": "Temporarily closed in November 2026 while it prepares a new exhibition (official site).",
+        "lat": 25.21915,
+        "lng": 55.28187,
         "url": "https://museumofthefuture.ae/",
         "consiglio": "If it is still closed, the building alone is worth a stop outside."
       },
       {
-        "nome": "Dubai Frame",
-        "testo": "A frame about 150 metres high in Zabeel Park, with a bridge at the top partly floored with glass: to the north you look at old Dubai, Deira and Karama, to the south the towers of Sheikh Zayed Road. One section tells the city's history.",
-        "come": "Taxi to the Zabeel Park entrance.",
-        "quando": "Late afternoon, to see the city in daylight and then lit up. Hours on the official site.",
-        "tempo": "1 hour",
-        "url": "https://www.dubaiframe.ae/",
-        "consiglio": "The view over Deira, which you do not see well from the Burj, is the reason to go up."
+        "nome": "Alserkal Avenue",
+        "testo": "The art-gallery district carved out of the industrial warehouses of Al Quoz, with contemporary shows, cafés and design shops. It is the opposite of the usual image of Dubai, and shows the art scene of the Gulf and the Middle East.",
+        "come": "By taxi: the metro is far away.",
+        "quando": "Morning or early afternoon; not every gallery opens every day, so check the website.",
+        "tempo": "2 hours",
+        "costo": "Free entry",
+        "lat": 25.14187,
+        "lng": 55.22558,
+        "url": "https://alserkal.online/"
+      },
+      {
+        "nome": "Etihad Museum",
+        "testo": "The museum built next to Union House, where on 2 December 1971 the rulers signed the birth of the United Arab Emirates. The building is shaped like an open manuscript and tells, with documents and film, how seven emirates became one state.",
+        "come": "Taxi along Jumeirah Road; pair it with Jumeirah Mosque, a few minutes away.",
+        "quando": "The hot hours.",
+        "tempo": "1.5 hours",
+        "costo": "25 AED, about €6 (official 2024 rate)",
+        "lat": 25.23921,
+        "lng": 55.26933,
+        "url": "https://dubaiculture.gov.ae/"
+      },
+      {
+        "nome": "Kite Beach and Burj Al Arab",
+        "testo": "A long public beach with facilities at Umm Suqeim, with a running track, kiosks and kitesurfing, and the sail-shaped Burj Al Arab hotel in the background. It is the simplest swim in Dubai without paying for a beach club.",
+        "come": "Taxi along Jumeirah Road.",
+        "quando": "Late afternoon, with the sun setting behind the Burj Al Arab; swimming from October to April.",
+        "tempo": "2 hours",
+        "costo": "Free beach",
+        "lat": 25.163,
+        "lng": 55.20672
+      },
+      {
+        "nome": "Palm Jumeirah and The View",
+        "testo": "The palm-shaped artificial island, with villas on the fronds and the Atlantis at the far end. The shape only makes sense from above: The View deck, on the 52nd floor of The Palm Tower, shows it whole.",
+        "come": "Taxi, or the Palm monorail from Palm Gateway station.",
+        "quando": "Afternoon, with low light.",
+        "tempo": "1.5 hours",
+        "costo": "The View: standard ticket 80-115 AED, about €19-27, depending on the slot (2026)",
+        "orari": "The View: daily 9am-7pm (2026).",
+        "lat": 25.11806,
+        "lng": 55.13333,
+        "url": "https://www.theviewpalm.ae/"
+      },
+      {
+        "nome": "Dubai Marina and JBR",
+        "testo": "An artificial canal lined with skyscrapers, with a pedestrian promenade of restaurants and boats, opening onto the beach at Jumeirah Beach Residence. It is modern, touristy Dubai, pleasant in the evening.",
+        "come": "Metro Red Line to the Marina stops, or the Dubai Tram that runs through it.",
+        "quando": "Evening, when the towers light up.",
+        "tempo": "2 hours",
+        "costo": "Promenade and beach free",
+        "lat": 25.08135,
+        "lng": 55.14408
+      },
+      {
+        "nome": "Desert safari",
+        "testo": "An evening in a 4x4 on the dunes, with sunset, dinner in a desert camp and a night under the stars. It is one of the most popular \"desert\" experiences sold around Dubai.",
+        "come": "Operators with hotel pickup. The dunes used for evening safaris are a short drive from the city.",
+        "quando": "Afternoon and evening, in the cooler months.",
+        "tempo": "5-6 hours",
+        "costo": "200-400 AED, about €47-95, depending on the package (2026)",
+        "consiglio": "For the real desert you need Liwa and the Rub' al-Khali."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: creek, abra and Deira souqs",
-          "Lunch in Karama or Bur Dubai",
-          "Afternoon: Al Fahidi",
-          "Sunset: Burj Khalifa, then the Dubai Mall fountain"
+          "Morning: Al Fahidi and Al Shindagha Museum, then the abra across the creek",
+          "Midday: spice and gold souqs in Deira, lunch in Bur Dubai or Karama",
+          "Afternoon: Dubai Frame for the view over Deira",
+          "Sunset: Burj Khalifa, then the fountain in front of Dubai Mall"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: as above",
-          "Day 2: desert safari or a day in Abu Dhabi"
+          "Day 1: as in the one-day plan",
+          "Day 2, morning: Jumeirah Mosque with the guided visit and Etihad Museum",
+          "Day 2, midday: Alserkal Avenue",
+          "Day 2, afternoon and evening: desert safari, or Kite Beach at sunset and dinner at the Marina"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2: as above",
+          "Day 3: day trip to Abu Dhabi for the Grand Mosque and the Louvre, or to Sharjah for its museums and old town",
+          "Evening: Palm Jumeirah and The View, then Dubai Marina"
         ]
       }
     ],
@@ -217,17 +330,26 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Deira / Bur Dubai",
         "perChi": "those who want old Dubai and to spend less",
-        "testo": "Mid-range hotels near the creek and souqs. Noisy, but with cheap restaurants."
+        "testo": "Mid-range hotels near the creek and souqs. Noisy, but with cheap restaurants.",
+        "fascia": "50-140 €"
       },
       {
         "nome": "Downtown",
         "perChi": "those who want to be under the Burj Khalifa",
-        "testo": "Luxury hotels and malls. Expensive and anonymous."
+        "testo": "Luxury hotels and malls. Expensive and anonymous.",
+        "fascia": "180-450 €"
       },
       {
         "nome": "Marina / JBR",
         "perChi": "those who want beach and skyscrapers",
-        "testo": "Modern and touristy, far from historic Dubai."
+        "testo": "Modern and touristy, far from historic Dubai.",
+        "fascia": "130-350 €"
+      },
+      {
+        "nome": "Jumeirah / Umm Suqeim",
+        "perChi": "those who want the sea without the towers",
+        "testo": "Low-rise villas, public beaches and luxury resorts around the Burj Al Arab. You need a taxi for everything.",
+        "fascia": "150-500 €"
       }
     ],
     sapori: [
@@ -256,6 +378,52 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Regional tensions: European governments warn of possible flight cancellations and airspace closures at short notice (gov.uk, October 2026). Check your government's travel advice before leaving."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Abu Dhabi",
+        "distanza": "about 2 hours by bus, 140 km",
+        "come": "Frequent buses from Dubai, or a taxi or car with driver for the day.",
+        "testo": "The Sheikh Zayed Grand Mosque in the late afternoon and the Louvre Abu Dhabi are enough to justify the day. Better still, spend a night there (there is a dedicated page)."
+      },
+      {
+        "nome": "Sharjah",
+        "distanza": "30-60 minutes by taxi depending on traffic",
+        "come": "Taxi or Careem from Deira; at rush hour traffic between the two cities is heavy.",
+        "testo": "The neighbouring emirate, more conservative and less touristy, with its restored old centre, the Sharjah Art Museum and the museums of Islamic civilisation. No alcohol, and covering clothes."
+      },
+      {
+        "nome": "Liwa and Al Ain",
+        "distanza": "Al Ain about 1h45 by car, Liwa about 4 hours",
+        "come": "Rental car or driver; the dunes need a 4x4 with a guide.",
+        "testo": "The UNESCO oasis of Al Ain and the edge of the Rub' al-Khali at Liwa: the real desert, rather than the evening safari. Liwa needs a night (there is a dedicated page)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Dubai?",
+        "risposta": "In 24 hours you can see the creek, the souqs, Al Fahidi and the Burj Khalifa at sunset. With 48 you add Jumeirah Mosque, Alserkal and the desert; on the third day, go to Abu Dhabi."
+      },
+      {
+        "domanda": "Is it worth leaving the airport on a Dubai layover?",
+        "risposta": "Above twelve hours, yes: the metro reaches the centre in twenty minutes and visa on arrival is free for EU citizens. Under ten hours, with checks and getting back three hours early, too little is left."
+      },
+      {
+        "domanda": "Do you need to book the Burj Khalifa?",
+        "risposta": "Yes, online and a few days ahead: tickets are timed and the sunset slots, the most expensive, sell out first. On the spot it costs more."
+      },
+      {
+        "domanda": "Where to stay in Dubai for the first time?",
+        "risposta": "Deira or Bur Dubai to spend little and have the metro and the old city on the doorstep; Downtown to be under the Burj Khalifa; Marina or Jumeirah for the sea."
+      },
+      {
+        "domanda": "When is the best time to visit Dubai?",
+        "risposta": "November to March. From June to September it tops 45 degrees with high humidity and life moves indoors."
+      },
+      {
+        "domanda": "Dubai or Abu Dhabi as a base?",
+        "risposta": "Dubai has the metro and more to do at night; Abu Dhabi is calmer and with the Etihad stopover the hotel is free. They are two hours apart by bus: better to sleep a night in each than to shuttle."
+      }
+    ],
     esperienzeSlugs: ['creek-souq-dubai', 'deserto-emirati'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "The Dubai skyline with the Burj Khalifa at sunset, seen from afar across the water",
@@ -292,12 +460,12 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     doveMangiare:
       "As in Dubai, the best and cheapest food is that of the Indian subcontinent, in the neighborhoods around the center. For fish you go to the Al Mina market: you choose it at the stall and take it to the restaurants next door, which cook it for a few dirhams. Real Emirati cooking is found in a few dedicated places: try the machboos, luqaimat as dessert and karak chai, the spiced milk tea drunk here at all hours.",
     comeArrivare:
-      "By plane to Abu Dhabi Zayed International (AUH), Etihad's hub. From Dubai there are frequent buses, about 2 hours, or a taxi.",
+      "By plane to Abu Dhabi Zayed International (AUH), Etihad's hub. Bus A1 runs to the centre, about 4 AED with a Hafilat card, 24 hours a day, in 45-60 minutes; a taxi costs about 100-150 AED. From Dubai there are frequent buses, about 2 hours, or a taxi. The Grand Mosque lies between the airport and the centre.",
     comeSpostarsi:
       "There's no metro: you use taxis and Careem, which are cheap, or city buses. Between the center, Saadiyat and Yas distances are large, and for much of the year walking isn't an option.",
     periodoMigliore: "November to March, as across the Gulf. In autumn the Formula 1 Grand Prix fills the city.",
     costi:
-      "Grand Mosque free; Louvre Abu Dhabi around 65 dirhams; Qasr Al Watan about 65. Overall a day in Abu Dhabi costs much less than one in Dubai.",
+      "Indicative daily budget per person, hotel included: low €60-90, mid €130-220, high over €350. Grand Mosque with an online pass (about 10 AED for tourists from September 2026); Louvre Abu Dhabi 70 AED; Qasr Al Watan from about 65 AED; taxis are cheap. Overall a day in Abu Dhabi costs less than one in Dubai, and with the Etihad stopover the hotel is free.",
     erroriDaEvitare: [
       "Showing up at the Grand Mosque dressed the wrong way: arms and legs covered for everyone, head covered for women. Abayas can be borrowed, but with long lines, and at certain times entry is limited",
       "Visiting the mosque at noon: the white marble reflects glare and hurts the eyes, and it's also the worst time for photos",
@@ -312,9 +480,12 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "nome": "Sheikh Zayed Grand Mosque",
         "testo": "Eighty-two domes, marble columns inlaid with mother-of-pearl, a hand-knotted carpet of over 5,600 square metres and chandeliers with millions of Swarovski crystals. It is open to non-Muslim visitors.",
         "come": "Taxi or Uber. Free visit with a mandatory online pass booked on the official website; dress rules on the website.",
-        "quando": "Saturday-Thursday 9am-8:30pm; Friday 9-11:30am and 2:30-8:30pm (2026). Late afternoon is best, when the marble turns from white to pink and then blue; at midday the white is blinding.",
+        "quando": "Late afternoon, when the marble turns from white to pink and then blue; at noon the white is blinding.",
         "tempo": "1-1.5 hours",
-        "costo": "Free entry",
+        "costo": "Online pass required; for tourists, from September 2026, about 10 AED (about €2.50): check the website",
+        "orari": "Saturday-Thursday 9am-8.30pm; Friday 9-11.30am and 2.30-8.30pm (2026).",
+        "lat": 24.412,
+        "lng": 54.474,
         "url": "https://www.szgmc.gov.ae/en/home",
         "consiglio": "Hours for non-Muslims vary, especially on Friday: check the site."
       },
@@ -322,8 +493,12 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "nome": "Louvre Abu Dhabi",
         "testo": "Jean Nouvel's museum on Saadiyat Island, opened in 2017, under a dome made of 7,850 overlapping aluminium stars that rains light. The building is worth as much as the collection.",
         "come": "Taxi or Uber from Abu Dhabi.",
-        "quando": "Late afternoon, when the light under the dome changes. Opening hours and closing days on the official website.",
+        "quando": "Late afternoon, when the light under the dome changes.",
         "tempo": "2-3 hours",
+        "costo": "70 AED, about €16; free under 18 (2026)",
+        "orari": "Tuesday-Sunday from 10am, closing at 6.30pm or 8.30pm depending on the day; closed Monday (2026).",
+        "lat": 24.533,
+        "lng": 54.4,
         "url": "https://www.louvreabudhabi.ae/",
         "consiglio": "Sit under the dome and stay a while."
       },
@@ -333,7 +508,40 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Taxi or Uber.",
         "quando": "Morning. Opening hours and tickets on the official website.",
         "tempo": "1.5-2 hours",
+        "costo": "From about 65 AED, about €15 (2026)",
+        "lat": 24.46225,
+        "lng": 54.30551,
         "url": "https://www.qasralwatan.ae/"
+      },
+      {
+        "nome": "Zayed National Museum",
+        "testo": "The national museum of the Emirates, in the Saadiyat cultural district next to the Louvre, designed by Foster + Partners with towers inspired by a falcon's feathers. It tells the country's story from prehistory to Sheikh Zayed, founder of the federation.",
+        "come": "Taxi to Saadiyat; pair it with the Louvre on the same day. Shoulders and knees covered.",
+        "quando": "Morning, before the Louvre in the afternoon.",
+        "tempo": "2-3 hours",
+        "orari": "Monday-Thursday 10am-6.30pm, Friday-Sunday 10am-8.30pm; last entry one hour before (2026, reseller data: check).",
+        "lat": 24.53456,
+        "lng": 54.4188,
+        "url": "https://www.zayednationalmuseum.ae/"
+      },
+      {
+        "nome": "Qasr Al Hosn",
+        "testo": "The white fort in the city centre, Abu Dhabi's oldest stone building, born as a watchtower over the water well and later home of the ruling family. Restored and turned into a museum, it tells how the city grew around these walls.",
+        "come": "Taxi to the centre, on Sheikh Zayed the First Street; the Cultural Foundation is next door.",
+        "quando": "Morning.",
+        "tempo": "1-1.5 hours",
+        "lat": 24.48239,
+        "lng": 54.35482
+      },
+      {
+        "nome": "Abrahamic Family House",
+        "testo": "Three houses of worship side by side on Saadiyat, a mosque, a church and a synagogue, designed by David Adjaye as three similar volumes of pale stone. All three can be visited, with a route explaining what the three faiths share.",
+        "come": "Taxi to the Saadiyat cultural district; covering clothes.",
+        "quando": "Morning or afternoon, outside prayer times. Hours and bookings on the official site.",
+        "tempo": "1 hour",
+        "lat": 24.53093,
+        "lng": 54.4061,
+        "url": "https://www.abrahamicfamilyhouse.ae/"
       },
       {
         "nome": "Corniche and Heritage Village",
@@ -341,22 +549,80 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Taxi to the Corniche, then on foot or by bike.",
         "quando": "From late afternoon to sunset, when the skyline lights up.",
         "tempo": "2 hours",
-        "costo": "Heritage Village free entry (2026)"
+        "costo": "Heritage Village free entry (2026)",
+        "lat": 24.47324,
+        "lng": 54.34087
+      },
+      {
+        "nome": "Wahat Al Karama",
+        "testo": "The memorial to the Emirates' fallen, right opposite the Grand Mosque: large leaning aluminium slabs and a pool reflecting the domes. Few visit it, and it gives the best view of the mosque lit up.",
+        "come": "On foot or a short taxi ride from the Grand Mosque.",
+        "quando": "After sunset, on leaving the mosque.",
+        "tempo": "30-45 minutes",
+        "lat": 24.41346,
+        "lng": 54.47878
       },
       {
         "nome": "Mina Zayed fish market",
         "testo": "The fish market at the port of Mina Zayed, still open and one of the most authentic spots in the city, next to the area's other long-standing markets. You see fresh Gulf fish just off the boats.",
         "come": "Taxi from the center.",
         "quando": "Early morning or late afternoon.",
+        "tempo": "1 hour",
+        "lat": 24.5253,
+        "lng": 54.37693
+      },
+      {
+        "nome": "Saadiyat Beach",
+        "testo": "A long white-sand beach on the north side of Saadiyat Island, with low protected dunes where turtles nest. There is a public stretch with facilities, besides the resorts.",
+        "come": "Taxi from Abu Dhabi, about 20 minutes from the Corniche.",
+        "quando": "Morning, before the Louvre; swimming from October to April.",
+        "tempo": "2-3 hours",
+        "lat": 24.53167,
+        "lng": 54.44306
+      },
+      {
+        "nome": "Jubail Mangrove Park",
+        "testo": "A wooden boardwalk running into the mangrove forest of Jubail Island, between the centre and Yas. You walk above shallow water among crabs, herons and aerial roots: an hour of nature half an hour from the centre.",
+        "come": "Taxi from the centre or from Yas.",
+        "quando": "Early morning or late afternoon, when it is cooler.",
         "tempo": "1 hour"
+      },
+      {
+        "nome": "Yas Island",
+        "testo": "The island of theme parks and sport: Ferrari World with its roller coasters, Warner Bros. World, the water park and the Yas Marina Circuit, where the Formula 1 Grand Prix is held in early December.",
+        "come": "Taxi, about 30 minutes from the centre; close to the airport.",
+        "quando": "A full day if you go into the parks; the evening for the marina.",
+        "tempo": "Half a day to a full day",
+        "lat": 24.4838,
+        "lng": 54.607,
+        "url": "https://www.yasisland.com/"
       }
     ],
     programmi: [
       {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Qasr Al Hosn and the centre",
+          "Midday and afternoon: Louvre Abu Dhabi on Saadiyat Island",
+          "Late afternoon: Sheikh Zayed Grand Mosque until the lights come on",
+          "Evening: Wahat Al Karama for the view of the mosque, dinner on the Corniche"
+        ]
+      },
+      {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Grand Mosque in late afternoon, dinner on the Corniche",
-          "Day 2: Qasr Al Watan in the morning, Louvre Abu Dhabi in the evening"
+          "Day 1: as in the one-day plan",
+          "Day 2, morning: Qasr Al Watan",
+          "Day 2, afternoon: Zayed National Museum and Abrahamic Family House on Saadiyat, then the beach",
+          "Day 2, evening: Heritage Village and Mina Zayed fish market"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2: as above",
+          "Day 3: day trip to Al Ain, the UNESCO oasis, or towards Liwa with a night in the desert",
+          "Alternatively, with children or for Formula 1: Yas Island"
         ]
       }
     ],
@@ -364,12 +630,20 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Corniche / center",
         "perChi": "those who want to be in the city",
-        "testo": "Hotels with sea views and restaurants nearby."
+        "testo": "Hotels with sea views and restaurants nearby.",
+        "fascia": "80-200 €"
       },
       {
         "nome": "Saadiyat",
         "perChi": "those who want museums and beach",
-        "testo": "Resorts and the Louvre, more isolated and expensive."
+        "testo": "Resorts and the Louvre, more isolated and expensive.",
+        "fascia": "200-500 €"
+      },
+      {
+        "nome": "Yas Island",
+        "perChi": "those coming for the parks or for Formula 1",
+        "testo": "Modern hotels near the airport and the parks, far from the centre. During the Grand Prix prices rise sharply.",
+        "fascia": "100-250 €"
       }
     ],
     sapori: [
@@ -394,6 +668,52 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Regional tensions: European governments warn of possible flight cancellations and airspace closures at short notice (gov.uk, October 2026). Check your government's travel advice before leaving."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Dubai",
+        "distanza": "about 2 hours by bus, 140 km",
+        "come": "Frequent buses, taxi or car with driver.",
+        "testo": "The creek by abra, the Deira souqs, Al Fahidi and the Burj Khalifa at sunset fit into one day (there is a dedicated page)."
+      },
+      {
+        "nome": "Al Ain",
+        "distanza": "about 1h30 by car",
+        "come": "Rental car or driver for the day.",
+        "testo": "The UNESCO oasis with over 147,000 palms watered by the falaj, Al Jahili fort and the Jebel Hafeet road for sunset."
+      },
+      {
+        "nome": "Liwa and the Moreeb dunes",
+        "distanza": "about 2 hours by car",
+        "come": "Car or transfer; on the dunes only by 4x4 with an experienced driver.",
+        "testo": "The edge of the Rub' al-Khali, with some of the highest dunes in the world. Better with a night in the desert than as a day trip."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Abu Dhabi?",
+        "risposta": "One full day for the Grand Mosque and the Louvre, two to add Qasr Al Watan, the Zayed National Museum and the Corniche. The third is for Al Ain or Liwa."
+      },
+      {
+        "domanda": "Do you need to book the Grand Mosque?",
+        "risposta": "Yes: visitors must book an online pass on the official site, with a time slot. On Friday mornings and at midday the hours for non-Muslims are reduced."
+      },
+      {
+        "domanda": "What to wear to the Grand Mosque?",
+        "risposta": "Arms and legs covered for everyone, loose and non-transparent clothes, head covered for women. Arrive already dressed correctly to avoid the queue for loan abayas."
+      },
+      {
+        "domanda": "Can you visit Abu Dhabi as a day trip from Dubai?",
+        "risposta": "Yes, with two hours by bus each way, but you only see the essentials. Staying a night lets you see the mosque at sunset calmly and the Louvre the next morning."
+      },
+      {
+        "domanda": "Is the Louvre Abu Dhabi open every day?",
+        "risposta": "No, it is closed on Mondays. On other days it opens at 10am and closes at 6.30pm or 8.30pm depending on the day; tickets are sold online."
+      },
+      {
+        "domanda": "How does the free Etihad stopover work?",
+        "risposta": "You add it while booking a return ticket on the Etihad site with a stop of at least 24 hours, and it gives one or two hotel nights; the hotel must be booked a few days before the flight. Conditions change: check them first."
+      }
+    ],
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "The skyscrapers of Abu Dhabi's waterfront seen from the sea, with a sailboat",

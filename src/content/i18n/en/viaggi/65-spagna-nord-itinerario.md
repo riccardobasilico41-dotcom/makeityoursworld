@@ -17,7 +17,7 @@ The common thread, besides the Atlantic coast, is food: the Basque pintxo in San
 - **When to go:** **June-September**, the driest window and the one with the highest temperatures of the year (still mild, rarely above 25-27°C). It is the opposite of Andalusia, where the same season is best avoided because of the heat: here it is the time when it rains least.
 - **The Atlantic climate:** even in the best window it rains more often than in the rest of Spain, so a light rain jacket should always be packed, in every season.
 - **Pintxos and txikiteo:** in San Sebastián and Bilbao the serious meal is eaten going from bar to bar, one pintxo and a glass of txakoli or cider per place. The unwritten rule: you eat standing at the bar, you pick up the pintxo with your hands, and you pay at the end by telling the bartender what you had (see the dedicated experience page).
-- **Guggenheim Bilbao:** closed almost every Monday; in summer the opening is sometimes extended, so it's worth checking the calendar. Ticket €18 from mid-June to mid-September, €15 the rest of the year.
+- **Guggenheim Bilbao:** closed almost every Monday; in summer the opening is sometimes extended, so it's worth checking the calendar. Ticket €12 (official site, 2026); it used to be €18 in summer and €15 the rest of the year.
 - **Camino del Norte:** about 825-865 km from Irún to Santiago de Compostela, through the Basque Country (~175 km), Cantabria (~170 km), Asturias (~280 km) and Galicia (~220 km). It is more demanding and less equipped than the Camino Francés, with exposed coastal stretches.
 - **Santiago, the Compostela:** to get the official pilgrimage certificate you must have walked at least the last 100 km (200 by bike), with your credentials stamped along the way.
 - **Car:** essential for this itinerary, which follows the coast for hundreds of km, touching small towns poorly connected by public transport.
@@ -58,7 +58,7 @@ The afternoon in the **Ensanche**, the bourgeois nineteenth-century Bilbao, and 
 
 In the afternoon you can also detour to the **Puente de Vizcaya** in Portugalete, the oldest transporter bridge in the world, a UNESCO World Heritage site. Since 1893 a suspended gondola has carried cars and people from one bank to the other; those who want can climb to the walkway at the top, above the estuary.
 
-**In practice:** Guggenheim about €18 in summer and €15 the rest of the year, closed almost every Monday · Puente de Vizcaya about 20 minutes by metro from the center, gondola crossing cheap, walkway on a separate ticket · the Bilbao metro is the easiest way to get around.
+**In practice:** Guggenheim €12 (official site, 2026), closed almost every Monday · Puente de Vizcaya about 20 minutes by metro from the center, gondola crossing cheap, walkway on a separate ticket · the Bilbao metro is the easiest way to get around.
 
 ### Day 5 — From Bilbao to Cantabria: Santander and Santillana del Mar
 By car toward **Cantabria** (about 1h30-2h to Santander), with a stop at **Santillana del Mar**, one of the best-preserved medieval villages in Spain, near the famous Altamira caves: the originals are closed to the public for protection, but you can visit the Neocueva, the official replica. Go to Santillana first, in the morning, when the village's two cobbled streets are still quiet: at the end stands the Romanesque **Collegiate Church of Santa Juliana**, with its carved cloister capitals.

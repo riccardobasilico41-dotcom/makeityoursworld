@@ -1092,13 +1092,13 @@ export const destinazioniFrancia: Destinazione[] = [
     doveMangiare:
       "Normandía es una región de **mantequilla, nata y manzanas**, y la cocina lo dice enseguida: aquí el aceite y el vino cuentan poco. **Camembert, livarot, pont-l'évêque y neufchâtel** son cuatro quesos con denominación nacidos todos aquí. La **sidra** se bebe en todas las comidas en cuenco, el **pommeau** es el aperitivo local y el **calvados** es el destilado de sidra, servido por tradición a mitad de comida como «trou normand» para reabrir el estómago. Luego **ostras y mejillones**, las **vieiras**, que tienen una temporada precisa (aproximadamente de octubre a mayo), el **cordero de pré-salé** criado en las praderas salobres de la bahía del Mont-Saint-Michel, y la **teurgoule**, un arroz con leche cocido en el horno durante horas.",
     comeArrivare:
-      "En tren desde París se llega a Ruan, Caen y Bayeux en pocas horas. **Para las playas del desembarco y para el interior hace falta coche**: las distancias son cortas, pero los sitios están dispersos y el transporte público no los conecta. Al Mont-Saint-Michel se llega en tren más autobús lanzadera o en coche, con aparcamiento obligatorio en tierra firme.",
+      "Casi todos los vuelos llegan a París Charles de Gaulle, a unas dos horas en coche de Rouen: lo más práctico es recoger allí el coche de alquiler. Sin coche: RER B hasta Gare du Nord (unos 35 minutos, unos 13 €), metro hasta Saint-Lazare y tren a Rouen en 1h15-1h30; de Saint-Lazare salen también los trenes a Caen y Bayeux. **Para las playas del desembarco y el interior hace falta coche**: los sitios están dispersos y el transporte público no los une. Del 16 de noviembre de 2026 a agosto de 2027 un tramo de la autopista A13 París-Normandía está cerrado: conviene comprobar los desvíos antes de salir. En el Mont-Saint-Michel el coche se deja en los aparcamientos de pago en tierra firme y se sigue en la lanzadera gratuita (de 7:30 a medianoche) o a pie.",
     comeSpostarsi:
       "**Coche**, sin verdaderas alternativas. Las carreteras son buenas y las distancias contenidas: toda la franja de las playas del desembarco cabe en unos cincuenta kilómetros. Desde Bayeux y Caen salen también tours guiados de un día, que en el frente del desembarco tienen una ventaja real: el relato es la mitad de la visita.",
     periodoMigliore:
       "**de mayo a septiembre**, y los mejores meses son junio y septiembre. **El tiempo sigue siendo una variable en todos los meses**: llueve en todas las estaciones y el tiempo cambia en el espacio de una hora. En torno al **6 de junio**, aniversario del desembarco, hay conmemoraciones importantes y la zona está abarrotada: es el momento más intenso y el más difícil de organizar. El invierno es gris y ventoso, y muchos establecimientos de la costa cierran.",
     costi:
-      "En la media francesa, más bajos que en la Costa Azul y en París. En los lugares del desembarco se entra casi siempre **gratis**: cementerios, Pointe du Hoc y baterías no se pagan, mientras que los museos y el Mémorial tienen entradas contenidas. La partida que sorprende es el autobús lanzadera más el aparcamiento en el Mont-Saint-Michel.",
+      "En la media francesa, más bajos que en la Costa Azul y en París. En los lugares del desembarco casi siempre se entra **gratis**: cementerios, Pointe du Hoc y baterías no se pagan, y los museos cuestan 10-21 € (Utah Beach 10 €, Arromanches 12,90 €, Mémorial de Caen 20,80 €). La abadía del Mont-Saint-Michel cuesta 13 €, Giverny 13 €. Lo que sorprende es el aparcamiento del Mont-Saint-Michel. Presupuesto orientativo por persona y día, compartiendo habitación doble y sin contar el coche: bajo 70-90 €, medio 120-160 €, alto más de 250 €.",
     erroriDaEvitare: [
       "Ir a las playas del desembarco sin contexto: **el Mémorial de Caen o un museo hay que verlos antes**, si no se miran unas playas cualquiera",
       "Intentar ver los cinco sectores del desembarco en un día: se ven bien dos o tres",
@@ -1188,99 +1188,237 @@ export const destinazioniFrancia: Destinazione[] = [
       "De las playas del desembarco me descolocó lo normales que son. Omaha Beach, en un día de viento, es una playa anchísima de arena clara, con algún bañista y algún perro. En el paisaje no hay nada dramático, y es justo eso lo que la hace difícil de soportar: miras esa extensión plana, piensas en lo que significaba cruzarla corriendo bajo el fuego de las posiciones del talud, y entiendes que no hay nada que ver porque el problema era la geografía. Luego se sube a la Pointe du Hoc, donde el terreno se ha quedado como estaba, con los cráteres de las bombas unos dentro de otros y los búnkeres partidos, y allí el efecto es el opuesto e inmediato. El orden correcto es este: primero un museo que explique, luego las playas. Al revés solo se mira el mar. El Mont-Saint-Michel es la otra cara de la región, y su problema son los horarios más que la multitud. A las once de la mañana la calle principal es una fila en cuesta entre las tiendas de recuerdos; a las siete de la tarde está vacía, con el viento y el ruido del agua. Quien pasa media jornada en las horas centrales vuelve diciendo que está sobrevalorado, pero ha visto otro lugar.",
     luoghi: [
       {
-        nome: "Playas del desembarco y cementerio americano",
-        testo: "Utah, Omaha, Gold, Juno y Sword fueron las cinco playas del desembarco del 6 de junio de 1944. Sobre Omaha, en Colleville-sur-Mer, está el cementerio americano, con casi 9.400 tumbas.",
-        come: "En coche desde Bayeux. El cementerio es gratuito y se visita por libre. El centro de visitantes está al lado.",
-        quando: "Por la mañana, con menos grupos.",
-        tempo: "3-4 horas",
-        consiglio: "En los días de más afluencia el cementerio ha tenido que rechazar visitantes: en 2026 está previsto un sistema de reserva, comprobarlo en la web de la ABMC."
+        "nome": "Playas del desembarco y cementerio americano",
+        "testo": "Utah, Omaha, Gold, Juno y Sword fueron las cinco playas del desembarco del 6 de junio de 1944. Sobre Omaha, en Colleville-sur-Mer, está el cementerio americano, con casi 9.400 tumbas.",
+        "come": "En coche desde Bayeux. El cementerio es gratuito y se visita por libre. El centro de visitantes está al lado.",
+        "quando": "Por la mañana, con menos grupos.",
+        "tempo": "3-4 horas",
+        "consiglio": "La ABMC prevé una reserva gratuita obligatoria para las visitas a partir del verano de 2027: hay que mirar su web antes de ir. El sendero del cementerio a la playa está cerrado desde 2016; a Omaha se baja por los accesos públicos cercanos.",
+        "costo": "gratis",
+        "orari": "Cementerio abierto todos los días de 9 a 17 (última entrada 16:30), cerrado el 25 de diciembre y el 1 de enero. La arriada de bandera es una hora antes del cierre.",
+        "lat": 49.36028,
+        "lng": -0.85722,
+        "url": "https://www.abmc.gov/normandy"
       },
       {
-        nome: "Pointe du Hoc",
-        testo: "Un acantilado donde los Rangers estadounidenses escalaron las paredes el 6 de junio de 1944. El terreno aún está marcado por cráteres y búnkeres alemanes.",
-        come: "En coche, poco al oeste de Omaha. Se camina por la hierba entre los cráteres.",
-        quando: "Por la mañana.",
-        tempo: "1 hora",
-        consiglio: "Respetar las vallas: los acantilados se desprenden."
+        "nome": "Pointe du Hoc",
+        "testo": "Un acantilado donde los Rangers estadounidenses escalaron las paredes el 6 de junio de 1944. El terreno aún está marcado por cráteres y búnkeres alemanes.",
+        "come": "En coche, poco al oeste de Omaha. Se camina por la hierba entre los cráteres.",
+        "quando": "Por la mañana.",
+        "tempo": "1 hora",
+        "consiglio": "Respetar las vallas: los acantilados se desprenden.",
+        "costo": "gratis",
+        "orari": "Centro de visitantes abierto todos los días: 9-17 de abril a septiembre, 9-12:30 y 13:30-17 de octubre a marzo.",
+        "lat": 49.39786,
+        "lng": -0.98939,
+        "url": "https://www.abmc.gov/plan/plan-your-visit-to-pointe-du-hoc/"
       },
       {
-        nome: "Mémorial de Caen",
-        testo: "El museo que encuadra la guerra de 1918 a la Guerra Fría, en un edificio nuevo sobre los búnkeres alemanes de Caen. Conviene verlo antes de las playas, para entenderlas.",
-        come: "En coche o autobús desde el centro de Caen.",
-        quando: "De abril a septiembre todos los días de 9 a 19. Cierra unas tres semanas en enero por mantenimiento, el 25 de diciembre y el 1 de enero, y algunos miércoles de noviembre y diciembre.",
-        tempo: "3 horas",
-        costo: "20,80 € entrada general (2026); gratis para menores de 10 años.",
-        consiglio: "Si hay poco tiempo, ver solo las secciones de la Segunda Guerra Mundial."
+        "nome": "Mémorial de Caen",
+        "testo": "El museo que encuadra la guerra de 1918 a la Guerra Fría, en un edificio nuevo sobre los búnkeres alemanes de Caen. Conviene verlo antes de las playas, para entenderlas.",
+        "come": "En coche o autobús desde el centro de Caen.",
+        "quando": "De abril a septiembre todos los días de 9 a 19. Cierra unas tres semanas en enero por mantenimiento, el 25 de diciembre y el 1 de enero, y algunos miércoles de noviembre y diciembre.",
+        "tempo": "3 horas",
+        "costo": "20,80 € entrada general (2026); gratis para menores de 10 años.",
+        "consiglio": "Si hay poco tiempo, ver solo las secciones de la Segunda Guerra Mundial.",
+        "orari": "De abril a septiembre todos los días de 9 a 19, en invierno horario más corto. Cerrado unas tres semanas en enero, el 25 de diciembre y el 1 de enero.",
+        "lat": 49.19744,
+        "lng": -0.38414,
+        "url": "https://www.memorial-caen.fr/"
       },
       {
-        nome: "Tapiz de Bayeux (ahora en Londres)",
-        testo: "Setenta metros de bordado del siglo XI sobre la conquista normanda de Inglaterra en 1066, en el registro Memoria del Mundo de la UNESCO. Muestra a Guillermo, Harold y el cometa Halley.",
-        come: "El museo de Bayeux está cerrado desde el 1 de septiembre de 2025 por las obras del nuevo museo. El tapiz se expone en el Museo Británico de Londres del 10 de septiembre de 2026 al 11 de julio de 2027.",
-        quando: "En Bayeux no se puede ver hasta la reapertura, prevista para finales de 2027. En Londres las entradas se agotan pronto: reservar en la web del Museo Británico.",
-        tempo: "1 hora",
-        url: "https://www.bayeuxmuseum.com/",
-        consiglio: "En Bayeux quedan la catedral normanda y el centro librado de los bombardeos: merecen la parada igualmente."
+        "nome": "Tapiz de Bayeux (ahora en Londres)",
+        "testo": "Setenta metros de bordado del siglo XI sobre la conquista normanda de Inglaterra en 1066, en el registro Memoria del Mundo de la UNESCO. Muestra a Guillermo, Harold y el cometa Halley.",
+        "come": "El museo de Bayeux está cerrado desde el 1 de septiembre de 2025 por las obras del nuevo museo. El tapiz se expone en el Museo Británico de Londres del 10 de septiembre de 2026 al 11 de julio de 2027.",
+        "quando": "En Bayeux no se puede ver hasta la reapertura, prevista para finales de 2027. En Londres las entradas se agotan pronto: reservar en la web del Museo Británico.",
+        "tempo": "1 hora",
+        "url": "https://www.bayeuxmuseum.com/",
+        "consiglio": "En Bayeux quedan la catedral normanda y el centro librado de los bombardeos: merecen la parada igualmente.",
+        "orari": "El museo de Bayeux está cerrado por obras hasta la reapertura prevista a finales de 2027.",
+        "lat": 49.2744,
+        "lng": -0.70028
       },
       {
-        nome: "Mont-Saint-Michel",
-        testo: "Una isla con abadía benedictina en lo alto, rodeada de mareas con una amplitud de unos 14 metros. El pueblo de abajo es una sola calle de tiendas. Patrimonio UNESCO desde 1979.",
-        come: "Aparcamiento en tierra firme, a unos 2,5 km, luego a pie o en lanzadera hasta la pasarela.",
-        quando: "Amanecer o atardecer. Marea alta en luna nueva y llena: consultar las tablas.",
-        tempo: "media jornada",
-        costo: "Abadía 13 € (2026); gratis para menores de 18 y residentes UE menores de 26. El pueblo es libre.",
-        url: "https://www.abbaye-mont-saint-michel.fr/",
-        consiglio: "Subir a la abadía por las salas y terrazas, no por las tiendas."
+        "nome": "Mont-Saint-Michel",
+        "testo": "Una isla con abadía benedictina en lo alto, rodeada de mareas con una amplitud de unos 14 metros. El pueblo de abajo es una sola calle de tiendas. Patrimonio UNESCO desde 1979.",
+        "come": "Aparcamiento en tierra firme, a unos 2,5 km, luego a pie o en lanzadera hasta la pasarela.",
+        "quando": "Amanecer o atardecer. Marea alta en luna nueva y llena: consultar las tablas.",
+        "tempo": "media jornada",
+        "costo": "Abadía 13 € (2026); gratis para menores de 18 y residentes UE menores de 26. El pueblo es libre.",
+        "url": "https://www.abbaye-mont-saint-michel.fr/",
+        "consiglio": "Subir a la abadía por las salas y terrazas, no por las tiendas.",
+        "orari": "Abadía: 9-19 del 1 de mayo al 31 de agosto, 9:30-18 del 1 de septiembre al 30 de abril, última entrada una hora antes. Cerrada el 1 de enero, el 1 de mayo y el 25 de diciembre. El pueblo es siempre accesible.",
+        "lat": 48.63583,
+        "lng": -1.51139
       },
       {
-        nome: "Étretat y Honfleur",
-        testo: "Étretat: acantilados de tiza con tres arcos y una aguja de roca, con senderos arriba. Honfleur: un puerto viejo con casas altas y estrechas y la iglesia de Sainte-Catherine, toda de madera.",
-        come: "En coche o autobús; conviene dedicar medio día a cada uno.",
-        quando: "Étretat al atardecer; Honfleur por la mañana.",
-        tempo: "media jornada cada uno",
-        consiglio: "El sendero en lo alto de los acantilados de Étretat tiene viento fuerte: mantener distancia del borde."
+        "nome": "Étretat y Honfleur",
+        "testo": "Étretat: acantilados de tiza con tres arcos y una aguja de roca, con senderos arriba. Honfleur: un puerto viejo con casas altas y estrechas y la iglesia de Sainte-Catherine, toda de madera.",
+        "come": "En coche o autobús; conviene dedicar medio día a cada uno.",
+        "quando": "Étretat al atardecer; Honfleur por la mañana.",
+        "tempo": "media jornada cada uno",
+        "consiglio": "El sendero en lo alto de los acantilados de Étretat tiene viento fuerte: mantener distancia del borde.",
+        "costo": "gratis (acantilados e iglesia de Sainte-Catherine)",
+        "lat": 49.70734,
+        "lng": 0.19354
+      },
+      {
+        "nome": "Arromanches y el puerto artificial",
+        "testo": "Frente a Arromanches siguen en el mar los cajones de hormigón del puerto artificial Mulberry, construido por los Aliados en junio de 1944 para desembarcar hombres y vehículos sin un puerto de verdad. El Musée du Débarquement, en el paseo marítimo, fue el primer museo dedicado al desembarco y explica con maquetas y películas cómo funcionaba.",
+        "come": "En coche, un cuarto de hora desde Bayeux; aparcamientos de pago en el pueblo. Las entradas solo se venden en la taquilla del museo, que cierra 45 minutos antes que el museo; la audioguía está incluida.",
+        "quando": "Con la marea baja los cajones se ven mejor. Para la vista de conjunto conviene subir también a la colina al este del pueblo.",
+        "tempo": "1 hora y media",
+        "costo": "12,90 € adultos, 8,30 € de 6 a 18 años (2026)",
+        "orari": "2026: 9:30-17:30 en marzo y octubre, 9-18 en abril y septiembre, 9-19 de mayo a agosto, 10-17 en febrero, noviembre y diciembre; los domingos abre a las 10, salvo en verano. Cerrado en enero y el 24, 25 y 31 de diciembre.",
+        "lat": 49.34021,
+        "lng": -0.62103,
+        "url": "https://www.musee-arromanches.fr/"
+      },
+      {
+        "nome": "Batería de Longues-sur-Mer",
+        "testo": "La única batería costera del Muro Atlántico en Normandía que conserva los cañones en las casamatas: cuatro piezas de 150 mm, entre Omaha y Gold. Al borde del acantilado está el puesto de mando desde el que se dirigía el tiro.",
+        "come": "En coche, 10 minutos desde Bayeux. El sitio está al aire libre y se recorre por libre.",
+        "quando": "A cualquier hora; al atardecer la luz sobre el acantilado es la más bonita.",
+        "tempo": "45 minutos",
+        "costo": "gratis",
+        "lat": 49.34469,
+        "lng": -0.69484
+      },
+      {
+        "nome": "Catedral de Bayeux",
+        "testo": "Catedral románica y gótica consagrada en 1077 en presencia de Guillermo el Conquistador: según la tradición, el tapiz se bordó para exponerlo en esta nave. Bajo el coro está la cripta del siglo XI con frescos de ángeles músicos.",
+        "come": "A pie desde el centro de Bayeux, que se salvó de los bombardeos de 1944.",
+        "quando": "Por la mañana, y luego un paseo junto al río Aure y por las calles del centro.",
+        "tempo": "45 minutos",
+        "costo": "entrada libre",
+        "lat": 49.27556,
+        "lng": -0.70333
+      },
+      {
+        "nome": "Catedral de Rouen",
+        "testo": "La fachada gótica que Monet pintó una treintena de veces con luces distintas. Su aguja de hierro fundido, de 151 metros, es la más alta de Francia; dentro está la tumba con el corazón de Ricardo Corazón de León.",
+        "come": "A unos 15 minutos a pie de la estación de Rouen Rive-Droite. Entrada libre fuera de los oficios.",
+        "quando": "Por la mañana o a última hora de la tarde, cuando la luz cambia sobre la fachada como en los cuadros.",
+        "tempo": "45 minutos",
+        "costo": "entrada libre",
+        "orari": "Lunes 14-18; de martes a sábado 9-12 y 14-18; domingos y festivos 8-18.",
+        "lat": 49.44027,
+        "lng": 1.09472,
+        "url": "https://www.cathedrale-rouen.net/"
+      },
+      {
+        "nome": "Gros-Horloge y centro de Rouen",
+        "testo": "El reloj astronómico renacentista montado sobre un arco encima de la calle principal, entre casas de entramado de madera. Se sube a la torre para ver el mecanismo y los tejados; a pocos minutos está la Place du Vieux-Marché, donde quemaron a Juana de Arco en 1431.",
+        "come": "A pie desde la catedral por la rue du Gros-Horloge.",
+        "quando": "Por la mañana, antes de los grupos; luego comida en torno al Vieux-Marché.",
+        "tempo": "1 hora",
+        "costo": "unos 8 € (subida y museo)",
+        "lat": 49.44156,
+        "lng": 1.09118
+      },
+      {
+        "nome": "Giverny, casa y jardines de Monet",
+        "testo": "La casa donde Claude Monet vivió de 1883 a 1926 y los jardines que pintó durante treinta años: el Clos Normand lleno de flores delante de la casa y, al otro lado de la carretera, el jardín de agua con los nenúfares y el puente japonés. 2026 es el año del centenario de la muerte del pintor.",
+        "come": "Tren de París Saint-Lazare a Vernon-Giverny, luego lanzadera, bici o 5 km a pie; en coche, una hora desde Rouen.",
+        "quando": "Mayo y junio para glicinias, rosas y nenúfares. A la apertura, antes de los autocares.",
+        "tempo": "2 horas",
+        "costo": "13 € adultos, 7 € de 7 a 17 años (2026)",
+        "orari": "Del 1 de abril al 1 de noviembre, todos los días de 10 a 18 (última entrada 17:30). Cerrado de noviembre a marzo.",
+        "lat": 49.07536,
+        "lng": 1.53375,
+        "url": "https://claudemonetgiverny.fr/",
+        "consiglio": "Comprar la entrada online: en temporada alta la cola en taquilla es larga."
+      },
+      {
+        "nome": "Museo del Desembarco de Utah Beach",
+        "testo": "El museo está en la playa más occidental del desembarco, donde el 6 de junio de 1944 llegaron más de 23.000 soldados estadounidenses. Cuenta la jornada en orden cronológico y termina en un hangar con un bombardero B-26 original.",
+        "come": "En coche, una hora desde Bayeux. La playa está delante del museo.",
+        "quando": "Junto con la Pointe du Hoc en el mismo día.",
+        "tempo": "1 hora y media",
+        "costo": "10 € adultos (2026)",
+        "orari": "Todos los días: 10-18 de octubre a abril, 9:30-19 de mayo a septiembre; taquilla hasta una hora antes del cierre.",
+        "lat": 49.41536,
+        "lng": -1.17463,
+        "url": "https://www.utah-beach.com/"
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Playas del desembarco y cementerio americano",
-          "Pointe du Hoc",
-          "Comida en Bayeux",
-          "Catedral y centro de Bayeux"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Musée du Débarquement de Arromanches y los cajones del puerto artificial",
+          "Media mañana: batería de Longues-sur-Mer",
+          "Primera hora de la tarde: cementerio americano de Colleville y Omaha Beach",
+          "Tarde: Pointe du Hoc",
+          "Noche: catedral y centro de Bayeux"
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: Mémorial de Caen, playas del desembarco",
-          "Día 2: Mont-Saint-Michel"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Mémorial de Caen por la mañana, luego Arromanches y la batería de Longues-sur-Mer; noche en Bayeux",
+          "Día 2: cementerio americano y Omaha Beach a la apertura, Pointe du Hoc, museo de Utah Beach por la tarde"
         ]
       },
       {
-        titolo: "3 días",
-        tappe: [
-          "Día 1: Mémorial y playas",
-          "Día 2: Bayeux y Mont-Saint-Michel",
-          "Día 3: Honfleur y Étretat"
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como en el plan de dos días",
+          "Día 3: en coche al Mont-Saint-Michel (unas dos horas desde Bayeux), abadía a última hora de la tarde, la bahía al atardecer y noche en un pueblo cercano"
+        ]
+      },
+      {
+        "titolo": "5 días",
+        "tappe": [
+          "Día 1: Rouen (catedral, Gros-Horloge, Vieux-Marché) y Giverny por la tarde, de abril a octubre",
+          "Día 2: Étretat por la mañana, el sendero sobre los acantilados, Honfleur por la tarde",
+          "Día 3: Mémorial de Caen, Arromanches, Longues-sur-Mer; noche en Bayeux",
+          "Día 4: Omaha Beach y el cementerio americano, Pointe du Hoc, Utah Beach",
+          "Día 5: Mont-Saint-Michel, por la tarde-noche y otra vez al amanecer"
         ]
       }
     ],
     zone: [
       {
-        nome: "Bayeux",
-        perChi: "para las playas",
-        testo: "Pequeña ciudad intacta, cerca de las playas, con hoteles y restaurantes."
+        "nome": "Bayeux",
+        "perChi": "para las playas",
+        "testo": "Pequeña ciudad intacta, cerca de las playas, con hoteles y restaurantes.",
+        "fascia": "80-160 €"
       },
       {
-        nome: "Caen",
-        perChi: "para ciudad y museos",
-        testo: "Más grande, más cara y con más servicios."
+        "nome": "Caen",
+        "perChi": "para ciudad y museos",
+        "testo": "Más grande, más cara y con más servicios."
       },
       {
-        nome: "Cerca del Mont-Saint-Michel",
-        perChi: "para ver el amanecer",
-        testo: "Casas de campo y pequeños hoteles a pocos km, útiles para evitar las horas de autocares."
+        "nome": "Cerca del Mont-Saint-Michel",
+        "perChi": "para ver el amanecer",
+        "testo": "Casas de campo y pequeños hoteles a pocos km, útiles para evitar las horas de autocares."
+      },
+      {
+        "nome": "Rouen",
+        "perChi": "quien llega en tren desde París",
+        "testo": "Una ciudad de verdad, con estación, hoteles de todos los niveles y la catedral a pie. Base cómoda para Giverny y Étretat antes de bajar hacia las playas."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Saint-Malo",
+        "distanza": "unos 55 km desde el Mont-Saint-Michel, una hora en coche",
+        "come": "En coche; se deja en los aparcamientos fuera de las murallas.",
+        "testo": "La ciudad de los corsarios, cerrada en sus murallas sobre el mar. Con la marea baja se llega a pie al islote del Grand Bé: los horarios del paso dependen de la marea y están indicados al principio de la pasarela."
+      },
+      {
+        "nome": "Le Havre",
+        "distanza": "unos 30 km desde Étretat, 35 minutos en coche",
+        "come": "En coche, o en tren directo desde Rouen.",
+        "testo": "La ciudad reconstruida en hormigón por Auguste Perret tras los bombardeos de 1944, Patrimonio de la Humanidad desde 2005. La iglesia de Saint-Joseph, con su torre de 107 metros y las vidrieras de colores, sorprende incluso a quien no aprecia la arquitectura moderna."
+      },
+      {
+        "nome": "Deauville y Trouville",
+        "distanza": "unos 55 km desde Caen, entre 45 minutos y una hora en coche",
+        "come": "En coche, o en tren desde París Saint-Lazare hasta la estación común Trouville-Deauville.",
+        "testo": "Las dos localidades balnearias de la Côte Fleurie, separadas solo por el río Touques: Deauville con las Planches, la pasarela de madera sobre la playa, y Trouville con su mercado de pescado y los restaurantes del puerto."
       }
     ],
     sapori: [
@@ -1305,6 +1443,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "En fines de semana de verano el Mont-Saint-Michel está lleno: ir al amanecer o después de las 17.",
       "Las mareas de la bahía son rápidas: no caminar por las arenas sin guía.",
       "Los búnkeres y dunas de las playas son lugares de memoria: no subirse a los restos."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Normandía?",
+        "risposta": "Dos días bastan para las playas del desembarco con el Mémorial de Caen, tres si se añade el Mont-Saint-Michel. Con cinco días se ven también Rouen, Giverny, Étretat y Honfleur sin prisas."
+      },
+      {
+        "domanda": "¿Cuál es la mejor base para las playas del desembarco?",
+        "risposta": "Bayeux: es pequeña, tiene hoteles y restaurantes y está a menos de media hora de Omaha, Gold y Arromanches. Caen tiene más servicios y el Mémorial, pero queda más lejos de Utah Beach y de la Pointe du Hoc."
+      },
+      {
+        "domanda": "¿Se pueden visitar las playas del desembarco sin coche?",
+        "risposta": "Solo con una excursión organizada: desde Bayeux y Caen salen tours guiados de un día. Los trenes llegan a Caen y Bayeux, pero los sitios de la costa no tienen transporte regular."
+      },
+      {
+        "domanda": "¿Hay que reservar el cementerio americano de Colleville?",
+        "risposta": "Hoy no: es gratuito y abre todos los días de 9 a 17. La ABMC prevé una reserva gratuita obligatoria a partir del verano de 2027, que conviene comprobar en su web."
+      },
+      {
+        "domanda": "¿Dónde se puede ver el Tapiz de Bayeux?",
+        "risposta": "Hasta el 11 de julio de 2027 está expuesto en el British Museum de Londres. El museo de Bayeux está cerrado por obras y debería reabrir a finales de 2027."
+      },
+      {
+        "domanda": "¿Cuándo conviene ir al Mont-Saint-Michel?",
+        "risposta": "Por la tarde-noche o al amanecer, fuera de las horas de los autocares, y si es posible en un día de gran marea. La abadía cuesta 13 € y abre todo el año salvo el 1 de enero, el 1 de mayo y el 25 de diciembre."
+      }
     ],
     esperienzeSlugs: ['spiagge-sbarco', 'mont-saint-michel', 'arazzo-bayeux', 'giverny'],
     tripSlugs: ['normandia-bretagna'],
@@ -1556,13 +1720,13 @@ export const destinazioniFrancia: Destinazione[] = [
     doveMangiare:
       "Cocina de río y de huerta: **rillettes** y **rillons** de cerdo, el **beurre blanc** (una salsa de mantequilla, chalota y vino blanco nacida por estas tierras), pescado de agua dulce, **quesos de cabra** con denominación como Sainte-Maure-de-Touraine, Selles-sur-Cher y Crottin de Chavignol, y la **tarte Tatin**, nacida en el Loiret. Los vinos del valle están entre los más variados de Francia: **Sancerre y Pouilly-Fumé** de Sauvignon, **Vouvray y Montlouis** de Chenin, **Chinon, Bourgueil y Saumur-Champigny** de Cabernet Franc, y el **Muscadet** en la desembocadura.",
     comeArrivare:
-      "En tren desde París se llega a Tours, Blois, Amboise y Orléans en una hora o poco más. **Las estaciones más útiles son Blois y Amboise.** El coche es cómodo, pero en temporada alta los aparcamientos de los castillos principales se llenan pronto.",
+      "Casi siempre se llega a París Charles de Gaulle u Orly. Conviene el coche de alquiler recogido en el aeropuerto: Blois y Amboise están a unas dos horas y media por autopista. En tren, desde CDG salen TGV directos a Saint-Pierre-des-Corps, junto a Tours, en 1h40-2h (precios variables en SNCF Connect); si no, RER B desde CDG o metro 14 desde Orly con el billete Paris Région-Aéroports (unos 14 €) y desde París-Austerlitz trenes a Blois en 1h30. **Las estaciones más útiles son Blois, Amboise y Tours.** En temporada alta los aparcamientos de los castillos principales se llenan pronto.",
     comeSpostarsi:
       "**Casi todos usan el coche, pero la opción correcta es la bicicleta.** El valle es llano, a lo largo de todo el río hay un itinerario ciclable señalizado con alquileres de ida entre una ciudad y otra, y los castillos distan diez o veinte kilómetros unos de otros: este paisaje hay que atravesarlo pedaleando a lo largo del Loira. Hay también lanzaderas estacionales entre los castillos principales y las estaciones; **periodos y recorridos cambian, conviene comprobarlos antes**.",
     periodoMigliore:
       "**de abril a junio y en septiembre-octubre.** Los **jardines**, Villandry sobre todo y el festival de Chaumont, dan lo mejor de sí de mayo a septiembre. Julio y agosto están concurridos en los castillos principales, mientras que los menores siguen tranquilos. El invierno es frío y muchos castillos reducen los horarios o cierran: **mejor comprobarlo castillo por castillo**.",
     costi:
-      "Cada castillo tiene su entrada y la suma pesa: cinco castillos son un gasto real. Existen **entradas combinadas y pases de zona** que compensan a partir de tres o cuatro visitas, pero cambian a menudo y es mejor comprobarlos antes. El alquiler de bici de ida tiene un suplemento, pero evita tener que devolver el vehículo.",
+      "Cada castillo tiene su entrada y la suma pesa: en 2026 van de los 12,50 € de Chinon a los 21 € de Chambord (para visitantes UE/EEE) y de Chaumont, con Chenonceau a 19 € y el Clos Lucé a 20 €. Hay **entradas combinadas y pases de zona** que compensan a partir de tres o cuatro visitas, pero cambian a menudo y conviene comprobarlos antes. El alquiler de bici solo de ida tiene un suplemento, pero evita tener que devolverla al punto de partida. Presupuesto orientativo por persona y día, compartiendo habitación doble: bajo 70-90 €, medio 120-170 €, alto más de 250 €.",
     erroriDaEvitare: [
       "**Ver demasiados.** Después del tercer castillo en dos días ya no se distinguen: cinco en una semana, con calma, valen el triple",
       "Hacer solo los grandes: Chambord y Chenonceau son los más visitados de todos, y en los menores hay una décima parte de la gente",
@@ -1670,93 +1834,223 @@ export const destinazioniFrancia: Destinazione[] = [
       "En el Loira casi todos cometen el mismo error: lo tratan como una lista. Dos castillos el primer día, tres el segundo, y al cuarto se entra en una sala de representación del siglo XVI sin reaccionar ya. Son todos blancos, con ventanas de crucería, chimeneas enormes y cartelitos. El valle funciona de otra manera: un castillo al día, por la mañana, y el resto del tiempo a lo largo del río. Es allí donde se entiende por qué la UNESCO ha inscrito **el paisaje** y no los monumentos. El Loira es el último gran río europeo que queda en gran parte sin canalizar, con los bancos de arena que se desplazan y las islas que cambian, y los castillos están ahí por el río. Lo mejor que se puede hacer es alquilar una bici durante una jornada. El recorrido por el dique es llano, atraviesa pueblos que no tienen castillo y por tanto no tienen a nadie, y se llega al siguiente monumento tras dos horas de pedaleo en lugar de veinte minutos de coche y media hora buscando aparcamiento. El segundo descubrimiento son las bodegas en la toba. La piedra blanca de los castillos se extrajo de la colina de detrás, y esas galerías hoy son bodegas: se baja a doce grados constantes, con las botellas en los nichos, y quien sirve el vino explica que el agujero en el muro es tan viejo como la fachada del castillo de la otra orilla.",
     luoghi: [
       {
-        nome: "Chambord",
-        testo: "El castillo más grande del Loira, construido para Francisco I, con 440 habitaciones y la escalera de doble espiral que muchos estudiosos atribuyen al menos en parte a Leonardo. Lo rodea un parque de más de 5.000 hectáreas cerrado por un muro de 31 km.",
-        come: "En coche desde Blois. Se visita por libre o con audioguía.",
-        quando: "Por la mañana, para los jardines y las terrazas. Cerrado el 1 de enero y el 25 de diciembre.",
-        tempo: "3 horas",
-        costo: "31 € para visitantes de fuera del Espacio Económico Europeo, 21 € para UE/EEE (castillo y jardines, 2026).",
-        url: "https://www.chambord.org/",
-        consiglio: "Subir a las terrazas para ver de cerca las chimeneas y torrecillas."
+        "nome": "Chambord",
+        "testo": "El castillo más grande del Loira, construido para Francisco I, con 440 habitaciones y la escalera de doble espiral que muchos estudiosos atribuyen al menos en parte a Leonardo. Lo rodea un parque de más de 5.000 hectáreas cerrado por un muro de 31 km.",
+        "come": "En coche desde Blois. Se visita por libre o con audioguía.",
+        "quando": "Por la mañana, para los jardines y las terrazas. Cerrado el 1 de enero y el 25 de diciembre.",
+        "tempo": "3 horas",
+        "costo": "31 € para visitantes de fuera del Espacio Económico Europeo, 21 € para UE/EEE (castillo y jardines, 2026).",
+        "url": "https://www.chambord.org/",
+        "consiglio": "Subir a las terrazas para ver de cerca las chimeneas y torrecillas.",
+        "orari": "Todos los días: 9-18 en temporada alta (hasta el 25 de octubre de 2026 y de nuevo desde el 27 de marzo de 2027), 9-17 en temporada baja; cerrado el 25 de diciembre y el 1 de enero. Última entrada 30 minutos antes. Parque y bosque abiertos las 24 horas.",
+        "lat": 47.61611,
+        "lng": 1.51722
       },
       {
-        nome: "Chenonceau",
-        testo: "El castillo sobre el río Cher, con su galería-puente. Lo gestionaron mujeres: Diana de Poitiers y Catalina de Médici.",
-        come: "En coche desde Tours o Amboise.",
-        quando: "Por la mañana; en otoño los jardines tienen colores más fuertes.",
-        tempo: "2-3 horas",
-        costo: "19 € con el folleto-guía, 24 € con la audioguía (web oficial, 2026).",
-        url: "https://www.chenonceau.com/",
-        consiglio: "Dedicar tiempo a los jardines y las cocinas, no solo a la galería."
+        "nome": "Chenonceau",
+        "testo": "El castillo sobre el río Cher, con su galería-puente. Lo gestionaron mujeres: Diana de Poitiers y Catalina de Médici.",
+        "come": "En coche desde Tours o Amboise.",
+        "quando": "Por la mañana; en otoño los jardines tienen colores más fuertes.",
+        "tempo": "2-3 horas",
+        "costo": "19 € con el folleto-guía, 24 € con la audioguía (web oficial, 2026).",
+        "url": "https://www.chenonceau.com/",
+        "consiglio": "Dedicar tiempo a los jardines y las cocinas, no solo a la galería.",
+        "orari": "Abierto todos los días del año, con horario que cambia según la temporada: en noviembre 9:30-17 (último acceso 16:30).",
+        "lat": 47.32487,
+        "lng": 1.07029
       },
       {
-        nome: "Villandry",
-        testo: "El castillo es menos conocido que los jardines: el huerto renacentista de dibujos geométricos, el jardín del amor y el de agua, rehechos según el modelo del siglo XVI.",
-        come: "En coche desde Tours, hacia el oeste junto al Loira.",
-        quando: "Primavera y verano para la floración.",
-        tempo: "2 horas",
-        url: "https://www.chateauvillandry.fr/",
-        consiglio: "Subir a la torre para ver los dibujos desde arriba."
+        "nome": "Villandry",
+        "testo": "El castillo es menos conocido que los jardines: el huerto renacentista de dibujos geométricos, el jardín del amor y el de agua, rehechos según el modelo del siglo XVI.",
+        "come": "En coche desde Tours, hacia el oeste junto al Loira.",
+        "quando": "Primavera y verano para la floración.",
+        "tempo": "2 horas",
+        "url": "https://www.chateauvillandry.fr/",
+        "consiglio": "Subir a la torre para ver los dibujos desde arriba. En temporada las horas de más gente son 11-12:30 y 14:30-16.",
+        "costo": "unos 14 € castillo y jardines, menos solo jardines (2026)",
+        "lat": 47.3407,
+        "lng": 0.5144
       },
       {
-        nome: "Amboise y Clos Lucé",
-        testo: "Amboise tiene un castillo sobre el río. El Clos Lucé es la casa donde Leonardo da Vinci pasó sus tres últimos años y murió en 1519; guarda modelos de sus máquinas.",
-        come: "Tren desde Tours. El castillo y el Clos Lucé están cerca, a pie.",
-        quando: "Por la mañana.",
-        tempo: "media jornada",
-        costo: "Clos Lucé 20 € entrada general (2026).",
-        url: "https://www.vinci-closluce.com/",
-        consiglio: "La tumba de Leonardo está en la capilla de Saint-Hubert, en los terrenos del castillo."
+        "nome": "Amboise y Clos Lucé",
+        "testo": "Amboise tiene un castillo sobre el río. El Clos Lucé es la casa donde Leonardo da Vinci pasó sus tres últimos años y murió en 1519; guarda modelos de sus máquinas.",
+        "come": "Tren desde Tours. El castillo y el Clos Lucé están cerca, a pie.",
+        "quando": "Por la mañana.",
+        "tempo": "media jornada",
+        "costo": "Clos Lucé 20 € adultos; castillo real de Amboise 17,30 € con HistoPad (2026).",
+        "url": "https://www.vinci-closluce.com/",
+        "consiglio": "La tumba de Leonardo está en la capilla de Saint-Hubert, en los terrenos del castillo.",
+        "orari": "Clos Lucé todos los días salvo el 25 de diciembre y el 1 de enero: 10-18 en enero, 9-19 de febrero a junio y en septiembre-octubre, 9-20 en julio-agosto, 9-18 en noviembre-diciembre; taquilla hasta una hora antes. El castillo de Amboise abre todo el año salvo el 1 de enero y el 25 de diciembre.",
+        "lat": 47.41372,
+        "lng": 0.986
       },
       {
-        nome: "Azay-le-Rideau y Cheverny",
-        testo: "Azay-le-Rideau es un castillo en una isla del Indre que se refleja en el agua. Cheverny lo habita desde hace siglos la misma familia y está amueblado.",
-        come: "En coche desde Tours; Cheverny está al sur de Blois, no lejos de Chambord.",
-        quando: "Por la mañana.",
-        tempo: "2 horas cada uno",
-        consiglio: "Cheverny tiene una perrera de perros de caza: la hora de la comida es una atracción."
+        "nome": "Azay-le-Rideau y Cheverny",
+        "testo": "Azay-le-Rideau es un castillo en una isla del Indre que se refleja en el agua. Cheverny lo habita desde hace siglos la misma familia y está amueblado.",
+        "come": "En coche desde Tours; Cheverny está al sur de Blois, no lejos de Chambord.",
+        "quando": "Por la mañana.",
+        "tempo": "2 horas cada uno",
+        "consiglio": "Cheverny tiene una perrera de perros de caza: la hora de la comida es una atracción.",
+        "costo": "Azay-le-Rideau 13 €, gratis para jóvenes de la UE menores de 26 años; Cheverny 15,50 € castillo y jardines, 20,50 € con la exposición de Tintín (2026). En Cheverny las entradas solo se venden allí.",
+        "orari": "Azay-le-Rideau: 10-17:15 de octubre a marzo, 9:30-18 de abril a junio y en septiembre; cerrado el 1 de enero, el 1 de mayo y el 25 de diciembre. Cheverny abre todos los días del año, en otoño de 10 a 17.",
+        "lat": 47.2592,
+        "lng": 0.4661
+      },
+      {
+        "nome": "Castillo real de Blois",
+        "testo": "Cuatro siglos de arquitectura alrededor de un solo patio: el ala gótica, la de Luis XII en ladrillo rojo, la de Francisco I con la escalera de caracol exterior y la clásica de Gastón de Orleans. Fue residencia de siete reyes y el lugar donde asesinaron al duque de Guisa en 1588.",
+        "come": "A unos diez minutos cuesta arriba a pie desde la estación de Blois. Visita libre con HistoPad o folleto incluidos en la entrada.",
+        "quando": "De abril a septiembre se puede volver por la noche para el espectáculo de luz y sonido en el patio, con entrada aparte.",
+        "tempo": "2 horas",
+        "costo": "16 € adultos, 8 € de 6 a 17 años (2026)",
+        "orari": "Abierto todo el año salvo el 1 de enero y el 25 de diciembre. En 2026: 9-18:30 de abril a septiembre, 10-17 en enero-febrero y de principios de noviembre a mediados de diciembre. Última entrada media hora antes.",
+        "lat": 47.5855,
+        "lng": 1.331,
+        "url": "https://www.chateaudeblois.fr/"
+      },
+      {
+        "nome": "Chaumont-sur-Loire y el festival de jardines",
+        "testo": "Un castillo sobre una colina encima del Loira, con caballerizas del siglo XIX y un parque donde desde 1992 se celebra el Festival Internacional de Jardines: cada año decenas de jardines de autor nuevos, además de instalaciones de arte contemporáneo en los edificios.",
+        "come": "Tren hasta Onzain-Chaumont-sur-Loire y luego a pie cruzando el puente, o en bici por la Loire à Vélo desde Amboise (unos 22 km en llano).",
+        "quando": "De abril a principios de noviembre, durante el festival. Fuera de ese periodo quedan el castillo, las caballerizas y las exposiciones.",
+        "tempo": "media jornada",
+        "costo": "21 € adultos por un día, 36 € por dos días seguidos (2026)",
+        "orari": "Abierto todo el año: 10-17:30 en invierno, hasta las 19-20 en pleno verano. Última entrada al castillo unos 45 minutos antes.",
+        "lat": 47.4792,
+        "lng": 1.1818,
+        "url": "https://www.domaine-chaumont.fr/"
+      },
+      {
+        "nome": "Abadía real de Fontevraud",
+        "testo": "Una ciudad monástica fundada en 1101, la mayor de su tipo en Europa. En la iglesia abacial están las tumbas pintadas de Enrique II, Leonor de Aquitania y Ricardo Corazón de León; la cocina románica, con chimeneas en forma de torre, es uno de los pocos ejemplos que quedan.",
+        "come": "En coche, un cuarto de hora desde Saumur o unos veinte minutos desde Chinon.",
+        "quando": "Por la mañana, junto con Chinon o Saumur el mismo día.",
+        "tempo": "3 horas",
+        "costo": "13 € adultos (2026)",
+        "orari": "10-18; en algunos periodos de temporada baja cierra los martes; cerrada el 25 de diciembre y el 1 de enero. Taquilla hasta una hora antes.",
+        "lat": 47.18137,
+        "lng": 0.05128,
+        "url": "https://www.fontevraud.fr/"
+      },
+      {
+        "nome": "Fortaleza real de Chinon",
+        "testo": "Una fortaleza sobre un espolón encima del Vienne, residencia de los Plantagenet y lugar donde en 1429 Juana de Arco se encontró con el futuro Carlos VII. Desde las murallas se ven los tejados de la ciudad medieval y los viñedos de Chinon.",
+        "come": "En tren o en coche desde Tours, luego a pie cuesta arriba desde el centro.",
+        "quando": "A última hora de la tarde, y después un vaso de Chinon en una bodega del pueblo.",
+        "tempo": "2 horas",
+        "costo": "12,50 € adultos (2026); 1 € de descuento a quien llega en bici",
+        "orari": "10-17 en enero-febrero y noviembre-diciembre, 9:30-18 de marzo a junio y en septiembre-octubre, 9:30-19 en julio y agosto.",
+        "lat": 47.16806,
+        "lng": 0.2361,
+        "url": "https://www.forteressechinon.fr/"
+      },
+      {
+        "nome": "Castillo de Saumur",
+        "testo": "El castillo blanco sobre el Loira que aparece en las Très Riches Heures del duque de Berry, con un museo de artes decorativas y del caballo dentro. Saumur es también la ciudad del Cadre Noir, la escuela nacional de equitación, y de los espumosos que envejecen en galerías de toba.",
+        "come": "En tren desde Tours o en coche; desde el centro se sube a pie.",
+        "quando": "Por la mañana, antes de Fontevraud.",
+        "tempo": "1 hora y media",
+        "costo": "9,50 € adultos (2026)",
+        "orari": "10-18 de abril a junio y en septiembre, 10-19 en julio y agosto, 10-13 y 14-17:30 el resto del año; cerrado el 25 de diciembre y del 1 de enero al 5 de febrero de 2027.",
+        "lat": 47.257,
+        "lng": -0.0724,
+        "url": "https://www.chateau-saumur.fr/"
+      },
+      {
+        "nome": "Vouvray y las bodegas en la toba",
+        "testo": "Entre Tours y Amboise la orilla derecha del Loira lleva siglos excavada: la piedra extraída para construir los castillos dejó galerías que hoy son bodegas de Chenin, seco, dulce o espumoso. Muchos productores hacen catas dentro de la roca.",
+        "come": "En bici por la Loire à Vélo entre Tours y Amboise o en coche. Con los pequeños productores conviene llamar antes.",
+        "quando": "Por la tarde, después del castillo de la mañana.",
+        "tempo": "2 horas",
+        "lat": 47.41278,
+        "lng": 0.8
+      },
+      {
+        "nome": "Vieux-Tours y Place Plumereau",
+        "testo": "El centro medieval de Tours, con casas de entramado de madera alrededor de la Place Plumereau, llena de mesas por la noche. A pocos minutos están la catedral de Saint-Gatien y la orilla del río.",
+        "come": "A unos 15 minutos a pie de la estación de Tours, o en tranvía.",
+        "quando": "Por la noche, para cenar y tomar algo.",
+        "tempo": "2 horas",
+        "costo": "gratis",
+        "lat": 47.39304,
+        "lng": 0.68788
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Chambord por la mañana",
-          "Comida en Blois",
-          "Chenonceau por la tarde"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Chenonceau a la apertura, con la entrada con hora ya reservada",
+          "Comida en Amboise, en las calles bajo el castillo",
+          "Tarde: Clos Lucé y la tumba de Leonardo en la capilla del castillo de Amboise",
+          "Noche: cena en Amboise o un paseo en bici por la orilla"
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: Chambord y Cheverny",
-          "Día 2: Chenonceau y Amboise"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como en el plan de un día, noche en Amboise",
+          "Día 2: Chambord por la mañana con la terraza y el parque, Cheverny por la tarde, noche en Blois con el espectáculo de luz (de abril a septiembre)"
         ]
       },
       {
-        titolo: "3 días",
-        tappe: [
-          "Día 1: Chambord",
-          "Día 2: Chenonceau y Villandry",
-          "Día 3: Amboise, Clos Lucé y Azay-le-Rideau"
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba",
+          "Día 3: Villandry por la mañana para los jardines, Azay-le-Rideau por la tarde, cena en el Vieux-Tours"
+        ]
+      },
+      {
+        "titolo": "5 días",
+        "tappe": [
+          "Días 1-3: como arriba",
+          "Día 4: en bici de Amboise a Chaumont-sur-Loire por la Loire à Vélo (unos 22 km), festival de jardines, vuelta en tren",
+          "Día 5: en coche hacia el oeste, castillo de Saumur por la mañana, Fontevraud y la fortaleza de Chinon por la tarde"
         ]
       }
     ],
     zone: [
       {
-        nome: "Tours",
-        perChi: "si se usan trenes",
-        testo: "Ciudad grande y bien conectada, con hoteles y restaurantes."
+        "nome": "Tours",
+        "perChi": "si se usan trenes",
+        "testo": "Ciudad grande y bien conectada, con hoteles y restaurantes."
       },
       {
-        nome: "Amboise",
-        perChi: "para un pueblo del Loira",
-        testo: "Centro pequeño con el castillo y el Clos Lucé a pie."
+        "nome": "Amboise",
+        "perChi": "para un pueblo del Loira",
+        "testo": "Centro pequeño con el castillo y el Clos Lucé a pie.",
+        "fascia": "90-180 €"
       },
       {
-        nome: "Blois",
-        perChi: "para Chambord y Cheverny",
-        testo: "Base cómoda para los castillos del este."
+        "nome": "Blois",
+        "perChi": "para Chambord y Cheverny",
+        "testo": "Base cómoda para los castillos del este.",
+        "fascia": "80-150 €"
+      },
+      {
+        "nome": "Saumur y Chinon",
+        "perChi": "quien quiere la parte occidental y los vinos",
+        "testo": "Dos pueblos junto al río con el castillo en lo alto y bodegas en la toba. Base cómoda para Fontevraud, pero lejos de Chambord y Chenonceau."
+      }
+    ],
+    gite: [
+      {
+        "nome": "ZooParc de Beauval",
+        "distanza": "unos 40 km desde Amboise, 40 minutos en coche",
+        "come": "En coche, hacia Saint-Aignan, a orillas del Cher.",
+        "testo": "Uno de los zoos más visitados de Francia, con pandas gigantes y un gran invernadero tropical. Un día que funciona bien con niños después de unos cuantos castillos."
+      },
+      {
+        "nome": "Orleans",
+        "distanza": "unos 65 km desde Blois, una hora en coche o en tren",
+        "come": "Trenes regionales frecuentes desde Blois, o en coche a lo largo del Loira.",
+        "testo": "La ciudad de Juana de Arco, que la liberó del asedio inglés en 1429: la catedral de Sainte-Croix, la casa-museo dedicada a la Doncella y los muelles renovados junto al río."
+      },
+      {
+        "nome": "Bourges",
+        "distanza": "unos 110 km desde Blois, una hora y media en coche",
+        "come": "En coche hacia el sureste, o en tren con transbordo en Vierzon.",
+        "testo": "La catedral de Saint-Étienne, gótica de cinco naves y Patrimonio de la Humanidad, con vidrieras del siglo XIII. En el centro está el palacio de Jacques Cœur, el mercader más rico de la Francia del siglo XV."
       }
     ],
     sapori: [
@@ -1781,6 +2075,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "No hacer más de un castillo por la mañana y uno por la tarde: después del tercero se deja de mirar.",
       "Muchos castillos cierran en invierno o a mediodía: comprobar los horarios.",
       "El alquiler de bicis es cómodo pero se notan las cuestas y el viento: valorar las distancias entre castillos."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para los castillos del Loira?",
+        "risposta": "En dos días se ven los cuatro más famosos: Chenonceau, Amboise con el Clos Lucé, Chambord y Cheverny. Con cinco, a un castillo por día y algún menor, el viaje se disfruta."
+      },
+      {
+        "domanda": "¿Cuál es la mejor base para visitar los castillos?",
+        "risposta": "Amboise es la más central y tiene el encanto de un pueblo junto al río; Tours tiene más hoteles y los mejores trenes; Blois es cómoda para Chambord y Cheverny. Si se quiere también Fontevraud, conviene añadir una noche en Saumur o Chinon."
+      },
+      {
+        "domanda": "¿Qué castillos ver si hay poco tiempo?",
+        "risposta": "Chenonceau y Chambord primero, luego el Clos Lucé en Amboise. Entre mayo y septiembre, Villandry por los jardines."
+      },
+      {
+        "domanda": "¿Se pueden visitar los castillos del Loira sin coche?",
+        "risposta": "Sí, combinando tren y bicicleta: Blois, Amboise, Tours, Chinon y Saumur tienen estación, y la Loire à Vélo une los castillos en llano. Chenonceau tiene estación propia; Chambord y Cheverny son más incómodos sin coche."
+      },
+      {
+        "domanda": "¿Hay que reservar las entradas?",
+        "risposta": "Para Chenonceau conviene reservar la hora de entrada online, sobre todo en verano; Chambord y el Clos Lucé también venden online. Cheverny solo vende entradas en taquilla."
+      },
+      {
+        "domanda": "¿Cuánto cuesta entrar en los castillos?",
+        "risposta": "En 2026 entre 12,50 € (Chinon) y 21 € (Chambord para visitantes de la UE, Chaumont); Chenonceau cuesta 19 € y el Clos Lucé 20 €. Con cinco castillos se gastan 80-100 € por persona."
+      }
     ],
     esperienzeSlugs: ['chambord', 'chenonceau', 'loira-in-bicicletta', 'cantina-troglodita-loira'],
     tripSlugs: ['castelli-loira'],
@@ -1821,13 +2141,13 @@ export const destinazioniFrancia: Destinazione[] = [
     doveMangiare:
       "La cocina bordelesa gira en torno a la carne y el vino: la **entrecôte à la bordelaise** con salsa de vino tinto y tuétano, la **ternera de Bazas**, la **lamproie** (una especialidad de río que divide), las **ostras de Arcachon**, servidas por tradición con pequeñas salchichas calientes, y el **canelé**, el dulce de masa densa con la corteza caramelizada nacido aquí. También en Burdeos el **menú del mediodía** cuesta una fracción del de la noche.",
     comeArrivare:
-      "Alta velocidad desde París en unas dos horas. El aeropuerto de **Burdeos-Mérignac** está conectado con el centro. Para los viñedos **hace falta coche**, con una advertencia seria, aquí debajo.",
+      "Alta velocidad desde París Montparnasse hasta Bordeaux Saint-Jean en unas dos horas. Desde el aeropuerto de **Bordeaux-Mérignac** el tranvía A llega al centro en unos 35-40 minutos, con un paso cada 10 minutos aproximadamente y un billete TBM normal (unos 2 €, en las máquinas de la parada o en la app, que se valida a bordo); la lanzadera 30'Direct va a la estación Saint-Jean pasando por el centro en unos 30 minutos (9 € online, 10 € a bordo); taxi y Uber cuestan unos 40-60 € según la hora. El billete de la lanzadera no vale en el tranvía, ni al revés. Para los viñedos **hace falta coche**, con una advertencia seria, más abajo; para entrar en la ciudad en coche se necesita la etiqueta Crit'Air.",
     comeSpostarsi:
       "En la ciudad, tranvía y bici. Para los viñedos hace falta coche, y ahí está el problema de todo viaje del vino: **en Francia los controles de alcohol al volante son frecuentes y el límite es bajo**, para los conductores noveles más bajo que en Italia, con sanciones pesadas. Las soluciones son tres: **un conductor designado que no prueba**, las **excursiones guiadas de un día** que salen de Burdeos, o bien **escupir durante las catas**. Es la práctica normal y nadie se ofende: en las bodegas serias la escupidera siempre está, y se espera que se use.",
     periodoMigliore:
       "**de mayo a octubre**, y el mejor periodo es **septiembre-octubre**, por la vendimia. Desde mediados de septiembre las bodegas están en plena actividad y algunas reducen las visitas porque están trabajando: **conviene preguntar antes**. Julio y agosto son calurosos y la costa está llena. El invierno es tranquilo, y muchas propiedades suspenden las visitas.",
     costi:
-      "La ciudad está en la media francesa; las catas van de lo gratuito a lo muy caro según el nivel de la propiedad. La verdadera diferencia está entre las **bodegas que reciben sin cita** en las denominaciones menores, donde se gasta poco, y los **grand cru classé**, donde la visita es un producto en sí, con precios importantes y reserva obligatoria.",
+      "La ciudad está en la media francesa; las catas van de gratis a muy caras según el nivel de la finca. La diferencia real está entre las **bodegas que reciben sin cita** en las denominaciones menores, donde se gasta poco, y los **grands crus classés**, donde la visita es un producto en sí, desde unos 20-30 € y siempre con reserva. Cité du Vin 23 €, torre Pey-Berland 9 €, iglesia monolítica de Saint-Émilion unos 15 €. Presupuesto orientativo por persona y día, compartiendo habitación doble: bajo 70-90 €, medio 120-170 €, alto más de 250 €.",
     erroriDaEvitare: [
       "**Presentarse en los grandes châteaux sin cita.** Los nombres conocidos se reservan con semanas de antelación, y muchos no reciben al público",
       "Conducir después de haber probado. Escupir es la norma; quien no quiera hacerlo que reserve una excursión guiada",
@@ -1918,79 +2238,217 @@ export const destinazioniFrancia: Destinazione[] = [
       "Burdeos reúne dos cosas que normalmente no se llevan bien: la ciudad se recorre a pie, el territorio sin coche no se ve. La primera sorpresa es justamente la ciudad. Tiene fama de lugar serio y aburrido, y en cambio es uno de los conjuntos urbanos más bonitos de Francia: kilómetros de fachadas del siglo XVIII de la misma piedra clara, mantenidas limpias, y una vida estudiantil que le impide convertirse en un museo. La segunda es lo poco que se parece el viñedo a la imagen que uno tiene de él. En el Médoc no hay colinas: es una llanura de grava con los castillos en fila a lo largo de una carretera, y el encanto está en entender qué hace esa grava. Drena, calienta, y hace que una cepa a doscientos metros de distancia dé un vino que vale diez veces más que el otro. La tercera cosa, la que me ha quedado, es el Sauternes. Llegamos a una propiedad en septiembre y nos enseñaron los racimos: horribles, uvas arrugadas y cubiertas de moho gris, que cualquier agricultor normal tiraría. Sin embargo es justo lo que esperaban todo el año, y la cuadrilla vuelve a pasar por la misma hilera cinco o seis veces, en semanas distintas, para recoger solo las uvas que han llegado a su punto. Es una de las cosas más contraintuitivas de la agricultura europea, y para creerla hay que verla en el sitio.",
     luoghi: [
       {
-        nome: "Place de la Bourse y Miroir d'eau",
-        testo: "La plaza dieciochesca sobre el Garona y, delante, el Miroir d'eau: losas de granito cubiertas por 2 centímetros de agua que reflejan la fachada y de vez en cuando se convierten en niebla. Funciona de abril a octubre.",
-        come: "A pie desde el centro o tranvía hasta la parada Place de la Bourse.",
-        quando: "Atardecer o noche, cuando la fachada está iluminada.",
-        tempo: "45 minutos",
-        consiglio: "Para fotos, caminar por el borde del agua cuando está llena."
+        "nome": "Place de la Bourse y Miroir d'eau",
+        "testo": "La plaza dieciochesca sobre el Garona y, delante, el Miroir d'eau: losas de granito cubiertas por 2 centímetros de agua que reflejan la fachada y de vez en cuando se convierten en niebla. Funciona de abril a octubre.",
+        "come": "A pie desde el centro o tranvía hasta la parada Place de la Bourse.",
+        "quando": "Atardecer o noche, cuando la fachada está iluminada.",
+        "tempo": "45 minutos",
+        "consiglio": "Para fotos, caminar por el borde del agua cuando está llena.",
+        "costo": "gratis",
+        "orari": "El Miroir d'eau funciona de primavera a otoño y se apaga en invierno.",
+        "lat": 44.84146,
+        "lng": -0.57005
       },
       {
-        nome: "Centro histórico y torre Pey-Berland",
-        testo: "Fachadas del siglo XVIII de piedra clara, la catedral de Saint-André y la torre exenta Pey-Berland, que se sube por la vista.",
-        come: "A pie desde el tranvía, con la Grosse Cloche y la rue Sainte-Catherine.",
-        quando: "Por la mañana.",
-        tempo: "media jornada",
-        consiglio: "La rue Sainte-Catherine está llena de tiendas; las callejuelas laterales tienen más carácter."
+        "nome": "Centro histórico y torre Pey-Berland",
+        "testo": "Fachadas del siglo XVIII de piedra clara, la catedral de Saint-André y la torre exenta Pey-Berland, que se sube por la vista.",
+        "come": "A pie desde el tranvía, con la Grosse Cloche y la rue Sainte-Catherine.",
+        "quando": "Por la mañana.",
+        "tempo": "media jornada",
+        "consiglio": "La rue Sainte-Catherine está llena de tiendas; las callejuelas laterales tienen más carácter.",
+        "costo": "Torre Pey-Berland 9 €, gratis para jóvenes de la UE menores de 26 años (2026)",
+        "orari": "Torre abierta todos los días: 10-18 del 25 de mayo al 27 de septiembre de 2026, 10-12:30 y 14-17:30 de finales de septiembre a finales de mayo.",
+        "lat": 44.83762,
+        "lng": -0.57656,
+        "url": "https://www.pey-berland.fr/"
       },
       {
-        nome: "La Cité du Vin",
-        testo: "Museo del vino sobre el Garona en un edificio en forma de copa. El recorrido explica las regiones del mundo y termina con una copa en el mirador de la planta alta.",
-        come: "Tranvía B hasta Cité du Vin.",
-        quando: "Por la tarde.",
-        tempo: "2-3 horas",
-        consiglio: "La copa final se bebe en el mirador de la planta alta con vistas al río."
+        "nome": "La Cité du Vin",
+        "testo": "Museo del vino sobre el Garona en un edificio en forma de copa. El recorrido explica las regiones del mundo y termina con una copa en el mirador de la planta alta.",
+        "come": "Tranvía B hasta Cité du Vin.",
+        "quando": "Por la tarde.",
+        "tempo": "2-3 horas",
+        "consiglio": "La copa final se bebe en el mirador de la planta alta con vistas al río.",
+        "costo": "23 € adultos, con una copa en el Belvédère (2026)",
+        "orari": "Todos los días desde las 10: en invierno hasta las 18 (los sábados hasta las 19), de abril a octubre hasta las 19. Cerrada el 25 de diciembre y del 25 al 31 de enero de 2027.",
+        "lat": 44.8623,
+        "lng": -0.55032,
+        "url": "https://www.laciteduvin.com/"
       },
       {
-        nome: "Saint-Émilion",
-        testo: "Un pueblo medieval entre viñedos, patrimonio UNESCO desde 1999 como paisaje vitivinícola. La iglesia monolítica está excavada en la roca.",
-        come: "Tren directo desde Burdeos Saint-Jean. La iglesia monolítica se visita con guía: información en la oficina de turismo.",
-        quando: "Por la mañana o al final de la tarde.",
-        tempo: "media jornada",
-        consiglio: "Caminar entre las viñas justo a las afueras del pueblo."
+        "nome": "Saint-Émilion",
+        "testo": "Un pueblo medieval entre viñedos, patrimonio UNESCO desde 1999 como paisaje vitivinícola. La iglesia monolítica está excavada en la roca.",
+        "come": "Tren directo desde Burdeos Saint-Jean. La iglesia monolítica se visita con guía: información en la oficina de turismo.",
+        "quando": "Por la mañana o al final de la tarde.",
+        "tempo": "media jornada",
+        "consiglio": "Caminar entre las viñas justo a las afueras del pueblo.",
+        "costo": "Visita guiada de la iglesia monolítica unos 15 €; subida al campanario 2 €, entrada aparte en la oficina de turismo.",
+        "lat": 44.8933,
+        "lng": -0.1564,
+        "url": "https://www.saint-emilion-tourisme.com/"
       },
       {
-        nome: "Médoc y los castillos",
-        testo: "La ruta del vino al norte, con castillos-bodega en fila (Margaux, Pauillac, Saint-Julien).",
-        come: "En coche desde Burdeos hacia el norte. Las catas se reservan.",
-        quando: "Primavera y otoño, vendimia en septiembre-octubre.",
-        tempo: "día completo",
-        consiglio: "Hace falta un conductor que no beba, o una excursión organizada."
+        "nome": "Médoc y los castillos",
+        "testo": "La ruta del vino al norte, con castillos-bodega en fila (Margaux, Pauillac, Saint-Julien).",
+        "come": "En coche desde Burdeos hacia el norte. Las catas se reservan.",
+        "quando": "Primavera y otoño, vendimia en septiembre-octubre.",
+        "tempo": "día completo",
+        "consiglio": "Hace falta un conductor que no beba, o una excursión organizada.",
+        "costo": "Visitas a los crus classés desde unos 20-30 €, solo con reserva.",
+        "lat": 45.19994,
+        "lng": -0.74879
+      },
+      {
+        "nome": "Barrio de los Chartrons",
+        "testo": "El barrio de los négociants de vino, junto al río al norte del centro: almacenes de piedra, la rue Notre-Dame llena de anticuarios y cafés y, los domingos por la mañana, el mercado en el muelle.",
+        "come": "Tranvía B desde el centro, o a pie por los muelles desde la Place de la Bourse en unos 20 minutos.",
+        "quando": "El domingo por la mañana para el mercado junto al río.",
+        "tempo": "2 horas",
+        "costo": "gratis",
+        "lat": 44.85782,
+        "lng": -0.56682
+      },
+      {
+        "nome": "Bassins des Lumières",
+        "testo": "En la base de submarinos construida por los alemanes durante la Segunda Guerra Mundial, cuatro enormes dársenas llenas de agua sirven de pantalla para exposiciones de arte inmersivas, proyectadas sobre muros de hormigón altos como edificios.",
+        "come": "Tranvía B hacia el norte hasta Bassins à flot y luego unos minutos a pie; combina bien con la Cité du Vin.",
+        "quando": "Los días de lluvia, o a última hora de la tarde.",
+        "tempo": "1-1 hora y media",
+        "orari": "Normalmente 10-18, los sábados hasta las 20; el calendario cambia de una semana a otra.",
+        "lat": 44.8708,
+        "lng": -0.56175,
+        "url": "https://www.bassins-lumieres.com/"
+      },
+      {
+        "nome": "Musée d'Aquitaine",
+        "testo": "El museo de historia de la ciudad y la región, desde la prehistoria hasta hoy. Una sección cuenta el papel del puerto de Burdeos en la trata de esclavos y en el comercio atlántico del siglo XVIII, el origen de la riqueza que se ve en las fachadas.",
+        "come": "A pie desde el centro, en el cours Pasteur, a pocos minutos de la Grosse Cloche.",
+        "quando": "Por la mañana, o un día de lluvia.",
+        "tempo": "2 horas",
+        "orari": "11-18; cerrado los lunes y festivos.",
+        "lat": 44.83558,
+        "lng": -0.57509,
+        "url": "https://www.musee-aquitaine-bordeaux.fr/"
+      },
+      {
+        "nome": "Basílica de Saint-Michel",
+        "testo": "Basílica gótica en el barrio popular de Saint-Michel, con un campanario exento de 114 metros, la flèche, el más alto del sur de Francia. Alrededor de la plaza están el mercadillo de pulgas y bares frecuentados por los vecinos.",
+        "come": "A pie desde el centro, unos 15 minutos desde la Place de la Bourse junto al río.",
+        "quando": "Por la mañana, antes del mercado de los Capucins.",
+        "tempo": "45 minutos",
+        "costo": "entrada libre a la basílica",
+        "lat": 44.83439,
+        "lng": -0.56505
+      },
+      {
+        "nome": "Marché des Capucins",
+        "testo": "El mercado cubierto de la ciudad: puestos de pescado, quesos, verduras y una barra de ostras, donde se comen con una copa de blanco ya a media mañana.",
+        "come": "A 5 minutos a pie de Saint-Michel.",
+        "quando": "Sábado y domingo por la mañana, cuando hay más ambiente.",
+        "tempo": "1 hora",
+        "orari": "De martes a viernes 6-14, sábado y domingo 5:30-14:30; cerrado los lunes.",
+        "lat": 44.83044,
+        "lng": -0.56779,
+        "url": "https://www.marchedescapucins.com/"
+      },
+      {
+        "nome": "Grosse Cloche",
+        "testo": "El campanario del siglo XV construido sobre una de las puertas medievales de la ciudad, con dos torres puntiagudas y una campana de casi ocho toneladas. Es uno de los símbolos de Burdeos y aparece en su escudo.",
+        "come": "A pie, al principio de la rue Saint-James, entre Pey-Berland y Saint-Michel.",
+        "tempo": "15 minutos",
+        "costo": "gratis desde fuera",
+        "lat": 44.8353,
+        "lng": -0.57139
+      },
+      {
+        "nome": "Duna de Pilat",
+        "testo": "La duna de arena más alta de Europa, de más de cien metros, entre el océano y el pinar de las Landas. Desde arriba se ven el Banc d'Arguin, la entrada de la bahía de Arcachon y el Cap Ferret.",
+        "come": "Tren de Burdeos a Arcachon en unos 50 minutos y luego autobús Baïa línea 3 desde la estación en unos 25 minutos (sin servicio los domingos y festivos de noviembre a abril); en coche, una hora.",
+        "quando": "Al atardecer; en verano conviene evitar las horas centrales, cuando la arena quema.",
+        "tempo": "2 horas",
+        "costo": "Acceso libre; aparcamiento 7 € por 4 horas en temporada alta, 5 € en temporada baja (2026).",
+        "lat": 44.58986,
+        "lng": -1.21361,
+        "url": "https://www.ladunedupilat.com/",
+        "consiglio": "Comprobar la hora del último tren a Burdeos antes de sentarse a cenar en Arcachon."
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Centro histórico por la mañana",
-          "Miroir d'eau",
-          "Cité du Vin por la tarde",
-          "Cena en un bistró de Chartrons"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Marché des Capucins y basílica de Saint-Michel",
+          "Media mañana: Grosse Cloche, catedral y subida a la torre Pey-Berland",
+          "Tarde: Place de la Bourse, luego a pie por los muelles hasta los Chartrons",
+          "Última hora de la tarde: Cité du Vin con la copa en el Belvédère",
+          "Noche: el Miroir d'eau con la fachada iluminada"
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: ciudad y Cité du Vin",
-          "Día 2: Saint-Émilion o Médoc"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como en el plan de un día",
+          "Día 2: tren a Saint-Émilion (unos 35 minutos), visita guiada de la iglesia monolítica, cata con cita, paseo entre las viñas y vuelta por la noche"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba",
+          "Día 3: tren a Arcachon, ostras en las cabanes de los productores, Duna de Pilat al atardecer con el autobús 3"
+        ]
+      },
+      {
+        "titolo": "5 días",
+        "tappe": [
+          "Días 1-3: como arriba",
+          "Día 4: en coche por el Médoc, dos châteaux con cita entre Margaux y Pauillac, comida en Pauillac junto al río",
+          "Día 5: Sauternes por la mañana con visita y cata, tarde en el Musée d'Aquitaine o en los Bassins des Lumières"
         ]
       }
     ],
     zone: [
       {
-        nome: "Centro histórico",
-        perChi: "para todo a pie",
-        testo: "Alojamiento cerca del tranvía, animado también por la noche."
+        "nome": "Centro histórico",
+        "perChi": "para todo a pie",
+        "testo": "Alojamiento cerca del tranvía, animado también por la noche.",
+        "fascia": "90-170 €"
       },
       {
-        nome: "Chartrons",
-        perChi: "para un barrio menos turístico",
-        testo: "Antiguos almacenes de vino, con bistrós y anticuarios."
+        "nome": "Chartrons",
+        "perChi": "para un barrio menos turístico",
+        "testo": "Antiguos almacenes de vino, con bistrós y anticuarios.",
+        "fascia": "80-160 €"
       },
       {
-        nome: "Saint-Émilion",
-        perChi: "para dormir entre viñas",
-        testo: "Pocas habitaciones, bonitas pero más caras."
+        "nome": "Saint-Émilion",
+        "perChi": "para dormir entre viñas",
+        "testo": "Pocas habitaciones, bonitas pero más caras."
+      },
+      {
+        "nome": "Saint-Michel y Capucins",
+        "perChi": "quien busca precios más bajos en la ciudad",
+        "testo": "Barrio popular y animado alrededor de la basílica y del mercado, a pie del centro. Por la noche algunas calles están menos cuidadas que las avenidas del siglo XVIII."
+      }
+    ],
+    gite: [
+      {
+        "nome": "Bahía de Arcachon y Cap Ferret",
+        "distanza": "unos 65 km, 50 minutos en tren",
+        "come": "Tren desde Bordeaux Saint-Jean a Arcachon; para el Cap Ferret, barco desde el muelle de Arcachon.",
+        "testo": "La laguna de las ostras: pueblos de pescadores con cabanes en los embarcaderos, la Ville d'Hiver de Arcachon con sus villas del siglo XIX y, enfrente, la península del Cap Ferret entre la laguna y el océano."
+      },
+      {
+        "nome": "Sauternes",
+        "distanza": "unos 50 km, entre 45 minutos y una hora en coche",
+        "come": "En coche hacia el sur; las fincas reciben con cita, con visitas y catas desde unos 15 €.",
+        "testo": "La tierra del vino dulce de podredumbre noble: las nieblas matinales del Ciron, la vendimia a mano en pasadas sucesivas y châteaux entre viñas bajas."
+      },
+      {
+        "nome": "Blaye",
+        "distanza": "unos 50 km, una hora en coche",
+        "come": "En coche por la orilla derecha de la Gironda; en verano hay también ferry desde Lamarque, en el Médoc.",
+        "testo": "La ciudadela construida por Vauban para defender el estuario, Patrimonio de la Humanidad desde 2008, con las murallas sobre la Gironda y los viñedos de las Côtes de Bourg alrededor."
       }
     ],
     sapori: [
@@ -2015,6 +2473,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "Las catas en los castillos del Médoc se reservan: muchos no reciben sin cita.",
       "El Miroir d'eau se detiene en invierno o durante el mantenimiento: comprobar.",
       "El aparcamiento en el centro es caro y escaso: usar el tranvía y los aparcamientos de disuasión."
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Burdeos?",
+        "risposta": "Un día completo basta para la ciudad y la Cité du Vin, dos para añadir Saint-Émilion. Con cinco días se ven también la bahía de Arcachon, el Médoc y el Sauternes."
+      },
+      {
+        "domanda": "¿Se pueden visitar los viñedos de Burdeos sin coche?",
+        "risposta": "En parte sí: Saint-Émilion tiene tren directo desde Burdeos en unos 35 minutos, y desde la ciudad salen excursiones guiadas al Médoc y al Sauternes. Para recorrer fincas por libre hace falta coche, y un conductor que no beba."
+      },
+      {
+        "domanda": "¿Hay que reservar las visitas a las bodegas?",
+        "risposta": "Sí para los grands crus classés y los châteaux más conocidos, a menudo con semanas de antelación y sobre todo en septiembre-octubre. Muchas fincas pequeñas de las denominaciones satélite reciben también sin cita."
+      },
+      {
+        "domanda": "¿Cómo se va del aeropuerto al centro de Burdeos?",
+        "risposta": "En el tranvía A en unos 35-40 minutos con un billete normal de unos 2 €, o con la lanzadera 30'Direct hasta la estación Saint-Jean (9 € online). El taxi cuesta unos 40-60 €."
+      },
+      {
+        "domanda": "¿Cómo se llega a la Duna de Pilat en transporte público?",
+        "risposta": "Tren de Burdeos a Arcachon en unos 50 minutos y luego autobús Baïa línea 3 hasta la duna en unos 25 minutos. De noviembre a abril el autobús no circula los domingos ni los festivos."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la Cité du Vin y cuánto tiempo hace falta?",
+        "risposta": "La entrada general cuesta 23 € e incluye una copa en el Belvédère, en la última planta. Hacen falta 2-3 horas; conviene comprar online."
+      }
     ],
     esperienzeSlugs: ['saint-emilion', 'sauternes-muffa-nobile', 'dune-du-pilat', 'ostriche-arcachon'],
     tripSlugs: ['bordeaux-e-vigneti'],

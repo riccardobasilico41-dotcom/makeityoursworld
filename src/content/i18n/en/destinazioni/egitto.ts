@@ -1063,12 +1063,10 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     doveDormire:
       "Budget: Nubian guesthouses on Elephantine Island or in Gharb Soheil · mid-range: hotels on the Corniche · luxury: Old Cataract (Sofitel Legendary). In Abu Simbel there are few places, including the Eskaleh eco-lodge.",
-    comeArrivare:
-      "Flight from Cairo (1 hour 25 minutes), overnight sleeper train from Cairo or Giza, Nile cruise from Luxor (3-4 nights). For Abu Simbel: a 3.5-hour road trip leaving before dawn, or a 45-minute EgyptAir flight.",
+    comeArrivare: "From Cairo the EgyptAir flight takes 1h25 and costs roughly €70-140. Alternatively there is the Abela Trains overnight sleeper from Cairo Upper Egypt (Bashtil) or Giza stations, about 13-14 hours, $110-125 per person in a shared double cabin with dinner and breakfast, bookable on abelatrains.com. From Luxor you arrive by Nile cruise (southbound ships take 4 nights) or in about 3 hours by car. From Aswan airport (ASW) agree the taxi fare first, in Egyptian pounds. For Abu Simbel: 280 km, 3-3.5 hours by road leaving before dawn, or the 45-minute EgyptAir flight.",
     comeSpostarsi: "Public and private boats on the Nile, taxis and Uber in town; for Abu Simbel, a minivan with a driver or a group tour.",
     periodoMigliore: "November to March; in summer it's the hottest place in the country",
-    costi:
-      "Abu Simbel roughly 750-850 EGP; Philae about 550 EGP plus the boat (to be agreed on, 300-500 EGP per boat); Nubian Museum about 300 EGP; felucca roughly 300-600 EGP per hour per boat (approximate).",
+    costi: "Low budget about €30-45 per person per day (guesthouse on Elephantine, street food, public boat, one site a day); mid €70-120 (hotel on the Corniche, felucca, Abu Simbel by shared minivan); high €200 and up (historic hotel, private car or flight to Abu Simbel, guide). Tickets 2026: Abu Simbel 822 EGP, Philae 550 plus the boat (300-500 EGP per boat), Nubian Museum 400, Unfinished Obelisk 220, Elephantine and Tombs of the Nobles 200 EGP; felucca roughly 300-600 EGP per hour per boat. One euro is about 60 EGP.",
     erroriDaEvitare: [
       "Doing Abu Simbel in a day in summer without accounting for the 3-4 am wake-up and seven hours of driving round trip",
       "Getting on a felucca without agreeing on whether the price is per person or per boat, and for how long",
@@ -1081,9 +1079,12 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "From Aswan about 300 km by road, leaving before dawn, or by plane.",
         "quando": "Open daily 6am-5pm (2026). Arrive at opening, before the tour buses.",
         "tempo": "1.5-2 hours on site",
+        "costo": "822 EGP, about €14, for foreign adults, 375 for students; 1,200 EGP (students 600) on 22 February and 22 October (2026)",
+        "orari": "Daily 6am-5pm (2026)",
+        "lat": 22.33694,
+        "lng": 31.62556,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
-        "consiglio": "If you can, sleep at Abu Simbel for the sound and light show and the dawn.",
-        "costo": "EGP 750 for foreign adults, 375 for students; EGP 1,200 (students 600) on 22 February and 22 October (2026)"
+        "consiglio": "If you can, sleep at Abu Simbel for the sound and light show and the dawn."
       },
       {
         "nome": "Philae Temple",
@@ -1091,8 +1092,81 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Taxi to the pier, then a motorboat, with the price to be agreed.",
         "quando": "Open daily 7am-4pm (2026). Early morning for the light.",
         "tempo": "1.5 hours",
-        "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
-        "costo": "EGP 550 for foreign adults, 275 for students, plus the boat from the jetty, to be agreed (2026)"
+        "costo": "550 EGP, about €9, for foreign adults, 275 for students, plus the boat from the jetty, to be agreed, roughly 300-500 EGP per boat (2026)",
+        "orari": "Daily 7am-4pm (2026)",
+        "lat": 24.02083,
+        "lng": 32.88944,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/"
+      },
+      {
+        "nome": "Felucca at sunset",
+        "testo": "The traditional sailing boat around Elephantine Island, for a trip of an hour or two.",
+        "come": "From the Aswan riverfront.",
+        "quando": "Sunset.",
+        "tempo": "1-2 hours",
+        "costo": "roughly 300-600 EGP per hour per boat, about €5-10 (2026, from the trip on this site)",
+        "consiglio": "Agree whether the price is per boat or per person, and how long it lasts."
+      },
+      {
+        "nome": "Nubian Museum",
+        "testo": "The museum tells the story of Nubia, flooded by Lake Nasser after the High Dam was built, with statues, everyday objects and models of the villages. Outside there is a garden with a reconstructed Nubian house. Seen before Abu Simbel and Philae, it helps make sense of them.",
+        "come": "South of the centre, a few minutes by taxi from the Corniche.",
+        "quando": "In the hot afternoon hours, or on Thursday and Friday evenings.",
+        "tempo": "1.5-2 hours",
+        "costo": "400 EGP, about €6.50, for foreign adults; students 200 EGP (2026)",
+        "orari": "Daily from 9am, last entry 4pm; Thursday and Friday also from 6pm, last entry 8pm (2026)",
+        "lat": 24.08,
+        "lng": 32.88944,
+        "url": "https://egymonuments.com/details/NubiaMuseum"
+      },
+      {
+        "nome": "Elephantine Island",
+        "testo": "The island facing the Corniche was the southern frontier of ancient Egypt. The archaeological area in the south holds the remains of the ancient town, the Temple of Khnum, the Nilometer and a small museum; the rest of the island is Nubian villages with colourful houses and lanes between the palms.",
+        "come": "Public boat from the Corniche, a few minutes, or by felucca.",
+        "quando": "Morning or late afternoon.",
+        "tempo": "1.5-2 hours",
+        "costo": "200 EGP, about €3.50, for foreign adults; students 100 EGP (2026)",
+        "orari": "Daily 8am-4pm (2026)",
+        "lat": 24.08472,
+        "lng": 32.88667,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/elephantine-1/",
+        "consiglio": "After the ruins, walk through the island's villages: everyday life a stone's throw from the hotels."
+      },
+      {
+        "nome": "Unfinished Obelisk",
+        "testo": "An obelisk left in the granite quarry because it cracked while being cut: it would have been one of the largest ever attempted. The tool marks are still on the rock, and it shows better than any museum how monoliths were quarried.",
+        "come": "By taxi, south of the centre; usually combined with Philae and the High Dam.",
+        "quando": "Early morning, before the quarry heats up.",
+        "tempo": "45 minutes",
+        "costo": "220 EGP, about €3.50, for foreign adults; students 110 EGP (2026)",
+        "orari": "Daily from 7am, last entry 3pm (2026)",
+        "lat": 24.07689,
+        "lng": 32.89545,
+        "url": "https://egymonuments.com/details/UnfinishedObelisk"
+      },
+      {
+        "nome": "Tombs of the Nobles (Qubbet el-Hawa)",
+        "testo": "The rock-cut tombs of the governors of Elephantine, dug into the hill on the west bank. A steep staircase leads up, and the top offers one of the best views over the Nile, the islands and the town.",
+        "come": "Boat from the Corniche to the landing below the hill, then on foot.",
+        "quando": "Afternoon, before closing: the light on the river is warmer.",
+        "tempo": "1.5 hours",
+        "costo": "200 EGP, about €3.50, for foreign adults; students 100 EGP (2026)",
+        "orari": "Daily 7am-4pm (2026)",
+        "lat": 24.10177,
+        "lng": 32.88916,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/qubbat-al-hawa-cemetery-1"
+      },
+      {
+        "nome": "Monastery of St Simeon",
+        "testo": "A fortified Coptic monastery in the desert of the west bank, with stone and mud-brick walls, the church and the monks' cells. It is one of the best-preserved monastic complexes in Egypt and usually almost empty.",
+        "come": "Boat to the west bank, then uphill on foot through the sand, or by camel at an agreed price.",
+        "quando": "Early morning: there is no shade in the desert.",
+        "tempo": "1.5-2 hours including the climb",
+        "costo": "150 EGP, about €2.50, for foreign adults; students 50 EGP (2026)",
+        "orari": "Daily 7am-5pm (2026)",
+        "lat": 24.09472,
+        "lng": 32.87578,
+        "url": "https://egymonuments.gov.eg/en/monuments/monastery-of-st-simeon/"
       },
       {
         "nome": "Nubian village of Gharb Soheil",
@@ -1103,20 +1177,79 @@ export const destinazioniEgitto: Destinazione[] = [
         "consiglio": "Lunch or dinner in a Nubian home is the best way to get to know the area."
       },
       {
-        "nome": "Felucca at sunset",
-        "testo": "The traditional sailing boat around Elephantine Island, for a trip of an hour or two.",
-        "come": "From the Aswan riverfront.",
-        "quando": "Sunset.",
-        "tempo": "1-2 hours",
-        "consiglio": "Agree whether the price is per boat or per person, and how long it lasts."
+        "nome": "Temple of Kalabsha",
+        "testo": "The temple of the Nubian god Mandulis, dismantled and rebuilt near the High Dam to save it from Lake Nasser, like Abu Simbel. Next to it are the Kiosk of Kertassi and the small temple of Beit el-Wali, also moved, and visitors are few.",
+        "come": "By motorboat from the harbour on the lake, south of the High Dam, at a price to be agreed; by taxi together with Philae and the dam.",
+        "quando": "Morning.",
+        "tempo": "1-1.5 hours",
+        "costo": "200 EGP, about €3.50, for foreign adults; students 100 EGP; boat extra (2026)",
+        "orari": "Daily from 7am, last entry 3pm (2026)",
+        "lat": 23.96083,
+        "lng": 32.86722,
+        "url": "https://egymonuments.com/details/TempleofKalabsha"
+      },
+      {
+        "nome": "High Dam",
+        "testo": "The 1960s dam that created Lake Nasser, one of the largest artificial lakes in the world. You drive across and stop at the viewpoint: the lake on one side, the Nile on the other.",
+        "come": "By taxi, on the way to Philae or Kalabsha; there may be a document check.",
+        "quando": "On the same trip as Philae.",
+        "tempo": "20-30 minutes",
+        "lat": 23.97056,
+        "lng": 32.87778
+      },
+      {
+        "nome": "Botanical Garden (Kitchener's Island)",
+        "testo": "An island in the Nile turned into a botanical garden, with palms and tropical plants. It is an hour of shade and birds in the middle of the river, often included in a felucca ride.",
+        "come": "By felucca or motorboat from the Corniche, with the stop agreed in advance.",
+        "quando": "Late afternoon, before the sunset felucca.",
+        "tempo": "1 hour",
+        "lat": 24.09361,
+        "lng": 32.88694
+      },
+      {
+        "nome": "Mausoleum of the Aga Khan",
+        "testo": "The pink granite tomb of Aga Khan III on the hill of the west bank, in Fatimid style. It is best seen from the river, during the felucca ride.",
+        "come": "From the felucca or the west bank; ask locally whether the interior can be visited.",
+        "quando": "At sunset, from the river.",
+        "tempo": "A stop from the river",
+        "lat": 24.08828,
+        "lng": 32.8789
+      },
+      {
+        "nome": "Aswan souq",
+        "testo": "The market street running parallel to the Corniche, calmer than the souqs of Cairo, with spices, karkade, baskets of dates and Nubian fabrics.",
+        "come": "On foot from the centre.",
+        "quando": "In the evening, when it is cooler.",
+        "tempo": "1-1.5 hours",
+        "consiglio": "Bargaining is expected: ask the price per kilo of spices and karkade first."
       }
     ],
     programmi: [
       {
+        "titolo": "1 day",
+        "tappe": [
+          "At dawn: Philae by boat from the Shellal jetty",
+          "High Dam and Unfinished Obelisk",
+          "Afternoon: Nubian Museum",
+          "From 4pm: felucca around Elephantine and the Botanical Garden until sunset",
+          "Evening: a walk in the souq"
+        ]
+      },
+      {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Philae in the morning, unfinished obelisk, felucca at sunset",
-          "Day 2: Abu Simbel at dawn, back by midday"
+          "Day 1: Philae in the morning, Unfinished Obelisk, Nubian Museum and a sunset felucca",
+          "Day 2: Abu Simbel at dawn, leaving around 4am and back in the early afternoon",
+          "Late afternoon: Elephantine Island and an evening in the souq"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: boat to the west bank, Monastery of St Simeon early in the morning and the Tombs of the Nobles",
+          "Afternoon: Gharb Soheil, with dinner in a Nubian home",
+          "Alternatively: Kalabsha in the morning or a day trip to Kom Ombo"
         ]
       }
     ],
@@ -1124,7 +1257,20 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Aswan riverfront",
         "perChi": "those who want to see the Nile",
-        "testo": "Hotels near the corniche and the feluccas. Convenient for everything."
+        "testo": "Hotels near the corniche and the feluccas. Convenient for everything.",
+        "fascia": "€50-130"
+      },
+      {
+        "nome": "Elephantine Island",
+        "perChi": "those who want a Nubian village two minutes by boat from the centre",
+        "testo": "Family guesthouses and a few large hotels; the public boat links the island to the Corniche in a few minutes. Evenings are very quiet.",
+        "fascia": "€20-130"
+      },
+      {
+        "nome": "Nubian villages on the west bank",
+        "perChi": "those looking for calm and atmosphere",
+        "testo": "Painted Nubian houses turned into guesthouses, with terraces over the river, in Gharb Soheil and nearby. You need a boat or taxi to reach the centre.",
+        "fascia": "€35-85"
       },
       {
         "nome": "Abu Simbel",
@@ -1157,6 +1303,52 @@ export const destinazioniEgitto: Destinazione[] = [
       "Very insistent sellers on the riverfront: a firm no is enough."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Kom Ombo",
+        "distanza": "about 50 km, 1 hour",
+        "come": "Car with driver, or as the first stop of a cruise to Luxor.",
+        "testo": "Egypt's only double temple, dedicated to Sobek, the crocodile god, and to Horus, right on the bank of the Nile; next to it is the small museum of crocodile mummies. Ticket 450 EGP, about €7.50 (2026)."
+      },
+      {
+        "nome": "Edfu",
+        "distanza": "about 110 km, 2 hours",
+        "come": "Car with driver, often on the same day as Kom Ombo, or on a cruise.",
+        "testo": "The Temple of Horus, the best preserved in the country, with pylon, hypostyle hall and sanctuary almost intact. Ticket 550 EGP (2026, from the trip on this site)."
+      },
+      {
+        "nome": "Sehel Island",
+        "distanza": "about 4 km south, by boat",
+        "come": "Motorboat or felucca from the Corniche, at a price to be agreed.",
+        "testo": "An island with a Nubian village and hundreds of inscriptions carved on the granite boulders, including the Famine Stela. A quiet half day on the river."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Aswan?",
+        "risposta": "Two days are enough for Philae, the Nubian Museum, a felucca and Abu Simbel. A third adds the west bank, Kalabsha or an evening in a Nubian village."
+      },
+      {
+        "domanda": "Can you do Abu Simbel as a day trip from Aswan?",
+        "risposta": "Yes: you leave around 4am, drive 280 km in 3-3.5 hours, spend an hour and a half to two hours at the temples and are back in the early afternoon. To avoid the night-time wake-up, sleep in Abu Simbel or take the 45-minute EgyptAir flight."
+      },
+      {
+        "domanda": "How much does it cost to get to Abu Simbel?",
+        "risposta": "A shared minivan costs roughly $20-35 per person, a private car $100-150 per vehicle. The ticket is 822 EGP, about €14 (2026)."
+      },
+      {
+        "domanda": "When does the sun enter the temple of Abu Simbel?",
+        "risposta": "On 22 February and 22 October, at dawn, the sun reaches the sanctuary of the great temple. On those days the ticket rises to 1,200 EGP and it is very crowded."
+      },
+      {
+        "domanda": "How much is a felucca ride in Aswan?",
+        "risposta": "Roughly 300-600 EGP per hour per boat (2026). Agree on duration, route and whether the price is per boat or per person before boarding."
+      },
+      {
+        "domanda": "Can you visit Aswan in summer?",
+        "risposta": "From May to September Aswan is among the hottest places in the country, often above 40 °C: visit at dawn and go out again in the evening. The best period is November to March."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-completo'],
     imageAlt: "The temples of Abu Simbel with the colossal statues of Ramesses II carved into the rock",

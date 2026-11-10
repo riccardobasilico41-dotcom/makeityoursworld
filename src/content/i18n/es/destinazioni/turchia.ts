@@ -665,10 +665,10 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     cosaFare: ['Subir descalzo desde abajo al atardecer', 'Un baño en la piscina antigua'],
     doveDormire: 'El pueblo de Pamukkale, a los pies de las terrazas, con pensiones y pequeños hoteles con piscina termal.',
-    comeArrivare: 'Aeropuerto de Denizli Çardak, luego 1 hora por carretera; autobuses desde Göreme (nocturno, unas 9-10 horas), desde Selçuk (3 horas) y desde Antalya (4 horas).',
+    comeArrivare: "El aeropuerto más cercano es Denizli Çardak, a una hora de carretera, con vuelos desde Estambul; desde allí lanzaderas y taxis llevan al pueblo. En autobús se baja en la estación de Denizli y se toma el minibús (dolmuş) hasta Pamukkale, al pie de la colina. El autobús nocturno desde Capadocia, desde Göreme o Nevşehir, tarda unas 9-10 horas y cuesta orientativamente 20-35 €; desde Selçuk se tarda unas 3 horas y desde Antalya unas 4. En coche, Pamukkale-Afrodisias-Selçuk son unas 3,5 horas de conducción.",
     comeSpostarsi: 'A pie; dolmuş a Denizli.',
     periodoMigliore: 'primavera y otoño; en verano las terrazas blancas deslumbran y queman',
-    costi: 'Entrada a Pamukkale-Hierápolis en torno a 30 €; piscina antigua aparte, en torno a 10-15 € (indicativos).',
+    costi: "Presupuesto bajo unos 60-80 € al día por persona (pensión en el pueblo, comida en locales, entrada de 30 €); medio 100-150 € (hotel con piscina termal, Piscina Antigua, Laodicea, cena en restaurante); alto desde 200 € (hotel termal en Karahayıt, coche, guía). Entradas 2026 para visitantes extranjeros: Pamukkale-Hierápolis 30 €, Laodicea 12 €, Afrodisias 12 €; la Piscina Antigua se paga aparte, en liras.",
     erroriDaEvitare: [
       'Subir a mediodía en verano: el reflejo del blanco es cegador',
       'Esperar que todas las pozas estén llenas: muchas se dejan secas por turnos para preservar el travertino',
@@ -677,22 +677,99 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Terrazas de travertino",
-        "testo": "Las pozas blancas de caliza en la ladera, llenas por manantiales calientes. Las autoridades regulan el agua y cierran por turnos algunos tramos para que el travertino se regenere. Patrimonio de la UNESCO desde 1988 junto con Hierápolis.",
-        "come": "Entrada por el sur o el norte del sitio; autobús o coche hasta el aparcamiento.",
-        "quando": "Sitio abierto todos los días de 8 a 18, taquilla hasta las 17 (noviembre de 2026). Al atardecer, con la luz sobre el blanco; a mediodía en verano deslumbra.",
+        "testo": "Las pozas blancas de caliza a lo largo de la ladera, llenas por las fuentes termales. Las autoridades regulan el agua y cierran por turnos algunos tramos para que el travertino se regenere. Patrimonio de la UNESCO desde 1988 junto con Hierápolis.",
+        "come": "Entrada por el sur o por el norte del sitio; autobús o coche hasta el aparcamiento. Desde la entrada baja, en el pueblo, se sube descalzo en una media hora.",
+        "quando": "Al atardecer, con la luz sobre el blanco; a mediodía en verano deslumbra.",
         "tempo": "1-2 horas",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Llevar toalla y bañador, sabiendo que muchas pozas pueden estar secas.",
-        "costo": "Entrada única para Hierápolis y los travertinos: precio para extranjeros en la web oficial"
+        "costo": "30 € para visitantes extranjeros, entrada única con Hierápolis (muze.gov.tr, 2026)",
+        "orari": "Todos los días de 8 a 18, taquilla hasta las 17 (muze.gov.tr, 2026)",
+        "lat": 37.92389,
+        "lng": 29.12333,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK",
+        "consiglio": "Llevar una toalla y bañador, sabiendo que muchas pozas pueden estar secas."
       },
       {
-        "nome": "Hierápolis y Piscina Antigua",
-        "testo": "Las ruinas de la ciudad fundada en el siglo II a.C. sobre las terrazas: el teatro, la necrópolis con unas 1.200 tumbas, el martyrion octogonal de San Felipe y la piscina antigua de agua caliente con columnas en el fondo.",
-        "come": "Se recorre a pie. La piscina se paga aparte.",
-        "quando": "A primera hora o al final de la tarde.",
+        "nome": "Hierápolis y la Piscina Antigua",
+        "testo": "Las ruinas de la ciudad fundada en el siglo II a. C. sobre las terrazas: el teatro, la necrópolis con unas 1.200 tumbas, el martyrion octogonal de San Felipe y la piscina antigua de agua caliente con columnas en el fondo.",
+        "come": "Se recorre el sitio a pie. La piscina se paga aparte.",
+        "quando": "Temprano por la mañana o a última hora de la tarde.",
         "tempo": "2 horas",
-        "url": "https://muze.gov.tr/",
-        "costo": "Incluido en la entrada de los travertinos; Piscina Antigua aparte"
+        "costo": "Incluido en los 30 € de la entrada de las terrazas; Piscina Antigua aparte, en liras",
+        "orari": "Todos los días de 8 a 18, taquilla hasta las 17 (muze.gov.tr, 2026)",
+        "lat": 37.925,
+        "lng": 29.12583,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Teatro de Hierápolis",
+        "testo": "El teatro romano excavado en la ladera, con la escena decorada con relieves restaurados por la misión arqueológica italiana que trabaja aquí desde hace décadas. Desde las gradas altas se ve todo el valle del Lico.",
+        "come": "A pie desde la Piscina Antigua, unos diez minutos de subida.",
+        "quando": "Por la mañana, antes del calor: el sendero no tiene sombra.",
+        "tempo": "30-45 minutos",
+        "costo": "Incluido en la entrada de Hierápolis",
+        "lat": 37.9267,
+        "lng": 29.1292,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Necrópolis de Hierápolis",
+        "testo": "Una de las necrópolis antiguas más extensas de Anatolia, a lo largo de la calzada que llega del norte: túmulos, sarcófagos y tumbas en forma de casa, muchas inclinadas por los terremotos. Se atraviesa entrando por la puerta norte.",
+        "come": "Desde la entrada norte del sitio, a pie por la calzada antigua.",
+        "quando": "Última hora de la tarde, con la luz baja.",
+        "tempo": "45 minutos-1 hora",
+        "costo": "Incluido en la entrada de Hierápolis",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Puerta de Frontino y vía Frontina",
+        "testo": "La puerta monumental de tres arcos entre dos torres redondas, construida a finales del siglo I d. C. por el procónsul Julio Frontino y dedicada al emperador Domiciano. De aquí parte la calle columnada principal de la ciudad.",
+        "come": "Desde la entrada norte, después de la necrópolis.",
+        "quando": "Junto con la necrópolis.",
+        "tempo": "20 minutos",
+        "costo": "Incluido en la entrada de Hierápolis",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Martyrion de San Felipe",
+        "testo": "El santuario octogonal del siglo V construido donde la tradición sitúa el martirio del apóstol Felipe, en la colina sobre la ciudad. En 2011 la misión italiana anunció, cerca del martyrion, el hallazgo de la iglesia con la que considera su tumba.",
+        "come": "Subida a pie desde el teatro, unos 15-20 minutos por escalones y sendero.",
+        "quando": "Temprano por la mañana o a última hora de la tarde.",
+        "tempo": "1 hora con la subida",
+        "costo": "Incluido en la entrada de Hierápolis",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Plutonium",
+        "testo": "La gruta sagrada de Plutón de la que salen gases de dióxido de carbono, que en la Antigüedad mataban a los animales ofrecidos en sacrificio. Encontrada y excavada por la misión italiana, se ve desde fuera, junto al templo de Apolo.",
+        "come": "A pie, entre el teatro y la Piscina Antigua.",
+        "quando": "En cualquier momento de la visita.",
+        "tempo": "15 minutos",
+        "costo": "Incluido en la entrada de Hierápolis",
+        "lat": 37.9268,
+        "lng": 29.12681,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=PMK01&DistId=PMK"
+      },
+      {
+        "nome": "Museo arqueológico de Hierápolis",
+        "testo": "El museo dentro de las grandes termas romanas, con salas abovedadas de bloques de travertino. Expone sarcófagos, estatuas y relieves de Hierápolis, Laodicea y Tripolis, útiles para entender las ruinas de fuera.",
+        "come": "Junto a la Piscina Antigua, en el centro del sitio.",
+        "quando": "En las horas de más calor, cuando fuera aprieta el sol.",
+        "tempo": "45 minutos",
+        "costo": "Indicado en 30 € en muze.gov.tr, el mismo importe que la entrada del sitio",
+        "orari": "Todos los días de 8 a 17.30, taquilla hasta las 17 (muze.gov.tr, 2026)",
+        "lat": 37.92506,
+        "lng": 29.12405,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=DHA01&DistId=MRK"
+      },
+      {
+        "nome": "Karahayıt",
+        "testo": "El pueblo termal a pocos kilómetros al norte de Pamukkale, donde una fuente de agua caliente rica en hierro tiñe de rojo y naranja la caliza. Alrededor hay muchos hoteles con piscinas termales.",
+        "come": "En dolmuş o en coche desde el pueblo de Pamukkale, unos 10 minutos.",
+        "quando": "Por la tarde-noche, después de Hierápolis.",
+        "tempo": "1 hora",
+        "costo": "La fuente roja se ve gratis",
+        "lat": 37.96539,
+        "lng": 29.10268
       }
     ],
     programmi: [
@@ -704,18 +781,43 @@ export const destinazioniTurchia: Destinazione[] = [
           "Tarde: subida por las terrazas",
           "Atardecer sobre el travertino"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1 como arriba",
+          "Día 2: Laodicea a la apertura",
+          "Museo arqueológico de Hierápolis y subida al Martyrion de San Felipe",
+          "Tarde en la fuente roja y las termas de Karahayıt"
+        ]
+      },
+      {
+        "titolo": "A lo largo de la ruta",
+        "tappe": [
+          "Autobús nocturno desde Göreme o Nevşehir, llegada a Pamukkale de madrugada",
+          "Terrazas e Hierápolis durante el día, noche en el pueblo",
+          "Recogida del coche en Denizli y salida hacia el oeste",
+          "Parada de dos horas en Afrodisias y luego Selçuk para la noche"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Pueblo de Pamukkale",
         "perChi": "quien quiere estar bajo las terrazas",
-        "testo": "Pensiones familiares, piscinas termales y restaurantes sencillos."
+        "testo": "Pensiones familiares, piscinas termales y restaurantes sencillos.",
+        "fascia": "35-70 €"
       },
       {
         "nome": "Karahayıt",
         "perChi": "quien quiere baños termales",
-        "testo": "Pueblo cercano con termas y aguas rojas ricas en hierro."
+        "testo": "Pueblo cercano con termas y aguas rojas ricas en hierro.",
+        "fascia": "60-250 €"
+      },
+      {
+        "nome": "Denizli",
+        "perChi": "quien llega tarde o sigue en coche",
+        "testo": "La ciudad a una media hora, con estación de autobuses, alquiler de coches y hoteles urbanos; poco interesante para quedarse, cómoda para la logística."
       }
     ],
     sapori: [
@@ -742,6 +844,46 @@ export const destinazioniTurchia: Destinazione[] = [
       "Seguir las indicaciones de los vigilantes sobre dónde y cómo caminar por el travertino: normalmente descalzo, así que llevar una bolsa para el calzado."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Afrodisias",
+        "distanza": "unas 1,5 horas en coche",
+        "come": "En coche, en la carretera hacia Selçuk; en transporte público es incómodo.",
+        "testo": "La ciudad de Afrodita, patrimonio de la UNESCO desde 2017, con un estadio romano casi intacto, el tetrapylon y un museo lleno de estatuas de su escuela de escultores, incluidos los relieves del Sebasteion. Entrada 12 €, abierto todos los días de 8.30 a 17.30 (muze.gov.tr, 2026)."
+      },
+      {
+        "nome": "Laodicea",
+        "distanza": "unos 20 minutos en coche",
+        "come": "En coche o en taxi desde Pamukkale, hacia Denizli.",
+        "testo": "Una de las siete iglesias del Apocalipsis, con dos teatros, calles columnadas en parte levantadas de nuevo y una iglesia del siglo IV bajo una cubierta. Mucho menos visitada que Hierápolis. Entrada 12 €, todos los días de 8 a 17.30 (muze.gov.tr, 2026)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto tiempo hace falta en Pamukkale?",
+        "risposta": "Un día completo basta para las terrazas e Hierápolis. Conviene dormir en el pueblo para ver el atardecer sobre el travertino y tener la mañana temprano sin grupos; un segundo día solo si se añaden Laodicea o Afrodisias."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada a Pamukkale?",
+        "risposta": "Para visitantes extranjeros la entrada única de terrazas e Hierápolis cuesta 30 € en 2026. La Piscina Antigua se paga aparte, en liras, en su propia taquilla."
+      },
+      {
+        "domanda": "¿Se puede bañar uno en las terrazas?",
+        "risposta": "Se camina descalzo y uno se moja en las pozas abiertas, que tienen poca agua y cambian por turnos. Para nadar de verdad está la Piscina Antigua, entre columnas sumergidas."
+      },
+      {
+        "domanda": "¿Mejor entrar por la entrada baja o por la alta?",
+        "risposta": "Desde la entrada baja, en el pueblo, se sube descalzo por el travertino en una media hora, la forma más bonita de llegar a Hierápolis. Las entradas norte y sur, a las que se llega en coche o en tour, van bien para empezar por las ruinas y la necrópolis."
+      },
+      {
+        "domanda": "¿Se puede visitar Pamukkale en el día desde Selçuk?",
+        "risposta": "Sí, con un tour o en autobús, pero son unas 3 horas por trayecto y se pierde el atardecer. Mejor una noche en el pueblo, de camino entre Capadocia y la costa."
+      },
+      {
+        "domanda": "¿Vale la pena el Museum Pass?",
+        "risposta": "El Museum Pass The Mediterranean, 90 € por 7 días, cubre los sitios estatales de las provincias de Antalya, Mersin, Adana y Denizli, así que también Pamukkale y Laodicea. Compensa a quien sigue hacia la costa licia y Antalya."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Las pozas de travertino blanco de Pamukkale llenas de agua azulada',
@@ -769,10 +911,10 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     cosaFare: ['Entrar por la puerta alta y bajar hacia la biblioteca', 'Probar los vinos de fruta en Şirince'],
     doveDormire: 'Selçuk por comodidad y precios, Şirince por la calma; Kuşadası para quien quiera el mar cerca.',
-    comeArrivare: 'Aeropuerto de Esmirna (1 hora); tren Esmirna-Selçuk; autobús desde Pamukkale.',
+    comeArrivare: "El aeropuerto más cercano es Esmirna Adnan Menderes, a una hora de carretera de Selçuk; desde la estación del aeropuerto y desde el centro de Esmirna los trenes regionales llegan a la estación de Selçuk. Desde Pamukkale hay autobuses directos en unas 3 horas, y en coche, pasando por Afrodisias, se calculan unas 3,5 horas de conducción. De Selçuk a la entrada alta de Éfeso hay pocos kilómetros: taxi por pocos euros o dolmuş.",
     comeSpostarsi: 'Taxi o dolmuş de Selçuk a la entrada alta de Éfeso (pocos km); coche de alquiler.',
     periodoMigliore: 'abril-junio y septiembre-octubre, siempre a la apertura',
-    costi: 'Éfeso en torno a 40 €, casas en terraza en torno a 15 € (indicativos, en euros).',
+    costi: "Presupuesto bajo unos 70-90 € al día por persona (pensión en Selçuk, dolmuş, Éfeso, comida en locales); medio 130-180 € (casa de piedra en Şirince u hotel en Selçuk, taxis, casas en terraza y museo, cenas con vino); alto desde 250 € (hotel boutique, guía privado, coche). Entradas 2026 para visitantes extranjeros: Éfeso 40 € con el museo experiencial, casas en terraza 15 €, museo de Éfeso 10 €, basílica de San Juan 6 €.",
     erroriDaEvitare: [
       'Entrar a media mañana en temporada alta, cuando llegan los pasajeros de los cruceros de Kuşadası',
       'Saltarse las casas en terraza para ahorrar: son la parte más bonita del sitio',
@@ -781,28 +923,111 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Éfeso",
-        "testo": "La gran ciudad grecorromana con la biblioteca de Celso (siglo II d. C.), el gran teatro de unas 24.000-25.000 plazas, la vía de los Curetes y las Casas en terraza, seis residencias romanas con mosaicos y frescos bajo una cubierta.",
+        "testo": "La gran ciudad grecorromana con la biblioteca de Celso (siglo II d. C.), el gran teatro de unas 24.000-25.000 plazas, la vía de los Curetes y las Casas en terraza, residencias romanas con mosaicos y frescos bajo una cubierta.",
         "come": "Desde Selçuk en taxi o dolmuş; la entrada superior evita la subida.",
-        "quando": "Abierto todos los días de 8 a 18, taquilla hasta las 17.30 (noviembre de 2026). A la apertura, sobre todo cuando llegan los cruceros de Kuşadası.",
+        "quando": "A la apertura, sobre todo cuando llegan los cruceros de Kuşadası: desde las 10 el sitio se llena.",
         "tempo": "2-3 horas",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Las Casas en terraza están entre lo mejor del sitio: comprobar en taquilla si están incluidas.",
-        "costo": "La entrada incluye también el museo experiencial de Éfeso; precio para extranjeros en la web oficial"
+        "costo": "40 € para visitantes extranjeros, con el museo experiencial de Éfeso incluido (muze.gov.tr, 2026)",
+        "orari": "Todos los días de 8 a 18, taquilla hasta las 17.30 (muze.gov.tr, 2026)",
+        "lat": 37.94097,
+        "lng": 27.34147,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS",
+        "consiglio": "Las Casas en terraza tienen una entrada aparte de 15 €: merece la pena, están entre lo mejor del sitio."
+      },
+      {
+        "nome": "Casas en terraza",
+        "testo": "Siete casas romanas de los notables de Éfeso construidas en el siglo I d. C. en las terrazas del monte Koressos, bajo una gran cubierta. Se camina por pasarelas sobre suelos de mosaico y paredes con frescos.",
+        "come": "Dentro de Éfeso, en la vía de los Curetes, con entrada aparte.",
+        "quando": "Antes del mediodía, antes de bajar a la biblioteca.",
+        "tempo": "45 minutos-1 hora",
+        "costo": "15 € para visitantes extranjeros (muze.gov.tr, 2026)",
+        "orari": "Todos los días de 9 a 17, taquilla hasta las 16.30 (muze.gov.tr, 2026)",
+        "lat": 37.93806,
+        "lng": 27.34139,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS02&DistId=EFS"
+      },
+      {
+        "nome": "Biblioteca de Celso",
+        "testo": "La fachada de dos pisos más fotografiada de Turquía, construida a principios del siglo II d. C. por el hijo del gobernador Celso como biblioteca y tumba de su padre. Se volvió a levantar pieza a pieza en los años setenta.",
+        "come": "Al final de la vía de los Curetes, bajando desde la entrada alta.",
+        "quando": "Nada más abrir, antes de los grupos, o en la última hora.",
+        "tempo": "20-30 minutos",
+        "costo": "Incluida en la entrada de Éfeso",
+        "lat": 37.93914,
+        "lng": 27.34075,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS"
+      },
+      {
+        "nome": "Gran teatro de Éfeso",
+        "testo": "El teatro excavado en el monte Panayır, el mayor del Asia Menor romana, con unas 24.000-25.000 plazas. Delante empieza la vía del Puerto, que antes llegaba al mar.",
+        "come": "Dentro de Éfeso, junto a la entrada baja.",
+        "quando": "Al final de la visita, con la luz de la tarde.",
+        "tempo": "20-30 minutos",
+        "costo": "Incluido en la entrada de Éfeso",
+        "lat": 37.94101,
+        "lng": 27.34273,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS"
+      },
+      {
+        "nome": "Museo experiencial de Éfeso",
+        "testo": "El museo multimedia frente al gran teatro, que recrea con proyecciones y audioguía la vida de la ciudad antigua. Útil antes o después del recorrido por las ruinas.",
+        "come": "Frente al gran teatro, dentro del sitio.",
+        "quando": "Al final de la visita, en las horas de calor.",
+        "tempo": "30-45 minutos",
+        "costo": "Incluido en los 40 € de Éfeso (muze.gov.tr, 2026)",
+        "orari": "Todos los días de 8 a 18, taquilla hasta las 17.30 (muze.gov.tr, 2026)",
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFS03&DistId=EFS"
+      },
+      {
+        "nome": "Museo de Éfeso",
+        "testo": "El museo arqueológico de Selçuk, con las dos estatuas de Artemisa halladas en Éfeso, piezas de las casas en terraza y salas sobre las fuentes y el culto imperial. Ayuda a ordenar lo visto por la mañana.",
+        "come": "A pie en el centro de Selçuk.",
+        "quando": "Por la tarde, después de Éfeso.",
+        "tempo": "1 hora",
+        "costo": "10 € para visitantes extranjeros (muze.gov.tr, 2026)",
+        "orari": "Todos los días de 8.30 a 17.30, taquilla hasta las 17 (muze.gov.tr, 2026)",
+        "lat": 37.94896,
+        "lng": 27.36767,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=EFM01&DistId=EFM"
       },
       {
         "nome": "Basílica de San Juan y castillo de Selçuk",
         "testo": "La basílica que Justiniano mandó construir en el siglo VI sobre la tumba tradicional del apóstol, con el castillo en la colina.",
         "come": "A pie desde Selçuk.",
-        "quando": "Mañana.",
+        "quando": "Por la mañana, o al atardecer.",
         "tempo": "1 hora",
-        "url": "https://muze.gov.tr/"
+        "costo": "6 € para visitantes extranjeros (muze.gov.tr, 2026)",
+        "orari": "Todos los días de 8 a 18, taquilla hasta las 17.30 (muze.gov.tr, 2026)",
+        "lat": 37.95292,
+        "lng": 27.36697,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=STJ01&DistId=STJ"
+      },
+      {
+        "nome": "Mezquita de İsa Bey",
+        "testo": "La mezquita de 1375, al pie de la colina de San Juan, con columnas de granito tomadas de las ruinas de Éfeso y una portada de mármol. Es una de las más antiguas de Anatolia occidental.",
+        "come": "A pie desde el centro de Selçuk, bajo la basílica.",
+        "quando": "Fuera de los horarios de oración.",
+        "tempo": "20 minutos",
+        "lat": 37.95222,
+        "lng": 27.36583
+      },
+      {
+        "nome": "Artemision",
+        "testo": "El templo de Artemisa, una de las siete maravillas del mundo antiguo: hoy, en un prado pantanoso, queda en pie una sola columna reconstruida. Desde aquí se ven juntas la basílica y la mezquita de İsa Bey.",
+        "come": "A pie desde Selçuk, en la carretera hacia Éfeso.",
+        "quando": "Al atardecer.",
+        "tempo": "15-20 minutos",
+        "lat": 37.94972,
+        "lng": 27.36389
       },
       {
         "nome": "Casa de la Virgen María (Meryem Ana)",
         "testo": "El santuario en las colinas sobre Selçuk que la tradición católica, desde el siglo XIX, considera la última casa de la Virgen. Lo han visitado tres papas.",
-        "come": "En taxi o en tour desde Selçuk.",
+        "come": "En taxi o en tour desde Selçuk; está a unos 15 minutos de la entrada alta de Éfeso.",
         "quando": "Mañana.",
-        "tempo": "45 minutos"
+        "tempo": "45 minutos",
+        "lat": 37.91154,
+        "lng": 27.33406
       },
       {
         "nome": "Şirince",
@@ -810,6 +1035,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "Dolmuş o taxi desde Selçuk, unos 7 km.",
         "quando": "Tarde.",
         "tempo": "1-2 horas",
+        "lat": 37.94139,
+        "lng": 27.43306,
         "consiglio": "Probar los vinos de fruta antes de comprar."
       }
     ],
@@ -822,18 +1049,43 @@ export const destinazioniTurchia: Destinazione[] = [
           "Tarde: basílica de San Juan",
           "Noche: Şirince"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Éfeso desde la entrada alta, Casas en terraza, biblioteca de Celso y gran teatro",
+          "Tarde en el museo de Éfeso y cena en Selçuk",
+          "Día 2: casa de la Virgen por la mañana",
+          "Basílica de San Juan, mezquita de İsa Bey y Artemision, y noche en Şirince"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: Priene, Mileto y Dídima en coche, hacia el sur",
+          "O media jornada de playa en Kuşadası"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Selçuk",
         "perChi": "quien quiere estar cerca de Éfeso",
-        "testo": "Pueblo con pensiones familiares, restaurantes y mercado."
+        "testo": "Pueblo con pensiones familiares, restaurantes y mercado.",
+        "fascia": "35-60 €"
       },
       {
         "nome": "Şirince",
         "perChi": "quien quiere ambiente de pueblo",
-        "testo": "Casas de piedra y viñedos, más tranquilo pero aislado y con pocos servicios."
+        "testo": "Casas de piedra y viñedos, más tranquilo pero aislado y con pocos servicios.",
+        "fascia": "70-120 €"
+      },
+      {
+        "nome": "Kuşadası",
+        "perChi": "quien quiere el mar",
+        "testo": "La ciudad costera a unos veinte minutos, con el puerto de cruceros, playas y grandes hoteles; más cara y concurrida que Selçuk.",
+        "fascia": "80-190 €"
       }
     ],
     sapori: [
@@ -860,6 +1112,46 @@ export const destinazioniTurchia: Destinazione[] = [
       "Guías en el lugar: acordar precio y duración antes de empezar."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Priene, Mileto y Dídima",
+        "distanza": "aproximadamente 1 hora en coche hasta Priene",
+        "come": "En coche o con un tour de día desde Selçuk; en transporte público hacen falta varios cambios.",
+        "testo": "Tres sitios jonios en fila hacia el sur: Priene en la ladera del monte, con su plano en cuadrícula, el gran teatro de Mileto y el templo de Apolo en Dídima, con columnas enormes."
+      },
+      {
+        "nome": "Kuşadası",
+        "distanza": "unos 20 km, 20-30 minutos",
+        "come": "En dolmuş o en coche desde Selçuk.",
+        "testo": "La ciudad costera más cercana, con el paseo marítimo, la isla de las Palomas y las playas de la península de Dilek. Para media jornada de mar."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto cuesta entrar en Éfeso?",
+        "risposta": "En 2026 la entrada para visitantes extranjeros cuesta 40 € e incluye el museo experiencial. Las Casas en terraza se pagan aparte, 15 €; el museo de Éfeso en Selçuk cuesta 10 € y la basílica de San Juan 6 €."
+      },
+      {
+        "domanda": "¿Cuánto tiempo hace falta para visitar Éfeso?",
+        "risposta": "El sitio se ve en 2-3 horas, más una hora para las Casas en terraza. Con Selçuk, el museo y Şirince hace falta un día completo, dos para añadir la casa de la Virgen sin prisas."
+      },
+      {
+        "domanda": "¿Por qué entrada conviene entrar?",
+        "risposta": "Por la entrada alta, en taxi desde Selçuk: se baja por la vía de los Curetes hasta la biblioteca de Celso y el gran teatro, sin subidas."
+      },
+      {
+        "domanda": "¿Mejor dormir en Selçuk o en Kuşadası?",
+        "risposta": "Selçuk está a pocos minutos de Éfeso, es más tranquila y barata. Kuşadası tiene mar y más hoteles, pero es más cara y se llena con los cruceros."
+      },
+      {
+        "domanda": "¿Cuándo ir para evitar las multitudes?",
+        "risposta": "A la apertura de las 8: desde las 10 llegan los pasajeros de los cruceros de Kuşadası. Primavera y principios de otoño son los mejores meses; en verano a mediodía se superan los 35 °C."
+      },
+      {
+        "domanda": "¿Se puede llegar a Éfeso desde el aeropuerto de Esmirna?",
+        "risposta": "Sí: Selçuk está a una hora, en tren regional desde la estación del aeropuerto o con traslado, y desde Selçuk a la entrada de Éfeso bastan unos minutos de taxi."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Las gradas de piedra del antiguo estadio de Éfeso',
