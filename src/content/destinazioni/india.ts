@@ -1066,9 +1066,10 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Salire al tempio di Savitri per l\'alba', 'Assistere all\'aarti serale sui ghat', 'Visitare la fiera dei cammelli, se le date coincidono'],
     doveDormire: 'Guesthouse e piccoli hotel con terrazza sul lago; durante la fiera i prezzi si moltiplicano.',
     doveMangiare: 'Thali vegetariani, malpua (frittelle dolci) e caffè sulle terrazze.',
-    comeArrivare: 'Da Jaipur circa 3 ore di auto, o treno fino ad Ajmer e 30 minuti di strada.',
+    comeArrivare: "Da Jaipur sono circa 3 ore d'auto. In treno si arriva ad Ajmer, stazione sulle linee da Delhi e Jaipur, e da lì restano circa 15 km e mezz'ora di strada oltre la collina di Nag Pahar, in taxi, tuk-tuk o bus locale. Per proseguire, Jodhpur è a 4-5 ore d'auto. L'aeroporto con più voli è quello di Jaipur. Il centro intorno al lago è pedonale: l'auto lascia ai margini del bazar.",
     comeSpostarsi: 'A piedi.',
     periodoMigliore: 'ottobre-marzo; fiera dei cammelli intorno alla luna piena di Kartik.',
+    costi: "Templi e ghat sono gratuiti; la funivia per Savitri è a pagamento. Budget al giorno a persona in doppia: 20-35 € in guesthouse con thali e chai, 50-80 € in un hotel con piscina e qualche taxi, da 150 € nei resort e nei campi di lusso; durante la fiera dei cammelli i prezzi degli alloggi si moltiplicano.",
     erroriDaEvitare: [
       'Accettare il fiore «in regalo» per la puja sui ghat: segue la richiesta di una donazione',
       'Fotografare i bagnanti sui ghat senza chiedere',
@@ -1081,7 +1082,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "L'alba e il tramonto, con l'aarti serale sui ghat principali come Varaha e Gau Ghat.",
         tempo: "2 ore",
         costo: "gratuito",
-        consiglio: "Sedersi su una terrazza sul lago al tramonto invece che sui gradini: si guarda la cerimonia senza essere avvicinati."
+        consiglio: "Sedersi su una terrazza sul lago al tramonto invece che sui gradini: si guarda la cerimonia senza essere avvicinati.",
+        lat: 26.48722,
+        lng: 74.55417,
       },
       {
         nome: "Tempio di Brahma",
@@ -1090,7 +1093,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Mattina presto o tardo pomeriggio: a metà giornata chiude, di solito dalle 13.30 alle 15.",
         tempo: "30 minuti",
         costo: "ingresso libero",
-        consiglio: "Chi vi offre di accompagnarvi «per la benedizione» chiederà un'offerta: si entra benissimo da soli."
+        consiglio: "Chi vi offre di accompagnarvi «per la benedizione» chiederà un'offerta: si entra benissimo da soli.",
+        orari: "Aperto dalla mattina presto alla sera, con una pausa a metà giornata (di solito 13:30-15:00).",
+        lat: 26.48732,
+        lng: 74.54893,
       },
       {
         nome: "Tempio di Savitri",
@@ -1098,7 +1104,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A piedi su una lunga scalinata, oppure in funivia (orari e prezzi sul posto).",
         quando: "All'alba, partendo al buio con una torcia, o al tramonto.",
         tempo: "2 ore con la salita",
-        consiglio: "Portare acqua: lungo la scalinata non c'è nulla."
+        consiglio: "Portare acqua: lungo la scalinata non c'è nulla.",
+        lat: 26.48596,
+        lng: 74.54606,
       },
       {
         nome: "La fiera dei cammelli",
@@ -1107,29 +1115,74 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "I primi giorni, quando si commerciano i cammelli; gli ultimi cinque, intorno alla luna piena, sono i più affollati di pellegrini.",
         tempo: "una mezza giornata",
         consiglio: "Prenotare l'alloggio con mesi di anticipo: in quei giorni i prezzi si moltiplicano."
-      }
+      },
+      {
+        nome: "Tempio di Varaha",
+        testo: "Uno dei templi più antichi di Pushkar, dedicato a Varaha, l'incarnazione di Vishnu in forma di cinghiale, accanto al ghat che porta lo stesso nome. Distrutto e ricostruito più volte, l'edificio attuale è del Settecento.",
+        come: "A piedi dal bazar, sulla riva del lago. Scarpe tolte.",
+        quando: "Al mattino o prima dell'aarti serale al Varaha Ghat.",
+        tempo: "30 minuti",
+        costo: "Ingresso libero.",
+      },
+      {
+        nome: "Tempio di Old Rangji",
+        testo: "Un tempio dell'Ottocento dedicato a Vishnu come Rangji, con la torre d'ingresso in stile dell'India del sud: un'eccezione nel Rajasthan, che mescola elementi rajput e moghul. Si vede bene dal bazar.",
+        come: "A piedi nel bazar, tra il tempio di Brahma e il lago.",
+        quando: "Al mattino o nel tardo pomeriggio.",
+        tempo: "20-30 minuti",
+      },
+      {
+        nome: "Tempio di Pap Mochani",
+        testo: "Un piccolo tempio su una collina ai margini del paese, con una salita molto più breve di quella di Savitri. Da su si vede Pushkar con il lago e le dune verso il deserto, ed è un buon posto per l'alba.",
+        come: "A piedi dal paese, su un sentiero con gradini.",
+        quando: "All'alba o al tramonto.",
+        tempo: "1 ora con la salita",
+        lat: 26.49639,
+        lng: 74.55427,
+        consiglio: "Per chi non ha le gambe per Savitri, la vista è quasi la stessa.",
+      },
+      {
+        nome: "Il bazar principale",
+        testo: "La lunga strada pedonale che corre parallela al lago, dal tempio di Brahma al Varaha Ghat. Botteghe di tessuti, argento, strumenti musicali, prodotti di rosa e dolci fritti nel ghi, con mucche e pellegrini in mezzo.",
+        come: "A piedi: le auto restano fuori.",
+        quando: "Al mattino presto per camminare in pace, la sera per l'atmosfera.",
+        tempo: "1-2 ore",
+        costo: "Gratuito.",
+        consiglio: "Contrattare con calma: i primi prezzi per gli stranieri sono spesso alti.",
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
           "Arrivo da Jaipur e tramonto sui ghat",
-          "Aarti serale",
+          "Aarti serale al Varaha Ghat",
           "Alba al tempio di Savitri",
-          "Tempio di Brahma e bazar, poi partenza per Jodhpur"
-        ]
-      }
+          "Tempio di Brahma e bazar, poi partenza per Jodhpur",
+        ],
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: come sopra, fino all'aarti",
+          "Giorno 2: alba a Savitri, tempio di Brahma, Old Rangji e Varaha",
+          "Pomeriggio ad Ajmer per la dargah, rientro per il tramonto da Pap Mochani",
+          "Cena su una terrazza sul lago",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Intorno al lago",
         perChi: "chi vuole i ghat a piedi",
-        testo: "Guesthouse e piccoli hotel con terrazza sull'acqua, nel centro pedonale. Campane e altoparlanti dei templi dall'alba."
+        testo: "Guesthouse e piccoli hotel con terrazza sull'acqua, nel centro pedonale. Campane e altoparlanti dei templi dall'alba.",
+        fascia: "20-60 €",
       },
       {
         nome: "Fuori paese",
         perChi: "calma e piscina",
-        testo: "Resort e campi tendati tra i campi, a 2-5 chilometri. Silenziosi, serve un tuk-tuk per il lago."
+        testo: "Resort e campi tendati tra i campi, a 2-5 chilometri. Silenziosi, serve un tuk-tuk per il lago.",
+        fascia: "40-120 €",
       }
     ],
     sapori: [
@@ -1155,6 +1208,46 @@ export const destinazioniIndia: Destinazione[] = [
       "Non fotografate chi fa il bagno o le cerimonie senza chiedere.",
       "Il bhang lassi, con la cannabis, si trova facilmente ma ha effetti forti e imprevedibili.",
       "Durante la fiera dei cammelli attenzione ai borseggiatori nella folla."
+    ],
+    gite: [
+      {
+        nome: "Ajmer e la dargah di Moinuddin Chishti",
+        distanza: "circa 15 km, 30 minuti di strada",
+        come: "In taxi, tuk-tuk o bus locale oltre la collina di Nag Pahar.",
+        testo: "Il santuario sufi del XIII secolo dedicato a Moinuddin Chishti, uno dei luoghi di pellegrinaggio più frequentati dell'India, da musulmani e non. Si entra a capo coperto e senza scarpe, tra i qawwali e le offerte di fiori.",
+      },
+      {
+        nome: "Ajmer: Soniji ki Nasiyan e Ana Sagar",
+        distanza: "circa 15 km, 30 minuti di strada",
+        come: "Nello stesso giro della dargah, in taxi o tuk-tuk.",
+        testo: "Il tempio giainista dell'Ottocento con la sala d'oro, dove un modello dorato rappresenta l'universo giainista con città, navi e figure volanti. Poco lontano c'è il lago Ana Sagar, con i padiglioni di marmo sul lungolago voluti dall'imperatore Shah Jahan.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Pushkar?",
+        risposta: "Una notte basta per un tramonto sui ghat, l'aarti e l'alba a Savitri. Con due si aggiungono Ajmer e qualche ora di calma sulle terrazze.",
+      },
+      {
+        domanda: "Quando si tiene la fiera dei cammelli di Pushkar nel 2026?",
+        risposta: "Nei giorni che precedono la luna piena di Kartik, che nel 2026 cade il 24 novembre. Le date esatte le pubblica il governo del Rajasthan; i primi giorni sono quelli del commercio dei cammelli.",
+      },
+      {
+        domanda: "A Pushkar si possono mangiare carne e bere alcol?",
+        risposta: "No: per tradizione la città è vegetariana, senza carne, uova né alcol nei locali. Il bhang lassi invece si trova, ma ha effetti forti e imprevedibili.",
+      },
+      {
+        domanda: "Come si evita la truffa del fiore sui ghat?",
+        risposta: "Rifiutando con gentilezza il fiore offerto «in regalo»: chi lo accetta viene portato a una puja e poi gli si chiede una donazione, spesso alta. Ai templi si entra benissimo da soli.",
+      },
+      {
+        domanda: "Come si arriva a Pushkar da Jaipur?",
+        risposta: "In auto in circa 3 ore, oppure in treno fino ad Ajmer e poi circa 30 minuti di strada in taxi, tuk-tuk o bus locale.",
+      },
+      {
+        domanda: "Si può visitare Pushkar in giornata?",
+        risposta: "Da Ajmer sì, ma si perdono il tramonto e l'alba, che sono il motivo per venire. Meglio dormire almeno una notte sul lago.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
@@ -1183,10 +1276,10 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['La visita del forte con l\'audioguida inclusa', 'Il tramonto da una terrazza della città vecchia', 'La zipline sulle mura del forte'],
     doveDormire: 'Haveli con terrazza sotto il forte, nella zona del Ghanta Ghar e di Navchokiya.',
     doveMangiare: 'Mirchi bada, pyaaz kachori e makhaniya lassi allo zafferano.',
-    comeArrivare: 'Da Jaipur in treno o in auto: si calcola mezza giornata di viaggio.',
+    comeArrivare: "Da Jaipur il treno impiega circa 5 ore (classi CC o 3A, prenotazione su IRCTC); in auto con autista si calcola mezza giornata. Da Pushkar sono circa 4-5 ore di strada, da Jaisalmer circa 5. L'aeroporto di Jodhpur, con voli interni da Delhi, Mumbai e altre città, è a circa 5 km dal centro: si arriva alla città vecchia in taxi o tuk-tuk. Nella città vecchia le auto si fermano ai margini dei vicoli e l'ultimo tratto si fa a piedi o in tuk-tuk.",
     comeSpostarsi: 'A piedi e in tuk-tuk; le auto non entrano nei vicoli.',
     periodoMigliore: 'ottobre-marzo; notti fredde a gennaio.',
-    costi: 'Museo di Mehrangarh 800 rupie per gli stranieri, audioguida compresa; Jaswant Thada 100 rupie; Rao Jodha Park 100 rupie (sito ufficiale, 2026).',
+    costi: "Museo di Mehrangarh 800 rupie per gli stranieri, audioguida compresa; Jaswant Thada 100 rupie; Rao Jodha Park 100 rupie (sito ufficiale, 2026); zipline da 1.699 rupie. Budget al giorno a persona in doppia: 30-45 € in guesthouse sotto il forte, 70-110 € in haveli boutique con autista, da 250 € negli hotel-palazzo.",
     erroriDaEvitare: ['Arrivare con trolley pesanti nei vicoli a scalinata', 'Visitare il forte nelle ore centrali'],
     luoghi: [
       {
@@ -1197,7 +1290,10 @@ export const destinazioniIndia: Destinazione[] = [
         tempo: "2-3 ore",
         url: "https://www.mehrangarh.org/visit/",
         costo: "800 rupie per gli stranieri, audioguida compresa (sito ufficiale, 2026)",
-        consiglio: "Prendere l'audioguida, compresa nel biglietto per gli stranieri: racconta il forte stanza per stanza e si gira con calma senza guida."
+        consiglio: "Prendere l'audioguida, compresa nel biglietto per gli stranieri: racconta il forte stanza per stanza e si gira con calma senza guida.",
+        orari: "Museo aperto tutti i giorni, 9:00-17:00 (sito ufficiale).",
+        lat: 26.29806,
+        lng: 73.01889,
       },
       {
         nome: "Jaswant Thada",
@@ -1206,7 +1302,11 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Tutti i giorni dalle 9 alle 17. Il tardo pomeriggio, con la vista sul forte.",
         tempo: "45 minuti",
         url: "https://www.mehrangarh.org/visit/",
-        consiglio: "Si abbina al Rao Jodha Desert Rock Park, che è accanto."
+        consiglio: "Si abbina al Rao Jodha Desert Rock Park, che è accanto.",
+        costo: "100 rupie per gli stranieri, circa 1 € (sito ufficiale, 2026).",
+        orari: "Tutti i giorni, 9:00-17:00.",
+        lat: 26.30389,
+        lng: 73.02528,
       },
       {
         nome: "Rao Jodha Desert Rock Park",
@@ -1215,7 +1315,11 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Da ottobre a marzo dalle 8 alle 17.30, da aprile a settembre dalle 7 alle 18.30. Mattina presto per la luce e gli uccelli.",
         tempo: "1-2 ore",
         url: "https://www.mehrangarh.org/visit/",
-        consiglio: "È il posto più tranquillo di Jodhpur: buono per staccare dopo il forte."
+        consiglio: "È il posto più tranquillo di Jodhpur: buono per staccare dopo il forte.",
+        costo: "100 rupie; guida naturalista 200 rupie (sito ufficiale, 2026).",
+        orari: "Tutti i giorni: ottobre-marzo 8:00-17:30, aprile-settembre 7:00-18:30.",
+        lat: 26.30076,
+        lng: 73.01579,
       },
       {
         nome: "La città blu: Brahmpuri e Navchokiya",
@@ -1233,7 +1337,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Il pozzo al mattino; il mercato dal tardo mattino alla sera.",
         tempo: "1-2 ore",
         costo: "gratuito",
-        consiglio: "La sera, con il pozzo illuminato e il mercato aperto, è il momento migliore."
+        consiglio: "La sera, con il pozzo illuminato e il mercato aperto, è il momento migliore.",
+        lat: 26.29715,
+        lng: 73.02301,
       },
       {
         nome: "Umaid Bhawan Palace",
@@ -1241,45 +1347,112 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Fuori dalla città vecchia, in tuk-tuk. Il museo ha ingresso separato dall'hotel.",
         quando: "Di giorno; si abbina bene al pomeriggio.",
         tempo: "1 ora",
-        consiglio: "Se il tempo è poco, si può saltare: Mehrangarh e i vicoli valgono di più."
-      }
+        consiglio: "Se il tempo è poco, si può saltare: Mehrangarh e i vicoli valgono di più.",
+        lat: 26.28083,
+        lng: 73.04694,
+      },
+      {
+        nome: "Tempio di Chamunda Mata",
+        testo: "Il tempio della dea protettrice dei Rathore, sul bastione meridionale di Mehrangarh. Rao Jodha vi portò l'immagine della dea quando fondò il forte. Dal terrazzo davanti al santuario si ha una delle viste più ampie sulla città blu.",
+        come: "Si raggiunge a piedi percorrendo il forte verso sud, oltre le sale del museo. Scarpe tolte all'ingresso del santuario.",
+        quando: "Al mattino, abbinato alla visita del forte. Durante il Navratri è affollato di fedeli.",
+        tempo: "30 minuti",
+        consiglio: "Tenere qualche minuto per il belvedere: da qui si capisce bene come la città vecchia sia cresciuta sotto la rupe.",
+      },
+      {
+        nome: "Zipline sulle mura di Mehrangarh",
+        testo: "Un percorso di sei teleferiche fino a 300 metri, per 1,2 chilometri di volo in tutto, sopra i bastioni e i laghetti ai piedi del forte. L'ultima linea passa sopra due laghi. È gestito da Flying Fox.",
+        come: "Si prenota sul sito dell'operatore o all'ingresso; il punto di partenza è nell'area del forte.",
+        quando: "Al mattino o nel tardo pomeriggio, evitando le ore calde.",
+        tempo: "1-2 ore, briefing compreso",
+        costo: "Da 1.699 rupie, circa 17 € (sito ufficiale, 2026).",
+        url: "https://www.flyingfox.asia/jodhpur",
+      },
+      {
+        nome: "Giardini di Mandore",
+        testo: "Mandore fu la capitale del Marwar prima della fondazione di Jodhpur nel 1459. Nei giardini stanno i cenotafi dei sovrani Rathore, alti e scolpiti come templi in arenaria rossa, e una galleria di figure di divinità ed eroi ricavate nella roccia. Ci sono molte scimmie e langur.",
+        come: "Circa 9 km a nord della città vecchia, in tuk-tuk o taxi; si cammina liberamente nel parco.",
+        quando: "Mattina presto o tardo pomeriggio, con la luce radente sull'arenaria.",
+        tempo: "1-1,5 ore",
+        lat: 26.35048,
+        lng: 73.03635,
+        consiglio: "Non dare cibo alle scimmie e tenere chiuse le borse.",
+      },
+      {
+        nome: "Mahamandir",
+        testo: "Un grande tempio dell'Ottocento voluto dal maharaja Man Singh per i maestri della setta Nath, nel quartiere fortificato che porta lo stesso nome. La sala principale poggia su 84 colonne scolpite e ha le pareti dipinte con scene di yoga.",
+        come: "Circa 3 km dalla città vecchia, sulla strada per Mandore, in tuk-tuk. Scarpe tolte.",
+        quando: "Al mattino, quando i turisti sono pochissimi.",
+        tempo: "30-45 minuti",
+        lat: 26.30943,
+        lng: 73.03875,
+        consiglio: "Si abbina a Mandore nello stesso giro in tuk-tuk.",
+      },
+      {
+        nome: "Lago di Kaylana",
+        testo: "Un lago artificiale fatto costruire nel 1872 da Pratap Singh, a ovest della città, tra le colline rocciose. È il posto dove gli abitanti di Jodhpur vanno a vedere il tramonto.",
+        come: "Circa 8 km dalla città vecchia, in tuk-tuk o taxi. Ci sono barche a pedali.",
+        quando: "Al tramonto.",
+        tempo: "1 ora",
+        consiglio: "Si combina con il Machia Biological Park, sulla stessa strada.",
+      },
+      {
+        nome: "Lago di Balsamand",
+        testo: "Un bacino del XII secolo sulla strada di Mandore, con il palazzo d'estate dei maharaja costruito sulla riva e oggi trasformato in hotel. Intorno ci sono giardini di manghi e melograni.",
+        come: "Circa 5 km a nord della città, in tuk-tuk o taxi, spesso nello stesso giro di Mandore.",
+        quando: "Nel tardo pomeriggio.",
+        tempo: "45 minuti",
+        consiglio: "L'accesso al palazzo e ai giardini dipende dall'hotel: chiedere prima, o fermarsi per un tè.",
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Mehrangarh all'apertura",
+          "Mehrangarh all'apertura, con il tempio di Chamunda Mata",
           "Jaswant Thada e Rao Jodha Park",
           "Pranzo con mirchi bada al Ghanta Ghar",
           "Vicoli blu nel pomeriggio",
-          "Toorji ka Jhalra la sera"
-        ]
+          "Toorji ka Jhalra e mercato di Sardar la sera",
+        ],
       },
       {
         titolo: "2 giorni",
         tappe: [
-          "Giorno 1: Mehrangarh, Jaswant Thada, Rao Jodha Park",
-          "Giorno 2: vicoli di Brahmpuri e Navchokiya al mattino",
+          "Giorno 1: come sopra",
+          "Giorno 2: Mahamandir, Balsamand e giardini di Mandore in tuk-tuk al mattino",
           "Umaid Bhawan nel pomeriggio",
-          "Mercato di Sardar e tramonto da una terrazza sotto il forte"
-        ]
-      }
+          "Tramonto al lago di Kaylana o da una terrazza sotto il forte",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2: come sopra",
+          "Giorno 3: zipline sulle mura al mattino presto",
+          "Gita a Osian o nei villaggi bishnoi nel pomeriggio",
+          "Ultima cena su una terrazza con il forte illuminato",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Sotto il forte (Navchokiya, Brahmpuri)",
         perChi: "chi vuole le terrazze con vista",
-        testo: "Haveli e guesthouse nei vicoli blu, con terrazze sul forte. Atmosfera bellissima, ma scale ripide e niente auto fino alla porta."
+        testo: "Haveli e guesthouse nei vicoli blu, con terrazze sul forte. Atmosfera bellissima, ma scale ripide e niente auto fino alla porta.",
+        fascia: "15-70 €",
       },
       {
         nome: "Ghanta Ghar",
         perChi: "chi vuole tutto a piedi",
-        testo: "Intorno alla torre dell'orologio: mercato, ristoranti e tuk-tuk sotto casa. Rumoroso fino a tardi."
+        testo: "Intorno alla torre dell'orologio: mercato, ristoranti e tuk-tuk sotto casa. Rumoroso fino a tardi.",
+        fascia: "15-50 €",
       },
       {
         nome: "Ratanada e la città nuova",
         perChi: "hotel heritage con giardino",
-        testo: "Ex residenze nobiliari e hotel con piscina fuori dalla città vecchia. Tranquilli, serve sempre un tuk-tuk."
+        testo: "Ex residenze nobiliari e hotel con piscina fuori dalla città vecchia. Tranquilli, serve sempre un tuk-tuk.",
+        fascia: "60-150 €",
       }
     ],
     sapori: [
@@ -1306,6 +1479,52 @@ export const destinazioniIndia: Destinazione[] = [
       "I vicoli della città vecchia sono a scalinata: i trolley pesanti diventano un problema.",
       "Le scimmie intorno a Jaswant Thada e ai templi prendono il cibo dalle mani."
     ],
+    gite: [
+      {
+        nome: "Osian",
+        distanza: "circa 65 km, 1,5 ore d'auto",
+        come: "In auto con autista o in bus da Jodhpur; spesso con una notte in un campo tra le dune.",
+        testo: "Un'antica città carovaniera con un gruppo di templi indù e giainisti tra l'VIII e l'XI secolo, tra i più antichi del Rajasthan, e il tempio di Sachiya Mata in cima alla collina. Intorno ci sono le prime dune, meno battute di quelle di Jaisalmer.",
+      },
+      {
+        nome: "Villaggi bishnoi",
+        distanza: "20-30 km, mezza giornata",
+        come: "Con un tour o un autista da Jodhpur, di solito al mattino.",
+        testo: "I Bishnoi sono una comunità che da cinque secoli protegge alberi e animali per regola religiosa: intorno ai villaggi si vedono antilopi e gazzelle libere. Il giro tocca case di fango, vasai e tessitori. Meglio scegliere chi entra in pochi e non trasforma la visita in una sosta nei negozi.",
+      },
+      {
+        nome: "Ranakpur",
+        distanza: "circa 3 ore d'auto, sulla strada per Udaipur",
+        come: "In auto con autista, come tappa del trasferimento Jodhpur-Udaipur (poi circa 2 ore fino a Udaipur).",
+        testo: "Il grande tempio giainista in marmo bianco, con centinaia di colonne scolpite tutte diverse. Per i non giainisti è aperto dalle 12 alle 17 circa; niente oggetti in pelle e niente cibo all'interno, spalle e gambe coperte.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Jodhpur?",
+        risposta: "Un giorno pieno basta per Mehrangarh, Jaswant Thada e i vicoli blu. Con due si aggiungono Mandore, Umaid Bhawan e un tramonto con calma; il terzo serve per Osian o i villaggi bishnoi.",
+      },
+      {
+        domanda: "Quanto costa il biglietto del Forte di Mehrangarh?",
+        risposta: "Per gli stranieri 800 rupie, circa 8 €, con l'audioguida compresa (sito ufficiale, 2026). Jaswant Thada e Rao Jodha Park hanno biglietti separati da 100 rupie.",
+      },
+      {
+        domanda: "Dove conviene dormire a Jodhpur?",
+        risposta: "In una haveli con terrazza sotto il forte, tra Navchokiya e il Ghanta Ghar: si fa tutto a piedi e si vede Mehrangarh illuminato la sera. Chi vuole piscina e silenzio sceglie un hotel heritage a Ratanada.",
+      },
+      {
+        domanda: "Perché Jodhpur è chiamata la città blu?",
+        risposta: "Per l'indaco delle case della città vecchia, soprattutto a Brahmpuri e Navchokiya. Le spiegazioni che circolano (casta dei brahmini, fresco, insetti) non sono documentate.",
+      },
+      {
+        domanda: "Come si va da Jaipur a Jodhpur?",
+        risposta: "In treno in circa 5 ore, con prenotazione su IRCTC, oppure in auto con autista in mezza giornata. Da Pushkar sono circa 4-5 ore di strada.",
+      },
+      {
+        domanda: "Jodhpur e Jaisalmer: servono tutte e due?",
+        risposta: "Sono diverse: Jodhpur è la città del grande forte, Jaisalmer quella del forte abitato e del deserto. Sono a circa 5 ore d'auto l'una dall'altra, e chi ha almeno dieci giorni in Rajasthan di solito le fa entrambe.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
     imageAlt: 'Il Forte di Mehrangarh sulla sua rupe sopra la città vecchia di Jodhpur',
@@ -1327,9 +1546,10 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Una notte in campo tendato nel deserto con giro in cammello al tramonto', 'Il tramonto dai bastioni del forte'],
     doveDormire: 'Hotel nelle haveli della città sotto il forte; campi tendati nel deserto per una notte.',
     doveMangiare: 'Ker sangri, dal baati e i dolci di Jaisalmer.',
-    comeArrivare: 'Da Jodhpur in auto o in treno, mezza giornata di viaggio; l\'aeroporto ha voli da Delhi, Mumbai e altre città, alcuni solo in certe stagioni.',
+    comeArrivare: "Da Jodhpur sono circa 5 ore d'auto con autista; c'è anche il treno, da prenotare su IRCTC. L'aeroporto, a circa 7 km dalla città, funziona solo da fine ottobre a fine marzo: in quei mesi Air India vola ogni giorno da Delhi e, dal 25 ottobre 2026, da Mumbai; d'estate chiude. Dalla stazione e dalla fermata dei bus al forte bastano pochi minuti di tuk-tuk. Per le dune il campo organizza di solito il transfer in jeep.",
     comeSpostarsi: 'A piedi in città, jeep per le dune.',
     periodoMigliore: 'novembre-febbraio; da aprile il caldo è estremo.',
+    costi: "Ingresso libero al forte; palazzo reale e templi giainisti a pagamento; Patwon ki Haveli 100-200 rupie per gli stranieri; campo nel deserto con cena, colazione e cammello circa 3.000-8.000 rupie a persona. Budget al giorno a persona in doppia: 30-45 € in guesthouse sotto il forte, 70-110 € in haveli boutique più una notte in un buon campo, da 250 € negli hotel di lusso e nei campi tendati con bagno.",
     erroriDaEvitare: [
       'Scegliere il campo nel deserto più economico: gli standard di igiene e il trattamento dei cammelli variano molto',
       'Avvicinarsi alle zone di confine, soggette a restrizioni',
@@ -1341,7 +1561,11 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Si entra a piedi dalla porta principale e si gira liberamente nei vicoli. A pagamento ci sono il palazzo del maharawal (Raj Mahal) e i templi giainisti.",
         quando: "Mattina per i templi giainisti, che di solito ricevono i visitatori solo fino a mezzogiorno. Il tramonto dai bastioni.",
         tempo: "mezza giornata",
-        consiglio: "Dormire fuori dalle mura e visitarlo di giorno: secondo l'Archaeological Survey of India l'acqua consumata da hotel e ristoranti dentro le mura filtra nelle fondamenta e le indebolisce."
+        consiglio: "Dormire fuori dalle mura e visitarlo di giorno: secondo l'Archaeological Survey of India l'acqua consumata da hotel e ristoranti dentro le mura filtra nelle fondamenta e le indebolisce.",
+        costo: "Ingresso libero alle mura e ai vicoli; palazzo reale e templi giainisti a pagamento.",
+        orari: "Il forte è sempre accessibile; i templi giainisti ricevono i non giainisti solo la mattina.",
+        lat: 26.9127,
+        lng: 70.9126,
       },
       {
         nome: "Le haveli di Patwon e di Nathmal",
@@ -1349,7 +1573,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Nella città sotto il forte, a piedi. Ingresso a pagamento per la parte visitabile.",
         quando: "Mattina, prima che i vicoli si riempiano.",
         tempo: "1 ora",
-        consiglio: "Le facciate si guardano bene anche gratis dalla strada; dentro si entra soprattutto per le terrazze."
+        consiglio: "Le facciate si guardano bene anche gratis dalla strada; dentro si entra soprattutto per le terrazze.",
+        costo: "Patwon ki Haveli 100-200 rupie per gli stranieri secondo la casa visitata, circa 1-2 €.",
+        lat: 26.91578,
+        lng: 70.9126,
       },
       {
         nome: "Il lago di Gadisar",
@@ -1358,7 +1585,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "L'alba, quando l'acqua è ferma e ci sono solo gli uccelli.",
         tempo: "1 ora",
         costo: "accesso gratuito; barche a pagamento",
-        consiglio: "Arrivare prima del sole e restare fino a quando illumina il forte in lontananza."
+        consiglio: "Arrivare prima del sole e restare fino a quando illumina il forte in lontananza.",
+        lat: 26.90784,
+        lng: 70.92195,
       },
       {
         nome: "Le dune di Sam e di Khuri",
@@ -1366,7 +1595,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "In jeep con il campo, che di solito organizza transfer, cammello, cena e musica. Il bagaglio grande resta in hotel a Jaisalmer.",
         quando: "Da novembre a febbraio, con notti fredde. Da aprile il caldo è estremo.",
         tempo: "una notte",
-        consiglio: "Scegliere un campo con recensioni recenti su igiene e cura dei cammelli, anche se costa di più."
+        consiglio: "Scegliere un campo con recensioni recenti su igiene e cura dei cammelli, anche se costa di più.",
+        costo: "Campo con cena, colazione e cammello indicativamente 3.000-8.000 rupie a persona secondo la categoria, circa 30-80 €.",
+        lat: 26.8284,
+        lng: 70.50751,
       },
       {
         nome: "Bada Bagh",
@@ -1374,52 +1606,132 @@ export const destinazioniIndia: Destinazione[] = [
         come: "In auto o tuk-tuk, anche sulla strada per le dune.",
         quando: "Al tramonto o all'alba, quando l'arenaria diventa arancione.",
         tempo: "45 minuti",
-        consiglio: "Si abbina bene al villaggio abbandonato di Kuldhara, circa 18 chilometri a sud-ovest della città."
-      }
+        consiglio: "Si abbina bene al villaggio abbandonato di Kuldhara, circa 18 chilometri a sud-ovest della città.",
+        lat: 26.9549,
+        lng: 70.88777,
+      },
+      {
+        nome: "Il palazzo del maharawal (Raj Mahal)",
+        testo: "Il palazzo reale dentro il forte, su più piani affacciati sulla piazza principale, oggi museo con armi, abiti, ritratti e stanze decorate di specchi e piastrelle. Dalle terrazze più alte si vede tutta la città d'oro fino al deserto.",
+        come: "Dentro il forte, sulla piazza principale vicino all'ingresso. Biglietto a pagamento, con audioguida disponibile.",
+        quando: "Al mattino, prima dei templi giainisti o subito dopo.",
+        tempo: "1-1,5 ore",
+        lat: 26.91281,
+        lng: 70.91327,
+        consiglio: "Salire fino all'ultimo piano: la vista sui tetti è la parte migliore della visita.",
+      },
+      {
+        nome: "I templi giainisti del forte",
+        testo: "Un gruppo di sette templi giainisti collegati tra loro, costruiti tra il XII e il XVI secolo in arenaria gialla, con colonne, soffitti e pareti scolpiti fittissimi. Sono ancora luoghi di culto attivi.",
+        come: "Dentro il forte, a pochi passi dal palazzo. Scarpe tolte, spalle e gambe coperte; come negli altri templi giainisti, niente oggetti in pelle.",
+        quando: "La mattina: ai non giainisti sono aperti solo fino a mezzogiorno circa.",
+        tempo: "1 ora",
+        costo: "Ingresso a pagamento, con un supplemento per la macchina fotografica.",
+        orari: "Per i non giainisti solo la mattina.",
+      },
+      {
+        nome: "Salim Singh ki Haveli",
+        testo: "La haveli del primo ministro Salim Singh, dell'inizio dell'Ottocento, riconoscibile perché i piani alti sporgono più larghi della base e il tetto è arcuato, con mensole scolpite a forma di pavone. Sta ai piedi del forte, vicino al suo ingresso.",
+        come: "A piedi dalla città sotto il forte. Ingresso a pagamento per la parte visitabile.",
+        quando: "Al mattino, con la luce sulla facciata.",
+        tempo: "30-45 minuti",
+        lat: 26.91368,
+        lng: 70.91602,
+        consiglio: "Si abbina alla Nathmal ki Haveli e alla Patwon nello stesso giro.",
+      },
+      {
+        nome: "Tazia Tower e Badal Vilas",
+        testo: "Una torre a cinque piani dai balconi traforati, costruita dagli artigiani musulmani della città sul modello delle tazia, le strutture portate in processione durante il Muharram, e donata al sovrano. Sta nel complesso del palazzo Badal Vilas, vicino ad Amar Sagar Pol.",
+        come: "A piedi dalla città sotto il forte; si guarda soprattutto da fuori.",
+        quando: "Di giorno, nello stesso giro delle haveli.",
+        tempo: "20 minuti",
+      },
+      {
+        nome: "Vyas Chhatri",
+        testo: "Un'area di cenotafi in arenaria sulla collina a nord della città, dedicata al saggio Vyasa. È uno dei punti più usati per vedere il sole che tramonta dietro le cupolette, con il forte sullo sfondo.",
+        come: "A piedi o in tuk-tuk dalla città, circa un chilometro e mezzo dal forte.",
+        quando: "Al tramonto.",
+        tempo: "45 minuti",
+        lat: 26.92236,
+        lng: 70.90682,
+        consiglio: "Arrivare mezz'ora prima del tramonto per trovare posto sui muretti.",
+      },
+      {
+        nome: "Amar Sagar",
+        testo: "Un lago con un palazzo del Seicento e un tempio giainista scolpito, circa 6 chilometri a ovest della città. Il lago è spesso asciutto fuori dalla stagione delle piogge; si viene per il tempio e i padiglioni.",
+        come: "In tuk-tuk o auto, spesso sulla strada per Lodurva e per le dune di Sam.",
+        quando: "Al mattino o nel tardo pomeriggio.",
+        tempo: "45 minuti",
+        lat: 26.93203,
+        lng: 70.87317,
+      },
+      {
+        nome: "Lodurva",
+        testo: "L'antica capitale dei Bhati prima della fondazione di Jaisalmer, a circa 15 chilometri dalla città. Della città resta poco; resta il tempio giainista dedicato a Parshvanath, ricostruito, con un portale scolpito e l'albero dei desideri in metallo.",
+        come: "In auto o tuk-tuk, insieme ad Amar Sagar sulla strada per Sam.",
+        quando: "Al mattino.",
+        tempo: "45 minuti",
+        lat: 26.9867,
+        lng: 70.80465,
+        consiglio: "Si fa insieme ad Amar Sagar e alle dune di Sam nella stessa mezza giornata.",
+      },
+      {
+        nome: "Kuldhara",
+        testo: "Un villaggio di pietra abbandonato, circa 18 chilometri a sud-ovest della città: i suoi abitanti, brahmini Paliwal, lo lasciarono in una notte secondo la leggenda all'inizio dell'Ottocento. Restano file di case senza tetto e un tempio.",
+        come: "In auto o jeep, sulla strada per Sam o Khaba. Ingresso a pagamento all'entrata del villaggio.",
+        quando: "Al mattino presto o nel tardo pomeriggio.",
+        tempo: "45 minuti-1 ora",
+        lat: 26.86988,
+        lng: 70.78512,
+        consiglio: "Le storie di fantasmi le raccontano tutti: la parte interessante è la pianta del villaggio, che si capisce bene camminando.",
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Forte e templi giainisti al mattino",
-          "Haveli di Patwon",
-          "Pomeriggio verso le dune, cammello al tramonto e notte nel campo"
-        ]
+          "Forte, palazzo del maharawal e templi giainisti al mattino",
+          "Haveli di Patwon e Salim Singh",
+          "Pomeriggio verso le dune, cammello al tramonto e notte nel campo",
+        ],
       },
       {
         titolo: "2 giorni",
         tappe: [
-          "Giorno 1: arrivo da Jodhpur, pomeriggio alle dune e notte nel campo",
-          "Giorno 2: rientro, forte e templi giainisti",
-          "Haveli di Patwon e Nathmal",
-          "Tramonto dai bastioni o a Gadisar"
-        ]
+          "Giorno 1: arrivo da Jodhpur, haveli e tramonto a Vyas Chhatri",
+          "Giorno 2: forte e templi giainisti al mattino",
+          "Amar Sagar e Lodurva",
+          "Dune di Sam al tramonto e notte nel campo",
+        ],
       },
       {
         titolo: "3 giorni",
         tappe: [
-          "I due giorni sopra",
-          "Giorno 3: alba a Gadisar",
-          "Bada Bagh e Kuldhara",
-          "Ultima sera su una terrazza davanti al forte illuminato"
-        ]
-      }
+          "Giorni 1-2: come sopra",
+          "Giorno 3: rientro dalle dune passando per Kuldhara e Khaba Fort",
+          "Pomeriggio a Bada Bagh",
+          "Ultima sera su una terrazza davanti al forte illuminato",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Sotto il forte",
         perChi: "chi vuole il forte a piedi",
-        testo: "Hotel nelle haveli dei vicoli intorno al forte, con terrazze vista mura. Comodi e meno dannosi per il monumento rispetto agli alberghi dentro le mura."
+        testo: "Hotel nelle haveli dei vicoli intorno al forte, con terrazze vista mura. Comodi e meno dannosi per il monumento rispetto agli alberghi dentro le mura.",
+        fascia: "25-60 €",
       },
       {
         nome: "Dentro il forte",
         perChi: "chi vuole l'atmosfera",
-        testo: "Guesthouse dentro le mura: atmosfera unica, ma vicoli stretti, poca acqua e problemi di conservazione del forte."
+        testo: "Guesthouse dentro le mura: atmosfera unica, ma vicoli stretti, poca acqua e problemi di conservazione del forte.",
+        fascia: "20-50 €",
       },
       {
         nome: "Campi nel deserto",
         perChi: "una notte",
-        testo: "Campi tendati a Sam o Khuri, dai più spartani alle tende di lusso con bagno. Si va per una notte, non per base."
+        testo: "Campi tendati a Sam o Khuri, dai più spartani alle tende di lusso con bagno. Si va per una notte, non per base.",
+        fascia: "60-160 €",
       }
     ],
     sapori: [
@@ -1445,6 +1757,46 @@ export const destinazioniIndia: Destinazione[] = [
       "I campi più economici hanno standard di igiene e trattamento dei cammelli molto variabili.",
       "Jaisalmer è vicina al Pakistan: il Foreign Office britannico sconsiglia ogni viaggio entro 10 chilometri dal confine, che in Rajasthan in alcuni tratti non è segnato. Controllate Viaggiare Sicuri prima di partire.",
       "A maggio e giugno le massime medie superano i 40 °C: serve acqua sempre."
+    ],
+    gite: [
+      {
+        nome: "Khaba Fort",
+        distanza: "circa 40 km, 1 ora d'auto",
+        come: "In auto o jeep, spesso insieme a Kuldhara sulla strada per le dune di Sam.",
+        testo: "Un altro villaggio paliwal abbandonato, dominato da un piccolo forte su un'altura da cui si vedono le rovine delle case e il deserto intorno. Più tranquillo di Kuldhara.",
+      },
+      {
+        nome: "Desert National Park",
+        distanza: "circa 40-50 km, mezza giornata",
+        come: "In jeep con guida da Jaisalmer, partendo all'alba; serve un permesso d'ingresso del parco.",
+        testo: "Una delle grandi aree protette del Thar, con dune, praterie e affioramenti fossili. È uno degli ultimi rifugi dell'otarda indiana, un grande uccello quasi estinto, oltre a gazzelle chinkara e rapaci.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Jaisalmer?",
+        risposta: "Due giorni con una notte nel deserto sono il minimo per il forte, le haveli e le dune. Con tre si aggiungono Kuldhara, Khaba e Bada Bagh senza correre.",
+      },
+      {
+        domanda: "Conviene dormire dentro il forte di Jaisalmer?",
+        risposta: "È suggestivo, ma l'acqua consumata da hotel e ristoranti dentro le mura filtra nelle fondamenta e indebolisce il forte. Meglio una haveli sotto le mura, con terrazza sul forte.",
+      },
+      {
+        domanda: "Meglio le dune di Sam o di Khuri?",
+        risposta: "Sam è più grande, più vicina e più affollata, con molti campi e spettacoli. Khuri è più piccola e tranquilla, adatta a chi cerca silenzio.",
+      },
+      {
+        domanda: "Quanto costa una notte nel deserto del Thar?",
+        risposta: "Un campo con cena, colazione e giro in cammello costa indicativamente 3.000-8.000 rupie a persona, circa 30-80 €, secondo la categoria. Conviene pagare di più per igiene e cura dei cammelli.",
+      },
+      {
+        domanda: "Qual è il periodo migliore per Jaisalmer?",
+        risposta: "Da novembre a febbraio, con giornate miti e notti fredde nel deserto, anche sotto i 5 °C a dicembre e gennaio. Da aprile il caldo è estremo, e d'estate l'aeroporto chiude.",
+      },
+      {
+        domanda: "È sicuro andare vicino al confine con il Pakistan?",
+        risposta: "Le dune turistiche sono lontane dal confine, ma il Foreign Office britannico sconsiglia ogni viaggio entro 10 chilometri dalla frontiera. Controllare Viaggiare Sicuri prima di partire e non spingersi verso ovest oltre le zone dei campi.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],

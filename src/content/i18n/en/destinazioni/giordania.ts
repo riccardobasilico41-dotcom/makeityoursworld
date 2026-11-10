@@ -763,10 +763,10 @@ export const destinazioniGiordania: Destinazione[] = [
     doveDormire:
       "I slept in a tented camp in the desert, whose name I didn't note: a classic Bedouin tent, dinner and breakfast included, a starry sky without equal.\n\nBasic camp, shared bathroom: Wadi Rum Bedouin Camp, Bedouin Lifestyle Camp · private tent with bathroom: Wadi Rum Serenity Camp, Zeina Desert Lodge · luxury desert camp: Sun City Camp (famous for its \"martian domes\"), Palmera Camp (tents and panoramic bubbles with private bathroom).",
     doveMangiare: 'Typical Bedouin dinner at the tented camp; for the packed lunch, a stop at a local bakery or pastry shop (10 JOD).',
-    comeArrivare: 'About 1h30 transfer from Wadi Musa/Petra.',
+    comeArrivare: "Wadi Rum is about 120 km from Wadi Musa (Petra), about 2 hours by road, and about 70 km from Aqaba, an hour and a quarter. You arrive by rental car, by taxi or with the transfer arranged by the camp to the visitor centre and Rum village, where Bedouin guides wait with their jeeps. From Aqaba airport it takes about an hour and a half.",
     comeSpostarsi: 'A 4x4 jeep with a Bedouin guide, a camel for the initial stretch in the desert.',
     periodoMigliore: "the New Year period, for the party in the desert under the stars; sunrise for the best light on the dunes",
-    costi: 'Camel ride 20 JOD; packed lunch 10 JOD.',
+    costi: "Low budget about €50-70 a day per person (traditional camp with dinner and breakfast, shared jeep tour, entry with the Jordan Pass); mid €90-150 (tent with private bathroom, private half-day jeep, camel at JOD 20); high from €200 up (bubbles or luxury camp, full-day tour, guided climb). Protected area entry JOD 5 without the Jordan Pass; packed lunch about JOD 10; 1 JOD is about €1.20.",
     erroriDaEvitare: [],
     miaEsperienza:
       "The jeep safari among canyons and red dunes, the sandboarding, the sunset on the dunes on arrival at the camp and then the New Year's party under one of the most beautiful starry skies I've ever seen: hard to imagine a more absurd way of saying goodbye to the old year. Together with Petra, it's the thing not to miss on the trip to Jordan.",
@@ -778,7 +778,10 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Leave from Rum village with the camp's guide or from the visitor center. The trip is priced by length and agreed in advance.",
         "quando": "A tour of 4-6 hours, starting in the morning or in the afternoon for the sunset.",
         "tempo": "4-6 hours",
-        "costo": "Protected area entry JOD 5 for foreigners or included in the Jordan Pass (2026); the jeep tour is paid separately",
+        "costo": "Protected area entry JOD 5, about €6, for foreigners, or included in the Jordan Pass (2026); the jeep tour is paid separately",
+        "orari": "Protected area and visitor centre daily 8am-5pm (Jordan Pass, 2026)",
+        "lat": 29.5765,
+        "lng": 35.41993,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
         "consiglio": "Ask that the tour includes a sunset on the dunes."
       },
@@ -788,7 +791,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Arranged from the camp.",
         "quando": "Dawn or sunset.",
         "tempo": "45 minutes",
-        "costo": "20 JOD (from my trip)"
+        "costo": "JOD 20, about €24 (from my trip)"
       },
       {
         "nome": "Night in a tented camp",
@@ -797,16 +800,134 @@ export const destinazioniGiordania: Destinazione[] = [
         "quando": "One night, better two if you want time to walk.",
         "tempo": "One night",
         "consiglio": "Bring a sweater: at night the temperature drops even in spring."
+      },
+      {
+        "nome": "Visitor centre and the Seven Pillars of Wisdom",
+        "testo": "The entrance to the protected area, where you show the Jordan Pass or pay for the ticket. Opposite stands the mountain with great vertical folds called the Seven Pillars of Wisdom, after T.E. Lawrence's book.",
+        "come": "On the road that runs from the Desert Highway down to Rum village; parking at the centre.",
+        "quando": "On arrival, before getting on the jeep.",
+        "tempo": "20-30 minutes",
+        "costo": "JOD 5, about €6, or Jordan Pass (2026)",
+        "orari": "Daily 8am-5pm (2026)",
+        "lat": 29.63923,
+        "lng": 35.43444,
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+      },
+      {
+        "nome": "Lawrence's Spring",
+        "testo": "A small spring on the face of Jebel Rum, linked to the story of Lawrence of Arabia, with Nabataean inscriptions on the rock. You climb for a few minutes for the view over the valley.",
+        "come": "First stop on almost every jeep tour, a few minutes from the village.",
+        "quando": "Morning.",
+        "tempo": "20-30 minutes",
+        "lat": 29.55979,
+        "lng": 35.41019
+      },
+      {
+        "nome": "Khazali Siq",
+        "testo": "A narrow cleft in the mountain, cool even in summer, with Thamudic and Nabataean rock carvings of human figures, antelopes and footprints. You walk in for a few dozen metres.",
+        "come": "A classic stop on the jeep tour.",
+        "quando": "During the hot hours, for the shade.",
+        "tempo": "20-30 minutes",
+        "lat": 29.51796,
+        "lng": 35.42347
+      },
+      {
+        "nome": "Red sand dunes",
+        "testo": "The big red sand dunes resting against the rock, the place for sandboarding and for climbing up to look at the desert from above.",
+        "come": "On the jeep tour; you climb on foot, barefoot if the sand is not too hot.",
+        "quando": "Late afternoon, towards sunset.",
+        "tempo": "30-45 minutes",
+        "lat": 29.52898,
+        "lng": 35.42167
+      },
+      {
+        "nome": "Little Bridge",
+        "testo": "A small rock arch a few metres above the ground, easy to climb for a photo on the bridge. It is the simple alternative to the higher bridges.",
+        "come": "On the half-day jeep tour.",
+        "quando": "Afternoon.",
+        "tempo": "20 minutes",
+        "lat": 29.52041,
+        "lng": 35.44302
+      },
+      {
+        "nome": "Lawrence's House",
+        "testo": "The remains of a small Nabataean stone building that tradition links to Lawrence's passage. More than the ruins, what counts is the view over the red plain.",
+        "come": "A stop on the jeep tour.",
+        "quando": "Afternoon.",
+        "tempo": "15-20 minutes",
+        "lat": 29.52862,
+        "lng": 35.45931
+      },
+      {
+        "nome": "Mushroom Rock",
+        "testo": "An isolated rock in the sand with an eroded base that makes it look like a mushroom, one of the most photographed shapes in the desert.",
+        "come": "On the longer jeep tours.",
+        "quando": "Afternoon light.",
+        "tempo": "15 minutes",
+        "lat": 29.51805,
+        "lng": 35.4935
+      },
+      {
+        "nome": "Umm Fruth Rock Bridge",
+        "testo": "A natural arch about 15 metres high, climbed in a few minutes up an easy rock slab. It is the best-known rock bridge in Wadi Rum.",
+        "come": "On the 4-6 hour jeep tours; shoes with a good sole.",
+        "quando": "Morning or afternoon, less crowded at lunchtime.",
+        "tempo": "30 minutes",
+        "lat": 29.46873,
+        "lng": 35.44923,
+        "consiglio": "Only a few people fit on top: wait your turn and avoid climbing in strong wind."
+      },
+      {
+        "nome": "Burdah Rock Bridge",
+        "testo": "A slender rock arch about 35 metres up on the ridge of Jebel Burdah. You reach it only with a demanding ascent, with sections of easy scrambling.",
+        "come": "With a local guide, starting by jeep; for experienced hikers.",
+        "quando": "Early morning, before the heat.",
+        "tempo": "half a day",
+        "lat": 29.46845,
+        "lng": 35.49665
+      },
+      {
+        "nome": "Barrah Canyon",
+        "testo": "A long, wide canyon between sandstone walls, suited to a walk or a stretch by camel. It is also a climbing area.",
+        "come": "By jeep or on foot with a guide; often on full-day tours.",
+        "quando": "Morning.",
+        "tempo": "2-3 hours on foot",
+        "lat": 29.558,
+        "lng": 35.4909
+      },
+      {
+        "nome": "Jebel Umm ad-Dami",
+        "testo": "Jordan's highest peak, about 1,850 metres, on the border with Saudi Arabia. The climb is short but steep, and from the top you see the Saudi desert.",
+        "come": "With a guide, about an hour and a half by jeep from the village and then on foot.",
+        "quando": "Leave at dawn; sunset at the summit only with the guide.",
+        "tempo": "a full day",
+        "lat": 29.30833,
+        "lng": 35.42917
       }
     ],
     programmi: [
       {
-        "titolo": "1 day and one night",
+        "titolo": "1 day and 1 night",
         "tappe": [
-          "Arrival from Petra or Aqaba, jeep to the camp",
-          "4-6 hour tour among canyons and dunes",
-          "Sunset, Bedouin dinner and starry sky",
-          "Dawn on the dunes and return"
+          "Arrival from Petra or Aqaba at the visitor centre",
+          "4-6 hour jeep tour: Lawrence's Spring, Khazali Siq, red dunes, Little Bridge, Lawrence's House, Umm Fruth",
+          "Sunset on the dunes, Bedouin dinner and starry sky",
+          "Sunrise on the dunes and departure"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1 as above",
+          "Day 2: camel ride or walk in Barrah Canyon, Mushroom Rock",
+          "Second night at the camp"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: climb to Burdah Rock Bridge with a guide, or Jebel Umm ad-Dami"
         ]
       }
     ],
@@ -814,17 +935,25 @@ export const destinazioniGiordania: Destinazione[] = [
       {
         "nome": "Traditional tented camp",
         "perChi": "those who want the Bedouin experience",
-        "testo": "Simple tents, shared bathroom, dinner and breakfast included. Little electricity: charge your phones beforehand."
+        "testo": "Simple tents, shared bathroom, dinner and breakfast included. Little electricity: charge your phones beforehand.",
+        "fascia": "€30-60"
       },
       {
         "nome": "Camp with private bathroom",
         "perChi": "those who want more comfort",
-        "testo": "Tents and bubbles with bathroom, sometimes with air conditioning. They cost more."
+        "testo": "Tents and bubbles with bathroom, sometimes with air conditioning. They cost more.",
+        "fascia": "€50-120"
       },
       {
         "nome": "Rum village",
         "perChi": "those who do not want to sleep in the desert",
         "testo": "Simple guesthouses at the foot of the valley, from where the tours leave."
+      },
+      {
+        "nome": "Bubbles and luxury camps",
+        "perChi": "those who want the starry sky from bed",
+        "testo": "Transparent domes or «Martian»-style tents with private bathroom, air conditioning and dinner included. Prices vary a lot with the date.",
+        "fascia": "€150-320"
       }
     ],
     sapori: [
@@ -852,6 +981,46 @@ export const destinazioniGiordania: Destinazione[] = [
       "Sandstorms can cancel tours: leave a margin in the plan."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Petra",
+        "distanza": "about 120 km, 2 hours",
+        "come": "Transfer with the camp, taxi or rental car via the Desert Highway.",
+        "testo": "The Nabataean city carved into the rock, the other reason for a trip to Jordan. It deserves at least a full day and a night in Wadi Musa."
+      },
+      {
+        "nome": "Aqaba and the Red Sea",
+        "distanza": "about 70 km, 1-1.5 hours",
+        "come": "Taxi or transfer from Rum village; from Aqaba airport also about 1.5 hours.",
+        "testo": "The sea after the desert: coral reef from the shore in the south towards the Saudi border, boat trips and fresh fish in the evening."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How much time do you need in Wadi Rum?",
+        "risposta": "One night with a 4-6 hour jeep tour is enough for the classic stops. With two nights you can add a walk or a camel ride without rushing."
+      },
+      {
+        "domanda": "Does the Jordan Pass cover Wadi Rum?",
+        "risposta": "Yes, entry to the protected area is included and you show it at the visitor centre. Without the pass you pay JOD 5; jeep, camp and camel are always extra."
+      },
+      {
+        "domanda": "Can you visit Wadi Rum without sleeping in the desert?",
+        "risposta": "Yes, on a day trip from Petra or Aqaba. But the sunset, the Bedouin dinner and the starry sky are the best part, and you miss them."
+      },
+      {
+        "domanda": "How cold does it get at night?",
+        "risposta": "In winter nights drop close to freezing, and it is cold in spring and autumn too. You need a jacket and layers, even after a hot day."
+      },
+      {
+        "domanda": "Jeep, camel or on foot?",
+        "risposta": "The jeep covers the main stops in half a day; the camel is slow and fine for one stretch; on foot you go only with a Bedouin guide."
+      },
+      {
+        "domanda": "Do the camps have bathrooms and electricity?",
+        "risposta": "Traditional camps have shared bathrooms and little power; those with private tents or bubbles have an en-suite bathroom. Arrive with a charged phone and a power bank."
+      }
+    ],
     esperienzeSlugs: ['jeep-safari-wadi-rum', 'capodanno-deserto'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'A young Bedouin with a keffiyeh over his face in front of the red rocks of Wadi Rum, Jordan',

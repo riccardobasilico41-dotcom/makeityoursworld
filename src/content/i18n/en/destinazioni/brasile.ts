@@ -27,10 +27,10 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     doveDormire: 'Ipanema, Leblon or Copacabana: budget R$200-350, mid-range R$450-800, high-end over R$1,200 a night.',
     doveMangiare: 'Botecos, rodízio churrascarias, pay-by-weight places, pastel and caldo de cana in the markets.',
-    comeArrivare: 'Galeão international airport (GIG); domestic flights also from Santos Dumont, downtown.',
+    comeArrivare: "From Galeão international airport (GIG), about 20 km from the Zona Sul, Copacabana and Ipanema are 40-60 minutes away, longer at rush hour. Taxis from the official cooperatives are paid at the arrivals desk at a fixed municipal fare, about R$122-126 to Copacabana, Ipanema and Leblon (R$145-150 in the evening, at night and on holidays); Uber and 99 cost about R$60-100 from the pick-up area shown in the app. Never accept rides from people who approach you in arrivals. Domestic flights also land at Santos Dumont, downtown.",
     comeSpostarsi: 'Metro between the south zone and downtown, official taxis and apps; on foot only by day in busy areas.',
     periodoMigliore: 'May-October, mild dry winter; December-March hot and rainy.',
-    costi: 'Christ the Redeemer R$87 with the van from the Paineiras visitor centre (R$132 from Copacabana or Largo do Machado, R$134 with the cog train), a single price all year; Sugarloaf R$205 full ticket (2026).',
+    costi: "Low budget about €50-70 a day per person (pousada or hostel, pay-by-weight restaurants, metro); mid-range €120-180 (hotel in Ipanema or Copacabana, restaurants, Christ and Sugarloaf, app rides); high from €300 (seafront hotel, churrascarias and fine restaurants, private guide). Christ the Redeemer R$87 with the van from the Paineiras visitor centre (R$132 from Copacabana or Largo do Machado), R$139 with the cog train from Cosme Velho; Sugarloaf R$205 full ticket; Botanical Garden R$80 for foreigners (2026).",
     erroriDaEvitare: [
       'Holding your phone in your hand on the street or leaving it on your beach towel',
       'Walking in deserted areas in the evening instead of using an app',
@@ -43,8 +43,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By the rack railway from Cosme Velho or by the official vans from Paineiras. The ticket is bought online choosing day and time.",
         "quando": "First run of the morning, before clouds and crowds. At midday the statue is often in cloud.",
         "tempo": "3-4 hours including the ride up, the visit and the way down",
-        "costo": "Cog train from Cosme Velho R$139 for adults, R$112 for children aged 7-11 (train website, 2026); van fares on the official website",
-        "url": "https://paineirascorcovado.com.br/",
+        "costo": "Cog train from Cosme Velho R$139, about €24, for adults of any nationality, R$112 for children aged 7-11; official vans from Paineiras about R$87, about €15 (2026)",
+        "lat": -22.95194,
+        "lng": -43.21056,
+        "url": "https://www.tremdocorcovado.rio/",
         "consiglio": "Go in the morning and bring a light jacket: it is windy at the top."
       },
       {
@@ -53,7 +55,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Cable car from the Praia Vermelha station in the Urca district. Walkers can climb to Urca on a short path and take the cable car only for the second stage.",
         "quando": "Late afternoon, for sunset over the bay and the city lighting up.",
         "tempo": "2-3 hours",
-        "costo": "Cable car ticket: current prices on the official website",
+        "costo": "R$205 full ticket, about €35; the reduced fare is for Brazilians only (2026)",
+        "orari": "Monday to Friday 8:30-21:00, Saturday and Sunday 7:30-21:00; last boarding at 19:30",
+        "lat": -22.9494,
+        "lng": -43.1567,
         "url": "https://www.bondinho.com.br/",
         "consiglio": "Arrive an hour before sunset to avoid the queue."
       },
@@ -63,6 +68,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By metro (Cardeal Arcoverde, Siqueira Campos and Cantagalo for Copacabana, General Osório for Ipanema) or on foot along the seafront.",
         "quando": "Morning for the beach; sunset at Arpoador.",
         "tempo": "Half a day",
+        "costo": "Free; chairs and umbrellas for hire from the barracas",
+        "lat": -22.99056,
+        "lng": -43.19167,
         "consiglio": "On the towel bring only what you are willing to lose: do not leave phone and wallet unattended."
       },
       {
@@ -71,6 +79,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By app or taxi to Santa Teresa, then on foot; the staircase is walked down towards Lapa.",
         "quando": "By day.",
         "tempo": "2-3 hours",
+        "costo": "Steps free",
+        "lat": -22.91541,
+        "lng": -43.17941,
         "consiglio": "Go by day and come back by app."
       },
       {
@@ -79,6 +90,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By metro from Ipanema and Copacabana.",
         "quando": "On weekdays, by day: at weekends the centre empties.",
         "tempo": "Half a day",
+        "orari": "Museu do Amanhã Thursday to Tuesday 10:00-18:00, last entry 17:00; closed on Wednesdays",
+        "lat": -22.89413,
+        "lng": -43.1794,
+        "url": "https://museudoamanha.org.br/",
         "consiglio": "The centre is for daytime: in the evening and at weekends it empties."
       },
       {
@@ -87,16 +102,104 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By app, round trip, avoiding walking at night.",
         "quando": "Friday and Saturday night.",
         "tempo": "An evening",
+        "lat": -22.91259,
+        "lng": -43.17985,
         "consiglio": "Carry only your phone and the cash for the evening. Watch for bag snatchers in the crowd late at night."
+      },
+      {
+        "nome": "Botanical Garden (Jardim Botânico)",
+        "testo": "The botanical garden founded in 1808 by the Prince Regent John of Portugal, at the foot of Corcovado. The avenue of imperial palms, the orchid and bromeliad houses and the monkeys and toucans in the trees make it the finest green break in the city.",
+        "come": "By taxi or app from Ipanema and Leblon, 10-15 minutes; tickets also online at jbrj.eleventickets.com.",
+        "quando": "Early morning, when it is cool and the animals are most active.",
+        "tempo": "2-3 hours",
+        "costo": "R$80 for foreigners, about €14 (2026)",
+        "orari": "Arboretum Thursday to Tuesday 8:00-17:00, Wednesday 11:00-17:00; closed 25 December and 1 January",
+        "lat": -22.9675,
+        "lng": -43.22389,
+        "url": "https://www.gov.br/jbrj/pt-br/assuntos/visitacao/horarios-e-ingressos"
+      },
+      {
+        "nome": "Parque Lage",
+        "testo": "A 1920s mansion with a courtyard and pool at its centre, inside a park of Atlantic forest below Corcovado. Today it houses an art school and a café, and from the courtyard you see Christ above the trees.",
+        "come": "On foot from the Botanical Garden, 10 minutes along Rua Jardim Botânico.",
+        "quando": "Morning, combined with the Botanical Garden.",
+        "tempo": "1 hour",
+        "lat": -22.96055,
+        "lng": -43.21204
+      },
+      {
+        "nome": "Real Gabinete Português de Leitura",
+        "testo": "The Portuguese community library, completed in 1887 in neo-Manueline style: three floors of wooden shelves under a skylight, with over 350,000 volumes. It is one of the most photographed reading rooms in the world.",
+        "come": "Downtown, on foot from Largo da Carioca or Carioca metro station.",
+        "quando": "On weekdays.",
+        "tempo": "30 minutes",
+        "orari": "Monday to Friday 10:00-17:00",
+        "lat": -22.90544,
+        "lng": -43.18219,
+        "url": "https://www.realgabinete.com.br/",
+        "consiglio": "Go in quietly: it is a working library, not just a monument."
+      },
+      {
+        "nome": "Museu de Arte do Rio (MAR)",
+        "testo": "The art museum on Praça Mauá, next to the Museu do Amanhã, in two buildings joined by a wavy roof. Its exhibitions tell the story of Rio and Brazil, and the terrace looks out over the bay.",
+        "come": "On foot from the Museu do Amanhã; metro to Uruguaiana, then the VLT tram.",
+        "quando": "On Tuesdays, when entry is free.",
+        "tempo": "1-2 hours",
+        "costo": "R$20, about €3.50; free on Tuesdays (2026)",
+        "orari": "Exhibitions 11:00-18:00, last entry 17:00; closed on Wednesdays",
+        "lat": -22.89657,
+        "lng": -43.18199,
+        "url": "https://museudeartedorio.org.br/"
+      },
+      {
+        "nome": "São Bento Monastery",
+        "testo": "The Benedictine monastery on a hill downtown, begun in the 17th century. The façade is plain, the inside is all carved and gilded wood, one of the great examples of Brazilian Baroque.",
+        "come": "On foot from Praça Mauá; there is a lift up from Rua Dom Gerardo.",
+        "quando": "Sunday morning for mass with the monks singing Gregorian chant, or on weekdays.",
+        "tempo": "30-45 minutes",
+        "lat": -22.89703,
+        "lng": -43.17805,
+        "consiglio": "Shoulders and legs covered: it is a working church."
+      },
+      {
+        "nome": "Lagoa Rodrigo de Freitas",
+        "testo": "The lagoon behind Ipanema and Leblon, ringed by a cycling and walking path of about 7 km, with kiosks on the water and Corcovado above. The easiest bike ride in the city.",
+        "come": "On foot from Ipanema; bike hire along the shore.",
+        "quando": "Late afternoon and sunset.",
+        "tempo": "1-2 hours",
+        "costo": "Free",
+        "lat": -22.97112,
+        "lng": -43.21172
+      },
+      {
+        "nome": "Vista Chinesa",
+        "testo": "A pagoda-shaped viewpoint in Tijuca National Park, the forest inside the city. From here you see the lagoon, Ipanema, Sugarloaf and Christ.",
+        "come": "Only by car, app taxi or tour; the road climbs through the forest from the Botanical Garden.",
+        "quando": "Morning, with a clear sky.",
+        "tempo": "1 hour with the drive",
+        "costo": "Free",
+        "lat": -22.97316,
+        "lng": -43.24976,
+        "consiglio": "Don't walk up the forest roads: better a tour or a car with driver."
+      },
+      {
+        "nome": "Maracanã",
+        "testo": "The stadium opened for the 1950 World Cup, the temple of Brazilian football. You can visit it on a tour of the dressing rooms and pitch, or go to a Flamengo or Fluminense match.",
+        "come": "Metro to Maracanã station.",
+        "quando": "A match night, or by day for the tour.",
+        "tempo": "1-2 hours for the tour, an evening for a match",
+        "lat": -22.9122,
+        "lng": -43.2303,
+        "consiglio": "Go to matches and back by metro or app, with no valuables."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Christ the Redeemer on the first run",
-          "Lunch in Santa Teresa or the centre",
-          "Afternoon: Sugarloaf",
+          "Morning: Christ the Redeemer on the first departure",
+          "Lunch in Santa Teresa or downtown",
+          "Afternoon: Sugarloaf Mountain",
           "Evening: sunset and dinner in Ipanema"
         ]
       },
@@ -104,14 +207,16 @@ export const destinazioniBrasile: Destinazione[] = [
         "titolo": "2 days",
         "tappe": [
           "Day 1: the 1-day plan",
-          "Day 2: morning on the beach at Ipanema and Copacabana, afternoon in the centre and Museu do Amanhã, evening in Lapa"
+          "Day 2: morning on the beach at Ipanema and Copacabana, afternoon downtown with the Real Gabinete and the Museu do Amanhã, evening in Lapa"
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
           "Days 1-2 as above",
-          "Day 3: Santa Teresa and the Escadaria Selarón, sunset at Arpoador"
+          "Day 3: Botanical Garden and Parque Lage in the morning, a bike ride round the Lagoa",
+          "Afternoon: Santa Teresa and the Escadaria Selarón",
+          "Sunset at Arpoador"
         ]
       }
     ],
@@ -119,17 +224,20 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Ipanema and Leblon",
         "perChi": "Those who want safety and restaurants",
-        "testo": "The most polished area, with the sea and the metro close by."
+        "testo": "The most polished area, with the sea and the metro close by.",
+        "fascia": "€90-250"
       },
       {
         "nome": "Copacabana",
         "perChi": "Those who want the classic atmosphere and lower prices",
-        "testo": "The seafront is always alive, but some inner streets are less safe at night."
+        "testo": "The seafront is always alive, but some inner streets are less safe at night.",
+        "fascia": "€50-180"
       },
       {
         "nome": "Santa Teresa",
         "perChi": "Those who want an artistic atmosphere",
-        "testo": "Pousadas in historic villas, but on the hill with steep streets. In the evening it is better to move by app."
+        "testo": "Pousadas in historic villas, but on the hill with steep streets. In the evening it is better to move by app.",
+        "fascia": "€60-150"
       }
     ],
     sapori: [
@@ -160,6 +268,52 @@ export const destinazioniBrasile: Destinazione[] = [
       "With Uber and 99 use the official app and check the plate and driver's name: official travel advice warns of fake drivers, airports included.",
       "Official advice (for example the UK government's) recommends not visiting favelas, guided tours included.",
       "Dengue is widespread in cities: repellent and long sleeves at dusk."
+    ],
+    gite: [
+      {
+        "nome": "Niterói and the MAC",
+        "distanza": "20 minutes by ferry",
+        "come": "Boat from the Praça XV terminal downtown, then on foot or by app to the museum.",
+        "testo": "Across the bay stands Oscar Niemeyer's Museum of Contemporary Art, the white disc poised on the cliff, with the best view of Rio and Sugarloaf."
+      },
+      {
+        "nome": "Petrópolis",
+        "distanza": "about 70 km, 1.5 hours",
+        "come": "Bus from the Novo Rio bus station or car with driver.",
+        "testo": "The imperial city in the mountains, where the court spent the summer: the Imperial Museum in Pedro II's palace, the cathedral and the cool air of the Serra dos Órgãos."
+      },
+      {
+        "nome": "Ilha Grande",
+        "distanza": "about 150 km, 2.5-3 hours plus the boat",
+        "come": "Combined van and boat from the Zona Sul, or bus to Conceição de Jacareí and boat; better with a night.",
+        "testo": "A car-free island covered in Atlantic forest, with trails between beaches such as Lopes Mendes. It is part of the Costa Verde UNESCO site together with Paraty."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Rio de Janeiro?",
+        "risposta": "Three or four days: one for Christ and Santa Teresa, one for Sugarloaf and the beaches, one for downtown and Lapa, plus some slack for the weather."
+      },
+      {
+        "domanda": "Where to stay in Rio?",
+        "risposta": "Ipanema and Leblon are the best-kept and safest areas, Copacabana is cheaper with a seafront that never sleeps, Santa Teresa has more atmosphere but is on a hill. It pays to stay near a metro stop."
+      },
+      {
+        "domanda": "Christ the Redeemer: cog train or van?",
+        "risposta": "The cog train from Cosme Velho (R$139) runs through the Tijuca forest; the official vans from Paineiras cost less (about R$87). Both are booked online with a date and time."
+      },
+      {
+        "domanda": "What time should you go up Sugarloaf?",
+        "risposta": "An hour before sunset, to see the bay in daylight and the city lighting up. Last boarding is at 19:30."
+      },
+      {
+        "domanda": "Is Rio safe for tourists?",
+        "risposta": "The main risk is theft and snatching: phone in your pocket, no jewellery, little cash and an app instead of walking at night. Official advice is against visiting favelas, even on tours."
+      },
+      {
+        "domanda": "What is the best time to visit Rio?",
+        "risposta": "May to October, with a mild, dry winter. From December to March it is hot with frequent afternoon rain; Carnival fills the city and pushes prices up."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],

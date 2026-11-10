@@ -388,13 +388,11 @@ export const destinazioniMalesia: Destinazione[] = [
       'Dentro il perimetro UNESCO di George Town, possibilmente in una shophouse restaurata: si gira tutto a piedi ed è l\'unico modo di vedere la città la sera. Batu Ferringhi è la zona delle spiagge e dei resort, ma sta dall\'altra parte dell\'isola e taglia fuori dalla parte migliore.',
     doveMangiare:
       'È la ragione del viaggio. Da provare in ordine: l\'assam laksa, la zuppa acida di pesce e tamarindo che è il piatto simbolo dell\'isola; il char kway teow saltato al wok sul fuoco vivo; il cendol, il dolce ghiacciato con latte di cocco e zucchero di palma; il nasi kandar indiano-musulmano, con i curry versati uno sull\'altro sul riso; e il rojak, macedonia salata con salsa di gamberi fermentati. Si mangia ai coffee shop e ai food court più che nei ristoranti, e i banchi migliori hanno orari propri: alcuni aprono solo la mattina, altri solo dopo il tramonto.',
-    comeArrivare:
-      'Volo su Penang (PEN) da Kuala Lumpur o dall\'estero, oppure treno ETS fino a Butterworth e traghetto, che è il modo più bello di arrivare.',
+    comeArrivare: "L'aeroporto internazionale di Penang (PEN) è nel sud dell'isola, a circa 30-45 minuti di Grab o taxi da George Town; c'è anche l'autobus Rapid Penang, più lento. Da Kuala Lumpur si vola in meno di un'ora, oppure si prende il treno ETS da KL Sentral a Butterworth, sulla terraferma, in circa 4 ore, e da lì il traghetto che attraversa lo stretto fino al terminal di George Town in pochi minuti: il modo più bello di arrivare. Gli autobus da Kuala Lumpur e dalle Cameron Highlands (circa 4-5 ore) arrivano sull'isola passando dal ponte.",
     comeSpostarsi: 'George Town si gira a piedi; per il resto dell\'isola autobus pubblici economici e Grab.',
     periodoMigliore:
       'la stagione più secca, a inizio anno. Durante i festival cittadini, come il George Town Festival, la città si riempie.',
-    costi:
-      "La città in sé è quasi tutta gratuita: il centro storico si cammina, i murales non si pagano. A Kek Lok Si si pagano gli ascensori inclinati verso la statua; la funicolare di Penang Hill ha un biglietto, con tariffe sul sito ufficiale.",
+    costi: "Blue Mansion 25 RM con visita guidata, funicolare di Penang Hill 40 RM andata e ritorno per gli stranieri (prezzi ufficiali 2026); il centro storico e i murales sono gratuiti, i piatti ai banchi costano da pochi ringgit a una decina. Budget: circa 30-40 € al giorno con guesthouse, banchi di strada e autobus. Medio: 70-100 € con hotel in una shophouse restaurata, Grab e qualche ingresso. Alto: oltre 150 € con hotel storici come l'Eastern & Oriental e cene al ristorante.",
     erroriDaEvitare: [
       'Andare a Penang per le spiagge: Batu Ferringhi è mediocre e tiene lontani dalla parte che conta',
       'Mangiare nei ristoranti con menu illustrato: i banchi migliori non hanno insegne in inglese e chiudono quando finiscono gli ingredienti',
@@ -451,7 +449,10 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "Dal terminal dei traghetti o dagli alberghi si va a piedi. Tanti i percorsi a piedi.",
         quando: "Al mattino presto e dopo le quattro del pomeriggio. Tra le undici e le tre il caldo è serio.",
         tempo: "mezza giornata",
-        consiglio: "Cercare i murales ma anche le botteghe di artigiani, e fermarsi a bere un caffè bianco in una vecchia caffetteria."
+        consiglio: "Cercare i murales ma anche le botteghe di artigiani, e fermarsi a bere un caffè bianco in una vecchia caffetteria.",
+        costo: "Gratuito: si cammina e i murales non si pagano.",
+        lat: 5.41444,
+        lng: 100.32917,
       },
       {
         nome: "Clan Jetties",
@@ -459,7 +460,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "A piedi dal lungomare di George Town. È un luogo dove si vive: camminare in silenzio, chiedere prima di fotografare.",
         quando: "Al mattino o a fine pomeriggio.",
         tempo: "1 ora",
-        consiglio: "Comprare qualcosa da una delle botteghe lungo il molo: è l'unico modo corretto di sostenere chi ci vive."
+        consiglio: "Comprare qualcosa da una delle botteghe lungo il molo: è l'unico modo corretto di sostenere chi ci vive.",
+        lat: 5.41314,
+        lng: 100.34128,
       },
       {
         nome: "Kek Lok Si",
@@ -468,7 +471,9 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Al mattino; durante il Capodanno cinese è affollato di lanterne e fedeli.",
         tempo: "1 ora e mezza",
         costo: "ingresso al complesso libero; gli ascensori inclinati si pagano a parte",
-        consiglio: "Salire fino alla statua di Guanyin: la vista su Penang vale i gradini."
+        consiglio: "Salire fino alla statua di Guanyin: la vista su Penang vale i gradini.",
+        lat: 5.39952,
+        lng: 100.27373,
       },
       {
         nome: "Cheong Fatt Tze Mansion (Blue Mansion)",
@@ -477,7 +482,11 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Al mattino, con il tour in lingua inglese.",
         tempo: "1 ora",
         url: "https://www.cheongfatttzemansion.com/",
-        consiglio: "Arrivare in tempo per il primo tour: i gruppi sono piccoli e il racconto vale più delle sale."
+        consiglio: "Arrivare in tempo per il primo tour: i gruppi sono piccoli e il racconto vale più delle sale.",
+        costo: "Visita guidata 25 RM per gli adulti, circa 5 €; 12,50 RM sotto i 12 anni (sito ufficiale, 2026).",
+        orari: "Visite guidate tutti i giorni alle 11:00 e alle 15:30, durata 45 minuti; conviene prenotare online.",
+        lat: 5.42141,
+        lng: 100.33495,
       },
       {
         nome: "Street of Harmony",
@@ -486,7 +495,9 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Al mattino. Le moschee sono chiuse ai non musulmani durante la preghiera.",
         tempo: "1 ora",
         costo: "gratuito",
-        consiglio: "Visitare la Kapitan Keling Mosque fuori dagli orari di preghiera, con abiti coperti."
+        consiglio: "Visitare la Kapitan Keling Mosque fuori dagli orari di preghiera, con abiti coperti.",
+        lat: 5.41667,
+        lng: 100.33739,
       },
       {
         nome: "Penang Hill",
@@ -495,40 +506,158 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Aperta tutti i giorni dalle 6:15 alle 21:45. Al mattino c'è meno nebbia e ci sono meno code.",
         tempo: "3 ore",
         url: "https://www.penanghill.gov.my/",
-        consiglio: "Salire presto: nel pomeriggio le code alla funicolare sono lunghe."
-      }
+        consiglio: "Salire presto: nel pomeriggio le code alla funicolare sono lunghe.",
+        costo: "Funicolare andata e ritorno, corsia normale: 40 RM per gli adulti stranieri, circa 8 €; 20 RM i bambini da 4 a 12 anni (sito ufficiale, 2026).",
+        orari: "Tutti i giorni 6:15-21:45.",
+        lat: 5.42444,
+        lng: 100.26892,
+      },
+      {
+        nome: "Khoo Kongsi",
+        testo: "La casa-clan della famiglia Khoo, la più sontuosa di George Town: un cortile di granito chiuso tra le case dei membri del clan e, in fondo, il tempio Leong San Tong, ricostruito all'inizio del Novecento dopo un incendio. Tetti carichi di figure in ceramica, colonne scolpite e travi dorate. Racconta bene come i clan hokkien organizzavano la vita della comunità.",
+        come: "A piedi dal centro storico, entrando dal vicolo di Cannon Square. Visita libera, con pannelli e un piccolo museo al piano terra.",
+        quando: "Al mattino, quando la luce entra nel cortile.",
+        tempo: "1 ora",
+        lat: 5.41503,
+        lng: 100.33712,
+        url: "https://www.khookongsi.com.my/",
+      },
+      {
+        nome: "Pinang Peranakan Mansion",
+        testo: "La villa verde costruita a fine Ottocento da Chung Keng Quee, capo della comunità cinese e magnate dello stagno, oggi museo della cultura peranakan. Raccoglie oltre mille oggetti d'epoca: porcellane nyonya, gioielli, mobili intarsiati, abiti da sposa. Gli interni, con il cortile centrale e le grate dorate, valgono da soli la visita.",
+        come: "A piedi dal centro storico, in Church Street. Visita libera o con le guide del museo.",
+        quando: "A metà mattina o nel primo pomeriggio, per stare al chiuso nelle ore calde.",
+        tempo: "1-1,5 ore",
+        lat: 5.418,
+        lng: 100.34119,
+        url: "https://www.pinangperanakanmansion.com.my/",
+        consiglio: "Si abbina alla Blue Mansion: una racconta i mercanti cinesi, l'altra le famiglie peranakan.",
+      },
+      {
+        nome: "St. George's Church",
+        testo: "Costruita nel 1818 dalla Compagnia delle Indie Orientali, è la più antica chiesa anglicana del sud-est asiatico: colonne doriche bianche, un prato e un piccolo padiglione in memoria di Francis Light, il fondatore della colonia. Sta a pochi passi dalla Kapitan Keling Mosque e dal tempio della dea della misericordia.",
+        come: "A piedi in Farquhar Street, nel centro storico.",
+        quando: "Al mattino, abbinata alla Street of Harmony.",
+        tempo: "20 minuti",
+        lat: 5.41972,
+        lng: 100.33911,
+      },
+      {
+        nome: "Fort Cornwallis",
+        testo: "Il forte a stella costruito dai britannici nel punto in cui Francis Light sbarcò nel 1786, prima in legno e poi in mattoni nei primi anni dell'Ottocento. Restano le mura basse, i cannoni rivolti al mare e una piccola cappella. È più interessante per la storia che per quello che si vede.",
+        come: "A piedi sul lungomare, vicino alla torre dell'orologio della regina Vittoria e all'Esplanade.",
+        quando: "Nel tardo pomeriggio, poi passeggiata sull'Esplanade al tramonto.",
+        tempo: "45 minuti",
+        lat: 5.4205,
+        lng: 100.3439,
+      },
+      {
+        nome: "Armenian Street e i murales",
+        testo: "La via dove nel 2012 l'artista lituano Ernest Zacharevic dipinse i bambini in bicicletta, il murale che ha reso famosa la street art di George Town. Intorno ci sono altri dipinti e le sagome in ferro battuto che raccontano la storia delle strade. Oggi è piena di negozi e caffè, e davanti ai murales più noti si fa la fila per la foto.",
+        come: "A piedi; i murales sono sparsi tra Armenian Street, Lebuh Ah Quee e Cannon Street. All'ufficio turistico si trova la mappa.",
+        quando: "Prima delle nove, quando i murales sono liberi e fa ancora fresco.",
+        tempo: "1-2 ore",
+        costo: "Gratuito.",
+        lat: 5.41474,
+        lng: 100.33811,
+      },
+      {
+        nome: "Little India e lo Sri Mahamariamman",
+        testo: "Il quartiere indiano tra Queen Street e Market Street, con negozi di sari, ghirlande di fiori, musica tamil e banchi di dolci. Al centro c'è lo Sri Mahamariamman, del 1833, il più antico tempio indù dell'isola, con la torre d'ingresso coperta di divinità colorate.",
+        come: "A piedi, accanto alla Street of Harmony. Nel tempio si entra scalzi e coperti.",
+        quando: "Al tramonto, quando si accendono le luci; durante Deepavali è addobbato a festa.",
+        tempo: "1 ora",
+        lat: 5.41774,
+        lng: 100.33856,
+        consiglio: "Fermarsi per un tè tarik e un roti canai in uno dei locali con i tavoli sul marciapiede.",
+      },
+      {
+        nome: "Wat Chayamangkalaram e Dhammikarama",
+        testo: "Due templi buddisti uno di fronte all'altro in Burma Lane, a Pulau Tikus. Il Wat Chayamangkalaram, thailandese, custodisce un grande Buddha sdraiato di oltre 30 metri; il Dhammikarama, birmano, fondato nel 1803, ha elefanti di pietra all'ingresso e pagode dorate. Due stili diversi a pochi metri di distanza.",
+        come: "Circa 3 km a nord-ovest del centro: Grab in 10-15 minuti o autobus Rapid Penang. Si entra scalzi, con spalle e ginocchia coperte.",
+        quando: "Al mattino, quando ci sono i fedeli e meno caldo.",
+        tempo: "1 ora",
+        lat: 5.4318,
+        lng: 100.31341,
+      },
+      {
+        nome: "Gurney Drive",
+        testo: "Il lungomare a nord del centro, con il food court all'aperto più famoso dell'isola: decine di banchi di char kway teow, satay, oyster omelette, rojak e laksa sotto le luci della sera. Più turistico dei banchi di George Town, ma comodo per assaggiare molti piatti in una sola cena.",
+        come: "Grab dal centro storico in circa 10-15 minuti.",
+        quando: "La sera, dopo il tramonto, quando aprono tutti i banchi.",
+        tempo: "1-2 ore",
+        lat: 5.43656,
+        lng: 100.31256,
+        consiglio: "Fare un giro completo prima di ordinare: lo stesso piatto cambia molto da un banco all'altro.",
+      },
+      {
+        nome: "Penang Botanic Gardens",
+        testo: "Il giardino botanico fondato dai britannici alla fine dell'Ottocento in una valle vicino a una cascata, detto anche Waterfall Gardens. Prati, alberi tropicali secolari, felci e macachi abituati alle persone. Da qui parte anche un sentiero ripido che sale a piedi fino a Penang Hill.",
+        come: "Grab o autobus Rapid Penang dal centro, circa 20 minuti.",
+        quando: "Mattina presto, quando corrono e camminano i residenti e fa fresco.",
+        tempo: "1-2 ore",
+        lat: 5.43996,
+        lng: 100.28833,
+        consiglio: "Non portare cibo in vista: le scimmie lo strappano di mano.",
+      },
     ],
     programmi: [
       {
+        titolo: "1 giorno",
+        tappe: [
+          "Murales di Armenian Street prima delle nove",
+          "Khoo Kongsi e Street of Harmony con la Kapitan Keling Mosque",
+          "Pranzo in un coffee shop del centro",
+          "Blue Mansion con la visita delle 15:30",
+          "Clan Jetties al tramonto",
+          "Cena ai banchi di strada di George Town o a Gurney Drive",
+        ],
+      },
+      {
         titolo: "2 giorni",
         tappe: [
-          "Giorno 1: mattina a piedi nel centro storico e Street of Harmony; pranzo in un centro cibo; primo pomeriggio Blue Mansion; tardo pomeriggio Clan Jetties; sera cena in strada",
-          "Giorno 2: mattina Kek Lok Si; pranzo ad Air Itam (assam laksa); pomeriggio Penang Hill; sera libera"
-        ]
+          "Giorno 1: come sopra",
+          "Giorno 2: Kek Lok Si al mattino, poi assam laksa ad Air Itam",
+          "Penang Hill in funicolare nel pomeriggio",
+          "Little India e cena con nasi kandar",
+        ],
       },
       {
         titolo: "3 giorni",
         tappe: [
-          "Come i due giorni, con il terzo dedicato al mangiare: colazione tradizionale, mercato, un giro in cerca dei banchi migliori, e la cena finale in un hawker"
-        ]
-      }
+          "Giorni 1-2: come sopra",
+          "Giorno 3: Botanic Gardens presto, poi Wat Chayamangkalaram e Dhammikarama",
+          "Pinang Peranakan Mansion nelle ore calde",
+          "Fort Cornwallis ed Esplanade al tramonto",
+          "In alternativa, giornata al Penang National Park",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Centro storico di George Town",
         perChi: "chi vuole fare tutto a piedi",
-        testo: "Shophouse restaurate trasformate in guesthouse e piccoli alberghi. Comodissimo, un po' rumoroso la sera."
+        testo: "Shophouse restaurate trasformate in guesthouse e piccoli alberghi. Comodissimo, un po' rumoroso la sera.",
+        fascia: "40-100 €",
       },
       {
         nome: "Batu Ferringhi",
         perChi: "chi cerca il mare e i resort",
-        testo: "Una striscia di spiaggia con alberghi grandi. Mare mediocre, ma è la zona più comoda per le famiglie."
+        testo: "Una striscia di spiaggia con alberghi grandi. Mare mediocre, ma è la zona più comoda per le famiglie.",
+        fascia: "70-200 €",
       },
       {
         nome: "Komtar e Jalan Burma",
         perChi: "chi vuole risparmiare",
-        testo: "Alberghi di fascia media, fuori dal cuore turistico ma a pochi minuti di bus o taxi."
-      }
+        testo: "Alberghi di fascia media, fuori dal cuore turistico ma a pochi minuti di bus o taxi.",
+        fascia: "30-70 €",
+      },
+      {
+        nome: "Gurney Drive",
+        perChi: "chi vuole hotel moderni e centri commerciali",
+        testo: "Grandi alberghi e appartamenti sul lungomare, con il food court sotto casa. Al centro storico si va in Grab.",
+        fascia: "50-130 €",
+      },
     ],
     sapori: [
       {
@@ -553,6 +682,46 @@ export const destinazioniMalesia: Destinazione[] = [
       "Evitare il centro tra le undici e le tre: il caldo è forte e l'ombra scarsa.",
       "Nei templi e nelle moschee spalle e ginocchia coperte, scarpe tolte.",
       "Alle bancarelle turistiche attorno ai murales cibo e souvenir costano di più che nelle vie laterali."
+    ],
+    gite: [
+      {
+        nome: "Penang National Park e Monkey Beach",
+        distanza: "circa 1 ora di autobus",
+        come: "Autobus 101 da George Town fino a Teluk Bahang; all'ingresso del parco ci si registra, poi sentiero nella foresta o barca a pagamento da contrattare prima.",
+        testo: "Il parco nazionale più piccolo della Malesia, istituito nel 2003, con foresta, spiagge e un lago meromittico. Monkey Beach si raggiunge in un'ora e mezza circa di sentiero; Pantai Kerachut è un sito di nidificazione delle tartarughe.",
+      },
+      {
+        nome: "Batu Ferringhi",
+        distanza: "circa 15 km, 30-45 minuti",
+        come: "Autobus 101 da George Town o Grab.",
+        testo: "La spiaggia dei resort sulla costa nord. Il mare non è il migliore della Malesia, ma la sera c'è il mercato lungo la strada principale e si mangia pesce sulla sabbia.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Penang?",
+        risposta: "Due o tre: uno per il centro storico di George Town, uno per Kek Lok Si e Penang Hill, il terzo per mangiare con calma o per il parco nazionale. Con una notte sola si perde metà dei banchi, che aprono solo la sera.",
+      },
+      {
+        domanda: "Penang o Malacca?",
+        risposta: "Penang se si viene anche per il cibo e si hanno almeno due giorni; Malacca se il tempo è poco o si va via terra verso Singapore. Con una settimana si fanno entrambe.",
+      },
+      {
+        domanda: "Dove dormire a George Town?",
+        risposta: "Dentro il perimetro UNESCO, in una shophouse restaurata: si gira tutto a piedi e si vive la città la sera. Batu Ferringhi è comoda solo per chi vuole il resort sul mare.",
+      },
+      {
+        domanda: "Quanto costa la funicolare di Penang Hill?",
+        risposta: "40 RM andata e ritorno per gli adulti stranieri sulla corsia normale e 20 RM per i bambini da 4 a 12 anni (sito ufficiale, 2026). Funziona tutti i giorni dalle 6:15 alle 21:45.",
+      },
+      {
+        domanda: "Bisogna prenotare la Blue Mansion?",
+        risposta: "Conviene: si entra solo con la visita guidata delle 11:00 o delle 15:30, che dura 45 minuti e costa 25 RM, e i posti finiscono spesso.",
+      },
+      {
+        domanda: "Penang è un posto da spiaggia?",
+        risposta: "Non proprio. Batu Ferringhi è mediocre e lontana dal centro; per il mare in Malesia sono meglio Langkawi o le Perhentian.",
+      },
     ],
     esperienzeSlugs: ['street-food-penang'],
     tripSlugs: ['malesia-singapore'],
@@ -589,11 +758,10 @@ export const destinazioniMalesia: Destinazione[] = [
       'Dentro il centro storico, meglio dal lato di Chinatown: la sera, quando i pullman dei visitatori in giornata sono ripartiti, il quartiere cambia del tutto, ed è questa la ragione per fermarsi a dormire.',
     doveMangiare:
       'La cucina da cercare è quella peranakan o nyonya: l\'ayam pongteh, il pollo stufato con salsa di soia fermentata, e il laksa nyonya, con il latte di cocco, che è diverso da quello di Penang. La specialità popolare è invece il chicken rice ball, il pollo con il riso servito in polpette compatte, tipico della città. Da provare anche il cendol di Malacca, ricco di zucchero di palma, e i satay celup, gli spiedini cotti dai clienti in una pentola di salsa di arachidi bollente al centro del tavolo.',
-    comeArrivare:
-      'Autobus frequenti da Kuala Lumpur, dal terminal TBS. Da Malacca a Singapore ci sono autobus diretti, frontiera compresa: è la ragione per cui questa città sta in mezzo a quasi tutti gli itinerari.',
+    comeArrivare: "Malacca non ha voli di linea utili: si arriva in autobus. Dal terminal TBS di Kuala Lumpur gli autobus partono di continuo e arrivano a Melaka Sentral in circa 2 ore; dall'aeroporto KLIA ci sono autobus diretti, in circa 2-2,5 ore. Melaka Sentral è fuori città: da lì al centro storico si va in Grab in pochi minuti o con l'autobus locale. Per Singapore ci sono autobus diretti che impiegano circa 4-5 ore con la frontiera, da prenotare almeno il giorno prima.",
     comeSpostarsi: 'Il centro storico si gira a piedi. Per la stazione degli autobus, che è fuori città, servono un bus locale o Grab.',
     periodoMigliore: 'tutto l\'anno, con i mesi più asciutti a inizio anno. Il mercato notturno di Jonker Street c\'è solo nel fine settimana, il che condiziona la scelta dei giorni.',
-    costi: "Baba & Nyonya Heritage Museum a pagamento (tariffe sul sito), St. Paul e la Porta de Santiago gratuiti, giro in barca sul fiume a pagamento.",
+    costi: "Musei statali (Stadthuys, Museo Marittimo, Palazzo del Sultanato) 20 RM ciascuno per gli stranieri, Baba & Nyonya circa 20-25 RM, Menara Taming Sari da 20 RM (2026); St. Paul, la Porta de Santiago e i templi sono gratuiti. Budget: circa 30-40 € al giorno con guesthouse a Chinatown, cibo di strada e autobus. Medio: 60-90 € con un hotel in una casa storica e qualche cena nyonya. Alto: oltre 140 € con gli alberghi di lusso sul fiume.",
     erroriDaEvitare: [
       'Andarci in un fine settimana aspettandosi tranquillità: da venerdì a domenica Malacca è una meta domestica molto frequentata',
       'Farla in giornata da Kuala Lumpur: si vede solo nelle ore peggiori e si perde la sera, che è il momento in cui la città funziona',
@@ -608,7 +776,12 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "A piedi dal centro storico. Il Stadthuys ospita un museo di storia ed etnografia.",
         quando: "Al mattino, prima della folla.",
         tempo: "1 ora",
-        consiglio: "Cominciare qui e salire verso St. Paul con le scale laterali."
+        consiglio: "Cominciare qui e salire verso St. Paul con le scale laterali.",
+        costo: "20 RM per gli adulti stranieri, circa 4 €; 10 RM i bambini (Perbadanan Muzium Melaka, 2026).",
+        orari: "Da martedì a domenica 9:00-17:30, ultimo ingresso 16:30; chiuso il lunedì.",
+        lat: 2.19406,
+        lng: 102.24915,
+        url: "https://www.perzim.gov.my/",
       },
       {
         nome: "St. Paul's Hill e Porta de Santiago",
@@ -617,7 +790,9 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Al tramonto, con la luce che scende sullo stretto.",
         tempo: "1 ora",
         costo: "gratuito",
-        consiglio: "Leggere le lapidi: sono la sintesi della storia della città."
+        consiglio: "Leggere le lapidi: sono la sintesi della storia della città.",
+        lat: 2.1928,
+        lng: 102.249,
       },
       {
         nome: "Jonker Street",
@@ -625,7 +800,11 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "A piedi dal centro. Il mercato notturno c'è nel fine settimana.",
         quando: "Nei giorni feriali per camminare con calma; il fine settimana per il mercato.",
         tempo: "1-2 ore",
-        consiglio: "Mangiare a Jonker non è sempre la scelta migliore: provare le vie laterali."
+        consiglio: "Mangiare a Jonker non è sempre la scelta migliore: provare le vie laterali.",
+        lat: 2.19672,
+        lng: 102.24653,
+        costo: "Gratuito.",
+        orari: "Mercato notturno venerdì, sabato e domenica dalla sera.",
       },
       {
         nome: "Baba & Nyonya Heritage Museum",
@@ -634,7 +813,9 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Chiuso il martedì. Negli altri feriali 10-16:15, nel fine settimana 10-16:45 (2025).",
         tempo: "1 ora",
         url: "https://www.babanyonyamuseum.com/",
-        consiglio: "Controllare orari e modalità di visita sul sito prima di andare."
+        consiglio: "Controllare orari e modalità di visita sul sito prima di andare.",
+        costo: "Circa 20-25 RM, circa 4-5 €.",
+        orari: "Chiuso il martedì; negli altri feriali 10:00-16:15, sabato e domenica 10:00-16:45 (sito ufficiale).",
       },
       {
         nome: "Cheng Hoon Teng",
@@ -643,40 +824,154 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "Al mattino.",
         tempo: "1 ora",
         costo: "gratuito",
-        consiglio: "Abiti coperti per il tempio e per la moschea vicina."
-      }
+        consiglio: "Abiti coperti per il tempio e per la moschea vicina.",
+        lat: 2.19747,
+        lng: 102.24686,
+        url: "https://www.chenghoonteng.org.my/",
+      },
+      {
+        nome: "Museo Marittimo (Muzium Samudera)",
+        testo: "Una grande replica della Flor de la Mar, la caracca portoghese affondata al largo di Malacca nel 1511 carica del bottino della conquista. Dentro e negli edifici accanto si racconta il porto: i mercanti arabi, cinesi e indiani, le spezie, le dominazioni europee. È il museo più amato dalle famiglie.",
+        come: "A piedi lungo il fiume, a pochi minuti dalla Dutch Square. Lo stesso biglietto vale per le sezioni vicine del museo.",
+        quando: "Nelle ore calde, per stare al chiuso.",
+        tempo: "1 ora",
+        costo: "20 RM per gli adulti stranieri, circa 4 €; 10 RM i bambini (Perbadanan Muzium Melaka, 2026).",
+        orari: "Da martedì a domenica 9:00-17:30, ultimo ingresso 16:30; chiuso il lunedì.",
+        url: "https://www.perzim.gov.my/",
+      },
+      {
+        nome: "Palazzo del Sultanato",
+        testo: "La ricostruzione in legno scuro, senza chiodi, del palazzo del sultano Mansur Shah, che regnò nel Quattrocento quando Malacca era il porto più ricco dello Stretto. Dentro c'è il museo della cultura malese: costumi, armi, scene della corte. Racconta la Malacca prima degli europei.",
+        come: "A piedi ai piedi della collina di St. Paul, sul lato opposto alla Porta de Santiago. Si entra scalzi.",
+        quando: "Al mattino, prima della salita a St. Paul.",
+        tempo: "45 minuti",
+        costo: "20 RM per gli adulti stranieri, circa 4 €; 10 RM i bambini (Perbadanan Muzium Melaka, 2026).",
+        orari: "Da martedì a domenica 9:00-17:30, ultimo ingresso 16:30; chiuso il lunedì.",
+        lat: 2.1929,
+        lng: 102.2504,
+        url: "https://www.perzim.gov.my/",
+      },
+      {
+        nome: "Crociera sul fiume Malacca",
+        testo: "Il battello che risale il fiume per circa 9 km tra le case dipinte di murales, i magazzini restaurati, i ponti e il villaggio di Kampung Morten. Di sera, con le luci sulle rive, è il modo più rilassante di vedere la città.",
+        come: "Dal molo vicino al Museo Marittimo o dagli altri imbarchi lungo il fiume; biglietti alla biglietteria o online.",
+        quando: "Dopo il tramonto, con le rive illuminate.",
+        tempo: "45 minuti",
+        orari: "Tutti i giorni 9:00-23:00.",
+        url: "https://www.melakarivercruise.my/",
+      },
+      {
+        nome: "Kampung Morten",
+        testo: "Un villaggio malese tradizionale rimasto in mezzo alla città, sull'ansa del fiume: case di legno su palafitte con tetti spioventi, giardini e scale decorate. È abitato, e alcune famiglie aprono la casa ai visitatori.",
+        come: "A piedi lungo la passeggiata del fiume, circa 15 minuti da Jonker Street, oppure con la crociera.",
+        quando: "Nel tardo pomeriggio, poi si torna lungo il fiume al tramonto.",
+        tempo: "45 minuti",
+        lat: 2.20339,
+        lng: 102.25103,
+        consiglio: "È un quartiere residenziale: niente foto dentro i cortili senza chiedere.",
+      },
+      {
+        nome: "Kampung Hulu Mosque",
+        testo: "Del 1728, è una delle moschee più antiche della Malesia ancora in uso. Ha il tetto a piramide a più livelli tipico delle moschee di Giava e un minareto che somiglia a una pagoda: un'architettura che mescola influenze malesi, cinesi e indù, come la vicina Kampung Kling.",
+        come: "A piedi nel nord di Chinatown. I non musulmani entrano fuori dagli orari di preghiera, con abiti coperti.",
+        quando: "Al mattino, lontano dalla preghiera del venerdì.",
+        tempo: "20 minuti",
+        lat: 2.19925,
+        lng: 102.24761,
+      },
+      {
+        nome: "Menara Taming Sari",
+        testo: "Una torre panoramica girevole alta 80 metri: la cabina sale ruotando e in pochi minuti mostra il centro storico, il fiume, lo stretto e le isole artificiali. Non ha niente di storico, ma aiuta a capire la forma della città.",
+        come: "A piedi dalla Dutch Square, verso il lungomare.",
+        quando: "Al tramonto, con la luce sullo stretto.",
+        tempo: "30 minuti, con 7 minuti di salita",
+        costo: "Da 20 RM per gli adulti, circa 4 € (sito ufficiale, 2026).",
+        orari: "Feriali 9:00-22:00; fine settimana e festivi 9:00-23:00.",
+        lat: 2.19083,
+        lng: 102.24711,
+        url: "https://www.menaratamingsari.com/",
+      },
+      {
+        nome: "Bukit China",
+        testo: "La collina che, secondo la tradizione, il sultano donò alla principessa cinese Hang Li Po e al suo seguito nel Quattrocento. Oggi è uno dei più grandi cimiteri cinesi fuori dalla Cina, con migliaia di tombe a ferro di cavallo tra gli alberi. Ai piedi c'è il pozzo del sultano e il tempio Sam Po Kong.",
+        come: "A piedi o in Grab dal centro, circa 1 km a est di Jonker Street. I sentieri tra le tombe salgono fino alla cima.",
+        quando: "Mattina presto, quando la collina è piena di persone che camminano e fanno esercizio.",
+        tempo: "1 ora",
+        lat: 2.2,
+        lng: 102.2577,
+        consiglio: "Rispettare le tombe: si cammina sui sentieri, non sopra le sepolture.",
+      },
+      {
+        nome: "Portuguese Settlement",
+        testo: "Il quartiere sul mare dove vivono i discendenti dei portoghesi arrivati nel 1511, che parlano ancora il kristang, un creolo portoghese. Case basse, croci sulle porte, una piazza con ristoranti di pesce. A fine giugno vi si celebra la Festa di San Pedro, con le barche decorate.",
+        come: "Circa 3 km a sud-est del centro, in Grab in 10 minuti.",
+        quando: "La sera, per cenare con il pesce alla griglia nella piazza.",
+        tempo: "1-2 ore",
+        lat: 2.18583,
+        lng: 102.26583,
+        consiglio: "Da provare il devil curry, il curry piccante della cucina kristang.",
+      },
+      {
+        nome: "Masjid Selat (Moschea dello Stretto)",
+        testo: "Una moschea moderna costruita su palafitte sull'acqua, sull'isola artificiale di Pulau Melaka, inaugurata nel 2006. Con l'alta marea sembra galleggiare; al tramonto la luce dietro il minareto attira molti fotografi.",
+        come: "Circa 3 km a sud del centro, in Grab. I non musulmani entrano fuori dagli orari di preghiera, con abiti coperti; le donne con il capo coperto.",
+        quando: "Al tramonto, restando fuori durante la preghiera della sera.",
+        tempo: "45 minuti",
+        lat: 2.17889,
+        lng: 102.24917,
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Mattina: Dutch Square e Stadthuys",
-          "Tarda mattina: St. Paul's Hill e Porta de Santiago",
-          "Pranzo: cucina nyonya",
+          "Mattina: Dutch Square, Christ Church e museo dello Stadthuys",
+          "Palazzo del Sultanato, poi salita a St. Paul's Hill e Porta de Santiago",
+          "Pranzo nyonya",
           "Primo pomeriggio: Baba & Nyonya Museum",
-          "Tardo pomeriggio: Cheng Hoon Teng e Harmony Street",
-          "Sera: Jonker Street e fiume illuminato"
-        ]
+          "Cheng Hoon Teng, Kampung Kling e Kampung Hulu",
+          "Sera: Jonker Street e crociera sul fiume illuminato",
+        ],
       },
       {
         titolo: "2 giorni",
         tappe: [
           "Giorno 1: come sopra",
-          "Giorno 2: mattina in giro per Chinatown nei giorni feriali, giro in barca sul fiume e rientro nel pomeriggio"
-        ]
-      }
+          "Giorno 2: Bukit China presto, poi Museo Marittimo nelle ore calde",
+          "Kampung Morten lungo il fiume nel pomeriggio",
+          "Tramonto alla Masjid Selat",
+          "Cena al Portuguese Settlement",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2: come sopra",
+          "Giorno 3: gita a Pulau Besar in mattinata",
+          "Menara Taming Sari al tramonto",
+          "Ultima cena di satay celup",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Chinatown e Jonker Street",
         perChi: "chi vuole stare nel cuore della città",
-        testo: "Guesthouse in case storiche, molte vicine a tutto. Rumoroso nel fine settimana."
+        testo: "Guesthouse in case storiche, molte vicine a tutto. Rumoroso nel fine settimana.",
+        fascia: "25-90 €",
       },
       {
         nome: "Lungofiume",
         perChi: "chi cerca una vista sul fiume",
-        testo: "Alberghi con vista sul fiume, più tranquilli. Un po' più lontani da Jonker Street."
-      }
+        testo: "Alberghi con vista sul fiume, più tranquilli. Un po' più lontani da Jonker Street.",
+        fascia: "50-150 €",
+      },
+      {
+        nome: "Bandar Hilir",
+        perChi: "chi vuole un hotel moderno a due passi dal centro",
+        testo: "Grandi alberghi e centri commerciali tra la Dutch Square e il mare, vicino alla Menara Taming Sari. Comodi ma senza atmosfera.",
+        fascia: "40-100 €",
+      },
     ],
     sapori: [
       {
@@ -701,6 +996,46 @@ export const destinazioniMalesia: Destinazione[] = [
       "I trishaw decorati con luci e musica forte sono un'attrazione: concordare il prezzo prima di salire.",
       "Non fare la tappa in giornata da Kuala Lumpur: si perde la sera, quando i pullman se ne vanno.",
       "Il caldo è forte a mezzogiorno: tenere acqua e coprirsi la testa."
+    ],
+    gite: [
+      {
+        nome: "Pulau Besar",
+        distanza: "circa 20 km, poi 15 minuti di barca",
+        come: "In Grab o taxi fino al molo di Anjung Batu, a Umbai, poi traghetto per l'isola.",
+        testo: "Una piccola isola davanti alla costa, con spiagge tranquille, sentieri e tombe di santi musulmani meta di pellegrinaggio. Una mezza giornata di mare e silenzio dopo il centro affollato.",
+      },
+      {
+        nome: "Port Dickson",
+        distanza: "circa 90 km, 1,5 ore in auto",
+        come: "In auto o con un autista; autobus da Melaka Sentral, più lenti.",
+        testo: "La località balneare più vicina a Kuala Lumpur, con spiagge lunghe e il faro di Tanjung Tuan. Il mare non è da cartolina, ma è una giornata di riposo sulla strada verso nord.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Malacca?",
+        risposta: "Uno pieno basta per il centro storico; con due si aggiungono musei, Kampung Morten e la sera sul fiume senza fretta. Conviene dormirci almeno una notte.",
+      },
+      {
+        domanda: "Si può visitare Malacca in giornata da Kuala Lumpur?",
+        risposta: "Si può, con circa 2 ore di autobus per tratta, ma si vede la città nelle ore più calde e affollate e si perde la sera, che è il momento migliore.",
+      },
+      {
+        domanda: "Quando c'è il mercato notturno di Jonker Street?",
+        risposta: "Venerdì, sabato e domenica dalla sera. Negli altri giorni la via è più tranquilla e si cammina meglio.",
+      },
+      {
+        domanda: "Malacca o Penang?",
+        risposta: "Malacca se il tempo è poco o si va via terra verso Singapore; Penang se si hanno due o tre giorni e si viene anche per il cibo.",
+      },
+      {
+        domanda: "Quanto costano i musei di Malacca?",
+        risposta: "I musei statali come lo Stadthuys, il Museo Marittimo e il Palazzo del Sultanato costano 20 RM ciascuno per gli adulti stranieri e chiudono il lunedì. Il Baba & Nyonya Heritage Museum è privato e chiude il martedì.",
+      },
+      {
+        domanda: "Come si va da Malacca a Singapore?",
+        risposta: "Con gli autobus diretti, circa 4-5 ore compresa la frontiera. La SG Arrival Card si compila online nei tre giorni prima dell'arrivo.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],

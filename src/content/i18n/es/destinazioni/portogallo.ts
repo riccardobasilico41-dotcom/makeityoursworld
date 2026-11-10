@@ -407,11 +407,11 @@ export const destinazioniPortogallo: Destinazione[] = [
     doveDormire: "Se visita en el día desde Lisboa, sin dormir en Sintra.",
     doveMangiare: "Travesseiros y queijadas, los dulces típicos, en una de las pastelerías históricas del centro. Por lo demás hay sobre todo locales turísticos en torno a la estación y en el centro peatonal.",
     comeArrivare:
-      "Con el tren regional desde la estación de Rossio en Lisboa: unos 40 minutos, con salidas muy frecuentes durante el día. Es mucho más sencillo y económico que el coche de alquiler, también porque en el centro de Sintra, los fines de semana y en temporada alta, escasea el aparcamiento.",
+      "Desde la estación de Rossio, en pleno centro de Lisboa, el tren de CP de la línea de Sintra llega a la última parada en unos 40 minutos, con trenes frecuentes de la mañana a la noche. Ida y vuelta Lisboa-Sintra cuesta 5,10 € (tarifas CP 2026) y se carga en la tarjeta Navegante ocasional de 0,50 €; el billete Train&Bus de 14 € vale un día en el tren y en los autobuses Scotturb 434 (Pena) y 435 (Monserrate). Desde el aeropuerto se toma el metro rojo y se cambia en Alameda a la línea verde hasta Rossio. En coche, el aparcamiento en el centro escasea.",
     comeSpostarsi: "El autobús local 434 hace un recorrido circular entre la estación, el casco antiguo y el Palácio da Pena. El centro peatonal se recorre a pie, pero entre los sitios principales (Pena, Regaleira, Castelo dos Mouros) siempre se sube, y las distancias son más largas de lo que parece en el mapa.",
     periodoMigliore:
       "el clima va bien todo el año; el problema es la multitud. En fines de semana y en temporada alta (junio-agosto) las colas en los palacios principales se hacen larguísimas ya desde última hora de la mañana. En un día laborable, saliendo lo antes posible, la espera se reduce mucho en cualquier estación.",
-    costi: "Palácio da Pena unos 20-25 €, Quinta da Regaleira unos 15 €, con descuentos en los billetes combinados; tren desde Lisboa unos 5 € por trayecto",
+    costi: "Palácio da Pena 20 € (parque y palacio), solo parque 12 €; Quinta da Regaleira 20 €; Castelo dos Mouros y Monserrate 12 €; Palacio Nacional 13 €; Convento de los Capuchos 11 €; tren desde Lisboa 5,10 € ida y vuelta. Presupuesto orientativo por persona y día en excursión desde Lisboa, entradas incluidas: bajo 40-60 €, medio 70-100 €, alto más de 150 €.",
     erroriDaEvitare: [
       "Llegar a media mañana pensando en «hacerlo todo con calma»: las colas en el Palácio da Pena y en la Quinta da Regaleira se alargan rápido después de las 10-11",
       "No reservar en línea las entradas por franja horaria: en temporada alta los horarios de la mañana se agotan",
@@ -427,7 +427,10 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "2-3 horas con el parque",
         "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
         "costo": "Visita Essencial (parque y palacio) 20 €, solo parque 12 €, 2026 (web oficial)",
-        "consiglio": "El parque se puede visitar solo, sin la cola del palacio, y tiene miradores: útil si las colas son demasiado largas."
+        "consiglio": "El parque se puede visitar solo, sin la cola del palacio, y tiene miradores: útil si las colas son demasiado largas.",
+        "orari": "Parque de 9 a 19 (último acceso a las 18), palacio de 9:30 a 18:30 (último acceso a las 17:30).",
+        "lat": 38.78778,
+        "lng": -9.39056
       },
       {
         "nome": "Quinta da Regaleira",
@@ -436,7 +439,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "A primera hora o a primera hora de la tarde: a media mañana el pozo se llena. Horarios en la web oficial.",
         "tempo": "2 horas",
         "url": "https://www.regaleira.pt/",
-        "consiglio": "Bajar al pozo con calzado antideslizante y volver por los túneles: la salida es más bonita que el descenso."
+        "consiglio": "Bajar al pozo con calzado antideslizante y volver por los túneles: la salida es más bonita que el descenso.",
+        "costo": "20 euros desde enero de 2026 (web oficial)",
+        "orari": "Enero-marzo y octubre-diciembre de 10 a 18:30; abril-septiembre de 9 a 19:30. Último acceso siempre a las 17:30; el palacio y la capilla cierran 30 minutos antes que el jardín.",
+        "lat": 38.79511,
+        "lng": -9.3962
       },
       {
         "nome": "Castelo dos Mouros",
@@ -445,7 +452,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Por la mañana, con menos viento. Con niebla se pierde la vista.",
         "tempo": "1-1,5 horas",
         "url": "https://www.parquesdesintra.pt/",
-        "consiglio": "Si solo hay tiempo para un castillo o palacio además de la Pena, aquí hay menos gente."
+        "consiglio": "Si solo hay tiempo para un castillo o palacio además de la Pena, aquí hay menos gente.",
+        "costo": "12 euros (Parques de Sintra)",
+        "orari": "De 9:30 a 18, último acceso a las 17:30.",
+        "lat": 38.79241,
+        "lng": -9.38867
       },
       {
         "nome": "Palácio Nacional de Sintra",
@@ -454,7 +465,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Antes de comer; por la noche la plaza está más tranquila.",
         "tempo": "1 hora",
         "url": "https://www.parquesdesintra.pt/",
-        "consiglio": "Visitarlo si se está en el pueblo por la tarde: menos cola que la Pena."
+        "consiglio": "Visitarlo si se está en el pueblo por la tarde: menos cola que la Pena.",
+        "costo": "visita esencial 13 euros (Parques de Sintra)",
+        "orari": "Palacio y jardines de 9:30 a 18:30; último acceso al palacio a las 17:30.",
+        "lat": 38.79778,
+        "lng": -9.39083
       },
       {
         "nome": "Cabo da Roca",
@@ -462,7 +477,64 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Desde el centro de Sintra con el autobús de línea hacia Cascais (horarios en la app de Carris Metropolitana) o en coche.",
         "quando": "Al atardecer con viento fuerte; llevar chaqueta incluso en verano.",
         "tempo": "1 hora",
-        "consiglio": "El certificado de visita se compra en la pequeña oficina de turismo: es un recuerdo, no obligatorio."
+        "consiglio": "El certificado de visita se compra en la pequeña oficina de turismo: es un recuerdo, no obligatorio.",
+        "costo": "gratuito",
+        "lat": 38.78083,
+        "lng": -9.50056
+      },
+      {
+        "nome": "Parque y Palacio de Monserrate",
+        "testo": "Un palacio del siglo XIX con cúpulas y decoración inspirada en el arte morisco e indio, levantado para el coleccionista inglés Francis Cook. Alrededor hay un parque botánico en pendiente, con helechos arborescentes, praderas y plantas de todos los continentes. Tiene mucha menos gente que la Pena.",
+        "come": "Al oeste del centro, con el autobús 435 de Scotturb desde la estación o en coche. La carretera pasa por delante de la Quinta da Regaleira y de Seteais.",
+        "quando": "Por la tarde, después de la Pena; con el sol bajo el palacio se vuelve rosado.",
+        "tempo": "2 horas",
+        "costo": "12 euros (Parques de Sintra)",
+        "orari": "Parque de 9 a 19 (último acceso a las 18), palacio de 9:30 a 18.",
+        "lat": 38.79423,
+        "lng": -9.42065,
+        "url": "https://www.parquesdesintra.pt/"
+      },
+      {
+        "nome": "Convento de los Capuchos",
+        "testo": "Un pequeño convento franciscano del siglo XVI escondido en el bosque de la sierra, con celdas diminutas y puertas bajas forradas de corcho. Es lo contrario de los palacios reales: pobre, silencioso, casi excavado en la roca.",
+        "come": "Está aislado en el bosque de la sierra, lejos del centro: se llega en coche o en taxi.",
+        "quando": "Los días de niebla, cuando el bosque de alrededor luce más.",
+        "tempo": "1 hora",
+        "costo": "11 euros (Parques de Sintra)",
+        "orari": "De 9 a 17:30, último acceso a las 17.",
+        "lat": 38.7844,
+        "lng": -9.43817,
+        "url": "https://www.parquesdesintra.pt/"
+      },
+      {
+        "nome": "Chalet de la Condesa de Edla",
+        "testo": "Un chalet de estilo alpino que mandaron construir Fernando II y su segunda esposa, la cantante Elise Hensler, en la parte oeste del parque de la Pena. Por fuera está decorado con falsa madera y corcho, por dentro con azulejos y estucos.",
+        "come": "Dentro del parque de la Pena: se llega a pie desde el palacio por los senderos del parque.",
+        "quando": "Después de la Pena, cuando la gente se concentra en el palacio.",
+        "tempo": "45 minutos",
+        "costo": "incluido en la entrada del parque de la Pena, 12 euros (Parques de Sintra)",
+        "orari": "Chalet de 9 a 17:30, último acceso a las 17; parque de 9 a 19.",
+        "lat": 38.7851,
+        "lng": -9.39911,
+        "url": "https://www.parquesdesintra.pt/"
+      },
+      {
+        "nome": "Palácio de Seteais",
+        "testo": "Un palacio neoclásico de finales del siglo XVIII, hoy hotel, con un gran arco entre sus dos alas. Desde el césped de delante se ven la Pena y el Castelo dos Mouros en la cresta.",
+        "come": "A pie desde el centro, 10-15 minutos por la carretera de Monserrate, poco después de la Quinta da Regaleira.",
+        "quando": "A última hora de la tarde, de vuelta de Monserrate.",
+        "tempo": "20-30 minutos",
+        "lat": 38.7968,
+        "lng": -9.39957
+      },
+      {
+        "nome": "Azenhas do Mar",
+        "testo": "Un pueblo de casas blancas colgado de un acantilado sobre el Atlántico, encima de una piscina natural excavada entre las rocas. Es la postal de la costa de Sintra, a unos veinte minutos de la sierra.",
+        "come": "En coche desde el centro de Sintra hacia Colares y la costa. El mirador está en la carretera, por encima del pueblo.",
+        "quando": "Al atardecer; la piscina natural se usa con marea baja y mar en calma.",
+        "tempo": "1 hora",
+        "lat": 38.84096,
+        "lng": -9.46191
       }
     ],
     programmi: [
@@ -470,17 +542,24 @@ export const destinazioniPortogallo: Destinazione[] = [
         "titolo": "1 día",
         "tappe": [
           "Tren desde Rossio, saliendo antes de las 8",
-          "Palacio da Pena a la apertura",
-          "Castillo de los Moros o Regaleira a última hora de la mañana",
-          "Comida en el pueblo con un travesseiro",
+          "Palácio da Pena a la hora de apertura",
+          "Castelo dos Mouros o Regaleira a media mañana",
+          "Comida en el centro con un travesseiro",
           "Tren de vuelta por la tarde"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: Pena, Castillo de los Moros, casco antiguo",
-          "Día 2: Regaleira, Palacio Nacional, Cabo da Roca al atardecer"
+          "Día 1: Pena, Chalet de la Condesa de Edla, Castelo dos Mouros, casco antiguo",
+          "Día 2: Regaleira a la apertura, Seteais y Monserrate, Palacio Nacional a última hora de la tarde"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba",
+          "Día 3: Convento de los Capuchos por la mañana, Azenhas do Mar, Cabo da Roca al atardecer y vuelta por Cascais"
         ]
       }
     ],
@@ -488,12 +567,60 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Excursión desde Lisboa",
         "perChi": "la mayoría de los visitantes",
-        "testo": "Tren desde Rossio en menos de una hora, vuelta por la tarde. Ritmo apretado con las colas, pero coste bajo."
+        "testo": "Tren desde Rossio en menos de una hora, vuelta por la tarde. Ritmo apretado con las colas, pero coste bajo.",
+        "fascia": "100-250 € en Lisboa"
       },
       {
         "nome": "Sintra, casco antiguo",
         "perChi": "quien quiere ver el pueblo sin multitudes",
-        "testo": "Dormir en el pueblo permite ver la Pena a la apertura y el centro por la tarde. Pocos hoteles y precios altos."
+        "testo": "Dormir en el pueblo permite ver la Pena a la apertura y el centro por la tarde. Pocos hoteles y precios altos.",
+        "fascia": "110-200 €"
+      },
+      {
+        "nome": "Colares y la costa",
+        "perChi": "quien va en coche y quiere el mar cerca",
+        "testo": "Quintas y casas de alquiler entre los viñedos de Colares, a pocos minutos de Azenhas do Mar y de las playas. Noches silenciosas, pero para los palacios hace falta coche.",
+        "fascia": "90-180 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Cascais y Boca do Inferno",
+        "distanza": "unos 30-40 minutos en autobús o en coche",
+        "come": "Autobús de línea desde Sintra pasando por Cabo da Roca, o en coche; desde Cascais se vuelve a Lisboa en tren hasta Cais do Sodré en unos 40 minutos.",
+        "testo": "La villa junto al mar que fue residencia de verano de la corte, con el puerto, la playa en el centro y los acantilados de la Boca do Inferno a pocos minutos a pie."
+      },
+      {
+        "nome": "Palacio Nacional de Queluz",
+        "distanza": "unos 20 minutos en tren",
+        "come": "Tren de la línea de Sintra hasta Queluz-Belas, y después a pie hasta el palacio.",
+        "testo": "El palacio rococó de los Braganza, con salones dorados, jardines a la francesa y un canal revestido de azulejos. Está en la línea Lisboa-Sintra, así que se añade sin desvíos. Palacio y jardines 13 euros, solo jardines 6 euros; de 9 a 18, jardines hasta las 18:30 (Parques de Sintra)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Sintra?",
+        "risposta": "Un día entero basta para la Pena y uno o dos sitios más. Con dos días se añaden Monserrate, Seteais y el Palacio Nacional sin prisas, con un tercero también los Capuchos y la costa."
+      },
+      {
+        "domanda": "¿Hay que reservar la Pena y la Regaleira?",
+        "risposta": "El palacio de la Pena solo se visita con fecha y franja horaria, así que se reserva en la web de Parques de Sintra. En la Regaleira la entrada en línea evita la cola de la taquilla."
+      },
+      {
+        "domanda": "¿Cómo se llega a Sintra desde Lisboa?",
+        "risposta": "En el tren de CP desde Rossio, unos 40 minutos; ida y vuelta cuesta 5,10 euros. El billete Train&Bus de 14 euros incluye también los autobuses 434 y 435."
+      },
+      {
+        "domanda": "Si solo hay tiempo para un sitio, ¿Pena o Regaleira?",
+        "risposta": "La Pena por las vistas y los interiores reales, la Regaleira por el pozo y los jardines simbólicos. Con colas de verdad, quien llega tarde encuentra la Regaleira más llevadera."
+      },
+      {
+        "domanda": "¿Conviene ir a Sintra en coche?",
+        "risposta": "Normalmente no: los coches particulares no suben a la Pena y en el centro el aparcamiento escasea los fines de semana. El coche solo sirve para los Capuchos y la costa."
+      },
+      {
+        "domanda": "¿Merece la pena dormir en Sintra?",
+        "risposta": "Sí, para ver la Pena a la apertura y el centro por la noche sin grupos. Hay pocos hoteles y cuestan más que en Lisboa, así que se reserva pronto."
       }
     ],
     sapori: [

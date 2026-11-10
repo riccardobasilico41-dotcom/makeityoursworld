@@ -626,13 +626,12 @@ export const destinazioniPeru: Destinazione[] = [
       "Aguas Calientes (Machu Picchu Pueblo) es la única base que permite entrar en el primer turno sin depender del primer tren del día; como alternativa Ollantaytambo o el Valle Sagrado para una visita en el día.",
     doveMangiare:
       "Aguas Calientes vive del turismo y los precios lo demuestran: los restaurantes de la calle principal son caros y mediocres, mejor bajar hacia el mercado para comer a una fracción del precio. Conviene de todos modos llevarse agua y algo de comer para la visita, porque dentro del sitio no se puede consumir comida.",
-    comeArrivare: "Véase la comparación de arriba: tren, trek o vía Hidroeléctrica, todas con llegada a Aguas Calientes.",
+    comeArrivare: "No hay carretera que llegue a Machu Picchu: se va a Aguas Calientes en tren PeruRail o IncaRail desde Ollantaytambo (1 h 30 aprox. junto al Urubamba) o desde Cusco/Poroy, o a pie por el Camino Inca, el Salkantay o la vía de Hidroeléctrica (véase la comparación de arriba). El tren cuesta 70-500 $ ida y vuelta según la clase y en temporada alta se agota con semanas de antelación. Del pueblo a la entrada del sitio hay bus lanzadera, unos 25 minutos y 24 $ ida y vuelta, o 1 h 30-2 h a pie por una escalinata en el bosque.",
     comeSpostarsi:
       "De Aguas Calientes a la entrada del sitio: autobús lanzadera Consettur, unos 25 minutos y 24 $ ida y vuelta, o 1 h 30-2 h a pie cuesta arriba. Dentro del sitio se circula solo por el circuito asignado.",
     periodoMigliore:
       "mayo-septiembre por los cielos despejados, pero es también el periodo en el que todo se agota antes. Abril y octubre son un buen compromiso entre clima y afluencia",
-    costi:
-      "Entrada para extranjeros adultos (2026): 152 soles en los circuitos sin montaña, 200 soles en las rutas con Huayna Picchu, la Montaña Machu Picchu o la Gran Caverna. Desde el 1 de mayo de 2026 se anunció una subida de 11 soles para extranjeros adultos: comprueba la cifra final al comprar. Hay tres circuitos y diez rutas, con aforo diario (4.500 entradas al día, 5.600 en temporada alta). El único vendedor oficial es el portal del Ministerio de Cultura, tuboleto.cultura.pe: todo lo demás son revendedores con recargo.",
+    costi: "Para el día de la visita, sin el tren: presupuesto bajo unos 100-130 € por persona (albergue en Aguas Calientes, entrada, bus lanzadera, menú del día en el mercado); medio 200-300 € (hotel de gama media, tren Expedition o Voyager, guía); alto desde 700 € (tren Vistadome o Hiram Bingham y hotel de lujo). Entrada para extranjeros adultos (2026): 152 soles para los circuitos sin montaña, 200 soles para las rutas con Huayna Picchu, la Montaña Machu Picchu o la Gran Caverna. Desde el 1 de mayo de 2026 se anunció una subida de 11 soles para los extranjeros adultos: comprueba la cifra final al comprar. Hay tres circuitos y diez rutas, con aforo limitado (4.500 entradas al día, 5.600 en temporada alta). El único vendedor oficial es el portal del Ministerio de Cultura, tuboleto.cultura.pe: todo lo demás son revendedores con recargo.",
     erroriDaEvitare: [
       "Reservar tarde: para el Huayna Picchu hacen falta 2-3 meses de antelación en cualquier temporada, 3-4 en los meses punta, y las plazas se agotan rápido",
       "Comprar las entradas a revendedores no oficiales a precios inflados en lugar de en tuboleto.cultura.pe",
@@ -649,6 +648,9 @@ export const destinazioniPeru: Destinazione[] = [
         "quando": "El primer turno es el más tranquilo y compensa el madrugón. La temporada seca es también la que agota antes las entradas.",
         "tempo": "3-4 horas",
         "costo": "152 soles para extranjeros adultos en los circuitos sin montaña (2026). Comprueba la tarifa actual en el portal oficial, el único donde comprar",
+        "orari": "Todos los días, entradas con hora cada hora de 6:00 a 15:00. Se puede entrar hasta 30 minutos después de la hora del boleto, 45 del 1 de junio al 15 de octubre y el 30-31 de diciembre",
+        "lat": -13.16333,
+        "lng": -72.54556,
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Duerme en Aguas Calientes para entrar en el primer turno. Lleva agua y un tentempié para comer antes de entrar."
       },
@@ -658,7 +660,10 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Entrada aparte con horarios fijos y plazas muy limitadas. La subida parte desde dentro del sitio: tómatela con calma, es empinada.",
         "quando": "Horarios de mañana. Reserva con mucha antelación, sobre todo en temporada alta.",
         "tempo": "2-3 horas",
-        "costo": "Aparte de la entrada solo a la ciudadela: tarifa en el portal oficial",
+        "costo": "200 soles para extranjeros adultos, unos 50 €, ciudadela incluida (Circuito 3, ruta 3-A, 2026)",
+        "orari": "En el control de la montaña se entra a la hora impresa en el boleto, sin tolerancia",
+        "lat": -13.1575,
+        "lng": -72.54722,
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Rick lo hizo: es precioso, pero quien sufra de vértigo debe pensarlo bien."
       },
@@ -668,17 +673,23 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Entrada aparte de cupo limitado, mismas reglas de reserva que Huayna Picchu. La subida parte desde el sitio.",
         "quando": "Franjas horarias por la mañana; reserva con mucha antelación.",
         "tempo": "3-4 horas de subida y bajada",
-        "costo": "Aparte de la entrada solo a la ciudadela: tarifa en el portal oficial",
+        "costo": "200 soles para extranjeros adultos, unos 50 €, ciudadela incluida (Circuito 1, ruta 1-A, 2026)",
+        "orari": "En el control de la montaña se entra a la hora impresa en el boleto, sin tolerancia",
+        "lat": -13.17448,
+        "lng": -72.54197,
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Si el Huayna Picchu está agotado o temes los tramos expuestos, esta es la alternativa."
       },
       {
         "nome": "Intipunku, la Puerta del Sol",
         "testo": "El paso desde el que quien hace el Camino Inca ve por primera vez la ciudadela al amanecer. También se puede alcanzar con una caminata desde el sitio.",
-        "come": "Caminata cuesta arriba desde dentro del sitio, por el sendero original.",
+        "come": "Con la ruta 1-C del Circuito 1 (Portada Intipunku), a la venta solo en temporada alta: una caminata en subida desde la ciudadela por el sendero original.",
         "quando": "Amanecer para quien llega por el Camino Inca; para los demás, la mañana.",
         "tempo": "1,5-2 horas ida y vuelta",
-        "consiglio": "Ofrece una vista distinta y casi vacía. Pregunta en la entrada si tu circuito incluye el tramo."
+        "lat": -13.16976,
+        "lng": -72.53395,
+        "url": "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/",
+        "consiglio": "Da una vista distinta y casi vacía. Hay que elegirla al comprar: con las otras rutas no se llega."
       },
       {
         "nome": "Aguas Calientes (Machu Picchu Pueblo)",
@@ -686,6 +697,8 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Solo en tren o a pie (ver la comparación de arriba). De aquí sale el bus lanzadera Consettur hacia el sitio.",
         "quando": "Se duerme una noche para entrar en el primer turno.",
         "tempo": "Una noche",
+        "lat": -13.15472,
+        "lng": -72.52528,
         "consiglio": "Baja hacia el mercado para comer por una fracción de los precios de la calle principal."
       },
       {
@@ -695,6 +708,34 @@ export const destinazioniPeru: Destinazione[] = [
         "quando": "El Camino Inca cierra en febrero. La temporada seca es la más solicitada.",
         "tempo": "De 1 día (tren) a 4-5 días (trek)",
         "consiglio": "Con fechas fijas: tren desde Ollantaytambo y noche en Aguas Calientes. Con 4-5 días, el Salkantay."
+      },
+      {
+        "nome": "Puente Inca",
+        "testo": "Un sendero excavado en la pared oeste de la montaña, con un tramo en el que los incas dejaron un vacío cubierto con troncos: si se quitaban, el paso quedaba cerrado. Hoy se ve desde un mirador, sin cruzarlo.",
+        "come": "Con la ruta 1-D del Circuito 1, a la venta solo en temporada alta. El sendero es llano y sale de la parte alta de la ciudadela.",
+        "quando": "Mañana, en temporada alta.",
+        "tempo": "1 hora ida y vuelta",
+        "url": "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/"
+      },
+      {
+        "nome": "Gran Caverna y Templo de la Luna",
+        "testo": "Una cueva en la ladera norte del Huayna Picchu, con muros y hornacinas de piedra labrada, llamada Templo de la Luna. El sendero baja mucho antes de volver a subir y los grupos son pocos.",
+        "come": "Con la ruta 3-C del Circuito 3, a la venta solo en temporada alta. Sale del mismo control que el Huayna Picchu.",
+        "quando": "Mañana, en los primeros horarios.",
+        "tempo": "3-4 horas",
+        "costo": "200 soles para extranjeros adultos, unos 50 €, ciudadela incluida (2026)",
+        "orari": "En el control se entra a la hora impresa en el boleto, sin tolerancia",
+        "url": "https://tuboleto.cultura.pe/",
+        "consiglio": "Agua y calzado de trekking: se bajan y se suben cientos de escalones."
+      },
+      {
+        "nome": "Huchuy Picchu",
+        "testo": "La «montaña pequeña» entre la ciudadela y el Huayna Picchu, con una subida corta y una vista de cerca de la plaza principal y las terrazas. Es la opción para quien quiere una cima sin los tramos expuestos del Huayna Picchu.",
+        "come": "Con la ruta 3-D del Circuito 3, a la venta solo en temporada alta.",
+        "quando": "Mañana.",
+        "tempo": "1 hora ida y vuelta",
+        "orari": "En el control se entra a la hora impresa en el boleto, sin tolerancia",
+        "url": "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/"
       }
     ],
     programmi: [
@@ -726,17 +767,20 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Aguas Calientes",
         "perChi": "Quien quiere el primer turno",
-        "testo": "La única base que no depende del primer tren. Precios altos para lo que ofrece, ruido de las vías y de los locales."
+        "testo": "La única base que no depende del primer tren. Precios altos para lo que ofrece, ruido de las vías y de los locales.",
+        "fascia": "40-150 €"
       },
       {
         "nome": "Ollantaytambo",
         "perChi": "Quien toma el tren y quiere dormir en un pueblo de verdad",
-        "testo": "Más tranquila y con callejones incas. El tren sale temprano, así que el despertador suena antes del amanecer."
+        "testo": "Más tranquila y con callejones incas. El tren sale temprano, así que el despertador suena antes del amanecer.",
+        "fascia": "35-170 €"
       },
       {
         "nome": "Valle Sagrado (Urubamba)",
         "perChi": "Quien visita en el día y no quiere dormir a mucha altura",
-        "testo": "Más bajo y cómodo, pero obliga a un día muy largo hasta el sitio."
+        "testo": "Más bajo y cómodo, pero obliga a un día muy largo hasta el sitio.",
+        "fascia": "45-250 €"
       }
     ],
     sapori: [
@@ -763,6 +807,46 @@ export const destinazioniPeru: Destinazione[] = [
       "El sitio tiene cupos diarios y franjas horarias: sin reserva no se entra.",
       "No subas a Machu Picchu al día siguiente de llegar a Cusco: hace falta aclimatación.",
       "Buses largos y carreteras hacia Hidroeléctrica: sinuosas y con derrumbes en la estación de lluvias."
+    ],
+    gite: [
+      {
+        "nome": "Ollantaytambo",
+        "distanza": "1 h 30 en tren",
+        "come": "Tren PeruRail o IncaRail desde Aguas Calientes, reservado junto con el de ida.",
+        "testo": "El pueblo inca donde sale el tren, con la fortaleza en terrazas sobre la plaza y las callejuelas con canales de agua todavía en uso. Por la noche, cuando se han ido los buses de los tours, es el lugar más tranquilo del valle para dormir."
+      },
+      {
+        "nome": "El Valle Sagrado",
+        "distanza": "unas 1 h 30 en tren hasta Ollantaytambo, luego por carretera",
+        "come": "Tren hasta Ollantaytambo y después coche con conductor o colectivo hacia Urubamba, Maras y Moray.",
+        "testo": "Las salinas de Maras, con miles de pozas excavadas en la montaña, y las terrazas circulares de Moray: se combinan a la vuelta de Machu Picchu hacia Cusco."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para Machu Picchu?",
+        "risposta": "Dos días con una noche en Aguas Calientes: se llega en tren por la tarde y se entra en el primer turno a la mañana siguiente. En el día desde Ollantaytambo se puede, pero con tiempos ajustados y sin las horas más tranquilas."
+      },
+      {
+        "domanda": "¿Dónde se compran las entradas y con cuánta antelación?",
+        "risposta": "Solo en tuboleto.cultura.pe, el portal del Ministerio de Cultura. Para el Huayna Picchu y la Montaña hacen falta 2-3 meses, 3-4 en los meses de más demanda. En Aguas Calientes se venden además 1.000 boletos al día de forma presencial, válidos para el día siguiente."
+      },
+      {
+        "domanda": "¿Qué circuito elegir?",
+        "risposta": "Desde junio de 2024 hay tres circuitos con diez rutas: el Circuito 1 es panorámico (desde arriba, con la Montaña, Intipunku o el Puente Inca), el 2 es el clásico que pasa por la ciudadela y el 3 «Realeza» incluye el Huayna Picchu. El recorrido es de sentido único: no se puede volver atrás."
+      },
+      {
+        "domanda": "¿Huayna Picchu o Montaña Machu Picchu?",
+        "risposta": "El Huayna Picchu es más corto pero empinado y expuesto, con la ciudadela vista de cerca; la Montaña es más larga y alta, con menos vacío bajo los pies y una vista más amplia. Quien sufre de vértigo elige la Montaña o el Huchuy Picchu."
+      },
+      {
+        "domanda": "¿Qué pasa si llego tarde?",
+        "risposta": "En la entrada principal hay una tolerancia de 30 minutos, 45 del 1 de junio al 15 de octubre y el 30-31 de diciembre. En los controles de las montañas no hay tolerancia: se entra a la hora indicada."
+      },
+      {
+        "domanda": "¿Se puede subir a pie desde Aguas Calientes?",
+        "risposta": "Sí, en 1 h 30-2 h por una escalinata empinada en el bosque. Muchos suben con el primer bus y bajan a pie."
+      }
     ],
     esperienzeSlugs: ['huayna-picchu', 'cammino-inca'],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
@@ -1340,10 +1424,10 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire: "Miraflores por comodidad y seguridad, Barranco por el ambiente; ambos lejos del casco histórico pero bien conectados.",
     doveMangiare:
       "Lima es el motivo gastronómico del viaje: ceviche a mediodía en una cevichería de barrio (por la noche se considera fuera de horario y el pescado ya no es el de la mañana), luego tiradito, causa, lomo saltado y anticuchos de los carritos por la noche. La alta cocina por la que la ciudad es famosa hay que reservarla con semanas de antelación.",
-    comeArrivare: "Aeropuerto Jorge Chávez, el único aeropuerto intercontinental del país. Del aeropuerto al centro, taxis autorizados o apps: nunca los taxistas piratas a la salida.",
+    comeArrivare: "Todos los vuelos intercontinentales llegan al aeropuerto Jorge Chávez (LIM), con la nueva terminal abierta en 2025. Miraflores y Barranco están a 45-90 minutos según el tráfico. El bus oficial Airport Express Lima lleva a Miraflores por unos 20-30 soles, con salidas cada hora aproximadamente de 7:00 a 21:00; el taxi oficial de los mostradores dentro de la terminal cuesta unos 60-90 soles, Uber y Cabify unos 55-105 soles desde la zona de recogida que indica la app. Nunca los taxistas que se ofrecen a la salida.",
     comeSpostarsi: "Taxi mediante app, Metropolitano para los ejes principales; el tráfico es pesado, los tiempos hay que alargarlos siempre.",
     periodoMigliore: "diciembre-abril por el sol; de junio a noviembre la garúa, una bruma húmeda constante, cubre la ciudad",
-    costi: "en la media; la alta cocina tiene precios internacionales, el resto no",
+    costi: "Presupuesto bajo unos 35-50 € al día por persona (albergue u hotel sencillo en Miraflores, menú del día y cevichería de barrio, Metropolitano); medio 90-140 € (hotel en Miraflores o Barranco, restaurantes, taxis por app, un museo); alto desde 250 € (hotel de lujo y una cena en un restaurante de las listas mundiales). Museo Larco 50 soles, Huaca Pucllana unos 15 soles.",
     erroriDaEvitare: [
       "Coger taxis no autorizados a la salida del aeropuerto: es uno de los puntos donde los robos a turistas son más frecuentes",
       "Saltársela del todo: muchos pasan solo en tránsito, pero en dos días aquí se ve un Perú que en los Andes no existe",
@@ -1357,6 +1441,8 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "En taxi o Metropolitano desde Miraflores; luego a pie.",
         "quando": "De día, entre semana. De noche es mejor evitarlo.",
         "tempo": "Medio día",
+        "lat": -12.04583,
+        "lng": -77.03056,
         "consiglio": "El centro hay que recorrerlo con atención, sobre todo fuera de las calles principales."
       },
       {
@@ -1365,6 +1451,9 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "A pie desde cualquier hotel de Miraflores.",
         "quando": "Atardecer y noche, con las luces.",
         "tempo": "1-2 horas",
+        "costo": "Gratis",
+        "lat": -12.1268,
+        "lng": -77.03657,
         "consiglio": "Es de las zonas más tranquilas de la ciudad, pero también aquí los avisos oficiales señalan robos: el teléfono en el bolsillo."
       },
       {
@@ -1373,6 +1462,10 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "A pie desde Miraflores; visita guiada.",
         "quando": "De día; horarios en el sitio oficial del museo.",
         "tempo": "1 hora",
+        "costo": "unos 15 soles, unos 4 €, con visita guiada (del viaje)",
+        "orari": "Cerrada los martes",
+        "lat": -12.11111,
+        "lng": -77.03389,
         "consiglio": "Se visita con guía: da el contexto de una Lima mucho más antigua que los incas."
       },
       {
@@ -1381,33 +1474,137 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "En taxi o app desde Miraflores.",
         "quando": "Última hora de la tarde y noche.",
         "tempo": "2-3 horas",
+        "lat": -12.14914,
+        "lng": -77.02262,
         "consiglio": "Rick cerró aquí el día: aperitivo en el puente al atardecer."
       },
       {
         "nome": "Museo Larco",
         "testo": "Una gran colección de arte precolombino, en una casa virreinal con jardines.",
         "come": "En taxi o app, en Pueblo Libre.",
-        "quando": "Mañana, para evitar grupos. Consulta horarios y días en el sitio.",
+        "quando": "Por la mañana, para evitar los grupos; con un vuelo nocturno se visita bien antes del aeropuerto.",
         "tempo": "2 horas",
+        "costo": "50 soles, unos 12,5 €; descuento online (2026)",
+        "orari": "Todos los días, festivos incluidos, 9:00-19:00; el 24, 25 y 31 de diciembre y el 1 de enero 9:00-18:00",
+        "lat": -12.0725,
+        "lng": -77.07086,
         "url": "https://www.museolarco.org/",
         "consiglio": "Añádelo si tienes medio día libre, sobre todo por los textiles y la galería erótica."
+      },
+      {
+        "nome": "Catedral de Lima",
+        "testo": "La catedral de la Plaza Mayor, reconstruida varias veces tras los terremotos, con la capilla donde descansa Francisco Pizarro, el fundador de la ciudad. Al lado está el Palacio Arzobispal con sus balcones de madera.",
+        "come": "En la Plaza Mayor, en la misma salida del centro histórico.",
+        "quando": "Por la mañana, entre semana.",
+        "tempo": "45 minutos",
+        "lat": -12.04694,
+        "lng": -77.02972
+      },
+      {
+        "nome": "Basílica y convento de Santo Domingo",
+        "testo": "Uno de los conventos más antiguos de la ciudad, a dos pasos de la Plaza Mayor, con claustros cubiertos de azulejos sevillanos y las reliquias de Santa Rosa de Lima y San Martín de Porres.",
+        "come": "A pie desde la Plaza Mayor, hacia el río.",
+        "quando": "Por la mañana.",
+        "tempo": "45 minutos",
+        "lat": -12.04409,
+        "lng": -77.03193
+      },
+      {
+        "nome": "Mercado Central y Barrio Chino",
+        "testo": "El mercado cubierto del centro, con fruta, pescado y puestos de comida, y justo detrás el barrio chino, una de las comunidades más antiguas de Sudamérica. De aquí nace el chifa, la cocina chino-peruana.",
+        "come": "A pie desde la Plaza Mayor, 10 minutos hacia el este.",
+        "quando": "Mañana y hora de comer, entre semana.",
+        "tempo": "1-2 horas",
+        "lat": -12.05006,
+        "lng": -77.02599,
+        "consiglio": "Mochila delante y nada de móvil a la vista: es una de las zonas más concurridas del centro."
+      },
+      {
+        "nome": "Museo de Arte de Lima (MALI)",
+        "testo": "El museo de arte de la ciudad, en el Palacio de la Exposición del siglo XIX, en el Parque de la Exposición. La colección va de los tejidos y cerámicas precolombinos a la pintura colonial y el arte peruano del siglo XX.",
+        "come": "En taxi o app; unos 15 minutos desde el centro histórico, o Metropolitano hasta la Estación Central.",
+        "quando": "Por la tarde, después del centro histórico.",
+        "tempo": "2 horas",
+        "orari": "De martes a domingo 10:00-18:00, los sábados hasta las 17:00; cerrado los lunes",
+        "lat": -12.06045,
+        "lng": -77.03697,
+        "url": "https://mali.pe/"
+      },
+      {
+        "nome": "Circuito Mágico del Agua",
+        "testo": "Las fuentes del Parque de la Reserva, un parque de los años veinte: trece fuentes, algunas para atravesar, y por la noche un espectáculo de luces y proyecciones sobre el agua. Es la noche más fácil para ir en familia.",
+        "come": "En taxi o app; el parque está entre el centro y Miraflores, junto a la Vía Expresa.",
+        "quando": "Después del atardecer, por el espectáculo de luces.",
+        "tempo": "1-2 horas",
+        "lat": -12.07083,
+        "lng": -77.03333
+      },
+      {
+        "nome": "Parque Kennedy",
+        "testo": "El parque en el centro de Miraflores, famoso por los gatos que viven entre los parterres. Alrededor están la iglesia de la Virgen Milagrosa, cafés, restaurantes y, por la noche, pintores y puestos de artesanía.",
+        "come": "A pie desde cualquier hotel de Miraflores; a 10 minutos del Malecón por la avenida Larco.",
+        "quando": "Por la noche.",
+        "tempo": "30 minutos-1 hora",
+        "costo": "Gratis",
+        "lat": -12.12061,
+        "lng": -77.02964
+      },
+      {
+        "nome": "Museo Nacional de Arqueología, Antropología e Historia",
+        "testo": "El museo más antiguo del Perú, en Pueblo Libre, con una sala para cada cultura prehispánica, de las estelas de Chavín a los tejidos de Paracas, y la casa donde vivieron San Martín y Bolívar.",
+        "come": "En taxi o app a Pueblo Libre; desde el Museo Larco se llega a pie en unos 20 minutos siguiendo la línea azul pintada en la acera.",
+        "quando": "Por la mañana, en la misma salida que el Larco.",
+        "tempo": "1-2 horas",
+        "lat": -12.07722,
+        "lng": -77.06194
+      },
+      {
+        "nome": "Islas Palomino",
+        "testo": "Un grupo de islotes frente al Callao donde vive una gran colonia de lobos marinos. Las lanchas se detienen cerca de las rocas y, con el mar en calma, se puede nadar con los lobos marinos con traje de neopreno y chaleco.",
+        "come": "Excursión en lancha desde el puerto del Callao, con agencia; traslado desde Miraflores en unos 45 minutos.",
+        "quando": "Por la mañana, cuando el mar está más tranquilo; en verano (diciembre-marzo) el agua está menos fría.",
+        "tempo": "medio día",
+        "lat": -12.12944,
+        "lng": -77.23333,
+        "consiglio": "Quien se marea conviene que tome algo antes de salir: el mar abierto se nota."
+      },
+      {
+        "nome": "Pachacamac",
+        "testo": "El gran santuario prehispánico del valle de Lurín, al sur de la ciudad, sede de un oráculo venerado durante siglos antes y durante la época inca. Entre las dunas hay pirámides de adobe, el Templo del Sol y un museo moderno.",
+        "come": "En el km 31,5 de la antigua Panamericana Sur, en Lurín: coche, taxi por app o tour de medio día.",
+        "quando": "Por la mañana, antes del sol fuerte.",
+        "tempo": "2-3 horas más el viaje, medio día",
+        "lat": -12.25667,
+        "lng": -76.90028,
+        "url": "https://pachacamac.cultura.pe/"
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: centro histórico",
-          "Almuerzo: ceviche en una cevichería de barrio",
-          "Tarde: Miraflores y Malecón",
-          "Atardecer: Barranco"
+          "Mañana: centro histórico, Plaza Mayor, catedral y convento de San Francisco",
+          "Comida: ceviche en una cevichería de barrio",
+          "Tarde: Miraflores, el Malecón y Huaca Pucllana",
+          "Atardecer: Barranco y el Puente de los Suspiros"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: el programa de 1 día",
-          "Día 2: Museo Larco y Huaca Pucllana, cena en un restaurante reservado con antelación"
+          "Día 1: el plan de 1 día",
+          "Día 2: Museo Larco y Museo Nacional de Arqueología en Pueblo Libre",
+          "Tarde: Mercado Central y Barrio Chino, comida chifa",
+          "Noche: Circuito Mágico del Agua o cena en un restaurante reservado con antelación"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: Pachacamac por la mañana o las Islas Palomino en lancha",
+          "Tarde: MALI",
+          "Noche: Parque Kennedy y cena en Miraflores"
         ]
       }
     ],
@@ -1415,17 +1612,20 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Miraflores",
         "perChi": "Quien busca comodidad y seguridad",
-        "testo": "La zona más cómoda y segura, cerca del Malecón. Más cara."
+        "testo": "La zona más cómoda y segura, cerca del Malecón. Más cara.",
+        "fascia": "60-220 €"
       },
       {
         "nome": "Barranco",
         "perChi": "Quien busca ambiente y vida nocturna",
-        "testo": "Bohemio, con locales y murales. Más ruidoso de noche."
+        "testo": "Bohemio, con locales y murales. Más ruidoso de noche.",
+        "fascia": "50-180 €"
       },
       {
         "nome": "Centro histórico",
         "perChi": "Quien quiere ahorrar",
-        "testo": "Alojamientos baratos, pero la zona se vacía de noche y es menos segura."
+        "testo": "Alojamientos baratos, pero la zona se vacía de noche y es menos segura.",
+        "fascia": "30-80 €"
       }
     ],
     sapori: [
@@ -1455,6 +1655,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Robos incluso en zonas turísticas como Miraflores y Barranco: nada de valor a la vista, el teléfono lejos del borde de la calle, cajeros solo dentro de bancos o edificios.",
       "El tráfico es pesado: añade siempre tiempo.",
       "Reserva con antelación los restaurantes de alta cocina."
+    ],
+    gite: [
+      {
+        "nome": "Pachacamac",
+        "distanza": "unos 31 km, 1 hora",
+        "come": "Coche o taxi por app por la antigua Panamericana Sur, o tour de medio día.",
+        "testo": "El santuario del oráculo más importante de la costa, con pirámides de adobe entre las dunas y un museo moderno: la excursión arqueológica más cómoda desde Lima."
+      },
+      {
+        "nome": "Paracas y las Islas Ballestas",
+        "distanza": "unos 250 km, 3,5-4 horas en bus",
+        "come": "Bus de las compañías principales hasta Paracas, luego lancha a las Ballestas por la mañana. Mejor con una noche.",
+        "testo": "Las «Galápagos de los pobres»: islas de roca con lobos marinos, pingüinos de Humboldt y miles de aves marinas, y la reserva en el desierto junto al océano."
+      },
+      {
+        "nome": "Caral",
+        "distanza": "unos 180 km al norte, 3-4 horas",
+        "come": "Tour organizado o coche con conductor; día completo.",
+        "testo": "La ciudad sagrada de Caral, Patrimonio de la UNESCO, con pirámides y plazas circulares de casi cinco mil años: el centro urbano más antiguo de América."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Lima?",
+        "risposta": "Dos días bastan para el centro histórico, Miraflores, Barranco y un museo; con un tercero se añade Pachacamac o las Islas Palomino."
+      },
+      {
+        "domanda": "¿Mejor dormir en Miraflores o en Barranco?",
+        "risposta": "Miraflores es más cómodo y tranquilo, cerca del Malecón y de los buses del aeropuerto; Barranco tiene más ambiente y bares, pero es más ruidoso por la noche. El centro histórico es más barato, pero de noche se vacía."
+      },
+      {
+        "domanda": "¿Es segura Lima?",
+        "risposta": "Hay que moverse con atención: los robos y hurtos de móviles ocurren también en Miraflores y Barranco. Solo taxis por app u oficiales, móvil en el bolsillo, cajeros dentro de bancos o centros comerciales."
+      },
+      {
+        "domanda": "¿Cuándo se come el ceviche?",
+        "risposta": "A mediodía, como los limeños: las cevicherías trabajan con el pescado de la mañana y muchas cierran por la tarde."
+      },
+      {
+        "domanda": "¿Cómo se llega del aeropuerto a Miraflores?",
+        "risposta": "Con el bus Airport Express Lima (unos 20-30 soles), con el taxi oficial de los mostradores de la terminal (60-90 soles) o con Uber y Cabify. El trayecto dura 45-90 minutos según el tráfico."
+      },
+      {
+        "domanda": "¿Cuándo hace sol en Lima?",
+        "risposta": "De diciembre a abril. De junio a noviembre la garúa, una neblina gris y húmeda, cubre la ciudad casi todos los días, sin lluvia de verdad."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],

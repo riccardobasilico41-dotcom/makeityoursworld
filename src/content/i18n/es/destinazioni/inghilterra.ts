@@ -373,7 +373,9 @@ export const destinazioniInghilterra: Destinazione[] = [
     ],
     cosaFare: ['Una vuelta por los pueblos en coche', 'Una caminata entre Lower y Upper Slaughter', 'Una comida en un pub de campo'],
     comeArrivare:
-      'En tren desde Londres Paddington por la línea que pasa por Oxford, Charlbury y Kingham hasta Moreton-in-Marsh, en hora y media aproximadamente hasta Moreton (tiempo orientativo). O en coche, recogiéndolo en Oxford.',
+      'En tren desde Londres Paddington por la línea de Oxford, Charlbury y Kingham hasta Moreton-in-Marsh, en una hora y media aproximadamente (tiempo orientativo); horarios y precios en nationalrail.co.uk, más baratos comprando con antelación. Desde Heathrow se llega a Paddington con la Elizabeth line, en unos 30-40 minutos, o con el Heathrow Express, en 15-20 minutos. Quien vaya en coche conviene que lo recoja en Oxford, a una hora de tren de Londres: desde allí Stow-on-the-Wold está a unos 45 minutos.',
+    costi:
+      'Los pueblos y los senderos son gratuitos; se pagan los aparcamientos y las casas históricas, como Blenheim Palace (41 libras online, unos 47 €, 2026). Dormir es caro: los pubs con habitaciones y los B&B empiezan en unos 100-120 € la doble. Presupuesto orientativo al día por persona, con la doble compartida y el coche de alquiler aparte: bajo 90-120 €, medio 160-230 €, alto más de 350 €.',
     comeSpostarsi:
       'En coche todo es más sencillo: los pueblos están cerca, pero hay pocos autobuses. Las carreteras de campo son estrechas, con setos altos, y se conduce por la izquierda.',
     periodoMigliore: 'de mayo a septiembre; en primavera y en otoño hay menos grupos',
@@ -384,61 +386,243 @@ export const destinazioniInghilterra: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        nome: 'Bibury y Arlington Row',
-        testo: 'Una hilera de cottages de piedra nacidos en 1380 como almacén de lana de un monasterio y convertidos a finales del siglo XVII en casas de tejedores. Es una de las imágenes más conocidas de los Cotswolds.',
-        come: 'En coche, con aparcamiento limitado en el pueblo.',
-        quando: 'Temprano por la mañana o al final de la tarde.',
-        tempo: '1 hora',
+        "nome": "Bibury y Arlington Row",
+        "testo": "Una hilera de cottages de piedra nacidos en 1380 como almacén de lana de un monasterio y convertidos a finales del siglo XVII en casas de tejedores. Es una de las imágenes más conocidas de los Cotswolds.",
+        "come": "En coche, con aparcamiento limitado en el pueblo.",
+        "quando": "Temprano por la mañana o al final de la tarde.",
+        "tempo": "1 hora",
+        "costo": "Gratis; aparcamiento de pago en el pueblo, con pocas plazas",
+        "orari": "Siempre accesible; las casas están habitadas",
+        "lat": 51.7584,
+        "lng": -1.8348
       },
       {
-        nome: 'Bourton-on-the-Water',
-        testo: 'El pueblo con el río Windrush bajo y ancho, cruzado por pequeños puentes de piedra. Es el más concurrido de la zona.',
-        come: 'En coche, con aparcamientos de pago en los bordes del centro.',
-        quando: 'A primera hora de la mañana o en un día laborable.',
-        tempo: '1-2 horas',
+        "nome": "Bourton-on-the-Water",
+        "testo": "El pueblo con el río Windrush bajo y ancho, cruzado por pequeños puentes de piedra. Es el más concurrido de la zona.",
+        "come": "En coche, con aparcamientos de pago en los bordes del centro.",
+        "quando": "A primera hora de la mañana o en un día laborable.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis; aparcamientos de pago en las afueras del centro",
+        "orari": "Siempre accesible",
+        "lat": 51.886,
+        "lng": -1.759
       },
       {
-        nome: 'Lower Slaughter y Upper Slaughter',
-        testo: 'Dos pueblos diminutos a lo largo de un arroyo, unidos por un sendero entre prados. Son lo contrario de Bourton: silenciosos.',
-        come: 'A pie de un pueblo al otro, ida y vuelta.',
-        quando: 'Por la mañana o a última hora de la tarde.',
-        tempo: '1-2 horas con la caminata',
+        "nome": "Lower Slaughter y Upper Slaughter",
+        "testo": "Dos pueblos diminutos a lo largo de un arroyo, unidos por un sendero entre prados. Son lo contrario de Bourton: silenciosos.",
+        "come": "A pie de un pueblo al otro, ida y vuelta.",
+        "quando": "Por la mañana o a última hora de la tarde.",
+        "tempo": "1-2 horas con la caminata",
+        "costo": "Gratis",
+        "orari": "Siempre accesible",
+        "lat": 51.906,
+        "lng": -1.777,
+        "consiglio": "En Lower Slaughter casi no hay sitio para aparcar: conviene dejar el coche en Upper Slaughter o en Bourton y caminar. El sendero cruza campos con ovejas, y las cancelas hay que cerrarlas al pasar."
       },
       {
-        nome: 'Stow-on-the-Wold',
-        testo: 'Un pueblo de mercado en lo alto de una colina, con la plaza, las tiendas de antigüedades y la iglesia de St Edward, con la puerta entre dos tejos que muchos relacionan con el mundo de Tolkien.',
-        come: 'En coche o a pie desde los Slaughter.',
-        tempo: '1-2 horas',
+        "nome": "Stow-on-the-Wold",
+        "testo": "Un pueblo de mercado en lo alto de una colina, con la plaza, las tiendas de antigüedades y la iglesia de St Edward, con la puerta entre dos tejos que muchos relacionan con el mundo de Tolkien.",
+        "come": "En coche o a pie desde los Slaughter.",
+        "tempo": "1-2 horas",
+        "quando": "A última hora de la tarde, al final de la ruta, o temprano por la mañana si se duerme aquí.",
+        "costo": "Gratis",
+        "lat": 51.93,
+        "lng": -1.7225
       },
       {
-        nome: 'Chipping Campden y Broadway',
-        testo: 'Los Cotswolds del norte. Chipping Campden tiene una calle principal de casas de piedra, con el antiguo mercado cubierto. Broadway es más grande, con la torre en lo alto de la colina.',
-        come: 'En coche, al norte de Stow.',
-        tempo: 'medio día',
+        "nome": "Chipping Campden y Broadway",
+        "testo": "Los Cotswolds del norte. Chipping Campden tiene una calle principal de casas de piedra, con el antiguo mercado cubierto. Broadway es más grande, con la torre en lo alto de la colina.",
+        "come": "En coche, al norte de Stow.",
+        "tempo": "medio día",
+        "quando": "Por la mañana, antes de los autocares.",
+        "costo": "Gratis",
+        "lat": 52.052,
+        "lng": -1.779
       },
       {
-        nome: 'Castle Combe',
-        testo: 'Un pueblo de Wiltshire, en el extremo sur de los Cotswolds, con las casas de piedra alrededor de la antigua cruz del mercado y el puente sobre el arroyo. Está de camino a Bath.',
-        come: 'En coche, dejándolo en el aparcamiento de encima del pueblo y bajando a pie.',
-        quando: 'Por la mañana.',
-        tempo: '1 hora',
+        "nome": "Castle Combe",
+        "testo": "Un pueblo de Wiltshire, en el extremo sur de los Cotswolds, con las casas de piedra alrededor de la antigua cruz del mercado y el puente sobre el arroyo. Está de camino a Bath.",
+        "come": "En coche, dejándolo en el aparcamiento de encima del pueblo y bajando a pie.",
+        "quando": "Por la mañana.",
+        "tempo": "1 hora",
+        "costo": "Gratis",
+        "orari": "Siempre accesible",
+        "lat": 51.493,
+        "lng": -2.229
       },
+      {
+        "nome": "Broadway Tower",
+        "testo": "Una torre del siglo XVIII en lo alto de la colina sobre Broadway, uno de los puntos más altos de los Cotswolds. Desde arriba la vista abarca varios condados.",
+        "come": "En coche desde Broadway en unos diez minutos, o a pie por el Cotswold Way, cuesta arriba desde el pueblo.",
+        "quando": "Con el cielo despejado o hacia el atardecer.",
+        "tempo": "1 hora",
+        "lat": 52.02417,
+        "lng": -1.83583,
+        "url": "https://www.broadwaytower.co.uk/"
+      },
+      {
+        "nome": "Blenheim Palace",
+        "testo": "El gran palacio barroco de los duques de Marlborough, patrimonio de la UNESCO, donde nació Winston Churchill. El parque diseñado por Capability Brown, con el lago y el puente, merece la visita por sí solo.",
+        "come": "En Woodstock, en el borde oriental de los Cotswolds, en la carretera entre Oxford y Burford. Entradas online, 3 libras más baratas que en taquilla.",
+        "quando": "Por la mañana, a la apertura. Del 13 de noviembre al 3 de enero hay programa de Navidad y no se venden entradas solo para el parque.",
+        "tempo": "media jornada",
+        "costo": "Palacio, parque y jardines 41 libras online y 44 en taquilla, unos 47-51 €; solo parque y jardines 31 libras online, unos 36 € (2026)",
+        "orari": "Parque abierto todos los días de 9 a 18; el palacio tiene horario propio y cierres de temporada, en la web oficial.",
+        "lat": 51.84136,
+        "lng": -1.36095,
+        "url": "https://www.blenheimpalace.com/"
+      },
+      {
+        "nome": "Hidcote Manor Garden",
+        "testo": "Uno de los jardines más conocidos de Inglaterra, creado a principios del siglo XX y dividido en «habitaciones» por setos y muros, cada una con su color. Es del National Trust.",
+        "come": "En coche, a pocos kilómetros al norte de Chipping Campden.",
+        "quando": "De mayo a septiembre, con las floraciones.",
+        "tempo": "2 horas",
+        "lat": 52.08456,
+        "lng": -1.74609,
+        "url": "https://www.nationaltrust.org.uk/"
+      },
+      {
+        "nome": "Sudeley Castle",
+        "testo": "Un castillo con jardines en Winchcombe, todavía habitado. En la capilla está enterrada Catalina Parr, la última esposa de Enrique VIII.",
+        "come": "En coche, en los Cotswolds occidentales, a media hora de Broadway.",
+        "quando": "Solo en la temporada de apertura: reabre en marzo de 2027.",
+        "tempo": "2-3 horas",
+        "costo": "Adultos 24 libras, unos 28 € (2026)",
+        "orari": "En temporada, castillo y jardines desde las 10, última entrada a las 15; el castillo cierra a las 16 y el recinto a las 17. Cerrado en invierno.",
+        "url": "https://sudeleycastle.co.uk/"
+      },
+      {
+        "nome": "Burford",
+        "testo": "Un pueblo junto al río Windrush, con la calle principal en bajada entre casas de piedra, tiendas y posadas. Llegando desde Oxford, es la puerta de los Cotswolds.",
+        "come": "En coche por la A40, entre Oxford y Cheltenham.",
+        "quando": "Por la mañana o a la hora de comer.",
+        "tempo": "1 hora",
+        "costo": "Gratis",
+        "lat": 51.808,
+        "lng": -1.637
+      },
+      {
+        "nome": "Cirencester y el Corinium Museum",
+        "testo": "Cirencester era Corinium, una de las ciudades más importantes de la Britania romana. El museo tiene mosaicos y objetos romanos hallados en la zona; la iglesia de la plaza del mercado es de las más grandes de los Cotswolds.",
+        "come": "En coche, en el sur de los Cotswolds, de camino entre Bibury y Castle Combe.",
+        "tempo": "2 horas",
+        "lat": 51.7138,
+        "lng": -1.9763,
+        "url": "https://coriniummuseum.org/"
+      }
     ],
     programmi: [
-      { titolo: '1 día', tappe: ['Bibury a primera hora de la mañana', 'Bourton-on-the-Water', 'Caminata entre Lower y Upper Slaughter', 'Stow-on-the-Wold'] },
-      { titolo: '2 días', tappe: ['Día 1: como arriba', 'Día 2: Chipping Campden y Broadway, o Castle Combe de camino a Bath'] },
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Bibury a primera hora de la mañana",
+          "Bourton-on-the-Water",
+          "Caminata entre Lower y Upper Slaughter",
+          "Stow-on-the-Wold"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba",
+          "Día 2: Chipping Campden y Broadway, o Castle Combe de camino a Bath"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Bibury a primera hora, Bourton-on-the-Water, el paseo entre Lower y Upper Slaughter, Stow-on-the-Wold",
+          "Día 2: Chipping Campden, Broadway y la Broadway Tower, Hidcote por la tarde",
+          "Día 3: Burford y Blenheim Palace, o Cirencester y Castle Combe de camino a Bath"
+        ]
+      }
     ],
     zone: [
-      { nome: 'Stow-on-the-Wold y alrededores', perChi: 'quien se mueve en coche', testo: 'En el centro de la zona, a pocos minutos de Bourton, de los Slaughter y de Moreton-in-Marsh.' },
-      { nome: 'Moreton-in-Marsh', perChi: 'quien llega en tren', testo: 'Tiene estación en la línea de Londres y algunos autobuses a los pueblos cercanos.' },
+      {
+        "nome": "Stow-on-the-Wold y alrededores",
+        "perChi": "quien se mueve en coche",
+        "testo": "En el centro de la zona, a pocos minutos de Bourton, de los Slaughter y de Moreton-in-Marsh.",
+        "fascia": "120-230 €"
+      },
+      {
+        "nome": "Moreton-in-Marsh",
+        "perChi": "quien llega en tren",
+        "testo": "Tiene estación en la línea de Londres y algunos autobuses a los pueblos cercanos.",
+        "fascia": "100-180 €"
+      },
+      {
+        "nome": "Chipping Campden y Broadway",
+        "perChi": "quien quiere los Cotswolds del norte",
+        "testo": "Pueblos más grandes, con posadas históricas y algún hotel de lujo. Cómodos para Hidcote y para una excursión a Stratford-upon-Avon.",
+        "fascia": "140-280 €"
+      },
+      {
+        "nome": "Burford y Bibury",
+        "perChi": "quien llega en coche desde Oxford",
+        "testo": "El lado sureste de la zona, más cerca de Oxford y de Blenheim. Por la noche, cuando se van los autocares, Bibury es silencioso.",
+        "fascia": "130-260 €"
+      }
     ],
     sapori: [
-      { nome: 'Cream tea', testo: 'Té con scones, nata y mermelada, en los salones de té de los pueblos.' },
-      { nome: 'Pub de pueblo', testo: 'Comida con platos de temporada y cervezas locales, a menudo en edificios de piedra de varios siglos.' },
+      {
+        "nome": "Cream tea",
+        "testo": "Té con scones, nata y mermelada, en los salones de té de los pueblos."
+      },
+      {
+        "nome": "Pub de pueblo",
+        "testo": "Comida con platos de temporada y cervezas locales, a menudo en edificios de piedra de varios siglos."
+      }
     ],
     attenzioni: [
-      'Carreteras de campo estrechas, con setos altos y poca visibilidad: se conduce por la izquierda y despacio.',
-      'En Arlington Row se fotografía desde la calle, sin entrar en los jardines.',
+      "Carreteras de campo estrechas, con setos altos y poca visibilidad: se conduce por la izquierda y despacio.",
+      "En Arlington Row se fotografía desde la calle, sin entrar en los jardines."
+    ],
+    gite: [
+      {
+        "nome": "Oxford",
+        "distanza": "45 minutos en coche desde Stow-on-the-Wold",
+        "come": "En coche, o en tren desde Moreton-in-Marsh o Kingham.",
+        "testo": "Los colleges, la Radcliffe Camera y la Bodleian en un día a pie. Es también el sitio más cómodo para recoger o devolver el coche."
+      },
+      {
+        "nome": "Stratford-upon-Avon",
+        "distanza": "unos 20 km desde Chipping Campden",
+        "come": "En coche, hacia el norte.",
+        "testo": "La ciudad natal de Shakespeare, con la casa donde nació, las casas de entramado de madera y el teatro de la Royal Shakespeare Company junto al río Avon."
+      },
+      {
+        "nome": "Bath",
+        "distanza": "media hora en coche desde Castle Combe",
+        "come": "En coche, hacia el sur; desde Bath Spa el tren vuelve a Londres Paddington en una hora y media aproximadamente.",
+        "testo": "Las termas romanas, la abadía y los crescents georgianos. Es el final natural de una ruta por los Cotswolds."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para los Cotswolds?",
+        "risposta": "Dos días para los pueblos principales, tres para añadir la Broadway Tower, Hidcote y Blenheim Palace sin prisas. Dos o tres pueblos al día, con un paseo, cunden más que una lista larga."
+      },
+      {
+        "domanda": "¿Se pueden visitar los Cotswolds sin coche?",
+        "risposta": "Sí, con limitaciones. El tren llega a Moreton-in-Marsh y hay pocos autobuses entre los pueblos: lo más práctico es dormir allí y hacer una excursión organizada por los pueblos."
+      },
+      {
+        "domanda": "¿Dónde conviene dormir en los Cotswolds?",
+        "risposta": "En Stow-on-the-Wold si se va en coche, porque está en el centro de la zona; en Moreton-in-Marsh si se llega en tren. Se duerme en pubs con habitaciones y B&B, que hay que reservar pronto."
+      },
+      {
+        "domanda": "¿Cuáles son los pueblos más bonitos de los Cotswolds?",
+        "risposta": "Los más famosos son Bibury, Bourton-on-the-Water y Castle Combe, también los más concurridos. Lower y Upper Slaughter y Chipping Campden son más tranquilos."
+      },
+      {
+        "domanda": "¿Cuándo ir a los Cotswolds?",
+        "risposta": "De mayo a septiembre; en primavera y otoño hay menos grupos. En cualquier época conviene llegar a Bibury y Bourton antes de las 9, antes que los autocares."
+      },
+      {
+        "domanda": "¿Hace falta el permiso internacional para conducir?",
+        "risposta": "No con un carné de la UE, que vale sin permiso internacional. Se conduce por la izquierda, por carreteras estrechas entre setos."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -480,9 +664,242 @@ export const destinazioniInghilterra: Destinazione[] = [
     percheAndarci: 'Por las termas romanas, los crescents georgianos y el final natural de un viaje por los Cotswolds, antes de volver a Londres en tren.',
     cosaVedere: ['Las Roman Baths', 'La Abadía de Bath', 'El Royal Crescent y el Circus', 'El Pulteney Bridge'],
     cosaFare: ['Visitar las termas romanas a primera hora de la mañana', 'Caminar del Circus al Royal Crescent', 'Un baño en las termas modernas de la ciudad'],
-    comeArrivare: 'En tren desde Londres Paddington, o en coche desde los Cotswolds pasando por Castle Combe.',
+    comeArrivare:
+      'En tren desde Londres Paddington hasta Bath Spa en una hora y media aproximadamente; horarios y precios en nationalrail.co.uk. Desde Heathrow se llega a Paddington con la Elizabeth line o el Heathrow Express y allí se cambia. El aeropuerto más cercano es Bristol, unido a Bath por el autobús A4 en una hora aproximadamente, según el tráfico. En coche desde los Cotswolds se baja pasando por Castle Combe, a media hora; en el centro se circula despacio y aparcar es caro, así que mejor devolver antes el coche.',
+    costi:
+      'Roman Baths desde 23,50 libras online (unos 27 €), Thermae Bath Spa desde 44 libras (unos 51 €), No. 1 Royal Crescent 16 libras (unos 18 €), precios de 2026. El centro se recorre a pie. Presupuesto orientativo al día por persona, con la doble compartida: bajo 90-120 €, medio 170-240 €, alto más de 350 €.',
     comeSpostarsi: 'A pie.',
     erroriDaEvitare: ['Llegar a las Roman Baths a mediodía sin entrada: conviene reservarla online en la web oficial'],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Roman Baths",
+        "testo": "Las termas romanas construidas alrededor del manantial caliente: el gran baño de agua verde, las salas subterráneas y los restos del templo de Sulis Minerva. El museo cuenta la ciudad romana a través de los objetos arrojados al manantial.",
+        "come": "Entrada con fecha y hora en la web oficial; la audioguía está incluida. El agua no se toca: el baño se hace en Thermae.",
+        "quando": "A la apertura o en la última hora, cuando hay menos grupos.",
+        "tempo": "2 horas",
+        "costo": "Desde 23,50 libras online entre semana en noviembre y diciembre de 2026 (26,50 el fin de semana), unos 27-31 €; en los meses punta hasta unas 33 libras. En taquilla 2 libras más.",
+        "orari": "Todos los días; en otoño e invierno de 9 a 18, última entrada a las 17. El 24 de diciembre última entrada a las 16:15; cerrado el 25 y 26 de diciembre.",
+        "lat": 51.3809,
+        "lng": -2.3595,
+        "url": "https://www.romanbaths.co.uk/",
+        "consiglio": "Quien las visita en noviembre o diciembre puede volver en enero o febrero con una entrada de 1 libra."
+      },
+      {
+        "nome": "Abadía de Bath",
+        "testo": "La gran iglesia gótica junto a las termas, con las escaleras de Jacob talladas en la fachada, ángeles que suben al cielo, y la bóveda de abanico en el interior. La entrada incluye el pequeño museo subterráneo.",
+        "come": "Entrada en la puerta; audioguía aparte.",
+        "quando": "Por la mañana entre semana; el domingo solo abre a primera hora de la tarde.",
+        "tempo": "45 minutos",
+        "costo": "Adultos 9 libras, unos 10 €; audioguía 3,50 libras (2026)",
+        "orari": "Lunes a viernes de 10 a 17:30, sábado de 10 a 18, domingo de 13 a 15:30. Última entrada media hora antes del cierre.",
+        "lat": 51.38139,
+        "lng": -2.35889,
+        "url": "https://www.bathabbey.org/"
+      },
+      {
+        "nome": "La torre de la abadía",
+        "testo": "Una visita guiada a la torre: 212 escalones, la sala de las campanas, el paso detrás de la esfera del reloj y, arriba, la vista sobre los tejados y las termas.",
+        "come": "Solo con la visita guiada, que se reserva en la web de la abadía. No es accesible para personas con movilidad reducida.",
+        "quando": "Con el cielo despejado.",
+        "tempo": "1 hora",
+        "orari": "De lunes a sábado, en varios turnos a lo largo del día, según disponibilidad.",
+        "lat": 51.38139,
+        "lng": -2.35889,
+        "url": "https://www.bathabbey.org/visiting/tours/"
+      },
+      {
+        "nome": "Royal Crescent y No. 1 Royal Crescent",
+        "testo": "Un semicírculo de treinta casas georgianas frente a un gran césped, el símbolo del Bath del siglo XVIII. En el número 1 hay un museo con los interiores amueblados como en la época, de las cocinas a los salones.",
+        "come": "A pie desde el Circus, por Brock Street.",
+        "quando": "El crescent con la luz de la tarde; el museo a cualquier hora.",
+        "tempo": "1 hora y media con el museo",
+        "costo": "El crescent es libre; No. 1 Royal Crescent 16 libras, unos 18 € (2026)",
+        "orari": "No. 1: martes a domingo de 10 a 17:30, última entrada 16:30; cerrado los lunes salvo vacaciones escolares y festivos. Cerrado del 16 al 28 de noviembre y el 25-26 de diciembre de 2026.",
+        "lat": 51.38694,
+        "lng": -2.36833,
+        "url": "https://no1royalcrescent.org.uk/"
+      },
+      {
+        "nome": "The Circus",
+        "testo": "Un círculo de casas georgianas dividido en tres partes, con árboles en el centro y fachadas decoradas con columnas y frisos. Está a pocos pasos del Royal Crescent.",
+        "come": "A pie desde el centro, subiendo por Gay Street.",
+        "tempo": "15 minutos",
+        "costo": "Gratis",
+        "lat": 51.386,
+        "lng": -2.364
+      },
+      {
+        "nome": "Pulteney Bridge",
+        "testo": "Un puente del siglo XVIII con tiendas construidas encima, como el Ponte Vecchio, y debajo la presa escalonada del Avon. Es una de las imágenes más conocidas de la ciudad.",
+        "come": "A pie; la mejor vista es desde la orilla o desde los Parade Gardens.",
+        "quando": "Al atardecer.",
+        "tempo": "20 minutos",
+        "costo": "Gratis",
+        "lat": 51.38306,
+        "lng": -2.35778
+      },
+      {
+        "nome": "Thermae Bath Spa",
+        "testo": "Las termas modernas de la ciudad, con el agua caliente natural de los mismos manantiales. La piscina de la azotea mira a la abadía y a las colinas.",
+        "come": "Se entra a partir de 16 años, con documento. La sesión básica dura 2 horas, con toalla y albornoz.",
+        "quando": "Por la noche, con la piscina de la azotea iluminada; de lunes a viernes es más barato.",
+        "tempo": "2 horas",
+        "costo": "Sesión de 2 horas 44 libras de lunes a viernes, 49 el fin de semana, unos 51-56 € (2026)",
+        "orari": "Todos los días de 9 a 21:30, piscinas hasta las 21. Cerrado el 25-26 de diciembre y el 1 de enero.",
+        "lat": 51.38037,
+        "lng": -2.36157,
+        "url": "https://www.thermaebathspa.com/"
+      },
+      {
+        "nome": "Jane Austen Centre",
+        "testo": "Una exposición sobre la escritora y el Bath de sus novelas, en una casa georgiana de Gay Street. En el piso de arriba está el salón de té de estilo Regencia.",
+        "come": "Entrada online.",
+        "tempo": "1 hora",
+        "costo": "18 libras online, unos 21 € (2026)",
+        "orari": "Desde noviembre: domingo a viernes de 10 a 16:30, sábado de 10 a 17:30. Del 1 de julio al 21 de septiembre todos los días de 9:45 a 18. Última entrada una hora antes.",
+        "lat": 51.38404,
+        "lng": -2.36316,
+        "url": "https://janeausten.co.uk/pages/jane-austen-centre-in-bath"
+      },
+      {
+        "nome": "Holburne Museum",
+        "testo": "Un museo de arte en una mansión georgiana al final de Great Pulteney Street, a la entrada de los Sydney Gardens. Retratos, porcelanas y platería, con exposiciones temporales.",
+        "come": "A pie desde el Pulteney Bridge, por Great Pulteney Street.",
+        "tempo": "1-2 horas",
+        "costo": "Entrada 16,50 libras, unos 19 € (2026); las colecciones son gratuitas los miércoles desde las 15",
+        "orari": "Todos los días de 10 a 17, domingos y festivos de 11 a 17; última entrada 16:30. Cerrado del 24 al 26 de diciembre y el 1 de enero.",
+        "lat": 51.38566,
+        "lng": -2.3511,
+        "url": "https://www.holburne.org/"
+      },
+      {
+        "nome": "Prior Park Landscape Garden",
+        "testo": "Un jardín paisajista del siglo XVIII en la colina al sur del centro, con el puente palladiano sobre el lago y la vista de la ciudad. Es del National Trust.",
+        "come": "Cuesta arriba desde el centro, a pie o en autobús.",
+        "quando": "Con buen tiempo; en invierno el césped está embarrado.",
+        "tempo": "1-2 horas",
+        "lat": 51.36721,
+        "lng": -2.34374,
+        "url": "https://www.nationaltrust.org.uk/"
+      },
+      {
+        "nome": "Assembly Rooms",
+        "testo": "Los salones de baile y de té del siglo XVIII donde la sociedad georgiana se reunía por la noche; aparecen en las novelas de Jane Austen. Son del National Trust.",
+        "come": "A pie, detrás del Circus.",
+        "tempo": "45 minutos",
+        "lat": 51.38611,
+        "lng": -2.36222
+      },
+      {
+        "nome": "Victoria Art Gallery",
+        "testo": "La galería de arte municipal, en un edificio victoriano junto al Pulteney Bridge, con pintura británica del siglo XVII a hoy.",
+        "come": "A pie, a la entrada del puente.",
+        "tempo": "1 hora",
+        "lat": 51.38265,
+        "lng": -2.3586,
+        "url": "https://www.victoriagal.org.uk/"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Roman Baths a la apertura",
+          "La abadía, y si se quiere la torre",
+          "Pulteney Bridge y comida",
+          "The Circus y el Royal Crescent, con el museo del número 1",
+          "Thermae Bath Spa por la noche"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba",
+          "Día 2: Great Pulteney Street y el Holburne Museum, Jane Austen Centre, Assembly Rooms, Prior Park por la tarde"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2: como arriba",
+          "Día 3: excursión a Castle Combe y Lacock, o a Stonehenge, o en tren a Bristol"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro, alrededor de la abadía",
+        "perChi": "quien quiere todo a pie",
+        "testo": "Entre las termas, Milsom Street y el Pulteney Bridge. Cómodo y animado, pero caro y con poco aparcamiento.",
+        "fascia": "150-280 €"
+      },
+      {
+        "nome": "Royal Crescent y Lansdown",
+        "perChi": "quien busca las casas georgianas",
+        "testo": "La parte alta de la ciudad georgiana, tranquila por la noche; desde el centro se sube a pie en diez-quince minutos.",
+        "fascia": "170-350 €"
+      },
+      {
+        "nome": "Cerca de Bath Spa",
+        "perChi": "quien llega y se va en tren",
+        "testo": "Alrededor de la estación y hacia Widcombe: hoteles de cadena y B&B, a pocos minutos de las termas.",
+        "fascia": "110-200 €"
+      },
+      {
+        "nome": "Bathwick y Great Pulteney Street",
+        "perChi": "quien quiere calma sin renunciar a ir a pie",
+        "testo": "Al otro lado del puente, con la avenida georgiana, el Holburne y los Sydney Gardens.",
+        "fascia": "130-250 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Castle Combe y Lacock",
+        "distanza": "media hora en coche aproximadamente",
+        "come": "En coche, hacia el noreste; hay pocos autobuses.",
+        "testo": "Dos pueblos de piedra fuera del tiempo: Castle Combe con el puente sobre el arroyo y la cruz del mercado, Lacock con la abadía del National Trust."
+      },
+      {
+        "nome": "Stonehenge",
+        "distanza": "una hora en coche aproximadamente",
+        "come": "En coche, o con una excursión en autocar desde Bath.",
+        "testo": "El círculo de piedras prehistórico, patrimonio de la UNESCO, en la llanura de Salisbury. Se visita con entrada a hora fija."
+      },
+      {
+        "nome": "Bristol",
+        "distanza": "unos 15 minutos en tren",
+        "come": "En tren desde Bath Spa hasta Bristol Temple Meads.",
+        "testo": "El puerto sobre el río Avon, el puente colgante de Clifton y los murales de Stokes Croft. Una ciudad joven, muy distinta del Bath georgiano."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Bath?",
+        "risposta": "Un día basta para las termas romanas, la abadía y los crescents. Con dos se añaden Thermae, los museos y Prior Park con calma."
+      },
+      {
+        "domanda": "¿Hay que reservar las Roman Baths?",
+        "risposta": "Conviene: online la entrada cuesta 2 libras menos y se elige la hora. A la apertura o en la última hora hay menos gente."
+      },
+      {
+        "domanda": "¿Se puede bañar uno en las termas romanas?",
+        "risposta": "No, el agua de las Roman Baths no se toca. El baño en agua termal se hace en Thermae Bath Spa, a partir de 16 años."
+      },
+      {
+        "domanda": "¿Se puede visitar Bath en un día desde Londres?",
+        "risposta": "Sí, el tren desde Paddington tarda una hora y media aproximadamente. Con una noche, en cambio, se ven las termas a la apertura y la ciudad de noche, sin multitudes."
+      },
+      {
+        "domanda": "¿Conviene llegar a Bath en coche?",
+        "risposta": "Solo si se viene de los Cotswolds. En el centro se circula despacio y aparcar es caro: mejor devolver el coche e ir a pie."
+      },
+      {
+        "domanda": "¿Cuánto cuesta visitar Bath?",
+        "risposta": "Las Roman Baths empiezan en 23,50 libras online, Thermae en 44, la abadía 9 (2026). Los crescents, el Circus y el Pulteney Bridge son gratuitos."
+      }
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['londra-cotswolds'],
     imageAlt: 'La terraza de las termas romanas de Bath con las estatuas de los emperadores y, detrás, la torre de la abadía',

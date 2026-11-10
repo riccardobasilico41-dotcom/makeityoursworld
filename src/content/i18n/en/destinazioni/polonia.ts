@@ -33,10 +33,10 @@ export const destinazioniPolonia: Destinazione[] = [
     doveMangiare:
       'Pierogi remain the signature dish, in dozens of sweet and savory variations; żurek, a soup made from fermented rye flour, often served inside a hollowed-out loaf; bigos, the cabbage and meat stew; zapiekanki, the Polish version of baked street food, very popular in Kazimierz on Plac Nowy. The bary mleczne ("milk bars"), cheap canteens inherited from the communist era and still subsidized today, remain the simplest and cheapest way to eat everyday Polish food. To drink, Polish vodka, often flavored (żubrówka with bison grass among the best known).',
     comeArrivare:
-      "John Paul II Airport (KRK, Balice), outside the city: a direct train to the central station Kraków Główny, or regular buses. There is no convenient direct train connection from Italy: you generally arrive by plane. From Warsaw there are fast direct trains.",
+      "John Paul II Airport (KRK, Balice), about 11 km from the centre: the direct SKA1 train reaches Kraków Główny in 17-20 minutes, about 20 PLN, running every half hour until late evening; city buses 208 and 252, and the 902 at night, are slower and cost about 6 PLN. There is no convenient direct train from Italy, so most people fly. Fast direct trains run from Warsaw.",
     comeSpostarsi: 'The historic center is all on foot. For the rest of the city, trams and buses of the KMK network, with cheap time-based tickets. You don\'t need a car.',
     periodoMigliore: 'April-May and September-October for the mild weather and fewer crowds; June-August is high season, crowded and hotter; November-March is cold but manageable, with the Christmas markets in December',
-    costi: 'an inexpensive city: museums, restaurants and public transport cost less than in Western Europe',
+    costi: "An inexpensive city: museums, restaurants and public transport cost less than in Western Europe. Rough daily budget per person, sharing a double: **budget €50-70** (hostel or apartment, milk bars and trams), **mid-range €90-130** (old-town hotel, restaurants and museums), **high from €200** (historic hotels on the Rynek and organised day tours).",
     erroriDaEvitare: [
       'Changing currency at the kantor with the flashy board near Rynek Główny without checking the rate carefully: some advertise favorable rates for currencies you aren\'t exchanging',
       'Following anyone who approaches you in the street proposing "a fantastic bar" around Rynek Główny, Floriańska Street or Kazimierz: it is the classic scheme that leads to wildly inflated bills',
@@ -45,112 +45,209 @@ export const destinazioniPolonia: Destinazione[] = [
     ],
     luoghi: [
       {
-        nome: "Rynek Główny and the Cloth Hall",
-        testo: "The medieval market square, often listed among the largest in Europe, with the Cloth Hall (Sukiennice) at the centre and the freestanding tower of the old town hall, demolished in the 19th century. Around it stand St Mary's Basilica and cafes with outdoor tables.",
-        come: "From the central station on foot.",
-        quando: "Early morning or evening, when the lights come on; crowded by day.",
-        tempo: "1-2 hours",
-        costo: "free entry",
-        consiglio: "Beneath the square is an underground museum with the remains of the medieval market."
+        "nome": "Rynek Główny and the Cloth Hall",
+        "testo": "The medieval market square, often listed among the largest in Europe, with the Cloth Hall (Sukiennice) at the centre and the freestanding tower of the old town hall, demolished in the 19th century. Around it stand St Mary's Basilica and cafes with outdoor tables.",
+        "come": "From the central station on foot.",
+        "quando": "Early morning or evening, when the lights come on; crowded by day.",
+        "tempo": "1-2 hours",
+        "costo": "free entry",
+        "lat": 50.06166,
+        "lng": 19.93722,
+        "consiglio": "Beneath the square is an underground museum with the remains of the medieval market."
       },
       {
-        nome: "St Mary's Basilica",
-        testo: "A Gothic church with the large late-Gothic wooden altarpiece by Veit Stoss, from the end of the 15th century, and two unequal towers. From the taller one, every hour, day and night, plays the Hejnał mariacki, the trumpet melody that breaks off suddenly; the noon one goes out live on national radio.",
-        come: "On the square; the interior ticket is bought at the side.",
-        quando: "Morning; for the Hejnał stand on the square on the hour.",
-        tempo: "45 minutes",
-        url: "https://www.mariacki.com",
-        consiglio: "Visiting hours and altarpiece opening times on the official website."
+        "nome": "St Mary's Basilica",
+        "testo": "A Gothic church with the large late-Gothic wooden altarpiece by Veit Stoss, from the end of the 15th century, and two unequal towers. From the taller one, every hour, day and night, plays the Hejnał mariacki, the trumpet melody that breaks off suddenly; the noon one goes out live on national radio.",
+        "come": "On the square; the interior ticket is bought at the side.",
+        "quando": "Morning; for the Hejnał stand on the square on the hour.",
+        "tempo": "45 minutes",
+        "costo": "20 PLN for the basilica, about €5; 20 PLN for the Hejnał tower, about €5 (2026)",
+        "orari": "Basilica: Monday-Saturday 11:30am-6pm, Sundays and holidays 2-6pm. Tower: Tuesday-Saturday 10am-5:30pm, Sunday 1-5:30pm, closed from November to April.",
+        "lat": 50.06167,
+        "lng": 19.93917,
+        "url": "https://mariacki.com/en/tourists/",
+        "consiglio": "Visiting hours and altarpiece opening times on the official website."
       },
       {
-        nome: "Wawel Hill",
-        testo: "The hill above the Vistula with the Royal Castle and the Cathedral where Polish kings were crowned from 1320 to 1764, also their main burial place. In the Sigismund Tower hangs the 1521 bell, rung only on great occasions. Exhibitions and routes have separate tickets.",
-        come: "On foot from the centre. Tickets are bought on site or online on the official website.",
-        quando: "Early morning, before the groups.",
-        tempo: "3 hours",
-        url: "https://wawel.krakow.pl",
-        consiglio: "On busy days it pays to buy online in advance."
+        "nome": "Wawel Hill",
+        "testo": "The hill above the Vistula with the Royal Castle and the Cathedral where Polish kings were crowned from 1320 to 1764, also their main burial place. In the Sigismund Tower hangs the 1521 bell, rung only on great occasions. Exhibitions and routes have separate tickets.",
+        "come": "On foot from the centre. Tickets are bought on site or online on the official website.",
+        "quando": "Early morning, before the groups.",
+        "tempo": "3 hours",
+        "costo": "Castle: 95 PLN for the two-floor route, about €22; Crown Treasury and Armoury 47 PLN each, about €11. Cathedral with the royal tombs and Sigismund Bell 26 PLN, about €6 (2026)",
+        "orari": "Cathedral: Monday-Saturday 9am-5pm (9am-4pm from November to March), Sunday from 12:30pm. Castle exhibitions have seasonal hours, on the official website.",
+        "lat": 50.05389,
+        "lng": 19.93472,
+        "url": "https://wawel.krakow.pl",
+        "consiglio": "On busy days it pays to buy online in advance."
       },
       {
-        nome: "Kazimierz",
-        testo: "The town founded in 1335 by Casimir the Great and for centuries the heart of Kraków's Jewish life, with the Old Synagogue, among the oldest in Poland, and other historic synagogues. Today it is also the district of cafes, galleries and venues.",
-        come: "On foot or by tram from Stare Miasto.",
-        quando: "Daytime for the synagogues; evening for the venues.",
-        tempo: "3 hours",
-        url: "https://www.jewishkrakow.net",
-        consiglio: "Plac Nowy is known for zapiekanki, the long sandwiches."
+        "nome": "Kazimierz",
+        "testo": "The town founded in 1335 by Casimir the Great and for centuries the heart of Kraków's Jewish life, with the Old Synagogue, among the oldest in Poland, and other historic synagogues. Today it is also the district of cafes, galleries and venues.",
+        "come": "On foot or by tram from Stare Miasto.",
+        "quando": "Daytime for the synagogues; evening for the venues.",
+        "tempo": "3 hours",
+        "costo": "Old Synagogue 22 PLN, about €5; free on Mondays (2026)",
+        "orari": "Old Synagogue: Monday 10am-3pm, Tuesday-Sunday 9am-5pm. Active synagogues close on Saturdays.",
+        "lat": 50.05141,
+        "lng": 19.94857,
+        "url": "https://www.jewishkrakow.net",
+        "consiglio": "Plac Nowy is known for zapiekanki, the long sandwiches."
       },
       {
-        nome: "Schindler's Factory and Podgórze",
-        testo: "The museum in Oskar Schindler's former factory tells of Nazi-occupied Kraków. Nearby is Ghetto Heroes Square, with empty chairs recalling the ghetto.",
-        come: "By tram to the Zabłocie district or on foot from Kazimierz.",
-        quando: "Morning. Closed on the first Tuesday of the month.",
-        tempo: "2-3 hours",
-        costo: "60 PLN full, 45 reduced (2026); free on Mondays, but without booking",
-        url: "https://muzeumkrakow.pl",
-        consiglio: "Tickets and hours on the Museum of Kraków website; in summer buy ahead."
+        "nome": "Schindler's Factory and Podgórze",
+        "testo": "The museum in Oskar Schindler's former factory tells of Nazi-occupied Kraków. Nearby is Ghetto Heroes Square, with empty chairs recalling the ghetto.",
+        "come": "By tram to the Zabłocie district or on foot from Kazimierz.",
+        "quando": "Morning. Closed on the first Tuesday of the month.",
+        "tempo": "2-3 hours",
+        "costo": "60 PLN full, 45 reduced (2026); free on Mondays, but without booking",
+        "orari": "Monday 10am-3pm, Tuesday-Sunday 9am-8pm; closed on the first Tuesday of the month.",
+        "lat": 50.0474,
+        "lng": 19.96175,
+        "url": "https://muzeumkrakowa.pl/en/branches/oskar-schindlers-enamel-factory",
+        "consiglio": "Tickets and hours on the Museum of Kraków website; in summer buy ahead."
       },
       {
-        nome: "Wieliczka Salt Mine",
-        testo: "A salt mine dug from the 13th century, on the first UNESCO list of 1978, in the town of Wieliczka near Kraków. The tourist route, about 3.5 km long, goes down to 135 metres and passes chapels carved in salt, brine lakes and the Chapel of St Kinga, where weddings are also held.",
-        come: "Train or bus from Kraków, then on foot to the entrance.",
-        quando: "All day; book online.",
-        tempo: "2-3 hours of visit, plus the journey",
-        costo: "from 121 PLN (2026)",
-        url: "https://www.wieliczka-saltmine.com",
-        consiglio: "Bring a jacket: underground it is 17-18 degrees even in summer. The route has about 800 steps."
+        "nome": "Wieliczka Salt Mine",
+        "testo": "A salt mine dug from the 13th century, on the first UNESCO list of 1978, in the town of Wieliczka near Kraków. The tourist route, about 3.5 km long, goes down to 135 metres and passes chapels carved in salt, brine lakes and the Chapel of St Kinga, where weddings are also held.",
+        "come": "Train or bus from Kraków, then on foot to the entrance.",
+        "quando": "All day; book online.",
+        "tempo": "2-3 hours of visit, plus the journey",
+        "costo": "from 121 PLN (2026)",
+        "lat": 49.97917,
+        "lng": 20.06389,
+        "url": "https://www.wieliczka-saltmine.com",
+        "consiglio": "Bring a jacket: underground it is 17-18 degrees even in summer. The route has about 800 steps."
       },
       {
-        nome: "Planty and Barbican",
-        testo: "The ring of parks on the line of the demolished walls, surrounding the old town, with St Florian's Gate and the Barbican, saved when the walls were demolished in the 19th century: the Barbican is a rare Gothic fortified outpost still standing.",
-        come: "On foot, around the centre.",
-        quando: "Morning or evening, with soft light.",
-        tempo: "1 hour",
-        costo: "free entry",
-        consiglio: "A free walk to get your bearings."
+        "nome": "Planty and Barbican",
+        "testo": "The ring of parks on the line of the demolished walls, surrounding the old town, with St Florian's Gate and the Barbican, saved when the walls were demolished in the 19th century: the Barbican is a rare Gothic fortified outpost still standing.",
+        "come": "On foot, around the centre.",
+        "quando": "Morning or evening, with soft light.",
+        "tempo": "1 hour",
+        "costo": "free entry",
+        "orari": "The Barbican, a branch of the Museum of Krakow, is temporarily closed to visitors (November 2026); the Planty are always open.",
+        "lat": 50.06553,
+        "lng": 19.94166,
+        "consiglio": "A free walk to get your bearings."
+      },
+      {
+        "nome": "Rynek Underground",
+        "testo": "A museum beneath the market square, created from the archaeological digs of the 2000s: you walk among the foundations of medieval stalls, old streets and graves, with reconstructions and screens. It explains well what trading Krakow was like.",
+        "come": "Entrance on the north side of the Cloth Hall. Timed tickets, best bought online.",
+        "quando": "Early morning or late afternoon. On Tuesdays entry is free but with shorter hours and many more people.",
+        "tempo": "1.5 hours",
+        "costo": "45 PLN full, about €11; free on Tuesdays (2026)",
+        "orari": "Monday 10am-7pm (closed on the second Monday of the month), Tuesday 10am-3pm, Wednesday-Thursday 10am-7pm, Friday-Sunday 10am-8pm.",
+        "lat": 50.06202,
+        "lng": 19.93776,
+        "url": "https://muzeumkrakowa.pl/en/branches/rynek-underground"
+      },
+      {
+        "nome": "Collegium Maius",
+        "testo": "The oldest building of the Jagiellonian University, from the 15th century, with an arcaded Gothic courtyard. Inside is the university museum, with lecture rooms, library and scientific instruments; Copernicus was among its students.",
+        "come": "On foot from Rynek Główny, on Jagiellońska street. The courtyard is open to walk through; the interiors are visited on a timed guided route.",
+        "quando": "Morning. Hours change often for university events: check the calendar first.",
+        "tempo": "1 hour",
+        "lat": 50.06167,
+        "lng": 19.93389,
+        "url": "https://maius.uj.edu.pl/zwiedzanie"
+      },
+      {
+        "nome": "Grodzka Street and the Church of Saints Peter and Paul",
+        "testo": "The street running down from the Rynek to Wawel, the last stretch of the Royal Route. Halfway along stands the baroque Church of Saints Peter and Paul, with statues of the twelve apostles on its railings, and next to it Romanesque St Andrew's, one of the oldest churches in the city.",
+        "come": "On foot, on the way between the square and the castle.",
+        "quando": "In the morning on the way to Wawel, or in the evening with the facades lit.",
+        "tempo": "30-45 minutes",
+        "lat": 50.0569,
+        "lng": 19.939,
+        "consiglio": "Step into St Andrew's: small, often empty, and built like a fortress."
+      },
+      {
+        "nome": "Kościuszko Mound",
+        "testo": "A 34-metre artificial hill raised in the 19th century in memory of national hero Tadeusz Kościuszko, inside an Austrian fortress. From the top you see all of Krakow and, on clear days, the Tatras.",
+        "come": "Bus from the centre to the Salwator district, then uphill on foot; or walk along the Vistula and up Aleja Waszyngtona.",
+        "quando": "Clear days, ideally in the afternoon.",
+        "tempo": "2 hours including the journey",
+        "costo": "34 PLN full, about €8; 26 PLN reduced (2026), on-site ticket office only",
+        "orari": "Every day 9am-3:30pm.",
+        "lat": 50.05283,
+        "lng": 19.8895,
+        "url": "https://www.kopieckosciuszki.pl"
+      },
+      {
+        "nome": "Nowa Huta",
+        "testo": "The district built from 1949 as a model workers' town of the communist era, around the steelworks: wide avenues, socialist-realist blocks and the radial Central Square. It shows a Krakow very different from the medieval one.",
+        "come": "Tram from the centre to the Central Square (Plac Centralny), about half an hour.",
+        "quando": "By day, on a weekday. The Nowa Huta Museum is temporarily closed (November 2026).",
+        "tempo": "half a day",
+        "costo": "free to explore",
+        "lat": 50.07222,
+        "lng": 20.03722,
+        "consiglio": "Go as far as the Ark of the Lord church, built by residents in the 1960s despite the regime's bans."
+      },
+      {
+        "nome": "Ghetto Heroes Square",
+        "testo": "In 1941 the Nazis confined Krakow's Jewish ghetto here, in Podgórze. Today the square is a memorial: seventy empty metal chairs recall the deported. On the same side is the Pharmacy Under the Eagle, where pharmacist Tadeusz Pankiewicz helped the ghetto's residents.",
+        "come": "On foot from Kazimierz over the Bernatka footbridge, or by tram.",
+        "quando": "By day, together with Schindler's Factory, 10 minutes' walk away.",
+        "tempo": "30 minutes",
+        "costo": "open square",
+        "lat": 50.04667,
+        "lng": 19.95417
       }
     ],
     programmi: [
       {
-        titolo: "1 day",
-        tappe: [
-          "Morning: Rynek Główny and St Mary's",
-          "Wawel",
-          "Lunch in Kazimierz",
-          "Evening: Planty"
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Rynek Główny, the Cloth Hall and St Mary's Basilica, with the Hejnał on the hour",
+          "Grodzka Street up to Wawel Hill: the cathedral and one section of the castle",
+          "Lunch in Kazimierz, then the Old Synagogue",
+          "Evening: the Planty and the Barbican, dinner in the old town"
         ]
       },
       {
-        titolo: "2 days",
-        tappe: [
+        "titolo": "2 days",
+        "tappe": [
           "Day 1 as above",
-          "Day 2: Schindler's Factory and Podgórze",
-          "Afternoon in Kazimierz"
+          "Day 2, morning: Schindler's Factory and Ghetto Heroes Square in Podgórze",
+          "Afternoon: Rynek Underground and Collegium Maius",
+          "Evening: Plac Nowy in Kazimierz, with a zapiekanka"
         ]
       },
       {
-        titolo: "3 days",
-        tappe: [
+        "titolo": "3 days",
+        "tappe": [
           "Days 1-2 as above",
-          "Day 3: Wieliczka Salt Mine or Auschwitz-Birkenau (see dedicated entry)"
+          "Day 3: Auschwitz-Birkenau with a museum educator (booking on the Museum's website), or the Wieliczka Salt Mine and, in the afternoon, Kościuszko Mound or Nowa Huta"
         ]
       }
     ],
     zone: [
       {
-        nome: "Stare Miasto",
-        perChi: "Those who want to be near the sights",
-        testo: "The historic heart, close to everything; night noise near the venues."
+        "nome": "Stare Miasto",
+        "perChi": "Those who want to be near the sights",
+        "testo": "The historic heart, close to everything; night noise near the venues.",
+        "fascia": "€90-160"
       },
       {
-        nome: "Kazimierz",
-        perChi: "Those seeking atmosphere and evening life",
-        testo: "A district of cafes and venues, charming lodgings; livelier in the evening."
+        "nome": "Kazimierz",
+        "perChi": "Those seeking atmosphere and evening life",
+        "testo": "A district of cafes and venues, charming lodgings; livelier in the evening.",
+        "fascia": "€70-130"
       },
       {
-        nome: "Podgórze",
-        perChi: "Those who want quiet and lower prices",
-        testo: "Across the Vistula, within walking distance of the centre."
+        "nome": "Podgórze",
+        "perChi": "Those who want quiet and lower prices",
+        "testo": "Across the Vistula, within walking distance of the centre.",
+        "fascia": "€60-110"
+      },
+      {
+        "nome": "Kleparz and the station area",
+        "perChi": "Those arriving by train or from the airport who want to spend less",
+        "testo": "Just north of the Planty, near Kraków Główny and the Galeria Krakowska mall. Less atmosphere, but ten minutes' walk from the Rynek, with the airport train right on the doorstep.",
+        "fascia": "€60-110"
       }
     ],
     sapori: [
@@ -177,6 +274,52 @@ export const destinazioniPolonia: Destinazione[] = [
       "Exchange: use ATMs and refuse to pay in euros.",
       "Nightlife: check the bill carefully when paying by card at the end of the night and do not leave drinks unattended.",
       "Pickpockets in crowded and tourist spots, at stations and on trains."
+    ],
+    gite: [
+      {
+        "nome": "Auschwitz-Birkenau",
+        "distanza": "66 km, about 1.5 hours by bus",
+        "come": "Direct bus from Krakow's coach station every 20-40 minutes, about 34 PLN each way; or train to Oświęcim. Entry is free with an online booking on the Museum's website, and in the middle of the day only with a museum educator.",
+        "testo": "The concentration and extermination camp where over a million people died, almost all of them Jews. You visit Auschwitz I and Birkenau, linked by a free shuttle. It is a day to keep apart from the rest of the trip (see the dedicated page)."
+      },
+      {
+        "nome": "Zakopane and the Tatras",
+        "distanza": "about 100 km, 2 hours by bus or train",
+        "come": "Frequent buses from the coach station or trains from Kraków Główny.",
+        "testo": "Poland's mountain town at the foot of the Tatras, with Zakopane-style wooden houses and the Gubałówka funicular. Skiing in winter, hiking to Morskie Oko lake in summer."
+      },
+      {
+        "nome": "Ojców National Park",
+        "distanza": "about 25 km, 40 minutes by car or bus",
+        "come": "Bus from central Krakow or by car.",
+        "testo": "Poland's smallest national park: a valley of limestone rocks, caves and the castles of the Eagles' Nests Trail, including Pieskowa Skała. Good for half a day of easy walking."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Krakow?",
+        "risposta": "Two full days for the city, three or four adding Auschwitz-Birkenau and the Wieliczka Salt Mine. The two trips should not go on the same day."
+      },
+      {
+        "domanda": "Do you need to book Auschwitz-Birkenau?",
+        "risposta": "Yes: entry is free but booked online on the Museum's official website, up to three months ahead. In the middle of the day you can enter only with a museum educator or an organised tour."
+      },
+      {
+        "domanda": "Do they take euros in Krakow?",
+        "risposta": "No, the currency is the złoty (PLN). Cards work almost everywhere; when a card terminal offers to charge in euros, decline and pay in złoty."
+      },
+      {
+        "domanda": "Where to stay in Krakow?",
+        "risposta": "In the old town inside the Planty to have everything on foot, in Kazimierz for nightlife and slightly lower prices. Podgórze, across the river, is quieter."
+      },
+      {
+        "domanda": "How do you get from Krakow airport to the centre?",
+        "risposta": "By the SKA1 train to Kraków Główny, 17-20 minutes, about 20 PLN, roughly every half hour. Tram and bus tickets are not valid on the train."
+      },
+      {
+        "domanda": "Should you book Wieliczka?",
+        "risposta": "It is recommended, especially at weekends: tickets are timed on the mine's website, and tours in languages other than Polish and English are sold online only."
+      }
     ],
     esperienzeSlugs: ['wieliczka-miniera-di-sale', 'kazimierz-food-vodka-tour'],
     tripSlugs: ['cracovia-weekend'],

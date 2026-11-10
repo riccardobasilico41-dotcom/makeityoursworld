@@ -365,11 +365,10 @@ export const destinazioniTurchia: Destinazione[] = [
       'Göreme por comodidad, Uçhisar y Ortahisar por las vistas y la calma, Ürgüp por restaurantes y bodegas. Económicas: pensiones de Göreme · gama media: cave hotels de Göreme y Uçhisar · lujo: Argos in Cappadocia, Museum Hotel.',
     doveMangiare:
       'Testi kebab cocinado en vasija de barro, mantı (raviolis con yogur), pide, los vinos de Ürgüp y Uçhisar.',
-    comeArrivare: 'Vuelos desde Estambul a Kayseri (ASR, 1 hora de traslado) o Nevşehir (NAV, 40 minutos); autobuses nocturnos desde Estambul (unas 10-11 horas).',
+    comeArrivare: "Desde Estambul se vuela en una hora aproximadamente a Kayseri (ASR) o Nevşehir (NAV), unos 40-90 € con equipaje. De Kayseri a Göreme el traslado dura una hora, desde Nevşehir unos 40 minutos; los traslados compartidos, unos 10-15 € por persona, se reservan con el hotel según la hora del vuelo. Como alternativa, los autobuses nocturnos desde Estambul tardan 10-11 horas, y los de Pamukkale salen de Göreme y Nevşehir (9-10 horas, 20-35 €).",
     comeSpostarsi: 'Coche de alquiler o tours de un día (Red Tour, Green Tour); los dolmuş conectan Göreme, Uçhisar, Avanos y Ürgüp.',
     periodoMigliore: 'abril-junio y septiembre-octubre; en invierno hay nieve y el paisaje es preciosísimo, pero se cancelan más vuelos en globo',
-    costi:
-      'Globo, de forma indicativa, 180-350 € por persona según la temporada; museo al aire libre de Göreme en torno a 20-25 €; Derinkuyu en torno a 15-20 €; Museum Pass Cappadocia en torno a 45-50 € (indicativos).',
+    costi: "Presupuesto bajo unos 50-70 € al día por persona (pensión en Göreme, dolmuş, un museo, comida en los locales del pueblo); medio 110-170 € (hotel cueva, una excursión de un día o coche, dos sitios al día, cenas con vino); alto desde 300 € (hotel cueva con terraza en Uçhisar, globo, guía privado). Entradas 2026: museo al aire libre de Göreme 20 €, Iglesia Oscura 6 €, Zelve-Paşabağ 12 €, Derinkuyu o Kaymaklı 13 €; globo 150-350 €.",
     erroriDaEvitare: [
       'Reservar el globo para la última mañana: con viento los vuelos se cancelan, y conviene tener al menos un día de reserva',
       'Elegir al operador solo por el precio: cuentan la licencia y el número de pasajeros por cesta',
@@ -381,11 +380,14 @@ export const destinazioniTurchia: Destinazione[] = [
         "nome": "Museo al aire libre de Göreme",
         "testo": "Un conjunto de iglesias y monasterios rupestres excavados en los conos de roca, con frescos en gran parte de los siglos X y XI. La Iglesia Oscura (Karanlık) es una de las más bellas.",
         "come": "Desde Göreme a pie o en lanzadera.",
-        "quando": "Abierto todos los días de 8 a 17, taquilla hasta las 16.15 (noviembre de 2026). A la apertura, antes de los grupos.",
+        "quando": "A la apertura, antes que los grupos.",
         "tempo": "1,5-2 horas",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Preguntar en taquilla si la Iglesia Oscura tiene suplemento: los colores merecen la parada.",
-        "costo": "Precio para visitantes extranjeros en la web oficial"
+        "costo": "20 € para visitantes extranjeros (muze.gov.tr, 2026); Iglesia Oscura 6 € aparte",
+        "orari": "Todos los días 8-17, taquilla hasta las 16:15 (2026)",
+        "lat": 38.6427,
+        "lng": 34.84503,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=GRM01&DistId=GRM",
+        "consiglio": "Preguntar en taquilla si la Iglesia Oscura tiene suplemento: los colores merecen la parada."
       },
       {
         "nome": "Globo aerostático al amanecer",
@@ -400,7 +402,10 @@ export const destinazioniTurchia: Destinazione[] = [
         "testo": "Senderos entre rocas rosas y rojas con iglesias excavadas en la roca, hermosos al atardecer.",
         "come": "Salida a pie desde Göreme o en coche hasta un mirador.",
         "quando": "Atardecer.",
-        "tempo": "2-3 horas"
+        "tempo": "2-3 horas",
+        "costo": "Gratis",
+        "lat": 38.65099,
+        "lng": 34.85359
       },
       {
         "nome": "Derinkuyu y Kaymaklı",
@@ -408,24 +413,140 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "En coche o en tour desde Göreme.",
         "quando": "A primera hora para evitar la multitud en los corredores.",
         "tempo": "1-1,5 horas",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Quien sufra claustrofobia, que lo piense bien: los pasillos son estrechos y bajos.",
-        "costo": "Precios para visitantes extranjeros en la web oficial"
+        "costo": "13 € cada una para visitantes extranjeros (muze.gov.tr, 2026)",
+        "orari": "Todos los días 8-17, taquilla hasta las 16:15 (2026)",
+        "lat": 38.37357,
+        "lng": 34.7351,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=DKY01&DistId=DKY",
+        "consiglio": "Quien sufra claustrofobia, que lo piense bien: los pasillos son estrechos y bajos."
+      },
+      {
+        "nome": "Iglesia Oscura (Karanlık Kilise)",
+        "testo": "La iglesia del museo al aire libre con los frescos mejor conservados de Capadocia: sus pocas ventanas protegieron los colores, sobre todo el azul de los fondos. Está restaurada y se paga aparte.",
+        "come": "Dentro del museo al aire libre de Göreme, entrada separada.",
+        "quando": "En la misma visita al museo, temprano.",
+        "tempo": "15-20 minutos",
+        "costo": "6 € para visitantes extranjeros (muze.gov.tr, 2026)",
+        "orari": "Todos los días 8-17, taquilla hasta las 16:45 (2026)",
+        "lat": 38.6387,
+        "lng": 34.84626,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=GRM02&DistId=GRM"
+      },
+      {
+        "nome": "Zelve y Paşabağ",
+        "testo": "Dos sitios con una entrada: Zelve es un valle de casas e iglesias excavadas, habitado hasta los años cincuenta y abandonado por riesgo de derrumbes; Paşabağ, el valle de los Monjes, tiene chimeneas de hadas con varios sombreros y celdas de eremitas.",
+        "come": "En coche, quad o dolmuş hacia Avanos, 10-15 minutos desde Göreme.",
+        "quando": "Última hora de la tarde, con la luz rasante.",
+        "tempo": "1,5-2 horas",
+        "costo": "12 € para visitantes extranjeros (muze.gov.tr, 2026)",
+        "orari": "Todos los días 8-17, taquilla hasta las 16:15 (2026)",
+        "lat": 38.66917,
+        "lng": 34.86337,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=ZPO01&DistId=ZPO"
+      },
+      {
+        "nome": "Valle de Devrent",
+        "testo": "También llamado Valle de la Imaginación: rocas rosadas sin iglesias ni casas, donde se buscan formas de animales, la más famosa es el camello. Se ve en poco tiempo desde la carretera.",
+        "come": "En coche entre Zelve y Ürgüp, parada en el arcén.",
+        "quando": "Última hora de la tarde.",
+        "tempo": "20-30 minutos",
+        "costo": "Gratis",
+        "lat": 38.67262,
+        "lng": 34.88551
+      },
+      {
+        "nome": "Ciudadela de Uçhisar",
+        "testo": "El espolón de roca más alto de la zona, horadado de estancias y pasadizos, que domina el pueblo de Uçhisar. Desde la cima se ven Göreme, los valles y, en días claros, el volcán Erciyes.",
+        "come": "En coche o dolmuş desde Göreme, 10 minutos; escalones hasta arriba.",
+        "quando": "Al atardecer.",
+        "tempo": "45 minutos-1 hora",
+        "lat": 38.63033,
+        "lng": 34.80556
+      },
+      {
+        "nome": "Valle del Amor",
+        "testo": "El valle de los grandes pináculos alargados en forma de seta, el más fotografiado desde los globos. Un sendero lo recorre por el fondo, entre viñas y frutales.",
+        "come": "A pie desde Göreme o desde la carretera de Uçhisar; el sendero es fácil pero está poco señalizado.",
+        "quando": "Al amanecer, bajo los globos, o por la tarde.",
+        "tempo": "2-3 horas a pie",
+        "costo": "Gratis",
+        "lat": 38.66069,
+        "lng": 34.81961
+      },
+      {
+        "nome": "Valle de las Palomas",
+        "testo": "El valle entre Uçhisar y Göreme que debe su nombre a los miles de palomares excavados en la roca, usados para recoger el guano como abono para las viñas. El sendero baja por un cañón verde.",
+        "come": "A pie, cuesta abajo de Uçhisar a Göreme.",
+        "quando": "Por la mañana o por la tarde, evitando las horas de calor en verano.",
+        "tempo": "1,5-2 horas",
+        "costo": "Gratis",
+        "lat": 38.63278,
+        "lng": 34.81611
+      },
+      {
+        "nome": "Castillo de Ortahisar",
+        "testo": "El otro gran espolón fortificado de Capadocia, en el pueblo de Ortahisar, menos visitado que Uçhisar. Alrededor hay almacenes en la toba donde se guardan cítricos y patatas.",
+        "come": "En coche desde Göreme o Ürgüp, 10 minutos.",
+        "quando": "Por la tarde.",
+        "tempo": "45 minutos",
+        "lat": 38.61994,
+        "lng": 34.86433
+      },
+      {
+        "nome": "Avanos",
+        "testo": "El pueblo a orillas del Kızılırmak, el río más largo de Turquía, famoso por la cerámica hecha con la arcilla roja del río. Se entra en los talleres a ver el torno de pie.",
+        "come": "En dolmuş o en coche desde Göreme, 15 minutos.",
+        "quando": "Por la tarde, junto con Zelve y Paşabağ.",
+        "tempo": "1-2 horas",
+        "lat": 38.715,
+        "lng": 34.84667
+      },
+      {
+        "nome": "Valle de Ihlara",
+        "testo": "Un cañón de un centenar de metros de profundidad excavado por el río Melendiz, con un sendero junto al arroyo e iglesias rupestres con frescos en las paredes. Es la caminata más verde de la región.",
+        "come": "En coche o con el Green Tour, unas 1,5 horas desde Göreme; el tramo clásico va de Ihlara a Belisırma.",
+        "quando": "Por la mañana; en verano por el frescor del río.",
+        "tempo": "media jornada",
+        "lat": 38.2575,
+        "lng": 34.29528,
+        "consiglio": "Comida en los restaurantes junto al arroyo en Belisırma, y luego taxi para volver al coche."
+      },
+      {
+        "nome": "Monasterio de Selime",
+        "testo": "El gran complejo rupestre al final del valle de Ihlara, con una catedral excavada en dos niveles, cocinas y establos. El paisaje alrededor se ha usado como decorado de películas de ciencia ficción.",
+        "come": "En coche o con el Green Tour, junto con Ihlara.",
+        "quando": "Por la tarde, después de Ihlara.",
+        "tempo": "45 minutos-1 hora",
+        "lat": 38.3012,
+        "lng": 34.25943
       }
     ],
     programmi: [
       {
+        "titolo": "1 día",
+        "tappe": [
+          "Al amanecer: globo, o el cielo lleno de globos desde las terrazas de Göreme",
+          "Museo al aire libre de Göreme e Iglesia Oscura",
+          "Tarde: Zelve, Paşabağ y Devrent",
+          "Atardecer en el Valle Rojo"
+        ]
+      },
+      {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: globo, museo al aire libre de Göreme, Valle Rojo al atardecer",
-          "Día 2: Derinkuyu, valle de Ihlara, Uçhisar"
+          "Día 1 como arriba",
+          "Día 2: ciudad subterránea de Derinkuyu o Kaymaklı",
+          "Valle de Ihlara y monasterio de Selime",
+          "Atardecer desde la ciudadela de Uçhisar"
         ]
       },
       {
         "titolo": "3 días",
         "tappe": [
           "Días 1-2 como arriba",
-          "Día 3: trekking por el Valle del Amor y de las Palomas, atardecer en Uçhisar"
+          "Día 3: caminata por el Valle de las Palomas y el Valle del Amor",
+          "Tarde en Avanos entre los talleres de cerámica, o castillo de Ortahisar",
+          "Cena y vino en Ürgüp, con el día de reserva para el globo"
         ]
       }
     ],
@@ -433,12 +554,14 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Göreme",
         "perChi": "quien quiere estar cerca de todo",
-        "testo": "Hoteles en cueva, restaurantes y salidas de los globos. El más turístico."
+        "testo": "Hoteles en cueva, restaurantes y salidas de los globos. El más turístico.",
+        "fascia": "40-170 €"
       },
       {
         "nome": "Uçhisar",
         "perChi": "quien quiere vistas y calma",
-        "testo": "Pueblo bajo el castillo, hoteles con encanto y terraza panorámica."
+        "testo": "Pueblo bajo el castillo, hoteles con encanto y terraza panorámica.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Ürgüp / Mustafapaşa",
@@ -471,6 +594,52 @@ export const destinazioniTurchia: Destinazione[] = [
       "Alquiler de quads y caballos: comprobar el estado de los vehículos y el seguro antes de partir."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Valle de Soğanlı",
+        "distanza": "unos 55-60 km, 1 hora",
+        "come": "En coche; no hay excursiones regulares.",
+        "testo": "Dos valles con iglesias rupestres pintadas y el pueblo de las muñecas de trapo, casi sin turistas. Una Capadocia como debía de ser antes del boom."
+      },
+      {
+        "nome": "Kayseri",
+        "distanza": "unos 75 km, 1 hora",
+        "come": "En coche o en autobús desde Nevşehir; de aquí salen muchos vuelos a Estambul.",
+        "testo": "La ciudad selyúcida al pie del volcán Erciyes, con la ciudadela, las madrasas del siglo XIII y el bazar. En invierno se esquía en el Erciyes."
+      },
+      {
+        "nome": "Hacıbektaş",
+        "distanza": "unos 55 km, 45 minutos",
+        "come": "En coche desde Göreme o Avanos.",
+        "testo": "El complejo del santo sufí Hacı Bektaş Veli, centro de la tradición aleví, con el museo y el mausoleo en un jardín tranquilo."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Capadocia?",
+        "risposta": "Tres noches: dos días completos para museos, valles y ciudades subterráneas, más una mañana de reserva para el globo, que con viento se cancela."
+      },
+      {
+        "domanda": "¿Mejor dormir en Göreme, Uçhisar o Ürgüp?",
+        "risposta": "Göreme es lo más cómodo, con todo a pie; Uçhisar y Ortahisar son más tranquilos y con vistas; Ürgüp tiene más restaurantes y bodegas, pero hace falta coche para los valles."
+      },
+      {
+        "domanda": "¿Cuánto cuesta el globo y cuándo se vuela?",
+        "risposta": "No hay precio oficial: más o menos 150-350 € por persona según temporada, operador y número de pasajeros en la cesta. Se vuela al amanecer y el vuelo dura una hora aproximadamente."
+      },
+      {
+        "domanda": "¿Derinkuyu o Kaymaklı?",
+        "risposta": "Derinkuyu baja más y es más espectacular, Kaymaklı está más cerca de Göreme y a menudo tiene menos gente. La entrada cuesta 13 € en las dos: a la mayoría le basta con una."
+      },
+      {
+        "domanda": "¿Hace falta coche en Capadocia?",
+        "risposta": "No es imprescindible: entre Göreme, Uçhisar, Avanos y Ürgüp hay dolmuş, e Ihlara y las ciudades subterráneas se hacen con el Green Tour. El coche da libertad para atardeceres y valles lejanos."
+      },
+      {
+        "domanda": "¿Compensa el Museum Pass Capadocia?",
+        "risposta": "Con Göreme (20 €), la Iglesia Oscura (6 €), Zelve-Paşabağ (12 €) y una ciudad subterránea (13 €) se llega a 51 €; el pase, unos 65 € para tres días, solo compensa si se añaden otros sitios."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Globos sobre los valles de toba del parque nacional de Göreme, en Capadocia',

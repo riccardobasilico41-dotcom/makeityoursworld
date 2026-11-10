@@ -34,13 +34,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "In the huts the food is precise and repetitive, and after three days you love it: canederli in broth, goulash, polenta with melted cheese and mushrooms, Kaiserschmarrn for dessert, and barley soup, the high-altitude dish par excellence. In the valleys South Tyrol has a cuisine of its own, neither Italian nor Austrian: speck, Schlutzkrapfen (rye ravioli with spinach), strudel, and the autumn Törggelen in the farmhouses, when the new wine comes out. To drink, Lagrein and Schiava in South Tyrol, Teroldego in Trentino.",
     comeArrivare:
-      "A car is the most practical way, and for some valleys the only sensible one. By train you get to Bolzano, Brixen or Calalzo and continue on valley buses, which are good in South Tyrol and much less so in the Veneto. The useful airports are Venice, Verona, Innsbruck and Treviso.",
+      "A car is the most practical option, and for some valleys the only sensible one. By train you reach Bolzano, Bressanone or Calalzo and continue on valley buses, good in South Tyrol and much less so in Veneto. The useful airports are Venice, Verona, Innsbruck and Treviso, 2-3 hours by car from the valleys. Without a car, the Cortina Express and ATVO buses from Venice reach Cortina in about 2 hours 15 minutes, €10-30 depending on the date.",
     comeSpostarsi:
       "By car, with the warning that **in summer the parking lots at the best-known spots are full by 8 am** and several roads are capped. The South Tyrol buses, included in the local cards offered by many lodgings, work well and let you leave the car parked; in the Veneto coverage is worse. Summer cable cars save hundreds of meters of elevation gain and should be factored into the budget.",
     periodoMigliore:
       "**From late June to mid-September**, when the huts are open; before and after, most of the network is closed and some high trails still have snow. July and August are the busiest and most expensive months. **September is the best month**: fewer people, clear air, beautiful colors and huts open until the end of the month. In June, the leftover snowfields on the high passes are a serious variable.",
     costi:
-      "Half board in a hut is roughly €60-80 per person, with discounts for CAI members and for members of affiliated alpine clubs: the membership pays for itself in three nights. **The Tre Cime toll is around €40 per car** (valid for 12 hours, with mandatory booking), cable cars €15-30 per ride, via ferrata kit rental €15-25 a day.",
+      "Half board in a hut is roughly €60-80 per person, with discounts for CAI members and for members of affiliated alpine clubs: the membership pays for itself in three nights. **The Tre Cime toll is around €40 per car** (valid for 12 hours, with mandatory booking), cable cars €15-30 per ride, via ferrata kit rental €15-25 a day. Rough daily budget per person, sharing a double: **budget €90-120** (huts and farm stays, lunches at alpine huts), **mid-range €160-220** (valley hotels and one cable car a day), **high from €300** (spa hotels in Cortina or Val Gardena).",
     erroriDaEvitare: [
       "Showing up at the Tre Cime or Braies without a reservation: from 2026 the Tre Cime road requires mandatory online booking and Braies caps car access between 9 am and 4 pm in high season. If you arrive without one, you turn back",
       "Booking huts in June for August: spots sell out from January-February, and private rooms even earlier",
@@ -205,6 +205,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "From late spring to autumn, while the road is open: dates are on the booking portal. Arrive at opening time or late in the afternoon: in the middle of the day in July and August the trail is one continuous line.",
         "tempo": "3-4 hours for the full loop (about 10 km)",
         "costo": "40 euros per car, 2026; online booking is compulsory and the ticket is valid for 12 hours from the chosen time. The shuttle from Misurina to the Rifugio Auronzo costs 10 euros per person per day",
+        "lat": 46.6122,
+        "lng": 12.2961,
         "consiglio": "I did the loop in August and it felt like walking in single file: in September you walk with a third of the people. If you start early, go clockwise and climb to the Locatelli in the low morning light."
       },
       {
@@ -213,6 +215,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Dobbiaco take the Braies valley road to the car park by the lake. In summer car access is limited and needs a booking in the middle of the day: dates and times on the Braies municipality website. Buses and shuttles also run from Dobbiaco and Villabassa.",
         "quando": "June to October. At dawn or late in the afternoon you have the lake without the crowds; at midday in summer it is packed.",
         "tempo": "1 hour around the lake, 3-4 hours with the path up to the Forcella del Lago",
+        "orari": "From 1 July to 15 September 2026, between 9am and 4pm, cars can enter the valley only with an online booking or a permit; before 9am and after 4pm access is free, and from 16 September the restrictions end.",
+        "lat": 46.69409,
+        "lng": 12.08546,
         "consiglio": "Sleeping in the valley and going to the lake at dawn or in the evening gives a different experience. Skip the rowing boat at midday: the queue is long and the lake is full."
       },
       {
@@ -221,6 +226,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Ortisei the cable car climbs to Furnes and then to Seceda (2,500 m). From the summit you can walk down toward Santa Cristina past the Rifugio Firenze.",
         "quando": "June to October, with the lifts running in summer. Take the first ride of the morning: clouds usually build by late morning.",
         "tempo": "half a day; a full day with the walk down",
+        "costo": "€74 return from Ortisei, €49 one way (summer 2026)",
+        "lat": 46.60059,
+        "lng": 11.72579,
+        "url": "https://www.seceda.it/it/estate",
         "consiglio": "The walk down to Santa Cristina is tough on the legs but leaves the crowd at the cable car arrival behind. Bring a jacket: it is windy at the top even in August."
       },
       {
@@ -229,6 +238,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Siusi allo Sciliar or from Ortisei take the cable car to Compaccio or Mont Seuc. On the plateau private cars are banned for most of the day: you get around on foot, by bus or by bike.",
         "quando": "June to October. In late September the larches turn yellow.",
         "tempo": "a full day",
+        "lat": 46.54111,
+        "lng": 11.64472,
         "consiglio": "The cable cars bring you straight to altitude: you can walk on the flat for hours and come down on the last ride. Check the time of the last descent."
       },
       {
@@ -237,6 +248,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From the Falzarego Pass or Bai de Dones, take the chairlift up to the Rifugio Scoiattoli, then walk among the towers and the museum. Cortina is a short drive away.",
         "quando": "Late June to mid October, with the lifts running.",
         "tempo": "3-4 hours including the open-air museum",
+        "orari": "Chairlift open from 6 June to 11 October 2026, first ride at 9am, last ride up and last ride down at 5pm.",
+        "lat": 46.50925,
+        "lng": 12.05397,
+        "url": "https://www.5torri.it",
         "consiglio": "It is one of the few easy hikes with history built into the landscape: knowing the First World War story first makes the towers far more interesting."
       },
       {
@@ -245,6 +260,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Trail 215, the busiest one, starts from the Tre Croci Pass, a few kilometres from Cortina. The final stretch has exposed passages with safety cables; hiking boots are needed. Swimming and camping at the lake are banned.",
         "quando": "Late June to September. Earlier, shaded stretches still hold snow.",
         "tempo": "5-6 hours round trip",
+        "costo": "free trail, no ticket",
+        "lat": 46.52056,
+        "lng": 12.2235,
         "consiglio": "Start early: the trail is narrow and in high season there is a queue right on the cables. The lake is the best point at the end, so aim to be there while there is still good light."
       },
       {
@@ -253,6 +271,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From San Martino di Castrozza the Colverde and Rosetta cable cars lead to the Rifugio Rosetta. From there you walk across the plateau.",
         "quando": "Late June to late September. The weather changes fast: leave early in the morning.",
         "tempo": "a full day",
+        "lat": 46.26744,
+        "lng": 11.83902,
         "consiglio": "There are no landmarks on the plateau and in fog it is easy to get lost: carry a map or a downloaded GPS track."
       },
       {
@@ -261,7 +281,62 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Passo Fedaia or Malga Ciapela, take the cable car to Punta Rocca. The Fedaia lake, below, can be walked around in an hour.",
         "quando": "June to September; glacier conditions need checking each season.",
         "tempo": "half a day with the cable car; the lake loop takes an hour",
+        "lat": 46.45971,
+        "lng": 11.8691,
         "consiglio": "Anyone who wants the glacier should go with a mountain guide and check conditions before leaving. For a light outing, Lake Fedaia is enough."
+      },
+      {
+        "nome": "Lago di Carezza",
+        "testo": "A small lake at about 1,500 metres below the spires of the Latemar, its water shifting between green and blue with the light. It is one of the most photographed lakes in South Tyrol and takes little time to see.",
+        "come": "In Val d'Ega, on the main road between Bolzano and the Costalunga Pass. From the paid car park an underpass leads to the shore. The banks are fenced off for protection: you walk round the lake on a loop path.",
+        "quando": "Early morning, when the water is still and the Latemar is reflected. May to October; the level is higher in early summer.",
+        "tempo": "30-45 minutes",
+        "lat": 46.40929,
+        "lng": 11.5751,
+        "consiglio": "It combines well with the Costalunga Pass and Val di Fassa on the same day."
+      },
+      {
+        "nome": "Passo Giau",
+        "testo": "A 2,236-metre pass between Cortina and Selva di Cadore, with the Ra Gusela wall right above the road and Cinque Torri, Tofane and Marmolada opposite. At sunset it is one of the finest viewpoints you can reach by car.",
+        "come": "By car or motorbike from Pocol (Cortina) or Selva di Cadore, on a road of hairpin bends. Trails lead from the pass to Rifugio Nuvolau and the Cinque Torri.",
+        "quando": "At sunset or early morning. The road is open in summer; in winter it can close for snow.",
+        "tempo": "1 hour for the view, half a day with a hike",
+        "costo": "no toll",
+        "lat": 46.48417,
+        "lng": 12.05167,
+        "consiglio": "Summer weekends bring a lot of motorbikes: weekdays and the edges of the day are quieter."
+      },
+      {
+        "nome": "Lagazuoi",
+        "testo": "A summit at about 2,750 metres above the Falzarego Pass, with a panoramic hut and tunnels dug into the rock during the First World War. From the terrace you see the Tofane, Marmolada and Civetta.",
+        "come": "From the Falzarego Pass the cable car climbs to Piccolo Lagazuoi in a few minutes. Experienced walkers can descend on foot through the war tunnels, with a helmet and headtorch.",
+        "quando": "In summer, when the cable car runs. Visibility is better in the morning; you can sleep at the hut for sunrise and sunset.",
+        "tempo": "half a day",
+        "lat": 46.52775,
+        "lng": 12.008,
+        "url": "https://www.lagazuoi.it",
+        "consiglio": "The tunnels are dark, steep and slippery: bring a helmet, headtorch and hiking boots."
+      },
+      {
+        "nome": "Sass Pordoi and the Sella Group",
+        "testo": "The cable car from the Pordoi Pass reaches almost 3,000 metres on the rocky Sella plateau, known as the Terrace of the Dolomites. From there a trail leads to Piz Boè, the highest peak of the group.",
+        "come": "From the Pordoi Pass, between Canazei and Arabba, by cable car. Piz Boè needs mountain boots and a steady step.",
+        "quando": "Morning, before the clouds rise. The cable car runs in summer.",
+        "tempo": "half a day; a full day with Piz Boè",
+        "lat": 46.50061,
+        "lng": 11.80641,
+        "consiglio": "It is cold on the Sella even in August: bring a jacket and layers."
+      },
+      {
+        "nome": "Lago di Misurina",
+        "testo": "A lake at about 1,750 metres on the road to the Tre Cime, with the Sorapis reflected in the water. A flat path runs all the way round, and shuttles to Rifugio Auronzo leave from here.",
+        "come": "By car from Cortina or Auronzo. Parking on the shore; the loop is on foot.",
+        "quando": "Sunrise or late afternoon. Open all year, frozen in winter.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "lat": 46.58194,
+        "lng": 12.25389,
+        "consiglio": "If the Tre Cime toll road is full, you can leave the car here and take the shuttle up."
       }
     ],
     programmi: [
@@ -272,6 +347,13 @@ export const destinazioniItalia: Destinazione[] = [
           "Walk down toward the Rifugio Firenze and have lunch with canederli and barley soup.",
           "In the afternoon continue to Santa Cristina and take the bus back to Ortisei.",
           "Dinner in Ortisei with speck, Schlutzkrapfen and a glass of Lagrein."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1, Val Gardena: first cable car to Seceda, walk down via Rifugio Firenze to Santa Cristina, evening in Ortisei.",
+          "Day 2, Alpe di Siusi or Sass Pordoi: gondola up to the plateau and a walk between the alpine huts, or the Pordoi cable car onto the Sella; on the way back, a stop at Lago di Carezza."
         ]
       },
       {
@@ -297,22 +379,26 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Val Gardena (Ortisei, Santa Cristina, Selva)",
         "perChi": "first trip, families, anyone who wants services",
-        "testo": "The best-equipped hub: many lifts, valley buses, excellent restaurants. In high season it is expensive and crowded, and the valley floor is built up. The cable cars take you straight to Seceda and the Alpe di Siusi."
+        "testo": "The best-equipped hub: many lifts, valley buses, excellent restaurants. In high season it is expensive and crowded, and the valley floor is built up. The cable cars take you straight to Seceda and the Alpe di Siusi.",
+        "fascia": "€180-350"
       },
       {
         "nome": "Val Badia and Alta Badia (Corvara, La Villa, San Cassiano)",
         "perChi": "return visitors who want to really hike",
-        "testo": "Living Ladin culture, great food, a base for the Sella and the Fanes-Sennes-Braies Park. A notch cheaper than Gardena. The passes are full of motorbikes and bicycles in summer."
+        "testo": "Living Ladin culture, great food, a base for the Sella and the Fanes-Sennes-Braies Park. A notch cheaper than Gardena. The passes are full of motorbikes and bicycles in summer.",
+        "fascia": "€160-320"
       },
       {
         "nome": "Cortina d'Ampezzo and Misurina",
         "perChi": "Tre Cime, Cinque Torri, Sorapis, First World War history",
-        "testo": "Close to the best-known places, but expensive and with the glamour of a high-society resort. After the 2026 Olympics it is worth checking what is open and which building sites are still active. Misurina is smaller, on the lake, and closer to the Tre Cime."
+        "testo": "Close to the best-known places, but expensive and with the glamour of a high-society resort. After the 2026 Olympics it is worth checking what is open and which building sites are still active. Misurina is smaller, on the lake, and closer to the Tre Cime.",
+        "fascia": "€200-400"
       },
       {
         "nome": "Val di Fassa and San Martino di Castrozza",
         "perChi": "anyone who wants to spend less",
-        "testo": "Lower prices than South Tyrol for the same views, with Catinaccio, Marmolada and the Pale. Services and public transport are less polished, with longer distances between the hubs."
+        "testo": "Lower prices than South Tyrol for the same views, with Catinaccio, Marmolada and the Pale. Services and public transport are less polished, with longer distances between the hubs.",
+        "fascia": "€120-220"
       }
     ],
     sapori: [
@@ -348,6 +434,52 @@ export const destinazioniItalia: Destinazione[] = [
       "In some regions mountain rescue is paid for; take insurance that covers trekking and helicopter rescue.",
       "On via ferrata use a complete approved kit (helmet, harness, energy absorber) and do not go alone without experience.",
       "Parking: at the best-known spots in summer the spaces are gone early in the morning. Many pass roads have time limits or motorbike bans on certain days: read the signs."
+    ],
+    gite: [
+      {
+        "nome": "Val di Funes and Santa Maddalena",
+        "distanza": "35 km from Ortisei, about 45 minutes by car",
+        "come": "By car via Chiusa; paid parking above Santa Maddalena.",
+        "testo": "The little church of San Giovanni in Ranui in front of the Odle peaks is one of the best-known images of South Tyrol. The valley is quiet, with easy trails to the huts of the Puez-Odle park."
+      },
+      {
+        "nome": "Bolzano and the Ötzi Museum",
+        "distanza": "35 km from Ortisei, about 45 minutes by car",
+        "come": "By car or by valley bus to Bolzano station.",
+        "testo": "The capital of South Tyrol, with its arcades, the Piazza delle Erbe market and the Archaeological Museum that holds the Iceman. A good option for a rainy day."
+      },
+      {
+        "nome": "Bressanone (Brixen)",
+        "distanza": "30 km from Val di Funes, about 40 minutes by car",
+        "come": "By car or by train on the Brenner line.",
+        "testo": "A bishop's town with a cathedral, a frescoed cloister and a compact arcaded centre. Half a day is enough."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for the Dolomites?",
+        "risposta": "For one valley, 4-5 days with a hike each day. A full Alta Via takes 7-10. On a weekend it is best to stay in one area, such as Val Gardena."
+      },
+      {
+        "domanda": "Do you need to book for the Tre Cime di Lavaredo?",
+        "risposta": "Yes, to drive up to Rifugio Auronzo: from 2026 the toll road requires an online booking with a time slot, €40 per car. Otherwise take the shuttle from Misurina."
+      },
+      {
+        "domanda": "How do you get into Lago di Braies in summer?",
+        "risposta": "From 1 July to 15 September 2026, between 9am and 4pm, cars pass only with an online booking. Outside those hours access is free; buses and shuttles also run from Dobbiaco."
+      },
+      {
+        "domanda": "When is the best time to visit the Dolomites?",
+        "risposta": "From late June to mid-September, when huts and lifts are open. September is quieter with clearer air; July and August are the busiest and most expensive months."
+      },
+      {
+        "domanda": "Val Gardena or Cortina as a base?",
+        "risposta": "Val Gardena is handier for Seceda, Alpe di Siusi and the Sella, with good buses. Cortina is better for the Tre Cime, Cinque Torri, Sorapis and Lagazuoi. Both are expensive in high season."
+      },
+      {
+        "domanda": "Can you visit the Dolomites without a car?",
+        "risposta": "In South Tyrol, yes: valley buses and cable cars cover almost everything. On the Veneto side it is harder, but Cortina is reachable by bus from Venice and shuttles run from there to the passes."
+      }
     ],
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
@@ -2459,13 +2591,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Sicily has two different cuisines, one for each side. In Palermo Arab-Norman street food dominates: arancine (feminine, in Palermo), panelle, sfincione, bread with spleen for the brave. In the east fish and pasta prevail: pasta alla Norma in Catania, pasta con le sarde, sea urchins in Syracuse. Then the sweets, a chapter of their own: cannoli filled at the moment and never before, cassata, granita with brioche at breakfast, which in summer is the right way to start the day. The wine: Etna Rosso from Nerello Mascalese, Nero d'Avola, Grillo and Carricante.",
     comeArrivare:
-      "Flights to Palermo and Catania, the two main airports, plus Trapani and Comiso. By train and car you arrive by ferry from Villa San Giovanni: trains are still loaded onto the ship, something almost nowhere does anymore. From northern Italy the overnight ferries from Genoa, Livorno and Naples also carry cars.",
+      "Flights to Palermo and Catania, the two main airports, plus Trapani and Comiso. By train and car you arrive by ferry from Villa San Giovanni: trains are still loaded onto the ship, something almost nowhere does anymore. From northern Italy the overnight ferries from Genoa, Livorno and Naples also carry cars. From Palermo Falcone Borsellino the Prestia e Comandè bus reaches Politeama and the Central Station in about 50 minutes, every half hour, for about €6 online; the Trinacria Express train takes about an hour. From Catania Fontanarossa the Alibus reaches the centre in 20-30 minutes, €4.",
     comeSpostarsi:
       "**A car is indispensable.** The rail network is slow and covers little; for those who don't drive the alternative is buses, which however constrain you quite a bit. Highways connect Palermo, Catania and Messina; the rest is state road, with longer times than Google suggests.",
     periodoMigliore:
       "**May-June and September-October**, without a doubt. July and August are torrid (in the interior it often goes above 40 degrees), crowded and expensive. Winter is mild and excellent for the art cities and archaeological sites, with the sea out of play and many coastal places closed. April and November are excellent and little visited.",
     costi:
-      "Cheaper than the center-north on lodging and dining, with the exception of Taormina and the beach towns in August. Entrance to archaeological sites is modest; the combined ticket for several sites is almost always worthwhile.",
+      "Cheaper than the center-north on lodging and dining, with the exception of Taormina and the beach towns in August. Entrance to archaeological sites is modest; the combined ticket for several sites is almost always worthwhile. Rough daily budget per person, sharing a double: **budget €70-90** (B&Bs and street food), **mid-range €120-170** (central hotels, trattorias, a hire car split between two), **high from €250** (Taormina, Ortigia and seaside resorts).",
     erroriDaEvitare: [
       "Trying to do all of Sicily in a week: it's as big as a region and a half, the interior roads are slow, and the result is spending the vacation in the car",
       "Doing Agrigento at noon in summer: the Valley of the Temples has no shade and temperatures exceed 40 degrees",
@@ -2546,7 +2678,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the historic center of Palermo, near the Cathedral, in Piazza del Parlamento. Entry is by timed ticket; the visit is self-guided, audio guide optional.",
         "quando": "Monday-Saturday 8:30-16:30, Sundays and holidays 8:30-12:30 (last-entry times, Fondazione Federico II website). Morning, for the light on the mosaics. Check closures for ceremonies and regional assembly sittings.",
         "tempo": "1.5 hours",
-        "url": "https://www.fondazionefedericosecondo.it/",
+        "costo": "€19 with the Royal Palace, €15.50 for the Palatine Chapel only (2025-26 figure)",
+        "orari": "Palatine Chapel: Monday-Saturday 8:30am-4:30pm, Sundays and holidays 8:30am-12:30pm. The route including the Royal Palace is closed on Tuesday and Wednesday.",
+        "lat": 38.11083,
+        "lng": 13.35361,
+        "url": "https://federicosecondoonline.tm.vivaticket.com",
         "consiglio": "Look up: the apse mosaics fill a whole wall and the muqarnas ceiling is worth the stiff neck."
       },
       {
@@ -2555,6 +2691,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Palermo by AMAT bus 389 from Piazza Indipendenza (a short walk from the Palazzo dei Normanni) or by taxi. The cathedral is self-guided; the cloister has a separate entrance.",
         "quando": "Early morning or early afternoon. The schedule has a midday break: check first.",
         "tempo": "2 hours",
+        "costo": "cathedral free; cloister €8, free on the first Sunday of the month",
+        "orari": "Cathedral: Monday-Saturday 9am-12:45pm and 2-4:45pm, Sundays and holidays 2-5pm. Cloister: Monday-Saturday 9am-6:30pm, Sundays and holidays 9am-1pm.",
+        "lat": 38.08186,
+        "lng": 13.29207,
         "consiglio": "Go up to the roof terrace, if open: you walk above the nave and see Palermo."
       },
       {
@@ -2563,6 +2703,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the Teatro Massimo or the station. The market runs in the morning, until early afternoon.",
         "quando": "Morning. The market closes in the early afternoon. Sunday is quieter.",
         "tempo": "1-2 hours",
+        "costo": "free",
+        "lat": 38.11192,
+        "lng": 13.35952,
         "consiglio": "Eat standing at the stalls most crowded with Palermitans, not those with an English menu."
       },
       {
@@ -2571,6 +2714,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Agrigento station take a city bus to the entrance, or drive and pay for parking. The path along the ridge is flat.",
         "quando": "Early morning or sunset: at midday in summer there is no shade and the heat is intense. In summer there are evening openings: check the dates on the website.",
         "tempo": "3 hours",
+        "costo": "about €23 for the combined ticket with the Kolymbethra Garden (2026); some free Sundays, calendar on the website",
+        "orari": "Open every day of the year from 8:30am. From 20 June to 20 September it stays open in the evening, with entry until 10pm on weekdays and 11pm on the eve of holidays and on holidays.",
+        "lat": 37.2897,
+        "lng": 13.5922,
         "url": "https://www.parcovalledeitempli.it/",
         "consiglio": "On summer evenings you can visit with the temples lit up and a bearable temperature."
       },
@@ -2580,6 +2727,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Palermo, with Segesta closer and Selinunte farther. From the Segesta car park a shuttle goes up to the theatre.",
         "quando": "Morning, because of the heat. Selinunte at sunset is very beautiful.",
         "tempo": "2 hours at Segesta, 3 at Selinunte",
+        "lat": 37.94145,
+        "lng": 12.83307,
         "consiglio": "Sleep in Trapani or Marsala to see both sites calmly in a day and a half."
       },
       {
@@ -2588,6 +2737,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Catania by car or bus to the Rifugio Sapienza. Above a certain altitude a guide is compulsory. Closed shoes, warm layers and a windproof jacket.",
         "quando": "Morning or sunset with a clear sky. Ascents may be suspended for activity or weather.",
         "tempo": "Half a day, a full day with the crater excursion",
+        "costo": "cable car, 4x4 and guide package from about €80-95 per person (2026)",
+        "lat": 37.70022,
+        "lng": 14.99825,
         "url": "https://www.parcoetna.it/",
         "consiglio": "Bring more layers than seem necessary: it is cold at altitude even in summer."
       },
@@ -2597,6 +2749,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ortigia on foot from the bridge; the archaeological park on foot or by bus from the station. Self-guided.",
         "quando": "Neapolis early in the morning. In May-June, during the classical performances at the Greek theater, the visit may be limited.",
         "tempo": "A full day, half a day for Ortigia",
+        "costo": "Cathedral about €2-3; the Neapolis park has its own ticket or a combined one with the Paolo Orsi Museum",
+        "lat": 37.0596,
+        "lng": 15.29383,
         "consiglio": "Dine in Ortigia and sleep outside the limited traffic zone, where parking costs less."
       },
       {
@@ -2605,6 +2760,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car, the right way to do it: the three towns are close to each other. Park outside and walk.",
         "quando": "Early afternoon for the golden facades, evening for Noto lit up. Avoid August.",
         "tempo": "One day for two towns, two days for three",
+        "lat": 36.89137,
+        "lng": 15.07081,
         "consiglio": "Sleep in Ragusa Ibla or Modica: quiet and with great restaurants, and you save compared to Noto."
       },
       {
@@ -2613,6 +2770,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Train to Taormina-Giardini, then a bus or taxi uphill. By car, leave it in a paid car park outside the center.",
         "quando": "Early morning, before the tourist buses, or at sunset. Very crowded in high season.",
         "tempo": "2 hours",
+        "costo": "about €14 (2026)",
+        "lat": 37.85245,
+        "lng": 15.29212,
         "consiglio": "Go up to Castelmola on foot or by car: a better view and far fewer people."
       },
       {
@@ -2621,6 +2781,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Enna or Catania, continuing to Piazza Armerina. Raised walkways guide the visit.",
         "quando": "Morning or early afternoon; avoid summer midday hours, the roof holds the heat.",
         "tempo": "1.5 hours",
+        "costo": "€14 full, €7 for ages 18-24; free on the first Sunday of the month",
+        "orari": "Every day. From late March to late October 9am-7pm, last entry 6pm; from late October to late March 9am-5:30pm, last entry 4:30pm.",
+        "lat": 37.36472,
+        "lng": 14.33455,
+        "url": "https://www.villaromanadelcasale.it",
         "consiglio": "Combine it with Enna and the Madonie: the interior changes your view of the island."
       },
       {
@@ -2629,7 +2794,33 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car to the entrance of each. At Zingaro and Vendicari you walk; for the Scala dei Turchi you go from the Realmonte beach.",
         "quando": "Spring and early summer or September. In August they are crowded and scorching. Entry to the Zingaro is paid.",
         "tempo": "Half a day each",
+        "costo": "Zingaro €5 full, €3 reduced; Scala dei Turchi about €6 in 20-minute slots, when open (2026); Vendicari free",
+        "orari": "Zingaro reserve: every day 8am-4pm.",
+        "lat": 38.10424,
+        "lng": 12.79083,
+        "url": "https://www.riservazingaro.it",
         "consiglio": "Bring water, a hat and walking shoes even for the beach: there are no kiosks along the trails."
+      },
+      {
+        "nome": "Catania: Piazza del Duomo, Via Etnea and the Pescheria",
+        "testo": "Catania's baroque centre, rebuilt in lava stone after the 1693 earthquake. In the square stands the Liotru, the black stone elephant that symbolises the city; Via Etnea runs straight up towards the volcano. Close by, the Pescheria is the most theatrical fish market on the island.",
+        "come": "On foot from the station, or by Alibus from the airport in 20-30 minutes. With an hour to spare, visit the Benedictine Monastery, now part of the university.",
+        "quando": "The Pescheria in the morning, until lunchtime. Via Etnea in the evening, when it fills up.",
+        "tempo": "half a day",
+        "costo": "square and market free",
+        "lat": 37.50246,
+        "lng": 15.08821,
+        "consiglio": "Have pasta alla Norma for dinner: it is the city dish, named after the opera by Bellini, who was born here."
+      },
+      {
+        "nome": "Cefalù and its Norman cathedral",
+        "testo": "A fishing town under a crag, with a long beach in front of the old centre. The cathedral, built by Roger II, belongs to the Arab-Norman UNESCO site with Palermo and Monreale: its apse holds a mosaic Christ Pantocrator among the finest of the Middle Ages.",
+        "come": "By train from Palermo Centrale in about an hour, then on foot from the station to the centre. Drivers use the paid car parks above the seafront.",
+        "quando": "April to October to add the beach; early morning for the cathedral, before the groups.",
+        "tempo": "half a day, or a full day with the beach",
+        "lat": 38.03983,
+        "lng": 14.02359,
+        "consiglio": "If your legs allow, climb the Rocca above the town: a path of about an hour leads to the remains of the Temple of Diana and a view over the whole coast."
       }
     ],
     programmi: [
@@ -2641,6 +2832,13 @@ export const destinazioniItalia: Destinazione[] = [
           "Lunch: street food at Ballarò.",
           "Afternoon: Monreale by bus or taxi.",
           "Evening: back to Palermo, dinner with Sicilian wine."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1, Palermo: Palatine Chapel in the morning, lunch at Ballarò, Monreale in the afternoon.",
+          "Day 2, Cefalù: train from Palermo Centrale, cathedral in the morning, afternoon on the beach or up the Rocca, back in the evening."
         ]
       },
       {
@@ -2666,22 +2864,26 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Central Palermo",
         "perChi": "Those who want city, food and art",
-        "testo": "Ideal base for the west. Noisy and chaotic, with excellent markets, but parking is hard: better sleep somewhere with a garage."
+        "testo": "Ideal base for the west. Noisy and chaotic, with excellent markets, but parking is hard: better sleep somewhere with a garage.",
+        "fascia": "€70-140"
       },
       {
         "nome": "Catania",
         "perChi": "Those who arrive by plane and want Etna",
-        "testo": "Base for Etna, Syracuse and Taormina. Baroque and lively, with a somewhat neglected center off the main streets. Busy evenings, movement at night too."
+        "testo": "Base for Etna, Syracuse and Taormina. Baroque and lively, with a somewhat neglected center off the main streets. Busy evenings, movement at night too.",
+        "fascia": "€60-120"
       },
       {
         "nome": "Ortigia, Syracuse",
         "perChi": "Those who want a pedestrian center and the sea",
-        "testo": "A small compact island, beautiful in the evening, with a limited traffic zone. Rooms are expensive in high season and parking is off the island."
+        "testo": "A small compact island, beautiful in the evening, with a limited traffic zone. Rooms are expensive in high season and parking is off the island.",
+        "fascia": "€90-180"
       },
       {
         "nome": "Ragusa Ibla and Modica",
         "perChi": "Those who want a calm base for the Baroque",
-        "testo": "Calmer and cheaper than Taormina and Noto, with excellent food. You need a car and some patience with the uphill streets."
+        "testo": "Calmer and cheaper than Taormina and Noto, with excellent food. You need a car and some patience with the uphill streets.",
+        "fascia": "€70-130"
       }
     ],
     sapori: [
@@ -2717,6 +2919,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Pickpockets in the markets and the centers of Palermo and Catania: bag in front, phone in pocket.",
       "Travel times are longer than expected on inland state roads: allow extra time beyond what the map says.",
       "Tourist tax in the main cities: paid at the hotel, check the municipality's amount."
+    ],
+    gite: [
+      {
+        "nome": "Aeolian Islands (Lipari and Vulcano)",
+        "distanza": "about 1 hour by hydrofoil from Milazzo",
+        "come": "By car or bus to Milazzo port, then hydrofoil to Vulcano and Lipari. Sailings are frequent in summer; in winter they are few and weather-dependent.",
+        "testo": "Seven volcanic islands: on Vulcano you climb the crater and try the mud baths, Lipari has its castle and archaeological museum. A day gives you a taste, but it is worth staying overnight."
+      },
+      {
+        "nome": "Erice",
+        "distanza": "15 km from Trapani, with a cable car from the lower town",
+        "come": "Cable car from Trapani (when running) or by car on a road of hairpin bends.",
+        "testo": "A medieval village 750 metres above Trapani, with paved lanes, the Castle of Venus and views over the salt pans and the Egadi Islands. The pastry shops sell the convent almond sweets."
+      },
+      {
+        "nome": "Favignana and the Egadi Islands",
+        "distanza": "about 30 minutes by hydrofoil from Trapani",
+        "come": "Hydrofoil from Trapani; on the island you get around by rented bike.",
+        "testo": "A flat island of tuff quarries and coves of very clear water, such as Cala Rossa and Bue Marino. It is at its best in May-June and September."
+      },
+      {
+        "nome": "Alcantara Gorges",
+        "distanza": "about 20 km from Taormina",
+        "come": "By car or bus from Taormina and Giardini Naxos.",
+        "testo": "A basalt canyon cut by the river through Etna lava flows, with prism-shaped lava columns. You walk in icy water: bring water shoes or waders."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need to visit Sicily?",
+        "risposta": "For one half of the island 7-8 days, for the full loop at least 12-14. On a long weekend, choose one city, Palermo or Catania, and its day trips."
+      },
+      {
+        "domanda": "Eastern or western Sicily?",
+        "risposta": "The east for a first visit, for Etna, Syracuse, the Val di Noto baroque and Taormina, with shorter distances. The west for Palermo, Monreale, Segesta and Selinunte, with fewer tourists and lower prices."
+      },
+      {
+        "domanda": "Do you need a car in Sicily?",
+        "risposta": "Almost always: trains are slow and cover little. Without a car you can do Palermo with Monreale and Cefalù, or Catania with Syracuse and Taormina, using buses and regional trains."
+      },
+      {
+        "domanda": "When should you go to Sicily?",
+        "risposta": "May-June and September-October. July and August are scorching, above 40 degrees inland, crowded and expensive; winter is mild and fine for cities and archaeological sites."
+      },
+      {
+        "domanda": "Do you need to book the Palatine Chapel?",
+        "risposta": "It is not compulsory, but an online ticket saves queuing. Hours change with the activities of the Regional Assembly, which sits in the palace: the route including the Royal Palace is closed on Tuesday and Wednesday."
+      },
+      {
+        "domanda": "Can you climb Etna on your own?",
+        "risposta": "As far as Rifugio Sapienza and the Silvestri craters, yes, by car. Above a certain altitude a guide is compulsory, and the summit area can close without notice because of volcanic activity."
+      }
     ],
     esperienzeSlugs: ['etna'],
     tripSlugs: ['sicilia-itinerario', 'sicilia-completa'],

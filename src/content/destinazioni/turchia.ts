@@ -369,11 +369,10 @@ export const destinazioniTurchia: Destinazione[] = [
       'Göreme per comodità, Uçhisar e Ortahisar per la vista e la calma, Ürgüp per ristoranti e cantine. Economiche: pensioni di Göreme · fascia media: cave hotel di Göreme e Uçhisar · lusso: Argos in Cappadocia, Museum Hotel.',
     doveMangiare:
       'Testi kebab cotto nel vaso di terracotta, mantı (ravioli con yogurt), pide, i vini di Ürgüp e Uçhisar.',
-    comeArrivare: 'Voli da Istanbul su Kayseri (ASR, 1 ora di transfer) o Nevşehir (NAV, 40 minuti); bus notturni da Istanbul (circa 10-11 ore).',
+    comeArrivare: "Da Istanbul si vola in circa un'ora su Kayseri (ASR) o Nevşehir (NAV), indicativamente 40-90 € con bagaglio. Da Kayseri a Göreme ci sono circa un'ora di transfer, da Nevşehir circa 40 minuti; i transfer condivisi, indicativamente 10-15 € a persona, si prenotano con l'hotel in base all'orario del volo. In alternativa i bus notturni da Istanbul impiegano 10-11 ore, e quelli per Pamukkale partono da Göreme e Nevşehir (9-10 ore, 20-35 €).",
     comeSpostarsi: 'Auto a noleggio o tour giornalieri (Red Tour, Green Tour); i dolmuş collegano Göreme, Uçhisar, Avanos e Ürgüp.',
     periodoMigliore: 'aprile-giugno e settembre-ottobre; d\'inverno c\'è la neve e il paesaggio è bellissimo, ma più voli in mongolfiera vengono annullati',
-    costi:
-      'Mongolfiera indicativamente 180-350 € a persona secondo stagione; museo all\'aperto di Göreme intorno ai 20-25 €; Derinkuyu intorno ai 15-20 €; Museum Pass Cappadocia intorno ai 45-50 € (indicativi).',
+    costi: "Budget basso circa 50-70 € al giorno a persona (pensione a Göreme, dolmuş, un museo, cibo nei locali del paese); medio 110-170 € (cave hotel, un tour giornaliero o auto, due siti al giorno, cene con vino); alto da 300 € in su (cave hotel con terrazza a Uçhisar, mongolfiera, guida privata). Biglietti 2026: museo all'aperto di Göreme 20 €, Chiesa Oscura 6 €, Zelve-Paşabağ 12 €, Derinkuyu o Kaymaklı 13 €; mongolfiera 150-350 €.",
     erroriDaEvitare: [
       'Prenotare la mongolfiera per l\'ultima mattina: col vento i voli si annullano, e conviene avere almeno un giorno di riserva',
       'Scegliere l\'operatore solo in base al prezzo: contano la licenza e il numero di passeggeri per cesta',
@@ -385,11 +384,14 @@ export const destinazioniTurchia: Destinazione[] = [
         "nome": "Museo all'aperto di Göreme",
         "testo": "Un gruppo di chiese e monasteri rupestri scavati nei coni di roccia, con affreschi in gran parte del X e XI secolo. La Chiesa Oscura (Karanlık) è una delle più belle.",
         "come": "Da Göreme a piedi o in navetta.",
-        "quando": "Aperto tutti i giorni 8-17, biglietteria fino alle 16.15 (novembre 2026). All'apertura, prima dei gruppi.",
+        "quando": "All'apertura, prima dei gruppi.",
         "tempo": "1,5-2 ore",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Chiedere in biglietteria se la Chiesa Oscura richiede un supplemento: i colori valgono la sosta.",
-        "costo": "Prezzo per i visitatori stranieri sul sito ufficiale"
+        "costo": "20 € per i visitatori stranieri (muze.gov.tr, 2026); Chiesa Oscura 6 € a parte",
+        "orari": "Tutti i giorni 8-17, biglietteria fino alle 16.15 (2026)",
+        "lat": 38.6427,
+        "lng": 34.84503,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=GRM01&DistId=GRM",
+        "consiglio": "Chiedere in biglietteria se la Chiesa Oscura richiede un supplemento: i colori valgono la sosta."
       },
       {
         "nome": "Mongolfiera all'alba",
@@ -404,7 +406,10 @@ export const destinazioniTurchia: Destinazione[] = [
         "testo": "Sentieri tra rocce rosa e rosse con chiese scavate nella roccia, belle al tramonto.",
         "come": "Partenza a piedi da Göreme o in auto fino a un belvedere.",
         "quando": "Tramonto.",
-        "tempo": "2-3 ore"
+        "tempo": "2-3 ore",
+        "costo": "Gratis",
+        "lat": 38.65099,
+        "lng": 34.85359
       },
       {
         "nome": "Derinkuyu e Kaymaklı",
@@ -412,24 +417,140 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "In auto o in tour da Göreme.",
         "quando": "Mattina presto per evitare la folla nei corridoi.",
         "tempo": "1-1,5 ore",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Chi soffre di claustrofobia valuti bene: i corridoi sono stretti e bassi.",
-        "costo": "Prezzi per i visitatori stranieri sul sito ufficiale"
+        "costo": "13 € ciascuna per i visitatori stranieri (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8-17, biglietteria fino alle 16.15 (2026)",
+        "lat": 38.37357,
+        "lng": 34.7351,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=DKY01&DistId=DKY",
+        "consiglio": "Chi soffre di claustrofobia valuti bene: i corridoi sono stretti e bassi."
+      },
+      {
+        "nome": "Chiesa Oscura (Karanlık Kilise)",
+        "testo": "La chiesa del museo all'aperto con gli affreschi meglio conservati della Cappadocia: le poche finestre hanno protetto i colori, soprattutto il blu dei fondi. È stata restaurata e si paga a parte.",
+        "come": "Dentro il museo all'aperto di Göreme, biglietto separato.",
+        "quando": "Nella stessa visita al museo, presto.",
+        "tempo": "15-20 minuti",
+        "costo": "6 € per i visitatori stranieri (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8-17, biglietteria fino alle 16.45 (2026)",
+        "lat": 38.6387,
+        "lng": 34.84626,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=GRM02&DistId=GRM"
+      },
+      {
+        "nome": "Zelve e Paşabağ",
+        "testo": "Due siti in un biglietto: Zelve è una valle di case e chiese scavate, abitata fino agli anni Cinquanta e lasciata per il rischio di crolli; Paşabağ, la valle dei Monaci, ha i camini delle fate a più cappelli, con le celle degli eremiti.",
+        "come": "In auto, quad o dolmuş verso Avanos, 10-15 minuti da Göreme.",
+        "quando": "Tardo pomeriggio, con la luce radente.",
+        "tempo": "1,5-2 ore",
+        "costo": "12 € per i visitatori stranieri (muze.gov.tr, 2026)",
+        "orari": "Tutti i giorni 8-17, biglietteria fino alle 16.15 (2026)",
+        "lat": 38.66917,
+        "lng": 34.86337,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=ZPO01&DistId=ZPO"
+      },
+      {
+        "nome": "Valle di Devrent",
+        "testo": "Detta anche Valle dell'Immaginazione: rocce rosa senza chiese né case, dove si cercano le forme di animali, la più famosa è il cammello. Si vede in poco tempo dalla strada.",
+        "come": "In auto tra Zelve e Ürgüp, sosta sul bordo della strada.",
+        "quando": "Fine pomeriggio.",
+        "tempo": "20-30 minuti",
+        "costo": "Gratis",
+        "lat": 38.67262,
+        "lng": 34.88551
+      },
+      {
+        "nome": "Cittadella di Uçhisar",
+        "testo": "Lo sperone di roccia più alto della zona, bucato da stanze e passaggi, che domina il villaggio di Uçhisar. Dalla cima si vedono Göreme, le valli e, nelle giornate limpide, il vulcano Erciyes.",
+        "come": "In auto o in dolmuş da Göreme, 10 minuti; scalini fino in cima.",
+        "quando": "Al tramonto.",
+        "tempo": "45 minuti-1 ora",
+        "lat": 38.63033,
+        "lng": 34.80556
+      },
+      {
+        "nome": "Valle dell'Amore",
+        "testo": "La valle dei grandi pinnacoli a forma di fungo allungato, la più fotografata dalle mongolfiere. Un sentiero la percorre sul fondo, tra vigne e alberi da frutto.",
+        "come": "A piedi da Göreme o dalla strada di Uçhisar; il sentiero è facile ma poco segnalato.",
+        "quando": "All'alba, sotto le mongolfiere, o nel pomeriggio.",
+        "tempo": "2-3 ore a piedi",
+        "costo": "Gratis",
+        "lat": 38.66069,
+        "lng": 34.81961
+      },
+      {
+        "nome": "Valle dei Piccioni",
+        "testo": "La valle tra Uçhisar e Göreme che prende il nome dalle migliaia di colombaie scavate nella roccia, usate per raccogliere il guano come concime per le vigne. Il sentiero scende in un canyon verde.",
+        "come": "A piedi, da Uçhisar in discesa verso Göreme.",
+        "quando": "Mattina o pomeriggio, evitando le ore calde d'estate.",
+        "tempo": "1,5-2 ore",
+        "costo": "Gratis",
+        "lat": 38.63278,
+        "lng": 34.81611
+      },
+      {
+        "nome": "Castello di Ortahisar",
+        "testo": "L'altro grande sperone fortificato della Cappadocia, nel villaggio di Ortahisar, meno frequentato di Uçhisar. Intorno, magazzini nel tufo dove si conservano agrumi e patate.",
+        "come": "In auto da Göreme o Ürgüp, 10 minuti.",
+        "quando": "Pomeriggio.",
+        "tempo": "45 minuti",
+        "lat": 38.61994,
+        "lng": 34.86433
+      },
+      {
+        "nome": "Avanos",
+        "testo": "La cittadina sul Kızılırmak, il fiume più lungo della Turchia, famosa per la ceramica fatta con l'argilla rossa del fiume. Si entra nei laboratori a vedere il tornio a pedale.",
+        "come": "In dolmuş o in auto da Göreme, 15 minuti.",
+        "quando": "Pomeriggio, insieme a Zelve e Paşabağ.",
+        "tempo": "1-2 ore",
+        "lat": 38.715,
+        "lng": 34.84667
+      },
+      {
+        "nome": "Valle di Ihlara",
+        "testo": "Un canyon profondo un centinaio di metri scavato dal fiume Melendiz, con un sentiero lungo il torrente e chiese rupestri affrescate nelle pareti. È la camminata più verde della regione.",
+        "come": "In auto o con il Green Tour, circa 1,5 ore da Göreme; il tratto classico va da Ihlara a Belisırma.",
+        "quando": "Mattina, d'estate per il fresco del fiume.",
+        "tempo": "mezza giornata",
+        "lat": 38.2575,
+        "lng": 34.29528,
+        "consiglio": "Pranzo nei ristoranti sul torrente di Belisırma, poi taxi per tornare all'auto."
+      },
+      {
+        "nome": "Monastero di Selime",
+        "testo": "Il grande complesso rupestre in fondo alla valle di Ihlara, con una cattedrale scavata su due piani, cucine e stalle. Il paesaggio intorno è stato usato come set per film di fantascienza.",
+        "come": "In auto o con il Green Tour, abbinato a Ihlara.",
+        "quando": "Pomeriggio, dopo Ihlara.",
+        "tempo": "45 minuti-1 ora",
+        "lat": 38.3012,
+        "lng": 34.25943
       }
     ],
     programmi: [
       {
+        "titolo": "1 giorno",
+        "tappe": [
+          "All'alba: mongolfiera, o il cielo pieno di palloni dalle terrazze di Göreme",
+          "Museo all'aperto di Göreme e Chiesa Oscura",
+          "Pomeriggio: Zelve, Paşabağ e Devrent",
+          "Tramonto sulla Valle Rossa"
+        ]
+      },
+      {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: mongolfiera, museo all'aperto di Göreme, Valle Rossa al tramonto",
-          "Giorno 2: Derinkuyu, valle di Ihlara, Uçhisar"
+          "Giorno 1 come sopra",
+          "Giorno 2: città sotterranea di Derinkuyu o Kaymaklı",
+          "Valle di Ihlara e monastero di Selime",
+          "Tramonto dalla cittadella di Uçhisar"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1-2 come sopra",
-          "Giorno 3: trekking nella Valle d'Amore e dei Piccioni, tramonto a Uçhisar"
+          "Giorni 1-2 come sopra",
+          "Giorno 3: trekking nella Valle dei Piccioni e nella Valle dell'Amore",
+          "Pomeriggio ad Avanos tra i laboratori di ceramica, o castello di Ortahisar",
+          "Cena e vino a Ürgüp, con il giorno di riserva per la mongolfiera"
         ]
       }
     ],
@@ -437,12 +558,14 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Göreme",
         "perChi": "chi vuole stare vicino a tutto",
-        "testo": "Hotel in grotta, ristoranti e partenze delle mongolfiere. Il più turistico."
+        "testo": "Hotel in grotta, ristoranti e partenze delle mongolfiere. Il più turistico.",
+        "fascia": "40-170 €"
       },
       {
         "nome": "Uçhisar",
         "perChi": "chi vuole vista e quiete",
-        "testo": "Villaggio sotto il castello, hotel di charme con terrazza panoramica."
+        "testo": "Villaggio sotto il castello, hotel di charme con terrazza panoramica.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Ürgüp / Mustafapaşa",
@@ -475,6 +598,52 @@ export const destinazioniTurchia: Destinazione[] = [
       "Noleggi di quad e cavalli: verificare condizioni dei mezzi e assicurazione prima di partire."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Valle di Soğanlı",
+        "distanza": "circa 55-60 km, 1 ora",
+        "come": "In auto; non ci sono tour regolari.",
+        "testo": "Due valli con chiese rupestri dipinte e il villaggio delle bambole di pezza, quasi senza turisti. Una Cappadocia come doveva essere prima del boom."
+      },
+      {
+        "nome": "Kayseri",
+        "distanza": "circa 75 km, 1 ora",
+        "come": "In auto o in bus da Nevşehir; da qui partono molti voli per Istanbul.",
+        "testo": "La città selgiuchide ai piedi del vulcano Erciyes, con la cittadella, le scuole coraniche del Duecento e il bazar. D'inverno sull'Erciyes si scia."
+      },
+      {
+        "nome": "Hacıbektaş",
+        "distanza": "circa 55 km, 45 minuti",
+        "come": "In auto da Göreme o Avanos.",
+        "testo": "Il complesso del santo sufi Hacı Bektaş Veli, centro della tradizione alevi, con il museo e il mausoleo in un giardino tranquillo."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono in Cappadocia?",
+        "risposta": "Tre notti: due giorni pieni per musei, valli e città sotterranee, più una mattina di riserva per la mongolfiera, che con il vento viene annullata."
+      },
+      {
+        "domanda": "Meglio dormire a Göreme, Uçhisar o Ürgüp?",
+        "risposta": "Göreme è il più comodo, con tutto a piedi; Uçhisar e Ortahisar sono più tranquilli e panoramici; Ürgüp ha più ristoranti e cantine ma serve l'auto per le valli."
+      },
+      {
+        "domanda": "Quanto costa la mongolfiera e quando si vola?",
+        "risposta": "Non esiste un prezzo ufficiale: di massima 150-350 € a persona secondo stagione, operatore e numero di passeggeri nel cesto. Si vola all'alba e il volo dura circa un'ora."
+      },
+      {
+        "domanda": "Meglio Derinkuyu o Kaymaklı?",
+        "risposta": "Derinkuyu scende di più ed è più spettacolare, Kaymaklı è più vicina a Göreme e spesso meno affollata. Il biglietto costa 13 € in entrambe: per la maggior parte delle persone ne basta una."
+      },
+      {
+        "domanda": "Serve l'auto in Cappadocia?",
+        "risposta": "Non è indispensabile: tra Göreme, Uçhisar, Avanos e Ürgüp ci sono i dolmuş, e Ihlara e le città sotterranee si fanno con il Green Tour. L'auto dà libertà per tramonti e valli lontane."
+      },
+      {
+        "domanda": "Conviene il Museum Pass Cappadocia?",
+        "risposta": "Con Göreme (20 €), Chiesa Oscura (6 €), Zelve-Paşabağ (12 €) e una città sotterranea (13 €) si arriva a 51 €; il pass, intorno ai 65 € per tre giorni, conviene solo se si aggiungono altri siti."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Mongolfiere sopra le valli di tufo del parco nazionale di Göreme, in Cappadocia',

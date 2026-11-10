@@ -40,13 +40,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'In rifugio la cucina è precisa e ripetitiva, e dopo tre giorni la si ama: canederli in brodo, gulasch, polenta con formaggio fuso e funghi, Kaiserschmarrn come dolce, e la zuppa d\'orzo che è il piatto d\'alta quota per eccellenza. In fondovalle l\'Alto Adige ha una cucina sua, né italiana né austriaca: speck, Schlutzkrapfen (i ravioli di segale con spinaci), strudel, e i Törggelen autunnali nei masi, quando esce il vino nuovo. Da bere, il Lagrein e la Schiava in Alto Adige, il Teroldego in Trentino.',
     comeArrivare:
-      'L\'auto è il mezzo più pratico, e per certe valli l\'unico sensato. In treno si arriva a Bolzano, Bressanone o Calalzo e si prosegue con i bus di valle, buoni in Alto Adige e molto meno in Veneto. Gli aeroporti utili sono Venezia, Verona, Innsbruck e Treviso.',
+      "L'auto è il mezzo più pratico, e per certe valli l'unico sensato. In treno si arriva a Bolzano, Bressanone o Calalzo e si prosegue con i bus di valle, buoni in Alto Adige e molto meno in Veneto. Gli aeroporti utili sono Venezia, Verona, Innsbruck e Treviso, a 2-3 ore d'auto dalle valli. Senza auto, da Venezia i bus Cortina Express e ATVO arrivano a Cortina in circa 2 ore e un quarto, a 10-30 € secondo la data.",
     comeSpostarsi:
       'Auto, con l\'avvertenza che **d\'estate i parcheggi dei punti più noti si esauriscono entro le otto del mattino** e diverse strade sono contingentate. I bus dell\'Alto Adige, inclusi nelle card locali di molte strutture, funzionano bene e permettono di lasciare l\'auto ferma; in Veneto la copertura è peggiore. Le funivie estive fanno risparmiare centinaia di metri di dislivello e vanno messe in conto nel budget.',
     periodoMigliore:
       '**da fine giugno a metà settembre**, quando i rifugi sono aperti; prima e dopo gran parte della rete è chiusa e certi sentieri alti hanno ancora neve. Luglio e agosto sono i mesi più affollati e più cari. **Settembre è il mese migliore**: meno gente, aria limpida, bei colori e rifugi aperti fino a fine mese. A giugno i nevai residui sui passi alti sono una variabile seria.',
     costi:
-      'Mezza pensione in rifugio indicativamente 60-80€ a persona, con sconti per i soci CAI e delle associazioni alpinistiche affiliate: la tessera si ripaga in tre notti. **Pedaggio per le Tre Cime attorno ai 40€ per auto** (valido 12 ore, con prenotazione obbligatoria), funivie 15-30€ a tratta, noleggio del kit da ferrata 15-25€ al giorno.',
+      "Mezza pensione in rifugio indicativamente 60-80€ a persona, con sconti per i soci CAI e delle associazioni alpinistiche affiliate: la tessera si ripaga in tre notti. **Pedaggio per le Tre Cime attorno ai 40€ per auto** (valido 12 ore, con prenotazione obbligatoria), funivie 15-30€ a tratta, noleggio del kit da ferrata 15-25€ al giorno. Budget indicativo al giorno a persona, in doppia: **economico 90-120 €** (rifugi e agriturismi, pranzi in malga), **medio 160-220 €** (hotel di valle e una funivia al giorno), **alto da 300 €** (hotel con spa a Cortina o in Val Gardena).",
     erroriDaEvitare: [
       'Presentarsi alle Tre Cime o a Braies senza prenotazione: dal 2026 la strada delle Tre Cime richiede prenotazione online obbligatoria e Braies contingenta l\'accesso in auto tra le 9 e le 16 in alta stagione. Chi arriva senza torna indietro',
       'Prenotare i rifugi a giugno per agosto: i posti si esauriscono da gennaio-febbraio, e per le camere private anche prima',
@@ -211,6 +211,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Dalla tarda primavera all'autunno, quando la strada è aperta: le date si controllano sul portale di prenotazione. Arrivare all'apertura o nel tardo pomeriggio: nelle ore centrali di luglio e agosto il sentiero è una fila continua.",
         "tempo": "3-4 ore per il giro completo (circa 10 km)",
         "costo": "40 euro per auto, 2026; la prenotazione online è obbligatoria e il ticket vale 12 ore dall'orario scelto. La navetta da Misurina al Rifugio Auronzo costa 10 euro a persona al giorno",
+        "lat": 46.6122,
+        "lng": 12.2961,
         "consiglio": "Ho fatto il giro in agosto e sembrava una fila indiana: a settembre si cammina con un terzo della gente. Se si parte presto, conviene girare in senso orario e salire al Locatelli con la luce laterale del mattino."
       },
       {
@@ -219,6 +221,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Dobbiaco si prende la strada della Val di Braies fino al parcheggio sul lago. D'estate l'accesso in auto è contingentato e nelle ore centrali richiede prenotazione: date e orari sul sito del Comune di Braies. In alternativa ci sono bus e navette da Dobbiaco e da Villabassa.",
         "quando": "Da giugno a ottobre. All'alba o nel tardo pomeriggio si ha il lago senza folla; a mezzogiorno d'estate è molto affollato.",
         "tempo": "1 ora per il giro del lago, 3-4 ore con il sentiero fino alla Forcella del Lago",
+        "orari": "Dal 1 luglio al 15 settembre 2026, tra le 9 e le 16, in auto si entra nella valle solo con prenotazione online o permesso; prima delle 9 e dopo le 16 l'accesso è libero, e dal 16 settembre le limitazioni finiscono.",
+        "lat": 46.69409,
+        "lng": 12.08546,
         "consiglio": "Chi dorme nella valle e va al lago all'alba o la sera ha un'altra esperienza. Evitare di noleggiare la barca a mezzogiorno: la coda è lunga e il lago è pieno."
       },
       {
@@ -227,6 +232,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Ortisei la funivia sale alla Furnes e poi alla Seceda (2.500 m). Dalla cima si può scendere a piedi verso Santa Cristina passando dal Rifugio Firenze.",
         "quando": "Da giugno a ottobre, con funivie aperte in estate. Meglio la prima corsa del mattino: le nuvole salgono di solito in tarda mattinata.",
         "tempo": "mezza giornata; una giornata con la discesa a piedi",
+        "costo": "74 € andata e ritorno da Ortisei, 49 € la sola andata (estate 2026)",
+        "lat": 46.60059,
+        "lng": 11.72579,
+        "url": "https://www.seceda.it/it/estate",
         "consiglio": "La discesa a piedi verso Santa Cristina costa fatica nelle gambe ma si lascia la folla all'arrivo della funivia. Portare una giacca: in cima tira vento anche ad agosto."
       },
       {
@@ -235,6 +244,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Siusi allo Sciliar o da Ortisei si sale in cabinovia fino alla Compaccio o al Mont Seuc. Sull'altopiano le auto private non possono salire quasi tutto il giorno: ci si muove a piedi, in bus o in bici.",
         "quando": "Da giugno a ottobre. A fine settembre i larici sono gialli.",
         "tempo": "una giornata",
+        "lat": 46.54111,
+        "lng": 11.64472,
         "consiglio": "Con le cabinovie si arriva direttamente in quota: si può camminare in piano per ore e rientrare con l'ultima corsa. Controllare l'orario dell'ultima discesa."
       },
       {
@@ -243,6 +254,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dal Passo Falzarego o da Bai de Dones, con la seggiovia fino al Rifugio Scoiattoli, poi si cammina tra le torri e il museo. Cortina è vicina in auto.",
         "quando": "Da fine giugno a metà ottobre, con gli impianti aperti.",
         "tempo": "3-4 ore con la visita al museo all'aperto",
+        "orari": "Seggiovia aperta dal 6 giugno all'11 ottobre 2026, prima corsa alle 9, ultima salita e ultima discesa alle 17.",
+        "lat": 46.50925,
+        "lng": 12.05397,
+        "url": "https://www.5torri.it",
         "consiglio": "È una delle poche escursioni facili con la storia dentro il paesaggio: arrivare con un pannello della Grande Guerra in mente rende le torri molto più interessanti."
       },
       {
@@ -251,6 +266,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dal Passo Tre Croci, a pochi chilometri da Cortina, parte il sentiero 215, il più frequentato. Nel tratto finale ci sono passaggi esposti con cavi di sicurezza; servono scarpe da trekking. Al lago è vietato fare il bagno e campeggiare.",
         "quando": "Da fine giugno a settembre. Prima, sui tratti ombrosi, si trova ancora neve.",
         "tempo": "5-6 ore andata e ritorno",
+        "costo": "sentiero libero, nessun biglietto",
+        "lat": 46.52056,
+        "lng": 12.2235,
         "consiglio": "Partire presto: il sentiero è stretto e in alta stagione si fa coda proprio sui cavi. Il lago è il punto più bello alla fine, ma va visitato in un orario in cui ci sia ancora luce."
       },
       {
@@ -259,6 +277,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da San Martino di Castrozza la funivia Colverde e la Rosetta portano al Rifugio Rosetta. Da lì si cammina sull'altopiano.",
         "quando": "Da fine giugno a fine settembre. Il tempo cambia in fretta: partire la mattina presto.",
         "tempo": "una giornata",
+        "lat": 46.26744,
+        "lng": 11.83902,
         "consiglio": "Sull'altopiano non ci sono punti di riferimento e con la nebbia ci si perde: portare una mappa o la traccia GPS scaricata."
       },
       {
@@ -267,7 +287,62 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dal Passo Fedaia o da Malga Ciapela, con la funivia fino a Punta Rocca. Il lago di Fedaia, sotto, si gira in un'ora.",
         "quando": "Da giugno a settembre; le condizioni del ghiacciaio sono da verificare ogni stagione.",
         "tempo": "mezza giornata con funivia; il giro del lago in un'ora",
+        "lat": 46.45971,
+        "lng": 11.8691,
         "consiglio": "Chi vuole il ghiacciaio deve andare con una guida alpina e informarsi sulle condizioni prima di partire. Per un'escursione leggera basta il Lago di Fedaia."
+      },
+      {
+        "nome": "Lago di Carezza",
+        "testo": "Un lago piccolo a circa 1.500 metri, sotto le guglie del Latemar, con l'acqua che cambia tra verde e blu secondo la luce. È uno dei laghi più fotografati dell'Alto Adige e si vede in poco tempo.",
+        "come": "In Val d'Ega, sulla statale tra Bolzano e il Passo di Costalunga. Dal parcheggio a pagamento un sottopasso porta alla riva. Le sponde sono recintate per proteggerle: si gira il lago su un sentiero ad anello.",
+        "quando": "Mattina presto, con il lago fermo e il Latemar riflesso. Da maggio a ottobre; a inizio estate il livello è più alto.",
+        "tempo": "30-45 minuti",
+        "lat": 46.40929,
+        "lng": 11.5751,
+        "consiglio": "Si combina bene con il Passo di Costalunga e la Val di Fassa nello stesso giorno."
+      },
+      {
+        "nome": "Passo Giau",
+        "testo": "Un valico a 2.236 metri tra Cortina e Selva di Cadore, con la parete del Ra Gusela proprio sopra la strada e, di fronte, Cinque Torri, Tofane e Marmolada. Al tramonto è uno dei punti panoramici più belli raggiungibili in auto.",
+        "come": "In auto o in moto da Pocol (Cortina) o da Selva di Cadore, su una strada di tornanti. Dal passo partono sentieri verso il Rifugio Nuvolau e le Cinque Torri.",
+        "quando": "Al tramonto o la mattina presto. La strada è aperta d'estate; d'inverno può chiudere per neve.",
+        "tempo": "1 ora per il panorama, mezza giornata con un sentiero",
+        "costo": "strada senza pedaggio",
+        "lat": 46.48417,
+        "lng": 12.05167,
+        "consiglio": "Nei fine settimana d'estate passano molte moto: in settimana e fuori dalle ore centrali è più tranquillo."
+      },
+      {
+        "nome": "Lagazuoi",
+        "testo": "Una cima a circa 2.750 metri sopra il Passo Falzarego, con un rifugio panoramico e le gallerie scavate nella roccia durante la Grande Guerra. Dalla terrazza si vedono Tofane, Marmolada e Civetta.",
+        "come": "Dal Passo Falzarego la funivia sale al Piccolo Lagazuoi in pochi minuti. Chi ha esperienza può scendere a piedi nelle gallerie di guerra, con casco e torcia frontale.",
+        "quando": "D'estate con la funivia aperta. La mattina c'è più visibilità; si può dormire al rifugio per vedere alba e tramonto.",
+        "tempo": "mezza giornata",
+        "lat": 46.52775,
+        "lng": 12.008,
+        "url": "https://www.lagazuoi.it",
+        "consiglio": "Le gallerie sono buie, ripide e scivolose: servono casco, frontale e scarpe da trekking."
+      },
+      {
+        "nome": "Sass Pordoi e Gruppo del Sella",
+        "testo": "La funivia dal Passo Pordoi arriva a quasi 3.000 metri sull'altopiano di roccia del Sella, chiamato la Terrazza delle Dolomiti. Da lì un sentiero porta al Piz Boè, la cima più alta del gruppo.",
+        "come": "Dal Passo Pordoi, tra Canazei e Arabba, con la funivia. Il Piz Boè richiede scarpe da montagna e passo sicuro.",
+        "quando": "Mattina, prima che salgano le nuvole. Funivia aperta in estate.",
+        "tempo": "mezza giornata; una giornata con il Piz Boè",
+        "lat": 46.50061,
+        "lng": 11.80641,
+        "consiglio": "Sul Sella fa freddo anche ad agosto: giacca e strati."
+      },
+      {
+        "nome": "Lago di Misurina",
+        "testo": "Un lago a circa 1.750 metri lungo la strada per le Tre Cime, con il Sorapis riflesso nell'acqua. Ha una passeggiata pianeggiante tutto intorno e da qui partono le navette per il Rifugio Auronzo.",
+        "come": "In auto da Cortina o da Auronzo. Parcheggi sulla riva; il giro del lago si fa a piedi.",
+        "quando": "Alba o tardo pomeriggio. Si visita tutto l'anno, d'inverno ghiacciato.",
+        "tempo": "1 ora",
+        "costo": "ingresso libero",
+        "lat": 46.58194,
+        "lng": 12.25389,
+        "consiglio": "Chi non trova posto al pedaggio delle Tre Cime può lasciare l'auto qui e salire in navetta."
       }
     ],
     programmi: [
@@ -278,6 +353,13 @@ export const destinazioniItalia: Destinazione[] = [
           "Scendere a piedi verso il Rifugio Firenze e pranzare con canederli e orzotto.",
           "Nel pomeriggio proseguire fino a Santa Cristina e rientrare in bus a Ortisei.",
           "Cena a Ortisei con speck, Schlutzkrapfen e un bicchiere di Lagrein."
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1, Val Gardena: prima funivia per la Seceda, discesa a piedi verso il Rifugio Firenze e Santa Cristina, sera a Ortisei.",
+          "Giorno 2, Alpe di Siusi o Sass Pordoi: cabinovia fino all'altopiano e giro tra le malghe, oppure funivia del Pordoi sul Sella; al ritorno, sosta al Lago di Carezza."
         ]
       },
       {
@@ -303,22 +385,26 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Val Gardena (Ortisei, Santa Cristina, Selva)",
         "perChi": "primo viaggio, famiglie, chi vuole servizi",
-        "testo": "Il polo più attrezzato: impianti numerosi, bus di valle, ottimi ristoranti. In alta stagione è cara e affollata, il fondovalle è costruito. Le funivie portano subito alla Seceda e all'Alpe di Siusi."
+        "testo": "Il polo più attrezzato: impianti numerosi, bus di valle, ottimi ristoranti. In alta stagione è cara e affollata, il fondovalle è costruito. Le funivie portano subito alla Seceda e all'Alpe di Siusi.",
+        "fascia": "180-350 €"
       },
       {
         "nome": "Val Badia e Alta Badia (Corvara, La Villa, San Cassiano)",
         "perChi": "chi torna e vuole camminare sul serio",
-        "testo": "Cultura ladina viva, ottima cucina, base per il Sella e per il Parco Fanes-Sennes-Braies. Un gradino più economica della Gardena. I passi in estate sono pieni di moto e bici."
+        "testo": "Cultura ladina viva, ottima cucina, base per il Sella e per il Parco Fanes-Sennes-Braies. Un gradino più economica della Gardena. I passi in estate sono pieni di moto e bici.",
+        "fascia": "160-320 €"
       },
       {
         "nome": "Cortina d'Ampezzo e Misurina",
         "perChi": "Tre Cime, Cinque Torri, Sorapis, storia della Grande Guerra",
-        "testo": "Vicina ai posti più noti, ma cara e con la mondanità di una località da gran mondo. Dopo le Olimpiadi 2026 conviene controllare cosa è aperto e quali cantieri ci sono. Misurina è più piccola, sul lago, e più vicina alle Tre Cime."
+        "testo": "Vicina ai posti più noti, ma cara e con la mondanità di una località da gran mondo. Dopo le Olimpiadi 2026 conviene controllare cosa è aperto e quali cantieri ci sono. Misurina è più piccola, sul lago, e più vicina alle Tre Cime.",
+        "fascia": "200-400 €"
       },
       {
         "nome": "Val di Fassa e San Martino di Castrozza",
         "perChi": "chi vuole spendere meno",
-        "testo": "Prezzi inferiori all'Alto Adige a parità di panorama, con Catinaccio, Marmolada e le Pale. Servizi e trasporti pubblici meno curati, distanze maggiori tra un polo e l'altro."
+        "testo": "Prezzi inferiori all'Alto Adige a parità di panorama, con Catinaccio, Marmolada e le Pale. Servizi e trasporti pubblici meno curati, distanze maggiori tra un polo e l'altro.",
+        "fascia": "120-220 €"
       }
     ],
     sapori: [
@@ -354,6 +440,52 @@ export const destinazioniItalia: Destinazione[] = [
       "Il soccorso alpino in montagna in alcune regioni si paga; conviene un'assicurazione con copertura per il trekking e per l'elisoccorso.",
       "Nelle ferrate usare kit completo omologato (casco, imbrago, dissipatore) e non andare da soli senza esperienza.",
       "Parcheggi: ai punti più noti d'estate i posti finiscono presto la mattina. Molte strade dei passi hanno limitazioni orarie o divieti per le moto in certi giorni: controllare i cartelli."
+    ],
+    gite: [
+      {
+        "nome": "Val di Funes e Santa Maddalena",
+        "distanza": "35 km da Ortisei, circa 45 minuti in auto",
+        "come": "In auto via Chiusa; parcheggio a pagamento sopra Santa Maddalena.",
+        "testo": "La chiesetta di San Giovanni in Ranui davanti alle Odle è una delle immagini più note dell'Alto Adige. La valle è tranquilla, con sentieri facili verso le malghe del Parco Puez-Odle."
+      },
+      {
+        "nome": "Bolzano e il Museo di Ötzi",
+        "distanza": "35 km da Ortisei, circa 45 minuti in auto",
+        "come": "In auto o con i bus di valle fino alla stazione di Bolzano.",
+        "testo": "Il capoluogo dell'Alto Adige, con i portici, il mercato di piazza delle Erbe e il Museo Archeologico che conserva l'Uomo venuto dal ghiaccio. Buona alternativa per una giornata di pioggia."
+      },
+      {
+        "nome": "Bressanone",
+        "distanza": "30 km dalla Val di Funes, circa 40 minuti in auto",
+        "come": "In auto o in treno sulla linea del Brennero.",
+        "testo": "Una cittadina vescovile con il duomo, il chiostro affrescato e un centro di portici compatto. Si gira in mezza giornata."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono per le Dolomiti?",
+        "risposta": "Per una valle bastano 4-5 giorni, con un'escursione al giorno. Un'Alta Via completa ne chiede 7-10. In un weekend conviene restare in una sola zona, per esempio la Val Gardena."
+      },
+      {
+        "domanda": "Serve la prenotazione per le Tre Cime di Lavaredo?",
+        "risposta": "Sì, per salire in auto al Rifugio Auronzo: dal 2026 la strada a pedaggio richiede prenotazione online con fascia oraria, 40 € per auto. In alternativa si sale con la navetta da Misurina."
+      },
+      {
+        "domanda": "Come si entra al Lago di Braies in estate?",
+        "risposta": "Dal 1 luglio al 15 settembre 2026, tra le 9 e le 16, in auto si passa solo con prenotazione online. Prima e dopo quelle ore l'accesso è libero; in alternativa bus e navette da Dobbiaco."
+      },
+      {
+        "domanda": "Qual è il periodo migliore per andare nelle Dolomiti?",
+        "risposta": "Da fine giugno a metà settembre, quando rifugi e impianti sono aperti. Settembre ha meno gente e aria più limpida; luglio e agosto sono i mesi più cari e affollati."
+      },
+      {
+        "domanda": "Val Gardena o Cortina come base?",
+        "risposta": "La Val Gardena è più comoda per Seceda, Alpe di Siusi e Sella, con ottimi bus. Cortina è meglio per Tre Cime, Cinque Torri, Sorapis e Lagazuoi. Entrambe sono care in alta stagione."
+      },
+      {
+        "domanda": "Si può visitare le Dolomiti senza auto?",
+        "risposta": "In Alto Adige sì: i bus di valle e le funivie coprono quasi tutto. Sul versante veneto è più difficile, ma Cortina si raggiunge in bus da Venezia e da lì partono navette per i passi."
+      }
     ],
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
@@ -2465,13 +2597,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'La Sicilia ha due cucine diverse, una per versante. A Palermo domina lo street food arabo-normanno: arancine (femminile, a Palermo), panelle, sfincione, pane con la milza per i coraggiosi. A est prevalgono il pesce e la pasta: pasta alla Norma a Catania, pasta con le sarde, ricci a Siracusa. Poi i dolci, un capitolo a parte: cannoli riempiti al momento e mai prima, cassata, granita con la brioche a colazione, che d\'estate è il modo giusto di cominciare la giornata. Il vino: Etna Rosso dal Nerello Mascalese, Nero d\'Avola, Grillo e Carricante.',
     comeArrivare:
-      'Voli su Palermo e Catania, i due scali principali, più Trapani e Comiso. In treno e in auto si arriva con il traghetto da Villa San Giovanni: i treni vengono ancora imbarcati sulla nave, cosa che non si fa quasi più da nessuna parte. Dal nord Italia i traghetti notturni da Genova, Livorno e Napoli portano anche l\'auto.',
+      "Voli su Palermo e Catania, i due scali principali, più Trapani e Comiso. In treno e in auto si arriva con il traghetto da Villa San Giovanni: i treni vengono ancora imbarcati sulla nave, cosa che non si fa quasi più da nessuna parte. Dal nord Italia i traghetti notturni da Genova, Livorno e Napoli portano anche l'auto. Da Palermo Falcone Borsellino il bus Prestia e Comandè porta al Politeama e alla Stazione Centrale in circa 50 minuti, ogni mezz'ora, a circa 6 € online; c'è anche il treno Trinacria Express, circa un'ora. Da Catania Fontanarossa l'Alibus arriva in centro in 20-30 minuti, 4 €.",
     comeSpostarsi:
       '**L\'auto è indispensabile.** La rete ferroviaria è lenta e copre poco, per chi non guida l\'alternativa sono gli autobus, che però vincolano parecchio. Le autostrade collegano Palermo, Catania e Messina; il resto è strada statale, con tempi più lunghi di quanto Google suggerisca.',
     periodoMigliore:
       '**maggio-giugno e settembre-ottobre**, senza dubbio. Luglio e agosto sono torridi (nell\'interno si superano spesso i 40 gradi), affollati e cari. L\'inverno è mite e ottimo per le città d\'arte e i siti archeologici, con il mare fuori gioco e molte strutture costiere chiuse. Aprile e novembre sono ottimi e poco battuti.',
     costi:
-      'Più economica del centro-nord su alloggi e ristorazione, con l\'eccezione di Taormina e delle località balneari in agosto. Gli ingressi ai siti archeologici sono contenuti; il biglietto cumulativo per più siti conviene quasi sempre.',
+      "Più economica del centro-nord su alloggi e ristorazione, con l'eccezione di Taormina e delle località balneari in agosto. Gli ingressi ai siti archeologici sono contenuti; il biglietto cumulativo per più siti conviene quasi sempre. Budget indicativo al giorno a persona, in doppia: **economico 70-90 €** (B&B e street food), **medio 120-170 €** (hotel di centro, trattorie, auto a noleggio divisa in due), **alto da 250 €** (Taormina, Ortigia e resort sul mare).",
     erroriDaEvitare: [
       'Provare a fare tutta la Sicilia in una settimana: è grande come una regione e mezza, le strade interne sono lente, e il risultato è passare la vacanza in auto',
       'Fare Agrigento a mezzogiorno d\'estate: la Valle dei Templi non ha ombra e si superano i 40 gradi',
@@ -2552,7 +2684,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal centro storico di Palermo, vicino alla Cattedrale, in piazza del Parlamento. Si entra con biglietto a orario; la visita è libera, audioguida facoltativa.",
         "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso, sito della Fondazione Federico II). Mattina, per la luce sui mosaici. Controllare le chiusure per cerimonie e sedute dell'assemblea regionale.",
         "tempo": "1 ora e mezza",
-        "url": "https://www.fondazionefedericosecondo.it/",
+        "costo": "19 € con il Palazzo Reale, 15,50 € la sola Cappella Palatina (dato 2025-26)",
+        "orari": "Cappella Palatina: lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30. Il percorso con il Palazzo Reale non si visita il martedì e il mercoledì.",
+        "lat": 38.11083,
+        "lng": 13.35361,
+        "url": "https://federicosecondoonline.tm.vivaticket.com",
         "consiglio": "Alzare lo sguardo: i mosaici del catino occupano un'intera parete e il soffitto a muqarnas merita il collo storto."
       },
       {
@@ -2561,6 +2697,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Palermo con l'autobus AMAT 389 da Piazza Indipendenza (a due passi dal Palazzo dei Normanni) o in taxi. Il duomo si visita da soli; il chiostro ha ingresso separato.",
         "quando": "Mattina presto o nel primo pomeriggio. L'orario ha una pausa a metà giornata: controllare prima.",
         "tempo": "2 ore",
+        "costo": "duomo gratuito; chiostro 8 €, gratis la prima domenica del mese",
+        "orari": "Duomo: lunedì-sabato 9-12:45 e 14-16:45, domenica e festivi 14-17. Chiostro: lunedì-sabato 9-18:30, domenica e festivi 9-13.",
+        "lat": 38.08186,
+        "lng": 13.29207,
         "consiglio": "Salire sulla terrazza sui tetti, se aperta: si cammina sopra la navata e si vede Palermo."
       },
       {
@@ -2569,6 +2709,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal Teatro Massimo o dalla stazione. Mercato aperto la mattina, fino al primo pomeriggio.",
         "quando": "Mattina. Il mercato chiude nel primo pomeriggio. La domenica è più tranquillo.",
         "tempo": "1-2 ore",
+        "costo": "ingresso libero",
+        "lat": 38.11192,
+        "lng": 13.35952,
         "consiglio": "Mangiare in piedi ai banchi più affollati dai palermitani, non in quelli con il menu in inglese."
       },
       {
@@ -2577,6 +2720,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dalla stazione di Agrigento si prende un autobus urbano fino all'ingresso, oppure l'auto con parcheggio a pagamento. Il sentiero lungo il crinale è pianeggiante.",
         "quando": "Mattina presto o tramonto: a mezzogiorno d'estate non c'è ombra e il caldo è fortissimo. In estate ci sono aperture serali: controllare le date sul sito.",
         "tempo": "3 ore",
+        "costo": "circa 23 € il cumulativo con il Giardino della Kolymbethra (2026); alcune domeniche gratuite, calendario sul sito",
+        "orari": "Aperto tutti i giorni dell'anno dalle 8:30. Dal 20 giugno al 20 settembre apertura serale, con ingresso fino alle 22 nei feriali e alle 23 nei prefestivi e festivi.",
+        "lat": 37.2897,
+        "lng": 13.5922,
         "url": "https://www.parcovalledeitempli.it/",
         "consiglio": "Nelle sere d'estate si visita con i templi illuminati e una temperatura vivibile."
       },
@@ -2586,6 +2733,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Palermo, più vicina Segesta e più lontana Selinunte. Dal parcheggio di Segesta una navetta sale al teatro.",
         "quando": "Mattina, per il caldo. Selinunte al tramonto è molto bella.",
         "tempo": "2 ore a Segesta, 3 a Selinunte",
+        "lat": 37.94145,
+        "lng": 12.83307,
         "consiglio": "Dormire a Trapani o Marsala per fare i due siti con calma in un giorno e mezzo."
       },
       {
@@ -2594,6 +2743,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Catania in auto o bus fino a Rifugio Sapienza. Oltre una certa quota la guida è obbligatoria. Scarpe chiuse, strati caldi e giacca a vento.",
         "quando": "Mattina o tramonto con cielo limpido. Le ascensioni possono essere sospese per attività o meteo.",
         "tempo": "Mezza giornata, una giornata con l'escursione sui crateri",
+        "costo": "pacchetto funivia, fuoristrada e guida da circa 80-95 € a persona (2026)",
+        "lat": 37.70022,
+        "lng": 14.99825,
         "url": "https://www.parcoetna.it/",
         "consiglio": "Portare più strati di quanti sembrino necessari: in quota fa freddo anche in estate."
       },
@@ -2603,6 +2755,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ortigia a piedi dal ponte; il parco archeologico a piedi o in bus dalla stazione. Si visita da soli.",
         "quando": "Neapolis di mattina presto. In maggio-giugno, durante le rappresentazioni classiche al teatro greco, la visita può essere limitata.",
         "tempo": "1 giorno intero, mezza giornata per Ortigia",
+        "costo": "Duomo circa 2-3 €; parco della Neapolis con biglietto proprio o cumulativo con il Museo Paolo Orsi",
+        "lat": 37.0596,
+        "lng": 15.29383,
         "consiglio": "Cenare a Ortigia e sistemarsi fuori dalla zona a traffico limitato, dove il parcheggio costa meno."
       },
       {
@@ -2611,6 +2766,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto, il modo giusto di farlo: le tre città sono vicine tra loro. Si parcheggia fuori e si gira a piedi.",
         "quando": "Primo pomeriggio per le facciate dorate, sera per Noto illuminata. Evitare agosto.",
         "tempo": "Un giorno per due città, due giorni per tre",
+        "lat": 36.89137,
+        "lng": 15.07081,
         "consiglio": "Dormire a Ragusa Ibla o Modica: tranquillo e con ottimi ristoranti, e si risparmia rispetto a Noto."
       },
       {
@@ -2619,6 +2776,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Treno fino a Taormina-Giardini, poi autobus o taxi in salita. In auto si lascia in un parcheggio a pagamento fuori dal centro.",
         "quando": "Mattina presto, prima dei bus turistici, o al tramonto. Alta stagione molto affollata.",
         "tempo": "2 ore",
+        "costo": "circa 14 € (2026)",
+        "lat": 37.85245,
+        "lng": 15.29212,
         "consiglio": "Salire a Castelmola a piedi o in auto: panorama migliore e con molta meno gente."
       },
       {
@@ -2627,6 +2787,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Enna o Catania, proseguendo per Piazza Armerina. Passerelle sopraelevate guidano la visita.",
         "quando": "Mattina o primo pomeriggio; evitare l'estate nelle ore centrali, la copertura trattiene il caldo.",
         "tempo": "1 ora e mezza",
+        "costo": "14 € intero, 7 € dai 18 ai 24 anni; gratis la prima domenica del mese",
+        "orari": "Tutti i giorni. Da fine marzo a fine ottobre 9-19, ultimo ingresso alle 18; da fine ottobre a fine marzo 9-17:30, ultimo ingresso alle 16:30.",
+        "lat": 37.36472,
+        "lng": 14.33455,
+        "url": "https://www.villaromanadelcasale.it",
         "consiglio": "Combinarla con Enna e le Madonie: l'interno cambia la percezione dell'isola."
       },
       {
@@ -2635,7 +2800,33 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto fino all'ingresso di ciascuna. Allo Zingaro e a Vendicari si cammina; sulla Scala dei Turchi si va dalla spiaggia di Realmonte.",
         "quando": "Primavera e inizio estate o settembre. In agosto sono affollate e roventi. Allo Zingaro si entra a pagamento.",
         "tempo": "Mezza giornata ciascuna",
+        "costo": "Zingaro 5 € intero, 3 € ridotto; Scala dei Turchi circa 6 € a turni di 20 minuti, quando è aperta (2026); Vendicari ingresso libero",
+        "orari": "Riserva dello Zingaro: tutti i giorni 8-16.",
+        "lat": 38.10424,
+        "lng": 12.79083,
+        "url": "https://www.riservazingaro.it",
         "consiglio": "Acqua, cappello e scarpe da camminata anche per la spiaggia: non ci sono chioschi lungo i sentieri."
+      },
+      {
+        "nome": "Catania: Piazza del Duomo, Via Etnea e la Pescheria",
+        "testo": "Il centro barocco di Catania, ricostruito in pietra lavica dopo il terremoto del 1693. In piazza c'è il Liotru, l'elefante di pietra nera simbolo della città; la Via Etnea sale dritta verso il vulcano. A due passi, la Pescheria è il mercato del pesce più teatrale dell'isola.",
+        "come": "A piedi dalla stazione o con l'Alibus dall'aeroporto, in 20-30 minuti. Chi ha un'ora in più entra nel Monastero dei Benedettini, oggi sede dell'università.",
+        "quando": "La Pescheria la mattina, fino all'ora di pranzo. La Via Etnea la sera, quando si riempie.",
+        "tempo": "mezza giornata",
+        "costo": "piazza e mercato liberi",
+        "lat": 37.50246,
+        "lng": 15.08821,
+        "consiglio": "Cenare con la pasta alla Norma, il piatto della città, che prende il nome dall'opera di Bellini, nato qui."
+      },
+      {
+        "nome": "Cefalù e il Duomo normanno",
+        "testo": "Un borgo di pescatori sotto una rupe, con una spiaggia lunga davanti al centro storico. Il Duomo, voluto da Ruggero II, fa parte del sito UNESCO arabo-normanno con Palermo e Monreale: nell'abside c'è un Cristo Pantocratore a mosaico tra i più belli del Medioevo.",
+        "come": "In treno da Palermo Centrale in circa un'ora, poi a piedi dalla stazione al centro. In auto si lascia nei parcheggi a pagamento sopra il lungomare.",
+        "quando": "Da aprile a ottobre per abbinare la spiaggia; mattina presto per il Duomo, prima dei gruppi.",
+        "tempo": "mezza giornata o una giornata con la spiaggia",
+        "lat": 38.03983,
+        "lng": 14.02359,
+        "consiglio": "Chi ha gambe può salire sulla Rocca, sopra il paese: un sentiero di circa un'ora porta ai resti del tempio di Diana e alla vista su tutta la costa."
       }
     ],
     programmi: [
@@ -2647,6 +2838,13 @@ export const destinazioniItalia: Destinazione[] = [
           "Pranzo: street food a Ballarò.",
           "Pomeriggio: Monreale in autobus o taxi.",
           "Sera: ritorno a Palermo, cena con vino siciliano."
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1, Palermo: Cappella Palatina la mattina, pranzo a Ballarò, Monreale nel pomeriggio.",
+          "Giorno 2, Cefalù: treno da Palermo Centrale, Duomo la mattina, pomeriggio in spiaggia o sulla Rocca, rientro la sera."
         ]
       },
       {
@@ -2672,22 +2870,26 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Palermo centro",
         "perChi": "Chi vuole città, cibo e arte",
-        "testo": "Base ideale per l'ovest. Rumorosa e caotica, con ottimi mercati, ma parcheggiare è difficile: meglio dormire in zona con garage."
+        "testo": "Base ideale per l'ovest. Rumorosa e caotica, con ottimi mercati, ma parcheggiare è difficile: meglio dormire in zona con garage.",
+        "fascia": "70-140 €"
       },
       {
         "nome": "Catania",
         "perChi": "Chi arriva in aereo e vuole l'Etna",
-        "testo": "Base per l'Etna, Siracusa e Taormina. Barocca e viva, con un centro un po' trascurato fuori dalle vie principali. Sera animata, movimento anche di notte."
+        "testo": "Base per l'Etna, Siracusa e Taormina. Barocca e viva, con un centro un po' trascurato fuori dalle vie principali. Sera animata, movimento anche di notte.",
+        "fascia": "60-120 €"
       },
       {
         "nome": "Ortigia, Siracusa",
         "perChi": "Chi cerca un centro pedonale e mare",
-        "testo": "Isola piccola e compatta, bella di sera, con zona a traffico limitato. Camere care in alta stagione e parcheggio fuori dall'isola."
+        "testo": "Isola piccola e compatta, bella di sera, con zona a traffico limitato. Camere care in alta stagione e parcheggio fuori dall'isola.",
+        "fascia": "90-180 €"
       },
       {
         "nome": "Ragusa Ibla e Modica",
         "perChi": "Chi vuole una base tranquilla per il barocco",
-        "testo": "Più tranquille e meno care di Taormina e Noto, con ottima cucina. Servono l'auto e un po' di pazienza con le strade in salita."
+        "testo": "Più tranquille e meno care di Taormina e Noto, con ottima cucina. Servono l'auto e un po' di pazienza con le strade in salita.",
+        "fascia": "70-130 €"
       }
     ],
     sapori: [
@@ -2723,6 +2925,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Borseggi nei mercati e nel centro di Palermo e Catania: borsa davanti, telefono in tasca.",
       "Tempi di percorrenza più lunghi del previsto sulle statali interne: tenere margine rispetto a quello che indica la mappa.",
       "Tassa di soggiorno nelle principali città: si paga in hotel, controllare l'importo del comune."
+    ],
+    gite: [
+      {
+        "nome": "Isole Eolie (Lipari e Vulcano)",
+        "distanza": "circa 1 ora di aliscafo da Milazzo",
+        "come": "In auto o in bus fino al porto di Milazzo, poi aliscafo per Vulcano e Lipari. In estate le corse sono frequenti; d'inverno sono poche e dipendono dal mare.",
+        "testo": "Sette isole vulcaniche: a Vulcano si sale sul cratere e si fanno i fanghi, Lipari ha il castello e il museo archeologico. Una giornata basta per un assaggio, ma conviene dormirci."
+      },
+      {
+        "nome": "Erice",
+        "distanza": "15 km da Trapani, con la funivia dal basso della città",
+        "come": "Funivia da Trapani (quando è in servizio) o auto su una strada di tornanti.",
+        "testo": "Un borgo medievale a 750 metri sopra Trapani, con vicoli lastricati, il Castello di Venere e la vista sulle saline e sulle Egadi. Le pasticcerie vendono i dolci di mandorla del convento."
+      },
+      {
+        "nome": "Favignana e le Egadi",
+        "distanza": "circa 30 minuti di aliscafo da Trapani",
+        "come": "Aliscafo da Trapani; sull'isola ci si muove in bici a noleggio.",
+        "testo": "Un'isola piatta di cave di tufo e calette di acqua chiarissima, come Cala Rossa e il Bue Marino. A maggio-giugno e a settembre è al meglio."
+      },
+      {
+        "nome": "Gole dell'Alcantara",
+        "distanza": "circa 20 km da Taormina",
+        "come": "In auto o con i bus da Taormina e Giardini Naxos.",
+        "testo": "Un canyon di basalto scavato dal fiume nelle colate dell'Etna, con colonne di lava a prismi. Si cammina nell'acqua gelida: servono scarpe da acqua o stivali."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono per visitare la Sicilia?",
+        "risposta": "Per una metà dell'isola 7-8 giorni, per il giro completo almeno 12-14. In un weekend lungo conviene scegliere una città, Palermo o Catania, e le sue gite."
+      },
+      {
+        "domanda": "Meglio la Sicilia orientale o occidentale?",
+        "risposta": "La prima volta l'est, per Etna, Siracusa, il barocco della Val di Noto e Taormina, con distanze più corte. L'ovest per Palermo, Monreale, Segesta e Selinunte, con meno turisti e prezzi più bassi."
+      },
+      {
+        "domanda": "Serve l'auto in Sicilia?",
+        "risposta": "Quasi sempre sì: i treni sono lenti e coprono poco. Senza auto si possono fare bene Palermo con Monreale e Cefalù, oppure Catania con Siracusa e Taormina, usando bus e treni regionali."
+      },
+      {
+        "domanda": "Quando andare in Sicilia?",
+        "risposta": "Maggio-giugno e settembre-ottobre. Luglio e agosto sono torridi, oltre i 40 gradi nell'interno, affollati e cari; l'inverno è mite e va bene per città e siti archeologici."
+      },
+      {
+        "domanda": "Bisogna prenotare la Cappella Palatina?",
+        "risposta": "Non è obbligatorio, ma il biglietto online evita la coda. Gli orari cambiano con le attività dell'Assemblea Regionale, che ha sede nel palazzo: il percorso con il Palazzo Reale non si visita il martedì e il mercoledì."
+      },
+      {
+        "domanda": "Si può salire sull'Etna da soli?",
+        "risposta": "Fino al Rifugio Sapienza e ai crateri Silvestri sì, in auto. Oltre una certa quota la guida è obbligatoria, e la zona sommitale può essere chiusa senza preavviso per l'attività del vulcano."
+      }
     ],
     esperienzeSlugs: ['etna'],
     tripSlugs: ['sicilia-itinerario', 'sicilia-completa'],

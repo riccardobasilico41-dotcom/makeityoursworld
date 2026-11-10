@@ -43,10 +43,10 @@ export const destinazioniPolonia: Destinazione[] = [
     doveMangiare:
       'I pierogi restano il piatto simbolo, in decine di varianti dolci e salate; lo żurek, zuppa a base di farina di segale fermentata, spesso servito dentro una pagnotta scavata; il bigos, lo stufato di cavolo e carne; le zapiekanki, la versione polacca dello street food da forno, molto diffusa a Kazimierz sul Plac Nowy. I bary mleczne ("bar del latte"), mense economiche ereditate dall\'epoca comunista e sussidiate ancora oggi, restano il modo più semplice ed economico di mangiare cucina polacca di tutti i giorni. Da bere, la vodka polacca, spesso aromatizzata (żubrówka all\'erba di bisonte tra le più note).',
     comeArrivare:
-      'Aeroporto John Paul II (KRK, Balice), fuori città: treno diretto fino alla stazione centrale Kraków Główny, oppure bus di linea. In treno dall\'Italia non esiste un collegamento diretto comodo: si arriva in genere in aereo. Da Varsavia ci sono treni veloci diretti.',
+      "Aeroporto Giovanni Paolo II (KRK, Balice), a circa 11 km dal centro: il treno diretto SKA1 arriva a Kraków Główny in 17-20 minuti, circa 20 PLN, con corse ogni mezz'ora fino a tarda sera; i bus urbani 208 e 252, di notte il 902, sono più lenti e costano circa 6 PLN. Dall'Italia non c'è un treno diretto comodo: si arriva in aereo. Da Varsavia ci sono treni veloci diretti.",
     comeSpostarsi: 'Centro storico tutto a piedi. Per il resto della città, tram e bus della rete KMK, con biglietti a tempo economici. Non serve auto.',
     periodoMigliore: 'aprile-maggio e settembre-ottobre per il clima mite e meno folla; giugno-agosto è alta stagione, affollata e più calda; novembre-marzo è freddo ma gestibile, con i mercatini di Natale a dicembre',
-    costi: 'città economica: musei, ristoranti e mezzi pubblici costano meno che nell\'Europa occidentale',
+    costi: "Città economica: musei, ristoranti e mezzi pubblici costano meno che nell'Europa occidentale. Budget indicativo al giorno a persona, in doppia: **economico 50-70 €** (ostello o appartamento, bar mleczny e tram), **medio 90-130 €** (hotel nel centro storico, ristoranti e musei), **alto da 200 €** (hotel storici sul Rynek e gite con tour organizzato).",
     erroriDaEvitare: [
       'Cambiare valuta nei kantor con il tabellone vistoso vicino a Rynek Główny senza controllare bene il tasso: alcuni mostrano tassi vantaggiosi per valute che non si stanno cambiando',
       'Seguire chi avvicina per strada proponendo "un bar fantastico" intorno a Rynek Główny, via Floriańska o Kazimierz: è lo schema classico che porta a conti gonfiati a dismisura',
@@ -55,112 +55,209 @@ export const destinazioniPolonia: Destinazione[] = [
     ],
     luoghi: [
       {
-        nome: "Rynek Główny e Sukiennice",
-        testo: "La piazza del mercato medievale, spesso citata tra le più grandi d'Europa, con al centro la Sukiennice (la Cloth Hall) e la torre isolata del vecchio municipio, demolito nell'Ottocento. Intorno stanno la Basilica di Santa Maria e i caffè con i tavoli all'aperto.",
-        come: "Dalla stazione centrale a piedi.",
-        quando: "Mattina presto o sera, quando si accendono le luci; di giorno è affollata.",
-        tempo: "1-2 ore",
-        costo: "ingresso libero",
-        consiglio: "Sotto la piazza c'è un museo sotterraneo con i resti del mercato medievale."
+        "nome": "Rynek Główny e Sukiennice",
+        "testo": "La piazza del mercato medievale, spesso citata tra le più grandi d'Europa, con al centro la Sukiennice (la Cloth Hall) e la torre isolata del vecchio municipio, demolito nell'Ottocento. Intorno stanno la Basilica di Santa Maria e i caffè con i tavoli all'aperto.",
+        "come": "Dalla stazione centrale a piedi.",
+        "quando": "Mattina presto o sera, quando si accendono le luci; di giorno è affollata.",
+        "tempo": "1-2 ore",
+        "costo": "ingresso libero",
+        "lat": 50.06166,
+        "lng": 19.93722,
+        "consiglio": "Sotto la piazza c'è un museo sotterraneo con i resti del mercato medievale."
       },
       {
-        nome: "Basilica di Santa Maria",
-        testo: "Chiesa gotica con il grande altare ligneo tardogotico di Veit Stoss, della fine del Quattrocento, e due torri diseguali. Dalla torre più alta, ogni ora, giorno e notte, suona l'Hejnał mariacki, la melodia di tromba che si interrompe di colpo; quella di mezzogiorno va in diretta alla radio nazionale.",
-        come: "Sulla piazza; il biglietto per l'interno si compra a lato.",
-        quando: "Mattina; per l'Hejnał stare sulla piazza in punto.",
-        tempo: "45 minuti",
-        url: "https://www.mariacki.com",
-        consiglio: "Orari di visita e apertura dell'altare sul sito ufficiale."
+        "nome": "Basilica di Santa Maria",
+        "testo": "Chiesa gotica con il grande altare ligneo tardogotico di Veit Stoss, della fine del Quattrocento, e due torri diseguali. Dalla torre più alta, ogni ora, giorno e notte, suona l'Hejnał mariacki, la melodia di tromba che si interrompe di colpo; quella di mezzogiorno va in diretta alla radio nazionale.",
+        "come": "Sulla piazza; il biglietto per l'interno si compra a lato.",
+        "quando": "Mattina; per l'Hejnał stare sulla piazza in punto.",
+        "tempo": "45 minuti",
+        "costo": "20 PLN la basilica, circa 5 €; 20 PLN la torre dell'Hejnał, circa 5 € (2026)",
+        "orari": "Basilica: lunedì-sabato 11:30-18, domenica e festivi 14-18. Torre: martedì-sabato 10-17:30, domenica 13-17:30, chiusa da novembre ad aprile.",
+        "lat": 50.06167,
+        "lng": 19.93917,
+        "url": "https://mariacki.com/en/tourists/",
+        "consiglio": "Orari di visita e apertura dell'altare sul sito ufficiale."
       },
       {
-        nome: "Colle di Wawel",
-        testo: "Il colle sopra la Vistola con il Castello Reale e la Cattedrale dove dal 1320 al 1764 furono incoronati i re polacchi, che è anche il loro principale luogo di sepoltura. Nella torre di Sigismondo c'è la campana del 1521, suonata solo nelle grandi occasioni. Mostre e percorsi hanno biglietti distinti.",
-        come: "A piedi dal centro. I biglietti si comprano sul posto o online sul sito ufficiale.",
-        quando: "Mattina presto, prima dei gruppi.",
-        tempo: "3 ore",
-        url: "https://wawel.krakow.pl",
-        consiglio: "Nei giorni pieni conviene comprare online in anticipo."
+        "nome": "Colle di Wawel",
+        "testo": "Il colle sopra la Vistola con il Castello Reale e la Cattedrale dove dal 1320 al 1764 furono incoronati i re polacchi, che è anche il loro principale luogo di sepoltura. Nella torre di Sigismondo c'è la campana del 1521, suonata solo nelle grandi occasioni. Mostre e percorsi hanno biglietti distinti.",
+        "come": "A piedi dal centro. I biglietti si comprano sul posto o online sul sito ufficiale.",
+        "quando": "Mattina presto, prima dei gruppi.",
+        "tempo": "3 ore",
+        "costo": "Castello: 95 PLN il percorso dei due piani, circa 22 €; Tesoro e Armeria 47 PLN ciascuno, circa 11 €. Cattedrale con tombe reali e campana di Sigismondo 26 PLN, circa 6 € (2026)",
+        "orari": "Cattedrale: lunedì-sabato 9-17 (9-16 da novembre a marzo), domenica dalle 12:30. Le mostre del castello hanno orari stagionali, sul sito ufficiale.",
+        "lat": 50.05389,
+        "lng": 19.93472,
+        "url": "https://wawel.krakow.pl",
+        "consiglio": "Nei giorni pieni conviene comprare online in anticipo."
       },
       {
-        nome: "Kazimierz",
-        testo: "La città fondata nel 1335 da Casimiro il Grande e per secoli cuore della vita ebraica di Cracovia, con la Sinagoga Vecchia, tra le più antiche della Polonia, e altre sinagoghe storiche. Oggi è anche il quartiere dei caffè, delle gallerie e dei locali.",
-        come: "A piedi o in tram da Stare Miasto.",
-        quando: "Giorno per le sinagoghe; sera per i locali.",
-        tempo: "3 ore",
-        url: "https://www.jewishkrakow.net",
-        consiglio: "La piazza Nowy è nota per le zapiekanki, i panini lunghi."
+        "nome": "Kazimierz",
+        "testo": "La città fondata nel 1335 da Casimiro il Grande e per secoli cuore della vita ebraica di Cracovia, con la Sinagoga Vecchia, tra le più antiche della Polonia, e altre sinagoghe storiche. Oggi è anche il quartiere dei caffè, delle gallerie e dei locali.",
+        "come": "A piedi o in tram da Stare Miasto.",
+        "quando": "Giorno per le sinagoghe; sera per i locali.",
+        "tempo": "3 ore",
+        "costo": "Sinagoga Vecchia 22 PLN, circa 5 €; gratis il lunedì (2026)",
+        "orari": "Sinagoga Vecchia: lunedì 10-15, martedì-domenica 9-17. Le sinagoghe attive chiudono il sabato.",
+        "lat": 50.05141,
+        "lng": 19.94857,
+        "url": "https://www.jewishkrakow.net",
+        "consiglio": "La piazza Nowy è nota per le zapiekanki, i panini lunghi."
       },
       {
-        nome: "Fabbrica di Schindler e Podgórze",
-        testo: "Il museo nell'ex fabbrica di Oskar Schindler racconta la Cracovia occupata dai nazisti. Vicino c'è Piazza degli Eroi del Ghetto, con le sedie vuote a ricordo del ghetto.",
-        come: "In tram nel quartiere di Zabłocie o a piedi da Kazimierz.",
-        quando: "Mattina. Chiuso il primo martedì del mese.",
-        tempo: "2-3 ore",
-        costo: "60 PLN intero, 45 ridotto (2026); il lunedì ingresso gratuito, ma senza prenotazione",
-        url: "https://muzeumkrakow.pl",
-        consiglio: "Biglietti e orari sul sito del Museo storico di Cracovia; d'estate comprarli in anticipo."
+        "nome": "Fabbrica di Schindler e Podgórze",
+        "testo": "Il museo nell'ex fabbrica di Oskar Schindler racconta la Cracovia occupata dai nazisti. Vicino c'è Piazza degli Eroi del Ghetto, con le sedie vuote a ricordo del ghetto.",
+        "come": "In tram nel quartiere di Zabłocie o a piedi da Kazimierz.",
+        "quando": "Mattina. Chiuso il primo martedì del mese.",
+        "tempo": "2-3 ore",
+        "costo": "60 PLN intero, 45 ridotto (2026); il lunedì ingresso gratuito, ma senza prenotazione",
+        "orari": "Lunedì 10-15, martedì-domenica 9-20; chiuso il primo martedì del mese.",
+        "lat": 50.0474,
+        "lng": 19.96175,
+        "url": "https://muzeumkrakowa.pl/en/branches/oskar-schindlers-enamel-factory",
+        "consiglio": "Biglietti e orari sul sito del Museo storico di Cracovia; d'estate comprarli in anticipo."
       },
       {
-        nome: "Miniera di sale di Wieliczka",
-        testo: "Una miniera di sale scavata dal Duecento, nella prima lista UNESCO del 1978, nella cittadina di Wieliczka vicino a Cracovia. Il percorso turistico, di circa 3,5 km, scende fino a 135 metri e passa per cappelle scolpite nel sale, laghi di salamoia e la cappella di Santa Kinga, dove si celebrano anche matrimoni.",
-        come: "Treno o bus da Cracovia, poi a piedi fino all'ingresso.",
-        quando: "Prenotare online in anticipo.",
-        tempo: "2-3 ore di visita, più il viaggio",
-        costo: "da 121 PLN (2026)",
-        url: "https://www.wieliczka-saltmine.com",
-        consiglio: "Portare una giacca: sotto terra ci sono 17-18 gradi anche d'estate. Il percorso ha circa 800 gradini."
+        "nome": "Miniera di sale di Wieliczka",
+        "testo": "Una miniera di sale scavata dal Duecento, nella prima lista UNESCO del 1978, nella cittadina di Wieliczka vicino a Cracovia. Il percorso turistico, di circa 3,5 km, scende fino a 135 metri e passa per cappelle scolpite nel sale, laghi di salamoia e la cappella di Santa Kinga, dove si celebrano anche matrimoni.",
+        "come": "Treno o bus da Cracovia, poi a piedi fino all'ingresso.",
+        "quando": "Prenotare online in anticipo.",
+        "tempo": "2-3 ore di visita, più il viaggio",
+        "costo": "da 121 PLN (2026)",
+        "lat": 49.97917,
+        "lng": 20.06389,
+        "url": "https://www.wieliczka-saltmine.com",
+        "consiglio": "Portare una giacca: sotto terra ci sono 17-18 gradi anche d'estate. Il percorso ha circa 800 gradini."
       },
       {
-        nome: "Planty e Barbacane",
-        testo: "L'anello di parchi sul tracciato delle mura demolite, che circonda la città vecchia, con la Porta di San Floriano e il Barbacane, salvati dalla demolizione delle mura nell'Ottocento: il Barbacane è un raro avamposto fortificato gotico ancora in piedi.",
-        come: "A piedi, intorno al centro.",
-        quando: "Mattina o sera, con luce morbida.",
-        tempo: "1 ora",
-        costo: "ingresso libero",
-        consiglio: "Una passeggiata gratuita per orientarsi."
+        "nome": "Planty e Barbacane",
+        "testo": "L'anello di parchi sul tracciato delle mura demolite, che circonda la città vecchia, con la Porta di San Floriano e il Barbacane, salvati dalla demolizione delle mura nell'Ottocento: il Barbacane è un raro avamposto fortificato gotico ancora in piedi.",
+        "come": "A piedi, intorno al centro.",
+        "quando": "Mattina o sera, con luce morbida.",
+        "tempo": "1 ora",
+        "costo": "ingresso libero",
+        "orari": "Il Barbacane, sede del Museo di Cracovia, è temporaneamente chiuso alle visite (novembre 2026); le Planty sono sempre aperte.",
+        "lat": 50.06553,
+        "lng": 19.94166,
+        "consiglio": "Una passeggiata gratuita per orientarsi."
+      },
+      {
+        "nome": "Rynek Underground",
+        "testo": "Un museo sotto la piazza del mercato, ricavato negli scavi archeologici degli anni Duemila: si cammina tra le fondazioni delle botteghe medievali, le vecchie strade e le tombe, con ricostruzioni e schermi. Spiega bene com'era la Cracovia del commercio.",
+        "come": "Ingresso dal lato nord della Sukiennice. Biglietti a fasce orarie, meglio comprati online.",
+        "quando": "Primo mattino o tardo pomeriggio. Il martedì l'ingresso è gratuito ma con orario ridotto e molta più gente.",
+        "tempo": "1 ora e mezza",
+        "costo": "45 PLN intero, circa 11 €; gratis il martedì (2026)",
+        "orari": "Lunedì 10-19 (chiuso il secondo lunedì del mese), martedì 10-15, mercoledì-giovedì 10-19, venerdì-domenica 10-20.",
+        "lat": 50.06202,
+        "lng": 19.93776,
+        "url": "https://muzeumkrakowa.pl/en/branches/rynek-underground"
+      },
+      {
+        "nome": "Collegium Maius",
+        "testo": "L'edificio più antico dell'Università Jagellonica, del Quattrocento, con un cortile gotico ad arcate. Dentro c'è il museo dell'università, con aule, biblioteca e strumenti scientifici; tra gli studenti dell'ateneo c'era Copernico.",
+        "come": "A piedi da Rynek Główny, in via Jagiellońska. Il cortile si attraversa liberamente, gli interni si visitano con percorso guidato a orario.",
+        "quando": "Mattina. Gli orari cambiano spesso per eventi universitari: controllare il calendario prima.",
+        "tempo": "1 ora",
+        "lat": 50.06167,
+        "lng": 19.93389,
+        "url": "https://maius.uj.edu.pl/zwiedzanie"
+      },
+      {
+        "nome": "Via Grodzka e chiesa dei Santi Pietro e Paolo",
+        "testo": "La via che scende dal Rynek al Wawel, ultimo tratto della Via Reale. A metà c'è la chiesa barocca dei Santi Pietro e Paolo, con le statue dei dodici apostoli sulla cancellata, e accanto la romanica Sant'Andrea, una delle chiese più antiche della città.",
+        "come": "A piedi, sulla strada tra la piazza e il castello.",
+        "quando": "Al mattino andando verso il Wawel, o la sera con le facciate illuminate.",
+        "tempo": "30-45 minuti",
+        "lat": 50.0569,
+        "lng": 19.939,
+        "consiglio": "Entrare in Sant'Andrea, piccola e spesso vuota, che sembra una fortezza."
+      },
+      {
+        "nome": "Tumulo di Kościuszko",
+        "testo": "Una collina artificiale alta 34 metri, costruita nell'Ottocento in memoria dell'eroe nazionale Tadeusz Kościuszko, dentro una fortezza austriaca. Dalla cima si vede tutta Cracovia e, nelle giornate limpide, i Tatra.",
+        "come": "Bus dal centro fino al quartiere di Salwator, poi a piedi in salita; oppure a piedi lungo la Vistola e il viale Aleja Waszyngtona.",
+        "quando": "Giornate limpide, meglio di pomeriggio.",
+        "tempo": "2 ore con il viaggio",
+        "costo": "34 PLN intero, circa 8 €; 26 PLN ridotto (2026), solo alla cassa sul posto",
+        "orari": "Tutti i giorni dalle 9 alle 15:30.",
+        "lat": 50.05283,
+        "lng": 19.8895,
+        "url": "https://www.kopieckosciuszki.pl"
+      },
+      {
+        "nome": "Nowa Huta",
+        "testo": "Il quartiere costruito dal 1949 come città operaia modello dell'epoca comunista, attorno alle acciaierie: viali larghi, palazzi in stile realismo socialista e la Piazza Centrale a raggiera. Racconta una Cracovia diversa da quella medievale.",
+        "come": "Tram dal centro fino alla Piazza Centrale (Plac Centralny), circa mezz'ora.",
+        "quando": "Di giorno, in settimana. Il Museo di Nowa Huta è temporaneamente chiuso (novembre 2026).",
+        "tempo": "mezza giornata",
+        "costo": "il quartiere si gira liberamente",
+        "lat": 50.07222,
+        "lng": 20.03722,
+        "consiglio": "Arrivare fino alla chiesa dell'Arca del Signore, costruita dagli abitanti negli anni Sessanta nonostante i divieti del regime."
+      },
+      {
+        "nome": "Piazza degli Eroi del Ghetto",
+        "testo": "Nel 1941 i nazisti chiusero qui, a Podgórze, il ghetto ebraico di Cracovia. Oggi la piazza è un memoriale: settanta sedie di metallo vuote ricordano i deportati. Sullo stesso lato c'è la Farmacia sotto l'Aquila, dove il farmacista Tadeusz Pankiewicz aiutò gli abitanti del ghetto.",
+        "come": "A piedi da Kazimierz attraverso il ponte pedonale Bernatka, o in tram.",
+        "quando": "Di giorno, insieme alla Fabbrica di Schindler, che è a 10 minuti a piedi.",
+        "tempo": "30 minuti",
+        "costo": "piazza libera",
+        "lat": 50.04667,
+        "lng": 19.95417
       }
     ],
     programmi: [
       {
-        titolo: "1 giorno",
-        tappe: [
-          "Mattina: Rynek Główny e Santa Maria",
-          "Wawel",
-          "Pranzo a Kazimierz",
-          "Sera: Planty"
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Rynek Główny, Sukiennice e Basilica di Santa Maria, con l'Hejnał allo scoccare dell'ora",
+          "Via Grodzka fino al colle di Wawel: Cattedrale e una sezione del castello",
+          "Pranzo a Kazimierz, poi la Sinagoga Vecchia",
+          "Sera: Planty e Barbacane, cena nel centro storico"
         ]
       },
       {
-        titolo: "2 giorni",
-        tappe: [
+        "titolo": "2 giorni",
+        "tappe": [
           "Giorno 1 come sopra",
-          "Giorno 2: Fabbrica di Schindler e Podgórze",
-          "Pomeriggio a Kazimierz"
+          "Giorno 2, mattina: Fabbrica di Schindler e Piazza degli Eroi del Ghetto a Podgórze",
+          "Pomeriggio: Rynek Underground e Collegium Maius",
+          "Sera: Plac Nowy a Kazimierz, con una zapiekanka"
         ]
       },
       {
-        titolo: "3 giorni",
-        tappe: [
+        "titolo": "3 giorni",
+        "tappe": [
           "Giorni 1-2 come sopra",
-          "Giorno 3: Miniera di Wieliczka o Auschwitz-Birkenau (vedi scheda dedicata)"
+          "Giorno 3: Auschwitz-Birkenau con guida-educatore (prenotazione sul sito del Museo), oppure la Miniera di sale di Wieliczka e, nel pomeriggio, il Tumulo di Kościuszko o Nowa Huta"
         ]
       }
     ],
     zone: [
       {
-        nome: "Stare Miasto",
-        perChi: "Chi vuole stare vicino alle attrazioni",
-        testo: "Cuore storico, vicino a tutto; rumore di notte vicino ai locali."
+        "nome": "Stare Miasto",
+        "perChi": "Chi vuole stare vicino alle attrazioni",
+        "testo": "Cuore storico, vicino a tutto; rumore di notte vicino ai locali.",
+        "fascia": "90-160 €"
       },
       {
-        nome: "Kazimierz",
-        perChi: "Chi cerca atmosfera e vita serale",
-        testo: "Quartiere con caffè e locali, alloggi charmant; più movimentato la sera."
+        "nome": "Kazimierz",
+        "perChi": "Chi cerca atmosfera e vita serale",
+        "testo": "Quartiere con caffè e locali, alloggi charmant; più movimentato la sera.",
+        "fascia": "70-130 €"
       },
       {
-        nome: "Podgórze",
-        perChi: "Chi vuole tranquillità e prezzi più bassi",
-        testo: "Oltre la Vistola, raggiungibile a piedi dal centro."
+        "nome": "Podgórze",
+        "perChi": "Chi vuole tranquillità e prezzi più bassi",
+        "testo": "Oltre la Vistola, raggiungibile a piedi dal centro.",
+        "fascia": "60-110 €"
+      },
+      {
+        "nome": "Kleparz e la zona della stazione",
+        "perChi": "Chi arriva in treno o dall'aeroporto e vuole spendere meno",
+        "testo": "Appena a nord delle Planty, vicino a Kraków Główny e alla Galeria Krakowska. Meno atmosfera, ma si è a dieci minuti a piedi dal Rynek e il treno per l'aeroporto parte sotto casa.",
+        "fascia": "60-110 €"
       }
     ],
     sapori: [
@@ -187,6 +284,52 @@ export const destinazioniPolonia: Destinazione[] = [
       "Cambio: usare ATM e rifiutare il pagamento in euro.",
       "Locali notturni: controllare bene il conto quando si paga con carta a fine serata e non lasciare il bicchiere incustodito.",
       "Borseggiatori nei luoghi affollati e turistici, nelle stazioni e sui treni."
+    ],
+    gite: [
+      {
+        "nome": "Auschwitz-Birkenau",
+        "distanza": "66 km, circa 1 ora e mezza in bus",
+        "come": "Bus diretto dalla stazione dei pullman di Cracovia, ogni 20-40 minuti, circa 34 PLN a tratta; o treno fino a Oświęcim. Ingresso gratuito con prenotazione online sul sito del Museo, e nelle ore centrali solo con guida-educatore.",
+        "testo": "Il campo di concentramento e sterminio dove morirono oltre un milione di persone, quasi tutte ebrei. Si visitano Auschwitz I e Birkenau, collegati da una navetta gratuita. È una giornata da isolare dal resto del viaggio (vedi la scheda dedicata)."
+      },
+      {
+        "nome": "Zakopane e i Tatra",
+        "distanza": "circa 100 km, 2 ore in bus o in treno",
+        "come": "Bus frequenti dalla stazione dei pullman o treni da Kraków Główny.",
+        "testo": "La città di montagna polacca, ai piedi dei Tatra, con le case di legno in stile Zakopane e la funicolare del Gubałówka. D'inverno si scia, d'estate si cammina verso il lago Morskie Oko."
+      },
+      {
+        "nome": "Parco Nazionale di Ojców",
+        "distanza": "circa 25 km, 40 minuti in auto o in bus",
+        "come": "Bus dal centro di Cracovia o auto.",
+        "testo": "Il parco nazionale più piccolo della Polonia: una valle di rocce calcaree, grotte e i castelli della Via delle Aquile, tra cui Pieskowa Skała. Buono per una mezza giornata di camminate facili."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Cracovia?",
+        "risposta": "Due giorni pieni per la città, tre o quattro aggiungendo Auschwitz-Birkenau e la Miniera di Wieliczka. Le due gite non vanno messe nello stesso giorno."
+      },
+      {
+        "domanda": "Serve la prenotazione per Auschwitz-Birkenau?",
+        "risposta": "Sì: l'ingresso è gratuito ma si prenota online sul sito ufficiale del Museo, fino a tre mesi prima. Nella fascia centrale della giornata si entra solo con una guida-educatore o con un tour organizzato."
+      },
+      {
+        "domanda": "A Cracovia si paga in euro?",
+        "risposta": "No, in złoty (PLN). Le carte funzionano quasi ovunque; quando il terminale propone il pagamento in euro conviene rifiutare e pagare in złoty."
+      },
+      {
+        "domanda": "Dove dormire a Cracovia?",
+        "risposta": "Nel centro storico dentro le Planty per avere tutto a piedi, a Kazimierz per la vita serale e prezzi un po' più bassi. Podgórze è più tranquillo, oltre il fiume."
+      },
+      {
+        "domanda": "Come si arriva in centro dall'aeroporto di Cracovia?",
+        "risposta": "Con il treno SKA1 fino a Kraków Główny, 17-20 minuti, circa 20 PLN, ogni mezz'ora circa. I biglietti di tram e bus non valgono sul treno."
+      },
+      {
+        "domanda": "Wieliczka va prenotata?",
+        "risposta": "È consigliato, soprattutto nel weekend: i biglietti sono a orario sul sito della miniera e i tour nelle lingue diverse da polacco e inglese si comprano solo online."
+      }
     ],
     esperienzeSlugs: ['wieliczka-miniera-di-sale', 'kazimierz-food-vodka-tour'],
     tripSlugs: ['cracovia-weekend'],

@@ -27,10 +27,10 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     doveDormire: "Ipanema, Leblon o Copacabana: económico 200-350 R$, medio 450-800 R$, alto más de 1.200 R$ por noche.",
     doveMangiare: "Botecos, churrascarias de rodízio, restaurantes de buffet al peso, pastel y caldo de cana en los mercados.",
-    comeArrivare: "Aeropuerto internacional del Galeão (GIG); vuelos internos también desde el Santos Dumont, en el centro.",
+    comeArrivare: "Desde el aeropuerto internacional del Galeão (GIG), a unos 20 km de la Zona Sul, Copacabana e Ipanema están a 40-60 minutos, más en hora punta. El taxi de las cooperativas oficiales se paga en el mostrador de llegadas con tarifa fija municipal, unos 122-126 R$ hasta Copacabana, Ipanema y Leblon (145-150 R$ por la noche y en festivos); Uber y 99 cuestan unos 60-100 R$ desde la zona de recogida que indica la app. Nunca aceptar viajes de quien se acerca en llegadas. Los vuelos internos llegan también al Santos Dumont, en el centro.",
     comeSpostarsi: "Metro entre la zona sur y el centro, taxis oficiales y aplicaciones; a pie solo de día y en las zonas concurridas.",
     periodoMigliore: "mayo-octubre, invierno suave y seco; diciembre-marzo caluroso y lluvioso.",
-    costi: "Cristo Redentor 87 R$ con la van desde el centro de visitantes Paineiras (132 R$ desde Copacabana o Largo do Machado, 134 R$ con el tren de cremallera), precio único todo el año; Pan de Azúcar 205 R$ la entrada completa (2026).",
+    costi: "Presupuesto bajo unos 50-70 € al día por persona (pousada o albergue, locales por peso, metro); medio 120-180 € (hotel en Ipanema o Copacabana, restaurantes, Cristo y Pan de Azúcar, app para moverse); alto desde 300 € (hotel frente al mar, churrascarias y restaurantes de nivel, guía privado). Cristo Redentor 87 R$ con la van desde el centro de visitantes Paineiras (132 R$ desde Copacabana o Largo do Machado), 139 R$ con el tren de cremallera desde Cosme Velho; Pan de Azúcar 205 R$ la entrada completa; Jardín Botánico 80 R$ para extranjeros (2026).",
     erroriDaEvitare: [
       "Llevar el teléfono en la mano por la calle o dejarlo sobre la toalla en la playa",
       "Caminar de noche por zonas desiertas en lugar de usar una app",
@@ -43,8 +43,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Con el tren de cremallera desde Cosme Velho o con las vans oficiales desde Paineiras. La entrada se compra en línea eligiendo día y hora.",
         "quando": "Primer viaje de la mañana, antes de las nubes y la multitud. A mediodía la estatua suele estar entre nubes.",
         "tempo": "3-4 horas entre subida, visita y bajada",
-        "costo": "Tren de cremallera desde Cosme Velho 139 R$ adultos, 112 R$ niños de 7 a 11 años (web del tren, 2026); tarifas de las vans en la web oficial",
-        "url": "https://paineirascorcovado.com.br/",
+        "costo": "Tren desde Cosme Velho 139 R$, unos 24 €, para adultos de cualquier nacionalidad, 112 R$ para niños de 7-11 años; vans oficiales desde Paineiras unos 87 R$, unos 15 € (2026)",
+        "lat": -22.95194,
+        "lng": -43.21056,
+        "url": "https://www.tremdocorcovado.rio/",
         "consiglio": "Ve por la mañana y lleva una chaqueta ligera: arriba hace viento."
       },
       {
@@ -53,7 +55,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Teleférico desde la estación de Praia Vermelha, en el barrio de Urca. Quien camina puede subir a pie hasta Urca por un sendero corto y tomar el teleférico solo para el segundo tramo.",
         "quando": "Última hora de la tarde, para el atardecer sobre la bahía y la ciudad que se enciende.",
         "tempo": "2-3 horas",
-        "costo": "Billete del teleférico: precios actualizados en la web oficial",
+        "costo": "205 R$ la entrada completa, unos 35 €; la tarifa reducida es solo para brasileños (2026)",
+        "orari": "De lunes a viernes 8:30-21:00, sábados y domingos 7:30-21:00; último embarque a las 19:30",
+        "lat": -22.9494,
+        "lng": -43.1567,
         "url": "https://www.bondinho.com.br/",
         "consiglio": "Llega una hora antes del atardecer para no hacer cola."
       },
@@ -63,6 +68,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "En metro (Cardeal Arcoverde, Siqueira Campos y Cantagalo para Copacabana, General Osório para Ipanema) o a pie por el paseo marítimo.",
         "quando": "Mañana para la playa; atardecer en el Arpoador.",
         "tempo": "Medio día",
+        "costo": "Gratis; sillas y sombrillas se alquilan en las barracas",
+        "lat": -22.99056,
+        "lng": -43.19167,
         "consiglio": "En la toalla lleva solo lo que estés dispuesto a perder: no dejes teléfono ni cartera sin vigilancia."
       },
       {
@@ -71,6 +79,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "En app o taxi hasta Santa Teresa, luego a pie; la escalinata se baja hacia Lapa.",
         "quando": "De día.",
         "tempo": "2-3 horas",
+        "costo": "Escalinata gratis",
+        "lat": -22.91541,
+        "lng": -43.17941,
         "consiglio": "Se va de día y se regresa en app."
       },
       {
@@ -79,6 +90,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "En metro desde Ipanema y Copacabana.",
         "quando": "En días laborables, de día: el fin de semana el centro se vacía.",
         "tempo": "Medio día",
+        "orari": "Museu do Amanhã de jueves a martes 10:00-18:00, última entrada a las 17:00; cerrado los miércoles",
+        "lat": -22.89413,
+        "lng": -43.1794,
+        "url": "https://museudoamanha.org.br/",
         "consiglio": "El centro se recorre de día: por la noche y el fin de semana se vacía."
       },
       {
@@ -87,31 +102,121 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "En app, ida y vuelta, evitando caminar de noche.",
         "quando": "Viernes y sábado por la noche.",
         "tempo": "Una velada",
+        "lat": -22.91259,
+        "lng": -43.17985,
         "consiglio": "Con solo el teléfono y el efectivo para la noche. Cuidado con los tirones en la multitud a última hora."
+      },
+      {
+        "nome": "Jardín Botánico",
+        "testo": "El jardín botánico fundado en 1808 por el príncipe regente Juan de Portugal, a los pies del Corcovado. La avenida de palmeras imperiales, los invernaderos de orquídeas y bromelias y los monos y tucanes entre los árboles lo convierten en la mejor pausa verde de la ciudad.",
+        "come": "En taxi o app desde Ipanema y Leblon, 10-15 minutos; entradas también online en jbrj.eleventickets.com.",
+        "quando": "Temprano por la mañana, con el fresco y los animales más activos.",
+        "tempo": "2-3 horas",
+        "costo": "80 R$ para extranjeros, unos 14 € (2026)",
+        "orari": "Arboreto de jueves a martes 8:00-17:00, los miércoles 11:00-17:00; cerrado el 25 de diciembre y el 1 de enero",
+        "lat": -22.9675,
+        "lng": -43.22389,
+        "url": "https://www.gov.br/jbrj/pt-br/assuntos/visitacao/horarios-e-ingressos"
+      },
+      {
+        "nome": "Parque Lage",
+        "testo": "Una mansión de los años veinte con el patio y la piscina en el centro, dentro de un parque de bosque atlántico bajo el Corcovado. Hoy alberga una escuela de arte y un café, y desde el patio se ve el Cristo sobre la vegetación.",
+        "come": "A pie desde el Jardín Botánico, 10 minutos por la Rua Jardim Botânico.",
+        "quando": "Por la mañana, junto con el Jardín Botánico.",
+        "tempo": "1 hora",
+        "lat": -22.96055,
+        "lng": -43.21204
+      },
+      {
+        "nome": "Real Gabinete Português de Leitura",
+        "testo": "La biblioteca de la comunidad portuguesa, terminada en 1887 en estilo neomanuelino: tres pisos de estanterías de madera bajo un lucernario, con más de 350.000 volúmenes. Es una de las salas de lectura más fotografiadas del mundo.",
+        "come": "En el centro, a pie desde el Largo da Carioca o la estación de metro Carioca.",
+        "quando": "Entre semana.",
+        "tempo": "30 minutos",
+        "orari": "De lunes a viernes 10:00-17:00",
+        "lat": -22.90544,
+        "lng": -43.18219,
+        "url": "https://www.realgabinete.com.br/",
+        "consiglio": "Se entra en silencio: es una biblioteca en uso, no solo un monumento."
+      },
+      {
+        "nome": "Museu de Arte do Rio (MAR)",
+        "testo": "El museo de arte de la Praça Mauá, junto al Museu do Amanhã, en dos edificios unidos por una cubierta ondulada. Las exposiciones cuentan Río y Brasil, y desde la terraza se ve la bahía.",
+        "come": "A pie desde el Museu do Amanhã; metro hasta Uruguaiana y luego el VLT.",
+        "quando": "Los martes, cuando la entrada es gratis.",
+        "tempo": "1-2 horas",
+        "costo": "20 R$, unos 3,5 €; gratis los martes (2026)",
+        "orari": "Exposiciones 11:00-18:00, última entrada a las 17:00; cerrado los miércoles",
+        "lat": -22.89657,
+        "lng": -43.18199,
+        "url": "https://museudeartedorio.org.br/"
+      },
+      {
+        "nome": "Monasterio de São Bento",
+        "testo": "El monasterio benedictino en una colina del centro, iniciado en el siglo XVII. La fachada es sencilla, el interior es todo madera tallada y dorada, uno de los grandes ejemplos del barroco brasileño.",
+        "come": "A pie desde la Praça Mauá; se sube en ascensor desde la Rua Dom Gerardo.",
+        "quando": "El domingo por la mañana para la misa con el canto gregoriano de los monjes, o entre semana.",
+        "tempo": "30-45 minutos",
+        "lat": -22.89703,
+        "lng": -43.17805,
+        "consiglio": "Hombros y piernas cubiertos: es una iglesia en uso."
+      },
+      {
+        "nome": "Lagoa Rodrigo de Freitas",
+        "testo": "La laguna detrás de Ipanema y Leblon, rodeada por un carril bici y peatonal de unos 7 km, con quioscos sobre el agua y el Corcovado encima. Es el paseo en bici más sencillo de la ciudad.",
+        "come": "A pie desde Ipanema; alquiler de bicis en la orilla.",
+        "quando": "Final de la tarde y atardecer.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis",
+        "lat": -22.97112,
+        "lng": -43.21172
+      },
+      {
+        "nome": "Vista Chinesa",
+        "testo": "Un mirador con forma de pagoda en el Parque Nacional de la Tijuca, el bosque dentro de la ciudad. Desde aquí se ven la laguna, Ipanema, el Pan de Azúcar y el Cristo.",
+        "come": "Solo en coche, taxi por app o tour; la carretera sube por el bosque desde el Jardín Botánico.",
+        "quando": "Por la mañana, con el cielo despejado.",
+        "tempo": "1 hora con la carretera",
+        "costo": "Gratis",
+        "lat": -22.97316,
+        "lng": -43.24976,
+        "consiglio": "No subir a pie por las carreteras del bosque: mejor un tour o un coche con conductor."
+      },
+      {
+        "nome": "Maracanã",
+        "testo": "El estadio inaugurado para el Mundial de 1950, el templo del fútbol brasileño. Se visita con un tour por los vestuarios y el campo, o se va a un partido del Flamengo o del Fluminense.",
+        "come": "Metro hasta la estación Maracanã.",
+        "quando": "Una noche de partido, o de día para el tour.",
+        "tempo": "1-2 horas el tour, una noche el partido",
+        "lat": -22.9122,
+        "lng": -43.2303,
+        "consiglio": "A los partidos se va y se vuelve en metro o por app, sin objetos de valor."
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: Cristo Redentor en el primer viaje",
-          "Almuerzo en Santa Teresa o en el centro",
-          "Tarde: Pão de Açúcar",
+          "Mañana: Cristo Redentor con la primera salida",
+          "Comida en Santa Teresa o en el centro",
+          "Tarde: Pan de Azúcar",
           "Noche: atardecer y cena en Ipanema"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: programa de 1 día",
-          "Día 2: mañana en la playa de Ipanema y Copacabana, tarde en el centro y Museu do Amanhã, noche en Lapa"
+          "Día 1: el plan de 1 día",
+          "Día 2: mañana en la playa de Ipanema y Copacabana, tarde en el centro con el Real Gabinete y el Museu do Amanhã, noche en Lapa"
         ]
       },
       {
         "titolo": "3 días",
         "tappe": [
           "Días 1-2 como arriba",
-          "Día 3: Santa Teresa y la Escadaria Selarón, atardecer en el Arpoador"
+          "Día 3: Jardín Botánico y Parque Lage por la mañana, vuelta a la Lagoa en bici",
+          "Tarde: Santa Teresa y la Escadaria Selarón",
+          "Atardecer en el Arpoador"
         ]
       }
     ],
@@ -119,17 +224,20 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Ipanema y Leblon",
         "perChi": "Quien quiere seguridad y restaurantes",
-        "testo": "La zona más cuidada, con el mar y el metro cerca."
+        "testo": "La zona más cuidada, con el mar y el metro cerca.",
+        "fascia": "90-250 €"
       },
       {
         "nome": "Copacabana",
         "perChi": "Quien busca el ambiente clásico y precios más bajos",
-        "testo": "El paseo marítimo siempre está vivo, pero algunas calles interiores son menos seguras de noche."
+        "testo": "El paseo marítimo siempre está vivo, pero algunas calles interiores son menos seguras de noche.",
+        "fascia": "50-180 €"
       },
       {
         "nome": "Santa Teresa",
         "perChi": "Quien busca ambiente artístico",
-        "testo": "Pousadas en villas históricas, pero en la colina y con calles empinadas. De noche mejor moverse en app."
+        "testo": "Pousadas en villas históricas, pero en la colina y con calles empinadas. De noche mejor moverse en app.",
+        "fascia": "60-150 €"
       }
     ],
     sapori: [
@@ -160,6 +268,52 @@ export const destinazioniBrasile: Destinazione[] = [
       "Con Uber y 99 usa la app oficial y comprueba matrícula y nombre del conductor: los avisos oficiales alertan de falsos conductores, también en el aeropuerto.",
       "Los avisos oficiales (por ejemplo los del gobierno británico) desaconsejan visitar las favelas, también con tours guiados.",
       "Dengue extendido en las ciudades: repelente y mangas largas al atardecer."
+    ],
+    gite: [
+      {
+        "nome": "Niterói y el MAC",
+        "distanza": "20 minutos en barco",
+        "come": "Barco desde la estación de Praça XV, en el centro, y luego a pie o por app hasta el museo.",
+        "testo": "Al otro lado de la bahía está el Museo de Arte Contemporáneo de Oscar Niemeyer, el disco blanco suspendido sobre el acantilado, con la mejor vista de Río y el Pan de Azúcar."
+      },
+      {
+        "nome": "Petrópolis",
+        "distanza": "unos 70 km, 1,5 horas",
+        "come": "Bus desde la rodoviária Novo Rio o coche con conductor.",
+        "testo": "La ciudad imperial en las montañas, donde la corte pasaba el verano: el Museo Imperial en el palacio de Pedro II, la catedral y el fresco de la Serra dos Órgãos."
+      },
+      {
+        "nome": "Ilha Grande",
+        "distanza": "unos 150 km, 2,5-3 horas más el barco",
+        "come": "Van y barco combinados desde la Zona Sul, o bus hasta Conceição de Jacareí y barco; mejor con una noche.",
+        "testo": "Una isla sin coches cubierta de bosque atlántico, con senderos entre playas como Lopes Mendes. Forma parte del sitio UNESCO de la Costa Verde junto con Paraty."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Río de Janeiro?",
+        "risposta": "Tres o cuatro días: uno para el Cristo y Santa Teresa, uno para el Pan de Azúcar y las playas, uno para el centro y Lapa, más un margen por el tiempo."
+      },
+      {
+        "domanda": "¿Dónde dormir en Río?",
+        "risposta": "Ipanema y Leblon son las zonas más cuidadas y seguras, Copacabana es más barata y su paseo marítimo siempre está vivo, Santa Teresa tiene más ambiente pero está en la colina. Conviene estar cerca de una parada de metro."
+      },
+      {
+        "domanda": "Cristo Redentor: ¿tren o van?",
+        "risposta": "El tren de cremallera desde Cosme Velho (139 R$) atraviesa el bosque de la Tijuca; las vans oficiales desde Paineiras cuestan menos (unos 87 R$). Los dos se reservan online con día y hora."
+      },
+      {
+        "domanda": "¿A qué hora subir al Pan de Azúcar?",
+        "risposta": "Una hora antes del atardecer, para ver la bahía con luz y la ciudad que se enciende. El último embarque es a las 19:30."
+      },
+      {
+        "domanda": "¿Es Río seguro para los turistas?",
+        "risposta": "El riesgo principal son los hurtos y tirones: móvil en el bolsillo, nada de joyas, poco efectivo y app en lugar de caminar de noche. Los avisos oficiales desaconsejan las favelas, también con tours."
+      },
+      {
+        "domanda": "¿Cuál es la mejor época para Río?",
+        "risposta": "De mayo a octubre, con el invierno suave y seco. De diciembre a marzo hace calor y llueve a menudo por la tarde; el Carnaval llena la ciudad y sube los precios."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],

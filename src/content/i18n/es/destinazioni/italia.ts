@@ -34,13 +34,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "En el refugio la cocina es precisa y repetitiva, y al tercer día se acaba amando: canederli en caldo, gulasch, polenta con queso fundido y setas, Kaiserschmarrn de postre y la sopa de cebada, que es el plato de alta montaña por excelencia. En el fondo del valle el Alto Adigio tiene una cocina propia, ni italiana ni austriaca: speck, Schlutzkrapfen (los raviolis de centeno con espinacas), strudel y los Törggelen otoñales en los masi, cuando sale el vino nuevo. Para beber, el Lagrein y la Schiava en el Alto Adigio, el Teroldego en el Trentino.",
     comeArrivare:
-      "El coche es el medio más práctico y, para ciertos valles, el único sensato. En tren se llega a Bolzano, Bressanone o Calalzo y se continúa con los autobuses de valle, buenos en el Alto Adigio y mucho menos en el Véneto. Los aeropuertos útiles son Venecia, Verona, Innsbruck y Treviso.",
+      "El coche es lo más práctico, y para algunos valles lo único sensato. En tren se llega a Bolzano, Bressanone o Calalzo y se sigue con los autobuses de valle, buenos en el Alto Adigio y mucho menos en el Véneto. Los aeropuertos útiles son Venecia, Verona, Innsbruck y Treviso, a 2-3 horas en coche de los valles. Sin coche, desde Venecia los autobuses Cortina Express y ATVO llegan a Cortina en unas 2 horas y cuarto, por 10-30 € según la fecha.",
     comeSpostarsi:
       "Coche, con la advertencia de que **en verano los aparcamientos de los puntos más conocidos se llenan antes de las ocho de la mañana** y varias carreteras tienen acceso limitado. Los autobuses del Alto Adigio, incluidos en las tarjetas locales de muchos alojamientos, funcionan bien y permiten dejar el coche aparcado; en el Véneto la cobertura es peor. Los teleféricos de verano ahorran cientos de metros de desnivel y conviene meterlos en el presupuesto.",
     periodoMigliore:
       "**de finales de junio a mediados de septiembre**, cuando los refugios están abiertos; antes y después, buena parte de la red está cerrada y algunos senderos altos aún tienen nieve. Julio y agosto son los meses más concurridos y más caros. **Septiembre es el mejor mes**: menos gente, aire limpio, bonitos colores y refugios abiertos hasta finales de mes. En junio, los neveros que quedan en los pasos altos son una variable seria.",
     costi:
-      "Media pensión en refugio, aproximadamente 60-80 € por persona, con descuentos para los socios del CAI y de las asociaciones alpinas afiliadas: el carné se amortiza en tres noches. **Peaje de las Tre Cime, alrededor de 40 € por coche** (válido 12 horas, con reserva obligatoria), teleféricos 15-30 € por tramo, alquiler del kit de ferrata 15-25 € al día.",
+      "Media pensión en refugio, aproximadamente 60-80 € por persona, con descuentos para los socios del CAI y de las asociaciones alpinas afiliadas: el carné se amortiza en tres noches. **Peaje de las Tre Cime, alrededor de 40 € por coche** (válido 12 horas, con reserva obligatoria), teleféricos 15-30 € por tramo, alquiler del kit de ferrata 15-25 € al día. Presupuesto orientativo por persona y día, en habitación doble: **económico 90-120 €** (refugios y agroturismos, comidas en cabañas alpinas), **medio 160-220 €** (hoteles de valle y un teleférico al día), **alto desde 300 €** (hoteles con spa en Cortina o en Val Gardena).",
     erroriDaEvitare: [
       "Presentarse en las Tre Cime o en Braies sin reserva: desde 2026 la carretera de las Tre Cime exige reserva online obligatoria y Braies limita el acceso en coche entre las 9 y las 16 en temporada alta. Quien llega sin ella da media vuelta",
       "Reservar los refugios en junio para agosto: las plazas se agotan desde enero-febrero, y las habitaciones privadas, incluso antes",
@@ -205,6 +205,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "De finales de primavera al otoño, mientras la carretera está abierta: las fechas se consultan en el portal de reservas. Llegar a la apertura o a última hora de la tarde: en las horas centrales de julio y agosto el sendero es una fila continua.",
         "tempo": "3-4 horas para el recorrido completo (unos 10 km)",
         "costo": "40 euros por coche, 2026; la reserva online es obligatoria y el ticket vale 12 horas desde la hora elegida. El autobús lanzadera de Misurina al Rifugio Auronzo cuesta 10 euros por persona y día",
+        "lat": 46.6122,
+        "lng": 12.2961,
         "consiglio": "Hice el recorrido en agosto y parecía una fila india: en septiembre se camina con un tercio de la gente. Si se sale temprano, conviene ir en sentido horario y subir al Locatelli con la luz lateral de la mañana."
       },
       {
@@ -213,6 +215,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Dobbiaco se toma la carretera del valle de Braies hasta el aparcamiento del lago. En verano el acceso en coche está limitado y en las horas centrales requiere reserva: fechas y horarios en la web del Ayuntamiento de Braies. También hay autobuses y lanzaderas desde Dobbiaco y Villabassa.",
         "quando": "De junio a octubre. Al amanecer o a última hora de la tarde se tiene el lago sin multitudes; a mediodía en verano está lleno.",
         "tempo": "1 hora para rodear el lago, 3-4 horas con el sendero hasta la Forcella del Lago",
+        "orari": "Del 1 de julio al 15 de septiembre de 2026, entre las 9 y las 16, en coche solo se entra al valle con reserva online o permiso; antes de las 9 y después de las 16 el acceso es libre, y desde el 16 de septiembre terminan las restricciones.",
+        "lat": 46.69409,
+        "lng": 12.08546,
         "consiglio": "Quien duerme en el valle y va al lago al amanecer o por la tarde vive otra experiencia. Evitar alquilar la barca a mediodía: la cola es larga y el lago está lleno."
       },
       {
@@ -221,6 +226,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Ortisei, el teleférico sube a Furnes y después a Seceda (2.500 m). Desde la cima se puede bajar a pie hacia Santa Cristina pasando por el Rifugio Firenze.",
         "quando": "De junio a octubre, con los teleféricos abiertos en verano. Mejor el primer viaje de la mañana: las nubes suelen subir a media mañana.",
         "tempo": "media jornada; una jornada con el descenso a pie",
+        "costo": "74 € ida y vuelta desde Ortisei, 49 € solo ida (verano de 2026)",
+        "lat": 46.60059,
+        "lng": 11.72579,
+        "url": "https://www.seceda.it/it/estate",
         "consiglio": "La bajada a pie hacia Santa Cristina cuesta en las piernas, pero deja atrás la multitud de la llegada del teleférico. Llevar una chaqueta: en la cima hace viento incluso en agosto."
       },
       {
@@ -229,6 +238,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Siusi allo Sciliar o desde Ortisei se sube en telecabina hasta Compaccio o Mont Seuc. En la meseta los coches particulares no pueden subir casi todo el día: se circula a pie, en autobús o en bicicleta.",
         "quando": "De junio a octubre. A finales de septiembre los alerces se ponen amarillos.",
         "tempo": "una jornada",
+        "lat": 46.54111,
+        "lng": 11.64472,
         "consiglio": "Con las telecabinas se llega directamente a la altura: se puede caminar en llano durante horas y volver con el último viaje. Comprobar el horario de la última bajada."
       },
       {
@@ -237,6 +248,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde el Paso Falzarego o Bai de Dones, con el telesilla hasta el Rifugio Scoiattoli, y luego se camina entre las torres y el museo. Cortina está cerca en coche.",
         "quando": "De finales de junio a mediados de octubre, con los remontes abiertos.",
         "tempo": "3-4 horas con la visita al museo al aire libre",
+        "orari": "Telesilla abierto del 6 de junio al 11 de octubre de 2026, primer viaje a las 9, última subida y última bajada a las 17.",
+        "lat": 46.50925,
+        "lng": 12.05397,
+        "url": "https://www.5torri.it",
         "consiglio": "Es una de las pocas excursiones fáciles con la historia dentro del paisaje: llegar sabiendo la historia de la Primera Guerra Mundial hace las torres mucho más interesantes."
       },
       {
@@ -245,6 +260,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde el Paso Tre Croci, a pocos kilómetros de Cortina, sale el sendero 215, el más transitado. En el tramo final hay pasos expuestos con cables de seguridad; hacen falta botas de montaña. En el lago está prohibido bañarse y acampar.",
         "quando": "De finales de junio a septiembre. Antes, en los tramos de sombra todavía hay nieve.",
         "tempo": "5-6 horas ida y vuelta",
+        "costo": "sendero libre, sin entrada",
+        "lat": 46.52056,
+        "lng": 12.2235,
         "consiglio": "Salir temprano: el sendero es estrecho y en temporada alta se hace cola justo en los cables. El lago es lo mejor al final, pero conviene llegar cuando aún haya luz."
       },
       {
@@ -253,6 +271,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde San Martino di Castrozza, los teleféricos Colverde y Rosetta llevan al Rifugio Rosetta. Desde allí se camina por la meseta.",
         "quando": "De finales de junio a finales de septiembre. El tiempo cambia rápido: salir temprano por la mañana.",
         "tempo": "una jornada",
+        "lat": 46.26744,
+        "lng": 11.83902,
         "consiglio": "En la meseta no hay puntos de referencia y con niebla es fácil perderse: llevar un mapa o el track GPS descargado."
       },
       {
@@ -261,7 +281,62 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde el Passo Fedaia o Malga Ciapela, con el teleférico hasta Punta Rocca. El lago de Fedaia, más abajo, se rodea en una hora.",
         "quando": "De junio a septiembre; las condiciones del glaciar hay que comprobarlas cada temporada.",
         "tempo": "media jornada con teleférico; el lago en una hora",
+        "lat": 46.45971,
+        "lng": 11.8691,
         "consiglio": "Quien quiera el glaciar debe ir con un guía de montaña e informarse de las condiciones antes de salir. Para una excursión ligera basta el lago de Fedaia."
+      },
+      {
+        "nome": "Lago di Carezza",
+        "testo": "Un lago pequeño a unos 1.500 metros, bajo las agujas del Latemar, con el agua que cambia entre verde y azul según la luz. Es uno de los lagos más fotografiados del Alto Adigio y se ve en poco tiempo.",
+        "come": "En el Val d'Ega, en la carretera entre Bolzano y el paso de Costalunga. Desde el aparcamiento de pago un paso subterráneo lleva a la orilla. Las orillas están valladas para protegerlas: se rodea el lago por un sendero circular.",
+        "quando": "A primera hora, con el lago quieto y el Latemar reflejado. De mayo a octubre; a principios de verano el nivel es más alto.",
+        "tempo": "30-45 minutos",
+        "lat": 46.40929,
+        "lng": 11.5751,
+        "consiglio": "Se combina bien con el paso de Costalunga y el Val di Fassa el mismo día."
+      },
+      {
+        "nome": "Passo Giau",
+        "testo": "Un puerto a 2.236 metros entre Cortina y Selva di Cadore, con la pared del Ra Gusela justo encima de la carretera y, enfrente, Cinque Torri, Tofane y Marmolada. Al atardecer es uno de los miradores más bonitos a los que se llega en coche.",
+        "come": "En coche o en moto desde Pocol (Cortina) o desde Selva di Cadore, por una carretera de curvas cerradas. Del puerto salen senderos hacia el Rifugio Nuvolau y las Cinque Torri.",
+        "quando": "Al atardecer o a primera hora. La carretera está abierta en verano; en invierno puede cerrar por nieve.",
+        "tempo": "1 hora para el panorama, media jornada con un sendero",
+        "costo": "carretera sin peaje",
+        "lat": 46.48417,
+        "lng": 12.05167,
+        "consiglio": "Los fines de semana de verano pasan muchas motos: entre semana y fuera de las horas centrales hay más calma."
+      },
+      {
+        "nome": "Lagazuoi",
+        "testo": "Una cima a unos 2.750 metros sobre el paso de Falzarego, con un refugio panorámico y las galerías excavadas en la roca durante la Primera Guerra Mundial. Desde la terraza se ven Tofane, Marmolada y Civetta.",
+        "come": "Desde el paso de Falzarego el teleférico sube al Piccolo Lagazuoi en pocos minutos. Quien tenga experiencia puede bajar a pie por las galerías de guerra, con casco y linterna frontal.",
+        "quando": "En verano, con el teleférico abierto. Por la mañana hay más visibilidad; se puede dormir en el refugio para ver el amanecer y el atardecer.",
+        "tempo": "media jornada",
+        "lat": 46.52775,
+        "lng": 12.008,
+        "url": "https://www.lagazuoi.it",
+        "consiglio": "Las galerías son oscuras, empinadas y resbaladizas: hacen falta casco, frontal y botas de montaña."
+      },
+      {
+        "nome": "Sass Pordoi y el Grupo del Sella",
+        "testo": "El teleférico desde el paso Pordoi llega a casi 3.000 metros sobre la meseta rocosa del Sella, llamada la Terraza de las Dolomitas. Desde allí un sendero lleva al Piz Boè, la cima más alta del grupo.",
+        "come": "Desde el paso Pordoi, entre Canazei y Arabba, en teleférico. El Piz Boè requiere calzado de montaña y paso seguro.",
+        "quando": "Por la mañana, antes de que suban las nubes. Teleférico abierto en verano.",
+        "tempo": "media jornada; una jornada con el Piz Boè",
+        "lat": 46.50061,
+        "lng": 11.80641,
+        "consiglio": "En el Sella hace frío incluso en agosto: chaqueta y capas."
+      },
+      {
+        "nome": "Lago di Misurina",
+        "testo": "Un lago a unos 1.750 metros en la carretera de las Tre Cime, con el Sorapis reflejado en el agua. Tiene un paseo llano alrededor y de aquí salen los autobuses lanzadera al Rifugio Auronzo.",
+        "come": "En coche desde Cortina o desde Auronzo. Aparcamientos en la orilla; la vuelta al lago se hace a pie.",
+        "quando": "Al amanecer o a última hora de la tarde. Se visita todo el año, helado en invierno.",
+        "tempo": "1 hora",
+        "costo": "acceso libre",
+        "lat": 46.58194,
+        "lng": 12.25389,
+        "consiglio": "Si no hay plaza en el peaje de las Tre Cime, se puede dejar el coche aquí y subir en lanzadera."
       }
     ],
     programmi: [
@@ -272,6 +347,13 @@ export const destinazioniItalia: Destinazione[] = [
           "Bajar a pie hacia el Rifugio Firenze y comer canederli y sopa de cebada.",
           "Por la tarde seguir hasta Santa Cristina y volver en autobús a Ortisei.",
           "Cena en Ortisei con speck, Schlutzkrapfen y una copa de Lagrein."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1, Val Gardena: primer teleférico a Seceda, bajada a pie por el Rifugio Firenze hasta Santa Cristina, noche en Ortisei.",
+          "Día 2, Alpe di Siusi o Sass Pordoi: telecabina hasta la meseta y paseo entre las cabañas alpinas, o el teleférico del Pordoi al Sella; a la vuelta, parada en el Lago di Carezza."
         ]
       },
       {
@@ -297,22 +379,26 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Val Gardena (Ortisei, Santa Cristina, Selva)",
         "perChi": "primer viaje, familias, quien quiere servicios",
-        "testo": "El polo mejor equipado: muchos remontes, autobuses de valle, excelentes restaurantes. En temporada alta es cara y está llena, y el fondo del valle está edificado. Los teleféricos llevan enseguida a Seceda y a la Alpe di Siusi."
+        "testo": "El polo mejor equipado: muchos remontes, autobuses de valle, excelentes restaurantes. En temporada alta es cara y está llena, y el fondo del valle está edificado. Los teleféricos llevan enseguida a Seceda y a la Alpe di Siusi.",
+        "fascia": "180-350 €"
       },
       {
         "nome": "Val Badia y Alta Badia (Corvara, La Villa, San Cassiano)",
         "perChi": "quien repite y quiere caminar de verdad",
-        "testo": "Cultura ladina viva, muy buena cocina, base para el Sella y para el Parque Fanes-Sennes-Braies. Un escalón más barata que Gardena. Los pasos en verano están llenos de motos y bicicletas."
+        "testo": "Cultura ladina viva, muy buena cocina, base para el Sella y para el Parque Fanes-Sennes-Braies. Un escalón más barata que Gardena. Los pasos en verano están llenos de motos y bicicletas.",
+        "fascia": "160-320 €"
       },
       {
         "nome": "Cortina d'Ampezzo y Misurina",
         "perChi": "Tre Cime, Cinque Torri, Sorapis, historia de la Primera Guerra Mundial",
-        "testo": "Cerca de los lugares más conocidos, pero cara y con la mundanidad de una localidad de lujo. Tras los Juegos Olímpicos de 2026 conviene comprobar qué está abierto y qué obras siguen. Misurina es más pequeña, junto al lago, y está más cerca de las Tre Cime."
+        "testo": "Cerca de los lugares más conocidos, pero cara y con la mundanidad de una localidad de lujo. Tras los Juegos Olímpicos de 2026 conviene comprobar qué está abierto y qué obras siguen. Misurina es más pequeña, junto al lago, y está más cerca de las Tre Cime.",
+        "fascia": "200-400 €"
       },
       {
         "nome": "Val di Fassa y San Martino di Castrozza",
         "perChi": "quien quiere gastar menos",
-        "testo": "Precios más bajos que en el Alto Adigio con panoramas equivalentes, con Catinaccio, Marmolada y las Pale. Servicios y transporte público menos cuidados, con más distancia entre los polos."
+        "testo": "Precios más bajos que en el Alto Adigio con panoramas equivalentes, con Catinaccio, Marmolada y las Pale. Servicios y transporte público menos cuidados, con más distancia entre los polos.",
+        "fascia": "120-220 €"
       }
     ],
     sapori: [
@@ -348,6 +434,52 @@ export const destinazioniItalia: Destinazione[] = [
       "En algunas regiones el rescate en montaña se paga; conviene un seguro con cobertura para trekking y rescate en helicóptero.",
       "En las vías ferratas usar un kit completo homologado (casco, arnés, disipador) y no ir solo sin experiencia.",
       "Aparcamiento: en los puntos más conocidos en verano las plazas se acaban a primera hora. Muchas carreteras de los puertos tienen limitaciones horarias o prohibiciones para motos ciertos días: mirar las señales."
+    ],
+    gite: [
+      {
+        "nome": "Val di Funes y Santa Maddalena",
+        "distanza": "35 km desde Ortisei, unos 45 minutos en coche",
+        "come": "En coche por Chiusa; aparcamiento de pago encima de Santa Maddalena.",
+        "testo": "La pequeña iglesia de San Giovanni in Ranui delante de las Odle es una de las imágenes más conocidas del Alto Adigio. El valle es tranquilo, con senderos fáciles hacia las cabañas del parque Puez-Odle."
+      },
+      {
+        "nome": "Bolzano y el Museo de Ötzi",
+        "distanza": "35 km desde Ortisei, unos 45 minutos en coche",
+        "come": "En coche o con los autobuses del valle hasta la estación de Bolzano.",
+        "testo": "La capital del Alto Adigio, con los soportales, el mercado de la piazza delle Erbe y el Museo Arqueológico que conserva al Hombre de los hielos. Buena alternativa para un día de lluvia."
+      },
+      {
+        "nome": "Bressanone",
+        "distanza": "30 km desde el Val di Funes, unos 40 minutos en coche",
+        "come": "En coche o en tren por la línea del Brennero.",
+        "testo": "Una pequeña ciudad episcopal con catedral, claustro con frescos y un centro compacto de soportales. Se recorre en media jornada."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para las Dolomitas?",
+        "risposta": "Para un valle bastan 4-5 días, con una excursión al día. Una Alta Via completa pide 7-10. En un fin de semana conviene quedarse en una sola zona, por ejemplo Val Gardena."
+      },
+      {
+        "domanda": "¿Hace falta reservar para las Tre Cime di Lavaredo?",
+        "risposta": "Sí, para subir en coche al Rifugio Auronzo: desde 2026 la carretera de peaje exige reserva online con franja horaria, 40 € por coche. Como alternativa se sube en lanzadera desde Misurina."
+      },
+      {
+        "domanda": "¿Cómo se entra al Lago di Braies en verano?",
+        "risposta": "Del 1 de julio al 15 de septiembre de 2026, entre las 9 y las 16, en coche solo se pasa con reserva online. Fuera de ese horario el acceso es libre; también hay autobuses y lanzaderas desde Dobbiaco."
+      },
+      {
+        "domanda": "¿Cuál es la mejor época para ir a las Dolomitas?",
+        "risposta": "De finales de junio a mediados de septiembre, cuando refugios y remontes están abiertos. Septiembre tiene menos gente y aire más limpio; julio y agosto son los meses más caros y concurridos."
+      },
+      {
+        "domanda": "¿Val Gardena o Cortina como base?",
+        "risposta": "Val Gardena es más cómoda para Seceda, Alpe di Siusi y el Sella, con buenos autobuses. Cortina es mejor para Tre Cime, Cinque Torri, Sorapis y Lagazuoi. Las dos son caras en temporada alta."
+      },
+      {
+        "domanda": "¿Se pueden visitar las Dolomitas sin coche?",
+        "risposta": "En el Alto Adigio sí: autobuses de valle y teleféricos cubren casi todo. En la vertiente véneta es más difícil, pero a Cortina se llega en autobús desde Venecia y de allí salen lanzaderas a los puertos."
+      }
     ],
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
@@ -2459,13 +2591,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Sicilia tiene dos cocinas distintas, una por vertiente. En Palermo domina el street food árabe-normando: arancine (en femenino, en Palermo), panelle, sfincione, pan con bazo para los valientes. En el este prevalecen el pescado y la pasta: pasta alla Norma en Catania, pasta con sardinas, erizos en Siracusa. Luego los dulces, un capítulo aparte: cannoli rellenados en el momento y nunca antes, cassata, granita con brioche en el desayuno, que en verano es la forma correcta de empezar el día. El vino: Etna Rosso del Nerello Mascalese, Nero d'Avola, Grillo y Carricante.",
     comeArrivare:
-      "Vuelos a Palermo y Catania, los dos aeropuertos principales, más Trapani y Comiso. En tren y en coche se llega con el ferry desde Villa San Giovanni: los trenes todavía se embarcan en el barco, cosa que ya casi no se hace en ningún sitio. Desde el norte de Italia, los ferries nocturnos desde Génova, Livorno y Nápoles llevan también el coche.",
+      "Vuelos a Palermo y Catania, los dos aeropuertos principales, más Trapani y Comiso. En tren y en coche se llega con el ferry desde Villa San Giovanni: los trenes todavía se embarcan en el barco, cosa que ya casi no se hace en ningún sitio. Desde el norte de Italia, los ferries nocturnos desde Génova, Livorno y Nápoles llevan también el coche. Desde Palermo Falcone Borsellino el autobús Prestia e Comandè llega al Politeama y a la Estación Central en unos 50 minutos, cada media hora, por unos 6 € online; también está el tren Trinacria Express, alrededor de una hora. Desde Catania Fontanarossa el Alibus llega al centro en 20-30 minutos, 4 €.",
     comeSpostarsi:
       "**El coche es indispensable.** La red ferroviaria es lenta y cubre poco; para quien no conduce, la alternativa son los autobuses, que sin embargo condicionan bastante. Las autopistas unen Palermo, Catania y Mesina; el resto es carretera estatal, con tiempos más largos de lo que sugiere Google.",
     periodoMigliore:
       "**mayo-junio y septiembre-octubre**, sin duda. Julio y agosto son tórridos (en el interior se superan a menudo los 40 grados), concurridos y caros. El invierno es suave y excelente para las ciudades de arte y los yacimientos arqueológicos, con el mar fuera de juego y muchos alojamientos costeros cerrados. Abril y noviembre son excelentes y poco transitados.",
     costi:
-      "Más económica que el centro-norte en alojamientos y restauración, con la excepción de Taormina y las localidades de playa en agosto. Las entradas a los yacimientos arqueológicos son contenidas; la entrada combinada para varios yacimientos casi siempre conviene.",
+      "Más económica que el centro-norte en alojamientos y restauración, con la excepción de Taormina y las localidades de playa en agosto. Las entradas a los yacimientos arqueológicos son contenidas; la entrada combinada para varios yacimientos casi siempre conviene. Presupuesto orientativo por persona y día, en habitación doble: **económico 70-90 €** (B&B y comida callejera), **medio 120-170 €** (hoteles céntricos, trattorias, coche de alquiler entre dos), **alto desde 250 €** (Taormina, Ortigia y resorts junto al mar).",
     erroriDaEvitare: [
       "Intentar hacer toda Sicilia en una semana: es grande como una región y media, las carreteras interiores son lentas, y el resultado es pasar las vacaciones en el coche",
       "Hacer Agrigento a mediodía en verano: el Valle de los Templos no tiene sombra y se superan los 40 grados",
@@ -2546,7 +2678,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A pie desde el centro histórico de Palermo, cerca de la Catedral, en Piazza del Parlamento. Se entra con entrada a hora fija; la visita es libre, audioguía opcional.",
         "quando": "De lunes a sábado de 8:30 a 16:30, domingos y festivos de 8:30 a 12:30 (horas de última entrada, web de la Fundación Federico II). Por la mañana, por la luz sobre los mosaicos. Consultar los cierres por ceremonias y sesiones de la asamblea regional.",
         "tempo": "1 hora y media",
-        "url": "https://www.fondazionefedericosecondo.it/",
+        "costo": "19 € con el Palacio Real, 15,50 € solo la Capilla Palatina (dato 2025-26)",
+        "orari": "Capilla Palatina: lunes-sábado 8:30-16:30, domingos y festivos 8:30-12:30. El recorrido con el Palacio Real no se visita martes ni miércoles.",
+        "lat": 38.11083,
+        "lng": 13.35361,
+        "url": "https://federicosecondoonline.tm.vivaticket.com",
         "consiglio": "Mirar hacia arriba: los mosaicos del ábside ocupan una pared entera y el techo de muqarnas justifica el tortícolis."
       },
       {
@@ -2555,6 +2691,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Palermo en el autobús AMAT 389 desde la Piazza Indipendenza (a dos pasos del Palazzo dei Normanni) o en taxi. La catedral se visita por libre; el claustro tiene entrada aparte.",
         "quando": "A primera hora o a primera hora de la tarde. El horario tiene una pausa a mediodía: comprobar antes.",
         "tempo": "2 horas",
+        "costo": "catedral gratuita; claustro 8 €, gratis el primer domingo del mes",
+        "orari": "Catedral: lunes-sábado 9-12:45 y 14-16:45, domingos y festivos 14-17. Claustro: lunes-sábado 9-18:30, domingos y festivos 9-13.",
+        "lat": 38.08186,
+        "lng": 13.29207,
         "consiglio": "Subir a la terraza de los tejados, si está abierta: se camina sobre la nave y se ve Palermo."
       },
       {
@@ -2563,6 +2703,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A pie desde el Teatro Massimo o la estación. El mercado abre por la mañana, hasta primera hora de la tarde.",
         "quando": "Por la mañana. El mercado cierra a primera hora de la tarde. El domingo está más tranquilo.",
         "tempo": "1-2 horas",
+        "costo": "entrada libre",
+        "lat": 38.11192,
+        "lng": 13.35952,
         "consiglio": "Comer de pie en los puestos más llenos de palermitanos, no en los que tienen carta en inglés."
       },
       {
@@ -2571,6 +2714,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde la estación de Agrigento se toma un autobús urbano hasta la entrada, o se va en coche con aparcamiento de pago. El camino por la cresta es llano.",
         "quando": "A primera hora o al atardecer: a mediodía en verano no hay sombra y el calor es muy fuerte. En verano hay aperturas nocturnas: consultar las fechas en la web.",
         "tempo": "3 horas",
+        "costo": "unos 23 € la entrada combinada con el Jardín de la Kolymbethra (2026); algunos domingos gratis, calendario en la web",
+        "orari": "Abierto todos los días del año desde las 8:30. Del 20 de junio al 20 de septiembre abre también por la noche, con entrada hasta las 22 entre semana y las 23 en vísperas de festivo y festivos.",
+        "lat": 37.2897,
+        "lng": 13.5922,
         "url": "https://www.parcovalledeitempli.it/",
         "consiglio": "En las noches de verano se visita con los templos iluminados y una temperatura soportable."
       },
@@ -2580,6 +2727,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Palermo, Segesta más cerca y Selinunte más lejos. Desde el aparcamiento de Segesta una lanzadera sube al teatro.",
         "quando": "Por la mañana, por el calor. Selinunte al atardecer es muy bonito.",
         "tempo": "2 horas en Segesta, 3 en Selinunte",
+        "lat": 37.94145,
+        "lng": 12.83307,
         "consiglio": "Dormir en Trapani o Marsala para ver los dos sitios con calma en día y medio."
       },
       {
@@ -2588,6 +2737,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Catania en coche o autobús hasta el Rifugio Sapienza. Por encima de cierta altura el guía es obligatorio. Calzado cerrado, capas de abrigo y cortavientos.",
         "quando": "Mañana o atardecer con cielo despejado. Las ascensiones pueden suspenderse por actividad o por el tiempo.",
         "tempo": "Medio día, un día entero con la excursión a los cráteres",
+        "costo": "paquete de teleférico, todoterreno y guía desde unos 80-95 € por persona (2026)",
+        "lat": 37.70022,
+        "lng": 14.99825,
         "url": "https://www.parcoetna.it/",
         "consiglio": "Llevar más capas de las que parecen necesarias: en altura hace frío incluso en verano."
       },
@@ -2597,6 +2749,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ortigia a pie desde el puente; el parque arqueológico a pie o en autobús desde la estación. Se visita por libre.",
         "quando": "La Neapolis a primera hora. En mayo-junio, durante las representaciones clásicas en el teatro griego, la visita puede estar limitada.",
         "tempo": "Un día entero, medio día para Ortigia",
+        "costo": "Catedral unos 2-3 €; el parque de la Neápolis con entrada propia o combinada con el Museo Paolo Orsi",
+        "lat": 37.0596,
+        "lng": 15.29383,
         "consiglio": "Cenar en Ortigia y alojarse fuera de la zona de tráfico limitado, donde aparcar cuesta menos."
       },
       {
@@ -2605,6 +2760,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche, la manera adecuada: las tres ciudades están cerca entre sí. Se aparca fuera y se recorre a pie.",
         "quando": "A primera hora de la tarde para las fachadas doradas, de noche para Noto iluminada. Evitar agosto.",
         "tempo": "Un día para dos ciudades, dos días para tres",
+        "lat": 36.89137,
+        "lng": 15.07081,
         "consiglio": "Dormir en Ragusa Ibla o Módica: tranquilo y con muy buenos restaurantes, y se ahorra respecto a Noto."
       },
       {
@@ -2613,6 +2770,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Tren hasta Taormina-Giardini y luego autobús o taxi cuesta arriba. En coche, dejarlo en un aparcamiento de pago fuera del centro.",
         "quando": "A primera hora, antes de los autobuses turísticos, o al atardecer. Muy concurrido en temporada alta.",
         "tempo": "2 horas",
+        "costo": "unos 14 € (2026)",
+        "lat": 37.85245,
+        "lng": 15.29212,
         "consiglio": "Subir a Castelmola a pie o en coche: mejor panorámica y mucha menos gente."
       },
       {
@@ -2621,6 +2781,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Enna o Catania, siguiendo hasta Piazza Armerina. Pasarelas elevadas guían la visita.",
         "quando": "Mañana o primera hora de la tarde; evitar las horas centrales del verano, la cubierta retiene el calor.",
         "tempo": "1 hora y media",
+        "costo": "14 € la general, 7 € de 18 a 24 años; gratis el primer domingo del mes",
+        "orari": "Todos los días. De finales de marzo a finales de octubre 9-19, última entrada a las 18; de finales de octubre a finales de marzo 9-17:30, última entrada a las 16:30.",
+        "lat": 37.36472,
+        "lng": 14.33455,
+        "url": "https://www.villaromanadelcasale.it",
         "consiglio": "Combinarla con Enna y las Madonie: el interior cambia la percepción de la isla."
       },
       {
@@ -2629,7 +2794,33 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche hasta la entrada de cada una. En el Zingaro y Vendicari se camina; a la Scala dei Turchi se va desde la playa de Realmonte.",
         "quando": "Primavera y principios de verano o septiembre. En agosto están llenas y achicharrantes. La entrada al Zingaro es de pago.",
         "tempo": "Medio día cada una",
+        "costo": "Zingaro 5 € general, 3 € reducida; Scala dei Turchi unos 6 € en turnos de 20 minutos, cuando está abierta (2026); Vendicari entrada libre",
+        "orari": "Reserva del Zingaro: todos los días 8-16.",
+        "lat": 38.10424,
+        "lng": 12.79083,
+        "url": "https://www.riservazingaro.it",
         "consiglio": "Llevar agua, gorra y calzado de caminar incluso para la playa: no hay quioscos a lo largo de los senderos."
+      },
+      {
+        "nome": "Catania: Piazza del Duomo, Via Etnea y la Pescheria",
+        "testo": "El centro barroco de Catania, reconstruido en piedra volcánica tras el terremoto de 1693. En la plaza está el Liotru, el elefante de piedra negra símbolo de la ciudad; la Via Etnea sube recta hacia el volcán. Al lado, la Pescheria es el mercado de pescado más teatral de la isla.",
+        "come": "A pie desde la estación o con el Alibus desde el aeropuerto, en 20-30 minutos. Con una hora más se puede entrar en el Monasterio de los Benedictinos, hoy sede de la universidad.",
+        "quando": "La Pescheria por la mañana, hasta la hora de comer. La Via Etnea por la noche, cuando se llena.",
+        "tempo": "media jornada",
+        "costo": "plaza y mercado libres",
+        "lat": 37.50246,
+        "lng": 15.08821,
+        "consiglio": "Cenar pasta alla Norma, el plato de la ciudad, que toma el nombre de la ópera de Bellini, nacido aquí."
+      },
+      {
+        "nome": "Cefalú y su catedral normanda",
+        "testo": "Un pueblo de pescadores bajo una roca, con una playa larga delante del casco antiguo. La catedral, mandada construir por Roger II, forma parte del sitio UNESCO árabe-normando con Palermo y Monreale: en el ábside hay un Cristo Pantocrátor en mosaico entre los más bellos de la Edad Media.",
+        "come": "En tren desde Palermo Centrale en una hora aproximadamente, luego a pie desde la estación al centro. En coche se deja en los aparcamientos de pago sobre el paseo marítimo.",
+        "quando": "De abril a octubre para sumar la playa; a primera hora para la catedral, antes de los grupos.",
+        "tempo": "media jornada o una jornada con la playa",
+        "lat": 38.03983,
+        "lng": 14.02359,
+        "consiglio": "Quien tenga piernas puede subir a la Rocca, sobre el pueblo: un sendero de una hora lleva a los restos del templo de Diana y a la vista de toda la costa."
       }
     ],
     programmi: [
@@ -2641,6 +2832,13 @@ export const destinazioniItalia: Destinazione[] = [
           "Almuerzo: comida callejera en Ballarò.",
           "Tarde: Monreale en autobús o taxi.",
           "Noche: de vuelta a Palermo, cena con vino siciliano."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1, Palermo: Capilla Palatina por la mañana, comida en Ballarò, Monreale por la tarde.",
+          "Día 2, Cefalú: tren desde Palermo Centrale, catedral por la mañana, tarde en la playa o en la Rocca, regreso por la noche."
         ]
       },
       {
@@ -2666,22 +2864,26 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Centro de Palermo",
         "perChi": "Quien quiere ciudad, comida y arte",
-        "testo": "Base ideal para el oeste. Ruidosa y caótica, con excelentes mercados, pero aparcar es difícil: mejor dormir donde haya garaje."
+        "testo": "Base ideal para el oeste. Ruidosa y caótica, con excelentes mercados, pero aparcar es difícil: mejor dormir donde haya garaje.",
+        "fascia": "70-140 €"
       },
       {
         "nome": "Catania",
         "perChi": "Quien llega en avión y quiere el Etna",
-        "testo": "Base para el Etna, Siracusa y Taormina. Barroca y viva, con un centro algo descuidado fuera de las calles principales. Noches animadas, movimiento también de madrugada."
+        "testo": "Base para el Etna, Siracusa y Taormina. Barroca y viva, con un centro algo descuidado fuera de las calles principales. Noches animadas, movimiento también de madrugada.",
+        "fascia": "60-120 €"
       },
       {
         "nome": "Ortigia, Siracusa",
         "perChi": "Quien busca un centro peatonal y mar",
-        "testo": "Isla pequeña y compacta, bonita de noche, con zona de tráfico limitado. Habitaciones caras en temporada alta y aparcamiento fuera de la isla."
+        "testo": "Isla pequeña y compacta, bonita de noche, con zona de tráfico limitado. Habitaciones caras en temporada alta y aparcamiento fuera de la isla.",
+        "fascia": "90-180 €"
       },
       {
         "nome": "Ragusa Ibla y Módica",
         "perChi": "Quien quiere una base tranquila para el barroco",
-        "testo": "Más tranquilas y baratas que Taormina y Noto, con muy buena cocina. Hacen falta coche y algo de paciencia con las calles en cuesta."
+        "testo": "Más tranquilas y baratas que Taormina y Noto, con muy buena cocina. Hacen falta coche y algo de paciencia con las calles en cuesta.",
+        "fascia": "70-130 €"
       }
     ],
     sapori: [
@@ -2717,6 +2919,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Carteristas en los mercados y en el centro de Palermo y Catania: bolso por delante, móvil en el bolsillo.",
       "Los tiempos de viaje son más largos de lo previsto en las carreteras estatales del interior: dejar margen sobre lo que indica el mapa.",
       "Tasa turística en las principales ciudades: se paga en el hotel, consultar el importe del municipio."
+    ],
+    gite: [
+      {
+        "nome": "Islas Eolias (Lipari y Vulcano)",
+        "distanza": "alrededor de 1 hora en hidroala desde Milazzo",
+        "come": "En coche o autobús hasta el puerto de Milazzo, luego hidroala a Vulcano y Lipari. En verano hay salidas frecuentes; en invierno son pocas y dependen del mar.",
+        "testo": "Siete islas volcánicas: en Vulcano se sube al cráter y se toman baños de barro, Lipari tiene el castillo y el museo arqueológico. Un día basta para probar, pero conviene dormir allí."
+      },
+      {
+        "nome": "Erice",
+        "distanza": "15 km desde Trápani, con teleférico desde la parte baja de la ciudad",
+        "come": "Teleférico desde Trápani (cuando funciona) o en coche por una carretera de curvas.",
+        "testo": "Un pueblo medieval a 750 metros sobre Trápani, con callejuelas empedradas, el Castillo de Venus y vistas a las salinas y a las Égadas. Las pastelerías venden los dulces de almendra del convento."
+      },
+      {
+        "nome": "Favignana y las islas Égadas",
+        "distanza": "unos 30 minutos en hidroala desde Trápani",
+        "come": "Hidroala desde Trápani; en la isla se va en bici de alquiler.",
+        "testo": "Una isla llana de canteras de toba y calas de agua clarísima, como Cala Rossa y el Bue Marino. Está en su mejor momento en mayo-junio y septiembre."
+      },
+      {
+        "nome": "Gargantas del Alcantara",
+        "distanza": "unos 20 km desde Taormina",
+        "come": "En coche o con los autobuses desde Taormina y Giardini Naxos.",
+        "testo": "Un cañón de basalto excavado por el río en las coladas del Etna, con columnas de lava en prismas. Se camina por agua helada: hacen falta escarpines o botas."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para visitar Sicilia?",
+        "risposta": "Para una mitad de la isla 7-8 días, para la vuelta completa al menos 12-14. En un fin de semana largo conviene elegir una ciudad, Palermo o Catania, y sus excursiones."
+      },
+      {
+        "domanda": "¿Mejor Sicilia oriental u occidental?",
+        "risposta": "La primera vez el este, por el Etna, Siracusa, el barroco del Val di Noto y Taormina, con distancias más cortas. El oeste por Palermo, Monreale, Segesta y Selinunte, con menos turistas y precios más bajos."
+      },
+      {
+        "domanda": "¿Hace falta coche en Sicilia?",
+        "risposta": "Casi siempre sí: los trenes son lentos y cubren poco. Sin coche se pueden hacer bien Palermo con Monreale y Cefalú, o Catania con Siracusa y Taormina, con autobuses y trenes regionales."
+      },
+      {
+        "domanda": "¿Cuándo ir a Sicilia?",
+        "risposta": "Mayo-junio y septiembre-octubre. Julio y agosto son tórridos, más de 40 grados en el interior, concurridos y caros; el invierno es suave y va bien para ciudades y yacimientos."
+      },
+      {
+        "domanda": "¿Hay que reservar la Capilla Palatina?",
+        "risposta": "No es obligatorio, pero la entrada online evita la cola. Los horarios cambian con la actividad de la Asamblea Regional, que tiene sede en el palacio: el recorrido con el Palacio Real no se visita martes ni miércoles."
+      },
+      {
+        "domanda": "¿Se puede subir al Etna por libre?",
+        "risposta": "Hasta el Rifugio Sapienza y los cráteres Silvestri sí, en coche. A partir de cierta altura el guía es obligatorio, y la zona de la cumbre puede cerrarse sin aviso por la actividad del volcán."
+      }
     ],
     esperienzeSlugs: ['etna'],
     tripSlugs: ['sicilia-itinerario', 'sicilia-completa'],

@@ -383,12 +383,11 @@ export const destinazioniEgitto: Destinazione[] = [
       "Get in at 7 when it opens for an hour of good light and fewer groups",
       "Get around the plateau on the internal electric bus instead of by horse or camel",
     ],
-    comeArrivare: "Giza is 30-60 minutes from central Cairo depending on traffic; Saqqara and Dahshur are 45-60 minutes from Giza, by car with a driver or on a tour.",
+    comeArrivare: "Giza is 15-20 km from central Cairo, 20 minutes to an hour depending on traffic, by Uber or Careem. From Cairo airport (CAI) it takes 45-75 minutes to Giza, roughly EGP 300-500 by Uber; some flights use Sphinx International Airport, which is closer. Saqqara and Dahshur are 45-60 minutes from Giza: go with a driver for the day, roughly $30-50 per vehicle, or on a tour.",
     comeSpostarsi:
       "At Giza the internal electric bus links the entrance, the pyramids and the Sphinx; for Saqqara and Dahshur you need a car with a driver for the day (roughly $30-50).",
     periodoMigliore: "October to April, always early in the morning",
-    costi:
-      "Giza plateau about 700 EGP; inside the Great Pyramid about 1,500 EGP; Saqqara about 450-600 EGP with the main tombs; Dahshur around 150-200 EGP (approximate, prices change often).",
+    costi: "Low budget about €30-45 a day per person (guesthouse in Nazlet el-Semman, koshari and street food, the plateau only); mid €70-110 (hotel near the GEM, GEM and Giza, driver for Saqqara and Dahshur); high from €180 up (luxury hotel below the pyramids, Egyptologist guide, inside Khufu). Tickets 2026: plateau EGP 700, GEM EGP 1,830, Saqqara 600, Dahshur 200, Memphis EGP 200; one euro is about EGP 60.",
     erroriDaEvitare: [
       "Believing anyone who says “the entrance is closed” or “you have to go this way”: it's the first hook for the paid camel ride",
       "Getting on a camel without agreeing on the total price, the duration and what it includes: the price doubles to get down",
@@ -400,61 +399,221 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Giza Pyramids and the Sphinx",
         "testo": "The Great Pyramid of Khufu, those of Khafre and Menkaure and the Sphinx: Egypt's most famous group, on the plateau south-west of Cairo. The pyramid interiors need separate tickets.",
         "come": "From Giza or Cairo by Uber or with a driver; you get around on foot, by shuttle or on horseback.",
-        "quando": "Open daily 8am-4pm (2026). At opening time the light is better and there are fewer groups.",
+        "quando": "At opening: the light is better and there are fewer groups.",
         "tempo": "3-4 hours",
+        "costo": "EGP 700, about €11.50, for foreign adults, 350 for students (2026). Great Pyramid, pyramids of Khafre and Menkaure, tomb of Meresankh III and workers' cemetery extra.",
+        "orari": "Daily from 7am, last entry 4pm (official ticket office egymonuments.com, 2026)",
+        "lat": 29.97611,
+        "lng": 31.13278,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
-        "consiglio": "The panoramic point behind Menkaure shows the three pyramids together, with no crowd.",
-        "costo": "EGP 700 for foreign adults, 350 for students (2026). Great Pyramid, Khafre and Menkaure pyramids, tomb of Meresankh III and Workers' Cemetery extra: prices at the ticket office."
+        "consiglio": "The panoramic point behind Menkaure shows the three pyramids together, with no crowd."
       },
       {
         "nome": "Saqqara",
         "testo": "Djoser's Step Pyramid, considered the first large building in cut stone, and the nobles' tombs, such as the mastabas of Mereruka and of Ti, a senior Fifth Dynasty official, with very fine reliefs of farming, fishing, marsh hunting and boat building. The mastaba of Ti is not listed on the official tickets: ask at the ticket office whether it is open.",
         "come": "By car with a driver from Giza or Cairo.",
-        "quando": "Open daily 8am-4pm (2026). Best in the morning.",
+        "quando": "Morning.",
         "tempo": "2-3 hours",
+        "costo": "EGP 600, about €10, for the area with the Imhotep Museum; nobles' and New Kingdom tombs EGP 400, Mereruka 200, inside Djoser 280 (foreign adults, 2026)",
+        "orari": "Daily 8am-4pm (2026)",
+        "lat": 29.87111,
+        "lng": 31.21639,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
-        "consiglio": "The painted tombs are as worthwhile as the pyramid and are usually less crowded.",
-        "costo": "EGP 600 for the area for foreign adults; inclusive ticket with the Imhotep Museum, Nobles' and New Kingdom tombs, Mereruka and Mehu EGP 1,400 (2026)"
+        "consiglio": "The painted tombs are as worthwhile as the pyramid and are usually less crowded."
       },
       {
-        "nome": "Dahshur",
+        "nome": "Dahshur and the Red Pyramid",
         "testo": "The Red Pyramid and the Bent Pyramid, built by Sneferu: the attempts that led to the true smooth-sided pyramid. Usually quiet.",
         "come": "By car with a driver, near Saqqara.",
-        "quando": "Open daily 8am-5pm (2026). Best in the morning, when it is cooler.",
+        "quando": "Morning, when it is less hot.",
         "tempo": "1-2 hours",
+        "costo": "EGP 200, about €3.50, for foreign adults, 100 for students (2026); you go down into the Red Pyramid at no extra cost",
+        "orari": "Daily 8am-5pm (2026)",
+        "lat": 29.80833,
+        "lng": 31.20583,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
-        "consiglio": "A great addition to Saqqara for those with a full day and a driver.",
-        "costo": "EGP 200 for foreign adults, 100 for students (2026)"
+        "consiglio": "A great addition to Saqqara for those with a full day and a driver."
+      },
+      {
+        "nome": "Inside the Great Pyramid",
+        "testo": "You climb, bent over, along a narrow passage to the Grand Gallery, over eight metres high, and the King's Chamber with its granite sarcophagus. The chambers are bare: the interest lies in the construction.",
+        "come": "Separate ticket on top of the area ticket; limited entries.",
+        "quando": "Right at opening, before a queue forms.",
+        "tempo": "30-45 minutes",
+        "costo": "EGP 1,000, about €16.50, for foreign adults according to the Ministry website, on top of the area ticket (2026)",
+        "orari": "Daily 7am-5pm (2026)",
+        "lat": 29.97917,
+        "lng": 31.13417,
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-pyramid/",
+        "consiglio": "If you suffer from claustrophobia or back trouble, think twice: the passage is low and hot."
+      },
+      {
+        "nome": "The Sphinx and Khafre's Valley Temple",
+        "testo": "The Sphinx, carved out of the plateau's bedrock, is about 73 metres long. Next to it is Khafre's valley temple, with pink granite pillars, from which you reach the terrace in front of the statue.",
+        "come": "From the Sphinx entrance, below, or on foot from Khafre's pyramid along the causeway.",
+        "quando": "Early morning, or in the evening with the sound and light show.",
+        "tempo": "45 minutes",
+        "costo": "Included in the plateau ticket (2026)",
+        "lat": 29.97526,
+        "lng": 31.13758
+      },
+      {
+        "nome": "Pyramid of Khafre",
+        "testo": "The second pyramid of Giza, which looks the tallest because it stands on higher ground and still has a stretch of its original limestone casing at the top.",
+        "come": "On foot or by the internal electric bus; the interior has a separate ticket, price at the ticket office.",
+        "quando": "Morning.",
+        "tempo": "30 minutes from outside",
+        "lat": 29.97611,
+        "lng": 31.13083
+      },
+      {
+        "nome": "Pyramid of Menkaure",
+        "testo": "The smallest of the three great pyramids, with the three queens' pyramids beside it and part of its granite casing still at the base.",
+        "come": "On foot or by electric bus, towards the panoramic point.",
+        "quando": "Morning.",
+        "tempo": "20-30 minutes",
+        "lat": 29.9725,
+        "lng": 31.12833
+      },
+      {
+        "nome": "Panoramic point",
+        "testo": "The plateau in the desert behind Menkaure from which you see all the Giza pyramids lined up. It is the classic photo, and there are usually fewer people than under Khufu.",
+        "come": "By the internal electric bus or on foot, about 20 minutes from Menkaure.",
+        "quando": "Morning or the last hour before closing.",
+        "tempo": "30 minutes",
+        "costo": "Included in the plateau ticket (2026)",
+        "lat": 29.973,
+        "lng": 31.11963,
+        "consiglio": "Camel drivers and sellers gather here: no rides without an agreed total price."
+      },
+      {
+        "nome": "Grand Egyptian Museum",
+        "testo": "The new national museum two kilometres from the pyramids: the grand staircase with statues of pharaohs, the main galleries, the Khufu boats museum and the Tutankhamun halls, with his treasure displayed in full.",
+        "come": "Uber or taxi from the plateau, about 10 minutes. Timed entry, to be booked online.",
+        "quando": "Half a day after the pyramids; on Wednesdays and Saturdays it stays open into the evening.",
+        "tempo": "3-4 hours",
+        "costo": "EGP 1,830, about €30, from 1 November 2026 (from the trip on this site)",
+        "orari": "Sunday, Monday, Tuesday, Thursday and Friday: complex 8:30am-7pm, galleries 9am-6pm; Wednesday and Saturday: complex 8:30am-10pm, galleries 9am-9pm; last entry one hour before the galleries close (2026)",
+        "lat": 29.995,
+        "lng": 31.1193,
+        "url": "https://visit-gem.com/en/home"
+      },
+      {
+        "nome": "Step Pyramid of Djoser",
+        "testo": "The first large building in cut stone, commissioned by Djoser and attributed to the architect Imhotep, around 2650 BC. Since the restoration you can also go inside, down to the shaft and the corridors with blue tiles.",
+        "come": "Within the Saqqara area, on foot from the entrance of the funerary complex.",
+        "quando": "Morning.",
+        "tempo": "1 hour with the interior",
+        "costo": "EGP 280, about €4.50, for the interior, on top of the area ticket (foreign adults, 2026)",
+        "orari": "Daily 8am-4pm (2026)",
+        "lat": 29.8711,
+        "lng": 31.2167,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/"
+      },
+      {
+        "nome": "Serapeum",
+        "testo": "The underground galleries where the sacred Apis bulls were buried, with about twenty granite sarcophagi weighing tens of tonnes each. The scale is striking.",
+        "come": "In the Saqqara area, by car from the main entrance.",
+        "quando": "Midday, when it is hottest outside: underground it is cool.",
+        "tempo": "30-45 minutes",
+        "costo": "EGP 180, about €3, for foreign adults according to the Ministry website (2026)",
+        "orari": "Daily 8am-5pm (2026)",
+        "lat": 29.87472,
+        "lng": 31.21242,
+        "url": "https://egymonuments.gov.eg/en/monuments/serapeum/"
+      },
+      {
+        "nome": "Mastaba of Mereruka",
+        "testo": "The tomb of the vizier of Pharaoh Teti, with more than thirty decorated rooms: scenes of hunting, fishing, craftsmen and dancing, with colours partly still visible.",
+        "come": "In the Saqqara area, a few steps from the pyramid of Teti.",
+        "quando": "Morning.",
+        "tempo": "30 minutes",
+        "costo": "EGP 200, about €3.50, for foreign adults, on top of the area ticket (2026)",
+        "orari": "Daily 8am-4pm (2026)",
+        "lat": 29.8759,
+        "lng": 31.2212
+      },
+      {
+        "nome": "Imhotep Museum",
+        "testo": "The museum at the Saqqara entrance, with finds from the necropolis and a reconstruction of the library of the Egyptologist Jean-Philippe Lauer, who spent his life restoring the Djoser complex.",
+        "come": "At the entrance to the Saqqara area.",
+        "quando": "On arrival, to understand the site before walking around it.",
+        "tempo": "30-45 minutes",
+        "costo": "Included in the Saqqara ticket, EGP 600 (2026)",
+        "orari": "Daily 8am-5pm, ticket office until 4pm (2026)",
+        "lat": 29.86944,
+        "lng": 31.22472,
+        "url": "https://egymonuments.gov.eg/en/museums/imhotep-museum/"
+      },
+      {
+        "nome": "Bent Pyramid",
+        "testo": "Sneferu's pyramid that changes slope halfway up, perhaps because the structure showed signs of instability. It keeps much of its smooth outer casing.",
+        "come": "At Dahshur, a few minutes by car from the Red Pyramid.",
+        "quando": "Morning.",
+        "tempo": "30 minutes",
+        "costo": "Included in the Dahshur ticket, EGP 200 (2026)",
+        "orari": "Daily 8am-5pm (2026)",
+        "lat": 29.79028,
+        "lng": 31.20917,
+        "url": "https://egymonuments.gov.eg/en/monuments/the-bent-pyramid/"
+      },
+      {
+        "nome": "Memphis (Mit Rahina)",
+        "testo": "What remains of Egypt's first capital is an open-air museum among palm groves: the reclining colossus of Ramesses II, an alabaster sphinx and scattered statues. A quick stop on the road between Saqqara and Giza.",
+        "come": "By car, between Saqqara and Cairo.",
+        "quando": "On the same day as Saqqara and Dahshur.",
+        "tempo": "30-45 minutes",
+        "costo": "EGP 200, about €3.50, for foreign adults, 100 for students (2026)",
+        "orari": "Daily from 8am, last entry 4pm (2026)",
+        "lat": 29.84944,
+        "lng": 31.255,
+        "url": "https://egymonuments.com/details/Memphis"
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Giza at opening",
-          "Lunch",
-          "Afternoon at Saqqara",
-          "Return to Cairo"
+          "Giza at opening: Khufu, the interior if you wish, Khafre and Menkaure",
+          "Panoramic point by electric bus, then the Sphinx and the valley temple",
+          "Lunch near the plateau",
+          "Afternoon: Grand Egyptian Museum"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Giza and the Grand Egyptian Museum",
-          "Day 2: Saqqara and Dahshur with a driver"
+          "Day 1 as above",
+          "Day 2 with a driver: Saqqara (Imhotep Museum, Djoser, Mereruka, Serapeum)",
+          "Lunch on the way, then Dahshur: Red and Bent pyramids",
+          "Back via Memphis"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: a second, unhurried visit to the GEM, or Meidum and the Fayoum oasis for the day"
         ]
       }
     ],
     zone: [
       {
-        "nome": "Giza",
+        "nome": "Giza, Nazlet el-Semman",
         "perChi": "those who want the pyramids from the window",
-        "testo": "Hotels with views, very close to the entrance and the GEM. A noisy, untidy area."
+        "testo": "Guesthouses and small hotels with terraces over the plateau, right by the Sphinx entrance. A noisy, run-down area.",
+        "fascia": "€30-50"
       },
       {
         "nome": "Cairo",
         "perChi": "those who want other districts within reach",
         "testo": "You do the day by Uber or with a driver: more choice of places, but a long drive in traffic."
+      },
+      {
+        "nome": "Giza, GEM area",
+        "perChi": "those who want a modern hotel near the pyramids and the museum",
+        "testo": "Boutique and chain hotels along the Grand Egyptian Museum road, a few minutes by car from the plateau.",
+        "fascia": "€70-120"
       }
     ],
     sapori: [
@@ -482,6 +641,52 @@ export const destinazioniEgitto: Destinazione[] = [
       "Do not buy papyrus and souvenirs at the entrance from the sellers who approach."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Cairo",
+        "distanza": "about 15 km, 20-60 minutes",
+        "come": "Uber or Careem, depending on traffic.",
+        "testo": "Islamic Cairo with the Citadel and Khan el-Khalili, the Coptic quarter and the Egyptian Museum on Tahrir Square: the other half of a visit to the pyramids."
+      },
+      {
+        "nome": "Meidum",
+        "distanza": "about 80 km, 1-1.5 hours",
+        "come": "Car with driver for the day.",
+        "testo": "Sneferu's collapsed pyramid, an attempt earlier than Dahshur, in the middle of the countryside and almost always deserted. You can enter the inner chamber."
+      },
+      {
+        "nome": "Fayoum oasis and Wadi el-Rayan",
+        "distanza": "about 100-140 km, 1.5-3 hours",
+        "come": "Car with driver or organised tour, full day.",
+        "testo": "Lakes in the desert, low waterfalls at Wadi el-Rayan and, further on, Wadi al-Hitan, the UNESCO-listed Valley of the Whales, with whale fossils in the sand (last stretch by 4x4)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How long do you need for the Giza pyramids?",
+        "risposta": "Three or four hours for the plateau with the panoramic point and the Sphinx, plus half a day for the Grand Egyptian Museum. Saqqara and Dahshur need a second day."
+      },
+      {
+        "domanda": "Is it worth going inside the Great Pyramid?",
+        "risposta": "Yes if you are curious about how it was built: the Grand Gallery is impressive. No if you expect paintings, because the chambers are bare, or if you dislike tight spaces."
+      },
+      {
+        "domanda": "Are Saqqara and Dahshur worth it?",
+        "risposta": "Yes: they show the history of the pyramid from the first stepped one to the smooth one, with far fewer crowds than Giza, and you go down into the Red Pyramid at no extra cost."
+      },
+      {
+        "domanda": "Is it better to stay in Giza or in Cairo?",
+        "risposta": "Giza to have the pyramids at dawn and the GEM nearby; Cairo for restaurants and historic quarters. Between the two there is 20 minutes to an hour of traffic."
+      },
+      {
+        "domanda": "Camel or electric bus on the plateau?",
+        "risposta": "The internal electric bus links the entrance, the pyramids and the panoramic point with no haggling. If you want a camel, agree on the total price, duration and route first."
+      },
+      {
+        "domanda": "Do you need to book the GEM?",
+        "risposta": "Yes: entry is by time slot and bought online. The ticket also covers the Tutankhamun halls and the Khufu boats museum."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: "The pyramids of Giza standing out against the desert on a clear day",
@@ -516,12 +721,11 @@ export const destinazioniEgitto: Destinazione[] = [
       "East bank for convenience (restaurants, temples on foot), west bank for the calm and the proximity to the tombs. Budget: guesthouses on the west bank · mid-range: Nile hotels on the east bank · luxury: Sofitel Winter Palace, Al Moudira on the west bank.",
     doveMangiare:
       "Home-style Egyptian cooking in the restaurants of the west bank, stuffed pigeon and tagine; on the east bank, the places with a terrace facing Luxor Temple.",
-    comeArrivare: "Flight from Cairo (1 hour), day or night train from Cairo (9-10 hours), road from the Red Sea (4 hours from Hurghada, 4-4.5 from Marsa Alam).",
+    comeArrivare: "From Cairo the fastest way is the one-hour EgyptAir flight, roughly €60-120 if booked early; from Luxor airport you reach town by taxi or with the hotel transfer. Alternatively there is the Abela Trains sleeper from Cairo or Giza stations, about 10-11 hours. From the Red Sea you come by car with a driver: about 4 hours from Hurghada ($70-120 per vehicle) and 4-4.5 hours from Marsa Alam ($100-150); Go Bus coaches also run to Hurghada.",
     comeSpostarsi:
       "On the west bank you need a car with a driver or a taxi for the day (roughly $25-40); on the east bank you get around on foot or by Uber. Horse carriages only if you agree on the price beforehand.",
     periodoMigliore: "October to April; in summer, visits only between dawn and 11",
-    costi:
-      "Karnak about 600 EGP, Luxor Temple about 500 EGP, Valley of the Kings about 750 EGP (3 tombs), Tutankhamun's tomb about 700 EGP, Seti I and Nefertari around 2,000 EGP each, Hatshepsut about 440 EGP; hot-air balloon roughly $50-100 (approximate).",
+    costi: "Low budget about €35-50 a day per person (guesthouse on the west bank, food from kiosks, public ferry, one or two sites); mid €80-130 (Nile hotel, driver for the west bank at $25-40, three or four sites a day); high from €200 up (luxury hotel, private guide, balloon, Seti I and Nefertari). Tickets 2026: Valley of the Kings EGP 750, Karnak 600, Luxor Temple 500, Hatshepsut 440, Tutankhamun 700, Medinet Habu and Ramesseum EGP 220; one euro is about EGP 60.",
     erroriDaEvitare: [
       "Going to the Valley of the Kings at noon: between the rock walls it tops 40 °C (104 °F) as early as May",
       "Taking photos in the tombs without the photo permit if one is required: the guards make you pay the “fine” in cash",
@@ -535,9 +739,12 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "From the city by taxi or carriage. You walk in the site, along the avenue of sphinxes from Luxor temple if you want the full route.",
         "quando": "Open daily 6am-5pm (2026). Arrive at opening: in summer it is the only bearable time.",
         "tempo": "2-3 hours",
+        "costo": "EGP 600, about €10, including the open-air museum; Temple of Mut EGP 200 (foreign adults, 2026)",
+        "orari": "Daily 6am-5pm (2026)",
+        "lat": 25.7183,
+        "lng": 32.6583,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
-        "consiglio": "Return in the evening for the sound and light show, if scheduled.",
-        "costo": "EGP 600 including the open-air museum, Temple of Mut EGP 200 (foreign adults, 2026)"
+        "consiglio": "Return in the evening for the sound and light show, if scheduled."
       },
       {
         "nome": "Luxor Temple",
@@ -545,7 +752,10 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "On foot from the riverfront on the east bank.",
         "quando": "Open daily 6am-8pm (2026). Sunset and evening.",
         "tempo": "1 hour",
-        "costo": "EGP 500 for foreign adults, 250 for students (2026)",
+        "costo": "EGP 500, about €8, for foreign adults; students EGP 250 (2026)",
+        "orari": "Daily 6am-8pm (2026)",
+        "lat": 25.7,
+        "lng": 32.63917,
         "url": "https://egymonuments.gov.eg/en/monuments/luxor-temple/"
       },
       {
@@ -554,9 +764,12 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "On the west bank, by taxi or on a tour. You visit on foot, tomb by tomb.",
         "quando": "Open daily 6am-5pm (2026). Arrive at opening: at midday it is very hot, even in spring.",
         "tempo": "2-3 hours",
+        "costo": "EGP 750, about €12.50, with three tombs of your choice; students EGP 375; Tutankhamun and Seti I extra (2026)",
+        "orari": "Daily 6am-5pm (2026)",
+        "lat": 25.74025,
+        "lng": 32.60236,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
-        "consiglio": "Ask at the ticket office which tombs are open that day and choose those with the best-preserved decoration, not just the most famous one.",
-        "costo": "EGP 750 for foreign adults, 375 for students; Tutankhamun and other tombs extra (2026)"
+        "consiglio": "Ask at the ticket office which tombs are open that day and choose those with the best-preserved decoration, not just the most famous one."
       },
       {
         "nome": "Temple of Hatshepsut",
@@ -564,34 +777,167 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "On the west bank, near the Valley of the Kings.",
         "quando": "Open daily 6am-5pm (2026). Early morning.",
         "tempo": "1 hour",
-        "costo": "EGP 440 for foreign adults, 220 for students (2026)",
+        "costo": "EGP 440, about €7, for foreign adults; students EGP 220 (2026)",
+        "orari": "Daily 6am-5pm (2026)",
+        "lat": 25.73806,
+        "lng": 32.60694,
         "url": "https://egymonuments.gov.eg/en/monuments/hatshepsut-temple/"
       },
       {
         "nome": "Medinet Habu and the Colossi of Memnon",
         "testo": "The temple of Ramesses III, with reliefs that still keep their colour and fewer visitors than the big temples, near the two colossi of Amenhotep III watching over the plain.",
         "come": "On the west bank, by taxi with the other stops.",
-        "quando": "Medinet Habu open daily 6am-5pm (2026). Mid-morning or late afternoon.",
+        "quando": "Mid-morning or late afternoon.",
         "tempo": "1-1.5 hours",
-        "consiglio": "Medinet Habu is often skipped, but it is well worth the stop.",
-        "costo": "Medinet Habu EGP 230 for foreign adults, 110 for students (2026); the Colossi can be seen from the road"
+        "costo": "Medinet Habu EGP 220, about €3.50, students EGP 110 (2026); the Colossi can be seen for free from the road",
+        "orari": "Medinet Habu daily from 6am, last entry 5pm in summer and 4pm in winter (2026)",
+        "lat": 25.71972,
+        "lng": 32.60083,
+        "url": "https://egymonuments.com/details/MedinetHabu",
+        "consiglio": "Medinet Habu is often skipped, but it is well worth the stop."
+      },
+      {
+        "nome": "Tomb of Tutankhamun (KV62)",
+        "testo": "The tomb found by Howard Carter in 1922, small and decorated only in the burial chamber. The reason to go in is the king's mummy, which stays here in a glass case, while the grave goods are at the Grand Egyptian Museum.",
+        "come": "Inside the Valley of the Kings, with a separate ticket bought at the valley entrance.",
+        "quando": "As soon as the valley opens, before the groups.",
+        "tempo": "15-20 minutes",
+        "costo": "EGP 700, about €11.50, for foreign adults; students EGP 350 (2026)",
+        "orari": "Daily 6am-5pm, like the valley (2026)",
+        "lat": 25.74039,
+        "lng": 32.60142,
+        "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-tutankhamun/"
+      },
+      {
+        "nome": "Tomb of Seti I (KV17)",
+        "testo": "The longest tomb in the valley and one of the most decorated, discovered by Giovanni Battista Belzoni in 1817. Corridors and halls are painted from the entrance to the burial chamber, which has an astronomical ceiling.",
+        "come": "Inside the Valley of the Kings, separate ticket sold at the valley entrance.",
+        "quando": "Morning, in the same visit to the valley.",
+        "tempo": "30-40 minutes",
+        "costo": "about EGP 2,000, about €33 (2026, from the trip on this site)",
+        "lat": 25.73981,
+        "lng": 32.60189,
+        "consiglio": "If you pay for only one extra tomb, this one is worth more than Tutankhamun's for the paintings."
+      },
+      {
+        "nome": "Valley of the Queens",
+        "testo": "The burial ground of queens and princes of the 19th and 20th dynasties. The most famous tomb is that of Nefertari (QV66), wife of Ramesses II, with some of the best-preserved paintings in Egypt and a separate, much more expensive ticket.",
+        "come": "On the west bank, by taxi with the other stops; visited on foot.",
+        "quando": "Early morning.",
+        "tempo": "1 hour, more with Nefertari",
+        "costo": "EGP 220, about €3.50, for foreign adults; students EGP 110; Nefertari extra (2026)",
+        "orari": "Daily from 6am, last entry 5pm in summer and 4pm in winter (2026)",
+        "lat": 25.7275,
+        "lng": 32.59306,
+        "url": "https://egymonuments.com/details/ValleyOfTheQueens"
+      },
+      {
+        "nome": "Deir el-Medina",
+        "testo": "The village of the craftsmen who dug and painted the royal tombs, with the foundations of their houses, a small Ptolemaic temple of Hathor and their own tombs, small but very colourful. It tells the life of the people who worked for the pharaohs.",
+        "come": "On the west bank, between the Valley of the Queens and the Tombs of the Nobles.",
+        "quando": "Mid-morning.",
+        "tempo": "1 hour",
+        "orari": "Daily from 6am, last entry 5pm (2026)",
+        "lat": 25.7283,
+        "lng": 32.6014,
+        "url": "https://egymonuments.com/details/DeirElMadinaTemple"
+      },
+      {
+        "nome": "Tombs of the Nobles",
+        "testo": "The tombs of Theban officials on the hill of Sheikh Abd el-Qurna, such as those of Rekhmire, Sennefer, Nakht, Menna and Ramose. The scenes show daily life: fields, banquets, craftsmen, and there are usually very few people.",
+        "come": "On the west bank; tickets are sold for groups of tombs.",
+        "quando": "Mid-morning or early afternoon.",
+        "tempo": "1-2 hours",
+        "orari": "Daily from 6am, last entry 5pm in summer and 4pm in winter (2026)",
+        "lat": 25.7317,
+        "lng": 32.6092,
+        "url": "https://egymonuments.com/details/TombsOfTheNobles",
+        "consiglio": "Nakht and Menna are close together and have the brightest colours."
+      },
+      {
+        "nome": "Ramesseum",
+        "testo": "The mortuary temple of Ramesses II, partly collapsed. On the ground lies the broken colossus of the pharaoh said to have inspired Shelley's poem «Ozymandias».",
+        "come": "On the west bank, on the road between the Colossi and the Valley of the Kings.",
+        "quando": "Late afternoon, in the low light.",
+        "tempo": "45 minutes",
+        "costo": "EGP 220, about €3.50, for foreign adults; students EGP 110 (2026)",
+        "orari": "Daily from 6am, last entry 5pm in summer and 4pm in winter (2026)",
+        "lat": 25.72778,
+        "lng": 32.61056,
+        "url": "https://egymonuments.com/details/Ramesseum"
+      },
+      {
+        "nome": "Howard Carter House",
+        "testo": "The house where Carter lived during the excavations, at the start of the road to the Valley of the Kings, with his study, darkroom and period furniture. A short stop that helps to understand how the 1922 discovery happened.",
+        "come": "On the west bank, by taxi on the valley road.",
+        "quando": "After the Valley of the Kings.",
+        "tempo": "30 minutes",
+        "costo": "EGP 220, about €3.50, for foreign adults; students EGP 110 (2026)",
+        "orari": "Daily from 6am, last entry 5pm in summer and 4pm in winter (2026)",
+        "lat": 25.73888,
+        "lng": 32.62817,
+        "url": "https://egymonuments.com/details/CarterHouse"
+      },
+      {
+        "nome": "Luxor Museum",
+        "testo": "A small, very well curated museum on the riverfront, with selected statues, the pieces of the cache found in 1989 under Luxor Temple and two royal mummies. It can be seen in an hour, and it is open in the evening too.",
+        "come": "On foot or by carriage along the Corniche on the east bank, between Karnak and Luxor Temple.",
+        "quando": "During the evening opening, when it is cooler.",
+        "tempo": "1-1.5 hours",
+        "costo": "EGP 400, about €6.50, for foreign adults; students EGP 200 (2026)",
+        "orari": "Daily from 9am (last entry 1pm in winter, noon in summer) and from 5pm (last entry 8pm in winter, 7pm in summer) (2026)",
+        "lat": 25.7075,
+        "lng": 32.64472,
+        "url": "https://egymonuments.com/details/LuxorMuseum"
+      },
+      {
+        "nome": "Mummification Museum",
+        "testo": "A hall below the Corniche devoted to embalming: tools, canopic jars, mummified animals and the mummy of a priest. Short, but it explains well what you then see in the tombs.",
+        "come": "On the Corniche, a few minutes' walk from Luxor Temple.",
+        "quando": "Evening, before or after Luxor Temple.",
+        "tempo": "30-45 minutes",
+        "costo": "EGP 220, about €3.50, for foreign adults; students EGP 110 (2026)",
+        "orari": "Daily from 9am (last entry 1pm in winter, noon in summer) and from 5pm (last entry 7pm) (2026)",
+        "lat": 25.70222,
+        "lng": 32.63972,
+        "url": "https://egymonuments.com/details/MummificationMuseumLuxor"
+      },
+      {
+        "nome": "Avenue of Sphinxes",
+        "testo": "The processional way of about 2.7 km that joined Karnak to Luxor Temple, lined with hundreds of sphinxes. Reopened in 2021 after decades of excavation, today it can be seen from the street and from Luxor Temple, where it starts.",
+        "come": "On foot along the route between the two temples, or from inside Luxor Temple.",
+        "quando": "At sunset, together with Luxor Temple.",
+        "tempo": "30 minutes for the stretch near the temple",
+        "lat": 25.708,
+        "lng": 32.648
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Dawn: balloon or the Valley of the Kings at opening",
-          "Hatshepsut",
-          "Medinet Habu and the Colossi",
-          "Afternoon: Karnak and Luxor Temple at sunset"
+          "At dawn: Valley of the Kings with three tombs and Tutankhamun",
+          "Temple of Hatshepsut",
+          "Medinet Habu and the Colossi of Memnon",
+          "Afternoon: Karnak",
+          "Sunset and evening: Luxor Temple and the Avenue of Sphinxes"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: west bank",
-          "Day 2: Karnak, Luxor Temple, then a trip to Dendera or Abydos"
+          "Day 1: Valley of the Kings with Seti I or Tutankhamun, Hatshepsut, Deir el-Medina, Medinet Habu and the Colossi",
+          "Day 2: hot-air balloon at dawn, Karnak in the morning",
+          "Afternoon at the hotel or on a felucca on the Nile",
+          "Evening: Luxor Museum and Luxor Temple lit up"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Valley of the Queens, Tombs of the Nobles, Ramesseum and Carter House",
+          "Alternatively: a trip to Dendera, back for the Mummification Museum"
         ]
       }
     ],
@@ -599,12 +945,20 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "East bank",
         "perChi": "those who want restaurants and nightlife",
-        "testo": "Near Karnak and Luxor temples, with hotels in every range and the riverfront. More touristy and with more sellers."
+        "testo": "Near Karnak and Luxor temples, with hotels in every range and the riverfront. More touristy and with more sellers.",
+        "fascia": "€60-110"
       },
       {
         "nome": "West bank",
         "perChi": "those who want quiet",
-        "testo": "Countryside, houses and small guesthouses near the tombs and fields, with little noise."
+        "testo": "Countryside, houses and small guesthouses near the tombs and fields, with little noise.",
+        "fascia": "€25-40"
+      },
+      {
+        "nome": "Historic and luxury hotels",
+        "perChi": "those who want the Nile from the terrace",
+        "testo": "The grand hotels of the Corniche and the charming residences of the west bank, with gardens and pools. The Sofitel Winter Palace is listed as closed for works from May 2026: check before booking.",
+        "fascia": "from about €170"
       }
     ],
     sapori: [
@@ -632,6 +986,52 @@ export const destinazioniEgitto: Destinazione[] = [
       "In summer visit from dawn to late morning: after that the heat is extreme."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Temple of Dendera",
+        "distanza": "about 75 km, 1 hour",
+        "come": "Car with driver for half a day, or a day cruise where available.",
+        "testo": "The temple of Hathor, among the best preserved in Egypt, with its astronomical ceiling still in colour and the crypts. You climb onto the roof to see the plain."
+      },
+      {
+        "nome": "Abydos",
+        "distanza": "about 170 km, 2-2.5 hours",
+        "come": "Car with driver for the day, often combined with Dendera.",
+        "testo": "The temple of Seti I, with some of the finest reliefs in Egyptian art and the king list, and behind it the Osireion, half flooded by groundwater."
+      },
+      {
+        "nome": "Edfu and Esna",
+        "distanza": "Esna about 60 km, Edfu about 110 km, 1.5 hours",
+        "come": "Car with driver, or on a cruise towards Aswan.",
+        "testo": "The temple of Horus at Edfu is the most complete in the country; at Esna the temple of Khnum, recently cleaned, has its ceilings back in their original colours."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Luxor?",
+        "risposta": "Two full days for the west and east banks without rushing; a third adds the Valley of the Queens, the Tombs of the Nobles or a trip to Dendera."
+      },
+      {
+        "domanda": "Is it better to stay on the east or the west bank?",
+        "risposta": "The east bank has restaurants, Luxor Temple within walking distance and more hotels; the west bank is quieter and close to the tombs. The public ferry links the two banks in a few minutes."
+      },
+      {
+        "domanda": "Which tombs should you see in the Valley of the Kings?",
+        "risposta": "The basic ticket includes three tombs among those open that day; Tutankhamun and Seti I cost extra. If you pay for only one extra, Seti I, the most decorated, is the better choice."
+      },
+      {
+        "domanda": "Can you take photos in the tombs?",
+        "risposta": "Photos with a phone are free according to the official ticket office; flash is forbidden. Rules change, so it is worth asking at the entrance."
+      },
+      {
+        "domanda": "Is the hot-air balloon worth it?",
+        "risposta": "For many it is the best memory of Luxor: an hour over temples and fields at dawn, roughly $50-100 per person. Choose the company, not the price, and keep a spare day in case of wind."
+      },
+      {
+        "domanda": "When is it too hot to visit?",
+        "risposta": "From May to September it often goes above 40 °C (104 °F): visit from dawn to 11am and go out again in the evening. From October to April you can sightsee all day."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: "The papyrus-shaped columns of the great hypostyle hall of Karnak Temple, seen from below",

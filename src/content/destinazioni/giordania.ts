@@ -767,10 +767,10 @@ export const destinazioniGiordania: Destinazione[] = [
     doveDormire:
       'Ho dormito in un campo tendato nel deserto, di cui non mi sono segnato il nome: tenda beduina classica, cena e colazione incluse, un cielo stellato senza pari.\n\nCampo base, bagno condiviso: Wadi Rum Bedouin Camp, Bedouin Lifestyle Camp · tenda privata con bagno: Wadi Rum Serenity Camp, Zeina Desert Lodge · luxury desert camp: Sun City Camp (famoso per i «martian domes»), Palmera Camp (tende e bubble panoramiche con bagno privato).',
     doveMangiare: 'Cena beduina tipica al campo tendato; per il pranzo al sacco, sosta in una panetteria o pasticceria locale (10 JOD).',
-    comeArrivare: 'Circa 1h30 di transfer da Wadi Musa/Petra.',
+    comeArrivare: "Wadi Rum è a circa 120 km da Wadi Musa (Petra), circa 2 ore di strada, e a circa 70 km da Aqaba, un'ora e un quarto. Si arriva in auto a noleggio, in taxi o con il transfer organizzato dal campo fino al centro visitatori e al villaggio di Rum, dove le guide beduine aspettano con le jeep. Dall'aeroporto di Aqaba ci vuole circa un'ora e mezza.",
     comeSpostarsi: 'Jeep 4x4 con guida beduina, cammello per il tratto iniziale nel deserto.',
     periodoMigliore: 'il periodo di Capodanno, per la festa nel deserto sotto le stelle; l\'alba per la luce migliore sulle dune',
-    costi: 'Cammellata 20 JOD; pranzo al sacco 10 JOD.',
+    costi: "Budget basso circa 50-70 € al giorno a persona (campo tradizionale con cena e colazione, giro in jeep condiviso, ingresso con Jordan Pass); medio 90-150 € (tenda con bagno privato, jeep privata per mezza giornata, cammello a 20 JOD); alto da 200 € in su (bolle o campo di lusso, giro di un giorno intero, salita con guida). Ingresso all'area protetta 5 JOD senza Jordan Pass; pranzo al sacco circa 10 JOD; 1 JOD vale circa 1,2 €.",
     erroriDaEvitare: [],
     miaEsperienza:
       'Il jeep safari tra canyon e dune rosse, il sandboarding, il tramonto sulle dune all\'arrivo al campo e poi la festa di Capodanno sotto uno dei cieli stellati più belli che abbia mai visto: difficile immaginare un modo più assurdo di salutare l\'anno vecchio. Con Petra, è la cosa da non perdere del viaggio in Giordania.',
@@ -782,7 +782,10 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Si parte dal villaggio di Rum con la guida del campo o dal centro visitatori. Il giro costa a seconda della durata e si concorda in anticipo.",
         "quando": "Giro di 4-6 ore, con partenza al mattino o nel pomeriggio per il tramonto.",
         "tempo": "4-6 ore",
-        "costo": "Ingresso all'area protetta 5 JOD per gli stranieri o incluso nel Jordan Pass (2026); il giro in jeep si paga a parte",
+        "costo": "Ingresso all'area protetta 5 JOD, circa 6 €, per gli stranieri o incluso nel Jordan Pass (2026); il giro in jeep si paga a parte",
+        "orari": "Area protetta e centro visitatori tutti i giorni 8-17 (Jordan Pass, 2026)",
+        "lat": 29.5765,
+        "lng": 35.41993,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
         "consiglio": "Chiedere che il giro includa un tramonto sulle dune."
       },
@@ -792,7 +795,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Si organizza dal campo.",
         "quando": "Alba o tramonto.",
         "tempo": "45 minuti",
-        "costo": "20 JOD (dal mio viaggio)"
+        "costo": "20 JOD, circa 24 € (dal mio viaggio)"
       },
       {
         "nome": "Notte in campo tendato",
@@ -801,16 +804,134 @@ export const destinazioniGiordania: Destinazione[] = [
         "quando": "Una notte, meglio due se si vuole il tempo di camminare.",
         "tempo": "Una notte",
         "consiglio": "Portare una felpa: di notte la temperatura scende anche in primavera."
+      },
+      {
+        "nome": "Centro visitatori e Sette Pilastri della Saggezza",
+        "testo": "L'ingresso dell'area protetta, dove si mostra il Jordan Pass o si paga il biglietto. Davanti c'è la montagna dalle grandi pieghe verticali chiamata Sette Pilastri della Saggezza, dal titolo del libro di T.E. Lawrence.",
+        "come": "Sulla strada che dal Desert Highway scende al villaggio di Rum; parcheggio al centro.",
+        "quando": "All'arrivo, prima di salire sulla jeep.",
+        "tempo": "20-30 minuti",
+        "costo": "5 JOD, circa 6 €, o Jordan Pass (2026)",
+        "orari": "Tutti i giorni 8-17 (2026)",
+        "lat": 29.63923,
+        "lng": 35.43444,
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+      },
+      {
+        "nome": "Sorgente di Lawrence",
+        "testo": "Una piccola sorgente sulla parete del Jebel Rum, legata al racconto di Lawrence d'Arabia, con iscrizioni nabatee sulla roccia. Si sale per pochi minuti per avere la vista sulla valle.",
+        "come": "Prima tappa di quasi tutti i giri in jeep, a pochi minuti dal villaggio.",
+        "quando": "Mattina.",
+        "tempo": "20-30 minuti",
+        "lat": 29.55979,
+        "lng": 35.41019
+      },
+      {
+        "nome": "Siq di Khazali",
+        "testo": "Una spaccatura stretta nella montagna, fresca anche d'estate, con incisioni rupestri thamudiche e nabatee di figure umane, antilopi e impronte di piedi. Si entra a piedi per qualche decina di metri.",
+        "come": "Tappa classica del giro in jeep.",
+        "quando": "Nelle ore calde, per l'ombra.",
+        "tempo": "20-30 minuti",
+        "lat": 29.51796,
+        "lng": 35.42347
+      },
+      {
+        "nome": "Dune rosse",
+        "testo": "Le grandi dune di sabbia rossa appoggiate alla roccia, il punto in cui si fa sandboarding e si sale per guardare il deserto dall'alto.",
+        "come": "Con il giro in jeep; si sale a piedi, a piedi nudi se la sabbia non scotta.",
+        "quando": "Tardo pomeriggio, verso il tramonto.",
+        "tempo": "30-45 minuti",
+        "lat": 29.52898,
+        "lng": 35.42167
+      },
+      {
+        "nome": "Little Bridge",
+        "testo": "Un piccolo arco di roccia a pochi metri da terra, facile da salire per una foto sul ponte. È l'alternativa semplice ai ponti più alti.",
+        "come": "Nel giro in jeep di mezza giornata.",
+        "quando": "Pomeriggio.",
+        "tempo": "20 minuti",
+        "lat": 29.52041,
+        "lng": 35.44302
+      },
+      {
+        "nome": "Casa di Lawrence",
+        "testo": "I resti di un piccolo edificio nabateo in pietra, che la tradizione lega al passaggio di Lawrence. Più dei ruderi conta il panorama sulla piana rossa.",
+        "come": "Tappa del giro in jeep.",
+        "quando": "Pomeriggio.",
+        "tempo": "15-20 minuti",
+        "lat": 29.52862,
+        "lng": 35.45931
+      },
+      {
+        "nome": "Roccia del Fungo",
+        "testo": "Una roccia isolata nella sabbia con la base erosa che la fa sembrare un fungo, una delle forme più fotografate del deserto.",
+        "come": "Nei giri in jeep più lunghi.",
+        "quando": "Luce del pomeriggio.",
+        "tempo": "15 minuti",
+        "lat": 29.51805,
+        "lng": 35.4935
+      },
+      {
+        "nome": "Ponte di Umm Fruth",
+        "testo": "Un arco naturale alto circa 15 metri, che si sale in pochi minuti per una paretina facile. È il ponte di roccia più conosciuto di Wadi Rum.",
+        "come": "Nei giri in jeep di 4-6 ore; scarpe con buona suola.",
+        "quando": "Mattina o pomeriggio, meno affollato all'ora di pranzo.",
+        "tempo": "30 minuti",
+        "lat": 29.46873,
+        "lng": 35.44923,
+        "consiglio": "In cima ci si sta in pochi: aspettare il proprio turno ed evitare di salire con il vento forte."
+      },
+      {
+        "nome": "Ponte di Burdah",
+        "testo": "Un arco di roccia sottile a circa 35 metri d'altezza sulla cresta del Jebel Burdah. Ci si arriva solo con una salita impegnativa, con tratti di arrampicata facile.",
+        "come": "Con una guida locale, partendo in jeep; per escursionisti con esperienza.",
+        "quando": "Mattina presto, prima del caldo.",
+        "tempo": "mezza giornata",
+        "lat": 29.46845,
+        "lng": 35.49665
+      },
+      {
+        "nome": "Canyon di Barrah",
+        "testo": "Un canyon lungo e largo tra pareti di arenaria, adatto a una camminata o a un tratto a dorso di cammello. È anche una zona di arrampicata.",
+        "come": "In jeep o a piedi con una guida; spesso nei giri di un giorno intero.",
+        "quando": "Mattina.",
+        "tempo": "2-3 ore a piedi",
+        "lat": 29.558,
+        "lng": 35.4909
+      },
+      {
+        "nome": "Jebel Umm ad-Dami",
+        "testo": "La vetta più alta della Giordania, circa 1.850 metri, al confine con l'Arabia Saudita. La salita è breve ma ripida, e dalla cima si vede il deserto saudita.",
+        "come": "Con guida, circa un'ora e mezza di jeep dal villaggio e poi a piedi.",
+        "quando": "Partenza all'alba; tramonto in cima solo con la guida.",
+        "tempo": "una giornata",
+        "lat": 29.30833,
+        "lng": 35.42917
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno e una notte",
         "tappe": [
-          "Arrivo da Petra o Aqaba, jeep fino al campo",
-          "Giro di 4-6 ore tra canyon e dune",
-          "Tramonto, cena beduina e cielo stellato",
+          "Arrivo da Petra o Aqaba al centro visitatori",
+          "Jeep di 4-6 ore: Sorgente di Lawrence, Siq di Khazali, dune rosse, Little Bridge, Casa di Lawrence, Umm Fruth",
+          "Tramonto sulle dune, cena beduina e cielo stellato",
           "Alba sulle dune e rientro"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1 come sopra",
+          "Giorno 2: cammello o camminata nel canyon di Barrah, roccia del Fungo",
+          "Seconda notte al campo"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: salita al ponte di Burdah con guida, oppure Jebel Umm ad-Dami"
         ]
       }
     ],
@@ -818,17 +939,25 @@ export const destinazioniGiordania: Destinazione[] = [
       {
         "nome": "Campo tendato tradizionale",
         "perChi": "chi vuole l'esperienza beduina",
-        "testo": "Tende semplici, bagno condiviso, cena e colazione incluse. Poca elettricità: caricare i telefoni prima."
+        "testo": "Tende semplici, bagno condiviso, cena e colazione incluse. Poca elettricità: caricare i telefoni prima.",
+        "fascia": "30-60 €"
       },
       {
         "nome": "Campo con bagno privato",
         "perChi": "chi vuole più comfort",
-        "testo": "Tende e bolle con bagno, a volte con aria condizionata. Costano di più."
+        "testo": "Tende e bolle con bagno, a volte con aria condizionata. Costano di più.",
+        "fascia": "50-120 €"
       },
       {
         "nome": "Villaggio di Rum",
         "perChi": "chi non vuole dormire nel deserto",
         "testo": "Guesthouse semplici ai piedi della valle, da cui partono i giri."
+      },
+      {
+        "nome": "Bolle e campi di lusso",
+        "perChi": "chi vuole il cielo stellato dal letto",
+        "testo": "Cupole trasparenti o tende in stile «marziano» con bagno privato, aria condizionata e cena inclusa. Prezzi molto variabili secondo la data.",
+        "fascia": "150-320 €"
       }
     ],
     sapori: [
@@ -856,6 +985,46 @@ export const destinazioniGiordania: Destinazione[] = [
       "Le tempeste di sabbia possono annullare i giri: tenere un margine nel programma."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Petra",
+        "distanza": "circa 120 km, 2 ore",
+        "come": "Transfer con il campo, taxi o auto a noleggio via Desert Highway.",
+        "testo": "La città nabatea scavata nella roccia, l'altro motivo del viaggio in Giordania. Merita almeno un giorno intero e una notte a Wadi Musa."
+      },
+      {
+        "nome": "Aqaba e il Mar Rosso",
+        "distanza": "circa 70 km, 1-1,5 ore",
+        "come": "Taxi o transfer dal villaggio di Rum; anche dall'aeroporto di Aqaba circa 1,5 ore.",
+        "testo": "Il mare dopo il deserto: barriera corallina dalla riva nella zona sud verso il confine saudita, uscite in barca e pesce fresco la sera."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanto tempo serve a Wadi Rum?",
+        "risposta": "Una notte con un giro in jeep di 4-6 ore basta per le tappe classiche. Con due notti si aggiungono una camminata o il cammello senza fretta."
+      },
+      {
+        "domanda": "Il Jordan Pass copre Wadi Rum?",
+        "risposta": "Sì, l'ingresso all'area protetta è incluso e si mostra al centro visitatori. Senza pass si pagano 5 JOD; jeep, campo e cammello sono sempre a parte."
+      },
+      {
+        "domanda": "Si può visitare Wadi Rum senza dormire nel deserto?",
+        "risposta": "Sì, con un giro in giornata da Petra o Aqaba. Ma il tramonto, la cena beduina e il cielo stellato sono la parte migliore, e si perdono."
+      },
+      {
+        "domanda": "Che temperature ci sono di notte?",
+        "risposta": "D'inverno di notte si scende vicino allo zero, anche in primavera e autunno fa freddo. Servono giacca e strati, perfino dopo una giornata calda."
+      },
+      {
+        "domanda": "Meglio jeep, cammello o a piedi?",
+        "risposta": "La jeep copre in mezza giornata le tappe principali; il cammello è lento e va bene per un tratto, a piedi si va solo con una guida beduina."
+      },
+      {
+        "domanda": "Ci sono bagno e corrente nei campi?",
+        "risposta": "I campi tradizionali hanno bagni condivisi e poca corrente; quelli con tende private o bolle hanno il bagno in camera. Conviene arrivare con il telefono carico e una batteria esterna."
+      }
+    ],
     esperienzeSlugs: ['jeep-safari-wadi-rum', 'capodanno-deserto'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Un giovane beduino con la kefiah sul volto davanti alle rocce rosse di Wadi Rum, Giordania',

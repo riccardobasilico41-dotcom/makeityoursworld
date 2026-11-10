@@ -27,78 +27,183 @@ export const destinazioniMessico: Destinazione[] = [
       "Para gastar poco: puestos y comida callejera en Parque las Palapas (mi punto fijo de las primeras noches), o El Socio Naiz o Taquería Coapenitos para una comida mexicana sencilla a precios bajos. Gama media: a la Parrilla, turístico pero agradable y con cuenta separada (ojo con el servicio añadido automáticamente, normalmente a partir de 10 personas en la mesa), o Señor Frog, más indicado para comer por sus juegos con alcohol. Para una cena más cuidada: Naviós Mexican Fusion Seafood, sobre el agua en la zona Hotelera con vistas a los cocodrilos (precio medio-alto), o Chambao, el más caro de la lista (60 €+ por persona) pero con un pescado muy bueno.",
     usciteSerali:
       "El gran clásico es el Coco Bongo, discoteca-espectáculo en la zona Hotelera: mejor comprar las entradas anticipadas, sobre todo los fines de semana de temporada alta. Las alternativas más baratas son Mandala (entrada orientativa de unos 20 €) y Monkey Business, que une cena y fiesta (a la entrada suelen pedir el distintivo del hotel o del tour).",
-    comeArrivare: 'Aeropuerto internacional de Cancún, el principal hub de la zona; autobús ADO o Uber hasta el centro.',
+    comeArrivare: "El aeropuerto internacional de Cancún (CUN) es el principal de la zona. Los autobuses ADO salen de las terminales hacia la terminal del centro en unos 30-40 minutos (unos 130-140 MXN, boletos en el mostrador ADO de llegadas o en ado.com.mx) y siguen hacia Playa del Carmen y Tulum. El taxi oficial se paga en el mostrador dentro de la terminal: unos 550-700 MXN al centro, más a la zona hotelera. Uber en el aeropuerto no está garantizado. La estación Cancún Aeropuerto del Tren Maya no está en la terminal: hace falta un transbordo. En la sala de llegadas muchos «encargados de transporte» venden tiempos compartidos: hay que seguir recto hasta la salida.",
     comeSpostarsi: 'Autobuses locales (línea R1 roja) para las playas, taxi/Uber para el resto de la ciudad.',
     periodoMigliore: "no lo anoté para esta etapa; vale la indicación general para la zona, es decir, la estación seca, de noviembre a abril.",
-    costi: 'Ciudad cara: respecto al resto del itinerario los precios se acercan a los europeos.',
+    costi: "Ciudad cara: respecto al resto del itinerario los precios se acercan a los europeos. Presupuesto bajo unos 50-70 € al día por persona (hostal u hotel sencillo en el centro, comida callejera en el Parque de las Palapas, autobús R1); medio 120-180 € (hotel en el centro o sencillo en la zona hotelera, Isla Mujeres en ferry, cenas en restaurante); alto desde 300 € (resort en la zona hotelera, catamarán, Coco Bongo). Museo Maya 210 MXN, El Rey 145 MXN, ferry a Isla Mujeres unos 540 MXN ida y vuelta.",
     erroriDaEvitare: [
       'No cambiar o sacar suficiente efectivo en los dos primeros días: después hay que parar continuamente',
       "Esperar el mar de postal de la Riviera Maya: las playas urbanas son buenas pero distintas de Tulum o Holbox",
     ],
     miaEsperienza:
       "Cancún fue para mí sobre todo una base práctica: el primer bocado de México con la comida callejera de Parque las Palapas y el último día libre en la playa antes del vuelo de regreso. No es la etapa que más recuerdo, pero al principio y al final del itinerario funciona bien.",
-      "luoghi": [
-        {
-          "nome": "Isla Mujeres",
-          "testo": "Una isla a un corto trayecto en ferry, con playas, snorkel y un pueblo tranquilo, cómoda para una excursión de un día.",
-          "come": "Ferry desde Puerto Juárez o Playa Tortugas; en la isla se circula en golf cart alquilado.",
-          "quando": "Mañana, para tener tiempo.",
-          "tempo": "Día completo",
-          "consiglio": "La alternativa es la jornada organizada en catamarán, más cara pero con paradas de snorkel incluidas."
-        },
-        {
-          "nome": "Playa Marlin y Playa Gaviota",
-          "testo": "Playas públicas gratuitas en el centro de la zona hotelera, sin camastros de pago. Son de los pocos accesos libres al mar en esta parte de la ciudad; el mar está más movido que en Isla Mujeres, así que antes de bañarse conviene mirar la bandera de los salvavidas.",
-          "come": "Bus local desde el centro.",
-          "quando": "Mañana.",
-          "tempo": "Media jornada"
-        },
-        {
-          "nome": "Parque las Palapas y Mercado 28",
-          "testo": "Plaza del centro con puestos de comida callejera y música por la noche, y el mercado con artesanía y pequeños restaurantes.",
-          "come": "A pie, en el centro.",
-          "quando": "Noche.",
-          "tempo": "2-3 horas",
-          "consiglio": "El primer bocado de México con comida callejera."
-        },
-        {
-          "nome": "Coco Bongo",
-          "testo": "Local con espectáculo muy conocido, en la zona hotelera: acróbatas, música en vivo y números inspirados en películas, hasta muy tarde. El precio cambia mucho según la ubicación (de pie, en la barra o en mesa), así que conviene saber qué incluye el boleto antes de comprarlo.",
-          "come": "Entradas con revendedores.",
-          "quando": "Noche.",
-          "tempo": "Una velada",
-          "consiglio": "Para las entradas probad a contactar con Martin de Mexico Grand Tours: tiene un poco de todo."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: Isla Mujeres en ferry",
-            "Tarde: golf cart y snorkel",
-            "Noche: Parque las Palapas"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: Isla Mujeres",
-            "Día 2: Playa Marlin, Mercado 28 y, si se quiere, Coco Bongo"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro (Downtown)",
-          "perChi": "presupuesto y vida local",
-          "testo": "Hoteles baratos, mercados y restaurantes, pero lejos del mar."
-        },
-        {
-          "nome": "Zona Hotelera",
-          "perChi": "mar y resorts",
-          "testo": "Playas y resorts, pero precios altos y tráfico turístico."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Isla Mujeres",
+        testo: "Una isla a un corto trayecto en ferry, con playas, snorkel y un pueblo tranquilo, cómoda para una excursión de un día.",
+        come: "Ferry desde Puerto Juárez o Playa Tortugas; en la isla se circula en golf cart alquilado.",
+        quando: "Mañana, para tener tiempo.",
+        tempo: "Día completo",
+        costo: "Ferry unos 540 MXN ida y vuelta, unos 27 €; carrito de golf 1.300-1.500 MXN al día para 4 personas, unos 65-75 € (del viaje, 2026)",
+        lat: 21.23333,
+        lng: -86.73333,
+        url: "https://www.ultramarferry.com/",
+        consiglio: "La alternativa es la jornada organizada en catamarán, más cara pero con paradas de snorkel incluidas.",
+      },
+      {
+        nome: "Playa Delfines y el Mirador",
+        testo: "La playa pública más amplia de la zona hotelera, hacia el km 18, sin hoteles detrás: arena blanca, mar abierto y olas. Arriba está el mirador con las letras «Cancún», el punto más fotografiado de la ciudad.",
+        come: "Autobús R1 o R2 por el Boulevard Kukulcán hasta la parada de Playa Delfines; se baja a pie desde el mirador.",
+        quando: "Por la mañana, antes del calor y de los grupos.",
+        tempo: "2-3 horas",
+        costo: "Entrada libre",
+        lat: 21.06196,
+        lng: -86.77858,
+        consiglio: "Mirar la bandera de los socorristas antes del baño: aquí el mar es abierto y las corrientes son más fuertes que en el lado de la bahía.",
+      },
+      {
+        nome: "Playa Marlin y Playa Gaviota",
+        testo: "Playas públicas gratuitas en el centro de la zona hotelera, sin camastros de pago. Son de los pocos accesos libres al mar en esta parte de la ciudad; el mar está más movido que en Isla Mujeres, así que antes de bañarse conviene mirar la bandera de los salvavidas.",
+        come: "Bus local desde el centro.",
+        quando: "Mañana.",
+        tempo: "Media jornada",
+        costo: "Entrada libre",
+        lat: 21.10387,
+        lng: -86.76283,
+      },
+      {
+        nome: "Museo Maya de Cancún y San Miguelito",
+        testo: "El museo del INAH en la zona hotelera, con esculturas, cerámica y objetos hallados en los sitios mayas de Quintana Roo. La entrada incluye la zona arqueológica de San Miguelito, un pequeño asentamiento maya en el bosque detrás del museo.",
+        come: "Autobús R1 o R2 hasta el km 16,5 del Boulevard Kukulcán; boletos en taquilla o en línea desde la ficha del INAH.",
+        quando: "En las horas de más calor o en un día de lluvia.",
+        tempo: "1,5-2 horas",
+        costo: "210 MXN para extranjeros, unos 10,5 €, San Miguelito incluido (INAH, 2026)",
+        orari: "De martes a domingo de 9 a 17 h, último acceso 16:30; lunes cerrado (INAH, 2026)",
+        lat: 21.07403,
+        lng: -86.77727,
+        url: "https://lugares.inah.gob.mx/en/node/4284",
+      },
+      {
+        nome: "Parque las Palapas y Mercado 28",
+        testo: "Plaza del centro con puestos de comida callejera y música por la noche, y el mercado con artesanía y pequeños restaurantes.",
+        come: "A pie, en el centro.",
+        quando: "Noche.",
+        tempo: "2-3 horas",
+        lat: 21.16121,
+        lng: -86.8276,
+        consiglio: "El primer bocado de México con comida callejera.",
+      },
+      {
+        nome: "MUSA, el museo subacuático",
+        testo: "Cientos de esculturas de cemento colocadas en el fondo entre Cancún e Isla Mujeres, pensadas para aliviar la presión de los buceadores sobre los arrecifes naturales y convertidas a su vez en un arrecife con corales y peces. Las galerías están en Punta Nizuc, Manchones y Punta Sam; en Punta Nizuc se ven también haciendo snorkel.",
+        come: "Solo con salidas organizadas, de snorkel, buceo o en barco con fondo de cristal, reservables en el sitio oficial.",
+        quando: "Por la mañana, cuando el mar está más tranquilo y el agua más clara.",
+        tempo: "2-3 horas",
+        costo: "Snorkel en Punta Nizuc 58 $, unos 50 €; buceo desde 115 $, unos 100 € (sitio oficial, 2026)",
+        lat: 21.0763,
+        lng: -86.8463,
+        url: "https://musamexico.org/",
+      },
+      {
+        nome: "Zona arqueológica El Rey",
+        testo: "Los restos de uno de los puertos mayas de la ruta comercial a lo largo de la costa caribeña: una calle central, dos pequeñas plazas y edificios con restos de pintura mural con dioses. Se recorre rápido, entre iguanas que toman el sol sobre las piedras.",
+        come: "En el km 18 del Boulevard Kukulcán, del lado de la laguna, con el autobús R1 o R2.",
+        quando: "Temprano por la mañana o al final de la tarde: hay poca sombra.",
+        tempo: "45 minutos",
+        costo: "145 MXN para extranjeros, unos 7 € (INAH, 2026)",
+        orari: "Todos los días de 8 a 17 h, último acceso 16:30 (INAH, 2026)",
+        lat: 21.06083,
+        lng: -86.78111,
+        url: "https://lugares.inah.gob.mx/en/node/4404",
+      },
+      {
+        nome: "Playa Langosta y Playa Tortugas",
+        testo: "Las playas del lado de la bahía de Mujeres, en la parte norte de la zona hotelera: agua baja y tranquila, buena para quien nada poco o viaja con niños. De Playa Tortugas salen también los ferris a Isla Mujeres.",
+        come: "Autobús R1 o R2 hasta las paradas de Playa Langosta o Playa Tortugas, en el primer tramo del Boulevard Kukulcán.",
+        quando: "Por la mañana o al atardecer.",
+        tempo: "Media jornada",
+        costo: "Entrada libre",
+        lat: 21.1451,
+        lng: -86.78256,
+      },
+      {
+        nome: "Coco Bongo",
+        testo: "Local con espectáculo muy conocido, en la zona hotelera: acróbatas, música en vivo y números inspirados en películas, hasta muy tarde. El precio cambia mucho según la ubicación (de pie, en la barra o en mesa), así que conviene saber qué incluye el boleto antes de comprarlo.",
+        come: "Entradas con revendedores.",
+        quando: "Noche.",
+        tempo: "Una velada",
+        costo: "Con barra libre aproximadamente desde 90 $, unos 78 €, según la noche (del viaje, 2026)",
+        lat: 21.1329,
+        lng: -86.74721,
+        consiglio: "Para las entradas probad a contactar con Martin de Mexico Grand Tours: tiene un poco de todo.",
+      },
+      {
+        nome: "Laguna Nichupté",
+        testo: "La gran laguna detrás de la zona hotelera, bordeada de manglares, donde viven cocodrilos y aves acuáticas. Desde los restaurantes del lado de la laguna se ve el atardecer, que aquí cae detrás del agua.",
+        come: "Paseos en barca o en kayak desde las marinas del Boulevard Kukulcán, o una cena en uno de los locales sobre el agua.",
+        quando: "Al atardecer.",
+        tempo: "1-2 horas",
+        lat: 21.09583,
+        lng: -86.79194,
+        consiglio: "Nada de baño en la laguna: hay cocodrilos.",
+      },
+      {
+        nome: "Isla Blanca",
+        testo: "Una lengua de arena al norte de Cancún, entre el mar y la laguna Chacmuchuch, casi sin construcciones. Playas largas y libres, agua baja del lado de la laguna y viento constante, que la convierte en el lugar del kitesurf.",
+        come: "En coche o taxi desde el centro, hacia Costa Mujeres; el último tramo es de terracería.",
+        quando: "Un día sin viento para la playa, con viento para el kite.",
+        tempo: "Media jornada",
+        lat: 21.41028,
+        lng: -86.81083,
+        consiglio: "Llevar agua y algo de comer: hay pocos servicios.",
+      },
+      {
+        nome: "Malecón Tajamar",
+        testo: "Un paseo peatonal y ciclista junto a los manglares de la laguna, entre el centro y la zona hotelera, frecuentado por la tarde por corredores y familias del lugar. Es la manera más tranquila de ver la laguna sin subir a una barca.",
+        come: "A pie, en bici o en taxi desde el centro.",
+        quando: "Al final de la tarde.",
+        tempo: "1 hora",
+        costo: "Libre",
+        lat: 21.14716,
+        lng: -86.81341,
+      },
+    ],
+    programmi: [
+      { titolo: "1 día", tappe: [
+        "Mañana: Isla Mujeres en ferry",
+        "Tarde: golf cart y snorkel",
+        "Noche: Parque las Palapas",
+      ] },
+      { titolo: "2 días", tappe: [
+        "Día 1: Isla Mujeres",
+        "Día 2: Playa Marlin, Mercado 28 y, si se quiere, Coco Bongo",
+      ] },
+      { titolo: "3 días", tappe: [
+        "Días 1-2 como arriba",
+        "Día 3: Museo Maya de Cancún y San Miguelito, luego la zona arqueológica El Rey",
+        "Tarde en Playa Delfines",
+        "Atardecer en la laguna Nichupté",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Centro (Downtown)",
+        perChi: "presupuesto y vida local",
+        testo: "Hoteles baratos, mercados y restaurantes, pero lejos del mar.",
+        fascia: "40-100 €",
+      },
+      {
+        nome: "Zona Hotelera",
+        perChi: "mar y resorts",
+        testo: "Playas y resorts, pero precios altos y tráfico turístico.",
+        fascia: "150-350 €",
+      },
+      {
+        nome: "Isla Mujeres",
+        perChi: "quien quiere mar tranquilo y noches tranquilas",
+        testo: "Hoteles y pequeños alojamientos en el pueblo, con las playas del norte a pie. Para volver a Cancún se depende de los horarios de los ferris.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Tacos al pastor",
@@ -122,6 +227,58 @@ export const destinazioniMessico: Destinazione[] = [
         "Taxis sin taxímetro: acordar el precio antes de subir.",
         "Ofertas de tiempo compartido o de tours demasiado baratos: no seguir a quien te para en la calle."
       ],
+    gite: [
+      {
+        nome: "Isla Contoy",
+        distanza: "unos 40 km al norte, en barco",
+        come: "Solo con tours autorizados de un día, a menudo combinados con Isla Mujeres; aproximadamente 80-100 € por persona (del viaje).",
+        testo: "Reserva natural de aves marinas, con playas desiertas y snorkel en el arrecife. Las entradas están limitadas a 200 personas al día: hay que reservar con antelación.",
+      },
+      {
+        nome: "Puerto Morelos",
+        distanza: "unos 36 km, 30-40 minutos",
+        come: "Autobús ADO o colectivo hacia Playa del Carmen; para los cenotes del interior hace falta coche.",
+        testo: "Pueblo de pescadores con el viejo faro inclinado, el arrecife protegido frente a la playa y, hacia el interior, la Ruta de los Cenotes.",
+      },
+      {
+        nome: "Playa del Carmen",
+        distanza: "unos 70 km, 1 hora en autobús",
+        come: "Autobús ADO desde la terminal del centro o desde el aeropuerto, salidas frecuentes.",
+        testo: "La Quinta Avenida peatonal, las playas y los ferris a Cozumel, que tiene la segunda barrera de coral más grande del mundo.",
+      },
+      {
+        nome: "Chichén Itzá",
+        distanza: "unos 200 km, 2,5-3 horas",
+        come: "Coche, autobús ADO o Tren Maya hasta la estación Chichén Itzá.",
+        testo: "La gran ciudad maya de El Castillo. Conviene entrar a la apertura de las 8, antes de los autobuses desde Cancún; la ficha del INAH indica 105 + 548 MXN para extranjeros y horario de 8 a 16 h, último acceso a las 15 (noviembre de 2026).",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días se necesitan en Cancún?",
+        risposta: "Uno o dos días bastan para Isla Mujeres y un día de playa; con un tercero se añaden el Museo Maya, El Rey y la laguna. Conviene repartirlos entre el inicio y el final del viaje.",
+      },
+      {
+        domanda: "¿Mejor dormir en el centro o en la zona hotelera?",
+        risposta: "El centro cuesta menos, está cerca de la terminal ADO y de los sitios donde comen los mexicanos, pero lejos del mar. La zona hotelera tiene la playa delante del hotel, con precios mucho más altos; los autobuses R1 y R2 unen las dos zonas.",
+      },
+      {
+        domanda: "¿Cómo se llega del aeropuerto al centro?",
+        risposta: "Con el autobús ADO, unos 30-40 minutos y 130-140 MXN, boletos en el mostrador de llegadas. El taxi oficial se paga en el mostrador dentro de la terminal, unos 550-700 MXN al centro y más a la zona hotelera.",
+      },
+      {
+        domanda: "¿Las playas de la zona hotelera son libres?",
+        risposta: "Sí, se llega al mar por los accesos públicos: Playa Gaviota Azul, Playa Marlin, Playa Delfines, Playa Langosta y Playa Tortugas. Camastros y sombrillas se pagan solo en los beach clubs.",
+      },
+      {
+        domanda: "¿Cómo se va a Isla Mujeres?",
+        risposta: "En ferry desde Puerto Juárez o desde Playa Tortugas, unos 540 MXN ida y vuelta. En la isla se recorre en carrito de golf alquilado, o se contrata un día organizado en catamarán.",
+      },
+      {
+        domanda: "¿Qué es el Visitax?",
+        risposta: "Es el impuesto turístico de Quintana Roo, el estado de Cancún: 20,99 dólares por persona, solo en línea (Viaggiare Sicuri, mayo de 2026).",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Playa blanca y olas turquesa con los hoteles de la zona hotelera de Cancún al fondo',
@@ -272,91 +429,183 @@ export const destinazioniMessico: Destinazione[] = [
       "Cenamos en la Mezcalería, un local muy grande e informal donde no hace falta reservar. Para comer, el casco histórico y el mercado municipal tienen muchísimos sitios baratos de cocina yucateca (cochinita pibil, panuchos, sopa de lima).",
     usciteSerali:
       "Copas en la Negrita antes de cenar (cierra pronto, hacia las 22: para disfrutarla con calma, mejor reservar con tiempo). Además de la Negrita y la Mezcalería, la calle de los bares y locales nocturnos es el Paseo de Montejo.",
-    comeArrivare: 'En furgoneta/coche desde Valladolid (unas 1 h 30-2 h), pasando por Chichén Itzá e Izamal.',
+    comeArrivare: "En furgoneta/coche desde Valladolid (unas 1 h 30-2 h), pasando por Chichén Itzá e Izamal. El aeropuerto internacional de Mérida (MID) está al sur de la ciudad, a unos veinte minutos en taxi del centro. Desde Cancún se llega en autobús ADO de primera clase (unas 4-5 horas, horarios en ado.com.mx) o en el Tren Maya, que para en la estación Teya-Mérida, fuera de la ciudad: desde allí al centro hace falta un taxi. En coche desde Cancún se toma la autopista de cuota pasando por Valladolid.",
     comeSpostarsi: 'El casco histórico a pie; para Playa Progreso hace falta un traslado en coche o furgoneta (unos 30-40 minutos).',
     periodoMigliore: "no lo anoté para Mérida; vale la estación seca aconsejada para Yucatán, de noviembre a abril.",
-    costi: 'No apunté los gastos de Mérida; como el resto del interior, cuesta poco.',
+    costi: "No apunté los gastos de Mérida; como el resto del interior, cuesta poco. Presupuesto bajo unos 35-50 € al día por persona (hostal u hotel sencillo, mercado y comida callejera); medio 80-130 € (hotel boutique en el centro, restaurantes, una excursión a Progreso o Uxmal); alto desde 220 € (casona colonial de lujo o hacienda, coche con chófer). Museos del INAH 210 MXN para extranjeros, Palacio de Gobierno gratuito.",
     erroriDaEvitare: [
       'La Negrita cierra pronto (hacia las 22): reservar con tiempo si se quiere vivirla antes de ir a otro sitio',
     ],
     miaEsperienza:
       "Mérida fue la pausa adecuada a mitad de viaje: un día sin traslados entre Playa Progreso y la pig beach y una verdadera noche de salida por el casco histórico.",
-      "luoghi": [
-        {
-          "nome": "Plaza Grande y centro histórico",
-          "testo": "La plaza central con la catedral del siglo XVI, el Palacio de Gobierno con murales y las casas coloniales de los alrededores.",
-          "come": "A pie desde el centro.",
-          "quando": "Mañana y noche, cuando hay música.",
-          "tempo": "Media jornada"
-        },
-        {
-          "nome": "Mercado municipal",
-          "testo": "El mercado cubierto con fruta, especias, artesanía y productos yucatecos.",
-          "come": "A pie desde el centro.",
-          "quando": "Mañana.",
-          "tempo": "1-2 horas"
-        },
-        {
-          "nome": "Playa Progreso",
-          "testo": "La playa de Progreso, en el Golfo de México, el puerto de Mérida, con un largo muelle que entra en el mar y clubes de playa en la arena.",
-          "come": "Bus o coche desde Mérida.",
-          "quando": "De día.",
-          "tempo": "Día completo",
-          "consiglio": "Una pausa a mitad de viaje sin traslados largos."
-        },
-        {
-          "nome": "Noche entre La Negrita y la Mezcalería",
-          "testo": "Locales con música en vivo y mezcal en el centro histórico.",
-          "come": "A pie desde el centro.",
-          "quando": "Noche.",
-          "tempo": "Una velada"
-        },
-        {
-          "nome": "Izamal",
-          "testo": "La ciudad amarilla, al este de Mérida: el gran convento franciscano está construido sobre una pirámide maya, y en el pueblo quedan otras, como la Kinich Kak Moo. Casi todas las fachadas están pintadas del mismo amarillo.",
-          "come": "En coche desde Mérida o por la carretera desde Chichén Itzá; el Tren Maya tiene estación en Izamal.",
-          "quando": "Mañana o última hora de la tarde.",
-          "tempo": "2-3 horas",
-          "consiglio": "El pueblo es caro: mejor no perder demasiado tiempo ni dinero entre los souvenirs."
-        },
-        {
-          "nome": "Celestún",
-          "testo": "Pueblo de pescadores en el Golfo, al borde de la Reserva de la Biosfera Ría Celestún: una laguna de manglares donde se sale en lancha a ver flamencos y aves acuáticas.",
-          "come": "En coche o en tour desde Mérida, en el día; las lanchas salen del pueblo.",
-          "quando": "Por la mañana, cuando hay menos gente.",
-          "tempo": "Día completo",
-          "consiglio": "El número de flamencos cambia mucho durante el año: pregunta en el muelle antes de pagar la lancha, y pide al lanchero que mantenga la distancia con las aves."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: Plaza Grande y mercado",
-            "Tarde: Paseo de Montejo",
-            "Noche: La Negrita y Mezcalería"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: centro y mercado",
-            "Día 2: Playa Progreso"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro histórico",
-          "perChi": "a pie de todo",
-          "testo": "Hoteles boutique en casas coloniales, cerca de restaurantes y de la plaza."
-        },
-        {
-          "nome": "Paseo de Montejo",
-          "perChi": "elegancia",
-          "testo": "Avenida de mansiones históricas, más tranquila."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Plaza Grande y centro histórico",
+        testo: "La plaza central con la catedral del siglo XVI, el Palacio de Gobierno con murales y las casas coloniales de los alrededores.",
+        come: "A pie desde el centro.",
+        quando: "Mañana y noche, cuando hay música.",
+        tempo: "Media jornada",
+        costo: "Libre",
+        lat: 20.96707,
+        lng: -89.62374,
+      },
+      {
+        nome: "Catedral de San Ildefonso",
+        testo: "La catedral construida en la segunda mitad del siglo XVI en el lado este de la Plaza Grande, con las piedras de los templos de T'hó, la ciudad maya sobre la que nació Mérida. Está entre las catedrales más antiguas del continente americano; por dentro es sobria, casi desnuda.",
+        come: "Desde la Plaza Grande; se entra fuera de los horarios de misa, con hombros y rodillas cubiertos.",
+        quando: "Por la mañana.",
+        tempo: "20-30 minutos",
+        lat: 20.96712,
+        lng: -89.62259,
+      },
+      {
+        nome: "Palacio de Gobierno",
+        testo: "La sede del gobierno de Yucatán, en el lado norte de la plaza, con los grandes murales de Fernando Castro Pacheco sobre la historia de la región: el mundo maya, la conquista, las haciendas henequeneras.",
+        come: "Se entra desde la plaza; los murales están a lo largo de la escalera principal y en las salas del piso superior.",
+        quando: "Por la mañana, antes del calor.",
+        tempo: "30-45 minutos",
+        costo: "Entrada libre (del viaje)",
+        lat: 20.96783,
+        lng: -89.62336,
+      },
+      {
+        nome: "Casa de Montejo",
+        testo: "El palacio de los conquistadores Montejo, en el lado sur de la plaza, con la fachada plateresca del siglo XVI donde dos soldados españoles pisan las cabezas de los vencidos. Dentro hay un pequeño museo con los ambientes de una casa noble.",
+        come: "En el lado sur de la Plaza Grande.",
+        quando: "Por la mañana; la fachada también de noche, iluminada.",
+        tempo: "30 minutos",
+        lat: 20.96618,
+        lng: -89.62403,
+      },
+      {
+        nome: "Paseo de Montejo y Palacio Cantón",
+        testo: "La avenida de casonas de la época dorada del henequén, cuando la fibra del agave hizo ricos a los dueños de las haciendas. La más elegante, el Palacio Cantón, alberga el Museo Regional de Antropología del INAH.",
+        come: "A pie desde el centro o en taxi; al museo se entra por la calle 43.",
+        quando: "El museo por la mañana, el paseo al final de la tarde.",
+        tempo: "2-3 horas",
+        costo: "Museo 210 MXN para extranjeros, unos 10,5 € (INAH, 2026)",
+        orari: "Museo de martes a domingo de 8 a 17 h, último acceso 16:30; lunes cerrado (INAH, 2026)",
+        lat: 20.97819,
+        lng: -89.61951,
+        url: "https://lugares.inah.gob.mx/en/node/4258",
+        consiglio: "El domingo por la mañana el paseo se cierra a los coches y se llena de bicicletas.",
+      },
+      {
+        nome: "Mercado municipal",
+        testo: "El mercado cubierto con fruta, especias, artesanía y productos yucatecos.",
+        come: "A pie desde el centro.",
+        quando: "Mañana.",
+        tempo: "1-2 horas",
+        lat: 20.96369,
+        lng: -89.62076,
+        consiglio: "Cuidado con quien se ofrece a acompañar a las tiendas.",
+      },
+      {
+        nome: "Gran Museo del Mundo Maya",
+        testo: "El gran museo moderno en el norte de la ciudad, inaugurado en 2012, que cuenta la cultura maya de Yucatán desde sus orígenes hasta hoy con piezas arqueológicas, reconstrucciones y salas multimedia.",
+        come: "En taxi o en coche desde el centro, hacia la periferia norte.",
+        quando: "En las horas de más calor, al fresco de las salas.",
+        tempo: "2-3 horas",
+        lat: 21.03465,
+        lng: -89.62831,
+        url: "https://www.granmuseodelmundomaya.com/",
+      },
+      {
+        nome: "Parque de Santa Lucía",
+        testo: "La placita con portales a pocas cuadras al norte de la Plaza Grande, con restaurantes bajo los arcos y mesas al aire libre. El jueves por la noche hay serenata yucateca, con trova y bailes tradicionales.",
+        come: "A pie desde la Plaza Grande, por la calle 60.",
+        quando: "Por la noche, sobre todo los jueves.",
+        tempo: "1-2 horas",
+        costo: "Libre",
+        lat: 20.97107,
+        lng: -89.62254,
+      },
+      {
+        nome: "MACAY, museo de arte contemporáneo",
+        testo: "El museo Fernando García Ponce en el antiguo Ateneo Peninsular, junto a la catedral, con obras de artistas yucatecos y exposiciones temporales. El patio es una pausa a la sombra a un paso de la plaza.",
+        come: "En el lado este de la Plaza Grande, junto a la catedral.",
+        quando: "En las horas de calor.",
+        tempo: "1 hora",
+        lat: 20.96664,
+        lng: -89.62303,
+        url: "https://www.macay.org/",
+      },
+      {
+        nome: "Noche entre La Negrita y la Mezcalería",
+        testo: "Locales con música en vivo y mezcal en el centro histórico.",
+        come: "A pie desde el centro.",
+        quando: "Noche.",
+        tempo: "Una velada",
+      },
+      {
+        nome: "Playa Progreso",
+        testo: "La playa de Progreso, en el Golfo de México, el puerto de Mérida, con un largo muelle que entra en el mar y clubes de playa en la arena.",
+        come: "Bus o coche desde Mérida.",
+        quando: "De día.",
+        tempo: "Día completo",
+        costo: "Camastros gratis en los beach clubs con una consumición (del viaje)",
+        lat: 21.28278,
+        lng: -89.66361,
+        consiglio: "Una pausa a mitad de viaje sin traslados largos.",
+      },
+      {
+        nome: "Izamal",
+        testo: "La ciudad amarilla, al este de Mérida: el gran convento franciscano está construido sobre una pirámide maya, y en el pueblo quedan otras, como la Kinich Kak Moo. Casi todas las fachadas están pintadas del mismo amarillo.",
+        come: "En coche desde Mérida o por la carretera desde Chichén Itzá; el Tren Maya tiene estación en Izamal.",
+        quando: "Mañana o última hora de la tarde.",
+        tempo: "2-3 horas",
+        lat: 20.93139,
+        lng: -89.01778,
+        consiglio: "El pueblo es caro: mejor no perder demasiado tiempo ni dinero entre los souvenirs.",
+      },
+      {
+        nome: "Celestún",
+        testo: "Pueblo de pescadores en el Golfo, al borde de la Reserva de la Biosfera Ría Celestún: una laguna de manglares donde se sale en lancha a ver flamencos y aves acuáticas.",
+        come: "En coche o en tour desde Mérida, en el día; las lanchas salen del pueblo.",
+        quando: "Por la mañana, cuando hay menos gente.",
+        tempo: "Día completo",
+        lat: 20.85917,
+        lng: -90.4,
+        consiglio: "El número de flamencos cambia mucho durante el año: pregunta en el muelle antes de pagar la lancha, y pide al lanchero que mantenga la distancia con las aves.",
+      },
+    ],
+    programmi: [
+      { titolo: "1 día", tappe: [
+        "Mañana: Plaza Grande y mercado",
+        "Tarde: Paseo de Montejo",
+        "Noche: La Negrita y Mezcalería",
+      ] },
+      { titolo: "2 días", tappe: [
+        "Día 1: centro y mercado",
+        "Día 2: Playa Progreso",
+      ] },
+      { titolo: "3 días", tappe: [
+        "Días 1-2 como arriba",
+        "Día 3: Uxmal a la apertura de las 8, aproximadamente 1 hora y cuarto en coche",
+        "Primera hora de la tarde: Palacio Cantón y Paseo de Montejo",
+        "Noche: Parque de Santa Lucía",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Centro histórico",
+        perChi: "a pie de todo",
+        testo: "Hoteles boutique en casas coloniales, cerca de restaurantes y de la plaza.",
+        fascia: "50-150 €",
+      },
+      {
+        nome: "Paseo de Montejo",
+        perChi: "elegancia",
+        testo: "Avenida de mansiones históricas, más tranquila.",
+        fascia: "100-250 €",
+      },
+      {
+        nome: "Santa Lucía y Santa Ana",
+        perChi: "quien quiere un barrio tranquilo a pie del centro",
+        testo: "Los barrios al norte de la plaza, con casas coloniales restauradas, pequeños hoteles y restaurantes, a 10-15 minutos a pie de la Plaza Grande.",
+        fascia: "60-180 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Sopa de lima",
@@ -380,6 +629,58 @@ export const destinazioniMessico: Destinazione[] = [
         "Taxis no oficiales: usar Uber o taxis acordados.",
         "El centro de noche es seguro en las calles principales; fuera de allí pedir consejo."
       ],
+    gite: [
+      {
+        nome: "Uxmal",
+        distanza: "aproximadamente 1 hora y cuarto en coche",
+        come: "Coche por la Federal 261 o tour organizado; con la Ruta Puuc se convierte en un día entero.",
+        testo: "La gran ciudad puuc, con la Pirámide del Adivino y el Cuadrángulo de las Monjas. 566 MXN para extranjeros, abierta todos los días de 8 a 16 h, último acceso a las 15 (ficha del INAH, noviembre de 2026).",
+      },
+      {
+        nome: "Dzibilchaltún",
+        distanza: "unos 12 km al norte, 20-30 minutos",
+        come: "Coche o taxi por la carretera a Progreso, luego la salida a Chablekal.",
+        testo: "Sitio maya con el Templo de las Siete Muñecas, el Museo del Pueblo Maya y el cenote Xlacah, donde uno se puede bañar. En los equinoccios el sol atraviesa la puerta del templo. 105 MXN, todos los días de 8 a 16 h (INAH, 2026).",
+      },
+      {
+        nome: "Cenotes de Cuzamá y Homún",
+        distanza: "unos 45-50 km, 1 hora",
+        come: "En coche o con tour; en los pueblos se va de cenote en cenote con guías locales, en mototaxi o en los viejos truks de la hacienda.",
+        testo: "Dos pueblos del anillo de cenotes, con decenas de pozos de agua dulce abiertos al baño, algunos en cueva. Cada cenote cobra su entrada, en efectivo.",
+      },
+      {
+        nome: "Chichén Itzá",
+        distanza: "unas 2 horas en coche",
+        come: "Coche, autobús ADO o Tren Maya; se puede combinar con Izamal.",
+        testo: "La ciudad maya de El Castillo, mejor a la apertura de las 8. La ficha del INAH indica 105 + 548 MXN para extranjeros y horario de 8 a 16 h, último acceso a las 15 (noviembre de 2026).",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días se necesitan en Mérida?",
+        risposta: "Dos días para el centro, los museos y un día en Progreso. Con tres o cuatro días Mérida se convierte en la base para Uxmal, Celestún y los cenotes.",
+      },
+      {
+        domanda: "¿Mejor dormir en el centro o en el Paseo de Montejo?",
+        risposta: "El centro histórico es lo más cómodo: plaza, mercado y bares quedan a pie. El Paseo de Montejo y los barrios de Santa Lucía y Santa Ana son más tranquilos, con hoteles en casonas coloniales.",
+      },
+      {
+        domanda: "¿Se puede visitar Uxmal en un día desde Mérida?",
+        risposta: "Sí, está a aproximadamente una hora y cuarto en coche. Conviene entrar a la apertura de las 8 por el calor; la entrada para extranjeros es de 566 MXN (INAH, noviembre de 2026).",
+      },
+      {
+        domanda: "¿Hace falta coche en Mérida?",
+        risposta: "En la ciudad no: el centro se recorre a pie y para lo demás hay taxis y aplicaciones. Para Uxmal, Celestún y los cenotes el coche o un tour lo hacen todo más fácil.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época?",
+        risposta: "De noviembre a abril, en la temporada seca. Desde mayo el calor húmedo se hace fuerte; de junio a noviembre es la temporada de huracanes en el Atlántico.",
+      },
+      {
+        domanda: "¿Qué es el Hanal Pixán?",
+        risposta: "Es la fiesta de los muertos de Yucatán, entre finales de octubre y principios de noviembre: altares en las casas y en las plazas, comida tradicional y celebraciones en Mérida y en los pueblos.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Los soportales del Palacio Municipal en la plaza principal del casco histórico de Mérida, Yucatán',

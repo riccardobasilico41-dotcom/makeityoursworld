@@ -377,7 +377,9 @@ export const destinazioniInghilterra: Destinazione[] = [
     ],
     cosaFare: ['Un giro dei villaggi in auto', 'Una camminata tra Lower e Upper Slaughter', 'Un pranzo in un pub di campagna'],
     comeArrivare:
-      'In treno da Londra Paddington sulla linea che passa da Oxford, Charlbury e Kingham fino a Moreton-in-Marsh, in circa un\'ora e mezza fino a Moreton (tempo indicativo). Oppure in auto, ritirandola a Oxford.',
+      'In treno da Londra Paddington sulla linea per Oxford, Charlbury e Kingham fino a Moreton-in-Marsh, in circa un\'ora e mezza (tempo indicativo); orari e prezzi su nationalrail.co.uk, più bassi comprando con anticipo. Da Heathrow si arriva a Paddington con la Elizabeth line, in circa 30-40 minuti, o con l\'Heathrow Express, in 15-20 minuti. Chi gira in auto conviene che la ritiri a Oxford, a circa un\'ora di treno da Londra: da lì Stow-on-the-Wold è a circa 45 minuti.',
+    costi:
+      'I villaggi e i sentieri sono gratuiti; si pagano i parcheggi e le dimore storiche, come Blenheim Palace (41 sterline online, circa 47 €, 2026). Dormire costa: i pub con camere e i B&B partono da circa 100-120 € la doppia. Budget indicativo al giorno a persona, con la doppia divisa in due e l\'auto a noleggio a parte: basso 90-120 €, medio 160-230 €, alto oltre 350 €.',
     comeSpostarsi:
       'In auto è tutto più semplice: i villaggi sono vicini ma i bus sono pochi. Le strade di campagna sono strette, con siepi alte, e si guida a sinistra.',
     periodoMigliore: 'da maggio a settembre; in primavera e in autunno ci sono meno gruppi',
@@ -388,61 +390,243 @@ export const destinazioniInghilterra: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        nome: 'Bibury e Arlington Row',
-        testo: 'Una fila di cottage di pietra nati nel 1380 come magazzino della lana di un monastero e trasformati a fine Seicento in case dei tessitori. È una delle immagini più note delle Cotswolds.',
-        come: 'In auto, con parcheggio limitato nel villaggio.',
-        quando: 'La mattina presto o nel tardo pomeriggio.',
-        tempo: '1 ora',
+        "nome": "Bibury e Arlington Row",
+        "testo": "Una fila di cottage di pietra nati nel 1380 come magazzino della lana di un monastero e trasformati a fine Seicento in case dei tessitori. È una delle immagini più note delle Cotswolds.",
+        "come": "In auto, con parcheggio limitato nel villaggio.",
+        "quando": "La mattina presto o nel tardo pomeriggio.",
+        "tempo": "1 ora",
+        "costo": "Gratuito; parcheggio a pagamento nel villaggio, con pochi posti",
+        "orari": "Sempre accessibile; le case sono abitate",
+        "lat": 51.7584,
+        "lng": -1.8348
       },
       {
-        nome: 'Bourton-on-the-Water',
-        testo: 'Il villaggio con il fiume Windrush basso e largo, attraversato da piccoli ponti di pietra. È il più frequentato della zona.',
-        come: 'In auto, con parcheggi a pagamento ai bordi del centro.',
-        quando: 'La mattina presto o in un giorno feriale.',
-        tempo: '1-2 ore',
+        "nome": "Bourton-on-the-Water",
+        "testo": "Il villaggio con il fiume Windrush basso e largo, attraversato da piccoli ponti di pietra. È il più frequentato della zona.",
+        "come": "In auto, con parcheggi a pagamento ai bordi del centro.",
+        "quando": "La mattina presto o in un giorno feriale.",
+        "tempo": "1-2 ore",
+        "costo": "Gratuito; parcheggi a pagamento ai bordi del centro",
+        "orari": "Sempre accessibile",
+        "lat": 51.886,
+        "lng": -1.759
       },
       {
-        nome: 'Lower Slaughter e Upper Slaughter',
-        testo: 'Due villaggi minuscoli lungo un torrente, collegati da un sentiero tra i prati. Sono il contrario di Bourton: silenziosi.',
-        come: 'A piedi da un villaggio all\'altro, andata e ritorno.',
-        quando: 'Mattina o tardo pomeriggio.',
-        tempo: '1-2 ore con la camminata',
+        "nome": "Lower Slaughter e Upper Slaughter",
+        "testo": "Due villaggi minuscoli lungo un torrente, collegati da un sentiero tra i prati. Sono il contrario di Bourton: silenziosi.",
+        "come": "A piedi da un villaggio all'altro, andata e ritorno.",
+        "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "1-2 ore con la camminata",
+        "costo": "Gratuito",
+        "orari": "Sempre accessibile",
+        "lat": 51.906,
+        "lng": -1.777,
+        "consiglio": "A Lower Slaughter i posti auto sono pochissimi: conviene lasciare l'auto a Upper Slaughter o a Bourton e camminare. Il sentiero attraversa campi con le pecore, e i cancelli vanno richiusi."
       },
       {
-        nome: 'Stow-on-the-Wold',
-        testo: 'Un paese di mercato in cima a una collina, con la piazza, le botteghe di antiquariato e la chiesa di St Edward, con la porta tra due tassi che molti accostano al mondo di Tolkien.',
-        come: 'In auto o a piedi dalle Slaughter.',
-        tempo: '1-2 ore',
+        "nome": "Stow-on-the-Wold",
+        "testo": "Un paese di mercato in cima a una collina, con la piazza, le botteghe di antiquariato e la chiesa di St Edward, con la porta tra due tassi che molti accostano al mondo di Tolkien.",
+        "come": "In auto o a piedi dalle Slaughter.",
+        "tempo": "1-2 ore",
+        "quando": "Il tardo pomeriggio, a fine giro, o la mattina presto se si dorme qui.",
+        "costo": "Gratuito",
+        "lat": 51.93,
+        "lng": -1.7225
       },
       {
-        nome: 'Chipping Campden e Broadway',
-        testo: 'Le Cotswolds del nord. Chipping Campden ha una strada principale di case di pietra, con il vecchio mercato coperto. Broadway è più grande, con la torre in cima alla collina.',
-        come: 'In auto, a nord di Stow.',
-        tempo: 'mezza giornata',
+        "nome": "Chipping Campden e Broadway",
+        "testo": "Le Cotswolds del nord. Chipping Campden ha una strada principale di case di pietra, con il vecchio mercato coperto. Broadway è più grande, con la torre in cima alla collina.",
+        "come": "In auto, a nord di Stow.",
+        "tempo": "mezza giornata",
+        "quando": "La mattina, prima dei pullman.",
+        "costo": "Gratuito",
+        "lat": 52.052,
+        "lng": -1.779
       },
       {
-        nome: 'Castle Combe',
-        testo: 'Un villaggio nel Wiltshire, all\'estremo sud delle Cotswolds, con le case di pietra intorno alla vecchia croce del mercato e il ponte sul torrente. Sta sulla strada per Bath.',
-        come: 'In auto, lasciandola nel parcheggio sopra il villaggio e scendendo a piedi.',
-        quando: 'La mattina.',
-        tempo: '1 ora',
+        "nome": "Castle Combe",
+        "testo": "Un villaggio nel Wiltshire, all'estremo sud delle Cotswolds, con le case di pietra intorno alla vecchia croce del mercato e il ponte sul torrente. Sta sulla strada per Bath.",
+        "come": "In auto, lasciandola nel parcheggio sopra il villaggio e scendendo a piedi.",
+        "quando": "La mattina.",
+        "tempo": "1 ora",
+        "costo": "Gratuito",
+        "orari": "Sempre accessibile",
+        "lat": 51.493,
+        "lng": -2.229
       },
+      {
+        "nome": "Broadway Tower",
+        "testo": "Una torre del Settecento in cima alla collina sopra Broadway, uno dei punti più alti delle Cotswolds. Dalla terrazza la vista si apre su più contee.",
+        "come": "In auto da Broadway in una decina di minuti, oppure a piedi sul Cotswold Way, in salita dal paese.",
+        "quando": "Con il cielo limpido o verso il tramonto.",
+        "tempo": "1 ora",
+        "lat": 52.02417,
+        "lng": -1.83583,
+        "url": "https://www.broadwaytower.co.uk/"
+      },
+      {
+        "nome": "Blenheim Palace",
+        "testo": "Il grande palazzo barocco dei duchi di Marlborough, patrimonio UNESCO, dove nacque Winston Churchill. Il parco disegnato da Capability Brown, con il lago e il ponte, vale da solo la visita.",
+        "come": "A Woodstock, ai margini orientali delle Cotswolds, sulla strada tra Oxford e Burford. Biglietti online, 3 sterline in meno che sul posto.",
+        "quando": "La mattina, all'apertura. Dal 13 novembre al 3 gennaio c'è il programma di Natale e i biglietti per il solo parco non si vendono.",
+        "tempo": "mezza giornata",
+        "costo": "Palazzo, parco e giardini 41 sterline online e 44 sul posto, circa 47-51 €; solo parco e giardini 31 sterline online, circa 36 € (2026)",
+        "orari": "Parco aperto tutti i giorni 9-18; il palazzo ha orari propri e chiusure stagionali, sul sito ufficiale.",
+        "lat": 51.84136,
+        "lng": -1.36095,
+        "url": "https://www.blenheimpalace.com/"
+      },
+      {
+        "nome": "Hidcote Manor Garden",
+        "testo": "Uno dei giardini più noti d'Inghilterra, creato all'inizio del Novecento e diviso in «stanze» da siepi e muri, ognuna con il suo colore. È del National Trust.",
+        "come": "In auto, pochi chilometri a nord di Chipping Campden.",
+        "quando": "Da maggio a settembre, con le fioriture.",
+        "tempo": "2 ore",
+        "lat": 52.08456,
+        "lng": -1.74609,
+        "url": "https://www.nationaltrust.org.uk/"
+      },
+      {
+        "nome": "Sudeley Castle",
+        "testo": "Un castello con giardini a Winchcombe, abitato ancora oggi. Nella cappella è sepolta Caterina Parr, l'ultima moglie di Enrico VIII.",
+        "come": "In auto, nelle Cotswolds occidentali, a mezz'ora da Broadway.",
+        "quando": "Solo nella stagione di apertura: riapre a marzo 2027.",
+        "tempo": "2-3 ore",
+        "costo": "Adulti 24 sterline, circa 28 € (2026)",
+        "orari": "In stagione castello e giardini dalle 10, ultimo ingresso alle 15, il castello chiude alle 16 e il sito alle 17. Chiuso d'inverno.",
+        "url": "https://sudeleycastle.co.uk/"
+      },
+      {
+        "nome": "Burford",
+        "testo": "Una cittadina sul fiume Windrush, con la strada principale in discesa tra case di pietra, botteghe e locande. Per chi arriva da Oxford è la porta delle Cotswolds.",
+        "come": "In auto sulla A40, tra Oxford e Cheltenham.",
+        "quando": "La mattina o a pranzo.",
+        "tempo": "1 ora",
+        "costo": "Gratuito",
+        "lat": 51.808,
+        "lng": -1.637
+      },
+      {
+        "nome": "Cirencester e il Corinium Museum",
+        "testo": "Cirencester era Corinium, una delle città più importanti della Britannia romana. Il museo ha mosaici e oggetti romani trovati in zona; la chiesa sulla piazza del mercato è tra le più grandi delle Cotswolds.",
+        "come": "In auto, nel sud delle Cotswolds, sulla strada tra Bibury e Castle Combe.",
+        "tempo": "2 ore",
+        "lat": 51.7138,
+        "lng": -1.9763,
+        "url": "https://coriniummuseum.org/"
+      }
     ],
     programmi: [
-      { titolo: '1 giorno', tappe: ['Bibury la mattina presto', 'Bourton-on-the-Water', 'Camminata tra Lower e Upper Slaughter', 'Stow-on-the-Wold'] },
-      { titolo: '2 giorni', tappe: ['Giorno 1: come sopra', 'Giorno 2: Chipping Campden e Broadway, oppure Castle Combe sulla strada per Bath'] },
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Bibury la mattina presto",
+          "Bourton-on-the-Water",
+          "Camminata tra Lower e Upper Slaughter",
+          "Stow-on-the-Wold"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: come sopra",
+          "Giorno 2: Chipping Campden e Broadway, oppure Castle Combe sulla strada per Bath"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: Bibury la mattina presto, Bourton-on-the-Water, la camminata tra Lower e Upper Slaughter, Stow-on-the-Wold",
+          "Giorno 2: Chipping Campden, Broadway e la Broadway Tower, Hidcote nel pomeriggio",
+          "Giorno 3: Burford e Blenheim Palace, oppure Cirencester e Castle Combe sulla strada per Bath"
+        ]
+      }
     ],
     zone: [
-      { nome: 'Stow-on-the-Wold e dintorni', perChi: 'chi gira in auto', testo: 'Al centro della zona, a pochi minuti da Bourton, dalle Slaughter e da Moreton-in-Marsh.' },
-      { nome: 'Moreton-in-Marsh', perChi: 'chi arriva in treno', testo: 'Ha la stazione sulla linea per Londra e qualche bus per i villaggi vicini.' },
+      {
+        "nome": "Stow-on-the-Wold e dintorni",
+        "perChi": "chi gira in auto",
+        "testo": "Al centro della zona, a pochi minuti da Bourton, dalle Slaughter e da Moreton-in-Marsh.",
+        "fascia": "120-230 €"
+      },
+      {
+        "nome": "Moreton-in-Marsh",
+        "perChi": "chi arriva in treno",
+        "testo": "Ha la stazione sulla linea per Londra e qualche bus per i villaggi vicini.",
+        "fascia": "100-180 €"
+      },
+      {
+        "nome": "Chipping Campden e Broadway",
+        "perChi": "chi vuole le Cotswolds del nord",
+        "testo": "Villaggi più grandi, con locande storiche e qualche hotel di lusso. Comodi per Hidcote e per una gita a Stratford-upon-Avon.",
+        "fascia": "140-280 €"
+      },
+      {
+        "nome": "Burford e Bibury",
+        "perChi": "chi arriva in auto da Oxford",
+        "testo": "Il lato sud-est della zona, più vicino a Oxford e Blenheim. Bibury la sera, partiti i pullman, è silenziosa.",
+        "fascia": "130-260 €"
+      }
     ],
     sapori: [
-      { nome: 'Cream tea', testo: 'Tè con scones, panna e marmellata, nelle sale da tè dei villaggi.' },
-      { nome: 'Pub di villaggio', testo: 'Pranzo con piatti di stagione e birre locali, spesso in edifici di pietra di qualche secolo.' },
+      {
+        "nome": "Cream tea",
+        "testo": "Tè con scones, panna e marmellata, nelle sale da tè dei villaggi."
+      },
+      {
+        "nome": "Pub di villaggio",
+        "testo": "Pranzo con piatti di stagione e birre locali, spesso in edifici di pietra di qualche secolo."
+      }
     ],
     attenzioni: [
-      'Strade di campagna strette, con siepi alte e poca visibilità: si guida a sinistra e piano.',
-      'Ad Arlington Row si fotografa dalla strada, senza entrare nei giardini.',
+      "Strade di campagna strette, con siepi alte e poca visibilità: si guida a sinistra e piano.",
+      "Ad Arlington Row si fotografa dalla strada, senza entrare nei giardini."
+    ],
+    gite: [
+      {
+        "nome": "Oxford",
+        "distanza": "45 minuti in auto da Stow-on-the-Wold",
+        "come": "In auto, oppure in treno da Moreton-in-Marsh o Kingham.",
+        "testo": "I college, la Radcliffe Camera e la Bodleian in una giornata a piedi. È anche il posto più comodo per ritirare o restituire l'auto."
+      },
+      {
+        "nome": "Stratford-upon-Avon",
+        "distanza": "circa 20 km da Chipping Campden",
+        "come": "In auto, verso nord.",
+        "testo": "La città natale di Shakespeare, con la casa dove nacque, le case a graticcio e il teatro della Royal Shakespeare Company sul fiume Avon."
+      },
+      {
+        "nome": "Bath",
+        "distanza": "mezz'ora in auto da Castle Combe",
+        "come": "In auto, scendendo verso sud; da Bath Spa il treno riporta a Londra Paddington in circa un'ora e mezza.",
+        "testo": "Le terme romane, l'abbazia e i crescent georgiani. È la fine naturale di un giro delle Cotswolds."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono per le Cotswolds?",
+        "risposta": "Due giorni per i villaggi principali, tre per aggiungere Broadway Tower, Hidcote e Blenheim Palace senza correre. Due o tre villaggi al giorno, con una camminata, rendono più di un elenco lungo."
+      },
+      {
+        "domanda": "Si possono visitare le Cotswolds senza auto?",
+        "risposta": "Sì, ma con limiti. Il treno arriva a Moreton-in-Marsh e i bus tra i villaggi sono pochi: la soluzione più pratica è dormire lì e prendere un tour organizzato dei villaggi."
+      },
+      {
+        "domanda": "Dove conviene dormire nelle Cotswolds?",
+        "risposta": "Stow-on-the-Wold per chi gira in auto, perché è al centro della zona; Moreton-in-Marsh per chi arriva in treno. Si dorme in pub con camere e B&B, da prenotare presto."
+      },
+      {
+        "domanda": "Quali sono i villaggi più belli delle Cotswolds?",
+        "risposta": "I più famosi sono Bibury, Bourton-on-the-Water e Castle Combe, anche i più affollati. Lower e Upper Slaughter e Chipping Campden sono più tranquilli."
+      },
+      {
+        "domanda": "Quando andare nelle Cotswolds?",
+        "risposta": "Da maggio a settembre; in primavera e in autunno ci sono meno gruppi. In ogni stagione conviene arrivare a Bibury e Bourton prima delle 9, prima dei pullman."
+      },
+      {
+        "domanda": "Serve la patente internazionale per guidare?",
+        "risposta": "No, la patente italiana vale senza permesso internazionale. Si guida a sinistra, su strade strette tra le siepi."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -484,9 +668,242 @@ export const destinazioniInghilterra: Destinazione[] = [
     percheAndarci: 'Per le terme romane, i crescent georgiani e la fine naturale di un viaggio nelle Cotswolds, prima di rientrare a Londra in treno.',
     cosaVedere: ['Le Roman Baths', 'L\'Abbazia di Bath', 'Il Royal Crescent e il Circus', 'Il Pulteney Bridge'],
     cosaFare: ['Visitare le terme romane la mattina presto', 'Camminare dal Circus al Royal Crescent', 'Un bagno nelle terme moderne della città'],
-    comeArrivare: 'In treno da Londra Paddington, o in auto dalle Cotswolds passando da Castle Combe.',
+    comeArrivare:
+      'In treno da Londra Paddington a Bath Spa in circa un\'ora e mezza; orari e prezzi su nationalrail.co.uk. Da Heathrow si arriva a Paddington con la Elizabeth line o l\'Heathrow Express e si cambia. L\'aeroporto più vicino è Bristol, collegato a Bath dal bus A4 in circa un\'ora, secondo il traffico. In auto dalle Cotswolds si scende passando da Castle Combe, a mezz\'ora; in centro la guida è lenta e i parcheggi costano, meglio restituire l\'auto prima.',
+    costi:
+      'Roman Baths da 23,50 sterline online (circa 27 €), Thermae Bath Spa da 44 sterline (circa 51 €), No. 1 Royal Crescent 16 sterline (circa 18 €), prezzi 2026. Il centro si gira a piedi. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 90-120 €, medio 170-240 €, alto oltre 350 €.',
     comeSpostarsi: 'A piedi.',
     erroriDaEvitare: ['Arrivare alle Roman Baths a metà giornata senza biglietto: conviene prenotarlo online sul sito ufficiale'],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Roman Baths",
+        "testo": "Le terme romane costruite intorno alla sorgente calda: la grande vasca con l'acqua verde, le terme sotterranee e i resti del tempio di Sulis Minerva. Il museo racconta la città romana con gli oggetti gettati nella sorgente.",
+        "come": "Biglietto a data e ora sul sito ufficiale; l'audioguida è compresa. L'acqua non si tocca: il bagno si fa alle Thermae.",
+        "quando": "All'apertura o nell'ultima ora, quando ci sono meno gruppi.",
+        "tempo": "2 ore",
+        "costo": "Da 23,50 sterline online nei feriali di novembre e dicembre 2026 (26,50 nel fine settimana), circa 27-31 €; nei mesi di punta fino a circa 33 sterline. Alla cassa 2 sterline in più.",
+        "orari": "Tutti i giorni; in autunno e in inverno 9-18, ultimo ingresso alle 17. Il 24 dicembre ultimo ingresso alle 16:15, chiuso il 25 e 26 dicembre.",
+        "lat": 51.3809,
+        "lng": -2.3595,
+        "url": "https://www.romanbaths.co.uk/",
+        "consiglio": "Chi le visita a novembre o dicembre può tornare a gennaio o febbraio con un biglietto da 1 sterlina."
+      },
+      {
+        "nome": "Abbazia di Bath",
+        "testo": "La grande chiesa gotica accanto alle terme, con le scale di Giacobbe scolpite sulla facciata, gli angeli che salgono verso il cielo, e la volta a ventaglio dentro. Il biglietto comprende il piccolo museo sotterraneo.",
+        "come": "Biglietto all'ingresso; audioguida a parte.",
+        "quando": "La mattina nei giorni feriali; la domenica apre solo nel primo pomeriggio.",
+        "tempo": "45 minuti",
+        "costo": "Adulti 9 sterline, circa 10 €; audioguida 3,50 sterline (2026)",
+        "orari": "Lunedì-venerdì 10-17:30, sabato 10-18, domenica 13-15:30. Ultimo ingresso mezz'ora prima della chiusura.",
+        "lat": 51.38139,
+        "lng": -2.35889,
+        "url": "https://www.bathabbey.org/"
+      },
+      {
+        "nome": "La torre dell'abbazia",
+        "testo": "Una visita guidata sulla torre: 212 gradini, la camera delle campane, il passaggio dietro il quadrante dell'orologio e, in cima, la vista sui tetti e sulle terme.",
+        "come": "Solo con la visita guidata, da prenotare sul sito dell'abbazia. Non è accessibile a chi ha difficoltà motorie.",
+        "quando": "Con il cielo limpido.",
+        "tempo": "1 ora",
+        "orari": "Dal lunedì al sabato, a turni durante il giorno, secondo disponibilità.",
+        "lat": 51.38139,
+        "lng": -2.35889,
+        "url": "https://www.bathabbey.org/visiting/tours/"
+      },
+      {
+        "nome": "Royal Crescent e No. 1 Royal Crescent",
+        "testo": "Un semicerchio di trenta case georgiane davanti a un grande prato, il simbolo della Bath del Settecento. Al numero 1 c'è un museo con gli interni arredati come all'epoca, dalle cucine ai salotti.",
+        "come": "A piedi dal Circus, lungo Brock Street.",
+        "quando": "Il crescent con la luce del pomeriggio; il museo in qualsiasi momento.",
+        "tempo": "1 ora e mezza con il museo",
+        "costo": "Il crescent è libero; No. 1 Royal Crescent 16 sterline, circa 18 € (2026)",
+        "orari": "No. 1: martedì-domenica 10-17:30, ultimo ingresso 16:30; chiuso il lunedì, tranne vacanze scolastiche e festivi. Chiuso dal 16 al 28 novembre e il 25-26 dicembre 2026.",
+        "lat": 51.38694,
+        "lng": -2.36833,
+        "url": "https://no1royalcrescent.org.uk/"
+      },
+      {
+        "nome": "The Circus",
+        "testo": "Un cerchio di case georgiane diviso in tre parti, con gli alberi al centro e le facciate decorate da colonne e fregi. È a pochi passi dal Royal Crescent.",
+        "come": "A piedi dal centro, salendo da Gay Street.",
+        "tempo": "15 minuti",
+        "costo": "Gratuito",
+        "lat": 51.386,
+        "lng": -2.364
+      },
+      {
+        "nome": "Pulteney Bridge",
+        "testo": "Un ponte del Settecento con le botteghe costruite sopra, come il Ponte Vecchio, e sotto la cascata a gradini dell'Avon. È una delle immagini più note della città.",
+        "come": "A piedi; la vista migliore è dalla riva o dai Parade Gardens.",
+        "quando": "Al tramonto.",
+        "tempo": "20 minuti",
+        "costo": "Gratuito",
+        "lat": 51.38306,
+        "lng": -2.35778
+      },
+      {
+        "nome": "Thermae Bath Spa",
+        "testo": "Le terme moderne della città, con l'acqua calda naturale della stessa sorgente. La piscina sul tetto guarda l'abbazia e le colline.",
+        "come": "Si entra dai 16 anni, con un documento. La sessione base dura 2 ore, con telo e accappatoio.",
+        "quando": "La sera, con la piscina sul tetto illuminata; dal lunedì al venerdì costa meno.",
+        "tempo": "2 ore",
+        "costo": "Sessione di 2 ore 44 sterline dal lunedì al venerdì, 49 nel fine settimana, circa 51-56 € (2026)",
+        "orari": "Tutti i giorni 9-21:30, vasche fino alle 21. Chiuso il 25-26 dicembre e il 1° gennaio.",
+        "lat": 51.38037,
+        "lng": -2.36157,
+        "url": "https://www.thermaebathspa.com/"
+      },
+      {
+        "nome": "Jane Austen Centre",
+        "testo": "Una mostra sulla scrittrice e sulla Bath dei suoi romanzi, in una casa georgiana di Gay Street. Al piano di sopra c'è la sala da tè in stile Regency.",
+        "come": "Biglietto online.",
+        "tempo": "1 ora",
+        "costo": "18 sterline online, circa 21 € (2026)",
+        "orari": "Da novembre: domenica-venerdì 10-16:30, sabato 10-17:30. Dal 1° luglio al 21 settembre tutti i giorni 9:45-18. Ultimo ingresso un'ora prima.",
+        "lat": 51.38404,
+        "lng": -2.36316,
+        "url": "https://janeausten.co.uk/pages/jane-austen-centre-in-bath"
+      },
+      {
+        "nome": "Holburne Museum",
+        "testo": "Un museo d'arte in un palazzo georgiano in fondo a Great Pulteney Street, all'ingresso dei Sydney Gardens. Ritratti, porcellane e argenti, con mostre temporanee.",
+        "come": "A piedi dal Pulteney Bridge, lungo Great Pulteney Street.",
+        "tempo": "1-2 ore",
+        "costo": "Biglietto 16,50 sterline, circa 19 € (2026); le collezioni sono gratuite il mercoledì dalle 15",
+        "orari": "Tutti i giorni 10-17, domenica e festivi 11-17; ultimo ingresso 16:30. Chiuso dal 24 al 26 dicembre e il 1° gennaio.",
+        "lat": 51.38566,
+        "lng": -2.3511,
+        "url": "https://www.holburne.org/"
+      },
+      {
+        "nome": "Prior Park Landscape Garden",
+        "testo": "Un giardino paesaggistico del Settecento sulla collina a sud del centro, con il ponte palladiano sul lago e la vista sulla città. È del National Trust.",
+        "come": "In salita dal centro, a piedi o in bus.",
+        "quando": "Con il bel tempo; d'inverno i prati sono fangosi.",
+        "tempo": "1-2 ore",
+        "lat": 51.36721,
+        "lng": -2.34374,
+        "url": "https://www.nationaltrust.org.uk/"
+      },
+      {
+        "nome": "Assembly Rooms",
+        "testo": "Le sale da ballo e da tè del Settecento, dove la società georgiana si incontrava la sera; compaiono nei romanzi di Jane Austen. Sono del National Trust.",
+        "come": "A piedi, dietro il Circus.",
+        "tempo": "45 minuti",
+        "lat": 51.38611,
+        "lng": -2.36222
+      },
+      {
+        "nome": "Victoria Art Gallery",
+        "testo": "La galleria d'arte civica, in un palazzo vittoriano accanto al Pulteney Bridge, con pittura britannica dal Seicento a oggi.",
+        "come": "A piedi, all'imbocco del ponte.",
+        "tempo": "1 ora",
+        "lat": 51.38265,
+        "lng": -2.3586,
+        "url": "https://www.victoriagal.org.uk/"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Roman Baths all'apertura",
+          "Abbazia, ed eventualmente la torre",
+          "Pulteney Bridge e pranzo",
+          "The Circus e Royal Crescent, con il museo al numero 1",
+          "Thermae Bath Spa la sera"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: come sopra",
+          "Giorno 2: Great Pulteney Street e Holburne Museum, Jane Austen Centre, Assembly Rooms, Prior Park nel pomeriggio"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2: come sopra",
+          "Giorno 3: gita a Castle Combe e Lacock, oppure a Stonehenge, o in treno a Bristol"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro, intorno all'abbazia",
+        "perChi": "chi vuole tutto a piedi",
+        "testo": "Tra le terme, Milsom Street e il Pulteney Bridge. Comodo e vivo, ma caro e con poco parcheggio.",
+        "fascia": "150-280 €"
+      },
+      {
+        "nome": "Royal Crescent e Lansdown",
+        "perChi": "chi cerca le case georgiane",
+        "testo": "La parte alta della città georgiana, tranquilla la sera; dal centro si sale a piedi in dieci-quindici minuti.",
+        "fascia": "170-350 €"
+      },
+      {
+        "nome": "Vicino a Bath Spa",
+        "perChi": "chi arriva e riparte in treno",
+        "testo": "Intorno alla stazione e verso Widcombe: hotel di catena e B&B, a pochi minuti dalle terme.",
+        "fascia": "110-200 €"
+      },
+      {
+        "nome": "Bathwick e Great Pulteney Street",
+        "perChi": "chi vuole calma restando a piedi",
+        "testo": "Oltre il ponte, con il viale georgiano, l'Holburne e i Sydney Gardens.",
+        "fascia": "130-250 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Castle Combe e Lacock",
+        "distanza": "circa mezz'ora in auto",
+        "come": "In auto verso nord-est; i bus sono pochi.",
+        "testo": "Due villaggi di pietra fuori dal tempo: Castle Combe con il ponte sul torrente e la croce del mercato, Lacock con l'abbazia del National Trust."
+      },
+      {
+        "nome": "Stonehenge",
+        "distanza": "circa 1 ora in auto",
+        "come": "In auto, oppure con un tour in pullman da Bath.",
+        "testo": "Il cerchio di pietre preistorico, patrimonio UNESCO, nella piana di Salisbury. Si visita con biglietto a orario."
+      },
+      {
+        "nome": "Bristol",
+        "distanza": "circa 15 minuti in treno",
+        "come": "In treno da Bath Spa a Bristol Temple Meads.",
+        "testo": "Il porto sul fiume Avon, il ponte sospeso di Clifton e i murales di Stokes Croft. Una città giovane, diversa dalla Bath georgiana."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Bath?",
+        "risposta": "Un giorno basta per le terme romane, l'abbazia e i crescent. Con due si aggiungono le Thermae, i musei e Prior Park con calma."
+      },
+      {
+        "domanda": "Bisogna prenotare le Roman Baths?",
+        "risposta": "Conviene: online il biglietto costa 2 sterline in meno e si sceglie l'orario. All'apertura o nell'ultima ora c'è meno gente."
+      },
+      {
+        "domanda": "Si può fare il bagno nelle terme romane?",
+        "risposta": "No, l'acqua delle Roman Baths non si tocca. Il bagno nell'acqua termale si fa alle Thermae Bath Spa, dai 16 anni."
+      },
+      {
+        "domanda": "Si può visitare Bath in giornata da Londra?",
+        "risposta": "Sì, il treno da Paddington impiega circa un'ora e mezza. Con una notte però si vedono le terme all'apertura e la città la sera, senza folla."
+      },
+      {
+        "domanda": "Conviene arrivare a Bath in auto?",
+        "risposta": "Solo se si arriva dalle Cotswolds. In centro si guida lenti e i parcheggi costano: meglio restituire l'auto e girare a piedi."
+      },
+      {
+        "domanda": "Quanto costa visitare Bath?",
+        "risposta": "Le Roman Baths partono da 23,50 sterline online, le Thermae da 44, l'abbazia 9 (2026). Crescent, Circus e Pulteney Bridge sono gratuiti."
+      }
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['londra-cotswolds'],
     imageAlt: 'La terrazza delle terme romane di Bath con le statue degli imperatori, e dietro la torre dell\'abbazia',

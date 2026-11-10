@@ -388,12 +388,11 @@ export const destinazioniEgitto: Destinazione[] = [
       'Entrare alle 7 all\'apertura per avere un\'ora di luce buona e meno gruppi',
       'Spostarsi sull\'altopiano con il bus elettrico interno invece che con cavalli e cammelli',
     ],
-    comeArrivare: 'Giza è a 30-60 minuti dal centro del Cairo secondo il traffico; Saqqara e Dahshur a 45-60 minuti da Giza, in auto con autista o con un tour.',
+    comeArrivare: "Giza è a 15-20 km dal centro del Cairo, da 20 minuti a un'ora secondo il traffico, in Uber o Careem. Dall'aeroporto del Cairo (CAI) servono 45-75 minuti fino a Giza, indicativamente 300-500 EGP in Uber; alcuni voli usano lo Sphinx International Airport, più vicino. Saqqara e Dahshur sono a 45-60 minuti da Giza: si va con un autista per la giornata, indicativamente 30-50 $ a veicolo, o con un tour.",
     comeSpostarsi:
       'A Giza il bus elettrico interno collega ingresso, piramidi e Sfinge; per Saqqara e Dahshur serve un\'auto con autista per la giornata (indicativamente 30-50 $).',
     periodoMigliore: 'da ottobre ad aprile, sempre al mattino presto',
-    costi:
-      'Altopiano di Giza circa 700 EGP; interno della Grande Piramide circa 1.500 EGP; Saqqara circa 450-600 EGP con le tombe principali; Dahshur intorno ai 150-200 EGP (indicativi, i prezzi cambiano spesso).',
+    costi: "Budget basso circa 30-45 € al giorno a persona (guesthouse a Nazlet el-Semman, koshari e cibo di strada, solo l'altopiano); medio 70-110 € (hotel vicino al GEM, GEM e Giza, autista per Saqqara e Dahshur); alto da 180 € in su (hotel di lusso sotto le piramidi, guida egittologa, interno di Cheope). Biglietti 2026: altopiano 700 EGP, GEM 1.830 EGP, Saqqara 600, Dahshur 200, Menfi 200 EGP; un euro vale circa 60 EGP.",
     erroriDaEvitare: [
       'Credere a chi dice che «l\'ingresso è chiuso» o che «bisogna passare da qui»: è il primo aggancio per il giro a pagamento in cammello',
       'Salire su un cammello senza aver concordato prezzo totale, durata e cosa include: la cifra raddoppia per scendere',
@@ -405,61 +404,221 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Piramidi e Sfinge di Giza",
         "testo": "La Grande Piramide di Cheope, quelle di Chefren e Micerino e la Sfinge: il gruppo più famoso dell'Egitto, sull'altopiano a sud-ovest del Cairo. L'interno delle piramidi richiede biglietti a parte.",
         "come": "Da Giza o dal Cairo in Uber o con un autista; si gira a piedi, in navetta o a cavallo.",
-        "quando": "Aperto tutti i giorni 8-16 (2026). All'apertura la luce è migliore e ci sono meno gruppi.",
+        "quando": "All'apertura: la luce è migliore e ci sono meno gruppi.",
         "tempo": "3-4 ore",
+        "costo": "700 EGP, circa 11,5 €, per adulti stranieri, 350 per studenti (2026). Grande Piramide, piramidi di Chefren e Micerino, tomba di Meresankh III e cimitero degli operai a parte.",
+        "orari": "Tutti i giorni dalle 7, ultimo ingresso alle 16 (biglietteria ufficiale egymonuments.com, 2026)",
+        "lat": 29.97611,
+        "lng": 31.13278,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
-        "consiglio": "Il punto panoramico dietro Micerino mostra le tre piramidi insieme, senza folla.",
-        "costo": "700 EGP per adulti stranieri, 350 per studenti (2026). Grande Piramide, piramidi di Chefren e Micerino, tomba di Meresankh III e cimitero degli operai a parte: prezzi in biglietteria."
+        "consiglio": "Il punto panoramico dietro Micerino mostra le tre piramidi insieme, senza folla."
       },
       {
         "nome": "Saqqara",
         "testo": "La piramide a gradoni di Djoser, considerata la prima grande costruzione in pietra tagliata, e le tombe dei nobili, come le mastabe di Mereruka e di Ti, alto funzionario della V dinastia, con rilievi molto belli di agricoltura, pesca, caccia nelle paludi e costruzione di barche. La mastaba di Ti non compare nei biglietti ufficiali: chiedere in biglietteria se è aperta.",
         "come": "In auto con autista da Giza o dal Cairo.",
-        "quando": "Aperto tutti i giorni 8-16 (2026). Meglio la mattina.",
+        "quando": "Mattina.",
         "tempo": "2-3 ore",
+        "costo": "600 EGP, circa 10 €, l'area con il Museo Imhotep; tombe dei nobili e del Nuovo Regno 400 EGP, Mereruka 200, interno di Djoser 280 (adulti stranieri, 2026)",
+        "orari": "Tutti i giorni 8-16 (2026)",
+        "lat": 29.87111,
+        "lng": 31.21639,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
-        "consiglio": "Le tombe dipinte valgono quanto la piramide e di solito hanno meno gente.",
-        "costo": "600 EGP l'area per adulti stranieri; biglietto cumulativo con museo Imhotep, tombe dei nobili e del Nuovo Regno, Mereruka e Mehu 1.400 EGP (2026)"
+        "consiglio": "Le tombe dipinte valgono quanto la piramide e di solito hanno meno gente."
       },
       {
-        "nome": "Dahshur",
+        "nome": "Dahshur e la piramide Rossa",
         "testo": "La piramide Rossa e la piramide Romboidale, di Snefru: i tentativi che portarono alla vera piramide liscia. Di solito c'è poca gente.",
         "come": "In auto con autista, vicino a Saqqara.",
-        "quando": "Aperto tutti i giorni 8-17 (2026). Meglio la mattina, con meno caldo.",
+        "quando": "Mattina, con meno caldo.",
         "tempo": "1-2 ore",
+        "costo": "200 EGP, circa 3,5 €, per adulti stranieri, 100 per studenti (2026); si scende nella piramide Rossa senza supplemento",
+        "orari": "Tutti i giorni 8-17 (2026)",
+        "lat": 29.80833,
+        "lng": 31.20583,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
-        "consiglio": "Un'ottima aggiunta a Saqqara per chi ha un giorno intero con un autista.",
-        "costo": "200 EGP per adulti stranieri, 100 per studenti (2026)"
+        "consiglio": "Un'ottima aggiunta a Saqqara per chi ha un giorno intero con un autista."
+      },
+      {
+        "nome": "Interno della Grande Piramide",
+        "testo": "Si sale piegati lungo un corridoio stretto fino alla Grande Galleria, alta oltre otto metri, e alla Camera del Re, con il sarcofago di granito. Le camere sono spoglie: l'interesse sta nella costruzione.",
+        "come": "Biglietto a parte oltre a quello dell'area; ingressi a numero limitato.",
+        "quando": "Subito all'apertura, prima che si formi la coda.",
+        "tempo": "30-45 minuti",
+        "costo": "1.000 EGP, circa 16,5 €, per adulti stranieri secondo il sito del Ministero, oltre all'area (2026)",
+        "orari": "Tutti i giorni 7-17 (2026)",
+        "lat": 29.97917,
+        "lng": 31.13417,
+        "url": "https://egymonuments.gov.eg/en/monuments/the-great-pyramid/",
+        "consiglio": "Chi soffre di claustrofobia o di schiena ci pensi: il passaggio è basso e caldo."
+      },
+      {
+        "nome": "Sfinge e tempio a valle di Chefren",
+        "testo": "La Sfinge, scolpita nella roccia dell'altopiano, è lunga circa 73 metri. Accanto c'è il tempio a valle di Chefren, con pilastri di granito rosa, da cui si arriva alla terrazza davanti alla statua.",
+        "come": "Dall'ingresso della Sfinge, in basso, o a piedi dalla piramide di Chefren lungo la rampa.",
+        "quando": "Mattina presto, oppure la sera con lo spettacolo di suoni e luci.",
+        "tempo": "45 minuti",
+        "costo": "Compresa nel biglietto dell'altopiano (2026)",
+        "lat": 29.97526,
+        "lng": 31.13758
+      },
+      {
+        "nome": "Piramide di Chefren",
+        "testo": "La seconda piramide di Giza, che sembra la più alta perché sta su un punto più elevato e conserva in cima un tratto del rivestimento originale di calcare.",
+        "come": "A piedi o con il bus elettrico interno; l'interno ha un biglietto a parte, prezzo in biglietteria.",
+        "quando": "Mattina.",
+        "tempo": "30 minuti da fuori",
+        "lat": 29.97611,
+        "lng": 31.13083
+      },
+      {
+        "nome": "Piramide di Micerino",
+        "testo": "La più piccola delle tre grandi, con le tre piramidi delle regine accanto e una parte del rivestimento di granito ancora alla base.",
+        "come": "A piedi o con il bus elettrico, verso il punto panoramico.",
+        "quando": "Mattina.",
+        "tempo": "20-30 minuti",
+        "lat": 29.9725,
+        "lng": 31.12833
+      },
+      {
+        "nome": "Punto panoramico",
+        "testo": "Il pianoro nel deserto dietro Micerino da cui si vedono tutte le piramidi di Giza in fila. È la foto classica, e di solito c'è meno gente che sotto Cheope.",
+        "come": "Con il bus elettrico interno o a piedi, circa 20 minuti da Micerino.",
+        "quando": "Mattina o ultima ora prima della chiusura.",
+        "tempo": "30 minuti",
+        "costo": "Compreso nel biglietto dell'altopiano (2026)",
+        "lat": 29.973,
+        "lng": 31.11963,
+        "consiglio": "Qui si concentrano cammellieri e venditori: niente giri senza prezzo totale concordato."
+      },
+      {
+        "nome": "Grand Egyptian Museum",
+        "testo": "Il nuovo museo nazionale a due chilometri dalle piramidi: la scalinata con le statue dei faraoni, le gallerie principali, il museo delle barche di Cheope e le sale di Tutankhamon, con il corredo esposto per intero.",
+        "come": "Uber o taxi dall'altopiano, circa 10 minuti. Ingresso a fascia oraria, da prenotare online.",
+        "quando": "Mezza giornata dopo le piramidi; il mercoledì e il sabato è aperto fino a sera.",
+        "tempo": "3-4 ore",
+        "costo": "1.830 EGP, circa 30 €, dal 1° novembre 2026 (dal viaggio sul sito)",
+        "orari": "Domenica, lunedì, martedì, giovedì e venerdì: complesso 8.30-19, gallerie 9-18; mercoledì e sabato: complesso 8.30-22, gallerie 9-21; ultimo ingresso un'ora prima della chiusura delle gallerie (2026)",
+        "lat": 29.995,
+        "lng": 31.1193,
+        "url": "https://visit-gem.com/en/home"
+      },
+      {
+        "nome": "Piramide a gradoni di Djoser",
+        "testo": "La prima grande costruzione in pietra tagliata, voluta da Djoser e attribuita all'architetto Imhotep, intorno al 2650 a.C. Dopo il restauro si scende anche all'interno, fino al pozzo e ai corridoi con piastrelle blu.",
+        "come": "Dentro l'area di Saqqara, a piedi dall'ingresso del complesso funerario.",
+        "quando": "Mattina.",
+        "tempo": "1 ora con l'interno",
+        "costo": "280 EGP, circa 4,5 €, per l'interno, oltre all'area (adulti stranieri, 2026)",
+        "orari": "Tutti i giorni 8-16 (2026)",
+        "lat": 29.8711,
+        "lng": 31.2167,
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/"
+      },
+      {
+        "nome": "Serapeum",
+        "testo": "Le gallerie sotterranee dove venivano sepolti i tori sacri Api, con una ventina di sarcofagi di granito da decine di tonnellate ciascuno. Fa impressione per le dimensioni.",
+        "come": "Nell'area di Saqqara, in auto dall'ingresso principale.",
+        "quando": "A metà giornata, quando fuori fa più caldo: sottoterra è fresco.",
+        "tempo": "30-45 minuti",
+        "costo": "180 EGP, circa 3 €, per adulti stranieri secondo il sito del Ministero (2026)",
+        "orari": "Tutti i giorni 8-17 (2026)",
+        "lat": 29.87472,
+        "lng": 31.21242,
+        "url": "https://egymonuments.gov.eg/en/monuments/serapeum/"
+      },
+      {
+        "nome": "Mastaba di Mereruka",
+        "testo": "La tomba del visir del faraone Teti, con più di trenta stanze decorate: scene di caccia, pesca, artigiani e danze, con i colori in parte ancora visibili.",
+        "come": "Nell'area di Saqqara, a pochi passi dalla piramide di Teti.",
+        "quando": "Mattina.",
+        "tempo": "30 minuti",
+        "costo": "200 EGP, circa 3,5 €, per adulti stranieri, oltre all'area (2026)",
+        "orari": "Tutti i giorni 8-16 (2026)",
+        "lat": 29.8759,
+        "lng": 31.2212
+      },
+      {
+        "nome": "Museo Imhotep",
+        "testo": "Il museo all'ingresso di Saqqara, con i reperti della necropoli e la ricostruzione della biblioteca dell'egittologo Jean-Philippe Lauer, che passò la vita a restaurare il complesso di Djoser.",
+        "come": "All'ingresso dell'area di Saqqara.",
+        "quando": "All'arrivo, per capire il sito prima di girarlo.",
+        "tempo": "30-45 minuti",
+        "costo": "Compreso nel biglietto di Saqqara, 600 EGP (2026)",
+        "orari": "Tutti i giorni 8-17, biglietteria fino alle 16 (2026)",
+        "lat": 29.86944,
+        "lng": 31.22472,
+        "url": "https://egymonuments.gov.eg/en/museums/imhotep-museum/"
+      },
+      {
+        "nome": "Piramide Romboidale",
+        "testo": "La piramide di Snefru che cambia pendenza a metà altezza, forse perché la struttura dava segni di cedimento. Conserva gran parte del rivestimento liscio esterno.",
+        "come": "A Dahshur, in auto a pochi minuti dalla piramide Rossa.",
+        "quando": "Mattina.",
+        "tempo": "30 minuti",
+        "costo": "Compresa nel biglietto di Dahshur, 200 EGP (2026)",
+        "orari": "Tutti i giorni 8-17 (2026)",
+        "lat": 29.79028,
+        "lng": 31.20917,
+        "url": "https://egymonuments.gov.eg/en/monuments/the-bent-pyramid/"
+      },
+      {
+        "nome": "Menfi (Mit Rahina)",
+        "testo": "Quel che resta della prima capitale d'Egitto è un museo all'aperto tra i palmeti: il colosso di Ramses II sdraiato, una sfinge di alabastro e statue sparse. Una sosta veloce sulla strada tra Saqqara e Giza.",
+        "come": "In auto, tra Saqqara e il Cairo.",
+        "quando": "Nella stessa giornata di Saqqara e Dahshur.",
+        "tempo": "30-45 minuti",
+        "costo": "200 EGP, circa 3,5 €, per adulti stranieri, 100 per studenti (2026)",
+        "orari": "Tutti i giorni dalle 8, ultimo ingresso alle 16 (2026)",
+        "lat": 29.84944,
+        "lng": 31.255,
+        "url": "https://egymonuments.com/details/Memphis"
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Giza all'apertura",
-          "Pranzo",
-          "Pomeriggio a Saqqara",
-          "Rientro al Cairo"
+          "Giza all'apertura: Cheope, eventuale interno, Chefren e Micerino",
+          "Punto panoramico in bus elettrico, poi Sfinge e tempio a valle",
+          "Pranzo vicino all'altopiano",
+          "Pomeriggio: Grand Egyptian Museum"
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Giza e Grand Egyptian Museum",
-          "Giorno 2: Saqqara e Dahshur con autista"
+          "Giorno 1 come sopra",
+          "Giorno 2 con autista: Saqqara (Museo Imhotep, Djoser, Mereruka, Serapeum)",
+          "Pranzo lungo la strada, poi Dahshur: piramide Rossa e Romboidale",
+          "Rientro passando per Menfi"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: seconda visita al GEM con calma, oppure Meidum e l'oasi del Fayyum in giornata"
         ]
       }
     ],
     zone: [
       {
-        "nome": "Giza",
+        "nome": "Giza, Nazlet el-Semman",
         "perChi": "chi vuole le piramidi dalla finestra",
-        "testo": "Hotel con vista, vicinissimi all'ingresso e al GEM. Zona rumorosa e poco curata."
+        "testo": "Guesthouse e piccoli hotel con terrazza sull'altopiano, vicinissimi all'ingresso della Sfinge. Zona rumorosa e poco curata.",
+        "fascia": "30-50 €"
       },
       {
         "nome": "Il Cairo",
         "perChi": "chi vuole altri quartieri a portata",
         "testo": "Si fa la giornata in Uber o con autista: più scelta di locali, ma parecchia strada nel traffico."
+      },
+      {
+        "nome": "Giza, zona del GEM",
+        "perChi": "chi vuole un hotel moderno vicino a piramidi e museo",
+        "testo": "Hotel boutique e di catena lungo la strada del Grand Egyptian Museum, a pochi minuti in auto dall'altopiano.",
+        "fascia": "70-120 €"
       }
     ],
     sapori: [
@@ -487,6 +646,52 @@ export const destinazioniEgitto: Destinazione[] = [
       "Non comprare papiri e souvenir all'ingresso dai venditori che si avvicinano."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Il Cairo",
+        "distanza": "circa 15 km, 20-60 minuti",
+        "come": "Uber o Careem, secondo il traffico.",
+        "testo": "Il Cairo islamico con la Cittadella e il Khan el-Khalili, il quartiere copto e il Museo Egizio di piazza Tahrir: è l'altra metà di una visita alle piramidi."
+      },
+      {
+        "nome": "Meidum",
+        "distanza": "circa 80 km, 1-1,5 ore",
+        "come": "Auto con autista per la giornata.",
+        "testo": "La piramide crollata di Snefru, un tentativo precedente a Dahshur, in mezzo alla campagna e quasi sempre deserta. Si entra nella camera interna."
+      },
+      {
+        "nome": "Oasi del Fayyum e Wadi el-Rayan",
+        "distanza": "circa 100-140 km, 1,5-3 ore",
+        "come": "Auto con autista o tour organizzato, giornata intera.",
+        "testo": "Laghi nel deserto, cascate basse a Wadi el-Rayan e, più lontano, Wadi al-Hitan, la Valle delle Balene patrimonio UNESCO, con fossili di cetacei nella sabbia (ultimo tratto in fuoristrada)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanto tempo serve per le piramidi di Giza?",
+        "risposta": "Tre o quattro ore per l'altopiano con il punto panoramico e la Sfinge, mezza giornata in più per il Grand Egyptian Museum. Saqqara e Dahshur chiedono un secondo giorno."
+      },
+      {
+        "domanda": "Vale la pena entrare nella Grande Piramide?",
+        "risposta": "Sì per chi è curioso di come è costruita: la Grande Galleria impressiona. No per chi si aspetta pitture, perché le camere sono spoglie, e per chi soffre gli spazi stretti."
+      },
+      {
+        "domanda": "Saqqara e Dahshur meritano?",
+        "risposta": "Sì: mostrano la storia della piramide dalla prima a gradoni a quella liscia, con molta meno folla di Giza, e alla piramide Rossa si scende senza supplemento."
+      },
+      {
+        "domanda": "Meglio dormire a Giza o al Cairo?",
+        "risposta": "Giza per avere le piramidi all'alba e il GEM vicino; il Cairo per ristoranti e quartieri storici. Tra i due ci sono da 20 minuti a un'ora di traffico."
+      },
+      {
+        "domanda": "Cammello o bus elettrico sull'altopiano?",
+        "risposta": "Il bus elettrico interno collega ingresso, piramidi e punto panoramico senza trattative. Chi vuole il cammello concorda prima prezzo totale, durata e percorso."
+      },
+      {
+        "domanda": "Il GEM va prenotato?",
+        "risposta": "Sì: l'ingresso è a fascia oraria e si compra online. Il biglietto copre anche le sale di Tutankhamon e il museo delle barche di Cheope."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: 'Le piramidi di Giza che si stagliano sul deserto in una giornata limpida',
@@ -521,12 +726,11 @@ export const destinazioniEgitto: Destinazione[] = [
       'Riva est per comodità (ristoranti, templi a piedi), riva ovest per la calma e la vicinanza alle tombe. Economiche: guesthouse sulla riva ovest · fascia media: hotel sul Nilo della riva est · lusso: Sofitel Winter Palace, Al Moudira sulla riva ovest.',
     doveMangiare:
       'Cucina egiziana casalinga nei ristoranti della riva ovest, piccione ripieno e tagine; sulla riva est i locali con terrazza sul tempio di Luxor.',
-    comeArrivare: 'Volo dal Cairo (1 ora), treno diurno o notturno dal Cairo (9-10 ore), strada dal Mar Rosso (4 ore da Hurghada, 4-4,5 da Marsa Alam).',
+    comeArrivare: "Dal Cairo il modo più rapido è il volo EgyptAir di un'ora, indicativamente 60-120 € se prenotato per tempo; dall'aeroporto di Luxor si va in centro in taxi o con il transfer dell'hotel. In alternativa c'è il treno notte con cabine letto di Abela Trains dalle stazioni del Cairo o di Giza, circa 10-11 ore. Dal Mar Rosso si arriva in auto con autista: circa 4 ore da Hurghada (70-120 $ a veicolo) e 4-4,5 ore da Marsa Alam (100-150 $); per Hurghada ci sono anche i bus Go Bus.",
     comeSpostarsi:
       'Sulla riva ovest serve un\'auto con autista o un taxi per la giornata (indicativamente 25-40 $); sulla riva est si gira a piedi o in Uber. Calessi solo concordando il prezzo prima.',
     periodoMigliore: 'da ottobre ad aprile; d\'estate solo visite tra l\'alba e le 11',
-    costi:
-      'Karnak circa 600 EGP, tempio di Luxor circa 500 EGP, Valle dei Re circa 750 EGP (3 tombe), tomba di Tutankhamon circa 700 EGP, Seti I e Nefertari intorno ai 2.000 EGP ciascuna, Hatshepsut circa 440 EGP; mongolfiera indicativamente 50-100 $ (indicativi).',
+    costi: "Budget basso circa 35-50 € al giorno a persona (guesthouse sulla riva ovest, cibo nei chioschi, traghetto pubblico, uno o due siti); medio 80-130 € (hotel sul Nilo, autista per la riva ovest a 25-40 $, tre o quattro siti al giorno); alto da 200 € in su (hotel di lusso, guida privata, mongolfiera, Seti I e Nefertari). Biglietti 2026: Valle dei Re 750 EGP, Karnak 600, tempio di Luxor 500, Hatshepsut 440, Tutankhamon 700, Medinet Habu e Ramesseum 220 EGP; un euro vale circa 60 EGP.",
     erroriDaEvitare: [
       'Andare in Valle dei Re a mezzogiorno: tra le pareti di roccia si superano i 40 °C già a maggio',
       'Scattare foto nelle tombe senza il permesso fotografico se richiesto: i guardiani fanno pagare la «multa» in contanti',
@@ -540,9 +744,12 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Dalla città in taxi o calesse. Si cammina nel sito, lungo la via delle sfingi dal tempio di Luxor se si vuole il percorso completo.",
         "quando": "Aperto tutti i giorni 6-17 (2026). Arrivare all'apertura: d'estate è l'unico momento sopportabile.",
         "tempo": "2-3 ore",
+        "costo": "600 EGP, circa 10 €, con il museo all'aperto; tempio di Mut 200 EGP (adulti stranieri, 2026)",
+        "orari": "Tutti i giorni 6-17 (2026)",
+        "lat": 25.7183,
+        "lng": 32.6583,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
-        "consiglio": "Tornare la sera per lo spettacolo di suoni e luci, se in programma.",
-        "costo": "600 EGP con il museo all'aperto, tempio di Mut 200 EGP (adulti stranieri, 2026)"
+        "consiglio": "Tornare la sera per lo spettacolo di suoni e luci, se in programma."
       },
       {
         "nome": "Tempio di Luxor",
@@ -550,7 +757,10 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "A piedi dal lungofiume sulla riva est.",
         "quando": "Aperto tutti i giorni 6-20 (2026). Tramonto e sera.",
         "tempo": "1 ora",
-        "costo": "500 EGP per adulti stranieri, 250 per studenti (2026)",
+        "costo": "500 EGP, circa 8 €, per adulti stranieri; studenti 250 EGP (2026)",
+        "orari": "Tutti i giorni 6-20 (2026)",
+        "lat": 25.7,
+        "lng": 32.63917,
         "url": "https://egymonuments.gov.eg/en/monuments/luxor-temple/"
       },
       {
@@ -559,9 +769,12 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Sulla riva ovest, in taxi o con un tour. Si visita a piedi, tomba per tomba.",
         "quando": "Aperta tutti i giorni 6-17 (2026). Arrivare all'apertura: a mezzogiorno è molto caldo, già in primavera.",
         "tempo": "2-3 ore",
+        "costo": "750 EGP, circa 12,5 €, con tre tombe a scelta; studenti 375 EGP; Tutankhamon e Seti I a parte (2026)",
+        "orari": "Tutti i giorni 6-17 (2026)",
+        "lat": 25.74025,
+        "lng": 32.60236,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
-        "consiglio": "Chiedere in biglietteria quali tombe sono aperte quel giorno e scegliere quelle con le decorazioni meglio conservate, non solo la più famosa.",
-        "costo": "750 EGP per adulti stranieri, 375 per studenti; Tutankhamon e altre tombe a parte (2026)"
+        "consiglio": "Chiedere in biglietteria quali tombe sono aperte quel giorno e scegliere quelle con le decorazioni meglio conservate, non solo la più famosa."
       },
       {
         "nome": "Tempio di Hatshepsut",
@@ -569,34 +782,167 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Sulla riva ovest, vicino alla Valle dei Re.",
         "quando": "Aperto tutti i giorni 6-17 (2026). Mattina presto.",
         "tempo": "1 ora",
-        "costo": "440 EGP per adulti stranieri, 220 per studenti (2026)",
+        "costo": "440 EGP, circa 7 €, per adulti stranieri; studenti 220 EGP (2026)",
+        "orari": "Tutti i giorni 6-17 (2026)",
+        "lat": 25.73806,
+        "lng": 32.60694,
         "url": "https://egymonuments.gov.eg/en/monuments/hatshepsut-temple/"
       },
       {
         "nome": "Medinet Habu e Colossi di Memnone",
         "testo": "Il tempio di Ramses III, con rilievi ancora colorati e meno visitatori dei grandi templi, vicino ai due colossi di Amenhotep III che sorvegliano la piana.",
         "come": "Sulla riva ovest, in taxi con le altre tappe.",
-        "quando": "Medinet Habu aperto tutti i giorni 6-17 (2026). Metà mattina o fine pomeriggio.",
+        "quando": "Metà mattina o fine pomeriggio.",
         "tempo": "1-1,5 ore",
-        "consiglio": "Medinet Habu è spesso trascurato, ma merita la sosta.",
-        "costo": "Medinet Habu 230 EGP per adulti stranieri, 110 per studenti (2026); i Colossi si vedono dalla strada"
+        "costo": "Medinet Habu 220 EGP, circa 3,5 €, studenti 110 EGP (2026); i Colossi si vedono gratis dalla strada",
+        "orari": "Medinet Habu tutti i giorni dalle 6, ultimo ingresso alle 17 d'estate e alle 16 d'inverno (2026)",
+        "lat": 25.71972,
+        "lng": 32.60083,
+        "url": "https://egymonuments.com/details/MedinetHabu",
+        "consiglio": "Medinet Habu è spesso trascurato, ma merita la sosta."
+      },
+      {
+        "nome": "Tomba di Tutankhamon (KV62)",
+        "testo": "La tomba trovata da Howard Carter nel 1922, piccola e decorata solo nella camera funeraria. Il motivo per entrare è la mummia del re, rimasta qui in una teca, mentre il corredo è al Grand Egyptian Museum.",
+        "come": "Dentro la Valle dei Re, con un biglietto a parte comprato all'ingresso della valle.",
+        "quando": "Appena aperta la valle, prima dei gruppi.",
+        "tempo": "15-20 minuti",
+        "costo": "700 EGP, circa 11,5 €, per adulti stranieri; studenti 350 EGP (2026)",
+        "orari": "Tutti i giorni 6-17, come la valle (2026)",
+        "lat": 25.74039,
+        "lng": 32.60142,
+        "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-tutankhamun/"
+      },
+      {
+        "nome": "Tomba di Seti I (KV17)",
+        "testo": "La tomba più lunga della valle e una delle più decorate, scoperta da Giovanni Battista Belzoni nel 1817. Corridoi e sale sono dipinti dall'ingresso alla camera funeraria, con il soffitto astronomico.",
+        "come": "Dentro la Valle dei Re, biglietto a parte venduto all'ingresso della valle.",
+        "quando": "Mattina, nella stessa visita alla valle.",
+        "tempo": "30-40 minuti",
+        "costo": "circa 2.000 EGP, circa 33 € (2026, dal viaggio sul sito)",
+        "lat": 25.73981,
+        "lng": 32.60189,
+        "consiglio": "Se si paga una sola tomba extra, questa vale più di quella di Tutankhamon per le pitture."
+      },
+      {
+        "nome": "Valle delle Regine",
+        "testo": "La necropoli delle regine e dei principi della XIX e XX dinastia. La tomba più famosa è quella di Nefertari (QV66), moglie di Ramses II, con pitture tra le meglio conservate d'Egitto e un biglietto a parte, molto più caro.",
+        "come": "Sulla riva ovest, in taxi con le altre tappe; si visita a piedi.",
+        "quando": "Mattina presto.",
+        "tempo": "1 ora, di più con Nefertari",
+        "costo": "220 EGP, circa 3,5 €, per adulti stranieri; studenti 110 EGP; Nefertari a parte (2026)",
+        "orari": "Tutti i giorni dalle 6, ultimo ingresso alle 17 d'estate e alle 16 d'inverno (2026)",
+        "lat": 25.7275,
+        "lng": 32.59306,
+        "url": "https://egymonuments.com/details/ValleyOfTheQueens"
+      },
+      {
+        "nome": "Deir el-Medina",
+        "testo": "Il villaggio degli artigiani che scavavano e dipingevano le tombe reali, con le fondamenta delle case, un piccolo tempio tolemaico di Hathor e le loro tombe, piccole ma coloratissime. Racconta la vita di chi lavorava per i faraoni.",
+        "come": "Sulla riva ovest, tra la Valle delle Regine e le Tombe dei Nobili.",
+        "quando": "Metà mattina.",
+        "tempo": "1 ora",
+        "orari": "Tutti i giorni dalle 6, ultimo ingresso alle 17 (2026)",
+        "lat": 25.7283,
+        "lng": 32.6014,
+        "url": "https://egymonuments.com/details/DeirElMadinaTemple"
+      },
+      {
+        "nome": "Tombe dei Nobili",
+        "testo": "Le tombe dei funzionari tebani sulla collina di Sheikh Abd el-Qurna, come quelle di Rekhmira, Sennefer, Nakht, Menna e Ramose. Le scene sono di vita quotidiana: campi, banchetti, artigiani, e di solito c'è pochissima gente.",
+        "come": "Sulla riva ovest; i biglietti si vendono a gruppi di tombe.",
+        "quando": "Metà mattina o primo pomeriggio.",
+        "tempo": "1-2 ore",
+        "orari": "Tutti i giorni dalle 6, ultimo ingresso alle 17 d'estate e alle 16 d'inverno (2026)",
+        "lat": 25.7317,
+        "lng": 32.6092,
+        "url": "https://egymonuments.com/details/TombsOfTheNobles",
+        "consiglio": "Nakht e Menna sono vicine e hanno i colori più vivi."
+      },
+      {
+        "nome": "Ramesseum",
+        "testo": "Il tempio funerario di Ramses II, in parte crollato. A terra c'è il colosso spezzato del faraone che avrebbe ispirato la poesia «Ozymandias» di Shelley.",
+        "come": "Sulla riva ovest, lungo la strada tra i Colossi e la Valle dei Re.",
+        "quando": "Fine pomeriggio, con la luce bassa.",
+        "tempo": "45 minuti",
+        "costo": "220 EGP, circa 3,5 €, per adulti stranieri; studenti 110 EGP (2026)",
+        "orari": "Tutti i giorni dalle 6, ultimo ingresso alle 17 d'estate e alle 16 d'inverno (2026)",
+        "lat": 25.72778,
+        "lng": 32.61056,
+        "url": "https://egymonuments.com/details/Ramesseum"
+      },
+      {
+        "nome": "Casa di Howard Carter",
+        "testo": "La casa in cui Carter visse durante gli scavi, all'imbocco della strada per la Valle dei Re, con lo studio, la camera oscura e gli arredi d'epoca. Una sosta breve che aiuta a capire come andò la scoperta del 1922.",
+        "come": "Sulla riva ovest, in taxi sulla strada della valle.",
+        "quando": "Dopo la Valle dei Re.",
+        "tempo": "30 minuti",
+        "costo": "220 EGP, circa 3,5 €, per adulti stranieri; studenti 110 EGP (2026)",
+        "orari": "Tutti i giorni dalle 6, ultimo ingresso alle 17 d'estate e alle 16 d'inverno (2026)",
+        "lat": 25.73888,
+        "lng": 32.62817,
+        "url": "https://egymonuments.com/details/CarterHouse"
+      },
+      {
+        "nome": "Museo di Luxor",
+        "testo": "Un museo piccolo e molto curato sul lungonilo, con statue scelte, i pezzi della cachette trovata nel 1989 sotto il tempio di Luxor e due mummie reali. Si vede bene in un'ora, ed è aperto anche la sera.",
+        "come": "A piedi o in calesse sulla Corniche della riva est, tra Karnak e il tempio di Luxor.",
+        "quando": "Nell'apertura serale, quando fa fresco.",
+        "tempo": "1-1,5 ore",
+        "costo": "400 EGP, circa 6,5 €, per adulti stranieri; studenti 200 EGP (2026)",
+        "orari": "Tutti i giorni dalle 9 (ultimo ingresso alle 13 d'inverno, alle 12 d'estate) e dalle 17 (ultimo ingresso alle 20 d'inverno, alle 19 d'estate) (2026)",
+        "lat": 25.7075,
+        "lng": 32.64472,
+        "url": "https://egymonuments.com/details/LuxorMuseum"
+      },
+      {
+        "nome": "Museo della Mummificazione",
+        "testo": "Una sala sotto la Corniche dedicata all'imbalsamazione: strumenti, vasi canopi, animali mummificati e la mummia di un sacerdote. Breve, ma spiega bene quello che si vede poi nelle tombe.",
+        "come": "Sulla Corniche, a pochi minuti a piedi dal tempio di Luxor.",
+        "quando": "Sera, prima o dopo il tempio di Luxor.",
+        "tempo": "30-45 minuti",
+        "costo": "220 EGP, circa 3,5 €, per adulti stranieri; studenti 110 EGP (2026)",
+        "orari": "Tutti i giorni dalle 9 (ultimo ingresso alle 13 d'inverno, alle 12 d'estate) e dalle 17 (ultimo ingresso alle 19) (2026)",
+        "lat": 25.70222,
+        "lng": 32.63972,
+        "url": "https://egymonuments.com/details/MummificationMuseumLuxor"
+      },
+      {
+        "nome": "Viale delle Sfingi",
+        "testo": "La strada processionale di circa 2,7 km che univa Karnak al tempio di Luxor, fiancheggiata da centinaia di sfingi. Riaperta nel 2021 dopo decenni di scavi, oggi si vede dalla strada e dal tempio di Luxor, dove inizia.",
+        "come": "A piedi lungo il percorso tra i due templi, o dall'interno del tempio di Luxor.",
+        "quando": "Al tramonto, insieme al tempio di Luxor.",
+        "tempo": "30 minuti per il tratto vicino al tempio",
+        "lat": 25.708,
+        "lng": 32.648
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Alba: mongolfiera o Valle dei Re all'apertura",
-          "Hatshepsut",
-          "Medinet Habu e Colossi",
-          "Pomeriggio: Karnak e tempio di Luxor al tramonto"
+          "All'alba: Valle dei Re con tre tombe e Tutankhamon",
+          "Tempio di Hatshepsut",
+          "Medinet Habu e Colossi di Memnone",
+          "Pomeriggio: Karnak",
+          "Tramonto e sera: tempio di Luxor e Viale delle Sfingi"
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: riva ovest",
-          "Giorno 2: Karnak, tempio di Luxor, poi gita a Dendera o Abydos"
+          "Giorno 1: Valle dei Re con Seti I o Tutankhamon, Hatshepsut, Deir el-Medina, Medinet Habu e Colossi",
+          "Giorno 2: mongolfiera all'alba, Karnak in mattinata",
+          "Pomeriggio in hotel o in feluca sul Nilo",
+          "Sera: Museo di Luxor e tempio di Luxor illuminato"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Valle delle Regine, Tombe dei Nobili, Ramesseum e Casa di Carter",
+          "In alternativa: gita a Dendera, rientro per il Museo della Mummificazione"
         ]
       }
     ],
@@ -604,12 +950,20 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Riva est",
         "perChi": "chi vuole ristoranti e vita serale",
-        "testo": "Vicino ai templi di Karnak e Luxor, con hotel di tutte le fasce e il lungofiume. Più turistica e con più venditori."
+        "testo": "Vicino ai templi di Karnak e Luxor, con hotel di tutte le fasce e il lungofiume. Più turistica e con più venditori.",
+        "fascia": "60-110 €"
       },
       {
         "nome": "Riva ovest",
         "perChi": "chi vuole quiete",
-        "testo": "Campagne, case e piccole guesthouse vicino alle tombe e ai campi, con poco rumore."
+        "testo": "Campagne, case e piccole guesthouse vicino alle tombe e ai campi, con poco rumore.",
+        "fascia": "25-40 €"
+      },
+      {
+        "nome": "Hotel storici e di lusso",
+        "perChi": "chi vuole il Nilo dalla terrazza",
+        "testo": "I grandi alberghi della Corniche e le residenze di charme della riva ovest, con giardino e piscina. Il Sofitel Winter Palace risulta chiuso per lavori dal maggio 2026: verificare prima di prenotare.",
+        "fascia": "da 170 € circa"
       }
     ],
     sapori: [
@@ -637,6 +991,52 @@ export const destinazioniEgitto: Destinazione[] = [
       "D'estate le visite vanno fatte dall'alba alla tarda mattinata: dopo il caldo è estremo."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Tempio di Dendera",
+        "distanza": "circa 75 km, 1 ora",
+        "come": "Auto con autista per mezza giornata, o crociera in giornata dove disponibile.",
+        "testo": "Il tempio di Hathor, tra i meglio conservati d'Egitto, con il soffitto astronomico ancora colorato e le cripte. Si sale sul tetto per vedere la piana."
+      },
+      {
+        "nome": "Abydos",
+        "distanza": "circa 170 km, 2-2,5 ore",
+        "come": "Auto con autista per la giornata, spesso abbinata a Dendera.",
+        "testo": "Il tempio di Seti I, con alcuni dei rilievi più fini dell'arte egizia e la lista dei re, e dietro l'Osireion, mezzo sommerso dalla falda."
+      },
+      {
+        "nome": "Edfu ed Esna",
+        "distanza": "Esna circa 60 km, Edfu circa 110 km, 1,5 ore",
+        "come": "Auto con autista, o in crociera verso Assuan.",
+        "testo": "Il tempio di Horus a Edfu è il più completo del Paese; a Esna il tempio di Khnum, ripulito di recente, ha i soffitti tornati ai colori originali."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Luxor?",
+        "risposta": "Due giorni pieni per la riva ovest e la riva est senza corse; con un terzo si aggiungono Valle delle Regine, Tombe dei Nobili o una gita a Dendera."
+      },
+      {
+        "domanda": "Meglio dormire sulla riva est o sulla riva ovest?",
+        "risposta": "La riva est ha ristoranti, il tempio di Luxor a piedi e più scelta di hotel; la riva ovest è più tranquilla e vicina alle tombe. Il traghetto pubblico unisce le due rive in pochi minuti."
+      },
+      {
+        "domanda": "Quali tombe vedere nella Valle dei Re?",
+        "risposta": "Il biglietto base include tre tombe tra quelle aperte quel giorno; Tutankhamon e Seti I si pagano a parte. Chi paga un solo extra fa bene a scegliere Seti I, la più decorata."
+      },
+      {
+        "domanda": "Si possono fare foto nelle tombe?",
+        "risposta": "Le foto con il telefono sono gratuite secondo la biglietteria ufficiale; il flash è vietato. Le regole cambiano, quindi conviene chiedere all'ingresso."
+      },
+      {
+        "domanda": "La mongolfiera vale la spesa?",
+        "risposta": "Per molti è il ricordo più bello di Luxor: un'ora sopra templi e campi all'alba, indicativamente 50-100 $ a persona. Si sceglie la compagnia, non il prezzo, e si tiene un giorno di margine per il vento."
+      },
+      {
+        "domanda": "Quando fa troppo caldo per visitare?",
+        "risposta": "Da maggio a settembre si superano spesso i 40 °C: si visita dall'alba alle 11 e si torna fuori la sera. Da ottobre ad aprile si gira tutto il giorno."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: 'Le colonne papiriformi della grande sala ipostila del tempio di Karnak, viste dal basso',

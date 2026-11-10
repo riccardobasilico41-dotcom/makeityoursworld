@@ -887,12 +887,11 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Gili Trawangan per la vita serale, Gili Air per l\'equilibrio tra servizi e calma, Gili Meno per il silenzio; a Lombok, Kuta è la base del sud per surf e spiagge, Senaru e Sembalun sono i due villaggi da cui partono i trek al Rinjani.',
     doveMangiare:
       'Il piatto di Lombok è l\'ayam taliwang, pollo grigliato in una salsa di peperoncino che non fa sconti. Alle Gili il mercato serale di Trawangan è un posto buono ed economico: il pesce è esposto sul ghiaccio, lo si sceglie e si aspetta che venga grigliato. Nei ristoranti sul mare si paga soprattutto la vista.',
-    comeArrivare:
-      'Volo su Lombok International Airport (LOP), oppure traghetto veloce da Bali (Padang Bai o Sanur verso le Gili).',
+    comeArrivare: "Il Lombok International Airport (LOP) è a Praya, nel sud dell'isola, con voli da Bali in poco meno di un'ora e da Giacarta. Dall'aeroporto Kuta Lombok è a circa mezz'ora d'auto, Senaru a circa 3 ore. Da Bali le barche veloci partono da Padang Bai (1,5-2 ore, 350.000-475.000 IDR a tratta, circa 18-25 €) o da Sanur, più care, e arrivano alle Gili o a Bangsal; con il mare grosso le corse saltano o ritardano. Da Bangsal la barca pubblica per le Gili impiega circa 30 minuti e costa poco. Il biglietto si compra dalla compagnia o da piattaforme note, non dai venditori al porto.",
     comeSpostarsi: 'Solo cidomo (calessi trainati da cavalli) o bicicletta alle Gili, dove veicoli a motore sono vietati; auto o scooter sul resto di Lombok.',
     periodoMigliore:
       'la stagione secca; il Rinjani chiude nella stagione delle piogge, le date si controllano sull\'app ufficiale E-Rinjani del parco',
-    costi: 'in generale più economico di Bali',
+    costi: "Barca veloce Padang Bai-Gili 350.000-475.000 IDR a tratta (circa 18-25 €), bici alle Gili circa 50.000 IDR al giorno (circa 2,5 €). Budget: circa 25-35 € al giorno con guesthouse, warung e barche pubbliche. Medio: 60-90 € con bungalow con piscina, ristoranti e qualche gita in barca. Alto: oltre 150 € con resort sul mare e transfer privati. Il trekking al Rinjani si paga a parte all'operatore.",
     erroriDaEvitare: [
       'Sottovalutare la fatica e l\'altitudine del trekking al Rinjani',
       'Tentare il trekking senza guida: è obbligatoria per legge',
@@ -906,7 +905,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Barca veloce da Bali (Padang Bai) o barca locale da Bangsal, il porto sulla costa nord di Lombok. Alle Gili si cammina o si va in cidomo.",
         quando: "Nella stagione secca. Meno è la più tranquilla in ogni momento.",
         tempo: "2-3 giorni",
-        consiglio: "Scegliere l'isola secondo il carattere: festa a Trawangan, calma a Meno."
+        consiglio: "Scegliere l'isola secondo il carattere: festa a Trawangan, calma a Meno.",
+        costo: "Barca veloce da Padang Bai 350.000-475.000 IDR a tratta, circa 18-25 € (2026); tra le tre isole la barca pubblica costa pochi euro. Bici a noleggio circa 50.000 IDR al giorno, circa 2,5 €.",
+        lat: -8.35034,
+        lng: 116.03626,
       },
       {
         nome: "Snorkeling con le tartarughe",
@@ -914,7 +916,8 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Si entra in acqua dalla spiaggia, con maschera e pinne a noleggio.",
         quando: "Al mattino, con l'acqua più calma.",
         tempo: "1-2 ore",
-        consiglio: "Non toccare né inseguire le tartarughe: tenersi a distanza."
+        consiglio: "Non toccare né inseguire le tartarughe: tenersi a distanza.",
+        costo: "Maschera e pinne a noleggio per pochi euro; la gita di snorkeling condivisa sulle tre isole, di mezza giornata, ha un prezzo contenuto e si prenota la sera prima.",
       },
       {
         nome: "Trekking al Gunung Rinjani",
@@ -922,7 +925,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Da Senaru o Sembalun, solo con un operatore autorizzato e una guida. I biglietti si prenotano sull'app ufficiale E-Rinjani del parco (Android e iOS); il sito erinjani.id oggi rimanda a un'agenzia privata, non al parco. Pacchetti di più giorni con portatori e tende.",
         quando: "Nella stagione secca. Con le piogge, il maltempo o dopo incidenti il parco può chiudere i sentieri: controllare sull'app E-Rinjani o sui canali ufficiali del parco prima di prenotare.",
         tempo: "più giorni",
-        consiglio: "Il campo sul ciglio è ventoso e si dorme poco: svegliarsi sopra le nuvole, con il lago sotto, ripaga tutto."
+        consiglio: "Il campo sul ciglio è ventoso e si dorme poco: svegliarsi sopra le nuvole, con il lago sotto, ripaga tutto.",
+        orari: "Chiuso ogni anno da gennaio a fine marzo, e a volte in altri periodi dopo incidenti o maltempo.",
+        lat: -8.41441,
+        lng: 116.45977,
       },
       {
         nome: "Cascate di Senaru",
@@ -930,7 +936,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "A piedi da Senaru, con guida.",
         quando: "Al mattino.",
         tempo: "3 ore",
-        consiglio: "Portare scarpe che si possono bagnare."
+        consiglio: "Portare scarpe che si possono bagnare.",
+        lat: -8.30556,
+        lng: 116.40828,
       },
       {
         nome: "Spiagge del sud: Kuta, Tanjung Aan, Selong Belanak",
@@ -938,10 +946,121 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "In scooter o auto da Kuta Lombok, che è vicina all'aeroporto.",
         quando: "Al mattino o al tramonto.",
         tempo: "1 giorno",
-        consiglio: "Selong Belanak è adatta ai principianti del surf."
-      }
+        consiglio: "Selong Belanak è adatta ai principianti del surf.",
+        lat: -8.91667,
+        lng: 116.28333,
+      },
+      {
+        nome: "Mercato serale di Gili Trawangan",
+        testo: "Ogni sera, vicino al porto di Trawangan, i banchi espongono pesce, gamberi e calamari sul ghiaccio: si sceglie, si paga a peso e lo grigliano al momento. Accanto ci sono sate, nasi campur e dolci. È uno dei modi più economici di cenare alle Gili.",
+        come: "A piedi dal porto, sulla strada principale lungo la costa est.",
+        quando: "Dal tramonto; i banchi migliori finiscono il pesce presto.",
+        tempo: "1 ora",
+        consiglio: "Chiedere il prezzo al chilo prima di scegliere il pesce.",
+      },
+      {
+        nome: "Nest, le statue sommerse di Gili Meno",
+        testo: "Un cerchio di figure umane a grandezza naturale scolpite da Jason deCaires Taylor e posate sul fondale a pochi metri di profondità, al largo di Gili Meno. Si vedono anche solo con maschera e boccaglio, e il corallo sta colonizzando le sculture.",
+        come: "Dalla spiaggia ovest di Gili Meno a nuoto, o come tappa delle gite di snorkeling sulle tre isole.",
+        quando: "Con l'acqua calma e la bassa marea, al mattino.",
+        tempo: "1 ora",
+        consiglio: "C'è corrente: restare vicino alla barca o alla boa e non toccare le statue.",
+      },
+      {
+        nome: "Bukit Merese",
+        testo: "Una collina erbosa a est di Kuta Lombok, affacciata sulle baie di Tanjung Aan e Gerupuk. È il punto panoramico più noto del sud, e al tramonto si riempie di gente.",
+        come: "In scooter o auto da Kuta, circa 15 minuti; poi una breve salita a piedi.",
+        quando: "Al tramonto, oppure all'alba per averla quasi vuota.",
+        tempo: "1 ora",
+        lat: -8.91423,
+        lng: 116.31908,
+        consiglio: "Abbinarla a un bagno a Tanjung Aan, che è sotto.",
+      },
+      {
+        nome: "Spiaggia di Mawun",
+        testo: "Una baia a ferro di cavallo tra due promontori, a ovest di Kuta, con sabbia chiara e acqua più riparata delle spiagge vicine. Ci sono pochi warung e ombrelloni a noleggio.",
+        come: "In scooter o auto da Kuta, circa 20 minuti sulla strada costiera verso Selong Belanak.",
+        quando: "Al mattino, prima del vento.",
+        tempo: "Mezza giornata",
+        lat: -8.90221,
+        lng: 116.23234,
+        consiglio: "Si unisce bene a Selong Belanak nello stesso giro.",
+      },
+      {
+        nome: "Villaggio sasak di Sade",
+        testo: "Un villaggio tradizionale del popolo sasak, con le case di bambù e paglia e i granai dal tetto a forma di cappello, l'emblema di Lombok. Ci vivono ancora famiglie che tessono e vendono stoffe. È molto turistico, ma aiuta a capire la cultura dell'isola.",
+        come: "Sulla strada tra l'aeroporto e Kuta. Si visita con una guida del villaggio, a cui si lascia un'offerta.",
+        quando: "Al mattino o nel tardo pomeriggio.",
+        tempo: "1 ora",
+        lat: -8.63854,
+        lng: 116.30769,
+        consiglio: "Nessun obbligo di comprare le stoffe: dire di no è normale.",
+      },
+      {
+        nome: "Sukarara",
+        testo: "Il villaggio della tessitura songket, le stoffe con fili d'oro e d'argento lavorate a mano su telai di legno. Nelle botteghe si vede come si tesse e a volte si prova.",
+        come: "In auto, nel centro dell'isola, spesso nello stesso giro di Sade.",
+        quando: "Di giorno, quando lavorano ai telai.",
+        tempo: "45 minuti",
+        lat: -8.69408,
+        lng: 116.22522,
+        consiglio: "I prezzi delle stoffe si trattano.",
+      },
+      {
+        nome: "Pink Beach (Pantai Tangsi)",
+        testo: "Una spiaggia nella punta sud-est di Lombok, con la sabbia che diventa rosata per i frammenti di corallo rosso. È lontana da tutto e meno frequentata delle spiagge di Kuta.",
+        come: "In auto da Kuta, circa 1,5-2 ore, su strade in parte sterrate; oppure in barca dalle baie vicine.",
+        quando: "Con il sole alto il rosa si vede meglio.",
+        tempo: "Giornata intera con il viaggio",
+        lat: -8.85931,
+        lng: 116.58086,
+        consiglio: "Portare acqua e cibo: i servizi sono pochi.",
+      },
+      {
+        nome: "Cascate di Benang Kelambu e Benang Stokel",
+        testo: "Due cascate nella foresta del centro dell'isola, sulle pendici meridionali del Rinjani. Benang Kelambu scende a veli sottili da una parete coperta di vegetazione, Benang Stokel ha due salti più alti.",
+        come: "In auto da Kuta o da Mataram, circa 1,5 ore; dal parcheggio sentiero a piedi, con guide locali disponibili.",
+        quando: "Nella stagione delle piogge c'è più acqua; al mattino ci sono meno persone.",
+        tempo: "Mezza giornata",
+        lat: -8.53277,
+        lng: 116.33701,
+        consiglio: "Scarpe che si possono bagnare: il sentiero è scivoloso.",
+      },
+      {
+        nome: "Taman Narmada",
+        testo: "Un giardino d'acqua costruito nel Settecento dai re balinesi che governavano Lombok, con vasche, padiglioni e un tempio. Secondo la tradizione la vasca grande riproduce il lago craterico del Rinjani.",
+        come: "A est di Mataram, in auto o taxi.",
+        quando: "Nei giorni feriali, quando è meno frequentato dalle famiglie del posto.",
+        tempo: "1 ora",
+        lat: -8.59602,
+        lng: 116.20533,
+      },
+      {
+        nome: "Pura Lingsar",
+        testo: "Un complesso del primo Settecento condiviso da induisti balinesi e da musulmani sasak della tradizione wetu telu. Ogni anno, nella festa del Perang Topat, le due comunità si lanciano pacchetti di riso.",
+        come: "Pochi chilometri a nord-est di Mataram, abbinato a Narmada.",
+        quando: "Di giorno; sarong e fascia in vita, di solito prestati all'ingresso.",
+        tempo: "45 minuti",
+        lat: -8.57581,
+        lng: 116.18014,
+      },
     ],
     programmi: [
+      {
+        titolo: "2 giorni: Gili",
+        tappe: [
+          "Giorno 1: barca da Bangsal o da Bali, giro di Gili Trawangan in bici, tramonto sulla costa ovest e cena al mercato serale",
+          "Giorno 2: gita di snorkeling sulle tre isole con le tartarughe e Nest a Gili Meno, pomeriggio a Gili Air",
+        ],
+      },
+      {
+        titolo: "3 giorni: il sud di Lombok",
+        tappe: [
+          "Giorno 1: Sade e Sukarara dall'aeroporto, sera a Kuta",
+          "Giorno 2: Mawun e Selong Belanak, tramonto a Bukit Merese",
+          "Giorno 3: Tanjung Aan al mattino, poi Pink Beach o le cascate di Benang Kelambu",
+        ],
+      },
       {
         titolo: "6-8 giorni",
         tappe: [
@@ -949,39 +1068,42 @@ export const destinazioniIndonesia: Destinazione[] = [
           "Giorno 2-4: trekking al Rinjani",
           "Giorno 5: riposo, cascate di Senaru",
           "Giorno 6-7: Gili, snorkeling con le tartarughe",
-          "Giorno 8: partenza"
-        ]
+          "Giorno 8: partenza",
+        ],
       },
       {
         titolo: "Senza Rinjani",
         tappe: [
           "Giorno 1-2: Kuta Lombok e le spiagge del sud",
           "Giorno 3-5: Gili",
-          "Giorno 6: rientro"
-        ]
-      }
+          "Giorno 6: rientro",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Gili Trawangan",
         perChi: "chi vuole vita serale",
-        testo: "Bar, ristoranti e locali. Più rumorosa di quanto molti si aspettino."
+        testo: "Bar, ristoranti e locali. Più rumorosa di quanto molti si aspettino.",
+        fascia: "25-120 €",
       },
       {
         nome: "Gili Meno",
         perChi: "chi cerca calma",
-        testo: "La più tranquilla, con pochi servizi e tramonti belli."
+        testo: "La più tranquilla, con pochi servizi e tramonti belli.",
+        fascia: "30-120 €",
       },
       {
         nome: "Senaru o Sembalun",
         perChi: "chi fa il Rinjani",
-        testo: "Villaggi alle pendici del vulcano con guesthouse semplici."
+        testo: "Villaggi alle pendici del vulcano con guesthouse semplici.",
       },
       {
         nome: "Kuta Lombok",
         perChi: "chi cerca spiagge e surf",
-        testo: "Cittadina tranquilla con alloggi economici."
-      }
+        testo: "Cittadina tranquilla con alloggi economici.",
+        fascia: "30-130 €",
+      },
     ],
     sapori: [
       {
@@ -1006,6 +1128,52 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Trawangan la sera è più festaiola di quanto sembri; Meno è l'opposto. Sceglierne una in base al carattere.",
       "Traversate da Bali: il mare può essere mosso; evitare di prenotare trasferimenti troppo stretti.",
       "Alle Gili la corrente e le imbarcazioni: non nuotare lontano dalla riva."
+    ],
+    gite: [
+      {
+        nome: "Gili del sud-ovest: Nanggu, Sudak e Kedis",
+        distanza: "circa 2 ore d'auto da Kuta o da Mataram, poi 15-20 minuti di barca",
+        come: "Auto fino al porto di Tawun o di Sekotong, poi barca noleggiata sul posto per il giro delle isole.",
+        testo: "Isolotti piccoli e quasi senza strutture, con acqua bassa e reef vicino a riva. Sono le Gili senza la folla delle tre più famose.",
+      },
+      {
+        nome: "Gili Kondo",
+        distanza: "circa 2,5 ore d'auto da Kuta o da Senaru, poi barca breve",
+        come: "Auto fino alla costa nord-est (Sambelia), barca da noleggiare al molo.",
+        testo: "Un isolotto di sabbia bianca nella costa est, frequentato soprattutto da visitatori locali, con snorkeling sul reef intorno.",
+      },
+      {
+        nome: "Tetebatu",
+        distanza: "circa 1,5 ore d'auto da Kuta o da Mataram",
+        come: "Auto o scooter; sul posto camminate tra le risaie con una guida del villaggio.",
+        testo: "Un villaggio agricolo sulle pendici meridionali del Rinjani, con risaie a terrazze, piantagioni e cascate nella foresta. Aria più fresca e ritmo lento.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono per Lombok e le Gili?",
+        risposta: "Per le sole Gili bastano 2-3 giorni. Con il sud di Lombok si arriva a 5-6, e il trekking al Rinjani aggiunge 2-3 giorni più uno di riposo.",
+      },
+      {
+        domanda: "Quale isola Gili scegliere?",
+        risposta: "Trawangan per la vita serale, Gili Air per un equilibrio tra servizi e calma, Gili Meno per il silenzio. Si passa dall'una all'altra in pochi minuti di barca pubblica.",
+      },
+      {
+        domanda: "Serve la guida per il trekking al Rinjani?",
+        risposta: "Sì, è obbligatoria per legge, con un operatore autorizzato e la prenotazione sull'app ufficiale E-Rinjani del parco.",
+      },
+      {
+        domanda: "Quando è chiuso il Rinjani?",
+        risposta: "Ogni anno da gennaio a fine marzo, nella stagione delle piogge. Può chiudere anche in altri periodi dopo incidenti o maltempo: controllare sull'app E-Rinjani prima di prenotare.",
+      },
+      {
+        domanda: "Come si va da Bali alle Gili?",
+        risposta: "Con le barche veloci da Padang Bai (1,5-2 ore, 350.000-475.000 IDR a tratta) o da Sanur, più care. Con il mare grosso le corse saltano: meglio non fissare un volo lo stesso giorno.",
+      },
+      {
+        domanda: "Alle Gili ci sono bancomat?",
+        risposta: "Pochi, soprattutto a Trawangan, e non sempre funzionano. Conviene arrivare con abbastanza contanti, in particolare a Gili Meno e Gili Air.",
+      },
     ],
     esperienzeSlugs: ['trekking-gunung-rinjani'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'indonesia-isola-per-isola'],
@@ -1040,10 +1208,10 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Labuan Bajo è il punto di appoggio di tutti, con un\'ampia scelta tra ostelli e resort sul porto. In alternativa si dorme a bordo, nei tour in barca di due o più notti, che sono anche l\'unico modo per essere a Padar all\'alba.',
     doveMangiare:
       'A Labuan Bajo si mangia pesce, e bene: il mercato serale sul lungomare espone il pescato del giorno e lo griglia al momento, a prezzi molto più bassi dei ristoranti con vista sul porto poco più in là. A bordo cucina l\'equipaggio: piatti semplici di riso, pesce e verdure, ma buoni.',
-    comeArrivare: 'Volo su Labuan Bajo (Flores), punto di partenza di tutti i tour verso il parco.',
+    comeArrivare: "Si vola su Labuan Bajo (aeroporto Komodo, LBJ), con voli diretti da Bali in circa 1 ora e 15 minuti e da Giacarta; da Lombok sono meno frequenti. L'aeroporto è a pochi minuti d'auto dal porto e dagli alberghi del centro. Le barche per il parco partono dal porto di Labuan Bajo al mattino; per essere a Padar all'alba si parte prima delle 5 oppure si dorme a bordo. Chi arriva da est percorre la Trans-Flores con un'auto con autista, da Bajawa circa 9-10 ore con le soste.",
     comeSpostarsi: 'Solo in barca: tour organizzati di uno o più giorni, o liveaboard.',
     periodoMigliore: 'aprile-dicembre, stagione secca con mare più calmo',
-    costi: 'variabile secondo la durata del tour in barca; i liveaboard multi-giorno hanno un costo più alto',
+    costi: "Ingresso al parco 250.000 IDR a persona per gli stranieri (circa 13 €), di solito gestito dall'operatore; tassa per le immersioni 25.000 IDR per attività. Budget: circa 40-60 € al giorno con guesthouse, mercato serale e tour condiviso in giornata. Medio: 100-150 € con hotel in città e speedboat, o due notti su una barca condivisa. Alto: oltre 250 € con liveaboard privato o resort sul mare.",
     erroriDaEvitare: [
       'Avvicinarsi ai draghi senza un ranger o una guida: sono predatori pericolosi',
       'Sottovalutare il mare mosso e le correnti forti tra le isole',
@@ -1058,7 +1226,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         quando: "Al mattino, nelle ore più fresche.",
         tempo: "mezza giornata",
         url: "https://www.komodonationalpark.org/",
-        consiglio: "Chiedere espressamente Rinca nel tour: è più selvaggia dell'isola di Komodo."
+        consiglio: "Chiedere espressamente Rinca nel tour: è più selvaggia dell'isola di Komodo.",
+        costo: "Ingresso al parco 250.000 IDR a persona per gli stranieri, circa 13 € (2026), di solito incluso o gestito dall'operatore del tour; il ranger è obbligatorio.",
+        lat: -8.65927,
+        lng: 119.7256,
       },
       {
         nome: "Isola di Komodo e Loh Liang",
@@ -1067,7 +1238,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         quando: "Al mattino.",
         tempo: "mezza giornata",
         url: "https://www.komodonationalpark.org/",
-        consiglio: "Mai avvicinarsi senza il ranger e mai lasciare il sentiero."
+        consiglio: "Mai avvicinarsi senza il ranger e mai lasciare il sentiero.",
+        costo: "Ingresso al parco 250.000 IDR a persona per gli stranieri, circa 13 € (2026); il ranger è obbligatorio.",
+        lat: -8.56831,
+        lng: 119.5069,
       },
       {
         nome: "Padar Island",
@@ -1075,7 +1249,11 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "In barca da Labuan Bajo con un tour, spesso come prima tappa del mattino.",
         quando: "All'alba, prestissimo: poco dopo arrivano i gruppi, la fila sul sentiero è continua e il caldo si sente.",
         tempo: "1 ora e mezza",
-        consiglio: "Salire all'alba, con le prime luci, è l'unico modo di avere il panorama senza la coda."
+        consiglio: "Salire all'alba, con le prime luci, è l'unico modo di avere il panorama senza la coda.",
+        costo: "Compreso nel biglietto del parco. Dal 2026 c'è un tetto giornaliero di visitatori e i turni per Padar si prenotano: confermarli con l'operatore.",
+        lat: -8.6627,
+        lng: 119.55574,
+        url: "https://www.komodonationalpark.org/",
       },
       {
         nome: "Pink Beach",
@@ -1083,7 +1261,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "In barca come tappa del tour.",
         quando: "Mattina o primo pomeriggio.",
         tempo: "1-2 ore",
-        consiglio: "Fare snorkeling: i fondali sono più interessanti della spiaggia."
+        consiglio: "Fare snorkeling: i fondali sono più interessanti della spiaggia.",
+        lat: -8.60137,
+        lng: 119.52052,
       },
       {
         nome: "Kanawa, Kelor e Manta Point",
@@ -1091,8 +1271,55 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "In barca con tour di uno o più giorni.",
         quando: "Nei mesi con il mare più calmo; chiedere all'equipaggio.",
         tempo: "mezza giornata",
-        consiglio: "Correnti forti tra le isole: ascoltare le istruzioni dell'equipaggio."
-      }
+        consiglio: "Correnti forti tra le isole: ascoltare le istruzioni dell'equipaggio.",
+        costo: "Per le immersioni la tassa del parco è a parte: 25.000 IDR per attività, circa 1,3 € (2026).",
+        lat: -8.4948,
+        lng: 119.75884,
+      },
+      {
+        nome: "Taka Makassar",
+        testo: "Una lingua di sabbia bianca che emerge con la bassa marea in mezzo al mare, vicino al Manta Point. Intorno l'acqua è bassa e turchese, e ci si ferma per un bagno e lo snorkeling tra una tappa e l'altra.",
+        come: "In barca, come tappa dei tour di uno o più giorni.",
+        quando: "Con la bassa marea, quando la sabbia è scoperta; l'orario lo decide l'equipaggio.",
+        tempo: "1 ora",
+        consiglio: "Crema solare e maglietta: non c'è ombra.",
+      },
+      {
+        nome: "Gili Lawa Darat",
+        testo: "Un'isola collinare nel nord del parco, con una cresta erbosa da cui si vedono le baie e le isole intorno. È una delle salite panoramiche più belle dopo Padar, e di solito meno affollata.",
+        come: "In barca, nei tour di più giorni che passano dal nord del parco; salita a piedi su sentiero ripido.",
+        quando: "Al tramonto o all'alba, dormendo a bordo.",
+        tempo: "1-1,5 ore",
+        lat: -8.46933,
+        lng: 119.55799,
+        consiglio: "Scarpe chiuse: il terreno è secco e scivoloso.",
+      },
+      {
+        nome: "Isola di Kalong",
+        testo: "Un'isola di mangrovie da cui al tramonto escono migliaia di volpi volanti, i grandi pipistrelli della frutta, che attraversano il cielo verso le isole vicine. Non si scende: si guarda dalla barca all'ancora.",
+        come: "In barca, nei tour con notte a bordo, che ancorano qui la sera.",
+        quando: "Al tramonto.",
+        tempo: "1 ora",
+        consiglio: "È uno dei motivi per scegliere almeno una notte in barca.",
+      },
+      {
+        nome: "Grotta di Batu Cermin",
+        testo: "Una grotta calcarea a pochi chilometri dal centro di Labuan Bajo. Il nome, «pietra specchio», viene dalla luce che a certe ore entra da una fessura e si riflette sulle pareti. Dentro ci sono fossili marini nella roccia.",
+        come: "In scooter o taxi dal centro; si visita con una guida locale e un casco.",
+        quando: "Verso metà giornata, quando la luce entra nella grotta.",
+        tempo: "1 ora",
+        lat: -8.48374,
+        lng: 119.89796,
+        consiglio: "Buona mezza giornata a terra prima o dopo i tour in barca.",
+      },
+      {
+        nome: "Mercato serale di Kampung Ujung",
+        testo: "Sul lungomare di Labuan Bajo, la sera, i banchi espongono il pescato del giorno e lo grigliano al momento. Si mangia su tavoli all'aperto, a prezzi molto più bassi dei ristoranti con vista sul porto.",
+        come: "A piedi dal centro, sul lungomare.",
+        quando: "Dal tramonto.",
+        tempo: "1 ora",
+        consiglio: "Concordare il prezzo del pesce prima che lo mettano sulla griglia.",
+      },
     ],
     programmi: [
       {
@@ -1102,29 +1329,42 @@ export const destinazioniIndonesia: Destinazione[] = [
           "Mattina: Pink Beach e snorkeling",
           "Pranzo a bordo",
           "Pomeriggio: Rinca o Komodo con i ranger",
-          "Tramonto: rientro a Labuan Bajo"
-        ]
+          "Tramonto: rientro a Labuan Bajo",
+        ],
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: tour in giornata con Padar all'alba, Pink Beach e Komodo; sera al mercato di Kampung Ujung",
+          "Giorno 2: snorkeling a Kanawa e Kelor al mattino, grotta di Batu Cermin nel pomeriggio",
+        ],
       },
       {
         titolo: "3 giorni (barca)",
         tappe: [
           "Giorno 1: Kanawa, Rinca, notte a bordo",
           "Giorno 2: Padar all'alba, Pink Beach, Manta Point",
-          "Giorno 3: isola di Komodo e rientro"
-        ]
-      }
+          "Giorno 3: isola di Komodo e rientro",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Labuan Bajo",
         perChi: "chi fa i tour in giornata",
-        testo: "Porto con alberghi di ogni fascia, ristoranti sul mare e il mercato serale del pesce. Base di tutti i tour."
+        testo: "Porto con alberghi di ogni fascia, ristoranti sul mare e il mercato serale del pesce. Base di tutti i tour.",
+      },
+      {
+        nome: "Spiagge fuori città (Waecicu, Pede)",
+        perChi: "chi vuole un resort sul mare",
+        testo: "Resort e hotel con piscina sulla costa a nord e a sud del centro. Più tranquilli, ma serve un taxi per il porto e i ristoranti.",
+        fascia: "100-300 €",
       },
       {
         nome: "A bordo (liveaboard)",
         perChi: "chi vuole vedere di più",
-        testo: "Dormire in barca permette di essere a Padar all'alba, prima dei gruppi. Costa di più."
-      }
+        testo: "Dormire in barca permette di essere a Padar all'alba, prima dei gruppi. Costa di più.",
+      },
     ],
     sapori: [
       {
@@ -1145,6 +1385,46 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Il mare mosso e le correnti forti tra le isole: ascoltare l'equipaggio e non nuotare da soli.",
       "A Padar la fila sul sentiero cresce subito dopo l'alba: salire con le prime luci.",
       "Controllare quali sono le tariffe ufficiali e i permessi del parco prima di prenotare."
+    ],
+    gite: [
+      {
+        nome: "Cascata di Cunca Wulang",
+        distanza: "circa 1 ora d'auto da Labuan Bajo",
+        come: "Auto con autista o scooter, poi una camminata nella foresta con una guida del villaggio.",
+        testo: "Una cascata in un canyon di roccia con piscine naturali dove si fa il bagno. È la gita a terra più bella intorno a Labuan Bajo.",
+      },
+      {
+        nome: "Wae Rebo",
+        distanza: "2 giorni: strada fino a Denge, poi 2,5-3 ore di salita a piedi",
+        come: "Auto con autista fino a Denge, poi salita a piedi; si dorme nelle case del villaggio.",
+        testo: "Un villaggio manggarai con le case coniche tradizionali, in una valle tra le montagne. Non è una gita in giornata, ma una delle esperienze più belle di Flores.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Komodo?",
+        risposta: "Un tour in giornata copre Padar, Pink Beach e i draghi. Con 2-3 giorni, meglio con una notte in barca, si aggiungono snorkeling, Manta Point e Padar all'alba senza fretta.",
+      },
+      {
+        domanda: "Meglio il tour in giornata o la barca con notte a bordo?",
+        risposta: "Il tour in giornata è più economico ma corre. Dormire a bordo permette di salire a Padar all'alba, prima dei gruppi, e di vedere le volpi volanti di Kalong al tramonto.",
+      },
+      {
+        domanda: "Quanto costa l'ingresso al parco di Komodo?",
+        risposta: "Per gli stranieri 250.000 IDR a persona, circa 13 €, di solito gestito dall'operatore; le immersioni hanno una tassa a parte. Le tariffe sono cambiate più volte: confermarle prima di prenotare.",
+      },
+      {
+        domanda: "C'è un limite di visitatori a Komodo?",
+        risposta: "Dal 1° aprile 2026 il parco ammette al massimo 1.000 visitatori al giorno, con la stretta soprattutto su Padar, Rinca e Komodo. In alta stagione conviene prenotare il tour con anticipo.",
+      },
+      {
+        domanda: "È pericoloso vedere i draghi di Komodo?",
+        risposta: "Sono predatori, ma la visita si fa solo con un ranger e sui sentieri. Il rischio è basso se si seguono le istruzioni e non ci si allontana dal gruppo.",
+      },
+      {
+        domanda: "Qual è il periodo migliore per Komodo?",
+        risposta: "Da aprile a dicembre, nella stagione secca, quando il mare è più calmo. Le mante non sono mai garantite.",
+      },
     ],
     esperienzeSlugs: ['trekking-draghi-komodo'],
     tripSlugs: ['indonesia-itinerario', 'bali-nusa-komodo', 'indonesia-isola-per-isola'],

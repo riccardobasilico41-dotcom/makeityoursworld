@@ -95,13 +95,13 @@ Toward evening we went back, checked in and had dinner at **Koba**, good both be
 ### Day 8 (13.04) — Hiroshima-Himeji-Osaka (or Kobe)
 The Kodama Shinkansen to Himeji leaves early. *If there's room, it's worth booking the Hello Kitty themed train, all pink with a dedicated car: absurd but memorable, it runs on some services between Hiroshima and Himeji.*
 
-In the morning we were at **Himeji Castle**, the most beautiful and best-preserved in Japan, with a guide; the combined ticket with the **Kokoen Gardens** costs 1,060 yen. We're close to Kobe, and lunch is the chance for real **Kobe beef**. The practical choice is **Fuku-tei**, skewers and takeaway burgers with excellent value; the Kobe teppanyaki steakhouses are another experience, 70-80€ for 150 grams, and call for a detour and more time.
+In the morning we were at **Himeji Castle**, the most beautiful and best-preserved in Japan, with a guide; the combined ticket with the **Kokoen Gardens** cost 1,060 yen back then (since 2026 the castle costs 2,500 yen for foreign visitors, 2,600 with Kokoen). We're close to Kobe, and lunch is the chance for real **Kobe beef**. The practical choice is **Fuku-tei**, skewers and takeaway burgers with excellent value; the Kobe teppanyaki steakhouses are another experience, 70-80€ for 150 grams, and call for a detour and more time.
 
 The train to Osaka doesn't need to be booked and is taken calmly after lunch. After check-in we went to **Osaka Castle**: from the eighth floor the view over the city is beautiful, and inside the museum tells the history of Osaka with holograms. Toward evening **Dotonbori**, then the **Tombori River Cruise**, twenty minutes for 1,000 yen from Tazaemonbashi Harbour. For dinner there's the **Osaka Foodie Tour**, paid and to be booked separately, or **Torikizoku** near Namba: 3,600 yen for two hours of all you can eat and drink. We slept at the Sarasa Hotel Namba.
 
 *My memory: the Dotonbori area is packed, and my friends had mixed opinions about it, but I absolutely loved it.*
 
-**In practice:** Kodama Shinkansen from Hiroshima to Himeji, covered by the JR Pass, while for the Hello Kitty train it's worth reserving a seat · combined ticket Himeji Castle and Kokoen Gardens 1,060 yen, but castle prices should be rechecked on the official website before you go · Tombori River Cruise 1,000 yen · Torikizoku 3,600 yen for two hours all-you-can-eat.
+**In practice:** Kodama Shinkansen from Hiroshima to Himeji, covered by the JR Pass, while for the Hello Kitty train it's worth reserving a seat · Himeji Castle about 2,500 yen for foreign visitors since 2026, 2,600 with the Kokoen Gardens · Tombori River Cruise 1,000 yen · Torikizoku 3,600 yen for two hours all-you-can-eat.
 
 ### Day 9 (14.04) — Osaka and Nara
 From Namba the Kintetsu line goes to **Nara** (worth checking whether the JR Pass covers it). The first stop was a sweet one: at **Nakatanidou** you eat mochi, and around mid-morning there's the preparation show, always packed, so it's better to arrive early.

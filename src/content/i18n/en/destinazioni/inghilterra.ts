@@ -373,7 +373,9 @@ export const destinazioniInghilterra: Destinazione[] = [
     ],
     cosaFare: ['A tour of the villages by car', 'A walk between Lower and Upper Slaughter', 'Lunch in a country pub'],
     comeArrivare:
-      'By train from London Paddington on the line through Oxford, Charlbury and Kingham to Moreton-in-Marsh, in about an hour and a half to Moreton (approximate time). Or by car, picking it up in Oxford.',
+      'By train from London Paddington on the line through Oxford, Charlbury and Kingham to Moreton-in-Marsh, in about an hour and a half (approximate time); times and fares on nationalrail.co.uk, cheaper when bought in advance. From Heathrow you reach Paddington on the Elizabeth line, in about 30-40 minutes, or on the Heathrow Express, in 15-20 minutes. If you are touring by car, pick it up in Oxford, about an hour by train from London: from there Stow-on-the-Wold is about 45 minutes away.',
+    costi:
+      'Villages and footpaths are free; you pay for parking and stately homes, such as Blenheim Palace (£41 online, about €47, 2026). Sleeping is expensive: pubs with rooms and B&Bs start at about €100-120 for a double. Indicative daily budget per person, sharing a double and with the hire car on top: low €90-120, mid €160-230, high over €350.',
     comeSpostarsi:
       'Everything is easier by car: the villages are close together but buses are few. Country roads are narrow, with high hedges, and you drive on the left.',
     periodoMigliore: 'May to September; in spring and autumn there are fewer groups',
@@ -384,61 +386,243 @@ export const destinazioniInghilterra: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        nome: 'Bibury and Arlington Row',
-        testo: "A row of stone cottages built in 1380 as a monastic wool store and turned into weavers' homes in the late 17th century. It's one of the best-known images of the Cotswolds.",
-        come: 'By car, with limited parking in the village.',
-        quando: 'Early in the morning or late in the afternoon.',
-        tempo: '1 hour',
+        "nome": "Bibury and Arlington Row",
+        "testo": "A row of stone cottages built in 1380 as a monastic wool store and turned into weavers' homes in the late 17th century. It's one of the best-known images of the Cotswolds.",
+        "come": "By car, with limited parking in the village.",
+        "quando": "Early in the morning or late in the afternoon.",
+        "tempo": "1 hour",
+        "costo": "Free; pay car park in the village, with few spaces",
+        "orari": "Always accessible; the cottages are lived in",
+        "lat": 51.7584,
+        "lng": -1.8348
       },
       {
-        nome: 'Bourton-on-the-Water',
-        testo: 'The village with the shallow, wide River Windrush, crossed by small stone bridges. It is the busiest in the area.',
-        come: 'By car, with paid car parks on the edges of the centre.',
-        quando: 'Early morning or on a weekday.',
-        tempo: '1-2 hours',
+        "nome": "Bourton-on-the-Water",
+        "testo": "The village with the shallow, wide River Windrush, crossed by small stone bridges. It is the busiest in the area.",
+        "come": "By car, with paid car parks on the edges of the centre.",
+        "quando": "Early morning or on a weekday.",
+        "tempo": "1-2 hours",
+        "costo": "Free; pay car parks on the edge of the centre",
+        "orari": "Always accessible",
+        "lat": 51.886,
+        "lng": -1.759
       },
       {
-        nome: 'Lower Slaughter and Upper Slaughter',
-        testo: 'Two tiny villages along a stream, linked by a footpath through the meadows. They are the opposite of Bourton: quiet.',
-        come: 'On foot from one village to the other, there and back.',
-        quando: 'Morning or late afternoon.',
-        tempo: '1-2 hours with the walk',
+        "nome": "Lower Slaughter and Upper Slaughter",
+        "testo": "Two tiny villages along a stream, linked by a footpath through the meadows. They are the opposite of Bourton: quiet.",
+        "come": "On foot from one village to the other, there and back.",
+        "quando": "Morning or late afternoon.",
+        "tempo": "1-2 hours with the walk",
+        "costo": "Free",
+        "orari": "Always accessible",
+        "lat": 51.906,
+        "lng": -1.777,
+        "consiglio": "Lower Slaughter has hardly any parking: leave the car in Upper Slaughter or Bourton and walk. The path crosses fields with sheep, and gates must be closed behind you."
       },
       {
-        nome: 'Stow-on-the-Wold',
-        testo: "A market town on top of a hill, with its square, antique shops and St Edward's church, whose door between two yew trees many people link to Tolkien's world.",
-        come: 'By car or on foot from the Slaughters.',
-        tempo: '1-2 hours',
+        "nome": "Stow-on-the-Wold",
+        "testo": "A market town on top of a hill, with its square, antique shops and St Edward's church, whose door between two yew trees many people link to Tolkien's world.",
+        "come": "By car or on foot from the Slaughters.",
+        "tempo": "1-2 hours",
+        "quando": "Late afternoon, at the end of the loop, or early morning if you are staying here.",
+        "costo": "Free",
+        "lat": 51.93,
+        "lng": -1.7225
       },
       {
-        nome: 'Chipping Campden and Broadway',
-        testo: 'The northern Cotswolds. Chipping Campden has a high street of stone houses, with the old covered market. Broadway is bigger, with the tower on top of the hill.',
-        come: 'By car, north of Stow.',
-        tempo: 'half a day',
+        "nome": "Chipping Campden and Broadway",
+        "testo": "The northern Cotswolds. Chipping Campden has a high street of stone houses, with the old covered market. Broadway is bigger, with the tower on top of the hill.",
+        "come": "By car, north of Stow.",
+        "tempo": "half a day",
+        "quando": "In the morning, before the coaches.",
+        "costo": "Free",
+        "lat": 52.052,
+        "lng": -1.779
       },
       {
-        nome: 'Castle Combe',
-        testo: 'A village in Wiltshire, at the southern tip of the Cotswolds, with stone houses around the old market cross and the bridge over the stream. It lies on the road to Bath.',
-        come: 'By car, leaving it in the car park above the village and walking down.',
-        quando: 'In the morning.',
-        tempo: '1 hour',
+        "nome": "Castle Combe",
+        "testo": "A village in Wiltshire, at the southern tip of the Cotswolds, with stone houses around the old market cross and the bridge over the stream. It lies on the road to Bath.",
+        "come": "By car, leaving it in the car park above the village and walking down.",
+        "quando": "In the morning.",
+        "tempo": "1 hour",
+        "costo": "Free",
+        "orari": "Always accessible",
+        "lat": 51.493,
+        "lng": -2.229
       },
+      {
+        "nome": "Broadway Tower",
+        "testo": "An eighteenth-century tower on the hill above Broadway, one of the highest points in the Cotswolds. From the top the view opens over several counties.",
+        "come": "By car from Broadway in about ten minutes, or on foot along the Cotswold Way, uphill from the village.",
+        "quando": "On a clear day or towards sunset.",
+        "tempo": "1 hour",
+        "lat": 52.02417,
+        "lng": -1.83583,
+        "url": "https://www.broadwaytower.co.uk/"
+      },
+      {
+        "nome": "Blenheim Palace",
+        "testo": "The great baroque palace of the Dukes of Marlborough, a UNESCO World Heritage Site and the birthplace of Winston Churchill. The park laid out by Capability Brown, with the lake and the bridge, is worth the visit on its own.",
+        "come": "In Woodstock, on the eastern edge of the Cotswolds, on the road between Oxford and Burford. Tickets online, £3 cheaper than on site.",
+        "quando": "In the morning, at opening time. From 13 November to 3 January the Christmas programme runs and park-only tickets are not sold.",
+        "tempo": "half a day",
+        "costo": "Palace, park and gardens £41 online and £44 on site, about €47-51; park and gardens only £31 online, about €36 (2026)",
+        "orari": "Park open daily 9am-6pm; the palace has its own hours and seasonal closures, on the official website.",
+        "lat": 51.84136,
+        "lng": -1.36095,
+        "url": "https://www.blenheimpalace.com/"
+      },
+      {
+        "nome": "Hidcote Manor Garden",
+        "testo": "One of the best-known gardens in England, created in the early twentieth century and divided into \"rooms\" by hedges and walls, each with its own colour. It belongs to the National Trust.",
+        "come": "By car, a few kilometres north of Chipping Campden.",
+        "quando": "May to September, when things are in flower.",
+        "tempo": "2 hours",
+        "lat": 52.08456,
+        "lng": -1.74609,
+        "url": "https://www.nationaltrust.org.uk/"
+      },
+      {
+        "nome": "Sudeley Castle",
+        "testo": "A castle with gardens in Winchcombe, still lived in today. Catherine Parr, Henry VIII's last wife, is buried in the chapel.",
+        "come": "By car, in the western Cotswolds, half an hour from Broadway.",
+        "quando": "Only in the opening season: it reopens in March 2027.",
+        "tempo": "2-3 hours",
+        "costo": "Adults £24, about €28 (2026)",
+        "orari": "In season castle and gardens from 10am, last admission 3pm, castle closes at 4pm and the site at 5pm. Closed in winter.",
+        "url": "https://sudeleycastle.co.uk/"
+      },
+      {
+        "nome": "Burford",
+        "testo": "A small town on the River Windrush, with its high street running downhill between stone houses, shops and inns. Coming from Oxford, it is the gateway to the Cotswolds.",
+        "come": "By car on the A40, between Oxford and Cheltenham.",
+        "quando": "In the morning or at lunchtime.",
+        "tempo": "1 hour",
+        "costo": "Free",
+        "lat": 51.808,
+        "lng": -1.637
+      },
+      {
+        "nome": "Cirencester and the Corinium Museum",
+        "testo": "Cirencester was Corinium, one of the most important towns of Roman Britain. The museum has mosaics and Roman finds from the area; the church on the market place is among the largest in the Cotswolds.",
+        "come": "By car, in the southern Cotswolds, on the way between Bibury and Castle Combe.",
+        "tempo": "2 hours",
+        "lat": 51.7138,
+        "lng": -1.9763,
+        "url": "https://coriniummuseum.org/"
+      }
     ],
     programmi: [
-      { titolo: '1 day', tappe: ['Bibury early in the morning', 'Bourton-on-the-Water', 'Walk between Lower and Upper Slaughter', 'Stow-on-the-Wold'] },
-      { titolo: '2 days', tappe: ['Day 1: as above', 'Day 2: Chipping Campden and Broadway, or Castle Combe on the way to Bath'] },
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Bibury early in the morning",
+          "Bourton-on-the-Water",
+          "Walk between Lower and Upper Slaughter",
+          "Stow-on-the-Wold"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: as above",
+          "Day 2: Chipping Campden and Broadway, or Castle Combe on the way to Bath"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Bibury early in the morning, Bourton-on-the-Water, the walk between Lower and Upper Slaughter, Stow-on-the-Wold",
+          "Day 2: Chipping Campden, Broadway and Broadway Tower, Hidcote in the afternoon",
+          "Day 3: Burford and Blenheim Palace, or Cirencester and Castle Combe on the way to Bath"
+        ]
+      }
     ],
     zone: [
-      { nome: 'Stow-on-the-Wold and surroundings', perChi: 'anyone touring by car', testo: 'In the middle of the area, a few minutes from Bourton, the Slaughters and Moreton-in-Marsh.' },
-      { nome: 'Moreton-in-Marsh', perChi: 'anyone arriving by train', testo: 'It has the station on the London line and a few buses to nearby villages.' },
+      {
+        "nome": "Stow-on-the-Wold and surroundings",
+        "perChi": "anyone touring by car",
+        "testo": "In the middle of the area, a few minutes from Bourton, the Slaughters and Moreton-in-Marsh.",
+        "fascia": "€120-230"
+      },
+      {
+        "nome": "Moreton-in-Marsh",
+        "perChi": "anyone arriving by train",
+        "testo": "It has the station on the London line and a few buses to nearby villages.",
+        "fascia": "€100-180"
+      },
+      {
+        "nome": "Chipping Campden and Broadway",
+        "perChi": "those who want the northern Cotswolds",
+        "testo": "Larger villages, with historic inns and a few luxury hotels. Handy for Hidcote and for a trip to Stratford-upon-Avon.",
+        "fascia": "€140-280"
+      },
+      {
+        "nome": "Burford and Bibury",
+        "perChi": "those arriving by car from Oxford",
+        "testo": "The south-eastern side of the area, closer to Oxford and Blenheim. In the evening, once the coaches have gone, Bibury is quiet.",
+        "fascia": "€130-260"
+      }
     ],
     sapori: [
-      { nome: 'Cream tea', testo: 'Tea with scones, cream and jam, in the village tea rooms.' },
-      { nome: 'Village pub', testo: 'Lunch with seasonal dishes and local beers, often in stone buildings a few centuries old.' },
+      {
+        "nome": "Cream tea",
+        "testo": "Tea with scones, cream and jam, in the village tea rooms."
+      },
+      {
+        "nome": "Village pub",
+        "testo": "Lunch with seasonal dishes and local beers, often in stone buildings a few centuries old."
+      }
     ],
     attenzioni: [
-      'Narrow country roads, with high hedges and poor visibility: drive on the left and slowly.',
-      'At Arlington Row take photos from the street, without going into the gardens.',
+      "Narrow country roads, with high hedges and poor visibility: drive on the left and slowly.",
+      "At Arlington Row take photos from the street, without going into the gardens."
+    ],
+    gite: [
+      {
+        "nome": "Oxford",
+        "distanza": "45 minutes by car from Stow-on-the-Wold",
+        "come": "By car, or by train from Moreton-in-Marsh or Kingham.",
+        "testo": "The colleges, the Radcliffe Camera and the Bodleian in a day on foot. It is also the easiest place to pick up or drop off the car."
+      },
+      {
+        "nome": "Stratford-upon-Avon",
+        "distanza": "about 20 km from Chipping Campden",
+        "come": "By car, heading north.",
+        "testo": "Shakespeare's birthplace, with the house where he was born, half-timbered houses and the Royal Shakespeare Company theatre on the River Avon."
+      },
+      {
+        "nome": "Bath",
+        "distanza": "half an hour by car from Castle Combe",
+        "come": "By car, heading south; from Bath Spa the train takes you back to London Paddington in about an hour and a half.",
+        "testo": "The Roman Baths, the abbey and the Georgian crescents. It is the natural end of a Cotswolds tour."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for the Cotswolds?",
+        "risposta": "Two days for the main villages, three to add Broadway Tower, Hidcote and Blenheim Palace without rushing. Two or three villages a day, with a walk, are more rewarding than a long list."
+      },
+      {
+        "domanda": "Can you visit the Cotswolds without a car?",
+        "risposta": "Yes, with limits. The train reaches Moreton-in-Marsh and buses between villages are few: the most practical option is to stay there and join an organised village tour."
+      },
+      {
+        "domanda": "Where is the best place to stay in the Cotswolds?",
+        "risposta": "Stow-on-the-Wold if you have a car, as it is in the middle of the area; Moreton-in-Marsh if you arrive by train. You sleep in pubs with rooms and B&Bs, to be booked early."
+      },
+      {
+        "domanda": "Which are the prettiest villages in the Cotswolds?",
+        "risposta": "The most famous are Bibury, Bourton-on-the-Water and Castle Combe, which are also the busiest. Lower and Upper Slaughter and Chipping Campden are quieter."
+      },
+      {
+        "domanda": "When is the best time to visit the Cotswolds?",
+        "risposta": "May to September; spring and autumn bring fewer groups. In any season, aim to reach Bibury and Bourton before 9am, ahead of the coaches."
+      },
+      {
+        "domanda": "Do you need an international driving permit?",
+        "risposta": "Not with an EU licence, which is valid without an international permit. You drive on the left, on narrow lanes between hedges."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -480,9 +664,242 @@ export const destinazioniInghilterra: Destinazione[] = [
     percheAndarci: 'For the Roman baths, the Georgian crescents and the natural end of a trip through the Cotswolds, before returning to London by train.',
     cosaVedere: ['The Roman Baths', 'Bath Abbey', 'The Royal Crescent and the Circus', 'Pulteney Bridge'],
     cosaFare: ['Visiting the Roman baths early in the morning', 'Walking from the Circus to the Royal Crescent', "A swim in the city's modern spa"],
-    comeArrivare: 'By train from London Paddington, or by car from the Cotswolds via Castle Combe.',
+    comeArrivare:
+      'By train from London Paddington to Bath Spa in about an hour and a half; times and fares on nationalrail.co.uk. From Heathrow you reach Paddington on the Elizabeth line or the Heathrow Express and change there. The nearest airport is Bristol, linked to Bath by the A4 bus in about an hour, depending on traffic. By car from the Cotswolds you come down via Castle Combe, half an hour away; in the centre traffic is slow and parking is expensive, so it is better to return the car first.',
+    costi:
+      'Roman Baths from £23.50 online (about €27), Thermae Bath Spa from £44 (about €51), No. 1 Royal Crescent £16 (about €18), 2026 prices. The centre is easy on foot. Indicative daily budget per person, sharing a double: low €90-120, mid €170-240, high over €350.',
     comeSpostarsi: 'On foot.',
     erroriDaEvitare: ['Arriving at the Roman Baths in the middle of the day without a ticket: it is better to book it online on the official website'],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Roman Baths",
+        "testo": "The Roman baths built around the hot spring: the Great Bath with its green water, the underground bathing rooms and the remains of the temple of Sulis Minerva. The museum tells the story of the Roman town through the objects thrown into the spring.",
+        "come": "Dated, timed ticket on the official website; the audio guide is included. You cannot touch the water: bathing is at Thermae.",
+        "quando": "At opening time or in the last hour, when there are fewer groups.",
+        "tempo": "2 hours",
+        "costo": "From £23.50 online on weekdays in November and December 2026 (£26.50 at weekends), about €27-31; up to about £33 in peak months. £2 more at the door.",
+        "orari": "Daily; in autumn and winter 9am-6pm, last entry 5pm. On 24 December last entry 4.15pm, closed 25 and 26 December.",
+        "lat": 51.3809,
+        "lng": -2.3595,
+        "url": "https://www.romanbaths.co.uk/",
+        "consiglio": "If you visit in November or December you can come back in January or February with a £1 ticket."
+      },
+      {
+        "nome": "Bath Abbey",
+        "testo": "The great Gothic church next to the baths, with Jacob's ladders carved on the façade, angels climbing towards heaven, and fan vaulting inside. The ticket includes the small underground museum.",
+        "come": "Ticket at the entrance; audio guide extra.",
+        "quando": "Weekday mornings; on Sundays it only opens in the early afternoon.",
+        "tempo": "45 minutes",
+        "costo": "Adults £9, about €10; audio guide £3.50 (2026)",
+        "orari": "Monday-Friday 10am-5.30pm, Saturday 10am-6pm, Sunday 1pm-3.30pm. Last entry 30 minutes before closing.",
+        "lat": 51.38139,
+        "lng": -2.35889,
+        "url": "https://www.bathabbey.org/"
+      },
+      {
+        "nome": "Bath Abbey Tower",
+        "testo": "A guided climb up the tower: 212 steps, the bell chamber, the passage behind the clock face and, at the top, the view over the rooftops and the baths.",
+        "come": "Only on the guided tour, booked on the abbey's website. Not accessible for visitors with reduced mobility.",
+        "quando": "On a clear day.",
+        "tempo": "1 hour",
+        "orari": "Monday to Saturday, several times a day, subject to availability.",
+        "lat": 51.38139,
+        "lng": -2.35889,
+        "url": "https://www.bathabbey.org/visiting/tours/"
+      },
+      {
+        "nome": "Royal Crescent and No. 1 Royal Crescent",
+        "testo": "A semicircle of thirty Georgian houses in front of a large lawn, the symbol of eighteenth-century Bath. At number 1 there is a museum with the interiors furnished as they were at the time, from the kitchens to the drawing rooms.",
+        "come": "On foot from the Circus, along Brock Street.",
+        "quando": "The crescent in the afternoon light; the museum at any time.",
+        "tempo": "1.5 hours with the museum",
+        "costo": "The crescent is free; No. 1 Royal Crescent £16, about €18 (2026)",
+        "orari": "No. 1: Tuesday-Sunday 10am-5.30pm, last entry 4.30pm; closed Mondays except school and bank holidays. Closed 16-28 November and 25-26 December 2026.",
+        "lat": 51.38694,
+        "lng": -2.36833,
+        "url": "https://no1royalcrescent.org.uk/"
+      },
+      {
+        "nome": "The Circus",
+        "testo": "A circle of Georgian houses split into three segments, with trees in the middle and façades decorated with columns and friezes. It is a few steps from the Royal Crescent.",
+        "come": "On foot from the centre, up Gay Street.",
+        "tempo": "15 minutes",
+        "costo": "Free",
+        "lat": 51.386,
+        "lng": -2.364
+      },
+      {
+        "nome": "Pulteney Bridge",
+        "testo": "An eighteenth-century bridge with shops built on it, like the Ponte Vecchio, and below it the stepped weir on the Avon. It is one of the best-known views of the city.",
+        "come": "On foot; the best view is from the riverbank or Parade Gardens.",
+        "quando": "At sunset.",
+        "tempo": "20 minutes",
+        "costo": "Free",
+        "lat": 51.38306,
+        "lng": -2.35778
+      },
+      {
+        "nome": "Thermae Bath Spa",
+        "testo": "The city's modern spa, with natural hot water from the same springs. The rooftop pool looks out over the abbey and the hills.",
+        "come": "Minimum age 16, with ID. The basic session lasts 2 hours, with towel and robe.",
+        "quando": "In the evening, with the rooftop pool lit up; Monday to Friday is cheaper.",
+        "tempo": "2 hours",
+        "costo": "2-hour session £44 Monday to Friday, £49 at weekends, about €51-56 (2026)",
+        "orari": "Daily 9am-9.30pm, pools until 9pm. Closed 25-26 December and 1 January.",
+        "lat": 51.38037,
+        "lng": -2.36157,
+        "url": "https://www.thermaebathspa.com/"
+      },
+      {
+        "nome": "Jane Austen Centre",
+        "testo": "An exhibition on the writer and the Bath of her novels, in a Georgian house on Gay Street. Upstairs is the Regency-style tea room.",
+        "come": "Ticket online.",
+        "tempo": "1 hour",
+        "costo": "£18 online, about €21 (2026)",
+        "orari": "From November: Sunday-Friday 10am-4.30pm, Saturday 10am-5.30pm. From 1 July to 21 September daily 9.45am-6pm. Last entry one hour before closing.",
+        "lat": 51.38404,
+        "lng": -2.36316,
+        "url": "https://janeausten.co.uk/pages/jane-austen-centre-in-bath"
+      },
+      {
+        "nome": "Holburne Museum",
+        "testo": "An art museum in a Georgian mansion at the end of Great Pulteney Street, at the entrance to Sydney Gardens. Portraits, porcelain and silver, with temporary exhibitions.",
+        "come": "On foot from Pulteney Bridge, along Great Pulteney Street.",
+        "tempo": "1-2 hours",
+        "costo": "Ticket £16.50, about €19 (2026); the collections are free on Wednesdays after 3pm",
+        "orari": "Daily 10am-5pm, Sundays and bank holidays 11am-5pm; last entry 4.30pm. Closed 24-26 December and 1 January.",
+        "lat": 51.38566,
+        "lng": -2.3511,
+        "url": "https://www.holburne.org/"
+      },
+      {
+        "nome": "Prior Park Landscape Garden",
+        "testo": "An eighteenth-century landscape garden on the hill south of the centre, with the Palladian bridge over the lake and a view of the city. It belongs to the National Trust.",
+        "come": "Uphill from the centre, on foot or by bus.",
+        "quando": "In good weather; in winter the lawns are muddy.",
+        "tempo": "1-2 hours",
+        "lat": 51.36721,
+        "lng": -2.34374,
+        "url": "https://www.nationaltrust.org.uk/"
+      },
+      {
+        "nome": "Assembly Rooms",
+        "testo": "The eighteenth-century ballroom and tea rooms where Georgian society met in the evening; they appear in Jane Austen's novels. They belong to the National Trust.",
+        "come": "On foot, behind the Circus.",
+        "tempo": "45 minutes",
+        "lat": 51.38611,
+        "lng": -2.36222
+      },
+      {
+        "nome": "Victoria Art Gallery",
+        "testo": "The city's public art gallery, in a Victorian building next to Pulteney Bridge, with British painting from the seventeenth century to today.",
+        "come": "On foot, at the end of the bridge.",
+        "tempo": "1 hour",
+        "lat": 51.38265,
+        "lng": -2.3586,
+        "url": "https://www.victoriagal.org.uk/"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Roman Baths at opening time",
+          "The abbey, and the tower if you like",
+          "Pulteney Bridge and lunch",
+          "The Circus and the Royal Crescent, with the museum at number 1",
+          "Thermae Bath Spa in the evening"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: as above",
+          "Day 2: Great Pulteney Street and the Holburne Museum, Jane Austen Centre, Assembly Rooms, Prior Park in the afternoon"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2: as above",
+          "Day 3: a trip to Castle Combe and Lacock, or to Stonehenge, or by train to Bristol"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centre, around the abbey",
+        "perChi": "those who want everything on foot",
+        "testo": "Between the baths, Milsom Street and Pulteney Bridge. Convenient and lively, but expensive and with little parking.",
+        "fascia": "€150-280"
+      },
+      {
+        "nome": "Royal Crescent and Lansdown",
+        "perChi": "those looking for Georgian houses",
+        "testo": "The upper part of Georgian Bath, quiet in the evening; it is a ten to fifteen minute walk up from the centre.",
+        "fascia": "€170-350"
+      },
+      {
+        "nome": "Near Bath Spa",
+        "perChi": "those arriving and leaving by train",
+        "testo": "Around the station and towards Widcombe: chain hotels and B&Bs, a few minutes from the baths.",
+        "fascia": "€110-200"
+      },
+      {
+        "nome": "Bathwick and Great Pulteney Street",
+        "perChi": "those who want calm while staying on foot",
+        "testo": "Across the bridge, with the Georgian avenue, the Holburne and Sydney Gardens.",
+        "fascia": "€130-250"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Castle Combe and Lacock",
+        "distanza": "about half an hour by car",
+        "come": "By car, heading north-east; buses are few.",
+        "testo": "Two timeless stone villages: Castle Combe with its bridge over the stream and market cross, Lacock with its National Trust abbey."
+      },
+      {
+        "nome": "Stonehenge",
+        "distanza": "about 1 hour by car",
+        "come": "By car, or on a coach tour from Bath.",
+        "testo": "The prehistoric stone circle, a UNESCO World Heritage Site, on Salisbury Plain. Visits are by timed ticket."
+      },
+      {
+        "nome": "Bristol",
+        "distanza": "about 15 minutes by train",
+        "come": "By train from Bath Spa to Bristol Temple Meads.",
+        "testo": "The harbour on the River Avon, the Clifton Suspension Bridge and the murals of Stokes Croft. A young city, quite different from Georgian Bath."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Bath?",
+        "risposta": "One day is enough for the Roman Baths, the abbey and the crescents. With two you can add Thermae, the museums and Prior Park at an easy pace."
+      },
+      {
+        "domanda": "Do you need to book the Roman Baths?",
+        "risposta": "It is worth it: online tickets are £2 cheaper and you choose your time slot. At opening time or in the last hour it is less crowded."
+      },
+      {
+        "domanda": "Can you bathe in the Roman Baths?",
+        "risposta": "No, the water in the Roman Baths cannot be touched. Bathing in the thermal water is at Thermae Bath Spa, from age 16."
+      },
+      {
+        "domanda": "Can you visit Bath as a day trip from London?",
+        "risposta": "Yes, the train from Paddington takes about an hour and a half. With a night, though, you see the baths at opening time and the city in the evening, without the crowds."
+      },
+      {
+        "domanda": "Is it worth arriving in Bath by car?",
+        "risposta": "Only if you are coming from the Cotswolds. In the centre traffic is slow and parking is expensive: better to return the car and walk."
+      },
+      {
+        "domanda": "How much does it cost to visit Bath?",
+        "risposta": "The Roman Baths start at £23.50 online, Thermae at £44, the abbey £9 (2026). The crescents, the Circus and Pulteney Bridge are free."
+      }
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['londra-cotswolds'],
     imageAlt: 'The terrace of the Roman Baths in Bath with the statues of the emperors, and the abbey tower behind',

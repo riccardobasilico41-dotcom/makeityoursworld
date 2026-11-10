@@ -875,12 +875,11 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Gili Trawangan for evening life, Gili Air for the balance between services and calm, Gili Meno for silence; in Lombok, Kuta is the southern base for surf and beaches, Senaru and Sembalun are the two villages from which the Rinjani treks start.",
     doveMangiare:
       "The dish of Lombok is ayam taliwang, grilled chicken in a chili sauce that shows no mercy. On the Gilis the evening market on Trawangan is a good, cheap place: the fish is displayed on ice, you choose it and wait for it to be grilled. In the seaside restaurants you pay mostly for the view.",
-    comeArrivare:
-      "Flight to Lombok International Airport (LOP), or fast ferry from Bali (Padang Bai or Sanur toward the Gilis).",
+    comeArrivare: "Lombok International Airport (LOP) is at Praya, in the south of the island, with flights from Bali in just under an hour and from Jakarta. From the airport Kuta Lombok is about half an hour by car, Senaru about 3 hours. From Bali, fast boats leave from Padang Bai (1.5-2 hours, 350,000-475,000 IDR one way, about €18-25) or from the pricier Sanur, and land on the Gilis or at Bangsal; in rough seas sailings are cancelled or delayed. From Bangsal the public boat to the Gilis takes about 30 minutes and costs little. Buy tickets from the company or from well-known platforms, not from sellers at the port.",
     comeSpostarsi: "Only cidomo (horse-drawn carts) or bicycle on the Gilis, where motor vehicles are banned; car or scooter on the rest of Lombok.",
     periodoMigliore:
       "the dry season; the Rinjani closes in the rainy season, dates are on the park's official E-Rinjani app",
-    costi: "generally cheaper than Bali",
+    costi: "Fast boat Padang Bai-Gili 350,000-475,000 IDR one way (about €18-25), bike hire on the Gilis about 50,000 IDR a day (about €2.50). Budget: about €25-35 a day with guesthouses, warungs and public boats. Mid-range: €60-90 with a bungalow with pool, restaurants and a couple of boat trips. High-end: over €150 with beachfront resorts and private transfers. The Rinjani trek is paid separately to the operator.",
     erroriDaEvitare: [
       "Underestimating the effort and altitude of the Rinjani trek",
       "Attempting the trek without a guide: it is mandatory by law",
@@ -894,7 +893,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Fast boat from Bali (Padang Bai) or local boat from Bangsal, the port on Lombok's north coast. On the Gilis you walk or take a cidomo.",
         quando: "In the dry season. Meno is the quietest at any time.",
         tempo: "2-3 days",
-        consiglio: "Choose the island by character: party on Trawangan, calm on Meno."
+        consiglio: "Choose the island by character: party on Trawangan, calm on Meno.",
+        costo: "Fast boat from Padang Bai 350,000-475,000 IDR one way, about €18-25 (2026); the public boat between the three islands costs a few euros. Bike hire about 50,000 IDR a day, about €2.50.",
+        lat: -8.35034,
+        lng: 116.03626,
       },
       {
         nome: "Snorkeling with turtles",
@@ -902,7 +904,8 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "You enter the water from the beach, with rented mask and fins.",
         quando: "In the morning, with calmer water.",
         tempo: "1-2 hours",
-        consiglio: "Do not touch or chase the turtles: keep your distance."
+        consiglio: "Do not touch or chase the turtles: keep your distance.",
+        costo: "Mask and fins for hire for a few euros; the shared half-day snorkeling trip around the three islands is cheap and is booked the evening before.",
       },
       {
         nome: "Trek to Gunung Rinjani",
@@ -910,7 +913,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "From Senaru or Sembalun, only with a licensed operator and a guide. Tickets are booked on the park's official E-Rinjani app (Android and iOS); the erinjani.id website now redirects to a private agency, not to the park. Multi-day packages with porters and tents.",
         quando: "In the dry season. With rain, bad weather or after accidents the park may close the trails: check the E-Rinjani app or the park's official channels before booking.",
         tempo: "several days",
-        consiglio: "The camp on the rim is windy and you sleep little: waking above the clouds with the lake below pays off everything."
+        consiglio: "The camp on the rim is windy and you sleep little: waking above the clouds with the lake below pays off everything.",
+        orari: "Closed every year from January to the end of March, and sometimes at other times after accidents or bad weather.",
+        lat: -8.41441,
+        lng: 116.45977,
       },
       {
         nome: "Senaru waterfalls",
@@ -918,7 +924,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "On foot from Senaru, with a guide.",
         quando: "In the morning.",
         tempo: "3 hours",
-        consiglio: "Wear shoes that can get wet."
+        consiglio: "Wear shoes that can get wet.",
+        lat: -8.30556,
+        lng: 116.40828,
       },
       {
         nome: "Southern beaches: Kuta, Tanjung Aan, Selong Belanak",
@@ -926,10 +934,121 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "By scooter or car from Kuta Lombok, which is close to the airport.",
         quando: "In the morning or at sunset.",
         tempo: "1 day",
-        consiglio: "Selong Belanak suits beginner surfers."
-      }
+        consiglio: "Selong Belanak suits beginner surfers.",
+        lat: -8.91667,
+        lng: 116.28333,
+      },
+      {
+        nome: "Gili Trawangan night market",
+        testo: "Every evening, near Trawangan's harbour, the stalls lay out fish, prawns and squid on ice: you choose, pay by weight and they grill it on the spot. Next to them there are satay, nasi campur and sweets. It is one of the cheapest ways to eat on the Gilis.",
+        come: "On foot from the harbour, on the main road along the east coast.",
+        quando: "From sunset; the best stalls run out of fish early.",
+        tempo: "1 hour",
+        consiglio: "Ask the price per kilo before choosing the fish.",
+      },
+      {
+        nome: "Nest, the underwater statues of Gili Meno",
+        testo: "A circle of life-size human figures sculpted by Jason deCaires Taylor and laid on the seabed a few metres deep, off Gili Meno. They can be seen with just mask and snorkel, and coral is colonising the sculptures.",
+        come: "Swimming from Gili Meno's west beach, or as a stop on the snorkeling trips around the three islands.",
+        quando: "With calm water and low tide, in the morning.",
+        tempo: "1 hour",
+        consiglio: "There is current: stay close to the boat or the buoy and don't touch the statues.",
+      },
+      {
+        nome: "Bukit Merese",
+        testo: "A grassy hill east of Kuta Lombok, overlooking the bays of Tanjung Aan and Gerupuk. It is the best-known viewpoint in the south, and it fills up at sunset.",
+        come: "By scooter or car from Kuta, about 15 minutes; then a short walk up.",
+        quando: "At sunset, or at dawn to have it almost empty.",
+        tempo: "1 hour",
+        lat: -8.91423,
+        lng: 116.31908,
+        consiglio: "Combine it with a swim at Tanjung Aan, just below.",
+      },
+      {
+        nome: "Mawun Beach",
+        testo: "A horseshoe bay between two headlands west of Kuta, with pale sand and water more sheltered than the nearby beaches. There are a few warungs and umbrellas for hire.",
+        come: "By scooter or car from Kuta, about 20 minutes on the coast road towards Selong Belanak.",
+        quando: "In the morning, before the wind.",
+        tempo: "Half a day",
+        lat: -8.90221,
+        lng: 116.23234,
+        consiglio: "It fits well with Selong Belanak on the same loop.",
+      },
+      {
+        nome: "Sade Sasak village",
+        testo: "A traditional village of the Sasak people, with bamboo and thatch houses and hat-shaped rice barns, the emblem of Lombok. Families still live here, weaving and selling fabrics. It is very touristy, but it helps understand the island's culture.",
+        come: "On the road between the airport and Kuta. You visit with a village guide, who is given a donation.",
+        quando: "In the morning or late afternoon.",
+        tempo: "1 hour",
+        lat: -8.63854,
+        lng: 116.30769,
+        consiglio: "There is no obligation to buy the fabrics: saying no is normal.",
+      },
+      {
+        nome: "Sukarara",
+        testo: "The village of songket weaving, fabrics with gold and silver threads made by hand on wooden looms. In the workshops you can watch the weaving and sometimes try it.",
+        come: "By car, in the centre of the island, often on the same loop as Sade.",
+        quando: "During the day, when they work at the looms.",
+        tempo: "45 minutes",
+        lat: -8.69408,
+        lng: 116.22522,
+        consiglio: "Fabric prices are negotiable.",
+      },
+      {
+        nome: "Pink Beach (Pantai Tangsi)",
+        testo: "A beach on the south-eastern tip of Lombok, where the sand turns pink from fragments of red coral. It is far from everything and less visited than the Kuta beaches.",
+        come: "By car from Kuta, about 1.5-2 hours, partly on dirt roads; or by boat from the nearby bays.",
+        quando: "The pink shows best with the sun high.",
+        tempo: "Full day with the journey",
+        lat: -8.85931,
+        lng: 116.58086,
+        consiglio: "Bring water and food: facilities are few.",
+      },
+      {
+        nome: "Benang Kelambu and Benang Stokel waterfalls",
+        testo: "Two waterfalls in the forest of the island's centre, on the southern slopes of Rinjani. Benang Kelambu falls in thin veils down a wall covered in vegetation, Benang Stokel has two higher drops.",
+        come: "By car from Kuta or Mataram, about 1.5 hours; from the car park a footpath, with local guides available.",
+        quando: "There is more water in the rainy season; fewer people in the morning.",
+        tempo: "Half a day",
+        lat: -8.53277,
+        lng: 116.33701,
+        consiglio: "Shoes that can get wet: the path is slippery.",
+      },
+      {
+        nome: "Taman Narmada",
+        testo: "A water garden built in the eighteenth century by the Balinese kings who ruled Lombok, with pools, pavilions and a temple. According to tradition the large pool reproduces Rinjani's crater lake.",
+        come: "East of Mataram, by car or taxi.",
+        quando: "On weekdays, when fewer local families visit.",
+        tempo: "1 hour",
+        lat: -8.59602,
+        lng: 116.20533,
+      },
+      {
+        nome: "Pura Lingsar",
+        testo: "An early eighteenth-century complex shared by Balinese Hindus and Sasak Muslims of the Wetu Telu tradition. Every year, at the Perang Topat festival, the two communities throw rice parcels at each other.",
+        come: "A few kilometres north-east of Mataram, combined with Narmada.",
+        quando: "During the day; sarong and sash, usually lent at the entrance.",
+        tempo: "45 minutes",
+        lat: -8.57581,
+        lng: 116.18014,
+      },
     ],
     programmi: [
+      {
+        titolo: "2 days: Gili",
+        tappe: [
+          "Day 1: boat from Bangsal or Bali, Gili Trawangan by bike, sunset on the west coast and dinner at the night market",
+          "Day 2: snorkeling trip around the three islands with the turtles and Nest at Gili Meno, afternoon on Gili Air",
+        ],
+      },
+      {
+        titolo: "3 days: southern Lombok",
+        tappe: [
+          "Day 1: Sade and Sukarara from the airport, evening in Kuta",
+          "Day 2: Mawun and Selong Belanak, sunset at Bukit Merese",
+          "Day 3: Tanjung Aan in the morning, then Pink Beach or the Benang Kelambu waterfalls",
+        ],
+      },
       {
         titolo: "6-8 days",
         tappe: [
@@ -937,39 +1056,42 @@ export const destinazioniIndonesia: Destinazione[] = [
           "Day 2-4: Rinjani trek",
           "Day 5: rest, Senaru waterfalls",
           "Day 6-7: Gili, snorkeling with turtles",
-          "Day 8: departure"
-        ]
+          "Day 8: departure",
+        ],
       },
       {
         titolo: "Without Rinjani",
         tappe: [
           "Day 1-2: Kuta Lombok and the southern beaches",
           "Day 3-5: Gili",
-          "Day 6: return"
-        ]
-      }
+          "Day 6: return",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Gili Trawangan",
         perChi: "anyone who wants nightlife",
-        testo: "Bars, restaurants and venues. Louder than many expect."
+        testo: "Bars, restaurants and venues. Louder than many expect.",
+        fascia: "€25-120",
       },
       {
         nome: "Gili Meno",
         perChi: "anyone seeking calm",
-        testo: "The quietest, with few services and lovely sunsets."
+        testo: "The quietest, with few services and lovely sunsets.",
+        fascia: "€30-120",
       },
       {
         nome: "Senaru or Sembalun",
         perChi: "anyone doing Rinjani",
-        testo: "Villages on the volcano's slopes with simple guesthouses."
+        testo: "Villages on the volcano's slopes with simple guesthouses.",
       },
       {
         nome: "Kuta Lombok",
         perChi: "anyone seeking beaches and surf",
-        testo: "A quiet town with cheap lodging."
-      }
+        testo: "A quiet town with cheap lodging.",
+        fascia: "€30-130",
+      },
     ],
     sapori: [
       {
@@ -994,6 +1116,52 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Trawangan in the evening is more party than it looks; Meno is the opposite. Choose one by character.",
       "Crossings from Bali: the sea can be rough; avoid booking overly tight transfers.",
       "On the Gilis, currents and boats: do not swim far from the shore."
+    ],
+    gite: [
+      {
+        nome: "South-western Gilis: Nanggu, Sudak and Kedis",
+        distanza: "about 2 hours by car from Kuta or Mataram, then 15-20 minutes by boat",
+        come: "Car to the harbour at Tawun or Sekotong, then a boat hired on the spot to tour the islands.",
+        testo: "Small islets with almost no facilities, shallow water and reef close to shore. They are the Gilis without the crowds of the three famous ones.",
+      },
+      {
+        nome: "Gili Kondo",
+        distanza: "about 2.5 hours by car from Kuta or Senaru, then a short boat ride",
+        come: "Car to the north-east coast (Sambelia), boat to hire at the jetty.",
+        testo: "A white-sand islet off the east coast, visited mostly by local tourists, with snorkeling on the surrounding reef.",
+      },
+      {
+        nome: "Tetebatu",
+        distanza: "about 1.5 hours by car from Kuta or Mataram",
+        come: "Car or scooter; on site, walks through the rice fields with a village guide.",
+        testo: "A farming village on the southern slopes of Rinjani, with terraced rice fields, plantations and forest waterfalls. Cooler air and a slow pace.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need for Lombok and the Gilis?",
+        risposta: "For the Gilis alone 2-3 days are enough. With southern Lombok it becomes 5-6, and the Rinjani trek adds 2-3 days plus one of rest.",
+      },
+      {
+        domanda: "Which Gili island should I choose?",
+        risposta: "Trawangan for nightlife, Gili Air for a balance of services and calm, Gili Meno for silence. You move between them in a few minutes on the public boat.",
+      },
+      {
+        domanda: "Do you need a guide for the Rinjani trek?",
+        risposta: "Yes, it is required by law, with a licensed operator and a booking on the park's official E-Rinjani app.",
+      },
+      {
+        domanda: "When is Rinjani closed?",
+        risposta: "Every year from January to the end of March, in the rainy season. It can also close at other times after accidents or bad weather: check the E-Rinjani app before booking.",
+      },
+      {
+        domanda: "How do you get from Bali to the Gilis?",
+        risposta: "By fast boat from Padang Bai (1.5-2 hours, 350,000-475,000 IDR one way) or from the pricier Sanur. In rough seas sailings are cancelled: better not to book a flight the same day.",
+      },
+      {
+        domanda: "Are there ATMs on the Gilis?",
+        risposta: "A few, mostly on Trawangan, and they don't always work. Arrive with enough cash, especially for Gili Meno and Gili Air.",
+      },
     ],
     esperienzeSlugs: ['trekking-gunung-rinjani'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'indonesia-isola-per-isola'],
@@ -1028,10 +1196,10 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Labuan Bajo is everyone's base, with a wide choice of hostels and resorts on the harbor. Otherwise you sleep on board, on boat tours of two or more nights, which are also the only way to be at Padar at dawn.",
     doveMangiare:
       "In Labuan Bajo you eat fish, and well: the evening market on the waterfront displays the day's catch and grills it on the spot, at prices much lower than the restaurants with a harbor view a bit farther along. On board the crew cooks: simple dishes of rice, fish and vegetables, but good.",
-    comeArrivare: "Flight to Labuan Bajo (Flores), starting point for all tours to the park.",
+    comeArrivare: "Fly to Labuan Bajo (Komodo airport, LBJ), with direct flights from Bali in about 1 hour 15 minutes and from Jakarta; flights from Lombok are less frequent. The airport is a few minutes by car from the harbour and the hotels in town. Boats to the park leave Labuan Bajo harbour in the morning; to be at Padar at dawn you leave before 5 or sleep on board. Coming from the east, you drive the Trans-Flores road with a car and driver, about 9-10 hours from Bajawa with stops.",
     comeSpostarsi: "Only by boat: organized tours of one or more days, or liveaboards.",
     periodoMigliore: "April-December, dry season with calmer seas",
-    costi: "variable depending on the length of the boat tour; multi-day liveaboards cost more",
+    costi: "Park entry 250,000 IDR per person for foreigners (about €13), usually handled by the operator; diving tax 25,000 IDR per activity. Budget: about €40-60 a day with a guesthouse, the night market and a shared day tour. Mid-range: €100-150 with a hotel in town and a speedboat, or two nights on a shared boat. High-end: over €250 with a private liveaboard or a beach resort.",
     erroriDaEvitare: [
       "Approaching the dragons without a ranger or a guide: they are dangerous predators",
       "Underestimating the rough sea and strong currents between the islands",
@@ -1046,7 +1214,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         quando: "In the morning, in the cooler hours.",
         tempo: "half a day",
         url: "https://www.komodonationalpark.org/",
-        consiglio: "Ask explicitly for Rinca in the tour: it is wilder than Komodo island."
+        consiglio: "Ask explicitly for Rinca in the tour: it is wilder than Komodo island.",
+        costo: "Park entry 250,000 IDR per person for foreigners, about €13 (2026), usually included or handled by the tour operator; a ranger is mandatory.",
+        lat: -8.65927,
+        lng: 119.7256,
       },
       {
         nome: "Komodo Island and Loh Liang",
@@ -1055,7 +1226,10 @@ export const destinazioniIndonesia: Destinazione[] = [
         quando: "In the morning.",
         tempo: "half a day",
         url: "https://www.komodonationalpark.org/",
-        consiglio: "Never approach without the ranger and never leave the trail."
+        consiglio: "Never approach without the ranger and never leave the trail.",
+        costo: "Park entry 250,000 IDR per person for foreigners, about €13 (2026); a ranger is mandatory.",
+        lat: -8.56831,
+        lng: 119.5069,
       },
       {
         nome: "Padar Island",
@@ -1063,7 +1237,11 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "By boat from Labuan Bajo with a tour, often as the first stop of the morning.",
         quando: "At dawn, very early: soon after, the groups arrive, the queue on the trail is constant and the heat kicks in.",
         tempo: "1.5 hours",
-        consiglio: "Going up at first light is the only way to have the view without the queue."
+        consiglio: "Going up at first light is the only way to have the view without the queue.",
+        costo: "Included in the park ticket. Since 2026 there is a daily visitor cap and Padar slots are booked: confirm them with the operator.",
+        lat: -8.6627,
+        lng: 119.55574,
+        url: "https://www.komodonationalpark.org/",
       },
       {
         nome: "Pink Beach",
@@ -1071,7 +1249,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "By boat as a stop on the tour.",
         quando: "Morning or early afternoon.",
         tempo: "1-2 hours",
-        consiglio: "Snorkel: the seabed is more interesting than the beach."
+        consiglio: "Snorkel: the seabed is more interesting than the beach.",
+        lat: -8.60137,
+        lng: 119.52052,
       },
       {
         nome: "Kanawa, Kelor and Manta Point",
@@ -1079,8 +1259,55 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "By boat on one-day or multi-day tours.",
         quando: "In the months with the calmest sea; ask the crew.",
         tempo: "half a day",
-        consiglio: "Strong currents between islands: listen to the crew's instructions."
-      }
+        consiglio: "Strong currents between islands: listen to the crew's instructions.",
+        costo: "For diving the park tax is separate: 25,000 IDR per activity, about €1.30 (2026).",
+        lat: -8.4948,
+        lng: 119.75884,
+      },
+      {
+        nome: "Taka Makassar",
+        testo: "A strip of white sand that surfaces at low tide in the middle of the sea, near Manta Point. The water around is shallow and turquoise, and boats stop for a swim and snorkeling between stops.",
+        come: "By boat, as a stop on one-day or multi-day tours.",
+        quando: "At low tide, when the sand is exposed; the crew decides the time.",
+        tempo: "1 hour",
+        consiglio: "Sunscreen and a T-shirt: there is no shade.",
+      },
+      {
+        nome: "Gili Lawa Darat",
+        testo: "A hilly island in the north of the park, with a grassy ridge overlooking the bays and islands around. It is one of the finest viewpoint climbs after Padar, and usually less crowded.",
+        come: "By boat, on multi-day tours that cover the north of the park; a steep walk up a footpath.",
+        quando: "At sunset or dawn, sleeping on board.",
+        tempo: "1-1.5 hours",
+        lat: -8.46933,
+        lng: 119.55799,
+        consiglio: "Closed shoes: the ground is dry and slippery.",
+      },
+      {
+        nome: "Kalong Island",
+        testo: "A mangrove island from which thousands of flying foxes, the big fruit bats, pour out at sunset and cross the sky towards the nearby islands. You don't land: you watch from the anchored boat.",
+        come: "By boat, on tours with a night on board, which anchor here in the evening.",
+        quando: "At sunset.",
+        tempo: "1 hour",
+        consiglio: "It is one of the reasons to choose at least one night on a boat.",
+      },
+      {
+        nome: "Batu Cermin cave",
+        testo: "A limestone cave a few kilometres from the centre of Labuan Bajo. The name, «mirror stone», comes from the light that at certain hours enters through a crack and reflects on the walls. Inside there are marine fossils in the rock.",
+        come: "By scooter or taxi from the centre; visited with a local guide and a helmet.",
+        quando: "Around midday, when the light enters the cave.",
+        tempo: "1 hour",
+        lat: -8.48374,
+        lng: 119.89796,
+        consiglio: "A good half day on land before or after the boat tours.",
+      },
+      {
+        nome: "Kampung Ujung night market",
+        testo: "On Labuan Bajo's seafront, in the evening, stalls display the catch of the day and grill it on the spot. You eat at outdoor tables, at prices far lower than the restaurants overlooking the harbour.",
+        come: "On foot from the centre, on the seafront.",
+        quando: "From sunset.",
+        tempo: "1 hour",
+        consiglio: "Agree the price of the fish before it goes on the grill.",
+      },
     ],
     programmi: [
       {
@@ -1090,29 +1317,42 @@ export const destinazioniIndonesia: Destinazione[] = [
           "Morning: Pink Beach and snorkeling",
           "Lunch on board",
           "Afternoon: Rinca or Komodo with the rangers",
-          "Sunset: return to Labuan Bajo"
-        ]
+          "Sunset: return to Labuan Bajo",
+        ],
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: day tour with Padar at dawn, Pink Beach and Komodo; evening at the Kampung Ujung market",
+          "Day 2: snorkeling at Kanawa and Kelor in the morning, Batu Cermin cave in the afternoon",
+        ],
       },
       {
         titolo: "3 days (boat)",
         tappe: [
           "Day 1: Kanawa, Rinca, night on board",
           "Day 2: Padar at dawn, Pink Beach, Manta Point",
-          "Day 3: Komodo island and return"
-        ]
-      }
+          "Day 3: Komodo island and return",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Labuan Bajo",
         perChi: "anyone doing day tours",
-        testo: "A port with hotels of every range, seaside restaurants and the evening fish market. Base for all tours."
+        testo: "A port with hotels of every range, seaside restaurants and the evening fish market. Base for all tours.",
+      },
+      {
+        nome: "Beaches outside town (Waecicu, Pede)",
+        perChi: "anyone wanting a beach resort",
+        testo: "Resorts and hotels with pools on the coast north and south of the centre. Quieter, but you need a taxi for the harbour and restaurants.",
+        fascia: "€100-300",
       },
       {
         nome: "On board (liveaboard)",
         perChi: "anyone wanting to see more",
-        testo: "Sleeping on the boat lets you be at Padar at dawn, before the groups. Costs more."
-      }
+        testo: "Sleeping on the boat lets you be at Padar at dawn, before the groups. Costs more.",
+      },
     ],
     sapori: [
       {
@@ -1133,6 +1373,46 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Rough sea and strong currents between islands: listen to the crew and do not swim alone.",
       "At Padar the queue on the trail builds right after dawn: go up at first light.",
       "Check the official park fees and permits before booking."
+    ],
+    gite: [
+      {
+        nome: "Cunca Wulang waterfall",
+        distanza: "about 1 hour by car from Labuan Bajo",
+        come: "Car with driver or scooter, then a forest walk with a village guide.",
+        testo: "A waterfall in a rock canyon with natural pools for swimming. It is the best land trip around Labuan Bajo.",
+      },
+      {
+        nome: "Wae Rebo",
+        distanza: "2 days: road to Denge, then a 2.5-3 hour walk up",
+        come: "Car with driver to Denge, then the walk up; you sleep in the village houses.",
+        testo: "A Manggarai village with traditional conical houses, in a valley among the mountains. Not a day trip, but one of the finest experiences on Flores.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need for Komodo?",
+        risposta: "A day tour covers Padar, Pink Beach and the dragons. With 2-3 days, ideally with a night on a boat, you add snorkeling, Manta Point and Padar at dawn without rushing.",
+      },
+      {
+        domanda: "Day tour or a boat with a night on board?",
+        risposta: "The day tour is cheaper but rushed. Sleeping on board lets you climb Padar at dawn, before the groups, and see Kalong's flying foxes at sunset.",
+      },
+      {
+        domanda: "How much is the Komodo National Park entry fee?",
+        risposta: "For foreigners 250,000 IDR per person, about €13, usually handled by the operator; diving has a separate tax. Fees have changed several times: confirm them before booking.",
+      },
+      {
+        domanda: "Is there a visitor limit at Komodo?",
+        risposta: "Since 1 April 2026 the park admits at most 1,000 visitors a day, with the tightest limits on Padar, Rinca and Komodo. In high season book the tour well ahead.",
+      },
+      {
+        domanda: "Is it dangerous to see Komodo dragons?",
+        risposta: "They are predators, but visits are only with a ranger and on the trails. The risk is low if you follow instructions and stay with the group.",
+      },
+      {
+        domanda: "When is the best time for Komodo?",
+        risposta: "From April to December, in the dry season, when the sea is calmer. Mantas are never guaranteed.",
+      },
     ],
     esperienzeSlugs: ['trekking-draghi-komodo'],
     tripSlugs: ['indonesia-itinerario', 'bali-nusa-komodo', 'indonesia-isola-per-isola'],

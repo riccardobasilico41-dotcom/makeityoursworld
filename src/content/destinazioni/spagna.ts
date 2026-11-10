@@ -675,11 +675,11 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: 'La Judería per la vicinanza alla Mezquita; il centro moderno intorno a Plaza de las Tendillas per prezzi più contenuti.',
     doveMangiare: 'Il salmorejo è nato qui, più denso del gazpacho sivigliano; il rabo de toro (coda di toro brasata) e il flamenquín (involtino di prosciutto e formaggio fritto) sono i piatti simbolo della cucina cordovana.',
-    comeArrivare: 'Treno AVE da Madrid in circa 1h40-2h, da Siviglia in circa 45 minuti, da Málaga in circa 1h: è uno degli snodi meglio collegati dell\'alta velocità andalusa.',
+    comeArrivare: "Córdoba non ha voli di linea: si atterra a Siviglia o a Málaga. Da Siviglia San Pablo il bus EA (circa 4 €, 35 minuti) porta alla stazione di Santa Justa, poi l'AVE arriva a Córdoba in circa 45 minuti. Da Málaga il treno Cercanías C1 (circa 2 €, 12 minuti) va a María Zambrano, poi c'è circa un'ora di alta velocità. Da Madrid Atocha l'AVE impiega 1h40-2h, da Granada circa 1h30. Dalla stazione di Córdoba al centro storico ci sono una ventina di minuti a piedi, o un taxi breve.",
     comeSpostarsi: 'Il centro storico è piccolo e si gira tutto a piedi.',
     periodoMigliore:
       'marzo-maggio (col Festival dei Patios a maggio) e ottobre. Córdoba è, con Siviglia, la città più calda di Spagna: da metà luglio a fine agosto molte attrazioni riducono gli orari per il caldo, che qui ha toccato il record spagnolo di 47,6°C nell\'agosto 2021.',
-    costi: 'Mezquita-Catedral circa 15€ (visita notturna 18€; gratuita nei giorni feriani 8:30-9:30); Alcázar de los Reyes Cristianos circa 7€.',
+    costi: "Mezquita-Catedral 15 € (gratis dal lunedì al sabato 8:30-9:30), Torre campanario 4 €, visita notturna 25 €; Alcázar circa 7 €; Palacio de Viana 8,50-14 €; Torre della Calahorra 4,50 €; Sinagoga gratuita. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 50-70 €, medio 90-130 €, alto oltre 200 €.",
     erroriDaEvitare: [
       'Programmare una visita a mezzogiorno in piena estate: tra metà luglio e fine agosto va evitato ogni spostamento nelle ore centrali',
       'Trattare Córdoba come una mezza giornata frettolosa tra Siviglia e Granada: la sola Mezquita merita almeno 2 ore con calma',
@@ -692,9 +692,12 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Ingresso dalla Puerta del Perdón o dal Patio de los Naranjos, a due passi dal fiume. Si visita da soli, con audioguida a noleggio; la cattedrale al centro si attraversa nello stesso percorso.",
         "quando": "Dal lunedì al sabato, dalle 8:30 alle 9:30, l'ingresso è gratuito (accesso fino alle 9:20, niente gruppi); poi si paga. Gli orari cambiano per stagione e funzioni: controllare il sito ufficiale.",
         "tempo": "1 ora e mezza-2 ore",
-        "costo": "15 euro (2026)",
+        "costo": "15 euro; visita notturna «El Alma de Córdoba» 25 euro (sito ufficiale, 2026)",
         "url": "https://mezquita-catedraldecordoba.es/",
-        "consiglio": "La fascia gratuita del mattino è la più bella: poca gente e luce radente nei corridoi. Si può anche pagare e entrare dopo, ma il silenzio si perde."
+        "consiglio": "La fascia gratuita del mattino è la più bella: poca gente e luce radente nei corridoi. Si può anche pagare e entrare dopo, ma il silenzio si perde.",
+        "orari": "Variano per data e funzioni religiose: a novembre 2026, per esempio, 10-18, con la biglietteria che chiude 30 minuti prima. Ingresso libero dal lunedì al sabato 8:30-9:30. Calendario giornaliero sul sito ufficiale.",
+        "lat": 37.87887,
+        "lng": -4.77934
       },
       {
         "nome": "Judería e Calleja de las Flores",
@@ -702,7 +705,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A piedi, con partenza dalla Puerta de Almodóvar. Non c'è un percorso obbligato.",
         "quando": "Al mattino presto o a fine pomeriggio. A mezzogiorno d'estate i vicoli trattengono il calore.",
         "tempo": "1-2 ore",
-        "consiglio": "Entrare nei patii aperti: spesso la porta è lasciata socchiusa ed è consentito guardare dall'ingresso."
+        "consiglio": "Entrare nei patii aperti: spesso la porta è lasciata socchiusa ed è consentito guardare dall'ingresso.",
+        "costo": "libero",
+        "lat": 37.87899,
+        "lng": -4.7817
       },
       {
         "nome": "Alcázar de los Reyes Cristianos",
@@ -710,7 +716,12 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A piedi dalla Mezquita, verso il fiume. Si sale sulle torri per la vista sulla città.",
         "quando": "Verificare orari e giorni di chiusura sul sito del monumento. D'estate meglio al mattino.",
         "tempo": "1-1 ora e mezza",
-        "consiglio": "I giardini sono l'unica ombra in cui sedersi dopo la Mezquita."
+        "consiglio": "I giardini sono l'unica ombra in cui sedersi dopo la Mezquita.",
+        "costo": "circa 7 euro (2026)",
+        "orari": "Chiuso il lunedì; gli orari cambiano per stagione e d'estate si riducono per il caldo.",
+        "lat": 37.8766,
+        "lng": -4.78138,
+        "url": "https://alcazardelosreyescristianos.cordoba.es/"
       },
       {
         "nome": "Ponte Romano e Torre della Calahorra",
@@ -718,7 +729,12 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A piedi, a due passi dalla Mezquita. Il ponte è solo pedonale.",
         "quando": "Al tramonto o dopo il buio, quando la Mezquita è illuminata.",
         "tempo": "30-45 minuti",
-        "consiglio": "Attraversare il ponte e fare la foto dalla sponda opposta, non dal ponte stesso."
+        "consiglio": "Attraversare il ponte e fare la foto dalla sponda opposta, non dal ponte stesso.",
+        "costo": "ponte libero; Torre della Calahorra 4,50 euro con terrazza e audioguida (sito ufficiale, 2026)",
+        "orari": "Torre: novembre-febbraio 10-18; ottobre e marzo-maggio 10-19; giugno-settembre 10-14 e 16:30-20:30.",
+        "lat": 37.87663,
+        "lng": -4.77788,
+        "url": "https://www.torrecalahorra.es/"
       },
       {
         "nome": "Patios de Córdoba",
@@ -726,27 +742,145 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A piedi nel quartiere di San Basilio e nella Judería. Alcuni patii pubblici si visitano tutto l'anno.",
         "quando": "Festival ai primi di maggio, in due settimane circa. Le date e gli orari si controllano sul sito del turismo cittadino.",
         "tempo": "1-2 ore",
-        "consiglio": "San Basilio, a sud-ovest, ha i patii più curati e meno gente della Judería."
+        "consiglio": "San Basilio, a sud-ovest, ha i patii più curati e meno gente della Judería.",
+        "lat": 37.87599,
+        "lng": -4.78429
+      },
+      {
+        "nome": "Torre campanario della Mezquita",
+        "testo": "Il campanile barocco costruito tra Cinque e Seicento intorno al vecchio minareto omayyade, che è rimasto chiuso dentro la muratura. Dall'alto si vedono il Patio de los Naranjos, i tetti della Judería e il Guadalquivir.",
+        "come": "Si sale a turni con un numero limitato di persone, con un biglietto a parte rispetto alla Mezquita. Ingresso dal Patio de los Naranjos.",
+        "quando": "Il primo turno del mattino o l'ultimo del pomeriggio, con la luce radente sui tetti.",
+        "tempo": "30 minuti",
+        "costo": "4 euro (sito ufficiale, 2026)",
+        "orari": "Turni ogni 30 minuti; a novembre 2026 dalle 9:30 alle 18:30.",
+        "lat": 37.87955,
+        "lng": -4.78032,
+        "url": "https://tickets.mezquita-catedraldecordoba.es/es/458-web-individual/2334-torre-campanario",
+        "consiglio": "Prenotare online insieme alla Mezquita: i turni sono piccoli e finiscono prima dei biglietti per la sala a colonne."
+      },
+      {
+        "nome": "Sinagoga",
+        "testo": "Una piccola sala di preghiera completata nel 1315, con stucchi di gusto mudéjar e iscrizioni in ebraico sulle pareti. È una delle poche sinagoghe medievali rimaste in Spagna e sta nel cuore della Judería.",
+        "come": "A piedi in Calle Judíos, a cinque minuti dalla Mezquita. Si visita da soli; prenotazione solo per i gruppi.",
+        "quando": "In mattinata, prima che arrivino i gruppi guidati.",
+        "tempo": "20-30 minuti",
+        "costo": "gratuito",
+        "orari": "Martedì-domenica 9-15, ultimo ingresso 10 minuti prima; lunedì chiuso, salvo festivi.",
+        "lat": 37.87979,
+        "lng": -4.78344,
+        "url": "https://www.juntadeandalucia.es/cultura/enclaves/enclave-monumental-sinagoga-de-cordoba"
+      },
+      {
+        "nome": "Medina Azahara (Madinat al-Zahra)",
+        "testo": "La città palatina fondata da Abd al-Rahman III nel X secolo ai piedi della Sierra Morena, abbandonata e saccheggiata dopo pochi decenni. Si visitano il museo e gli scavi, con il salone di ricevimento decorato e le terrazze sulla piana. È patrimonio UNESCO dal 2018.",
+        "come": "Circa 8 km a ovest del centro. In auto si parcheggia al museo; da lì una navetta porta agli scavi. Dal centro ci sono anche bus turistici e visite guidate.",
+        "quando": "La mattina: gli scavi sono quasi senza ombra. D'estate ci sono aperture serali.",
+        "tempo": "mezza giornata",
+        "costo": "gratuito per i cittadini dell'Unione Europea, 1,50 euro per gli altri (Junta de Andalucía)",
+        "orari": "Dal 21 settembre al 20 marzo: martedì-sabato 9-18, domenica e festivi 9-15; lunedì chiuso. D'estate orari diversi: controllare il sito.",
+        "lat": 37.88608,
+        "lng": -4.86779,
+        "url": "https://www.museosdeandalucia.es/web/conjuntoarqueologicomadinatalzahra",
+        "consiglio": "Vedere prima il museo, con il plastico della città: aiuta a leggere gli scavi, che da soli sono difficili da capire."
+      },
+      {
+        "nome": "Palacio de Viana",
+        "testo": "Un palazzo nobiliare con dodici patii e un giardino, ognuno con piante e fontane diverse. È il modo per vedere i patii di Córdoba in qualsiasi mese, non solo durante il festival di maggio.",
+        "come": "A piedi, circa 20 minuti dalla Mezquita, nel quartiere di Santa Marina. Si possono vedere solo i patii o aggiungere la visita guidata degli interni.",
+        "quando": "In primavera, con i fiori; la mattina c'è più luce nei cortili.",
+        "tempo": "1-1 ora e mezza",
+        "costo": "solo patii 8,50 euro; patii e interni con guida 14 euro (sito ufficiale)",
+        "orari": "Settembre-dicembre: martedì-sabato 10-19, domenica e festivi 10-15; luglio e agosto: martedì-domenica 9-15. Lunedì chiuso.",
+        "lat": 37.88867,
+        "lng": -4.77432,
+        "url": "https://www.palaciodeviana.com/"
+      },
+      {
+        "nome": "Baños del Alcázar Califal",
+        "testo": "I bagni arabi del X secolo che facevano parte dell'antico alcázar dei califfi. Si attraversano le sale fredda, tiepida e calda, con le volte e i lucernari a forma di stella.",
+        "come": "Nel Campo Santo de los Mártires, a pochi passi dall'Alcázar de los Reyes Cristianos.",
+        "quando": "Insieme all'Alcázar, la mattina.",
+        "tempo": "30-45 minuti",
+        "lat": 37.87791,
+        "lng": -4.78228
+      },
+      {
+        "nome": "Templo romano",
+        "testo": "Le colonne di un grande tempio del I secolo d.C., venuto alla luce negli anni Cinquanta durante i lavori per ampliare il municipio e in parte rialzato. Ricorda che Córdoba era la capitale della Betica romana.",
+        "come": "In Calle Claudio Marcelo, accanto al municipio. Si vede dalla strada, dietro una recinzione.",
+        "quando": "Di sera, quando è illuminato, passando verso la Corredera.",
+        "tempo": "15 minuti",
+        "costo": "libero, si vede dalla strada",
+        "lat": 37.88476,
+        "lng": -4.77639
+      },
+      {
+        "nome": "Plaza de la Corredera",
+        "testo": "Una grande piazza rettangolare porticata del Seicento, chiusa su tutti i lati da case con i balconi. Un tempo ci si tenevano mercati e corride; oggi è piena di tavolini all'aperto.",
+        "come": "A piedi, 10 minuti dalla Mezquita verso nord-est.",
+        "quando": "Al tramonto o a cena.",
+        "tempo": "30 minuti",
+        "costo": "libero",
+        "lat": 37.88354,
+        "lng": -4.77443
+      },
+      {
+        "nome": "Plaza del Potro",
+        "testo": "Una piccola piazza con la fontana del Cinquecento sormontata da un puledro, citata da Cervantes nel Don Chisciotte. Ci si affacciano la Posada del Potro, una vecchia locanda, e l'edificio che ospita il Museo di Belle Arti e il Museo Julio Romero de Torres, il pittore delle donne cordovane.",
+        "come": "A piedi, 10 minuti dalla Mezquita seguendo il fiume verso est.",
+        "quando": "Nel tardo pomeriggio.",
+        "tempo": "30 minuti-1 ora con un museo",
+        "lat": 37.88101,
+        "lng": -4.77482
+      },
+      {
+        "nome": "Chiese fernandine",
+        "testo": "Le chiese fatte costruire dopo la conquista cristiana del 1236, in un gotico semplice con rosoni e dettagli mudéjar, nei quartieri a nord del centro. San Lorenzo, Santa Marina e San Pablo sono le più note.",
+        "come": "A piedi, con un giro di un paio d'ore tra Santa Marina e San Lorenzo. La diocesi vende un biglietto per il percorso delle chiese sul sito della Mezquita.",
+        "quando": "Il pomeriggio, dopo il Palacio de Viana, che sta nello stesso quartiere.",
+        "tempo": "2 ore",
+        "lat": 37.88856,
+        "lng": -4.76889,
+        "url": "https://tickets.mezquita-catedraldecordoba.es/es/458-web-individual/2337-ruta-de-las-iglesias-fernandinas"
+      },
+      {
+        "nome": "Caballerizas Reales",
+        "testo": "Le scuderie reali fondate da Filippo II nel 1570 per allevare il cavallo andaluso. La sera ospitano uno spettacolo equestre con musica e flamenco.",
+        "come": "A piedi, accanto all'Alcázar de los Reyes Cristianos, nel quartiere di San Basilio.",
+        "quando": "La sera, per lo spettacolo; di giorno si vedono le stalle e il maneggio.",
+        "tempo": "1 ora e mezza con lo spettacolo",
+        "lat": 37.87654,
+        "lng": -4.7832
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: Mezquita nella fascia gratuita del mattino, entrando prima delle 9:20.",
-          "Mattina: Judería e Calleja de las Flores.",
-          "Tarda mattinata: Alcázar de los Reyes Cristianos.",
-          "Primo pomeriggio: Pranzo con salmorejo e rabo de toro, poi pausa nelle ore calde.",
-          "Tardo pomeriggio: Ponte Romano e riva opposta, quando la luce è migliore."
+          "Mattina: Mezquita nella fascia gratuita, entrando prima delle 9:20, poi la Torre campanario con il turno prenotato",
+          "Judería, Calleja de las Flores e Sinagoga",
+          "Tarda mattinata: Alcázar de los Reyes Cristianos e Baños del Alcázar Califal",
+          "Primo pomeriggio: pranzo con salmorejo e rabo de toro, poi pausa nelle ore calde",
+          "Tardo pomeriggio: Ponte Romano e Torre della Calahorra, tramonto dalla riva sud"
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: come il programma di un giorno, con più tempo per i vicoli.",
-          "Giorno 2, mattina: patii di San Basilio (o il percorso del festival a maggio).",
-          "Giorno 2, pomeriggio: Medina Azahara, la città califfale a pochi chilometri, con il bus del sito.",
-          "Giorno 2, sera: cena di tapas nel centro."
+          "Giorno 1: come il programma di un giorno",
+          "Giorno 2, mattina: Medina Azahara, prima il museo e poi gli scavi",
+          "Giorno 2, pomeriggio: Palacio de Viana e le chiese fernandine di Santa Marina e San Lorenzo",
+          "Giorno 2, sera: Templo romano, Plaza de la Corredera e tapas"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1 e 2: come sopra",
+          "Giorno 3, mattina: patii di San Basilio e Caballerizas Reales",
+          "Giorno 3, pomeriggio: Plaza del Potro e Museo Julio Romero de Torres, oppure il castello di Almodóvar del Río",
+          "Giorno 3, sera: spettacolo equestre alle Caballerizas o visita notturna della Mezquita"
         ]
       }
     ],
@@ -754,12 +888,78 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Judería",
         "perChi": "Chi vuole stare vicino alla Mezquita",
-        "testo": "Camere in case storiche con patio, a un minuto dal monumento. Di notte è silenzioso, ma ci sono più turisti e ristoranti cari. Il traffico non arriva fin dentro i vicoli."
+        "testo": "Camere in case storiche con patio, a un minuto dal monumento. Di notte è silenzioso, ma ci sono più turisti e ristoranti cari. Il traffico non arriva fin dentro i vicoli.",
+        "fascia": "80-150 €"
       },
       {
         "nome": "Centro intorno a Plaza de las Tendillas",
         "perChi": "Chi cerca prezzi più bassi e vita serale",
-        "testo": "Zona commerciale e di bar, raggiungibile a piedi dalla Mezquita. Le camere sul lato strada possono essere rumorose nel fine settimana."
+        "testo": "Zona commerciale e di bar, raggiungibile a piedi dalla Mezquita. Le camere sul lato strada possono essere rumorose nel fine settimana.",
+        "fascia": "60-110 €"
+      },
+      {
+        "nome": "San Basilio e Alcázar Viejo",
+        "perChi": "chi cerca calma a due passi dal centro",
+        "testo": "Il quartiere dei patii più curati, tra l'Alcázar e le mura. Strade tranquille la sera e case con cortile trasformate in piccoli alberghi; la Mezquita è a 10 minuti a piedi.",
+        "fascia": "60-110 €"
+      },
+      {
+        "nome": "Santa Marina e San Pedro",
+        "perChi": "chi vuole spendere meno e vedere la Córdoba di quartiere",
+        "testo": "La parte nord e est del centro storico, con le chiese fernandine, il Palacio de Viana e bar frequentati dai cordovani. Più lontano dalla Mezquita, da 15 a 25 minuti a piedi.",
+        "fascia": "50-100 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Siviglia",
+        "distanza": "45 minuti in AVE",
+        "come": "Treni ad alta velocità frequenti da Córdoba a Santa Justa, da prenotare su Renfe o sulle compagnie private.",
+        "testo": "La cattedrale con la Giralda, il Real Alcázar e Triana. Fattibile in giornata partendo presto, ma merita almeno una notte."
+      },
+      {
+        "nome": "Granada",
+        "distanza": "circa 1 ora e mezza in treno",
+        "come": "Treni diretti ad alta velocità da Córdoba; l'Alhambra va prenotata sul sito ufficiale.",
+        "testo": "Ha senso in giornata solo con il biglietto dell'Alhambra già in mano; altrimenti meglio dormirci."
+      },
+      {
+        "nome": "Castello di Almodóvar del Río",
+        "distanza": "circa 25 km",
+        "come": "In auto lungo il Guadalquivir verso ovest, o con le escursioni organizzate da Córdoba.",
+        "testo": "Un castello di origine araba ristrutturato all'inizio del Novecento, in cima a una collina sopra il fiume e gli uliveti. Una mezza giornata facile."
+      },
+      {
+        "nome": "Montilla e le cantine del Montilla-Moriles",
+        "distanza": "circa 45 km",
+        "come": "In auto verso sud; le cantine si visitano su prenotazione.",
+        "testo": "La zona dei vini fortificati che accompagnano la cucina cordovana, con cantine e degustazioni tra i vigneti della Campiña."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Córdoba?",
+        "risposta": "Un giorno basta per Mezquita, Judería, Alcázar e Ponte Romano. Con due si aggiungono Medina Azahara, il Palacio de Viana e le chiese fernandine senza correre."
+      },
+      {
+        "domanda": "Bisogna prenotare la Mezquita?",
+        "risposta": "Non è obbligatorio, ma conviene comprare online, soprattutto per la Torre campanario, che ha turni piccoli, e per la visita notturna."
+      },
+      {
+        "domanda": "Quando si entra gratis alla Mezquita?",
+        "risposta": "Dal lunedì al sabato dalle 8:30 alle 9:30, con accesso fino alle 9:20 circa e senza gruppi, salvo eventi straordinari. Dopo si paga il biglietto da 15 euro."
+      },
+      {
+        "domanda": "Si può visitare Córdoba in giornata da Siviglia?",
+        "risposta": "Sì: l'AVE impiega circa 45 minuti. Partendo presto si vedono Mezquita, Judería e Alcázar, ma Medina Azahara resta fuori."
+      },
+      {
+        "domanda": "Quando c'è il Festival dei Patios?",
+        "risposta": "Nella prima metà di maggio, per circa due settimane. L'ingresso nella maggior parte delle case è libero, e in quei giorni alloggi e treni vanno prenotati con anticipo."
+      },
+      {
+        "domanda": "Come si arriva a Medina Azahara?",
+        "risposta": "Sta circa 8 km a ovest del centro: in auto si parcheggia al museo e una navetta porta agli scavi, oppure si va con un bus turistico o una visita guidata. Per i cittadini UE l'ingresso è gratuito."
       }
     ],
     sapori: [
@@ -1476,10 +1676,10 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: 'Palma per la vita cittadina; Sóller o Port de Sóller per la base ideale nella Serra de Tramuntana.',
     doveMangiare: 'La sobrasada (salume spalmabile di maiale con paprika) e le ensaïmadas (dolce a spirale) sono i prodotti simbolo; nella Serra, i ristoranti di montagna servono piatti a base di agnello e verdure locali.',
-    comeArrivare: 'Aeroporto di Palma di Son Sant Joan, uno dei più trafficati di Spagna in estate, con voli diretti da tutte le principali città italiane. Traghetto da Barcellona o Valencia (7-8 ore, o 4 ore con i traghetti veloci).',
+    comeArrivare: "Aeroporto di Palma (Son Sant Joan), a una decina di chilometri dalla città, con voli diretti da molte città italiane. Il bus EMT A1 porta al centro e al porto in 15-20 minuti, ogni 15 minuti circa, per circa 5 € in contanti o circa 3 € con carta contactless; il taxi dalla fila ufficiale costa circa 20-25 €. In traghetto si arriva da Barcellona o Valencia in 7-8 ore, o in circa 4 con i traghetti veloci. Dalla stazione intermodale di Plaça d'Espanya partono il treno per Sóller e i bus TIB per tutta l'isola.",
     comeSpostarsi: 'Auto a noleggio consigliata per la Serra de Tramuntana; a Palma i mezzi pubblici bastano; il trenino storico per Sóller è un\'attrazione in sé oltre che un mezzo di trasporto.',
     periodoMigliore: 'maggio-giugno e settembre, con temperature gradevoli e meno folla di luglio-agosto, quando prezzi e afflusso turistico raggiungono il picco.',
-    costi: 'Cattedrale di Palma circa 10€; trenino storico per Sóller circa 32€ andata e ritorno; in alta stagione il noleggio auto può costare molto di più che nel resto dell\'anno.',
+    costi: "Cattedrale circa 10 € (circa 25 con le terrazze); treno di Sóller 30 € andata e ritorno, tram per il porto 10 € a tratta; Castell de Bellver 4 € (gratis la domenica); Cuevas del Drach 18,50 € online. In alta stagione il noleggio auto costa molto di più che nel resto dell'anno. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 70-100 €, medio 130-180 €, alto oltre 280 €.",
     erroriDaEvitare: [
       'Limitarsi alla costa turistica di Palma (Playa de Palma, S\'Arenal) senza mai vedere la Serra de Tramuntana: è come andare a Roma e vedere solo l\'aeroporto',
       'Guidare sulle strade a tornanti della Serra senza mettere in conto tempi più lunghi del previsto',
@@ -1493,7 +1693,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Gli orari cambiano per stagione e la domenica si celebrano le messe: controllare il calendario sul sito ufficiale. Al mattino la luce passa meglio dal rosone.",
         "tempo": "1-1 ora e mezza",
         "url": "https://catedraldemallorca.org/",
-        "consiglio": "Dal Parc de la Mar si ha la vista migliore della facciata riflessa nello specchio d'acqua, meglio prima di entrare."
+        "consiglio": "Dal Parc de la Mar si ha la vista migliore della facciata riflessa nello specchio d'acqua, meglio prima di entrare.",
+        "costo": "circa 10 euro con il museo, circa 25 con la salita alle terrazze (2026)",
+        "orari": "Visite dal lunedì al venerdì fino al pomeriggio e il sabato solo la mattina; la domenica chiusa alle visite.",
+        "lat": 39.5675,
+        "lng": 2.64806
       },
       {
         "nome": "Palma vecchia: Almudaina e vicoli",
@@ -1502,7 +1706,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Il palazzo ha un giorno di riposo settimanale e chiude per cerimonie ufficiali: verificare sul sito. I vicoli si godono di più la sera, quando il caldo cala.",
         "tempo": "mezza giornata per palazzo e vicoli",
         "url": "https://www.patrimonionacional.es/",
-        "consiglio": "Entrare nei portoni aperti del centro: molti patii settecenteschi si vedono dalla strada."
+        "consiglio": "Entrare nei portoni aperti del centro: molti patii settecenteschi si vedono dalla strada.",
+        "lat": 39.5675,
+        "lng": 2.64722
       },
       {
         "nome": "Valldemossa",
@@ -1510,7 +1716,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Da Palma in auto sulla Ma-1110, oppure con il bus di linea dalla stazione intermodale. Il paese si gira a piedi.",
         "quando": "Arrivare presto o nel tardo pomeriggio: nelle ore centrali arrivano i pullman.",
         "tempo": "2-3 ore",
-        "consiglio": "Parcheggiare nei parcheggi a monte e scendere a piedi: le strade del centro sono strette e quasi sempre piene."
+        "consiglio": "Parcheggiare nei parcheggi a monte e scendere a piedi: le strade del centro sono strette e quasi sempre piene.",
+        "lat": 39.71168,
+        "lng": 2.62258
       },
       {
         "nome": "Tren de Sóller e Port de Sóller",
@@ -1520,7 +1728,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "tempo": "giornata intera con il porto",
         "costo": "30 euro andata e ritorno Palma-Sóller; tram Sóller-Port de Sóller 10 euro a tratta (sito ufficiale, 2026)",
         "url": "https://trendesoller.com/",
-        "consiglio": "Comprare il biglietto in anticipo online in alta stagione e sedersi sul lato destro all'andata per i panorami sulla valle."
+        "consiglio": "Comprare il biglietto in anticipo online in alta stagione e sedersi sul lato destro all'andata per i panorami sulla valle.",
+        "orari": "Partenze da Palma concentrate la mattina; servizio sospeso dal 23 novembre 2026 al 1 febbraio 2027.",
+        "lat": 39.61204,
+        "lng": 2.66002
       },
       {
         "nome": "Sa Calobra e Torrent de Pareis",
@@ -1529,7 +1740,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Il canyon si visita in autunno e primavera con più calma. Il Torrent de Pareis è chiuso o sconsigliato con pioggia e piena: guardare il meteo.",
         "tempo": "2-3 ore",
         "url": "https://www.caib.es/",
-        "consiglio": "La barca evita la strada e il parcheggio, che in estate è il vero ostacolo: partire dal porto la mattina."
+        "consiglio": "La barca evita la strada e il parcheggio, che in estate è il vero ostacolo: partire dal porto la mattina.",
+        "lat": 39.85097,
+        "lng": 2.8
       },
       {
         "nome": "Cap de Formentor e Pollença",
@@ -1538,7 +1751,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Al tramonto per la luce sul faro. Dal 15 maggio al 18 ottobre (date 2026), dalle 10 alle 22, la strada per il faro è chiusa alle auto private: si sale con il bus TIB 334 da Alcúdia e Port de Pollença o in bici. Al parcheggio della spiaggia di Formentor si arriva in auto fino a esaurimento posti.",
         "tempo": "mezza giornata",
         "url": "https://www.dgt.es/conoce-el-estado-del-trafico/rutas-de-interes/trafico-acceso-faro-de-formentor/",
-        "consiglio": "Salire al Mirador des Colomer all'apertura o all'ora del tramonto: a metà giornata si arriva in colonna."
+        "consiglio": "Salire al Mirador des Colomer all'apertura o all'ora del tramonto: a metà giornata si arriva in colonna.",
+        "lat": 39.96137,
+        "lng": 3.21229
       },
       {
         "nome": "Cala Mondragó e Es Trenc",
@@ -1546,7 +1761,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "In auto da Palma: Cala Mondragó è vicino a Santanyí, Es Trenc vicino a Campos. Parcheggi a pagamento, che si riempiono presto.",
         "quando": "Giugno e settembre. In luglio e agosto arrivare prima delle 10.",
         "tempo": "mezza giornata",
-        "consiglio": "Da Mondragó si può camminare lungo la costa fino a Cala Santanyí se si vuole lasciare la spiaggia affollata."
+        "consiglio": "Da Mondragó si può camminare lungo la costa fino a Cala Santanyí se si vuole lasciare la spiaggia affollata.",
+        "lat": 39.34934,
+        "lng": 3.18905
       },
       {
         "nome": "Un tratto del GR221 in Tramuntana",
@@ -1556,6 +1773,67 @@ export const destinazioniSpagna: Destinazione[] = [
         "tempo": "3-5 ore per tappa",
         "url": "https://www.caib.es/",
         "consiglio": "Portare acqua e scarpe da trekking: i tratti in pietra bagnata scivolano. Alcuni sentieri attraversano proprietà private e hanno orari di passaggio."
+      },
+      {
+        "nome": "Castell de Bellver",
+        "testo": "Un castello gotico del Trecento a pianta circolare, costruito per i re di Maiorca su una collina boscosa sopra Palma. Dentro c'è il museo di storia della città; dalla terrazza sul tetto si vede tutta la baia, con la cattedrale e il porto.",
+        "come": "Con bus urbano o taxi fino al parcheggio, oppure a piedi in salita nel parco dal quartiere di El Terreno. La biglietteria è nel centro visitatori del parcheggio.",
+        "quando": "Il tardo pomeriggio, con la luce sulla baia; la domenica l'ingresso è gratis ma c'è più gente.",
+        "tempo": "1-1 ora e mezza",
+        "costo": "4 euro, gratis la domenica (sito ufficiale)",
+        "orari": "Lunedì chiuso. Ottobre-marzo martedì-sabato 10-18, aprile-settembre 10-19; domenica e festivi 10-15. Chiuso 1 gennaio, Pasqua, 1 maggio e 25 dicembre.",
+        "lat": 39.56375,
+        "lng": 2.61934,
+        "url": "https://castelldebellver.palma.es/"
+      },
+      {
+        "nome": "Cuevas del Drach",
+        "testo": "Grotte a Porto Cristo, sulla costa est, con un percorso di circa 1.200 metri tra stalattiti e laghetti fino al lago Martel, dove si ascolta un breve concerto di musica classica dal vivo.",
+        "come": "In auto da Palma verso est fino a Porto Cristo, o con le escursioni organizzate. Ingressi a orario fisso, con biglietto online.",
+        "quando": "Il primo turno della mattina o fuori stagione: d'estate i gruppi sono numerosi.",
+        "tempo": "1 ora la visita, mezza giornata con il viaggio",
+        "costo": "18,50 euro online, 19,50 euro in biglietteria (sito ufficiale)",
+        "orari": "Visite a orario fisso tutti i giorni; dal 1 novembre al 15 marzo alle 10:30, 12, 14 e 15:30. Chiuso il 25 dicembre e il 1 gennaio.",
+        "lat": 39.53574,
+        "lng": 3.33062,
+        "url": "https://www.cuevasdeldrach.com/",
+        "consiglio": "Comprare online: costa meno e si sceglie l'orario. A novembre 2026 il sito indica sospeso il giro in barca sul lago; la visita e il concerto restano."
+      },
+      {
+        "nome": "Deià",
+        "testo": "Un paese di pietra su una collina tra gli ulivi e il mare, nella Serra de Tramuntana, dove visse ed è sepolto il poeta Robert Graves. Sotto il paese c'è la Cala de Deià, una caletta di ciottoli con le barche dei pescatori.",
+        "come": "Sulla Ma-10 tra Valldemossa e Sóller, in auto o con il bus di linea. Alla cala si scende a piedi, in discesa tra gli ulivi.",
+        "quando": "La mattina o al tramonto; d'estate il parcheggio è il problema principale.",
+        "tempo": "2-3 ore con la cala",
+        "lat": 39.74774,
+        "lng": 2.64834
+      },
+      {
+        "nome": "Fornalutx",
+        "testo": "Un villaggio di pietra sopra la valle di Sóller, tutto scalinate, tetti di coppi e agrumeti terrazzati. È uno dei più fotografati della Tramuntana e si gira in poco tempo.",
+        "come": "In auto da Sóller in pochi minuti, oppure a piedi da Sóller passando per Biniaraix.",
+        "quando": "Il tardo pomeriggio, dopo la partenza dei pullman.",
+        "tempo": "1 ora",
+        "lat": 39.78268,
+        "lng": 2.74092
+      },
+      {
+        "nome": "Alcúdia e Pollentia",
+        "testo": "Una cittadina del nord chiusa dalle mura medievali, con porte e camminamenti. Appena fuori ci sono le rovine di Pollentia, la città romana dell'isola, con il teatro e le case.",
+        "come": "In auto o con i bus TIB da Palma; il centro storico si gira a piedi.",
+        "quando": "La mattina o il tardo pomeriggio, evitando le ore calde sulle mura.",
+        "tempo": "mezza giornata",
+        "lat": 39.8525,
+        "lng": 3.11917
+      },
+      {
+        "nome": "Santuari de Lluc",
+        "testo": "Il santuario nel cuore della Serra de Tramuntana, meta di pellegrinaggio dal Medioevo, con la statua della Madonna nera e il coro dei bambini, i Blauets. Intorno partono sentieri tra lecci e rocce calcaree.",
+        "come": "In auto sulla Ma-10 o con i bus TIB. Sta sulla strada per Sa Calobra.",
+        "quando": "Come sosta sulla strada per Sa Calobra o Pollença.",
+        "tempo": "1 ora",
+        "lat": 39.82292,
+        "lng": 2.88444
       }
     ],
     programmi: [
@@ -1571,9 +1849,9 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Palma, cattedrale e vicoli, tramonto sul porto",
+          "Giorno 1: Palma, cattedrale e vicoli, tramonto dal Castell de Bellver",
           "Giorno 2: treno storico per Sóller, tram fino al porto, pranzo di pesce",
-          "Rientro in treno nel tardo pomeriggio"
+          "Rientro in treno nel tardo pomeriggio, oppure sosta a Fornalutx in auto"
         ]
       },
       {
@@ -1581,7 +1859,15 @@ export const destinazioniSpagna: Destinazione[] = [
         "tappe": [
           "Giorno 1: Palma",
           "Giorno 2: Valldemossa al mattino, Deià e Sóller nel pomeriggio, in auto",
-          "Giorno 3: Sa Calobra in barca da Port de Sóller o Formentor in auto, tramonto a Pollença"
+          "Giorno 3: Sa Calobra in barca da Port de Sóller, oppure Lluc e Formentor in auto, tramonto a Pollença"
+        ]
+      },
+      {
+        "titolo": "5 giorni",
+        "tappe": [
+          "Giorni 1-3: come sopra",
+          "Giorno 4: Alcúdia e Pollentia, spiaggia nella baia di Alcúdia",
+          "Giorno 5: Cuevas del Drach la mattina, poi Cala Mondragó o Es Trenc"
         ]
       }
     ],
@@ -1589,17 +1875,72 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Palma centro storico",
         "perChi": "chi vuole città, ristoranti e niente auto",
-        "testo": "Tutto a piedi, vita serale animata. Pro: bar, cattedrale, mercati. Contro: rumore nei vicoli, camere piccole, parcheggio quasi impossibile."
+        "testo": "Tutto a piedi, vita serale animata. Pro: bar, cattedrale, mercati. Contro: rumore nei vicoli, camere piccole, parcheggio quasi impossibile.",
+        "fascia": "130-250 €"
       },
       {
         "nome": "Sóller e Port de Sóller",
         "perChi": "chi vuole montagna e mare insieme",
-        "testo": "Valle di agrumeti con treno e tram. Pro: calma la sera, escursioni a piedi. Contro: lontano da Palma (si passa dal tunnel), strade strette."
+        "testo": "Valle di agrumeti con treno e tram. Pro: calma la sera, escursioni a piedi. Contro: lontano da Palma (si passa dal tunnel), strade strette.",
+        "fascia": "120-220 €"
       },
       {
         "nome": "Pollença e Alcúdia",
         "perChi": "famiglie e spiagge",
-        "testo": "Nord dell'isola: spiagge ampie, Formentor vicino. Pro: servizi per bambini. Contro: l'estate è piena e senza auto non si va lontano."
+        "testo": "Nord dell'isola: spiagge ampie, Formentor vicino. Pro: servizi per bambini. Contro: l'estate è piena e senza auto non si va lontano.",
+        "fascia": "100-200 €"
+      },
+      {
+        "nome": "Sud-est: Santanyí e dintorni",
+        "perChi": "chi cerca calette e paesi tranquilli",
+        "testo": "Paesi di pietra dorata e calette tra le pinete, vicino a Cala Mondragó e alle Cuevas del Drach. Pro: mare e ritmo lento. Contro: lontano dalla Tramuntana, serve l'auto.",
+        "fascia": "110-200 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Minorca",
+        "distanza": "1-2 ore e mezza di traghetto da Alcúdia",
+        "come": "Traghetti Alcúdia-Ciutadella con Baleària e Trasmed; d'estate prenotare in anticipo.",
+        "testo": "Ciutadella con il porto e il centro storico, e le calette del sud. In giornata si fa partendo dal nord di Mallorca; con una notte è più comoda."
+      },
+      {
+        "nome": "Parco nazionale di Cabrera",
+        "distanza": "circa un'ora d'auto da Palma, poi la barca",
+        "come": "Barche autorizzate da Colònia de Sant Jordi, nel sud dell'isola, da prenotare.",
+        "testo": "Un piccolo arcipelago protetto con un castello sul porto, acqua limpidissima e quasi nessuna costruzione. La giornata include una sosta per il bagno."
+      },
+      {
+        "nome": "Ibiza",
+        "distanza": "2 ore e un quarto-4 ore e un quarto di traghetto da Palma",
+        "come": "Traghetti Baleària e Trasmed dal porto di Palma.",
+        "testo": "Dalt Vila, la città vecchia fortificata patrimonio UNESCO. In giornata solo con il traghetto veloce; meglio come tappa successiva del viaggio."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Mallorca?",
+        "risposta": "Tre o quattro giorni bastano per Palma, la Serra de Tramuntana e una spiaggia. Con una settimana si aggiungono il nord di Pollença e Alcúdia e il sud-est delle calette."
+      },
+      {
+        "domanda": "Serve l'auto a Mallorca?",
+        "risposta": "Per la Tramuntana, Formentor e le calette sì. Palma, Sóller e il porto si raggiungono bene anche con treno, tram e bus."
+      },
+      {
+        "domanda": "Meglio dormire a Palma o a Sóller?",
+        "risposta": "Palma per chi vuole città, ristoranti e muoversi con i mezzi; Sóller o Port de Sóller per chi vuole camminare nella Tramuntana e serate tranquille."
+      },
+      {
+        "domanda": "Si può salire al faro di Formentor in auto?",
+        "risposta": "Dal 15 maggio al 18 ottobre 2026, dalle 10 alle 22, la strada per il faro è chiusa alle auto private: si sale con il bus TIB 334 o in bici. Fuori da quegli orari e da quel periodo si sale in auto."
+      },
+      {
+        "domanda": "Il treno di Sóller funziona tutto l'anno?",
+        "risposta": "No: per la stagione 2026-27 si ferma dal 23 novembre 2026 al 1 febbraio 2027. Andata e ritorno da Palma costa 30 euro, il tram per il porto 10 euro a tratta."
+      },
+      {
+        "domanda": "Qual è il periodo migliore per Mallorca?",
+        "risposta": "Maggio-giugno e settembre, con mare caldo e meno gente. Ottobre e aprile vanno bene per camminare; luglio e agosto sono i mesi più cari e affollati."
       }
     ],
     sapori: [

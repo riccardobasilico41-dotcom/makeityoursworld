@@ -365,11 +365,10 @@ export const destinazioniTurchia: Destinazione[] = [
       "Göreme for convenience, Uçhisar and Ortahisar for the view and the quiet, Ürgüp for restaurants and wineries. Budget: guesthouses in Göreme · mid-range: cave hotels in Göreme and Uçhisar · luxury: Argos in Cappadocia, Museum Hotel.",
     doveMangiare:
       "Testi kebab cooked in a clay pot, mantı (dumplings with yogurt), pide, the wines of Ürgüp and Uçhisar.",
-    comeArrivare: 'Flights from Istanbul to Kayseri (ASR, 1 hour transfer) or Nevşehir (NAV, 40 minutes); night buses from Istanbul (about 10-11 hours).',
+    comeArrivare: "From Istanbul you fly in about an hour to Kayseri (ASR) or Nevşehir (NAV), roughly €40-90 with luggage. From Kayseri to Göreme the transfer takes about an hour, from Nevşehir about 40 minutes; shared transfers, roughly €10-15 per person, are booked through the hotel according to the flight time. Alternatively, night buses from Istanbul take 10-11 hours, and those to Pamukkale leave from Göreme and Nevşehir (9-10 hours, €20-35).",
     comeSpostarsi: 'Rental car or day tours (Red Tour, Green Tour); dolmuş minibuses connect Göreme, Uçhisar, Avanos and Ürgüp.',
     periodoMigliore: "April-June and September-October; in winter there is snow and the landscape is beautiful, but more balloon flights get canceled",
-    costi:
-      "Hot-air balloon roughly €180-350 per person depending on the season; Göreme Open-Air Museum around €20-25; Derinkuyu around €15-20; Museum Pass Cappadocia around €45-50 (approximate).",
+    costi: "Low budget about €50-70 a day per person (guesthouse in Göreme, dolmuş, one museum, food in village restaurants); mid €110-170 (cave hotel, a day tour or a car, two sites a day, dinners with wine); high from €300 up (cave hotel with a terrace in Uçhisar, balloon, private guide). Tickets 2026: Göreme Open-Air Museum €20, Dark Church €6, Zelve-Paşabağ €12, Derinkuyu or Kaymaklı €13; balloon €150-350.",
     erroriDaEvitare: [
       "Booking the balloon for your last morning: flights get canceled when it's windy, and it's best to have at least one spare day",
       'Choosing the operator on price alone: the license and the number of passengers per basket matter',
@@ -381,11 +380,14 @@ export const destinazioniTurchia: Destinazione[] = [
         "nome": "Göreme Open-Air Museum",
         "testo": "A cluster of rock-cut churches and monasteries carved into the stone cones, with frescoes mostly from the 10th and 11th centuries. The Dark Church (Karanlık) is one of the finest.",
         "come": "From Göreme on foot or by shuttle.",
-        "quando": "Open daily 8am-5pm, ticket office until 4:15pm (November 2026). At opening, before the groups.",
+        "quando": "At opening, before the groups.",
         "tempo": "1.5-2 hours",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Ask at the ticket office whether the Dark Church needs a supplement: the colours are worth the stop.",
-        "costo": "Price for foreign visitors on the official website"
+        "costo": "€20 for foreign visitors (muze.gov.tr, 2026); Dark Church €6 extra",
+        "orari": "Daily 8am-5pm, ticket office until 4:15pm (2026)",
+        "lat": 38.6427,
+        "lng": 34.84503,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=GRM01&DistId=GRM",
+        "consiglio": "Ask at the ticket office whether the Dark Church needs a supplement: the colours are worth the stop."
       },
       {
         "nome": "Hot-air balloon at dawn",
@@ -400,7 +402,10 @@ export const destinazioniTurchia: Destinazione[] = [
         "testo": "Paths among pink and red rocks with churches carved into the rock, beautiful at sunset.",
         "come": "Start on foot from Göreme or drive to a viewpoint.",
         "quando": "Sunset.",
-        "tempo": "2-3 hours"
+        "tempo": "2-3 hours",
+        "costo": "Free",
+        "lat": 38.65099,
+        "lng": 34.85359
       },
       {
         "nome": "Derinkuyu and Kaymaklı",
@@ -408,24 +413,140 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "By car or on a tour from Göreme.",
         "quando": "Early morning to avoid the crowd in the corridors.",
         "tempo": "1-1.5 hours",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "If you are claustrophobic, think carefully: the corridors are narrow and low.",
-        "costo": "Prices for foreign visitors on the official website"
+        "costo": "€13 each for foreign visitors (muze.gov.tr, 2026)",
+        "orari": "Daily 8am-5pm, ticket office until 4:15pm (2026)",
+        "lat": 38.37357,
+        "lng": 34.7351,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=DKY01&DistId=DKY",
+        "consiglio": "If you are claustrophobic, think carefully: the corridors are narrow and low."
+      },
+      {
+        "nome": "Dark Church (Karanlık Kilise)",
+        "testo": "The church in the open-air museum with the best-preserved frescoes in Cappadocia: its few windows protected the colours, especially the blue backgrounds. It has been restored and costs extra.",
+        "come": "Inside the Göreme Open-Air Museum, separate ticket.",
+        "quando": "In the same visit to the museum, early.",
+        "tempo": "15-20 minutes",
+        "costo": "€6 for foreign visitors (muze.gov.tr, 2026)",
+        "orari": "Daily 8am-5pm, ticket office until 4:45pm (2026)",
+        "lat": 38.6387,
+        "lng": 34.84626,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=GRM02&DistId=GRM"
+      },
+      {
+        "nome": "Zelve and Paşabağ",
+        "testo": "Two sites on one ticket: Zelve is a valley of carved houses and churches, inhabited until the 1950s and abandoned because of the risk of collapse; Paşabağ, the Monks Valley, has multi-capped fairy chimneys with hermits' cells.",
+        "come": "By car, quad or dolmuş towards Avanos, 10-15 minutes from Göreme.",
+        "quando": "Late afternoon, in the low light.",
+        "tempo": "1.5-2 hours",
+        "costo": "€12 for foreign visitors (muze.gov.tr, 2026)",
+        "orari": "Daily 8am-5pm, ticket office until 4:15pm (2026)",
+        "lat": 38.66917,
+        "lng": 34.86337,
+        "url": "https://muze.gov.tr/muze-detay?SectionId=ZPO01&DistId=ZPO"
+      },
+      {
+        "nome": "Devrent Valley",
+        "testo": "Also called Imagination Valley: pink rocks with no churches or houses, where people look for animal shapes, the most famous being the camel. It can be seen quickly from the road.",
+        "come": "By car between Zelve and Ürgüp, a stop at the roadside.",
+        "quando": "Late afternoon.",
+        "tempo": "20-30 minutes",
+        "costo": "Free",
+        "lat": 38.67262,
+        "lng": 34.88551
+      },
+      {
+        "nome": "Uçhisar Castle",
+        "testo": "The highest rock spur in the area, riddled with rooms and passages, towering over the village of Uçhisar. From the top you see Göreme, the valleys and, on clear days, Mount Erciyes.",
+        "come": "By car or dolmuş from Göreme, 10 minutes; steps to the top.",
+        "quando": "At sunset.",
+        "tempo": "45 minutes-1 hour",
+        "lat": 38.63033,
+        "lng": 34.80556
+      },
+      {
+        "nome": "Love Valley",
+        "testo": "The valley of tall, elongated mushroom-shaped pinnacles, the one most photographed from the balloons. A trail runs along the bottom, among vineyards and fruit trees.",
+        "come": "On foot from Göreme or from the Uçhisar road; the trail is easy but poorly marked.",
+        "quando": "At dawn, under the balloons, or in the afternoon.",
+        "tempo": "2-3 hours on foot",
+        "costo": "Free",
+        "lat": 38.66069,
+        "lng": 34.81961
+      },
+      {
+        "nome": "Pigeon Valley",
+        "testo": "The valley between Uçhisar and Göreme named after the thousands of dovecotes carved into the rock, used to collect guano as fertiliser for the vineyards. The trail drops into a green canyon.",
+        "come": "On foot, downhill from Uçhisar to Göreme.",
+        "quando": "Morning or afternoon, avoiding the hot hours in summer.",
+        "tempo": "1.5-2 hours",
+        "costo": "Free",
+        "lat": 38.63278,
+        "lng": 34.81611
+      },
+      {
+        "nome": "Ortahisar Castle",
+        "testo": "The other great fortified spur of Cappadocia, in the village of Ortahisar, less visited than Uçhisar. Around it are storehouses in the tuff where citrus fruit and potatoes are kept.",
+        "come": "By car from Göreme or Ürgüp, 10 minutes.",
+        "quando": "Afternoon.",
+        "tempo": "45 minutes",
+        "lat": 38.61994,
+        "lng": 34.86433
+      },
+      {
+        "nome": "Avanos",
+        "testo": "The small town on the Kızılırmak, Turkey's longest river, famous for pottery made with the river's red clay. You can step into the workshops to watch the kick wheel.",
+        "come": "By dolmuş or car from Göreme, 15 minutes.",
+        "quando": "Afternoon, together with Zelve and Paşabağ.",
+        "tempo": "1-2 hours",
+        "lat": 38.715,
+        "lng": 34.84667
+      },
+      {
+        "nome": "Ihlara Valley",
+        "testo": "A canyon about a hundred metres deep cut by the Melendiz river, with a trail along the stream and frescoed rock churches in the walls. It is the greenest walk in the region.",
+        "come": "By car or on the Green Tour, about 1.5 hours from Göreme; the classic stretch runs from Ihlara to Belisırma.",
+        "quando": "Morning; in summer for the coolness of the river.",
+        "tempo": "half a day",
+        "lat": 38.2575,
+        "lng": 34.29528,
+        "consiglio": "Lunch at the streamside restaurants in Belisırma, then a taxi back to the car."
+      },
+      {
+        "nome": "Selime Monastery",
+        "testo": "The large rock-cut complex at the end of the Ihlara valley, with a cathedral carved on two levels, kitchens and stables. The landscape around it has been used as a set for science-fiction films.",
+        "come": "By car or on the Green Tour, combined with Ihlara.",
+        "quando": "Afternoon, after Ihlara.",
+        "tempo": "45 minutes-1 hour",
+        "lat": 38.3012,
+        "lng": 34.25943
       }
     ],
     programmi: [
       {
+        "titolo": "1 day",
+        "tappe": [
+          "At dawn: hot-air balloon, or the sky full of balloons from Göreme's terraces",
+          "Göreme Open-Air Museum and the Dark Church",
+          "Afternoon: Zelve, Paşabağ and Devrent",
+          "Sunset over the Red Valley"
+        ]
+      },
+      {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: balloon, Göreme Open-Air Museum, Red Valley at sunset",
-          "Day 2: Derinkuyu, Ihlara Valley, Uçhisar"
+          "Day 1 as above",
+          "Day 2: Derinkuyu or Kaymaklı underground city",
+          "Ihlara Valley and Selime Monastery",
+          "Sunset from Uçhisar Castle"
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
           "Days 1-2 as above",
-          "Day 3: trekking in Love Valley and Pigeon Valley, sunset at Uçhisar"
+          "Day 3: hike through Pigeon Valley and Love Valley",
+          "Afternoon in Avanos among the pottery workshops, or Ortahisar Castle",
+          "Dinner and wine in Ürgüp, with the spare day for the balloon"
         ]
       }
     ],
@@ -433,12 +554,14 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Göreme",
         "perChi": "those who want to be near everything",
-        "testo": "Cave hotels, restaurants and balloon departures. The most touristy."
+        "testo": "Cave hotels, restaurants and balloon departures. The most touristy.",
+        "fascia": "€40-170"
       },
       {
         "nome": "Uçhisar",
         "perChi": "those who want views and quiet",
-        "testo": "A village under the castle, charming hotels with a panoramic terrace."
+        "testo": "A village under the castle, charming hotels with a panoramic terrace.",
+        "fascia": "€90-170"
       },
       {
         "nome": "Ürgüp / Mustafapaşa",
@@ -471,6 +594,52 @@ export const destinazioniTurchia: Destinazione[] = [
       "Quad and horse rentals: check the condition of the vehicles and the insurance before leaving."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Soğanlı Valley",
+        "distanza": "about 55-60 km, 1 hour",
+        "come": "By car; there are no regular tours.",
+        "testo": "Two valleys with painted rock churches and the village of rag dolls, with almost no tourists. Cappadocia as it must have been before the boom."
+      },
+      {
+        "nome": "Kayseri",
+        "distanza": "about 75 km, 1 hour",
+        "come": "By car or by bus from Nevşehir; many flights to Istanbul leave from here.",
+        "testo": "The Seljuk city at the foot of the Erciyes volcano, with its citadel, 13th-century madrasas and bazaar. In winter you can ski on Erciyes."
+      },
+      {
+        "nome": "Hacıbektaş",
+        "distanza": "about 55 km, 45 minutes",
+        "come": "By car from Göreme or Avanos.",
+        "testo": "The complex of the Sufi saint Hacı Bektaş Veli, centre of the Alevi tradition, with the museum and the mausoleum in a quiet garden."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Cappadocia?",
+        "risposta": "Three nights: two full days for museums, valleys and underground cities, plus a spare morning for the balloon, which gets cancelled in wind."
+      },
+      {
+        "domanda": "Is it better to stay in Göreme, Uçhisar or Ürgüp?",
+        "risposta": "Göreme is the most convenient, with everything on foot; Uçhisar and Ortahisar are quieter and have views; Ürgüp has more restaurants and wineries but you need a car for the valleys."
+      },
+      {
+        "domanda": "How much does the balloon cost and when do you fly?",
+        "risposta": "There is no official price: roughly €150-350 per person depending on season, operator and number of passengers in the basket. Flights leave at dawn and last about an hour."
+      },
+      {
+        "domanda": "Derinkuyu or Kaymaklı?",
+        "risposta": "Derinkuyu goes deeper and is more spectacular, Kaymaklı is closer to Göreme and often less crowded. The ticket is €13 at both: for most people one is enough."
+      },
+      {
+        "domanda": "Do you need a car in Cappadocia?",
+        "risposta": "It is not essential: dolmuş minibuses run between Göreme, Uçhisar, Avanos and Ürgüp, and Ihlara and the underground cities are covered by the Green Tour. A car gives freedom for sunsets and distant valleys."
+      },
+      {
+        "domanda": "Is the Museum Pass Cappadocia worth it?",
+        "risposta": "Göreme (€20), the Dark Church (€6), Zelve-Paşabağ (€12) and one underground city (€13) add up to €51; the pass, around €65 for three days, pays off only if you add other sites."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Hot-air balloons above the tuff valleys of Göreme National Park, in Cappadocia',

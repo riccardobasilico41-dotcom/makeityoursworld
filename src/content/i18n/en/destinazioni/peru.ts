@@ -626,13 +626,12 @@ export const destinazioniPeru: Destinazione[] = [
       'Aguas Calientes (Machu Picchu Pueblo) is the only base that lets you enter on the first shift without depending on the first train of the day; otherwise Ollantaytambo or the Sacred Valley for a day visit.',
     doveMangiare:
       "Aguas Calientes lives on tourism and the prices show it: the restaurants on the main street are expensive and mediocre, so it's better to head down toward the market and eat at a fraction of the price. Still, bring water and something to eat for the visit, because you can't eat inside the site.",
-    comeArrivare: 'See the comparison above: train, trek or via Hidroeléctrica, all arriving at Aguas Calientes.',
+    comeArrivare: "No road reaches Machu Picchu: you get to Aguas Calientes by PeruRail or IncaRail train from Ollantaytambo (about 1h30 along the Urubamba) or from Cusco/Poroy, or on foot via the Inca Trail, the Salkantay or the Hidroeléctrica route (see the comparison above). The train costs $70-500 return depending on the class and sells out weeks ahead in high season. From the village to the site entrance there's the shuttle bus, about 25 minutes and $24 return, or 1h30-2 hours on foot up a stone staircase through the forest.",
     comeSpostarsi:
       'From Aguas Calientes to the site entrance: Consettur shuttle bus, about 25 minutes and $24 round trip, or 1h30-2h on foot, uphill. Inside the site you move only along the assigned circuit.',
     periodoMigliore:
       'May-September for clear skies, but it is also when everything sells out first. April and October are a good compromise between weather and crowds',
-    costi:
-      "Entry for foreign adults (2026): 152 soles for the circuits without a mountain, 200 soles for the routes with Huayna Picchu, Machu Picchu Mountain or the Great Cavern. An 11-sol increase for foreign adults was announced from 1 May 2026: check the final figure when you buy. There are three circuits and ten routes, with a daily cap (4,500 entries a day, 5,600 in high season). The only official seller is the Ministry of Culture portal, tuboleto.cultura.pe: everything else is resellers with a markup.",
+    costi: "For the day of the visit, train excluded: low budget about €100-130 per person (hostel in Aguas Calientes, entrance, shuttle bus, menú del día at the market); mid-range €200-300 (mid-range hotel, Expedition or Voyager train, guide); high from €700 (Vistadome or Hiram Bingham train and a luxury hotel). Entrance for foreign adults (2026): 152 soles for the circuits without a mountain, 200 soles for the routes with Huayna Picchu, Machu Picchu Mountain or the Great Cavern. An 11-sol increase for foreign adults was announced from 1 May 2026: check the final figure when you buy. There are three circuits and ten routes, with a daily cap (4,500 entries a day, 5,600 in high season). The only official seller is the Ministry of Culture portal, tuboleto.cultura.pe: everything else is a reseller with a mark-up.",
     erroriDaEvitare: [
       'Booking late: for Huayna Picchu you need 2-3 months ahead in any season, 3-4 in the high season, and the spots go fast',
       'Buying tickets from unofficial resellers at inflated prices instead of on tuboleto.cultura.pe',
@@ -649,6 +648,9 @@ export const destinazioniPeru: Destinazione[] = [
         "quando": "The first slot is the quietest and repays the early alarm. The dry season is also when tickets sell out first.",
         "tempo": "3-4 hours",
         "costo": "152 soles for foreign adults on the circuits without a mountain (2026). Check the current fare on the official portal, the only place to buy",
+        "orari": "Every day, timed entries every hour from 6:00 to 15:00. You can enter up to 30 minutes after the time on the ticket, 45 from 1 June to 15 October and on 30-31 December",
+        "lat": -13.16333,
+        "lng": -72.54556,
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Sleep in Aguas Calientes to enter at the first slot. Bring water and a snack to eat before entering."
       },
@@ -658,7 +660,10 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Separate ticket with timed entry and very limited places. The climb starts inside the site: allow plenty of time, it is steep.",
         "quando": "Morning time slots. Book well ahead, especially in peak months.",
         "tempo": "2-3 hours",
-        "costo": "Separate from the citadel-only ticket: fare on the official portal",
+        "costo": "200 soles for foreign adults, about €50, citadel included (Circuit 3, route 3-A, 2026)",
+        "orari": "At the mountain checkpoint you enter at the time printed on the ticket, with no tolerance",
+        "lat": -13.1575,
+        "lng": -72.54722,
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Rick did it: it is beautiful, but anyone with vertigo should think hard."
       },
@@ -668,17 +673,23 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Separate limited-entry ticket, same booking rules as Huayna Picchu. The climb starts from the site.",
         "quando": "Morning slots; book well ahead.",
         "tempo": "3-4 hours up and down",
-        "costo": "Separate from the citadel-only ticket: fare on the official portal",
+        "costo": "200 soles for foreign adults, about €50, citadel included (Circuit 1, route 1-A, 2026)",
+        "orari": "At the mountain checkpoint you enter at the time printed on the ticket, with no tolerance",
+        "lat": -13.17448,
+        "lng": -72.54197,
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "If Huayna Picchu is sold out or you fear exposed stretches, this is the alternative."
       },
       {
         "nome": "Intipunku, the Sun Gate",
         "testo": "The pass from which those on the Inca Trail see the citadel for the first time at dawn. It can also be reached by a walk from the site.",
-        "come": "An uphill walk from inside the site, along the original trail.",
+        "come": "With route 1-C of Circuit 1 (Portada Intipunku), sold only in high season: an uphill walk from the citadel along the original trail.",
         "quando": "Dawn for those arriving by the Inca Trail; for others, morning.",
         "tempo": "1.5-2 hours round trip",
-        "consiglio": "It gives a different, almost empty view. Ask at the entrance whether your circuit includes the stretch."
+        "lat": -13.16976,
+        "lng": -72.53395,
+        "url": "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/",
+        "consiglio": "It gives a different, almost empty view. You have to choose it when you buy: the other routes don't go there."
       },
       {
         "nome": "Aguas Calientes (Machu Picchu Pueblo)",
@@ -686,6 +697,8 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Only by train or on foot (see the comparison above). The Consettur shuttle bus to the site leaves from here.",
         "quando": "You sleep one night to enter at the first slot.",
         "tempo": "One night",
+        "lat": -13.15472,
+        "lng": -72.52528,
         "consiglio": "Go down towards the market to eat at a fraction of the main street prices."
       },
       {
@@ -695,6 +708,34 @@ export const destinazioniPeru: Destinazione[] = [
         "quando": "The Inca Trail is closed in February. The dry season is the most in demand.",
         "tempo": "From 1 day (train) to 4-5 days (trek)",
         "consiglio": "With fixed dates: train from Ollantaytambo and a night in Aguas Calientes. With 4-5 days, the Salkantay."
+      },
+      {
+        "nome": "Inca Bridge",
+        "testo": "A path cut into the west face of the mountain, with a stretch where the Incas left a gap bridged by logs: remove them and the way was closed. Today you see it from a viewpoint, without crossing it.",
+        "come": "With route 1-D of Circuit 1, sold only in high season. The path is flat and starts from the upper part of the citadel.",
+        "quando": "Morning, in high season.",
+        "tempo": "1 hour return",
+        "url": "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/"
+      },
+      {
+        "nome": "Great Cavern and Temple of the Moon",
+        "testo": "A cave on the north side of Huayna Picchu, with walls and niches of worked stone, known as the Temple of the Moon. The trail drops a long way before climbing back, and the groups are small.",
+        "come": "With route 3-C of Circuit 3, sold only in high season. It starts from the same checkpoint as Huayna Picchu.",
+        "quando": "Morning, in the first time slots.",
+        "tempo": "3-4 hours",
+        "costo": "200 soles for foreign adults, about €50, citadel included (2026)",
+        "orari": "At the checkpoint you enter at the time printed on the ticket, with no tolerance",
+        "url": "https://tuboleto.cultura.pe/",
+        "consiglio": "Water and hiking shoes: you go down and up hundreds of steps."
+      },
+      {
+        "nome": "Huchuy Picchu",
+        "testo": "The \"little mountain\" between the citadel and Huayna Picchu, with a short climb and a close-up view of the main plaza and the terraces. It is the choice for anyone who wants a summit without the exposed sections of Huayna Picchu.",
+        "come": "With route 3-D of Circuit 3, sold only in high season.",
+        "quando": "Morning.",
+        "tempo": "1 hour return",
+        "orari": "At the checkpoint you enter at the time printed on the ticket, with no tolerance",
+        "url": "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/"
       }
     ],
     programmi: [
@@ -726,17 +767,20 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Aguas Calientes",
         "perChi": "Those who want the first slot",
-        "testo": "The only base that does not depend on the first train. High prices for what it offers, noise from the tracks and bars."
+        "testo": "The only base that does not depend on the first train. High prices for what it offers, noise from the tracks and bars.",
+        "fascia": "€40-150"
       },
       {
         "nome": "Ollantaytambo",
         "perChi": "Those taking the train who want to sleep in a real village",
-        "testo": "Quieter, with Inca lanes. The train leaves early, so the alarm is before dawn."
+        "testo": "Quieter, with Inca lanes. The train leaves early, so the alarm is before dawn.",
+        "fascia": "€35-170"
       },
       {
         "nome": "Sacred Valley (Urubamba)",
         "perChi": "Day visitors who do not want to sleep high",
-        "testo": "Lower and more comfortable, but it makes for a very long day to the site."
+        "testo": "Lower and more comfortable, but it makes for a very long day to the site.",
+        "fascia": "€45-250"
       }
     ],
     sapori: [
@@ -763,6 +807,46 @@ export const destinazioniPeru: Destinazione[] = [
       "The site has daily quotas and time slots: without a booking you do not enter.",
       "Do not go up to Machu Picchu the day after arriving in Cusco: you need acclimatisation.",
       "Long buses and roads towards Hidroeléctrica: winding, with landslides in the rainy season."
+    ],
+    gite: [
+      {
+        "nome": "Ollantaytambo",
+        "distanza": "1h30 by train",
+        "come": "PeruRail or IncaRail train from Aguas Calientes, booked together with the outbound one.",
+        "testo": "The Inca village where the train starts, with the terraced fortress above the square and lanes with water channels still in use. In the evening, once the tour coaches have left, it's the quietest place in the valley to sleep."
+      },
+      {
+        "nome": "The Sacred Valley",
+        "distanza": "about 1h30 by train to Ollantaytambo, then by road",
+        "come": "Train to Ollantaytambo, then a car with driver or a colectivo towards Urubamba, Maras and Moray.",
+        "testo": "The Maras salt pans, thousands of pools cut into the mountain, and the circular terraces of Moray: they fit on the way back from Machu Picchu to Cusco."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for Machu Picchu?",
+        "risposta": "Two days with a night in Aguas Calientes: you arrive by train in the afternoon and enter on the first slot the next morning. A day trip from Ollantaytambo is possible, but tight and without the quietest hours."
+      },
+      {
+        "domanda": "Where do you buy tickets and how far ahead?",
+        "risposta": "Only on tuboleto.cultura.pe, the Ministry of Culture portal. Huayna Picchu and the Mountain need 2-3 months, 3-4 in peak months. In Aguas Calientes 1,000 tickets a day are also sold in person, valid for the following day."
+      },
+      {
+        "domanda": "Which circuit should I choose?",
+        "risposta": "Since June 2024 there are three circuits with ten routes: Circuit 1 is panoramic (from above, with the Mountain, Intipunku or the Inca Bridge), Circuit 2 is the classic one through the citadel, Circuit 3 \"Realeza\" includes Huayna Picchu. The route is one-way: you can't go back."
+      },
+      {
+        "domanda": "Huayna Picchu or Machu Picchu Mountain?",
+        "risposta": "Huayna Picchu is shorter but steep and exposed, with the citadel seen up close; the Mountain is longer and higher, with less drop under your feet and a wider view. If you suffer from vertigo, pick the Mountain or Huchuy Picchu."
+      },
+      {
+        "domanda": "What happens if I arrive late?",
+        "risposta": "At the main entrance there is a 30-minute tolerance, 45 minutes from 1 June to 15 October and on 30-31 December. At the mountain checkpoints there is none: you enter at the time on the ticket."
+      },
+      {
+        "domanda": "Can you walk up from Aguas Calientes?",
+        "risposta": "Yes, in 1h30-2 hours on a steep staircase through the forest. Many take the first shuttle bus up and walk down."
+      }
     ],
     esperienzeSlugs: ['huayna-picchu', 'cammino-inca'],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
@@ -1340,10 +1424,10 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire: 'Miraflores for convenience and safety, Barranco for atmosphere; both away from the historic center but well connected.',
     doveMangiare:
       "Lima is the gastronomic reason for the trip: ceviche at lunch in a neighborhood cevichería (in the evening it's considered out of hours and the fish is no longer the morning's), then tiradito, causa, lomo saltado and anticuchos from the carts in the evening. The haute cuisine the city is famous for has to be booked weeks ahead.",
-    comeArrivare: "Jorge Chávez Airport, the country's only intercontinental hub. From the airport to the center, authorized taxis or apps: never the unlicensed drivers at the exit.",
+    comeArrivare: "All intercontinental flights land at Jorge Chávez airport (LIM), whose new terminal opened in 2025. Miraflores and Barranco are 45-90 minutes away depending on traffic. The official Airport Express Lima bus goes to Miraflores for about 20-30 soles, roughly hourly from 7:00 to 21:00; an official taxi from the desks inside the terminal costs about 60-90 soles, Uber and Cabify about 55-105 soles from the pick-up area shown in the app. Never take the drivers who approach you at the exit.",
     comeSpostarsi: 'Taxi through an app, Metropolitano for the main axes; traffic is heavy, so always allow extra time.',
     periodoMigliore: 'December-April for the sun; from June to November the garúa, a constant damp haze, covers the city',
-    costi: 'average; haute cuisine has international prices, the rest does not',
+    costi: "Low budget about €35-50 a day per person (hostel or simple hotel in Miraflores, menú del día and a neighbourhood cevichería, Metropolitano); mid-range €90-140 (hotel in Miraflores or Barranco, restaurants, app taxis, a museum); high from €250 (luxury hotel and dinner at a world-ranked restaurant). Larco Museum 50 soles, Huaca Pucllana about 15 soles.",
     erroriDaEvitare: [
       'Taking unauthorized taxis at the airport exit: it is one of the spots where thefts from tourists are most frequent',
       "Skipping it entirely: many only pass through in transit, but in two days here you see a Peru that isn't in the Andes",
@@ -1357,6 +1441,8 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "By taxi or Metropolitano from Miraflores; then on foot.",
         "quando": "By day, on weekdays. At night it is better to avoid it.",
         "tempo": "Half a day",
+        "lat": -12.04583,
+        "lng": -77.03056,
         "consiglio": "The centre should be walked with care, especially off the main streets."
       },
       {
@@ -1365,6 +1451,9 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "On foot from any hotel in Miraflores.",
         "quando": "Sunset and evening, with the lights.",
         "tempo": "1-2 hours",
+        "costo": "Free",
+        "lat": -12.1268,
+        "lng": -77.03657,
         "consiglio": "It is among the city's calmer areas, but official advice reports robberies here too: keep your phone in your pocket."
       },
       {
@@ -1373,6 +1462,10 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "On foot from Miraflores; guided visit.",
         "quando": "By day; opening hours on the museum's official site.",
         "tempo": "1 hour",
+        "costo": "about 15 soles, about €4, with guided tour (from the trip)",
+        "orari": "Closed on Tuesdays",
+        "lat": -12.11111,
+        "lng": -77.03389,
         "consiglio": "Visit with a guide: it gives you the context of a Lima much older than the Incas."
       },
       {
@@ -1381,33 +1474,137 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "By taxi or app from Miraflores.",
         "quando": "Late afternoon and evening.",
         "tempo": "2-3 hours",
+        "lat": -12.14914,
+        "lng": -77.02262,
         "consiglio": "Rick ended the day here: an aperitif on the bridge at sunset."
       },
       {
         "nome": "Larco Museum",
         "testo": "A large collection of pre-Columbian art, in a viceregal house with gardens.",
         "come": "By taxi or app, in Pueblo Libre.",
-        "quando": "Morning, to avoid groups. Check hours and days on the site.",
+        "quando": "Morning, to avoid the groups; with an evening flight it fits well before the airport.",
         "tempo": "2 hours",
+        "costo": "50 soles, about €12.50; discount online (2026)",
+        "orari": "Every day including holidays, 9:00-19:00; 24, 25 and 31 December and 1 January 9:00-18:00",
+        "lat": -12.0725,
+        "lng": -77.07086,
         "url": "https://www.museolarco.org/",
         "consiglio": "Add it if you have a free half day, especially for the textiles and the erotic gallery."
+      },
+      {
+        "nome": "Lima Cathedral",
+        "testo": "The cathedral on the Plaza Mayor, rebuilt several times after earthquakes, with the chapel where Francisco Pizarro, the city's founder, is buried. Next to it is the Archbishop's Palace with its wooden balconies.",
+        "come": "On the Plaza Mayor, in the same outing as the historic centre.",
+        "quando": "Morning, on weekdays.",
+        "tempo": "45 minutes",
+        "lat": -12.04694,
+        "lng": -77.02972
+      },
+      {
+        "nome": "Basilica and Convent of Santo Domingo",
+        "testo": "One of the oldest convents in the city, steps from the Plaza Mayor, with cloisters lined with Sevillian azulejos and the relics of Saint Rose of Lima and Saint Martin de Porres.",
+        "come": "On foot from the Plaza Mayor, towards the river.",
+        "quando": "Morning.",
+        "tempo": "45 minutes",
+        "lat": -12.04409,
+        "lng": -77.03193
+      },
+      {
+        "nome": "Mercado Central and Barrio Chino",
+        "testo": "The covered market in the centre, with fruit, fish and food stalls, and right behind it the Chinese quarter, one of the oldest communities in South America. This is where chifa, Chinese-Peruvian cooking, was born.",
+        "come": "On foot from the Plaza Mayor, 10 minutes east.",
+        "quando": "Morning and lunchtime, on weekdays.",
+        "tempo": "1-2 hours",
+        "lat": -12.05006,
+        "lng": -77.02599,
+        "consiglio": "Backpack on your front and no phone in sight: it is one of the most crowded areas of the centre."
+      },
+      {
+        "nome": "Museo de Arte de Lima (MALI)",
+        "testo": "The city's art museum, in the 19th-century Exhibition Palace in the Parque de la Exposición. The collection runs from pre-Columbian textiles and ceramics to colonial painting and 20th-century Peruvian art.",
+        "come": "By taxi or app; about 15 minutes from the historic centre, or Metropolitano to Estación Central.",
+        "quando": "Afternoon, after the historic centre.",
+        "tempo": "2 hours",
+        "orari": "Tuesday to Sunday 10:00-18:00, Saturday until 17:00; closed on Mondays",
+        "lat": -12.06045,
+        "lng": -77.03697,
+        "url": "https://mali.pe/"
+      },
+      {
+        "nome": "Circuito Mágico del Agua",
+        "testo": "The fountains of the Parque de la Reserva, a park from the 1920s: thirteen fountains, some you can walk through, and in the evening a light and projection show on the water. The easiest evening out with children.",
+        "come": "By taxi or app; the park lies between the centre and Miraflores, by the Vía Expresa.",
+        "quando": "After sunset, for the light show.",
+        "tempo": "1-2 hours",
+        "lat": -12.07083,
+        "lng": -77.03333
+      },
+      {
+        "nome": "Parque Kennedy",
+        "testo": "The park in the middle of Miraflores, famous for the cats living among the flowerbeds. Around it are the Virgen Milagrosa church, cafés, restaurants and, in the evening, painters and craft stalls.",
+        "come": "On foot from any hotel in Miraflores; 10 minutes from the Malecón along Avenida Larco.",
+        "quando": "Evening.",
+        "tempo": "30 minutes-1 hour",
+        "costo": "Free",
+        "lat": -12.12061,
+        "lng": -77.02964
+      },
+      {
+        "nome": "National Museum of Archaeology, Anthropology and History",
+        "testo": "Peru's oldest museum, in Pueblo Libre, with a room for each pre-Hispanic culture, from the Chavín stelae to the Paracas textiles, and the house where San Martín and Bolívar lived.",
+        "come": "By taxi or app to Pueblo Libre; from the Larco Museum it is about 20 minutes on foot following the blue line painted on the pavement.",
+        "quando": "Morning, in the same outing as the Larco.",
+        "tempo": "1-2 hours",
+        "lat": -12.07722,
+        "lng": -77.06194
+      },
+      {
+        "nome": "Palomino Islands",
+        "testo": "A group of islets off Callao, home to a large sea lion colony. Boats stop near the rocks and, when the sea is calm, you can swim with the sea lions in a wetsuit and life jacket.",
+        "come": "Boat trip from the port of Callao, with an agency; transfer from Miraflores in about 45 minutes.",
+        "quando": "Morning, when the sea is calmest; in summer (December-March) the water is less cold.",
+        "tempo": "half a day",
+        "lat": -12.12944,
+        "lng": -77.23333,
+        "consiglio": "If you get seasick, take something before leaving: the open sea makes itself felt."
+      },
+      {
+        "nome": "Pachacamac",
+        "testo": "The great pre-Hispanic sanctuary in the Lurín valley, south of the city, seat of an oracle revered for centuries before and during Inca times. Among the dunes are adobe pyramids, the Temple of the Sun and a modern museum.",
+        "come": "At km 31.5 of the old Panamericana Sur, in Lurín: car, app taxi or half-day tour.",
+        "quando": "Morning, before the strong sun.",
+        "tempo": "2-3 hours plus travel, half a day",
+        "lat": -12.25667,
+        "lng": -76.90028,
+        "url": "https://pachacamac.cultura.pe/"
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: historic centre",
+          "Morning: historic centre, Plaza Mayor, cathedral and San Francisco convent",
           "Lunch: ceviche in a neighbourhood cevichería",
-          "Afternoon: Miraflores and Malecón",
-          "Sunset: Barranco"
+          "Afternoon: Miraflores, the Malecón and Huaca Pucllana",
+          "Sunset: Barranco and the Puente de los Suspiros"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
           "Day 1: the 1-day plan",
-          "Day 2: Larco Museum and Huaca Pucllana, dinner at a restaurant booked in advance"
+          "Day 2: Larco Museum and the National Museum of Archaeology in Pueblo Libre",
+          "Afternoon: Mercado Central and Barrio Chino, chifa lunch",
+          "Evening: Circuito Mágico del Agua or dinner at a restaurant booked ahead"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Pachacamac in the morning or the Palomino Islands by boat",
+          "Afternoon: MALI",
+          "Evening: Parque Kennedy and dinner in Miraflores"
         ]
       }
     ],
@@ -1415,17 +1612,20 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Miraflores",
         "perChi": "Those who want convenience and safety",
-        "testo": "The most convenient and safe area, near the Malecón. More expensive."
+        "testo": "The most convenient and safe area, near the Malecón. More expensive.",
+        "fascia": "€60-220"
       },
       {
         "nome": "Barranco",
         "perChi": "Those who want atmosphere and nightlife",
-        "testo": "Bohemian, with bars and murals. Noisier at night."
+        "testo": "Bohemian, with bars and murals. Noisier at night.",
+        "fascia": "€50-180"
       },
       {
         "nome": "Historic centre",
         "perChi": "Budget travellers",
-        "testo": "Cheap lodging, but the area empties at night and is less safe."
+        "testo": "Cheap lodging, but the area empties at night and is less safe.",
+        "fascia": "€30-80"
       }
     ],
     sapori: [
@@ -1455,6 +1655,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Robberies even in tourist areas such as Miraflores and Barranco: no valuables on show, phone away from the roadside, ATMs only inside banks or buildings.",
       "Traffic is heavy: always add time.",
       "Book high-end restaurants ahead."
+    ],
+    gite: [
+      {
+        "nome": "Pachacamac",
+        "distanza": "about 31 km, 1 hour",
+        "come": "Car or app taxi along the old Panamericana Sur, or a half-day tour.",
+        "testo": "The sanctuary of the coast's most important oracle, with adobe pyramids among the dunes and a modern museum: the easiest archaeological trip from Lima."
+      },
+      {
+        "nome": "Paracas and the Ballestas Islands",
+        "distanza": "about 250 km, 3.5-4 hours by bus",
+        "come": "Bus with one of the main companies to Paracas, then a boat to the Ballestas in the morning. Better with a night.",
+        "testo": "The \"poor man's Galápagos\": rocky islands with sea lions, Humboldt penguins and thousands of seabirds, plus the desert reserve on the ocean."
+      },
+      {
+        "nome": "Caral",
+        "distanza": "about 180 km north, 3-4 hours",
+        "come": "Organised tour or car with driver; a full day.",
+        "testo": "The sacred city of Caral, a UNESCO World Heritage Site, with pyramids and circular plazas almost five thousand years old: the oldest urban centre in the Americas."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Lima?",
+        "risposta": "Two days are enough for the historic centre, Miraflores, Barranco and a museum; a third adds Pachacamac or the Palomino Islands."
+      },
+      {
+        "domanda": "Is it better to stay in Miraflores or Barranco?",
+        "risposta": "Miraflores is handier and quieter, close to the Malecón and the airport buses; Barranco has more atmosphere and bars but is noisier at night. The historic centre is cheaper but empties out in the evening."
+      },
+      {
+        "domanda": "Is Lima safe?",
+        "risposta": "Get around with care: robberies and phone thefts happen in Miraflores and Barranco too. Only app or official taxis, phone in your pocket, cash machines inside banks or shopping centres."
+      },
+      {
+        "domanda": "When do you eat ceviche?",
+        "risposta": "At lunchtime, like the limeños: cevicherías work with the morning catch and many close in the afternoon."
+      },
+      {
+        "domanda": "How do you get from the airport to Miraflores?",
+        "risposta": "With the Airport Express Lima bus (about 20-30 soles), an official taxi from the desks in the terminal (60-90 soles) or Uber and Cabify. The ride takes 45-90 minutes depending on traffic."
+      },
+      {
+        "domanda": "When is it sunny in Lima?",
+        "risposta": "From December to April. From June to November the garúa, a grey damp haze, covers the city almost every day, without real rain."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],

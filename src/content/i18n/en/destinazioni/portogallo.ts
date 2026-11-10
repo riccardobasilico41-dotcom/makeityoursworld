@@ -407,11 +407,11 @@ export const destinazioniPortogallo: Destinazione[] = [
     doveDormire: 'It is visited as a day trip from Lisbon, without sleeping in Sintra.',
     doveMangiare: 'Travesseiros and queijadas, the typical sweets, at one of the historic pastry shops in the center. For the rest there are mostly tourist places around the station and in the pedestrian center.',
     comeArrivare:
-      "By regional train from Rossio station in Lisbon: about 40 minutes, with very frequent departures during the day. It's much simpler and cheaper than a rental car, also because in the center of Sintra, on weekends and in high season, parking is scarce.",
+      "From Rossio station, in the heart of Lisbon, the CP Sintra line train reaches the end of the line in about 40 minutes, with frequent services from morning to evening. A Lisbon-Sintra return costs €5.10 (CP fares 2026) and is loaded on the €0.50 Navegante ocasional card; the €14 Train&Bus ticket is valid for a day on the train and on Scotturb buses 434 (Pena) and 435 (Monserrate). From the airport take the red metro line and change at Alameda to the green line for Rossio. By car, parking in the centre is scarce.",
     comeSpostarsi: "Local bus 434 runs a loop between the station, the historic center and the Pena Palace. The pedestrian center is walkable, but between the main sites (Pena, Regaleira, Castelo dos Mouros) it's always uphill, and the distances are longer than they look on the map.",
     periodoMigliore:
       "the climate is fine all year; the problem is the crowd. On weekends and in high season (June-August) the lines at the main palaces get very long already from late morning. On a weekday, leaving as early as possible, the wait is greatly reduced in any season.",
-    costi: 'Pena Palace about 20-25€, Quinta da Regaleira about 15€, with discounts on combined tickets; train from Lisbon about 5€ each way',
+    costi: "Pena Palace €20 (park and palace), park only €12; Quinta da Regaleira €20; Moorish Castle and Monserrate €12; National Palace €13; Convent of the Capuchos €11; train from Lisbon €5.10 return. Indicative daily budget per person on a day trip from Lisbon, entries included: low €40-60, mid €70-100, high over €150.",
     erroriDaEvitare: [
       'Arriving mid-morning thinking you will "do everything at leisure": the lines at the Pena Palace and the Quinta da Regaleira lengthen fast after 10-11',
       "Not booking the time-slot tickets online: in high season the morning slots run out",
@@ -427,7 +427,10 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "2-3 hours with the park",
         "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
         "costo": "Visita Essencial (park and palace) €20, park only €12, 2026 (official site)",
-        "consiglio": "The park can be visited on its own without the palace queue and has viewpoints: useful if the queues are too long."
+        "consiglio": "The park can be visited on its own without the palace queue and has viewpoints: useful if the queues are too long.",
+        "orari": "Park 9:00-19:00 (last entry 18:00), palace 9:30-18:30 (last entry 17:30).",
+        "lat": 38.78778,
+        "lng": -9.39056
       },
       {
         "nome": "Quinta da Regaleira",
@@ -436,7 +439,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Early morning or early afternoon: by late morning the well fills up. Hours on the official site.",
         "tempo": "2 hours",
         "url": "https://www.regaleira.pt/",
-        "consiglio": "Go down the well in non-slip shoes and return through the tunnels: the exit is nicer than the descent."
+        "consiglio": "Go down the well in non-slip shoes and return through the tunnels: the exit is nicer than the descent.",
+        "costo": "20 euros from January 2026 (official site)",
+        "orari": "January-March and October-December 10:00-18:30; April-September 9:00-19:30. Last entry always at 17:30; the palace and chapel close 30 minutes before the garden.",
+        "lat": 38.79511,
+        "lng": -9.3962
       },
       {
         "nome": "Castelo dos Mouros",
@@ -445,7 +452,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Morning, with less wind. In fog the view is lost.",
         "tempo": "1-1.5 hours",
         "url": "https://www.parquesdesintra.pt/",
-        "consiglio": "If you have time for only one castle or palace besides the Pena, the crowds here are smaller."
+        "consiglio": "If you have time for only one castle or palace besides the Pena, the crowds here are smaller.",
+        "costo": "12 euros (Parques de Sintra)",
+        "orari": "9:30-18:00, last entry 17:30.",
+        "lat": 38.79241,
+        "lng": -9.38867
       },
       {
         "nome": "Palácio Nacional de Sintra",
@@ -454,7 +465,11 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Before lunch; the square is quieter in the evening.",
         "tempo": "1 hour",
         "url": "https://www.parquesdesintra.pt/",
-        "consiglio": "Visit it if you're in town in the afternoon: less queue than the Pena."
+        "consiglio": "Visit it if you're in town in the afternoon: less queue than the Pena.",
+        "costo": "essential visit 13 euros (Parques de Sintra)",
+        "orari": "Palace and gardens 9:30-18:30; last entry to the palace 17:30.",
+        "lat": 38.79778,
+        "lng": -9.39083
       },
       {
         "nome": "Cabo da Roca",
@@ -462,25 +477,89 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "From Sintra centre by the scheduled bus towards Cascais (times on the Carris Metropolitana app) or by car.",
         "quando": "At sunset in strong wind; bring a jacket even in summer.",
         "tempo": "1 hour",
-        "consiglio": "The visit certificate is bought at the small tourist office: it's a souvenir, not required."
+        "consiglio": "The visit certificate is bought at the small tourist office: it's a souvenir, not required.",
+        "costo": "free",
+        "lat": 38.78083,
+        "lng": -9.50056
+      },
+      {
+        "nome": "Monserrate Park and Palace",
+        "testo": "A 19th-century palace with domes and decoration inspired by Moorish and Indian art, built for the English collector Francis Cook. Around it is a sloping botanical park with tree ferns, lawns and plants from every continent. It has far fewer people than Pena.",
+        "come": "West of the centre, with Scotturb bus 435 from the station or by car. The road passes the Quinta da Regaleira and Seteais.",
+        "quando": "In the afternoon, after Pena; with the sun low the palace turns pink.",
+        "tempo": "2 hours",
+        "costo": "12 euros (Parques de Sintra)",
+        "orari": "Park 9:00-19:00 (last entry 18:00), palace 9:30-18:00.",
+        "lat": 38.79423,
+        "lng": -9.42065,
+        "url": "https://www.parquesdesintra.pt/"
+      },
+      {
+        "nome": "Convent of the Capuchos",
+        "testo": "A small 16th-century Franciscan convent hidden in the forest of the serra, with tiny cells and low doors lined with cork. It is the opposite of the royal palaces: poor, silent, almost carved into the rock.",
+        "come": "It is isolated in the forest of the serra, away from the centre: you get there by car or taxi.",
+        "quando": "On foggy days, when the forest around it is at its best.",
+        "tempo": "1 hour",
+        "costo": "11 euros (Parques de Sintra)",
+        "orari": "9:00-17:30, last entry 17:00.",
+        "lat": 38.7844,
+        "lng": -9.43817,
+        "url": "https://www.parquesdesintra.pt/"
+      },
+      {
+        "nome": "Chalet of the Countess of Edla",
+        "testo": "An Alpine-style chalet built by Ferdinand II and his second wife, the singer Elise Hensler, in the western part of the Pena park. Outside it is decorated with imitation wood and cork, inside with azulejos and stucco.",
+        "come": "Inside the Pena park: you reach it on foot from the palace along the park trails.",
+        "quando": "After Pena, when people concentrate on the palace.",
+        "tempo": "45 minutes",
+        "costo": "included in the Pena park ticket, 12 euros (Parques de Sintra)",
+        "orari": "Chalet 9:00-17:30, last entry 17:00; park 9:00-19:00.",
+        "lat": 38.7851,
+        "lng": -9.39911,
+        "url": "https://www.parquesdesintra.pt/"
+      },
+      {
+        "nome": "Palácio de Seteais",
+        "testo": "A late 18th-century neoclassical palace, now a hotel, with a large arch between its two wings. From the lawn in front you see Pena and the Moorish Castle on the ridge.",
+        "come": "On foot from the centre, 10-15 minutes on the road to Monserrate, just after the Quinta da Regaleira.",
+        "quando": "In the late afternoon, on the way back from Monserrate.",
+        "tempo": "20-30 minutes",
+        "lat": 38.7968,
+        "lng": -9.39957
+      },
+      {
+        "nome": "Azenhas do Mar",
+        "testo": "A village of white houses clinging to a cliff above the Atlantic, over a natural pool carved among the rocks. It is the postcard of the Sintra coast, about twenty minutes from the serra.",
+        "come": "By car from the centre of Sintra towards Colares and the coast. The viewpoint is on the road above the village.",
+        "quando": "At sunset; the natural pool is usable at low tide with a calm sea.",
+        "tempo": "1 hour",
+        "lat": 38.84096,
+        "lng": -9.46191
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Train from Rossio, leaving before 8",
-          "Pena Palace at opening",
-          "Moors Castle or Regaleira in late morning",
-          "Lunch in town with a travesseiro",
+          "Train from Rossio, leaving before 8:00",
+          "Pena Palace at opening time",
+          "Moorish Castle or Regaleira in the late morning",
+          "Lunch in the centre with a travesseiro",
           "Train back in the afternoon"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Pena, Moors Castle, old town",
-          "Day 2: Regaleira, National Palace, Cabo da Roca at sunset"
+          "Day 1: Pena, Chalet of the Countess of Edla, Moorish Castle, old town",
+          "Day 2: Regaleira at opening time, Seteais and Monserrate, National Palace in the late afternoon"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1 and 2: as above",
+          "Day 3: Convent of the Capuchos in the morning, Azenhas do Mar, Cabo da Roca at sunset and back via Cascais"
         ]
       }
     ],
@@ -488,12 +567,60 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Day trip from Lisbon",
         "perChi": "most visitors",
-        "testo": "Train from Rossio in under an hour, back in the evening. A tight pace with the queues, but low cost."
+        "testo": "Train from Rossio in under an hour, back in the evening. A tight pace with the queues, but low cost.",
+        "fascia": "100-250 € in Lisbon"
       },
       {
         "nome": "Sintra, old town",
         "perChi": "those who want the town without the crowds",
-        "testo": "Sleeping in town means seeing Pena at opening and the centre in the evening. Few hotels and high prices."
+        "testo": "Sleeping in town means seeing Pena at opening and the centre in the evening. Few hotels and high prices.",
+        "fascia": "110-200 €"
+      },
+      {
+        "nome": "Colares and the coast",
+        "perChi": "those with a car who want the sea nearby",
+        "testo": "Quintas and rental houses among the Colares vineyards, a few minutes from Azenhas do Mar and the beaches. Quiet evenings, but you need a car for the palaces.",
+        "fascia": "90-180 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Cascais and Boca do Inferno",
+        "distanza": "about 30-40 minutes by bus or car",
+        "come": "Scheduled bus from Sintra via Cabo da Roca, or by car; from Cascais you return to Lisbon by train to Cais do Sodré in about 40 minutes.",
+        "testo": "The seaside town that was the court's summer residence, with its harbour, the town beach and the Boca do Inferno cliffs a few minutes' walk away."
+      },
+      {
+        "nome": "Queluz National Palace",
+        "distanza": "about 20 minutes by train",
+        "come": "Sintra line train to Queluz-Belas, then on foot to the palace.",
+        "testo": "The Rococo palace of the Braganzas, with gilded halls, French-style gardens and a canal lined with azulejos. It is on the Lisbon-Sintra line, so it fits in without detours. Palace and gardens 13 euros, gardens only 6 euros; 9:00-18:00, gardens until 18:30 (Parques de Sintra)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Sintra?",
+        "risposta": "A full day is enough for Pena and one or two other sites. With two days you add Monserrate, Seteais and the National Palace without rushing, with a third also the Capuchos and the coast."
+      },
+      {
+        "domanda": "Do you need to book Pena and Regaleira?",
+        "risposta": "Pena Palace can only be visited with a date and time slot, so it must be booked on the Parques de Sintra website. For Regaleira, an online ticket saves the queue at the ticket office."
+      },
+      {
+        "domanda": "How do you get to Sintra from Lisbon?",
+        "risposta": "By CP train from Rossio, about 40 minutes; a return costs 5.10 euros. The 14-euro Train&Bus ticket also includes buses 434 and 435."
+      },
+      {
+        "domanda": "If there is time for only one site, Pena or Regaleira?",
+        "risposta": "Pena for the views and the royal interiors, Regaleira for the well and the symbolic gardens. With real queues, late arrivals find Regaleira easier to manage."
+      },
+      {
+        "domanda": "Is it worth driving to Sintra?",
+        "risposta": "Usually not: private cars cannot go up to Pena and parking in the centre is scarce at weekends. A car is only useful for the Capuchos and the coast."
+      },
+      {
+        "domanda": "Is it worth staying overnight in Sintra?",
+        "risposta": "Yes, if you want Pena at opening time and the centre in the evening without groups. There are few hotels and they cost more than in Lisbon, so book early."
       }
     ],
     sapori: [

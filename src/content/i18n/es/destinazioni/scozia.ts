@@ -306,10 +306,266 @@ export const destinazioniScozia: Destinazione[] = [
     percheAndarci: 'Para una parada de camino a Loch Lomond: la catedral, la Necrópolis y el Kelvingrove, el museo de arte más famoso de la ciudad.',
     cosaVedere: ['La catedral de Glasgow', 'La Necrópolis', 'El Kelvingrove Art Gallery and Museum', 'El centro victoriano alrededor de George Square'],
     cosaFare: ['Subir a la Necrópolis para ver la catedral desde arriba', 'Un paseo por el West End y el Kelvingrove Park'],
-    comeArrivare: 'En tren o en coche desde Edimburgo, en una hora aproximadamente.',
+    comeArrivare:
+      'Desde el aeropuerto de Glasgow (GLA) el autobús Glasgow Airport Express 500 va al centro, hasta Buchanan Bus Station, cada 10 minutos y las 24 horas, en unos 15-25 minutos. Desde Edimburgo los trenes de ScotRail a Glasgow Queen Street salen varias veces por hora y tardan menos de una hora; en coche se tarda una hora y cuarto aproximadamente. Desde Londres Euston hay trenes directos a Glasgow Central.',
+    costi:
+      'Los museos municipales (Kelvingrove, Riverside, Burrell, GoMA, Provand\'s Lordship) y el Hunterian son gratuitos; se pagan el Glasgow Science Centre (15,50 libras, unos 18 €) y el barco Glenlee (5,50 libras, unos 6 €), precios de 2026. Desde enero de 2027 hay una tasa turística del 5% sobre el precio del alojamiento. Presupuesto orientativo al día por persona, con la doble compartida: bajo 70-100 €, medio 140-200 €, alto más de 300 €.',
     comeSpostarsi: 'A pie en el centro, el metro para el West End.',
     erroriDaEvitare: ['Entrar en el centro en coche sin haber comprobado las normas de las zonas de bajas emisiones: conviene aparcar fuera y usar el metro'],
     miaEsperienza: 'Solo pasé de camino.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Catedral de Glasgow",
+        "testo": "Una de las pocas iglesias medievales escocesas que llegaron intactas a después de la Reforma. La cripta, con la tumba de san Mungo, el fundador de la ciudad, es la parte más antigua.",
+        "come": "Entrada libre con franja horaria elegida online; audioguía de pago. Es una iglesia en uso y puede cerrar por oficios.",
+        "quando": "Por la mañana entre semana.",
+        "tempo": "45 minutos-1 hora",
+        "costo": "Gratis, se agradecen donativos",
+        "orari": "Del 1 de abril al 30 de septiembre, lunes a sábado de 9:30 a 17, domingo de 13 a 17; del 1 de octubre al 31 de marzo, lunes a sábado de 10 a 16, domingo de 13 a 16. Última entrada 45 minutos antes. Cerrada el 25-26 de diciembre y el 1-2 de enero.",
+        "lat": 55.863,
+        "lng": -4.2346,
+        "url": "https://www.historicenvironment.scot/visit-a-place/places/glasgow-cathedral/"
+      },
+      {
+        "nome": "Necrópolis",
+        "testo": "El cementerio victoriano en la colina junto a la catedral, con obeliscos, mausoleos y estatuas de los comerciantes de la ciudad. Desde arriba se ve todo Glasgow, con la catedral a los pies.",
+        "come": "A pie desde la catedral, cruzando el puente. Los Amigos de la Necrópolis organizan visitas guiadas a pie algunos fines de semana, que se reservan en su web.",
+        "quando": "Con la luz de la tarde.",
+        "tempo": "1 hora",
+        "costo": "Gratis",
+        "lat": 55.86217,
+        "lng": -4.2334,
+        "url": "https://www.glasgownecropolis.org/"
+      },
+      {
+        "nome": "Provand's Lordship",
+        "testo": "La casa más antigua de Glasgow, del siglo XV, frente a la catedral, con las habitaciones amuebladas y un pequeño jardín. Al lado está el St Mungo Museum, dedicado a las religiones.",
+        "come": "A pie, en la plaza de la catedral.",
+        "tempo": "30 minutos",
+        "costo": "Gratis",
+        "orari": "Lunes a jueves y sábado de 10 a 17, viernes y domingo de 11 a 17.",
+        "lat": 55.8624,
+        "lng": -4.2369,
+        "url": "https://www.glasgowlife.org.uk/museums/venues/provands-lordship"
+      },
+      {
+        "nome": "Kelvingrove Art Gallery and Museum",
+        "testo": "El museo más visitado de la ciudad, en un gran edificio de arenisca roja: arte europeo y escocés, armas y armaduras, historia natural. La sala más conocida tiene el Cristo de San Juan de la Cruz de Salvador Dalí.",
+        "come": "Metro hasta Kelvinhall, o a pie desde el West End. Entrada libre, sin reserva. Durante las obras de restauración algunas zonas tienen andamios, pero el museo sigue abierto.",
+        "quando": "Por la mañana entre semana.",
+        "tempo": "2-3 horas",
+        "costo": "Gratis, se agradecen donativos",
+        "orari": "Lunes a jueves y sábado de 10 a 17, viernes y domingo de 11 a 17.",
+        "lat": 55.86861,
+        "lng": -4.29056,
+        "url": "https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum"
+      },
+      {
+        "nome": "Universidad de Glasgow y Hunterian",
+        "testo": "El edificio principal de la universidad, neogótico, con los claustros y la torre sobre el Kelvingrove Park. Dentro está el Hunterian, el museo más antiguo de Escocia, y enfrente la galería de arte con la Mackintosh House, los interiores reconstruidos de la casa de Charles Rennie Mackintosh.",
+        "come": "Metro hasta Hillhead y luego a pie, o a pie desde el Kelvingrove.",
+        "quando": "De martes a domingo.",
+        "tempo": "2 horas",
+        "costo": "Museo y galería gratuitos; la Mackintosh House es de pago",
+        "orari": "Martes a domingo de 10 a 17, cerrado los lunes.",
+        "lat": 55.87194,
+        "lng": -4.28861,
+        "url": "https://www.gla.ac.uk/hunterian/"
+      },
+      {
+        "nome": "Kelvingrove Park",
+        "testo": "El parque victoriano junto al río Kelvin, entre el museo y la universidad, con fuentes, puentes y vistas de las torres del West End.",
+        "come": "A pie, entre el Kelvingrove y la universidad.",
+        "quando": "Con buen tiempo, a mediodía.",
+        "tempo": "1 hora",
+        "costo": "Gratis",
+        "lat": 55.86833,
+        "lng": -4.28639
+      },
+      {
+        "nome": "Riverside Museum y el Glenlee",
+        "testo": "El museo del transporte junto al río Clyde, en el edificio en zigzag de Zaha Hadid: tranvías, locomotoras, coches y una calle de Glasgow reconstruida. Fuera está amarrado el Glenlee, un velero de finales del siglo XIX.",
+        "come": "En autobús desde el centro o a pie por el río desde el Kelvingrove, en media hora aproximadamente.",
+        "tempo": "2 horas",
+        "costo": "Museo gratuito; Glenlee 5,50 libras, unos 6 € (2026)",
+        "orari": "Museo: lunes a jueves y sábado de 10 a 17, viernes y domingo de 11 a 17.",
+        "lat": 55.8651,
+        "lng": -4.30638,
+        "url": "https://www.glasgowlife.org.uk/museums/venues/riverside-museum"
+      },
+      {
+        "nome": "Botanic Gardens y Kibble Palace",
+        "testo": "El jardín botánico al final de Great Western Road, con el Kibble Palace, un gran invernadero victoriano de hierro y cristal lleno de helechos arborescentes.",
+        "come": "Metro hasta Hillhead y luego pocos minutos a pie.",
+        "quando": "Los días de lluvia, en los invernaderos.",
+        "tempo": "1 hora",
+        "costo": "Gratis",
+        "orari": "Jardines todos los días de 7 al anochecer; invernaderos de 10 a 18, en invierno hasta las 16:15.",
+        "lat": 55.8793,
+        "lng": -4.29066,
+        "url": "https://glasgowbotanicgardens.com/"
+      },
+      {
+        "nome": "Ashton Lane",
+        "testo": "Un callejón empedrado del West End, detrás del metro de Hillhead, con pubs, restaurantes y un cine bajo guirnaldas de luces.",
+        "come": "A pie desde el metro de Hillhead.",
+        "quando": "Por la noche.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis",
+        "lat": 55.87476,
+        "lng": -4.29286
+      },
+      {
+        "nome": "Burrell Collection",
+        "testo": "La colección de arte de un armador de Glasgow, más de nueve mil objetos entre tapices, vidrieras, cerámica china y cuadros, en un edificio acristalado del Pollok Country Park. Reabrió en 2022 tras una larga restauración.",
+        "come": "En tren desde Glasgow Central hasta Pollokshaws West y luego a pie por el parque.",
+        "tempo": "2-3 horas",
+        "costo": "Gratis, se agradecen donativos",
+        "orari": "Lunes a jueves y sábado de 10 a 17, viernes y domingo de 11 a 17.",
+        "lat": 55.83083,
+        "lng": -4.3075,
+        "url": "https://www.glasgowlife.org.uk/museums/venues/the-burrell-collection"
+      },
+      {
+        "nome": "Gallery of Modern Art (GoMA)",
+        "testo": "La galería de arte contemporáneo en un edificio neoclásico de Royal Exchange Square. Delante está la estatua del duque de Wellington, casi siempre con un cono de tráfico en la cabeza.",
+        "come": "A pie en el centro, entre Buchanan Street y George Square.",
+        "tempo": "1 hora",
+        "costo": "Gratis, se agradecen donativos",
+        "orari": "Lunes a jueves y sábado de 10 a 17, viernes y domingo de 11 a 17.",
+        "lat": 55.8602,
+        "lng": -4.25249,
+        "url": "https://www.glasgowlife.org.uk/museums/venues/gallery-of-modern-art-goma"
+      },
+      {
+        "nome": "George Square y City Chambers",
+        "testo": "La plaza principal de la ciudad, con sus estatuas y, en un lado, los City Chambers, el ayuntamiento victoriano con interiores de mármol.",
+        "come": "A pie, junto a la estación de Queen Street.",
+        "tempo": "30 minutos",
+        "costo": "Gratis",
+        "lat": 55.86111,
+        "lng": -4.25028
+      },
+      {
+        "nome": "Los murales del centro",
+        "testo": "Un recorrido por los grandes murales pintados en las fachadas del centro, entre ellos el san Mungo moderno de High Street, de camino a la catedral.",
+        "come": "A pie, con el mapa del City Centre Mural Trail.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis"
+      },
+      {
+        "nome": "Glasgow Science Centre",
+        "testo": "El museo de la ciencia en la orilla sur del Clyde, con experimentos para tocar, un planetario y la torre giratoria al lado. Está pensado sobre todo para familias.",
+        "come": "A pie desde el Riverside cruzando el río, o en autobús desde el centro.",
+        "tempo": "2-3 horas",
+        "costo": "Adultos 15,50 libras con el donativo voluntario, 14,09 sin él, unos 16-18 € (2026)",
+        "orari": "Hasta el 25 de marzo de 2027: miércoles a viernes de 10 a 15, sábado y domingo de 10 a 17, cerrado lunes y martes. Desde el 26 de marzo de 2027 todos los días de 10 a 17.",
+        "lat": 55.85854,
+        "lng": -4.2938,
+        "url": "https://www.glasgowsciencecentre.org/"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Catedral a la apertura",
+          "Necrópolis",
+          "Provand's Lordship",
+          "George Square y GoMA",
+          "Tarde en el West End: Kelvingrove, Kelvingrove Park y la universidad",
+          "Ashton Lane por la noche"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba",
+          "Día 2: Riverside Museum y el Glenlee, los murales del centro, Botanic Gardens por la tarde"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2: como arriba",
+          "Día 3: Burrell Collection por la mañana, luego el Science Centre, o una excursión a Loch Lomond"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Merchant City y centro",
+        "perChi": "quien quiere todo a pie",
+        "testo": "Entre George Square, Buchanan Street y la catedral: restaurantes, bares y las dos estaciones a pocos minutos.",
+        "fascia": "100-180 €"
+      },
+      {
+        "nome": "West End",
+        "perChi": "quien prefiere un barrio animado pero tranquilo",
+        "testo": "Alrededor de la universidad, Byres Road y Ashton Lane, con casas victorianas, B&B y el metro al centro.",
+        "fascia": "110-200 €"
+      },
+      {
+        "nome": "Finnieston",
+        "perChi": "quien sale a cenar",
+        "testo": "Entre el centro y el West End, en Argyle Street: los restaurantes más nuevos de la ciudad y el Kelvingrove al lado.",
+        "fascia": "110-190 €"
+      },
+      {
+        "nome": "Cerca de las estaciones",
+        "perChi": "quien llega en tren y se va temprano",
+        "testo": "Alrededor de Glasgow Central y Queen Street: hoteles de cadena, cómodos para las excursiones.",
+        "fascia": "90-160 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Loch Lomond",
+        "distanza": "45 minutos en coche hasta Luss",
+        "come": "En coche por la A82, o en tren hasta Balloch.",
+        "testo": "El lago más grande de Escocia, con el pueblo de Luss en la orilla oeste y colinas alrededor. Es la primera etapa hacia las Highlands."
+      },
+      {
+        "nome": "Edimburgo",
+        "distanza": "menos de una hora en tren",
+        "come": "En tren de ScotRail desde Glasgow Queen Street hasta Edinburgh Waverley.",
+        "testo": "El castillo, la Old Town y la New Town georgiana. Se puede ver en un día, pero merece una noche."
+      },
+      {
+        "nome": "Stirling",
+        "distanza": "unos 40 km",
+        "come": "En tren desde Glasgow Queen Street, o en coche.",
+        "testo": "El castillo de los Estuardo en lo alto de una roca y el Wallace Monument en la colina de enfrente."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Glasgow?",
+        "risposta": "Un día para la catedral, la Necrópolis y el West End. Con dos se añaden el Riverside y el jardín botánico; con tres, la Burrell Collection o una excursión."
+      },
+      {
+        "domanda": "¿Glasgow o Edimburgo como base?",
+        "risposta": "Edimburgo para el castillo y la Old Town, Glasgow para los museos gratuitos, el West End y la salida hacia Loch Lomond. Están a menos de una hora en tren: se puede dormir en una y visitar la otra en el día."
+      },
+      {
+        "domanda": "¿Los museos de Glasgow son gratuitos?",
+        "risposta": "Sí, los municipales: Kelvingrove, Riverside, la Burrell Collection, GoMA y Provand's Lordship. El Hunterian de la universidad también es gratuito, pero cierra los lunes."
+      },
+      {
+        "domanda": "¿Hay que reservar la catedral de Glasgow?",
+        "risposta": "La entrada es libre, pero se elige una franja horaria online. Los horarios pueden cambiar por oficios y actos."
+      },
+      {
+        "domanda": "¿Se puede entrar en coche al centro de Glasgow?",
+        "risposta": "El centro es una zona de bajas emisiones y los vehículos que no cumplen se multan. Conviene comprobar el coche, aparcar fuera y usar el metro."
+      },
+      {
+        "domanda": "¿Hay tasa turística en Glasgow?",
+        "risposta": "Desde enero de 2027, sí: el 5% del precio del alojamiento, por cada noche."
+      }
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['scozia-highlands-distillerie'],
     imageAlt: 'La catedral de Glasgow vista desde la Necrópolis, entre las lápidas victorianas',
@@ -453,7 +709,10 @@ export const destinazioniScozia: Destinazione[] = [
     percheAndarci: 'Por los paisajes de la península de Trotternish, con el Old Man of Storr y el Quiraing, por las Fairy Pools y por Talisker.',
     cosaVedere: ['El Old Man of Storr', 'El Quiraing', 'Las Fairy Pools', 'Portree', 'El castillo de Eilean Donan, de camino a Skye', 'La destilería Talisker en Carbost'],
     cosaFare: ['El sendero del Old Man of Storr a primera hora de la mañana', 'La vuelta a la península de Trotternish en coche', 'La visita a Talisker'],
-    comeArrivare: 'En coche por el puente de Skye, desde Kyle of Lochalsh; o con el ferri de CalMac de Mallaig a Armadale, que hay que reservar si se va con coche.',
+    comeArrivare:
+      'En coche por el puente de Skye, gratuito, desde Kyle of Lochalsh; o con el ferri de CalMac de Mallaig a Armadale, en unos 30 minutos, que hay que reservar con el coche en calmac.co.uk. De Inverness a Portree hay unas tres horas de coche; desde Glasgow, pasando por Loch Lomond y Glencoe, unas cinco sin paradas. Sin coche, el tren llega a Kyle of Lochalsh desde Inverness o a Mallaig desde Fort William, y los autocares de Citylink unen Glasgow e Inverness con Portree.',
+    costi:
+      'Los senderos y los miradores son gratuitos; se pagan los aparcamientos (Storr unas 5-6 libras), las destilerías y los castillos: Talisker desde 22 libras, Dunvegan 18, Eilean Donan 13 (2026). En verano dormir es caro y las plazas se agotan pronto. Presupuesto orientativo al día por persona, con la doble compartida y el coche aparte: bajo 80-110 €, medio 150-220 €, alto más de 300 €.',
     comeSpostarsi: 'En coche, por carreteras a menudo de un solo carril con apartaderos para cruzarse.',
     periodoMigliore: 'de mayo a septiembre; en julio y agosto los aparcamientos de los senderos famosos se llenan pronto',
     erroriDaEvitare: [
@@ -465,47 +724,236 @@ export const destinazioniScozia: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        nome: 'Old Man of Storr',
-        testo: 'La aguja de roca sobre la carretera al norte de Portree, el símbolo de la isla. El sendero sube entre las rocas hasta el pie del pináculo.',
-        come: 'En coche hasta el aparcamiento de la A855, y luego a pie cuesta arriba.',
-        quando: 'Al amanecer o por la tarde, cuando hay menos gente.',
-        tempo: '2 horas ida y vuelta',
+        "nome": "Old Man of Storr",
+        "testo": "La aguja de roca sobre la carretera al norte de Portree, el símbolo de la isla. El sendero sube entre las rocas hasta el pie del pináculo.",
+        "come": "En coche hasta el aparcamiento de la A855, y luego a pie cuesta arriba.",
+        "quando": "Al amanecer o por la tarde, cuando hay menos gente.",
+        "tempo": "2 horas ida y vuelta",
+        "costo": "Sendero libre; aparcamiento de pago, unas 5-6 libras (unos 6-7 €) por unas horas, gratis por la tarde-noche y de noche",
+        "orari": "Siempre accesible",
+        "lat": 57.50669,
+        "lng": -6.18368,
+        "consiglio": "Arriba el viento es fuerte incluso en verano: chaqueta y capas."
       },
       {
-        nome: 'Quiraing',
-        testo: 'Un enorme deslizamiento de tierra en la ladera de la cresta de Trotternish, con agujas, terrazas y paredes verdes cortadas a pico. Ya se ve desde la carretera, de un solo carril, que cruza la cresta.',
-        come: 'En coche por la carretera entre Staffin y Uig, y luego a pie por el sendero.',
-        quando: 'Con el cielo despejado: con niebla no se ve nada.',
-        tempo: '1-3 horas',
+        "nome": "Quiraing",
+        "testo": "Un enorme deslizamiento de tierra en la ladera de la cresta de Trotternish, con agujas, terrazas y paredes verdes cortadas a pico. Ya se ve desde la carretera, de un solo carril, que cruza la cresta.",
+        "come": "En coche por la carretera entre Staffin y Uig, y luego a pie por el sendero.",
+        "quando": "Con el cielo despejado: con niebla no se ve nada.",
+        "tempo": "1-3 horas",
+        "costo": "Sendero libre",
+        "orari": "Siempre accesible",
+        "lat": 57.64083,
+        "lng": -6.27389,
+        "consiglio": "En la carretera del Quiraing solo se para en los aparcamientos, nunca en los apartaderos. Basta el primer tramo del sendero para la vista."
       },
       {
-        nome: 'Fairy Pools',
-        testo: 'Una serie de pozas y pequeñas cascadas de agua transparente a lo largo de un torrente al pie de las montañas Cuillin.',
-        come: 'En coche hasta el aparcamiento de Glen Brittle, y luego a pie.',
-        quando: 'A primera hora de la mañana.',
-        tempo: '1-2 horas',
+        "nome": "Fairy Pools",
+        "testo": "Una serie de pozas y pequeñas cascadas de agua transparente a lo largo de un torrente al pie de las montañas Cuillin.",
+        "come": "En coche hasta el aparcamiento de Glen Brittle, y luego a pie.",
+        "quando": "A primera hora de la mañana.",
+        "tempo": "1-2 horas",
+        "costo": "Sendero libre; aparcamiento de pago, gestionado por una entidad que lo usa para mantener los senderos",
+        "orari": "Siempre accesible",
+        "lat": 57.25,
+        "lng": -6.2565,
+        "consiglio": "Los vados son sobre piedras: con lluvia se mojan los pies."
       },
       {
-        nome: 'Destilería Talisker',
-        testo: 'Fundada en 1830, es según la propia destilería la más antigua en activo de la isla. Está en Carbost, a orillas del Loch Harport.',
-        come: 'Con reserva en la web malts.com, recomendable sobre todo en verano. No se admiten niños menores de 8 años.',
-        quando: 'De marzo a octubre 10-17, de noviembre a febrero 10-16:30 (2026). Mantenimiento anual del 11 de octubre al 1 de noviembre de 2026, con algunas experiencias suspendidas.',
-        tempo: '1 hora',
-        costo: 'Visita con cata desde 22 libras (2026)',
-        url: 'https://www.malts.com/en-gb/distilleries/talisker',
+        "nome": "Destilería Talisker",
+        "testo": "Fundada en 1830, es según la propia destilería la más antigua en activo de la isla. Está en Carbost, a orillas del Loch Harport.",
+        "come": "Con reserva en la web malts.com, recomendable sobre todo en verano. No se admiten niños menores de 8 años.",
+        "quando": "De marzo a octubre 10-17, de noviembre a febrero 10-16:30 (2026). Mantenimiento anual del 11 de octubre al 1 de noviembre de 2026, con algunas experiencias suspendidas.",
+        "tempo": "1 hora",
+        "costo": "Visita con cata desde 22 libras (2026)",
+        "url": "https://www.malts.com/en-gb/distilleries/talisker",
+        "orari": "De marzo a octubre de 10 a 17, de noviembre a febrero de 10 a 16:30",
+        "lat": 57.30278,
+        "lng": -6.35611
       },
+      {
+        "nome": "Portree",
+        "testo": "El pueblo principal de la isla, con el puerto y las casas de colores en el muelle. Tiene los restaurantes, las tiendas, las gasolineras y casi todo el alojamiento.",
+        "come": "En coche; el centro se recorre a pie.",
+        "quando": "Por la noche, para cenar.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis",
+        "lat": 57.412,
+        "lng": -6.192
+      },
+      {
+        "nome": "Kilt Rock y la cascada de Mealt",
+        "testo": "Un acantilado de basalto en columnas que recuerda los pliegues de un kilt, y al lado la cascada de Mealt, que cae directa al mar. Se ven desde el mirador, a dos pasos del aparcamiento.",
+        "come": "En coche por la A855, en la vuelta a Trotternish, entre el Storr y Staffin.",
+        "tempo": "20 minutos",
+        "costo": "Gratis",
+        "lat": 57.60639,
+        "lng": -6.17861
+      },
+      {
+        "nome": "Fairy Glen",
+        "testo": "Un pequeño valle sobre Uig con colinas cónicas, lagunas y una roca con forma de torre. Es una parada breve en la vuelta a Trotternish.",
+        "come": "En coche desde Uig, por una carretera estrecha; luego a pie.",
+        "quando": "Por la mañana o por la tarde.",
+        "tempo": "45 minutos",
+        "costo": "Gratis"
+      },
+      {
+        "nome": "Neist Point",
+        "testo": "El faro en la punta más occidental de la isla, al final de un promontorio de acantilados. Se va sobre todo por el atardecer, sobre el mar abierto hacia las Hébridas Exteriores.",
+        "come": "En coche hasta el aparcamiento y luego a pie por un sendero empinado, duro a la vuelta.",
+        "quando": "Al atardecer.",
+        "tempo": "1-1,5 horas",
+        "costo": "Gratis",
+        "lat": 57.421,
+        "lng": -6.787
+      },
+      {
+        "nome": "Castillo de Dunvegan",
+        "testo": "La sede del clan MacLeod, habitada por la misma familia desde hace siglos, con jardines junto al lago. Desde el embarcadero salen barcas para ver las focas.",
+        "come": "En coche, en el noroeste de la isla. No hace falta reservar la entrada.",
+        "quando": "En la temporada de apertura, por la mañana.",
+        "tempo": "2 horas",
+        "costo": "Castillo y jardines 18 libras, unos 21 €; excursión en barca a las focas 14,50 libras, unos 17 €, con la entrada del castillo o de los jardines",
+        "orari": "Del 26 de marzo al 15 de octubre todos los días de 10 a 17:30, última entrada a las 17; barcas a las focas de lunes a viernes hasta el 30 de septiembre. Cerrado en invierno.",
+        "lat": 57.448,
+        "lng": -6.59,
+        "url": "https://www.dunvegancastle.com/"
+      },
+      {
+        "nome": "Castillo de Eilean Donan",
+        "testo": "El castillo en el islote donde se juntan tres lagos, unido a la orilla por un puente de piedra. Está en tierra firme, de camino al puente de Skye.",
+        "come": "En coche por la A87, en Dornie.",
+        "quando": "Por la mañana, antes de los autocares.",
+        "tempo": "1 hora",
+        "costo": "Adultos 13 libras, unos 15 € (2026)",
+        "orari": "2026: junio-agosto de 9 a 18, mayo y septiembre de 9:30 a 18, abril y hasta el 24 de octubre de 10 a 18; del 25 de octubre al 22 de diciembre y en febrero-marzo de 10 a 16. Última entrada una hora antes. Cerrado todo enero y algunos días de noviembre y diciembre.",
+        "lat": 57.27403,
+        "lng": -5.51611,
+        "url": "https://www.eileandonancastle.com/"
+      },
+      {
+        "nome": "Sligachan",
+        "testo": "El viejo puente de piedra sobre el río Sligachan, con las cumbres negras de los Cuillin detrás. Está en el cruce de las carreteras principales de la isla.",
+        "come": "En coche, entre Portree y Broadford.",
+        "tempo": "20 minutos",
+        "costo": "Gratis",
+        "lat": 57.28933,
+        "lng": -6.17555
+      },
+      {
+        "nome": "Elgol",
+        "testo": "Un pueblo de la costa sur con la vista más famosa de los Cuillin, al otro lado del Loch Scavaig. De aquí salen las barcas hacia Loch Coruisk.",
+        "come": "En coche desde Broadford, por una carretera de un solo carril.",
+        "quando": "Por la tarde, con la luz sobre las montañas.",
+        "tempo": "media jornada con la barca",
+        "lat": 57.152,
+        "lng": -6.098
+      }
     ],
     programmi: [
-      { titolo: '2 días', tappe: ['Día 1: Old Man of Storr al amanecer, la vuelta a Trotternish con el Quiraing, Portree por la noche', 'Día 2: Fairy Pools por la mañana, Talisker por la tarde'] },
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Old Man of Storr al amanecer",
+          "Kilt Rock y la cascada de Mealt",
+          "Quiraing",
+          "Fairy Glen",
+          "Portree por la noche"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Old Man of Storr al amanecer, la vuelta a Trotternish con el Quiraing, Portree por la noche",
+          "Día 2: Fairy Pools por la mañana, Talisker por la tarde"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Old Man of Storr al amanecer, Kilt Rock, Quiraing y Fairy Glen, Portree por la noche",
+          "Día 2: Fairy Pools por la mañana, Talisker por la tarde, Neist Point al atardecer",
+          "Día 3: Dunvegan, Sligachan y Elgol, luego el puente con parada en Eilean Donan"
+        ]
+      }
     ],
     zone: [
-      { nome: 'Portree', perChi: 'quien quiere restaurantes y servicios', testo: 'El centro de la isla, cerca de Trotternish.' },
-      { nome: 'Sur de la isla', perChi: 'quien llega en ferri desde Mallaig', testo: 'Más tranquilo, cerca de Armadale.' },
+      {
+        "nome": "Portree",
+        "perChi": "quien quiere restaurantes y servicios",
+        "testo": "El centro de la isla, cerca de Trotternish.",
+        "fascia": "100-220 €"
+      },
+      {
+        "nome": "Sur de la isla",
+        "perChi": "quien llega en ferri desde Mallaig",
+        "testo": "Más tranquilo, cerca de Armadale.",
+        "fascia": "90-180 €"
+      },
+      {
+        "nome": "Costa oeste: Carbost y Dunvegan",
+        "perChi": "quien quiere Talisker, las Fairy Pools y Neist Point",
+        "testo": "Más aislada, con B&B y casitas; hay pocos restaurantes y se cena temprano.",
+        "fascia": "100-200 €"
+      },
+      {
+        "nome": "Kyle of Lochalsh y Dornie",
+        "perChi": "quien encuentra la isla llena o sigue hacia Inverness",
+        "testo": "En tierra firme, junto al puente y a Eilean Donan, con estación de tren.",
+        "fascia": "90-170 €"
+      }
     ],
     attenzioni: [
-      'Carreteras de un solo carril: uno se para en el apartadero de su izquierda, o espera delante del de la derecha.',
-      'Ovejas y ciervos en la carretera, también de día.',
-      'Tiempo que cambia en una hora: chaqueta impermeable siempre en el coche.',
+      "Carreteras de un solo carril: uno se para en el apartadero de su izquierda, o espera delante del de la derecha.",
+      "Ovejas y ciervos en la carretera, también de día.",
+      "Tiempo que cambia en una hora: chaqueta impermeable siempre en el coche."
+    ],
+    gite: [
+      {
+        "nome": "Raasay",
+        "distanza": "unos 30 km de Portree al puerto de Sconser",
+        "come": "Ferri de CalMac desde Sconser, con o sin coche.",
+        "testo": "La isla frente a Skye, casi sin turistas, con senderos por las colinas y la destilería de Raasay."
+      },
+      {
+        "nome": "Applecross y el Bealach na Bà",
+        "distanza": "unos 60 km desde el puente de Skye",
+        "come": "En coche, hacia el norte por tierra firme; la carretera es estrecha y empinada.",
+        "testo": "El puerto de montaña con curvas cerradas y vistas a Skye, y al final el pueblo de Applecross junto al mar. Es el tramo oeste de la North Coast 500."
+      },
+      {
+        "nome": "Mallaig y la costa de Morar",
+        "distanza": "30 minutos de ferri desde Armadale",
+        "come": "Ferri de CalMac Armadale-Mallaig.",
+        "testo": "El puerto donde termina la West Highland Line y, un poco al sur, las playas de arena blanca de Morar."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Skye?",
+        "risposta": "Dos días para Trotternish, con el Storr y el Quiraing, y para las Fairy Pools con Talisker. Con tres se añaden Neist Point, Dunvegan y Elgol y queda margen para el mal tiempo."
+      },
+      {
+        "domanda": "¿Mejor llegar por el puente o en ferri?",
+        "risposta": "El puente desde Kyle of Lochalsh es gratuito y siempre está abierto. El ferri de Mallaig a Armadale tarda media hora y es cómodo viniendo de Glenfinnan, pero con coche hay que reservarlo."
+      },
+      {
+        "domanda": "¿Se puede recorrer Skye sin coche?",
+        "risposta": "Es difícil: hay pocos autobuses y no llegan a los senderos más famosos. Sin coche conviene dormir en Portree y hacer excursiones organizadas."
+      },
+      {
+        "domanda": "¿Dónde conviene dormir en Skye?",
+        "risposta": "En Portree, que tiene más alojamiento y restaurantes y está cerca de Trotternish. En verano se reserva con meses de antelación: en el último momento queda poco."
+      },
+      {
+        "domanda": "¿Cuándo ir a Skye?",
+        "risposta": "De mayo a septiembre, con los días largos. En julio y agosto los aparcamientos de los senderos se llenan pronto, y en las tardes sin viento están los midges, mosquitos diminutos que pican: hace falta repelente."
+      },
+      {
+        "domanda": "¿Hay que reservar la destilería Talisker?",
+        "risposta": "Conviene, en malts.com, sobre todo en verano. No se admiten niños menores de 8 años."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

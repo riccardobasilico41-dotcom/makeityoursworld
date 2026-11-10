@@ -120,13 +120,13 @@ Verso sera siamo rientrati, check-in e cena da **Koba**, buono sia prima sia dop
 ### Giorno 8 (13.04) — Hiroshima-Himeji-Osaka (o Kobe)
 Lo Shinkansen Kodama per Himeji parte presto. *Se c'è posto, conviene prenotare il treno a tema Hello Kitty, tutto rosa e con una carrozza dedicata: assurdo ma memorabile, gira su alcune corse tra Hiroshima e Himeji.*
 
-In mattinata siamo stati al **Castello di Himeji**, il più bello e meglio conservato del Giappone, con guida; il biglietto combinato con i **Giardini Kokoen** costa 1.060 yen. Siamo vicini a Kobe, e il pranzo è l'occasione per il vero **manzo di Kobe**. La scelta pratica è **Fuku-tei**, spiedini e burger da asporto con un ottimo rapporto qualità-prezzo; le steakhouse teppanyaki di Kobe sono un'altra esperienza, 70-80 € per 150 grammi, e chiedono una deviazione e più tempo.
+In mattinata siamo stati al **Castello di Himeji**, il più bello e meglio conservato del Giappone, con guida; il biglietto combinato con i **Giardini Kokoen** allora costava 1.060 yen (dal 2026 per i visitatori stranieri il castello costa 2.500 yen, 2.600 con il Kokoen). Siamo vicini a Kobe, e il pranzo è l'occasione per il vero **manzo di Kobe**. La scelta pratica è **Fuku-tei**, spiedini e burger da asporto con un ottimo rapporto qualità-prezzo; le steakhouse teppanyaki di Kobe sono un'altra esperienza, 70-80 € per 150 grammi, e chiedono una deviazione e più tempo.
 
 Il treno per Osaka non va prenotato e si prende con calma dopo pranzo. Dopo il check-in siamo andati al **Castello di Osaka**: dall'ottavo piano la vista sulla città è bellissima, e dentro il museo racconta la storia di Osaka con gli ologrammi. Verso sera **Dotonbori**, poi la **Tombori River Cruise**, venti minuti per 1.000 yen da Tazaemonbashi Harbour. Per cena c'è l'**Osaka Foodie Tour**, a pagamento e da prenotare a parte, oppure **Torikizoku** vicino a Namba: 3.600 yen per due ore di tutto quello che si riesce a mangiare e bere. Abbiamo dormito al Sarasa Hotel Namba.
 
 *Il mio ricordo: la zona di Dotonbori è piena di gente e i miei amici avevano pareri contrastanti, ma a me è piaciuta tantissimo.*
 
-**In pratica:** Shinkansen Kodama da Hiroshima a Himeji, coperto dal JR Pass, mentre per il treno Hello Kitty conviene prenotare il posto · biglietto combinato Castello di Himeji e Giardini Kokoen 1.060 yen, ma le tariffe del castello vanno ricontrollate sul sito ufficiale prima di partire · Tombori River Cruise 1.000 yen · Torikizoku 3.600 yen per due ore a volontà.
+**In pratica:** Shinkansen Kodama da Hiroshima a Himeji, coperto dal JR Pass, mentre per il treno Hello Kitty conviene prenotare il posto · Castello di Himeji circa 2.500 yen per i visitatori stranieri dal 2026, 2.600 con i Giardini Kokoen · Tombori River Cruise 1.000 yen · Torikizoku 3.600 yen per due ore a volontà.
 
 ### Giorno 9 (14.04) — Osaka e Nara
 Da Namba la linea Kintetsu porta a **Nara** (conviene controllare se il JR Pass la copre). La prima tappa è stata golosa: da **Nakatanidou** si mangiano i mochi, e verso metà mattina c'è lo spettacolo della preparazione, sempre affollatissimo, quindi meglio arrivare in anticipo.

@@ -37,14 +37,12 @@ export const destinazioniFrancia: Destinazione[] = [
       "Importa más la base que el alojamiento, y es el tema de la primera comparativa de aquí abajo. En general **el tren regional a lo largo de la costa es excelente**: se duerme en un sitio y uno se mueve por todas partes sin coche, lo que en verano es una ventaja enorme. Antibes y Villefranche son los mejores compromisos entre precio, ubicación y habitabilidad. Niza tiene la oferta más amplia y el aeropuerto. Cannes cuesta más y en la semana del festival es impracticable. Menton es la más económica y la más alejada de todo.",
     doveMangiare:
       "La cocina nizarda es mediterránea y humilde, y poco tiene que ver con la francesa clásica: **socca** (una torta de harina de garbanzos cocida en horno de leña y servida hirviendo, en trozos, en cucuruchos de papel), **pissaladière** (cebolla, anchoas, aceitunas), **pan bagnat**, **petits farcis**, **ratatouille**, y la **salade niçoise**, que en la versión local **no lleva ni patatas ni judías verdes cocidas**: es una ensalada cruda, y aquí el asunto se toma muy en serio. Luego la **daube** de ternera, la **bouillabaisse** más al oeste hacia Marsella, y los **vinos de Bellet**, la denominación minúscula que está dentro del término municipal de Niza. En general **el menú del mediodía** cuesta la mitad que el de la noche, y en los paseos marítimos se paga la ubicación.",
-    comeArrivare:
-      "El aeropuerto de **Niza** es el segundo de Francia, está en la costa y se conecta con el centro por tranvía. En tren, el alta velocidad llega desde París en unas seis horas; desde Italia la línea costera pasa por Ventimiglia. En coche está la autopista A8, de peaje, a lo largo de toda la costa.",
+    comeArrivare: "El aeropuerto de **Niza Costa Azul** es el segundo de Francia y está en la costa: el **tranvía línea 2** lleva al centro y al puerto en unos 30 minutos, con un billete de unos 1,70 € más 2 € de la tarjeta recargable, hasta tarde por la noche. Para **Antibes** se toma el tren regional en la estación Nice Aéroport, unos 20 minutos. En tren, la alta velocidad llega desde París en unas seis horas; desde Italia la línea costera entra por Ventimiglia. En coche está la autopista A8, de peaje, a lo largo de toda la costa.",
     comeSpostarsi:
       "**Casi siempre la respuesta correcta es el tren regional a lo largo de la costa**: conecta Cannes, Antibes, Niza, Mónaco y Menton con trenes frecuentes, cuesta poquísimo y se salta el tráfico, que en verano es lo que estropea los días. Los autobuses regionales del departamento tienen tarifas muy bajas y cubren también el interior; **las fórmulas tarifarias cambian a menudo, conviene comprobarlas antes**. El coche solo sirve para el interior y para el Mercantour, y en cualquier otro sitio es un lastre: **en todas las ciudades costeras el aparcamiento es caro, escaso y en verano una batalla**.",
     periodoMigliore:
       "**mayo-junio y de mediados de septiembre a octubre.** **Julio y agosto son el peor momento**: tráfico, playas llenas, precios al máximo, y una ciudad como Antibes triplica sus habitantes. **El invierno es el secreto mejor guardado de la costa**: de diciembre a marzo el clima es suave y los senderos junto al mar están vacíos; en febrero hay mimosa en flor, la Fiesta del Limón en Menton y el Carnaval de Niza, y las estaciones de esquí del Mercantour están a hora y media. Abril y octubre son los meses ideales para los senderos costeros.",
-    costi:
-      "En temporada alta es una de las zonas más caras de Francia; de octubre a marzo los precios vuelven a la normalidad. Los museos cuestan poco (el Picasso de Antibes y los museos municipales de Niza tienen precios contenidos), el transporte regional poquísimo, los alojamientos mucho. Las dos partidas que se descontrolan son **el aparcamiento** y **los balnearios privados**, donde en temporada alta una tumbona cuesta lo que una cena.",
+    costi: "En temporada alta es una de las zonas más caras de Francia; de octubre a marzo los precios vuelven a la normalidad. Los museos cuestan poco (el Picasso de Antibes y los museos municipales de Niza tienen precios contenidos), el transporte regional poquísimo, los alojamientos mucho. Las dos partidas que se descontrolan son **el aparcamiento** y **los balnearios privados**, donde en temporada alta una tumbona cuesta lo que una cena. Presupuesto orientativo por persona y día, compartiendo habitación doble: bajo 80-110 €, medio 150-220 €, alto más de 350 € (julio y agosto en la parte alta de la horquilla).",
     erroriDaEvitare: [
       "**Venir en julio o agosto en coche y sin haber reservado aparcamiento.** Es el error que arruina más estancias: te pasas el día en la cola de la carretera de la costa y dando vueltas buscando sitio",
       "Reservar en Cannes en la semana del festival sin saberlo: la ciudad se vuelve impracticable y los precios se multiplican",
@@ -236,87 +234,287 @@ export const destinazioniFrancia: Destinazione[] = [
       "En dos años en Antibes aprendí algo que las guías no escriben: la Costa Azul tiene dos estaciones, y es lo contrario de como uno se la imagina. De junio a septiembre es un lugar difícil. El tráfico de la carretera de la costa no se detiene nunca, encontrar aparcamiento es una batalla diaria, las playas están llenas y los precios suben en todas partes. De octubre a mayo es uno de los lugares más agradables de Europa: hay sol, los senderos junto al mar están desiertos, los mercados vuelven a ser mercados de barrio, y en febrero la mimosa está en flor mientras a hora y media en coche se esquía. Quien vive aquí, en agosto, se marcha o sube al interior. La segunda cosa es el tren. La línea costera pasa cada pocos minutos, cuesta pocos euros, conecta todo desde Cannes hasta Menton y no conoce los atascos, y sin embargo casi ningún turista lo usa: alquilan un coche y se pasan las vacaciones buscando sitio. La tercera es que la costa se agota enseguida, el interior no. Diez kilómetros más allá hay pueblos de piedra donde se come gastando la mitad, y a hora y media hay un parque nacional con rebecos. Y luego el Cap d'Antibes, que acabas repitiendo cien veces: un sendero público y gratuito que rodea la punta del cabo junto al mar, con las olas debajo y las villas escondidas tras los muros. En invierno no hay nadie.",
     luoghi: [
       {
-        nome: "Niza: Vieux Nice y Cours Saleya",
-        testo: "El casco antiguo ocre, con calles estrechas, iglesias barrocas y el mercado de flores y fruta del Cours Saleya. Desde aquí se sube a la Colline du Château para ver la Promenade des Anglais.",
-        come: "A pie desde la parada de tranvía o el paseo marítimo. La subida a la colina es gratuita.",
-        quando: "El mercado es por la mañana; los lunes el Cours Saleya acoge el mercado de antigüedades.",
-        tempo: "media jornada",
-        consiglio: "Para una comida barata: socca y pissaladière en las tiendas del Vieux Nice."
+        "nome": "Niza: Vieux Nice y Cours Saleya",
+        "testo": "El casco antiguo ocre, con calles estrechas, iglesias barrocas y el mercado de flores y fruta del Cours Saleya. Desde aquí se sube a la Colline du Château para ver la Promenade des Anglais.",
+        "come": "A pie desde la parada del tranvía o desde el paseo marítimo. La subida a la colina es gratuita, también con el ascensor.",
+        "quando": "El mercado es por la mañana; los lunes el Cours Saleya acoge el mercado de antigüedades.",
+        "tempo": "media jornada",
+        "costo": "gratis",
+        "orari": "Mercado de flores y fruta por la mañana de martes a domingo; los lunes, antigüedades.",
+        "lat": 43.69561,
+        "lng": 7.2751,
+        "consiglio": "Para una comida barata: socca y pissaladière en las tiendas del Vieux Nice."
       },
       {
-        nome: "Antibes y Cap d'Antibes",
-        testo: "Casco antiguo dentro de los baluartes, con el Marché Provençal por la mañana y el Museo Picasso en el Château Grimaldi. En el Cap, un sendero costero gratuito rodea la punta, junto al mar.",
-        come: "Antibes tiene estación de tren; el sendero sale de la playa de la Garoupe, en el cabo.",
-        quando: "Mercado por la mañana, sendero con la luz de la tarde.",
-        tempo: "media jornada cada uno",
-        consiglio: "El sendero es gratuito y casi vacío fuera de temporada: zapatos cerrados, hay tramos rocosos."
+        "nome": "Musée Matisse, Niza",
+        "testo": "Una villa genovesa roja en la colina de Cimiez, entre olivos y restos romanos, con pinturas, dibujos, papeles recortados y objetos del taller de Matisse, que vivió en Niza casi cuarenta años. Es la colección que explica la relación del pintor con esta luz.",
+        "come": "Autobús desde el centro hasta Cimiez; el museo está en el parque de las Arènes, junto al yacimiento arqueológico.",
+        "quando": "Por la mañana, y después un paseo por el olivar de Cimiez.",
+        "tempo": "1,5 horas",
+        "costo": "10 € (2026); incluido en el pase Musées de Nice de 4 días, 15 €",
+        "orari": "10-17 de noviembre a marzo, 10-18 de abril a octubre; cerrado los martes, el 25 de diciembre, el 1 de enero, el domingo de Pascua y el 1 de mayo.",
+        "lat": 43.71945,
+        "lng": 7.27597,
+        "url": "https://www.musee-matisse-nice.org/",
+        "consiglio": "Con el pase de 4 días se entra en todos los museos municipales de Niza: compensa ya con dos visitas."
       },
       {
-        nome: "Èze y sendero Nietzsche",
-        testo: "Un pueblo medieval encaramado a 427 metros, con un jardín botánico de cactus y plantas crasas en la cima. Desde el mar sube el sendero Nietzsche, empinado.",
-        come: "Autobús desde Niza hasta Èze-Village, o tren hasta Èze-sur-Mer y luego el sendero.",
-        quando: "Pronto por la mañana en verano.",
-        tempo: "2-3 horas",
-        consiglio: "Hacer el sendero de subida por la mañana y bajar en autobús."
+        "nome": "Musée national Marc Chagall, Niza",
+        "testo": "Un museo construido a propósito, en vida de Chagall, para el ciclo del Mensaje Bíblico: diecisiete grandes lienzos sobre el Antiguo Testamento, con las vidrieras del auditorio diseñadas por el propio pintor. Está a diez minutos a pie del centro, bajo Cimiez.",
+        "come": "A pie desde la estación Nice Ville en unos 15 minutos, o en autobús hacia Cimiez; se combina con el Musée Matisse.",
+        "quando": "Por la mañana, o una tarde de invierno cuando la luz entra por las vidrieras.",
+        "tempo": "1-1,5 horas",
+        "orari": "10-17 del 1 de noviembre al 30 de abril, 10-18 del 2 de mayo al 31 de octubre; cerrado los martes, el 1 de enero, el 1 de mayo y el 25 de diciembre.",
+        "lat": 43.70914,
+        "lng": 7.26953,
+        "url": "https://musees-nationaux-alpesmaritimes.fr/chagall/"
       },
       {
-        nome: "Villefranche y Cap Ferrat",
-        testo: "La rada profunda de Villefranche, con la capilla de Saint-Pierre decorada por Cocteau, y en Saint-Jean-Cap-Ferrat la Villa Ephrussi de Rothschild, con nueve jardines temáticos asomados a la rada.",
-        come: "Autobús desde Niza o tren hasta Villefranche-sur-Mer.",
-        quando: "Por la mañana.",
-        tempo: "media jornada",
-        consiglio: "El sendero costero que rodea Cap Ferrat es la mejor forma de ver el cabo: calzado cómodo."
+        "nome": "Antibes y Cap d'Antibes",
+        "testo": "Casco antiguo dentro de los baluartes, con el Marché Provençal por la mañana y el Museo Picasso en el Château Grimaldi. En el Cap, un sendero costero gratuito rodea la punta, junto al mar.",
+        "come": "Antibes tiene estación de tren; el sendero sale de la playa de la Garoupe, en el Cap, a la que llegan los autobuses urbanos Envibus.",
+        "quando": "Mercado por la mañana, sendero con la luz de la tarde.",
+        "tempo": "media jornada cada uno; el sendero, 1h30 aproximadamente",
+        "costo": "sendero gratuito",
+        "orari": "Marché Provençal por la mañana, cerrado los lunes fuera de temporada; sendero siempre abierto, cerrado con mar gruesa.",
+        "lat": 43.56434,
+        "lng": 7.13272,
+        "consiglio": "El sendero es gratuito y está casi vacío fuera de temporada: calzado cerrado, en algunos tramos es rocoso. No hay sombra ni agua."
       },
       {
-        nome: "Islas de Lérins",
-        testo: "Frente a Cannes: Sainte-Marguerite con el Fort Royal y la celda de la «Máscara de Hierro», y Saint-Honorat, donde viven monjes cistercienses.",
-        come: "Ferris desde el puerto de Cannes a Sainte-Marguerite; a Saint-Honorat van los barcos de los monjes.",
-        quando: "Primavera y otoño; en verano los barcos van llenos.",
-        tempo: "media jornada",
-        consiglio: "Llevar comida: hay pocos sitios donde comer."
+        "nome": "Musée Picasso, Antibes",
+        "testo": "El Château Grimaldi sobre las murallas, donde Picasso trabajó en otoño de 1946 y dejó en depósito las obras hechas aquí, entre ellas La Joie de vivre. La terraza con las esculturas mira al mar.",
+        "come": "A pie en el casco antiguo de Antibes, a diez minutos de la estación.",
+        "quando": "Por la mañana, y luego el mercado del Cours Masséna, a dos pasos.",
+        "tempo": "1 hora",
+        "costo": "unos 12 € (2026)",
+        "orari": "Cerrado los lunes; horario continuo solo en verano.",
+        "lat": 43.58071,
+        "lng": 7.12826
+      },
+      {
+        "nome": "Èze y sendero Nietzsche",
+        "testo": "Un pueblo medieval encaramado a 427 metros, con un jardín botánico de cactus y plantas crasas en la cima. Desde el mar sube el sendero Nietzsche, empinado.",
+        "come": "Autobús desde Niza hasta Èze-Village, o tren hasta Èze-sur-Mer y luego el sendero: unos 400 metros de desnivel.",
+        "quando": "Pronto por la mañana en verano.",
+        "tempo": "2-3 horas",
+        "costo": "Jardin Exotique unos 10 € (2026); el pueblo y el sendero son gratuitos",
+        "lat": 43.7282,
+        "lng": 7.36125,
+        "url": "https://www.jardinexotique-eze.fr/",
+        "consiglio": "El sendero se hace en subida por la mañana y se baja en autobús. Las entradas del jardín se compran en línea, pero arriba hay poca cobertura: mejor guardarlas antes."
+      },
+      {
+        "nome": "Trophée d'Auguste, La Turbie",
+        "testo": "El monumento que Augusto mandó levantar en el 6 a. C. para celebrar el sometimiento de las tribus alpinas, a 480 metros sobre Mónaco. Sigue en pie parte de la columnata, y desde la terraza se ve todo el Principado.",
+        "come": "En autobús desde Èze o Mónaco, con pocas salidas; en coche por la Grande Corniche.",
+        "quando": "En un día despejado, junto con Èze.",
+        "tempo": "1 hora",
+        "costo": "unos 7 € (2026)",
+        "orari": "Cerrado los lunes.",
+        "lat": 43.74483,
+        "lng": 7.40228
+      },
+      {
+        "nome": "Villefranche y Cap Ferrat",
+        "testo": "La rada profunda de Villefranche, con la capilla de Saint-Pierre decorada por Cocteau, y la península de Saint-Jean-Cap-Ferrat con el sendero costero que rodea su punta.",
+        "come": "Autobús desde Niza o tren hasta Villefranche-sur-Mer.",
+        "quando": "Por la mañana.",
+        "tempo": "media jornada",
+        "lat": 43.70305,
+        "lng": 7.31191,
+        "consiglio": "El sendero costero que rodea Cap Ferrat es la mejor forma de ver el cabo: calzado cómodo."
+      },
+      {
+        "nome": "Villa Ephrussi de Rothschild",
+        "testo": "La villa rosa que Béatrice Ephrussi de Rothschild se hizo construir a principios del siglo XX en el istmo del Cap Ferrat, con sus colecciones de arte y nueve jardines temáticos asomados a las dos radas. En verano, cada veinte minutos, las fuentes del jardín francés se mueven con música.",
+        "come": "Autobús desde Niza hasta Saint-Jean-Cap-Ferrat, o unos 20 minutos a pie cuesta arriba desde la estación de Beaulieu-sur-Mer. Entradas también en línea.",
+        "quando": "A primera hora, antes de los grupos; en primavera por las rosaledas.",
+        "tempo": "2 horas",
+        "costo": "18 € general, 12 € reducida (2026)",
+        "orari": "De lunes a viernes 10-16:30; fines de semana y vacaciones escolares 10-18.",
+        "lat": 43.6966,
+        "lng": 7.3285,
+        "url": "https://www.villa-ephrussi.com/"
+      },
+      {
+        "nome": "Mónaco: la Roca y el Musée océanographique",
+        "testo": "Mónaco-Ville es el viejo pueblo sobre la Roca, con el Palacio del Príncipe, la catedral y, sobre el acantilado, el Museo Oceanográfico fundado por Alberto I en 1910, con los acuarios en el sótano y la terraza panorámica.",
+        "come": "Tren costero hasta Monaco-Monte-Carlo, luego a pie o en autobús hasta la Roca.",
+        "quando": "Por la mañana; mejor evitar el fin de semana del Gran Premio.",
+        "tempo": "media jornada",
+        "costo": "museo 20,50 € a partir de 18 años (2026)",
+        "orari": "Museo: 10-18 de octubre a marzo, 10-19 de abril a junio y en septiembre, 9:30-20 en julio y agosto; cerrado el 25 de diciembre y el fin de semana del Gran Premio de Fórmula 1.",
+        "lat": 43.73068,
+        "lng": 7.42551,
+        "url": "https://www.oceano.org/"
+      },
+      {
+        "nome": "Islas de Lérins",
+        "testo": "Frente a Cannes: Sainte-Marguerite con el Fort Royal y la celda de la «Máscara de Hierro», y Saint-Honorat, donde viven monjes cistercienses.",
+        "come": "Barcos desde el puerto viejo de Cannes, unos 15 minutos: a Sainte-Marguerite van varias compañías, a Saint-Honorat el barco de los monjes. Normalmente no se pasa de una isla a otra con el mismo billete.",
+        "quando": "Primavera y otoño; en verano los barcos van llenos.",
+        "tempo": "media jornada",
+        "costo": "barcos en torno a 19 € ida y vuelta; a Saint-Honorat 19,50 € con la tarifa web (2026)",
+        "orari": "El barco a Saint-Honorat sale todos los días del año; horarios en la web.",
+        "lat": 43.51945,
+        "lng": 7.04932,
+        "url": "https://www.cannes-ilesdelerins.com/",
+        "consiglio": "Llevar comida: hay pocos sitios donde comer."
+      },
+      {
+        "nome": "Cannes: Le Suquet y el mercado Forville",
+        "testo": "Le Suquet es la colina del casco antiguo, con la iglesia y la vista sobre el puerto y la Croisette. Abajo está el mercado cubierto Forville, uno de los mejores de la costa para verdura, quesos y pescado.",
+        "come": "Tren regional desde Antibes en 10-15 minutos o desde Niza en unos 30; desde la estación se sube a pie.",
+        "quando": "Por la mañana, cuando el mercado está abierto.",
+        "tempo": "2-3 horas",
+        "costo": "gratis",
+        "orari": "Mercado Forville por la mañana de martes a domingo; los lunes, mercadillo de pulgas.",
+        "lat": 43.55213,
+        "lng": 7.01214,
+        "consiglio": "En la semana del festival de cine la ciudad se colapsa: mejor evitarla."
+      },
+      {
+        "nome": "Saint-Paul-de-Vence y la Fondation Maeght",
+        "testo": "Un pueblo fortificado con las murallas enteras y galerías de arte en cada callejón, y en el cementerio la tumba de Chagall. Justo fuera está la Fondation Maeght, una de las colecciones de arte moderno más importantes de Europa, con el patio de Giacometti y el laberinto de Miró.",
+        "come": "Tren hasta Cagnes-sur-Mer y luego el autobús 655, que sube a Saint-Paul y sigue hasta Vence; billete de autobús aparte.",
+        "quando": "La fundación por la mañana, el pueblo a última hora de la mañana o a media tarde: a mediodía está lleno de autocares.",
+        "tempo": "media jornada",
+        "costo": "Fondation Maeght 18 € (2026); el pueblo es gratuito",
+        "orari": "Fondation Maeght todos los días 10-18, en julio y agosto 10-19; el 24 y el 31 de diciembre cierra a las 16.",
+        "lat": 43.70087,
+        "lng": 7.1149,
+        "url": "https://www.fondation-maeght.com/"
+      },
+      {
+        "nome": "Chapelle du Rosaire, Vence",
+        "testo": "La capilla de las dominicas que Matisse diseñó hasta el último detalle entre 1948 y 1951: vidrieras amarillas, verdes y azules, cerámicas blancas dibujadas con trazo negro, ornamentos. Él la consideraba su obra maestra.",
+        "come": "Autobús 655 desde Saint-Paul-de-Vence o Cagnes-sur-Mer; la capilla está en la carretera, justo fuera del centro de Vence.",
+        "quando": "En un día de sol, cuando las vidrieras colorean el suelo.",
+        "tempo": "45 minutos",
+        "costo": "unos 7 € (2026)",
+        "orari": "Cerrada los domingos; horarios reducidos y variables, que conviene comprobar en la web de la capilla antes de ir.",
+        "lat": 43.72751,
+        "lng": 7.11286,
+        "consiglio": "Comprobar el último autobús a Cagnes antes de subir a Vence."
+      },
+      {
+        "nome": "Grasse y el Musée International de la Parfumerie",
+        "testo": "La capital histórica del perfume, con un museo que cuenta tres mil años de perfumería entre materias primas, alambiques y frascos. Alrededor, colinas cultivadas de rosa centifolia y jazmín.",
+        "come": "Tren desde Cannes en unos 30 minutos, luego lanzadera o un cuarto de hora a pie cuesta arriba hasta el centro.",
+        "quando": "Mayo para la cosecha de la rosa, agosto para el jazmín.",
+        "tempo": "media jornada",
+        "costo": "museo unos 6 € (2026)",
+        "lat": 43.65805,
+        "lng": 6.92185,
+        "url": "https://www.museesdegrasse.com/",
+        "consiglio": "Para las Gorges du Loup y Tourrettes-sur-Loup, cerca de aquí, hace falta coche."
+      },
+      {
+        "nome": "Menton",
+        "testo": "La última ciudad francesa antes de Italia y la más cálida de la costa, con las casas ocres escalonadas bajo la basílica de Saint-Michel y los jardines botánicos. En febrero acoge la Fiesta del Limón.",
+        "come": "Tren costero desde Niza en unos 35 minutos, o desde Ventimiglia en pocos minutos.",
+        "quando": "En invierno y en febrero, por la Fiesta del Limón.",
+        "tempo": "media jornada",
+        "costo": "casco antiguo gratuito",
+        "lat": 43.77691,
+        "lng": 7.50711
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Vieux Nice y Cours Saleya por la mañana",
-          "Colline du Château",
-          "Comida con socca",
-          "Atardecer en la Promenade des Anglais"
-        ]
+        "titolo": "1 día",
+        "tappe": ["Vieux Nice y Cours Saleya por la mañana", "Colline du Château", "Socca para comer", "Musée Chagall o Musée Matisse", "Atardecer en la Promenade des Anglais"]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: Niza, Cours Saleya, Colline du Château, museos Matisse o Chagall",
-          "Día 2: Villefranche, Cap Ferrat y Èze"
-        ]
+        "titolo": "2 días",
+        "tappe": ["Día 1: Niza, Cours Saleya, Colline du Château, museos Matisse o Chagall", "Día 2: Villefranche, Villa Ephrussi y Cap Ferrat, luego Èze y el Trophée d'Auguste"]
       },
       {
-        titolo: "3 días",
-        tappe: [
-          "Día 1: Niza",
-          "Día 2: Villefranche, Cap Ferrat, Èze",
-          "Día 3: Antibes, Cap d'Antibes e islas de Lérins desde Cannes"
-        ]
+        "titolo": "3 días",
+        "tappe": ["Día 1: Niza", "Día 2: Villefranche, Cap Ferrat, Èze", "Día 3: Antibes con el mercado y el Musée Picasso, sendero del Cap d'Antibes por la tarde"]
+      },
+      {
+        "titolo": "5 días con base en Antibes",
+        "tappe": ["Día 1: Antibes y Cap d'Antibes", "Día 2: Niza y los museos de Cimiez", "Día 3: Saint-Paul-de-Vence, Fondation Maeght y Chapelle du Rosaire", "Día 4: Èze, La Turbie y Mónaco", "Día 5: Cannes, Le Suquet y las islas de Lérins"]
       }
     ],
     zone: [
       {
-        nome: "Niza",
-        perChi: "sin coche",
-        testo: "Trenes y tranvías por toda la costa, restaurantes y museos. Más caro en verano; el centro es ruidoso de noche."
+        "nome": "Niza",
+        "testo": "Trenes y tranvías por toda la costa, restaurantes y museos. Más caro en verano; el centro es ruidoso de noche.",
+        "perChi": "sin coche",
+        "fascia": "100-280 €"
       },
       {
-        nome: "Antibes",
-        perChi: "para una ciudad costera más recogida",
-        testo: "Murallas, puerto y playas, con tren directo a Niza y Cannes. Alojamiento caro en julio y agosto."
+        "nome": "Antibes",
+        "testo": "Murallas, puerto y playas, con tren directo a Niza y Cannes. Alojamiento caro en julio y agosto.",
+        "perChi": "para una ciudad costera más recogida",
+        "fascia": "90-190 €"
       },
       {
-        nome: "Menton",
-        perChi: "para precios más bajos y calma",
-        testo: "Hacia la frontera con Italia, más tranquila y barata, con el tren de la costa a Niza."
+        "nome": "Villefranche y Beaulieu",
+        "testo": "Rada, pueblo y senderos del Cap Ferrat, con Niza y Mónaco a pocos minutos en tren. Poco alojamiento, y noches tranquilas.",
+        "perChi": "quien busca el tramo más espectacular",
+        "fascia": "110-300 €"
+      },
+      {
+        "nome": "Menton",
+        "testo": "Hacia la frontera con Italia, más tranquila y barata, con el tren de la costa a Niza.",
+        "perChi": "para precios más bajos y calma",
+        "fascia": "80-190 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Ventimiglia y el mercado del viernes",
+        "testo": "Los viernes la orilla del río se llena de puestos; el resto de la semana queda la ciudad alta medieval y, un poco más allá, los jardines Hanbury en La Mortola.",
+        "come": "Tren regional por la costa, que sigue al otro lado de la frontera.",
+        "distanza": "unos 40 minutos en tren desde Niza"
+      },
+      {
+        "nome": "Gorges du Loup y Tourrettes-sur-Loup",
+        "testo": "Una garganta con cascadas y pozas naturales, y encima un pueblo de piedra conocido por la violeta. En verano es una alternativa fresca al mar.",
+        "come": "En coche: la carretera de la garganta es estrecha, con pocos sitios para parar.",
+        "distanza": "unos 30 km desde Antibes"
+      },
+      {
+        "nome": "Mercantour y Valle de las Maravillas",
+        "testo": "Alta montaña con lagos glaciares y decenas de miles de grabados rupestres de la Edad del Bronce bajo el monte Bégo. Las zonas principales se visitan en verano y con guía autorizado.",
+        "come": "En coche, o con el tren Niza-Tende que sube por el valle del Roya.",
+        "distanza": "aproximadamente 1 hora y media desde la costa"
+      },
+      {
+        "nome": "Saint-Tropez",
+        "testo": "El puerto de pescadores que se convirtió en mito en los años cincuenta, con la ciudadela y las playas de Pampelonne. Fuera de temporada vuelve a ser un pueblo.",
+        "come": "En coche por la costa del Esterel; en verano el tráfico a la entrada del pueblo es denso.",
+        "distanza": "unos 70 km desde Cannes"
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para la Costa Azul?",
+        "risposta": "Tres días bastan para Niza, Villefranche y Èze. Con una semana y una base fija se añaden Antibes, Cannes con las islas de Lérins, Mónaco y el interior de Saint-Paul-de-Vence."
+      },
+      {
+        "domanda": "¿Mejor dormir en Niza o en Antibes?",
+        "risposta": "Niza es la opción para quien llega en avión, no tiene coche y quiere museos. Antibes cuesta menos, tiene playas de arena y está en el centro de la línea de tren: para una semana es la base más equilibrada."
+      },
+      {
+        "domanda": "¿Hace falta coche en la Costa Azul?",
+        "risposta": "Para la costa no: el tren regional une Cannes, Antibes, Niza, Mónaco y Menton con frecuencias altas. El coche solo sirve para el interior y el Mercantour, y en verano en la ciudad es un estorbo."
+      },
+      {
+        "domanda": "¿Las playas de Niza son de arena?",
+        "risposta": "No, son de cantos gruesos: conviene llevar escarpines. Las playas de arena están más al oeste, en Antibes, Juan-les-Pins y Cannes."
+      },
+      {
+        "domanda": "¿Cuándo ir para evitar las multitudes?",
+        "risposta": "Mayo, junio y de mediados de septiembre a octubre. En invierno el clima es suave y los senderos están vacíos; julio y agosto son los meses más caros y llenos."
+      },
+      {
+        "domanda": "¿Se puede visitar Mónaco en el día desde Niza?",
+        "risposta": "Sí: el tren costero tarda unos 20 minutos. Media jornada basta para la Roca y el Museo Oceanográfico, y se puede combinar con Èze o La Turbie."
       }
     ],
     sapori: [
@@ -2127,14 +2325,12 @@ export const destinazioniFrancia: Destinazione[] = [
       "La Provenza es grande y conviene dividirla en dos bases. **Aviñón o Saint-Rémy** para la parte occidental: papas, romanos, Alpilles, Camarga. **Gordes, Bonnieux o Apt** para el Luberon; **Moustiers-Sainte-Marie** para el Verdon; **Cassis** para las Calanques. Marsella es una ciudad de verdad y una excelente base para quien no quiere conducir. En julio y agosto los precios suben mucho, sobre todo en el Luberon.",
     doveMangiare:
       "Cocina de verduras, aceite y hierbas: **ratatouille**, **tapenade**, **anchoïade**, **pissaladière**, **daube** de ternera al vino, **pieds et paquets** en Marsella, y la **bouillabaisse**. La auténtica es un plato de pescadores con pescados de roca y rascacio, servido en dos tiempos (primero el caldo con la rouille y las tostadas, luego el pescado), y cuesta cara por una razón: si cuesta poco, no es la auténtica. Los mercados están llenos de **melones de Cavaillon**, **aceitunas**, **quesos de cabra**, **miel de lavanda** y **hierbas provenzales**. Para beber, los rosados de la Provenza y los tintos del Ródano meridional.",
-    comeArrivare:
-      "El alta velocidad lleva de París a Aviñón en poco más de dos horas y a Marsella en unas tres. Hay aeropuertos en Marsella y Nîmes, además de Niza al este. **Para todo lo que no es una ciudad hace falta coche.**",
+    comeArrivare: "La alta velocidad lleva de París a Aviñón en poco más de dos horas y a Marsella en unas tres. El aeropuerto más usado es **Marsella Provenza**: la **lanzadera A1** llega a la estación Saint-Charles en 25-50 minutos, cada 10-20 minutos, por unos 15 € (2026); como alternativa, una lanzadera gratuita lleva a la estación Vitrolles Aéroport, de donde salen los trenes regionales. También hay aeropuertos en Nîmes y, al este, en Niza. **Para todo lo que no sea una ciudad hace falta coche.**",
     comeSpostarsi:
       "**Coche**, con dos advertencias. La primera: **Marsella, Aix y otras ciudades tienen zonas de bajas emisiones donde hace falta la etiqueta Crit'Air**, que hay que pedir en línea semanas antes. La segunda: en temporada alta, en los pueblos del Luberon y en Moustiers, **los aparcamientos son pocos, de pago y están llenos a media mañana**.",
     periodoMigliore:
       "**mayo-junio y septiembre-octubre**, con una excepción importante. Quien viene **por la lavanda** tiene una ventana que va aproximadamente **de mediados de junio a principios de agosto**, distinta de una meseta a otra, y **el corte llega justo después de la floración**: con una semana de retraso se encuentran los campos ya cortados. Julio y agosto son calurosísimos, concurridos y caros, y en julio el **Festival de Aviñón** hace la ciudad impracticable para quien no va expresamente. El **mistral** puede soplar durante días seguidos en cualquier estación.",
-    costi:
-      "En la media francesa; el Luberon y las Calanques en temporada alta están por encima. Muchas de las mejores cosas son gratuitas o casi: los pueblos, los mercados, los senderos, los campos de lavanda. En el Pont du Gard se paga aparcamiento más museo; los monumentos romanos de Arlés y Nîmes tienen entradas combinadas convenientes.",
+    costi: "En la media francesa; el Luberon y las Calanques en temporada alta están por encima. Muchas de las mejores cosas son gratuitas o casi: los pueblos, los mercados, los senderos, los campos de lavanda. En el Pont du Gard se paga aparcamiento más museo; los monumentos romanos de Arlés y Nîmes tienen entradas combinadas convenientes. Presupuesto orientativo por persona y día, compartiendo habitación doble y sin contar el coche de alquiler: bajo 70-100 €, medio 130-190 €, alto más de 300 €.",
     erroriDaEvitare: [
       "**Venir por la lavanda en el periodo equivocado.** Es el error más frecuente: las ventanas de floración son breves y distintas entre Valensole y Sault, y después del corte no queda nada que ver",
       "Entrar en los campos de lavanda para hacer fotos: son **cultivos privados**, y en la abadía más fotografiada de la región los religiosos han pedido expresamente que no se haga",
@@ -2225,88 +2421,282 @@ export const destinazioniFrancia: Destinazione[] = [
       "En la Provenza las expectativas se ajustan en un día, a condición de hacer una cosa: salir del Luberon. Los pueblos encaramados son bellísimos, pero es allí donde se concentra todo. En agosto en Gordes se dan vueltas cuarenta minutos para aparcar y luego se camina en fila por una calle de tiendas. A una hora de distancia están las Gargantas del Verdon, el cañón más profundo de Europa, que casi nadie incluye en el programa. Se camina por el fondo entre paredes verticales de cientos de metros, con el agua verde esmeralda al lado y túneles excavados en la roca que se atraviesan con linterna. O están los romanos. La arena de Nîmes es el anfiteatro romano mejor conservado del mundo y todavía se hacen espectáculos; el Pont du Gard formaba parte de un acueducto que llevaba el agua durante cincuenta kilómetros con una pendiente media de veinticinco centímetros por kilómetro, un margen de error que hoy se consigue con el láser. Sobre la lavanda hay una sola cosa que saber: tiene un calendario, y el calendario no espera. Florece y se corta, y quien llega en agosto pensando en los campos morados encuentra los rastrojos y no se lo cree.",
     luoghi: [
       {
-        nome: "Gargantas del Verdon",
-        testo: "Un cañón de hasta 700 metros de profundidad, a menudo comparado con el Gran Cañón, con paredes verticales y agua verde. La carretera panorámica del borde tiene miradores.",
-        come: "En coche desde Moustiers-Sainte-Marie o Castellane. Se puede caminar por el fondo por el Sentier de l'Imbut.",
-        quando: "Primavera y verano; muy concurrido en julio y agosto.",
-        tempo: "día completo",
-        consiglio: "El paseo en patín o kayak por el lago de Sainte-Croix se hace por la mañana."
+        "nome": "Gargantas del Verdon",
+        "testo": "Un cañón de hasta 700 metros de profundidad, a menudo comparado con el Gran Cañón, con paredes verticales y agua verde. La carretera panorámica del borde tiene miradores.",
+        "come": "En coche desde Moustiers-Sainte-Marie o Castellane. Se puede caminar por el fondo por el Sentier de l'Imbut.",
+        "quando": "Primavera y verano; muy concurrido en julio y agosto.",
+        "tempo": "día completo",
+        "costo": "acceso gratuito; alquiler de kayak y patín aparte",
+        "lat": 43.79134,
+        "lng": 6.39927,
+        "consiglio": "La vuelta en patín o kayak por el lago de Sainte-Croix se hace por la mañana. El mirador del Point Sublime es el más fácil de alcanzar."
       },
       {
-        nome: "Luberon: Gordes, Roussillon, Bonnieux",
-        testo: "Pueblos encaramados de piedra clara. En Roussillon las canteras de ocre dan colores rojos y amarillos, que se ven en el Sentier des Ocres.",
-        come: "En coche: en agosto el aparcamiento es difícil.",
-        quando: "Primavera y otoño; multitudes en julio y agosto.",
-        tempo: "2 días",
-        consiglio: "Visitar los pueblos a primera hora, antes de los autocares."
+        "nome": "Luberon: Gordes, Roussillon, Bonnieux",
+        "testo": "Pueblos encaramados de piedra clara. En Roussillon las canteras de ocre dan colores rojos y amarillos, que se ven en el Sentier des Ocres.",
+        "come": "En coche: en agosto el aparcamiento es difícil.",
+        "quando": "Primavera y otoño; multitudes en julio y agosto.",
+        "tempo": "2 días",
+        "costo": "pueblos gratuitos, aparcamientos de pago",
+        "lat": 43.91106,
+        "lng": 5.2002,
+        "consiglio": "Visitar los pueblos a primera hora, antes de los autocares."
       },
       {
-        nome: "Meseta de Valensole y lavanda",
-        testo: "El gran paisaje de lavanda: una meseta de hileras moradas alternadas con campos de trigo, con alguna casa de piedra en medio. Florece en verano y se corta enseguida, así que las fechas importan: comprobarlas cada año. Los campos son privados: se fotografía desde el borde, sin entrar en las hileras.",
-        come: "En coche desde Riez o Valensole.",
-        quando: "Amanecer o atardecer, durante la floración.",
-        tempo: "media jornada",
-        consiglio: "No entrar en los campos cultivados: los agricultores pierden la cosecha."
+        "nome": "Roussillon y el Sentier des Ocres",
+        "testo": "Un pueblo color óxido construido sobre las antiguas canteras de ocre. El sendero entra en las canteras entre agujas y paredes rojas, naranjas y amarillas, con un recorrido corto y uno largo.",
+        "come": "En coche; el sendero sale del pueblo, a pie.",
+        "quando": "A primera hora de la mañana o a última de la tarde, cuando los colores son más cálidos y hace menos calor.",
+        "tempo": "30 minutos el recorrido corto, 1 hora el largo",
+        "costo": "unos 3,50 € (2026)",
+        "lat": 43.89969,
+        "lng": 5.29859,
+        "consiglio": "Calzado cerrado y ropa que no tema el polvo rojo."
       },
       {
-        nome: "Aviñón y el Palacio de los Papas",
-        testo: "El gran palacio gótico que fue residencia de los papas en el siglo XIV. El puente Saint-Bénézet, cortado a mitad, es el símbolo de la ciudad.",
-        come: "Tren desde Marsella o París. Se visita a pie.",
-        quando: "Por la mañana.",
-        tempo: "media jornada",
-        url: "https://www.palais-des-papes.com/",
-        consiglio: "Pasear por las murallas antes o después de la visita."
+        "nome": "Abadía de Sénanque",
+        "testo": "Una abadía cisterciense del siglo XII en un valle estrecho bajo Gordes, todavía habitada por monjes, con el campo de lavanda delante que es la imagen más reproducida de Provenza. La iglesia y el claustro son de una sencillez absoluta.",
+        "come": "En coche desde Gordes, 4 km de carretera estrecha. Las visitas al interior se reservan en línea; se recomienda la visita guiada, o el recorrido libre con HistoPad para quien no habla francés.",
+        "quando": "A primera hora durante la floración; fuera de temporada, a cualquier hora.",
+        "tempo": "1 hora",
+        "lat": 43.9313,
+        "lng": 5.18901,
+        "url": "https://www.senanque.fr/",
+        "consiglio": "Los monjes piden no entrar en el campo y respetar el silencio."
       },
       {
-        nome: "Arlés",
-        testo: "Un anfiteatro romano todavía en uso para espectáculos, los Alyscamps y los lugares pintados por Van Gogh, que vivió y trabajó en Arlés.",
-        come: "Tren desde Aviñón.",
-        quando: "Por la mañana; el mercado es el sábado.",
-        tempo: "media jornada",
-        consiglio: "Seguir el recorrido Van Gogh entre los lugares pintados."
+        "nome": "Meseta de Valensole y lavanda",
+        "testo": "El gran paisaje de lavanda: una meseta de hileras moradas alternadas con campos de trigo, con alguna casa de piedra en medio. Florece en verano y se corta enseguida, así que las fechas importan: comprobarlas cada año. Los campos son privados: se fotografía desde el borde, sin entrar en las hileras.",
+        "come": "En coche desde Riez o Valensole.",
+        "quando": "Al amanecer o al atardecer, durante la floración, aproximadamente de mediados de junio a mediados de julio.",
+        "tempo": "media jornada",
+        "costo": "gratis",
+        "lat": 43.83793,
+        "lng": 5.98399,
+        "consiglio": "No entrar en los campos cultivados: los agricultores pierden la cosecha."
       },
       {
-        nome: "Nîmes",
-        testo: "Una de las arenas romanas mejor conservadas del mundo, aún usada para conciertos y corridas, y la Maison Carrée, templo romano casi intacto inscrito en la UNESCO en 2023.",
-        come: "Tren desde Aviñón.",
-        quando: "Por la mañana.",
-        tempo: "media jornada",
-        url: "https://www.arenes-nimes.com/",
-        consiglio: "La entrada combinada 3 Monumentos incluye la arena, la Maison Carrée y la Tour Magne."
+        "nome": "Moustiers-Sainte-Marie",
+        "testo": "Un pueblo apoyado en una grieta de la roca, con una estrella dorada colgada de una cadena entre las dos paredes y la capilla de Notre-Dame-de-Beauvoir en lo alto. Es famoso por la loza y es la puerta del Verdon y del lago de Sainte-Croix.",
+        "come": "En coche; los aparcamientos están fuera del pueblo y son de pago.",
+        "quando": "A primera hora o por la tarde; a mediodía en verano está lleno.",
+        "tempo": "2 horas",
+        "costo": "pueblo gratuito",
+        "lat": 43.84601,
+        "lng": 6.22176
+      },
+      {
+        "nome": "Aviñón y el Palacio de los Papas",
+        "testo": "El gran palacio gótico que fue residencia de los papas en el siglo XIV. El puente Saint-Bénézet, cortado a mitad, es el símbolo de la ciudad.",
+        "come": "Tren desde Marsella o París. Se visita a pie; la visita del palacio incluye la tableta de realidad aumentada.",
+        "quando": "A la apertura por la mañana, antes de los grupos.",
+        "tempo": "media jornada",
+        "costo": "Palacio de los Papas 16 €, con jardines y puente 19,50 € (2026)",
+        "orari": "Abierto todos los días: del 1 de marzo al 1 de noviembre 9-19, del 2 de noviembre a mediados de diciembre 10-17; última entrada una hora antes.",
+        "lat": 43.95071,
+        "lng": 4.80769,
+        "url": "https://www.palais-des-papes.com/",
+        "consiglio": "Pasear por las murallas antes o después de la visita. El coche conviene dejarlo en los aparcamientos fuera de las murallas."
+      },
+      {
+        "nome": "Pont du Gard",
+        "testo": "El puente-acueducto romano de tres órdenes de arcos, de casi cincuenta metros de altura, patrimonio de la UNESCO. Formaba parte de un acueducto de unos cincuenta kilómetros que llevaba el agua a Nîmes con una pendiente mínima.",
+        "come": "En coche, unos 30 minutos desde Aviñón o Nîmes; se aparca en el recinto y se camina hasta el puente.",
+        "quando": "A primera hora o por la tarde; en verano, baño en el Gardon bajo los arcos.",
+        "tempo": "2-3 horas",
+        "costo": "aparcamiento unos 9 € por vehículo, acceso al recinto incluido (2026)",
+        "orari": "Recinto abierto de 8 a medianoche.",
+        "lat": 43.94707,
+        "lng": 4.5356,
+        "url": "https://www.pontdugard.fr/",
+        "consiglio": "El baño en el río solo en las zonas señaladas."
+      },
+      {
+        "nome": "Arlés",
+        "testo": "Un anfiteatro romano todavía en uso para espectáculos, los Alyscamps y los lugares pintados por Van Gogh, que vivió y trabajó en Arlés.",
+        "come": "Tren desde Aviñón.",
+        "quando": "Por la mañana; el mercado es el sábado.",
+        "tempo": "media jornada",
+        "lat": 43.67776,
+        "lng": 4.63139,
+        "consiglio": "Seguir el recorrido Van Gogh por los lugares que pintó: eso sí, en la ciudad no hay ningún cuadro suyo."
+      },
+      {
+        "nome": "Nîmes",
+        "testo": "Una de las arenas romanas mejor conservadas del mundo, aún usada para conciertos y corridas, y la Maison Carrée, templo romano casi intacto inscrito en la UNESCO en 2023.",
+        "come": "Tren desde Aviñón.",
+        "quando": "Por la mañana.",
+        "tempo": "media jornada",
+        "costo": "Arena 11 €, Pass 3 Monuments 14,50 € (2026)",
+        "orari": "Arena abierta todos los días: 9:30-17 en enero, noviembre y diciembre; 9-18 en marzo y octubre; 9-18:30 en abril y mayo; 9-19 en junio y septiembre; 8-21 en julio y agosto. Última entrada una hora antes.",
+        "lat": 43.83489,
+        "lng": 4.35962,
+        "url": "https://www.arenes-nimes.com/",
+        "consiglio": "La entrada combinada 3 Monumentos incluye la arena, la Maison Carrée y la Tour Magne."
+      },
+      {
+        "nome": "Les Baux-de-Provence y Carrières des Lumières",
+        "testo": "Un pueblo y las ruinas de un castillo sobre un espolón de roca de los Alpilles. Debajo, en las antiguas canteras de piedra, las Carrières des Lumières proyectan sobre paredes de catorce metros grandes exposiciones inmersivas dedicadas a pintores.",
+        "come": "En coche desde Saint-Rémy o Arlés, unos 20-30 minutos.",
+        "quando": "Las canteras por la mañana; el pueblo hacia la tarde, cuando se van los grupos.",
+        "tempo": "media jornada",
+        "costo": "Carrières 16,50 €, pase con el Château des Baux 21 € (2026)",
+        "orari": "Carrières abiertas todos los días: 10-18 en enero, noviembre y diciembre; 9:30-18 en febrero y marzo; 9:30-19 de abril a junio y en septiembre y octubre; 9-19:30 en julio y agosto. Última entrada una hora antes.",
+        "lat": 43.74836,
+        "lng": 4.79642,
+        "url": "https://www.carrieres-lumieres.com/"
+      },
+      {
+        "nome": "Saint-Rémy-de-Provence y Glanum",
+        "testo": "Un pueblo de los Alpilles con mercado los miércoles y, justo fuera, Glanum: una ciudad galorromana con termas, templos y casas, y delante el mausoleo y el arco llamados Les Antiques. A pocos pasos está el hospital de Saint-Paul-de-Mausole, donde estuvo ingresado Van Gogh.",
+        "come": "En coche, unos 25 minutos desde Aviñón; Glanum está a 15 minutos a pie del centro.",
+        "quando": "Por la mañana.",
+        "tempo": "media jornada",
+        "costo": "Glanum 9 €, gratis para menores de 26 años (2026)",
+        "lat": 43.77354,
+        "lng": 4.83237,
+        "url": "https://www.site-glanum.fr/"
+      },
+      {
+        "nome": "Aix-en-Provence",
+        "testo": "La ciudad de Cézanne: el Cours Mirabeau con sus plátanos y fuentes, los palacetes del siglo XVII y los mercados de la mañana. Sobre la ciudad, el taller de Les Lauves donde el pintor trabajó sus últimos años, y al fondo la montaña Sainte-Victoire.",
+        "come": "Tren o autobús desde Marsella en unos 30-40 minutos; el centro se recorre a pie.",
+        "quando": "Por la mañana, con el mercado.",
+        "tempo": "media jornada",
+        "lat": 43.52652,
+        "lng": 5.44716,
+        "consiglio": "En noviembre de 2026 el taller de Cézanne figura como cerrado temporalmente: comprobar la reapertura en cezanne-en-provence.com."
+      },
+      {
+        "nome": "Marsella: Vieux-Port, Le Panier y Notre-Dame de la Garde",
+        "testo": "El puerto viejo con el mercado de pescado por la mañana, el barrio del Panier con sus callejuelas en cuesta y, en lo alto de la colina, la basílica de Notre-Dame de la Garde, la «Bonne Mère», desde la que se ve toda la ciudad y las islas del Frioul.",
+        "come": "Metro hasta Vieux-Port; para la basílica hay autobús desde el Vieux-Port, o media hora de subida a pie.",
+        "quando": "Mercado de pescado por la mañana, basílica al atardecer.",
+        "tempo": "una jornada",
+        "lat": 43.28374,
+        "lng": 5.37124,
+        "consiglio": "En Marsella conviene dejar el coche en un aparcamiento y moverse a pie, en metro o en tranvía."
+      },
+      {
+        "nome": "MuCEM, Marsella",
+        "testo": "El museo de las civilizaciones del Mediterráneo, en un cubo envuelto en un encaje de hormigón unido por una pasarela al Fort Saint-Jean. Las terrazas y los jardines del fuerte son gratuitos y tienen una de las mejores vistas del puerto.",
+        "come": "A pie desde el Vieux-Port, 10 minutos por el muelle.",
+        "quando": "Por la tarde, hasta el atardecer en las terrazas.",
+        "tempo": "2-3 horas",
+        "costo": "11 € general, 7,50 € reducida; zonas exteriores gratuitas y entrada libre el primer domingo de mes (2026)",
+        "orari": "10-18 todos los días excepto los martes; cerrado el 1 de mayo y el 25 de diciembre.",
+        "lat": 43.29843,
+        "lng": 5.36277,
+        "url": "https://www.mucem.org/"
+      },
+      {
+        "nome": "Calanques",
+        "testo": "El parque nacional entre Marsella y Cassis: acantilados de caliza blanca, pinares y calas de agua turquesa a las que se llega a pie o por mar. Sugiton, En-Vau y Port-Pin son las más conocidas.",
+        "come": "A pie desde Luminy (autobús desde Marsella) para Sugiton, o desde Cassis; en barco desde Marsella o Cassis.",
+        "quando": "Primavera y otoño. En verano el parque puede cerrar los macizos por riesgo de incendio: la decisión se anuncia el día antes.",
+        "tempo": "media jornada o una jornada",
+        "costo": "acceso gratuito; en verano, reserva gratuita obligatoria para Sugiton",
+        "orari": "Acceso del día en la web de la prefectura o en la app Mes Calanques; para Sugiton la reserva abre tres días antes y se anula sola si se cierra el macizo.",
+        "lat": 43.21102,
+        "lng": 5.45507,
+        "url": "https://www.calanques-parcnational.fr/",
+        "consiglio": "Salir temprano, con agua y calzado de montaña: los senderos son empinados y sin sombra."
       }
     ],
     programmi: [
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: Aviñón y Palacio de los Papas, Arlés",
-          "Día 2: Luberon y Roussillon"
-        ]
+        "titolo": "1 día",
+        "tappe": ["Palacio de los Papas a la apertura", "Puente Saint-Bénézet y murallas de Aviñón", "Tarde en el Pont du Gard, con baño en el Gardon en verano"]
       },
       {
-        titolo: "3 días",
-        tappe: [
-          "Día 1: Aviñón y Arlés",
-          "Día 2: Luberon",
-          "Día 3: Valensole y Gargantas del Verdon"
-        ]
+        "titolo": "2 días",
+        "tappe": ["Día 1: Aviñón y Palacio de los Papas, Arlés", "Día 2: Luberon y Roussillon"]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": ["Día 1: Aviñón y Arlés", "Día 2: Luberon", "Día 3: Valensole y Gargantas del Verdon"]
+      },
+      {
+        "titolo": "6 días",
+        "tappe": ["Día 1: Aviñón y Palacio de los Papas", "Día 2: Pont du Gard y Nîmes", "Día 3: Arlés, Les Baux y Saint-Rémy", "Día 4: Gordes, Sénanque y Roussillon", "Día 5: Valensole, Moustiers y Gargantas del Verdon", "Día 6: Marsella, MuCEM y Calanques"]
       }
     ],
     zone: [
       {
-        nome: "Aviñón",
-        perChi: "sin coche",
-        testo: "Centro amurallado con trenes a Arlés y Nîmes."
+        "nome": "Aviñón",
+        "testo": "Centro amurallado con trenes a Arlés y Nîmes. En julio, durante el Festival, los precios suben mucho.",
+        "perChi": "sin coche",
+        "fascia": "80-170 €"
       },
       {
-        nome: "Luberon",
-        perChi: "para los pueblos",
-        testo: "Masías y pequeños hoteles; hace falta coche."
+        "nome": "Luberon",
+        "testo": "Masías y pequeños hoteles; hace falta coche.",
+        "perChi": "para los pueblos",
+        "fascia": "120-300 €"
       },
       {
-        nome: "Arlés",
-        perChi: "para una ciudad a escala humana",
-        testo: "Más barata que Aviñón, con arena y mercados."
+        "nome": "Arlés",
+        "testo": "Más barata que Aviñón, con arena y mercados, y la Camarga a media hora.",
+        "perChi": "para una ciudad a escala humana",
+        "fascia": "70-150 €"
+      },
+      {
+        "nome": "Marsella y Cassis",
+        "testo": "Marsella es una ciudad de verdad, con metro y trenes; Cassis es más pequeña y más cara, cómoda para los senderos y los barcos.",
+        "perChi": "quien quiere mar y Calanques",
+        "fascia": "80-200 €"
+      }
+    ],
+    gite: [
+      {
+        "nome": "Camarga y Saintes-Maries-de-la-Mer",
+        "testo": "Marismas, flamencos, caballos blancos y toros negros entre Arlés y el mar. En Saintes-Maries, a finales de mayo y en octubre, hay grandes peregrinaciones.",
+        "come": "En coche; el parque ornitológico de Pont de Gau está en el camino.",
+        "distanza": "unos 40 km desde Arlés"
+      },
+      {
+        "nome": "Orange y Châteauneuf-du-Pape",
+        "testo": "El teatro romano de Orange conserva entero el muro de escena, de 37 metros de altura. En Châteauneuf, el tinto del Ródano meridional en las bodegas del pueblo.",
+        "come": "Tren regional a Orange; para las bodegas de Châteauneuf hace falta coche.",
+        "distanza": "unos 30 km desde Aviñón"
+      },
+      {
+        "nome": "Mont Ventoux",
+        "testo": "El «gigante de Provenza», 1.910 metros, con la cima blanca de piedras y la subida más famosa del ciclismo francés. Arriba sopla a menudo el mistral: llevar chaqueta.",
+        "come": "En coche o en bici desde Bédoin, Malaucène o Sault.",
+        "distanza": "aproximadamente 1 hora desde Aviñón"
+      },
+      {
+        "nome": "Cassis",
+        "testo": "Un puerto de pescadores bajo el acantilado del Cap Canaille, del que salen los barcos a las calanques y los senderos a Port-Pin y En-Vau. El vino blanco local tiene denominación propia.",
+        "come": "Tren hasta la estación de Cassis y lanzadera, o en coche.",
+        "distanza": "unos 30 km desde Marsella"
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuándo florece la lavanda en Provenza?",
+        "risposta": "Aproximadamente de mediados de junio a mediados de julio en la meseta de Valensole y de mediados de julio a principios de agosto en Sault. Justo después se siega, así que conviene comprobar el estado de la floración pocos días antes de salir."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta para Provenza?",
+        "risposta": "Seis-ocho días para ver Aviñón, los romanos de Nîmes y Arlés, el Luberon y el Verdon sin prisas. Con tres días conviene elegir una sola parte: el oeste de papas y romanos, o el Luberon y el Verdon."
+      },
+      {
+        "domanda": "¿Dónde conviene alojarse en Provenza?",
+        "risposta": "En dos bases: Aviñón o Saint-Rémy para la parte occidental, un pueblo del Luberon o Moustiers para el interior. Quien no conduce puede alojarse en Aviñón o en Marsella y moverse en tren."
+      },
+      {
+        "domanda": "¿Hace falta coche en Provenza?",
+        "risposta": "Sí, para todo lo que no sea una ciudad: pueblos, lavanda, Verdon y Pont du Gard. Marsella y Aix tienen zonas de bajas emisiones donde se necesita la etiqueta Crit'Air."
+      },
+      {
+        "domanda": "¿Hay que reservar para las Calanques?",
+        "risposta": "En verano, para Sugiton, sí: la reserva es gratuita y abre tres días antes. Para todo el parque hay que comprobar cada día si los macizos están abiertos, porque con riesgo de incendio pueden cerrar."
+      },
+      {
+        "domanda": "¿Se puede uno bañar en el Pont du Gard?",
+        "risposta": "Sí, en el Gardon bajo los arcos, pero solo en las zonas señaladas. El aparcamiento de pago incluye el acceso al recinto."
       }
     ],
     sapori: [
