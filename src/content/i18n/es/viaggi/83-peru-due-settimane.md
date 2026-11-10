@@ -152,7 +152,5 @@ En Lima, con un vuelo nocturno, quedan algunas horas: el **Museo Larco**, la col
 ## Chiusura personale
 El error que no repetiría es subestimar la altitud. Y hacen falta zapatos cómodos, siempre. A quien se va le digo que no se deje engañar por las agencias y, si puede, que añada unos días para la Amazonía: es increíble.
 
-*El viaje es de Rick, que ha estado en Perú en 2018, 2021 y 2024. De él vienen Machu Picchu al amanecer, el Huayna Picchu, las maneras en que llegó allí, la cocina de Lima, Santa Catalina, la Cruz del Cóndor, la noche en Amantaní, Rainbow Mountain y Humantay, los recuerdos de Assunta, la Amazonía y la Laguna 69. Este itinerario de dos semanas es una reducción de su viaje largo por Perú, recorrido en sentido inverso para subir de altitud por escalones: trayectos, tiempos, costes y advertencias vienen de ahí y de las fichas de destino del sitio, verificados en septiembre de 2026. Precios, horarios y normas de acceso cambian: hay que volver a comprobarlos antes de salir.*
-
 ## Tag
 `#peru` `#machupicchu` `#cusco` `#vallesacra` `#titicaca` `#arequipa` `#colca` `#lima` `#altaquota` `#duesettimane` `#sudamerica`

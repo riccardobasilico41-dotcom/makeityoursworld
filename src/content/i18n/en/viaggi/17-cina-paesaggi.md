@@ -249,7 +249,7 @@ Without time for Longji, the morning in Guilin is spent in the city, between **E
 - **Factor in the cost of park admissions.** Added up, they exceed everything else in the trip: it's the most frequent budget surprise on this itinerary.
 
 ## Chiusura personale
-If the first trip to China is for ticking off the things you already knew, this one is for realizing how little you knew. None of these stops appears in the brochures and in almost all of them you're the only foreigner in sight: in Zhangjiajie park, on the gorge trail, in the alleys of Baisha at dawn. What remains, in the end, isn't a monument but a sequence: the elevator climbing along the wall and the void that opens in the last hundred meters; the roar of the Yangtze rising from three thousand meters beneath your feet; five hundred farmers in costume performing with a glacier behind them; and an hour on a raft on the Li River in the morning, with the towers gliding by half a meter from the water and no hurry to arrive.
+In the end China, for me, is this: total chaos, but so cool. You eat well pretty much everywhere, even if it's almost always very spicy, and often you don't even know what you've ordered. But that's part of the experience.
 
 ## Tag
 `#cina` `#zhangjiajie` `#chongqing` `#chengdu` `#lijiang` `#shangrila` `#yangshuo` `#yunnan` `#sichuan` `#hunan` `#trekking` `#asia`

@@ -9,22 +9,22 @@
 ---
 
 ## Apertura personale
-Scotland is done by car. Rick went in July and drove around it. The first thing to factor in is driving "the other way round": you keep left, the gearstick is on the other side, and at roundabouts you go clockwise. In the Highlands many roads also have a single lane, with passing places to let oncoming traffic through. You get used to it quickly, but take the first miles calmly.
+Scotland is done by car. I went in July and drove around it. The first thing to factor in is driving "the other way round": you keep left, the gearstick is on the other side, and at roundabouts you go clockwise. In the Highlands many roads also have a single lane, with passing places to let oncoming traffic through. You get used to it quickly, but take the first miles calmly.
 
-The loop starts in **Edinburgh**, goes through **Glasgow** and **Loch Lomond**, comes down to the sea at **Oban** and climbs through the mountains of **Glencoe** to **Fort William** and the **Glenfinnan** viaduct. Then the **Isle of Skye**, **Loch Ness** and **Inverness**, the distilleries of **Speyside** and the **Cairngorms**, before returning to Edinburgh. Rick did this whole loop: Glasgow only in passing, the Hebrides from Oban, the Glenfinnan viaduct for the Harry Potter train. For him Glencoe is beautiful, Loch Ness a bit meh. In Oban he ate very good fish at **Ee-Usk**, on the harbour.
+The loop starts in **Edinburgh**, goes through **Glasgow** and **Loch Lomond**, comes down to the sea at **Oban** and climbs through the mountains of **Glencoe** to **Fort William** and the **Glenfinnan** viaduct. Then the **Isle of Skye**, **Loch Ness** and **Inverness**, the distilleries of **Speyside** and the **Cairngorms**, before returning to Edinburgh. I did this whole loop: Glasgow only in passing, the Hebrides from Oban, the Glenfinnan viaduct for the Harry Potter train. For me Glencoe is beautiful, Loch Ness a bit meh. In Oban I ate very good fish at **Ee-Usk**, on the harbour.
 
 The weather is unpredictable: sun, rain and wind can all come in the same hour. Keep a waterproof jacket in the car even in August, and don't build your days around a single view.
 
-If you have a few more days, you can go up to the far north, on the **North Coast 500**, the road that loops around the northern tip of Scotland. Rick drove it, and it's breathtaking. It's explained further down, as a 4-5 day variant.
+If you have a few more days, you can go up to the far north, on the **North Coast 500**, the road that loops around the northern tip of Scotland. I drove it, and it's breathtaking. It's explained further down, as a 4-5 day variant.
 
-And one rule applies to the whole trip, distilleries included. In Scotland the drink-driving limit is lower than in England, but Rick's advice is even simpler: **zero tolerance**. Whoever drives doesn't drink, not even a taste.
+And one rule applies to the whole trip, distilleries included. In Scotland the drink-driving limit is lower than in England, but my advice is even simpler: **zero tolerance**. Whoever drives doesn't drink, not even a taste.
 
 ## Scheda pratica
-- **When to go:** The itinerary works from May to September, with the longest days, and for Rick autumn, with the foliage, is beautiful too; the weather stays unpredictable in every season
+- **When to go:** The itinerary works from May to September, with the longest days, and for me autumn, with the foliage, is beautiful too; the weather stays unpredictable in every season
 - **Documents:** Scotland is part of the United Kingdom, outside the European Union. Since April 2, 2025, Italian citizens need an **ETA**, to apply for on gov.uk or with the official UK ETA app: it costs £20 (2026) and is valid for 2 years, or until your passport expires. You need a **passport**: the ID card is accepted only in special cases.
 - **Car:** rent it in Edinburgh. The Italian driving licence is valid with no international permit. A car that isn't too big is better, for the single-track roads.
 - **Driving on the left:** on single-track roads you pull into the passing place on your left, or wait opposite the one on your right, and thank the other driver with a wave. You don't park in passing places. Sheep and deer cross suddenly.
-- **Drink-driving:** in Scotland the limit is 50 mg per 100 ml of blood (22 micrograms per 100 ml of breath), against 80 mg in England. Rick's advice is zero tolerance: whoever drives doesn't drink.
+- **Drink-driving:** in Scotland the limit is 50 mg per 100 ml of blood (22 micrograms per 100 ml of breath), against 80 mg in England. My advice is zero tolerance: whoever drives doesn't drink.
 - **Distances:** they look short on the map, but times get longer with narrow roads, stops and weather. Fill up whenever you can.
 - **Ferries:** they are run by CalMac, and with a car you book ahead.
 - **Distilleries:** tours are booked online, in summer even weeks ahead. Many don't admit children under 8.
@@ -51,7 +51,7 @@ The afternoon is for walking in the **New Town** and **Princes Street Gardens**,
 **In practice:** castle £23.50 online, £26 at the gate (2026), opens at 9:30 · Arthur's Seat about an hour and a half to two hours up and down, free · for the next day it's best to pick the car up at the airport or outside the centre, where the roads are quieter.
 
 ### Day 3 — Glasgow, Loch Lomond and the road to Oban
-You pick up the car and head west. **Glasgow** is about an hour away: one morning is enough for the medieval **cathedral** and the **Necropolis**, the hill of Victorian monuments next to it. The cathedral is one of the few Scottish medieval churches to survive the Reformation intact, and St Mungo's crypt is the oldest part. From the Necropolis, climbing among the obelisks, you see the whole city. It's best to park outside the centre. Rick, too, only passed through.
+You pick up the car and head west. **Glasgow** is about an hour away: one morning is enough for the medieval **cathedral** and the **Necropolis**, the hill of Victorian monuments next to it. The cathedral is one of the few Scottish medieval churches to survive the Reformation intact, and St Mungo's crypt is the oldest part. From the Necropolis, climbing among the obelisks, you see the whole city. It's best to park outside the centre. I only passed through too.
 
 Then you drive up along **Loch Lomond**, with a stop at **Luss**, on the shore. It's a village of stone cottages with a pier on the loch, handy for stretching your legs and getting something to eat. From there the road winds through the mountains and reaches the sea at **Oban** in the late afternoon. You leave the A82 at Crianlarich, take the A85, and along **Loch Awe** you see the ruins of **Kilchurn Castle** on the tip of the loch. *It's the first day of driving on the left: better not to cover too much ground and to stop often.*
 
@@ -60,14 +60,14 @@ Then you drive up along **Loch Lomond**, with a stop at **Luss**, on the shore. 
 ### Day 4 — Oban: the distillery, McCaig's Tower and dinner at Ee-Usk
 **Oban** is a small harbour town where the ferries to the islands leave from. In the centre is the **Oban distillery**, with the classic tour at £24 (2026), to book on malts.com. It's small, squeezed between the seafront road and the hill, and the tour is one of the most compact of the whole trip. Above the harbour stands **McCaig's Tower**, the stone colosseum with the view over the bay: you walk up from the centre in about ten minutes, on a short steep climb, and the light over the islands is best at sunset.
 
-Those who want an island take the CalMac ferry to **Mull** and spend the day in **Tobermory**, with its colourful houses on the harbour and another distillery. You land at Craignure, and from there Tobermory is about an hour on a single-track road. From Oban Rick went to the Hebrides. *With a car the ferry must be booked ahead; on foot there's almost always room.*
+Those who want an island take the CalMac ferry to **Mull** and spend the day in **Tobermory**, with its colourful houses on the harbour and another distillery. You land at Craignure, and from there Tobermory is about an hour on a single-track road. From Oban I went to the Hebrides. *With a car the ferry must be booked ahead; on foot there's almost always room.*
 
-In the evening you have dinner at **Ee-Usk**, on the North Pier: fish and seafood on the water, with the ferries passing in front. For Rick it's delicious. Book ahead.
+In the evening you have dinner at **Ee-Usk**, on the North Pier: fish and seafood on the water, with the ferries passing in front. For me it's delicious. Book ahead.
 
 **In practice:** Oban distillery £24 (2026), open every day, until 7pm from May to September · McCaig's Tower free · Oban-Craignure ferry about 45-50 minutes, timetable on calmac.co.uk · Ee-Usk to be booked, in summer even a few days ahead.
 
 ### Day 5 — Glencoe and Fort William
-You head back north and enter **Glencoe**: the narrow valley between the walls of the **Three Sisters** and, at its entrance, the pyramid of **Buachaille Etive Mòr**. From Oban it takes about an hour, over the Connel bridge and along the shore of Loch Linnhe; for the most striking first view you enter from the south instead, on the A82 coming down from Rannoch Moor. Photos are taken only from the car parks along the A82, never from the roadside. For Rick Glencoe is beautiful.
+You head back north and enter **Glencoe**: the narrow valley between the walls of the **Three Sisters** and, at its entrance, the pyramid of **Buachaille Etive Mòr**. From Oban it takes about an hour, over the Connel bridge and along the shore of Loch Linnhe; for the most striking first view you enter from the south instead, on the A82 coming down from Rannoch Moor. Photos are taken only from the car parks along the A82, never from the roadside. For me Glencoe is beautiful.
 
 In good weather there's a short walk in the valley. The loop around **Glencoe Lochan**, the little loch among the pines above the village, is easy and takes less than an hour; those with the legs and mountain boots can climb to the **Lost Valley**, the hidden valley behind the Three Sisters, on a rocky path of about three hours return. The National Trust for Scotland visitor centre, just before the village, has maps and the day's weather. In the evening you reach **Fort William**, at the foot of **Ben Nevis**, the highest mountain in the United Kingdom. *Climbing Ben Nevis is a full day's walk: it doesn't fit this itinerary.*
 
@@ -76,7 +76,7 @@ In good weather there's a short walk in the valley. The loop around **Glencoe Lo
 ### Day 6 — Glenfinnan and the road to Skye
 West of Fort William is **Glenfinnan**, with the arched railway viaduct from the Harry Potter films and the monument on Loch Shiel. In summer the **Jacobite**, the steam train from Fort William to Mallaig, crosses it: from the paths above the visitor centre you can watch it go over. The morning train crosses the viaduct at around 11; the expected times are posted at the visitor centre every day. The path to the viewpoint climbs in about ten minutes. *The car park fills up well before the train passes: arrive at least an hour early.*
 
-To ride it you book on the West Coast Railways website; seats are few. Rick came here precisely for the Harry Potter train. From Mallaig you can take the CalMac ferry to **Armadale**, on Skye, booking the car. Or you drive back and reach the island over the **Skye Bridge**, passing **Eilean Donan Castle**, on its islet linked to the shore by a stone bridge. Night in **Portree** or nearby.
+To ride it you book on the West Coast Railways website; seats are few. I came here precisely for the Harry Potter train. From Mallaig you can take the CalMac ferry to **Armadale**, on Skye, booking the car. Or you drive back and reach the island over the **Skye Bridge**, passing **Eilean Donan Castle**, on its islet linked to the shore by a stone bridge. Night in **Portree** or nearby.
 
 **In practice:** Fort William-Glenfinnan about half an hour, Glenfinnan-Mallaig about 45 minutes · paid parking at Glenfinnan, a few pounds · book the Jacobite as soon as sales open, usually early in the year; the season changes every year · Mallaig-Armadale ferry about 30 minutes · Eilean Donan paid, a little over £10.
 
@@ -97,7 +97,7 @@ The afternoon is in **Carbost**, on the shore of Loch Harport, for the **Taliske
 ### Day 9 — From Skye to Inverness along Loch Ness
 A day on the road. You leave the island by the bridge, pass **Eilean Donan** and reach **Loch Ness**. If you didn't stop at the castle on day 6, this is your chance, ideally in the morning before the coaches. From Eilean Donan the A87 crosses the mountains of Glen Shiel to Invergarry; then the A82 runs along the whole north shore of the loch, through **Fort Augustus**, where you can see the locks of the Caledonian Canal.
 
-On the shore stands **Urquhart Castle**, ruined on a headland: tickets are bought online, with a date and time slot, on the Historic Environment Scotland website. In the evening you reach **Inverness**, the capital of the Highlands, with the River Ness and a small centre, handy for dinner and a stroll. Rick did Inverness and Loch Ness. The loch, for him, is a bit meh: worth the stop along the way, not the trip on its own.
+On the shore stands **Urquhart Castle**, ruined on a headland: tickets are bought online, with a date and time slot, on the Historic Environment Scotland website. In the evening you reach **Inverness**, the capital of the Highlands, with the River Ness and a small centre, handy for dinner and a stroll. I did Inverness and Loch Ness. The loch, for me, is a bit meh: worth the stop along the way, not the trip on its own.
 
 Those who chose the North Coast 500 variant set off from here, or straight from Skye towards Applecross.
 
@@ -125,7 +125,7 @@ For the airport you take the tram or the Airlink 100 again, both leaving the cen
 **In practice:** tram to the airport about 30-35 minutes from the centre, every 7-10 minutes during the day · National Museum of Scotland free · whisky bottles in the hold, wrapped in clothes · check the airport's liquids rules before leaving.
 
 ## The distillery trail
-Rick did the distilleries, and they're a part of the trip not to skip. There are distilleries almost everywhere in Scotland, but the itinerary passes the most famous ones and a couple of lesser-known ones. Prices and hours are those on the official websites in November 2026.
+I did the distilleries, and they're a part of the trip not to skip. There are distilleries almost everywhere in Scotland, but the itinerary passes the most famous ones and a couple of lesser-known ones.
 
 **The famous ones**
 - **Oban** (Oban, day 4): 1-hour classic tour from £24. Open every day: April 10-18, May to September 10-19, October 10-18, November to March 10-17. The tour programme is under review: recheck it.
@@ -138,7 +138,7 @@ Rick did the distilleries, and they're a part of the trip not to skip. There are
 - **Glen Ord** (Muir of Ord, on the Black Isle): the distillery of The Singleton, northwest of Inverness. The North Coast 500 website names it as the ideal start or end of the route. Classic tour of 1 hour and a quarter from £24. May to August 10-18, September to April 10-17. Dates are bookable about 90 days ahead.
 
 **Whoever drives doesn't drink**
-In Scotland the drink-driving limit is lower than in England. Rick's advice is zero tolerance. Many distilleries give drivers the **driver's dram**, a sample in a small sealed bottle to take away. Not all of them offer it: ask when you book. If everyone wants to taste, you can take an organised tour or a taxi for Speyside.
+In Scotland the drink-driving limit is lower than in England. My advice is zero tolerance. Many distilleries give drivers the **driver's dram**, a sample in a small sealed bottle to take away. Not all of them offer it: ask when you book. If everyone wants to taste, you can take an organised tour or a taxi for Speyside.
 
 **Common rules:** book online, ahead in summer; groups are at most 16 people; children under 8 usually can't join the tours. In winter distilleries may close at the last minute because of the weather.
 
@@ -150,7 +150,7 @@ On the south coast of the island there are three distilleries close to one anoth
 - **Laphroaig:** March to October every day 9:45-17 (2026). Tours and prices on the official website.
 
 ## North Coast 500 variant: the far north
-The **North Coast 500** is a 516-mile loop, about 830 km, that starts and ends in Inverness and goes around the northern tip of Scotland. Driven in one go it would take 11-13 hours, but most people who do it take 5-7 days. Rick drove it: for him it's a breathtaking road.
+The **North Coast 500** is a 516-mile loop, about 830 km, that starts and ends in Inverness and goes around the northern tip of Scotland. Driven in one go it would take 11-13 hours, but most people who do it take 5-7 days. I drove it: for me it's a breathtaking road.
 
 With 4-5 extra days you enter from the west side, leaving Skye after day 8, and come out at Inverness, where you pick up the itinerary again from Speyside. The stages below are a suggestion:
 - **Day A:** from Skye to **Applecross** over the **Bealach na Bà**, the pass with tight hairpins and a view of Skye, then the mountains of **Torridon**.
@@ -162,13 +162,13 @@ With 4-5 extra days you enter from the west side, leaving Skye after day 8, and 
 Most of the road is single-track. The Bealach na Bà is not suitable for large motorhomes and should be avoided in fog or ice. Petrol stations and shops are rare: fill up whenever you can. With a motorhome you only sleep at campsites and in permitted areas.
 
 ## The weather
-The weather in Scotland is unpredictable, and Rick remembers it well. In summer highs are usually between 12 and 19 degrees, in winter between 2 and 6. The west coast and the islands are the windiest and wettest areas. In practice:
+The weather in Scotland is unpredictable, and I remember it well. In summer highs are usually between 12 and 19 degrees, in winter between 2 and 6. The west coast and the islands are the windiest and wettest areas. In practice:
 - waterproof jacket and layers always in the car, even in August;
 - put the most famous views (Storr, Quiraing, Glencoe) on days with some margin, so you can move them;
 - summer days are long, and the best weather often comes in the evening;
 - in summer, when there's no wind, the midges come out: repellent.
 
-Rick went in July, but he recommends autumn too: with the foliage Scotland is beautiful.
+I went in July, but I recommend autumn too: with the foliage Scotland is beautiful.
 
 ## What to see / what to do
 - **Edinburgh:** the castle, the Royal Mile, Calton Hill, Arthur's Seat.
@@ -180,7 +180,7 @@ Rick went in July, but he recommends autumn too: with the foliage Scotland is be
 - **North Coast 500:** the Bealach na Bà, Torridon, Assynt, Kylesku, Smoo Cave, Duncansby.
 
 ## Practical tips / mistakes not to repeat
-- **Zero tolerance at the wheel.** The Scottish limit is lower than the English one, and Rick's advice is not to drink at all. Taste the driver's dram in the evening, at the hotel.
+- **Zero tolerance at the wheel.** The Scottish limit is lower than the English one, and my advice is not to drink at all. Taste the driver's dram in the evening, at the hotel.
 - **Take the first miles on the left calmly.** It's better to pick up the car outside central Edinburgh, where the roads are quieter. *My memory: driving on the left is fine for me, but it takes some practice, let's say. And in the countryside the roads can get narrow now and then.*
 - **Passing places are only for letting cars through.** Don't park there for photos.
 - **Book accommodation and distillery tours in advance.** In summer Skye and Speyside fill up.
@@ -190,9 +190,9 @@ Rick went in July, but he recommends autumn too: with the foliage Scotland is be
 - **Don't build a day around a single view.** In fog you can't see the Quiraing: you need a plan B.
 
 ## Chiusura personale
-Twelve days are enough for Edinburgh, the Highlands, Skye and Speyside, driving calmly. With four or five more days there's the North Coast 500: Rick drove it, and it's breathtaking. He went in July, but autumn, with the foliage, is beautiful too.
+I drove around Scotland in July. Driving on the left is fine for me, but it takes some practice, let's say, and in the countryside the roads can get narrow now and then. Glencoe is beautiful, Loch Ness a bit meh; in Oban I ate very good fish at Ee-Usk, and I went to Glenfinnan specifically for the Harry Potter train.
 
-*The itinerary follows Rick's trip, done by car in July: Edinburgh, Glasgow in passing, Loch Lomond and Glencoe, Oban and the Hebrides, Glenfinnan, Skye, Inverness and Loch Ness, the distilleries, the Cairngorms and the North Coast 500, with driving on the left, the fish at Ee-Usk and the unpredictable weather. The accommodation, the Islay variant and the order of the North Coast 500 stages are suggestions built on research. The practical information comes from official sources: gov.uk (ETA, entry, driving licence, alcohol limits), VisitScotland (driving, single-track roads, North Coast 500, weather), the North Coast 500 website, the City of Edinburgh Council (visitor levy), Edinburgh Castle, West Coast Railways (Jacobite), CalMac (ferries to Islay), the distillery websites on malts.com and laphroaig.com, Spirit of Speyside (driver's dram) and Ee-Usk, checked in November 2026. Driving times are approximate. Hours, prices and rules change: recheck them before you go.*
+If you have four or five extra days, do the North Coast 500: it's breathtaking. And zero tolerance at the wheel: whoever drives doesn't drink. I went in July, but autumn, with the foliage, is beautiful too.
 
 ## Tag
 `#scozia` `#edimburgo` `#highlands` `#skye` `#oban` `#lochness` `#speyside` `#distillerie` `#whisky` `#glencoe` `#glenfinnan` `#northcoast500` `#roadtrip` `#guidaasinistra` `#regnounito`

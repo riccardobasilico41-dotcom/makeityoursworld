@@ -132,7 +132,7 @@ Around noon return skis and boots, collect any deposit on the pass card and get 
 - **My ski day**, the one I always recommend: go up as soon as the lifts open, to try to be among the first, grab a quick snack mid-morning and then keep going until two, two-thirty. At that point you unplug at the mountain hut and call it a day. That way you have lunch when there are fewer people around, and in the afternoon, when the slopes are more "chewed up," you're already done.
 
 ## Chiusura personale
-What you understand after a few ski weeks is that the pleasure isn't in the kilometers. You can spend a day grinding out runs and come home in the evening remembering nothing, or do half those kilometers, stop at eleven in a hut at twenty-four hundred meters, order something hot and sit for twenty minutes in the sun with a pink rock wall in front of you. In France they do the first better; the second, here, nobody does better than we do. And then there's that morning (it happens once a week, if you're lucky) when you take the first chairlift with the slope freshly groomed, there's still nobody around, and you ski down something smooth and perfect that in an hour won't exist anymore. For that half hour, in the end, you pay for everything else.
+I've been doing ski weeks since I was little, both weekends and longer stays. That's why I've put the criteria here more than the places: altitude before fame, and the week chosen by looking at the calendar, not out of habit.
 
 ## Tag
 `#sci` `#settimanabianca` `#dolomiti` `#sellaronda` `#scialpinismo` `#italia` `#montagna` `#inverno`

@@ -265,9 +265,7 @@ A last granita with brioche, last purchases (**Bronte pistachio**, Modica chocol
 - **Beware of the ZTL** in historic centers and of unauthorized parking attendants in the big cities.
 
 ## Chiusura personale
-What stays with you from all of Sicily, done in full and in the right order, is not a single place: it's the feeling of having crossed several countries without ever taking a plane. In Palermo you enter a chapel where a Norman king put Byzantine mosaicists to work under a ceiling built by Arab craftsmen, and had inscriptions written in three alphabets on the tombstones of his palace. Four days later you're on a little island in a lagoon where the Phoenicians were trading three centuries before the Greeks arrived. Two days after that you walk among the drums of a column left half finished in 409 BC because that day the Carthaginians arrived. Then there's the imperial Rome of the Piazza Armerina mosaics, the Spanish Baroque of Noto, and at the end an active volcano on which people plant vines because the soil is the best there is.
-
-It isn't layering: it's **accumulation without erasure**. Sicily has never thrown away anything that passed over it, and seventeen days serve exactly for this: to understand that the island is not an Italian region with ruins inside it, but the place where the Mediterranean deposited everything it had, one layer at a time, without ever cleaning up.
+You can do the whole of Sicily, but only if you give it the time it asks for: a loop from Palermo to Catania, with map times stretched by a third and without skipping the interior, which is where the island is most itself. And not in July or August.
 
 ## Tag
 `#sicilia` `#italia` `#palermo` `#arabonormanno` `#magnagrecia` `#valdinoto` `#etna` `#selinunte` `#archeologia`

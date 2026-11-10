@@ -157,7 +157,7 @@ In Orlando I stayed in a private rental villa Airbnb/VRBO style, the most common
 - All rooms have double beds to share: to keep in mind when forming the rooms.
 
 ## Chiusura personale
-Ten days and 1,800 km are a lot for a single trip, and honestly a slower pace would have rewarded the Keys more, which alone would deserve a few more days. Between Universal and Disney I chose Universal, and I have no regrets: the Harry Potter attractions are worth the day on their own. The strongest memory, though, is the Kennedy Space Center: seeing up close the history of the American space missions, with authentic suits and moon rocks a few inches away, was a bigger surprise than I expected from a stop I considered secondary.
+Ten days almost always behind the wheel, nearly 1,800 km between the Everglades, the Keys, Orlando and Cape Canaveral. The moment I remember most clearly is still my first look at the Seven Mile Bridge: sea on one side and on the other, and the road that seems to float in between.
 
 ## Tag
 `#florida` `#usa` `#roadtrip` `#keywest` `#everglades` `#orlando` `#capecanaveral` `#miami` `#nordamerica`

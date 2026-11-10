@@ -96,7 +96,7 @@ Il **Mercato Centrale** per i primi assaggi a prezzi onesti, lángos e prodotti 
 - **Convalidare sempre il biglietto dei mezzi pubblici**: i controlli sono frequenti.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto tra le due sponde del Danubio: la collina di Buda con le sue torrette bianche e i vicoli medievali, e la Pest ottocentesca dei grandi viali che di notte, dal quartiere ebraico, non dorme mai. In mezzo, l'acqua calda delle terme che sale come vapore anche nei mesi più freddi: la ragione, più di ogni monumento, per cui vale la pena tornarci.
+Di Budapest il consiglio che mi sento di dare è uno: alle terme dedicate almeno mezza giornata, non un'ora tra due tappe. E nel quartiere ebraico non seguite chi vi avvicina per strada proponendo un bar.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi e orari delle terme, del tour del Parlamento e dei trasporti cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

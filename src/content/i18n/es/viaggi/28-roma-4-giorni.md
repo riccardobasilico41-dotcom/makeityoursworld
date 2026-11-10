@@ -155,9 +155,9 @@ Dos días en Roma funcionan solo si se acepta una regla: **se renuncia al Vatica
 - **Atención al carterismo** en el metro A, el autobús 64 y las zonas monumentales.
 
 ## Chiusura personale
-Lo que queda de Roma no es el Coliseo, que uno conoce ya antes de verlo. Es el momento en que se baja bajo San Clemente: se entra en una iglesia medieval como tantas, se paga poco, se coge una escalera lateral y se llega a una basílica del siglo IV con los frescos todavía en los muros. Luego se baja otra vez, y uno está en un edificio del siglo I con un templo de Mitra intacto, y mientras se mira se oye correr el agua: es un conducto romano que todavía funciona, bajo la ciudad, dos mil años después. Arriba, en la calle, pasan las motos.
+En Roma, el momento que recuerdo es San Clemente: bajamos tres niveles y mil años, y al fondo oímos correr el agua de un conducto romano.
 
-Roma no conserva el pasado: vive encima, sin especial reverencia, y sigue usándolo. Es algo que no se entiende leyéndolo y que se vuelve obvio cuando uno está a doce metros bajo el nivel de la calle y oye el agua.
+Para comer, a mí me gusta La Gattabuia, en Trastevere, que es una antigua cárcel. Pero en general basta con alejarse un poco del centro: los sitios con menú en inglés o con alguien captando clientes en la puerta suelen ser meh.
 
 ## Tag
 `#roma` `#italia` `#colosseo` `#vaticano` `#caravaggio` `#galleriaborghese` `#appiaantica` `#cittadarte`

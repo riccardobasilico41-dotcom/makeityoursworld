@@ -179,7 +179,7 @@ El traslado a Tawau se calcula con margen: la carretera desde Semporna cruza pue
 - **Consultar las recomendaciones de viaje** para la costa oriental de Sabah antes de reservar Semporna.
 
 ## Chiusura personale
-Borneo deja dos imágenes que están una al lado de la otra y no se concilian. La primera es el amanecer sobre la plataforma de granito del Kinabalu, con las nubes bajo los pies y la isla entera que se descubre mientras el cielo cambia de color. La segunda es la barca que gira hacia un afluente del Kinabatangan: delante hay monos narigudos, cálaos y un orangután en una rama, y detrás de esa franja de verde, a trescientos metros, empiezan las hileras ordenadas de las palmas aceiteras y continúan hasta el horizonte. Los animales se ven tan bien precisamente porque no tienen otro sitio adonde ir. Es la razón por la que este viaje vale la pena hacerlo ahora, y también la razón por la que, al volver, se queda dentro algo que no es solo entusiasmo.
+Borneo hay que tomarlo como un viaje en sí mismo, no como un añadido a Malasia: el Kinabalu, el Kinabatangan y el mar de Semporna piden cada uno sus días.
 
 ## Tag
 `#borneo` `#malesia` `#sabah` `#kinabalu` `#oranghi` `#sepilok` `#kinabatangan` `#sipadan` `#diving` `#faunaselvatica` `#asia`

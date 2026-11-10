@@ -96,7 +96,7 @@ Tarte flambée and choucroute in Alsace, jambon de Reims and pink biscuits in Ch
 - **Book the big houses** in Champagne in advance.
 
 ## Chiusura personale
-The difference between Alsace and Champagne is all in the welcome: in Alsace you walk in and chat, in Champagne you go down into a Roman gallery and watch a technical process. They are two opposite ways of telling the story of French wine, and put in sequence they complete each other.
+For a first time on the French wine routes, these are the right two for me: Alsace, the most beautiful and the most accessible, and Champagne, the easiest to reach from Paris. I'm keeping Burgundy for a later trip.
 
 ## Tag
 `#vino` `#francia` `#alsazia` `#champagne` `#routedesvins`

@@ -99,7 +99,7 @@ El **döner kebab** y la **currywurst** como comida callejera de referencia, que
 - **Validar siempre el billete de la BVG** antes de subir, donde no hay torniquetes.
 
 ## Chiusura personale
-Lo que me queda es la manera en que esta ciudad junta cosas que en otros sitios siguen separadas: un memorial silencioso a dos pasos de un mercado turco lleno de vida, un tramo de Muro convertido en galería de arte al aire libre a pocas paradas de metro de un centro de documentación sobre la Gestapo. Berlín no pide elegir entre la historia y el presente: los pone en el mismo mapa, y es la razón por la que cuatro días, aquí, no sobran.
+Cuatro días en Berlín: la Puerta de Brandeburgo y el Reichstag, un día entero en el Muro, de Bernauer Straße a Checkpoint Charlie, Alexanderplatz y el antiguo Berlín Este, y el último día al este, entre la East Side Gallery y los barrios que nacieron tras la caída del Muro.
 
 ## Tag
 `#berlino` `#germania` `#murodiberlino` `#museumsinsel` `#kreuzberg` `#memoria` `#cittadarte`

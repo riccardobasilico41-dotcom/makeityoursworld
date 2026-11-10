@@ -235,11 +235,7 @@ Volo da Cagliari. L'aeroporto di Elmas è a una decina di chilometri dal centro 
 - **Mettere in conto le distanze:** l'isola è grande, e le statali interne sono lente.
 
 ## Chiusura personale
-La cosa che resta della Sardegna è il contrasto tra due cose viste nella stessa settimana. La prima è Porto Cervo: una piazzetta perfetta, progettata negli anni Sessanta da architetti bravissimi, in cui ogni dettaglio (l'intonaco, il colore delle imposte, la curva del tetto) è stato deciso a tavolino per evocare un villaggio mediterraneo che in quel punto non è mai esistito. Funziona benissimo, ed è finto in modo completamente onesto.
-
-La seconda è un nuraghe qualsiasi, di quelli che si incontrano in mezzo a un campo lungo una statale dell'interno, senza cartello e senza biglietteria: un cono di massi impilati a secco, senza malta, in piedi da tremilacinquecento anni, costruito da una civiltà che ne ha lasciati settemila su un'isola e di cui non sappiamo la lingua, il nome che si dava, né con certezza a cosa servissero quelle torri.
-
-Tra queste due cose ci sono sessanta chilometri di strada e tremilacinquecento anni, e stanno sulla stessa isola. Chi va in Sardegna e vede solo la prima non ha sbagliato vacanza: ha solo guardato il due per cento.
+Il nostro giro è stato questo: prima la Gallura, con la Maddalena vista dalla barca e Capo Testa; poi il Golfo di Orosei, a piedi dal Golgo e in barca lungo le cale; poi l'interno, l'archeologia, le dune di Piscinas e, per finire, il traghetto per Carloforte.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Gli elenchi delle spiagge a numero chiuso, i tetti giornalieri, i contributi di accesso e le modalità di prenotazione cambiano ogni stagione** e vanno verificati sui canali ufficiali: riguardano in particolare Cala Goloritzé, Cala Coticcio, le cale del Golfo di Orosei, La Pelosa e Tuerredda. **La percorribilità di Su Gorropu dipende dal livello dell'acqua.**

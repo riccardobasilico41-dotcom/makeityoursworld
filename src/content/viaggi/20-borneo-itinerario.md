@@ -179,7 +179,7 @@ Il trasferimento verso Tawau va calcolato con margine: la strada da Semporna att
 - **Controllare gli avvisi di viaggio** per la costa orientale del Sabah prima di prenotare Semporna.
 
 ## Chiusura personale
-Il Borneo lascia due immagini che stanno una accanto all'altra e non si conciliano. La prima è l'alba sulla piattaforma di granito del Kinabalu, con le nuvole sotto i piedi e l'isola intera che si scopre mentre il cielo cambia colore. La seconda è la barca che svolta in un affluente del Kinabatangan: davanti ci sono nasiche, buceri e un orango su un ramo, e dietro quella striscia di verde, a trecento metri, cominciano le file ordinate delle palme da olio e continuano fino all'orizzonte. Gli animali si vedono così bene proprio perché non hanno altro dove andare. È la ragione per cui questo viaggio vale la pena di farlo adesso, e anche la ragione per cui, tornando, resta addosso qualcosa che non è solo entusiasmo.
+Il Borneo va preso come un viaggio a sé, non come un'aggiunta alla Malesia: il Kinabalu, il Kinabatangan e il mare di Semporna chiedono ognuno i loro giorni.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. Le quote dei permessi — Kinabalu e Sipadan — e le regole di assegnazione cambiano: vanno riverificate sui canali ufficiali e con gli operatori prima di prenotare.

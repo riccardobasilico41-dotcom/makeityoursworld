@@ -197,7 +197,9 @@ Pompeii is reached on the **Circumvesuviana** from Naples, Pompei Scavi stop, in
 - **Check the closing days**, different for every museum: they are the most frequent planning mistake.
 
 ## Chiusura personale
-What stays with me, after twelve days in four cities I thought I knew, is that the value is almost always where there's no line. Four hundred meters from the Colosseum you descend into a fourth-century basilica and then into a first-century temple of Mithras, and there are six people. A hundred meters from Piazzale Michelangelo there's a church from the year 1000 where in the afternoon the monks sing in Gregorian chant, and there's nobody. Forty minutes by vaporetto from St. Mark's there's the basilica where Venice began, with a mosaic Last Judgment as big as a wall, and there are twenty people. It's not a search for the exclusive: it's that this country has an amount of stuff so out of proportion to the tourist flows that you only need to move three hundred meters, or an hour, to find yourself almost alone in front of something that elsewhere would be the national monument.
+In Rome I like Gattabuia, in Trastevere, which is a former jail. Places with an English menu or someone touting at the door are usually meh: better to move a little out of the center. In Florence, Brunelleschi's dome is narrow, but worth it, and the bistecca is incredible; lampredotto, on the other hand, doesn't do much for me.
+
+Venice is beautiful all over, wow. And between Pompeii and Herculaneum, Pompeii is more beautiful, but Herculaneum has fewer people: your call.
 
 ## Tag
 `#italia` `#roma` `#firenze` `#venezia` `#napoli` `#cittadarte` `#pompei` `#altavelocita` `#europa`

@@ -152,11 +152,12 @@ Chi ha un pomeriggio libero può fermarsi a **Jimbaran**, sulla strada per l'aer
 - **Saltare il sud generico di Bali**: Uluwatu ha la stessa costa con più carattere.
 
 ## Chiusura personale
-Questo giro mette insieme l'Indonesia più famosa e un pezzo di quella più selvaggia, con spostamenti brevi. Bali piace di più vista da Ubud e da Uluwatu. Le Nusa vanno prese con calma e con la sveglia presto. Komodo resta il posto dove un animale fermo all'ombra riesce a impressionare più di qualsiasi panorama. Se hai qualche giorno in più, allungalo: ognuna di queste isole merita almeno una settimana.
+Di Bali mi è rimasta impressa la danza Kecak a Uluwatu al tramonto, più di qualsiasi risaia o spiaggia. Su Nusa Penida ho fatto tre notti, girata con calma, e la consiglio così. A Komodo ho dormito in barca con Kanha Loka per essere a Padar all'alba; i draghi stanno quasi sempre fermi, ma impressionano le dimensioni, e il ranger con in mano solo un bastone biforcuto.
 
 Quello che mi ha fatto tornare in Indonesia, però, è la gente: i posti e i sorrisi.
 
-*Da Rick vengono il giudizio su Bali e sulla danza Kecak, il consiglio sulla prima barca per Nusa Penida, le tre notti su Penida girata con calma, i ricordi dei draghi, di Rinca e di Padar all'alba, e i contatti consigliati (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). Il resto viene dalle schede destinazione del sito e dalla ricerca del 5 novembre 2026: il sito Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo in vigore dal 30 ottobre 2024, operatori e guide di settore per le barche da Sanur, l'elenco delle rotte dell'aeroporto di Labuan Bajo e i consigli di gov.uk sulla sicurezza in barca. Orari e prezzi delle barche e la tassa locale delle Nusa vanno ricontrollati prima di partire.*
+## Nota su questa bozza
+**Provenienza e fonti (spostato dalla chiusura, 10/11/2026):** Da Rick vengono il giudizio su Bali e sulla danza Kecak, il consiglio sulla prima barca per Nusa Penida, le tre notti su Penida girata con calma, i ricordi dei draghi, di Rinca e di Padar all'alba, e i contatti consigliati (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). Il resto viene dalle schede destinazione del sito e dalla ricerca del 5 novembre 2026: il sito Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo in vigore dal 30 ottobre 2024, operatori e guide di settore per le barche da Sanur, l'elenco delle rotte dell'aeroporto di Labuan Bajo e i consigli di gov.uk sulla sicurezza in barca. Da ricontrollare: orari e prezzi delle barche e la tassa locale delle Nusa.
 
 ## Tag
 `#indonesia` `#bali` `#nusapenida` `#nusalembongan` `#komodo` `#labuanbajo` `#padar` `#ubud` `#uluwatu` `#snorkeling` `#duesettimane` `#asia`

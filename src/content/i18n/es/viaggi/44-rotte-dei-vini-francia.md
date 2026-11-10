@@ -96,7 +96,7 @@ Tarte flambée y choucroute en Alsacia, jambon de Reims y biscuits rosas en Cham
 - **Reservar con antelación las grandes maisons** en Champaña.
 
 ## Chiusura personale
-La diferencia entre Alsacia y Champaña está toda en la acogida: en Alsacia se entra y se charla, en Champaña se baja a una galería romana y se asiste a un proceso técnico. Son dos maneras opuestas de contar el vino francés y, puestas una detrás de otra, se completan.
+Para una primera vez por las rutas del vino francesas, para mí estas son las dos adecuadas: Alsacia, la más bonita y la más accesible, y la Champaña, la más fácil de alcanzar desde París. Borgoña la dejo para un viaje posterior.
 
 ## Tag
 `#vino` `#francia` `#alsazia` `#champagne` `#routedesvins`

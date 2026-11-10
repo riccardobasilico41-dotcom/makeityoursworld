@@ -204,7 +204,9 @@ Among the most cited aspects are the good location and the friendly staff; sever
 - A shared playlist on Spotify for the many long transfers: a simple way to make them part of the trip instead of dead time.
 
 ## Chiusura personale
-Between the Caribbean of Puerto Viejo and the Pacific of Uvita there's no real winner: the first for the jungle, the howler monkeys and the two Temazcal experienced as true spiritual ceremonies; the second for the slower pace, the beaches and, with a bit of luck in the wrong season, even a few whale sightings. Thirteen days this dense paid off, but if I were to do it again I'd slow down on Monteverde and Manuel Antonio, the two stops where I'd have liked more time to enjoy nature instead of rushing toward the next transfer.
+Overall Costa Rica is beautiful: incredible nature, surf, animals everywhere. At Cahuita we saw a nurse shark, rays, sloths and every kind of little monkey, and Tortuguero looks a lot like the Amazon. Canyoning in the Lost Canyon is the activity I recommend most, the giant zip line in Monteverde is awesome, and I even fell off the horse in Uvita, but it was still beautiful. I did Corcovado and it's amazing.
+
+The only thing: activities are really expensive and you almost always pay in dollars. And at the end, instead of heading back to San José, we went to the border, crossed the bridge and the Panama adventure began.
 
 ## Continuing to Panama
 An option, instead of ending the trip in San José: from the Cahuita area you carry on to Panama. We went to the border, crossed the bridge, and the Panama adventure began. If you want to combine the two countries, this is how you get there from Costa Rica.

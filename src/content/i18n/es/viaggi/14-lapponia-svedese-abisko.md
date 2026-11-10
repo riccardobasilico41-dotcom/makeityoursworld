@@ -111,7 +111,9 @@ Para las comidas el presupuesto indicativo era de 10-15 € al día para los des
 - Vestirse con capas gruesas es obvio, pero merece la pena repetirlo: las temperaturas se mantienen muy por debajo de cero toda la semana.
 
 ## Chiusura personale
-Recomendaría la versión de Nochevieja solo a quien busque precisamente eso (el encanto de despedir el año nuevo en la oscuridad y el hielo absolutos), porque en cuanto al bolsillo la versión low-cost de febrero-marzo sigue siendo la opción más sensata, con más probabilidades de aurora y menos gasto. De las dos noches, la que me llevo como recuerdo más bonito es la primera en el STF Abisko Turiststation: más sencilla que el Elite Hotel Frost, pero a pocos pasos de la Aurora Sky Station, donde vi la aurora moverse en el cielo por primera vez.
+Quería una Nochevieja distinta a todas las demás, y la tuve: en el pub de Kiruna, con el frío haciéndose notar desde el primer momento, y luego días de hasta -25/-26 °C. Es un frío seco: si te abrigas bien no se te mete en los huesos, pero la nariz es otra historia.
+
+La primera noche en la Aurora Sky Station fue wow, difícil de explicar con palabras. La Nochevieja se paga cara: yo la hice porque quería justo eso, pero si el objetivo es solo la aurora, conviene saberlo antes.
 
 ## Tag
 `#svezia` `#lapponia` `#abisko` `#kiruna` `#aurora-boreale` `#inverno-estremo`

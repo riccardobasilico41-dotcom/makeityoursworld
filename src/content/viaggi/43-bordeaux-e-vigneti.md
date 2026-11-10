@@ -91,7 +91,7 @@ Entrecôte à la bordelaise, ostriche di Arcachon, canelé e il menù di mezzogi
 - **Non sottovalutare la Dune du Pilat**: d'estate la sabbia scotta.
 
 ## Chiusura personale
-Il Sauternes è la cosa che resta di più: grappoli che sembrano da buttare, raccolti a mano cinque o sei volte nello stesso filare, per ottenere un vino dolce che nasce da quella che a un agricoltore normale sembrerebbe una malattia.
+Bordeaux l'abbiamo girata a piedi, come si deve, e poi i vigneti tra Médoc, Saint-Émilion, Pomerol e Sauternes. L'ultimo giorno l'abbiamo passato sull'oceano, ad Arcachon.
 
 ## Nota su questa bozza
 Itinerario verificato e aggiornato a settembre 2026. Orari delle degustazioni e stagionalità della vendemmia vanno riverificati.

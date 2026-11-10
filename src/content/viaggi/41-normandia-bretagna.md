@@ -127,7 +127,7 @@ Camembert e sidro in Normandia, calvados a metà pasto, galettes salate e crêpe
 - **Portare sempre l'antipioggia.**
 
 ## Chiusura personale
-La cosa che resta è il contrasto tra Omaha Beach, che è una spiaggia normalissima e proprio per questo difficile da reggere, e il GR34 in Bretagna, che non finisce mai e restituisce un altro genere di intensità: quella del paesaggio che cambia ogni due ore di cammino.
+Normandia e Bretagna sono due viaggi diversi messi in fila: prima quello denso, la storia e le spiagge dello sbarco, poi quello lento, la costa e il cammino, con il Mont-Saint-Michel in mezzo. Due cose da non dimenticare: le distanze bretoni sono più lunghe di quanto sembrano, e l'antipioggia va portata sempre.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche verificati e aggiornati a settembre 2026. Il calendario delle grandi maree, lo stato del cantiere dell'Arazzo di Bayeux e gli orari dei traghetti per le isole vanno riverificati.

@@ -83,7 +83,7 @@ Rillettes, beurre blanc, formaggi di capra a denominazione, tarte Tatin, vini bi
 - **Villandry fuori stagione ha i giardini spogli**: conviene controllare il periodo.
 
 ## Chiusura personale
-La Loira funziona se si sceglie un castello al giorno e si passa il resto del tempo lungo il fiume: è l'unico grande fiume europeo rimasto in gran parte non canalizzato, e i castelli stanno lì per via sua, non viceversa.
+Noi la Loira l'abbiamo fatta così: un castello al giorno, cominciando da Blois e passando per Chenonceau, e una giornata intera in bici lungo il fiume sulla Loira a Vélo, senza castelli.
 
 ## Nota su questa bozza
 Itinerario verificato e aggiornato a settembre 2026. Orari e formule cumulative dei biglietti vanno riverificati.

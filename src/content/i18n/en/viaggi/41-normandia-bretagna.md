@@ -127,7 +127,7 @@ Camembert and cider in Normandy, calvados in the middle of the meal, savory gale
 - **Always bring the rain gear.**
 
 ## Chiusura personale
-What stays with you is the contrast between Omaha Beach, which is a perfectly ordinary beach and for that very reason hard to bear, and the GR34 in Brittany, which never ends and gives back another kind of intensity: that of a landscape that changes every two hours of walking.
+Normandy and Brittany are two different trips put one after the other: first the dense one, the history and the landing beaches, then the slow one, the coast and the walking, with Mont-Saint-Michel in between. Two things not to forget: distances in Brittany are longer than they look, and you always need a rain jacket.
 
 ## Tag
 `#normandia` `#bretagna` `#francia` `#montsaintmichel` `#sbarco` `#gr34` `#carnac`

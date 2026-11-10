@@ -186,7 +186,7 @@ Por persona, en habitación doble compartida, en junio o septiembre; en julio-ag
 - **Partidas individuales:** Plitvice 40 € de junio a septiembre (23 € en primavera y octubre); Krka 40 € de junio a septiembre (20 € en primavera y octubre); murallas de Dubrovnik unos 40 €; subterráneos del palacio de Diocleciano unos 10 €; Lokrum con barco 30 €; catamarán Split-Hvar 10-25 €, Hvar-Korčula 20-30 €, Korčula-Dubrovnik 25-35 €; coche de alquiler 40-90 € al día en verano más el suplemento por dejarlo en otro lugar; peaje Zagreb-Split 25-30 €.
 
 ## Chiusura personale
-Croacia, vista en dos semanas, es un país de pasos: de los lagos del interior a las ciudades romanas y venecianas, de la costa a las islas, de la Dalmacia central a las murallas de Dubrovnik. Este itinerario aguanta porque usa el coche donde hace falta y lo deja donde se vuelve un peso, y porque evita los meses en que Plitvice, Hvar y Dubrovnik están al límite. Es adecuado para quien sale de Italia y quiere un viaje cercano, sencillo de organizar, con días de mar de verdad y algo que ver cada día.
+Croacia funciona mejor saliendo de la postal del mar: los lagos de Plitvice, las ciudades romanas y venecianas, luego las islas en catamarán hasta las murallas de Dubrovnik. Desde Italia es un viaje cómodo, pero en temporada alta se llena hasta el límite: mejor finales de mayo, junio o septiembre.
 
 ## Tag
 `#croazia` `#zagabria` `#plitvice` `#zara` `#krka` `#spalato` `#hvar` `#curzola` `#dubrovnik` `#isole` `#mare` `#europa`

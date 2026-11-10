@@ -209,7 +209,7 @@ Per person, sharing a double room, intercontinental flights excluded. On festiva
 - **Individual items:** Teotihuacán and the Anthropology Museum about 210 MXN each for foreigners; Mexico City-Puebla bus 200-300 MXN; Puebla-Oaxaca 450-800 MXN; Oaxaca-Puerto Escondido 300-500 MXN by bus or van; evening cemetery tour 600-1,200 MXN; mezcal road tour 600-900 MXN; Puerto Escondido-Mexico City flight roughly 1,200-3,000 MXN booked in advance.
 
 ## Chiusura personale
-Día de los Muertos surprises anyone who arrives expecting a macabre festival: in the cemeteries you hear talking, laughing, music, and children run among the graves. This itinerary is built so that the three nights of the festival all fall in Oaxaca, where the observance is most deeply rooted and most varied, and so that beforehand there's time to understand the country in Mexico City and Puebla and afterward time to rest by the ocean. It works for people who accept sleeping little three nights in a row, booking months ahead and entering the cemeteries as a guest.
+The real advice is this: book Oaxaca first, as soon as your dates are set, because it's the bottleneck of the trip. And you enter the cemeteries as a guest: ask before taking photos, no flash in people's faces, don't sit on the graves.
 
 ## Tag
 `#messico` `#diadelosmuertos` `#cittadelmessico` `#puebla` `#cholula` `#oaxaca` `#mezcal` `#puertoescondido` `#festival` `#cultura` `#nordamerica`

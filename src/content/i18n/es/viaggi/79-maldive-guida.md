@@ -242,7 +242,7 @@ Precios por persona en habitación doble, vuelos intercontinentales excluidos (I
 - **Reservar con antelación** para Navidad, Año Nuevo y Semana Santa, y para Hanifaru entre agosto y octubre.
 
 ## Chiusura personale
-Las Maldivas pueden ser un viaje de lujo o uno de los viajes de mar más accesibles de Asia: depende de dónde se duerma. Quien elige una isla local, acepta sus reglas y pasa los días en el agua con tiburones ballena, mantas y tortugas ve un país distinto al de las postales, y cuando llega a un resort sabe apreciarlo más. La parte que no cambia es el mar: se vuelve a casa con ganas de ver otro atolón, en otra estación.
+A las Maldivas se viene por el mar. Yo recorrí el arrecife de la casa temprano por la mañana y otra vez a última hora de la tarde, cuando las tortugas suben a respirar, y las horas centrales las pasé a la sombra. El viaje lo monté así, primero una isla local y luego algunas noches en un resort: es lo que recomiendo a quien quiere más el mar que el lujo.
 
 ## Tag
 `#maldive` `#oceanoindiano` `#isolelocali` `#resort` `#snorkeling` `#immersioni` `#squalobalena` `#mante` `#hanifaru` `#ari` `#rasdhoo` `#fuvahmulah` `#liveaboard` `#asia`

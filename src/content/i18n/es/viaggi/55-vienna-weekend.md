@@ -95,7 +95,7 @@ El **Naschmarkt** para una comida informal entre cocinas distintas. Los **cafés
 - **Contar con una buena media jornada para Schönbrunn**: es mucho más grande de lo que parece en las fotos.
 
 ## Chiusura personale
-Lo que me queda es el contraste entre la grandiosidad de los palacios imperiales y la escala más íntima de una mesita en un café histórico, donde, dice la propia definición de la UNESCO, se «consumen tiempo y espacio, y solo el café aparece en la cuenta». Viena parece construida a propósito para vivirla a ambas velocidades en el mismo fin de semana.
+Tres o cuatro días bastan para lo esencial: el Hofburg, Schönbrunn, Klimt en el Belvedere, el Prater. Al menos una hora al día, eso sí, hay que dejarla para un café histórico.
 
 ## Tag
 `#vienna` `#austria` `#schonbrunn` `#belvedere` `#klimt` `#naschmarkt` `#kaffeehaus` `#cittadarte`

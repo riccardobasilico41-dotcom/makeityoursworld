@@ -207,7 +207,7 @@ Por persona, en habitación doble compartida y coche dividido entre dos, vuelos 
 - **Partidas sueltas:** Teotihuacán y Museo de Antropología unos 210 MXN cada uno para extranjeros; vuelo Ciudad de México-La Paz aproximadamente 1.500-3.500 MXN; coche de alquiler con seguro obligatorio 900-1.800 MXN al día; tiburón ballena 1.500-2.500 MXN más 215 MXN de pulsera; Espíritu Santo 2.500-3.500 MXN; panga para las ballenas grises unos 1.500-2.000 MXN la hora por barca; ballena azul desde 3.000 MXN; jorobadas en Cabo 1.400-2.200 MXN (80-130 dólares); Balandra 120 MXN.
 
 ## Chiusura personale
-Las dos mitades de este viaje se equilibran. Ciudad de México es densa, ruidosa y llena de historia, y pide atención por cada día que se le dedica; Baja California Sur está vacía, en silencio, con pocas carreteras y muchos kilómetros, y da lo mejor de sí cuando se la deja ir al ritmo del viento y de los animales. El periodo es limitado: fuera de febrero y marzo el viaje se puede hacer, pero se convierte en otro viaje. Es adecuado para quien quiere juntar una gran capital y uno de los mares más ricos en vida del planeta, y acepta conducir y reservar las salidas en barca con días de margen.
+Primero cinco días en Ciudad de México, con los primeros tacos al pastor por la noche en el Parque México, el Zócalo, Teotihuacán y las trajineras de Xochimilco. Luego en coche de La Paz a Cabo San Lucas: Espíritu Santo con los leones marinos de Los Islotes, las ballenas grises en la Bahía Magdalena, Loreto, Todos Santos y la lancha hasta El Arco.
 
 ## Tag
 `#messico` `#cittadelmessico` `#bajacalifornia` `#lapaz` `#squaloballena` `#balenegrigie` `#loreto` `#todossantos` `#loscabos` `#roadtrip` `#natura` `#nordamerica`

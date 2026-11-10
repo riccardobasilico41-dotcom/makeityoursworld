@@ -151,9 +151,9 @@ Si el vuelo sale temprano, es mejor pasar la última noche cerca del aeropuerto 
 - **Rellenar la e-VOA y la All Indonesia Arrival Card** antes de salir, en los portales oficiales.
 
 ## Chiusura personale
-En dos semanas, este recorrido enseña la Indonesia más famosa sin las prisas del paquete turístico. Java da los recuerdos más fuertes, los que se ganan levantándose de noche. Bali gusta más si se mira desde Munduk y desde Ubud en lugar de desde el sur. Las Gili sirven para bajar el ritmo antes del vuelo. Con unos días más, conviene alargar las Gili o añadir una noche en Sidemen.
+Java es la parte que me dejó el recuerdo más nítido: el Ijen subido a oscuras con la máscara antigás, con los mineros pasando a nuestro lado con las cestas de azufre, y el amanecer en el Bromo, aunque compartido con cientos de jeeps. De Bali, más que cualquier arrozal, se me quedó grabada la danza kecak en Uluwatu. Las Gili cierran con tres días lentos, sin coches ni motos.
 
-*Las etapas las hizo Rick en su viaje largo por Indonesia, y de él vienen los recuerdos del Ijen, el Bromo, Borobudur, la danza kecak y las Gili, además de las fotos con dron. Trayectos, tiempos, precios orientativos y normas de entrada proceden del itinerario de 35 días y de las fichas de destino del sitio, verificados en septiembre de 2026: hay que volver a comprobarlos antes de salir.*
+A Indonesia sigo volviendo sobre todo por la gente: las sonrisas, como en Tailandia.
 
 ## Tag
 `#indonesia` `#giava` `#bali` `#gili` `#yogyakarta` `#borobudur` `#bromo` `#ijen` `#ubud` `#risaie` `#duesettimane` `#asia`

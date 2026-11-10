@@ -87,7 +87,7 @@ The midday menu in neighborhood bistros, the bouillons for classic cuisine at lo
 - **One big museum a day**, never two.
 
 ## Chiusura personale
-What stays with you from Paris isn't the first two days in places you already knew before leaving: it's the third, when you come out of a museum tired and take a random direction instead of heading to the next monument, and end up in a neighborhood with nothing on your list to see, where people sit on the edges of the canal and nobody photographs anything.
+Five days are enough for the big things, as long as you never put two major museums on the same day and leave the third to the neighborhoods that aren't on the postcards.
 
 ## Tag
 `#parigi` `#francia` `#louvre` `#versailles` `#montmartre` `#cittadarte`

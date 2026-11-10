@@ -124,9 +124,7 @@ Then we returned to Naples for the last evening in the city.
 - **Check the access status of the Solfatara**, closed after the 2017 accident.
 
 ## Chiusura personale
-What stays with me about Naples is a relationship of scale inverted compared with the rest of Italy. You walk into a small church on a narrow street, pay a few euros, there's no line, and above the altar is a Caravaggio painted for that wall four hundred years ago, still there. Outside, life goes on exactly as before: scooters, laundry hung out, people talking loudly from one balcony to another.
-
-Naples doesn't put its heritage in a display case. It lives with it, uses it, walks past without looking at it, and this apparent indifference is actually the only true form of ownership: that painting isn't a monument, it's the altar of the neighborhood confraternity, and the confraternity still exists and still does what it did in the seventeenth century. That's why Naples throws off anyone who arrives with the idea of an art city to visit: it isn't an art city. It's a city, and by chance it has enormous things inside.
+From Naples, the advice I give is about Pompeii and Herculaneum: Pompeii is more beautiful, but Herculaneum has fewer people, so decide for yourselves which you'd enjoy more. And for a different kind of evening, Nennella is a bit touristy-kitsch, but fun.
 
 ## Tag
 `#napoli` `#italia` `#pompei` `#ercolano` `#vesuvio` `#caravaggio` `#cristovelato` `#pizza`

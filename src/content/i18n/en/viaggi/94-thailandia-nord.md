@@ -11,8 +11,6 @@
 ## Apertura personale
 The classic Thailand trip is the beach one, and it's already on the site: [from Bangkok to the southern sea](/viaggi/thailandia). This is the other one, the north. Mountains, wooden temples, evening markets and a slower pace. I went to Chiang Mai on a separate trip, and you feel the contrast with Bangkok and the south from the first day. The morning with the elephants at Elephant Nature Park, without ever riding them, is still one of my best memories of Thailand.
 
-For Pai, Chiang Rai and the Golden Triangle you'll find mostly practical information here, checked against official sources.
-
 The route climbs from Bangkok on the night train, stops for almost a week in Chiang Mai, goes through Pai and ends in Chiang Rai and at the border on the Mekong. There's also a long section on elephants: how to see them without doing harm, and how to recognize a serious place.
 
 ## Scheda pratica
@@ -171,9 +169,7 @@ The Gulf of Thailand, with Koh Samui, Koh Phangan and Koh Tao, has different sea
 - **Bring a sweater.** On Doi Inthanon and in Pai, early in the morning, it gets properly cold.
 
 ## Chiusura personale
-What stayed with me from Chiang Mai is the pace, slower than the rest of the country, and the morning with the elephants without ever riding them. If you're going now, you have one more job: choose the center by looking at what happens to the animals once the tourists leave.
-
-*This trip is rooted in places Rick has personally visited; Chiang Mai and Elephant Nature Park come from a trip separate from the beach loop. For the other stops the text sticks to practical information. Sources: the UK government (gov.uk), Seat61 for the train, the websites of Elephant Nature Park and Save Elephant Foundation, World Animal Protection and ABTA for elephants, checked in November 2026. Prices, times and rules change: recheck them before you go.*
+What stayed with me from Chiang Mai is the pace, slower than the rest of the country, and the morning with the elephants at Elephant Nature Park, without ever riding them: one of my best memories of Thailand.
 
 ## Tag
 `#thailandia` `#thailandianord` `#chiangmai` `#chiangrai` `#pai` `#triangolodoro` `#maehongson` `#elefantietici` `#trenonotturno` `#templi` `#asia`

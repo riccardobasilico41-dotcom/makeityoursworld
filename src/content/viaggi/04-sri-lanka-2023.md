@@ -318,7 +318,9 @@ Resort.
   l'autista o l'hotel.
 
 ## Chiusura personale
-Di un viaggio così denso e vario è difficile scegliere cosa portarsi a casa per primo, ma se devo ordinare le sensazioni metto la notte dell'Adam's Peak al primo posto, seguita dal safari a Minneriya tra gli elefanti e dal treno panoramico verso Ella, in ritardo come da tradizione ma bellissimo lo stesso. Tra templi, trekking e spiagge del sud, quello che resta di più è proprio il contrasto: pochi paesi permettono di passare da una scalata notturna di pellegrinaggio a una spiaggia come Hikkaduwa nel giro di tre giorni.
+Se devo scegliere, la notte dell'Adam's Peak viene prima di tutto: la fatica di salire in fila con i pellegrini, il freddo che arriva solo in cima. Subito dopo ci metto Minneriya, dove di elefanti ne abbiamo visti un sacco, e il rafting a Kitulgala, super divertente in mezzo a una natura viva. Molto, molto bello.
+
+Il treno per Ella ci ha messo dal primo pomeriggio alla tarda sera, con le porte che in certi punti restano aperte e i controllori che fanno finta di niente. Poi le spiagge del sud, a Hikkaduwa, per chiudere dodici giorni che sono stati un concentrato pazzesco di paesaggi diversi.
 
 ## Materiale grezzo (appunti, non ancora editato)
 Fonti caricate:

@@ -181,7 +181,7 @@ Before leaving you return the rental car with a full tank, which here costs very
 - **Check the official advisories** for the border areas with Yemen if you go down into the Asir.
 
 ## Chiusura personale
-What stays from this trip is the feeling of having seen something in a window that is closing. Not in a nostalgic sense (there's nothing romantic about a country you couldn't visit until 2019), but in a literal sense: Hegra opened recently and already limits access, Al-Balad is halfway through its restoration and in ten years will be something else, and tourism projects are rising on the Red Sea coast that will change the geography. Right now you stand in front of a Nabataean facade carved two thousand years ago with nobody else around, and in a few years that will be a memory told to the newcomers. The country, meanwhile, is changing faster than any guidebook can keep up with, with all the contradictions that entails and that aren't worth hiding. Going today means seeing something in motion, not something finished.
+This was our route: Jeddah and the old town of Al-Balad, then AlUla with Hegra and the inscriptions of Jabal Ikmah, and finally Riyadh, with Diriyah and the Edge of the World.
 
 ## Tag
 `#arabiasaudita` `#jeddah` `#alula` `#hegra` `#riyadh` `#diriyah` `#asir` `#nabatei` `#deserto` `#medioriente`

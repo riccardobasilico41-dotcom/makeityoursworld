@@ -249,7 +249,7 @@ Senza il tempo per Longji, la mattina a Guilin si passa in città, tra la **Coll
 - **Mettere in conto il costo degli ingressi ai parchi.** Sommati, superano tutto il resto del viaggio: è la sorpresa di budget più frequente su questo itinerario.
 
 ## Chiusura personale
-Se il primo viaggio in Cina serve a spuntare le cose che si conoscevano già, questo serve a capire quanto poco si conosceva. Nessuna di queste tappe compare nelle brochure e in quasi tutte si è gli unici stranieri in vista: al parco di Zhangjiajie, sul sentiero della gola, nei vicoli di Baisha all'alba. Quello che resta, alla fine, non è un monumento ma una sequenza: l'ascensore che sale lungo la parete e il vuoto che si apre negli ultimi cento metri; il rumore dello Yangtze che sale da tremila metri sotto i piedi; cinquecento contadini in costume che recitano con un ghiacciaio alle spalle; e un'ora di zattera sul fiume Li al mattino, con le torri che sfilano a mezzo metro dall'acqua e nessuna fretta di arrivare.
+Alla fine la Cina, per me, resta questo: un bordello, ma che figata. Si mangia bene un po' ovunque, anche se quasi sempre molto piccante, e spesso non sai nemmeno cosa hai ordinato. Ma fa parte dell'esperienza.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026, ma prezzi degli ingressi, orari di funivie e spettacoli e regole di prenotazione in Cina cambiano spesso e senza preavviso: vanno riverificati sui canali ufficiali prima di partire.

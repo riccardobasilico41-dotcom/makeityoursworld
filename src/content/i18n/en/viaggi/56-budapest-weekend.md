@@ -96,7 +96,7 @@ The **Central Market Hall** for the first tastes at honest prices, lángos and l
 - **Always validate your public transport ticket**: inspections are frequent.
 
 ## Chiusura personale
-What stays with me is the contrast between the two banks of the Danube: the hill of Buda with its white turrets and medieval alleys, and the 19th-century Pest of the great boulevards that at night, from the Jewish Quarter, never sleeps. In between, the hot water of the baths rising as steam even in the coldest months: the reason, more than any monument, why it is worth going back.
+The one piece of advice I'd give about Budapest: give the baths at least half a day, not an hour squeezed between two stops. And in the Jewish Quarter, don't follow anyone who approaches you in the street suggesting a bar.
 
 ## Tag
 `#budapest` `#ungheria` `#terme` `#danubio` `#ruinbar` `#cittadarte`

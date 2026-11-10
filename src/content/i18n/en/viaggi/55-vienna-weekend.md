@@ -95,7 +95,7 @@ The **Naschmarkt** for an informal meal among different cuisines. The **historic
 - **Allow a good half day for Schönbrunn**: it's much bigger than it looks in the photos.
 
 ## Chiusura personale
-What stays with me is the contrast between the grandeur of the imperial palaces and the more intimate scale of a little table in a historic café, where, as the UNESCO definition itself says, "time and space are consumed, but only the coffee appears on the bill". Vienna seems built on purpose to be lived at both speeds in the same weekend.
+Three or four days are enough for the essentials: the Hofburg, Schönbrunn, Klimt at the Belvedere, the Prater. At least an hour a day, though, belongs to a historic café.
 
 ## Tag
 `#vienna` `#austria` `#schonbrunn` `#belvedere` `#klimt` `#naschmarkt` `#kaffeehaus` `#cittadarte`

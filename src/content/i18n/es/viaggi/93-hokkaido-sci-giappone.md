@@ -13,8 +13,6 @@ A Japón se va a esquiar por la nieve. En invierno los vientos fríos de Siberia
 
 Esta guía explica adónde ir, cuándo salir y cuándo reservar, cuánto cuesta, cómo moverse desde el aeropuerto, y las reglas que cuentan en la montaña y en los onsen. Hay un itinerario de once días: dos en Sapporo, una jornada en Kiroro, cinco noches en Niseko con un día en Rusutsu, dos en Furano. Al final, la comparación con Hakuba, en los Alpes japoneses, la alternativa a la que se llega desde Tokio.
 
-Como todos los viajes de esta web, nace de lugares que he visitado personalmente y de experiencias que he vivido, reunidos en una ruta práctica.
-
 ## Scheda pratica
 - **Cuándo ir:** las estaciones de Hokkaido abren normalmente entre finales de noviembre y principios de diciembre y cierran entre finales de marzo y principios de mayo. Niseko United en 2026-27 abre el 28 de noviembre; Grand Hirafu y Annupuri siguen abiertas hasta el 5 de mayo, Niseko Village y Hanazono cierran en abril. La nieve polvo más constante está entre la segunda mitad de diciembre y febrero. Marzo tiene días de sol y nieve más pesada, y precios más bajos.
 - **Yuki Matsuri:** el festival de la nieve de Sapporo, con las grandes esculturas de nieve y hielo en Odori, Susukino y Tsudome, en 2027 es del 4 al 11 de febrero. Esos días los hoteles de Sapporo se llenan y cuestan más.

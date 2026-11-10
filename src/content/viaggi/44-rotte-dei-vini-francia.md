@@ -96,7 +96,7 @@ Tarte flambée e choucroute in Alsazia, jambon de Reims e biscotti rosa in Champ
 - **Prenotare le grandi maison** in Champagne con anticipo.
 
 ## Chiusura personale
-La differenza tra Alsazia e Champagne è tutta nell'accoglienza: in Alsazia si entra e si chiacchiera, in Champagne si scende in una galleria romana e si assiste a un processo tecnico. Sono due modi opposti di raccontare il vino francese, e messi in fila si completano.
+Per una prima volta sulle rotte del vino francesi, per me sono queste le due giuste: l'Alsazia, la più bella e la più accessibile, e la Champagne, la più facile da raggiungere da Parigi. La Borgogna la tengo per un viaggio successivo.
 
 ## Nota su questa bozza
 Itinerario verificato e aggiornato a settembre 2026. Orari e formule delle visite in cantina vanno riverificati.

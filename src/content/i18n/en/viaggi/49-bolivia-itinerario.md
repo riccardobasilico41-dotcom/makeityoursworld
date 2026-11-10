@@ -187,7 +187,7 @@ The last hours in the city depend on the time left (one last cable car ride, one
 - **If you extend the trip to Peru from Copacabana**, check the closing hours of the Kasani/Yunguyo crossing and the pre-registration procedures, which changed recently.
 
 ## Chiusura personale
-What stays with me from this trip is the physical feeling of altitude, more than any single image: the short breath climbing the stairs in La Paz in the first two days, the absurd cold of the Sud Lípez geysers at dawn, the relief of breathing properly again in Sucre, and finally the humid heat of the Amazon arriving after a forty-five-minute flight like another planet. In between, the contrasts that make Bolivia different from any other country in South America: the cholitas' wrestling in El Alto and the tunnels of Cerro Rico in the same trip, the flamingos of Laguna Colorada and the pink dolphins of the Rio Yacuma, a witches' market and the colonial mint that smelted silver for an empire. It's not a comfortable country (ATMs run dry, roads get blocked, flights are canceled for weather), but altitude aside it's probably the easiest in the whole continent to get around on your own.
+Bolivia is the cheapest country on the continent and, altitude aside, one of the easiest to get around on your own. The Salar and the Sud Lípez alone are worth the trip. The one rule I'd give is to keep the plan flexible: here road blockades and cancelled flights matter more than elsewhere.
 
 ## Tag
 `#bolivia` `#lapaz` `#uyuni` `#salardeuyuni` `#sudlipez` `#titicaca` `#copacabana` `#potosi` `#sucre` `#rurrenabaque` `#amazzonia` `#altaquota` `#altitudine` `#suramerica`

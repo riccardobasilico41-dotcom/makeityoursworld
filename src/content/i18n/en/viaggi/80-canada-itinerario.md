@@ -223,7 +223,7 @@ The morning is free for last purchases: maple syrup, Québec cheeses and icewine
 
 ## Extension — Churchill (Manitoba) and the polar bears (3-5 days)
 
-> **I didn't do this part myself, friends told me about it: they say that, despite the price, it's beautiful.** The information below is from guides, checked in October 2026, not a travel memory.
+> **I didn't do this part myself, friends told me about it: they say that, despite the price, it's beautiful.**
 
 **Churchill** is a town of fewer than a thousand people on the shore of **Hudson Bay**, in northern Manitoba. Between **mid-October and mid-November** polar bears gather on the coast waiting for the bay to freeze, so they can go back to hunting seals on the pack ice. It's one of the few places in the world where you can see them up close without an Arctic expedition.
 
@@ -281,7 +281,7 @@ Prices checked in October 2026, per person; taxes are almost always added to the
 - **For Churchill, book lodging and outings many months ahead:** the bear weeks are few.
 
 ## Chiusura personale
-Eastern Canada by car is an easy drive: the roads are generally good and the route follows Lake Ontario and then the St. Lawrence up to Tadoussac, with two detours toward Ottawa and the Laurentians. From our experience two tips stay with me: a big pickup is handy for a loop like this, and at the falls, if you can only do one thing, do the boat.
+We toured eastern Canada in a nice big pickup truck, and for a trip like this it was the most comfortable way to go: we found the roads generally good. At Niagara we also did the helicopter, very beautiful and scenic, but if you can only do one thing, take the boat: the falls seen from below are more impressive.
 
 ## Tag
 `#canada` `#roadtrip` `#toronto` `#niagara` `#ottawa` `#montreal` `#quebec` `#tadoussac` `#balene` `#churchill` `#orsipolari` `#pickup`

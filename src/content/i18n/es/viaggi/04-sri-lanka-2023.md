@@ -315,7 +315,9 @@ Resort.
   conductor o del hotel.
 
 ## Chiusura personale
-De un viaje tan denso y variado es difícil elegir qué llevarse a casa primero, pero si tengo que ordenar las sensaciones pongo la noche del Adam's Peak en primer lugar, seguida del safari en Minneriya entre los elefantes y del tren panorámico hacia Ella, con retraso como manda la tradición pero preciosísimo igualmente. Entre templos, trekking y playas del sur, lo que más queda es precisamente el contraste: pocos países permiten pasar de un ascenso nocturno de peregrinación a una playa como Hikkaduwa en el espacio de tres días.
+Si tengo que elegir, la noche del Adam's Peak va primero: el esfuerzo de subir en fila con los peregrinos, el frío que solo llega arriba. Justo después pongo Minneriya, donde vimos un montón de elefantes, y el rafting en Kitulgala, divertidísimo en medio de una naturaleza viva. Muy, muy bonito.
+
+El tren a Ella tardó desde primera hora de la tarde hasta bien entrada la noche, con las puertas abiertas en algunos tramos y los revisores haciendo como si nada. Luego las playas del sur, en Hikkaduwa, para cerrar doce días que fueron un concentrado increíble de paisajes distintos.
 
 ## Tag
 `#srilanka` `#adamspeak` `#sigiriya` `#safari` `#trenopanoramico` `#asia`

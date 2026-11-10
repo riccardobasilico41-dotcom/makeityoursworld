@@ -187,9 +187,7 @@ Nel pomeriggio siamo rientrati a Napoli.
 - **Mettere in conto gli scalini.** Non è una vacanza di mare in piano: è una costa verticale.
 
 ## Chiusura personale
-La cosa che resta di questa costa non è Positano dall'acqua, per quanto sia esattamente come nelle fotografie. È il momento, sul Sentiero degli Dei, in cui ci si ferma su un tratto esposto a cinquecento metri sopra il mare e si guarda in basso: sotto ci sono i terrazzamenti, uno sopra l'altro, per centinaia di metri di dislivello, tenuti su da muri a secco costruiti pietra su pietra. Su quei fazzoletti di terra larghi due metri ci sono limoni e viti. Nessuna macchina è mai potuta arrivare lassù; tutto quello che si vede è stato portato a spalla.
-
-Poi si abbassa lo sguardo di qualche grado e c'è la statale, con la coda di auto ferme, e i pullman che si incrociano a specchietti rientrati. Le due cose stanno a duecento metri di dislivello l'una dall'altra e non si parlano. La Costiera è patrimonio dell'umanità per quella di sopra, e viene visitata quasi interamente da quella di sotto: ed è, tutto sommato, una buona notizia per chi decide di salire.
+Dei gradini da Nocelle a Positano, più di 1.700, le gambe si ricordano ancora il giorno dopo. La Costiera per me va fatta così: niente auto, tutto in traghetto, e salire sui sentieri sopra la strada, dove non c'è nessuno. Le isole non sono intercambiabili, e farne due bene è meglio che farne tre di corsa.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Gli orari e la stagionalità dei traghetti, i regimi di targhe alterne sulla statale, le limitazioni allo sbarco dei veicoli sulle isole e gli stati di accesso di Via Krupp, Valle delle Ferriere, Vivara e Grotta dello Smeraldo cambiano** e vanno riverificati. **L'ingresso alla Grotta Azzurra dipende ogni giorno dalla marea e dallo stato del mare.**

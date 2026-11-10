@@ -11,7 +11,7 @@
 ## Apertura personale
 There are two states on the same island. In the south, the Republic of Ireland, in the European Union, with the euro. In the north, Northern Ireland, which is part of the United Kingdom and uses the pound. The border between them is almost invisible: no barriers, no customs. You notice you've crossed it because the signs switch from kilometres to miles.
 
-This trip is a twelve-day driving loop that starts and ends in Dublin. It goes south toward Glendalough, Kilkenny and Cork, follows the Atlantic coast from Kerry to Connemara and climbs north to Derry/Londonderry, the Antrim coast and Belfast. It's one of Rick's trips, and here the story makes room mostly for practical information, checked against official sources.
+This trip is a twelve-day driving loop that starts and ends in Dublin. It goes south toward Glendalough, Kilkenny and Cork, follows the Atlantic coast from Kerry to Connemara and climbs north to Derry/Londonderry, the Antrim coast and Belfast.
 
 There is also a long section on the two Irelands: why the island is divided, what the Troubles were, what the Good Friday Agreement changed and where things stand today.
 
@@ -160,10 +160,10 @@ The main entrance fees checked for 2026: Kilmainham Gaol €8, Glendalough (visi
 ## Chiusura personale
 You cross Ireland for the landscapes, and they don't disappoint: the cliffs, Kerry, Connemara, the Antrim coast. The reason it's worth going all the way to the north is another one. Between Derry and Belfast you walk inside a history that is still recent, and the 1998 Agreement stops being a date in a book.
 
-*One of Rick's trips, told mostly through practical information. Sources: ireland.com, gov.uk and nidirect.gov.uk for documents, ETA, driving and healthcare; heritageireland.ie, cliffsofmoher.ie, visittrinity.ie, the National Trust and titanicbelfast.com for entrance fees and opening times; discovernorthernireland.com and visitbelfast.com for tours; the ONS for economic data; Wikipedia for history. Checked in November 2026. Prices, times and rules change: recheck them before you go.*
-
 ## Nota su questa bozza
 A trip Rick took; his first-person memories will follow. Driving times between stops are approximate, without stops. Left generic, for lack of confirmed sources: car and accommodation prices, the Book of Kells ticket, the prices of Dunluce Castle and Kylemore Abbey, and the exact date the Long Room reopens. The Carrick-a-Rede price comes from Wikipedia and needs confirming on the National Trust website. No hotel, restaurant or operator names have been made up.
+
+One of Rick's trips, told mostly through practical information. Sources: ireland.com, gov.uk and nidirect.gov.uk for documents, ETA, driving and healthcare; heritageireland.ie, cliffsofmoher.ie, visittrinity.ie, the National Trust and titanicbelfast.com for entrance fees and opening times; discovernorthernireland.com and visitbelfast.com for tours; the ONS for economic data; Wikipedia for history. Checked in November 2026. Prices, times and rules change: recheck them before you go.
 
 ## Tag
 `#irlanda` `#irlandadelnord` `#dublino` `#belfast` `#derry` `#ringofkerry` `#cliffsofmoher` `#connemara` `#giantscauseway` `#troubles` `#roadtrip` `#europa`

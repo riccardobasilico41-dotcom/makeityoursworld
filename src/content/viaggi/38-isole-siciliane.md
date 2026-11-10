@@ -220,11 +220,7 @@ Se il volo per il continente fa scalo a Palermo o a Catania, conviene non attacc
 - **Non trattare Lampedusa solo come una spiaggia.** È anche altro, e cinque minuti alla Porta d'Europa costano poco.
 
 ## Chiusura personale
-La cosa che resta di queste isole è che, andando da nord a sud, l'Europa finisce gradualmente e nessuno lo dice.
-
-A Favignana si è ancora in Sicilia, con la tonnara, il barocchetto e il tufo delle chiese di Palermo. A Pantelleria, cento chilometri più in là, si dorme in una casa a cupola con i muri spessi un metro pensata per raccogliere l'acqua piovana, si mangia un couscous di verdure, si coltiva la vite dentro una buca perché il vento la strapperebbe, e nelle giornate limpide si vede l'Africa. A Lampedusa si è **sulla piattaforma continentale africana**, in senso letterale: geologicamente, quell'isola non è mai stata Europa. Ci è arrivata solo per via delle mappe politiche.
-
-E poi si scende alla Porta d'Europa, che guarda a sud verso il mare aperto da cui arrivano le barche, e ci si rende conto che il confine di cui si parla continuamente non è una linea: è una distanza d'acqua che qualcuno attraversa in aereo in un'ora, con il posto prenotato, e qualcun altro no.
+Tre isole in fila, ognuna un mondo a sé: Favignana girata in bicicletta; a Pantelleria il bagno nelle vasche termali di Gadir e la salita sulla Montagna Grande, da dove nelle giornate limpide si vede la Tunisia; a Lampedusa la sera alla Porta d'Europa, davanti al mare da cui arrivano le barche.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le regole di accesso alla Riserva dell'Isola dei Conigli — contingentamenti, fasce orarie, divieti e chiusure legate alla nidificazione — cambiano ogni stagione e vanno verificate**, come le modalità di visita della Grotta del Genovese, la stagionalità dei voli in continuità territoriale e gli orari dei traghetti, tutti soggetti alle condizioni del mare.

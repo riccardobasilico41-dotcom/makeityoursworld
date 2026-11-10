@@ -209,7 +209,7 @@ Por persona, en habitación doble compartida, vuelos intercontinentales excluido
 - **Partidas sueltas:** Teotihuacán y Museo de Antropología unos 210 MXN cada uno para extranjeros; autobús Ciudad de México-Puebla 200-300 MXN; Puebla-Oaxaca 450-800 MXN; Oaxaca-Puerto Escondido 300-500 MXN en autobús o van; tour nocturno a los cementerios 600-1.200 MXN; tour de la ruta del mezcal 600-900 MXN; vuelo Puerto Escondido-Ciudad de México aproximadamente 1.200-3.000 MXN reservado con antelación.
 
 ## Chiusura personale
-El Día de los Muertos sorprende a quien llega esperando una fiesta macabra: en los cementerios se oye hablar, reír, tocar, y los niños corren entre las tumbas. Este itinerario está construido para que las tres noches de la fiesta caigan todas en Oaxaca, donde la celebración está más arraigada y es más variada, y para que antes haya tiempo de entender el país en Ciudad de México y Puebla y después de descansar en el océano. Funciona para quien acepta dormir poco tres noches seguidas, reservar con meses de antelación y entrar en los cementerios como invitado.
+El consejo de verdad es uno: reservar Oaxaca lo primero, en cuanto tengas las fechas, porque es el cuello de botella del viaje. Y en los cementerios se entra como invitado: se pregunta antes de fotografiar, nada de flash en la cara, no se sienta uno en las tumbas.
 
 ## Tag
 `#messico` `#diadelosmuertos` `#cittadelmessico` `#puebla` `#cholula` `#oaxaca` `#mezcal` `#puertoescondido` `#festival` `#cultura` `#nordamerica`

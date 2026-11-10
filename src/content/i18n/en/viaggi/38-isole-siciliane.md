@@ -220,11 +220,7 @@ If the flight to the mainland stops in Palermo or Catania, avoid attaching an in
 - **Don't treat Lampedusa as just a beach.** It's something else too, and five minutes at the Porta d'Europa costs little.
 
 ## Chiusura personale
-What stays with me about these islands is that, going from north to south, Europe gradually ends and nobody says so.
-
-In Favignana you're still in Sicily, with the tuna cannery, the little baroque and the tufo of the churches of Palermo. In Pantelleria, a hundred kilometers further on, you sleep in a domed house with walls a meter thick designed to collect rainwater, you eat a vegetable couscous, you grow the vine in a hole because the wind would tear it up, and on clear days you can see Africa. In Lampedusa you are **on the African continental shelf**, literally: geologically, that island was never Europe. It got there only by way of political maps.
-
-And then you go down to the Porta d'Europa, which looks south toward the open sea from which the boats arrive, and you realize that the border everyone talks about constantly isn't a line: it's a stretch of water that some people cross by plane in an hour, with a reserved seat, and others don't.
+Three islands in a row, each a world of its own: Favignana by bicycle; on Pantelleria, a swim in the thermal pools at Gadir and the climb up Montagna Grande, where on clear days you can see Tunisia; on Lampedusa, the evening at the Porta d'Europa, facing the sea the boats arrive from.
 
 ## Tag
 `#favignana` `#egadi` `#pantelleria` `#lampedusa` `#linosa` `#sicilia` `#italia` `#isole` `#passito`

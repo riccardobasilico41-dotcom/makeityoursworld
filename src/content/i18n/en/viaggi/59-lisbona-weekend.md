@@ -83,7 +83,7 @@ The **pastel de nata** at Pastéis de Belém and in neighborhood pastry shops; *
 - **Bring a light umbrella off-season**: November-March is mild but rainy.
 
 ## Chiusura personale
-What stays with me is the contrast between the slow rhythm of the climbs and miradouros in the city and the race against the clock to be among the first at the Palácio da Pena: two different speeds in the same weekend, which capture well the dual nature of this destination (a city to live slowly, a day trip to tackle with a method).
+For me Lisbon is lived uphill, among hills, trams and miradouros. Four days are enough for Alfama, Belém and Baixa-Chiado, plus a whole day for Sintra, the most beautiful day trip around and also the most crowded.
 
 ## Tag
 `#lisbona` `#portogallo` `#sintra` `#alfama` `#belem` `#fado` `#pasteldenata` `#weekendlungo`

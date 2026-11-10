@@ -86,7 +86,7 @@ La **bitterballen** con una birra olandese nei *bruine kroegen* di Jordaan; l'**
 - **Vestirsi a strati e portare un k-way**: piove spesso, anche d'estate, e il vento sui canali si sente.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto tra la leggerezza del pedalare tra i canali e il silenzio richiesto un isolato più in là, al Prinsengracht 263. Amsterdam è una città che chiede entrambe le velocità nello stesso weekend.
+Amsterdam l'abbiamo girata a piedi e in bici: l'anello dei canali e Jordaan, la Casa di Anna Frank, i due grandi musei sul Museumplein. L'ultimo giorno abbiamo noleggiato una bicicletta e girato liberi, fermandoci dove capitava, come fanno gli amsterdammer.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Le regole di prenotazione della Casa di Anna Frank, i prezzi dei musei e gli orari cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

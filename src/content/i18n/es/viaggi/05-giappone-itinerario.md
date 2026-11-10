@@ -142,7 +142,7 @@ La comida es probablemente el verdadero hilo conductor de este viaje, y merece l
 - **Los izakaya son la solución más práctica cuando se es más de uno.** Son el equivalente de los pubs japoneses: se comparten muchos platitos en el centro de la mesa, la cuenta se divide fácilmente (basta pedir «betsu betsu no okaikei wo onegaishimasu» para cuentas separadas), y muchos ofrecen fórmulas **tabehodai/nomihodai** (all-you-can-eat/drink durante 1h30-2h a precio fijo), cómodas cuando se es mucha gente y no se quiere gestionar una cuenta complicada. Ojo: la fórmula vale para toda la mesa, no se puede elegir solo para algunos comensales.
 - **El cubierto**: muchos restaurantes aplican un pequeño «otoshi» (un aperitivo de bienvenida no pedido, una especie de cubierto) de unos 300-500 yenes por persona: es normal, no es un timo.
 - **La cuenta nunca incluye los impuestos**: hay que añadir el 10% al total.
-- **Consejos extra tras investigar**, para quien quiera ampliar la lista más allá de los locales ya señalados en el programa: en Tokio los izakaya de gama alta como Tanakada (Nishi-Azabu) son excelentes para una ocasión especial; en Kioto Muromachi Kaji es un kappo-izakaya muy apreciado por sus platos al estilo kaiseki en versión más informal. Ambos están señalados por la Guía Michelin como Bib Gourmand (buena relación calidad-precio), y hay que reservarlos con antelación.
+- **Algunas direcciones más**, para quien quiera ampliar la lista más allá de los locales ya señalados en el programa: en Tokio los izakaya de gama alta como Tanakada (Nishi-Azabu) son excelentes para una ocasión especial; en Kioto Muromachi Kaji es un kappo-izakaya muy apreciado por sus platos al estilo kaiseki en versión más informal. Ambos están señalados por la Guía Michelin como Bib Gourmand (buena relación calidad-precio), y hay que reservarlos con antelación.
 
 ## Onsen: la otra cara del viaje
 Japón ofrece más ocasiones de las que el programa prevé para un baño caliente tradicional, y merece la pena incluir al menos un par con calma (Funaoka Onsen en Kioto, el onsen de Kawaguchiko en la jornada del monte Fuji):
@@ -200,7 +200,11 @@ Hotel-torre bien situado, conectado directamente con el centro comercial Sunshin
 - **Restaurantes pequeños**: si no se habla japonés, Google Translate con el diccionario sin conexión y Google Lens para traducir los menús escritos a mano salvan la situación.
 
 ## Chiusura personale
-De un viaje tan denso me llevo a casa sobre todo los contrastes: los sakura cazados por Tokio, el Fuji visto desde Chureito con los cerezos todavía en plena floración una semana después, los ciervos de Nara paseando libres entre los templos, y las noches entre izakaya abarrotados y el cruce de Shibuya. Si tuviera que elegir un solo momento, elegiría precisamente el de la Pagoda Chureito: el Japón de postal que por una vez es de verdad así también en directo.
+La ruta clásica de Japón está abarrotada de turistas por todas partes, y Kioto más que nada: allí aconsejo salir temprano por la mañana, para tener una sensación más auténtica. En Fushimi Inari subí hasta la cima: las vistas, nada del otro mundo, pero la experiencia es bonita.
+
+Hiroshima para mí fue el límite: hacia el final tuve que acelerar el paso, porque emocionalmente era «demasiado». Miyajima me gustó, pero quien tenga menos días, para mí, puede recortar esta parte. Dotonbori, en cambio, me encantó, aunque mis amigos tenían opiniones encontradas, y en Nara comí un atún espectacular.
+
+Y Tokio, vista a ratos entre la llegada y los dos últimos días, merecería unas vacaciones para ella sola.
 
 ## Tag
 `#giappone` `#sakura` `#montefuji` `#kyoto` `#izakaya` `#onsen` `#asia`

@@ -265,9 +265,7 @@ Ultima granita con la brioche, ultimi acquisti (**pistacchio di Bronte**, ciocco
 - **Attenzione alle ZTL** dei centri storici e ai parcheggiatori abusivi nelle città grandi.
 
 ## Chiusura personale
-La cosa che resta della Sicilia intera, fatta tutta e nell'ordine giusto, non è un singolo posto: è la sensazione di aver attraversato più paesi senza mai prendere un aereo. A Palermo si entra in una cappella dove un re normanno ha messo mosaicisti bizantini a lavorare sotto un soffitto costruito da maestranze arabe, e ha scritto in tre alfabeti sulle lapidi del suo palazzo. Quattro giorni dopo si è su un'isoletta in una laguna dove i Fenici commerciavano tre secoli prima che i Greci arrivassero. Due giorni dopo si cammina tra i rocchi di una colonna lasciata a metà nel 409 a.C. perché quel giorno sono arrivati i Cartaginesi. Poi c'è la Roma imperiale dei mosaici di Piazza Armerina, il Barocco spagnolo di Noto, e alla fine un vulcano attivo su cui la gente pianta le viti perché il suolo è il migliore che ci sia.
-
-Non è stratificazione: è **accumulo senza cancellazione**. La Sicilia non ha mai buttato via niente di quello che le è passato addosso, e diciassette giorni servono esattamente a questo: a capire che l'isola non è una regione italiana con delle rovine dentro, ma il posto in cui il Mediterraneo ha depositato tutto quello che aveva, uno strato alla volta, senza mai fare pulizia.
+La Sicilia intera si fa, ma solo se le dai il tempo che chiede: un anello da Palermo a Catania, con i tempi delle mappe allungati di un terzo e senza saltare l'interno, che è dove l'isola è più sé stessa. E non a luglio o ad agosto.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **L'accesso alla zona sommitale dell'Etna dipende dall'attività del vulcano e può essere interdetto senza preavviso**; **lo stato di accesso della Scala dei Turchi è cambiato più volte**; gli orari e il percorso della Cappella Palatina variano con le attività dell'Assemblea Regionale. Vanno riverificati.

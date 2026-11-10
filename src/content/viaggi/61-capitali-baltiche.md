@@ -113,7 +113,7 @@ Nel primo pomeriggio abbiamo fatto l'ultimo giro a **Telliskivi Creative City**,
 - **Restare lontani dalle zone di confine orientali** dei tre paesi (con la Russia e, per Lituania e Lettonia, con la Bielorussia): questo itinerario non le tocca in nessun punto, ed è bene che resti così.
 
 ## Chiusura personale
-Quello che mi resta di questo viaggio è quanto le tre capitali riescano a essere allo stesso tempo simili e nettamente distinte: tre centri storici UNESCO usciti dalla stessa storia recente di occupazione e indipendenza, eppure tre lingue che non si parlano tra loro, tre architetture diverse (il barocco di Vilnius, il liberty di Riga, il gotico anseatico di Tallinn) e tre modi diversi di raccontare cosa viene dopo il centro storico: una repubblica immaginaria a Vilnius, un mercato dentro hangar per dirigibili a Riga, un ex complesso sovietico pieno di startup a Tallinn. Percorrerle in fila, con l'autobus a fare da filo conduttore, è il modo più onesto di vederle per quello che sono: tre paesi piccoli, vicini sulla carta, ma tutt'altro che intercambiabili.
+Le tre capitali vanno fatte in fila, da sud a nord, con il bus Lux Express a fare da filo conduttore, prenotato qualche giorno prima. E non fermatevi ai centri storici: il quartiere Art Nouveau di Riga e Telliskivi a Tallinn mostrano un altro lato di queste città.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Orari dei bus Lux Express, prezzi di musei e castelli, e le regole di accesso cambiano nel tempo e vanno riverificati sui canali ufficiali prima di partire.

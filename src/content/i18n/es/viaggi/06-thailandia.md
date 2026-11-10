@@ -410,7 +410,9 @@ ha convertido con los años en una de las fiestas en la playa más grandes del m
   ida y vuelta desde Samui.
 
 ## Chiusura personale
-Es difícil cerrar el relato de un país visitado tantas veces y de formas tan distintas, pero si tengo que elegir los momentos que me llevo a casa son el crucero al atardecer por el lago Cheow Lan en Khao Sok, entre torres calizas que parecen una pequeña Guilin, y la comida callejera de Bangkok, siempre distinta y siempre a la altura de su fama. Entre las Similan y Koh Phi Phi gana con claridad el mar de las primeras, pero si busco vida de isla y noches elijo siempre Phi Phi. A Tailandia vuelvo siempre con gusto, y es quizá el único país del que puedo decir con certeza que volveré todavía.
+Bangkok la he visto muchas veces, y sigue siendo increíble: una mezcla de contrastes. Del recorrido principal me llevo el crucero al atardecer en el lago Cheow Lan, en Khao Sok, y la comida callejera de Bangkok, con la hora y media de cola en Jay Fai (y tuve suerte).
+
+Entre las Similan y Phi Phi, para el mar ganan las Similan; para la vida de isla y las noches, Phi Phi. Eso sí, en los espectáculos de fuego no os pongáis demasiado cerca: hueles a queroseno hasta el día siguiente.
 
 ## Tag
 `#thailandia` `#bangkok` `#khaosok` `#krabi` `#kohphiphi` `#chiangmai`

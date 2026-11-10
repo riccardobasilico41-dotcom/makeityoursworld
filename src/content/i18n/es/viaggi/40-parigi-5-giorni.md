@@ -87,7 +87,7 @@ El menú de mediodía en los bistrós de barrio, los bouillons para la cocina cl
 - **Un gran museo al día**, nunca dos.
 
 ## Chiusura personale
-Lo que queda de París no son los dos primeros días en los sitios ya conocidos antes de salir: es el tercero, cuando se sale de un museo cansado y se toma una dirección al azar en lugar de hacia el monumento siguiente, y se acaba en un barrio sin nada que ver en la lista, donde la gente está sentada en los bordes del canal y nadie fotografía nada.
+Cinco días bastan para las cosas grandes, siempre que nunca se pongan dos grandes museos el mismo día y se deje el tercero a los barrios que no salen en las postales.
 
 ## Tag
 `#parigi` `#francia` `#louvre` `#versailles` `#montmartre` `#cittadarte`

@@ -113,9 +113,7 @@ La última noche la cerramos con un aperitivo turinés hecho como se debe y una 
 - **Comprobar las fechas de las exposiciones y de los cierres** de los Museos Reales, que tienen calendarios propios.
 
 ## Chiusura personale
-Lo que queda de Turín es una cuestión de desproporción. Se entra en un museo que por fuera es un palacio de calle como tantos, en una ciudad que en el imaginario colectivo se asocia a las fábricas, y dentro está Egipto: no una sección, no una colección de curiosidades decimonónicas, sino la segunda colección egipcia del mundo, con una tumba intacta dentro de la cual está el pan que dos personas dejaron allí hace tres mil quinientos años.
-
-Luego se sale, se camina bajo un soportal veinte minutos sin ver nunca el cielo, se llega a una plaza barroca y al fondo de la calle, si el día acompaña, están los Alpes con nieve. Turín es toda así: no anuncia nada, no se pone en el escaparate, y cada vez que se dobla una esquina hay algo que no tiene sentido encontrar allí. Es el motivo por el que quien va dos días vuelve.
+Dos días en Turín: el primero en el Museo Egipcio, con el bicerin en un café histórico y el Quadrilatero Romano al final de la tarde; el segundo en la Mole, y luego el río y la colina.
 
 ## Tag
 `#torino` `#italia` `#museoegizio` `#mole` `#piemonte` `#barocco` `#langhe` `#cittadarte`

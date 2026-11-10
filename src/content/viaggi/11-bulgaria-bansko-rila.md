@@ -93,7 +93,7 @@ Mehane del centro storico di Bansko, tra kapama, banitsa e shopska salata, sempr
 - Il Monastero di Rila si incastra bene nel tragitto di rientro verso Sofia: non serve dedicargli una giornata a parte.
 
 ## Chiusura personale
-Un viaggio che non punta tutto sullo sci (le piste sono piacevoli ma oneste, senza il fascino delle grandi stazioni alpine) e che invece funziona benissimo come parentesi esotica ed economica fuori dal solito giro. Il Monastero di Rila, con i suoi affreschi e il silenzio della montagna intorno, resta il ricordo più vivido di tutto il viaggio.
+Dallo sci non mi aspettavo grandi cose, e così è stato: piste carine, ben tenute, niente di esagerato rispetto alle Alpi. Ma in Bulgaria non ci vai per lo sci in sé: ci vai per l'esperienza un po' esotica di sciare in un angolo d'Europa fuori dal solito giro, spendendo poco. Il finale a sorpresa è stato il Monastero di Rila, sulla strada del ritorno verso Sofia.
 
 ## Foto/media
 - [ ] foto delle piste di Bansko e vista dal Todorka Peak

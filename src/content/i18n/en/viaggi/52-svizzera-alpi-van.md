@@ -9,9 +9,9 @@
 ---
 
 ## Apertura personale
-Switzerland is not a country you visit to save money, and it is better to say so before the first line of the itinerary: it is consistently among the most expensive nations in Europe, and anyone arriving with Italian or French prices in mind finds a daily budget double or triple what they expected. It isn't a footnote detail: it is the premise of this guide, which is why below the costs are not just one chapter among others but the first thing explained at length, even before the zones.
+Switzerland is not a country you visit to save money, and it is better to say so before the first line of the itinerary: it is consistently among the most expensive nations in Europe, and anyone arriving with Italian or French prices in mind finds a daily budget double or triple what they expected. That's why the costs come first below, even before the zones.
 
-That said, the Interlaken-Jungfrau region, in the Bernese Alps, remains one of the densest stretches of mountains in Europe: two turquoise lakes, a valley of seventy-two waterfalls closed in by vertical walls, a train that climbs to 3,454 meters inside the mountain, and, for those with a week, a road of Alpine passes that reaches the foot of the Matterhorn. It is also a country made for the van: impeccable roads, short distances, scenery that changes every hour of driving. The van, however, has stricter rules in Switzerland than in the neighboring Alpine countries, and it is the second topic this guide covers at length, because it is the most common source of fines and misunderstandings for those arriving from Italy or France used to a margin of tolerance that doesn't exist here.
+That said, the Interlaken-Jungfrau region, in the Bernese Alps, remains one of the densest stretches of mountains in Europe: two turquoise lakes, a valley of seventy-two waterfalls closed in by vertical walls, a train that climbs to 3,454 meters inside the mountain, and, for those with a week, a road of Alpine passes that reaches the foot of the Matterhorn. It is also a country made for the van: impeccable roads, short distances, scenery that changes every hour of driving. The van, however, has stricter rules in Switzerland than in the neighboring Alpine countries: it is the most common source of fines and misunderstandings for those arriving from Italy or France used to a margin of tolerance that doesn't exist here.
 
 ## Scheda pratica
 - **When to go:** June to September, with July-August as the most reliable window for the Alpine passes
@@ -119,7 +119,7 @@ The cuisine of the Bernese Alps is Swiss-German mountain food: **rösti** (the g
 - **Work out the daily budget before leaving, not on the spot**: between vignette, fuel, campsites and even just a couple of ascents, Switzerland always costs more than it seems looking at the prices of neighboring countries.
 
 ## Chiusura personale
-What remains of a van trip between Interlaken and Zermatt is not the single view, even though the Matterhorn from Zermatt's main street or the Eiger from the Bachalpsee remain images that few other places in the world offer. It is the contrast between two things that are both true: on one side a Switzerland that makes you pay for every cable car, every car park, every night like few other Alpine countries, and that regulates van camping with a rigor that surprises those arriving from the south; on the other a network of trains, cable cars and mountain roads so efficient that it makes easy what elsewhere would take twice the time. Those who accept the first (planning the budget and the nights before leaving, not along the road) find in the second one of the most comfortable ways there are to see the Alps up close without ever leaving your vehicle for more than a night.
+Our van trip went around Interlaken and its two lakes, Lauterbrunnen, Grindelwald and the Jungfrau, then over the Grimsel and Furka passes to Zermatt, at the foot of the Matterhorn.
 
 ## Tag
 `#svizzera` `#alpibernesi` `#interlaken` `#jungfrau` `#vanlife` `#roadtrip` `#montagna` `#cervino`

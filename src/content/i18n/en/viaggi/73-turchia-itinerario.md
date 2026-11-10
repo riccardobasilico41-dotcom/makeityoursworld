@@ -217,7 +217,7 @@ Order of magnitude: **€2,000-3,000 per person** for two, international flights
 - **Book the coast in advance in July and August**, when Kaş and Ölüdeniz are full.
 
 ## Chiusura personale
-Sixteen days in Turkey line up four different trips: the big city, the lunar plateau, the ancient cities of the Aegean and the sea. The sequence has a rhythm that grows toward calm: from the trams and ferries of Istanbul to the wake-ups for the balloons, all the way to the days by boat between Kaş and Kekova. It's a good first trip to the country, and it leaves a lot to see for a second.
+Sixteen days from Istanbul to Antalya: the city, Cappadocia, the ancient cities of the Aegean and, at the end, the sea between Kaş and Kekova. It works well as a first trip to Turkey, and leaves a lot to see for a second one.
 
 ## Tag
 `#turchia` `#istanbul` `#cappadocia` `#mongolfiera` `#pamukkale` `#efeso` `#fethiye` `#kas` `#costalicia` `#antalya` `#roadtrip`

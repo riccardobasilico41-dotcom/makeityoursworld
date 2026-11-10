@@ -83,7 +83,7 @@ Il **pastel de nata** alla Pastéis de Belém e nelle pasticcerie di quartiere; 
 - **Portare un ombrello leggero fuori stagione**: novembre-marzo è mite ma piovoso.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto tra il ritmo lento delle salite e dei miradouros in città e la corsa contro l'orologio per arrivare tra i primi al Palácio da Pena: due velocità diverse nello stesso weekend, che raccontano bene la doppia natura di questa meta (città da vivere piano, gita fuori porta da affrontare con metodo).
+Lisbona per me si vive in salita, tra colline, tram e miradouros. Quattro giorni bastano per Alfama, Belém e Baixa-Chiado, più una giornata intera per Sintra, la gita più bella dei dintorni e anche la più affollata.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi, orari e regole di prenotazione — soprattutto quelli di Sintra — cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

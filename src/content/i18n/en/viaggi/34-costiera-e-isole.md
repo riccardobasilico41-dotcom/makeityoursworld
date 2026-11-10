@@ -187,9 +187,7 @@ In the afternoon we returned to Naples.
 - **Factor in the steps.** It's not a flat beach vacation: it's a vertical coast.
 
 ## Chiusura personale
-What stays with you from this coast isn't Positano from the water, as much as it looks exactly like the photographs. It's the moment, on the Path of the Gods, when you stop on an exposed stretch five hundred meters above the sea and look down: below are the terraces, one above the other, for hundreds of meters of drop, held up by dry-stone walls built stone upon stone. On those two-meter-wide patches of earth there are lemons and vines. No machine could ever get up there; everything you see was carried on shoulders.
-
-Then you lower your gaze a few degrees and there's the state road, with its line of stopped cars, and buses passing each other with mirrors folded in. The two things are two hundred meters of elevation apart and don't talk to each other. The Coast is a World Heritage site for the one above, and it is visited almost entirely from the one below: which is, all things considered, good news for anyone who decides to climb.
+Of the steps from Nocelle down to Positano, more than 1,700, your legs still remember them the next day. For me the Coast is done like this: no car, everything by ferry, and climbing up to the paths above the road, where there's nobody. The islands aren't interchangeable, and doing two well is better than rushing three.
 
 ## Tag
 `#costieraamalfitana` `#capri` `#ischia` `#procida` `#italia` `#campania` `#sentierodeglidei` `#isole`

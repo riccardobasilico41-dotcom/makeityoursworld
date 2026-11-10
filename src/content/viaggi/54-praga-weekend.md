@@ -97,7 +97,7 @@ Gli **hospoda** di quartiere, fuori dal centro più turistico, per lo svíčkov�
 - **Vestirsi a strati**, soprattutto in inverno: il freddo a Praga è pungente, ma con l'abbigliamento giusto si gestisce.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto tra i due volti della città: la piazza medievale con l'orologio che scandisce ogni ora davanti a migliaia di persone e, a pochi minuti di tram, le mura silenziose di Vyšehrad, dove la stessa città si racconta con molta meno gente intorno. Praga è entrambe le cose insieme, ed è la ragione per cui un weekend qui vale la fama che si porta dietro.
+Per me tre o quattro giorni bastano per la Praga essenziale: la Città Vecchia, il Ponte Carlo con Malá Strana e il Castello, Josefov, e Vyšehrad quando la folla del centro comincia a pesare. Più che una lista di monumenti, conviene arrivare preparati su due cose: la valuta non è l'euro, e intorno alla piazza principale girano i conti gonfiati.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi dei biglietti, orari stagionali e regole di prenotazione (soprattutto quelle di Josefov) cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

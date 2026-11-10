@@ -174,7 +174,7 @@ Chi preferisce restare in città può passare dal **mercato di Dongmun**, a Jeju
 - **Evitare Seollal e Chuseok.** In quei giorni il paese si sposta in massa e mezza Corea è chiusa.
 
 ## Chiusura personale
-Quello che resta di questo viaggio non è la lista dei templi. Sono due immagini agli antipodi del paese. La prima è una stazione ferroviaria nuova e lucida a quaranta chilometri da Seoul, con i tabelloni delle partenze accesi e il personale in servizio, che dal 2002 aspetta un treno per Pyongyang: la guerra che non è finita non si vede in una trincea, si vede lì. La seconda è un molo su una costa fredda e ventosa, e un fischio lungo che arriva dall'acqua prima di qualunque cosa visibile: il sumbisori di una donna di settantacinque anni che riemerge con la rete piena, come fa da sessant'anni, in un mestiere che era di quattromilacinquecento persone dieci anni fa e oggi ne conta circa duemilaseicento. Due cose che stanno finendo in modi diversi, e che sono la ragione per cui vale la pena venire adesso e non fra vent'anni.
+Della Corea mi porto dietro soprattutto le due cose attorno a cui ho costruito il giro: la DMZ all'inizio, con una guerra che non è mai stata chiusa da un trattato di pace, e le haenyeo di Jeju alla fine. In mezzo, un paese dove tutto funziona e muoversi è facilissimo.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. Tre cose vanno però riverificate prima di partire, perché cambiano: l'esenzione dal K-ETA (prorogata anno per anno, oggi valida fino al 31 dicembre 2026), l'accesso civile alla JSA di Panmunjom (sospeso e riaperto più volte dal 2023) e il numero delle haenyeo, che cala ogni anno.

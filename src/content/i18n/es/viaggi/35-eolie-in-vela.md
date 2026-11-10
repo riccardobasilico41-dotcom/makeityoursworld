@@ -174,9 +174,7 @@ El archipiélago se hace muy bien también en ferri, con otra lógica: **se elig
 - **Reservar las bodegas de Salina**, que no son tiendas.
 
 ## Chiusura personale
-Lo que queda no es un panorama: es un ruido. Se está fondeado bajo la costa en Stromboli, de noche, con las luces apagadas y el motor parado, y no se ve nada salvo el perfil negro del volcán contra un cielo ligeramente menos negro. Luego hay un golpe sordo, que se siente en el casco antes que en los oídos, y en el borde del cráter se enciende una luz anaranjada. Unos segundos después empiezan a bajar los bloques incandescentes por el canalón, que ruedan durante cientos de metros hasta el mar y se apagan uno a uno con un siseo.
-
-Luego vuelve el silencio, y al cabo de unos minutos vuelve a empezar. Y lo que impresiona, sentado en la bañera mirándolo, es que esto sucede **así, a ese ritmo, desde antes de que hubiera griegos**: los antiguos lo llamaban el faro del Mediterráneo y navegaban por encima, y hay quinientas personas que viven a sus pies, compran el pan, mandan a los hijos a la escuela, y sobre sus cabezas el volcán explota cada cinco minutos desde hace dos mil años. Nadie ha decidido nunca nada al respecto. Simplemente es así, y la gente se ha acostumbrado.
+En barco, la razón para hacer esta ruta sigue siendo la Sciara del Fuoco de Stromboli vista desde el mar, de noche. El resto lo decide el viento.
 
 ## Tag
 `#eolie` `#vela` `#stromboli` `#lipari` `#salina` `#panarea` `#alicudi` `#sicilia` `#italia`

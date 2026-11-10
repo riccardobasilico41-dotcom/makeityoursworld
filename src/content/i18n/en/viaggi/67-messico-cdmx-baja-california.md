@@ -207,7 +207,7 @@ Per person, sharing a double room and splitting the car between two, intercontin
 - **Individual items:** Teotihuacán and the Anthropology Museum about 210 MXN each for foreigners; Mexico City-La Paz flight roughly 1,500-3,500 MXN; rental car with mandatory insurance 900-1,800 MXN a day; whale shark 1,500-2,500 MXN plus a 215 MXN wristband; Espíritu Santo 2,500-3,500 MXN; panga for the gray whales about 1,500-2,000 MXN an hour per boat; blue whale from 3,000 MXN; humpbacks at Cabo 1,400-2,200 MXN (80-130 dollars); Balandra 120 MXN.
 
 ## Chiusura personale
-The two halves of this trip balance each other. Mexico City is dense, loud and full of history, and demands attention for every day you give it; Baja California Sur is empty and quiet, with few roads and many miles, and gives its best when you let it move at the pace of the wind and the animals. The timing is fixed: outside February and March you can still make the trip, but it becomes a different trip. It suits people who want to put together a great capital and one of the most life-filled seas on the planet, and who accept driving and booking the boat trips with days to spare.
+First five days in Mexico City, with our first tacos al pastor in the evening at Parque México, the Zócalo, Teotihuacán and the trajineras of Xochimilco. Then by car from La Paz to Cabo San Lucas: Espíritu Santo with the sea lions of Los Islotes, the gray whales in Bahía Magdalena, Loreto, Todos Santos and the boat out to El Arco.
 
 ## Tag
 `#messico` `#cittadelmessico` `#bajacalifornia` `#lapaz` `#squaloballena` `#balenegrigie` `#loreto` `#todossantos` `#loscabos` `#roadtrip` `#natura` `#nordamerica`

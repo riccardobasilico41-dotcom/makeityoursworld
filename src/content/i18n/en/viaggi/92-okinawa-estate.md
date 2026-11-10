@@ -13,8 +13,6 @@ Okinawa is the Japan you don't expect. Tropical sea, coral reef, mangroves, and 
 
 This trip is built for summer, when the sea is at its best. It starts on the main island, between Naha, the Churaumi aquarium and the Yanbaru forest. Then two nights in the Kerama Islands, an hour by boat from Naha. Then Miyako, with the whitest beaches in the archipelago, and finally Ishigaki with the Yaeyama Islands: the jungle of Iriomote and the village of Taketomi.
 
-Like every trip on this site, it's rooted in places I've personally visited and experiences I've actually lived, put together into one practical route.
-
 ## Scheda pratica
 - **When to go:** the rainy season in Okinawa starts on average around May 10 and ends around June 21 (JMA 1991-2020 average). In 2026 it ran from about May 4 to June 29. The weeks right after, late June to mid-July, are usually the most stable. Then the typhoons arrive: on average 1.5 approach Okinawa and Amami in July, 2.3 in August, 2.0 in September, 1.1 in October. In August and September the trip works, but with spare days.
 - **Typhoons:** when one arrives, ferries and flights can stop, even for a few days. Spend the last night near the airport you leave from, get insurance that covers delays, make bookings you can change. The official forecasts are on the JMA website.
@@ -144,7 +142,7 @@ If your flight is in the afternoon, you can spend the morning at the market in c
 - **Driving license:** to rent a car you need an international driving permit together with your Italian license.
 
 ## Chiusura personale
-Okinawa in summer asks for just one thing: flexibility. The best sea comes right in the typhoon months, and a trip among the islands lives on ferries and small flights. With a few spare days and a plan that shifts without drama, you come home with the most unexpected Japan: turtles, mangroves, coral villages, and a kingdom few people in Europe know about.
+Okinawa is the Japan you don't expect: tropical sea, coral reef, mangroves and the culture of a kingdom that for centuries stood on its own. It's a trip for the summer, when the sea is at its best.
 
 ## Tag
 `#giappone` `#okinawa` `#mare` `#snorkeling` `#kerama` `#zamami` `#miyako` `#ishigaki` `#iriomote` `#taketomi` `#ryukyu` `#estate` `#asia`

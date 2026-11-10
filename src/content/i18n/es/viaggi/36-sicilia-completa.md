@@ -265,9 +265,7 @@ Está el **mercado de la Pescheria**, en una plaza detrás de la Catedral, uno d
 - **Cuidado con las ZTL** de los cascos históricos y con los aparcacoches ilegales en las ciudades grandes.
 
 ## Chiusura personale
-Lo que queda de la Sicilia entera, hecha toda y en el orden correcto, no es un lugar concreto: es la sensación de haber atravesado varios países sin coger nunca un avión. En Palermo se entra en una capilla donde un rey normando puso a mosaiquistas bizantinos a trabajar bajo un techo construido por artesanos árabes, y mandó escribir en tres alfabetos en las lápidas de su palacio. Cuatro días después se está en un islote en una laguna donde los fenicios comerciaban tres siglos antes de que llegaran los griegos. Dos días después se camina entre los tambores de una columna dejada a medias en el 409 a. C. porque ese día llegaron los cartagineses. Luego está la Roma imperial de los mosaicos de Piazza Armerina, el barroco español de Noto, y al final un volcán activo en el que la gente planta viñas porque el suelo es el mejor que hay.
-
-No es estratificación: es **acumulación sin borrado**. Sicilia no ha tirado nunca nada de lo que le ha pasado por encima, y diecisiete días sirven exactamente para esto: para entender que la isla no es una región italiana con unas ruinas dentro, sino el lugar en el que el Mediterráneo ha depositado todo lo que tenía, una capa cada vez, sin hacer nunca limpieza.
+Sicilia entera se puede hacer, pero solo si le das el tiempo que pide: un anillo de Palermo a Catania, con los tiempos de los mapas alargados un tercio y sin saltarse el interior, que es donde la isla es más ella misma. Y no en julio ni en agosto.
 
 ## Tag
 `#sicilia` `#italia` `#palermo` `#arabonormanno` `#magnagrecia` `#valdinoto` `#etna` `#selinunte` `#archeologia`

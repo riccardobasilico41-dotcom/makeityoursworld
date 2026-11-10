@@ -137,9 +137,7 @@ Train to **Stresa**, about an hour and a half, and a boat to the islands: **Isol
 - **Don't do Como city** if you only have one day: the lake is seen much better from Varenna.
 
 ## Chiusura personale
-What stays with me about Milan isn't the Duomo, and it's almost embarrassing to admit. It's the afternoon when, by chance or because someone suggested it, you push open the door of San Maurizio on Corso Magenta (a flat, anonymous facade, on a street where the trams run) and inside is a church painted entirely, from floor to ceiling, without a single free wall. There's no line, no ticket office, hardly anyone. You sit for ten minutes and look at the dividing wall that separated the cloistered nuns from the rest of the world, with the grille through which they followed Mass, and then you go out and take the tram again.
-
-Milan works like that: it doesn't put anything on display, it doesn't explain what it has, and it lets the best things be found by whoever walks past. It's a city to be courted rather than visited, and that's why someone who spent two days there judges it badly and someone who lived there two years never speaks ill of it again.
+Milan is home for me, so everything has a different flavor. As for the lakes, Como is beautiful but touristy, and the Borromean Islands are a surprise if you don't know them, because they're super well kept.
 
 ## Tag
 `#milano` `#italia` `#lagodicomo` `#varenna` `#bergamo` `#cenacolo` `#design` `#artecontemporanea`

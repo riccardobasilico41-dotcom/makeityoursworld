@@ -138,9 +138,7 @@ With 3-4 more days you can add the Draa valley, Agadir and Essaouira, as in the 
 - **Change back dirhams before the flight, with the receipts.** They can't be taken out of Morocco.
 
 ## Chiusura personale
-This is the Morocco of the cities, the one people usually see less on their first trips, when everyone heads for Marrakech and the desert. Eleven days are enough for Chefchaouen, Fez, Meknes with Volubilis, Rabat and Casablanca, all by road. With two weeks you can join it with the southern itinerary, and head down from Fez to the Erg Chebbi dunes.
-
-*The desert stops in the combined version come from the other itinerary, from Marrakech to the Sahara. Practical information comes from official and reference sources: the Hassan II Mosque Foundation (times and tickets), the travel advice of Viaggiare Sicuri and the UK government, and encyclopedia entries on the UNESCO sites, checked in November 2026. Distances and driving times are calculated with OSRM on the road route, without stops. Bus times on ctm.ma. Times, prices and rules change: check them again before leaving.*
+This was my northern Morocco: Chefchaouen, Fez, Meknes with Volubilis, Rabat and Casablanca, eleven days all by road. I prefer it that way, because you stop wherever you want. The south, from Marrakech to the dunes of Erg Chebbi, is the other trip.
 
 ## Tag
 `#marocco` `#cittaimperiali` `#fes` `#meknes` `#volubilis` `#rabat` `#chefchaouen` `#cittablu` `#casablanca` `#tangeri` `#ontheroad` `#medina`

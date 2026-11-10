@@ -223,7 +223,7 @@ La mañana queda libre para las últimas compras: sirope de arce, quesos de Qué
 
 ## Extensión — Churchill (Manitoba) y los osos polares (3-5 días)
 
-> **Esta parte no la hice yo, me la contaron unos amigos: dicen que, a pesar del precio, es preciosa.** La información de abajo es de guía, comprobada en octubre de 2026, no un recuerdo de viaje.
+> **Esta parte no la hice yo, me la contaron unos amigos: dicen que, a pesar del precio, es preciosa.**
 
 **Churchill** es un pueblo de menos de mil habitantes a orillas de la **bahía de Hudson**, en el norte de Manitoba. Entre **mediados de octubre y mediados de noviembre** los osos polares se reúnen en la costa esperando a que la bahía se hiele, para volver a cazar focas sobre el hielo marino. Es uno de los pocos lugares del mundo donde se pueden ver de cerca sin una expedición ártica.
 
@@ -281,7 +281,7 @@ Precios comprobados en octubre de 2026, por persona; los impuestos se añaden ca
 - **Para Churchill, reservar con muchos meses de antelación** alojamiento y salidas: las semanas de los osos son pocas.
 
 ## Chiusura personale
-El este de Canadá en coche se conduce sin esfuerzo: las carreteras son en general buenas y el recorrido sigue el lago Ontario y luego el San Lorenzo hasta Tadoussac, con dos desvíos hacia Ottawa y los Laurentides. De nuestra experiencia quedan dos consejos: una pick-up grande es cómoda para un recorrido así, y en las cataratas, si solo se puede hacer una cosa, conviene el barco.
+El este de Canadá lo recorrimos con una pick-up bien grande, y para una ruta así fue la manera más cómoda: las carreteras nos parecieron en general buenas. En el Niágara hicimos también el helicóptero, muy bonito y espectacular, pero si solo puedes hacer una cosa, coge el barco: las cataratas vistas desde abajo impresionan más.
 
 ## Tag
 `#canada` `#roadtrip` `#toronto` `#niagara` `#ottawa` `#montreal` `#quebec` `#tadoussac` `#balene` `#churchill` `#orsipolari` `#pickup`

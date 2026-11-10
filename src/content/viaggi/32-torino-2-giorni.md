@@ -113,9 +113,7 @@ L'ultima sera l'abbiamo chiusa con un aperitivo torinese fatto come si deve e un
 - **Controllare le date delle ostensioni e delle chiusure** dei Musei Reali, che hanno calendari propri.
 
 ## Chiusura personale
-La cosa che resta di Torino è una questione di sproporzione. Si entra in un museo che dall'esterno è un palazzo di via come tanti, in una città che nell'immaginario collettivo è associata alle fabbriche, e dentro c'è l'Egitto: non una sezione, non una raccolta di curiosità ottocentesche, ma la seconda collezione egizia del mondo, con una tomba intatta dentro cui c'è il pane che due persone hanno lasciato lì tremilacinquecento anni fa.
-
-Poi si esce, si cammina sotto un portico per venti minuti senza mai vedere il cielo, si arriva in una piazza barocca e in fondo alla via, se la giornata è giusta, ci sono le Alpi con la neve. Torino è tutta così: non annuncia niente, non si mette in vetrina, e ogni volta che si gira un angolo c'è una cosa che non ha senso trovare lì. È il motivo per cui chi ci va due giorni ci torna.
+Due giorni a Torino: il primo al Museo Egizio, con il bicerin in un caffè storico e il Quadrilatero Romano a fine pomeriggio; il secondo alla Mole, poi il fiume e la collina.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Gli allestimenti del Museo Egizio sono stati rinnovati più volte negli ultimi anni**, le formule della Torino+Piemonte Card cambiano, e gli orari di Superga, della funicolare e della Reggia di Venaria variano con la stagione. Vanno riverificati.

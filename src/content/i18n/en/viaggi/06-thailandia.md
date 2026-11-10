@@ -408,7 +408,9 @@ became over the years one of the largest beach parties in the world: between
   back and forth from Samui.
 
 ## Chiusura personale
-It's hard to close the story of a country visited so many times and in such different ways, but if I have to choose the moments I take home they are the sunset cruise on Cheow Lan Lake in Khao Sok, among limestone towers that look like a small Guilin, and Bangkok's street food, always different and always living up to its fame. Between the Similan Islands and Koh Phi Phi the sea of the former clearly wins, but if I'm after island life and evenings out I always choose Phi Phi. I always happily return to Thailand, and it is perhaps the only country of which I can say with certainty that I will go back again.
+I've seen Bangkok many times, and it's still incredible: a mix of contrasts. From the main loop I take home the sunset cruise on Cheow Lan Lake, in Khao Sok, and Bangkok's street food, with the hour and a half queuing at Jay Fai (and I got off lightly).
+
+Between the Similans and Phi Phi, the Similans win for the sea; for island life and nights out, Phi Phi. Just don't stand too close at the fire shows: you smell of kerosene the next day too.
 
 ## Tag
 `#thailandia` `#bangkok` `#khaosok` `#krabi` `#kohphiphi` `#chiangmai`

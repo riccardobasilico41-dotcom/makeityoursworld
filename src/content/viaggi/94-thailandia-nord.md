@@ -11,8 +11,6 @@
 ## Apertura personale
 Il viaggio classico in Thailandia è quello al mare, e sul sito c'è già: [da Bangkok al mare del sud](/viaggi/thailandia). Questo è l'altro, quello del nord. Montagne, templi di legno, mercati serali e un ritmo più lento. A Chiang Mai ci sono stato in un viaggio a parte, e il contrasto con Bangkok e il sud si sente dal primo giorno. La mattinata con gli elefanti dell'Elephant Nature Park, senza mai cavalcarli, resta uno dei miei ricordi più belli della Thailandia.
 
-Per Pai, Chiang Rai e il Triangolo d'oro qui trovi soprattutto le informazioni pratiche, verificate su fonti ufficiali.
-
 Il giro sale da Bangkok con il treno notturno, si ferma quasi una settimana a Chiang Mai, passa da Pai e chiude a Chiang Rai e al confine sul Mekong. C'è anche una sezione lunga sugli elefanti: come vederli senza fare del male, e come riconoscere un posto serio.
 
 ## Scheda pratica
@@ -171,9 +169,10 @@ Il clima del Golfo di Thailandia, con Koh Samui, Koh Phangan e Koh Tao, ha stagi
 - **Portare un maglione.** Sul Doi Inthanon e a Pai, la mattina presto, fa freddo davvero.
 
 ## Chiusura personale
-Di Chiang Mai mi è rimasto il ritmo, più lento del resto del paese, e la mattinata con gli elefanti senza mai cavalcarli. Chi parte oggi ha un compito in più: scegliere il centro guardando cosa succede agli animali quando i turisti se ne vanno.
+Di Chiang Mai mi è rimasto il ritmo, più lento del resto del paese, e la mattinata con gli elefanti dell'Elephant Nature Park, senza mai cavalcarli: uno dei miei ricordi più belli della Thailandia.
 
-*Il viaggio nasce da luoghi che Rick ha visitato personalmente; Chiang Mai e l'Elephant Nature Park sono di un viaggio separato dal giro al mare. Per le altre tappe il testo resta sulle informazioni pratiche. Fonti: governo britannico (gov.uk), Seat61 per il treno, i siti dell'Elephant Nature Park e della Save Elephant Foundation, World Animal Protection e ABTA per gli elefanti, verificati a novembre 2026. Prezzi, orari e regole cambiano: vanno ricontrollati prima di partire.*
+## Nota su questa bozza
+Testo di provenienza e fonti tolto dalla chiusura (10/11/2026): Il viaggio nasce da luoghi che Rick ha visitato personalmente; Chiang Mai e l'Elephant Nature Park sono di un viaggio separato dal giro al mare. Per le altre tappe il testo resta sulle informazioni pratiche. Fonti: governo britannico (gov.uk), Seat61 per il treno, i siti dell'Elephant Nature Park e della Save Elephant Foundation, World Animal Protection e ABTA per gli elefanti, verificati a novembre 2026. Prezzi, orari e regole cambiano: vanno ricontrollati prima di partire.
 
 ## Tag
 `#thailandia` `#thailandianord` `#chiangmai` `#chiangrai` `#pai` `#triangolodoro` `#maehongson` `#elefantietici` `#trenonotturno` `#templi` `#asia`

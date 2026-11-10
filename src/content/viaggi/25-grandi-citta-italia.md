@@ -197,7 +197,9 @@ Pompei si raggiunge con la **Circumvesuviana** da Napoli, fermata Pompei Scavi, 
 - **Controllare i giorni di chiusura**, diversi per ogni museo: sono l'errore di programmazione più frequente.
 
 ## Chiusura personale
-La cosa che resta, dopo dodici giorni in quattro città che si credeva di conoscere, è che il valore sta quasi sempre dove non c'è la fila. A quattrocento metri dal Colosseo si scende in una basilica del quarto secolo e poi in un tempio di Mitra del primo, e ci sono sei persone. A cento metri dal Piazzale Michelangelo c'è una chiesa del Mille dove nel pomeriggio i monaci cantano in gregoriano, e non c'è nessuno. A quaranta minuti di vaporetto da San Marco c'è la basilica in cui Venezia è cominciata, con un Giudizio Universale a mosaico grande quanto una parete, e ci sono venti persone. Non è una ricerca dell'esclusivo: è che questo paese ha una quantità di roba talmente sproporzionata rispetto ai flussi turistici che basta spostarsi di trecento metri, o di un'ora, per trovarsi quasi da soli davanti a qualcosa che altrove sarebbe il monumento nazionale.
+A Roma mi piace la Gattabuia, a Trastevere, che è un'ex galera. I posti con il menù in inglese o il buttadentro di solito sono meh: meglio spostarsi un attimo fuori dal centro. A Firenze la cupola di Brunelleschi è stretta, ma merita, e la bistecca è incredibile; il lampredotto invece non mi fa impazzire.
+
+Venezia è bella tutta, cavolo. E tra Pompei ed Ercolano, Pompei è più bella, ma a Ercolano c'è meno gente: valutate voi.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Contingentamenti, biglietti nominativi e il contributo di accesso di Venezia cambiano ogni anno** e vanno riverificati sui canali ufficiali prima di partire.

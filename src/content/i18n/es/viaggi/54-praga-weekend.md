@@ -97,7 +97,7 @@ Las **hospodas** de barrio, fuera del centro más turístico, para el svíčkov�
 - **Vestirse por capas**, sobre todo en invierno: el frío en Praga es punzante, pero con la ropa adecuada se maneja.
 
 ## Chiusura personale
-Lo que me queda es el contraste entre los dos rostros de la ciudad: la plaza medieval con el reloj que marca cada hora ante miles de personas y, a pocos minutos de tranvía, las murallas silenciosas de Vyšehrad, donde la misma ciudad se cuenta con mucha menos gente alrededor. Praga es las dos cosas a la vez, y es la razón por la que un fin de semana aquí está a la altura de la fama que arrastra.
+Para mí tres o cuatro días bastan para la Praga esencial: la Ciudad Vieja, el Puente de Carlos con Malá Strana y el Castillo, Josefov, y Vyšehrad cuando la gente del centro empieza a pesar. Más que una lista de monumentos, conviene llegar preparado en dos cosas: la moneda no es el euro, y alrededor de la plaza principal circulan las cuentas infladas.
 
 ## Tag
 `#praga` `#repubblicaceca` `#cechia` `#josefov` `#malastrana` `#vysehrad` `#castellodipraga` `#cittadarte`

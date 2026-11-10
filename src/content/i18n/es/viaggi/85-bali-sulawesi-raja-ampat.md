@@ -17,8 +17,6 @@ Doce días son pocos para tres islas, y lo digo de entrada: cada isla merece al 
 
 Fuimos en agosto, que en todas las guías aparece como la temporada equivocada para Raja Ampat. En parte lo es, pero de una forma distinta de la que se espera: el mar estuvo espectacular igualmente, diez días sin ver una gota de lluvia. El viento, en cambio, se hizo notar, y alargó un par de traslados entre las islas.
 
-Este itinerario combina varios viajes en una sola ruta práctica: lugares que he visitado personalmente en momentos distintos, ordenados para descubrir lo mejor de cada destino.
-
 ## Scheda pratica
 - **Cuándo ir:** en Bali la estación seca va de abril a octubre, en Célebes de mayo a octubre. En Raja Ampat la mejor ventana es octubre-abril, con el mar más tranquilo y más mantas y grandes pelágicos. De mayo a septiembre soplan los vientos del sureste: los traslados pueden alargarse y las salidas a las zonas expuestas pueden anularse. El mes que pone de acuerdo a las tres es **octubre**. En verano también funciona, aceptando el viento.
 - **Documentos:** pasaporte con al menos 6 meses de validez, **e-VOA** online en evisa.imigrasi.go.id y **All Indonesia Arrival Card** antes de la entrada.
@@ -148,9 +146,12 @@ Tres islas en doce días se pueden hacer, pero cada isla merece al menos una sem
 - **Pagar la tasa de Bali online** antes de salir.
 
 ## Chiusura personale
-Doce días así son una muestra, y hay que tomarlos por lo que son. Bali hace de puerta de entrada. El norte de Célebes añade el bosque y las paredes de Bunaken. Raja Ampat cierra con el lugar más bonito que he visto bajo el agua. Con los arrecifes llenos de peces y poquísimos turistas más, también el verano fue para mí un compromiso del que no me arrepiento. Pero si puedes, elige una sola isla y dale la semana que merece.
+Raja Ampat es el lugar más bonito que he visto bajo el agua. Fui en agosto, que en todas las guías aparece como la temporada equivocada: el viento alargó un par de traslados, pero el mar estuvo espectacular y en diez días no vi ni una gota de lluvia. Con los arrecifes llenos de peces y poquísimos turistas, para mí fue un compromiso del que no me arrepiento.
 
-*De Rick vienen los recuerdos de Bali, de Bunaken y de Toraja, Tomohon y Tangkoko hechos con Wale Adventure, el viaje a Raja Ampat de agosto de 2026 con el viento y el mar sin lluvia, el consejo sobre los homestays y los contactos (Villa Jacques, Pande Wirta, Wale Adventure, Paparisa, Tanjung Mefiyai, Soul Scuba Divers). El resto viene de las fichas de destino de la web y de la investigación del 5 de noviembre de 2026: Wikivoyage y operadores para el ferri Sorong-Waisai, el permiso y las temporadas de Raja Ampat; las noticias sobre la ruta estacional de Garuda Denpasar-Sorong (octubre de 2026); la web de Wale Adventure para los tours por el norte de Célebes; Wikivoyage para la carretera Makassar-Toraja y los funerales; gov.uk para la seguridad en la región de Papúa. Vuelos, horarios y el importe del permiso de Raja Ampat hay que comprobarlos de nuevo antes de salir.*
+A Indonesia he vuelto por la gente, por los lugares y por las sonrisas. Doce días para tres islas son pocos: si puedes, elige una y dale la semana que se merece.
+
+## Nota su questa bozza
+De Rick vienen los recuerdos de Bali, de Bunaken y de Toraja, Tomohon y Tangkoko hechos con Wale Adventure, el viaje a Raja Ampat de agosto de 2026 con el viento y el mar sin lluvia, el consejo sobre los homestays y los contactos (Villa Jacques, Pande Wirta, Wale Adventure, Paparisa, Tanjung Mefiyai, Soul Scuba Divers). El resto viene de las fichas de destino de la web y de la investigación del 5 de noviembre de 2026: Wikivoyage y operadores para el ferri Sorong-Waisai, el permiso y las temporadas de Raja Ampat; las noticias sobre la ruta estacional de Garuda Denpasar-Sorong (octubre de 2026); la web de Wale Adventure para los tours por el norte de Célebes; Wikivoyage para la carretera Makassar-Toraja y los funerales; gov.uk para la seguridad en la región de Papúa. Vuelos, horarios y el importe del permiso de Raja Ampat hay que comprobarlos de nuevo antes de salir.
 
 ## Tag
 `#indonesia` `#bali` `#sulawesi` `#manado` `#bunaken` `#tangkoko` `#rajaampat` `#kri` `#piaynemo` `#snorkeling` `#immersioni` `#asia`

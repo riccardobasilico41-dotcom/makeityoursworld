@@ -218,7 +218,7 @@ Order of magnitude: **€1,100-1,700 per person** in pairs, flights excluded; pa
 - **Leave the drone at home:** without a permit it's confiscated on arrival.
 
 ## Chiusura personale
-The point of this circuit lies in the passage between the pyramids and the reef: a trip where the most tiring part comes first and the most relaxing last. In eleven days you see the three most famous places in the country without rushing, you stay at the sea long enough to enjoy it and you fly home on a direct flight. Anyone who realizes they want more (Aswan, Abu Simbel, the Nile by cruise and dives far from the coast) already has a base for the second trip.
+My advice is to do the sites at opening time, even in winter: at midday the groups arrive and the light goes flat. And agree every price beforehand, for camels, carriages, feluccas and taxis, making clear the currency, the duration and whether it's per person.
 
 ## Tag
 `#egitto` `#cairo` `#piramidi` `#giza` `#luxor` `#marsaalam` `#hurghada` `#marrosso` `#snorkeling` `#archeologia`

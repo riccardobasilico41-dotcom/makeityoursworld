@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Este itinerario nace de lugares que Rick ha visitado personalmente, reunidos en una ruta práctica para quien quiere el Taj Mahal y el sur de India en el mismo viaje. Para Benarés y Rajastán está el otro viaje a India: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
+Este es el viaje para quien quiere el Taj Mahal y el sur de India juntos. Para Benarés y Rajastán está el otro viaje a India: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
 
 Se empieza por el norte, porque la mayoría de quienes van a India por primera vez no quieren volver sin haber visto el Taj Mahal. Dos días en Delhi, entre la Vieja Delhi, la Tumba de Humayun y el Qutub Minar. Luego el tren rápido a Agra, el Fuerte, el atardecer desde Mehtab Bagh y el Taj al amanecer. Desde allí un vuelo lleva a Chennai, y empieza la otra India.
 
@@ -208,7 +208,7 @@ Precios por persona en habitación doble, vuelos intercontinentales excluidos (l
 - **Con mar (+2-3 días):** los acantilados de **Varkala** o la playa de **Marari**, cerca de Alleppey, para cerrar Kerala con unos días de descanso.
 - **Con Mysore y Coorg (+3 días):** desde Bangalore, el palacio de Mysore y las plantaciones de café de Coorg, en lugar de Hampi o además.
 - **Sin el norte:** quien ya ha visto Delhi y Agra llega directamente a Chennai y gana tres días para el sur.
-- **Con Rajastán:** quien quiera el norte entero encuentra Benarés y Rajastán, el viaje que hizo Rick, en *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
+- **Con Rajastán:** quien quiera el norte entero encuentra Benarés y Rajastán en *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
 
 ## Consejos prácticos / errores que no hay que repetir
 - **Comprobar los viernes:** el Taj Mahal cierra los viernes (si el Día 4 cae en viernes, el Taj se adelanta a la tarde del Día 3), y también el Palacio holandés y la sinagoga de Kochi; la sinagoga, también los sábados. El museo del té de Munnar cierra los lunes, y Eravikulam del 1 de febrero al 31 de marzo.
@@ -222,9 +222,7 @@ Precios por persona en habitación doble, vuelos intercontinentales excluidos (l
 - **Repelente en las backwaters**, sobre todo al atardecer.
 
 ## Chiusura personale
-Este viaje une dos Indias. La primera es la del norte: el ruido de Delhi, el mármol del Taj al amanecer, la multitud. La segunda es la del sur: el verde de los arrozales y de las colinas de té, el azul de los canales, el naranja de los templos al atardecer, el blanco del jazmín en el mercado de Madurai y, al final, el granito y el silencio de Hampi. Quien tenga diecisiete días y no quiera elegir entre el Taj y el sur encuentra aquí una manera de tener los dos.
-
-*Este itinerario nace de lugares que Rick ha visitado personalmente, reunidos en una ruta práctica. Las etapas del sur vienen de las guías de la web sobre el sur de India, los primeros días en Delhi y Agra de los itinerarios del norte, y toda la información práctica de portales oficiales del visado y de los ferrocarriles indios, webs de los monumentos, oficinas de turismo de Kerala y Tamil Nadu, Viaggiare Sicuri y guías recientes, verificada en octubre-noviembre de 2026. Benarés y Rajastán están en el otro viaje a India, en tren nocturno y con conductor. Horarios, precios y normas cambian: hay que volver a comprobarlos antes de salir.*
+Dos Indias en el mismo viaje: en el norte, Delhi y el Taj Mahal al amanecer; en el sur, los templos de Tamil Nadu, las colinas de té de Munnar, los backwaters de Kerala y, al final, el granito de Hampi.
 
 ## Tag
 `#india` `#delhi` `#agra` `#tajmahal` `#indiadelsud` `#tamilnadu` `#kerala` `#karnataka` `#mamallapuram` `#puducherry` `#madurai` `#munnar` `#backwaters` `#fortkochi` `#hampi` `#asia`

@@ -408,7 +408,9 @@ diventata negli anni una delle feste in spiaggia più grandi al mondo: tra
   avanti-indietro da Samui.
 
 ## Chiusura personale
-Difficile chiudere il racconto di un paese visitato tante volte e in modi così diversi, ma se devo scegliere i momenti che porto a casa sono la crociera al tramonto sul lago Cheow Lan a Khao Sok, tra torri calcaree che sembrano una piccola Guilin, e lo street food di Bangkok, sempre diverso e sempre all'altezza della fama. Tra le Similan e Koh Phi Phi vince nettamente il mare delle prime, ma se cerco vita da isola e serate scelgo sempre Phi Phi. Alla Thailandia torno sempre volentieri, ed è forse l'unico paese di cui posso dire con certezza che ci tornerò ancora.
+Bangkok l'ho vista tante volte, e resta incredibile: un mix di contrasti. Del giro principale mi porto via la crociera al tramonto sul lago Cheow Lan, a Khao Sok, e lo street food di Bangkok, con l'ora e mezza di coda da Jay Fai (e mi è andata bene).
+
+Tra le Similan e Phi Phi, per il mare vincono le Similan; per la vita da isola e le serate, Phi Phi. Solo, agli spettacoli col fuoco non state troppo vicini: puzzi di cherosene anche il giorno dopo.
 
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione (revisione 22/10/2026):** itinerario riscritto in prosa; i titoli «# ZONA 1/2/3» (primo livello, non letti dal sito: la zona Bangkok finiva dentro il Giorno 11 e Chiang Mai dentro «Vita notturna») sono diventati sezioni «## …» vere, con le sezioni di Bangkok prefissate «Bangkok:».

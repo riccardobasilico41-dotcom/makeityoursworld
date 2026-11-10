@@ -122,7 +122,7 @@ The rest of the day is free for last-minute shopping or a final stroll, before t
 - **Check the seasonal schedules of boat outings** (Stockholm archipelago, Oslofjord cruise): in winter the offering shrinks considerably compared to May to September.
 
 ## Chiusura personale
-What stays with me is the contrast between three cities that look alike enough to seem like variations on one another (the same clean design, the same language of road signs, the same clean northern air) and yet remain three separate countries all the way down: three currencies, three capitals, three slightly different ways of being Scandinavian. Copenhagen moving by bicycle, Stockholm spread over fourteen islands with a boundless archipelago at its doorstep, Oslo sitting right on the fjord with a sculpture park that looks like nothing else in Europe. Nine days aren't enough to really know them, but they're enough to understand why, despite the final bill, it's worth lining up all three.
+Nine days aren't enough to really get to know three capitals, but they're enough to line them up: Copenhagen by bike, Stockholm on its islands, Oslo on the fjord. They're expensive, and that needs to be factored in from the start.
 
 ## Tag
 `#copenaghen` `#stoccolma` `#oslo` `#danimarca` `#svezia` `#norvegia` `#capitalinordiche` `#scandinavia` `#cittadarte` `#design`

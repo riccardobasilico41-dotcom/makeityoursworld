@@ -187,9 +187,7 @@ Por la tarde regresamos a Nápoles.
 - **Contar con los escalones.** No son unas vacaciones de mar en llano: es una costa vertical.
 
 ## Chiusura personale
-Lo que queda de esta costa no es Positano desde el agua, por mucho que sea exactamente como en las fotografías. Es el momento, en el Sendero de los Dioses, en que uno se detiene en un tramo expuesto a quinientos metros sobre el mar y mira hacia abajo: debajo están los bancales, uno sobre otro, a lo largo de cientos de metros de desnivel, sostenidos por muros de piedra seca construidos piedra sobre piedra. En esos pañuelos de tierra de dos metros de ancho hay limoneros y viñas. Ninguna máquina ha podido llegar nunca hasta allí arriba; todo lo que se ve se llevó a hombros.
-
-Luego se baja la mirada unos grados y está la carretera, con la cola de coches parados, y los autocares que se cruzan con los retrovisores plegados. Las dos cosas están a doscientos metros de desnivel una de otra y no se hablan. La Costa es patrimonio de la humanidad por la de arriba, y la visitan casi por entero desde la de abajo: y es, en definitiva, una buena noticia para quien decide subir.
+De los escalones de Nocelle a Positano, más de 1.700, las piernas se siguen acordando al día siguiente. Para mí la Costa se hace así: nada de coche, todo en ferri, y subir a los senderos por encima de la carretera, donde no hay nadie. Las islas no son intercambiables, y hacer dos bien es mejor que hacer tres corriendo.
 
 ## Tag
 `#costieraamalfitana` `#capri` `#ischia` `#procida` `#italia` `#campania` `#sentierodeglidei` `#isole`

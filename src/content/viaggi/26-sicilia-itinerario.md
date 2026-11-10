@@ -154,7 +154,7 @@ Il ritorno all'aeroporto va organizzato con margine: la restituzione dell'auto n
 - **Non andare in agosto**, il mese peggiore su ogni parametro.
 
 ## Chiusura personale
-La cosa che resta della Sicilia orientale non è un monumento ma una sovrapposizione. Si entra nel Duomo di Siracusa, che è una chiesa barocca con la facciata settecentesca, e dentro i muri ci sono le colonne doriche di un tempio del quinto secolo avanti Cristo: non ricostruite, non evocate; inglobate, che si toccano con la mano. In mezzo ci sono duemilacinquecento anni in cui quell'edificio è stato tempio greco, chiesa bizantina, moschea, di nuovo chiesa, e non ha mai smesso di essere usato. Questa è la Sicilia: non un posto conquistato da una cultura dopo l'altra, ma un posto che le ha tenute tutte addosso. E poi c'è l'Etna, che fa la stessa cosa in termini geologici: copre, seppellisce, e la gente ci ritorna sopra a piantare le vigne perché quel suolo è il migliore che ci sia.
+Il consiglio che darei è uno: non provare a fare tutta l'isola. Meglio prenderne una metà, l'orientale con l'Etna, e farla con calma, senza saltare l'interno. E non ad agosto.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **L'accesso alla zona sommitale dell'Etna dipende dall'attività del vulcano** e può essere interdetto senza preavviso; lo stato di accesso della Scala dei Turchi è cambiato più volte. Vanno riverificati.

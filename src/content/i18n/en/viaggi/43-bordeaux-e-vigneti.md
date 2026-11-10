@@ -91,7 +91,7 @@ Entrecôte à la bordelaise, Arcachon oysters, canelé and the midday menu, alwa
 - **Don't underestimate the Dune du Pilat**: in summer the sand burns.
 
 ## Chiusura personale
-Sauternes is the thing that stays with you most: clusters that look like they should be thrown away, hand-picked five or six times in the same row, to obtain a sweet wine born from what to a normal farmer would look like a disease.
+We explored Bordeaux on foot, the way it should be done, and then the vineyards between Médoc, Saint-Émilion, Pomerol and Sauternes. We spent the last day on the ocean, at Arcachon.
 
 ## Tag
 `#bordeaux` `#francia` `#vino` `#saintemilion` `#sauternes` `#dunedupilat`

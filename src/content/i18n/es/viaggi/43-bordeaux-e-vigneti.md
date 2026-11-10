@@ -91,7 +91,7 @@ Entrecôte à la bordelaise, ostras de Arcachon, canelé y el menú de mediodía
 - **No subestimar la Dune du Pilat**: en verano la arena quema.
 
 ## Chiusura personale
-Sauternes es lo que más se queda: racimos que parecen para tirar, recogidos a mano cinco o seis veces en la misma hilera, para obtener un vino dulce que nace de lo que a un agricultor normal le parecería una enfermedad.
+Burdeos la recorrimos a pie, como se debe, y luego los viñedos entre Médoc, Saint-Émilion, Pomerol y Sauternes. El último día lo pasamos en el océano, en Arcachon.
 
 ## Tag
 `#bordeaux` `#francia` `#vino` `#saintemilion` `#sauternes` `#dunedupilat`

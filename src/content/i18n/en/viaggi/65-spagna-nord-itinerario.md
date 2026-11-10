@@ -117,7 +117,7 @@ In San Sebastián and Bilbao the **txikiteo** is an experience in itself: one ba
 - **Arrive in Santiago with your pilgrim credentials stamped**, if you walked a stretch and want the Compostela.
 
 ## Chiusura personale
-What stays with me is the total contrast with the most common idea of "Spain": here it isn't hot, you eat standing at a bar counter instead of at a table, and the language you hear in the street in the Basque Country resembles no other. It is the Spain that corrects the stereotype, and perhaps that is why it is the most underrated of the four Spanish regions told here.
+Northern Spain overturns the cliché: it isn't hot, it rains often, the landscape is green, and you eat standing at the bar, one pintxo at a time.
 
 ## Tag
 `#spagnadelnord` `#sansebastian` `#bilbao` `#paesibaschi` `#pintxos` `#camminodisantiago` `#galizia` `#spagna`

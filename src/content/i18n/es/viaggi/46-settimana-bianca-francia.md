@@ -91,7 +91,7 @@ Raclette, fondue savoyarde, tartiflette, los quesos Beaufort y Reblochon, los bl
 - **Aquí esquío como en todas partes**, y es lo que recomiendo siempre: se sube en cuanto abren los remontes, para intentar estar entre los primeros, un tentempié rápido a media mañana y luego a tope hasta las dos, dos y media. En ese momento se desconecta en el refugio y se acaba. Así comes cuando hay menos gente y por la tarde, cuando las pistas están más «comidas», ya has terminado.
 
 ## Chiusura personale
-La diferencia entre una estación integrada y un pueblo tradicional se nota el día de mal tiempo: en la primera no hay nada que hacer si cierran los remontes, en el segundo la vida del pueblo continúa igualmente.
+Aquí esquío como esquío en todas partes: arriba en cuanto abren los remontes, para estar entre los primeros, un tentempié rápido a media mañana y luego a tope hasta las dos, dos y media. Antes de reservar, eso sí, conviene mirar el calendario de vacaciones escolares francesas.
 
 ## Tag
 `#sci` `#francia` `#alpi` `#chamonix` `#settimanabianca`

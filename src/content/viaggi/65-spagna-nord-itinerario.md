@@ -117,7 +117,7 @@ A San Sebastián e Bilbao il **txikiteo** è un'esperienza a sé: un bar, una sp
 - **Arrivare a Santiago con le credenziali del pellegrino timbrate**, se si è camminato un tratto e si vuole la Compostela.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto totale con l'idea più diffusa di "Spagna": qui non fa caldo, si mangia in piedi al bancone di un bar invece che a tavola, e la lingua che si sente per strada nei Paesi Baschi non assomiglia a nessun'altra. È la Spagna che corregge lo stereotipo, ed è forse per questo la più sottovalutata delle quattro regioni spagnole raccontate qui.
+Il Nord della Spagna smentisce il cliché: non fa caldo, piove spesso, il paesaggio è verde, e si mangia in piedi al bancone, un pintxo alla volta.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi, orari e regole di prenotazione (Guggenheim, albergues del Cammino) cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

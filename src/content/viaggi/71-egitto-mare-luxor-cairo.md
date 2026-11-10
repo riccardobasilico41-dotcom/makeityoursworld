@@ -218,7 +218,7 @@ Ordine di grandezza: **1.100-1.700 € a persona** in due, voli esclusi; i pacch
 - **Lasciare a casa il drone:** senza permesso viene sequestrato all'arrivo.
 
 ## Chiusura personale
-Il senso di questo giro sta nel passaggio tra le piramidi e il reef: un viaggio in cui la parte più faticosa arriva per prima e quella più rilassante per ultima. In undici giorni si vedono i tre luoghi più famosi del Paese senza correre, si resta abbastanza al mare per goderselo e si torna a casa con un volo diretto. Chi si accorge di volere di più (Assuan, Abu Simbel, il Nilo in crociera e le immersioni lontane dalla costa) ha già una base per il secondo viaggio.
+Il consiglio che darei è fare i siti all'apertura, anche d'inverno: a mezzogiorno arrivano i gruppi e la luce è piatta. E concordare ogni prezzo prima, per cammelli, calessi, feluche e taxi, chiarendo valuta, durata e se è a persona.
 
 ## Nota su questa bozza
 Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficiale dei siti archeologici egiziani, comunicati del Grand Egyptian Museum sui prezzi dal 1° novembre 2026, siti di vettori e guide recenti. **Non contiene esperienze dirette.** I prezzi dei biglietti in Egitto sono cambiati più volte dal 2024: tutte le cifre sono indicative e vanno ricontrollate prima della partenza, così come gli orari dei voli interni e le stagioni dei charter sul Mar Rosso.

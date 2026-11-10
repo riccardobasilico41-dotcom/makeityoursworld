@@ -107,7 +107,7 @@ Socca calda al mercato, pan bagnat in spiaggia, salade niçoise senza patate, la
 - **Controllare gli orari della Chapelle du Rosaire**, che sono molto limitati.
 
 ## Chiusura personale
-La cosa che resta di due anni ad Antibes non è una spiaggia: è il sentiero del Cap, rifatto decine di volte, ogni volta diverso (con il vento, con il mare mosso, con la luce del tramonto). È il posto che dimostra che la Costa Azzurra, tolta la stagione sbagliata, resta uno dei pezzi di Mediterraneo più densi che esistano.
+Ad Antibes ci ho vissuto due anni, ed è per questo che la uso come base. Quello che ho imparato lì è che le stagioni vanno al contrario: d'estate è un posto difficile, da ottobre a maggio è uno dei più piacevoli d'Europa, con il sole, i sentieri vuoti e i mercati che tornano a essere mercati.
 
 ## Nota su questa bozza
 Informazioni pratiche aggiornate a settembre 2026; orari, prenotazioni e regole di accesso vanno riverificati.

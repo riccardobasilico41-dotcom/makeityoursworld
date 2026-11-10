@@ -87,7 +87,7 @@ Il menù di mezzogiorno nei bistrot di quartiere, i bouillon per la cucina class
 - **Un grande museo al giorno**, mai due.
 
 ## Chiusura personale
-La cosa che resta di Parigi non sono i primi due giorni nei posti già conosciuti prima di partire: è il terzo, quando si esce da un museo stanchi e si prende una direzione a caso invece che verso il monumento successivo, e si finisce in un quartiere senza niente da vedere sulla lista, dove la gente è seduta sui bordi del canale e nessuno fotografa niente.
+Cinque giorni bastano per le cose grandi, a patto di non mettere mai due grandi musei nello stesso giorno e di lasciare il terzo ai quartieri che non stanno sulle cartoline.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche verificati e aggiornati a settembre 2026. Le tariffe della metropolitana, gli orari di Notre-Dame e le formule dei biglietti Louvre/Versailles cambiano: vanno riverificati.

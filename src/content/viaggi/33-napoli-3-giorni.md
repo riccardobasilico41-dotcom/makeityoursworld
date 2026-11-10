@@ -124,9 +124,7 @@ Poi siamo rientrati a Napoli per l'ultima sera in città.
 - **Controllare lo stato di accesso della Solfatara**, chiusa dopo l'incidente del 2017.
 
 ## Chiusura personale
-La cosa che resta di Napoli è un rapporto di scala rovesciato rispetto a tutto il resto d'Italia. Si entra in una chiesa piccola in una via stretta, si pagano pochi euro, non c'è coda, e sopra l'altare c'è un Caravaggio dipinto per quel muro, quattrocento anni fa, ancora lì. Fuori la vita continua esattamente come prima: motorini, panni stesi, gente che parla forte da un balcone all'altro.
-
-Napoli non mette il suo patrimonio in una teca. Ci convive, lo usa, gli passa davanti senza guardarlo, e questa apparente noncuranza è in realtà l'unica forma di possesso vera: quel quadro non è un monumento, è l'altare della confraternita del quartiere, e la confraternita esiste ancora e fa ancora quello che faceva nel Seicento. È per questo che Napoli spiazza chi arriva con l'idea di una città d'arte da visitare: non è una città d'arte. È una città, e per caso ha dentro delle cose enormi.
+Di Napoli il consiglio che do è su Pompei ed Ercolano: Pompei è più bella, ma a Ercolano c'è meno gente, valutate voi cosa vi piace di più. E per una sera diversa, Nennella è un po' «touristy-kitsch», ma divertente.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le modalità di prenotazione della Cappella Sansevero e del Vesuvio, gli orari e la stagionalità dei collegamenti ferroviari per gli scavi e lo stato di accesso della Solfatara** vanno riverificati prima di partire.

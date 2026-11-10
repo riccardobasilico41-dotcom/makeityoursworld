@@ -107,7 +107,7 @@ In Mallorca, **sobrasada** (spreadable cured sausage with paprika) and **ensaïm
 - **Check seasonal ferry schedules**: outside the summer months, departures drop considerably.
 
 ## Chiusura personale
-What stays with me is how much the three islands disprove the idea of a "single archipelago": Mallorca is almost a small continent, Ibiza lives two parallel lives that rarely meet, Menorca deliberately chose to stay smaller and quieter than the other two. Seeing them in sequence, one after the other, is the most honest way to understand what really sets them apart.
+Three islands in eight days, linked by ferry: Mallorca with Palma and the Serra de Tramuntana, Ibiza between Dalt Vila and the coves of the north, and Menorca, the quietest.
 
 ## Tag
 `#baleari` `#mallorca` `#ibiza` `#minorca` `#serradetramuntana` `#camidecavalls` `#spagna`

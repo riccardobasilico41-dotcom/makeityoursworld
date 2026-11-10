@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Questa è una versione corta, da dieci giorni, del viaggio lungo che Rick ha fatto in India: *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*, con i treni notturni e l'autista. I luoghi sono quelli del viaggio; la sequenza in dieci giorni è una versione accorciata per chi ha meno tempo. Tiene le tappe del Rajasthan che stanno in dieci giorni e lascia fuori Varanasi, Ranthambore, Pushkar e il deserto.
+Questa è la versione corta, da dieci giorni, del mio viaggio lungo in India: *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*, con i treni notturni e l'autista. I luoghi sono quelli che ho visto; qui li ho rimessi in fila in dieci giorni per chi ha meno tempo. Tiene le tappe del Rajasthan che stanno in dieci giorni e lascia fuori Varanasi, Ranthambore, Pushkar e il deserto.
 
 Il Rajasthan è il primo viaggio in India più sensato per chi parte dall'Italia. Le distanze sono gestibili, i monumenti sono tra i più belli del paese e la rete di treni, autisti e hotel heritage permette di organizzarsi da soli senza affidarsi a un tour di gruppo. Questo itinerario mette in fila in dieci giorni il triangolo d'oro (Delhi, Agra, Jaipur) e due città del Rajasthan che da sole valgono il viaggio: Jodhpur, la città blu sotto il forte di Mehrangarh, e Udaipur, la città dei laghi e dei palazzi bianchi.
 
@@ -154,7 +154,7 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (dall'Italia a
 - **Con Jaisalmer e il deserto (+3 giorni):** da Jodhpur a Jaisalmer sono circa 5 ore di auto o treno. La città d'oro, con il forte abitato e le haveli di arenaria, e una notte nel deserto del Thar con i cammelli tra le dune di Sam o Khuri, valgono il viaggio. Si rientra a Jodhpur o si vola da Jaisalmer quando ci sono voli stagionali.
 - **Versione 12 giorni:** aggiungere Pushkar e una notte in più a Udaipur, con l'escursione a Kumbhalgarh.
 - **Versione 7 giorni:** solo triangolo d'oro (Delhi, Agra, Jaipur), con rientro in treno o auto da Jaipur a Delhi.
-- **Con Varanasi:** il viaggio che Rick ha fatto davvero, 19 giorni con Varanasi, i safari di Ranthambore, Pushkar, Jaisalmer e il deserto, due notti in cuccetta e l'autista, è in *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*.
+- **Con Varanasi:** il viaggio che ho fatto davvero, 19 giorni con Varanasi, i safari di Ranthambore, Pushkar, Jaisalmer e il deserto, due notti in cuccetta e l'autista, è in *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*.
 
 ## Consigli pratici / errori da non ripetere
 - **Controllare il calendario prima di fissare Agra:** il Taj Mahal è chiuso il venerdì, perché nella moschea del complesso c'è la preghiera di mezzogiorno riservata ai residenti di Agra. Se il Giorno 4 cade di venerdì, al Taj si entra il pomeriggio del Giorno 3, appena arrivati (chiude mezz'ora prima del tramonto), e il Forte di Agra si sposta alla mattina del Giorno 4, prima di partire per Jaipur.
@@ -169,12 +169,14 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (dall'Italia a
 - **Chiedere prima di fotografare le persone**, soprattutto le donne, e rispettare i divieti di foto dentro i templi.
 
 ## Chiusura personale
-Dieci giorni in Rajasthan non bastano a capire l'India, ma bastano a capire se si vuole tornare. È un viaggio fatto di contrasti forti: il rumore di Delhi e il silenzio del Taj alle sei del mattino, il caos dei bazar di Jaipur e il vento sulle mura del Mehrangarh, i clacson continui sulle strade e la calma di una terrazza sul lago Pichola al tramonto. Chi lo prepara bene, con treni prenotati, un autista affidabile e due notti in ogni città, torna a casa con la voglia di vedere il resto: Varanasi, il deserto del Thar, il Sud.
+Di questo pezzo di India mi porto il Taj Mahal, visto due volte, al tramonto e il giorno dopo all'alba (il venerdì è chiuso, ricordatevelo). Poi Jaipur, con le cene da maharaja al Jamavar e al 1135 AD. Di giorno abbiamo sempre mangiato per strada e, strano ma vero, siamo sempre stati bene di pancia. L'autista invece era uno squinternato: sceglietelo con cura.
 
-*Questa versione corta nasce dal viaggio lungo di Rick in India, India: Varanasi, Ranthambore e il Rajasthan in 19 giorni: i luoghi sono quelli che ha visitato, la sequenza in dieci giorni è ricomposta per chi ha meno tempo. Da quel viaggio vengono le tappe del Rajasthan, l'avvertenza sul venerdì del Taj, il consiglio sulle file ai controlli e quello di scegliere bene l'autista (il suo non lo consiglia). Tratte, tempi, prezzi e regole vengono da portali ufficiali del visto e delle ferrovie indiane, dal sito ufficiale del Taj Mahal, dai siti dei monumenti, da Viaggiare Sicuri e da guide recenti, verificati a ottobre-novembre 2026: vanno ricontrollati prima di partire.*
+Per gli standard occidentali le persone possono risultare insistenti. Ma è un Paese incredibile, che ti dà tanto.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche costruiti con ricerca documentale (portali ufficiali del visto e delle ferrovie indiane, siti dei monumenti, Viaggiare Sicuri, guide e blog recenti), aggiornati a ottobre 2026. Prezzi di ingressi, treni e alloggi cambiano spesso e sono indicativi: vanno riverificati prima di partire. Proposta non vissuta così: versione corta del viaggio 77 (Varanasi e Rajasthan), fatto da Rick. Testo in voce di guida, senza prima persona. Aggiornata il 4 novembre 2026.
+
+Testo di provenienza e fonti tolto dalla chiusura (10/11/2026): Questa versione corta nasce dal viaggio lungo di Rick in India, India: Varanasi, Ranthambore e il Rajasthan in 19 giorni: i luoghi sono quelli che ha visitato, la sequenza in dieci giorni è ricomposta per chi ha meno tempo. Da quel viaggio vengono le tappe del Rajasthan, l'avvertenza sul venerdì del Taj, il consiglio sulle file ai controlli e quello di scegliere bene l'autista (il suo non lo consiglia). Tratte, tempi, prezzi e regole vengono da portali ufficiali del visto e delle ferrovie indiane, dal sito ufficiale del Taj Mahal, dai siti dei monumenti, da Viaggiare Sicuri e da guide recenti, verificati a ottobre-novembre 2026: vanno ricontrollati prima di partire.
 
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione (ottobre-novembre 2026):** Prezzi verificati il 30/10/2026. Non è un viaggio fatto così: i ricordi vanno nel viaggio 77, non qui. Ancora aperti: non è chiaro se il vecchio composito di Jaipur da due giorni (1.000 rupie) sia ancora in vendita accanto al nuovo pass statale da 10 giorni (5.500 rupie), perché le fonti di gennaio 2026 citano solo il secondo; City Palace di Udaipur, prezzo stranieri discordante tra le fonti (400-700 rupie, manca il listino ufficiale Eternal Mewar). Risolti: Taj 1.100 + 200 rupie confermati; la tassa ADA di 200 rupie per la cupola era una proposta del 2021 mai applicata. Foto dei giorni da recuperare.

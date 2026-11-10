@@ -124,9 +124,7 @@ Luego volvimos a Nápoles para la última noche en la ciudad.
 - **Comprobar el estado de acceso de la Solfatara**, cerrada tras el accidente de 2017.
 
 ## Chiusura personale
-Lo que queda de Nápoles es una relación de escala invertida respecto a todo el resto de Italia. Se entra en una iglesia pequeña en una calle estrecha, se pagan pocos euros, no hay cola, y sobre el altar hay un Caravaggio pintado para ese muro hace cuatrocientos años, todavía ahí. Fuera la vida sigue exactamente como antes: motos, ropa tendida, gente que habla fuerte de un balcón a otro.
-
-Nápoles no pone su patrimonio en una vitrina. Convive con él, lo usa, pasa por delante sin mirarlo, y esa aparente indiferencia es en realidad la única forma de posesión verdadera: ese cuadro no es un monumento, es el altar de la cofradía del barrio, y la cofradía sigue existiendo y sigue haciendo lo que hacía en el siglo XVII. Por eso Nápoles desconcierta a quien llega con la idea de una ciudad de arte para visitar: no es una ciudad de arte. Es una ciudad, y por casualidad tiene dentro cosas enormes.
+De Nápoles, el consejo que doy es sobre Pompeya y Herculano: Pompeya es más bonita, pero en Herculano hay menos gente, valorad vosotros qué os gusta más. Y para una noche distinta, Nennella es un poco «touristy-kitsch», pero divertida.
 
 ## Tag
 `#napoli` `#italia` `#pompei` `#ercolano` `#vesuvio` `#caravaggio` `#cristovelato` `#pizza`

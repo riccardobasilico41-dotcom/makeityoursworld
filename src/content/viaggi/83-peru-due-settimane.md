@@ -152,7 +152,8 @@ A Lima, con un volo serale, restano alcune ore: il **Museo Larco**, la collezion
 ## Chiusura personale
 L'errore che non rifarei è sottovalutare l'altitudine. E servono scarpe comode, sempre. A chi parte dico di non farsi fregare dalle agenzie e, se riesce, di aggiungere qualche giorno per l'Amazzonia: è incredibile.
 
-*Il viaggio è di Rick, che è stato in Perù nel 2018, nel 2021 e nel 2024. Da lui vengono Machu Picchu all'alba, il Huayna Picchu, i modi in cui ci è arrivato, la cucina di Lima, Santa Catalina, la Cruz del Cóndor, la notte ad Amantaní, Rainbow Mountain e Humantay, i souvenir da Assunta, l'Amazzonia e la Laguna 69. Questo itinerario di due settimane è una riduzione del suo viaggio lungo in Perù, girato in senso inverso per salire di quota per gradi: tratte, tempi, costi e avvertenze vengono da lì e dalle schede destinazione del sito, verificati a settembre 2026. Prezzi, orari e regole di accesso cambiano: vanno ricontrollati prima di partire.*
+## Nota su questa bozza
+Fonti e provenienza (spostate dalla chiusura il 10/11/2026): Il viaggio è di Rick, che è stato in Perù nel 2018, nel 2021 e nel 2024. Da lui vengono Machu Picchu all'alba, il Huayna Picchu, i modi in cui ci è arrivato, la cucina di Lima, Santa Catalina, la Cruz del Cóndor, la notte ad Amantaní, Rainbow Mountain e Humantay, i souvenir da Assunta, l'Amazzonia e la Laguna 69. Questo itinerario di due settimane è una riduzione del suo viaggio lungo in Perù, girato in senso inverso per salire di quota per gradi: tratte, tempi, costi e avvertenze vengono da lì e dalle schede destinazione del sito, verificati a settembre 2026. Prezzi, orari e regole di accesso cambiano: vanno ricontrollati prima di partire.
 
 ## Tag
 `#peru` `#machupicchu` `#cusco` `#vallesacra` `#titicaca` `#arequipa` `#colca` `#lima` `#altaquota` `#duesettimane` `#sudamerica`

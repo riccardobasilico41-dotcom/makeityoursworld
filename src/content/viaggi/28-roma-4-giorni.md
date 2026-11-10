@@ -155,9 +155,9 @@ Due giorni a Roma funzionano solo se si accetta una regola: **si rinuncia al Vat
 - **Attenzione al borseggio** su metro A, bus 64 e nelle aree monumentali.
 
 ## Chiusura personale
-La cosa che resta di Roma non è il Colosseo, che si conosce già prima di vederlo. È il momento in cui si scende sotto San Clemente: si entra in una chiesa medievale come tante, si paga poco, si prende una scala laterale e si arriva a una basilica del quarto secolo con gli affreschi ancora sui muri. Poi si scende ancora, e si è in un edificio del primo secolo con un tempio di Mitra intatto, e mentre si guarda si sente scorrere l'acqua: è un condotto romano che funziona ancora, sotto la città, duemila anni dopo. Sopra, in strada, passano i motorini.
+A Roma il momento che ricordo è San Clemente: siamo scesi di tre livelli e di mille anni, e in fondo abbiamo sentito scorrere l'acqua di un condotto romano.
 
-Roma non conserva il passato: ci abita sopra, senza particolare riverenza, e continua a usarlo. È una cosa che non si capisce leggendola e che diventa ovvia quando si è a dodici metri sotto il livello della strada e si sente l'acqua.
+Per mangiare, a me piace la Gattabuia a Trastevere, che è un'ex galera. Ma in generale basta spostarsi un attimo fuori dal centro: i posti con il menù in inglese o il buttadentro di solito sono meh.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le formule dei biglietti del Colosseo, la durata di validità e la disponibilità di arena e sotterranei cambiano di frequente**, così come lo stato di accesso e le eventuali regolamentazioni della Fontana di Trevi. Vanno riverificati sui canali ufficiali prima di prenotare.

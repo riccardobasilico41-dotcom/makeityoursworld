@@ -174,7 +174,7 @@ Quien prefiera quedarse en la ciudad puede pasar por el **mercado de Dongmun**, 
 - **Evitar Seollal y Chuseok.** Esos días el país se desplaza en masa y media Corea está cerrada.
 
 ## Chiusura personale
-Lo que queda de este viaje no es la lista de templos. Son dos imágenes en los antípodas del país. La primera es una estación de ferrocarril nueva y reluciente a cuarenta kilómetros de Seúl, con los paneles de salidas encendidos y el personal en servicio, que desde 2002 espera un tren a Pyongyang: la guerra que no ha terminado no se ve en una trinchera, se ve ahí. La segunda es un muelle en una costa fría y ventosa, y un silbido largo que llega del agua antes que cualquier cosa visible: el sumbisori de una mujer de setenta y cinco años que sale con la red llena, como hace desde hace sesenta años, en un oficio que era de cuatro mil quinientas personas hace diez años y hoy cuenta con unas dos mil seiscientas. Dos cosas que se están acabando de maneras distintas, y que son la razón por la que merece la pena venir ahora y no dentro de veinte años.
+De Corea me llevo sobre todo las dos cosas alrededor de las que construí el recorrido: la DMZ al principio, con una guerra que nunca se cerró con un tratado de paz, y las haenyeo de Jeju al final. En medio, un país donde todo funciona y moverse es facilísimo.
 
 ## Tag
 `#coreadelsud` `#seoul` `#dmz` `#panmunjom` `#jeju` `#haenyeo` `#busan` `#gyeongju` `#seoraksan` `#templestay` `#asia`

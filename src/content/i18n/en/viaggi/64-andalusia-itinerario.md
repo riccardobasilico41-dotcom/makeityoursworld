@@ -124,7 +124,7 @@ The **tapeo** is an institution in Seville (salmorejo, espinacas con garbanzos, 
 - **Check the reduced summer hours** of the Córdoba monuments if you travel anyway in late June or early September.
 
 ## Chiusura personale
-What stays with me is how much the four stops complete each other instead of repeating: Seville is the great Baroque capital on Moorish foundations, Córdoba is the most disorienting monument in its single hall of columns, Granada is the intact palace on the hill, and Ronda is the mountain air that the other three, closed within their cities, don't have. A trip in four stops that rarely disappoints anyone who takes it outside the hottest months.
+Nine days are enough for Seville, Córdoba, Granada and Ronda at a human pace, without reducing the Alhambra or the Mezquita to a quick photo. Ronda, with the mountains and the wind over the Tajo gorge, is the counterpoint the other three need. The only real constraint is the heat: it's a spring or autumn trip, not a summer one.
 
 ## Tag
 `#andalusia` `#siviglia` `#granada` `#cordoba` `#ronda` `#alhambra` `#flamenco` `#spagna`

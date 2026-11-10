@@ -113,9 +113,7 @@ We closed the last evening with a proper Turin aperitivo and a Piedmontese dinne
 - **Check the dates of expositions and closures** of the Royal Museums, which have their own calendars.
 
 ## Chiusura personale
-What stays with you from Turin is a question of disproportion. You enter a museum that from the outside is a street palace like many others, in a city that in the collective imagination is associated with factories, and inside is Egypt: not a section, not a collection of nineteenth-century curiosities, but the second Egyptian collection in the world, with an intact tomb containing the bread two people left there thirty-five hundred years ago.
-
-Then you go out, walk under an arcade for twenty minutes without ever seeing the sky, arrive in a Baroque square and at the end of the street, if the day is right, there are the Alps with snow. Turin is all like that: it announces nothing, doesn't put itself in the window, and every time you turn a corner there's something it makes no sense to find there. It's the reason people who go for two days come back.
+Two days in Turin: the first at the Egyptian Museum, with a bicerin in a historic café and the Quadrilatero Romano in the late afternoon; the second at the Mole, then the river and the hill.
 
 ## Tag
 `#torino` `#italia` `#museoegizio` `#mole` `#piemonte` `#barocco` `#langhe` `#cittadarte`

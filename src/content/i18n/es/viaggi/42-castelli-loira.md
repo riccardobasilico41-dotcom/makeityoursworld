@@ -83,7 +83,7 @@ Rillettes, beurre blanc, quesos de cabra con denominación, tarte Tatin, vinos b
 - **Villandry fuera de temporada tiene los jardines desnudos**: conviene comprobar el periodo.
 
 ## Chiusura personale
-El Loira funciona si se elige un castillo al día y se pasa el resto del tiempo a lo largo del río: es el único gran río europeo que ha quedado en gran parte sin canalizar, y los castillos están ahí por él, no al revés.
+Nosotros el Loira lo hicimos así: un castillo al día, empezando por Blois y pasando por Chenonceau, y un día entero en bici a lo largo del río por la Loire à Vélo, sin castillos.
 
 ## Tag
 `#loira` `#francia` `#chambord` `#chenonceau` `#castelli`

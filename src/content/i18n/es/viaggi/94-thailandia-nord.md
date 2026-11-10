@@ -11,8 +11,6 @@
 ## Apertura personale
 El viaje clásico a Tailandia es el de playa, y ya está en la web: [de Bangkok al mar del sur](/viaggi/thailandia). Este es el otro, el del norte. Montañas, templos de madera, mercados nocturnos y un ritmo más lento. A Chiang Mai fui en un viaje aparte, y el contraste con Bangkok y el sur se nota desde el primer día. La mañana con los elefantes del Elephant Nature Park, sin montarlos nunca, sigue siendo uno de mis mejores recuerdos de Tailandia.
 
-Para Pai, Chiang Rai y el Triángulo de Oro aquí encontrarás sobre todo información práctica, verificada en fuentes oficiales.
-
 La ruta sube desde Bangkok en el tren nocturno, se queda casi una semana en Chiang Mai, pasa por Pai y termina en Chiang Rai y en la frontera del Mekong. También hay una sección larga sobre los elefantes: cómo verlos sin hacer daño y cómo reconocer un lugar serio.
 
 ## Scheda pratica
@@ -171,9 +169,7 @@ El golfo de Tailandia, con Koh Samui, Koh Phangan y Koh Tao, tiene estaciones di
 - **Llevar un jersey.** En el Doi Inthanon y en Pai, a primera hora, hace frío de verdad.
 
 ## Chiusura personale
-De Chiang Mai me quedó el ritmo, más lento que en el resto del país, y la mañana con los elefantes sin montarlos nunca. Quien va hoy tiene una tarea más: elegir el centro mirando qué les pasa a los animales cuando los turistas se van.
-
-*Este viaje nace de lugares que Rick ha visitado personalmente; Chiang Mai y el Elephant Nature Park son de un viaje separado de la ruta de playa. Para las demás etapas el texto se queda en la información práctica. Fuentes: gobierno británico (gov.uk), Seat61 para el tren, las webs del Elephant Nature Park y de la Save Elephant Foundation, World Animal Protection y ABTA para los elefantes, verificadas en noviembre de 2026. Precios, horarios y normas cambian: hay que comprobarlos antes de salir.*
+De Chiang Mai me quedó el ritmo, más lento que en el resto del país, y la mañana con los elefantes del Elephant Nature Park, sin montarlos nunca: uno de mis mejores recuerdos de Tailandia.
 
 ## Tag
 `#thailandia` `#thailandianord` `#chiangmai` `#chiangrai` `#pai` `#triangolodoro` `#maehongson` `#elefantietici` `#trenonotturno` `#templi` `#asia`

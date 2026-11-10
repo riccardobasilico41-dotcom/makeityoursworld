@@ -95,7 +95,7 @@ Il **Naschmarkt** per un pasto informale tra cucine diverse. I **caffè storici*
 - **Mettere in conto una buona mezza giornata per Schönbrunn**: è molto più grande di quanto sembri dalle foto.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto tra la grandiosità delle reggie imperiali e la scala più intima di un tavolino in un caffè storico, dove, dice la definizione UNESCO stessa, si «consumano tempo e spazio, e solo il caffè compare sul conto». Vienna sembra costruita apposta per essere vissuta a entrambe le velocità nello stesso weekend.
+Tre o quattro giorni bastano per l'essenziale: la Hofburg, Schönbrunn, Klimt al Belvedere, il Prater. Almeno un'ora al giorno, però, va lasciata a un caffè storico.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi dei biglietti, orari stagionali e regole di prenotazione (soprattutto quelle di Schönbrunn e dell'Opera) cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

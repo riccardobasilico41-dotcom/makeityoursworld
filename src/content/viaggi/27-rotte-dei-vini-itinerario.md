@@ -136,7 +136,7 @@ Dalla Val d'Orcia a Firenze si sale in poco meno di due ore, per la Cassia fino 
 - **Portare qualcosa per proteggere le bottiglie**, perché si accumulano.
 
 ## Chiusura personale
-La cosa che si impara dopo qualche giorno di cantine è che il rapporto tra fama e valore, in Italia, è molto più lasco di quanto il mercato lasci pensare. Nelle Langhe si beve benissimo e si paga di conseguenza, e il livello è oggettivamente il più alto del paese. Ma poi si scende in Irpinia, si entra in un'azienda dove il proprietario sta travasando e si interrompe per farti assaggiare, e si beve un Aglianico che regge il confronto con rossi che costano quattro volte tanto, in un posto dove non c'è un solo cartello turistico. Oppure si sale sull'Etna e si trovano viti di oltre cento anni a piede franco, perché su quella lava la fillossera non è mai arrivata: sono radici originali, non innestate, una cosa che in Europa è quasi scomparsa. Il vino, alla fine, è la scusa. Quello che resta è aver passato dieci giorni in un'Italia agricola che nessun itinerario monumentale attraversa, parlando con gente che fa una cosa sola e la fa da tre generazioni.
+Il nostro giro è stato questo: le Langhe, la Valpolicella, le colline del Prosecco, il Chianti e Montalcino, fino alla Val d'Orcia. Nomi di cantine non ne faccio, di proposito: sceglierle è impossibile, è una cosa troppo personale. Dipende dal gusto, dal budget e dall'esperienza che cerchi, una più ricercata o una più autentica.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. Prezzi delle degustazioni e modalità di visita cambiano per azienda e per stagione.

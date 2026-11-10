@@ -92,7 +92,9 @@ La cucina locale ruota molto intorno al granchio reale (kongekrabbe) e al baccal
 | Whale watching (facoltativo) | 130-260€ |
 
 ## Chiusura personale
-Anche con pochi ricordi diretti, quello che mi è rimasto di più è la sensazione del buio della notte polare interrotto dalle luci della città e dall'aurora vista per la prima volta muoversi nel cielo. Quella con i cani è stata bella, ma non la rifarei: mi è sembrata un po' così così. Io però con gli animali sono sensibile, quindi conta relativamente, ed è un giudizio a posteriori: resta comunque un'esperienza molto bella.
+Quello che mi è rimasto di più è il buio della notte polare interrotto dalle luci della città, e l'aurora vista muoversi nel cielo per la prima volta. Siamo usciti a cercarla due volte: la prima subito fuori città, la seconda quasi fino alla Svezia.
+
+La slitta con i cani è stata bella, ma non la rifarei: mi è sembrata un po' così così. Io però con gli animali sono sensibile, quindi conta relativamente: resta comunque un'esperienza molto bella.
 
 ## Materiale grezzo (appunti, non ancora editato)
 Viaggio realmente fatto ma di cui restano pochi ricordi diretti. La struttura del viaggio (5 giorni: arrivo/città, aurora chase, husky, esperienza sami con renne, partenza) viene da una presentazione comparativa dell'agenzia "Mama Family Travel Partner" che elencava Tromsø come una delle tre alternative artiche per Capodanno insieme ad Abisko e Reykjavík — le attività elencate corrispondono a quanto effettivamente fatto. Tutte le sezioni pratiche (prezzi, orari, nomi degli operatori, dove dormire/mangiare, Fjellheisen, Polar Museum, whale watching, igloo di vetro) sono state integrate con ricerca sui siti ufficiali degli operatori e di Visit Tromsø, per rendere la pagina una guida utile a chi vuole organizzare lo stesso viaggio — non sono ricordi diretti, e prezzi/orari vanno sempre riverificati prima di prenotare.

@@ -355,7 +355,7 @@ Order of magnitude: **€2,300-3,500 per person** in pairs, international flight
 - **Don't buy "real" antiquities or coral:** it's a crime, and they check at the airport.
 
 ## Chiusura personale
-Three weeks in Egypt leave you above all with the sense of contrast between one place and the next: Cairo with its twenty million people and Siwa with its mud and salt houses, the green, narrow Nile and the desert right beyond the palms, the crowded temples of Karnak and the silence of Dendera, the colors of the tombs and those of the reef. It's a tiring trip to organize and to do, but a consistent one: every stop adds a piece the others don't give.
+This was our route: Cairo with Giza, Saqqara and Dahshur; the road out to Siwa, with Cleopatra's Spring, the salt lakes and the Great Sand Sea; then Aswan, Abu Simbel, the Nile cruise to Luxor and the balloon at dawn over the west bank; and to finish, diving at Marsa Alam.
 
 ## Tag
 `#egitto` `#cairo` `#piramidi` `#saqqara` `#siwa` `#assuan` `#abusimbel` `#crocieranilo` `#luxor` `#marsaalam` `#immersioni` `#marrosso` `#archeologia`

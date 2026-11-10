@@ -154,7 +154,7 @@ The return to the airport needs a margin: returning the car to the rental car pa
 - **Don't go in August**, the worst month on every parameter.
 
 ## Chiusura personale
-What stays with you from eastern Sicily is not a monument but an overlap. You enter the Cathedral of Syracuse, which is a Baroque church with an eighteenth-century facade, and inside the walls are the Doric columns of a fifth-century BC temple: not reconstructed, not evoked; built in, and you can touch them with your hand. In between lie twenty-five hundred years in which that building has been a Greek temple, a Byzantine church, a mosque, a church again, and has never stopped being used. This is Sicily: not a place conquered by one culture after another, but a place that has kept them all on itself. And then there's Etna, which does the same thing in geological terms: it covers, it buries, and people come back to plant vines on top because that soil is the best there is.
+My one piece of advice: don't try to do the whole island. Better to take one half, the east with Etna, and do it calmly, without skipping the interior. And not in August.
 
 ## Tag
 `#sicilia` `#italia` `#etna` `#siracusa` `#valdinoto` `#agrigento` `#barocco` `#archeologia` `#magnagrecia`

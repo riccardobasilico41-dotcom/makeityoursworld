@@ -150,9 +150,12 @@ Con la giornata libera, Padang si gira in mezza giornata. La **città vecchia** 
 - **Chiedere l'importo aggiornato della tassa surf** prima di partire.
 
 ## Chiusura personale
-Le Mentawai sono posti pazzeschi. La giungla di Siberut però è dura, e non la consiglierei a chiunque. A chi ci va chiedo una cosa sola: entrare in quella casa con rispetto, sapendo cosa hanno passato i Mentawai per tenere vive le loro tradizioni. Poi c'è il mare di Sipora, che dopo quei giorni sembra ancora più bello.
+Alle Mentawai ci sono andato con Mentawai Tribe, e abbiamo vissuto qualche giorno nella giungla di Siberut con una famiglia, nella loro casa. Sono posti pazzeschi. Però è dura: fango ovunque, insetti, niente elettricità, si dorme su una stuoia. Non la consiglierei a chiunque, e a chi ci va chiedo una cosa sola: entrare in quella casa con rispetto, sapendo cosa hanno passato i Mentawai per tenere vive le loro tradizioni.
 
-*Da Rick vengono il soggiorno nella giungla di Siberut con Mentawai Tribe, il giudizio sui posti, sulle condizioni dure e sulle spiagge, e l'invito a pensare al lato etico. Il resto viene dalla ricerca del 4 novembre 2026: il sito di Mentawai Tribe per pacchetti, logistica e regole; Mongabay e Wikipedia per la storia della repressione delle tradizioni; Perfect Wave, Surfer Today e indonesia.travel per surf, stagioni e prezzi; Bucketlistly e Journey Beyond Horizon per traghetti e strade di Sumatra; il CDC per la malaria; il sito del progetto per Max Mariola. Orari e prezzi del Mentawai Fast e l'importo della tassa surf non sono confermati e vanno ricontrollati prima di partire.*
+Poi c'è il mare, e le spiagge delle Mentawai sono bellissime.
+
+## Nota su questa bozza
+Da Rick vengono il soggiorno nella giungla di Siberut con Mentawai Tribe, il giudizio sui posti, sulle condizioni dure e sulle spiagge, e l'invito a pensare al lato etico. Fonti della ricerca del 4 novembre 2026, tolte dalla chiusura: il sito di Mentawai Tribe per pacchetti, logistica e regole; Mongabay e Wikipedia per la storia della repressione delle tradizioni; Perfect Wave, Surfer Today e indonesia.travel per surf, stagioni e prezzi; Bucketlistly e Journey Beyond Horizon per traghetti e strade di Sumatra; il CDC per la malaria; il sito del progetto per Max Mariola. Orari e prezzi del Mentawai Fast e importo della tassa surf non confermati.
 
 ## Tag
 `#indonesia` `#sumatra` `#mentawai` `#siberut` `#sipora` `#bukittinggi` `#padang` `#surf` `#giungla` `#turismoetico` `#duesettimane` `#asia`

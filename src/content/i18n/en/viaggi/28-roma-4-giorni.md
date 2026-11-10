@@ -155,9 +155,9 @@ Two days in Rome work only if you accept one rule: **you give up the Vatican or 
 - **Watch out for pickpockets** on metro line A, bus 64 and in monumental areas.
 
 ## Chiusura personale
-What stays with me about Rome isn't the Colosseum, which you already know before seeing it. It's the moment you go down beneath San Clemente: you enter a medieval church like many others, pay little, take a side staircase and arrive at a fourth-century basilica with the frescoes still on the walls. Then you go down again, and you're in a first-century building with an intact temple of Mithras, and while you look you hear water flowing: it's a Roman conduit that still works, under the city, two thousand years later. Above, in the street, the scooters go by.
+In Rome, the moment I remember is San Clemente: we went down three levels and a thousand years, and at the bottom we heard the water of a Roman conduit running.
 
-Rome doesn't preserve the past: it lives on top of it, without particular reverence, and keeps using it. It's something you don't grasp by reading and that becomes obvious when you're twelve meters below street level and you hear the water.
+As for food, I like La Gattabuia in Trastevere, which is a former jail. But in general it's enough to move a little out of the centre: places with an English menu or a tout at the door are usually meh.
 
 ## Tag
 `#roma` `#italia` `#colosseo` `#vaticano` `#caravaggio` `#galleriaborghese` `#appiaantica` `#cittadarte`

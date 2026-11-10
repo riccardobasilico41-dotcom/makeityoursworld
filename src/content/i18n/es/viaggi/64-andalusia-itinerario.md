@@ -124,7 +124,7 @@ El **tapeo** es una institución en Sevilla (salmorejo, espinacas con garbanzos,
 - **Comprobar los horarios reducidos de verano** de los monumentos de Córdoba si se viaja de todos modos a finales de junio o principios de septiembre.
 
 ## Chiusura personale
-Lo que me queda es cuánto se complementan las cuatro paradas en vez de repetirse: Sevilla es la gran capital barroca sobre cimientos moriscos, Córdoba es el monumento más desconcertante en su única sala de columnas, Granada es el palacio intacto sobre la colina, y Ronda es el aire de montaña que las otras tres, encerradas en sus ciudades, no tienen. Un viaje en cuatro paradas que rara vez decepciona a quien lo hace fuera de los meses más calurosos.
+Nueve días bastan para Sevilla, Córdoba, Granada y Ronda a un ritmo humano, sin reducir la Alhambra o la Mezquita a una foto y listo. Ronda, con la montaña y el viento sobre el tajo, es el contrapunto que necesitan las otras tres. El único límite real es el calor: es un viaje de primavera o de otoño, no de verano.
 
 ## Tag
 `#andalusia` `#siviglia` `#granada` `#cordoba` `#ronda` `#alhambra` `#flamenco` `#spagna`

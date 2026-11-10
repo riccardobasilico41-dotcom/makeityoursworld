@@ -113,7 +113,7 @@ A primera hora de la tarde dimos el último paseo por **Telliskivi Creative City
 - **Mantenerse lejos de las zonas fronterizas orientales** de los tres países (con Rusia y, para Lituania y Letonia, con Bielorrusia): este itinerario no las toca en ningún punto, y es bueno que siga así.
 
 ## Chiusura personale
-Lo que me queda de este viaje es cuánto consiguen las tres capitales ser a la vez parecidas y nítidamente distintas: tres centros históricos UNESCO salidos de la misma historia reciente de ocupación e independencia, y sin embargo tres lenguas que no se hablan entre sí, tres arquitecturas diferentes (el barroco de Vilna, el modernismo de Riga, el gótico hanseático de Tallin) y tres maneras distintas de contar qué viene después del casco antiguo: una república imaginaria en Vilna, un mercado dentro de hangares para dirigibles en Riga, un antiguo complejo soviético lleno de startups en Tallin. Recorrerlas en fila, con el autobús como hilo conductor, es la forma más honesta de verlas por lo que son: tres países pequeños, cercanos en el mapa, pero nada intercambiables.
+Las tres capitales hay que hacerlas en fila, de sur a norte, con el bus Lux Express como hilo conductor, reservado unos días antes. Y no os quedéis en los cascos antiguos: el barrio Art Nouveau de Riga y Telliskivi en Tallin muestran otra cara de estas ciudades.
 
 ## Tag
 `#vilnius` `#riga` `#tallinn` `#lituania` `#lettonia` `#estonia` `#capitalibaltiche` `#uzupis` `#trakai` `#artnouveau` `#jurmala` `#cittadarte`

@@ -187,7 +187,9 @@ Molte compagnie permettono il check-in in città, alla stazione dell'Airport Exp
 - **Alle bancarelle trattare sempre, e parecchio.** A me è capitato di scendere anche del 70% sul primo prezzo. In alternativa si possono cercare gli stessi articoli su Taobao e farli spedire in hotel, o almeno usarlo per farsi un'idea dei prezzi prima di trattare.
 
 ## Chiusura personale
-Quello che resta di questo itinerario non è la lista dei monumenti, che si conosceva già prima di partire. È la sensazione di aver attraversato un paese che funziona con regole proprie e che, una volta accettate quelle regole, diventa uno dei posti più semplici in cui viaggiare: treni puntuali al minuto, città sicure a qualsiasi ora, prezzi che non fanno paura. La curva di apprendimento è tutta nei primi due giorni, e sta quasi interamente nel telefono. Superata quella, restano una muraglia deserta su un crinale, un esercito sepolto per duemila anni, un giardino a Suzhou con una finestra a forma di ventaglio, e un traghetto da mezzo euro che attraversa il porto di Hong Kong all'ora blu.
+La Cina è un bordello, ma che figata. Si mangia bene, spesso molto piccante, e tante volte non sai bene cosa hai ordinato; l'anatra a Pechino però era buonissima. L'Esercito di Terracotta è bello, ma ti senti una sardina in lattina.
+
+Il consiglio che darei è partire preparati sulla cultura e andarci con calma. Io mi sono adeguato, alle bancarelle ho trattato su tutto (anche del 70% sul primo prezzo) e me la sono goduta.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026, ma in Cina le regole su visto, biglietteria, prenotazioni dei musei e pagamenti cambiano più in fretta che altrove: vanno riverificate sui canali ufficiali prima di partire.

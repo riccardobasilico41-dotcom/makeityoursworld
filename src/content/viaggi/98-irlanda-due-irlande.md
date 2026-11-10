@@ -11,7 +11,7 @@
 ## Apertura personale
 Sulla stessa isola ci sono due Stati. A sud la Repubblica d'Irlanda, nell'Unione Europea, con l'euro. A nord l'Irlanda del Nord, che fa parte del Regno Unito e usa la sterlina. Il confine tra le due quasi non si vede: niente sbarre, niente dogana. Ci si accorge di averlo passato perché i cartelli passano dai chilometri alle miglia.
 
-Questo viaggio è un anello in auto di dodici giorni che parte e torna a Dublino. Scende a sud verso Glendalough, Kilkenny e Cork, gira la costa atlantica dal Kerry al Connemara e sale a nord fino a Derry/Londonderry, alla costa di Antrim e a Belfast. È un viaggio di Rick, e qui il racconto lascia spazio soprattutto alle informazioni pratiche, verificate su fonti ufficiali.
+Questo viaggio è un anello in auto di dodici giorni che parte e torna a Dublino. Scende a sud verso Glendalough, Kilkenny e Cork, gira la costa atlantica dal Kerry al Connemara e sale a nord fino a Derry/Londonderry, alla costa di Antrim e a Belfast.
 
 C'è anche una sezione lunga sulle due Irlande: perché l'isola è divisa, cosa sono stati i Troubles, cosa ha cambiato l'Accordo del Venerdì Santo e come stanno le cose oggi.
 
@@ -160,10 +160,10 @@ Gli ingressi principali verificati per il 2026: Kilmainham Gaol 8€, Glendaloug
 ## Chiusura personale
 L'Irlanda si attraversa per i paesaggi, e quelli non deludono: le scogliere, il Kerry, il Connemara, la costa di Antrim. Il motivo per cui vale la pena arrivare fino al nord è un altro. Tra Derry e Belfast si cammina dentro una storia ancora recente, e l'Accordo del 1998 smette di essere una data sul libro.
 
-*Un viaggio di Rick, raccontato soprattutto attraverso le informazioni pratiche. Fonti: ireland.com, gov.uk e nidirect.gov.uk per documenti, ETA, guida e sanità; heritageireland.ie, cliffsofmoher.ie, visittrinity.ie, National Trust e titanicbelfast.com per ingressi e orari; discovernorthernireland.com e visitbelfast.com per i tour; ONS per i dati economici; Wikipedia per la storia. Verificato a novembre 2026. Prezzi, orari e regole cambiano: vanno ricontrollati prima di partire.*
-
 ## Nota su questa bozza
 Viaggio fatto da Rick; i ricordi in prima persona arriveranno. I tempi di guida tra le tappe sono indicativi, senza soste. Restano generici, per mancanza di fonti confermate, i prezzi di auto e alloggi, il biglietto del Book of Kells, i prezzi di Dunluce Castle e Kylemore Abbey, e la data esatta in cui riapre la Long Room. Il prezzo di Carrick-a-Rede viene da Wikipedia e va confermato sul sito del National Trust. Nessun nome di hotel, ristorante o operatore inventato.
+
+Un viaggio di Rick, raccontato soprattutto attraverso le informazioni pratiche. Fonti: ireland.com, gov.uk e nidirect.gov.uk per documenti, ETA, guida e sanità; heritageireland.ie, cliffsofmoher.ie, visittrinity.ie, National Trust e titanicbelfast.com per ingressi e orari; discovernorthernireland.com e visitbelfast.com per i tour; ONS per i dati economici; Wikipedia per la storia. Verificato a novembre 2026. Prezzi, orari e regole cambiano: vanno ricontrollati prima di partire.
 
 ## Tag
 `#irlanda` `#irlandadelnord` `#dublino` `#belfast` `#derry` `#ringofkerry` `#cliffsofmoher` `#connemara` `#giantscauseway` `#troubles` `#roadtrip` `#europa`

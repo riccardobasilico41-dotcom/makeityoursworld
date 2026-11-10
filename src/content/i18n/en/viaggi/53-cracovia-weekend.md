@@ -101,7 +101,7 @@ The **bary mleczne**, the cheap canteens inherited from the communist era, for p
 - **Pay in złoty**, don't expect euros just because you're in the European Union.
 
 ## Chiusura personale
-What stays with me is the contrast between the two halves of the weekend: the medieval square with the trumpet that plays every hour and breaks off mid-note, and, an hour and a half away, a place that asks to be visited in silence. Krakow is both things at once, and it's the reason a weekend here is not just another European city break.
+In Kraków the weekend split in two: on one side the medieval city, with Rynek Główny, Wawel and Kazimierz; on the other the day at Auschwitz-Birkenau. We got back in the late afternoon, and that wasn't an evening for elaborate plans.
 
 ## Tag
 `#cracovia` `#polonia` `#auschwitz` `#wieliczka` `#kazimierz` `#wawel` `#memoria` `#cittadarte`

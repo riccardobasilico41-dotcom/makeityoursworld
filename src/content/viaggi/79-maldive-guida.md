@@ -242,7 +242,7 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (Italia-Malé 
 - **Prenotare con anticipo** per Natale, Capodanno e Pasqua, e per Hanifaru tra agosto e ottobre.
 
 ## Chiusura personale
-Le Maldive possono essere un viaggio di lusso o uno dei viaggi di mare più accessibili dell'Asia: dipende da dove si dorme. Chi sceglie un'isola locale, accetta le sue regole e passa le giornate in acqua con squali balena, mante e tartarughe vede un paese diverso da quello delle cartoline, e quando arriva in un resort sa apprezzarlo di più. La parte che non cambia è il mare: si torna a casa con la voglia di vedere un altro atollo, in un'altra stagione.
+Alle Maldive ci si viene per il mare. Io la house reef l'ho girata presto al mattino e di nuovo nel tardo pomeriggio, quando le tartarughe salgono a respirare, e le ore centrali le ho passate all'ombra. Il viaggio l'ho costruito così, prima un'isola locale e poi qualche notte in resort: è quello che consiglio a chi ama il mare più del lusso.
 
 ## Nota su questa bozza
 Guida costruita con ricerca documentale (ente del turismo delle Maldive, MTCC, autorità fiscale MIRA, Viaggiare Sicuri, centri diving e blog recenti), aggiornata a ottobre 2026. Prezzi di speedboat, escursioni, alloggi e tasse cambiano spesso e sono indicativi; orari dei traghetti e stagioni degli animali variano: vanno riverificati prima di partire. Nessuna esperienza personale compare nel testo: apertura e chiusura sono scritte in voce di guida, in attesa dei ricordi dell'autore.

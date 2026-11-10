@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-This is a short, ten-day version, of the longer trip Rick took in India: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*, with the overnight trains and the driver. The places are the ones from that trip; the ten-day sequence is a shortened version for those with less time. It keeps the Rajasthan stops that fit into ten days and leaves out Varanasi, Ranthambore, Pushkar and the desert.
+This is the short, ten-day version of my longer trip in India: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*, with the overnight trains and the driver. The places are the ones I saw; here I've put them in order over ten days for those with less time. It keeps the Rajasthan stops that fit into ten days and leaves out Varanasi, Ranthambore, Pushkar and the desert.
 
 Rajasthan is the most sensible first trip to India for anyone leaving from Italy. The distances are manageable, the monuments are among the finest in the country, and the network of trains, drivers and heritage hotels lets you organize everything yourself without joining a group tour. In ten days, this itinerary strings together the Golden Triangle (Delhi, Agra, Jaipur) and two Rajasthan cities that are worth the trip on their own: Jodhpur, the blue city below Mehrangarh Fort, and Udaipur, the city of lakes and white palaces.
 
@@ -154,7 +154,7 @@ Prices per person in a double room, intercontinental flights excluded (from Ital
 - **With Jaisalmer and the desert (+3 days):** from Jodhpur to Jaisalmer it's about 5 hours by car or train. The golden city, with its inhabited fort and sandstone havelis, and a night in the Thar Desert with camels among the dunes of Sam or Khuri, are worth the trip. You return to Jodhpur or fly from Jaisalmer when seasonal flights run.
 - **12-day version:** add Pushkar and one more night in Udaipur, with the excursion to Kumbhalgarh.
 - **7-day version:** Golden Triangle only (Delhi, Agra, Jaipur), returning by train or car from Jaipur to Delhi.
-- **With Varanasi:** the trip Rick actually took, 19 days with Varanasi, the Ranthambore safaris, Pushkar, Jaisalmer and the desert, two nights in a sleeper berth and the driver, is in *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
+- **With Varanasi:** the trip I actually took, 19 days with Varanasi, the Ranthambore safaris, Pushkar, Jaisalmer and the desert, two nights in a sleeper berth and the driver, is in *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
 
 ## Practical tips / mistakes not to repeat
 - **Check the calendar before locking in Agra:** the Taj Mahal is closed on Fridays, because the mosque inside the complex holds the midday prayer, reserved for Agra residents. If Day 4 is a Friday, go into the Taj on the afternoon of Day 3, as soon as you arrive (it closes half an hour before sunset), and move Agra Fort to the morning of Day 4, before leaving for Jaipur.
@@ -169,9 +169,9 @@ Prices per person in a double room, intercontinental flights excluded (from Ital
 - **Ask before photographing people**, especially women, and respect the photo bans inside temples.
 
 ## Chiusura personale
-Ten days in Rajasthan aren't enough to understand India, but they are enough to understand whether you want to come back. It's a trip made of strong contrasts: the noise of Delhi and the silence of the Taj at six in the morning, the chaos of the Jaipur bazaars and the wind on the walls of Mehrangarh, the constant horns on the roads and the calm of a terrace on Lake Pichola at sunset. Anyone who prepares it well, with booked trains, a reliable driver and two nights in every city, goes home wanting to see the rest: Varanasi, the Thar Desert, the South.
+From this part of India I take home the Taj Mahal, seen twice, at sunset and the next day at dawn (it's closed on Fridays, remember that). Then Jaipur, with the maharaja dinners at Jamavar and at 1135 AD. During the day we always ate street food and, strange but true, our stomachs were always fine. The driver, on the other hand, was a nutcase: choose yours carefully.
 
-*This short version comes from Rick's longer trip in India, India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver: the places are the ones he visited, the ten-day sequence is rearranged for those with less time. From that trip come the Rajasthan stops, the warning about the Taj on Fridays, the tip about the security lines and the advice to choose your driver carefully (he wouldn't recommend his). Routes, times, prices and rules come from official visa and Indian railways portals, the official Taj Mahal website, monument websites, Viaggiare Sicuri and recent guides, verified in October-November 2026: double-check them before you go.*
+By Western standards people can come across as pushy. But it's an incredible country, and it gives you a lot.
 
 ## Tag
 `#india` `#rajasthan` `#delhi` `#agra` `#tajmahal` `#jaipur` `#jodhpur` `#udaipur` `#ranakpur` `#triangolodoro` `#asia` `#treniindiani`

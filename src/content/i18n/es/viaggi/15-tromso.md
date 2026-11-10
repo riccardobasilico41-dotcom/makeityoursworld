@@ -92,7 +92,9 @@ La cocina local gira mucho en torno al cangrejo real (kongekrabbe) y al bacalao 
 | Avistamiento de ballenas (opcional) | 130-260 € |
 
 ## Chiusura personale
-Aun con pocos recuerdos directos, lo que más me quedó es la sensación de la oscuridad de la noche polar interrumpida por las luces de la ciudad y por la aurora vista moverse por primera vez en el cielo. La de los perros estuvo bien, pero no la repetiría: me pareció un poco regular. Eso sí, yo con los animales soy sensible, así que cuenta relativamente, y es un juicio a posteriori: sigue siendo una experiencia muy bonita.
+Lo que más me quedó es la oscuridad de la noche polar interrumpida por las luces de la ciudad, y la aurora vista moverse por el cielo por primera vez. Salimos a buscarla dos veces: la primera justo a las afueras de la ciudad, la segunda casi hasta Suecia.
+
+El trineo con perros estuvo bien, pero no lo repetiría: me pareció un poco así así. Eso sí, yo con los animales soy sensible, así que cuenta relativamente: sigue siendo una experiencia muy bonita.
 
 ## Tag
 `#norvegia` `#tromso` `#aurora-boreale` `#inverno` `#cultura-sami`

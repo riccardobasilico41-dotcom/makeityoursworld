@@ -111,7 +111,7 @@ Due giorni a Firenze reggono bene, a una condizione: **un solo grande museo, non
 
 ## Dove abbiamo mangiato
 - **La bistecca alla fiorentina**, al sangue e a peso, divisa in due. Ben cotta non è più quel piatto. *Il mio ricordo: il lampredotto non mi fa impazzire, ma la bistecca è incredibile. Ed è difficile mangiare male.*
-- **Dove mangiare la bistecca in centro, quattro suggerimenti** (indirizzi scelti con una ricerca, non posti in cui siamo stati; orari da ricontrollare prima di andare): **Buca Lapi**, in via del Trebbio 1r, nelle cantine di Palazzo Antinori, aperta dal 1880, la sera · **Trattoria Mario**, in via Rosina 2r vicino al Mercato Centrale, solo a pranzo dal lunedì al sabato · **Trattoria Sostanza**, in via del Porcellana 25r, piccolissima, da prenotare con largo anticipo · **Il Latini**, in via dei Palchetti 6r, segnalato dalla Guida Michelin, chiuso il lunedì.
+- **Dove mangiare la bistecca in centro, quattro suggerimenti** (indirizzi noti, non posti in cui siamo stati): **Buca Lapi**, in via del Trebbio 1r, nelle cantine di Palazzo Antinori, aperta dal 1880, la sera · **Trattoria Mario**, in via Rosina 2r vicino al Mercato Centrale, solo a pranzo dal lunedì al sabato · **Trattoria Sostanza**, in via del Porcellana 25r, piccolissima, da prenotare con largo anticipo · **Il Latini**, in via dei Palchetti 6r, segnalato dalla Guida Michelin, chiuso il lunedì.
 - **Il lampredotto al chiosco**, il modo più fiorentino di pranzare.
 - **Ribollita e pappa al pomodoro**, cucina di recupero del pane raffermo, migliori di quanto la descrizione lasci pensare.
 - **La schiacciata** con i salumi, e il **pane senza sale**, che all'inizio sembra sbagliato.
@@ -131,9 +131,7 @@ Due giorni a Firenze reggono bene, a una condizione: **un solo grande museo, non
 - **Non riempire tre giorni consecutivi di musei:** i buchi nel programma sono la parte che fa funzionare Firenze.
 
 ## Chiusura personale
-La cosa che resta di Firenze è una questione di scala. Si sta in fondo alla navata del Duomo, che dentro è sorprendentemente spoglia, quasi disadorna, e si guarda in su verso una cupola che sembra normale finché non si sa che al momento di costruirla nessuno al mondo sapeva come si facesse: il tamburo era già lì, ottagonale, largo quarantacinque metri, e per un paio di generazioni Firenze ha avuto la sua cattedrale con un buco al posto del tetto. Poi si sale, e a metà strada ci si accorge di essere dentro il muro, tra un guscio e l'altro, in un'intercapedine progettata sei secoli fa da un uomo che non ha mai spiegato del tutto come pensava di riuscirci.
-
-È questa la cosa che resta, più della Venere di Botticelli: che il Rinascimento fiorentino non è stato un movimento artistico ma un problema tecnico risolto da gente che se lo giocava, e che tutto il resto (il David, gli Uffizi, le porte del Ghiberti) è venuto dietro a quella sicurezza lì.
+A Firenze è difficile mangiare male. Il lampredotto non mi fa impazzire, ma la bistecca è incredibile. E la regola che mi porto via è quella dell'inizio: un grande museo al giorno, non due, e qualche buco nel programma.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le formule e i nomi dei biglietti cumulativi del complesso del Duomo cambiano nel tempo**, così come le modalità di accesso alla Cappella Brancacci e al Corridoio Vasariano, e gli orari dei vespri a San Miniato variano con la stagione. Vanno riverificati.

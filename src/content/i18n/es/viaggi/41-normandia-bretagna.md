@@ -127,7 +127,7 @@ Camembert y sidra en Normandía, calvados a media comida, galettes saladas y cr�
 - **Llevar siempre el chubasquero.**
 
 ## Chiusura personale
-Lo que se queda es el contraste entre Omaha Beach, que es una playa normalísima y por eso mismo difícil de soportar, y el GR34 en Bretaña, que no se acaba nunca y devuelve otro tipo de intensidad: la del paisaje que cambia cada dos horas de camino.
+Normandía y Bretaña son dos viajes distintos puestos en fila: primero el denso, la historia y las playas del desembarco, luego el lento, la costa y el camino, con el Mont-Saint-Michel en medio. Dos cosas que no hay que olvidar: las distancias bretonas son más largas de lo que parecen, y el chubasquero hay que llevarlo siempre.
 
 ## Tag
 `#normandia` `#bretagna` `#francia` `#montsaintmichel` `#sbarco` `#gr34` `#carnac`

@@ -9,8 +9,6 @@
 ---
 
 ## Apertura personale
-Este itinerario nace de lugares que Rick ha visitado personalmente, ordenados para quien quiere Londres y un trozo de campo inglés en el mismo viaje.
-
 *Mi recuerdo: Londres también es mi casa. Hice la universidad en Surrey y viví allí un año, trabajando en el centro.*
 
 Los cuatro primeros días son en **Londres**, sin coche: metro, autobús y muchas horas a pie junto al Támesis. Luego se coge el tren en Paddington y se baja en **Oxford**, la ciudad de los colleges. Allí se recoge el coche y se entra en los **Cotswolds**, las colinas de los pueblos de piedra color miel. El último tramo lleva a **Bath**, con las termas romanas, desde donde el tren vuelve a Londres.
@@ -23,7 +21,7 @@ El coche solo hace falta tres días. En la ciudad sería un estorbo, entre el tr
 - **Moneda y pagos:** libra esterlina. Las tarjetas y el contactless funcionan casi en todas partes.
 - **Moverse por Londres:** metro y autobús pagando con la tarjeta contactless o con la Oyster, siempre la misma tarjeta, que tiene un tope de gasto diario.
 - **Trenes:** desde Londres Paddington salen los trenes a Oxford, a la línea de los Cotswolds hasta Moreton-in-Marsh y a Bath. Horarios y precios hay que comprobarlos en nationalrail.co.uk.
-- **Conducción:** se conduce por la izquierda. El carné de conducir italiano es válido sin permiso internacional. En Inglaterra el límite de alcohol es de 80 mg por 100 ml de sangre, pero el consejo de Rick es uno solo: quien conduce no bebe. *Mi recuerdo: conducir por la izquierda para mí está bien, pero hay que entrenarse, digamos. Y en el campo, de vez en cuando, las carreteras pueden ser estrechas.*
+- **Conducción:** se conduce por la izquierda. El carné de conducir italiano es válido sin permiso internacional. En Inglaterra el límite de alcohol es de 80 mg por 100 ml de sangre, pero mi consejo es uno solo: quien conduce no bebe. *Mi recuerdo: conducir por la izquierda para mí está bien, pero hay que entrenarse, digamos. Y en el campo, de vez en cuando, las carreteras pueden ser estrechas.*
 - **Coche en Londres:** mejor no. En la zona central se paga la Congestion Charge, 18 libras al día (2026), más la ULEZ para los vehículos más contaminantes.
 - **Salud:** la TSE cubre la atención necesaria en el servicio público NHS; sigue siendo recomendable un seguro de viaje.
 - **Enchufes:** tipo G, con tres clavijas rectangulares. Hace falta un adaptador.
@@ -109,9 +107,7 @@ Después se sube al **Circus** y al **Royal Crescent**, los edificios georgianos
 - **Quien conduce no bebe.** Ni siquiera una pinta en el pub del pueblo.
 
 ## Chiusura personale
-Ocho días bastan para ver Londres con calma y probar de verdad el campo inglés, sin pasar el viaje al volante. Quien tenga algunos días más puede subir al norte, hacia Escocia.
-
-*Este itinerario nace de lugares que Rick ha visitado personalmente. La información práctica viene de fuentes oficiales: gov.uk (ETA, entrada de los ciudadanos de la UE, carné de conducir y límites de alcohol), Transport for London (Congestion Charge), NHS (TSE), VisitBritain (enchufes), el Natural History Museum, VisitCotswolds y National Rail, verificada en noviembre de 2026. Tiempos de tren orientativos. Horarios, precios y normas cambian: hay que comprobarlos antes de salir.*
+Para mí Londres sigue siendo casa: estudié en la universidad en Surrey y viví allí un año, trabajando en el centro. En los Cotswolds, conducir por la izquierda para mí está bien, pero hay que entrenarse un poco, y en el campo, de vez en cuando, las carreteras son estrechas.
 
 ## Tag
 `#inghilterra` `#londra` `#cotswolds` `#oxford` `#bath` `#bibury` `#borghi` `#musei` `#treno` `#campagnainglese` `#regnounito`

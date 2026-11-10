@@ -152,11 +152,9 @@ Quien tenga una tarde libre puede parar en **Jimbaran**, de camino al aeropuerto
 - **Saltarse el sur genérico de Bali**: Uluwatu tiene la misma costa con más carácter.
 
 ## Chiusura personale
-Esta ruta junta la Indonesia más famosa con un trozo de la más salvaje, con trayectos cortos. Bali gusta más vista desde Ubud y desde Uluwatu. Las Nusa hay que tomárselas con calma y con el despertador temprano. Komodo sigue siendo el lugar donde un animal quieto a la sombra consigue impresionar más que cualquier paisaje. Si tienes algún día más, alárgalo: cada una de estas islas merece al menos una semana.
+De Bali se me quedó grabada la danza Kecak en Uluwatu al atardecer, más que cualquier arrozal o playa. En Nusa Penida pasé tres noches, recorriéndola con calma, y la recomiendo así. En Komodo dormí en el barco con Kanha Loka para estar en Padar al amanecer; los dragones casi siempre están quietos, pero impresiona su tamaño, y el ranger con solo un palo en forma de horquilla en la mano.
 
 Lo que me hizo volver a Indonesia, eso sí, es la gente: los lugares y las sonrisas.
-
-*De Rick vienen la opinión sobre Bali y la danza Kecak, el consejo del primer barco a Nusa Penida, las tres noches en Penida recorrida con calma, los recuerdos de los dragones, de Rinca y de Padar al amanecer, y los contactos recomendados (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). El resto viene de las fichas de destino de la web y de la investigación del 5 de noviembre de 2026: la web Love Bali para la tasa turística, ANTARA para las tarifas del parque de Komodo vigentes desde el 30 de octubre de 2024, operadores y guías del sector para los barcos desde Sanur, la lista de rutas del aeropuerto de Labuan Bajo y los consejos de gov.uk sobre seguridad en barco. Horarios y precios de los barcos y la tasa local de las Nusa hay que comprobarlos de nuevo antes de salir.*
 
 ## Tag
 `#indonesia` `#bali` `#nusapenida` `#nusalembongan` `#komodo` `#labuanbajo` `#padar` `#ubud` `#uluwatu` `#snorkeling` `#duesettimane` `#asia`

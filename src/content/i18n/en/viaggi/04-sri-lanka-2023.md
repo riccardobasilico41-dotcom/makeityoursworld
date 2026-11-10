@@ -205,7 +205,9 @@ Very positive reviews: a boutique hotel right on the sea, spacious rooms, cleanl
 - **Ayurvedic massages**: to be booked a day ahead through the driver or the hotel.
 
 ## Chiusura personale
-From a trip this dense and varied it's hard to choose what to take home first, but if I have to rank the feelings, I put the night on Adam's Peak first, followed by the safari at Minneriya among the elephants and the scenic train to Ella, late as per tradition but beautiful all the same. Among temples, hiking and the beaches of the south, what stays most is precisely the contrast: few countries let you go from a night pilgrimage climb to a beach like Hikkaduwa within three days.
+If I have to pick, the night on Adam's Peak comes first: the effort of climbing in line with the pilgrims, the cold that only hits you at the top. Right after that I'd put Minneriya, where we saw loads of elephants, and the rafting at Kitulgala, great fun in the middle of wild, living nature. Really, really beautiful.
+
+The train to Ella took from early afternoon to late evening, with the doors left open in places and the conductors pretending not to notice. Then the beaches of the south, at Hikkaduwa, to close twelve days that were a crazy concentration of different landscapes.
 
 ## Tag
 `#srilanka` `#adamspeak` `#sigiriya` `#safari` `#trenopanoramico` `#asia`

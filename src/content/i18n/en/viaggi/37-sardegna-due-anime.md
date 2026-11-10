@@ -235,11 +235,7 @@ Flight from Cagliari. Elmas airport is about ten kilometers from the center and 
 - **Factor in the distances:** the island is big, and the interior state roads are slow.
 
 ## Chiusura personale
-What stays with you from Sardinia is the contrast between two things seen in the same week. The first is Porto Cervo: a perfect little square, designed in the 1960s by brilliant architects, in which every detail (the plaster, the color of the shutters, the curve of the roof) was decided at a desk to evoke a Mediterranean village that never existed on that spot. It works beautifully, and it is fake in a completely honest way.
-
-The second is any nuraghe at all, the kind you come across in the middle of a field along an interior state road, with no sign and no ticket office: a cone of boulders stacked dry, without mortar, standing for thirty-five hundred years, built by a civilization that left seven thousand of them on one island and whose language we don't know, nor the name it called itself, nor with certainty what those towers were for.
-
-Between these two things there are sixty kilometers of road and thirty-five hundred years, and they sit on the same island. Anyone who goes to Sardinia and sees only the first hasn't chosen the wrong vacation: they've just looked at the two percent.
+This was our route: first Gallura, with La Maddalena seen from the boat and Capo Testa; then the Gulf of Orosei, on foot from the Golgo and by boat along the coves; then the interior, the archaeology, the dunes of Piscinas and, to finish, the ferry to Carloforte.
 
 ## Tag
 `#sardegna` `#italia` `#costasmeralda` `#golfodiorosei` `#barbagia` `#nuraghi` `#sulcis` `#carloforte` `#isole`

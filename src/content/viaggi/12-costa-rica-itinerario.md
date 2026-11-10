@@ -204,7 +204,9 @@ Tra gli aspetti più citati ci sono la buona posizione e lo staff cordiale; dive
 - Una playlist condivisa su Spotify per i tanti, lunghi trasferimenti: un modo semplice per farli diventare parte del viaggio invece che tempo morto.
 
 ## Chiusura personale
-Tra il Caribe di Puerto Viejo e il Pacifico di Uvita non c'è un vero vincitore: il primo per la giungla, le scimmie urlatrici e i due Temazcal vissuti come vere cerimonie spirituali; il secondo per il ritmo più lento, le spiagge e, con un po' di fortuna nella stagione sbagliata, anche qualche avvistamento di balene. Tredici giorni così densi hanno ripagato, ma se dovessi rifarlo rallenterei su Monteverde e Manuel Antonio, le due tappe dove avrei voluto più tempo per godermi la natura invece di correre verso il trasferimento successivo.
+In generale il Costa Rica è bellissimo: natura incredibile, surf, animali ovunque. A Cahuita abbiamo visto lo squalo nutrice, le razze, i bradipi e scimmiette di ogni tipo, e Tortuguero assomiglia tantissimo all'Amazzonia. Il canyoning nel Lost Canyon è l'attività che consiglio di più, la zip line gigante di Monteverde è fighissima, e dal cavallo a Uvita sono pure caduto, ma è stato bellissimo lo stesso. Il Corcovado l'ho fatto ed è super.
+
+L'unica cosa: è carissimo sulle attività e si paga quasi sempre in dollari. E alla fine, invece di tornare a San José, siamo andati al confine, abbiamo attraversato il ponte ed è iniziata l'avventura a Panama.
 
 ## Proseguire a Panama
 Un'opzione, invece di chiudere il giro a San José: dalla zona di Cahuita si prosegue verso Panama. Noi siamo andati al confine, abbiamo attraversato il ponte ed è iniziata l'avventura a Panama. Se vuoi unire i due Paesi, dal Costa Rica ci arrivi così.

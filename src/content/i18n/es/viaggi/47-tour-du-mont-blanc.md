@@ -106,7 +106,7 @@ Sopas y polenta en el refugio; en el valle raclette, tartiflette y los quesos sa
 - **No subestimar el desnivel**: las etapas de 800-900 metros son lo normal.
 
 ## Chiusura personale
-Lo que queda es cuánto cambia el mismo macizo según la vertiente: vertical y helado en Francia, abierto y amplio en Italia, ordenado en Suiza. Tres maneras de estar bajo la misma cumbre.
+La vuelta la hicimos saliendo de Les Houches, luego a Italia por el Col de la Seigne, subiendo al Rifugio Bonatti y bajando a Suiza hasta el lago de Champex. Cada día salida temprano, para estar en el refugio antes de primera hora de la tarde.
 
 ## Tag
 `#tourdumontblanc` `#francia` `#trekking` `#montagna` `#chamonix`

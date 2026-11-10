@@ -184,7 +184,7 @@ pena affrontarlo con un metodo:
   d'apertura non richiesto, una specie di coperto) da circa 300-500 yen a persona: è
   normale, non è una fregatura.
 - **Il conto non include mai le tasse**: va aggiunto il 10% al totale.
-- **Consigli extra dalla ricerca**, per chi vuole allargare la lista oltre ai
+- **Qualche indirizzo in più**, per chi vuole allargare la lista oltre ai
   locali già segnalati nel programma: a Tokyo gli izakaya di fascia alta
   come Tanakada (Nishi-Azabu) sono ottimi per un'occasione speciale; a Kyoto
   Muromachi Kaji è un kappo-izakaya molto apprezzato per i suoi piatti in
@@ -307,7 +307,11 @@ Ikebukuro, Hotel Century Southern Tower
   salvano la situazione.
 
 ## Chiusura personale
-Di un viaggio così denso porto a casa soprattutto i contrasti: i sakura cacciati per Tokyo, il Fuji visto da Chureito con i ciliegi ancora in piena fioritura una settimana dopo, i cervi di Nara che passeggiano liberi tra i templi, e le notti tra izakaya affollati e Shibuya Crossing. Se dovessi scegliere un solo momento, sceglierei proprio quello alla Pagoda Chureito: il Giappone da cartolina che per una volta è davvero così anche dal vivo.
+Il giro classico del Giappone è intasato di turisti ovunque, e Kyoto più di tutto: lì consiglio di uscire la mattina presto, per avere una sensazione più autentica. A Fushimi Inari sono salito fino in cima: la vista niente di che, ma l'esperienza è bella.
+
+Hiroshima per me è stata al limite: verso la fine ho dovuto accelerare il passo, perché emotivamente era «troppo». Miyajima mi è piaciuta, ma chi ha meno giorni, per me, può tagliare questa parte. Dotonbori invece mi è piaciuta tantissimo, anche se i miei amici avevano pareri contrastanti, e a Nara ho mangiato un tonno spaziale.
+
+E Tokyo, vista a spizzichi tra l'arrivo e gli ultimi due giorni, meriterebbe una vacanza a sé.
 
 ## Materiale grezzo (appunti, non ancora editato)
 Fonti caricate:

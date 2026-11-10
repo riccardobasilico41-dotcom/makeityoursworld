@@ -280,7 +280,7 @@ Por persona, en habitación doble compartida, sin incluir los vuelos intercontin
 - **Partidas sueltas:** vuelos internos 400-1.200 R$ por trayecto reservados con antelación; Cristo Redentor unos 87 R$ con la furgoneta oficial; Pan de Azúcar unos 205 R$; parque brasileño de Iguazú 134 R$; parque argentino 60.000 pesos argentinos (unos 40 dólares); entrada a los Lençóis Maranhenses gratuita; escuna en Paraty 100-150 R$; excursión de un día en la Chapada 150-300 R$ más guía; jardineira en los Lençóis 100-150 R$ por circuito; lodge amazónico 800-2.500 R$ por noche; barco para los jaguares unos 1.400-1.600 R$ al día por barco.
 
 ## Chiusura personale
-Este es un itinerario de contrastes: la metrópolis bajo el Cristo y la isla sin coches, las cataratas que separan dos países, el centro barroco de Salvador y los cañones vacíos de la Chapada, y por último un desierto lleno de agua. Reúne muchas cosas porque acepta algunas jornadas de traslado, que en Brasil son inevitables. Las dos extensiones son la forma de ver el interior del país, los jaguares o la selva para quien tenga más tiempo, y de salir de Brasil remontando el río Amazonas para quien quiera hacerlo.
+Tres semanas de Río a los Lençóis Maranhenses, pasando por Ilha Grande, Iguazú, Salvador y la Chapada Diamantina. Brasil no se recorre entero de una vez: hay que elegir, y los días de traslado forman parte del viaje.
 
 ## Tag
 `#brasile` `#riodejaneiro` `#paraty` `#ilhagrande` `#iguazu` `#salvador` `#chapadadiamantina` `#lencoismaranhenses` `#pantanal` `#amazzonia` `#natura` `#sudamerica`

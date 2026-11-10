@@ -99,7 +99,7 @@ Il **döner kebab** e il **currywurst** come street food di riferimento, che si 
 - **Convalidare sempre il biglietto BVG** prima di salire, dove non ci sono tornelli.
 
 ## Chiusura personale
-Quello che mi resta è il modo in cui questa città tiene insieme cose che altrove restano separate: un memoriale silenzioso a due passi da un mercato turco pieno di vita, un tratto di Muro trasformato in galleria d'arte a cielo aperto a poche fermate di metro da un centro di documentazione sulla Gestapo. Berlino non chiede di scegliere tra la storia e il presente: li mette sulla stessa mappa, ed è la ragione per cui quattro giorni, qui, non sono un giorno di troppo.
+Quattro giorni a Berlino: la Porta di Brandeburgo e il Reichstag, un giorno intero sul Muro, da Bernauer Straße a Checkpoint Charlie, Alexanderplatz e l'ex Berlino Est, e l'ultimo giorno a est, tra l'East Side Gallery e i quartieri nati dopo la caduta del Muro.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Orari e regole di prenotazione del Reichstag, lo stato dei lavori al Pergamonmuseum e gli orari dei mercatini di Natale cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

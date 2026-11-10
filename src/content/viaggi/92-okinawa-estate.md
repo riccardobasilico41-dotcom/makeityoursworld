@@ -13,8 +13,6 @@ Okinawa è il Giappone che non ci si aspetta. Mare tropicale, barriera corallina
 
 Questo viaggio è costruito per l'estate, quando il mare è al suo meglio. Comincia sull'isola principale, tra Naha, l'acquario di Churaumi e la foresta di Yanbaru. Poi due notti alle Kerama, a un'ora di barca da Naha. Poi Miyako, con le spiagge più bianche dell'arcipelago, e infine Ishigaki con le isole Yaeyama: la giungla di Iriomote e il villaggio di Taketomi.
 
-Come tutti i viaggi del sito, nasce da luoghi che ho visitato personalmente e da esperienze che ho vissuto davvero, messi in fila in un percorso pratico.
-
 ## Scheda pratica
 - **Quando andare:** la stagione delle piogge a Okinawa comincia in media intorno al 10 maggio e finisce intorno al 21 giugno (media 1991-2020 della JMA). Nel 2026 è andata dal 4 maggio circa al 29 giugno. Le settimane subito dopo, fine giugno-metà luglio, sono di solito le più stabili. Poi arrivano i tifoni: in media 1,5 si avvicinano a Okinawa e Amami a luglio, 2,3 ad agosto, 2,0 a settembre, 1,1 a ottobre. Ad agosto e settembre il viaggio si fa, ma con giorni di margine.
 - **Tifoni:** quando ne arriva uno, traghetti e voli possono fermarsi anche per qualche giorno. Conviene lasciare l'ultima notte vicino all'aeroporto da cui si riparte, assicurazione che copra i ritardi, prenotazioni modificabili. Le previsioni ufficiali sono sul sito della JMA.
@@ -144,7 +142,7 @@ Chi ha il volo nel pomeriggio può passare la mattina al mercato del centro di I
 - **Patente:** per noleggiare l'auto serve il permesso di guida internazionale insieme alla patente italiana.
 
 ## Chiusura personale
-Okinawa in estate chiede una sola cosa: elasticità. Il mare migliore arriva proprio nei mesi dei tifoni, e un viaggio tra le isole vive di traghetti e voli piccoli. Con qualche giorno di margine e un programma che si sposta senza drammi, si torna con il Giappone più inaspettato: tartarughe, mangrovie, villaggi di corallo, e un regno di cui in Europa si sa poco.
+Okinawa è il Giappone che non ci si aspetta: mare tropicale, barriera corallina, mangrovie e la cultura di un regno che per secoli è stato a sé. È un viaggio da fare d'estate, quando il mare è al suo meglio.
 
 ## Nota su questa bozza
 Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Nessuna esperienza personale nel testo: apertura e chiusura sono in voce di guida. Prezzi di traghetti e ingressi cambiano spesso e vanno ricontrollati prima di partire.

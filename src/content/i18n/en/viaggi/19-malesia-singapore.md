@@ -182,7 +182,7 @@ At Taman Negara, especially after rain, leeches are almost guaranteed. They aren
 - **Remember where you are**: very harsh drug penalties in both countries, real fines in Singapore for things that are trivial elsewhere.
 
 ## Chiusura personale
-What's left of this trip isn't a monument, which is unusual to say after fourteen days. It's the fact that in a single evening, in Kuala Lumpur or George Town, you can eat Chinese, Malay and Indian at three stalls ten meters apart, and that none of the three cuisines has watered anything down to fit in with the others. That coexistence is neither simple nor idyllic, and it's openly debated in Malaysia, but it's the thing that makes this country different from all its neighbors. Then there's the finish in Singapore, which looks like the opposite and is really the same story taken to the extreme: four official languages, four calendars of holidays, and a system of public food centers that keeps the best food in the city at three euros a plate. You cross Malaysia by eating, and that's not a figure of speech: it's literally the itinerary.
+From Taman Negara I keep the night we spent in a cave, in the rain, and the walk back the next day among the leeches: my friend even found one under his armpit. We saw few animals, but maybe because it was high season and there were loads of people.
 
 ## Tag
 `#malesia` `#singapore` `#kualalumpur` `#penang` `#georgetown` `#malacca` `#tamannegara` `#cameronhighlands` `#hawker` `#streetfood` `#asia`

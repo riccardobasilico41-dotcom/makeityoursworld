@@ -152,7 +152,5 @@ In Lima, with an evening flight, you have a few hours left: the **Museo Larco**,
 ## Chiusura personale
 The mistake I wouldn't make again is underestimating the altitude. And you need comfortable shoes, always. To anyone going, I say don't get ripped off by agencies and, if you can, add a few days for the Amazon: it's incredible.
 
-*The trip is Rick's, who has been to Peru in 2018, 2021 and 2024. From him come Machu Picchu at sunrise, Huayna Picchu, the ways he got there, the food of Lima, Santa Catalina, the Cruz del Cóndor, the night on Amantaní, Rainbow Mountain and Humantay, the souvenirs from Assunta, the Amazon and Laguna 69. This two-week itinerary is a reduction of his long trip through Peru, run in reverse to climb in altitude by steps: routes, times, costs and warnings come from there and from the site's destination pages, checked in September 2026. Prices, schedules and access rules change: recheck them before you go.*
-
 ## Tag
 `#peru` `#machupicchu` `#cusco` `#vallesacra` `#titicaca` `#arequipa` `#colca` `#lima` `#altaquota` `#duesettimane` `#sudamerica`

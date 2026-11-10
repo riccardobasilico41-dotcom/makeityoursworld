@@ -15,8 +15,6 @@ Sul sito c'è già un altro viaggio in Giappone, [i 12 giorni di aprile tra saku
 
 Uno spoiler dal mio viaggio: il giro classico è intasato di turisti ovunque, soprattutto Kyoto.
 
-Come tutti i viaggi del sito, nasce da luoghi che ho visitato personalmente e da esperienze che ho vissuto davvero, messi in fila in un percorso pratico.
-
 ## Scheda pratica
 - **Quando andare:** da fine aprile a inizio giugno e da ottobre a metà novembre. Kamikochi apre a metà aprile e chiude a metà novembre (nel 2026 dal 17 aprile al 15 novembre). Giugno-luglio è la stagione delle piogge su gran parte di Honshu, agosto è caldo e umido. In inverno Shirakawa-go e Takayama sono sotto la neve: bellissimi, ma Kamikochi è chiuso e il Nakasendō può avere neve sui gradini di pietra.
 - **Documenti:** per i cittadini italiani nessun visto per turismo fino a 90 giorni, con passaporto valido per tutto il soggiorno.
@@ -183,7 +181,9 @@ Partenza da Kansai o da Tokyo. Dal Kansai l'Haruka arriva in aeroporto da Kyoto 
 - **Onsen e tatuaggi:** molti ryokan li vietano ancora nei bagni comuni. Le camere con bagno privato o i bagni privati a noleggio, i kashikiri, risolvono.
 
 ## Chiusura personale
-Il viaggio classico mostra il Giappone delle grandi città e dei templi più famosi. Questa versione aggiunge i paesi di montagna, le strade a piedi e le notti nei templi, e chiede in cambio più giorni e un po' di organizzazione sui bus. Chi ha diciassette giorni e un primo viaggio alle spalle, o vuole farne uno solo ma completo, trova qui il Giappone che sta tra le due coste.
+Il giro classico l'ho trovato intasato di turisti ovunque, soprattutto Kyoto, che consiglio di girare la mattina presto. A Fushimi Inari sono salito fino in cima: la vista niente di che, ma l'esperienza è bella. Tokyo meriterebbe una vacanza a sé, Dotonbori a me è piaciuta tantissimo, e a Nara ho mangiato un tonno spaziale da Maguro Koya.
+
+Hiroshima per me è stata al limite: verso la fine ho dovuto accelerare il passo, perché emotivamente era «troppo». Chi ha meno giorni, secondo me, può tagliare Hiroshima e Miyajima.
 
 ## Nota su questa bozza
 Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Le uniche esperienze personali nel testo sono i ricordi dati da Rick il 10/11/2026 (folla del giro classico, Tokyo, Kyoto e Fushimi Inari, Maguro Koya a Nara, Dotonbori, Hiroshima e Miyajima); il resto è in voce di guida. Le tappe dell'entroterra sono quelle che Rick potrebbe aver fatto in un viaggio di cui non ricorda i dettagli: la lista da spuntare è in docs/giappone-da-confermare.md.

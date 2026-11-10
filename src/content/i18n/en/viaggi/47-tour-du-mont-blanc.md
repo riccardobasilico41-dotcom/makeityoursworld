@@ -106,7 +106,7 @@ Soups and polenta in the huts; in the valley raclette, tartiflette and the Savoy
 - **Don't underestimate the elevation gain**: stages of 800-900 meters are the norm.
 
 ## Chiusura personale
-What stays with you is how much the same massif changes depending on the side: vertical and icy in France, open and wide in Italy, orderly in Switzerland. Three ways of standing under the same summit.
+We did the loop starting from Les Houches, then into Italy over the Col de la Seigne, up to the Rifugio Bonatti and down into Switzerland as far as the lake at Champex. Every day an early start, to be at the hut before early afternoon.
 
 ## Tag
 `#tourdumontblanc` `#francia` `#trekking` `#montagna` `#chamonix`

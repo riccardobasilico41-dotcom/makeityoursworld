@@ -93,7 +93,7 @@ Mehanas in Bansko's old town, with kapama, banitsa and shopska salata, always ac
 - Rila Monastery fits nicely on the way back to Sofia: there's no need to dedicate a separate day to it.
 
 ## Chiusura personale
-A trip that doesn't bet everything on skiing (the slopes are pleasant but honest, without the charm of the big Alpine resorts) and that instead works very well as an exotic, inexpensive interlude off the usual circuit. Rila Monastery, with its frescoes and the silence of the mountain around it, remains the most vivid memory of the whole trip.
+I didn't expect much from the skiing, and that's how it was: nice, well-groomed slopes, nothing over the top compared with the Alps. But you don't go to Bulgaria for the skiing itself: you go for the slightly exotic experience of skiing in a corner of Europe off the usual circuit, on a small budget. The surprise ending was the Rila Monastery, on the way back to Sofia.
 
 ## Tag
 `#bulgaria` `#bansko` `#rila` `#sci` `#montagna` `#balcani` `#europa`

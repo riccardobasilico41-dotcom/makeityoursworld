@@ -174,9 +174,7 @@ The archipelago can also be done very well by ferry, with a different logic: **y
 - **Book the Salina wineries**, which are not shops.
 
 ## Chiusura personale
-What stays with you isn't a panorama: it's a sound. You're anchored under the coast at Stromboli, at night, with the lights off and the engine stopped, and you can't see anything but the black profile of the volcano against a sky slightly less black. Then there's a dull thud, that you feel in the hull before your ears, and on the rim of the crater an orange light goes on. A few seconds later the glowing blocks start to come down the chute, rolling for hundreds of meters to the sea and going out one by one with a hiss.
-
-Then the silence returns, and after a few minutes it starts again. And what gets to you, sitting in the cockpit watching it, is that this happens **like this, at that rhythm, since before there were Greeks**: the ancients called it the lighthouse of the Mediterranean and sailed by it, and there are five hundred people living at its feet, buying bread, sending their kids to school, and over their heads the volcano explodes every five minutes for two thousand years. Nobody ever decided anything about it. It's simply like that, and people have gotten used to it.
+By boat, the reason to do this route remains Stromboli's Sciara del Fuoco seen from the sea, at night. The rest is up to the wind.
 
 ## Tag
 `#eolie` `#vela` `#stromboli` `#lipari` `#salina` `#panarea` `#alicudi` `#sicilia` `#italia`

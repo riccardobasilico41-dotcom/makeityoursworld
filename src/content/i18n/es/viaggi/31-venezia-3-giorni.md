@@ -124,9 +124,7 @@ La tarde es para la **laguna norte**, en vaporetto:
 - **No planificar Venecia en julio y agosto** si hay una alternativa.
 
 ## Chiusura personale
-Lo que queda de Venecia no sucede en San Marcos. Sucede en Torcello, que está a cuarenta minutos de vaporetto y a la que no va casi nadie: se baja a una isla de hierba y canales, se camina diez minutos por un canal sin encontrar a nadie, y se entra en una basílica del siglo VII que está casi vacía: nada de oros barrocos, nada de capillas laterales, solo ladrillo. Al fondo, en la bóveda del ábside, hay una Virgen bizantina en mosaico, altísima y delgada, con el niño en brazos, sobre un fondo de oro completamente vacío. No hay nada más alrededor: ni ángeles, ni santos, ni arquitecturas. Solo oro.
-
-Y entonces se entiende el orden de las cosas: que aquí había una ciudad de decenas de miles de habitantes cuando Venecia aún no existía, que cuando la laguna se aterró y llegó la malaria aquella gente se trasladó a un banco de arena un poco más allá y construyó lo que conocemos, y que este mosaico ya estaba allí mirando. Venecia no es una ciudad sobre el agua: es **una ciudad que eligió el agua como defensa**, y construyó encima un imperio comercial durante mil años. Torcello es el lugar donde se ve de dónde partió, y donde se entiende que también puede volver.
+Venecia es bonita entera, caramba. Si tengo que dar un consejo: dormir allí, en la ciudad y no en Mestre, y recorrerla al amanecer o después de las siete de la tarde, cuando se vacía.
 
 ## Tag
 `#venezia` `#italia` `#laguna` `#torcello` `#tintoretto` `#ghetto` `#cicchetti` `#cittadarte`

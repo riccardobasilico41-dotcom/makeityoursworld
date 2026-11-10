@@ -96,7 +96,7 @@ El **Mercado Central** para las primeras degustaciones a precios honestos, láng
 - **Validar siempre el billete del transporte público**: los controles son frecuentes.
 
 ## Chiusura personale
-Lo que me queda es el contraste entre las dos orillas del Danubio: la colina de Buda con sus torrecillas blancas y sus callejuelas medievales, y la Pest decimonónica de las grandes avenidas que de noche, desde el barrio judío, no duerme nunca. En medio, el agua caliente de las termas que sube como vapor incluso en los meses más fríos: la razón, más que cualquier monumento, por la que merece la pena volver.
+De Budapest, el consejo que me siento a dar es uno: a los baños dedicadles al menos media jornada, no una hora entre dos paradas. Y en el barrio judío no sigáis a quien se os acerque por la calle proponiendo un bar.
 
 ## Tag
 `#budapest` `#ungheria` `#terme` `#danubio` `#ruinbar` `#cittadarte`

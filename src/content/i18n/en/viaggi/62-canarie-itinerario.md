@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-The Canaries are Spanish by flag and African by geography: off the coast of Morocco, closer to Casablanca than to Madrid, with a subtropical climate that almost never changes (16-21°C even in January). Among the Spanish destinations on the site, it is the only one designed for the European cold season, when elsewhere people are running from the cold and here you are simply comfortable all year round.
+The Canaries are Spanish by flag and African by geography: off the coast of Morocco, closer to Casablanca than to Madrid, with a subtropical climate that almost never changes (16-21°C even in January). It's the right destination for the European cold season: when elsewhere people are running from the cold, here you are simply comfortable all year round.
 
 Seven islands in all, of which this itinerary covers three (Tenerife, Gran Canaria and Lanzarote), chosen for a reason: three islands well covered are worth more than seven seen in a rush. Tenerife has the Teide, the highest point in Spain; Gran Canaria packs almost Saharan dunes and mountains into a small space; Lanzarote is the most volcanic island of all, and the one where a single artist, César Manrique, shaped the entire urban planning.
 
@@ -116,7 +116,7 @@ In Tenerife, **Puerto de la Cruz** for the greener, more authentic north coast o
 - **Check domestic flight schedules**: frequencies drop in the low-season months.
 
 ## Chiusura personale
-What stays with me is how well the three chosen islands complete each other: Tenerife for Spain's highest volcano and the primeval forest of Anaga a few km away, Gran Canaria for the contrast between almost Saharan dunes and mountains, Lanzarote for a lunar landscape that a single artist managed to turn into a coherent statement about living on a volcano.
+Three islands: Tenerife, with the Anaga forest and La Laguna; Gran Canaria, with the Maspalomas dunes, Roque Nublo and the Barranco de Guayadeque; and Lanzarote, with Timanfaya in the morning and a wine tasting in La Geria, among the vines in their semicircular stone walls.
 
 ## Tag
 `#canarie` `#tenerife` `#grancanaria` `#lanzarote` `#teide` `#timanfaya` `#cesarmanrique` `#spagna`

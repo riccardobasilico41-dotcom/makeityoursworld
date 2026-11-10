@@ -144,7 +144,7 @@ In a hut you eat a precise, repetitive cuisine that after three days you love: c
 - **Consider the less photographed areas** (Val di Sole, Vipiteno, Fanes) when the main areas are full: same geology, far fewer people.
 
 ## Chiusura personale
-I also really liked the Pale di San Martino, precisely because they're less touristy. What stays with you from the Dolomites, in the end, isn't a single view: it's the feeling of having seen ten different places that share the same rock. Val Gardena and Val di Sole are less than two hours apart by car and seem like two different countries: one full of gondolas and boutiques, the other empty and quiet, with the same mountain. That's why it makes more sense to think of them as an archipelago to explore area by area, returning several times, than as a single itinerary to exhaust in a week. The best part, the enrosadira on the walls at sunset, in any case never changes: it happens every evening for two hundred and fifty million years, in every area, whether anyone watches it or not.
+In the Dolomites I really liked the Pale di San Martino, precisely because they're less touristy.
 
 ## Tag
 `#dolomiti` `#italia` `#altoadige` `#trentino` `#roadtrip` `#trekking` `#sci` `#overtourism` `#montagna`

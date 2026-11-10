@@ -144,7 +144,7 @@ En los refugios se come una cocina precisa y repetitiva que al cabo de tres día
 - **Considerar las zonas menos fotografiadas** (Val di Sole, Vipiteno, Fanes) cuando las zonas principales están llenas: la misma geología, mucha menos gente.
 
 ## Chiusura personale
-También me gustaron mucho las Pale di San Martino, precisamente porque son menos turísticas. Lo que queda de los Dolomitas, al final, no es una sola vista: es la sensación de haber visto diez lugares distintos que comparten la misma roca. Val Gardena y Val di Sole distan menos de dos horas en coche y parecen dos países distintos: una llena de cabinas y boutiques, la otra vacía y silenciosa con la misma montaña. Por eso tiene más sentido pensarlos como un archipiélago que explorar zona por zona, volviendo varias veces, que como un único itinerario que agotar en una semana. La mejor parte, la del enrosadira sobre las paredes al atardecer, en cualquier caso no cambia nunca: ocurre todas las tardes desde hace doscientos cincuenta millones de años, en cada zona, la mire alguien o no.
+De los Dolomitas me gustaron mucho las Pale di San Martino, precisamente porque son menos turísticas.
 
 ## Tag
 `#dolomiti` `#italia` `#altoadige` `#trentino` `#roadtrip` `#trekking` `#sci` `#overtourism` `#montagna`

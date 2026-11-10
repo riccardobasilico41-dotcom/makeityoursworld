@@ -226,7 +226,7 @@ Orden de magnitud: **1.600-2.600 € por persona** entre dos, sin vuelos interna
 - **Scooter solo con experiencia y casco**, y nunca de noche.
 
 ## Chiusura personale
-Dieciocho días en Filipinas son un viaje hecho de agua: lagunas, lagos, pecios, bancos de sardinas, islas de arena, olas. Las cinco islas de este itinerario son lo bastante distintas entre sí como para no cansar, y la logística, que es la verdadera dificultad del país, sigue siendo manejable si se acepta algún imprevisto y se deja un día de margen. Quien parte en la estación adecuada encuentra un mar como pocos otros lugares del mundo tienen.
+Filipinas es un viaje de mar para quien ama estar en el agua: casi cada día un barco, un snorkel o una inmersión. Para el canyoning de Kawasan salimos temprano por la mañana, para evitar a la gente. Algún imprevisto con ferris y vuelos hay que contarlo: un día de margen y un ojo a la temporada de tifones.
 
 ## Tag
 `#filippine` `#palawan` `#elnido` `#coron` `#moalboal` `#cebu` `#bohol` `#siargao` `#islandhopping` `#snorkeling` `#surf`

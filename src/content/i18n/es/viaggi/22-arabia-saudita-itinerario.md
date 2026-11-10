@@ -181,7 +181,7 @@ Antes de salir se devuelve el coche de alquiler con el depósito lleno, que aqu�
 - **Consultar los avisos oficiales** sobre las zonas fronterizas con Yemen si se baja al Asir.
 
 ## Chiusura personale
-Lo que queda de este viaje es la sensación de haber visto algo en una ventana que se está cerrando. No en sentido nostálgico (no hay nada romántico en un país que hasta 2019 no se podía visitar), sino en sentido literal: Hegra ha abierto hace poco y ya limita los accesos, Al-Balad está a mitad de su restauración y dentro de diez años será otra cosa, en la costa del Mar Rojo están surgiendo proyectos turísticos que cambiarán la geografía. Ahora uno se encuentra delante de una fachada nabatea esculpida hace dos mil años sin nadie más alrededor, y dentro de unos años eso será un recuerdo contado a los recién llegados. El país, mientras tanto, está cambiando más deprisa de lo que cualquier guía consigue seguir, con todas las contradicciones que eso conlleva y que no vale la pena ocultar. Ir hoy significa ver algo en movimiento, no algo terminado.
+Nuestra ruta fue esta: Yeda y el casco antiguo de Al-Balad, luego AlUla con Hegra y las inscripciones de Jabal Ikmah, y por último Riad, con Diriyah y el Edge of the World.
 
 ## Tag
 `#arabiasaudita` `#jeddah` `#alula` `#hegra` `#riyadh` `#diriyah` `#asir` `#nabatei` `#deserto` `#medioriente`

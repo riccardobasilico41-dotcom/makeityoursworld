@@ -182,7 +182,7 @@ A Taman Negara, soprattutto dopo la pioggia, le sanguisughe sono quasi garantite
 - **Ricordare dove si è**: pene severissime per la droga in entrambi i paesi, multe reali a Singapore per cose che altrove sono banali.
 
 ## Chiusura personale
-Quello che resta di questo viaggio non è un monumento, ed è insolito da dire dopo quattordici giorni. È il fatto che in una sola sera, a Kuala Lumpur o a George Town, si può mangiare cinese, malese e indiano su tre banchi che distano dieci metri l'uno dall'altro, e che nessuna delle tre cucine ha annacquato niente per adattarsi alle altre. Quella coesistenza non è né semplice né idilliaca, e in Malesia se ne discute apertamente, ma è la cosa che rende questo paese diverso da tutti i suoi vicini. Poi c'è la chiusura a Singapore, che sembra l'opposto e in fondo è la stessa storia portata all'estremo: quattro lingue ufficiali, quattro calendari di feste, e un sistema di mense pubbliche che tiene il cibo migliore della città a tre euro a piatto. La Malesia si attraversa mangiando, e non è un modo di dire: è proprio l'itinerario.
+Di Taman Negara mi restano la notte passata in grotta, con la pioggia, e il rientro del giorno dopo tra le sanguisughe: il mio amico ne ha trovata una pure sotto l'ascella. Animali ne abbiamo visti pochi, ma magari perché era alta stagione e c'era tantissima gente.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. Le regole d'ingresso (MDAC e SG Arrival Card) sono state introdotte di recente e vanno riverificate sui portali ufficiali prima di partire.

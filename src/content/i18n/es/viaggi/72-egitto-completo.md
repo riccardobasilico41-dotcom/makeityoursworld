@@ -355,7 +355,7 @@ Orden de magnitud: **2.300-3.500 € por persona** en dos, vuelos internacionale
 - **No comprar antigüedades «auténticas» ni coral:** es delito, y en el aeropuerto se controla.
 
 ## Chiusura personale
-Tres semanas en Egipto dejan sobre todo la idea de los contrastes entre un lugar y otro: El Cairo con sus veinte millones de habitantes y Siwa con sus casas de barro y sal, el Nilo verde y estrecho y el desierto justo detrás de las palmeras, los templos abarrotados de Karnak y el silencio de Dendera, los colores de las tumbas y los del arrecife. Es un viaje cansado de organizar y de hacer, pero coherente: cada etapa añade una pieza que las otras no dan.
+Nuestra ruta fue esta: El Cairo con Guiza, Saqqara y Dahshur; la carretera hasta Siwa, con la fuente de Cleopatra, los lagos salados y el Gran Mar de Arena; luego Asuán, Abu Simbel, el crucero por el Nilo hasta Luxor y el globo al amanecer sobre la orilla oeste; y para terminar, las inmersiones en Marsa Alam.
 
 ## Tag
 `#egitto` `#cairo` `#piramidi` `#saqqara` `#siwa` `#assuan` `#abusimbel` `#crocieranilo` `#luxor` `#marsaalam` `#immersioni` `#marrosso` `#archeologia`

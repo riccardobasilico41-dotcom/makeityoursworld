@@ -142,7 +142,7 @@ Food is probably the real thread of this trip, and it's worth approaching it wit
 - **Izakaya are the most practical solution when you're a group.** They are the Japanese equivalent of pubs: you share lots of small dishes in the middle of the table, the bill is easily split (just ask "betsu betsu no okaikei wo onegaishimasu" for separate bills), and many offer **tabehodai/nomihodai** deals (all-you-can-eat/drink for 1h30-2h at a fixed price), handy when you're many and don't want to handle a complicated bill. Note: the deal applies to the whole table, you can't choose it for only some of the diners.
 - **The cover charge**: many restaurants apply a small "otoshi" (an unrequested opening nibble, a sort of cover charge) of about 300-500 yen per person: it's normal, not a rip-off.
 - **The bill never includes taxes**: 10% has to be added to the total.
-- **Extra tips from research**, for those who want to widen the list beyond the places already mentioned in the plan: in Tokyo high-end izakaya like Tanakada (Nishi-Azabu) are excellent for a special occasion; in Kyoto Muromachi Kaji is a kappo-izakaya much appreciated for its kaiseki-style dishes in a more casual version. Both are listed by the Michelin Guide as Bib Gourmand (good value), and need to be booked in advance.
+- **A few more addresses**, for those who want to widen the list beyond the places already mentioned in the plan: in Tokyo high-end izakaya like Tanakada (Nishi-Azabu) are excellent for a special occasion; in Kyoto Muromachi Kaji is a kappo-izakaya much appreciated for its kaiseki-style dishes in a more casual version. Both are listed by the Michelin Guide as Bib Gourmand (good value), and need to be booked in advance.
 
 ## Onsen: The Other Side of the Trip
 Japan offers more chances than the plan includes for a traditional hot bath, and it's worth fitting in at least a couple at a leisurely pace (Funaoka Onsen in Kyoto, the Kawaguchiko onsen on the Mount Fuji day):
@@ -200,7 +200,11 @@ A well-located tower hotel, connected directly to the Sunshine City mall: conven
 - **Small restaurants**: if you don't speak Japanese, Google Translate with the offline dictionary and Google Lens to translate handwritten menus save the situation.
 
 ## Chiusura personale
-From a trip this dense I take home above all the contrasts: the sakura chased across Tokyo, Fuji seen from Chureito with the cherry trees still in full bloom a week later, the Nara deer wandering free among the temples, and the nights between crowded izakaya and Shibuya Crossing. If I had to choose a single moment, I'd choose the one at the Chureito Pagoda: the postcard Japan that for once is really like that in person too.
+The classic Japan route is packed with tourists everywhere, Kyoto above all: there I'd say go out early in the morning, to get a more authentic feel. At Fushimi Inari I climbed all the way to the top: the view is nothing special, but the experience is lovely.
+
+Hiroshima was my limit: towards the end I had to speed up, because emotionally it was "too much". I liked Miyajima, but if you have fewer days, for me you can cut this part. Dotonbori, on the other hand, I loved, even though my friends had mixed opinions, and in Nara I ate an out-of-this-world tuna.
+
+And Tokyo, seen in bits between the arrival and the last two days, would deserve a holiday of its own.
 
 ## Tag
 `#giappone` `#sakura` `#montefuji` `#kyoto` `#izakaya` `#onsen` `#asia`

@@ -101,7 +101,7 @@ I **bary mleczne**, le mense economiche ereditate dall'epoca comunista, per i pi
 - **Pagare in złoty**, non aspettarsi l'euro solo perché si è nell'Unione Europea.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto tra le due metà del weekend: la piazza medievale con la tromba che suona ogni ora e si interrompe a metà nota, e a un'ora e mezza di distanza un luogo che chiede di essere visitato in silenzio. Cracovia è entrambe le cose insieme, ed è la ragione per cui un weekend qui non è solo un altro city break europeo.
+A Cracovia il weekend si è diviso in due: da una parte la città medievale, tra Rynek Główny, il Wawel e Kazimierz; dall'altra la giornata ad Auschwitz-Birkenau. Siamo rientrati nel tardo pomeriggio, e quella non era la sera per programmi elaborati.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Le regole di prenotazione di Auschwitz-Birkenau (fasce orarie, anticipo richiesto, modalità), i prezzi di Wieliczka e le tariffe dei trasporti cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

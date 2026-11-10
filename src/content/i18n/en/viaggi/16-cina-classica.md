@@ -187,7 +187,9 @@ Many airlines allow in-town check-in at the Airport Express Hong Kong station, d
 - **At the stalls, always haggle, and hard.** I've managed to get prices down by as much as 70% from the first offer. Alternatively, look up the same items on Taobao and have them shipped to your hotel, or at least use it to get an idea of prices before haggling.
 
 ## Chiusura personale
-What stays with you from this itinerary isn't the list of monuments, which you already knew before leaving. It's the feeling of having crossed a country that runs on its own rules and that, once you accept those rules, becomes one of the easiest places to travel: trains punctual to the minute, cities safe at any hour, prices that don't scare you. The learning curve is all in the first two days, and it's almost entirely in the phone. Once past that, what's left is an empty wall on a ridge, an army buried for two thousand years, a garden in Suzhou with a fan-shaped window, and a half-euro ferry crossing Hong Kong harbor at blue hour.
+China is total chaos, but it's awesome. The food is good, often very spicy, and a lot of the time you don't really know what you've ordered; the duck in Beijing, though, was delicious. The Terracotta Army is beautiful, but you feel like a sardine in a can.
+
+My advice is to go prepared on the culture and take it easy. I adapted, I haggled over everything at the stalls (even 70% off the first price) and I enjoyed it.
 
 ## Tag
 `#cina` `#pechino` `#xian` `#shanghai` `#suzhou` `#hongkong` `#macao` `#grandemuraglia` `#esercitoditerracotta` `#altavelocita` `#asia`

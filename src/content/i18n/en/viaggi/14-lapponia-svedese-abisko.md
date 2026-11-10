@@ -111,7 +111,9 @@ For meals the estimated budget was €10-15 a day for breakfasts (often included
 - Dressing in heavy layers goes without saying, but it is worth repeating: temperatures stay well below zero all week.
 
 ## Chiusura personale
-I would recommend the New Year version only to those looking for exactly that (the charm of greeting the new year in absolute darkness and freezing cold), because on the wallet front the low-cost February-March version remains the most sensible choice, with better chances of aurora and less spending. Between the two nights, the one I take home as my best memory is the first at the STF Abisko Turiststation: simpler than the Elite Hotel Frost, but a short walk from the Aurora Sky Station, where I saw the aurora move across the sky for the first time.
+I wanted a New Year's Eve unlike any other, and I got it: at the pub in Kiruna, with the cold making itself felt right away, and then days down to -25/-26 °C. It's a dry cold: if you wrap up well it doesn't get into your bones, but your nose is another story.
+
+The first evening at the Aurora Sky Station was wow, hard to put into words. New Year's comes at a high price: I did it because that was exactly what I wanted, but if all you're after is the aurora, it's worth knowing beforehand.
 
 ## Tag
 `#svezia` `#lapponia` `#abisko` `#kiruna` `#aurora-boreale` `#inverno-estremo`

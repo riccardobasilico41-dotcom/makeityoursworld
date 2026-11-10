@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Le Canarie sono spagnole per bandiera e africane per geografia: al largo delle coste del Marocco, più vicine a Casablanca che a Madrid, con un clima subtropicale che non cambia quasi mai (16-21°C anche a gennaio). Tra le mete spagnole del sito è l'unica pensata per la stagione fredda europea, quando altrove si scappa dal freddo e qui si sta semplicemente bene tutto l'anno.
+Le Canarie sono spagnole per bandiera e africane per geografia: al largo delle coste del Marocco, più vicine a Casablanca che a Madrid, con un clima subtropicale che non cambia quasi mai (16-21°C anche a gennaio). È la meta giusta per la stagione fredda europea: quando altrove si scappa dal freddo, qui si sta semplicemente bene tutto l'anno.
 
 Sette isole in tutto, di cui questo itinerario ne copre tre (Tenerife, Gran Canaria e Lanzarote), scelte non a caso: tre isole ben coperte valgono più di sette viste di corsa. Tenerife ha il Teide, il punto più alto di Spagna; Gran Canaria racchiude in poco spazio dune quasi sahariane e montagna; Lanzarote è l'isola più vulcanica in assoluto, e quella dove un solo artista, César Manrique, ha plasmato l'intera urbanistica.
 
@@ -116,7 +116,7 @@ Le **papas arrugadas** con mojo rojo e mojo verde sono il piatto simbolo di tutt
 - **Controllare gli orari dei voli interni**: le frequenze calano nei mesi di bassa stagione.
 
 ## Chiusura personale
-Quello che mi resta è quanto le tre isole scelte si completino: Tenerife per il vulcano più alto di Spagna e la foresta primordiale di Anaga a pochi km di distanza, Gran Canaria per il contrasto tra dune quasi sahariane e montagna, Lanzarote per un paesaggio lunare che un solo artista ha saputo trasformare in un discorso coerente sull'abitare il vulcano.
+Tre isole: Tenerife, con la foresta di Anaga e La Laguna; Gran Canaria, con le dune di Maspalomas, il Roque Nublo e il Barranco de Guayadeque; e Lanzarote, con Timanfaya al mattino e una degustazione di vino nella Geria, tra le vigne nei muretti a semicerchio.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Le regole di prenotazione del permesso per il Teide, i prezzi di funivia e Timanfaya e gli orari dei voli interni cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

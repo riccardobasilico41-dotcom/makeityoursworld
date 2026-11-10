@@ -204,7 +204,9 @@ Entre los aspectos más citados están la buena ubicación y el personal cordial
 - Una playlist compartida en Spotify para los muchos y largos traslados: una forma sencilla de que pasen a formar parte del viaje en vez de ser tiempo muerto.
 
 ## Chiusura personale
-Entre el Caribe de Puerto Viejo y el Pacífico de Uvita no hay un verdadero ganador: el primero por la selva, los monos aulladores y los dos Temazcal vividos como verdaderas ceremonias espirituales; el segundo por el ritmo más lento, las playas y, con algo de suerte en la temporada equivocada, también algún avistamiento de ballenas. Trece días tan densos han valido la pena, pero si tuviera que repetirlo iría más despacio en Monteverde y Manuel Antonio, las dos paradas en las que habría querido más tiempo para disfrutar de la naturaleza en vez de correr hacia el siguiente traslado.
+En general Costa Rica es preciosa: naturaleza increíble, surf, animales por todas partes. En Cahuita vimos el tiburón nodriza, las rayas, los perezosos y monitos de todo tipo, y Tortuguero se parece muchísimo a la Amazonía. El barranquismo en el Lost Canyon es la actividad que más recomiendo, la tirolina gigante de Monteverde es una pasada, y en Uvita hasta me caí del caballo, pero fue precioso igualmente. El Corcovado lo hice y es increíble.
+
+Lo único: las actividades son carísimas y casi siempre se paga en dólares. Y al final, en vez de volver a San José, fuimos a la frontera, cruzamos el puente y empezó la aventura en Panamá.
 
 ## Seguir hacia Panamá
 Una opción, en vez de cerrar el viaje en San José: desde la zona de Cahuita se sigue hacia Panamá. Nosotros fuimos a la frontera, cruzamos el puente y empezó la aventura en Panamá. Si quieres unir los dos países, desde Costa Rica llegas así.

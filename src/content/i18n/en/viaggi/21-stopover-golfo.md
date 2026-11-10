@@ -144,7 +144,7 @@ In the evening we went to the **Corniche**, which on Thursday is the city's soci
 - **Remember that in Saudi Arabia alcohol doesn't exist**, and that bringing it in is a serious offense.
 
 ## Chiusura personale
-What stays with you, after turning four layovers into four stops, is how little it costs to do it and how few people do. You spend your life treating a Gulf layover as a price to pay to get somewhere else, and meanwhile the airlines that profit from it have built programs that practically pay you to get off. But the reason it's worth it isn't financial. It's that in each of these cities, twenty minutes from the skyline everyone photographs, there's something that skyline doesn't tell you: a creek where ships are still loaded by hand, a hospital for falcons, a lagoon where the sea enters the desert, a neighborhood of coral houses held up by scaffolding. They're places nobody sells as a destination, and you can see them all within the dead hours of a ticket to another part of the world.
+What stayed with me from these layovers is Dubai seen from an abra on the Creek, one dirham a crossing, and dinner in Karama for less than ten euros: that's where you eat best. The desert safari has to be taken for what it is, but it's still a pleasant evening. And the advice that matters more than any other: don't go in summer.
 
 ## Tag
 `#stopover` `#dubai` `#abudhabi` `#doha` `#jeddah` `#emiratiarabiuniti` `#qatar` `#arabiasaudita` `#golfo` `#medioriente` `#scalilunghi`

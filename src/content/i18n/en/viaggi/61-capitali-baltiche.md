@@ -113,7 +113,7 @@ In the early afternoon we took a last walk around **Telliskivi Creative City**, 
 - **Stay away from the eastern border zones** of the three countries (with Russia and, for Lithuania and Latvia, with Belarus): this itinerary doesn't touch them at any point, and it's best to keep it that way.
 
 ## Chiusura personale
-What stays with me from this trip is how much the three capitals manage to be both similar and sharply distinct: three UNESCO historic centers that came out of the same recent history of occupation and independence, and yet three languages that don't speak to each other, three different architectures (the Baroque of Vilnius, the Art Nouveau of Riga, the Hanseatic Gothic of Tallinn) and three different ways of telling what comes after the historic center: an imaginary republic in Vilnius, a market inside zeppelin hangars in Riga, a former Soviet complex full of startups in Tallinn. Traveling through them in a row, with the bus as the common thread, is the most honest way to see them for what they are: three small countries, close on the map, but anything but interchangeable.
+The three capitals are best done in a row, south to north, with the Lux Express bus as the thread, booked a few days ahead. And don't stop at the old towns: the Art Nouveau district in Riga and Telliskivi in Tallinn show another side of these cities.
 
 ## Tag
 `#vilnius` `#riga` `#tallinn` `#lituania` `#lettonia` `#estonia` `#capitalibaltiche` `#uzupis` `#trakai` `#artnouveau` `#jurmala` `#cittadarte`

@@ -99,7 +99,7 @@ In the evening there's time for a nod to the nightlife scene that made Berlin on
 - **Always validate your BVG ticket** before boarding, where there are no turnstiles.
 
 ## Chiusura personale
-What stays with me is the way this city holds together things that elsewhere stay separate: a silent memorial a couple of steps from a Turkish market full of life, a stretch of Wall turned into an open-air art gallery a few metro stops from a documentation center on the Gestapo. Berlin doesn't ask you to choose between history and the present: it puts them on the same map, and that's why four days here are not a day too many.
+Four days in Berlin: the Brandenburg Gate and the Reichstag, a whole day on the Wall, from Bernauer Straße to Checkpoint Charlie, Alexanderplatz and former East Berlin, and the last day out east, between the East Side Gallery and the neighborhoods that grew up after the Wall came down.
 
 ## Tag
 `#berlino` `#germania` `#murodiberlino` `#museumsinsel` `#kreuzberg` `#memoria` `#cittadarte`

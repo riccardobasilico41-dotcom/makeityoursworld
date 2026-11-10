@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Esta es una versión corta, de diez días, del viaje largo que Rick hizo por India: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*, con los trenes nocturnos y el conductor. Los lugares son los de ese viaje; la secuencia en diez días es una versión acortada para quien tiene menos tiempo. Se queda con las etapas de Rajastán que caben en diez días y deja fuera Benarés, Ranthambore, Pushkar y el desierto.
+Esta es la versión corta, de diez días, de mi viaje largo por India: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*, con los trenes nocturnos y el conductor. Los lugares son los que vi; aquí los he puesto en fila en diez días para quien tiene menos tiempo. Se queda con las etapas de Rajastán que caben en diez días y deja fuera Benarés, Ranthambore, Pushkar y el desierto.
 
 Rajastán es el primer viaje a India más sensato para quien sale desde Italia. Las distancias son manejables, los monumentos están entre los más bellos del país y la red de trenes, conductores y hoteles heritage permite organizarse por cuenta propia sin depender de un tour en grupo. Este itinerario ordena en diez días el triángulo de oro (Delhi, Agra, Jaipur) y dos ciudades de Rajastán que por sí solas justifican el viaje: Jodhpur, la ciudad azul bajo el fuerte de Mehrangarh, y Udaipur, la ciudad de los lagos y los palacios blancos.
 
@@ -154,7 +154,7 @@ Precios por persona en habitación doble, vuelos intercontinentales excluidos (d
 - **Con Jaisalmer y el desierto (+3 días):** de Jodhpur a Jaisalmer son unas 5 horas en coche o en tren. La ciudad dorada, con el fuerte habitado y las havelis de arenisca, y una noche en el desierto del Thar con camellos entre las dunas de Sam o Khuri, justifican el viaje. Se regresa a Jodhpur o se vuela desde Jaisalmer cuando hay vuelos de temporada.
 - **Versión de 12 días:** añadir Pushkar y una noche más en Udaipur, con la excursión a Kumbhalgarh.
 - **Versión de 7 días:** solo el triángulo de oro (Delhi, Agra, Jaipur), con regreso en tren o coche de Jaipur a Delhi.
-- **Con Benarés:** el viaje que Rick hizo de verdad, 19 días con Benarés, los safaris de Ranthambore, Pushkar, Jaisalmer y el desierto, dos noches en litera y el conductor, está en *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
+- **Con Benarés:** el viaje que hice de verdad, 19 días con Benarés, los safaris de Ranthambore, Pushkar, Jaisalmer y el desierto, dos noches en litera y el conductor, está en *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
 
 ## Consejos prácticos / errores que no hay que repetir
 - **Comprobar el calendario antes de fijar Agra:** el Taj Mahal está cerrado los viernes, porque en la mezquita del recinto se celebra la oración del mediodía, reservada a los residentes de Agra. Si el Día 4 cae en viernes, al Taj se entra la tarde del Día 3, nada más llegar (cierra media hora antes de la puesta de sol), y el Fuerte de Agra pasa a la mañana del Día 4, antes de salir hacia Jaipur.
@@ -169,9 +169,9 @@ Precios por persona en habitación doble, vuelos intercontinentales excluidos (d
 - **Pedir permiso antes de fotografiar a las personas**, sobre todo a las mujeres, y respetar las prohibiciones de fotos dentro de los templos.
 
 ## Chiusura personale
-Diez días en Rajastán no bastan para entender India, pero bastan para saber si se quiere volver. Es un viaje hecho de contrastes fuertes: el ruido de Delhi y el silencio del Taj a las seis de la mañana, el caos de los bazares de Jaipur y el viento sobre las murallas del Mehrangarh, los cláxones continuos en las carreteras y la calma de una terraza sobre el lago Pichola al atardecer. Quien lo prepara bien, con trenes reservados, un conductor de confianza y dos noches en cada ciudad, vuelve a casa con ganas de ver el resto: Benarés, el desierto del Thar, el Sur.
+De este trozo de India me llevo el Taj Mahal, visto dos veces, al atardecer y al día siguiente al amanecer (los viernes está cerrado, que no se os olvide). Luego Jaipur, con las cenas de maharajá en el Jamavar y en el 1135 AD. De día siempre comimos en la calle y, aunque parezca mentira, siempre estuvimos bien de la tripa. El conductor, en cambio, era un chiflado: elegidlo con cuidado.
 
-*Esta versión corta nace del viaje largo de Rick por India, India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor: los lugares son los que visitó, la secuencia en diez días está recompuesta para quien tiene menos tiempo. De ese viaje vienen las etapas de Rajastán, el aviso sobre el viernes del Taj, el consejo sobre las colas en los controles y el de elegir bien al conductor (el suyo no lo recomienda). Trayectos, tiempos, precios y normas vienen de portales oficiales del visado y de los ferrocarriles indios, de la web oficial del Taj Mahal, de las webs de los monumentos, de Viaggiare Sicuri y de guías recientes, verificados en octubre-noviembre de 2026: hay que volver a comprobarlos antes de salir.*
+Para los estándares occidentales la gente puede resultar insistente. Pero es un país increíble, que te da mucho.
 
 ## Tag
 `#india` `#rajasthan` `#delhi` `#agra` `#tajmahal` `#jaipur` `#jodhpur` `#udaipur` `#ranakpur` `#triangolodoro` `#asia` `#treniindiani`

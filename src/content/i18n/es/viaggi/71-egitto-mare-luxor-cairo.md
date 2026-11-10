@@ -218,7 +218,7 @@ Orden de magnitud: **1.100-1.700 € por persona** en dos, vuelos aparte; los pa
 - **Dejar en casa el dron:** sin permiso se confisca a la llegada.
 
 ## Chiusura personale
-El sentido de este recorrido está en el paso entre las pirámides y el arrecife: un viaje en el que la parte más cansada llega primero y la más relajada, al final. En once días se ven los tres lugares más famosos del país sin correr, se queda uno en el mar lo suficiente para disfrutarlo y se vuelve a casa con un vuelo directo. Quien se da cuenta de que quiere más (Asuán, Abu Simbel, el Nilo en crucero y las inmersiones lejos de la costa) ya tiene una base para el segundo viaje.
+El consejo que daría es hacer los sitios a primera hora, incluso en invierno: a mediodía llegan los grupos y la luz es plana. Y acordar cada precio antes, para camellos, calesas, falucas y taxis, aclarando moneda, duración y si es por persona.
 
 ## Tag
 `#egitto` `#cairo` `#piramidi` `#giza` `#luxor` `#marsaalam` `#hurghada` `#marrosso` `#snorkeling` `#archeologia`

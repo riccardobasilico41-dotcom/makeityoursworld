@@ -111,7 +111,9 @@ Per i pasti il budget indicativo era di 10-15€ al giorno per le colazioni (spe
 - Vestirsi a strati pesanti è scontato, ma vale la pena ripeterlo: le temperature restano ben sotto lo zero per tutta la settimana.
 
 ## Chiusura personale
-Consiglierei la versione di Capodanno solo a chi cerca proprio quello (il fascino di salutare l'anno nuovo nel buio e nel gelo assoluto), perché sul fronte del portafoglio la versione low-cost di febbraio-marzo resta la scelta più sensata, con più probabilità di aurora e meno spesa. Tra le due notti, quella che porto a casa come ricordo più bello è la prima allo STF Abisko Turiststation: più semplice dell'Elite Hotel Frost, ma a pochi passi dall'Aurora Sky Station, dove ho visto l'aurora muoversi nel cielo per la prima volta.
+Volevo un Capodanno diverso da tutti gli altri, e l'ho avuto: al pub di Kiruna, con il freddo che si è fatto sentire da subito, e poi giorni fino a -25/-26 °C. È un freddo secco: se ti copri bene non ti entra nelle ossa, il naso però è un'altra storia.
+
+La prima sera all'Aurora Sky Station è stata wow, difficile da spiegare a parole. Il Capodanno si paga caro: io l'ho fatto perché volevo proprio quello, ma se l'obiettivo è solo l'aurora conviene saperlo prima.
 
 ## Materiale grezzo (appunti, non ancora editato)
 Contenuto ricostruito da 4 documenti dell'agenzia "Mama Family Travel Partner" (preventivo Lapponia Svedese, piano hotel, piano voli, presentazione comparativa Capodanno con Tromsø e Reykjavík) preparati originariamente per un preventivo. L'itinerario giorno per giorno è stato ricostruito incrociando il piano voli/hotel (date e strutture esatte) con il riepilogo delle attività della presentazione comparativa (Aurora Sky Station, motoslitta, husky). I prezzi e i dettagli operativi di ogni attività (durate, formule guidata/self-drive, orari, come si prenota) sono stati integrati con ricerca sui siti ufficiali degli operatori e della Swedish Tourist Association, per rendere la pagina utile a chi vuole organizzare lo stesso viaggio — vanno comunque sempre riverificati prima di prenotare. Da confermare/completare: anno esatto del viaggio, ristoranti specifici, aneddoti, foto.

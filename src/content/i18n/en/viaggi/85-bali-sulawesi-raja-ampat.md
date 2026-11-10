@@ -17,8 +17,6 @@ Twelve days is short for three islands, and I'll say it right away: every island
 
 We went in August, which every guide marks as the wrong season for Raja Ampat. In part it is, but not in the way you'd expect: the sea was spectacular anyway, ten days without a drop of rain. The wind, though, made itself felt, and stretched out a couple of transfers between the islands.
 
-This itinerary brings together different trips into one practical route: places I've personally visited at different times, put in order so you can make the most of each destination.
-
 ## Scheda pratica
 - **When to go:** on Bali the dry season runs from April to October, on Sulawesi from May to October. In Raja Ampat the best window is October to April, with calmer seas and more manta rays and big pelagics. From May to September the southeast winds blow: transfers can take longer and outings to exposed areas can be canceled. The month that suits all three is **October**. Summer works too, if you accept the wind.
 - **Documents:** passport valid for at least 6 months, **e-VOA** online at evisa.imigrasi.go.id and the **All Indonesia Arrival Card** before entry.
@@ -148,9 +146,12 @@ Three islands in twelve days can be done, but every island deserves at least a w
 - **Pay the Bali levy online** before you leave.
 
 ## Chiusura personale
-Twelve days like this are a taste, and should be taken for what they are. Bali is the gateway. North Sulawesi adds the forest and the walls of Bunaken. Raja Ampat closes with the most beautiful place I've seen underwater. With reefs full of fish and hardly any other tourists, even summer was a compromise I don't regret. If you can, though, pick one island and give it the week it deserves.
+Raja Ampat is the most beautiful place I've seen underwater. I went in August, which every guide marks as the wrong season: the wind stretched a couple of transfers, but the sea was stunning and in ten days I didn't see a drop of rain. With reefs full of fish and hardly any other tourists, for me it was a compromise I don't regret.
 
-*From Rick come the memories of Bali, Bunaken and Toraja, Tomohon and Tangkoko done with Wale Adventure, the Raja Ampat trip in August 2026 with the wind and a sea without rain, the advice on homestays and the contacts (Villa Jacques, Pande Wirta, Wale Adventure, Paparisa, Tanjung Mefiyai, Soul Scuba Divers). The rest comes from the site's destination pages and from research on November 5, 2026: Wikivoyage and operators for the Sorong-Waisai ferry, the permit and Raja Ampat's seasons; news on Garuda's seasonal Denpasar-Sorong route (October 2026); the Wale Adventure site for tours in North Sulawesi; Wikivoyage for the Makassar-Toraja road and the funerals; gov.uk for safety in the Papua region. Flights, times and the Raja Ampat permit amount need to be rechecked before you go.*
+I went back to Indonesia for the people, the places and the smiles. Twelve days for three islands is not much: if you can, pick one and give it the week it deserves.
+
+## Nota su questa bozza
+From Rick come the memories of Bali, Bunaken and Toraja, Tomohon and Tangkoko done with Wale Adventure, the Raja Ampat trip in August 2026 with the wind and a sea without rain, the advice on homestays and the contacts (Villa Jacques, Pande Wirta, Wale Adventure, Paparisa, Tanjung Mefiyai, Soul Scuba Divers). The rest comes from the site's destination pages and from research on November 5, 2026: Wikivoyage and operators for the Sorong-Waisai ferry, the permit and Raja Ampat's seasons; news on Garuda's seasonal Denpasar-Sorong route (October 2026); the Wale Adventure site for tours in North Sulawesi; Wikivoyage for the Makassar-Toraja road and the funerals; gov.uk for safety in the Papua region. Flights, times and the Raja Ampat permit amount need to be rechecked before you go.
 
 ## Tag
 `#indonesia` `#bali` `#sulawesi` `#manado` `#bunaken` `#tangkoko` `#rajaampat` `#kri` `#piaynemo` `#snorkeling` `#immersioni` `#asia`

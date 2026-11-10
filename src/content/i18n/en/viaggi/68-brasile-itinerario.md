@@ -280,7 +280,7 @@ Per person, sharing a double room, intercontinental flights excluded.
 - **Individual items:** domestic flights R$400-1,200 per leg booked in advance; Christ the Redeemer about R$87 with the official van; Sugarloaf about R$205; Brazilian Iguazú park R$134; Argentine park 60,000 Argentine pesos (about 40 dollars); Lençóis Maranhenses entrance free; escuna in Paraty R$100-150; day tour in the Chapada R$150-300 plus guide; jardineira in the Lençóis R$100-150 per circuit; Amazon lodge R$800-2,500 a night; jaguar boat around R$1,400-1,600 a day per boat.
 
 ## Chiusura personale
-This is an itinerary of contrasts: the metropolis under the Christ and the car-free island, the falls that separate two countries, the baroque center of Salvador and the empty canyons of the Chapada, and finally a desert full of water. It holds a lot together because it accepts a few transfer days, which in Brazil are unavoidable. The two extensions are the way, for those with more time, to see the interior of the country, the jaguars or the forest, and for those who want to leave Brazil by going up the Amazon River.
+Three weeks from Rio to the Lençóis Maranhenses, by way of Ilha Grande, Iguazú, Salvador and the Chapada Diamantina. You can't see all of Brazil in one go: you have to choose, and the travel days are part of the trip.
 
 ## Tag
 `#brasile` `#riodejaneiro` `#paraty` `#ilhagrande` `#iguazu` `#salvador` `#chapadadiamantina` `#lencoismaranhenses` `#pantanal` `#amazzonia` `#natura` `#sudamerica`

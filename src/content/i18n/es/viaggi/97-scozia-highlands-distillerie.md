@@ -9,22 +9,22 @@
 ---
 
 ## Apertura personale
-Escocia se hace en coche. Rick fue en julio y la recorrió en coche. Lo primero que hay que tener en cuenta es la conducción «al revés»: se va por la izquierda, la palanca de cambios está al otro lado y en las rotondas se gira en el sentido de las agujas del reloj. En las Highlands, además, muchas carreteras tienen un solo carril, con apartaderos para dejar pasar a quien viene de frente. Uno se acostumbra pronto, pero los primeros kilómetros hay que hacerlos con calma.
+Escocia se hace en coche. Yo fui en julio y la recorrí en coche. Lo primero que hay que tener en cuenta es la conducción «al revés»: se va por la izquierda, la palanca de cambios está al otro lado y en las rotondas se gira en el sentido de las agujas del reloj. En las Highlands, además, muchas carreteras tienen un solo carril, con apartaderos para dejar pasar a quien viene de frente. Uno se acostumbra pronto, pero los primeros kilómetros hay que hacerlos con calma.
 
-La ruta sale de **Edimburgo**, pasa por **Glasgow** y el **Loch Lomond**, baja al mar en **Oban** y sube entre las montañas de **Glencoe** hasta **Fort William** y el viaducto de **Glenfinnan**. Luego la **Isla de Skye**, el **Lago Ness** e **Inverness**, el **Speyside** de las destilerías y los **Cairngorms**, antes de volver a Edimburgo. Rick hizo toda esta ruta: Glasgow solo de paso, las Hébridas desde Oban, el viaducto de Glenfinnan por el tren de Harry Potter. Para él Glencoe es preciosa, el Lago Ness un poco meh. En Oban comió un pescado buenísimo en **Ee-Usk**, en el puerto.
+La ruta sale de **Edimburgo**, pasa por **Glasgow** y el **Loch Lomond**, baja al mar en **Oban** y sube entre las montañas de **Glencoe** hasta **Fort William** y el viaducto de **Glenfinnan**. Luego la **Isla de Skye**, el **Lago Ness** e **Inverness**, el **Speyside** de las destilerías y los **Cairngorms**, antes de volver a Edimburgo. Yo hice toda esta ruta: Glasgow solo de paso, las Hébridas desde Oban, el viaducto de Glenfinnan por el tren de Harry Potter. Para mí Glencoe es preciosa, el Lago Ness un poco meh. En Oban comí un pescado buenísimo en **Ee-Usk**, en el puerto.
 
 El tiempo es imprevisible: sol, lluvia y viento pueden llegar en la misma hora. Conviene llevar la chaqueta impermeable en el coche incluso en agosto, y no construir los días sobre una sola vista.
 
-Quien tenga algunos días más puede subir hasta el norte del norte, por la **North Coast 500**, la carretera que da la vuelta al extremo norte de Escocia. Rick la hizo, y es impresionante. Se explica más abajo, como variante de 4-5 días.
+Quien tenga algunos días más puede subir hasta el norte del norte, por la **North Coast 500**, la carretera que da la vuelta al extremo norte de Escocia. Yo la hice, y es impresionante. Se explica más abajo, como variante de 4-5 días.
 
-Y hay una regla que vale para todo el viaje, destilerías incluidas. En Escocia el límite de alcohol al volante es más bajo que en Inglaterra, pero el consejo de Rick es todavía más sencillo: **tolerancia cero**. Quien conduce no bebe, ni siquiera la cata.
+Y hay una regla que vale para todo el viaje, destilerías incluidas. En Escocia el límite de alcohol al volante es más bajo que en Inglaterra, pero mi consejo es todavía más sencillo: **tolerancia cero**. Quien conduce no bebe, ni siquiera la cata.
 
 ## Scheda pratica
-- **Cuándo ir:** El itinerario vale de mayo a septiembre, con los días más largos, y para Rick también el otoño, con el follaje, es precioso; el tiempo sigue siendo imprevisible en todas las estaciones
+- **Cuándo ir:** El itinerario vale de mayo a septiembre, con los días más largos, y para mí también el otoño, con el follaje, es precioso; el tiempo sigue siendo imprevisible en todas las estaciones
 - **Documentos:** Escocia forma parte del Reino Unido, fuera de la Unión Europea. Desde el 2 de abril de 2025 los ciudadanos italianos necesitan la **ETA**, que se pide en gov.uk o con la app oficial UK ETA: cuesta 20 libras (2026) y vale 2 años, o hasta que caduque el pasaporte. Hace falta el **pasaporte**: el documento de identidad solo se acepta en casos concretos.
 - **Coche:** se alquila en Edimburgo. El carné de conducir italiano es válido sin permiso internacional. Conviene un coche no demasiado grande, por las carreteras de un solo carril.
 - **Conducir por la izquierda:** en las carreteras de un solo carril uno se para en el apartadero (passing place) de su izquierda, o espera delante del de la derecha, y da las gracias con un gesto. En los apartaderos no se aparca. Ovejas y ciervos cruzan de repente.
-- **Alcohol al volante:** en Escocia el límite es de 50 mg por 100 ml de sangre (22 microgramos por 100 ml de aire espirado), frente a 80 mg en Inglaterra. El consejo de Rick es tolerancia cero: quien conduce no bebe.
+- **Alcohol al volante:** en Escocia el límite es de 50 mg por 100 ml de sangre (22 microgramos por 100 ml de aire espirado), frente a 80 mg en Inglaterra. Mi consejo es tolerancia cero: quien conduce no bebe.
 - **Distancias:** sobre el mapa son cortas, pero los tiempos se alargan entre carreteras estrechas, paradas y tiempo. Hay que llenar el depósito cuando se puede.
 - **Ferris:** son de CalMac, y con coche se reserva antes.
 - **Destilerías:** las visitas se reservan online, en verano incluso con semanas de antelación. En muchas no se admiten niños menores de 8 años.
@@ -51,7 +51,7 @@ Por la tarde se pasea por la **New Town** y los **Princes Street Gardens**, bajo
 **En la práctica:** castillo 23,50 libras online, 26 en taquilla (2026), apertura a las 9:30 · Arthur's Seat entre hora y media y dos horas de subida y bajada, entrada libre · para el día siguiente conviene recoger el coche en el aeropuerto o fuera del centro, con calles más tranquilas.
 
 ### Día 3 — Glasgow, el Loch Lomond y la carretera a Oban
-Se recoge el coche y se sale hacia el oeste. **Glasgow** está a una hora más o menos: basta una mañana para la **catedral** medieval y la **Necrópolis**, la colina de monumentos victorianos de al lado. La catedral es una de las pocas iglesias medievales escocesas que sobrevivieron enteras a la Reforma, y la cripta de San Mungo es la parte más antigua. Desde la Necrópolis, subiendo entre los obeliscos, se ve toda la ciudad. Conviene aparcar fuera del centro. Rick también pasó solo de paso.
+Se recoge el coche y se sale hacia el oeste. **Glasgow** está a una hora más o menos: basta una mañana para la **catedral** medieval y la **Necrópolis**, la colina de monumentos victorianos de al lado. La catedral es una de las pocas iglesias medievales escocesas que sobrevivieron enteras a la Reforma, y la cripta de San Mungo es la parte más antigua. Desde la Necrópolis, subiendo entre los obeliscos, se ve toda la ciudad. Conviene aparcar fuera del centro. Yo también pasé solo de paso.
 
 Luego se sube a lo largo del **Loch Lomond**, con una parada en **Luss**, en la orilla. Es un pueblo de casitas de piedra con un embarcadero en el lago, práctico para estirar las piernas y comer algo. Desde allí la carretera pasa entre las montañas y llega al mar, a **Oban**, a última hora de la tarde. Se deja la A82 en Crianlarich, se toma la A85 y a lo largo del **Loch Awe** se ven las ruinas del castillo de **Kilchurn**, en la punta del lago. *Es el primer día conduciendo por la izquierda: mejor no hacer demasiados kilómetros y parar a menudo.*
 
@@ -60,14 +60,14 @@ Luego se sube a lo largo del **Loch Lomond**, con una parada en **Luss**, en la 
 ### Día 4 — Oban: la destilería, la McCaig's Tower y la cena en Ee-Usk
 **Oban** es un pueblo de puerto, de donde salen los ferris hacia las islas. En el centro está la **destilería de Oban**, con el tour clásico a 24 libras (2026), que se reserva en malts.com. Es pequeña, encajada entre la carretera del paseo marítimo y la colina, y el tour es uno de los más compactos de todo el viaje. Sobre el puerto está la **McCaig's Tower**, el coliseo de piedra con vistas a la bahía: se sube a pie desde el centro en unos diez minutos, por una cuesta corta y empinada, y al atardecer la luz sobre las islas es la mejor.
 
-Quien quiera una isla toma el ferry de CalMac a **Mull** y pasa el día en **Tobermory**, con las casas de colores en el puerto y otra destilería. Se desembarca en Craignure y desde allí a Tobermory hay una hora de carretera de un solo carril. Desde Oban Rick fue a las Hébridas. *Con coche el ferry se reserva antes; a pie casi siempre hay sitio.*
+Quien quiera una isla toma el ferry de CalMac a **Mull** y pasa el día en **Tobermory**, con las casas de colores en el puerto y otra destilería. Se desembarca en Craignure y desde allí a Tobermory hay una hora de carretera de un solo carril. Desde Oban yo fui a las Hébridas. *Con coche el ferry se reserva antes; a pie casi siempre hay sitio.*
 
-Por la noche se cena en **Ee-Usk**, en el North Pier: pescado y marisco sobre el agua, con los ferris pasando delante. Para Rick está buenísimo. Hay que reservar.
+Por la noche se cena en **Ee-Usk**, en el North Pier: pescado y marisco sobre el agua, con los ferris pasando delante. Para mí está buenísimo. Hay que reservar.
 
 **En la práctica:** destilería de Oban 24 libras (2026), abierta todos los días, de mayo a septiembre hasta las 19 · McCaig's Tower de entrada libre · ferry Oban-Craignure unos 45-50 minutos, horarios en calmac.co.uk · Ee-Usk con reserva, en verano incluso con unos días de antelación.
 
 ### Día 5 — Glencoe y Fort William
-Se vuelve a subir hacia el norte y se entra en **Glencoe**: el valle estrecho entre las paredes de las **Three Sisters** y, a la entrada, la pirámide del **Buachaille Etive Mòr**. Desde Oban se llega en una hora más o menos, por el puente de Connel y la costa del Loch Linnhe; quien quiera la primera vista más impactante entra en cambio por el sur, por la A82 que baja del Rannoch Moor. Las fotos se hacen solo desde los aparcamientos a lo largo de la A82, nunca desde el arcén. Para Rick Glencoe es preciosa.
+Se vuelve a subir hacia el norte y se entra en **Glencoe**: el valle estrecho entre las paredes de las **Three Sisters** y, a la entrada, la pirámide del **Buachaille Etive Mòr**. Desde Oban se llega en una hora más o menos, por el puente de Connel y la costa del Loch Linnhe; quien quiera la primera vista más impactante entra en cambio por el sur, por la A82 que baja del Rannoch Moor. Las fotos se hacen solo desde los aparcamientos a lo largo de la A82, nunca desde el arcén. Para mí Glencoe es preciosa.
 
 Con buen tiempo hay una caminata corta por el valle. La vuelta al **Glencoe Lochan**, el laguito entre los pinos sobre el pueblo, es fácil y dura menos de una hora; quien tenga piernas y botas de montaña puede subir al **Lost Valley**, el valle escondido detrás de las Three Sisters, por un sendero rocoso de unas tres horas ida y vuelta. El centro de visitantes del National Trust for Scotland, poco antes del pueblo, tiene mapas y el tiempo del día. Por la noche se llega a **Fort William**, al pie del **Ben Nevis**, la montaña más alta del Reino Unido. *La subida al Ben Nevis es un día entero de caminata: no entra en este itinerario.*
 
@@ -76,7 +76,7 @@ Con buen tiempo hay una caminata corta por el valle. La vuelta al **Glencoe Loch
 ### Día 6 — Glenfinnan y la carretera a Skye
 Al oeste de Fort William está **Glenfinnan**, con el viaducto de arcos del ferrocarril, el de las películas de Harry Potter, y el monumento sobre el Loch Shiel. En verano pasa por encima el **Jacobite**, el tren de vapor de Fort William a Mallaig: desde los senderos sobre el centro de visitantes se le ve cruzar. El tren de la mañana pasa por el viaducto hacia las 11; los horarios previstos se exponen cada día en el centro de visitantes. El sendero al mirador sube en unos diez minutos. *El aparcamiento se llena mucho antes del paso: conviene llegar al menos una hora antes.*
 
-Para subir se reserva en la web de West Coast Railways; las plazas son pocas. Rick vino aquí precisamente por el tren de Harry Potter. Desde Mallaig se puede tomar el ferry de CalMac a **Armadale**, en Skye, reservando el coche. O se vuelve atrás y se llega a la isla por el **puente de Skye**, pasando por el castillo de **Eilean Donan**, en el islote unido a la orilla por un puente de piedra. Noche en **Portree** o alrededores.
+Para subir se reserva en la web de West Coast Railways; las plazas son pocas. Yo vine aquí precisamente por el tren de Harry Potter. Desde Mallaig se puede tomar el ferry de CalMac a **Armadale**, en Skye, reservando el coche. O se vuelve atrás y se llega a la isla por el **puente de Skye**, pasando por el castillo de **Eilean Donan**, en el islote unido a la orilla por un puente de piedra. Noche en **Portree** o alrededores.
 
 **En la práctica:** Fort William-Glenfinnan una media hora, Glenfinnan-Mallaig unos 45 minutos · aparcamiento de pago en Glenfinnan, pocas libras · el Jacobite se reserva en cuanto abren las ventas, normalmente a principios de año; la temporada cambia cada año · ferry Mallaig-Armadale unos 30 minutos · Eilean Donan de pago, algo más de 10 libras.
 
@@ -97,7 +97,7 @@ Por la tarde a **Carbost**, en la orilla del Loch Harport, para la **destilería
 ### Día 9 — De Skye a Inverness a lo largo del Lago Ness
 Un día de carretera. Se deja la isla por el puente, se pasa por **Eilean Donan** y se llega al **Lago Ness**. Quien no paró en el castillo el día 6 tiene aquí la ocasión, mejor por la mañana, antes de los autocares. Desde Eilean Donan la A87 cruza las montañas de Glen Shiel y llega a Invergarry; luego la A82 recorre toda la orilla norte del lago, pasando por **Fort Augustus**, donde se ven las esclusas del Caledonian Canal.
 
-En la orilla está el castillo de **Urquhart**, en ruinas sobre un promontorio: las entradas se compran online, con fecha y hora, en la web de Historic Environment Scotland. Por la noche se llega a **Inverness**, la capital de las Highlands, con el río Ness y un centro pequeño, cómodo para cenar y dar un paseo. Rick hizo Inverness y el Lago Ness. El lago, para él, es un poco meh: vale la parada de camino, no el viaje por sí solo.
+En la orilla está el castillo de **Urquhart**, en ruinas sobre un promontorio: las entradas se compran online, con fecha y hora, en la web de Historic Environment Scotland. Por la noche se llega a **Inverness**, la capital de las Highlands, con el río Ness y un centro pequeño, cómodo para cenar y dar un paseo. Yo hice Inverness y el Lago Ness. El lago, para mí, es un poco meh: vale la parada de camino, no el viaje por sí solo.
 
 Quien eligió la variante de la North Coast 500 sale desde aquí, o directamente desde Skye hacia Applecross.
 
@@ -125,7 +125,7 @@ Para el aeropuerto se toma de nuevo el tranvía o el Airlink 100, que salen del 
 **En la práctica:** tranvía al aeropuerto unos 30-35 minutos desde el centro, cada 7-10 minutos durante el día · Museo Nacional de Escocia de entrada libre · botellas de whisky en la maleta facturada, envueltas en la ropa · revisar las normas sobre líquidos del aeropuerto antes de salir.
 
 ## La ruta de las destilerías
-Rick hizo las destilerías, y son una parte del viaje que no hay que saltarse. En Escocia las hay casi en todas partes, pero el itinerario pasa por las más famosas y por un par menos conocidas. Precios y horarios son los de las webs oficiales en noviembre de 2026.
+Yo hice las destilerías, y son una parte del viaje que no hay que saltarse. En Escocia las hay casi en todas partes, pero el itinerario pasa por las más famosas y por un par menos conocidas.
 
 **Las famosas**
 - **Oban** (Oban, día 4): visita clásica de 1 hora desde 24 libras. Abierta todos los días: abril 10-18, de mayo a septiembre 10-19, octubre 10-18, de noviembre a marzo 10-17. El programa de visitas está en revisión: hay que volver a comprobarlo.
@@ -138,7 +138,7 @@ Rick hizo las destilerías, y son una parte del viaje que no hay que saltarse. E
 - **Glen Ord** (Muir of Ord, en Black Isle): la destilería del Singleton, al noroeste de Inverness. La web de la North Coast 500 la señala como inicio o final ideal de la ruta. Visita clásica de 1 hora y cuarto desde 24 libras. De mayo a agosto 10-18, de septiembre a abril 10-17. Las fechas se reservan unos 90 días antes.
 
 **Quien conduce no bebe**
-En Escocia el límite de alcohol al volante es más bajo que en Inglaterra. El consejo de Rick es tolerancia cero. Muchas destilerías dan a quien conduce el **driver's dram**, la cata en una mini botella sellada para llevar. No todas lo ofrecen: hay que preguntarlo al reservar. Quien quiera catar en todas puede coger un tour organizado o un taxi para el Speyside.
+En Escocia el límite de alcohol al volante es más bajo que en Inglaterra. Mi consejo es tolerancia cero. Muchas destilerías dan a quien conduce el **driver's dram**, la cata en una mini botella sellada para llevar. No todas lo ofrecen: hay que preguntarlo al reservar. Quien quiera catar en todas puede coger un tour organizado o un taxi para el Speyside.
 
 **Normas comunes:** se reserva online, en verano con antelación; los grupos son como máximo de 16 personas; los niños menores de 8 años normalmente no entran en las visitas. En invierno las destilerías pueden cerrar en el último momento por el tiempo.
 
@@ -150,7 +150,7 @@ En la costa sur de la isla hay tres destilerías una junto a otra: **Laphroaig**
 - **Laphroaig:** de marzo a octubre todos los días 9:45-17 (2026). Visitas y precios en la web oficial.
 
 ## Variante North Coast 500: el norte del norte
-La **North Coast 500** es un anillo de 516 millas, unos 830 km, que empieza y termina en Inverness y da la vuelta al extremo norte de Escocia. Seguida serían 11-13 horas de conducción, pero la mayoría de quienes la hacen tarda 5-7 días. Rick la hizo: para él es una carretera impresionante.
+La **North Coast 500** es un anillo de 516 millas, unos 830 km, que empieza y termina en Inverness y da la vuelta al extremo norte de Escocia. Seguida serían 11-13 horas de conducción, pero la mayoría de quienes la hacen tarda 5-7 días. Yo la hice: para mí es una carretera impresionante.
 
 Con 4-5 días más se entra por el lado oeste, saliendo de Skye después del día 8, y se sale en Inverness, donde se retoma el itinerario desde el Speyside. Las etapas de abajo son una propuesta:
 - **Día A:** de Skye a **Applecross** por el **Bealach na Bà**, el puerto de curvas cerradas con vistas a Skye, y luego las montañas de **Torridon**.
@@ -162,13 +162,13 @@ Con 4-5 días más se entra por el lado oeste, saliendo de Skye después del dí
 Gran parte de la carretera es de un solo carril. El Bealach na Bà no es apto para autocaravanas grandes y hay que evitarlo con niebla o hielo. Gasolineras y tiendas son escasas: hay que llenar el depósito cuando se puede. Con autocaravana solo se duerme en los campings y en las áreas permitidas.
 
 ## El tiempo
-El tiempo en Escocia es imprevisible, y Rick lo recuerda bien. En verano las máximas suelen estar entre 12 y 19 grados, en invierno entre 2 y 6. La costa oeste y las islas son las zonas con más viento y más lluvia. En la práctica:
+El tiempo en Escocia es imprevisible, y yo lo recuerdo bien. En verano las máximas suelen estar entre 12 y 19 grados, en invierno entre 2 y 6. La costa oeste y las islas son las zonas con más viento y más lluvia. En la práctica:
 - chaqueta impermeable y capas siempre en el coche, incluso en agosto;
 - las vistas más famosas (Storr, Quiraing, Glencoe) hay que ponerlas en días con margen, para poder moverlas;
 - los días de verano son largos, y a menudo el mejor tiempo llega por la tarde;
 - en verano, sin viento, llegan los midges: repelente.
 
-Rick fue en julio, pero recomienda también el otoño: con el follaje Escocia es preciosa.
+Yo fui en julio, pero recomiendo también el otoño: con el follaje Escocia es preciosa.
 
 ## Qué ver / qué hacer
 - **Edimburgo:** el castillo, la Royal Mile, Calton Hill, Arthur's Seat.
@@ -180,7 +180,7 @@ Rick fue en julio, pero recomienda también el otoño: con el follaje Escocia es
 - **North Coast 500:** el Bealach na Bà, Torridon, Assynt, Kylesku, la Smoo Cave, Duncansby.
 
 ## Consejos prácticos / errores que no repetir
-- **Tolerancia cero al volante.** El límite escocés es más bajo que el inglés, y el consejo de Rick es no beber nada. El driver's dram se cata por la noche, en el hotel.
+- **Tolerancia cero al volante.** El límite escocés es más bajo que el inglés, y mi consejo es no beber nada. El driver's dram se cata por la noche, en el hotel.
 - **Los primeros kilómetros por la izquierda, con calma.** Mejor recoger el coche fuera del centro de Edimburgo, con carreteras más tranquilas. *Mi recuerdo: conducir por la izquierda para mí está bien, pero hay que entrenarse, digamos. Y en el campo, de vez en cuando, las carreteras pueden ser estrechas.*
 - **Apartaderos solo para dejar pasar.** No se aparca ahí para hacer fotos.
 - **Reservar alojamiento y visitas a las destilerías con antelación.** En verano Skye y el Speyside se llenan.
@@ -190,9 +190,9 @@ Rick fue en julio, pero recomienda también el otoño: con el follaje Escocia es
 - **No construir un día sobre una sola vista.** Con niebla el Quiraing no se ve: hace falta un plan B.
 
 ## Chiusura personale
-Doce días bastan para Edimburgo, las Highlands, Skye y el Speyside, conduciendo con calma. Con cuatro o cinco días más está la North Coast 500: Rick la hizo, y es impresionante. Él fue en julio, pero también el otoño, con el follaje, es precioso.
+Escocia la recorrí en coche, en julio. Conducir por la izquierda para mí está bien, pero hay que entrenarse, digamos, y en el campo a veces las carreteras son estrechas. Glencoe es preciosa, el Lago Ness un poco meh; en Oban comí un pescado buenísimo en Ee-Usk, y a Glenfinnan fui a propósito por el tren de Harry Potter.
 
-*El itinerario sigue el viaje de Rick, hecho en coche en julio: Edimburgo, Glasgow de paso, el Loch Lomond y Glencoe, Oban y las Hébridas, Glenfinnan, Skye, Inverness y el Lago Ness, las destilerías, los Cairngorms y la North Coast 500, con la conducción por la izquierda, el pescado de Ee-Usk y el tiempo imprevisible. Los alojamientos, la variante de Islay y el orden de las etapas de la North Coast 500 son propuestas construidas con la investigación. La información práctica viene de fuentes oficiales: gov.uk (ETA, entrada, carné de conducir, límites de alcohol), VisitScotland (conducción, carreteras de un solo carril, North Coast 500, tiempo), la web de la North Coast 500, el City of Edinburgh Council (tasa turística), el Castillo de Edimburgo, West Coast Railways (Jacobite), CalMac (ferris a Islay), las webs de las destilerías en malts.com y laphroaig.com, Spirit of Speyside (driver's dram) y Ee-Usk, verificada en noviembre de 2026. Tiempos de conducción orientativos. Horarios, precios y normas cambian: hay que comprobarlos antes de salir.*
+Si tienes cuatro o cinco días más, haz la North Coast 500: es impresionante. Y al volante tolerancia cero: quien conduce no bebe. Yo fui en julio, pero también el otoño, con el follaje, es precioso.
 
 ## Tag
 `#scozia` `#edimburgo` `#highlands` `#skye` `#oban` `#lochness` `#speyside` `#distillerie` `#whisky` `#glencoe` `#glenfinnan` `#northcoast500` `#roadtrip` `#guidaasinistra` `#regnounito`

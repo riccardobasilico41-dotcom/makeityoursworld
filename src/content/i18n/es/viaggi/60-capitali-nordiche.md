@@ -122,7 +122,7 @@ El resto del día queda libre para las últimas compras o un último paseo, ante
 - **Comprobar los horarios de temporada de las salidas en barco** (archipiélago de Estocolmo, crucero por el Oslofjord): en invierno la oferta se reduce bastante respecto a mayo-septiembre.
 
 ## Chiusura personale
-Lo que me queda es el contraste entre tres ciudades que se parecen lo bastante como para parecer variantes una de otra (el mismo diseño limpio, el mismo lenguaje de señales de tráfico, el mismo aire limpio del norte) y que sin embargo siguen siendo tres países separados hasta el final: tres monedas, tres capitales, tres maneras ligeramente distintas de ser escandinavo. Copenhague moviéndose en bicicleta, Estocolmo repartida en catorce islas con un archipiélago inmenso a las puertas, Oslo asomada directamente al fiordo con un parque de esculturas que no se parece a nada más en Europa. Nueve días no bastan para conocerlas de verdad, pero bastan para entender por qué, a pesar de la cuenta final, merece la pena enlazar las tres.
+Nueve días no bastan para conocer de verdad tres capitales, pero bastan para ponerlas en fila: Copenhague en bicicleta, Estocolmo sobre sus islas, Oslo sobre el fiordo. Son caras, y hay que tenerlo en cuenta desde el principio.
 
 ## Tag
 `#copenaghen` `#stoccolma` `#oslo` `#danimarca` `#svezia` `#norvegia` `#capitalinordiche` `#scandinavia` `#cittadarte` `#design`

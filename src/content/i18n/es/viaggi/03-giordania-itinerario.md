@@ -189,7 +189,9 @@ Para el aeropuerto conviene salir con mucho margen, sobre todo desde el centro: 
   y en los pueblos más tradicionales.
 
 ## Chiusura personale
-El balance de este Fin de Año fuera de lo común está todo en un contraste: la belleza de Petra y Wadi Rum vividos casi a solas, y la conciencia de que aquella quietud era fruto de un momento difícil para la región. Me sentí seguro en todo momento del viaje, mucho más de lo que los temores extendidos en otros lugares dejaban imaginar. Si tuviera que elegir un solo recuerdo, sería el cielo estrellado sobre el campamento en el desierto la noche de Fin de Año, lejos de toda luz, en un lugar que parecía hecho a propósito para despedir el año viejo.
+De este Fin de Año me queda sobre todo un contraste: Petra y Wadi Rum casi para nosotros solos, y la idea de que aquella calma venía de un momento difícil para la región. Me sentí seguro en todo momento, mucho más de lo que me hacían pensar los miedos que oía por ahí.
+
+Si tengo que quedarme con un solo recuerdo, es la Nochevieja en el campamento de Wadi Rum, bajo un cielo lleno de estrellas, lejos de cualquier luz. Difícil imaginar una manera más absurda de despedir el año viejo.
 
 ## Tag
 `#giordania` `#petra` `#wadirum` `#capodanno` `#mediooriente` `#deserto`

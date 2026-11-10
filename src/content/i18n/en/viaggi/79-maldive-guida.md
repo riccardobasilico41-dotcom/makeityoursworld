@@ -242,7 +242,7 @@ Prices per person in a double room, intercontinental flights not included (Italy
 - **Book ahead** for Christmas, New Year and Easter, and for Hanifaru between August and October.
 
 ## Chiusura personale
-The Maldives can be a luxury trip or one of the most accessible sea trips in Asia: it depends on where you sleep. Anyone who picks a local island, accepts its rules and spends the days in the water with whale sharks, mantas and turtles sees a different country from the one on postcards, and when they get to a resort they appreciate it more. The part that doesn't change is the sea: you go home wanting to see another atoll, in another season.
+You come to the Maldives for the sea. I swam the house reef early in the morning and again in the late afternoon, when the turtles come up to breathe, and spent the middle of the day in the shade. I built the trip this way, a local island first and then a few nights at a resort: that's what I'd recommend to anyone who loves the sea more than luxury.
 
 ## Tag
 `#maldive` `#oceanoindiano` `#isolelocali` `#resort` `#snorkeling` `#immersioni` `#squalobalena` `#mante` `#hanifaru` `#ari` `#rasdhoo` `#fuvahmulah` `#liveaboard` `#asia`

@@ -13,8 +13,6 @@ You go skiing in Japan for the snow. In winter, cold winds from Siberia cross th
 
 This guide explains where to go, when to leave and when to book, how much it costs, how to get from the airport, and the rules that matter on the mountain and in the onsen. There's an eleven-day itinerary: two days in Sapporo, a day at Kiroro, five nights in Niseko with a day at Rusutsu, two in Furano. At the end, a comparison with Hakuba, in the Japanese Alps, the alternative you can reach from Tokyo.
 
-Like every trip on this site, it's rooted in places I've personally visited and experiences I've actually lived, put together into one practical route.
-
 ## Scheda pratica
 - **When to go:** Hokkaido resorts usually open between late November and early December and close between late March and early May. Niseko United in 2026-27 opens on November 28; Grand Hirafu and Annupuri stay open until May 5, Niseko Village and Hanazono close in April. The most consistent powder is between the second half of December and February. March has sunny days and heavier snow, and lower prices.
 - **Yuki Matsuri:** the Sapporo snow festival, with large snow and ice sculptures in Odori, Susukino and Tsudome, runs February 4-11 in 2027. On those days Sapporo hotels fill up and cost more.

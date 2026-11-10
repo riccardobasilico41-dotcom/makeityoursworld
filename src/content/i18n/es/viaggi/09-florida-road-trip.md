@@ -157,7 +157,7 @@ En Orlando me alojé en una villa privada de alquiler estilo Airbnb/VRBO, la sol
 - Todas las habitaciones tienen camas de matrimonio dobles para compartir: hay que tenerlo en cuenta al formar las habitaciones.
 
 ## Chiusura personale
-Diez días y 1.800 km son mucho para un solo viaje, y sinceramente un ritmo más lento habría premiado más los Cayos, que merecerían por sí solos unos días más. Entre Universal y Disney elegí Universal, y no me arrepiento: las atracciones de Harry Potter valen por sí solas la jornada. El recuerdo más fuerte sigue siendo, sin embargo, el Kennedy Space Center: ver de cerca la historia de las misiones espaciales estadounidenses, con trajes auténticos y rocas lunares a pocos centímetros, fue una sorpresa mayor de la que esperaba de una etapa que consideraba secundaria.
+Diez días casi siempre al volante, casi 1.800 km entre los Everglades, los Cayos, Orlando y Cabo Cañaveral. El momento que tengo más claro sigue siendo el primer vistazo al Seven Mile Bridge: mar a un lado y al otro, y la carretera que parece flotar en medio.
 
 ## Tag
 `#florida` `#usa` `#roadtrip` `#keywest` `#everglades` `#orlando` `#capecanaveral` `#miami` `#nordamerica`

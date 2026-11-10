@@ -107,7 +107,7 @@ Socca caliente en el mercado, pan bagnat en la playa, salade niçoise sin patata
 - **Comprobar los horarios de la Chapelle du Rosaire**, que son muy limitados.
 
 ## Chiusura personale
-Lo que queda de dos años en Antibes no es una playa: es el sendero del Cap, repetido decenas de veces, cada vez distinto (con el viento, con el mar movido, con la luz del atardecer). Es el lugar que demuestra que la Costa Azul, quitada la estación equivocada, sigue siendo uno de los trozos de Mediterráneo más densos que existen.
+En Antibes viví dos años, y por eso la uso como base. Lo que aprendí allí es que las estaciones van al revés: en verano es un sitio difícil, de octubre a mayo es uno de los más agradables de Europa, con sol, senderos vacíos y mercados que vuelven a ser mercados.
 
 ## Tag
 `#costaazzurra` `#antibes` `#francia` `#nizza` `#cannes` `#mercantour` `#picasso`

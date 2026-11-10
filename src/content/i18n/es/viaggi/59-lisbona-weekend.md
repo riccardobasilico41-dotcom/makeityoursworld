@@ -83,7 +83,7 @@ El **pastel de nata** en Pastéis de Belém y en las pastelerías de barrio; el 
 - **Llevar un paraguas ligero fuera de temporada**: de noviembre a marzo es suave pero lluvioso.
 
 ## Chiusura personale
-Lo que me queda es el contraste entre el ritmo lento de las cuestas y los miradouros en la ciudad y la carrera contra el reloj para llegar entre los primeros al Palácio da Pena: dos velocidades distintas en un mismo fin de semana, que cuentan bien la doble naturaleza de este destino (ciudad para vivir despacio, excursión de un día para afrontar con método).
+Para mí Lisboa se vive cuesta arriba, entre colinas, tranvías y miradouros. Cuatro días bastan para Alfama, Belém y Baixa-Chiado, más un día entero para Sintra, la excursión más bonita de los alrededores y también la más concurrida.
 
 ## Tag
 `#lisbona` `#portogallo` `#sintra` `#alfama` `#belem` `#fado` `#pasteldenata` `#weekendlungo`

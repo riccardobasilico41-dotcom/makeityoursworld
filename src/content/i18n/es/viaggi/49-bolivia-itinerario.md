@@ -187,7 +187,7 @@ Las últimas horas en la ciudad dependen del tiempo que quede (un último paseo 
 - **Quien alargue el viaje hacia Perú desde Copacabana** debe comprobar los horarios de cierre del paso de Kasani/Yunguyo y los trámites de registro previo, que han cambiado hace poco.
 
 ## Chiusura personale
-Lo que queda de este viaje es la sensación física de la altura, más que cualquier imagen suelta: la falta de aire al subir las escaleras en La Paz los dos primeros días, el frío absurdo de los géiseres del Sud Lípez al amanecer, el alivio de volver a respirar bien en Sucre, y por último el calor húmedo de la Amazonia que llega tras un vuelo de cuarenta y cinco minutos como otro planeta. En medio, los contrastes que hacen de Bolivia algo distinto a cualquier otro país de Sudamérica: el wrestling de las cholitas en El Alto y las galerías del Cerro Rico en el mismo viaje, los flamencos de la Laguna Colorada y los delfines rosados del río Yacuma, un mercado de las brujas y la ceca colonial que fundió plata para un imperio. No es un país cómodo (los cajeros se quedan sin dinero, las carreteras se bloquean, los vuelos saltan por el tiempo), pero es probablemente, altura aparte, el más inmediato de recorrer por libre de todo el continente.
+Bolivia es el país más barato del continente y, altitud aparte, uno de los más sencillos de recorrer por tu cuenta. El Salar y el Sud Lípez por sí solos justifican el viaje. La única regla que me atrevo a dar es mantener el plan flexible: aquí los bloqueos de carreteras y los vuelos cancelados cuentan más que en otros sitios.
 
 ## Tag
 `#bolivia` `#lapaz` `#uyuni` `#salardeuyuni` `#sudlipez` `#titicaca` `#copacabana` `#potosi` `#sucre` `#rurrenabaque` `#amazzonia` `#altaquota` `#altitudine` `#suramerica`

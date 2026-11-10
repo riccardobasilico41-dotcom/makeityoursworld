@@ -144,7 +144,7 @@ Por la noche fuimos a la **Corniche**, que los jueves es el momento social de la
 - **Recordar que en Arabia Saudí el alcohol no existe**, y que introducirlo es un delito grave.
 
 ## Chiusura personale
-Lo que queda, después de haber convertido cuatro escalas en cuatro paradas, es lo poco que cuesta hacerlo y lo poca gente que lo hace. Uno se pasa la vida considerando la escala en el Golfo como un precio que pagar para ir a otro sitio, y mientras tanto las aerolíneas que ganan con ello han montado programas que prácticamente te pagan por bajarte. Pero el motivo por el que merece la pena no es económico. Es que en cada una de estas ciudades, a veinte minutos del skyline que todos fotografían, hay algo que ese skyline no cuenta: un creek donde todavía se cargan los barcos a mano, un hospital para halcones, una laguna donde el mar entra en el desierto, un barrio de casas de coral sostenidas por andamios. Son lugares que nadie vende como destino y que se ven todos dentro de las horas muertas de un billete a otra parte del mundo.
+De estas escalas me quedó Dubái vista desde una abra en el Creek, a un dírham el trayecto, y la cena en Karama gastando menos de diez euros: es donde mejor se come. El safari en el desierto hay que tomarlo por lo que es, pero sigue siendo una velada agradable. Y el consejo que vale más que todos: no ir en verano.
 
 ## Tag
 `#stopover` `#dubai` `#abudhabi` `#doha` `#jeddah` `#emiratiarabiuniti` `#qatar` `#arabiasaudita` `#golfo` `#medioriente` `#scalilunghi`

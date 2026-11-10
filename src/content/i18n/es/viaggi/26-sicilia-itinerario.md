@@ -154,7 +154,7 @@ La vuelta al aeropuerto hay que organizarla con margen: la devolución del coche
 - **No ir en agosto**, el mes peor en todos los parámetros.
 
 ## Chiusura personale
-Lo que queda de la Sicilia oriental no es un monumento sino una superposición. Se entra en la Catedral de Siracusa, que es una iglesia barroca con la fachada del siglo XVIII, y dentro de los muros están las columnas dóricas de un templo del siglo V antes de Cristo: no reconstruidas, no evocadas; englobadas, que se tocan con la mano. Por medio hay dos mil quinientos años en los que ese edificio ha sido templo griego, iglesia bizantina, mezquita, de nuevo iglesia, y no ha dejado nunca de usarse. Esta es Sicilia: no un lugar conquistado por una cultura tras otra, sino un lugar que las ha llevado todas encima. Y luego está el Etna, que hace lo mismo en términos geológicos: cubre, sepulta, y la gente vuelve a plantar encima las viñas porque ese suelo es el mejor que hay.
+El consejo que daría es uno: no intentar hacer toda la isla. Mejor quedarse con una mitad, la oriental con el Etna, y hacerla con calma, sin saltarse el interior. Y no en agosto.
 
 ## Tag
 `#sicilia` `#italia` `#etna` `#siracusa` `#valdinoto` `#agrigento` `#barocco` `#archeologia` `#magnagrecia`

@@ -107,7 +107,7 @@ A Mallorca, la **sobrasada** (salume spalmabile con paprika) e le **ensaïmadas*
 - **Controllare gli orari dei traghetti stagionali**: fuori dai mesi estivi le corse calano parecchio.
 
 ## Chiusura personale
-Quello che mi resta è quanto le tre isole smentiscano l'idea di "arcipelago unico": Mallorca è quasi un piccolo continente, Ibiza vive due vite parallele che raramente si incontrano, Minorca ha scelto deliberatamente di restare più piccola e più quieta delle altre due. Vederle in sequenza, una dopo l'altra, è il modo più onesto di capire cosa le distingue davvero.
+Tre isole in otto giorni, collegate in traghetto: Mallorca con Palma e la Serra de Tramuntana, Ibiza tra Dalt Vila e le calette del nord, e Minorca, la più tranquilla.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Orari e frequenze dei traghetti, prezzi degli ingressi e regole di prenotazione cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

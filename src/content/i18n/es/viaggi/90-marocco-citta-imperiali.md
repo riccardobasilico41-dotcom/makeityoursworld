@@ -138,9 +138,7 @@ Quien tenga 3-4 días más añade el valle del Draa, Agadir y Esauira, como en e
 - **Volver a cambiar los dírhams antes del vuelo, con los recibos.** No se pueden sacar de Marruecos.
 
 ## Chiusura personale
-Este es el Marruecos de las ciudades, el que suele verse menos en los primeros viajes, cuando todos apuntan a Marrakech y al desierto. Once días bastan para Chefchaouen, Fez, Mequinez con Volubilis, Rabat y Casablanca, todo por carretera. Quien tenga dos semanas puede unirlo al itinerario del sur, y bajar desde Fez hasta las dunas de Erg Chebbi.
-
-*Las etapas del desierto en la versión combinada vienen del otro itinerario, de Marrakech al Sáhara. La información práctica viene de fuentes oficiales y de referencia: la Fundación de la Mezquita Hassan II (horarios y entradas), las fichas de Viaggiare Sicuri y del gobierno británico y las entradas enciclopédicas sobre los sitios de la UNESCO, verificadas en noviembre de 2026. Distancias y tiempos de conducción calculados con OSRM sobre el recorrido por carretera, sin paradas. Horarios de los autobuses en ctm.ma. Horarios, precios y normas cambian: hay que volver a comprobarlos antes de salir.*
+Este fue mi Marruecos del norte: Chefchaouen, Fez, Mequinez con Volubilis, Rabat y Casablanca, once días todo por carretera. Lo prefiero así, porque te paras donde quieres. El sur, de Marrakech a las dunas de Erg Chebbi, es el otro viaje.
 
 ## Tag
 `#marocco` `#cittaimperiali` `#fes` `#meknes` `#volubilis` `#rabat` `#chefchaouen` `#cittablu` `#casablanca` `#tangeri` `#ontheroad` `#medina`

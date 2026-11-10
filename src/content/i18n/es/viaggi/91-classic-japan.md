@@ -15,8 +15,6 @@ En la web ya hay otro viaje por Japón, [los 12 días de abril entre sakura, Fuj
 
 Un spoiler de mi propio viaje: la ruta clásica está abarrotada de turistas por todas partes, sobre todo Kioto.
 
-Como todos los viajes de esta web, nace de lugares que he visitado personalmente y de experiencias que he vivido, reunidos en una ruta práctica.
-
 ## Scheda pratica
 - **Cuándo ir:** de finales de abril a principios de junio y de octubre a mediados de noviembre. Kamikochi abre a mediados de abril y cierra a mediados de noviembre (en 2026 del 17 de abril al 15 de noviembre). Junio-julio es la estación de lluvias en gran parte de Honshu, agosto es caluroso y húmedo. En invierno Shirakawa-go y Takayama están bajo la nieve: preciosos, pero Kamikochi está cerrado y el Nakasendō puede tener nieve en los escalones de piedra.
 - **Documentos:** los ciudadanos italianos no necesitan visado para turismo hasta 90 días, con pasaporte válido durante toda la estancia.
@@ -183,7 +181,9 @@ Salida desde Kansai o desde Tokio. Desde Kansai, el Haruka llega al aeropuerto d
 - **Onsen y tatuajes:** muchos ryokan todavía los prohíben en los baños comunes. Las habitaciones con baño privado o los baños privados de alquiler, los kashikiri, lo resuelven.
 
 ## Chiusura personale
-El viaje clásico muestra el Japón de las grandes ciudades y de los templos más famosos. Esta versión añade los pueblos de montaña, los caminos a pie y las noches en los templos, y a cambio pide más días y un poco de organización con los autobuses. Quien tenga diecisiete días y un primer viaje a sus espaldas, o quiera hacer uno solo pero completo, encuentra aquí el Japón que está entre las dos costas.
+La ruta clásica me la encontré abarrotada de turistas por todas partes, sobre todo Kioto, que recomiendo recorrer a primera hora de la mañana. En Fushimi Inari subí hasta la cima: la vista, nada del otro mundo, pero la experiencia es bonita. Tokio merecería unas vacaciones para ella sola, Dotonbori a mí me encantó, y en Nara comí un atún espectacular en Maguro Koya.
+
+Hiroshima me llevó al límite: hacia el final tuve que acelerar el paso, porque emocionalmente era «demasiado». Si tienes menos días, para mí se pueden recortar Hiroshima y Miyajima.
 
 ## Tag
 `#giappone` `#classicjapan` `#alpigiapponesi` `#nakasendo` `#takayama` `#shirakawago` `#kanazawa` `#koyasan` `#kyoto` `#miyajima` `#onsen` `#ryokan` `#asia`

@@ -218,11 +218,9 @@ No hay una ruta obligada. Se parte del mes en que se viaja y del tiempo que se t
 - **Rellenar e-VOA y All Indonesia Arrival Card** en los portales oficiales antes de cada entrada.
 
 ## Chiusura personale
-Indonesia es un país al que se vuelve: las islas son demasiadas, y demasiado distintas, para un solo viaje. Por eso el consejo es uno solo: elige una o dos islas, según el mes, y dales el tiempo que merecen. Las demás seguirán ahí para el próximo viaje.
+Las islas que he visto parecen países distintos. El Rinjani es el trekking más duro que he hecho en Indonesia; en Bukit Lawang, después de tres horas en el barro sin ver nada, un orangután bajó a una rama a pocos metros; Tana Toraja es lo más distinto que he visto; Raja Ampat el lugar más bonito que he visto bajo el agua, y también el más cansado de alcanzar.
 
-Yo he vuelto sobre todo por la gente: los lugares, sí, pero también las sonrisas, como en Tailandia.
-
-*De Rick vienen los recuerdos de cada isla, tomados de las fichas de destino de la web, el mensaje de que cada isla merece al menos una semana y de que los destinos son intercambiables, y los contactos recomendados. El resto viene de las fichas de la web y de la investigación del 5 de noviembre de 2026: Love Bali para la tasa turística, ANTARA para las tarifas del parque de Komodo, Wikivoyage y operadores para Raja Ampat, los comunicados del parque del Rinjani recogidos por ANTARA, CNN Indonesia, Detik y Metro TV para el cierre y la reapertura de 2026 y la app E-Rinjani, las noticias sobre la ruta estacional de Garuda Denpasar-Sorong, gov.uk para documentos, seguridad, barcos y volcanes, Wikipedia y Wikivoyage para Tanjung Puting y la carretera a Toraja. Precios, horarios, cierres y tasas locales hay que comprobarlos de nuevo antes de salir.*
+El consejo es uno: elige una o dos islas según el mes y dales al menos una semana a cada una. Yo volví sobre todo por la gente: las sonrisas, como en Tailandia.
 
 ## Tag
 `#indonesia` `#guida` `#bali` `#nusapenida` `#lombok` `#gili` `#giava` `#sumatra` `#mentawai` `#komodo` `#flores` `#sulawesi` `#rajaampat` `#borneo` `#asia`

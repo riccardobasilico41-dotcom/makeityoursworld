@@ -197,7 +197,9 @@ A Pompeya se llega con la **Circumvesuviana** desde Nápoles, parada Pompei Scav
 - **Comprobar los días de cierre**, distintos para cada museo: son el error de planificación más frecuente.
 
 ## Chiusura personale
-Lo que queda, tras doce días en cuatro ciudades que uno creía conocer, es que el valor está casi siempre donde no hay cola. A cuatrocientos metros del Coliseo se baja a una basílica del siglo IV y luego a un templo de Mitra del I, y hay seis personas. A cien metros de la Piazzale Michelangelo hay una iglesia del año mil donde por la tarde los monjes cantan en gregoriano, y no hay nadie. A cuarenta minutos en vaporetto de San Marcos está la basílica en la que empezó Venecia, con un Juicio Final en mosaico grande como una pared, y hay veinte personas. No es una búsqueda de lo exclusivo: es que este país tiene una cantidad de cosas tan desproporcionada respecto a los flujos turísticos que basta con moverse trescientos metros, o una hora, para encontrarse casi a solas ante algo que en otro sitio sería el monumento nacional.
+En Roma me gusta la Gattabuia, en el Trastevere, que es una antigua cárcel. Los sitios con el menú en inglés o con alguien captando clientes en la puerta suelen ser meh: mejor alejarse un poco del centro. En Florencia la cúpula de Brunelleschi es estrecha, pero merece la pena, y la bistecca es increíble; el lampredotto, en cambio, no me vuelve loco.
+
+Venecia es bonita entera, caray. Y entre Pompeya y Herculano, Pompeya es más bonita, pero en Herculano hay menos gente: vosotros veréis.
 
 ## Tag
 `#italia` `#roma` `#firenze` `#venezia` `#napoli` `#cittadarte` `#pompei` `#altavelocita` `#europa`

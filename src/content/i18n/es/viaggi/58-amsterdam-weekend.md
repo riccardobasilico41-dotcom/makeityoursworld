@@ -86,7 +86,7 @@ Las **bitterballen** con una cerveza neerlandesa en los *bruine kroegen* de Jord
 - **Vestirse por capas y llevar un chubasquero**: llueve a menudo, incluso en verano, y el viento sobre los canales se nota.
 
 ## Chiusura personale
-Lo que me queda es el contraste entre la ligereza de pedalear entre los canales y el silencio que se pide una manzana más allá, en el Prinsengracht 263. Ámsterdam es una ciudad que pide las dos velocidades en el mismo fin de semana.
+Ámsterdam la recorrimos a pie y en bici: el anillo de canales y el Jordaan, la Casa de Ana Frank, los dos grandes museos del Museumplein. El último día alquilamos una bicicleta y fuimos por libre, parando donde se terciaba, como hacen los amsterdameses.
 
 ## Tag
 `#amsterdam` `#paesibassi` `#annefrank` `#rijksmuseum` `#vangogh` `#bicicletta` `#canali` `#weekendlungo`

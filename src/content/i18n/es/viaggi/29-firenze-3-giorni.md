@@ -111,7 +111,7 @@ Dos días en Florencia aguantan bien, con una condición: **un solo gran museo, 
 
 ## Dove abbiamo mangiato
 - **La bistecca alla fiorentina**, poco hecha y al peso, compartida entre dos. Bien hecha deja de ser ese plato. *Mi recuerdo: el lampredotto no me vuelve loco, pero la bistecca es increíble. Y es difícil comer mal.*
-- **Dónde comer la bistecca en el centro, cuatro sugerencias** (direcciones elegidas investigando, no sitios donde estuvimos; conviene comprobar los horarios antes de ir): **Buca Lapi**, en via del Trebbio 1r, en las bodegas del Palazzo Antinori, abierta desde 1880, por la noche · **Trattoria Mario**, en via Rosina 2r, cerca del Mercato Centrale, solo a mediodía de lunes a sábado · **Trattoria Sostanza**, en via del Porcellana 25r, diminuta, hay que reservar con mucha antelación · **Il Latini**, en via dei Palchetti 6r, recomendado por la Guía Michelin, cerrado los lunes.
+- **Dónde comer la bistecca en el centro, cuatro sugerencias** (direcciones conocidas, no sitios donde estuvimos): **Buca Lapi**, en via del Trebbio 1r, en las bodegas del Palazzo Antinori, abierta desde 1880, por la noche · **Trattoria Mario**, en via Rosina 2r, cerca del Mercato Centrale, solo a mediodía de lunes a sábado · **Trattoria Sostanza**, en via del Porcellana 25r, diminuta, hay que reservar con mucha antelación · **Il Latini**, en via dei Palchetti 6r, recomendado por la Guía Michelin, cerrado los lunes.
 - **El lampredotto en el puesto**, la forma más florentina de comer a mediodía.
 - **Ribollita y pappa al pomodoro**, cocina de aprovechamiento del pan duro, mejores de lo que la descripción hace pensar.
 - **La schiacciata** con embutidos, y el **pan sin sal**, que al principio parece que está mal.
@@ -131,9 +131,7 @@ Dos días en Florencia aguantan bien, con una condición: **un solo gran museo, 
 - **No llenar tres días seguidos de museos:** los huecos en el programa son la parte que hace funcionar Florencia.
 
 ## Chiusura personale
-Lo que queda de Florencia es una cuestión de escala. Uno está al fondo de la nave del Duomo, que por dentro es sorprendentemente austera, casi desnuda, y mira hacia arriba, hacia una cúpula que parece normal hasta que se sabe que, a la hora de construirla, nadie en el mundo sabía cómo se hacía: el tambor ya estaba allí, octogonal, de cuarenta y cinco metros de ancho, y durante un par de generaciones Florencia tuvo su catedral con un agujero en lugar de techo. Luego se sube, y a mitad de camino uno se da cuenta de que está dentro del muro, entre una cáscara y la otra, en un hueco proyectado hace seis siglos por un hombre que nunca explicó del todo cómo pensaba conseguirlo.
-
-Eso es lo que queda, más que la Venus de Botticelli: que el Renacimiento florentino no fue un movimiento artístico sino un problema técnico resuelto por gente que se lo jugaba, y que todo lo demás (el David, los Uffizi, las puertas de Ghiberti) vino detrás de esa seguridad.
+En Florencia es difícil comer mal. El lampredotto no me vuelve loco, pero la bistecca es increíble. Y la regla que me llevo es la del principio: un gran museo al día, no dos, y algún hueco en el programa.
 
 ## Tag
 `#firenze` `#italia` `#rinascimento` `#brunelleschi` `#michelangelo` `#uffizi` `#oltrarno` `#cittadarte`

@@ -150,9 +150,9 @@ Con el día libre, Padang se recorre en media jornada. La **ciudad vieja** junto
 - **Preguntar el importe actualizado de la tasa de surf** antes de salir.
 
 ## Chiusura personale
-Las Mentawai son lugares increíbles. La selva de Siberut, sin embargo, es dura, y no se la recomendaría a cualquiera. A quien vaya le pido una sola cosa: entrar en esa casa con respeto, sabiendo lo que han pasado los mentawai para mantener vivas sus tradiciones. Luego está el mar de Sipora, que después de esos días parece aún más bonito.
+A las Mentawai fui con Mentawai Tribe, y vivimos unos días en la selva de Siberut con una familia, en su casa. Son lugares increíbles. Pero es duro: barro por todas partes, insectos, sin electricidad, se duerme sobre una esterilla. No se lo recomendaría a cualquiera, y a quien vaya le pido una sola cosa: entrar en esa casa con respeto, sabiendo lo que han pasado los mentawai para mantener vivas sus tradiciones.
 
-*De Rick vienen la estancia en la selva de Siberut con Mentawai Tribe, el juicio sobre los lugares, sobre las condiciones duras y sobre las playas, y la invitación a pensar en el lado ético. El resto viene de la investigación del 4 de noviembre de 2026: el sitio de Mentawai Tribe para paquetes, logística y normas; Mongabay y Wikipedia para la historia de la represión de las tradiciones; Perfect Wave, Surfer Today e indonesia.travel para surf, estaciones y precios; Bucketlistly y Journey Beyond Horizon para ferris y carreteras de Sumatra; el CDC para la malaria; el sitio del proyecto para Max Mariola. Horarios y precios del Mentawai Fast e importe de la tasa de surf no están confirmados y hay que volver a comprobarlos antes de salir.*
+Luego está el mar, y las playas de las Mentawai son preciosas.
 
 ## Tag
 `#indonesia` `#sumatra` `#mentawai` `#siberut` `#sipora` `#bukittinggi` `#padang` `#surf` `#giungla` `#turismoetico` `#duesettimane` `#asia`

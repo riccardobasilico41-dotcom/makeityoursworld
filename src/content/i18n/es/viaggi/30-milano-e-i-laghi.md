@@ -137,9 +137,7 @@ Tren a **Stresa**, una hora y media aproximadamente, y barco a las islas: **Isol
 - **No hacer la ciudad de Como** si se tiene un solo día: el lago se ve mucho mejor desde Varenna.
 
 ## Chiusura personale
-Lo que queda de Milán no es el Duomo, y es casi embarazoso admitirlo. Es la tarde en que, por casualidad o porque alguien lo sugirió, se empuja la puerta de San Maurizio en corso Magenta (una fachada plana y anónima, en una calle por donde pasan los tranvías) y dentro hay una iglesia pintada entera, del suelo al techo, sin una sola pared libre. No hay cola, no hay taquilla, casi no hay nadie. Uno se sienta diez minutos y mira el muro divisorio que separaba a las monjas de clausura del resto del mundo, con la reja a través de la cual seguían la misa, y luego sale y vuelve a coger el tranvía.
-
-Milán funciona así: no exhibe nada, no explica lo que tiene, y deja que las mejores cosas se las encuentre quien pasa por delante. Es una ciudad a la que hay que cortejar en lugar de visitar, y es el motivo por el que quien ha pasado dos días la juzga mal y quien ha vivido dos años ya nunca habla mal de ella.
+Milán para mí es mi casa, así que todo tiene otro sabor. De los lagos, Como es preciosa pero turística, y las Borromeas son una sorpresa, si no se conocen, porque están supercuidadas.
 
 ## Tag
 `#milano` `#italia` `#lagodicomo` `#varenna` `#bergamo` `#cenacolo` `#design` `#artecontemporanea`

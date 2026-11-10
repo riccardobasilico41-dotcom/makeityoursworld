@@ -179,7 +179,7 @@ Allow plenty of margin for the transfer to Tawau: the road from Semporna runs th
 - **Check travel advisories** for Sabah's east coast before booking Semporna.
 
 ## Chiusura personale
-Borneo leaves two images that sit side by side and don't reconcile. The first is dawn on the granite plateau of Kinabalu, with the clouds beneath your feet and the whole island revealing itself as the sky changes color. The second is the boat turning into a tributary of the Kinabatangan: ahead there are proboscis monkeys, hornbills and an orangutan on a branch, and behind that strip of green, three hundred meters away, the neat rows of oil palms begin and run on to the horizon. You see the animals so well precisely because they have nowhere else to go. It's the reason this trip is worth doing now, and also the reason why, coming back, something stays with you that isn't just enthusiasm.
+Borneo needs to be taken as a trip of its own, not an add-on to Malaysia: Kinabalu, the Kinabatangan and the Semporna sea each ask for their own days.
 
 ## Tag
 `#borneo` `#malesia` `#sabah` `#kinabalu` `#oranghi` `#sepilok` `#kinabatangan` `#sipadan` `#diving` `#faunaselvatica` `#asia`

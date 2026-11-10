@@ -117,7 +117,7 @@ En San Sebastián y Bilbao el **txikiteo** es una experiencia aparte: un bar, un
 - **Llegar a Santiago con las credenciales del peregrino selladas**, si se ha caminado un tramo y se quiere la Compostela.
 
 ## Chiusura personale
-Lo que me queda es el contraste total con la idea más difundida de «España»: aquí no hace calor, se come de pie en la barra de un bar en vez de en una mesa, y la lengua que se oye por la calle en el País Vasco no se parece a ninguna otra. Es la España que corrige el estereotipo, y quizá por eso es la más infravalorada de las cuatro regiones españolas contadas aquí.
+El norte de España desmiente el tópico: no hace calor, llueve a menudo, el paisaje es verde, y se come de pie en la barra, un pintxo cada vez.
 
 ## Tag
 `#spagnadelnord` `#sansebastian` `#bilbao` `#paesibaschi` `#pintxos` `#camminodisantiago` `#galizia` `#spagna`

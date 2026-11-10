@@ -124,9 +124,7 @@ The afternoon is for the **northern lagoon**, by vaporetto:
 - **Don't plan Venice in July and August** if there is an alternative.
 
 ## Chiusura personale
-What stays with you from Venice doesn't happen at San Marco. It happens at Torcello, which is forty minutes by vaporetto and where almost nobody goes: you step off onto an island of grass and canals, walk ten minutes along a canal without meeting anyone, and enter a seventh-century basilica that is almost empty: no Baroque gold, no side chapels, only brick. At the far end, in the apse's semi-dome, is a Byzantine Madonna in mosaic, very tall and slender, with the child in her arms, on a completely empty gold ground. There's nothing else around: no angels, no saints, no architecture. Only gold.
-
-And then you understand the order of things: that there was a city here of tens of thousands of inhabitants when Venice didn't yet exist, that when the lagoon silted up and malaria arrived those people moved to a sandbank a little farther on and built the thing we know, and that this mosaic was already there watching. Venice is not a city on the water: it is **a city that chose the water as a defense**, and built a commercial empire on top of it for a thousand years. Torcello is the place where you see where it started from, and where you understand that it could go back there too.
+Venice is beautiful all over, damn. If I have to give one piece of advice: sleep there, in the city and not in Mestre, and walk it at dawn or after seven in the evening, when it empties out.
 
 ## Tag
 `#venezia` `#italia` `#laguna` `#torcello` `#tintoretto` `#ghetto` `#cicchetti` `#cittadarte`

@@ -132,7 +132,7 @@ Hacia mediodía se devuelven esquís y botas, se recupera la posible fianza de l
 - **Mi jornada de esquí**, la que recomiendo siempre: se sube en cuanto abren los remontes, para intentar estar entre los primeros, un tentempié rápido a media mañana y luego a tope hasta las dos, dos y media. En ese momento se desconecta en el refugio y se acaba. Así comes cuando hay menos gente y por la tarde, cuando las pistas están más «comidas», ya has terminado.
 
 ## Chiusura personale
-Lo que se entiende después de unas cuantas semanas blancas es que el placer no está en los kilómetros. Se puede pasar un día macerando pistas y volver por la noche sin recordar nada, o hacer la mitad de esos kilómetros, pararse a las once en un refugio a dos mil cuatrocientos metros, pedir algo caliente y quedarse veinte minutos sentado al sol con una pared rosa delante. En Francia lo primero lo hacen mejor; lo segundo, aquí, nadie lo hace mejor que nosotros. Y luego está esa mañana (ocurre una vez por semana, con suerte) en que se coge el primer telesilla con la pista recién pisada, todavía no hay nadie, y se baja por algo liso y perfecto que dentro de una hora ya no existirá. Por esa media hora, en el fondo, se paga todo lo demás.
+Hago semanas blancas desde que era pequeño, tanto fines de semana como temporadas más largas. Por eso aquí he puesto más los criterios que los sitios: la altitud antes que la fama, y la semana elegida mirando el calendario, no por costumbre.
 
 ## Tag
 `#sci` `#settimanabianca` `#dolomiti` `#sellaronda` `#scialpinismo` `#italia` `#montagna` `#inverno`

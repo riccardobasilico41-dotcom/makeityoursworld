@@ -174,9 +174,7 @@ L'arcipelago si fa benissimo anche via traghetto, con una logica diversa: **si s
 - **Prenotare le cantine di Salina**, che non sono negozi.
 
 ## Chiusura personale
-La cosa che resta non è un panorama: è un rumore. Si è ancorati sottocosta a Stromboli, di notte, con le luci spente e il motore fermo, e non si vede niente se non il profilo nero del vulcano contro un cielo leggermente meno nero. Poi c'è un tonfo sordo, che si sente nello scafo prima che nelle orecchie, e sul bordo del cratere si accende una luce arancione. Qualche secondo dopo cominciano a scendere i blocchi incandescenti lungo il canalone, che rotolano per centinaia di metri fino al mare e si spengono uno a uno con un sibilo.
-
-Poi torna il silenzio, e dopo qualche minuto ricomincia. E la cosa che fa effetto, seduti in pozzetto a guardarlo, è che questo succede **così, a quel ritmo, da prima che ci fossero i Greci**: gli antichi lo chiamavano il faro del Mediterraneo e ci navigavano sopra, e ci sono cinquecento persone che vivono ai suoi piedi, comprano il pane, mandano i figli a scuola, e sopra le loro teste il vulcano esplode ogni cinque minuti da duemila anni. Nessuno ha mai deciso niente al riguardo. Semplicemente è così, e la gente ci si è abituata.
+In barca, la ragione per fare questo giro resta la Sciara del Fuoco di Stromboli vista dal mare, di notte. Il resto lo decide il vento.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le ordinanze che regolano la salita a Stromboli (quota massima consentita, obbligo di guida, periodi di divieto) e l'accesso al Gran Cratere di Vulcano sono cambiate più volte negli ultimi anni e vanno verificate al momento**, così come lo stato di accesso alla spiaggia di Pollara. **L'itinerario in barca dipende dal meteo e va considerato una traccia.**

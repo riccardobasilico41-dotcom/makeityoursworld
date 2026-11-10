@@ -235,11 +235,7 @@ Vuelo desde Cagliari. El aeropuerto de Elmas está a una decena de kilómetros d
 - **Tener en cuenta las distancias:** la isla es grande, y las carreteras estatales del interior son lentas.
 
 ## Chiusura personale
-Lo que queda de Cerdeña es el contraste entre dos cosas vistas en la misma semana. La primera es Porto Cervo: una plazoleta perfecta, proyectada en los años sesenta por arquitectos buenísimos, en la que cada detalle (el enlucido, el color de los postigos, la curva del tejado) se decidió sobre el papel para evocar un pueblo mediterráneo que en ese punto no ha existido nunca. Funciona muy bien, y es falso de una manera completamente honesta.
-
-La segunda es un nuraghe cualquiera, de esos que te encuentras en medio de un campo junto a una carretera del interior, sin cartel y sin taquilla: un cono de rocas apiladas en seco, sin mortero, en pie desde hace tres mil quinientos años, construido por una civilización que dejó siete mil en una isla y de la que no sabemos la lengua, el nombre que se daba, ni con certeza para qué servían esas torres.
-
-Entre estas dos cosas hay sesenta kilómetros de carretera y tres mil quinientos años, y están en la misma isla. Quien va a Cerdeña y ve solo la primera no se ha equivocado de vacaciones: solo ha mirado el dos por ciento.
+Nuestra ruta fue esta: primero la Gallura, con La Maddalena vista desde el barco y Capo Testa; luego el golfo de Orosei, a pie desde el Golgo y en barco por las calas; después el interior, la arqueología, las dunas de Piscinas y, para terminar, el ferri a Carloforte.
 
 ## Tag
 `#sardegna` `#italia` `#costasmeralda` `#golfodiorosei` `#barbagia` `#nuraghi` `#sulcis` `#carloforte` `#isole`

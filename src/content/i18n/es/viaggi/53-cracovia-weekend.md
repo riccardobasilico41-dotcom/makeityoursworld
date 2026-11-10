@@ -101,7 +101,7 @@ Los **bary mleczne**, los comedores económicos heredados de la época comunista
 - **Pagar en zlotys**, no esperar el euro solo porque se está en la Unión Europea.
 
 ## Chiusura personale
-Lo que me queda es el contraste entre las dos mitades del fin de semana: la plaza medieval con la trompeta que suena cada hora y se interrumpe a media nota, y a hora y media de distancia un lugar que pide ser visitado en silencio. Cracovia es las dos cosas a la vez, y es la razón por la que un fin de semana aquí no es solo otro city break europeo.
+En Cracovia el fin de semana se partió en dos: por un lado la ciudad medieval, entre Rynek Główny, el Wawel y Kazimierz; por otro la jornada en Auschwitz-Birkenau. Volvimos a última hora de la tarde, y aquella no era noche para planes complicados.
 
 ## Tag
 `#cracovia` `#polonia` `#auschwitz` `#wieliczka` `#kazimierz` `#wawel` `#memoria` `#cittadarte`

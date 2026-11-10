@@ -355,7 +355,7 @@ Ordine di grandezza: **2.300-3.500 € a persona** in due, voli internazionali e
 - **Non comprare antichità «vere» né corallo:** è reato, e in aeroporto si controlla.
 
 ## Chiusura personale
-Tre settimane in Egitto lasciano soprattutto l'idea dei contrasti tra un luogo e l'altro: il Cairo con i suoi venti milioni di abitanti e Siwa con le sue case di fango e sale, il Nilo verde e stretto e il deserto subito oltre le palme, i templi affollati di Karnak e il silenzio di Dendera, i colori delle tombe e quelli del reef. È un viaggio faticoso da organizzare e da fare, ma coerente: ogni tappa aggiunge un pezzo che le altre non danno.
+Il nostro giro è stato questo: il Cairo con Giza, Saqqara e Dahshur; la strada fino a Siwa, con la sorgente di Cleopatra, i laghi salati e il Grande Mare di Sabbia; poi Assuan, Abu Simbel, la crociera sul Nilo fino a Luxor e la mongolfiera all'alba sulla riva ovest; e per finire le immersioni a Marsa Alam.
 
 ## Nota su questa bozza
 Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficiale dei siti archeologici egiziani, comunicati del Grand Egyptian Museum sui prezzi dal 1° novembre 2026, operatori di treni notte, crociere e diving, guide recenti. **Non contiene esperienze dirette.** I prezzi dei biglietti sono cambiati più volte dal 2024 e sono indicativi; le condizioni per il deserto occidentale e le regole dei parchi marini vanno ricontrollate prima della partenza.

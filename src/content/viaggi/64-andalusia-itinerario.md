@@ -124,7 +124,7 @@ Il **tapeo** è un'istituzione a Siviglia (salmorejo, espinacas con garbanzos, p
 - **Controllare gli orari ridotti estivi** dei monumenti di Córdoba se si viaggia comunque a fine giugno o inizio settembre.
 
 ## Chiusura personale
-Quello che mi resta è quanto le quattro tappe si completino a vicenda invece di ripetersi: Siviglia è la grande capitale barocca sopra le fondamenta moresche, Córdoba è il monumento più spiazzante nella sua unica sala a colonne, Granada è il palazzo intatto sulla collina, e Ronda è l'aria di montagna che tutte e tre, chiuse nelle loro città, non hanno. Un viaggio in quattro tappe che raramente delude chi lo affronta fuori dai mesi più caldi.
+Nove giorni bastano per Siviglia, Córdoba, Granada e Ronda con un ritmo umano, senza ridurre l'Alhambra o la Mezquita a una foto e via. Ronda, con la montagna e il vento sulla gola del Tajo, è il contrappunto che serve alle altre tre. L'unico vincolo vero è il caldo: è un viaggio da primavera o da autunno, non da estate.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Le regole di prenotazione dell'Alhambra, i prezzi degli ingressi e gli orari stagionali cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.

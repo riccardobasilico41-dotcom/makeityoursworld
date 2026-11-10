@@ -124,9 +124,7 @@ Il pomeriggio è per la **laguna nord**, in vaporetto:
 - **Non pianificare Venezia in luglio e agosto** se c'è un'alternativa.
 
 ## Chiusura personale
-La cosa che resta di Venezia non succede a San Marco. Succede a Torcello, che è a quaranta minuti di vaporetto e su cui non va quasi nessuno: si scende su un'isola di erba e canali, si cammina dieci minuti lungo un canale senza incontrare nessuno, e si entra in una basilica del settimo secolo che è quasi vuota: niente ori barocchi, niente cappelle laterali, solo mattoni. In fondo, nel catino dell'abside, c'è una Madonna bizantina in mosaico, altissima e sottile, con il bambino in braccio, su un fondo d'oro completamente vuoto. Non c'è nient'altro intorno: né angeli, né santi, né architetture. Solo oro.
-
-E allora si capisce l'ordine delle cose: che qui c'era una città da decine di migliaia di abitanti mentre Venezia non esisteva ancora, che quando la laguna si è interrata e la malaria è arrivata quella gente si è spostata su un banco di sabbia poco più in là e ha costruito la cosa che conosciamo, e che questo mosaico stava già lì a guardare. Venezia non è una città sull'acqua: è **una città che ha scelto l'acqua come difesa**, e ci ha costruito sopra un impero commerciale per mille anni. Torcello è il posto dove si vede da dove è partita, e dove si capisce che può anche tornarci.
+Venezia è bella tutta, cavolo. Se devo dare un consiglio: dormirci, in città e non a Mestre, e girarla all'alba o dopo le sette di sera, quando si svuota.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Il contributo di accesso, le sue date e le sue modalità sono cambiati più volte** dall'introduzione; le tariffe ufficiali delle gondole, le linee di traghetto attive sul Canal Grande, gli orari del Museo Ebraico e le soglie di attivazione del MOSE vanno riverificati prima di partire.

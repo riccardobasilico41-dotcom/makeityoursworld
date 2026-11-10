@@ -223,7 +223,7 @@ La mattina è libera per gli ultimi acquisti: sciroppo d'acero, formaggi del Qu�
 
 ## Estensione — Churchill (Manitoba) e gli orsi polari (3-5 giorni)
 
-> **Questa parte non l'ho fatta io, me l'hanno raccontata amici: dicono che, nonostante il prezzo, sia bellissima.** Le informazioni qui sotto sono di guida, verificate a ottobre 2026, non un ricordo di viaggio.
+> **Questa parte non l'ho fatta io, me l'hanno raccontata amici: dicono che, nonostante il prezzo, sia bellissima.**
 
 **Churchill** è un paese di meno di mille abitanti sulla riva della **baia di Hudson**, nel nord del Manitoba. Tra **metà ottobre e metà novembre** gli orsi polari si radunano sulla costa ad aspettare che la baia ghiacci, per tornare a cacciare le foche sul pack. È uno dei pochi posti al mondo in cui si possono vedere da vicino senza una spedizione artica.
 
@@ -281,7 +281,7 @@ Prezzi verificati a ottobre 2026, a persona; le tasse si aggiungono quasi sempre
 - **Per Churchill, prenotare con molti mesi di anticipo** alloggio e uscite: le settimane degli orsi sono poche.
 
 ## Chiusura personale
-Il Canada orientale in auto si guida senza fatica: le strade sono tendenzialmente belle e il percorso segue il lago Ontario e poi il San Lorenzo fino a Tadoussac, con due deviazioni verso Ottawa e le Laurentides. Dalla nostra esperienza restano due consigli: un pick-up abbondante è comodo per un giro così, e alle cascate, se si può fare una cosa sola, conviene il battello.
+Il Canada orientale l'abbiamo girato con un pick-up bello abbondante, e per un giro così è stato il modo più comodo: le strade le abbiamo trovate tendenzialmente belle. Al Niagara abbiamo fatto anche l'elicottero, molto bello e scenografico, ma se puoi fare una cosa sola prendi il battello: le cascate viste da sotto rendono di più.
 
 ## Nota su questa bozza
 Viaggio fatto da Rick. Dal suo racconto vengono il noleggio del pick-up, il giudizio sulle strade e il confronto tra elicottero e battello al Niagara. Il resto dell'itinerario (tappe, ordine, tempi di guida) è una proposta di guida costruita su ricerca: canada.ca per l'eTA, governo dell'Ontario e SAAQ per la patente, 407etr.com per i pedaggi, siti e rivenditori ufficiali per Niagara City Cruises, Niagara Helicopters e Croisières AML, Frontiers North e VIA Rail per Churchill. Prezzi e stagioni cambiano ogni anno e vanno ricontrollati prima di partire.

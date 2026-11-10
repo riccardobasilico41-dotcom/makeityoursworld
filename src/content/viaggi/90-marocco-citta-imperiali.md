@@ -138,9 +138,10 @@ Chi ha 3-4 giorni in più aggiunge la valle del Draa, Agadir ed Essaouira, come 
 - **Ricambiare i dirham prima del volo, con le ricevute.** Non si possono portare fuori dal Marocco.
 
 ## Chiusura personale
-Questo è il Marocco delle città, quello che di solito si vede meno nei primi viaggi, quando tutti puntano su Marrakech e il deserto. Undici giorni bastano per Chefchaouen, Fès, Meknès con Volubilis, Rabat e Casablanca, tutto su strada. Chi ha due settimane può unirlo all'itinerario del sud, e scendere da Fès fino alle dune di Erg Chebbi.
+Questo è stato il mio Marocco del nord: Chefchaouen, Fès, Meknès con Volubilis, Rabat e Casablanca, undici giorni tutto su strada. Preferisco così, perché ci si ferma dove si vuole. Il sud, da Marrakech alle dune di Erg Chebbi, è l'altro viaggio.
 
-*Le tappe del deserto nella versione combinata vengono dall'altro itinerario, da Marrakech al Sahara. Le informazioni pratiche vengono da fonti ufficiali e di riferimento: la Fondazione della Moschea Hassan II (orari e biglietti), le schede di Viaggiare Sicuri e del governo britannico e le voci enciclopediche sui siti UNESCO, verificate a novembre 2026. Distanze e tempi di guida sono calcolati con OSRM sul percorso stradale, senza soste. Orari dei bus su ctm.ma. Orari, prezzi e regole cambiano: vanno ricontrollati prima di partire.*
+## Nota su questa bozza
+Fonti, tolte dalla chiusura: le tappe del deserto nella versione combinata vengono dall'altro itinerario, da Marrakech al Sahara. Informazioni pratiche da fonti ufficiali e di riferimento: la Fondazione della Moschea Hassan II (orari e biglietti), le schede di Viaggiare Sicuri e del governo britannico e le voci enciclopediche sui siti UNESCO, verificate a novembre 2026. Distanze e tempi di guida calcolati con OSRM sul percorso stradale, senza soste. Orari dei bus su ctm.ma.
 
 ## Tag
 `#marocco` `#cittaimperiali` `#fes` `#meknes` `#volubilis` `#rabat` `#chefchaouen` `#cittablu` `#casablanca` `#tangeri` `#ontheroad` `#medina`

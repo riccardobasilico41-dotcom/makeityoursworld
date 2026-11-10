@@ -13,8 +13,6 @@ Okinawa es el Japón que no se espera. Mar tropical, arrecife de coral, manglare
 
 Este viaje está construido para el verano, cuando el mar está en su mejor momento. Empieza en la isla principal, entre Naha, el acuario de Churaumi y el bosque de Yanbaru. Luego dos noches en las Kerama, a una hora de barco de Naha. Luego Miyako, con las playas más blancas del archipiélago, y por último Ishigaki con las islas Yaeyama: la jungla de Iriomote y el pueblo de Taketomi.
 
-Como todos los viajes de esta web, nace de lugares que he visitado personalmente y de experiencias que he vivido, reunidos en una ruta práctica.
-
 ## Scheda pratica
 - **Cuándo ir:** la estación de lluvias en Okinawa empieza de media hacia el 10 de mayo y termina hacia el 21 de junio (media 1991-2020 de la JMA). En 2026 fue más o menos del 4 de mayo al 29 de junio. Las semanas justo después, finales de junio-mediados de julio, suelen ser las más estables. Luego llegan los tifones: de media se acercan a Okinawa y Amami 1,5 en julio, 2,3 en agosto, 2,0 en septiembre y 1,1 en octubre. En agosto y septiembre el viaje se hace, pero con días de margen.
 - **Tifones:** cuando llega uno, ferris y vuelos pueden pararse incluso unos días. Conviene dejar la última noche cerca del aeropuerto de salida, un seguro que cubra los retrasos y reservas modificables. Las previsiones oficiales están en la web de la JMA.
@@ -144,7 +142,7 @@ Quien tiene el vuelo por la tarde puede pasar la mañana en el mercado del centr
 - **Carné de conducir:** para alquilar el coche hace falta el permiso de conducción internacional junto con el carné italiano.
 
 ## Chiusura personale
-Okinawa en verano pide una sola cosa: flexibilidad. El mejor mar llega justo en los meses de los tifones, y un viaje entre las islas vive de ferris y vuelos pequeños. Con unos días de margen y un programa que se mueve sin dramas, se vuelve con el Japón más inesperado: tortugas, manglares, pueblos de coral, y un reino del que en Europa se sabe poco.
+Okinawa es el Japón que no te esperas: mar tropical, arrecife de coral, manglares y la cultura de un reino que durante siglos fue independiente. Es un viaje para hacer en verano, cuando el mar está en su mejor momento.
 
 ## Tag
 `#giappone` `#okinawa` `#mare` `#snorkeling` `#kerama` `#zamami` `#miyako` `#ishigaki` `#iriomote` `#taketomi` `#ryukyu` `#estate` `#asia`

@@ -132,7 +132,7 @@ Verso mezzogiorno si riconsegnano sci e scarponi, si recupera l'eventuale cauzio
 - **La mia giornata sugli sci**, quella che consiglio sempre: si sale appena aprono gli impianti, per cercare di essere tra i primi, uno spuntino al volo a metà mattina e poi si tira fino alle due, due e mezza. A quel punto si stacca la spina in baita e si smette. Così il pranzo lo fai quando c'è meno gente in giro, e nel pomeriggio, quando le piste sono più «mangiate», sei già a posto.
 
 ## Chiusura personale
-La cosa che si capisce dopo qualche settimana bianca è che il piacere non sta nei chilometri. Si può passare una giornata a macinare piste e tornare la sera senza ricordare niente, oppure fare metà di quei chilometri, fermarsi alle undici in un rifugio a duemilaquattrocento metri, ordinare qualcosa di caldo e stare venti minuti seduti al sole con una parete rosa davanti. In Francia la prima cosa la fanno meglio; la seconda, qui, non la fa nessuno meglio di noi. E poi c'è quella mattina (capita una volta a settimana, se va bene) in cui si prende la prima seggiovia con la pista appena battuta, non c'è ancora nessuno, e si scende su una cosa liscia e perfetta che tra un'ora non esisterà più. Per quella mezz'ora lì, in fondo, si paga tutto il resto.
+Le settimane bianche le faccio da quando sono piccolo, nei weekend e per periodi più lunghi. Per questo qui ho messo più i criteri che i posti: la quota prima della fama, e la settimana scelta guardando il calendario, non l'abitudine.
 
 ## Nota su questa bozza
 Confronti, prezzi e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Prezzi degli skipass, obblighi assicurativi e regole sulla circolazione invernale cambiano ogni stagione** e vanno riverificati.

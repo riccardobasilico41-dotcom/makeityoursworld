@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Las Canarias son españolas por bandera y africanas por geografía: frente a las costas de Marruecos, más cerca de Casablanca que de Madrid, con un clima subtropical que casi nunca cambia (16-21 °C incluso en enero). Entre los destinos españoles del sitio es el único pensado para la estación fría europea, cuando en otros sitios se huye del frío y aquí simplemente se está bien todo el año.
+Las Canarias son españolas por bandera y africanas por geografía: frente a las costas de Marruecos, más cerca de Casablanca que de Madrid, con un clima subtropical que casi nunca cambia (16-21 °C incluso en enero). Es el destino adecuado para la estación fría europea: cuando en otros sitios se huye del frío, aquí simplemente se está bien todo el año.
 
 Siete islas en total, de las que este itinerario cubre tres (Tenerife, Gran Canaria y Lanzarote), elegidas no por casualidad: tres islas bien cubiertas valen más que siete vistas de carrerilla. Tenerife tiene el Teide, el punto más alto de España; Gran Canaria encierra en poco espacio dunas casi saharianas y montaña; Lanzarote es la isla más volcánica de todas, y aquella en la que un solo artista, César Manrique, moldeó todo el urbanismo.
 
@@ -116,7 +116,7 @@ Las **papas arrugadas** con mojo rojo y mojo verde son el plato símbolo de las 
 - **Comprobar los horarios de los vuelos interiores**: las frecuencias bajan en los meses de temporada baja.
 
 ## Chiusura personale
-Lo que me queda es cuánto se complementan las tres islas elegidas: Tenerife por el volcán más alto de España y el bosque primordial de Anaga a pocos kilómetros de distancia, Gran Canaria por el contraste entre dunas casi saharianas y montaña, Lanzarote por un paisaje lunar que un solo artista supo transformar en un discurso coherente sobre cómo habitar el volcán.
+Tres islas: Tenerife, con el bosque de Anaga y La Laguna; Gran Canaria, con las dunas de Maspalomas, el Roque Nublo y el Barranco de Guayadeque; y Lanzarote, con Timanfaya por la mañana y una cata de vino en La Geria, entre las viñas protegidas por los muretes en semicírculo.
 
 ## Tag
 `#canarie` `#tenerife` `#grancanaria` `#lanzarote` `#teide` `#timanfaya` `#cesarmanrique` `#spagna`

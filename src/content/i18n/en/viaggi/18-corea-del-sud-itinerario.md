@@ -174,7 +174,7 @@ If you'd rather stay in town, you can stop at **Dongmun Market**, in Jeju City, 
 - **Avoid Seollal and Chuseok.** On those days the country moves en masse and half of Korea is closed.
 
 ## Chiusura personale
-What's left of this trip isn't the list of temples. It's two images at opposite ends of the country. The first is a new, gleaming railway station forty kilometers from Seoul, with the departure boards lit and the staff on duty, which since 2002 has been waiting for a train to Pyongyang: the war that hasn't ended isn't seen in a trench, it's seen there. The second is a pier on a cold, windy coast, and a long whistle that arrives from the water before anything visible: the sumbisori of a seventy-five-year-old woman resurfacing with her net full, as she has for sixty years, in a trade that counted four thousand five hundred people ten years ago and today counts about two thousand six hundred. Two things ending in different ways, and the reason it's worth coming now and not in twenty years.
+What I carry with me from Korea is above all the two things I built the route around: the DMZ at the start, with a war that was never closed by a peace treaty, and the haenyeo of Jeju at the end. In between, a country where everything works and getting around is really easy.
 
 ## Tag
 `#coreadelsud` `#seoul` `#dmz` `#panmunjom` `#jeju` `#haenyeo` `#busan` `#gyeongju` `#seoraksan` `#templestay` `#asia`

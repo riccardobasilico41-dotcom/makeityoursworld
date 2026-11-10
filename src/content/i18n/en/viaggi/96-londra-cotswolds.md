@@ -9,8 +9,6 @@
 ---
 
 ## Apertura personale
-This itinerary is rooted in places Rick has personally visited, put in order for anyone who wants London and a piece of the English countryside in the same trip.
-
 *My memory: London is home for me too. I went to university in Surrey and lived there for a year, working in the center.*
 
 The first four days are in **London**, with no car: the Tube, buses and many hours on foot along the Thames. Then you take the train at Paddington and get off at **Oxford**, the city of colleges. There you pick up the car and drive into the **Cotswolds**, the hills of honey-coloured stone villages. The last stretch takes you to **Bath**, with its Roman baths, where the train takes you back to London.
@@ -23,7 +21,7 @@ You only need the car for three days. In the city it would be a burden, between 
 - **Currency and payments:** pound sterling. Cards and contactless work almost everywhere.
 - **Getting around London:** Tube and buses, paying with a contactless card or an Oyster card, always the same card, which has a daily spending cap.
 - **Trains:** trains leave London Paddington for Oxford, for the Cotswolds line to Moreton-in-Marsh and for Bath. Check times and prices on nationalrail.co.uk.
-- **Driving:** you drive on the left. The Italian driving licence is valid with no international permit. In England the alcohol limit is 80 mg per 100 ml of blood, but Rick's advice is simple: whoever drives doesn't drink. *My memory: driving on the left is fine for me, but it takes some practice, let's say. And in the countryside the roads can get narrow now and then.*
+- **Driving:** you drive on the left. The Italian driving licence is valid with no international permit. In England the alcohol limit is 80 mg per 100 ml of blood, but my advice is simple: whoever drives doesn't drink. *My memory: driving on the left is fine for me, but it takes some practice, let's say. And in the countryside the roads can get narrow now and then.*
 - **A car in London:** better not. In the central zone you pay the Congestion Charge, £18 a day (2026), plus the ULEZ for the most polluting vehicles.
 - **Health:** the EHIC covers necessary treatment in the public NHS service; travel insurance is still recommended.
 - **Sockets:** type G, with three rectangular pins. You need an adapter.
@@ -109,9 +107,7 @@ Then you walk up to the **Circus** and the **Royal Crescent**, the eighteenth-ce
 - **Whoever drives doesn't drink.** Not even a pint at the village pub.
 
 ## Chiusura personale
-Eight days are enough to see London calmly and to get a real taste of the English countryside, without spending the trip behind the wheel. If you still have a few days, you can head north, towards Scotland.
-
-*This itinerary is rooted in places Rick has personally visited. The practical information comes from official sources: gov.uk (ETA, entry for EU citizens, driving licence and alcohol limits), Transport for London (Congestion Charge), the NHS (EHIC), VisitBritain (sockets), the Natural History Museum, VisitCotswolds and National Rail, checked in November 2026. Train times are approximate. Hours, prices and rules change: recheck them before you go.*
+For me London is still home: I went to university in Surrey and lived there for a year, working in the centre. In the Cotswolds, driving on the left is fine for me, but it takes a bit of practice, and in the countryside the roads can get narrow now and then.
 
 ## Tag
 `#inghilterra` `#londra` `#cotswolds` `#oxford` `#bath` `#bibury` `#borghi` `#musei` `#treno` `#campagnainglese` `#regnounito`

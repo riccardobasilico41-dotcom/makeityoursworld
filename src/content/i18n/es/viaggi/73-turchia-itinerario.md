@@ -217,7 +217,7 @@ Orden de magnitud: **2.000-3.000 € por persona** entre dos, sin vuelos interna
 - **Reservar la costa con antelación en julio y agosto**, cuando Kaş y Ölüdeniz están llenos.
 
 ## Chiusura personale
-Dieciséis días en Turquía ponen en fila cuatro viajes distintos: la gran ciudad, la meseta lunar, las ciudades antiguas del Egeo y el mar. La secuencia tiene un ritmo que crece hacia la calma: de los tranvías y los ferris de Estambul a los despertares para los globos, hasta las jornadas en barco entre Kaş y Kekova. Es un buen primer viaje al país, y deja mucho por ver para un segundo.
+Dieciséis días de Estambul a Antalya: la ciudad, Capadocia, las ciudades antiguas del Egeo y, al final, el mar entre Kaş y Kekova. Para un primer viaje a Turquía va muy bien, y queda mucho por ver para un segundo.
 
 ## Tag
 `#turchia` `#istanbul` `#cappadocia` `#mongolfiera` `#pamukkale` `#efeso` `#fethiye` `#kas` `#costalicia` `#antalya` `#roadtrip`

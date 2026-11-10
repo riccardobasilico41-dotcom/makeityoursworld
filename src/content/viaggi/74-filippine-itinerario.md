@@ -226,7 +226,7 @@ Ordine di grandezza: **1.600-2.600 € a persona** in due, voli internazionali e
 - **Scooter solo con esperienza e casco**, e mai di notte.
 
 ## Chiusura personale
-Diciotto giorni nelle Filippine sono un viaggio fatto di acqua: lagune, laghi, relitti, banchi di sardine, isole di sabbia, onde. Le cinque isole di questo itinerario sono diverse tra loro abbastanza da non stancare, e la logistica, che è la vera difficoltà del Paese, resta gestibile se si accetta qualche imprevisto e si lascia un giorno di margine. Chi parte nella stagione giusta trova un mare che pochi altri posti al mondo hanno.
+Le Filippine sono un viaggio di mare per chi ama stare in acqua: quasi ogni giorno una barca, uno snorkeling o un'immersione. Per il canyoning di Kawasan siamo partiti al mattino presto, per evitare la folla. Qualche imprevisto tra traghetti e voli va messo in conto: un giorno di margine e un occhio alla stagione dei tifoni.
 
 ## Nota su questa bozza
 Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficiale eTravel e Bureau of Immigration, siti di compagnie aeree e di traghetti, uffici turistici locali, guide recenti. **Non contiene esperienze dirette.** Prezzi di tour, traghetti e tasse ambientali cambiano spesso e sono indicativi; orari dei voli interni e dei traghetti vanno ricontrollati vicino alla partenza.

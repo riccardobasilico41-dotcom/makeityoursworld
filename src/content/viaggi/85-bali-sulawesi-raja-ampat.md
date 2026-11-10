@@ -17,8 +17,6 @@ Dodici giorni sono pochi per tre isole, e lo dico subito: ogni isola merita alme
 
 Ci siamo stati ad agosto, che su tutte le guide è segnato come la stagione sbagliata per Raja Ampat. In parte lo è, ma in modo diverso da come ci si aspetta: il mare è stato clamoroso lo stesso, dieci giorni senza vedere una goccia di pioggia. Il vento invece si è fatto sentire, e ha allungato un paio di trasferimenti tra le isole.
 
-Questo itinerario combina più viaggi in un unico percorso pratico: sono luoghi che ho visitato personalmente in momenti diversi, rimessi in fila per scoprire il meglio di ogni destinazione.
-
 ## Scheda pratica
 - **Quando andare:** a Bali la stagione secca va da aprile a ottobre, a Sulawesi da maggio a ottobre. A Raja Ampat la finestra migliore è ottobre-aprile, con mare più calmo e più mante e grandi pelagici. Da maggio a settembre soffiano i venti da sud-est: i trasferimenti possono allungarsi e le uscite nelle zone esposte possono saltare. Il mese che mette d'accordo tutte e tre è **ottobre**. D'estate funziona lo stesso, accettando il vento.
 - **Documenti:** passaporto con almeno 6 mesi di validità, **e-VOA** online su evisa.imigrasi.go.id e **All Indonesia Arrival Card** prima dell'ingresso.
@@ -148,9 +146,12 @@ Tre isole in dodici giorni si fanno, ma ogni isola merita almeno una settimana. 
 - **Pagare la tassa di Bali online** prima di partire.
 
 ## Chiusura personale
-Dodici giorni così sono un assaggio, e vanno presi per quello che sono. Bali fa da porta d'ingresso. Il nord di Sulawesi aggiunge la foresta e le pareti di Bunaken. Raja Ampat chiude con il posto più bello che ho visto sott'acqua. Con i reef pieni di pesce e pochissimi altri turisti, anche l'estate per me è stata un compromesso di cui non mi pento. Se puoi, però, scegli un'isola sola e dalle la settimana che merita.
+Raja Ampat è il posto più bello che ho visto sott'acqua. Ci sono stato ad agosto, che su tutte le guide è la stagione sbagliata: il vento ha allungato un paio di trasferimenti, ma il mare è stato clamoroso e in dieci giorni non ho visto una goccia di pioggia. Con i reef pieni di pesce e pochissimi altri turisti, per me è stato un compromesso di cui non mi pento.
 
-*Da Rick vengono i ricordi di Bali, di Bunaken e di Toraja, Tomohon e Tangkoko fatti con Wale Adventure, il viaggio a Raja Ampat di agosto 2026 con il vento e il mare senza pioggia, il consiglio sugli homestay e i contatti (Villa Jacques, Pande Wirta, Wale Adventure, Paparisa, Tanjung Mefiyai, Soul Scuba Divers). Il resto viene dalle schede destinazione del sito e dalla ricerca del 5 novembre 2026: Wikivoyage e operatori per il traghetto Sorong-Waisai, il permesso e le stagioni di Raja Ampat; le notizie sulla rotta stagionale Garuda Denpasar-Sorong (ottobre 2026); il sito di Wale Adventure per i tour nel nord di Sulawesi; Wikivoyage per la strada Makassar-Toraja e i funerali; gov.uk per la sicurezza nella regione della Papua. Voli, orari e l'importo del permesso di Raja Ampat vanno ricontrollati prima di partire.*
+In Indonesia sono tornato per la gente, per i posti e per i sorrisi. Dodici giorni per tre isole sono pochi: se puoi, scegline una e dalle la settimana che merita.
+
+## Nota su questa bozza
+Da Rick vengono i ricordi di Bali, di Bunaken e di Toraja, Tomohon e Tangkoko fatti con Wale Adventure, il viaggio a Raja Ampat di agosto 2026 con il vento e il mare senza pioggia, il consiglio sugli homestay e i contatti (Villa Jacques, Pande Wirta, Wale Adventure, Paparisa, Tanjung Mefiyai, Soul Scuba Divers). Il resto viene dalle schede destinazione del sito e dalla ricerca del 5 novembre 2026: Wikivoyage e operatori per il traghetto Sorong-Waisai, il permesso e le stagioni di Raja Ampat; le notizie sulla rotta stagionale Garuda Denpasar-Sorong (ottobre 2026); il sito di Wale Adventure per i tour nel nord di Sulawesi; Wikivoyage per la strada Makassar-Toraja e i funerali; gov.uk per la sicurezza nella regione della Papua. Voli, orari e l'importo del permesso di Raja Ampat vanno ricontrollati prima di partire.
 
 ## Tag
 `#indonesia` `#bali` `#sulawesi` `#manado` `#bunaken` `#tangkoko` `#rajaampat` `#kri` `#piaynemo` `#snorkeling` `#immersioni` `#asia`

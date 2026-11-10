@@ -249,7 +249,7 @@ Sin tiempo para Longji, la mañana en Guilin se pasa en la ciudad, entre la **Co
 - **Contar con el coste de las entradas a los parques.** Sumadas, superan todo lo demás del viaje: es la sorpresa de presupuesto más frecuente en este itinerario.
 
 ## Chiusura personale
-Si el primer viaje a China sirve para tachar las cosas que ya se conocían, este sirve para entender lo poco que se conocía. Ninguna de estas etapas aparece en los folletos y en casi todas eres el único extranjero a la vista: en el parque de Zhangjiajie, en el sendero de la garganta, por los callejones de Baisha al amanecer. Lo que queda al final no es un monumento sino una secuencia: el ascensor que sube pegado a la pared y el vacío que se abre en los últimos cien metros; el rumor del Yangtsé que sube desde tres mil metros bajo los pies; quinientos campesinos con trajes tradicionales que actúan con un glaciar a la espalda; y una hora de balsa por el río Li por la mañana, con las torres desfilando a medio metro del agua y ninguna prisa por llegar.
+Al final China, para mí, es esto: un caos total, pero qué pasada. Se come bien en casi todas partes, aunque casi siempre muy picante, y a menudo ni sabes lo que has pedido. Pero forma parte de la experiencia.
 
 ## Tag
 `#cina` `#zhangjiajie` `#chongqing` `#chengdu` `#lijiang` `#shangrila` `#yangshuo` `#yunnan` `#sichuan` `#hunan` `#trekking` `#asia`

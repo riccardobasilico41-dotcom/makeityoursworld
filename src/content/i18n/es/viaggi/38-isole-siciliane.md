@@ -220,11 +220,7 @@ Si el vuelo al continente hace escala en Palermo o Catania, mejor no encadenar e
 - **No tratar Lampedusa solo como una playa.** Es también otra cosa, y cinco minutos en la Porta d'Europa cuestan poco.
 
 ## Chiusura personale
-Lo que queda de estas islas es que, yendo de norte a sur, Europa se acaba poco a poco y nadie lo dice.
-
-En Favignana todavía se está en Sicilia, con la almadraba, el barroquillo y la toba de las iglesias de Palermo. En Pantelaria, cien kilómetros más allá, se duerme en una casa de cúpula con los muros de un metro de grosor pensada para recoger el agua de lluvia, se come un cuscús de verduras, se cultiva la vid dentro de un hoyo porque el viento la arrancaría, y en los días despejados se ve África. En Lampedusa se está **sobre la plataforma continental africana**, en sentido literal: geológicamente, esa isla nunca ha sido Europa. Llegó a serlo solo por los mapas políticos.
-
-Y luego se baja a la Porta d'Europa, que mira al sur hacia el mar abierto del que llegan las barcas, y uno se da cuenta de que la frontera de la que se habla continuamente no es una línea: es una distancia de agua que alguien cruza en avión en una hora, con el asiento reservado, y alguien más no.
+Tres islas seguidas, cada una un mundo aparte: Favignana en bicicleta; en Pantelleria, el baño en las pozas termales de Gadir y la subida a la Montagna Grande, desde donde en los días claros se ve Túnez; en Lampedusa, la tarde en la Porta d'Europa, frente al mar del que llegan las barcas.
 
 ## Tag
 `#favignana` `#egadi` `#pantelleria` `#lampedusa` `#linosa` `#sicilia` `#italia` `#isole` `#passito`

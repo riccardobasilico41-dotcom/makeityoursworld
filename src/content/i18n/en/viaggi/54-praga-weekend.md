@@ -97,7 +97,7 @@ Neighborhood **hospodas**, outside the most touristy center, for svíčková and
 - **Dress in layers**, especially in winter: the cold in Prague is biting, but with the right clothing it's manageable.
 
 ## Chiusura personale
-What stays with me is the contrast between the two faces of the city: the medieval square with the clock marking every hour in front of thousands of people and, a few minutes away by tram, the silent walls of Vyšehrad, where the same city tells its story with far fewer people around. Prague is both things at once, and it's the reason a weekend here is worth the reputation it carries.
+For me three or four days are enough for essential Prague: the Old Town, Charles Bridge with Malá Strana and the Castle, Josefov, and Vyšehrad when the crowds in the centre start to wear on you. More than a list of monuments, it pays to arrive prepared on two things: the currency isn't the euro, and around the main square inflated bills are going around.
 
 ## Tag
 `#praga` `#repubblicaceca` `#cechia` `#josefov` `#malastrana` `#vysehrad` `#castellodipraga` `#cittadarte`

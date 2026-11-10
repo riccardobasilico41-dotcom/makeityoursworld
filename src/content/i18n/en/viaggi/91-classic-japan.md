@@ -15,8 +15,6 @@ The site already has another trip to Japan, [the 12 April days among sakura, Fuj
 
 A spoiler from my own trip: the classic route is packed with tourists everywhere, Kyoto above all.
 
-Like every trip on this site, it's rooted in places I've personally visited and experiences I've actually lived, put together into one practical route.
-
 ## Scheda pratica
 - **When to go:** late April to early June and October to mid-November. Kamikochi opens in mid-April and closes in mid-November (in 2026 from April 17 to November 15). June-July is the rainy season over most of Honshu, August is hot and humid. In winter Shirakawa-go and Takayama are under snow: beautiful, but Kamikochi is closed and the Nakasendō can have snow on its stone steps.
 - **Documents:** Italian citizens need no tourist visa for up to 90 days, with a passport valid for the whole stay.
@@ -183,7 +181,9 @@ Departure from Kansai or Tokyo. From Kansai, the Haruka reaches the airport from
 - **Onsen and tattoos:** many ryokan still ban them in the shared baths. Rooms with a private bath or private rental baths, the kashikiri, solve it.
 
 ## Chiusura personale
-The classic trip shows the Japan of the big cities and the most famous temples. This version adds the mountain villages, the roads on foot and the nights in temples, and asks in return for more days and a bit of organizing around buses. If you have seventeen days and a first trip behind you, or want to make just one trip but a complete one, here you'll find the Japan that lies between the two coasts.
+I found the classic route packed with tourists everywhere, Kyoto above all, which I recommend exploring early in the morning. At Fushimi Inari I climbed all the way to the top: the view is nothing special, but the experience is lovely. Tokyo would deserve a holiday of its own, I absolutely loved Dotonbori, and in Nara I ate out-of-this-world tuna at Maguro Koya.
+
+Hiroshima pushed me to my limit: towards the end I had to speed up, because emotionally it was "too much". If you have fewer days, in my opinion you can cut Hiroshima and Miyajima.
 
 ## Tag
 `#giappone` `#classicjapan` `#alpigiapponesi` `#nakasendo` `#takayama` `#shirakawago` `#kanazawa` `#koyasan` `#kyoto` `#miyajima` `#onsen` `#ryokan` `#asia`

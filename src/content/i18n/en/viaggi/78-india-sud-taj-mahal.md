@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-This itinerary is rooted in places Rick has personally visited, put together into one practical route for anyone who wants the Taj Mahal and South India in the same trip. For Varanasi and Rajasthan there is the other India trip: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
+This is the trip for anyone who wants the Taj Mahal and South India together. For Varanasi and Rajasthan there is the other India trip: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
 
 You start in the North, because most first-timers in India don't want to go home without seeing the Taj Mahal. Two days in Delhi, between Old Delhi, Humayun's Tomb and the Qutub Minar. Then the fast train to Agra, the Fort, sunset from Mehtab Bagh and the Taj at dawn. From there a flight takes you to Chennai, and the other India begins.
 
@@ -208,7 +208,7 @@ Prices per person in a double room, intercontinental flights excluded (into Delh
 - **With the sea (+2-3 days):** the cliffs of **Varkala** or **Marari** beach, near Alleppey, to finish Kerala with a few days of rest.
 - **With Mysore and Coorg (+3 days):** from Bangalore, Mysore palace and the coffee plantations of Coorg, instead of Hampi or on top of it.
 - **Without the North:** if you've already seen Delhi and Agra, fly straight into Chennai and gain three days for the South.
-- **With Rajasthan:** if you want the whole North, Varanasi and Rajasthan, the trip Rick actually took, is in *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
+- **With Rajasthan:** if you want the whole North, Varanasi and Rajasthan are in *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
 
 ## Practical tips / mistakes not to repeat
 - **Check for Fridays:** the Taj Mahal is closed on Fridays (if Day 4 is a Friday, move the Taj to the afternoon of Day 3), and so are Kochi's Dutch Palace and synagogue; the synagogue on Saturdays too. The Munnar tea museum closes on Mondays, Eravikulam from February 1 to March 31.
@@ -222,9 +222,7 @@ Prices per person in a double room, intercontinental flights excluded (into Delh
 - **Repellent in the backwaters**, especially at sunset.
 
 ## Chiusura personale
-This trip holds two Indias together. The first is the North: the noise of Delhi, the marble of the Taj at dawn, the crowds. The second is the South: the green of the rice paddies and the tea hills, the blue of the canals, the orange of the temples at sunset, the white of the jasmine at the Madurai market, and at the end the granite and silence of Hampi. If you have seventeen days and don't want to choose between the Taj and the South, this is a way to have both.
-
-*This itinerary is rooted in places Rick has personally visited, put together into one practical route. The southern stops come from the site's guides to South India, the first days in Delhi and Agra from the northern itineraries, and all the practical information from official visa and Indian railways portals, monument websites, the Kerala and Tamil Nadu tourism boards, Viaggiare Sicuri and recent guides, verified in October-November 2026. Varanasi and Rajasthan are in the other India trip, by overnight train and with a driver. Times, prices and rules change: double-check them before you go.*
+Two Indias in the same trip: in the North, Delhi and the Taj Mahal at dawn; in the South, the temples of Tamil Nadu, the tea hills of Munnar, the Kerala backwaters and, at the end, the granite of Hampi.
 
 ## Tag
 `#india` `#delhi` `#agra` `#tajmahal` `#indiadelsud` `#tamilnadu` `#kerala` `#karnataka` `#mamallapuram` `#puducherry` `#madurai` `#munnar` `#backwaters` `#fortkochi` `#hampi` `#asia`

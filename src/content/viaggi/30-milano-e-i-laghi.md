@@ -137,9 +137,7 @@ Treno per **Stresa**, circa un'ora e mezza, e battello per le isole: **Isola Bel
 - **Non fare Como città** se si ha un giorno solo: il lago si vede molto meglio da Varenna.
 
 ## Chiusura personale
-La cosa che resta di Milano non è il Duomo, ed è quasi imbarazzante ammetterlo. È il pomeriggio in cui, per caso o perché qualcuno l'ha suggerito, si spinge la porta di San Maurizio in corso Magenta (una facciata piatta e anonima, in una via dove passano i tram) e dentro c'è una chiesa interamente dipinta, dal pavimento al soffitto, senza una sola parete libera. Non c'è coda, non c'è biglietteria, non c'è quasi nessuno. Si sta seduti dieci minuti e si guarda la parete divisoria che separava le monache di clausura dal resto del mondo, con la grata attraverso cui seguivano la messa, e poi si esce e si riprende il tram.
-
-Milano funziona così: non mette niente in mostra, non spiega quello che ha, e lascia che le cose migliori se le trovi chi ci passa davanti. È una città che va corteggiata invece che visitata, ed è il motivo per cui chi ci ha passato due giorni la giudica male e chi ci ha vissuto due anni non ne parla più male mai.
+Milano per me è casa, quindi tutto ha un sapore diverso. Dei laghi, Como è bellissima ma turistica, e le Borromee sono una sorpresa, se non le si conosce, perché sono super curate.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le modalità e le date di rilascio dei biglietti del Cenacolo cambiano**, così come gli ingressi (gratuiti o meno) di HangarBicocca e Cimitero Monumentale, gli orari dei battelli sul Lago di Como e le condizioni di accesso a Villa del Balbianello. Vanno riverificati.

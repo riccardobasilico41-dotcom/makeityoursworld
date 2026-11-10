@@ -136,7 +136,7 @@ Del Val d'Orcia a Florencia se sube en algo menos de dos horas, por la Via Cassi
 - **Llevar algo para proteger las botellas**, porque se acumulan.
 
 ## Chiusura personale
-Lo que se aprende tras unos días de bodegas es que la relación entre fama y valor, en Italia, es mucho más laxa de lo que el mercado da a entender. En las Langhe se bebe muy bien y se paga en consecuencia, y el nivel es objetivamente el más alto del país. Pero luego se baja a Irpinia, se entra en una bodega donde el propietario está trasegando y se interrumpe para hacerte probar, y se bebe un Aglianico que aguanta la comparación con tintos que cuestan cuatro veces más, en un sitio donde no hay un solo cartel turístico. O se sube al Etna y se encuentran vides de más de cien años de pie franco, porque en esa lava la filoxera nunca llegó: son raíces originales, no injertadas, algo que en Europa casi ha desaparecido. El vino, al final, es la excusa. Lo que queda es haber pasado diez días en una Italia agrícola que ningún itinerario monumental atraviesa, hablando con gente que hace una sola cosa y la hace desde hace tres generaciones.
+Nuestra ruta fue esta: las Langhe, la Valpolicella, las colinas del Prosecco, el Chianti y Montalcino, hasta la Val d'Orcia. Nombres de bodegas no doy, a propósito: elegirlas es imposible, es algo demasiado personal. Depende del gusto, del presupuesto y de la experiencia que busques, una más refinada o una más auténtica.
 
 ## Tag
 `#vino` `#italia` `#langhe` `#barolo` `#valpolicella` `#amarone` `#prosecco` `#chianti` `#brunello` `#vendemmia` `#enogastronomia`

@@ -107,7 +107,7 @@ Hot socca at the market, pan bagnat on the beach, salade niçoise without potato
 - **Check the hours of the Chapelle du Rosaire**, which are very limited.
 
 ## Chiusura personale
-What stays with you from two years in Antibes isn't a beach: it's the Cap path, done dozens of times, each time different (with the wind, with a rough sea, with the light of sunset). It's the place that proves that the Côte d'Azur, outside the wrong season, remains one of the densest pieces of the Mediterranean there is.
+I lived in Antibes for two years, and that's why I use it as a base. What I learned there is that the seasons work the other way round: in summer it's a hard place, from October to May it's one of the most pleasant in Europe, with sunshine, empty trails and markets that go back to being markets.
 
 ## Tag
 `#costaazzurra` `#antibes` `#francia` `#nizza` `#cannes` `#mercantour` `#picasso`

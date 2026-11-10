@@ -187,7 +187,9 @@ Muchas compañías permiten el check-in en la ciudad, en la estación del Airpor
 - **En los puestos, regatear siempre, y mucho.** A mí me ha pasado bajar hasta un 70% sobre el primer precio. Como alternativa se pueden buscar los mismos artículos en Taobao y hacer que te los envíen al hotel, o al menos usarlo para hacerse una idea de los precios antes de regatear.
 
 ## Chiusura personale
-Lo que queda de este itinerario no es la lista de monumentos, que ya se conocía antes de salir. Es la sensación de haber atravesado un país que funciona con reglas propias y que, una vez aceptadas esas reglas, se convierte en uno de los lugares más sencillos por los que viajar: trenes puntuales al minuto, ciudades seguras a cualquier hora, precios que no asustan. La curva de aprendizaje está toda en los dos primeros días, y está casi por entero en el teléfono. Superada esa, quedan una muralla desierta sobre una cresta, un ejército enterrado durante dos mil años, un jardín en Suzhou con una ventana en forma de abanico y un ferri de medio euro que cruza el puerto de Hong Kong a la hora azul.
+China es un caos, pero qué pasada. Se come bien, a menudo muy picante, y muchas veces no sabes bien qué has pedido; eso sí, el pato en Pekín estaba buenísimo. Los Guerreros de Terracota son bonitos, pero te sientes como una sardina en lata.
+
+Mi consejo es ir preparado sobre la cultura y tomárselo con calma. Yo me adapté, en los puestos regateé todo (hasta un 70% sobre el primer precio) y lo disfruté.
 
 ## Tag
 `#cina` `#pechino` `#xian` `#shanghai` `#suzhou` `#hongkong` `#macao` `#grandemuraglia` `#esercitoditerracotta` `#altavelocita` `#asia`

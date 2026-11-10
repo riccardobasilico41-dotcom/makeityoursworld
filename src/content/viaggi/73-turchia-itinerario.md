@@ -217,7 +217,7 @@ Ordine di grandezza: **2.000-3.000 € a persona** in due, voli internazionali e
 - **Prenotare la costa con anticipo in luglio e agosto**, quando Kaş e Ölüdeniz sono pieni.
 
 ## Chiusura personale
-Sedici giorni in Turchia mettono in fila quattro viaggi diversi: la grande città, l'altopiano lunare, le città antiche dell'Egeo e il mare. La sequenza ha un ritmo che cresce verso la calma: dai tram e dai traghetti di Istanbul alle sveglie per le mongolfiere, fino alle giornate in barca tra Kaş e Kekova. È un buon primo viaggio nel Paese, e lascia molto da vedere per un secondo.
+Sedici giorni da Istanbul ad Antalya: la città, la Cappadocia, le città antiche dell'Egeo e alla fine il mare tra Kaş e Kekova. Per un primo viaggio in Turchia va benissimo, e resta tanto da vedere per un secondo.
 
 ## Nota su questa bozza
 Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, sito ufficiale dei musei statali turchi, siti di compagnie aeree e di bus, guide recenti. **Non contiene esperienze dirette.** Con l'inflazione turca i prezzi in lire cambiano di mese in mese e quelli dei musei in euro aumentano ogni anno: tutte le cifre sono indicative e vanno ricontrollate prima della partenza.

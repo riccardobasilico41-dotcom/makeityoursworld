@@ -122,7 +122,7 @@ Il resto della giornata è libero per gli ultimi acquisti o un'ultima passeggiat
 - **Controllare gli orari stagionali delle uscite in barca** (arcipelago di Stoccolma, crociera sull'Oslofjord): d'inverno l'offerta si riduce parecchio rispetto a maggio-settembre.
 
 ## Chiusura personale
-Quello che mi resta è il contrasto tra tre città che si somigliano abbastanza da sembrare varianti l'una dell'altra (stesso design pulito, stessa lingua di segnali stradali, stessa aria pulita del nord) e che invece restano tre paesi separati fino in fondo: tre monete, tre capitali, tre modi leggermente diversi di essere scandinavi. Copenaghen che si muove in bicicletta, Stoccolma sparsa su quattordici isole con un arcipelago sconfinato alle porte, Oslo che affaccia dritta sul fiordo con un parco di sculture che non assomiglia a niente altro in Europa. Nove giorni non bastano per conoscerle davvero, ma bastano per capire perché, nonostante il conto finale, valga la pena mettere in fila tutte e tre.
+Nove giorni non bastano per conoscere davvero tre capitali, ma bastano per metterle in fila: Copenaghen in bicicletta, Stoccolma sulle sue isole, Oslo sul fiordo. Sono care, e va messo in conto fin dall'inizio.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi, orari e collegamenti (soprattutto le frequenze dei treni SJ tra le tre capitali, il calendario di Tivoli Gardens e la data di riapertura del Viking Ship Museum di Oslo) vanno riverificati sui canali ufficiali prima di partire.

@@ -144,7 +144,7 @@ In rifugio si mangia una cucina precisa e ripetitiva che dopo tre giorni si ama:
 - **Considerare le zone meno fotografate** (Val di Sole, Vipiteno, Fanes) quando le zone principali sono piene: stessa geologia, molta meno gente.
 
 ## Chiusura personale
-Mi sono piaciute tanto anche le Pale di San Martino, proprio perché meno turistiche. Quello che resta delle Dolomiti, alla fine, non è una vista sola: è la sensazione di aver visto dieci posti diversi che condividono la stessa roccia. Val Gardena e Val di Sole distano meno di due ore d'auto e sembrano due paesi diversi: una piena di cabinovie e boutique, l'altra vuota e silenziosa a parità di montagna. È per questo che ha più senso pensarle come un arcipelago da esplorare zona per zona, tornandoci più volte, che come un unico itinerario da esaurire in una settimana. La parte migliore, quella dell'enrosadira sulle pareti al tramonto, in ogni caso non cambia mai: succede tutte le sere da duecentocinquanta milioni di anni, in ogni zona, che qualcuno la guardi o no.
+Delle Dolomiti mi sono piaciute tanto le Pale di San Martino, proprio perché meno turistiche.
 
 ## Nota su questa bozza
 Zone, dislivelli e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Contingentamenti, pedaggi, prezzi di parcheggi/funivie e regole di accesso cambiano ogni stagione** — Tre Cime, Braies e diversi altri punti sono passati alla prenotazione obbligatoria negli ultimi anni — e vanno riverificati prima di partire. Le tre proposte di roadtrip (5/7/10 giorni) sono combinazioni ragionate delle zone, non itinerari testati passo per passo: i tempi di percorrenza tra le zone sono indicativi.

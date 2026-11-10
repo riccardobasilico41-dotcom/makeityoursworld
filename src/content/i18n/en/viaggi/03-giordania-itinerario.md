@@ -140,7 +140,9 @@ For the airport leave with plenty of margin, especially from the center: at rush
 - **Respect for the local context**: dress appropriately at religious sites and in more traditional villages.
 
 ## Chiusura personale
-The takeaway from this off-the-beaten-path New Year's comes down to one contrast: the beauty of Petra and Wadi Rum experienced almost alone, and the awareness that the quiet was the product of a difficult moment for the region. I felt safe at every moment of the trip, much more than the fears spread elsewhere would have led me to imagine. If I had to pick a single memory, it would be the starry sky over the tent camp in the desert on New Year's Eve, far from any light, in a place that seemed made for saying goodbye to the old year.
+What stays with me from this New Year's is mostly a contrast: Petra and Wadi Rum almost all to ourselves, and the thought that the quiet came from a difficult moment for the region. I felt safe the whole time, much more than the fears I kept hearing about had made me expect.
+
+If I have to keep just one memory, it's New Year's Eve at the tent camp in Wadi Rum, under a sky full of stars, far from any light. Hard to imagine a more absurd way to see out the old year.
 
 ## Tag
 `#giordania` `#petra` `#wadirum` `#capodanno` `#mediooriente` `#deserto`

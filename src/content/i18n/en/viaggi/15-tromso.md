@@ -92,7 +92,9 @@ Local cuisine revolves a lot around king crab (kongekrabbe) and dried cod (tørr
 | Whale watching (optional) | €130-260 |
 
 ## Chiusura personale
-Even with few direct memories, what stayed with me most is the feeling of the polar night's darkness broken by the city lights and by the aurora, seen moving across the sky for the first time. The dog sledding was nice, but I wouldn't do it again: it felt a bit so-so to me. Then again, I'm sensitive when it comes to animals, so take that with a grain of salt, and it's a judgment made in hindsight: it's still a really beautiful experience.
+What stayed with me most is the darkness of the polar night broken by the city lights, and the aurora, seen moving across the sky for the first time. We went out looking for it twice: the first time just outside the city, the second almost all the way to Sweden.
+
+The dog sled ride was nice, but I wouldn't do it again: it felt a bit so-so to me. Then again, I'm sensitive about animals, so that only counts so much: it's still a really lovely experience.
 
 ## Tag
 `#norvegia` `#tromso` `#aurora-boreale` `#inverno` `#cultura-sami`

@@ -198,7 +198,9 @@ Per l'aeroporto conviene uscire con largo margine, soprattutto dal centro: nelle
   e nei villaggi più tradizionali.
 
 ## Chiusura personale
-Il bilancio di questo Capodanno fuori dagli schemi è tutto in un contrasto: la bellezza di Petra e Wadi Rum vissuti quasi da soli, e la consapevolezza che quella quiete fosse frutto di un momento difficile per la regione. Mi sono sentito sicuro in ogni momento del viaggio, molto più di quanto i timori diffusi altrove lasciassero immaginare. Se dovessi scegliere un solo ricordo, sarebbe il cielo stellato sopra il campo tendato nel deserto la notte di Capodanno, lontano da ogni luce, in un posto che sembrava fatto apposta per salutare l'anno vecchio.
+Di questo Capodanno mi resta soprattutto un contrasto: Petra e Wadi Rum quasi tutti per noi, e il pensiero che quella calma veniva da un momento difficile per la regione. Mi sono sentito sicuro in ogni momento, molto più di quanto mi facessero pensare le paure che sentivo in giro.
+
+Se devo tenere un solo ricordo, è il Capodanno al campo tendato di Wadi Rum, sotto un cielo pieno di stelle e lontano da qualsiasi luce. Difficile immaginare un modo più assurdo di salutare l'anno vecchio.
 
 ## Materiale grezzo (appunti, non ancora editato)
 Fonte: **GIORDANIA_360_Itinerary.pdf**, documento di viaggio organizzato (stile

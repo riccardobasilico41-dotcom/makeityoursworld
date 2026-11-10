@@ -144,7 +144,7 @@ La sera siamo andati sulla **Corniche**, che il giovedì è il momento sociale d
 - **Ricordare che in Arabia Saudita l'alcol non esiste**, e che introdurlo è un reato serio.
 
 ## Chiusura personale
-La cosa che resta, dopo aver trasformato quattro scali in quattro soste, è quanto poco costi farlo e quanto pochi lo facciano. Si passa la vita a considerare lo scalo nel Golfo come un prezzo da pagare per andare altrove, e intanto le compagnie che ci guadagnano hanno costruito programmi che praticamente ti pagano per scendere. Ma il motivo per cui vale la pena non è economico. È che in ognuna di queste città, a venti minuti dallo skyline che tutti fotografano, c'è qualcosa che quello skyline non racconta: un creek dove si caricano ancora le navi a mano, un ospedale per falchi, una laguna dove il mare entra nel deserto, un quartiere di case di corallo tenute in piedi dalle impalcature. Sono posti che nessuno vende come destinazione e che si vedono tutti dentro le ore morte di un biglietto per un'altra parte del mondo.
+Di questi scali mi è rimasta Dubai vista dall'abra sul Creek, a un dirham la tratta, e la cena a Karama spendendo meno di dieci euro: è lì che si mangia meglio. Il safari nel deserto va preso per quello che è, ma resta una serata piacevole. E il consiglio che vale più di tutti: non andarci d'estate.
 
 ## Nota su questa bozza
 Le informazioni sui programmi stopover sono verificate e aggiornate a settembre 2026, ma **cambiano spesso e senza preavviso**: soglie orarie, prezzi, condizioni di ammissibilità e portali di prenotazione vanno riverificati sui siti ufficiali delle compagnie prima di prenotare. Lo stesso vale per le regole d'ingresso dei tre paesi.

@@ -86,7 +86,7 @@ The **Grachtengordel** is the most central and characteristic area, convenient o
 - **Dress in layers and bring a rain jacket**: it rains often, even in summer, and you feel the wind on the canals.
 
 ## Chiusura personale
-What stays with me is the contrast between the lightness of pedaling along the canals and the silence required one block away, at Prinsengracht 263. Amsterdam is a city that asks for both speeds in the same weekend.
+We got around Amsterdam on foot and by bike: the canal ring and the Jordaan, the Anne Frank House, the two big museums on Museumplein. On the last day we rented bikes and rode around freely, stopping wherever we felt like it, the way Amsterdammers do.
 
 ## Tag
 `#amsterdam` `#paesibassi` `#annefrank` `#rijksmuseum` `#vangogh` `#bicicletta` `#canali` `#weekendlungo`

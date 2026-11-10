@@ -226,7 +226,7 @@ Order of magnitude: **€1,600-2,600 per person** as two, international flights 
 - **Scooter only with experience and a helmet**, and never at night.
 
 ## Chiusura personale
-Eighteen days in the Philippines is a trip made of water: lagoons, lakes, wrecks, schools of sardines, sand islands, waves. The five islands of this itinerary are different enough from one another not to tire you, and the logistics, which is the real difficulty of the country, stay manageable if you accept a few surprises and leave a spare day. Anyone who goes in the right season finds a sea that few other places in the world have.
+The Philippines is a sea trip for people who love being in the water: almost every day a boat, some snorkeling or a dive. For the Kawasan canyoning we set off early in the morning to avoid the crowds. A few surprises with ferries and flights are part of it: a day of margin and an eye on typhoon season.
 
 ## Tag
 `#filippine` `#palawan` `#elnido` `#coron` `#moalboal` `#cebu` `#bohol` `#siargao` `#islandhopping` `#snorkeling` `#surf`

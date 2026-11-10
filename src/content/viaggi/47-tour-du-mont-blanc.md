@@ -106,7 +106,7 @@ Zuppe e polenta in rifugio; in valle raclette, tartiflette e i formaggi savoiard
 - **Non sottovalutare il dislivello**: tappe da 800-900 metri sono la norma.
 
 ## Chiusura personale
-La cosa che resta è quanto cambi lo stesso massiccio a seconda del versante: verticale e ghiacciato in Francia, aperto e ampio in Italia, ordinato in Svizzera. Tre modi di stare sotto la stessa cima.
+Il giro l'abbiamo fatto partendo da Les Houches, poi in Italia dal Col de la Seigne, su al Rifugio Bonatti e giù in Svizzera fino al lago di Champex. Ogni giorno partenza presto, per essere al rifugio prima del primo pomeriggio.
 
 ## Nota su questa bozza
 Itinerario verificato e aggiornato a settembre 2026. Le prenotazioni dei rifugi e le condizioni dei colli alti vanno riverificate ogni stagione.

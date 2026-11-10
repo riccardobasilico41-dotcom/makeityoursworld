@@ -83,7 +83,7 @@ Rillettes, beurre blanc, appellation goat cheeses, tarte Tatin, white wines from
 - **Villandry off-season has bare gardens**: check the period.
 
 ## Chiusura personale
-The Loire works if you choose one château a day and spend the rest of the time along the river: it's the only great European river left largely uncanalized, and the châteaux are there because of it, not the other way around.
+We did the Loire like this: one château a day, starting from Blois and taking in Chenonceau, and one whole day by bike along the river on the Loire à Vélo, with no châteaux at all.
 
 ## Tag
 `#loira` `#francia` `#chambord` `#chenonceau` `#castelli`

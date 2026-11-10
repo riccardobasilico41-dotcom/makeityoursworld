@@ -107,7 +107,7 @@ En Mallorca, la **sobrasada** (embutido untable con pimentón) y las **ensaimada
 - **Comprobar los horarios de los ferris de temporada**: fuera de los meses de verano los servicios se reducen bastante.
 
 ## Chiusura personale
-Lo que me queda es cuánto desmienten las tres islas la idea de «archipiélago único»: Mallorca es casi un pequeño continente, Ibiza vive dos vidas paralelas que rara vez se encuentran, Menorca ha elegido deliberadamente seguir siendo más pequeña y más tranquila que las otras dos. Verlas en secuencia, una tras otra, es la forma más honesta de entender qué las distingue de verdad.
+Tres islas en ocho días, unidas en ferri: Mallorca con Palma y la Serra de Tramuntana, Ibiza entre Dalt Vila y las calas del norte, y Menorca, la más tranquila.
 
 ## Tag
 `#baleari` `#mallorca` `#ibiza` `#minorca` `#serradetramuntana` `#camidecavalls` `#spagna`

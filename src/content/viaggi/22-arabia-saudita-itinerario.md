@@ -173,7 +173,7 @@ Prima di partire si riconsegna l'auto a noleggio con il pieno, che qui costa poc
 - **Controllare gli avvisi ufficiali** per le zone di confine con lo Yemen se si scende nell'Asir.
 
 ## Chiusura personale
-Quello che resta di questo viaggio è la sensazione di aver visto qualcosa in una finestra che si sta chiudendo. Non in senso nostalgico (non c'è niente di romantico in un paese che fino al 2019 non si poteva visitare), ma in senso letterale: Hegra ha aperto da poco e contingenta già gli accessi, Al-Balad è a metà del suo restauro e tra dieci anni sarà un'altra cosa, sulla costa del Mar Rosso stanno sorgendo progetti turistici che cambieranno la geografia. Adesso ci si trova davanti a una facciata nabatea scolpita duemila anni fa senza nessun altro intorno, e questo tra qualche anno sarà un ricordo raccontato ai nuovi arrivati. Il paese, nel frattempo, sta cambiando più in fretta di quanto qualsiasi guida riesca a stare dietro, con tutte le contraddizioni che questo comporta e che non vale la pena nascondere. Andarci oggi significa vedere una cosa in movimento, non una cosa finita.
+Il nostro giro è stato questo: Jeddah e il centro storico di Al-Balad, poi AlUla con Hegra e le iscrizioni di Jabal Ikmah, e infine Riyadh, con Diriyah e l'Edge of the World.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. L'Arabia Saudita è però il paese di questo archivio che **cambia più in fretta**: regole d'ingresso, costi del visto, accessi ai siti e norme di comportamento vanno riverificati sui canali ufficiali prima di partire.

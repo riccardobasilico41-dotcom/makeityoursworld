@@ -150,9 +150,9 @@ With a free day, Padang can be seen in half a day. The **old town** along the Ba
 - **Ask for the up-to-date surf tax amount** before leaving.
 
 ## Chiusura personale
-The Mentawai are unreal places. The Siberut jungle is hard, though, and I wouldn't recommend it to just anyone. I ask one thing of anyone who goes: enter that house with respect, knowing what the Mentawai went through to keep their traditions alive. Then there's the sea of Sipora, which after those days looks even more beautiful.
+I went to the Mentawai with Mentawai Tribe, and we lived for a few days in the Siberut jungle with a family, in their home. They're unreal places. But it's hard: mud everywhere, insects, no electricity, you sleep on a mat. I wouldn't recommend it to just anyone, and I ask one thing of anyone who goes: enter that house with respect, knowing what the Mentawai have been through to keep their traditions alive.
 
-*Rick's contributions are the stay in the Siberut jungle with Mentawai Tribe, the verdict on the places, the harsh conditions and the beaches, and the invitation to think about the ethical side. The rest comes from research done on November 4, 2026: the Mentawai Tribe website for packages, logistics and rules; Mongabay and Wikipedia for the history of the suppression of traditions; Perfect Wave, Surfer Today and indonesia.travel for surfing, seasons and prices; Bucketlistly and Journey Beyond Horizon for ferries and roads in Sumatra; the CDC for malaria; the project's website for Max Mariola. Mentawai Fast times and prices and the surf tax amount are not confirmed and need to be rechecked before you go.*
+Then there's the sea, and the Mentawai beaches are beautiful.
 
 ## Tag
 `#indonesia` `#sumatra` `#mentawai` `#siberut` `#sipora` `#bukittinggi` `#padang` `#surf` `#giungla` `#turismoetico` `#duesettimane` `#asia`

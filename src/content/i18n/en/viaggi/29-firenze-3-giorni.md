@@ -111,7 +111,7 @@ Two days in Florence hold up well, on one condition: **only one big museum, not 
 
 ## Dove abbiamo mangiato
 - **The bistecca alla fiorentina**, rare and by weight, split between two. Well done, it's no longer that dish. *My memory: lampredotto doesn't do much for me, but the bistecca is incredible. And it's hard to eat badly.*
-- **Where to eat bistecca in the center, four suggestions** (picked through research, not places we went; check opening hours before going): **Buca Lapi**, Via del Trebbio 1r, in the cellars of Palazzo Antinori, open since 1880, evenings · **Trattoria Mario**, Via Rosina 2r near the Mercato Centrale, lunch only, Monday to Saturday · **Trattoria Sostanza**, Via del Porcellana 25r, tiny, book well ahead · **Il Latini**, Via dei Palchetti 6r, listed in the Michelin Guide, closed Mondays.
+- **Where to eat bistecca in the center, four suggestions** (well-known addresses, not places we went): **Buca Lapi**, Via del Trebbio 1r, in the cellars of Palazzo Antinori, open since 1880, evenings · **Trattoria Mario**, Via Rosina 2r near the Mercato Centrale, lunch only, Monday to Saturday · **Trattoria Sostanza**, Via del Porcellana 25r, tiny, book well ahead · **Il Latini**, Via dei Palchetti 6r, listed in the Michelin Guide, closed Mondays.
 - **Lampredotto at the stand**, the most Florentine way to have lunch.
 - **Ribollita and pappa al pomodoro**, leftover-bread cooking, better than the description lets on.
 - **Schiacciata** with cured meats, and the **unsalted bread**, which at first seems wrong.
@@ -131,9 +131,7 @@ Two days in Florence hold up well, on one condition: **only one big museum, not 
 - **Don't fill three consecutive days with museums:** the gaps in the schedule are the part that makes Florence work.
 
 ## Chiusura personale
-What stays with me about Florence is a question of scale. You stand at the end of the Duomo's nave, which inside is surprisingly bare, almost unadorned, and you look up at a dome that seems ordinary until you know that when it was time to build it nobody in the world knew how it was done: the drum was already there, octagonal, forty-five meters wide, and for a couple of generations Florence had its cathedral with a hole where the roof should be. Then you climb, and halfway up you realize you are inside the wall, between one shell and the other, in a cavity designed six centuries ago by a man who never fully explained how he thought he'd pull it off.
-
-That's what stays with me, more than Botticelli's Venus: that the Florentine Renaissance wasn't an artistic movement but a technical problem solved by people who treated it as a game, and that everything else (the David, the Uffizi, Ghiberti's doors) followed from that confidence.
+In Florence it's hard to eat badly. Lampredotto doesn't drive me crazy, but the bistecca is incredible. And the rule I take away is the one from the start: one big museum a day, not two, and a few gaps in the schedule.
 
 ## Tag
 `#firenze` `#italia` `#rinascimento` `#brunelleschi` `#michelangelo` `#uffizi` `#oltrarno` `#cittadarte`

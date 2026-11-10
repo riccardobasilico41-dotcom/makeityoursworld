@@ -136,7 +136,7 @@ From the Val d'Orcia to Florence it's a little under two hours, along the Via Ca
 - **Bring something to protect the bottles**, because they pile up.
 
 ## Chiusura personale
-What you learn after a few days of wineries is that the relationship between fame and value, in Italy, is much looser than the market lets on. In the Langhe you drink very well and pay accordingly, and the level is objectively the highest in the country. But then you go down to Irpinia, walk into an estate where the owner is racking wine and stops to let you taste, and you drink an Aglianico that holds its own against reds that cost four times as much, in a place where there isn't a single tourist sign. Or you go up Etna and find vines over a hundred years old, ungrafted, because on that lava phylloxera never arrived: original roots, not grafted, something that has almost disappeared in Europe. In the end, the wine is the excuse. What remains is having spent ten days in an agricultural Italy that no monumental itinerary crosses, talking with people who do one thing and have done it for three generations.
+This was our route: the Langhe, Valpolicella, the Prosecco hills, Chianti and Montalcino, all the way to the Val d'Orcia. I'm not naming any wineries, on purpose: choosing one is impossible, it's far too personal. It depends on your taste, your budget and the experience you're after, something more refined or something more authentic.
 
 ## Tag
 `#vino` `#italia` `#langhe` `#barolo` `#valpolicella` `#amarone` `#prosecco` `#chianti` `#brunello` `#vendemmia` `#enogastronomia`

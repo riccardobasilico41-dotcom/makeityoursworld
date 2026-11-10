@@ -182,7 +182,7 @@ En Taman Negara, sobre todo después de la lluvia, las sanguijuelas están casi 
 - **Recordar dónde se está**: penas severísimas por drogas en ambos países, multas reales en Singapur por cosas que en otros sitios son banales.
 
 ## Chiusura personale
-Lo que queda de este viaje no es un monumento, y es raro decirlo después de catorce días. Es el hecho de que en una sola noche, en Kuala Lumpur o en George Town, se puede comer chino, malayo e indio en tres puestos a diez metros uno de otro, y que ninguna de las tres cocinas ha aguado nada para adaptarse a las otras. Esa convivencia no es ni sencilla ni idílica, y en Malasia se discute abiertamente, pero es lo que hace a este país distinto de todos sus vecinos. Luego está el cierre en Singapur, que parece lo contrario y en el fondo es la misma historia llevada al extremo: cuatro lenguas oficiales, cuatro calendarios de fiestas y un sistema de comedores públicos que mantiene la mejor comida de la ciudad a tres euros el plato. A Malasia se la atraviesa comiendo, y no es una forma de hablar: es literalmente el itinerario.
+De Taman Negara me quedo con la noche que pasamos en una cueva, con lluvia, y la vuelta del día siguiente entre sanguijuelas: mi amigo encontró una hasta debajo de la axila. Animales vimos pocos, pero quizá porque era temporada alta y había muchísima gente.
 
 ## Tag
 `#malesia` `#singapore` `#kualalumpur` `#penang` `#georgetown` `#malacca` `#tamannegara` `#cameronhighlands` `#hawker` `#streetfood` `#asia`

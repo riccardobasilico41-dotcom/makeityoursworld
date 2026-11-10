@@ -112,7 +112,7 @@ A night in the desert in this tented camp at the foot of the Erg Chebbi dunes: l
 *Alternatives:* budget: Hostel La Liberte Merzouga, Merzouga Camp and Hostel · mid-range: Auberge La Khaima, Nomad Palace Camp · luxury (not over the top): Merzouga Luxury Desert Camp, Sahara Desert Luxury Camp
 
 **Agdz (Day 4) — Kasbah Trane**
-A night along the Draa Valley, with free time by the pool before dinner. I couldn't find reviews for this exact name (it might correspond to one of the kasbahs in the area with similar names), so I'll keep it short: a quiet area, a good base for visiting the nearby Tamnougalt Kasbah.
+A night along the Draa Valley, with free time by the pool before dinner. A quiet area, a good base for visiting the nearby Tamnougalt Kasbah.
 *Alternatives:* budget: Kasbah Maktob Tamnougalt, Guest House Jardin de Tamnougalt · mid-range: Maison d'Hôtes Kasbah Azul, Dar Jnane - La Maison Du Jardin · luxury (not over the top): Hotel and Restaurant Kasbah Draa, Kasbah Kissane
 
 **Agadir (Day 5) — Hotel Oasis**

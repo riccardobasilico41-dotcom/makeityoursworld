@@ -151,9 +151,9 @@ If your flight leaves early, it's better to spend the last night near the airpor
 - **Complete the e-VOA and the All Indonesia Arrival Card** before departure, on the official portals.
 
 ## Chiusura personale
-In two weeks this loop shows you the most famous Indonesia without the rush of a package tour. Java gives the strongest memories, the kind you earn by waking up at night. Bali is better if you see it from Munduk and Ubud rather than from the south. The Gilis are there to slow you down before the flight. With a few extra days, I'd stretch the Gilis or add a night in Sidemen.
+Java is the part that left me the sharpest memory: Ijen climbed in the dark with a gas mask, with the miners walking past us carrying baskets of sulphur, and sunrise on Bromo, even if shared with hundreds of jeeps. Of Bali, more than any rice terrace, what stuck with me is the Kecak dance at Uluwatu. The Gilis close with three slow days, no cars or scooters.
 
-*Rick did these stops on his long trip through Indonesia, and the memories of Ijen, Bromo, Borobudur, the Kecak dance and the Gilis come from him, along with the drone photos. Routes, times, indicative prices and entry rules come from the 35-day itinerary and the site's destination pages, checked in September 2026: recheck them before you go.*
+I keep going back to Indonesia above all for the people: the smiles, like in Thailand.
 
 ## Tag
 `#indonesia` `#giava` `#bali` `#gili` `#yogyakarta` `#borobudur` `#bromo` `#ijen` `#ubud` `#risaie` `#duesettimane` `#asia`
