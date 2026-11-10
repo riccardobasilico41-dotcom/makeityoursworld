@@ -51,11 +51,11 @@ La jornada empezó temprano y con logística: el coche en Sixt, en el aeropuerto
 
 En el **Geysir** el agua salta cada seis o siete minutos: en un cuarto de hora se ve dos o tres veces. Un poco más allá está **Gullfoss**, la «cascada dorada», con sus dos saltos de 11 y 21 metros sobre el río Hvítá. Comida de bocadillo, luego media hora contada en **Krónan** de Hvolsvöllur (Austurvegur 4) para la compra de los días de camping.
 
-La tarde fue una hilera de cascadas. En **Seljalandsfoss** (aparcamiento 700 ISK) se pasa por detrás del chorro de agua; la cercana Gljúfrabúi se alcanza caminando dentro del río. Media hora en coche y llega **Skógafoss**, con sus unos 470 escalones hasta lo alto del salto. Por la noche montamos la tienda por primera vez en un camping al pie de una cascada grande y cenamos allí. No recuerdo el nombre: en este tramo de la costa sur están los de Skógafoss y Seljalandsfoss.
+La tarde fue una hilera de cascadas. En **Seljalandsfoss** (aparcamiento 700 ISK) se pasa por detrás del chorro de agua; la cercana Gljúfrabúi se alcanza caminando dentro del río. Media hora en coche y llega **Skógafoss**, con sus unos 470 escalones hasta lo alto del salto. Por la noche montamos la tienda por primera vez en el camping de **Skógafoss**, justo al pie de la cascada, y cenamos allí.
 
 Luego la decisión tomada casi en broma. A finales de julio el sol no se pone, el cansancio no basta, y así, en lugar de dormir, volvimos a salir hacia el **avión DC-3 siniestrado de Sólheimasandur**, abandonado sobre la arena desde 1973. Veinte minutos en coche hasta el aparcamiento de la Ring Road, luego 4 km a pie sobre arena negra, llana y sin protección del viento, entre 40 y 60 minutos por trayecto. *Una auténtica paliza después de una jornada ya llena, pero probablemente el momento más absurdo y memorable de todo el viaje.* Volvimos al camping de madrugada cerrada, con una luz que no llegó a bajar del todo.
 
-**En la práctica:** Geysir y Gullfoss de entrada libre · Seljalandsfoss aparcamiento 700 ISK · los campings más cercanos a las cascadas son los de Skógafoss y Seljalandsfoss; más adelante, el de Vík cuesta unos 1.950 ISK, ducha 300 ISK · al DC-3 los coches no pueden pasar del aparcamiento: 4 km a pie por trayecto · hacer la compra en Hvolsvöllur, más adelante hay pocos supermercados.
+**En la práctica:** Geysir y Gullfoss de entrada libre · Seljalandsfoss aparcamiento 700 ISK · camping de Skógafoss al pie de la cascada; más adelante, el de Vík cuesta unos 1.950 ISK, ducha 300 ISK · al DC-3 los coches no pueden pasar del aparcamiento: 4 km a pie por trayecto · hacer la compra en Hvolsvöllur, más adelante hay pocos supermercados.
 
 ### Día 3 — Dyrhólaey, Reynisfjara y la laguna glaciar
 El despertador sonó más tarde de lo previsto, por culpa del avión. La noche en tienda más bonita fue precisamente la primera: habíamos llegado agotados y mentalmente sin preparar, y despertarse por la mañana al lado de la cascada fue algo increíble, guau. Salimos con calma hacia **Dyrhólaey**: el faro, el arco de lava negra sobre el mar, los farallones y, en verano, los frailecillos. Justo después está **Reynisfjara**, la playa negra con las columnas de basalto. Aquí las olas son imprevisibles y peligrosas: las indicaciones hay que seguirlas al pie de la letra. Comida rápida en el chiringuito de la playa, perrito caliente o sopa por 2-3.000 ISK.
@@ -158,7 +158,7 @@ Quien tenga el vuelo por la tarde puede aprovechar la mañana para un último ba
   - Más cuidadas: hoteles boutique en el centro de Reikiavik (~45 min en coche), para quien
     prefiera renunciar a la comodidad del aeropuerto la primera o la última noche.
 
-- **Primera noche — un camping al pie de una cascada (Día 2).** No recuerdo cuál: en este tramo están los de Skógafoss y Seljalandsfoss, con la cascada a pocos pasos de la tienda.
+- **Skógafoss — camping al pie de la cascada (Día 2).** Nuestra primera noche en tienda, con la cascada a pocos pasos.
 - **Vík — camping equipado, 1.950 ISK + ducha 300 ISK (alternativa para el Día 2).** El
   camping de Vík (electricidad, duchas, cocina común) es de hecho la única gran
   instalación de la zona: cómodo y bien atendido, pero en las reseñas más recientes

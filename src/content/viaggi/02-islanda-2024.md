@@ -53,11 +53,11 @@ La giornata è cominciata presto e con la logistica: l'auto da Sixt all'aeroport
 
 Al **Geysir** l'acqua salta ogni sei o sette minuti: in un quarto d'ora la si vede due o tre volte. Poco più in là c'è **Gullfoss**, la «cascata dorata», con i suoi due salti di 11 e 21 metri sul fiume Hvítá. Pranzo al sacco, poi mezz'ora contata da **Krónan** a Hvolsvöllur (Austurvegur 4) per la spesa dei giorni di campeggio.
 
-Il pomeriggio è stato una fila di cascate. A **Seljalandsfoss** (parcheggio 700 ISK) si passa dietro il getto d'acqua; la vicina Gljúfrabúi si raggiunge camminando dentro il fiume. Mezz'ora d'auto e c'è **Skógafoss**, con i suoi circa 470 scalini fino in cima al salto. In serata abbiamo montato la tenda per la prima volta in un campeggio ai piedi di una cascata grossa e abbiamo cenato lì. Il nome non me lo ricordo: su questo tratto della costa sud ci sono quelli di Skógafoss e di Seljalandsfoss.
+Il pomeriggio è stato una fila di cascate. A **Seljalandsfoss** (parcheggio 700 ISK) si passa dietro il getto d'acqua; la vicina Gljúfrabúi si raggiunge camminando dentro il fiume. Mezz'ora d'auto e c'è **Skógafoss**, con i suoi circa 470 scalini fino in cima al salto. In serata abbiamo montato la tenda per la prima volta al campeggio di **Skógafoss**, proprio ai piedi della cascata, e abbiamo cenato lì.
 
 Poi la decisione presa quasi per scherzo. A fine luglio il sole non tramonta, la stanchezza non basta, e così, invece di dormire, siamo ripartiti per il **relitto del DC-3 di Sólheimasandur**, abbandonato sulla sabbia dal 1973. Venti minuti d'auto fino al parcheggio sulla Ring Road, poi 4 km a piedi su sabbia nera, piatta e senza riparo dal vento, tra i 40 e i 60 minuti per tratta. *Una vera sfacchinata dopo una giornata già piena, ma probabilmente il momento più assurdo e memorabile di tutto il viaggio.* Al campeggio siamo rientrati a notte fonda, con una luce che non è mai calata del tutto.
 
-**In pratica:** Geysir e Gullfoss a ingresso libero · Seljalandsfoss parcheggio 700 ISK · i campeggi più vicini alle cascate sono quelli di Skógafoss e Seljalandsfoss; più avanti, quello di Vík costa circa 1.950 ISK, doccia 300 ISK · al DC-3 le auto non possono andare oltre il parcheggio: 4 km a piedi per tratta · fare la spesa a Hvolsvöllur, più avanti i supermercati sono pochi.
+**In pratica:** Geysir e Gullfoss a ingresso libero · Seljalandsfoss parcheggio 700 ISK · campeggio di Skógafoss ai piedi della cascata; più avanti, quello di Vík costa circa 1.950 ISK, doccia 300 ISK · al DC-3 le auto non possono andare oltre il parcheggio: 4 km a piedi per tratta · fare la spesa a Hvolsvöllur, più avanti i supermercati sono pochi.
 
 ### Giorno 3 — Dyrhólaey, Reynisfjara e la laguna glaciale
 La sveglia è arrivata più tardi del previsto, per colpa del relitto. La notte in tenda più bella è stata proprio la prima: eravamo arrivati stanchi e mentalmente non preparati, e svegliarsi la mattina di fianco alla cascata è stato qualcosa di wow. Siamo partiti con calma verso **Dyrhólaey**: il faro, l'arco di lava nera sul mare, i faraglioni e, d'estate, le pulcinelle di mare. Subito dopo c'è **Reynisfjara**, la spiaggia nera con le colonne di basalto. Qui le onde sono imprevedibili e pericolose: le indicazioni vanno seguite alla lettera. Pranzo veloce al baracchino della spiaggia, hot dog o zuppa per 2-3.000 ISK.
@@ -160,7 +160,7 @@ Chi ha un volo nel pomeriggio può usare la mattina per un ultimo bagno caldo: l
   - Più curate: hotel boutique in centro a Reykjavík (~45 min di auto), per chi
     preferisce rinunciare alla comodità dell'aeroporto la prima o l'ultima notte.
 
-- **Prima notte — un campeggio ai piedi di una cascata (Giorno 2).** Non ricordo quale: su questo tratto ci sono quelli di Skógafoss e di Seljalandsfoss, con la cascata a pochi passi dalla tenda.
+- **Skógafoss — campeggio ai piedi della cascata (Giorno 2).** La nostra prima notte in tenda, con la cascata a pochi passi.
 - **Vík — campeggio attrezzato, 1.950 ISK + doccia 300 ISK (alternativa per il Giorno 2).** Il
   campeggio di Vík (elettricità, docce, cucina comune) è di fatto l'unica grande
   struttura della zona: comodo e ben servito, ma nelle recensioni più recenti

@@ -66,8 +66,8 @@ export const islanda2024Meta: TripMeta = {
     },
     {
       titoloGiorno: 'Giorno 2 — Golden Circle: Geysir e Gullfoss',
-      tratta: 'Keflavík → Golden Circle (Geysir, Gullfoss) → Seljalandsfoss → Skógafoss → campeggio ai piedi di una cascata',
-      pernottamento: 'Campeggio ai piedi di una cascata della costa sud (Skógafoss o Seljalandsfoss)',
+      tratta: 'Keflavík → Golden Circle (Geysir, Gullfoss) → Seljalandsfoss → Skógafoss',
+      pernottamento: 'Campeggio di Skógafoss, ai piedi della cascata',
       statoPernottamento: 'provato',
       intensita: 'intenso',
       costiNoti: 'Campeggio 1.950 ISK + doccia 300 ISK · parcheggio Seljalandsfoss 700 ISK',
