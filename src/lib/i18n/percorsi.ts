@@ -20,7 +20,7 @@ const AREA_INDIETRO: Record<'en' | 'es', Record<string, string>> = {
  * resta quello italiano: la pagina funziona lo stesso.
  */
 
-type MappaSlug = Record<'paesi' | 'destinazioni' | 'esperienze' | 'viaggi' | 'meraviglie' | 'attrezzatura', Record<string, string>>
+type MappaSlug = Record<'paesi' | 'destinazioni' | 'esperienze' | 'viaggi' | 'meraviglie' | 'attrezzatura' | 'consigli', Record<string, string>>
 
 const SLUG: Record<Lingua, MappaSlug | null> = { it: null, en: slugEn as MappaSlug, es: slugEs as MappaSlug }
 
@@ -54,8 +54,9 @@ function inverse(l: Lingua) {
             viaggi: inverti(s.viaggi),
             meraviglie: inverti(s.meraviglie),
             attrezzatura: inverti(s.attrezzatura),
+            consigli: inverti(s.consigli ?? {}),
           }
-        : { paesi: {}, destinazioni: {}, esperienze: {}, viaggi: {}, meraviglie: {}, attrezzatura: {} },
+        : { paesi: {}, destinazioni: {}, esperienze: {}, viaggi: {}, meraviglie: {}, attrezzatura: {}, consigli: {} },
     }
   }
   return INVERSE[l]!
@@ -86,6 +87,9 @@ function slugVerso(seg: string[], m: MappaSlug): string[] {
       break
     case 'attrezzatura':
       out = [a, t(b, m.attrezzatura), c]
+      break
+    case 'consigli':
+      out = [a, t(b, m.consigli ?? {}), c]
       break
     default:
       out = [a, b, c]
@@ -145,6 +149,7 @@ export function canonico(pubblico: string): { lingua: Lingua; percorso: string }
     if (a === 'viaggi' && b) seg[1] = s.viaggi[b] ?? b
     if (a === 'meraviglie' && b) seg[1] = s.meraviglie[b] ?? b
     if (a === 'attrezzatura' && b) seg[1] = s.attrezzatura[b] ?? b
+    if (a === 'consigli' && b) seg[1] = s.consigli[b] ?? b
     if ((a === 'destinazioni' || a === 'esperienze') && b) {
       const area = a === 'destinazioni' ? s.destinazioni : s.esperienze
       const chiave = c && c !== 'opengraph-image' ? area[`${b}/${c}`] : undefined

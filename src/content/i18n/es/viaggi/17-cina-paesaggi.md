@@ -18,7 +18,7 @@ Mi impresión de China, en pocas palabras: un caos, pero qué pasada. Se come bi
 - **Documentos, pagos, conectividad, trenes:** valen las mismas reglas que en el itinerario clásico: exención de visado de 30 días hasta finales de 2026, Alipay o WeChat Pay configurados **antes** de salir, eSIM extranjera o VPN instalada **antes**, billetes de tren a la venta 15 días antes, a una hora que varía de una estación a otra. Aquí, sin embargo, el problema se agrava: fuera de las grandes ciudades el inglés desaparece del todo, y el traductor con cámara pasa de comodidad a necesidad.
 - **Vuelos internos:** en este itinerario son inevitables y hay que meterlos en el presupuesto. Zhangjiajie-Chengdu, Chengdu-Lijiang y Lijiang-Guilin en tren costarían una jornada entera cada uno. Los vuelos internos chinos son económicos y frecuentes, pero los retrasos son habituales: mejor no programar conexiones ajustadas.
 - **Altitud:** es el factor que este itinerario añade respecto al otro. Lijiang está a 2.400 metros, Shangri-La supera los 3.200, el anfiteatro de Impression Lijiang está a 3.100 y el teleférico del Yulong Xueshan llega a 4.506. Las bombonas de oxígeno que se venden a la entrada del parque no son un recuerdo. Quien llega en avión desde el nivel del mar debe dormir al menos una noche en Lijiang antes de subir a altitud.
-- **Entradas a los parques, la verdadera partida de gasto:** el parque nacional de Zhangjiajie cuesta unos 236 yuanes (válido 4 días, lanzaderas internas incluidas), pero el ascensor y los teleféricos se pagan aparte; Tianmen Shan es una entrada distinta, de unos 250-280 yuanes; para el Yulong Xueshan hacen falta entrada, lanzadera y teleférico; Impression Lijiang cuesta 190-280 yuanes. Sumadas, estas partidas superan todo lo demás del viaje.
+- **Entradas a los parques, la verdadera partida de gasto:** el parque nacional de Zhangjiajie cuesta unos 239 yuanes (válido 4 días, lanzaderas internas incluidas), pero el ascensor y los teleféricos se pagan aparte; Tianmen Shan es una entrada distinta, de unos 288 yuanes, con teleférico, lanzaderas y escaleras mecánicas incluidos; para el Yulong Xueshan hacen falta entrada, lanzadera y teleférico; Impression Lijiang cuesta 190-280 yuanes. Sumadas, estas partidas superan todo lo demás del viaje.
 - **Reservas obligatorias:** la base de los pandas de Chengdu tiene entrada nominal vinculada al pasaporte y taquillas físicas cerradas; el teleférico de Tianmen Shan tiene franjas horarias con cupo; el teleférico grande del Yulong Xueshan tiene cupos diarios que se agotan; Impression Lijiang hay que reservarlo eligiendo la función.
 - **Presupuesto orientativo:** más bajo que el del itinerario clásico en alojamiento y comida (en las ciudades de provincia se encuentra una habitación nueva y limpia por 40 €, una comida cuesta menos de 10), más alto en transportes internos y entradas a los parques.
 - **Comida:** tres cocinas distintas en dieciocho días. La de Hunan es la más picante de China en sentido estricto: quema y punto. Sichuan añade la pimienta que adormece la lengua, el famoso «málà». Yunnan es exactamente lo contrario: setas, flores, hierbas e incluso quesos, rarísimos en el resto del país.
@@ -56,7 +56,7 @@ Imprescindible el **pasadizo excavado en la roca que pasa por detrás del salto 
 
 **Dormimos en el pueblo**, en una guesthouse con vistas al río: es el único motivo para no hacerlo en el día.
 
-**En la práctica:** billetes de tren en 12306 o Trip.com con el pasaporte, conviene comprarlos en cuanto se abre la venta · Furong Zhen tiene entrada para el pueblo, a comprobar en el momento · la cascada se ilumina por la noche hasta tarde
+**En la práctica:** billetes de tren en 12306 o Trip.com con el pasaporte, conviene comprarlos en cuanto se abre la venta · Furong Zhen tiene entrada para el pueblo, unos 108 yuanes, válida 3 días · la cascada se ilumina por la noche hasta tarde
 
 ### Día 4 — Hacia Zhangjiajie
 Nos trasladamos a **Wulingyuan**, el pueblo justo a las afueras de la entrada principal del parque nacional (unas 2 horas en coche o autobús desde Furong Zhen).
@@ -67,7 +67,7 @@ La tarde sirvió para organizarse, que aquí cuenta más que en otros sitios: el
 
 El parque tiene cuatro entradas: **Wulingyuan**, la del bosque nacional cerca de la ciudad de Zhangjiajie, **Yangjiajie** y **Tianzi Shan**. La entrada se compra una sola vez, vale varios días seguidos e incluye los autobuses ecológicos que unen las zonas; el ascensor de Bailong, los teleféricos y el trenecito de la Galería de las Diez Millas se pagan aparte. En el primer acceso la entrada se registra con el pasaporte y reconocimiento facial. Por la noche, en el pueblo, se compran agua y tentempiés para el día siguiente, un chubasquero ligero y algunas provisiones: dentro del parque hay quioscos, pero son más caros. *Conviene fijar ya la ruta de mañana, zona por zona, y salir con el primer autobús.*
 
-**En la práctica:** Furong Zhen-Wulingyuan en autobús vía Zhangjiajie o coche con conductor, unas 2 horas · entrada al parque con autobuses por unos 230-240 yuanes, válida 4 días · en Wulingyuan restaurantes sencillos y hoteles de todo tipo cerca de la entrada
+**En la práctica:** Furong Zhen-Wulingyuan en autobús vía Zhangjiajie o coche con conductor, unas 2 horas · entrada al parque con autobuses por unos 239 yuanes, válida 4 días, con reserva obligatoria del día de visita · en Wulingyuan restaurantes sencillos y hoteles de todo tipo cerca de la entrada
 
 ### Día 5 — Yuanjiajie y el ascensor de Bailong
 Estábamos **en la entrada a la apertura**, ni un minuto después: es la diferencia entre cinco minutos de cola en el ascensor y una hora y media.
@@ -87,7 +87,7 @@ Es la parte que casi nadie hace y vale media jornada: mirar esos pilares desde a
 
 Para subir a Tianzi Shan se puede usar el teleférico o el autobús hasta la zona de **Helong**, donde están los miradores sobre los **Picos del Pincel Imperial**, agujas que parecen pinceles del revés. El sendero del Látigo Dorado mide unos siete kilómetros y medio, casi todo llano, y se recorre en dos o tres horas hasta la entrada del bosque nacional. Junto al arroyo viven macacos acostumbrados a los turistas: *nada de comida en la mano ni a la vista en las bolsas, porque la arrancan*. Quien aún tenga piernas añade la **Galería de las Diez Millas**, el valle de pilares con el trenecito que lo recorre en pocos minutos.
 
-**En la práctica:** teleférico de Tianzi Shan unos 70 yuanes por trayecto · los autobuses ecológicos están incluidos en la entrada, en horas punta hay que esperar · desde el fondo del arroyo se sale a la entrada del bosque nacional, de allí los autobuses a Wulingyuan
+**En la práctica:** teleférico de Tianzi Shan unos 72 yuanes por trayecto · los autobuses ecológicos están incluidos en la entrada, en horas punta hay que esperar · desde el fondo del arroyo se sale a la entrada del bosque nacional, de allí los autobuses a Wulingyuan
 
 ### Día 7 — Tianmen Shan y vuelo a Chengdu
 Nos trasladamos a la ciudad para pasar un día en **Tianmen Shan**, con la franja horaria del teleférico reservada con antelación. El teleférico, de casi siete kilómetros y medio, es de los más largos del mundo: sale del centro de la ciudad, dura casi media hora y hacia el final sobrevuela la carretera de las 99 curvas.
@@ -145,7 +145,7 @@ El tramo duro es la subida de las **28 curvas**, una hora larga de zigzags con l
 
 Cinco o seis horas de camino, y la noche en una guesthouse del sendero. No hay otra cosa que hacer que cenar todos en la misma mesa y mirar la montaña del otro lado, y de eso se trata precisamente.
 
-**En la práctica:** autobús o coche Lijiang-Qiaotou unas 2 horas, entrada a la garganta al inicio · en las 28 curvas los vecinos ofrecen caballos de pago para la subida · guesthouses del sendero alto a reservar en verano, efectivo útil para pequeños gastos
+**En la práctica:** autobús o coche Lijiang-Qiaotou unas 2 horas, entrada a la garganta al inicio, unos 45 yuanes · en las 28 curvas los vecinos ofrecen caballos de pago para la subida · guesthouses del sendero alto a reservar en verano, efectivo útil para pequeños gastos
 
 ### Día 13 — Segundo día de trek y Shangri-La
 Tres o cuatro horas de camino hasta **Walnut Garden** y el descenso al fondo del valle. Quien quiera baja hasta la roca del Salto del Tigre, junto al río, con una escalinata empinada de ida y vuelta.
@@ -185,7 +185,7 @@ A media mañana cogimos la **balsa de bambú en el tramo Xingping-Yangdi**: una 
 
 *Entre la balsa y el crucero largo desde Guilin conviene ser tajante: el crucero dura cuatro horas, cuesta bastante y se hace en un barco de dos pisos con otras doscientas personas. La balsa cubre solo el mejor tramo, dura una hora, cuesta una fracción y vas a medio metro del agua.*
 
-**En la práctica:** la subida a Xianggong son unos veinte minutos de escalones, con entrada; hace falta frontal · balsas Xingping-Yangdi a reservar el día antes a través de la guesthouse · de Yangshuo a Xingping una hora en autobús o taxi
+**En la práctica:** la subida a Xianggong son unos veinte minutos de escalones, con entrada; hace falta frontal · balsas Xingping-Yangdi, unos 216-225 yuanes por persona, a reservar el día antes a través de la guesthouse · de Yangshuo a Xingping una hora en autobús o taxi
 
 ### Día 17 — Yangshuo en bicicleta
 Es la jornada sin programa, que en un viaje por China vale más de lo que parece: una **bici eléctrica** y la carretera a lo largo del **río Yulong**, cinco horas parando donde toque entre arrozales, búfalos y puentes de piedra.

@@ -130,7 +130,7 @@ El pueblo peatonal se recorre en una hora, entre tejados de colores, tiendas y t
 - Ottawa-Mont-Tremblant: unos 150 km, 2 horas
 - Dormir en el pueblo es caro los fines de semana de otoño: conviene reservar pronto o dormir en los pueblos cercanos
 - Parc national du Mont-Tremblant: acceso diario de unos 10 CAD por persona, se paga en la web de la Sépaq o en la entrada
-- Telecabina panorámica: billete de algunas decenas de dólares, horario reducido fuera de temporada
+- Telecabina panorámica: ida y vuelta desde unos 33 CAD por adulto en verano (del 15 de mayo al 18 de octubre de 2026), alrededor de 46-48 CAD en invierno, horario reducido fuera de temporada
 
 ### Día 9 — Montréal: la ciudad vieja y la basílica de Notre-Dame
 De Mont-Tremblant a Montréal hay una hora y media. Al llegar, el coche se queda en el hotel: en la ciudad se va a pie y en metro, y en toda la isla de Montréal está prohibido girar a la derecha con el semáforo en rojo.
@@ -164,7 +164,7 @@ El recorrido más rápido va por la orilla norte con la autopista 40; quien quie
 **En la práctica**
 - Montréal-Quebec: unos 255 km, 2 horas y 45 minutos-3 horas
 - Dentro de las murallas se aparca mal: mejor un hotel con aparcamiento o un aparcamiento público fuera de la puerta
-- Funicular entre la ciudad alta y la baja: billete de pocos dólares por trayecto
+- Funicular entre la ciudad alta y la baja: 7 CAD por persona y trayecto, solo en efectivo, de 9 a 21 (hasta las 22 en verano)
 - Cena en la ciudad vieja: los restaurantes de la rue Saint-Louis son más turísticos, los del barrio Saint-Jean más frecuentados por los vecinos
 
 ### Día 12 — Las cataratas de Montmorency y la Île d'Orléans
@@ -173,7 +173,7 @@ A un cuarto de hora del centro están las **chutes Montmorency**, de unos 83 met
 A las cascadas conviene llegar por la mañana, antes de los autocares. La escalera panorámica por la pared tiene 487 escalones y pasa tan cerca del salto que se sale mojado; quien no quiera subir de vuelta usa el teleférico en un solo sentido. La Île d'Orléans se recorre en coche por el **Chemin Royal**, parando en los puestos de fresas y manzanas, en una bodega de casis o en una sidrería, y en los pueblos de Saint-Jean y Sainte-Famille, de los más antiguos de Québec. *El puente que une la isla con tierra firme es estrecho y está en obras de sustitución: en hora punta puede haber cola.* Por la tarde, las **Plaines d'Abraham**, el campo de la batalla de 1759 entre ingleses y franceses, hoy un gran parque sobre el río.
 
 **En la práctica**
-- Parc de la Chute-Montmorency: aparcamiento y teleférico de pago (Sépaq)
+- Parc de la Chute-Montmorency: aparcamiento y teleférico de pago (Sépaq); entrada unos 13,90 CAD por adulto de mayo a octubre y teleférico unos 14,95 CAD ida y vuelta, más impuestos
 - El anillo de la Île d'Orléans se hace en media jornada con las paradas
 - Montmorency: desde el aparcamiento de arriba, cerca del Manoir Montmorency, se baja a pie y se vuelve a subir en teleférico
 - Ciudadela: visitas guiadas de pago y, en verano, cambio de guardia por la mañana

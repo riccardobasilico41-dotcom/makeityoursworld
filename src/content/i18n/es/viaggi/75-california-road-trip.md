@@ -165,7 +165,7 @@ Día de mar. Empezamos por el **Santa Monica Pier**, donde un cartel marca el fi
 
 Por la tarde subimos hacia el norte por la **Pacific Coast Highway** hasta **Malibú**, con una parada en **El Matador Beach**, entre las rocas, y al atardecer una cena de pescado junto al mar. A El Matador se baja por una escalera empinada, y con la marea alta la playa casi desaparece. *En la Pacific Coast Highway las obras posteriores a los incendios de 2025 todavía pueden frenar el tráfico: el estado de la carretera se comprueba en Caltrans QuickMap.*
 
-**En la práctica:** bicicleta de alquiler en Santa Mónica aproximadamente 15-25 $ por unas horas · Getty Villa en Malibú gratuita con reserva, aparcamiento de pago, día de cierre que hay que comprobar · nada a la vista en el coche en los aparcamientos de las playas.
+**En la práctica:** bicicleta de alquiler en Santa Mónica aproximadamente 15-25 $ por unas horas · Getty Villa en Malibú gratuita con reserva, abierta de 10 a 17, cerrada los martes, aparcamiento 25 $ (15 $ después de las 15) · nada a la vista en el coche en los aparcamientos de las playas.
 
 ### Día 16 — Santa Bárbara y la costa hasta Cambria
 Dejamos Los Ángeles hacia el norte. **Santa Bárbara**, a hora y media o dos, es una ciudad blanca de tejados rojos, con la **misión** española del siglo XVIII y el paseo por el muelle de Stearns Wharf. La misión se visita con un recorrido libre entre iglesia, claustro, cementerio y museo, en una hora más o menos; en el centro la calle principal, State Street, baja hasta el mar, y el barrio de la Funk Zone, junto al muelle, está lleno de salas de cata de los vinos de la zona.

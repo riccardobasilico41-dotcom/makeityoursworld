@@ -36,7 +36,7 @@ En el lado opuesto de la plaza se alza la **Iglesia de Týn**, gótica, con las 
 
 Por la noche nos quedamos en el centro, pero con cuidado: los restaurantes de la plaza y de la calle Karlova son la zona con más denuncias de cuentas infladas. Para cenar conviene alejarse unas manzanas.
 
-**En la práctica:** subida a la torre del Ayuntamiento Viejo con ascensor y entrada aparte · el espectáculo del reloj dura menos de un minuto y la plaza se llena unos minutos antes de la hora · iglesia de Týn con horario reducido, entrada por los soportales del lado de la plaza · para cenar, una hospoda a unas manzanas, comprobando carta y precios antes de pedir.
+**En la práctica:** subida a la torre del Ayuntamiento Viejo con entrada aparte, unos 350 CZK, más unos 100 CZK por el ascensor · el espectáculo del reloj dura menos de un minuto y la plaza se llena unos minutos antes de la hora · iglesia de Týn con horario reducido, entrada por los soportales del lado de la plaza · para cenar, una hospoda a unas manzanas, comprobando carta y precios antes de pedir.
 
 ### Día 2 — Puente de Carlos, Malá Strana y el Castillo de Praga
 Cruzamos el **Puente de Carlos** temprano por la mañana, antes de las 8, para evitar la mayor parte de la multitud. Son 516 metros góticos, construidos a partir de 1357 por encargo de Carlos IV, con más de setenta estatuas barrocas (todas copias: los originales están a resguardo en los museos). La más antigua y venerada es la de **San Juan Nepomuceno**, de 1683.
@@ -47,7 +47,7 @@ Por la tarde subimos a la colina del **Castillo de Praga**, uno de los mayores c
 
 Por la noche se vuelve a Malá Strana, o se regresa con calma hacia Staré Město.
 
-**En la práctica:** Puente de Carlos siempre abierto y gratuito, casi vacío antes de las 8 · al Castillo se sube a pie por las escaleras del Castillo o con el tranvía 22, cuidado con los carteristas · Circuito A unos 450 CZK, para entrar en el recinto se pasa un control de seguridad · el cambio de guardia es cada hora en la puerta principal, con la ceremonia más amplia a mediodía.
+**En la práctica:** Puente de Carlos siempre abierto y gratuito, casi vacío antes de las 8 · al Castillo se sube a pie por las escaleras del Castillo o con el tranvía 22, cuidado con los carteristas · circuito principal unos 450 CZK, para entrar en el recinto se pasa un control de seguridad · el cambio de guardia es cada hora en la puerta principal, con la ceremonia más amplia a mediodía.
 
 ### Día 3 — Josefov, el barrio judío
 La mañana la dedicamos entera a **Josefov**, el antiguo barrio judío en el corazón de Staré Město. Con el Jewish Town Ticket se visitan seis sitios: el **Antiguo Cementerio Judío**, con miles de lápidas superpuestas en capas sobre un terreno que ha seguido siendo el mismo durante siglos, y las sinagogas **Pinkas** (hoy memorial con los nombres de las víctimas checas del Holocausto), **Maisel**, **Klausen** y **Española**, esta última con un interior morisco de los más sorprendentes de la ciudad. Para la **Sinagoga Vieja-Nueva**, la sinagoga activa más antigua de Europa, hace falta una entrada aparte.
@@ -65,7 +65,7 @@ A primera hora de la tarde volvimos al centro para el último paseo: lo que se h
 
 Por la noche hicimos la última cena del fin de semana en el centro. Antes de salir conviene dejar margen: del centro al aeropuerto se tarda unos tres cuartos de hora entre el metro A y el autobús, más en hora punta. *El día de la salida es más cómodo dejar la maleta en el hotel y volver a recogerla, en lugar de recorrer el centro con el equipaje.*
 
-**En la práctica:** fortaleza y parque de Vyšehrad de acceso libre, basílica con una pequeña entrada · metro C hasta la parada Vyšehrad, y luego unos diez minutos a pie · para el aeropuerto, metro A hasta Nádraží Veleslavín y autobús 59.
+**En la práctica:** fortaleza y parque de Vyšehrad de acceso libre, basílica con entrada de unos 130 CZK · metro C hasta la parada Vyšehrad, y luego unos diez minutos a pie · para el aeropuerto, metro A hasta Nádraží Veleslavín y autobús 59.
 
 ## Qué ver / qué hacer
 - **La Plaza de la Ciudad Vieja y el Reloj Astronómico**, cuando da la hora.

@@ -7,7 +7,7 @@ import glob, json, os, sys
 
 lingua = sys.argv[1] if len(sys.argv) > 1 else 'en'
 base = os.path.join(os.path.dirname(__file__), '..', 'src', 'content', 'i18n', lingua)
-aree = ['paesi', 'destinazioni', 'esperienze', 'viaggi', 'meraviglie', 'attrezzatura']
+aree = ['paesi', 'destinazioni', 'esperienze', 'viaggi', 'meraviglie', 'attrezzatura', 'consigli']
 tutto = {a: {} for a in aree}
 for f in sorted(glob.glob(os.path.join(base, 'slug', '*.json'))):
     d = json.load(open(f))

@@ -66,8 +66,8 @@ export const islanda2024Meta: TripMeta = {
     },
     {
       titoloGiorno: 'Giorno 2 — Golden Circle: Geysir e Gullfoss',
-      tratta: 'Keflavík → Golden Circle (Geysir, Gullfoss) → Seljalandsfoss → Skógafoss → Vík',
-      pernottamento: 'Campeggio di Vík',
+      tratta: 'Keflavík → Golden Circle (Geysir, Gullfoss) → Seljalandsfoss → Skógafoss → campeggio ai piedi di una cascata',
+      pernottamento: 'Campeggio ai piedi di una cascata della costa sud (Skógafoss o Seljalandsfoss)',
       statoPernottamento: 'provato',
       intensita: 'intenso',
       costiNoti: 'Campeggio 1.950 ISK + doccia 300 ISK · parcheggio Seljalandsfoss 700 ISK',
@@ -77,7 +77,7 @@ export const islanda2024Meta: TripMeta = {
     },
     {
       titoloGiorno: 'Giorno 3 — Dyrhólaey, Reynisfjara e la laguna glaciale',
-      tratta: 'Vík → Dyrhólaey → Reynisfjara → Fjaðrárgljúfur → Skaftafell (ghiacciaio) → Jökulsárlón (kayak) → Höfn',
+      tratta: 'Costa sud → Dyrhólaey → Reynisfjara → Fjaðrárgljúfur → Skaftafell (ghiacciaio) → Jökulsárlón (kayak) → Höfn',
       pernottamento: 'Campeggio Vestrahorn o comunale di Höfn (da confermare quale)',
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',

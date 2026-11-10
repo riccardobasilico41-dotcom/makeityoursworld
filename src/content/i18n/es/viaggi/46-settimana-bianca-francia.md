@@ -39,14 +39,14 @@ El segundo día nos adentramos en los sectores más alejados de la base. Es el d
 
 Se sale con el primer remonte y la vuelta se planifica al revés: primero se decide a qué hora hay que estar en el último remonte de regreso, luego hasta dónde se puede llegar. Las pistas orientadas al este conviene esquiarlas por la mañana, las del oeste por la tarde, siguiendo el sol sobre la nieve. Con niebla o luz plana las pistas del bosque son las que mejor se leen, y conviene quedarse más abajo.
 
-**En la práctica:** el forfait tiene que cubrir todo el dominio conectado, no solo la estación de salida · con viento fuerte los remontes más altos y las conexiones entre valles pueden cerrar: conviene mirar la app antes de salir · en altura el tiempo cambia rápido, chaqueta y gafas siempre en la mochila.
+**En la práctica:** el forfait tiene que cubrir todo el dominio conectado, no solo la estación de salida · forfait adulto de 6 días en la temporada 2026/27: unos 421 euros en los Tres Valles, unos 412 euros en Paradiski, unos 468 euros en Tignes-Val d'Isère (donde vale 7 días) · con viento fuerte los remontes más altos y las conexiones entre valles pueden cerrar: conviene mirar la app antes de salir · en altura el tiempo cambia rápido, chaqueta y gafas siempre en la mochila.
 
 ### Día 4 — Jornada en un valle lateral o en Chamonix
 Quien está en un dominio cercano puede pasar el día en **Chamonix**: la subida a la **Aiguille du Midi** merece la pena incluso sin esquiar, y para los esquiadores expertos está la **Vallée Blanche**, solo con guía. Desde muchas estaciones de la Tarentaise o de la Alta Saboya, Chamonix está a un par de horas en coche o más, así que se sale temprano. El teleférico de la **Aiguille du Midi** sube hasta los 3.842 metros: desde la terraza se ve el Mont Blanc de cerca, y la altitud se nota enseguida.
 
 La **Vallée Blanche** sale de aquí y es un descenso fuera de pista de unos veinte kilómetros por glaciares, para esquiadores seguros en pistas negras y con un guía de alta montaña, que lleva cuerda y material y conoce las grietas. Se baja hacia el Mer de Glace y se vuelve con el tren del Montenvers, o esquiando hasta el pueblo si la nieve lo permite.
 
-**En la práctica:** la Aiguille du Midi cuesta unos 80-83 euros ida y vuelta: mejor reservar la hora de subida online · la Vallée Blanche se reserva con una compañía de guías de Chamonix, con días de margen por si hace mal tiempo · quien no esquía puede bajar al Mer de Glace con el tren del Montenvers.
+**En la práctica:** la Aiguille du Midi cuesta unos 83 euros ida y vuelta: mejor reservar la hora de subida online · la Vallée Blanche se reserva con una compañía de guías de Chamonix, con días de margen por si hace mal tiempo · quien no esquía puede bajar al Mer de Glace con el tren del Montenvers.
 
 ### Día 5 — Esquí libre
 Volvimos al dominio. Para quien quiera salirse de la pista batida, hay media jornada de esquí de montaña o de raquetas en un valle lateral. La mañana se esquía en pista y la tarde se dedica a la salida: las escuelas de esquí y las oficinas de guías organizan medias jornadas de **esquí de montaña** con material de alquiler, y paseos con raquetas por bosques y pastos cerca de las estaciones, aptos también para quien no esquía.

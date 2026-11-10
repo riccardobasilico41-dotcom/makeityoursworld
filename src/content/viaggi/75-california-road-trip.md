@@ -165,7 +165,7 @@ Giornata sul mare. Abbiamo cominciato dal **Santa Monica Pier**, dove un cartell
 
 Il pomeriggio siamo saliti verso nord sulla **Pacific Coast Highway** fino a **Malibu**, con una sosta a **El Matador Beach**, tra gli scogli, e al tramonto una cena di pesce sul mare. A El Matador si scende con una scalinata ripida, e con l'alta marea la spiaggia quasi sparisce. *Lungo la Pacific Coast Highway i lavori dopo gli incendi del 2025 possono ancora rallentare il traffico: lo stato della strada si controlla su Caltrans QuickMap.*
 
-**In pratica:** bicicletta a noleggio a Santa Monica indicativamente 15-25 $ per qualche ora · Getty Villa a Malibu gratuita con prenotazione, parcheggio a pagamento, giorno di chiusura da controllare · niente in vista in auto nei parcheggi delle spiagge.
+**In pratica:** bicicletta a noleggio a Santa Monica indicativamente 15-25 $ per qualche ora · Getty Villa a Malibu gratuita con prenotazione, aperta dalle 10 alle 17, chiusa il martedì, parcheggio 25 $ (15 $ dopo le 15) · niente in vista in auto nei parcheggi delle spiagge.
 
 ### Giorno 16 — Santa Barbara e la costa fino a Cambria
 Abbiamo lasciato Los Angeles verso nord. **Santa Barbara**, a un'ora e mezza-due, è una cittadina bianca con i tetti rossi, la **missione** spagnola del Settecento e la passeggiata sul molo di Stearns Wharf. La missione si visita con un percorso libero tra chiesa, chiostro, cimitero e museo, in circa un'ora; in centro la via principale, State Street, porta fino al mare, e il quartiere della Funk Zone, vicino al molo, è pieno di sale di degustazione dei vini della zona.

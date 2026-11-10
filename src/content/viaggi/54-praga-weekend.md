@@ -36,7 +36,7 @@ Sul lato opposto della piazza si alza la **Chiesa di Tyn**, gotica, con le due g
 
 La sera siamo rimasti in centro, ma con attenzione: i ristoranti sulla piazza e in via Karlova sono la zona con più segnalazioni di conti gonfiati. Per cena conviene allontanarsi di qualche isolato.
 
-**In pratica:** salita alla torre del Municipio Vecchio con ascensore e biglietto a parte · lo spettacolo dell'orologio dura meno di un minuto e la piazza si riempie qualche minuto prima dell'ora · Chiesa di Tyn con orari ridotti, ingresso dai portici sul lato della piazza · per cena, hospoda a qualche isolato, controllando menù e prezzi prima di ordinare.
+**In pratica:** salita alla torre del Municipio Vecchio con biglietto a parte, circa 350 CZK, più circa 100 CZK per l'ascensore · lo spettacolo dell'orologio dura meno di un minuto e la piazza si riempie qualche minuto prima dell'ora · Chiesa di Tyn con orari ridotti, ingresso dai portici sul lato della piazza · per cena, hospoda a qualche isolato, controllando menù e prezzi prima di ordinare.
 
 ### Giorno 2 — Ponte Carlo, Malá Strana e il Castello di Praga
 Abbiamo attraversato il **Ponte Carlo** presto al mattino, prima delle 8, per evitare il grosso della folla. Sono 516 metri gotici, costruiti a partire dal 1357 su commissione di Carlo IV, con oltre settanta statue barocche (tutte copie: gli originali sono al riparo nei musei). La più antica e venerata è quella di **San Giovanni Nepomuceno**, del 1683.
@@ -47,7 +47,7 @@ Nel pomeriggio siamo saliti sul colle del **Castello di Praga**, uno dei comples
 
 La sera si torna a Malá Strana, oppure si rientra con calma verso Staré Město.
 
-**In pratica:** Ponte Carlo sempre aperto e gratuito, quasi vuoto prima delle 8 · al Castello si sale a piedi dalle scale del Castello o con il tram 22, attenzione ai borseggi · Circuito A circa 450 CZK, per entrare nell'area si passa un controllo di sicurezza · il cambio della guardia è ogni ora al cancello principale, con la cerimonia più ampia a mezzogiorno.
+**In pratica:** Ponte Carlo sempre aperto e gratuito, quasi vuoto prima delle 8 · al Castello si sale a piedi dalle scale del Castello o con il tram 22, attenzione ai borseggi · circuito principale circa 450 CZK, per entrare nell'area si passa un controllo di sicurezza · il cambio della guardia è ogni ora al cancello principale, con la cerimonia più ampia a mezzogiorno.
 
 ### Giorno 3 — Josefov, il quartiere ebraico
 La mattina l'abbiamo dedicata tutta a **Josefov**, l'ex quartiere ebraico nel cuore di Staré Město. Con il Jewish Town Ticket si visitano sei siti: l'**Antico Cimitero Ebraico**, con migliaia di lapidi sovrapposte a strati su un terreno rimasto lo stesso per secoli, e le sinagoghe **Pinkas** (oggi memoriale con i nomi delle vittime ceche dell'Olocausto), **Maisel**, **Klausen** e **Spagnola**, quest'ultima con un interno moresco tra i più sorprendenti della città. Per la **Sinagoga Vecchia-Nuova**, la più antica sinagoga attiva d'Europa, serve un biglietto a parte.
@@ -65,7 +65,7 @@ Nel primo pomeriggio siamo rientrati in centro per l'ultimo giro: quello che è 
 
 La sera abbiamo fatto l'ultima cena del weekend in centro. Prima di partire conviene tenersi margine: dal centro all'aeroporto servono circa tre quarti d'ora tra metro A e autobus, di più nelle ore di punta. *Il giorno della partenza è più comodo lasciare la valigia in hotel e tornare a prenderla, invece di girare il centro con i bagagli.*
 
-**In pratica:** fortezza e parco di Vyšehrad a ingresso libero, basilica con piccolo biglietto · metro C fino alla fermata Vyšehrad, poi una decina di minuti a piedi · per l'aeroporto, metro A fino a Nádraží Veleslavín e autobus 59.
+**In pratica:** fortezza e parco di Vyšehrad a ingresso libero, basilica con biglietto da circa 130 CZK · metro C fino alla fermata Vyšehrad, poi una decina di minuti a piedi · per l'aeroporto, metro A fino a Nádraží Veleslavín e autobus 59.
 
 ## Cosa vedere / cosa fare
 - **La Piazza della Città Vecchia e l'Orologio Astronomico**, allo scoccare dell'ora.

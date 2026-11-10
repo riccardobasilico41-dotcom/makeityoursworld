@@ -39,14 +39,14 @@ On the second day we pushed out toward the sectors farthest from the base. This 
 
 Start with the first lift and plan the return backward: first decide what time you need to be on the last lift home, then how far you can go. East-facing runs are best skied in the morning, west-facing ones in the afternoon, following the sun on the snow. In fog or flat light the tree runs are the easiest to read, and it pays to stay lower down.
 
-**In practice:** the pass must cover the whole linked area, not just your base resort · in strong wind the highest lifts and the links between valleys can close: check the app before setting off · the weather changes fast at altitude, so always carry a jacket and goggles.
+**In practice:** the pass must cover the whole linked area, not just your base resort · adult 6-day pass for the 2026/27 season: about €421 in the Three Valleys, about €412 in Paradiski, about €468 in Tignes-Val d'Isère (where it is valid for 7 days) · in strong wind the highest lifts and the links between valleys can close: check the app before setting off · the weather changes fast at altitude, so always carry a jacket and goggles.
 
 ### Day 4 — A day in a side valley or in Chamonix
 If you're in a nearby ski area you can spend the day in **Chamonix**: the ride up the **Aiguille du Midi** is worth it even if you don't ski, and for expert skiers there's the **Vallée Blanche**, with a guide only. From many resorts in the Tarentaise or Haute-Savoie, Chamonix is a couple of hours or more by car, so leave early. The **Aiguille du Midi** cable car climbs to 3,842 meters: from the terrace you see Mont Blanc up close, and you feel the altitude straight away.
 
 The **Vallée Blanche** starts here: an off-piste descent of about twenty kilometers across glaciers, for skiers confident on black runs and to be done with a mountain guide, who brings rope and gear and knows the crevasses. You descend toward the Mer de Glace and return on the Montenvers train, or on skis all the way to town if the snow allows.
 
-**In practice:** the Aiguille du Midi costs about €80-83 return: book your ascent time online · book the Vallée Blanche with a Chamonix guiding company, with spare days in case of bad weather · non-skiers can go down to the Mer de Glace on the Montenvers train.
+**In practice:** the Aiguille du Midi costs about €83 return: book your ascent time online · book the Vallée Blanche with a Chamonix guiding company, with spare days in case of bad weather · non-skiers can go down to the Mer de Glace on the Montenvers train.
 
 ### Day 5 — Free skiing
 We went back to the ski area. For anyone who wants to leave the groomed runs, there's half a day of ski touring or snowshoeing in a side valley. The morning is for skiing on piste, the afternoon for the outing: ski schools and guides' offices run half days of **ski touring** with rental gear, and snowshoe walks in the woods and pastures near the resorts, suitable for non-skiers too.

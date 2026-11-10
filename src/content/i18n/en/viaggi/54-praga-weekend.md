@@ -36,7 +36,7 @@ On the opposite side of the square rises the Gothic **Church of Our Lady before 
 
 In the evening we stayed in the center, but carefully: the restaurants on the square and on Karlova street are the area with the most reports of inflated bills. For dinner it's best to walk a few blocks away.
 
-**In practice:** the climb up the Old Town Hall tower has a lift and a separate ticket · the clock show lasts less than a minute and the square fills up a few minutes before the hour · Týn Church has limited opening hours, entrance through the arcades on the square side · for dinner, a hospoda a few blocks away, checking menu and prices before ordering.
+**In practice:** the climb up the Old Town Hall tower has a separate ticket, about 350 CZK, plus about 100 CZK for the lift · the clock show lasts less than a minute and the square fills up a few minutes before the hour · Týn Church has limited opening hours, entrance through the arcades on the square side · for dinner, a hospoda a few blocks away, checking menu and prices before ordering.
 
 ### Day 2 — Charles Bridge, Malá Strana and Prague Castle
 We crossed **Charles Bridge** early in the morning, before 8, to avoid the bulk of the crowd. It's 516 Gothic meters, built starting in 1357 on the commission of Charles IV, with more than seventy Baroque statues (all copies: the originals are kept under cover in museums). The oldest and most venerated is that of **St. John of Nepomuk**, from 1683.
@@ -47,7 +47,7 @@ In the afternoon we climbed the hill of **Prague Castle**, one of the largest en
 
 In the evening you go back to Malá Strana, or head back at an easy pace toward Staré Město.
 
-**In practice:** Charles Bridge is always open and free, almost empty before 8am · you walk up to the Castle by the Castle Steps or take tram 22, beware of pickpockets · Circuit A about 450 CZK, there is a security check to enter the area · the changing of the guard takes place every hour at the main gate, with the larger ceremony at noon.
+**In practice:** Charles Bridge is always open and free, almost empty before 8am · you walk up to the Castle by the Castle Steps or take tram 22, beware of pickpockets · main circuit about 450 CZK, there is a security check to enter the area · the changing of the guard takes place every hour at the main gate, with the larger ceremony at noon.
 
 ### Day 3 — Josefov, the Jewish Quarter
 We devoted the whole morning to **Josefov**, the former Jewish quarter in the heart of Staré Město. With the Jewish Town Ticket you visit six sites: the **Old Jewish Cemetery**, with thousands of tombstones stacked in layers on ground that has stayed the same for centuries, and the **Pinkas** synagogue (today a memorial with the names of the Czech victims of the Holocaust), the **Maisel**, **Klausen** and **Spanish** synagogues, the latter with one of the most surprising Moorish interiors in the city. For the **Old-New Synagogue**, the oldest active synagogue in Europe, a separate ticket is needed.
@@ -65,7 +65,7 @@ In the early afternoon we went back to the center for the last stroll: whatever 
 
 In the evening we had the last dinner of the weekend in the center. Before leaving, allow some margin: from the centre to the airport it takes about three quarters of an hour by metro A and bus, more at rush hour. *On departure day it is easier to leave your suitcase at the hotel and come back for it, rather than walking around the centre with your luggage.*
 
-**In practice:** Vyšehrad fortress and park free to enter, small ticket for the basilica · metro C to the Vyšehrad stop, then about ten minutes on foot · for the airport, metro A to Nádraží Veleslavín and bus 59.
+**In practice:** Vyšehrad fortress and park free to enter, ticket of about 130 CZK for the basilica · metro C to the Vyšehrad stop, then about ten minutes on foot · for the airport, metro A to Nádraží Veleslavín and bus 59.
 
 ## What to see / what to do
 - **Old Town Square and the Astronomical Clock**, on the hour.

@@ -130,7 +130,7 @@ Il villaggio pedonale si gira in un'ora, tra case dai tetti colorati, negozi e t
 - Ottawa-Mont-Tremblant: circa 150 km, 2 ore
 - Il villaggio è caro da dormire nei fine settimana d'autunno: conviene prenotare presto o dormire nei paesi vicini
 - Parc national du Mont-Tremblant: accesso giornaliero intorno ai 10 CAD a persona, si paga sul sito della Sépaq o all'ingresso
-- Cabinovia panoramica: biglietto di qualche decina di dollari, orari ridotti fuori stagione
+- Cabinovia panoramica: andata e ritorno da circa 33 CAD per adulto in estate (dal 15 maggio al 18 ottobre 2026), intorno ai 46-48 CAD in inverno, orari ridotti fuori stagione
 
 ### Giorno 9 — Montréal: la città vecchia e la basilica di Notre-Dame
 Da Mont-Tremblant a Montréal c'è un'ora e mezza. Arrivati, l'auto resta in hotel: in città si va a piedi e in metro, e su tutta l'isola di Montréal è vietato svoltare a destra con il rosso.
@@ -164,7 +164,7 @@ Il percorso più veloce corre lungo la sponda nord con l'autostrada 40; chi vuol
 **In pratica**
 - Montréal-Québec: circa 255 km, 2 ore e 45-3 ore
 - Dentro le mura si parcheggia male: meglio un hotel con parcheggio o un parcheggio pubblico fuori porta
-- Funicolare tra città alta e città bassa: biglietto di pochi dollari a tratta
+- Funicolare tra città alta e città bassa: 7 CAD a persona per tratta, solo in contanti, dalle 9 alle 21 (fino alle 22 in estate)
 - Cena nella città vecchia: i ristoranti intorno a rue Saint-Louis sono più turistici, quelli del quartiere Saint-Jean più frequentati dai residenti
 
 ### Giorno 12 — Le cascate di Montmorency e l'Île d'Orléans
@@ -173,7 +173,7 @@ A un quarto d'ora dal centro ci sono le **chutes Montmorency**, alte circa 83 me
 Alle cascate conviene arrivare al mattino, prima dei pullman. La scala panoramica lungo la parete ha 487 gradini e passa così vicino al salto che si esce bagnati; chi non vuole fare la salita del ritorno usa la cabinovia in un senso solo. L'Île d'Orléans si gira in auto sul **Chemin Royal**, fermandosi nei banchi di fragole e mele, in una cantina di cassis o in una sidreria, e nei paesi di Saint-Jean e Sainte-Famille, tra i più antichi del Québec. *Il ponte che collega l'isola alla terraferma è stretto e in rifacimento: nelle ore di punta può esserci coda.* Nel pomeriggio, le **Plaines d'Abraham**, il campo della battaglia del 1759 tra inglesi e francesi, oggi un grande parco sul fiume.
 
 **In pratica**
-- Parc de la Chute-Montmorency: parcheggio e cabinovia a pagamento (Sépaq)
+- Parc de la Chute-Montmorency: parcheggio e cabinovia a pagamento (Sépaq); ingresso circa 13,90 CAD per adulto da maggio a ottobre e cabinovia circa 14,95 CAD andata e ritorno, più tasse
 - L'anello dell'Île d'Orléans si fa in mezza giornata con le soste
 - Montmorency: dal parcheggio in alto, vicino al Manoir Montmorency, si scende a piedi e si risale in cabinovia
 - Cittadella: visite guidate a pagamento e, d'estate, cambio della guardia al mattino

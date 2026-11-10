@@ -130,7 +130,7 @@ The pedestrian village takes an hour, among colorful roofs, shops and terraces; 
 - Ottawa to Mont-Tremblant: about 150 km (90 miles), 2 hours
 - The village is expensive to stay in on fall weekends: book early or sleep in the nearby towns
 - Parc national du Mont-Tremblant: daily access around CAD 10 per person, paid on the Sépaq website or at the entrance
-- Panoramic gondola: a ticket of a few dozen dollars, shorter hours off season
+- Panoramic gondola: round trip from about CAD 33 per adult in summer (May 15 to October 18, 2026), around CAD 46-48 in winter, shorter hours off season
 
 ### Day 9 — Montréal: the old city and Notre-Dame Basilica
 From Mont-Tremblant to Montréal it's an hour and a half. Once you arrive, the car stays at the hotel: in the city you go on foot and by subway, and on the whole island of Montréal turning right on red is banned.
@@ -164,7 +164,7 @@ The quickest route runs along the north shore on Highway 40; if you want more sc
 **In practice**
 - Montréal to Québec City: about 255 km (160 miles), 2 hours 45 minutes to 3 hours
 - Parking inside the walls is awkward: better a hotel with parking or a public lot outside the gate
-- Funicular between the upper and lower town: a few dollars each way
+- Funicular between the upper and lower town: CAD 7 per person each way, cash only, 9am-9pm (until 10pm in summer)
 - Dinner in the old town: restaurants around rue Saint-Louis are more touristy, those in the Saint-Jean neighborhood more popular with locals
 
 ### Day 12 — Montmorency Falls and the Île d'Orléans
@@ -173,7 +173,7 @@ Fifteen minutes from downtown are the **Montmorency Falls**, about 83 meters hig
 It's worth getting to the falls in the morning, before the tour buses. The panoramic staircase down the cliff has 487 steps and passes so close to the falls that you come out wet; if you don't want to climb back up, take the cable car one way. The Île d'Orléans is driven along the **Chemin Royal**, stopping at strawberry and apple stands, at a blackcurrant winery or a cider house, and in the villages of Saint-Jean and Sainte-Famille, among the oldest in Québec. *The bridge linking the island to the mainland is narrow and being replaced: at rush hour there may be a queue.* In the afternoon, the **Plains of Abraham**, the battlefield of 1759 between the British and the French, now a large park on the river.
 
 **In practice**
-- Parc de la Chute-Montmorency: parking and gondola paid (Sépaq)
+- Parc de la Chute-Montmorency: parking and gondola paid (Sépaq); admission about CAD 13.90 per adult from May to October and the gondola about CAD 14.95 round trip, plus tax
 - The Île d'Orléans loop takes half a day with stops
 - Montmorency: from the upper car park, near the Manoir Montmorency, walk down and ride the cable car back up
 - Citadelle: paid guided tours and, in summer, the Changing of the Guard in the morning

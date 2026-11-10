@@ -22,6 +22,7 @@ const T = {
     viaggi: 'Viaggi',
     destinazioni: 'Destinazioni',
     chiSono: 'Chi sono',
+    consigli: 'Consigli',
     meraviglie: 'Meraviglie',
     tuttiPaesi: 'Tutti i Paesi',
     tuttaArea: (a: string) => `Tutto su ${a}: Paesi e destinazioni`,
@@ -39,6 +40,7 @@ const T = {
     viaggi: 'Trips',
     destinazioni: 'Destinations',
     chiSono: 'About',
+    consigli: 'Tips',
     meraviglie: 'Wonders',
     tuttiPaesi: 'All countries',
     tuttaArea: (a: string) => `All of ${a}: countries and destinations`,
@@ -56,13 +58,14 @@ const T = {
     viaggi: 'Viajes',
     destinazioni: 'Destinos',
     chiSono: 'Sobre mí',
+    consigli: 'Consejos',
     meraviglie: 'Maravillas',
     tuttiPaesi: 'Todos los países',
     tuttaArea: (a: string) => `Todo ${a}: países y destinos`,
     sette: 'Las siete maravillas',
     salta: 'Ir al contenido',
   },
-} satisfies Record<Lingua, { aree: Record<string, string>; viaggi: string; destinazioni: string; chiSono: string; meraviglie: string; tuttiPaesi: string; tuttaArea: (a: string) => string; sette: string; salta: string }>
+} satisfies Record<Lingua, { aree: Record<string, string>; viaggi: string; destinazioni: string; chiSono: string; consigli: string; meraviglie: string; tuttiPaesi: string; tuttaArea: (a: string) => string; sette: string; salta: string }>
 
 
 /* Testata: marchio a macchina da scrivere a sinistra, a destra il menu
@@ -97,6 +100,7 @@ export async function Header() {
       voci: getAllMeraviglie(lingua).map((m) => ({ nome: m.nome, href: `/meraviglie/${m.slug}` })),
       tutti: { nome: t.sette, href: '/meraviglie' },
     },
+    consigli: { nome: t.consigli, href: '/consigli' },
     chiSono: { nome: t.chiSono, href: '/chi-sono' },
   }
 

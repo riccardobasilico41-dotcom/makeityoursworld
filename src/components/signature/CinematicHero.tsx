@@ -26,7 +26,7 @@ const T = {
  * basso e prosegue sul fondo scuro.
  */
 export const HERO_VIDEO = {
-  src: '/videos/runaway-hero-1600.mp4',
+  src: '/videos/runaway-hero-75s.mp4',
   srcMobile: '/videos/runaway-hero-mobile-40s.mp4',
   poster: '/videos/runaway-hero-poster.jpg',
   label: 'Runaway: montaggio video dei nostri viaggi in giro per il mondo',

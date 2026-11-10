@@ -195,7 +195,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'tour 500-900 MXN a persona',
       destinazioneSlug: 'puerto-escondido',
-      imageAlt: 'Mangrovie della Laguna di Manialtepec all\'alba',
+      immagine: '/images/messico/laguna-manialtepec-mangrovie.jpg',
+      imageAlt: 'Le mangrovie fitte sulla riva della Laguna di Manialtepec, con l\'acqua calma e scura e un pellicano in volo',
     },
     {
       titoloGiorno: 'Giorno 15 — Mazunte, Zipolite e Punta Cometa',

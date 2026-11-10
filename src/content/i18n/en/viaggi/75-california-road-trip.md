@@ -165,7 +165,7 @@ A day by the sea. We started at the **Santa Monica Pier**, where a sign marks th
 
 In the afternoon we drove north on the **Pacific Coast Highway** to **Malibu**, stopping at **El Matador Beach**, among the rocks, and at sunset a seafood dinner by the sea. At El Matador you go down a steep staircase, and at high tide the beach almost disappears. *Along the Pacific Coast Highway, work after the 2025 fires may still slow traffic: check road conditions on Caltrans QuickMap.*
 
-**In practice:** bike rental in Santa Monica roughly $15-25 for a few hours · Getty Villa in Malibu free with reservation, paid parking, check the closing day · nothing visible in the car in beach car parks.
+**In practice:** bike rental in Santa Monica roughly $15-25 for a few hours · Getty Villa in Malibu free with reservation, open 10am-5pm, closed Tuesdays, parking $25 ($15 after 3pm) · nothing visible in the car in beach car parks.
 
 ### Day 16 — Santa Barbara and the coast to Cambria
 We left Los Angeles heading north. **Santa Barbara**, an hour and a half to two hours away, is a white town with red roofs, the eighteenth-century Spanish **mission** and the walk along Stearns Wharf. The mission is visited on a self-guided route through the church, cloister, cemetery and museum, in about an hour; in town the main street, State Street, runs down to the sea, and the Funk Zone near the wharf is full of tasting rooms for local wines.

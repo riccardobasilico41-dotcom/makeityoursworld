@@ -51,11 +51,11 @@ The day started early and with logistics: the car from Sixt at Keflavík airport
 
 At **Geysir** the water shoots up every six or seven minutes: in a quarter of an hour you see it two or three times. A bit further on is **Gullfoss**, the "golden waterfall," with its two drops of 11 and 21 meters on the Hvítá river. Packed lunch, then a timed half hour at **Krónan** in Hvolsvöllur (Austurvegur 4) for groceries for the camping days.
 
-The afternoon was a string of waterfalls. At **Seljalandsfoss** (parking 700 ISK) you walk behind the curtain of water; the nearby Gljúfrabúi is reached by walking inside the river. Half an hour by car and there's **Skógafoss**, with its roughly 470 steps up to the top of the fall. In the evening we pitched the tent for the first time at the **Vík** campsite (1,950 ISK, shower 300 ISK) and had dinner there.
+The afternoon was a string of waterfalls. At **Seljalandsfoss** (parking 700 ISK) you walk behind the curtain of water; the nearby Gljúfrabúi is reached by walking inside the river. Half an hour by car and there's **Skógafoss**, with its roughly 470 steps up to the top of the fall. In the evening we pitched the tent for the first time at a campsite at the foot of a big waterfall and had dinner there. I don't remember its name: along this stretch of the south coast there are the ones at Skógafoss and Seljalandsfoss.
 
 Then the decision made almost as a joke. At the end of July the sun doesn't set, tiredness isn't enough, and so, instead of sleeping, we set off again for the **DC-3 wreck at Sólheimasandur**, abandoned on the sand since 1973. Twenty minutes by car to the parking lot on the Ring Road, then 4 km on foot over black sand, flat and with no shelter from the wind, between 40 and 60 minutes each way. *A real slog after an already full day, but probably the most absurd and memorable moment of the whole trip.* We got back to the campsite in the dead of night, with a light that never fully faded.
 
-**In practice:** Geysir and Gullfoss are free · Seljalandsfoss parking 700 ISK · Vík campsite 1,950 ISK, shower 300 ISK · cars can't go past the parking lot for the DC-3: 4 km on foot each way · shop in Hvolsvöllur, further on supermarkets are few.
+**In practice:** Geysir and Gullfoss are free · Seljalandsfoss parking 700 ISK · the campsites closest to the waterfalls are at Skógafoss and Seljalandsfoss; further on, the Vík one costs about 1,950 ISK, shower 300 ISK · cars can't go past the parking lot for the DC-3: 4 km on foot each way · shop in Hvolsvöllur, further on supermarkets are few.
 
 ### Day 3 — Dyrhólaey, Reynisfjara and the glacial lagoon
 The alarm came later than planned, because of the wreck. The best night in the tent was actually the first one: we'd arrived exhausted and mentally unprepared, and waking up in the morning right next to the waterfall was something else, wow. We set off unhurriedly toward **Dyrhólaey**: the lighthouse, the black lava arch over the sea, the sea stacks and, in summer, puffins. Right after is **Reynisfjara**, the black beach with basalt columns. Here the waves are unpredictable and dangerous: follow the signs to the letter. Quick lunch at the beach stand, hot dog or soup for 2-3,000 ISK.
@@ -158,7 +158,8 @@ With an afternoon flight you can use the morning for one last hot soak: the **Bl
   - More refined: boutique hotels in central Reykjavík (~45 min by car), for those who
     prefer to give up airport convenience on the first or last night.
 
-- **Vík — equipped campsite, 1,950 ISK + shower 300 ISK (Day 2).** The
+- **First night — a campsite at the foot of a waterfall (Day 2).** I don't remember which one: along this stretch there are the ones at Skógafoss and Seljalandsfoss, with the waterfall a few steps from the tent.
+- **Vík — equipped campsite, 1,950 ISK + shower 300 ISK (alternative for Day 2).** The
   Vík campsite (electricity, showers, shared kitchen) is effectively the only large
   facility in the area: convenient and well equipped, but in the most recent reviews
   people complain about overcrowding in high season.

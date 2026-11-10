@@ -3179,6 +3179,11 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     },
   },
   'india-sud-taj-mahal': {
+    'Giorno 17 — Bangalore e partenza': {
+      autore: 'Deepanjan Ghosh (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_LE.jpg',
+    },
     'Giorno 1 — Arrivo a Chennai e trasferimento a Mamallapuram': {
       autore: 'Mari Ganesh Kumar (Unsplash)',
       licenza: 'Unsplash License',
@@ -3308,6 +3313,11 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     },
   },
   'messico-dia-de-los-muertos': {
+    'Giorno 14 — Laguna di Manialtepec e la bioluminescenza': {
+      autore: 'Jaumahell (Wikimedia Commons)',
+      licenza: 'CC BY-SA 3.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Laguna_de_Maniltepec.JPG',
+    },
     'Giorno 1 — Arrivo a Città del Messico': {
       autore: 'Primal Felines (Unsplash)',
       licenza: 'Unsplash License',
@@ -3892,6 +3902,16 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     },
   },
   'filippine-itinerario': {
+    'Giorno 15 — Siargao: Naked, Daku e Guyam': {
+      autore: 'Tiger670 (Wikimedia Commons)',
+      licenza: 'CC BY-SA 3.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Guyam_Island_3.jpg',
+    },
+    'Giorno 10 — Il canyoning di Kawasan': {
+      autore: 'Shemlongakit (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Badian_Kawasan_Falls_Cebu.jpg',
+    },
     'Giorno 1 — Arrivo a Manila': {
       autore: 'lumoplank (Wikimedia Commons)',
       licenza: 'CC0 1.0 (pubblico dominio)',
@@ -4381,6 +4401,11 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     "Giorno 12 — Taketomi, il villaggio": { autore: 'Paipateroma (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Taketomi_kondoi_hama_2022_2.jpg' },
   },
   'hokkaido-sci-giappone': {
+    'Giorno 8 — Rusutsu': {
+      autore: 'Jeremy Eades (Wikimedia Commons)',
+      licenza: 'CC BY-SA 2.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Shiribetsudake_%26_Yoteizan_(2143420699).jpg',
+    },
     "Giorno 1 — Arrivo a New Chitose e Sapporo": { autore: 'Chiranthi W. (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Winter_Night-_Sapporo_TV_Tower.JPG' },
     "Giorno 2 — Sapporo e il Yuki Matsuri": { autore: 'Cesar I. Martins (Wikimedia Commons)', licenza: 'CC BY 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:This_is_Sapporo_(6960447275).jpg' },
     "Giorno 3 — Otaru e Kiroro": { autore: 't-konno (Wikimedia Commons)', licenza: 'CC BY-SA 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A8%BD%E9%9B%AA%E3%81%82%E3%81%8B%E3%82%8A%E3%81%AE%E8%B7%AF2013%EF%BC%88Otaru_Snow_Light_Path_2013%EF%BC%89_-_panoramio_(3).jpg' },
@@ -4418,5 +4443,12 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     "Giorno 13 — Calakmul, nella Riserva della Biosfera": { autore: 'Arian Zwegers (Wikimedia Commons)', licenza: 'CC BY 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Calakmul,_Structure_II_(14386305393).jpg' },
     "Giorno 14 — Da Xpujil a Bacalar": { autore: 'Bernard DUPONT (Wikimedia Commons)', licenza: 'CC BY-SA 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Fuerte_San_Felipe_-_Bacalar_Feb_2020.jpg' },
     "Giorno 15 — Bacalar, la laguna": { autore: 'Yosef Ben Melamed (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Bacalar_lagoon.jpg' },
+  },
+  'giava-bali-gili': {
+    'Giorno 1 — Arrivo a Giacarta e volo per Yogyakarta': {
+      autore: 'Ramayoni (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Monumen_Nasional,_Jakarta,_Indonesia.jpg',
+    },
   },
 }

@@ -12,6 +12,7 @@ const T = {
     viaggi: 'Tutti i viaggi',
     destinazioni: 'Tutte le destinazioni',
     attrezzatura: 'Cosa portare',
+    consigli: 'Consigli di viaggio',
     lavoriamo: 'Lavoriamo insieme',
     chiSono: 'Chi sono',
     comeLavoro: 'Come lavoro',
@@ -26,6 +27,7 @@ const T = {
     viaggi: 'All trips',
     destinazioni: 'All destinations',
     attrezzatura: 'What to pack',
+    consigli: 'Travel tips',
     lavoriamo: 'Work with me',
     chiSono: 'About',
     comeLavoro: 'How I work',
@@ -40,6 +42,7 @@ const T = {
     viaggi: 'Todos los viajes',
     destinazioni: 'Todos los destinos',
     attrezzatura: 'Qué llevar',
+    consigli: 'Consejos de viaje',
     lavoriamo: 'Trabajemos juntos',
     chiSono: 'Sobre mí',
     comeLavoro: 'Cómo trabajo',
@@ -82,6 +85,10 @@ export async function Footer() {
           <span className="mx-3 text-cream/30">·</span>
           <Link href="/attrezzatura" className="underline decoration-cream/30 underline-offset-4 hover:text-cream hover:decoration-cream">
             {t.attrezzatura}
+          </Link>
+          <span className="mx-3 text-cream/30">·</span>
+          <Link href="/consigli" className="underline decoration-cream/30 underline-offset-4 hover:text-cream hover:decoration-cream">
+            {t.consigli}
           </Link>
           <span className="mx-3 text-cream/30">·</span>
           <Link href="/lavoriamo-insieme" className="underline decoration-cream/30 underline-offset-4 hover:text-cream hover:decoration-cream">

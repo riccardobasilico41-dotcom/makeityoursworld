@@ -10,7 +10,6 @@ import { TornaSu } from "@/components/TornaSu";
 import { autore } from "@/lib/structured-data";
 import { localizza } from "@/lib/i18n/percorsi";
 import { siteConfig } from "@/lib/site-config";
-import { notFound } from "next/navigation";
 import { lang } from "next/root-params";
 import { LINGUE, LOCALE, isLingua } from "@/lib/i18n/config";
 import { LinguaProvider } from "@/lib/i18n/LinguaProvider";
@@ -74,8 +73,10 @@ export function generateStaticParams() {
 
 export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
   const l = await lang();
-  if (!isLingua(l)) notFound();
-  const lingua = l;
+  // La 404 statica (_not-found) si costruisce senza il parametro della lingua: con notFound() qui il
+  // layout falliva e Next mandava una pagina vuota (`__next_error__`). Il proxy fa passare solo lingue
+  // valide, quindi senza lingua si usa l'inglese, la lingua principale.
+  const lingua = isLingua(l) ? l : "en";
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Blog",

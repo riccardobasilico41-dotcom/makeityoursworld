@@ -23,6 +23,7 @@ export type Menu = {
   /** «Destinazioni»: link a /destinazioni e, a tendina, le aree con i loro Paesi */
   destinazioni: VoceMenu & { aree: GruppoMenu[] }
   meraviglie: GruppoMenu
+  consigli: VoceMenu
   chiSono: VoceMenu
 }
 
@@ -196,6 +197,11 @@ export function NavPrincipale({ menu }: { menu: Menu }) {
           ))}
 
           <li>
+            <Link href={menu.consigli.href} className={VOCE}>
+              {menu.consigli.nome}
+            </Link>
+          </li>
+          <li>
             <Link href={menu.chiSono.href} className={VOCE}>
               {menu.chiSono.nome}
             </Link>
@@ -263,6 +269,11 @@ export function NavPrincipale({ menu }: { menu: Menu }) {
                 </details>
               </li>
             ))}
+            <li className="border-b border-ink/15">
+              <Link href={menu.consigli.href} className={`flex min-h-12 items-center font-display text-xl text-ink hover:text-rosso ${FOCUS}`}>
+                {menu.consigli.nome}
+              </Link>
+            </li>
             <li className="border-b border-ink/15">
               <Link href={menu.chiSono.href} className={`flex min-h-12 items-center font-display text-xl text-ink hover:text-rosso ${FOCUS}`}>
                 {menu.chiSono.nome}

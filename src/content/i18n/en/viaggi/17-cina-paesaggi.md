@@ -18,7 +18,7 @@ My impression of China, in a nutshell: total chaos, but what a blast. You eat we
 - **Documents, payments, connectivity, trains:** the same rules as the classic itinerary apply: 30-day visa exemption through the end of 2026, Alipay or WeChat Pay set up **before** leaving, foreign eSIM or VPN installed **before**, train tickets on sale 15 days ahead, at a time that varies from station to station. Here, though, the problem gets worse: outside the big cities English disappears entirely, and the camera translator goes from convenience to necessity.
 - **Domestic flights:** on this itinerary they're unavoidable and need to go in the budget. Zhangjiajie-Chengdu, Chengdu-Lijiang and Lijiang-Guilin by train would cost a whole day each. Chinese domestic flights are cheap and frequent, but delays are common: better not to plan tight connections.
 - **Altitude:** this is the factor this itinerary adds compared to the other one. Lijiang sits at 2,400 meters, Shangri-La tops 3,200, the Impression Lijiang amphitheater is at 3,100 and the Yulong Xueshan cable car reaches 4,506. The oxygen canisters sold at the park entrance are not a souvenir. If you fly in from sea level you need to sleep at least one night in Lijiang before going up.
-- **Park admissions, the real expense:** Zhangjiajie National Park costs about 236 yuan (valid 4 days, internal shuttles included), but the elevator and cable cars are paid separately; Tianmen Shan is a separate ticket of around 250-280 yuan; for Yulong Xueshan you need admission, shuttle and cable car; Impression Lijiang costs 190-280 yuan. Added up, these items exceed everything else in the trip.
+- **Park admissions, the real expense:** Zhangjiajie National Park costs about 239 yuan (valid 4 days, internal shuttles included), but the elevator and cable cars are paid separately; Tianmen Shan is a separate ticket of about 288 yuan, with cable car, shuttles and escalators included; for Yulong Xueshan you need admission, shuttle and cable car; Impression Lijiang costs 190-280 yuan. Added up, these items exceed everything else in the trip.
 - **Mandatory reservations:** the Chengdu panda base has named entry tied to your passport and physical ticket offices closed; the Tianmen Shan cable car has limited time slots; the big Yulong Xueshan cable car has daily quotas that sell out; Impression Lijiang has to be booked by choosing the performance.
 - **Approximate budget:** lower than the classic itinerary on lodging and food (in provincial cities a new, clean room can be found for 40€, a meal costs less than 10), higher on domestic transport and park admissions.
 - **Food:** three different cuisines in eighteen days. Hunan's is the spiciest in China in the strict sense: it burns, period. Sichuan adds the pepper that numbs the tongue, the famous "málà." Yunnan is the exact opposite: mushrooms, flowers, herbs and even cheeses, very rare in the rest of the country.
@@ -56,7 +56,7 @@ Don't miss the **walkway carved into the rock that passes behind the waterfall**
 
 **We slept in the town**, in a guesthouse overlooking the river: it's the only reason not to do it as a day trip.
 
-**In practice:** train tickets on 12306 or Trip.com with your passport, best bought as soon as sales open · Furong Zhen has an entry ticket for the village, check at the time · the waterfall is lit up until late in the evening
+**In practice:** train tickets on 12306 or Trip.com with your passport, best bought as soon as sales open · Furong Zhen has an entry ticket for the village, about 108 yuan, valid 3 days · the waterfall is lit up until late in the evening
 
 ### Day 4 — To Zhangjiajie
 We transferred to **Wulingyuan**, the town just outside the main entrance of the national park (about 2 hours by car or bus from Furong Zhen).
@@ -67,7 +67,7 @@ The afternoon was for getting organized, which matters more here than elsewhere:
 
 The park has four entrances: **Wulingyuan**, the national forest one near Zhangjiajie city, **Yangjiajie** and **Tianzi Shan**. You buy the ticket once, it's valid for several consecutive days and includes the eco-buses linking the areas; the Bailong elevator, the cable cars and the Ten-Mile Gallery mini-train are paid separately. At the first entry the ticket is registered with your passport and face recognition. In the evening, in town, buy water and snacks for the next day, a light raincoat and some supplies: inside the park there are kiosks, but they cost more. *It's worth fixing tomorrow's route now, area by area, and leaving on the first bus.*
 
-**In practice:** Furong Zhen to Wulingyuan by bus via Zhangjiajie or car with driver, about 2 hours · park ticket with eco-buses around 230-240 yuan, valid 4 days · in Wulingyuan simple restaurants and hotels of every level near the entrance
+**In practice:** Furong Zhen to Wulingyuan by bus via Zhangjiajie or car with driver, about 2 hours · park ticket with eco-buses about 239 yuan, valid 4 days, with mandatory booking of the visit day · in Wulingyuan simple restaurants and hotels of every level near the entrance
 
 ### Day 5 — Yuanjiajie and the Bailong Elevator
 We were **at the entrance at opening**, not a minute later: it's the difference between five minutes of line for the elevator and an hour and a half.
@@ -87,7 +87,7 @@ It's the part almost nobody does and it's worth half a day: looking at those pil
 
 To get up to Tianzi Shan you can use the cable car or the eco-bus to the **Helong** area, where the lookouts face the **Imperial Brush Peaks**, spires that look like upturned brushes. The Golden Whip Stream trail is about seven and a half kilometers long, almost all flat, and takes two to three hours to the national forest entrance. Macaques used to tourists live along the stream: *no food in your hands or visible in your bags, because they snatch it*. If your legs still have it, add the **Ten-Mile Gallery**, the valley of pillars with the mini-train that runs through it in a few minutes.
 
-**In practice:** Tianzi Shan cable car about 70 yuan one way · the eco-buses are included in the ticket, at peak times you wait · from the bottom of the stream you exit at the national forest entrance, buses to Wulingyuan from there
+**In practice:** Tianzi Shan cable car about 72 yuan one way · the eco-buses are included in the ticket, at peak times you wait · from the bottom of the stream you exit at the national forest entrance, buses to Wulingyuan from there
 
 ### Day 7 — Tianmen Shan and flight to Chengdu
 We went into the city for a day at **Tianmen Shan**, with the cable car time slot booked in advance. The cable car, almost seven and a half kilometers long, is among the longest in the world: it leaves from the city center, takes almost half an hour and near the end flies over the road of 99 hairpin turns.
@@ -145,7 +145,7 @@ The hard part is the climb of the **28 bends**, a solid hour of switchbacks out 
 
 Five or six hours of walking, and the night in a guesthouse on the trail. There's nothing to do but have dinner all at the same table and look at the mountain on the other side, and that is exactly the point.
 
-**In practice:** bus or car Lijiang to Qiaotou about 2 hours, gorge entry ticket at the start · along the 28 bends locals offer horses for hire for the climb · guesthouses on the high trail to book in summer, cash useful for small expenses
+**In practice:** bus or car Lijiang to Qiaotou about 2 hours, gorge entry ticket at the start, about 45 yuan · along the 28 bends locals offer horses for hire for the climb · guesthouses on the high trail to book in summer, cash useful for small expenses
 
 ### Day 13 — Second day of trek and Shangri-La
 Three or four hours of walking to **Walnut Garden** and the descent to the valley floor. If you want, you can go down to the Tiger Leaping Stone, on the river, with a steep staircase to do there and back.
@@ -185,7 +185,7 @@ In the morning we took the **bamboo raft on the Xingping-Yangdi stretch**: an ho
 
 *On the choice between the raft and the long cruise from Guilin, it's best to be clear: the cruise lasts four hours, costs quite a lot and is done on a two-deck boat with two hundred other people. The raft covers only the best stretch, lasts an hour, costs a fraction and you sit half a meter from the water.*
 
-**In practice:** the climb up Xianggong takes about twenty minutes on steps, with an entry ticket; you need a headlamp · Xingping-Yangdi rafts to book the day before through your guesthouse · Yangshuo to Xingping about an hour by bus or taxi
+**In practice:** the climb up Xianggong takes about twenty minutes on steps, with an entry ticket; you need a headlamp · Xingping-Yangdi rafts, about 216-225 yuan per person, to book the day before through your guesthouse · Yangshuo to Xingping about an hour by bus or taxi
 
 ### Day 17 — Yangshuo by bicycle
 It's the day with no plan, which on a trip to China is worth more than it seems: an **electric bike** and the road along the **Yulong River**, five hours stopping wherever you happen to be among rice paddies, water buffalo and stone bridges.
