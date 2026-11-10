@@ -11,6 +11,8 @@
 ## Apertura personale
 Raja Ampat es el lugar más bonito que he visto bajo el agua, y también el más cansado de alcanzar. Este itinerario lo pone después de Bali y del norte de Célebes, porque de Manado a Sorong hay vuelo directo, y desde Sorong se vuelve hacia Bali. Así tres islas lejanísimas encajan en doce días sin volver atrás.
 
+A Indonesia he vuelto por la gente, por los lugares y por las sonrisas, un poco como me pasa con Tailandia.
+
 Doce días son pocos para tres islas, y lo digo de entrada: cada isla merece al menos una semana, si no más. Esta es la ruta para quien tiene poco tiempo y quiere ver lo distinta que es Indonesia de una isla a otra. Más abajo están también las dos versiones con una sola isla además de Bali: solo Célebes o solo Raja Ampat. Se eligen según la época.
 
 Fuimos en agosto, que en todas las guías aparece como la temporada equivocada para Raja Ampat. En parte lo es, pero de una forma distinta de la que se espera: el mar estuvo espectacular igualmente, diez días sin ver una gota de lluvia. El viento, en cambio, se hizo notar, y alargó un par de traslados entre las islas.

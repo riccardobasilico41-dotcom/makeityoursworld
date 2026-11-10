@@ -53,6 +53,8 @@ From the headquarters you reach it on foot along a forest trail of twenty minute
 
 In the evening there's the **guided night walk**, which almost everyone skips out of tiredness and which is the best part: by day the forest is quiet and you can't see anything, at night it's deafeningly loud and with a flashlight you pick out spiders, snakes and eyes shining among the leaves. You head out after dinner with the guide for a couple of hours; you need a headlamp, long sleeves and closed shoes, and you walk slowly, stopping often. *In the wet season you need anti-leech socks: they climb up from your feet and it's no small detail.* Wear repellent during the day too, and always carry more water than you think.
 
+*My memory: at Taman Negara we saw few animals, but maybe because it was high season and there were loads of people. We spent one night in a cave; it rained, and the walk back the next day was fun, with all the leeches: my friend even found one under his armpit. How to prepare is explained further down, in the section on leeches.*
+
 **In practice:** canopy walkway usually open from morning to early afternoon, ticket a few ringgit, closed one day a week and in bad weather (check at the headquarters) · guided night walk bookable in Kuala Tahan, a few tens of ringgit · get anti-leech socks before going in · at least two liters of water each.
 
 ### Day 5 — To the Cameron Highlands
@@ -144,7 +146,7 @@ We flew out of Changi, one of the few airports in the world where it's worth arr
 
 ## Dove abbiamo dormito
 - **Kuala Lumpur:** Bukit Bintang for convenience, Chinatown for prices and character. The rule is to stay near a monorail stop.
-- **Taman Negara:** Kuala Tahan, on the bank across from the entrance, with the floating restaurants on the river. Inside the park you sleep better and you're already on the right side in the morning.
+- **Taman Negara:** Kuala Tahan, on the bank across from the entrance, with the floating restaurants on the river. Inside the park you sleep better and you're already on the right side in the morning. We spent one night in a cave, inside the park.
 - **Cameron Highlands:** Tanah Rata. The rooms have no heating: at night it gets seriously cold and blankets matter more than stars.
 - **Penang:** inside the UNESCO perimeter of George Town, in a restored shophouse. Batu Ferringhi has the beaches but cuts you off from the part that counts.
 - **Malacca:** in the historic center, on the Chinatown side.
@@ -156,6 +158,17 @@ We flew out of Changi, one of the few airports in the world where it's worth arr
 - **Cameron Highlands:** steamboat in the evening because it's cold, tea and scones in the plantation tea rooms.
 - **Malacca:** Nyonya cooking (ayam pongteh, Nyonya laksa, chicken rice balls) and satay celup, cooked by the diners in a pot of peanut sauce in the middle of the table.
 - **Singapore:** hawker centers, always. Hainanese chicken, Katong laksa, char kway teow, roti prata for breakfast, carrot cake that isn't a cake.
+- **Durian:** the fruit you find everywhere in Malaysia. My verdict? I think it's absolutely disgusting, haha.
+
+## Leeches: how to prepare and how to remove them
+At Taman Negara, especially after rain, leeches are almost guaranteed. They aren't known to transmit diseases and they're more unsettling than harmful, but it pays to arrive prepared. This is general information, not medical advice.
+
+- **What to wear:** leech socks over your normal socks and inside your shoes, long trousers tucked into your socks, long sleeves. Normal socks alone aren't enough: leeches get through the weave.
+- **What to bring:** leech socks (best bought before you enter the park), DEET repellent to spray on socks, shoes and trouser hems, gauze, plasters and a disinfectant.
+- **On the trail:** check yourself at every stop, including where you wouldn't expect (toes, waistband, neck, armpits), and do it calmly before getting into your tent, sleeping bag or room.
+- **How to remove them:** slide a fingernail or something flat, like a card, along the skin under the small sucker, the mouth end, until it lets go; then detach the other end and flick it away. Don't pull them off by force and don't use salt, fire, cigarettes or repellent on an attached leech: it can regurgitate into the wound and raise the risk of infection.
+- **Afterwards:** the wound bleeds for a long time, even hours, because of the anticoagulant: that's normal. Wash with soap and water, disinfect, press with gauze and cover with a plaster, changing it until the bleeding stops. Don't scratch, even if it itches for days.
+- **When to see a doctor:** if you notice signs of infection (spreading redness, swelling, pus, fever) or of an allergic reaction (widespread swelling, rash, dizziness); difficulty breathing is an emergency.
 
 ## Practical tips / mistakes not to repeat
 - **Choose the coast before the dates.** The monsoons on Malaysia's two coasts are opposite, and that shapes everything else.

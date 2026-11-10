@@ -88,6 +88,7 @@ Raclette, fondue savoyarde, tartiflette, i formaggi Beaufort e Reblochon, i bian
 - **Controllare il calendario delle vacanze scolastiche** prima di prenotare.
 - **Comprare l'assicurazione soccorso piste.**
 - **Non arrivare di sabato in alta stagione senza mettere in conto le code.**
+- **Scio qui come scio ovunque**, ed è il modo che consiglio sempre: si sale appena aprono gli impianti, per cercare di essere tra i primi, uno spuntino al volo a metà mattina e poi si tira fino alle due, due e mezza. A quel punto si stacca la spina in baita e si smette. Così il pranzo lo fai quando c'è meno gente in giro, e nel pomeriggio, quando le piste sono più «mangiate», sei già a posto.
 
 ## Chiusura personale
 La differenza tra una stazione integrata e un villaggio tradizionale si sente il giorno di brutto tempo: nella prima non c'è niente da fare se gli impianti chiudono, nel secondo la vita del paese continua comunque.

@@ -154,6 +154,8 @@ With a free afternoon you can stop in **Jimbaran**, on the way to the airport, w
 ## Chiusura personale
 This loop combines Indonesia's most famous side with a piece of its wildest, with short transfers. Bali is better seen from Ubud and Uluwatu. The Nusas should be taken slowly and with early alarms. Komodo remains the place where an animal lying still in the shade manages to impress you more than any view. If you have a few extra days, stretch it out: each of these islands deserves at least a week.
 
+What made me go back to Indonesia, though, is the people: the places and the smiles.
+
 *From Rick come the take on Bali and the Kecak dance, the advice about the first boat to Nusa Penida, the three nights on Penida explored at an easy pace, the memories of the dragons, of Rinca and of Padar at sunrise, and the recommended contacts (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). The rest comes from the site's destination pages and from research on November 5, 2026: the Love Bali site for the tourist levy, ANTARA for the Komodo park fees in force since October 30, 2024, operators and industry guides for the boats from Sanur, the list of routes from Labuan Bajo airport and gov.uk's advice on boat safety. Boat times and prices and the Nusa local tax need to be rechecked before you go.*
 
 ## Tag

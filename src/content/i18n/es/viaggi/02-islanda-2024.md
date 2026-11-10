@@ -42,7 +42,7 @@ Aterrizamos en Keflavík a última hora de la tarde, y la primera Islandia fue e
 
 Cenamos en **Kaffi Duus**, pescado variado por unos 30 €. Aquí probé el **filete de ballena**. Es un plato que da que hablar: en Islandia la caza de ballenas sigue permitida pero está muy cuestionada, y conviene hacerse una idea antes de pedirlo. Se llega todavía con el 55: cinco minutos a pie hasta la parada, diez de autobús, otros diez a pie desde Hringbraut & Melteigur. Después dimos una vuelta por los locales de Keflavík y volvimos, siempre en autobús, con un ojo en el reloj: el último pasa poco después de las 23 h y no hay que perderlo.
 
-Fue en estos primeros días, en la península de Reykjanes, cuando vi de cerca el **volcán en erupción**: la zona de Grindavík y Fagradalsfjall, a pocos minutos del aeropuerto, que entró en actividad varias veces entre 2023 y 2024. Fui por mi cuenta, sin tour. Fue una de las experiencias más fuertes de todo el viaje. Pero las erupciones van y vienen y la zona se cierra a menudo: antes de salir, comprueba el estado de la zona en safetravel.is.
+Fue en estos primeros días, en la península de Reykjanes, cuando vi de cerca el **volcán en erupción**: la zona de Grindavík y Fagradalsfjall, a pocos minutos del aeropuerto, que entró en actividad varias veces entre 2023 y 2024. Fui por mi cuenta, sin tour. Fue una de las experiencias más fuertes de todo el viaje, sobre todo durante la subida, cuando caminamos junto a las coladas: se veían a una distancia prudente, con la lava bajando despacio. Piedra incandescente: guau. Pero las erupciones van y vienen y la zona se cierra a menudo: antes de salir, comprueba el estado de la zona en safetravel.is.
 
 **En la práctica:** autobús 55 desde el aeropuerto, unos 4 € por trayecto, último poco después de las 23 h · cena en Kaffi Duus unos 30 € · antes de ir hacia la erupción, comprobar cierres y calidad del aire en safetravel.is · en Reykjanes hacen falta botas de trekking y chaqueta cortavientos también en verano.
 
@@ -58,7 +58,7 @@ Luego la decisión tomada casi en broma. A finales de julio el sol no se pone, e
 **En la práctica:** Geysir y Gullfoss de entrada libre · Seljalandsfoss aparcamiento 700 ISK · camping de Vík 1.950 ISK, ducha 300 ISK · al DC-3 los coches no pueden pasar del aparcamiento: 4 km a pie por trayecto · hacer la compra en Hvolsvöllur, más adelante hay pocos supermercados.
 
 ### Día 3 — Dyrhólaey, Reynisfjara y la laguna glaciar
-El despertador sonó más tarde de lo previsto, por culpa del avión. Salimos con calma hacia **Dyrhólaey**: el faro, el arco de lava negra sobre el mar, los farallones y, en verano, los frailecillos. Justo después está **Reynisfjara**, la playa negra con las columnas de basalto. Aquí las olas son imprevisibles y peligrosas: las indicaciones hay que seguirlas al pie de la letra. Comida rápida en el chiringuito de la playa, perrito caliente o sopa por 2-3.000 ISK.
+El despertador sonó más tarde de lo previsto, por culpa del avión. La noche en tienda más bonita fue precisamente la primera: habíamos llegado agotados y mentalmente sin preparar, y despertarse por la mañana al lado de la cascada fue algo increíble, guau. Salimos con calma hacia **Dyrhólaey**: el faro, el arco de lava negra sobre el mar, los farallones y, en verano, los frailecillos. Justo después está **Reynisfjara**, la playa negra con las columnas de basalto. Aquí las olas son imprevisibles y peligrosas: las indicaciones hay que seguirlas al pie de la letra. Comida rápida en el chiringuito de la playa, perrito caliente o sopa por 2-3.000 ISK.
 
 Por la tarde fuimos hacia el interior. Con una hora y cuarto de conducción se llega al cañón de **Fjaðrárgljúfur**, de un centenar de metros de profundidad y dos kilómetros de largo, mucho menos concurrido que los otros lugares de la zona. Otros tres cuartos de hora y se entra en **Skaftafell**, en el parque del Vatnajökull, el más grande de Europa, donde los senderos llevan también a la cascada negra de Svartifoss.
 
@@ -87,7 +87,7 @@ Cuarenta minutos después está **Ásbyrgi**, el cañón en forma de herradura q
 **En la práctica:** en Stuðlagil el lado oeste tiene la plataforma mirador cerca del aparcamiento, el lado este exige una caminata de unos kilómetros pero llega al fondo del cañón · Dettifoss lado oeste por la Route 862 asfaltada · camping de Ásbyrgi abierto de mediados de mayo a finales de octubre · repostar cuando se pueda, en el noreste las gasolineras escasean.
 
 ### Día 6 — Húsavík, avistamiento de ballenas y el lago Mývatn
-Con una hora de carretera llegamos a **Húsavík**, que se hace llamar capital mundial del avistamiento de ballenas. La salida clásica dura tres horas y parte del puerto viejo, en uno de los barcos tradicionales de roble restaurados. En la bahía de Skjálfandi se buscan yubartas y rorcuales aliblancos; con suerte, orcas o ballenas azules.
+Con una hora de carretera llegamos a **Húsavík**, que se hace llamar capital mundial del avistamiento de ballenas. La salida clásica dura tres horas y parte del puerto viejo, en uno de los barcos tradicionales de roble restaurados. En la bahía de Skjálfandi se buscan yubartas y rorcuales aliblancos; con suerte, orcas o ballenas azules. Nosotros vimos ballenas y frailecillos muy de cerca, pero con un frío horrible, incluso con los trajes extra que nos dieron.
 
 Después de una comida rápida, otra hora en coche nos llevó al **lago Mývatn**, una de las zonas geotérmicas más activas de la isla. En pocas horas se pasa de la cueva de **Grjótagjá**, con el manantial caliente de una escena de Juego de Tronos (hoy no apto para el baño, la temperatura es imprevisible), al cráter anular de **Hverfjall**, a las fumarolas y al barro hirviente de **Hverir**, donde el olor a azufre es fortísimo, hasta los laberintos de lava de **Dimmuborgir**, con la «iglesia» natural de Kirkjan. La última parada es **Goðafoss**, la «cascada de los dioses», ligada a la cristianización de Islandia en el año 1000.
 
@@ -230,6 +230,7 @@ Quien tenga el vuelo por la tarde puede aprovechar la mañana para un último ba
 - **Mochila, no trolley**: 50/60 litros, para facturar (no en cabina, sobre todo
   con las low-cost).
 - **Saco de dormir, esterilla, almohada de camping** (si no se alquilan en el lugar).
+  Por suerte, cuando fuimos nosotros nunca llovió fuerte de noche, pero un par de noches hizo un frío de verdad. ¿Lo menos agradable? Salir del saco de dormir calentito para ir al baño. Tremendo, jaja.
 - **Ropa interior térmica**, chaqueta cortavientos impermeable con capucha (nada de paraguas, el
   viento es demasiado fuerte), botas de trekking + un par de repuesto.
 - **Bañador que no sea nuevo ni valioso**: las aguas geotérmicas de la Blue Lagoon
@@ -252,7 +253,7 @@ Quien tenga el vuelo por la tarde puede aprovechar la mañana para un último ba
   hay que gestionarlas con quien conducía).
 
 ## Chiusura personale
-Si tuviera que repetirlo, estaría mucho más atento a las distancias y a los imprevistos. Aquí basta poco: un pinchazo o, como nos pasó a nosotros, la batería de un coche descargada. Tuvimos que posponer todo y saltarnos algunas paradas. Por eso el consejo es planificar sin compactarlo todo y dejar margen entre una parada y otra. Y lleva la comida de casa, porque en Islandia cuesta mucho, de verdad mucho.
+Si tuviera que repetirlo, estaría mucho más atento a las distancias y a los imprevistos. Aquí basta poco: un pinchazo o, como nos pasó a nosotros, la batería de un coche descargada. No recuerdo exactamente dónde estábamos, creo que cerca de donde se ven las ballenas, pero no sabría decirlo con precisión. Llamamos a la grúa y pagamos un dineral, porque no teníamos el seguro de asistencia en carretera. Tuvimos que posponer todo y saltarnos algunas paradas. Por eso el consejo es planificar sin compactarlo todo y dejar margen entre una parada y otra. Y lleva la comida de casa, porque en Islandia cuesta mucho, de verdad mucho.
 
 ## Tag
 `#islanda` `#ring-road` `#campeggio` `#on-the-road` `#vulcano` `#ghiacciaio`

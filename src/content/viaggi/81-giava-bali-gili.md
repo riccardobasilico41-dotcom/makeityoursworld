@@ -11,6 +11,8 @@
 ## Apertura personale
 Questo è il pezzo di Indonesia che ho fatto nella prima metà del viaggio lungo, da Yogyakarta alle Gili. Qui è stretto in due settimane, che è il tempo che ha quasi chiunque parta dall'Italia.
 
+Se in Indonesia continuo a tornare, il merito è della gente prima ancora dei posti: i sorrisi, come in Thailandia.
+
 Giava è la parte che fa meno vacanza e lascia il ricordo più netto. All'Ijen siamo saliti al buio con la maschera antigas e accanto a noi passavano i minatori con le ceste di zolfo sulle spalle. Al Bromo l'alba è spettacolare, anche se si divide con centinaia di jeep. Le foto dall'alto di questa pagina le ho fatte col drone: il Bromo all'alba, la porta di Handara, le risaie di Jatiluwih, le isolette delle Gili.
 
 Bali la giro lontano dal sud. Dormo verso l'interno, a Munduk e a Ubud, e scendo sulla costa solo per Uluwatu e la danza Kecak. Le Gili chiudono il viaggio con tre giorni lenti, senza auto né motorini.

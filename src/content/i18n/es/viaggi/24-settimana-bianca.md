@@ -11,6 +11,8 @@
 ## Apertura personale
 La semana blanca es el viaje italiano que más se decide por costumbre: se va adonde siempre se ha ido, en la semana en que siempre se ha ido, y se paga lo que siempre se ha pagado. Es una lástima, porque en la misma zona esquiable, en el mismo apartamento, la misma semana puede costar el doble o la mitad según la fecha, y porque el criterio que hoy cuenta más que ninguno, la **cota**, casi nunca entra en la decisión. Con los inviernos de los últimos años, por debajo de los mil ochocientos metros la nieve natural ya no está garantizada, y elegir una estación por fama en lugar de por altitud es la forma más rápida de encontrarse una lengua blanca en medio de la hierba. Este itinerario está construido sobre una zona esquiable dolomítica como ejemplo, pero lo útil son los criterios: valen en cualquier sitio.
 
+Hago semanas blancas desde pequeño, tanto fines de semana como estancias más largas.
+
 ## Scheda pratica
 - **Cuándo ir — la elección que más vale:**
   - **Navidad y Nochevieja:** las dos semanas más caras del año, con diferencias **incluso del cuarenta por ciento** respecto a enero. Pistas llenas, colas, reservas con meses de antelación.
@@ -127,6 +129,7 @@ Hacia mediodía se devuelven esquís y botas, se recupera la posible fianza de l
 - **No salir de lo pisado sin ARVA, pala, sonda y la capacidad de usarlos**, y sin haber leído el boletín de aludes.
 - **No salir al Sellaronda después de las nueve**, y comprobar el viento.
 - **No subestimar el tráfico del sábado** en las carreteras de regreso.
+- **Mi jornada de esquí**, la que recomiendo siempre: se sube en cuanto abren los remontes, para intentar estar entre los primeros, un tentempié rápido a media mañana y luego a tope hasta las dos, dos y media. En ese momento se desconecta en el refugio y se acaba. Así comes cuando hay menos gente y por la tarde, cuando las pistas están más «comidas», ya has terminado.
 
 ## Chiusura personale
 Lo que se entiende después de unas cuantas semanas blancas es que el placer no está en los kilómetros. Se puede pasar un día macerando pistas y volver por la noche sin recordar nada, o hacer la mitad de esos kilómetros, pararse a las once en un refugio a dos mil cuatrocientos metros, pedir algo caliente y quedarse veinte minutos sentado al sol con una pared rosa delante. En Francia lo primero lo hacen mejor; lo segundo, aquí, nadie lo hace mejor que nosotros. Y luego está esa mañana (ocurre una vez por semana, con suerte) en que se coge el primer telesilla con la pista recién pisada, todavía no hay nadie, y se baja por algo liso y perfecto que dentro de una hora ya no existirá. Por esa media hora, en el fondo, se paga todo lo demás.

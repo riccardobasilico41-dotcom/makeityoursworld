@@ -30,7 +30,7 @@ If you have time and energy left, the **Fjellheisen** (the cable car up Mount St
 **In practice:** from the airport to the centre by bus or taxi, a few kilometres · the Arctic Cathedral is across the fjord, reachable on foot over the bridge or by bus · Fjellheisen 495 NOK return, open until midnight in winter · shoe spikes help on icy pavements.
 
 ### Day 2 — Aurora Chase by Minibus
-We devoted the evening to chasing the northern lights with a guide in a minibus (small groups, usually 8-16 people). You leave the city to get away from light pollution and chase clear sky, even for a couple of hours if needed: sometimes along the coast, sometimes inland, on some evenings even across the border, in Finland. The excursion adapts to the evening's weather, so departure and destination are decided at the last minute by the guides, based on the forecasts and the aurora index.
+We devoted the evening to chasing the northern lights with a guide in a minibus (small groups, usually 8-16 people). You leave the city to get away from light pollution and chase clear sky, even for a couple of hours if needed: sometimes along the coast, sometimes inland, on some evenings even across the border, in Finland. The excursion adapts to the evening's weather, so departure and destination are decided at the last minute by the guides, based on the forecasts and the aurora index. We went out twice: the first time we stayed just outside the city, the second we had to go a good deal farther, practically toward Sweden.
 
 Well-known operators in the area are Chasing Lights and Tromsø Friluftsenter. It's a long outing, 6-8 hours, around €100-160 per person; several tours include a stop with a fire and hot tea and a few night photography tips.
 
@@ -92,7 +92,7 @@ Local cuisine revolves a lot around king crab (kongekrabbe) and dried cod (tørr
 | Whale watching (optional) | €130-260 |
 
 ## Chiusura personale
-Even with few direct memories, what stayed with me most is the feeling of the polar night's darkness broken by the city lights and by the aurora, seen moving across the sky for the first time. Of the three excursions, the one I'd definitely do again is the husky sledding: the white silence all around, broken only by the dogs' breath, is a sharper memory than many others from this trip.
+Even with few direct memories, what stayed with me most is the feeling of the polar night's darkness broken by the city lights and by the aurora, seen moving across the sky for the first time. The dog sledding was nice, but I wouldn't do it again: it felt a bit so-so to me. Then again, I'm sensitive when it comes to animals, so take that with a grain of salt, and it's a judgment made in hindsight: it's still a really beautiful experience.
 
 ## Tag
 `#norvegia` `#tromso` `#aurora-boreale` `#inverno` `#cultura-sami`

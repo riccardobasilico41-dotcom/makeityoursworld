@@ -44,7 +44,7 @@ The visit to the site takes about three hours, with a guide: Anil, who goes arou
 ### Day 3 — Anuradhapura-Dambulla: Mihintale and safari
 Wake-up before dawn and half an hour on the road to **Mihintale**, where according to tradition Buddhism arrived in Sri Lanka in the 3rd century BC. The visit lasts a couple of hours: entrance 500 LKR, a sarong for rent at 50 LKR and socks for walking in the temples.
 
-An hour and a half later we were on the **safari** jeep. I did it at **Minneriya**; depending on the season and where the elephants have moved, the local DMC may suggest Hurulu or Kaudulla. You spend about 12,000 LKR per jeep, for six or seven people, plus entrance. Along the way we had an excellent typical lunch, around 2,000 LKR.
+An hour and a half later we were on the **safari** jeep. I did it at **Minneriya**; depending on the season and where the elephants have moved, the local DMC may suggest Hurulu or Kaudulla. You spend about 12,000 LKR per jeep, for six or seven people, plus entrance. Along the way we had an excellent typical lunch, around 2,000 LKR. *My memory: at Minneriya we saw loads of elephants.*
 
 In the late afternoon we climbed **Pidurangala Rock** for sunset: half an hour up with a demanding last stretch, so real shoes and not flip-flops. In front is Sigiriya Rock, and it is one of the most beautiful views of the trip. At the top you pay 1,000 LKR; you need the sarong and a headlamp to come down in the dark. Dinner in Dambulla, at **Mom's Kitchen** or the **Golden Palace**.
 
@@ -69,7 +69,7 @@ In the evening there is the **Temple of the Tooth**. The ceremony begins as the 
 **In practice:** Dambulla Golden Temple, ticket office closes at 5pm and temple at 7pm, shoes at the deposit · Dambulla-Kandy about 2 hours, with a stop at Ranweli Spice Garden · Temple of the Tooth 2,000 LKR, sarong compulsory, queue from late afternoon for the evening ceremony.
 
 ### Day 6 — Kandy-Nallathanniya: rafting at Kitulgala
-We left Kandy in the morning; if the guide agrees, there's an unscheduled stop at a local orphanage. Two hours later we reached **Kitulgala**, for a day on the water: **rafting on the Kelani River**, the same one where *The Bridge on the River Kwai* was filmed, organised by the DMC. The classic stretch takes a couple of hours, with rapids suitable even for first-timers, helmet and life jacket provided by the operator. With the operator you can add canyoning, waterfall jumps and a jungle walk with lunch.
+We left Kandy in the morning; if the guide agrees, there's an unscheduled stop at a local orphanage. Two hours later we reached **Kitulgala**, for a day on the water: **rafting on the Kelani River**, the same one where *The Bridge on the River Kwai* was filmed, organised by the DMC. The classic stretch takes a couple of hours, with rapids suitable even for first-timers, helmet and life jacket provided by the operator. With the operator you can add canyoning, waterfall jumps and a jungle walk with lunch. *My memory: the rafting was great fun, right in the middle of wild, living nature. Really, really beautiful.*
 
 In the evening we arrived in **Hatton/Nallathanniya**, the base for climbing **Adam's Peak**, the same night or the next. After Kitulgala the road climbs through the tea plantations, with many bends, and it's best to arrive before dark. Dinner at the hotel, early. *If you climb the same night, go to bed straight after dinner: the alarm goes off in the middle of the night, and sweatshirt, head torch, water and snacks need to be ready.*
 
@@ -93,6 +93,8 @@ You dine at **De Silva Food Center**, **Grand Indian**, **Grand Thai** or, the m
 
 ### Day 8 — Nuwara Eliya-Ella: the scenic train
 After breakfast we went to the station for the **train from Nanu Oya to Ella**. On paper it's three hours; I left in the early afternoon and arrived late in the evening, with nothing to eat on board. *It is the most photographed route in Sri Lanka, among tea valleys, bridges and tunnels, but it must be taken with the right spirit: delays are the norm.*
+
+*My memory: I had a seat, but in some carriages they open the doors; in theory you're not allowed to, but the inspectors look the other way, let's say. First class should have windows that don't open, because it's air-conditioned: if you can choose, go for second.*
 
 At **Ella**, before or after the train, if time allows: the **Nine Arches Bridge**, symbol of the country (trains pass several times a day, between morning and late afternoon, but the times are not reliable), the **Lipton's Seat** viewpoint, about an hour and a quarter away, Lover's Leap Falls, the Flying Ravana zip line fifteen minutes away (about €20) and a massage at Spa Ceylon.
 

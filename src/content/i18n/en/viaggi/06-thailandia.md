@@ -12,6 +12,8 @@ visits to Bangkok, and separate trips to Chiang Mai, Phuket and the Similan Isla
 ## Apertura personale
 I've seen Bangkok many times over the years, and each time I discovered something different: a line from seven in the morning for Jay Fai's Michelin-starred street food, a different rooftop bar every evening, a new neighborhood found almost by chance. More than a single trip, Thailand for me is the sum of several different trips over time (the main 11-day loop through jungle and southern islands, plus repeated visits to Bangkok and separate trips to Chiang Mai and the Similan Islands), each with its own different Thailand to tell.
 
+Bangkok is incredible: a mix of contrasts.
+
 ## Scheda pratica
 - **Documents:** no visa needed for short tourist stays (up to
   30 days by air), a valid passport is enough.
@@ -86,6 +88,8 @@ For dinner, the Sea Salt Krabi Restaurant or the Reeve Beach Club Krabi; for the
 We took the ferry in the morning from Ao Nopparat Thara Pier (check-in half an hour before) and in two and a half hours we reached **Koh Phi Phi**, at Tonsai Pier. The afternoon offers a boat trip to **Bamboo Island** or half a day of diving with Blue View Divers.
 
 For dinner, the Dow Restaurant or the ACQUA Restaurant. The evening is at the Backpacker Bar or the Reggae Bar, where the amateur Muay Thai fights are great fun to watch. Koh Phi Phi has no roads for cars: from the pier to the hotels you walk or use the porters' carts, so bring luggage that's easy to carry. On arrival at the pier you pay a small island entry fee. *If you have time, climb to the **viewpoint** above Tonsai, about half an hour of steps, to see the two bays almost touching: it's best at sunset, but bring water.* **Maya Bay** can only be visited with capped access and no swimming.
+
+*My memory: on Phi Phi we were on the beach. Be careful with ice and local alcohol; and when they put on fire shows, if you stand too close you'll smell of kerosene the next day too, and now and then you risk stains on your clothes from the stuff they throw around.*
 
 **In practice:** ferry from Ao Nopparat Thara, check-in half an hour before · entry fee at Tonsai pier of about 20 baht, in cash · viewpoint ticket of about 30-50 baht · book dives the day before · Tonsai is very noisy at night: if you want to sleep, pick a hotel away from the bars.
 
@@ -185,7 +189,8 @@ a restaurant:
   from the charcoal flame. Her crab omelette (kai jeaw poo) costs
   over 1,000 THB: expensive for street food, but an experience in itself.
   *You have to arrive early (before 8:00) and put your name on a list on a
-  sheet of paper, or book by email well in advance.*
+  sheet of paper, or book by email well in advance.* *My memory:
+  an hour and a half in line, and I got lucky.*
 - **Thipsamai**: the most famous pad thai in Bangkok, often cited among the
   Bib Gourmands (the "good value for money" category of the Michelin
   Guide), in the Old City near Jay Fai.

@@ -139,7 +139,8 @@ Dos días en Roma funcionan solo si se acepta una regla: **se renuncia al Vatica
 - **El quinto quarto en Testaccio**, la cocina de un barrio nacido alrededor del matadero.
 - **El maritozzo con nata** en el desayuno, al menos una vez.
 - **Para beber:** los blancos de los Castelli y el Cesanese, el tinto laziale que casi nadie conoce.
-- **Regla general:** alejarse **tres manzanas** de los monumentos principales cambia la calidad y reduce a la mitad la cuenta. Los restaurantes con las fotos de los platos expuestas y el captador en la puerta hay que evitarlos, sin excepciones.
+- **La Gattabuia**, en el Trastevere, en una antigua taberna que en su día fue una cárcel. *Mi recuerdo: a mí me gusta La Gattabuia, que es una antigua cárcel. Pero hay muchos sitios, en muchas zonas distintas, donde se come bien.*
+- **Regla general:** alejarse **tres manzanas** de los monumentos principales cambia la calidad y reduce a la mitad la cuenta. Los restaurantes con el menú en inglés, las fotos de los platos expuestas y el captador en la puerta no son por fuerza malos, pero seguro que son turísticos y con precios inflados. *Mi recuerdo: los que tienen menú en inglés o captador suelen ser «meh». La idea es moverse un poco fuera del centro para comer más auténtico.*
 
 ## Consejos prácticos / errores que no hay que repetir
 - **Reservar Galería Borghese y Coliseo con semanas de antelación**, no con días.

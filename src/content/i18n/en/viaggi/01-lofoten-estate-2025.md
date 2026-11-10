@@ -46,7 +46,7 @@ At Bognes we took the ferry to Lødingen (best to be at the pier 40 minutes earl
 ### Day 3 — Svolvær → Henningsvær
 Breakfast at **Kringla**, an excellent bakery near the apartments. Then the first real thrill of the Lofoten: the **Lofoten Explorer** RIB boat to the **Trollfjord**, two hours with thermal suits provided by the crew, friendly guides and sea eagles a few meters from the boat. It's one of the best things about the trip. *Tip: gloves, glove liners and a hat.*
 
-In late morning we went back to Svolvær and half an hour by car got us to **Henningsvær**. We had lunch at **Fiskekrogen**, on the village canal: excellent food. Best to book and ask for a window table, because the "little Venice" effect is real. After lunch, the famous soccer field, perfect for photos and drone, and a stroll among bakeries, crafts and vintage boutiques in a small but lively village.
+In late morning we went back to Svolvær and half an hour by car got us to **Henningsvær**. We had lunch at **Fiskekrogen**, on the village canal: excellent food. Best to book and ask for a window table, because the "little Venice" effect is real. After lunch, the famous soccer field: nice, but it looks far better in photos, especially from a drone, than in person. If you don't bring a drone, in the end it's just a little soccer pitch. Then a stroll among bakeries, crafts and vintage boutiques in a small but lively village.
 
 The afternoon was for the **Festvågtind trail**, starting from Festvågtind Parking: 3 km and 500 meters of elevation gain, more technical than Reinebringen, across rock and sandy ground. In about forty minutes you reach an alpine pond halfway up; from there, to the right, there's an easier lookout, to the left the actual summit, more demanding. In the evening we had dinner at **Paleo Arctic**, the best restaurant of the whole trip: it costs a little more than average, but the quality is clearly superior.
 
@@ -66,7 +66,9 @@ Breakfast at the house, sandwiches bought at the Coop Prix in Reine and the morn
 
 At Vindstad the first stop was the "little yellow house," a former school turned community café run by volunteers, with excellent cinnamon rolls. Then twenty or thirty minutes of flat trail to a little white house, a quarter of an hour of gentle climbing past a small cemetery, a scenic hill and five minutes of descent. Below lies **Bunes beach**, huge, open to the ocean and enclosed by the mountains.
 
-We ate our packed lunch at the yellow house, then hot tea and card games while waiting for the afternoon ferry. On the way back we shopped in Ramberg, better stocked and cheaper than the Coop in Reine, though it sells only beer, no wine or spirits. In the evening, a barbecue at the rorbu: grilled salmon, sautéed vegetables and a long table.
+When we went it was drizzling and windy. The walk from the pier to the beach is pleasant and not tiring at all. Once there we stayed a while just admiring it: it's majestic, above all for the rock walls that drop sheer into the sea.
+
+Back near the pier, we ate our packed lunch at the yellow house, then a little sweet, a hot herbal tea and card games while waiting for the afternoon ferry. Heads-up, though: the community house isn't always open. On the way back we shopped in Ramberg, better stocked and cheaper than the Coop in Reine, though it sells only beer, no wine or spirits. In the evening, a barbecue at the rorbu: grilled salmon, sautéed vegetables and a long table.
 
 **In practice:** Reine-Vindstad ferry with few departures a day, worth booking a seat · in Vindstad there are no shops: bring water and lunch · camping is allowed at Bunes beach, but no fires on the sand and take your rubbish back with you
 
@@ -163,6 +165,8 @@ alternatives below have more feedback online.
 - Leknes: DIGG Restaurant
 - Ramberg: Ramberg Resort
 - Sakrisøy: Anita's Seafood
+
+Overall, the food pleasantly surprised me with its flavors: good, but expensive.
 
 ## Practical tips / mistakes not to repeat
 - Book the Trollfjord excursion in good time: it's the top experience of the trip.

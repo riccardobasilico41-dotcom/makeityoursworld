@@ -11,6 +11,8 @@
 ## Apertura personale
 Questo itinerario nasce da luoghi che Rick ha visitato personalmente, messi in fila per chi vuole Londra e un pezzo di campagna inglese nello stesso viaggio.
 
+*Il mio ricordo: anche Londra per me è casa. Ho fatto l'università nel Surrey e ci ho vissuto un anno, lavorando in centro.*
+
 I primi quattro giorni sono a **Londra**, senza auto: metropolitana, bus e tante ore a piedi lungo il Tamigi. Poi si prende il treno a Paddington e si scende a **Oxford**, la città dei college. Lì si ritira l'auto e si entra nelle **Cotswolds**, le colline dei villaggi di pietra color miele. L'ultimo tratto porta a **Bath**, con le terme romane, da dove il treno riporta a Londra.
 
 L'auto serve solo per tre giorni. In città sarebbe un peso, tra traffico, parcheggi e Congestion Charge. In campagna invece è la cosa più comoda: i villaggi sono vicini, ma i bus sono pochi. Si guida a sinistra, su strade strette tra le siepi. Chi non se la sente può fare le Cotswolds in treno fino a Moreton-in-Marsh e con un tour organizzato dei villaggi.
@@ -21,7 +23,7 @@ L'auto serve solo per tre giorni. In città sarebbe un peso, tra traffico, parch
 - **Valuta e pagamenti:** sterlina britannica. Le carte e il contactless funzionano quasi ovunque.
 - **Muoversi a Londra:** metropolitana e bus pagando con la carta contactless o con la Oyster, sempre la stessa carta, che ha un tetto di spesa giornaliero.
 - **Treni:** da Londra Paddington partono i treni per Oxford, per la linea delle Cotswolds fino a Moreton-in-Marsh e per Bath. Orari e prezzi vanno controllati su nationalrail.co.uk.
-- **Guida:** si guida a sinistra. La patente italiana vale senza permesso internazionale. In Inghilterra il limite di alcol è di 80 mg per 100 ml di sangue, ma il consiglio di Rick è uno solo: chi guida non beve.
+- **Guida:** si guida a sinistra. La patente italiana vale senza permesso internazionale. In Inghilterra il limite di alcol è di 80 mg per 100 ml di sangue, ma il consiglio di Rick è uno solo: chi guida non beve. *Il mio ricordo: la guida a sinistra per me è ok, ma bisogna allenarsi, diciamo. E in campagna ogni tanto le strade possono essere strette.*
 - **Auto a Londra:** meglio di no. Nella zona centrale si paga la Congestion Charge, 18 sterline al giorno (2026), più la ULEZ per i veicoli più inquinanti.
 - **Salute:** la TEAM copre le cure necessarie nel servizio pubblico NHS; un'assicurazione di viaggio resta consigliata.
 - **Prese:** tipo G, a tre poli rettangolari. Serve un adattatore.

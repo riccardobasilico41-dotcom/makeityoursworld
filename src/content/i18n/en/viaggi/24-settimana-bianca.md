@@ -11,6 +11,8 @@
 ## Apertura personale
 The ski week is the Italian trip that more than any other gets decided out of habit: you go where you've always gone, the week you've always gone, and you pay what you've always paid. Which is a pity, because in the same ski area, in the same apartment, the same week can cost double or half depending on the date, and because the criterion that matters most today, **altitude**, almost never enters the decision. With the winters of recent years, below eighteen hundred meters natural snow is no longer a guarantee, and choosing a resort for its fame rather than its elevation is the quickest way to find a white ribbon in the middle of the grass. This itinerary is built on one Dolomites ski area as an example, but the useful part is the criteria: they apply everywhere.
 
+I've been doing ski weeks since I was little, both weekends and longer stays.
+
 ## Scheda pratica
 - **When to go — the choice that matters most:**
   - **Christmas and New Year:** the two most expensive weeks of the year, with differences of **as much as forty percent** compared with January. Crowded slopes, lines, bookings months ahead.
@@ -127,6 +129,7 @@ Around noon return skis and boots, collect any deposit on the pass card and get 
 - **Don't leave the groomed runs without a transceiver, shovel, probe and the ability to use them**, and without having read the avalanche bulletin.
 - **Don't start the Sellaronda after nine**, and check the wind.
 - **Don't underestimate Saturday traffic** on the return roads.
+- **My ski day**, the one I always recommend: go up as soon as the lifts open, to try to be among the first, grab a quick snack mid-morning and then keep going until two, two-thirty. At that point you unplug at the mountain hut and call it a day. That way you have lunch when there are fewer people around, and in the afternoon, when the slopes are more "chewed up," you're already done.
 
 ## Chiusura personale
 What you understand after a few ski weeks is that the pleasure isn't in the kilometers. You can spend a day grinding out runs and come home in the evening remembering nothing, or do half those kilometers, stop at eleven in a hut at twenty-four hundred meters, order something hot and sit for twenty minutes in the sun with a pink rock wall in front of you. In France they do the first better; the second, here, nobody does better than we do. And then there's that morning (it happens once a week, if you're lucky) when you take the first chairlift with the slope freshly groomed, there's still nobody around, and you ski down something smooth and perfect that in an hour won't exist anymore. For that half hour, in the end, you pay for everything else.

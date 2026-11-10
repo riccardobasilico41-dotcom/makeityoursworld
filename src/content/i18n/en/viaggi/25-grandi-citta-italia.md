@@ -33,7 +33,7 @@ To sleep, **Monti or Trastevere** is best, to be in a neighborhood that's still 
 
 We spent the first evening getting our bearings on foot: in central Rome the distances are shorter than they seem and almost everything is within a two-kilometer radius.
 
-We had dinner at a trattoria in **Testaccio**, not in the center. The four Roman pastas (cacio e pepe, gricia, amatriciana, carbonara) and, for those up to it, the quinto quarto (offal).
+We had dinner at a trattoria in **Testaccio**, not in the center. The four Roman pastas (cacio e pepe, gricia, amatriciana, carbonara) and, for those up to it, the quinto quarto (offal). *My memory: in Rome I like La Gattabuia, in Trastevere, a former jail. Places with English menus or a tout are usually meh: better to move a little out of the center.*
 
 From Fiumicino the **Leonardo Express** takes you nonstop to Termini in just over half an hour; from there Monti is a walk, Trastevere is reached by tram 8 from Piazza Venezia. After dropping your bags, the first walk is best in the late afternoon, when the light turns warm: from Monti go down to the **Imperial Fora**, climb up to the **Campidoglio** for the terrace behind the Palazzo Senatorio, which looks down on the Forum, and finish at Piazza Venezia. *In Rome the nasoni, the cast-iron fountains, give cool drinking water all day: a water bottle is all you need.* Testaccio is reached by metro, line B to Piramide, or by taxi.
 
@@ -80,7 +80,7 @@ It's worth taking a morning train so you already have the afternoon in Florence.
 **In practice:** Frecciarossa and Italo Rome-Florence about 1 hour 30, lower prices if bought ahead · by car watch out for the ZTL in the center, automatic fines · in the Oltrarno it's worth booking dinner at the better-known osterias
 
 ### Day 6 — The dome and the Uffizi
-We took the **first morning slot for Brunelleschi's dome**, booked days in advance. It's 463 steps, but above all it's a route that passes **inside** the dome, in the cavity between the two shells, a few meters from the frescoes of the Last Judgment.
+We took the **first morning slot for Brunelleschi's dome**, booked days in advance. It's 463 steps, but above all it's a route that passes **inside** the dome, in the cavity between the two shells, a few meters from the frescoes of the Last Judgment. *My memory: it's cramped, but worth it.*
 
 The afternoon at the **Uffizi**, with a reservation.
 
@@ -95,7 +95,7 @@ In the morning we went to the **Museo dell'Opera del Duomo**, which almost every
 
 For the afternoon there are the **Brancacci Chapel** or the **Medici Chapels**, less crowded and just as important.
 
-For dinner, a trattoria in the Oltrarno or Sant'Ambrogio, with the bistecca: it's a specific cut, three fingers thick, rare, served by the kilo, and you don't order it well done.
+For dinner, a trattoria in the Oltrarno or Sant'Ambrogio, with the bistecca: it's a specific cut, three fingers thick, rare, served by the kilo, and you don't order it well done. *My memory: the bistecca is incredible; lampredotto, on the other hand, doesn't do much for me.*
 
 The Museo dell'Opera is included in the dome ticket, so it costs nothing extra: go in the morning, at opening, and stay a couple of hours. The **Brancacci Chapel**, in the Oltrarno, holds Masaccio's frescoes with the Expulsion from Paradise and is visited in small groups, by reservation. The **Medici Chapels**, behind San Lorenzo, have the New Sacristy with Michelangelo's tombs. In the afternoon you can stop by the **Sant'Ambrogio market**, used mainly by Florentines. *The bistecca is paid by weight and a whole cut weighs at least a kilo: order it for two or three.*
 
@@ -106,7 +106,7 @@ The Museo dell'Opera is included in the dome ticket, so it costs nothing extra: 
 
 To sleep, **Cannaregio or Castello** is best, areas that are still lived in. **Sleeping in the center exempts you from the access fee** and above all gives you access to the two windows in which Venice is what you expected: before nine and after seven.
 
-The first evening we did the round of the **bacari**: cicheti eaten standing at the counter with a little glass of wine, moving from one osteria to another. It costs little and you eat very well, as long as you get off the main routes.
+The first evening we did the round of the **bacari**: cicheti eaten standing at the counter with a little glass of wine, moving from one osteria to another. It costs little and you eat very well, as long as you get off the main routes. *My memory: Venice is beautiful, all of it. Seriously.*
 
 From Santa Lucia you walk straight out onto the Grand Canal, and the simplest thing is to take the vaporetto to the stop nearest your lodging. Big suitcases are a problem: bridges with steps everywhere, no cars, and paid porters. Cannaregio is a quarter of an hour's walk from the station. The afternoon is for getting lost aimlessly, away from the Rialto-San Marco axis, along the **Fondamenta della Misericordia** or toward the **Ghetto**, the oldest in Europe. *The bacaro crawl starts early, around six: many close their kitchens before nine.*
 
@@ -148,7 +148,7 @@ From Venice to Naples the direct Frecciarossa takes about five hours: leave in t
 ### Day 12 — Pompeii and Herculaneum, and the trip home
 We entered **Pompeii at opening time**, with the named ticket already booked: sixty-six hectares without shade, which in the middle hours of summer are tiring to the point of being risky.
 
-If time allows, in the afternoon there's **Herculaneum**. It's a tenth of the area but, buried by mud rather than ash, it preserves the upper floors, the charred beams and even the furniture. You walk inside two-story houses with the stairs still in place.
+If time allows, in the afternoon there's **Herculaneum**. It's a tenth of the area but, buried by mud rather than ash, it preserves the upper floors, the charred beams and even the furniture. You walk inside two-story houses with the stairs still in place. *My memory: Pompeii is more beautiful, but Herculaneum has fewer people: you decide.*
 
 Then the trip home from Naples.
 
@@ -183,7 +183,7 @@ Pompeii is reached on the **Circumvesuviana** from Naples, Pompei Scavi stop, in
 - **Rome:** the four pastas and the quinto quarto (coda alla vaccinara, tripe, coratella) in a trattoria in Testaccio or Pigneto. Carciofo alla giudia in the Ghetto in season, supplì as a snack.
 - **Florence:** **lampredotto** sandwiches at the stands, the most Florentine thing there is. Ribollita, pappa al pomodoro, chicken liver crostini and the bistecca. Sant'Ambrogio market, not the San Lorenzo one.
 - **Venice:** the **round of bacari** with cicheti at the counter. Sarde in saor, baccalà mantecato, moeche in season. Away from the San Marco-Rialto axes, where the value for money is the worst in Italy.
-- **Naples:** pizza, ragù that cooks for hours, genovese, hot sfogliatella riccia in the morning and coffee standing up. And the street pizza a portafoglio, two euros.
+- **Naples:** pizza, ragù that cooks for hours, genovese, hot sfogliatella riccia in the morning and coffee standing up. And the street pizza a portafoglio, two euros. For a touristy-kitsch but fun experience, Nennella.
 
 ## Practical tips / mistakes not to repeat
 - **Don't go between July and August.**

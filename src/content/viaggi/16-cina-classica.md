@@ -11,6 +11,8 @@
 ## Apertura personale
 La Cina classica è il viaggio che tutti immaginano quando pensano alla Cina: la Muraglia, l'Esercito di Terracotta, il Bund. Ed è anche il viaggio che più di ogni altro si decide prima di partire, davanti a un computer, perché qui quasi nulla di quello che funziona altrove funziona: non le carte di credito, non le mappe, non i biglietti comprati sul posto. Chi arriva avendo sistemato quattro cose (i treni, i pagamenti, la connessione, le prenotazioni dei musei) trova un paese sorprendentemente facile, sicuro ed economico. Chi le rimanda le risolve comunque, ma perdendo i primi tre giorni. Questo itinerario è costruito su quell'unico asse est-ovest che l'alta velocità rende semplice, e si chiude in due luoghi che sono Cina solo sulla carta: Hong Kong e Macao.
 
+La mia impressione, detta come mi viene: la Cina è un bordello, ma che figata. In generale si mangia bene, anche se tendenzialmente molto piccante, e spesso non sai bene cosa hai ordinato: fa parte dell'esperienza.
+
 ## Scheda pratica
 - **Quando andare:** aprile-maggio o settembre-ottobre. Vanno evitati in ogni caso la Settimana d'oro (1-7 ottobre) e il Capodanno cinese: in quei giorni si muove mezzo paese, i treni sono esauriti da settimane e i siti diventano impraticabili. Anche i primi giorni di maggio sono festivi e affollati.
 - **Documenti/visto:** passaporto con almeno 6 mesi di validità. Per i cittadini italiani l'ingresso è senza visto fino a 30 giorni consecutivi, in regime di esenzione prorogato fino al 31 dicembre 2026, con ingressi multipli ammessi. Hong Kong e Macao hanno una frontiera propria: si esce e si rientra, e ogni rientro nella Cina continentale apre un nuovo periodo di 30 giorni. Ogni straniero va registrato presso la polizia entro 24 ore dall'arrivo. Gli hotel lo fanno al check-in; chi dorme in appartamenti privati deve andarci di persona.
@@ -68,6 +70,8 @@ La mattina l'abbiamo passata al **museo del mausoleo di Qin Shi Huang**, a 40 mi
 Dalla stazione ferroviaria parte il **bus pubblico 5 (306)**, economico e diretto. Nel piazzale della stazione girano invece "bus turistici" che portano a mausolei minori spacciandoli per il sito principale: è la fregatura più comune della città.
 
 Sul posto c'è chi consiglia di visitare le fosse in ordine inverso (tre, due, uno), perché dopo la numero uno le altre sembrano cantieri. Il **museo dei carri in bronzo** non va saltato per stanchezza: i due carri sono i pezzi tecnicamente più impressionanti di tutto il sito.
+
+*Il mio ricordo: l'Esercito di Terracotta è bello, ma va messo in conto che ti sentirai una sardina in lattina.*
 
 Il pomeriggio è libero per la **Grande Pagoda dell'Oca Selvatica** o per il **Museo di Storia dello Shaanxi** (gratuito, ma con quote giornaliere che si esauriscono in minuti).
 
@@ -162,7 +166,7 @@ Molte compagnie permettono il check-in in città, alla stazione dell'Airport Exp
 - **Macao:** di solito non serve, si fa in giornata da Hong Kong. Chi si ferma trova gli hotel dei casinò sul Cotai a prezzi più bassi di quanto sembri, perché la struttura guadagna altrove.
 
 ## Dove abbiamo mangiato
-- **Pechino:** anatra laccata in un locale specializzato, non in un ristorante che la tiene in carta. Per il resto: jianbing ai carretti del mattino, jiaozi e baozi al vapore, noodles tirati a mano, spiedini di agnello al cumino.
+- **Pechino:** anatra laccata in un locale specializzato, non in un ristorante che la tiene in carta. *Il mio ricordo: l'anatra a Pechino era buonissima.* Per il resto: jianbing ai carretti del mattino, jiaozi e baozi al vapore, noodles tirati a mano, spiedini di agnello al cumino.
 - **Xi'an:** il Quartiere Musulmano è il motivo gastronomico per fermarsi. Roujiamo, biang biang noodles, liangpi freddo e piccante, yangrou paomo (la zuppa di agnello in cui si sbriciola il pane con le mani prima di consegnarlo in cucina).
 - **Shanghai:** xiaolongbao, con la tecnica giusta (si morde un angolo, si beve il brodo, poi si mangia il resto: farlo di slancio significa ustionarsi), e shengjianbao scottati sulla piastra. È anche la città con la scena internazionale più sviluppata della Cina, utile se dopo due settimane serve una pausa.
 - **Suzhou e i villaggi d'acqua:** pesce di fiume e maiale brasato, che nei borghi è la specialità.
@@ -193,7 +197,7 @@ Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026
 - Nomi degli alloggi effettivamente usati e prezzi pagati.
 - Quale tratto di Muraglia è stato fatto davvero e quale villaggio d'acqua è stato scelto.
 - Se Macao è stata una gita in giornata o un pernottamento.
-- Aneddoti veri al posto delle bozze, soprattutto in apertura e chiusura.
+- Altri aneddoti veri al posto delle bozze, soprattutto in chiusura (i ricordi di Rick del 10/11/2026 sono già in apertura, al Giorno 6 e alla voce Pechino di «Dove abbiamo mangiato»).
 
 ## Foto/media
 - [ ] foto della Muraglia a Jinshanling con le torri non restaurate

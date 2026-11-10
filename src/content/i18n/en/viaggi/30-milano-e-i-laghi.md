@@ -15,6 +15,8 @@ Two days are more than enough for the center. The point is that Milan, more than
 
 The thing to do **right away**, even before buying flights, is to try to book the **Last Supper**.
 
+*My memory: Milan is home, so for me everything has a different flavor.*
+
 ## Scheda pratica
 - **The Last Supper (Leonardo's Cenacolo):** it is **the hardest reservation in Italy**. You enter **only by reservation**, in **capped groups**, for a **visit of a few minutes** (on the order of fifteen), because the room's microclimate has to be protected. **Tickets are released in batches months ahead and sell out in no time.** Showing up on the spot is useless. You have to note the date and time sales open in your calendar and try on that very day. Anyone who doesn't succeed hasn't ruined the trip: it has to be accepted beforehand, not in front of the closed door.
 - **Duomo:** entry to the cathedral and the **climb to the terraces** are separate tickets, with combined packages that also include the **Duomo Museum** and the **early Christian church of San Giovanni alle Fonti beneath the square**. **The terraces can be reached by elevator or on foot**, and should be done: you walk **among the spires and gargoyles**, on the roof, and it's an experience with no equivalent in Italy. The Duomo has **135 spires and more than three thousand statues**, and its construction lasted almost **six centuries**.
@@ -81,13 +83,13 @@ From Varenna the **ferry** connects **Bellagio** and **Menaggio** in a few minut
 
 **Villa del Balbianello**, on a promontory between Lenno and Ossuccio, is the most scenic of the lake's villas and is **an FAI property**: **access is regulated, often by reservation, with weekly closing days**, and you reach it on foot along a path or by water taxi. Check everything before going.
 
-**Como city** can be reached in under an hour from Cadorna or Centrale and is a more convenient but less beautiful base: it has the Duomo, the walls, the funicular to Brunate and its silk history. Anyone with only one day should choose **Varenna and the boat triangle**, not Como city.
+**Como city** can be reached in under an hour from Cadorna or Centrale and is a more convenient but less beautiful base: it has the Duomo, the walls, the funicular to Brunate and its silk history. Anyone with only one day should choose **Varenna and the boat triangle**, not Como city. *My memory: Como is gorgeous, but touristy.*
 
 **Bergamo Alta — the most underrated excursion.**
-About fifty minutes by train, then the **funicular** up to the walled city. Piazza Vecchia with the Civic Tower, the **Colleoni Chapel** and the Basilica of Santa Maria Maggiore, the Venetian walls that can be walked with the plain below. It takes half a day, costs very little and has none of the lake's crush. **Try the casoncelli**, and the **polenta**, which here is a serious dish.
+About fifty minutes by train, then the **funicular** up to the walled city. Piazza Vecchia with the Civic Tower, the **Colleoni Chapel** and the Basilica of Santa Maria Maggiore, the Venetian walls that can be walked with the plain below. It takes half a day, costs very little and has none of the lake's crush. **Try the casoncelli**, and the **polenta**, which here is a serious dish. *My memory: Bergamo isn't essential, but it's authentic.*
 
 **Lake Maggiore and the Borromean Islands — the longest and most scenic excursion.**
-Train to **Stresa**, about an hour and a half, and a boat to the islands: **Isola Bella** with its baroque palace and terraced garden with white peacocks, **Isola dei Pescatori**, a still-inhabited fishing village, and **Isola Madre** with the botanical garden. It's a full day and must be organized with the boat timetables in hand.
+Train to **Stresa**, about an hour and a half, and a boat to the islands: **Isola Bella** with its baroque palace and terraced garden with white peacocks, **Isola dei Pescatori**, a still-inhabited fishing village, and **Isola Madre** with the botanical garden. It's a full day and must be organized with the boat timetables in hand. *My memory: the Borromean Islands are a surprise if you don't know them, because they're incredibly well kept.*
 
 **Alternatively, for those who want the lake without the crowds, there's Lake Orta**: smaller, harder to reach and much quieter, with the **Island of San Giulio** and the Sacro Monte above Orta.
 

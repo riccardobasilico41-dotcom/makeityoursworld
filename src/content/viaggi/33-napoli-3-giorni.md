@@ -64,6 +64,8 @@ Tramonto dal belvedere e poi giù. La sera, **Chiaia** o il **lungomare Caraccio
 
 **La combinazione consigliata è Ercolano al mattino e Vesuvio nel pomeriggio.** Oppure **Pompei per l'intera giornata**. Chi insiste per fare Pompei ed Ercolano nello stesso giorno finisce per farle male entrambe.
 
+*Il mio ricordo: Pompei è più bella, ma a Ercolano c'è meno gente. Valutate voi cosa vi piace di più.*
+
 **Ercolano** è più piccola, si gira in due o tre ore ed è **molto meglio conservata di Pompei**. Pompei fu sepolta da lapilli e cenere; Ercolano fu investita da **flussi piroclastici che l'hanno sigillata sotto venti metri di materiale**, carbonizzando invece di bruciare. Per questo **ci sono ancora travi, porte, letti, scaffali in legno**, e **i piani superiori delle case sono in piedi**, cosa che a Pompei non succede quasi mai. Nei **fornici sulla spiaggia antica** sono stati trovati oltre trecento scheletri: erano le persone in attesa di essere imbarcate.
 
 **Il Vesuvio** si raggiunge con i bus che salgono dal piazzale di Ercolano fino al parcheggio in quota; da lì **si cammina su uno sterrato in salita fino al bordo del Gran Cono**, con il vento e il pietrisco. **La prenotazione online è obbligatoria.** Dall'orlo si guarda dentro il cratere, fumarole comprese, e dietro c'è il golfo intero, con le città costruite fin sulle pendici. La vertigine vera la danno **i seicentomila abitanti della zona rossa** che si vedono da lassù, più del cratere. **Scarpe chiuse obbligatorie nei fatti, giacca a vento anche d'estate.**
@@ -106,6 +108,7 @@ Poi siamo rientrati a Napoli per l'ultima sera in città.
 - **Sfogliatella** riccia o frolla a colazione, **babà** dopo, **taralli 'nzogna e pepe** al lungomare.
 - **Il caffè al banco**, corto, specificando prima se lo si vuole amaro.
 - **Da bere:** Falanghina, Greco di Tufo, Fiano di Avellino tra i bianchi; **Lacryma Christi del Vesuvio**, che cresce sul suolo vulcanico, e Taurasi tra i rossi.
+- **Nennella**, per un'esperienza un po' turistica e kitsch. *Il mio ricordo: Nennella è «touristy-kitsch», ma divertente.*
 - **Regola generale:** le pizzerie storiche del centro hanno code lunghe e spesso un sistema a numeri; quelle di quartiere fanno la stessa pizza senza attesa. Il rapporto qualità-prezzo a Napoli è il migliore d'Italia, ed è difficile mangiare male.
 
 ## Consigli pratici / errori da non ripetere
@@ -128,7 +131,7 @@ Napoli non mette il suo patrimonio in una teca. Ci convive, lo usa, gli passa da
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le modalità di prenotazione della Cappella Sansevero e del Vesuvio, gli orari e la stagionalità dei collegamenti ferroviari per gli scavi e lo stato di accesso della Solfatara** vanno riverificati prima di partire.
 
-**Cosa manca ancora:** anno e date, alloggi e prezzi, se si è fatta Pompei o Ercolano, se si è salito il Vesuvio, dove si è mangiata la pizza, aneddoti veri al posto delle bozze.
+**Cosa manca ancora:** anno e date, alloggi e prezzi, se si è salito il Vesuvio, dove si è mangiata la pizza, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto di Spaccanapoli dall'alto

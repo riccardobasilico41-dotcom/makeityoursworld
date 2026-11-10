@@ -272,6 +272,7 @@ Those arriving on the night bus have the early morning for the waterfront: **For
 - **Komodo:** the night market on the Labuan Bajo waterfront for fish; on the boats, the crew's food (rice, fish, vegetables), simple and surprisingly good.
 - **Flores:** minimal offer outside Labuan Bajo, almost always rice, fish or chicken in village warungs; se'i, the smoked meat typical of the eastern islands, and Flores coffee roasted at home.
 - **Sulawesi:** in Tana Toraja pork and buffalo appear, because the area is Christian; pa'piong, meat cooked inside a bamboo tube, has to be ordered hours ahead. In Makassar, coto makassar for breakfast.
+- **Durian:** you find it everywhere, and some people love it. I think it's absolutely disgusting, haha.
 
 ## Practical tips
 - **Certified guides, always.** For the orangutans at Bukit Lawang, for Rinjani (mandatory by law) and for the Komodo dragons: it's a matter of safety for travelers and animals, not a formality.
@@ -289,6 +290,8 @@ Those arriving on the night bus have the early morning for the waterfront: **For
 
 ## Chiusura personale
 What's left of this trip isn't a single image, which is unusual to say after thirty-five days. It's more the contrast between the two halves: the first, from Sumatra to Bali, is the Indonesia most travelers know or imagine (temples at dawn and at sunset, volcanoes, rice fields, a dance at sunset, and an island, Bali, that turns out to be made of wildly different areas rather than one postcard). The second, from Lombok to Sulawesi, is the Indonesia that gets left behind in the more general guidebooks, and it's the one that left the sharpest memories: the wind on the rim of the Rinjani crater, a Komodo dragon that doesn't move for a whole hour, the colors of Kelimutu that nobody can predict, a Toraja funeral that lasts for days. Lining up six different trips into a single story meant making choices (Raja Ampat out, Bunaken barely touched), but that was exactly the point: to show how varied a single nation made of islands can be, and how little the first three weeks resemble the last two.
+
+And in the end, if I've gone back to Indonesia so many times, it's because of the people: the places, of course, but above all the smiles. A bit like Thailand.
 
 ## Tag
 `#indonesia` `#sumatra` `#giava` `#bali` `#lombok` `#gili` `#komodo` `#flores` `#sulawesi` `#tanatoraja` `#vulcani` `#trekking` `#oranghi` `#draghidikomodo` `#asia`

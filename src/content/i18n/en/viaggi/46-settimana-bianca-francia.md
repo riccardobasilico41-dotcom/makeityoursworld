@@ -88,6 +88,7 @@ Raclette, fondue savoyarde, tartiflette, Beaufort and Reblochon cheeses, the whi
 - **Check the school holiday calendar** before booking.
 - **Buy the piste rescue insurance.**
 - **Don't arrive on a Saturday in high season without allowing for the queues.**
+- **I ski here the way I ski everywhere**, and it's what I always recommend: go up as soon as the lifts open, to try to be among the first, grab a quick snack mid-morning and then keep going until two, two-thirty. At that point you unplug at the mountain hut and call it a day. That way you have lunch when there are fewer people around, and in the afternoon, when the slopes are more "chewed up," you're already done.
 
 ## Chiusura personale
 The difference between an integrated resort and a traditional village shows on a bad-weather day: in the first there's nothing to do if the lifts close, in the second village life goes on anyway.

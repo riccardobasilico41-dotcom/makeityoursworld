@@ -11,11 +11,13 @@
 ## Apertura personale
 Italia es el mayor productor mundial de vino y tiene más de quinientas variedades autóctonas catalogadas: más que cualquier otro país, y no por poco. Tres paisajes vitivinícolas son patrimonio de la UNESCO. Pero la razón por la que este tema funciona como viaje no es el vino en sí: es que el vino es el mejor pretexto para atravesar la Italia agrícola en lugar de la monumental, y para hablar con quien hace las cosas en lugar de con quien las cuenta. En una bodega italiana, a diferencia de muchas zonas francesas, quien te recibe es casi siempre quien hace el vino, y eso cambia por completo el tipo de conversación. Con una condición, que es también la única regla de verdad de este itinerario: **se reserva, no se presenta uno sin más.**
 
+*Mi recuerdo: elegir la bodega es imposible, es algo demasiado personal. Depende del gusto, del presupuesto y de la experiencia que se busque: algo más refinado o algo más auténtico.*
+
 ## Scheda pratica
 - **Cuándo ir:** **septiembre y octubre**, durante la vendimia, cuando las bodegas trabajan y se ve el proceso en lugar del relato. Abril-junio es la segunda ventana. **En agosto muchas bodegas cierran** o están en preparación; de noviembre a marzo las visitas se reducen.
 - **La regla número uno, reservar:** una bodega es una explotación agrícola con su ciclo de trabajo, **no es una tienda**. Quien se presenta sin avisar en la mayoría de los casos se encuentra la verja cerrada; quien escribe un correo tres días antes es recibido por el productor, que tiene una hora para ti. Entre esas dos jornadas hay una diferencia enorme.
 - **Máximo dos o tres bodegas al día.** Después de la tercera ya no se prueba nada con atención y la jornada se convierte en una colección de sellos. Mejor dos bien hechas, con tiempo para caminar entre las hileras.
-- **Quien conduce, el punto que hay que resolver antes de salir:** se visitan bodegas en zonas de colinas y se bebe. Las soluciones serias son dos. O **se prueba y se escupe**, como hacen los profesionales (el vino se juzga en la boca, no en el estómago, y en cada bodega hay el recipiente adecuado sobre la mesa), o **se paga a un conductor**. Varias zonas ofrecen servicios de lanzadera dedicados. En Italia las sanciones por conducir en estado de embriaguez son severas, y en las zonas vitivinícolas hay controles.
+- **Quien conduce, el punto que hay que resolver antes de salir:** se visitan bodegas en zonas de colinas y se bebe. Las soluciones serias son tres. O **se prueba y se escupe**, como hacen los profesionales (el vino se juzga en la boca, no en el estómago, y en cada bodega hay el recipiente adecuado sobre la mesa), **se paga a un conductor** (varias zonas ofrecen servicios de lanzadera dedicados) o **se conduce por turnos**. En Italia las sanciones por conducir en estado de embriaguez son severas, y en las zonas vitivinícolas hay controles. *Mi recuerdo: nosotros condujimos por turnos. Beber y conducir es un juego feo y peligroso, además de ilegal.*
 - **Costes:** las catas rondan **15-40 € por persona** según los vinos y el nivel de la acogida, a menudo **descontados de la compra**. En las zonas más conocidas (Barolo, Montalcino) las bodegas históricas cuestan más; en las zonas emergentes se paga mucho menos o nada.
 - **Comprar:** en la bodega el precio es el de producción y se habla con quien ha hecho el vino. **No comprar en la enoteca lo que se puede comprar en la bodega.** Conviene llevar algo para proteger las botellas durante el viaje.
 - **En la cata:** nada de perfumes fuertes, que interfieren. Y no hace falta fingir que se sabe: los productores explican mucho más a gusto a quien es curioso que a quien actúa.
@@ -126,7 +128,7 @@ Del Val d'Orcia a Florencia se sube en algo menos de dos horas, por la Via Cassi
 ## Consejos prácticos / errores que no hay que repetir
 - **No presentarse en la bodega sin cita.** Es el error número uno y cuesta la jornada.
 - **No programar más de dos o tres bodegas al día.**
-- **No aplazar el problema de quien conduce.** Se prueba y se escupe, o se paga a un conductor.
+- **No aplazar el problema de quien conduce.** Se prueba y se escupe, se paga a un conductor o se conduce por turnos.
 - **No ir en agosto**, cuando muchas bodegas cierran.
 - **No quedarse solo en las denominaciones famosas:** Langhe y Montalcino son caras y están llenas, mientras que Irpinia, Vulture, Valtellina y Etna ofrecen el mismo nivel con una fracción de los visitantes.
 - **No comprar en la enoteca** lo que se puede comprar en la bodega.

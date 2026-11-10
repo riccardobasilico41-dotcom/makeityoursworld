@@ -15,6 +15,8 @@ Basta muy poco para darle la vuelta: **dormir en ella** y **caminar en la direcc
 
 Tres días son la medida justa para hacer las cosas grandes sin renunciar al resto: y el resto, aquí, es la mejor parte.
 
+*Mi recuerdo: Venecia es bonita entera, caray.*
+
 ## Scheda pratica
 - **Contribución de acceso:** en determinadas fechas Venecia aplica **una contribución a quien entra en la ciudad en el día**, con **reserva y código que mostrar**. **Quien pernocta en la ciudad está exento, pero debe registrarse igualmente** (normalmente lo hace el alojamiento, que aplica aparte la tasa turística). **Fechas, importes y modalidades han cambiado varias veces desde su introducción**: hay que comprobarlos en la web del Ayuntamiento antes de salir, porque la sanción para quien no está en regla es elevada.
 - **Cuándo ir:** **de noviembre a marzo, fuera del Carnaval**, Venecia es ella misma: niebla, poca gente, luz baja, precios civilizados. **De junio a agosto es el peor momento**: calor, humedad, saturación, y en verano los canales menores huelen de una manera que ninguna guía menciona. **Abril-mayo y octubre** son el compromiso. **Carnaval, Redentore (julio) y Regata Storica (septiembre)** son espectaculares e ingobernables a la vez: se va a propósito o se evitan.

@@ -51,7 +51,7 @@ Por eso aquí abajo no encontrarás un itinerario por días fijos. Encontrarás 
 ## Itinerario per zone
 
 ### Val Gardena, Ortisei y la Seceda
-La zona más accesible y más escenográfica para quien tiene poco tiempo: desde Ortisei una cabina lleva en pocos minutos a la Seceda, donde la cresta herbosa se quiebra de golpe en paredes verticales con vistas a las Odle: una de las imágenes más reproducidas de los Dolomitas, y por una vez la realidad aguanta la comparación con la foto. Debajo, el Alpe di Siusi es la meseta alpina más extensa de Europa, casi plana, perfecta para quien quiere caminar sin sufrir. Val Gardena es también el centro de la artesanía ladina de la escultura en madera, si se busca algo distinto de la montaña para una tarde.
+La zona más accesible y más escenográfica para quien tiene poco tiempo: desde Ortisei una cabina lleva en pocos minutos a la Seceda, donde la cresta herbosa se quiebra de golpe en paredes verticales con vistas a las Odle: una de las imágenes más reproducidas de los Dolomitas, y por una vez la realidad aguanta la comparación con la foto. Para mí la Seceda fue increíble, pero está un poco demasiado masificada: hay que ir pronto, muy pronto. Debajo, el Alpe di Siusi es la meseta alpina más extensa de Europa, casi plana, perfecta para quien quiere caminar sin sufrir. Val Gardena es también el centro de la artesanía ladina de la escultura en madera, si se busca algo distinto de la montaña para una tarde.
 *Joya escondida: el Parque Natural Puez-Odle, justo detrás de la Seceda, donde la gente disminuye de golpe en cuanto uno se aleja de la estación de la cabina.*
 
 ### Alta Badia y el Parque de Fanes-Sennes
@@ -63,7 +63,7 @@ La vuelta de los cuatro puertos que rodean el Grupo del Sella (Gardena, Sella, P
 *Joya escondida: recorrer el circuito al amanecer, antes de las nueve, cuando los puertos todavía están vacíos de motos y autocaravanas.*
 
 ### El Lagazuoi y las trincheras de la Gran Guerra
-En el Passo Falzarego, a quince minutos de Cortina, el teleférico del Lagazuoi sube a lo alto de un macizo que todavía lleva las huellas de la Primera Guerra Mundial: galerías excavadas a mano en la roca entre 1915 y 1917, cuando austriacos e italianos se disputaron la montaña centímetro a centímetro. Se puede subir en teleférico y bajar a pie por las galerías. De esta forma no existe en ninguna otra zona alpina: historia militar y geología en el mismo recorrido.
+En el Passo Falzarego, a quince minutos de Cortina, el teleférico del Lagazuoi sube a lo alto de un macizo que todavía lleva las huellas de la Primera Guerra Mundial: galerías excavadas a mano en la roca entre 1915 y 1917, cuando austriacos e italianos se disputaron la montaña centímetro a centímetro. Se puede subir en teleférico y bajar a pie por las galerías. De esta forma no existe en ninguna otra zona alpina: historia militar y geología en el mismo recorrido. El Lagazuoi emociona: da escalofríos pensar en lo que pasó allí arriba.
 *Joya escondida: el Sendero de las Galerías en versión descenso, mucho menos exigente y menos expuesto que la subida, adecuado para quien quiere ver las trincheras sin afrontar un desnivel serio.*
 
 ### La Marmolada, la Reina de los Dolomitas
@@ -75,7 +75,7 @@ El lago más fotografiado de los Dolomitas, y aquel donde más se nota el overto
 *Joya escondida: llegar hacia las siete de la mañana, antes de que se active el cupo: el lago es el mismo, la luz es mejor y durante una hora se tiene casi para uno solo.*
 
 ### Las Tre Cime di Lavaredo y San Candido
-El símbolo por excelencia de los Dolomitas, tres paredes verticales que se ven a decenas de kilómetros de distancia. El recorrido circular alrededor de la base (Rifugio Auronzo, Rifugio Lavaredo, Forcella Lavaredo, Rifugio Locatelli, desde donde se tiene la vista clásica de las paredes norte) es de unos diez kilómetros con 350 metros de desnivel, factible para cualquiera que camine con un mínimo de entrenamiento. San Candido, al pie del valle, es un pueblo ordenado con una colegiata románica entre las más importantes del Tirol del Sur y un centro histórico que merece un paseo aparte.
+El símbolo por excelencia de los Dolomitas, tres paredes verticales que se ven a decenas de kilómetros de distancia. Imponentes, pero también un poco demasiado masificadas: mejor llegar muy temprano. El recorrido circular alrededor de la base (Rifugio Auronzo, Rifugio Lavaredo, Forcella Lavaredo, Rifugio Locatelli, desde donde se tiene la vista clásica de las paredes norte) es de unos diez kilómetros con 350 metros de desnivel, factible para cualquiera que camine con un mínimo de entrenamiento. San Candido, al pie del valle, es un pueblo ordenado con una colegiata románica entre las más importantes del Tirol del Sur y un centro histórico que merece un paseo aparte.
 *Joya escondida: subir a pie desde el Val Fiscalina en lugar de en coche, evitando por completo peaje y reserva: es una jornada entera, y es como se hacía antes de que existiera la carretera.*
 
 ### Brunico y el Val Pusteria
@@ -144,7 +144,7 @@ En los refugios se come una cocina precisa y repetitiva que al cabo de tres día
 - **Considerar las zonas menos fotografiadas** (Val di Sole, Vipiteno, Fanes) cuando las zonas principales están llenas: la misma geología, mucha menos gente.
 
 ## Chiusura personale
-Lo que queda de los Dolomitas, al final, no es una sola vista: es la sensación de haber visto diez lugares distintos que comparten la misma roca. Val Gardena y Val di Sole distan menos de dos horas en coche y parecen dos países distintos: una llena de cabinas y boutiques, la otra vacía y silenciosa con la misma montaña. Por eso tiene más sentido pensarlos como un archipiélago que explorar zona por zona, volviendo varias veces, que como un único itinerario que agotar en una semana. La mejor parte, la del enrosadira sobre las paredes al atardecer, en cualquier caso no cambia nunca: ocurre todas las tardes desde hace doscientos cincuenta millones de años, en cada zona, la mire alguien o no.
+También me gustaron mucho las Pale di San Martino, precisamente porque son menos turísticas. Lo que queda de los Dolomitas, al final, no es una sola vista: es la sensación de haber visto diez lugares distintos que comparten la misma roca. Val Gardena y Val di Sole distan menos de dos horas en coche y parecen dos países distintos: una llena de cabinas y boutiques, la otra vacía y silenciosa con la misma montaña. Por eso tiene más sentido pensarlos como un archipiélago que explorar zona por zona, volviendo varias veces, que como un único itinerario que agotar en una semana. La mejor parte, la del enrosadira sobre las paredes al atardecer, en cualquier caso no cambia nunca: ocurre todas las tardes desde hace doscientos cincuenta millones de años, en cada zona, la mire alguien o no.
 
 ## Tag
 `#dolomiti` `#italia` `#altoadige` `#trentino` `#roadtrip` `#trekking` `#sci` `#overtourism` `#montagna`

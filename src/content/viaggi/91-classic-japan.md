@@ -13,6 +13,8 @@ Il viaggio classico in Giappone corre quasi tutto lungo la costa del Pacifico: T
 
 Sul sito c'è già un altro viaggio in Giappone, [i 12 giorni di aprile tra sakura, Fuji e Kyoto](/viaggi/giappone-itinerario). Questo è un'altra cosa. Ha più giorni, meno grandi città e più notti in ryokan, shukubō e paesi di montagna. Di Tokyo, Kyoto e Osaka tiene il minimo: chi vuole il dettaglio di quei giorni lo trova lì.
 
+Uno spoiler dal mio viaggio: il giro classico è intasato di turisti ovunque, soprattutto Kyoto.
+
 Come tutti i viaggi del sito, nasce da luoghi che ho visitato personalmente e da esperienze che ho vissuto davvero, messi in fila in un percorso pratico.
 
 ## Scheda pratica
@@ -38,6 +40,8 @@ Il JR Pass non va attivato oggi: nei primi tre giorni si gira in metro e il pass
 Un giorno pieno, scegliendo un lato della città. Il lato vecchio: Asakusa e il Senso-ji presto, Ueno, Yanaka con le sue strade di quartiere. Il Senso-ji alle sette di mattina ha la via dei negozi ancora chiusa e il tempio quasi vuoto; Ueno ha il parco e i musei, e Yanaka, a piedi da Ueno, è uno dei pochi quartieri sopravvissuti ai bombardamenti, con templi piccoli, cimiteri e botteghe. Si pranza a Ueno, nel mercato di Ameyoko.
 
 Oppure il lato nuovo: il Meiji-Jingu, Harajuku, Shibuya e Shinjuku la sera. Il santuario di Meiji è nel bosco e si visita gratis dall'alba al tramonto; da lì si scende a piedi verso Harajuku e Omotesando, poi Shibuya con l'incrocio più fotografato del mondo, e la sera Shinjuku con i vicoli di Omoide Yokocho e i locali di Golden Gai. Tokyo resta sacrificata, e lo si fa apposta: il viaggio vero comincia domani. Chi ha due giorni in più li mette qui, gli indirizzi sono nel [viaggio dei sakura](/viaggi/giappone-itinerario). *Domani si parte per Hakone con lo zaino piccolo: la sera si prepara la valigia da spedire o da lasciare in deposito.*
+
+*Il mio ricordo: Tokyo meriterebbe una vacanza a sé.*
 
 **In pratica:** Senso-ji e Meiji-Jingu a ingresso libero · metro con la carta IC, oppure un pass della metro di Tokyo da 24, 48 o 72 ore · takkyubin dall'hotel per mandare la valigia avanti di qualche giorno.
 
@@ -98,7 +102,9 @@ Arrivo per pranzo. Il pomeriggio è per Higashiyama, a piedi da Kiyomizu-dera ve
 **In pratica:** Kanazawa-Kyoto circa 2 ore con il cambio a Tsuruga, posto riservato sul JR Pass · Kiyomizu-dera con ingresso a pagamento, aperto dalla mattina presto · a Kyoto i bus sono lenti e pieni: a piedi, metro, e taxi in due o più.
 
 ### Giorno 11 — Kyoto
-**Fushimi Inari** all'alba, prima dei gruppi, salendo oltre la parte fotografata da tutti. È aperto sempre ed è gratuito; si arriva con la linea JR Nara alla stazione di Inari, a due fermate da Kyoto. Le gallerie di torii più famose sono all'inizio, e dopo il primo belvedere la gente si dirada: il giro completo della montagna richiede due o tre ore.
+**Fushimi Inari** presto, salendo oltre la parte fotografata da tutti. È aperto sempre ed è gratuito; si arriva con la linea JR Nara alla stazione di Inari, a due fermate da Kyoto. Le gallerie di torii più famose sono all'inizio, e dopo il primo belvedere la gente si dirada: il giro completo della montagna richiede due o tre ore.
+
+*Il mio ricordo: Kyoto consiglio di girarla la mattina presto, per avere una sensazione più autentica. A Fushimi Inari però, a prescindere dall'orario in cui vai, c'è sempre gente; più si sale, meno ce n'è. Io sono salito fino in cima: la vista niente di che, ma l'esperienza è bella.*
 
 Poi il nord-ovest della città: il Kinkaku-ji, il giardino di sabbia del Ryoan-ji, Arashiyama nel pomeriggio. Il Kinkaku-ji e il Ryoan-ji sono vicini, a una ventina di minuti a piedi l'uno dall'altro, e si raggiungono in bus o in taxi. Ad Arashiyama il boschetto di bambù è pieno di gente a metà giornata: conviene puntare sul giardino del Tenryu-ji e sulla riva del fiume. Il giorno è denso. Chi preferisce un ritmo più lento sostituisce Arashiyama con il quartiere dei templi zen di Daitoku-ji. *In autunno e in primavera il Kinkaku-ji ha code lunghe: arrivare all'apertura cambia la visita.*
 
@@ -108,6 +114,8 @@ Poi il nord-ovest della città: il Kinkaku-ji, il giardino di sabbia del Ryoan-j
 Mezza giornata, o una intera con calma. Da Kyoto si arriva con il treno della JR Nara Line. Con il rapido ci vuole meno di un'ora, e dalla stazione JR di Nara al parco si cammina in una ventina di minuti. Conviene partire presto e arrivare al Todaiji prima dei gruppi scolastici, che arrivano a metà mattina.
 
 Il Todaiji con il Grande Buddha, il Kasuga Taisha con le lanterne, i cervi sika liberi nel parco. Il Daibutsuden è una delle più grandi costruzioni in legno del mondo e custodisce la statua di bronzo del Buddha; dal tempio un sentiero nel bosco porta al Kasuga Taisha, con migliaia di lanterne di pietra e di bronzo. I cervi si avvicinano a chi compra i biscotti apposta: *possono spingere e mordere, si danno i biscotti uno alla volta e si tengono le mappe in tasca.* Si torna a Kyoto per la notte, o si prosegue verso Osaka per essere più vicini alla Nankai di domani.
+
+*Il mio ricordo: a Nara ho mangiato un tonno spaziale da **Maguro Koya**, buonissimo davvero.*
 
 **In pratica:** Daibutsuden del Todaiji 800 yen · Kasuga Taisha con l'area del santuario principale a pagamento · da Nara a Osaka in treno JR in meno di un'ora, per dormire a Namba.
 
@@ -123,12 +131,16 @@ La mattina si partecipa alla preghiera dei monaci, poi si cammina nell'**Okunoin
 
 *Dopo il ponte di Gobyo, davanti alla sala delle lanterne e al mausoleo, non si fotografa e non si mangia: è la parte più sacra.* Nel pomeriggio si scende a **Osaka**, con il bus, la funicolare e la Nankai fino a Namba, circa due ore in tutto. La sera è per Dotonbori e Shinsekai, con okonomiyaki e takoyaki. Dotonbori è la via delle insegne sul canale, Shinsekai un quartiere popolare del primo Novecento intorno alla torre Tsutenkaku, con i kushikatsu fritti.
 
+*Il mio ricordo: la zona di Dotonbori è piena di gente e i miei amici avevano pareri contrastanti, ma a me è piaciuta tantissimo.*
+
 **In pratica:** Okunoin gratuito, accessibile anche la sera · dall'altopiano a Namba circa due ore · per dormire a Osaka, Namba o Umeda; per domani conviene la zona di Shin-Osaka o una linea diretta per lo Shinkansen.
 
 ### Giorno 15 — Hiroshima e Miyajima
 Lo Shinkansen porta a Hiroshima da Shin-Osaka. Con il JR Pass si prendono i Sakura o gli Hikari, e il viaggio dura circa un'ora e mezza. Dalla stazione di Hiroshima al parco della Pace si va con il tram, che si paga a parte, o in taxi. Il **Parco e il Museo della Pace**, con il tempo che chiedono. Il museo apre la mattina presto nei mesi più caldi, e la prima ora è la più tranquilla; la visita richiede almeno un'ora e mezza. Nel parco, la Cupola della bomba atomica, il Cenotafio e il monumento ai bambini con le gru di carta.
 
 Poi treno locale e traghetto JR fino a **Miyajima**, entrambi nel pass. Il treno della linea Sanyo arriva a Miyajimaguchi in circa mezz'ora, e il traghetto attraversa in dieci minuti. Conviene dormire sull'isola: la sera, quando partono i turisti in giornata, il santuario di Itsukushima e il torii nell'acqua sono un altro posto. *Il torii sembra galleggiare con l'alta marea, con la bassa ci si arriva a piedi: le tabelle delle maree sono sul sito turistico dell'isola.*
+
+*Il mio ricordo: Hiroshima per me è stata al limite: verso la fine ho dovuto accelerare il passo, perché emotivamente era «troppo». Miyajima mi è piaciuta, ma non la riterrei essenziale, così come Hiroshima: chi ha meno giorni, per me, può tagliare questa parte (giudizio personale).*
 
 **In pratica:** museo della Pace 200 yen per gli adulti, orari che cambiano con la stagione · tassa di 100 yen per chi sbarca a Miyajima, non coperta dal JR Pass, da pagare al distributore prima dell'imbarco · alloggi sull'isola pochi e da prenotare presto.
 
@@ -174,7 +186,7 @@ Partenza da Kansai o da Tokyo. Dal Kansai l'Haruka arriva in aeroporto da Kyoto 
 Il viaggio classico mostra il Giappone delle grandi città e dei templi più famosi. Questa versione aggiunge i paesi di montagna, le strade a piedi e le notti nei templi, e chiede in cambio più giorni e un po' di organizzazione sui bus. Chi ha diciassette giorni e un primo viaggio alle spalle, o vuole farne uno solo ma completo, trova qui il Giappone che sta tra le due coste.
 
 ## Nota su questa bozza
-Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Nessuna esperienza personale compare nel testo: apertura e chiusura sono in voce di guida. Le tappe dell'entroterra sono quelle che Rick potrebbe aver fatto in un viaggio di cui non ricorda i dettagli: la lista da spuntare è in docs/giappone-da-confermare.md.
+Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Le uniche esperienze personali nel testo sono i ricordi dati da Rick il 10/11/2026 (folla del giro classico, Tokyo, Kyoto e Fushimi Inari, Maguro Koya a Nara, Dotonbori, Hiroshima e Miyajima); il resto è in voce di guida. Le tappe dell'entroterra sono quelle che Rick potrebbe aver fatto in un viaggio di cui non ricorda i dettagli: la lista da spuntare è in docs/giappone-da-confermare.md.
 
 ## Materiale grezzo (appunti, non ancora editato)
 **Fonti verificate (novembre 2026):**

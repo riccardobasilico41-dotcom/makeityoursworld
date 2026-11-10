@@ -36,7 +36,7 @@ La otra cosa que hay que saber antes de salir es que **el complejo del Duomo y l
 ### Día 1 — El complejo del Duomo y el centro
 El primer día fue entero para el Duomo, de golpe, porque la entrada es combinada y conviene usarla seguida.
 
-Se empieza por la **cúpula**, en la franja horaria reservada, a ser posible temprano: 463 escalones, el paso a un palmo de los frescos del **Juicio Final** de Vasari y Zuccari, y luego la linterna con toda Florencia a los pies. Merece la pena saber qué se está subiendo. Cuando Brunelleschi ganó el concurso, **el tambor ya estaba construido y nadie sabía cómo cubrirlo**: la luz era demasiado amplia para las cimbras de madera que se conocían entonces. La solución fue una **doble cúpula autoportante con los ladrillos dispuestos en espiga**, construida **sin armazones de apoyo**, y aguanta desde 1436.
+Se empieza por la **cúpula**, en la franja horaria reservada, a ser posible temprano: 463 escalones, el paso a un palmo de los frescos del **Juicio Final** de Vasari y Zuccari, y luego la linterna con toda Florencia a los pies. Merece la pena saber qué se está subiendo. Cuando Brunelleschi ganó el concurso, **el tambor ya estaba construido y nadie sabía cómo cubrirlo**: la luz era demasiado amplia para las cimbras de madera que se conocían entonces. La solución fue una **doble cúpula autoportante con los ladrillos dispuestos en espiga**, construida **sin armazones de apoyo**, y aguanta desde 1436. *Mi recuerdo: la cúpula es estrecha, pero merece la pena.*
 
 Después el **Baptisterio**, el edificio más antiguo de la plaza. Dentro, la cúpula está cubierta por entero de **mosaicos bizantinos sobre fondo de oro**, con un Juicio Final y un Cristo enorme, y uno se queda mucho menos de lo que merecería porque todo el mundo mira las puertas. Que por fuera, hay que recordarlo, son **copias**.
 
@@ -110,7 +110,8 @@ Dos días en Florencia aguantan bien, con una condición: **un solo gran museo, 
 - **Santa Maria Novella** es cómoda para los trenes, y más anónima.
 
 ## Dove abbiamo mangiato
-- **La bistecca alla fiorentina**, poco hecha y al peso, compartida entre dos. Bien hecha deja de ser ese plato.
+- **La bistecca alla fiorentina**, poco hecha y al peso, compartida entre dos. Bien hecha deja de ser ese plato. *Mi recuerdo: el lampredotto no me vuelve loco, pero la bistecca es increíble. Y es difícil comer mal.*
+- **Dónde comer la bistecca en el centro, cuatro sugerencias** (direcciones elegidas investigando, no sitios donde estuvimos; conviene comprobar los horarios antes de ir): **Buca Lapi**, en via del Trebbio 1r, en las bodegas del Palazzo Antinori, abierta desde 1880, por la noche · **Trattoria Mario**, en via Rosina 2r, cerca del Mercato Centrale, solo a mediodía de lunes a sábado · **Trattoria Sostanza**, en via del Porcellana 25r, diminuta, hay que reservar con mucha antelación · **Il Latini**, en via dei Palchetti 6r, recomendado por la Guía Michelin, cerrado los lunes.
 - **El lampredotto en el puesto**, la forma más florentina de comer a mediodía.
 - **Ribollita y pappa al pomodoro**, cocina de aprovechamiento del pan duro, mejores de lo que la descripción hace pensar.
 - **La schiacciata** con embutidos, y el **pan sin sal**, que al principio parece que está mal.

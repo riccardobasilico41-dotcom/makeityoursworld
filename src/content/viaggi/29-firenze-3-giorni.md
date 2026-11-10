@@ -36,7 +36,7 @@ L'altra cosa da sapere prima di partire è che **il complesso del Duomo e i muse
 ### Giorno 1 — Il complesso del Duomo e il centro
 Il primo giorno è stato tutto per il Duomo, in blocco, perché il biglietto è cumulativo e conviene usarlo di seguito.
 
-Si comincia dalla **cupola**, nella fascia oraria prenotata, possibilmente presto: 463 scalini, il passaggio ravvicinato agli affreschi del **Giudizio Universale** di Vasari e Zuccari, e poi la lanterna con tutta Firenze sotto. Vale la pena sapere cosa si sta salendo. Quando Brunelleschi vinse il concorso, **il tamburo era già costruito e nessuno sapeva come coprirlo**: la luce era troppo ampia per le centine di legno conosciute allora. La soluzione fu una **doppia calotta autoportante con i mattoni disposti a spina di pesce**, costruita **senza armature di sostegno**, e regge dal 1436.
+Si comincia dalla **cupola**, nella fascia oraria prenotata, possibilmente presto: 463 scalini, il passaggio ravvicinato agli affreschi del **Giudizio Universale** di Vasari e Zuccari, e poi la lanterna con tutta Firenze sotto. Vale la pena sapere cosa si sta salendo. Quando Brunelleschi vinse il concorso, **il tamburo era già costruito e nessuno sapeva come coprirlo**: la luce era troppo ampia per le centine di legno conosciute allora. La soluzione fu una **doppia calotta autoportante con i mattoni disposti a spina di pesce**, costruita **senza armature di sostegno**, e regge dal 1436. *Il mio ricordo: la cupola è stretta, ma merita.*
 
 Poi il **Battistero**, l'edificio più antico della piazza. Dentro, la cupola è coperta per intero di **mosaici bizantini su fondo d'oro**, con un Giudizio Universale e un Cristo enorme, e ci si resta molto meno di quanto meriterebbe perché tutti guardano le porte. Che fuori, va ricordato, sono **copie**.
 
@@ -110,7 +110,8 @@ Due giorni a Firenze reggono bene, a una condizione: **un solo grande museo, non
 - **Santa Maria Novella** è comoda per i treni, e più anonima.
 
 ## Dove abbiamo mangiato
-- **La bistecca alla fiorentina**, al sangue e a peso, divisa in due. Ben cotta non è più quel piatto.
+- **La bistecca alla fiorentina**, al sangue e a peso, divisa in due. Ben cotta non è più quel piatto. *Il mio ricordo: il lampredotto non mi fa impazzire, ma la bistecca è incredibile. Ed è difficile mangiare male.*
+- **Dove mangiare la bistecca in centro, quattro suggerimenti** (indirizzi scelti con una ricerca, non posti in cui siamo stati; orari da ricontrollare prima di andare): **Buca Lapi**, in via del Trebbio 1r, nelle cantine di Palazzo Antinori, aperta dal 1880, la sera · **Trattoria Mario**, in via Rosina 2r vicino al Mercato Centrale, solo a pranzo dal lunedì al sabato · **Trattoria Sostanza**, in via del Porcellana 25r, piccolissima, da prenotare con largo anticipo · **Il Latini**, in via dei Palchetti 6r, segnalato dalla Guida Michelin, chiuso il lunedì.
 - **Il lampredotto al chiosco**, il modo più fiorentino di pranzare.
 - **Ribollita e pappa al pomodoro**, cucina di recupero del pane raffermo, migliori di quanto la descrizione lasci pensare.
 - **La schiacciata** con i salumi, e il **pane senza sale**, che all'inizio sembra sbagliato.
@@ -137,7 +138,7 @@ La cosa che resta di Firenze è una questione di scala. Si sta in fondo alla nav
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le formule e i nomi dei biglietti cumulativi del complesso del Duomo cambiano nel tempo**, così come le modalità di accesso alla Cappella Brancacci e al Corridoio Vasariano, e gli orari dei vespri a San Miniato variano con la stagione. Vanno riverificati.
 
-**Cosa manca ancora:** anno e date, alloggi e prezzi, se la cupola è stata salita, se si è assistito ai vespri di San Miniato, dove si è mangiata la bistecca, aneddoti veri al posto delle bozze.
+**Cosa manca ancora:** anno e date, alloggi e prezzi, se si è assistito ai vespri di San Miniato, dove si è mangiata la bistecca, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto della cupola dal Campanile di Giotto

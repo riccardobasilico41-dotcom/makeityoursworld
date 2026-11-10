@@ -1,6 +1,6 @@
 # On the Routes of the Great Wines: Langhe, Valpolicella and Tuscany in 10 Days
 
-**Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized — the names of the wineries actually visited are missing, and here they matter more than elsewhere)
+**Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized — the names of the wineries are left out on purpose, because the choice is too personal)
 **Periodo del viaggio:**
 **Durata:** 10 days, 9 nights
 **Compagni di viaggio:** with friends, independent, with a rental car and wineries booked
@@ -11,11 +11,13 @@
 ## Apertura personale
 Italy is the world's largest wine producer and has over five hundred catalogued native varieties: more than any other country, and not by a little. Three wine landscapes are UNESCO heritage. But the reason this theme works as a trip isn't the wine itself: it's that wine is the best pretext for crossing agricultural Italy instead of monumental Italy, and for talking with the people who make things instead of the ones who tell the story. In an Italian winery, unlike many French regions, the person who receives you is almost always the one who makes the wine, and that completely changes the kind of conversation. On one condition, which is also the only real rule of this itinerary: **you book, you don't just show up.**
 
+*My memory: choosing the winery is impossible, it's far too personal. It depends on your taste, your budget and the experience you're after: something more refined or something more authentic.*
+
 ## Scheda pratica
 - **When to go:** **September and October**, during the harvest, when the wineries are at work and you see the process instead of the story. April-June is the second window. **In August many wineries close** or are preparing; from November to March visits are reduced.
 - **Rule number one, book:** a winery is a farm business with its own work cycle, **not a shop**. Those who show up unannounced in most cases find the gate closed; those who write an email three days earlier are received by the producer, who has an hour for you. Between these two days there is an enormous difference.
 - **Two or three wineries a day at most.** After the third you no longer taste anything attentively and the day becomes a collection of stamps. Better two done well, with time to walk among the rows.
-- **Who drives, the point to settle before leaving:** you visit wineries in hilly areas and you drink. There are two serious solutions. Either **taste and spit**, as professionals do (wine is judged in the mouth, not in the stomach, and every winery has the dedicated container on the table), or **pay a driver**. Several areas offer dedicated shuttle services. In Italy the penalties for drunk driving are severe, and in the wine regions there are checks.
+- **Who drives, the point to settle before leaving:** you visit wineries in hilly areas and you drink. There are three serious solutions. Either **taste and spit**, as professionals do (wine is judged in the mouth, not in the stomach, and every winery has the dedicated container on the table), **pay a driver** (several areas offer dedicated shuttle services), or **take turns driving**. In Italy the penalties for drunk driving are severe, and in the wine regions there are checks. *My memory: we took turns driving. Drinking and driving is an ugly, dangerous game, and illegal on top of that.*
 - **Costs:** tastings generally **€15-40 per person** depending on the wines and the level of hospitality, often **credited against purchases**. In the best-known areas (Barolo, Montalcino) the historic wineries cost more; in emerging areas you pay much less or nothing.
 - **Buying:** at the winery the price is the production price and you talk with whoever made the wine. **Don't buy in a wine shop what you can buy at the winery.** It's worth bringing something to protect the bottles during the trip.
 - **At the tasting:** no strong perfumes, which interfere. And there's no need to pretend to know: producers explain far more willingly to someone curious than to someone acting.
@@ -126,7 +128,7 @@ From the Val d'Orcia to Florence it's a little under two hours, along the Via Ca
 ## Practical tips / mistakes not to repeat
 - **Don't show up at a winery without an appointment.** It's mistake number one and costs the day.
 - **Don't schedule more than two or three wineries a day.**
-- **Don't put off the question of who drives.** You taste and spit, or you pay a driver.
+- **Don't put off the question of who drives.** You taste and spit, pay a driver or take turns driving.
 - **Don't go in August**, when many wineries close.
 - **Don't stop only at the famous denominations:** Langhe and Montalcino are pricey and crowded, while Irpinia, Vulture, Valtellina and Etna offer the same level with a fraction of the visitors.
 - **Don't buy in a wine shop** what you can buy at the estate.

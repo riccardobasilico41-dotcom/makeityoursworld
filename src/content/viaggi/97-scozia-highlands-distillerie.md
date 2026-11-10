@@ -181,7 +181,7 @@ Rick ci è andato a luglio, ma consiglia anche l'autunno: con il foliage la Scoz
 
 ## Consigli pratici / errori da non ripetere
 - **Tolleranza zero alla guida.** Il limite scozzese è più basso di quello inglese, e il consiglio di Rick è non bere proprio. Il driver's dram si assaggia la sera, in albergo.
-- **I primi chilometri a sinistra con calma.** Meglio ritirare l'auto fuori dal centro di Edimburgo, con le strade più tranquille.
+- **I primi chilometri a sinistra con calma.** Meglio ritirare l'auto fuori dal centro di Edimburgo, con le strade più tranquille. *Il mio ricordo: la guida a sinistra per me è ok, ma bisogna allenarsi, diciamo. E in campagna ogni tanto le strade possono essere strette.*
 - **Piazzole di scambio solo per far passare.** Non si parcheggia lì per le foto.
 - **Prenotare alloggi e tour delle distillerie in anticipo.** D'estate Skye e lo Speyside si riempiono.
 - **Il castello di Edimburgo e Urquhart con il biglietto online.** Hanno ingressi a orario.

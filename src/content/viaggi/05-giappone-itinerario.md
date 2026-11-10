@@ -19,6 +19,8 @@ meriterebbe 4-5 giorni pieni.
 ## Apertura personale
 Sono arrivato a Tokyo per la fioritura dei sakura, ma con qualche giorno di scarto rispetto al picco: i ciliegi di inizio aprile erano già verso la fine, tra petali che cadevano come neve rosa (lo hanafubuki) e rami sempre più spogli. Ho passato il primo pomeriggio a caccia dei ciliegi migliori in giro per la città, sapendo che il tempismo perfetto è quasi impossibile da centrare in un paese dove la stagione dura pochi giorni. È stato comunque uno spettacolo, anche in versione calante, ed è il modo giusto per aprire un viaggio che mi ha portato da Tokyo al Monte Fuji, fino a Kyoto, Hiroshima e Osaka.
 
+Uno spoiler, però: il giro classico è intasato di turisti ovunque, soprattutto Kyoto. E Tokyo meriterebbe una vacanza a sé.
+
 ## Scheda pratica
 - **Quando andare:** inizio aprile. Clima primaverile, tra 8°C e 18°C, simile
   alla nostra primavera. La fioritura dei ciliegi (sakura) a Tokyo ha di solito
@@ -85,6 +87,8 @@ Abbiamo cenato da **Menbaka Fire Ramen**, dove il ramen arriva con uno spettacol
 ### Giorno 5 (10.04) — Kyoto: Arashiyama, la foresta di bambù e Gion
 La mattina è cominciata sul **Sentiero del Filosofo**, lungo il canale tra i ciliegi, chiamato così per Nishida Kitaro, che lo percorreva ogni giorno meditando. Poi un walking tour di **Gion**, il quartiere delle geiko: in alcune vie le foto ai turisti troppo invadenti sono vietate, ci sono i cartelli e le multe sono salate.
 
+*Il mio ricordo: Kyoto è la tappa più presa d'assalto, e consiglio di girarla la mattina presto, per avere una sensazione più autentica.*
+
 Nel primo pomeriggio siamo scesi alla stazione di Saga Arashiyama e abbiamo pranzato in zona. Poi l'**Arashiyama Monkey Park Iwatayama**: tre quarti d'ora di salita tra le scimmie giapponesi e Kyoto dall'alto. L'**Okochi Sanso Garden**, il giardino curatissimo di un famoso regista giapponese, costa 1.000 yen con tè matcha e dolcetto. Per ultima la **foresta di bambù di Arashiyama**, più bella verso il tramonto, quando la folla del giorno si dirada.
 
 Per cena c'è **Hamburg Labo**, hamburger alla giapponese, o il sushi a nastro di **Sushi No Musashi**, economico e divertente. La notte all'Agora Kyoto Shijo.
@@ -93,6 +97,8 @@ Per cena c'è **Hamburg Labo**, hamburger alla giapponese, o il sushi a nastro d
 
 ### Giorno 6 (11.04) — Kyoto: Fushimi Inari, Nijo Castle, Kinkaku-ji
 Siamo partiti presto per **Fushimi Inari**, il santuario dei mille torii vermigli. Il giro completo fino in cima alla montagna richiede due ore e mezza, ma il primo tratto, quello che fotografano tutti, vale la visita anche senza arrivare in vetta. In tarda mattinata siamo stati al **Castello Nijo**, uno dei pochi castelli arrivati intatti dall'epoca feudale, insieme a quello di Himeji che arriva più avanti nel viaggio.
+
+*Il mio ricordo: a Fushimi Inari, a prescindere dall'orario in cui vai, c'è sempre gente; più si sale, meno ce n'è. Io sono salito fino in cima: la vista niente di che, ma l'esperienza è bella.*
 
 Dopo pranzo e un po' di tempo libero, il **Kinkaku-ji**, il Tempio d'Oro, aperto dalla mattina al tardo pomeriggio: il padiglione ricoperto di foglia d'oro che si riflette nello stagno è uno dei simboli del Giappone.
 
@@ -105,6 +111,8 @@ Il trucco di questa giornata si fa la sera prima: spedire i bagagli pesanti a Os
 
 In tarda mattinata siamo stati al **Memoriale della Pace** e al **Parco della Pace**, con il Museo: un paio d'ore con l'audioguida. È una tappa intensa e necessaria, da affrontare con calma. Dopo un pranzo veloce, il traghetto, incluso nel JR Pass, ci ha portato a **Miyajima**. Sull'isola lo street food è soprattutto a base di ostriche, il piatto della zona: non è per tutti, ma va provato almeno una volta. Il pomeriggio l'abbiamo dedicato al **santuario di Itsukushima**, con il famoso torii che sembra galleggiare sull'acqua, e al **Daisho-in**.
 
+*Il mio ricordo: Hiroshima per me è stata al limite: verso la fine ho dovuto accelerare il passo, perché emotivamente era «troppo». Miyajima mi è piaciuta, ma non la riterrei essenziale, così come Hiroshima: chi ha meno giorni, per me, può tagliare questa parte (giudizio personale).*
+
 Verso sera siamo rientrati, check-in e cena da **Koba**, buono sia prima sia dopo cena senza cambiare locale. Abbiamo dormito al Toyoko Inn Hiroshima Station.
 
 **In pratica:** spedizione dei bagagli con il takkyubin la sera prima, consegna il giorno dopo o quello successivo · Shinkansen Kyoto-Hiroshima circa 2 ore · Museo della Pace con biglietto economico, audioguida a parte · traghetto JR per Miyajima coperto dal JR Pass, più una piccola tassa d'ingresso sull'isola · il torii sembra galleggiare con l'alta marea: le tabelle delle maree si controllano prima.
@@ -116,12 +124,14 @@ In mattinata siamo stati al **Castello di Himeji**, il più bello e meglio conse
 
 Il treno per Osaka non va prenotato e si prende con calma dopo pranzo. Dopo il check-in siamo andati al **Castello di Osaka**: dall'ottavo piano la vista sulla città è bellissima, e dentro il museo racconta la storia di Osaka con gli ologrammi. Verso sera **Dotonbori**, poi la **Tombori River Cruise**, venti minuti per 1.000 yen da Tazaemonbashi Harbour. Per cena c'è l'**Osaka Foodie Tour**, a pagamento e da prenotare a parte, oppure **Torikizoku** vicino a Namba: 3.600 yen per due ore di tutto quello che si riesce a mangiare e bere. Abbiamo dormito al Sarasa Hotel Namba.
 
+*Il mio ricordo: la zona di Dotonbori è piena di gente e i miei amici avevano pareri contrastanti, ma a me è piaciuta tantissimo.*
+
 **In pratica:** Shinkansen Kodama da Hiroshima a Himeji, coperto dal JR Pass, mentre per il treno Hello Kitty conviene prenotare il posto · biglietto combinato Castello di Himeji e Giardini Kokoen 1.060 yen, ma le tariffe del castello vanno ricontrollate sul sito ufficiale prima di partire · Tombori River Cruise 1.000 yen · Torikizoku 3.600 yen per due ore a volontà.
 
 ### Giorno 9 (14.04) — Osaka e Nara
 Da Namba la linea Kintetsu porta a **Nara** (conviene controllare se il JR Pass la copre). La prima tappa è stata golosa: da **Nakatanidou** si mangiano i mochi, e verso metà mattina c'è lo spettacolo della preparazione, sempre affollatissimo, quindi meglio arrivare in anticipo.
 
-Poi il **Parco di Nara**, tra i cervi sacri che girano liberi e i templi: il **Todaiji** con il grande Buddha, uno dei più belli del Giappone, il **Kasuga Taisha**, il santuario delle mille lanterne, il **Gangoji** se resta tempo, e la passeggiata di **Old Nara Street** tra i due templi principali, dove i cervi si concentrano. Abbiamo pranzato da **Maguro Koya**, tonno e sashimi di qualità notevole.
+Poi il **Parco di Nara**, tra i cervi sacri che girano liberi e i templi: il **Todaiji** con il grande Buddha, uno dei più belli del Giappone, il **Kasuga Taisha**, il santuario delle mille lanterne, il **Gangoji** se resta tempo, e la passeggiata di **Old Nara Street** tra i due templi principali, dove i cervi si concentrano. Abbiamo pranzato da **Maguro Koya**, tonno e sashimi di qualità notevole. *Il mio ricordo: un tonno spaziale, buonissimo davvero.*
 
 Nel pomeriggio siamo tornati a Osaka per il **Mercato di Kuromon** e la cheesecake soffice di **Rikuro-Ojisan no Mise**, 900-1.000 yen la torta intera, da dividere. La sera l'abbiamo passata a **Shinsekai**: la **Torre di Tsutenkaku** (900 yen, chiude in serata, meglio non arrivare tardi) e, per i curiosi, **Tobita Shinchi**, il quartiere a luci rosse più noto del Giappone occidentale, da guardare solo da fuori e con rispetto. Per cena ci sono le specialità locali, kushikatsu, okonomiyaki, takoyaki, da **Jumbo-tsuribune Tsurikichi** o in uno dei tanti localini della zona. Seconda notte al Sarasa Hotel Namba.
 
@@ -207,7 +217,7 @@ Monte Fuji):
 ## Cosa vedere / cosa fare
 - **Pagoda Chureito e Monte Fuji:** l'immagine simbolo del Giappone e, con
   un po' di fortuna, il posto giusto per recuperare i sakura mancati a Tokyo.
-- **Fushimi Inari:** i mille torii vermigli, meglio presto al mattino.
+- **Fushimi Inari:** i mille torii vermigli, con gente a qualsiasi ora: più si sale, più si dirada.
 - **Kinkaku-ji:** il Tempio d'Oro, un'icona.
 - **Miyajima e il torii galleggiante**, con il Memoriale della Pace di
   Hiroshima a bilanciare la giornata con un momento di riflessione.

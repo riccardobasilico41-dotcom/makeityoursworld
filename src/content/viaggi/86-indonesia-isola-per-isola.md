@@ -220,6 +220,8 @@ Non esiste un giro obbligato. Si parte dal mese in cui si viaggia e dal tempo ch
 ## Chiusura personale
 L'Indonesia è un Paese a cui si torna: le isole sono troppe, e troppo diverse, per un viaggio solo. Per questo il consiglio è uno solo: scegli una o due isole, in base al mese, e dagli il tempo che meritano. Le altre restano lì per il prossimo viaggio.
 
+Io ci sono tornato soprattutto per la gente: i posti, sì, ma anche i sorrisi, come in Thailandia.
+
 *Da Rick vengono i ricordi di ogni isola, ripresi dalle schede destinazione del sito, il messaggio che ogni isola merita almeno una settimana e che le destinazioni sono intercambiabili, e i contatti consigliati. Il resto viene dalle schede del sito e dalla ricerca del 5 novembre 2026: Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo, Wikivoyage e operatori per Raja Ampat, i comunicati del parco del Rinjani riportati da ANTARA, CNN Indonesia, Detik e Metro TV per la chiusura e la riapertura del 2026 e per l'app E-Rinjani, le notizie sulla rotta stagionale Garuda Denpasar-Sorong, gov.uk per documenti, sicurezza, barche e vulcani, Wikipedia e Wikivoyage per Tanjung Puting e la strada per Toraja. Prezzi, orari, chiusure e tasse locali vanno ricontrollati prima di partire.*
 
 ## Tag

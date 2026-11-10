@@ -139,7 +139,8 @@ Due giorni a Roma funzionano solo se si accetta una regola: **si rinuncia al Vat
 - **Il quinto quarto a Testaccio**, la cucina di un quartiere nato attorno al mattatoio.
 - **Il maritozzo con la panna** a colazione, almeno una volta.
 - **Da bere:** i bianchi dei Castelli e il Cesanese, il rosso laziale che quasi nessuno conosce.
-- **Regola generale:** allontanarsi di **tre isolati** dai monumenti principali cambia la qualità e dimezza il conto. I ristoranti con le foto dei piatti esposte e il procacciatore sulla porta sono, senza eccezioni, da evitare.
+- **La Gattabuia**, a Trastevere, in una vecchia taverna che un tempo era un carcere. *Il mio ricordo: a me piace la Gattabuia, che è un'ex galera. Ma ci sono tanti posti, in tante zone diverse, dove si mangia bene.*
+- **Regola generale:** allontanarsi di **tre isolati** dai monumenti principali cambia la qualità e dimezza il conto. I ristoranti con il menù in inglese, le foto dei piatti esposte e il buttadentro sulla porta non sono per forza cattivi, ma di sicuro sono turistici e con prezzi gonfiati. *Il mio ricordo: quelli con il menù in inglese o il buttadentro di solito sono meh. L'idea è spostarsi un attimo fuori dal centro per mangiare più autentico.*
 
 ## Consigli pratici / errori da non ripetere
 - **Prenotare Galleria Borghese e Colosseo con settimane di anticipo**, non giorni.
@@ -161,7 +162,7 @@ Roma non conserva il passato: ci abita sopra, senza particolare riverenza, e con
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le formule dei biglietti del Colosseo, la durata di validità e la disponibilità di arena e sotterranei cambiano di frequente**, così come lo stato di accesso e le eventuali regolamentazioni della Fontana di Trevi. Vanno riverificati sui canali ufficiali prima di prenotare.
 
-**Cosa manca ancora:** anno e date, alloggi e prezzi, se la cupola è stata salita, se si è entrati alla Domus Aurea, quali osterie sono state provate davvero, aneddoti veri al posto delle bozze.
+**Cosa manca ancora:** anno e date, alloggi e prezzi, se la cupola è stata salita, se si è entrati alla Domus Aurea, quali altre osterie sono state provate oltre alla Gattabuia, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto dell'ipogeo del Colosseo dall'alto

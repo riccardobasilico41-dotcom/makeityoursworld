@@ -88,7 +88,7 @@ La visita al sito dura circa tre ore, con guida: Anil, che gira in bicicletta, o
 ### Giorno 3 — Anuradhapura-Dambulla: Mihintale e safari
 Sveglia prima dell'alba e mezz'ora di strada fino a **Mihintale**, dove secondo la tradizione il buddhismo arrivò in Sri Lanka nel III secolo a.C. La visita dura un paio d'ore: ingresso 500 LKR, sarong a noleggio per 50 LKR e calzini per camminare nei templi.
 
-Un'ora e mezza dopo eravamo sulla jeep del **safari**. Io l'ho fatto a **Minneriya**; a seconda della stagione e di dove si sono spostati gli elefanti, il DMC locale può proporre Hurulu o Kaudulla. Si spendono circa 12.000 LKR a jeep, per sei o sette persone, più l'ingresso. Lungo la strada abbiamo fatto un pranzo tipico ottimo, sui 2.000 LKR.
+Un'ora e mezza dopo eravamo sulla jeep del **safari**. Io l'ho fatto a **Minneriya**; a seconda della stagione e di dove si sono spostati gli elefanti, il DMC locale può proporre Hurulu o Kaudulla. Si spendono circa 12.000 LKR a jeep, per sei o sette persone, più l'ingresso. Lungo la strada abbiamo fatto un pranzo tipico ottimo, sui 2.000 LKR. *Il mio ricordo: a Minneriya di elefanti ne abbiamo visti un sacco.*
 
 Nel tardo pomeriggio siamo saliti sulla **Pidurangala Rock** per il tramonto: mezz'ora di salita con l'ultimo tratto impegnativo, quindi scarpe vere e non infradito. Davanti c'è la Rocca di Sigiriya, ed è uno dei panorami più belli del viaggio. In cima si pagano 1.000 LKR; servono il sarong e una frontale per scendere col buio. Cena a Dambulla, da **Mom's Kitchen** o al **Golden Palace**.
 
@@ -113,7 +113,7 @@ La sera c'è il **Tempio del Dente**. La cerimonia comincia al calare della luce
 **In pratica:** Tempio d'Oro di Dambulla, biglietteria chiusa alle 17 e tempio alle 19, scarpe al deposito · Dambulla-Kandy circa 2 ore, con sosta al Ranweli Spice Garden · Tempio del Dente 2.000 LKR, sarong obbligatorio, in fila dal tardo pomeriggio per la cerimonia della sera.
 
 ### Giorno 6 — Kandy-Nallathanniya: rafting a Kitulgala
-Abbiamo lasciato Kandy in mattinata; se la guida lo concorda, c'è una tappa non in programma in un orfanotrofio locale. Due ore e siamo arrivati a **Kitulgala**, per una giornata d'acqua: **rafting sul fiume Kelani**, lo stesso dove fu girato *Il ponte sul fiume Kwai*, organizzato dal DMC. Il tratto classico si fa in un paio d'ore, con rapide adatte anche a chi non l'ha mai fatto, casco e giubbotto forniti dall'operatore. Con l'operatore si possono aggiungere canyoning, tuffi in cascata e una camminata nella giungla con pranzo.
+Abbiamo lasciato Kandy in mattinata; se la guida lo concorda, c'è una tappa non in programma in un orfanotrofio locale. Due ore e siamo arrivati a **Kitulgala**, per una giornata d'acqua: **rafting sul fiume Kelani**, lo stesso dove fu girato *Il ponte sul fiume Kwai*, organizzato dal DMC. Il tratto classico si fa in un paio d'ore, con rapide adatte anche a chi non l'ha mai fatto, casco e giubbotto forniti dall'operatore. Con l'operatore si possono aggiungere canyoning, tuffi in cascata e una camminata nella giungla con pranzo. *Il mio ricordo: il rafting è stato super divertente, in mezzo a una natura viva. Molto, molto bello.*
 
 In serata siamo arrivati a **Hatton/Nallathanniya**, la base per la salita all'**Adam's Peak**, la notte stessa o quella dopo. La strada dopo Kitulgala sale tra le piantagioni di tè, con molte curve, e conviene arrivare prima del buio. Cena in hotel, presto. *Chi sale la notte stessa deve andare a letto subito dopo cena: la sveglia è in piena notte, e servono già pronti felpa, frontale, acqua e qualcosa da mangiare.*
 
@@ -137,6 +137,8 @@ Si cena da **De Silva Food Center**, **Grand Indian**, **Grand Thai** o, il più
 
 ### Giorno 8 — Nuwara Eliya-Ella: il treno panoramico
 Dopo colazione siamo andati in stazione per il **treno da Nanu Oya a Ella**. Sulla carta sono tre ore; io sono partito nel primo pomeriggio e arrivato in tarda serata, senza niente da mangiare a bordo. *È la tratta più fotografata dello Sri Lanka, tra vallate di tè, ponti e gallerie, ma va presa con lo spirito giusto: i ritardi sono la norma.*
+
+*Il mio ricordo: io ero seduto, ma in alcuni punti del treno aprono le porte; in teoria non si potrebbe, ma i controllori fanno finta di niente, diciamo. La prima classe dovrebbe avere i finestrini che non si aprono, perché c'è l'aria condizionata: nel caso, meglio la seconda.*
 
 A **Ella**, prima o dopo il treno, se il tempo lo concede: il **Nine Arches Bridge**, simbolo del paese (i treni passano più volte al giorno, tra mattina e tardo pomeriggio, ma gli orari non sono affidabili), il belvedere di **Lipton's Seat**, a circa un'ora e un quarto, le cascate dei Lover's Leap, la zip line Flying Ravana a quindici minuti (circa 20 €) e un massaggio alla Spa Ceylon.
 
@@ -335,8 +337,8 @@ Fonti caricate:
    generale, usati per arricchire le sezioni corrispondenti.
 
 **Cosa manca ancora per chiudere la bozza:**
-- Eventuali dettagli mancanti su Giorno 6 (rafting/canyoning a Kitulgala,
-  attività extra) e sulla notte dell'Adam's Peak vissuta in prima persona.
+- Eventuali dettagli mancanti su Giorno 6 (canyoning e attività extra a
+  Kitulgala) e sulla notte dell'Adam's Peak vissuta in prima persona.
 
 **Note di redazione (revisione 22/10/2026):** itinerario riscritto in prosa (VOCE-EDITORIALE.md), fatti invariati.
 

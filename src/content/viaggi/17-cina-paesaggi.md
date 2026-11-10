@@ -11,6 +11,8 @@
 ## Apertura personale
 Questo è il viaggio che si fa la seconda volta, quando la Muraglia e l'Esercito di Terracotta sono già alle spalle e resta la domanda vera: com'è la Cina quando smette di essere quella dei monumenti? La risposta sta in quattro province che i viaggiatori stranieri toccano a malapena (Hunan, Sichuan, Yunnan, Guangxi) e in una sequenza di paesaggi che non ha molti eguali: i pilastri di quarzite che entrano ed escono dalla nebbia, un borgo costruito sopra una cascata, una megalopoli verticale dove la metropolitana attraversa un palazzo abitato, un massiccio di 5.600 metri che fa da fondale a uno spettacolo all'aperto, una gola profonda tremila metri da attraversare a piedi, e le torri carsiche sul fiume Li. Si cammina molto, si sale in quota, e quasi ovunque si è gli unici stranieri in vista.
 
+La mia impressione della Cina, in due parole: un bordello, ma che figata. Si mangia bene un po' ovunque, anche se tendenzialmente molto piccante, e spesso non si sa cosa si è ordinato: ma fa parte dell'esperienza.
+
 ## Scheda pratica
 - **Quando andare:** aprile-maggio o settembre-ottobre. Restano da evitare la Settimana d'oro (1-7 ottobre) e il Capodanno cinese, e qui la ragione è ancora più concreta che sull'asse classico: a Zhangjiajie, in quei giorni, le code alle funivie superano le tre ore. Da giugno ad agosto le piogge chiudono tratti della Gola del Salto della Tigre, e Chongqing diventa una delle «città forno» del paese, con settimane sopra i 40 gradi.
 - **Documenti, pagamenti, connettività, treni:** valgono le stesse regole dell'itinerario classico: esenzione visto 30 giorni fino a fine 2026, Alipay o WeChat Pay configurati **prima** di partire, eSIM estera o VPN installata **prima**, biglietti dei treni in vendita 15 giorni prima, a un orario che varia da stazione a stazione. Qui però il problema si aggrava: fuori dalle grandi città l'inglese scompare del tutto, e il traduttore con fotocamera passa da comodità a necessità.
@@ -258,7 +260,7 @@ Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026
 - Se il trek della gola è stato fatto in due giorni o in uno.
 - Se la funivia dello Yulong Xueshan ha trovato cielo limpido o nebbia.
 - Se Leshan o Dujiangyan, e se Longji è stata fatta davvero.
-- Aneddoti veri al posto delle bozze, soprattutto in apertura e chiusura.
+- Altri aneddoti veri al posto delle bozze, soprattutto in chiusura (l'impressione generale di Rick del 10/11/2026 è già in apertura).
 
 ## Foto/media
 - [ ] foto di Hongya Dong dalla riva opposta, di notte

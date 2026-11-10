@@ -272,6 +272,7 @@ Chi arriva con il bus notturno ha la mattina presto per il lungomare: **Fort Rot
 - **Komodo:** il mercato serale sul lungomare di Labuan Bajo per il pesce; a bordo delle barche il cibo dell'equipaggio (riso, pesce, verdure), semplice e sorprendentemente buono.
 - **Flores:** offerta minima fuori da Labuan Bajo, quasi sempre riso, pesce o pollo nei warung di paese; il se'i, la carne affumicata tipica delle isole orientali, e il caffè di Flores tostato in casa.
 - **Sulawesi:** in Tana Toraja compaiono maiale e bufalo, perché la zona è cristiana; il pa'piong, carne cotta dentro un tubo di bambù, va ordinato con ore di anticipo. A Makassar, il coto makassar a colazione.
+- **Durian:** lo trovi ovunque, e c'è chi lo adora. A me fa proprio schifo, ahah.
 
 ## Consigli pratici
 - **Guide certificate, sempre.** Per gli oranghi a Bukit Lawang, per il Rinjani (obbligatoria per legge) e per i draghi di Komodo: è una questione di sicurezza per i viaggiatori e per gli animali, non una formalità.
@@ -289,6 +290,8 @@ Chi arriva con il bus notturno ha la mattina presto per il lungomare: **Fort Rot
 
 ## Chiusura personale
 Quello che resta di questo viaggio non è una singola immagine, ed è insolito dirlo dopo trentacinque giorni. È piuttosto il contrasto tra le due metà: la prima, da Sumatra a Bali, è l'Indonesia che la maggior parte dei viaggiatori conosce o immagina (templi all'alba e al tramonto, vulcani, risaie, una danza al tramonto, e un'isola, Bali, che si scopre fatta di zone diversissime tra loro più che di una sola cartolina). La seconda, da Lombok a Sulawesi, è l'Indonesia che resta indietro nelle guide più generaliste, ed è quella che ha lasciato i ricordi più netti: il vento sul bordo del cratere del Rinjani, un drago di Komodo che non si muove per un'ora intera, i colori del Kelimutu che nessuno sa prevedere, un funerale toraja che dura giorni. Mettere in fila sei viaggi diversi in un solo racconto ha comportato delle scelte (Raja Ampat fuori, Bunaken toccato solo di striscio), ma il senso era proprio questo: mostrare quanto sia varia un'unica nazione fatta di isole, e quanto poco le prime tre settimane assomiglino alle ultime due.
+
+E alla fine, se in Indonesia sono tornato tante volte, è per la gente: i posti, certo, ma soprattutto i sorrisi. Un po' come in Thailandia.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026, basati sulle schede di Paese, Destinazioni ed Esperienze già pubblicate su questo sito per le otto isole dell'Indonesia, oltre a ricerche mirate su distanze, tempi di percorrenza, tariffe indicative di driver privati e truffe segnalate sulla tratta di Probolinggo, che vanno riverificate più vicino alla partenza perché prezzi e situazioni sul campo cambiano rapidamente. Le regole d'ingresso (e-VOA e All Indonesia Arrival Card) sono state introdotte o aggiornate di recente e vanno riverificate sui portali ufficiali prima di partire.

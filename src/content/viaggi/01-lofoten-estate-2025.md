@@ -46,7 +46,7 @@ A Bognes abbiamo preso il traghetto per Lødingen (meglio essere al molo 40 minu
 ### Giorno 3 — Svolvær → Henningsvær
 Colazione da **Kringla**, una panetteria ottima vicino agli appartamenti. Poi la prima vera emozione delle Lofoten: il gommone di **Lofoten Explorer** verso il **Trollfjord**, due ore con le tute termiche fornite dall'equipaggio, guide simpatiche e le aquile di mare a pochi metri dalla barca. È una delle cose più belle del viaggio. *Consiglio: guanti, sottoguanti e cappellino.*
 
-In tarda mattinata siamo tornati a Svolvær e in mezz'ora d'auto siamo arrivati a **Henningsvær**. Abbiamo pranzato da **Fiskekrogen**, sul canale del villaggio: cibo ottimo. Meglio prenotare e chiedere un tavolo alla finestra, perché l'effetto «piccola Venezia» è vero. Dopo pranzo il famoso campo da calcio, perfetto per foto e drone, e un giro tra bakery, artigianato e boutique vintage di un paese piccolo ma vivace.
+In tarda mattinata siamo tornati a Svolvær e in mezz'ora d'auto siamo arrivati a **Henningsvær**. Abbiamo pranzato da **Fiskekrogen**, sul canale del villaggio: cibo ottimo. Meglio prenotare e chiedere un tavolo alla finestra, perché l'effetto «piccola Venezia» è vero. Dopo pranzo il famoso campo da calcio: carino, ma rende molto di più in foto, soprattutto dal drone, che visto di persona. Se non vai col drone, alla fine è un campetto da calcio. Poi un giro tra bakery, artigianato e boutique vintage di un paese piccolo ma vivace.
 
 Il pomeriggio era per il **Festvågtind trail**, con partenza dal Festvågtind Parking: 3 km e 500 metri di dislivello, più tecnico del Reinebringen, tra roccia e terreno sabbioso. In una quarantina di minuti si arriva a un laghetto alpino a metà strada; da lì, a destra, c'è un belvedere più semplice, a sinistra la vetta vera, più impegnativa. La sera abbiamo cenato da **Paleo Arctic**, il ristorante migliore di tutto il viaggio: costa un po' più della media, ma la qualità è nettamente superiore.
 
@@ -66,7 +66,9 @@ Colazione in casa, panini comprati alla Coop Prix di Reine e il traghetto del ma
 
 A Vindstad la prima tappa è stata la «casetta gialla», una ex scuola diventata bar della comunità, gestita da volontari, con ottimi cinnamon roll. Poi venti o trenta minuti di sentiero pianeggiante fino a una casetta bianca, un quarto d'ora di salita leggera accanto a un piccolo cimitero, un colle panoramico e cinque minuti di discesa. Sotto c'è la **spiaggia di Bunes**, immensa, aperta sull'oceano e chiusa tra le montagne.
 
-Abbiamo mangiato il pranzo al sacco alla casetta gialla, poi tè caldo e partite a carte in attesa del traghetto del pomeriggio. Al rientro abbiamo fatto la spesa a Ramberg, più fornita ed economica della Coop di Reine, anche se vende solo birra, niente vino o superalcolici. La sera barbecue nella rorbu: salmone alla griglia, verdure saltate e una tavolata lunga.
+Quando ci siamo andati noi piovigginava e tirava vento. La passeggiata dal molo fino alla spiaggia è carina e per niente faticosa. Arrivati giù siamo rimasti lì un po' ad ammirarla: è maestosa, soprattutto per le pareti di roccia che cadono a picco sul mare.
+
+Tornati verso il molo, abbiamo mangiato il pranzo al sacco alla casetta gialla, poi un dolcetto, una tisana calda e partite a carte in attesa del traghetto del pomeriggio. Occhio però: la casetta della comunità non è sempre aperta. Al rientro abbiamo fatto la spesa a Ramberg, più fornita ed economica della Coop di Reine, anche se vende solo birra, niente vino o superalcolici. La sera barbecue nella rorbu: salmone alla griglia, verdure saltate e una tavolata lunga.
 
 **In pratica:** traghetto Reine-Vindstad con poche corse al giorno, il posto conviene prenotarlo · a Vindstad non ci sono negozi: acqua e pranzo vanno portati · alla spiaggia di Bunes si può campeggiare, ma niente fuochi sulla sabbia e i rifiuti si riportano indietro
 
@@ -163,6 +165,8 @@ alternative qui sotto hanno più riscontri online.
 - Leknes: DIGG Restaurant
 - Ramberg: Ramberg Resort
 - Sakrisøy: Anita's Seafood
+
+In generale, sul cibo sono rimasto piacevolmente sorpreso dai sapori: buono, ma caro.
 
 ## Consigli pratici / errori da non ripetere
 - Prenotare per tempo l'escursione al Trollfjord: è l'esperienza top del viaggio.

@@ -181,7 +181,7 @@ Rick fue en julio, pero recomienda también el otoño: con el follaje Escocia es
 
 ## Consejos prácticos / errores que no repetir
 - **Tolerancia cero al volante.** El límite escocés es más bajo que el inglés, y el consejo de Rick es no beber nada. El driver's dram se cata por la noche, en el hotel.
-- **Los primeros kilómetros por la izquierda, con calma.** Mejor recoger el coche fuera del centro de Edimburgo, con carreteras más tranquilas.
+- **Los primeros kilómetros por la izquierda, con calma.** Mejor recoger el coche fuera del centro de Edimburgo, con carreteras más tranquilas. *Mi recuerdo: conducir por la izquierda para mí está bien, pero hay que entrenarse, digamos. Y en el campo, de vez en cuando, las carreteras pueden ser estrechas.*
 - **Apartaderos solo para dejar pasar.** No se aparca ahí para hacer fotos.
 - **Reservar alojamiento y visitas a las destilerías con antelación.** En verano Skye y el Speyside se llenan.
 - **El castillo de Edimburgo y Urquhart con entrada online.** Tienen entradas con hora.

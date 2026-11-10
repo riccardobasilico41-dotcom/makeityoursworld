@@ -30,7 +30,7 @@ Se restano tempo ed energie, anche il **Fjellheisen** (la funivia sul monte Stor
 **In pratica:** dall'aeroporto al centro in bus o taxi, pochi chilometri · Cattedrale Artica sull'altra sponda del fiordo, raggiungibile a piedi dal ponte o in bus · Fjellheisen 495 NOK andata e ritorno, aperto fino a mezzanotte in inverno · ramponcini da scarpa utili sui marciapiedi ghiacciati.
 
 ### Giorno 2 — Aurora chase in minibus
-La serata l'abbiamo dedicata alla caccia all'aurora boreale con una guida in minibus (gruppi piccoli, di solito 8-16 persone). Si esce dalla città per allontanarsi dall'inquinamento luminoso e si insegue il cielo sereno, anche per un paio d'ore se serve: a volte lungo la costa, a volte nell'entroterra, in certe serate perfino oltre confine, in Finlandia. L'escursione si adatta al meteo della sera, quindi partenza e destinazione le decidono all'ultimo le guide, in base alle previsioni e all'indice dell'aurora.
+La serata l'abbiamo dedicata alla caccia all'aurora boreale con una guida in minibus (gruppi piccoli, di solito 8-16 persone). Si esce dalla città per allontanarsi dall'inquinamento luminoso e si insegue il cielo sereno, anche per un paio d'ore se serve: a volte lungo la costa, a volte nell'entroterra, in certe serate perfino oltre confine, in Finlandia. L'escursione si adatta al meteo della sera, quindi partenza e destinazione le decidono all'ultimo le guide, in base alle previsioni e all'indice dell'aurora. Noi siamo usciti due volte: la prima siamo rimasti subito fuori città, la seconda siamo dovuti andare un bel po' più in là, praticamente verso la Svezia.
 
 Operatori noti in zona sono Chasing Lights e Tromsø Friluftsenter. È un'uscita lunga, 6-8 ore, intorno ai 100-160€ a persona; diversi tour includono una sosta con fuoco e tè caldo e qualche consiglio di fotografia notturna.
 
@@ -92,12 +92,14 @@ La cucina locale ruota molto intorno al granchio reale (kongekrabbe) e al baccal
 | Whale watching (facoltativo) | 130-260€ |
 
 ## Chiusura personale
-Anche con pochi ricordi diretti, quello che mi è rimasto di più è la sensazione del buio della notte polare interrotto dalle luci della città e dall'aurora vista per la prima volta muoversi nel cielo. Delle tre escursioni, quella che rifarei sicuramente è l'husky sledding: il silenzio bianco intorno, rotto solo dal fiato dei cani, è un ricordo più nitido di molti altri di questo viaggio.
+Anche con pochi ricordi diretti, quello che mi è rimasto di più è la sensazione del buio della notte polare interrotto dalle luci della città e dall'aurora vista per la prima volta muoversi nel cielo. Quella con i cani è stata bella, ma non la rifarei: mi è sembrata un po' così così. Io però con gli animali sono sensibile, quindi conta relativamente, ed è un giudizio a posteriori: resta comunque un'esperienza molto bella.
 
 ## Materiale grezzo (appunti, non ancora editato)
 Viaggio realmente fatto ma di cui restano pochi ricordi diretti. La struttura del viaggio (5 giorni: arrivo/città, aurora chase, husky, esperienza sami con renne, partenza) viene da una presentazione comparativa dell'agenzia "Mama Family Travel Partner" che elencava Tromsø come una delle tre alternative artiche per Capodanno insieme ad Abisko e Reykjavík — le attività elencate corrispondono a quanto effettivamente fatto. Tutte le sezioni pratiche (prezzi, orari, nomi degli operatori, dove dormire/mangiare, Fjellheisen, Polar Museum, whale watching, igloo di vetro) sono state integrate con ricerca sui siti ufficiali degli operatori e di Visit Tromsø, per rendere la pagina una guida utile a chi vuole organizzare lo stesso viaggio — non sono ricordi diretti, e prezzi/orari vanno sempre riverificati prima di prenotare.
 
 **Note di redazione (revisione 22/10/2026):** tolti dal testo pubblico i promemoria «da completare/da confermare» (nomi di hotel e locali): vanno nel Quaderno dei ricordi.
+
+**Note di redazione (10/11/2026):** aggiunti i ricordi dell'autore: due uscite per l'aurora, la prima subito fuori città e la seconda quasi verso la Svezia (Giorno 2, la data della seconda uscita non è indicata); giudizio sulla slitta con i cani (Chiusura). Corretta la chiusura, che diceva che l'husky sledding era l'escursione da rifare «sicuramente»: l'autore non la rifarebbe.
 
 ## Foto/media
 - [ ] foto della Cattedrale Artica

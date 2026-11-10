@@ -181,7 +181,7 @@ Rick went in July, but he recommends autumn too: with the foliage Scotland is be
 
 ## Practical tips / mistakes not to repeat
 - **Zero tolerance at the wheel.** The Scottish limit is lower than the English one, and Rick's advice is not to drink at all. Taste the driver's dram in the evening, at the hotel.
-- **Take the first miles on the left calmly.** It's better to pick up the car outside central Edinburgh, where the roads are quieter.
+- **Take the first miles on the left calmly.** It's better to pick up the car outside central Edinburgh, where the roads are quieter. *My memory: driving on the left is fine for me, but it takes some practice, let's say. And in the countryside the roads can get narrow now and then.*
 - **Passing places are only for letting cars through.** Don't park there for photos.
 - **Book accommodation and distillery tours in advance.** In summer Skye and Speyside fill up.
 - **Edinburgh Castle and Urquhart with an online ticket.** They have timed entry.

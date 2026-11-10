@@ -46,7 +46,7 @@ En Bognes cogimos el ferri a Lødingen (mejor estar en el muelle 40 minutos ante
 ### Día 3 — Svolvær → Henningsvær
 Desayuno en **Kringla**, una panadería excelente cerca de los apartamentos. Luego la primera emoción de verdad de las Lofoten: la zódiac de **Lofoten Explorer** hacia el **Trollfjord**, dos horas con los trajes térmicos facilitados por la tripulación, guías simpáticos y águilas marinas a pocos metros de la barca. Es una de las mejores cosas del viaje. *Consejo: guantes, subguantes y gorro.*
 
-A última hora de la mañana volvimos a Svolvær y en media hora de coche llegamos a **Henningsvær**. Comimos en **Fiskekrogen**, junto al canal del pueblo: comida excelente. Mejor reservar y pedir una mesa junto a la ventana, porque el efecto «pequeña Venecia» es real. Después de comer, el famoso campo de fútbol, perfecto para fotos y dron, y un paseo entre panaderías, artesanía y boutiques vintage de un pueblo pequeño pero animado.
+A última hora de la mañana volvimos a Svolvær y en media hora de coche llegamos a **Henningsvær**. Comimos en **Fiskekrogen**, junto al canal del pueblo: comida excelente. Mejor reservar y pedir una mesa junto a la ventana, porque el efecto «pequeña Venecia» es real. Después de comer, el famoso campo de fútbol: bonito, pero luce mucho más en foto, sobre todo desde el dron, que en persona. Si no vas con dron, al final es un campito de fútbol. Luego un paseo entre panaderías, artesanía y boutiques vintage de un pueblo pequeño pero animado.
 
 La tarde era para el **Festvågtind trail**, con salida desde el Festvågtind Parking: 3 km y 500 metros de desnivel, más técnico que el Reinebringen, entre roca y terreno arenoso. En unos cuarenta minutos se llega a un lago alpino a mitad de camino; desde allí, a la derecha, hay un mirador más sencillo, a la izquierda la cima de verdad, más exigente. Por la noche cenamos en **Paleo Arctic**, el mejor restaurante de todo el viaje: cuesta algo más que la media, pero la calidad es claramente superior.
 
@@ -66,7 +66,9 @@ Desayuno en casa, bocadillos comprados en el Coop Prix de Reine y el ferri de la
 
 En Vindstad la primera parada fue la «casita amarilla», una antigua escuela convertida en bar de la comunidad, gestionado por voluntarios, con unos cinnamon rolls excelentes. Luego veinte o treinta minutos de sendero llano hasta una casita blanca, un cuarto de hora de subida suave junto a un pequeño cementerio, un collado panorámico y cinco minutos de bajada. Abajo está la **playa de Bunes**, inmensa, abierta al océano y encajada entre las montañas.
 
-Nos comimos el picnic en la casita amarilla, luego té caliente y partidas de cartas a la espera del ferri de la tarde. A la vuelta hicimos la compra en Ramberg, mejor surtido y más barato que el Coop de Reine, aunque solo vende cerveza, nada de vino ni licores. Por la noche, barbacoa en el rorbu: salmón a la parrilla, verduras salteadas y una mesa larga.
+Cuando fuimos nosotros lloviznaba y hacía viento. El paseo desde el muelle hasta la playa es bonito y nada cansado. Una vez allí nos quedamos un rato admirándola: es majestuosa, sobre todo por las paredes de roca que caen a pico sobre el mar.
+
+De vuelta cerca del muelle, nos comimos el picnic en la casita amarilla, luego un dulce, una infusión caliente y partidas de cartas a la espera del ferri de la tarde. Ojo, eso sí: la casa de la comunidad no siempre está abierta. A la vuelta hicimos la compra en Ramberg, mejor surtido y más barato que el Coop de Reine, aunque solo vende cerveza, nada de vino ni licores. Por la noche, barbacoa en el rorbu: salmón a la parrilla, verduras salteadas y una mesa larga.
 
 **En la práctica:** ferri Reine-Vindstad con pocas salidas al día, conviene reservar la plaza · en Vindstad no hay tiendas: agua y comida hay que llevarlas · en la playa de Bunes se puede acampar, pero sin hogueras en la arena y la basura se lleva de vuelta
 
@@ -163,6 +165,8 @@ alternativas de aquí abajo tienen más respaldo online.
 - Leknes: DIGG Restaurant
 - Ramberg: Ramberg Resort
 - Sakrisøy: Anita's Seafood
+
+En general, la comida me sorprendió para bien por sus sabores: buena, pero cara.
 
 ## Consejos prácticos / errores que no hay que repetir
 - Reservar con tiempo la excursión al Trollfjord: es la mejor experiencia del viaje.

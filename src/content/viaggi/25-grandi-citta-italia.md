@@ -33,7 +33,7 @@ Per dormire conviene **Monti o Trastevere**, per stare in un rione ancora vivo. 
 
 La prima serata l'abbiamo passata a orientarci a piedi: nel centro di Roma le distanze sono minori di quanto sembri e quasi tutto sta nel raggio di due chilometri.
 
-Abbiamo cenato in trattoria a **Testaccio**, non in centro. Le quattro paste romane (cacio e pepe, gricia, amatriciana, carbonara) e, per chi se la sente, il quinto quarto.
+Abbiamo cenato in trattoria a **Testaccio**, non in centro. Le quattro paste romane (cacio e pepe, gricia, amatriciana, carbonara) e, per chi se la sente, il quinto quarto. *Il mio ricordo: a Roma mi piace la Gattabuia, a Trastevere, che è un'ex galera. I posti con il menù in inglese o il buttadentro di solito sono meh: meglio spostarsi un attimo fuori dal centro.*
 
 Da Fiumicino il **Leonardo Express** porta a Termini senza fermate in poco più di mezz'ora; da lì Monti si raggiunge a piedi, Trastevere con il tram 8 da piazza Venezia. Lasciate le valigie, il primo giro conviene farlo nel tardo pomeriggio, quando la luce si fa calda: da Monti si scende ai **Fori Imperiali**, si sale al **Campidoglio** per la terrazza dietro il palazzo Senatorio, che guarda il Foro dall'alto, e si chiude a piazza Venezia. *A Roma i nasoni, le fontanelle di ghisa, danno acqua potabile e fresca tutto il giorno: basta una borraccia.* Testaccio si raggiunge in metro, linea B fino a Piramide, o in taxi.
 
@@ -80,7 +80,7 @@ Conviene prendere un treno del mattino per avere già il pomeriggio a Firenze. L
 **In pratica:** Frecciarossa e Italo Roma-Firenze circa 1 ora e 30, prezzi più bassi comprando in anticipo · in auto attenzione alla ZTL del centro, multe automatiche · in Oltrarno conviene prenotare la cena nelle osterie più note
 
 ### Giorno 6 — La cupola e gli Uffizi
-Abbiamo preso la **prima fascia del mattino per la cupola di Brunelleschi**, prenotata con giorni di anticipo. Sono 463 gradini, ma soprattutto è un percorso che passa **dentro** la cupola, nell'intercapedine tra i due gusci, a pochi metri dagli affreschi del Giudizio.
+Abbiamo preso la **prima fascia del mattino per la cupola di Brunelleschi**, prenotata con giorni di anticipo. Sono 463 gradini, ma soprattutto è un percorso che passa **dentro** la cupola, nell'intercapedine tra i due gusci, a pochi metri dagli affreschi del Giudizio. *Il mio ricordo: è stretta, ma merita.*
 
 Il pomeriggio agli **Uffizi**, con prenotazione.
 
@@ -95,7 +95,7 @@ La mattina siamo stati al **Museo dell'Opera del Duomo**, che quasi tutti saltan
 
 Per il pomeriggio ci sono la **Cappella Brancacci** o le **Cappelle Medicee**, meno affollate e altrettanto importanti.
 
-A cena, una trattoria dell'Oltrarno o di Sant'Ambrogio, con la bistecca: è un taglio preciso, alto tre dita, al sangue, servito al chilo, e non si ordina ben cotta.
+A cena, una trattoria dell'Oltrarno o di Sant'Ambrogio, con la bistecca: è un taglio preciso, alto tre dita, al sangue, servito al chilo, e non si ordina ben cotta. *Il mio ricordo: la bistecca è incredibile; il lampredotto invece non mi fa impazzire.*
 
 Il Museo dell'Opera è compreso nel biglietto della cupola, quindi non costa nulla in più: conviene andarci al mattino, all'apertura, e restare un paio d'ore. La **Cappella Brancacci**, in Oltrarno, conserva gli affreschi di Masaccio con la Cacciata dal Paradiso e si visita a piccoli gruppi, su prenotazione. Le **Cappelle Medicee**, dietro San Lorenzo, hanno la sagrestia nuova con le tombe di Michelangelo. Nel pomeriggio si può passare per il **mercato di Sant'Ambrogio**, frequentato soprattutto dai fiorentini. *La bistecca si paga a peso e un taglio intero pesa almeno un chilo: conviene ordinarla in due o in tre.*
 
@@ -106,7 +106,7 @@ Il Museo dell'Opera è compreso nel biglietto della cupola, quindi non costa nul
 
 Per dormire conviene **Cannaregio o Castello**, zone ancora abitate. **Dormire in centro esenta dal contributo di accesso** e soprattutto dà accesso alle due finestre in cui Venezia è quello che ci si aspettava: prima delle nove e dopo le sette.
 
-La prima sera abbiamo fatto il giro dei **bacari**: i cicheti mangiati in piedi al banco con l'ombra di vino, spostandosi da un'osteria all'altra. Costa poco e si mangia benissimo, purché si esca dagli assi principali.
+La prima sera abbiamo fatto il giro dei **bacari**: i cicheti mangiati in piedi al banco con l'ombra di vino, spostandosi da un'osteria all'altra. Costa poco e si mangia benissimo, purché si esca dagli assi principali. *Il mio ricordo: Venezia è bella tutta, cavolo.*
 
 Da Santa Lucia si esce direttamente sul Canal Grande, e la cosa più semplice è prendere il vaporetto fino alla fermata più vicina all'alloggio. Le valigie grandi sono un problema: ponti con gradini ovunque, niente auto, e i facchini a pagamento. Cannaregio si raggiunge a piedi dalla stazione in un quarto d'ora. Il pomeriggio è per perdersi senza meta, lontano dall'asse Rialto-San Marco, lungo la **Fondamenta della Misericordia** o verso il **Ghetto**, il più antico d'Europa. *Il giro dei bacari comincia presto, verso le sei: molti chiudono la cucina prima delle nove.*
 
@@ -148,7 +148,7 @@ Da Venezia a Napoli il Frecciarossa diretto impiega circa cinque ore: conviene p
 ### Giorno 12 — Pompei ed Ercolano, e rientro
 Siamo entrati a **Pompei all'apertura**, con il biglietto nominativo prenotato: sessantasei ettari senza ombra, che nelle ore centrali d'estate sono faticosi al limite del rischioso.
 
-Se il tempo lo permette, nel pomeriggio c'è **Ercolano**. È un decimo della superficie ma, sepolta dal fango e non dalla cenere, conserva i piani superiori, le travi carbonizzate e perfino i mobili. Si cammina dentro case a due piani con le scale ancora al loro posto.
+Se il tempo lo permette, nel pomeriggio c'è **Ercolano**. È un decimo della superficie ma, sepolta dal fango e non dalla cenere, conserva i piani superiori, le travi carbonizzate e perfino i mobili. Si cammina dentro case a due piani con le scale ancora al loro posto. *Il mio ricordo: Pompei è più bella, ma a Ercolano c'è meno gente: valutate voi.*
 
 Poi il rientro da Napoli.
 
@@ -183,7 +183,7 @@ Pompei si raggiunge con la **Circumvesuviana** da Napoli, fermata Pompei Scavi, 
 - **Roma:** le quattro paste e il quinto quarto (coda alla vaccinara, trippa, coratella) in trattoria a Testaccio o al Pigneto. Carciofo alla giudia nel Ghetto in stagione, supplì come merenda.
 - **Firenze:** i panini con il **lampredotto** ai banchi, la cosa più fiorentina che ci sia. Ribollita, pappa al pomodoro, crostini di fegatini e la bistecca. Mercato di Sant'Ambrogio, non quello di San Lorenzo.
 - **Venezia:** il **giro di bacari** con i cicheti al banco. Sarde in saor, baccalà mantecato, moeche in stagione. Lontano dagli assi San Marco-Rialto, dove il rapporto qualità-prezzo è il peggiore d'Italia.
-- **Napoli:** pizza, ragù che cuoce per ore, genovese, sfogliatella riccia calda del mattino e il caffè in piedi. E la pizza a portafoglio da strada, due euro.
+- **Napoli:** pizza, ragù che cuoce per ore, genovese, sfogliatella riccia calda del mattino e il caffè in piedi. E la pizza a portafoglio da strada, due euro. Per un'esperienza «touristy-kitsch» ma divertente, Nennella.
 
 ## Consigli pratici / errori da non ripetere
 - **Non andare tra luglio e agosto.**

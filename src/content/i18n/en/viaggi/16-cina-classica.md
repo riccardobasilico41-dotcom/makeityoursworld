@@ -11,6 +11,8 @@
 ## Apertura personale
 Classic China is the trip everyone pictures when they think of China: the Great Wall, the Terracotta Army, the Bund. It's also the trip that, more than any other, gets decided before you leave, sitting at a computer, because here almost nothing that works elsewhere works: not credit cards, not maps, not tickets bought on the spot. If you show up with four things sorted (trains, payments, connection, museum reservations), you find a country that is surprisingly easy, safe and cheap. If you put them off, you'll sort them out anyway, but you'll lose your first three days. This itinerary is built on the single east-west axis that high-speed rail makes simple, and it ends in two places that are China only on paper: Hong Kong and Macau.
 
+My impression, put the way it comes to me: China is total chaos, but what a blast. In general you eat well, though the food tends to be very spicy, and you often don't quite know what you've ordered: that's part of the experience.
+
 ## Scheda pratica
 - **When to go:** April-May or September-October. In any case avoid Golden Week (October 1-7) and Chinese New Year: half the country is on the move, trains are sold out weeks ahead and the booking sites become unusable. The first days of May are also holidays and crowded.
 - **Documents/visa:** passport valid for at least 6 months. Italian citizens can enter visa-free for up to 30 consecutive days, under an exemption extended through December 31, 2026, with multiple entries allowed. Hong Kong and Macau have their own border: you leave and re-enter, and each re-entry into mainland China starts a new 30-day period. Every foreigner must be registered with the police within 24 hours of arrival. Hotels do it at check-in; if you're staying in a private apartment you have to go in person.
@@ -68,6 +70,8 @@ We spent the morning at the **museum of Qin Shi Huang's mausoleum**, 40 minutes 
 **Public bus 5 (306)** leaves from the train station, cheap and direct. In the station square, meanwhile, there are "tourist buses" that take you to minor mausoleums and pass them off as the main site: it's the most common rip-off in the city.
 
 On site, some people recommend visiting the pits in reverse order (three, two, one), because after number one the others look like construction sites. Don't skip the **bronze chariots museum** out of tiredness: the two chariots are the most technically impressive pieces of the whole site.
+
+*My memory: the Terracotta Army is beautiful, but be ready to feel like a sardine in a can.*
 
 The afternoon is free for the **Giant Wild Goose Pagoda** or the **Shaanxi History Museum** (free, but with daily quotas that run out in minutes).
 
@@ -162,7 +166,7 @@ Many airlines allow in-town check-in at the Airport Express Hong Kong station, d
 - **Macau:** usually not needed, you do it as a day trip from Hong Kong. If you stay, you'll find the casino hotels on the Cotai at lower prices than you'd think, because the property makes its money elsewhere.
 
 ## Dove abbiamo mangiato
-- **Beijing:** lacquered duck at a specialist place, not at a restaurant that just has it on the menu. For the rest: jianbing from the morning carts, steamed jiaozi and baozi, hand-pulled noodles, cumin lamb skewers.
+- **Beijing:** lacquered duck at a specialist place, not at a restaurant that just has it on the menu. *My memory: the duck in Beijing was delicious.* For the rest: jianbing from the morning carts, steamed jiaozi and baozi, hand-pulled noodles, cumin lamb skewers.
 - **Xi'an:** the Muslim Quarter is the culinary reason to stop. Roujiamo, biang biang noodles, cold spicy liangpi, yangrou paomo (the lamb soup in which you crumble the bread by hand before handing it over to the kitchen).
 - **Shanghai:** xiaolongbao, done the right way (you bite off a corner, drink the broth, then eat the rest: rushing it means burning yourself), and shengjianbao seared on the griddle. It's also the city with the most developed international scene in China, useful if after two weeks you need a break.
 - **Suzhou and the water villages:** river fish and braised pork, which in the towns is the specialty.

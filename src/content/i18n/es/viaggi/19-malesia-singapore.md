@@ -53,6 +53,8 @@ Desde la sede central se llega a pie por un sendero en la selva de unos veinte m
 
 Por la noche está la **night walk guiada**, que casi todos se saltan por cansancio y es la mejor parte: de día la selva es silenciosa y no se ve nada, de noche es ruidosísima y con la linterna se ven arañas, serpientes y ojos que brillan entre las hojas. Se sale después de cenar con el guía durante un par de horas; hacen falta linterna frontal, manga larga y calzado cerrado, y se camina despacio, parando a menudo. *En la estación húmeda hacen falta calcetines antisanguijuelas: suben por los pies y no es un detalle menor.* El repelente va también de día, y el agua que hay que llevar siempre es más de la que uno cree.
 
+*Mi recuerdo: en Taman Negara vimos pocos animales, pero quizá porque era temporada alta y había muchísima gente. Nosotros pasamos una noche en una cueva; llovió, y la vuelta al día siguiente fue divertida, con todas las sanguijuelas: mi amigo hasta encontró una debajo de la axila. Cómo prepararse está explicado más abajo, en la sección sobre las sanguijuelas.*
+
 **En la práctica:** canopy walkway abierta por lo general de la mañana a primera hora de la tarde, entrada de pocos ringgit, cerrada un día a la semana y con mal tiempo (comprobar en la sede central) · night walk guiada reservable en Kuala Tahan, unas decenas de ringgit · calcetines antisanguijuelas conseguidos antes de entrar · al menos dos litros de agua por persona.
 
 ### Día 5 — Hacia las Cameron Highlands
@@ -144,7 +146,7 @@ Salimos desde Changi, uno de los pocos aeropuertos del mundo a los que conviene 
 
 ## Dove abbiamo dormito
 - **Kuala Lumpur:** Bukit Bintang por la comodidad, Chinatown por los precios y el carácter. La regla es estar cerca de una parada del monorraíl.
-- **Taman Negara:** Kuala Tahan, en la orilla opuesta a la entrada, con los restaurantes flotantes sobre el río. Dentro del parque se duerme mejor y por la mañana ya estás en el lado correcto.
+- **Taman Negara:** Kuala Tahan, en la orilla opuesta a la entrada, con los restaurantes flotantes sobre el río. Dentro del parque se duerme mejor y por la mañana ya estás en el lado correcto. Nosotros pasamos una noche en una cueva, dentro del parque.
 - **Cameron Highlands:** Tanah Rata. Las habitaciones no tienen calefacción: de noche hace frío de verdad y las mantas cuentan más que las estrellas.
 - **Penang:** dentro del perímetro UNESCO de George Town, en una shophouse restaurada. Batu Ferringhi tiene las playas pero te deja fuera de la parte que cuenta.
 - **Malaca:** en el casco histórico, por el lado de Chinatown.
@@ -156,6 +158,17 @@ Salimos desde Changi, uno de los pocos aeropuertos del mundo a los que conviene 
 - **Cameron Highlands:** steamboat por la noche porque hace frío, té y scones en los salones de té de las plantaciones.
 - **Malaca:** cocina nyonya (ayam pongteh, laksa nyonya, chicken rice balls) y los satay celup, cocinados por los propios clientes en una olla de salsa de cacahuete en el centro de la mesa.
 - **Singapur:** centros hawker, siempre. Pollo de Hainan, laksa de Katong, char kway teow, roti prata de desayuno, carrot cake que no es una tarta.
+- **Durián:** la fruta que encuentras por todas partes en Malasia. ¿Mi veredicto? A mí me da un asco tremendo, jaja.
+
+## Sanguijuelas: cómo prepararse y cómo quitarlas
+En Taman Negara, sobre todo después de la lluvia, las sanguijuelas están casi garantizadas. No se les conoce transmisión de enfermedades y dan más impresión que daño, pero conviene llegar preparado. Es información general, no un consejo médico.
+
+- **Cómo vestirse:** calcetines antisanguijuelas encima de los calcetines normales y dentro del calzado, pantalón largo metido en los calcetines, manga larga. Los calcetines normales solos no bastan: las sanguijuelas pasan entre el tejido.
+- **Qué llevar:** calcetines antisanguijuelas (mejor conseguirlos antes de entrar en el parque), repelente con DEET para rociar calcetines, zapatos y bajos del pantalón, gasas, tiritas y un desinfectante.
+- **Durante la caminata:** revisarse en cada parada, también donde no se pensaría (dedos de los pies, cinturilla, cuello, axilas), y hacerlo con calma antes de entrar en la tienda, el saco de dormir o la habitación.
+- **Cómo quitarlas:** deslizar una uña o algo plano, como una tarjeta, por la piel bajo la ventosa pequeña, la de la boca, hasta que se suelte; luego despegar el otro extremo y apartarla de un toquecito. No arrancarlas a la fuerza ni usar sal, fuego, cigarrillos o repelente sobre una sanguijuela pegada: puede regurgitar en la herida y aumentar el riesgo de infección.
+- **Después:** la herida sangra mucho rato, incluso horas, por el anticoagulante: es normal. Lavar con agua y jabón, desinfectar, presionar con una gasa y tapar con una tirita, cambiándola hasta que deje de sangrar. No rascarse, aunque pique durante días.
+- **Cuándo ir al médico:** si aparecen signos de infección (enrojecimiento que se extiende, hinchazón, pus, fiebre) o de reacción alérgica (hinchazón extensa, sarpullido, mareo); la dificultad para respirar es una urgencia.
 
 ## Consejos prácticos / errores que no repetir
 - **Elegir la costa antes que las fechas.** Los monzones de las dos costas malasias son opuestos, y esto condiciona todo lo demás.

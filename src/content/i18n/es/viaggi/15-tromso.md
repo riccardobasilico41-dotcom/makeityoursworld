@@ -30,7 +30,7 @@ Si quedan tiempo y energías, también el **Fjellheisen** (el teleférico al mon
 **En la práctica:** del aeropuerto al centro en autobús o taxi, pocos kilómetros · la Catedral Ártica está en la otra orilla del fiordo, a pie por el puente o en autobús · Fjellheisen 495 NOK ida y vuelta, abierto hasta medianoche en invierno · crampones de zapato útiles en las aceras heladas.
 
 ### Día 2 — Aurora chase en minibús
-La noche la dedicamos a la caza de la aurora boreal con un guía en minibús (grupos pequeños, normalmente de 8 a 16 personas). Se sale de la ciudad para alejarse de la contaminación lumínica y se persigue el cielo despejado, incluso un par de horas si hace falta: a veces a lo largo de la costa, a veces tierra adentro, en algunas noches incluso más allá de la frontera, en Finlandia. La excursión se adapta al tiempo de la noche, así que la salida y el destino los deciden los guías en el último momento, según las previsiones y el índice de la aurora.
+La noche la dedicamos a la caza de la aurora boreal con un guía en minibús (grupos pequeños, normalmente de 8 a 16 personas). Se sale de la ciudad para alejarse de la contaminación lumínica y se persigue el cielo despejado, incluso un par de horas si hace falta: a veces a lo largo de la costa, a veces tierra adentro, en algunas noches incluso más allá de la frontera, en Finlandia. La excursión se adapta al tiempo de la noche, así que la salida y el destino los deciden los guías en el último momento, según las previsiones y el índice de la aurora. Nosotros salimos dos veces: la primera nos quedamos justo a las afueras de la ciudad, la segunda tuvimos que ir bastante más lejos, prácticamente hacia Suecia.
 
 Operadores conocidos en la zona son Chasing Lights y Tromsø Friluftsenter. Es una salida larga, de 6-8 horas, de unos 100-160 € por persona; varios tours incluyen una parada con fuego y té caliente y algunos consejos de fotografía nocturna.
 
@@ -92,7 +92,7 @@ La cocina local gira mucho en torno al cangrejo real (kongekrabbe) y al bacalao 
 | Avistamiento de ballenas (opcional) | 130-260 € |
 
 ## Chiusura personale
-Aun con pocos recuerdos directos, lo que más me quedó es la sensación de la oscuridad de la noche polar interrumpida por las luces de la ciudad y por la aurora vista moverse por primera vez en el cielo. De las tres excursiones, la que repetiría sin duda es el husky sledding: el silencio blanco alrededor, roto solo por el aliento de los perros, es un recuerdo más nítido que muchos otros de este viaje.
+Aun con pocos recuerdos directos, lo que más me quedó es la sensación de la oscuridad de la noche polar interrumpida por las luces de la ciudad y por la aurora vista moverse por primera vez en el cielo. La de los perros estuvo bien, pero no la repetiría: me pareció un poco regular. Eso sí, yo con los animales soy sensible, así que cuenta relativamente, y es un juicio a posteriori: sigue siendo una experiencia muy bonita.
 
 ## Tag
 `#norvegia` `#tromso` `#aurora-boreale` `#inverno` `#cultura-sami`

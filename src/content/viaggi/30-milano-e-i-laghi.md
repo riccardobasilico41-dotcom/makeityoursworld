@@ -15,6 +15,8 @@ Due giorni bastano e avanzano per il centro. Il punto è che Milano, più che un
 
 La cosa da fare **subito**, prima ancora di comprare i voli, è provare a prenotare il **Cenacolo**.
 
+*Il mio ricordo: Milano è casa, quindi per me tutto ha un sapore diverso.*
+
 ## Scheda pratica
 - **Il Cenacolo (l'Ultima Cena di Leonardo):** è **la prenotazione più difficile d'Italia**. Si entra **solo su prenotazione**, in **gruppi contingentati**, per una **visita di pochi minuti** (nell'ordine dei quindici), perché il microclima della sala va protetto. **I biglietti vengono rilasciati a scaglioni con mesi di anticipo e si esauriscono in pochissimo tempo.** Presentarsi sul posto non serve. Bisogna segnarsi in agenda la data e l'ora di apertura delle vendite e provarci quel giorno lì. Chi non ci riesce non ha rovinato il viaggio: va accettato prima, non davanti alla porta chiusa.
 - **Duomo:** l'ingresso in cattedrale e la **salita alle terrazze** sono biglietti distinti, con formule cumulative che comprendono anche il **Museo del Duomo** e la **chiesa paleocristiana di San Giovanni alle Fonti sotto il sagrato**. **Le terrazze si salgono con ascensore o a piedi**, e vanno fatte: si cammina **tra le guglie e i doccioni**, sul tetto, ed è un'esperienza che non ha equivalenti in Italia. Il Duomo ha **135 guglie e più di tremila statue**, e la sua costruzione è durata quasi **sei secoli**.
@@ -81,13 +83,13 @@ Da Varenna il **traghetto** collega in pochi minuti **Bellagio** e **Menaggio**:
 
 **Villa del Balbianello**, su un promontorio tra Lenno e Ossuccio, è la più scenografica delle ville del lago ed è **un bene del FAI**: **l'accesso è regolamentato, spesso su prenotazione, con giorni di chiusura settimanale**, e ci si arriva a piedi lungo un sentiero o in taxi-boat. Conviene controllare tutto prima di andarci.
 
-**Como città** si raggiunge in meno di un'ora da Cadorna o da Centrale ed è una base più comoda ma meno bella: ha il Duomo, le mura, la funicolare per Brunate e la sua storia di seta. Chi ha un giorno solo scelga **Varenna e il triangolo dei battelli**, non Como città.
+**Como città** si raggiunge in meno di un'ora da Cadorna o da Centrale ed è una base più comoda ma meno bella: ha il Duomo, le mura, la funicolare per Brunate e la sua storia di seta. Chi ha un giorno solo scelga **Varenna e il triangolo dei battelli**, non Como città. *Il mio ricordo: Como è bellissima, ma turistica.*
 
 **Bergamo Alta — la gita più sottovalutata.**
-Circa cinquanta minuti di treno, poi la **funicolare** che sale alla città murata. Piazza Vecchia con la Torre Civica, la **Cappella Colleoni** e la Basilica di Santa Maria Maggiore, le mura venete percorribili a piedi con la pianura sotto. Si fa in mezza giornata, costa pochissimo e non ha niente della calca del lago. **Da provare i casoncelli**, e la **polenta**, che qui è un piatto serio.
+Circa cinquanta minuti di treno, poi la **funicolare** che sale alla città murata. Piazza Vecchia con la Torre Civica, la **Cappella Colleoni** e la Basilica di Santa Maria Maggiore, le mura venete percorribili a piedi con la pianura sotto. Si fa in mezza giornata, costa pochissimo e non ha niente della calca del lago. **Da provare i casoncelli**, e la **polenta**, che qui è un piatto serio. *Il mio ricordo: Bergamo non è essenziale, ma è autentica.*
 
 **Lago Maggiore e Isole Borromee — la gita più lunga e la più scenografica.**
-Treno per **Stresa**, circa un'ora e mezza, e battello per le isole: **Isola Bella** con il palazzo barocco e il giardino a terrazze con i pavoni bianchi, **Isola dei Pescatori**, un borgo di pescatori ancora abitato, e **Isola Madre** con il giardino botanico. È una giornata intera e va organizzata con gli orari dei battelli in mano.
+Treno per **Stresa**, circa un'ora e mezza, e battello per le isole: **Isola Bella** con il palazzo barocco e il giardino a terrazze con i pavoni bianchi, **Isola dei Pescatori**, un borgo di pescatori ancora abitato, e **Isola Madre** con il giardino botanico. È una giornata intera e va organizzata con gli orari dei battelli in mano. *Il mio ricordo: le Borromee sono una sorpresa, se non le si conosce, perché sono super curate.*
 
 **In alternativa, per chi vuole il lago senza folla, c'è il Lago d'Orta**: più piccolo, meno raggiungibile e molto più quieto, con l'**Isola di San Giulio** e il Sacro Monte sopra Orta.
 
@@ -142,7 +144,7 @@ Milano funziona così: non mette niente in mostra, non spiega quello che ha, e l
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Le modalità e le date di rilascio dei biglietti del Cenacolo cambiano**, così come gli ingressi (gratuiti o meno) di HangarBicocca e Cimitero Monumentale, gli orari dei battelli sul Lago di Como e le condizioni di accesso a Villa del Balbianello. Vanno riverificati.
 
-**Cosa manca ancora:** anno e date, se il Cenacolo è stato visto e come si è ottenuto il biglietto, quale gita sul lago è stata fatta davvero, alloggi e prezzi, aneddoti veri al posto delle bozze.
+**Cosa manca ancora:** anno e date, se il Cenacolo è stato visto e come si è ottenuto il biglietto, alloggi e prezzi, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto dalle terrazze del Duomo tra le guglie

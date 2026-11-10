@@ -64,6 +64,8 @@ Es la jornada fuera de la ciudad, y hay que decidirla de antemano porque **hacer
 
 **La combinación recomendada es Herculano por la mañana y Vesubio por la tarde.** O bien **Pompeya toda la jornada**. Quien insiste en hacer Pompeya y Herculano el mismo día acaba haciendo mal las dos.
 
+*Mi recuerdo: Pompeya es más bonita, pero en Herculano hay menos gente. Valorad vosotros qué os gusta más.*
+
 **Herculano** es más pequeña, se recorre en dos o tres horas y está **mucho mejor conservada que Pompeya**. Pompeya quedó sepultada por lapilli y ceniza; Herculano fue arrasada por **flujos piroclásticos que la sellaron bajo veinte metros de material**, carbonizando en lugar de quemar. Por eso **todavía hay vigas, puertas, camas, estantes de madera**, y **los pisos superiores de las casas siguen en pie**, algo que en Pompeya casi nunca ocurre. En los **arcos de la antigua playa** se encontraron más de trescientos esqueletos: eran las personas que esperaban para embarcar.
 
 **Al Vesubio** se llega con los autobuses que suben desde la explanada de Herculano hasta el aparcamiento en altura; desde allí **se camina por un camino de tierra en cuesta hasta el borde del Gran Cono**, con el viento y la gravilla. **La reserva online es obligatoria.** Desde el borde se mira dentro del cráter, fumarolas incluidas, y detrás está el golfo entero, con las ciudades construidas hasta las laderas. El vértigo de verdad lo dan **los seiscientos mil habitantes de la zona roja** que se ven desde allí arriba, más que el cráter. **Calzado cerrado obligatorio de hecho, cortavientos incluso en verano.**
@@ -106,6 +108,7 @@ Luego volvimos a Nápoles para la última noche en la ciudad.
 - **Sfogliatella** riccia o frolla en el desayuno, **babà** después, **taralli 'nzogna e pepe** en el paseo marítimo.
 - **El café en la barra**, corto, especificando antes si se quiere amargo.
 - **Para beber:** Falanghina, Greco di Tufo, Fiano di Avellino entre los blancos; **Lacryma Christi del Vesubio**, que crece sobre suelo volcánico, y Taurasi entre los tintos.
+- **Nennella**, para una experiencia turística y kitsch. *Mi recuerdo: Nennella es «touristy-kitsch», pero divertida.*
 - **Regla general:** las pizzerías históricas del centro tienen colas largas y a menudo un sistema de números; las de barrio hacen la misma pizza sin espera. La relación calidad-precio en Nápoles es la mejor de Italia, y es difícil comer mal.
 
 ## Consejos prácticos / errores que no hay que repetir

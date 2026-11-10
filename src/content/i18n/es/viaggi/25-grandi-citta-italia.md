@@ -33,7 +33,7 @@ Para dormir conviene **Monti o Trastevere**, para estar en un barrio todavía vi
 
 La primera tarde-noche la pasamos orientándonos a pie: en el centro de Roma las distancias son menores de lo que parece y casi todo está en un radio de dos kilómetros.
 
-Cenamos en una trattoria de **Testaccio**, no en el centro. Las cuatro pastas romanas (cacio e pepe, gricia, amatriciana, carbonara) y, para quien se atreva, el quinto quarto.
+Cenamos en una trattoria de **Testaccio**, no en el centro. Las cuatro pastas romanas (cacio e pepe, gricia, amatriciana, carbonara) y, para quien se atreva, el quinto quarto. *Mi recuerdo: en Roma me gusta La Gattabuia, en el Trastevere, que es una antigua cárcel. Los sitios con menú en inglés o captador suelen ser «meh»: mejor moverse un poco fuera del centro.*
 
 Desde Fiumicino el **Leonardo Express** lleva a Termini sin paradas en algo más de media hora; desde allí a Monti se llega a pie, a Trastevere con el tranvía 8 desde piazza Venezia. Tras dejar las maletas, la primera vuelta conviene darla a última hora de la tarde, cuando la luz se vuelve cálida: desde Monti se baja a los **Foros Imperiales**, se sube al **Campidoglio** para la terraza detrás del palacio Senatorio, que mira el Foro desde arriba, y se termina en piazza Venezia. *En Roma los nasoni, las fuentes de hierro fundido, dan agua potable y fresca todo el día: basta una cantimplora.* A Testaccio se llega en metro, línea B hasta Piramide, o en taxi.
 
@@ -80,7 +80,7 @@ Conviene coger un tren de la mañana para tener ya la tarde en Florencia. El Olt
 **En la práctica:** Frecciarossa e Italo Roma-Florencia una hora y media, precios más bajos comprando con antelación · en coche cuidado con la ZTL del centro, multas automáticas · en el Oltrarno conviene reservar la cena en las osterias más conocidas
 
 ### Día 6 — La cúpula y los Uffizi
-Cogimos la **primera franja de la mañana para la cúpula de Brunelleschi**, reservada con días de antelación. Son 463 escalones, pero sobre todo es un recorrido que pasa **por dentro** de la cúpula, en el hueco entre las dos cáscaras, a pocos metros de los frescos del Juicio.
+Cogimos la **primera franja de la mañana para la cúpula de Brunelleschi**, reservada con días de antelación. Son 463 escalones, pero sobre todo es un recorrido que pasa **por dentro** de la cúpula, en el hueco entre las dos cáscaras, a pocos metros de los frescos del Juicio. *Mi recuerdo: es estrecha, pero merece la pena.*
 
 La tarde en los **Uffizi**, con reserva.
 
@@ -95,7 +95,7 @@ Por la mañana estuvimos en el **Museo dell'Opera del Duomo**, que casi todos se
 
 Para la tarde están la **Capilla Brancacci** o las **Capillas Médicis**, menos concurridas e igual de importantes.
 
-De cena, una trattoria del Oltrarno o de Sant'Ambrogio, con la bistecca: es un corte preciso, de tres dedos de alto, poco hecho, servido al kilo, y no se pide bien hecha.
+De cena, una trattoria del Oltrarno o de Sant'Ambrogio, con la bistecca: es un corte preciso, de tres dedos de alto, poco hecho, servido al kilo, y no se pide bien hecha. *Mi recuerdo: la bistecca es increíble; el lampredotto, en cambio, no me vuelve loco.*
 
 El Museo dell'Opera está incluido en la entrada de la cúpula, así que no cuesta nada más: conviene ir por la mañana, a la apertura, y quedarse un par de horas. La **Capilla Brancacci**, en el Oltrarno, conserva los frescos de Masaccio con la Expulsión del Paraíso y se visita en grupos pequeños, con reserva. Las **Capillas Mediceas**, detrás de San Lorenzo, tienen la sacristía nueva con las tumbas de Miguel Ángel. Por la tarde se puede pasar por el **mercado de Sant'Ambrogio**, frecuentado sobre todo por florentinos. *La bistecca se paga al peso y un corte entero pesa al menos un kilo: conviene pedirla para dos o tres.*
 
@@ -106,7 +106,7 @@ El Museo dell'Opera está incluido en la entrada de la cúpula, así que no cues
 
 Para dormir conviene **Cannaregio o Castello**, zonas todavía habitadas. **Dormir en el centro exime de la tasa de acceso** y sobre todo da acceso a las dos ventanas en las que Venecia es lo que uno esperaba: antes de las nueve y después de las siete.
 
-La primera noche hicimos la ruta de los **bacari**: los cicheti comidos de pie en la barra con la sombra de vino, pasando de una osteria a otra. Cuesta poco y se come muy bien, siempre que se salga de los ejes principales.
+La primera noche hicimos la ruta de los **bacari**: los cicheti comidos de pie en la barra con la sombra de vino, pasando de una osteria a otra. Cuesta poco y se come muy bien, siempre que se salga de los ejes principales. *Mi recuerdo: Venecia es bonita entera, caray.*
 
 Desde Santa Lucia se sale directamente al Gran Canal, y lo más sencillo es coger el vaporetto hasta la parada más cercana al alojamiento. Las maletas grandes son un problema: puentes con escalones por todas partes, sin coches, y mozos de pago. A Cannaregio se llega a pie desde la estación en un cuarto de hora. La tarde es para perderse sin rumbo, lejos del eje Rialto-San Marco, por la **Fondamenta della Misericordia** o hacia el **Gueto**, el más antiguo de Europa. *La ruta de los bacari empieza pronto, hacia las seis: muchos cierran la cocina antes de las nueve.*
 
@@ -148,7 +148,7 @@ De Venecia a Nápoles el Frecciarossa directo tarda unas cinco horas: conviene s
 ### Día 12 — Pompeya y Herculano, y regreso
 Entramos en **Pompeya a la apertura**, con la entrada nominativa reservada: sesenta y seis hectáreas sin sombra, que en las horas centrales del verano son agotadoras hasta rozar el riesgo.
 
-Si el tiempo lo permite, por la tarde está **Herculano**. Es una décima parte de la superficie pero, sepultada por el lodo y no por la ceniza, conserva los pisos superiores, las vigas carbonizadas e incluso los muebles. Se camina dentro de casas de dos plantas con las escaleras todavía en su sitio.
+Si el tiempo lo permite, por la tarde está **Herculano**. Es una décima parte de la superficie pero, sepultada por el lodo y no por la ceniza, conserva los pisos superiores, las vigas carbonizadas e incluso los muebles. Se camina dentro de casas de dos plantas con las escaleras todavía en su sitio. *Mi recuerdo: Pompeya es más bonita, pero en Herculano hay menos gente: valorad vosotros.*
 
 Luego el regreso desde Nápoles.
 
@@ -183,7 +183,7 @@ A Pompeya se llega con la **Circumvesuviana** desde Nápoles, parada Pompei Scav
 - **Roma:** las cuatro pastas y el quinto quarto (coda alla vaccinara, tripa, coratella) en trattoria en Testaccio o en el Pigneto. Alcachofa a la judía en el Gueto en temporada, supplì de merienda.
 - **Florencia:** los bocadillos de **lampredotto** en los puestos, lo más florentino que hay. Ribollita, pappa al pomodoro, crostini de higaditos y la bistecca. Mercado de Sant'Ambrogio, no el de San Lorenzo.
 - **Venecia:** la **ruta de bacari** con los cicheti en la barra. Sardinas en saor, bacalao mantecado, moeche en temporada. Lejos de los ejes San Marcos-Rialto, donde la relación calidad-precio es la peor de Italia.
-- **Nápoles:** pizza, ragù que cuece durante horas, genovese, sfogliatella riccia caliente de la mañana y el café de pie. Y la pizza a portafoglio de la calle, dos euros.
+- **Nápoles:** pizza, ragù que cuece durante horas, genovese, sfogliatella riccia caliente de la mañana y el café de pie. Y la pizza a portafoglio de la calle, dos euros. Para una experiencia «touristy-kitsch» pero divertida, Nennella.
 
 ## Consejos prácticos / errores que no hay que repetir
 - **No ir entre julio y agosto.**

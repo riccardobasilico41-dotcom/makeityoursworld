@@ -11,6 +11,8 @@
 ## Apertura personale
 La China clásica es el viaje que todo el mundo imagina cuando piensa en China: la Muralla, el Ejército de Terracota, el Bund. Y es también el viaje que más que ningún otro se decide antes de salir, delante de un ordenador, porque aquí casi nada de lo que funciona en otros sitios funciona: ni las tarjetas de crédito, ni los mapas, ni las entradas compradas sobre la marcha. Quien llega con cuatro cosas resueltas (los trenes, los pagos, la conexión, las reservas de los museos) se encuentra un país sorprendentemente fácil, seguro y barato. Quien las deja para después las resuelve igualmente, pero pierde los tres primeros días. Este itinerario se apoya en ese único eje este-oeste que la alta velocidad hace sencillo, y termina en dos lugares que son China solo sobre el papel: Hong Kong y Macao.
 
+Mi impresión, dicha tal cual me sale: China es un caos, pero qué pasada. En general se come bien, aunque suele ser muy picante, y a menudo no sabes muy bien qué has pedido: forma parte de la experiencia.
+
 ## Scheda pratica
 - **Cuándo ir:** abril-mayo o septiembre-octubre. En cualquier caso hay que evitar la Semana Dorada (1-7 de octubre) y el Año Nuevo chino: en esos días se mueve medio país, los trenes están agotados desde hace semanas y las webs se vuelven impracticables. También los primeros días de mayo son festivos y hay mucha gente.
 - **Documentos/visado:** pasaporte con al menos 6 meses de validez. Para los ciudadanos italianos la entrada es sin visado hasta 30 días consecutivos, en régimen de exención prorrogado hasta el 31 de diciembre de 2026, con entradas múltiples permitidas. Hong Kong y Macao tienen frontera propia: se sale y se vuelve a entrar, y cada regreso a la China continental abre un nuevo periodo de 30 días. Todo extranjero debe registrarse en la policía en las 24 horas siguientes a su llegada. Los hoteles lo hacen en el check-in; quien duerme en apartamentos privados tiene que ir en persona.
@@ -68,6 +70,8 @@ La mañana la pasamos en el **museo del mausoleo de Qin Shi Huang**, a 40 minuto
 Desde la estación de tren sale el **autobús público 5 (306)**, económico y directo. En la explanada de la estación circulan en cambio «autobuses turísticos» que llevan a mausoleos menores haciéndolos pasar por el yacimiento principal: es el timo más común de la ciudad.
 
 Allí hay quien aconseja visitar las fosas en orden inverso (tres, dos, uno), porque después de la número uno las otras parecen obras. El **museo de los carros de bronce** no hay que saltárselo por cansancio: los dos carros son las piezas técnicamente más impresionantes de todo el yacimiento.
+
+*Mi recuerdo: los Guerreros de Terracota son bonitos, pero hay que contar con sentirse como una sardina en lata.*
 
 La tarde queda libre para la **Gran Pagoda de la Oca Silvestre** o para el **Museo de Historia de Shaanxi** (gratuito, pero con cupos diarios que se agotan en minutos).
 
@@ -162,7 +166,7 @@ Muchas compañías permiten el check-in en la ciudad, en la estación del Airpor
 - **Macao:** normalmente no hace falta, se hace en el día desde Hong Kong. Quien se queda encuentra los hoteles de los casinos del Cotai a precios más bajos de lo que parece, porque el establecimiento gana en otro sitio.
 
 ## Dove abbiamo mangiato
-- **Pekín:** pato laqueado en un local especializado, no en un restaurante que lo tenga en la carta. Para el resto: jianbing en los puestos de la mañana, jiaozi y baozi al vapor, fideos estirados a mano, brochetas de cordero al comino.
+- **Pekín:** pato laqueado en un local especializado, no en un restaurante que lo tenga en la carta. *Mi recuerdo: el pato en Pekín estaba buenísimo.* Para el resto: jianbing en los puestos de la mañana, jiaozi y baozi al vapor, fideos estirados a mano, brochetas de cordero al comino.
 - **Xi'an:** el Barrio Musulmán es el motivo gastronómico para quedarse. Roujiamo, fideos biang biang, liangpi frío y picante, yangrou paomo (la sopa de cordero en la que se desmenuza el pan con las manos antes de entregarlo en cocina).
 - **Shanghái:** xiaolongbao, con la técnica correcta (se muerde una esquina, se bebe el caldo, luego se come el resto: hacerlo de golpe significa quemarse) y shengjianbao dorados en la plancha. Es también la ciudad con la escena internacional más desarrollada de China, útil si después de dos semanas hace falta un respiro.
 - **Suzhou y los pueblos de agua:** pescado de río y cerdo estofado, que en los pueblos es la especialidad.

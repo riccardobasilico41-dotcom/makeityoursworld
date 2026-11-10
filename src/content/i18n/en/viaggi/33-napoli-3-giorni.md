@@ -64,6 +64,8 @@ This is the day outside the city, and it must be decided in advance because **do
 
 **The recommended combination is Herculaneum in the morning and Vesuvius in the afternoon.** Or **Pompeii for the whole day**. Anyone who insists on doing Pompeii and Herculaneum on the same day ends up doing both badly.
 
+*My memory: Pompeii is more beautiful, but Herculaneum has fewer people. Decide for yourselves which you'd enjoy more.*
+
 **Herculaneum** is smaller, can be toured in two or three hours and is **much better preserved than Pompeii**. Pompeii was buried by lapilli and ash; Herculaneum was hit by **pyroclastic flows that sealed it under twenty meters of material**, carbonizing rather than burning. That's why **there are still beams, doors, beds, wooden shelves**, and **the upper floors of the houses are standing**, which at Pompeii almost never happens. In the **boat chambers on the ancient beach** over three hundred skeletons were found: they were the people waiting to be taken aboard.
 
 **Vesuvius** is reached by the buses that climb from the Herculaneum square to the parking area at altitude; from there **you walk on an uphill dirt track to the rim of the Gran Cono**, with the wind and the gravel. **Online booking is mandatory.** From the rim you look into the crater, fumaroles included, and behind it the whole gulf, with towns built right up the slopes. The real vertigo comes from **the six hundred thousand inhabitants of the red zone** that you can see from up there, more than from the crater. **Closed shoes are in practice mandatory, a windbreaker even in summer.**
@@ -106,6 +108,7 @@ Then we returned to Naples for the last evening in the city.
 - **Sfogliatella** riccia or frolla at breakfast, **babà** afterward, **taralli 'nzogna e pepe** on the waterfront.
 - **Coffee at the bar**, short, specifying beforehand if you want it unsweetened.
 - **To drink:** Falanghina, Greco di Tufo, Fiano di Avellino among the whites; **Lacryma Christi del Vesuvio**, which grows on volcanic soil, and Taurasi among the reds.
+- **Nennella**, for a touristy, kitschy experience. *My memory: Nennella is touristy-kitsch, but fun.*
 - **General rule:** the historic pizzerias of the center have long lines and often a number system; the neighborhood ones make the same pizza without the wait. Value for money in Naples is the best in Italy, and it's hard to eat badly.
 
 ## Practical tips / mistakes not to repeat

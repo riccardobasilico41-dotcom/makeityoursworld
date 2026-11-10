@@ -44,6 +44,8 @@ Ci sono piste per tutti i livelli: blu per principianti (zona scuola sci a Bande
 
 Il livello del comprensorio è onesto ma senza pretese. Non regge il confronto con le grandi stazioni alpine, ma è perfetto per qualche giorno rilassato, con impianti moderni e code quasi inesistenti rispetto alle Alpi in alta stagione. Lo skipass l'abbiamo comprato online in anticipo, con lo sconto rispetto alla biglietteria in loco. L'attrezzatura l'abbiamo noleggiata in uno dei tanti negozi del centro, a prezzi molto più bassi che nelle capitali sciistiche alpine.
 
+Sulle piste mi ricordo la statua di Batman: carina. Mangiare nelle baite in quota, invece, non è economico: i prezzi sono molto alti per lo standard locale, direi italiani, europei.
+
 **Après-ski**: alla base della gondola, Sopranos e Happy End Bar sono il punto di ritrovo classico a fine giornata; in centro, il quartiere vecchio si anima ogni sera con mehane, pub e musica dal vivo, a prezzi molto contenuti.
 
 **In pratica:** skipass giornaliero adulti circa 33 € nella stagione 2025/26, prezzi della nuova stagione da controllare sul sito ufficiale della stazione · al mattino in alta stagione conviene essere alla gondola presto · noleggio dell'attrezzatura nei negozi del centro, conviene provarla la sera prima.

@@ -139,7 +139,8 @@ Two days in Rome work only if you accept one rule: **you give up the Vatican or 
 - **The quinto quarto in Testaccio**, the cooking of a neighborhood born around the slaughterhouse.
 - **The maritozzo with cream** for breakfast, at least once.
 - **To drink:** the whites of the Castelli and Cesanese, the Lazio red almost nobody knows.
-- **General rule:** moving **three blocks** away from the main monuments changes the quality and halves the bill. Restaurants with photos of the dishes on display and a tout at the door are, without exception, to be avoided.
+- **La Gattabuia**, in Trastevere, in an old tavern that was once a prison. *My memory: I like La Gattabuia, it's a former jail. But there are lots of places, in lots of different areas, where you eat well.*
+- **General rule:** moving **three blocks** away from the main monuments changes the quality and halves the bill. Restaurants with an English menu, photos of the dishes on display and a tout at the door aren't necessarily bad, but they're definitely touristy and overpriced. *My memory: the ones with English menus or a tout are usually meh. The idea is to move a little out of the center to eat more authentically.*
 
 ## Practical tips / mistakes not to repeat
 - **Book the Borghese Gallery and Colosseum weeks ahead**, not days.

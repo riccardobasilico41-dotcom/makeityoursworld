@@ -11,6 +11,8 @@
 ## Apertura personale
 Este es el tramo de Indonesia que hice en la primera mitad del viaje largo, de Yogyakarta a las Gili. Aquí está condensado en dos semanas, que es el tiempo que tiene casi cualquiera que sale desde Italia.
 
+Si sigo volviendo a Indonesia, el mérito es de la gente, incluso antes que de los lugares: las sonrisas, como en Tailandia.
+
 Java es la parte que menos parece vacaciones y la que deja el recuerdo más nítido. En el Ijen subimos a oscuras con la máscara antigás y a nuestro lado pasaban los mineros con las cestas de azufre a la espalda. En el Bromo el amanecer es espectacular, aunque lo compartes con cientos de jeeps. Las fotos aéreas de esta página las hice con el dron: el Bromo al amanecer, la puerta de Handara, los arrozales de Jatiluwih, los islotes de las Gili.
 
 Bali la recorro lejos del sur. Duermo hacia el interior, en Munduk y en Ubud, y bajo a la costa solo para Uluwatu y la danza kecak. Las Gili cierran el viaje con tres días lentos, sin coches ni motos.

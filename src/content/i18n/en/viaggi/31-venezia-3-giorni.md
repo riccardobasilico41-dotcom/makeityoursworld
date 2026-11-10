@@ -15,6 +15,8 @@ It takes very little to turn it upside down: **sleep there** and **walk in the w
 
 Three days is the right measure to do the big things without giving up the rest: and the rest, here, is the best part.
 
+*My memory: Venice is beautiful, all of it. Seriously.*
+
 ## Scheda pratica
 - **Access fee:** on certain dates Venice applies **a fee for those entering the city for the day**, with **a reservation and a code to show**. **Anyone staying overnight in the city is exempt but must still register** (usually the accommodation does it, and applies the tourist tax separately). **Dates, amounts and procedures have changed several times since its introduction**: check the municipality's website before leaving, because the fine for those not in order is steep.
 - **When to go:** **from November to March, outside Carnival**, Venice is itself: fog, few people, low light, reasonable prices. **June to August is the worst time**: hot, humid, saturated, and in summer the minor canals have a smell no guidebook mentions. **April-May and October** are the compromise. **Carnival, the Redentore (July) and the Regata Storica (September)** are spectacular and at the same time unmanageable: you go on purpose or you avoid them.

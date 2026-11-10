@@ -1,6 +1,6 @@
 # Sulle rotte dei grandi vini: Langhe, Valpolicella e Toscana in 10 giorni
 
-**Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano i nomi delle cantine effettivamente visitate, che qui contano più che altrove)
+**Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — i nomi delle cantine mancano di proposito, perché la scelta è troppo personale)
 **Periodo del viaggio:**
 **Durata:** 10 giorni, 9 notti
 **Compagni di viaggio:** con amici, in autonomia, con auto a noleggio e cantine prenotate
@@ -11,11 +11,13 @@
 ## Apertura personale
 L'Italia è il maggior produttore mondiale di vino e ha oltre cinquecento varietà autoctone catalogate: più di qualunque altro paese, e non di poco. Tre paesaggi vitivinicoli sono patrimonio UNESCO. Ma la ragione per cui questo tema funziona come viaggio non è il vino in sé: è che il vino è il pretesto migliore per attraversare l'Italia agricola invece di quella monumentale, e per parlare con chi fa le cose invece che con chi le racconta. In una cantina italiana, a differenza di molte zone francesi, chi ti riceve è quasi sempre chi il vino lo fa, e questo cambia completamente il tipo di conversazione. A una condizione, che è anche l'unica regola vera di questo itinerario: **si prenota, non ci si presenta.**
 
+*Il mio ricordo: scegliere la cantina è impossibile, è una cosa troppo personale. Dipende dal gusto, dal budget e dall'esperienza che si cerca: una cosa più ricercata o una più autentica.*
+
 ## Scheda pratica
 - **Quando andare:** **settembre e ottobre**, durante la vendemmia, quando le cantine lavorano e si vede il processo invece del racconto. Aprile-giugno è la seconda finestra. **In agosto molte cantine chiudono** o sono in preparazione; da novembre a marzo le visite si riducono.
 - **La regola numero uno, prenotare:** una cantina è un'azienda agricola con un suo ciclo di lavoro, **non è un negozio**. Chi si presenta senza preavviso nella maggior parte dei casi trova il cancello chiuso; chi scrive una mail tre giorni prima viene ricevuto dal produttore, che ha un'ora per te. Tra queste due giornate c'è una differenza enorme.
 - **Massimo due o tre cantine al giorno.** Dopo la terza non si assaggia più niente con attenzione e la giornata diventa una collezione di timbri. Meglio due fatte bene, con il tempo di camminare tra i filari.
-- **Chi guida, il punto da risolvere prima di partire:** si visitano cantine in zone collinari e si beve. Le soluzioni serie sono due. O **si assaggia e si sputa**, come fanno i professionisti (il vino si giudica in bocca, non nello stomaco, e in ogni cantina c'è l'apposito contenitore sul tavolo), oppure **si paga un autista**. Diverse zone offrono servizi navetta dedicati. In Italia le sanzioni per la guida in stato di ebbrezza sono severe, e nelle zone vitivinicole i controlli ci sono.
+- **Chi guida, il punto da risolvere prima di partire:** si visitano cantine in zone collinari e si beve. Le soluzioni serie sono tre. O **si assaggia e si sputa**, come fanno i professionisti (il vino si giudica in bocca, non nello stomaco, e in ogni cantina c'è l'apposito contenitore sul tavolo), o **si paga un autista** (diverse zone offrono servizi navetta dedicati), oppure **si guida a turno**. In Italia le sanzioni per la guida in stato di ebbrezza sono severe, e nelle zone vitivinicole i controlli ci sono. *Il mio ricordo: noi abbiamo guidato a turno. Bere e guidare è un gioco brutto e pericoloso, oltre che illegale.*
 - **Costi:** degustazioni di massima **15-40€ a persona** secondo i vini e il livello dell'accoglienza, spesso **scalate sull'acquisto**. Nelle zone più note (Barolo, Montalcino) le cantine storiche costano di più; nelle zone emergenti si paga molto meno o niente.
 - **Comprare:** in azienda il prezzo è quello di produzione e si parla con chi il vino l'ha fatto. **Non comprare in enoteca quello che si può comprare in cantina.** Conviene portare qualcosa per proteggere le bottiglie durante il viaggio.
 - **Alla degustazione:** niente profumi forti, che interferiscono. E non serve fingere di sapere: i produttori spiegano molto più volentieri a chi è curioso che a chi recita.
@@ -126,7 +128,7 @@ Dalla Val d'Orcia a Firenze si sale in poco meno di due ore, per la Cassia fino 
 ## Consigli pratici / errori da non ripetere
 - **Non presentarsi in cantina senza appuntamento.** È l'errore numero uno e costa la giornata.
 - **Non programmare più di due o tre cantine al giorno.**
-- **Non rimandare il problema di chi guida.** Si assaggia e si sputa, o si paga un autista.
+- **Non rimandare il problema di chi guida.** Si assaggia e si sputa, si paga un autista o si guida a turno.
 - **Non andare in agosto**, quando molte cantine chiudono.
 - **Non fermarsi solo alle denominazioni famose:** Langhe e Montalcino sono care e affollate, mentre Irpinia, Vulture, Valtellina ed Etna offrono lo stesso livello con una frazione dei visitatori.
 - **Non comprare in enoteca** quello che si può comprare in azienda.
@@ -139,7 +141,7 @@ La cosa che si impara dopo qualche giorno di cantine è che il rapporto tra fama
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026. Prezzi delle degustazioni e modalità di visita cambiano per azienda e per stagione.
 
-**Nessun nome di cantina è stato inserito, di proposito**: in un itinerario del genere i nomi sono la parte personale, e vanno messi solo quelli visitati davvero. **Cosa manca ancora:** anno e date, cantine effettivamente visitate, cosa è stato assaggiato e comprato, alloggi e prezzi, aneddoti veri al posto delle bozze.
+**Nessun nome di cantina è stato inserito, di proposito**: la scelta della cantina è troppo personale e dipende da gusto, budget ed esperienza cercata. **Cosa manca ancora:** anno e date, cosa è stato assaggiato e comprato, alloggi e prezzi, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto delle colline delle Langhe in autunno

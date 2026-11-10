@@ -11,6 +11,8 @@
 ## Apertura personale
 This itinerary is rooted in places Rick has personally visited, put in order for anyone who wants London and a piece of the English countryside in the same trip.
 
+*My memory: London is home for me too. I went to university in Surrey and lived there for a year, working in the center.*
+
 The first four days are in **London**, with no car: the Tube, buses and many hours on foot along the Thames. Then you take the train at Paddington and get off at **Oxford**, the city of colleges. There you pick up the car and drive into the **Cotswolds**, the hills of honey-coloured stone villages. The last stretch takes you to **Bath**, with its Roman baths, where the train takes you back to London.
 
 You only need the car for three days. In the city it would be a burden, between traffic, parking and the Congestion Charge. In the countryside it's the easiest option: the villages are close together, but buses are few. You drive on the left, on narrow roads between hedges. If you don't feel up to it, you can do the Cotswolds by train to Moreton-in-Marsh and an organised tour of the villages.
@@ -21,7 +23,7 @@ You only need the car for three days. In the city it would be a burden, between 
 - **Currency and payments:** pound sterling. Cards and contactless work almost everywhere.
 - **Getting around London:** Tube and buses, paying with a contactless card or an Oyster card, always the same card, which has a daily spending cap.
 - **Trains:** trains leave London Paddington for Oxford, for the Cotswolds line to Moreton-in-Marsh and for Bath. Check times and prices on nationalrail.co.uk.
-- **Driving:** you drive on the left. The Italian driving licence is valid with no international permit. In England the alcohol limit is 80 mg per 100 ml of blood, but Rick's advice is simple: whoever drives doesn't drink.
+- **Driving:** you drive on the left. The Italian driving licence is valid with no international permit. In England the alcohol limit is 80 mg per 100 ml of blood, but Rick's advice is simple: whoever drives doesn't drink. *My memory: driving on the left is fine for me, but it takes some practice, let's say. And in the countryside the roads can get narrow now and then.*
 - **A car in London:** better not. In the central zone you pay the Congestion Charge, £18 a day (2026), plus the ULEZ for the most polluting vehicles.
 - **Health:** the EHIC covers necessary treatment in the public NHS service; travel insurance is still recommended.
 - **Sockets:** type G, with three rectangular pins. You need an adapter.

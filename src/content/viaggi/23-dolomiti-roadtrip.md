@@ -1,6 +1,6 @@
 # Dolomiti Roadtrippin': la guida per zone, tra Alto Adige e Trentino
 
-**Stato bozza:** 🟡 in lavorazione (zone, dislivelli e informazioni pratiche verificate e aggiornate; mancano ricordi ed esperienze dirette da aggiungere alle singole zone)
+**Stato bozza:** 🟡 in lavorazione (zone, dislivelli e informazioni pratiche verificate e aggiornate; ricordi diretti aggiunti per Seceda, Tre Cime, Lagazuoi e Pale di San Martino)
 **Periodo del viaggio:**
 **Durata:** modulare — da un weekend su una zona sola a un giro completo di due settimane. Tre proposte pronte più sotto.
 **Compagni di viaggio:** con amici, in autonomia, in auto
@@ -51,7 +51,7 @@ Per questo qui sotto non troverai un itinerario a giorni fissi. Troverai dieci z
 ## Itinerario per zone
 
 ### Val Gardena, Ortisei e la Seceda
-La zona più accessibile e più scenografica per chi ha poco tempo: da Ortisei una cabinovia porta in pochi minuti sulla Seceda, dove la cresta erbosa si spezza di colpo in pareti verticali con vista sulle Odle: una delle immagini più riprodotte delle Dolomiti, e per una volta la realtà regge il confronto con la foto. Sotto, l'Alpe di Siusi è l'altopiano alpino più esteso d'Europa, quasi piatto, perfetto per chi vuole camminare senza soffrire. Val Gardena è anche il centro dell'artigianato ladino della scultura in legno, se si cerca qualcosa di diverso dalla montagna per un pomeriggio.
+La zona più accessibile e più scenografica per chi ha poco tempo: da Ortisei una cabinovia porta in pochi minuti sulla Seceda, dove la cresta erbosa si spezza di colpo in pareti verticali con vista sulle Odle: una delle immagini più riprodotte delle Dolomiti, e per una volta la realtà regge il confronto con la foto. Per me la Seceda è stata incredibile, ma è un po' troppo inflazionata: bisogna andarci presto, molto presto. Sotto, l'Alpe di Siusi è l'altopiano alpino più esteso d'Europa, quasi piatto, perfetto per chi vuole camminare senza soffrire. Val Gardena è anche il centro dell'artigianato ladino della scultura in legno, se si cerca qualcosa di diverso dalla montagna per un pomeriggio.
 *Hidden gem: il Parco Naturale Puez-Odle, appena dietro la Seceda, dove la gente cala di colpo non appena ci si allontana dalla stazione della cabinovia.*
 
 ### Alta Badia e il Parco di Fanes-Sennes
@@ -63,7 +63,7 @@ Il giro dei quattro passi che circondano il Gruppo del Sella (Gardena, Sella, Po
 *Hidden gem: percorrere l'anello all'alba, prima delle nove, quando i passi sono ancora vuoti di moto e camper.*
 
 ### Il Lagazuoi e le trincee della Grande Guerra
-Al Passo Falzarego, a quindici minuti da Cortina, la funivia del Lagazuoi porta in cima a un massiccio che porta ancora i segni della Prima guerra mondiale: gallerie scavate a mano nella roccia tra il 1915 e il 1917, quando austriaci e italiani si sono contesi la montagna centimetro per centimetro. Si può salire con la funivia e scendere a piedi attraverso le gallerie. In questa forma non esiste in nessun'altra zona alpina: storia militare e geologia nello stesso percorso.
+Al Passo Falzarego, a quindici minuti da Cortina, la funivia del Lagazuoi porta in cima a un massiccio che porta ancora i segni della Prima guerra mondiale: gallerie scavate a mano nella roccia tra il 1915 e il 1917, quando austriaci e italiani si sono contesi la montagna centimetro per centimetro. Si può salire con la funivia e scendere a piedi attraverso le gallerie. In questa forma non esiste in nessun'altra zona alpina: storia militare e geologia nello stesso percorso. Il Lagazuoi è emozionante: vengono i brividi a pensare a quello che è successo lassù.
 *Hidden gem: il Sentiero delle Gallerie in versione discesa, molto meno impegnativo e meno esposto della salita, adatto a chi vuole vedere le trincee senza affrontare un dislivello serio.*
 
 ### La Marmolada, la Regina delle Dolomiti
@@ -75,7 +75,7 @@ Il lago più fotografato delle Dolomiti, e quello dove l'overtourism si vede di 
 *Hidden gem: arrivare per le sette del mattino, prima dell'apertura del contingentamento: il lago è lo stesso, la luce è migliore e per un'ora lo si ha quasi da soli.*
 
 ### Le Tre Cime di Lavaredo e San Candido
-Il simbolo per eccellenza delle Dolomiti, tre pareti verticali che si vedono da decine di chilometri di distanza. Il giro ad anello attorno alla base (Rifugio Auronzo, Rifugio Lavaredo, Forcella Lavaredo, Rifugio Locatelli, da cui si ha la vista classica sulle pareti nord) è di circa dieci chilometri con 350 metri di dislivello, fattibile da chiunque cammini con un minimo di allenamento. San Candido, ai piedi della valle, è un paese ordinato con una collegiata romanica tra le più importanti dell'Alto Adige e un centro storico che vale una passeggiata a sé.
+Il simbolo per eccellenza delle Dolomiti, tre pareti verticali che si vedono da decine di chilometri di distanza. Imponenti, ma anche loro un po' troppo inflazionate: meglio arrivare presto presto. Il giro ad anello attorno alla base (Rifugio Auronzo, Rifugio Lavaredo, Forcella Lavaredo, Rifugio Locatelli, da cui si ha la vista classica sulle pareti nord) è di circa dieci chilometri con 350 metri di dislivello, fattibile da chiunque cammini con un minimo di allenamento. San Candido, ai piedi della valle, è un paese ordinato con una collegiata romanica tra le più importanti dell'Alto Adige e un centro storico che vale una passeggiata a sé.
 *Hidden gem: salire a piedi dalla Val Fiscalina invece che in auto, evitando del tutto pedaggio e prenotazione: è una giornata intera, ed è come si faceva prima che ci fosse la strada.*
 
 ### Brunico e la Val Pusteria
@@ -144,7 +144,7 @@ In rifugio si mangia una cucina precisa e ripetitiva che dopo tre giorni si ama:
 - **Considerare le zone meno fotografate** (Val di Sole, Vipiteno, Fanes) quando le zone principali sono piene: stessa geologia, molta meno gente.
 
 ## Chiusura personale
-Quello che resta delle Dolomiti, alla fine, non è una vista sola: è la sensazione di aver visto dieci posti diversi che condividono la stessa roccia. Val Gardena e Val di Sole distano meno di due ore d'auto e sembrano due paesi diversi: una piena di cabinovie e boutique, l'altra vuota e silenziosa a parità di montagna. È per questo che ha più senso pensarle come un arcipelago da esplorare zona per zona, tornandoci più volte, che come un unico itinerario da esaurire in una settimana. La parte migliore, quella dell'enrosadira sulle pareti al tramonto, in ogni caso non cambia mai: succede tutte le sere da duecentocinquanta milioni di anni, in ogni zona, che qualcuno la guardi o no.
+Mi sono piaciute tanto anche le Pale di San Martino, proprio perché meno turistiche. Quello che resta delle Dolomiti, alla fine, non è una vista sola: è la sensazione di aver visto dieci posti diversi che condividono la stessa roccia. Val Gardena e Val di Sole distano meno di due ore d'auto e sembrano due paesi diversi: una piena di cabinovie e boutique, l'altra vuota e silenziosa a parità di montagna. È per questo che ha più senso pensarle come un arcipelago da esplorare zona per zona, tornandoci più volte, che come un unico itinerario da esaurire in una settimana. La parte migliore, quella dell'enrosadira sulle pareti al tramonto, in ogni caso non cambia mai: succede tutte le sere da duecentocinquanta milioni di anni, in ogni zona, che qualcuno la guardi o no.
 
 ## Nota su questa bozza
 Zone, dislivelli e informazioni pratiche sono verificati e aggiornati a settembre 2026. **Contingentamenti, pedaggi, prezzi di parcheggi/funivie e regole di accesso cambiano ogni stagione** — Tre Cime, Braies e diversi altri punti sono passati alla prenotazione obbligatoria negli ultimi anni — e vanno riverificati prima di partire. Le tre proposte di roadtrip (5/7/10 giorni) sono combinazioni ragionate delle zone, non itinerari testati passo per passo: i tempi di percorrenza tra le zone sono indicativi.

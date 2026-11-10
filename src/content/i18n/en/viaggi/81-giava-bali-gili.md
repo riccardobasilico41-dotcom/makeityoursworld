@@ -11,6 +11,8 @@
 ## Apertura personale
 This is the stretch of Indonesia I covered in the first half of the long trip, from Yogyakarta to the Gilis. Here it's squeezed into two weeks, which is about all the time most people flying from Italy have.
 
+If I keep going back to Indonesia, the credit goes to the people even before the places: the smiles, just like in Thailand.
+
 Java is the part that feels least like a vacation and leaves the sharpest memory. At Ijen we climbed in the dark with gas masks, and the sulfur miners walked past us with baskets on their shoulders. Sunrise at Bromo is spectacular, even if you share it with hundreds of jeeps. I took the aerial photos on this page with the drone: Bromo at dawn, the Handara gate, the Jatiluwih rice terraces, the little islands of the Gilis.
 
 I do Bali away from the south. I sleep inland, in Munduk and Ubud, and only head down to the coast for Uluwatu and the Kecak dance. The Gilis close the trip with three slow days, with no cars and no scooters.

@@ -272,6 +272,7 @@ Quien llega en el autobús nocturno tiene la primera hora de la mañana para el 
 - **Komodo:** el mercado nocturno del paseo marítimo de Labuan Bajo para el pescado; a bordo de los barcos, la comida de la tripulación (arroz, pescado, verduras), sencilla y sorprendentemente buena.
 - **Flores:** oferta mínima fuera de Labuan Bajo, casi siempre arroz, pescado o pollo en los warungs de los pueblos; el se'i, la carne ahumada típica de las islas orientales, y el café de Flores tostado en casa.
 - **Sulawesi:** en Tana Toraja aparecen cerdo y búfalo, porque la zona es cristiana; el pa'piong, carne cocinada dentro de un tubo de bambú, hay que pedirlo con horas de antelación. En Makassar, el coto makassar en el desayuno.
+- **Durián:** lo encuentras por todas partes, y hay quien lo adora. A mí me da un asco tremendo, jaja.
 
 ## Consejos prácticos
 - **Guías certificados, siempre.** Para los orangutanes en Bukit Lawang, para el Rinjani (obligatorio por ley) y para los dragones de Komodo: es una cuestión de seguridad para los viajeros y para los animales, no una formalidad.
@@ -289,6 +290,8 @@ Quien llega en el autobús nocturno tiene la primera hora de la mañana para el 
 
 ## Chiusura personale
 Lo que queda de este viaje no es una única imagen, y es raro decirlo después de treinta y cinco días. Es más bien el contraste entre las dos mitades: la primera, de Sumatra a Bali, es la Indonesia que la mayoría de los viajeros conoce o imagina (templos al amanecer y al atardecer, volcanes, arrozales, una danza al atardecer, y una isla, Bali, que resulta estar hecha de zonas muy distintas entre sí más que de una sola postal). La segunda, de Lombok a Sulawesi, es la Indonesia que se queda atrás en las guías más generalistas, y es la que ha dejado los recuerdos más nítidos: el viento en el borde del cráter del Rinjani, un dragón de Komodo que no se mueve durante una hora entera, los colores del Kelimutu que nadie sabe prever, un funeral toraja que dura días. Poner en fila seis viajes distintos en un solo relato ha supuesto tomar decisiones (Raja Ampat fuera, Bunaken tocado solo de pasada), pero el sentido era precisamente este: mostrar lo variada que es una sola nación hecha de islas, y lo poco que se parecen las primeras tres semanas a las dos últimas.
+
+Y al final, si he vuelto tantas veces a Indonesia, es por la gente: los lugares, claro, pero sobre todo las sonrisas. Un poco como en Tailandia.
 
 ## Tag
 `#indonesia` `#sumatra` `#giava` `#bali` `#lombok` `#gili` `#komodo` `#flores` `#sulawesi` `#tanatoraja` `#vulcani` `#trekking` `#oranghi` `#draghidikomodo` `#asia`

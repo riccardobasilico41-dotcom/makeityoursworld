@@ -11,6 +11,8 @@
 ## Apertura personale
 Llegué a Tokio para la floración de los sakura, pero con unos días de desfase respecto al pico: los cerezos de principios de abril ya estaban hacia el final, entre pétalos que caían como nieve rosa (el hanafubuki) y ramas cada vez más desnudas. Pasé la primera tarde a la caza de los mejores cerezos por la ciudad, sabiendo que clavar el momento perfecto es casi imposible en un país donde la temporada dura pocos días. Fue un espectáculo igualmente, incluso en versión menguante, y es la manera justa de abrir un viaje que me llevó de Tokio al monte Fuji, y luego a Kioto, Hiroshima y Osaka.
 
+Eso sí, un spoiler: la ruta clásica está abarrotada de turistas por todas partes, sobre todo Kioto. Y Tokio merecería unas vacaciones para ella sola.
+
 ## Scheda pratica
 - **Cuándo ir:** principios de abril. Clima primaveral, entre 8°C y 18°C, parecido a nuestra primavera. La floración de los cerezos (sakura) en Tokio suele tener su pico entre finales de marzo y principios de abril: quien llega a principios de abril corre el riesgo de encontrar la fase menguante (pétalos que caen), pero las zonas más al norte o en altura, como Chureito, cerca del monte Fuji, que suele florecer una semana después que Tokio, pueden regalar la floración plena.
 - **Documentos/visado:** no hace falta visado para turismo hasta 90 días, basta el pasaporte en vigor y el billete de vuelta.
@@ -60,6 +62,8 @@ Cenamos en **Menbaka Fire Ramen**, donde el ramen llega con un espectáculo de f
 ### Día 5 (10.04) — Kioto: Arashiyama, el bosque de bambú y Gion
 La mañana empezó en el **Camino del Filósofo**, a lo largo del canal entre los cerezos, llamado así por Nishida Kitaro, que lo recorría cada día meditando. Luego un walking tour de **Gion**, el barrio de las geikos: en algunas calles está prohibido hacer fotos a las geikos cuando se es demasiado invasivo, hay carteles y las multas son altas.
 
+*Mi recuerdo: Kioto es la parada más asaltada, y recomiendo recorrerla a primera hora de la mañana, para tener una sensación más auténtica.*
+
 A primera hora de la tarde bajamos a la estación de Saga Arashiyama y comimos por la zona. Luego el **Arashiyama Monkey Park Iwatayama**: tres cuartos de hora de subida entre los macacos japoneses y Kioto desde arriba. El **Okochi Sanso Garden**, el jardín cuidadísimo de un famoso director de cine japonés, cuesta 1.000 yenes con té matcha y un dulce. Por último el **bosque de bambú de Arashiyama**, más bonito hacia el atardecer, cuando la multitud del día se aclara.
 
 Para cenar está **Hamburg Labo**, hamburguesas a la japonesa, o el sushi de cinta de **Sushi No Musashi**, barato y divertido. La noche en el Agora Kyoto Shijo.
@@ -68,6 +72,8 @@ Para cenar está **Hamburg Labo**, hamburguesas a la japonesa, o el sushi de cin
 
 ### Día 6 (11.04) — Kioto: Fushimi Inari, Nijo Castle, Kinkaku-ji
 Salimos temprano hacia **Fushimi Inari**, el santuario de los mil torii bermellón. La vuelta completa hasta lo alto de la montaña requiere dos horas y media, pero el primer tramo, el que fotografía todo el mundo, merece la visita incluso sin llegar a la cima. A última hora de la mañana estuvimos en el **Castillo de Nijo**, uno de los pocos castillos que han llegado intactos desde la época feudal, junto con el de Himeji, que llega más adelante en el viaje.
+
+*Mi recuerdo: en Fushimi Inari, vayas a la hora que vayas, siempre hay gente; cuanto más subes, menos hay. Yo subí hasta la cima: la vista, nada del otro mundo, pero la experiencia es bonita.*
 
 Después de comer y de un rato libre, el **Kinkaku-ji**, el Templo Dorado, abierto desde la mañana hasta última hora de la tarde: el pabellón recubierto de pan de oro que se refleja en el estanque es uno de los símbolos de Japón.
 
@@ -80,6 +86,8 @@ El truco de esta jornada se hace la noche anterior: enviar el equipaje pesado a 
 
 A última hora de la mañana estuvimos en el **Memorial de la Paz** y en el **Parque de la Paz**, con el Museo: un par de horas con audioguía. Es una parada intensa y necesaria, que hay que afrontar con calma. Después de una comida rápida, el ferri, incluido en el JR Pass, nos llevó a **Miyajima**. En la isla la comida callejera es sobre todo a base de ostras, el plato de la zona: no es para todos, pero hay que probarlo al menos una vez. La tarde la dedicamos al **santuario de Itsukushima**, con el famoso torii que parece flotar sobre el agua, y al **Daisho-in**.
 
+*Mi recuerdo: Hiroshima me llevó al límite: hacia el final tuve que acelerar el paso, porque emocionalmente era «demasiado». Miyajima me gustó, pero no la consideraría imprescindible, igual que Hiroshima: si tienes menos días, yo recortaría esta parte (opinión personal).*
+
 Hacia el anochecer volvimos, check-in y cena en **Koba**, bueno tanto antes como después de cenar sin cambiar de local. Dormimos en el Toyoko Inn Hiroshima Station.
 
 **En la práctica:** envío del equipaje con takkyubin la noche anterior, entrega al día siguiente o al otro · Shinkansen Kioto-Hiroshima unas 2 horas · Museo de la Paz con entrada económica, audioguía aparte · ferry JR a Miyajima incluido en el JR Pass, más una pequeña tasa de entrada a la isla · el torii parece flotar con la marea alta: las tablas de mareas se consultan antes.
@@ -91,12 +99,14 @@ Por la mañana estuvimos en el **Castillo de Himeji**, el más bonito y mejor co
 
 El tren a Osaka no hay que reservarlo y se coge con calma después de comer. Tras el check-in fuimos al **Castillo de Osaka**: desde la octava planta la vista de la ciudad es preciosa, y dentro el museo cuenta la historia de Osaka con hologramas. Hacia el anochecer **Dotonbori**, luego el **Tombori River Cruise**, veinte minutos por 1.000 yenes desde el puerto de Tazaemonbashi. Para cenar está el **Osaka Foodie Tour**, de pago y que hay que reservar aparte, o **Torikizoku** cerca de Namba: 3.600 yenes por dos horas de todo lo que se pueda comer y beber. Dormimos en el Sarasa Hotel Namba.
 
+*Mi recuerdo: la zona de Dotonbori está llena de gente y mis amigos tenían opiniones encontradas, pero a mí me encantó.*
+
 **En la práctica:** Shinkansen Kodama de Hiroshima a Himeji, incluido en el JR Pass, mientras que para el tren de Hello Kitty conviene reservar asiento · entrada combinada Castillo de Himeji y Jardines Kokoen 1.060 yenes, pero las tarifas del castillo hay que volver a comprobarlas en la web oficial antes de salir · Tombori River Cruise 1.000 yenes · Torikizoku 3.600 yenes por dos horas a voluntad.
 
 ### Día 9 (14.04) — Osaka y Nara
 Desde Namba la línea Kintetsu lleva a **Nara** (conviene comprobar si el JR Pass la cubre). La primera parada fue golosa: en **Nakatanidou** se comen los mochi, y hacia media mañana está el espectáculo de la preparación, siempre abarrotado, así que mejor llegar con tiempo.
 
-Luego el **Parque de Nara**, entre los ciervos sagrados que andan sueltos y los templos: el **Todaiji** con el gran Buda, uno de los más bonitos de Japón, el **Kasuga Taisha**, el santuario de las mil linternas, el **Gangoji** si queda tiempo, y el paseo por **Old Nara Street** entre los dos templos principales, donde se concentran los ciervos. Comimos en **Maguro Koya**, atún y sashimi de calidad notable.
+Luego el **Parque de Nara**, entre los ciervos sagrados que andan sueltos y los templos: el **Todaiji** con el gran Buda, uno de los más bonitos de Japón, el **Kasuga Taisha**, el santuario de las mil linternas, el **Gangoji** si queda tiempo, y el paseo por **Old Nara Street** entre los dos templos principales, donde se concentran los ciervos. Comimos en **Maguro Koya**, atún y sashimi de calidad notable. *Mi recuerdo: un atún espectacular, buenísimo de verdad.*
 
 Por la tarde volvimos a Osaka para el **Mercado de Kuromon** y la tarta de queso esponjosa de **Rikuro-Ojisan no Mise**, 900-1.000 yenes la tarta entera, para compartir. La noche la pasamos en **Shinsekai**: la **Torre de Tsutenkaku** (900 yenes, cierra por la noche, mejor no llegar tarde) y, para los curiosos, **Tobita Shinchi**, el barrio rojo más conocido del oeste de Japón, para mirar solo desde fuera y con respeto. Para cenar están las especialidades locales, kushikatsu, okonomiyaki, takoyaki, en **Jumbo-tsuribune Tsurikichi** o en uno de los muchos locales de la zona. Segunda noche en el Sarasa Hotel Namba.
 
@@ -144,7 +154,7 @@ Japón ofrece más ocasiones de las que el programa prevé para un baño calient
 
 ## Qué ver / qué hacer
 - **Pagoda Chureito y monte Fuji:** la imagen símbolo de Japón y, con un poco de suerte, el sitio justo para recuperar los sakura que nos perdimos en Tokio.
-- **Fushimi Inari:** los mil torii bermellón, mejor temprano por la mañana.
+- **Fushimi Inari:** los mil torii bermellón, con gente a cualquier hora: cuanto más se sube, menos hay.
 - **Kinkaku-ji:** el Templo Dorado, un icono.
 - **Miyajima y el torii flotante**, con el Memorial de la Paz de Hiroshima equilibrando la jornada con un momento de reflexión.
 - **Castillo de Himeji:** el castillo feudal más bonito de Japón.

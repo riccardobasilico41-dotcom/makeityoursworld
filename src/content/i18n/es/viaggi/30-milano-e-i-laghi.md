@@ -15,6 +15,8 @@ Dos días bastan y sobran para el centro. El caso es que Milán, más que un des
 
 Lo que hay que hacer **ya**, antes incluso de comprar los vuelos, es intentar reservar la **Última Cena**.
 
+*Mi recuerdo: Milán es mi casa, así que para mí todo tiene otro sabor.*
+
 ## Scheda pratica
 - **La Última Cena (el Cenacolo de Leonardo):** es **la reserva más difícil de Italia**. Se entra **solo con reserva**, en **grupos limitados**, para una **visita de pocos minutos** (del orden de quince), porque hay que proteger el microclima de la sala. **Las entradas se ponen a la venta por tandas con meses de antelación y se agotan en poquísimo tiempo.** Presentarse sin más no sirve. Hay que apuntar en la agenda la fecha y la hora de apertura de la venta e intentarlo ese mismo día. Quien no lo consigue no ha estropeado el viaje: hay que asumirlo antes, no delante de la puerta cerrada.
 - **Duomo:** la entrada a la catedral y la **subida a las terrazas** son entradas distintas, con fórmulas combinadas que incluyen también el **Museo del Duomo** y la **iglesia paleocristiana de San Giovanni alle Fonti bajo el atrio**. **A las terrazas se sube en ascensor o a pie**, y hay que hacerlo: se camina **entre los pináculos y las gárgolas**, sobre el tejado, y es una experiencia que no tiene equivalente en Italia. El Duomo tiene **135 pináculos y más de tres mil estatuas**, y su construcción duró casi **seis siglos**.
@@ -81,13 +83,13 @@ Desde Varenna el **ferri** conecta en pocos minutos **Bellagio** y **Menaggio**:
 
 **Villa del Balbianello**, en un promontorio entre Lenno y Ossuccio, es la más espectacular de las villas del lago y es **un bien del FAI**: **el acceso está regulado, a menudo con reserva, con días de cierre semanal**, y se llega a pie por un sendero o en taxi-boat. Conviene comprobarlo todo antes de ir.
 
-**La ciudad de Como** se alcanza en menos de una hora desde Cadorna o desde Centrale y es una base más cómoda pero menos bonita: tiene el Duomo, las murallas, el funicular a Brunate y su historia de seda. Quien tenga un solo día que elija **Varenna y el triángulo de barcos**, no la ciudad de Como.
+**La ciudad de Como** se alcanza en menos de una hora desde Cadorna o desde Centrale y es una base más cómoda pero menos bonita: tiene el Duomo, las murallas, el funicular a Brunate y su historia de seda. Quien tenga un solo día que elija **Varenna y el triángulo de barcos**, no la ciudad de Como. *Mi recuerdo: Como es preciosa, pero turística.*
 
 **Bérgamo Alta: la excursión más infravalorada.**
-Unos cincuenta minutos de tren, luego el **funicular** que sube a la ciudad amurallada. Piazza Vecchia con la Torre Cívica, la **Capilla Colleoni** y la Basílica de Santa Maria Maggiore, las murallas venecianas que se recorren a pie con la llanura debajo. Se hace en media jornada, cuesta poquísimo y no tiene nada de la aglomeración del lago. **Hay que probar los casoncelli**, y la **polenta**, que aquí es un plato serio.
+Unos cincuenta minutos de tren, luego el **funicular** que sube a la ciudad amurallada. Piazza Vecchia con la Torre Cívica, la **Capilla Colleoni** y la Basílica de Santa Maria Maggiore, las murallas venecianas que se recorren a pie con la llanura debajo. Se hace en media jornada, cuesta poquísimo y no tiene nada de la aglomeración del lago. **Hay que probar los casoncelli**, y la **polenta**, que aquí es un plato serio. *Mi recuerdo: Bérgamo no es imprescindible, pero es auténtica.*
 
 **Lago Mayor e Islas Borromeas: la excursión más larga y la más espectacular.**
-Tren a **Stresa**, una hora y media aproximadamente, y barco a las islas: **Isola Bella** con el palacio barroco y el jardín en terrazas con los pavos reales blancos, **Isola dei Pescatori**, un pueblo de pescadores todavía habitado, e **Isola Madre** con el jardín botánico. Es una jornada entera y hay que organizarla con los horarios de los barcos en la mano.
+Tren a **Stresa**, una hora y media aproximadamente, y barco a las islas: **Isola Bella** con el palacio barroco y el jardín en terrazas con los pavos reales blancos, **Isola dei Pescatori**, un pueblo de pescadores todavía habitado, e **Isola Madre** con el jardín botánico. Es una jornada entera y hay que organizarla con los horarios de los barcos en la mano. *Mi recuerdo: las islas Borromeas son una sorpresa si no se conocen, porque están supercuidadas.*
 
 **Como alternativa, para quien quiere el lago sin multitud, está el Lago de Orta**: más pequeño, menos accesible y mucho más tranquilo, con la **Isola di San Giulio** y el Sacro Monte sobre Orta.
 

@@ -36,7 +36,7 @@ The other thing to know before leaving is that **the Duomo complex and the state
 ### Day 1 — The Duomo complex and the center
 The first day was entirely for the Duomo, as a block, because the ticket is combined and it makes sense to use it in sequence.
 
-You start with the **dome**, in your reserved time slot, preferably early: 463 steps, the close-up passage past Vasari and Zuccari's **Last Judgment** frescoes, and then the lantern with all of Florence below. It's worth knowing what you're climbing. When Brunelleschi won the competition, **the drum was already built and nobody knew how to cover it**: the span was too wide for the wooden centering known at the time. The solution was a **self-supporting double shell with bricks laid in a herringbone pattern**, built **without scaffolding**, and it has stood since 1436.
+You start with the **dome**, in your reserved time slot, preferably early: 463 steps, the close-up passage past Vasari and Zuccari's **Last Judgment** frescoes, and then the lantern with all of Florence below. It's worth knowing what you're climbing. When Brunelleschi won the competition, **the drum was already built and nobody knew how to cover it**: the span was too wide for the wooden centering known at the time. The solution was a **self-supporting double shell with bricks laid in a herringbone pattern**, built **without scaffolding**, and it has stood since 1436. *My memory: the dome is cramped, but it's worth it.*
 
 Then the **Baptistery**, the oldest building on the square. Inside, the dome is covered entirely in **Byzantine mosaics on a gold ground**, with a Last Judgment and an enormous Christ, and people stay far less time than it deserves because everyone is looking at the doors. Which outside, remember, are **copies**.
 
@@ -110,7 +110,8 @@ Two days in Florence hold up well, on one condition: **only one big museum, not 
 - **Santa Maria Novella** is convenient for trains, and more anonymous.
 
 ## Dove abbiamo mangiato
-- **The bistecca alla fiorentina**, rare and by weight, split between two. Well done, it's no longer that dish.
+- **The bistecca alla fiorentina**, rare and by weight, split between two. Well done, it's no longer that dish. *My memory: lampredotto doesn't do much for me, but the bistecca is incredible. And it's hard to eat badly.*
+- **Where to eat bistecca in the center, four suggestions** (picked through research, not places we went; check opening hours before going): **Buca Lapi**, Via del Trebbio 1r, in the cellars of Palazzo Antinori, open since 1880, evenings · **Trattoria Mario**, Via Rosina 2r near the Mercato Centrale, lunch only, Monday to Saturday · **Trattoria Sostanza**, Via del Porcellana 25r, tiny, book well ahead · **Il Latini**, Via dei Palchetti 6r, listed in the Michelin Guide, closed Mondays.
 - **Lampredotto at the stand**, the most Florentine way to have lunch.
 - **Ribollita and pappa al pomodoro**, leftover-bread cooking, better than the description lets on.
 - **Schiacciata** with cured meats, and the **unsalted bread**, which at first seems wrong.

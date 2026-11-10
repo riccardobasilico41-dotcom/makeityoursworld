@@ -12,6 +12,8 @@ visitas a Bangkok, y viajes por separado a Chiang Mai, Phuket y las Similan
 ## Apertura personale
 Bangkok la he visto varias veces a lo largo de los años, y cada vez he descubierto algo distinto: una cola desde las siete de la mañana por la comida callejera con estrella Michelin de Jay Fai, un rooftop bar distinto cada noche, un barrio nuevo descubierto casi por casualidad. Más que un solo viaje, Tailandia para mí es la suma de varios recorridos distintos a lo largo del tiempo (el recorrido principal de 11 días entre selva e islas del sur, más las visitas repetidas a Bangkok y los viajes aparte hacia Chiang Mai y las Similan), cada uno con su Tailandia distinta que contar.
 
+Bangkok es increíble: una mezcla de contrastes.
+
 ## Scheda pratica
 - **Documentos:** no hace falta visado para estancias turísticas cortas (hasta
   30 días por vía aérea), basta el pasaporte en vigor.
@@ -88,6 +90,8 @@ Para cenar, el Sea Salt Krabi Restaurant o el Reeve Beach Club Krabi; para la no
 Cogimos el ferri a media mañana en Ao Nopparat Thara Pier (check-in media hora antes) y en dos horas y media llegamos a **Koh Phi Phi**, al Tonsai Pier. La tarde ofrece una excursión en barca a **Bamboo Island** o media jornada de buceo con Blue View Divers.
 
 Para cenar, el Dow Restaurant o el ACQUA Restaurant. La noche es en el Backpacker Bar o en el Reggae Bar, donde los combates amateur de Muay Thai son muy divertidos de ver. Koh Phi Phi no tiene carreteras para coches: del muelle a los hoteles se va a pie o con los carritos de los porteadores, así que mejor un equipaje fácil de llevar. Al llegar al muelle se paga una pequeña tasa de entrada a la isla. *Quien tenga tiempo sube al **viewpoint** sobre Tonsai, una media hora de escalones, para ver las dos bahías que casi se tocan: es más bonito al atardecer, pero hay que llevar agua.* **Maya Bay** solo se visita con accesos limitados y sin baño en el mar.
+
+*Mi recuerdo: en Phi Phi estábamos en la playa. Cuidado con el hielo y el alcohol local; y cuando hacen espectáculos de fuego, si estás demasiado cerca hueles a queroseno hasta el día siguiente, y de vez en cuando te arriesgas a mancharte la ropa con las cosas que lanzan.*
 
 **En la práctica:** ferri desde Ao Nopparat Thara, check-in media hora antes · tasa de entrada en el muelle de Tonsai de unos 20 baht, en efectivo · viewpoint con entrada de unos 30-50 baht · las inmersiones se reservan el día antes · por la noche Tonsai es muy ruidoso: quien quiera dormir elige un hotel lejos de los bares.
 
@@ -187,7 +191,8 @@ con un restaurante:
   de la llama del carbón. Su tortilla de cangrejo (kai jeaw poo) cuesta
   más de 1.000 THB: cara para ser comida callejera, pero es una experiencia en sí misma.
   *Hay que llegar temprano (antes de las 8:00) y apuntarse en una lista en una
-  hoja, o reservar por correo electrónico con mucha antelación.*
+  hoja, o reservar por correo electrónico con mucha antelación.* *Mi recuerdo:
+  una hora y media de cola, y tuve suerte.*
 - **Thipsamai**: el pad thai más famoso de Bangkok, a menudo citado entre los
   Bib Gourmand (la categoría de «buena relación calidad-precio» de la Guía
   Michelin), en la Ciudad Vieja cerca de Jay Fai.

@@ -44,6 +44,8 @@ There are runs for all levels: blues for beginners (ski school area at Banderish
 
 The level of the ski area is honest but unpretentious. It can't stand up to the big Alpine resorts, but it's perfect for a few relaxed days, with modern lifts and almost no lines compared to the Alps in high season. We bought the ski pass online in advance, at a discount compared to the ticket office on site. We rented the gear in one of the many shops in the center, at prices much lower than in the Alpine ski capitals.
 
+On the slopes I remember the Batman statue: a fun touch. Eating in the mountain huts, on the other hand, isn't cheap: prices are very high by local standards, I'd say Italian, European level.
+
 **Après-ski**: at the base of the gondola, Sopranos and Happy End Bar are the classic meeting point at the end of the day; in the center, the old quarter comes alive every evening with mehanas, pubs and live music, at very reasonable prices.
 
 **In practice:** adult day pass about €33 in the 2025/26 season, check the new season's prices on the resort's official website · in high season it pays to be at the gondola early in the morning · rent gear in the shops in town, and try it on the evening before.

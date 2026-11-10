@@ -53,6 +53,8 @@ Dal quartier generale ci si arriva a piedi con un sentiero nella foresta di una 
 
 La sera c'è la **night walk guidata**, che quasi tutti saltano per stanchezza ed è la parte migliore: di giorno la foresta è silenziosa e non si vede niente, di notte è rumorosissima e con la torcia si vedono ragni, serpenti e occhi che riflettono tra le foglie. Si esce dopo cena con la guida per un paio d'ore; servono una torcia frontale, maniche lunghe e scarpe chiuse, e si cammina piano, fermandosi spesso. *Nella stagione umida servono le calze antisanguisughe: salgono dai piedi e non è un dettaglio.* Il repellente va messo anche di giorno, e l'acqua da portare è sempre più di quella che si pensa.
 
+*Il mio ricordo: a Taman Negara abbiamo visto pochi animali, ma magari perché era alta stagione e c'era tantissima gente. Noi una notte l'abbiamo passata in grotta; ha piovuto, e il giorno dopo il rientro è stato divertente, con le varie sanguisughe: il mio amico ne ha trovata una pure sotto l'ascella. Come prepararsi è spiegato più sotto, nella sezione sulle sanguisughe.*
+
 **In pratica:** canopy walkway aperta in genere dalla mattina al primo pomeriggio, biglietto di pochi ringgit, chiusa un giorno a settimana e con il maltempo (da verificare al quartier generale) · night walk guidata prenotabile a Kuala Tahan, qualche decina di ringgit · calze antisanguisughe da procurarsi prima di entrare · almeno due litri d'acqua a testa.
 
 ### Giorno 5 — Verso le Cameron Highlands
@@ -144,7 +146,7 @@ Siamo partiti da Changi, uno dei pochi aeroporti al mondo in cui conviene arriva
 
 ## Dove abbiamo dormito
 - **Kuala Lumpur:** Bukit Bintang per la comodità, Chinatown per i prezzi e il carattere. La regola è stare vicino a una fermata della monorotaia.
-- **Taman Negara:** Kuala Tahan, sulla riva opposta all'ingresso, con i ristoranti galleggianti sul fiume. Dentro il parco si dorme meglio e si è già dalla parte giusta al mattino.
+- **Taman Negara:** Kuala Tahan, sulla riva opposta all'ingresso, con i ristoranti galleggianti sul fiume. Dentro il parco si dorme meglio e si è già dalla parte giusta al mattino. Noi una notte l'abbiamo passata in grotta, dentro il parco.
 - **Cameron Highlands:** Tanah Rata. Le camere non hanno riscaldamento: di notte fa freddo sul serio e le coperte contano più delle stelle.
 - **Penang:** dentro il perimetro UNESCO di George Town, in una shophouse restaurata. Batu Ferringhi ha le spiagge ma taglia fuori dalla parte che conta.
 - **Malacca:** nel centro storico, dal lato di Chinatown.
@@ -156,6 +158,17 @@ Siamo partiti da Changi, uno dei pochi aeroporti al mondo in cui conviene arriva
 - **Cameron Highlands:** steamboat la sera perché fa freddo, tè e scones nelle sale da tè delle piantagioni.
 - **Malacca:** cucina nyonya (ayam pongteh, laksa nyonya, chicken rice ball) e i satay celup, cotti dai clienti in una pentola di salsa di arachidi al centro del tavolo.
 - **Singapore:** centri hawker, sempre. Pollo di Hainan, laksa di Katong, char kway teow, roti prata a colazione, carrot cake che non è una torta.
+- **Durian:** il frutto che in Malesia trovi ovunque. Il mio giudizio? A me fa proprio schifo, ahah.
+
+## Sanguisughe: come prepararsi e come toglierle
+A Taman Negara, soprattutto dopo la pioggia, le sanguisughe sono quasi garantite. Non trasmettono malattie note, fanno più impressione che danno, ma conviene arrivare preparati. Sono informazioni generali, non un parere medico.
+
+- **Come vestirsi:** calze antisanguisughe sopra le calze normali e dentro le scarpe, pantaloni lunghi infilati nelle calze, maniche lunghe. Le calze normali da sole non bastano: le sanguisughe passano tra le maglie.
+- **Cosa portare:** calze antisanguisughe (meglio procurarsele prima di entrare nel parco), repellente con DEET da spruzzare su calze, scarpe e orli dei pantaloni, garze, cerotti e un disinfettante.
+- **Durante il cammino:** controllarsi a ogni sosta, anche dove non si penserebbe (dita dei piedi, cintura, collo, ascelle), e farlo con calma prima di entrare in tenda, nel sacco a pelo o in camera.
+- **Come toglierle:** far scivolare un'unghia o qualcosa di piatto, come una carta, sulla pelle sotto la ventosa piccola, quella della bocca, finché si stacca; poi staccare l'altra estremità e allontanarla con un colpetto. Non tirarle via a forza e non usare sale, fuoco, sigarette o repellente su una sanguisuga attaccata: può rigurgitare nella ferita e aumentare il rischio di infezione.
+- **Dopo:** la ferita sanguina a lungo, anche per ore, per via dell'anticoagulante: è normale. Lavare con acqua e sapone, disinfettare, premere con una garza e coprire con un cerotto, cambiandolo finché non smette. Non grattarsi, anche se prude per giorni.
+- **Quando andare dal medico:** se compaiono segni di infezione (rossore che si allarga, gonfiore, pus, febbre) o di reazione allergica (gonfiore esteso, eruzione, capogiri); difficoltà a respirare è un'emergenza.
 
 ## Consigli pratici / errori da non ripetere
 - **Scegliere la costa prima delle date.** I monsoni delle due coste malesi sono opposti, e questo condiziona tutto il resto.
@@ -178,7 +191,9 @@ Itinerario e informazioni pratiche sono verificati e aggiornati a settembre 2026
 - Anno e date esatte del viaggio.
 - Nomi degli alloggi effettivamente usati e prezzi pagati.
 - Quali banchi di Penang e quali centri hawker di Singapore sono stati provati davvero.
-- Se Taman Negara e le Cameron Highlands sono state fatte entrambe o solo una.
+- Se sono state fatte anche le Cameron Highlands (Taman Negara è confermata dal ricordo di Rick del 10/11/2026).
+
+**Fonti della sezione sanguisughe (verificate il 10/11/2026):** Healthline, «How to remove a leech» (healthline.com/health/how-to-remove-a-leech); nib, «Treatments for leech bites» (nib.com.au/the-checkup/treatments-for-leech-bites); StatPearls (statpearls.com); trailhiking.com.au, «Leeches: how to identify, avoid and remove them».
 - Se è stata aggiunta un'isola, e quale.
 - Aneddoti veri al posto delle bozze, soprattutto in apertura e chiusura.
 

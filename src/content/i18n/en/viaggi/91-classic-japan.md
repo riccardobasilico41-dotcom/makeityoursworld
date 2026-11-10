@@ -13,6 +13,8 @@ The classic trip to Japan runs almost entirely along the Pacific coast: Tokyo, F
 
 The site already has another trip to Japan, [the 12 April days among sakura, Fuji and Kyoto](/viaggi/giappone-itinerario). This one is something else. It has more days, fewer big cities and more nights in ryokan, shukubō and mountain villages. Of Tokyo, Kyoto and Osaka it keeps the minimum: if you want the detail of those days, you'll find it there.
 
+A spoiler from my own trip: the classic route is packed with tourists everywhere, Kyoto above all.
+
 Like every trip on this site, it's rooted in places I've personally visited and experiences I've actually lived, put together into one practical route.
 
 ## Scheda pratica
@@ -38,6 +40,8 @@ The JR Pass should not be activated today: for the first three days you get arou
 One full day, picking one side of the city. The old side: Asakusa and Senso-ji early, Ueno, Yanaka with its neighborhood streets. At seven in the morning Senso-ji has its shopping street still closed and the temple almost empty; Ueno has its park and museums, and Yanaka, on foot from Ueno, is one of the few districts that survived the bombings, with small temples, cemeteries and workshops. Lunch in Ueno, at the Ameyoko market.
 
 Or the new side: Meiji-Jingu, Harajuku, Shibuya and Shinjuku in the evening. The Meiji shrine stands in a forest and is free to visit from sunrise to sunset; from there walk down to Harajuku and Omotesando, then Shibuya with the most photographed crossing in the world, and in the evening Shinjuku with the alleys of Omoide Yokocho and the bars of Golden Gai. Tokyo gets short shrift, on purpose: the real trip starts tomorrow. If you have two extra days, put them here; the addresses are in the [sakura trip](/viaggi/giappone-itinerario). *Tomorrow you leave for Hakone with a small backpack: in the evening pack the suitcase to send ahead or leave in storage.*
+
+*My memory: Tokyo would deserve a holiday of its own.*
 
 **In practice:** Senso-ji and Meiji-Jingu free to enter · subway with the IC card, or a Tokyo subway pass for 24, 48 or 72 hours · takkyubin from the hotel to send your suitcase a few days ahead.
 
@@ -98,7 +102,9 @@ Arrival for lunch. The afternoon is for Higashiyama, on foot from Kiyomizu-dera 
 **In practice:** Kanazawa-Kyoto about 2 hours with the change at Tsuruga, seat reserved on the JR Pass · Kiyomizu-dera has a paid entry and opens early in the morning · in Kyoto buses are slow and crowded: walk, take the subway, and share taxis between two or more.
 
 ### Day 11 — Kyoto
-**Fushimi Inari** at dawn, before the groups, climbing beyond the part everyone photographs. It is always open and free; you get there on the JR Nara line to Inari station, two stops from Kyoto. The most famous torii tunnels are at the start, and after the first viewpoint the crowds thin out: the full loop of the mountain takes two or three hours.
+**Fushimi Inari** early, climbing beyond the part everyone photographs. It is always open and free; you get there on the JR Nara line to Inari station, two stops from Kyoto. The most famous torii tunnels are at the start, and after the first viewpoint the crowds thin out: the full loop of the mountain takes two or three hours.
+
+*My memory: I recommend exploring Kyoto early in the morning, to get a more authentic feel. At Fushimi Inari, though, there are always people, whatever time you go; the higher you climb, the fewer there are. I went all the way to the top: the view is nothing special, but the experience is lovely.*
 
 Then the north-west of the city: Kinkaku-ji, the sand garden of Ryoan-ji, Arashiyama in the afternoon. Kinkaku-ji and Ryoan-ji are close, about twenty minutes' walk from each other, and are reached by bus or taxi. In Arashiyama the bamboo grove is packed at midday: focus on the Tenryu-ji garden and the riverbank. The day is dense. If you prefer a slower pace, replace Arashiyama with the zen temple district of Daitoku-ji. *In autumn and spring Kinkaku-ji has long queues: arriving at opening time changes the visit.*
 
@@ -108,6 +114,8 @@ Then the north-west of the city: Kinkaku-ji, the sand garden of Ryoan-ji, Arashi
 Half a day, or a full one at a relaxed pace. From Kyoto you get there on the JR Nara Line. The rapid takes under an hour, and from JR Nara station to the park is about a twenty-minute walk. Leave early and reach Todaiji before the school groups, who arrive mid-morning.
 
 Todaiji with the Great Buddha, Kasuga Taisha with its lanterns, the sika deer roaming free in the park. The Daibutsuden is one of the largest wooden buildings in the world and houses the bronze Buddha statue; from the temple a forest path leads to Kasuga Taisha, with thousands of stone and bronze lanterns. The deer approach anyone who buys the special crackers: *they can push and bite, so hand out crackers one at a time and keep maps in your pocket.* Return to Kyoto for the night, or move on to Osaka to be closer to tomorrow's Nankai line.
+
+*My memory: in Nara I ate out-of-this-world tuna at **Maguro Koya**, truly delicious.*
 
 **In practice:** Todaiji Daibutsuden 800 yen · Kasuga Taisha with a paid area around the main sanctuary · from Nara to Osaka by JR train in under an hour, to stay in Namba.
 
@@ -123,12 +131,16 @@ In the morning you join the monks' prayer, then walk through **Okunoin**, the la
 
 *After Gobyo bridge, in front of the lantern hall and the mausoleum, no photos and no eating: it is the most sacred part.* In the afternoon you go down to **Osaka**, by bus, cable car and Nankai to Namba, about two hours in total. The evening is for Dotonbori and Shinsekai, with okonomiyaki and takoyaki. Dotonbori is the street of neon signs on the canal, Shinsekai a working-class district from the early twentieth century around the Tsutenkaku tower, with fried kushikatsu.
 
+*My memory: the Dotonbori area is packed, and my friends had mixed opinions about it, but I absolutely loved it.*
+
 **In practice:** Okunoin free, accessible in the evening too · from the plateau to Namba about two hours · in Osaka stay in Namba or Umeda; for tomorrow, the Shin-Osaka area or a direct line to the Shinkansen is handy.
 
 ### Day 15 — Hiroshima and Miyajima
 The Shinkansen takes you to Hiroshima from Shin-Osaka. With the JR Pass you take Sakura or Hikari trains, and the trip takes about an hour and a half. From Hiroshima station to the Peace Park take the tram, paid separately, or a taxi. The **Peace Park and Museum**, with the time they ask of you. The museum opens early in the warmer months, and the first hour is the quietest; the visit takes at least an hour and a half. In the park, the Atomic Bomb Dome, the Cenotaph and the Children's Peace Monument with its paper cranes.
 
 Then a local train and the JR ferry to **Miyajima**, both covered by the pass. The Sanyo line train reaches Miyajimaguchi in about half an hour, and the ferry crosses in ten minutes. It is best to sleep on the island: in the evening, when the day-trippers leave, Itsukushima shrine and the torii in the water are another place. *The torii seems to float at high tide, and at low tide you can walk to it: tide tables are on the island's tourism website.*
+
+*My memory: Hiroshima pushed me to my limit: towards the end I had to speed up, because emotionally it was "too much". I liked Miyajima, but I wouldn't call it essential, and the same goes for Hiroshima: if you have fewer days, I'd cut this part (my personal opinion).*
 
 **In practice:** Peace Museum 200 yen for adults, hours that change with the season · 100 yen tax for anyone landing on Miyajima, not covered by the JR Pass, paid at the machine before boarding · few places to stay on the island, book early.
 

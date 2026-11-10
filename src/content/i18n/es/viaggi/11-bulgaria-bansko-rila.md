@@ -44,6 +44,8 @@ Hay pistas para todos los niveles: azules para principiantes (zona de escuela de
 
 El nivel del dominio es honesto pero sin pretensiones. No aguanta la comparación con las grandes estaciones alpinas, pero es perfecto para unos días relajados, con remontes modernos y colas casi inexistentes comparado con los Alpes en temporada alta. El forfait lo compramos en línea con antelación, con descuento respecto a la taquilla del lugar. El equipo lo alquilamos en una de las muchas tiendas del centro, a precios mucho más bajos que en las capitales alpinas del esquí.
 
+En las pistas me acuerdo de la estatua de Batman: muy maja. Comer en los refugios de montaña, en cambio, no es barato: los precios son muy altos para el nivel local, diría que italianos, europeos.
+
 **Après-ski**: en la base de la góndola, Sopranos y Happy End Bar son el punto de encuentro clásico al final del día; en el centro, el barrio viejo se anima cada noche con mehane, pubs y música en directo, a precios muy contenidos.
 
 **En la práctica:** forfait diario para adultos unos 33 € en la temporada 2025/26, precios de la nueva temporada en la web oficial de la estación · en temporada alta conviene estar pronto en la góndola · alquiler del material en las tiendas del centro, mejor probarlo la tarde anterior.

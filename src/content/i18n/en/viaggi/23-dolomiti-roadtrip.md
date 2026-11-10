@@ -51,7 +51,7 @@ That's why below you won't find an itinerary with fixed days. You'll find ten ar
 ## Itinerario per zone
 
 ### Val Gardena, Ortisei and Seceda
-The most accessible and most scenic area for those short on time: from Ortisei a gondola takes you in a few minutes to Seceda, where the grassy ridge suddenly breaks into vertical walls with a view of the Odle: one of the most reproduced images of the Dolomites, and for once reality holds up against the photo. Below, the Alpe di Siusi is the largest alpine plateau in Europe, almost flat, perfect for walking without suffering. Val Gardena is also the center of Ladin wood-sculpting craft, if you want something other than mountains for an afternoon.
+The most accessible and most scenic area for those short on time: from Ortisei a gondola takes you in a few minutes to Seceda, where the grassy ridge suddenly breaks into vertical walls with a view of the Odle: one of the most reproduced images of the Dolomites, and for once reality holds up against the photo. For me Seceda was incredible, but it's a bit too overexposed: you need to get there early, really early. Below, the Alpe di Siusi is the largest alpine plateau in Europe, almost flat, perfect for walking without suffering. Val Gardena is also the center of Ladin wood-sculpting craft, if you want something other than mountains for an afternoon.
 *Hidden gem: the Puez-Odle Nature Park, just behind Seceda, where people thin out suddenly as soon as you move away from the gondola station.*
 
 ### Alta Badia and the Fanes-Sennes Park
@@ -63,7 +63,7 @@ The loop of the four passes around the Sella Group (Gardena, Sella, Pordoi, Camp
 *Hidden gem: driving the loop at dawn, before nine, when the passes are still empty of motorbikes and campers.*
 
 ### Lagazuoi and the Great War trenches
-At Passo Falzarego, fifteen minutes from Cortina, the Lagazuoi cable car takes you to the top of a massif that still bears the marks of the First World War: tunnels dug by hand into the rock between 1915 and 1917, when Austrians and Italians fought over the mountain centimeter by centimeter. You can go up by cable car and come down on foot through the tunnels. In this form it exists in no other Alpine area: military history and geology in the same route.
+At Passo Falzarego, fifteen minutes from Cortina, the Lagazuoi cable car takes you to the top of a massif that still bears the marks of the First World War: tunnels dug by hand into the rock between 1915 and 1917, when Austrians and Italians fought over the mountain centimeter by centimeter. You can go up by cable car and come down on foot through the tunnels. In this form it exists in no other Alpine area: military history and geology in the same route. Lagazuoi is moving: it gives you chills to think about what happened up there.
 *Hidden gem: the Tunnels Trail in its downhill version, much less demanding and less exposed than going up, suited to those who want to see the trenches without facing serious elevation gain.*
 
 ### The Marmolada, Queen of the Dolomites
@@ -75,7 +75,7 @@ The most photographed lake in the Dolomites, and the one where overtourism shows
 *Hidden gem: arriving by seven in the morning, before the quota begins: the lake is the same, the light is better and for an hour you have it almost to yourself.*
 
 ### The Tre Cime di Lavaredo and San Candido
-The ultimate symbol of the Dolomites, three vertical walls visible from dozens of kilometers away. The loop around the base (Rifugio Auronzo, Rifugio Lavaredo, Forcella Lavaredo, Rifugio Locatelli, from which you get the classic view of the north faces) is about ten kilometers with 350 meters of elevation gain, doable by anyone who walks with a minimum of fitness. San Candido, at the foot of the valley, is a tidy town with one of the most important Romanesque collegiate churches in South Tyrol and an old town worth a stroll of its own.
+The ultimate symbol of the Dolomites, three vertical walls visible from dozens of kilometers away. Imposing, but they too are a bit overexposed: better to arrive really early. The loop around the base (Rifugio Auronzo, Rifugio Lavaredo, Forcella Lavaredo, Rifugio Locatelli, from which you get the classic view of the north faces) is about ten kilometers with 350 meters of elevation gain, doable by anyone who walks with a minimum of fitness. San Candido, at the foot of the valley, is a tidy town with one of the most important Romanesque collegiate churches in South Tyrol and an old town worth a stroll of its own.
 *Hidden gem: walking up from Val Fiscalina instead of driving, avoiding toll and booking altogether: it's a full day, and it's how it was done before the road existed.*
 
 ### Brunico and the Val Pusteria
@@ -144,7 +144,7 @@ In a hut you eat a precise, repetitive cuisine that after three days you love: c
 - **Consider the less photographed areas** (Val di Sole, Vipiteno, Fanes) when the main areas are full: same geology, far fewer people.
 
 ## Chiusura personale
-What stays with you from the Dolomites, in the end, isn't a single view: it's the feeling of having seen ten different places that share the same rock. Val Gardena and Val di Sole are less than two hours apart by car and seem like two different countries: one full of gondolas and boutiques, the other empty and quiet, with the same mountain. That's why it makes more sense to think of them as an archipelago to explore area by area, returning several times, than as a single itinerary to exhaust in a week. The best part, the enrosadira on the walls at sunset, in any case never changes: it happens every evening for two hundred and fifty million years, in every area, whether anyone watches it or not.
+I also really liked the Pale di San Martino, precisely because they're less touristy. What stays with you from the Dolomites, in the end, isn't a single view: it's the feeling of having seen ten different places that share the same rock. Val Gardena and Val di Sole are less than two hours apart by car and seem like two different countries: one full of gondolas and boutiques, the other empty and quiet, with the same mountain. That's why it makes more sense to think of them as an archipelago to explore area by area, returning several times, than as a single itinerary to exhaust in a week. The best part, the enrosadira on the walls at sunset, in any case never changes: it happens every evening for two hundred and fifty million years, in every area, whether anyone watches it or not.
 
 ## Tag
 `#dolomiti` `#italia` `#altoadige` `#trentino` `#roadtrip` `#trekking` `#sci` `#overtourism` `#montagna`

@@ -15,6 +15,8 @@ Basta pochissimo per capovolgerla: **dormirci** e **camminare nella direzione sb
 
 Tre giorni sono la misura giusta per fare le cose grandi senza rinunciare al resto: e il resto, qui, è la parte migliore.
 
+*Il mio ricordo: Venezia è bella tutta, cavolo.*
+
 ## Scheda pratica
 - **Contributo di accesso:** in determinate date Venezia applica **un contributo per chi entra in città in giornata**, con **prenotazione e codice da esibire**. **Chi pernotta in città è esente, ma deve comunque registrarsi** (di norma lo fa la struttura, che applica a parte la tassa di soggiorno). **Date, importi e modalità sono cambiati più volte dall'introduzione**: vanno controllati sul sito del Comune prima di partire, perché la sanzione per chi non è in regola è salata.
 - **Quando andare:** **da novembre a marzo, fuori dal Carnevale**, Venezia è sé stessa: nebbia, poca gente, luce bassa, prezzi civili. **Da giugno ad agosto è il momento peggiore**: caldo, umido, saturo, e d'estate i canali minori hanno un odore che nessuna guida menziona. **Aprile-maggio e ottobre** sono il compromesso. **Carnevale, Redentore (luglio) e Regata Storica (settembre)** sono spettacolari e insieme ingestibili: ci si va apposta o si evitano.

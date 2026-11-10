@@ -42,7 +42,7 @@ We landed in Keflavík in the late afternoon, and the first Iceland was the unro
 
 We ate at **Kaffi Duus**, mixed fish for about €30. Here I tried **whale fillet**. It's a dish that sparks debate: in Iceland whaling is still allowed but highly contested, and it's worth forming an opinion before ordering it. You still get there with the 55: five minutes' walk to the stop, ten by bus, another ten on foot from Hringbraut & Melteigur. Afterwards we did a round of the bars in Keflavík and went back, again by bus, with an eye on the clock: the last run comes just after 11 p.m. and can't be missed.
 
-It's in these first days, on the Reykjanes peninsula, that I saw the **erupting volcano** up close: the Grindavík and Fagradalsfjall area, a few minutes from the airport, became active several times between 2023 and 2024. I went on my own, without a tour. It was one of the most powerful experiences of the whole trip. Eruptions come and go, though, and the area is often closed: before leaving, check the status of the area on safetravel.is.
+It's in these first days, on the Reykjanes peninsula, that I saw the **erupting volcano** up close: the Grindavík and Fagradalsfjall area, a few minutes from the airport, became active several times between 2023 and 2024. I went on my own, without a tour. It was one of the most powerful experiences of the whole trip, especially on the way up, when we walked alongside the lava flows: you could see them from a safe distance, the lava slowly creeping down. Glowing rock: wow. Eruptions come and go, though, and the area is often closed: before leaving, check the status of the area on safetravel.is.
 
 **In practice:** bus 55 from the airport, about €4 a ride, last bus just after 23:00 · dinner at Kaffi Duus about €30 · before heading to the eruption, check closures and air quality on safetravel.is · on Reykjanes you need hiking shoes and a windproof jacket even in summer.
 
@@ -58,7 +58,7 @@ Then the decision made almost as a joke. At the end of July the sun doesn't set,
 **In practice:** Geysir and Gullfoss are free · Seljalandsfoss parking 700 ISK · Vík campsite 1,950 ISK, shower 300 ISK · cars can't go past the parking lot for the DC-3: 4 km on foot each way · shop in Hvolsvöllur, further on supermarkets are few.
 
 ### Day 3 — Dyrhólaey, Reynisfjara and the glacial lagoon
-The alarm came later than planned, because of the wreck. We set off unhurriedly toward **Dyrhólaey**: the lighthouse, the black lava arch over the sea, the sea stacks and, in summer, puffins. Right after is **Reynisfjara**, the black beach with basalt columns. Here the waves are unpredictable and dangerous: follow the signs to the letter. Quick lunch at the beach stand, hot dog or soup for 2-3,000 ISK.
+The alarm came later than planned, because of the wreck. The best night in the tent was actually the first one: we'd arrived exhausted and mentally unprepared, and waking up in the morning right next to the waterfall was something else, wow. We set off unhurriedly toward **Dyrhólaey**: the lighthouse, the black lava arch over the sea, the sea stacks and, in summer, puffins. Right after is **Reynisfjara**, the black beach with basalt columns. Here the waves are unpredictable and dangerous: follow the signs to the letter. Quick lunch at the beach stand, hot dog or soup for 2-3,000 ISK.
 
 In the afternoon we headed inland. An hour and a quarter of driving takes you to the **Fjaðrárgljúfur** canyon, about a hundred meters deep and two kilometers long, much less crowded than the other places in the area. Another three quarters of an hour and you enter **Skaftafell**, in Vatnajökull park, the largest in Europe, where trails also lead to the black waterfall of Svartifoss.
 
@@ -87,7 +87,7 @@ Forty minutes later comes **Ásbyrgi**, the horseshoe-shaped canyon that legend 
 **In practice:** at Stuðlagil the west side has the viewing platform near the parking lot, the east side needs a walk of a few kilometers but reaches the canyon floor · Dettifoss west side from the paved Route 862 · Ásbyrgi campsite open mid-May to late October · fill up when you can, fuel stations are sparse in the northeast.
 
 ### Day 6 — Húsavík, whale watching and Lake Mývatn
-An hour's drive brought us to **Húsavík**, which calls itself the whale watching capital of the world. The classic outing lasts three hours and leaves from the old harbor, on one of the restored traditional oak boats. In Skjálfandi Bay you look for humpbacks and minke whales; with luck, orcas or blue whales.
+An hour's drive brought us to **Húsavík**, which calls itself the whale watching capital of the world. The classic outing lasts three hours and leaves from the old harbor, on one of the restored traditional oak boats. In Skjálfandi Bay you look for humpbacks and minke whales; with luck, orcas or blue whales. We saw whales and puffins really up close, but it was freezing cold, even with the extra suits they gave us.
 
 After a quick lunch, another hour by car took us to **Lake Mývatn**, one of the most active geothermal areas on the island. In a few hours you go from the **Grjótagjá** cave, with the hot spring from a Game of Thrones scene (not swimmable today, the temperature is unpredictable), to the ring crater of **Hverfjall**, to the fumaroles and boiling mud of **Hverir**, where the smell of sulfur is overpowering, to the lava mazes of **Dimmuborgir**, with the natural "church" of Kirkjan. The last stop is **Goðafoss**, the "waterfall of the gods," tied to the Christianization of Iceland in the year 1000.
 
@@ -229,6 +229,7 @@ With an afternoon flight you can use the morning for one last hot soak: the **Bl
 - **Backpack, not a wheeled suitcase**: 50/60 liters, to check in (not as carry-on, especially
   with low-cost airlines).
 - **Sleeping bag, sleeping pad, camping pillow** (if you don't rent them on site).
+  Luckily, when we went it never rained hard at night, but a couple of evenings were seriously cold. The least pleasant part? Climbing out of a nice warm sleeping bag to go to the bathroom. Brutal, ha.
 - **Thermal underwear**, waterproof windbreaker with a hood (no umbrellas, the
   wind is too strong), hiking shoes + a spare pair.
 - **Swimsuit that isn't new or precious**: the geothermal waters of the Blue Lagoon
@@ -251,7 +252,7 @@ With an afternoon flight you can use the morning for one last hot soak: the **Bl
   they have to be settled with whoever was driving).
 
 ## Chiusura personale
-If I did it again, I'd be much more careful about distances and the unexpected. It takes very little here: a flat tire or, as happened to us, a dead car battery. We had to postpone everything and skip some stops. That's why my advice is to plan without cramming everything in and to leave a margin between one stop and the next. And bring food from home, because in Iceland it costs a lot, really a lot.
+If I did it again, I'd be much more careful about distances and the unexpected. It takes very little here: a flat tire or, as happened to us, a dead car battery. I don't remember exactly where we were, I think near where you see the whales, but I couldn't say for sure. We called a tow truck and paid a fortune, because we didn't have roadside assistance insurance. We had to postpone everything and skip some stops. That's why my advice is to plan without cramming everything in and to leave a margin between one stop and the next. And bring food from home, because in Iceland it costs a lot, really a lot.
 
 ## Tag
 `#islanda` `#ring-road` `#campeggio` `#on-the-road` `#vulcano` `#ghiacciaio`

@@ -11,6 +11,8 @@
 ## Apertura personale
 La settimana bianca è il viaggio italiano che più di ogni altro si decide per abitudine: si va dove si è sempre andati, nella settimana in cui si è sempre andati, e si paga quello che si è sempre pagato. Il che è un peccato, perché nello stesso comprensorio, nello stesso appartamento, la stessa settimana può costare il doppio o la metà a seconda della data, e perché il criterio che oggi conta più di tutti, la **quota**, non entra quasi mai nella decisione. Con gli inverni degli ultimi anni, sotto i milleottocento metri la neve naturale non è più una garanzia, e scegliere una stazione per fama invece che per altitudine è il modo più rapido per trovare una lingua bianca in mezzo all'erba. Questo itinerario è costruito su un comprensorio dolomitico come esempio, ma la parte utile sono i criteri: valgono ovunque.
 
+Le settimane bianche le faccio da quando sono piccolo, sia nei weekend sia per periodi più lunghi.
+
 ## Scheda pratica
 - **Quando andare — la scelta che vale di più:**
   - **Natale e Capodanno:** le due settimane più care dell'anno, con differenze **anche del quaranta per cento** rispetto a gennaio. Piste affollate, code, prenotazioni con mesi di anticipo.
@@ -127,6 +129,7 @@ Verso mezzogiorno si riconsegnano sci e scarponi, si recupera l'eventuale cauzio
 - **Non uscire dal battuto senza ARTVA, pala, sonda e la capacità di usarli**, e senza aver letto il bollettino valanghe.
 - **Non partire per il Sellaronda dopo le nove**, e controllare il vento.
 - **Non sottovalutare il traffico del sabato** sulle strade di rientro.
+- **La mia giornata sugli sci**, quella che consiglio sempre: si sale appena aprono gli impianti, per cercare di essere tra i primi, uno spuntino al volo a metà mattina e poi si tira fino alle due, due e mezza. A quel punto si stacca la spina in baita e si smette. Così il pranzo lo fai quando c'è meno gente in giro, e nel pomeriggio, quando le piste sono più «mangiate», sei già a posto.
 
 ## Chiusura personale
 La cosa che si capisce dopo qualche settimana bianca è che il piacere non sta nei chilometri. Si può passare una giornata a macinare piste e tornare la sera senza ricordare niente, oppure fare metà di quei chilometri, fermarsi alle undici in un rifugio a duemilaquattrocento metri, ordinare qualcosa di caldo e stare venti minuti seduti al sole con una parete rosa davanti. In Francia la prima cosa la fanno meglio; la seconda, qui, non la fa nessuno meglio di noi. E poi c'è quella mattina (capita una volta a settimana, se va bene) in cui si prende la prima seggiovia con la pista appena battuta, non c'è ancora nessuno, e si scende su una cosa liscia e perfetta che tra un'ora non esisterà più. Per quella mezz'ora lì, in fondo, si paga tutto il resto.

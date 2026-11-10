@@ -11,6 +11,8 @@
 ## Apertura personale
 Raja Ampat è il posto più bello che ho visto sott'acqua, e anche il più faticoso da raggiungere. Questo itinerario la mette dopo Bali e il nord di Sulawesi, perché da Manado a Sorong c'è un volo diretto, e da Sorong si torna verso Bali. Così tre isole lontanissime si incastrano in dodici giorni senza tornare indietro.
 
+In Indonesia sono tornato per la gente, per i posti e per i sorrisi, un po' come mi succede con la Thailandia.
+
 Dodici giorni sono pochi per tre isole, e lo dico subito: ogni isola merita almeno una settimana, se non di più. Questo è il giro per chi ha poco tempo e vuole vedere quanto è diversa l'Indonesia da un'isola all'altra. Più sotto ci sono anche le due versioni con una sola isola oltre a Bali: solo Sulawesi o solo Raja Ampat. Si scelgono in base al periodo.
 
 Ci siamo stati ad agosto, che su tutte le guide è segnato come la stagione sbagliata per Raja Ampat. In parte lo è, ma in modo diverso da come ci si aspetta: il mare è stato clamoroso lo stesso, dieci giorni senza vedere una goccia di pioggia. Il vento invece si è fatto sentire, e ha allungato un paio di trasferimenti tra le isole.
