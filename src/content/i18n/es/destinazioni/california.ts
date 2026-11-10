@@ -9,6 +9,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['città', 'cultura', 'cibo'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "San Francisco fue la salida y la llegada de mi road trip por California: los tres primeros días entre el Golden Gate, el Presidio, Alcatraz y Muir Woods, y el último antes del vuelo.",
     introduzione: 'La ciudad de las colinas, las casas victorianas y el Golden Gate, en la bahía más famosa de la costa oeste.',
     percheAndarci: 'Por el Golden Gate, Alcatraz, los barrios de Mission, Castro y Chinatown y los funiculares. Las secuoyas de Muir Woods están cerca.',
     cosaVedere: [
@@ -310,6 +312,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['parco nazionale', 'trekking', 'montagna'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante el road trip por California: tres días entre el Yosemite Valley, el Mist Trail, Glacier Point y la Mariposa Grove.",
     introduzione:
       'Un valle glaciar cerrado por paredes de granito como El Capitan y el Half Dome. En primavera sus cascadas están entre las más altas de Norteamérica.',
     percheAndarci: 'Por el Yosemite Valley, Glacier Point, las secuoyas de Mariposa Grove y los senderos hacia las cascadas Vernal y Nevada.',
@@ -533,6 +537,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['parco nazionale', 'foresta', 'trekking'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante el road trip por California, viniendo de Yosemite: dos días entre Kings Canyon, el General Sherman y Moro Rock.",
     introduzione:
       'Dos parques colindantes en la vertiente occidental de la Sierra Nevada, con las secuoyas gigantes más grandes del mundo y el cañón glaciar del Kings River.',
     percheAndarci: 'Por el General Sherman, el árbol de mayor volumen de la Tierra, la Giant Forest, Moro Rock y la carretera por el Kings Canyon.',
@@ -634,6 +640,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['parco nazionale', 'deserto'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante el road trip por California: dos días entre Stovepipe Wells y Furnace Creek, con Badwater, Artists Drive y Zabriskie Point.",
     introduzione:
       'El parque más grande de los Estados Unidos continentales. Aquí está el punto más bajo de Norteamérica y aquí se han registrado los récords de temperatura del planeta.',
     percheAndarci: 'Por Zabriskie Point al amanecer, las salinas de Badwater, las dunas de Mesquite y los colores del Artist\'s Palette.',
@@ -851,6 +859,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['parco nazionale', 'deserto', 'arrampicata'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegué desde el Valle de la Muerte pasando por la Ruta 66, durante el road trip por California: un día en el parque, con base en Twentynine Palms.",
     introduzione:
       'Aquí el desierto de Mojave se encuentra con el del Colorado: árboles de Josué, montones de rocas graníticas y un cielo nocturno de los más oscuros del sur de California. A media hora está Palm Springs.',
     percheAndarci: 'Por las rocas de Hidden Valley, el Cholla Cactus Garden, Keys View y las estrellas. Y por la arquitectura modernista de Palm Springs.',
@@ -949,6 +959,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['città', 'spiagge', 'musei'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante el road trip por California, viniendo de Palm Springs: el Getty, Hollywood, el Griffith Observatory y luego Santa Mónica, Venice y Malibú.",
     introduzione: 'Una metrópolis extensa como una región, entre las colinas de Hollywood, museos de arte y playas del océano de Malibú a Venice.',
     percheAndarci: 'Por el Griffith Observatory, el Getty Center, Santa Mónica y Venice, los estudios de cine y una escena gastronómica muy variada.',
     cosaVedere: [
@@ -1223,6 +1235,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['costa', 'road trip', 'natura'],
     giorniConsigliati: '3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue el último tramo de mi road trip por California: de Santa Bárbara a Cambria, luego la Highway 1 de Big Sur hasta Carmel y Monterey, antes de volver a San Francisco.",
     introduzione:
       'La Pacific Coast Highway entre Santa Bárbara y Monterey: misiones españolas, elefantes marinos, acantilados a pico sobre el océano y bosques de secuoyas costeras.',
     percheAndarci: 'Por la carretera a lo largo de Big Sur, el puente de Bixby Creek, la cascada de McWay, la colonia de elefantes marinos de Piedras Blancas y el acuario de Monterey.',

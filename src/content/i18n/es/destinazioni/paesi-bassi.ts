@@ -9,6 +9,8 @@ export const destinazioniPaesiBassi: Destinazione[] = [
     tipologia: ['città', 'arte', 'storia'],
     giorniConsigliati: '3-4 días para el casco histórico, el anillo de canales y los museos principales',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve con amigos cuatro días, tres noches: el anillo de canales y el Jordaan, la Casa de Ana Frank, el Rijksmuseum y el Museo Van Gogh. El último día alquilamos bicis y recorrimos la ciudad parando donde surgía.",
     introduzione:
       'La capital de los Países Bajos, construida sobre una red de canales concéntricos excavados a partir del siglo XVII, en la edad de oro neerlandesa. El Grachtengordel (el anillo de canales), con las típicas casas adosadas estrechas y altas asomadas al agua, es Patrimonio de la UNESCO desde 2010. Es una ciudad compacta, casi plana, para recorrer a pie o, más a menudo, en bicicleta.',
     percheAndarci:

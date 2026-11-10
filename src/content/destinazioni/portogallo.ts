@@ -18,6 +18,8 @@ export const destinazioniPortogallo: Destinazione[] = [
     tipologia: ['città', 'storia', 'mare'],
     giorniConsigliati: '3-4 giorni, compresa la gita fuori porta a Sintra',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato con amici per quattro giorni, tre notti, a piedi e con i mezzi: Alfama e il tram 28, Belém, Baixa e Chiado, più una giornata intera a Sintra.",
     introduzione:
       'La capitale del Portogallo sta su sette colline affacciate sull\'estuario del Tago. In gran parte è stata ricostruita dopo il terremoto del 1755, che diede forma alla Baixa: il quartiere basso dal disegno regolare illuminista che oggi separa dal fiume i quartieri più antichi e collinari, Alfama e Bairro Alto.',
     percheAndarci:
@@ -396,6 +398,8 @@ export const destinazioniPortogallo: Destinazione[] = [
     tipologia: ['storia', 'natura', 'arte'],
     giorniConsigliati: 'una giornata intera, come gita da Lisbona',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato in giornata durante i quattro giorni a Lisbona con amici: un giorno intero dedicato solo a Sintra.",
     introduzione:
       'Una cittadina fra colline boscose, circa 30 km a nord-ovest di Lisbona, patrimonio UNESCO dal 1995 come "Paesaggio culturale di Sintra". Per secoli ci hanno passato l\'estate la nobiltà e la famiglia reale portoghese, che vi hanno costruito palazzi e ville romantiche in una concentrazione unica in Europa, in un microclima più fresco e umido di quello di Lisbona.',
     percheAndarci:

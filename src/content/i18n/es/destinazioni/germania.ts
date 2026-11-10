@@ -9,6 +9,8 @@ export const destinazioniGermania: Destinazione[] = [
     tipologia: ['città', 'storia', 'memoria', 'arte'],
     giorniConsigliati: '4 días, uno más que en otras capitales, por el tamaño de la ciudad',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve con amigos cuatro días, moviéndonos en transporte público: la Puerta de Brandeburgo y el Reichstag, un día entero dedicado al Muro y la Guerra Fría, la Isla de los Museos y Berlín Este, y el último día Kreuzberg y Friedrichshain.",
     introduzione:
       "La capital alemana, capital del Reich hasta 1945, dividida de 1961 a 1989 en Berlín Oeste y Berlín Este por el Muro que la convirtió en el símbolo físico de la Guerra Fría, y reunificada con Alemania en 1990. Es mucho más extensa y menos densa que otras capitales europeas, con barrios de carácter muy distinto: el casco histórico y el barrio del gobierno, la Isla de los Museos, Patrimonio de la UNESCO, y los barrios del este como Kreuzberg y Friedrichshain, crecidos al calor de la reunificación hasta convertirse en algunos de los más vivos de Europa.",
     percheAndarci:

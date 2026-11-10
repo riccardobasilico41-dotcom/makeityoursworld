@@ -9,6 +9,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['city', 'culture', 'food'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "San Francisco was the start and end of my California road trip: the first three days between the Golden Gate, the Presidio, Alcatraz and Muir Woods, and the last one before the flight.",
     introduzione: "The city of hills, Victorian houses and the Golden Gate, on the most famous bay of the West Coast.",
     percheAndarci: "For the Golden Gate, Alcatraz, the Mission, Castro and Chinatown neighborhoods and the cable cars. The redwoods of Muir Woods are nearby.",
     cosaVedere: [
@@ -310,6 +312,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['national park', 'hiking', 'mountains'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the California road trip: three days between Yosemite Valley, the Mist Trail, Glacier Point and Mariposa Grove.",
     introduzione:
       "A glacial valley enclosed by granite walls like El Capitan and Half Dome. In spring its waterfalls are among the tallest in North America.",
     percheAndarci: "For Yosemite Valley, Glacier Point, the Mariposa Grove sequoias and the trails to Vernal and Nevada Falls.",
@@ -533,6 +537,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['national park', 'forest', 'hiking'],
     giorniConsigliati: '1-2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the California road trip, coming from Yosemite: two days between Kings Canyon, the General Sherman and Moro Rock.",
     introduzione:
       "Two neighboring parks on the western slope of the Sierra Nevada, with the largest giant sequoias in the world and the glacial canyon of the Kings River.",
     percheAndarci: "For the General Sherman, the largest tree on Earth by volume, the Giant Forest, Moro Rock and the road into Kings Canyon.",
@@ -634,6 +640,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['national park', 'desert'],
     giorniConsigliati: '1-2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the California road trip: two days between Stovepipe Wells and Furnace Creek, with Badwater, Artists Drive and Zabriskie Point.",
     introduzione:
       "The largest park in the contiguous United States. Here is the lowest point in North America and here the planet's temperature records have been set.",
     percheAndarci: "For Zabriskie Point at dawn, the Badwater salt flats, the Mesquite dunes and the colors of the Artist's Palette.",
@@ -851,6 +859,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['national park', 'desert', 'climbing'],
     giorniConsigliati: '1-2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I got here from Death Valley via Route 66, during the California road trip: one day in the park, based in Twentynine Palms.",
     introduzione:
       "Here the Mojave Desert meets the Colorado Desert: Joshua trees, clusters of granite rocks and a night sky among the darkest in Southern California. Half an hour away is Palm Springs.",
     percheAndarci: "For the rocks of Hidden Valley, the Cholla Cactus Garden, Keys View and the stars. And for the modernist architecture of Palm Springs.",
@@ -949,6 +959,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['city', 'beaches', 'museums'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the California road trip, coming from Palm Springs: the Getty, Hollywood, Griffith Observatory and then Santa Monica, Venice and Malibu.",
     introduzione: "A metropolis as sprawling as a region, between the Hollywood hills, art museums and ocean beaches from Malibu to Venice.",
     percheAndarci: "For the Griffith Observatory, the Getty Center, Santa Monica and Venice, the film studios and a very varied food scene.",
     cosaVedere: [
@@ -1223,6 +1235,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     tipologia: ['coast', 'road trip', 'nature'],
     giorniConsigliati: '3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "It was the last stretch of my California road trip: from Santa Barbara to Cambria, then Highway 1 through Big Sur to Carmel and Monterey, before heading back to San Francisco.",
     introduzione:
       "The Pacific Coast Highway between Santa Barbara and Monterey: Spanish missions, elephant seals, cliffs plunging into the ocean and coastal redwood forests.",
     percheAndarci: "For the road along Big Sur, the Bixby Creek Bridge, McWay Falls, the Piedras Blancas elephant seal colony and the Monterey aquarium.",

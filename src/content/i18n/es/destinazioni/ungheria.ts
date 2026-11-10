@@ -9,6 +9,8 @@ export const destinazioniUngheria: Destinazione[] = [
     tipologia: ['città', 'terme', 'storia'],
     giorniConsigliati: '3-4 días, con una jornada dedicada a las termas',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve con amigos un fin de semana largo, tres noches, todo a pie y en transporte público: la colina de Buda y el Bastión de los Pescadores, el Parlamento y el barrio judío, un día en los baños termales y el último entre el Danubio y la Isla Margarita.",
     introduzione:
       'La capital húngara, nacida en 1873 de la fusión de tres ciudades distintas: Buda y Óbuda en la orilla montañosa al oeste del Danubio, Pest en la llana al este. El casco antiguo de Buda, Patrimonio de la UNESCO desde 1987, conserva el castillo real y el barrio medieval alrededor de la Iglesia de Matías; Pest concentra el Parlamento, las grandes avenidas decimonónicas y el barrio judío con sus ruin bars. Bajo la ciudad brotan muchos manantiales termales, y Budapest es conocida como «la ciudad de las termas».',
     percheAndarci:

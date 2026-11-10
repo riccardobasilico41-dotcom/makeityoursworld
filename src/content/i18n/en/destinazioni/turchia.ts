@@ -43,6 +43,8 @@ export const destinazioniTurchia: Destinazione[] = [
       "Picking up the brush a shoe shiner drops in front of you: it's the pretext for a paid shine",
       'Eating in Sultanahmet restaurants with no prices displayed',
     ],
+    miaEsperienza:
+      "I went with friends at the start of my sixteen-day trip around Turkey: four days between Sultanahmet with Hagia Sophia, the Blue Mosque and the Cistern, Topkapı, the Grand Bazaar and the Süleymaniye, the Bosphorus, Beyoğlu and Kadıköy.",
     // GUIDA-START
     luoghi: [
       {
@@ -374,6 +376,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Choosing the operator on price alone: the license and the number of passengers per basket matter',
       'Visiting the open-air museum at noon, when all the groups arrive',
     ],
+    miaEsperienza:
+      "I flew in from Istanbul during the sixteen days in Turkey with friends: three days based in Göreme, the hot-air balloon at dawn, the open-air museum, the Red Valley, Uçhisar and the underground city, then the night bus to Pamukkale.",
     // GUIDA-START
     luoghi: [
       {
@@ -673,6 +677,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Going up at noon in summer: the glare off the white is blinding',
       'Expecting all the pools to be full: many are left dry on rotation to preserve the travertine',
     ],
+    miaEsperienza:
+      "I arrived on the night bus from Cappadocia during the sixteen days in Turkey with friends: a day between the terraces and Hierapolis, then by car towards Aphrodisias and Ephesus.",
     // GUIDA-START
     luoghi: [
       {
@@ -919,6 +925,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Going in mid-morning in high season, when the cruise ship passengers from Kuşadası arrive',
       'Skipping the Terrace Houses to save money: they are the best part of the site',
     ],
+    miaEsperienza:
+      "I went during the sixteen days in Turkey with friends, driving from Pamukkale with a stop at Aphrodisias: based in Selçuk, then Ephesus and Şirince.",
     // GUIDA-START
     luoghi: [
       {
@@ -1195,6 +1203,8 @@ export const destinazioniTurchia: Destinazione[] = [
       "Touring the coast without a car: dolmuş run between towns, but the best coves stay out of reach",
       'Going in August without booking: Kaş and Ölüdeniz fill up',
     ],
+    miaEsperienza:
+      "I went by car with friends in the final part of the sixteen days in Turkey: Fethiye, Ölüdeniz and Kayaköy, then Saklıkent and Patara down to Kaş and a day on a boat to Kekova.",
     // GUIDA-START
     luoghi: [
       {
@@ -1305,6 +1315,8 @@ export const destinazioniTurchia: Destinazione[] = [
     periodoMigliore: 'April to November',
     costi: 'Archaeological Museum and Aspendos around €15-20 each (approximate).',
     erroriDaEvitare: ["Returning the rental car in another city without checking the one-way fee"],
+    miaEsperienza:
+      "It was the last stop of my sixteen days in Turkey with friends: I drove in from Kaş, spent a night in Kaleiçi and flew home from here.",
     // GUIDA-START
     luoghi: [
       {

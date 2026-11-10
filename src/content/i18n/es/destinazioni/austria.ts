@@ -9,6 +9,8 @@ export const destinazioniAustria: Destinazione[] = [
     tipologia: ['città', 'arte', 'musica'],
     giorniConsigliati: "3-4 días para el Innere Stadt, Schönbrunn, el Belvedere y el Prater",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve con amigos un fin de semana largo, tres noches, todo a pie y en transporte público: la Innere Stadt y la catedral de San Esteban, el Hofburg y el Naschmarkt, un día en Schönbrunn, y luego el Belvedere y el Prater.",
     introduzione:
       "La capital austriaca, durante siglos corazón del Imperio de los Habsburgo y hoy una de las ciudades con mejor calidad de vida del mundo según varias clasificaciones internacionales. El casco antiguo es compacto: el Innere Stadt, Patrimonio de la UNESCO, rodeado por el Ring, la avenida que en el siglo XIX ocupó el lugar de las antiguas murallas. El palacio de Schönbrunn, el palacio del Belvedere y el gran parque del Prater están justo fuera del núcleo más céntrico.",
     percheAndarci:

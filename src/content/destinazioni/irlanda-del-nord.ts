@@ -15,6 +15,8 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "È stata l'ultima tappa del mio giro in auto delle due Irlande: il tour dei murales e dei peace walls, il Titanic Belfast e poi la strada di rientro verso Dublino.",
     introduzione:
       'La capitale dell\'Irlanda del Nord. È la città dove il Titanic fu progettato e varato, e quella dove i Troubles hanno lasciato i segni più visibili: i murales di Falls Road e Shankill Road e i peace walls che ancora separano alcuni quartieri.',
     percheAndarci:
@@ -89,6 +91,8 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     tipologia: ['costa', 'natura', 'on the road'],
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato durante il giro in auto delle due Irlande: un giorno da Derry lungo la costa, con il Dunluce Castle, il Giant's Causeway, Carrick-a-Rede e le Dark Hedges.",
     introduzione:
       'La strada costiera della contea di Antrim. Le tappe più note sono il Giant\'s Causeway, con più di 40.000 colonne di basalto, il Dunluce Castle sulla scogliera, il ponte di corda di Carrick-a-Rede e, nell\'interno, il viale di faggi delle Dark Hedges.',
     percheAndarci: 'Per il tratto di costa più spettacolare dell\'Irlanda del Nord, tra Derry e Belfast.',
@@ -151,6 +155,8 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1 giorno',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono arrivato in auto da Galway durante il giro delle due Irlande, passando il confine senza controlli: una notte qui, prima della costa di Antrim.",
     introduzione:
       'La seconda città dell\'Irlanda del Nord, sul fiume Foyle, con le mura del Seicento ancora intere. Ha due nomi, e già il nome racconta la sua storia. Qui, nel quartiere del Bogside, il 30 gennaio 1972 ci fu il Bloody Sunday.',
     percheAndarci: 'Per camminare sulle mura e per i musei che raccontano i Troubles da vicino, nella città dove sono cominciati e dove la pace si vede, a partire da un ponte.',

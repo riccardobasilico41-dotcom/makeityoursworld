@@ -9,6 +9,8 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     tipologia: ['città', 'storia', 'architettura'],
     giorniConsigliati: '3-4 days for the Old Town, the Castle and Vyšehrad',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went with friends for a long weekend, three nights, all on foot and by public transport: the Old Town, Charles Bridge with Malá Strana and the Castle, Josefov and, on the last day, Vyšehrad.",
     introduzione:
       "The \"city of a hundred spires,\" the Czech capital on both banks of the Vltava, with one of the best-preserved medieval and Baroque historic centers in Europe. It came through the bombings of World War II almost unscathed, and today it's a compact set of five historic districts, all walkable in a few days: Staré Město (the Old Town), Malá Strana (the Lesser Town), Hradčany (the Castle hill), Josefov (the Jewish quarter) and the nineteenth-century Nové Město (the New Town).",
     percheAndarci:

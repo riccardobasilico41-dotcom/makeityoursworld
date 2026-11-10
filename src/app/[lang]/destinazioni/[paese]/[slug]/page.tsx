@@ -20,6 +20,7 @@ import { ComparisonBlock } from '@/components/ComparisonBlock'
 import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
 import { RelatedContent } from '@/components/RelatedContent'
+import { consigliDellaDestinazione } from '@/lib/consigli'
 import {
   getAllDestinazioni,
   getDestinazione,
@@ -215,6 +216,7 @@ export default async function DestinazionePage({
 
   const esperienze = getEsperienzeDiDestinazione(destinazione, lingua)
   const viaggi = getViaggiByDestinazione(destinazione, lingua)
+  const guide = consigliDellaDestinazione(`${paeseSlug}/${destinazione.slug}`)
 
   // Galleria: le foto dei giorni dei viaggi passati da qui e quelle delle esperienze, le proprie prima
   const viste = new Set([destinazione.immagine])
@@ -333,6 +335,18 @@ export default async function DestinazionePage({
               <TitoloSezione icona={Camera}>{t.foto}</TitoloSezione>
               <Galleria foto={foto.slice(0, 9)} />
             </div>
+          )}
+
+          {guide.length > 0 && (
+            <RelatedContent
+              titolo={{ it: `Guide su ${destinazione.nome}`, en: `${destinazione.nome} guides`, es: `Guías de ${destinazione.nome}` }[lingua]}
+              items={guide.map((g) => ({
+                href: `/consigli/${g.slug}`,
+                eyebrow: { it: 'Guida', en: 'Guide', es: 'Guía' }[lingua],
+                titolo: g.testi[lingua].titolo,
+                sottotitolo: g.testi[lingua].descrizione,
+              }))}
+            />
           )}
 
           {/* mini guida: i luoghi dettagliati prendono il posto dell'elenco breve */}

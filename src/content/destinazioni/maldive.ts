@@ -14,6 +14,8 @@ export const destinazioniMaldive: Destinazione[] = [
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'mezza giornata o una notte di transito',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Malé e Hulhumalé sono stati il mio punto di arrivo e di partenza alle Maldive, tra l'aeroporto Velana e gli speedboat per le isole.",
     introduzione:
       'La capitale, una delle città più densamente abitate al mondo, e Hulhumalé, l\'isola artificiale accanto all\'aeroporto Velana, con spiaggia cittadina, hotel e ristoranti.',
     percheAndarci:

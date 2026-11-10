@@ -9,6 +9,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['patrimonio UNESCO', 'mare', 'città storica'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la primera etapa de mis diez días en Montenegro con amigos, en coche de alquiler: tres días con base en Kotor, la ciudad vieja y las murallas hasta la fortaleza, y luego Perast, Nuestra Señora de las Rocas y la vuelta a las Bocas.",
     introduzione:
       "Una bahía profunda y ramificada, encajada entre montañas que caen a pico sobre el agua, con las ciudades venecianas de Kotor y Perast, palacios de capitanes de barco e islotes con iglesias y monasterios.",
     percheAndarci:
@@ -139,6 +141,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['montagna', 'parco nazionale', 'storia'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante los diez días en Montenegro con amigos: en coche desde Kotor por las curvas del Lovćen, Njeguši y el mausoleo de Njegoš, con la noche en Cetinje.",
     introduzione:
       'La montaña símbolo de Montenegro, sobre la bahía, con el mausoleo del príncipe-obispo y poeta Njegoš en la cima, y la antigua capital real de Cetinje a sus pies.',
     percheAndarci:
@@ -241,6 +245,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['mare', 'spiagge', 'vita notturna'],
     giorniConsigliati: '1-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Pasé por allí durante los diez días en Montenegro con amigos: un día en coche desde Cetinje por la costa, Budva y Sveti Stefan hasta Petrovac.",
     introduzione:
       'La costa central de Montenegro, con la ciudad vieja fortificada de Budva, el islote-resort de Sveti Stefan y las bahías hasta Petrovac.',
     percheAndarci: 'Para unos días de mar, eligiendo las bahías más tranquilas al sur de Budva.',
@@ -342,6 +348,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['lago', 'parco nazionale', 'natura', 'vino'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante los diez días en Montenegro con amigos: un día en el lago entre Virpazar, Pavlova Strana y Rijeka Crnojevića, antes de subir hacia Ostrog y el Durmitor.",
     introduzione:
       'El lago más grande de los Balcanes, compartido con Albania, parque nacional con unas 270 especies de aves, canales de nenúfares, monasterios en islotes y los viñedos de Crmnica.',
     percheAndarci: 'Para un paseo en barca entre canales y pueblos de pescadores, el mirador de Pavlova Strana y los vinos del lago.',
@@ -435,6 +443,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['monastero', 'pellegrinaggio'],
     giorniConsigliati: 'media jornada',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Pasé por allí durante los diez días en Montenegro con amigos, en la carretera del lago Skadar a Žabljak: una parada en el monasterio, y luego por Nikšić hacia el Durmitor.",
     introduzione:
       'El monasterio ortodoxo más venerado de Montenegro, blanco y encajado en una pared vertical a unos 900 metros, con las reliquias de San Basilio de Ostrog.',
     percheAndarci: 'Por su posición en la roca y por la peregrinación, que atrae a fieles de todas las confesiones.',
@@ -509,6 +519,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['patrimonio UNESCO', 'montagna', 'trekking', 'rafting'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve en la parte final de los diez días en Montenegro con amigos, con base en Žabljak: el Lago Negro, la carretera panorámica y el Bobotov Kuk, y luego el puente sobre el Tara y el rafting antes de bajar hacia Podgorica.",
     introduzione:
       'Un macizo calcáreo con 48 cumbres por encima de los 2.000 metros y dieciocho lagos glaciares alrededor de Žabljak, y el cañón del Tara, de hasta 1.300 metros de profundidad, entre los más profundos de Europa.',
     percheAndarci: 'Por el Lago Negro, la carretera panorámica del Durmitor, la subida al Bobotov Kuk y el rafting en el Tara.',

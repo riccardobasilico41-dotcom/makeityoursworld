@@ -9,6 +9,8 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la última etapa de mi ruta en coche por las dos Irlandas: el tour de los murales y los peace walls, el Titanic Belfast y luego la carretera de vuelta a Dublín.",
     introduzione:
       'La capital de Irlanda del Norte. Es la ciudad donde se diseñó y botó el Titanic, y la que más huellas visibles conserva de los Troubles: los murales de Falls Road y Shankill Road y los peace walls que todavía separan algunos barrios.',
     percheAndarci:
@@ -83,6 +85,8 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     tipologia: ['costa', 'natura', 'on the road'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante la ruta en coche por las dos Irlandas: un día por la costa desde Derry, con el castillo de Dunluce, la Calzada del Gigante, Carrick-a-Rede y los Dark Hedges.",
     introduzione:
       "La carretera de costa del condado de Antrim. Las paradas más conocidas son la Giant's Causeway, con más de 40.000 columnas de basalto, el Dunluce Castle sobre el acantilado, el puente de cuerda de Carrick-a-Rede y, en el interior, la avenida de hayas de las Dark Hedges.",
     percheAndarci: 'Por el tramo de costa más espectacular de Irlanda del Norte, entre Derry y Belfast.',
@@ -145,6 +149,8 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegué en coche desde Galway durante la ruta por las dos Irlandas, cruzando la frontera sin controles: una noche aquí, antes de la costa de Antrim.",
     introduzione:
       'La segunda ciudad de Irlanda del Norte, junto al río Foyle, con sus murallas del siglo XVII todavía enteras. Tiene dos nombres, y el nombre ya cuenta su historia. Aquí, en el barrio del Bogside, el 30 de enero de 1972 tuvo lugar el Bloody Sunday.',
     percheAndarci: 'Para caminar sobre las murallas y por los museos que cuentan los Troubles de cerca, en la ciudad donde empezaron y donde la paz se ve, empezando por un puente.',

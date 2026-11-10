@@ -87,6 +87,8 @@ Por la tarde se sube por la **Niagara Parkway**, la carretera panorámica a lo l
 - Niagara Falls-Niagara-on-the-Lake: unos 25 km por la Niagara Parkway
 
 ### Día 5 — Las Mil Islas
+*Esta etapa no la hice yo: es una extensión posible de la ruta, escrita con información práctica.*
+
 Es la etapa de traslado más larga: unas cuatro horas hacia el este, a lo largo del lago Ontario, hasta **Gananoque**, la puerta de las **Mil Islas**. Aquí el San Lorenzo sale del lago y se rompe en casi dos mil islas e islotes, muchos con una sola casa encima. Los cruceros salen de Gananoque y de Rockport y duran de una a tres horas. Quien prefiera conducir puede recorrer la **Thousand Islands Parkway**, la carretera panorámica junto al río.
 
 Conviene salir temprano para llegar a Gananoque hacia la hora de comer y tomar un crucero a primera hora de la tarde, cuando la luz sobre el río es más bonita. Las salidas más cortas recorren las islas canadienses frente al pueblo; las más largas llegan hasta **Heart Island**, la isla del **Boldt Castle**, el castillo que un hotelero de Nueva York mandó construir para su mujer y dejó sin terminar cuando ella murió. Después del crucero se sigue hacia el este por la Parkway, que tiene al lado un carril bici de unos cuarenta kilómetros, con paradas en los miradores y en las pequeñas playas del río. *Para dormir, Gananoque tiene moteles y B&B sencillos; Kingston, media hora más allá, ofrece más opciones.*
@@ -122,6 +124,8 @@ El día se organiza en torno a las visitas del Parlamento, que tienen horarios f
 - National Gallery y Canadian Museum of History: entrada de pago, horario reducido en temporada baja, comprobar los días de cierre
 
 ### Día 8 — Mont-Tremblant y los Laurentides
+*Esta etapa no la hice yo: es una extensión posible de la ruta, escrita con información práctica.*
+
 Desde Ottawa se entra en los **Laurentides**, colinas de bosques y lagos al norte de Montréal. **Mont-Tremblant** es una estación de esquí con un pueblo peatonal de casas de colores a los pies de la montaña; en verano y en otoño el teleférico sube a la cima para disfrutar del panorama sobre los lagos. Un poco más al norte está el **Parc national du Mont-Tremblant**, con senderos y piragüismo, de entrada de pago.
 
 El pueblo peatonal se recorre en una hora, entre tejados de colores, tiendas y terrazas; la telecabina panorámica sube en pocos minutos a la cima, de donde salen senderos señalizados y hay un restaurante. La tarde es mejor pasarla en el parque nacional: el sector de La Diable, unos veinte minutos más al norte, tiene la cascada **Chute du Diable**, senderos cortos entre los lagos y alquiler de canoas y kayaks. *Las Laurentides están en su mejor momento entre finales de septiembre y principios de octubre, cuando los arces se vuelven rojos: son también las semanas más caras y concurridas.* A quien le guste la bici, un poco más al sur está el **P'tit Train du Nord**, el carril bici construido sobre una antigua vía de tren.
@@ -179,6 +183,8 @@ A las cascadas conviene llegar por la mañana, antes de los autocares. La escale
 - Ciudadela: visitas guiadas de pago y, en verano, cambio de guardia por la mañana
 
 ### Día 13 — Charlevoix: Baie-Saint-Paul y la carretera junto al río
+*Esta etapa no la hice yo: es una extensión posible de la ruta, escrita con información práctica.*
+
 Se baja por la costa norte del San Lorenzo hacia **Charlevoix**, una región de colinas que caen sobre el río, reserva de la biosfera de la UNESCO. **Baie-Saint-Paul** es un pueblo de galerías de arte y queserías; desde aquí la **carretera 362** corre en alto sobre el río hasta **La Malbaie**, con miradores sobre las ensenadas. Por la noche se llega a **Baie-Sainte-Catherine** y se coge el ferri a **Tadoussac**.
 
 Baie-Saint-Paul se recorre a pie en una hora: la calle principal, rue Saint-Jean-Baptiste, está llena de galerías y tiendas, y hay un museo de arte contemporáneo y la **Laiterie Charlevoix**, la quesería que deja ver la producción. La 362, también llamada Route du Fleuve, pasa por Les Éboulements, con una vista amplísima sobre la **Isle-aux-Coudres**, a la que se llega con un ferri gratuito desde Saint-Joseph-de-la-Rive. En La Malbaie está el gran hotel histórico del **Manoir Richelieu**, sobre el río. *Quien tenga un día más puede desviarse hacia el interior, al Parc national des Hautes-Gorges-de-la-Rivière-Malbaie, con paredes de roca de las más altas al este de las Montañas Rocosas.*

@@ -9,6 +9,8 @@ export const destinazioniGermania: Destinazione[] = [
     tipologia: ['città', 'storia', 'memoria', 'arte'],
     giorniConsigliati: '4 days, one more than other capitals, because of the size of the city',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went with friends for four days, getting around by public transport: the Brandenburg Gate and the Reichstag, a whole day on the Wall and the Cold War, Museum Island and East Berlin, and on the last day Kreuzberg and Friedrichshain.",
     introduzione:
       "The German capital, capital of the Reich until 1945, divided from 1961 to 1989 into West Berlin and East Berlin by the Wall that made it the physical symbol of the Cold War, and reunified with Germany in 1990. It is much more spread out and less dense than other European capitals, with neighborhoods of very different character: the old town and the government quarter, the UNESCO World Heritage Museum Island, and the eastern neighborhoods like Kreuzberg and Friedrichshain, which grew in the wake of reunification to become among the liveliest in Europe.",
     percheAndarci:

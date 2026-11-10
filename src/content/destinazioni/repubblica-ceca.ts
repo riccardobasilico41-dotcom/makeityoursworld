@@ -16,6 +16,8 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     tipologia: ['città', 'storia', 'architettura'],
     giorniConsigliati: '3-4 giorni per il centro storico, il Castello e Vyšehrad',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato con amici in un weekend lungo, tre notti, tutto a piedi e con i mezzi: la Città Vecchia, il Ponte Carlo con Malá Strana e il Castello, Josefov e l'ultimo giorno Vyšehrad.",
     introduzione:
       'La "città dalle cento torri", capitale ceca sulle due rive della Moldava, con uno dei centri storici medievali e barocchi meglio conservati d\'Europa. È uscita quasi indenne dai bombardamenti della Seconda guerra mondiale, e oggi è un insieme compatto di cinque nuclei storici, tutti percorribili a piedi in pochi giorni: Staré Město (Città Vecchia), Malá Strana (Città Piccola), Hradčany (il colle del Castello), Josefov (il quartiere ebraico) e la Nové Město (Città Nuova) ottocentesca.',
     percheAndarci:

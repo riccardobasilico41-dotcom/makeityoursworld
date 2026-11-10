@@ -2420,6 +2420,7 @@ export const destinazioniMessico: Destinazione[] = [
     tripSlugs: ['messico-yucatan-completo'],
     imageAlt: "The Temple of the Inscriptions at Palenque among the trees of the Chiapas forest",
     immagine: '/images/messico/palenque.webp',
+    miaEsperienza: 'I went there on the full Yucatán loop: from Campeche I drove down to Palenque and spent a whole day at the site, in the forest, before heading on to Xpujil.',
   },
   {
     slug: 'calakmul',
@@ -2526,5 +2527,6 @@ export const destinazioniMessico: Destinazione[] = [
     tripSlugs: ['messico-yucatan-completo'],
     imageAlt: "Calakmul's Structure I rising from the reserve's forest, seen from the top of Structure II",
     immagine: '/images/messico/calakmul.webp',
+    miaEsperienza: 'I got there from Xpujil on the full Yucatán loop: a whole day in the Biosphere Reserve, along the reserve road to the pyramids in the forest.',
   },
 ]

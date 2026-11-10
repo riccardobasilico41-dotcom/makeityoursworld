@@ -18,6 +18,8 @@ export const destinazioniUngheria: Destinazione[] = [
     tipologia: ['città', 'terme', 'storia'],
     giorniConsigliati: '3-4 giorni, con una giornata dedicata alle terme',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato con amici in un weekend lungo, tre notti, tutto a piedi e con i mezzi: il colle di Buda e il Bastione dei Pescatori, il Parlamento e il quartiere ebraico, un giorno alle terme e l'ultimo tra il Danubio e l'Isola Margherita.",
     introduzione:
       'La capitale ungherese, nata nel 1873 dalla fusione di tre città distinte: Buda e Óbuda sulla riva collinare a ovest del Danubio, Pest su quella pianeggiante a est. Il centro storico di Buda, patrimonio UNESCO dal 1987, conserva il castello reale e il quartiere medievale intorno alla Chiesa di Mattia; Pest concentra il Parlamento, i grandi viali ottocenteschi e il quartiere ebraico con i suoi ruin bar. Sotto la città sgorgano molte sorgenti termali, e Budapest è nota come "la città delle terme".',
     percheAndarci:

@@ -9,6 +9,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['città', 'storia', 'pub e musica'],
     giorniConsigliati: '2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "My road trip around the two Irelands, twelve days, started and ended here: the first two days in the city, with the Book of Kells and Kilmainham Gaol, before picking up the car.",
     introduzione:
       "The capital of the Republic, split in two by the River Liffey. Trinity College with the Book of Kells, Kilmainham Gaol where the history of independence runs through, the pubs and the Georgian streets. It is the start and end point of the loop.",
     percheAndarci:
@@ -339,6 +341,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'storia', 'trekking'],
     giorniConsigliati: 'half a day or 1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through on the first driving day of my trip around the two Irelands: from Dublin across the Wicklow Mountains to Glendalough, and Kilkenny in the evening.",
     introduzione:
       'South of Dublin the Wicklow Mountains begin. In the Glendalough valley, between two lakes, are the ruins of the monastery founded by St. Kevin in the 6th century, with its round tower still standing.',
     percheAndarci: "It is the first trip into nature after the city, and it is close: you do it in the morning and continue toward Kilkenny in the afternoon.",
@@ -382,6 +386,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['storia', 'città', 'castelli'],
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the road trip around the two Irelands: a night in Kilkenny, the castle the next morning, then the Rock of Cashel on the way to Cork.",
     introduzione:
       "Kilkenny is a medieval town with its castle on the River Nore. Further west, in County Tipperary, the Rock of Cashel is one of the most famous monument complexes in Ireland: a stone hill with a round tower, a Romanesque chapel and a Gothic cathedral.",
     percheAndarci: 'For two history stops on the road between Dublin and Cork, without long detours.',
@@ -427,6 +433,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['città', 'mare', 'cibo'],
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the road trip around the two Irelands: a night in Cork, the morning at the English Market, then Kinsale and the road to Killarney.",
     introduzione:
       "Cork is the second city of the Republic, with the country's most famous covered market. Kinsale, on the coast a little to the south, is a harbour town of colourful houses known for its restaurants and for a 17th-century fort.",
     percheAndarci: 'To eat well: the English Market for lunch, Kinsale for dinner. And for your first look at the Atlantic.',
@@ -468,6 +476,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'on the road', 'costa'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the road trip around the two Irelands, based in Killarney: a day on the Ring of Kerry loop and one on the Dingle Peninsula with the Slea Head Drive.",
     introduzione:
       'The Ring of Kerry is a 179 km loop around the Iveragh Peninsula, starting and ending in Killarney. Further north the Dingle Peninsula has the Slea Head Drive, the coast road with prehistoric forts, stone huts and views of the Blasket Islands.',
     percheAndarci: 'These are the most famous Atlantic landscapes on the island: lakes, low mountains, cliffs and villages where Irish is spoken.',
@@ -522,6 +532,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'costa'],
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through during the road trip around the two Irelands, on the road from Dingle to Galway: the Cliffs of Moher and then the Burren.",
     introduzione:
       'In County Clare the Cliffs of Moher drop straight into the Atlantic. Just to the north is the Burren, a plateau of bare limestone with a Neolithic dolmen and Arctic and Mediterranean plants growing side by side.',
     percheAndarci: 'For the most famous cliffs in Ireland and for a landscape unlike anything else on the island.',
@@ -566,6 +578,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['città', 'pub e musica'],
     giorniConsigliati: '1 day, as a base for Connemara',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the road trip around the two Irelands: two nights in the centre, a base for Connemara, before heading north to Derry/Londonderry.",
     introduzione:
       'The city at the mouth of the River Corrib, gateway to Connemara. A small, lively centre, music in the pubs all year, the Spanish Arch on the river and the Claddagh district, the one the ring is named after.',
     percheAndarci: 'For the evenings: Galway is the most musical city on the route. And as a base for Connemara.',
@@ -848,6 +862,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'trekking', 'on the road'],
     giorniConsigliati: '1-2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went on a day trip from Galway during the road trip around the two Irelands: Connemara, Letterfrack and Kylemore Abbey, then back to Galway.",
     introduzione:
       'The region west of Galway: bogs, lakes, the Twelve Bens mountains and a jagged coastline. Here you find Connemara National Park and Kylemore Abbey, a 19th-century castle on a lake.',
     percheAndarci: 'For the wildest landscape of the trip, sparsely inhabited, with a light that changes every half hour.',

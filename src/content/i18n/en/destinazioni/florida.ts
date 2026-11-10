@@ -646,6 +646,8 @@ export const destinazioniFlorida: Destinazione[] = [
     tipologia: ['divertimento', 'famiglia'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "In Orlando I stayed two nights in a private rental villa with a pool, during the Florida road trip with friends: one day at the theme park and then off to the Kennedy Space Center.",
     introduzione: "The theme-park capital of Florida: Universal Studios or Disney World, to choose for the most intense day of the trip.",
     percheAndarci: "For the most famous theme parks in the world, on a day that needs to be well organized but pays back with attractions that don't exist elsewhere.",
     cosaVedere: ['The four Disney World parks', 'The two Universal Studios parks', 'Lake Eola downtown'],

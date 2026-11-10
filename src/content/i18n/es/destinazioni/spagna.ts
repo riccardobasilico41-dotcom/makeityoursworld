@@ -10,6 +10,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['città', 'cultura moresca', 'flamenco'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la primera etapa de mis nueve días en Andalucía con amigos: dos días entre la Catedral y la Giralda, el Real Alcázar, Triana y el flamenco, y luego en tren hacia Córdoba.",
     introduzione:
       "La capital de Andalucía, a orillas del Guadalquivir. Aquí ocho siglos de dominio moro conviven con la Sevilla barroca y, en la otra orilla, con el barrio gitano de Triana, donde el flamenco nació en la calle antes de convertirse en espectáculo.",
     percheAndarci:
@@ -340,6 +342,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['città', 'cultura moresca', 'montagna'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve en los nueve días por Andalucía con amigos, llegando desde Córdoba: un día para la Alhambra y el Generalife, otro para el Albaicín y el Sacromonte, y luego en coche de alquiler hacia Ronda.",
     introduzione:
       "La última capital del reino moro de al-Ándalus, caída en 1492. La Alhambra la domina desde la colina y alrededor están las cumbres nevadas de Sierra Nevada: en ciertas épocas del año es el único lugar de Europa donde se puede esquiar por la mañana y estar en la playa por la tarde.",
     percheAndarci:
@@ -645,6 +649,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['città', 'cultura moresca'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegué en tren desde Sevilla durante los nueve días en Andalucía con amigos: una noche en la Judería para la Mezquita, y luego el traslado a Granada.",
     introduzione:
       "En el siglo X, bajo el Califato omeya, Córdoba era la ciudad más poblada y más culta de Europa occidental, donde convivían cultura islámica, judía y cristiana. Queda el monumento más desconcertante de Andalucía: la Mezquita, un bosque de más de ochocientas columnas de mármol y ónice con una catedral renacentista construida justo en medio.",
     percheAndarci:
@@ -988,6 +994,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['montagna', 'borghi', 'natura'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la última etapa de los nueve días en Andalucía con amigos, en coche desde Granada por la Serranía: el Puente Nuevo y los pueblos blancos, y luego hacia Málaga para cerrar el viaje.",
     introduzione:
       "Ronda es el más espectacular de los «pueblos blancos», los pueblos blancos del interior andaluz. Está a ambos lados del Tajo, una garganta de más de 100 metros de profundidad, unidos por el Puente Nuevo del siglo XVIII. Es la montaña después de las ciudades moras de la llanura, y es la cuna del toreo moderno.",
     percheAndarci:
@@ -1276,6 +1284,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['città', 'gastronomia', 'mare'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la primera etapa de mi viaje en coche con amigos por el norte de España, ocho días en total: dos días entre la Parte Vieja, La Concha y el Monte Igueldo, y luego hacia Bilbao.",
     introduzione:
       "La ciudad vasca en la bahía en forma de concha de La Concha, con más estrellas Michelin por habitante que cualquier otra ciudad del mundo y la cultura del pintxo (el aperitivo de bar vasco) más densa de España. Es lo opuesto a Andalucía: clima fresco, ambiente recogido y una identidad vasca, de lengua y de cultura, bien distinta del resto del país.",
     percheAndarci:
@@ -1631,6 +1641,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['città', 'arte', 'architettura'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve en el viaje en coche con amigos por el norte de España, llegando desde San Sebastián: dos días, con el Guggenheim y el Ensanche, y luego por la costa hacia Cantabria.",
     introduzione:
       "La antigua capital industrial vasca. En 1997 abrió el Museo Guggenheim de Frank Gehry y nació el término «efecto Bilbao», para una ciudad entera regenerada por un solo edificio. Hoy es una de las capitales culturales más vivas del norte de España, con un casco histórico (el Casco Viejo) que ha quedado casi como era junto a los rascacielos de la ría del Nervión.",
     percheAndarci:
@@ -1958,6 +1970,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['cammino', 'cultura', 'natura'],
     giorniConsigliati: '2-3 días para Santiago, más el tiempo elegido para el tramo de Camino',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la última etapa de mi viaje en coche con amigos por el norte de España: de Asturias a Galicia siguiendo la costa del Camino del Norte, hasta Santiago, donde terminó el viaje.",
     introduzione:
       "La meta final de todos los Caminos de Santiago: la Catedral custodia, según la tradición, las reliquias del apóstol Santiago. El Camino del Norte es la variante costera que desde Irún atraviesa País Vasco, Cantabria, Asturias y Galicia a lo largo de unos 825-865 km. Es menos transitado que el Camino Francés y pasa por los paisajes más variados de la España del Norte: acantilados atlánticos, playas, montañas y al final la Galicia verde y lluviosa.",
     percheAndarci:
@@ -2115,6 +2129,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['isola', 'mare', 'montagna'],
     giorniConsigliati: '3-4 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la primera isla de mi ruta por las Baleares con amigos, ocho días con el ferry entre las islas: dos días entre Palma y la Serra de Tramuntana, con Valldemossa y Sóller.",
     introduzione:
       "La más grande y la más completa de las Baleares. Tiene Palma, una capital de verdad con una catedral gótica junto al mar, y la Serra de Tramuntana, la cordillera patrimonio de la UNESCO que recorre 90 km la costa noroccidental: la parte verde de la isla, que quien viene por las playas a menudo no ve.",
     percheAndarci:
@@ -2500,6 +2516,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['isola', 'mare', 'vita notturna'],
     giorniConsigliati: '3-4 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegué en ferry desde Mallorca durante la ruta por las Baleares con amigos: tres días entre Ibiza ciudad, Dalt Vila y las calas y mercadillos del norte de la isla.",
     introduzione:
       "Ibiza son dos islas en una, y reducirla a capital mundial de la vida nocturna es la simplificación más común. El sur (Ibiza ciudad, Playa d'en Bossa, San Antonio) es el centro de una escena clubbing sin igual en Europa; el norte (Sant Joan de Labritja, Santa Gertrudis) es rural, tranquilo y casi hippie, con calas aisladas y mercados artesanales.",
     percheAndarci:
@@ -2831,6 +2849,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['isola', 'mare', 'natura'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la última isla de la ruta por las Baleares con amigos, llegando en ferry desde Ibiza: tres días entre Ciutadella, el Camí de Cavalls y Mahón, donde terminó el viaje.",
     introduzione:
       "La más pequeña y la más tranquila de las tres islas mayores de las Baleares. Gran parte del territorio es Reserva de la Biosfera de la UNESCO, desde los años 80 se construye poco por decisión política y las calas siguen entre las menos concurridas del archipiélago.",
     percheAndarci:
@@ -2997,6 +3017,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['isola', 'vulcano', 'natura'],
     giorniConsigliati: '3-4 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la primera isla de mis nueve días en Canarias con amigos, con coche de alquiler: tres días entre el Puerto de la Cruz y la costa norte, el Parque Nacional del Teide y el Parque Rural de Anaga.",
     introduzione:
       "La más grande de las Canarias. Aquí está el Teide, el volcán más alto de España (3.715 metros) y, medido desde la base en el fondo oceánico, la tercera estructura volcánica más alta del mundo. El Parque Nacional del Teide, patrimonio de la UNESCO, es un paisaje lunar de coladas de lava y formaciones rocosas que no se encuentran en otro sitio. En el extremo norte el Parque Rural de Anaga es un bosque de laurisilva superviviente de la era terciaria, reserva de la biosfera desde 2015.",
     percheAndarci:
@@ -3328,6 +3350,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['isola', 'natura', 'mare'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegué en avión desde Tenerife durante los nueve días en Canarias con amigos: tres días, con las dunas de Maspalomas, el Roque Nublo y el Barranco de Guayadeque.",
     introduzione:
       "La llaman «un continente en miniatura» por los muchos microclimas y paisajes encerrados en apenas 1.560 km². Al sur están las dunas casi saharianas de Maspalomas; en el centro las montañas alrededor del Roque Nublo, a más de 1.800 metros, con el clima de una media montaña europea.",
     percheAndarci:
@@ -3490,6 +3514,8 @@ export const destinazioniSpagna: Destinazione[] = [
     tipologia: ['isola', 'vulcano', 'architettura'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fue la última isla de los nueve días en Canarias con amigos: tres días, con Timanfaya por la mañana, una cata de vino en La Geria y las obras de César Manrique.",
     introduzione:
       "La isla más volcánica de las Canarias: entre 1730 y 1736 las erupciones cubrieron de lava una cuarta parte de la superficie y crearon el paisaje de Timanfaya. Desde 1993 toda la isla es Reserva de la Biosfera de la UNESCO, la primera de las Canarias en tenerla en todo el territorio. Arquitectura y urbanismo llevan la marca de un solo artista, César Manrique.",
     percheAndarci:

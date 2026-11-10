@@ -47,6 +47,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Raccogliere la spazzola che un lustrascarpe lascia cadere davanti a voi: è il pretesto per una lucidatura a pagamento',
       'Mangiare nei ristoranti di Sultanahmet senza prezzi esposti',
     ],
+    miaEsperienza:
+      "Ci sono stato con amici all'inizio del mio viaggio di sedici giorni in Turchia: quattro giorni tra Sultanahmet con Santa Sofia, la Moschea Blu e la Cisterna, Topkapı, il Gran Bazar e la Süleymaniye, il Bosforo, Beyoğlu e Kadıköy.",
     // GUIDA-START
     luoghi: [
       {
@@ -378,6 +380,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Scegliere l\'operatore solo in base al prezzo: contano la licenza e il numero di passeggeri per cesta',
       'Visitare il museo all\'aperto a mezzogiorno, quando arrivano tutti i gruppi',
     ],
+    miaEsperienza:
+      "Ci sono arrivato in volo da Istanbul durante i sedici giorni in Turchia con amici: tre giorni con base a Göreme, la mongolfiera all'alba, il museo all'aperto, la Valle Rossa, Uçhisar e la città sotterranea, poi il bus notturno per Pamukkale.",
     // GUIDA-START
     luoghi: [
       {
@@ -677,6 +681,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Salire a mezzogiorno d\'estate: il riflesso del bianco è accecante',
       'Aspettarsi tutte le vasche piene: molte vengono lasciate asciutte a rotazione per preservare il travertino',
     ],
+    miaEsperienza:
+      "Ci sono arrivato con il bus notturno dalla Cappadocia durante i sedici giorni in Turchia con amici: un giorno tra le terrazze e Hierapolis, poi in auto verso Afrodisia ed Efeso.",
     // GUIDA-START
     luoghi: [
       {
@@ -923,6 +929,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Entrare a metà mattina in alta stagione, quando arrivano i passeggeri delle navi da crociera di Kuşadası',
       'Saltare le case a terrazza per risparmiare: sono la parte più bella del sito',
     ],
+    miaEsperienza:
+      "Ci sono stato durante i sedici giorni in Turchia con amici, in auto da Pamukkale con una sosta ad Afrodisia: base a Selçuk, poi Efeso e Şirince.",
     // GUIDA-START
     luoghi: [
       {
@@ -1199,6 +1207,8 @@ export const destinazioniTurchia: Destinazione[] = [
       'Girare la costa senza auto: fra un paese e l\'altro i dolmuş ci sono, ma le calette migliori restano fuori',
       'Andarci ad agosto senza prenotare: Kaş e Ölüdeniz si riempiono',
     ],
+    miaEsperienza:
+      "Ci sono stato in auto con amici nella parte finale dei sedici giorni in Turchia: Fethiye, Ölüdeniz e Kayaköy, poi Saklıkent e Patara fino a Kaş e una giornata in barca a Kekova.",
     // GUIDA-START
     luoghi: [
       {
@@ -1309,6 +1319,8 @@ export const destinazioniTurchia: Destinazione[] = [
     periodoMigliore: 'da aprile a novembre',
     costi: 'Museo archeologico e Aspendos intorno ai 15-20 € ciascuno (indicativi).',
     erroriDaEvitare: ['Restituire l\'auto a noleggio in un\'altra città senza aver controllato la tassa di sola andata'],
+    miaEsperienza:
+      "È stata l'ultima tappa dei miei sedici giorni in Turchia con amici: ci sono arrivato in auto da Kaş, una notte a Kaleiçi e da qui il volo di rientro.",
     // GUIDA-START
     luoghi: [
       {

@@ -87,6 +87,8 @@ Il pomeriggio si risale la **Niagara Parkway**, la strada panoramica lungo il fi
 - Niagara Falls-Niagara-on-the-Lake: circa 25 km lungo la Niagara Parkway
 
 ### Giorno 5 — Le Mille Isole
+*Questa tappa non l'ho fatta io: è un'estensione possibile del giro, scritta con le informazioni pratiche.*
+
 È la tappa di trasferimento più lunga: circa quattro ore verso est, lungo il lago Ontario, fino a **Gananoque**, la porta delle **Mille Isole**. Qui il San Lorenzo esce dal lago e si spezza in quasi duemila isole e isolotti, molti con una sola casa sopra. Le crociere partono da Gananoque e da Rockport e durano da una a tre ore. Chi preferisce guidare può percorrere la **Thousand Islands Parkway**, la strada panoramica sul fiume.
 
 Conviene partire presto per arrivare a Gananoque entro l'ora di pranzo e prendere una crociera del primo pomeriggio, quando la luce sul fiume è più bella. Le uscite più brevi girano tra le isole canadesi davanti al paese; quelle più lunghe arrivano fino a **Heart Island**, l'isola del **Boldt Castle**, il castello che un albergatore di New York fece costruire per la moglie e lasciò incompiuto quando lei morì. Dopo la crociera si prosegue verso est sulla Parkway, che ha accanto una pista ciclabile di una quarantina di chilometri, con soste nei belvedere e nelle piccole spiagge sul fiume. *Per dormire, Gananoque ha motel e B&B semplici; Kingston, mezz'ora più in là, offre più scelta.*
@@ -122,6 +124,8 @@ Il giorno va organizzato intorno alle visite del Parlamento, che hanno orari fis
 - National Gallery e Canadian Museum of History: ingresso a pagamento, orari ridotti in bassa stagione, verificare i giorni di chiusura
 
 ### Giorno 8 — Mont-Tremblant e le Laurentides
+*Questa tappa non l'ho fatta io: è un'estensione possibile del giro, scritta con le informazioni pratiche.*
+
 Da Ottawa si entra nelle **Laurentides**, colline di boschi e laghi a nord di Montréal. **Mont-Tremblant** è una stazione sciistica con un villaggio pedonale di case colorate ai piedi della montagna; d'estate e in autunno la cabinovia porta in vetta per il panorama sui laghi. Poco più a nord c'è il **Parc national du Mont-Tremblant**, con sentieri e canoa, a ingresso a pagamento.
 
 Il villaggio pedonale si gira in un'ora, tra case dai tetti colorati, negozi e terrazze; la cabinovia panoramica sale in pochi minuti alla cima, dove partono sentieri segnalati e c'è un ristorante. Il pomeriggio è meglio passarlo nel parco nazionale: il settore de la Diable, una ventina di minuti più a nord, ha la cascata **Chute du Diable**, sentieri brevi tra i laghi e noleggio di canoe e kayak. *Le Laurentides danno il meglio tra fine settembre e inizio ottobre, quando gli aceri diventano rossi: sono anche le settimane più care e più affollate.* Chi ama la bici trova poco più a sud il **P'tit Train du Nord**, la ciclabile ricavata su una vecchia ferrovia.
@@ -179,6 +183,8 @@ Alle cascate conviene arrivare al mattino, prima dei pullman. La scala panoramic
 - Cittadella: visite guidate a pagamento e, d'estate, cambio della guardia al mattino
 
 ### Giorno 13 — Charlevoix: Baie-Saint-Paul e la strada sul fiume
+*Questa tappa non l'ho fatta io: è un'estensione possibile del giro, scritta con le informazioni pratiche.*
+
 Si scende lungo la costa nord del San Lorenzo verso **Charlevoix**, una regione di colline che cadono sul fiume, riserva della biosfera UNESCO. **Baie-Saint-Paul** è un paese di gallerie d'arte e caseifici; da qui la **strada 362** corre in alto sul fiume fino a **La Malbaie**, con i belvedere sulle anse. La sera si arriva a **Baie-Sainte-Catherine** e si prende il traghetto per **Tadoussac**.
 
 Baie-Saint-Paul si gira a piedi in un'ora: la via principale, rue Saint-Jean-Baptiste, è piena di gallerie e di botteghe, e ci sono un museo d'arte contemporanea e la **Laiterie Charlevoix**, il caseificio che fa visitare la produzione. La 362, chiamata anche Route du Fleuve, passa per Les Éboulements, con una vista larghissima sull'**Isle-aux-Coudres**, che si raggiunge con un traghetto gratuito da Saint-Joseph-de-la-Rive. A La Malbaie c'è il grande albergo storico del **Manoir Richelieu**, sul fiume. *Chi ha un giorno in più può deviare verso l'interno, al Parc national des Hautes-Gorges-de-la-Rivière-Malbaie, con pareti di roccia tra le più alte a est delle Montagne Rocciose.*

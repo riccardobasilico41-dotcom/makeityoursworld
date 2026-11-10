@@ -25,5 +25,7 @@ export type Consiglio = {
   imageAlt: Record<Lingua, string>
   /** Slug dei viaggi collegati (mostrati come card in fondo). */
   viaggi: string[]
+  /** Destinazione a cui appartiene la guida («thailandia/bangkok»): la guida compare anche nella sua pagina. */
+  destinazione?: string
   testi: Record<Lingua, TestoConsiglio>
 }

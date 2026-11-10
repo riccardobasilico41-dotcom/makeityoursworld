@@ -903,6 +903,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Aceptar el cannabis que alguien ofrece por la calle: Marruecos tiene tolerancia cero con las drogas, con cárcel y multas elevadas',
       'Llegar solo para una tarde: la medina luce a primera hora y por la noche, cuando los grupos de excursión ya se han ido',
     ],
+    miaEsperienza:
+      "Estuve en mi ruta de once días por el norte de Marruecos, todo por carretera: llegando desde Tánger, dos días entre la medina, Ras el-Ma y la Mezquita española, y luego hacia Fez.",
     // GUIDA-START
     luoghi: [
       {
@@ -1122,6 +1124,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Seguir a quien se ofrece como guía por la calle: los guías oficiales llevan acreditación',
       'Reservar un riad sin preguntar dónde deja el taxi: en la medina no entran los coches',
     ],
+    miaEsperienza:
+      "Estuve en la ruta de once días por el norte de Marruecos, llegando desde Chefchaouen: tres días, primero Fez el-Bali con las madrasas, las curtidurías y los zocos, y luego Fez Jdid, el Mellah y la medina desde arriba.",
     // GUIDA-START
     luoghi: [
       {
@@ -1401,6 +1405,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Ir a Volubilis en las horas centrales del verano: el yacimiento casi no tiene sombra',
       'Llamar caballerizas al Heri es-Souani: era un granero, como explican las fuentes históricas',
     ],
+    miaEsperienza:
+      "Pasé por allí en la ruta por carretera del norte de Marruecos: Volubilis y Moulay Idriss por el camino desde Fez, una noche en Mequinez y a la mañana siguiente la ciudad de Mulay Ismail, antes de seguir en coche hacia Rabat.",
     // GUIDA-START
     luoghi: [
       {
@@ -1522,6 +1528,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Presentarse en la Mezquita Hassan II con pantalón corto o sin mangas: no se entra',
       'Ir a la Mezquita Hassan II sin mirar los turnos: el viernes hay menos',
     ],
+    miaEsperienza:
+      "Fue la última etapa de mi ruta por el norte de Marruecos: un día entre la Kasba de los Udayas, la Torre Hassan y el Chellah, y luego hacia Casablanca para la Mezquita Hassan II y el vuelo de vuelta.",
     // GUIDA-START
     luoghi: [
       {

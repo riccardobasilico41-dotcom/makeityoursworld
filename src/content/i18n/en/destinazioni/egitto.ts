@@ -41,6 +41,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Accepting the “free guide” who offers himself on the street or “my brother's papyrus shop”",
       "Taking a taxi without a meter without agreeing on the price: better to use Uber or Careem",
     ],
+    miaEsperienza:
+      "I went with friends at the start of our three-week trip around Egypt: after the pyramid days, a day between Islamic Cairo, Coptic Cairo and the Egyptian Museum, then the road towards Alexandria and Siwa.",
     // GUIDA-START
     luoghi: [
       {
@@ -393,6 +395,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Getting on a camel without agreeing on the total price, the duration and what it includes: the price doubles to get down",
       "Buying the ticket for the inside of Khufu expecting to see decorations: the chambers are bare, the interest is in the corridor and the Grand Gallery",
     ],
+    miaEsperienza:
+      "I went with friends in the first days of our three-week trip around Egypt, based in Giza: the Giza pyramids and the Grand Egyptian Museum, then a day with a car and driver between Saqqara, Dahshur and Memphis.",
     // GUIDA-START
     luoghi: [
       {
@@ -731,6 +735,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Taking photos in the tombs without the photo permit if one is required: the guards make you pay the “fine” in cash",
       "Choosing the balloon on the lowest price alone: the company matters, and flights are canceled when it's windy",
     ],
+    miaEsperienza:
+      "I arrived with friends on the Nile cruise from Aswan, during our three-week trip around Egypt: Karnak and Luxor Temple, the Valley of the Kings and Hatshepsut on the west bank, and the hot-air balloon at dawn.",
     // GUIDA-START
     luoghi: [
       {
@@ -1071,6 +1077,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Doing Abu Simbel in a day in summer without accounting for the 3-4 am wake-up and seven hours of driving round trip",
       "Getting on a felucca without agreeing on whether the price is per person or per boat, and for how long",
     ],
+    miaEsperienza:
+      "I went with friends during our three-week trip around Egypt, flying in from Cairo: the felucca at sunset, Abu Simbel at dawn and Philae, then boarding the Nile cruise to Luxor.",
     // GUIDA-START
     luoghi: [
       {
@@ -1390,6 +1398,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Going into the desert with someone who doesn't have the permits: the areas toward the Libyan border are controlled by the army",
       "Wearing skimpy clothes in town: Siwa is a conservative community, and even at the lake or the springs people swim covered",
     ],
+    miaEsperienza:
+      "I got there with friends by car from Cairo via Alexandria and Marsa Matruh, during our three-week trip around Egypt: the Oracle, the Mountain of the Dead, Cleopatra's Spring, the salt lakes and the Great Sand Sea by 4x4.",
     // GUIDA-START
     luoghi: [
       {
@@ -1497,6 +1507,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Touching or walking on coral and buying shells or corals: it's forbidden and exports are confiscated at the airport",
       "Booking a liveaboard in the south without the certification and number of dives required (usually Advanced and at least 50 dives)",
     ],
+    miaEsperienza:
+      "It was the end of our three-week trip around Egypt: by car from Luxor to Marsa Alam, and the last days diving at Abu Dabbab and on the reefs around it.",
     // GUIDA-START
     luoghi: [
       {

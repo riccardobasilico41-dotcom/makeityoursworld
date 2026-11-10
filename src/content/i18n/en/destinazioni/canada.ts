@@ -11,6 +11,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['city', 'food'],
     giorniConsigliati: '2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Toronto was the starting point of my eastern Canada trip by pick-up: two days between the CN Tower, the lake and the markets, then on to Niagara.",
     introduzione: "Canada's largest city, on Lake Ontario, with the CN Tower and neighborhoods from every origin.",
     percheAndarci: "For the CN Tower, the markets, the Distillery District and the skyline view from the Toronto Islands; it's also the natural starting point for Niagara.",
     cosaVedere: [
@@ -465,7 +467,7 @@ export const destinazioniCanada: Destinazione[] = [
     nome: 'Thousand Islands and Kingston',
     tipologia: ['river', 'nature', 'history'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione: "The stretch of the St. Lawrence where the river leaves Lake Ontario and breaks up into almost two thousand islands, with Kingston and its fortress.",
     percheAndarci: "For a cruise among the islands from Gananoque and for Fort Henry and Kingston's limestone downtown.",
     cosaVedere: ['The Thousand Islands by boat', 'The Thousand Islands Parkway', 'Fort Henry', "Kingston's historic center"],
@@ -536,6 +538,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['city', 'history', 'museums'],
     giorniConsigliati: '1-2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went on the eastern Canada trip by pick-up, by way of Kingston: Parliament, the Rideau Canal and the museums.",
     introduzione: "The federal capital, small and walkable, on the river that separates Ontario from Québec.",
     percheAndarci: 'For Parliament Hill, the locks of the Rideau Canal (a UNESCO site), the ByWard Market and the great national museums.',
     cosaVedere: [
@@ -629,7 +633,7 @@ export const destinazioniCanada: Destinazione[] = [
     nome: 'Mont-Tremblant',
     tipologia: ['mountains', 'nature', 'lakes'],
     giorniConsigliati: '1 day',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione: 'The mountain resort of the Laurentians, with a pedestrian village of colorful houses and a large national park of lakes and forests.',
     percheAndarci: "For the gondola to the summit, the trails and canoeing in Parc national du Mont-Tremblant and the colors of autumn.",
     cosaVedere: ['The pedestrian village', 'The summit by gondola', 'Parc national du Mont-Tremblant'],
@@ -703,6 +707,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['city', 'food', 'culture'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Montréal was a stop on my eastern Canada trip by pick-up: the old town, Notre-Dame Basilica, Mont Royal and the Plateau.",
     introduzione: "North America's great French-speaking city, on an island in the St. Lawrence, between the old town and the hill of Mont Royal.",
     percheAndarci: 'For Vieux-Montréal, Notre-Dame Basilica, the Mont Royal lookout, the Plateau and Mile End neighborhoods and the food.',
     cosaVedere: [
@@ -959,6 +965,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['city', 'history', 'waterfalls'],
     giorniConsigliati: '2 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went on the eastern Canada trip by pick-up: the old town, Montmorency Falls and Île d'Orléans.",
     introduzione: "The provincial capital, with the fortified old town above the St. Lawrence, a UNESCO site.",
     percheAndarci: "For Old Québec, the Château Frontenac and the Terrasse Dufferin, the Petit-Champlain and, a quarter of an hour away, Montmorency Falls and the Île d'Orléans.",
     cosaVedere: [
@@ -1192,7 +1200,7 @@ export const destinazioniCanada: Destinazione[] = [
     nome: 'Charlevoix and Tadoussac',
     tipologia: ['nature', 'whales', 'fjord'],
     giorniConsigliati: '2-3 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione: 'The north shore of the St. Lawrence, from the hills of Charlevoix to Tadoussac, at the mouth of the Saguenay fjord.',
     percheAndarci: 'For the scenic road between Baie-Saint-Paul and La Malbaie and for the whale and beluga cruises from Tadoussac.',
     cosaVedere: ['Baie-Saint-Paul', 'Route 362 between Baie-Saint-Paul and La Malbaie', 'The Saguenay fjord', 'The Cap-de-Bon-Désir lookout'],

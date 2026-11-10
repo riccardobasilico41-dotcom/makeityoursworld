@@ -9,6 +9,8 @@ export const destinazioniPolonia: Destinazione[] = [
     tipologia: ['città', 'storia', 'arte'],
     giorniConsigliati: '3-4 days, including the day trips to Auschwitz-Birkenau and the Wieliczka Salt Mine',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went with friends for a long weekend, three nights, all on foot and by public transport: Rynek Główny and Wawel, Kazimierz and Podgórze, and on the last day the Wieliczka Salt Mine.",
     introduzione:
       "Poland's capital until 1596 and the only major city in the country to come out of World War II almost intact: the historic center, a UNESCO site since 1978 (on the very first list ever compiled), preserves its medieval layout, with Rynek Główny, one of the largest market squares in Europe, Wawel Castle hill and, a little to the south, Kazimierz, the former Jewish quarter now among the liveliest in the city.",
     percheAndarci:
@@ -334,6 +336,8 @@ export const destinazioniPolonia: Destinazione[] = [
     tipologia: ['memoria', 'storia'],
     giorniConsigliati: 'half a day, as a trip from Krakow',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the weekend in Krakow with friends: a whole day set aside just for this, with no other plans. We got back to Krakow in the late afternoon.",
     introduzione:
       "The former German Nazi concentration and extermination camp, in operation from 1940 to 1945 near the Polish town of Oświęcim, west of Krakow. It consists of two separate sites linked by a shuttle service: Auschwitz I, the original camp and today home to the main museum, and Auschwitz II-Birkenau, the larger extermination camp built from 1941 a short distance away. Since 1947 the site has been a Polish state museum, and since 1979 a UNESCO World Heritage Site.",
     percheAndarci:

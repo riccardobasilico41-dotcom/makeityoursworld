@@ -42,6 +42,8 @@ export const destinazioniInghilterra: Destinazione[] = [
       'Buying single Tube tickets: with a contactless card you pay less',
       'Cramming too much into one day: distances between neighbourhoods are large',
     ],
+    miaEsperienza:
+      "London is home for me too: I went to university in Surrey and lived there for a year, working in the centre.",
     // GUIDA-START
     luoghi: [
       {
@@ -383,6 +385,8 @@ export const destinazioniInghilterra: Destinazione[] = [
       'Reaching Bibury and Bourton-on-the-Water in the middle of the day, when the coaches arrive',
       'Trying to see every village in one day: two or three a day, with a walk, are more rewarding',
     ],
+    miaEsperienza:
+      "I went with a car picked up in Oxford: two days between Bibury, Bourton-on-the-Water, the Slaughters, Chipping Campden and Castle Combe. Driving on the left is fine for me, but it takes some practice, let's say, and in the countryside the roads can get narrow now and then.",
     // GUIDA-START
     luoghi: [
       {
@@ -638,6 +642,8 @@ export const destinazioniInghilterra: Destinazione[] = [
     tipologia: ['città', 'cultura', 'università'],
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I came by train from Paddington, after the days in London: a walk around the city of colleges, then I picked up the car and headed into the Cotswolds.",
     introduzione:
       'The oldest university city in the English-speaking world, with its pale stone colleges, libraries and quadrangles. It lies between London and the Cotswolds, on the same railway line.',
     percheAndarci: "For the colleges, the Radcliffe Camera and the Bodleian, in a day on foot. It's also the most convenient place to pick up the car for the Cotswolds.",
@@ -670,6 +676,8 @@ export const destinazioniInghilterra: Destinazione[] = [
       'Roman Baths from £23.50 online (about €27), Thermae Bath Spa from £44 (about €51), No. 1 Royal Crescent £16 (about €18), 2026 prices. The centre is easy on foot. Indicative daily budget per person, sharing a double: low €90-120, mid €170-240, high over €350.',
     comeSpostarsi: 'On foot.',
     erroriDaEvitare: ['Arriving at the Roman Baths in the middle of the day without a ticket: it is better to book it online on the official website'],
+    miaEsperienza:
+      "It was the last stop of the trip after the Cotswolds: I got there from Castle Combe, saw the city with the Roman Baths and then took the train back to London.",
     // GUIDA-START
     luoghi: [
       {

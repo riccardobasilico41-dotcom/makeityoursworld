@@ -906,6 +906,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Accettare la cannabis che qualcuno offre per strada: il Marocco ha tolleranza zero sulle droghe, con carcere e multe pesanti',
       'Arrivare solo per un pomeriggio: la medina è bella la mattina presto e la sera, quando i gruppi in giornata sono ripartiti',
     ],
+    miaEsperienza:
+      "Ci sono stato nel mio giro di undici giorni nel Marocco del nord, tutto su strada: arrivato da Tangeri, due giorni tra la medina, Ras el-Ma e la Moschea spagnola, poi giù verso Fès.",
     // GUIDA-START
     luoghi: [
       {
@@ -1125,6 +1127,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Seguire chi si offre come guida per strada: le guide ufficiali hanno un tesserino',
       'Prenotare un riad senza chiedere dove lascia il taxi: nella medina le auto non entrano',
     ],
+    miaEsperienza:
+      "Ci sono stato nel giro di undici giorni nel Marocco del nord, arrivando da Chefchaouen: tre giorni, prima Fès el-Bali con le madrase, le concerie e i souk, poi Fès Jdid, il Mellah e la medina vista dall'alto.",
     // GUIDA-START
     luoghi: [
       {
@@ -1404,6 +1408,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Andare a Volubilis nelle ore centrali d\'estate: il sito è quasi senza ombra',
       'Chiamare scuderie l\'Heri es-Souani: era un granaio, come spiegano le fonti storiche',
     ],
+    miaEsperienza:
+      "Ci sono passato nel giro su strada del Marocco del nord: Volubilis e Moulay Idriss lungo la strada da Fès, una notte a Meknès e la mattina dopo la città di Moulay Ismail, prima di ripartire in auto per Rabat.",
     // GUIDA-START
     luoghi: [
       {
@@ -1525,6 +1531,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Arrivare alla Moschea Hassan II in pantaloncini o senza maniche: non si entra',
       'Andare alla Moschea Hassan II senza controllare i turni: il venerdì sono meno',
     ],
+    miaEsperienza:
+      "È stata l'ultima tappa del mio giro nel Marocco del nord: un giorno tra la Kasbah degli Oudaya, la Torre Hassan e lo Chellah, poi verso Casablanca per la Moschea Hassan II e il volo di rientro.",
     // GUIDA-START
     luoghi: [
       {

@@ -46,6 +46,8 @@ export const destinazioniEgitto: Destinazione[] = [
       'Accettare la «guida gratuita» che si offre per strada o il «negozio di papiri di mio fratello»',
       'Prendere un taxi senza tassametro senza concordare il prezzo: meglio Uber o Careem',
     ],
+    miaEsperienza:
+      "Ci sono stato con amici all'inizio del nostro giro di tre settimane in Egitto: dopo i giorni delle piramidi, un giorno tra il Cairo islamico, il Cairo copto e il Museo Egizio, poi la strada verso Alessandria e Siwa.",
     // GUIDA-START
     luoghi: [
       {
@@ -398,6 +400,8 @@ export const destinazioniEgitto: Destinazione[] = [
       'Salire su un cammello senza aver concordato prezzo totale, durata e cosa include: la cifra raddoppia per scendere',
       'Comprare il biglietto per l\'interno di Cheope pensando di vedere decorazioni: le camere sono spoglie, l\'interesse è nel corridoio e nella Grande Galleria',
     ],
+    miaEsperienza:
+      "Ci sono stato con amici nei primi giorni del nostro giro di tre settimane in Egitto, con base a Giza: le piramidi di Giza e il Grand Egyptian Museum, poi un giorno in auto con autista tra Saqqara, Dahshur e Menfi.",
     // GUIDA-START
     luoghi: [
       {
@@ -736,6 +740,8 @@ export const destinazioniEgitto: Destinazione[] = [
       'Scattare foto nelle tombe senza il permesso fotografico se richiesto: i guardiani fanno pagare la «multa» in contanti',
       'Scegliere la mongolfiera solo sul prezzo più basso: conta la compagnia, e i voli si annullano col vento',
     ],
+    miaEsperienza:
+      "Ci sono arrivato con amici in crociera sul Nilo da Assuan, durante il nostro giro di tre settimane in Egitto: Karnak e il tempio di Luxor, la Valle dei Re e Hatshepsut sulla riva ovest, e la mongolfiera all'alba.",
     // GUIDA-START
     luoghi: [
       {
@@ -1076,6 +1082,8 @@ export const destinazioniEgitto: Destinazione[] = [
       'Fare Abu Simbel in giornata d\'estate senza mettere in conto la sveglia alle 3-4 e sette ore di strada andata e ritorno',
       'Salire in feluca senza concordare se il prezzo è a persona o a barca, e per quanto tempo',
     ],
+    miaEsperienza:
+      "Ci sono stato con amici durante il nostro giro di tre settimane in Egitto, arrivando in volo dal Cairo: la feluca al tramonto, Abu Simbel all'alba e Philae, poi l'imbarco sulla crociera del Nilo verso Luxor.",
     // GUIDA-START
     luoghi: [
       {
@@ -1395,6 +1403,8 @@ export const destinazioniEgitto: Destinazione[] = [
       'Andare nel deserto con chi non ha i permessi: le zone verso il confine libico sono controllate dall\'esercito',
       'Indossare abiti succinti in paese: Siwa è una comunità conservatrice, e anche al lago o alle sorgenti si fa il bagno coperti',
     ],
+    miaEsperienza:
+      "Ci sono arrivato con amici in auto dal Cairo passando per Alessandria e Marsa Matruh, durante il nostro giro di tre settimane in Egitto: l'Oracolo, la montagna dei morti, la sorgente di Cleopatra, i laghi salati e il Grande Mare di Sabbia in fuoristrada.",
     // GUIDA-START
     luoghi: [
       {
@@ -1502,6 +1512,8 @@ export const destinazioniEgitto: Destinazione[] = [
       'Toccare o camminare sul corallo e comprare conchiglie o coralli: è vietato e l\'export si sequestra in aeroporto',
       'Prenotare un liveaboard nel sud senza il brevetto e il numero di immersioni richiesti (di solito Advanced e almeno 50 immersioni)',
     ],
+    miaEsperienza:
+      "È stata la chiusura del nostro giro di tre settimane in Egitto: da Luxor in auto fino a Marsa Alam, e gli ultimi giorni con le immersioni ad Abu Dabbab e sui reef della zona.",
     // GUIDA-START
     luoghi: [
       {

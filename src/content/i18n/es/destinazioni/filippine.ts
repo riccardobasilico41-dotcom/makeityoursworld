@@ -9,6 +9,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['mare', 'island hopping', 'lagune'],
     giorniConsigliati: '3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "El Nido fue la primera etapa de mi viaje a Filipinas: van desde Puerto Princesa y luego las lagunas del Tour A, el Tour C y la playa de Nacpan.",
     introduzione:
       'En el norte de Palawan, una bahía cerrada por acantilados de caliza negra y el archipiélago de Bacuit, con lagunas interiores, playas y cuevas a las que solo se llega en barca.',
     percheAndarci: 'Por las lagunas de Miniloc, las islas de Bacuit y playas como Nacpan, entre los paisajes marinos más famosos de Asia.',
@@ -157,6 +159,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['mare', 'relitti', 'laghi'],
     giorniConsigliati: '3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegué en ferry desde El Nido durante el viaje a Filipinas: el lago Kayangan, el Barracuda, las Twin Lagoon y un día entre pecios e islas de arena.",
     introduzione:
       'La isla de Coron y la de Busuanga, al norte de Palawan: lagos de agua dulce entre rocas calizas, islotes de arena blanca y una bahía llena de pecios japoneses de 1944.',
     percheAndarci: 'Por el lago Kayangan y el Barracuda, las Twin Lagoon y las inmersiones en los pecios de la Segunda Guerra Mundial.',
@@ -297,6 +301,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['mare', 'immersioni', 'canyoning'],
     giorniConsigliati: '3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve en Moalboal durante el viaje a Filipinas, con base en Panagsama Beach, entre las sardinas y las tortugas. Para el barranquismo de Kawasan salimos temprano por la mañana, para evitar la multitud.",
     introduzione:
       'La costa suroccidental de la isla de Cebú, con el arrecife de Panagsama Beach en Moalboal, las cascadas de Kawasan en Badian y la ciudad de Cebú como nudo de vuelos.',
     percheAndarci:
@@ -430,6 +436,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['paesaggio', 'mare', 'natura'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante el viaje a Filipinas, con base en Panglao: las Chocolate Hills, los tarseros y el río Loboc, y luego Balicasag y Virgin Island en barco.",
     introduzione:
       'Una isla de las Visayas centrales con las colinas cónicas de las Chocolate Hills, los társidos en el bosque y la isla de Panglao, unida por un puente, con las playas y los arrecifes de Balicasag.',
     percheAndarci: 'Por las Chocolate Hills, el társero de Filipinas, el río Loboc y el snorkel en Balicasag.',
@@ -549,6 +557,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['surf', 'mare', 'isole'],
     giorniConsigliati: '3-4 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Siargao fue la última etapa de mi viaje a Filipinas, en General Luna: el island hopping entre Naked, Daku y Guyam, la laguna de Sugba, Magpupungko y el surf.",
     introduzione:
       'Una isla con forma de lágrima asomada al océano Pacífico, frente al noreste de Mindanao: palmerales, lagunas, islotes de arena y la ola de Cloud 9.',
     percheAndarci: 'Por el surf, el island hopping entre Naked, Daku y Guyam, la laguna de Sugba y el ambiente relajado de isla de surfistas.',

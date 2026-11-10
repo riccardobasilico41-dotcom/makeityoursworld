@@ -1573,6 +1573,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['isole', 'nightlife'],
     giorniConsigliati: "según cuántas islas se quieran combinar",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "El Golfo, entre Koh Samui, Koh Phangan y Koh Tao, también lo hice, fuera de la ruta principal de 11 días entre Bangkok y el mar de Andamán.",
     introduzione: "Las tres islas del golfo de Tailandia, con estaciones desfasadas respecto al mar de Andamán: Koh Samui la más cómoda, Koh Phangan conocida por el Full Moon Party, Koh Tao el paraíso de los buceadores.",
     percheAndarci: "Son una alternativa cuando en Andamán es la estación de lluvias, o se va por el Full Moon Party de Koh Phangan.",
     cosaVedere: ["Las playas de Koh Samui", "Thong Nai Pan, el lado tranquilo de Koh Phangan"],
@@ -1651,6 +1653,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['cultura', 'templi', 'arte'],
     giorniConsigliati: '2 días, más uno para el Triángulo de Oro',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve en la ruta por el norte de Tailandia: autobús desde Chiang Mai, el Templo Blanco, el Templo Azul y Baan Dam, y desde aquí el vuelo a Bangkok.",
     introduzione: 'La gran ciudad más al norte de Tailandia, conocida por tres lugares de artista: el Templo Blanco, el Templo Azul y la Casa Negra.',
     percheAndarci: 'Es la base para el Triángulo de Oro, y sus templos modernos no se parecen a nada de lo que se ve en el resto del país.',
     cosaVedere: [
@@ -1903,6 +1907,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['cultura', 'storia', 'fiume'],
     giorniConsigliati: '1 día, desde Chiang Rai',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Fui en una excursión de un día desde Chiang Rai, durante la ruta por el norte: Sop Ruak sobre el Mekong, el Hall of Opium y Chiang Saen.",
     introduzione: 'El punto donde el río Ruak desemboca en el Mekong, en la frontera entre Tailandia, Laos y Myanmar: desde los años cincuenta una de las grandes zonas productoras de opio del mundo.',
     percheAndarci: 'Por la historia más que por el paisaje: el Hall of Opium la cuenta bien, y Chiang Saen añade las ruinas de una ciudad antigua a orillas del Mekong.',
     cosaVedere: [
@@ -1962,6 +1968,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['montagna', 'natura', 'strada'],
     giorniConsigliati: '2 días en Pai; 4-5 para el loop completo',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante la ruta por el norte: minivan desde Chiang Mai, dos noches en Pai entre el cañón, el campo y las aguas termales, y luego otra vez a Chiang Mai.",
     introduzione: 'Un pueblo en un valle verde al noroeste de Chiang Mai, en la carretera de montaña que lleva a Mae Hong Son y a la frontera con Myanmar.',
     percheAndarci: 'Para unos días tranquilos entre cañones, arrozales y aguas termales, y para quien quiere seguir por las carreteras de montaña del noroeste.',
     cosaVedere: [

@@ -20,6 +20,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['città', 'cibo'],
     giorniConsigliati: '2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Toronto è stata la partenza del mio giro del Canada orientale in pick-up: due giorni tra la CN Tower, il lago e i mercati, poi verso il Niagara.",
     introduzione: 'La città più grande del Canada, sul lago Ontario, con la CN Tower e quartieri di tutte le provenienze.',
     percheAndarci: 'Per la CN Tower, i mercati, il Distillery District e la vista dello skyline dalle Toronto Islands; è anche il punto di partenza naturale per il Niagara.',
     cosaVedere: [
@@ -474,7 +476,7 @@ export const destinazioniCanada: Destinazione[] = [
     nome: 'Mille Isole e Kingston',
     tipologia: ['fiume', 'natura', 'storia'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione: 'Il tratto del San Lorenzo dove il fiume esce dal lago Ontario e si spezza in quasi duemila isole, con Kingston e la sua fortezza.',
     percheAndarci: 'Per una crociera tra le isole da Gananoque e per Fort Henry e il centro di pietra calcarea di Kingston.',
     cosaVedere: ['Le Mille Isole in battello', 'La Thousand Islands Parkway', 'Fort Henry', 'Il centro storico di Kingston'],
@@ -545,6 +547,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['città', 'storia', 'musei'],
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato nel giro del Canada orientale in pick-up, passando da Kingston: il Parlamento, il canale Rideau e i musei.",
     introduzione: 'La capitale federale, piccola e a misura di passeggiata, sul fiume che separa l\'Ontario dal Québec.',
     percheAndarci: 'Per la Parliament Hill, le chiuse del canale Rideau (patrimonio UNESCO), il ByWard Market e i grandi musei nazionali.',
     cosaVedere: [
@@ -638,7 +642,7 @@ export const destinazioniCanada: Destinazione[] = [
     nome: 'Mont-Tremblant',
     tipologia: ['montagna', 'natura', 'laghi'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione: 'La stazione di montagna delle Laurentides, con un villaggio pedonale di case colorate e un grande parco nazionale di laghi e boschi.',
     percheAndarci: 'Per la cabinovia in vetta, i sentieri e la canoa nel Parc national du Mont-Tremblant e i colori dell\'autunno.',
     cosaVedere: ['Il villaggio pedonale', 'La vetta in cabinovia', 'Il Parc national du Mont-Tremblant'],
@@ -712,6 +716,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['città', 'cibo', 'cultura'],
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Montréal è stata una tappa del mio giro del Canada orientale in pick-up: la città vecchia, la basilica di Notre-Dame, Mont Royal e il Plateau.",
     introduzione: 'La grande città francofona del Nord America, su un\'isola del San Lorenzo, tra la città vecchia e la collina del Mont Royal.',
     percheAndarci: 'Per il Vieux-Montréal, la basilica di Notre-Dame, il belvedere sul Mont Royal, i quartieri del Plateau e del Mile End e la cucina.',
     cosaVedere: [
@@ -968,6 +974,8 @@ export const destinazioniCanada: Destinazione[] = [
     tipologia: ['città', 'storia', 'cascate'],
     giorniConsigliati: '2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato nel giro del Canada orientale in pick-up: la città vecchia, le cascate di Montmorency e l'Île d'Orléans.",
     introduzione: 'La capitale della provincia, con la città vecchia fortificata sopra il San Lorenzo, patrimonio UNESCO.',
     percheAndarci: 'Per Vieux-Québec, lo Château Frontenac e la Terrasse Dufferin, il Petit-Champlain e, a un quarto d\'ora, le cascate di Montmorency e l\'Île d\'Orléans.',
     cosaVedere: [
@@ -1201,7 +1209,7 @@ export const destinazioniCanada: Destinazione[] = [
     nome: 'Charlevoix e Tadoussac',
     tipologia: ['natura', 'balene', 'fiordo'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione: 'La costa nord del San Lorenzo, dalle colline di Charlevoix fino a Tadoussac, alla foce del fiordo del Saguenay.',
     percheAndarci: 'Per la strada panoramica tra Baie-Saint-Paul e La Malbaie e per le crociere delle balene e dei beluga da Tadoussac.',
     cosaVedere: ['Baie-Saint-Paul', 'La strada 362 tra Baie-Saint-Paul e La Malbaie', 'Il fiordo del Saguenay', 'Il belvedere di Cap-de-Bon-Désir'],

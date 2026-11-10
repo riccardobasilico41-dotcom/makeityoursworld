@@ -903,6 +903,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Accepting cannabis offered on the street: Morocco has zero tolerance for drugs, with prison and heavy fines',
       'Arriving for just an afternoon: the medina is at its best early in the morning and in the evening, once the day-trip groups have left',
     ],
+    miaEsperienza:
+      "I went there on my eleven-day road trip through northern Morocco: coming from Tangier, two days between the medina, Ras el-Ma and the Spanish Mosque, then down towards Fès.",
     // GUIDA-START
     luoghi: [
       {
@@ -1122,6 +1124,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Following people who offer to guide you on the street: official guides carry a badge',
       "Booking a riad without asking where the taxi drops you: cars can't enter the medina",
     ],
+    miaEsperienza:
+      "I went there on the eleven-day trip through northern Morocco, coming from Chefchaouen: three days, first Fès el-Bali with the madrasas, the tanneries and the souks, then Fès Jdid, the Mellah and the medina from above.",
     // GUIDA-START
     luoghi: [
       {
@@ -1401,6 +1405,8 @@ export const destinazioniMarocco: Destinazione[] = [
       'Going to Volubilis in the middle of a summer day: the site has almost no shade',
       'Calling the Heri es-Souani stables: it was a granary, as the historical sources explain',
     ],
+    miaEsperienza:
+      "I passed through on the northern Morocco road trip: Volubilis and Moulay Idriss along the road from Fès, one night in Meknès and the next morning the city of Moulay Ismail, before driving on to Rabat.",
     // GUIDA-START
     luoghi: [
       {
@@ -1522,6 +1528,8 @@ export const destinazioniMarocco: Destinazione[] = [
       "Showing up at the Hassan II Mosque in shorts or sleeveless: you won't get in",
       'Going to the Hassan II Mosque without checking the tour times: there are fewer on Friday',
     ],
+    miaEsperienza:
+      "It was the last stop of my northern Morocco trip: a day between the Kasbah of the Udayas, the Hassan Tower and the Chellah, then on to Casablanca for the Hassan II Mosque and the flight home.",
     // GUIDA-START
     luoghi: [
       {

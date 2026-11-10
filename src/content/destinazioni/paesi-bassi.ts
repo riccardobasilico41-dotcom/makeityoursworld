@@ -17,6 +17,8 @@ export const destinazioniPaesiBassi: Destinazione[] = [
     tipologia: ['città', 'arte', 'storia'],
     giorniConsigliati: '3-4 giorni per il centro storico, l\'anello dei canali e i musei principali',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato con amici per quattro giorni, tre notti: l'anello dei canali e Jordaan, la Casa di Anna Frank, il Rijksmuseum e il Van Gogh Museum. L'ultimo giorno abbiamo noleggiato una bici e girato la città fermandoci dove capitava.",
     introduzione:
       'La capitale dei Paesi Bassi, costruita su una rete di canali concentrici scavati a partire dal Seicento, nell\'età dell\'oro olandese. Il Grachtengordel (l\'anello dei canali), con le tipiche case a schiera strette e alte affacciate sull\'acqua, è Patrimonio UNESCO dal 2010. È una città compatta, quasi piatta, da girare a piedi o, più spesso, in bicicletta.',
     percheAndarci:

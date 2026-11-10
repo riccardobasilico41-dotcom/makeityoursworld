@@ -9,6 +9,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['patrimonio UNESCO', 'mare', 'città storica'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "It was the first stop of my ten days in Montenegro with friends, in a rental car: three days based in Kotor, the old town and the walls up to the fortress, then Perast, Our Lady of the Rocks and the loop around the Bay.",
     introduzione:
       "A deep, branching bay closed in by mountains that drop straight into the water, with the Venetian towns of Kotor and Perast, ship captains' palaces and islets with churches and monasteries.",
     percheAndarci:
@@ -139,6 +141,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['montagna', 'parco nazionale', 'storia'],
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the ten days in Montenegro with friends: driving from Kotor up the Lovćen hairpins, Njeguši and the Njegoš mausoleum, with the night in Cetinje.",
     introduzione:
       "Montenegro's emblematic mountain, above the Bay of Kotor, with the mausoleum of the prince-bishop and poet Njegoš on the summit, and the old royal capital of Cetinje at its foot.",
     percheAndarci:
@@ -241,6 +245,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['mare', 'spiagge', 'vita notturna'],
     giorniConsigliati: '1-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through during the ten days in Montenegro with friends: a day driving from Cetinje along the coast, Budva and Sveti Stefan down to Petrovac.",
     introduzione:
       "Montenegro's central coast, with Budva's fortified old town, the islet-resort of Sveti Stefan and the bays down to Petrovac.",
     percheAndarci: 'For a few days by the sea, choosing the quieter bays south of Budva.',
@@ -342,6 +348,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['lago', 'parco nazionale', 'natura', 'vino'],
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the ten days in Montenegro with friends: a day on the lake between Virpazar, Pavlova Strana and Rijeka Crnojevića, before heading up towards Ostrog and Durmitor.",
     introduzione:
       "The largest lake in the Balkans, shared with Albania, a national park with about 270 bird species, water-lily channels, monasteries on islets and the vineyards of Crmnica.",
     percheAndarci: "For a boat ride among channels and fishing villages, the Pavlova Strana viewpoint and the lake's wines.",
@@ -435,6 +443,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['monastero', 'pellegrinaggio'],
     giorniConsigliati: 'half a day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I stopped there during the ten days in Montenegro with friends, on the road from Lake Skadar to Žabljak: a stop at the monastery, then on via Nikšić towards Durmitor.",
     introduzione:
       "Montenegro's most revered Orthodox monastery, white and wedged into a vertical rock face at about 2,950 feet (900 meters), with the relics of Saint Basil of Ostrog.",
     percheAndarci: 'For its position in the rock and for the pilgrimage, which draws the faithful of all denominations.',
@@ -509,6 +519,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     tipologia: ['patrimonio UNESCO', 'montagna', 'trekking', 'rafting'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went in the final part of the ten days in Montenegro with friends, based in Žabljak: the Black Lake, the panoramic road and Bobotov Kuk, then the Tara bridge and rafting before heading down to Podgorica.",
     introduzione:
       "A limestone massif with 48 peaks above 6,500 feet (2,000 meters) and eighteen glacial lakes around Žabljak, and the Tara canyon, up to 4,300 feet (1,300 meters) deep, among the deepest in Europe.",
     percheAndarci: 'For the Black Lake, the Durmitor panoramic road, the climb up Bobotov Kuk and rafting on the Tara.',

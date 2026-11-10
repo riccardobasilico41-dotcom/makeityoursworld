@@ -46,6 +46,8 @@ export const destinazioniInghilterra: Destinazione[] = [
       'Comprare biglietti singoli della metropolitana: con la carta contactless si paga meno',
       'Mettere troppe cose in un giorno: le distanze tra un quartiere e l\'altro sono grandi',
     ],
+    miaEsperienza:
+      "Anche Londra per me è casa: ci ho fatto l'università, nel Surrey, e ci ho vissuto un anno lavorando in centro.",
     // GUIDA-START
     luoghi: [
       {
@@ -387,6 +389,8 @@ export const destinazioniInghilterra: Destinazione[] = [
       'Arrivare a Bibury e Bourton-on-the-Water a metà giornata, quando arrivano i pullman',
       'Volere tutti i villaggi in un giorno: due o tre per giornata, con una camminata, rendono di più',
     ],
+    miaEsperienza:
+      "Ci sono stato con l'auto ritirata a Oxford: due giorni tra Bibury, Bourton-on-the-Water, le Slaughter, Chipping Campden e Castle Combe. La guida a sinistra per me è ok, ma bisogna allenarsi, diciamo, e in campagna ogni tanto le strade possono essere strette.",
     // GUIDA-START
     luoghi: [
       {
@@ -642,6 +646,8 @@ export const destinazioniInghilterra: Destinazione[] = [
     tipologia: ['città', 'cultura', 'università'],
     giorniConsigliati: '1 giorno',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono arrivato in treno da Paddington, dopo i giorni a Londra: il giro della città dei college, poi ho ritirato l'auto e sono entrato nelle Cotswolds.",
     introduzione:
       'La città universitaria più antica del mondo anglofono, con i college di pietra chiara, le biblioteche e i cortili. Sta tra Londra e le Cotswolds, e si ferma lungo la stessa linea ferroviaria.',
     percheAndarci: 'Per i college, la Radcliffe Camera e la Bodleian, in una giornata a piedi. È anche il posto più comodo per ritirare l\'auto per le Cotswolds.',
@@ -674,6 +680,8 @@ export const destinazioniInghilterra: Destinazione[] = [
       'Roman Baths da 23,50 sterline online (circa 27 €), Thermae Bath Spa da 44 sterline (circa 51 €), No. 1 Royal Crescent 16 sterline (circa 18 €), prezzi 2026. Il centro si gira a piedi. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 90-120 €, medio 170-240 €, alto oltre 350 €.',
     comeSpostarsi: 'A piedi.',
     erroriDaEvitare: ['Arrivare alle Roman Baths a metà giornata senza biglietto: conviene prenotarlo online sul sito ufficiale'],
+    miaEsperienza:
+      "È stata l'ultima tappa del giro dopo le Cotswolds: ci sono arrivato da Castle Combe, ho visto la città con le terme romane e poi ho preso il treno di rientro a Londra.",
     // GUIDA-START
     luoghi: [
       {

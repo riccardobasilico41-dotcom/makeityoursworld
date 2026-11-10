@@ -508,6 +508,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['natura', 'sakura'],
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went on 8 April, the third day of the sakura trip: we left Shinjuku early and climbed the 398 steps up to the Chureito Pagoda viewpoint. There the cherry trees were still in full bloom, while in Tokyo they were already fading. Then a loop of Lake Kawaguchiko and back to Tokyo in the evening.",
     introduzione: 'The most famous viewpoint in Japan: the red five-story pagoda in the foreground, Mount Fuji in the background.',
     percheAndarci: "For the symbol image of Japan and to catch the sakura you missed in Tokyo: the bloom at Chureito arrives about a week after the capital's.",
     cosaVedere: ['The Chureito Pagoda in Arakurayama Sengen Park, with Mount Fuji in the background', 'Lake Kawaguchiko'],
@@ -1798,6 +1800,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['villaggi storici', 'trekking'],
     giorniConsigliati: "1 day, better with a night in one of the two villages",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through on the Classic Japan rail trip: one night in Magome and the next day the walk along the Nakasendō to Tsumago, before heading on to Matsumoto.",
     introduzione: "Two Edo-period post towns in the Kiso valley, linked by 8 km of the old Nakasendō road through woods, waterfalls and a teahouse.",
     percheAndarci: "It's the best preserved stretch of the road that linked Kyoto and Edo through the mountains, and you walk it in half a day with your luggage shipped from one village to the other.",
     cosaVedere: ["The uphill village of Magome", "Tsumago, restored by its residents since 1968", "The Magome pass, at about 790 meters", "The teahouse halfway"],
@@ -1842,6 +1846,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['montagna', 'natura', 'castelli'],
     giorniConsigliati: "1-2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through on the Classic Japan trip: an evening in Matsumoto after the Nakasendō and the next day the bus to Kamikochi, before going down towards Takayama.",
     introduzione: "Matsumoto, with one of Japan's original castles, is the gateway to Kamikochi, a valley at about 1,500 meters in the Japanese Alps closed to private cars.",
     percheAndarci: "Kamikochi is the simplest way to see the Japanese Alps up close, on flat trails along the Azusa river with the Hotaka peaks in front of you.",
     cosaVedere: ["Matsumoto Castle", "Taisho Pond", "Kappa Bridge and the view of Hotaka", "The Myojin shrine and pond"],
@@ -1882,6 +1888,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['città storica', 'cibo', 'montagna'],
     giorniConsigliati: "1-2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through on the Classic Japan trip: one day in Takayama, between the morning markets and the streets of Sanmachi Suji, then the bus to Shirakawa-go.",
     introduzione: "A mountain town in the Hida region, with the wooden-house streets of Sanmachi, the morning markets and Hida beef.",
     percheAndarci: "It's the natural base for Shirakawa-go and Kamikochi, and has a historic center of merchants and sake breweries you can explore on foot.",
     cosaVedere: ["Sanmachi Suji, the streets of wooden houses", "Takayama Jinya, the old seat of local government", "The Hida Folk Village"],
@@ -2028,6 +2036,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['villaggi storici', 'UNESCO', 'montagna'],
     giorniConsigliati: "half a day, or a night in a gasshō house",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I visited on a day stop during the Classic Japan trip, on the Nohi bus between Takayama and Kanazawa.",
     introduzione: "The village of Ogimachi, a UNESCO World Heritage site since 1995, with its gasshō-zukuri houses and thatched roofs as steep as hands joined in prayer.",
     percheAndarci: "It's one of the most recognizable landscapes of mountain Japan, and is easy to visit by bus between Takayama and Kanazawa.",
     cosaVedere: ["The Shiroyama viewpoint", "The gasshō houses open to visitors, like the Wada house", "The suspension bridge over the Sho river"],
@@ -2062,6 +2072,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['città storica', 'giardini', 'cibo'],
     giorniConsigliati: "1-2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through on the Classic Japan trip: one day in Kanazawa, with Kenroku-en, before taking the train on to Kyoto.",
     introduzione: "The city on the Sea of Japan spared by the bombing, with Kenroku-en garden, the teahouse district and the samurai district.",
     percheAndarci: "It has much of the old Kyoto with fewer crowds, fish from Omicho market and the 21st Century Museum of contemporary art.",
     cosaVedere: ["Kenroku-en garden", "Kanazawa Castle", "Higashi Chaya, the teahouse district", "Nagamachi, the samurai district", "The 21st Century Museum"],
@@ -2105,6 +2117,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['religione', 'montagna', 'UNESCO'],
     giorniConsigliati: "1 night",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I passed through on the Classic Japan trip: from Osaka on the Nankai line, one night at a temple on the mountain and Okunoin the next morning, before going back to Osaka.",
     introduzione: "The sacred plateau of Shingon Buddhism, founded by Kūkai in the 9th century, with more than a hundred temples and the Okunoin cemetery among the cedars.",
     percheAndarci: "For a night in a temple, the shukubō, with the monks' dinner and the dawn prayer, and for Okunoin, the largest cemetery in Japan.",
     cosaVedere: ["Okunoin and Kūkai's mausoleum", "Kongobu-ji", "The Danjo Garan complex"],
@@ -2144,6 +2158,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'cultura ryukyu', 'natura'],
     giorniConsigliati: "4-5 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Naha was the base of my Okinawa trip: the first two days between Shuri and Makishi market, then, after the Keramas, the drive around the north between Motobu and Yanbaru.",
     introduzione: "Okinawa's main island: Naha and Shuri Castle, the Churaumi aquarium on the Motobu Peninsula and the Yanbaru forest in the north.",
     percheAndarci: "To understand the history of the Ryukyu Kingdom and of the 1945 battle, and to see a city, coral reef and subtropical forest in a few days.",
     cosaVedere: ["Shuri Castle", "Makishi Public Market", "The Peace Memorial Park in Itoman", "The Okinawa Churaumi Aquarium", "Kouri island and the village of Bise", "Nakijin Castle", "Yanbaru and Cape Hedo"],
@@ -2197,6 +2213,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'snorkeling', 'isole'],
     giorniConsigliati: "2 nights",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the Okinawa trip: ferry from Naha to Zamami and two nights on the island, before going back to the main island.",
     introduzione: "A small archipelago an hour by fast ferry from Naha, a national park, famous for a very clear sea they call Kerama blue here.",
     percheAndarci: "For snorkeling from the shore, the turtles of Ama beach and, in winter, the humpback whales.",
     cosaVedere: ["Furuzamami beach", "Ama beach", "The Zamami viewpoints at sunset", "Tokashiki, the largest island, with Aharen beach"],
@@ -2233,6 +2251,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'snorkeling', 'isole'],
     giorniConsigliati: "2-3 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the Okinawa trip: two days on Miyako, with the Irabu bridge, Shimoji and snorkelling, then the flight to Ishigaki.",
     introduzione: "A group of flat islands southwest of Okinawa, with the whitest beaches in the archipelago and the Irabu Bridge, 3,540 meters long.",
     percheAndarci: "For pure sea: long beaches, snorkeling from the shore, very clear water around Shimoji.",
     cosaVedere: ["The Irabu Bridge", "Yonaha Maehama", "The sea off Shimoji next to the runway (17END)", "Higashi-Hennazaki", "Sunayama beach"],
@@ -2267,6 +2287,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'giungla', 'isole', 'villaggi storici'],
     giorniConsigliati: "3-5 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "It was the last stop of my Okinawa trip: based on Ishigaki, with Kabira Bay and the ferry trips to Iriomote and Taketomi, and the flight home from here.",
     introduzione: "Ishigaki is the port of the Yaeyama Islands, the southwestern tip of Japan: from here you go to the jungle of Iriomote and the coral village of Taketomi.",
     percheAndarci: "To get mangroves and waterfalls, coral reef and a Ryukyu village that has stayed as it was, all in a few days.",
     cosaVedere: ["Kabira Bay", "The jungle and mangroves of Iriomote", "The village of Taketomi", "Kondoi beach on Taketomi"],
@@ -2305,6 +2327,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['città', 'cibo', 'inverno'],
     giorniConsigliati: "2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Sapporo was the gateway to my ski trip in Hokkaido: arrival from New Chitose and two days in the city before heading for the slopes.",
     introduzione: "Hokkaido's capital, the gateway to the island's ski resorts, with the Yuki Matsuri in February, miso ramen and the fish market.",
     percheAndarci: "It's the arrival and departure point of almost every ski trip to Hokkaido, and in early February it hosts the snow festival.",
     cosaVedere: ["Odori Park", "Susukino", "Nijo market", "The Sapporo beer museum", "Mount Moiwa"],
@@ -2347,6 +2371,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['sci', 'neve polverosa', 'onsen'],
     giorniConsigliati: "5-7 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Niseko was the base for the ski week in Hokkaido: the slopes of Hanazono, Grand Hirafu, Niseko Village and Annupuri, plus a day at Rusutsu.",
     introduzione: "Hokkaido's best-known ski resorts: the four of Niseko United on Mount Annupuri, the large Rusutsu resort and Kiroro, close to Sapporo and Otaru.",
     percheAndarci: "For the powder snow, the tree runs and logistics that are easy even if you don't speak Japanese.",
     cosaVedere: ["Grand Hirafu, Hanazono, Niseko Village and Annupuri", "Mount Yotei from the summit", "Rusutsu and its three mountains", "Kiroro"],
@@ -2398,6 +2424,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['sci', 'neve polverosa'],
     giorniConsigliati: "2-3 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Furano was the last stop of the ski trip in Hokkaido: the transfer from Niseko, a day on the slopes and then home.",
     introduzione: "A town in the center of Hokkaido with a ski resort whose snow is very light, thanks to the dry cold of the interior.",
     percheAndarci: "To ski somewhere less touristy than Niseko, with a real town around the slopes.",
     cosaVedere: ["The Furano slopes", "Asahidake, on the volcano, for guided off-piste skiing"],

@@ -5,7 +5,7 @@ import type { Destinazione } from '@/lib/types'
 // esplicita "da confermare/da completare" — nessun fatto inventato.
 // Uxmal e la Ruta Puuc, Palenque e Calakmul (ordine 30-32) sono state aggiunte per
 // "Yucatán completo" (src/content/viaggi/95-messico-yucatan-completo.md): Palenque e
-// Calakmul non visitate da Rick, nessun miaEsperienza; dati INAH/CONANP verificati il 5/11/2026.
+// Calakmul visitate da Rick nel giro completo (confermato l'11/11/2026); dati INAH/CONANP verificati il 5/11/2026.
 
 export const destinazioniMessico: Destinazione[] = [
   {
@@ -2431,6 +2431,7 @@ export const destinazioniMessico: Destinazione[] = [
     tripSlugs: ['messico-yucatan-completo'],
     imageAlt: "Il Tempio delle Iscrizioni di Palenque tra gli alberi della foresta del Chiapas",
     immagine: '/images/messico/palenque.webp',
+    miaEsperienza: 'Ci sono stato durante il giro completo dello Yucatán: da Campeche sono sceso fino a Palenque e ho dedicato un giorno intero al sito, nella foresta, prima di ripartire verso Xpujil.',
   },
   {
     slug: 'calakmul',
@@ -2537,5 +2538,6 @@ export const destinazioniMessico: Destinazione[] = [
     tripSlugs: ['messico-yucatan-completo'],
     imageAlt: "La Struttura I di Calakmul che spunta dalla foresta della riserva, vista dalla cima della Struttura II",
     immagine: '/images/messico/calakmul.webp',
+    miaEsperienza: 'Ci sono arrivato da Xpujil durante il giro completo dello Yucatán: una giornata intera nella Riserva della Biosfera, lungo la strada della riserva fino alle piramidi nella foresta.',
   },
 ]

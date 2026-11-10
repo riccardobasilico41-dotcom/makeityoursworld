@@ -9,6 +9,8 @@ export const destinazioniPolonia: Destinazione[] = [
     tipologia: ['città', 'storia', 'arte'],
     giorniConsigliati: "3-4 días, incluidas las excursiones a Auschwitz-Birkenau y a la Mina de sal de Wieliczka",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve con amigos un fin de semana largo, tres noches, todo a pie y en transporte público: Rynek Główny y el Wawel, Kazimierz y Podgórze, y el último día la Mina de sal de Wieliczka.",
     introduzione:
       "La capital polaca hasta 1596 y la única gran ciudad del país que salió casi intacta de la Segunda Guerra Mundial: el casco antiguo, patrimonio de la UNESCO desde 1978 (en la primera lista jamás compilada), conserva la estructura medieval con Rynek Główny, una de las plazas de mercado más grandes de Europa, la colina del castillo de Wawel y, un poco más al sur, Kazimierz, el antiguo barrio judío hoy entre los más vivos de la ciudad.",
     percheAndarci:
@@ -334,6 +336,8 @@ export const destinazioniPolonia: Destinazione[] = [
     tipologia: ['memoria', 'storia'],
     giorniConsigliati: "medio día, como excursión desde Cracovia",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante el fin de semana en Cracovia con amigos: un día entero dedicado solo a esto, sin otros planes. Volvimos a Cracovia a última hora de la tarde.",
     introduzione:
       "El antiguo campo de concentración y exterminio nazi alemán, en funcionamiento de 1940 a 1945 cerca de la ciudad polaca de Oświęcim, al oeste de Cracovia. Se compone de dos sitios distintos conectados por un servicio de lanzadera: Auschwitz I, el campo original y hoy sede del museo principal, y Auschwitz II-Birkenau, el campo de exterminio más extenso construido a partir de 1941 a poca distancia. Desde 1947 el sitio es un museo estatal polaco, desde 1979 Patrimonio de la Humanidad de la UNESCO.",
     percheAndarci:

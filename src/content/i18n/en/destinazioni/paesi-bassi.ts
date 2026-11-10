@@ -9,6 +9,8 @@ export const destinazioniPaesiBassi: Destinazione[] = [
     tipologia: ['città', 'arte', 'storia'],
     giorniConsigliati: "3-4 days for the historic center, the canal ring and the main museums",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went with friends for four days, three nights: the canal ring and the Jordaan, the Anne Frank House, the Rijksmuseum and the Van Gogh Museum. On the last day we rented bikes and rode around the city, stopping wherever we ended up.",
     introduzione:
       "The capital of the Netherlands, built on a network of concentric canals dug starting in the seventeenth century, in the Dutch Golden Age. The Grachtengordel (the canal ring), with its typical tall, narrow row houses facing the water, has been a UNESCO World Heritage Site since 2010. It's a compact, almost flat city, to be explored on foot or, more often, by bicycle.",
     percheAndarci:

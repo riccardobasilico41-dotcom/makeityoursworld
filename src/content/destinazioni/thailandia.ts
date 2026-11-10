@@ -1580,6 +1580,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['isole', 'nightlife'],
     giorniConsigliati: 'secondo quante isole si vogliono combinare',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Il Golfo, tra Koh Samui, Koh Phangan e Koh Tao, l'ho fatto anch'io, fuori dal giro principale di 11 giorni tra Bangkok e il mare delle Andamane.",
     introduzione: 'Le tre isole del Golfo di Thailandia, con stagioni sfasate rispetto al mare delle Andamane: Koh Samui più comoda, Koh Phangan nota per il Full Moon Party, Koh Tao il paradiso dei sub.',
     percheAndarci: 'Sono un\'alternativa quando sulle Andamane è stagione delle piogge, oppure si va per il Full Moon Party di Koh Phangan.',
     cosaVedere: ['Le spiagge di Koh Samui', 'Thong Nai Pan, il lato tranquillo di Koh Phangan'],
@@ -1658,6 +1660,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['cultura', 'templi', 'arte'],
     giorniConsigliati: '2 giorni, più uno per il Triangolo d\'oro',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato nel giro del nord della Thailandia: bus da Chiang Mai, il Tempio Bianco, il Tempio Blu e la Baan Dam, e da qui il volo per Bangkok.",
     introduzione: 'La grande città più a nord della Thailandia, conosciuta per tre luoghi d\'artista: il Tempio Bianco, il Tempio Blu e la Casa Nera.',
     percheAndarci: 'È la base per il Triangolo d\'oro, e i suoi templi moderni non somigliano a niente di quello che si vede nel resto del paese.',
     cosaVedere: [
@@ -1910,6 +1914,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['cultura', 'storia', 'fiume'],
     giorniConsigliati: '1 giorno, da Chiang Rai',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato in giornata da Chiang Rai, durante il giro del nord: Sop Ruak sul Mekong, la Hall of Opium e Chiang Saen.",
     introduzione: 'Il punto in cui il fiume Ruak entra nel Mekong, sul confine tra Thailandia, Laos e Myanmar: dagli anni Cinquanta una delle grandi zone di produzione dell\'oppio al mondo.',
     percheAndarci: 'Per la storia, più che per il paesaggio: la Hall of Opium la racconta bene, e Chiang Saen aggiunge le rovine di una città antica sul Mekong.',
     cosaVedere: [
@@ -1969,6 +1975,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['montagna', 'natura', 'strada'],
     giorniConsigliati: '2 giorni a Pai; 4-5 per il loop completo',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato durante il giro del nord: minivan da Chiang Mai, due notti a Pai tra il canyon, la campagna e le sorgenti calde, poi di nuovo a Chiang Mai.",
     introduzione: 'Un paese in una valle verde a nord-ovest di Chiang Mai, sulla strada di montagna che porta a Mae Hong Son e al confine con il Myanmar.',
     percheAndarci: 'Per qualche giorno lento tra canyon, risaie e sorgenti calde, e per chi vuole proseguire sulle strade di montagna del nord-ovest.',
     cosaVedere: [

@@ -513,6 +513,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['natura', 'sakura'],
     giorniConsigliati: '1 giorno',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato l'8 aprile, il terzo giorno del viaggio dei sakura: siamo partiti presto da Shinjuku e abbiamo salito i 398 gradini fino al belvedere della Pagoda Chureito. Lì i ciliegi erano ancora pieni, mentre a Tokyo erano già verso la fine. Poi il giro del lago Kawaguchiko e la sera di nuovo a Tokyo.",
     introduzione: 'Il punto panoramico più famoso del Giappone: la pagoda rossa a cinque piani in primo piano, il Monte Fuji sullo sfondo.',
     percheAndarci: 'Per l\'immagine simbolo del Giappone e per recuperare i sakura mancati a Tokyo: la fioritura a Chureito arriva circa una settimana dopo quella della capitale.',
     cosaVedere: ['La Pagoda Chureito nel Parco Arakurayama Sengen, con il Monte Fuji sullo sfondo', 'Il Lago Kawaguchiko'],
@@ -1804,6 +1806,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['villaggi storici', 'trekking'],
     giorniConsigliati: '1 giorno, meglio con una notte in uno dei due paesi',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono passato durante il giro Classic Japan in treno: una notte a Magome e il giorno dopo il tratto a piedi del Nakasendō fino a Tsumago, prima di ripartire per Matsumoto.",
     introduzione: 'Due paesi di posta dell\'epoca Edo nella valle di Kiso, uniti da 8 km della vecchia strada del Nakasendō tra boschi, cascate e una casa da tè.',
     percheAndarci: 'È il tratto meglio conservato della strada che collegava Kyoto e Edo passando per le montagne, e si percorre a piedi in mezza giornata con i bagagli spediti da un paese all\'altro.',
     cosaVedere: ['Il paese in salita di Magome', 'Tsumago, restaurato dagli abitanti dal 1968', 'Il passo di Magome, a circa 790 metri', 'La casa da tè a metà strada'],
@@ -1848,6 +1852,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['montagna', 'natura', 'castelli'],
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono passato durante il giro Classic Japan: la sera a Matsumoto dopo il Nakasendō e il giorno dopo il bus per Kamikochi, prima di scendere verso Takayama.",
     introduzione: 'Matsumoto, con uno dei castelli originali del Giappone, è la porta d\'ingresso di Kamikochi, una valle a circa 1.500 metri nelle Alpi giapponesi chiusa alle auto private.',
     percheAndarci: 'Kamikochi è il modo più semplice di vedere da vicino le Alpi giapponesi, su sentieri piatti lungo il fiume Azusa con le cime dell\'Hotaka davanti.',
     cosaVedere: ['Il castello di Matsumoto', 'Lo stagno di Taisho', 'Il ponte Kappa e la vista sull\'Hotaka', 'Il santuario e lo stagno di Myojin'],
@@ -1888,6 +1894,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['città storica', 'cibo', 'montagna'],
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono passato durante il giro Classic Japan: un giorno a Takayama, tra i mercati del mattino e le vie di Sanmachi Suji, poi il bus per Shirakawa-go.",
     introduzione: 'Una cittadina di montagna nella regione di Hida, con le vie di case di legno di Sanmachi, i mercati del mattino e il manzo di Hida.',
     percheAndarci: 'È la base naturale per Shirakawa-go e Kamikochi, e ha un centro storico di mercanti e birrifici di sake che si gira a piedi.',
     cosaVedere: ['Sanmachi Suji, le vie di case di legno', 'Il Takayama Jinya, l\'antica sede del governo locale', 'Il Hida Folk Village'],
@@ -2034,6 +2042,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['villaggi storici', 'UNESCO', 'montagna'],
     giorniConsigliati: 'mezza giornata, o una notte in una casa gasshō',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono passato in giornata durante il giro Classic Japan, sul bus Nohi tra Takayama e Kanazawa.",
     introduzione: 'Il villaggio di Ogimachi, Patrimonio UNESCO dal 1995, con le case gasshō-zukuri dai tetti di paglia ripidi come mani giunte.',
     percheAndarci: 'È uno dei paesaggi più riconoscibili del Giappone di montagna, e si visita facilmente tra Takayama e Kanazawa con il bus.',
     cosaVedere: ['Il belvedere di Shiroyama', 'Le case gasshō visitabili, come la Wada', 'Il ponte sospeso sul fiume Sho'],
@@ -2068,6 +2078,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['città storica', 'giardini', 'cibo'],
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono passato durante il giro Classic Japan: un giorno a Kanazawa, con il Kenroku-en, prima di proseguire in treno verso Kyoto.",
     introduzione: 'La città sul Mar del Giappone risparmiata dai bombardamenti, con il giardino Kenroku-en, il quartiere delle case da tè e quello dei samurai.',
     percheAndarci: 'Ha molto della Kyoto di un tempo con meno folla, il pesce del mercato di Omicho e il 21st Century Museum di arte contemporanea.',
     cosaVedere: ['Il giardino Kenroku-en', 'Il castello di Kanazawa', 'Higashi Chaya, il quartiere delle case da tè', 'Nagamachi, il quartiere dei samurai', 'Il 21st Century Museum'],
@@ -2111,6 +2123,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['religione', 'montagna', 'UNESCO'],
     giorniConsigliati: '1 notte',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono passato durante il giro Classic Japan: da Osaka con la linea Nankai, una notte al tempio sul monte e la mattina dopo Okunoin, prima di tornare a Osaka.",
     introduzione: 'L\'altopiano sacro del buddhismo Shingon, fondato da Kūkai nel IX secolo, con più di cento templi e il cimitero di Okunoin tra i cedri.',
     percheAndarci: 'Per una notte in un tempio, lo shukubō, con la cena dei monaci e la preghiera all\'alba, e per Okunoin, il cimitero più grande del Giappone.',
     cosaVedere: ['Okunoin e il mausoleo di Kūkai', 'Il Kongobu-ji', 'Il complesso del Danjo Garan'],
@@ -2150,6 +2164,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'cultura ryukyu', 'natura'],
     giorniConsigliati: '4-5 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Naha è stata la base del mio viaggio a Okinawa: i primi due giorni tra Shuri e il mercato di Makishi, poi, dopo le Kerama, il giro del nord in auto tra Motobu e Yanbaru.",
     introduzione: 'L\'isola principale di Okinawa: Naha e il castello di Shuri, l\'acquario di Churaumi sulla penisola di Motobu e la foresta di Yanbaru nel nord.',
     percheAndarci: 'Per capire la storia del regno delle Ryukyu e della battaglia del 1945, e per vedere in pochi giorni città, barriera corallina e foresta subtropicale.',
     cosaVedere: ['Il castello di Shuri', 'Il mercato pubblico di Makishi', 'Il Parco della Pace a Itoman', 'L\'Okinawa Churaumi Aquarium', 'L\'isola di Kouri e il villaggio di Bise', 'Il castello di Nakijin', 'Yanbaru e Capo Hedo'],
@@ -2203,6 +2219,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'snorkeling', 'isole'],
     giorniConsigliati: '2 notti',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato durante il viaggio a Okinawa: traghetto da Naha per Zamami e due notti sull'isola, prima di tornare sull'isola principale.",
     introduzione: 'Un piccolo arcipelago a un\'ora di traghetto veloce da Naha, parco nazionale, famoso per un mare chiarissimo che qui chiamano Kerama blue.',
     percheAndarci: 'Per lo snorkeling da riva, le tartarughe di Ama beach e, d\'inverno, le megattere.',
     cosaVedere: ['Furuzamami beach', 'Ama beach', 'I belvedere di Zamami al tramonto', 'Tokashiki, l\'isola più grande, con la spiaggia di Aharen'],
@@ -2239,6 +2257,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'snorkeling', 'isole'],
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Ci sono stato durante il viaggio a Okinawa: due giorni a Miyako, con il ponte di Irabu, Shimoji e lo snorkeling, poi il volo per Ishigaki.",
     introduzione: 'Un gruppo di isole piatte a sud-ovest di Okinawa, con le spiagge più bianche dell\'arcipelago e il ponte di Irabu, lungo 3.540 metri.',
     percheAndarci: 'Per il mare puro: spiagge lunghe, snorkeling da riva, acqua chiarissima intorno a Shimoji.',
     cosaVedere: ['Il ponte di Irabu', 'Yonaha Maehama', 'Il mare di Shimoji accanto alla pista (17END)', 'Higashi-Hennazaki', 'Sunayama beach'],
@@ -2273,6 +2293,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['mare', 'giungla', 'isole', 'villaggi storici'],
     giorniConsigliati: '3-5 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "È stata l'ultima tappa del mio viaggio a Okinawa: base a Ishigaki, con la baia di Kabira e le gite in traghetto a Iriomote e Taketomi, e da qui il volo di rientro.",
     introduzione: 'Ishigaki è il porto delle isole Yaeyama, il punto più a sud-ovest del Giappone: da qui si va nella giungla di Iriomote e nel villaggio di corallo di Taketomi.',
     percheAndarci: 'Per avere in pochi giorni mangrovie e cascate, barriera corallina e un villaggio ryukyu rimasto com\'era.',
     cosaVedere: ['La baia di Kabira', 'La giungla e le mangrovie di Iriomote', 'Il villaggio di Taketomi', 'La spiaggia di Kondoi a Taketomi'],
@@ -2311,6 +2333,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['città', 'cibo', 'inverno'],
     giorniConsigliati: '2 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Sapporo è stata la porta del mio viaggio di sci in Hokkaido: arrivo da New Chitose e due giorni in città prima di partire per le piste.",
     introduzione: 'Il capoluogo di Hokkaido, porta d\'ingresso per le stazioni sciistiche dell\'isola, con il Yuki Matsuri a febbraio, il ramen al miso e il mercato del pesce.',
     percheAndarci: 'È il punto di arrivo e partenza di quasi ogni viaggio di sci a Hokkaido, e a inizio febbraio ospita il festival della neve.',
     cosaVedere: ['Il parco di Odori', 'Susukino', 'Il mercato di Nijo', 'Il museo della birra Sapporo', 'Il monte Moiwa'],
@@ -2353,6 +2377,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['sci', 'neve polverosa', 'onsen'],
     giorniConsigliati: '5-7 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Niseko è stata la base della settimana di sci in Hokkaido: le piste di Hanazono, Grand Hirafu, Niseko Village e Annupuri, più una giornata a Rusutsu.",
     introduzione: 'Le stazioni sciistiche più note di Hokkaido: le quattro di Niseko United sul monte Annupuri, il grande resort di Rusutsu e Kiroro, vicina a Sapporo e Otaru.',
     percheAndarci: 'Per la neve polverosa, i percorsi tra gli alberi e una logistica facile anche senza parlare giapponese.',
     cosaVedere: ['Grand Hirafu, Hanazono, Niseko Village e Annupuri', 'Il monte Yotei dalla cima', 'Rusutsu e le sue tre montagne', 'Kiroro'],
@@ -2404,6 +2430,8 @@ export const destinazioniGiappone: Destinazione[] = [
     tipologia: ['sci', 'neve polverosa'],
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Furano è stata l'ultima tappa del viaggio di sci in Hokkaido: il trasferimento da Niseko, un giorno sulle piste e poi il rientro.",
     introduzione: 'Una cittadina al centro di Hokkaido con una stazione sciistica dalla neve molto leggera, per il freddo secco dell\'interno.',
     percheAndarci: 'Per sciare in un posto meno turistico di Niseko, con una città vera intorno alle piste.',
     cosaVedere: ['Le piste di Furano', 'Asahidake, sul vulcano, per il fuori pista con guida'],

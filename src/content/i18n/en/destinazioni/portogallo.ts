@@ -9,6 +9,8 @@ export const destinazioniPortogallo: Destinazione[] = [
     tipologia: ['città', 'storia', 'mare'],
     giorniConsigliati: '3-4 days, including the day trip to Sintra',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went with friends for four days, three nights, on foot and by public transport: Alfama and tram 28, Belém, Baixa and Chiado, plus a whole day in Sintra.",
     introduzione:
       "Portugal's capital sits on seven hills overlooking the Tagus estuary. It was largely rebuilt after the 1755 earthquake, which gave shape to the Baixa: the low-lying district with a regular Enlightenment layout that today separates the older, hillier neighborhoods, Alfama and Bairro Alto, from the river.",
     percheAndarci:
@@ -387,6 +389,8 @@ export const destinazioniPortogallo: Destinazione[] = [
     tipologia: ['storia', 'natura', 'arte'],
     giorniConsigliati: 'a full day, as a trip from Lisbon',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went on a day trip during my four days in Lisbon with friends: a whole day just for Sintra.",
     introduzione:
       'A small town among wooded hills, about 19 miles (30 km) northwest of Lisbon, a UNESCO site since 1995 as the "Cultural Landscape of Sintra." For centuries the Portuguese nobility and royal family spent their summers here, building palaces and romantic villas in a concentration unique in Europe, in a microclimate cooler and damper than Lisbon\'s.',
     percheAndarci:

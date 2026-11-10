@@ -9,6 +9,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['città', 'storia', 'pub e musica'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Mi ruta en coche por las dos Irlandas, doce días, empezó y terminó aquí: los dos primeros días en la ciudad, con el Libro de Kells y Kilmainham Gaol, antes de recoger el coche.",
     introduzione:
       'La capital de la República, partida en dos por el río Liffey. El Trinity College con el Book of Kells, la cárcel de Kilmainham por donde pasa la historia de la independencia, los pubs y las calles georgianas. Es el punto de salida y de llegada de la ruta.',
     percheAndarci:
@@ -339,6 +341,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'storia', 'trekking'],
     giorniConsigliati: 'medio día o 1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Pasé por allí el primer día en coche de mi ruta por las dos Irlandas: desde Dublín por las montañas de Wicklow hasta Glendalough, y por la noche en Kilkenny.",
     introduzione:
       'Al sur de Dublín empiezan los montes de Wicklow. En el valle de Glendalough, entre dos lagos, están las ruinas del monasterio fundado por san Kevin en el siglo VI, con la torre redonda todavía en pie.',
     percheAndarci: 'Es la primera salida a la naturaleza después de la ciudad, y está cerca: se hace por la mañana y por la tarde se sigue hacia Kilkenny.',
@@ -382,6 +386,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['storia', 'città', 'castelli'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante la ruta en coche por las dos Irlandas: una noche en Kilkenny, el castillo a la mañana siguiente, y luego la Roca de Cashel camino de Cork.",
     introduzione:
       'Kilkenny es una pequeña ciudad medieval con el castillo junto al río Nore. Más al oeste, en el condado de Tipperary, la Roca de Cashel es uno de los conjuntos monumentales más famosos de Irlanda: una colina de piedra con torre redonda, capilla románica y catedral gótica.',
     percheAndarci: 'Por dos paradas de historia en la carretera entre Dublín y Cork, sin desvíos largos.',
@@ -427,6 +433,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['città', 'mare', 'cibo'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante la ruta en coche por las dos Irlandas: una noche en Cork, la mañana en el English Market, y luego Kinsale y la carretera hacia Killarney.",
     introduzione:
       'Cork es la segunda ciudad de la República, con el mercado cubierto más famoso del país. Kinsale, en la costa un poco al sur, es un puerto de casas de colores conocido por sus restaurantes y por un fuerte del siglo XVII.',
     percheAndarci: 'Para comer bien: el English Market a mediodía, Kinsale para cenar. Y para la primera mirada al Atlántico.',
@@ -468,6 +476,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'on the road', 'costa'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante la ruta en coche por las dos Irlandas, con base en Killarney: un día en el anillo del Ring of Kerry y otro en la península de Dingle con el Slea Head Drive.",
     introduzione:
       'El Ring of Kerry es una ruta circular de 179 km alrededor de la península de Iveragh, con salida y llegada en Killarney. Más al norte, la península de Dingle tiene la Slea Head Drive, la carretera de costa con fuertes prehistóricos, cabañas de piedra y vistas a las islas Blasket.',
     percheAndarci: 'Son los paisajes atlánticos más famosos de la isla: lagos, montañas bajas, acantilados y pueblos donde se habla irlandés.',
@@ -522,6 +532,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'costa'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Pasé por allí durante la ruta en coche por las dos Irlandas, en la carretera de Dingle a Galway: los Acantilados de Moher y luego el Burren.",
     introduzione:
       'En el condado de Clare, los acantilados de Moher (Cliffs of Moher) caen a pico sobre el Atlántico. Justo al norte está el Burren, una meseta de caliza desnuda con un dolmen del Neolítico y plantas árticas y mediterráneas que crecen juntas.',
     percheAndarci: 'Por los acantilados más famosos de Irlanda y por un paisaje que no se parece a nada más en la isla.',
@@ -566,6 +578,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['città', 'pub e musica'],
     giorniConsigliati: '1 día, como base para Connemara',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve durante la ruta en coche por las dos Irlandas: dos noches en el centro, base para Connemara, antes de subir hacia Derry/Londonderry.",
     introduzione:
       'La ciudad en la desembocadura del río Corrib, puerta de Connemara. Centro pequeño y animado, música en los pubs todo el año, el Spanish Arch junto al río y el barrio del Claddagh, el del anillo.',
     percheAndarci: 'Por la noche: Galway es la ciudad más musical de la ruta. Y como base para Connemara.',
@@ -848,6 +862,8 @@ export const destinazioniIrlanda: Destinazione[] = [
     tipologia: ['natura', 'trekking', 'on the road'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve en una excursión de un día desde Galway durante la ruta en coche por las dos Irlandas: Connemara, Letterfrack y Kylemore Abbey, y vuelta a Galway.",
     introduzione:
       'La región al oeste de Galway: turberas, lagos, las montañas de los Twelve Bens y una costa recortada. Aquí están el parque nacional de Connemara y la Kylemore Abbey, un castillo del siglo XIX junto al lago.',
     percheAndarci: 'Por el paisaje más salvaje del viaje, poco habitado, con una luz que cambia cada media hora.',

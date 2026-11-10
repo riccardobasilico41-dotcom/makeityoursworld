@@ -9,6 +9,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['mare', 'island hopping', 'lagune'],
     giorniConsigliati: '3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "El Nido was the first stop of my Philippines trip: van from Puerto Princesa, then the lagoons of Tour A, Tour C and Nacpan beach.",
     introduzione:
       "In northern Palawan, a bay closed in by black limestone cliffs and the Bacuit archipelago, with inner lagoons, beaches and caves reachable only by boat.",
     percheAndarci: "For the Miniloc lagoons, the Bacuit islands and beaches like Nacpan, among the most famous seascapes in Asia.",
@@ -157,6 +159,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['mare', 'relitti', 'laghi'],
     giorniConsigliati: '3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I got here by ferry from El Nido during the Philippines trip: Kayangan Lake, Barracuda, the Twin Lagoons and a day of wrecks and sandbars.",
     introduzione:
       "The islands of Coron and Busuanga, north of Palawan: freshwater lakes among limestone rocks, white sand islets and a bay full of Japanese wrecks from 1944.",
     percheAndarci: "For Kayangan Lake and Barracuda Lake, the Twin Lagoon and the dives on the World War II wrecks.",
@@ -297,6 +301,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['mare', 'immersioni', 'canyoning'],
     giorniConsigliati: '3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I stayed in Moalboal during the Philippines trip, based at Panagsama Beach, between the sardines and the turtles. For the Kawasan canyoneering we set off early in the morning to avoid the crowds.",
     introduzione:
       "The southwest coast of Cebu island, with the reef of Panagsama Beach in Moalboal, the Kawasan falls in Badian and Cebu City as the flight hub.",
     percheAndarci:
@@ -430,6 +436,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['paesaggio', 'mare', 'natura'],
     giorniConsigliati: '2-3 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went during the Philippines trip, based in Panglao: the Chocolate Hills, the tarsiers and the Loboc River, then Balicasag and Virgin Island by boat.",
     introduzione:
       "An island in the central Visayas with the conical hills of the Chocolate Hills, tarsiers in the forest and the island of Panglao, linked by a bridge, with the beaches and reefs of Balicasag.",
     percheAndarci: "For the Chocolate Hills, the Philippine tarsier, the Loboc River and snorkeling at Balicasag.",
@@ -549,6 +557,8 @@ export const destinazioniFilippine: Destinazione[] = [
     tipologia: ['surf', 'mare', 'isole'],
     giorniConsigliati: '3-4 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Siargao was the last stop of my Philippines trip, in General Luna: island hopping between Naked, Daku and Guyam, Sugba Lagoon, Magpupungko and surfing.",
     introduzione:
       "A teardrop-shaped island facing the Pacific Ocean, off northeastern Mindanao: palm groves, lagoons, sand islets and the Cloud 9 wave.",
     percheAndarci: "For the surf, island hopping among Naked, Daku and Guyam, the Sugba lagoon and the relaxed air of a surfer island.",

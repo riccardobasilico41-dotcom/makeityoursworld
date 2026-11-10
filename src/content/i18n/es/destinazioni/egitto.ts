@@ -41,6 +41,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Aceptar el «guía gratuito» que se ofrece en la calle o la «tienda de papiros de mi hermano»",
       "Tomar un taxi sin taxímetro sin acordar el precio: mejor Uber o Careem",
     ],
+    miaEsperienza:
+      "Estuve con amigos al principio de nuestra ruta de tres semanas por Egipto: después de los días de las pirámides, un día entre el Cairo islámico, el Cairo copto y el Museo Egipcio, y luego la carretera hacia Alejandría y Siwa.",
     // GUIDA-START
     luoghi: [
       {
@@ -393,6 +395,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Subirse a un camello sin haber acordado el precio total, la duración y qué incluye: la cifra se duplica para bajar",
       "Comprar la entrada para el interior de Keops pensando que se van a ver decoraciones: las cámaras están desnudas, el interés está en el corredor y en la Gran Galería",
     ],
+    miaEsperienza:
+      "Estuve con amigos en los primeros días de nuestra ruta de tres semanas por Egipto, con base en Guiza: las pirámides de Guiza y el Gran Museo Egipcio, y luego un día en coche con conductor entre Saqqara, Dahshur y Menfis.",
     // GUIDA-START
     luoghi: [
       {
@@ -731,6 +735,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Hacer fotos en las tumbas sin el permiso fotográfico si se exige: los guardianes cobran la «multa» en efectivo",
       "Elegir el globo solo por el precio más bajo: cuenta la compañía, y los vuelos se cancelan con viento",
     ],
+    miaEsperienza:
+      "Llegué con amigos en el crucero por el Nilo desde Asuán, durante nuestra ruta de tres semanas por Egipto: Karnak y el templo de Luxor, el Valle de los Reyes y Hatshepsut en la orilla oeste, y el globo al amanecer.",
     // GUIDA-START
     luoghi: [
       {
@@ -1071,6 +1077,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Hacer Abu Simbel en un día de verano sin contar con levantarse a las 3-4 y siete horas de carretera entre ida y vuelta",
       "Subirse a una falúa sin acordar si el precio es por persona o por barca, y por cuánto tiempo",
     ],
+    miaEsperienza:
+      "Estuve con amigos durante nuestra ruta de tres semanas por Egipto, llegando en avión desde El Cairo: la falúa al atardecer, Abu Simbel al amanecer y Filae, y luego el embarque en el crucero por el Nilo hacia Luxor.",
     // GUIDA-START
     luoghi: [
       {
@@ -1390,6 +1398,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Ir al desierto con quien no tiene los permisos: las zonas hacia la frontera libia están controladas por el ejército",
       "Llevar ropa corta en el pueblo: Siwa es una comunidad conservadora, y también en el lago o en los manantiales se baña uno vestido",
     ],
+    miaEsperienza:
+      "Llegué con amigos en coche desde El Cairo pasando por Alejandría y Marsa Matruh, durante nuestra ruta de tres semanas por Egipto: el Oráculo, la montaña de los muertos, el manantial de Cleopatra, los lagos salados y el Gran Mar de Arena en todoterreno.",
     // GUIDA-START
     luoghi: [
       {
@@ -1497,6 +1507,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "Tocar o caminar sobre el coral y comprar conchas o corales: está prohibido y la exportación se confisca en el aeropuerto",
       "Reservar un liveaboard en el sur sin el título y el número de inmersiones exigidos (normalmente Advanced y al menos 50 inmersiones)",
     ],
+    miaEsperienza:
+      "Fue el cierre de nuestra ruta de tres semanas por Egipto: en coche desde Luxor hasta Marsa Alam, y los últimos días buceando en Abu Dabbab y en los arrecifes de la zona.",
     // GUIDA-START
     luoghi: [
       {

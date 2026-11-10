@@ -9,6 +9,8 @@ export const destinazioniUngheria: Destinazione[] = [
     tipologia: ['città', 'terme', 'storia'],
     giorniConsigliati: '3-4 days, with one day devoted to the thermal baths',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "I went with friends for a long weekend, three nights, all on foot and by public transport: Buda hill and the Fisherman's Bastion, the Parliament and the Jewish quarter, a day at the baths and the last one between the Danube and Margaret Island.",
     introduzione:
       "The Hungarian capital, born in 1873 from the merger of three separate cities: Buda and Óbuda on the hilly west bank of the Danube, Pest on the flat east bank. The historic center of Buda, a UNESCO site since 1987, preserves the royal castle and the medieval district around Matthias Church; Pest concentrates the Parliament, the great 19th-century boulevards and the Jewish Quarter with its ruin bars. Many thermal springs rise beneath the city, and Budapest is known as \"the city of spas\".",
     percheAndarci:

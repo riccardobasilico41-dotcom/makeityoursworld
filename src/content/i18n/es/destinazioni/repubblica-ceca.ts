@@ -9,6 +9,8 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     tipologia: ['città', 'storia', 'architettura'],
     giorniConsigliati: '3-4 días para el casco histórico, el Castillo y Vyšehrad',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve con amigos un fin de semana largo, tres noches, todo a pie y en transporte público: la Ciudad Vieja, el Puente de Carlos con Malá Strana y el Castillo, Josefov y el último día Vyšehrad.",
     introduzione:
       "La «ciudad de las cien torres», capital checa a ambas orillas del Moldava, con uno de los cascos históricos medievales y barrocos mejor conservados de Europa. Salió casi indemne de los bombardeos de la Segunda Guerra Mundial, y hoy es un conjunto compacto de cinco núcleos históricos, todos recorribles a pie en pocos días: Staré Město (Ciudad Vieja), Malá Strana (Ciudad Pequeña), Hradčany (la colina del Castillo), Josefov (el barrio judío) y la Nové Město (Ciudad Nueva) decimonónica.",
     percheAndarci:

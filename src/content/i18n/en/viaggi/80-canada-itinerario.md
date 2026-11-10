@@ -87,6 +87,8 @@ In the afternoon you head up the **Niagara Parkway**, the scenic road along the 
 - Niagara Falls to Niagara-on-the-Lake: about 25 km (15 miles) along the Niagara Parkway
 
 ### Day 5 — The Thousand Islands
+*I didn't do this stop myself: it's a possible extension of the route, written from practical information.*
+
 This is the longest transfer day: about four hours east, along Lake Ontario, to **Gananoque**, the gateway to the **Thousand Islands**. Here the St. Lawrence leaves the lake and breaks up into almost two thousand islands and islets, many with a single house on them. Cruises leave from Gananoque and Rockport and last from one to three hours. If you'd rather drive, you can take the **Thousand Islands Parkway**, the scenic road along the river.
 
 It's worth leaving early to reach Gananoque by lunchtime and take an early-afternoon cruise, when the light on the river is at its best. The shorter cruises loop around the Canadian islands in front of the town; the longer ones go as far as **Heart Island**, home of **Boldt Castle**, the castle a New York hotelier had built for his wife and left unfinished when she died. After the cruise, continue east on the Parkway, which has a bike path of about forty kilometers alongside it, stopping at the lookouts and the small river beaches. *To sleep, Gananoque has simple motels and B&Bs; Kingston, half an hour further on, has more choice.*
@@ -122,6 +124,8 @@ The day is best planned around the Parliament tours, which have fixed times and 
 - National Gallery and Canadian Museum of History: paid admission, shorter hours in low season, check closing days
 
 ### Day 8 — Mont-Tremblant and the Laurentians
+*I didn't do this stop myself: it's a possible extension of the route, written from practical information.*
+
 From Ottawa you enter the **Laurentians**, hills of forests and lakes north of Montréal. **Mont-Tremblant** is a ski resort with a pedestrian village of colorful houses at the foot of the mountain; in summer and fall the gondola takes you to the summit for the view over the lakes. A little farther north is the **Parc national du Mont-Tremblant**, with trails and canoeing, paid admission.
 
 The pedestrian village takes an hour, among colorful roofs, shops and terraces; the panoramic gondola climbs to the summit in a few minutes, where marked trails start and there's a restaurant. The afternoon is best spent in the national park: the La Diable sector, about twenty minutes further north, has the **Chute du Diable** waterfall, short trails between the lakes and canoe and kayak rental. *The Laurentians are at their best between late September and early October, when the maples turn red: these are also the most expensive and crowded weeks.* Cyclists will find the **P'tit Train du Nord** a little further south, the bike path built on an old railway line.
@@ -179,6 +183,8 @@ It's worth getting to the falls in the morning, before the tour buses. The panor
 - Citadelle: paid guided tours and, in summer, the Changing of the Guard in the morning
 
 ### Day 13 — Charlevoix: Baie-Saint-Paul and the road along the river
+*I didn't do this stop myself: it's a possible extension of the route, written from practical information.*
+
 You head down the north shore of the St. Lawrence toward **Charlevoix**, a region of hills that drop to the river, a UNESCO biosphere reserve. **Baie-Saint-Paul** is a town of art galleries and creameries; from here **Route 362** runs high above the river to **La Malbaie**, with viewpoints over the bends. In the evening you reach **Baie-Sainte-Catherine** and take the ferry to **Tadoussac**.
 
 Baie-Saint-Paul takes an hour on foot: the main street, rue Saint-Jean-Baptiste, is full of galleries and shops, and there's a contemporary art museum and the **Laiterie Charlevoix**, the cheese dairy that lets you watch production. Route 362, also called the Route du Fleuve, passes through Les Éboulements, with a sweeping view of **Isle-aux-Coudres**, reached by a free ferry from Saint-Joseph-de-la-Rive. At La Malbaie there's the big historic hotel of the **Manoir Richelieu**, on the river. *If you have an extra day you can head inland to the Parc national des Hautes-Gorges-de-la-Rivière-Malbaie, with some of the highest rock walls east of the Rockies.*
