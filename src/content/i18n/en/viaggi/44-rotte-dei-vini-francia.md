@@ -45,7 +45,7 @@ We spent a day in **Strasbourg**, between the cathedral, the Petite France quart
 
 If you have the legs, climb the roughly 330 steps to the platform, from where you see the whole city. In the afternoon **Petite France**, the old quarter of millers and fishermen, with the canals of the Ill, the Ponts Couverts and the Vauban dam, from which you look down on the quarter. A boat tour of the canals goes as far as the European quarter, with the European Parliament and the Council of Europe. In the evening take the train back to Colmar, or stay the night in Strasbourg.
 
-**In practice:** the apostles' parade needs a separate ticket, a few euros, while the cathedral itself is free · the platform has a separate paid entrance · choucroute is eaten in the winstubs, the Alsatian taverns, best booked for the evening.
+**In practice:** the apostles' parade needs a separate ticket, a few euros, while the cathedral itself is free · the platform has a separate paid entrance, about €10 · choucroute is eaten in the winstubs, the Alsatian taverns, best booked for the evening.
 
 ### Day 5 — Transfer to Reims
 We moved on to Champagne, and here everything changes: the big houses have to be booked in advance, and sometimes the visit is free, sometimes paid. We spent the afternoon in **Reims**, in the cathedral of the coronations, with Chagall's stained glass. The transfer takes most of the morning: from Alsace to Reims is about four hours by car, or the train from Strasbourg with a change at the Champagne-Ardenne TGV station, in about two hours.

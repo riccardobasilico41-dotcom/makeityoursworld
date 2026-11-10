@@ -61,7 +61,7 @@ Il pomeriggio in barca lungo la **costa nord-orientale**, davanti alle **ex cave
 
 Per chi resta a terra c'è il belvedere di **Quattrocchi**, da cui si vedono insieme i faraglioni e Vulcano: è la cartolina dell'isola.
 
-**In pratica:** Museo Archeologico Eoliano aperto di solito tutti i giorni fino al tardo pomeriggio, biglietto di pochi euro, orari da verificare sul sito del Parco archeologico · almeno due ore per il museo · ex cave di pomice da vedere solo dal mare · Lipari è il porto dove rifornirsi di acqua e cambusa.
+**In pratica:** Museo Archeologico Eoliano aperto di solito tutti i giorni fino al tardo pomeriggio, biglietto intero circa 7 €, orari da verificare sul sito del Parco archeologico · almeno due ore per il museo · ex cave di pomice da vedere solo dal mare · Lipari è il porto dove rifornirsi di acqua e cambusa.
 
 ### Giorno 4 — Salina: la verde
 Breve traversata verso **Salina**, l'anomalia dell'arcipelago: **è l'unica isola con acqua sorgiva**, e per questo è verde, coltivata e piena di alberi mentre le altre sono brulle. Ha due vulcani spenti gemelli, il **Monte dei Porri** e la **Fossa delle Felci**, che le danno il profilo a due gobbe riconoscibile da chilometri.

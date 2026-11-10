@@ -64,7 +64,7 @@ On the ADO bus from the TAPO or the Terminal del Sur we reached **Puebla** (abou
 
 Puebla is also one of the capitals of Mexican cooking. Here you eat **mole poblano**, the dark sauce of chiles, spices and chocolate, **cemitas** and evening chalupas, camote sweets on the Calle de los Dulces. In these days the Zócalo and the Barrio del Artista host ofrendas and altar contests. If you want to take home a piece of talavera, buy it from certified workshops. *Authentic talavera carries a designation of origin: the pieces sold for a few pesos on street stalls are almost always industrial.*
 
-**In practice:** ADO bus Mexico City-Puebla about 2 hours, 200-300 MXN, frequent departures · Biblioteca Palafoxiana closed on Mondays, admission a few dozen pesos and free on Tuesdays · Capilla del Rosario open outside mass times · sleep in the historic center around the Zócalo, or straight in Cholula for tomorrow's stop.
+**In practice:** ADO bus Mexico City-Puebla about 2 hours, 200-300 MXN, frequent departures · Biblioteca Palafoxiana closed on Mondays, admission about 40 pesos and free on Tuesdays · Capilla del Rosario open outside mass times · sleep in the historic center around the Zócalo, or straight in Cholula for tomorrow's stop.
 
 ### Day 6 — Cholula, the church on the pyramid and the Popocatépetl
 **Cholula** is 20-30 minutes from Puebla and it's worth sleeping there at least one night. The **Great Pyramid** is the largest in the world by volume, even though today it looks like a grass-covered hill: you visit the tunnels dug by archaeologists and the site at its foot. On top the conquistadors built the **Santuario de la Virgen de los Remedios**, the yellow church that appears in almost every photo of Cholula.
@@ -142,7 +142,7 @@ A day trip east, about an hour and a quarter by road: **Mazunte**, the village t
 
 We watched the sunset from **Punta Cometa**, the headland above Mazunte, climbing a short path through the dry vegetation. You need a flashlight for the way down, which is in the dark. You get there by colectivo or shared taxi along coastal highway 200. If you prefer, you can make it a change of base and sleep in Mazunte for the last two nights, flying home directly from Huatulco or Puerto Escondido airport. If you return to Puerto Escondido the same day, keep in mind that colectivos thin out after sunset: arrange a taxi for the way back in advance.
 
-**In practice:** Puerto Escondido-Mazunte about an hour and a quarter along highway 200, by colectivo or shared taxi · Centro Mexicano de la Tortuga closed Monday and Tuesday, admission a few dozen pesos · flashlight for the walk back from Punta Cometa · if you sleep in Mazunte, fly from Huatulco, about an hour's drive away.
+**In practice:** Puerto Escondido-Mazunte about an hour and a quarter along highway 200, by colectivo or shared taxi · Centro Mexicano de la Tortuga closed Monday and Tuesday, admission about 50 pesos · flashlight for the walk back from Punta Cometa · if you sleep in Mazunte, fly from Huatulco, about an hour's drive away.
 
 ### Day 16 — Return via Mexico City
 Direct flight from Puerto Escondido to Mexico City (about an hour; Aeroméxico, Volaris and Viva) and an international connection. If the flight is in the early afternoon, the morning is free for a last swim at Carrizalillo or breakfast on the beach: the airport is a few minutes by taxi from Zicatela and the center. Mezcal bought in Matatlán goes in checked luggage, well wrapped. *When re-entering the European Union, the duty-free allowance is one liter of spirits per person.*

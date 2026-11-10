@@ -170,7 +170,7 @@ Il pomeriggio al **Poetto**, la spiaggia urbana lunga otto chilometri, e allo **
 
 Ultima cena in città, e ultimo mirto.
 
-**In pratica:** Castello si raggiunge a piedi in salita o con gli ascensori pubblici della città · Museo Archeologico Nazionale nella Cittadella dei Musei, giorno di chiusura settimanale da controllare · al Poetto si arriva in bus dal centro in circa 20-30 minuti · i fenicotteri di Molentargius si vedono meglio la mattina presto o al tramonto.
+**In pratica:** Castello si raggiunge a piedi in salita o con gli ascensori pubblici della città · Museo Archeologico Nazionale nella Cittadella dei Musei, chiuso il martedì, aperto 8.30-19.30 · al Poetto si arriva in bus dal centro in circa 20-30 minuti · i fenicotteri di Molentargius si vedono meglio la mattina presto o al tramonto.
 
 ### Giorno 14 — Partenza
 L'ultima mattina si può passare a Cagliari o sulla **Costa del Sud**, verso l'aeroporto: **Chia** con le dune e la torre spagnola, **Tuerredda** (contingentata in stagione) e il sito fenicio-romano di **Nora** sulla punta, con il teatro affacciato sul mare e parte della città sommersa a pochi metri di profondità. Nora si visita con turni guidati e richiede circa un'ora; Chia è a una ventina di minuti più a sud. *Con un volo nel primo pomeriggio conviene scegliere una sola tappa, e lasciare la Costa del Sud a chi parte la sera.*

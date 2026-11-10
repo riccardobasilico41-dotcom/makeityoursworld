@@ -151,7 +151,7 @@ Sveglia prestissimo e due ore di strada fino al **Parco Nazionale di Yala**, il 
 
 Poi siamo andati verso la costa, due ore e un quarto o due e quaranta. Lungo la strada ci sono i famosi pescatori sui pali: *oggi sono quasi sempre una messa in scena per turisti, non più un vero modo di pescare.* A Mirissa, nel primo pomeriggio, una pizza buona da un chiosco (circa 4.000 LKR), e nel tardo pomeriggio siamo arrivati a **Hikkaduwa**. Cena in un ristorante sul mare: servizio lento, red snapper ottimo.
 
-**In pratica:** Ella-Yala circa 2 ore · safari a Yala 12.000-16.000 LKR a jeep, più ingresso di 27-30 € a persona e mancia · il parco può chiudere per qualche settimana nella stagione secca, da controllare · Yala-Hikkaduwa circa 2-3 ore, con pranzo a Mirissa.
+**In pratica:** Ella-Yala circa 2 ore · safari a Yala 12.000-16.000 LKR a jeep, più ingresso di 27-30 € a persona e mancia · il parco può chiudere per qualche settimana nella stagione secca (nel 2026 i blocchi 1 e 2 sono rimasti chiusi dal 14 settembre al 15 ottobre), da controllare · Yala-Hikkaduwa circa 2-3 ore, con pranzo a Mirissa.
 
 ### Giorno 10 — Hikkaduwa: giornata di mare
 Un giorno intero di spiaggia, da riempire come si vuole. Il punto migliore per **nuotare con le tartarughe** è davanti all'Hikka Tranz by Cinnamon Hotel: si arriva dalla spiaggia, si nuota a pochi metri dalla riva, e la mattina presto l'acqua è più calma e la gente meno. *Le tartarughe non si toccano e non si nutrono, anche se c'è chi vende alghe in spiaggia per farlo.* Il **Tsunami Museum** racconta cosa ha fatto lo tsunami del 2004 a questa costa, con le foto e le testimonianze degli abitanti.

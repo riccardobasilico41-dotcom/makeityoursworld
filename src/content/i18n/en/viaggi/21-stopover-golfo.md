@@ -50,7 +50,7 @@ In the morning there's **Alserkal Avenue**, the art gallery district carved out 
 
 The afternoon and evening we spent in the **desert**: an evening safari with dune bashing, dinner at a tented camp and back. Take it for what it is (organized, on modest dunes half an hour from the city, with ten other jeeps on the same dune), but it's still a pleasant evening. Almost all safaris leave in the early afternoon, with hotel pickup, and get back to the city late in the evening. Before paying, ask what's included (dinner, drinks, show, camel ride) and pick an operator with recent reviews. If you get carsick, you can skip the dune bashing or sit in front. *The real desert is something else and it's at Liwa: see the extensions.*
 
-**In practice:** Museum of the Future with an online ticket for a set date and time, price in the few-tens-of-euros range · Alserkal free to enter, but not every gallery opens every day: check hours on the website · evening safari with hotel pickup, price varies a lot by operator, book a day or two ahead · to sleep, Deira or Bur Dubai near the metro.
+**In practice:** Museum of the Future with an online ticket for a set date and time, about AED 169 · Alserkal free to enter, but not every gallery opens every day: check hours on the website · evening safari with hotel pickup, price varies a lot by operator, book a day or two ahead · to sleep, Deira or Bur Dubai near the metro.
 
 ### Day 3 — Abu Dhabi, the Etihad stopover
 The free block: one or two hotel nights offered by Etihad on a round-trip ticket with a declared stop of at least 24 hours.
@@ -59,14 +59,14 @@ The stop that alone justifies the layover is the **Sheikh Zayed Grand Mosque**, 
 
 In the evening there's the **Corniche** or the **Al Mina** fish market, where you pick at the counter and have it cooked next door. The Corniche is a waterfront several kilometers long, with beaches, lawns and a cycle path, at its best after sunset, when families come out to stroll. The fish market is in the port area, a few minutes by taxi from the eastern end of the waterfront: you choose fish and prawns at the counter and a cook grills or stews them for a few dirhams (see «Where we ate»). *In Abu Dhabi distances are long and public transport impractical if you only have one evening: a metered taxi is the simplest choice.*
 
-**In practice:** book the Etihad stopover hotel a few days before the flight · Grand Mosque free with a time slot booked on the official website; on Fridays visits move to after the midday prayer, check the hours · no tight or see-through clothes, even if they cover · taxis between airport, mosque and Corniche, each leg around half an hour or less.
+**In practice:** book the Etihad stopover hotel a few days before the flight · Grand Mosque with a time slot booked on the official website and, since September 2026, an entry fee of about AED 10 for tourists; open 9am to 8.30pm, on Fridays 9 to 11.30am and 2.30 to 8.30pm · no tight or see-through clothes, even if they cover · taxis between airport, mosque and Corniche, each leg around half an hour or less.
 
 ### Day 4 — Abu Dhabi, the Louvre and the desert
 Morning or evening at the **Louvre Abu Dhabi**, on Saadiyat Island. The building is worth as much as the collection: under the dome of almost eight thousand overlapping metal stars falls a light that moves all day, and Nouvel calls it a rain of light. The collection is arranged **by era and not by civilization**, so in the same room there are contemporary objects made by cultures that didn't know each other. Saadiyat is linked to the center by a bridge and is about twenty minutes by taxi from the Corniche. Allow at least two or three hours; the last ones of the afternoon are the most beautiful under the dome, when the light comes in low and the plaza on the water cools down.
 
 With one more day you go to **Liwa**, two hours away, on the edge of the Rub' al-Khali, the largest continuous sand desert in the world, with dunes over two hundred meters high. It's the real desert, the opposite of the evening safari. Or **Al Ain**, the UNESCO-listed oasis with a hundred and forty-seven thousand palms irrigated by channels dug two thousand years ago and still working. Both take a full day with a rental car or a driver. For Liwa, leave very early, avoid the middle of the day on the dunes and stay until sunset, better still with a night in a camp (see the extensions). *A regular rental car is no good on sand: to get up the dunes you need a 4x4 and someone who knows how to drive it.*
 
-**In practice:** Louvre Abu Dhabi with an online ticket, weekly closing day and late hours to check on the official website · taxi from the Corniche to Saadiyat about 20 minutes · Liwa about 2 hours by car, Al Ain about an hour and a half to two · for the next flight, back at the airport at least three hours ahead.
+**In practice:** Louvre Abu Dhabi with an online ticket, closed on Mondays, open from 10am, in the evening until 6.30 or 8.30pm depending on the day · taxi from the Corniche to Saadiyat about 20 minutes · Liwa about 2 hours by car, Al Ain about an hour and a half to two · for the next flight, back at the airport at least three hours ahead.
 
 ### Day 5 — Doha, the fourteen-dollar stopover
 The block with the best value for money in the whole Gulf. **You book it on the Discover Qatar portal with the flight booking code**, not together with the ticket: it's the step almost nobody knows about.
@@ -77,7 +77,7 @@ In the evening at the **Souq Waqif**, restored but still a real market. The part
 
 We had dinner in the souq, with **karak chai** from the stalls: the spiced milk tea people drink here at all hours, costing a few cents.
 
-**In practice:** book the stopover on Discover Qatar with the flight booking code · metro, red line, from Hamad airport to the center in about 20 minutes · Museum of Islamic Art with a ticket for non-residents, closing day and hours to check on the Qatar Museums website · falcon hospital with no ticket, but limited opening hours: ask on site · Souq Waqif liveliest in the evening, karak chai for a few cents.
+**In practice:** book the stopover on Discover Qatar with the flight booking code · metro, red line, from Hamad airport to the center in about 20 minutes · Museum of Islamic Art with a non-resident ticket of about QAR 50, closed on Wednesdays, open 9am to 7pm (Thursday until 9pm, Friday from 1.30pm) · falcon hospital with no ticket, but limited opening hours: ask on site · Souq Waqif liveliest in the evening, karak chai for a few cents.
 
 ### Day 6 — Doha, the inland sea
 The day almost nobody does, and the reason to stretch the stopover by a day.

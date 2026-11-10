@@ -62,7 +62,7 @@ Al atardecer fuimos a las **Zattere**, la larga ribera asomada a la Giudecca, do
 
 La noche, de **cicchetti** entre los bacari de Dorsoduro y San Polo, de pie, pasando de una barra a otra. Es la forma correcta de cenar en Venecia, y cuesta una fracción de un restaurante.
 
-**En la práctica:** Accademia y Peggy Guggenheim con entradas propias, la Guggenheim tiene un día de cierre semanal a comprobar · Frari con entrada, o con el Chorus Pass · Scuola Grande di San Rocco con entrada, espejos a disposición · todo a pie entre Dorsoduro y San Polo · cicchetti en la barra, pocos euros cada uno con la ombra.
+**En la práctica:** Accademia y Peggy Guggenheim con entradas propias, la Guggenheim cierra los martes · Frari con entrada, o con el Chorus Pass · Scuola Grande di San Rocco con entrada, espejos a disposición · todo a pie entre Dorsoduro y San Polo · cicchetti en la barra, pocos euros cada uno con la ombra.
 
 ### Día 3 — Cannaregio, el Gueto y las islas
 La mañana en **Cannaregio**, el sestiere más habitado y el menos visitado de los seis. **El Gueto de Venecia es el primer gueto del mundo**: en 1516 la República obligó a los judíos a residir en esta zona cerrada con puertas vigiladas, y la palabra misma viene de aquí, de la fundición («geto») que había antes. Como no se podía construir a lo ancho, **se construyó a lo alto**: los edificios del Campo di Ghetto Nuovo tienen **plantas bajísimas y más niveles que cualquier otro edificio veneciano**, y se ve a simple vista. Hay cinco sinagogas históricas, visitables con acompañamiento a través del **Museo Judío**. **Los horarios y la disponibilidad cambian** y dependen de las festividades: conviene comprobarlos antes.

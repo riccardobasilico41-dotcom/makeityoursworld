@@ -20,7 +20,7 @@ Otto giorni, collegati in traghetto, bastano per vedere tutte e tre senza ridurl
 - **Minorca:** l'isola più piccola e meno sviluppata delle tre, con il Camí de Cavalls, l'antico sentiero costiero di circa 185 km che la gira tutta.
 - **Auto a noleggio:** consigliata su tutte e tre le isole; su Minorca è quasi indispensabile, perché i bus non arrivano alle calette più belle.
 - **Elettricità e valuta:** euro, prese di tipo C/F identiche all'Italia.
-- **Dall'aeroporto al centro:** **Palma (PMI)**: bus EMT **A1** per il centro e il porto, circa 15-20 minuti, ogni 15 minuti circa, circa 5 € in contanti e meno con carta contactless (tariffe in revisione per il 2027); taxi dalla fila ufficiale circa 20-25 €. **Ibiza (IBZ)**: bus per Eivissa (ex linea 10, dal 2026 rinumerata nelle linee AERO), circa 3,50 €, circa 20 minuti; taxi circa 20-25 €, con lunghe code d'estate. **Minorca, Mahón (MAH)**, da cui si riparte: bus linea 10 per la stazione degli autobus, circa 2,80 €, circa 15 minuti; taxi circa 15-20 € · d'estate meglio diffidare dei passaggi abusivi offerti fuori dagli arrivi.
+- **Dall'aeroporto al centro:** **Palma (PMI)**: bus EMT **A1** per il centro e il porto, circa 15-20 minuti, ogni 15 minuti circa, circa 5 € in contanti e circa 3 € con carta contactless (tariffe in revisione per il 2027); taxi dalla fila ufficiale circa 20-25 €. **Ibiza (IBZ)**: bus per Eivissa (ex linea 10, dal 2026 rinumerata nelle linee AERO), circa 3,50 €, circa 20 minuti; taxi circa 20-25 €, con lunghe code d'estate. **Minorca, Mahón (MAH)**, da cui si riparte: bus linea 10 per la stazione degli autobus, circa 2,80 €, circa 15 minuti; taxi circa 15-20 € · d'estate meglio diffidare dei passaggi abusivi offerti fuori dagli arrivi.
 
 ## Itinerario giorno per giorno
 
@@ -78,7 +78,7 @@ Ci siamo spostati a **Mahón (Maó)**, la capitale attuale di Minorca, con uno d
 
 Vale una visita uno dei siti megalitici talayotici della zona (per esempio Torre d'en Galmés), resti di una civiltà preistorica che esiste solo qui. Torre d'en Galmés è a metà strada tra le due città, con talaiot, case e una taula, il monumento a forma di T tipico di Minorca. *Il sito è all'aperto e senza ombra: la mattina presto o il tardo pomeriggio sono le ore migliori.* Il viaggio si chiude con il volo di rientro dall'aeroporto di Mahón, a pochi chilometri dal centro: con l'auto da restituire, conviene arrivare con un'ora di margine in più.
 
-**In pratica:** Ciutadella-Mahón circa 45 minuti in auto · Torre d'en Galmés biglietto di pochi euro, orari ridotti fuori stagione, da controllare sul sito di Menorca Talayótica · al porto di Mahón si assaggia il formaggio Mahón-Menorca DOP e il gin locale.
+**In pratica:** Ciutadella-Mahón circa 45 minuti in auto · Torre d'en Galmés biglietto circa 3 €, orari ridotti fuori stagione, da controllare sul sito di Menorca Talayótica · al porto di Mahón si assaggia il formaggio Mahón-Menorca DOP e il gin locale.
 
 ## Cosa vedere / cosa fare
 - **La Cattedrale di Palma** e il Barrio Gótico di Mallorca.

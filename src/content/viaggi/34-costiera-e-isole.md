@@ -109,7 +109,7 @@ La prima tappa è stata il **Castello Aragonese** a **Ischia Ponte**, su un isol
 
 Il pomeriggio l'abbiamo passato in un **parco termale** sul versante occidentale. Sono grandi giardini digradanti sul mare, con piscine a temperature diverse, dai quaranta gradi in su, saune naturali scavate nella roccia e accesso diretto al mare. Si entra a giornata e ci si passa il pomeriggio intero senza fare altro, che è proprio lo scopo.
 
-**In pratica:** traghetto da Capri, Napoli o Pozzuoli · Castello Aragonese con biglietto, ascensore o rampa · parchi termali con ingresso a giornata, da controllare stagione di apertura e prezzi · costume, ciabatte e asciugamano per le terme.
+**In pratica:** traghetto da Capri, Napoli o Pozzuoli · Castello Aragonese con biglietto, ascensore o rampa · parchi termali con ingresso a giornata, di solito aperti da aprile a fine ottobre (ai Giardini Poseidon circa 50 € nel 2026), da controllare prima · costume, ciabatte e asciugamano per le terme.
 
 ### Giorno 8 — Ischia: l'Epomeo, Sorgeto e La Mortella
 La mattina siamo saliti sul **Monte Epomeo**, il rilievo vulcanico al centro dell'isola, **789 metri**. Il percorso classico parte da **Fontana**: è una salita di circa un'ora e mezza, con l'ultimo tratto in un **corridoio scavato nel tufo verde** che finisce su una cima con l'eremo scavato nella roccia. Da lassù si vede **tutta Ischia insieme**, cosa che dall'isola non succede mai, e nelle giornate limpide si arriva a Capri e al Vesuvio.
@@ -118,7 +118,7 @@ In alternativa o in aggiunta ci sono i **Giardini La Mortella** a Forio: un giar
 
 Nel tardo pomeriggio siamo andati a **Sorgeto**. Si scende a una baia di sassi vicino a **Panza** per **oltre duecento scalini** (che poi vanno rifatti in salita, e non è uno scherzo) e si arriva in una caletta dove **sorgenti bollenti escono direttamente sotto i sassi e si mescolano al mare**. Si cercano le pozze naturali con la temperatura giusta, spostandosi di un metro tra l'acqua a quaranta gradi e quella fredda. **È gratis, è aperto sempre, e il momento migliore è il tramonto o la notte d'inverno.** Servono **scarpe di gomma**, perché vicino alle bocche i sassi scottano sul serio, e prudenza, perché in alcuni punti l'acqua è ustionante.
 
-**In pratica:** Epomeo da Fontana, circa un'ora e mezza di salita · Giardini La Mortella aperti solo in alcuni mesi e giorni, da controllare · Sorgeto gratuito, oltre duecento scalini, scarpe di gomma · bus dell'isola o taxi per spostarsi tra Forio e Panza.
+**In pratica:** Epomeo da Fontana, circa un'ora e mezza di salita · Giardini La Mortella aperti da inizio aprile a inizio novembre solo martedì, giovedì, sabato e domenica, 9-19, circa 15 € · Sorgeto gratuito, oltre duecento scalini, scarpe di gomma · bus dell'isola o taxi per spostarsi tra Forio e Panza.
 
 ### Giorno 9 — Procida e rientro
 L'ultimo traghetto è stato per **Procida**, la più piccola: **quattro chilometri quadrati**, la meno turistica delle tre e **Capitale italiana della cultura nel 2022**, cosa che le ha portato attenzione senza cambiarla troppo.
@@ -131,7 +131,7 @@ Procida si gira tutta in una giornata, ed è la nota giusta su cui chiudere: dop
 
 Nel pomeriggio siamo rientrati a Napoli.
 
-**In pratica:** traghetto da Ischia per Procida, pochi minuti · Corricella e Terra Murata a piedi o in microtaxi · Vivara ad accesso contingentato, regole da controllare prima · rientro a Napoli dal porto di Procida, verificare se arriva al Beverello o a Calata Porta di Massa.
+**In pratica:** traghetto da Ischia per Procida, pochi minuti · Corricella e Terra Murata a piedi o in microtaxi · Vivara ad accesso contingentato, solo con visita guidata prenotata online, gruppi fino a 25 persone dal martedì alla domenica, calendario da controllare prima · rientro a Napoli dal porto di Procida, verificare se arriva al Beverello o a Calata Porta di Massa.
 
 ## Come comprimere l'itinerario
 - **In 5 giorni:** solo Costiera (Giorni 1-4) più una giornata a Capri, dormendoci.

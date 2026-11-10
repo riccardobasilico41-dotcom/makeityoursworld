@@ -34,7 +34,7 @@ South India is almost another country. People speak different languages, eat off
 ### Day 1 — Arrival in Delhi and Old Delhi
 You almost always land at Indira Gandhi airport at night or early in the morning. To get to the center there's the prepaid taxi from the official counter, Uber or the hotel transfer: *anyone at the exit telling you your hotel is closed or full is just after a commission on another one*. After a few hours of rest, the afternoon is for **Old Delhi**, by metro to Chandni Chowk: the **Jama Masjid**, India's largest mosque, the alleys by cycle rickshaw, the Khari Baoli spice market and the fried parathas of Paranthe Wali Gali. Head back before dark.
 
-The Airport Express metro leaves from Terminal 3 and reaches New Delhi in about twenty minutes; from there the yellow line takes you to Chandni Chowk in a few minutes. At the **Jama Masjid** you can climb one of the minarets with a small ticket, to see the rooftops of the old city and the Red Fort from above. *The Red Fort is closed on Mondays: if you want to add it, check your arrival day.* To eat safely, pick the busiest stalls, where food turns over quickly, and drink only sealed bottled water.
+The Airport Express metro leaves from Terminal 3 and reaches New Delhi in about twenty minutes; from there the yellow line takes you to Chandni Chowk in a few minutes. At the **Jama Masjid** you can climb one of the minarets with a ticket of about 100 rupees, to see the rooftops of the old city and the Red Fort from above. *The Red Fort is closed on Mondays: if you want to add it, check your arrival day.* To eat safely, pick the busiest stalls, where food turns over quickly, and drink only sealed bottled water.
 
 **In practice:** Airport Express metro to New Delhi in about 20 minutes · Jama Masjid closed to tourists during prayer · cycle rickshaw 300-500 rupees a ride, agree on the price first.
 
@@ -132,7 +132,7 @@ At dawn, from Hosapete, it's twenty minutes by tuk-tuk to **Hampi**. The landsca
 
 The first day is for the **Sacred Center**: the **Virupaksha temple**, still active, with the temple elephant blessing the faithful, the **Hampi bazaar** with its stone colonnades and **Hemakuta hill**, dotted with temples. Watch the sunset from the top of **Matanga hill**, after a short but steep climb through the rocks, with the whole site below.
 
-**In practice:** Virupaksha small entrance ticket · no meat or alcohol in Hampi bazaar · rent a scooter or bicycle to get around (international license), or hire a tuk-tuk for the day.
+**In practice:** Virupaksha free entry, about 50 rupees for a camera · no meat or alcohol in Hampi bazaar · rent a scooter or bicycle to get around (international license), or hire a tuk-tuk for the day.
 
 ### Day 16 — Hampi: the Royal Center, the Vittala temple and the overnight train
 The **Royal Center** keeps the traces of the court: the **Zenana enclosure** with the Lotus Mahal, the domed **elephant stables**, the stepped tank, the Mahanavami platform. Then the **Vittala temple**, Hampi's most famous, with the **stone chariot** that appears on the 50-rupee note and the "musical" pillars that used to ring when struck. *Go early or late in the afternoon: at midday the granite gives off a heat that's hard to bear.*

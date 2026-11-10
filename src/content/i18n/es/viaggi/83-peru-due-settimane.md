@@ -124,7 +124,7 @@ Vuelo Cusco-Lima, alrededor de una hora y veinte, y conexión con el vuelo inter
 
 En Lima, con un vuelo nocturno, quedan algunas horas: el **Museo Larco**, la colección de arte precolombino más importante del país, está en Pueblo Libre, más cerca del aeropuerto que Miraflores, y se visita bien en un par de horas. *Para ir al aeropuerto conviene salir con mucha antelación: el tráfico de Lima en hora punta alarga mucho los tiempos.* Quien tenga más días no vuelve desde aquí: las dos mejores extensiones están más abajo, la Amazonía con el vuelo de Cusco a Puerto Maldonado y Huaraz con el bus nocturno desde Lima.
 
-**En la práctica:** vuelo Cusco-Lima alrededor de 1 hora y 20 · mejor un vuelo nacional de la mañana y unas horas de margen · Museo Larco entrada de pago, en Pueblo Libre · taxi de app al aeropuerto, saliendo pronto.
+**En la práctica:** vuelo Cusco-Lima alrededor de 1 hora y 20 · mejor un vuelo nacional de la mañana y unas horas de margen · Museo Larco entrada de unos 50 soles (45 online), en Pueblo Libre · taxi de app al aeropuerto, saliendo pronto.
 
 ## Qué ver / qué hacer
 - **Lima:** el ceviche a mediodía, el centro histórico, el Malecón de Miraflores y Barranco al atardecer. Quien tenga tiempo añade el Museo Larco, la colección de arte precolombino más importante del país.

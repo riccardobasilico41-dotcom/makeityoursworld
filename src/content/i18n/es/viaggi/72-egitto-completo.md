@@ -50,7 +50,7 @@ Los precios para turistas extranjeros han subido varias veces desde 2024. Las ci
 ### Cómo moverse
 - **Del aeropuerto al centro:** desde **El Cairo (CAI)** a downtown o a Guiza se tardan 45-75 minutos según el tráfico. **Uber** y **Careem** funcionan, con recogida en los aparcamientos que indica la app, unas 250-500 EGP hasta Guiza · el taxi o la limusina de los mostradores oficiales dentro de la terminal cuestan más pero tienen el precio fijado de antemano · también está el traslado del hotel. No hay metro al aeropuerto. En llegadas se acercan falsos «taxis oficiales»: se rechaza y se va al mostrador o a la app. En **Asuán (ASW)** y **Luxor (LXR)** el taxi se acuerda antes, en libras; desde **Marsa Alam (RMF)** y **Hurghada (HRG)** normalmente se viaja con el traslado del hotel o del centro de buceo.
 - **El Cairo:** Uber y Careem; conductor privado para Saqqara y Dahshur (30-50 $ al día).
-- **El Cairo-Siwa:** unos 750 km. En coche con conductor se va en dos días, pasando por Alejandría y El Alamein y durmiendo en Marsa Matruh (aproximadamente 250-400 $ por el coche en total, depende del operador). Existe también el autobús de West Delta desde El Cairo, unas 10-12 horas y unas pocas decenas de euros, pero viaja de noche: Viaggiare Sicuri recomienda no moverse por carretera de noche, así que aquí aconsejamos el coche con conductor, de día, a la ida y a la vuelta.
+- **El Cairo-Siwa:** unos 750 km. En coche con conductor se va en dos días, pasando por Alejandría y El Alamein y durmiendo en Marsa Matruh (aproximadamente 250-400 $ por el coche en total, depende del operador). Existe también el autobús de West Delta desde El Cairo, unas 10-12 horas y unos 300-500 EGP, pero viaja de noche: Viaggiare Sicuri recomienda no moverse por carretera de noche, así que aquí aconsejamos el coche con conductor, de día, a la ida y a la vuelta.
 - **El Cairo-Asuán:** vuelo de EgyptAir (1 h 25, aproximadamente 70-140 €) o bien **tren nocturno con camarotes cama** de Abela Trains desde las estaciones Cairo Upper Egypt (Bashtil) o Guiza (ya no desde Ramses), unas 13-14 horas, 110-125 $ por persona en camarote doble compartido y 150-170 $ en solitario, cena y desayuno incluidos, reserva en abelatrains.com o con su app. Los trenes diurnos ordinarios cuestan poquísimo pero son lentos y menos cómodos.
 - **Asuán-Abu Simbel:** 280 km, 3-3,5 horas de carretera. Los minivans salen a las 3-4 de la madrugada; ya no hay un convoy obligatorio como antes, pero hay controles. Alternativa: vuelo de EgyptAir de 45 minutos, útil solo si los horarios permiten ver el yacimiento con calma.
 - **Asuán-Luxor:** crucero de 3 noches (los barcos en sentido inverso hacen 4 noches), o **dahabiya** de vela de 4-5 noches, o 3 horas de coche para quien prefiere el hotel.
@@ -144,7 +144,7 @@ Otras cuatro horas hacia el suroeste, a través de un desierto llano y vacío, c
 Por la tarde nos orientamos en bicicleta entre los palmerales y al atardecer subimos a la **fortaleza de Shali**, el antiguo centro construido con kershef, una mezcla de barro y sal que las lluvias de 1926 deshicieron en parte. Desde arriba se ven los palmerales, los lagos salados y las montañas del desierto. Por la noche se entrega el pasaporte al operador para el permiso del desierto del día siguiente o del otro. *Siwa es una comunidad conservadora: alcohol casi imposible de encontrar, ropa que cubra también para los hombres, y a las mujeres del lugar no se las fotografía.*
 
 **En la práctica**
-- Bicicletas de alquiler: pocos euros al día
+- Bicicletas de alquiler: unos 50-100 EGP al día
 - Fortaleza de Shali: entrada económica
 - Efectivo para toda la estancia, los cajeros son pocos y a veces están vacíos
 
@@ -175,7 +175,7 @@ Quien llega a El Cairo con algo de luz puede dar una vuelta por **Heliópolis**,
 
 **En la práctica**
 - Coche: 8-10 horas con paradas
-- Autobús nocturno: existe (10-12 horas, unas decenas de euros), pero no se recomienda porque viaja de noche
+- Autobús nocturno: existe (10-12 horas, unos 300-500 EGP), pero no se recomienda porque viaja de noche
 - Hotel cerca del aeropuerto para el vuelo de mañana
 
 ### Día 10 — Vuelo a Asuán y falúa al atardecer

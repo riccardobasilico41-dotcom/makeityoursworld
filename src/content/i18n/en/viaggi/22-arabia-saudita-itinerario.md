@@ -83,7 +83,7 @@ The afternoon at the **Saudi National Museum**, the best in the country for unde
 
 Then **Masmak Fort**, the mud fortress wedged among the skyscrapers from which Ibn Saud's reconquest started in 1902. Between them there are little more than a hundred years, and it's the quickest way to understand how fast this country has changed. *The area around Masmak, with the souq and Deira square, is easy to walk in the evening, when it cools down.*
 
-**In practice:** National Museum with split hours and evening openings on some days, free or token admission, to check on visitsaudi.com · Masmak free, closed in the middle of the day and reopened in the afternoon · hours change during Ramadan · Uber or Careem for every trip.
+**In practice:** National Museum closed on Sundays, open 9am-7pm and 2pm-10pm on Thursdays and Fridays, free admission, hours to double-check on visitsaudi.com · Masmak free, closed in the middle of the day and reopened in the afternoon · hours change during Ramadan · Uber or Careem for every trip.
 
 ### Day 7 — Diriyah
 The morning is free in the city: the **Al-Zal souq**, the Deira district, the **Kingdom Centre** skybridge for the view from above. Souq Al-Zal is the traditional market for carpets, incense, clothes and antiques, and it's livelier after the afternoon prayer than early in the morning; the skybridge, the suspended bridge between the two tips of the tower, makes sense with a clear sky.
@@ -92,7 +92,7 @@ The **late afternoon at Diriyah**, which is when it should be seen. It's the ori
 
 In the last hour of light the color goes from ochre to burnt orange. At noon the mud reflects the light and the photos come out flat.
 
-**In practice:** At-Turaif with a ticket of about 100 riyals, available on diriyah.sa, with reduced evening rates reported at some times · evening hours until late, to check on the site · after the visit, dinner on Bujairi Terrace opposite, expensive but with a view of the walls · Diriyah is about half an hour from the center by Uber.
+**In practice:** At-Turaif with a ticket of about 100 riyals, available on diriyah.sa, with reduced evening rates reported at some times · open until midnight (from 2pm on Fridays), hours to double-check on the site · after the visit, dinner on Bujairi Terrace opposite, expensive but with a view of the walls · Diriyah is about half an hour from the center by Uber.
 
 ### Day 8 — The Edge of the World
 A day that's worth the trip as much as Hegra, and is its opposite: there everything is managed and limited, here there's nothing.

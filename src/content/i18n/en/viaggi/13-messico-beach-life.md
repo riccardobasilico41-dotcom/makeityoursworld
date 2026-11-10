@@ -112,7 +112,7 @@ We left very early, before dawn, to reach **Holbox** in time for the **3 Islas**
 
 Lunch and afternoon at **Punta Mosquito**. In the evening, the **bioluminescence**, one of the best moments of the trip. Watch out for the mosquitoes, though: better to bring plenty of repellent. Punta Mosquito is a sand spit east of the village, reachable on foot at low tide by wading through shallow water, and at sunset it fills with flamingos and herons. Bioluminescence is best on moonless nights, from June to October: kayak or walking tours are arranged in the village and change dates with the lunar calendar.
 
-**In practice:** Chiquilá-Holbox ferry about 200 pesos each way, frequent departures from morning to evening · paid guarded parking in Chiquilá · golf cart taxis in the village, price to agree · repellent and water shoes for Punta Mosquito.
+**In practice:** Chiquilá-Holbox ferry about 330 pesos each way, frequent departures from morning to evening · paid guarded parking in Chiquilá · golf cart taxis in the village, price to agree · repellent and water shoes for Punta Mosquito.
 
 ### Day 11 — Holbox: whale shark
 An 8-hour excursion to swim with the **whale shark**, the real must of the trip. It costs quite a bit, but it's worth every peso spent: if I had to recommend a single activity from the whole itinerary it would be this one, and it's probably the perfect conclusion to the tour. The boats leave the Holbox pier early in the morning and sail an hour or more offshore, where the whale sharks gather to feed on plankton. You go into the water in turns of two or three people with a guide, for a few minutes at a time, and the rules are strict: no touching, minimum distance, no flash. The tour usually ends with a snorkeling stop and a light lunch on board.

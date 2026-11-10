@@ -62,7 +62,7 @@ Al tramonto siamo andati sulle **Zattere**, la lunga riva affacciata sulla Giude
 
 La sera a **cicchetti** tra i bacari di Dorsoduro e San Polo, in piedi, spostandoci da un banco all'altro. È il modo giusto di cenare a Venezia, e costa una frazione di un ristorante.
 
-**In pratica:** Accademia e Peggy Guggenheim con biglietti propri, la Guggenheim ha un giorno di chiusura settimanale da controllare · Frari con biglietto d'ingresso, oppure con il Chorus Pass · Scuola Grande di San Rocco con biglietto, specchi a disposizione · tutto a piedi tra Dorsoduro e San Polo · cicchetti al banco, pochi euro l'uno con l'ombra.
+**In pratica:** Accademia e Peggy Guggenheim con biglietti propri, la Guggenheim chiude il martedì · Frari con biglietto d'ingresso, oppure con il Chorus Pass · Scuola Grande di San Rocco con biglietto, specchi a disposizione · tutto a piedi tra Dorsoduro e San Polo · cicchetti al banco, pochi euro l'uno con l'ombra.
 
 ### Giorno 3 — Cannaregio, il Ghetto e le isole
 La mattina in **Cannaregio**, il sestiere più abitato e il meno visitato dei sei. **Il Ghetto di Venezia è il primo ghetto del mondo**: nel 1516 la Repubblica obbligò gli ebrei a risiedere in quest'area chiusa da cancelli sorvegliati, e la parola stessa viene da qui, dalla fonderia ("geto") che c'era prima. Siccome non si poteva costruire in larghezza, **si è costruito in altezza**: i palazzi del Campo di Ghetto Nuovo hanno **piani bassissimi e più livelli di qualunque altro edificio veneziano**, e si vede a occhio nudo. Ci sono cinque sinagoghe storiche, visitabili con accompagnamento tramite il **Museo Ebraico**. **Orari e disponibilità cambiano** e dipendono dalle festività: conviene controllarli prima.

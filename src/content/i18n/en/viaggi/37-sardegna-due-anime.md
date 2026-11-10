@@ -170,7 +170,7 @@ The afternoon at the **Poetto**, the eight-kilometer urban beach, and at the **M
 
 A last dinner in town, and a last mirto.
 
-**In practice:** Castello is reached on foot uphill or with the city's public lifts · National Archaeological Museum in the Cittadella dei Musei, check the weekly closing day · the Poetto is 20-30 minutes by bus from the center · the Molentargius flamingos are best seen early in the morning or at sunset.
+**In practice:** Castello is reached on foot uphill or with the city's public lifts · National Archaeological Museum in the Cittadella dei Musei, closed on Tuesdays, open 8.30am-7.30pm · the Poetto is 20-30 minutes by bus from the center · the Molentargius flamingos are best seen early in the morning or at sunset.
 
 ### Day 14 — Departure
 The last morning can be spent in Cagliari or on the **Costa del Sud**, toward the airport: **Chia** with its dunes and Spanish tower, **Tuerredda** (capped in season) and the Phoenician-Roman site of **Nora** on the point, with the theater facing the sea and part of the city submerged a few meters deep. Nora is visited in guided slots and takes about an hour; Chia is about twenty minutes further south. *With an early-afternoon flight pick a single stop, and leave the Costa del Sud to those leaving in the evening.*

@@ -170,7 +170,7 @@ La tarde en el **Poetto**, la playa urbana de ocho kilómetros de largo, y en la
 
 Última cena en la ciudad, y último mirto.
 
-**En la práctica:** al Castello se sube a pie o con los ascensores públicos de la ciudad · Museo Arqueológico Nacional en la Cittadella dei Musei, comprobar el día de cierre semanal · al Poetto se llega en autobús desde el centro en unos 20-30 minutos · los flamencos de Molentargius se ven mejor a primera hora de la mañana o al atardecer.
+**En la práctica:** al Castello se sube a pie o con los ascensores públicos de la ciudad · Museo Arqueológico Nacional en la Cittadella dei Musei, cerrado los martes, abierto de 8.30 a 19.30 · al Poetto se llega en autobús desde el centro en unos 20-30 minutos · los flamencos de Molentargius se ven mejor a primera hora de la mañana o al atardecer.
 
 ### Día 14 — Salida
 La última mañana se puede pasar en Cagliari o en la **Costa del Sud**, camino del aeropuerto: **Chia** con las dunas y la torre española, **Tuerredda** (con aforo en temporada) y el yacimiento fenicio-romano de **Nora** en la punta, con el teatro frente al mar y parte de la ciudad sumergida a pocos metros de profundidad. Nora se visita en turnos guiados y requiere alrededor de una hora; Chia está a una veintena de minutos más al sur. *Con un vuelo a primera hora de la tarde conviene elegir una sola parada, y dejar la Costa del Sud a quien sale por la noche.*

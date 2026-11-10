@@ -45,7 +45,7 @@ A full day in the delta: the flamingos at Pont de Gau, a horseback ride and Sain
 
 Then the **horseback ride**, on the white horses of the Camargue, through marshes and beaches: many stables along the road to Saintes-Maries offer rides of an hour or two, even for people who have never been in the saddle. The afternoon is for **Saintes-Maries-de-la-Mer**, with its fortified church: from the roof you see the whole delta and the sea. Toward evening you go back to the lagoons, when the light drops and the birds are more active.
 
-**In practice:** Pont de Gau is open every day, with hours and prices to check on the park's website · for the ride, choose a stable that goes out in small groups and book the day before · in late May and in October Saintes-Maries hosts large pilgrimages: the village fills up.
+**In practice:** Pont de Gau is open every day, entry about €8.50, shorter winter hours to check on the park's website · for the ride, choose a stable that goes out in small groups and book the day before · in late May and in October Saintes-Maries hosts large pilgrimages: the village fills up.
 
 ### Day 5 — Aigues-Mortes and the Alpilles
 The walls of **Aigues-Mortes** and the pink salt pans, then the Alpilles and **Saint-Rémy-de-Provence**. **Aigues-Mortes** is a thirteenth-century fortified town, built by Louis IX to give France a port on the Mediterranean: you climb onto the walls and walk the full circuit of the ramparts, with the **salt pans** stretching toward the sea.

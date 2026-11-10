@@ -82,7 +82,7 @@ Nel primo pomeriggio abbiamo raggiunto il **Kiyomizudera**, uno dei templi più 
 
 Abbiamo cenato da **Menbaka Fire Ramen**, dove il ramen arriva con uno spettacolo di fuoco vero: va prenotato con anticipo, i posti finiscono in fretta. Per chi vuole fare tardi c'è la zona di Pontocho, con il **World Club** o **The Common One**. Per tre notti abbiamo dormito all'Agora Kyoto Shijo.
 
-**In pratica:** Shinkansen Hikari Tokyo-Kyoto circa 2 ore e 40, coperto dal JR Pass · Kiyomizudera circa 500 yen, e la salita dalle viuzze di Higashiyama è affollata dal mattino · Miyako Odori circa 6.000 yen, solo in aprile, date da controllare · Menbaka Fire Ramen da prenotare con largo anticipo.
+**In pratica:** Shinkansen Hikari Tokyo-Kyoto circa 2 ore e 40, coperto dal JR Pass · Kiyomizudera circa 500 yen, e la salita dalle viuzze di Higashiyama è affollata dal mattino · Miyako Odori circa 6.000 yen, solo in aprile, per tutto il mese, tre spettacoli al giorno · Menbaka Fire Ramen da prenotare con largo anticipo.
 
 ### Giorno 5 (10.04) — Kyoto: Arashiyama, la foresta di bambù e Gion
 La mattina è cominciata sul **Sentiero del Filosofo**, lungo il canale tra i ciliegi, chiamato così per Nishida Kitaro, che lo percorreva ogni giorno meditando. Poi un walking tour di **Gion**, il quartiere delle geiko: in alcune vie le foto ai turisti troppo invadenti sono vietate, ci sono i cartelli e le multe sono salate.
@@ -104,7 +104,7 @@ Dopo pranzo e un po' di tempo libero, il **Kinkaku-ji**, il Tempio d'Oro, aperto
 
 La sera c'è la **cerimonia del tè** con Camellia, nel cuore di Gion: 2.700 yen a persona più 3.000 per il kimono, da prenotare via email con largo anticipo perché i posti sono pochi. Per cena valgono gli indirizzi del giorno prima; l'ultima notte l'abbiamo passata all'Agora Kyoto Shijo.
 
-**In pratica:** Fushimi Inari gratuito e sempre aperto, con la stazione JR Inari proprio davanti, sulla linea coperta dal JR Pass · Castello Nijo circa 800 yen (circa 1.300 con il palazzo Ninomaru) e Kinkaku-ji circa 500 yen; il castello chiude alcuni giorni in inverno e in estate, da controllare · cerimonia del tè con Camellia 2.700 yen, kimono 3.000 yen, prenotazione via email.
+**In pratica:** Fushimi Inari gratuito e sempre aperto, con la stazione JR Inari proprio davanti, sulla linea coperta dal JR Pass · Castello Nijo circa 800 yen (circa 1.300 con il palazzo Ninomaru) e Kinkaku-ji circa 500 yen; il palazzo Ninomaru chiude i martedì di gennaio, luglio, agosto e dicembre, il castello dal 29 al 31 dicembre · cerimonia del tè con Camellia 2.700 yen, kimono 3.000 yen, prenotazione via email.
 
 ### Giorno 7 (12.04) — Kyoto-Hiroshima-Miyajima
 Il trucco di questa giornata si fa la sera prima: spedire i bagagli pesanti a Osaka con il takkyubin, dall'hotel o da un 7-Eleven, per viaggiare leggeri per due giorni. Siamo usciti presto e lo Shinkansen Hikari ci ha portato a Hiroshima in circa due ore.
@@ -181,7 +181,7 @@ pena affrontarlo con un metodo:
   conto complicato. Attenzione: la formula vale per tutto il tavolo, non
   si può scegliere solo per alcuni commensali.
 - **Il coperto**: molti ristoranti applicano un piccolo «otoshi» (un assaggino
-  d'apertura non richiesto, una specie di coperto) da pochi euro a persona: è
+  d'apertura non richiesto, una specie di coperto) da circa 300-500 yen a persona: è
   normale, non è una fregatura.
 - **Il conto non include mai le tasse**: va aggiunto il 10% al totale.
 - **Consigli extra dalla ricerca**, per chi vuole allargare la lista oltre ai

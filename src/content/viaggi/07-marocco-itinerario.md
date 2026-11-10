@@ -34,7 +34,7 @@ Un'altra ora di strada e siamo arrivati ad **Aït Benhaddou**, lo ksar patrimoni
 
 *Nota pratica per il giorno dopo: caricare i power bank prima della notte nel deserto e chiedere alla guida dove fermarsi per alcolici e snack da portare a Merzouga, perché nel deserto le scorte sono poche.*
 
-**In pratica:** Marrakech-Telouet circa due ore e mezza sulla strada del passo del Tizi n'Tichka, con molte curve: chi soffre l'auto prende qualcosa prima di partire · a Telouet si paga un piccolo biglietto d'ingresso · nello ksar di Aït Benhaddou si entra liberamente, alcune case chiedono qualche dirham per salire sulle terrazze · la luce migliore sullo ksar è al tramonto, guardandolo dalla riva opposta del fiume.
+**In pratica:** Marrakech-Telouet circa due ore e mezza sulla strada del passo del Tizi n'Tichka, con molte curve: chi soffre l'auto prende qualcosa prima di partire · a Telouet si paga un piccolo biglietto d'ingresso, circa 20-50 MAD in contanti · nello ksar di Aït Benhaddou si entra liberamente, alcune case chiedono qualche dirham per salire sulle terrazze · la luce migliore sullo ksar è al tramonto, guardandolo dalla riva opposta del fiume.
 
 ### Giorno 3 — Merzouga, l'ingresso nel Sahara
 Presto in strada: 200 km, tre ore, fino alle **Gole di Todra**. Bastano trenta minuti per camminare tra pareti di roccia che si stringono fino a pochi metri, tra le più belle del Marocco. Abbiamo pranzato al sacco lungo il tragitto.

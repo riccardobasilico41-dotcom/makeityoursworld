@@ -45,7 +45,7 @@ Un día entero en el delta: los flamencos en Pont de Gau, un paseo a caballo y S
 
 Luego el **paseo a caballo**, con los caballos blancos de la Camarga, entre marismas y playas: muchas cuadras en la carretera de Saintes-Maries ofrecen salidas de una o dos horas, incluso para quien nunca ha montado. La tarde es para **Saintes-Maries-de-la-Mer**, con su iglesia fortificada: desde el tejado se ve todo el delta y el mar. Al atardecer se vuelve a las lagunas, cuando baja la luz y las aves se mueven más.
 
-**En la práctica:** Pont de Gau abre todos los días, con horarios y tarifas que hay que consultar en la web del parque · para el caballo conviene elegir una cuadra con salidas en grupos pequeños y reservar el día antes · a finales de mayo y en octubre Saintes-Maries acoge grandes peregrinaciones: el pueblo se llena.
+**En la práctica:** Pont de Gau abre todos los días, entrada de unos 8,50 €, horario reducido en invierno que hay que consultar en la web del parque · para el caballo conviene elegir una cuadra con salidas en grupos pequeños y reservar el día antes · a finales de mayo y en octubre Saintes-Maries acoge grandes peregrinaciones: el pueblo se llena.
 
 ### Día 5 — Aigues-Mortes y los Alpilles
 Las murallas de **Aigues-Mortes** y las salinas rosas, y luego los Alpilles y **Saint-Rémy-de-Provence**. **Aigues-Mortes** es una ciudad amurallada del siglo XIII, construida por Luis IX para tener un puerto en el Mediterráneo: se sube a las murallas y se recorre todo el circuito de los baluartes, con las **salinas** que se extienden hacia el mar.

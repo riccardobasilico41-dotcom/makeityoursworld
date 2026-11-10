@@ -41,7 +41,7 @@ Abbiamo dedicato la giornata al cuore della Città Vecchia. La **Cattedrale di V
 
 Nel pomeriggio abbiamo visitato il **Cortile Universitario** dell'Università di Vilnius, fondata nel 1579 e tra le più antiche dell'Europa centro-orientale, con tredici cortili collegati tra loro. Abbiamo chiuso la giornata tra la Chiesa di Sant'Anna, gotica in mattoni rossi, e la vicina Chiesa di San Francesco e San Bernardino, uno degli scorci gotici più fotografati della città.
 
-**In pratica:** Torre di Gediminas circa 8 €, funicolare 2-3 € · Palazzo dei Granduchi di solito chiuso il lunedì · Cortile Universitario con biglietto di pochi euro · Cattedrale gratuita, cripte solo con visita guidata.
+**In pratica:** Torre di Gediminas circa 8 €, funicolare 2-3 € · Palazzo dei Granduchi di solito chiuso il lunedì · Cortile Universitario aperto dal lunedì al sabato dalle 9 alle 18, con biglietto di pochi euro · Cattedrale gratuita, cripte solo con visita guidata.
 
 ### Giorno 3 — Užupis e il castello dell'isola di Trakai
 La mattina siamo stati a **Užupis**, il quartiere che dal 1997 si è autoproclamato "Repubblica Indipendente di Užupis", con bandiera, presidente onorario e una costituzione di 41 articoli, spesso surreali o poetici, incisa su targhe in decine di lingue lungo il **Muro della Costituzione**, in via Paupio. Abbiamo passeggiato tra le gallerie d'arte e i piccoli laboratori del quartiere, che in epoca sovietica era la zona più degradata di Vilnius e oggi è il rione più bohémien della città.
@@ -62,7 +62,7 @@ La mattina l'abbiamo passata nel **quartiere Art Nouveau**, concentrato lungo **
 
 Nel pomeriggio siamo andati al **Mercato Centrale** (Centrāltirgus): cinque padiglioni ricavati da hangar tedeschi per dirigibili della Prima guerra mondiale. Aperto nel 1930, allora era il più grande e moderno d'Europa; oggi lo frequentano ancora ogni giorno circa 80.000 persone e fa parte del sito UNESCO insieme alla Città Vecchia. Abbiamo girato tra i banchi di pesce affumicato del Baltico, formaggi e pane di segale nero (rupjmaize), fermandoci ad assaggiare i prodotti locali. La sera siamo saliti sulla torre della **Chiesa di San Pietro** (72 metri, biglietto 9€, in vendita fino alle 17) per il panorama sulla Città Vecchia e sul fiume Daugava al tramonto.
 
-**In pratica:** Museo dell'Art Nouveau con biglietto di pochi euro · Mercato Centrale aperto tutti i giorni, meglio al mattino · torre di San Pietro circa 9 €, biglietti fino alle 17.
+**In pratica:** Museo dell'Art Nouveau con biglietto di pochi euro, aperto dalle 10 alle 18, chiuso il lunedì · Mercato Centrale aperto tutti i giorni, meglio al mattino · torre di San Pietro circa 9 €, biglietti fino alle 17.
 
 ### Giorno 6 — Jūrmala e l'ultimo giro per Riga
 La mattina siamo andati a **Jūrmala**, la città balneare storica della Lettonia, a circa 20 km da Riga: treno regionale dalla stazione centrale, circa 30 minuti, con partenze almeno ogni mezz'ora. È una striscia di circa 32 km di sabbia bianca lungo il Golfo di Riga, meta di villeggiatura dall'epoca zarista e poi dell'élite sovietica, con centinaia di ville di legno in stile Art Nouveau e Art Déco nelle vie residenziali di Majori e Dzintari. Si passeggia sulla spiaggia partendo da Majori, con un bagno se la stagione lo permette (giugno-agosto), e poi tra le vie interne, per guardare da fuori le ville decorate.

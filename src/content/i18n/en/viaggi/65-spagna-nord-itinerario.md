@@ -22,7 +22,7 @@ The common thread, besides the Atlantic coast, is food: the Basque pintxo in San
 - **Santiago, the Compostela:** to get the official pilgrimage certificate you must have walked at least the last 100 km (200 by bike), with your credentials stamped along the way.
 - **Car:** essential for this itinerary, which follows the coast for hundreds of km, touching small towns poorly connected by public transport.
 - **Electricity and currency:** euro, type C/F sockets identical to Italy.
-- **From the airport to the centre:** on the way out you usually land at **Bilbao (BIO)**: the direct Pesa bus to San Sebastián takes about 1h15 and costs about €14-17, roughly hourly, ticket from the machine or online; the Bizkaibus A3247 reaches central Bilbao in about 20 minutes, about €5 (less with the Barik card); a taxi to San Sebastián costs about €170-190 · closer to San Sebastián are the small airports of **Hondarribia (EAS)** and **Biarritz (BIQ)** · on the way back from **Santiago (SCQ)** the bus to Praza de Galicia and the station takes about 20 minutes, about €1, a taxi about €22 · the typical mistake is a one-way Bilbao-Santiago rental without checking the drop-off fee.
+- **From the airport to the centre:** on the way out you usually land at **Bilbao (BIO)**: the direct Pesa bus to San Sebastián takes about 1h15 and costs about €14-17, roughly hourly, ticket from the machine or online; the Bizkaibus A3247 reaches central Bilbao in about 20 minutes, about €5 (less with the Barik card); a taxi to San Sebastián costs about €170-190 · closer to San Sebastián are the small airports of **Hondarribia (EAS)** and **Biarritz (BIQ)** · on the way back from **Santiago (SCQ)** the bus to Praza de Galicia and the station takes about 20 minutes, about €1, a taxi about €23 at a fixed fare · the typical mistake is a one-way Bilbao-Santiago rental without checking the drop-off fee.
 
 ## Itinerario giorno per giorno
 
@@ -65,7 +65,7 @@ By car toward **Cantabria** (about 1h30-2h to Santander), with a stop at **Santi
 
 The Altamira museum is a couple of kilometres from the village. The Neocueva reproduces the ceiling of painted bison using the same techniques as in the Palaeolithic, and the museum explains who the people who painted them were. The afternoon in **Santander**, with the seafront and the Magdalena peninsula: the palace that was the kings' summer residence, the park around it and the beaches of **El Sardinero**. On the harbour stands the **Centro Botín**, Renzo Piano's art center suspended over the water. *The Altamira museum closes on Mondays: if day 5 falls on a Monday, swap the stops and see Santander first.*
 
-**In practice:** Altamira museum and Neocueva closed on Mondays, entry of a few euros, free for some categories · Santillana is car-free in the center, parking at the entrance to the village · in Santander, sleep near El Sardinero or in the center.
+**In practice:** Altamira museum and Neocueva closed on Mondays, entry about 3 euros, free for some categories · Santillana is car-free in the center, parking at the entrance to the village · in Santander, sleep near El Sardinero or in the center.
 
 ### Day 6 — Cantabria and Asturias: the Costa Verde
 We continued along the Asturian **Costa Verde**, among cliffs, beaches and small fishing harbours. Leave Santander early and follow the Cantabrian motorway, turning off toward the sea when you like: **Comillas**, with Gaudí's Capricho, and **San Vicente de la Barquera** are short stops along the way. In Asturias the first stop is **Llanes**, with its medieval center on the sea.

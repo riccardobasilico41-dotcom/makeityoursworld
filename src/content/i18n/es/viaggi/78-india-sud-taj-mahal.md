@@ -34,7 +34,7 @@ El sur de India es casi otro país. Se hablan otras lenguas, se come sobre hojas
 ### Día 1 — Llegada a Delhi y la Vieja Delhi
 Al aeropuerto Indira Gandhi se llega casi siempre de noche o de madrugada. Para el centro están el taxi de prepago del mostrador oficial, Uber o el traslado del hotel: *quien a la salida dice que tu hotel está cerrado o lleno solo busca una comisión por otro*. Tras unas horas de descanso, la tarde es para la **Vieja Delhi**, en metro hasta Chandni Chowk: la **Jama Masjid**, la mayor mezquita de India, los callejones en ciclo-rickshaw, el mercado de especias de Khari Baoli y las parathas fritas de Paranthe Wali Gali. Conviene volver antes de que anochezca.
 
-El metro Airport Express sale de la Terminal 3 y llega a Nueva Delhi en unos veinte minutos; desde allí la línea amarilla lleva a Chandni Chowk en pocos minutos. En la **Jama Masjid** se puede subir a uno de los minaretes con una pequeña entrada, para ver desde arriba los tejados de la ciudad vieja y el Fuerte Rojo. *El Fuerte Rojo cierra los lunes: quien quiera añadirlo, que compruebe el día de llegada.* Para comer con seguridad conviene elegir los puestos más concurridos, donde la comida se renueva rápido, y beber solo agua embotellada y precintada.
+El metro Airport Express sale de la Terminal 3 y llega a Nueva Delhi en unos veinte minutos; desde allí la línea amarilla lleva a Chandni Chowk en pocos minutos. En la **Jama Masjid** se puede subir a uno de los minaretes con una entrada de unas 100 rupias, para ver desde arriba los tejados de la ciudad vieja y el Fuerte Rojo. *El Fuerte Rojo cierra los lunes: quien quiera añadirlo, que compruebe el día de llegada.* Para comer con seguridad conviene elegir los puestos más concurridos, donde la comida se renueva rápido, y beber solo agua embotellada y precintada.
 
 **En la práctica:** metro Airport Express hasta Nueva Delhi en unos 20 minutos · Jama Masjid cerrada a los turistas durante la oración · ciclo-rickshaw 300-500 rupias por trayecto, precio que hay que fijar antes.
 
@@ -132,7 +132,7 @@ Al amanecer, desde Hosapete, son veinte minutos de tuk-tuk hasta **Hampi**. El p
 
 El primer día es para el **Centro sagrado**: el **templo de Virupaksha**, todavía en uso, con el elefante del templo que bendice a los fieles, el **bazar de Hampi** con sus soportales de piedra y la colina de **Hemakuta**, salpicada de templos. El atardecer se ve desde lo alto de la **colina de Matanga**, tras una subida corta pero empinada entre las rocas, con todo el sitio a los pies.
 
-**En la práctica:** Virupaksha con una pequeña entrada · en el bazar de Hampi no hay carne ni alcohol · moto o bicicleta de alquiler para moverse (permiso internacional), o tuk-tuk por días.
+**En la práctica:** Virupaksha con entrada gratuita, unas 50 rupias por la cámara · en el bazar de Hampi no hay carne ni alcohol · moto o bicicleta de alquiler para moverse (permiso internacional), o tuk-tuk por días.
 
 ### Día 16 — Hampi: el Centro real, el templo de Vittala y el tren nocturno
 El **Centro real** conserva las huellas de la corte: el **recinto de las reinas** con el Lotus Mahal, los **establos de los elefantes** con cúpulas, el estanque escalonado, la plataforma Mahanavami. Luego el **templo de Vittala**, el más famoso de Hampi, con el **carro de piedra** que aparece en el billete de 50 rupias y las columnas «musicales» que antaño resonaban al golpearlas. *Se llega temprano o a última hora de la tarde: a mediodía el granito devuelve un calor difícil de aguantar.*

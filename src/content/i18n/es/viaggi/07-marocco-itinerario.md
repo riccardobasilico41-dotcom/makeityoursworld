@@ -34,7 +34,7 @@ Otra hora de carretera y llegamos a **Aït Benhaddou**, el ksar Patrimonio de la
 
 *Nota práctica para el día siguiente: cargar los power banks antes de la noche en el desierto y preguntar al guía dónde parar para comprar alcohol y snacks para llevar a Merzouga, porque en el desierto hay pocas existencias.*
 
-**En la práctica:** Marrakech-Telouet unas dos horas y media por la carretera del puerto de Tizi n'Tichka, con muchas curvas: quien se marea toma algo antes de salir · en Telouet se paga una pequeña entrada · en el ksar de Aït Benhaddou se entra libremente, algunas casas piden unos dírhams para subir a las terrazas · la mejor luz sobre el ksar es al atardecer, mirándolo desde la orilla opuesta del río.
+**En la práctica:** Marrakech-Telouet unas dos horas y media por la carretera del puerto de Tizi n'Tichka, con muchas curvas: quien se marea toma algo antes de salir · en Telouet se paga una pequeña entrada, unos 20-50 MAD en efectivo · en el ksar de Aït Benhaddou se entra libremente, algunas casas piden unos dírhams para subir a las terrazas · la mejor luz sobre el ksar es al atardecer, mirándolo desde la orilla opuesta del río.
 
 ### Día 3 — Merzouga, la entrada al Sáhara
 Temprano en carretera: 200 km, tres horas, hasta las **Gargantas del Todra**. Bastan treinta minutos para caminar entre paredes de roca que se estrechan hasta quedar a pocos metros, de las más bonitas de Marruecos. Comimos de picnic por el camino.

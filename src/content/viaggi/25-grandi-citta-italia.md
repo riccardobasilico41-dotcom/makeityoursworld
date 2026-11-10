@@ -99,7 +99,7 @@ A cena, una trattoria dell'Oltrarno o di Sant'Ambrogio, con la bistecca: è un t
 
 Il Museo dell'Opera è compreso nel biglietto della cupola, quindi non costa nulla in più: conviene andarci al mattino, all'apertura, e restare un paio d'ore. La **Cappella Brancacci**, in Oltrarno, conserva gli affreschi di Masaccio con la Cacciata dal Paradiso e si visita a piccoli gruppi, su prenotazione. Le **Cappelle Medicee**, dietro San Lorenzo, hanno la sagrestia nuova con le tombe di Michelangelo. Nel pomeriggio si può passare per il **mercato di Sant'Ambrogio**, frequentato soprattutto dai fiorentini. *La bistecca si paga a peso e un taglio intero pesa almeno un chilo: conviene ordinarla in due o in tre.*
 
-**In pratica:** Cappella Brancacci e Cappelle Medicee con biglietti separati e giorni di chiusura propri, da verificare · mercato di Sant'Ambrogio chiuso la domenica · per la bistecca il prezzo è al chilo, chiedere il peso prima che la taglino
+**In pratica:** Cappella Brancacci (circa 15 euro, su prenotazione, chiusa il martedì) e Cappelle Medicee (circa 11 euro, chiuse il lunedì) con biglietti separati · mercato di Sant'Ambrogio chiuso la domenica · per la bistecca il prezzo è al chilo, chiedere il peso prima che la taglino
 
 ### Giorno 8 — Alta velocità per Venezia
 **Firenze-Venezia in 2h**, con la stazione di Santa Lucia **dentro** la città.
@@ -121,7 +121,7 @@ Al tramonto siamo saliti sul **campanile di San Giorgio Maggiore**, che ha la vi
 
 Dopo il mercato si attraversa il **ponte di Rialto** ancora vuoto e si arriva a San Marco prima dell'apertura della basilica, quando la piazza è libera. Per la **basilica** conviene prenotare l'ingresso, che costa poco, e aggiungere il museo con i cavalli di bronzo e la loggia sulla piazza. **Palazzo Ducale** richiede almeno due ore, con le prigioni e il ponte dei Sospiri visto dall'interno. La Scuola Grande di San Rocco, nel sestiere di San Polo, ha specchi a disposizione per guardare i soffitti senza torcersi il collo. Per San Giorgio si prende il vaporetto da San Zaccaria. *A San Marco non ci si siede sui gradini e non si mangia: ci sono multe.*
 
-**In pratica:** Palazzo Ducale intorno ai 30 euro, meno comprando online in anticipo · basilica di San Marco con biglietto di circa 10 euro, nominativo, e prenotazione consigliata · campanile di San Giorgio con ascensore, biglietto di pochi euro
+**In pratica:** Palazzo Ducale intorno ai 30 euro, meno comprando online in anticipo · basilica di San Marco con biglietto di circa 10 euro, nominativo, e prenotazione consigliata · campanile di San Giorgio con ascensore, biglietto di circa 8 euro
 
 ### Giorno 10 — La laguna
 È la giornata che quasi nessuno fa. Siamo andati a **Torcello**, a quaranta minuti di vaporetto, con la basilica del VII secolo e il Giudizio Universale a mosaico che copre un'intera parete. Venezia è cominciata lì, prima che esistesse Venezia, e ci sono venti persone.

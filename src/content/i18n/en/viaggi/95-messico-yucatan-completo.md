@@ -122,7 +122,7 @@ You head back towards Escárcega and continue east on Federal Highway 186 to **X
 
 **Becán**, surrounded by a moat, is the largest of the nearby sites, and in the late afternoon it's almost deserted. You sleep in Xpujil or at the eco-lodges along the road to the reserve. Fill up the tank and get cash before entering the reserve. *Xpujil has few ATMs and they don't always work: better to arrive with cash for two days already.*
 
-**In practice:** Palenque-Xpujil about 5-6 hours by car · fuel at Escárcega · Balam Ku, Becán and Xpuhil with INAH tickets of a few tens of pesos, closing at 5 pm with last entry at 4 pm · eat early: places in Xpujil close early.
+**In practice:** Palenque-Xpujil about 5-6 hours by car · fuel at Escárcega · Balam Ku, Becán and Xpuhil with INAH tickets of about 145-155 MXN each for foreigners, closing at 5 pm with last entry at 4 pm · eat early: places in Xpujil close early.
 
 ### Day 13 — Calakmul, in the Biosphere Reserve
 **Calakmul** was one of the two great powers of the Classic Maya world, rival of Tikal. Today it is a vast site buried in the forest of the Biosphere Reserve, a UNESCO World Heritage Site for both culture and nature. From the tallest pyramids you see only forest to the horizon. Along the trails you may meet monkeys, ocellated turkeys and toucans.

@@ -106,7 +106,7 @@ A day by boat toward the south of Sipora. In Katiet Bay there's **Lance's Left**
 
 The boat leaves early, because the first hours have the least wind and the cleanest waves, and you also get there before the other boats. The spot is chosen that morning with the boatman or your accommodation, based on swell direction and tide: at low tide the reef is just centimetres below. *On these reefs you need booties, or at least a lot of care when getting out, and you never go in alone.* Non-surfers can come too: snorkel in calm water or stay on the boat and watch. You head back in the early afternoon, when the wind picks up.
 
-**In practice:** day boat to arrange the evening before with your accommodation, price to agree · surf tax to pay beforehand, ask for the amount locally · reef booties and a kit for cuts · water and food on board.
+**In practice:** day boat to arrange the evening before with your accommodation, price to agree · surf tax to pay beforehand, usually about IDR 1,000,000 per surfer for up to 15 days (some resorts quote 2,000,000), confirm the amount locally · reef booties and a kit for cuts · water and food on board.
 
 ### Day 12 — Sipora, slow or buffer day
 A day kept free on purpose. If the sea is good you surf again or look for another beach. If the weather knocked out a boat in the previous days, this is where you catch up. On Sipora "The Sound of Love Mentawai" is under construction, chef Max Mariola's project with a restaurant on the beach: construction announced from November 2026.

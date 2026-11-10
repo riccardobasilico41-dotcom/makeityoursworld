@@ -45,7 +45,7 @@ Pasamos un día en **Estrasburgo**, entre la catedral, el barrio de la Petite Fr
 
 Quien tenga piernas sube los unos 330 escalones hasta la plataforma, desde donde se ve toda la ciudad. Por la tarde la **Petite France**, el antiguo barrio de molineros y pescadores, con los canales del Ill, los Ponts Couverts y la presa Vauban, desde la que se ve el barrio desde arriba. Un paseo en barco por los canales llega hasta el barrio europeo, con el Parlamento Europeo y el Consejo de Europa. Por la noche se vuelve en tren a Colmar, o se duerme en Estrasburgo.
 
-**En la práctica:** para el desfile de los apóstoles hace falta una entrada aparte, de pocos euros, mientras que la catedral es gratuita · la plataforma tiene una entrada de pago separada · la choucroute se come en las winstub, las tabernas alsacianas, mejor con reserva por la noche.
+**En la práctica:** para el desfile de los apóstoles hace falta una entrada aparte, de pocos euros, mientras que la catedral es gratuita · la plataforma tiene una entrada de pago separada, de unos 10 € · la choucroute se come en las winstub, las tabernas alsacianas, mejor con reserva por la noche.
 
 ### Día 5 — Traslado a Reims
 Pasamos a Champaña, y aquí cambia todo: las grandes maisons hay que reservarlas con antelación, a veces la visita es gratis, a veces de pago. La tarde la pasamos en **Reims**, en la catedral de las coronaciones, con las vidrieras de Chagall. El traslado ocupa casi toda la mañana: de Alsacia a Reims hay unas cuatro horas en coche, o el tren desde Estrasburgo con cambio en la estación TGV de Champagne-Ardenne, en unas dos horas.

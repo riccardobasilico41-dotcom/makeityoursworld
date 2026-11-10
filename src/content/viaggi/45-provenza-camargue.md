@@ -45,7 +45,7 @@ Una giornata intera nel delta: i fenicotteri a Pont de Gau, una passeggiata a ca
 
 Poi la **passeggiata a cavallo**, con i cavalli bianchi della Camargue, tra stagni e spiagge: molti maneggi lungo la strada per Saintes-Maries offrono uscite di un'ora o due anche per chi non è mai salito in sella. Il pomeriggio è per **Saintes-Maries-de-la-Mer**, con la chiesa fortificata: dal tetto si vede tutto il delta e il mare. Verso sera si torna verso gli stagni, quando la luce si abbassa e gli uccelli si muovono di più.
 
-**In pratica:** Pont de Gau aperto tutti i giorni, con orari e tariffe da controllare sul sito del parco · per il cavallo conviene scegliere un maneggio con uscite in piccoli gruppi e prenotare il giorno prima · a fine maggio e a ottobre Saintes-Maries ospita grandi pellegrinaggi: il paese si riempie.
+**In pratica:** Pont de Gau aperto tutti i giorni, ingresso circa 8,50 €, orari ridotti d'inverno da controllare sul sito del parco · per il cavallo conviene scegliere un maneggio con uscite in piccoli gruppi e prenotare il giorno prima · a fine maggio e a ottobre Saintes-Maries ospita grandi pellegrinaggi: il paese si riempie.
 
 ### Giorno 5 — Aigues-Mortes e le Alpilles
 Le mura di **Aigues-Mortes** e le saline rosa, poi le Alpilles e **Saint-Rémy-de-Provence**. **Aigues-Mortes** è una città fortificata del Duecento, costruita da Luigi IX per avere un porto sul Mediterraneo: si sale sulle mura e si fa il giro completo dei bastioni, con le **saline** che si allungano verso il mare.

@@ -41,7 +41,7 @@ Dedicamos la jornada al corazón del casco antiguo. La **Catedral de Vilna**, ne
 
 Por la tarde visitamos el **Patio Universitario** de la Universidad de Vilna, fundada en 1579 y entre las más antiguas de Europa centro-oriental, con trece patios conectados entre sí. Cerramos la jornada entre la iglesia de Santa Ana, gótica de ladrillo rojo, y la cercana iglesia de San Francisco y San Bernardino, una de las estampas góticas más fotografiadas de la ciudad.
 
-**En la práctica:** Torre de Gediminas unos 8 €, funicular 2-3 € · Palacio de los Grandes Duques normalmente cerrado los lunes · Patio de la Universidad con entrada de pocos euros · Catedral gratuita, criptas solo con visita guiada.
+**En la práctica:** Torre de Gediminas unos 8 €, funicular 2-3 € · Palacio de los Grandes Duques normalmente cerrado los lunes · Patio de la Universidad abierto de lunes a sábado de 9 a 18, con entrada de pocos euros · Catedral gratuita, criptas solo con visita guiada.
 
 ### Día 3 — Užupis y el castillo de la isla de Trakai
 Por la mañana estuvimos en **Užupis**, el barrio que desde 1997 se autoproclamó «República Independiente de Užupis», con bandera, presidente honorario y una constitución de 41 artículos, a menudo surrealistas o poéticos, grabada en placas en decenas de idiomas a lo largo del **Muro de la Constitución**, en la calle Paupio. Paseamos entre las galerías de arte y los pequeños talleres del barrio, que en época soviética era la zona más degradada de Vilna y hoy es el barrio más bohemio de la ciudad.
@@ -62,7 +62,7 @@ La mañana la pasamos en el **barrio Art Nouveau**, concentrado a lo largo de **
 
 Por la tarde fuimos al **Mercado Central** (Centrāltirgus): cinco pabellones construidos con hangares alemanes para dirigibles de la Primera Guerra Mundial. Abierto en 1930, entonces era el más grande y moderno de Europa; hoy lo frecuentan todavía cada día unas 80.000 personas y forma parte del sitio UNESCO junto con el casco antiguo. Recorrimos los puestos de pescado ahumado del Báltico, quesos y pan de centeno negro (rupjmaize), deteniéndonos a probar los productos locales. Por la noche subimos a la torre de la **iglesia de San Pedro** (72 metros, entrada 9 €, a la venta hasta las 17) para ver el panorama sobre el casco antiguo y el río Daugava al atardecer.
 
-**En la práctica:** Museo del Art Nouveau con entrada de pocos euros · Mercado Central abierto todos los días, mejor por la mañana · torre de San Pedro unos 9 €, entradas hasta las 17.
+**En la práctica:** Museo del Art Nouveau con entrada de pocos euros, abierto de 10 a 18, cerrado los lunes · Mercado Central abierto todos los días, mejor por la mañana · torre de San Pedro unos 9 €, entradas hasta las 17.
 
 ### Día 6 — Jūrmala y el último paseo por Riga
 Por la mañana fuimos a **Jūrmala**, la ciudad balnearia histórica de Letonia, a unos 20 km de Riga: tren regional desde la estación central, unos 30 minutos, con salidas al menos cada media hora. Es una franja de unos 32 km de arena blanca a lo largo del golfo de Riga, destino de veraneo desde la época zarista y luego de la élite soviética, con cientos de villas de madera de estilo Art Nouveau y Art Déco en las calles residenciales de Majori y Dzintari. Se pasea por la playa empezando desde Majori, con un baño si la temporada lo permite (junio-agosto), y luego por las calles interiores, para mirar desde fuera las villas decoradas.

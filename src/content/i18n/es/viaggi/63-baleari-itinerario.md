@@ -20,7 +20,7 @@ Ocho días, conectados en ferri, bastan para ver las tres sin reducirlas a escal
 - **Menorca:** la isla más pequeña y menos desarrollada de las tres, con el Camí de Cavalls, el antiguo sendero costero de unos 185 km que le da la vuelta entera.
 - **Coche de alquiler:** recomendado en las tres islas; en Menorca es casi imprescindible, porque los autobuses no llegan a las calas más bonitas.
 - **Electricidad y moneda:** euro, enchufes de tipo C/F idénticos a los de Italia.
-- **Del aeropuerto al centro:** **Palma (PMI)**: autobús EMT **A1** al centro y al puerto, unos 15-20 minutos, cada 15 minutos aproximadamente, unos 5 € en efectivo y menos con tarjeta contactless (tarifas en revisión para 2027); taxi de la fila oficial unos 20-25 €. **Ibiza (IBZ)**: autobús a Eivissa (antigua línea 10, renumerada en 2026 en las líneas AERO), unos 3,50 €, unos 20 minutos; taxi unos 20-25 €, con largas colas en verano. **Menorca, Mahón (MAH)**, desde donde se vuelve: autobús línea 10 a la estación de autobuses, unos 2,80 €, unos 15 minutos; taxi unos 15-20 € · en verano, mejor desconfiar de los traslados piratas que se ofrecen fuera de llegadas.
+- **Del aeropuerto al centro:** **Palma (PMI)**: autobús EMT **A1** al centro y al puerto, unos 15-20 minutos, cada 15 minutos aproximadamente, unos 5 € en efectivo y unos 3 € con tarjeta contactless (tarifas en revisión para 2027); taxi de la fila oficial unos 20-25 €. **Ibiza (IBZ)**: autobús a Eivissa (antigua línea 10, renumerada en 2026 en las líneas AERO), unos 3,50 €, unos 20 minutos; taxi unos 20-25 €, con largas colas en verano. **Menorca, Mahón (MAH)**, desde donde se vuelve: autobús línea 10 a la estación de autobuses, unos 2,80 €, unos 15 minutos; taxi unos 15-20 € · en verano, mejor desconfiar de los traslados piratas que se ofrecen fuera de llegadas.
 
 ## Itinerario giorno per giorno
 
@@ -78,7 +78,7 @@ Nos trasladamos a **Mahón (Maó)**, la capital actual de Menorca, con uno de lo
 
 Merece la pena visitar uno de los yacimientos megalíticos talayóticos de la zona (por ejemplo Torre d'en Galmés), restos de una civilización prehistórica que solo existe aquí. Torre d'en Galmés está a medio camino entre las dos ciudades, con talayots, casas y una taula, el monumento en forma de T típico de Menorca. *El yacimiento está al aire libre y sin sombra: primera hora de la mañana o última de la tarde son los mejores momentos.* El viaje termina con el vuelo de regreso desde el aeropuerto de Mahón, a pocos kilómetros del centro: con el coche que devolver, conviene llegar con una hora más de margen.
 
-**En la práctica:** Ciutadella-Mahón unos 45 minutos en coche · Torre d'en Galmés entrada de pocos euros, horarios reducidos fuera de temporada, a consultar en la web de Menorca Talayótica · en el puerto de Mahón se prueba el queso Mahón-Menorca DOP y la ginebra local.
+**En la práctica:** Ciutadella-Mahón unos 45 minutos en coche · Torre d'en Galmés entrada unos 3 €, horarios reducidos fuera de temporada, a consultar en la web de Menorca Talayótica · en el puerto de Mahón se prueba el queso Mahón-Menorca DOP y la ginebra local.
 
 ## Qué ver / qué hacer
 - **La Catedral de Palma** y el Barrio Gótico de Mallorca.

@@ -47,7 +47,7 @@ Hotel pickup was early in the morning. With a big group you split into two vans,
 
 Around noon we ate at a roadside rest stop, with lots of choice and good food, against all expectations. In the early afternoon, if there is time, you stop at the **Tham Khao Luang** cave, near Phetchaburi, a cave with Buddha statues lit from above; we reached **Hua Hin** in the late afternoon. For dinner there is one of the evening markets, Cicada, Tamarind or Chatchai, full of street food stalls. *At the train market, stay behind the line the vendors mark: the train really does pass a few centimetres away.*
 
-**In practice:** leave at dawn to reach the markets before the crowds · prices at the floating market are inflated, bargain · Cicada and Tamarind open only on some evenings of the week, check · in Hua Hin stay near the beach or the centre.
+**In practice:** leave at dawn to reach the markets before the crowds · prices at the floating market are inflated, bargain · Cicada open Friday to Sunday from about 4 pm to 11 pm, Tamarind next door on the same evenings · in Hua Hin stay near the beach or the centre.
 
 ### Day 3 — Hua Hin-Chumphon
 We left early for **Sam Roi Yot National Park** (200 THB per person, usually collected by the coordinator in the shared kitty). The beach of **Laem Sala** is reached by boat, a quarter of an hour, or on foot in forty minutes, depending on the sea. From there a short hike in the forest leads to the **Phra Nakorn Cave**, with a royal pavilion inside: when the light filters in from above it is one of the most photographed views in Thailand. We stayed on the beach until lunch.

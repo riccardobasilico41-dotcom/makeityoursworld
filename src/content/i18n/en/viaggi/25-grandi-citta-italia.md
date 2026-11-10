@@ -99,7 +99,7 @@ For dinner, a trattoria in the Oltrarno or Sant'Ambrogio, with the bistecca: it'
 
 The Museo dell'Opera is included in the dome ticket, so it costs nothing extra: go in the morning, at opening, and stay a couple of hours. The **Brancacci Chapel**, in the Oltrarno, holds Masaccio's frescoes with the Expulsion from Paradise and is visited in small groups, by reservation. The **Medici Chapels**, behind San Lorenzo, have the New Sacristy with Michelangelo's tombs. In the afternoon you can stop by the **Sant'Ambrogio market**, used mainly by Florentines. *The bistecca is paid by weight and a whole cut weighs at least a kilo: order it for two or three.*
 
-**In practice:** Brancacci Chapel and Medici Chapels with separate tickets and their own closing days, to check · Sant'Ambrogio market closed on Sundays · for the bistecca the price is per kilo, ask the weight before they cut it
+**In practice:** Brancacci Chapel (about 15 euros, booking required, closed on Tuesdays) and Medici Chapels (about 11 euros, closed on Mondays) with separate tickets · Sant'Ambrogio market closed on Sundays · for the bistecca the price is per kilo, ask the weight before they cut it
 
 ### Day 8 — High-speed train to Venice
 **Florence-Venice in 2h**, with Santa Lucia station **inside** the city.
@@ -121,7 +121,7 @@ At sunset we climbed the **bell tower of San Giorgio Maggiore**, which has the b
 
 After the market cross the still-empty **Rialto Bridge** and reach San Marco before the basilica opens, when the square is clear. For the **basilica** it's worth booking entry, which is cheap, and adding the museum with the bronze horses and the loggia over the square. **Palazzo Ducale** needs at least two hours, with the prisons and the Bridge of Sighs seen from inside. The Scuola Grande di San Rocco, in the San Polo sestiere, provides mirrors so you can look at the ceilings without craning your neck. For San Giorgio take the vaporetto from San Zaccaria. *In Piazza San Marco you don't sit on the steps or eat: there are fines.*
 
-**In practice:** Palazzo Ducale around 30 euros, less if bought online in advance · San Marco basilica with a named ticket of about 10 euros and booking recommended · San Giorgio bell tower with lift, ticket of a few euros
+**In practice:** Palazzo Ducale around 30 euros, less if bought online in advance · San Marco basilica with a named ticket of about 10 euros and booking recommended · San Giorgio bell tower with lift, ticket of about 8 euros
 
 ### Day 10 — The lagoon
 This is the day almost nobody does. We went to **Torcello**, forty minutes by vaporetto, with the seventh-century basilica and the mosaic Last Judgment that covers an entire wall. Venice began there, before Venice existed, and there are twenty people.

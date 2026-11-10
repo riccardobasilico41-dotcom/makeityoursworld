@@ -57,7 +57,7 @@ In the early afternoon we reached **Kiyomizudera**, one of the most famous templ
 
 We had dinner at **Menbaka Fire Ramen**, where the ramen arrives with a show of real fire: book in advance, the seats go fast. For those who want to stay out late there's the Pontocho area, with the **World Club** or **The Common One**. For three nights we slept at the Agora Kyoto Shijo.
 
-**In practice:** Hikari Shinkansen Tokyo-Kyoto about 2 hours 40, covered by the JR Pass · Kiyomizudera about 500 yen, and the climb through the lanes of Higashiyama is crowded from the morning · Miyako Odori about 6,000 yen, April only, check the dates · book Menbaka Fire Ramen well in advance.
+**In practice:** Hikari Shinkansen Tokyo-Kyoto about 2 hours 40, covered by the JR Pass · Kiyomizudera about 500 yen, and the climb through the lanes of Higashiyama is crowded from the morning · Miyako Odori about 6,000 yen, April only, all month long, three shows a day · book Menbaka Fire Ramen well in advance.
 
 ### Day 5 (10.04) — Kyoto: Arashiyama, the Bamboo Forest and Gion
 The morning began on the **Philosopher's Path**, along the canal among the cherry trees, named for Nishida Kitaro, who walked it every day meditating. Then a walking tour of **Gion**, the geiko quarter: on some streets taking photos of overly intrusive tourists is forbidden, there are signs and the fines are steep.
@@ -79,7 +79,7 @@ After lunch and a bit of free time, the **Kinkaku-ji**, the Golden Pavilion, ope
 
 In the evening there's the **tea ceremony** with Camellia, in the heart of Gion: 2,700 yen per person plus 3,000 for the kimono, to be booked by email well in advance because the seats are few. For dinner the addresses from the day before work; the last night we spent at the Agora Kyoto Shijo.
 
-**In practice:** Fushimi Inari is free and always open, with JR Inari station right in front, on a line covered by the JR Pass · Nijo Castle about 800 yen (about 1,300 with Ninomaru Palace) and Kinkaku-ji about 500 yen; the castle closes on some days in winter and summer, check beforehand · tea ceremony with Camellia 2,700 yen, kimono 3,000 yen, booking by email.
+**In practice:** Fushimi Inari is free and always open, with JR Inari station right in front, on a line covered by the JR Pass · Nijo Castle about 800 yen (about 1,300 with Ninomaru Palace) and Kinkaku-ji about 500 yen; the Ninomaru Palace closes on Tuesdays in January, July, August and December, the castle from 29 to 31 December · tea ceremony with Camellia 2,700 yen, kimono 3,000 yen, booking by email.
 
 ### Day 7 (12.04) — Kyoto-Hiroshima-Miyajima
 The trick of this day is done the evening before: ship the heavy luggage to Osaka with takkyubin, from the hotel or a 7-Eleven, to travel light for two days. We left early and the Hikari Shinkansen took us to Hiroshima in about two hours.
@@ -140,7 +140,7 @@ Food is probably the real thread of this trip, and it's worth approaching it wit
 
 - **Reservations are more complicated than expected.** Many Japanese restaurants, especially the best ones, have very few seats (sometimes 6-10 covers) and don't speak English on the phone. For larger groups it's almost always necessary to book days or weeks in advance, often by email or through the hotel concierge. The simpler places (ramen, small izakaya, neighborhood trattorias) instead don't take reservations: you show up and wait in line (even 30-60 minutes at the most famous places), but that's often exactly where you eat best.
 - **Izakaya are the most practical solution when you're a group.** They are the Japanese equivalent of pubs: you share lots of small dishes in the middle of the table, the bill is easily split (just ask "betsu betsu no okaikei wo onegaishimasu" for separate bills), and many offer **tabehodai/nomihodai** deals (all-you-can-eat/drink for 1h30-2h at a fixed price), handy when you're many and don't want to handle a complicated bill. Note: the deal applies to the whole table, you can't choose it for only some of the diners.
-- **The cover charge**: many restaurants apply a small "otoshi" (an unrequested opening nibble, a sort of cover charge) of a few euros per person: it's normal, not a rip-off.
+- **The cover charge**: many restaurants apply a small "otoshi" (an unrequested opening nibble, a sort of cover charge) of about 300-500 yen per person: it's normal, not a rip-off.
 - **The bill never includes taxes**: 10% has to be added to the total.
 - **Extra tips from research**, for those who want to widen the list beyond the places already mentioned in the plan: in Tokyo high-end izakaya like Tanakada (Nishi-Azabu) are excellent for a special occasion; in Kyoto Muromachi Kaji is a kappo-izakaya much appreciated for its kaiseki-style dishes in a more casual version. Both are listed by the Michelin Guide as Bib Gourmand (good value), and need to be booked in advance.
 

@@ -40,7 +40,7 @@ We climbed the **walls** and the **fortress of St. John** early in the morning, 
 
 In the afternoon we went to the sea at **Dobrota**, on the shore toward the north, where the 18th-century ship captains' palaces face small beaches and piers. In the evening we had dinner at a konoba with Adriatic fish and red vranac wine.
 
-**In practice:** admission to the walls about €15 in season, cash · walking shoes and water: there's no shade on the climb · Cathedral of Saint Tryphon with a small ticket.
+**In practice:** admission to the walls about €15 in season, cash · walking shoes and water: there's no shade on the climb · Cathedral of Saint Tryphon with a ticket of about €4, cash.
 
 ### Day 3 — Perast, Our Lady of the Rocks and the loop around the Bay
 Seven and a half miles (twelve kilometers) along the shore took us to **Perast**, a baroque town of a single street, with sixteen palaces and seventeen churches built by the families of captains in the service of Venice. In front of the town are two islets: **St. George**, with the monastery among the cypresses, and **Our Lady of the Rocks** (Gospa od Škrpjela), an artificial island built by throwing stones and sunken hulls into the sea, with a church full of sailors' ex-votos. We reached them on the boats that leave from the waterfront.

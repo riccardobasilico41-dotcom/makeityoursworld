@@ -38,7 +38,7 @@ El segundo día sigue siendo de aclimatación, pero más activo. Los teleférico
 
 Por la tarde fuimos en taxi al **Valle de la Luna**, formaciones de arcilla erosionada a pocos kilómetros del centro. *El cansancio todavía se nota al subir escaleras: es normal, el cuerpo aún no se ha acostumbrado del todo.* Quien esté por la tarde en El Alto encuentra los combates de cholitas luchadoras, la lucha libre de las mujeres aymaras.
 
-**En la práctica:** teleférico pagado por trayecto, con billete aparte en cada cambio de línea · Valle de la Luna con una pequeña entrada, una hora de visita aproximadamente · cholitas luchadoras normalmente el domingo por la tarde en el Multifuncional de El Alto, horarios por confirmar; muchos van con un tour que incluye el transporte · mejor no recorrer El Alto a pie solo de noche.
+**En la práctica:** teleférico pagado por trayecto, con billete aparte en cada cambio de línea · Valle de la Luna con entrada de unos 15 bolivianos, una hora de visita aproximadamente · cholitas luchadoras normalmente el domingo por la tarde en el Multifuncional de El Alto, horarios por confirmar; muchos van con un tour que incluye el transporte · mejor no recorrer El Alto a pie solo de noche.
 
 ### Día 3 — Tiwanaku y traslado a Copacabana
 Nos trasladamos a **Copacabana**, en el lago Titicaca: unas 4 horas de carretera, con una parada en las ruinas de **Tiwanaku**, capital de una civilización anterior a los incas, en el camino hacia el lago. Del sitio se ven el templo semisubterráneo, la plataforma de **Kalasasaya** con la Puerta del Sol y, no muy lejos, los bloques tallados de **Puma Punku**; los dos museos, lítico y cerámico, ayudan a entender lo que se está viendo. Conviene llegar por la mañana y dedicarle un par de horas, con un guía o con un tour que combine Tiwanaku y el traslado.
@@ -101,14 +101,14 @@ Por tierra llegamos a **Potosí**, a 4.000 metros, la ciudad que con la plata de
 
 La primera visita fue a la **Casa Nacional de la Moneda**, la antigua ceca colonial, para entender lo que significó la extracción de plata antes de entrar en la mina al día siguiente. Solo se visita con visitas guiadas, en horarios fijos, y dura un par de horas. Después, una vuelta por la **Plaza 10 de Noviembre** y las iglesias del centro. Para cenar, las sopas contundentes típicas del altiplano, pensadas precisamente para el frío de la altura.
 
-**En la práctica:** autobús Uyuni-Potosí unas 4 horas, con varias salidas al día · Casa de la Moneda con entrada para extranjeros de unas decenas de bolivianos, solo con guía: verificar los horarios de los turnos, y desde 2026 el edificio está en obras de restauración · reservar hoy la visita a la mina para el día siguiente.
+**En la práctica:** autobús Uyuni-Potosí unas 4 horas, con varias salidas al día · Casa de la Moneda con entrada de unos 40 bolivianos, solo con guía: verificar los horarios de los turnos, y desde 2026 el edificio está en obras de restauración · reservar hoy la visita a la mina para el día siguiente.
 
 ### Día 12 — Potosí y las minas del Cerro Rico
 Es el día más duro del viaje, no físicamente sino emocionalmente: la visita guiada a las galerías todavía activas del **Cerro Rico**, casi siempre con exmineros como guías. Se entra con casco, lámpara y botas en túneles estrechos, calientes y polvorientos, junto a hombres que trabajan allí diez horas al día con herramientas de otro siglo. *No es una atracción turística y no hay que tratarla como tal:* es tradición llevar un pequeño regalo (hojas de coca, refrescos, guantes), que se compra en el mercado de los mineros antes de subir.
 
 La visita no se recomienda a quien sufre claustrofobia o tiene problemas respiratorios, también por la altura. El tour suele empezar por la mañana y dura medio día, de los que un par de horas son bajo tierra; conviene elegir una agencia con guías que hayan sido mineros y grupos pequeños, no la más barata. La tarde sirve para digerir lo que se ha visto antes de volver a salir.
 
-**En la práctica:** visita a las minas aproximadamente unas decenas de dólares por persona, con equipo y transporte · las demostraciones con dinamita son ilegales y peligrosas: rechazarlas · ropa vieja, que se ensucia · mascarilla para el polvo recomendada.
+**En la práctica:** visita a las minas unos 100-150 bolivianos por persona con guía en español, 150-250 con guía en inglés, con equipo y transporte · las demostraciones con dinamita son ilegales y peligrosas: rechazarlas · ropa vieja, que se ensucia · mascarilla para el polvo recomendada.
 
 ### Día 13 — De Potosí a Sucre
 Son unas 3 horas de carretera hasta **Sucre**, la capital constitucional, ciudad colonial blanca Patrimonio de la UNESCO a 2.800 metros. Se puede salir por la mañana en autobús o en taxi compartido, más rápido, y la carretera baja más de mil metros entre valles cada vez más verdes. Es la altitud más amable de todo el viaje, y se nota enseguida: se respira mejor, el clima es templado, las calles son ordenadas.

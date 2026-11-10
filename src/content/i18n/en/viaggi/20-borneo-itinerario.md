@@ -102,7 +102,7 @@ In the afternoon we took the long transfer toward **Semporna** and the boat to *
 
 The **Gomantong Caves** are about an hour's drive from Sukau, on the way south: the main cave is visited on a wooden boardwalk, with a strong smell of guano and a floor that moves with cockroaches, and if you pass at sunset you see the bats coming out. The transfer to Semporna crosses hours of oil palm plantations as far as Lahad Datu, then follows the coast. *Boats to Mabul don't run after dark: if the road takes longer, you sleep in Semporna and leave the next morning.*
 
-**In practice:** Kinabatangan-Semporna about five to six hours by road, or a Sandakan-Tawau flight and an hour by car · Gomantong with a small entrance ticket, closed shoes · Semporna-Mabul boat about 45 minutes, arranged by the resort · cash before you go: cards aren't always accepted on the islands.
+**In practice:** Kinabatangan-Semporna about five to six hours by road, or a Sandakan-Tawau flight and an hour by car · Gomantong with an entrance ticket of about RM 30 for foreigners, closed shoes · Semporna-Mabul boat about 45 minutes, arranged by the resort · cash before you go: cards aren't always accepted on the islands.
 
 ### Day 9 — Mabul: muck diving
 The first diving day was around **Mabul and Kapalai**. Almost everyone treats them as just a base for Sipadan, but they're actually among the best places in the world for **muck diving**: shallow sandy bottoms where you look for pygmy seahorses the size of a fingernail, mimic octopuses, nudibranchs and frogfish.

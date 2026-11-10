@@ -40,7 +40,7 @@ Siamo saliti alle **mura** e alla **fortezza di San Giovanni** al mattino presto
 
 Il pomeriggio siamo andati al mare a **Dobrota**, sulla riva verso nord, dove i palazzi dei capitani di nave del Settecento si affacciano su piccole spiagge e pontili. La sera abbiamo cenato in una konoba con pesce dell'Adriatico e vino rosso vranac.
 
-**In pratica:** ingresso alle mura circa 15 € in stagione, in contanti · scarpe da camminata e acqua: sulla salita non c'è ombra · cattedrale di San Trifone con piccolo biglietto.
+**In pratica:** ingresso alle mura circa 15 € in stagione, in contanti · scarpe da camminata e acqua: sulla salita non c'è ombra · cattedrale di San Trifone con biglietto di circa 4 €, in contanti.
 
 ### Giorno 3 — Perast, la Madonna dello Scarpello e il giro delle Bocche
 Dodici chilometri lungo la riva ci hanno portato a **Perast**, un paese barocco di una sola strada, con sedici palazzi e diciassette chiese costruiti dalle famiglie di capitani al servizio di Venezia. Davanti al paese due isolotti: **San Giorgio**, con il monastero tra i cipressi, e la **Madonna dello Scarpello** (Gospa od Škrpjela), un'isola artificiale costruita gettando in mare pietre e scafi affondati, con una chiesa piena di ex voto di marinai. Ci siamo arrivati con le barche che partono dal lungomare.

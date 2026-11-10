@@ -20,7 +20,7 @@ Eight days, linked by ferry, are enough to see all three without reducing them t
 - **Menorca:** the smallest and least developed of the three islands, with the Camí de Cavalls, the old coastal path of about 185 km that goes all the way around it.
 - **Rental car:** recommended on all three islands; on Menorca it is almost essential, because buses don't reach the most beautiful coves.
 - **Electricity and currency:** euro, type C/F sockets identical to Italy.
-- **From the airport to the centre:** **Palma (PMI)**: EMT **A1** bus to the centre and the port, about 15-20 minutes, roughly every 15 minutes, about €5 in cash and less by contactless card (fares under review for 2027); taxi from the official rank about €20-25. **Ibiza (IBZ)**: bus to Eivissa town (formerly line 10, renumbered into the AERO lines in 2026), about €3.50, about 20 minutes; taxi about €20-25, with long queues in summer. **Menorca, Mahón (MAH)**, where the trip ends: line 10 bus to the bus station, about €2.80, about 15 minutes; taxi about €15-20 · in summer, be wary of unlicensed rides offered outside arrivals.
+- **From the airport to the centre:** **Palma (PMI)**: EMT **A1** bus to the centre and the port, about 15-20 minutes, roughly every 15 minutes, about €5 in cash and about €3 by contactless card (fares under review for 2027); taxi from the official rank about €20-25. **Ibiza (IBZ)**: bus to Eivissa town (formerly line 10, renumbered into the AERO lines in 2026), about €3.50, about 20 minutes; taxi about €20-25, with long queues in summer. **Menorca, Mahón (MAH)**, where the trip ends: line 10 bus to the bus station, about €2.80, about 15 minutes; taxi about €15-20 · in summer, be wary of unlicensed rides offered outside arrivals.
 
 ## Itinerario giorno per giorno
 
@@ -78,7 +78,7 @@ We moved to **Mahón (Maó)**, the current capital of Menorca, with one of the d
 
 One of the Talayotic megalithic sites in the area is worth a visit (for example Torre d'en Galmés), remains of a prehistoric civilisation found only here. Torre d'en Galmés lies halfway between the two towns, with talaiots, houses and a taula, the T-shaped monument typical of Menorca. *The site is in the open with no shade: early morning or late afternoon are the best times.* The trip ends with the return flight from Mahón airport, a few kilometres from the center: with the car to return, allow an extra hour.
 
-**In practice:** Ciutadella-Mahón about 45 minutes by car · Torre d'en Galmés ticket of a few euros, shorter hours out of season, check on the Menorca Talayótica website · at Mahón harbour, taste the Mahón-Menorca PDO cheese and the local gin.
+**In practice:** Ciutadella-Mahón about 45 minutes by car · Torre d'en Galmés ticket about €3, shorter hours out of season, check on the Menorca Talayótica website · at Mahón harbour, taste the Mahón-Menorca PDO cheese and the local gin.
 
 ## What to see / what to do
 - **The Cathedral of Palma** and the Barrio Gótico in Mallorca.

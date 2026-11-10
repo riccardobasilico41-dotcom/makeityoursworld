@@ -20,7 +20,7 @@ Sicilia se subestima sistemáticamente en la fase de planificación: en el mapa 
 - **Comida:** Sicilia tiene dos cocinas, una por vertiente. En el este prevalecen el pescado y las pastas: **pasta alla Norma** en Catania, **erizos** en Siracusa, pez espada en el Estrecho. Los dulces son un capítulo aparte: **cannoli rellenados en el momento y nunca antes**, cassata y la **granita con brioche col tuppo de desayuno**, que en verano es la forma correcta de empezar la jornada (y se hace con agua, azúcar y fruta, no con nata).
 - **Vino:** Etna Rosso de Nerello Mascalese, Nero d'Avola, Carricante para los blancos. Las bodegas del Etna se visitan **con cita previa**.
 - **Guía:** el interior (Enna, Piazza Armerina, las Madonie) es la parte donde Sicilia es más ella misma y menos turística, y casi todos se la saltan para quedarse en la costa.
-- **Del aeropuerto al centro:** **Catania Fontanarossa (CTA)** está a unos 5 km del centro. **Alibus** AMTS hasta la estación central y el centro en 20-30 minutos, 4 € (billete válido 90 minutos, a bordo, en el aeropuerto o en la app), de las 4:40 aproximadamente a las doce y media de la noche · **tren** desde la estación Catania Aeroporto Fontanarossa, unida a la terminal por una lanzadera, hasta Catania Centrale en pocos minutos · **taxi** unos 20-30 € al centro, mejor preguntar el precio antes de subir · autobuses Etna Trasporti e Interbus hacia Taormina y Siracusa · muchas agencias de alquiler están en aparcamientos externos, a los que se llega con sus lanzaderas: vale también para la devolución.
+- **Del aeropuerto al centro:** **Catania Fontanarossa (CTA)** está a unos 5 km del centro. **Alibus** AMTS hasta la estación central y el centro en 20-30 minutos, 4 € (billete válido 90 minutos, a bordo, en el aeropuerto o en la app), de las 4:40 aproximadamente a las doce y media de la noche · **tren** desde la estación Catania Aeroporto Fontanarossa, unida a la terminal por una lanzadera, hasta Catania Centrale en pocos minutos · **taxi** con tarifa fija de unos 27 € a la Piazza Duomo o la Estación Central (en prueba hasta finales de 2026), mejor confirmar el precio antes de subir · autobuses Etna Trasporti e Interbus hacia Taormina y Siracusa · muchas agencias de alquiler están en aparcamientos externos, a los que se llega con sus lanzaderas: vale también para la devolución.
 
 ## Itinerario giorno per giorno
 
@@ -60,7 +60,7 @@ Vimos el **Parque arqueológico de la Neapolis**, con el teatro griego y la Orej
 
 Por la noche, el mercado de Ortigia y la cena con los **erizos**, que aquí son la especialidad. *Los puestos del mercado trabajan sobre todo por la mañana: quien quiera verlos completos vuelve al día siguiente, antes de salir.*
 
-**En la práctica:** Neapolis con entrada general o combinada con el Museo Paolo Orsi, precios a consultar en la web del parque · Catedral con entrada de pocos euros · aparcamiento Talete a la entrada de Ortigia.
+**En la práctica:** Neapolis con entrada general o combinada con el Museo Paolo Orsi, precios a consultar en la web del parque · Catedral con entrada de unos 2-3 € · aparcamiento Talete a la entrada de Ortigia.
 
 ### Día 5 — Noto, Módica, Scicli
 Es la jornada del **barroco del Val di Noto**, patrimonio UNESCO: ocho ciudades reconstruidas tras el terremoto de 1693, todas en el mismo estilo y en el mismo momento.
@@ -105,7 +105,7 @@ Por la mañana fuimos a la **Scala dei Turchi**, el acantilado de marga blanca, 
 
 Luego el regreso hacia Catania, con una parada en **Caltagirone** y en su escalinata de 142 peldaños de cerámica, si el tiempo lo permite. De Agrigento a Caltagirone hay unas dos horas. Cada peldaño de la **Escalinata de Santa Maria del Monte** tiene la contrahuella decorada con mayólicas distintas, y a lo largo de la subida están los talleres de los ceramistas. De Caltagirone a Catania queda una hora y cuarto aproximadamente.
 
-**En la práctica:** Scala dei Turchi con acceso limitado y de pago cuando está abierta, normas a consultar en la web del Comune di Realmonte · Agrigento-Catania por Caltagirone unas 3 horas y media sin paradas · para la última noche, Catania o la vertiente del Etna, cerca del aeropuerto.
+**En la práctica:** Scala dei Turchi con acceso limitado y de pago cuando está abierta (en 2026 unos 6 €, turnos de 20 minutos), normas a consultar en la web del Comune di Realmonte · Agrigento-Catania por Caltagirone unas 3 horas y media sin paradas · para la última noche, Catania o la vertiente del Etna, cerca del aeropuerto.
 
 ### Día 10 — Última mañana y salida
 Última granita con brioche, últimas compras (pistacho de Bronte, chocolate de Módica, vino del Etna) y vuelo desde Catania. La granita se toma en el bar por la mañana, de almendra, de pistacho o de mora según la temporada, y la brioche col tuppo se moja dentro. Para las compras, las calles en torno a la Via Etnea y al mercado tienen pistacho en crema y en granillo, y las enotecas envían el vino a Italia.

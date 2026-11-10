@@ -34,7 +34,7 @@ Another hour on the road and we reached **Aït Benhaddou**, the UNESCO ksar that
 
 *Practical note for the next day: charge your power banks before the night in the desert and ask the guide where to stop for alcohol and snacks to bring to Merzouga, because supplies in the desert are scarce.*
 
-**In practice:** Marrakech-Telouet about two and a half hours on the Tizi n'Tichka pass road, with many bends: if you get carsick, take something before leaving · Telouet has a small entrance fee · you can walk into the ksar of Aït Benhaddou freely, some houses ask a few dirhams to go up to the terraces · the best light on the ksar is at sunset, seen from the opposite bank of the river.
+**In practice:** Marrakech-Telouet about two and a half hours on the Tizi n'Tichka pass road, with many bends: if you get carsick, take something before leaving · Telouet has a small entrance fee, about 20-50 MAD in cash · you can walk into the ksar of Aït Benhaddou freely, some houses ask a few dirhams to go up to the terraces · the best light on the ksar is at sunset, seen from the opposite bank of the river.
 
 ### Day 3 — Merzouga, the gateway to the Sahara
 On the road early: 200 km, three hours, to the **Todra Gorge**. Thirty minutes is enough to walk between rock walls that narrow to just a few meters, among the most beautiful in Morocco. We had a packed lunch along the way.

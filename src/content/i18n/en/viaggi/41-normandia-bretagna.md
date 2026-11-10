@@ -24,7 +24,7 @@ We started with the dense Normandy, the one of history. In **Rouen** there's the
 
 From there the Rue du **Gros-Horloge** leads under the Renaissance clock, which can also be visited from inside, to the **Place du Vieux-Marché**, where Joan of Arc was burned in 1431: today there is a modern church with a scaled roof. In the afternoon the **Historial Jeanne d'Arc**, in the archbishop's palace, tells the story of her trial, and the **Aître Saint-Maclou**, an old half-timbered ossuary, shows the most unusual side of Rouen. *The old town is small and walkable: pick up the rental car the next day.*
 
-**In practice:** from Paris to Rouen is about an hour and a half by train · the cathedral is free to enter outside service times · the Gros-Horloge and the Historial have separate tickets, a few euros for the first and a little more for the second.
+**In practice:** from Paris to Rouen is about an hour and a half by train · the cathedral is free to enter outside service times · the Gros-Horloge and the Historial have separate tickets, about €8 for the first and about €11-12 for the second.
 
 ### Day 2 — The D-Day beaches (part 1)
 We moved to Bayeux, the base for the beaches, but before seeing them we stopped at the **Mémorial de Caen**. The order matters: without the context of the museum, the beaches are just beaches. From Rouen to Caen is about an hour and a half by car. The **Mémorial** deserves at least three hours: the route starts in the 1930s and runs through the war to the landings and the Battle of Normandy, with a section on the Cold War.

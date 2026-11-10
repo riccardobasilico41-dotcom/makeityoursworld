@@ -50,7 +50,7 @@ Prices for foreign tourists have gone up several times since 2024. The figures a
 ### Getting around
 - **From the airport to the centre:** from **Cairo (CAI)** to downtown or Giza takes 45-75 minutes depending on traffic. **Uber** and **Careem** work, with pickup in the car parks shown in the app, about 250-500 EGP to Giza · taxis or limousines from the official desks inside the terminal cost more but have the price fixed in advance · or there's the hotel transfer. There's no metro to the airport. In arrivals you'll be approached by fake "official taxis": say no and go to the desk or the app. In **Aswan (ASW)** and **Luxor (LXR)** agree the taxi fare beforehand, in pounds; from **Marsa Alam (RMF)** and **Hurghada (HRG)** you usually travel with the hotel's or the dive centre's transfer.
 - **Cairo:** Uber and Careem; private driver for Saqqara and Dahshur ($30-50 a day).
-- **Cairo-Siwa:** about 750 km. By car with a driver it takes two days, passing through Alexandria and El Alamein and sleeping in Marsa Matruh (roughly $250-400 for the car in total, depends on the operator). There's also the West Delta bus from Cairo, about 10-12 hours and a few tens of euros, but it travels at night: Viaggiare Sicuri recommends not moving by road in the dark, so here we recommend a car with a driver, by day, both ways.
+- **Cairo-Siwa:** about 750 km. By car with a driver it takes two days, passing through Alexandria and El Alamein and sleeping in Marsa Matruh (roughly $250-400 for the car in total, depends on the operator). There's also the West Delta bus from Cairo, about 10-12 hours and about EGP 300-500, but it travels at night: Viaggiare Sicuri recommends not moving by road in the dark, so here we recommend a car with a driver, by day, both ways.
 - **Cairo-Aswan:** EgyptAir flight (1 hour 25 minutes, roughly €70-140) or the **overnight sleeper train** by Abela Trains from Cairo Upper Egypt (Bashtil) or Giza stations (no longer from Ramses), about 13-14 hours, $110-125 per person in a shared double cabin and $150-170 alone, dinner and breakfast included, booking at abelatrains.com or with their app. The ordinary day trains cost very little but are slow and less comfortable.
 - **Aswan-Abu Simbel:** 280 km, 3-3.5 hours by road. Minivans leave at 3-4 am; there's no longer a mandatory convoy as there used to be, but there are checkpoints. Alternative: 45-minute EgyptAir flight, useful only if the schedules let you see the site without rushing.
 - **Aswan-Luxor:** 3-night cruise (ships going the other way take 4 nights), or a 4-5 night sailing **dahabiya**, or 3 hours by car for those who prefer the hotel.
@@ -144,7 +144,7 @@ Another four hours southwest, across a flat, empty desert, with a couple of mili
 In the afternoon we got our bearings by bike among the palm groves and at sunset climbed the **Shali fortress**, the old town built of kershef, a mix of mud and salt that the rains of 1926 partly dissolved. From the top you see the palm groves, the salt lakes and the desert mountains. In the evening you give your passport to the operator for the desert permit for the next day or the day after. *Siwa is a conservative community: alcohol almost impossible to find, covering clothes for men too, and local women are not photographed.*
 
 **In practice**
-- Bike rental: a few euros a day
+- Bike rental: about EGP 50-100 a day
 - Shali fortress: inexpensive entry
 - Cash for the whole stay, ATMs are few and sometimes empty
 
@@ -175,7 +175,7 @@ If you reach Cairo with some daylight left, you can take a walk around **Heliopo
 
 **In practice**
 - Car: 8-10 hours with stops
-- Overnight bus: it exists (10-12 hours, a few tens of euros), but is not recommended because it travels in the dark
+- Overnight bus: it exists (10-12 hours, about EGP 300-500), but is not recommended because it travels in the dark
 - Hotel near the airport for tomorrow's flight
 
 ### Day 10 — Flight to Aswan and felucca at sunset

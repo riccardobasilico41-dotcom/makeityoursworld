@@ -106,7 +106,7 @@ Giornata in barca verso il sud di Sipora. Nella baia di Katiet c'è **Lance's Le
 
 La barca parte presto, perché le prime ore sono quelle con meno vento e onde più pulite, e prima arrivano anche le altre barche. Lo spot si sceglie la mattina stessa con il barcaiolo o con l'alloggio, in base alla direzione dello swell e alla marea: con la bassa il reef è a pochi centimetri. *Su questi reef servono scarpette o almeno molta attenzione all'uscita, e non si entra mai da soli.* Chi non surfa può venire lo stesso: si fa snorkeling in acque calme o si resta in barca a guardare. Si rientra nel primo pomeriggio, quando il vento rinforza.
 
-**In pratica:** barca per la giornata da organizzare la sera prima con l'alloggio, prezzo da concordare · tassa surf da pagare prima, importo da chiedere sul posto · scarpette da reef e kit per i tagli · acqua e cibo a bordo.
+**In pratica:** barca per la giornata da organizzare la sera prima con l'alloggio, prezzo da concordare · tassa surf da pagare prima, di solito circa 1.000.000 IDR a surfista per un massimo di 15 giorni (alcuni resort indicano 2.000.000), importo da confermare sul posto · scarpette da reef e kit per i tagli · acqua e cibo a bordo.
 
 ### Giorno 12 — Sipora, giorno lento o di riserva
 Un giorno tenuto libero apposta. Se il mare è buono si surfa ancora o si cerca un'altra spiaggia. Se il meteo ha fatto saltare una barca nei giorni prima, qui si recupera. A Sipora è in costruzione "The Sound of Love Mentawai", il progetto dello chef Max Mariola con un ristorante sulla spiaggia: cantiere annunciato da novembre 2026.

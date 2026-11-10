@@ -23,7 +23,7 @@ July-August is chosen for those lagoons, and it is also the time when the two ex
 - **Language:** Portuguese. Outside hotels and agencies English is limited; Spanish helps you get by.
 - **Time zone:** Rio, Salvador, Foz do Iguaçu and São Luís are on UTC-3, 5 hours behind Italy in summer. Manaus and Cuiabá (Pantanal) are on UTC-4. Since 2019 Brazil no longer uses daylight saving time.
 - **Electricity:** 127 V or 220 V depending on the city (127 V in Rio and Foz do Iguaçu, 220 V in much of the Northeast), type N sockets; Italian 10 A plugs often fit, but an adapter is useful and chargers must be 100-240 V.
-- **From the airport to the centre:** from **Rio Galeão (GIG)**, about 20 km from the Zona Sul, Copacabana and Ipanema are 40-60 minutes away: **Uber** or **99** from the pickup zone shown in the app, about R$60-100 · **taxi** from the official cooperatives, prepaid at the arrivals desk, about R$120-150 · buses, with changes and luggage, aren't worth it · never accept rides from people approaching you in arrivals: the Italian Foreign Ministry reports fake drivers right here · at **Foz do Iguaçu (IGU)**, **Salvador (SSA)** and **São Luís (SLZ)** official taxi or app, 20-50 minutes to town.
+- **From the airport to the centre:** from **Rio Galeão (GIG)**, about 20 km from the Zona Sul, Copacabana and Ipanema are 40-60 minutes away: **Uber** or **99** from the pickup zone shown in the app, about R$60-100 · **taxi** from the official cooperatives, prepaid at the arrivals desk at the city's fixed fare, about R$122-126 to Copacabana, Ipanema and Leblon, about R$145-150 on tariff 2 (evenings, nights and holidays) · buses, with changes and luggage, aren't worth it · never accept rides from people approaching you in arrivals: the Italian Foreign Ministry reports fake drivers right here · at **Foz do Iguaçu (IGU)**, **Salvador (SSA)** and **São Luís (SLZ)** official taxi or app, 20-50 minutes to town.
 
 ## Itinerario giorno per giorno
 
@@ -78,7 +78,7 @@ Paraty Bay has dozens of islands and beaches reachable only by sea. The **escuna
 
 The escunas leave Paraty's pier in late morning and return in the afternoon, with three or four stops for swimming and snorkelling: for price and quality it's worth comparing a few agencies, and private lanchas split well among four or six people. The waterfalls and alambiques are on the mountain road towards Cunha, a few kilometres from the centre, reached by taxi, on a tour or by local bus. *On the Tobogã rock you really slide: if you try it, be careful and first watch where the locals go down.*
 
-**In practice:** escuna 4-5 hours with stops, a few tens of reais per person, lunch extra · private lancha more expensive, to be negotiated at the pier · for the waterfalls, water shoes and a towel · Trindade about 30 minutes south, with local buses from Paraty.
+**In practice:** escuna 4-5 hours with stops, about R$100-150 per person, lunch extra · private lancha more expensive, to be negotiated at the pier · for the waterfalls, water shoes and a towel · Trindade about 30 minutes south, with local buses from Paraty.
 
 ### Day 7 — Ilha Grande: arrival in Abraão
 From Paraty you reach **Ilha Grande** by van and boat (about 3 hours), via Angra dos Reis or Conceição de Jacareí. The island has no cars: you walk on trails in the forest or get around by boat. The main village, **Vila do Abraão**, has pousadas, restaurants and nightlife.
@@ -138,7 +138,7 @@ The **Pelourinho**, a UNESCO site, is a set of uphill squares with pastel-colore
 
 Pelourinho is best explored in the morning, when the churches are open and the light on the façades is better: start from **Terreiro de Jesus**, go down to Largo do Pelourinho with the Fundação Casa de Jorge Amado and climb back towards São Francisco. The Elevador Lacerda links the upper and lower city in a few seconds, and from the top the view over the Baía de Todos os Santos is worth the ride alone. At Mercado Modelo you buy crafts and berimbaus, haggling. *On Tuesday evening arrive early for the concerts, before the streets fill up, and stay on the main streets.*
 
-**In practice:** Igreja de São Francisco with a small entrance ticket, check the hours on site · Elevador Lacerda costs a few cents · Mercado Modelo open by day · for the evening return, call an app car from outside the venue.
+**In practice:** Igreja de São Francisco closed for restoration since February 2025, after part of the ceiling collapsed, with reopening expected around 2029: check before you go · Elevador Lacerda about R$1 a ride (since 2025) · Mercado Modelo open by day · for the evening return, call an app car from outside the venue.
 
 ### Day 14 — Salvador: Bonfim, Rio Vermelho and Bahian food
 In the morning we went to the **Igreja do Senhor do Bonfim**, the church of the colored ribbons tied to the gate and to the wrist as a vow. Then the **Solar do Unhão** and the modern art museum by the sea, and in the afternoon **Rio Vermelho**, the nightlife neighborhood, where the baianas fry **acarajé** in palm oil on the street.
@@ -156,7 +156,7 @@ The town is small, with colorful houses, agencies and restaurants. The first aft
 
 The bus to Lençóis leaves from Salvador's rodoviária; take the early-morning or the overnight one, so as not to lose a whole day travelling. The flight, when there is one, lands at the Chapada airport, about twenty kilometres from town, but it only runs in some periods and not every day. In Lençóis the agencies for the following days' excursions are all in the centre: talk to a couple and fix guide and car that same evening. *The pools and water slides of Ribeirão do Meio are dark and deep: only go in where you see locals going in.*
 
-**In practice:** Salvador-Lençóis about 6-7 hours by bus · seasonal flight to the Chapada, to be checked · Ribeirão do Meio about 45 minutes on foot from town, easy trail · sleep in a pousada in Lençóis, and in the evening the whole town can be walked.
+**In practice:** Salvador-Lençóis about 6-7 hours by bus · Azul flight Salvador-Lençóis of about 1 hour 15, with few departures a week (two when the route opened, in January 2025), check on the Azul website · Ribeirão do Meio about 45 minutes on foot from town, easy trail · sleep in a pousada in Lençóis, and in the evening the whole town can be walked.
 
 ### Day 16 — Chapada: Morro do Pai Inácio and the caves
 We did the classic tour with a guide and a car: the **Gruta da Lapa Doce** or the **Gruta da Pratinha**, with turquoise water where you snorkel inside the cave; the **Poço do Diabo**, a waterfall with a dark pool; and the sunset on the **Morro do Pai Inácio**, the mesa that overlooks the valley, with a steep 20-30 minute climb.

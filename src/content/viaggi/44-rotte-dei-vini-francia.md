@@ -45,7 +45,7 @@ Abbiamo passato una giornata a **Strasburgo**, tra la cattedrale, il quartiere d
 
 Chi ha gambe sale le circa 330 scale fino alla piattaforma, da cui si vede tutta la città. Nel pomeriggio la **Petite France**, il vecchio quartiere dei mugnai e dei pescatori, con i canali dell'Ill, i Ponts Couverts e la diga Vauban, da cui si guarda il quartiere dall'alto. Un giro in battello sui canali arriva fino al quartiere europeo, con il Parlamento europeo e il Consiglio d'Europa. La sera si torna in treno a Colmar, oppure si resta a dormire a Strasburgo.
 
-**In pratica:** per la sfilata degli apostoli serve un biglietto a parte, pochi euro, con la cattedrale che si visita gratis · la piattaforma ha un ingresso separato a pagamento · la choucroute si mangia nelle winstub, le osterie alsaziane, meglio prenotate la sera.
+**In pratica:** per la sfilata degli apostoli serve un biglietto a parte, pochi euro, con la cattedrale che si visita gratis · la piattaforma ha un ingresso separato a pagamento, circa 10 € · la choucroute si mangia nelle winstub, le osterie alsaziane, meglio prenotate la sera.
 
 ### Giorno 5 — Trasferimento a Reims
 Siamo passati in Champagne, e qui cambia tutto: le grandi maison vanno prenotate con anticipo, a volte la visita è gratis, a volte a pagamento. Il pomeriggio l'abbiamo passato a **Reims**, nella cattedrale delle incoronazioni, con le vetrate di Chagall. Il trasferimento prende quasi tutta la mattina: dall'Alsazia a Reims ci sono circa quattro ore d'auto, oppure il treno da Strasburgo con cambio alla stazione TGV di Champagne-Ardenne, in circa due ore.

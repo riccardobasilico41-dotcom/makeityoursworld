@@ -47,7 +47,7 @@ Il pick-up in hotel era di mattina presto. Con un gruppo grande ci si divide su 
 
 Verso mezzogiorno abbiamo mangiato in un autogrill lungo la strada, con tanta scelta e cibo buono, contro ogni previsione. Nel primo pomeriggio, se c'è tempo, si fa tappa alla grotta di **Tham Khao Luang**, vicino a Phetchaburi, una grotta con statue di Buddha illuminata dall'alto; a **Hua Hin** siamo arrivati nel tardo pomeriggio. Per cena c'è uno dei mercati serali, Cicada, Tamarind o Chatchai, pieni di bancarelle di street food. *Al mercato del treno conviene restare dietro la linea che segnano i venditori: il treno passa davvero a pochi centimetri.*
 
-**In pratica:** partenza all'alba per arrivare ai mercati prima della folla · al mercato galleggiante i prezzi sono gonfiati, si contratta · Cicada e Tamarind aprono solo alcune sere della settimana, da controllare · a Hua Hin si dorme vicino alla spiaggia o al centro.
+**In pratica:** partenza all'alba per arrivare ai mercati prima della folla · al mercato galleggiante i prezzi sono gonfiati, si contratta · Cicada aperto il venerdì, il sabato e la domenica dalle 16 alle 23 circa, Tamarind accanto nelle stesse sere · a Hua Hin si dorme vicino alla spiaggia o al centro.
 
 ### Giorno 3 — Hua Hin-Chumphon
 Siamo partiti presto per il **Parco Nazionale di Sam Roi Yot** (200 THB a persona, di solito raccolti dal coordinatore nella cassa comune). La spiaggia di **Laem Sala** si raggiunge in barca, un quarto d'ora, o a piedi in quaranta minuti, secondo il mare. Da lì una breve escursione nella foresta porta alla **Grotta di Phra Nakorn**, con dentro un padiglione reale: quando la luce filtra dall'alto è uno degli scorci più fotografati della Thailandia. Siamo rimasti in spiaggia fino al pranzo.

@@ -61,7 +61,7 @@ The afternoon by boat along the **northeast coast**, in front of the **former pu
 
 For those staying ashore there's the **Quattrocchi** viewpoint, from which you see the faraglioni and Vulcano together: it's the island's postcard.
 
-**In practice:** Aeolian Archaeological Museum usually open every day until late afternoon, ticket of a few euros, hours to check on the archaeological park's site · at least two hours for the museum · former pumice quarries to be seen only from the sea · Lipari is the port to restock water and provisions.
+**In practice:** Aeolian Archaeological Museum usually open every day until late afternoon, full ticket about €7, hours to check on the archaeological park's site · at least two hours for the museum · former pumice quarries to be seen only from the sea · Lipari is the port to restock water and provisions.
 
 ### Day 4 — Salina: the green one
 A short crossing to **Salina**, the anomaly of the archipelago: **it's the only island with spring water**, and that's why it's green, cultivated and full of trees while the others are barren. It has two twin extinct volcanoes, **Monte dei Porri** and **Fossa delle Felci**, which give it the two-humped profile recognizable from kilometers away.

@@ -124,7 +124,7 @@ Cusco-Lima flight, about an hour and twenty minutes, and connection with the int
 
 In Lima, with an evening flight, you have a few hours left: the **Museo Larco**, the country's most important collection of pre-Columbian art, is in Pueblo Libre, closer to the airport than Miraflores, and a couple of hours is enough for it. *Leave for the airport well ahead: Lima's rush-hour traffic stretches travel times a lot.* If you have more days, don't fly home from here: the two best extensions are below, the Amazon with the flight from Cusco to Puerto Maldonado and Huaraz with the night bus from Lima.
 
-**In practice:** Cusco-Lima flight about 1 hour 20 · best a morning domestic flight and a few hours' margin · Museo Larco paid entry, in Pueblo Libre · app taxi to the airport, leaving early.
+**In practice:** Cusco-Lima flight about 1 hour 20 · best a morning domestic flight and a few hours' margin · Museo Larco entry about 50 soles (45 online), in Pueblo Libre · app taxi to the airport, leaving early.
 
 ## What to see / what to do
 - **Lima:** ceviche at lunch, the historic center, the Malecón of Miraflores and Barranco at sunset. If you have time, add the Museo Larco, the country's most important collection of pre-Columbian art.

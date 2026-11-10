@@ -109,7 +109,7 @@ The first stop was the **Aragonese Castle** at **Ischia Ponte**, on a rock islet
 
 We spent the afternoon in a **thermal park** on the western side. They're big gardens sloping down to the sea, with pools at different temperatures, from forty degrees up, natural saunas cut into the rock and direct access to the sea. You enter for the day and spend the entire afternoon doing nothing else, which is exactly the point.
 
-**In practice:** ferry from Capri, Naples or Pozzuoli · Aragonese Castle with a ticket, lift or ramp · thermal parks with day entry, check opening season and prices · swimsuit, flip-flops and towel for the spas.
+**In practice:** ferry from Capri, Naples or Pozzuoli · Aragonese Castle with a ticket, lift or ramp · thermal parks with day entry, usually open from April to late October (about €50 at Giardini Poseidon in 2026), check beforehand · swimsuit, flip-flops and towel for the spas.
 
 ### Day 8 — Ischia: Epomeo, Sorgeto and La Mortella
 In the morning we climbed **Mount Epomeo**, the volcanic peak at the center of the island, **789 meters**. The classic route starts from **Fontana**: it's a climb of about an hour and a half, with the last stretch in a **corridor cut into green tuff** that ends on a summit with the hermitage carved into the rock. From up there you see **all of Ischia at once**, which never happens from the island, and on clear days you reach Capri and Vesuvius.
@@ -118,7 +118,7 @@ As an alternative or addition there are the **La Mortella Gardens** in Forio: a 
 
 In the late afternoon we went to **Sorgeto**. You go down to a bay of stones near **Panza** by **over two hundred steps** (which then have to be climbed back up, and it's no joke) and arrive at a cove where **boiling springs come out directly under the stones and mix with the sea**. You look for the natural pools with the right temperature, moving one meter between water at forty degrees and the cold. **It's free, it's always open, and the best moment is sunset or a winter night.** You need **rubber shoes**, because near the vents the stones really burn, and caution, because in some spots the water is scalding.
 
-**In practice:** Epomeo from Fontana, about an hour and a half uphill · La Mortella gardens open only in some months and days, to check · Sorgeto free, over two hundred steps, rubber shoes · island bus or taxi between Forio and Panza.
+**In practice:** Epomeo from Fontana, about an hour and a half uphill · La Mortella gardens open from early April to early November on Tuesdays, Thursdays, Saturdays and Sundays only, 9am-7pm, about €15 · Sorgeto free, over two hundred steps, rubber shoes · island bus or taxi between Forio and Panza.
 
 ### Day 9 — Procida and the return
 The last ferry was to **Procida**, the smallest: **four square kilometers**, the least touristy of the three and **Italian Capital of Culture in 2022**, which brought it attention without changing it much.
@@ -131,7 +131,7 @@ You can see all of Procida in one day, and it's the right note to close on: afte
 
 In the afternoon we returned to Naples.
 
-**In practice:** ferry from Ischia to Procida, a few minutes · Corricella and Terra Murata on foot or by micro-taxi · Vivara with capped access, check the rules beforehand · back to Naples from Procida port, check whether it arrives at Beverello or Calata Porta di Massa.
+**In practice:** ferry from Ischia to Procida, a few minutes · Corricella and Terra Murata on foot or by micro-taxi · Vivara with capped access, only on a guided visit booked online, groups of up to 25 from Tuesday to Sunday, check the calendar beforehand · back to Naples from Procida port, check whether it arrives at Beverello or Calata Porta di Massa.
 
 ## How to shorten the itinerary
 - **In 5 days:** Coast only (Days 1-4) plus one day on Capri, sleeping there.

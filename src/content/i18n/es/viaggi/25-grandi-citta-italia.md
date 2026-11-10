@@ -99,7 +99,7 @@ De cena, una trattoria del Oltrarno o de Sant'Ambrogio, con la bistecca: es un c
 
 El Museo dell'Opera está incluido en la entrada de la cúpula, así que no cuesta nada más: conviene ir por la mañana, a la apertura, y quedarse un par de horas. La **Capilla Brancacci**, en el Oltrarno, conserva los frescos de Masaccio con la Expulsión del Paraíso y se visita en grupos pequeños, con reserva. Las **Capillas Mediceas**, detrás de San Lorenzo, tienen la sacristía nueva con las tumbas de Miguel Ángel. Por la tarde se puede pasar por el **mercado de Sant'Ambrogio**, frecuentado sobre todo por florentinos. *La bistecca se paga al peso y un corte entero pesa al menos un kilo: conviene pedirla para dos o tres.*
 
-**En la práctica:** Capilla Brancacci y Capillas Mediceas con entradas separadas y días de cierre propios, a comprobar · mercado de Sant'Ambrogio cerrado el domingo · en la bistecca el precio es por kilo, preguntar el peso antes de que la corten
+**En la práctica:** Capilla Brancacci (unos 15 euros, con reserva, cerrada los martes) y Capillas Mediceas (unos 11 euros, cerradas los lunes) con entradas separadas · mercado de Sant'Ambrogio cerrado el domingo · en la bistecca el precio es por kilo, preguntar el peso antes de que la corten
 
 ### Día 8 — Alta velocidad a Venecia
 **Florencia-Venecia en 2 h**, con la estación de Santa Lucia **dentro** de la ciudad.
@@ -121,7 +121,7 @@ Al atardecer subimos al **campanile de San Giorgio Maggiore**, que tiene la mejo
 
 Después del mercado se cruza el **puente de Rialto** aún vacío y se llega a San Marco antes de que abra la basílica, cuando la plaza está libre. Para la **basílica** conviene reservar la entrada, que cuesta poco, y añadir el museo con los caballos de bronce y la logia sobre la plaza. El **Palacio Ducal** requiere al menos dos horas, con las prisiones y el puente de los Suspiros visto desde dentro. La Scuola Grande di San Rocco, en el sestiere de San Polo, pone espejos a disposición para mirar los techos sin torcer el cuello. Para San Giorgio se coge el vaporetto en San Zaccaria. *En San Marco no se sienta uno en los escalones ni se come: hay multas.*
 
-**En la práctica:** Palacio Ducal unos 30 euros, menos comprando online con antelación · basílica de San Marco con entrada nominativa de unos 10 euros y reserva recomendada · campanario de San Giorgio con ascensor, entrada de pocos euros
+**En la práctica:** Palacio Ducal unos 30 euros, menos comprando online con antelación · basílica de San Marco con entrada nominativa de unos 10 euros y reserva recomendada · campanario de San Giorgio con ascensor, entrada de unos 8 euros
 
 ### Día 10 — La laguna
 Es la jornada que casi nadie hace. Fuimos a **Torcello**, a cuarenta minutos en vaporetto, con la basílica del siglo VII y el Juicio Final en mosaico que cubre una pared entera. Venecia empezó allí, antes de que existiera Venecia, y hay veinte personas.

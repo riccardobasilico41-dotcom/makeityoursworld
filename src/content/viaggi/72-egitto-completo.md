@@ -50,7 +50,7 @@ I prezzi per i turisti stranieri sono saliti più volte dal 2024. Le cifre sono 
 ### Come muoversi
 - **Dall'aeroporto al centro:** dal **Cairo (CAI)** a downtown o a Giza servono 45-75 minuti secondo il traffico. **Uber** e **Careem** funzionano, con ritiro nei parcheggi indicati dall'app, circa 250-500 EGP per Giza · il taxi o la limousine dai banchi ufficiali dentro il terminal costano di più ma hanno il prezzo fissato prima · in alternativa c'è il transfer dell'hotel. Non c'è una metro per l'aeroporto. Negli arrivi si viene avvicinati da finti «taxi ufficiali»: si rifiuta e si va al banco o sull'app. Ad **Assuan (ASW)** e **Luxor (LXR)** il taxi si concorda prima, in sterline; da **Marsa Alam (RMF)** e **Hurghada (HRG)** di solito ci si muove con il transfer dell'hotel o del diving.
 - **Cairo:** Uber e Careem; autista privato per Saqqara e Dahshur (30-50 $ al giorno).
-- **Cairo-Siwa:** circa 750 km. In auto con autista si va in due giorni, passando per Alessandria ed El Alamein e dormendo a Marsa Matruh (indicativamente 250-400 $ per l'auto in tutto, dipende dall'operatore). Esiste anche il bus della West Delta dal Cairo, circa 10-12 ore e poche decine di euro, ma viaggia di notte: Viaggiare Sicuri raccomanda di non muoversi su strada col buio, quindi qui consigliamo l'auto con autista, di giorno, all'andata e al ritorno.
+- **Cairo-Siwa:** circa 750 km. In auto con autista si va in due giorni, passando per Alessandria ed El Alamein e dormendo a Marsa Matruh (indicativamente 250-400 $ per l'auto in tutto, dipende dall'operatore). Esiste anche il bus della West Delta dal Cairo, circa 10-12 ore e circa 300-500 EGP, ma viaggia di notte: Viaggiare Sicuri raccomanda di non muoversi su strada col buio, quindi qui consigliamo l'auto con autista, di giorno, all'andata e al ritorno.
 - **Cairo-Assuan:** volo EgyptAir (1h25, indicativamente 70-140 €) oppure **treno notte con cabine letto** di Abela Trains dalle stazioni Cairo Upper Egypt (Bashtil) o Giza (non più da Ramses), circa 13-14 ore, 110-125 $ a persona in cabina doppia condivisa e 150-170 $ da soli, cena e colazione comprese, prenotazione su abelatrains.com o con la loro app. I treni diurni ordinari costano pochissimo ma sono lenti e meno comodi.
 - **Assuan-Abu Simbel:** 280 km, 3-3,5 ore di strada. I minivan partono alle 3-4 del mattino; non c'è più un convoglio obbligatorio come una volta, ma ci sono posti di blocco. Alternativa: volo EgyptAir di 45 minuti, utile solo se gli orari permettono di vedere il sito con calma.
 - **Assuan-Luxor:** crociera di 3 notti (le navi in senso inverso fanno 4 notti), oppure **dahabiya** a vela di 4-5 notti, oppure 3 ore di auto per chi preferisce l'hotel.
@@ -144,7 +144,7 @@ Altre quattro ore verso sud-ovest, attraverso un deserto piatto e vuoto, con un 
 Il pomeriggio ci siamo ambientati in bicicletta tra i palmeti e al tramonto siamo saliti sulla **fortezza di Shali**, il vecchio centro costruito in kershef, un impasto di fango e sale che le piogge del 1926 hanno in parte sciolto. Dall'alto si vedono i palmeti, i laghi salati e le montagne del deserto. La sera si consegna il passaporto all'operatore per il permesso del deserto di domani o del giorno dopo. *Siwa è una comunità conservatrice: alcol quasi introvabile, abiti coprenti anche per gli uomini, e le donne del posto non si fotografano.*
 
 **In pratica**
-- Biciclette a noleggio: pochi euro al giorno
+- Biciclette a noleggio: circa 50-100 EGP al giorno
 - Fortezza di Shali: ingresso economico
 - Contanti per tutto il soggiorno, gli ATM sono pochi e a volte vuoti
 
@@ -175,7 +175,7 @@ Chi arriva al Cairo con un po' di luce può fare un giro a **Heliopolis**, il qu
 
 **In pratica**
 - Auto: 8-10 ore con le soste
-- Bus notturno: esiste (10-12 ore, poche decine di euro), ma è sconsigliato perché viaggia col buio
+- Bus notturno: esiste (10-12 ore, circa 300-500 EGP), ma è sconsigliato perché viaggia col buio
 - Hotel vicino all'aeroporto per il volo di domani
 
 ### Giorno 10 — Volo per Assuan e feluca al tramonto

@@ -24,7 +24,7 @@ Abbiamo cominciato dalla Normandia densa, quella della storia. A **Rouen** c'è 
 
 Da lì la via del **Gros-Horloge** porta sotto l'orologio rinascimentale, che si può anche visitare dall'interno, fino alla **place du Vieux-Marché**, dove Giovanna d'Arco fu bruciata nel 1431: oggi c'è una chiesa moderna dal tetto a scaglie. Nel pomeriggio l'**Historial Jeanne d'Arc**, nel palazzo arcivescovile, racconta il processo, e l'**Aître Saint-Maclou**, un antico ossario a graticcio, mostra la Rouen più insolita. *Il centro storico è piccolo e si gira a piedi: l'auto a noleggio conviene ritirarla il giorno dopo.*
 
-**In pratica:** da Parigi a Rouen ci sono circa un'ora e mezza di treno · la cattedrale è a ingresso libero fuori dagli orari delle funzioni · il Gros-Horloge e l'Historial hanno biglietti separati, di pochi euro il primo e un po' di più il secondo.
+**In pratica:** da Parigi a Rouen ci sono circa un'ora e mezza di treno · la cattedrale è a ingresso libero fuori dagli orari delle funzioni · il Gros-Horloge e l'Historial hanno biglietti separati, di circa 8 € il primo e circa 11-12 € il secondo.
 
 ### Giorno 2 — Le spiagge dello sbarco (parte 1)
 Ci siamo spostati a Bayeux, la base per le spiagge, ma prima di vederle siamo passati dal **Mémorial de Caen**. L'ordine conta: senza il contesto del museo, le spiagge restano solo spiagge. Da Rouen a Caen ci sono circa un'ora e mezza d'auto. Il **Mémorial** merita almeno tre ore: il percorso parte dagli anni Trenta e attraversa la guerra fino allo sbarco e alla battaglia di Normandia, con una parte dedicata alla guerra fredda.

@@ -81,14 +81,14 @@ Volo interno AlUla-Riyadh, circa due ore. Ci siamo sistemati nel centro moderno,
 
 Il pomeriggio al **Museo Nazionale Saudita**, il migliore del paese per capire la storia della penisola: conviene vederlo **prima** di Diriyah, non dopo. Poi il **Masmak Fort**, la fortezza di fango incastrata tra i grattacieli da cui nel 1902 partì la riconquista di Ibn Saud. In mezzo ci sono poco più di cento anni, ed è il modo più rapido di capire quanto in fretta sia cambiato questo paese. *Il quartiere attorno al Masmak, con il souq e la piazza Deira, si gira bene a piedi la sera, quando rinfresca.*
 
-**In pratica:** Museo Nazionale con orari spezzati e aperture serali in alcuni giorni, ingresso gratuito o simbolico, da controllare su visitsaudi.com · Masmak gratuito, chiuso a metà giornata e riaperto nel pomeriggio · durante il Ramadan gli orari cambiano · Uber o Careem per ogni spostamento.
+**In pratica:** Museo Nazionale chiuso la domenica, aperto 9-19 e il giovedì e venerdì 14-22, ingresso gratuito, orari da riconfermare su visitsaudi.com · Masmak gratuito, chiuso a metà giornata e riaperto nel pomeriggio · durante il Ramadan gli orari cambiano · Uber o Careem per ogni spostamento.
 
 ### Giorno 7 — Diriyah
 La mattina è libera in città: il **souq Al-Zal**, il quartiere di Deira, lo skybridge del **Kingdom Centre** per la vista dall'alto. Il souq Al-Zal è il mercato tradizionale di tappeti, incenso, abiti e oggetti antichi, ed è più vivo dopo la preghiera del pomeriggio che al mattino presto; lo skybridge, il ponte sospeso tra le due punte della torre, ha senso con il cielo limpido.
 
 Il **tardo pomeriggio a Diriyah**, che è quando va vista. È la capitale originale dei Saud, fondata nel XV secolo lungo il wadi Hanifa e costruita tutta in **mattoni di fango e paglia**, con le travi di palma a vista e i motivi triangolari sulle facciate che servivano a far circolare l'aria. Distrutta dagli ottomani nel 1818, restaurata negli ultimi anni, patrimonio UNESCO dal 2010. Nell'ultima ora di luce il colore passa dall'ocra all'arancione bruciato. A mezzogiorno il fango riverbera e le fotografie vengono piatte.
 
-**In pratica:** At-Turaif con biglietto di circa 100 riyal, acquistabile su diriyah.sa, con tariffe serali ridotte segnalate in alcuni periodi · orari serali fino a tardi, da verificare sul sito · dopo la visita, cena sulla Bujairi Terrace di fronte, cara ma con vista sulle mura · Diriyah è a circa mezz'ora dal centro, in Uber.
+**In pratica:** At-Turaif con biglietto di circa 100 riyal, acquistabile su diriyah.sa, con tariffe serali ridotte segnalate in alcuni periodi · aperto fino a mezzanotte (il venerdì dalle 14), orari da riconfermare sul sito · dopo la visita, cena sulla Bujairi Terrace di fronte, cara ma con vista sulle mura · Diriyah è a circa mezz'ora dal centro, in Uber.
 
 ### Giorno 8 — L'Edge of the World
 Una giornata che vale il viaggio quanto Hegra, e ne è l'opposto: lì tutto è gestito e contingentato, qui non c'è niente.

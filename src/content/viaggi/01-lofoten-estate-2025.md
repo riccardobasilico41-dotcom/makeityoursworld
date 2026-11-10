@@ -22,7 +22,7 @@ Delle Lofoten mi è rimasta addosso prima di tutto la luce. A luglio il sole di 
 - **Clima:** freddo, anche a luglio, con vento soprattutto su spiagge e sentieri esposti.
 - **Base logistica:** due tappe fisse (Svolvær e Nesland/Flakstad) da cui fare escursioni
   in giornata.
-- **Dall'aeroporto al centro:** a **Oslo-Gardermoen (OSL)** il Flytoget porta a Oslo S in circa 20 minuti (circa 240-270 NOK, dall'app, alle macchinette o con la carta contactless ai tornelli; corse dalle prime ore del mattino fino a dopo mezzanotte) · i regionali Vy fanno la stessa tratta in circa 25 minuti a circa metà prezzo, biglietto dall'app Ruter o Vy: l'errore tipico è pagare il Flytoget senza accorgersene · taxi circa 700-1.000 NOK, meglio a prezzo fisso concordato · a **Bodø (BOO)** l'aeroporto è a circa 1,5 km dal centro: bus 1 e 4 in 5-10 minuti (circa 45 NOK, app Reis Nordland), taxi circa 150-250 NOK, a piedi un quarto d'ora; il noleggio auto è nel terminal.
+- **Dall'aeroporto al centro:** a **Oslo-Gardermoen (OSL)** il Flytoget porta a Oslo S in circa 20 minuti (circa 276 NOK, dall'app, alle macchinette o con la carta contactless ai tornelli; corse dalle prime ore del mattino fino a dopo mezzanotte) · i regionali Vy fanno la stessa tratta in circa 25 minuti a circa metà prezzo, biglietto dall'app Ruter o Vy: l'errore tipico è pagare il Flytoget senza accorgersene · taxi circa 700-1.000 NOK, meglio a prezzo fisso concordato · a **Bodø (BOO)** l'aeroporto è a circa 1,5 km dal centro: bus 1 e 4 in 5-10 minuti (circa 45 NOK, app Reis Nordland), taxi circa 150-250 NOK, a piedi un quarto d'ora; il noleggio auto è nel terminal.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Oslo
@@ -30,7 +30,7 @@ Siamo atterrati a Gardermoen verso l'ora di pranzo. La città è a 19 minuti di 
 
 Il pomeriggio è stato una lunga camminata: i giardini del Palazzo Reale, il lungomare di Aker Brygge, il museo Astrup Fearnley di Renzo Piano e infine l'Opera House, dove siamo saliti sul tetto a guardare la città e il mare. Al bar interno un tè caldo ci stava tutto, anche a luglio. Abbiamo cenato da **Rorbua**, sempre ad Aker Brygge: cucina norvegese tradizionale, porzioni generose, prezzi nella media, legno ovunque.
 
-**In pratica:** Flytoget circa 210 NOK a tratta, si paga con la carta ai tornelli o sull'app · il tetto dell'Opera è accessibile gratis a ogni ora · tram, bus e metro di Oslo con l'app Ruter · ad Aker Brygge conviene prenotare la cena d'estate
+**In pratica:** Flytoget circa 276 NOK a tratta, si paga con la carta ai tornelli o sull'app · il tetto dell'Opera è accessibile gratis a ogni ora · tram, bus e metro di Oslo con l'app Ruter · ad Aker Brygge conviene prenotare la cena d'estate
 
 ### Giorno 2 — Oslo → Bodø → Svolvær
 Siamo partiti prima dell'alba, col primo Flytoget verso l'aeroporto, e il volo per Bodø è atterrato in mattinata. Ritirata l'auto, abbiamo fatto un giro a piedi tra il centro e il molo; per una vista dall'alto c'è Nyholms Fort, a dieci minuti. Il pranzo l'abbiamo preso da asporto da **Bryggerikaia**, che apre a metà mattina e fa panini «mega farciti», e l'abbiamo mangiato al punto panoramico della città.

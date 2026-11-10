@@ -57,7 +57,7 @@ A primera hora de la tarde llegamos al **Kiyomizudera**, uno de los templos más
 
 Cenamos en **Menbaka Fire Ramen**, donde el ramen llega con un espectáculo de fuego de verdad: hay que reservar con antelación, los sitios se acaban rápido. Para quien quiera trasnochar está la zona de Pontocho, con el **World Club** o **The Common One**. Durante tres noches dormimos en el Agora Kyoto Shijo.
 
-**En la práctica:** Shinkansen Hikari Tokio-Kioto unas 2 horas y 40, incluido en el JR Pass · Kiyomizudera unos 500 yenes, y la subida por las callejuelas de Higashiyama está llena desde la mañana · Miyako Odori unos 6.000 yenes, solo en abril, fechas que hay que comprobar · Menbaka Fire Ramen con reserva muy anticipada.
+**En la práctica:** Shinkansen Hikari Tokio-Kioto unas 2 horas y 40, incluido en el JR Pass · Kiyomizudera unos 500 yenes, y la subida por las callejuelas de Higashiyama está llena desde la mañana · Miyako Odori unos 6.000 yenes, solo en abril, durante todo el mes, tres funciones al día · Menbaka Fire Ramen con reserva muy anticipada.
 
 ### Día 5 (10.04) — Kioto: Arashiyama, el bosque de bambú y Gion
 La mañana empezó en el **Camino del Filósofo**, a lo largo del canal entre los cerezos, llamado así por Nishida Kitaro, que lo recorría cada día meditando. Luego un walking tour de **Gion**, el barrio de las geikos: en algunas calles está prohibido hacer fotos a las geikos cuando se es demasiado invasivo, hay carteles y las multas son altas.
@@ -79,7 +79,7 @@ Después de comer y de un rato libre, el **Kinkaku-ji**, el Templo Dorado, abier
 
 Por la noche está la **ceremonia del té** con Camellia, en el corazón de Gion: 2.700 yenes por persona más 3.000 por el kimono, que hay que reservar por correo electrónico con mucha antelación porque hay pocos sitios. Para cenar valen las direcciones del día anterior; la última noche la pasamos en el Agora Kyoto Shijo.
 
-**En la práctica:** Fushimi Inari gratuito y siempre abierto, con la estación JR Inari justo delante, en una línea incluida en el JR Pass · Castillo Nijo unos 800 yenes (unos 1.300 con el palacio Ninomaru) y Kinkaku-ji unos 500 yenes; el castillo cierra algunos días en invierno y en verano, mejor comprobarlo · ceremonia del té con Camellia 2.700 yenes, kimono 3.000 yenes, reserva por email.
+**En la práctica:** Fushimi Inari gratuito y siempre abierto, con la estación JR Inari justo delante, en una línea incluida en el JR Pass · Castillo Nijo unos 800 yenes (unos 1.300 con el palacio Ninomaru) y Kinkaku-ji unos 500 yenes; el palacio Ninomaru cierra los martes de enero, julio, agosto y diciembre, y el castillo del 29 al 31 de diciembre · ceremonia del té con Camellia 2.700 yenes, kimono 3.000 yenes, reserva por email.
 
 ### Día 7 (12.04) — Kioto-Hiroshima-Miyajima
 El truco de esta jornada se hace la noche anterior: enviar el equipaje pesado a Osaka con el takkyubin, desde el hotel o desde un 7-Eleven, para viajar ligeros durante dos días. Salimos temprano y el Shinkansen Hikari nos llevó a Hiroshima en unas dos horas.
@@ -140,7 +140,7 @@ La comida es probablemente el verdadero hilo conductor de este viaje, y merece l
 
 - **Las reservas son más complicadas de lo previsto.** Muchos restaurantes japoneses, sobre todo los mejores, tienen poquísimos sitios (a veces 6-10 cubiertos) y por teléfono no hablan inglés. Para los grupos más numerosos casi siempre es necesario reservar con días o semanas de antelación, a menudo por correo electrónico o a través del conserje del hotel. Los locales más sencillos (ramen, izakaya pequeños, tabernas de barrio), en cambio, no admiten reservas: uno se presenta y espera en la cola (incluso 30-60 minutos en los sitios más famosos), pero es justo ahí donde a menudo se come mejor.
 - **Los izakaya son la solución más práctica cuando se es más de uno.** Son el equivalente de los pubs japoneses: se comparten muchos platitos en el centro de la mesa, la cuenta se divide fácilmente (basta pedir «betsu betsu no okaikei wo onegaishimasu» para cuentas separadas), y muchos ofrecen fórmulas **tabehodai/nomihodai** (all-you-can-eat/drink durante 1h30-2h a precio fijo), cómodas cuando se es mucha gente y no se quiere gestionar una cuenta complicada. Ojo: la fórmula vale para toda la mesa, no se puede elegir solo para algunos comensales.
-- **El cubierto**: muchos restaurantes aplican un pequeño «otoshi» (un aperitivo de bienvenida no pedido, una especie de cubierto) de pocos euros por persona: es normal, no es un timo.
+- **El cubierto**: muchos restaurantes aplican un pequeño «otoshi» (un aperitivo de bienvenida no pedido, una especie de cubierto) de unos 300-500 yenes por persona: es normal, no es un timo.
 - **La cuenta nunca incluye los impuestos**: hay que añadir el 10% al total.
 - **Consejos extra tras investigar**, para quien quiera ampliar la lista más allá de los locales ya señalados en el programa: en Tokio los izakaya de gama alta como Tanakada (Nishi-Azabu) son excelentes para una ocasión especial; en Kioto Muromachi Kaji es un kappo-izakaya muy apreciado por sus platos al estilo kaiseki en versión más informal. Ambos están señalados por la Guía Michelin como Bib Gourmand (buena relación calidad-precio), y hay que reservarlos con antelación.
 

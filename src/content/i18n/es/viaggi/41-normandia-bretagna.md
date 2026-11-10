@@ -24,7 +24,7 @@ Empezamos por la Normandía densa, la de la historia. En **Ruan** está la cated
 
 Desde allí la calle del **Gros-Horloge** lleva bajo el reloj renacentista, que también se puede visitar por dentro, hasta la **place du Vieux-Marché**, donde Juana de Arco fue quemada en 1431: hoy hay una iglesia moderna con el tejado de escamas. Por la tarde el **Historial Jeanne d'Arc**, en el palacio arzobispal, cuenta el proceso, y el **Aître Saint-Maclou**, un antiguo osario de entramado, muestra el Ruan más insólito. *El casco antiguo es pequeño y se recorre a pie: el coche de alquiler conviene recogerlo al día siguiente.*
 
-**En la práctica:** de París a Ruan hay una hora y media de tren · la catedral es de entrada libre fuera de los horarios de culto · el Gros-Horloge y el Historial tienen entradas separadas, de pocos euros la primera y algo más la segunda.
+**En la práctica:** de París a Ruan hay una hora y media de tren · la catedral es de entrada libre fuera de los horarios de culto · el Gros-Horloge y el Historial tienen entradas separadas, de unos 8 € la primera y unos 11-12 € la segunda.
 
 ### Día 2 — Las playas del desembarco (parte 1)
 Nos trasladamos a Bayeux, la base para las playas, pero antes de verlas pasamos por el **Mémorial de Caen**. El orden cuenta: sin el contexto del museo, las playas quedan en simples playas. De Ruan a Caen hay una hora y media en coche. El **Mémorial** merece al menos tres horas: el recorrido empieza en los años treinta y atraviesa la guerra hasta el desembarco y la batalla de Normandía, con una parte dedicada a la guerra fría.

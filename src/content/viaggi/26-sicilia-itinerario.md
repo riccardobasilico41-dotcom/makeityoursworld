@@ -20,7 +20,7 @@ La Sicilia viene sottodimensionata sistematicamente in fase di pianificazione: s
 - **Cibo:** la Sicilia ha due cucine, una per versante. A est prevalgono pesce e paste: **pasta alla Norma** a Catania, **ricci** a Siracusa, pesce spada nello Stretto. I dolci sono un capitolo a parte: **cannoli riempiti al momento e mai prima**, cassata e la **granita con la brioche col tuppo a colazione**, che d'estate è il modo giusto di cominciare la giornata (e si fa con acqua, zucchero e frutta, non con la panna).
 - **Vino:** Etna Rosso dal Nerello Mascalese, Nero d'Avola, Carricante per i bianchi. Le cantine dell'Etna si visitano **su appuntamento**.
 - **Guida:** l'interno (Enna, Piazza Armerina, le Madonie) è la parte dove la Sicilia è più sé stessa e meno turistica, e quasi tutti la saltano per stare sulla costa.
-- **Dall'aeroporto al centro:** **Catania Fontanarossa (CTA)** è a circa 5 km dal centro. **Alibus** AMTS fino alla stazione centrale e al centro in 20-30 minuti, 4 € (biglietto valido 90 minuti, a bordo, in aeroporto o in app), corse dalle 4:40 circa alla mezzanotte e mezza · **treno** dalla stazione Catania Aeroporto Fontanarossa, collegata al terminal da una navetta, fino a Catania Centrale in pochi minuti · **taxi** circa 20-30 € per il centro, meglio chiedere il prezzo prima di salire · bus Etna Trasporti e Interbus per Taormina e Siracusa · molte agenzie di noleggio stanno nei parcheggi esterni, raggiunti con le loro navette: vale anche per la riconsegna.
+- **Dall'aeroporto al centro:** **Catania Fontanarossa (CTA)** è a circa 5 km dal centro. **Alibus** AMTS fino alla stazione centrale e al centro in 20-30 minuti, 4 € (biglietto valido 90 minuti, a bordo, in aeroporto o in app), corse dalle 4:40 circa alla mezzanotte e mezza · **treno** dalla stazione Catania Aeroporto Fontanarossa, collegata al terminal da una navetta, fino a Catania Centrale in pochi minuti · **taxi** a tariffa fissa di circa 27 € per Piazza Duomo o la Stazione Centrale (in prova fino a fine 2026), meglio confermare il prezzo prima di salire · bus Etna Trasporti e Interbus per Taormina e Siracusa · molte agenzie di noleggio stanno nei parcheggi esterni, raggiunti con le loro navette: vale anche per la riconsegna.
 
 ## Itinerario giorno per giorno
 
@@ -60,7 +60,7 @@ Abbiamo visto il **Parco archeologico della Neapolis**, con il teatro greco e l'
 
 La sera, il mercato di Ortigia e la cena con i **ricci**, che qui sono la specialità. *I banchi del mercato lavorano soprattutto la mattina: chi vuole vederli al completo ci torna il giorno dopo, prima di partire.*
 
-**In pratica:** Neapolis con biglietto intero o cumulativo con il Museo Paolo Orsi, prezzi da controllare sul sito del parco · Duomo con biglietto di pochi euro · parcheggio Talete all'ingresso di Ortigia.
+**In pratica:** Neapolis con biglietto intero o cumulativo con il Museo Paolo Orsi, prezzi da controllare sul sito del parco · Duomo con biglietto di circa 2-3 € · parcheggio Talete all'ingresso di Ortigia.
 
 ### Giorno 5 — Noto, Modica, Scicli
 È la giornata del **barocco della Val di Noto**, patrimonio UNESCO: otto città ricostruite dopo il terremoto del 1693, tutte nello stesso stile e nello stesso momento.
@@ -105,7 +105,7 @@ La mattina siamo andati alla **Scala dei Turchi**, la falesia di marna bianca, *
 
 Poi il rientro verso Catania, con una sosta a **Caltagirone** e alla sua scalinata di 142 gradini in ceramica, se il tempo lo permette. Da Agrigento a Caltagirone sono circa due ore. Ogni gradino della **Scalinata di Santa Maria del Monte** ha le alzate decorate con maioliche diverse, e lungo la salita ci sono le botteghe dei ceramisti. Da Caltagirone a Catania resta un'ora e un quarto circa.
 
-**In pratica:** Scala dei Turchi con ingresso contingentato e a pagamento quando è aperta, regole da controllare sul sito del Comune di Realmonte · Agrigento-Catania via Caltagirone circa 3 ore e mezza senza soste · per l'ultima notte, Catania o il versante etneo, vicino all'aeroporto.
+**In pratica:** Scala dei Turchi con ingresso contingentato e a pagamento quando è aperta (nel 2026 circa 6 €, turni da 20 minuti), regole da controllare sul sito del Comune di Realmonte · Agrigento-Catania via Caltagirone circa 3 ore e mezza senza soste · per l'ultima notte, Catania o il versante etneo, vicino all'aeroporto.
 
 ### Giorno 10 — Ultima mattina e partenza
 Ultima granita con la brioche, ultimi acquisti (pistacchio di Bronte, cioccolato di Modica, vino dell'Etna) e volo da Catania. La granita si prende al bar la mattina, alla mandorla, al pistacchio o al gelso secondo la stagione, e la brioche col tuppo si inzuppa dentro. Per gli acquisti, le strade intorno alla Via Etnea e al mercato hanno pistacchio in crema e in granella, e le enoteche spediscono il vino in Italia.

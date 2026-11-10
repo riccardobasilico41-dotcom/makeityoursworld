@@ -62,7 +62,7 @@ At sunset we went to the **Zattere**, the long quay facing the Giudecca, where V
 
 The evening of **cicchetti** among the bacari of Dorsoduro and San Polo, standing, moving from one counter to another. It's the right way to dine in Venice, and costs a fraction of a restaurant.
 
-**In practice:** Accademia and Peggy Guggenheim with their own tickets, the Guggenheim has a weekly closing day to check · Frari with an entrance ticket, or with the Chorus Pass · Scuola Grande di San Rocco with a ticket, mirrors provided · all on foot between Dorsoduro and San Polo · cicchetti at the counter, a few euros each with an ombra.
+**In practice:** Accademia and Peggy Guggenheim with their own tickets, the Guggenheim is closed on Tuesdays · Frari with an entrance ticket, or with the Chorus Pass · Scuola Grande di San Rocco with a ticket, mirrors provided · all on foot between Dorsoduro and San Polo · cicchetti at the counter, a few euros each with an ombra.
 
 ### Day 3 — Cannaregio, the Ghetto and the Islands
 The morning in **Cannaregio**, the most lived-in and least visited of the six sestieri. **The Venetian Ghetto is the first ghetto in the world**: in 1516 the Republic obliged Jews to reside in this area closed off by guarded gates, and the word itself comes from here, from the foundry ("geto") that stood there before. Since they couldn't build outward, **they built upward**: the buildings of the Campo di Ghetto Nuovo have **very low ceilings and more levels than any other Venetian building**, and you can see it with the naked eye. There are five historic synagogues, visitable with a guide through the **Jewish Museum**. **Hours and availability change** and depend on holidays: check them beforehand.

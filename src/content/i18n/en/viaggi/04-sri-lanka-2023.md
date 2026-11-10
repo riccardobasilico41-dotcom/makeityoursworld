@@ -107,7 +107,7 @@ Very early wake-up and two hours on the road to **Yala National Park**, the park
 
 Then we headed toward the coast, two hours and a quarter or two forty. Along the road are the famous stilt fishermen: *today they are almost always a staged show for tourists, no longer a real way of fishing.* In Mirissa, in the early afternoon, a good pizza from a kiosk (about 4,000 LKR), and in the late afternoon we arrived in **Hikkaduwa**. Dinner at a seaside restaurant: slow service, excellent red snapper.
 
-**In practice:** Ella-Yala about 2 hours · Yala safari 12,000-16,000 LKR per jeep, plus entry of €27-30 per person and tip · the park may close for a few weeks in the dry season, check beforehand · Yala-Hikkaduwa about 2-3 hours, with lunch in Mirissa.
+**In practice:** Ella-Yala about 2 hours · Yala safari 12,000-16,000 LKR per jeep, plus entry of €27-30 per person and tip · the park may close for a few weeks in the dry season (in 2026 blocks 1 and 2 were closed from 14 September to 15 October), check beforehand · Yala-Hikkaduwa about 2-3 hours, with lunch in Mirissa.
 
 ### Day 10 — Hikkaduwa: day at the sea
 A whole day at the beach, to fill as you like. The best spot to **swim with turtles** is in front of the Hikka Tranz by Cinnamon Hotel: you get there from the beach, swim a few metres from the shore, and early in the morning the water is calmer and there are fewer people. *Turtles must not be touched or fed, even if some people sell seaweed on the beach for that.* The **Tsunami Museum** tells what the 2004 tsunami did to this coast, with photos and testimonies from local people.

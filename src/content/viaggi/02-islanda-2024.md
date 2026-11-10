@@ -46,7 +46,7 @@ Abbiamo cenato da **Kaffi Duus**, pesce misto per circa 30 €. Qui ho assaggiat
 
 È in questi primi giorni, sulla penisola di Reykjanes, che ho visto da vicino il **vulcano in eruzione**: la zona di Grindavík e Fagradalsfjall, a pochi minuti dall'aeroporto, entrata in attività più volte tra il 2023 e il 2024. Ci sono andato in autonomia, senza tour. È stata una delle esperienze più forti di tutto il viaggio, soprattutto durante la salita, quando abbiamo camminato affiancando le colate: si vedevano a debita distanza, con la lava che colava lentamente. Pietra incandescente: wow. Le eruzioni però vanno e vengono e l'area viene chiusa spesso: prima di partire controlla lo stato della zona su safetravel.is.
 
-**In pratica:** bus 55 dall'aeroporto, circa 4 € a corsa, ultima corsa poco dopo le 23 · cena da Kaffi Duus circa 30 € · prima di andare verso l'eruzione controllare chiusure e qualità dell'aria su safetravel.is · a Reykjanes servono scarpe da trekking e giacca antivento anche d'estate.
+**In pratica:** bus 55 dall'aeroporto alla fermata Kellir circa 4 € (fino a Reykjavík circa 2.400 ISK), ultima corsa poco dopo le 23 · cena da Kaffi Duus circa 30 € · prima di andare verso l'eruzione controllare chiusure e qualità dell'aria su safetravel.is · a Reykjanes servono scarpe da trekking e giacca antivento anche d'estate.
 
 ### Giorno 2 — Golden Circle: Geysir e Gullfoss
 La giornata è cominciata presto e con la logistica: l'auto da Sixt all'aeroporto di Keflavík, poi la tenda da RENTATENT (Vesturvör 32b, Kópavogur, apre alle 9). Da lì è iniziato davvero il viaggio, verso il Golden Circle.

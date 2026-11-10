@@ -109,7 +109,7 @@ La primera parada fue el **Castillo Aragonés** en **Ischia Ponte**, sobre un is
 
 La tarde la pasamos en un **parque termal** de la vertiente occidental. Son grandes jardines que descienden hacia el mar, con piscinas a distintas temperaturas, de cuarenta grados en adelante, saunas naturales excavadas en la roca y acceso directo al mar. Se entra por días y te pasas la tarde entera sin hacer otra cosa, que es justo el objetivo.
 
-**En la práctica:** ferry desde Capri, Nápoles o Pozzuoli · Castillo Aragonés con entrada, ascensor o rampa · parques termales con entrada de día, comprobar temporada de apertura y precios · bañador, chanclas y toalla para las termas.
+**En la práctica:** ferry desde Capri, Nápoles o Pozzuoli · Castillo Aragonés con entrada, ascensor o rampa · parques termales con entrada de día, normalmente abiertos de abril a finales de octubre (unos 50 € en los Giardini Poseidon en 2026), a comprobar antes · bañador, chanclas y toalla para las termas.
 
 ### Día 8 — Isquia: el Epomeo, Sorgeto y La Mortella
 Por la mañana subimos al **Monte Epomeo**, el relieve volcánico del centro de la isla, de **789 metros**. El recorrido clásico parte de **Fontana**: es una subida de aproximadamente una hora y media, con el último tramo en un **pasillo excavado en la toba verde** que acaba en una cima con la ermita excavada en la roca. Desde allí arriba se ve **toda Isquia a la vez**, algo que desde la isla no ocurre nunca, y en los días despejados se llega a ver Capri y el Vesubio.
@@ -118,7 +118,7 @@ Como alternativa o además están los **Jardines La Mortella** en Forio: un jard
 
 Al final de la tarde fuimos a **Sorgeto**. Se baja a una bahía de piedras cerca de **Panza** por **más de doscientos escalones** (que luego hay que volver a subir, y no es una broma) y se llega a una cala donde **manantiales hirvientes salen directamente bajo las piedras y se mezclan con el mar**. Se buscan las pozas naturales con la temperatura justa, moviéndose un metro entre el agua a cuarenta grados y la fría. **Es gratis, está abierto siempre, y el mejor momento es el atardecer o la noche de invierno.** Hacen falta **escarpines de goma**, porque cerca de las bocas las piedras queman de verdad, y prudencia, porque en algunos puntos el agua abrasa.
 
-**En la práctica:** Epomeo desde Fontana, una hora y media de subida · Jardines La Mortella abiertos solo algunos meses y días, a comprobar · Sorgeto gratuito, más de doscientos escalones, zapatos de goma · autobús de la isla o taxi entre Forio y Panza.
+**En la práctica:** Epomeo desde Fontana, una hora y media de subida · Jardines La Mortella abiertos de principios de abril a principios de noviembre solo martes, jueves, sábado y domingo, de 9 a 19, unos 15 € · Sorgeto gratuito, más de doscientos escalones, zapatos de goma · autobús de la isla o taxi entre Forio y Panza.
 
 ### Día 9 — Prócida y regreso
 El último ferri fue a **Prócida**, la más pequeña: **cuatro kilómetros cuadrados**, la menos turística de las tres y **Capital Italiana de la Cultura en 2022**, algo que le ha traído atención sin cambiarla demasiado.
@@ -131,7 +131,7 @@ Prócida se recorre entera en un día, y es la nota justa para cerrar: después 
 
 Por la tarde regresamos a Nápoles.
 
-**En la práctica:** ferry de Ischia a Procida, pocos minutos · Corricella y Terra Murata a pie o en microtaxi · Vivara con acceso limitado, normas a comprobar antes · vuelta a Nápoles desde el puerto de Procida, comprobar si llega al Beverello o a Calata Porta di Massa.
+**En la práctica:** ferry de Ischia a Procida, pocos minutos · Corricella y Terra Murata a pie o en microtaxi · Vivara con acceso limitado, solo con visita guiada reservada online, grupos de hasta 25 personas de martes a domingo, calendario a comprobar antes · vuelta a Nápoles desde el puerto de Procida, comprobar si llega al Beverello o a Calata Porta di Massa.
 
 ## Cómo comprimir el itinerario
 - **En 5 días:** solo la Costa (Días 1-4) más una jornada en Capri, durmiendo allí.

@@ -61,7 +61,7 @@ La tarde en barco a lo largo de la **costa nororiental**, frente a las **antigua
 
 Para quien se queda en tierra está el mirador de **Quattrocchi**, desde el que se ven juntos los farallones y Vulcano: es la postal de la isla.
 
-**En la práctica:** Museo Arqueológico Eolio abierto normalmente todos los días hasta media tarde, entrada de pocos euros, horarios a comprobar en la web del Parque arqueológico · al menos dos horas para el museo · antiguas canteras de piedra pómez para ver solo desde el mar · Lípari es el puerto donde cargar agua y provisiones.
+**En la práctica:** Museo Arqueológico Eolio abierto normalmente todos los días hasta media tarde, entrada general unos 7 €, horarios a comprobar en la web del Parque arqueológico · al menos dos horas para el museo · antiguas canteras de piedra pómez para ver solo desde el mar · Lípari es el puerto donde cargar agua y provisiones.
 
 ### Día 4 — Salina: la verde
 Breve travesía hacia **Salina**, la anomalía del archipiélago: **es la única isla con agua de manantial**, y por eso es verde, cultivada y llena de árboles mientras las otras son yermas. Tiene dos volcanes apagados gemelos, el **Monte dei Porri** y la **Fossa delle Felci**, que le dan el perfil de dos jorobas reconocible desde kilómetros.

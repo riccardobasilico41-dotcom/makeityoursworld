@@ -41,7 +41,7 @@ We devoted the day to the heart of the Old Town. **Vilnius Cathedral**, neoclass
 
 In the afternoon we visited the **University Courtyard** of Vilnius University, founded in 1579 and one of the oldest in Central and Eastern Europe, with thirteen interconnected courtyards. We ended the day between St. Anne's Church, Gothic in red brick, and the nearby Church of St. Francis and St. Bernard, one of the most photographed Gothic views in the city.
 
-**In practice:** Gediminas Tower about €8, funicular €2-3 · Palace of the Grand Dukes usually closed on Mondays · University courtyards with a ticket of a few euros · Cathedral free, crypts by guided tour only.
+**In practice:** Gediminas Tower about €8, funicular €2-3 · Palace of the Grand Dukes usually closed on Mondays · University courtyards open Monday to Saturday from 9 am to 6 pm, with a ticket of a few euros · Cathedral free, crypts by guided tour only.
 
 ### Day 3 — Užupis and the island castle at Trakai
 In the morning we were at **Užupis**, the neighborhood that since 1997 has proclaimed itself the "Independent Republic of Užupis", with a flag, an honorary president and a constitution of 41 articles, often surreal or poetic, engraved on plaques in dozens of languages along the **Constitution Wall**, on Paupio street. We walked among the art galleries and small workshops of the neighborhood, which in Soviet times was the most run-down area of Vilnius and today is the city's most bohemian district.
@@ -62,7 +62,7 @@ We spent the morning in the **Art Nouveau district**, concentrated along **Alber
 
 In the afternoon we went to the **Central Market** (Centrāltirgus): five pavilions made from German zeppelin hangars of World War I. Opened in 1930, at the time it was the largest and most modern in Europe; today about 80,000 people still visit it every day and it's part of the UNESCO site along with the Old Town. We wandered among the stalls of smoked Baltic fish, cheeses and dark rye bread (rupjmaize), stopping to taste the local products. In the evening we climbed the tower of **St. Peter's Church** (72 meters, ticket €9, on sale until 5 p.m.) for the view over the Old Town and the Daugava river at sunset.
 
-**In practice:** Art Nouveau Museum with a ticket of a few euros · Central Market open every day, best in the morning · St Peter's tower about €9, tickets until 5 pm.
+**In practice:** Art Nouveau Museum with a ticket of a few euros, open 10 am to 6 pm, closed on Mondays · Central Market open every day, best in the morning · St Peter's tower about €9, tickets until 5 pm.
 
 ### Day 6 — Jūrmala and a last walk around Riga
 In the morning we went to **Jūrmala**, Latvia's historic seaside town, about 20 km from Riga: regional train from the central station, about 30 minutes, with departures at least every half hour. It's a strip of about 32 km of white sand along the Gulf of Riga, a holiday destination since the czarist era and then of the Soviet elite, with hundreds of wooden villas in Art Nouveau and Art Deco style on the residential streets of Majori and Dzintari. You stroll along the beach starting from Majori, with a swim if the season allows (June to August), and then through the inner streets, to look at the decorated villas from the outside.

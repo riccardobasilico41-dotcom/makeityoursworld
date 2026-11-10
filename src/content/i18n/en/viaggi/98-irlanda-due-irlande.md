@@ -61,14 +61,14 @@ In the morning, Cork's **English Market**, the covered market opened in 1788. Yo
 
 Then south to **Kinsale**, about half an hour away, a harbour of colourful houses and restaurants, with **Charles Fort** of 1677 at the mouth of the bay. The star-shaped fort can be reached by car or on a coastal walk from Summercove, and from the ramparts you see the whole inlet. Kinsale is also a good place for a seafood lunch. In the afternoon you drive west to **Killarney**, the base for the next two days. The guide: [Cork and Kinsale](/destinazioni/irlanda/cork-kinsale).
 
-**In practice:** English Market Monday to Saturday, about 8am-6pm, closed Sundays and bank holidays · Charles Fort is an OPW site, check hours and price on heritageireland.ie · Kinsale-Killarney about 1 hour 45 · in Killarney book two nights in the same place.
+**In practice:** English Market Monday to Saturday, about 8am-6pm, closed Sundays and bank holidays · Charles Fort is an OPW site, open daily, about €5 (heritageireland.ie) · Kinsale-Killarney about 1 hour 45 · in Killarney book two nights in the same place.
 
 ### Day 6 — Ring of Kerry
 The **Ring of Kerry** is a 179 km loop around the Iveragh Peninsula, from Killarney back to Killarney: Kenmare, Sneem, Waterville, Cahersiveen, Killorglin. Coaches all drive it anticlockwise, because they can't pass each other on the narrow roads; if you're in a car you can go the other way and not get stuck behind them. Without stops it takes about four hours, with stops the whole day. *Setting off early, before 9, you get the emptiest road and the best light on the bays.*
 
 The best-known stops are **Ladies View**, **Moll's Gap** and, in Killarney National Park, **Muckross House** and **Torc** waterfall. Going clockwise, leave them for the end of the loop, when you head back to Killarney on the Kenmare road: Torc waterfall is a few minutes' walk from its car park, and the Muckross gardens can be visited without a ticket. Along the coast, Waterville and the area around Cahersiveen are the handiest places for lunch.
 
-**In practice:** 179 km loop, about 4 hours of pure driving, a full day with stops · Muckross House tour of the house about €7.50 (muckross-house.ie), gardens and park free · fill up in Killarney before setting off · narrow roads: in practice coaches always have right of way.
+**In practice:** 179 km loop, about 4 hours of pure driving, a full day with stops · Muckross House tour of the house about €9 (muckross-house.ie), gardens and park free · fill up in Killarney before setting off · narrow roads: in practice coaches always have right of way.
 
 ### Day 7 — Dingle Peninsula and the Slea Head Drive
 From Killarney to **Dingle**, about an hour's drive, and then onto the **Slea Head Drive**, the coastal loop at the tip of the peninsula: Ventry beach, a prehistoric fort, the beehive-shaped stone huts, the view of the **Blasket Islands** and the **Gallarus Oratory**, a small dry-stone church. The loop is about 50 km, but with stops and narrow roads it takes half a day. *As on the Ring of Kerry, you drive it clockwise, which here is the direction the signs show.*
@@ -163,7 +163,7 @@ You cross Ireland for the landscapes, and they don't disappoint: the cliffs, Ker
 *One of Rick's trips, told mostly through practical information. Sources: ireland.com, gov.uk and nidirect.gov.uk for documents, ETA, driving and healthcare; heritageireland.ie, cliffsofmoher.ie, visittrinity.ie, the National Trust and titanicbelfast.com for entrance fees and opening times; discovernorthernireland.com and visitbelfast.com for tours; the ONS for economic data; Wikipedia for history. Checked in November 2026. Prices, times and rules change: recheck them before you go.*
 
 ## Nota su questa bozza
-A trip Rick took; his first-person memories will follow. Driving times between stops are approximate, without stops. Left generic, for lack of confirmed sources: car and accommodation prices, the Book of Kells ticket, the prices of Charles Fort, Dunluce Castle, Kylemore Abbey and Muckross House, and the exact date the Long Room reopens. The Carrick-a-Rede price comes from Wikipedia and needs confirming on the National Trust website. No hotel, restaurant or operator names have been made up.
+A trip Rick took; his first-person memories will follow. Driving times between stops are approximate, without stops. Left generic, for lack of confirmed sources: car and accommodation prices, the Book of Kells ticket, the prices of Dunluce Castle and Kylemore Abbey, and the exact date the Long Room reopens. The Carrick-a-Rede price comes from Wikipedia and needs confirming on the National Trust website. No hotel, restaurant or operator names have been made up.
 
 ## Tag
 `#irlanda` `#irlandadelnord` `#dublino` `#belfast` `#derry` `#ringofkerry` `#cliffsofmoher` `#connemara` `#giantscauseway` `#troubles` `#roadtrip` `#europa`

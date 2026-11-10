@@ -106,7 +106,7 @@ Jornada en barco hacia el sur de Sipora. En la bahía de Katiet está **Lance's 
 
 El barco sale temprano, porque las primeras horas son las de menos viento y olas más limpias, y además se llega antes que los demás barcos. El spot se elige esa misma mañana con el barquero o con el alojamiento, según la dirección del swell y la marea: con marea baja el reef queda a pocos centímetros. *En estos reefs hacen falta escarpines o al menos mucho cuidado al salir, y nunca se entra solo.* Quien no surfea puede ir igualmente: se hace snorkel en aguas tranquilas o se queda en el barco mirando. Se vuelve a primera hora de la tarde, cuando el viento arrecia.
 
-**En la práctica:** barco para el día a organizar la noche antes con el alojamiento, precio a acordar · tasa de surf a pagar antes, importe a preguntar allí · escarpines para el reef y botiquín para los cortes · agua y comida a bordo.
+**En la práctica:** barco para el día a organizar la noche antes con el alojamiento, precio a acordar · tasa de surf a pagar antes, normalmente unos 1.000.000 IDR por surfista para un máximo de 15 días (algunos resorts indican 2.000.000), importe a confirmar allí · escarpines para el reef y botiquín para los cortes · agua y comida a bordo.
 
 ### Día 12 — Sipora, día lento o de reserva
 Un día dejado libre a propósito. Si el mar está bien se surfea otra vez o se busca otra playa. Si el mal tiempo ha hecho saltar una barca en los días anteriores, aquí se recupera. En Sipora está en construcción "The Sound of Love Mentawai", el proyecto del chef Max Mariola con un restaurante en la playa: obra anunciada desde noviembre de 2026.

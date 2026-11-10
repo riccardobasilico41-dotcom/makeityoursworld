@@ -40,7 +40,7 @@ Subimos a las **murallas** y a la **fortaleza de San Juan** a primera hora de la
 
 Por la tarde fuimos al mar en **Dobrota**, en la orilla hacia el norte, donde los palacios de los capitanes de barco del siglo XVIII se asoman a pequeñas playas y embarcaderos. Por la noche cenamos en una konoba con pescado del Adriático y vino tinto vranac.
 
-**En la práctica:** entrada a las murallas unos 15 € en temporada, en efectivo · calzado de caminar y agua: en la subida no hay sombra · catedral de San Trifón con pequeña entrada.
+**En la práctica:** entrada a las murallas unos 15 € en temporada, en efectivo · calzado de caminar y agua: en la subida no hay sombra · catedral de San Trifón con entrada de unos 4 €, en efectivo.
 
 ### Día 3 — Perast, Nuestra Señora de las Rocas y la vuelta a la bahía
 Doce kilómetros por la orilla nos llevaron a **Perast**, un pueblo barroco de una sola calle, con dieciséis palacios y diecisiete iglesias construidos por las familias de capitanes al servicio de Venecia. Frente al pueblo, dos islotes: **San Jorge**, con el monasterio entre los cipreses, y **Nuestra Señora de las Rocas** (Gospa od Škrpjela), una isla artificial construida arrojando al mar piedras y cascos hundidos, con una iglesia llena de exvotos de marineros. Llegamos con las barcas que salen del paseo marítimo.

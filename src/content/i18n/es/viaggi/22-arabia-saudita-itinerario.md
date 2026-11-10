@@ -83,7 +83,7 @@ La tarde en el **Museo Nacional Saudí**, el mejor del país para entender la hi
 
 Luego el **Masmak Fort**, la fortaleza de adobe encajada entre los rascacielos desde la que en 1902 partió la reconquista de Ibn Saud. De por medio hay poco más de cien años, y es la forma más rápida de entender lo deprisa que ha cambiado este país. *El barrio alrededor del Masmak, con el zoco y la plaza Deira, se recorre bien a pie por la noche, cuando refresca.*
 
-**En la práctica:** Museo Nacional con horario partido y aperturas nocturnas algunos días, entrada gratuita o simbólica, a comprobar en visitsaudi.com · Masmak gratuito, cerrado a mediodía y reabierto por la tarde · en Ramadán los horarios cambian · Uber o Careem para cada desplazamiento.
+**En la práctica:** Museo Nacional cerrado los domingos, abierto de 9 a 19 y los jueves y viernes de 14 a 22, entrada gratuita, horarios a reconfirmar en visitsaudi.com · Masmak gratuito, cerrado a mediodía y reabierto por la tarde · en Ramadán los horarios cambian · Uber o Careem para cada desplazamiento.
 
 ### Día 7 — Diriyah
 La mañana libre en la ciudad: el **zoco Al-Zal**, el barrio de Deira, el skybridge del **Kingdom Centre** para la vista desde lo alto. El zoco Al-Zal es el mercado tradicional de alfombras, incienso, ropa y objetos antiguos, y está más vivo después de la oración de la tarde que a primera hora; el skybridge, el puente suspendido entre las dos puntas de la torre, tiene sentido con el cielo despejado.
@@ -92,7 +92,7 @@ El **final de la tarde en Diriyah**, que es cuando hay que verla. Es la capital 
 
 En la última hora de luz el color pasa del ocre al naranja quemado. A mediodía el barro reverbera y las fotografías salen planas.
 
-**En la práctica:** At-Turaif con entrada de unos 100 riales, que se compra en diriyah.sa, con tarifas nocturnas reducidas en algunos periodos · horario nocturno hasta tarde, a comprobar en la web · después de la visita, cena en la Bujairi Terrace de enfrente, cara pero con vistas a las murallas · Diriyah está a una media hora del centro en Uber.
+**En la práctica:** At-Turaif con entrada de unos 100 riales, que se compra en diriyah.sa, con tarifas nocturnas reducidas en algunos periodos · abierto hasta medianoche (los viernes desde las 14), horarios a reconfirmar en la web · después de la visita, cena en la Bujairi Terrace de enfrente, cara pero con vistas a las murallas · Diriyah está a una media hora del centro en Uber.
 
 ### Día 8 — El Edge of the World
 Una jornada que vale el viaje tanto como Hegra, y es lo contrario: allí todo está gestionado y limitado, aquí no hay nada.

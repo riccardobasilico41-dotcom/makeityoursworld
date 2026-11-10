@@ -148,7 +148,7 @@ Despertador muy temprano y dos horas de carretera hasta el **Parque Nacional de 
 
 Después fuimos hacia la costa, dos horas y cuarto o dos y cuarenta. Por el camino están los famosos pescadores sobre postes: *hoy son casi siempre una puesta en escena para turistas, ya no una verdadera forma de pescar.* En Mirissa, a primera hora de la tarde, una pizza buena en un chiringuito (unas 4.000 LKR), y a última hora de la tarde llegamos a **Hikkaduwa**. Cena en un restaurante junto al mar: servicio lento, red snapper excelente.
 
-**En la práctica:** Ella-Yala unas 2 horas · safari en Yala 12.000-16.000 LKR por jeep, más entrada de 27-30 € por persona y propina · el parque puede cerrar algunas semanas en la estación seca, conviene comprobarlo · Yala-Hikkaduwa unas 2-3 horas, con comida en Mirissa.
+**En la práctica:** Ella-Yala unas 2 horas · safari en Yala 12.000-16.000 LKR por jeep, más entrada de 27-30 € por persona y propina · el parque puede cerrar algunas semanas en la estación seca (en 2026 los bloques 1 y 2 estuvieron cerrados del 14 de septiembre al 15 de octubre), conviene comprobarlo · Yala-Hikkaduwa unas 2-3 horas, con comida en Mirissa.
 
 ### Día 10 — Hikkaduwa: jornada de mar
 Un día entero de playa, para llenarlo como se quiera. El mejor punto para **nadar con las tortugas** está delante del Hikka Tranz by Cinnamon Hotel: se llega desde la playa, se nada a pocos metros de la orilla, y a primera hora el agua está más tranquila y hay menos gente. *Las tortugas no se tocan ni se alimentan, aunque haya quien vende algas en la playa para hacerlo.* El **Tsunami Museum** cuenta lo que el tsunami de 2004 hizo a esta costa, con fotos y testimonios de los habitantes.

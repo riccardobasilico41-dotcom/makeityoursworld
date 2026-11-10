@@ -39,7 +39,7 @@ La mattina il **castello di Shuri**, la sede del regno delle Ryukyu, Patrimonio 
 
 A pranzo il **mercato pubblico di Makishi**, dove si sceglie il pesce al piano terra e lo si fa cucinare al piano di sopra. Il servizio di cottura si paga a parte, a persona. Il pomeriggio è per la storia più recente: il **Parco della Pace** a Itoman, nel sud, sul luogo dell'ultima fase della battaglia di Okinawa del 1945. Ci si va in taxi, con un'auto per mezza giornata o in bus, che è lento. Il parco ha il museo della pace della prefettura e le lapidi con i nomi di tutti i caduti, civili e militari, di ogni nazionalità. Il 23 giugno, Irei no Hi, è la giornata in ricordo dei caduti. *Vicino c'è anche il memoriale Himeyuri, dedicato alle studentesse infermiere morte nella battaglia: si visita in silenzio.*
 
-**In pratica:** area a pagamento di Shuri circa 400 yen fino a novembre 2026, poi tariffe nuove da controllare · museo della pace della prefettura circa 300 yen, chiuso a fine anno · al mercato di Makishi il pesce si paga al banco, la cottura al ristorante.
+**In pratica:** area a pagamento di Shuri circa 400 yen fino al 22 novembre 2026, poi circa 1.000 yen · museo della pace della prefettura circa 300 yen, chiuso a fine anno · al mercato di Makishi il pesce si paga al banco, la cottura al ristorante.
 
 ### Giorno 3 — Traghetto per Zamami, isole Kerama
 Dal porto di Tomari partono il traghetto Ferry Zamami (circa due ore, 2.900 yen a tratta) e il veloce Queen Zamami (circa un'ora, 3.950 yen), più 100 yen di tassa per i visitatori (prezzi 2025-2026). In estate il veloce si esaurisce: va prenotato. Il porto di Tomari è a pochi minuti di taxi dal centro di Naha; conviene arrivare almeno mezz'ora prima per ritirare i biglietti. Il traghetto lento ha il vantaggio di imbarcare più bagagli e di soffrire meno il mare mosso.
@@ -86,7 +86,7 @@ Sull'isola di Shimoji c'è il tratto di mare accanto alla pista dell'aeroporto, 
 ### Giorno 9 — Miyako: snorkeling e la punta est
 Lo snorkeling a **Yoshino beach** o a **Shinjo beach**, dove il corallo comincia a pochi metri da riva. Sono sulla costa sud-est, vicine tra loro, e la mattina presto c'è meno gente e l'acqua è più ferma. Si entra in acqua dove indicano i bagnini e si resta dentro la zona protetta, perché le correnti oltre la barriera sono forti.
 
-Poi **Higashi-Hennazaki**, la lingua di terra che si allunga verso est con il faro in fondo. Dal parcheggio si cammina fino alla punta con il mare da due lati; il faro si può salire, con un piccolo biglietto, per vedere tutta la penisola dall'alto. Volo serale per Ishigaki. *Il volo Miyako-Ishigaki è breve, ma i voli tra le isole sono pochi al giorno: con un ritardo dei traghetti o del meteo non c'è sempre un'alternativa in serata.*
+Poi **Higashi-Hennazaki**, la lingua di terra che si allunga verso est con il faro in fondo. Dal parcheggio si cammina fino alla punta con il mare da due lati; il faro si può salire, con un biglietto di circa 300 yen, per vedere tutta la penisola dall'alto. Volo serale per Ishigaki. *Il volo Miyako-Ishigaki è breve, ma i voli tra le isole sono pochi al giorno: con un ritardo dei traghetti o del meteo non c'è sempre un'alternativa in serata.*
 
 **In pratica:** maschera e pinne a noleggio sulla spiaggia o nei negozi di Hirara · muta o lycra, crema reef-safe, e niente piedi sul corallo · consegna dell'auto all'aeroporto di Miyako prima del volo.
 

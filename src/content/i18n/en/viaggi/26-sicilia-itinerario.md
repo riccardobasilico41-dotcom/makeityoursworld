@@ -20,7 +20,7 @@ Sicily is systematically undersized at the planning stage: on the map it looks l
 - **Food:** Sicily has two cuisines, one for each side. In the east fish and pasta prevail: **pasta alla Norma** in Catania, **sea urchins** in Syracuse, swordfish in the Strait. Sweets are a chapter of their own: **cannoli filled to order and never before**, cassata and **granita with a brioche col tuppo for breakfast**, which in summer is the right way to start the day (and it's made with water, sugar and fruit, not with cream).
 - **Wine:** Etna Rosso from Nerello Mascalese, Nero d'Avola, Carricante for the whites. Etna wineries are visited **by appointment**.
 - **Guidance:** the interior (Enna, Piazza Armerina, the Madonie) is where Sicily is most itself and least touristy, and almost everyone skips it to stay on the coast.
-- **From the airport to the centre:** **Catania Fontanarossa (CTA)** is about 5 km from the centre. **Alibus** AMTS to the central station and the centre in 20-30 minutes, €4 (ticket valid 90 minutes, on board, at the airport or in the app), running from about 4:40am to half past midnight · **train** from Catania Aeroporto Fontanarossa station, linked to the terminal by a shuttle, to Catania Centrale in a few minutes · **taxi** about €20-30 to the centre, best to ask the price before getting in · Etna Trasporti and Interbus coaches to Taormina and Siracusa · many rental agencies are in outside car parks, reached by their shuttles: the same goes for the return.
+- **From the airport to the centre:** **Catania Fontanarossa (CTA)** is about 5 km from the centre. **Alibus** AMTS to the central station and the centre in 20-30 minutes, €4 (ticket valid 90 minutes, on board, at the airport or in the app), running from about 4:40am to half past midnight · **train** from Catania Aeroporto Fontanarossa station, linked to the terminal by a shuttle, to Catania Centrale in a few minutes · **taxi** at a fixed fare of about €27 to Piazza Duomo or the Central Station (on trial until the end of 2026), best to confirm the price before getting in · Etna Trasporti and Interbus coaches to Taormina and Siracusa · many rental agencies are in outside car parks, reached by their shuttles: the same goes for the return.
 
 ## Itinerario giorno per giorno
 
@@ -60,7 +60,7 @@ We saw the **Neapolis Archaeological Park**, with the Greek theater and the Ear 
 
 In the evening, the Ortigia market and dinner with **sea urchins**, which here are the specialty. *The market stalls work mostly in the morning: anyone who wants to see them in full should come back the next day, before leaving.*
 
-**In practice:** Neapolis with a full ticket or a combined one with the Paolo Orsi Museum, prices to be checked on the park's website · Cathedral with a ticket of a few euros · Talete car park at the entrance to Ortigia.
+**In practice:** Neapolis with a full ticket or a combined one with the Paolo Orsi Museum, prices to be checked on the park's website · Cathedral with a ticket of about €2-3 · Talete car park at the entrance to Ortigia.
 
 ### Day 5 — Noto, Modica, Scicli
 It's the day of the **Baroque of the Val di Noto**, a UNESCO site: eight cities rebuilt after the earthquake of 1693, all in the same style and at the same moment.
@@ -105,7 +105,7 @@ In the morning we went to the **Scala dei Turchi**, the white marl cliff, **with
 
 Then the return toward Catania, with a stop at **Caltagirone** and its staircase of 142 ceramic steps, if time allows. From Agrigento to Caltagirone it's about two hours. Every step of the **Staircase of Santa Maria del Monte** has its riser decorated with different majolica tiles, and ceramicists' workshops line the climb. From Caltagirone to Catania it's another hour and a quarter or so.
 
-**In practice:** Scala dei Turchi with limited, paid access when open, rules to be checked on the Comune di Realmonte website · Agrigento-Catania via Caltagirone about 3 and a half hours without stops · for the last night, Catania or the Etna side, near the airport.
+**In practice:** Scala dei Turchi with limited, paid access when open (in 2026 about €6, 20-minute slots), rules to be checked on the Comune di Realmonte website · Agrigento-Catania via Caltagirone about 3 and a half hours without stops · for the last night, Catania or the Etna side, near the airport.
 
 ### Day 10 — Last Morning and Departure
 A last granita with brioche, last purchases (Bronte pistachio, Modica chocolate, Etna wine) and a flight from Catania. Granita is taken at the bar in the morning, almond, pistachio or mulberry depending on the season, and the brioche col tuppo is dipped into it. For shopping, the streets around Via Etnea and the market sell pistachio as cream and chopped, and wine shops ship wine to Italy.

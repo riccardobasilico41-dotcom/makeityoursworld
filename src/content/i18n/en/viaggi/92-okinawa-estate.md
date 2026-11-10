@@ -39,7 +39,7 @@ In the morning **Shuri Castle**, seat of the Ryukyu Kingdom, a UNESCO World Heri
 
 For lunch, **Makishi Public Market**, where you pick fish on the ground floor and have it cooked upstairs. The cooking is charged separately, per person. The afternoon is for more recent history: the **Peace Park** in Itoman, in the south, on the site of the final phase of the 1945 Battle of Okinawa. Get there by taxi, with a car for half a day, or by bus, which is slow. The park has the prefectural peace museum and the stones bearing the names of all the dead, civilian and military, of every nationality. 23 June, Irei no Hi, is the day of remembrance for the fallen. *Nearby is also the Himeyuri memorial, dedicated to the student nurses who died in the battle: it is visited in silence.*
 
-**In practice:** Shuri paid area about 400 yen until November 2026, then new prices to check · prefectural peace museum about 300 yen, closed at the end of the year · at Makishi market you pay for the fish at the stall, the cooking at the restaurant.
+**In practice:** Shuri paid area about 400 yen until 22 November 2026, then about 1,000 yen · prefectural peace museum about 300 yen, closed at the end of the year · at Makishi market you pay for the fish at the stall, the cooking at the restaurant.
 
 ### Day 3 — Ferry to Zamami, Kerama Islands
 From Tomari port leave the Ferry Zamami (about two hours, 2,900 yen one way) and the fast Queen Zamami (about one hour, 3,950 yen), plus a 100 yen visitor tax (2025-2026 prices). In summer the fast boat sells out: book it. Tomari port is a few minutes by taxi from central Naha; arrive at least half an hour early to collect tickets. The slow ferry has the advantage of taking more luggage and handling rough seas better.
@@ -86,7 +86,7 @@ On Shimoji island is the stretch of sea next to the airport runway, known as 17E
 ### Day 9 — Miyako: snorkeling and the eastern tip
 Snorkeling at **Yoshino beach** or **Shinjo beach**, where the coral starts a few metres from the shore. They are on the south-east coast, close to each other, and early in the morning there are fewer people and the water is stiller. Enter the water where the lifeguards indicate and stay inside the protected zone, because the currents beyond the reef are strong.
 
-Then **Higashi-Hennazaki**, the tongue of land stretching east with a lighthouse at the end. From the car park you walk to the tip with the sea on both sides; the lighthouse can be climbed, with a small ticket, to see the whole peninsula from above. Evening flight to Ishigaki. *The Miyako-Ishigaki flight is short, but flights between the islands are few each day: with a ferry or weather delay there is not always an alternative that evening.*
+Then **Higashi-Hennazaki**, the tongue of land stretching east with a lighthouse at the end. From the car park you walk to the tip with the sea on both sides; the lighthouse can be climbed, with a ticket of about 300 yen, to see the whole peninsula from above. Evening flight to Ishigaki. *The Miyako-Ishigaki flight is short, but flights between the islands are few each day: with a ferry or weather delay there is not always an alternative that evening.*
 
 **In practice:** mask and fins for hire on the beach or in shops in Hirara · wetsuit or rash guard, reef-safe sunscreen, and no feet on the coral · return the car at Miyako airport before the flight.
 

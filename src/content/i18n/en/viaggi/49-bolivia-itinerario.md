@@ -38,7 +38,7 @@ The second day is still for acclimatizing, but more active. The urban cable cars
 
 In the afternoon we took a taxi to the **Valle de la Luna**, eroded clay formations a few kilometers from the center. *You still feel the effort climbing stairs: that's normal, the body hasn't fully adjusted yet.* Anyone in El Alto in the evening can catch the cholitas luchadoras, the wrestling of Aymara women.
 
-**In practice:** cable car paid per ride, with a separate ticket at each line change · Valle de la Luna has a small entrance fee, about an hour's visit · cholitas luchadoras usually on Sunday afternoons at El Alto's Multifuncional, times to check; many go with a tour that includes transport · better not to walk around El Alto alone after dark.
+**In practice:** cable car paid per ride, with a separate ticket at each line change · Valle de la Luna has an entrance fee of about 15 bolivianos, about an hour's visit · cholitas luchadoras usually on Sunday afternoons at El Alto's Multifuncional, times to check; many go with a tour that includes transport · better not to walk around El Alto alone after dark.
 
 ### Day 3 — Tiwanaku and transfer to Copacabana
 We moved to **Copacabana**, on Lake Titicaca: about 4 hours by road, with a stop at the ruins of **Tiwanaku**, capital of a civilization older than the Incas, along the road to the lake. At the site you see the semi-subterranean temple, the **Kalasasaya** platform with the Gate of the Sun and, a short way off, the cut blocks of **Puma Punku**; the two museums, lithic and ceramic, help you understand what you are looking at. It's best to get there in the morning and give it a couple of hours, with a guide or on a tour that combines Tiwanaku with the transfer.
@@ -101,14 +101,14 @@ Overland we reached **Potosí**, at 4,000 meters, the city whose Cerro Rico silv
 
 Our first visit was to the **Casa Nacional de la Moneda**, the old colonial mint, to understand what silver mining meant before going into the mine the next day. It can only be seen on guided tours at set times, lasting a couple of hours. Afterwards, a walk around **Plaza 10 de Noviembre** and the churches of the center. For dinner, the hearty soups typical of the altiplano, made precisely for the cold at altitude.
 
-**In practice:** Uyuni-Potosí bus about 4 hours, several departures a day · Casa de la Moneda with a foreigners' ticket of a few dozen bolivianos, guided only: check tour times, and from 2026 the building is undergoing restoration work · book today the mine visit for tomorrow.
+**In practice:** Uyuni-Potosí bus about 4 hours, several departures a day · Casa de la Moneda with a ticket of about 40 bolivianos, guided only: check tour times, and from 2026 the building is undergoing restoration work · book today the mine visit for tomorrow.
 
 ### Day 12 — Potosí and the mines of Cerro Rico
 It is the heaviest day of the trip, not physically but emotionally: the guided visit to the still-active tunnels of **Cerro Rico**, almost always with former miners as guides. You go in with helmet, lamp and boots into narrow, hot, dusty passages, next to men who work there ten hours a day with tools from another century. *It is not a tourist attraction and should not be treated as one:* it is customary to bring a small gift (coca leaves, soft drinks, gloves), bought at the miners' market before going up.
 
 The visit is not advisable for anyone with claustrophobia or breathing problems, also because of the altitude. The tour usually starts in the morning and lasts half a day, with a couple of hours underground; choose an agency with guides who used to be miners and small groups, not the cheapest one. The afternoon is for digesting what you've seen before moving on.
 
-**In practice:** mine visit roughly a few dozen dollars per person, with gear and transport · dynamite demonstrations are illegal and dangerous: refuse them · old clothes that can get dirty · a dust mask is recommended.
+**In practice:** mine visit about 100-150 bolivianos per person with a Spanish-speaking guide, 150-250 with an English-speaking one, with gear and transport · dynamite demonstrations are illegal and dangerous: refuse them · old clothes that can get dirty · a dust mask is recommended.
 
 ### Day 13 — From Potosí to Sucre
 It's about 3 hours by road to **Sucre**, the constitutional capital, a white colonial UNESCO World Heritage city at 2,800 meters. You can leave in the morning by bus or shared taxi, which is faster, and the road drops more than a thousand meters through ever greener valleys. It's the gentlest altitude of the whole trip, and you feel it at once: you breathe better, the climate is mild, the streets are orderly.

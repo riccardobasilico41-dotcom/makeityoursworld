@@ -47,14 +47,14 @@ You arrive in the morning. From Chiang Mai station to the **old city** you take 
 
 Three temples not to miss: **Wat Phra Singh**, the most revered in the city, **Wat Chedi Luang** with its great ruined stupa, partly brought down by an earthquake in the sixteenth century, and **Wat Sri Suphan**, the silver temple, in the silversmiths' quarter just south of the walls. Women may not enter the ordination hall of Wat Sri Suphan. The afternoon is slow: a coffee, a massage, dinner at a market. *After a night on the train, don't overdo it: Chiang Mai still has several days ahead.*
 
-**In practice:** red songthaews, agree the fare before getting in, or Grab · old city temples with tickets of a few dozen baht or a free donation · shoulders and knees covered · to sleep, the old city and the area around Tha Phae Gate are handy for getting around on foot.
+**In practice:** red songthaews, agree the fare before getting in, or Grab · many old city temples by free donation, Wat Chedi Luang about 40-50 baht for foreigners · shoulders and knees covered · to sleep, the old city and the area around Tha Phae Gate are handy for getting around on foot.
 
 ### Day 4 — Doi Suthep, Wat Pha Lat and the evening market
 **Wat Phra That Doi Suthep** is the temple on the mountain above the city, with its golden stupa and a staircase of more than three hundred steps lined with nagas. There's also a funicular. Go early in the morning, before the groups. If your legs are up to it, walk up the **Monk's Trail**, which passes **Wat Pha Lat**, a stone and wood temple hidden in the forest, with a stream running down the rocks. Since 1 October 2025 Doi Suthep-Pui National Park charges an entrance fee on some trails too: check the amount locally.
 
 The trail starts at the end of Suthep Road, near the university, and is marked by orange strips tied to the trees; the stretch from Wat Pha Lat to Doi Suthep is steeper. *Monks live and meditate along the trail and at Pha Lat: walk quietly and dress for a temple.* To get down there are songthaews leaving from the car park. In the evening, if it's Saturday, the **Wualai** walking market; if it's Sunday, the **Sunday Walking Street** on Ratchadamnoen Road. On other days there's the Night Bazaar, more touristy.
 
-**In practice:** Doi Suthep about half an hour by road from the old city, shared songthaew from the end of Suthep Road · temple ticket and funicular a few dozen baht · shoes with good grip, the Monk's Trail is slippery after rain · the walking markets open in the late afternoon and fill up after sunset.
+**In practice:** Doi Suthep about half an hour by road from the old city, shared songthaew from the end of Suthep Road · temple ticket about 30 baht for foreigners, funicular about 20-50 baht · shoes with good grip, the Monk's Trail is slippery after rain · the walking markets open in the late afternoon and fill up after sunset.
 
 ### Day 5 — Cooking class or Doi Inthanon
 Two options. The first is a **Thai cooking class**, which in Chiang Mai usually starts with shopping at the market and ends at the table with what you've cooked. It's the right place to learn **khao soi**, the northern coconut curry noodle soup. Many classes are held on farms outside the city, with a garden where you pick the herbs, and almost all pick you up at the hotel; there's a morning and an afternoon version, so the rest of the day stays free.
@@ -82,7 +82,7 @@ A day around town. **Pai Canyon** at sunset, with paths along ridges of red eart
 
 The easiest order is to leave the canyon for last. In the morning the **hot springs**, nicer in the cool of the early hours, then **Mo Paeng** waterfall, the rice fields and the Second World War memorial bridge on the road to Chiang Mai. In the afternoon, if you don't mind bends, you can drive up to the **Yun Lai** viewpoint, famous at dawn for the sea of clouds over the valley. *Get to the canyon at least an hour before sunset, and bring a torch for the walk back to the car park.*
 
-**In practice:** canyon a few kilometres from town, free access · hot springs with a paid entrance, check prices locally · scooter only with an international licence valid for motorbikes · alternatively, a driver for the day arranged through your guesthouse.
+**In practice:** canyon a few kilometres from town, free access · hot springs with a paid entrance, about 300 baht for foreigners at Tha Pai, elsewhere check prices locally · scooter only with an international licence valid for motorbikes · alternatively, a driver for the day arranged through your guesthouse.
 
 ### Day 9 — Back to Chiang Mai and Nimman
 Minivan back to Chiang Mai, on the same winding road. If you can, choose a morning departure: you arrive in time for lunch and keep the whole afternoon. The afternoon in **Nimman**, the modern neighbourhood of specialty coffee shops and restaurants, or one last temple in the old city. It's the breathing day before the last part of the trip.

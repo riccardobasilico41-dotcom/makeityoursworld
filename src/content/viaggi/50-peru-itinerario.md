@@ -106,7 +106,7 @@ La mattina con la famiglia ospitante, poi di nuovo in barca verso Puno, dove si 
 
 Ad Amantaní la giornata comincia presto, con una colazione semplice in casa e il saluto al molo, da dove le barche ripartono a orario fisso. *Conviene chiedere la sera prima a che ora si parte: i gruppi non aspettano.* **Sillustani** sta a circa tre quarti d'ora di strada da Puno, sulla laguna Umayo: le chullpas, torri funerarie dei Colla e poi degli Inca, si visitano meglio nel tardo pomeriggio, quando la pietra prende il colore del tramonto. Al rientro, una cena calda a Puno, con la trota del lago o una zuppa di quinoa, e a letto presto, perché domani si riparte in bus.
 
-**In pratica:** rientro dalle isole a Puno verso metà giornata · Sillustani circa 45 minuti da Puno, mezza giornata con tour o taxi, piccolo biglietto d'ingresso · bus per Arequipa da prenotare oggi con una compagnia principale · seconda notte a Puno.
+**In pratica:** rientro dalle isole a Puno verso metà giornata · Sillustani circa 45 minuti da Puno, mezza giornata con tour o taxi, ingresso circa 15 soles · bus per Arequipa da prenotare oggi con una compagnia principale · seconda notte a Puno.
 
 ### Giorno 13 — Da Puno ad Arequipa
 Circa 6 ore di bus fino ad **Arequipa**, a 2.300 metri: un sollievo vero dopo giorni passati sopra i 3.400. Il corpo lo sente, e si dorme meglio già dalla prima notte. Siamo arrivati nel pomeriggio, con il tempo per una prima passeggiata nel centro storico costruito in **sillar**, la pietra vulcanica chiara che dà alla città il soprannome di "città bianca", con il vulcano Misti sullo sfondo di ogni scorcio.
@@ -169,7 +169,7 @@ Una giornata libera a Lima, come cuscinetto tra le due estensioni: utile anche s
 
 La mattina serve a riposarsi e a lavare i vestiti, che dopo la foresta ne hanno bisogno, e a pranzo c'è tempo per un ultimo ceviche a Miraflores o Barranco. Chi ha ancora energie torna in centro o al Museo Larco, se era rimasto indietro il secondo giorno. *Nei bus notturni conviene pagare qualcosa in più per i sedili che si reclinano quasi del tutto, e tenere documenti e soldi addosso, mai nel bagagliaio.* A Lima ogni compagnia parte dal proprio terminal: si controlla l'indirizzo sul biglietto e ci si arriva con un taxi prenotato, con almeno mezz'ora di anticipo.
 
-**In pratica:** bus Lima-Huaraz circa 8 ore, partenze serali verso le 22 e arrivo all'alba · biglietto di qualche decina di dollari nelle classi migliori, online o al terminal · Cruz del Sur e Movil Tours tra le compagnie principali · una felpa a portata di mano: l'aria condizionata è forte.
+**In pratica:** bus Lima-Huaraz circa 8 ore, partenze serali verso le 22 e arrivo all'alba · biglietto di circa 80-150 soles nelle classi migliori, online o al terminal · Cruz del Sur e Movil Tours tra le compagnie principali · una felpa a portata di mano: l'aria condizionata è forte.
 
 ### Giorno 22 — Arrivo a Huaraz e primo giorno di acclimatamento
 Siamo arrivati a **Huaraz** in mattinata, a circa 3.050 metri: dopo l'Amazzonia a livello del mare, la quota va ripresa da capo, come se si arrivasse ora per la prima volta. Una giornata leggera in città, che è la base d'appoggio per tutta la Cordillera Blanca, con agenzie di trekking a ogni angolo, e di bello in sé ha poco altro. Una passeggiata fino al mercato centrale per il caldo de gallina e gli infusi di erbe d'altura, che nei primi giorni aiutano, e il tempo per scegliere l'agenzia giusta per il trek di Santa Cruz dei prossimi giorni: vanno controllate guide e attrezzatura, oltre al prezzo.
