@@ -36,6 +36,8 @@ export const destinazioniBrasile: Destinazione[] = [
       'Walking in deserted areas in the evening instead of using an app',
       'Going up to the Christ at noon, when it is often in the clouds and crowded',
     ],
+    miaEsperienza:
+      "I started Brazil here: four days in Rio, between Christ the Redeemer, Santa Teresa and the Escadaria Selarón, Sugarloaf, Copacabana and Ipanema, the sunset from Pedra do Arpoador and evenings of samba in Lapa. I also saw Christ the Redeemer from above, flying over it by helicopter. In Rio my contact is Sylvain.",
     luoghi: [
       {
         "nome": "Christ the Redeemer",
@@ -343,13 +345,15 @@ export const destinazioniBrasile: Destinazione[] = [
       'The forest trails of Ilha Grande',
     ],
     doveDormire: 'Pousadas in the center of Paraty (R$300-700) and in Vila do Abraão (R$250-600).',
-    comeArrivare: 'Bus from Rio to Paraty (about 4 and a half hours); van and boat from Paraty or Rio to Ilha Grande.',
+    comeArrivare: "From Rio to Paraty the bus from the Novo Rio rodoviária takes about four and a half hours; at weekends buy tickets a few days in advance. By car you take the same route along the BR-101, the Rio-Santos road. For Ilha Grande you take a van to Angra dos Reis or Conceição de Jacareí and then the boat to Vila do Abraão: from Paraty about 3 hours in all, from Rio 3-4 hours. The combined van and boat transfer can be booked the day before in town or online.",
     comeSpostarsi: 'On foot and by boat; there are no cars on Ilha Grande.',
     periodoMigliore: 'April-November for less rain and fewer crowds; December-February full and expensive.',
     erroriDaEvitare: [
       'Not bringing water and food to Lopes Mendes, where there are no services',
       'Leaving large luggage without having booked the airport transfer the day before',
     ],
+    miaEsperienza:
+      "After Rio, four days on the Costa Verde: two in Paraty, with a boat trip around the bay and the waterfalls on the Cunha road, and two on Ilha Grande, based in Abraão, with a day at Lopes Mendes.",
     luoghi: [
       {
         "nome": "Historic centre of Paraty",
@@ -357,6 +361,8 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Direct buses from the Novo Rio bus station.",
         "quando": "The evening is quiet, with restaurants and live music.",
         "tempo": "Half a day or an evening",
+        "lat": -23.21907,
+        "lng": -44.71335,
         "consiglio": "At high tide some streets flood: suitable shoes."
       },
       {
@@ -364,24 +370,11 @@ export const destinazioniBrasile: Destinazione[] = [
         "testo": "The bay has dozens of islands and beaches reachable only by sea. The escunas do a trip of a few hours with swimming stops.",
         "come": "Boarding at Paraty port. Private lanchas cost more but choose where to stop.",
         "quando": "Morning.",
-        "tempo": "Half a day",
+        "tempo": "4-5 hours",
+        "costo": "Escuna about 100-150 R$ per person for 4-5 hours with stops (about 17-25 €), lunch extra",
+        "lat": -23.21986,
+        "lng": -44.71203,
         "consiglio": "If you want to avoid the crowd, choose a lancha."
-      },
-      {
-        "nome": "Cunha waterfalls and alambiques",
-        "testo": "On the road to Cunha there are waterfalls and cachaça distilleries.",
-        "come": "By taxi or on a tour from the centre of Paraty.",
-        "quando": "Afternoon, after the boat trip.",
-        "tempo": "Half a day",
-        "consiglio": "Bring shoes that can get wet."
-      },
-      {
-        "nome": "Trindade",
-        "testo": "A village with wild beaches and the natural pool of Cachadaço.",
-        "come": "South of Paraty, by bus or taxi.",
-        "quando": "Full day, if you have an extra day.",
-        "tempo": "A day",
-        "consiglio": "Add it if you have an extra day."
       },
       {
         "nome": "Vila do Abraão (Ilha Grande)",
@@ -389,38 +382,103 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "From Paraty by van and boat, via Angra dos Reis or Conceição de Jacareí.",
         "quando": "Afternoon of arrival for a first short trail.",
         "tempo": "One or two nights",
+        "lat": -23.14026,
+        "lng": -44.16841,
         "consiglio": "Book the Rio airport transfer the day before."
       },
       {
         "nome": "Lopes Mendes, Lagoa Azul and Lagoa Verde",
         "testo": "Lopes Mendes is a long strip of white sand, with open sea and forest behind. Lagoa Azul and Lagoa Verde are visited by boat for snorkelling.",
-        "come": "By boat and then a walk, or along a trail through the forest.",
+        "come": "Boat from Abraão to Pouso, then about 20 minutes on foot; the full trail from Abraão takes about three hours.",
         "quando": "Morning. Swim with caution because of waves and currents.",
         "tempo": "Full day",
+        "lat": -23.16866,
+        "lng": -44.13235,
         "consiglio": "Bring water and food from Vila do Abraão."
+      },
+      {
+        "nome": "Trindade",
+        "testo": "A village with wild beaches and the natural pool of Cachadaço.",
+        "come": "About 30 minutes south of Paraty, by local bus or taxi.",
+        "quando": "Full day, if you have an extra day.",
+        "tempo": "A day",
+        "lat": -23.35073,
+        "lng": -44.72569,
+        "consiglio": "Add it if you have an extra day."
+      },
+      {
+        "nome": "Praia do Sono",
+        "testo": "A bay of pale sand with a fishing community and no roads, south of Trindade. From here another trail leads to Antigos and Ponta Negra.",
+        "come": "Bus or taxi to the Laranjeiras condominium, then about an hour on foot through the forest, or by boat.",
+        "quando": "Morning, to leave time to get back before dark.",
+        "tempo": "Full day",
+        "lat": -23.33422,
+        "lng": -44.63261,
+        "consiglio": "Bring water and cash: there are only a few kiosks on the beach."
+      },
+      {
+        "nome": "Saco do Mamanguá",
+        "testo": "A long, narrow inlet, like a tropical fjord, enclosed by forest-covered hills, with mangroves at its far end. The caiçara communities live only by boat and fishing.",
+        "come": "Boat from Paraty or Paraty-Mirim; from the end of the saco the trail starts for the Pão de Açúcar of Mamanguá.",
+        "quando": "Morning, when the sea is calm.",
+        "tempo": "Full day",
+        "lat": -23.26584,
+        "lng": -44.62993,
+        "consiglio": "The climb to the Pão de Açúcar of Mamanguá takes about an hour and gives a view of the whole inlet."
+      },
+      {
+        "nome": "Cunha waterfalls and alambiques",
+        "testo": "On the road to Cunha there are waterfalls and cachaça distilleries.",
+        "come": "By taxi or on a tour from the centre of Paraty.",
+        "quando": "Afternoon, after the boat trip.",
+        "tempo": "Half a day",
+        "lat": -23.21255,
+        "lng": -44.79232,
+        "consiglio": "Bring shoes that can get wet."
+      },
+      {
+        "nome": "Cachoeira da Feiticeira",
+        "testo": "A waterfall of about 15 metres in the island's forest, with a pool for swimming. The trail passes near the 19th-century aqueduct of the old lazaretto.",
+        "come": "Easy trail from Vila do Abraão, about an hour on foot.",
+        "quando": "The afternoon you arrive, or the morning.",
+        "tempo": "2-3 hours return",
+        "lat": -23.12819,
+        "lng": -44.18886,
+        "consiglio": "Bring repellent: there is no shortage of mosquitoes in the forest and in Abraão in the evening."
+      },
+      {
+        "nome": "Pico do Papagaio (Ilha Grande)",
+        "testo": "The beak-shaped peak that dominates Ilha Grande, at about 980 metres. The trail climbs through the Atlantic Forest to a rock from which you can see the bay and the mainland.",
+        "come": "Steep trail from Vila do Abraão; best with a local guide.",
+        "quando": "A very early start, or at night for sunrise, only in good weather.",
+        "tempo": "5-6 hours return",
+        "lat": -23.15506,
+        "lng": -44.19681,
+        "consiglio": "With low cloud you see nothing from the top: decide on the morning itself."
       }
     ],
     programmi: [
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Paraty (historic centre, bay by escuna)",
-          "Day 2: Cunha waterfalls or Trindade, then evening in Paraty"
+          "Day 1: arrival in Paraty, the historic centre and dinner with live music",
+          "Day 2: the bay by escuna in the morning, waterfalls and alambiques in the afternoon"
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: Paraty and the bay",
-          "Day 2: transfer to Ilha Grande, Vila do Abraão",
-          "Day 3: Lopes Mendes"
+          "Day 1: Paraty, the historic centre",
+          "Day 2: the bay by escuna or Saco do Mamanguá",
+          "Day 3: Trindade and Cachadaço, or the trail to Praia do Sono"
         ]
       },
       {
-        "titolo": "4 days",
+        "titolo": "5 days",
         "tappe": [
-          "Days 1-3 as above",
-          "Day 4: Lagoa Azul and Lagoa Verde by boat, then return to Rio"
+          "Days 1-3 as in the 3-day programme",
+          "Day 4: van and boat to Ilha Grande, Cachoeira da Feiticeira in the afternoon",
+          "Day 5: Lopes Mendes, or Lagoa Azul and Lagoa Verde by boat; the next day back to Rio"
         ]
       }
     ],
@@ -428,12 +486,26 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Historic centre of Paraty",
         "perChi": "Those who want a colonial atmosphere",
-        "testo": "Pousadas in colonial houses. Cobbled streets, evening noise from bars."
+        "testo": "Pousadas in colonial houses. Cobbled streets, evening noise from bars.",
+        "fascia": "60-200 €"
       },
       {
         "nome": "Vila do Abraão",
         "perChi": "Those visiting Ilha Grande",
-        "testo": "Pousadas, nightlife and boat departures. Car-free island."
+        "testo": "Pousadas, nightlife and boat departures. Car-free island.",
+        "fascia": "40-150 €"
+      },
+      {
+        "nome": "Jabaquara and outside the centre (Paraty)",
+        "perChi": "Those travelling by car who want to spend less",
+        "testo": "Pousadas with parking and gardens 10-20 minutes' walk from the historic centre, quieter at night.",
+        "fascia": "40-110 €"
+      },
+      {
+        "nome": "Trindade",
+        "perChi": "Those who want the sea and a village atmosphere",
+        "testo": "Simple pousadas and campsites near the beaches, with low-key nightlife. You need the bus to get back to Paraty.",
+        "fascia": "35-100 €"
       }
     ],
     sapori: [
@@ -455,6 +527,53 @@ export const destinazioniBrasile: Destinazione[] = [
       "Open sea with waves and currents: swim with caution.",
       "Book the airport transfer the day before.",
       "Cobbled streets at high tide: possible flooding."
+    ],
+    costi: "Low budget about 40-60 € a day (simple pousada or hostel, pay-by-weight restaurants, buses); mid-range 90-140 € (pousada in Paraty's historic centre or in Abraão, escuna, transfers); high from 220 € (charming pousada, private lancha). Escuna on Paraty bay about 100-150 R$ per person for 4-5 hours, lunch extra; a private lancha costs more, to be negotiated at the pier. On the island cash is useful for boats and lunches.",
+    gite: [
+      {
+        "nome": "Paraty-Mirim",
+        "distanza": "about 30 minutes, 17 km from Paraty",
+        "come": "Local bus or taxi, last stretch on a dirt road.",
+        "testo": "A small beach with a little colonial church on the shore and boats to Saco do Mamanguá."
+      },
+      {
+        "nome": "Cunha",
+        "distanza": "about 1 hour, 47 km",
+        "come": "Car along the paved Serra road.",
+        "testo": "A mountain town known for its wood-fired pottery workshops and lavender fields, with the cool climate of the serra."
+      },
+      {
+        "nome": "Angra dos Reis and the islands",
+        "distanza": "about 1.5 hours from Paraty, 100 km",
+        "come": "Bus along the BR-101 or transfer.",
+        "testo": "The port for Ilha Grande and for boat trips among the islands of Angra bay, some of the most beautiful on the coast."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need on the Costa Verde?",
+        "risposta": "At least five: three in Paraty with the bay and Trindade, two on Ilha Grande. With fewer days it is best to choose one of the two."
+      },
+      {
+        "domanda": "Paraty or Ilha Grande?",
+        "risposta": "Paraty for the colonial centre, the bay by boat and the waterfalls; Ilha Grande for beaches and car-free trails. They are about 3 hours apart by van and boat."
+      },
+      {
+        "domanda": "How do you get to Ilha Grande from Rio?",
+        "risposta": "Van to Angra dos Reis or Conceição de Jacareí and then the boat to Vila do Abraão, about 3-4 hours in all. The combined transfer can be booked the day before."
+      },
+      {
+        "domanda": "How much does the escuna trip in Paraty cost?",
+        "risposta": "About 100-150 R$ per person for 4-5 hours with swimming stops, lunch extra. A private lancha costs more but lets you choose the beaches."
+      },
+      {
+        "domanda": "Are there cars on Ilha Grande?",
+        "risposta": "No, on the island you get around only on foot or by boat. For Lopes Mendes you go by boat to Pouso and then on foot."
+      },
+      {
+        "domanda": "When should you go to the Costa Verde?",
+        "risposta": "From March to May and from September to November the weather is good and there are fewer people. In summer, from December to February, it is hot, it often rains in the afternoon and prices go up."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -479,15 +598,17 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     cosaFare: ['The boat ride under the falls', 'The forest train on the Argentine side'],
     doveDormire: 'Foz do Iguaçu, mid-range R$300-600; the only hotel inside the Brazilian park is high-end.',
-    comeArrivare: 'Flight to Foz do Iguaçu (IGU), often via São Paulo; Argentine airport at Puerto Iguazú.',
+    comeArrivare: "Foz do Iguaçu airport (IGU) has flights from São Paulo, Rio and the other big cities, almost always with a connection if you are coming from Rio. It is on the road to the park: the city is 20-30 minutes away by taxi or app, the entrance to the falls about 10 minutes; city bus 120 links the centre, the airport and the park. On the Argentine side there is Puerto Iguazú airport (IGR), with flights from Buenos Aires. You cross the border between the two cities by taxi, bus or transfer, with your passport.",
     comeSpostarsi: 'City buses and taxis to the Brazilian park; taxi or transfer to cross the border.',
     periodoMigliore: 'all year; more water between December and March, less heat between April and September.',
-    costi: 'Brazilian park R$134 for foreigners (since 19 December 2025); Argentine park 60,000 pesos for non-resident foreigners (about 40 dollars, since 1 June 2026); boat ride R$450-550.',
+    costi: "Low budget about 40-60 € a day (hostel or pousada, bus 120, pay-by-weight restaurants); mid-range 90-140 € (hotel in Foz, the falls from both sides, Parque das Aves); high from 250 € (hotel inside the park, Macuco Safari, helicopter flights). Brazilian park 134 R$ for foreigners (from 19 December 2025); Argentine park 60,000 pesos for non-resident foreigners (about 40 dollars, from 1 June 2026); Parque das Aves 110 R$; Itaipu Panorâmica 63 R$; inflatable boat 450-550 R$.",
     erroriDaEvitare: [
       'Seeing only one side',
       'Forgetting your passport for the Argentine border',
       'Arriving late at the Garganta del Diablo, which fills up by mid-morning',
     ],
+    miaEsperienza:
+      "I got here in the evening, flying from Rio after Ilha Grande, and gave the falls two days: the first on the Brazilian side with the Parque das Aves, the second on the Argentine side up to the Garganta del Diablo.",
     luoghi: [
       {
         "nome": "Brazilian side of the falls",
@@ -496,7 +617,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "quando": "Open every day: 9am-4pm Monday to Friday, 8.30am-4pm Saturday and Sunday. Arrive at opening time.",
         "tempo": "2-3 hours",
         "costo": "R$134 for foreigners, R$121 for Brazilians and Mercosur residents (fares in force since 19 December 2025, updated every year). Online only, with day and time",
+        "orari": "Daily: 9am-4pm Monday to Friday, 8.30am-4pm on Saturday and Sunday",
         "url": "https://www.cataratasdoiguacu.com.br/",
+        "lat": -25.69005,
+        "lng": -54.43823,
         "consiglio": "A rain cape or waterproof bag for phone and documents."
       },
       {
@@ -505,17 +629,11 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "The border is crossed by taxi, bus or transfer, showing the passport and doing exit and entry stamps.",
         "quando": "Arrive at opening: the Garganta walkway fills up quickly.",
         "tempo": "Full day",
-        "costo": "Ticket in Argentine pesos, with a separate fare for non-resident foreigners: current price on the official website",
+        "costo": "60,000 pesos for non-resident foreigners (about 40 dollars, from 1 June 2026)",
         "url": "https://www.iguazuargentina.com/",
+        "lat": -25.68382,
+        "lng": -54.44878,
         "consiglio": "Bring your passport and pesos or a card."
-      },
-      {
-        "nome": "Parque das Aves",
-        "testo": "A park with toucans, macaws and Atlantic forest birds in large aviaries, opposite the entrance to the Brazilian falls.",
-        "come": "Right opposite the entrance of the Brazilian side.",
-        "quando": "After the falls, in the afternoon.",
-        "tempo": "1-2 hours",
-        "consiglio": "It combines well with a morning at the falls."
       },
       {
         "nome": "Macuco Safari",
@@ -523,23 +641,91 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Can be booked on the spot or in advance; leaves from the Brazilian side.",
         "quando": "Morning or afternoon.",
         "tempo": "1-2 hours",
-        "costo": "Separate from the park ticket: current prices from the operator",
+        "costo": "About 450-550 R$ (about 75-90 €), separate from park entry",
+        "lat": -25.65139,
+        "lng": -54.43794,
         "consiglio": "You get completely wet: spare clothes and a phone cover."
+      },
+      {
+        "nome": "Parque das Aves",
+        "testo": "A park with toucans, macaws and Atlantic forest birds in large aviaries, opposite the entrance to the Brazilian falls.",
+        "come": "Right opposite the entrance of the Brazilian side.",
+        "quando": "After the falls, in the afternoon.",
+        "tempo": "1-2 hours",
+        "costo": "110 R$ full-price ticket (about 18 €), the same for Brazilians and foreigners, price valid until 30 November 2026",
+        "orari": "Daily 8.30am-4.30pm",
+        "url": "https://www.parquedasaves.com.br/",
+        "lat": -25.61509,
+        "lng": -54.48413,
+        "consiglio": "It combines well with a morning at the falls."
+      },
+      {
+        "nome": "Itaipu Dam",
+        "testo": "One of the largest hydroelectric plants in the world, shared between Brazil and Paraguay on the Paraná River. The panoramic bus tour goes over the dam and the spillway; the special tour also goes into the turbine hall.",
+        "come": "About 20 minutes by taxi or app from the centre of Foz; city buses from the terminal.",
+        "quando": "Morning or early afternoon; on Friday and Saturday evenings the dam is lit up.",
+        "tempo": "1h10 for the panoramic tour, 2h30 for the special tour",
+        "costo": "Itaipu Panorâmica 63 R$ (about 10 €), Itaipu Especial 185 R$ (about 30 €), Itaipu Iluminada 50 R$ (2026)",
+        "orari": "Panorâmica daily 8.30am-5pm; Iluminada Friday and Saturday at 7pm",
+        "url": "https://www.turismoitaipu.com.br/",
+        "lat": -25.42462,
+        "lng": -54.56703,
+        "consiglio": "The special tour has limited places and a minimum age: book online in advance."
+      },
+      {
+        "nome": "Trilha do Poço Preto",
+        "testo": "A 9 km trail through the Atlantic Forest inside the Brazilian park, on foot or by bike, that reaches the Iguaçu River above the falls. You see butterflies, toucans and, with luck, coatis.",
+        "come": "Book it with your park ticket; the starting point is along the park's internal road.",
+        "quando": "On foot from 9am to 12pm, by bike from 9am to 3pm.",
+        "tempo": "Half a day (19.2 km return)",
+        "url": "https://www.cataratasdoiguacu.com.br/",
+        "lat": -25.63014,
+        "lng": -54.46232,
+        "consiglio": "You can only combine it with the falls on the same day if you start at opening time."
+      },
+      {
+        "nome": "Marco das Três Fronteiras",
+        "testo": "The point where the Iguaçu River flows into the Paraná, looking out over Brazil, Argentina and Paraguay. The site has a viewpoint, restaurants and an evening show with music and lights.",
+        "come": "About 10 minutes by taxi or app from the centre of Foz.",
+        "quando": "Sunset, over the rivers.",
+        "tempo": "1-2 hours",
+        "lat": -25.59015,
+        "lng": -54.59025,
+        "consiglio": "On the Argentine side there is the Hito Tres Fronteras, free, with the same view the other way round."
+      },
+      {
+        "nome": "Templo Budista Chen Tien",
+        "testo": "A Buddhist temple built by the Chinese community of Foz, with a garden of over a hundred statues and a large white Buddha facing Paraguay.",
+        "come": "About 15 minutes by taxi or app from the centre.",
+        "quando": "Afternoon, with the light on the statues.",
+        "tempo": "45 minutes-1 hour",
+        "lat": -25.47497,
+        "lng": -54.59893,
+        "consiglio": "Wear clothing that covers shoulders and knees."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Brazilian side of the falls",
-          "Afternoon: Parque das Aves"
+          "Morning: Brazilian side at opening time, Garganta do Diabo walkway",
+          "Macuco Safari straight afterwards, if you want the boat",
+          "Afternoon: Parque das Aves, opposite the entrance",
+          "Sunset at the Marco das Três Fronteiras"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Brazilian side and Parque das Aves, optional Macuco Safari",
-          "Day 2: Argentine side, starting at opening, with the Garganta del Diablo first"
+          "Day 1: the 1-day programme",
+          "Day 2: Argentine side at opening time, with the Garganta del Diablo first, then the Superior and Inferior circuits"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Itaipu in the morning, the Templo Budista in the afternoon, or the Trilha do Poço Preto in the park"
         ]
       }
     ],
@@ -547,17 +733,26 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Foz do Iguaçu",
         "perChi": "Those with flights who want convenience",
-        "testo": "A wide choice of hotels, linked to the airport. Easier for flights."
+        "testo": "A wide choice of hotels, linked to the airport. Easier for flights.",
+        "fascia": "40-130 €"
       },
       {
         "nome": "Puerto Iguazú (Argentina)",
         "perChi": "Those who want to be closer to the Argentine side",
-        "testo": "A smaller town, with less choice and less convenient flights."
+        "testo": "A smaller town, with less choice and less convenient flights.",
+        "fascia": "40-150 €"
       },
       {
         "nome": "Hotel inside the Brazilian park",
         "perChi": "Those who want the view from the room",
-        "testo": "A high-end hotel inside the park."
+        "testo": "A high-end hotel inside the park.",
+        "fascia": "350-800 €"
+      },
+      {
+        "nome": "Avenida das Cataratas (Foz)",
+        "perChi": "Those who want to stay close to the Brazilian park",
+        "testo": "The road between the city and the park, with resorts and hotels with pools set among greenery. You need a taxi or bus 120 in the evening.",
+        "fascia": "70-200 €"
       }
     ],
     sapori: [
@@ -579,6 +774,52 @@ export const destinazioniBrasile: Destinazione[] = [
       "Forgetting your passport for the Argentine border.",
       "Arriving late at the Garganta del Diablo, which fills up by mid-morning.",
       "Yellow fever: vaccination recommended for anyone visiting Iguaçu Falls."
+    ],
+    gite: [
+      {
+        "nome": "Ciudad del Este (Paraguay)",
+        "distanza": "about 20-30 minutes, 10 km",
+        "come": "Taxi or bus across the Ponte da Amizade, with your passport.",
+        "testo": "The city of cut-price trade, full of shopping centres. Useful only for shopping; the bridge is often congested."
+      },
+      {
+        "nome": "Itaipu",
+        "distanza": "about 20 minutes, 15 km",
+        "come": "Taxi, app or city bus.",
+        "testo": "The dam on the Paraná, with the panoramic tour, the special tour into the turbine hall and the evening light show on Friday and Saturday."
+      },
+      {
+        "nome": "Minas de Wanda (Argentina)",
+        "distanza": "about 1 hour from Puerto Iguazú, 50 km",
+        "come": "Car or tour from the Argentine side.",
+        "testo": "An open-cast mine of amethysts, agates and quartz in the Misiones forest, with a short guided visit. Combine it with the return from the Argentine side."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Foz do Iguaçu?",
+        "risposta": "Two full days: one for the Brazilian side and Parque das Aves, one for the Argentine side. With a third you can add Itaipu and the Marco das Três Fronteiras."
+      },
+      {
+        "domanda": "Is the Brazilian or the Argentine side of the falls better?",
+        "risposta": "The Brazilian side gives the overall view in 2-3 hours; the Argentine side, over a full day, takes you in among and above the drops. If you can, see both."
+      },
+      {
+        "domanda": "How much does entry to the falls cost?",
+        "risposta": "Brazilian side 134 R$ for foreigners (from 19 December 2025), online only with a set day and time. Argentine side 60,000 pesos for non-resident foreigners, about 40 dollars, from 1 June 2026."
+      },
+      {
+        "domanda": "Do you need a passport for the Argentine side?",
+        "risposta": "Yes: at the border you get exit stamps for Brazil and entry stamps for Argentina, even on a day trip. Taxis and transfers wait while you go through the formalities."
+      },
+      {
+        "domanda": "Should you stay in Foz do Iguaçu or Puerto Iguazú?",
+        "risposta": "Foz has more choice and more convenient flights; Puerto Iguazú is smaller but closer to the Argentine side. For two days on the two sides, either works."
+      },
+      {
+        "domanda": "When should you go to Iguazú?",
+        "risposta": "All year round. From December to February the flow is stronger but it is hot and crowded; between April and June the climate is milder."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -609,13 +850,15 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     doveDormire: 'Pelourinho and Santo Antônio Além do Carmo (pousadas R$250-600), Barra and Rio Vermelho for the sea.',
     doveMangiare: 'Moqueca baiana, acarajé, vatapá, bobó de camarão.',
-    comeArrivare: 'Salvador international airport, connected to all the big Brazilian cities.',
+    comeArrivare: "Deputado Luís Eduardo Magalhães International Airport (SSA) has flights from all the big Brazilian cities and some direct flights from Europe. From there to Barra it is about 30-50 minutes by taxi or app, longer at rush hour; to Pelourinho about 40-60 minutes. The metro links the airport to the centre (Lapa station), but with luggage a taxi or app is more convenient. From Foz do Iguaçu the flight with a connection takes 4-6 hours.",
     comeSpostarsi: 'Apps and taxis; on foot in the Pelourinho by day.',
     periodoMigliore: 'September-March; heavier rains between April and June.',
     erroriDaEvitare: [
       'Straying from the main streets of the Pelourinho in the evening',
       'Accepting the Bonfim ribbons "gifted" to you on the street',
     ],
+    miaEsperienza:
+      "Three days in Salvador during the Brazil trip: the Pelourinho, the Elevador Lacerda down to the Mercado Modelo, the Bonfim church and Rio Vermelho in the evening. We watched the first sunset from the Farol da Barra.",
     luoghi: [
       {
         "nome": "Pelourinho and Igreja de São Francisco",
@@ -623,7 +866,20 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "On foot from your lodging in the centre or by app from the seaside districts.",
         "quando": "By day. In the evening the Pelourinho often has concerts and drumming: check the week's programme.",
         "tempo": "Half a day",
+        "orari": "The Igreja de São Francisco has been closed for restoration since February 2025, after part of the ceiling collapsed, with reopening expected around 2029: check before you go",
+        "lat": -12.96667,
+        "lng": -38.5,
         "consiglio": "In the evening the side streets empty early: stay on the main streets and come back by app."
+      },
+      {
+        "nome": "Terreiro de Jesus and Catedral Basílica",
+        "testo": "The large square of Pelourinho, with the 17th-century Jesuit cathedral and two other churches facing it. Inside the cathedral are gilded altars and carved wooden ceilings.",
+        "come": "On foot from Pelourinho or from the Elevador Lacerda, in 5 minutes.",
+        "quando": "Morning, when the churches are open.",
+        "tempo": "1 hour",
+        "lat": -12.9729,
+        "lng": -38.51033,
+        "consiglio": "From here you walk down to the Largo do Pelourinho, the sloping square of the postcards."
       },
       {
         "nome": "Elevador Lacerda and Mercado Modelo",
@@ -631,23 +887,50 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "The lift starts at Praça Tomé de Souza.",
         "quando": "Morning.",
         "tempo": "1-2 hours",
+        "costo": "Elevador about 1 R$ per ride (since 2025)",
+        "lat": -12.97417,
+        "lng": -38.51333,
         "consiglio": "The market is touristy: haggle over prices."
+      },
+      {
+        "nome": "Museu Afro-Brasileiro",
+        "testo": "In the old Faculty of Medicine building on the Terreiro de Jesus, it tells the story of the African cultures that reached Bahia and of candomblé, with Carybé's wooden panels dedicated to the orixás.",
+        "come": "On the Terreiro de Jesus, on foot.",
+        "quando": "During the day on weekdays.",
+        "tempo": "1 hour",
+        "lat": -12.97279,
+        "lng": -38.50977,
+        "consiglio": "Visit it before an evening of music or a capoeira roda: it helps you understand what you are seeing."
+      },
+      {
+        "nome": "Fundação Casa de Jorge Amado",
+        "testo": "The blue house on the Largo do Pelourinho dedicated to the writer who told the world about Salvador, with photos, book covers from editions in dozens of languages and a café.",
+        "come": "On the Largo do Pelourinho, on foot.",
+        "quando": "During the day.",
+        "tempo": "45 minutes",
+        "lat": -12.97168,
+        "lng": -38.50853,
+        "consiglio": "A cool break between one church and the next."
+      },
+      {
+        "nome": "Santo Antônio Além do Carmo",
+        "testo": "The historic district beyond Pelourinho, quieter, with pousadas in colonial houses, small restaurants and the Largo de Santo Antônio viewpoint over the bay.",
+        "come": "On foot from Pelourinho up the Ladeira do Carmo, about 10-15 minutes.",
+        "quando": "Late afternoon and evening.",
+        "tempo": "1-2 hours",
+        "lat": -12.9655,
+        "lng": -38.50364,
+        "consiglio": "Sunset over the bay from the Largo de Santo Antônio is less crowded than at the Farol."
       },
       {
         "nome": "Igreja do Senhor do Bonfim",
         "testo": "The church of the coloured ribbons, tied to the gate and the wrist as a vow.",
-        "come": "By app or taxi from the centre.",
+        "come": "By taxi or app from the upper city, about 20-30 minutes.",
         "quando": "Morning.",
         "tempo": "1 hour",
+        "lat": -12.92375,
+        "lng": -38.50812,
         "consiglio": "If someone offers you a ribbon on the street and you do not want it, decline politely."
-      },
-      {
-        "nome": "Rio Vermelho and acarajé",
-        "testo": "The nightlife district, where the baianas fry acarajé in palm oil in the street.",
-        "come": "By app from the centre or Barra.",
-        "quando": "Evening.",
-        "tempo": "An evening",
-        "consiglio": "Eat the acarajé from the baianas, not in tourist venues."
       },
       {
         "nome": "Farol da Barra",
@@ -655,30 +938,84 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By app or bus from Barra.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
+        "lat": -13.01033,
+        "lng": -38.53293,
         "consiglio": "The first sunset in Salvador is watched from here."
+      },
+      {
+        "nome": "Praia do Porto da Barra",
+        "testo": "The city beach most loved by baianos, in a small bay with calm water between the Forte de Santo Antônio and the Forte de Santa Maria. At sunset the sun drops into the sea.",
+        "come": "On foot from Barra; by app or bus from the centre.",
+        "quando": "Morning for a swim, evening for the sunset.",
+        "tempo": "Half a day",
+        "lat": -13.00327,
+        "lng": -38.5333,
+        "consiglio": "Leave documents and valuables at the pousada: take the bare minimum to the beach."
+      },
+      {
+        "nome": "Solar do Unhão and MAM Bahia",
+        "testo": "A colonial complex on the sea, a former sugar mill and warehouse, now home to the Museum of Modern Art of Bahia, with outdoor sculptures and the bay in front.",
+        "come": "By taxi or app from the centre, a few minutes; walking along Avenida Contorno is not recommended.",
+        "quando": "Afternoon, for the sunset over the bay.",
+        "tempo": "1-2 hours",
+        "orari": "Usually closed on Monday",
+        "lat": -12.98263,
+        "lng": -38.52027,
+        "consiglio": "On Saturday afternoons there is often live jazz at sunset: check the programme."
+      },
+      {
+        "nome": "Rio Vermelho and acarajé",
+        "testo": "The nightlife district, where the baianas fry acarajé in palm oil in the street.",
+        "come": "By app from the centre or Barra.",
+        "quando": "Evening.",
+        "tempo": "An evening",
+        "lat": -13.01006,
+        "lng": -38.48996,
+        "consiglio": "Eat the acarajé from the baianas, not in tourist venues."
+      },
+      {
+        "nome": "Feira de São Joaquim",
+        "testo": "The big popular market on the bay: fruit, spices, pottery, cages of animals and stalls of items for candomblé. Chaotic and real, with no tourists.",
+        "come": "By taxi or app from the centre, about 10 minutes.",
+        "quando": "Early morning, Monday to Saturday.",
+        "tempo": "1 hour",
+        "lat": -12.95185,
+        "lng": -38.5024,
+        "consiglio": "Better with a local or a guide: phone in your pocket and no jewellery."
+      },
+      {
+        "nome": "Lagoa do Abaeté",
+        "testo": "A dark-water lagoon surrounded by white dunes in the Itapuã district, celebrated in Bahian music. Today it is a park with boardwalks and kiosks.",
+        "come": "About 40-50 minutes by app or taxi from Barra.",
+        "quando": "Afternoon, combined with Itapuã beach.",
+        "tempo": "1-2 hours",
+        "lat": -12.94376,
+        "lng": -38.35972,
+        "consiglio": "Swimming in the lagoon is not advisable: you come for the scenery."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Pelourinho and Igreja de São Francisco",
+          "Morning: Terreiro de Jesus, Catedral Basílica and Museu Afro-Brasileiro",
+          "Largo do Pelourinho and Casa de Jorge Amado",
           "Elevador Lacerda and Mercado Modelo",
-          "Sunset at Farol da Barra"
+          "Sunset at the Farol da Barra"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: the 1-day plan",
-          "Day 2: Igreja do Senhor do Bonfim, Solar do Unhão, evening in Rio Vermelho"
+          "Day 1: the 1-day programme",
+          "Day 2: Igreja do Senhor do Bonfim in the morning, Solar do Unhão in the afternoon, evening in Rio Vermelho with acarajé"
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
           "Days 1-2 as above",
-          "Day 3: a capoeira roda at a Pelourinho school (ask first) or a boat trip in the Baía de Todos os Santos"
+          "Day 3: Porto da Barra in the morning, Santo Antônio Além do Carmo at sunset, or a boat trip on the Baía de Todos os Santos; a capoeira roda at a school in Pelourinho, asking beforehand"
         ]
       }
     ],
@@ -686,12 +1023,20 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Pelourinho and Santo Antônio Além do Carmo",
         "perChi": "Those who want the historic centre",
-        "testo": "Pousadas in historic houses. Patrolled by day, empties in the evening."
+        "testo": "Pousadas in historic houses. Patrolled by day, empties in the evening.",
+        "fascia": "40-150 €"
       },
       {
         "nome": "Barra and Rio Vermelho",
         "perChi": "Those who want the sea and nightlife",
-        "testo": "Safer in the evening, near the beaches and restaurants."
+        "testo": "Safer in the evening, near the beaches and restaurants.",
+        "fascia": "40-140 €"
+      },
+      {
+        "nome": "Ondina and the seafront",
+        "perChi": "Those who want a big hotel by the sea",
+        "testo": "Between Barra and Rio Vermelho, with larger hotels facing the ocean. Handy for evenings in Rio Vermelho; you need an app to get to the historic centre.",
+        "fascia": "60-160 €"
       }
     ],
     sapori: [
@@ -717,6 +1062,53 @@ export const destinazioniBrasile: Destinazione[] = [
       "Pushy vendors around the sights: politely turn down what you do not want.",
       "Petty crime: phone thefts and bag snatching.",
       "Use apps rather than walking at night."
+    ],
+    costi: "Low budget about 40-60 € a day (pousada or hostel, acarajé and pay-by-weight restaurants, metro and buses); mid-range 90-140 € (hotel in Barra or Pelourinho, Bahian restaurants, apps for getting around); high from 220 € (boutique hotel in a historic house, private boat trip on the bay). Elevador Lacerda about 1 R$ per ride (since 2025); acarajé from the baianas a few reais.",
+    gite: [
+      {
+        "nome": "Morro de São Paulo",
+        "distanza": "about 2.5 hours by catamaran",
+        "come": "Catamaran from the Terminal Marítimo near the Mercado Modelo; alternatively via Ilha de Itaparica and by road.",
+        "testo": "A car-free village on the island of Tinharé, with numbered beaches and natural pools at low tide. Best to spend at least one night: the sea on the catamaran can be rough."
+      },
+      {
+        "nome": "Baía de Todos os Santos (Ilha dos Frades and Itaparica)",
+        "distanza": "a day by boat",
+        "come": "Organised escuna trip from the port of Salvador.",
+        "testo": "The classic tour of the bay, with swimming stops at Ilha dos Frades and lunch on Itaparica. Easy, but crowded at weekends."
+      },
+      {
+        "nome": "Praia do Forte",
+        "distanza": "about 1 hour 15 minutes, 80 km",
+        "come": "Car, transfer or bus from the rodoviária.",
+        "testo": "A fishing village turned beach resort, with natural pools, the base of Projeto Tamar for sea turtles and the ruins of the Castelo Garcia d'Ávila."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Salvador?",
+        "risposta": "Three: one for Pelourinho and the lower city, one for Bonfim, the Solar do Unhão and Rio Vermelho, one for the sea or the bay. With Morro de São Paulo, add two."
+      },
+      {
+        "domanda": "Is Pelourinho safe?",
+        "risposta": "By day, on the main streets, it is policed and busy. In the evening the side streets empty early: stay on the lively streets and go back by app, called from outside the venue."
+      },
+      {
+        "domanda": "Where should you stay in Salvador?",
+        "risposta": "In Pelourinho or Santo Antônio for the history, in Barra and Rio Vermelho for the sea and the nightlife, and these are easier to get around in the evening."
+      },
+      {
+        "domanda": "Is the Igreja de São Francisco open?",
+        "risposta": "It has been closed for restoration since February 2025, after part of the ceiling collapsed, with reopening expected around 2029. It is worth checking before you go."
+      },
+      {
+        "domanda": "When should you go to Salvador?",
+        "risposta": "From September to March there is less rain and the sea is at its best; April-June is the wettest period. At Carnival and in early February the city is full and prices go up."
+      },
+      {
+        "domanda": "Where can you eat real acarajé?",
+        "risposta": "From the baianas at street stalls, especially in Rio Vermelho and Barra, fried to order in palm oil. It costs a few reais."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -747,6 +1139,8 @@ export const destinazioniBrasile: Destinazione[] = [
     periodoMigliore: 'April-September, dry season; Poço Encantado lights up from April to September.',
     costi: 'Day tours R$150-300 plus guide and entrance fees.',
     erroriDaEvitare: ['Doing the long trails without a guide', "Underestimating the initial climb of the Fumaça"],
+    miaEsperienza:
+      "Three days in the Chapada, based in Lençóis, arriving by bus from Salvador. We did the classic tour with a guide and car, between the caves, the Poço do Diabo and the sunset on Morro do Pai Inácio.",
     luoghi: [
       {
         "nome": "Morro do Pai Inácio",
@@ -865,6 +1259,8 @@ export const destinazioniBrasile: Destinazione[] = [
       'Going off-season, when the lagoons are empty',
       'Entering the park in the middle hours of the day without water and a hat',
     ],
+    miaEsperienza:
+      "These were the last days of the Brazil trip: from São Luís by van to Barreirinhas, the first jardineira ride out to the dunes and a last day by boat along the Rio Preguiças to the sea.",
     luoghi: [
       {
         "nome": "Lagoa Azul circuit",
@@ -968,7 +1364,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Pantanal (Transpantaneira and Porto Jofre)',
     tipologia: ['wildlife', 'safari', 'wetland'],
     giorniConsigliati: '4-6 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "The largest tropical wetland in the world. In the northern Pantanal, along the dirt road of the Transpantaneira to Porto Jofre, in the dry season jaguars are seen on the riverbanks with a regularity that has no equal.",
     percheAndarci: 'For the jaguars, giant otters, caimans and the wetland birds.',
@@ -1079,7 +1475,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'The Amazon from Manaus',
     tipologia: ['forest', 'river', 'wildlife'],
     giorniConsigliati: '4-5 days, up to 10 continuing toward Peru or Colombia',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "Manaus, a city of over two million people reachable only by air or boat, is the gateway to the Brazilian Amazon, at the confluence of the Rio Negro and the Solimões. From here you go up the river to the triple border with Colombia and Peru.",
     percheAndarci: 'For the flooded forest, the pink dolphins, the Meeting of the Waters and, if you like, to cross the continent by river.',

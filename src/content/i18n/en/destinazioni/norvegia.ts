@@ -34,11 +34,11 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveMangiare:
       "Dinner at Rorbua (Aker Brygge): traditional Norwegian cooking, generous portions, average prices, a warm wooden atmosphere. If you come back to Oslo at the end of the trip, Café Sara is fine for the last dinner: a simple place but open late, handy after an evening flight (on weekends it's best to book).",
     comeArrivare:
-      "International flight to Oslo Gardermoen; from the airport the Flytoget train takes you to the center in 19 minutes (about 210 NOK, departures every 10 minutes). From Stockholm, for anyone arriving as the final stop of \"Nordic Capitals\": direct SJ train (about 5h45) or a domestic flight (about 1h).",
+      "International flight to Oslo Gardermoen, about 50 km from the centre. The Flytoget express train reaches Oslo Sentralstasjon in about 20 minutes (about NOK 276, 2026), with frequent departures; the Vy regional train takes 23-30 minutes and costs about NOK 125. From Stockholm, for those arriving as the last stop of \"Nordic capitals\": direct SJ train (about 5h45) or domestic flight (about 1 hour). From Copenhagen there is also the DFDS overnight ferry, about 17 hours.",
     comeSpostarsi: "On foot in the center; Flytoget to/from the airport; for Bygdøy, a city bus or the seasonal ferry from City Hall.",
     periodoMigliore: "for the transit stop alone, the summer of the Lofoten trip; May-September for a full stay, with the fjord cruise and Vigeland Park at their best in the long days",
     costi:
-      "Flytoget about 210 NOK each way; dinners average for Norwegian standards (still expensive compared with Italy). Vigeland Park: free entry. Fram Museum: about 180 NOK (roughly €16). Oslofjord cruise of 1.5-2 hours: roughly €45-70 per person.",
+      "Flytoget about NOK 276 one way, regional train about NOK 125. Vigeland Park and the Opera roof free; Fram NOK 180 (about €17), Munch and Nasjonalmuseet NOK 220 each (about €20). Oslofjord cruise of 1.5-2 hours: roughly €45-70 per person. Daily budget per person, excluding accommodation: low €60-80 (supermarket, transport, free sights), mid €110-150 (lunch out, average dinner, one museum), high over €200.",
     erroriDaEvitare: [
       "If you go to Café Sara on the weekend, book: in the evening it's a very busy place",
       "Planning a visit to the Viking Ship Museum on Bygdøy without checking first: it's closed for renovation, with reopening expected no earlier than 2027",
@@ -53,6 +53,9 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Always open, free entry. Early morning or summer evening for the sculptures without crowds.",
         tempo: "1.5-2 hours",
         costo: "free entry",
+        orari: "Park always open",
+        lat: 59.92741,
+        lng: 10.69991,
         url: "https://www.vigeland.museum.no",
         consiglio: "The Vigeland Museum, next to the park, holds the artist's studios: useful for an hour if it rains."
       },
@@ -63,8 +66,48 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "At sunset, or in clear weather for the Oslofjord view.",
         tempo: "45 minutes-1 hour",
         costo: "roof: free entry",
+        orari: "Roof always accessible",
+        lat: 59.9075,
+        lng: 10.7522,
         url: "https://www.operaen.no",
         consiglio: "After the climb, a hot tea at the inside cafe: the best way to warm up."
+      },
+      {
+        nome: "Munch and the National Museum",
+        testo: "The Munch museum in Bjørvika holds much of Edvard Munch's work; the Nasjonalmuseet, Norway's largest collection of art, architecture and design, has another version of The Scream (1893). Two new buildings near the fjord.",
+        come: "The Munch is walkable from the station; the Nasjonalmuseet is walkable from the centre, near the City Hall.",
+        quando: "Weekday morning; book online for timed entries.",
+        tempo: "2-3 hours each",
+        costo: "Munch NOK 220, Nasjonalmuseet NOK 220 for adults (2026), about €20 each; Munch free on the first Wednesday of the month, 6-9pm",
+        orari: "Munch daily from 10am; Nasjonalmuseet Tue-Wed 10am-8pm, Thu-Sun 10am-5pm, closed Mondays (2026)",
+        lat: 59.90617,
+        lng: 10.75566,
+        url: "https://www.munch.no",
+        consiglio: "Compare the versions of The Scream: the differences show in person."
+      },
+      {
+        nome: "Bygdøy peninsula: Fram and Kon-Tiki",
+        testo: "The Fram Museum keeps the polar ship of Nansen and Amundsen, intact and open to board. Next door the Kon-Tiki Museum shows the raft on which Thor Heyerdahl crossed the Pacific in 1947. The Viking Ship Museum is closed for renovation until 2027: check the reopening.",
+        come: "By public transport from the centre (routes and tickets on the Ruter app). The museums are a few minutes apart.",
+        quando: "Morning, to have the rooms with fewer groups.",
+        tempo: "3-4 hours",
+        costo: "Fram NOK 180, Kon-Tiki about NOK 180, combined ticket about NOK 325 (2026), about €30",
+        orari: "Fram open every day of the year 10am-5pm (2026)",
+        lat: 59.90333,
+        lng: 10.69944,
+        url: "https://www.frammuseum.no",
+        consiglio: "The two museums fit comfortably into half a day."
+      },
+      {
+        nome: "Norsk Folkemuseum",
+        testo: "The open-air museum on Bygdøy, with more than 150 buildings brought from all over Norway, including a stave church from around 1200. In summer there are costumed guides, animals and craft demonstrations.",
+        come: "Bus 30 from the centre to Folkemuseet; in summer also the ferry from Rådhusbrygge.",
+        quando: "June to August, when the buildings come alive; in winter it is quieter.",
+        tempo: "2-3 hours",
+        orari: "Low season Tue-Sun 11am-4pm, closed Mondays (2026)",
+        lat: 59.90691,
+        lng: 10.68596,
+        url: "https://norskfolkemuseum.no/en"
       },
       {
         nome: "Akershus Fortress",
@@ -73,36 +116,32 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Daytime; the fortress is guarded by the King's Guard. Inside are also the Armed Forces Museum and the Resistance Museum.",
         tempo: "1.5 hours",
         costo: "grounds free; museums and castle with separate ticket",
+        lat: 59.90661,
+        lng: 10.73625,
         consiglio: "Climb the walls at sunset: the light on the fjord is the best."
       },
       {
-        nome: "Bygdøy peninsula: Fram and Kon-Tiki",
-        testo: "The Fram Museum keeps the polar ship of Nansen and Amundsen, intact and open to board. Next door the Kon-Tiki Museum shows the raft on which Thor Heyerdahl crossed the Pacific in 1947. The Viking Ship Museum is closed for renovation until 2027: check the reopening.",
-        come: "By public transport from the centre (routes and tickets on the Ruter app). The museums are a few minutes apart.",
-        quando: "Morning, to have the rooms with fewer groups.",
-        tempo: "3-4 hours",
-        costo: "Fram Museum 180 NOK adults (2026); Kon-Tiki has a separate ticket",
-        url: "https://www.frammuseum.no",
-        consiglio: "The two museums fit comfortably into half a day."
+        nome: "City Hall (Rådhuset)",
+        testo: "The two brick towers of 1950 dominate the harbour; inside, the main hall is covered with murals on the history and work of Norwegians. This is where the Nobel Peace Prize is awarded every 10 December.",
+        come: "On foot from the centre, on the harbour opposite Aker Brygge.",
+        quando: "Weekday mornings; the tower carillon plays every hour.",
+        tempo: "45 minutes",
+        costo: "Free entry",
+        orari: "Mon-Sat 9am-4pm, closed Sundays and on some event dates (2026)",
+        lat: 59.91167,
+        lng: 10.73361,
+        url: "https://www.oslo.kommune.no/radhuset/"
       },
       {
-        nome: "Munch and the National Museum",
-        testo: "The Munch museum in Bjørvika holds much of Edvard Munch's work; the Nasjonalmuseet, Norway's largest collection of art, architecture and design, has another version of The Scream (1893). Two new buildings near the fjord.",
-        come: "The Munch is walkable from the station; the Nasjonalmuseet is walkable from the centre, near the City Hall.",
-        quando: "Weekday morning; book online for timed entries.",
-        tempo: "2-3 hours each",
-        costo: "Munch 220 NOK adults (2026)",
-        url: "https://www.munch.no",
-        consiglio: "Compare the versions of The Scream: the differences show in person."
-      },
-      {
-        nome: "Holmenkollen",
-        testo: "Oslo's ski jump, with a ski museum and simulator, above the city. The view over the fjord and the forest is the reason to go up.",
-        come: "Metro line 1 to Holmenkollen. The last stretch to the ski jump is on foot.",
-        quando: "Daytime, in clear weather; in winter there is often snow.",
-        tempo: "2 hours",
-        url: "https://www.holmenkollen.com",
-        consiglio: "Go up on the afternoon metro and walk down through the forest."
+        nome: "Royal Palace and Karl Johans gate",
+        testo: "The pedestrian Karl Johans gate climbs from the station to the Royal Palace, past Parliament and the University. Around the king's residence lies the Slottsparken, a free park where you can watch the changing of the guard.",
+        come: "On foot from Central Station, about 20 minutes on a gentle slope.",
+        quando: "For the daily changing of the guard (time on the royal court website); in summer the palace interior is visited on guided tours.",
+        tempo: "1-2 hours",
+        costo: "Park and street free",
+        lat: 59.91722,
+        lng: 10.7275,
+        url: "https://www.royalcourt.no"
       },
       {
         nome: "Aker Brygge and Astrup Fearnley",
@@ -110,55 +149,106 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "On foot from the Royal Palace along the waterfront.",
         quando: "Summer evening, for outdoor tables on the fjord.",
         tempo: "2 hours",
+        orari: "Astrup Fearnley Tue-Fri 12-5pm, Thursday until 7pm, Sat-Sun 11am-5pm; closed Mondays except July and August (12-5pm)",
+        lat: 59.90667,
+        lng: 10.72139,
         url: "https://www.afmuseet.no",
         consiglio: "Walk to Tjuvholmen: the urban beach is free."
+      },
+      {
+        nome: "Oslofjord cruise",
+        testo: "A 1.5-2 hour boat trip among the islands and bays south of the city, with views of the Opera, Akershus fortress and the summer cabins on the islets. It is the easiest way to see how much Oslo lives on its fjord.",
+        come: "Departures from the pier in front of City Hall (Rådhusbrygge); for the nearest islands the public ferries with a Ruter ticket are enough.",
+        quando: "May to September, with several departures a day; in winter there are far fewer.",
+        tempo: "1.5-2 hours",
+        costo: "Roughly €45-70 per person",
+        lat: 59.91167,
+        lng: 10.73361
+      },
+      {
+        nome: "Holmenkollen",
+        testo: "Oslo's ski jump, with a ski museum and simulator, above the city. The view over the fjord and the forest is the reason to go up.",
+        come: "Metro line 1 to Holmenkollen. The last stretch to the ski jump is on foot.",
+        quando: "Daytime, in clear weather; in winter there is often snow.",
+        tempo: "2 hours",
+        lat: 59.96389,
+        lng: 10.66778,
+        url: "https://www.holmenkollen.com",
+        consiglio: "Go up on the afternoon metro and walk down through the forest."
+      },
+      {
+        nome: "Deichman Bjørvika library",
+        testo: "The central library opened in 2020 next to the Opera, with six floors of books, reading rooms, workshops and a big window over the fjord on the top floor. It is a public space you can walk into just to rest in the warm.",
+        come: "On foot from Central Station, opposite the Opera.",
+        quando: "In cold or rainy weather, or in the evening, when it stays open late.",
+        tempo: "45 minutes",
+        costo: "Free entry",
+        orari: "Weekdays 8am-10pm (2026)",
+        lat: 59.90866,
+        lng: 10.7527,
+        url: "https://deichman.no/bibliotekene/bj%C3%B8rvika"
+      },
+      {
+        nome: "Grünerløkka and Mathallen",
+        testo: "The former working-class district along the Akerselva river, now full of cafés, second-hand shops and bars. On its edge is Mathallen, the food hall with stalls of Norwegian produce and small restaurants.",
+        come: "Tram 11, 12 or 18 from the centre, or a 20-25 minute walk along the Akerselva.",
+        quando: "Sunday, when the parks and flea markets are busy.",
+        tempo: "2-3 hours",
+        costo: "Free; lunch at Mathallen roughly €15-30",
+        orari: "Mathallen Tue-Sat 10am-8pm, Sunday 11am-6pm, closed Mondays",
+        lat: 59.92342,
+        lng: 10.75168,
+        url: "https://www.mathallenoslo.no/en/"
       }
     ],
     programmi: [
       {
         titolo: "1 day",
         tappe: [
-          "Morning: Vigeland Park",
-          "Lunch in the centre",
-          "Opera House (roof)",
-          "Stroll in Aker Brygge",
-          "Dinner at Aker Brygge"
+          "Early morning: Vigeland Park",
+          "Karl Johans gate up to the Royal Palace",
+          "Lunch at Aker Brygge",
+          "Afternoon: Munch or Nasjonalmuseet",
+          "Sunset on the Opera roof"
         ]
       },
       {
         titolo: "2 days",
         tappe: [
           "Day 1 as above",
-          "Day 2: Bygdøy (Fram and Kon-Tiki)",
-          "Afternoon at Munch or the National Museum",
-          "Akershus at sunset"
+          "Day 2: Bygdøy with the Fram, Kon-Tiki and Norsk Folkemuseum",
+          "Back by ferry (in summer) or bus 30",
+          "Evening: City Hall from outside and Akershus fortress at sunset"
         ]
       },
       {
         titolo: "3 days",
         tappe: [
           "Days 1-2 as above",
-          "Cruise on the Oslofjord",
-          "Two-hour Oslofjord cruise",
-          "Last dinner in the centre"
+          "Day 3: Oslofjord cruise in the morning",
+          "Afternoon at Holmenkollen on metro line 1",
+          "Dinner in Grünerløkka or at Mathallen"
         ]
       }
     ],
     zone: [
       {
         nome: "Sentrum and Oslo S",
+        testo: "Near the station, the Opera and the airport buses. The Citybox where I slept is 5 minutes from the station. Noisy in the evening near the station.",
         perChi: "Those arriving by train or short of time",
-        testo: "Near the station, the Opera and the airport buses. The Citybox where I slept is 5 minutes from the station. Noisy in the evening near the station."
+        fascia: "€130-230"
       },
       {
         nome: "Grünerløkka",
+        testo: "A young neighbourhood within walking distance of the centre. Lots of bars, noisier at weekends.",
         perChi: "Those looking for bars, cafes and nightlife",
-        testo: "A young neighbourhood within walking distance of the centre. Lots of bars, noisier at weekends."
+        fascia: "€110-200"
       },
       {
         nome: "Frogner and Majorstuen",
+        testo: "A residential area near Vigeland; accommodation a bit pricier, good connections.",
         perChi: "Those who want quiet and the park",
-        testo: "A residential area near Vigeland; accommodation a bit pricier, good connections."
+        fascia: "€140-260"
       }
     ],
     sapori: [
@@ -184,6 +274,52 @@ export const destinazioniNorvegia: Destinazione[] = [
       "Pickpockets around the station and Karl Johans gate: keep bag and phone in front.",
       "Electric scooters and bikes speed on the bike lanes: look before crossing.",
       "The metro uses tickets from the Ruter app: buy before boarding, inspections do happen."
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Oslo?",
+        risposta: "Two days for Vigeland, the Opera, Munch and Bygdøy; a third for the fjord cruise and Holmenkollen."
+      },
+      {
+        domanda: "How do you get from Gardermoen airport to the centre?",
+        risposta: "The Flytoget reaches Oslo S in about 20 minutes and costs about NOK 276; the Vy regional train takes 23-30 minutes and costs about NOK 125. Gardermoen is 50 km away: on the way back leave the centre three hours before your flight."
+      },
+      {
+        domanda: "Is Oslo the most expensive Nordic capital?",
+        risposta: "For eating and drinking, yes: a beer in a bar costs €9-14, an average dinner starts at €35-45 per person. Many sights are free, though, from Vigeland to the Opera roof."
+      },
+      {
+        domanda: "Is the Viking Ship Museum open?",
+        risposta: "No: the Bygdøy site is closed for works and the new Museum of the Viking Age will not open before 2027. Bygdøy is still worth it for the Fram, Kon-Tiki and Norsk Folkemuseum."
+      },
+      {
+        domanda: "Is the Oslo Pass worth it?",
+        risposta: "It pays off if in two or three days you do Bygdøy, Munch and Nasjonalmuseet using public transport; if you walk and mostly see the free sights, it is not worth it."
+      },
+      {
+        domanda: "When is the best time to visit Oslo?",
+        risposta: "From May to September, with long days and boats on the fjord. In winter you can ski a few minutes by metro from the centre, but it gets dark early."
+      }
+    ],
+    gite: [
+      {
+        nome: "Fredrikstad",
+        distanza: "about 1 hour by train",
+        come: "Vy regional trains from Oslo S.",
+        testo: "It has the best-preserved fortified town in Scandinavia, Gamlebyen, with ramparts, moats and wooden houses, reached by a small ferry from the modern centre."
+      },
+      {
+        nome: "Drøbak",
+        distanza: "40 km",
+        come: "Bus from the centre in about an hour; in summer also by boat on the fjord.",
+        testo: "A village of white wooden houses on the Oslofjord, with harbour cafés and Oscarsborg fortress on the island opposite, where the German cruiser Blücher was sunk in 1940."
+      },
+      {
+        nome: "Lillehammer",
+        distanza: "about 2 hours by train",
+        come: "Vy trains from Oslo S and Gardermoen airport.",
+        testo: "The 1994 Winter Olympics town on Lake Mjøsa, with the Maihaugen open-air museum and the ski jumps above the centre."
+      }
     ],
     esperienzeSlugs: ['vigeland-park-oslo', 'bygdoy-musei-fram-kontiki', 'oslofjord-crociera'],
     tripSlugs: ['lofoten-estate-2025', 'capitali-nordiche'],

@@ -9,6 +9,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città', 'cultura'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Nuestro viaje por Croacia con los amigos empezó aquí: un día en Zagreb, con el mercado de Dolac, el Museo de las Relaciones Rotas y por la noche los cafés de la calle Tkalčićeva, antes de coger el coche hacia Plitvice.",
     introduzione:
       'La capital, dividida entre la Ciudad Alta medieval y la Ciudad Baja austrohúngara, con cafés, museos y el mercado de Dolac. Es el punto de partida natural para Plitvice.',
     percheAndarci: 'Para una Croacia continental y centroeuropea, distinta de la costa.',
@@ -20,67 +22,191 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     cosaFare: ['Una noche en las cafeterías de la calle Tkalčićeva', 'Štrukli en una taberna de la Ciudad Alta', 'El mercadillo navideño en diciembre'],
     doveDormire: 'Ciudad Baja o cerca de la plaza Jelačić: económico 50-80 €, medio 90-150 €, alto más de 200 €.',
-    comeArrivare: 'Aeropuerto de Zagreb; en coche desde Trieste en unas dos horas y media.',
+    comeArrivare:
+      "El aeropuerto **Franjo Tuđman** está a unos 17 km del centro, conectado por autobús lanzadera con la estación de autobuses y por taxi. La estación de tren central está en la Ciudad Baja, a un cuarto de hora a pie de la plaza Jelačić. En coche desde Trieste se llega en unas dos horas y media, pasando por Eslovenia; en la ciudad conviene dejar el coche en un aparcamiento y moverse a pie, en tranvía y con el funicular a la Ciudad Alta, que sale de la calle Tomićeva.",
     comeSpostarsi: 'A pie, en tranvía y con el funicular a la Ciudad Alta.',
     periodoMigliore: 'abril-octubre; diciembre para el Adviento.',
+    costi:
+      "Funicular unos 0,66 € por trayecto, Museo de las Relaciones Rotas unos 7 €, Mirogoj gratis. Presupuesto orientativo al día por persona, con la habitación doble compartida, en junio o septiembre: bajo 70-100 €, medio 130-200 €, alto más de 300 €; en diciembre, con el Adviento, los alojamientos suben.",
     erroriDaEvitare: ['Saltársela del todo por correr al mar'],
     luoghi: [
       {
-        nome: "Ciudad Alta (Gornji grad)",
-        testo: "El núcleo medieval sobre una colina, con la iglesia de San Marcos de tejado de tejas de colores, la torre Lotrščak (donde un cañón dispara cada día al mediodía) y las callejas de la ciudad vieja.",
-        come: "A pie desde la Ciudad Baja o en funicular, uno de los más cortos del mundo (66 metros de vía).",
-        quando: "Mañana o final de la tarde. El cañón dispara al mediodía.",
-        tempo: "2 horas",
-        consiglio: "Subir a pie por la calle Tkalčićeva y bajar en funicular."
+        "nome": "Ciudad Alta (Gornji grad)",
+        "testo": "El núcleo medieval sobre una colina, con la iglesia de San Marcos de tejado de tejas de colores, la torre Lotrščak (donde un cañón dispara cada día al mediodía) y las callejas de la ciudad vieja.",
+        "come": "A pie desde la Ciudad Baja o en funicular, uno de los más cortos del mundo (66 metros de vía).",
+        "quando": "Mañana o final de la tarde. El cañón dispara al mediodía.",
+        "tempo": "2 horas",
+        "costo": "callejuelas libres; funicular unos 0,66 € por trayecto (2026)",
+        "lat": 45.81427,
+        "lng": 15.97308,
+        "consiglio": "Subir a pie por la calle Tkalčićeva y bajar en funicular."
       },
       {
-        nome: "Mercado de Dolac",
-        testo: "El mercado al aire libre de la ciudad, sobre la plaza Jelačić, con puestos de fruta y verdura bajo sombrillas rojas y quesos en el mercado cubierto de abajo.",
-        come: "A pie desde el centro, a pocos minutos de la plaza Jelačić.",
-        quando: "Por la mañana, hasta mediodía, cuando los puestos están llenos.",
-        tempo: "1 hora",
-        consiglio: "Probar el queso fresco con nata (sir i vrhnje) con pan caliente."
+        "nome": "Catedral de Zagreb",
+        "testo": "La catedral de la Asunción, en la colina de Kaptol, con las dos agujas neogóticas que se ven desde toda la ciudad. Fue reconstruida tras el terremoto de 1880 por el arquitecto Hermann Bollé, el mismo de Mirogoj. Tras el terremoto de 2020 está en restauración y el acceso puede estar limitado.",
+        "come": "A pie desde la plaza Jelačić, cinco minutos cuesta arriba.",
+        "quando": "Por la mañana, antes de subir a la Ciudad Alta.",
+        "tempo": "20 minutos",
+        "lat": 45.81444,
+        "lng": 15.97972
       },
       {
-        nome: "Museo de las Relaciones Rotas",
-        testo: "Un pequeño museo con objetos donados por personas de todo el mundo, cada uno con la historia de una relación terminada. Divertido y a ratos emotivo.",
-        come: "A pie desde la Ciudad Alta, en la calle de los Santos Cirilo y Metodio.",
-        quando: "Mañana o tarde, evitando el fin de semana.",
-        tempo: "1 hora",
-        consiglio: "Lo bonito son las historias de los donantes junto a cada objeto: prever tiempo para leerlas."
+        "nome": "Iglesia de San Marcos",
+        "testo": "La iglesia símbolo de la Ciudad Alta, con el tejado de tejas de colores que forman los escudos del Reino de Croacia, Dalmacia y Eslavonia y el de la ciudad. En la plaza están el Parlamento croata y el palacio del gobierno.",
+        "come": "En lo alto de la Ciudad Alta, a pie desde el funicular o la Puerta de Piedra. El interior suele verse solo durante las misas.",
+        "quando": "A primera hora, con la plaza vacía y la luz sobre el tejado.",
+        "tempo": "15 minutos",
+        "costo": "gratis",
+        "lat": 45.81639,
+        "lng": 15.97363
       },
       {
-        nome: "Cementerio de Mirogoj",
-        testo: "El cementerio monumental de la ciudad, abierto en 1876, con el edificio principal diseñado por el arquitecto Hermann Bollé. Las largas arcadas con cúpulas, construidas entre 1879 y 1929, encierran tumbas de todas las religiones, una al lado de otra. Es uno de los lugares más bonitos y tranquilos de Zagreb, y pocos turistas llegan.",
-        come: "En el autobús ZET 106 desde la terminal de Kaptol, junto a la catedral (cada 20 minutos aproximadamente en horario de apertura), o a pie cuesta arriba.",
-        quando: "Mañana o última hora de la tarde; a principios de noviembre está lleno de velas.",
-        tempo: "1 hora",
-        costo: "Gratis.",
-        consiglio: "Quedarse en los paseos y hablar bajo: es un cementerio en uso."
+        "nome": "Torre Lotrščak",
+        "testo": "Una torre del siglo XIII que defendía la entrada sur de la Ciudad Alta. Cada día a mediodía se dispara un cañón desde lo alto, una tradición que dura desde 1877. Desde el mirador de al lado, el paseo Strossmayer, se ve toda la Ciudad Baja.",
+        "come": "En la llegada del funicular, en lo alto de la calle Tomićeva.",
+        "quando": "Poco antes de mediodía, por el cañonazo.",
+        "tempo": "30 minutos",
+        "lat": 45.81463,
+        "lng": 15.97325
+      },
+      {
+        "nome": "Puerta de Piedra",
+        "testo": "La única puerta que queda de las murallas medievales de la Ciudad Alta. Bajo la bóveda hay una imagen de la Virgen que sobrevivió al incendio de 1731, ante la que los zagrebinos encienden velas y se detienen a rezar.",
+        "come": "A pie por la calle Radićeva, subiendo desde la plaza Jelačić.",
+        "quando": "Por la noche, con las velas encendidas.",
+        "tempo": "15 minutos",
+        "costo": "gratis",
+        "lat": 45.81572,
+        "lng": 15.97528,
+        "consiglio": "Es un lugar de oración: nada de fotos con flash y voz baja."
+      },
+      {
+        "nome": "Mercado de Dolac",
+        "testo": "El mercado al aire libre de la ciudad, sobre la plaza Jelačić, con puestos de fruta y verdura bajo sombrillas rojas y quesos en el mercado cubierto de abajo.",
+        "come": "A pie desde el centro, a pocos minutos de la plaza Jelačić.",
+        "quando": "Por la mañana, hasta mediodía, cuando los puestos están llenos.",
+        "tempo": "1 hora",
+        "costo": "gratis",
+        "lat": 45.81417,
+        "lng": 15.9775,
+        "consiglio": "Probar el queso fresco con nata (sir i vrhnje) con pan caliente."
+      },
+      {
+        "nome": "Plaza Ban Jelačić",
+        "testo": "La plaza principal, entre la Ciudad Baja y la Alta, con la estatua ecuestre del ban Jelačić y la fuente Manduševac. Por aquí pasan casi todos los tranvías y es el punto de encuentro de la ciudad.",
+        "come": "Tranvías desde toda la ciudad; desde la estación central unos 15 minutos a pie.",
+        "quando": "Siempre; en diciembre acoge parte del mercadillo de Adviento.",
+        "tempo": "15 minutos",
+        "costo": "gratis",
+        "lat": 45.81306,
+        "lng": 15.97722
+      },
+      {
+        "nome": "Calle Tkalčićeva",
+        "testo": "Una calle curva en ligera subida, nacida sobre el cauce de un arroyo soterrado, llena de cafés y bares al aire libre. Es donde los zagrebinos toman el café por la mañana y el aperitivo por la noche.",
+        "come": "A pie desde la plaza Jelačić, pasando por el mercado de Dolac.",
+        "quando": "Por la noche.",
+        "tempo": "1-2 horas",
+        "costo": "gratis",
+        "lat": 45.81913,
+        "lng": 15.97641
+      },
+      {
+        "nome": "Museo de las Relaciones Rotas",
+        "testo": "Un pequeño museo con objetos donados por personas de todo el mundo, cada uno con la historia de una relación terminada. Divertido y a ratos emotivo.",
+        "come": "A pie desde la Ciudad Alta, en la calle de los Santos Cirilo y Metodio.",
+        "quando": "Mañana o tarde, evitando el fin de semana.",
+        "tempo": "1 hora",
+        "costo": "unos 7 € (2026)",
+        "orari": "Todos los días: 9-21 en invierno, 10-22 en verano.",
+        "lat": 45.81517,
+        "lng": 15.97358,
+        "url": "https://brokenships.com/",
+        "consiglio": "Lo bonito son las historias de los donantes junto a cada objeto: prever tiempo para leerlas."
+      },
+      {
+        "nome": "Cementerio de Mirogoj",
+        "testo": "El cementerio monumental de la ciudad, abierto en 1876, con el edificio principal diseñado por el arquitecto Hermann Bollé. Las largas arcadas con cúpulas, construidas entre 1879 y 1929, encierran tumbas de todas las religiones, una al lado de otra. Es uno de los lugares más bonitos y tranquilos de Zagreb, y pocos turistas llegan.",
+        "come": "En el autobús ZET 106 desde la terminal de Kaptol, junto a la catedral (cada 20 minutos aproximadamente en horario de apertura), o a pie cuesta arriba.",
+        "quando": "Mañana o última hora de la tarde; a principios de noviembre está lleno de velas.",
+        "tempo": "1 hora",
+        "costo": "Gratis.",
+        "lat": 45.83569,
+        "lng": 15.98444,
+        "consiglio": "Quedarse en los paseos y hablar bajo: es un cementerio en uso."
+      },
+      {
+        "nome": "Museo Mimara",
+        "testo": "La colección donada a la ciudad por Ante Topić Mimara, en un gran edificio del siglo XIX de la Ciudad Baja: pinturas europeas, vidrios, alfombras y objetos de arte de la Antigüedad al siglo XX. Es el museo de arte más variado de la ciudad.",
+        "come": "En la plaza Roosevelt, a lo largo de la «herradura verde» de parques de la Ciudad Baja; tranvía hasta la plaza.",
+        "quando": "Por la tarde o en un día de lluvia.",
+        "tempo": "1 hora y media",
+        "lat": 45.80833,
+        "lng": 15.96694,
+        "url": "https://www.mimara.hr/"
+      },
+      {
+        "nome": "Museo Croata de Arte Naïf",
+        "testo": "Un pequeño museo en la Ciudad Alta dedicado a la pintura naïf croata, nacida en los años treinta entre los campesinos de Hlebine, con Ivan Generalić y los pintores sobre vidrio. Colores fuertes, pueblos, animales y escenas de campo.",
+        "come": "A pocos pasos de la torre Lotrščak y del funicular.",
+        "quando": "Por la mañana, en días laborables.",
+        "tempo": "45 minutos",
+        "orari": "De lunes a viernes 9-17, sábado 10-14.",
+        "lat": 45.81542,
+        "lng": 15.97333,
+        "url": "https://www.hmnu.hr/"
+      },
+      {
+        "nome": "Parque Maksimir",
+        "testo": "El parque más antiguo de la ciudad, abierto en 1794, con bosques de robles, estanques, un mirador y el zoo. A veinte minutos en tranvía del centro, es donde los zagrebinos pasan el domingo.",
+        "come": "Tranvía desde la plaza Jelačić hacia el este hasta Maksimir.",
+        "quando": "Por la mañana o por la tarde, con buen tiempo.",
+        "tempo": "2 horas",
+        "costo": "parque gratis, zoo con entrada",
+        "lat": 45.82964,
+        "lng": 16.02047
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Mercado de Dolac por la mañana",
-          "Catedral y Ciudad Alta",
-          "Comida con štrukli",
-          "Museo de las Relaciones Rotas",
-          "Aperitivo en la calle Tkalčićeva"
+        "titolo": "1 día",
+        "tappe": [
+          "Mercado de Dolac por la mañana, luego la catedral.",
+          "Ciudad Alta por la Puerta de Piedra: iglesia de San Marcos y torre Lotrščak antes de mediodía, por el cañón.",
+          "Almuerzo con štrukli, luego el Museo de las Relaciones Rotas.",
+          "Bajada en funicular y aperitivo en la calle Tkalčićeva."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba.",
+          "Día 2 mañana: cementerio de Mirogoj en autobús desde Kaptol.",
+          "Tarde: Museo Mimara y los parques de la Ciudad Baja, o el Museo de Arte Naïf.",
+          "Noche: cena en la Ciudad Alta y paseo Strossmayer con la ciudad iluminada."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba.",
+          "Día 3: Samobor por la mañana, con la kremšnita, o el parque Maksimir.",
+          "Salida por la tarde hacia Plitvice, a unas dos horas en coche."
         ]
       }
     ],
     zone: [
       {
-        nome: "Ciudad Baja",
-        perChi: "para estación y tranvías",
-        testo: "Hoteles y apartamentos a pie de todo; el centro es animado y algo ruidoso por la noche."
+        "nome": "Ciudad Baja",
+        "perChi": "para estación y tranvías",
+        "testo": "Hoteles y apartamentos a pie de todo; el centro es animado y algo ruidoso por la noche.",
+        "fascia": "60-130 €"
       },
       {
-        nome: "Cerca de la plaza Jelačić",
-        perChi: "para estancias cortas",
-        testo: "Todo a pie; los precios son algo más altos."
+        "nome": "Cerca de la plaza Jelačić",
+        "perChi": "para estancias cortas",
+        "testo": "Todo a pie; los precios son algo más altos.",
+        "fascia": "90-150 €"
       }
     ],
     sapori: [
@@ -102,6 +228,48 @@ export const destinazioniCroazia: Destinazione[] = [
       "En Navidad suben los precios de alojamiento: reservar con antelación.",
       "En los fines de semana del mercado de Adviento el centro se llena: mejor entre semana."
     ],
+    gite: [
+      {
+        "nome": "Lagos de Plitvice",
+        "distanza": "unas 2 horas en coche",
+        "come": "En coche hacia el sur; si no, autobús desde la estación de autobuses de Zagreb. Entrada online con franja horaria.",
+        "testo": "Dieciséis lagos en terrazas unidos por cascadas, patrimonio de la UNESCO. Se puede hacer en el día, pero conviene dormir cerca del parque para entrar a la apertura. Entrada 40 € de junio a septiembre, 23 € en abril, mayo y octubre."
+      },
+      {
+        "nome": "Samobor",
+        "distanza": "unos 25 km",
+        "come": "En coche o en autobús desde Zagreb.",
+        "testo": "Una pequeña ciudad decimonónica con el río, la plaza de colores y las pastelerías donde se come la kremšnita, el dulce de crema típico. Encima están las ruinas del castillo y los senderos de las colinas."
+      },
+      {
+        "nome": "Varaždin",
+        "distanza": "unos 80 km",
+        "come": "En coche por la autopista hacia el norte, alrededor de una hora; también en tren o autobús.",
+        "testo": "La antigua capital barroca, con el castillo blanco rodeado de bastiones de hierba, los palacios nobiliarios y un cementerio-jardín con setos podados con arte. A finales de agosto acoge el festival callejero Špancirfest."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para Zagreb?",
+        "risposta": "Un día para la Ciudad Alta, Dolac y los museos principales; dos para añadir Mirogoj, la Ciudad Baja y una noche tranquila en la calle Tkalčićeva."
+      },
+      {
+        "domanda": "¿Merece la pena parar en Zagreb antes de la costa?",
+        "risposta": "Sí, al menos una noche: es una ciudad centroeuropea muy distinta de Dalmacia y la parada natural antes de Plitvice."
+      },
+      {
+        "domanda": "¿Cómo se va del aeropuerto al centro de Zagreb?",
+        "risposta": "El aeropuerto Franjo Tuđman está a unos 17 km: hay autobús lanzadera a la estación de autobuses y taxis. En taxi conviene usar las apps o los coches con tarifa expuesta."
+      },
+      {
+        "domanda": "¿Cuándo es el mercadillo navideño de Zagreb?",
+        "risposta": "Durante el Adviento, de finales de noviembre a principios de enero, en la plaza Jelačić y otras plazas del centro. Los fines de semana está muy lleno y los alojamientos suben de precio."
+      },
+      {
+        "domanda": "¿Hace falta coche en Zagreb?",
+        "risposta": "No: el centro se recorre a pie, con tranvía y funicular. El coche solo hace falta para seguir hacia Plitvice y la costa."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La iglesia de San Marcos con el tejado de tejas de colores en Zagreb',
@@ -115,6 +283,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['parco nazionale', 'laghi', 'cascate'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuvimos aquí en el viaje por Croacia con los amigos: la primera tarde los lagos inferiores hasta la Veliki slap, y a la mañana siguiente, a la hora de apertura, los lagos superiores con el barco por el lago Kozjak.",
     introduzione:
       'Dieciséis lagos en terrazas conectados por cascadas y barreras de travertino, atravesados por pasarelas de madera, en el parque nacional más antiguo de Croacia, patrimonio UNESCO desde 1979.',
     percheAndarci: 'Por las cascadas y los colores de los lagos, para ver a la apertura.',
@@ -338,6 +508,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città storiche', 'parco nazionale', 'mare'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuvimos aquí en el viaje por Croacia con los amigos: un día en Zadar, entre el Órgano del Mar y el Saludo al Sol, luego el Krka, subiendo en barco desde Skradin hasta el Skradinski buk, y la tarde en Šibenik, donde dormimos.",
     introduzione:
       'La Dalmacia septentrional: Zadar con el centro romano y veneciano y las instalaciones del paseo marítimo, las cascadas de travertino del Parque Nacional del Krka y Šibenik con la catedral de Santiago.',
     percheAndarci: 'Por el atardecer en el Órgano del mar, las cascadas del Krka y dos ciudades históricas menos concurridas que Split y Dubrovnik.',
@@ -349,73 +521,182 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     cosaFare: ['El barco de Skradin a las cascadas', 'Un día en las Kornati o en Ugljan desde Zadar'],
     doveDormire: 'Apartamentos en los cascos antiguos (80-150 €); hoteles en Borik, cerca de Zadar.',
-    comeArrivare: 'En coche desde Plitvice; aeropuerto de Zadar con vuelos de temporada.',
+    comeArrivare:
+      "El aeropuerto de **Zadar** tiene vuelos de temporada desde Italia y el resto de Europa y está a pocos kilómetros de la ciudad. En coche desde Plitvice se tarda unas dos horas, en parte por la autopista A1 de peaje a través del Velebit; con bora fuerte ese tramo puede cerrarse a vehículos altos o ir lento. De Zadar a Skradin, entrada del Krka, hay una hora en coche, de Skradin a Šibenik unos veinte minutos. El casco antiguo de Zadar es peatonal: mejor un alojamiento con aparcamiento o los aparcamientos de pago fuera de las murallas.",
     periodoMigliore: 'mayo-junio y septiembre.',
-    costi: 'Krka unos 40 € en verano, mucho menos en temporada baja.',
+    costi:
+      "Krka 40 € de junio a septiembre (30 € después de las 15), 20 € en abril, mayo y octubre, 7 € de noviembre a marzo (2026); fortaleza de San Miguel unos 11,50 €, combinada de las fortalezas unos 15 €; campanario y San Donato pocos euros. Presupuesto orientativo al día por persona, con la habitación doble compartida, en junio o septiembre: bajo 70-100 €, medio 130-200 €, alto más de 300 €.",
     erroriDaEvitare: ['Esperar poder bañarse bajo las cascadas del Krka: está prohibido desde 2021'],
     luoghi: [
       {
-        nome: "Zadar: Órgano marino y Saludo al Sol",
-        testo: "Dos instalaciones en el paseo marítimo del casco antiguo: el Órgano marino suena con las olas que entran en tubos bajo los escalones, y al lado un disco de vidrio capta la luz del atardecer. Obra del arquitecto Nikola Bašić.",
-        come: "A pie desde el casco antiguo, por la Riva.",
-        quando: "Al atardecer, cuando suena y brilla.",
-        tempo: "1 hora",
-        consiglio: "Sentarse en los escalones: el sonido cambia con el viento y las olas."
+        "nome": "Zadar: Órgano marino y Saludo al Sol",
+        "testo": "Dos instalaciones en el paseo marítimo del casco antiguo: el Órgano marino suena con las olas que entran en tubos bajo los escalones, y al lado un disco de vidrio capta la luz del atardecer. Obra del arquitecto Nikola Bašić.",
+        "come": "A pie desde el casco antiguo, por la Riva.",
+        "quando": "Al atardecer, cuando suena y brilla.",
+        "tempo": "1 hora",
+        "costo": "gratis",
+        "orari": "Siempre accesibles.",
+        "lat": 44.11722,
+        "lng": 15.22,
+        "consiglio": "Sentarse en los escalones: el sonido cambia con el viento y las olas."
       },
       {
-        nome: "Casco antiguo de Zadar",
-        testo: "Una península con el Foro romano, la iglesia circular de San Donato (siglo IX) e iglesias románicas. Muy dañada en la Segunda Guerra Mundial y reconstruida.",
-        come: "A pie desde los aparcamientos fuera de las murallas.",
-        quando: "Mañana o noche.",
-        tempo: "2 horas",
-        consiglio: "El mercado de pescado y fruta junto a las murallas es un buen desayuno."
+        "nome": "Casco antiguo de Zadar",
+        "testo": "Una península con el Foro romano, la iglesia circular de San Donato (siglo IX) e iglesias románicas. Muy dañada en la Segunda Guerra Mundial y reconstruida.",
+        "come": "A pie desde los aparcamientos fuera de las murallas.",
+        "quando": "Mañana o noche.",
+        "tempo": "2 horas",
+        "costo": "centro libre; San Donato con entrada de pocos euros",
+        "lat": 44.11555,
+        "lng": 15.22447,
+        "consiglio": "El mercado de pescado y fruta junto a las murallas es un buen desayuno."
       },
       {
-        nome: "Skradinski buk (Krka)",
-        testo: "Una serie de cascadas y pozas en terrazas de travertino en el Parque Nacional de Krka. Se camina por pasarelas y se toma un barco desde Skradin.",
-        come: "En coche desde Šibenik. Se sale de la entrada de Skradin con barco incluido en la entrada.",
-        quando: "A primera hora o al final del día. Mayo-junio y septiembre.",
-        tempo: "3-4 horas",
-        costo: "40 € de junio a septiembre, 20 € en abril, mayo y octubre, 7 € de noviembre a marzo (2026); del 1 de abril al 31 de octubre incluye el barco desde Skradin.",
-        url: "https://np-krka.hr/en/",
-        consiglio: "Ya no se permite el baño al pie de las cascadas."
+        "nome": "Catedral y campanario de Santa Anastasia, Zadar",
+        "testo": "La catedral románica más grande de Dalmacia, con la fachada de rosetones y arquerías ciegas. El campanario, terminado en el siglo XIX, se sube por una escalera estrecha hasta lo alto, desde donde se ven los tejados de la península, el puerto y las islas de enfrente.",
+        "come": "Junto al Foro, a pie en el casco antiguo.",
+        "quando": "Por la mañana, antes del calor.",
+        "tempo": "45 minutos",
+        "costo": "campanario unos pocos euros, a menudo solo en efectivo",
+        "lat": 44.11611,
+        "lng": 15.22444
       },
       {
-        nome: "Catedral de Santiago, Šibenik",
-        testo: "Catedral renacentista de piedra, patrimonio UNESCO, construida sin mortero con bloques encajados. En el friso exterior corren más de 70 rostros esculpidos.",
-        come: "A pie desde el centro histórico.",
-        quando: "Por la mañana.",
-        tempo: "45 minutos",
-        consiglio: "Mirar los rostros de los ábsides: se cree que retratan a gente de la Dalmacia de la época."
+        "nome": "Puerta de Tierra Firme y plaza de los Cinco Pozos",
+        "testo": "La puerta monumental del siglo XVI, con el león de San Marcos, por donde se entraba a la ciudad desde tierra firme. Un poco más allá está la plaza de los Cinco Pozos, con los cinco brocales venecianos construidos sobre una cisterna durante los asedios otomanos, y el parque de la Reina Jelena sobre los bastiones.",
+        "come": "A pie desde el pequeño puerto de Foša, en el lado sur de la península.",
+        "quando": "En cualquier momento; por la noche con las luces.",
+        "tempo": "30 minutos",
+        "costo": "gratis",
+        "lat": 44.1121,
+        "lng": 15.22845
+      },
+      {
+        "nome": "Museo del Vidrio Antiguo, Zadar",
+        "testo": "Un museo recogido en un palacio del siglo XIX, con la mayor colección de vidrio romano de la región: ungüentarios, copas y urnas halladas en las necrópolis de Dalmacia. También se hacen demostraciones de soplado de vidrio.",
+        "come": "A pie desde el casco antiguo, justo fuera de las murallas por el lado del puerto de Jazine.",
+        "quando": "Una tarde de calor o un día de lluvia.",
+        "tempo": "1 hora",
+        "lat": 44.11433,
+        "lng": 15.22953
+      },
+      {
+        "nome": "Skradinski buk (Krka)",
+        "testo": "Una serie de cascadas y pozas en terrazas de travertino en el Parque Nacional de Krka. Se camina por pasarelas y se toma un barco desde Skradin.",
+        "come": "En coche desde Šibenik. Se sale de la entrada de Skradin con barco incluido en la entrada.",
+        "quando": "A primera hora o al final del día. Mayo-junio y septiembre.",
+        "tempo": "3-4 horas",
+        "costo": "40 € de junio a septiembre, 20 € en abril, mayo y octubre, 7 € de noviembre a marzo (2026); del 1 de abril al 31 de octubre incluye el barco desde Skradin.",
+        "lat": 43.80573,
+        "lng": 15.96318,
+        "url": "https://np-krka.hr/en/",
+        "consiglio": "Ya no se permite el baño al pie de las cascadas."
+      },
+      {
+        "nome": "Visovac y Roški slap (Krka)",
+        "testo": "Río arriba del Skradinski buk el río se ensancha en un lago con el islote de Visovac y su monasterio franciscano entre cipreses. Más arriba está el Roški slap, una cascada ancha precedida por una serie de pequeñas cascadas llamadas «collares», con antiguos molinos restaurados.",
+        "come": "En barco con las excursiones del parque desde el Skradinski buk, o en coche hasta las entradas de Roški slap y el mirador de Visovac.",
+        "quando": "De abril a octubre, cuando funcionan los barcos; mucho menos concurrido que el Skradinski buk.",
+        "tempo": "media jornada",
+        "lat": 43.90375,
+        "lng": 15.97507,
+        "url": "https://www.npkrka.hr/"
+      },
+      {
+        "nome": "Skradin",
+        "testo": "El pequeño pueblo junto al río de donde salen los barcos al Skradinski buk, con el puerto lleno de veleros y casas de piedra en cuesta. Fuera de las horas de los barcos es tranquilo, y sus restaurantes son conocidos por el risotto de Skradin, cocinado durante horas.",
+        "come": "En coche desde Zadar en una hora, desde Šibenik en unos 20 minutos; aparcamiento de pago cerca del puerto.",
+        "quando": "Primer barco de la mañana; después de las 11 las pasarelas del Skradinski buk se atascan.",
+        "tempo": "1 hora en el pueblo",
+        "costo": "gratis",
+        "lat": 43.81667,
+        "lng": 15.92222
+      },
+      {
+        "nome": "Catedral de Santiago, Šibenik",
+        "testo": "Catedral renacentista de piedra, patrimonio UNESCO, construida sin mortero con bloques encajados. En el friso exterior corren más de 70 rostros esculpidos.",
+        "come": "A pie desde el centro histórico.",
+        "quando": "Por la mañana.",
+        "tempo": "45 minutos",
+        "costo": "entrada de pocos euros",
+        "lat": 43.73564,
+        "lng": 15.88912,
+        "consiglio": "Mirar los rostros de los ábsides: se cree que retratan a gente de la Dalmacia de la época."
+      },
+      {
+        "nome": "Fortaleza de San Miguel, Šibenik",
+        "testo": "La fortaleza medieval sobre el casco histórico, desde donde se ven los tejados, el canal de San Antonio y las islas. Dentro de las murallas hay un escenario al aire libre donde en verano se celebran conciertos.",
+        "come": "A pie desde la catedral, subiendo por las callejuelas de piedra, unos diez minutos.",
+        "quando": "Última hora de la tarde, por la luz sobre las islas.",
+        "tempo": "45 minutos",
+        "costo": "unos 11,50 €; combinada con las otras fortalezas de la ciudad unos 15 € (2026)",
+        "lat": 43.73757,
+        "lng": 15.88961
+      },
+      {
+        "nome": "Fortaleza Barone, Šibenik",
+        "testo": "Una fortaleza construida en el siglo XVII en la colina sobre la ciudad para defenderla de los otomanos. Está más alta que San Miguel y la vista es más amplia, hasta el archipiélago; dentro hay una pequeña exposición y un bar en la terraza.",
+        "come": "A pie cuesta arriba desde el centro, unos 15 minutos, o en coche.",
+        "quando": "Al atardecer.",
+        "tempo": "45 minutos",
+        "costo": "incluida en la entrada combinada de las fortalezas",
+        "lat": 43.7373,
+        "lng": 15.8964
+      },
+      {
+        "nome": "Fortaleza de San Nicolás, Šibenik",
+        "testo": "Una fortaleza veneciana del siglo XVI en un islote a la entrada del canal de San Antonio, en forma de triángulo apuntando al mar. Forma parte de las obras de defensa venecianas inscritas en la UNESCO.",
+        "come": "Se ve desde el paseo junto al canal o desde los barcos; las visitas al interior son limitadas y hay que comprobarlas en el lugar.",
+        "quando": "Por la tarde, entrando o saliendo en barco por el canal.",
+        "tempo": "1 hora",
+        "lat": 43.72161,
+        "lng": 15.85453
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Zadar por la mañana",
-          "Comida en la ciudad",
-          "Atardecer en el Órgano marino"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: casco antiguo de Zadar, Foro, San Donato y campanario de Santa Anastasia.",
+          "Almuerzo en la ciudad, luego la Puerta de Tierra Firme y la plaza de los Cinco Pozos.",
+          "Tarde: Museo del Vidrio Antiguo o un cruce del puerto en barcarola.",
+          "Atardecer en el Órgano del Mar y el Saludo al Sol."
         ]
       },
       {
-        titolo: "2 días",
-        tappe: [
-          "Día 1: Zadar y atardecer en la Riva",
-          "Día 2: Krka por la mañana, Šibenik por la tarde"
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Zadar como arriba.",
+          "Día 2: a Skradin para el primer barco, Skradinski buk por las pasarelas.",
+          "Tarde: Šibenik, catedral de Santiago y fortaleza de San Miguel al atardecer."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba, durmiendo en Šibenik la segunda noche.",
+          "Día 3: Visovac y Roški slap en la parte alta del Krka, más tranquila.",
+          "Como alternativa: un día en barco a las Kornati desde Zadar."
         ]
       }
     ],
     zone: [
       {
-        nome: "Casco antiguo de Zadar",
-        perChi: "para estar en el centro",
-        testo: "Alojamientos de piedra a pocos pasos de todo; animado de noche en la zona de la Riva."
+        "nome": "Casco antiguo de Zadar",
+        "perChi": "para estar en el centro",
+        "testo": "Alojamientos de piedra a pocos pasos de todo; animado de noche en la zona de la Riva.",
+        "fascia": "80-150 €"
       },
       {
-        nome: "Šibenik",
-        perChi: "para llegar a Krka",
-        testo: "Más tranquila que Split, cómoda para la autopista y el parque."
+        "nome": "Šibenik",
+        "perChi": "para llegar a Krka",
+        "testo": "Más tranquila que Split, cómoda para la autopista y el parque.",
+        "fascia": "80-150 €"
+      },
+      {
+        "nome": "Borik, Zadar",
+        "perChi": "quien viaja en coche y quiere el mar",
+        "testo": "Zona de hoteles junto al mar al noroeste de la ciudad, con playas y aparcamiento; el casco antiguo está a unos veinte minutos en autobús o en coche."
       }
     ],
     sapori: [
@@ -441,6 +722,54 @@ export const destinazioniCroazia: Destinazione[] = [
       "En julio y agosto las cascadas se llenan: llegar a la apertura.",
       "El aparcamiento cerca del casco antiguo es de pago y con límite de tiempo."
     ],
+    gite: [
+      {
+        "nome": "Parque Nacional de las Kornati",
+        "distanza": "un día entero en barco desde Zadar",
+        "come": "Excursiones en barco desde el puerto de Zadar o desde Murter, a reservar el día antes.",
+        "testo": "Un archipiélago de casi noventa islas calizas y desnudas, con acantilados sobre mar abierto y bahías para el baño. La entrada del parque suele estar incluida en la excursión."
+      },
+      {
+        "nome": "Isla de Ugljan",
+        "distanza": "unos 25 minutos en ferry",
+        "come": "Ferris de Jadrolinija desde el puerto de Zadar hasta Preko.",
+        "testo": "La isla frente a Zadar, con olivares, pueblos de pescadores y el islote de Galevac, a nado o en barca desde Preko. Media jornada de mar sin coche."
+      },
+      {
+        "nome": "Nin",
+        "distanza": "unos 15 km desde Zadar",
+        "come": "En coche o en autobús desde Zadar.",
+        "testo": "Una pequeña ciudad en un islote de la laguna, una de las más antiguas de Croacia, con la iglesita prerrománica de la Santa Cruz, las salinas y largas playas de arena con fangos curativos."
+      },
+      {
+        "nome": "Primošten",
+        "distanza": "unos 30 km desde Šibenik",
+        "come": "En coche por la costa hacia Split.",
+        "testo": "Un pueblo en una península con la iglesia en lo alto y los viñedos de Babić en terrazas de piedra seca alrededor, una de las imágenes más conocidas de la costa dálmata."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Se puede uno bañar en las cascadas del Krka?",
+        "risposta": "No, desde 2021 está prohibido bañarse bajo el Skradinski buk. Para nadar hay que ir al mar, en Šibenik o Zadar."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada del Krka?",
+        "risposta": "De junio a septiembre 40 € (30 € después de las 15), en abril, mayo y octubre 20 €, de noviembre a marzo 7 €. De abril a octubre incluye el barco desde Skradin."
+      },
+      {
+        "domanda": "¿Krka o Plitvice?",
+        "risposta": "Plitvice es más grande y espectacular, con dieciséis lagos; el Krka se visita en menos tiempo y está cerca del mar. Quien pasa por ambos hace Plitvice por los lagos y el Krka por el Skradinski buk y Visovac."
+      },
+      {
+        "domanda": "¿Zadar o Šibenik como base?",
+        "risposta": "Zadar tiene más vida y el atardecer en el Órgano del Mar; Šibenik está más cerca del Krka, a unos veinte minutos de Skradin. Con dos noches se puede dormir una en cada una."
+      },
+      {
+        "domanda": "¿Cuándo se oye mejor el Órgano del Mar?",
+        "risposta": "Suena siempre, pero con algo de oleaje o viento el sonido es más fuerte. Al atardecer conviene llegar media hora antes para tener sitio en los escalones."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'El Skradinski buk en el Parque Nacional del Krka',
@@ -454,6 +783,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città romana', 'mare', 'porto'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegamos en coche desde Trogir, en el viaje por Croacia con los amigos, y aquí devolvimos el coche: dos noches, con el palacio de Diocleciano y el Marjan, y luego el catamarán a Hvar.",
     introduzione:
       'Split vive dentro el palacio que el emperador Diocleciano mandó construir hacia el año 300 d.C. A media hora está Trogir, islote medieval patrimonio UNESCO. El puerto es el nudo de los ferris a las islas.',
     percheAndarci: 'Por el palacio de Diocleciano, la Riva, el Marjan y las conexiones con Hvar, Brač y Vis.',
@@ -771,6 +1102,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['isola', 'mare', 'vita notturna'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegamos en catamarán desde Split, en el viaje por Croacia con los amigos: dos noches, con un día en taxi-boat a las islas Pakleni.",
     introduzione:
       'La isla más soleada del Adriático, con una ciudad veneciana en la bahía, las islas Pakleni frente al puerto, campos de lavanda en el interior y la llanura de Stari Grad, patrimonio UNESCO.',
     percheAndarci: 'Por las calas de las Pakleni, el atardecer desde la fortaleza y, para quien la busque, la vida nocturna.',
@@ -1044,70 +1377,159 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['isola', 'città storica', 'vino'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegamos en catamarán desde Hvar, en el viaje por Croacia con los amigos: una noche, con la ciudad vieja, las murallas y el atardecer desde el torreón, antes del catamarán a Dubrovnik.",
     introduzione:
       'Una ciudad vieja fortificada en una península, con las calles en espina de pescado, la catedral de San Marcos y la casa dedicada a Marco Polo; en la isla se produce el vino blanco grk.',
     percheAndarci: 'Por una ciudad histórica más tranquila que Hvar y Dubrovnik y por la danza de la moreška.',
     cosaVedere: ['La ciudad vieja y las murallas', 'La catedral de San Marcos', 'Lumbarda y sus viñedos'],
     cosaFare: ['Asistir a la moreška en las noches de verano', 'Degustar el grk en Lumbarda'],
     doveDormire: 'Ciudad vieja o Lumbarda, 90-160 €.',
-    comeArrivare: 'Catamarán desde Split, Hvar o Dubrovnik; ferri desde Orebić en la península de Pelješac.',
+    comeArrivare:
+      "Korčula no tiene aeropuerto: se llega por mar. El catamarán desde **Hvar** tarda alrededor de hora y media (orientativamente 20-30 €), el de **Dubrovnik** unas dos horas (25-35 €), con salidas también desde **Split**; en verano hay pocas al día y conviene reservarlas en cuanto se fijan las fechas. En coche se atraviesa la península de Pelješac y se toma el ferry desde **Orebić**, una travesía corta. Con bora o mar gruesa los barcos pueden cancelarse.",
     periodoMigliore: 'junio y septiembre.',
+    costi:
+      "Moreška unos 20 €; catamarán Hvar-Korčula 20-30 €, Korčula-Dubrovnik 25-35 € (estimaciones 2026). Presupuesto orientativo al día por persona, con la habitación doble compartida, en junio o septiembre: bajo 70-100 €, medio 130-200 €, alto más de 300 €; en julio y agosto contar un 30-50 % más.",
     erroriDaEvitare: ['Visitarla solo en el día desde los cruceros, perdiéndose la noche'],
     luoghi: [
       {
-        nome: "Casco antiguo de Korčula",
-        testo: "Una península fortificada con plano «en espina de pez», con calles pensadas para protegerse del viento. Murallas y torres venecianas, y la catedral de San Marcos con un altar de Tintoretto.",
-        come: "A pie desde el puerto, por la Puerta de Tierra.",
-        quando: "Mañana o noche.",
-        tempo: "2 horas",
-        consiglio: "Subir a la torre de la catedral para ver los tejados."
+        "nome": "Casco antiguo de Korčula",
+        "testo": "Una península fortificada con plano «en espina de pez», con calles pensadas para protegerse del viento. Murallas y torres venecianas, y la catedral de San Marcos con un altar de Tintoretto.",
+        "come": "A pie desde el puerto, por la Puerta de Tierra.",
+        "quando": "Mañana o noche.",
+        "tempo": "2 horas",
+        "costo": "gratis",
+        "lat": 42.96167,
+        "lng": 17.13583,
+        "consiglio": "Subir a la torre de la catedral para ver los tejados."
       },
       {
-        nome: "Casa de Marco Polo",
-        testo: "Según la tradición local Marco Polo nació en Korčula. En el centro hay una casa que la tradición señala como la suya.",
-        come: "En el centro histórico, con escalones empinados.",
-        quando: "Por la mañana.",
-        tempo: "30 minutos",
-        consiglio: "El nacimiento en Korčula es una tradición, no un hecho documentado."
+        "nome": "Catedral de San Marcos",
+        "testo": "La catedral de piedra clara de la isla cierra la plaza en lo alto del casco antiguo, con el portal románico decorado con leones y figuras. Dentro hay un retablo de Tintoretto en el altar mayor; desde el campanario se ven los tejados en espina de pez y el canal de Pelješac.",
+        "come": "A pie por la calle central desde la Puerta de Tierra Firme.",
+        "quando": "Por la mañana, antes del calor, para subir al campanario.",
+        "tempo": "45 minutos",
+        "lat": 42.96161,
+        "lng": 17.1362
       },
       {
-        nome: "Moreška",
-        testo: "Una danza de espadas que escenifica la lucha entre moros y cristianos por una muchacha raptada, que se baila en Korčula desde hace siglos. Dos ejércitos con trajes rojos y negros se enfrentan con golpes rítmicos y chispas en las hojas. Hoy hay funciones fijas para los visitantes un par de veces por semana.",
-        come: "Por la noche, al aire libre o en sala, con entrada.",
-        quando: "Verano, por la noche.",
-        tempo: "1 hora",
-        consiglio: "Comprobar día y hora in situ: varían."
+        "nome": "Torre Revelin y Puerta de Tierra Firme",
+        "testo": "La entrada principal del casco antiguo, con la gran escalinata que sube a la puerta y la torre Revelin al lado, el bastión más fuerte de las murallas venecianas. Desde la torre se ve toda la península con la ciudad.",
+        "come": "A pocos minutos a pie del puerto y de la estación de autobuses.",
+        "quando": "Al atardecer, con la luz sobre la piedra.",
+        "tempo": "30 minutos",
+        "lat": 42.9608,
+        "lng": 17.13597
       },
       {
-        nome: "Península de Pelješac",
-        testo: "La larga península de enfrente, con pequeños productores de Plavac mali. Desde Orebić se llega a Korčula con una corta travesía en ferry.",
-        come: "En coche, visitando las bodegas de Dingač y Potomje.",
-        quando: "Primavera y otoño.",
-        tempo: "media jornada",
-        consiglio: "Reservar las catas, sobre todo en temporada alta."
+        "nome": "Moreška",
+        "testo": "Una danza de espadas que escenifica la lucha entre moros y cristianos por una muchacha raptada, que se baila en Korčula desde hace siglos. Dos ejércitos con trajes rojos y negros se enfrentan con golpes rítmicos y chispas en las hojas. Hoy hay funciones fijas para los visitantes un par de veces por semana.",
+        "come": "Por la noche, al aire libre o en sala, con entrada.",
+        "quando": "Verano, por la noche.",
+        "tempo": "1 hora",
+        "costo": "unos 20 € por persona (2026)",
+        "orari": "Normalmente lunes y jueves por la noche en julio y agosto; fechas a comprobar en la web turística de Korčula.",
+        "lat": 42.9608,
+        "lng": 17.13597,
+        "consiglio": "Comprobar día y hora in situ: varían."
+      },
+      {
+        "nome": "Casa de Marco Polo",
+        "testo": "Según la tradición local Marco Polo nació en Korčula. En el centro hay una casa que la tradición señala como la suya.",
+        "come": "En el centro histórico, con escalones empinados.",
+        "quando": "Por la mañana.",
+        "tempo": "30 minutos",
+        "lat": 42.96193,
+        "lng": 17.1365,
+        "consiglio": "El nacimiento en Korčula es una tradición, no un hecho documentado."
+      },
+      {
+        "nome": "Museo Municipal de Korčula",
+        "testo": "En el palacio renacentista Gabriellis, frente a la catedral, cuenta la historia de la ciudad: la cantería, los astilleros, las casas de los mercaderes. En el piso alto se ha reconstruido una cocina tradicional.",
+        "come": "En la plaza de San Marcos, junto a la catedral.",
+        "quando": "En las horas de calor o en un día de viento.",
+        "tempo": "45 minutos",
+        "lat": 42.96154,
+        "lng": 17.13582
+      },
+      {
+        "nome": "Lumbarda y la playa de Pržina",
+        "testo": "El pueblo a pocos kilómetros de la ciudad donde se produce el grk, un blanco que solo crece aquí en suelos arenosos. Tiene pequeñas bodegas que visitar y playas de arena, raras en Dalmacia: Pržina es la más conocida.",
+        "come": "Unos 15 minutos en coche o en autobús desde la ciudad; en verano también en taxi-barco o en bici.",
+        "quando": "Por la tarde para la playa, a última hora para una cata.",
+        "tempo": "media jornada",
+        "lat": 42.91791,
+        "lng": 17.18679,
+        "consiglio": "Reservar las catas de grk, sobre todo en temporada alta."
+      },
+      {
+        "nome": "Isla de Badija",
+        "testo": "El islote boscoso frente a Korčula, con un monasterio franciscano del siglo XV y gamos sueltos entre los pinos. Tiene pequeñas playas y se recorre a pie en una hora.",
+        "come": "Taxi-barco desde el puerto de Korčula en verano, pocos minutos.",
+        "quando": "Por la mañana o por la tarde en verano, con el mar en calma.",
+        "tempo": "media jornada",
+        "lat": 42.9556,
+        "lng": 17.1611,
+        "consiglio": "No dar de comer a los gamos: se acercan mucho a la gente."
+      },
+      {
+        "nome": "Península de Pelješac",
+        "testo": "La larga península de enfrente, con pequeños productores de Plavac mali. Desde Orebić se llega a Korčula con una corta travesía en ferry.",
+        "come": "En coche, visitando las bodegas de Dingač y Potomje.",
+        "quando": "Primavera y otoño.",
+        "tempo": "media jornada",
+        "lat": 42.925,
+        "lng": 17.40361,
+        "consiglio": "Reservar las catas, sobre todo en temporada alta."
+      },
+      {
+        "nome": "Vela Luka y la cueva de Vela Spila",
+        "testo": "En el extremo oeste de la isla, sobre el puerto de Vela Luka, hay una gran cueva habitada durante miles de años desde la prehistoria, con una abertura en la bóveda por la que entra la luz. Dentro se han encontrado algunos de los objetos de cerámica más antiguos de Europa.",
+        "come": "En coche o en autobús desde Korčula ciudad, alrededor de una hora atravesando la isla; desde el pueblo se sube a pie.",
+        "quando": "Por la mañana, combinada con la vuelta por los pueblos del interior.",
+        "tempo": "media jornada con el viaje",
+        "lat": 42.96973,
+        "lng": 16.71836
       }
     ],
     programmi: [
       {
-        titolo: "1 día",
-        tappe: [
-          "Casco antiguo por la mañana",
-          "Comida junto al mar",
-          "Playa de Lumbarda o paseo en barca",
-          "Moreška por la noche, si hay función"
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: casco antiguo desde la Puerta de Tierra Firme, catedral y campanario.",
+          "Casa de Marco Polo y museo municipal.",
+          "Tarde: playa de Lumbarda o taxi-barco a Badija.",
+          "Noche: moreška si está programada, luego atardecer desde la torre Revelin."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba.",
+          "Día 2: ferry a Orebić y bodegas de Plavac mali en Pelješac, o la vuelta a la isla hasta Vela Luka.",
+          "Noche: cata de grk en Lumbarda."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba.",
+          "Día 3: catamarán de temporada a Mljet y su parque nacional, o salida hacia Dubrovnik con parada en Ston."
         ]
       }
     ],
     zone: [
       {
-        nome: "Casco antiguo",
-        perChi: "para el ambiente",
-        testo: "Habitaciones en el centro histórico; música y paseo por la noche, pero se duerme bien."
+        "nome": "Casco antiguo",
+        "perChi": "para el ambiente",
+        "testo": "Habitaciones en el centro histórico; música y paseo por la noche, pero se duerme bien.",
+        "fascia": "90-160 €"
       },
       {
-        nome: "Lumbarda",
-        perChi: "para playas",
-        testo: "Pueblo con playas de arena y viñedos, a pocos kilómetros de la ciudad."
+        "nome": "Lumbarda",
+        "perChi": "para playas",
+        "testo": "Pueblo con playas de arena y viñedos, a pocos kilómetros de la ciudad.",
+        "fascia": "90-160 €"
       }
     ],
     sapori: [
@@ -1133,6 +1555,48 @@ export const destinazioniCroazia: Destinazione[] = [
       "Con viento de bora las conexiones pueden cancelarse.",
       "En los restaurantes del muelle comprobar el precio del pescado al peso."
     ],
+    gite: [
+      {
+        "nome": "Orebić",
+        "distanza": "una breve travesía en ferry",
+        "come": "Ferry de coches y pasajeros de Korčula a Orebić, en la península de Pelješac.",
+        "testo": "El pueblo de los capitanes de mar, con las villas de los marinos, el monasterio franciscano en la colina y la vista sobre Korčula. De aquí salen las carreteras hacia las bodegas de Dingač y Potomje."
+      },
+      {
+        "nome": "Ston",
+        "distanza": "alrededor de 1 hora en coche desde Orebić",
+        "come": "Ferry a Orebić y luego en coche por la península de Pelješac.",
+        "testo": "Las murallas defensivas más largas de Europa, más de cinco kilómetros por la colina, las salinas aún en uso y las ostras de Mali Ston para comer crudas."
+      },
+      {
+        "nome": "Parque Nacional de Mljet",
+        "distanza": "en catamarán de temporada",
+        "come": "Catamaranes en verano de Korčula a Pomena o Polače; comprobar horarios y días.",
+        "testo": "La isla verde con los dos lagos salados, Veliko y Malo jezero, y el islote con el monasterio benedictino en medio del lago grande. Se recorre en bici o en barca."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Korčula en el día o conviene dormir allí?",
+        "risposta": "Conviene al menos una noche: el casco antiguo da lo mejor por la noche, cuando se van los barcos de las excursiones y hay moreška."
+      },
+      {
+        "domanda": "¿Cómo se llega a Korčula?",
+        "risposta": "En catamarán desde Split, Hvar (alrededor de hora y media) o Dubrovnik (unas dos horas), o en coche con el ferry desde Orebić. En verano los catamaranes se reservan pronto."
+      },
+      {
+        "domanda": "¿Nació de verdad Marco Polo en Korčula?",
+        "risposta": "Es una tradición local, no un hecho documentado. La casa que lleva su nombre es un pequeño museo sobre sus viajes y el vínculo con la isla."
+      },
+      {
+        "domanda": "¿Cuándo se puede ver la moreška?",
+        "risposta": "Normalmente lunes y jueves por la noche en julio y agosto, con entrada en torno a 20 €. Las fechas se consultan en la web turística de Korčula."
+      },
+      {
+        "domanda": "¿Dónde bañarse en Korčula?",
+        "risposta": "En Lumbarda, con playas de arena como Pržina, o en la isla de Badija en taxi-barco. En la ciudad hay rocas y pequeños muelles acondicionados."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La ciudad vieja de Korčula en la península fortificada',
@@ -1146,6 +1610,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città fortificata', 'mare', 'isole'],
     giorniConsigliati: '3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Dubrovnik fue la última parada del viaje por Croacia con los amigos: tres noches, con las murallas la primera tarde, el Stradun temprano por la mañana, el barco a Lokrum, el teleférico al Srđ al atardecer y un día en Ston.",
     introduzione:
       'La antigua república de Ragusa, cerrada por dos kilómetros de murallas sobre el mar, con el Stradun, los palacios y los monasterios. Enfrente está la isla de Lokrum; al norte, Ston con sus murallas de más de cinco kilómetros y las ostras de Mali Ston.',
     percheAndarci: 'Por el recorrido de las murallas, la ciudad vieja, Lokrum y las excursiones a Ston, las Elafiti y la bahía de Kotor.',

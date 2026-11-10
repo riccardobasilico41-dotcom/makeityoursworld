@@ -28,15 +28,17 @@ export const destinazioniSvizzera: Destinazione[] = [
       "En las orillas de los dos lagos, a pocos minutos del centro, hay varios campings preparados para furgonetas: es la zona de la guía con más lugares legales para dormir.",
     doveMangiare:
       "Rösti, fondue y raclette con los quesos de alpe locales son la base de la cocina de la región. Una comida sencilla en un restaurante de gama media rara vez cuesta menos de 25-30 CHF por persona.",
-    comeArrivare: "Salida de autopista directa desde Berna (aproximadamente una hora) o desde el Valais por Grimsel-Furka.",
+    comeArrivare: "Salida de autopista directa desde Berna (aproximadamente una hora) o desde el Valais por Grimsel-Furka. Sin coche se suele aterrizar en Zúrich: desde la estación bajo la terminal el tren SBB llega a Interlaken Ost en unas 2 horas, con transbordo en Berna y salidas cada media hora; el billete completo en segunda clase cuesta unos 75-80 CHF (unos 80-86 €), mucho menos con las tarifas Supersaver de la app SBB. Desde Ginebra se tarda unas 3 horas. Interlaken tiene dos estaciones: West para el centro y el lago de Thun, Ost para el lago de Brienz y los trenes a Lauterbrunnen y Grindelwald.",
     comeSpostarsi: "A pie en el centro; la furgoneta sirve para llegar a las demás zonas, todas a 20-30 minutos de conducción.",
     periodoMigliore: "de junio a septiembre, con julio-agosto más cálido y concurrido.",
-    costi: "Campings 35-50 CHF/noche; paseo en barco desde unos 20-30 CHF por tramo sencillo.",
+    costi: "Campings 35-50 CHF/noche; paseo en barco desde unos 20-30 CHF por tramo sencillo. Presupuesto diario por persona: bajo 100-140 € (camping o albergue, compra en Coop o Migros, una subida en funicular), medio 220-320 € (hotel de gama media en doble, un restaurante, un teleférico), alto desde 450 €.",
     erroriDaEvitare: [
       "Llegar sin haber reservado, o al menos localizado, un camping para la primera noche",
       "Hacer la compra en los minimercados de los valles, mucho más caros, en lugar de en los supermercados de Interlaken",
       "Subestimar cuánto tiempo llevan las otras zonas: Interlaken es la base, no el destino principal del viaje",
     ],
+    miaEsperienza:
+      "Interlaken fue la base de salida de nuestro viaje en furgoneta con amigos por los Alpes berneses: desde aquí subimos a Lauterbrunnen, Grindelwald y la Jungfrau, antes de los puertos hacia Zermatt.",
     luoghi: [
       {
         nome: "Harder Kulm",
@@ -44,7 +46,23 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Funicular desde la estación Harder Bahn, cerca de Interlaken Ost: unos 10 minutos de subida.",
         quando: "Final de la tarde por la luz sobre los lagos. Solo funciona en temporada: fechas en la web oficial.",
         tempo: "2 horas",
+        costo: "Billetes desde 22 CHF (unos 24 €) en la web oficial, tarifa más baja de la temporada 2026.",
+        orari: "De temporada, cerrado en invierno; en temporada funciona a diario, también por la tarde para el atardecer.",
+        lat: 46.69968,
+        lng: 7.85614,
+        url: "https://www.jungfrau.ch/en-gb/harder-kulm/",
         consiglio: "Mirar las webcams antes de subir: con nubes bajas la vista desaparece."
+      },
+      {
+        nome: "Höheweg y Höhematte",
+        testo: "La avenida principal de Interlaken bordea el Höhematte, un gran prado sin edificar donde aterrizan los parapentes. Desde aquí se ve la Jungfrau al fondo, entre hoteles de la Belle Époque. Es el sitio para un paseo al atardecer sin gastar nada.",
+        come: "A pie, 10 minutos desde Interlaken Ost o Interlaken West.",
+        quando: "Al atardecer, cuando la Jungfrau se ilumina.",
+        tempo: "1 hora",
+        costo: "Gratis.",
+        orari: "Siempre accesible.",
+        lat: 46.68773,
+        lng: 7.86085
       },
       {
         nome: "Lago de Brienz y cascadas de Giessbach",
@@ -52,6 +70,9 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Barco desde Interlaken Ost o Brienz hasta el muelle, luego el funicular histórico de Giessbach.",
         quando: "Por la mañana, en primavera cuando las cascadas van llenas.",
         tempo: "media jornada",
+        lat: 46.73355,
+        lng: 8.02382,
+        url: "https://www.giessbach.ch/en/",
         consiglio: "El corto paseo por el bosque del muelle a las cascadas es agradable."
       },
       {
@@ -60,6 +81,10 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Barco o tren desde Interlaken West; el barco es mucho más lento que el tren.",
         quando: "Verano.",
         tempo: "media jornada",
+        costo: "Barco unos 20-30 CHF (unos 21-32 €) por trayecto; incluido en el Swiss Travel Pass.",
+        lat: 46.70559,
+        lng: 7.69144,
+        url: "https://www.bls.ch/en",
         consiglio: "Tomar el barco hasta Thun y volver en tren, para ver el lago y ahorrar tiempo."
       },
       {
@@ -69,7 +94,101 @@ export const destinazioniSvizzera: Destinazione[] = [
         quando: "A primera hora, antes de los grupos.",
         tempo: "1-2 horas",
         costo: "Embarcadero de pago, 5 CHF, con torniquete (desde 2023).",
+        orari: "Embarcadero accesible todo el día.",
+        lat: 46.71046,
+        lng: 7.96346,
         consiglio: "El muelle se ve mejor al amanecer."
+      },
+      {
+        nome: "Schynige Platte",
+        testo: "Un mirador a 1.967 metros al que sube un tren cremallera histórico con vagones de madera. Arriba hay un jardín botánico alpino, una plataforma panorámica y vistas del Eiger, el Mönch y la Jungfrau por un lado y del lago de Thun por el otro. De aquí sale la travesía a pie hasta First.",
+        come: "Tren cremallera desde Wilderswil, a 5 minutos en tren de Interlaken Ost.",
+        quando: "Una mañana despejada; el jardín luce más en julio.",
+        tempo: "media jornada",
+        costo: "68 CHF (unos 73 €) ida y vuelta.",
+        orari: "De mediados de junio a finales de octubre.",
+        lat: 46.65226,
+        lng: 7.91117,
+        url: "https://www.jungfrau.ch/en-gb/schynige-platte/"
+      },
+      {
+        nome: "Thun y su castillo",
+        testo: "La ciudad al final del lago tiene un centro medieval con las aceras elevadas de la Obere Hauptgasse y el Aare corriendo rápido bajo puentes cubiertos. Arriba está el castillo de cuatro torres, uno de los conjuntos fortificados más antiguos de Europa, hoy museo con vistas a la ciudad y a los Alpes.",
+        come: "Tren desde Interlaken West, unos 30 minutos, o barco por el lago.",
+        quando: "El sábado por la mañana hay mercado en el centro.",
+        tempo: "media jornada",
+        orari: "Castillo cerrado de noviembre a enero.",
+        lat: 46.75992,
+        lng: 7.62972,
+        url: "https://schlossthun.ch/en/"
+      },
+      {
+        nome: "Castillo de Oberhofen",
+        testo: "Un castillo con un torreón que entra en el agua del lago de Thun, rodeado de un parque con árboles centenarios junto al lago. Dentro hay salas amuebladas desde la Edad Media hasta el siglo XIX. Es la parada más fotogénica del paseo en barco.",
+        come: "Barco desde Interlaken West o Thun, o autobús desde Thun.",
+        quando: "Verano, a última hora de la tarde por la luz sobre el lago.",
+        tempo: "1-2 horas",
+        lat: 46.72968,
+        lng: 7.66857,
+        url: "https://www.schlossoberhofen.ch/"
+      },
+      {
+        nome: "Spiez y su castillo",
+        testo: "El castillo de Spiez se alza en un promontorio sobre una bahía con un pequeño puerto y viñedos en pendiente. Se visitan las salas y la torre, y luego se baja al lago a pie entre las viñas.",
+        come: "Tren desde Interlaken West, unos 20 minutos, o barco.",
+        quando: "De mayo a octubre, cuando el castillo abre.",
+        tempo: "2 horas",
+        orari: "Del 1 de mayo al 31 de octubre: lunes 14-17, de martes a domingo 10-17; julio y agosto todos los días hasta las 18. Cerrado del 1 de noviembre de 2026 al 30 de abril de 2027.",
+        lat: 46.68938,
+        lng: 7.68747,
+        url: "https://www.schloss-spiez.ch/en/"
+      },
+      {
+        nome: "Cuevas de San Beato (St. Beatus-Höhlen)",
+        testo: "Cuevas kársticas con estalactitas, lagunas y cascadas interiores, que se recorren por un sendero iluminado de cerca de un kilómetro. En la entrada hay un pequeño museo de las cuevas. Dentro la temperatura se mantiene entre 8 y 10 grados todo el año.",
+        come: "Autobús 21 de Interlaken hacia Thun, parada Beatushöhlen, o barco por el lago de Thun.",
+        quando: "Los días de lluvia, cuando las cumbres están tapadas.",
+        tempo: "1 hora y media",
+        costo: "Adultos 20 CHF (unos 21 €), niños de 6 a 16 años 12 CHF.",
+        orari: "Abiertas todo el año.",
+        lat: 46.68467,
+        lng: 7.78231,
+        url: "https://www.beatushoehlen.swiss/en/",
+        consiglio: "Hace falta chaqueta incluso en agosto."
+      },
+      {
+        nome: "Brienz y el tren del Rothorn",
+        testo: "Brienz es el pueblo de los tallistas de madera, con casas de madera oscura junto al lago. Desde la estación sale el tren cremallera de vapor del Brienzer Rothorn, que sube a 2.244 metros con vistas al lago y a los Alpes berneses.",
+        come: "Tren o barco desde Interlaken Ost hasta Brienz; el cremallera sale frente a la estación.",
+        quando: "Desde junio, cuando los trenes llegan a la cima.",
+        tempo: "media jornada",
+        orari: "Temporada 2027 desde el 8 de mayo hasta la estación intermedia de Planalp; desde el 5 de junio ocho trenes al día hasta la cima. Sin servicio en invierno.",
+        lat: 46.75508,
+        lng: 8.03889,
+        url: "https://brienz-rothorn-bahn.ch/en/"
+      },
+      {
+        nome: "Museo al aire libre de Ballenberg",
+        testo: "Más de cien casas rurales desmontadas en toda Suiza y reconstruidas en un gran parque en el bosque, con animales de granja, huertos y artesanos trabajando. En un día cuenta cómo se vivía en cada cantón.",
+        come: "Tren a Brienz y luego autobús hasta una de las dos entradas.",
+        quando: "De abril a octubre; con niños es la mejor excursión.",
+        tempo: "una jornada",
+        orari: "Cerrado en invierno; reabre a diario desde el 15 de abril de 2027.",
+        lat: 46.7487,
+        lng: 8.0804,
+        url: "https://www.ballenberg.ch/en/",
+        consiglio: "El parque es grande: conviene elegir antes las zonas que se quieren ver."
+      },
+      {
+        nome: "Unterseen, el casco antiguo",
+        testo: "Al otro lado del Aare, a cinco minutos del centro, Unterseen conserva la plaza del Stadthaus, la iglesia con su campanario medieval y casas de madera del siglo XVII. Es la parte más tranquila y antigua de Interlaken.",
+        come: "A pie desde Interlaken West cruzando el puente sobre el Aare.",
+        quando: "Por la mañana o al atardecer, para un paseo corto.",
+        tempo: "45 minutos",
+        costo: "Gratis.",
+        orari: "Siempre accesible.",
+        lat: 46.68692,
+        lng: 7.8494
       }
     ],
     programmi: [
@@ -77,29 +196,51 @@ export const destinazioniSvizzera: Destinazione[] = [
         titolo: "1 día",
         tappe: [
           "Harder Kulm por la mañana",
-          "Barco por el lago de Brienz",
-          "Giessbach por la tarde",
-          "Cena en Interlaken"
+          "Barco por el lago de Brienz hasta Giessbach",
+          "Parada en Iseltwald a la vuelta",
+          "Atardecer en el Höhematte y cena en Interlaken"
         ]
       },
       {
         titolo: "2 días",
         tappe: [
-          "Día 1: Harder Kulm y lago de Thun",
-          "Día 2: lago de Brienz, Giessbach e Iseltwald"
+          "Día 1: Harder Kulm, lago de Brienz, Giessbach e Iseltwald",
+          "Día 2: lago de Thun en barco con paradas en Oberhofen y Spiez, vuelta en tren; tarde en Unterseen"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Harder Kulm, Höheweg y Unterseen",
+          "Día 2: Schynige Platte por la mañana, tarde en el lago de Brienz con Giessbach e Iseltwald",
+          "Día 3: lago de Thun con el castillo de Thun y Oberhofen, o Brienz con el Rothorn o el Ballenberg; si llueve, las cuevas de San Beato"
         ]
       }
     ],
     zone: [
       {
         nome: "Interlaken",
+        testo: "Trenes a todos los valles. Precios altos y centro muy turístico, pero cómodo sin coche.",
         perChi: "para una base cómoda",
-        testo: "Trenes a todos los valles. Precios altos y centro muy turístico, pero cómodo sin coche."
+        fascia: "150-300 €"
       },
       {
         nome: "Brienz e Iseltwald",
+        testo: "En el lago de Brienz, con menos gente; los destinos de los valles requieren coche o tren.",
         perChi: "para el silencio",
-        testo: "En el lago de Brienz, con menos gente; los destinos de los valles requieren coche o tren."
+        fascia: "130-260 €"
+      },
+      {
+        nome: "Thun y Spiez",
+        testo: "En el lago de Thun, con casco antiguo, restaurantes y trenes directos a Berna e Interlaken. Los valles de la Jungfrau quedan a 45-60 minutos.",
+        perChi: "quien quiere una ciudad de verdad y precios algo más bajos",
+        fascia: "120-240 €"
+      },
+      {
+        nome: "Campings en los dos lagos",
+        testo: "Entre Unterseen, Bönigen y las orillas de los lagos hay varios campings a pocos minutos del centro, la opción más barata de la zona. En temporada baja los campings TCS tienen ofertas desde unos 25 CHF la noche para dos.",
+        perChi: "quien viaja en furgoneta o con tienda",
+        fascia: "parcela 35-50 CHF (unos 37-53 €)"
       }
     ],
     sapori: [
@@ -120,6 +261,58 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Los precios son muy altos: comer en los supermercados Coop y Migros reduce el gasto.",
       "Los billetes de barco están incluidos en el Swiss Travel Pass: comprobarlo antes de pagar.",
       "Para conducir hace falta la viñeta de autopista, que se compra en la frontera o en línea."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Interlaken?",
+        risposta: "Dos días bastan para los dos lagos y el Harder Kulm. Con tres o cuatro días Interlaken se convierte en la base para Lauterbrunnen, Grindelwald y el Jungfraujoch."
+      },
+      {
+        domanda: "¿Mejor dormir en Interlaken, Grindelwald o Lauterbrunnen?",
+        risposta: "Interlaken es la más cómoda sin coche, con trenes a todos los valles y más oferta de alojamiento. Grindelwald y Lauterbrunnen son más bonitos por la noche, pero cuestan más y alargan los trayectos a los lagos."
+      },
+      {
+        domanda: "¿Compensa el Jungfrau Travel Pass?",
+        risposta: "Cuesta desde 165 CHF (unos 177 €) por 3 días, barcos incluidos. Compensa si se suben al menos dos o tres remontes, por ejemplo First, Schynige Platte y Harder Kulm; para el Jungfraujoch solo da un descuento."
+      },
+      {
+        domanda: "¿Hay que reservar el Jungfraujoch?",
+        risposta: "No es obligatorio fuera de los días punta del verano, pero en línea sale más barato. La reserva de asiento cuesta 10 CHF y garantiza la franja horaria."
+      },
+      {
+        domanda: "¿Qué se puede hacer en Interlaken en invierno?",
+        risposta: "Mucho cierra hasta la primavera: el castillo de Spiez, el Ballenberg y el tren del Rothorn. Las cuevas de San Beato abren todo el año y los trenes a los valles de la Jungfrau funcionan también en invierno."
+      },
+      {
+        domanda: "¿Se paga por el embarcadero de Iseltwald?",
+        risposta: "Sí, desde 2023 hay un torniquete con entrada de 5 CHF."
+      }
+    ],
+    gite: [
+      {
+        nome: "Berna",
+        distanza: "cerca de 1 hora en tren",
+        come: "Tren directo o con un transbordo desde Interlaken Ost o West, varios por hora.",
+        testo: "La capital tiene un centro medieval Patrimonio de la UNESCO con seis kilómetros de soportales, la Zytglogge y el foso de los osos junto al Aare. Se recorre a pie en un día."
+      },
+      {
+        nome: "Lucerna",
+        distanza: "cerca de 2 horas en tren",
+        come: "Tren panorámico Luzern-Interlaken Express desde Interlaken Ost, por el paso del Brünig.",
+        testo: "El puente de la Capilla de madera, el paseo del lago y el León moribundo. El viaje en tren, entre lagos y por el Brünig, ya justifica la excursión."
+      },
+      {
+        nome: "Garganta del Aare (Aareschlucht)",
+        distanza: "cerca de 35 minutos en tren",
+        come: "Tren directo de Interlaken Ost a Meiringen y luego a pie o en trenecito hasta la entrada.",
+        testo: "Una garganta de 1,4 km entre paredes de roca de hasta 200 metros, recorrida por pasarelas sobre el río. Se combina con Meiringen, el pueblo de los merengues y de Sherlock Holmes."
+      },
+      {
+        nome: "Oeschinensee (Kandersteg)",
+        distanza: "cerca de 1 hora en tren",
+        come: "Tren a Kandersteg con transbordo en Spiez, luego telecabina y 20 minutos a pie.",
+        testo: "Un lago turquesa cerrado por paredes de roca verticales, de los más bonitos de los Alpes berneses. En verano se camina por el sendero alto que lo rodea."
+      }
     ],
     esperienzeSlugs: ['giro-battello-laghi-thun-brienz'],
     tripSlugs: ['svizzera-alpi-van'],
@@ -151,15 +344,17 @@ export const destinazioniSvizzera: Destinazione[] = [
     doveDormire:
       "Campings equipados en el fondo del valle. **En este valle la acampada libre está prohibida**, con multas de hasta 200 CHF, y la prohibición se hace respetar.",
     doveMangiare: "Restaurantes del fondo del valle con cocina suizo-alemana de montaña; precios en la media alta de la región.",
-    comeArrivare: "Desde Interlaken, 20 minutos en coche o en tren.",
+    comeArrivare: "Desde Interlaken, 20 minutos en coche o en tren. El tren BOB sale de Interlaken Ost varias veces por hora y tarda unos 20 minutos; desde la estación de Lauterbrunnen salen el cremallera a Wengen y el teleférico a Grütschalp y Mürren, y el autobús postal sube por el valle hasta Stechelberg con parada en las cascadas del Trümmelbach. Desde el aeropuerto de Zúrich se tarda unas 2 horas y media con transbordos en Berna e Interlaken.",
     comeSpostarsi: "El fondo del valle a pie o en bici; para Mürren, Wengen y Gimmelwald hacen falta teleférico o cremallera, porque el coche no llega.",
     periodoMigliore: "de junio a septiembre, con las cascadas más caudalosas a principios de verano por el deshielo.",
-    costi: "Trümmelbachfälle 18 CHF entrada adultos, 8 CHF niños de 6 a 15 años.",
+    costi: "Trümmelbachfälle 18 CHF entrada adultos, 8 CHF niños de 6 a 15 años. Presupuesto diario por persona: bajo 100-140 € (camping, compra en el supermercado, cascadas y senderos gratis), medio 220-320 € (hotel en doble, restaurante, un teleférico), alto desde 450 € con el Schilthorn o el Jungfraujoch.",
     erroriDaEvitare: [
       "Montar mesa y sillas fuera de la furgoneta en un aparcamiento no autorizado: la policía local controla precisamente eso, incluso donde dormir dentro del vehículo se tolera",
       "Llegar a las Trümmelbachfälle sin saber que están cerradas de principios de noviembre a principios de abril",
       "No prever calzado de lluvia: las galerías de las cascadas son húmedas y resbaladizas",
     ],
+    miaEsperienza:
+      "El valle de Lauterbrunnen fue una de las etapas de nuestro viaje en furgoneta con amigos, justo después de Interlaken.",
     luoghi: [
       {
         nome: "Cascada de Staubbach",
@@ -167,6 +362,10 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "A pie desde la estación de Lauterbrunnen, pocos minutos; se contempla desde el pueblo.",
         quando: "Por la mañana, cuando el sol entra en el valle. Primavera para el caudal máximo.",
         tempo: "45 minutos",
+        costo: "Gratis.",
+        orari: "Visible desde el pueblo a cualquier hora.",
+        lat: 46.58978,
+        lng: 7.90543,
         consiglio: "Llevar chaqueta impermeable: el viento trae las salpicaduras."
       },
       {
@@ -175,6 +374,10 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "En autobús postal desde Lauterbrunnen hacia Stechelberg, o a pie por el valle.",
         quando: "Abiertas más o menos de principios de abril a principios de noviembre, de 9 a 17 (julio y agosto 8.30-18).",
         tempo: "1-1 hora y media",
+        costo: "Adultos 18 CHF (unos 19 €), niños de 6 a 15 años 8 CHF; sin tarifas de grupo.",
+        orari: "De principios de abril a principios de noviembre, todos los días 9-17; julio y agosto 8.30-18. Cerradas en invierno.",
+        lat: 46.57001,
+        lng: 7.91321,
         url: "https://www.truemmelbachfaelle.ch/",
         consiglio: "Llevar zapatos con suela adherente: las pasarelas están mojadas."
       },
@@ -184,6 +387,9 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Tren de cremallera desde Lauterbrunnen.",
         quando: "Todo el año.",
         tempo: "2 horas",
+        orari: "Trenes desde Lauterbrunnen todo el año, unos 11 minutos.",
+        lat: 46.60544,
+        lng: 7.92172,
         consiglio: "Salir de aquí para la caminata a Männlichen, con vistas al grupo del Eiger."
       },
       {
@@ -193,30 +399,99 @@ export const destinazioniSvizzera: Destinazione[] = [
         quando: "De mayo a octubre; tras días de lluvia las cascadas llevan más agua.",
         tempo: "2-3 horas a pie",
         costo: "Gratis.",
+        orari: "Sendero siempre accesible.",
+        lat: 46.54502,
+        lng: 7.9022,
         consiglio: "Ir a pie y volver en autobús: el sendero sube suavemente hacia Stechelberg."
+      },
+      {
+        nome: "Cascada del Mürrenbach",
+        testo: "Una de las cascadas más altas de Suiza, unos 417 metros en varios saltos, que cae desde la terraza de Mürren hacia Stechelberg. Desde el fondo del valle se ve entera; la vía ferrata Mürren-Gimmelwald la cruza con un puente colgante.",
+        come: "Desde el sendero del valle cerca de Stechelberg, a pie o en autobús postal hasta la Schilthornbahn.",
+        quando: "De mayo a julio, con el deshielo.",
+        tempo: "30 minutos de parada",
+        costo: "Gratis.",
+        orari: "Siempre visible.",
+        lat: 46.55542,
+        lng: 7.89666
+      },
+      {
+        nome: "Grütschalp y el sendero a Mürren",
+        testo: "Un teleférico sube de Lauterbrunnen a Grütschalp, desde donde un trenecito corre en llano hasta Mürren. El sendero junto a las vías es uno de los paseos más panorámicos del valle: todo el camino se tienen delante el Eiger, el Mönch y la Jungfrau.",
+        come: "Teleférico desde la estación de Lauterbrunnen, frente a los andenes del BOB; luego a pie o en tren hasta Mürren.",
+        quando: "De junio a octubre, por la mañana.",
+        tempo: "1 hora y media a pie",
+        lat: 46.59656,
+        lng: 7.89071,
+        consiglio: "Subir en teleférico, caminar hasta Mürren y bajar por Gimmelwald y Stechelberg para hacer una vuelta."
+      },
+      {
+        nome: "Isenfluh y Sulwald",
+        testo: "Un pueblecito en una terraza sobre la entrada del valle, con un pequeño teleférico que sube a Sulwald. Desde allí se baja en patinete o se camina hacia la Lobhornhütte, con mucha menos gente que en Mürren.",
+        come: "Carretera estrecha desde Lauterbrunnen o autobús postal, luego el teleférico Isenfluh-Sulwald.",
+        quando: "Verano y principios de otoño.",
+        tempo: "media jornada",
+        orari: "Teleférico en servicio todo el año salvo la revisión (2-6 de noviembre de 2026); patinetes hasta el 1 de noviembre de 2026.",
+        lat: 46.62011,
+        lng: 7.89617,
+        url: "https://isenfluh.ch/"
+      },
+      {
+        nome: "Obersteinberg y el valle alto",
+        testo: "Pasado Stechelberg el valle se convierte en reserva natural, sin carreteras, cerrada por los glaciares del Breithorn y el Tschingelhorn. El sendero sube hasta una vieja posada de montaña, en Obersteinberg, con vistas a las cascadas que bajan de los glaciares.",
+        come: "A pie desde Stechelberg, final de línea del autobús postal.",
+        quando: "De junio a septiembre.",
+        tempo: "una jornada, unas 5-6 horas ida y vuelta",
+        costo: "Gratis.",
+        lat: 46.51854,
+        lng: 7.88542,
+        consiglio: "Para excursionistas en forma: el desnivel supera los 800 metros."
       }
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Staubbach a la apertura",
-          "Cascadas de Trümmelbach",
-          "Tren de cremallera a Wengen",
-          "Caminata panorámica y regreso"
+          "Staubbach por la mañana",
+          "Paseo por el valle hasta el Trümmelbach",
+          "Cascada del Mürrenbach y autobús de vuelta",
+          "Tarde en Wengen en cremallera"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: Staubbach, Trümmelbach y paseo por el valle hasta Stechelberg",
+          "Día 2: teleférico a Grütschalp, sendero hasta Mürren, bajada por Gimmelwald; tarde en Wengen"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Staubbach, Trümmelbach y Mürrenbach",
+          "Día 2: Grütschalp, Mürren y el Schilthorn",
+          "Día 3: Wengen y Kleine Scheidegg, o la excursión a Obersteinberg; con tiempo dudoso, Isenfluh y Sulwald"
         ]
       }
     ],
     zone: [
       {
         nome: "Lauterbrunnen",
+        testo: "Campings y alojamientos en el fondo del valle, casi sin coches de noche; más frío y poca vida nocturna.",
         perChi: "para estar en el valle",
-        testo: "Campings y alojamientos en el fondo del valle, casi sin coches de noche; más frío y poca vida nocturna."
+        fascia: "120-260 €"
       },
       {
         nome: "Wengen y Mürren",
+        testo: "Sin coches, con vistas desde arriba, pero hay que llegar en cremallera o teleférico con el equipaje.",
         perChi: "para pueblos de la meseta",
-        testo: "Sin coches, con vistas desde arriba, pero hay que llegar en cremallera o teleférico con el equipaje."
+        fascia: "160-320 €"
+      },
+      {
+        nome: "Interlaken",
+        testo: "A 20 minutos en tren, con mucho más alojamiento y restaurantes. Se pierde el valle por la noche, pero se gana en conexiones con los lagos y Grindelwald.",
+        perChi: "quien quiere más oferta y precios algo más bajos",
+        fascia: "150-300 €"
       }
     ],
     sapori: [
@@ -236,6 +511,48 @@ export const destinazioniSvizzera: Destinazione[] = [
     attenzioni: [
       "Las vacas pastan en los senderos: no acercarse a las madres con terneros.",
       "El tiempo cambia rápido: niebla y lluvia pueden ocultar las cascadas altas."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Lauterbrunnen?",
+        risposta: "Un día para las cascadas del fondo del valle y Wengen. Con dos o tres días se añaden Mürren, el Schilthorn y una excursión de verdad como Obersteinberg."
+      },
+      {
+        domanda: "¿Se puede dormir en furgoneta en el valle de Lauterbrunnen?",
+        risposta: "No: la acampada libre y la pernocta fuera de las áreas autorizadas están prohibidas, con multas de hasta 200 CHF. Se duerme en los campings del valle."
+      },
+      {
+        domanda: "¿Las cascadas del Trümmelbach abren en invierno?",
+        risposta: "No, abren de principios de abril a principios de noviembre. El Staubbach se ve todo el año, aunque en invierno lleva poca agua."
+      },
+      {
+        domanda: "¿Cuándo están más bonitas las cascadas?",
+        risposta: "Entre mayo y julio, con el deshielo, y después de unos días de lluvia. A finales de verano el caudal baja."
+      },
+      {
+        domanda: "¿Hace falta coche en Lauterbrunnen?",
+        risposta: "No. El fondo del valle se recorre a pie y en autobús postal, y a Wengen y Mürren solo se llega en tren o teleférico porque no admiten coches."
+      }
+    ],
+    gite: [
+      {
+        nome: "Mürren y el Schilthorn",
+        distanza: "unos 20 minutos entre teleférico y tren",
+        come: "Teleférico a Grütschalp y tren hasta Mürren; para el Schilthorn, teleférico desde Mürren o Stechelberg.",
+        testo: "El pueblo sin coches con la vista más abierta de la Jungfrau y, arriba, el Piz Gloria a 2.970 metros con su restaurante giratorio."
+      },
+      {
+        nome: "Kleine Scheidegg y Jungfraujoch",
+        distanza: "unos 45 minutos hasta la Kleine Scheidegg",
+        come: "Cremallera desde Lauterbrunnen por Wengen; desde allí el tren de la Jungfrau sigue hasta la cima.",
+        testo: "La subida clásica a la Jungfrau desde el lado de Lauterbrunnen. Aunque sea solo hasta la Kleine Scheidegg, es un día de vistas y senderos fáciles."
+      },
+      {
+        nome: "Interlaken y los lagos",
+        distanza: "unos 20 minutos en tren",
+        come: "Tren BOB directo hasta Interlaken Ost.",
+        testo: "Harder Kulm, barco por el lago de Brienz e Iseltwald: el día adecuado cuando las nubes tapan las cumbres."
+      }
     ],
     esperienzeSlugs: ['trummelbachfalle'],
     tripSlugs: ['svizzera-alpi-van'],
@@ -266,14 +583,16 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     doveDormire: "Campings en la zona, más económicos que los de Interlaken pero con menos oferta.",
     doveMangiare: "Restaurantes de montaña con vista al Eiger, precios alineados con el resto de la región.",
-    comeArrivare: "Desde Interlaken, 20 minutos en coche o en tren.",
+    comeArrivare: "Desde Interlaken, 20 minutos en coche o en tren. El tren BOB directo desde Interlaken Ost tarda unos 35 minutos y para tanto en Grindelwald Terminal (Eiger Express y telecabina del Männlichen) como en la estación del pueblo, a pocos minutos del teleférico de First. Desde el aeropuerto de Zúrich se llega en unas 2 horas y media-3 horas con transbordos en Berna e Interlaken. En coche hay un aparcamiento cubierto en el Terminal.",
     comeSpostarsi: "El pueblo se recorre a pie; para el First y el Bachalpsee hace falta el teleférico.",
     periodoMigliore: "de junio a septiembre; el Bachalpsee suele seguir helado hasta bien entrado junio.",
-    costi: "Teleférico First 72-76 CHF i/v según la temporada; Cliff Walk incluido.",
+    costi: "Teleférico First 72-76 CHF i/v según la temporada; Cliff Walk incluido. Presupuesto diario por persona: bajo 110-150 € (albergue o camping, compra en el supermercado, un remonte), medio 230-330 € (hotel de gama media en doble, restaurante, First o Männlichen), alto desde 450 €, Jungfraujoch incluido.",
     erroriDaEvitare: [
       "Subir al First creyendo que el Bachalpsee está «a la vuelta de la esquina»: la caminata requiere 2-3 horas ida y vuelta",
       "Subestimar el viento en la cima, que en el Cliff Walk puede ser fuerte incluso con el cielo despejado en el valle",
     ],
+    miaEsperienza:
+      "Grindelwald y el First fueron una de las etapas de nuestro viaje en furgoneta con amigos por la Jungfrau Region.",
     luoghi: [
       {
         nome: "First y el Cliff Walk",
@@ -281,7 +600,10 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Teleférico desde Grindelwald, unos 25 minutos con paradas en Bort y Schreckfeld. El Cliff Walk está incluido en la entrada.",
         quando: "Por la mañana, con el cielo más despejado. Cierres y horarios varían según la temporada.",
         tempo: "2-3 horas",
-        costo: "Precios en la web oficial; descuentos con Swiss Travel Pass o Half Fare Card.",
+        costo: "72-76 CHF (unos 77-81 €) ida y vuelta según la temporada; Cliff Walk incluido.",
+        lat: 46.66033,
+        lng: 8.05301,
+        url: "https://www.jungfrau.ch/en-gb/grindelwaldfirst/",
         consiglio: "La primera cabina de la mañana tiene menos cola; los glaciares se ven mejor antes del mediodía."
       },
       {
@@ -290,15 +612,22 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "A pie desde la estación de First por el sendero señalizado.",
         quando: "Por la mañana, cuando el agua está quieta y refleja las montañas.",
         tempo: "2 horas ida y vuelta",
+        costo: "Gratis (hace falta el billete del teleférico a First).",
+        orari: "Sendero transitable de junio a octubre, cuando se ha ido la nieve.",
+        lat: 46.66958,
+        lng: 8.02095,
         consiglio: "Llevar una capa de abrigo: sopla viento incluso en julio."
       },
       {
-        nome: "Glaciar inferior (Unterer Gletscher)",
-        testo: "El glaciar que baja al valle sobre Grindelwald, con una profunda garganta excavada por el río. Se llega a pie desde el pueblo.",
-        come: "A pie desde el pueblo o con el teleférico de Pfingstegg.",
-        quando: "Verano.",
-        tempo: "2-3 horas",
-        consiglio: "No pisar el hielo sin guía: hay grietas ocultas."
+        nome: "Eiger Express y Eigergletscher",
+        testo: "La telecabina inaugurada en 2020 sube en unos 15 minutos desde Grindelwald Terminal hasta la estación de Eigergletscher, bajo la cara norte del Eiger. Allí se toma el tren al Jungfraujoch o se baja a pie por el Eiger Trail.",
+        come: "Tren BOB desde Interlaken Ost hasta Grindelwald Terminal, donde también hay aparcamiento cubierto.",
+        quando: "En los primeros viajes de la mañana, antes de que se formen nubes en la pared.",
+        tempo: "15 minutos de subida, luego depende del destino",
+        costo: "Incluida en el billete al Jungfraujoch, que en línea parte de 100,60 CHF (unos 108 €, tarifa más baja).",
+        lat: 46.62448,
+        lng: 8.02028,
+        url: "https://www.jungfrau.ch/en-gb/"
       },
       {
         nome: "Männlichen y el sendero panorámico",
@@ -306,30 +635,123 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Telecabina Männlichen desde Grindelwald Terminal; desde la Kleine Scheidegg se vuelve en tren a Grindelwald o a Wengen.",
         quando: "Verano, por la mañana; horarios y cierres de temporada de la telecabina en la web oficial.",
         tempo: "medio día",
+        orari: "Verano hasta principios de noviembre; cerrada por mantenimiento desde el 6 de noviembre de 2026, reabre el 12 de diciembre de 2026 para el invierno.",
+        lat: 46.61814,
+        lng: 7.93804,
+        url: "https://maennlichen.ch/en/",
         consiglio: "Hacer el sendero en dirección a la Kleine Scheidegg: se camina siempre con las tres cumbres delante."
+      },
+      {
+        nome: "Kleine Scheidegg",
+        testo: "El collado a 2.061 metros entre Grindelwald y Wengen, al pie del Eiger, el Mönch y la Jungfrau. Es el nudo de los trenes cremallera y la llegada del sendero panorámico desde el Männlichen; en verano los prados se llenan de excursionistas.",
+        come: "Tren cremallera WAB desde Grindelwald, unos 30 minutos, o desde Wengen.",
+        quando: "Verano; en invierno queda en medio de las pistas.",
+        tempo: "1-2 horas, más si se camina",
+        lat: 46.58525,
+        lng: 7.96131,
+        consiglio: "Bajar a pie hasta Alpiglen o Wengernalp y tomar allí el tren."
+      },
+      {
+        nome: "Eiger Trail",
+        testo: "El sendero que baja de Eigergletscher a Alpiglen justo bajo la cara norte del Eiger, la pared más famosa de la historia del alpinismo. Se camina sobre pedreras y prados con el valle de Grindelwald a los pies.",
+        come: "Eiger Express hasta Eigergletscher y luego a pie; desde Alpiglen se vuelve a Grindelwald en tren.",
+        quando: "De julio a septiembre, cuando el sendero está libre de nieve.",
+        tempo: "unas 2 horas y media",
+        costo: "El sendero es gratis; se pagan los remontes.",
+        lat: 46.56846,
+        lng: 7.9882,
+        consiglio: "Hacerlo de bajada: de subida cansa mucho más."
+      },
+      {
+        nome: "Glaciar inferior (Unterer Gletscher)",
+        testo: "El glaciar que baja al valle sobre Grindelwald, con una profunda garganta excavada por el río. Se llega a pie desde el pueblo.",
+        come: "A pie desde el pueblo o con el teleférico de Pfingstegg.",
+        quando: "Verano.",
+        tempo: "2-3 horas",
+        orari: "La garganta cierra en invierno; abierta de primavera a otoño.",
+        lat: 46.611,
+        lng: 8.05029,
+        consiglio: "No pisar el hielo sin guía: hay grietas ocultas."
+      },
+      {
+        nome: "Pfingstegg",
+        testo: "Un pequeño teleférico sube desde el pueblo a una terraza a 1.391 metros sobre el glaciar inferior, con tobogán de verano, tirolina y restaurante. Desde aquí salen senderos fáciles hacia el glaciar y la Bäregg.",
+        come: "A pie desde el centro hasta la estación del valle, unos 15 minutos, o autobús hasta la parada Pfingsteggbahn.",
+        quando: "Por la tarde, con niños.",
+        tempo: "2-3 horas",
+        orari: "Temporada de verano 2026 del 25 de abril al 25 de octubre; cerrado en invierno.",
+        lat: 46.61752,
+        lng: 8.05686,
+        url: "https://www.pfingstegg.ch/en/"
+      },
+      {
+        nome: "First Flyer, Glider, Mountain Cart y Trottibike",
+        testo: "Las actividades de bajada de First: una tirolina larga sobre los prados, un ala delta remolcada con forma de águila, carritos de tres ruedas y patinetes de montaña para bajar al valle por pistas de tierra. Se hacen entre las estaciones intermedias del teleférico, Schreckfeld y Bort.",
+        come: "Teleférico de First; billetes en la estación del valle.",
+        quando: "Verano, con tiempo seco.",
+        tempo: "media jornada",
+        costo: "First Adventure Package desde 60 CHF (unos 64 €) para dos actividades, subidas en teleférico ilimitadas.",
+        lat: 46.64672,
+        lng: 8.05177,
+        url: "https://www.jungfrau.ch/en-gb/grindelwaldfirst/",
+        consiglio: "Los fines de semana de julio y agosto hay cola en el Flyer: hacerlo el primero."
+      },
+      {
+        nome: "Grosse Scheidegg",
+        testo: "El collado a 1.962 metros hacia Meiringen, cerrado al tráfico privado, con el Wetterhorn que parece caer sobre la carretera. Se llega en autobús en verano o a pie desde First, por un sendero casi llano con vistas continuas del valle.",
+        come: "Autobús postal de verano desde Grindelwald, o a pie desde First en una hora y media.",
+        quando: "De junio a septiembre, cuando funciona el autobús.",
+        tempo: "media jornada",
+        costo: "Gratis a pie; el autobús se paga aparte.",
+        lat: 46.65588,
+        lng: 8.10187
       }
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Teleférico a First por la mañana",
-          "Cliff Walk",
-          "Caminata al Bachalpsee",
-          "Bajada a pie o en teleférico"
+          "Teleférico a First en el primer viaje",
+          "Cliff Walk y caminata al Bachalpsee",
+          "Bajada en First Flyer o Mountain Cart",
+          "Tarde en la garganta del glaciar inferior",
+          "Cena en el pueblo"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: First, Cliff Walk, Bachalpsee y actividades de bajada",
+          "Día 2: telecabina al Männlichen, sendero panorámico hasta la Kleine Scheidegg, vuelta en tren; tarde en Pfingstegg"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: First, Cliff Walk y Bachalpsee, luego a pie hasta la Grosse Scheidegg",
+          "Día 2: Männlichen y Kleine Scheidegg, bajada a pie hacia Alpiglen",
+          "Día 3: Eiger Express hasta Eigergletscher y el Eiger Trail; o el Jungfraujoch en los primeros trenes"
         ]
       }
     ],
     zone: [
       {
         nome: "Grindelwald",
+        testo: "El pueblo está al pie de la cara norte del Eiger, con servicios y acceso directo a los teleféricos.",
         perChi: "para hacer excursiones",
-        testo: "El pueblo está al pie de la cara norte del Eiger, con servicios y acceso directo a los teleféricos."
+        fascia: "130-280 €"
       },
       {
         nome: "Interlaken",
+        testo: "Tren directo desde Interlaken Ost, con más oferta de alojamiento.",
         perChi: "para ahorrar",
-        testo: "Tren directo desde Interlaken Ost, con más oferta de alojamiento."
+        fascia: "150-300 €"
+      },
+      {
+        nome: "Albergues y pensiones de Grindelwald",
+        testo: "En el pueblo hay albergues y pequeñas pensiones con habitaciones dobles sencillas, a menudo con cocina compartida. Para julio y agosto hay que reservar pronto.",
+        perChi: "quien viaja con presupuesto ajustado",
+        fascia: "80-150 €"
       }
     ],
     sapori: [
@@ -350,6 +772,48 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Con nubes bajas la vista desde First desaparece: mirar las webcams antes de comprar la entrada.",
       "Las pasarelas del Cliff Walk no son aptas para quien tiene vértigo.",
       "Los senderos se cubren de nieve desde octubre; comprobar su estado."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Grindelwald?",
+        risposta: "Un día basta para First, el Cliff Walk y el Bachalpsee. Con dos o tres días se añaden el Männlichen, la Kleine Scheidegg, el Eiger Trail o el Jungfraujoch."
+      },
+      {
+        domanda: "¿Mejor Grindelwald o Lauterbrunnen como base?",
+        risposta: "Grindelwald tiene más servicios, la vista del Eiger y acceso directo a First y al Eiger Express. Lauterbrunnen es más pequeño y cómodo para Mürren, Wengen y las cascadas."
+      },
+      {
+        domanda: "¿Cuánto cuesta subir a First?",
+        risposta: "La ida y vuelta cuesta 72-76 CHF (unos 77-81 €) según la temporada, con el Cliff Walk incluido. Con el Swiss Travel Pass o el abono medio precio se paga menos."
+      },
+      {
+        domanda: "¿Cuánto se tarda a pie de First al Bachalpsee?",
+        risposta: "Cerca de una hora de ida y otra de vuelta, por un sendero fácil con poca pendiente. A principios de verano el lago puede seguir helado."
+      },
+      {
+        domanda: "¿El Cliff Walk es apto para niños?",
+        risposta: "Sí, la pasarela tiene barandillas altas y está incluida en el billete. Con viento fuerte impresiona."
+      }
+    ],
+    gite: [
+      {
+        nome: "Jungfraujoch",
+        distanza: "unos 45 minutos entre telecabina y tren",
+        come: "Eiger Express desde Grindelwald Terminal hasta Eigergletscher y luego el tren de la Jungfrau por dentro de la montaña.",
+        testo: "La estación más alta de Europa, a 3.454 metros, con el glaciar Aletsch y el palacio de hielo. Conviene salir en los primeros viajes y dejar un día de margen por el tiempo."
+      },
+      {
+        nome: "Wengen y Lauterbrunnen",
+        distanza: "cerca de 1 hora y cuarto en tren",
+        come: "Cremallera de Grindelwald a la Kleine Scheidegg y bajada hacia Wengen y Lauterbrunnen.",
+        testo: "La vuelta clásica de la Jungfrau: se sube por un valle y se baja por el otro, con Wengen sin coches y las cascadas de Lauterbrunnen. Desde Lauterbrunnen se vuelve por Interlaken."
+      },
+      {
+        nome: "Interlaken y los lagos",
+        distanza: "unos 35 minutos en tren",
+        come: "Tren BOB directo de Grindelwald a Interlaken Ost.",
+        testo: "Para un día más tranquilo o con mal tiempo en altura: barco por el lago de Brienz, Harder Kulm y el centro de Interlaken."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
@@ -389,6 +853,8 @@ export const destinazioniSvizzera: Destinazione[] = [
       "No reservar online: en taquilla los billetes suelen costar más",
       "Subestimar el frío en altura incluso en pleno verano: hacen falta cortavientos y capas incluso en julio",
     ],
+    miaEsperienza:
+      "El Jungfraujoch fue una de las etapas de nuestro viaje en furgoneta con amigos: la furgoneta se queda abajo y a la cima solo se sube en tren.",
     luoghi: [
       {
         nome: "Terraza de la Esfinge",
@@ -534,6 +1000,8 @@ export const destinazioniSvizzera: Destinazione[] = [
           "Para quien tiene furgoneta y quiere ver también el pueblo de Mürren, el tramo desde Stechelberg con parada intermedia sigue siendo el más sencillo de organizar en una sola jornada.",
       },
     ],
+    miaEsperienza:
+      "Mürren y el Schilthorn fueron una de las zonas de nuestro viaje en furgoneta con amigos por la Jungfrau Region.",
     luoghi: [
       {
         nome: "Schilthorn y Piz Gloria",
@@ -650,6 +1118,8 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Programar el traslado sin comprobar antes que los dos puertos estén abiertos, sobre todo a principios de junio o a finales de octubre",
       "No saber que el Furka tiene una alternativa en tren lanzadera (Furka Autoverlad) cuando el puerto está cerrado a la circulación ordinaria",
     ],
+    miaEsperienza:
+      "Los puertos del Grimsel y del Furka fueron nuestro traslado en furgoneta con amigos desde la Jungfrau Region hacia el Valais, camino de Zermatt.",
     luoghi: [
       {
         nome: "Puerto del Grimsel",
@@ -748,15 +1218,17 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     doveDormire: "Dentro de Zermatt no se duerme en furgoneta, porque la ciudad está cerrada al tráfico privado: se duerme en la furgoneta en Täsch o se vuelve hacia las otras zonas.",
     doveMangiare: "Restaurantes de pueblo turístico, entre los más caros de la guía; conviene alternarlos con comidas preparadas en la furgoneta en Täsch.",
-    comeArrivare: "La furgoneta se deja en el aparcamiento cubierto de Täsch, 5 km antes de Zermatt; desde allí sale un tren lanzadera cada 20 minutos.",
+    comeArrivare: "La furgoneta se deja en el aparcamiento cubierto de Täsch, 5 km antes de Zermatt; desde allí sale un tren lanzadera cada 20 minutos. El tren lanzadera desde Täsch tarda unos 12 minutos. En tren desde el aeropuerto de Zúrich se llega en unas 3 horas y 40 minutos con transbordo en Visp, desde Interlaken en unas 2 horas y media por Spiez y Visp, y desde el aeropuerto de Ginebra en unas 4 horas; el último tramo, desde Visp, es en la línea Matterhorn Gotthard Bahn. La estación de Zermatt está en el centro y los hoteles suelen mandar taxis eléctricos a recoger el equipaje.",
     comeSpostarsi: "A pie por el pueblo; para el Gornergrat y las demás cotas hacen falta el ferrocarril de cremallera o los teleféricos.",
     periodoMigliore: "de junio a septiembre; el Cervino sigue siendo en cualquier caso visible (cuando el cielo está despejado) todo el año.",
-    costi: "Aparcamiento de Täsch desde 17 CHF/día; Gornergrat aparte, no incluido en el aparcamiento.",
+    costi: "Aparcamiento de Täsch desde 17 CHF/día; Gornergrat aparte, no incluido en el aparcamiento. Presupuesto diario por persona: bajo 120-160 € (albergue o alojamiento en Täsch, compra en el supermercado, Sunnegga o Schwarzsee), medio 280-400 € (hotel en doble en Zermatt, restaurante, Gornergrat), alto desde 550 €.",
     erroriDaEvitare: [
       "Intentar entrar en Zermatt en furgoneta o en coche: la prohibición existe y se controla",
       "No tener en cuenta el tiempo de conducción para llegar: más de dos horas desde Interlaken incluso pasando por Grimsel-Furka",
       "Dar por hecho que el Cervino esté libre de nubes: se forma las suyas propias incluso cuando alrededor el cielo está limpio",
     ],
+    miaEsperienza:
+      "Zermatt fue la última etapa de nuestro viaje en furgoneta con amigos, llegando por los puertos del Grimsel y del Furka: la furgoneta se deja en Täsch y el último tramo se hace en tren.",
     luoghi: [
       {
         nome: "Gornergrat",
@@ -765,8 +1237,22 @@ export const destinazioniSvizzera: Destinazione[] = [
         quando: "Por la mañana, con el cielo más despejado.",
         tempo: "Media jornada",
         costo: "Ida y vuelta 132 CHF de mayo a octubre de 2026 y 102 CHF de noviembre de 2026 a abril de 2027; mitad de precio con Swiss Travel Pass o Half Fare Card.",
+        lat: 45.98331,
+        lng: 7.78463,
         url: "https://www.gornergratbahn.ch/",
         consiglio: "Bajar en Rotenboden o Riffelberg para caminar un tramo."
+      },
+      {
+        nome: "Pueblo de Zermatt",
+        testo: "El centro sin coches, con casas de madera oscura, tiendas y hoteles. El pequeño cementerio junto a la iglesia recuerda a los alpinistas muertos en el Cervino.",
+        come: "A pie desde la estación.",
+        quando: "Todo el año.",
+        tempo: "1-2 horas",
+        costo: "Gratis.",
+        orari: "Siempre accesible.",
+        lat: 46.02457,
+        lng: 7.74813,
+        consiglio: "El museo del Cervino cuenta la historia de la primera ascensión en 1865."
       },
       {
         nome: "Matterhorn Glacier Paradise",
@@ -774,7 +1260,9 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Teleférico desde Zermatt con cambio en Furi y Trockener Steg.",
         quando: "A primera hora para tener el cielo más limpio.",
         tempo: "Media jornada",
-        costo: "Ida y vuelta desde 104 CHF en la temporada noviembre 2026-abril 2027, con tarifas de temporada; precios actualizados en la web oficial.",
+        costo: "Ida y vuelta 104 CHF (unos 111 €) de noviembre de 2026 a abril de 2027, 138 CHF (unos 148 €) de mayo a octubre de 2027.",
+        lat: 45.93836,
+        lng: 7.72934,
         url: "https://www.matterhornparadise.ch/",
         consiglio: "Llevar gafas de sol y una capa de abrigo: a 3.800 metros hace frío."
       },
@@ -784,45 +1272,138 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Funicular a Sunnegga y telecabina a Blauherd, luego a pie, más de bajada que de subida.",
         quando: "Verano; los lagos reflejan mejor por la mañana.",
         tempo: "3-4 horas",
+        costo: "Billete combinado Zermatt-Blauherd y Sunnegga-Zermatt 52 CHF (unos 56 €) en verano.",
+        orari: "Sendero transitable de finales de junio a principios de octubre, según la nieve.",
+        lat: 46.01344,
+        lng: 7.80038,
+        url: "https://www.matterhornparadise.ch/en/information/tickets-prices/sightseeing-tickets",
         consiglio: "El Stellisee está muy concurrido: llegar temprano."
       },
       {
-        nome: "Pueblo de Zermatt",
-        testo: "El centro sin coches, con casas de madera oscura, tiendas y hoteles. El pequeño cementerio junto a la iglesia recuerda a los alpinistas muertos en el Cervino.",
-        come: "A pie desde la estación.",
-        quando: "Todo el año.",
-        tempo: "1-2 horas",
-        consiglio: "El museo del Cervino cuenta la historia de la primera ascensión en 1865."
+        nome: "Riffelsee",
+        testo: "El pequeño lago bajo la estación de Rotenboden, a 2.757 metros, donde el Cervino se refleja entero las mañanas sin viento. Es la foto más clásica de Zermatt y está a pocos minutos a pie del tren.",
+        come: "Tren del Gornergrat hasta Rotenboden y luego 10 minutos a pie en bajada.",
+        quando: "A primera hora, cuando el agua está quieta.",
+        tempo: "1 hora",
+        costo: "Incluido en el billete del Gornergrat.",
+        orari: "El lago suele estar sin hielo de julio a octubre.",
+        lat: 45.98336,
+        lng: 7.76205,
+        url: "https://www.gornergratbahn.ch/",
+        consiglio: "Seguir a pie hasta Riffelberg y tomar allí el tren."
+      },
+      {
+        nome: "Sunnegga y Rothorn",
+        testo: "Un funicular subterráneo sube en pocos minutos a Sunnegga, una terraza soleada con el lago Leisee y un parque infantil; desde allí telecabina y teleférico siguen hasta el Rothorn, a 3.103 metros. Es el mirador más de frente a la cara este del Cervino.",
+        come: "Funicular Sunnegga Express desde la estación del valle junto al río, luego Blauherd y Rothorn.",
+        quando: "Por la mañana para ver el Cervino con luz; Sunnegga también al atardecer.",
+        tempo: "media jornada",
+        costo: "Sunnegga ida y vuelta 26 CHF en invierno y 36 CHF (unos 39 €) en verano; Rothorn 70 CHF en invierno y 96 CHF (unos 103 €) en verano.",
+        lat: 46.01717,
+        lng: 7.76976,
+        url: "https://www.matterhornparadise.ch/en/experience/peaks/rothorn",
+        consiglio: "En el Leisee uno se puede bañar en verano: es de los pocos lagos alpinos aptos para niños."
+      },
+      {
+        nome: "Schwarzsee",
+        testo: "Un lago oscuro a 2.583 metros con una capilla blanca en la orilla, justo al pie de la arista del Hörnli, la vía normal al Cervino. Desde aquí se ve la montaña de lado, casi al alcance de la mano.",
+        come: "Teleférico desde Zermatt con transbordo en Furi.",
+        quando: "Verano; se puede bajar a pie a Zermatt pasando por Stafelalp.",
+        tempo: "2-3 horas",
+        costo: "Ida y vuelta 53 CHF en invierno y 70 CHF (unos 75 €) en verano.",
+        lat: 45.99077,
+        lng: 7.70682,
+        url: "https://www.matterhornparadise.ch/"
+      },
+      {
+        nome: "Matterhorn Museum - Zermatlantis",
+        testo: "Un museo bajo la plaza de la iglesia, construido como un pueblo enterrado, que cuenta la primera ascensión al Cervino en 1865 y la tragedia del descenso. También se ve la cuerda rota de la cordada de Whymper.",
+        come: "A pie desde la estación, 5 minutos, junto a la iglesia.",
+        quando: "Las tardes de mal tiempo.",
+        tempo: "1 hora",
+        costo: "Adultos 12 CHF (unos 13 €), jóvenes de 10 a 16 años 7 CHF, niños gratis.",
+        orari: "Abre por la tarde: desde el 20 de noviembre de 2026 de viernes a domingo 15-18, desde el 18 de diciembre todos los días 15-18; desde junio de 2027 todos los días 14-18.",
+        lat: 46.01977,
+        lng: 7.74646,
+        url: "https://www.zermatt.ch/en/Media/Attractions/Matterhorn-Museum-Zermatlantis"
+      },
+      {
+        nome: "Kirchbrücke",
+        testo: "El puente sobre el Vispa junto a la iglesia es el punto del pueblo con la vista más limpia del Cervino, enmarcado entre casas y el río. Al amanecer, cuando la cima se tiñe de naranja, se llena de fotógrafos.",
+        come: "A pie desde el centro, 5 minutos desde la estación.",
+        quando: "Al amanecer, por la primera luz en la cima.",
+        tempo: "20 minutos",
+        costo: "Gratis.",
+        orari: "Siempre accesible.",
+        lat: 46.01891,
+        lng: 7.74806
+      },
+      {
+        nome: "Hinterdorf, el pueblo antiguo",
+        testo: "Una calle estrecha detrás de la Bahnhofstrasse con pajares y graneros de madera ennegrecida de los siglos XVI y XVII, elevados sobre pilotes con discos de piedra contra los ratones. Es lo que queda del Zermatt campesino antes del alpinismo.",
+        come: "A pie desde la iglesia hacia el norte por la Hinterdorfstrasse.",
+        quando: "A primera hora o al anochecer, con poca gente.",
+        tempo: "30 minutos",
+        costo: "Gratis.",
+        orari: "Siempre accesible.",
+        lat: 46.02085,
+        lng: 7.74761
+      },
+      {
+        nome: "Garganta del Gorner (Gornerschlucht)",
+        testo: "Una garganta estrecha excavada por el torrente glaciar del Gorner, que se recorre por pasarelas de madera ancladas a la roca sobre el agua verde. Es un paseo corto, a media hora del centro, que combina bien con la vuelta a pie desde Furi.",
+        come: "A pie desde el pueblo hacia la aldea de Blatten, unos 30 minutos.",
+        quando: "En verano, en las horas de calor.",
+        tempo: "1-2 horas con el paseo",
+        lat: 46.00882,
+        lng: 7.7391,
+        consiglio: "Comprobar antes que esté abierta: las pasarelas cierran fuera de temporada."
       }
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Gornergrat por la mañana",
-          "Comida en Riffelberg",
-          "Caminata hacia Zermatt",
-          "Cena en el pueblo"
+          "Kirchbrücke al amanecer",
+          "Gornergrat en tren, parada en el Riffelsee bajando en Rotenboden",
+          "Comida en Riffelberg y vuelta en tren",
+          "Tarde entre Hinterdorf y el Matterhorn Museum"
         ]
       },
       {
         titolo: "2 días",
         tappe: [
-          "Día 1: Gornergrat y pueblo",
-          "Día 2: Matterhorn Glacier Paradise o sendero de los cinco lagos"
+          "Día 1: Gornergrat, Riffelsee y el pueblo",
+          "Día 2: Sunnegga, sendero de los cinco lagos y Rothorn; tarde en la Kirchbrücke"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Gornergrat y Riffelsee, tarde en el pueblo y el museo",
+          "Día 2: Sunnegga, los cinco lagos y el Rothorn",
+          "Día 3: Matterhorn Glacier Paradise por la mañana, Schwarzsee por la tarde y bajada a pie pasando por la garganta del Gorner"
         ]
       }
     ],
     zone: [
       {
         nome: "Zermatt",
+        testo: "Sin coches; alojamiento a todos los precios, pero caro.",
         perChi: "para estar en el centro",
-        testo: "Sin coches; alojamiento a todos los precios, pero caro."
+        fascia: "200-450 €"
       },
       {
         nome: "Täsch y Randa",
+        testo: "Precios más bajos, con el tren lanzadera frecuente a Zermatt.",
         perChi: "para ahorrar",
-        testo: "Precios más bajos, con el tren lanzadera frecuente a Zermatt."
+        fascia: "130-250 €"
+      },
+      {
+        nome: "Visp y Brig",
+        testo: "Las dos ciudades en la línea del Ródano, a cerca de una hora en tren de Zermatt, tienen hoteles más baratos y trenes rápidos a Berna, Interlaken e Italia.",
+        perChi: "quien combina Zermatt con otros destinos del Valais",
+        fascia: "110-200 €"
       }
     ],
     sapori: [
@@ -843,6 +1424,48 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Los coches se quedan en Täsch: dejarlos en el aparcamiento y tomar el tren.",
       "Precios altos: comprar bocadillos en supermercados antes de subir.",
       "En días de viento o nubes los teleféricos pueden cerrar: dejar margen en el plan."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Zermatt?",
+        risposta: "Dos días bastan para el Gornergrat y el sendero de los cinco lagos. Con tres se añaden el Matterhorn Glacier Paradise y el Schwarzsee, y queda un día de margen si el Cervino está tapado."
+      },
+      {
+        domanda: "¿Se puede llegar a Zermatt en coche?",
+        risposta: "No, el pueblo está cerrado al tráfico privado. El coche se deja en Täsch, en el aparcamiento cubierto desde 17 CHF al día, y el tren lanzadera tarda unos 12 minutos, con salidas cada 20 minutos."
+      },
+      {
+        domanda: "¿Mejor el Gornergrat o el Matterhorn Glacier Paradise?",
+        risposta: "El Gornergrat tiene la vista de frente al Cervino y el Riffelsee por el camino, así que es la opción si solo hay un día. El Glacier Paradise es más alto y glaciar, pero desde arriba el Cervino se ve de lado."
+      },
+      {
+        domanda: "¿Cuándo se ve mejor el Cervino?",
+        risposta: "A primera hora de la mañana, antes de que se formen nubes alrededor de la cima. Las webcams de los remontes ayudan a decidir si subir."
+      },
+      {
+        domanda: "¿Cuánto cuesta un día en Zermatt?",
+        risposta: "Los remontes son lo que más pesa: el Gornergrat cuesta 132 CHF ida y vuelta en verano, la mitad con el Swiss Travel Pass o el abono medio precio. Con hotel y restaurante se superan fácilmente los 300 € por persona."
+      }
+    ],
+    gite: [
+      {
+        nome: "Puente colgante Charles Kuonen (Randa)",
+        distanza: "unos 20 minutos en tren y luego 1-2 horas a pie",
+        come: "Tren hasta Randa y luego sendero señalizado en subida hasta el puente, en el trazado del Europaweg.",
+        testo: "Un puente peatonal colgante de 494 metros sobre un valle lateral, de los más largos de los Alpes. Se camina sobre el vacío con el Weisshorn enfrente."
+      },
+      {
+        nome: "Saas-Fee",
+        distanza: "unas 2 horas entre tren y autobús",
+        come: "Tren hasta Visp o Stalden y luego autobús postal hasta Saas-Fee.",
+        testo: "El otro pueblo sin coches del Valais, rodeado de cuatromiles y glaciares que bajan casi hasta las casas. Menos concurrido y algo más barato que Zermatt."
+      },
+      {
+        nome: "Sion",
+        distanza: "unas 2 horas en tren",
+        come: "Tren hasta Visp y transbordo a la línea del Ródano.",
+        testo: "La capital del Valais, con dos colinas fortificadas, Valère y Tourbillon, y viñedos en terrazas alrededor. Un día de ciudad y vino cuando arriba hace mal tiempo."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],

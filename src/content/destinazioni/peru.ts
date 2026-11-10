@@ -364,10 +364,10 @@ export const destinazioniPeru: Destinazione[] = [
       'Ollantaytambo è la scelta più strategica per il treno; Urubamba ha le strutture più confortevoli; Pisac è la più tranquilla e alternativa.',
     doveMangiare:
       'Nella valle si mangia meglio nei ristoranti di campagna con vista sui terrazzamenti che nei locali turistici di Pisac. Da cercare la trucha (trota) dei fiumi della zona e il classico menú del día, che a mezzogiorno costa pochissimo ed è quello che mangiano i locali.',
-    comeArrivare: 'Circa 1h30 di auto da Cusco a Ollantaytambo; collettivi frequenti ed economici da Calle Pavitos a Cusco.',
+    comeArrivare: "Da Cusco a Pisac ci vuole circa un'ora di strada, da Pisac a Ollantaytambo circa un'ora e un quarto; Cusco-Ollantaytambo diretto, per Chinchero, circa 1 ora e 30. I colectivos per Urubamba e Ollantaytambo partono da Calle Pavitos, a Cusco, appena si riempiono, e costano pochi soles; per Pisac partono dalla zona di Puputi. Un'auto con autista per la giornata, prezzo da concordare prima, permette di fermarsi a Chinchero, Moray e Maras, che con i mezzi pubblici sono scomodi. Chi arriva in aereo a Cusco può andare direttamente nella valle e acclimatarsi più in basso.",
     comeSpostarsi: 'Auto con autista o tour organizzato per coprire Maras, Moray e Pisac in una giornata; collettivi tra i paesi principali.',
     periodoMigliore: 'maggio-settembre; nella stagione delle piogge le strade sterrate verso Maras si fanno difficili',
-    costi: 'la maggior parte dei siti è inclusa nel Boleto Turístico; le saline di Maras hanno un biglietto a parte, da pagare in contanti all\'ingresso',
+    costi: "Budget basso circa 30-45 € al giorno (ostello a Ollantaytambo o Pisac, colectivos, menú del día); medio 70-120 € (hotel a Urubamba o Ollantaytambo, auto con autista divisa in due, ristoranti di campagna); alto da 200 € (lodge nella valle, guida privata). Pisac, Ollantaytambo, Chinchero e Moray sono nel Boleto Turístico del Cusco: integrale 130 soles (circa 33 €, 10 giorni) o parziale del circuito Valle Sagrado 70 soles (circa 18 €, 2 giorni) secondo il tariffario COSITUC 2026. Le saline di Maras si pagano a parte, circa 20 soles in contanti.",
     erroriDaEvitare: [
       'Comprimere Valle Sacra e Machu Picchu in un\'unica giornata di corsa: è il classico errore che toglie senso a entrambe',
       'Dormire a Cusco la sera prima del treno delle 5 o 6 del mattino da Ollantaytambo',
@@ -376,21 +376,16 @@ export const destinazioniPeru: Destinazione[] = [
       'Sta cinquecento metri più in basso di Cusco, e da qui in poi si dorme meglio. Il primo giorno Pisac, col mercato e il sito sulla collina, poi Ollantaytambo, dove abbiamo dormito per essere pronti al treno del mattino per Machu Picchu. Il paese dà il meglio la sera, quando i pullman dei tour sono ripartiti e torna ai suoi abitanti. Il giorno dopo il resto della valle: le saline di Maras, vasche scavate nella montagna e usate da generazioni dalle stesse famiglie, i terrazzamenti circolari di Moray e Chinchero, per la tessitura. È la tappa da allungare se si ha un giorno in più, ed è quella che quasi tutti sacrificano per correre a Machu Picchu.',
     luoghi: [
       {
-        "nome": "Pisac",
-        "testo": "Un paese con un mercato artigianale e, sulla collina, un sito inca con terrazzamenti e il quartiere cerimoniale. Il sito è meno visitato di Machu Picchu e si cammina quasi da soli.",
-        "come": "Da Cusco in collettivo o auto. Il sito archeologico è incluso nel Boleto Turístico; il mercato è nel paese.",
-        "quando": "Mattina presto per il sito, poi mercato. Il mercato si tiene martedì, giovedì e domenica; il più grande è la domenica.",
-        "tempo": "Mezza giornata",
-        "consiglio": "Se hai un giorno solo, vai al sito la mattina e scendi al mercato per pranzo."
-      },
-      {
         "nome": "Ollantaytambo",
         "testo": "Un villaggio con un reticolo di strade di origine inca e alcune delle abitazioni abitate senza interruzione più antiche del Sud America, sotto una fortezza a terrazze. Da qui parte la maggior parte dei treni per Machu Picchu.",
         "come": "In auto o collettivo da Cusco, circa 72 km di strada. Si visita a piedi. Il sito è incluso nel Boleto Turístico.",
         "quando": "Il sito la mattina; il paese dà il meglio la sera, quando i pullman dei tour sono ripartiti.",
         "tempo": "2-3 ore per il sito, una notte per il paese",
-        "consiglio": "Dormici la sera prima del treno per Machu Picchu: dormi di più che partendo da Cusco.",
-        "url": "https://cosituccusco.pe/tarifario/"
+        "costo": "Incluso nel Boleto Turístico del Cusco: integrale 130 soles (circa 33 €) o parziale Valle Sagrado 70 soles (circa 18 €), tariffe COSITUC 2026",
+        "url": "https://cosituccusco.pe/tarifario/",
+        "lat": -13.25806,
+        "lng": -72.26333,
+        "consiglio": "Dormici la sera prima del treno per Machu Picchu: dormi di più che partendo da Cusco."
       },
       {
         "nome": "Saline di Maras",
@@ -398,7 +393,9 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "In auto con autista o tour, spesso in combinazione con Moray. Si cammina sul bordo delle vasche, dove il passaggio è consentito.",
         "quando": "Mattina o tardo pomeriggio, quando il sale è più bianco.",
         "tempo": "1 ora",
-        "costo": "Biglietto a parte, non incluso nel Boleto Turístico: si paga in contanti all'ingresso",
+        "costo": "Circa 20 soles in contanti per gli stranieri (circa 5 €), non incluso nel Boleto Turístico",
+        "lat": -13.30008,
+        "lng": -72.15624,
         "consiglio": "Le strade sterrate verso Maras diventano difficili nella stagione delle piogge."
       },
       {
@@ -407,7 +404,23 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "In auto o bici da Maras. Incluso nel Boleto Turístico.",
         "quando": "Tutto il giorno; la luce del mattino è la migliore.",
         "tempo": "45 minuti",
+        "costo": "Incluso nel Boleto Turístico del Cusco (integrale 130 soles o parziale Valle Sagrado 70 soles, 2026)",
+        "url": "https://cosituccusco.pe/tarifario/",
+        "lat": -13.32917,
+        "lng": -72.19556,
         "consiglio": "Il giro in bici o quad tra Maras e Moray è una buona alternativa alla macchina."
+      },
+      {
+        "nome": "Pisac",
+        "testo": "Un paese con un mercato artigianale e, sulla collina, un sito inca con terrazzamenti e il quartiere cerimoniale. Il sito è meno visitato di Machu Picchu e si cammina quasi da soli.",
+        "come": "Da Cusco in collettivo o auto. Il sito archeologico è incluso nel Boleto Turístico; il mercato è nel paese.",
+        "quando": "Mattina presto per il sito, poi mercato. Il mercato si tiene martedì, giovedì e domenica; il più grande è la domenica.",
+        "tempo": "Mezza giornata",
+        "costo": "Incluso nel Boleto Turístico del Cusco: integrale 130 soles (circa 33 €) o parziale Valle Sagrado 70 soles (circa 18 €), tariffe COSITUC 2026",
+        "url": "https://cosituccusco.pe/tarifario/",
+        "lat": -13.41422,
+        "lng": -71.84405,
+        "consiglio": "Se hai un giorno solo, vai al sito la mattina e scendi al mercato per pranzo."
       },
       {
         "nome": "Chinchero",
@@ -415,32 +428,76 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Da Cusco, sulla strada per la valle. Sito incluso nel Boleto Turístico.",
         "quando": "Mattina.",
         "tempo": "1-2 ore",
+        "costo": "Incluso nel Boleto Turístico del Cusco (integrale 130 soles o parziale Valle Sagrado 70 soles, 2026)",
+        "url": "https://cosituccusco.pe/tarifario/",
+        "lat": -13.39111,
+        "lng": -72.04778,
         "consiglio": "Un laboratorio di tessitura con una cooperativa di donne vale più dei negozi turistici."
+      },
+      {
+        "nome": "Pinkuylluna",
+        "testo": "I magazzini inca di pietra aggrappati alla montagna di fronte alla fortezza di Ollantaytambo. Il sentiero è ripido ma breve, e dall'alto si vede il paese con il suo reticolo di vie e l'intera fortezza.",
+        "come": "Si sale a piedi dal centro di Ollantaytambo, da una stradina dietro la piazza. Ingresso libero.",
+        "quando": "Tardo pomeriggio, con la fortezza illuminata di fronte.",
+        "tempo": "1-1,5 ore andata e ritorno",
+        "lat": -13.25611,
+        "lng": -72.26111,
+        "consiglio": "Gradini alti e senza ringhiera in alcuni punti: scarpe con suola buona."
+      },
+      {
+        "nome": "Pumamarca",
+        "testo": "Un piccolo sito inca sopra la valle del Patacancha, a nord di Ollantaytambo, con mura e terrazzamenti quasi sempre deserti. Si arriva con una camminata tra campi e villaggi quechua.",
+        "come": "Taxi da Ollantaytambo fino al villaggio di Pallata, poi a piedi; in alternativa sentiero dal paese, più lungo.",
+        "quando": "Mattina, nella stagione secca.",
+        "tempo": "Mezza giornata",
+        "lat": -13.231,
+        "lng": -72.22881,
+        "consiglio": "Buona escursione di acclimatamento per chi dorme a Ollantaytambo: porta acqua e qualcosa da mangiare, lungo il sentiero non c'è nulla."
+      },
+      {
+        "nome": "Huchuy Qosqo",
+        "testo": "Un complesso inca su un altopiano sopra Lamay, raggiungibile solo a piedi. Il trek di uno o due giorni attraversa passi d'alta quota e scende nella Valle Sacra, lontano da qualsiasi pullman.",
+        "come": "Trek da Tambomachay o da Chinchero con guida, oppure salita diretta da Lamay, ripida.",
+        "quando": "Stagione secca, da maggio a settembre.",
+        "tempo": "1-2 giorni",
+        "lat": -13.36644,
+        "lng": -71.94512,
+        "consiglio": "Da fare solo dopo qualche giorno in quota: il passo supera i 4.000 metri."
+      },
+      {
+        "nome": "Awana Kancha",
+        "testo": "Un centro sulla strada tra Cusco e Pisac dove si vedono da vicino lama, alpaca, vigogne e guanachi, e le tessitrici che lavorano la lana con tinture naturali.",
+        "come": "Sosta lungo la strada Cusco-Pisac; molti tour della valle si fermano qui.",
+        "quando": "Di giorno, sulla strada per Pisac.",
+        "tempo": "30-45 minuti",
+        "lat": -13.45453,
+        "lng": -71.88806,
+        "consiglio": "Fermata utile con i bambini; il negozio è caro, la visita in sé non lo è."
       }
     ],
     programmi: [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: Pisac (sito e mercato)",
-          "Pranzo ad Urubamba",
-          "Pomeriggio: Ollantaytambo",
-          "Rientro a Cusco o notte lì"
+          "Mattina presto: sito di Pisac, poi discesa al mercato",
+          "Pranzo con trucha a Urubamba",
+          "Pomeriggio: fortezza di Ollantaytambo",
+          "Tramonto da Pinkuylluna e notte in paese"
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Chinchero, Moray, Maras, poi notte a Ollantaytambo",
-          "Giorno 2: Pisac la mattina, oppure treno per Machu Picchu da Ollantaytambo"
+          "Giorno 1: Chinchero al mattino, Moray verso mezzogiorno, saline di Maras nel pomeriggio, notte a Ollantaytambo",
+          "Giorno 2: fortezza di Ollantaytambo all'apertura e Pinkuylluna, poi treno per Aguas Calientes, oppure Pisac e rientro a Cusco"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: Pisac e notte a Pisac o Urubamba",
-          "Giorno 2: Chinchero, Moray, Maras, notte a Ollantaytambo",
-          "Giorno 3: Ollantaytambo e treno per Aguas Calientes"
+          "Giorno 1: Awana Kancha e Pisac, notte a Pisac o Urubamba",
+          "Giorno 2: Chinchero, Moray e Maras, notte a Ollantaytambo",
+          "Giorno 3: fortezza e Pinkuylluna la mattina o camminata a Pumamarca, poi treno per Aguas Calientes"
         ]
       }
     ],
@@ -448,17 +505,20 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Ollantaytambo",
         "perChi": "Chi prende il treno per Machu Picchu",
-        "testo": "La scelta più strategica: stazione a piedi, vicoli inca e poca folla la sera. Piccola, con meno scelta di locali."
+        "testo": "La scelta più strategica: stazione a piedi, vicoli inca e poca folla la sera. Piccola, con meno scelta di locali.",
+        "fascia": "40-150 €"
       },
       {
         "nome": "Urubamba",
         "perChi": "Chi cerca comfort e centralità",
-        "testo": "Il paese con le strutture più confortevoli e spesso più spazio, a metà valle. Meno carattere."
+        "testo": "Il paese con le strutture più confortevoli e spesso più spazio, a metà valle. Meno carattere.",
+        "fascia": "60-250 €"
       },
       {
         "nome": "Pisac",
         "perChi": "Chi vuole tranquillità e atmosfera alternativa",
-        "testo": "Più tranquilla e con una scena di artigiani, ma più lontana dal treno. Il mercato la domenica porta molta gente."
+        "testo": "Più tranquilla e con una scena di artigiani, ma più lontana dal treno. Il mercato la domenica porta molta gente.",
+        "fascia": "35-120 €"
       }
     ],
     sapori: [
@@ -484,6 +544,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Tour con prezzi bassi che fanno tappe lunghe in negozi turistici: chiedi in anticipo quali siti sono inclusi.",
       "Strade sterrate verso Maras e Moray difficili nella stagione delle piogge.",
       "Treno per Machu Picchu: i posti si esauriscono con settimane di anticipo nei mesi di punta."
+    ],
+    gite: [
+      {
+        "nome": "Machu Picchu",
+        "distanza": "circa 1 ora e 30 in treno da Ollantaytambo",
+        "come": "Treno PeruRail o IncaRail fino ad Aguas Calientes, poi bus navetta di 25 minuti fino all'ingresso.",
+        "testo": "La valle è la porta naturale per Machu Picchu: da Ollantaytambo le partenze sono più numerose e più economiche che da Cusco. Meglio dormire ad Aguas Calientes ed entrare al primo turno."
+      },
+      {
+        "nome": "Cusco",
+        "distanza": "1-1,5 ore in auto, circa 70 km da Ollantaytambo",
+        "come": "Colectivo fino a Calle Pavitos, taxi o auto con autista.",
+        "testo": "Chi si acclimata nella valle può visitare Cusco in giornata e tornare a dormire più in basso: Qorikancha, Plaza de Armas e San Blas si fanno anche così."
+      },
+      {
+        "nome": "Laguna Humantay",
+        "distanza": "circa 3 ore di strada fino a Soraypampa",
+        "come": "Tour di un giorno, con partenza molto presto; alcune agenzie raccolgono anche nella valle.",
+        "testo": "Un lago glaciale turchese a circa 4.200 metri ai piedi del Salkantay. Va fatta solo dopo qualche giorno di acclimatamento."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono nella Valle Sacra?",
+        "risposta": "Due giorni bastano per Pisac, Ollantaytambo, Chinchero, Moray e Maras senza correre. Con tre si aggiunge una camminata a Pumamarca o Huchuy Qosqo."
+      },
+      {
+        "domanda": "Meglio dormire a Ollantaytambo o a Urubamba?",
+        "risposta": "Ollantaytambo se il giorno dopo si prende il treno per Machu Picchu, perché la stazione è a piedi. Urubamba ha più hotel comodi ed è più centrale per girare la valle in auto."
+      },
+      {
+        "domanda": "Le saline di Maras sono incluse nel Boleto Turístico?",
+        "risposta": "No. Il Boleto Turístico copre Pisac, Ollantaytambo, Chinchero e Moray; a Maras si paga all'ingresso, circa 20 soles in contanti."
+      },
+      {
+        "domanda": "Si può visitare la Valle Sacra in un giorno da Cusco?",
+        "risposta": "Sì, con un tour o un'auto con autista, ma si vedono i siti di corsa. Dormire almeno una notte nella valle aiuta anche con la quota, che è 500-600 metri più bassa."
+      },
+      {
+        "domanda": "Quando c'è il mercato di Pisac?",
+        "risposta": "I banchi ci sono tutti i giorni; il mercato più grande è la domenica, con martedì e giovedì come giorni di mercato secondari."
+      },
+      {
+        "domanda": "Serve una guida per i siti della valle?",
+        "risposta": "Non è obbligatoria. All'ingresso di Pisac e Ollantaytambo si trovano guide ufficiali a pagamento, utili per capire la funzione dei terrazzamenti e dei templi."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
@@ -646,7 +752,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Arrivare a Cusco e salire a Machu Picchu il giorno dopo, senza acclimatamento',
     ],
     miaEsperienza:
-      'Il momento che mi porto dietro dal Perù è Machu Picchu all\'alba. Entrare tra i primi, quando la cittadella è ancora quasi vuota, ripaga la sveglia nel buio e la strada per arrivarci: il consiglio che vale più di tutti è dormire ad Aguas Calientes ed entrare al primo turno, più che per la luce per quei quaranta minuti in cui il posto è ancora silenzioso. Ci sono arrivato in più modi: con un trekking di cinque giorni, col pulmino fino a Hidroeléctrica e poi a piedi, e in treno, nella classe economica. Ho fatto anche il Huayna Picchu: è bellissimo, ma va prenotato per tempo e chi soffre di vertigini deve pensarci bene. Conviene sapere prima che non si gira liberamente: il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no.',
+      'Il momento che mi porto dietro dal Perù è Machu Picchu all\'alba. Entrare tra i primi, quando la cittadella è ancora quasi vuota, ripaga la sveglia nel buio e la strada per arrivarci: il consiglio che vale più di tutti è dormire ad Aguas Calientes ed entrare al primo turno, più che per la luce per quei quaranta minuti in cui il posto è ancora silenzioso. Ci sono stato due volte e ci sono arrivato in più modi: con un trekking di cinque giorni, col pulmino fino a Hidroeléctrica e poi a piedi, e in treno, nella classe economica. Ho fatto anche il Huayna Picchu: è bellissimo, ma va prenotato per tempo e chi soffre di vertigini deve pensarci bene. Conviene sapere prima che non si gira liberamente: il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no.',
     luoghi: [
       {
         "nome": "La cittadella e i circuiti di visita",
@@ -1297,11 +1403,10 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire: 'Puno per la logistica; Amantaní per l\'homestay, che è la ragione principale per venire fin qui.',
     doveMangiare:
       'Sul lago il pasto che conta è la cena ad Amantaní, preparata dalla famiglia che ospita e mangiata insieme a loro: semplice e genuina. Nel giro in barca da Puno il pranzo si fa a Taquile, con la vista sulla parte boliviana del lago.',
-    comeArrivare:
-      'Da Cusco, bus turistico di circa 7-8 ore con soste ai siti lungo la strada (la formula migliore), treno panoramico Andean Explorer, oppure volo su Juliaca. Da Arequipa circa 6 ore di bus.',
+    comeArrivare: "Da Cusco il bus turistico impiega circa 10 ore con le soste ad Andahuaylillas, Raqchi, La Raya e Pukará, e costa circa 45-60 dollari con guida e pranzo; i bus di linea fanno la tratta in circa 7 ore. In alternativa c'è il treno panoramico, molto più caro, o il volo per Juliaca, a circa un'ora di strada da Puno. Da Arequipa ci sono circa 5-6 ore di bus con le compagnie principali, meglio di giorno. Puno sta a 3.812 metri: chi arriva da bassa quota il primo giorno non programma niente.",
     comeSpostarsi: 'Barche collettive e tour organizzati dal porto di Puno; a Taquile e Amantaní ci si muove solo a piedi, in salita.',
     periodoMigliore: 'maggio-settembre per il sole; le notti sono gelide tutto l\'anno a quasi 3.900 metri',
-    costi: 'tour di due giorni con homestay indicativamente 30-60$ a persona, uno dei migliori rapporti qualità-prezzo del Perù',
+    costi: "Budget basso circa 25-40 € al giorno (ostello a Puno, menú, barca collettiva); medio 60-100 € (hotel in centro, tour di due giorni con homestay); alto da 150 € (hotel sul lago, barca privata). Il tour di due giorni Uros, Taquile e Amantaní costa circa 65-120 dollari secondo l'operatore, con barca, guida, quasi tutti i pasti e la notte in famiglia; gli ingressi alle isole sono piccoli biglietti in contanti. Sillustani circa 15 soles.",
     erroriDaEvitare: [
       'Arrivare a Puno direttamente da bassa quota: a 3.812 metri il mal d\'altitudine è più probabile che a Cusco',
       'Fare solo il giro degli Uros in mezza giornata e ripartire: è la parte più turistica e meno rappresentativa del lago',
@@ -1311,20 +1416,15 @@ export const destinazioniPeru: Destinazione[] = [
       'Gli Uros, va detto, sono una messa in scena turistica: mezz\'ora interessante di spiegazione su come si costruisce l\'isola di totora, e poco più. Poi Taquile, col pranzo e la vista sulla parte boliviana del lago. Il Titicaca è diventato un\'altra cosa ad Amantaní, dove abbiamo dormito in casa di una famiglia, abbiamo cenato con loro e siamo saliti al tempio di Pachatata per il tramonto. Non è comodo: bagno condiviso, acqua calda non garantita e, a 3.800 metri senza riscaldamento, la notte si gela. Ma è l\'unico punto del giro in cui si esce dal circuito turistico, ed è il momento del lago che mi è rimasto più impresso.',
     luoghi: [
       {
-        "nome": "Puno",
-        "testo": "La base del lago, che è a 3.812 metri. Ha un centro vivace e il porto da cui partono le barche. È più in alto di Cusco: il mal d'altitudine è più probabile.",
-        "come": "Da Cusco bus turistico con soste (una giornata), treno turistico o volo su Juliaca. Bus anche da Arequipa.",
-        "quando": "Stagione secca, per il sole.",
-        "tempo": "1-2 giorni",
-        "consiglio": "Arriva già acclimatato e non fare programmi pesanti il primo giorno."
-      },
-      {
-        "nome": "Isole degli Uros",
-        "testo": "Isole galleggianti di totora, costruite dalle comunità che ancora le abitano. La visita è turistica: una breve spiegazione su come si costruisce l'isola.",
-        "come": "Barca da Puno, tragitto breve.",
-        "quando": "Mattina.",
-        "tempo": "1-2 ore",
-        "consiglio": "Rick la definisce una messa in scena turistica: non dedicarci più del tempo necessario."
+        "nome": "Amantaní",
+        "testo": "L'isola dove si dorme in casa delle famiglie. Si cena con loro e si sale al tempio di Pachatata per il tramonto. Nessuna strada, nessun riscaldamento.",
+        "come": "Barca da Puno, di solito in un tour di due giorni.",
+        "quando": "Tramonto e alba.",
+        "tempo": "Una notte",
+        "costo": "Tour di due giorni con notte in famiglia circa 65-120 dollari secondo l'operatore; ingresso all'isola a parte, in contanti",
+        "lat": -15.65722,
+        "lng": -69.7182,
+        "consiglio": "È il momento del lago che a Rick è rimasto di più. Porta sacco a pelo caldo: bagno condiviso e acqua calda non garantita."
       },
       {
         "nome": "Taquile",
@@ -1332,39 +1432,105 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Barca da Puno, qualche ora di navigazione, poi a piedi in salita.",
         "quando": "Mattina e pranzo.",
         "tempo": "Mezza giornata",
+        "costo": "Piccolo biglietto d'ingresso all'isola, in contanti, di solito escluso dal prezzo del tour",
+        "lat": -15.77415,
+        "lng": -69.68389,
         "consiglio": "Si cammina in quota e in salita, con ritmo lento."
       },
       {
-        "nome": "Amantaní",
-        "testo": "L'isola dove si dorme in casa delle famiglie. Si cena con loro e si sale al tempio di Pachatata per il tramonto. Nessuna strada, nessun riscaldamento.",
-        "come": "Barca da Puno, di solito in un tour di due giorni.",
-        "quando": "Tramonto e alba.",
-        "tempo": "Una notte",
-        "costo": "Tour di due giorni con homestay: si prenota con le agenzie di Puno, confronta cosa include",
-        "consiglio": "È il momento del lago che a Rick è rimasto di più. Porta sacco a pelo caldo: bagno condiviso e acqua calda non garantita."
+        "nome": "Isole degli Uros",
+        "testo": "Isole galleggianti di totora, costruite dalle comunità che ancora le abitano. La visita è turistica: una breve spiegazione su come si costruisce l'isola.",
+        "come": "Barca da Puno, tragitto breve.",
+        "quando": "Mattina.",
+        "tempo": "1-2 ore",
+        "costo": "Piccolo biglietto d'ingresso alla comunità, in contanti; il giro sulla barca di totora si paga a parte",
+        "lat": -15.81913,
+        "lng": -69.96914,
+        "consiglio": "Rick la definisce una messa in scena turistica: non dedicarci più del tempo necessario."
       },
       {
         "nome": "Sillustani",
         "testo": "Torri funerarie preincaiche (chullpas) sulla riva della laguna Umayo, vicino a Puno.",
-        "come": "Tour di mezza giornata o taxi da Puno.",
+        "come": "Tour di mezza giornata o taxi da Puno, circa 45 minuti di strada (35 km)",
         "quando": "Pomeriggio, con luce bassa.",
         "tempo": "2-3 ore",
+        "costo": "Circa 15 soles (circa 4 €)",
+        "lat": -15.72165,
+        "lng": -70.15899,
         "consiglio": "Se hai poco tempo, scegli Amantaní al posto degli Uros e aggiungi questa a parte."
+      },
+      {
+        "nome": "Puno",
+        "testo": "La base del lago, che è a 3.812 metri. Ha un centro vivace e il porto da cui partono le barche. È più in alto di Cusco: il mal d'altitudine è più probabile.",
+        "come": "Da Cusco bus turistico con soste (una giornata), treno turistico o volo su Juliaca. Bus anche da Arequipa.",
+        "quando": "Stagione secca, per il sole.",
+        "tempo": "1-2 giorni",
+        "lat": -15.84111,
+        "lng": -70.02917,
+        "consiglio": "Arriva già acclimatato e non fare programmi pesanti il primo giorno."
+      },
+      {
+        "nome": "Plaza de Armas e cattedrale di Puno",
+        "testo": "La cattedrale barocca in pietra del Settecento chiude la piazza principale di Puno, collegata al porto dal Jirón Lima, la via pedonale dei ristoranti.",
+        "come": "A piedi dal centro.",
+        "quando": "Sera, quando il Jirón Lima si riempie.",
+        "tempo": "1 ora",
+        "lat": -15.84111,
+        "lng": -70.02917,
+        "consiglio": "A Puno il primo giorno basta questo: una passeggiata in piano e cena presto."
+      },
+      {
+        "nome": "Chucuito e il Templo de la Fertilidad",
+        "testo": "Un paese coloniale sulla riva del lago, a sud di Puno, con due chiese in pietra e l'Inca Uyo, un recinto pieno di sculture falliche in pietra legato ai culti della fertilità.",
+        "come": "Colectivo o taxi da Puno lungo la strada per la Bolivia, circa 30 minuti.",
+        "quando": "Mattina, combinabile con il viaggio verso il confine.",
+        "tempo": "1-2 ore",
+        "lat": -15.89447,
+        "lng": -69.88984,
+        "consiglio": "Si incastra bene sulla strada per Copacabana o in un pomeriggio libero."
+      },
+      {
+        "nome": "Penisola di Capachica e Llachón",
+        "testo": "Una penisola raggiungibile anche via terra, con spiagge, sentieri tra i campi e comunità che ospitano i visitatori in casa. È un'alternativa più tranquilla e meno costruita ad Amantaní.",
+        "come": "Bus o colectivo da Puno fino a Capachica e poi Llachón, circa 2 ore, oppure in barca con alcuni tour.",
+        "quando": "Stagione secca; una notte per vedere il tramonto sul lago.",
+        "tempo": "1-2 giorni",
+        "lat": -15.72292,
+        "lng": -69.78393,
+        "consiglio": "Si prenota direttamente con le famiglie o con le agenzie di turismo comunitario di Puno."
+      },
+      {
+        "nome": "Mirador Kuntur Wasi",
+        "testo": "Un belvedere con la grande statua di un condor sopra la città, da cui si vedono i tetti di Puno e la baia del lago.",
+        "come": "Scalinata dal centro, circa 600 gradini, oppure taxi fino in cima.",
+        "quando": "Tramonto.",
+        "tempo": "1 ora",
+        "lat": -15.84714,
+        "lng": -70.02995,
+        "consiglio": "Solo da acclimatati, e meglio in taxi la salita: a quasi 3.900 metri la scalinata si sente."
       }
     ],
     programmi: [
       {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: barca da Puno per gli Uros e Taquile, pranzo sull'isola",
+          "Pomeriggio: rientro a Puno",
+          "Sera: Plaza de Armas e Jirón Lima"
+        ]
+      },
+      {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: barca da Puno, Uros, Amantaní, cena con la famiglia",
-          "Giorno 2: alba, Taquile, rientro a Puno"
+          "Giorno 1: barca da Puno, Uros, Amantaní, tramonto a Pachatata e cena con la famiglia",
+          "Giorno 2: alba sull'isola, Taquile, rientro a Puno a metà giornata"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: Puno e Sillustani",
-          "Giorni 2-3: come nel programma da 2 giorni"
+          "Giorno 1: arrivo a Puno, Plaza de Armas e Sillustani nel pomeriggio",
+          "Giorni 2-3: come nel programma da 2 giorni, poi Chucuito sulla strada per la Bolivia o bus per Arequipa"
         ]
       }
     ],
@@ -1372,12 +1538,26 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Puno centro",
         "perChi": "Chi cerca logistica",
-        "testo": "Alloggi, agenzie e ristoranti, ma in quota le notti sono fredde."
+        "testo": "Alloggi, agenzie e ristoranti, ma in quota le notti sono fredde.",
+        "fascia": "30-100 €"
       },
       {
         "nome": "Amantaní (homestay)",
         "perChi": "Chi cerca l'esperienza vera",
-        "testo": "La famiglia ospita con cena. Bagno condiviso, nessun riscaldamento."
+        "testo": "La famiglia ospita con cena. Bagno condiviso, nessun riscaldamento.",
+        "fascia": "Incluso nel tour di 2 giorni"
+      },
+      {
+        "nome": "Riva del lago fuori Puno",
+        "perChi": "Chi cerca vista e silenzio",
+        "testo": "Alcuni hotel più grandi stanno sulla riva, a qualche chilometro dal centro, con camere sul lago. Servono taxi per ogni spostamento.",
+        "fascia": "80-200 €"
+      },
+      {
+        "nome": "Llachón (penisola di Capachica)",
+        "perChi": "Chi vuole il turismo comunitario senza barca",
+        "testo": "Case di famiglie e piccoli alloggi rurali, con cena inclusa. Si arriva anche via terra.",
+        "fascia": "25-60 €"
       }
     ],
     sapori: [
@@ -1398,6 +1578,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Quota: arrivare direttamente da bassa quota aumenta molto il rischio di soroche.",
       "Freddo notturno nelle case di Amantaní, senza riscaldamento.",
       "Il giro dei soli Uros in mezza giornata è la parte più turistica del lago."
+    ],
+    gite: [
+      {
+        "nome": "Copacabana e Isla del Sol (Bolivia)",
+        "distanza": "circa 3-4 ore di bus con la frontiera",
+        "come": "Bus turistico da Puno via il confine di Kasani, timbri a piedi, poi barca da Copacabana.",
+        "testo": "Il lato boliviano del lago, con il santuario di Copacabana e i sentieri tra le rovine inca dell'Isla del Sol. Ha senso con almeno una notte, ed è la strada naturale per La Paz."
+      },
+      {
+        "nome": "Sillustani",
+        "distanza": "circa 45 minuti, 35 km",
+        "come": "Tour di mezza giornata o taxi da Puno.",
+        "testo": "Le chullpas, torri funerarie dei Colla e poi degli Inca, sulla laguna Umayo. Al tramonto la pietra si accende."
+      },
+      {
+        "nome": "Lampa",
+        "distanza": "circa 1 ora e 30 in auto, circa 80 km",
+        "come": "Auto o colectivo via Juliaca.",
+        "testo": "La «città rosa», con una chiesa coloniale che custodisce una copia della Pietà di Michelangelo e una cripta con un mausoleo di ossa. Poco visitata."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono sul lago Titicaca?",
+        "risposta": "Due giorni con la notte ad Amantaní bastano per il lato peruviano. Con tre si aggiungono Sillustani e Chucuito, con quattro o cinque si passa anche in Bolivia."
+      },
+      {
+        "domanda": "Vale la pena dormire ad Amantaní?",
+        "risposta": "Sì, è il momento più autentico del lago. Le case sono semplici, con bagno condiviso, acqua calda non garantita e niente riscaldamento: serve un sacco a pelo caldo."
+      },
+      {
+        "domanda": "Le isole degli Uros sono una trappola per turisti?",
+        "risposta": "Sono la parte più organizzata del giro, ma la spiegazione su come si costruiscono le isole di totora è interessante. Basta non dedicarci più di un'ora."
+      },
+      {
+        "domanda": "Meglio Puno o Copacabana?",
+        "risposta": "Puno è la base per Uros, Taquile e Amantaní; Copacabana per l'Isla del Sol. Se il viaggio prosegue in Bolivia conviene vedere entrambe."
+      },
+      {
+        "domanda": "Il mal di quota a Puno è peggio che a Cusco?",
+        "risposta": "Puno sta a 3.812 metri, più di 400 sopra Cusco. Chi arriva già acclimatato da Cusco di solito sta bene; chi arriva in aereo da Lima deve prendersela con calma il primo giorno."
+      },
+      {
+        "domanda": "Come si va da Cusco a Puno?",
+        "risposta": "Il bus turistico con soste, circa 10 ore e 45-60 dollari, è la soluzione più interessante. Più rapido il bus di linea, più caro il treno panoramico, oppure volo su Juliaca."
+      }
     ],
     esperienzeSlugs: ['homestay-amantani'],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
@@ -1742,10 +1968,10 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire: 'Centro storico di Arequipa; Chivay o Cabanaconde come basi per il canyon.',
     doveMangiare:
       'La cucina arequipeña è diversa da quella del resto del Perù e vale la pena assaggiarla nelle picanterías tradizionali: rocoto relleno, adobo la domenica mattina e chupe de camarones. Nel canyon l\'offerta si riduce ai menù fissi dei piccoli ristoranti dei villaggi.',
-    comeArrivare: 'Volo da Lima (circa 1h30) o bus notturno; da Puno circa 6 ore di bus.',
+    comeArrivare: "Il volo da Lima dura circa 1 ora e 30; dall'aeroporto Rodríguez Ballón al centro ci sono circa 20-30 minuti di taxi ufficiale. Il bus da Lima impiega 15-16 ore, di notte. Da Puno ci sono circa 5-6 ore di bus con le compagnie principali, meglio di giorno per il paesaggio della riserva di Salinas y Aguada Blanca; dal terminal al centro circa 15-20 minuti di taxi. Per il Colca: Arequipa-Chivay circa 3-4 ore, con tour di due giorni o bus di linea fino a Chivay e Cabanaconde.",
     comeSpostarsi: 'Arequipa si gira a piedi; per il Colca tour organizzati di due giorni o bus di linea fino a Chivay e Cabanaconde.',
     periodoMigliore: 'maggio-settembre; i condor si avvistano tutto l\'anno ma con più probabilità nelle prime ore del mattino',
-    costi: 'Monastero di Santa Catalina 50 soles per gli stranieri adulti (2026); boleto turistico del Colca a parte',
+    costi: "Budget basso circa 30-45 € al giorno (ostello in centro, picantería a menú, bus di linea per il Colca); medio 70-110 € (hotel nel centro storico, tour del Colca di due giorni, ristoranti); alto da 180 € (hotel in casona coloniale, tour privato con lodge nel canyon). Santa Catalina 50 soles per gli stranieri adulti (2026); Boleto Turístico del Colca circa 70 soles, controllato lungo la strada, in contanti; terme di La Calera circa 15 soles.",
     erroriDaEvitare: [
       'Fare il Colca in un\'unica giornata da Arequipa: significa partire alle 3 del mattino e passare quasi tutto il tempo in pullman',
       'Sottovalutare la risalita dall\'oasi di Sangalle: circa 1.100 metri di dislivello, da fare prima che il sole picchi',
@@ -1754,30 +1980,27 @@ export const destinazioniPeru: Destinazione[] = [
       'È la città dove finalmente ho dormito bene: a 2.300 metri il corpo recupera, e dopo giorni passati in quota si sente. Il Monastero di Santa Catalina è il posto che mi è rimasto più impresso. Non mi aspettavo che fosse così grande: è una piccola città murata con i vicoli dipinti di blu e arancione. Alla Cruz del Cóndor invece bisogna arrivare con le aspettative giuste: i condor si alzano con le correnti del mattino e quando succede è impressionante, ma non è garantito e la piazzola è piena di gente. Vale comunque la sveglia all\'alba. Ad Arequipa sono stato anche come osteopata volontario, in una delle due volte in cui sono venuto in Perù a fare volontariato.',
     luoghi: [
       {
-        "nome": "Plaza de Armas e cattedrale di Arequipa",
-        "testo": "La piazza della città bianca, in sillar, la pietra vulcanica chiara, con portici e la cattedrale. Il vulcano Misti compare sullo sfondo.",
-        "come": "A piedi dal centro storico.",
-        "quando": "Sera, con la luce calda sul sillar.",
-        "tempo": "1 ora",
-        "consiglio": "Arequipa è più bassa di Cusco e Puno: è la tappa giusta per acclimatarsi prima di Cusco o Puno."
-      },
-      {
         "nome": "Monastero di Santa Catalina",
         "testo": "Una città nella città, con vicoli, cortili colorati e celle. Ci vivevano le monache domenicane, chiuse al mondo per secoli.",
         "come": "A piedi dal centro. Serve il passaporto per il biglietto da straniero.",
         "quando": "Tutti i giorni 9-17; il martedì e il mercoledì aperto fino alle 20 (ultimo ingresso alle 19). Chiuso il Venerdì Santo, il 25 dicembre e il 1° gennaio.",
         "tempo": "1,5-2 ore",
         "costo": "50 soles per gli stranieri adulti (2026)",
+        "orari": "Tutti i giorni 9-17; martedì e mercoledì fino alle 20 (ultimo ingresso alle 19). Chiuso il Venerdì Santo, il 25 dicembre e il 1° gennaio",
         "url": "https://www.santacatalina.org.pe/",
+        "lat": -16.39519,
+        "lng": -71.53656,
         "consiglio": "Visitalo a metà mattina o la sera per avere meno gruppi."
       },
       {
-        "nome": "Museo Santuarios Andinos e la mummia Juanita",
-        "testo": "Museo con la mummia di una ragazza inca sacrificata sul vulcano Ampato, ritrovata molto ben conservata.",
-        "come": "A piedi dal centro. Visita guidata.",
-        "quando": "Controlla orari e giorni di chiusura prima di andare.",
+        "nome": "Plaza de Armas e cattedrale di Arequipa",
+        "testo": "La piazza della città bianca, in sillar, la pietra vulcanica chiara, con portici e la cattedrale. Il vulcano Misti compare sullo sfondo.",
+        "come": "A piedi dal centro storico.",
+        "quando": "Sera, con la luce calda sul sillar.",
         "tempo": "1 ora",
-        "consiglio": "La visita è guidata e breve: vale la pena per capire il contesto del Colca."
+        "lat": -16.3981,
+        "lng": -71.53666,
+        "consiglio": "Arequipa è più bassa di Cusco e Puno: è la tappa giusta per acclimatarsi prima di Cusco o Puno."
       },
       {
         "nome": "Cruz del Cóndor",
@@ -1785,7 +2008,42 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Tour organizzato da Arequipa o bus di linea fino a Chivay e Cabanaconde, con trasferimento al belvedere.",
         "quando": "Prime ore del mattino, tutto l'anno.",
         "tempo": "1-2 ore sul punto",
+        "costo": "Coperto dal Boleto Turístico del Colca, circa 70 soles per gli stranieri, in contanti",
+        "lat": -15.61115,
+        "lng": -71.90644,
         "consiglio": "Dormi a Chivay o Cabanaconde la sera prima per arrivare presto."
+      },
+      {
+        "nome": "Museo Santuarios Andinos e la mummia Juanita",
+        "testo": "Museo con la mummia di una ragazza inca sacrificata sul vulcano Ampato, ritrovata molto ben conservata.",
+        "come": "A piedi dal centro. Visita guidata.",
+        "quando": "Controlla orari e giorni di chiusura prima di andare.",
+        "tempo": "1 ora",
+        "costo": "Circa 20-30 soles con la visita guidata obbligatoria, più la mancia alla guida",
+        "orari": "Orari ridotti la domenica: da controllare prima",
+        "lat": -16.39984,
+        "lng": -71.53772,
+        "consiglio": "La visita è guidata e breve: vale la pena per capire il contesto del Colca."
+      },
+      {
+        "nome": "Iglesia de la Compañía e i chiostri",
+        "testo": "La chiesa dei gesuiti accanto alla Plaza de Armas ha una facciata in sillar scolpita come un tappeto, con motivi andini mescolati al barocco. Accanto, i chiostri porticati ospitano negozi e caffè.",
+        "come": "A piedi dalla Plaza de Armas, all'angolo sud-est.",
+        "quando": "Mattina, con la luce sulla facciata.",
+        "tempo": "45 minuti",
+        "lat": -16.39992,
+        "lng": -71.53657,
+        "consiglio": "Dentro, la cappella di San Ignacio ha la cupola dipinta con piante e animali della selva: chiedi se è aperta."
+      },
+      {
+        "nome": "Mirador di Yanahuara",
+        "testo": "Una piazzetta con archi in sillar incisi di frasi di poeti arequipeños, nel quartiere tranquillo di Yanahuara. Da qui il Misti si vede incorniciato dagli archi.",
+        "come": "Circa 15 minuti a piedi dal centro attraversando il ponte Grau, o pochi minuti di taxi.",
+        "quando": "Mattina presto, quando i vulcani sono liberi dalle nuvole.",
+        "tempo": "1 ora",
+        "lat": -16.38747,
+        "lng": -71.54175,
+        "consiglio": "Fermati alla Lucila, la picantería storica del quartiere, per un queso helado."
       },
       {
         "nome": "Chivay e i bagni termali di La Calera",
@@ -1793,6 +2051,9 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Strada da Arequipa.",
         "quando": "Sera.",
         "tempo": "1-2 ore alle terme",
+        "costo": "Terme di La Calera circa 15 soles (circa 4 €)",
+        "lat": -15.63669,
+        "lng": -71.60222,
         "consiglio": "Una buona base per la prima notte nel canyon."
       },
       {
@@ -1801,23 +2062,94 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Parte da Cabanaconde; si può fare in autonomia o con guida.",
         "quando": "Stagione secca; scendi presto per evitare il caldo.",
         "tempo": "2 giorni",
+        "costo": "Coperto dal Boleto Turístico del Colca, circa 70 soles; alloggi nell'oasi semplici ed economici",
+        "lat": -15.59673,
+        "lng": -71.97572,
         "consiglio": "La risalita è dura: parti al buio per evitare il sole."
+      },
+      {
+        "nome": "Mercado San Camilo",
+        "testo": "Il mercato coperto del centro, in una struttura in ferro di fine Ottocento: banchi di frutta, succhi, formaggi e una zona di cucine dove si mangia a poco.",
+        "come": "A piedi dalla Plaza de Armas, a sud.",
+        "quando": "Mattina, prima di pranzo.",
+        "tempo": "1 ora",
+        "lat": -16.40309,
+        "lng": -71.535,
+        "consiglio": "Ordina un succo di frutta ai banchi centrali e il queso helado; borsa davanti tra la folla."
+      },
+      {
+        "nome": "Casa del Moral",
+        "testo": "Una casona del Settecento in sillar, chiamata così per il vecchio gelso del cortile, con un portale scolpito e stanze arredate in stile coloniale. Dà un'idea di come vivevano le famiglie ricche della città.",
+        "come": "A piedi dal centro, a due isolati dalla piazza.",
+        "quando": "Di giorno.",
+        "tempo": "45 minuti",
+        "lat": -16.39694,
+        "lng": -71.53778,
+        "consiglio": "Si combina con la Compañía e Santa Catalina nella stessa mattina."
+      },
+      {
+        "nome": "Mirador de los Volcanes (Patapampa)",
+        "testo": "Il passo sulla strada per il Colca, a circa 4.900 metri: un campo di piccole torri di pietra con la vista su una fila di vulcani, dal Misti all'Ampato. È il punto più alto del viaggio verso Chivay.",
+        "come": "Sosta dei tour e dei bus turistici tra Arequipa e Chivay.",
+        "quando": "Mattina, prima delle nuvole.",
+        "tempo": "15-20 minuti",
+        "lat": -15.75245,
+        "lng": -71.58212,
+        "consiglio": "Si scende dal bus piano e senza correre: la quota è altissima anche per chi viene da Cusco."
+      },
+      {
+        "nome": "Molino de Sabandía",
+        "testo": "Un mulino in pietra del Seicento, ancora funzionante, in mezzo alla campagna terrazzata a sud della città, con il Pichu Pichu e il Misti sullo sfondo.",
+        "come": "Circa 20-30 minuti di taxi dal centro, spesso nei tour della campagna arequipeña.",
+        "quando": "Mattina, nelle giornate limpide.",
+        "tempo": "1-2 ore con il viaggio",
+        "lat": -16.45654,
+        "lng": -71.49963,
+        "consiglio": "Si unisce bene a un pranzo in una picantería della campagna, come si usa la domenica."
+      },
+      {
+        "nome": "Mundo Alpaca",
+        "testo": "Un piccolo spazio nel centro con lama e alpaca e un laboratorio dove si vede come la fibra viene selezionata, filata e tessuta. Utile per capire cosa si compra nei negozi di lana.",
+        "come": "A piedi dal centro, nella zona di San Lázaro.",
+        "quando": "Di giorno.",
+        "tempo": "30-45 minuti",
+        "lat": -16.39279,
+        "lng": -71.53551,
+        "consiglio": "Ingresso gratuito, ma è anche un negozio: si guarda senza obbligo di comprare."
       }
     ],
     programmi: [
       {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Plaza de Armas, cattedrale e Iglesia de la Compañía",
+          "Museo Santuarios Andinos e pranzo al Mercado San Camilo",
+          "Pomeriggio: Monastero di Santa Catalina",
+          "Tramonto al Mirador di Yanahuara e cena in una picantería"
+        ]
+      },
+      {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Plaza de Armas e Santa Catalina",
-          "Giorno 2: Museo Santuarios Andinos e partenza per Chivay"
+          "Giorno 1: programma da 1 giorno",
+          "Giorno 2: partenza per il Colca, Mirador de los Volcanes, Chivay e terme di La Calera, notte a Chivay"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
+          "Giorno 1: Arequipa come nel programma da 1 giorno",
+          "Giorno 2: strada per Chivay con Patapampa, terme di La Calera",
+          "Giorno 3: Cruz del Cóndor all'alba, villaggi del canyon e rientro ad Arequipa o proseguimento per Puno"
+        ]
+      },
+      {
+        "titolo": "4 giorni (con il trek)",
+        "tappe": [
           "Giorno 1: Arequipa",
-          "Giorno 2: Chivay, terme di La Calera",
-          "Giorno 3: Cruz del Cóndor all'alba e rientro o proseguimento per Puno"
+          "Giorno 2: bus per Cabanaconde, Cruz del Cóndor",
+          "Giorno 3: discesa all'oasi di Sangalle",
+          "Giorno 4: risalita all'alba e rientro ad Arequipa"
         ]
       }
     ],
@@ -1825,17 +2157,26 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Centro storico di Arequipa",
         "perChi": "Chi visita la città",
-        "testo": "La zona più comoda per monastero e piazza. Alcune vie sono rumorose di notte."
+        "testo": "La zona più comoda per monastero e piazza. Alcune vie sono rumorose di notte.",
+        "fascia": "35-130 €"
       },
       {
         "nome": "Chivay",
         "perChi": "Chi visita il canyon senza trekking",
-        "testo": "Paese più grande della valle, con terme e mercato. In quota, fredda di notte."
+        "testo": "Paese più grande della valle, con terme e mercato. In quota, fredda di notte.",
+        "fascia": "30-150 €"
       },
       {
         "nome": "Cabanaconde",
         "perChi": "Chi vuole camminare",
-        "testo": "Il paese vicino alla Cruz del Cóndor e al sentiero per Sangalle. Alloggi semplici."
+        "testo": "Il paese vicino alla Cruz del Cóndor e al sentiero per Sangalle. Alloggi semplici.",
+        "fascia": "20-60 €"
+      },
+      {
+        "nome": "Yanahuara e Vallecito",
+        "perChi": "Chi preferisce la calma",
+        "testo": "Quartieri residenziali a 10-15 minuti a piedi dal centro, più silenziosi la notte e con qualche hotel in case con giardino.",
+        "fascia": "40-110 €"
       }
     ],
     sapori: [
@@ -1861,6 +2202,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Quota nel Colca: i paesi e i belvedere sono in alta quota.",
       "Il trek di Sangalle in estate è molto caldo nel fondo.",
       "Non comprare tour con prezzi molto bassi: spesso saltano le soste."
+    ],
+    gite: [
+      {
+        "nome": "Canyon del Colca",
+        "distanza": "3-4 ore di strada fino a Chivay, circa 160 km",
+        "come": "Tour di due giorni da Arequipa o bus di linea per Chivay e Cabanaconde.",
+        "testo": "Villaggi coloniali, terrazzamenti preincaici e i condor della Cruz del Cóndor. In un giorno solo si passa quasi tutto il tempo in pullman: meglio due."
+      },
+      {
+        "nome": "Riserva di Salinas y Aguada Blanca",
+        "distanza": "1-2 ore di strada",
+        "come": "Sulla strada per il Colca o per Puno; i tour si fermano nei punti con le vigogne.",
+        "testo": "Altopiano a oltre 4.000 metri con vigogne, alpaca e lagune d'alta quota a pochi metri dalla strada."
+      },
+      {
+        "nome": "Petroglifi di Toro Muerto",
+        "distanza": "circa 3 ore di strada",
+        "come": "Auto con autista o tour da Arequipa, verso Corire.",
+        "testo": "Migliaia di pietre vulcaniche incise con figure di uomini, animali e motivi geometrici in un deserto. Una giornata lontana dai circuiti, con caldo forte a mezzogiorno."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono ad Arequipa e nel Colca?",
+        "risposta": "Un giorno pieno per la città e due per il canyon, quindi tre in tutto. Con il trek fino a Sangalle se ne aggiunge un quarto."
+      },
+      {
+        "domanda": "Si può fare il Colca in giornata?",
+        "risposta": "Si può, ma si parte verso le 3 del mattino e si passa gran parte del giorno sul pullman. Il tour di due giorni con la notte a Chivay è molto meglio."
+      },
+      {
+        "domanda": "Quando si vedono i condor alla Cruz del Cóndor?",
+        "risposta": "Di solito tra le 8 e le 10 del mattino, quando si alzano le correnti termiche. Ci sono tutto l'anno, ma l'avvistamento non è mai garantito."
+      },
+      {
+        "domanda": "Quanto costa il Monastero di Santa Catalina?",
+        "risposta": "50 soles per gli stranieri adulti nel 2026, con il passaporto. È aperto tutti i giorni dalle 9 alle 17, il martedì e il mercoledì fino alle 20."
+      },
+      {
+        "domanda": "Arequipa aiuta con il mal di quota?",
+        "risposta": "Sì: a circa 2.300 metri è una tappa intermedia ideale prima di Puno o Cusco. Nel Colca però si superano i 4.800 metri al passo di Patapampa."
+      },
+      {
+        "domanda": "Serve una guida per il trek di Sangalle?",
+        "risposta": "Il sentiero da Cabanaconde è segnato e molti lo fanno da soli in stagione secca. La risalita è di circa 1.100 metri: si parte al buio con molta acqua."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
@@ -1894,10 +2281,10 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire: 'Huaraz è la base di tutto: ostelli e piccoli hotel, con agenzie di trekking a ogni angolo.',
     doveMangiare:
       'Huaraz è una città di montagna e si mangia di conseguenza: zuppe calde a ogni pasto, trucha (trota) degli allevamenti in quota, cuy e il pachamanca, la carne cotta sotto terra con pietre roventi, che si trova soprattutto nei fine settimana. Il mercato centrale al mattino serve caldo de gallina e gli infusi di erbe d\'altura che nei primi giorni aiutano. Per le giornate di trekking, il pranzo al sacco lo preparano le agenzie o lo si compra al mercato: sui sentieri non c\'è nulla.',
-    comeArrivare: 'Bus notturno da Lima, circa 8 ore. Non ci sono voli regolari comodi: la strada è la via normale.',
+    comeArrivare: "Non ci sono voli comodi: da Lima si va in bus notturno, circa 8 ore, con partenze verso le 22 e arrivo all'alba. I biglietti nelle classi migliori costano circa 80-150 soles, online o al terminal; Cruz del Sur e Movil Tours sono tra le compagnie principali. Una felpa a portata di mano serve, perché l'aria condizionata è forte. A Huaraz conviene chiedere prima il check-in anticipato e tenere la prima giornata libera: la città sta a circa 3.050 metri.",
     comeSpostarsi: 'Collettivi e tour giornalieri dalle agenzie di Huaraz per tutti i punti di partenza dei trek.',
     periodoMigliore: 'da maggio a settembre, la stagione secca: nel resto dell\'anno i sentieri in quota diventano impraticabili',
-    costi: 'tra le zone più economiche del Perù: una giornata guidata alla Laguna 69 costa poche decine di dollari',
+    costi: "Budget basso circa 25-40 € al giorno (ostello, menú, colectivos per i sentieri); medio 50-90 € (hotel in centro, tour giornalieri con agenzia); alto da 150 € (lodge in montagna, trek con guida privata). Ingresso al Parco Nazionale Huascarán circa 30 soles per un giorno (circa 8 €), con biglietti per più giorni per i trek; Chavín de Huántar circa 15 soles; tour del Pastoruri circa 35-65 dollari secondo che l'ingresso sia incluso. Contanti da prelevare in città: sui sentieri le carte non servono.",
     erroriDaEvitare: [
       'Arrivare da Lima (livello del mare) e partire il giorno dopo per la Laguna 69 a 4.600 metri: serve acclimatarsi a Huaraz per almeno due giorni',
       'Affidarsi alle agenzie più economiche senza verificare guide e attrezzatura, soprattutto per i trek multi-giorno',
@@ -1908,9 +2295,13 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Laguna 69",
         "testo": "La laguna turchese a 4.600 metri, dal colore che sembra ritoccato. È il trek di giornata classico della Cordillera Blanca, duro per la quota più che per la distanza.",
-        "come": "Escursione di un giorno con partenza all'alba da Huaraz, qualche ora di strada e poi qualche ora di cammino in salita. Si fa con agenzia o in collettivo.",
+        "come": "Escursione di un giorno con partenza verso le 5 da Huaraz, qualche ora di strada fino a Cebollapampa e poi circa 3 ore di salita e 2 di discesa. Il SERNANP ha limitato l'accesso alle agenzie autorizzate: verifica che la tua lo sia.",
         "quando": "Stagione secca. Parti presto per avere il cielo pulito.",
         "tempo": "Giornata intera",
+        "costo": "Ingresso al Parco Nazionale Huascarán circa 30 soles (circa 8 €), di solito gestito dall'agenzia; tour giornaliero a parte",
+        "url": "https://tuticket.sernanp.gob.pe/",
+        "lat": -9.01035,
+        "lng": -77.61204,
         "consiglio": "Rick racconta gli ultimi quaranta minuti sopra i 4.500 metri come una lotta col fiato: venti passi e una sosta. Acclimatati a Huaraz almeno due giorni."
       },
       {
@@ -1919,6 +2310,9 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Con agenzia, con muli e cuoco, da Huaraz, con un lungo trasferimento all'inizio.",
         "quando": "Stagione secca.",
         "tempo": "4 giorni",
+        "costo": "Biglietto del Parco Nazionale Huascarán per più giorni, più il pacchetto dell'agenzia con guida, cuoco e muli: chiedi se l'ingresso è incluso",
+        "lat": -8.91257,
+        "lng": -77.58174,
         "consiglio": "Verifica la guida e l'attrezzatura: le agenzie più economiche non sono sempre affidabili."
       },
       {
@@ -1927,7 +2321,31 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Collettivo o tour giornaliero da Huaraz, con un tratto di strada su pista.",
         "quando": "Mattina presto.",
         "tempo": "Mezza giornata o giornata",
+        "lat": -8.99909,
+        "lng": -77.68423,
         "consiglio": "Una buona alternativa se la Laguna 69 è troppo faticosa."
+      },
+      {
+        "nome": "Laguna Churup",
+        "testo": "Un lago glaciale verde sotto il Nevado Churup, a circa 4.450 metri. È la camminata di acclimatamento classica prima della Laguna 69, con un ultimo tratto su roccia attrezzato con cavi.",
+        "come": "Colectivo o taxi da Huaraz fino a Pitec, circa 45 minuti, poi 2-3 ore di salita.",
+        "quando": "Mattina, per avere il tempo di rientrare con i colectivos del pomeriggio.",
+        "tempo": "Giornata",
+        "costo": "Ingresso al Parco Nazionale Huascarán circa 30 soles per un giorno",
+        "lat": -9.48531,
+        "lng": -77.43286,
+        "consiglio": "Acqua, pranzo al sacco e strati caldi: in quota il tempo cambia in fretta."
+      },
+      {
+        "nome": "Lagune di Llanganuco",
+        "testo": "Due lagune turchesi, Chinancocha e Orconcocha, in una valle glaciale sotto il Huascarán, con boschi di queñua sulle rive. Si raggiungono in auto, quindi vanno bene anche per chi non cammina.",
+        "come": "Tour di un giorno da Huaraz via Yungay, o colectivo per Yungay e poi auto. Sulla stessa strada c'è l'inizio della Laguna 69.",
+        "quando": "Mattina, prima che il vento increspi l'acqua.",
+        "tempo": "Mezza giornata o giornata",
+        "costo": "Ingresso al Parco Nazionale Huascarán circa 30 soles",
+        "lat": -9.07488,
+        "lng": -77.64492,
+        "consiglio": "Buona prima uscita in quota: si sta intorno ai 3.850 metri senza sforzi."
       },
       {
         "nome": "Chavín de Huántar",
@@ -1935,6 +2353,10 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Tour di giornata da Huaraz, con un lungo viaggio in strada.",
         "quando": "Mattina; le gallerie sono più fresche.",
         "tempo": "Giornata intera con trasferimenti",
+        "costo": "Circa 15 soles (circa 4 €); il museo ha un biglietto a parte",
+        "orari": "Chiuso il lunedì; aperto dalle 9 al pomeriggio",
+        "lat": -9.59375,
+        "lng": -77.17792,
         "consiglio": "Visita il museo: spiega molto del sito."
       },
       {
@@ -1943,23 +2365,72 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Tour di giornata, con breve cammino finale.",
         "quando": "Mattina.",
         "tempo": "Giornata intera",
+        "costo": "Tour circa 35-65 dollari secondo che l'ingresso al parco (circa 30 soles) sia incluso",
+        "lat": -9.91446,
+        "lng": -77.17732,
         "consiglio": "La quota è alta: chiedi la sosta di acclimatamento."
+      },
+      {
+        "nome": "Puya Raimondi (Pachacoto)",
+        "testo": "La pianta più grande della famiglia delle bromeliacee, che fiorisce una sola volta dopo decenni con un'infiorescenza alta fino a 10 metri. Il bosco di Puya si attraversa sulla strada per il Pastoruri.",
+        "come": "Sosta del tour del Pastoruri, nella valle di Pachacoto.",
+        "quando": "Mattina, durante il tour.",
+        "tempo": "20-30 minuti",
+        "lat": -9.85226,
+        "lng": -77.40678,
+        "consiglio": "Le piante in fiore non sono garantite, ma il paesaggio d'altopiano vale la sosta."
+      },
+      {
+        "nome": "Wilcahuaín",
+        "testo": "Un sito archeologico della cultura Wari, con un edificio in pietra a tre piani e stanze interne, a pochi chilometri da Huaraz. Poco visitato e adatto al primo giorno.",
+        "come": "Colectivo o taxi da Huaraz, circa 20 minuti, oppure a piedi in salita.",
+        "quando": "Pomeriggio del primo o secondo giorno.",
+        "tempo": "1-2 ore",
+        "lat": -9.48785,
+        "lng": -77.5165,
+        "consiglio": "Si può tornare a piedi in discesa verso la città per sgranchire le gambe senza fatica."
+      },
+      {
+        "nome": "Laguna Wilcacocha",
+        "testo": "Una piccola laguna sul versante della Cordillera Negra, di fronte alla Cordillera Blanca: la vista sulle cime innevate è la ragione della camminata.",
+        "come": "Colectivo verso il sud fino al ponte di Chiwipampa, poi circa 2 ore di salita.",
+        "quando": "Mattina limpida.",
+        "tempo": "Mezza giornata",
+        "lat": -9.59673,
+        "lng": -77.53186,
+        "consiglio": "È una camminata di acclimatamento più facile della Churup, adatta al secondo giorno."
       }
     ],
     programmi: [
       {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Arrivo all'alba col bus notturno, colazione e riposo",
+          "Pomeriggio: Wilcahuaín a passo lento",
+          "Sera: giro delle agenzie per prenotare le uscite dei giorni seguenti"
+        ]
+      },
+      {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Huaraz e acclimatamento (città, mercato)",
-          "Giorno 2: Laguna 69 o Parón"
+          "Giorno 1: arrivo, riposo e Wilcahuaín",
+          "Giorno 2: lagune di Llanganuco in giornata, intorno ai 3.850 metri"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: Huaraz, acclimatamento",
-          "Giorno 2: Laguna 69",
-          "Giorno 3: Chavín o Parón"
+          "Giorno 1: arrivo e Wilcahuaín",
+          "Giorno 2: Laguna Churup o Wilcacocha per acclimatarsi",
+          "Giorno 3: Chavín de Huántar (non di lunedì) o lagune di Llanganuco"
+        ]
+      },
+      {
+        "titolo": "5-7 giorni",
+        "tappe": [
+          "Giorni 1-3 come nel programma da 3 giorni",
+          "Giorno 4: Laguna 69",
+          "Giorno 5: Pastoruri e Puya Raimondi, oppure inizio del trek di Santa Cruz (4 giorni)"
         ]
       }
     ],
@@ -1967,7 +2438,20 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Huaraz centro",
         "perChi": "Chi cerca la base per i trek",
-        "testo": "Ostelli e piccoli hotel, agenzie a ogni angolo. Il paese non è bello, ma è comodo."
+        "testo": "Ostelli e piccoli hotel, agenzie a ogni angolo. Il paese non è bello, ma è comodo.",
+        "fascia": "20-80 €"
+      },
+      {
+        "nome": "Barrio de la Soledad e Independencia",
+        "perChi": "Chi cerca più calma e vista",
+        "testo": "Quartieri in salita a est del centro, più silenziosi, con ostelli e piccoli hotel con terrazze sulle montagne. Si raggiunge il centro in 10 minuti a piedi.",
+        "fascia": "25-70 €"
+      },
+      {
+        "nome": "Lodge nella valle (Yungay, Caraz, Pitec)",
+        "perChi": "Chi vuole dormire in montagna",
+        "testo": "Pochi lodge fuori città, più vicini ai sentieri e con meno rumore. Servono auto o colectivos per ogni spostamento.",
+        "fascia": "50-150 €"
       }
     ],
     sapori: [
@@ -1993,6 +2477,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Verifica guide e attrezzatura dei trek multi-giorno prima di pagare.",
       "Bus notturno Lima-Huaraz: solo compagnie principali.",
       "Nessuna copertura telefonica sui trek."
+    ],
+    gite: [
+      {
+        "nome": "Chavín de Huántar",
+        "distanza": "circa 3 ore di strada, 110 km",
+        "come": "Tour di un giorno da Huaraz attraverso il tunnel di Kahuish.",
+        "testo": "Il centro cerimoniale preincaico Patrimonio UNESCO, con gallerie sotterranee e il Lanzón, la stele di pietra al centro del labirinto. Chiuso il lunedì."
+      },
+      {
+        "nome": "Caraz e la Laguna Parón",
+        "distanza": "circa 1 ora e 30 fino a Caraz, poi 1 ora e 30 di pista",
+        "come": "Colectivo per Caraz, poi auto o colectivo fino alla laguna.",
+        "testo": "Caraz è un paese più tranquillo di Huaraz, all'uscita del trek di Santa Cruz; la Parón è la laguna più grande della cordigliera, sotto l'Artesonraju."
+      },
+      {
+        "nome": "Pastoruri",
+        "distanza": "circa 2 ore di strada, 70 km",
+        "come": "Tour di 8-10 ore da Huaraz.",
+        "testo": "Un ghiacciaio in forte ritiro raggiungibile in giornata, con l'ultimo tratto a piedi a circa 5.000 metri e la sosta alle Puya Raimondi."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Huaraz?",
+        "risposta": "Almeno quattro: due per acclimatarsi, uno per la Laguna 69 e uno per Chavín o il Pastoruri. Con il trek di Santa Cruz si arriva a una settimana."
+      },
+      {
+        "domanda": "Si può andare alla Laguna 69 da soli?",
+        "risposta": "Il SERNANP ha ristretto l'accesso alla Laguna 69 alle agenzie autorizzate, quindi la soluzione normale è il tour giornaliero da Huaraz. Conviene chiedere all'agenzia la sua autorizzazione."
+      },
+      {
+        "domanda": "Quanto è difficile la Laguna 69?",
+        "risposta": "La distanza è moderata, la quota no: si sale fino a circa 4.600 metri in circa 3 ore. Senza due giorni di acclimatamento a Huaraz è una giornata molto dura."
+      },
+      {
+        "domanda": "Quanto costa l'ingresso al Parco Nazionale Huascarán?",
+        "risposta": "Circa 30 soles per un giorno per gli stranieri, con biglietti per più giorni per i trek. Si compra online sul portale del SERNANP o al posto di controllo."
+      },
+      {
+        "domanda": "Quando andare nella Cordillera Blanca?",
+        "risposta": "Da maggio a settembre, la stagione secca. Nel resto dell'anno piove spesso e i sentieri in quota diventano fangosi o impraticabili."
+      },
+      {
+        "domanda": "Chavín de Huántar è aperto tutti i giorni?",
+        "risposta": "No, chiude il lunedì. Il tour parte la mattina e rientra la sera, con circa 3 ore di strada per tratta."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],

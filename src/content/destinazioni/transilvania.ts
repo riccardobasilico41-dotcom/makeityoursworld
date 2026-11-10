@@ -219,10 +219,10 @@ export const destinazioniTransilvania: Destinazione[] = [
     doveDormire:
       'Curtea Brașoveana, a piedi dal centro storico, con ottime recensioni: staff molto disponibile, camere pulite, bel giardino.\n\nAlternative: economiche: Drachenhaus, Pensiunea Casa Cranta · fascia media: Vila Katharina · lusso (contenuto): Casa Wagner, Radisson Blu Aurum Hotel Brașov.',
     doveMangiare: 'Sergiana (zuppe fumanti in pagnotte scavate, stufati alla paprika) o Casa Românească; dopocena al Deane\'s Irish Pub & Grill o al Musik Cafe.',
-    comeArrivare: 'Poco distante da Bran, in auto.',
+    comeArrivare: "Poco distante da Bran, in auto. Da Bucarest si arriva in auto lungo la valle di Prahova: circa 2 ore fino a Sinaia, poi un'ora fino a Bran e mezz'ora fino a Brașov, oppure circa 3 ore senza soste. Ci sono anche treni diretti dalla stazione Gara de Nord di Bucarest, e l'aeroporto di Bucarest Otopeni è collegato alla Gara de Nord dal treno in 20-25 minuti. In centro si gira a piedi; l'auto serve per Râșnov, Bran e Prejmer.",
     comeSpostarsi: 'A piedi in centro; in auto fino a Râșnov.',
     periodoMigliore: 'tardo pomeriggio, per la luce sulla rocca',
-    costi: 'I prezzi di Sergiana non me li sono segnati; vino e palinka però costano più della media.',
+    costi: "I prezzi di Sergiana non me li sono segnati; vino e palinka però costano più della media. Budget giornaliero a persona, indicativo: basso 40-60 € (pensione e trattorie), medio 70-110 € (hotel in centro, ristoranti tipici, un paio di ingressi), alto da 150 €. Ingressi verificati per il 2026: Chiesa Nera 30 lei (circa 6 €), funivia del Tâmpa 45 lei andata e ritorno (circa 9 €).",
     erroriDaEvitare: ['Non prenotare per tempo i ristoranti tipici più piccoli'],
     miaEsperienza:
       'La Fortezza di Râșnov, con la scritta "RASNOV" in stile hollywoodiano che si vede dalla rocca, ha un\'atmosfera più da Signore degli Anelli che da Dracula. È stata una delle chicche meno turistiche di tutto il viaggio.',
@@ -234,6 +234,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         quando: "Mattino e sera, quando si illumina.",
         tempo: "1 ora",
         costo: "ingresso libero",
+        orari: "Sempre accessibile.",
+        lat: 45.6422,
+        lng: 25.58922,
         consiglio: "Pranzo con zuppa in pagnotta da Sergiana."
       },
       {
@@ -242,6 +245,11 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "A piedi dalla Piața Sfatului.",
         quando: "Mattina.",
         tempo: "45 minuti",
+        costo: "30 lei, circa 6 € (2026)",
+        orari: "Dal 16 ottobre ad aprile: martedì-sabato 10-18, domenica e lunedì 12-18. Dal 1° aprile al 15 ottobre chiude alle 19.",
+        lat: 45.641,
+        lng: 25.58807,
+        url: "https://bisericaneagra.ro/program/",
         consiglio: "I concerti d'organo estivi sono un'ottima occasione per vederla."
       },
       {
@@ -250,7 +258,42 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "Funivia o sentiero a piedi.",
         quando: "Tardo pomeriggio.",
         tempo: "1,5-2 ore",
+        costo: "Funivia andata e ritorno 45 lei, circa 9 € (2026); a piedi gratis",
+        lat: 45.63463,
+        lng: 25.59346,
+        url: "https://www.telecabina-tampa.ro/ro/bilete",
         consiglio: "La salita a piedi è facile ma ripida in alcuni punti."
+      },
+      {
+        nome: "Casa Sfatului e Museo di Storia",
+        testo: "Il vecchio municipio al centro di Piața Sfatului, con la Torre delle Trombe da cui si avvistavano gli incendi e i nemici. Dentro c'è il Museo di Storia della contea, con le sale sulla Brașov medievale e sulle corporazioni sassoni.",
+        come: "A piedi, nel mezzo della piazza.",
+        quando: "Mattina, abbinato alla piazza.",
+        tempo: "45 minuti-1 ora",
+        lat: 45.64234,
+        lng: 25.58896
+      },
+      {
+        nome: "Strada Republicii",
+        testo: "La via pedonale che parte da Piața Sfatului verso nord, con facciate ottocentesche, caffè e negozi. È il passeggio serale della città e il modo più semplice per orientarsi nel centro.",
+        come: "A piedi da Piața Sfatului.",
+        quando: "Sera, quando si riempie.",
+        tempo: "30 minuti",
+        costo: "gratuito",
+        orari: "Sempre accessibile.",
+        lat: 45.64249,
+        lng: 25.59077
+      },
+      {
+        nome: "Porta Caterina e Porta Șchei",
+        testo: "Porta Caterina, del 1559, con le quattro torrette angolari, è l'unica porta medievale della città rimasta intatta; a pochi metri c'è la neoclassica Porta Șchei, del 1828. Separavano la cittadella sassone dal quartiere romeno di Șchei.",
+        come: "A piedi, all'estremità sud-ovest del centro, vicino a Strada Sforii.",
+        quando: "Giorno.",
+        tempo: "20 minuti",
+        costo: "gratuito (esterni)",
+        orari: "Sempre visibili dall'esterno.",
+        lat: 45.63952,
+        lng: 25.5861
       },
       {
         nome: "Strada Sforii",
@@ -259,7 +302,38 @@ export const destinazioniTransilvania: Destinazione[] = [
         quando: "Giorno.",
         tempo: "10 minuti",
         costo: "ingresso libero",
+        orari: "Sempre accessibile.",
+        lat: 45.63954,
+        lng: 25.58859,
         consiglio: "Da combinare con un giro in centro."
+      },
+      {
+        nome: "Torre Nera e Torre Bianca",
+        testo: "Due torri di guardia sulle mura occidentali, sul fianco della collina. Si sale per sentieri e scalinate brevi, e la vista sui tetti del centro e sulla Chiesa Nera è tra le migliori della città senza prendere la funivia.",
+        come: "A piedi dal lato ovest delle mura, lungo la passeggiata sotto la collina (Aleea după Ziduri).",
+        quando: "Tardo pomeriggio, con la luce sui tetti.",
+        tempo: "1 ora per entrambe",
+        costo: "Belvedere gratuito",
+        lat: 45.64128,
+        lng: 25.58564
+      },
+      {
+        nome: "Bastione dei Tessitori",
+        testo: "Il bastione meglio conservato delle mura, costruito dalla corporazione dei tessitori, con tre piani di ballatoi in legno. Dentro c'è una sezione del Museo di Storia con un plastico della Brașov del Seicento.",
+        come: "A piedi, lungo le mura sud-orientali ai piedi del Tâmpa, vicino alla stazione della funivia.",
+        quando: "Prima o dopo la salita sul Tâmpa.",
+        tempo: "45 minuti",
+        lat: 45.63693,
+        lng: 25.58899
+      },
+      {
+        nome: "Șchei: Chiesa di San Nicola e Prima Scuola Romena",
+        testo: "Nel quartiere dove vivevano i romeni, fuori dalle mura sassoni, c'è la chiesa ortodossa di San Nicola, con il suo campanile slanciato. Accanto, la Prima Scuola Romena, un museo che ricorda la prima scuola in lingua romena e conserva libri antichi e una vecchia tipografia.",
+        come: "A piedi da Porta Șchei, circa 10 minuti in salita per Strada Prundului e Piața Unirii.",
+        quando: "Mattina.",
+        tempo: "1 ora",
+        lat: 45.63587,
+        lng: 25.58121
       },
       {
         nome: "Fortezza di Râșnov",
@@ -267,7 +341,40 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "Poco fuori Brașov, nella cittadina di Râșnov; si sale a piedi o con i mezzi in funzione sul posto.",
         quando: "Tardo pomeriggio, per la luce sulla rocca.",
         tempo: "1,5-2 ore",
+        orari: "Fortezza in restauro (2026): si visita il giardino della cittadella, con biglietto all'ingresso. Estate 9-19, inverno 9-17.",
+        lat: 45.59059,
+        lng: 25.46938,
+        url: "https://www.cetatea-rasnov.ro",
         consiglio: "Una cittadella contadina: serviva da rifugio agli abitanti durante le guerre."
+      },
+      {
+        nome: "Chiesa fortificata di Prejmer",
+        testo: "La più grande chiesa fortificata della Transilvania, patrimonio UNESCO: una chiesa gotica circondata da un anello di mura alte circa 12 metri, con dentro oltre 270 piccole stanze su più piani dove si rifugiavano le famiglie durante gli assedi. È il miglior esempio di come i villaggi sassoni si difendevano.",
+        come: "In auto, circa 20 km a nord-est di Brașov.",
+        quando: "Mattina o primo pomeriggio.",
+        tempo: "1 ora",
+        lat: 45.722,
+        lng: 25.77374
+      },
+      {
+        nome: "Santuario degli orsi LiBEARty, Zărnești",
+        testo: "Una riserva nel bosco che ospita orsi bruni salvati da gabbie, circhi e ristoranti. Si visita solo con un tour guidato lungo passerelle e recinti molto ampi; è un modo per vedere gli orsi senza disturbare quelli selvatici.",
+        come: "In auto, circa 30 km a sud-ovest di Brașov, vicino a Zărnești. Biglietti solo online, fino a 14 giorni prima.",
+        quando: "Al mattino, quando gli orsi sono attivi: va messo come prima cosa della giornata.",
+        tempo: "2 ore con il tragitto dal parcheggio",
+        lat: 45.5951,
+        lng: 25.37777,
+        consiglio: "Con la Transfăgărășan aperta si può saltare: gli orsi spesso si vedono lungo la strada."
+      },
+      {
+        nome: "Poiana Brașov",
+        testo: "La stazione di montagna di Brașov, a circa 1.000 metri, con piste da sci d'inverno e sentieri nel bosco d'estate. È anche una base tranquilla per chi viaggia in auto.",
+        come: "In auto o con il bus urbano da Brașov, circa 12 km di strada di montagna.",
+        quando: "Inverno per lo sci, estate per camminare.",
+        tempo: "mezza giornata",
+        costo: "Accesso gratuito; impianti a pagamento",
+        lat: 45.59671,
+        lng: 25.55619
       }
     ],
     sapori: [
@@ -288,6 +395,112 @@ export const destinazioniTransilvania: Destinazione[] = [
       "Prezzi: il vino e la palinka nei locali del centro sono sopra la media.",
       "Fortezza di Râșnov e Brașov sono vicine: organizzare in una giornata.",
       "D'inverno ghiaccio sul sentiero di Tâmpa."
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Brașov?",
+        risposta: "Per il centro storico e il Tâmpa basta un giorno pieno. Con due giorni si aggiunge Râșnov, con tre anche Bran, il santuario degli orsi e Prejmer."
+      },
+      {
+        domanda: "Si possono vedere Bran e Râșnov in giornata da Brașov?",
+        risposta: "Sì: Râșnov è a circa 20 minuti d'auto e Bran a mezz'ora. In auto stanno comodamente nella stessa mezza giornata."
+      },
+      {
+        domanda: "Come si sale sul Tâmpa e sulla scritta BRAȘOV?",
+        risposta: "Con la funivia vicino al Bastione dei Tessitori (45 lei andata e ritorno nel 2026) oppure a piedi per il sentiero a tornanti, circa un'ora di salita."
+      },
+      {
+        domanda: "Brașov o Sibiu come base?",
+        risposta: "Brașov è più comoda per i castelli (Bran, Peleș, Râșnov); Sibiu per la Transfăgărășan. In un giro in auto conviene dormire in entrambe."
+      },
+      {
+        domanda: "Serve l'auto a Brașov?",
+        risposta: "Per il centro no, si gira a piedi. Per Râșnov, Prejmer, Bran e il santuario degli orsi l'auto è la soluzione più pratica."
+      },
+      {
+        domanda: "La Fortezza di Râșnov è visitabile?",
+        risposta: "Nel 2026 la cittadella è in restauro e si visita il giardino della fortezza, con biglietto all'ingresso. Conviene controllare il sito ufficiale prima di andare."
+      }
+    ],
+    gite: [
+      {
+        nome: "Castello di Bran",
+        distanza: "circa 30 km, mezz'ora in auto",
+        come: "In auto via Râșnov; biglietto online, guida a parte.",
+        testo: "Il castello associato a Dracula, su uno sperone di roccia sopra il paese. Si abbina facilmente a Râșnov nella stessa mezza giornata."
+      },
+      {
+        nome: "Sinaia e Castello di Peleș",
+        distanza: "circa 1 ora in auto",
+        come: "In auto lungo la valle di Prahova; ingressi a fasce orarie.",
+        testo: "La residenza estiva di Carlo I, tra i castelli più ricchi d'Europa. Va controllato il calendario: chiude periodicamente per manutenzione, per esempio in novembre."
+      },
+      {
+        nome: "Viscri",
+        distanza: "circa 1 ora e 20 in auto",
+        come: "In auto, con l'ultimo tratto su strada secondaria.",
+        testo: "Villaggio sassone con la chiesa fortificata del XII secolo, patrimonio UNESCO. Ingresso 12 lei."
+      },
+      {
+        nome: "Sighișoara",
+        distanza: "circa 2 ore in auto",
+        come: "In auto o in treno.",
+        testo: "Il borgo medievale UNESCO con la Torre dell'Orologio e la scalinata coperta. Si può tenere come tappa verso Sibiu."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Piața Sfatului e Casa Sfatului al mattino",
+          "Chiesa Nera",
+          "Porta Caterina, Porta Șchei e Strada Sforii",
+          "Pranzo con zuppa in pagnotta",
+          "Bastione dei Tessitori e funivia sul Tâmpa nel pomeriggio",
+          "Sera su Strada Republicii"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: centro storico come nel programma di un giorno",
+          "Giorno 2: Fortezza di Râșnov al mattino, poi Torre Nera e Torre Bianca al tramonto e quartiere di Șchei"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: centro storico e Tâmpa",
+          "Giorno 2: santuario LiBEARty presto al mattino, poi Râșnov e Castello di Bran",
+          "Giorno 3: chiesa fortificata di Prejmer, rientro e pomeriggio a Șchei o a Poiana Brașov"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro storico (Cetate)",
+        testo: "Pensioni e hotel dentro o a ridosso delle mura, a pochi minuti da Piața Sfatului. Più caro e, nei weekend, più rumoroso.",
+        perChi: "chi visita senza auto e vuole uscire la sera a piedi",
+        fascia: "70-140 €"
+      },
+      {
+        nome: "Șchei",
+        testo: "Il vecchio quartiere romeno appena fuori dalle mura: strade in salita, case basse e silenzio, a 10-15 minuti a piedi dalla piazza.",
+        perChi: "chi cerca pensioni familiari a prezzi più bassi",
+        fascia: "45-90 €"
+      },
+      {
+        nome: "Poiana Brașov",
+        testo: "Hotel di montagna tra i boschi, a 20 minuti d'auto dal centro. Comodo per la natura, scomodo per la sera in città.",
+        perChi: "chi viaggia in auto o viene a sciare",
+        fascia: "70-150 €"
+      },
+      {
+        nome: "Râșnov e Bran",
+        testo: "Pensioni di paese ai piedi della fortezza e verso Bran, a 20-30 minuti d'auto da Brașov. Prezzi più bassi, serve l'auto.",
+        perChi: "chi vuole dormire vicino ai castelli",
+        fascia: "40-80 €"
+      }
     ],
     esperienzeSlugs: ['fortezza-rasnov'],
     tripSlugs: ['transilvania-express'],
@@ -408,10 +621,10 @@ export const destinazioniTransilvania: Destinazione[] = [
     doveDormire:
       'MyContinental Sibiu, struttura moderna vicino al centro storico. Le cose più citate sono le camere ai piani alti con vista sulla città e la colazione abbondante; qualcuno si lamenta del wifi lento e degli ascensori.\n\nAlternative: economiche: Casa Timpuri Vechi, Pensiunea Central Sibiu · fascia media: Casa Luxemburg · lusso (contenuto): Noblesse Boutique Hotel, Mina Luxury Boutique Hotel.',
     doveMangiare: 'Crama Sibiul Vechi (cantina rustica, pochi tavoli, prenotazione obbligatoria), La Dobrun o Crama Ileana; dopocena Oldie\'s Pub o Geea Caffe.',
-    comeArrivare: 'In auto da Salina Turda a Sibiu.',
+    comeArrivare: "In auto da Salina Turda a Sibiu. Da Salina Turda sono circa 1 ora e 30 di auto, da Brașov circa 2 ore e 30 lungo la DN1 passando per Făgăraș. L'aeroporto di Sibiu ha voli soprattutto via Monaco e Vienna; da Bucarest si arriva anche in treno o in auto. Dal centro alla Transfăgărășan (Bâlea Cascadă) serve circa un'ora e mezza, e al Museo ASTRA va il bus 13 dalla stazione.",
     comeSpostarsi: 'Auto a noleggio per la Transfăgărășan, a piedi nel centro di Sibiu.',
     periodoMigliore: 'estate e inizio autunno, quando la Transfăgărășan è aperta alle auto (date secondo la neve)',
-    costi: 'Non mi sono segnato i prezzi.',
+    costi: "Non mi sono segnato i prezzi. Budget giornaliero a persona, indicativo: basso 40-60 € (pensione e trattorie), medio 70-110 € (hotel in centro, cantine tipiche, musei), alto da 150 €, più carburante per la Transfăgărășan. Ingressi verificati per il 2026: Palazzo Brukenthal 50 lei (circa 10 €), Museo ASTRA 50 lei (circa 10 €), funivia di Bâlea 80 lei a tratta (circa 16 €).",
     erroriDaEvitare: ['Partire senza aver controllato sul sito ufficiale che la Transfăgărășan sia aperta', 'Dare da mangiare agli orsi o scendere dall\'auto se se ne avvista uno'],
     miaEsperienza:
       'La Transfăgărășan è all\'altezza della sua fama: i tornanti che salgono fino al Lago Bâlea sono tra le strade più belle che abbia mai guidato. Il lungo rientro a Bucarest nello stesso giorno, però, si fa sentire.',
@@ -422,8 +635,23 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "A piedi dal centro.",
         quando: "Mattina.",
         tempo: "2 ore",
-        url: "https://www.brukenthalmuseum.ro",
+        costo: "Piazza gratuita; Palazzo Brukenthal 50 lei, circa 10 € (2026); biglietto unico per tutte le sedi 120 lei valido 48 ore",
+        orari: "Palazzo Brukenthal chiuso lunedì e martedì. Orario invernale dal 28 ottobre 2026: mercoledì-domenica 9-17, cassa fino alle 16:15; d'estate 10-18.",
+        lat: 45.79678,
+        lng: 24.15183,
+        url: "https://www.brukenthalmuseum.ro/mnb/preturi",
         consiglio: "Un city tour con guida locale per capire la storia."
+      },
+      {
+        nome: "Piața Mică",
+        testo: "La piazza piccola, più raccolta della Piața Mare, con le case delle antiche corporazioni e i portici. Da qui si scende verso la città bassa passando sotto il Ponte delle Bugie.",
+        come: "A piedi, attraverso la Torre del Consiglio dalla Piața Mare.",
+        quando: "Sera, con i caffè aperti.",
+        tempo: "30 minuti",
+        costo: "gratuito",
+        orari: "Sempre accessibile.",
+        lat: 45.79772,
+        lng: 24.15163
       },
       {
         nome: "Ponte delle Bugie (Podul Minciunilor)",
@@ -432,7 +660,73 @@ export const destinazioniTransilvania: Destinazione[] = [
         quando: "Sera.",
         tempo: "15 minuti",
         costo: "ingresso libero",
+        orari: "Sempre accessibile.",
+        lat: 45.79832,
+        lng: 24.1508,
         consiglio: "Foto dal basso, sul vicolo sottostante."
+      },
+      {
+        nome: "Torre del Consiglio (Turnul Sfatului)",
+        testo: "La torre che unisce la Piața Mare alla Piața Mică, con un passaggio ad arco alla base. In cima c'è un belvedere sui tetti con gli «occhi», gli abbaini a forma di palpebra tipici di Sibiu.",
+        come: "A piedi; si sale per scale interne.",
+        quando: "Tardo pomeriggio, con la luce radente sui tetti.",
+        tempo: "30 minuti",
+        lat: 45.79761,
+        lng: 24.15213
+      },
+      {
+        nome: "Cattedrale evangelica di Santa Maria",
+        testo: "La grande chiesa gotica luterana in Piața Huet, simbolo della comunità sassone, con la torre di oltre 70 metri che domina il centro. Dentro ci sono lapidi funerarie e un grande organo; la torre si può salire.",
+        come: "A piedi, in Piața Huet accanto alla Piața Mare.",
+        quando: "Mattina.",
+        tempo: "45 minuti",
+        lat: 45.79777,
+        lng: 24.15008
+      },
+      {
+        nome: "Mura e torri di Strada Cetății",
+        testo: "Il tratto meglio conservato delle mura medievali, lungo un viale alberato con tre torri in fila: dei Carpentieri, dei Vasai e degli Alabardieri. È una passeggiata tranquilla appena fuori dal giro delle piazze.",
+        come: "A piedi, 10 minuti a sud-est della Piața Mare.",
+        quando: "Mattina o tardo pomeriggio.",
+        tempo: "45 minuti",
+        costo: "gratuito",
+        orari: "Sempre accessibile.",
+        lat: 45.79424,
+        lng: 24.15321
+      },
+      {
+        nome: "Passaggio delle Scale (Pasajul Scărilor)",
+        testo: "Una scalinata medievale coperta che scende dalla città alta, accanto alla cattedrale evangelica, verso la città bassa, tra muri di contenimento e archi. È il collegamento più suggestivo fra i due livelli di Sibiu.",
+        come: "A piedi da Piața Huet.",
+        quando: "Giorno.",
+        tempo: "15 minuti",
+        costo: "gratuito",
+        orari: "Sempre accessibile.",
+        lat: 45.79748,
+        lng: 24.14927
+      },
+      {
+        nome: "Cattedrale ortodossa della Santissima Trinità",
+        testo: "La cattedrale metropolitana ortodossa, del primo Novecento, ispirata a Santa Sofia di Istanbul, con l'interno interamente dipinto e dorato. Fa da contrappunto alle chiese gotiche sassoni del centro.",
+        come: "A piedi, in Strada Mitropoliei, 5 minuti dalla Piața Mare.",
+        quando: "Mattina, fuori dalle funzioni.",
+        tempo: "20-30 minuti",
+        costo: "ingresso libero",
+        lat: 45.79459,
+        lng: 24.14815
+      },
+      {
+        nome: "Museo ASTRA all'aperto",
+        testo: "Uno dei più grandi musei all'aperto d'Europa: 96 ettari di bosco nella Dumbrava Sibiului con case contadine, mulini a vento, chiese di legno e laboratori artigiani spostati qui da tutta la Romania, lungo 10 km di viali. Racconta la vita rurale meglio di qualsiasi sala espositiva.",
+        come: "A circa 6 km dal centro, sulla strada per Rășinari e Păltiniș: in auto, in bici sulla pista ciclabile o con il bus 13 dalla stazione.",
+        quando: "Giornata asciutta, dalla primavera all'autunno.",
+        tempo: "3 ore",
+        costo: "50 lei, circa 10 € (2026)",
+        orari: "Tutti i giorni; da settembre ad aprile 8-17, ultimo biglietto alle 16:45 all'ingresso principale.",
+        lat: 45.75379,
+        lng: 24.11274,
+        url: "https://muzeulastra.ro/program-de-vizitare/",
+        consiglio: "Si cammina molto su sterrato: servono scarpe comode."
       },
       {
         nome: "Strada Transfăgărășan",
@@ -440,7 +734,23 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In auto, da Sibiu o da Curtea de Argeș. Di solito aperta da fine giugno a fine ottobre, secondo la neve: lo stato è indicato ai cartelli di Curtea de Argeș e Cârțișoara.",
         quando: "Estate e inizio autunno; il rientro a Bucarest nello stesso giorno è molto lungo.",
         tempo: "giornata intera",
+        costo: "Strada senza pedaggio",
+        orari: "Tratto alto aperto di norma dal 20 giugno al 31 ottobre, secondo la neve.",
+        lat: 45.60248,
+        lng: 24.61401,
         consiglio: "Partire presto: il lungo rientro a Bucarest nello stesso giorno si fa sentire."
+      },
+      {
+        nome: "Bâlea Cascadă e la funivia",
+        testo: "Sul versante nord, a circa 1.200 metri, c'è la cascata di Bâlea e la stazione a valle della funivia che sale al lago. Quando la strada alta è chiusa, è l'unico modo per arrivare al Lago Bâlea.",
+        come: "In auto da Cârțișoara lungo la Transfăgărășan; la funivia sale 3,7 km fino a 2.034 metri in circa 15 minuti.",
+        quando: "Tutto l'anno; d'inverno è l'accesso al lago e all'Ice Hotel.",
+        tempo: "1-2 ore con la funivia",
+        costo: "Funivia 80 lei a tratta, circa 16 € (2026)",
+        orari: "Funivia 9-17 d'inverno, 9-18 d'estate; parte con almeno 10 persone.",
+        lat: 45.63657,
+        lng: 24.60725,
+        url: "https://www.balealac.ro"
       },
       {
         nome: "Lago Bâlea",
@@ -448,7 +758,21 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In auto lungo la strada.",
         quando: "Estate, con cielo sereno.",
         tempo: "1 ora",
+        costo: "Gratuito in auto; con la funivia 80 lei a tratta (2026)",
+        lat: 45.60331,
+        lng: 24.61705,
+        url: "https://www.balealac.ro",
         consiglio: "Al Balea Lac Restaurant si mangia vista sul lago."
+      },
+      {
+        nome: "Cetatea Poenari",
+        testo: "I resti della fortezza legata a Vlad l'Impalatore, su una cresta sopra la valle dell'Argeș, sul versante sud della Transfăgărășan. Per arrivarci si salgono circa 1.480 gradini nel bosco: la vista sulla valle ripaga la fatica.",
+        come: "In auto, poco a nord di Arefu, prima della diga di Vidraru salendo da sud.",
+        quando: "Mattina o pomeriggio asciutto; si può chiudere per presenza di orsi.",
+        tempo: "1,5-2 ore con la salita",
+        lat: 45.3539,
+        lng: 24.63526,
+        consiglio: "È la vera fortezza di Dracula, molto più del castello di Bran: vale la fatica per chi ama la storia."
       },
       {
         nome: "Diga di Vidraru",
@@ -457,7 +781,19 @@ export const destinazioniTransilvania: Destinazione[] = [
         quando: "Giorno.",
         tempo: "30 minuti",
         costo: "ingresso libero",
+        orari: "Sempre visibile dalla strada.",
+        lat: 45.36631,
+        lng: 24.63147,
         consiglio: "Si vede anche dalla strada."
+      },
+      {
+        nome: "Cittadella di Făgăraș",
+        testo: "Una fortezza di pianura circondata da un fossato pieno d'acqua, tra le meglio conservate della Romania, nella cittadina di Făgăraș sulla strada tra Brașov e Sibiu. Dentro c'è il museo della Țara Făgărașului.",
+        come: "In auto lungo la DN1, circa 1 ora da Sibiu e 1 ora da Brașov.",
+        quando: "Come sosta di passaggio sulla strada Brașov-Sibiu.",
+        tempo: "1 ora",
+        lat: 45.84517,
+        lng: 24.97375
       }
     ],
     sapori: [
@@ -474,6 +810,106 @@ export const destinazioniTransilvania: Destinazione[] = [
       "La Transfăgărășan è di solito chiusa da fine ottobre a fine giugno per la neve: controllare lo stato prima di partire.",
       "Prenotare nei ristoranti piccoli del centro, che hanno pochi tavoli.",
       "Guidare con prudenza: tornanti stretti e traffico di camion e moto."
+    ],
+    faq: [
+      {
+        domanda: "Quando è aperta la Transfăgărășan?",
+        risposta: "Il tratto alto è aperto di norma dal 20 giugno al 31 ottobre, ma le date cambiano con la neve: vanno controllate prima di partire. Il resto dell'anno al Lago Bâlea si sale solo con la funivia da Bâlea Cascadă."
+      },
+      {
+        domanda: "Quanto tempo serve per percorrere la Transfăgărășan?",
+        risposta: "Da Sibiu al Lago Bâlea ci vuole circa un'ora e mezza; con le soste a Vidraru e Poenari serve una giornata intera. Dal lago a Bucarest restano circa 3 ore e 45 di guida."
+      },
+      {
+        domanda: "Si vedono gli orsi sulla Transfăgărășan?",
+        risposta: "Capita spesso, soprattutto sul versante sud. Non si scende dall'auto e non si dà da mangiare: è vietato e pericoloso, si fotografa dal finestrino."
+      },
+      {
+        domanda: "Quanti giorni servono a Sibiu?",
+        risposta: "Un giorno basta per il centro storico; con due si aggiunge la Transfăgărășan, con tre anche il Museo ASTRA e una chiesa fortificata."
+      },
+      {
+        domanda: "Il Museo Brukenthal è aperto il lunedì?",
+        risposta: "No: il Palazzo Brukenthal chiude il lunedì e il martedì. Negli altri giorni d'inverno apre dalle 9 alle 17."
+      },
+      {
+        domanda: "Serve prenotare i ristoranti a Sibiu?",
+        risposta: "Per le cantine piccole del centro sì: Crama Sibiul Vechi, per esempio, ha pochissimi tavoli e la prenotazione è obbligatoria."
+      }
+    ],
+    gite: [
+      {
+        nome: "Cisnădioara",
+        distanza: "circa 12 km, 20 minuti in auto",
+        come: "In auto via Cisnădie; ultimo tratto a piedi in salita fino alla chiesa.",
+        testo: "Una piccola basilica romanica fortificata su una collina sopra il villaggio sassone, con vista sui monti Cibin."
+      },
+      {
+        nome: "Biertan",
+        distanza: "circa 80 km, 1 ora e 30 in auto",
+        come: "In auto verso Mediaș, poi strada secondaria.",
+        testo: "Una delle chiese fortificate sassoni più grandi, patrimonio UNESCO, con tre cinte di mura in cima al villaggio."
+      },
+      {
+        nome: "Salina Turda",
+        distanza: "circa 1 ora e 30 in auto",
+        come: "In auto lungo l'autostrada A1 e poi verso Turda; biglietto online.",
+        testo: "Le saline sotterranee con il laghetto e le barchette: dentro fa fresco tutto l'anno, serve una felpa."
+      },
+      {
+        nome: "Sighișoara",
+        distanza: "circa 1 ora e 45-2 ore in auto",
+        come: "In auto o in treno.",
+        testo: "Il borgo medievale UNESCO con la Torre dell'Orologio, abbinabile a Viscri o Biertan."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno a Sibiu",
+        tappe: [
+          "Piața Mare e Museo Brukenthal al mattino",
+          "Torre del Consiglio e Piața Mică",
+          "Ponte delle Bugie e Passaggio delle Scale verso la città bassa",
+          "Cattedrale evangelica e Piața Huet",
+          "Mura di Strada Cetății nel pomeriggio",
+          "Cena in una cantina del centro, prenotata"
+        ]
+      },
+      {
+        titolo: "2 giorni: Sibiu e Transfăgărășan",
+        tappe: [
+          "Giorno 1: Sibiu come nel programma di un giorno",
+          "Giorno 2: partenza presto, 1 ora e 30 fino a Bâlea Cascadă, tornanti fino al Lago Bâlea, discesa sul versante sud con Vidraru e Poenari"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: centro storico di Sibiu",
+          "Giorno 2: Museo ASTRA al mattino, pomeriggio a Cisnădioara o alla chiesa fortificata di Biertan",
+          "Giorno 3: Transfăgărășan da nord a sud, con il Lago Bâlea, la diga di Vidraru e Poenari, poi Curtea de Argeș o il rientro a Bucarest (circa 3 ore e 45 dal lago)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città alta (centro storico)",
+        testo: "Hotel e pensioni intorno alla Piața Mare e alla Piața Mică. La zona più cara, soprattutto durante il mercatino di Natale.",
+        perChi: "chi vuole tutto a piedi",
+        fascia: "60-130 €"
+      },
+      {
+        nome: "Città bassa (Orașul de Jos)",
+        testo: "Le strade sotto le mura, con case basse e pensioni familiari, a 5-10 minuti a piedi in salita dalle piazze.",
+        perChi: "chi cerca prezzi più bassi restando vicino al centro",
+        fascia: "45-90 €"
+      },
+      {
+        nome: "Cârțișoara e il versante nord della Transfăgărășan",
+        testo: "Pensioni di paese all'imbocco nord della strada, a circa un'ora da Sibiu. Comode per essere ai tornanti prima del traffico.",
+        perChi: "chi vuole partire all'alba sulla strada",
+        fascia: "40-80 €"
+      }
     ],
     esperienzeSlugs: ['transfagarasan'],
     tripSlugs: ['transilvania-express'],

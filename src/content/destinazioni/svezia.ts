@@ -53,11 +53,11 @@ export const destinazioniSvezia: Destinazione[] = [
     doveMangiare:
       'Nelle soste di transito avevo poche ore e non ho locali da segnalare. Gran parte dell\'offerta della città sta a Södermalm e a Östermalm, dai fast-casual ai ristoranti di fascia alta.',
     comeArrivare:
-      'Volo internazionale su Stoccolma Arlanda. Per chi arriva come seconda tappa dell\'itinerario «Capitali nordiche», da Copenaghen c\'è il treno diretto SJ (circa 5 ore) o il volo (circa 1 ora).',
+      "Volo internazionale su Stoccolma Arlanda. Per chi arriva come seconda tappa dell'itinerario «Capitali nordiche», da Copenaghen c'è il treno diretto SJ (circa 5 ore) o il volo (circa 1 ora). Da Arlanda l'Arlanda Express porta alla stazione centrale in circa 20 minuti (circa 349 SEK, più caro se comprato a bordo); il treno pendolare SL con supplemento aeroporto e i bus Flygbussarna sono più lenti ed economici. I taxi conviene prenderli solo dalle compagnie grandi, a tariffa fissa.",
     comeSpostarsi: 'Per il solo transito aeroporto-hotel non serve. Per un soggiorno pieno ci sono metro (Tunnelbana), bus e traghetti urbani con biglietto integrato SL; il centro storico si gira bene anche a piedi.',
     periodoMigliore: 'maggio-settembre per il clima e per le uscite in arcipelago, che funzionano meglio con le giornate lunghe',
     costi:
-      'Biglietto SL singolo 43 SEK, pass giornaliero 180 SEK. Vasamuseet 195-240 SEK secondo la stagione. ABBA The Museum 269-349 SEK. Gita in arcipelago da circa 375 SEK (circa 33€) per un\'uscita guidata di 2-2,5 ore.',
+      "Biglietto SL singolo 43 SEK, pass giornaliero 180 SEK. Vasamuseet 195-240 SEK secondo la stagione. ABBA The Museum 269-349 SEK. Gita in arcipelago da circa 375 SEK (circa 33€) per un'uscita guidata di 2-2,5 ore. Budget giornaliero a persona, alloggio escluso: basso 50-70 € (supermercato, pass dei mezzi, un museo), medio 90-130 € (pranzo fuori, cena media, due ingressi), alto oltre 180 €.",
     erroriDaEvitare: [],
     miaEsperienza:
       'Stoccolma per me è stata solo una tappa logistica, all\'andata e al ritorno: giusto il tempo di dormire tra un volo e l\'altro.',
@@ -68,6 +68,10 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "A piedi dalla stazione centrale o con la metro fino a Gamla stan.",
         quando: "Mattina presto, prima dei gruppi; il cambio della guardia è a mezzogiorno nei giorni indicati dal sito reale.",
         tempo: "2-3 ore",
+        costo: "Vicoli liberi; Palazzo Reale 220 SEK adulti, 240 SEK da maggio a settembre (2026), circa 20 €",
+        orari: "Palazzo Reale in bassa stagione aperto tutti i giorni 10-16 (novembre 2026); in estate orari più lunghi, sul sito",
+        lat: 59.325,
+        lng: 18.07056,
         url: "https://www.kungligaslotten.se",
         consiglio: "I vicoli Mårten Trotzigs gränd e Västerlånggatan sono i più fotografati: andarci all'alba."
       },
@@ -78,6 +82,9 @@ export const destinazioniSvezia: Destinazione[] = [
         quando: "Mattina nei giorni feriali, quando c'è meno gente.",
         tempo: "2 ore",
         costo: "195 SEK adulti in bassa stagione (2026), di più in estate",
+        orari: "Tutti i giorni: d'estate 8.30-18, nel resto dell'anno 10-17, il mercoledì fino alle 20",
+        lat: 59.32807,
+        lng: 18.09139,
         url: "https://www.vasamuseet.se",
         consiglio: "Prenotare online il biglietto in alta stagione."
       },
@@ -87,6 +94,9 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "A piedi dalla stazione; la visita all'interno è solo guidata.",
         quando: "Mattina; orari dei tour e della torre sul sito ufficiale, dove si comprano i biglietti.",
         tempo: "1 ora",
+        costo: "Visita guidata di circa 45 minuti poco più di 10 €; torre (maggio-settembre) con biglietto a parte",
+        lat: 59.3275,
+        lng: 18.055,
         url: "https://stadshuset.stockholm",
         consiglio: "Controllare orari e disponibilità dei tour sul sito prima di andare."
       },
@@ -96,8 +106,70 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "Tram 7 o traghetto dal centro. Il biglietto copre il parco, non le attrazioni a parte.",
         quando: "Primavera ed estate; in inverno ci sono mercatini di Natale.",
         tempo: "3-4 ore",
+        orari: "Da giugno a fine agosto 10-18; in inverno feriali 10-15 e weekend 10-16 (calendario 2026-27)",
+        lat: 59.32418,
+        lng: 18.102,
         url: "https://www.skansen.se",
         consiglio: "Salire sul colle per la vista sulla città; a dicembre c'è il mercatino di Natale."
+      },
+      {
+        nome: "ABBA The Museum",
+        testo: "Il museo del gruppo pop svedese più famoso al mondo, con costumi, dischi d'oro e stanze interattive dove si canta e si balla sulle loro canzoni. Funziona anche per chi non è un fan: è allegro, ben fatto e veloce da visitare.",
+        come: "A Djurgården, a pochi minuti a piedi dal Museo Vasa; tram 7 dal centro.",
+        quando: "All'apertura o dopo le 15: tra le 10 e le 15 c'è più gente.",
+        tempo: "1,5-2 ore",
+        costo: "269-349 SEK secondo il giorno, circa 24-31 €",
+        orari: "Tutti i giorni 10-18, ingresso con fascia oraria di 30 minuti",
+        lat: 59.325,
+        lng: 18.09639,
+        url: "https://abbathemuseum.com",
+        consiglio: "Comprare online: costa meno e si sceglie l'orario."
+      },
+      {
+        nome: "Museo del Premio Nobel",
+        testo: "Nell'antica Borsa che chiude un lato di Stortorget, racconta i premiati e le loro scoperte con oggetti, video e storie brevi. È piccolo e si abbina facilmente al giro di Gamla Stan.",
+        come: "In piazza Stortorget, a Gamla Stan; metro fino a Gamla stan.",
+        quando: "Venerdì sera, aperto fino alle 21, o con la pioggia.",
+        tempo: "1 ora",
+        costo: "160 SEK adulti (2026), circa 14 €; gratis sotto i 18 anni",
+        orari: "Mar-dom 11-17, venerdì fino alle 21; lunedì chiuso in bassa stagione (novembre 2026)",
+        lat: 59.32522,
+        lng: 18.07083,
+        url: "https://nobelprizemuseum.se/en/"
+      },
+      {
+        nome: "Södermalm e Monteliusvägen",
+        testo: "L'isola a sud del centro, con caffè, negozi vintage e i quartieri più giovani della città. Il sentiero di Monteliusvägen corre sopra le scogliere e offre la vista più bella su Gamla Stan, Riddarholmen e il Municipio.",
+        come: "Metro fino a Slussen o Mariatorget, poi a piedi in salita per 10 minuti.",
+        quando: "Al tramonto, con la luce sull'acqua.",
+        tempo: "2-3 ore",
+        costo: "Gratuito",
+        orari: "Sentiero sempre accessibile",
+        lat: 59.32072,
+        lng: 18.06031
+      },
+      {
+        nome: "Fotografiska",
+        testo: "Museo di fotografia contemporanea in un ex edificio doganale sul lungomare di Södermalm, con tre o quattro mostre che cambiano durante l'anno. Il caffè all'ultimo piano ha una delle viste migliori sull'acqua e su Djurgården.",
+        come: "A piedi da Slussen in 10 minuti lungo Stadsgårdshamnen.",
+        quando: "La sera: resta aperto fino a tardi.",
+        tempo: "1,5-2 ore",
+        orari: "Aperto fino alle 23 (2026)",
+        lat: 59.31779,
+        lng: 18.08472,
+        url: "https://www.fotografiska.com/sto/en/"
+      },
+      {
+        nome: "Moderna Museet (Skeppsholmen)",
+        testo: "Il museo d'arte moderna sull'isola di Skeppsholmen, con una collezione che va da Picasso e Dalí a Rauschenberg e Warhol. Fuori, nel giardino, ci sono le sculture colorate di Niki de Saint Phalle.",
+        come: "A piedi dal centro attraversando il ponte di Skeppsholmsbron, o bus 65.",
+        quando: "Venerdì dalle 18 alle 20, con ingresso gratuito.",
+        tempo: "2 ore",
+        costo: "170 SEK (2026), circa 15 €; gratis fino a 18 anni",
+        orari: "10-18, martedì e venerdì fino alle 20 (2026)",
+        lat: 59.32639,
+        lng: 18.08361,
+        url: "https://www.modernamuseet.se/stockholm/en/"
       },
       {
         nome: "Palazzo di Drottningholm",
@@ -105,6 +177,10 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "Sull'isola di Lovön, fuori città; come arrivarci con i mezzi pubblici sul sito ufficiale.",
         quando: "Primavera ed estate, per i giardini.",
         tempo: "mezza giornata",
+        costo: "170 SEK adulti (2026), circa 15 €",
+        orari: "Fuori stagione solo sabato e domenica 10-16 (novembre 2026); calendario estivo sul sito",
+        lat: 59.32167,
+        lng: 17.88694,
         url: "https://www.kungligaslotten.se",
         consiglio: "Lasciare tempo per i giardini: sono la parte più piacevole della visita."
       },
@@ -114,52 +190,89 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "Battelli di linea dal centro; biglietti e orari sul sito di Waxholmsbolaget.",
         quando: "Maggio-settembre, con le giornate lunghe.",
         tempo: "giornata intera",
+        costo: "Uscita guidata di 2-2,5 ore da circa 375 SEK, circa 33 €",
+        lat: 59.38778,
+        lng: 18.73581,
         url: "https://www.waxholmsbolaget.se",
         consiglio: "Per chi ha poco tempo, le isole Fjäderholmarna sono vicine al centro."
+      },
+      {
+        nome: "Östermalms Saluhall",
+        testo: "Il mercato coperto storico del 1888, restaurato da poco, con banchi di pesce, formaggi, carne di renna e piccoli ristoranti. È il posto giusto per un pranzo di aringhe e gamberi senza prenotare.",
+        come: "Metro fino a Östermalmstorg.",
+        quando: "A pranzo nei giorni feriali.",
+        tempo: "1 ora",
+        costo: "Ingresso libero; pranzo indicativamente 15-30 €",
+        orari: "Lun-ven 9.30-19, sabato 9.30-17; alcuni ristoranti aperti la sera",
+        lat: 59.33597,
+        lng: 18.07809,
+        url: "https://ostermalmshallen.se/en/"
+      },
+      {
+        nome: "Le stazioni d'arte della metro",
+        testo: "Oltre novanta stazioni della metropolitana sono decorate da artisti, tanto che la rete viene chiamata la galleria d'arte più lunga del mondo. T-Centralen, con i rampicanti blu sulla roccia, Kungsträdgården e Solna centrum sono le più note.",
+        come: "Con un normale biglietto SL; la linea blu tocca le stazioni più scenografiche.",
+        quando: "Fuori dalle ore di punta, per fotografare senza folla.",
+        tempo: "1-2 ore",
+        costo: "Biglietto SL singolo 43 SEK, circa 4 €; pass giornaliero 180 SEK",
+        lat: 59.33167,
+        lng: 18.06083
       }
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Mattina: Gamla Stan e Palazzo Reale",
-          "Pranzo con fika a Gamla Stan",
-          "Pomeriggio: Museo Vasa",
-          "Sera: passeggiata a Södermalm"
+          "Mattina: Gamla Stan, Stortorget e Palazzo Reale",
+          "Museo del Premio Nobel o fika in un caffè di Gamla Stan",
+          "Pomeriggio: Museo Vasa a Djurgården",
+          "Tramonto da Monteliusvägen e cena a Södermalm"
         ]
       },
       {
         titolo: "2 giorni",
         tappe: [
           "Giorno 1 come sopra",
-          "Giorno 2: Stadshuset",
-          "Skansen e Djurgården",
-          "Cena a Östermalm"
+          "Giorno 2: visita guidata dello Stadshuset",
+          "Pranzo a Östermalms Saluhall",
+          "Pomeriggio: Skansen o ABBA The Museum",
+          "Sera: Fotografiska, aperto fino a tardi"
         ]
       },
       {
         titolo: "3 giorni",
         tappe: [
           "Giorni 1-2 come sopra",
-          "Giorno 3: Drottningholm o arcipelago in battello"
+          "Giorno 3 d'estate: battello nell'arcipelago (Vaxholm o Fjäderholmarna)",
+          "Giorno 3 d'inverno: Drottningholm (nel weekend) e Moderna Museet",
+          "Rientro con un giro tra le stazioni d'arte della metro"
         ]
       }
     ],
     zone: [
       {
         nome: "Gamla Stan",
+        testo: "Vicoli di ciottoli e locali, ma camere piccole e caro. Rumore di sera nelle vie principali.",
         perChi: "Chi vuole il fascino del centro storico",
-        testo: "Vicoli di ciottoli e locali, ma camere piccole e caro. Rumore di sera nelle vie principali."
+        fascia: "150-280 €"
       },
       {
         nome: "Norrmalm (vicino alla stazione)",
+        testo: "Comodo per i treni e l'aeroporto. Poca atmosfera, molti uffici.",
         perChi: "Chi ha poco tempo o parte presto",
-        testo: "Comodo per i treni e l'aeroporto. Poca atmosfera, molti uffici."
+        fascia: "120-220 €"
       },
       {
         nome: "Södermalm",
+        testo: "Un'isola con ristoranti, vecchi pub e vista dal Fjällgatan; a pochi minuti in metro dal centro.",
         perChi: "Chi cerca bar e quartieri giovani",
-        testo: "Un'isola con ristoranti, vecchi pub e vista dal Fjällgatan; a pochi minuti in metro dal centro."
+        fascia: "100-200 €"
+      },
+      {
+        nome: "Östermalm",
+        testo: "Viali ampi, il mercato coperto e ristoranti di livello; a piedi da Djurgården e dal centro. È la zona più cara.",
+        perChi: "Chi vuole un quartiere elegante e tranquillo",
+        fascia: "160-300 €"
       }
     ],
     sapori: [
@@ -185,6 +298,52 @@ export const destinazioniSvezia: Destinazione[] = [
       "Le bevande oltre il 3,5% di alcol si comprano solo da Systembolaget, chiuso la domenica e nei giorni festivi.",
       "Dall'aeroporto di Arlanda l'Arlanda Express arriva in centro in 18 minuti, con partenze ogni 12-15 minuti; ci sono anche altri treni e bus: i taxi non prezzati in anticipo possono costare molto.",
       "Borseggiatori nella stazione centrale e sulla metro nelle ore di punta."
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono per Stoccolma?",
+        risposta: "Due giorni bastano per Gamla Stan, il Museo Vasa, lo Stadshuset e Skansen. Con tre giorni si aggiunge l'arcipelago in estate o Drottningholm."
+      },
+      {
+        domanda: "Come si va dall'aeroporto di Arlanda al centro?",
+        risposta: "L'Arlanda Express arriva alla stazione centrale in circa 20 minuti e costa circa 349 SEK. Il treno pendolare SL e i bus Flygbussarna sono più lenti ma più economici."
+      },
+      {
+        domanda: "Stoccolma è cara?",
+        risposta: "Meno di Oslo e Copenaghen, ma più dell'Italia: un pasto semplice costa 12-20 €, una cena media 35-45 € a persona, una birra 6-9 €."
+      },
+      {
+        domanda: "Bisogna prenotare il Museo Vasa?",
+        risposta: "Non è obbligatorio, ma in estate e nei weekend conviene comprare online per evitare la coda. ABBA The Museum invece funziona solo a fasce orarie."
+      },
+      {
+        domanda: "Servono contanti in Svezia?",
+        risposta: "Quasi mai: si paga con la carta ovunque, compresi metro e bancarelle. Alcuni locali non accettano proprio i contanti."
+      },
+      {
+        domanda: "Quando andare a Stoccolma?",
+        risposta: "Da maggio a settembre, con giornate lunghissime e battelli per l'arcipelago. Dicembre ha i mercatini di Natale a Skansen e Gamla Stan, ma fa buio presto."
+      }
+    ],
+    gite: [
+      {
+        nome: "Uppsala",
+        distanza: "40 minuti in treno",
+        come: "Treni SJ e regionali frequenti dalla stazione centrale.",
+        testo: "La città universitaria più antica della Scandinavia, con la cattedrale gotica più grande del nord, il castello e i tumuli vichinghi di Gamla Uppsala a pochi chilometri."
+      },
+      {
+        nome: "Vaxholm",
+        distanza: "1 ora in battello",
+        come: "Battelli Waxholmsbolaget da Strömkajen, oppure bus 670 da Tekniska högskolan.",
+        testo: "Il borgo dell'arcipelago più vicino e comodo, con case di legno, una fortezza sull'isolotto davanti al porto e caffè sull'acqua."
+      },
+      {
+        nome: "Sigtuna",
+        distanza: "50 km",
+        come: "Treno pendolare fino a Märsta, poi bus 570 o 575.",
+        testo: "La cittadina più antica della Svezia, fondata intorno al 980, con una via principale di case basse, rovine di chiese medievali e pietre runiche lungo le strade."
+      }
     ],
     esperienzeSlugs: ['vasamuseet-stoccolma', 'gamla-stan-passeggiata', 'abba-museum-stoccolma', 'arcipelago-stoccolma-in-barca'],
     tripSlugs: ['lapponia-svedese-abisko', 'capitali-nordiche'],

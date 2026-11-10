@@ -41,18 +41,20 @@ export const destinazioniLettonia: Destinazione[] = [
     doveMangiare:
       'Il piatto invernale più identitario è il pelēkie zirņi ar speķi, piselli grigi con pancetta. Il rupjmaize, il pane di segale nero, sta alla base di molta cucina lettone, compreso il rupjmaizes kārtojums, un dolce a strati con panna e frutti di bosco. Per assaggiare i prodotti locali, dal formaggio affumicato al pesce del Baltico, i banchi del Mercato Centrale sono il modo più economico e genuino.',
     comeArrivare:
-      'L\'Aeroporto Internazionale di Riga (RIX), è fuori città: bus pubblico, oppure taxi o app di trasporto. Da alcuni aeroporti italiani ci sono voli diretti low cost, stagionali o tutto l\'anno; altrimenti si fa scalo in un hub europeo. Da Vilnius ci sono bus diretti, con più compagnie e molte corse al giorno.',
+      "L'Aeroporto Internazionale di Riga (RIX), è fuori città: bus pubblico, oppure taxi o app di trasporto. Da alcuni aeroporti italiani ci sono voli diretti low cost, stagionali o tutto l'anno; altrimenti si fa scalo in un hub europeo. Da Vilnius ci sono bus diretti, con più compagnie e molte corse al giorno. Il bus 22 collega l'aeroporto al centro in 30-45 minuti, ogni 10-20 minuti, con biglietto di circa 1,50 € comprato in anticipo (app, macchinetta o Narvesen) o circa 1,80 € pagato a bordo con la carta; da aprile 2026 c'è anche il notturno N22. Da Vilnius e da Tallinn il bus Lux Express impiega circa 4 ore e arriva all'autostazione accanto al Mercato Centrale, a pochi minuti a piedi dalla Città Vecchia.",
     comeSpostarsi:
       'Il centro storico si gira tutto a piedi. Tram, filobus e bus della rete Rīgas satiksme coprono il resto della città, con biglietti a tempo economici. Per Jūrmala c\'è il treno regionale dalla stazione centrale, con corse frequenti.',
     periodoMigliore:
       'maggio-settembre, per il clima mite e, in piena estate, la possibilità di unire la città a un bagno a Jūrmala. Giugno-agosto è la stagione più affollata. L\'inverno (novembre-marzo) è freddo e spesso ventoso, ma la Città Vecchia regge bene e a dicembre c\'è il mercatino di Natale in Piazza del Duomo.',
-    costi: 'città economica per gli standard dell\'Europa occidentale: ingressi, ristoranti e treni costano meno che nell\'Europa occidentale; prezzi aggiornati sui siti ufficiali.',
+    costi: "Città economica per gli standard dell'Europa occidentale: nel City Costs Barometer 2025 Riga è risultata la più conveniente tra 38 città europee. Budget giornaliero a persona con alloggio in doppia: 45-65 € spendendo poco, 90-130 € di fascia media (hotel 3-4 stelle, un museo, cena al ristorante), oltre 180 € con hotel 5 stelle e ristoranti stellati. Ingressi 2026: Casa delle Teste Nere 10 €, Museo dell'Occupazione 8 €, torre di San Pietro circa 9 €, Museo dell'Art Nouveau 9 €; biglietto del bus da circa 1,50 €.",
     erroriDaEvitare: [
       'Fermarsi alla Città Vecchia: il quartiere Art Nouveau appena fuori dalle mura è una parte centrale dell\'architettura di Riga quanto il centro medievale',
       'Andare al Mercato Centrale nel weekend dopo pranzo: i banchi migliori si svuotano presto, e il mattino, con i venditori locali, è il momento più autentico',
       'Programmare Jūrmala senza guardare il meteo: è una gita al mare e ha senso soprattutto da giugno ad agosto',
       'Pensare che il russo non serva: lo parla ancora la consistente minoranza russofona della città, e in certe situazioni quotidiane fuori dal centro turistico è più utile dell\'inglese',
     ],
+    miaEsperienza:
+      "Riga è stata la tappa centrale del giro delle capitali baltiche con gli amici: ci siamo arrivati in bus da Vilnius e ci siamo rimasti tre giorni, tra la Città Vecchia, il quartiere Art Nouveau, il Mercato Centrale e la torre di San Pietro, poi il bus per Tallinn.",
     luoghi: [
       {
         nome: "Cattedrale di Riga e Piazza del Duomo",
@@ -60,16 +62,11 @@ export const destinazioniLettonia: Destinazione[] = [
         come: "A piedi dalla Città Vecchia.",
         quando: "Mattina.",
         tempo: "1 ora",
+        orari: "Piazza sempre accessibile; orari della cattedrale e dei concerti d'organo sul sito",
+        lat: 56.94911,
+        lng: 24.10474,
         url: "https://doms.lv",
         consiglio: "Programma dei concerti d'organo sul sito ufficiale."
-      },
-      {
-        nome: "Chiesa di San Pietro",
-        testo: "Chiesa gotica la cui guglia ha una piattaforma panoramica a 72 metri, con vista sulla Città Vecchia e sulla Daugava. Si sale con l'ascensore.",
-        come: "A piedi, vicino alla Piazza del Municipio.",
-        quando: "Giorno sereno.",
-        tempo: "45 minuti",
-        consiglio: "Meglio salire al mattino, quando la luce è chiara."
       },
       {
         nome: "Casa delle Teste Nere",
@@ -77,8 +74,24 @@ export const destinazioniLettonia: Destinazione[] = [
         come: "Sulla Piazza del Municipio.",
         quando: "Mattina, per le foto.",
         tempo: "30 minuti",
+        costo: "10 €; con caffè 12 €, con spumante o balsamo nero 13 €; audioguida 4 € (2026)",
+        orari: "Tutti i giorni 10-17, con chiusure o orari ridotti in alcune date",
+        lat: 56.94714,
+        lng: 24.10692,
         url: "https://www.melngalvjunams.lv",
         consiglio: "La piazza del municipio è il punto più bello per le foto."
+      },
+      {
+        nome: "Chiesa di San Pietro",
+        testo: "Chiesa gotica la cui guglia ha una piattaforma panoramica a 72 metri, con vista sulla Città Vecchia e sulla Daugava. Si sale con l'ascensore.",
+        come: "A piedi, vicino alla Piazza del Municipio.",
+        quando: "Giorno sereno.",
+        tempo: "45 minuti",
+        costo: "Torre circa 9 € (2026)",
+        orari: "Biglietti per la torre in vendita fino alle 17",
+        lat: 56.9475,
+        lng: 24.10944,
+        consiglio: "Meglio salire al mattino, quando la luce è chiara."
       },
       {
         nome: "I Tre Fratelli",
@@ -87,6 +100,9 @@ export const destinazioniLettonia: Destinazione[] = [
         quando: "Giorno.",
         tempo: "15 minuti",
         costo: "ingresso libero",
+        orari: "Facciate visibili a qualsiasi ora",
+        lat: 56.95035,
+        lng: 24.10429,
         consiglio: "Dentro c'è il Museo dell'Architettura."
       },
       {
@@ -96,7 +112,22 @@ export const destinazioniLettonia: Destinazione[] = [
         quando: "Mattina, con luce piena sulle facciate.",
         tempo: "1-2 ore",
         costo: "ingresso libero",
+        orari: "Strade sempre accessibili",
+        lat: 56.95901,
+        lng: 24.10985,
         consiglio: "Alzare lo sguardo: i dettagli sono sopra il primo piano."
+      },
+      {
+        nome: "Museo dell'Art Nouveau",
+        testo: "L'appartamento dell'architetto Konstantīns Pēkšēns, in Alberta iela 12, arredato come una casa borghese di inizio Novecento. La scala a chiocciola dipinta è il pezzo più fotografato; è il modo migliore per vedere un interno dopo le facciate della via.",
+        come: "A piedi dalla Città Vecchia in 15-20 minuti, nel quartiere Art Nouveau.",
+        quando: "Insieme alla passeggiata in Alberta iela ed Elizabetes iela.",
+        tempo: "1 ora",
+        costo: "Esposizione completa 9 €, ridotto 5 €; solo interni 6 € (2026)",
+        orari: "10-18 (cassa fino alle 17.45), chiuso il lunedì",
+        lat: 56.95961,
+        lng: 24.10852,
+        url: "https://jugendstils.riga.lv/en/"
       },
       {
         nome: "Mercato Centrale",
@@ -104,6 +135,9 @@ export const destinazioniLettonia: Destinazione[] = [
         come: "A piedi dalla stazione ferroviaria.",
         quando: "Mattina.",
         tempo: "1-2 ore",
+        costo: "Ingresso libero",
+        lat: 56.94433,
+        lng: 24.11321,
         consiglio: "Assaggiare il pesce affumicato nel padiglione del pesce."
       },
       {
@@ -112,46 +146,134 @@ export const destinazioniLettonia: Destinazione[] = [
         come: "A piedi dalla Città Vecchia.",
         quando: "Mattina.",
         tempo: "1,5 ore",
+        costo: "Museo dell'Occupazione 8 €, studenti 5 € (2026); monumento libero",
+        orari: "Museo tutti i giorni 10-18",
+        lat: 56.95151,
+        lng: 24.11338,
         url: "https://okupacijasmuzejs.lv",
         consiglio: "Orari e biglietti del Museo dell'Occupazione sul sito ufficiale."
+      },
+      {
+        nome: "Casa d'angolo, l'ex sede del KGB (Stūra māja)",
+        testo: "Il palazzo all'angolo tra Brīvības iela e Stabu iela dove la polizia politica sovietica interrogava e incarcerava. La visita guidata passa dalle celle, dai corridoi e dal cortile delle esecuzioni: è dura e molto ben raccontata, gestita dal Museo dell'Occupazione.",
+        come: "A piedi dal Monumento alla Libertà in 10 minuti lungo Brīvības iela.",
+        quando: "Al mattino, prenotando il tour in inglese.",
+        tempo: "1-1,5 ore",
+        costo: "Visita guidata 15 €, studenti 9 €; mostra al piano terra gratuita (2026)",
+        orari: "Tutti i giorni 10.30-17.30; tour in inglese alle 11, 12, 13, 15 e 16",
+        lat: 56.95817,
+        lng: 24.12414,
+        url: "https://okupacijasmuzejs.lv/en/kgb-building-info",
+        consiglio: "Non adatta ai bambini sotto i 12 anni né a chi ha difficoltà motorie."
+      },
+      {
+        nome: "Porta Svedese e Torre delle Polveri",
+        testo: "La Porta Svedese, del 1698, è l'unica porta superstite delle mura, ricavata in una casa privata; accanto corrono le caserme di Jēkaba. Poco lontano la Torre delle Polveri, cilindrica e con palle di cannone ancora incastrate nei muri, è l'ultima delle torri difensive rimaste.",
+        come: "A piedi, in Torņa iela, nella parte nord della Città Vecchia.",
+        quando: "Di giorno, lungo il giro della Città Vecchia.",
+        tempo: "30 minuti",
+        costo: "Esterni gratuiti",
+        orari: "Sempre visibili dall'esterno",
+        lat: 56.95145,
+        lng: 24.10638
+      },
+      {
+        nome: "Parco Bastejkalns e il canale cittadino",
+        testo: "La fascia verde nata al posto dei bastioni demoliti nell'Ottocento, tra la Città Vecchia e il centro: un canale con ponticelli, prati, l'Opera nazionale e i boulevard. Dall'acqua partono le barche che fanno il giro del canale e del fiume Daugava.",
+        come: "A piedi, alle spalle del Monumento alla Libertà.",
+        quando: "Tardo pomeriggio d'estate; in autunno per i colori.",
+        tempo: "1 ora",
+        costo: "Parco libero",
+        orari: "Sempre aperto",
+        lat: 56.95189,
+        lng: 24.11038
+      },
+      {
+        nome: "Cattedrale ortodossa della Natività",
+        testo: "La grande chiesa neobizantina del 1884 sul viale Brīvības, con cupole dorate e interni dipinti. In epoca sovietica fu trasformata in planetario; restituita al culto, è tornata a essere la principale chiesa ortodossa della città.",
+        come: "A piedi, nel Parco Esplanade, a 5 minuti dal Monumento alla Libertà.",
+        quando: "Di giorno, evitando le funzioni.",
+        tempo: "20-30 minuti",
+        costo: "Ingresso libero; spalle e gambe coperte, foulard per le donne",
+        lat: 56.95391,
+        lng: 24.11551
+      },
+      {
+        nome: "Accademia delle Scienze e Maskavas forštate",
+        testo: "Il grattacielo staliniano degli anni Cinquanta, detto «la torta di compleanno di Stalin», con una terrazza panoramica sulla città vecchia e sul Mercato Centrale. Intorno c'è il quartiere di Maskavas, con le case di legno e i resti dell'ex ghetto ebraico: un lato di Riga che pochi visitano.",
+        come: "A piedi dal Mercato Centrale in 5-10 minuti.",
+        quando: "Di giorno, con cielo sereno.",
+        tempo: "1 ora con il quartiere",
+        lat: 56.94313,
+        lng: 24.12202
+      },
+      {
+        nome: "Biblioteca Nazionale (Castello di Luce)",
+        testo: "Il grande edificio a forma di montagna di vetro di Gunnar Birkerts, aperto nel 2014 sulla riva sinistra del Daugava. Dall'altra sponda è la vista più moderna di Riga; dentro, la «scala dei libri» donati dai cittadini attraversa più piani.",
+        come: "A piedi dalla Città Vecchia attraversando il ponte di pietra (Akmens tilts), 15 minuti.",
+        quando: "Al tramonto per la foto dalla riva della Città Vecchia.",
+        tempo: "1 ora",
+        lat: 56.94104,
+        lng: 24.09677
+      },
+      {
+        nome: "Kalnciema kvartāls",
+        testo: "Un isolato di case di legno restaurate sulla riva sinistra, con cortili, caffè e il mercato del sabato con produttori locali, pane, formaggi e artigianato. D'estate ci sono concerti all'aperto.",
+        come: "Tram o bus dalla Città Vecchia, circa 10 minuti, oppure a piedi da Āgenskalns.",
+        quando: "Sabato mattina, per il mercato.",
+        tempo: "1-2 ore",
+        costo: "Ingresso libero",
+        lat: 56.94313,
+        lng: 24.0667
       }
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Mattina: Duomo e San Pietro",
-          "Casa delle Teste Nere",
+          "Mattina: Piazza del Duomo e Cattedrale, Tre Fratelli, Porta Svedese e Torre delle Polveri",
+          "Casa delle Teste Nere sulla Piazza del Municipio",
           "Pranzo al Mercato Centrale",
-          "Pomeriggio: Art Nouveau",
-          "Sera: Città Vecchia"
+          "Pomeriggio: Monumento alla Libertà, Parco Bastejkalns e quartiere Art Nouveau in Alberta iela",
+          "Tramonto dalla torre di San Pietro (biglietti fino alle 17)"
         ]
       },
       {
         titolo: "2 giorni",
         tappe: [
           "Giorno 1 come sopra",
-          "Giorno 2: Museo dell'Occupazione",
-          "Monumento alla Libertà",
-          "Gita a Jūrmala (vedi scheda)"
+          "Giorno 2 mattina: Museo dell'Occupazione e visita guidata alla Casa d'angolo",
+          "Museo dell'Art Nouveau (non di lunedì) e Cattedrale della Natività",
+          "Pomeriggio: Accademia delle Scienze e Maskavas, poi la Biblioteca Nazionale dall'altra riva"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1 e 2 come sopra",
+          "Giorno 3: Jūrmala in treno (spiaggia e ville di legno di Majori), oppure Sigulda e la valle del Gauja",
+          "Se è sabato, mattina al mercato di Kalnciema prima di partire"
         ]
       }
     ],
     zone: [
       {
         nome: "Città Vecchia (Vecrīga)",
+        testo: "Vicino a tutto, ma rumoroso la sera; molti bar.",
         perChi: "Chi vuole stare a due passi dalle attrazioni",
-        testo: "Vicino a tutto, ma rumoroso la sera; molti bar."
+        fascia: "70-140 €"
       },
       {
         nome: "Centro Art Nouveau",
+        testo: "Tranquillo, con edifici belli; a piedi dalla Città Vecchia.",
         perChi: "Chi cerca atmosfera e ristoranti",
-        testo: "Tranquillo, con edifici belli; a piedi dalla Città Vecchia."
+        fascia: "60-120 €"
       },
       {
         nome: "Āgenskalns",
+        testo: "Oltre il fiume, più economico; collegato con il tram.",
         perChi: "Chi preferisce un quartiere locale",
-        testo: "Oltre il fiume, più economico; collegato con il tram."
+        fascia: "45-85 €"
       }
     ],
     sapori: [
@@ -177,6 +299,58 @@ export const destinazioniLettonia: Destinazione[] = [
       "Taxi: prenotare con una compagnia nota o prenderlo a un posteggio, solo auto registrate con targa gialla; concordare prima il prezzo indicativo.",
       "Borseggiatori in Città Vecchia, al Mercato Centrale e alle stazioni di treni e autobus.",
       "D'inverno marciapiedi ghiacciati: scarpe adatte."
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Riga?",
+        risposta: "Due giorni per la Città Vecchia, il quartiere Art Nouveau, il Mercato Centrale e i musei della storia sovietica. Il terzo giorno si usa per Jūrmala o Sigulda."
+      },
+      {
+        domanda: "Riga è cara?",
+        risposta: "No: è tra le capitali più economiche dell'Unione Europea, con hotel 3 stelle da circa 55-85 € a notte e pranzi nei caffè da 12-20 €. Si spende di più solo nei locali della Piazza del Municipio."
+      },
+      {
+        domanda: "Come si va dall'aeroporto di Riga al centro?",
+        risposta: "Con il bus 22 in 30-45 minuti e circa 1,50 €, oppure con Bolt o taxi in circa 20 minuti. Di notte c'è il bus N22, una corsa all'ora."
+      },
+      {
+        domanda: "Riga o Tallinn: quale scegliere?",
+        risposta: "Tallinn ha la città medievale più compatta e intatta, Riga è più grande, con l'Art Nouveau, il mercato e una vita serale più varia, e costa meno. Con 4-5 giorni si fanno entrambe, collegate da un bus di circa 4 ore."
+      },
+      {
+        domanda: "Serve prenotare la visita alla ex sede del KGB?",
+        risposta: "La Casa d'angolo si vede solo con visita guidata, a orari fissi: conviene comprare il biglietto online in anticipo, soprattutto d'estate. La mostra al piano terra è libera."
+      },
+      {
+        domanda: "Quando andare a Riga?",
+        risposta: "Da maggio a settembre per il clima e Jūrmala; il 23-24 giugno c'è Līgo, la festa di mezza estate, con molti locali chiusi. Dicembre ha il mercatino di Natale in Piazza del Duomo."
+      }
+    ],
+    gite: [
+      {
+        nome: "Jūrmala",
+        distanza: "circa 20 km, 30-35 minuti in treno",
+        come: "Treno regionale dalla stazione centrale fino a Majori, partenze almeno ogni mezz'ora.",
+        testo: "La località balneare storica della Lettonia: 33 km di sabbia bianca sul Golfo di Riga e centinaia di ville di legno liberty. In treno si evita la tassa d'ingresso per le auto."
+      },
+      {
+        nome: "Sigulda e il Parco nazionale del Gauja",
+        distanza: "circa 50 km, 1-1,5 ore in treno",
+        come: "Treno regionale dalla stazione centrale di Riga; a Sigulda si gira a piedi e in funivia.",
+        testo: "La valle del fiume Gauja con boschi, grotte di arenaria e il castello di Turaida in mattoni rossi. In autunno i colori delle foglie sono il motivo principale per andarci."
+      },
+      {
+        nome: "Palazzo di Rundāle",
+        distanza: "circa 80 km, 1-1,5 ore in auto",
+        come: "In auto o con un tour organizzato; con i mezzi pubblici serve un cambio a Bauska.",
+        testo: "Il palazzo barocco progettato da Rastrelli, lo stesso architetto del Palazzo d'Inverno di San Pietroburgo, con il giardino alla francese e il roseto. È la gita da fare per vedere la Lettonia aristocratica."
+      },
+      {
+        nome: "Torbiera di Ķemeri",
+        distanza: "circa 45 km, circa 1 ora in treno",
+        come: "Treno sulla linea di Jūrmala fino a Ķemeri, poi circa 3 km a piedi o in taxi fino al sentiero.",
+        testo: "Una passerella di legno di circa 3 km nel Parco nazionale di Ķemeri, tra pozze, pini nani e muschio. Si unisce bene a mezza giornata a Jūrmala."
+      }
     ],
     esperienzeSlugs: ['riga-art-nouveau-passeggiata', 'riga-mercato-centrale-tour'],
     tripSlugs: ['capitali-baltiche'],
@@ -217,6 +391,8 @@ export const destinazioniLettonia: Destinazione[] = [
       'Restare solo in spiaggia senza girare per le vie residenziali: sono le ville di legno decorate a rendere Jūrmala diversa da "un\'altra spiaggia"',
       'Sottovalutare l\'acqua bassa e fresca del Golfo di Riga, molto diversa da un bagno nel Mediterraneo',
     ],
+    miaEsperienza:
+      "A Jūrmala siamo andati in treno da Riga per una mattina durante il giro delle capitali baltiche con gli amici: passeggiata sulla spiaggia da Majori e tra le ville di legno, poi rientro a Riga nel pomeriggio.",
     luoghi: [
       {
         nome: "Spiaggia di Jūrmala",

@@ -1773,7 +1773,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "At sunset, with a clear sky. Check hours on the operator's site.",
         "tempo": "1 hour",
         "consiglio": "Go up around sunset time and stop for a beer on the hill.",
-        "orari": "October to May Monday-Saturday 7:15am-10pm, Sundays and holidays 8:15am-10pm; June to September until 11pm on Fridays, Saturdays and holiday eves (hours from unofficial sources, to be checked).",
+        "orari": "October to May Monday-Saturday 7:15am-10pm, Sundays and holidays 8:15am-10pm; June to September until 11pm on Fridays, Saturdays and holiday eves (to be checked).",
         "lat": 43.2713,
         "lng": -2.92253
       },

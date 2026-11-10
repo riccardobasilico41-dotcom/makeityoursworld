@@ -1773,7 +1773,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Al atardecer, con el cielo despejado. Comprobar horarios en la web del gestor.",
         "tempo": "1 hora",
         "consiglio": "Subir hacia la hora del atardecer y parar a tomar una cerveza en la colina.",
-        "orari": "De octubre a mayo, lunes a sábado 7:15-22 y domingos y festivos 8:15-22; de junio a septiembre hasta las 23 los viernes, sábados y vísperas de festivo (horarios de fuentes no oficiales, por comprobar).",
+        "orari": "De octubre a mayo, lunes a sábado 7:15-22 y domingos y festivos 8:15-22; de junio a septiembre hasta las 23 los viernes, sábados y vísperas de festivo (por comprobar).",
         "lat": 43.2713,
         "lng": -2.92253
       },

@@ -1071,12 +1071,13 @@ export const destinazioniMalesia: Destinazione[] = [
     doveMangiare:
       'L\'altopiano ha una sua identità gastronomica legata al clima: lo steamboat, la pentola di brodo bollente al centro del tavolo in cui si cuociono verdure e carne, è quello che mangiano tutti la sera perché fa freddo, ed è la cosa giusta da fare. Per il resto, tè e scones nelle sale da tè delle piantagioni (un\'eredità coloniale che qui non è una posa) e le fragole in ogni forma possibile, comprese quelle che sarebbe meglio evitare.',
     comeArrivare:
-      'Autobus da Kuala Lumpur o da Penang e Ipoh. L\'ultimo tratto è una strada di montagna con molti tornanti: chi soffre il mal d\'auto lo sente, e non è un dettaglio da poco su un viaggio lungo.',
+      "Gli autobus da Kuala Lumpur (terminal TBS) arrivano a Tanah Rata in circa 4 ore, da Ipoh in circa 2 e da Penang in 4-5; nei fine settimana conviene prenotarli. In treno ETS si arriva a Ipoh o a Tapah Road, poi taxi o autobus per la salita. L'ultimo tratto è una strada di montagna con molti tornanti: chi soffre l'auto lo sente.",
     comeSpostarsi:
       'Le distanze tra i punti d\'interesse sono scomode a piedi e i mezzi pubblici sono radi: quasi tutti si aggregano a un tour di mezza giornata o prendono un taxi per la giornata. Grab funziona a singhiozzo.',
     periodoMigliore:
       'tutto l\'anno, con temperature fresche e stabili. Le piogge sono frequenti nel pomeriggio in ogni stagione: le uscite vanno programmate al mattino.',
-    costi: "ingresso alle piantagioni gratuito o simbolico; i tour di mezza giornata si pagano, con prezzi da confrontare tra le agenzie di Tanah Rata.",
+    costi:
+      "Piantagioni BOH a ingresso gratuito, Mossy Forest circa 30 RM per gli stranieri, sentieri gratuiti; i tour di mezza giornata si confrontano tra le agenzie di Tanah Rata. Budget al giorno a persona in doppia: 25-40 € con guesthouse a Tanah Rata e cibo locale, 50-80 € con hotel a Brinchang e tour guidati, da 120 € nei resort coloniali.",
     erroriDaEvitare: [
       'Andarci in un fine settimana o durante le vacanze scolastiche malesi: l\'altopiano è una meta domestica molto amata e le strade a tornanti diventano una coda',
       'Non portare niente di caldo: qui, unico posto del viaggio, la sera si gela',
@@ -1092,7 +1093,12 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "In auto o in tour da Tanah Rata o Brinchang. Strade di montagna strette.",
         quando: "Al mattino, con meno nebbia e meno gente.",
         tempo: "2 ore",
-        consiglio: "Prendere il tè in terrazza e guardare le colline per mezz'ora: è la parte migliore."
+        costo: "ingresso gratuito; tè e dolci a pagamento",
+        orari: "BOH Sungei Palas: 8.30-16.30, chiuso il lunedì; aperto in alcuni festivi (sito ufficiale BOH).",
+        url: "https://bohtea.com/visit-our-tea-gardens/",
+        lat: 4.51638,
+        lng: 101.41625,
+        consiglio: "Prendere il tè in terrazza e guardare le colline per mezz'ora: è la parte migliore.",
       },
       {
         nome: "Mossy Forest sul Gunung Brinchang",
@@ -1100,15 +1106,22 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "In fuoristrada o con un tour guidato da Tanah Rata o Brinchang. Chiedere di essere portati alla parte vera, non solo alla passerella accanto al parcheggio della torre.",
         quando: "Al mattino presto: la nebbia sale a metà giornata.",
         tempo: "2-3 ore",
-        consiglio: "Preferire un tour guidato con un'ora in più: i tour più economici portano solo alla passerella affollata."
+        costo: "circa 30 RM per gli adulti stranieri fino alla fine della passerella (circa 6 €, tariffa riportata dagli operatori)",
+        orari: "Tutti i giorni 8-17 (Dipartimento forestale del Pahang).",
+        url: "https://www.forestry.gov.my/en/pahang/taman-eko-rimba-mossy",
+        lat: 4.50064,
+        lng: 101.38919,
+        consiglio: "Preferire un tour guidato con un'ora in più: i tour più economici portano solo alla passerella affollata.",
       },
       {
         nome: "Fattorie di fragole e serre",
-        testo: "La coltivazione di fragole e verdure è l\'altra attività tipica dell'altopiano. Si visitano le serre, si mangiano fragole e si compra miele e tè.",
+        testo: "La coltivazione di fragole e verdure è l'altra attività tipica dell'altopiano. Si visitano le serre, si mangiano fragole e si compra miele e tè.",
         come: "In auto o con un tour, lungo la strada principale di Brinchang.",
         quando: "Al mattino.",
         tempo: "1 ora",
-        consiglio: "Non aspettarsi il paesaggio incontaminato: molte zone sono coperte dalle serre di plastica."
+        lat: 4.49618,
+        lng: 101.38628,
+        consiglio: "Non aspettarsi il paesaggio incontaminato: molte zone sono coperte dalle serre di plastica.",
       },
       {
         nome: "Brinchang e il mercato",
@@ -1116,38 +1129,122 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "A piedi da Brinchang o in bus da Tanah Rata.",
         quando: "Nel tardo pomeriggio e la sera.",
         tempo: "2 ore",
-        consiglio: "Portare una felpa: la sera fa freddo."
-      }
+        costo: "gratuito",
+        lat: 4.491,
+        lng: 101.3885,
+        consiglio: "Portare una felpa: la sera fa freddo.",
+      },
+      {
+        nome: "Il mercato di Kea Farm",
+        testo: "Una fila di banchi lungo la strada principale, sotto le serre, con fragole, mais dolce, patate dolci, piante, miele e souvenir. È il mercato dei prodotti dell'altopiano più frequentato.",
+        come: "Sulla strada tra Brinchang e la piantagione di Sungei Palas, in auto o con i tour.",
+        quando: "Al mattino, con i prodotti appena raccolti.",
+        tempo: "45 minuti",
+        costo: "gratuito",
+        lat: 4.50438,
+        lng: 101.4067,
+      },
+      {
+        nome: "Il tempio di Sam Poh",
+        testo: "Un tempio buddhista cinese su una collina sopra Brinchang, con statue dorate, leoni di pietra e una vista sui tetti del paese e sulle serre.",
+        come: "A piedi in salita da Brinchang, 10-15 minuti.",
+        quando: "Al mattino o al tramonto.",
+        tempo: "30 minuti",
+        costo: "ingresso libero",
+        lat: 4.48885,
+        lng: 101.39112,
+      },
+      {
+        nome: "Time Tunnel",
+        testo: "Un piccolo museo privato pieno di oggetti della vita quotidiana malese del Novecento, ricostruzioni di negozi e foto dell'altopiano coloniale. Ingenuo ma divertente con la pioggia.",
+        come: "Alla periferia di Brinchang, verso Kea Farm.",
+        quando: "Nei pomeriggi di pioggia.",
+        tempo: "1 ora",
+        lat: 4.49729,
+        lng: 101.39526,
+      },
+      {
+        nome: "Robinson Falls e il sentiero 9",
+        testo: "Una cascata alla fine di un breve sentiero nel bosco, a pochi minuti da Tanah Rata. Da qui il sentiero 9A scende tra la foresta fino alla piantagione BOH di Habu.",
+        come: "A piedi dal fondo di Tanah Rata, seguendo la strada verso la centrale idroelettrica.",
+        quando: "Al mattino, prima delle piogge del pomeriggio.",
+        tempo: "1-3 ore secondo il percorso",
+        costo: "gratuito",
+        lat: 4.4636,
+        lng: 101.38775,
+        consiglio: "I sentieri dell'altopiano si chiudono e riaprono per frane e manutenzione: chiedere in paese quali sono aperti.",
+      },
+      {
+        nome: "Gunung Jasar e il sentiero 10",
+        testo: "Il sentiero più facile di Tanah Rata sale in un'ora circa fino alla cima del Gunung Jasar, a circa 1.700 metri, nella foresta, con qualche vista sulle colline.",
+        come: "Dall'inizio del sentiero 10, sopra il paese.",
+        quando: "Al mattino presto, con la nebbia che si alza.",
+        tempo: "2-3 ore andata e ritorno",
+        costo: "gratuito",
+        lat: 4.47818,
+        lng: 101.36096,
+        consiglio: "Fango e radici: scarpe da trekking e qualcosa per la pioggia.",
+      },
+      {
+        nome: "Tanah Rata",
+        testo: "Il paese principale dell'altopiano, a circa 1.440 metri, con la stazione degli autobus, guesthouse, ristoranti indiani e cinesi e l'inizio di diversi sentieri. È la base più comoda per chi non guida.",
+        come: "Gli autobus da Kuala Lumpur, Ipoh e Penang arrivano qui.",
+        quando: "La sera, per cenare.",
+        tempo: "1 ora",
+        costo: "gratuito",
+        lat: 4.47069,
+        lng: 101.37769,
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Mattina presto: Mossy Forest con tour guidato",
-          "Tarda mattina: piantagione di tè con tè in terrazza",
-          "Pranzo a Brinchang",
-          "Primo pomeriggio: fattoria di fragole",
-          "Sera: steamboat a Brinchang"
-        ]
+          "Mossy Forest con tour guidato all'alba",
+          "Piantagione di Sungei Palas con tè in terrazza",
+          "Mercato di Kea Farm e una fattoria di fragole",
+          "Pomeriggio a Brinchang e al tempio di Sam Poh",
+          "Sera: steamboat",
+        ],
       },
       {
         titolo: "2 giorni",
         tappe: [
-          "Come sopra, e nel secondo giorno trekking leggero sui sentieri di Tanah Rata e un po' di tempo libero"
-        ]
-      }
+          "Giorno 1: il giorno sopra",
+          "Giorno 2: sentiero 10 al Gunung Jasar al mattino",
+          "Robinson Falls nel pomeriggio",
+          "Sera a Tanah Rata",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2: come sopra",
+          "Giorno 3: piantagioni lungo la strada di Ringlet",
+          "Time Tunnel se piove",
+          "Partenza per Ipoh nel pomeriggio",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Tanah Rata",
         perChi: "chi vuole stare vicino ai sentieri e ai bus",
-        testo: "Il centro con ostelli e guesthouse, comodo per escursioni e ristoranti. Un po' trafficato."
+        testo: "Il centro con ostelli e guesthouse, comodo per escursioni e ristoranti. Un po' trafficato.",
+        fascia: "20-70 €",
       },
       {
         nome: "Brinchang",
         perChi: "chi vuole essere vicino alla Mossy Forest e al mercato",
-        testo: "Più tranquillo, con alberghi di fascia media e più freddo la sera."
-      }
+        testo: "Più tranquillo, con alberghi di fascia media e più freddo la sera.",
+        fascia: "40-120 €",
+      },
+      {
+        nome: "Kea Farm e Tringkap",
+        perChi: "chi viaggia in auto e vuole i resort",
+        testo: "Resort e appartamenti con vista sulle colline a nord di Brinchang, vicini a piantagioni e serre. Fuori dai paesi, serve l'auto.",
+        fascia: "50-150 €",
+      },
     ],
     sapori: [
       {
@@ -1172,6 +1269,52 @@ export const destinazioniMalesia: Destinazione[] = [
       "La sera fa fresco, e in quota anche freddo: portare qualcosa di caldo.",
       "Chi soffre l'auto: la strada di salita è piena di tornanti.",
       "Scegliere un tour per la Mossy Forest che arrivi alla parte vera e non solo alla passerella vicino al parcheggio."
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono alle Cameron Highlands?",
+        risposta: "Due giorni: uno per la Mossy Forest, le piantagioni e i mercati, uno per un sentiero e un po' di riposo. Con il terzo si scende con calma verso Ipoh.",
+      },
+      {
+        domanda: "Meglio dormire a Tanah Rata o a Brinchang?",
+        risposta: "Tanah Rata per autobus, sentieri e ristoranti; Brinchang per stare più vicini alla Mossy Forest e al mercato notturno.",
+      },
+      {
+        domanda: "Quanto costa la Mossy Forest?",
+        risposta: "Gli operatori riportano circa 30 RM per gli adulti stranieri fino alla fine della passerella; la parte oltre richiede un permesso forestale. È aperta dalle 8 alle 17.",
+      },
+      {
+        domanda: "Quando è aperta la piantagione BOH di Sungei Palas?",
+        risposta: "Dalle 8.30 alle 16.30, chiusa il lunedì tranne in alcuni festivi. L'ingresso è gratuito; si pagano tè e dolci.",
+      },
+      {
+        domanda: "Fa freddo alle Cameron Highlands?",
+        risposta: "Di giorno è fresco, la sera si scende spesso sotto i 15 gradi. Serve una felpa o una giacca leggera tutto l'anno.",
+      },
+      {
+        domanda: "Serve un tour o ci si muove da soli?",
+        risposta: "I mezzi pubblici sono radi: si prende un tour di mezza giornata, un taxi a giornata o si noleggia l'auto. I sentieri vicini a Tanah Rata si fanno a piedi.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Ipoh",
+        distanza: "circa 90 km, 2 ore in auto o bus",
+        come: "In bus da Tanah Rata o in auto lungo la strada di Simpang Pulai.",
+        testo: "La città dei templi nelle grotte calcaree, della città vecchia con i murales e del white coffee. Una buona tappa scendendo dall'altopiano.",
+      },
+      {
+        nome: "La cascata di Lata Iskandar",
+        distanza: "circa 30 km, 40 minuti in auto",
+        come: "Sulla vecchia strada verso Tapah, in auto o come sosta del bus.",
+        testo: "Una cascata che scende sulle rocce accanto alla strada di montagna, con bancarelle di frutta e prodotti degli orang asli.",
+      },
+      {
+        nome: "Kellie's Castle",
+        distanza: "circa 80 km, 1,5-2 ore in auto",
+        come: "In auto verso Batu Gajah, vicino a Ipoh.",
+        testo: "La villa incompiuta di un piantatore scozzese del primo Novecento, rimasta a metà dopo la sua morte. Rovine in mattoni rossi tra le piantagioni.",
+      },
     ],
     esperienzeSlugs: ['piantagioni-te-cameron'],
     tripSlugs: ['malesia-singapore'],
@@ -1346,12 +1489,13 @@ export const destinazioniMalesia: Destinazione[] = [
     doveMangiare:
       'L\'isola vive di turismo e i prezzi lo riflettono, ma bastano pochi metri dalla spiaggia per rientrare negli standard malesi: i banchi dei mercati notturni sono l\'opzione migliore e più economica. Il pesce alla griglia e i curry di pesce sono la cucina naturale del posto.',
     comeArrivare:
-      'Volo su Langkawi (LGK) da Kuala Lumpur o Penang, oppure traghetto da Kuala Kedah, Penang o Satun in Thailandia, utile per chi combina i due paesi.',
+      "L'aeroporto di Langkawi (LGK) è a 10 minuti da Pantai Cenang, con voli da Kuala Lumpur in circa un'ora, da Penang e da Singapore. I traghetti arrivano al molo di Kuah da Kuala Perlis (circa 1 ora e 15) e Kuala Kedah (circa 1 ora e 45), collegate ai treni e agli autobus della costa ovest; altri traghetti arrivano da Penang e, nella stagione secca, da Satun e Koh Lipe in Thailandia.",
     comeSpostarsi:
       'Auto o scooter a noleggio sono il mezzo giusto: l\'isola è grande, i mezzi pubblici quasi inesistenti e i taxi cari rispetto al resto del paese. Guidare è semplice e le strade sono buone.',
     periodoMigliore:
       'la stagione secca della costa ovest, intorno all\'inizio dell\'anno, con il mare più calmo. Nei mesi centrali le piogge sono più frequenti e può arrivare la foschia da incendi dall\'Indonesia.',
-    costi: "funivia e Sky Bridge a pagamento (tariffe sul sito ufficiale), giro nelle mangrovie a barca da dividere, noleggio scooter economico.",
+    costi:
+      "Funivia e Sky Bridge circa 80-90 RM per i non malesi, giro in barca nelle mangrovie da dividere, Underwater World circa 60 RM; Telaga Tujuh e le spiagge gratuite; scooter a noleggio economico. Budget al giorno a persona in doppia: 30-45 € con guesthouse a Cenang e mercati notturni, 70-110 € in resort con auto a noleggio, da 250 € nei resort della costa nord.",
     erroriDaEvitare: [
       'Aspettarsi acque da cartolina thailandese: il mare di Langkawi è spesso torbido perché siamo alla foce di sistemi fluviali, e chi cerca il turchese resta deluso',
       'Salire alla funivia nel primo pomeriggio, quando la foschia copre la vista e la coda è lunga',
@@ -1367,8 +1511,12 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "Dalla stazione base si prende la funivia fino alla stazione alta, poi l'ascensore inclinato SkyGlide o un sentiero porta al ponte.",
         quando: "Al mattino, quando la foschia è minore e le code più corte.",
         tempo: "3 ore",
+        costo: "funivia e Sky Bridge circa 80-90 RM per i non malesi (circa 16-18 €, prezzi dei rivenditori 2026)",
+        orari: "SkyCab di solito 9.30-18; alcuni mercoledì apre solo dalle 12 per manutenzione. Quando la funivia è chiusa lo sono anche Sky Bridge e SkyGlide (calendario ufficiale, novembre-dicembre 2026).",
         url: "https://www.panoramalangkawi.com/",
-        consiglio: "Salire all'apertura: verso mezzogiorno la foschia copre la vista."
+        lat: 6.37136,
+        lng: 99.6716,
+        consiglio: "Salire all'apertura: verso mezzogiorno la foschia copre la vista.",
       },
       {
         nome: "Telaga Tujuh (Seven Wells)",
@@ -1376,7 +1524,10 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "A circa 1,5 km a nord di Oriental Village, la base della funivia: in scooter o auto fino al parcheggio, poi a piedi.",
         quando: "Al mattino presto.",
         tempo: "1 ora e mezza",
-        consiglio: "Si abbina alla funivia nella stessa mattinata. Scarpe adatte: le rocce bagnate sono scivolose."
+        costo: "gratuito",
+        lat: 6.38178,
+        lng: 99.67288,
+        consiglio: "Si abbina alla funivia nella stessa mattinata. Scarpe adatte: le rocce bagnate sono scivolose.",
       },
       {
         nome: "Mangrovie di Kilim",
@@ -1384,7 +1535,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "In barca con operatori, dall'imbarcadero di Kilim. Il giro dura qualche ora.",
         quando: "Al mattino.",
         tempo: "mezza giornata",
-        consiglio: "Chiedere in anticipo se l'operatore dà da mangiare alle aquile: è una pratica discutibile."
+        lat: 6.405,
+        lng: 99.85843,
+        consiglio: "Chiedere in anticipo se l'operatore dà da mangiare alle aquile: è una pratica discutibile.",
       },
       {
         nome: "Pantai Cenang",
@@ -1392,40 +1545,165 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "In scooter o taxi dall'aeroporto, che è vicino.",
         quando: "Il tramonto.",
         tempo: "2 ore",
-        consiglio: "Chi cerca il mare turchese deve andare alle Perhentian: qui c'è la vita da spiaggia."
-      }
+        costo: "gratuito",
+        lat: 6.29576,
+        lng: 99.72239,
+        consiglio: "Chi cerca il mare turchese deve andare alle Perhentian: qui c'è la vita da spiaggia.",
+      },
+      {
+        nome: "Tanjung Rhu",
+        testo: "La spiaggia più bella dell'isola, sulla costa nord: sabbia chiara, casuarine e isolotti calcarei davanti, con l'acqua spesso più limpida che a Cenang. Con la bassa marea si cammina fino a un isolotto.",
+        come: "In auto o scooter, circa 40 minuti da Cenang.",
+        quando: "Al tramonto, o con la bassa marea per arrivare all'isolotto.",
+        tempo: "mezza giornata",
+        costo: "gratuito",
+        lat: 6.45851,
+        lng: 99.82543,
+      },
+      {
+        nome: "Dataran Lang",
+        testo: "La piazza sul porto di Kuah con l'aquila rossa e bruna alta 12 metri, simbolo dell'isola: secondo la leggenda il nome Langkawi viene da helang, aquila, e kawi, il colore bruno-rossastro.",
+        come: "A piedi dal molo dei traghetti di Kuah.",
+        quando: "Al tramonto, o arrivando in traghetto.",
+        tempo: "30 minuti",
+        costo: "gratuito",
+        lat: 6.30846,
+        lng: 99.85196,
+      },
+      {
+        nome: "Underwater World",
+        testo: "Il grande acquario di Pantai Cenang, con un tunnel sotto la vasca degli squali, pinguini e una sezione sulle mangrovie e la foresta pluviale. Utile con i bambini o nei pomeriggi di pioggia.",
+        come: "A piedi sulla strada principale di Pantai Cenang.",
+        quando: "Nelle ore calde o con la pioggia.",
+        tempo: "2 ore",
+        costo: "circa 60 RM per i non malesi (circa 12 €, prezzi dei rivenditori 2026)",
+        orari: "Di solito 10-18, più a lungo nei festivi.",
+        lat: 6.28772,
+        lng: 99.72859,
+      },
+      {
+        nome: "Pulau Dayang Bunting",
+        testo: "La seconda isola dell'arcipelago, nel geoparco, con il lago della Fanciulla Incinta, un lago d'acqua dolce tra pareti calcaree separato dal mare da una sottile cresta. Ci si fa il bagno, tra pesci e scimmie sulla riva.",
+        come: "Con i giri in barca tra le isole da Pantai Cenang o da Kuah, che fanno tappa anche a Pulau Beras Basah e al punto delle aquile.",
+        quando: "Al mattino, con il mare calmo.",
+        tempo: "mezza giornata con il giro delle isole",
+        lat: 6.23222,
+        lng: 99.79972,
+        consiglio: "Tenere borse e cibo chiusi: le scimmie sul molo rubano.",
+      },
+      {
+        nome: "Gunung Raya",
+        testo: "La montagna più alta di Langkawi, circa 880 metri, con una strada che sale tra la foresta fino a una torre panoramica. Dalla cima si vede tutto l'arcipelago e, con l'aria limpida, la costa thailandese.",
+        come: "In auto o scooter, strada asfaltata ripida fino in cima.",
+        quando: "Al mattino presto: lungo la strada si vedono buceri e scimmie.",
+        tempo: "2 ore",
+        lat: 6.36882,
+        lng: 99.81831,
+        consiglio: "Con le nuvole basse non si vede niente: meglio un giorno sereno.",
+      },
+      {
+        nome: "La tomba di Mahsuri",
+        testo: "Il mausoleo di Mahsuri, la donna giustiziata ingiustamente nel Settecento che, secondo la leggenda, maledisse l'isola per sette generazioni. Intorno c'è un piccolo villaggio tradizionale malese con case di legno.",
+        come: "A circa 12 km da Cenang, in auto o scooter.",
+        quando: "Di giorno.",
+        tempo: "1 ora",
+        lat: 6.33874,
+        lng: 99.78399,
+      },
+      {
+        nome: "La cascata di Durian Perangin",
+        testo: "Una cascata a gradini nella foresta del nord dell'isola, con pozze dove fare il bagno, meno frequentata di Telaga Tujuh. Si sale per una scalinata nel bosco.",
+        come: "In auto o scooter, circa 15 km da Kuah verso nord.",
+        quando: "Dopo le piogge, quando ha più acqua; nella stagione secca può essere quasi asciutta.",
+        tempo: "1-2 ore",
+        costo: "gratuito",
+        lat: 6.40171,
+        lng: 99.82054,
+      },
+      {
+        nome: "Laman Padi",
+        testo: "Un piccolo museo del riso con risaie dimostrative a Pantai Cenang, dove si vede come si coltiva il riso nella pianura di Langkawi e si mangia in un ristorante che affaccia sui campi.",
+        come: "Sulla strada principale di Pantai Cenang, a piedi.",
+        quando: "Al tramonto, con la luce sulle risaie.",
+        tempo: "1 ora",
+        lat: 6.29858,
+        lng: 99.72239,
+      },
+      {
+        nome: "Pantai Kok",
+        testo: "Una baia sulla costa ovest, sotto le montagne della funivia, con acqua più verde e calma, resort e lo yacht club di Telaga. È la spiaggia da abbinare alla funivia e a Telaga Tujuh.",
+        come: "In auto o scooter, circa 15 minuti da Cenang.",
+        quando: "Pomeriggio, dopo la funivia.",
+        tempo: "2 ore",
+        costo: "gratuito",
+        lat: 6.36639,
+        lng: 99.67778,
+      },
+      {
+        nome: "Il mercato notturno",
+        testo: "Ogni sera si tiene un pasar malam in un paese diverso dell'isola, con banchi di satay, pesce alla griglia, murtabak e dolci malesi. Quello di Pantai Cenang è tra i più comodi per chi dorme in spiaggia.",
+        come: "A piedi o in scooter; il giorno e il luogo cambiano: chiedere in hotel.",
+        quando: "Dal tardo pomeriggio fino alle 22 circa.",
+        tempo: "1-2 ore",
+        lat: 6.29914,
+        lng: 99.72753,
+        consiglio: "È il posto dove si mangia meglio e spendendo meno.",
+      },
     ],
     programmi: [
       {
+        titolo: "1 giorno",
+        tappe: [
+          "Funivia e Sky Bridge all'apertura",
+          "Telaga Tujuh e Pantai Kok",
+          "Pomeriggio a Laman Padi",
+          "Tramonto a Pantai Cenang e mercato notturno",
+        ],
+      },
+      {
         titolo: "2 giorni",
         tappe: [
-          "Giorno 1: Sky Bridge all'apertura, pranzo, Pantai Cenang al tramonto",
-          "Giorno 2: mangrovie di Kilim al mattino, giro tra le isole nel pomeriggio"
-        ]
+          "Giorno 1: il giorno sopra",
+          "Giorno 2: mangrovie di Kilim al mattino",
+          "Pomeriggio a Tanjung Rhu",
+          "Cena a Kuah e Dataran Lang al tramonto",
+        ],
       },
       {
         titolo: "3 giorni",
         tappe: [
-          "Come i 2 giorni, con il terzo giorno libero: spiagge del nord, un giro in scooter tra le risaie, il tramonto a Tanjung Rhu"
-        ]
-      }
+          "Giorni 1-2: come sopra",
+          "Giorno 3: giro delle isole con Dayang Bunting al mattino",
+          "Pomeriggio: Gunung Raya o Durian Perangin",
+          "Tomba di Mahsuri sulla via del ritorno",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Pantai Cenang",
         perChi: "chi vuole spiaggia, bar e cena fuori",
-        testo: "La zona più animata, con molta scelta. Rumorosa e affollata."
+        testo: "La zona più animata, con molta scelta. Rumorosa e affollata.",
+        fascia: "40-150 €",
       },
       {
         nome: "Pantai Tengah",
         perChi: "chi cerca un po' di calma",
-        testo: "Accanto a Cenang, più tranquilla, con resort e guesthouse."
+        testo: "Accanto a Cenang, più tranquilla, con resort e guesthouse.",
+        fascia: "50-200 €",
       },
       {
         nome: "Kuah",
         perChi: "chi arriva in traghetto o vuole risparmiare",
-        testo: "Il capoluogo, con il porto e i prezzi più bassi, ma lontano dalle spiagge."
-      }
+        testo: "Il capoluogo, con il porto e i prezzi più bassi, ma lontano dalle spiagge.",
+        fascia: "25-60 €",
+      },
+      {
+        nome: "Tanjung Rhu e Datai",
+        perChi: "chi cerca resort e tranquillità",
+        testo: "I grandi resort della costa nord, tra foresta e spiagge chiare, lontani da tutto: serve l'auto o il taxi per ogni uscita.",
+        fascia: "200-600 €",
+      },
     ],
     sapori: [
       {
@@ -1450,6 +1728,52 @@ export const destinazioniMalesia: Destinazione[] = [
       "Scooter: patente internazionale e casco, i controlli esistono.",
       "Aquile e scimmie nelle mangrovie: non dare da mangiare e chiedere all'operatore se lo fa.",
       "Nei mesi secchi può arrivare la foschia degli incendi dall'Indonesia: controllare le notizie."
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Langkawi?",
+        risposta: "Tre giorni: uno per la funivia e la costa ovest, uno per le mangrovie di Kilim e Tanjung Rhu, uno per il giro delle isole e un po' di spiaggia.",
+      },
+      {
+        domanda: "Il mare di Langkawi è bello?",
+        risposta: "È spesso verdastro e torbido, per la vicinanza dei fiumi dello Stretto di Malacca. Le spiagge migliori sono Tanjung Rhu e quelle del nord; per il turchese si va alle Perhentian o a Koh Lipe.",
+      },
+      {
+        domanda: "Serve noleggiare l'auto a Langkawi?",
+        risposta: "Sì, o uno scooter: l'isola è grande e i mezzi pubblici quasi non esistono. Le strade sono buone; serve la patente internazionale.",
+      },
+      {
+        domanda: "A che ora apre la funivia?",
+        risposta: "Di solito alle 9.30, fino alle 18; alcuni mercoledì apre dalle 12 per la manutenzione. Il calendario aggiornato è sul sito ufficiale di Panorama Langkawi.",
+      },
+      {
+        domanda: "Quando andare a Langkawi?",
+        risposta: "Da novembre ad aprile, con il mare più calmo e meno pioggia. Da maggio a ottobre piove più spesso e può arrivare la foschia degli incendi dall'Indonesia.",
+      },
+      {
+        domanda: "Langkawi è davvero duty free?",
+        risposta: "Sì: alcol, cioccolato e tabacco costano meno che sulla terraferma. Uscendo dall'isola ci sono limiti alle quantità che si possono portare.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Il giro delle isole",
+        distanza: "mezza giornata in barca",
+        come: "Con gli operatori di Pantai Cenang o Kuah, in gruppo o in barca privata.",
+        testo: "Pulau Dayang Bunting con il suo lago, Pulau Beras Basah per il bagno e il punto delle aquile. Conviene chiedere se l'operatore dà da mangiare alle aquile e sceglierne uno che non lo fa.",
+      },
+      {
+        nome: "Koh Lipe",
+        distanza: "circa 1,5 ore di traghetto",
+        come: "Traghetto veloce da Pantai Cenang o da Kuah, nella stagione secca; si passa la frontiera thailandese con il passaporto.",
+        testo: "L'isola thailandese con il mare limpido che a Langkawi manca. Si va per almeno una notte, non in giornata.",
+      },
+      {
+        nome: "Penang",
+        distanza: "circa 3 ore di traghetto",
+        come: "Traghetto da Kuah a George Town, oppure volo di 30 minuti.",
+        testo: "George Town, con il centro storico UNESCO e il cibo di strada: la tappa successiva naturale.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],

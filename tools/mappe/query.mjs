@@ -5,6 +5,8 @@
 // Esperienze: null = nessun luogo più preciso della sua destinazione → usa le coordinate della destinazione;
 //             false = diffusa in tutto il Paese ("Ovunque in Corea", "Tutte le zone vitivinicole") → fuori mappa.
 export const QUERY = {
+  // Nominatim con «Chongqing» restituiva il centro della municipalità (130 km a est): la città è Yuzhong
+  'cina/chongqing': 'Yuzhong District, Chongqing',
   // --- destinazioni-tema, senza un punto preciso
   'italia/sciare-in-italia': null,
   'italia/italia-inesplorata': null,

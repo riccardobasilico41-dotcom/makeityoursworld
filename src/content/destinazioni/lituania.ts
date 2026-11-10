@@ -42,12 +42,12 @@ export const destinazioniLituania: Destinazione[] = [
     doveMangiare:
       'Il piatto nazionale sono i cepelinai, grandi gnocchi di patata ripieni di carne o formaggio. D\'estate il simbolo della cucina lituana è la šaltibarščiai, zuppa fredda di barbabietola di un rosa acceso, servita con patate lesse. Il kibinas, il fagottino ripieno portato in Lituania dalla comunità caraima di Trakai, si trova anche a Vilnius. Diversi ristoranti del centro storico fanno cucina lituana contemporanea a prezzi ancora contenuti rispetto all\'Europa occidentale.',
     comeArrivare:
-      'L\'Aeroporto Internazionale di Vilnius (VNO) è vicino al centro: treno o bus pubblico, oppure taxi o app di trasporto. Da alcuni aeroporti italiani ci sono voli diretti low cost, stagionali o tutto l\'anno; altrimenti si fa scalo in un hub europeo.',
+      "L'Aeroporto Internazionale di Vilnius (VNO) è vicino al centro: treno o bus pubblico, oppure taxi o app di trasporto. Da alcuni aeroporti italiani ci sono voli diretti low cost, stagionali o tutto l'anno; altrimenti si fa scalo in un hub europeo. L'aeroporto è a circa 7 km: il treno arriva alla stazione centrale in circa 10 minuti (circa 0,80 €, app LTG Link o macchinetta, corse poco frequenti), i bus 3G e 88 in 15-25 minuti con il biglietto urbano da circa 1 € (app Trafi o m.Ticket), Bolt costa circa 8-12 €. Da Riga il bus Lux Express impiega circa 4 ore, con prezzi da pochi euro prenotando in anticipo fino a 20-25 €.",
     comeSpostarsi:
       'Il centro storico si gira tutto a piedi. Per il resto della città bus e filobus pubblici sono economici e frequenti. Per Trakai c\'è il treno regionale o il bus dalla stazione centrale.',
     periodoMigliore:
       'maggio-settembre, per il clima mite e le giornate lunghe. Giugno-agosto è la stagione più calda e affollata, con il picco del solstizio a fine giugno. L\'inverno (novembre-marzo) è freddo, ma la città regge bene e a dicembre ci sono i mercatini di Natale.',
-    costi: 'città economica per gli standard dell\'Europa occidentale: ingressi, ristoranti e birra costano meno che nell\'Europa occidentale; prezzi aggiornati sui siti ufficiali.',
+    costi: "Città economica per gli standard dell'Europa occidentale, in linea con Riga. Budget giornaliero a persona con alloggio in doppia: 45-65 € spendendo poco (camera semplice, pranzi al mercato di Halės), 85-125 € di fascia media (hotel 3-4 stelle in Città Vecchia, un paio di ingressi, cena al ristorante), oltre 170 € con hotel di lusso. Ingressi 2026: Torre di Gediminas 8 €, funicolare 2-3 €, Palazzo dei Granduchi 16 € completo, MO Museum 11 €; castelli di Trakai circa 17 €.",
     erroriDaEvitare: [
       'Pensare che chi parla lituano capisca il lettone (la lingua della vicina Riga): sono lingue baltiche imparentate alla lontana, ma l\'una non si capisce partendo dall\'altra',
       'Attraversare Užupis in fretta: il senso del posto sta nel fermarsi, leggere il Muro della Costituzione e girare senza meta tra le gallerie',
@@ -80,6 +80,8 @@ export const destinazioniLituania: Destinazione[] = [
         ],
       },
     ],
+    miaEsperienza:
+      "Vilnius è stata la prima tappa del giro delle capitali baltiche con gli amici: tre giorni tra la Città Vecchia, la Torre di Gediminas, il Palazzo dei Granduchi e Užupis, poi il bus per Riga.",
     luoghi: [
       {
         nome: "Cattedrale di Vilnius e Piazza della Cattedrale",
@@ -88,6 +90,9 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Mattina, per la luce e meno folla.",
         tempo: "45 minuti",
         costo: "ingresso libero",
+        orari: "Piazza sempre accessibile; cripte solo con visita guidata",
+        lat: 54.68589,
+        lng: 25.28779,
         consiglio: "Dentro, non perdere la cappella barocca di San Casimiro."
       },
       {
@@ -96,9 +101,35 @@ export const destinazioniLituania: Destinazione[] = [
         come: "A piedi dalla Piazza della Cattedrale, o con l'ascensore del colle.",
         quando: "Tardo pomeriggio, per la luce sul tetto rosso della Città Vecchia.",
         tempo: "1,5 ore",
-        costo: "biglietti di torre e ascensore sul sito del Museo nazionale",
+        costo: "Torre 8 €; funicolare 2 € andata, 3 € andata e ritorno (2026)",
+        lat: 54.6867,
+        lng: 25.2907,
         url: "https://www.lnm.lt",
         consiglio: "Salire a piedi e, se serve, scendere con l'ascensore."
+      },
+      {
+        nome: "Palazzo dei Granduchi e Museo dell'Occupazione",
+        testo: "Il Palazzo, ricostruito sulle rovine del castello reale, racconta il Granducato. A breve distanza, il Museo delle Occupazioni e delle Lotte per la Libertà, nell'ex sede KGB, documenta il periodo sovietico.",
+        come: "A piedi: il Palazzo ai piedi della collina, il Museo in centro, a breve distanza.",
+        quando: "Mattina; orari e giorni di chiusura sul sito ufficiale.",
+        tempo: "2 ore per ognuno",
+        costo: "Palazzo dei Granduchi: biglietto completo 16 €, singoli percorsi 4-10 € (2026)",
+        orari: "Palazzo d'estate (1 giugno-31 agosto) lun-mer e dom 10-18, gio-sab 10-20; nel resto dell'anno orari ridotti, di solito chiuso il lunedì. Museo dell'Occupazione: orari sul sito",
+        lat: 54.68621,
+        lng: 25.28944,
+        url: "https://www.valdovurumai.lt/en/visit",
+        consiglio: "Le celle nel sotterraneo del KGB sono dure da visitare, ma importanti."
+      },
+      {
+        nome: "Via Pilies e Piazza del Municipio",
+        testo: "Pilies gatvė è la via più antica della città, dalla Piazza della Cattedrale verso sud, con bancarelle di ambra e lino. Prosegue in Didžioji fino alla Piazza del Municipio, triangolare, con il Municipio neoclassico: è l'asse su cui si muove tutta la visita della Città Vecchia.",
+        come: "A piedi, dalla Cattedrale verso la Porta dell'Aurora.",
+        quando: "Di mattina per le facciate, la sera per i locali.",
+        tempo: "1 ora",
+        costo: "Ingresso libero",
+        orari: "Sempre accessibile",
+        lat: 54.68348,
+        lng: 25.28934
       },
       {
         nome: "Porta dell'Aurora",
@@ -107,6 +138,8 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Mattina.",
         tempo: "30 minuti",
         costo: "ingresso libero",
+        lat: 54.67431,
+        lng: 25.28956,
         consiglio: "È un luogo di preghiera: entrare nella cappella in silenzio."
       },
       {
@@ -116,6 +149,9 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Giorno; il 1° aprile è la festa dell'indipendenza.",
         tempo: "1-2 ore",
         costo: "ingresso libero",
+        orari: "Quartiere sempre accessibile",
+        lat: 54.68063,
+        lng: 25.29543,
         consiglio: "Cercare l'Angelo di Užupis, la statua con la tromba inaugurata nella piazza principale il 1° aprile 2002."
       },
       {
@@ -125,6 +161,8 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Mattina o sera.",
         tempo: "30-45 minuti",
         costo: "ingresso libero",
+        lat: 54.68302,
+        lng: 25.29321,
         consiglio: "Il lato migliore per la foto è dal cortile della Chiesa dei Bernardini."
       },
       {
@@ -133,61 +171,126 @@ export const destinazioniLituania: Destinazione[] = [
         come: "A piedi, in Pilies gatvė.",
         quando: "Mattina nei giorni feriali.",
         tempo: "1 ora",
+        orari: "Cortili visitabili lun-sab 9-18, con biglietto di pochi euro",
+        lat: 54.68282,
+        lng: 25.28783,
         url: "https://www.vu.lt",
         consiglio: "Nel Grande Cortile c'è il campanile di San Giovanni, che svetta sul centro."
       },
       {
-        nome: "Palazzo dei Granduchi e Museo dell'Occupazione",
-        testo: "Il Palazzo, ricostruito sulle rovine del castello reale, racconta il Granducato. A breve distanza, il Museo delle Occupazioni e delle Lotte per la Libertà, nell'ex sede KGB, documenta il periodo sovietico.",
-        come: "A piedi: il Palazzo ai piedi della collina, il Museo in centro, a breve distanza.",
-        quando: "Mattina; orari e giorni di chiusura sul sito ufficiale.",
-        tempo: "2 ore per ognuno",
-        url: "https://www.genocid.lt",
-        consiglio: "Le celle nel sotterraneo del KGB sono dure da visitare, ma importanti."
+        nome: "MO Museum",
+        testo: "Il museo d'arte moderna lituana dal 1960 a oggi, in un edificio bianco progettato da Daniel Libeskind, aperto nel 2018. La collezione racconta come gli artisti lavoravano sotto la censura sovietica e dopo; c'è anche una terrazza sopra l'ingresso.",
+        come: "A piedi dalla Piazza del Municipio in 10 minuti, in Pylimo gatvė.",
+        quando: "Pomeriggio o sera: chiude alle 20.",
+        tempo: "1,5-2 ore",
+        costo: "11 €, ridotto 6 €, famiglia 22 € (2026)",
+        orari: "Tutti i giorni 10-20, chiuso il martedì",
+        lat: 54.67935,
+        lng: 25.2775,
+        url: "https://mo.lt/en/"
+      },
+      {
+        nome: "Chiesa dei Santi Pietro e Paolo",
+        testo: "Fuori dal centro, nel quartiere di Antakalnis, ha uno degli interni barocchi più straordinari d'Europa: circa duemila figure di stucco bianco, santi, angeli, scene di battaglia e mostri marini, realizzate da artisti italiani nel Seicento. Dall'esterno non lo si immagina.",
+        come: "A piedi dalla Cattedrale in circa 25 minuti lungo il fiume, o bus fino ad Antakalnis.",
+        quando: "Di mattina, con la luce che entra dalle finestre.",
+        tempo: "45 minuti",
+        costo: "Ingresso libero",
+        lat: 54.69412,
+        lng: 25.30621,
+        consiglio: "Unirla al Parco di Kalnai e alla Collina delle Tre Croci, a metà strada."
+      },
+      {
+        nome: "Collina delle Tre Croci",
+        testo: "Tre croci bianche sulla collina del Parco di Kalnai, ricostruite nel 1989 dopo che le autorità sovietiche avevano fatto saltare le originali. È uno dei belvedere più ampi sulla Città Vecchia, meno affollato della Torre di Gediminas.",
+        come: "A piedi dal Parco di Kalnai, 15 minuti di salita sui sentieri nel bosco.",
+        quando: "Al tramonto.",
+        tempo: "1 ora",
+        costo: "Ingresso libero",
+        orari: "Parco sempre aperto",
+        lat: 54.68674,
+        lng: 25.29755
+      },
+      {
+        nome: "Literatų gatvė",
+        testo: "Una viuzza della Città Vecchia con il muro coperto da centinaia di piccole opere, targhe e oggetti dedicati a scrittori legati alla Lituania, da Mickiewicz a Dostoevskij. Si attraversa in pochi minuti, ma conviene guardarla da vicino.",
+        come: "A piedi, tra Pilies e Didžioji.",
+        quando: "Di giorno.",
+        tempo: "15 minuti",
+        costo: "Ingresso libero",
+        orari: "Sempre accessibile",
+        lat: 54.68226,
+        lng: 25.2901
+      },
+      {
+        nome: "Mercato coperto di Halės",
+        testo: "Il mercato coperto più antico della città, in un padiglione in ferro e vetro di fine Ottocento vicino alla Porta dell'Aurora. Tra i banchi di carne, pesce affumicato, formaggi e pane nero ci sono piccoli bar e chioschi dove si pranza bene a prezzi bassi.",
+        come: "A piedi dalla Porta dell'Aurora in 5 minuti.",
+        quando: "Di mattina, quando i banchi sono pieni.",
+        tempo: "45 minuti",
+        costo: "Ingresso libero",
+        lat: 54.67337,
+        lng: 25.28646
+      },
+      {
+        nome: "Giardino dei Bernardini (Bernardinų sodas)",
+        testo: "Il parco restaurato tra la chiesa dei Bernardini e il fiume Vilnia, con aiuole, una fontana musicale e panchine all'ombra. È il posto dove i vilnesi passano il pomeriggio d'estate, a due passi dalla Città Vecchia e da Užupis.",
+        come: "A piedi dalla Chiesa di Sant'Anna, 2 minuti.",
+        quando: "Pomeriggio d'estate; in autunno per i colori.",
+        tempo: "30-45 minuti",
+        costo: "Ingresso libero",
+        lat: 54.68369,
+        lng: 25.29719
       }
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Mattina: Cattedrale e Colle di Gediminas",
-          "Pranzo con cepelinai",
-          "Pomeriggio: Porta dell'Aurora e Pilies gatvė",
-          "Sera: Užupis"
+          "Mattina: Piazza della Cattedrale e salita alla Torre di Gediminas",
+          "Palazzo dei Granduchi",
+          "Pranzo in Via Pilies o al mercato di Halės",
+          "Pomeriggio: Università, Literatų gatvė, Chiesa di Sant'Anna e Giardino dei Bernardini",
+          "Tramonto a Užupis"
         ]
       },
       {
         titolo: "2 giorni",
         tappe: [
           "Giorno 1 come sopra",
-          "Giorno 2: Università e Sant'Anna",
-          "Palazzo dei Granduchi",
-          "Museo KGB"
+          "Giorno 2 mattina: Porta dell'Aurora e Piazza del Municipio",
+          "Museo dell'Occupazione",
+          "Pomeriggio: MO Museum (non di martedì)",
+          "Sera: Collina delle Tre Croci al tramonto"
         ]
       },
       {
         titolo: "3 giorni",
         tappe: [
-          "Giorni 1-2 come sopra",
-          "Giorno 3: gita a Trakai (vedi scheda)"
+          "Giorni 1 e 2 come sopra",
+          "Giorno 3 mattina: Chiesa dei Santi Pietro e Paolo ad Antakalnis",
+          "Pomeriggio: Trakai in treno, castello dell'isola e kibinai nel quartiere caraimo"
         ]
       }
     ],
     zone: [
       {
         nome: "Città Vecchia",
+        testo: "Vie di ciottoli e vita serale; caro e rumoroso nel weekend.",
         perChi: "Chi vuole stare a piedi vicino a tutto",
-        testo: "Vie di ciottoli e vita serale; caro e rumoroso nel weekend."
+        fascia: "70-140 €"
       },
       {
         nome: "Užupis",
+        testo: "Tranquillo, a pochi minuti a piedi; pochi alberghi.",
         perChi: "Chi cerca un'atmosfera da artisti",
-        testo: "Tranquillo, a pochi minuti a piedi; pochi alberghi."
+        fascia: "60-110 €"
       },
       {
         nome: "Naujamiestis",
+        testo: "Quartiere ottocentesco appena fuori dal centro, collegato a piedi o in bus.",
         perChi: "Chi vuole risparmiare",
-        testo: "Quartiere ottocentesco appena fuori dal centro, collegato a piedi o in bus."
+        fascia: "50-90 €"
       }
     ],
     sapori: [
@@ -212,6 +315,58 @@ export const destinazioniLituania: Destinazione[] = [
       "Taxi: usare un'app riconosciuta o un taxi registrato con tassametro acceso.",
       "Borseggiatori nei luoghi affollati e sui mezzi; nei locali non lasciare il bicchiere incustodito.",
       "D'inverno marciapiedi ghiacciati: scarpe adatte."
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Vilnius?",
+        risposta: "Due giorni per la Città Vecchia, Užupis, i musei principali e un tramonto dalla Collina delle Tre Croci. Con tre giorni si aggiunge Trakai, che è la gita più bella dalla capitale."
+      },
+      {
+        domanda: "Vilnius è cara?",
+        risposta: "No: insieme a Riga è tra le capitali più economiche dell'Unione Europea. Un pranzo al mercato o in una trattoria costa poco più di 10 €, e molti dei luoghi principali, chiese e quartieri, sono gratuiti."
+      },
+      {
+        domanda: "Come si va dall'aeroporto di Vilnius al centro?",
+        risposta: "Con il treno in circa 10 minuti fino alla stazione centrale (circa 0,80 €), con i bus 3G o 88 in 15-25 minuti, oppure con Bolt per circa 8-12 €."
+      },
+      {
+        domanda: "Si può andare a Trakai in giornata?",
+        risposta: "Sì, bastano mezza giornata e un treno o bus di circa 35 minuti. In bassa stagione il castello ha orari ridotti e giorni di chiusura: conviene controllarli prima."
+      },
+      {
+        domanda: "Cos'è la Repubblica di Užupis?",
+        risposta: "È il quartiere degli artisti oltre il fiume Vilnia, che il 1° aprile 1997 si è autoproclamato repubblica, con una costituzione ironica affissa in decine di lingue in via Paupio. Non serve alcun documento per entrare: è una festa, non un confine."
+      },
+      {
+        domanda: "Quando andare a Vilnius?",
+        risposta: "Da maggio a settembre per il clima e i tavoli all'aperto; dicembre per l'albero di Natale in Piazza della Cattedrale. D'inverno fa molto freddo, ma la città è tranquilla e costa ancora meno."
+      }
+    ],
+    gite: [
+      {
+        nome: "Trakai",
+        distanza: "circa 28 km, 35 minuti in treno",
+        come: "Treno regionale dalla stazione centrale o bus dall'autostazione accanto.",
+        testo: "L'antica capitale del Granducato, con il castello gotico in mattoni rossi sull'isola del lago Galvė e il quartiere caraimo con le case di legno e i kibinai. Biglietto combinato per i castelli circa 17 € nel 2026."
+      },
+      {
+        nome: "Kaunas",
+        distanza: "circa 100 km, 1-1,5 ore in treno",
+        come: "Treni frequenti dalla stazione centrale di Vilnius, o bus.",
+        testo: "La seconda città del paese, capitale tra le due guerre, con una Città Vecchia sul fiume, il castello e decine di edifici modernisti degli anni Venti e Trenta, patrimonio UNESCO dal 2023."
+      },
+      {
+        nome: "Europos Parkas",
+        distanza: "circa 20 km, 30 minuti in auto",
+        come: "In auto o taxi; con i mezzi pubblici il collegamento è scomodo.",
+        testo: "Un museo all'aperto di arte contemporanea nel bosco, con oltre cento sculture, vicino al punto che una stima geografica indicò come centro dell'Europa."
+      },
+      {
+        nome: "Collina delle Croci",
+        distanza: "circa 210 km, 2,5-3 ore in auto",
+        come: "In auto, con un tour organizzato, o in treno fino a Šiauliai e poi bus o taxi.",
+        testo: "Una collinetta coperta da centinaia di migliaia di croci, lasciate dai pellegrini anche quando i sovietici le facevano rimuovere. È lontana: ha senso come tappa verso Riga, più che come gita in giornata."
+      }
     ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
     tripSlugs: ['capitali-baltiche'],
@@ -254,6 +409,8 @@ export const destinazioniLituania: Destinazione[] = [
       'Fermarsi al ponte pedonale senza entrare nel museo: le sale interne, anche quelle sulla storia del Granducato, valgono il biglietto',
       'Pensare di cavarsela in pochi minuti: tra andata, visita e ritorno serve mezza giornata piena',
     ],
+    miaEsperienza:
+      "A Trakai siamo andati da Vilnius per un pomeriggio durante il giro delle capitali baltiche con gli amici: il castello dell'isola con il suo museo e la torre, e i kibinai prima di rientrare in serata.",
     luoghi: [
       {
         nome: "Castello dell'isola di Trakai",

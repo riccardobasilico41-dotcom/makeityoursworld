@@ -41,11 +41,10 @@ export const destinazioniBolivia: Destinazione[] = [
     doveDormire: 'Sopocachi per i ristoranti e la vita serale, zona San Pedro e centro per i prezzi bassi e la comodità alle agenzie.',
     doveMangiare:
       'A La Paz si mangia per strada meglio che al ristorante: salteñas a metà mattina (è un\'abitudine locale: a colazione non si mangiano), api con pastel, e le zuppe dei mercati coperti. Nella zona di Sopocachi c\'è l\'offerta più curata della città.',
-    comeArrivare:
-      'Volo internazionale su El Alto (LPB), uno degli aeroporti più alti del mondo a oltre 4.000 metri: si passa dal livello del mare alla quota massima in poche ore, con effetti che si sentono subito. Via terra, bus da Copacabana (circa 4 ore) o da Cusco passando dal Titicaca.',
+    comeArrivare: "I voli internazionali e interni atterrano a El Alto (LPB), a oltre 4.000 metri: si passa dal livello del mare alla quota massima in poche ore, con effetti che si sentono subito. Dall'aeroporto al centro ci sono circa 30-45 minuti di taxi ufficiale o chiamato dall'hotel, di più con il traffico o i blocchi; in aeroporto conviene cambiare pochi contanti e il resto in città. Via terra arrivano i bus da Copacabana (circa 3,5-4 ore) e da Puno o Cusco passando dal Titicaca; da Uyuni il bus notturno impiega circa 10 ore.",
     comeSpostarsi: 'Mi Teleférico per gli spostamenti lunghi, taxi radio per il resto. Evitare i taxi non ufficiali, soprattutto la sera.',
     periodoMigliore: 'maggio-ottobre, stagione secca; le notti sono fredde tutto l\'anno',
-    costi: 'corsa in teleferica 3 bolivianos, meno di mezzo euro; la città è tra le capitali più economiche al mondo',
+    costi: "Budget basso circa 20-35 € al giorno (ostello, almuerzo nei mercati, teleferica e minibus); medio 50-90 € (hotel a Sopocachi o in centro, ristoranti, taxi radio); alto da 150 € (hotel di design a San Jorge o Calacoto, guida privata, cene curate). Teleferica 3 bolivianos a tratta, meno di mezzo euro, con biglietto a parte a ogni cambio di linea; Valle de la Luna circa 15 bolivianos; Tiwanaku circa 100 bolivianos per gli stranieri; Carretera de la Muerte con pedaggio delle comunità di circa 50 bolivianos, spesso escluso dal prezzo.",
     erroriDaEvitare: [
       'Atterrare a El Alto e programmare qualcosa di impegnativo il giorno stesso: dal livello del mare a 4.000 metri il corpo non si adatta in poche ore',
       'Sottovalutare i blocchi stradali: quando ci sono, possono isolare la città per giorni e far saltare voli e trasferimenti',
@@ -60,9 +59,31 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Le stazioni sono in tutta la città; si compra il biglietto alla stazione.",
         "quando": "Al tramonto, quando la conca si illumina.",
         "tempo": "1-2 ore",
-        "costo": "Biglietto economico, si compra alla stazione: tariffe sul sito ufficiale",
+        "costo": "3 bolivianos a tratta (meno di 0,50 €), con un nuovo biglietto a ogni cambio di linea",
         "url": "https://www.miteleferico.bo/",
+        "lat": -16.49148,
+        "lng": -68.14482,
         "consiglio": "Rick le consiglia a chiunque: costano pochissimo e danno la vista migliore sulla conca."
+      },
+      {
+        "nome": "Plaza Murillo",
+        "testo": "La piazza del potere, con il Palazzo del Governo, il Parlamento e la cattedrale. È il punto da cui partono le vie coloniali del centro, sempre animata da piccioni, venditori e manifestazioni.",
+        "come": "A piedi dal centro, in salita dalla calle Comercio.",
+        "quando": "Mattina, quando la piazza è piena di gente del posto.",
+        "tempo": "30-45 minuti",
+        "lat": -16.49571,
+        "lng": -68.13356,
+        "consiglio": "Se c'è una manifestazione la polizia chiude gli accessi: si passa più tardi."
+      },
+      {
+        "nome": "Basilica di San Francisco",
+        "testo": "La chiesa barocca andina del Settecento, con la facciata in pietra scolpita con piante e figure indigene. Il convento accanto ha un museo e si può salire sui tetti per la vista sulla conca.",
+        "come": "In centro, sulla Plaza San Francisco, all'inizio della calle Sagárnaga.",
+        "quando": "Mattina o primo pomeriggio.",
+        "tempo": "1 ora con il museo e i tetti",
+        "lat": -16.49648,
+        "lng": -68.13736,
+        "consiglio": "Il Mercado de las Brujas è a pochi minuti a piedi in salita: si visitano insieme."
       },
       {
         "nome": "Mercado de las Brujas",
@@ -70,7 +91,39 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A piedi dal centro, nella zona di calle Linares.",
         "quando": "Di giorno.",
         "tempo": "1 ora",
+        "lat": -16.49624,
+        "lng": -68.13915,
         "consiglio": "Chiedi sempre prima di fotografare le persone."
+      },
+      {
+        "nome": "Calle Jaén",
+        "testo": "La via coloniale meglio conservata della città, in ciottoli e con case dai balconi colorati, che ospita alcuni piccoli musei municipali.",
+        "come": "A piedi dal centro, a nord di Plaza Murillo.",
+        "quando": "Di giorno.",
+        "tempo": "1 ora",
+        "lat": -16.49223,
+        "lng": -68.13587,
+        "consiglio": "I musei di Jaén hanno spesso un biglietto unico: chiedi al primo che visiti."
+      },
+      {
+        "nome": "Museo Nacional de Etnografía y Folklore (MUSEF)",
+        "testo": "In un palazzo coloniale del centro, raccoglie tessuti, maschere delle feste e oggetti delle culture andine e amazzoniche. Le sale delle maschere aiutano a capire carnevali e processioni.",
+        "come": "A piedi, a due passi da Plaza Murillo.",
+        "quando": "Mattina o pomeriggio nei giorni feriali.",
+        "tempo": "1-1,5 ore",
+        "lat": -16.49438,
+        "lng": -68.13514,
+        "consiglio": "Ottimo per un pomeriggio di riposo, quando la quota si fa sentire."
+      },
+      {
+        "nome": "Mirador Killi Killi",
+        "testo": "Il belvedere più classico sulla conca, su una collina sopra il centro: si vedono i quartieri che risalgono fino a El Alto e, nelle giornate limpide, l'Illimani.",
+        "come": "In taxi dal centro, pochi minuti; a piedi in salita è faticoso.",
+        "quando": "Tramonto, poi rientro in taxi.",
+        "tempo": "30-45 minuti",
+        "lat": -16.49514,
+        "lng": -68.12753,
+        "consiglio": "Di sera non salire né scendere a piedi: taxi radio in andata e ritorno."
       },
       {
         "nome": "Valle de la Luna",
@@ -78,15 +131,30 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Bus o taxi verso la zona sud di La Paz.",
         "quando": "Mattina, con luce migliore.",
         "tempo": "1-2 ore",
+        "costo": "Circa 15 bolivianos (circa 2 €)",
+        "lat": -16.56762,
+        "lng": -68.09379,
         "consiglio": "A questa quota anche una passeggiata breve stanca: vai piano."
       },
       {
         "nome": "El Alto e le cholitas luchadoras",
         "testo": "La feria 16 de Julio di El Alto (giovedì e domenica) è un enorme mercato popolare. A El Alto si può assistere anche alla lucha libre delle cholitas, le donne aymara in gonna tradizionale.",
         "come": "In teleferica fino a El Alto.",
-        "quando": "Giovedì e domenica per il mercato.",
+        "quando": "La feria il giovedì e la domenica; le cholitas luchadoras di solito la domenica pomeriggio al Multifuncional di El Alto, con orari da verificare",
         "tempo": "Mezza giornata",
+        "lat": -16.49783,
+        "lng": -68.17063,
         "consiglio": "Tieni borse e telefono davanti: il mercato è affollato."
+      },
+      {
+        "nome": "Mercado Rodríguez",
+        "testo": "Il mercato alimentare più vivace della città, che riempie diverse vie con banchi di patate, frutta tropicale delle Yungas, formaggi e carni. È il posto dove si vede come mangiano davvero i paceños.",
+        "come": "A piedi dal centro, nella zona di San Pedro.",
+        "quando": "Sabato e domenica mattina è al massimo.",
+        "tempo": "1 ora",
+        "lat": -16.50013,
+        "lng": -68.13891,
+        "consiglio": "Borsa davanti e telefono in tasca: tra i banchi si è stretti."
       },
       {
         "nome": "Carretera de la Muerte",
@@ -94,7 +162,9 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Con un operatore, in mountain bike, con partenza da La Paz al mattino presto e rientro nel tardo pomeriggio.",
         "quando": "Nella stagione secca, e solo dopo essersi acclimatati.",
         "tempo": "Giornata intera",
-        "costo": "Varia molto tra operatori economici e premium: confronta cosa è incluso",
+        "costo": "Tour con bici e guida a prezzo variabile secondo l'operatore; pedaggio delle comunità circa 50 bolivianos, spesso escluso: chiedi prima",
+        "lat": -16.29204,
+        "lng": -67.80457,
         "consiglio": "Scegli un operatore con bici e freni in buono stato: qui conta più del prezzo."
       },
       {
@@ -103,6 +173,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Tour di mezza giornata da La Paz.",
         "quando": "Mattina presto.",
         "tempo": "Mezza giornata",
+        "lat": -16.34953,
+        "lng": -68.12701,
         "consiglio": "Sali solo dopo almeno due giorni a La Paz: la quota è molto alta."
       }
     ],
@@ -110,24 +182,24 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: Mercado de las Brujas",
-          "Teleferica rossa e gialla",
-          "Pranzo con salteñas",
-          "Tramonto in teleferica"
+          "Mattina: Plaza Murillo, calle Jaén e MUSEF",
+          "Basilica di San Francisco e Mercado de las Brujas",
+          "Pranzo con salteñas a metà mattina e almuerzo al mercato",
+          "Teleferica rossa e gialla al tramonto"
         ]
       },
       {
         "titolo": "2 giorni",
         "tappe": [
           "Giorno 1: programma da 1 giorno, con calma assoluta",
-          "Giorno 2: Valle de la Luna e mercato di El Alto (giovedì o domenica)"
+          "Giorno 2: Valle de la Luna al mattino, poi teleferica fino a El Alto per la feria (giovedì o domenica) e cholitas luchadoras la domenica pomeriggio"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
           "Giorni 1-2 come sopra",
-          "Giorno 3: Carretera de la Muerte, solo dopo acclimatamento"
+          "Giorno 3: Carretera de la Muerte in bici, solo dopo acclimatamento, oppure Tiwanaku in giornata"
         ]
       }
     ],
@@ -135,12 +207,20 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Sopocachi",
         "perChi": "Chi cerca ristoranti e vita serale",
-        "testo": "Quartiere più curato, a quota più bassa e con bar. A pochi passi dal centro."
+        "testo": "Quartiere più curato, a quota più bassa e con bar. A pochi passi dal centro.",
+        "fascia": "35-100 €"
       },
       {
         "nome": "San Pedro e centro",
         "perChi": "Chi vuole risparmiare",
-        "testo": "Prezzi bassi e comodità alle agenzie, ma più caotico e rumoroso."
+        "testo": "Prezzi bassi e comodità alle agenzie, ma più caotico e rumoroso.",
+        "fascia": "15-50 €"
+      },
+      {
+        "nome": "Zona Sur (San Miguel, Calacoto)",
+        "perChi": "Chi cerca hotel moderni e quota più bassa",
+        "testo": "I quartieri benestanti in fondo alla conca, intorno ai 3.300 metri: si respira meglio e ci sono hotel e ristoranti moderni. Per il centro servono teleferica o taxi.",
+        "fascia": "50-150 €"
       }
     ],
     sapori: [
@@ -167,6 +247,52 @@ export const destinazioniBolivia: Destinazione[] = [
       "Taxi non ufficiali, soprattutto di sera: usa radio-taxi o app.",
       "Borseggi nei mercati affollati: niente oggetti di valore in vista.",
       "Ricontrolla su Viaggiare Sicuri la situazione politica e sociale prima di partire."
+    ],
+    gite: [
+      {
+        "nome": "Tiwanaku",
+        "distanza": "circa 1 ora e 30 di strada, 70 km",
+        "come": "Tour di un giorno o minibus dal cimitero generale di La Paz.",
+        "testo": "Il centro della cultura che dominò l'altopiano prima degli Inca, con la Porta del Sole e la piramide di Akapana. Biglietto unico di circa 100 bolivianos con siti e musei."
+      },
+      {
+        "nome": "Copacabana e Isla del Sol",
+        "distanza": "circa 3,5-4 ore di bus",
+        "come": "Bus turistico o minibus, con la traversata dello stretto di Tiquina su una barchetta, poi barca per l'isola.",
+        "testo": "Il santuario di Copacabana e i sentieri inca dell'Isla del Sol sul lato boliviano del Titicaca. Meglio con almeno una notte sull'isola."
+      },
+      {
+        "nome": "Coroico e le Yungas",
+        "distanza": "circa 3 ore di strada, 95 km",
+        "come": "Minibus dalla zona di Villa Fátima, o in fondo alla discesa della Carretera de la Muerte.",
+        "testo": "Un paese a circa 1.700 metri tra colline di coca, caffè e cascate, con un clima caldo che dopo La Paz sembra un altro paese. Buono per una notte di riposo."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a La Paz?",
+        "risposta": "Tre o quattro: uno di solo acclimatamento, uno per centro e teleferiche, uno per la Valle de la Luna e El Alto, uno per la Carretera de la Muerte o Tiwanaku."
+      },
+      {
+        "domanda": "Come si affronta l'altitudine a La Paz?",
+        "risposta": "Il primo giorno si cammina poco, si beve molto e si evita l'alcol. Mal di testa e fiato corto sono normali; se i sintomi peggiorano serve un medico."
+      },
+      {
+        "domanda": "Quanto costa la teleferica di La Paz?",
+        "risposta": "3 bolivianos a tratta, meno di mezzo euro. A ogni cambio di linea si paga un nuovo biglietto."
+      },
+      {
+        "domanda": "La Paz è sicura?",
+        "risposta": "Con le precauzioni normali sì: taxi radio o app invece dei taxi di strada, niente oggetti di valore in vista nei mercati, El Alto di sera non a piedi da soli. Prima di partire conviene controllare Viaggiare Sicuri per blocchi e proteste."
+      },
+      {
+        "domanda": "La Carretera de la Muerte è pericolosa?",
+        "risposta": "Oggi le auto usano la strada nuova, ma la discesa in bici resta impegnativa. La differenza la fanno l'operatore e lo stato delle bici e dei freni, più del prezzo."
+      },
+      {
+        "domanda": "Quando ci sono le cholitas luchadoras?",
+        "risposta": "Di solito la domenica pomeriggio al Multifuncional di El Alto, con orari da verificare. Molti ci vanno con un tour che include il trasporto."
+      }
     ],
     esperienzeSlugs: ['carretera-de-la-muerte'],
     tripSlugs: ['bolivia-itinerario'],
@@ -202,12 +328,11 @@ export const destinazioniBolivia: Destinazione[] = [
     doveDormire:
       'Uyuni come base di partenza; durante il tour si dorme in alloggi molto essenziali nel Sud Lípez, spesso senza riscaldamento a oltre 4.000 metri.',
     doveMangiare: 'Pasti inclusi nel tour, preparati dall\'autista-cuoco.',
-    comeArrivare:
-      'Volo da La Paz a Uyuni (circa un\'ora, la soluzione più comoda) oppure bus notturno da La Paz, Sucre o Potosí. Molti arrivano anche da San Pedro de Atacama, in Cile, facendo il tour in senso inverso.',
+    comeArrivare: "Il volo da La Paz a Uyuni dura circa un'ora ed è la soluzione più comoda. Il bus notturno da La Paz parte di solito tra le 20 e le 21 e arriva all'alba dopo circa 10 ore; i biglietti delle compagnie turistiche si prenotano un giorno o due prima, e di notte fa freddo a bordo. Da Potosí ci sono circa 4 ore di bus, con diverse partenze al giorno. Molti arrivano da San Pedro de Atacama, in Cile, facendo il tour in senso inverso.",
     comeSpostarsi: 'Solo in 4x4 con autista, nell\'ambito del tour organizzato: non è una zona da girare in autonomia.',
     periodoMigliore:
       'Due stagioni, due esperienze diverse. Da maggio a ottobre il salar è asciutto e percorribile per intero, con cieli limpidi e notti gelide. Da gennaio a marzo un velo d\'acqua lo trasforma nello specchio gigante delle fotografie più famose, ma alcune zone, Isla Incahuasi compresa, possono diventare inaccessibili.',
-    costi: 'tour di 3 giorni indicativamente 150-250$ a persona secondo l\'operatore, con ingresso alla riserva Eduardo Avaroa a parte (circa 150 bolivianos in contanti, secondo gli operatori) e Isla Incahuasi a parte (circa 30 bolivianos)',
+    costi: "Tour condiviso di 3 giorni circa 200-350 dollari a persona secondo agenzia e categoria, con alloggi e pasti. A parte, in contanti: riserva Eduardo Avaroa circa 150 bolivianos (circa 20 €), Isla Incahuasi circa 30 bolivianos (circa 4 €), terme di Polques pochi bolivianos, bagni a pagamento lungo la strada. A Uyuni un giorno costa poco: budget basso circa 20-30 € (ostello e pasti semplici), medio 50-80 € (hotel di sale o in paese).",
     erroriDaEvitare: [
       'Scegliere l\'operatore solo sul prezzo: i mezzi e la manutenzione fanno una differenza reale su piste isolate a 4.500 metri, dove un guasto è un problema serio',
       'Andare a gennaio-marzo aspettandosi di vedere tutto: con l\'acqua l\'effetto specchio è spettacolare ma diverse tappe saltano',
@@ -224,6 +349,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "quando": "Nella stagione secca il salar è asciutto e percorribile per intero. Nella stagione delle piogge (circa dicembre-aprile) diventa uno specchio d'acqua, ma alcune tappe saltano.",
         "tempo": "Mezza giornata o un giorno",
         "costo": "Il tour si paga all'agenzia e il prezzo cambia molto tra operatori. A parte, in contanti, l'ingresso alla riserva Eduardo Avaroa e all'Isla Incahuasi: chiedi all'operatore gli importi aggiornati",
+        "lat": -20.13377,
+        "lng": -67.48913,
         "consiglio": "Per le foto prospettiche porta oggetti di scala piccola e usa la luce dell'alba."
       },
       {
@@ -232,7 +359,20 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Tappa del tour in 4x4 dal salar, con breve sentiero di salita.",
         "quando": "Stagione secca; nella stagione delle piogge può diventare difficile da raggiungere.",
         "tempo": "1-2 ore",
+        "costo": "Circa 30 bolivianos (circa 4 €), in contanti",
+        "lat": -20.24278,
+        "lng": -67.62528,
         "consiglio": "Il sentiero dà la vista migliore sul salar da una quota rialzata."
+      },
+      {
+        "nome": "Colchani",
+        "testo": "Il villaggio all'ingresso del salar dove si estrae e si lavora il sale: piccole cooperative lo seccano, lo iodano e lo confezionano a mano. Ci sono anche bancarelle di oggetti in sale e lana.",
+        "come": "Prima tappa del tour in 4x4, a circa 20 km da Uyuni.",
+        "quando": "Mattina, il primo giorno del tour.",
+        "tempo": "30-45 minuti",
+        "lat": -20.30061,
+        "lng": -66.93782,
+        "consiglio": "Qui si comprano gli ultimi snack e acqua prima del salar."
       },
       {
         "nome": "Cimitero dei treni",
@@ -240,7 +380,30 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "In taxi dal paese o all'inizio del tour.",
         "quando": "Mattina.",
         "tempo": "1 ora",
+        "costo": "Gratuito",
+        "lat": -20.48079,
+        "lng": -66.83688,
         "consiglio": "Fai attenzione alle parti metalliche arrugginite."
+      },
+      {
+        "nome": "Laguna Hedionda",
+        "testo": "Una delle lagune d'alta quota del Sud Lípez, dall'odore di zolfo che le dà il nome, con fenicotteri andini e di James che si nutrono vicino alla riva.",
+        "come": "Tappa del secondo giorno del tour in 4x4.",
+        "quando": "Mezzogiorno, durante la sosta per il pranzo.",
+        "tempo": "30-45 minuti",
+        "lat": -21.5667,
+        "lng": -68.05,
+        "consiglio": "Avvicinati ai fenicotteri piano e senza uscire dal bordo: si allontanano subito."
+      },
+      {
+        "nome": "Árbol de Piedra",
+        "testo": "Una roccia vulcanica modellata dal vento a forma di albero, nel deserto di Siloli, a circa 4.500 metri, tra altri blocchi erosi in forme strane.",
+        "come": "Tappa del secondo giorno del tour, prima della Laguna Colorada.",
+        "quando": "Pomeriggio, col vento che sale.",
+        "tempo": "20-30 minuti",
+        "lat": -22.05167,
+        "lng": -67.88333,
+        "consiglio": "Non si sale sulla roccia: è vietato e fragile."
       },
       {
         "nome": "Laguna Colorada",
@@ -248,6 +411,9 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Tappa del secondo giorno del tour in 4x4.",
         "quando": "Mattina presto.",
         "tempo": "1-2 ore",
+        "costo": "Nella riserva Eduardo Avaroa: circa 150 bolivianos in contanti all'ingresso del parco",
+        "lat": -22.19861,
+        "lng": -67.78111,
         "consiglio": "Il secondo giorno nel Sud Lípez è quello che a Rick è rimasto più impresso, più del sale: lagune rosse piene di fenicotteri oltre i quattromila metri."
       },
       {
@@ -256,7 +422,20 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Tappe del tour in 4x4.",
         "quando": "All'alba, con temperature sotto zero.",
         "tempo": "1-2 ore",
+        "costo": "Geyser nella riserva Eduardo Avaroa; terme di Polques con ingresso a parte di pochi bolivianos",
+        "lat": -22.42639,
+        "lng": -67.75972,
         "consiglio": "Vestiti a strati: l'alba ai geyser è tra le ore più fredde del viaggio."
+      },
+      {
+        "nome": "Desierto de Dalí",
+        "testo": "Un deserto di sabbia color ocra con rocce sparse che sembrano poggiate a caso, come nei quadri di Salvador Dalí, sulla strada per la Laguna Verde.",
+        "come": "Tappa del terzo giorno del tour nella riserva Eduardo Avaroa.",
+        "quando": "Mattina presto, il terzo giorno.",
+        "tempo": "15-20 minuti",
+        "lat": -22.615,
+        "lng": -67.66361,
+        "consiglio": "Si guarda dal mezzo o a pochi passi dalla pista: fuori dalla pista le tracce dei 4x4 restano per anni."
       },
       {
         "nome": "Laguna Verde",
@@ -264,6 +443,9 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Ultima tappa del tour in 4x4 prima di San Pedro de Atacama.",
         "quando": "Mattina.",
         "tempo": "1 ora",
+        "costo": "Nella riserva Eduardo Avaroa (circa 150 bolivianos)",
+        "lat": -22.795,
+        "lng": -67.825,
         "consiglio": "Chi prosegue per il Cile passa il confine da qui."
       }
     ],
@@ -271,17 +453,24 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: cimitero dei treni",
-          "Salar e Isla Incahuasi",
-          "Tramonto sul salar"
+          "Mattina: cimitero dei treni e Colchani",
+          "Mezzogiorno: salar e Isla Incahuasi",
+          "Tramonto sul salar e rientro a Uyuni"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: cimitero dei treni, Colchani, salar e Isla Incahuasi, notte in un hotel di sale",
+          "Giorno 2: alba sul salar e rientro a Uyuni, oppure bus per Potosí"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: salar, Isla Incahuasi, notte in un hotel di sale",
-          "Giorno 2: lagune del Sud Lípez, Laguna Colorada",
-          "Giorno 3: geyser all'alba, terme di Polques, Laguna Verde, rientro a Uyuni o proseguimento per San Pedro de Atacama"
+          "Giorno 1: cimitero dei treni, Colchani, salar, Isla Incahuasi, notte in un hotel di sale",
+          "Giorno 2: lagune del Sud Lípez con la Laguna Hedionda, Árbol de Piedra, Laguna Colorada",
+          "Giorno 3: geyser Sol de Mañana all'alba, terme di Polques, Desierto de Dalí, Laguna Verde, rientro a Uyuni o proseguimento per San Pedro de Atacama"
         ]
       }
     ],
@@ -289,17 +478,20 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Uyuni",
         "perChi": "Chi parte per il tour",
-        "testo": "Base di partenza, paese semplice con agenzie."
+        "testo": "Base di partenza, paese semplice con agenzie.",
+        "fascia": "25-80 €"
       },
       {
         "nome": "Alloggi del Sud Lípez",
         "perChi": "Chi fa il tour di 3 giorni",
-        "testo": "Molto essenziali, spesso senza riscaldamento ad alta quota. Si dorme sotto zero."
+        "testo": "Molto essenziali, spesso senza riscaldamento ad alta quota. Si dorme sotto zero.",
+        "fascia": "Incluso nel tour"
       },
       {
         "nome": "Hotel di sale",
         "perChi": "Chi cerca esperienza particolare",
-        "testo": "Pareti e arredi ricavati dai blocchi del salar."
+        "testo": "Pareti e arredi ricavati dai blocchi del salar.",
+        "fascia": "60-200 €"
       }
     ],
     sapori: [
@@ -321,6 +513,52 @@ export const destinazioniBolivia: Destinazione[] = [
       "Freddo notturno sotto zero: il sacco a pelo non sempre è incluso.",
       "Arrivare a Uyuni senza essersi acclimatati: il secondo giorno si sale quasi a 5.000 metri.",
       "Stagione delle piogge (circa dicembre-aprile): effetto specchio, ma diverse tappe saltano."
+    ],
+    gite: [
+      {
+        "nome": "San Pedro de Atacama (Cile)",
+        "distanza": "fine del tour di 3 giorni, circa 1 ora dalla Laguna Verde",
+        "come": "Transfer dal confine di Hito Cajón, organizzato dall'agenzia del tour.",
+        "testo": "Il tour può finire in Cile invece di tornare a Uyuni: si prosegue verso il deserto di Atacama senza rifare la strada. Va detto all'agenzia al momento della prenotazione."
+      },
+      {
+        "nome": "Potosí",
+        "distanza": "circa 4 ore di bus",
+        "come": "Bus da Uyuni, con diverse partenze al giorno.",
+        "testo": "La città d'argento del Cerro Rico, a oltre 4.000 metri, con la Casa de la Moneda e le miniere delle cooperative. Strada naturale verso Sucre."
+      },
+      {
+        "nome": "Pulacayo",
+        "distanza": "circa 30 minuti, 20 km",
+        "come": "Taxi o tour da Uyuni.",
+        "testo": "Un villaggio minerario quasi abbandonato con vecchie locomotive e il treno che secondo la tradizione fu assaltato da Butch Cassidy. Meno affollato del cimitero dei treni."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono per il Salar de Uyuni?",
+        "risposta": "Il salar si vede in un giorno, ma il tour di 3 giorni nel Sud Lípez è quello che vale il viaggio: lagune, geyser e deserti d'alta quota."
+      },
+      {
+        "domanda": "Quando si vede l'effetto specchio?",
+        "risposta": "Da gennaio a marzo, quando un velo d'acqua copre il sale. In quei mesi alcune zone, Isla Incahuasi compresa, possono diventare inaccessibili."
+      },
+      {
+        "domanda": "Quanto costa il tour di 3 giorni?",
+        "risposta": "Circa 200-350 dollari a persona secondo agenzia e categoria. A parte, in contanti, la riserva Eduardo Avaroa (circa 150 bolivianos) e Isla Incahuasi (circa 30)."
+      },
+      {
+        "domanda": "Come si sceglie l'agenzia a Uyuni?",
+        "risposta": "Si guarda prima lo stato del 4x4: cinture, gomme e ruota di scorta. Poi recensioni recenti, sacco a pelo incluso e ossigeno a bordo."
+      },
+      {
+        "domanda": "Fa freddo durante il tour?",
+        "risposta": "Sì, molto: negli alloggi del Sud Lípez la notte si scende sotto zero e non c'è riscaldamento. All'alba ai geyser si arriva a venti gradi sotto zero."
+      },
+      {
+        "domanda": "Si può finire il tour in Cile?",
+        "risposta": "Sì, l'ultimo giorno l'agenzia porta al confine di Hito Cajón e un transfer prosegue per San Pedro de Atacama. Va chiesto al momento della prenotazione."
+      }
     ],
     esperienzeSlugs: ['tour-uyuni-sud-lipez'],
     tripSlugs: ['bolivia-itinerario'],
@@ -489,10 +727,10 @@ export const destinazioniBolivia: Destinazione[] = [
     doveDormire: 'Centro storico di Sucre, la città più piacevole in cui fermarsi qualche giorno in tutta la Bolivia.',
     doveMangiare:
       'Sucre ha la migliore qualità della vita del paese e nei mercati coperti si mangia bene spendendo pochissimo, dove il banco dei succhi di frutta è un\'istituzione. A Potosí l\'offerta è più essenziale: zuppe sostanziose, adatte ai quattromila metri.',
-    comeArrivare: 'Volo da La Paz a Sucre (circa un\'ora) o bus notturno; tra Sucre e Potosí circa 3 ore di strada.',
+    comeArrivare: "Il volo La Paz-Sucre dura circa un'ora; l'aeroporto Alcantarí è a circa 30 km dal centro, 40 minuti di taxi o navetta. Il bus notturno da La Paz impiega circa 12-14 ore. Tra Potosí e Sucre ci sono circa 3 ore di strada in bus o in taxi condiviso dal terminal; Uyuni-Potosí circa 4 ore di bus. A Potosí si arriva a oltre 4.000 metri: chi viene da Sucre fa bene a passarci almeno una notte senza sforzi.",
     comeSpostarsi: 'Entrambe le città si girano a piedi; bus frequenti tra le due.',
     periodoMigliore: 'maggio-ottobre; Sucre ha il clima più mite del paese grazie alla quota più bassa',
-    costi: 'tra le città più economiche del continente, corsi di lingua compresi',
+    costi: "Tra le zone più economiche del continente: budget basso circa 20-30 € al giorno (ostello, almuerzo al Mercado Central per pochi bolivianos); medio 45-80 € (hotel nel centro coloniale, ristoranti, visite guidate); alto da 120 € (hotel in casona storica, guide private). Parque Cretácico circa 30 bolivianos con guida; Casa de la Moneda circa 40 bolivianos, solo con guida; visita alle miniere circa 100-150 bolivianos con guida in spagnolo, 150-250 con guida in inglese.",
     erroriDaEvitare: [
       'Passare da Potosí senza mettere in conto la quota: a 4.000 metri anche camminare in centro è faticoso',
       'Trattare la visita alle miniere come un\'attrazione turistica qualunque: è un luogo di lavoro reale, con condizioni durissime',
@@ -506,40 +744,92 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A piedi dal centro.",
         "quando": "Di giorno.",
         "tempo": "Mezza giornata",
+        "orari": "Visita guidata a turni: orari da verificare sul posto",
+        "lat": -19.04745,
+        "lng": -65.26019,
         "consiglio": "Sucre è il posto dove a Rick è venuta voglia di fermarsi più a lungo: quota più mite, clima gentile."
+      },
+      {
+        "nome": "Plaza 25 de Mayo e cattedrale di Sucre",
+        "testo": "La piazza principale, con palme, panchine e i palazzi bianchi del governo regionale intorno. La cattedrale metropolitana custodisce la Virgen de Guadalupe, patrona della città, coperta di gioielli.",
+        "come": "A piedi dal centro storico.",
+        "quando": "Sera, quando la piazza si riempie di famiglie.",
+        "tempo": "1 ora",
+        "lat": -19.04788,
+        "lng": -65.25951,
+        "consiglio": "La Casa de la Libertad è sulla stessa piazza: si visitano insieme."
+      },
+      {
+        "nome": "Mirador della Recoleta",
+        "testo": "Una piazza porticata in cima a una collina sopra il centro, davanti al convento francescano della Recoleta, con tutta la città bianca ai piedi.",
+        "come": "Circa 20 minuti a piedi in salita dalla piazza principale.",
+        "quando": "Tramonto.",
+        "tempo": "1 ora",
+        "lat": -19.05528,
+        "lng": -65.25363,
+        "consiglio": "Il caffè sotto i portici è il posto giusto per aspettare la luce del tramonto."
       },
       {
         "nome": "Parque Cretácico",
         "testo": "Una parete quasi verticale con migliaia di impronte di dinosauro (oltre 12.000 censite), in una cava poco fuori Sucre.",
-        "come": "In bus o taxi dal centro.",
+        "come": "Circa 25 minuti dal centro in bus turistico o taxi.",
         "quando": "Mattina.",
         "tempo": "2 ore",
+        "costo": "Circa 30 bolivianos (circa 4 €) con la guida",
+        "lat": -19.00046,
+        "lng": -65.23743,
         "consiglio": "Porta scarpe comode e un cappello: si visita all'aperto."
+      },
+      {
+        "nome": "Mercado Central di Sucre",
+        "testo": "Il mercato coperto a due isolati dalla piazza: banchi di frutta, succhi frullati al momento e, al piano di sopra, cucine dove si pranza come i sucrensi.",
+        "come": "A piedi dal centro.",
+        "quando": "Mattina per i succhi, mezzogiorno per l'almuerzo.",
+        "tempo": "1 ora",
+        "costo": "Pranzo completo per pochi bolivianos",
+        "lat": -19.04508,
+        "lng": -65.25913,
+        "consiglio": "Prova il succo misto ai banchi del piano terra: te lo riempiono due volte."
+      },
+      {
+        "nome": "Museo de Arte Indígena ASUR",
+        "testo": "Il museo dei tessuti jalq'a e tarabuco, con una sezione dove le tessitrici lavorano davanti ai visitatori. Spiega i simboli che si ritrovano poi al mercato di Tarabuco.",
+        "come": "A piedi dal centro, vicino alla Recoleta.",
+        "quando": "Prima di andare a Tarabuco.",
+        "tempo": "1 ora",
+        "lat": -19.05385,
+        "lng": -65.25379,
+        "consiglio": "Il negozio del museo vende tessuti delle comunità a prezzi giusti, con una quota per le tessitrici."
       },
       {
         "nome": "Mercato di Tarabuco",
         "testo": "Villaggio tessile vicino a Sucre, con il mercato domenicale e i tessuti yampara.",
         "come": "In collettivo o tour da Sucre.",
-        "quando": "Domenica.",
+        "quando": "Solo la domenica mattina",
         "tempo": "Mezza giornata",
+        "lat": -19.1824,
+        "lng": -64.91499,
         "consiglio": "Contratta sui prezzi."
       },
       {
-        "nome": "Casa Nacional de la Moneda (Potosí)",
-        "testo": "L'antica zecca coloniale, dove si coniava l'argento del Cerro Rico.",
-        "come": "A piedi dal centro di Potosí.",
-        "quando": "Mattina.",
-        "tempo": "1-2 ore",
-        "consiglio": "A oltre 4.000 metri anche camminare in centro è faticoso."
+        "nome": "Convento di San Felipe Neri",
+        "testo": "Un convento del Settecento con un chiostro bianco e i tetti di tegole calpestabili, da cui si vede il centro e la Recoleta.",
+        "come": "A piedi dal centro; l'ingresso è dalla scuola che occupa l'edificio.",
+        "quando": "Pomeriggio.",
+        "tempo": "45 minuti",
+        "lat": -19.05005,
+        "lng": -65.26132,
+        "consiglio": "Gli orari seguono quelli della scuola: meglio chiedere sul posto."
       },
       {
-        "nome": "Miniere del Cerro Rico",
-        "testo": "La montagna d'argento che domina Potosí: tra Cinquecento e Settecento ne uscì gran parte dell'argento del mondo, e Potosí divenne una delle città più grandi del Nuovo Mondo. Si entra nelle gallerie delle cooperative minerarie ancora attive con casco e lampada.",
-        "come": "Con un'agenzia di Potosí, preferendo quelle gestite da ex minatori.",
-        "quando": "Nei giorni lavorativi, quando le cooperative sono in attività.",
-        "tempo": "Mezza giornata",
-        "costo": "Guida e attrezzatura si pagano all'agenzia: chiedi cosa include il prezzo",
-        "consiglio": "Per Rick è stata l'esperienza più pesante del viaggio: cunicoli caldi e polverosi accanto a uomini che ci passano dieci ore al giorno. Sconsigliata a chi soffre di claustrofobia."
+        "nome": "Castillo de la Glorieta",
+        "testo": "Un palazzo eclettico di fine Ottocento, con torri e stili mescolati, costruito per una coppia di aristocratici sucrensi alla periferia sud della città.",
+        "come": "Circa 15-20 minuti di taxi o micro dal centro.",
+        "quando": "Mattina.",
+        "tempo": "1-1,5 ore",
+        "lat": -19.08603,
+        "lng": -65.26781,
+        "consiglio": "Si combina con il Parque Cretácico nella stessa mattina, in taxi."
       },
       {
         "nome": "Corso di spagnolo a Sucre",
@@ -548,22 +838,74 @@ export const destinazioniBolivia: Destinazione[] = [
         "quando": "Tutto l'anno.",
         "tempo": "Da pochi giorni a settimane",
         "consiglio": "Prezzi e formule cambiano da scuola a scuola: confronta prima di prenotare."
+      },
+      {
+        "nome": "Miniere del Cerro Rico",
+        "testo": "La montagna d'argento che domina Potosí: tra Cinquecento e Settecento ne uscì gran parte dell'argento del mondo, e Potosí divenne una delle città più grandi del Nuovo Mondo. Si entra nelle gallerie delle cooperative minerarie ancora attive con casco e lampada.",
+        "come": "Con un'agenzia di Potosí, preferendo quelle gestite da ex minatori.",
+        "quando": "Nei giorni lavorativi, quando le cooperative sono in attività.",
+        "tempo": "Mezza giornata",
+        "costo": "Circa 100-150 bolivianos con guida in spagnolo, 150-250 con guida in inglese, con attrezzatura e trasporto",
+        "lat": -19.61944,
+        "lng": -65.74978,
+        "consiglio": "Per Rick è stata l'esperienza più pesante del viaggio: cunicoli caldi e polverosi accanto a uomini che ci passano dieci ore al giorno. Sconsigliata a chi soffre di claustrofobia."
+      },
+      {
+        "nome": "Casa Nacional de la Moneda (Potosí)",
+        "testo": "L'antica zecca coloniale, dove si coniava l'argento del Cerro Rico.",
+        "come": "A piedi dal centro di Potosí.",
+        "quando": "Mattina.",
+        "tempo": "1-2 ore",
+        "costo": "Circa 40 bolivianos (circa 5 €), solo con guida",
+        "orari": "Visite a turni guidati; dal 2026 l'edificio è interessato da lavori di restauro: verifica i turni prima",
+        "lat": -19.58824,
+        "lng": -65.75415,
+        "consiglio": "A oltre 4.000 metri anche camminare in centro è faticoso."
+      },
+      {
+        "nome": "Convento di Santa Teresa (Potosí)",
+        "testo": "Un convento di carmelitane del Seicento, oggi museo, con dipinti coloniali, oggetti di vita claustrale e la storia delle ragazze ricche che entravano qui a quindici anni.",
+        "come": "A piedi dal centro di Potosí.",
+        "quando": "Pomeriggio, dopo la miniera.",
+        "tempo": "1-1,5 ore, visita guidata",
+        "lat": -19.58891,
+        "lng": -65.75716,
+        "consiglio": "La visita è guidata a turni: chiedi l'orario al mattino."
+      },
+      {
+        "nome": "Torre della Compañía de Jesús (Potosí)",
+        "testo": "Il campanile barocco della vecchia chiesa dei gesuiti, scolpito in pietra con figure andine, oggi sede dell'ufficio turistico. Dalla cima si vedono i tetti di Potosí e il Cerro Rico.",
+        "come": "In centro, a pochi passi dalla piazza.",
+        "quando": "Mattina limpida.",
+        "tempo": "30 minuti",
+        "lat": -19.58891,
+        "lng": -65.7548,
+        "consiglio": "Scale strette e quota sopra i 4.000 metri: sali piano."
       }
     ],
     programmi: [
       {
+        "titolo": "1 giorno a Sucre",
+        "tappe": [
+          "Mattina: Plaza 25 de Mayo, cattedrale e Casa de la Libertad",
+          "Pranzo al Mercado Central",
+          "Pomeriggio: Parque Cretácico",
+          "Tramonto al Mirador della Recoleta"
+        ]
+      },
+      {
         "titolo": "2 giorni",
         "tappe": [
-          "Giorno 1: Sucre (centro, Casa de la Libertad, Parque Cretácico)",
-          "Giorno 2: Potosí, Casa de la Moneda e miniere del Cerro Rico"
+          "Giorno 1: Sucre come nel programma da 1 giorno",
+          "Giorno 2: Potosí, Casa de la Moneda e Torre della Compañía, notte in città"
         ]
       },
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: Sucre",
-          "Giorno 2: Tarabuco (domenica) o altro giro",
-          "Giorno 3: Potosí e miniere"
+          "Giorno 1: Sucre, centro e Recoleta",
+          "Giorno 2: Tarabuco se è domenica, oppure Museo ASUR, San Felipe Neri e Castillo de la Glorieta",
+          "Giorno 3: bus per Potosí, Casa de la Moneda e Santa Teresa; il giorno dopo le miniere del Cerro Rico"
         ]
       }
     ],
@@ -571,12 +913,20 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Centro storico di Sucre",
         "perChi": "Chi si ferma qualche giorno",
-        "testo": "Una città piacevole dove fermarsi qualche giorno."
+        "testo": "Una città piacevole dove fermarsi qualche giorno.",
+        "fascia": "25-90 €"
       },
       {
         "nome": "Centro di Potosí",
         "perChi": "Chi visita le miniere",
-        "testo": "Sistemazioni essenziali in alta quota. Notti fredde."
+        "testo": "Sistemazioni essenziali in alta quota. Notti fredde.",
+        "fascia": "20-60 €"
+      },
+      {
+        "nome": "Recoleta e dintorni (Sucre)",
+        "perChi": "Chi cerca calma e vista",
+        "testo": "Strade in salita sopra il centro, più silenziose, con qualche ostello e pousada con terrazza. Si scende in piazza in 15-20 minuti.",
+        "fascia": "20-60 €"
       }
     ],
     sapori: [
@@ -598,6 +948,52 @@ export const destinazioniBolivia: Destinazione[] = [
       "Le miniere sono un luogo di lavoro, non un'attrazione qualunque: condizioni durissime.",
       "Porta un piccolo dono ai minatori (foglie di coca, bibite) comprato al mercato dei minatori.",
       "Blocchi stradali: possono bloccare i collegamenti per giorni."
+    ],
+    gite: [
+      {
+        "nome": "Tarabuco",
+        "distanza": "circa 1 ora e 30, 65 km da Sucre",
+        "come": "Colectivo o tour dal centro di Sucre, la domenica mattina.",
+        "testo": "Il mercato domenicale dei tessuti yampara, con le comunità che scendono in paese con i costumi tradizionali."
+      },
+      {
+        "nome": "Cratere di Maragua",
+        "distanza": "circa 2-3 ore di strada da Sucre",
+        "come": "Trek di 2-3 giorni con guida o tour in giornata.",
+        "testo": "Una conca di rocce rosse e viola piegate a onde, con villaggi jalq'a, impronte di dinosauro e sentieri lontani da tutto."
+      },
+      {
+        "nome": "Ojo del Inca (Potosí)",
+        "distanza": "circa 30 minuti da Potosí",
+        "come": "Taxi o micro da Potosí verso Tarapaya.",
+        "testo": "Una piscina termale naturale e circolare in un cratere, con acqua intorno ai 30 °C. Un bagno caldo dopo le miniere."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono tra Sucre e Potosí?",
+        "risposta": "Almeno tre: due a Sucre e uno a Potosí con le miniere. Chi vuole riposare dalla quota resta a Sucre anche una settimana."
+      },
+      {
+        "domanda": "Meglio dormire a Sucre o a Potosí?",
+        "risposta": "Sucre, a circa 2.800 metri, è più comoda e piacevole; Potosí, a oltre 4.000, merita una notte per la Casa de la Moneda e le miniere senza correre."
+      },
+      {
+        "domanda": "La visita alle miniere del Cerro Rico è etica?",
+        "risposta": "Dipende dall'agenzia: meglio quelle gestite da ex minatori, che rispettano il lavoro nelle gallerie. Le dimostrazioni con la dinamite sono illegali e pericolose, vanno rifiutate."
+      },
+      {
+        "domanda": "Quanto costa entrare nelle miniere?",
+        "risposta": "Circa 100-150 bolivianos con guida in spagnolo e 150-250 con guida in inglese, con attrezzatura e trasporto. È consigliata una mascherina per la polvere."
+      },
+      {
+        "domanda": "Quando c'è il mercato di Tarabuco?",
+        "risposta": "Solo la domenica mattina. I colectivos e i tour partono presto dal centro di Sucre."
+      },
+      {
+        "domanda": "Sucre è adatta per un corso di spagnolo?",
+        "risposta": "Sì, è una delle città più scelte del continente: scuole in centro, costi bassi e clima mite. Prezzi e formule cambiano da scuola a scuola."
+      }
     ],
     esperienzeSlugs: ['miniere-cerro-rico'],
     tripSlugs: ['bolivia-itinerario'],

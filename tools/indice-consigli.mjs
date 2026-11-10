@@ -31,4 +31,8 @@ for (const sorgente of process.argv.slice(2)) {
     fs.writeFileSync(p, JSON.stringify(cur))
   }
 }
+// gli slug tradotti arrivano al proxy da slug.json: va rigenerato
+import('node:child_process').then(({ execFileSync }) => {
+  for (const l of ['en', 'es']) execFileSync('python3', ['tools/unisci-slug.py', l], { stdio: 'inherit' })
+})
 console.log(voci.length, 'articoli')

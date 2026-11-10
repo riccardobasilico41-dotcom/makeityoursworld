@@ -1784,7 +1784,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Al tramonto, con il cielo limpido. Controllare gli orari sul sito del gestore.",
         "tempo": "1 ora",
         "consiglio": "Salire verso l'ora del tramonto e fermarsi per una birra sulla collina.",
-        "orari": "Da ottobre a maggio lunedì-sabato 7:15-22, domenica e festivi 8:15-22; da giugno a settembre fino alle 23 il venerdì, il sabato e le vigilie dei festivi (orari da fonti non ufficiali, da verificare).",
+        "orari": "Da ottobre a maggio lunedì-sabato 7:15-22, domenica e festivi 8:15-22; da giugno a settembre fino alle 23 il venerdì, il sabato e le vigilie dei festivi (da verificare).",
         "lat": 43.2713,
         "lng": -2.92253
       },

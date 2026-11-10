@@ -9,6 +9,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città', 'cultura'],
     giorniConsigliati: "1-2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Our trip around Croatia with friends started here: one day in Zagreb, with Dolac market, the Museum of Broken Relationships and the cafés of Tkalčićeva street in the evening, before picking up the car for Plitvice.",
     introduzione:
       "The capital, divided between the medieval Upper Town and the Austro-Hungarian Lower Town, with cafés, museums and the Dolac market. It's the natural starting point for Plitvice.",
     percheAndarci: "For a continental, Central European Croatia, different from the coast.",
@@ -20,67 +22,191 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     cosaFare: ["An evening in the cafés of Tkalčićeva Street", "Štrukli at a trattoria in the Upper Town", "The Christmas market in December"],
     doveDormire: "Lower Town or near Jelačić Square: budget €50-80, mid-range €90-150, high-end over €200.",
-    comeArrivare: "Zagreb airport; by car from Trieste in about two and a half hours.",
+    comeArrivare:
+      "**Franjo Tuđman** airport is about 17 km from the centre, linked by shuttle bus to the bus station and by taxi. The main railway station is in the Lower Town, a quarter of an hour's walk from Jelačić Square. By car from Trieste it takes about two and a half hours, through Slovenia; in the city, leave the car in a car park and get around on foot, by tram and by the funicular to the Upper Town, which starts on Tomićeva street.",
     comeSpostarsi: "On foot, by tram and with the funicular to the Upper Town.",
     periodoMigliore: "April-October; December for Advent.",
+    costi:
+      "Funicular about €0.66 a ride, Museum of Broken Relationships about €7, Mirogoj free. Rough daily budget per person, sharing a double room, in June or September: low €70-100, mid €130-200, high over €300; in December, during Advent, lodging prices rise.",
     erroriDaEvitare: ["Skipping it altogether to rush to the sea"],
     luoghi: [
       {
-        nome: "Upper Town (Gornji grad)",
-        testo: "The medieval core on a hill, with St Mark's church and its tiled roof, the Lotrščak tower (where a cannon fires every day at noon) and the old town lanes.",
-        come: "On foot from the Lower Town or by funicular, one of the world's shortest (66 metres of track).",
-        quando: "Morning or late afternoon. The cannon fires at noon.",
-        tempo: "2 hours",
-        consiglio: "Walk up from Tkalčićeva street and come down by funicular."
+        "nome": "Upper Town (Gornji grad)",
+        "testo": "The medieval core on a hill, with St Mark's church and its tiled roof, the Lotrščak tower (where a cannon fires every day at noon) and the old town lanes.",
+        "come": "On foot from the Lower Town or by funicular, one of the world's shortest (66 metres of track).",
+        "quando": "Morning or late afternoon. The cannon fires at noon.",
+        "tempo": "2 hours",
+        "costo": "lanes free; funicular about €0.66 a ride (2026)",
+        "lat": 45.81427,
+        "lng": 15.97308,
+        "consiglio": "Walk up from Tkalčićeva street and come down by funicular."
       },
       {
-        nome: "Dolac Market",
-        testo: "The city's open-air market above Jelačić Square, with fruit and vegetable stalls under red umbrellas and cheese in the covered market below.",
-        come: "On foot from the centre, a few minutes from Jelačić Square.",
-        quando: "Morning, until midday, when the stalls are full.",
-        tempo: "1 hour",
-        consiglio: "Try fresh cream cheese (sir i vrhnje) with warm bread."
+        "nome": "Zagreb Cathedral",
+        "testo": "The Cathedral of the Assumption, on Kaptol hill, with the two Gothic Revival spires visible from all over the city. It was rebuilt after the 1880 earthquake by the architect Hermann Bollé, who also designed Mirogoj. Since the 2020 earthquake it has been under restoration and access may be limited.",
+        "come": "On foot from Jelačić Square, five minutes uphill.",
+        "quando": "Morning, before going up to the Upper Town.",
+        "tempo": "20 minutes",
+        "lat": 45.81444,
+        "lng": 15.97972
       },
       {
-        nome: "Museum of Broken Relationships",
-        testo: "A small museum of objects donated by people all over the world, each with the story of a relationship that ended. Funny and at times moving.",
-        come: "On foot from the Upper Town, on Sv. Ćirila i Metoda street.",
-        quando: "Morning or afternoon, avoiding weekends.",
-        tempo: "1 hour",
-        consiglio: "The point is the donors' stories next to each object: allow time to read them."
+        "nome": "St Mark's Church",
+        "testo": "The emblem of the Upper Town, with a roof of coloured tiles forming the coats of arms of the Kingdom of Croatia, Dalmatia and Slavonia and of the city. The Croatian Parliament and the government palace stand on the square.",
+        "come": "At the top of the Upper Town, on foot from the funicular or the Stone Gate. The interior is usually only open during services.",
+        "quando": "Early morning, with the square empty and light on the roof.",
+        "tempo": "15 minutes",
+        "costo": "free",
+        "lat": 45.81639,
+        "lng": 15.97363
       },
       {
-        nome: "Mirogoj Cemetery",
-        testo: "The city's monumental cemetery, opened in 1876, with the main building designed by architect Hermann Bollé. The long arcades and cupolas, built between 1879 and 1929, enclose graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
-        come: "By ZET bus 106 from the Kaptol terminus, near the cathedral (about every 20 minutes during opening hours), or uphill on foot.",
-        quando: "Morning or late afternoon; in early November it is full of candles.",
-        tempo: "1 hour",
-        costo: "Free.",
-        consiglio: "Stay on the paths and keep your voice down: it is a working cemetery."
+        "nome": "Lotrščak Tower",
+        "testo": "A 13th-century tower that guarded the southern entrance to the Upper Town. Every day at noon a cannon is fired from the top, a tradition dating from 1877. From the lookout beside it, the Strossmayer promenade, the whole Lower Town is in view.",
+        "come": "At the top station of the funicular, at the top of Tomićeva street.",
+        "quando": "Just before noon, for the cannon shot.",
+        "tempo": "30 minutes",
+        "lat": 45.81463,
+        "lng": 15.97325
+      },
+      {
+        "nome": "Stone Gate",
+        "testo": "The only surviving gate of the Upper Town's medieval walls. Under the vault is an image of the Virgin that survived the 1731 fire; people in Zagreb light candles and stop to pray in front of it.",
+        "come": "On foot via Radićeva street, uphill from Jelačić Square.",
+        "quando": "Evening, with the candles lit.",
+        "tempo": "15 minutes",
+        "costo": "free",
+        "lat": 45.81572,
+        "lng": 15.97528,
+        "consiglio": "It's a place of prayer: no flash photos and keep your voice down."
+      },
+      {
+        "nome": "Dolac Market",
+        "testo": "The city's open-air market above Jelačić Square, with fruit and vegetable stalls under red umbrellas and cheese in the covered market below.",
+        "come": "On foot from the centre, a few minutes from Jelačić Square.",
+        "quando": "Morning, until midday, when the stalls are full.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "lat": 45.81417,
+        "lng": 15.9775,
+        "consiglio": "Try fresh cream cheese (sir i vrhnje) with warm bread."
+      },
+      {
+        "nome": "Ban Jelačić Square",
+        "testo": "The main square, between the Lower and Upper Towns, with the equestrian statue of Ban Jelačić and the Manduševac fountain. Almost every tram passes through, and it's the city's meeting point.",
+        "come": "Trams from all over the city; about 15 minutes on foot from the main station.",
+        "quando": "Any time; in December part of the Advent market is held here.",
+        "tempo": "15 minutes",
+        "costo": "free",
+        "lat": 45.81306,
+        "lng": 15.97722
+      },
+      {
+        "nome": "Tkalčićeva Street",
+        "testo": "A curving, gently rising street laid over a buried stream, lined with cafés and outdoor bars. It's where people in Zagreb have coffee in the morning and drinks in the evening.",
+        "come": "On foot from Jelačić Square, past Dolac market.",
+        "quando": "Evening.",
+        "tempo": "1-2 hours",
+        "costo": "free",
+        "lat": 45.81913,
+        "lng": 15.97641
+      },
+      {
+        "nome": "Museum of Broken Relationships",
+        "testo": "A small museum of objects donated by people all over the world, each with the story of a relationship that ended. Funny and at times moving.",
+        "come": "On foot from the Upper Town, on Sv. Ćirila i Metoda street.",
+        "quando": "Morning or afternoon, avoiding weekends.",
+        "tempo": "1 hour",
+        "costo": "about €7 (2026)",
+        "orari": "Daily: 9am-9pm in winter, 10am-10pm in summer.",
+        "lat": 45.81517,
+        "lng": 15.97358,
+        "url": "https://brokenships.com/",
+        "consiglio": "The point is the donors' stories next to each object: allow time to read them."
+      },
+      {
+        "nome": "Mirogoj Cemetery",
+        "testo": "The city's monumental cemetery, opened in 1876, with the main building designed by architect Hermann Bollé. The long arcades and cupolas, built between 1879 and 1929, enclose graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
+        "come": "By ZET bus 106 from the Kaptol terminus, near the cathedral (about every 20 minutes during opening hours), or uphill on foot.",
+        "quando": "Morning or late afternoon; in early November it is full of candles.",
+        "tempo": "1 hour",
+        "costo": "Free.",
+        "lat": 45.83569,
+        "lng": 15.98444,
+        "consiglio": "Stay on the paths and keep your voice down: it is a working cemetery."
+      },
+      {
+        "nome": "Mimara Museum",
+        "testo": "The collection donated to the city by Ante Topić Mimara, in a large 19th-century building in the Lower Town: European paintings, glass, carpets and art objects from antiquity to the 20th century. It is the city's most wide-ranging art museum.",
+        "come": "On Roosevelt Square, along the \"green horseshoe\" of Lower Town parks; tram to the square.",
+        "quando": "Afternoon or a rainy day.",
+        "tempo": "1 hour 30 minutes",
+        "lat": 45.80833,
+        "lng": 15.96694,
+        "url": "https://www.mimara.hr/"
+      },
+      {
+        "nome": "Croatian Museum of Naïve Art",
+        "testo": "A small museum in the Upper Town devoted to Croatian naïve painting, which began in the 1930s among the peasants of Hlebine, with Ivan Generalić and the painters on glass. Strong colours, villages, animals and country scenes.",
+        "come": "A few steps from the Lotrščak Tower and the funicular.",
+        "quando": "Weekday mornings.",
+        "tempo": "45 minutes",
+        "orari": "Monday to Friday 9am-5pm, Saturday 10am-2pm.",
+        "lat": 45.81542,
+        "lng": 15.97333,
+        "url": "https://www.hmnu.hr/"
+      },
+      {
+        "nome": "Maksimir Park",
+        "testo": "The city's oldest park, opened in 1794, with oak woods, ponds, a belvedere and the zoo. Twenty minutes by tram from the centre, it's where people in Zagreb spend their Sundays.",
+        "come": "Tram east from Jelačić Square to Maksimir.",
+        "quando": "Morning or afternoon, in good weather.",
+        "tempo": "2 hours",
+        "costo": "park free, zoo ticketed",
+        "lat": 45.82964,
+        "lng": 16.02047
       }
     ],
     programmi: [
       {
-        titolo: "1 day",
-        tappe: [
-          "Dolac market in the morning",
-          "Cathedral and Upper Town",
-          "Lunch with štrukli",
-          "Museum of Broken Relationships",
-          "Aperitif on Tkalčićeva street"
+        "titolo": "1 day",
+        "tappe": [
+          "Dolac market in the morning, then the cathedral.",
+          "Upper Town via the Stone Gate: St Mark's Church and Lotrščak Tower by noon, for the cannon.",
+          "Lunch with štrukli, then the Museum of Broken Relationships.",
+          "Down by funicular and drinks on Tkalčićeva."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: as above.",
+          "Day 2 morning: Mirogoj cemetery by bus from Kaptol.",
+          "Afternoon: Mimara Museum and the Lower Town parks, or the Museum of Naïve Art.",
+          "Evening: dinner in the Upper Town and the Strossmayer promenade with the city lit up."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1 and 2: as above.",
+          "Day 3: Samobor in the morning, with kremšnita, or Maksimir Park.",
+          "Leave in the afternoon for Plitvice, about two hours' drive."
         ]
       }
     ],
     zone: [
       {
-        nome: "Lower Town",
-        perChi: "for station and trams",
-        testo: "Hotels and apartments within walking distance of everything; the centre is lively and a bit noisy at night."
+        "nome": "Lower Town",
+        "perChi": "for station and trams",
+        "testo": "Hotels and apartments within walking distance of everything; the centre is lively and a bit noisy at night.",
+        "fascia": "60-130 €"
       },
       {
-        nome: "Near Jelačić Square",
-        perChi: "for short stays",
-        testo: "Everything on foot; prices are a little higher."
+        "nome": "Near Jelačić Square",
+        "perChi": "for short stays",
+        "testo": "Everything on foot; prices are a little higher.",
+        "fascia": "90-150 €"
       }
     ],
     sapori: [
@@ -102,6 +228,48 @@ export const destinazioniCroazia: Destinazione[] = [
       "Accommodation prices rise at Christmas: book ahead.",
       "On Advent market weekends the centre gets very crowded: a weekday is better."
     ],
+    gite: [
+      {
+        "nome": "Plitvice Lakes",
+        "distanza": "about 2 hours by car",
+        "come": "By car heading south; otherwise bus from Zagreb bus station. Ticket online with a timed entry slot.",
+        "testo": "Sixteen terraced lakes linked by waterfalls, a UNESCO site. It can be done in a day, but it's better to sleep near the park and go in at opening. Tickets €40 June to September, €23 in April, May and October."
+      },
+      {
+        "nome": "Samobor",
+        "distanza": "about 25 km",
+        "come": "By car or by bus from Zagreb.",
+        "testo": "A 19th-century town with its stream, a colourful square and the pastry shops serving kremšnita, the local custard slice. Above it are the castle ruins and hill paths."
+      },
+      {
+        "nome": "Varaždin",
+        "distanza": "about 80 km",
+        "come": "By car on the motorway north, about an hour; also by train or bus.",
+        "testo": "The old Baroque capital, with the white castle ringed by grassy ramparts, noble palaces and a garden cemetery with sculpted hedges. In late August it hosts the Špancirfest street festival."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Zagreb?",
+        "risposta": "One day for the Upper Town, Dolac and the main museums; two to add Mirogoj, the Lower Town and a relaxed evening on Tkalčićeva."
+      },
+      {
+        "domanda": "Is it worth stopping in Zagreb before the coast?",
+        "risposta": "Yes, at least one night: it's a Central European city very different from Dalmatia and the natural stop before Plitvice."
+      },
+      {
+        "domanda": "How do you get from the airport to central Zagreb?",
+        "risposta": "Franjo Tuđman airport is about 17 km out: there's a shuttle bus to the bus station and taxis. For taxis, use the apps or cars with posted fares."
+      },
+      {
+        "domanda": "When is the Zagreb Christmas market?",
+        "risposta": "During Advent, from late November to early January, on Jelačić Square and other central squares. At weekends it's very crowded and lodging prices rise."
+      },
+      {
+        "domanda": "Do you need a car in Zagreb?",
+        "risposta": "No: the centre is walkable, with trams and the funicular. A car is only needed to move on to Plitvice and the coast."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: "St. Mark's Church with its colorful tiled roof in Zagreb",
@@ -115,6 +283,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['parco nazionale', 'laghi', 'cascate'],
     giorniConsigliati: "1-2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "We came here on our trip around Croatia with friends: the lower lakes up to Veliki slap on the first afternoon, and the upper lakes at opening time the next morning, with the boat across Lake Kozjak.",
     introduzione:
       "Sixteen terraced lakes linked by waterfalls and travertine barriers, crossed by wooden walkways, in Croatia's oldest national park, a UNESCO site since 1979.",
     percheAndarci: "For the waterfalls and the colors of the lakes, best seen at opening time.",
@@ -338,6 +508,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città storiche', 'parco nazionale', 'mare'],
     giorniConsigliati: "2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "We came here on our trip around Croatia with friends: one day in Zadar, with the Sea Organ and the Greeting to the Sun, then Krka, taking the boat from Skradin up to Skradinski buk, and the afternoon in Šibenik, where we spent the night.",
     introduzione:
       "Northern Dalmatia: Zadar with its Roman and Venetian center and the waterfront installations, the travertine waterfalls of Krka National Park and Šibenik with the Cathedral of St. James.",
     percheAndarci: "For the sunset at the Sea Organ, the Krka waterfalls and two historic towns less crowded than Split and Dubrovnik.",
@@ -349,73 +521,182 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     cosaFare: ["The boat from Skradin to the waterfalls", "A day trip to the Kornati or Ugljan from Zadar"],
     doveDormire: "Apartments in the old towns (€80-150); hotels at Borik, near Zadar.",
-    comeArrivare: "By car from Plitvice; Zadar airport with seasonal flights.",
+    comeArrivare:
+      "**Zadar** airport has seasonal flights from Italy and elsewhere in Europe and lies a few kilometres from the city. By car from Plitvice it takes about two hours, partly on the toll A1 motorway through the Velebit; in a strong bora that stretch can be closed to high vehicles or slowed. Zadar to Skradin, the Krka entrance, is about an hour's drive, Skradin to Šibenik about twenty minutes. Zadar's old town is pedestrian: best to find lodging with parking or use the paid car parks outside the walls.",
     periodoMigliore: "May-June and September.",
-    costi: "Krka about €40 in summer, much less in low season.",
+    costi:
+      "Krka €40 June to September (€30 after 3pm), €20 in April, May and October, €7 November to March (2026); St Michael's Fortress about €11.50, combined fortress ticket about €15; bell tower and St Donatus a few euros. Rough daily budget per person, sharing a double room, in June or September: low €70-100, mid €130-200, high over €300.",
     erroriDaEvitare: ["Expecting to swim under the Krka waterfalls: it has been forbidden since 2021"],
     luoghi: [
       {
-        nome: "Zadar: Sea Organ and Greeting to the Sun",
-        testo: "Two installations on the old town waterfront: the Sea Organ plays as waves enter tubes under the steps, and next to it a glass disc catches the sunset light. Both are by architect Nikola Bašić.",
-        come: "On foot from the old town, along the Riva.",
-        quando: "At sunset, when it plays and glows.",
-        tempo: "1 hour",
-        consiglio: "Sit on the steps: the sound changes with wind and waves."
+        "nome": "Zadar: Sea Organ and Greeting to the Sun",
+        "testo": "Two installations on the old town waterfront: the Sea Organ plays as waves enter tubes under the steps, and next to it a glass disc catches the sunset light. Both are by architect Nikola Bašić.",
+        "come": "On foot from the old town, along the Riva.",
+        "quando": "At sunset, when it plays and glows.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "orari": "Always accessible.",
+        "lat": 44.11722,
+        "lng": 15.22,
+        "consiglio": "Sit on the steps: the sound changes with wind and waves."
       },
       {
-        nome: "Zadar Old Town",
-        testo: "A peninsula with the Roman Forum, the round church of St Donatus (9th century) and Romanesque churches. Heavily damaged in World War II and rebuilt.",
-        come: "On foot from the car parks outside the walls.",
-        quando: "Morning or evening.",
-        tempo: "2 hours",
-        consiglio: "The fish and produce market near the walls is a good breakfast."
+        "nome": "Zadar Old Town",
+        "testo": "A peninsula with the Roman Forum, the round church of St Donatus (9th century) and Romanesque churches. Heavily damaged in World War II and rebuilt.",
+        "come": "On foot from the car parks outside the walls.",
+        "quando": "Morning or evening.",
+        "tempo": "2 hours",
+        "costo": "centre free; St Donatus with a ticket of a few euros",
+        "lat": 44.11555,
+        "lng": 15.22447,
+        "consiglio": "The fish and produce market near the walls is a good breakfast."
       },
       {
-        nome: "Skradinski buk (Krka)",
-        testo: "A series of waterfalls and pools on travertine terraces in Krka National Park. You walk on boardwalks and take a boat from Skradin.",
-        come: "By car from Šibenik. Start from the Skradin entrance with the boat included in the ticket.",
-        quando: "Early morning or late day. May-June and September.",
-        tempo: "3-4 hours",
-        costo: "€40 from June to September, €20 in April, May and October, €7 from November to March (2026); from 1 April to 31 October it includes the boat from Skradin.",
-        url: "https://np-krka.hr/en/",
-        consiglio: "Swimming at the foot of the falls is no longer allowed."
+        "nome": "St Anastasia's Cathedral and bell tower, Zadar",
+        "testo": "The largest Romanesque cathedral in Dalmatia, with a façade of rose windows and blind arcades. The bell tower, completed in the 19th century, is climbed by a narrow staircase to the top, with views over the peninsula's roofs, the port and the islands offshore.",
+        "come": "Next to the Forum, on foot in the old town.",
+        "quando": "Morning, before the heat.",
+        "tempo": "45 minutes",
+        "costo": "bell tower a few euros, often cash only",
+        "lat": 44.11611,
+        "lng": 15.22444
       },
       {
-        nome: "St James' Cathedral, Šibenik",
-        testo: "A Renaissance stone cathedral, UNESCO listed, built without mortar using interlocking blocks. Over 70 carved faces run along its outer frieze.",
-        come: "On foot from the old centre.",
-        quando: "Morning.",
-        tempo: "45 minutes",
-        consiglio: "Look at the faces on the apses: they are thought to show people of Dalmatia at the time."
+        "nome": "Land Gate and Five Wells Square",
+        "testo": "The monumental 16th-century gate with the lion of St Mark, through which you entered the city from the mainland. Just beyond is Five Wells Square, with five Venetian wellheads built over a cistern during the Ottoman sieges, and the Queen Jelena park on the bastions.",
+        "come": "On foot from the small Foša harbour, on the south side of the peninsula.",
+        "quando": "Any time; in the evening with the lights.",
+        "tempo": "30 minutes",
+        "costo": "free",
+        "lat": 44.1121,
+        "lng": 15.22845
+      },
+      {
+        "nome": "Museum of Ancient Glass, Zadar",
+        "testo": "A compact museum in a 19th-century palace, with the region's largest collection of Roman glass: perfume flasks, cups and urns found in Dalmatian burial grounds. Glass-blowing demonstrations are also held.",
+        "come": "On foot from the old town, just outside the walls on the Jazine harbour side.",
+        "quando": "A hot afternoon or a rainy day.",
+        "tempo": "1 hour",
+        "lat": 44.11433,
+        "lng": 15.22953
+      },
+      {
+        "nome": "Skradinski buk (Krka)",
+        "testo": "A series of waterfalls and pools on travertine terraces in Krka National Park. You walk on boardwalks and take a boat from Skradin.",
+        "come": "By car from Šibenik. Start from the Skradin entrance with the boat included in the ticket.",
+        "quando": "Early morning or late day. May-June and September.",
+        "tempo": "3-4 hours",
+        "costo": "€40 from June to September, €20 in April, May and October, €7 from November to March (2026); from 1 April to 31 October it includes the boat from Skradin.",
+        "lat": 43.80573,
+        "lng": 15.96318,
+        "url": "https://np-krka.hr/en/",
+        "consiglio": "Swimming at the foot of the falls is no longer allowed."
+      },
+      {
+        "nome": "Visovac and Roški slap (Krka)",
+        "testo": "Upstream of Skradinski buk the river widens into a lake with the islet of Visovac and its Franciscan monastery among cypresses. Further up is Roški slap, a broad waterfall preceded by a series of small cascades known as \"necklaces\", with restored old mills.",
+        "come": "By boat on the park's excursions from Skradinski buk, or by car to the Roški slap entrance and the Visovac viewpoint.",
+        "quando": "April to October, when the boats run; much less crowded than Skradinski buk.",
+        "tempo": "half a day",
+        "lat": 43.90375,
+        "lng": 15.97507,
+        "url": "https://www.npkrka.hr/"
+      },
+      {
+        "nome": "Skradin",
+        "testo": "The small riverside town where boats leave for Skradinski buk, with a harbour full of sailing boats and stone houses climbing the hill. Outside boat times it's quiet, and its restaurants are known for Skradin risotto, cooked for hours.",
+        "come": "By car from Zadar in about an hour, from Šibenik in about 20 minutes; paid parking near the harbour.",
+        "quando": "First boat of the morning; after 11am the Skradinski buk boardwalks get jammed.",
+        "tempo": "1 hour in the village",
+        "costo": "free",
+        "lat": 43.81667,
+        "lng": 15.92222
+      },
+      {
+        "nome": "St James' Cathedral, Šibenik",
+        "testo": "A Renaissance stone cathedral, UNESCO listed, built without mortar using interlocking blocks. Over 70 carved faces run along its outer frieze.",
+        "come": "On foot from the old centre.",
+        "quando": "Morning.",
+        "tempo": "45 minutes",
+        "costo": "a ticket of a few euros",
+        "lat": 43.73564,
+        "lng": 15.88912,
+        "consiglio": "Look at the faces on the apses: they are thought to show people of Dalmatia at the time."
+      },
+      {
+        "nome": "St Michael's Fortress, Šibenik",
+        "testo": "The medieval fortress above the old town, with views over the roofs, the St Anthony Channel and the islands. Inside the walls is an open-air stage where concerts are held in summer.",
+        "come": "On foot from the cathedral, climbing the stone lanes, about ten minutes.",
+        "quando": "Late afternoon, for the light on the islands.",
+        "tempo": "45 minutes",
+        "costo": "about €11.50; combined with the city's other fortresses about €15 (2026)",
+        "lat": 43.73757,
+        "lng": 15.88961
+      },
+      {
+        "nome": "Barone Fortress, Šibenik",
+        "testo": "A fortress built in the 17th century on the hill above the city to defend it from the Ottomans. It's higher than St Michael's and the view is wider, out to the archipelago; inside are a small exhibition and a terrace café.",
+        "come": "On foot uphill from the centre, about 15 minutes, or by car.",
+        "quando": "Sunset.",
+        "tempo": "45 minutes",
+        "costo": "included in the combined fortress ticket",
+        "lat": 43.7373,
+        "lng": 15.8964
+      },
+      {
+        "nome": "St Nicholas Fortress, Šibenik",
+        "testo": "A 16th-century Venetian fortress on an islet at the mouth of the St Anthony Channel, triangular and pointing out to sea. It is part of the Venetian defence works listed by UNESCO.",
+        "come": "It can be seen from the path along the channel or from boats; visits inside are limited and should be checked locally.",
+        "quando": "Afternoon, sailing in or out of the channel.",
+        "tempo": "1 hour",
+        "lat": 43.72161,
+        "lng": 15.85453
       }
     ],
     programmi: [
       {
-        titolo: "1 day",
-        tappe: [
-          "Zadar in the morning",
-          "Lunch in town",
-          "Sunset at the Sea Organ"
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Zadar old town, Forum, St Donatus and St Anastasia's bell tower.",
+          "Lunch in town, then the Land Gate and Five Wells Square.",
+          "Afternoon: Museum of Ancient Glass or a barkajol rowing-boat crossing of the harbour.",
+          "Sunset at the Sea Organ and the Greeting to the Sun."
         ]
       },
       {
-        titolo: "2 days",
-        tappe: [
-          "Day 1: Zadar and sunset on the Riva",
-          "Day 2: Krka in the morning, Šibenik in the afternoon"
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Zadar as above.",
+          "Day 2: to Skradin for the first boat, Skradinski buk on the boardwalks.",
+          "Afternoon: Šibenik, St James's Cathedral and St Michael's Fortress at sunset."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1 and 2: as above, sleeping in Šibenik the second night.",
+          "Day 3: Visovac and Roški slap in the quieter upper part of the Krka.",
+          "Alternatively: a day by boat to the Kornati from Zadar."
         ]
       }
     ],
     zone: [
       {
-        nome: "Zadar Old Town",
-        perChi: "for the centre",
-        testo: "Stone lodgings steps from everything; lively at night around the Riva."
+        "nome": "Zadar Old Town",
+        "perChi": "for the centre",
+        "testo": "Stone lodgings steps from everything; lively at night around the Riva.",
+        "fascia": "80-150 €"
       },
       {
-        nome: "Šibenik",
-        perChi: "to reach Krka",
-        testo: "Quieter than Split, handy for the motorway and the park."
+        "nome": "Šibenik",
+        "perChi": "to reach Krka",
+        "testo": "Quieter than Split, handy for the motorway and the park.",
+        "fascia": "80-150 €"
+      },
+      {
+        "nome": "Borik, Zadar",
+        "perChi": "those travelling by car who want the sea",
+        "testo": "An area of seafront hotels north-west of the city, with beaches and parking; the old town is about twenty minutes away by bus or car."
       }
     ],
     sapori: [
@@ -441,6 +722,54 @@ export const destinazioniCroazia: Destinazione[] = [
       "In July and August the falls fill up: arrive at opening.",
       "Parking near the old town is paid and time-limited."
     ],
+    gite: [
+      {
+        "nome": "Kornati National Park",
+        "distanza": "a full day by boat from Zadar",
+        "come": "Boat excursions from Zadar harbour or from Murter, booked the day before.",
+        "testo": "An archipelago of nearly ninety bare limestone islands, with cliffs on the open sea and bays for swimming. The park ticket is usually included in the excursion."
+      },
+      {
+        "nome": "Ugljan island",
+        "distanza": "about 25 minutes by ferry",
+        "come": "Jadrolinija ferries from Zadar harbour to Preko.",
+        "testo": "The island facing Zadar, with olive groves, fishing villages and the islet of Galevac, reachable by swimming or boat from Preko. A half day at the sea without a car."
+      },
+      {
+        "nome": "Nin",
+        "distanza": "about 15 km from Zadar",
+        "come": "By car or bus from Zadar.",
+        "testo": "A small town on an islet in the lagoon, one of Croatia's oldest, with the pre-Romanesque church of the Holy Cross, saltpans and long sandy beaches with healing mud."
+      },
+      {
+        "nome": "Primošten",
+        "distanza": "about 30 km from Šibenik",
+        "come": "By car along the coast towards Split.",
+        "testo": "A village on a peninsula with its church on top and Babić vineyards in dry-stone terraces all around, one of the best-known views of the Dalmatian coast."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Can you swim at the Krka waterfalls?",
+        "risposta": "No, swimming below Skradinski buk has been banned since 2021. To swim you need to go to the sea, in Šibenik or Zadar."
+      },
+      {
+        "domanda": "How much is the Krka ticket?",
+        "risposta": "June to September €40 (€30 after 3pm), April, May and October €20, November to March €7. From April to October it includes the boat from Skradin."
+      },
+      {
+        "domanda": "Krka or Plitvice?",
+        "risposta": "Plitvice is bigger and more spectacular, with sixteen lakes; Krka is quicker to visit and close to the sea. Those passing through both do Plitvice for the lakes and Krka for Skradinski buk and Visovac."
+      },
+      {
+        "domanda": "Zadar or Šibenik as a base?",
+        "risposta": "Zadar has more life and the sunset at the Sea Organ; Šibenik is closer to Krka, about twenty minutes from Skradin. With two nights you can spend one in each."
+      },
+      {
+        "domanda": "When is the Sea Organ best heard?",
+        "risposta": "It plays all the time, but with some swell or wind the sound is stronger. At sunset arrive half an hour early for a seat on the steps."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: "Skradinski Buk in Krka National Park",
@@ -454,6 +783,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città romana', 'mare', 'porto'],
     giorniConsigliati: "2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "We drove in from Trogir on our trip around Croatia with friends, and returned the car here: two nights, with Diocletian's Palace and Marjan hill, then the catamaran to Hvar.",
     introduzione:
       "Split lives inside the palace that Emperor Diocletian had built around 300 AD. Half an hour away is Trogir, a medieval little island and UNESCO site. The port is the hub for ferries to the islands.",
     percheAndarci: "For Diocletian's Palace, the Riva, Marjan and the connections to Hvar, Brač and Vis.",
@@ -771,6 +1102,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['isola', 'mare', 'vita notturna'],
     giorniConsigliati: "2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "We arrived by catamaran from Split on our trip around Croatia with friends: two nights, with one day by taxi-boat to the Pakleni islands.",
     introduzione:
       "The sunniest island in the Adriatic, with a Venetian town on the bay, the Pakleni Islands facing the harbor, lavender fields inland and the Stari Grad Plain, a UNESCO site.",
     percheAndarci: "For the coves of the Pakleni, the sunset from the fortress and, for those who look for it, the nightlife.",
@@ -1044,70 +1377,159 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['isola', 'città storica', 'vino'],
     giorniConsigliati: "1-2 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "We arrived by catamaran from Hvar on our trip around Croatia with friends: one night, with the old town, the walls and sunset from the tower, before the catamaran to Dubrovnik.",
     introduzione:
       "A fortified old town on a peninsula, with herringbone streets, the Cathedral of St. Mark and the house dedicated to Marco Polo; the island produces the white wine grk.",
     percheAndarci: "For a historic town quieter than Hvar and Dubrovnik and for the moreška dance.",
     cosaVedere: ["The old town and the walls", "The Cathedral of St. Mark", "Lumbarda and its vineyards"],
     cosaFare: ["Watch the moreška on summer evenings", "Taste the grk in Lumbarda"],
     doveDormire: "Old town or Lumbarda, €90-160.",
-    comeArrivare: "Catamaran from Split, Hvar or Dubrovnik; ferry from Orebić on the Pelješac peninsula.",
+    comeArrivare:
+      "Korčula has no airport: you arrive by sea. The catamaran from **Hvar** takes about an hour and a half (roughly €20-30), the one from **Dubrovnik** about two hours (€25-35), with sailings from **Split** too; in summer there are few a day and they should be booked as soon as dates are set. By car you cross the Pelješac peninsula and take the ferry from **Orebić**, a short crossing. In a bora or heavy seas, sailings may be cancelled.",
     periodoMigliore: "June and September.",
+    costi:
+      "Moreška about €20; catamaran Hvar-Korčula €20-30, Korčula-Dubrovnik €25-35 (2026 estimates). Rough daily budget per person, sharing a double room, in June or September: low €70-100, mid €130-200, high over €300; in July and August add 30-50%.",
     erroriDaEvitare: ["Visiting only as a day trip from the cruises, missing the evening"],
     luoghi: [
       {
-        nome: "Korčula Old Town",
-        testo: "A fortified peninsula with a herringbone street plan, with lanes designed to shelter from the wind. Venetian walls and towers, and St Mark's cathedral with an altarpiece by Tintoretto.",
-        come: "On foot from the harbour, through the Land Gate.",
-        quando: "Morning or evening.",
-        tempo: "2 hours",
-        consiglio: "Climb the cathedral tower for the rooftops."
+        "nome": "Korčula Old Town",
+        "testo": "A fortified peninsula with a herringbone street plan, with lanes designed to shelter from the wind. Venetian walls and towers, and St Mark's cathedral with an altarpiece by Tintoretto.",
+        "come": "On foot from the harbour, through the Land Gate.",
+        "quando": "Morning or evening.",
+        "tempo": "2 hours",
+        "costo": "free",
+        "lat": 42.96167,
+        "lng": 17.13583,
+        "consiglio": "Climb the cathedral tower for the rooftops."
       },
       {
-        nome: "Marco Polo's House",
-        testo: "According to local tradition Marco Polo was born in Korčula. In the centre there is a house that tradition names as his.",
-        come: "In the old centre, with steep steps.",
-        quando: "Morning.",
-        tempo: "30 minutes",
-        consiglio: "Birth in Korčula is a tradition, not a documented fact."
+        "nome": "St Mark's Cathedral",
+        "testo": "The cathedral in the island's pale stone closes the square at the top of the old town, with a Romanesque portal decorated with lions and figures. Inside is a Tintoretto altarpiece on the high altar; from the bell tower you see the herringbone roofs and the Pelješac channel.",
+        "come": "On foot along the main street from the Land Gate.",
+        "quando": "Morning, before the heat, to climb the bell tower.",
+        "tempo": "45 minutes",
+        "lat": 42.96161,
+        "lng": 17.1362
       },
       {
-        nome: "Moreška",
-        testo: "A sword dance that stages the fight between Moors and Christians over a kidnapped girl, performed in Korčula for centuries. Two armies in red and black costumes clash with rhythmic blows and sparks on the blades. Today there are regular shows for visitors about twice a week.",
-        come: "In the evening, outdoors or in a hall, ticketed.",
-        quando: "Summer, evenings.",
-        tempo: "1 hour",
-        consiglio: "Check day and time on site: they vary."
+        "nome": "Revelin Tower and the Land Gate",
+        "testo": "The main entrance to the old town, with the wide staircase up to the gate and the Revelin Tower beside it, the strongest bastion of the Venetian walls. From the tower the whole peninsula with the town is in view.",
+        "come": "A few minutes on foot from the harbour and bus station.",
+        "quando": "Sunset, with the light on the stone.",
+        "tempo": "30 minutes",
+        "lat": 42.9608,
+        "lng": 17.13597
       },
       {
-        nome: "Pelješac peninsula",
-        testo: "The long peninsula opposite, with small Plavac mali producers. From Orebić a short ferry crossing takes you to Korčula.",
-        come: "By car, visiting the wineries of Dingač and Potomje.",
-        quando: "Spring and autumn.",
-        tempo: "half a day",
-        consiglio: "Book tastings, especially in high season."
+        "nome": "Moreška",
+        "testo": "A sword dance that stages the fight between Moors and Christians over a kidnapped girl, performed in Korčula for centuries. Two armies in red and black costumes clash with rhythmic blows and sparks on the blades. Today there are regular shows for visitors about twice a week.",
+        "come": "In the evening, outdoors or in a hall, ticketed.",
+        "quando": "Summer, evenings.",
+        "tempo": "1 hour",
+        "costo": "about €20 per person (2026)",
+        "orari": "Usually Monday and Thursday evenings in July and August; check dates on the Korčula tourist board website.",
+        "lat": 42.9608,
+        "lng": 17.13597,
+        "consiglio": "Check day and time on site: they vary."
+      },
+      {
+        "nome": "Marco Polo's House",
+        "testo": "According to local tradition Marco Polo was born in Korčula. In the centre there is a house that tradition names as his.",
+        "come": "In the old centre, with steep steps.",
+        "quando": "Morning.",
+        "tempo": "30 minutes",
+        "lat": 42.96193,
+        "lng": 17.1365,
+        "consiglio": "Birth in Korčula is a tradition, not a documented fact."
+      },
+      {
+        "nome": "Korčula Town Museum",
+        "testo": "In the Renaissance Gabriellis palace, opposite the cathedral, it tells the story of the town: stonework, shipyards, merchants' houses. Upstairs a traditional kitchen has been reconstructed.",
+        "come": "On St Mark's Square, next to the cathedral.",
+        "quando": "The hot hours or a windy day.",
+        "tempo": "45 minutes",
+        "lat": 42.96154,
+        "lng": 17.13582
+      },
+      {
+        "nome": "Lumbarda and Pržina beach",
+        "testo": "The village a few kilometres from town where grk is made, a white wine grown only here on sandy soil. It has small wineries to visit and sandy beaches, rare in Dalmatia: Pržina is the best known.",
+        "come": "About 15 minutes by car or bus from town; in summer also by taxi boat or bike.",
+        "quando": "Afternoon for the beach, late afternoon for a tasting.",
+        "tempo": "half a day",
+        "lat": 42.91791,
+        "lng": 17.18679,
+        "consiglio": "Book grk tastings ahead, especially in high season."
+      },
+      {
+        "nome": "Badija island",
+        "testo": "The wooded islet off Korčula, with a 15th-century Franciscan monastery and fallow deer roaming among the pines. It has small beaches and can be walked round in an hour.",
+        "come": "Taxi boat from Korčula harbour in summer, a few minutes.",
+        "quando": "A summer morning or afternoon, with a calm sea.",
+        "tempo": "half a day",
+        "lat": 42.9556,
+        "lng": 17.1611,
+        "consiglio": "Don't feed the deer: they come very close to people."
+      },
+      {
+        "nome": "Pelješac peninsula",
+        "testo": "The long peninsula opposite, with small Plavac mali producers. From Orebić a short ferry crossing takes you to Korčula.",
+        "come": "By car, visiting the wineries of Dingač and Potomje.",
+        "quando": "Spring and autumn.",
+        "tempo": "half a day",
+        "lat": 42.925,
+        "lng": 17.40361,
+        "consiglio": "Book tastings, especially in high season."
+      },
+      {
+        "nome": "Vela Luka and Vela Spila cave",
+        "testo": "At the western end of the island, above Vela Luka harbour, is a large cave inhabited for thousands of years since prehistory, with an opening in the roof that lets in the light. Some of the oldest ceramic objects in Europe were found inside.",
+        "come": "By car or bus from Korčula town, about an hour across the island; from the village you walk up.",
+        "quando": "Morning, combined with a tour of the inland villages.",
+        "tempo": "half a day with the drive",
+        "lat": 42.96973,
+        "lng": 16.71836
       }
     ],
     programmi: [
       {
-        titolo: "1 day",
-        tappe: [
-          "Old town in the morning",
-          "Lunch by the sea",
-          "Lumbarda beach or a boat trip",
-          "Moreška in the evening, if scheduled"
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: the old town from the Land Gate, cathedral and bell tower.",
+          "Marco Polo's House and the Town Museum.",
+          "Afternoon: Lumbarda beach or a taxi boat to Badija.",
+          "Evening: moreška if scheduled, then sunset from the Revelin Tower."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: as above.",
+          "Day 2: ferry to Orebić and Plavac mali wineries on Pelješac, or a tour of the island to Vela Luka.",
+          "Evening: grk tasting in Lumbarda."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1 and 2: as above.",
+          "Day 3: seasonal catamaran to Mljet and its national park, or leave for Dubrovnik with a stop in Ston."
         ]
       }
     ],
     zone: [
       {
-        nome: "Old town",
-        perChi: "for atmosphere",
-        testo: "Rooms in the historic centre; music and strolling in the evening, but you sleep well."
+        "nome": "Old town",
+        "perChi": "for atmosphere",
+        "testo": "Rooms in the historic centre; music and strolling in the evening, but you sleep well.",
+        "fascia": "90-160 €"
       },
       {
-        nome: "Lumbarda",
-        perChi: "for beaches",
-        testo: "A village with sand beaches and vineyards, a few kilometres from town."
+        "nome": "Lumbarda",
+        "perChi": "for beaches",
+        "testo": "A village with sand beaches and vineyards, a few kilometres from town.",
+        "fascia": "90-160 €"
       }
     ],
     sapori: [
@@ -1133,6 +1555,48 @@ export const destinazioniCroazia: Destinazione[] = [
       "With the bora wind connections can be cancelled.",
       "In pier restaurants check the price of fish by weight."
     ],
+    gite: [
+      {
+        "nome": "Orebić",
+        "distanza": "a short ferry crossing",
+        "come": "Car and passenger ferries from Korčula to Orebić, on the Pelješac peninsula.",
+        "testo": "The town of sea captains, with sailors' villas, the Franciscan monastery on the hill and the view across to Korčula. Roads lead from here to the Dingač and Potomje wineries."
+      },
+      {
+        "nome": "Ston",
+        "distanza": "about 1 hour by car from Orebić",
+        "come": "Ferry to Orebić, then by car along the Pelješac peninsula.",
+        "testo": "Europe's longest defensive walls, over five kilometres across the hill, saltpans still in use and Mali Ston oysters to eat raw."
+      },
+      {
+        "nome": "Mljet National Park",
+        "distanza": "by seasonal catamaran",
+        "come": "Summer catamarans from Korčula to Pomena or Polače; check times and days.",
+        "testo": "The green island with its two salt lakes, Veliko and Malo jezero, and the islet with the Benedictine monastery in the middle of the large lake. It's explored by bike or boat."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Korčula as a day trip, or is it worth staying?",
+        "risposta": "At least one night is worthwhile: the old town is at its best in the evening, when the excursion boats leave and the moreška is on."
+      },
+      {
+        "domanda": "How do you get to Korčula?",
+        "risposta": "By catamaran from Split, Hvar (about an hour and a half) or Dubrovnik (about two hours), or by car with the ferry from Orebić. In summer, book catamarans early."
+      },
+      {
+        "domanda": "Was Marco Polo really born on Korčula?",
+        "risposta": "It's a local tradition, not a documented fact. The house bearing his name is a small museum about his travels and the link with the island."
+      },
+      {
+        "domanda": "When can you see the moreška?",
+        "risposta": "Usually Monday and Thursday evenings in July and August, with tickets around €20. Check dates on the Korčula tourist board website."
+      },
+      {
+        "domanda": "Where to swim on Korčula?",
+        "risposta": "At Lumbarda, with sandy beaches such as Pržina, or on Badija island by taxi boat. In town there are rocks and small equipped jetties."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: "The old town of Korčula on its fortified peninsula",
@@ -1146,6 +1610,8 @@ export const destinazioniCroazia: Destinazione[] = [
     tipologia: ['città fortificata', 'mare', 'isole'],
     giorniConsigliati: "3 days",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Dubrovnik was the last stop of our trip around Croatia with friends: three nights, with the walls on the first afternoon, the Stradun early in the morning, the boat to Lokrum, the cable car up Srđ at sunset and a day in Ston.",
     introduzione:
       "The ancient Republic of Ragusa, enclosed by two kilometers of walls above the sea, with the Stradun, the palaces and the monasteries. Facing it is the island of Lokrum; to the north, Ston with its walls over five kilometers long and the oysters of Mali Ston.",
     percheAndarci: "For the walk around the walls, the old town, Lokrum and the trips toward Ston, the Elaphiti Islands and the Bay of Kotor.",

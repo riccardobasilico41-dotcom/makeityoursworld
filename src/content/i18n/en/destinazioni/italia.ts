@@ -2388,13 +2388,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Milanese cuisine is rich and wintry: saffron risotto, cotoletta (thick, bone-in, not thin), ossobuco, cassoeula. The rest is an international scene among the most developed in Italy. Aperitivo is a format: you pay for the drink and the buffet is included, with very variable quality. The covered markets and the Porta Romana area have the best value for money.",
     comeArrivare:
-      "Three airports (Malpensa, Linate, Bergamo) and the most important rail hub in Italy: from Milano Centrale you reach Rome in three hours, Florence in an hour and forty, Venice in two and a half.",
+      "Three airports and Italy's most important rail hub. From **Malpensa** the Malpensa Express reaches Cadorna or Centrale in 35-55 minutes, about €15 one way; taxis have a fixed fare of about €114. **Linate** is linked by metro M4: San Babila in about 15 minutes on the €2.20 urban ticket. From **Bergamo Orio al Serio** buses to Centrale take 50-60 minutes, about €10-13. By train, Milano Centrale is three hours from Rome, an hour and forty minutes from Florence and two and a half hours from Venice.",
     comeSpostarsi:
       "Metro with four lines, historic trams, bike and scooter sharing everywhere. **Area B and Area C restrict car access to the center**, with cameras: whoever enters by car without knowing it pays.",
     periodoMigliore:
       "April-June and September-October. Winter is cold and foggy but the city works; summer is muggy and in August Milan empties, with many places closed. During the Salone del Mobile (April) and fashion weeks, lodging prices triple and finding a place is hard.",
     costi:
-      "For lodging it's the most expensive city in Italy. The Duomo and terraces have a combined ticket; the Last Supper costs 15 euros full price (official website, 2026), the problem is finding a spot.",
+      "For lodging it's the most expensive city in Italy. The Duomo and terraces have a combined ticket; the Last Supper costs 15 euros full price (official website, 2026), the problem is finding a spot. Rough daily budget per person, sharing a double room: low €80-110, mid €150-200, high over €300.",
     erroriDaEvitare: [
       "Trying to see the Last Supper without a reservation: **you can't get in**, booking windows open quarterly and sell out in no time. It's the most common mistake of visitors to Milan",
       "Driving into the center without knowing about Area B and Area C",
@@ -2411,6 +2411,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro M1 or M3 to Duomo; the terrace entrance is on the side of the square. You climb on foot or by elevator; the elevator does not reach the highest level, where you continue by stairs.",
         "quando": "Morning or late afternoon, with a clear sky. Book online on weekends and in high season. The Duomo museum has its own closing days: check.",
         "tempo": "1.5 hours for the terraces, 2-3 hours with the interior and museum",
+        "lat": 45.46397,
+        "lng": 9.19058,
         "url": "https://www.duomomilano.it/",
         "consiglio": "Climb on foot: the way up is part of the visit and the elevator queue is sometimes long."
       },
@@ -2421,6 +2423,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Tuesday to Sunday 8:15-19:00, last entry 18:45; closed on Mondays, 1 January and 25 December. Booking is compulsory for all tickets, even free ones: without it you don't get in. Collect the ticket at the office next to the entrance at least 30 minutes before your slot, with ID.",
         "tempo": "15 minutes inside, an hour with waiting and checks",
         "costo": "15 euros full price, 2 euros for ages 18-25, free under 18 (official site, 2026)",
+        "orari": "Tuesday to Sunday 8:15am-7pm, last entry 6:45pm. Closed Mondays, 1 January and 25 December.",
+        "lat": 45.46583,
+        "lng": 9.17111,
         "url": "https://cenacolovinciano.org/",
         "consiglio": "Check the official site months ahead for new sales openings and book as soon as they appear: it is the most common mistake in Milan."
       },
@@ -2431,6 +2436,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Closed on Mondays; Tuesday to Sunday 8:30am-7:15pm, booking required. The afternoon is quieter. The neighbourhood is best explored in the evening.",
         "tempo": "2 hours",
         "costo": "20 euros full price, Grande Brera ticket including Palazzo Citterio (2026)",
+        "orari": "Tuesday to Sunday 8:30am-7:15pm. Closed Mondays.",
+        "lat": 45.47196,
+        "lng": 9.18782,
         "url": "https://pinacotecabrera.org/",
         "consiglio": "Pick five or six rooms and do not try to see them all."
       },
@@ -2440,6 +2448,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro M1 Cairoli or M2 Lanza. The courtyards and garden are open to all; the museums have a separate ticket.",
         "quando": "Museums closed on Monday. Morning for the castle, afternoon for the park.",
         "tempo": "2 hours with the museums, 1 hour for courtyards and park",
+        "costo": "courtyards and park free, museums ticketed",
+        "orari": "Museums closed on Mondays. Courtyards and Parco Sempione always open.",
+        "lat": 45.471,
+        "lng": 9.17969,
         "url": "https://www.milanocastello.it/",
         "consiglio": "If time is short, go in only for the Rondanini Pietà: it is a single room."
       },
@@ -2449,7 +2461,59 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A short walk from the Duomo. The La Scala museum is in Largo Ghiringhelli.",
         "quando": "The Galleria is always open. The La Scala museum has its own hours: check first. Evening for the lit shop windows.",
         "tempo": "1 hour for the Galleria and square, one more hour with the museum",
+        "costo": "Galleria free; La Scala Theatre Museum €12 full price, plus online booking fee (official site, 2026)",
+        "orari": "Galleria always open. La Scala Museum daily 9:30am-5:30pm, last entry 5pm; closed 7, 25 and 26 December, 1 January, Easter, 1 May and 15 August.",
+        "lat": 45.46561,
+        "lng": 9.19002,
+        "url": "https://www.museoscala.org/",
         "consiglio": "The cafes in the Galleria are expensive: have coffee in a side street and use the Galleria only for a stroll."
+      },
+      {
+        "nome": "Basilica of Sant'Ambrogio",
+        "testo": "The oldest church in Milan and the one locals love most, founded by Bishop Ambrose in the 4th century and rebuilt in Romanesque style, with a brick atrium in front of the façade. Inside are Vuolvinius's 9th-century golden altar and the chapel of San Vittore in Ciel d'Oro with early Christian mosaics. It is the model of Lombard Romanesque.",
+        "come": "Metro M2 Sant'Ambrogio, the stop is on the square. Free entry outside service times.",
+        "quando": "Weekday mornings. Avoid Sunday mornings, with Mass.",
+        "tempo": "45 minutes",
+        "costo": "free entry to the basilica",
+        "lat": 45.4625,
+        "lng": 9.17583,
+        "url": "https://www.santambrogio-basilica.it/",
+        "consiglio": "It pairs well with the Last Supper and San Maurizio: they are ten minutes' walk from each other."
+      },
+      {
+        "nome": "Pinacoteca Ambrosiana",
+        "testo": "Founded in 1618 by Cardinal Federico Borromeo together with the library, it was one of the first collections in Europe open to the public. It holds Caravaggio's Basket of Fruit, Raphael's cartoon for the School of Athens and Leonardo's Portrait of a Musician. The rooms are compact and rarely crowded.",
+        "come": "Five minutes' walk from the Duomo, in Piazza Pio XI. One ticket for the gallery and the crypt.",
+        "quando": "Any day except Wednesday; early afternoon is the quietest time.",
+        "tempo": "1 hour 30 minutes",
+        "costo": "€20 full price, gallery and crypt (official site, 2026)",
+        "orari": "Daily 10am-6pm, ticket office until 5:15pm. Closed Wednesdays.",
+        "lat": 45.46378,
+        "lng": 9.18595,
+        "url": "https://www.ambrosiana.it/"
+      },
+      {
+        "nome": "San Maurizio al Monastero Maggiore",
+        "testo": "From outside it is a plain church on Corso Magenta; inside, every wall is covered with 16th-century frescoes, many by Bernardino Luini and his workshop. It was the church of the Benedictine nuns, split in two by a partition wall: one side for the congregation, the other for the nuns' choir. Anyone who walks in without knowing what to expect is struck.",
+        "come": "Metro M1 or M2 to Cadorna, then five minutes' walk along Corso Magenta. The Archaeological Museum is next door.",
+        "quando": "Morning or early afternoon, outside service times.",
+        "tempo": "30 minutes",
+        "costo": "free entry",
+        "lat": 45.46566,
+        "lng": 9.17892,
+        "consiglio": "Go through to the nuns' choir behind the partition: many stop in the first hall and miss it."
+      },
+      {
+        "nome": "Museo del Novecento",
+        "testo": "The museum of 20th-century Italian art, in the Palazzo dell'Arengario on Piazza Duomo: Boccioni and the Futurists, Morandi, de Chirico, Fontana. You climb a spiral ramp and end up in the room with Lucio Fontana's neon, in front of a glass wall looking onto the Duomo.",
+        "come": "On Piazza Duomo, Palazzo Reale side. Metro M1 or M3 to Duomo.",
+        "quando": "Afternoon or late afternoon, when the light on the square is low.",
+        "tempo": "1 hour 30 minutes",
+        "orari": "Closed Mondays; other days' hours on the official site.",
+        "lat": 45.46341,
+        "lng": 9.19026,
+        "url": "https://www.museodelnovecento.org/",
+        "consiglio": "The last room, with the window onto the Duomo, is a reason to go in even for those who don't care for modern art."
       },
       {
         "nome": "Navigli",
@@ -2457,7 +2521,32 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro M2 Porta Genova or tram. You walk along the towpaths.",
         "quando": "Evening for aperitivo. On the last Sunday of the month there is an antiques market on the Naviglio Grande.",
         "tempo": "2-3 hours in the evening",
+        "costo": "free",
+        "lat": 45.45244,
+        "lng": 9.17703,
         "consiglio": "Move away from the bars on the canal: two streets further, prices drop."
+      },
+      {
+        "nome": "Monumental Cemetery",
+        "testo": "Opened in 1866, it is an open-air sculpture museum: chapels, temples and monuments of Milan's industrial families, in every style from Gothic Revival to Art Nouveau to Rationalism. At the entrance stands the Famedio, with the tombs of famous Milanese, including Alessandro Manzoni.",
+        "come": "Metro M5 or tram to Monumentale. A map of the main monuments is available at the entrance.",
+        "quando": "Morning, with the light on the sculptures. Closed Mondays.",
+        "tempo": "1 hour 30 minutes",
+        "costo": "free",
+        "orari": "Closed Mondays.",
+        "lat": 45.48577,
+        "lng": 9.17907,
+        "consiglio": "It is a working cemetery: keep your voice down and don't photograph people visiting graves."
+      },
+      {
+        "nome": "Porta Nuova: Piazza Gae Aulenti and Bosco Verticale",
+        "testo": "The skyscraper district built in the 2010s, today's Milan. Piazza Gae Aulenti is raised above street level, with fountains and the UniCredit tower; a little further on stand the two tree-covered towers of Bosco Verticale and the park of the Biblioteca degli Alberi. Next door is the Isola neighbourhood, with bars and street art.",
+        "come": "Metro M2 Garibaldi or M5 Isola. Walk around, starting from Corso Como if you like.",
+        "quando": "Late afternoon and evening, with the towers lit up.",
+        "tempo": "1-2 hours",
+        "costo": "free",
+        "lat": 45.48348,
+        "lng": 9.18939
       },
       {
         "nome": "Lake Como: Varenna and Bellagio",
@@ -2465,6 +2554,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Train from Milano Centrale to Varenna-Esino, then the boat to Bellagio. Routes and times on Navigazione Laghi.",
         "quando": "Spring and autumn, when the boats are less full. On summer weekends it is very crowded.",
         "tempo": "A full day",
+        "lat": 46.0108,
+        "lng": 9.2838,
         "url": "https://www.navigazionelaghi.it/",
         "consiglio": "Go by train and boat, not by car: the lakeside road is narrow with no parking."
       },
@@ -2474,6 +2565,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Train from Milano Centrale to Stresa, then the boat from the lakefront. Separate tickets for the palaces.",
         "quando": "April-October, with the gardens in bloom in spring. In high season leave early.",
         "tempo": "A day for two islands",
+        "lat": 45.89538,
+        "lng": 8.52708,
         "consiglio": "With a single day pick Isola Bella and Isola dei Pescatori: they fit in the same trip."
       }
     ],
@@ -2481,28 +2574,29 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Duomo and terraces, on foot.",
-          "Lunch: Galleria Vittorio Emanuele II, then a sandwich or a risotto in a side street.",
-          "Early afternoon: Sforza Castle, with the Rondanini Pietà.",
-          "Afternoon: Brera, on foot.",
+          "Morning: Duomo rooftops at opening, then the cathedral interior.",
+          "Galleria Vittorio Emanuele II and Piazza della Scala.",
+          "Lunch: a risotto or a sandwich in a side street, away from the Galleria.",
+          "Afternoon: Castello Sforzesco with the Rondanini Pietà, then walk to Brera.",
           "Evening: aperitivo on the Navigli."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1 as above; if you have the Last Supper ticket, put it in place of the Castle.",
-          "Day 2: train to Varenna and boat to Bellagio, or to Stresa for the Borromean Islands.",
-          "Lunch on the lake.",
-          "Afternoon: boat and train back before evening."
+          "Day 1: as above.",
+          "Day 2 morning: the Last Supper with a pre-booked ticket, then Sant'Ambrogio and San Maurizio al Monastero Maggiore, all on foot.",
+          "Afternoon: Pinacoteca Ambrosiana (not Wednesdays) or Museo del Novecento (not Mondays).",
+          "Evening: Porta Nuova and the Isola neighbourhood."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: Duomo, Galleria, La Scala, Brera.",
-          "Day 2: Last Supper with a booked ticket, Sforza Castle, Navigli in the evening.",
-          "Day 3: a lake in a day, Como or Maggiore."
+          "Days 1 and 2: as above.",
+          "Day 3: a lake for the day, train to Varenna and boat to Bellagio, or train to Stresa and the Borromean Islands.",
+          "Alternatively, if the weather is bad: Bergamo's Città Alta by train.",
+          "Back for dinner in a Milanese trattoria, with cotoletta or ossobuco."
         ]
       }
     ],
@@ -2510,17 +2604,20 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Brera and the center",
         "perChi": "Those who want to walk everywhere",
-        "testo": "Convenient and beautiful, close to the Duomo, Brera and the Castle. The most expensive in the city, with places that close early and less life in the evening."
+        "testo": "Convenient and beautiful, close to the Duomo, Brera and the Castle. The most expensive in the city, with places that close early and less life in the evening.",
+        "fascia": "150-300 €"
       },
       {
         "nome": "Navigli and Porta Ticinese",
         "perChi": "Those who want the evenings",
-        "testo": "Bars and nightlife until late. The noise on the towpath carries into rooms facing the canal: better a room at the back."
+        "testo": "Bars and nightlife until late. The noise on the towpath carries into rooms facing the canal: better a room at the back.",
+        "fascia": "110-220 €"
       },
       {
         "nome": "Central Station",
         "perChi": "Those on a tight budget or leaving by train",
-        "testo": "Cheaper hotels and connections to the lakes and other cities. The area is less well kept and you should be careful at night; the centre is a few metro stops away."
+        "testo": "Cheaper hotels and connections to the lakes and other cities. The area is less well kept and you should be careful at night; the centre is a few metro stops away.",
+        "fascia": "90-160 €"
       }
     ],
     sapori: [
@@ -2552,6 +2649,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Pickpockets on the metro, in front of the Duomo and at Central Station: bag closed in front, never in a back pocket.",
       "People offering bird feed or bracelets in Piazza Duomo then ask for money: refuse without taking anything in your hand.",
       "Frequent transport strikes (ATM and trains): check the calendar before going to the lakes."
+    ],
+    gite: [
+      {
+        "nome": "Bergamo Città Alta",
+        "distanza": "about 1 hour by train",
+        "come": "Regional train from Milano Centrale or Porta Garibaldi to Bergamo, then bus or funicular up to the Città Alta.",
+        "testo": "A medieval town enclosed by Venetian walls, a UNESCO site, with Piazza Vecchia, the Colleoni Chapel and Santa Maria Maggiore. It takes half a day on foot and ends well with polenta."
+      },
+      {
+        "nome": "Como and Brunate",
+        "distanza": "40 minutes to 1 hour by train",
+        "come": "Train from Milano Centrale or Cadorna to Como, then on foot to the lakefront and the funicular to Brunate.",
+        "testo": "Como cathedral, the lakefront and the funicular to Brunate, with views over the whole first basin of the lake. A shorter trip than Varenna and Bellagio, workable with half a day."
+      },
+      {
+        "nome": "Sirmione, Lake Garda",
+        "distanza": "about 1 hour 30 minutes by train and bus",
+        "come": "Train from Milano Centrale to Desenzano del Garda, then bus or boat to Sirmione.",
+        "testo": "The village on a narrow peninsula in the lake, with the Scaliger castle surrounded by water and the Grotte di Catullo, the remains of a large Roman villa on the tip."
+      },
+      {
+        "nome": "Certosa di Pavia",
+        "distanza": "about 30 km",
+        "come": "Regional train to Certosa di Pavia station, then about twenty minutes on foot; by car along the Giovi road.",
+        "testo": "The monastery commissioned by the Visconti at the end of the 14th century, with one of the richest marble façades of the Lombard Renaissance and cloisters lined with the monks' cells. It pairs with Pavia, with its covered bridge and San Michele."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Milan?",
+        "risposta": "Two days cover the Duomo, the Last Supper, Brera, the Castello and the Navigli. With three you can add a lake for the day, Como or Maggiore."
+      },
+      {
+        "domanda": "Do you need to book the Last Supper?",
+        "risposta": "Yes, for every ticket, free ones included. Sales open in batches and places go within days: without a booking you won't get in."
+      },
+      {
+        "domanda": "Is it better to climb the Duomo rooftops on foot or by lift?",
+        "risposta": "On foot is cheaper and the queues are usually shorter. The lift doesn't reach the top level, where you continue by stairs anyway."
+      },
+      {
+        "domanda": "Lake Como or Lake Maggiore as a day trip from Milan?",
+        "risposta": "Como, with Varenna and Bellagio, has the prettiest villages and the easier train. Maggiore has the Borromean Islands with palaces and gardens, best in spring."
+      },
+      {
+        "domanda": "Where is best to stay in Milan?",
+        "risposta": "Brera and the centre to walk everywhere, the Navigli for evenings, the Stazione Centrale area to spend less. With the metro, location matters less than in other cities."
+      },
+      {
+        "domanda": "Can you drive into central Milan?",
+        "risposta": "The centre is inside Area C, a charged zone with cameras, and almost the whole city is in Area B, with limits on the more polluting cars. Better to leave the car and use metro and trams."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['milano-e-i-laghi', 'grandi-citta-italia'],
@@ -3016,7 +3165,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "**May-June and September**, almost always the right answer: sea already warm, normal prices, beaches you can enjoy. July and August are packed and very expensive, with ferries sold out and coves capped. October and April are excellent for the interior and trekking, with the sea out of play.",
     costi:
-      "In high season the coast has some of the highest prices in Italy, with the Costa Smeralda out of scale. **Several beaches have capped access with paid reservations** (La Pelosa, Cala Goloritzé, some coves in the Gulf of Orosei), introduced to protect them: check and book before leaving, because without it you don't get in.",
+      "In high season the coast has some of the highest prices in Italy, with the Costa Smeralda out of scale. **Several beaches have capped access with paid reservations** (La Pelosa, Cala Goloritzé, some coves in the Gulf of Orosei), introduced to protect them: check and book before leaving, because without it you don't get in. Rough daily budget per person, sharing a double room and with a hire car: low €70-100, mid €130-190, high over €300.",
     erroriDaEvitare: [
       "Not booking the car ferry for July and August: it sells out months ahead and prices rise drastically",
       "Showing up at a capped beach without a reservation: several coves have limited numbers and paid access, and without it you turn back",
@@ -3102,6 +3251,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the Golgo plateau, at Baunei, along a trail down through the scrub. Boats can approach, but landing is restricted. Booking is required.",
         "quando": "Early morning, when you walk in the cool and the cove is still empty. May-June and September. Book before leaving: the number of daily accesses is limited.",
         "tempo": "3-4 hours for the descent, a swim and the climb back",
+        "costo": "contribution of about €7 per person, parking included, booking required (Heart of Sardinia app or Baunei municipality website, 2026)",
+        "lat": 40.10807,
+        "lng": 9.6896,
         "consiglio": "Hiking shoes and a liter and a half of water each: the climb back on a summer afternoon is hard."
       },
       {
@@ -3110,40 +3262,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Rubber boat or boat from Cala Gonone, leaving from the port. The captain decides the route and stops. Book ahead in summer.",
         "quando": "Morning, with calm seas. Trips run from May to October. The water is clearer before noon.",
         "tempo": "A full day",
+        "lat": 40.12333,
+        "lng": 9.67639,
         "consiglio": "Book a small rubber boat to land in the narrowest coves, where the big boats cannot reach."
-      },
-      {
-        "nome": "Gorropu Gorge",
-        "testo": "A cleft carved by the Rio Flumineddu between limestone walls up to 500 meters high, in the Supramonte. You walk on boulders as big as cars, with a strip of sky overhead. It looks like an American canyon and it is in Barbagia.",
-        "come": "By car from Dorgali or Urzulei to Sa Barva, then a long trail to the gorge entrance, with a river crossing. Access may have rules and a ticket: check beforehand.",
-        "quando": "Spring and autumn. In summer it is hot and the gorge fills up. After heavy rain the stream can block the way.",
-        "tempo": "Half a day, a full day for the long trek",
-        "consiglio": "Learn the access rules and consider a guide: the trail disappears in the riverbed."
-      },
-      {
-        "nome": "Orgosolo and Oliena, Barbagia",
-        "testo": "Orgosolo is famous for the political murals on its houses, painted from the 1960s on: peasant struggles, wars, rights. Oliena lies at the foot of the Supramonte, with Cannonau vineyards and a view of Monte Corrasi.",
-        "come": "By car from Nuoro, which is close to both. You walk around the villages; the murals are all on the street.",
-        "quando": "Morning or late afternoon. In autumn, with Autunno in Barbagia, the villages open houses and workshops to visitors.",
-        "tempo": "Half a day each",
-        "consiglio": "Respect the people who live in the painted houses: ask before photographing portraits."
-      },
-      {
-        "nome": "Su Nuraxi di Barumini",
-        "testo": "The best-preserved nuragic complex on the island, UNESCO-listed: a Bronze Age central tower surrounded by bastions and a stone village. At Barumini you go inside and climb stairs built into the thickness of the wall.",
-        "come": "By car from Cagliari; by train then bus, with limited connections. The visit is guided, with a guide taking the group through the rooms.",
-        "quando": "Morning or late afternoon. Hours vary with the season: check the Foundation's site before going.",
-        "tempo": "1.5 hours",
-        "url": "https://www.fondazionebarumini.it/",
-        "consiglio": "A nuraghe looks like a pile of stones until you go in: the internal stairs explain how it was built."
-      },
-      {
-        "nome": "La Pelosa, Stintino",
-        "testo": "A beach of white sand and shallow water, facing the Aragonese tower and Piana island. It is among the most photographed in Italy. To protect it, from 15 May to 15 October 2026 entry is by booking only: 1,500 places a day, €3.50 per person (2026), free under 12, checks from 8:00 to 18:00.",
-        "come": "By car to Stintino, in the northwest, then on foot from the car parks. Book on the official site spiaggialapelosa.it, up to 4 people per booking: 1,000 of the places open two days before, at 9:00.",
-        "quando": "Early morning. June and September, avoiding July and August. With the mistral the sea is rough and the beach partly closed.",
-        "tempo": "Half a day",
-        "consiglio": "Check the access rules a few days ahead and bring a mat for the sand."
       },
       {
         "nome": "La Maddalena archipelago",
@@ -3151,7 +3272,54 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ferry from Palau to La Maddalena, also with the car, a short crossing. For the other islands you need boats or dinghies.",
         "quando": "June and September. In August it is very crowded and boats are scarce.",
         "tempo": "A full day",
+        "lat": 41.21424,
+        "lng": 9.40833,
         "consiglio": "Book the boat trip early: August spots go fast."
+      },
+      {
+        "nome": "La Pelosa, Stintino",
+        "testo": "A beach of white sand and shallow water, facing the Aragonese tower and Piana island. It is among the most photographed in Italy. To protect it, from 15 May to 15 October 2026 entry is by booking only: 1,500 places a day, €3.50 per person (2026), free under 12, checks from 8:00 to 18:00.",
+        "come": "By car to Stintino, in the northwest, then on foot from the car parks. Book on the official site spiaggialapelosa.it, up to 4 people per booking: 1,000 of the places open two days before, at 9:00.",
+        "quando": "Early morning. June and September, avoiding July and August. With the mistral the sea is rough and the beach partly closed.",
+        "tempo": "Half a day",
+        "lat": 40.96528,
+        "lng": 8.20966,
+        "consiglio": "Check the access rules a few days ahead and bring a mat for the sand."
+      },
+      {
+        "nome": "Gorropu Gorge",
+        "testo": "A cleft carved by the Rio Flumineddu between limestone walls up to 500 meters high, in the Supramonte. You walk on boulders as big as cars, with a strip of sky overhead. It looks like an American canyon and it is in Barbagia.",
+        "come": "By car from Dorgali or Urzulei to Sa Barva, then a long trail to the gorge entrance, with a river crossing. Access may have rules and a ticket: check beforehand.",
+        "quando": "Spring and autumn. In summer it is hot and the gorge fills up. After heavy rain the stream can block the way.",
+        "tempo": "Half a day, a full day for the long trek",
+        "costo": "paid entry to the gorge",
+        "lat": 40.21132,
+        "lng": 9.51796,
+        "consiglio": "Learn the access rules and consider a guide: the trail disappears in the riverbed."
+      },
+      {
+        "nome": "Su Nuraxi di Barumini",
+        "testo": "The best-preserved nuragic complex on the island, UNESCO-listed: a Bronze Age central tower surrounded by bastions and a stone village. At Barumini you go inside and climb stairs built into the thickness of the wall.",
+        "come": "By car from Cagliari; by train then bus, with limited connections. The visit is guided, with a guide taking the group through the rooms.",
+        "quando": "Morning or late afternoon. Hours vary with the season: check the Foundation's site before going.",
+        "tempo": "1.5 hours",
+        "orari": "Open every day of the year with continuous hours; guided tours only, leaving every 30 minutes and lasting about an hour. One ticket also covers Casa Zapata and the Centro Giovanni Lilliu.",
+        "lat": 39.70587,
+        "lng": 8.99089,
+        "url": "https://www.fondazionebarumini.it/",
+        "consiglio": "A nuraghe looks like a pile of stones until you go in: the internal stairs explain how it was built."
+      },
+      {
+        "nome": "Cagliari: Castello and the Bastion of Saint Remy",
+        "testo": "Cagliari's upper quarter, enclosed by Pisan walls with the towers of San Pancrazio and the Elephant, the cathedral and narrow lanes. From the Bastion of Saint Remy, a large Art Nouveau terrace, you look over the port, the gulf and the lagoon. In the Cittadella dei Musei is the National Archaeological Museum with the giants of Mont'e Prama.",
+        "come": "On foot uphill from the centre or with the city's public lifts.",
+        "quando": "Late afternoon for the light on the gulf; the museum in the morning.",
+        "tempo": "half a day",
+        "costo": "quarter free, museum ticketed",
+        "orari": "National Archaeological Museum 8:30am-7:30pm, closed Tuesdays.",
+        "lat": 39.21625,
+        "lng": 9.11639,
+        "consiglio": "At sunset you can see the flamingos of the Molentargius lagoon, a few minutes from the centre."
       },
       {
         "nome": "Alghero and Neptune's Grotto",
@@ -3159,7 +3327,23 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Alghero by plane or car. For the grotto: a boat from Alghero's port or on foot down the Escala del Cabirol, the long staircase cut into the cliff.",
         "quando": "Morning. The boat does not sail in rough seas. The sunset over Alghero's ramparts is lovely.",
         "tempo": "Half a day for the grotto, a full day with Alghero",
+        "costo": "Neptune's Grotto €18 full price (Alghero tourist board website, 2026); the boat is paid separately",
+        "orari": "Daily: Easter to end of September 9am-7pm, until 24 October 9am-5pm, then 10am-3pm. From 12 November to Easter 10am-3pm, closed Thursdays and 25 December. Times refer to the last tour.",
+        "lat": 40.56485,
+        "lng": 8.16014,
+        "url": "https://www.alghero-turismo.it/grotta-di-nettuno",
         "consiglio": "Choose the stairs or the boat according to the sea: if it is rough the grotto may be closed."
+      },
+      {
+        "nome": "Orgosolo and Oliena, Barbagia",
+        "testo": "Orgosolo is famous for the political murals on its houses, painted from the 1960s on: peasant struggles, wars, rights. Oliena lies at the foot of the Supramonte, with Cannonau vineyards and a view of Monte Corrasi.",
+        "come": "By car from Nuoro, which is close to both. You walk around the villages; the murals are all on the street.",
+        "quando": "Morning or late afternoon. In autumn, with Autunno in Barbagia, the villages open houses and workshops to visitors.",
+        "tempo": "Half a day each",
+        "costo": "free",
+        "lat": 40.20471,
+        "lng": 9.35263,
+        "consiglio": "Respect the people who live in the painted houses: ask before photographing portraits."
       },
       {
         "nome": "Porto Flavia and the Piscinas dunes",
@@ -3167,7 +3351,49 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Iglesias: Masua is close, Piscinas farther, with a dirt stretch. For Porto Flavia, check beforehand how visits work.",
         "quando": "Spring and autumn. In summer the dunes are scorching.",
         "tempo": "Half a day each",
+        "orari": "Porto Flavia by booking only, accompanied, at set times.",
+        "lat": 39.33618,
+        "lng": 8.40793,
         "consiglio": "Visit the dunes at the end of the day, when the sand has lost its heat."
+      },
+      {
+        "nome": "Tharros and the Sinis peninsula",
+        "testo": "The ruins of a Phoenician and later Roman city on the tip of the Sinis, with columns still standing in front of the sea and the Spanish tower of San Giovanni. Around it lie lagoons with flamingos and the quartz beaches of Is Arutas and Mari Ermi. The Cabras museum displays the Mont'e Prama giants found nearby.",
+        "come": "By car from Oristano or Cabras, about half an hour. Ticket for the archaeological area, separate one for the Cabras museum.",
+        "quando": "Early morning or late afternoon; in summer there's no shade at midday.",
+        "tempo": "half a day with the museum",
+        "lat": 39.87344,
+        "lng": 8.44102,
+        "consiglio": "At Is Arutas it's forbidden to collect or take away the quartz grains: you risk a fine."
+      },
+      {
+        "nome": "Capo Testa and Valle della Luna",
+        "testo": "A granite headland at the northern tip, joined to the mainland by a thin isthmus, with rocks shaped by the wind into odd forms and coves between the boulders. The Valle della Luna is a granite hollow on the west side with small beaches. Across the water, on clear days, you can see Corsica.",
+        "come": "About ten minutes by car from Santa Teresa Gallura; paid parking in summer. Valle della Luna is about half an hour's walk along a path.",
+        "quando": "Sunset, from the lighthouse.",
+        "tempo": "half a day",
+        "lat": 41.2406,
+        "lng": 9.1481,
+        "consiglio": "Closed shoes: among the granite you walk on bare rock."
+      },
+      {
+        "nome": "Bosa",
+        "testo": "A town of coloured houses on the bank of the Temo, the island's only navigable river, below the Malaspina castle. The old tanneries by the river and the lanes of Sa Costa take a couple of hours. Malvasia di Bosa wine is made here.",
+        "come": "By car from Alghero along the coast road, about an hour, one of the island's finest coastal drives.",
+        "quando": "Afternoon, with the light on the houses seen from the bridge.",
+        "tempo": "2-3 hours",
+        "lat": 40.29896,
+        "lng": 8.49779
+      },
+      {
+        "nome": "Nuraghe Santu Antine",
+        "testo": "One of the largest and best-preserved nuraghi, in the Logudoro valley of the nuraghi, with a central tower and three towers joined by a bastion. You climb the internal stairs within the walls up to the first floor.",
+        "come": "By car on the SS131 between Sassari and Macomer, exit for Torralba.",
+        "quando": "On the transfer between north and centre, morning or late afternoon.",
+        "tempo": "1 hour",
+        "lat": 40.48654,
+        "lng": 8.76982,
+        "consiglio": "A stop worth the detour for those not going as far as Barumini."
       }
     ],
     programmi: [
@@ -3206,22 +3432,26 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Northeast: Palau and La Maddalena",
         "perChi": "Those who want sea and the archipelago",
-        "testo": "Base for the islands and the beaches of Gallura. The Costa Smeralda is close and expensive. Frequent ferries to La Maddalena. Very crowded in high season."
+        "testo": "Base for the islands and the beaches of Gallura. The Costa Smeralda is close and expensive. Frequent ferries to La Maddalena. Very crowded in high season.",
+        "fascia": "120-250 €"
       },
       {
         "nome": "Center-east: Cala Gonone, Dorgali, Baunei",
         "perChi": "Those who want coves and trekking",
-        "testo": "Base for the Gulf of Orosei, Gorropu and Goloritzé. Long, winding roads; the inland villages have agriturismi with excellent value."
+        "testo": "Base for the Gulf of Orosei, Gorropu and Goloritzé. Long, winding roads; the inland villages have agriturismi with excellent value.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Northwest: Alghero and Stintino",
         "perChi": "Those who want a town and beaches",
-        "testo": "Alghero has a lively centre and the airport; Stintino, near La Pelosa, is a drive away. With the mistral the sea changes from one side to the other."
+        "testo": "Alghero has a lively centre and the airport; Stintino, near La Pelosa, is a drive away. With the mistral the sea changes from one side to the other.",
+        "fascia": "90-170 €"
       },
       {
         "nome": "Southwest: Sulcis and Costa Verde",
         "perChi": "Those looking for less-visited beaches",
-        "testo": "Almost empty beaches and dunes, mines, Carloforte. Farther from everything, you need a car and a few extra days."
+        "testo": "Almost empty beaches and dunes, mines, Carloforte. Farther from everything, you need a car and a few extra days.",
+        "fascia": "70-130 €"
       }
     ],
     sapori: [
@@ -3257,6 +3487,52 @@ export const destinazioniItalia: Destinazione[] = [
       "Treks such as Gorropu and Goloritzé: it is hot in summer, you need plenty of water, proper shoes, and after storms the streams can block the way.",
       "Summer fires: open flames and barbecues are banned in the scrub, and roads can close. Respect the municipalities' bans.",
       "Narrow, winding inland roads with sheep and blind bends: allow more time than your navigator suggests and fill up before entering the Supramonte."
+    ],
+    gite: [
+      {
+        "nome": "Carloforte, San Pietro island",
+        "distanza": "30-40 minutes by ferry",
+        "come": "Ferries from Portovesme (about 40 minutes) or Calasetta (about half an hour); with a car, book ahead in summer.",
+        "testo": "The town where Ligurian is spoken, with coloured houses and green shutters, basalt columns, Cala Fico and saltpans with flamingos. It can be toured in a day by car or scooter."
+      },
+      {
+        "nome": "Nora and Chia",
+        "distanza": "about 45 minutes from Cagliari",
+        "come": "By car towards Pula; Nora to Chia about 20 minutes.",
+        "testo": "The Phoenician-Roman city of Nora, with its theatre and mosaics by the sea, and then the dunes and beaches of Chia and Tuerredda. In high season Tuerredda requires booking and paid parking."
+      },
+      {
+        "nome": "Asinara island",
+        "distanza": "by boat from Stintino",
+        "come": "Boats and licensed operators from Stintino or Porto Torres; on the island you get around by tourist train, bike, 4x4 or on foot.",
+        "testo": "A national park on an island that was a penal colony for a century, with white donkeys, coves and the old prison outposts. It's a day trip."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for Sardinia?",
+        "risposta": "A week to do one part of the island well, eight to ten days to combine coast and interior. With less time, choose between north, east and south."
+      },
+      {
+        "domanda": "North or south of Sardinia?",
+        "risposta": "The north-east has La Maddalena and the Costa Smeralda, the priciest. The east, with the Gulf of Orosei and the Supramonte, mixes sea and hiking. The south-west is the least visited and cheapest."
+      },
+      {
+        "domanda": "Do you need a car in Sardinia?",
+        "risposta": "Yes: public transport links the towns but not the beaches and inland villages. In summer, book a hire car early or bring your own by ferry."
+      },
+      {
+        "domanda": "Which beaches have capped numbers?",
+        "risposta": "Among the best known: La Pelosa, Cala Goloritzé, Cala Brandinchi, Lu Impostu and Tuerredda in high season, with booking and often paid parking. The rules change every year: check the municipalities' websites before you go."
+      },
+      {
+        "domanda": "How do you get to Cala Goloritzé?",
+        "risposta": "On foot from the Golgo plateau above Baunei: about an hour and a quarter down and longer back up, with booking. By boat you can get close, but not land on the beach."
+      },
+      {
+        "domanda": "When is the best time for Sardinia?",
+        "risposta": "June and September: warm sea, fewer people and lower prices than July and August. Spring and autumn are right for hiking inland."
+      }
     ],
     esperienzeSlugs: ['gorropu', 'cala-goloritze'],
     tripSlugs: ['sardegna-due-anime'],
@@ -4220,13 +4496,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Piedmontese cuisine is among the richest in Italy: agnolotti del plin, vitello tonnato, raw meat chopped with a knife, bagna càuda (in winter, and eaten in a group), finanziera for the brave. Then there's the sweet and drinking side, which in Turin is identity: the **bicerin** (coffee, chocolate and milk cream, served in layers in the glass), the gianduiotto, grissini, born here, and **vermouth**, invented in Turin in the eighteenth century. The aperitivo with buffet has been done here for two centuries.",
     comeArrivare:
-      "High-speed rail: Torino Porta Nuova and Porta Susa are in the city, with Milan an hour away and Rome four and a half. Caselle airport, connected by train and bus.",
+      "High-speed rail: Torino Porta Nuova and Porta Susa are in the city, an hour from Milan and four and a half from Rome. **Caselle** airport is 16 km out: the Arriva bus reaches Porta Susa and Porta Nuova in 45-50 minutes for €7.50 (€1 more on board), every 15-30 minutes; the Flibco bus runs direct to Porta Nuova in about 30 minutes, from €3.99 online; the SFM A train reaches Torino Dora in about 20 minutes; taxis charge a maximum of about €40 to the centre.",
     comeSpostarsi:
       "On foot under the arcades, which cover the center for kilometers. Automatic metro (one line) and one of the most extensive tram networks in Italy. **Watch out for the central ZTL**, active on weekdays with cameras.",
     periodoMigliore:
       "April-June and September-November. Winter is cold and foggy but the city works very well and the museums are empty; summer is muggy and in August Turin empties. In November there's the Salone del Gusto in even-numbered years and the truffle fair in Alba an hour away.",
     costi:
-      "The Egyptian Museum has a modest ticket for its caliber; the **Torino+Piemonte Card** covers dozens of museums and pays off from two days up. For lodging and restaurants the city costs quite a bit less than Milan.",
+      "The Egyptian Museum has a modest ticket for its caliber; the **Torino+Piemonte Card** covers dozens of museums and pays off from two days up. For lodging and restaurants the city costs quite a bit less than Milan. Rough daily budget per person, sharing a double room: low €60-90, mid €120-170, high over €250.",
     erroriDaEvitare: [
       "Giving the Egyptian Museum one hour: it takes at least three, and it's the most important Egyptian collection in the world after Cairo's",
       "Skipping the hill: Superga and the scenic loop are half the city's character and almost no visitor goes up",
@@ -4244,6 +4520,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Open every day: Monday 9-14, Tuesday-Friday and Sunday 9-18:30, Saturday 9-20; on some days there are special evening openings, on the website. Early morning or Saturday evening to avoid the crowds. The Historic Rooms have been temporarily closed since 12 December 2025: see the notice on the website.",
         "tempo": "3 hours, better 4",
         "costo": "18 euros full price (2026)",
+        "orari": "Monday 9am-2pm; Tuesday-Friday and Sunday 9am-6:30pm; Saturday 9am-8pm. Open every day.",
+        "lat": 45.06833,
+        "lng": 7.68444,
         "url": "https://www.museoegizio.it/",
         "consiglio": "Book the time slot online, especially on weekends and long weekends. Keep the Gallery of the Kings for the end, when your legs are tired."
       },
@@ -4254,6 +4533,9 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "On clear days the lift sells out: book ahead. Check the website for works or reduced opening.",
         "tempo": "2-3 hours with the lift",
         "costo": "museum €18, lift €9, combined €23 (official site, 2026); until 8 December 2026 the museum alone is reduced to €16 for everyone while a new exhibition is set up",
+        "orari": "Museum and lift 9am-7pm, closed Tuesdays. The ticket office closes an hour earlier; the last lift down is ten minutes before closing.",
+        "lat": 45.06898,
+        "lng": 7.69324,
         "url": "https://www.museocinema.it/",
         "consiglio": "The combined ticket pays off if you do everything. On a clear day you can see Monviso behind the Alpine arc."
       },
@@ -4264,27 +4546,44 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Open Thursday to Tuesday, 9-19, closed on Wednesdays. On the first Sunday of the month entry is free with no booking: tickets are only issued at the ticket office on the day.",
         "tempo": "3 hours",
         "costo": "15 euros full price (official site, 2026)",
+        "orari": "Thursday to Tuesday 9am-7pm. Closed Wednesdays.",
+        "lat": 45.0727,
+        "lng": 7.686,
         "url": "https://museireali.cultura.gov.it/",
         "consiglio": "Two hours are enough for the Royal Palace, Armory and chapel: the Galleria Sabauda is for lovers of old paintings."
       },
       {
-        "nome": "Basilica di Superga and the rack tram",
-        "testo": "Juvarra's basilica on the hill east of the Po, with the Savoy tombs in the crypt. At the back is the Grande Torino memorial, where the plane crashed in 1949. From the terrace you see the city and the Alps.",
-        "come": "Historic rack railway from Sassi station, reached by GTT public transport from the centre, with hourly departures. On Wednesdays the railway does not run.",
-        "quando": "Departures from Sassi every hour from 10:00 to 18:00, last ride down from Superga at 18:30; updated times on the GTT website. A clear day, ideally the afternoon for the light on the Alps.",
-        "tempo": "2-3 hours including the ride",
-        "url": "https://www.gtt.to.it/cms/turismo/sassisup",
-        "costo": "rack railway: €4 single and €6 return on weekdays, €6 and €9 on Saturdays and holidays (GTT, 2026)",
-        "consiglio": "A walk along the ridge behind the basilica costs nothing and gives the best view. The return ticket is better value than two singles."
+        "nome": "Palazzo Madama",
+        "testo": "In the middle of Piazza Castello stands a building with two faces: at the back a medieval castle built on a Roman gate, at the front Juvarra's Baroque façade with its grand staircase. It was the seat of the first Senate of the Kingdom of Italy. Today it houses the Civic Museum of Ancient Art, with paintings, sculpture, ceramics and goldwork from the Middle Ages to the 18th century.",
+        "come": "On Piazza Castello, on foot from the centre. Juvarra's staircase can be seen just by stepping into the entrance hall.",
+        "quando": "Morning or early afternoon. It pairs with the Royal Museums, across the square.",
+        "tempo": "1 hour 30 minutes",
+        "costo": "€10 full price, €5 for the garden only (official site, 2026)",
+        "orari": "Monday and Wednesday to Sunday 10am-6pm; closed Tuesdays. The ticket office closes an hour earlier.",
+        "lat": 45.07094,
+        "lng": 7.68578,
+        "url": "https://www.palazzomadamatorino.it/",
+        "consiglio": "Climb the tower when it's open: the view over Piazza Castello and Via Po is among the best in the centre."
       },
       {
-        "nome": "Reggia di Venaria",
-        "testo": "Savoy hunting residence, a UNESCO site, with Juvarra's Galleria Grande, the Chapel of Sant'Uberto and the gardens. The complex is huge and also hosts exhibitions.",
-        "come": "About ten kilometres from Turin, reached by train, bus or car: connections on the official site. Booking a timed entry is recommended.",
-        "quando": "Open Tuesday to Sunday, closed on Mondays; hours for the palace, exhibitions and gardens change through the year. The gardens and park are fine in uncertain weather, but the rooms need a free day.",
-        "tempo": "half a day, a full day with the gardens",
-        "url": "https://www.lavenaria.it/",
-        "consiglio": "It needs a full morning: give it an extra day rather than squeezing it between the Egyptian Museum and the Mole."
+        "nome": "Piazza San Carlo and Via Roma",
+        "testo": "Turin's \"drawing room\": a Baroque square enclosed by arcades, with the twin churches of Santa Cristina and San Carlo on one side and the equestrian statue of Emanuele Filiberto, the \"caval 'd brons\", in the middle. Some of the city's historic cafés are under the arcades. Via Roma links it to Porta Nuova station, with shops under the arches.",
+        "come": "On foot from Porta Nuova along Via Roma, ten minutes, or from Piazza Castello.",
+        "quando": "Morning for a coffee, evening for aperitivo.",
+        "tempo": "30 minutes, longer with a café stop",
+        "costo": "free",
+        "lat": 45.0677,
+        "lng": 7.68257
+      },
+      {
+        "nome": "Turin Cathedral",
+        "testo": "The city's only Renaissance church, from the late 15th century, in white marble, with a brick bell tower beside it. Behind the altar opens Guarini's Chapel of the Holy Shroud, visited from the Royal Museums. The Shroud is kept here in a case and is not on view, except during special exhibitions.",
+        "come": "On Piazza San Giovanni, behind the Royal Palace. Free entry outside services.",
+        "quando": "Morning, together with the Royal Museums and Porta Palatina, five minutes away.",
+        "tempo": "20 minutes",
+        "costo": "free entry",
+        "lat": 45.07339,
+        "lng": 7.68522
       },
       {
         "nome": "Roman Quadrilateral and Porta Palazzo",
@@ -4293,6 +4592,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Market in the morning, Monday to Saturday. In the evening the Quadrilateral is the aperitivo district.",
         "tempo": "2 hours",
         "costo": "free entry",
+        "lat": 45.07559,
+        "lng": 7.683,
         "consiglio": "At the market you can also buy the day's fruit and the spices from the North African stalls. Watch your pockets in the crowd."
       },
       {
@@ -4301,7 +4602,60 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "All in the center, on foot. Caffè Al Bicerin is in Piazza della Consolata, small and with few tables.",
         "quando": "Bicerin in the morning or afternoon, vermouth from 6 pm. At Al Bicerin there is often a queue on weekends.",
         "tempo": "1 hour per stop",
+        "costo": "you pay for what you order",
+        "lat": 45.07624,
+        "lng": 7.67898,
         "consiglio": "The bicerin is not stirred: you drink it in layers, and each sip changes."
+      },
+      {
+        "nome": "Basilica di Superga and the rack tram",
+        "testo": "Juvarra's basilica on the hill east of the Po, with the Savoy tombs in the crypt. At the back is the Grande Torino memorial, where the plane crashed in 1949. From the terrace you see the city and the Alps.",
+        "come": "Historic rack railway from Sassi station, reached by GTT public transport from the centre, with hourly departures. On Wednesdays the railway does not run.",
+        "quando": "Departures from Sassi every hour from 10:00 to 18:00, last ride down from Superga at 18:30; updated times on the GTT website. A clear day, ideally the afternoon for the light on the Alps.",
+        "tempo": "2-3 hours including the ride",
+        "costo": "rack railway: €4 single and €6 return on weekdays, €6 and €9 on Saturdays and holidays (GTT, 2026)",
+        "orari": "Rack railway: departures from Sassi every hour 10am-6pm, last descent from Superga 6:30pm. Not running on Wednesdays.",
+        "lat": 45.08062,
+        "lng": 7.76737,
+        "url": "https://www.gtt.to.it/cms/turismo/sassisup",
+        "consiglio": "A walk along the ridge behind the basilica costs nothing and gives the best view. The return ticket is better value than two singles."
+      },
+      {
+        "nome": "Reggia di Venaria",
+        "testo": "Savoy hunting residence, a UNESCO site, with Juvarra's Galleria Grande, the Chapel of Sant'Uberto and the gardens. The complex is huge and also hosts exhibitions.",
+        "come": "About ten kilometres from Turin, reached by train, bus or car: connections on the official site. Booking a timed entry is recommended.",
+        "quando": "Open Tuesday to Sunday, closed on Mondays; hours for the palace, exhibitions and gardens change through the year. The gardens and park are fine in uncertain weather, but the rooms need a free day.",
+        "tempo": "half a day, a full day with the gardens",
+        "costo": "Palace and Gardens €18 full price, Gardens only €6 (official site, 2026)",
+        "orari": "Closed Mondays except public holidays. Palace: Tuesday-Friday 9:30am-5pm, Saturday, Sunday and holidays 9:30am-6:30pm; Gardens 9:30am-5pm. Last entry an hour before closing (winter hours 2026).",
+        "lat": 45.13528,
+        "lng": 7.62528,
+        "url": "https://www.lavenaria.it/",
+        "consiglio": "It needs a full morning: give it an extra day rather than squeezing it between the Egyptian Museum and the Mole."
+      },
+      {
+        "nome": "National Museum of the Risorgimento and Palazzo Carignano",
+        "testo": "Palazzo Carignano, by Guarini, has an undulating brick façade unlike anything else in the city. Inside is the Risorgimento museum, Italy's largest on the subject, with the chamber of the first Subalpine Parliament preserved as it was. For anyone who wants to understand why Turin was the first capital.",
+        "come": "On Piazza Carignano, next to the Egyptian Museum.",
+        "quando": "Afternoon, after the Egyptian Museum. Closed Mondays.",
+        "tempo": "1 hour 30 minutes",
+        "orari": "Tuesday to Sunday 10am-6pm.",
+        "lat": 45.06901,
+        "lng": 7.68559,
+        "url": "https://www.museorisorgimentotorino.it/",
+        "consiglio": "Even without going into the museum, the façade is best seen from the square."
+      },
+      {
+        "nome": "National Automobile Museum (MAUTO)",
+        "testo": "One of the oldest car museums in the world, in Fiat's home city. It tells the story of the car from steam carriages to Formula 1, with about two hundred original vehicles in a modern layout. It holds the interest of non-enthusiasts too.",
+        "come": "Corso Unità d'Italia 40, along the Po south of the centre. Metro to Lingotto, then about ten minutes on foot.",
+        "quando": "Afternoon or a rainy day. On Mondays it closes at 2pm.",
+        "tempo": "2 hours",
+        "orari": "Monday 10am-2pm; Tuesday to Sunday 10am-7pm. The ticket office closes an hour earlier.",
+        "lat": 45.03185,
+        "lng": 7.67139,
+        "url": "https://www.museoauto.com/",
+        "consiglio": "It pairs with the Lingotto, the former Fiat factory with the test track on its roof, a few minutes away."
       },
       {
         "nome": "Monte dei Cappuccini and Parco del Valentino",
@@ -4309,6 +4663,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from Piazza Vittorio Veneto, with a short climb. The Valentino is to the south, along the Po.",
         "quando": "Clear day, better in the late afternoon. The park is always open.",
         "tempo": "2 hours",
+        "costo": "free",
+        "lat": 45.05958,
+        "lng": 7.69745,
         "consiglio": "Go up in the late afternoon light, then walk down towards the river."
       }
     ],
@@ -4316,28 +4673,28 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: Egyptian Museum, booked, at least 3 hours",
-          "Lunch: agnolotti del plin in a trattoria in the center",
-          "Afternoon: Piazza Castello, Royal Museums and Chapel of the Holy Shroud",
-          "Evening: bicerin or vermouth in Piazza San Carlo, aperitivo in the Quadrilateral"
+          "Morning: Egyptian Museum, booked ahead, at least 3 hours.",
+          "Lunch: agnolotti del plin in a trattoria in the centre.",
+          "Afternoon: Piazza Castello, Royal Museums and the Chapel of the Holy Shroud (not Wednesdays), then the cathedral.",
+          "Evening: bicerin or vermouth on Piazza San Carlo, aperitivo in the Quadrilatero."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Egyptian Museum, Piazza San Carlo, Royal Museums, Roman Quadrilateral and aperitivo",
-          "Day 2 morning: Mole Antonelliana, museum and lift",
-          "Day 2 afternoon: Monte dei Cappuccini and Valentino, or the tram to Superga (not on Wednesday)",
-          "Evening: Piedmontese dinner, tajarin or vitello tonnato"
+          "Day 1: as above.",
+          "Day 2 morning: Porta Palazzo and the Quadrilatero, then the Mole with museum and lift (not Tuesdays).",
+          "Afternoon: rack railway to Superga (not Wednesdays) or Monte dei Cappuccini and the Valentino.",
+          "Evening: Piedmontese dinner, tajarin or vitello tonnato, in San Salvario."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Days 1 and 2: as above",
-          "Day 3: Reggia di Venaria with gardens (not on Monday)",
-          "Afternoon: Porta Palazzo if it is still early morning, otherwise Superga in the last light",
-          "Evening: bagna cauda in winter, otherwise dinner in San Salvario"
+          "Days 1 and 2: as above.",
+          "Day 3 morning: Reggia di Venaria with its gardens (not Mondays).",
+          "Afternoon: Palazzo Madama (not Tuesdays) or the Automobile Museum.",
+          "Evening: bagna càuda in winter, otherwise a vermouth in a historic café."
         ]
       }
     ],
@@ -4345,17 +4702,20 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Historic center, between Piazza Castello and Piazza San Carlo",
         "perChi": "those who want to walk everywhere",
-        "testo": "You walk under the arcades, with museums and cafés a few minutes away. Hotels cost more, evenings are quiet. It is walkable from Porta Nuova station."
+        "testo": "You walk under the arcades, with museums and cafés a few minutes away. Hotels cost more, evenings are quiet. It is walkable from Porta Nuova station.",
+        "fascia": "110-200 €"
       },
       {
         "nome": "San Salvario",
         "perChi": "those looking for lower prices and nightlife",
-        "testo": "The district behind Porta Nuova, with bars and restaurants. Noisier at weekends and late at night, walkable from the centre."
+        "testo": "The district behind Porta Nuova, with bars and restaurants. Noisier at weekends and late at night, walkable from the centre.",
+        "fascia": "70-130 €"
       },
       {
         "nome": "Roman Quadrilateral",
         "perChi": "those looking for atmosphere",
-        "testo": "Ancient alleys, aperitivos and bars. Very lively and noisy in the evening, close to Porta Palazzo."
+        "testo": "Ancient alleys, aperitivos and bars. Very lively and noisy in the evening, close to Porta Palazzo.",
+        "fascia": "90-170 €"
       }
     ],
     sapori: [
@@ -4391,6 +4751,52 @@ export const destinazioniItalia: Destinazione[] = [
       "The Shroud is not on display, except in extraordinary expositions: anyone going to Turin to see it will be disappointed. You visit Guarini's chapel.",
       "At Porta Palazzo and on crowded public transport, watch out for pickpockets.",
       "A tourist tax is charged in Turin: check the amount on the city's website or with the hotel."
+    ],
+    gite: [
+      {
+        "nome": "Sacra di San Michele",
+        "distanza": "about 40 km",
+        "come": "By car towards the Susa Valley, up to the car park below the abbey. By train to Sant'Ambrogio di Torino, then about an hour and a half's climb on foot.",
+        "testo": "The abbey perched on top of Monte Pirchiriano, the symbol of Piedmont, with the Staircase of the Dead cut into the rock and views over the valley and the Alps."
+      },
+      {
+        "nome": "Alba and the Langhe",
+        "distanza": "about 1 hour by car",
+        "come": "By car via the A6 and the Asti-Cuneo motorway; by train changing at Bra, slower. The hills need a car.",
+        "testo": "The UNESCO wine hills: Alba with its medieval towers, Barolo, La Morra with its lookout over the vineyards. In autumn there's the International White Truffle Fair."
+      },
+      {
+        "nome": "Stupinigi Hunting Lodge",
+        "distanza": "about 10 km",
+        "come": "GTT city bus from the centre, or about twenty minutes by car.",
+        "testo": "The Savoy hunting lodge designed by Juvarra, with an elliptical central hall and a bronze stag on the dome. It is one of the UNESCO Savoy residences."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Turin?",
+        "risposta": "Two full days for the Egyptian Museum, the Mole, the Royal Museums and the hill. A third gives time for the Reggia di Venaria or a trip to the Langhe."
+      },
+      {
+        "domanda": "Do you need to book the Egyptian Museum?",
+        "risposta": "Yes, it's best to buy a timed ticket online: the ticket desk only sells what's left, and at weekends places run out."
+      },
+      {
+        "domanda": "Is the Torino+Piemonte Card worth it?",
+        "risposta": "For two days or more with at least three or four museums, usually yes. For a single day with the Egyptian Museum and the Mole, check it against the individual ticket prices."
+      },
+      {
+        "domanda": "Can you see the Shroud in Turin?",
+        "risposta": "No, except during the special exhibitions announced by the diocese. You can visit Guarini's Chapel of the Holy Shroud, inside the Royal Museums."
+      },
+      {
+        "domanda": "Which museums close on which day?",
+        "risposta": "The Royal Museums and the Superga railway on Wednesdays, the Mole and Palazzo Madama on Tuesdays, the Reggia di Venaria on Mondays. The Egyptian Museum is open daily, on Mondays mornings only."
+      },
+      {
+        "domanda": "Turin or the Langhe as a base?",
+        "risposta": "Turin for the city and the museums, without a car. For wine, hills and truffles, better to sleep in Alba or a Langhe village, with a car."
+      }
     ],
     esperienzeSlugs: ['museo-egizio'],
     tripSlugs: ['torino-2-giorni'],
@@ -4429,13 +4835,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Blue fish, not noble fish: here the tradition is that of the fishermen. The **colatura di alici di Cetara**, heir to Roman garum, is used on spaghetti with garlic, oil and parsley and must not be cooked. Then scialatielli with seafood, mozzarella in myrtle leaves and lemons: the Amalfi sfusato is huge and is eaten even in salads. Limoncello is everywhere and almost always industrial: the good one is bought from producers. **On the seafront in Positano and Amalfi you pay for the location**, not the dish.",
     comeArrivare:
-      "From Naples: Circumvesuviana to Sorrento and then bus or ferry; or direct ferry in season. From Salerno: bus or ferry along the whole coast. **Flights arrive at Naples Capodichino.**",
+      "You land at **Naples Capodichino**: the Alibus reaches Molo Beverello, for ferries and hydrofoils, in about 35-45 minutes for €5; the Curreri bus goes direct to Sorrento in 75-90 minutes, about €10, with few runs between 9am and 7:30pm. From Sorrento SITA buses continue along the coast. By train, best to arrive at **Salerno**, on the high-speed line: from there the ferry to Amalfi runs in season, about €9-15 one way. Driving is not recommended.",
     comeSpostarsi:
       "**The ferry beats the car and the bus in every season.** The Amalfi state road is a two-lane road with narrow lanes, hundreds of hairpin turns and no parking: in summer it's a continuous jam, with queues of hours. SITA buses are cheap and scenic but full. **In high season on some stretches there are alternating license plate days**: it's worth finding out beforehand. The scooter is the alternative for those who feel up to it.",
     periodoMigliore:
       "**May-June and September-early October.** July and August are saturated, with the state road blocked and prices at their peak. From November to March the coast empties: beautiful and silent, with many places closed and the sea out of play. April and October are excellent for the trails.",
     costi:
-      "Among the most expensive areas in Italy in high season. The Path of the Gods is free; Villa Cimbrone and Villa Rufolo in Ravello have modest tickets; ferries cost a few euros a ride and are the best investment of the trip.",
+      "Among the most expensive areas in Italy in high season. The Path of the Gods is free; Villa Cimbrone and Villa Rufolo in Ravello have modest tickets; ferries cost a few euros a ride and are the best investment of the trip. Rough daily budget per person in high season, sharing a double room: low €100-140, mid €180-260, high over €400.",
     erroriDaEvitare: [
       "**Coming by car in July or August.** It's the mistake that ruins the most vacations on the Coast: the state road is blocked, parking costs absurd amounts where it exists, and you spend the day in line",
       "Sleeping in Positano or Amalfi without knowing that in Praiano or Minori you spend half with the same coast",
@@ -4453,6 +4859,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Amalfi by ferry or SITA bus along the coast road. Driving is not advisable: parking is scarce and expensive.",
         "quando": "Early morning or after 5 pm, when day-trippers leave. July and August are packed.",
         "tempo": "3-4 hours",
+        "lat": 40.62829,
+        "lng": 14.48427,
         "consiglio": "For swimming, Fornillo beach, west of the Spiaggia Grande, is less crowded and reached on foot along the seaside path."
       },
       {
@@ -4461,16 +4869,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From the ferry pier it is a few minutes on foot. The ticket covers the cloister, the Basilica of the Crucifix and the museum; the cathedral is entered from the stairway.",
         "quando": "Hours and days change with religious services. Best in the morning, before the tour buses.",
         "tempo": "1 hour",
+        "lat": 40.63474,
+        "lng": 14.60305,
         "consiglio": "Climb the steps and turn around: the square seen from above is the best photo in town."
-      },
-      {
-        "nome": "Atrani",
-        "testo": "A village of fewer than a thousand people, right next to Amalfi, squeezed into a gorge with its square opening onto the sea under an arch. White houses, stepped lanes, the church of the Maddalena. Hardly anyone stops.",
-        "come": "On foot from Amalfi along the coast road and then down the steps, or through the underpass near the pier.",
-        "quando": "All day. In the evening, after the day-trippers have left, it is very quiet.",
-        "tempo": "1 hour",
-        "costo": "free",
-        "consiglio": "An aperitivo in the square, with local kids playing football under the arch."
       },
       {
         "nome": "Ravello: Villa Rufolo e Villa Cimbrone",
@@ -4478,7 +4879,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Amalfi by SITA bus, or on foot via the Scala Fenicia (a path with many steps). The two villas are linked on foot through the centre.",
         "quando": "Villa Rufolo is open daily, with longer hours in season. After 5 pm the light on the Belvedere is best. The festival changes closing times.",
         "tempo": "half a day",
-        "url": "https://www.villarufolo.com/",
+        "costo": "Villa Rufolo €8 full price, tickets on site only (official site, 2026); Villa Cimbrone has a separate ticket",
+        "orari": "Villa Rufolo daily 9am-5pm, last entry 4:30pm (hours from 3 November 2026; longer in season).",
+        "lat": 40.64867,
+        "lng": 14.61269,
+        "url": "https://www.fondazioneravello.com/villa-rufolo/",
         "consiglio": "Check prices on the villas' official sites before you go, and see them in this order: Rufolo in the morning, Cimbrone at sunset."
       },
       {
@@ -4487,15 +4892,31 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "SITA bus from Amalfi to Bomerano, then walk to Nocelle. From Nocelle a long staircase goes down to Positano, or you stop and take the bus.",
         "quando": "Spring and autumn. In summer start at dawn: the path has little shade.",
         "tempo": "3-4 hours plus the descent to Positano",
+        "costo": "free",
+        "lat": 40.6297,
+        "lng": 14.53836,
         "consiglio": "Do it from Bomerano to Nocelle, not the other way round: it's all downhill and the sea is in front of you. Hiking shoes and water."
       },
       {
-        "nome": "Valle delle Ferriere",
-        "testo": "A damp gorge above Amalfi where rare ferns survive, relics of colder eras. The trail follows the Canneto stream among the remains of old ironworks and paper mills. It is a nature reserve.",
-        "come": "From Amalfi walk up a trail, or start from Pontone (Scala). The loop needs hiking shoes.",
-        "quando": "All year; cool and shaded in summer. After heavy rain it can be slippery or have closed sections.",
-        "tempo": "3 hours",
-        "consiglio": "A good outing on hot days or when the sea is rough and the coast is not pleasant."
+        "nome": "Atrani",
+        "testo": "A village of fewer than a thousand people, right next to Amalfi, squeezed into a gorge with its square opening onto the sea under an arch. White houses, stepped lanes, the church of the Maddalena. Hardly anyone stops.",
+        "come": "On foot from Amalfi along the coast road and then down the steps, or through the underpass near the pier.",
+        "quando": "All day. In the evening, after the day-trippers have left, it is very quiet.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "lat": 40.6369,
+        "lng": 14.60754,
+        "consiglio": "An aperitivo in the square, with local kids playing football under the arch."
+      },
+      {
+        "nome": "Praiano",
+        "testo": "A long, scattered village on the coast between Positano and Amalfi, quieter and cheaper than both. It has small coves reachable on foot or by boat, such as Marina di Praia, and the church of San Gennaro with its majolica dome. From here the whole coast is visible as far as Positano.",
+        "come": "SITA bus along the coast road from Positano or Amalfi; in season also by ferry. The village is steep and you get around on foot by stairs.",
+        "quando": "Afternoon for a swim in a cove, sunset for the view of Positano.",
+        "tempo": "half a day",
+        "lat": 40.61111,
+        "lng": 14.53333,
+        "consiglio": "For a swim, Marina di Praia: a small beach at the bottom of a gorge, with boats and few beach clubs."
       },
       {
         "nome": "Furore e il Fiordo",
@@ -4503,7 +4924,38 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "SITA bus from Amalfi or Positano to Furore, then a staircase goes down to the Fiordo. By boat from Amalfi with water taxis.",
         "quando": "Calm sea is needed to go down safely; avoid windy days. Late morning for the light on the ravine.",
         "tempo": "1-2 hours",
+        "lat": 40.62139,
+        "lng": 14.54944,
         "consiglio": "Arrive by sea in peak periods, to avoid the stalled road and the staircase in the midday heat."
+      },
+      {
+        "nome": "Emerald Grotto",
+        "testo": "A sea cave at Conca dei Marini, where light enters through an underwater opening and turns the sea green. It's visited in a rowing boat inside, past stalactites and a submerged ceramic nativity scene.",
+        "come": "From the coast road you go down by lift or by stairs; in season there are boats from Amalfi.",
+        "quando": "Only with a calm sea; the green light is strongest around midday.",
+        "tempo": "1 hour",
+        "lat": 40.61492,
+        "lng": 14.56759
+      },
+      {
+        "nome": "Paper Museum, Amalfi",
+        "testo": "A historic paper mill at the end of the Valle dei Mulini, where handmade cotton-rag paper was produced using the stream's water. You see the vats, presses and hammers still in working order, and at the end you try making a sheet.",
+        "come": "On foot from the cathedral, walking up the main street towards the valley for about ten minutes.",
+        "quando": "Any time, even when the sea is rough.",
+        "tempo": "45 minutes",
+        "lat": 40.63972,
+        "lng": 14.59968,
+        "consiglio": "It pairs with the start of the Valle delle Ferriere, which begins just above."
+      },
+      {
+        "nome": "Valle delle Ferriere",
+        "testo": "A damp gorge above Amalfi where rare ferns survive, relics of colder eras. The trail follows the Canneto stream among the remains of old ironworks and paper mills. It is a nature reserve.",
+        "come": "From Amalfi walk up a trail, or start from Pontone (Scala). The loop needs hiking shoes.",
+        "quando": "All year; cool and shaded in summer. After heavy rain it can be slippery or have closed sections.",
+        "tempo": "3 hours",
+        "lat": 40.6495,
+        "lng": 14.5742,
+        "consiglio": "A good outing on hot days or when the sea is rough and the coast is not pleasant."
       },
       {
         "nome": "Cetara",
@@ -4511,36 +4963,48 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "SITA bus from Amalfi or Salerno; ferry in season. You can walk round it in an hour.",
         "quando": "All year. Lunch is the right time, with restaurants full of locals.",
         "tempo": "2 hours",
+        "lat": 40.64756,
+        "lng": 14.70091,
         "consiglio": "Buy the colatura straight from a producer, in a sealed bottle, and take it home."
+      },
+      {
+        "nome": "Vietri sul Mare",
+        "testo": "The first village on the coast coming from Salerno, famous for painted ceramics: workshops, façades and the dome of the church of San Giovanni Battista are covered in majolica. It is smaller and quieter than the others, with a beach at the Marina.",
+        "come": "SITA bus or regional train from Salerno, a few minutes; in season also by ferry.",
+        "quando": "Morning, when the workshops are open.",
+        "tempo": "2 hours",
+        "lat": 40.67222,
+        "lng": 14.72778,
+        "consiglio": "Buy ceramics in workshops where you can see the painting: a bit more expensive, but made on the spot."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Reach Amalfi by ferry from Salerno or Positano, before the tour buses",
-          "Duomo and Chiostro del Paradiso, then a stroll to Atrani",
-          "Lunch in Amalfi away from the seafront",
-          "SITA bus to Ravello in the afternoon, Villa Rufolo and Villa Cimbrone",
-          "Ferry back before evening"
+          "Arrive in Amalfi by ferry from Salerno or Positano, before the coaches.",
+          "Cathedral and Cloister of Paradise, then a walk to Atrani.",
+          "Lunch in Amalfi away from the seafront.",
+          "SITA bus to Ravello in the afternoon, Villa Rufolo and Villa Cimbrone.",
+          "Ferry back before evening."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Sentiero degli Dei from Bomerano to Nocelle, descent to Positano, swim and dinner",
-          "Day 2: ferry Positano-Amalfi, Duomo and Atrani",
-          "Ravello in the afternoon, back by bus or on foot down the Scala Fenicia",
-          "Dinner in Cetara if you sleep near Salerno"
+          "Day 1: Path of the Gods from Bomerano to Nocelle, down to Positano, swim and dinner.",
+          "Day 2: ferry Positano-Amalfi, cathedral, Paper Museum and Atrani.",
+          "Ravello in the afternoon, back by bus or on foot down the steps to Atrani.",
+          "Dinner in Cetara if staying near Salerno."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: Positano and Praiano, swim in a small cove",
-          "Day 2: Sentiero degli Dei and Furore",
-          "Day 3: Amalfi, Valle delle Ferriere in the morning, Ravello at sunset",
-          "Optional: half a day in Cetara and Vietri sul Mare for the ceramics"
+          "Day 1: Positano and Praiano, swim at Marina di Praia.",
+          "Day 2: Path of the Gods, then Furore and the Emerald Grotto if the sea is calm.",
+          "Day 3: Amalfi and the Valle delle Ferriere in the morning, Ravello at sunset.",
+          "Optional: half a day in Cetara and Vietri sul Mare for the ceramics."
         ]
       }
     ],
@@ -4548,12 +5012,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Praiano",
         "perChi": "anyone who wants the coast at half the price",
-        "testo": "Quieter and cheaper than Positano, with coves reachable on foot. The village is long and steep: wear good shoes. You reach the ferries on foot or by bus."
+        "testo": "Quieter and cheaper than Positano, with coves reachable on foot. The village is long and steep: wear good shoes. You reach the ferries on foot or by bus.",
+        "fascia": "150-300 €"
       },
       {
         "nome": "Positano and Amalfi",
         "perChi": "those who want to be in the middle and can spend",
-        "testo": "Convenient for everything, but expensive and very crowded in high season. Staying here also means noise and stairs with luggage."
+        "testo": "Convenient for everything, but expensive and very crowded in high season. Staying here also means noise and stairs with luggage.",
+        "fascia": "250-500 €"
       },
       {
         "nome": "Ravello",
@@ -4596,6 +5062,52 @@ export const destinazioniItalia: Destinazione[] = [
       "Paths like the Sentiero degli Dei need proper shoes and water; the staircase down to Positano is long and steep.",
       "Many towns charge a tourist tax, payable in cash or at your lodging."
     ],
+    gite: [
+      {
+        "nome": "Pompeii",
+        "distanza": "about 40 minutes by train from Salerno",
+        "come": "Regional train from Salerno to Pompei, or the Circumvesuviana from Sorrento to Pompei Scavi.",
+        "testo": "The Roman city buried by Vesuvius in AD 79, with streets, frescoed houses, baths and the forum. It needs a full day, and it's best to go in at opening time."
+      },
+      {
+        "nome": "Paestum",
+        "distanza": "about 40 km from Salerno",
+        "come": "Regional train from Salerno to Paestum station, then a few minutes on foot; by car along the coast.",
+        "testo": "Three Doric temples of Magna Graecia among the best preserved in the world, standing in a meadow, with the museum of the Tomb of the Diver. It pairs with buffalo mozzarella from the dairies on the plain."
+      },
+      {
+        "nome": "Capri",
+        "distanza": "by ferry from Positano or Amalfi, in season",
+        "come": "Direct ferries and hydrofoils in season from Positano and Amalfi; year-round from Sorrento and Naples.",
+        "testo": "The Faraglioni, the Piazzetta, Monte Solaro by chairlift and a boat trip round the island. A day trip covers the essentials, but the island is at its best for those who stay the night."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for the Amalfi Coast?",
+        "risposta": "Three days for Positano, Amalfi, Ravello and the Path of the Gods without rushing. With four or five you can add Capri or Pompeii."
+      },
+      {
+        "domanda": "Do you need a car on the Amalfi Coast?",
+        "risposta": "No, and it's better not to have one: the coast road jams in high season and parking costs as much as a hotel. Ferries and SITA buses cover everything."
+      },
+      {
+        "domanda": "Where to stay on the coast to spend less?",
+        "risposta": "Praiano, Minori or Maiori cost much less than Positano and Amalfi. Salerno is the cheapest base, with the morning ferry to Amalfi."
+      },
+      {
+        "domanda": "Is the Path of the Gods difficult?",
+        "risposta": "From Bomerano to Nocelle it's almost all downhill, about three hours, fine for anyone who walks regularly. You need hiking shoes and water; the final stairway down to Positano is the hardest part."
+      },
+      {
+        "domanda": "Positano or Amalfi as a base?",
+        "risposta": "Amalfi is more central for ferries and buses, handy for Ravello and Atrani. Positano is more scenic but pricier and all stairs."
+      },
+      {
+        "domanda": "Do the ferries run all year?",
+        "risposta": "The coastal routes are mainly seasonal, roughly spring to October, and stop when the sea is rough. Out of season, the SITA buses remain."
+      }
+    ],
     esperienzeSlugs: ['sentiero-degli-dei'],
     tripSlugs: ['costiera-e-isole'],
     imageAlt: "The pastel-colored houses of Positano climbing the hill above the beach with boats pulled up on the sand, Amalfi Coast",
@@ -4633,13 +5145,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Insalata caprese and torta caprese were born on Capri, the latter with almonds and no flour. On Ischia the dish to look for is **coniglio all'ischitana**, a land dish on an island: rabbits were raised in pits dug into the tuff, and island cooking is more peasant than seafaring. On Procida you eat fish and buy the local lemon, huge, used in salads. **On the main squares you pay for the location**: two alleys away you eat better and spend half.",
     comeArrivare:
-      "Ferries and hydrofoils from Naples (Molo Beverello for hydrofoils, Calata Porta di Massa for ferries) and from Sorrento. For Procida and Ischia there are also departures from Pozzuoli, closer and less chaotic.",
+      "You land at **Naples Capodichino**: the Alibus reaches **Molo Beverello**, where hydrofoils leave for Capri, Ischia and Procida, in about 35-45 minutes for €5; the fixed-fare taxi costs about €24 and must be requested before you get in. Ferries leave from **Calata Porta di Massa**, next to Beverello. For Procida and Ischia there are also departures from **Pozzuoli**, closer and less chaotic, and for Capri from **Sorrento**.",
     comeSpostarsi:
       "On Capri **don't bring a car** (in high season it's banned for non-residents) and you get around by funicular, bus and open-top taxis. On Ischia you need buses or a scooter, because the island is large. Procida is done on foot or by bike.",
     periodoMigliore:
       "**May-June and September.** In July and August Capri receives tens of thousands of day visitors and is unlivable. Ischia works in winter too thanks to the hot springs, and is the only one of the three with a long season.",
     costi:
-      "Capri is among the most expensive places in Italy. Ischia has normal prices, Procida low. Ferries cost a few euros; the Blue Grotto requires a ticket plus the little rowboat, with long lines and access suspended when the sea is rough.",
+      "Capri is among the most expensive places in Italy. Ischia has normal prices, Procida low. Ferries cost a few euros; the Blue Grotto requires a ticket plus the little rowboat, with long lines and access suspended when the sea is rough. Rough daily budget per person in high season, sharing a double room: low €80-120 (Procida, Ischia), mid €150-230, high over €400 (Capri).",
     erroriDaEvitare: [
       "**Doing Capri as a day trip in August**: you arrive with thousands of people, you queue for the funicular, you walk single file in the Piazzetta and you leave. Those who sleep there see another island after six in the evening",
       "Going to the Blue Grotto without checking the sea: with swell, access is suspended, and the line can be hours for five minutes inside",
@@ -4716,13 +5228,25 @@ export const destinazioniItalia: Destinazione[] = [
       "The difference among these three islands shows at six in the evening. On Capri, at that hour, the last hydrofoils leave with the day visitors and the Piazzetta, which at noon is a dense crowd where you can't move, empties out. Only the residents and the few who sleep there remain, the light drops over the Faraglioni, and you understand why for two thousand years this was the most desired island in the Mediterranean. Those who do it as a day trip in August see only the worst part and go home saying it's overrated. Ischia works differently, because it's large and has an economy of its own: the hot springs are a geological resource already used by the Greeks, more than a hotel service. At **Sorgeto** you go down a staircase to a bay where boiling water flows from the seabed and mixes with the sea: you dig a hole in the gravel and sit, for free, with the cold sea two meters away. Procida is the smallest and the most honest: there's nothing to tick off, you walk to Marina Corricella, sit down and look at a fishing harbor with houses of every color, where people actually live.",
     luoghi: [
       {
-        "nome": "Grotta Azzurra, Capri",
-        "testo": "A sea cave in Anacapri where light comes in through an underwater opening and turns the water deep blue. You enter only by small rowing boats, lying down, through a low gap.",
-        "come": "From Marina Grande by boat to the entrance, or by bus from Anacapri and then on foot to the boatmen's ticket office. You board the little boat and pay on the spot.",
-        "quando": "Morning and early afternoon, with calm seas. With swell access is suspended, and in winter closures are frequent.",
-        "tempo": "1-2 hours with the queue, 5 minutes inside",
-        "costo": "the rowing boat and the entry are paid on the spot: ask for the total before getting in",
-        "consiglio": "Look at the sea before leaving Marina Grande: if it's rough, ask whether the cave is open before paying for a boat trip."
+        "nome": "Faraglioni and the boat trip round Capri",
+        "testo": "The three limestone stacks off Capri are the island's symbol, and the right way to see them is from the sea, passing under the arch of the middle one. The boat trip takes a couple of hours and also covers the White Grotto, the Green Grotto and the coast below Anacapri, which you can't see from land.",
+        "come": "Shared or private boats from Marina Grande, booked on the pier or the day before. From above, they're seen from the Belvedere di Tragara.",
+        "quando": "Morning with a calm sea, April to October.",
+        "tempo": "2 hours",
+        "lat": 40.54194,
+        "lng": 14.25306,
+        "consiglio": "Agree the total price and what it includes beforehand: the Blue Grotto is always paid separately."
+      },
+      {
+        "nome": "Piazzetta and Gardens of Augustus, Capri",
+        "testo": "The Piazzetta is the heart of Capri town, with its cafés, bell tower and terrace over the bay. Ten minutes' walk away are the Gardens of Augustus, flowered terraces with views of the Faraglioni and of Via Krupp, the hairpin path cut into the rock that runs down to Marina Piccola.",
+        "come": "Funicular from Marina Grande to the Piazzetta, tickets at the station; then on foot along Via Vittorio Emanuele and Via Federico Serena.",
+        "quando": "Early morning or after 5pm, when the day visitors leave.",
+        "tempo": "1-2 hours",
+        "costo": "Piazzetta free, Gardens of Augustus ticketed",
+        "lat": 40.5475,
+        "lng": 14.24333,
+        "consiglio": "Via Krupp is often closed by rockfalls: check locally before planning to walk down to Marina Piccola."
       },
       {
         "nome": "Monte Solaro e Scala Fenicia",
@@ -4730,6 +5254,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Chairlift from the square in Anacapri. To come down on foot you can take the Scala Fenicia, in comfortable shoes.",
         "quando": "Morning, with clear air. The chairlift stops in strong wind.",
         "tempo": "2-3 hours",
+        "lat": 40.54444,
+        "lng": 14.22389,
         "consiglio": "Go up by chairlift and walk back: the descent is long but the last stretch, between the stone walls, is the best."
       },
       {
@@ -4738,7 +5264,30 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from Capri, uphill along via Longano, partly between houses and then between dry-stone walls. No transport.",
         "quando": "Early morning for the cool; opening hours and days should be checked beforehand, they change with the season.",
         "tempo": "2 hours round trip",
+        "lat": 40.55823,
+        "lng": 14.26263,
         "consiglio": "Bring water: there are few places to refresh on the way up."
+      },
+      {
+        "nome": "Grotta Azzurra, Capri",
+        "testo": "A sea cave in Anacapri where light comes in through an underwater opening and turns the water deep blue. You enter only by small rowing boats, lying down, through a low gap.",
+        "come": "From Marina Grande by boat to the entrance, or by bus from Anacapri and then on foot to the boatmen's ticket office. You board the little boat and pay on the spot.",
+        "quando": "Morning and early afternoon, with calm seas. With swell access is suspended, and in winter closures are frequent.",
+        "tempo": "1-2 hours with the queue, 5 minutes inside",
+        "costo": "the rowing boat and the entry are paid on the spot: ask for the total before getting in",
+        "lat": 40.56102,
+        "lng": 14.20542,
+        "consiglio": "Look at the sea before leaving Marina Grande: if it's rough, ask whether the cave is open before paying for a boat trip."
+      },
+      {
+        "nome": "Villa San Michele, Anacapri",
+        "testo": "The house the Swedish doctor Axel Munthe built in the late 19th century on the ruins of a Roman villa, at the top of the Phoenician Steps. It has rooms full of finds, a colonnaded pergola and an Egyptian sphinx looking out over the bay. The garden is one of the island's finest.",
+        "come": "Bus to Anacapri from Capri or Marina Grande, then a few minutes on foot from the square.",
+        "quando": "Morning, before or after the Monte Solaro chairlift.",
+        "tempo": "1 hour",
+        "costo": "ticketed",
+        "lat": 40.55722,
+        "lng": 14.225
       },
       {
         "nome": "Sentiero dei Fortini",
@@ -4747,7 +5296,20 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Spring, autumn and late afternoon in summer. At noon there is no shade.",
         "tempo": "1.5-2 hours",
         "costo": "free",
+        "lat": 40.54988,
+        "lng": 14.20239,
         "consiglio": "End with sunset at Punta Carena: from the lighthouse the sun drops into the sea with no one in front of you."
+      },
+      {
+        "nome": "Procida: Marina Corricella e Terra Murata",
+        "testo": "Corricella is a tiered fishing village with houses of a thousand colors around the little harbor. Above it, Terra Murata is the high, fortified part of the island, with the abbey of San Michele and a viewpoint. Procida is small and can be covered in half a day.",
+        "come": "Ferry or hydrofoil from Naples or Pozzuoli. From the Marina Grande harbour you walk or take the minibus up to Terra Murata.",
+        "quando": "All year. Late afternoon and evening are best, with fishermen at work.",
+        "tempo": "half a day",
+        "costo": "free",
+        "lat": 40.76162,
+        "lng": 14.02905,
+        "consiglio": "Go down to Corricella by the Terra Murata staircase and eat fish at the little harbor under the houses."
       },
       {
         "nome": "Castello Aragonese, Ischia",
@@ -4755,7 +5317,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from Ischia Ponte across the bridge. There is a panoramic lift to go up.",
         "quando": "Open all year with changing hours; the best light is late afternoon.",
         "tempo": "2-3 hours",
-        "url": "https://www.castelloaragonese.it/",
+        "costo": "€15 full price (official site, 2026)",
+        "orari": "Daily from 9am to sunset; the last ticket is sold an hour and a half before closing. Closed for maintenance from early January to early March.",
+        "lat": 40.73162,
+        "lng": 13.96493,
+        "url": "https://www.castelloaragoneseischia.com/",
         "consiglio": "The tour is long and uphill: start early and stop in the gardens halfway."
       },
       {
@@ -4765,7 +5331,20 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Morning or late afternoon. In summer it is crowded; in winter it still works thanks to the hot water.",
         "tempo": "2-3 hours",
         "costo": "free",
+        "lat": 40.70326,
+        "lng": 13.87767,
         "consiglio": "Test the water before sitting: some pools are scalding. Bring water shoes and a towel."
+      },
+      {
+        "nome": "La Mortella Gardens, Ischia",
+        "testo": "The garden created by the composer William Walton and his wife Susana in a hollow of volcanic rock above Forio. It has tropical plants, water lilies, fountains and an upper section with the Temple of the Sun and sea views. It is among the finest gardens in Italy.",
+        "come": "Island bus or taxi to Forio, San Francesco area.",
+        "quando": "Morning, on opening days.",
+        "tempo": "2 hours",
+        "costo": "about €15 (2026)",
+        "orari": "Early April to early November, Tuesdays, Thursdays, Saturdays and Sundays only, 9am-7pm.",
+        "lat": 40.75306,
+        "lng": 13.8725
       },
       {
         "nome": "Monte Epomeo",
@@ -4774,41 +5353,35 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Clear morning; avoid windy days or after rain because of slippery tuff.",
         "tempo": "3 hours up and down",
         "costo": "free",
+        "lat": 40.73013,
+        "lng": 13.89514,
         "consiglio": "Eat something at one of the rock restaurants below the summit, in the island's farmhouse cooking."
-      },
-      {
-        "nome": "Procida: Marina Corricella e Terra Murata",
-        "testo": "Corricella is a tiered fishing village with houses of a thousand colors around the little harbor. Above it, Terra Murata is the high, fortified part of the island, with the abbey of San Michele and a viewpoint. Procida is small and can be covered in half a day.",
-        "come": "Ferry or hydrofoil from Naples or Pozzuoli. From the Marina Grande harbour you walk or take the minibus up to Terra Murata.",
-        "quando": "All year. Late afternoon and evening are best, with fishermen at work.",
-        "tempo": "half a day",
-        "consiglio": "Go down to Corricella by the Terra Murata staircase and eat fish at the little harbor under the houses."
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: hydrofoil from Naples or Pozzuoli to Procida",
-          "Terra Murata and Marina Corricella on foot",
-          "Fish lunch at the little harbor",
-          "Walk toward Chiaiolella and head back in the afternoon"
+          "First hydrofoil from Naples or Sorrento to Capri.",
+          "Boat trip round the island from Marina Grande, with the Faraglioni.",
+          "Bus to Anacapri: Monte Solaro chairlift and Villa San Michele.",
+          "Late afternoon: Piazzetta and Gardens of Augustus, then the last hydrofoil."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Capri, Anacapri, Monte Solaro chairlift and descent by the Scala Fenicia",
-          "Overnight in Capri or Anacapri to see the island after 6 pm",
-          "Day 2: boat tour of Capri with the Faraglioni, Grotta Azzurra if the sea is calm, back in the evening"
+          "Day 1: Capri as above, staying overnight to see the Piazzetta in the evening.",
+          "Day 2 morning: Villa Jovis on foot, then the Fortini path or the Blue Grotto if the sea is calm.",
+          "Afternoon: ferry to Ischia or back to Naples."
         ]
       },
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: Procida in half a day, then ferry to Ischia",
-          "Day 2: Castello Aragonese in the morning, Sorgeto in the afternoon",
-          "Day 3: Monte Epomeo in the morning and a thermal park, or a boat trip around the island"
+          "Day 1: Capri, with the boat trip and Anacapri.",
+          "Day 2: Ischia, Aragonese Castle in the morning, La Mortella Gardens or a thermal park, Sorgeto at sunset.",
+          "Day 3: ferry to Procida, Marina Corricella and Terra Murata on foot, back to Naples or Pozzuoli."
         ]
       }
     ],
@@ -4816,12 +5389,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Anacapri (Capri)",
         "perChi": "those who want Capri without Piazzetta prices",
-        "testo": "Costs less than Capri town, is quieter in the evening and has Monte Solaro. A bus goes down to Marina Grande and Capri; late in the evening connections are sparse."
+        "testo": "Costs less than Capri town, is quieter in the evening and has Monte Solaro. A bus goes down to Marina Grande and Capri; late in the evening connections are sparse.",
+        "fascia": "110-250 €"
       },
       {
         "nome": "Forio and Sant'Angelo (Ischia)",
         "perChi": "thermal baths, sunsets and sea",
-        "testo": "Forio, on the west coast, has the sunsets and the evening life. Sant'Angelo, in the south, is a pedestrian village with few cars and coves. Sleeping here means being far from the main port."
+        "testo": "Forio, on the west coast, has the sunsets and the evening life. Sant'Angelo, in the south, is a pedestrian village with few cars and coves. Sleeping here means being far from the main port.",
+        "fascia": "90-230 €"
       },
       {
         "nome": "Marina Corricella (Procida)",
@@ -4864,6 +5439,52 @@ export const destinazioniItalia: Destinazione[] = [
       "Ferry strikes and rough seas cancel runs: don't book a flight or train for the same evening you return from the islands.",
       "At Sorgeto the water in some pools is very hot: test it before sitting, especially with children."
     ],
+    gite: [
+      {
+        "nome": "Naples",
+        "distanza": "under an hour by hydrofoil",
+        "come": "Hydrofoils to Molo Beverello from Capri, Ischia and Procida; from Procida and Ischia also ferries to Pozzuoli.",
+        "testo": "The old town with Spaccanapoli, the Veiled Christ, the Archaeological Museum and pizza. From Beverello you can walk to Piazza del Plebiscito."
+      },
+      {
+        "nome": "Pompeii",
+        "distanza": "about 30 minutes by train from Sorrento",
+        "come": "Hydrofoil to Sorrento, then the Circumvesuviana to Pompei Scavi.",
+        "testo": "The Roman city buried by Vesuvius in AD 79. From an island it makes a long day: take the first hydrofoil."
+      },
+      {
+        "nome": "Positano and Amalfi",
+        "distanza": "by ferry from Capri, in season",
+        "come": "Direct ferries and hydrofoils from Capri to Positano and Amalfi, spring to October.",
+        "testo": "The Amalfi Coast seen from the sea, with tiered Positano and Amalfi cathedral. You return on the last afternoon boat."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Capri as a day trip, or is it worth staying overnight?",
+        "risposta": "A day trip covers the essentials, but between 11am and 5pm the island is packed. With one night you see the Piazzetta empty in the evening and the paths early in the morning."
+      },
+      {
+        "domanda": "Capri, Ischia or Procida: which to choose?",
+        "risposta": "Capri for scenery and the sea from the boat trip, Ischia for thermal baths and gardens, Procida for a quiet fishing village. With three days you can do all three."
+      },
+      {
+        "domanda": "Is the Blue Grotto always open?",
+        "risposta": "No: when the sea is rough, access is suspended, and in winter that happens often. Boat and entry are paid on the spot; ask for the total first."
+      },
+      {
+        "domanda": "Can you take a car to the islands?",
+        "risposta": "On Capri in high season non-residents can't bring a car. On Ischia it's possible, but buses and scooters are enough; Procida is done on foot or by bike."
+      },
+      {
+        "domanda": "How do you get between the islands?",
+        "risposta": "Ischia and Procida are linked by frequent ferries in a few minutes. Direct Capri-Ischia sailings run mainly in season; otherwise you go via Naples."
+      },
+      {
+        "domanda": "How many days do you need for the Bay of Naples islands?",
+        "risposta": "One per island, preferably two for Ischia, which is big. Four or five days are enough to see all three at an easy pace."
+      }
+    ],
     esperienzeSlugs: ['sorgeto-ischia'],
     tripSlugs: ['costiera-e-isole'],
     imageAlt: "The coast of Capri seen from above with the Faraglioni and boats moored in the bay",
@@ -4902,13 +5523,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Aeolian cuisine is humble and from the sea: **pasta alla eoliana** with capers, olives and cherry tomatoes, blue fish, squid, and **pane cunzato**, a slice of bread with tomato, anchovies, capers, oregano and cheese, born as the farmers' meal. **Salina capers** are a Slow Food presidium and are different from all others. To drink, the sweet **Malvasia delle Lipari**, drunk at the end of the meal.",
     comeArrivare:
-      "Hydrofoils and ferries from **Milazzo** (the main connection, about an hour to Lipari), Messina, Palermo and in season from Naples. **In rough seas runs get canceled**, and it's the variable that conditions everything: being stuck an extra day is the rule.",
+      "Hydrofoils and ferries from **Milazzo** (the main connection, about an hour to Lipari), Messina, Palermo and in season from Naples. **In rough seas runs get canceled**, and it's the variable that conditions everything: being stuck an extra day is the rule. From **Catania** airport the direct bus to Milazzo harbour takes about 2 hours and costs about €13, with few runs a day to book in high season; from Palermo it's about 2 hours 30 minutes by car.",
     comeSpostarsi:
       "Inter-island ferries and hydrofoils, frequent in high season and sparse in low. On the islands: scooters on Lipari and Salina, nothing on Panarea (only electric carts), **nothing on Filicudi and Alicudi**, where you get around on foot and mules still carry the goods.",
     periodoMigliore:
       "**June and September.** July and August are saturated: these are small islands, and with the August load they stop working the way they do the rest of the year. From November to March many places close and connections shrink to a minimum.",
     costi:
-      "Ferries weigh more than you'd think, especially when doing several islands. Panarea has prices from another category; Filicudi and Alicudi are very cheap. The guided climb of Stromboli has a fixed cost and is mandatory beyond a certain altitude.",
+      "Ferries weigh more than you'd think, especially when doing several islands. Panarea has prices from another category; Filicudi and Alicudi are very cheap. The guided climb of Stromboli has a fixed cost and is mandatory beyond a certain altitude. Rough daily budget per person in high season, sharing a double room: low €70-100, mid €130-200, high over €350.",
     erroriDaEvitare: [
       "**Planning tight connections**: in rough seas runs get canceled and you're stuck. Don't book a flight for the same evening you return from the islands",
       "Doing only Lipari and Vulcano because they're the most convenient: Salina, Filicudi and Alicudi are the reason to come this far",
@@ -4977,6 +5598,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil or ferry from Lipari, Milazzo or the other islands. To see it from the sea take an evening boat excursion, or sleep on a sailboat in front of the Sciara with the engine off.",
         "quando": "In the evening and at night, with a calm sea. Boat excursions leave in late afternoon and return after dark.",
         "tempo": "one evening, better a night",
+        "lat": 38.79939,
+        "lng": 15.20613,
         "consiglio": "Turn off the engine and keep quiet: the sound arrives a moment after the light. Bring a sweater; the sea is cold at night."
       },
       {
@@ -4985,6 +5608,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Trails start from the village of Stromboli. Authorized guides run sunset climbs and return in the dark, with helmet and torch.",
         "quando": "Climb in late afternoon to see the explosions in the dark. Book ahead in high season and check the current rules.",
         "tempo": "5-6 hours",
+        "costo": "excursions with licensed guides from about €30 per person (2026)",
+        "lat": 38.80303,
+        "lng": 15.23812,
         "consiglio": "Check the current rule with the Comune di Lipari or local guides: don't build the trip around a climb that may be banned."
       },
       {
@@ -4993,6 +5619,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Lipari, a short crossing. The trail starts on foot from the harbour. The mud pool is near the harbour, but it has been closed to the public since 2020 pending safety works: check whether it has reopened.",
         "quando": "Early morning for heat and sun. Access to the crater has been regulated or closed several times due to fumarole activity: check beforehand.",
         "tempo": "half a day for the crater, 1 hour for the mud",
+        "lat": 38.40202,
+        "lng": 14.96196,
         "consiglio": "The mud stains and the smell stays on you: old swimsuit and no silver jewelry. Breathe little near the fumaroles."
       },
       {
@@ -5001,6 +5629,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "You land at Marina Corta and walk up to the Castello. For the pumice quarries, bus or scooter toward Canneto and Acquacalda.",
         "quando": "Morning for the museum, afternoon for the sea. The museum has a closing day: check beforehand.",
         "tempo": "half a day",
+        "costo": "Aeolian Archaeological Museum about €7 full price (2026)",
+        "lat": 38.46692,
+        "lng": 14.95715,
         "consiglio": "Go up to the Quattrocchi viewpoint, on the south side, at sunset: you see Vulcano against the sun."
       },
       {
@@ -5009,6 +5640,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Lipari to Rinella or Santa Marina. Around the island by bus or scooter. Pollara is on the west side.",
         "quando": "Spring and early summer for the green; sunset at Pollara. Access to Pollara beach is often limited because of rockfall risk: check.",
         "tempo": "1 day",
+        "lat": 38.57708,
+        "lng": 14.80949,
         "consiglio": "Taste the Malvasia in one of the wineries and buy capers directly from producers."
       },
       {
@@ -5017,7 +5650,39 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Lipari or Stromboli. From the harbour walk south to Capo Milazzese; luggage travels on electric carts.",
         "quando": "June and September. In summer the evenings are full of yachts and prices rise.",
         "tempo": "half a day",
+        "costo": "free",
+        "lat": 38.62392,
+        "lng": 15.06224,
         "consiglio": "A boat trip round the islets is the right way to see Panarea's sea, but haggle the price."
+      },
+      {
+        "nome": "Quattrocchi lookout, Lipari",
+        "testo": "The archipelago's most famous viewpoint, on the road round Lipari to the west. Below are the sea stacks of Pietralunga and Pietramenalda, in front lies Vulcano with its crater and, on clear days, the other islands in a row.",
+        "come": "By scooter, car or the round-the-island bus from Lipari town, about ten minutes.",
+        "quando": "Sunset.",
+        "tempo": "30 minutes",
+        "costo": "free",
+        "lat": 38.46501,
+        "lng": 14.93008
+      },
+      {
+        "nome": "Black Sands Beach, Vulcano",
+        "testo": "A long beach of black volcanic sand in the Ponente bay, on the other side of the port from the mud pools. It's the archipelago's only real sand beach, and at sunset it faces the sun going down behind Filicudi and Alicudi.",
+        "come": "On foot from Porto di Levante, about ten minutes.",
+        "quando": "Afternoon and sunset; in summer the black sand burns at midday.",
+        "tempo": "half a day",
+        "costo": "free beach, with paid beach clubs",
+        "lat": 38.41951,
+        "lng": 14.95651
+      },
+      {
+        "nome": "Lingua, Salina",
+        "testo": "A fishing hamlet on the south-east tip of Salina, with a lighthouse and a salt lagoon where salt was once harvested. On the seafront people eat granita and pane cunzato looking across to Lipari and Vulcano.",
+        "come": "On foot or by bus from Santa Marina Salina, about 3 km along the coast.",
+        "quando": "Afternoon for granita, evening for dinner.",
+        "tempo": "2 hours",
+        "lat": 38.53942,
+        "lng": 14.8677
       },
       {
         "nome": "Filicudi: Grotta del Bue Marino e Capo Graziano",
@@ -5025,6 +5690,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Lipari or Salina. On the island you walk; boat taxis tour the caves.",
         "quando": "June and September; rough seas prevent entry to the caves.",
         "tempo": "1 day",
+        "lat": 38.55691,
+        "lng": 14.58835,
         "consiglio": "Sleep there at least one night: in the evening, when the hydrofoils leave, the island is nearly empty."
       },
       {
@@ -5033,7 +5700,28 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Lipari or Filicudi. From the port you climb on foot, with no vehicles.",
         "quando": "Spring and early autumn. In summer the climb is hard in the heat.",
         "tempo": "1 day or one night",
+        "lat": 38.5425,
+        "lng": 14.3525,
         "consiglio": "Pack light: luggage goes up on shoulders or by mule. Book lodging well in advance."
+      },
+      {
+        "nome": "Ginostra, Stromboli",
+        "testo": "Stromboli's second village, on the south-west side, with a few dozen inhabitants, no roads and a tiny harbour. It can only be reached by sea; white houses climb among prickly pears and capers, and the silence is total.",
+        "come": "Scheduled hydrofoils that call at Ginostra, or boats from Stromboli village; in rough seas landing is cancelled.",
+        "quando": "June and September, with a calm sea.",
+        "tempo": "half a day",
+        "lat": 38.78626,
+        "lng": 15.19293
+      },
+      {
+        "nome": "Valle Muria beach, Lipari",
+        "testo": "A cove of dark pebbles below red and grey cliffs on the west side of Lipari, facing the sea stacks. It's one of the island's most beautiful beaches and stays quiet because the way down is long.",
+        "come": "On foot down a steep path from the Pianoconte road, or by boat from Lipari.",
+        "quando": "Afternoon, when the sun lights up the bay.",
+        "tempo": "half a day",
+        "lat": 38.45825,
+        "lng": 14.93566,
+        "consiglio": "Closed shoes for the descent and water: there isn't always a kiosk on the beach."
       }
     ],
     programmi: [
@@ -5070,17 +5758,20 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lipari",
         "perChi": "anyone wanting the most convenient base",
-        "testo": "Connections to all the islands, plenty of lodging and restaurants. It is the busiest in summer, but it is the point from which everything is reachable in a day."
+        "testo": "Connections to all the islands, plenty of lodging and restaurants. It is the busiest in summer, but it is the point from which everything is reachable in a day.",
+        "fascia": "80-180 €"
       },
       {
         "nome": "Salina",
         "perChi": "calm and quality",
-        "testo": "Greener and quieter, with villages such as Malfa, Santa Marina and Rinella. Less connected, you use a scooter. Dinner with Malvasia is the reason to stay."
+        "testo": "Greener and quieter, with villages such as Malfa, Santa Marina and Rinella. Less connected, you use a scooter. Dinner with Malvasia is the reason to stay.",
+        "fascia": "120-250 €"
       },
       {
         "nome": "Stromboli",
         "perChi": "those who want the volcano",
-        "testo": "Low black houses, dark sand beaches, the volcano's noise at night. Small, with few beds and high prices; the climb and the excursions start here."
+        "testo": "Low black houses, dark sand beaches, the volcano's noise at night. Small, with few beds and high prices; the climb and the excursions start here.",
+        "fascia": "90-200 €"
       },
       {
         "nome": "Panarea",
@@ -5117,6 +5808,52 @@ export const destinazioniItalia: Destinazione[] = [
       "Water is scarce and arrives by tanker ship: use it sparingly.",
       "On Vulcano, fumaroles and gas are concentrated near the crater and the mud: stay in marked areas and move away if the air gets heavy.",
       "Boat tours and water taxis: agree on price and duration before boarding."
+    ],
+    gite: [
+      {
+        "nome": "Panarea and Stromboli mini-cruise",
+        "distanza": "an afternoon and evening by boat from Lipari",
+        "come": "Tour boats from Lipari harbour, stopping at Panarea and Stromboli and returning at night after the Sciara del Fuoco.",
+        "testo": "The easiest way to see the eruptions without sleeping on Stromboli: you arrive below the Sciara after dark and watch the explosions from the boat."
+      },
+      {
+        "nome": "Capo Milazzo",
+        "distanza": "a few kilometres from Milazzo harbour",
+        "come": "By car or bus from the harbour, then on foot to the Piscina di Venere.",
+        "testo": "Milazzo's protected peninsula, with the path down to the Piscina di Venere, a natural pool among the rocks, and the castle above the town. Handy while waiting for the hydrofoil or arriving the night before."
+      },
+      {
+        "nome": "Tindari",
+        "distanza": "about 40 km from Milazzo",
+        "come": "By car along the Tyrrhenian coast towards Patti.",
+        "testo": "The sanctuary of the Black Madonna on the headland, the ruins of the Greek and Roman city with its theatre, and below them the Marinello lagoons, sand spits that change shape with the storms."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for the Aeolian Islands?",
+        "risposta": "With four days you can do Lipari, Vulcano, Salina and an evening at Stromboli. With a week you add Panarea, Filicudi and Alicudi, keeping a spare day for the sea."
+      },
+      {
+        "domanda": "Which island to choose as a base?",
+        "risposta": "Lipari, for connections to all the others and the choice of lodgings. Salina for calm and food, Stromboli for those who want the volcano at night."
+      },
+      {
+        "domanda": "Can you climb to the crater of Stromboli?",
+        "risposta": "Only with licensed guides and up to the altitude set by the order in force, which changes with the volcano's activity. Without a guide you can walk up to the Punta Labronzo Observatory."
+      },
+      {
+        "domanda": "How do you reach the Aeolian Islands from the airport?",
+        "risposta": "From Catania the direct bus to Milazzo harbour takes about 2 hours, about €13, then the hydrofoil to Lipari about an hour. Avoid booking a flight that lands after the last useful bus."
+      },
+      {
+        "domanda": "When is the best time for the Aeolian Islands?",
+        "risposta": "June and September: warm sea, frequent hydrofoils and lower prices than August. In winter there are few sailings and many places close."
+      },
+      {
+        "domanda": "Do you need transport on the islands?",
+        "risposta": "On Lipari and Salina a hired scooter is handy; on Panarea and Stromboli your feet and electric carts are enough. On Filicudi and Alicudi there are no roads for cars."
+      }
     ],
     esperienzeSlugs: ['stromboli-notte', 'eolie-in-vela'],
     tripSlugs: ['eolie-in-vela'],

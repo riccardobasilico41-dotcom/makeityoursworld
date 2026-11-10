@@ -9,6 +9,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città', 'storia moghul', 'arrivo'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "En India llegamos a Delhi a finales de febrero y desde aquí, por la tarde, cogimos el tren nocturno a Varanasi, en litera de segunda clase. Al final las literas no estaban tan mal como pensábamos, aunque no son lo mejor: los baños aparte, ya me entendéis. Y durante todo el viaje, de día, siempre comimos en la calle: con un poco de cuidado con la higiene te puedes lanzar, y aunque parezca raro, nunca tuvimos problemas de estómago.",
     introduzione:
       'La capital son dos ciudades en una: la Vieja Delhi mogol de Shah Jahan, con la Jama Masjid, el Fuerte Rojo y los callejones de Chandni Chowk, y la Nueva Delhi británica de las grandes avenidas, los jardines y los mausoleos.',
     percheAndarci:
@@ -344,6 +346,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['storia moghul', 'patrimonio UNESCO'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "El Taj Mahal lo vimos dos veces: al atardecer el primer día y al amanecer del día siguiente. En los controles hay colas, así que llevad lo mínimo imprescindible y, si podéis, nada de mochilas. Y acordaos de que los viernes está cerrado.",
     introduzione:
       'La ciudad del Taj Mahal, el mausoleo de mármol blanco que Shah Jahan hizo construir para su esposa Mumtaz Mahal, y del Fuerte de Agra, la ciudadela mogol de arenisca roja junto al río Yamuna.',
     percheAndarci:
@@ -638,6 +642,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città', 'forti e palazzi', 'bazar'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "En Jaipur dormimos en el Jaipur Heritage Palace, brutal: cuesta poco, tiene un servicio súper atento y el desayuno, en su establecimiento gemelo, es exagerado. Las cenas fueron cenas de maharajá: en el Jamavar del The Leela Palace, caro y con depósito al reservar, pero lo vale todo, y en el 1135 AD dentro del Fuerte de Amber, muy bueno y en un sitio súper sugerente. Allí al final nos invitaron a ver la sala privada de los maharajás, en el último piso.",
     introduzione:
       'La capital de Rajastán, la «ciudad rosa» fundada en el siglo XVIII por el marajá Jai Singh II con un plano en cuadrícula, murallas color terracota, bazares y algunos de los palacios más fotografiados de la India.',
     percheAndarci:
@@ -948,6 +954,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ["parque nacional", "safari", "tigres"],
     giorniConsigliati: "2 noches, al menos dos safaris",
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Reservamos tarde y nos tocó el canter, no el jeep pequeño, pero tuvimos suerte igualmente: en un solo safari de la mañana vimos tres tigres, y también dos ositos que corrían. Las zonas del parque se asignan al azar el mismo día, así que conviene hacer al menos dos safaris.",
     introduzione:
       "Uno de los parques de tigres más famosos de la India, entre Agra y Jaipur: bosque seco, lagos y ruinas, con un fuerte medieval sobre un peñasco dentro del parque. Solo se visita con los safaris oficiales, en jeep o en camión descubierto.",
     percheAndarci:
@@ -1045,6 +1053,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città santa', 'lago', 'atmosfera'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Pasamos por aquí a finales de febrero, en el tramo en coche con el conductor entre Jaipur y Jodhpur: una noche junto al lago y una vuelta al amanecer a la mañana siguiente, antes de seguir.",
     introduzione:
       'Una pequeña ciudad santa alrededor de un lago con unos cincuenta ghats, donde se encuentra uno de los poquísimos templos dedicados a Brahma en la India. Vegetariana por tradición: nada de carne, nada de huevos y nada de alcohol.',
     percheAndarci:
@@ -1249,6 +1259,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città', 'forti e palazzi'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Jodhpur la hicimos a finales de febrero, en dos pasadas: a la ida para el fuerte de Mehrangarh y la ciudad azul, y luego otra noche a la vuelta de Jaisalmer.",
     introduzione:
       'La ciudad azul, en el borde del desierto del Thar, dominada por el Fuerte de Mehrangarh sobre un espolón de roca que se alza unos 120 metros sobre la llanura.',
     percheAndarci:
@@ -1525,6 +1537,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['deserto', 'forti e palazzi'],
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Llegamos a finales de febrero desde Jodhpur, con el conductor: una noche en un campamento de tiendas entre las dunas del Thar y al día siguiente la ciudad dorada.",
     introduzione:
       'La ciudad dorada, construida en arenisca amarilla en el desierto del Thar, no lejos de la frontera con Pakistán, con uno de los pocos fuertes todavía habitados del mundo.',
     percheAndarci:
@@ -1798,6 +1812,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città', 'laghi', 'palazzi'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Udaipur fue la última parada del viaje, a finales de febrero: llegamos pasando por el templo de Ranakpur y nos quedamos dos noches. Hasta aquí nos trajo el conductor que teníamos desde Agra, y era un chiflado: no lo recomiendo, elegid el vuestro con cuidado.",
     introduzione:
       'La ciudad de los lagos, en las colinas de los Aravalli, con el City Palace a orillas del lago Pichola y los palacios blancos en las islas.',
     percheAndarci:
@@ -2073,6 +2089,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città santa', 'fiume', 'spiritualità'],
     giorniConsigliati: '3 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Varanasi fue la primera parada de verdad de nuestro viaje, a finales de febrero: llegamos en el tren nocturno desde Delhi y nos quedamos tres días junto al Ganges. Nos fuimos con otra noche en litera, esta vez en tercera clase, hasta Agra: entre segunda y tercera no hay muchísima diferencia.",
     introduzione:
       'La ciudad santa del hinduismo en la orilla occidental del Ganges, con 84 ghats, las escalinatas donde se reza, uno se baña y se incineran los muertos. A media hora está Sarnath, donde Buda pronunció el primer sermón.',
     percheAndarci:
@@ -2388,6 +2406,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'de paso',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "En el viaje por el sur de la India, Chennai fue para mí solo la puerta de entrada: llegué en avión desde Delhi, después del Taj Mahal al amanecer, y seguí por la East Coast Road hacia Mamallapuram.",
     introduzione:
       'La capital de Tamil Nadu, antigua Madrás, puerta de entrada aérea al sureste de la India. Una ciudad grande y calurosa, con el paseo marítimo de Marina Beach y el barrio de Mylapore alrededor del templo de Kapaleeshwarar.',
     percheAndarci: "Sobre todo como punto de llegada: Mamallapuram está a unos 60 kilómetros por carretera. Con medio día se ven Mylapore y el Government Museum con sus bronces del sur.",
@@ -2507,6 +2527,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve aquí en el viaje por el sur de la India, como primera parada después de llegar a Chennai: el templo de la orilla y los Cinco Rathas, antes de seguir hacia Puducherry.",
     introduzione: "El antiguo puerto de los reyes Pallava en la costa de Coromandel, donde entre los siglos VII y VIII se tallaron algunos de los primeros templos de piedra del sur: templos excavados en la roca, bajorrelieves y el templo junto al mar.",
     percheAndarci:
       'Para ver en un pueblo pequeño y tranquilo el comienzo de todo lo que se verá en Thanjavur y Madurai, y para recuperarse del vuelo antes de salir hacia el sur.',
@@ -2635,6 +2657,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città', 'templi'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve aquí en el viaje por el sur de la India, llegando desde Thanjavur: una noche cerca del templo de Meenakshi y el mercado de flores a la mañana siguiente, antes de subir a Munnar.",
     introduzione:
       'Una de las ciudades habitadas más antiguas del sur, crecida en círculos concéntricos alrededor del templo de Meenakshi Amman, con sus catorce torres cubiertas de divinidades pintadas.',
     percheAndarci:
@@ -2647,10 +2671,12 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Asistir a la ceremonia de la noche en el templo', 'Beber un jigarthanda', 'Hacerse coser un vestido en el día en los sastres cerca del templo'],
     doveDormire: 'Hoteles de ciudad cerca del templo; hoteles heritage en las colinas de los alrededores.',
     doveMangiare: 'Parotta con curry de cordero, cocina del Chettinad, idli y dosa por la mañana, jigarthanda.',
-    comeArrivare: "Desde Thanjavur en coche o en tren; el aeropuerto de Madurai tiene vuelos nacionales.",
+    comeArrivare:
+      "El aeropuerto de Madurai, con vuelos desde Chennai, Bangalore, Bombay y Delhi, está a unos 12 km del templo: 30-40 minutos en taxi. La estación de Madurai Junction está a 1 km del Meenakshi, con trenes desde Chennai en unas 6-8 horas según el tren. Desde Thanjavur hay unas 3 horas en coche, desde Munnar 5-6 horas por carretera de montaña.",
     comeSpostarsi: 'A pie alrededor del templo, tuk-tuk para el resto.',
     periodoMigliore: 'diciembre-febrero; desde marzo hace mucho calor.',
-    costi: "Meenakshi entrada libre (los santuarios principales están reservados a los hindúes); consigna de teléfonos con una pequeña tarifa.",
+    costi:
+      "Meenakshi entrada libre, sala de las mil columnas con una pequeña entrada, consigna de teléfonos 5 rupias; palacio Thirumalai Nayak con entrada modesta. Presupuesto diario por persona en doble: 25-40 € con hotel sencillo cerca del templo y comidas en hoja de banano, 60-90 € en hotel de gama media con tuk-tuk, desde 150 € en hoteles heritage en las colinas.",
     erroriDaEvitare: [
       "Ignorar las normas sobre los teléfonos: en el Meenakshi están prohibidas las fotos y los vídeos y el teléfono se deja en la consigna o se lleva apagado, según las indicaciones del momento",
       "Ir al templo sin mirar los horarios: suele cerrar unas horas a mediodía",
@@ -2663,7 +2689,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Normalmente abierto desde las 5 de la mañana hasta mediodía y de 16 a 21.30 (Incredible India, 2026); los horarios cambian en las fiestas. Cada noche una procesión lleva en palanquín las huellas de Shiva a la cámara de Meenakshi.",
         tempo: "2-3 horas",
         costo: "entrada libre; pequeña tarifa por la consigna de teléfonos",
-        consiglio: "Volver dos veces: por la mañana para la arquitectura y por la noche para las ceremonias."
+        orari: "Suele abrir de 5 a mediodía (hacia las 12.30) y de 16 a 21.30; horario distinto en los días de fiesta.",
+        lat: 9.91954,
+        lng: 78.11883,
+        consiglio: "Volver dos veces: por la mañana para la arquitectura y por la noche para las ceremonias.",
       },
       {
         nome: "Palacio de Thirumalai Nayak",
@@ -2671,7 +2700,11 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A unos 2 kilómetros al sureste del templo, a pie o en tuk-tuk.",
         quando: "Mañana o última hora de la tarde. Por la noche hay un espectáculo de luz y sonido, en tamil y en inglés, sobre la historia del Silappathikaram.",
         tempo: "1 hora",
-        consiglio: "Encaja bien por la mañana, antes de volver al templo por la noche."
+        costo: "entrada modesta, con suplemento por la cámara: precio en la taquilla",
+        orari: "Suele abrir de 9 a 17 con una breve pausa hacia las 13; espectáculo de luz y sonido por la noche, en inglés hacia las 18.45.",
+        lat: 9.9148,
+        lng: 78.1243,
+        consiglio: "Encaja bien por la mañana, antes de volver al templo por la noche.",
       },
       {
         nome: "El mercado de flores de Mattuthavani",
@@ -2680,7 +2713,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Al amanecer, cuando llegan los cargamentos.",
         tempo: "1 hora",
         costo: "gratis",
-        consiglio: "Ir temprano: a media mañana lo mejor ya ha pasado."
+        orari: "Todos los días, en su mejor momento antes de las 8.",
+        lat: 9.94411,
+        lng: 78.1561,
+        consiglio: "Ir temprano: a media mañana lo mejor ya ha pasado.",
       },
       {
         nome: "Gandhi Memorial Museum",
@@ -2688,41 +2724,142 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En tuk-tuk, cerca de la Collector Office.",
         quando: "De día; horarios en la web del museo (gandhimmm.org).",
         tempo: "1 hora",
-        consiglio: "Una pausa tranquila entre las dos visitas al templo."
-      }
+        lat: 9.92988,
+        lng: 78.13861,
+        consiglio: "Una pausa tranquila entre las dos visitas al templo.",
+      },
+      {
+        nome: "La sala de las mil columnas",
+        testo: "Dentro del recinto del Meenakshi, la gran sala del siglo XVI con 985 columnas talladas con dioses, guerreros y animales, hoy museo del templo con bronces, marfiles y pinturas. Las columnas están alineadas de modo que desde cualquier punto se ven filas perfectas.",
+        come: "Desde dentro del templo, con una pequeña entrada aparte.",
+        quando: "Por la mañana, junto con la primera visita al templo.",
+        tempo: "45 minutos",
+        consiglio: "Buscar las columnas musicales cerca de la salida: al golpearlas dan notas distintas.",
+      },
+      {
+        nome: "Puthu Mandapam y los sastres",
+        testo: "El pabellón del siglo XVII frente a la puerta este del Meenakshi, con columnas talladas con reyes y dioses. Durante siglos acogió sastres y puestos de telas y latón; con la restauración de los últimos años muchos talleres se han trasladado a las calles alrededor del templo, donde se lleva la tela y la prenda se recoge en el día.",
+        come: "Frente a la entrada este del templo, a pie.",
+        quando: "Por la mañana, para recoger la prenda por la tarde.",
+        tempo: "1 hora",
+        costo: "gratis",
+        lat: 9.92012,
+        lng: 78.1212,
+        consiglio: "Acordar precio y hora de recogida por escrito, y llevar una prenda para copiar.",
+      },
+      {
+        nome: "Vandiyur Mariamman Teppakulam",
+        testo: "Un enorme estanque de templo, casi cuadrado, con un pabellón en una isla en el centro, construido por los Nayak en el siglo XVII. Durante el Float Festival de enero-febrero las imágenes de Meenakshi y Sundareswarar salen al agua en balsas iluminadas.",
+        come: "A unos 5 km al este del templo, en tuk-tuk.",
+        quando: "Al atardecer; para el Float Festival, normalmente entre enero y febrero, con la luna llena de Thai.",
+        tempo: "45 minutos",
+        costo: "gratis",
+        lat: 9.91034,
+        lng: 78.14799,
+      },
+      {
+        nome: "Templo de Koodal Azhagar",
+        testo: "Un templo de Vishnu más antiguo que el Meenakshi, uno de los 108 santuarios sagrados para los vaisnavas, con un vimana de tres pisos y las imágenes del dios de pie, sentado y tumbado, una encima de otra. Es tranquilo y pocos turistas lo visitan.",
+        come: "A 1 km al oeste del Meenakshi, a pie o en tuk-tuk. Zapatos en consigna.",
+        quando: "Temprano por la mañana o por la tarde, con la puja.",
+        tempo: "45 minutos",
+        costo: "entrada libre",
+        lat: 9.9144,
+        lng: 78.11411,
+      },
+      {
+        nome: "Thirupparankundram",
+        testo: "El primero de los seis santuarios de Murugan, excavado en parte en la roca de una colina al sur de la ciudad. Dentro, las celdas están talladas en la piedra viva; en lo alto de la colina hay también una dargah musulmana.",
+        come: "A unos 8 km al suroeste del centro, en tuk-tuk, taxi o bus.",
+        quando: "Por la mañana; los viernes y en las fiestas de Murugan está abarrotado.",
+        tempo: "1-2 horas",
+        costo: "entrada libre",
+        lat: 9.8798,
+        lng: 78.0711,
+      },
+      {
+        nome: "Samanar Hills",
+        testo: "Una colina rocosa al oeste de la ciudad con lechos de piedra de monjes jainistas, inscripciones en tamil-brahmi de más de dos mil años y relieves del siglo IX. Desde la cima se ven los arrozales y la ciudad.",
+        come: "A unos 12 km del centro, en Keezhakuyilkudi, en coche o tuk-tuk; breve subida por la roca.",
+        quando: "Al amanecer o al atardecer: de día la roca quema.",
+        tempo: "1-2 horas",
+        costo: "gratis",
+        lat: 9.92425,
+        lng: 78.04467,
+        consiglio: "No es un lugar vigilado: ir acompañado y con agua.",
+      },
+      {
+        nome: "Mezquita Kazimar",
+        testo: "La mezquita más antigua de Madurai, fundada según la tradición en el siglo XIII por descendientes del Profeta llegados de Omán. Está en el barrio musulmán al suroeste del Meenakshi, entre talleres y callejones.",
+        come: "A 15 minutos a pie del templo. Ropa larga; las mujeres no suelen entrar en la sala de oración.",
+        quando: "Fuera de las horas de oración.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        lat: 9.91274,
+        lng: 78.11425,
+      },
+      {
+        nome: "Alagar Kovil y Pazhamudircholai",
+        testo: "El gran templo de Vishnu al pie de los montes Alagar, al norte de la ciudad, con un gopuram imponente en medio del bosque. Una carretera sube hasta Pazhamudircholai, otro de los seis santuarios de Murugan, y a un manantial sagrado.",
+        come: "A unos 20 km al noreste del centro, en taxi o autobús.",
+        quando: "Por la mañana. En abril-mayo el Chithirai Festival lleva la imagen de Alagar hasta el río Vaigai.",
+        tempo: "medio día",
+        costo: "entrada libre",
+        lat: 10.07485,
+        lng: 78.2131,
+        consiglio: "Cuidado con los monos en el camino al manantial: nada de comida en la mano.",
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Mercado de flores al amanecer",
-          "Templo de Meenakshi por la mañana",
-          "Palacio de Thirumalai Nayak",
-          "Jigarthanda por la tarde",
-          "Vuelta al templo para la ceremonia de la noche"
-        ]
+          "Mercado de flores de Mattuthavani al amanecer",
+          "Templo de Meenakshi y sala de las mil columnas por la mañana",
+          "Puthu Mandapam y los sastres",
+          "Palacio Thirumalai Nayak a primera hora de la tarde",
+          "Jigarthanda y vuelta al templo para la ceremonia de la noche",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
-          "El día de arriba",
-          "Día 2: Gandhi Memorial Museum",
-          "Talleres de sastres y mercados alrededor del templo",
-          "Salida hacia Munnar por la tarde"
-        ]
-      }
+          "Día 1: el día anterior",
+          "Día 2: Gandhi Memorial Museum por la mañana",
+          "Koodal Azhagar y la mezquita Kazimar",
+          "Thirupparankundram por la tarde",
+          "Teppakulam al atardecer, cena con kari dosa",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2: como arriba",
+          "Día 3: Samanar Hills al amanecer",
+          "Alagar Kovil y Pazhamudircholai",
+          "O excursión a Chettinad para las mansiones de los mercaderes",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Alrededor del templo",
         perChi: "quien quiere ir al Meenakshi a pie",
-        testo: "Hoteles sencillos y de gama media en las calles alrededor del templo, algunos con terraza frente a las torres. Ruidoso, pero comodísimo para las visitas al amanecer y por la noche."
+        testo: "Hoteles sencillos y de gama media en las calles alrededor del templo, algunos con terraza frente a las torres. Ruidoso, pero comodísimo para las visitas al amanecer y por la noche.",
+        fascia: "20-60 €",
       },
       {
         nome: "Colinas alrededor de la ciudad",
         perChi: "calma y piscina",
-        testo: "Hoteles heritage y resorts en las alturas a 5-10 kilómetros, con vistas a la ciudad. Hace falta coche para cada desplazamiento."
-      }
+        testo: "Hoteles heritage y resorts en las alturas a 5-10 kilómetros, con vistas a la ciudad. Hace falta coche para cada desplazamiento.",
+        fascia: "70-180 €",
+      },
+      {
+        nome: "Tallakulam y KK Nagar",
+        perChi: "hoteles modernos y de negocios",
+        testo: "Los barrios al norte del río Vaigai, con hoteles de cadena, restaurantes y oficinas. Más ordenados que el centro, a 15-20 minutos en tuk-tuk del templo.",
+        fascia: "40-90 €",
+      },
     ],
     sapori: [
       {
@@ -2748,6 +2885,52 @@ export const destinazioniIndia: Destinazione[] = [
       "A mediodía el templo suele cerrar unas horas: programad las visitas por la mañana y por la tarde-noche.",
       "Desde marzo el calor es muy fuerte: agua y sombrero.",
     ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Madurai?",
+        risposta: "Uno completo basta para el Meenakshi, visitado por la mañana y por la noche, y para el palacio Thirumalai Nayak. Con dos se añaden los templos menores, el Teppakulam y la comida callejera.",
+      },
+      {
+        domanda: "¿A qué hora abre el templo de Meenakshi?",
+        risposta: "Suele abrir de 5 a mediodía y de 16 a 21.30, con horarios distintos en las fiestas. Conviene ir temprano por la mañana y volver por la noche para la procesión.",
+      },
+      {
+        domanda: "¿Pueden entrar los no hindúes en el Meenakshi?",
+        risposta: "Sí al templo, a los corredores y a la sala de las mil columnas; los dos santuarios principales están reservados a los hindúes.",
+      },
+      {
+        domanda: "¿Se pueden llevar teléfonos y cámaras?",
+        risposta: "Las fotos y los vídeos dentro están prohibidos. Desde el otoño de 2026 el teléfono puede llevarse apagado o dejarse en consigna por pocas rupias; las normas han cambiado varias veces, mejor preguntar en la entrada.",
+      },
+      {
+        domanda: "¿Cómo vestirse para los templos de Madurai?",
+        risposta: "Hombros y rodillas cubiertos para todos, nada de pantalones cortos; los zapatos se dejan en la consigna fuera del templo.",
+      },
+      {
+        domanda: "¿Cuándo es el Chithirai Festival?",
+        risposta: "En abril-mayo, durante unas dos semanas, con la boda celestial de Meenakshi y la llegada de Alagar al río Vaigai. La ciudad se llena de peregrinos: reservar el alojamiento pronto.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Chettinad y Karaikudi",
+        distanza: "unos 90 km, 2 horas en coche",
+        come: "En coche con conductor, mejor con una noche en una mansión histórica.",
+        testo: "Los pueblos de los mercaderes chettiar, con enormes mansiones de principios del siglo XX, patios de teca birmana y suelos de Athangudi. Es también la cuna de la cocina más picante de Tamil Nadu.",
+      },
+      {
+        nome: "Kodaikanal",
+        distanza: "unos 120 km, 3-4 horas en coche",
+        come: "En coche por la carretera de los Ghats, o en bus desde Madurai.",
+        testo: "La estación de montaña a más de 2.000 metros, con un lago, bosques y miradores sobre las llanuras. Fresca todo el año, conviene dormir allí.",
+      },
+      {
+        nome: "Rameswaram",
+        distanza: "unos 170 km, 3-4 horas en coche o tren",
+        come: "En tren o en coche, cruzando el puente de Pamban sobre el mar.",
+        testo: "La isla sagrada del templo de Ramanathaswamy, con el corredor de columnas más largo de la India, y la punta de Dhanushkodi frente a Sri Lanka.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Una de las torres pintadas del templo de Meenakshi en Madurai, cubierta de estatuas de colores',
@@ -2761,6 +2944,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['montagna', 'piantagioni di tè', 'natura'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve aquí en el viaje por el sur de la India, subiendo desde Madurai: dos noches entre las plantaciones de té, con un día para las colinas y el parque de Eravikulam.",
     introduzione:
       'Una estación de montaña a unos 1.600 metros en los Ghats Occidentales de Kerala, rodeada de plantaciones de té que cubren las colinas hasta donde alcanza la vista.',
     percheAndarci:
@@ -2774,10 +2959,12 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Un trekking guiado entre las plantaciones', 'El amanecer en Kolukkumalai en jeep', 'Comprar té directamente en las fábricas'],
     doveDormire: 'Homestays y resorts fuera del pueblo, entre las plantaciones.',
     doveMangiare: 'Cocina de Kerala en los homestays, a menudo la mejor de la zona.',
-    comeArrivare: "Desde Kochi unos 130 kilómetros de carretera de montaña; desde Madurai se cruzan los Ghats: en ambos casos, media jornada en coche.",
+    comeArrivare:
+      "Munnar no tiene aeropuerto ni estación. Desde el aeropuerto de Kochi hay unos 110 km, 3,5-4 horas en coche con conductor o taxi; también hay autobuses estatales KSRTC desde Ernakulam, más lentos. Desde Madurai se cruzan los Ghats en 5-6 horas, desde Alleppey son 4-5 horas. El último tramo es una carretera de montaña con curvas: mejor viajar de día.",
     comeSpostarsi: 'Coche con conductor y jeeps locales.',
     periodoMigliore: "septiembre-mayo; junio y julio son los meses más lluviosos, y con el monzón hay desprendimientos y carreteras cortadas.",
-    costi: "Eravikulam 500 rupias para los extranjeros más 50 por la cámara (web oficial, 2026); jeep a Kolukkumalai a acordar.",
+    costi:
+      "Eravikulam 500 rupias para extranjeros más 50 por la cámara (2026); jeep a Kolukkumalai a precio por acordar. Presupuesto diario por persona en doble: 25-40 € con homestay y cocina casera, 60-100 € en resort entre plantaciones con conductor, desde 180 € en resorts con vistas y spa.",
     erroriDaEvitare: ['Llegar en febrero-marzo contando con Eravikulam, cerrado por los nacimientos', 'Dormir en el pueblo, con tráfico y ruidoso'],
     luoghi: [
       {
@@ -2787,8 +2974,11 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Entradas de 8 a 14 (web oficial, 2026). Cerrado cada año por los partos de los tahr, entre febrero y marzo, a veces hasta primeros de abril: la propia web da fechas distintas, así que conviene comprobarlo antes de salir. Mejor a la apertura, antes de las nubes y de la cola.",
         tempo: "medio día",
         costo: "500 rupias para los extranjeros, más 50 por la cámara de fotos (2026)",
+        orari: "Entrada de 8 a 14 (web oficial, 2026); cierra cada año por los nacimientos de los tahr, entre febrero y marzo o hasta principios de abril.",
         url: "https://www.eravikulamnationalpark.in/",
-        consiglio: "Reservar online los fines de semana y en los festivos indios: las plazas se agotan."
+        lat: 10.22751,
+        lng: 77.07432,
+        consiglio: "Reservar online los fines de semana y en los festivos indios: las plazas se agotan.",
       },
       {
         nome: "Museo del té de KDHP",
@@ -2796,7 +2986,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A 2 kilómetros del pueblo, en tuk-tuk.",
         quando: "De día. Varias fuentes indican que cierra los lunes: comprobarlo antes de ir.",
         tempo: "1 hora",
-        consiglio: "Probar los tés al final y comprarlos aquí, a precio de fábrica."
+        orari: "Varias fuentes indican que cierra los lunes: comprobar antes de ir.",
+        lat: 10.09423,
+        lng: 77.05065,
+        consiglio: "Probar los tés al final y comprarlos aquí, a precio de fábrica.",
       },
       {
         nome: "Kolukkumalai",
@@ -2804,7 +2997,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En jeep 4x4 desde Suryanelli, por unos 17 kilómetros de pista de tierra empinada. Los jeeps se reservan con el hotel.",
         quando: "Salida antes del amanecer, de noche.",
         tempo: "medio día",
-        consiglio: "Dejar muy claro qué incluye el precio del jeep: espera, entrada a la finca y vuelta."
+        lat: 10.08265,
+        lng: 77.22177,
+        consiglio: "Dejar muy claro qué incluye el precio del jeep: espera, entrada a la finca y vuelta.",
       },
       {
         nome: "Top Station y la presa de Mattupetty",
@@ -2812,44 +3007,104 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En coche desde Munnar, con paradas por el camino.",
         quando: "Por la mañana, antes de que suba la bruma.",
         tempo: "medio día",
-        consiglio: "Los fines de semana los miradores están llenos: mejor un día laborable."
-      }
+        consiglio: "Los fines de semana los miradores están llenos: mejor un día laborable.",
+      },
+      {
+        nome: "La presa de Mattupetty",
+        testo: "Un embalse entre colinas de té y prados, a unos 1.700 metros, con barcas de pedales y lanchas en el lago. Por el camino se pasa por la granja experimental de ganado del Indo-Swiss Project.",
+        come: "A unos 13 km de Munnar por la carretera de Top Station, en coche o tuk-tuk.",
+        quando: "Por la mañana, antes de la bruma y de los grupos.",
+        tempo: "1 hora",
+        lat: 10.1063,
+        lng: 77.12391,
+      },
+      {
+        nome: "Echo Point y el lago de Kundala",
+        testo: "Echo Point es una orilla del embalse de Mattupetty donde la voz rebota entre las colinas; un poco más allá está el lago de Kundala, con su presa de arco y barcas de remos entre eucaliptos y plantaciones.",
+        come: "En la carretera de Mattupetty a Top Station, con paradas en coche.",
+        quando: "Temprano por la mañana, cuando el agua está quieta.",
+        tempo: "1 hora",
+        lat: 10.14361,
+        lng: 77.1875,
+      },
+      {
+        nome: "La cascada de Lakkam",
+        testo: "Una cascada escalonada en el bosque, con una poza donde bañarse, en la carretera de Marayoor. Un sendero corto lleva de la carretera al agua.",
+        come: "A unos 25 km de Munnar por la carretera de Marayoor, luego unos minutos a pie.",
+        quando: "Después del monzón, de septiembre a diciembre, cuando lleva más agua.",
+        tempo: "1 hora",
+        lat: 10.18889,
+        lng: 77.11111,
+        consiglio: "Se combina con la vuelta de Eravikulam o la excursión a Marayoor.",
+      },
+      {
+        nome: "La cascada de Attukad",
+        testo: "Una cascada entre las colinas de té de Pallivasal, alta y espectacular después de las lluvias. Un sendero entre las plantaciones llega desde la carretera.",
+        come: "A unos 9 km de Munnar hacia Pallivasal, en coche y luego a pie.",
+        quando: "Entre agosto y noviembre, cuando el agua es abundante.",
+        tempo: "1-2 horas",
+        lat: 10.0535,
+        lng: 77.05862,
+        consiglio: "Rocas resbaladizas: calzado con suela y nada de bañarse bajo el chorro.",
+      },
+      {
+        nome: "La presa de Anayirangal y Chinnakanal",
+        testo: "Un lago rodeado de plantaciones de té y bosque, en la zona de Chinnakanal, donde los elefantes salvajes bajan a beber. Desde los miradores de la carretera se ve el agua encerrada entre colinas.",
+        come: "A unos 22 km al este de Munnar en coche, por la carretera de Suryanelli.",
+        quando: "Mañana o última hora de la tarde; con la sequía el nivel baja.",
+        tempo: "1-2 horas",
+        lat: 10.00944,
+        lng: 77.2075,
+        consiglio: "Los elefantes de la zona son salvajes: no acercarse y seguir las indicaciones de los guardas forestales.",
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Eravikulam a la hora de apertura",
+          "Eravikulam a la apertura",
           "Museo del té de KDHP",
-          "Paseo entre las plantaciones por la tarde"
-        ]
+          "Tarde: Mattupetty, Echo Point y Kundala",
+          "Atardecer en Top Station",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
           "Día 1: amanecer en Kolukkumalai en jeep, vuelta y descanso",
-          "Tarde en el museo del té",
-          "Día 2: Eravikulam por la mañana",
-          "Mattupetty y Top Station por la tarde"
-        ]
-      }
+          "Tarde: Anayirangal y Chinnakanal",
+          "Día 2: Eravikulam por la mañana, cascada de Lakkam a la vuelta",
+          "Museo del té, luego Mattupetty y Top Station",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2: como arriba",
+          "Día 3: trekking guiado entre las plantaciones y la cascada de Attukad",
+          "Tarde: excursión a Marayoor por el sándalo y los dólmenes",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Entre las plantaciones (Chithirapuram, Pallivasal)",
         perChi: "quien busca silencio",
-        testo: "Homestays y resorts en las colinas fuera del pueblo, con vistas a las plantaciones. Silencio total, pero hace falta coche y se cena donde se duerme."
+        testo: "Homestays y resorts en las colinas fuera del pueblo, con vistas a las plantaciones. Silencio total, pero hace falta coche y se cena donde se duerme.",
+        fascia: "40-150 €",
       },
       {
         nome: "Munnar pueblo",
         perChi: "quien se mueve en transporte público",
-        testo: "Hoteles baratos y restaurantes en el centro, con jeeps y tuk-tuk a mano. Con tráfico y ruidoso."
+        testo: "Hoteles baratos y restaurantes en el centro, con jeeps y tuk-tuk a mano. Con tráfico y ruidoso.",
+        fascia: "20-50 €",
       },
       {
         nome: "Chinnakanal y Suryanelli",
         perChi: "quien va a Kolukkumalai",
-        testo: "Más lejos, hacia el este, cerca del lago de Anayirangal. Cómodo para el amanecer en jeep, aislado para todo lo demás."
-      }
+        testo: "Más lejos, hacia el este, cerca del lago de Anayirangal. Cómodo para el amanecer en jeep, aislado para todo lo demás.",
+        fascia: "50-150 €",
+      },
     ],
     sapori: [
       {
@@ -2875,6 +3130,52 @@ export const destinazioniIndia: Destinazione[] = [
       "Los jeeps a Kolukkumalai tienen precios muy variables: que os lo detallen todo antes de salir.",
       "Los fines de semana y en los festivos indios llegan muchos turistas de Kerala y Tamil Nadu: tráfico y colas.",
     ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Munnar?",
+        risposta: "Dos días: uno para Eravikulam y el museo del té, otro para el amanecer en Kolukkumalai y los lagos. Con un tercero se añaden un trekking y Marayoor.",
+      },
+      {
+        domanda: "¿Cuándo cierra el parque de Eravikulam?",
+        risposta: "Cada año durante la temporada de nacimientos de los tahr, entre febrero y marzo y a veces hasta principios de abril. Las fechas exactas se publican en la web oficial del parque.",
+      },
+      {
+        domanda: "¿Hay que reservar Eravikulam?",
+        risposta: "Los fines de semana y festivos indios, sí: las entradas se compran online en la web oficial o en la taquilla del centro de información de Munnar.",
+      },
+      {
+        domanda: "¿Mejor dormir en el pueblo o entre las plantaciones?",
+        risposta: "Entre las plantaciones, en un homestay o resort fuera del pueblo: silencio y vistas. El pueblo solo compensa a quien se mueve en transporte público.",
+      },
+      {
+        domanda: "¿Qué tiempo hace en Munnar?",
+        risposta: "Fresco todo el año, con noches frías entre diciembre y febrero. Junio y julio son los meses más lluviosos, con desprendimientos y carreteras cortadas.",
+      },
+      {
+        domanda: "¿Cómo se va de Munnar a los backwaters?",
+        risposta: "En coche con conductor hasta Alleppey o Kumarakom, unas 4-5 horas, o con una parada en Thekkady.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Marayoor",
+        distanza: "unos 40 km, 1,5 horas en coche",
+        come: "En coche con conductor, pasando por Eravikulam y la cascada de Lakkam.",
+        testo: "Un valle más seco al otro lado de los Ghats, con el único bosque natural de sándalo de Kerala, dólmenes prehistóricos y talleres de azúcar de caña en panes. Se combina con Kanthalloor, el pueblo de los huertos.",
+      },
+      {
+        nome: "Chinnar Wildlife Sanctuary",
+        distanza: "unos 60 km, 2 horas en coche",
+        come: "En coche más allá de Marayoor; trekkings y torres de observación con los guardas forestales.",
+        testo: "Un bosque seco en la frontera con Tamil Nadu, con la ardilla gigante gris, elefantes y cocodrilos de marisma en el río. Un paisaje opuesto al de las colinas de té.",
+      },
+      {
+        nome: "Thekkady y Periyar",
+        distanza: "unos 90 km, 3 horas en coche",
+        come: "En coche con conductor por la carretera de las plantaciones de cardamomo.",
+        testo: "La reserva de Periyar, con el paseo en barca por el lago y trekkings en el bosque, y las plantaciones de especias alrededor. Mejor con una noche, camino de los backwaters.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Las colinas de Munnar cubiertas de plantaciones de té, con filas ordenadas de arbustos verdes',
@@ -2888,6 +3189,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['lagune', 'natura', 'houseboat'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve aquí en el viaje por el sur de la India, bajando desde Munnar: una noche en houseboat en los backwaters, antes de seguir hacia Fort Kochi.",
     introduzione:
       'La red de canales, lagunas y lagos de Kerala que corre paralela al mar entre Alappuzha (Alleppey), Kumarakom y Kollam, con arrozales bajo el nivel del agua y pueblos sobre franjas de tierra.',
     percheAndarci:
@@ -2896,10 +3199,12 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Una noche en houseboat (kettuvallam)', 'Un paseo en canoa al amanecer por los canales estrechos', 'Las regatas de las barcas-serpiente, si se viaja en agosto'],
     doveDormire: 'Houseboat, o bien homestays en los canales de Kainakary o Kumarakom.',
     doveMangiare: 'El karimeen (pearl spot) a la parrilla, el curry de pescado y el arroz rojo de Kerala, preparados por el cocinero de a bordo.',
-    comeArrivare: "Desde Kochi 1-2 horas en coche según el tráfico; desde Munnar media jornada de carretera.",
+    comeArrivare:
+      "De Kochi a Alappuzha hay unos 55 km: 1,5-2 horas en coche según el tráfico, o una hora y media en tren desde Ernakulam. Desde el aeropuerto de Kochi hacen falta unas 2-2,5 horas. Desde Munnar la carretera baja en 4-5 horas. A Kumarakom se llega desde Kottayam en 30 minutos; el ferry público une Kottayam y Alappuzha a través del lago en unas 2-2,5 horas.",
     comeSpostarsi: 'En barca.',
     periodoMigliore: 'octubre-marzo.',
-    costi: "Houseboat: el precio cambia mucho según el tipo de barco, el número de camarotes y la temporada, normalmente con las comidas incluidas. El mostrador de prepago del DTPC en Alappuzha aplica tarifas controladas.",
+    costi:
+      "Casa flotante 8.000-25.000 rupias por barco y noche, comidas normalmente incluidas; ferry público unas 29 rupias por trayecto; canoa con remero a precio por acordar. Presupuesto diario por persona en doble: 35-50 € con homestay y ferry, 80-130 € con casa flotante privada, desde 200 € con casa flotante de lujo o resort en Kumarakom.",
     erroriDaEvitare: [
       'Reservar con los captadores de los muelles sin ver la barca',
       'Esperar aire acondicionado de día: a menudo funciona solo de noche',
@@ -2914,7 +3219,9 @@ export const destinazioniIndia: Destinazione[] = [
         tempo: "una noche",
         costo: "muy variable según el barco y la temporada, comidas normalmente incluidas: pedir el presupuesto por escrito",
         url: "https://www.keralatourism.org/houseboat/",
-        consiglio: "Pedir un itinerario que deje los canales principales, donde los barcos van en fila."
+        lat: 9.50003,
+        lng: 76.35491,
+        consiglio: "Pedir un itinerario que deje los canales principales, donde los barcos van en fila.",
       },
       {
         nome: "En canoa por los canales estrechos",
@@ -2922,7 +3229,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Con homestays y pequeños operadores de Kainakary y Alappuzha, con un remero.",
         quando: "Al amanecer, cuando los canales están en calma y llenos de pájaros.",
         tempo: "2-3 horas",
-        consiglio: "Si solo tenéis un día, la canoa al amanecer da más que el houseboat."
+        lat: 9.46667,
+        lng: 76.38333,
+        consiglio: "Si solo tenéis un día, la canoa al amanecer da más que el houseboat.",
       },
       {
         nome: "Las regatas de barcas serpiente",
@@ -2930,8 +3239,90 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Tribunas de pago en el lago Punnamada, en Alappuzha; información en la web oficial de la regata.",
         quando: "La Nehru Trophy se corre normalmente en agosto, durante el monzón (por tradición el segundo sábado del mes, pero la fecha cambia: en 2024 se aplazó a septiembre, en 2026 se corrió el 22 de agosto).",
         tempo: "una jornada",
-        consiglio: "Para quien viaja en agosto, ya justifica el viaje por sí sola."
-      }
+        url: "https://nehrutrophy.nic.in/",
+        lat: 9.50003,
+        lng: 76.35491,
+        consiglio: "Para quien viaja en agosto, ya justifica el viaje por sí sola.",
+      },
+      {
+        nome: "El ferry público Alappuzha-Kottayam",
+        testo: "El barco del servicio estatal (SWTD) que une Alappuzha y Kottayam a través del lago Vembanad y los canales de Kuttanad. Es el mismo paisaje de las casas flotantes, con trabajadores y escolares a bordo, por una fracción del precio.",
+        come: "Desde el muelle de ferris de Alappuzha, cerca de la estación de autobuses; billete a bordo o en la taquilla.",
+        quando: "Los barcos salen de la mañana a la tarde: comprobar los horarios en el muelle el día antes.",
+        tempo: "unas 2-2,5 horas por trayecto",
+        costo: "unas 29 rupias por trayecto (menos de 1 €, diciembre de 2025)",
+        consiglio: "Sentarse a proa en el lado de sombra y llevar algo para la lluvia: las ventanas no se cierran.",
+      },
+      {
+        nome: "La playa y el muelle de Alappuzha",
+        testo: "Una larga playa de arena con los restos del viejo muelle del puerto, de 1862, y un faro al que se puede subir. Es donde la gente de Alappuzha pasea al atardecer.",
+        come: "A 2 km del centro, en tuk-tuk o bici.",
+        quando: "Al atardecer.",
+        tempo: "1 hora",
+        costo: "gratis",
+        lat: 9.49299,
+        lng: 76.3177,
+        consiglio: "Corrientes fuertes: no se recomienda el baño.",
+      },
+      {
+        nome: "La playa de Marari",
+        testo: "Una playa larga y tranquila entre palmeras y aldeas de pescadores, al norte de Alappuzha, con homestays y resorts a pocos pasos del mar. Es el contrapunto marino de los backwaters.",
+        come: "A unos 15 km al norte de Alappuzha, en tuk-tuk o taxi.",
+        quando: "De noviembre a marzo, cuando el mar está más tranquilo; al amanecer se ve a los pescadores recoger las redes.",
+        tempo: "medio día",
+        costo: "gratis",
+        lat: 9.6008,
+        lng: 76.2983,
+        consiglio: "Con mar agitado, bañarse solo donde lo hacen los locales, cerca de la orilla.",
+      },
+      {
+        nome: "El santuario de aves de Kumarakom",
+        testo: "Una reserva en la orilla este del lago Vembanad, con manglares y un sendero entre árboles donde anidan garzas, cormoranes, garcetas y martines pescadores, y en invierno las aves migratorias.",
+        come: "En Kumarakom, a unos 15 km de Kottayam; desde el lado de Alappuzha se cruza el lago en barca o se va en coche, una hora.",
+        quando: "Al amanecer, de noviembre a febrero para las migratorias.",
+        tempo: "2 horas",
+        lat: 9.5,
+        lng: 76.52,
+        consiglio: "Llevar prismáticos y repelente: el sendero tiene sombra pero muchos mosquitos.",
+      },
+      {
+        nome: "Pathiramanal",
+        testo: "Una pequeña isla boscosa en medio del lago Vembanad, sin habitantes, donde se detienen muchas especies de aves. El nombre significa «arena de medianoche».",
+        come: "En barca desde Muhamma, en la orilla oeste, o como parada de un paseo en casa flotante o lancha.",
+        quando: "Temprano por la mañana, para las aves.",
+        tempo: "1-2 horas con la travesía",
+        lat: 9.61873,
+        lng: 76.38521,
+      },
+      {
+        nome: "Champakulam y la basílica de Santa María",
+        testo: "Un pueblo sobre el río Pamba en el corazón de Kuttanad, con una de las iglesias más antiguas de Kerala, refundada varias veces y hoy basílica. En julio se corre aquí una de las regatas de barcos serpiente más antiguas.",
+        come: "A unos 15 km de Alappuzha, en barca por los canales o en coche.",
+        quando: "Por la mañana; en julio para la regata de Champakulam Moolam.",
+        tempo: "1 hora",
+        costo: "entrada libre",
+        lat: 9.40917,
+        lng: 76.41111,
+      },
+      {
+        nome: "Templo de Ambalappuzha",
+        testo: "El templo de Krishna famoso por el pal payasam, el pudin de arroz y leche que se ofrece al dios y se reparte a los fieles. La arquitectura es la típica de Kerala, con tejados de madera y lámparas de latón.",
+        come: "A unos 14 km al sur de Alappuzha, en coche o bus. Los no hindúes no suelen entrar en el santuario; los hombres, sin camisa dentro.",
+        quando: "Temprano por la mañana o por la tarde, con las lámparas encendidas.",
+        tempo: "45 minutos",
+        costo: "entrada libre",
+        lat: 9.3836,
+        lng: 76.3695,
+      },
+      {
+        nome: "Palacio de Krishnapuram",
+        testo: "Un palacio del siglo XVIII de estilo keralí en Kayamkulam, hoy museo, que conserva el Gajendra Moksham, una de las pinturas murales más grandes de Kerala, además de esculturas y bronces.",
+        come: "A unos 47 km al sur de Alappuzha en coche, por la carretera hacia Kollam.",
+        quando: "De día, de camino entre los backwaters y el sur.",
+        tempo: "1 hora",
+        lat: 9.15,
+        lng: 76.50861,
+      },
     ],
     programmi: [
       {
@@ -2939,40 +3330,54 @@ export const destinazioniIndia: Destinazione[] = [
         tappe: [
           "Canoa al amanecer por los canales de Kainakary",
           "Comida con karimeen y arroz rojo",
-          "Tarde en barca por el lago Vembanad"
-        ]
+          "Ferry público por el lago Vembanad, o un paseo en barca de unas horas",
+          "Atardecer en la playa de Alappuzha",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
-          "Día 1: embarque en el houseboat a mediodía, navegación y noche a bordo",
-          "Día 2: desembarque por la mañana",
-          "Canoa por los canales pequeños",
-          "Tarde en la playa de Marari o salida hacia Kochi"
-        ]
-      }
+          "Día 1: embarque en la casa flotante a mediodía, navegación y noche a bordo",
+          "Día 2: desembarco por la mañana",
+          "Canoa por los canales pequeños y Champakulam",
+          "Tarde en la playa de Marari",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2: como arriba",
+          "Día 3: santuario de aves de Kumarakom al amanecer",
+          "Pathiramanal en barca",
+          "Salida hacia Fort Kochi por la tarde",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Houseboat",
         perChi: "una noche",
-        testo: "La noche a bordo es el motivo del viaje. Camarotes pequeños y aire acondicionado muchas veces solo de noche."
+        testo: "La noche a bordo es el motivo del viaje. Camarotes pequeños y aire acondicionado muchas veces solo de noche.",
+        fascia: "80-250 € por barco, comidas incluidas",
       },
       {
         nome: "Kainakary y Kuttanad",
         perChi: "quien quiere los pueblos",
-        testo: "Homestays en los canales, a los que se llega en barca. Silencio, cocina casera y canoa al amanecer, pero lejos de todo."
+        testo: "Homestays en los canales, a los que se llega en barca. Silencio, cocina casera y canoa al amanecer, pero lejos de todo.",
+        fascia: "30-80 €",
       },
       {
         nome: "Kumarakom",
         perChi: "resorts con piscina",
-        testo: "En la orilla este del lago Vembanad, con resorts de gama alta. Cómodo y cuidado, con menos vida de pueblo."
+        testo: "En la orilla este del lago Vembanad, con resorts de gama alta. Cómodo y cuidado, con menos vida de pueblo.",
+        fascia: "100-300 €",
       },
       {
         nome: "Playa de Marari",
         perChi: "mar y backwaters",
-        testo: "Al norte de Alappuzha, homestays y resorts en la playa. Buena para alternar canales y mar."
-      }
+        testo: "Al norte de Alappuzha, homestays y resorts en la playa. Buena para alternar canales y mar.",
+        fascia: "50-200 €",
+      },
     ],
     sapori: [
       {
@@ -2998,6 +3403,52 @@ export const destinazioniIndia: Destinazione[] = [
       "Los canales principales están llenos de houseboats en fila: pedid rutas secundarias.",
       "Mosquitos por la noche: repelente y manga larga.",
     ],
+    faq: [
+      {
+        domanda: "¿Casa flotante o canoa?",
+        risposta: "La casa flotante para la noche en el agua, la canoa para los canales estrechos donde no pasan los barcos grandes. Con un solo día, la canoa al amanecer da más.",
+      },
+      {
+        domanda: "¿Cuánto cuesta una noche en casa flotante?",
+        risposta: "Orientativamente 8.000-25.000 rupias por barco, según camarotes, categoría y temporada, normalmente con las comidas incluidas. Hay que pedir un presupuesto escrito que diga qué incluye.",
+      },
+      {
+        domanda: "¿Alleppey o Kumarakom?",
+        risposta: "Alleppey tiene más barcos para elegir y más tráfico en los canales principales; Kumarakom tiene resorts más cuidados y un ritmo más lento, con el santuario de aves cerca.",
+      },
+      {
+        domanda: "¿Se pueden ver los backwaters sin casa flotante?",
+        risposta: "Sí: con el ferry público Alappuzha-Kottayam, por pocas rupias, o con una canoa o shikara durante unas horas.",
+      },
+      {
+        domanda: "¿Cuándo se corre la Nehru Trophy?",
+        risposta: "Normalmente en agosto en el lago Punnamada, pero la fecha cambia cada año: en 2026 se corrió el 22 de agosto. El calendario se publica en la web oficial de la regata.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para los backwaters?",
+        risposta: "De octubre a marzo, con cielo despejado y menos humedad. Con el monzón se navega igual, pero llueve mucho y baja la visibilidad.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Fort Kochi",
+        distanza: "unos 55 km, 1,5-2 horas en coche",
+        come: "En coche con conductor o en tren hasta Ernakulam y luego ferry.",
+        testo: "El puerto de las especias con las redes chinas, Mattancherry y el kathakali: merece al menos una noche, pero también se ve en un día.",
+      },
+      {
+        nome: "Los backwaters de Kollam y Munroe Island",
+        distanza: "unos 85 km, 2 horas en coche",
+        come: "En coche hasta Munroe Island, o en barco por los canales de Alappuzha a Kollam (unas 8 horas).",
+        testo: "Canales estrechos, aldeas de pescadores y trabajo de la fibra de coco, con muchas menos casas flotantes que en Alleppey. La ruta en canoa de Munroe Island es de las más tranquilas de Kerala.",
+      },
+      {
+        nome: "Krishnapuram y Kayamkulam",
+        distanza: "unos 47 km, 1,5 horas en coche",
+        come: "En coche por la carretera nacional hacia el sur.",
+        testo: "El palacio museo con el gran mural del Gajendra Moksham, para combinar con Ambalappuzha por el camino.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Una houseboat de madera y bambú en un canal de los backwaters de Kerala entre cocoteros',
@@ -3011,6 +3462,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['città coloniale', 'cultura', 'mare'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Estuve aquí en el viaje por el sur de la India, llegando desde los backwaters: dos noches entre Fort Kochi y Mattancherry, antes del vuelo a Bangalore.",
     introduzione:
       'El barrio histórico de Kochi, puerto de las especias durante siglos, marcado por portugueses, holandeses e ingleses, con las redes de pesca chinas en el paseo marítimo y el barrio judío de Mattancherry.',
     percheAndarci:
@@ -3025,10 +3478,12 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Un espectáculo de kathakali', 'Un curso de cocina de Kerala', 'Comprar el pescado en el mercado junto a las redes y pedir que lo cocinen'],
     doveDormire: 'Homestays de gestión familiar y hoteles heritage en los bungalows coloniales.',
     doveMangiare: 'Appam con estofado, fish moilee, karimeen a la parrilla, café en las galerías.',
-    comeArrivare: "Desde el aeropuerto internacional de Kochi una hora o más en coche, según el tráfico; desde Alleppey 1-2 horas.",
+    comeArrivare:
+      "Desde el aeropuerto internacional de Kochi (COK), a unos 40 km, se llega en taxi prepago o Uber en 1-1,5 horas según el tráfico. Desde la estación de Ernakulam Junction hay unos 12 km: 30-45 minutos en taxi, o tuk-tuk hasta el muelle y ferry o Water Metro hasta Fort Kochi. Desde Alleppey 1-2 horas en coche, desde Munnar unas 4 horas.",
     comeSpostarsi: 'A pie y en bici, ferri a Ernakulam.',
     periodoMigliore: "octubre-marzo; la Bienal de Kochi, más o menos cada dos años, abre en diciembre y dura unos tres meses (la última: 12 de diciembre de 2025-31 de marzo de 2026).",
-    costi: "Kathakali, palacio y sinagoga tienen entradas modestas; tarifas en las taquillas.",
+    costi:
+      "Kathakali unas 500-600 rupias (unos 5-6 €), iglesias y templo jainista gratis, sinagoga y palacio con entradas modestas en taquilla. Presupuesto diario por persona en habitación doble: 35-50 € con homestays y comida local, 80-130 € en hoteles heritage con alguna cena de pescado, desde 200 € en bungalows coloniales de lujo.",
     erroriDaEvitare: [
       "Llegar a Mattancherry en viernes: la sinagoga está cerrada y también el palacio, según la mayoría de las fuentes",
       "Comprar especias y «antigüedades» sin regatear",
@@ -3041,7 +3496,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "A última hora de la tarde y al atardecer, cuando las redes trabajan a contraluz.",
         tempo: "45 minutos",
         costo: "gratis",
-        consiglio: "En el mercado de pescado de al lado se compra la captura y la cocinan los restaurantes de detrás."
+        orari: "Siempre accesibles; las redes trabajan sobre todo con marea alta, temprano por la mañana y al atardecer.",
+        lat: 9.96819,
+        lng: 76.24217,
+        consiglio: "En el mercado de pescado de al lado se compra la captura y la cocinan los restaurantes de detrás.",
       },
       {
         nome: "Iglesia de San Francisco",
@@ -3050,7 +3508,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "De día, fuera del horario de misas.",
         tempo: "30 minutos",
         costo: "entrada libre",
-        consiglio: "Buscar en el suelo el lugar del primer entierro de Vasco da Gama."
+        lat: 9.96595,
+        lng: 76.24107,
+        consiglio: "Buscar en el suelo el lugar del primer entierro de Vasco da Gama.",
       },
       {
         nome: "Palacio de Mattancherry",
@@ -3058,15 +3518,22 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En Mattancherry, a pocos kilómetros del centro de Fort Kochi, en tuk-tuk o bici.",
         quando: "Casi todas las fuentes indican que cierra los viernes, algunas también los sábados; horario con pausa a mediodía. Comprobarlo en la web del ASI antes de ir.",
         tempo: "1 hora",
-        consiglio: "Las salas de los frescos están oscuras: dad tiempo a los ojos para acostumbrarse."
+        orari: "Cerrado los viernes; suele abrir de 10 a 17 aproximadamente con pausa a mediodía (comprobar en la entrada).",
+        lat: 9.95835,
+        lng: 76.25918,
+        consiglio: "Las salas de los frescos están oscuras: dad tiempo a los ojos para acostumbrarse.",
       },
       {
         nome: "La sinagoga Paradesi y Jew Town",
         testo: "La sinagoga de 1568, todavía en uso, con el suelo de cientos de azulejos chinos de porcelana del siglo XVIII, pintados a mano y todos distintos, y lámparas de vidrio belga. Alrededor, Jew Town es una calle de anticuarios y tiendas de especias.",
         come: "Junto al palacio de Mattancherry, a pie. Se entra descalzo; los hombres con camisa y pantalón largo, las mujeres con falda por debajo de la rodilla.",
-        quando: "Abierta por la mañana y a última hora de la tarde, con una larga pausa; cerrada los viernes, los sábados y en las fiestas judías (según algunas fuentes también los domingos). Comprobar los horarios antes de ir.",
+        quando: "Abierta por la mañana y a última hora de la tarde, con una larga pausa; cerrada los viernes, los sábados y en las fiestas judías. Comprobar los horarios antes de ir.",
         tempo: "30 minutos",
-        consiglio: "Palacio y sinagoga se ven juntos en una mañana, nunca en viernes ni en sábado."
+        orari: "10-12 y 15-17; cerrada los viernes, los sábados y en las fiestas judías (Kerala Tourism).",
+        url: "https://www.keralatourism.org/kochi/paradeso-synagogue-mattancherry.php",
+        lat: 9.95748,
+        lng: 76.2593,
+        consiglio: "Palacio y sinagoga se ven juntos en una mañana, nunca en viernes ni en sábado.",
       },
       {
         nome: "Los almacenes de especias",
@@ -3074,7 +3541,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A pie o en bici desde Mattancherry hacia Fort Kochi.",
         quando: "Por la mañana, cuando se trabaja.",
         tempo: "1 hora",
-        consiglio: "Para comprar especias, comparar precios en varias tiendas: la diferencia es grande."
+        lat: 9.96101,
+        lng: 76.25892,
+        consiglio: "Para comprar especias, comparar precios en varias tiendas: la diferencia es grande.",
       },
       {
         nome: "Un espectáculo de kathakali",
@@ -3082,46 +3551,134 @@ export const destinazioniIndia: Destinazione[] = [
         come: "En los centros culturales de Fort Kochi, con entrada reservada el mismo día o el anterior.",
         quando: "Por la tarde-noche; en muchos teatros el maquillaje de los actores empieza antes del espectáculo y se puede mirar. Horarios en el teatro.",
         tempo: "unas 2 horas con el maquillaje",
-        consiglio: "Llegar para el maquillaje: es la mitad del espectáculo."
-      }
+        costo: "unas 500-600 rupias (unos 5-6 €, 2026)",
+        orari: "Cada tarde; el maquillaje empieza antes del espectáculo.",
+        lat: 9.96389,
+        lng: 76.24281,
+        consiglio: "Llegar para el maquillaje: es la mitad del espectáculo.",
+      },
+      {
+        nome: "Basílica de Santa Cruz",
+        testo: "La catedral católica de Fort Kochi, reconstruida a finales del siglo XIX en el lugar de la primera iglesia portuguesa, que los británicos derribaron. Dentro hay columnas y techos pintados, vidrieras y un Vía Crucis de estilo indoeuropeo.",
+        come: "A pocos pasos de San Francisco, a pie. Ropa que cubra hombros y piernas.",
+        quando: "De día, fuera de las horas de misa.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        lat: 9.96529,
+        lng: 76.24358,
+      },
+      {
+        nome: "Princess Street y las casas coloniales",
+        testo: "Una de las primeras calles de Fort Kochi, con casas portuguesas y holandesas de dos plantas, balcones de madera y patios hoy ocupados por cafés, galerías y homestays. Junto con las calles de alrededor, es el barrio para pasear sin rumbo.",
+        come: "A pie o en bici desde San Francisco.",
+        quando: "Temprano por la mañana o a última hora de la tarde, con luz baja en las fachadas.",
+        tempo: "1 hora",
+        costo: "gratis",
+        lat: 9.96651,
+        lng: 76.24254,
+      },
+      {
+        nome: "El cementerio holandés",
+        testo: "Consagrado en 1724, es uno de los cementerios europeos más antiguos de la India, con lápidas de mercaderes y soldados de la Compañía Holandesa de las Indias Orientales. Se mira desde la verja: suele estar cerrado.",
+        come: "En el paseo marítimo, hacia la playa, a pie desde las redes chinas.",
+        quando: "De paso, camino del atardecer en la playa.",
+        tempo: "15 minutos",
+        costo: "gratis, visto desde fuera",
+        lat: 9.96419,
+        lng: 76.23827,
+      },
+      {
+        nome: "Museo indoportugués",
+        testo: "En el recinto del obispado, reúne el arte sacro de las iglesias católicas de Kochi: altares, estatuas, cruces procesionales y platería, con los cimientos del antiguo bastión portugués en el sótano.",
+        come: "Junto a la residencia del obispo, a 10 minutos a pie de San Francisco.",
+        quando: "En las horas de calor, como pausa a la sombra.",
+        tempo: "45 minutos",
+        orari: "Suele abrir de 10 a 13 y de 14 a 17, cerrado los lunes.",
+        lat: 9.96231,
+        lng: 76.24027,
+      },
+      {
+        nome: "Aspinwall House y la Bienal",
+        testo: "Un antiguo almacén comercial junto al mar, con muelles y naves del comercio de especias y coco. Es la sede principal de la Bienal de Kochi-Muziris, la gran muestra de arte contemporáneo que lleva a Fort Kochi artistas de todo el mundo.",
+        come: "En Calvetty Road, entre las redes chinas y Mattancherry, a pie o en bici.",
+        quando: "Durante la Bienal, que abre en diciembre y dura unos tres meses (la última edición, hasta el 31 de marzo de 2026); fuera de temporada puede estar cerrada.",
+        tempo: "2-3 horas durante la Bienal",
+        lat: 9.96861,
+        lng: 76.24655,
+        consiglio: "La entrada de la Bienal vale para varias sedes repartidas entre Fort Kochi y Mattancherry: conviene un día entero en bici.",
+      },
+      {
+        nome: "El templo jainista de Mattancherry",
+        testo: "El templo de los mercaderes guyaratíes, de mármol blanco, dedicado a Dharmanath. Es famoso por el rito de las palomas: hacia mediodía los fieles esparcen grano y cientos de pájaros bajan al patio.",
+        come: "En la zona de Gujarati Road, en tuk-tuk o a pie desde Jew Town. Se entra descalzo y sin objetos de cuero.",
+        quando: "Hacia mediodía, para el rito de las palomas.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        lat: 9.96113,
+        lng: 76.25399,
+      },
+      {
+        nome: "El ferry a Ernakulam",
+        testo: "Los ferris públicos y el Water Metro cruzan el puerto entre Fort Kochi y Ernakulam, pasando junto a portacontenedores, pesqueros e islas. Es la forma más barata de ver Kochi desde el agua.",
+        come: "Desde el muelle de Fort Kochi, cerca del Customs Jetty; el billete se compra en la taquilla.",
+        quando: "Al atardecer, a la vuelta.",
+        tempo: "20-30 minutos por trayecto",
+        lat: 9.96906,
+        lng: 76.25107,
+        consiglio: "En el ferry público se viaja con la gente del lugar: mejor alejarse del borde cuando va lleno.",
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Mattancherry: palacio y sinagoga (ni en viernes ni en sábado)",
-          "Jew Town y los almacenes de especias",
-          "Iglesia de San Francisco",
-          "Redes de pesca chinas al atardecer",
-          "Kathakali por la noche",
-        ]
+          "Mañana en Mattancherry: palacio y sinagoga (ni viernes ni sábado)",
+          "Jew Town y los almacenes de especias de Bazaar Road",
+          "Templo jainista hacia mediodía",
+          "Tarde en Fort Kochi: San Francisco, Santa Cruz, Princess Street",
+          "Redes chinas al atardecer",
+          "Kathakali por la noche, llegando para el maquillaje",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
-          "El día de arriba",
-          "Día 2: un curso de cocina de Kerala por la mañana",
-          "Galerías y cafés de Fort Kochi",
-          "Ferri a Ernakulam y vuelta al atardecer"
-        ]
-      }
+          "Día 1: el día anterior",
+          "Día 2: clase de cocina de Kerala por la mañana",
+          "Museo indoportugués y cementerio holandés",
+          "Galerías y cafés, o Aspinwall House durante la Bienal",
+          "Ferry a Ernakulam y vuelta al atardecer",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2: como arriba",
+          "Día 3: Hill Palace de Tripunithura por la mañana",
+          "Tarde en la playa de Cherai",
+          "O un día en los backwaters de Alleppey",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Fort Kochi",
         perChi: "quien quiere el barrio histórico",
-        testo: "Homestays y hoteles heritage en bungalows coloniales, todo a pie. Tranquilo por la noche, a una hora o más del aeropuerto."
+        testo: "Homestays y hoteles heritage en bungalows coloniales, todo a pie. Tranquilo por la noche, a una hora o más del aeropuerto.",
+        fascia: "30-120 €",
       },
       {
         nome: "Mattancherry",
         perChi: "quien quiere el barrio judío",
-        testo: "Pocas guesthouses cerca del palacio y de la sinagoga. Animado de día, se vacía por la noche."
+        testo: "Pocas guesthouses cerca del palacio y de la sinagoga. Animado de día, se vacía por la noche.",
+        fascia: "25-70 €",
       },
       {
         nome: "Ernakulam",
         perChi: "quien llega o sale en tren",
-        testo: "La ciudad moderna en tierra firme, con estación y hoteles de cadena. Cómoda para el transporte; a Fort Kochi se va en ferri."
-      }
+        testo: "La ciudad moderna en tierra firme, con estación y hoteles de cadena. Cómoda para el transporte; a Fort Kochi se va en ferri.",
+        fascia: "40-110 €",
+      },
     ],
     sapori: [
       {
@@ -3147,6 +3704,52 @@ export const destinazioniIndia: Destinazione[] = [
       "Especias y «antigüedades» de Jew Town: regatear, y desconfiar de las antigüedades certificadas.",
       "Mosquitos y casos de dengue en la estación de lluvias: repelente.",
     ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Fort Kochi?",
+        risposta: "Dos días completos: uno para Mattancherry y Fort Kochi, otro para galerías, cocina y el puerto. Con un tercero se añaden Tripunithura o Cherai.",
+      },
+      {
+        domanda: "¿Mejor dormir en Fort Kochi o en Ernakulam?",
+        risposta: "En Fort Kochi, donde todo se hace a pie y la noche es tranquila. Ernakulam solo compensa si se llega tarde en tren o se sale al amanecer.",
+      },
+      {
+        domanda: "¿Cuándo cierra la sinagoga Paradesi?",
+        risposta: "Los viernes, los sábados y en las fiestas judías; los demás días abre por la mañana y por la tarde con una larga pausa. El palacio de Mattancherry cierra los viernes.",
+      },
+      {
+        domanda: "¿Dónde ver kathakali?",
+        risposta: "En los centros culturales de Fort Kochi, como el Kerala Kathakali Centre, cada tarde. Conviene llegar antes para ver el maquillaje de los actores.",
+      },
+      {
+        domanda: "¿Cuándo es la Bienal de Kochi?",
+        risposta: "Se celebra más o menos cada dos años, de diciembre a marzo; la última edición fue del 12 de diciembre de 2025 al 31 de marzo de 2026.",
+      },
+      {
+        domanda: "¿Se puede nadar en Fort Kochi?",
+        risposta: "La playa de Fort Kochi no es apta para el baño. Para el mar hay que ir a Cherai o a Marari, con cuidado con las corrientes.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Hill Palace de Tripunithura",
+        distanza: "unos 15 km, 45 minutos-1 hora en coche",
+        come: "En taxi, o en metro hasta Tripunithura y luego tuk-tuk.",
+        testo: "La antigua residencia de los reyes de Kochi, un conjunto de pabellones en un gran parque, hoy museo con tronos, joyas, armas y manuscritos. Cierra los lunes.",
+      },
+      {
+        nome: "Playa de Cherai",
+        distanza: "unos 25 km, 1 hora en coche",
+        come: "En taxi, o ferry a Vypeen y luego bus o tuk-tuk hacia el norte.",
+        testo: "Una larga playa en la isla de Vypeen, con los backwaters detrás y redes chinas también aquí. Un mar para mirar más que para nadar: las corrientes son fuertes.",
+      },
+      {
+        nome: "Backwaters de Alleppey",
+        distanza: "unos 55 km, 1-2 horas en coche",
+        come: "En coche con conductor o en tren de Ernakulam a Alappuzha.",
+        testo: "Canoa por los canales, comida con karimeen y vuelta por la tarde; mejor aún con una noche en casa flotante.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Las redes de pesca chinas en el paseo marítimo de Fort Kochi al atardecer',
@@ -3160,6 +3763,8 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['patrimonio UNESCO', 'rovine', 'paesaggio'],
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Hampi fue la última parada del viaje por el Sur: llegué en el tren nocturno desde Bangalore y me fui de la misma manera dos días después. En medio, el bazar, el templo de Virupaksha, el atardecer en Matanga, el Centro Real y el templo de Vittala.",
     introduzione:
       'Las ruinas de Vijayanagara, capital de uno de los mayores imperios de la India, destruida en 1565, en un paisaje de bloques de granito, arrozales y bananales a lo largo del río Tungabhadra.',
     percheAndarci: "Por más de 1.600 restos de monumentos en un paisaje que no se parece a ningún otro, con un pueblo tranquilo y los atardeceres desde las colinas de roca.",
@@ -3173,10 +3778,12 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Recorrer en moto o en bici entre los grupos de monumentos', 'Un paseo en coracle por el Tungabhadra', 'Escalada sobre los bloques con guías locales'],
     doveDormire: 'Guesthouses sencillas en el bazar; resorts al otro lado del río en Virupapur Gaddi y Hanumanahalli, o cerca de Kamalapura.',
     doveMangiare: "Thalis y café en las terrazas; en el bazar la cocina es sobre todo vegetariana.",
-    comeArrivare: "Tren nocturno de Bangalore a Hosapete y luego 13 kilómetros en tuk-tuk; también está el aeropuerto de Vidyanagar (Jindal), con pocos vuelos nacionales.",
+    comeArrivare:
+      "Desde Bangalore lo clásico es el tren nocturno Hampi Express (16592), que sale de Bangalore City hacia las 21.50 y llega a Hosapete hacia las 7, unas 9 horas, con reserva en IRCTC. De Hosapete al bazar de Hampi hay 13 km, 20-30 minutos en tuk-tuk o bus local. El aeropuerto de Vidyanagar (Jindal), con pocos vuelos nacionales, está a una hora en coche. Desde Goa hay buses nocturnos.",
     comeSpostarsi: 'Moto, bicicleta o tuk-tuk por jornada.',
     periodoMigliore: 'octubre-febrero; desde marzo el calor sobre el granito se vuelve pesado.',
-    costi: "Vittala y recinto de las reinas con entrada ASI para extranjeros: tarifas en la taquilla, porque las fuentes de 2026 no coinciden. El resto del sitio es en gran parte de acceso libre. Coracle a precio a acordar.",
+    costi:
+      "Vittala y recinto de las reinas con entrada ASI para extranjeros (unas 600 rupias el Vittala, 2026); Virupaksha gratis con unas 50 rupias por la cámara; tuk-tuk por día 1.200-1.800 rupias. Presupuesto diario por persona en doble: 25-40 € con guesthouse en el bazar y moto, 60-100 € en resort al otro lado del río con tuk-tuk, desde 200 € en resorts de lujo.",
     erroriDaEvitare: ['Visitar los sitios a mediodía', 'Contar con la barca para Virupapur Gaddi en época de crecida'],
     luoghi: [
       {
@@ -3186,7 +3793,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "A primera hora, cuando los fieles llevan las ofrendas.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Ir temprano por la mañana y luego subir a Hemakuta, justo encima, para ver el gopuram desde arriba."
+        lat: 15.33517,
+        lng: 76.45868,
+        consiglio: "Ir temprano por la mañana y luego subir a Hemakuta, justo encima, para ver el gopuram desde arriba.",
       },
       {
         nome: "Templo de Vittala y el carro de piedra",
@@ -3196,7 +3805,9 @@ export const destinazioniIndia: Destinazione[] = [
         tempo: "1 hora y media",
         costo: "unas 600 rupias para extranjeros, tarifa sujeta a cambios (Karnataka Tourism, 2026); validez para el recinto de las reinas en la taquilla",
         url: "https://asi.nic.in/",
-        consiglio: "Ir a pie desde el bazar por la orilla del río: un par de kilómetros entre ruinas y rocas."
+        lat: 15.34229,
+        lng: 76.47547,
+        consiglio: "Ir a pie desde el bazar por la orilla del río: un par de kilómetros entre ruinas y rocas.",
       },
       {
         nome: "El Centro real",
@@ -3204,7 +3815,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A unos kilómetros del bazar, hacia Kamalapura, en bici, moto o tuk-tuk.",
         quando: "Por la mañana o a última hora de la tarde.",
         tempo: "2 horas",
-        consiglio: "Dejar tiempo para el Hazara Rama: los frisos son el libro ilustrado de la ciudad."
+        lat: 15.31596,
+        lng: 76.47085,
+        consiglio: "Dejar tiempo para el Hazara Rama: los frisos son el libro ilustrado de la ciudad.",
       },
       {
         nome: "El recinto de las reinas y los establos de los elefantes",
@@ -3214,7 +3827,9 @@ export const destinazioniIndia: Destinazione[] = [
         tempo: "1 hora",
         costo: "entrada ASI para extranjeros, tarifa en la taquilla",
         url: "https://asi.nic.in/",
-        consiglio: "Llevar la entrada en el bolsillo: la controlan."
+        lat: 15.32028,
+        lng: 76.47139,
+        consiglio: "Llevar la entrada en el bolsillo: la controlan.",
       },
       {
         nome: "Las colinas de Hemakuta y Matanga",
@@ -3223,7 +3838,9 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Hemakuta al atardecer; Matanga al amanecer, saliendo de noche con una linterna.",
         tempo: "1-2 horas",
         costo: "gratis",
-        consiglio: "No subir a Matanga solos de noche: id en grupo o con un guía local."
+        lat: 15.33434,
+        lng: 76.45997,
+        consiglio: "No subir a Matanga solos de noche: id en grupo o con un guía local.",
       },
       {
         nome: "El coracle en el Tungabhadra",
@@ -3232,45 +3849,136 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Cuando el río está en calma; con la crecida del monzón se paran.",
         tempo: "30-45 minutos",
         costo: "a acordar con el barquero",
-        consiglio: "Pedir siempre el chaleco salvavidas."
-      }
+        consiglio: "Pedir siempre el chaleco salvavidas.",
+      },
+      {
+        nome: "Los Ganesha de Sasivekalu y Kadalekalu",
+        testo: "Dos grandes Ganesha monolíticos en la ladera de Hemakuta: Sasivekalu, de unos 2,5 metros, bajo un pabellón abierto, y Kadalekalu, de casi 5 metros, dentro de un templo de columnas esbeltas. Los nombres vienen de la forma de la barriga, comparada con un grano de mostaza y un garbanzo.",
+        come: "En la carretera que sube del bazar hacia el Centro real, a pie.",
+        quando: "Por la mañana, junto con Hemakuta.",
+        tempo: "30 minutos",
+        costo: "gratis",
+        lat: 15.3314,
+        lng: 76.45997,
+      },
+      {
+        nome: "Templo de Krishna y su bazar",
+        testo: "Un templo de 1513, mandado construir por el rey Krishnadevaraya tras una victoria en Orissa, con un gopuram en parte derrumbado y frisos sobre la vida de Krishna. Delante corre un bazar de pórticos de piedra, con el estanque escalonado al lado.",
+        come: "En la carretera Hampi-Kamalapura, a 10 minutos a pie del bazar.",
+        quando: "Mañana o última hora de la tarde.",
+        tempo: "45 minutos",
+        costo: "gratis",
+        lat: 15.33023,
+        lng: 76.46038,
+      },
+      {
+        nome: "Lakshmi Narasimha y Badavilinga",
+        testo: "El Narasimha monolítico, de más de 6 metros, es la estatua más grande de Hampi: Vishnu con rostro de león, sentado bajo la capucha de una cobra de siete cabezas. Al lado, en una celda inundada por un canal, está el Badavilinga, un linga de tres metros que todavía se venera.",
+        come: "Un poco al sur del templo de Krishna, a pie o en bici.",
+        quando: "Por la mañana, cuando la luz entra en la celda del linga.",
+        tempo: "30 minutos",
+        costo: "gratis",
+        lat: 15.32932,
+        lng: 76.45905,
+      },
+      {
+        nome: "Templo de Achyutaraya y Sule Bazaar",
+        testo: "Un gran conjunto de 1534 escondido entre Matanga y el río, con dos recintos y columnas talladas. Delante se abre Sule Bazaar, una calle empedrada de casi un kilómetro, antaño el mercado más rico de la ciudad.",
+        come: "A pie desde el bazar de Hampi por el sendero del río, o bajando de Matanga.",
+        quando: "Temprano por la mañana: apenas hay gente.",
+        tempo: "1 hora",
+        costo: "gratis",
+        lat: 15.33196,
+        lng: 76.47009,
+        consiglio: "Se cruza en el camino a pie hacia el Vittala: es el tramo más bonito del recorrido.",
+      },
+      {
+        nome: "Templo de Hazara Rama",
+        testo: "El templo privado de los reyes, en el corazón del Centro real. Las paredes exteriores están cubiertas de frisos con procesiones de elefantes, caballos, bailarinas y soldados; dentro, los paneles cuentan el Ramayana escena a escena.",
+        come: "En el Centro real, a pie desde Mahanavami Dibba.",
+        quando: "Mañana o última hora de la tarde, con luz rasante sobre los frisos.",
+        tempo: "45 minutos",
+        costo: "gratis",
+        lat: 15.3178,
+        lng: 76.46887,
+      },
+      {
+        nome: "El templo subterráneo de Shiva",
+        testo: "Un templo construido por debajo del nivel del suelo, cerca del Centro real, con las salas a menudo inundadas por un canal: se camina por el agua hasta el santuario oscuro.",
+        come: "Al oeste del Hazara Rama, a pie o en bici. Descalzo.",
+        quando: "Con el agua baja, en invierno; tras el monzón el nivel sube.",
+        tempo: "20 minutos",
+        costo: "gratis",
+        lat: 15.31782,
+        lng: 76.46403,
+      },
+      {
+        nome: "El baño de la reina",
+        testo: "Un edificio cuadrado, sobrio por fuera, con una piscina dentro rodeada de un pasillo de arcos y balcones decorados. Probablemente era un baño de la corte, alimentado por un canal.",
+        come: "En la carretera a Kamalapura, al sur del Centro real.",
+        quando: "De día, junto con el Centro real.",
+        tempo: "20 minutos",
+        costo: "gratis",
+        lat: 15.31342,
+        lng: 76.47278,
+      },
+      {
+        nome: "Museo arqueológico de Kamalapura",
+        testo: "El pequeño museo del ASI con esculturas, armas, monedas y una gran maqueta del sitio, útil para entender cómo estaba organizada la capital antes de recorrerla.",
+        come: "En Kamalapura, 4 kilómetros al sur del bazar, en tuk-tuk o moto.",
+        quando: "El primer día, antes del Centro real.",
+        tempo: "45 minutos",
+        orari: "Suele abrir de 10 a 17, cerrado los viernes.",
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Vittala a la hora de apertura, llegando a pie por la orilla del río",
+          "Vittala a la apertura, llegando a pie por el río desde Achyutaraya",
           "Coracle en el Tungabhadra",
-          "Tarde en el Centro real y en el recinto de las reinas",
-          "Atardecer desde Hemakuta"
-        ]
+          "Tarde en el Centro real, Hazara Rama y el recinto de las reinas",
+          "Atardecer desde Hemakuta",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
           "Día 1: Virupaksha al amanecer, Vittala y el río, atardecer desde Hemakuta",
           "Día 2: amanecer desde Matanga",
-          "Centro real, Hazara Rama, Lotus Mahal y establos de los elefantes",
-          "Tarde en moto hacia los templos menores"
-        ]
-      }
+          "Museo de Kamalapura, Centro real, baño de la reina y Lotus Mahal",
+          "Tarde: los Ganesha, templo de Krishna, Narasimha y Badavilinga",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2: como arriba",
+          "Día 3: al otro lado del río, Anegundi y la colina de Anjanadri",
+          "Tarde entre arrozales en moto",
+          "Noche en Virupapur Gaddi",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Hampi Bazaar",
         perChi: "quien quiere tenerlo todo a pie",
-        testo: "Guesthouses sencillas en el pueblo bajo el Virupaksha, a pie de muchos monumentos. Tranquilo, cocina sobre todo vegetariana."
+        testo: "Guesthouses sencillas en el pueblo bajo el Virupaksha, a pie de muchos monumentos. Tranquilo, cocina sobre todo vegetariana.",
+        fascia: "15-40 €",
       },
       {
         nome: "Virupapur Gaddi y Hanumanahalli",
         perChi: "quien busca relax",
-        testo: "Al otro lado del río, entre arrozales y rocas, con resorts y cafés. El ferri depende del nivel del agua: con la crecida hay que dar un largo rodeo por carretera."
+        testo: "Al otro lado del río, entre arrozales y rocas, con resorts y cafés. El ferri depende del nivel del agua: con la crecida hay que dar un largo rodeo por carretera.",
+        fascia: "25-80 €",
       },
       {
         nome: "Kamalapura y Hosapete",
         perChi: "hoteles con piscina y comodidades",
-        testo: "Hoteles más grandes cerca del Centro real o en Hosapete, a 13 kilómetros. Cómodos; hace falta transporte para todo."
-      }
+        testo: "Hoteles más grandes cerca del Centro real o en Hosapete, a 13 kilómetros. Cómodos; hace falta transporte para todo.",
+        fascia: "50-150 €",
+      },
     ],
     sapori: [
       {
@@ -3295,6 +4003,52 @@ export const destinazioniIndia: Destinazione[] = [
       "Para conducir una moto hace falta un permiso válido para motocicletas, con el permiso internacional, y casco.",
       "El ferry a Virupapur Gaddi no funciona cuando el río va crecido.",
       "Visitad los sitios por la mañana y a última hora de la tarde: a mediodía el granito al sol quema.",
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Hampi?",
+        risposta: "Dos días completos para los monumentos principales; con tres se añaden Anegundi, Anjanadri y las ruinas menores sin prisa.",
+      },
+      {
+        domanda: "¿Mejor dormir en Hampi Bazaar o al otro lado del río?",
+        risposta: "El bazar deja todo a mano a pie; Virupapur Gaddi es más relajado pero depende de la barca, que con la crecida no pasa. Quien quiere piscina y comodidad elige Kamalapura o Hosapete.",
+      },
+      {
+        domanda: "¿Cuánto cuesta la entrada al Vittala?",
+        risposta: "Para extranjeros unas 600 rupias, según Karnataka Tourism en 2026; casi todo el resto del sitio es gratis. En la taquilla se pregunta si la misma entrada vale para el recinto de las reinas.",
+      },
+      {
+        domanda: "¿Cómo moverse entre los monumentos?",
+        risposta: "En moto, bicicleta o tuk-tuk por días; entre los grupos de templos hay algunos kilómetros. El tramo del bazar al Vittala por el río se hace a pie.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para Hampi?",
+        risposta: "De octubre a febrero. Desde marzo sube el calor y en abril a menudo se superan los 40 °C; con el monzón el río crece y las barcas se paran.",
+      },
+      {
+        domanda: "¿Cómo se llega a Hampi desde Bangalore?",
+        risposta: "Con el tren nocturno Hampi Express hasta Hosapete, unas 9 horas, y luego 13 km en tuk-tuk. Otra opción es volar al aeropuerto de Vidyanagar, a una hora.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Anegundi y la colina de Anjanadri",
+        distanza: "5-10 km al otro lado del río",
+        come: "En barca o coracle cuando funcionan; si no, en coche o moto por el puente de Kampli.",
+        testo: "Anegundi es un pueblo más antiguo que Hampi, con casas de barro y una cooperativa de artesanas que trenzan fibra de banano. Anjanadri, con unos 570 escalones, es para los devotos el lugar de nacimiento de Hanuman, y desde la cima se ve todo el sitio.",
+      },
+      {
+        nome: "Santuario de osos de Daroji",
+        distanza: "unos 15 km, 30-40 minutos en coche",
+        come: "En coche o tuk-tuk desde Hampi o Kamalapura, a última hora de la tarde.",
+        testo: "Una reserva para el oso bezudo entre colinas de granito: desde la torre de observación, al atardecer, los osos bajan a las rocas. Hacen falta prismáticos.",
+      },
+      {
+        nome: "Badami y Pattadakal",
+        distanza: "unos 140 km, 3 horas en coche",
+        come: "En coche con conductor para el día, mejor con una noche en Badami.",
+        testo: "Los templos en cueva de Badami y los de Pattadakal, patrimonio de la UNESCO, son casi mil años más antiguos que Hampi: la excursión larga para quien tiene tiempo.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],

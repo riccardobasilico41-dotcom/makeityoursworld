@@ -97,7 +97,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Bellas Artes. The façade is free to see; for the murals you buy the museum ticket.",
         "quando": "Morning for the museum; for the view from above, the top-floor bar of the building opposite, at sunset.",
         "tempo": "1.5 hours",
-        "costo": "95 MXN, about 5 € (2026, from secondary sources: the official site was unreachable).",
+        "costo": "95 MXN, about 5 € (2026).",
         "orari": "Tuesday to Sunday 10-18, ticket office until 17:30; closed on Mondays.",
         "lat": 19.4353,
         "lng": -99.1414

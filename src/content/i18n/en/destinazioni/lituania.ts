@@ -33,12 +33,12 @@ export const destinazioniLituania: Destinazione[] = [
     doveMangiare:
       "The national dish is cepelinai, big potato dumplings stuffed with meat or cheese. In summer the symbol of Lithuanian cooking is šaltibarščiai, a bright pink cold beetroot soup served with boiled potatoes. The kibinas, the stuffed pastry brought to Lithuania by the Karaim community of Trakai, can also be found in Vilnius. Several restaurants in the historic center do contemporary Lithuanian cooking at prices that are still low compared to Western Europe.",
     comeArrivare:
-      "Vilnius International Airport (VNO) is close to the center: train or public bus, or a taxi or ride-hailing app. There are direct low-cost flights from some Italian airports, seasonal or year-round; otherwise you connect through a European hub.",
+      "Vilnius International Airport (VNO) is close to the center: train or public bus, or a taxi or ride-hailing app. There are direct low-cost flights from some Italian airports, seasonal or year-round; otherwise you connect through a European hub. The airport is about 7 km away: the train reaches the central station in about 10 minutes (about €0.80, LTG Link app or machine, infrequent departures), buses 3G and 88 take 15-25 minutes with the city ticket from about €1 (Trafi or m.Ticket app), and Bolt costs about €8-12. From Riga the Lux Express bus takes about 4 hours, with fares from a few euros booked ahead up to €20-25.",
     comeSpostarsi:
       "You can walk the whole historic center. For the rest of the city, public buses and trolleybuses are cheap and frequent. For Trakai there's the regional train or the bus from the central station.",
     periodoMigliore:
       "May to September, for the mild weather and long days. June to August is the warmest and busiest season, with the solstice peak at the end of June. Winter (November to March) is cold, but the city holds up well and in December there are Christmas markets.",
-    costi: "a cheap city by Western European standards: admissions, restaurants and beer cost less than in Western Europe; current prices on the official websites.",
+    costi: "A cheap city by Western European standards, on a par with Riga. Daily budget per person with a shared double room: €45-65 on a tight budget (simple room, lunches at Halės market), €85-125 mid-range (3-4-star hotel in the Old Town, a couple of admissions, restaurant dinner), over €170 with a luxury hotel. 2026 admissions: Gediminas Tower €8, funicular €2-3, Palace of the Grand Dukes €16 full ticket, MO Museum €11; Trakai castles about €17.",
     erroriDaEvitare: [
       "Thinking that Lithuanian speakers understand Latvian (the language of nearby Riga): they're distantly related Baltic languages, but you can't understand one starting from the other",
       "Crossing Užupis in a hurry: the point of the place is to stop, read the Constitution Wall and wander aimlessly among the galleries",
@@ -71,6 +71,8 @@ export const destinazioniLituania: Destinazione[] = [
         ],
       },
     ],
+    miaEsperienza:
+      "Vilnius was the first stop of our Baltic capitals trip with friends: three days between the Old Town, Gediminas Tower, the Palace of the Grand Dukes and Užupis, then the bus to Riga.",
     luoghi: [
       {
         nome: "Vilnius Cathedral and Cathedral Square",
@@ -79,6 +81,9 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Morning, for the light and fewer crowds.",
         tempo: "45 minutes",
         costo: "free entry",
+        orari: "Square always accessible; crypts by guided tour only",
+        lat: 54.68589,
+        lng: 25.28779,
         consiglio: "Inside, don't miss the baroque Chapel of St Casimir."
       },
       {
@@ -87,9 +92,35 @@ export const destinazioniLituania: Destinazione[] = [
         come: "On foot from Cathedral Square, or by the hill lift.",
         quando: "Late afternoon, for the light on the red roofs of the Old Town.",
         tempo: "1.5 hours",
-        costo: "tower and lift tickets on the National Museum website",
+        costo: "Tower €8; funicular €2 one way, €3 return (2026)",
+        lat: 54.6867,
+        lng: 25.2907,
         url: "https://www.lnm.lt",
         consiglio: "Walk up and, if needed, come down by the lift."
+      },
+      {
+        nome: "Palace of the Grand Dukes and Museum of Occupations",
+        testo: "The Palace, rebuilt on the ruins of the royal castle, tells of the Grand Duchy. A short distance away, the Museum of Occupations and Freedom Fights, in the former KGB building, documents the Soviet period.",
+        come: "On foot: the Palace at the foot of the hill, the Museum a short way off in the centre.",
+        quando: "Morning; opening hours and closing days on the official website.",
+        tempo: "2 hours each",
+        costo: "Palace of the Grand Dukes: full ticket €16, single routes €4-10 (2026)",
+        orari: "Palace in summer (1 June-31 August) Mon-Wed and Sun 10-18, Thu-Sat 10-20; shorter hours the rest of the year, usually closed Monday. Occupation Museum: hours on the website",
+        lat: 54.68621,
+        lng: 25.28944,
+        url: "https://www.valdovurumai.lt/en/visit",
+        consiglio: "The cells in the KGB basement are hard to visit, but important."
+      },
+      {
+        nome: "Pilies Street and Town Hall Square",
+        testo: "Pilies gatvė is the city's oldest street, running south from Cathedral Square, lined with amber and linen stalls. It continues as Didžioji to the triangular Town Hall Square with its Neoclassical Town Hall: it is the spine of any Old Town visit.",
+        come: "On foot, from the Cathedral towards the Gate of Dawn.",
+        quando: "Morning for the façades, evening for the bars.",
+        tempo: "1 hour",
+        costo: "Free",
+        orari: "Always accessible",
+        lat: 54.68348,
+        lng: 25.28934
       },
       {
         nome: "Gate of Dawn",
@@ -98,6 +129,8 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Morning.",
         tempo: "30 minutes",
         costo: "free entry",
+        lat: 54.67431,
+        lng: 25.28956,
         consiglio: "It is a place of prayer: enter the chapel quietly."
       },
       {
@@ -107,6 +140,9 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Daytime; 1 April is the independence festival.",
         tempo: "1-2 hours",
         costo: "free entry",
+        orari: "District always accessible",
+        lat: 54.68063,
+        lng: 25.29543,
         consiglio: "Look for the Angel of Užupis, the symbolic statue."
       },
       {
@@ -116,6 +152,8 @@ export const destinazioniLituania: Destinazione[] = [
         quando: "Morning or evening.",
         tempo: "30-45 minutes",
         costo: "free entry",
+        lat: 54.68302,
+        lng: 25.29321,
         consiglio: "The best side for the photo is from the courtyard of the Bernardine church."
       },
       {
@@ -124,61 +162,126 @@ export const destinazioniLituania: Destinazione[] = [
         come: "On foot, on Pilies gatvė.",
         quando: "Weekday morning.",
         tempo: "1 hour",
+        orari: "Courtyards open Mon-Sat 9-18, ticket of a few euros",
+        lat: 54.68282,
+        lng: 25.28783,
         url: "https://www.vu.lt",
         consiglio: "In the Grand Courtyard stands the bell tower of St John's, rising above the centre."
       },
       {
-        nome: "Palace of the Grand Dukes and Museum of Occupations",
-        testo: "The Palace, rebuilt on the ruins of the royal castle, tells of the Grand Duchy. A short distance away, the Museum of Occupations and Freedom Fights, in the former KGB building, documents the Soviet period.",
-        come: "On foot: the Palace at the foot of the hill, the Museum a short way off in the centre.",
-        quando: "Morning; opening hours and closing days on the official website.",
-        tempo: "2 hours each",
-        url: "https://www.genocid.lt",
-        consiglio: "The cells in the KGB basement are hard to visit, but important."
+        nome: "MO Museum",
+        testo: "The museum of modern Lithuanian art from 1960 to today, in a white building designed by Daniel Libeskind and opened in 2018. The collection shows how artists worked under Soviet censorship and after; there is also a terrace above the entrance.",
+        come: "A 10-minute walk from Town Hall Square, on Pylimo gatvė.",
+        quando: "Afternoon or evening: it closes at 20:00.",
+        tempo: "1.5-2 hours",
+        costo: "€11, concession €6, family €22 (2026)",
+        orari: "Daily 10-20, closed Tuesday",
+        lat: 54.67935,
+        lng: 25.2775,
+        url: "https://mo.lt/en/"
+      },
+      {
+        nome: "Church of St Peter and St Paul",
+        testo: "Outside the centre, in the Antakalnis district, it has one of Europe's most extraordinary Baroque interiors: some two thousand white stucco figures, saints, angels, battle scenes and sea monsters, made by Italian artists in the 17th century. You would never guess it from outside.",
+        come: "About 25 minutes on foot from the Cathedral along the river, or bus to Antakalnis.",
+        quando: "In the morning, with light coming through the windows.",
+        tempo: "45 minutes",
+        costo: "Free",
+        lat: 54.69412,
+        lng: 25.30621,
+        consiglio: "Combine it with Kalnai Park and the Hill of Three Crosses, halfway there."
+      },
+      {
+        nome: "Hill of Three Crosses",
+        testo: "Three white crosses on the hill in Kalnai Park, rebuilt in 1989 after the Soviet authorities blew up the originals. It is one of the widest viewpoints over the Old Town, less crowded than Gediminas Tower.",
+        come: "On foot from Kalnai Park, a 15-minute climb on woodland paths.",
+        quando: "At sunset.",
+        tempo: "1 hour",
+        costo: "Free",
+        orari: "Park always open",
+        lat: 54.68674,
+        lng: 25.29755
+      },
+      {
+        nome: "Literatų gatvė",
+        testo: "A narrow Old Town street whose wall is covered with hundreds of small artworks, plaques and objects dedicated to writers linked to Lithuania, from Mickiewicz to Dostoevsky. You walk through it in minutes, but it is worth a close look.",
+        come: "On foot, between Pilies and Didžioji.",
+        quando: "During the day.",
+        tempo: "15 minutes",
+        costo: "Free",
+        orari: "Always accessible",
+        lat: 54.68226,
+        lng: 25.2901
+      },
+      {
+        nome: "Halės covered market",
+        testo: "The city's oldest covered market, in a late 19th-century iron and glass hall near the Gate of Dawn. Among stalls of meat, smoked fish, cheese and black bread are small bars and kiosks serving good cheap lunches.",
+        come: "A 5-minute walk from the Gate of Dawn.",
+        quando: "In the morning, when the stalls are full.",
+        tempo: "45 minutes",
+        costo: "Free",
+        lat: 54.67337,
+        lng: 25.28646
+      },
+      {
+        nome: "Bernardine Garden (Bernardinų sodas)",
+        testo: "The restored park between the Bernardine church and the Vilnia river, with flowerbeds, a musical fountain and shady benches. It is where locals spend summer afternoons, steps from the Old Town and Užupis.",
+        come: "A 2-minute walk from St Anne's Church.",
+        quando: "A summer afternoon; in autumn for the colours.",
+        tempo: "30-45 minutes",
+        costo: "Free",
+        lat: 54.68369,
+        lng: 25.29719
       }
     ],
     programmi: [
       {
         titolo: "1 day",
         tappe: [
-          "Morning: Cathedral and Gediminas Hill",
-          "Lunch with cepelinai",
-          "Afternoon: Gate of Dawn and Pilies gatvė",
-          "Evening: Užupis"
+          "Morning: Cathedral Square and the climb to Gediminas Tower",
+          "Palace of the Grand Dukes",
+          "Lunch on Pilies Street or at Halės market",
+          "Afternoon: University, Literatų gatvė, St Anne's Church and the Bernardine Garden",
+          "Sunset in Užupis"
         ]
       },
       {
         titolo: "2 days",
         tappe: [
           "Day 1 as above",
-          "Day 2: University and St Anne's",
-          "Palace of the Grand Dukes",
-          "KGB Museum"
+          "Day 2 morning: Gate of Dawn and Town Hall Square",
+          "Occupation Museum",
+          "Afternoon: MO Museum (not on Tuesdays)",
+          "Evening: Hill of Three Crosses at sunset"
         ]
       },
       {
         titolo: "3 days",
         tappe: [
-          "Days 1-2 as above",
-          "Day 3: trip to Trakai (see entry)"
+          "Days 1 and 2 as above",
+          "Day 3 morning: Church of St Peter and St Paul in Antakalnis",
+          "Afternoon: Trakai by train, the island castle and kibinai in the Karaite quarter"
         ]
       }
     ],
     zone: [
       {
         nome: "Old Town",
+        testo: "Cobbled streets and evening life; pricey and noisy at weekends.",
         perChi: "Those who want to be on foot near everything",
-        testo: "Cobbled streets and evening life; pricey and noisy at weekends."
+        fascia: "€70-140"
       },
       {
         nome: "Užupis",
+        testo: "Quiet, a few minutes on foot; few hotels.",
         perChi: "Those seeking an artists' atmosphere",
-        testo: "Quiet, a few minutes on foot; few hotels."
+        fascia: "€60-110"
       },
       {
         nome: "Naujamiestis",
+        testo: "A nineteenth-century district just outside the centre, linked on foot or by bus.",
         perChi: "Those who want to save",
-        testo: "A nineteenth-century district just outside the centre, linked on foot or by bus."
+        fascia: "€50-90"
       }
     ],
     sapori: [
@@ -203,6 +306,58 @@ export const destinazioniLituania: Destinazione[] = [
       "Taxis: use a recognised app or a registered taxi with the meter on.",
       "Pickpockets in busy places and on public transport; in bars do not leave drinks unattended.",
       "In winter pavements are icy: suitable shoes."
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Vilnius?",
+        risposta: "Two days for the Old Town, Užupis, the main museums and a sunset from the Hill of Three Crosses. With three days you add Trakai, the best day trip from the capital."
+      },
+      {
+        domanda: "Is Vilnius expensive?",
+        risposta: "No: together with Riga it is among the cheapest capitals in the European Union. Lunch at the market or in a simple restaurant costs little more than €10, and many of the main sights, churches and districts, are free."
+      },
+      {
+        domanda: "How do you get from Vilnius airport to the centre?",
+        risposta: "By train in about 10 minutes to the central station (about €0.80), by bus 3G or 88 in 15-25 minutes, or by Bolt for about €8-12."
+      },
+      {
+        domanda: "Can you visit Trakai as a day trip?",
+        risposta: "Yes, half a day and a train or bus of about 35 minutes are enough. In low season the castle has shorter hours and closing days: check them first."
+      },
+      {
+        domanda: "What is the Republic of Užupis?",
+        risposta: "It is the artists' district across the Vilnia river, which declared itself a republic on 1 April 1997, with a tongue-in-cheek constitution posted in dozens of languages on Paupio street. No documents are needed to enter: it is a celebration, not a border."
+      },
+      {
+        domanda: "When should you go to Vilnius?",
+        risposta: "May to September for the weather and outdoor tables; December for the Christmas tree on Cathedral Square. Winter is very cold, but the city is quiet and even cheaper."
+      }
+    ],
+    gite: [
+      {
+        nome: "Trakai",
+        distanza: "about 28 km, 35 minutes by train",
+        come: "Regional train from the central station or bus from the coach station next door.",
+        testo: "The former capital of the Grand Duchy, with the red-brick Gothic castle on an island in Lake Galvė and the Karaite quarter with wooden houses and kibinai. Combined castles ticket about €17 in 2026."
+      },
+      {
+        nome: "Kaunas",
+        distanza: "about 100 km, 1-1.5 hours by train",
+        come: "Frequent trains from Vilnius central station, or bus.",
+        testo: "The country's second city and interwar capital, with an Old Town on the river, the castle and dozens of 1920s-30s modernist buildings, a UNESCO site since 2023."
+      },
+      {
+        nome: "Europos Parkas",
+        distanza: "about 20 km, 30 minutes by car",
+        come: "By car or taxi; public transport links are awkward.",
+        testo: "An open-air museum of contemporary art in the woods, with over a hundred sculptures, near the spot once calculated as the geographical centre of Europe."
+      },
+      {
+        nome: "Hill of Crosses",
+        distanza: "about 210 km, 2.5-3 hours by car",
+        come: "By car, on an organised tour, or by train to Šiauliai and then bus or taxi.",
+        testo: "A small hill covered with hundreds of thousands of crosses left by pilgrims, even when the Soviets had them removed. It is far: it makes more sense as a stop on the way to Riga than as a day trip."
+      }
     ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
     tripSlugs: ['capitali-baltiche'],
@@ -245,6 +400,8 @@ export const destinazioniLituania: Destinazione[] = [
       "Stopping at the footbridge without going into the museum: the inside rooms, including those on the history of the Grand Duchy, are worth the ticket",
       "Thinking you'll get by in a few minutes: between getting there, the visit and the return you need a full half day",
     ],
+    miaEsperienza:
+      "We went to Trakai from Vilnius for an afternoon during our Baltic capitals trip with friends: the island castle with its museum and tower, and kibinai before heading back in the evening.",
     luoghi: [
       {
         nome: "Trakai Island Castle",

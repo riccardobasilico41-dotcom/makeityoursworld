@@ -34,11 +34,11 @@ export const destinazioniSvezia: Destinazione[] = [
     doveMangiare:
       "During the transit stops I only had a few hours and have no places to recommend. Most of the city's offerings are in Södermalm and Östermalm, from fast-casual to high-end restaurants.",
     comeArrivare:
-      "International flight to Stockholm Arlanda. For those arriving as the second stop of the \"Nordic Capitals\" itinerary, from Copenhagen there is the direct SJ train (about 5 hours) or the flight (about 1 hour).",
+      "International flight to Stockholm Arlanda. For those arriving as the second stop of the \"Nordic Capitals\" itinerary, from Copenhagen there is the direct SJ train (about 5 hours) or the flight (about 1 hour). From Arlanda the Arlanda Express reaches Central Station in about 20 minutes (about SEK 349, more if bought on board); the SL commuter train with airport supplement and the Flygbussarna coaches are slower and cheaper. Taxis are best taken only from the big companies, at a fixed fare.",
     comeSpostarsi: "For airport-hotel transit alone it isn't needed. For a full stay there are the metro (Tunnelbana), buses and city ferries with an integrated SL ticket; the old town is also easy to walk.",
     periodoMigliore: 'May-September for the weather and for archipelago outings, which work better with the long days',
     costi:
-      "Single SL ticket 43 SEK, day pass 180 SEK. Vasamuseet 195-240 SEK depending on the season. ABBA The Museum 269-349 SEK. Archipelago trip from about 375 SEK (about €33) for a guided 2-2.5 hour outing.",
+      "Single SL ticket 43 SEK, day pass 180 SEK. Vasamuseet 195-240 SEK depending on the season. ABBA The Museum 269-349 SEK. Archipelago trip from about 375 SEK (about €33) for a guided 2-2.5 hour outing. Daily budget per person, excluding accommodation: low €50-70 (supermarket, transport pass, one museum), mid €90-130 (lunch out, average dinner, two entries), high over €180.",
     erroriDaEvitare: [],
     miaEsperienza:
       "For me Stockholm was just a logistical stop, on the way out and on the way back: just enough time to sleep between one flight and the next.",
@@ -49,6 +49,10 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "On foot from the central station or by metro to Gamla stan.",
         quando: "Early morning, before the groups; the changing of the guard is at noon on the days given on the royal site.",
         tempo: "2-3 hours",
+        costo: "Streets free; Royal Palace SEK 220 for adults, SEK 240 from May to September (2026), about €20",
+        orari: "Royal Palace open daily 10am-4pm in low season (November 2026); longer hours in summer, see the website",
+        lat: 59.325,
+        lng: 18.07056,
         url: "https://www.kungligaslotten.se",
         consiglio: "Mårten Trotzigs gränd and Västerlånggatan are the most photographed lanes: go at dawn."
       },
@@ -59,6 +63,9 @@ export const destinazioniSvezia: Destinazione[] = [
         quando: "Weekday morning, when it is less busy.",
         tempo: "2 hours",
         costo: "195 SEK adults in low season (2026), more in summer",
+        orari: "Daily: 8:30am-6pm in summer, 10am-5pm the rest of the year, Wednesdays until 8pm",
+        lat: 59.32807,
+        lng: 18.09139,
         url: "https://www.vasamuseet.se",
         consiglio: "Book your ticket online in high season."
       },
@@ -68,6 +75,9 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "On foot from the station; the interior can only be seen on a guided tour.",
         quando: "Morning; tour and tower times on the official website, where tickets are sold.",
         tempo: "1 hour",
+        costo: "Guided tour of about 45 minutes, just over €10; tower (May-September) on a separate ticket",
+        lat: 59.3275,
+        lng: 18.055,
         url: "https://stadshuset.stockholm",
         consiglio: "Check hours and tour availability on the website before going."
       },
@@ -77,8 +87,70 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "Tram 7 or ferry from the centre. The ticket covers the park, not the separate attractions.",
         quando: "Spring and summer; in winter there are Christmas markets.",
         tempo: "3-4 hours",
+        orari: "June to late August 10am-6pm; in winter weekdays 10am-3pm, weekends 10am-4pm (2026-27 calendar)",
+        lat: 59.32418,
+        lng: 18.102,
         url: "https://www.skansen.se",
         consiglio: "Go up the hill for the view over the city; in December there is a Christmas market."
+      },
+      {
+        nome: "ABBA The Museum",
+        testo: "The museum of the world's most famous Swedish pop group, with costumes, gold records and interactive rooms where you sing and dance to their songs. It works even if you are not a fan: cheerful, well made and quick to see.",
+        come: "On Djurgården, a few minutes' walk from the Vasa Museum; tram 7 from the centre.",
+        quando: "At opening or after 3pm: it is busiest between 10am and 3pm.",
+        tempo: "1.5-2 hours",
+        costo: "SEK 269-349 depending on the day, about €24-31",
+        orari: "Daily 10am-6pm, entry by 30-minute time slot",
+        lat: 59.325,
+        lng: 18.09639,
+        url: "https://abbathemuseum.com",
+        consiglio: "Buy online: it is cheaper and you pick your slot."
+      },
+      {
+        nome: "Nobel Prize Museum",
+        testo: "Inside the old Stock Exchange on one side of Stortorget, it tells the story of the laureates and their discoveries with objects, videos and short stories. It is small and fits easily into a walk around Gamla Stan.",
+        come: "On Stortorget square, Gamla Stan; metro to Gamla stan.",
+        quando: "Friday evening, open until 9pm, or on a rainy day.",
+        tempo: "1 hour",
+        costo: "SEK 160 for adults (2026), about €14; free under 18",
+        orari: "Tue-Sun 11am-5pm, Fridays until 9pm; closed Mondays in low season (November 2026)",
+        lat: 59.32522,
+        lng: 18.07083,
+        url: "https://nobelprizemuseum.se/en/"
+      },
+      {
+        nome: "Södermalm and Monteliusvägen",
+        testo: "The island south of the centre, with cafés, vintage shops and the city's youngest neighbourhoods. The Monteliusvägen path runs along the cliffs and gives the best view over Gamla Stan, Riddarholmen and City Hall.",
+        come: "Metro to Slussen or Mariatorget, then a 10-minute uphill walk.",
+        quando: "At sunset, with the light on the water.",
+        tempo: "2-3 hours",
+        costo: "Free",
+        orari: "Path always open",
+        lat: 59.32072,
+        lng: 18.06031
+      },
+      {
+        nome: "Fotografiska",
+        testo: "A museum of contemporary photography in a former customs building on the Södermalm waterfront, with three or four exhibitions that change during the year. The top-floor café has one of the best views over the water and Djurgården.",
+        come: "A 10-minute walk from Slussen along Stadsgårdshamnen.",
+        quando: "In the evening: it stays open late.",
+        tempo: "1.5-2 hours",
+        orari: "Open until 11pm (2026)",
+        lat: 59.31779,
+        lng: 18.08472,
+        url: "https://www.fotografiska.com/sto/en/"
+      },
+      {
+        nome: "Moderna Museet (Skeppsholmen)",
+        testo: "The modern art museum on Skeppsholmen island, with a collection ranging from Picasso and Dalí to Rauschenberg and Warhol. Outside, in the garden, stand the colourful sculptures of Niki de Saint Phalle.",
+        come: "On foot from the centre over the Skeppsholmsbron bridge, or bus 65.",
+        quando: "Friday 6-8pm, when entry is free.",
+        tempo: "2 hours",
+        costo: "SEK 170 (2026), about €15; free up to age 18",
+        orari: "10am-6pm, Tuesdays and Fridays until 8pm (2026)",
+        lat: 59.32639,
+        lng: 18.08361,
+        url: "https://www.modernamuseet.se/stockholm/en/"
       },
       {
         nome: "Drottningholm Palace",
@@ -86,6 +158,10 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "On the island of Lovön, outside the city; how to get there by public transport on the official website.",
         quando: "Spring and summer, for the gardens.",
         tempo: "half a day",
+        costo: "SEK 170 for adults (2026), about €15",
+        orari: "Off season Saturdays and Sundays only, 10am-4pm (November 2026); summer calendar on the website",
+        lat: 59.32167,
+        lng: 17.88694,
         url: "https://www.kungligaslotten.se",
         consiglio: "Leave time for the gardens: they are the most pleasant part of the visit."
       },
@@ -95,52 +171,89 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "Scheduled boats from the centre; tickets and timetables on the Waxholmsbolaget website.",
         quando: "May-September, with the long days.",
         tempo: "full day",
+        costo: "Guided 2-2.5 hour trip from about SEK 375, about €33",
+        lat: 59.38778,
+        lng: 18.73581,
         url: "https://www.waxholmsbolaget.se",
         consiglio: "If you are short on time, the Fjäderholmarna islands are close to the centre."
+      },
+      {
+        nome: "Östermalms Saluhall",
+        testo: "The historic covered market of 1888, recently restored, with stalls of fish, cheese, reindeer meat and small restaurants. The right place for a lunch of herring and prawns without booking.",
+        come: "Metro to Östermalmstorg.",
+        quando: "At lunchtime on weekdays.",
+        tempo: "1 hour",
+        costo: "Free entry; lunch roughly €15-30",
+        orari: "Mon-Fri 9:30am-7pm, Saturday 9:30am-5pm; some restaurants open in the evening",
+        lat: 59.33597,
+        lng: 18.07809,
+        url: "https://ostermalmshallen.se/en/"
+      },
+      {
+        nome: "The metro art stations",
+        testo: "More than ninety metro stations are decorated by artists, so the network is called the world's longest art gallery. T-Centralen, with its blue vines on the bare rock, Kungsträdgården and Solna centrum are the best known.",
+        come: "With a normal SL ticket; the blue line has the most striking stations.",
+        quando: "Outside rush hour, to take photos without crowds.",
+        tempo: "1-2 hours",
+        costo: "SL single ticket SEK 43, about €4; day pass SEK 180",
+        lat: 59.33167,
+        lng: 18.06083
       }
     ],
     programmi: [
       {
         titolo: "1 day",
         tappe: [
-          "Morning: Gamla Stan and Royal Palace",
-          "Lunch with fika in Gamla Stan",
-          "Afternoon: Vasa Museum",
-          "Evening: stroll in Södermalm"
+          "Morning: Gamla Stan, Stortorget and the Royal Palace",
+          "Nobel Prize Museum or fika in a Gamla Stan café",
+          "Afternoon: Vasa Museum on Djurgården",
+          "Sunset from Monteliusvägen and dinner in Södermalm"
         ]
       },
       {
         titolo: "2 days",
         tappe: [
           "Day 1 as above",
-          "Day 2: Stadshuset",
-          "Skansen and Djurgården",
-          "Dinner in Östermalm"
+          "Day 2: guided tour of the Stadshuset",
+          "Lunch at Östermalms Saluhall",
+          "Afternoon: Skansen or ABBA The Museum",
+          "Evening: Fotografiska, open late"
         ]
       },
       {
         titolo: "3 days",
         tappe: [
           "Days 1-2 as above",
-          "Day 3: Drottningholm or the archipelago by boat"
+          "Day 3 in summer: boat into the archipelago (Vaxholm or Fjäderholmarna)",
+          "Day 3 in winter: Drottningholm (at weekends) and Moderna Museet",
+          "Back via a tour of the metro art stations"
         ]
       }
     ],
     zone: [
       {
         nome: "Gamla Stan",
+        testo: "Cobbled lanes and venues, but small rooms and expensive. Evening noise in the main streets.",
         perChi: "Those who want the old-town charm",
-        testo: "Cobbled lanes and venues, but small rooms and expensive. Evening noise in the main streets."
+        fascia: "€150-280"
       },
       {
         nome: "Norrmalm (near the station)",
+        testo: "Handy for trains and the airport. Little atmosphere, many offices.",
         perChi: "Those short of time or leaving early",
-        testo: "Handy for trains and the airport. Little atmosphere, many offices."
+        fascia: "€120-220"
       },
       {
         nome: "Södermalm",
+        testo: "An island with restaurants, old pubs and the view from Fjällgatan; a few minutes by metro from the centre.",
         perChi: "Those looking for bars and young districts",
-        testo: "An island with restaurants, old pubs and the view from Fjällgatan; a few minutes by metro from the centre."
+        fascia: "€100-200"
+      },
+      {
+        nome: "Östermalm",
+        testo: "Wide avenues, the covered market and good restaurants; walking distance from Djurgården and the centre. The most expensive area.",
+        perChi: "Those who want an elegant, quiet neighbourhood",
+        fascia: "€160-300"
       }
     ],
     sapori: [
@@ -166,6 +279,52 @@ export const destinazioniSvezia: Destinazione[] = [
       "Drinks above 3.5% alcohol are sold only at Systembolaget, which is closed on Sundays and public holidays.",
       "From Arlanda airport the Arlanda Express reaches the centre in 18 minutes, leaving every 12-15 minutes; there are also other trains and buses: taxis without an agreed fare can be very expensive.",
       "Pickpockets in the central station and on the metro at rush hour."
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Stockholm?",
+        risposta: "Two days are enough for Gamla Stan, the Vasa Museum, the Stadshuset and Skansen. With three days you add the archipelago in summer or Drottningholm."
+      },
+      {
+        domanda: "How do you get from Arlanda airport to the centre?",
+        risposta: "The Arlanda Express reaches Central Station in about 20 minutes and costs about SEK 349. The SL commuter train and Flygbussarna coaches are slower but cheaper."
+      },
+      {
+        domanda: "Is Stockholm expensive?",
+        risposta: "Less than Oslo and Copenhagen, but more than Italy: a simple meal costs €12-20, an average dinner €35-45 per person, a beer €6-9."
+      },
+      {
+        domanda: "Do you need to book the Vasa Museum?",
+        risposta: "It is not compulsory, but in summer and at weekends buying online saves queuing. ABBA The Museum only works with time slots."
+      },
+      {
+        domanda: "Do you need cash in Sweden?",
+        risposta: "Hardly ever: cards are accepted everywhere, metro and stalls included. Some places do not take cash at all."
+      },
+      {
+        domanda: "When is the best time to visit Stockholm?",
+        risposta: "From May to September, with very long days and boats to the archipelago. December has Christmas markets at Skansen and in Gamla Stan, but it gets dark early."
+      }
+    ],
+    gite: [
+      {
+        nome: "Uppsala",
+        distanza: "40 minutes by train",
+        come: "Frequent SJ and regional trains from Central Station.",
+        testo: "Scandinavia's oldest university town, with the largest Gothic cathedral in the north, the castle and the Viking burial mounds of Gamla Uppsala a few kilometres away."
+      },
+      {
+        nome: "Vaxholm",
+        distanza: "1 hour by boat",
+        come: "Waxholmsbolaget boats from Strömkajen, or bus 670 from Tekniska högskolan.",
+        testo: "The closest and easiest archipelago town, with wooden houses, a fortress on the islet in front of the harbour and cafés on the water."
+      },
+      {
+        nome: "Sigtuna",
+        distanza: "50 km",
+        come: "Commuter train to Märsta, then bus 570 or 575.",
+        testo: "Sweden's oldest town, founded around 980, with a main street of low houses, ruins of medieval churches and rune stones along the roads."
+      }
     ],
     esperienzeSlugs: ['vasamuseet-stoccolma', 'gamla-stan-passeggiata', 'abba-museum-stoccolma', 'arcipelago-stoccolma-in-barca'],
     tripSlugs: ['lapponia-svedese-abisko', 'capitali-nordiche'],

@@ -1068,12 +1068,13 @@ export const destinazioniMalesia: Destinazione[] = [
     doveMangiare:
       "The plateau has its own food identity tied to the climate: steamboat, the pot of boiling broth in the middle of the table where vegetables and meat are cooked, is what everyone eats in the evening because it's cold, and it's the right thing to do. For the rest, tea and scones in the plantations' tea rooms (a colonial legacy that here isn't a pose) and strawberries in every possible form, including those it would be better to avoid.",
     comeArrivare:
-      "Bus from Kuala Lumpur or from Penang and Ipoh. The last stretch is a mountain road with many hairpin bends: anyone prone to carsickness feels it, and it's no small detail on a long trip.",
+      "Buses from Kuala Lumpur (TBS terminal) reach Tanah Rata in about 4 hours, from Ipoh in about 2 and from Penang in 4-5; book ahead at weekends. By ETS train you reach Ipoh or Tapah Road, then a taxi or bus up the hill. The last stretch is a mountain road with many hairpins: those prone to car sickness will feel it.",
     comeSpostarsi:
       "Distances between points of interest are awkward on foot and public transport is sparse: almost everyone joins a half-day tour or takes a taxi for the day. Grab works intermittently.",
     periodoMigliore:
       'all year, with cool, stable temperatures. Rain is frequent in the afternoon in every season: outings should be scheduled for the morning.',
-    costi: "entry to the plantations free or nominal; half-day tours are paid, with prices to compare among the Tanah Rata agencies.",
+    costi:
+      "BOH plantations free to enter, Mossy Forest about RM30 for foreigners, trails free; compare half-day tours between the Tanah Rata agencies. Daily budget per person in a double room: €25-40 with a Tanah Rata guesthouse and local food, €50-80 with a hotel in Brinchang and guided tours, from €120 in colonial resorts.",
     erroriDaEvitare: [
       'Going on a weekend or during Malaysian school holidays: the plateau is a much-loved domestic destination and the hairpin roads turn into a line of cars',
       "Bringing nothing warm: here, the only place on the trip, the evening is freezing",
@@ -1089,7 +1090,12 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "By car or tour from Tanah Rata or Brinchang. Narrow mountain roads.",
         quando: "In the morning, with less mist and fewer people.",
         tempo: "2 hours",
-        consiglio: "Have tea on the terrace and look at the hills for half an hour: it is the best part."
+        costo: "free entry; tea and cakes extra",
+        orari: "BOH Sungei Palas: 8.30am-4.30pm, closed on Mondays; open on some holidays (official BOH site).",
+        url: "https://bohtea.com/visit-our-tea-gardens/",
+        lat: 4.51638,
+        lng: 101.41625,
+        consiglio: "Have tea on the terrace and look at the hills for half an hour: it is the best part.",
       },
       {
         nome: "Mossy Forest on Gunung Brinchang",
@@ -1097,7 +1103,12 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "By 4x4 or guided tour from Tanah Rata or Brinchang. Ask to be taken to the real part, not just to the boardwalk next to the tower car park.",
         quando: "Early in the morning: the mist rises by midday.",
         tempo: "2-3 hours",
-        consiglio: "Prefer a guided tour with an extra hour: the cheapest tours only go to the crowded boardwalk."
+        costo: "about RM30 for foreign adults up to the end of the boardwalk (about €6, rate reported by tour operators)",
+        orari: "Daily 8am-5pm (Pahang Forestry Department).",
+        url: "https://www.forestry.gov.my/en/pahang/taman-eko-rimba-mossy",
+        lat: 4.50064,
+        lng: 101.38919,
+        consiglio: "Prefer a guided tour with an extra hour: the cheapest tours only go to the crowded boardwalk.",
       },
       {
         nome: "Strawberry farms and greenhouses",
@@ -1105,7 +1116,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "By car or tour, along Brinchang's main road.",
         quando: "In the morning.",
         tempo: "1 hour",
-        consiglio: "Do not expect untouched landscape: many areas are covered by plastic greenhouses."
+        lat: 4.49618,
+        lng: 101.38628,
+        consiglio: "Do not expect untouched landscape: many areas are covered by plastic greenhouses.",
       },
       {
         nome: "Brinchang and the market",
@@ -1113,38 +1126,122 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "On foot in Brinchang or by bus from Tanah Rata.",
         quando: "Late afternoon and evening.",
         tempo: "2 hours",
-        consiglio: "Bring a sweater: it is cold in the evening."
-      }
+        costo: "free",
+        lat: 4.491,
+        lng: 101.3885,
+        consiglio: "Bring a sweater: it is cold in the evening.",
+      },
+      {
+        nome: "Kea Farm market",
+        testo: "A row of stalls along the main road below the greenhouses, with strawberries, sweet corn, sweet potatoes, plants, honey and souvenirs. It is the busiest market for highland produce.",
+        come: "On the road between Brinchang and the Sungei Palas plantation, by car or with tours.",
+        quando: "In the morning, with freshly picked produce.",
+        tempo: "45 minutes",
+        costo: "free",
+        lat: 4.50438,
+        lng: 101.4067,
+      },
+      {
+        nome: "Sam Poh Temple",
+        testo: "A Chinese Buddhist temple on a hill above Brinchang, with golden statues, stone lions and a view over the town's roofs and the greenhouses.",
+        come: "Uphill on foot from Brinchang, 10-15 minutes.",
+        quando: "In the morning or at sunset.",
+        tempo: "30 minutes",
+        costo: "free entry",
+        lat: 4.48885,
+        lng: 101.39112,
+      },
+      {
+        nome: "Time Tunnel",
+        testo: "A small private museum full of everyday objects from 20th-century Malaysia, reconstructed shops and photos of the colonial highlands. Naive but fun when it rains.",
+        come: "On the edge of Brinchang, towards Kea Farm.",
+        quando: "On rainy afternoons.",
+        tempo: "1 hour",
+        lat: 4.49729,
+        lng: 101.39526,
+      },
+      {
+        nome: "Robinson Falls and Trail 9",
+        testo: "A waterfall at the end of a short forest path, a few minutes from Tanah Rata. From here Trail 9A drops through the forest to the BOH Habu plantation.",
+        come: "On foot from the bottom of Tanah Rata, following the road towards the power station.",
+        quando: "In the morning, before the afternoon rain.",
+        tempo: "1-3 hours depending on the route",
+        costo: "free",
+        lat: 4.4636,
+        lng: 101.38775,
+        consiglio: "Highland trails close and reopen for landslides and maintenance: ask in town which ones are open.",
+      },
+      {
+        nome: "Gunung Jasar and Trail 10",
+        testo: "Tanah Rata's easiest trail climbs in about an hour to the summit of Gunung Jasar, at about 1,700 metres, through the forest, with a few views over the hills.",
+        come: "From the start of Trail 10, above the town.",
+        quando: "Early morning, as the mist lifts.",
+        tempo: "2-3 hours return",
+        costo: "free",
+        lat: 4.47818,
+        lng: 101.36096,
+        consiglio: "Mud and roots: hiking shoes and something for the rain.",
+      },
+      {
+        nome: "Tanah Rata",
+        testo: "The highlands' main town, at about 1,440 metres, with the bus station, guesthouses, Indian and Chinese restaurants and the start of several trails. It is the easiest base for those not driving.",
+        come: "Buses from Kuala Lumpur, Ipoh and Penang arrive here.",
+        quando: "In the evening, for dinner.",
+        tempo: "1 hour",
+        costo: "free",
+        lat: 4.47069,
+        lng: 101.37769,
+      },
     ],
     programmi: [
       {
         titolo: "1 day",
         tappe: [
-          "Early morning: Mossy Forest with a guided tour",
-          "Late morning: tea plantation with tea on the terrace",
-          "Lunch in Brinchang",
-          "Early afternoon: strawberry farm",
-          "Evening: steamboat in Brinchang"
-        ]
+          "Mossy Forest with a guided tour at dawn",
+          "Sungei Palas plantation with tea on the terrace",
+          "Kea Farm market and a strawberry farm",
+          "Afternoon in Brinchang and at Sam Poh Temple",
+          "Evening: steamboat",
+        ],
       },
       {
         titolo: "2 days",
         tappe: [
-          "As above, and on the second day a light trek on the Tanah Rata trails and some free time"
-        ]
-      }
+          "Day 1: the day above",
+          "Day 2: Trail 10 to Gunung Jasar in the morning",
+          "Robinson Falls in the afternoon",
+          "Evening in Tanah Rata",
+        ],
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2: as above",
+          "Day 3: plantations along the Ringlet road",
+          "Time Tunnel if it rains",
+          "Leave for Ipoh in the afternoon",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Tanah Rata",
         perChi: "anyone who wants to be close to trails and buses",
-        testo: "The centre with hostels and guesthouses, convenient for excursions and restaurants. A bit busy."
+        testo: "The centre with hostels and guesthouses, convenient for excursions and restaurants. A bit busy.",
+        fascia: "20-70 €",
       },
       {
         nome: "Brinchang",
         perChi: "anyone who wants to be near the Mossy Forest and the market",
-        testo: "Quieter, with mid-range hotels and colder in the evening."
-      }
+        testo: "Quieter, with mid-range hotels and colder in the evening.",
+        fascia: "40-120 €",
+      },
+      {
+        nome: "Kea Farm and Tringkap",
+        perChi: "those travelling by car who want resorts",
+        testo: "Resorts and apartments with hill views north of Brinchang, close to plantations and greenhouses. Outside the towns, you need a car.",
+        fascia: "50-150 €",
+      },
     ],
     sapori: [
       {
@@ -1169,6 +1266,52 @@ export const destinazioniMalesia: Destinazione[] = [
       "Evenings are cool, and cold higher up: bring something warm.",
       "For those prone to car sickness: the road up is full of hairpin bends.",
       "Choose a Mossy Forest tour that reaches the real part and not just the boardwalk near the car park."
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in the Cameron Highlands?",
+        risposta: "Two days: one for the Mossy Forest, plantations and markets, one for a trail and some rest. A third lets you go down to Ipoh at leisure.",
+      },
+      {
+        domanda: "Is it better to stay in Tanah Rata or Brinchang?",
+        risposta: "Tanah Rata for buses, trails and restaurants; Brinchang to be closer to the Mossy Forest and the night market.",
+      },
+      {
+        domanda: "How much is the Mossy Forest?",
+        risposta: "Operators report about RM30 for foreign adults up to the end of the boardwalk; the part beyond requires a forestry permit. It is open from 8am to 5pm.",
+      },
+      {
+        domanda: "When is the BOH Sungei Palas plantation open?",
+        risposta: "From 8.30am to 4.30pm, closed on Mondays except some holidays. Entry is free; you pay for tea and cakes.",
+      },
+      {
+        domanda: "Is it cold in the Cameron Highlands?",
+        risposta: "Cool by day, and in the evening it often drops below 15 degrees. You need a sweater or light jacket all year.",
+      },
+      {
+        domanda: "Do you need a tour or can you go independently?",
+        risposta: "Public transport is sparse: take a half-day tour, a taxi for the day or rent a car. The trails near Tanah Rata can be walked.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Ipoh",
+        distanza: "about 90 km, 2 hours by car or bus",
+        come: "By bus from Tanah Rata or by car on the Simpang Pulai road.",
+        testo: "The city of limestone cave temples, an old town with murals and white coffee. A good stop on the way down from the highlands.",
+      },
+      {
+        nome: "Lata Iskandar Waterfall",
+        distanza: "about 30 km, 40 minutes by car",
+        come: "On the old road towards Tapah, by car or as a bus stop.",
+        testo: "A waterfall tumbling over rocks beside the mountain road, with stalls of fruit and Orang Asli products.",
+      },
+      {
+        nome: "Kellie's Castle",
+        distanza: "about 80 km, 1.5-2 hours by car",
+        come: "By car towards Batu Gajah, near Ipoh.",
+        testo: "The unfinished mansion of an early-20th-century Scottish planter, left half-built after his death. Red-brick ruins among the plantations.",
+      },
     ],
     esperienzeSlugs: ['piantagioni-te-cameron'],
     tripSlugs: ['malesia-singapore'],
@@ -1343,12 +1486,13 @@ export const destinazioniMalesia: Destinazione[] = [
     doveMangiare:
       "The island lives on tourism and prices reflect it, but a few meters from the beach is enough to get back to Malaysian standards: the night market stalls are the best and cheapest option. Grilled fish and fish curries are the natural cuisine of the place.",
     comeArrivare:
-      'Flight to Langkawi (LGK) from Kuala Lumpur or Penang, or ferry from Kuala Kedah, Penang or Satun in Thailand, useful for those combining the two countries.',
+      "Langkawi airport (LGK) is 10 minutes from Pantai Cenang, with flights from Kuala Lumpur in about an hour, from Penang and from Singapore. Ferries arrive at Kuah jetty from Kuala Perlis (about 1 hour 15) and Kuala Kedah (about 1 hour 45), linked to west coast trains and buses; other ferries come from Penang and, in the dry season, from Satun and Koh Lipe in Thailand.",
     comeSpostarsi:
       "A rental car or scooter is the right way: the island is big, public transport almost nonexistent and taxis expensive compared with the rest of the country. Driving is easy and the roads are good.",
     periodoMigliore:
       'the dry season on the west coast, around the start of the year, with the calmest sea. In the middle months rains are more frequent and haze from Indonesian fires can arrive.',
-    costi: "cable car and Sky Bridge paid (prices on the official website), mangrove tour per boat to split, cheap scooter rental.",
+    costi:
+      "Cable car and SkyBridge about RM80-90 for non-Malaysians, mangrove boat trip to share, Underwater World about RM60; Telaga Tujuh and the beaches free; cheap scooter hire. Daily budget per person in a double room: €30-45 with a Cenang guesthouse and night markets, €70-110 in a resort with a rental car, from €250 in north coast resorts.",
     erroriDaEvitare: [
       "Expecting postcard Thai waters: Langkawi's sea is often cloudy because we're at the mouth of river systems, and anyone looking for turquoise is disappointed",
       'Going up the cable car in the early afternoon, when haze covers the view and the line is long',
@@ -1364,8 +1508,12 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "From the base station take the cable car to the top station, then the SkyGlide inclined lift or a path takes you to the bridge.",
         quando: "In the morning, when haze is lower and queues shorter.",
         tempo: "3 hours",
+        costo: "cable car and SkyBridge about RM80-90 for non-Malaysians (about €16-18, reseller prices 2026)",
+        orari: "SkyCab usually 9.30am-6pm; on some Wednesdays it opens only from noon for maintenance. When the cable car is closed, so are SkyBridge and SkyGlide (official calendar, November-December 2026).",
         url: "https://www.panoramalangkawi.com/",
-        consiglio: "Go up at opening: around midday haze covers the view."
+        lat: 6.37136,
+        lng: 99.6716,
+        consiglio: "Go up at opening: around midday haze covers the view.",
       },
       {
         nome: "Telaga Tujuh (Seven Wells)",
@@ -1373,7 +1521,10 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "About 1.5 km north of Oriental Village, the cable car base: by scooter or car to the car park, then on foot.",
         quando: "Early morning.",
         tempo: "1 hour and a half",
-        consiglio: "Pair it with the cable car on the same morning. Wear proper shoes: wet rocks are slippery."
+        costo: "free",
+        lat: 6.38178,
+        lng: 99.67288,
+        consiglio: "Pair it with the cable car on the same morning. Wear proper shoes: wet rocks are slippery.",
       },
       {
         nome: "Kilim mangroves",
@@ -1381,7 +1532,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "By boat with operators, from the Kilim jetty. The tour lasts a few hours.",
         quando: "In the morning.",
         tempo: "half a day",
-        consiglio: "Ask in advance whether the operator feeds the eagles: it is a questionable practice."
+        lat: 6.405,
+        lng: 99.85843,
+        consiglio: "Ask in advance whether the operator feeds the eagles: it is a questionable practice.",
       },
       {
         nome: "Pantai Cenang",
@@ -1389,40 +1542,165 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "By scooter or taxi from the airport, which is close by.",
         quando: "Sunset.",
         tempo: "2 hours",
-        consiglio: "Anyone seeking turquoise sea should go to the Perhentians: here it is beach life."
-      }
+        costo: "free",
+        lat: 6.29576,
+        lng: 99.72239,
+        consiglio: "Anyone seeking turquoise sea should go to the Perhentians: here it is beach life.",
+      },
+      {
+        nome: "Tanjung Rhu",
+        testo: "The island's finest beach, on the north coast: pale sand, casuarinas and limestone islets offshore, with water often clearer than at Cenang. At low tide you can walk out to an islet.",
+        come: "By car or scooter, about 40 minutes from Cenang.",
+        quando: "At sunset, or at low tide to reach the islet.",
+        tempo: "half a day",
+        costo: "free",
+        lat: 6.45851,
+        lng: 99.82543,
+      },
+      {
+        nome: "Dataran Lang",
+        testo: "The square on Kuah harbour with the 12-metre reddish-brown eagle, symbol of the island: according to legend the name Langkawi comes from helang, eagle, and kawi, reddish brown.",
+        come: "On foot from the Kuah ferry jetty.",
+        quando: "At sunset, or when arriving by ferry.",
+        tempo: "30 minutes",
+        costo: "free",
+        lat: 6.30846,
+        lng: 99.85196,
+      },
+      {
+        nome: "Underwater World",
+        testo: "The big aquarium at Pantai Cenang, with a tunnel under the shark tank, penguins and a section on mangroves and rainforest. Useful with children or on rainy afternoons.",
+        come: "On foot on Pantai Cenang's main road.",
+        quando: "In the hot hours or when it rains.",
+        tempo: "2 hours",
+        costo: "about RM60 for non-Malaysians (about €12, reseller prices 2026)",
+        orari: "Usually 10am-6pm, longer on holidays.",
+        lat: 6.28772,
+        lng: 99.72859,
+      },
+      {
+        nome: "Pulau Dayang Bunting",
+        testo: "The archipelago's second island, in the geopark, with the Lake of the Pregnant Maiden, a freshwater lake among limestone walls separated from the sea by a thin ridge. You can swim, among fish and monkeys on the shore.",
+        come: "On island-hopping boat trips from Pantai Cenang or Kuah, which also stop at Pulau Beras Basah and the eagle point.",
+        quando: "In the morning, with a calm sea.",
+        tempo: "half a day with the island tour",
+        lat: 6.23222,
+        lng: 99.79972,
+        consiglio: "Keep bags and food closed: the monkeys on the jetty steal.",
+      },
+      {
+        nome: "Gunung Raya",
+        testo: "Langkawi's highest mountain, about 880 metres, with a road climbing through the forest to a viewing tower. From the top you see the whole archipelago and, in clear air, the Thai coast.",
+        come: "By car or scooter, steep paved road to the top.",
+        quando: "Early morning: along the road you see hornbills and monkeys.",
+        tempo: "2 hours",
+        lat: 6.36882,
+        lng: 99.81831,
+        consiglio: "With low cloud you see nothing: choose a clear day.",
+      },
+      {
+        nome: "Mahsuri's Tomb",
+        testo: "The mausoleum of Mahsuri, the woman unjustly executed in the 18th century who, according to legend, cursed the island for seven generations. Around it is a small traditional Malay village with wooden houses.",
+        come: "About 12 km from Cenang, by car or scooter.",
+        quando: "By day.",
+        tempo: "1 hour",
+        lat: 6.33874,
+        lng: 99.78399,
+      },
+      {
+        nome: "Durian Perangin Waterfall",
+        testo: "A stepped waterfall in the forest in the north of the island, with pools for swimming, less visited than Telaga Tujuh. You climb a stairway through the woods.",
+        come: "By car or scooter, about 15 km north of Kuah.",
+        quando: "After rain, when there is more water; in the dry season it can be almost dry.",
+        tempo: "1-2 hours",
+        costo: "free",
+        lat: 6.40171,
+        lng: 99.82054,
+      },
+      {
+        nome: "Laman Padi",
+        testo: "A small rice museum with demonstration paddies at Pantai Cenang, showing how rice is grown on Langkawi's plain, with a restaurant overlooking the fields.",
+        come: "On Pantai Cenang's main road, on foot.",
+        quando: "At sunset, with light on the paddies.",
+        tempo: "1 hour",
+        lat: 6.29858,
+        lng: 99.72239,
+      },
+      {
+        nome: "Pantai Kok",
+        testo: "A bay on the west coast below the cable car mountains, with greener, calmer water, resorts and the Telaga yacht club. It is the beach to pair with the cable car and Telaga Tujuh.",
+        come: "By car or scooter, about 15 minutes from Cenang.",
+        quando: "Afternoon, after the cable car.",
+        tempo: "2 hours",
+        costo: "free",
+        lat: 6.36639,
+        lng: 99.67778,
+      },
+      {
+        nome: "The night market",
+        testo: "Every evening a pasar malam is held in a different village on the island, with stalls of satay, grilled fish, murtabak and Malay sweets. The Pantai Cenang one is among the handiest for those staying on the beach.",
+        come: "On foot or by scooter; day and place change: ask at your hotel.",
+        quando: "From late afternoon until about 10pm.",
+        tempo: "1-2 hours",
+        lat: 6.29914,
+        lng: 99.72753,
+        consiglio: "It is where you eat best for the least money.",
+      },
     ],
     programmi: [
       {
+        titolo: "1 day",
+        tappe: [
+          "Cable car and SkyBridge at opening time",
+          "Telaga Tujuh and Pantai Kok",
+          "Afternoon at Laman Padi",
+          "Sunset at Pantai Cenang and the night market",
+        ],
+      },
+      {
         titolo: "2 days",
         tappe: [
-          "Day 1: Sky Bridge at opening, lunch, Pantai Cenang at sunset",
-          "Day 2: Kilim mangroves in the morning, island trip in the afternoon"
-        ]
+          "Day 1: the day above",
+          "Day 2: Kilim mangroves in the morning",
+          "Afternoon at Tanjung Rhu",
+          "Dinner in Kuah and Dataran Lang at sunset",
+        ],
       },
       {
         titolo: "3 days",
         tappe: [
-          "As the 2 days, with a free third day: northern beaches, a scooter ride among rice fields, sunset at Tanjung Rhu"
-        ]
-      }
+          "Days 1-2: as above",
+          "Day 3: island hopping with Dayang Bunting in the morning",
+          "Afternoon: Gunung Raya or Durian Perangin",
+          "Mahsuri's Tomb on the way back",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Pantai Cenang",
         perChi: "anyone who wants beach, bars and dining out",
-        testo: "The liveliest area, with plenty of choice. Noisy and crowded."
+        testo: "The liveliest area, with plenty of choice. Noisy and crowded.",
+        fascia: "40-150 €",
       },
       {
         nome: "Pantai Tengah",
         perChi: "anyone looking for some calm",
-        testo: "Next to Cenang, quieter, with resorts and guesthouses."
+        testo: "Next to Cenang, quieter, with resorts and guesthouses.",
+        fascia: "50-200 €",
       },
       {
         nome: "Kuah",
         perChi: "anyone arriving by ferry or wanting to save",
-        testo: "The main town, with the port and the lowest prices, but far from the beaches."
-      }
+        testo: "The main town, with the port and the lowest prices, but far from the beaches.",
+        fascia: "25-60 €",
+      },
+      {
+        nome: "Tanjung Rhu and Datai",
+        perChi: "those seeking resorts and quiet",
+        testo: "The big resorts of the north coast, between forest and pale beaches, far from everything: you need a car or taxi for every outing.",
+        fascia: "200-600 €",
+      },
     ],
     sapori: [
       {
@@ -1447,6 +1725,52 @@ export const destinazioniMalesia: Destinazione[] = [
       "Scooters: international licence and helmet, checks exist.",
       "Eagles and monkeys in the mangroves: do not feed them and ask the operator whether they do.",
       "In the dry months haze from fires in Indonesia can arrive: check the news."
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Langkawi?",
+        risposta: "Three days: one for the cable car and the west coast, one for the Kilim mangroves and Tanjung Rhu, one for island hopping and some beach time.",
+      },
+      {
+        domanda: "Is the sea in Langkawi nice?",
+        risposta: "It is often greenish and murky, because of the rivers draining into the Strait of Malacca. The best beaches are Tanjung Rhu and those in the north; for turquoise water go to the Perhentians or Koh Lipe.",
+      },
+      {
+        domanda: "Do you need to rent a car in Langkawi?",
+        risposta: "Yes, or a scooter: the island is large and public transport barely exists. Roads are good; you need an international driving permit.",
+      },
+      {
+        domanda: "What time does the cable car open?",
+        risposta: "Usually at 9.30am, until 6pm; on some Wednesdays it opens from noon for maintenance. The updated calendar is on Panorama Langkawi's official site.",
+      },
+      {
+        domanda: "When should you go to Langkawi?",
+        risposta: "November to April, with a calmer sea and less rain. From May to October it rains more often and haze from Indonesian fires can arrive.",
+      },
+      {
+        domanda: "Is Langkawi really duty free?",
+        risposta: "Yes: alcohol, chocolate and tobacco cost less than on the mainland. When leaving the island there are limits on the quantities you can take.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Island hopping",
+        distanza: "half a day by boat",
+        come: "With operators in Pantai Cenang or Kuah, in a group or private boat.",
+        testo: "Pulau Dayang Bunting with its lake, Pulau Beras Basah for a swim and the eagle point. Ask whether the operator feeds the eagles and choose one that doesn't.",
+      },
+      {
+        nome: "Koh Lipe",
+        distanza: "about 1.5 hours by ferry",
+        come: "Fast ferry from Pantai Cenang or Kuah in the dry season; you cross the Thai border with your passport.",
+        testo: "The Thai island with the clear sea that Langkawi lacks. Go for at least a night, not as a day trip.",
+      },
+      {
+        nome: "Penang",
+        distanza: "about 3 hours by ferry",
+        come: "Ferry from Kuah to George Town, or a 30-minute flight.",
+        testo: "George Town, with its UNESCO historic centre and street food: the natural next stop.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],

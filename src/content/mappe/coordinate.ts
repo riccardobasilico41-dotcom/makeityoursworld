@@ -56,7 +56,7 @@ export const coordinateDestinazioni: Record<string, [number, number]> = {
   'canada/quebec': [46.81385, -71.20716],
   'canada/toronto': [43.65348, -79.38393],
   'cina/chengdu': [30.65987, 104.06332],
-  'cina/chongqing': [30.05518, 107.87487],
+  'cina/chongqing': [29.56301, 106.55156],
   'cina/furong-zhen': [28.77307, 109.98191],
   'cina/hong-kong': [22.28183, 114.15828],
   'cina/lijiang': [26.85959, 100.22498],
