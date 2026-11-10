@@ -22,9 +22,11 @@ Il colpo di caldo umido appena scesi dall'aereo a Miami è stato il primo assagg
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Arrivo a Miami
-Dall'aeroporto all'hotel è un quarto d'ora, con la navetta gratuita o con Uber e Lyft. Nel pomeriggio c'è la riunione di benvenuto, meglio nella hall che in un ristorante rumoroso.
+Dall'aeroporto all'hotel è un quarto d'ora, con la navetta gratuita o con Uber e Lyft. All'arrivo internazionale a Miami il controllo passaporti può richiedere anche più di un'ora nelle fasce di punta, e conviene tenerne conto prima di fissare qualunque cosa nel pomeriggio. *Serve l'ESTA approvato prima della partenza, con il passaporto elettronico usato per richiederlo.* Nel pomeriggio c'è la riunione di benvenuto, meglio nella hall che in un ristorante rumoroso.
 
-Per la prima sera la zona più comoda è **Little Havana**, a dieci minuti di Uber, piena di ristoranti cubani come **Doce Provisions**. In alternativa, **CVI.CHE 105** a Downtown per il miglior ceviche peruviano della città o **Garcia's** per il pesce. Dopo cena si balla da **Cubaocho** a Little Havana, si sale sul rooftop **Sugar** a Downtown o si va a Miami Beach, tra Lincoln Rd e Ocean Dr, da **Kill Your Idol**, **Abbey Brewing Company** o **Mango's**: spesso cari, alcuni con dress code.
+Per la prima sera la zona più comoda è **Little Havana**, a dieci minuti di Uber, piena di ristoranti cubani come **Doce Provisions**. In alternativa, **CVI.CHE 105** a Downtown per il miglior ceviche peruviano della città o **Garcia's** per il pesce. Dopo cena si balla da **Cubaocho** a Little Havana, si sale sul rooftop **Sugar** a Downtown o si va a Miami Beach, tra Lincoln Rd e Ocean Dr, da **Kill Your Idol**, **Abbey Brewing Company** o **Mango's**: spesso cari, alcuni con dress code. Con il fuso orario conviene non esagerare: il giorno dopo si guida per ore verso le Keys.
+
+**In pratica:** ESTA da richiedere sul sito ufficiale almeno qualche giorno prima · nei ristoranti la mancia si aggiunge al conto, di solito tra il 18 e il 20%, e le tasse non sono incluse nei prezzi del menù · per i locali di Miami Beach documento d'identità sempre con sé, l'età minima per bere è 21 anni.
 
 ### Giorno 2 — Key West
 Abbiamo ritirato l'auto da **Sixt** (il punto di ritiro esatto dipende dall'hotel; niente extra da aggiungere, le auto sono già assicurate in tutto) e siamo scesi verso Key West: circa 160 miglia, tre ore e mezza o quattro. Più ci si avvicina alle isole, più la strada diventa spettacolare, e prima e dopo il Seven Mile Bridge ci sono parcheggi panoramici dove fermarsi.
@@ -33,12 +35,16 @@ Lungo la strada si può pranzare a Marathon, visitare il **Turtle Hospital** (30
 
 Il pomeriggio a Key West si passa a **Fort Zachary Taylor Beach**, tra il bagno e la fortezza (6 $ ad auto, 2,5 $ a piedi), o in kayak, da prenotare. Al tramonto si va a **Mallory Square** per la golden hour, con un cocktail e una fetta di key lime pie al **Sunset Pier** (parcheggio gratuito intorno a Truman Ave), oppure su un party boat da 75 $. La sera si cammina fino al **Green Parrot** per un concerto, poi su Duval St al **Tiki House** e a ballare da **Rick's**.
 
+**In pratica:** Miami-Key West sulla US-1 circa 3 ore e mezza-4 senza soste, molto di più nei weekend e nelle festività · le Keys sono tutte su una sola strada: un incidente blocca il traffico a lungo, meglio partire presto · a Key West i parcheggi in centro sono pochi e cari, conviene lasciare l'auto in hotel e muoversi a piedi o in bici.
+
 ### Giorno 3 — Key West e Marathon
 Dopo colazione si lascia la camera, ma i bagagli possono restare in hotel fino al pomeriggio. La mattina è tutta a piedi. La **Hemingway Home and Museum** (un'ora, 17 $, sconto prenotando per gruppi da dodici) è la casa dove visse Hemingway, con lo studio e i giardini pieni dei famosi gatti a sei dita. Poi il **Butterfly & Nature Conservatory** (mezz'ora, 15 $), la foto al **Southernmost Point**, dove c'è sempre un po' di coda, e il **Mel Fisher Maritime Museum** (mezz'ora, 17,50 $, chiuso il lunedì), con i tesori di due galeoni spagnoli naufragati.
 
 Dopo un pranzo veloce si recuperano i bagagli e si guida per un'ora fino al **Bahia Honda State Park** (10 $ ad auto), con un'altra sosta per le foto al Seven Mile Bridge. Qui ci sono la spiaggia, il kayak (18 $ l'ora il doppio, 12 il singolo, chi prima arriva) o lo snorkeling sulla barriera (30 $ più la maschera, prenotando il tour del pomeriggio ed essendo lì entro mezzogiorno). Per immersioni vere c'è **Captain Hook Diving** a Marathon, da contattare prima: 80-90 $ più 30-40 di attrezzatura.
 
 Venti minuti dopo si è a Marathon per il tramonto al **Sunset Grille & Raw Bar**. A cena, il cubano economico **La Nina** o il beach bar **Burdine's Waterfront**, che chiude presto; per un drink, **Porky's Bayside** o l'**Overseas Pub**.
+
+**In pratica:** Key West-Bahia Honda circa un'ora, Bahia Honda-Marathon circa venti minuti · nei parchi statali delle Keys i posti per il kayak e lo snorkeling finiscono presto nei weekend · per le immersioni brevetto e libretto da portare dall'Italia · acqua e crema solare sempre in auto.
 
 ### Giorno 4 — Everglades e Naples
 Colazione molto presto, prima del caldo: la giornata è lunga. Le Everglades sono una palude enorme, e repellente, crema solare, giacca antipioggia e pantaloni lunghi sono quasi obbligatori.
@@ -49,10 +55,14 @@ La Route 40 porta a Naples, un'ora e mezza e 80 miglia, e lungo la strada ci si 
 
 **Naples** è una località di mare molto elegante, con ristoranti e negozi cari. Il check-in si fa prima o dopo la spiaggia, vicino al **Naples Pier** o al **Lowdermill Park**; attenzione ai parcheggi, spesso riservati ai clienti del negozio davanti. A cena, **Alberto's on 5th** (ottima pasta, pizza mediocre), **Taqueria San Julian** o **Michelbob's Ribs and Steaks**, e dopo una passeggiata tra i bar della 5th Ave.
 
+**In pratica:** Everglades al mattino presto, prima delle ore più calde e dei temporali pomeridiani estivi · la stagione secca, da dicembre ad aprile, è la migliore per vedere animali e ha meno zanzare · il pass annuale dei parchi nazionali americani conviene solo se si visitano più parchi · Everglades-Naples circa un'ora e mezza.
+
 ### Giorno 5 — Da Naples a Orlando via Clearwater
 È il giorno più lungo al volante: cinque ore e 280 miglia, con molte soste possibili. A Fort Myers, a 45 miglia da Naples, ci sono la bella casa storica degli **Edison and Ford Winter Estates** (25 $) e il **Lee County Manatee Park**, gratuito, dove d'inverno si vedono i lamantini e si può noleggiare un kayak. A Sarasota, due ore da Naples, il **John and Mable Ringling Museum of Art** (25 $) è un'area enorme con il museo del circo, il museo d'arte e una villa in stile veneziano. A St. Petersburg il **Dalí Museum** (29 $, da prenotare) custodisce la più grande collezione privata di Salvador Dalí al mondo, in un edificio che è già un'icona. E a **Clearwater Beach**, a quasi tre ore da Naples, c'è un'enorme spiaggia bianca dove fermarsi a riposare.
 
 Da lì due ore e cento miglia fino a **Orlando**. Dopo il check-in si cena in centro da **Gringos Locos** e si passeggia intorno a **Lake Eola**, oppure si va al parco a tema che non si visiterà il giorno dopo, per girarne le aree esterne con negozi e ristoranti, che valgono comunque.
+
+**In pratica:** Naples-Orlando via la costa del Golfo circa cinque ore di guida pura, con le soste è una giornata intera · musei di Sarasota e St. Petersburg da prenotare online, soprattutto nel weekend · a Clearwater Beach i parcheggi vicino alla spiaggia sono a pagamento e si riempiono presto.
 
 ### Giorno 6 — Orlando (parco a tema)
 È la giornata più intensa del viaggio: parchi affollati, caldo, code lunghe e biglietti cari, quindi va organizzata. Conviene arrivare almeno un'ora prima dell'apertura e restare fino allo show della sera (orario sul sito), con uno zaino piccolo (quelli grandi non entrano negli armadietti), acqua, snack leggeri e l'app ufficiale del parco per seguire le attese in tempo reale.
@@ -65,6 +75,8 @@ A **Universal Studios** ci sono Harry Potter Escape from Gringotts, Transformers
 
 Si cena dentro il parco, nel grande Hard Rock Café a forma di Colosseo o alla Willy Wonka's Chocolate Factory, oppure si torna verso l'hotel per il **Mango's Tropical Café**, con spettacolo e balli fino a tardi (menù a 39 $ più tasse).
 
+**In pratica:** biglietti dei parchi da comprare online in anticipo per la data scelta, i prezzi cambiano con la stagione · a Universal, gli Express Pass costano a parte e riducono molto le code · Hogwarts Express solo con il biglietto per due parchi · d'estate, temporali quasi ogni pomeriggio: le attrazioni all'aperto chiudono finché passa il fulmine.
+
 ### Giorno 7 — Orlando e Kennedy Space Center
 Check-out all'alba, colazione veloce da **Keke's** o da Starbucks e un'ora di strada fino a **Cape Canaveral**. Il **Kennedy Space Center** (57 $, sul posto o online) è un complesso impressionante, che chiede almeno mezza giornata; conviene controllare prima se quel giorno è previsto un lancio. È diviso in due siti collegati da un bus gratuito, e la foto con la grande sfera della NASA non si salta.
 
@@ -73,6 +85,8 @@ Le tappe principali: il **Rocket Garden**, dieci minuti; l'**Apollo/Saturn V Cen
 Da Cape Canaveral a Miami Beach sono tre ore e un quarto, 200 miglia sulla Florida Turnpike, che ha i caselli: le corsie «toll by plate» sono per chi ha il SunPass e vanno evitate. Si può pranzare a **Cocoa Beach**, a mezz'ora dallo Space Center, poi fermarsi a **West Palm Beach**, con la lussuosa Worth Avenue e il Norton Museum of Art (18 $, da prenotare), a **Boca Raton** per il Morikami Japanese Garden (15 $, chiuso il lunedì) o a **Fort Lauderdale** per lo shopping al Florida Swap Shop.
 
 A Miami si parcheggia: in strada a Mid Beach costa 3 $ l'ora a qualsiasi ora, nei parcheggi coperti della zona 2 $ l'ora, gratis tra la notte fonda e la mattina presto (spesso serve un'app e si paga con la carta). La serata è tranquilla oppure, per chi vuole, di nuovo tra Lincoln Rd e Ocean Dr.
+
+**In pratica:** Orlando-Kennedy Space Center circa un'ora · biglietti del Kennedy Space Center online, bus per l'Apollo/Saturn V Center incluso · nei giorni di lancio gli accessi e il traffico verso Cape Canaveral cambiano: controllare il calendario sul sito ufficiale · Cape Canaveral-Miami Beach circa 3 ore e un quarto.
 
 ### Giorno 8 — Miami Beach
 Prima di tutto l'auto va riconsegnata in orario: data, ora e luogo sono sul voucher, e la puntualità evita costi extra per ritardi o danni.
@@ -83,13 +97,21 @@ Lo **Speed Boat Tour «Thriller Miami»** è nel GoCity Pass: si prenota su [goc
 
 A cena, la vera pizza italiana di **Fratelli la Bufala**, la cucina greca di **Santorini by Georgios** o i burger di **Michael Mina** e di **Fat Ronnie's**. La notte continua a Downtown, all'**E11EVEN** (eccessivo), al **Club Space** (house) o al **The Hangar**: prezzi molto variabili nelle serate speciali e dress code spesso rigido; in alcuni locali senza tacchi non si entra.
 
+**In pratica:** riconsegna dell'auto con il pieno se previsto dal contratto, conservando la ricevuta · Art Deco Welcome Center con tour a orario, prenotazione online · in spiaggia a South Beach alcol vietato e regole più severe nei periodi dello spring break · nei club di Downtown documento d'identità obbligatorio, età minima 21 anni.
+
 ### Giorno 9 — Miami "di terra"
 È la giornata della Miami continentale; chi preferisce il mare può saltarla tutta. Si comincia a **Wynwood**, a quindici minuti d'auto, con la colazione da **Zak the Baker** o al **Salty Donut** e una camminata tra i murales dell'ex quartiere industriale, dove i **Wynwood Walls** organizzano anche tour guidati. Poi **Little Havana**: la Calle 8, il **Domino Park** dove gli anziani giocano a domino e la Walk of Stars con le stelle degli attori cubani. A **Coconut Grove** c'è il **Vizcaya Museum and Gardens** (25 $, ultimo ingresso nel tardo pomeriggio), una villa con porto privato, arredi europei d'epoca e giardini splendidi. Il pomeriggio si torna al mare, o al surf con il **South Beach Dive & Surf Center** (40 $ la mezza giornata, meglio prenotare).
 
 La sera c'è **Salsa Night! Lessons, Mojitos & Dancing**, nel GoCity Pass, con prenotazione obbligatoria: il nome resta alla porta, e per informazioni si può chiamare Salsa Mia al 305-458-4558. Dress code «glamour tropicale», niente cappellini da baseball, canottiere o costumi; la cena al tavolo si paga a parte. Per finire, **Mango's Tropical** oppure, più elegante, il **Clevelander**.
 
+**In pratica:** senza auto, Wynwood, Little Havana e Coconut Grove si raggiungono in Uber o Lyft in 15-25 minuti da Miami Beach · Vizcaya chiude un giorno a settimana e accetta ingressi a orario: controllare sul sito ufficiale · a Wynwood conviene andare la mattina, prima del caldo e della folla del weekend.
+
 ### Giorno 10 — Check-out e rientro
-Check-out e saluti.
+Check-out e saluti. Chi ha il volo nel pomeriggio o in serata può lasciare i bagagli in hotel e concedersi un'ultima mattina a Miami Beach, una colazione con calma o una passeggiata lungo il **Beachwalk**, il percorso pedonale che segue la spiaggia. Conviene però non spingersi lontano: il traffico verso l'aeroporto è imprevedibile, soprattutto nelle ore di punta e nel fine settimana.
+
+Per l'aeroporto di Miami si calcolano da mezz'ora a un'ora da Miami Beach, in Uber, Lyft o taxi. *Per i voli intercontinentali si arriva in aeroporto circa tre ore prima: i controlli di sicurezza possono essere lunghi, e il check-in dei bagagli chiude prima del volo.* Gli ultimi souvenir si trovano anche in aeroporto, ma a prezzi più alti che in città.
+
+**In pratica:** check-out di solito entro le 11, deposito bagagli quasi sempre gratuito in hotel · Miami Beach-aeroporto da 30 a 60 minuti a seconda del traffico · tre ore di anticipo per i voli verso l'Europa · liquidi nel bagaglio a mano secondo le regole TSA.
 
 ## Cosa vedere / cosa fare
 - La **Seven Mile Bridge** tra le Keys, con le sue soste fotografiche prima e dopo il ponte.

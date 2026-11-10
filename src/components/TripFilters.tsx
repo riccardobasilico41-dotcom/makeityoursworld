@@ -4,7 +4,6 @@ import { Suspense, useCallback, useEffect, useId, useMemo, useRef, useState, typ
 import { useRouter, useSearchParams } from 'next/navigation'
 import { Search, SlidersHorizontal, X } from 'lucide-react'
 import { TripCard } from './TripCard'
-import { RevealGroup, RevealItem } from './Reveal'
 import { AREE } from '@/lib/aree'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import { etichetta } from '@/lib/i18n/etichette'
@@ -326,13 +325,13 @@ function Catalogo({
     return (
       <>
         <div id={`griglia-${id}`}>
-          <RevealGroup className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
+          {/* niente animazione d'ingresso: le card restavano invisibili (opacity 0) finché non
+              arrivava il JavaScript di motion, e la prima foto (l'LCP del telefono) compariva dopo 4-5 s */}
+          <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {items.slice(0, quanti).map((viaggio, i) => (
-              <RevealItem key={viaggio.slug}>
-                <TripCard viaggio={viaggio} subito={primo && i === 0} confronto />
-              </RevealItem>
+              <TripCard key={viaggio.slug} viaggio={viaggio} subito={primo && i === 0} confronto />
             ))}
-          </RevealGroup>
+          </div>
         </div>
         {resto > 0 && (
           <div className="mt-6 flex justify-center">

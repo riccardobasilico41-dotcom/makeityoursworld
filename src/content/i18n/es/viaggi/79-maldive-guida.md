@@ -130,52 +130,72 @@ Un ejemplo de diez días pensado para una primera vez: cuatro noches en una isla
 ## Itinerario giorno per giorno
 
 ### Día 1 — Llegada a Malé y speedboat a Dhigurah
-Los vuelos desde Italia llegan a Velana con una escala, a menudo por la mañana. Tras los controles busqué en el mostrador de llegadas al operador de la speedboat reservada por la guesthouse. Para **Dhigurah**, en el atolón de Ari Sur, hacen falta de una hora y media a dos de mar abierto. Llegamos para comer, con tiempo para instalarnos, darnos un primer baño en la **bikini beach** (una larga lengua de arena blanca en la punta de la isla) y ver la puesta de sol en el lado oeste.
+Los vuelos desde Italia llegan a Velana con una escala, a menudo por la mañana. Tras los controles busqué en el mostrador de llegadas al operador de la lancha rápida reservada por la guesthouse. Hasta **Dhigurah**, en el atolón de Ari Sur, hay de una hora y media a dos horas de mar abierto. *Con mar agitado la travesía se nota: quien se marea conviene que se siente hacia popa y tome algo antes de salir.* Conviene también cambiar algo de efectivo o llevar dólares en billetes pequeños, útiles en las islas locales para propinas y excursiones.
+
+Llegamos para la comida, con tiempo para instalarnos, darnos un primer baño en la **bikini beach** (una larga lengua de arena blanca en la punta de la isla) y ver el atardecer en el lado oeste. La primera tarde es el momento de acordar con la guesthouse las excursiones de los días siguientes, empezando por el tiburón ballena, que depende del tiempo y conviene fijar para el primer día posible. Dhigurah es larga y estrecha, se recorre a pie o en bici: sin coches, ritmo de pueblo.
 
 **En la práctica:** speedboat compartida Malé-Dhigurah indicativamente 50-70 $ por persona por trayecto, en general dos salidas desde el aeropuerto (hacia las 10:45-11 y las 16) y horarios distintos el viernes · quien aterriza por la noche duerme en Hulhumalé y sale a la mañana siguiente · IMUGA rellenada en las 96 horas previas al vuelo.
 
 ### Día 2 — Dhigurah: el tiburón ballena en el arrecife de Ari Sur
-El tiburón ballena es el motivo por el que se viene a Ari Sur. Salimos en barca por la mañana a lo largo del arrecife exterior entre Dhigurah y Maamigili, un área marina protegida donde los tiburones ballena jóvenes se acercan a la superficie en busca de plancton. Los guías los buscan desde la barca y el grupo entra en el agua solo cuando hay uno cerca: se nada a unos metros de distancia y se lo sigue mientras lo permite. *El avistamiento es probable pero no garantizado: muchos operadores ofrecen una segunda salida con descuento o gratis si el primer día sale en blanco.* La tarde la dejamos libre, entre la playa y el arrecife frente a la isla.
+El tiburón ballena es la razón para venir a Ari Sur. Salimos en barco por la mañana a lo largo del arrecife exterior entre Dhigurah y Maamigili, un área marina protegida donde los tiburones ballena jóvenes se acercan a la superficie en busca de plancton. Los guías los buscan desde el barco y el grupo entra en el agua solo cuando hay uno cerca: se nada a unos metros de distancia y se le sigue mientras lo permita. *El avistamiento es probable pero no está garantizado: muchos operadores ofrecen una segunda salida con descuento o gratis si el primer día no hay suerte.*
+
+Cuando hay un tiburón cerca puede haber bastantes barcos, y el mejor momento es justamente la mañana, con la luz alta y el mar más tranquilo. Al agua se entra en silencio, sin saltar, y se queda uno al lado del animal, nunca delante de la boca ni encima de la cola. Las salidas suelen incluir también una parada de snorkel en el arrecife, donde es fácil ver tortugas. La tarde la dejamos libre, entre la playa y el arrecife frente a la isla.
 
 **En la práctica:** excursión indicativamente 60-120 $ por persona · distancia mínima 3 metros, nada de flash y nada de tocar · licra y crema mineral, porque se está mucho en la superficie.
 
 ### Día 3 — Snorkeling con las mantas y un banco de arena
-En la estación seca las mantas frecuentan las estaciones de limpieza del atolón, donde pequeños peces limpian la piel y las branquias. La barca nos llevó a uno de estos puntos, como los de alrededor de Rangali, para observar desde arriba las mantas que giran despacio. La segunda parte del día la pasamos en un **banco de arena**, un banco de arena emergido en medio de la laguna, con comida para llevar y snorkeling en el arrecife cercano.
+En la estación seca las mantas frecuentan las estaciones de limpieza del atolón, donde pececillos les limpian la piel y las branquias. El barco nos llevó a uno de estos puntos, como los de los alrededores de Rangali, para observar desde arriba las mantas girando despacio. Las mantas se miran desde la superficie, sin bajar sobre la estación y sin perseguirlas: si uno se mueve despacio vuelven a pasar varias veces. *La visibilidad cambia mucho con las corrientes, y por eso los guías deciden el punto esa misma mañana.*
+
+La segunda parte del día la pasamos en un **sandbank**, un banco de arena que emerge en medio de la laguna, con comida para llevar y snorkel en el arrecife cercano. En el sandbank no hay sombra: sombrilla o pareo, agua en abundancia y crema repetida son imprescindibles. A la vuelta, a última hora de la tarde, merece la pena un último baño en la bikini beach, cuando la luz es más suave y la playa se vacía.
 
 **En la práctica:** excursión combinada mantas y banco de arena unos 70-130 $ por persona · de mayo a noviembre las mantas se desplazan al lado oriental de los atolones y la excursión cambia de sitio · quien bucea reserva con el centro de buceo de la isla.
 
 ### Día 4 — La vida del pueblo y la pesca al atardecer
-Día más lento. Por la mañana recorrimos a pie la isla, que se atraviesa en media hora: las calles de arena, las casas bajas con jardines, la mezquita, el puerto donde se descarga el atún, el café donde los pescadores toman el té con short eats. Se hace snorkeling en el arrecife cerca de la playa o se coge un kayak. Al atardecer salimos en un **dhoni**, la barca tradicional, para la pesca con sedal como la hacen los maldivos; la pesca nos la cocinaron por la noche en la guesthouse.
+Un día más tranquilo. Por la mañana recorrimos a pie la isla, que se atraviesa en media hora: las calles de arena, las casas bajas con jardín, la mezquita, el puerto donde se descarga el atún, el café donde los pescadores toman té con short eats. Los short eats son los tentempiés maldivos, fritos y rellenos de atún y coco, para tomar a media mañana con un té dulce. Se puede hacer snorkel en el arrecife cerca de la playa o coger un kayak.
+
+Al atardecer salimos en un **dhoni**, el barco tradicional, para pescar con sedal como lo hacen los maldivos; el pescado nos lo cocinaron por la noche en la guesthouse. Se pesca con el hilo enrollado en un carrete, sin caña, y los guías enseñan a notar la picada. *En las horas centrales el sol es fortísimo: conviene dejar los paseos para la mañana y la última hora de la tarde, y pasar el resto a la sombra.*
 
 **En la práctica:** pesca al atardecer unos 30-50 $ por persona · *si el día cae en viernes, tiendas y cafés cierran hacia mediodía por la oración y las salidas en barca pueden reducirse* · ropa que cubra fuera de la bikini beach.
 
 ### Día 5 — Última mañana en Ari y una inmersión
-Quien tiene titulación hace una inmersión en un thila del atolón, con tiburones de punta blanca, tortugas y bancos de pargos; quien no bucea hace una última vuelta de snorkeling o un bautismo con el centro de buceo. La tarde preparamos el equipaje y nos quedamos en la playa: al día siguiente se cambiaba de isla.
+Quien tiene titulación hace una inmersión en un thila del atolón, con tiburones de punta blanca, tortugas y bancos de fusileros; quien no bucea hace una última vuelta de snorkel o un bautismo con el centro de buceo. Los thila son pináculos de coral que suben desde el fondo casi hasta la superficie, batidos por las corrientes: por eso se baja normalmente por la mañana, con el guía comprobando antes la dirección de la corriente. *Si hace tiempo que no buceas, conviene pedir una inmersión de repaso antes de los puntos con corriente fuerte.*
+
+Por la tarde preparamos el equipaje y nos quedamos en la playa: al día siguiente cambiábamos de isla. Es también el momento de pagar la cuenta de la guesthouse, a menudo en efectivo o con tarjeta y una pequeña comisión, y de confirmar la hora del traslado al resort. Si el traslado es en hidroavión, la última inmersión hay que hacerla hoy a primera hora, para respetar el intervalo antes de volar.
 
 **En la práctica:** inmersión individual 50-80 $ en los centros de las islas locales · bautismo de buceo para principiantes 100-150 $ · dejar 24 horas entre la última inmersión y un vuelo en hidroavión.
 
 ### Día 6 — De la isla local al resort
-El sexto día nos trasladamos al **resort**. Muchos resorts de Ari Sur mandan la speedboat a recoger a los huéspedes en las islas cercanas; para los lejanos se vuelve a Malé y se toma el hidroavión, que vuela solo de día. Al llegar al resort cambian las reglas: alcohol, bikini en todas partes, cenas en la playa. Por la tarde, tras preguntar los puntos de entrada y salida seguros, exploramos la **house reef**.
+El sexto día nos trasladamos al **resort**. Muchos resorts de Ari Sur envían la lancha rápida a recoger a los huéspedes en las islas cercanas; para los lejanos se vuelve a Malé y se toma el hidroavión, que solo vuela de día. Quien llega en hidroavión debe contar con una espera en la terminal de Velana, porque los vuelos salen en grupos y la hora a menudo se confirma solo el día antes. *Las maletas rígidas y pesadas son el problema más común: mejor bolsas blandas.*
+
+Al llegar al resort cambian las reglas: alcohol, bikini en todas partes, cenas en la playa. Por la tarde, tras preguntar los puntos de entrada y salida seguros, exploramos el **house reef**. La primera vuelta por el house reef conviene hacerla con calma, comprobando las corrientes y los canales de salida que indica el centro de buceo. La noche es el momento para reservar las excursiones del día siguiente y preguntar los horarios de marea baja, que cambian mucho las condiciones del arrecife.
 
 **En la práctica:** traslado en speedboat del resort por concertar · hidroavión 500-1.200 $ por persona ida y vuelta si no está incluido · comprobar los límites de equipaje del hidroavión.
 
 ### Día 7 — Resort: la house reef y una excursión
-Día en el agua. Recorrí la house reef a primera hora de la mañana, cuando la luz es baja y los peces están más activos, y a última hora de la tarde, cuando las tortugas suben a respirar. El centro de buceo del resort organiza salidas en barca de snorkeling o inmersiones en los canales cercanos, con tiburones grises, rayas águila y, en la temporada adecuada, mantas.
+Un día en el agua. Recorrí el house reef a primera hora de la mañana, cuando la luz es baja y los peces están más activos, y a última hora de la tarde, cuando las tortugas suben a respirar. Entre las dos salidas, las horas centrales se pasan a la sombra: el sol de Maldivas quema también en el agua, y la licra de manga larga protege mejor que cualquier crema.
+
+El centro de buceo del resort organiza salidas en barco de snorkel o inmersiones en los canales cercanos, con tiburones grises, águilas marinas y, en la temporada adecuada, mantas. En los canales la corriente puede ser fuerte, y por eso las salidas se hacen con guía y barco de apoyo. *Conviene reservar el día antes, porque las plazas en los barcos son pocas y los puntos cambian con el estado del mar.*
 
 **En la práctica:** excursiones desde los resorts más caras que desde las islas locales (snorkeling en barca 80-150 $, inmersiones 100-150 $) · boya de colores para la house reef si el resort la proporciona.
 
 ### Día 8 — Resort: un día de descanso
-Día sin programa, entre playa, lectura, kayak en la laguna y una cena al atardecer. Quien quiere más agua prueba el snorkeling nocturno guiado en la house reef: tiburones nodriza, langostas y, en las noches sin luna, a veces el plancton bioluminiscente que se enciende en la orilla.
+Un día sin planes, entre playa, lectura, kayak en la laguna y una cena al atardecer. El kayak y la tabla de SUP, a menudo incluidos, se aprovechan mejor por la mañana, cuando la laguna está plana y el viento aún no se ha levantado. Es también el día para un tratamiento en el spa o un paseo alrededor de la isla con la marea baja, cuando la arena descubierta deja ver rayas y pequeños tiburones en pocos centímetros de agua.
+
+Quien aún quiere agua prueba el snorkel nocturno guiado en el house reef: tiburones nodriza, langostas y, en las noches sin luna, a veces el plancton bioluminiscente que se enciende en la orilla. Se entra con linterna y cerca del guía. *El plancton bioluminiscente no se reserva: se ve mejor en las playas oscuras, lejos de las luces de los bungalows, y solo algunas noches.*
 
 **En la práctica:** snorkeling o inmersión nocturna solo con guía · los spas de los resorts son caros: preguntar por los paquetes a la llegada.
 
 ### Día 9 — Resort y traslado a Hulhumalé
-Última mañana en el agua, luego nos trasladamos a **Hulhumalé**, la isla artificial junto al aeropuerto, con tiempo para ver la playa urbana y cenar en uno de los restaurantes del malecón. Durmiendo aquí la última noche, la mañana del vuelo no se depende de una barca ni de un hidroavión.
+Última mañana en el agua, y luego nos trasladamos a **Hulhumalé**, la isla artificial junto al aeropuerto, con tiempo para ver la playa de la ciudad y cenar en uno de los restaurantes del paseo marítimo. El check-out del resort y la hora del traslado conviene fijarlos el día antes, teniendo en cuenta que el hidroavión no vuela después del atardecer. *Si el traslado es en hidroavión, hay que evitar la última inmersión: el snorkel en superficie sí se puede hacer.*
+
+Durmiendo aquí la última noche, la mañana del vuelo no se depende de un barco ni de un hidroavión. Hulhumalé es una ciudad moderna, con avenidas anchas, la playa pública y locales frecuentados por los maldivos por la noche, cuando baja el calor. En la playa se usa bañador cubierto, como en las demás islas habitadas.
 
 **En la práctica:** hidroaviones solo de día, speedboats condicionadas por el mar · hotel de Hulhumalé a 10-15 minutos del aeropuerto · en Hulhumalé, isla habitada, rigen las reglas locales: nada de alcohol.
 
 ### Día 10 — Malé y partida
-Quien tiene un vuelo por la tarde da una vuelta por **Malé**, la capital más densa del mundo: el mercado de pescado, donde llegan los atunes por la mañana, el mercado de frutas, la Mezquita del Viernes de piedra de coral del siglo XVII (visitable fuera de los horarios de oración con ropa que cubra). Luego se toma el ferri o el autobús al aeropuerto.
+Quien tiene un vuelo por la tarde da una vuelta por **Malé**, la capital más densa del mundo: el mercado del pescado, donde llegan los atunes por la mañana, el mercado de la fruta, la Mezquita del Viernes en piedra de coral del siglo XVII (visitable fuera de las horas de oración con ropa que cubra). De Hulhumalé a Malé se llega en autobús o en taxi por el puente, y el centro se recorre a pie en un par de horas. *Para entrar en la Mezquita del Viernes puede hacer falta un permiso: conviene preguntar allí; en todo caso el patio y las tumbas de alrededor se ven desde fuera.*
+
+El mercado del pescado está más animado a media mañana, cuando llegan los dhonis; al lado está el mercado de fruta y verdura, con plátanos, cocos y guindillas de las islas. El viernes Malé se detiene para la oración del mediodía, y conviene saberlo antes de organizar la mañana. Luego se toma el ferry o el autobús al aeropuerto.
 
 **En la práctica:** ferri Malé-aeropuerto 10 minutos, 1-2 $ · Mezquita del Viernes visitable con ropa que cubra, no durante la oración · tasa de salida normalmente ya incluida en el billete.
 

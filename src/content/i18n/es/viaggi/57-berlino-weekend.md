@@ -36,6 +36,8 @@ A pocos pasos está el **Memorial del Holocausto** (Denkmal für die ermordeten 
 
 Por la noche estuvimos en Mitte, entre Unter den Linden y Gendarmenmarkt, la plaza con la Catedral Alemana y la Catedral Francesa y el Konzerthaus.
 
+**En la práctica:** el Reichstag es gratuito con reserva en la web del Bundestag y documento de identidad en la entrada · el Memorial del Holocausto está siempre abierto, el centro de información subterráneo cierra los lunes · U5 o S-Bahn hasta Brandenburger Tor · desde Gendarmenmarkt se vuelve a Unter den Linden en pocos minutos a pie.
+
 ### Día 2 — El Muro de Berlín y la Guerra Fría
 Es la jornada de la ciudad dividida, y pide tiempo.
 
@@ -47,12 +49,16 @@ Por la tarde, la **Topografía del Terror** (Topographie des Terrors), el centro
 
 Después de una jornada así, la noche hay que dejarla vacía.
 
-### Día 3 — La Isla de los Museos y Berlín Este
-La mañana y la primera parte de la tarde fueron para la **Isla de los Museos** (Museumsinsel), Patrimonio de la UNESCO desde 1999: el **Pergamonmuseum** (conviene comprobar antes qué salas están abiertas, dadas las obras en curso), el **Neues Museum** con el busto de **Nefertiti** y el **Altes Museum** con las colecciones de arte clásico.
+**En la práctica:** la zona al aire libre de Bernauer Straße es gratuita y siempre accesible, el centro de visitantes cierra los lunes (S-Bahn Nordbahnhof) · la Topografía del Terror es gratuita y abre todos los días · Checkpoint Charlie está en la U6, parada Kochstraße · conviene un billete de un día de la BVG, porque los tres lugares están lejos entre sí.
 
-Por la tarde nos trasladamos hacia **Alexanderplatz** y el barrio de alrededor, corazón de la antigua Berlín Este: la **Fernsehturm** (Torre de la TV), visible desde gran parte de la ciudad, y el **Nikolaiviertel**, el pequeño barrio reconstruido en torno a la iglesia más antigua de Berlín. Para quien quiera, el **DDR Museum**, dedicado a la vida cotidiana en la Alemania del Este, está a pocos pasos.
+### Día 3 — La Isla de los Museos y Berlín Este
+La mañana y la primera parte de la tarde fueron para la **Isla de los Museos** (Museumsinsel), Patrimonio de la UNESCO desde 1999: el **Pergamonmuseum** (conviene comprobar antes qué salas están abiertas, dadas las obras en curso), el **Neues Museum** con el busto de **Nefertiti** y el **Altes Museum** con las colecciones de arte clásico. Conviene llegar a la apertura con una franja horaria ya reservada en línea, sobre todo para el Neues Museum: la sala de Nefertiti es la más concurrida de la isla y a primera hora se ve sin agobios. Quien quiera ver varios museos el mismo día gasta menos con la entrada combinada de la isla.
+
+Por la tarde nos trasladamos hacia **Alexanderplatz** y el barrio de alrededor, corazón de la antigua Berlín Este: la **Fernsehturm** (Torre de la TV), visible desde gran parte de la ciudad, y el **Nikolaiviertel**, el pequeño barrio reconstruido en torno a la iglesia más antigua de Berlín. Para quien quiera, el **DDR Museum**, dedicado a la vida cotidiana en la Alemania del Este, está a pocos pasos. Para la Fernsehturm es mejor comprar en línea una entrada con hora: la plataforma panorámica está a unos 200 metros y hacia el atardecer la cola se alarga bastante.
 
 Se cena alrededor de Alexanderplatz o volviendo hacia Mitte.
+
+**En la práctica:** museos de la isla con entrada individual o combinada, mejor con franja horaria reservada · paradas U5 Museumsinsel o S-Bahn Hackescher Markt · Pergamonmuseum: comprobar en la web de los Museos Estatales qué salas están abiertas · Fernsehturm con entrada con hora en la web oficial · el DDR Museum está junto al Spree, frente a la Catedral.
 
 ### Día 4 — Kreuzberg y Friedrichshain
 El último día dejamos el casco histórico por los barrios del este, crecidos tras la reunificación en los espacios que dejó libres la caída del Muro. Por la mañana estuvimos en la **East Side Gallery**: 1,3 km de Muro que siguen en pie a lo largo del Spree en Friedrichshain, pintados en 1990 por más de cien artistas. Entre los murales está el «Beso fraternal» entre Brézhnev y Honecker.
@@ -60,6 +66,8 @@ El último día dejamos el casco histórico por los barrios del este, crecidos t
 A primera hora de la tarde, **Kreuzberg**: el mercado turco a lo largo del **Maybachufer**, el arte urbano en las calles de alrededor de Oranienstraße, el **Markthalle Neun** para picar algo entre las muchas propuestas de comida callejera internacional.
 
 Por la noche queda tiempo para asomarse a la escena nocturna que ha hecho de Berlín una de las capitales mundiales de la música electrónica, nacida precisamente en estos espacios industriales que dejó libres la caída del Muro (hay una ficha de experiencia dedicada), sin que sea un elemento indispensable del fin de semana.
+
+**En la práctica:** la East Side Gallery es al aire libre y gratuita, desde las estaciones de Warschauer Straße u Ostbahnhof · el mercado turco del Maybachufer se celebra los martes y los viernes · en el Markthalle Neun el Street Food Thursday es el jueves por la noche · la U1 cruza el Oberbaumbrücke y une Friedrichshain con Kreuzberg en pocos minutos.
 
 ## Qué ver / qué hacer
 - **La Puerta de Brandeburgo** y la cúpula del Reichstag.

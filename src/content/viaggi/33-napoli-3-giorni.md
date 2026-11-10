@@ -44,6 +44,8 @@ Poi siamo scesi **sotto**, perché Napoli ha una città sotto la città: **cave 
 
 La sera, di nuovo su via dei Tribunali, con la pizza.
 
+**In pratica:** Cappella Sansevero solo con prenotazione online a fascia oraria, biglietto circa 12 €, chiusa di solito il martedì, foto vietate · Chiostro di Santa Chiara e Pio Monte della Misericordia con biglietto di pochi euro · Napoli Sotterranea e Galleria Borbonica solo con visita accompagnata a orari fissi, da prenotare; la prima ha cunicoli strettissimi · la sera su via dei Tribunali nelle pizzerie più note si fa la fila: conviene arrivare presto.
+
 ### Giorno 2 — MANN, Sanità e la collina
 La mattina siamo stati al **Museo Archeologico Nazionale**, il museo di archeologia romana più importante del mondo insieme a quelli di Roma. Va fatto **prima di Pompei**.
 
@@ -54,6 +56,8 @@ Il pomeriggio siamo andati al **Rione Sanità**, il quartiere che più di ogni a
 A fine giornata siamo saliti al **Vomero** in **funicolare**. **Castel Sant'Elmo** ha la terrazza con la vista più completa sul golfo, e accanto c'è la **Certosa di San Martino**, con il chiostro, la chiesa barocca e la **sezione presepiale**. Lì c'è il **Presepe Cuciniello**, un presepe settecentesco enorme in cui la Natività è un dettaglio in mezzo a una scena di vita napoletana con mercati, osterie e centinaia di figure.
 
 Tramonto dal belvedere e poi giù. La sera, **Chiaia** o il **lungomare Caracciolo**, che è pedonale, con il **Castel dell'Ovo** sullo sfondo.
+
+**In pratica:** MANN chiuso il martedì, aperto dalle 9 alle 19.30 con ultimo ingresso alle 18.30, biglietti anche online · Catacombe di San Gennaro solo con visita guidata, a partenze fisse · Cimitero delle Fontanelle con orari ridotti, da controllare prima · funicolare per il Vomero con il normale biglietto dei mezzi urbani · Castel Sant'Elmo e Certosa di San Martino con biglietti separati: giorni di chiusura da verificare sul sito del ministero.
 
 ### Giorno 3 — Il Vesuvio, Ercolano e Pompei
 È la giornata fuori città, e va decisa in anticipo perché **farle tutte e tre è troppo**.
@@ -67,6 +71,8 @@ Tramonto dal belvedere e poi giù. La sera, **Chiaia** o il **lungomare Caraccio
 **Pompei** è un'altra cosa: è **una città intera**, e si cammina per ore. Le priorità, per non disperdersi: la **Villa dei Misteri** con il ciclo di affreschi in rosso pompeiano, il **Foro** con il Vesuvio in fondo, la **Casa del Fauno**, le **Terme Stabiane**, il **Lupanare**, l'**Anfiteatro** (il più antico anfiteatro romano in pietra conosciuto) e i **calchi**: i vuoti lasciati dai corpi nella cenere, riempiti di gesso da Giuseppe Fiorelli nell'Ottocento, che restituiscono le posizioni esatte in cui la gente è morta. **Servono cappello, acqua e scarpe vere**, perché si cammina su basolato sconnesso e l'ombra è quasi assente.
 
 Poi siamo rientrati a Napoli per l'ultima sera in città.
+
+**In pratica:** Circumvesuviana da Napoli Porta Nolana o Garibaldi, poco meno di mezz'ora fino a Ercolano Scavi e una quarantina di minuti fino a Pompei Scavi · biglietto di Pompei nominativo, con data e fascia oraria, una ventina di euro, da comprare solo su pompeiisites.org o dai rivenditori ufficiali · Vesuvio: biglietto solo online su vesuviopark.vivaticket.it, circa 12 €, nessuna biglietteria in quota · con vento forte o allerta meteo il sentiero del Gran Cono chiude: controllare il giorno prima.
 
 ## Cosa vedere / cosa fare
 - **Il Cristo Velato** alla Cappella Sansevero, prenotato per tempo.

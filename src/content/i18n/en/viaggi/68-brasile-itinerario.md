@@ -31,15 +31,25 @@ We landed at Galeão international airport and took an official taxi or an app t
 
 We watched the sunset from the **Pedra do Arpoador**, the rocky spur between Copacabana and Ipanema, where people applaud when the sun goes down behind the Dois Irmãos hill.
 
+From Galeão to the South Zone usually takes 40 minutes to an hour, much longer at the late-afternoon rush hour. The first day is best kept simple: check-in, a walk along the seafront, the first fresh coconut from a kiosk and a light lunch, with nothing at a fixed time. It's also the moment to sort out the practical things: a local SIM or eSIM, the ride-hailing app, some reais in cash withdrawn in a shopping centre. *On the sand and along the seafront the phone stays in your pocket, not in your hand: it's Rio's first rule and it applies from the first afternoon.*
+
+**In practice:** Galeão-South Zone 40-60 minutes by official taxi or app, longer at rush hour · base in Ipanema, Leblon or Copacabana, near a metro stop · ATMs inside banks and shopping centres, by day · at Arpoador, arrive at least half an hour before sunset to find a spot on the rock.
+
 ### Day 2 — Christ the Redeemer and Santa Teresa
 **Christ the Redeemer** on Corcovado is reached by the cog train from Cosme Velho or by the official vans from Paineiras; the van ticket costs about R$87, with a single price all year. It's best to take the first run of the morning, before the clouds and the crowds arrive. From above you understand the shape of the city: the beaches, the Rodrigo de Freitas lagoon, Sugarloaf at the entrance to the bay.
 
 In the afternoon we went up to **Santa Teresa**, the hillside neighborhood with nineteenth-century villas, studios and the yellow tram (bondinho), and came down the **Escadaria Selarón**, the staircase covered in colorful tiles that leads to Lapa. You go in the daytime and head back by app.
 
+*The weather decides the order of the days: if Corcovado is covered in the morning, swap with Sugarloaf or the centre and go up with the first clear sky.*
+
+**In practice:** train from Cosme Velho or official vans from Paineiras, timed tickets online, first run of the morning · little shade at the top: water and a hat · the Santa Teresa bondinho leaves from the centre, near Largo da Carioca · the Escadaria Selarón is visited by day, and after sunset you go back by app.
+
 ### Day 3 — Sugarloaf, Copacabana and Ipanema
 The **Sugarloaf** cable car goes up in two stages, first to Morro da Urca and then to the top. The best moment is late afternoon, for the sunset over the bay and the city lighting up; the full ticket costs about R$205 (the promotional rate of R$160 is only for Brazilians). Those who like to walk can hike up to Urca on a short trail and take the cable car only for the second stage.
 
 The morning was free for the beaches: **Copacabana**, with its wavy Burle Marx promenade, and **Ipanema**, divided into "postos", the lifeguard towers that also mark the tribe of each stretch of beach. On your towel, bring only things you're willing to lose.
+
+**In practice:** the cable car leaves from Praia Vermelha, in the Urca neighbourhood · full ticket about R$205, online or at the ticket office · for sunset go up at least an hour before, the queue for the second stretch grows · trail to Morro da Urca about 30-40 minutes, by day and in closed shoes · on the beach, chairs and umbrellas are rented from the barracas at each posto.
 
 ### Day 4 — The historic center and the night in Lapa
 Rio's **center** is best visited in the daytime, on weekdays: the Confeitaria Colombo, the Theatro Municipal, the cone-shaped cathedral, the Real Gabinete Português de Leitura, one of the most beautiful libraries in the world. At the port, Praça Mauá with the **Museu do Amanhã** and the Boulevard Olímpico full of murals.
@@ -56,28 +66,50 @@ From Rio to **Paraty** it's about 4 and a half hours by bus (Novo Rio bus statio
 
 The historic center is closed to cars, with white houses and colorful doors and streets of big cobblestones that sometimes flood at high tide. The evening is quiet: locally made cachaça, restaurants and live music.
 
+The bus leaves from the Novo Rio rodoviária, and a morning one is better to reach Paraty in daylight and see the coast: along the road bays, islands and the forest running down to the sea alternate, and to see them sit on the left side. Paraty's bus station is a few minutes' walk from the historic centre. Leave the afternoon for the centre: the churches of Santa Rita and Nossa Senhora dos Remédios, the little harbour, the shops. *On Paraty's cobbles you need shoes with thick soles; in heels or flip-flops walking is hard.*
+
+**In practice:** Rio-Paraty about 4 and a half hours by bus, tickets bought a few days ahead at weekends · by car it's the same road, the BR-101 · sleep in a pousada in or near the historic centre · dinner and live music in the centre, craft cachaça in the alambique shops.
+
 ### Day 6 — Paraty: the bay by boat and the waterfalls
 Paraty Bay has dozens of islands and beaches reachable only by sea. The **escunas**, wooden boats for groups, do a 4-5 hour tour with swimming stops; private **lanchas** cost more but choose where to stop. In the afternoon we went up to the **waterfalls** along the Cunha road, like the Cachoeira do Tobogã, where local kids slide down the rock, and to the cachaça **alambiques**.
 
 *Good to know: if you have an extra day you can go to **Trindade**, 30 minutes south, with wild beaches and the Cachadaço natural pool.*
+
+The escunas leave Paraty's pier in late morning and return in the afternoon, with three or four stops for swimming and snorkelling: for price and quality it's worth comparing a few agencies, and private lanchas split well among four or six people. The waterfalls and alambiques are on the mountain road towards Cunha, a few kilometres from the centre, reached by taxi, on a tour or by local bus. *On the Tobogã rock you really slide: if you try it, be careful and first watch where the locals go down.*
+
+**In practice:** escuna 4-5 hours with stops, a few tens of reais per person, lunch extra · private lancha more expensive, to be negotiated at the pier · for the waterfalls, water shoes and a towel · Trindade about 30 minutes south, with local buses from Paraty.
 
 ### Day 7 — Ilha Grande: arrival in Abraão
 From Paraty you reach **Ilha Grande** by van and boat (about 3 hours), via Angra dos Reis or Conceição de Jacareí. The island has no cars: you walk on trails in the forest or get around by boat. The main village, **Vila do Abraão**, has pousadas, restaurants and nightlife.
 
 In the afternoon we did a first short trail to Abraãozinho beach or to the **Aqueduto** and the **Cachoeira da Feiticeira**.
 
+The combined van-and-boat transfer is booked in Paraty, at an agency or your pousada, and it's the simplest way: you're picked up at the hotel and dropped at Abraão's pier. On the island the pousadas are on foot from the pier or along the beach, and luggage is carried by hand: travel light. The Feiticeira trail passes the aqueduct and continues into the forest, with a pool at the foot of the waterfall for a swim. *In Abraão ATMs are few and don't always work: better to arrive with cash for a few days.*
+
+**In practice:** Paraty-Abraão about 3 hours by van and boat · no cars on the island, only trails and boats · Cachoeira da Feiticeira about an hour on foot from Abraão, easy trail · mosquitoes in the evening: repellent · the next day's boat trips are booked in the village.
+
 ### Day 8 — Ilha Grande: Lopes Mendes
 **Lopes Mendes** is considered one of the most beautiful beaches in Brazil: three kilometers of fine white sand, open sea, forest behind. You get there by boat to Pouso and then a 20-minute walk, or on a trail of about three hours through the forest. Alternatively there's the boat tour of the **Lagoa Azul** and the **Lagoa Verde**, for snorkeling.
 
 *Good to know: there are no facilities at Lopes Mendes, so water and food must be brought along. The open sea has waves and currents, so swim with caution.*
 
+For Lopes Mendes it's best to take the first boats of the morning, which reach Pouso when the beach is still empty. The walking trail from Abraão is longer and tiring, with ups and downs in the forest, but passes other beaches on the way; many walk it out and return by boat. The Lagoa Azul trip is the quieter choice, for those who want to swim among fish without walking. *The last boats from Pouso leave in the late afternoon: ask the time on the way out so you don't get stranded.*
+
+**In practice:** boat Abraão-Pouso, then about 20 minutes on foot to Lopes Mendes · full trail from Abraão about three hours · bring water, food and sun protection, there's nothing on the beach · Lagoa Azul by boat, half-day or full-day trip.
+
 ### Day 9 — From Ilha Grande to Foz do Iguaçu
 A transfer day: boat and transfer to Rio airport (3-4 hours in all, to be booked the day before in Abraão) and flight to **Foz do Iguaçu**, often with a stop in São Paulo. We arrived in the evening. You can sleep on the Brazilian side, in Foz, or in Puerto Iguazú in Argentina; this itinerary uses Foz, more convenient for flights.
+
+The transfer from Abraão towards Rio is by boat to the mainland and then by van to the airport, on fixed schedules: choose a flight in the early afternoon or later, to have margin in case of rough sea or traffic. Flights to Foz leave from Galeão or Santos Dumont, the downtown airport, depending on the airline, and almost always connect in São Paulo. In Foz the airport is on the road to the park, a few kilometres from the falls. *In heavy seas boats can leave late or be cancelled: that's why the flight should never be too early.*
+
+**In practice:** Abraão-Rio airport 3-4 hours by boat and van, booked the day before · flight to Foz do Iguaçu almost always via São Paulo · from Foz airport to town 20-30 minutes by taxi or app · sleep in Foz, handy for flights and the park.
 
 ### Day 10 — Iguazú, the Brazilian side and the Parque das Aves
 The **Iguazú Falls** are a front of about 275 drops stretching almost three kilometers, on the border between Brazil and Argentina. The **Brazilian side** gives the overall view: a trail of about a kilometer and a half along the canyon, up to the walkway that goes in beneath the **Garganta do Diabo**, where you get completely soaked. 2-3 hours are enough; entrance for foreigners costs R$134 (fare in force since 19 December 2025, updated every year with inflation) and is bought online by choosing day and time.
 
 Right across from the entrance is the **Parque das Aves**, with toucans, macaws and Atlantic Forest birds in large aviaries. If you like, add the **Macuco Safari**, the inflatable-boat ride right under the falls (roughly R$450-550).
+
+**In practice:** arrive at the park's opening, before the organised groups · inside you get around on the park buses to the start of the trail · Garganta do Diabo: poncho or swimsuit, you get wet · Parque das Aves opposite the entrance, separate ticket · book the Macuco Safari, with a dry bag for your phone.
 
 ### Day 11 — Iguazú, the Argentine side and the Garganta del Diablo
 The **Argentine side** is where you walk inside the falls: three walkway circuits (Superior, Inferior and the **Garganta del Diablo**, reached by a little train in the forest) lead above the biggest drop, where the water mist rises tens of meters. It takes the whole day.
@@ -94,38 +126,66 @@ Flight from Foz do Iguaçu to **Salvador**, almost always with a stop in São Pa
 
 The best base is the **Pelourinho**, the historic center, or the **Barra** and **Rio Vermelho** neighborhoods, by the sea, safer in the evening. We watched our first sunset from the **Farol da Barra**.
 
+The flight is long and with the connection takes most of the day: a morning flight gets you to Salvador in the afternoon, in daylight. From the airport to the seaside neighbourhoods usually takes 30-50 minutes, depending on traffic. Farol da Barra, with the fort of Santo Antônio and its small nautical museum, is where Bahians gather at sunset, on the rocks and the lawn by the sea. *Here too the phone stays in your pocket and in the evening you move by app, even for short distances.*
+
+**In practice:** Foz-Salvador 4-6 hours with the connection · airport-Barra about 30-50 minutes by taxi or app · sleep in Pelourinho for the history or in Barra and Rio Vermelho for the sea and the evening · sunset at Farol da Barra, about half an hour early to find a spot.
+
 ### Day 13 — Salvador: Pelourinho and the Lower City
 The **Pelourinho**, a UNESCO site, is a set of uphill squares with pastel-colored colonial houses and baroque churches; the most famous is the **Igreja de São Francisco**, covered in gold inside. We went down to the lower city by the **Elevador Lacerda**, the public elevator from 1873, to the **Mercado Modelo**. On Tuesday evenings the Pelourinho throws a party, with concerts and the drums of Olodum.
 
 *Good to know: in the daytime the Pelourinho is patrolled, but in the evening the side streets empty out early. Better to stick to the main streets and head back by app.*
+
+Pelourinho is best explored in the morning, when the churches are open and the light on the façades is better: start from **Terreiro de Jesus**, go down to Largo do Pelourinho with the Fundação Casa de Jorge Amado and climb back towards São Francisco. The Elevador Lacerda links the upper and lower city in a few seconds, and from the top the view over the Baía de Todos os Santos is worth the ride alone. At Mercado Modelo you buy crafts and berimbaus, haggling. *On Tuesday evening arrive early for the concerts, before the streets fill up, and stay on the main streets.*
+
+**In practice:** Igreja de São Francisco with a small entrance ticket, check the hours on site · Elevador Lacerda costs a few cents · Mercado Modelo open by day · for the evening return, call an app car from outside the venue.
 
 ### Day 14 — Salvador: Bonfim, Rio Vermelho and Bahian food
 In the morning we went to the **Igreja do Senhor do Bonfim**, the church of the colored ribbons tied to the gate and to the wrist as a vow. Then the **Solar do Unhão** and the modern art museum by the sea, and in the afternoon **Rio Vermelho**, the nightlife neighborhood, where the baianas fry **acarajé** in palm oil on the street.
 
 If you want to see **capoeira** you can watch a roda in one of the schools in the Pelourinho (ask first), and if you have an extra day you can take the boat trip in the **Baía de Todos os Santos**.
 
+The Bonfim church is on the Itapagipe peninsula, north of the lower city, and morning is the best time, with masses and people arriving to pray and tie ribbons. The ribbons are tied around the wrist with three knots, one for each wish, and you wait for them to break on their own. The Solar do Unhão, an old colonial house on the sea, hosts the museum of modern art and a sculpture garden overlooking the bay, and at sunset it's one of the loveliest places in the city. *Order acarajé «quente» if you want it spicy; if you're not used to dendê oil, eat just one the first time.*
+
+**In practice:** Bonfim by taxi or app from the upper city, about 20-30 minutes · Solar do Unhão with the museum, usually closed on Mondays · Rio Vermelho in the evening, acarajé at the baianas' stalls · capoeira roda to be asked for at the school beforehand, with a donation · a full-day trip on the Baía de Todos os Santos.
+
 ### Day 15 — To the Chapada Diamantina
 From Salvador to **Lençóis** (Bahia) it's about 6-7 hours by bus inland; where available, you can take a short flight. Lençóis is a town born in the nineteenth century with the diamond rush, today the base for the **Parque Nacional da Chapada Diamantina**: a plateau of mesas, canyons, caves and waterfalls as big as an Italian region.
 
 The town is small, with colorful houses, agencies and restaurants. The first afternoon, the short trail along the river to the **Ribeirão do Meio**, a natural rock slide with a pool, is enough.
+
+The bus to Lençóis leaves from Salvador's rodoviária; take the early-morning or the overnight one, so as not to lose a whole day travelling. The flight, when there is one, lands at the Chapada airport, about twenty kilometres from town, but it only runs in some periods and not every day. In Lençóis the agencies for the following days' excursions are all in the centre: talk to a couple and fix guide and car that same evening. *The pools and water slides of Ribeirão do Meio are dark and deep: only go in where you see locals going in.*
+
+**In practice:** Salvador-Lençóis about 6-7 hours by bus · seasonal flight to the Chapada, to be checked · Ribeirão do Meio about 45 minutes on foot from town, easy trail · sleep in a pousada in Lençóis, and in the evening the whole town can be walked.
 
 ### Day 16 — Chapada: Morro do Pai Inácio and the caves
 We did the classic tour with a guide and a car: the **Gruta da Lapa Doce** or the **Gruta da Pratinha**, with turquoise water where you snorkel inside the cave; the **Poço do Diabo**, a waterfall with a dark pool; and the sunset on the **Morro do Pai Inácio**, the mesa that overlooks the valley, with a steep 20-30 minute climb.
 
 In the Chapada guides are not mandatory everywhere, but they are on the long trails and in the caves, and the routes are poorly marked: it's best to go with a local guide anyway.
 
+The classic tour takes the whole day and is done by car with a guide, leaving in the morning and returning after sunset: distances between caves are tens of kilometres on dirt roads. At Pratinha you swim with mask and torch inside the cave, guided by a rope, and it's the coolest moment of the day; Lapa Doce is walked, with stalactites and large chambers, for about an hour. *For Pai Inácio arrive half an hour before sunset: the climb is short but steep, and at the top you stand on rock without railings.*
+
+**In practice:** day tour with guide and car from Lençóis, booked the evening before · paid entry at almost all caves, usually not included in the price · swimsuit, mask and water shoes · lunch at a restaurant along the road · head torch for the descent from Pai Inácio in the dark.
+
 ### Day 17 — Chapada: the Cachoeira da Fumaça or the Poço Azul
 For the last day there are two choices. The **Cachoeira da Fumaça**, one of the tallest waterfalls in Brazil (about 340 meters), is reached from the Capão valley by a 6 km round-trip trail, with a steep initial climb; in the dry season the water turns to smoke before touching the ground, hence the name. The alternative is the **Poço Azul** and the **Poço Encantado**, flooded caves where sunlight comes in and lights the water blue (at Poço Encantado roughly from April to September, in the middle hours).
 
 *Good to know: if you have time and legs, you can replace these days with the **Vale do Pati trek**, 3-5 days through remote valleys sleeping in farmers' houses.*
 
+**In practice:** Fumaça is done from the Vale do Capão, about an hour and a half by road from Lençóis, leaving early · trail of about 6 km round trip, hiking shoes and water · Poço Azul and Poço Encantado with entrance tickets, the first for swimming, the second only to look at · Vale do Pati to be arranged with a local guide, days ahead.
+
 ### Day 18 — From Lençóis to São Luís
 A long transfer day: bus back to Salvador and flight to **São Luís**, capital of Maranhão, almost always with a stop. We arrived in the evening. São Luís is the only Brazilian capital founded by the French (1612), with a historic center of houses covered in Portuguese azulejos, a UNESCO site; if you arrive early you can take a walk in the Praia Grande.
+
+Take the bus back to Salvador early in the morning or the night before, to catch an afternoon flight without stress: in all it's around ten hours of road, waiting and flying. If you arrive in time, take a first walk in **Praia Grande**, the colonial quarter with azulejo façades, stairways and nineteenth-century merchants' houses, which comes alive in the evening with music and bars. *In São Luís's historic centre, as in Salvador, stay on the lively streets in the evening and go back by app.*
+
+**In practice:** Lençóis-Salvador about 6-7 hours by bus · Salvador-São Luís by plane, almost always with a connection · São Luís airport to centre about half an hour · sleep in the historic centre or the seaside neighbourhoods · book the van to Barreirinhas for the next morning.
 
 ### Day 19 — Barreirinhas and the Lagoa Azul circuit
 By van from São Luís to **Barreirinhas** (about 4 hours), the town on the Rio Preguiças that is the gateway to the **Parque Nacional dos Lençóis Maranhenses**. In the afternoon we did our first ride in a jardineira, the off-road truck with benches on the bed that crosses the river on a raft and takes the sand track to the dunes.
 
 The **Lagoa Azul circuit** leads to the first lagoons: clear, warm rainwater collected between white sand dunes up to 40 meters high. You walk barefoot, swim and stay for the sunset, when the sand changes color. There is nothing inside the park: water and a hat must be brought from Barreirinhas.
+
+**In practice:** São Luís-Barreirinhas about 4 hours by van, leaving early in the morning · jardineira roughly R$100-150 per person per circuit, guide included · for the lagoons, swimsuit and towel, and a bag for your shoes · return after sunset: head torch in the backpack.
 
 ### Day 20 — Lagoa Bonita and the dunes at dawn
 The second circuit is the **Lagoa Bonita** one, reached by climbing a steep dune with a rope: from the top you see the sea of dunes and lagoons to the horizon. You can do it at dawn, with the lower light, or at sunset. In your free time, there's also the scenic flight in a small plane over the park, from which you understand how vast the lagoons are.
@@ -139,8 +199,16 @@ The second circuit is the **Lagoa Bonita** one, reached by climbing a steep dune
 ### Day 21 — The Rio Preguiças, Caburé and Atins
 We spent the last day by boat along the **Rio Preguiças**, down to the sea. You pass **Vassouras**, where capuchin monkeys come close to the shore, and **Mandacaru**, with the lighthouse from which you look out over the dunes; then **Caburé**, a tongue of sand between the river and the ocean. If you like, you can stop at **Atins**, the village at the far end of the park, a kitesurfing base, and sleep there instead of going back to Barreirinhas.
 
+The boat trip leaves Barreirinhas in the morning and takes most of the day, with stops along the river and time for a swim and lunch at Caburé. At Vassouras the **small dunes** reach the riverbank, and from there you walk on the sand to the first lagoons; the Mandacaru lighthouse is climbed on foot by an inner staircase, to see the river, the dunes and the sea together. If you stop in Atins you have the evening and the next morning for the dunes on the park's east side, less visited. *The wind at Caburé and Atins blows hard from August on: it's kitesurfing season, less comfortable if you only want the beach.*
+
+**In practice:** full-day boat trip on the Rio Preguiças from Barreirinhas, lunch extra · Mandacaru lighthouse climbed on foot, with many steps · in Atins simple pousadas, reached by boat or 4x4 · cash for boats, lunches and pousadas.
+
 ### Day 22 — Return from São Luís
 Transfer to São Luís (about 4 hours from Barreirinhas, more from Atins) and return flight, with a stop in São Paulo, Brasília or Fortaleza and a connection to Europe. It's best to book the transfer for the early morning hours and an afternoon or evening flight.
+
+The transfer to São Luís usually leaves Barreirinhas at dawn, and from Atins it first needs the boat or 4x4 to Barreirinhas: allow for it and spend the last night in Barreirinhas if the flight is early. Connections to Europe, from São Paulo or Fortaleza, generally leave in the evening, and the domestic leg should be chosen with a few hours of margin. *On domestic flights checked luggage is often extra, and lagoon sand should be shaken out of shoes and bags before check-in.*
+
+**In practice:** Barreirinhas-São Luís about 4 hours by van, longer from Atins · at the airport two hours ahead for domestic flights · a few hours of margin between the domestic and intercontinental flight, especially on separate tickets · spend leftover reais before departure.
 
 ## Extension A — The Pantanal, Land of Jaguars (4-6 days)
 The **Pantanal** is the largest tropical wetland in the world, between Mato Grosso, Mato Grosso do Sul, Bolivia and Paraguay. In the dry season the water retreats into the rivers and animals gather on the banks: caimans, capybaras, giant otters, toucans, jabirus and above all the **jaguar**, which in the northern Pantanal is seen with a regularity unmatched anywhere in the world.

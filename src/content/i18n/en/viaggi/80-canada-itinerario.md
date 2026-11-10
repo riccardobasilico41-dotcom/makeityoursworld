@@ -46,9 +46,13 @@ This guide lays out the classic Ontario and Québec itinerary, the one you do in
 ### Day 1 — Arrival in Toronto
 From **Pearson** airport the **UP Express** train takes you to Union Station, downtown, in about 25 minutes. You don't need the car on the first day: in Toronto you get around on foot, by subway and by streetcar, and downtown hotel parking is expensive. In the evening a walk along the waterfront, the **Harbourfront**, is enough to watch the city light up.
 
+Flights from Europe usually land in the early afternoon, and it's worth keeping arrival day light to get over the jet lag. After dropping your bags, head down to the lake along **Queens Quay**, the promenade with a bike lane that runs along the water, to the **Harbourfront Centre**, which in summer hosts free concerts and markets almost every weekend. *On the first day it's better not to go to bed before ten at night: it's the quickest way to adjust to local time.* For dinner, any of the pubs and international restaurants that fill downtown will do, or try the area around **Union Station**.
+
 **In practice**
 - Pearson to Union Station on the UP Express, about 25 minutes
 - You pick up the car on the morning of day three
+- UP Express about CAD 12 one way for adults, you can pay with a contactless card; children up to 12 ride free
+- TTC subway and streetcars: a single fare is just over CAD 3, paid by tapping your credit card at the gate
 
 ### Day 2 — Toronto: the CN Tower, the lake and the markets
 In the morning you go up the **CN Tower**, the 553-meter tower that dominates the skyline: from the observation deck, on clear days, you can see the far shore of Lake Ontario. The basic ticket costs around CAD 43, but there's more than one price tier and it's worth checking the official site.
@@ -58,6 +62,8 @@ The rest of the day is for the neighborhoods: the **St. Lawrence Market** for lu
 **In practice**
 - CN Tower: around CAD 43 for basic admission: check cntower.ca
 - Ferry to the Toronto Islands from the Jack Layton Ferry Terminal
+- St. Lawrence Market: the South Market is closed on Sundays and Mondays
+- Island ferry about CAD 9-10 return, tickets online on the City of Toronto website
 
 ### Day 3 — Niagara Falls from the boat
 With the car picked up, it takes about an hour and a half to get from Toronto to the falls. There are three falls: the horseshoe-shaped **Horseshoe Falls** on the Canadian side, and the **American Falls** with the small **Bridal Veil Falls** on the U.S. side.
@@ -82,90 +88,137 @@ In the afternoon you head up the **Niagara Parkway**, the scenic road along the 
 ### Day 5 — The Thousand Islands
 This is the longest transfer day: about four hours east, along Lake Ontario, to **Gananoque**, the gateway to the **Thousand Islands**. Here the St. Lawrence leaves the lake and breaks up into almost two thousand islands and islets, many with a single house on them. Cruises leave from Gananoque and Rockport and last from one to three hours. If you'd rather drive, you can take the **Thousand Islands Parkway**, the scenic road along the river.
 
+It's worth leaving early to reach Gananoque by lunchtime and take an early-afternoon cruise, when the light on the river is at its best. The shorter cruises loop around the Canadian islands in front of the town; the longer ones go as far as **Heart Island**, home of **Boldt Castle**, the castle a New York hotelier had built for his wife and left unfinished when she died. After the cruise, continue east on the Parkway, which has a bike path of about forty kilometers alongside it, stopping at the lookouts and the small river beaches. *To sleep, Gananoque has simple motels and B&Bs; Kingston, half an hour further on, has more choice.*
+
 **In practice**
 - Niagara Falls to Gananoque: about 380 km (235 miles), 4 hours, via the 401 or the QEW depending on traffic
 - The longer cruises pass close to the U.S. border: if you want to land on the American side (Boldt Castle) you need the documents to enter the USA
+- Cruises from Gananoque and Rockport with frequent departures in summer, few in low season: book online
+- Thousand Islands Parkway: about 37 km from Gananoque to Brockville, free
 
 ### Day 6 — Kingston and arriving in Ottawa
 **Kingston**, half an hour from Gananoque, was the first capital of the Province of Canada. In the morning you visit **Fort Henry**, the nineteenth-century fortress on the hill above the harbor, and the limestone center around City Hall. In the afternoon you drive up to **Ottawa** in a couple of hours, in time for the change of light on Parliament.
 
+After Fort Henry, downtown Kingston takes a couple of hours on foot: **City Hall** with its dome facing the lake, the market square behind it, the waterfront down to the marina. If you have time you can add the guided tour of the former **Kingston Penitentiary**, the nineteenth-century prison closed in 2013 and open to the public in summer. There are two roads up to Ottawa: the fast one, Highway 401 and then 416, or Highway 15, which follows the **Rideau Canal** at a distance, slower and with the Kingston Mills and Jones Falls locks along the way. *In summer Fort Henry holds evening ceremonies with drums and cannons, on a separate ticket: worth checking the calendar.*
+
 **In practice**
 - Kingston to Ottawa: about 195 km (120 miles), 2 hours
 - Fort Henry is open from May to September: dates and prices on the Parks of the St. Lawrence site
+- Fort Henry: main season until early September, usually 10 am to 5 pm
+- Ottawa: to sleep, downtown between Parliament Hill and the ByWard Market is best for getting around without a car
 
 ### Day 7 — Ottawa: Parliament, the Rideau Canal and the museums
 Ottawa is a small capital and you get around on foot. On **Parliament Hill** the neo-Gothic buildings tower over the river; the **Centre Block** has been closed for years for a long restoration, and guided tours run in the other buildings, with free tickets to book. In summer there's a changing of the guard on the lawn in front.
 
 The **Rideau Canal**, a UNESCO World Heritage Site, runs through the city with its stepped locks right next to Parliament. Then the **ByWard Market**, the covered market and the streets around it, and one of the big museums: the **National Gallery of Canada** or, across the river in Gatineau, the **Canadian Museum of History**.
 
+The day is best planned around the Parliament tours, which have fixed times and limited places: book the first one in the morning and arrive early for security. From late June to late August, at 10 am, the Changing of the Guard takes place on the lawn, with red tunics and bearskins. In the afternoon walk down along the canal locks to the **ByWard Market**, good for lunch; then the National Gallery, with Louise Bourgeois's giant bronze spider in front of the entrance. *The Canadian Museum of History, across the bridge, is a twenty-minute walk away and its windows give the best view of Parliament.*
+
 **In practice**
 - Parliament tours are free, book online
 - Gatineau is already in Québec: once you cross the bridge, the signs turn French
+- Arrive at least 45 minutes before your tour time for registration and security
+- National Gallery and Canadian Museum of History: paid admission, shorter hours in low season, check closing days
 
 ### Day 8 — Mont-Tremblant and the Laurentians
 From Ottawa you enter the **Laurentians**, hills of forests and lakes north of Montréal. **Mont-Tremblant** is a ski resort with a pedestrian village of colorful houses at the foot of the mountain; in summer and fall the gondola takes you to the summit for the view over the lakes. A little farther north is the **Parc national du Mont-Tremblant**, with trails and canoeing, paid admission.
 
+The pedestrian village takes an hour, among colorful roofs, shops and terraces; the panoramic gondola climbs to the summit in a few minutes, where marked trails start and there's a restaurant. The afternoon is best spent in the national park: the La Diable sector, about twenty minutes further north, has the **Chute du Diable** waterfall, short trails between the lakes and canoe and kayak rental. *The Laurentians are at their best between late September and early October, when the maples turn red: these are also the most expensive and crowded weeks.* Cyclists will find the **P'tit Train du Nord** a little further south, the bike path built on an old railway line.
+
 **In practice**
 - Ottawa to Mont-Tremblant: about 150 km (90 miles), 2 hours
 - The village is expensive to stay in on fall weekends: book early or sleep in the nearby towns
+- Parc national du Mont-Tremblant: daily access around CAD 10 per person, paid on the Sépaq website or at the entrance
+- Panoramic gondola: a ticket of a few dozen dollars, shorter hours off season
 
 ### Day 9 — Montréal: the old city and Notre-Dame Basilica
 From Mont-Tremblant to Montréal it's an hour and a half. Once you arrive, the car stays at the hotel: in the city you go on foot and by subway, and on the whole island of Montréal turning right on red is banned.
 
 The afternoon is for **Old Montréal (Vieux-Montréal)**, the cobbled streets between the port and the place d'Armes. **Notre-Dame Basilica**, with its blue and gold interior, can be visited with a ticket. The **Old Port** on the St. Lawrence is the place for an evening stroll.
 
+A good starting point for the old town is **Place d'Armes**, in front of the basilica; from there walk down **rue Saint-Paul**, the oldest street, to **Place Jacques-Cartier**, the sloping square with restaurants and street artists. If you want to understand how Montréal began, the **Pointe-à-Callière** archaeology museum, built over the remains of the first settlement, is a few steps away. The **Marché Bonsecours**, with its silver dome, now houses craft shops. *In the evening the basilica puts on AURA, a light and music show inside the nave, on a separate ticket: book online, it sells out at weekends.* Dinner in the old town or at the Vieux-Port.
+
 **In practice**
 - Mont-Tremblant to Montréal: about 130 km (80 miles), an hour and a half
 - Notre-Dame Basilica: paid admission, hours and prices at basiliquenotredame.ca
+- STM subway: a single fare around CAD 4, the 24- or 72-hour pass is better value
+- Basilica: daytime visit and evening show both paid, tickets cheaper online
 
 ### Day 10 — Montréal: Mount Royal, the Plateau and the markets
 In the morning you climb **Mount Royal**, the hill the city is named after, up to the **Kondiaronk Belvedere**, from which you see the whole downtown. You come down toward the **Plateau-Mont-Royal**, the neighborhood of outdoor wrought-iron staircases, and **Mile End**, where two historic bakeries, **St-Viateur** and **Fairmount**, bake bagels in a wood-fired oven. In the afternoon the **Marché Jean-Talon**, the big open-air market in Little Italy.
 
+**Mont Royal** is a park designed by Frederick Law Olmsted, the man behind Central Park: from the lookout in front of the Chalet you walk down through the woods in half an hour. On summer Sundays drummers gather around the George-Étienne Cartier monument for the **tam-tams**, a city ritual for decades. The Mile End bakeries are open day and night, and the bagels are eaten hot straight out of the oven, with sesame or poppy seeds. At the Marché Jean-Talon you'll find Québec cheeses, maple syrup and seasonal fruit. *For smoked meat the most famous queue is at Schwartz's, on boulevard Saint-Laurent: you may wait outside, but it moves fast.*
+
 **In practice**
 - To get to the Kondiaronk Belvedere you walk up from the park or take the bus
 - Montréal is the city of **poutine** and **smoked meat**: try them at least once
+- Marché Jean-Talon open every day, metro Jean-Talon or De Castelnau
+- Mile End and the Plateau are easy on foot or with BIXI rental bikes
 
 ### Day 11 — From Montréal to Québec City: the old town
 From Montréal to **Québec City** it's under three hours along the St. Lawrence. **Old Québec (Vieux-Québec)**, a UNESCO World Heritage Site, is the only fortified city north of Mexico with its walls still standing. You arrive in time for the afternoon on the **Dufferin Terrace**, the wooden boardwalk beneath the **Château Frontenac**, and go down to the lower town by funicular or by the Casse-Cou staircase to the **Petit-Champlain district** and **Place Royale**.
 
+The quickest route runs along the north shore on Highway 40; if you want more scenery you can take the old **Route 138**, the Chemin du Roy, which is slower. Once in Québec, after the Terrasse Dufferin it's worth climbing onto the **walls**, which you can walk for about four and a half kilometers around the upper town. Below, in the **Quartier Petit-Champlain**, you walk among stone houses and shops to **Place Royale**, with the church of Notre-Dame-des-Victoires and the big Québécois mural painted on the side of a building. *The funicular saves you the climb back up, which you feel in tired legs at the end of the day.*
+
 **In practice**
 - Montréal to Québec City: about 255 km (160 miles), 2 hours 45 minutes to 3 hours
 - Parking inside the walls is awkward: better a hotel with parking or a public lot outside the gate
+- Funicular between the upper and lower town: a few dollars each way
+- Dinner in the old town: restaurants around rue Saint-Louis are more touristy, those in the Saint-Jean neighborhood more popular with locals
 
 ### Day 12 — Montmorency Falls and the Île d'Orléans
 Fifteen minutes from downtown are the **Montmorency Falls**, about 83 meters high, some thirty meters more than Niagara's Horseshoe Falls. You see them from the suspension bridge over the drop, from the staircase that runs down the cliff and from the gondola. Right after, across the bridge, the **Île d'Orléans**: a 67 km (42 mile) loop among farms, country churches, fruit stands and cider and cassis cellars. In the evening you return to the city for the **Plains of Abraham** and the **Citadelle**.
 
+It's worth getting to the falls in the morning, before the tour buses. The panoramic staircase down the cliff has 487 steps and passes so close to the falls that you come out wet; if you don't want to climb back up, take the cable car one way. The Île d'Orléans is driven along the **Chemin Royal**, stopping at strawberry and apple stands, at a blackcurrant winery or a cider house, and in the villages of Saint-Jean and Sainte-Famille, among the oldest in Québec. *The bridge linking the island to the mainland is narrow and being replaced: at rush hour there may be a queue.* In the afternoon, the **Plains of Abraham**, the battlefield of 1759 between the British and the French, now a large park on the river.
+
 **In practice**
 - Parc de la Chute-Montmorency: parking and gondola paid (Sépaq)
 - The Île d'Orléans loop takes half a day with stops
+- Montmorency: from the upper car park, near the Manoir Montmorency, walk down and ride the cable car back up
+- Citadelle: paid guided tours and, in summer, the Changing of the Guard in the morning
 
 ### Day 13 — Charlevoix: Baie-Saint-Paul and the road along the river
 You head down the north shore of the St. Lawrence toward **Charlevoix**, a region of hills that drop to the river, a UNESCO biosphere reserve. **Baie-Saint-Paul** is a town of art galleries and creameries; from here **Route 362** runs high above the river to **La Malbaie**, with viewpoints over the bends. In the evening you reach **Baie-Sainte-Catherine** and take the ferry to **Tadoussac**.
 
+Baie-Saint-Paul takes an hour on foot: the main street, rue Saint-Jean-Baptiste, is full of galleries and shops, and there's a contemporary art museum and the **Laiterie Charlevoix**, the cheese dairy that lets you watch production. Route 362, also called the Route du Fleuve, passes through Les Éboulements, with a sweeping view of **Isle-aux-Coudres**, reached by a free ferry from Saint-Joseph-de-la-Rive. At La Malbaie there's the big historic hotel of the **Manoir Richelieu**, on the river. *If you have an extra day you can head inland to the Parc national des Hautes-Gorges-de-la-Rivière-Malbaie, with some of the highest rock walls east of the Rockies.*
+
 **In practice**
 - Québec City to Baie-Saint-Paul: about 95 km (60 miles), then another 130 km (80 miles) or so to Tadoussac
 - The Baie-Sainte-Catherine to Tadoussac ferry, across the Saguenay fjord, is free and runs all day
+- Ferry to Tadoussac: about a 10-minute crossing, no booking, day and night
+- In high season and on summer weekends book accommodation in Tadoussac well ahead: the village is small
 
 ### Day 14 — Tadoussac and the whales of the St. Lawrence
 **Tadoussac** sits at the mouth of the **Saguenay fjord**, where cold, deep water draws whales into the St. Lawrence. Cruises leave from the harbor and last about three hours; you see fin whales, humpbacks in the right weeks and the **belugas**, which live here all year. If you get seasick, you can watch them from land at the **Centre d'interprétation et d'observation de Cap-de-Bon-Désir**, a little farther east. In the afternoon, the trails over the fjord or the dunes above the town.
 
+The most comfortable cruises are the morning ones, when the river is often calmer and the light helps you spot the blows. The big boats have covered decks and are more stable; the zodiacs sit close to the water and get closer, but you come back wet and cold. *Even in August, on the St. Lawrence, you need a jacket, hat and gloves: the water is below ten degrees and the wind bites.* On land, the **Marine Mammal Interpretation Centre**, near the harbor, explains what you've just seen. For an afternoon walk there's the **Pointe-de-l'Islet** trail, half an hour among the rocks at the mouth of the fjord, where belugas can sometimes be seen even from the shore.
+
 **In practice**
 - Croisières AML, 2026 season from May 9 to November 1, cruise of about 3 hours from CAD 134.99 per adult plus taxes; other operators run shorter Zodiac outings
 - Whales are most numerous between July and September
+- Cap-de-Bon-Désir Interpretation and Observation Centre: about half an hour's drive from Tadoussac, open in summer only
+- Book the cruise online and check the weather: in rough seas trips are cancelled
 
 ### Day 15 — Back to Montréal
 This is the longest driving day of the trip: from Tadoussac to Montréal you retrace the Charlevoix coast and the St. Lawrence, about five and a half hours not counting stops. If you have a flight the evening of the next day, you can break the trip in Québec City. In the evening you return the car, or keep it until the airport.
 
+It's worth leaving early and splitting the day into three legs. The first is the drive back through Charlevoix to Québec, stopping, if you haven't already, at the great **basilica of Sainte-Anne-de-Beaupré**, on Route 138 half an hour from the city. The second is Highway 40 to **Trois-Rivières**, halfway, good for lunch and stretching your legs on the riverfront. The last leg brings you to Montréal in the late afternoon, often in rush-hour traffic. *If you have time, sleep in Québec and do the last leg the next morning: the day becomes much lighter.*
+
 **In practice**
 - Tadoussac to Montréal: about 470 km (290 miles), 5 and a half hours
 - Fill up before returning the car, if the contract requires it
+- Sleep near the airport or downtown depending on your flight time
 
 ### Day 16 — Departure from Montréal
 Return flight from **Montréal-Trudeau airport (YUL)**, about twenty kilometers (12 miles) from downtown. With flights to Europe usually leaving in the evening, there's time for one last breakfast in Mile End or a walk up Mount Royal.
 
+The morning is free for last purchases: maple syrup, Québec cheeses and icewine can be bought at the Marché Jean-Talon or at the **Marché Atwater**, closer to downtown. For the airport, if you've already returned the car, there's the STM **747 bus**, which leaves from downtown and runs day and night; in afternoon traffic it can take up to an hour. *In hand luggage liquids are still limited to 100 ml: syrup and wine go in the hold, well packed.*
+
 **In practice**
 - Returning the car at YUL saves the taxi to the airport
 - Get to the airport 3 hours early for international flights
+- 747 airport bus about CAD 11, the ticket is also valid on the metro and buses for 24 hours
+- Marché Atwater open every day, near Lionel-Groulx metro
 
 ## Extension — Churchill (Manitoba) and the polar bears (3-5 days)
 

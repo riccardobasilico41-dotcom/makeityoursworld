@@ -38,6 +38,8 @@ Para dormir vale la recomendación ya hecha: **Praiano o Minori** si se quiere l
 
 La primera tarde, con calma. **Positano** al atardecer, si se está allí: es vertical, se baja a pie entre escaleras y buganvillas hasta la playa Grande y **se sube con las piernas**. No hay alternativa, salvo un autobús que da una vuelta enorme. La iglesia de Santa Maria Assunta tiene la cúpula de mayólica amarilla y verde que es la imagen del pueblo.
 
+**En la práctica:** desde Nápoles por mar desde el Molo Beverello en temporada, o Circumvesuviana hasta Sorrento y luego autobús SITA o ferry · nada de coche · en Positano se baja y se sube a pie, equipaje ligero · en temporada alta conviene reservar la cena del primer día.
+
 ### Día 2 — El Sendero de los Dioses
 Es la mejor jornada del itinerario, y hay que hacerla temprano.
 
@@ -51,6 +53,8 @@ A lo largo del recorrido se ven los **bancales de limoneros y viñas en pendient
 
 Por la tarde, playa o ferri, y descanso.
 
+**En la práctica:** autobús SITA a Agerola-Bomerano a primera hora · unas tres horas de Bomerano a Nocelle, en bajada · sendero gratuito, botas de trekking y agua, ninguna fuente garantizada en el recorrido · desde Nocelle autobús a Positano o unos 1.700 escalones.
+
 ### Día 3 — Amalfi, Atrani y Ravello
 Fuimos en ferri a **Amalfi**, que fue una **República Marinera** cuando Venecia todavía era una apuesta y que hoy es un pueblo pequeño con un pasado desproporcionado.
 
@@ -62,6 +66,8 @@ Por la tarde subimos a **Ravello**, a unos cuatrocientos metros sobre la costa, 
 
 La noche en Ravello, si se consigue quedarse, es otra cosa: cuando bajan los últimos autobuses, el pueblo cambia.
 
+**En la práctica:** ferry a Amalfi, pocos euros por trayecto · Duomo y Claustro del Paraíso con entrada · Atrani a diez minutos a pie · autobús SITA a Ravello, que en verano se llena: mejor subir en la cabecera · Villa Rufolo y Villa Cimbrone con entradas separadas.
+
 ### Día 4 — La costa oriental y el Valle de las Ferriere
 Es la jornada de las cosas que casi nadie hace.
 
@@ -71,12 +77,16 @@ Es la jornada de las cosas que casi nadie hace.
 
 Quien todavía tenga energía puede añadir el **Fiordo de Furore**, una incisión estrechísima en la roca con un puente encima y una playa diminuta al fondo, y la **Gruta de la Esmeralda** en Conca dei Marini, a la que se llega en barca o con un ascensor desde la carretera, **con un acceso que depende del estado del mar**.
 
+**En la práctica:** Valle delle Ferriere con accesos regulados a comprobar antes · calzado que agarre en mojado · villa romana de Minori gratuita · Sentiero dei Limoni corto y sin dificultad · Gruta de la Esmeralda solo con el mar en calma.
+
 ### Día 5 — Traslado a Capri
 Por la mañana cogimos el ferri a **Capri**. Se desembarca en **Marina Grande** y se sube al centro en el **funicular**, o a pie para quien quiera empezar bien.
 
 La tarde la dedicamos a la parte alta: la **Piazzetta**, minúscula, que vive de ser observada, y luego los **Jardines de Augusto** con la vista a los **Faraglioni** y a **Via Krupp**, la carretera de curvas excavada en la roca que baja a Marina Piccola. **Via Krupp ha estado cerrada por tramos por riesgo de desprendimientos: conviene comprobar antes si está abierta.**
 
 Hacia la noche, cuando las excursiones de un día se han marchado, **Capri cambia**. Por la noche la isla se vacía en dos tercios y de pronto se queda en silencio, y por eso vale la pena dormir allí en vez de hacerla en el día.
+
+**En la práctica:** ferry o hidroala a Capri desde Amalfi, Positano, Sorrento o Nápoles · funicular de Marina Grande a la Piazzetta, billetes en la estación · Jardines de Augusto con entrada · estado de la Via Krupp a comprobar · dormir en la isla es caro, reservar pronto.
 
 ### Día 6 — Capri, desde lo alto y desde el mar
 Por la mañana subimos a **Anacapri**, el pueblo alto, la otra cara de la isla: menos escaparates, más vida. Desde allí cogimos el **telesilla al Monte Solaro**, un telesilla monoplaza, abierto, que sube despacio sobre los muretes y los jardines: es la experiencia más bonita de la isla, a un precio ridículo. En la cima, a **589 metros**, se tiene toda Capri debajo y el golfo entero alrededor.
@@ -89,6 +99,8 @@ La tarde la pasamos **en barca**: la **vuelta a la isla** es la manera correcta 
 
 Para quien prefiera caminar está el **Sendero de los Fortines** por la costa occidental, o la subida a **Villa Jovis**, la villa de **Tiberio** en la punta oriental: es la más grande de las doce villas imperiales de la isla y desde allí se domina todo el golfo.
 
+**En la práctica:** autobús a Anacapri desde Capri o Marina Grande · telesilla del Monte Solaro, se para con viento fuerte · Villa San Michele con entrada · vuelta a la isla en barca a reservar en Marina Grande · Gruta Azul solo con mar en calma y sin cola, entrada pagada aparte en la barca.
+
 ### Día 7 — Isquia: el Castillo y las termas
 Cogimos el ferri a **Isquia**, **la isla más grande del golfo** y la que menos se parece a su fama: no es una Capri popular, es algo muy distinto. Es volcánica, verde, habitada por sesenta mil personas, y tiene **una tradición termal documentada desde la Antigüedad**.
 
@@ -96,12 +108,16 @@ La primera parada fue el **Castillo Aragonés** en **Ischia Ponte**, sobre un is
 
 La tarde la pasamos en un **parque termal** de la vertiente occidental. Son grandes jardines que descienden hacia el mar, con piscinas a distintas temperaturas, de cuarenta grados en adelante, saunas naturales excavadas en la roca y acceso directo al mar. Se entra por días y te pasas la tarde entera sin hacer otra cosa, que es justo el objetivo.
 
+**En la práctica:** ferry desde Capri, Nápoles o Pozzuoli · Castillo Aragonés con entrada, ascensor o rampa · parques termales con entrada de día, comprobar temporada de apertura y precios · bañador, chanclas y toalla para las termas.
+
 ### Día 8 — Isquia: el Epomeo, Sorgeto y La Mortella
 Por la mañana subimos al **Monte Epomeo**, el relieve volcánico del centro de la isla, de **789 metros**. El recorrido clásico parte de **Fontana**: es una subida de aproximadamente una hora y media, con el último tramo en un **pasillo excavado en la toba verde** que acaba en una cima con la ermita excavada en la roca. Desde allí arriba se ve **toda Isquia a la vez**, algo que desde la isla no ocurre nunca, y en los días despejados se llega a ver Capri y el Vesubio.
 
 Como alternativa o además están los **Jardines La Mortella** en Forio: un jardín botánico subtropical creado a partir de los años cincuenta en una cantera de piedra, con invernaderos, helechos arborescentes, nenúfares gigantes y dos teatros al aire libre. Nace del proyecto de toda una vida, y es uno de los jardines más bellos de Italia.
 
 Al final de la tarde fuimos a **Sorgeto**. Se baja a una bahía de piedras cerca de **Panza** por **más de doscientos escalones** (que luego hay que volver a subir, y no es una broma) y se llega a una cala donde **manantiales hirvientes salen directamente bajo las piedras y se mezclan con el mar**. Se buscan las pozas naturales con la temperatura justa, moviéndose un metro entre el agua a cuarenta grados y la fría. **Es gratis, está abierto siempre, y el mejor momento es el atardecer o la noche de invierno.** Hacen falta **escarpines de goma**, porque cerca de las bocas las piedras queman de verdad, y prudencia, porque en algunos puntos el agua abrasa.
+
+**En la práctica:** Epomeo desde Fontana, una hora y media de subida · Jardines La Mortella abiertos solo algunos meses y días, a comprobar · Sorgeto gratuito, más de doscientos escalones, zapatos de goma · autobús de la isla o taxi entre Forio y Panza.
 
 ### Día 9 — Prócida y regreso
 El último ferri fue a **Prócida**, la más pequeña: **cuatro kilómetros cuadrados**, la menos turística de las tres y **Capital Italiana de la Cultura en 2022**, algo que le ha traído atención sin cambiarla demasiado.
@@ -113,6 +129,8 @@ Arriba está **Terra Murata**, el punto más alto, con la **Abadía de San Migue
 Prócida se recorre entera en un día, y es la nota justa para cerrar: después de Capri, recuerda que en este golfo todavía hay un sitio donde la gente pesca para vivir.
 
 Por la tarde regresamos a Nápoles.
+
+**En la práctica:** ferry de Ischia a Procida, pocos minutos · Corricella y Terra Murata a pie o en microtaxi · Vivara con acceso limitado, normas a comprobar antes · vuelta a Nápoles desde el puerto de Procida, comprobar si llega al Beverello o a Calata Porta di Massa.
 
 ## Cómo comprimir el itinerario
 - **En 5 días:** solo la Costa (Días 1-4) más una jornada en Capri, durmiendo allí.

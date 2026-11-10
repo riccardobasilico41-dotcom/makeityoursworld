@@ -32,6 +32,8 @@ Siamo arrivati a sprazzi durante il giorno, ognuno con il suo volo (Uber dall'ae
 
 La prima cena è stata al **Jardín de Lolita**, un giardino informale dove si mangia dai food truck seduti tutti insieme: il posto giusto per ritrovarci dopo gli arrivi alla spicciolata. In alternativa ci sono **Colonia Arepas y Bar**, cucina venezuelana e costaricana, o il **Costa Rica Beer Factory**, con la birra artigianale locale. Dopo, i gelati «alcolici» di **Booze and Scoops** e la serata di ballo a **La Concha**, con musica diversa ogni sera, nel quartiere di La California, sicuro e animato anche di notte, a differenza del centro.
 
+**In pratica:** aeroporto Juan Santamaría-centro in Uber da mezz'ora a un'ora secondo il traffico · si paga in colones o in dollari, la carta è accettata quasi ovunque · Museo Nazionale di solito chiuso il lunedì, orari da controllare · la sera in centro meglio muoversi in taxi o in Uber
+
 ### Giorno 2 — Puerto Viejo, tra Caribe e giungla
 Siamo partiti in mattinata per quattro ore, quattro e mezza di transfer fino a **Puerto Viejo**, sulla costa caraibica, con i panini presi lungo la strada alla Panaderia Francesa.
 
@@ -40,6 +42,8 @@ All'arrivo si noleggiano le bici da **Rasta Lion** (+506 8970 8522, circa 6 $, d
 Si cena da **Madre Tierra** e, se c'è musica dal vivo, si finisce all'**Hot Rocks**. Di notte Puerto Viejo chiede un po' di attenzione in più: meglio muoversi in compagnia, soprattutto le ragazze da sole.
 
 *Chi vuole il rafting più estremo del viaggio può organizzare, almeno una settimana prima, il **Pacuaré** (112 $, giornata intera) lungo il tragitto per Puerto Viejo. È tra i cinque fiumi migliori al mondo per il rafting, ma quattro ore in acqua possono sembrare lunghe a chi è alla prima esperienza, soprattutto nella stagione secca, quando l'acqua è bassa. Noi il rafting l'abbiamo fatto più avanti, sul Sarapiquí, più regolare e adatto anche ai meno esperti.*
+
+**In pratica:** San José-Puerto Viejo circa 4-4 ore e mezza in transfer o bus · bici a noleggio da riconsegnare entro il tardo pomeriggio · a Punta Uva e Cocles le correnti cambiano: fare il bagno dove nuotano gli altri
 
 ### Giorno 3 — Parco Nazionale di Cahuita
 È una giornata facoltativa, da organizzare almeno una settimana prima, ma è quella che consiglio di più: il **tour completo di Cahuita** con la guida locale **José** (+506 7221 4153, anche su WhatsApp), 50 $ a persona in contanti.
@@ -52,12 +56,16 @@ Nella zona di Cahuita consiglio anche il **Jaguar Rescue Center**, a Puerto Viej
 
 La cena si sceglie tra il **Beach Break Bar and Restaurant** a Playa Cocles, i tacos di **Tasty Waves**, la pizza di **Amimodo** e il **Koki Beach Restaurant**, più elegante e più caro, dove la sera capita spesso di vedere un bradipo che attraversa il tetto. Dopo, al **Selina**, l'hotel-ostello dove si concentra la vita notturna del paese, c'è il karaoke.
 
+**In pratica:** il settore di Playa Blanca, all'ingresso del paese di Cahuita, è a offerta libera; quello di Puerto Vargas ha una tariffa fissa · guida locale da prenotare almeno una settimana prima, pagamento in contanti · Jaguar Rescue Center solo con visita guidata, da prenotare online
+
 ### Giorno 4 — Verso Tortuguero, tra fiume e giungla
 Colazione veloce e via: un'ora e mezza di van fino al porto di **Moin**, poi tre ore di barca fino a **Tortuguero**, tra canali immersi nella giungla. Il tragitto è già uno spettacolo, con coccodrilli, caimani, uccelli e scimmie lungo le rive. Tortuguero è bellissimo, assomiglia molto all'Amazzonia ed è fantastico per la natura. Abbiamo pranzato a bordo con un casado tipico.
 
 Tortuguero è un villaggio senza strade per le auto e si gira tutto a piedi, tra negozietti di souvenir. Il pomeriggio offre due possibilità. Il **Cerro Tortuguero**, in autonomia (6 $ di barca più 3 $ d'ingresso), è una breve salita nella giungla fino a una collina con la vista su tutta la zona. Nel periodo giusto (di solito tra luglio e ottobre, ma conviene chiedere in loco) c'è la **nidificazione delle tartarughe**: un'escursione serale guidata da **Juan** (+506 8500 1369, circa 40 $ a persona) per vedere dal vivo la deposizione delle uova.
 
 La cena è inclusa in hotel; in paese ci sono anche **Taylor's Place** e **Mi Niño**.
+
+**In pratica:** Moin-Tortuguero solo in barca, il villaggio non ha strade · ingresso al parco nazionale intorno ai 15 dollari, da comprare online sul portale del SINAC · per le tartarughe servono guida certificata, vestiti scuri e niente flash
 
 ### Giorno 5 — Tortuguero: kayak tra le mangrovie, poi Sarapiquí
 La sveglia è suonata prima dell'alba per il **kayak tra i canali**, incluso: due ore in singolo o in doppio, nel momento migliore per vedere gli animali. Siamo rientrati per la colazione.
@@ -66,10 +74,14 @@ In tarda mattinata ci siamo imbarcati verso **Sarapiquí**: un'ora e mezza di ba
 
 All'**Epic Adventure Lodge**, in mezzo alla foresta, c'è tempo per la piscina o per camminare lungo il fiume. La sera c'è stata la **cooking class**, inclusa: si impara un piatto tradizionale, di solito le empanadas, che poi diventa la cena (vegetariani e vegani vanno segnalati prima al lodge). Se preferite, la prima sera al lodge si può fare anche un barbecue.
 
+**In pratica:** kayak all'alba, nelle prime ore si vedono più animali · da Tortuguero si riparte in barca e poi in van, circa 4 ore in tutto · a Tortuguero acqua potabile gratuita davanti al molo
+
 ### Giorno 6 — Rafting sul fiume Sarapiquí
 In mattinata siamo partiti dal lodge per il **rafting sul Sarapiquí**, incluso e già pagato, con soste per acqua e frutta, fino a mezzogiorno. Rispetto al Pacuaré è un fiume più regolare tutto l'anno, adatto anche a chi non ha mai fatto rafting.
 
 Nel pomeriggio, se il tempo regge, si può andare alle **Cataratas Bajas del Toro**, a circa un'ora d'auto: Bajos del Toro è considerata la capitale delle cascate del Costa Rica, con le «gemelas» e la Catarata del Toro. Il pranzo al sacco va ordinato il giorno prima (circa 12 $ a persona, a fine rafting), e bisogna arrivare entro il primo pomeriggio, perché l'area chiude nel tardo pomeriggio. Cena inclusa al lodge.
+
+**In pratica:** rafting sul Sarapiquí adatto anche ai principianti, scarpe chiuse da bagnare · Bajos del Toro a circa un'ora d'auto, ingresso a pagamento, chiude nel tardo pomeriggio · pranzo al sacco da ordinare il giorno prima
 
 ### Giorno 7 — Arenal: cascate, vulcano e sorgenti termali
 Un'ora e venti di strada fino a **La Fortuna**, ai piedi del vulcano Arenal, con il minivan a disposizione per tutto il giorno. La Fortuna è bella, ma un po' overtouristy. Le attività sono care, però belle belle.
@@ -82,12 +94,16 @@ Si cena al **Nanku Restaurant** con musica dal vivo, alla **Soda Víquez**, più
 
 *Noi abbiamo fatto il **canyoning nel Lost Canyon** (115-119 $), ed è l'attività che consiglio di più a La Fortuna. Si fa la mattina del Giorno 8, con pranzo incluso, o il primo pomeriggio del Giorno 7. Ha il suo trasporto, quindi chi non partecipa tiene comunque il pulmino.*
 
+**In pratica:** Sarapiquí-La Fortuna circa 1 ora e 20 · Cascada de La Fortuna circa 18-20 dollari, scalinata ripida per scendere · El Choyin gratuito, scarpe da fiume e frontale · le attività di La Fortuna sono care: conviene confrontare i prezzi dei combo
+
 ### Giorno 8 — Monteverde, nella foresta nebulosa
 Colazione veloce e partenza presto. La prima tappa sono i **ponti sospesi** vicino a La Fortuna, un po' sotto le aspettative secondo alcuni di noi. Poi tre ore, tre e mezza di strada fino a **Monteverde**, con il pranzo in una delle sode lungo la via.
 
 Nel primo pomeriggio si visita una **piantagione di caffè**, due ore con degustazione finale: conviene prenotare in anticipo lo slot del primo pomeriggio. In alternativa ci sono tour che aggiungono cioccolato e canna da zucchero, o un'escursione alle Tigre Waterfalls con pranzo incluso.
 
 Si cena al **Tree House**, con un supermercato accanto per le bibite, oppure da **Tico y Rico**, al **The Green Restaurant** o da **Sabor Tico**. La sera c'è la **camminata notturna** nella foresta nebulosa, un'ora e mezza per vedere la fauna della notte: il Kinkajou Night Walk Tour (28 $) è considerato il migliore. *Non è piaciuta a tutti allo stesso modo, soprattutto per la durata: se si può, meglio chiedere alla guida di tenerla tra un'ora e un quarto e un'ora e mezza.*
+
+**In pratica:** La Fortuna-Monteverde circa 3 ore-3 ore e mezza, su strade di montagna lente e piene di curve · piantagione di caffè da prenotare nello slot del primo pomeriggio · camminata notturna circa 28 dollari, servono torcia e scarpe chiuse
 
 ### Giorno 9 — Zipline a Monteverde, poi verso il Pacifico e Uvita
 Chi vuole cominciare presto può fare **birdwatching all'alba** con Jason (+506 8636 0491, circa 50 $ a persona).
@@ -96,13 +112,19 @@ Poi le **zipline**: quelle di Monteverde sono tra le migliori del paese, più lu
 
 Dopo pranzo, per esempio da **Tico y Rico**, ci aspettavano fino a quattro ore di strada verso **Uvita**, sul Pacifico. La sosta al **ponte di Tárcoles** è d'obbligo: sotto, nel fiume, si radunano grandi coccodrilli. Se il tempo lo permette, un tramonto su una spiaggia prima dell'hotel. Cena al **Gastro Park** di Uvita (avvisando prima, spesso c'è uno sconto del 10%).
 
+**In pratica:** zipline intorno ai 60 dollari, due turni al giorno · Monteverde-Uvita fino a 4 ore, sosta al ponte di Tárcoles lungo la Costanera · a Uvita conviene arrivare prima di sera, le strade secondarie sono poco illuminate
+
 ### Giorno 10 — Uvita: avvistamento balene
 È il giorno del **whale watching**. A Uvita le stagioni migliori sono gennaio-marzo e luglio-ottobre; novembre-dicembre e maggio-giugno possono dare meno incontri. L'uscita dura tre ore e mezza, quattro, e costa 70 $ con acqua e frutta incluse. Per il tour delle balene consiglio **Uvita Ballena Jorobada** (+506 8820 6443, anche su WhatsApp). *Meglio evitare gli operatori improvvisati, che spesso non hanno un'assicurazione adeguata: prima di prenotare chiedete sempre.*
 
 Il pomeriggio è libero in spiaggia. La costa di Uvita, con il banco di sabbia a forma di coda di balena, la **Cola de la Ballena**, che si vede soprattutto con la bassa marea, è uno dei paesaggi più belli del viaggio. Cena in hotel.
 
+**In pratica:** whale watching circa 70 dollari, uscite al mattino con il mare più calmo · stagioni migliori gennaio-marzo e luglio-ottobre · la Cola de la Ballena è nel Parque Nacional Marino Ballena, con ingresso a pagamento, e si vede bene con la bassa marea
+
 ### Giorno 11 — Uvita: giornata libera tra surf, cavalli e yoga
 L'ultimo giorno pieno a Uvita va al ritmo di ciascuno. Al **Rancho La Merced** (+506 8861 5147) abbiamo fatto il giro a **cavallo** al tramonto in spiaggia, due ore, circa 52 $. Io sono caduto, perché non sono un cavallerizzo esperto, ma è bellissimo. Gli animali sono trattati bene, cosa per me importantissima, e sono docili. Super consigliato. Il Costa Rica è bellissimo anche per il **surf**: io a Uvita l'ho fatto con **Ariel** (+506 6184 0390). Da Nomadic Surf si noleggiano le tavole per tutto il giorno, circa 70 $ per quattro. Al tramonto c'è un'ora di **yoga** su un deck con una vista molto bella, circa 10 $, dieci persone al massimo. Oppure solo spiaggia, magari camminando fino alla punta della Cola de la Ballena. La cena è libera.
+
+**In pratica:** giro a cavallo di due ore circa 52 dollari, da prenotare · noleggio tavole da surf circa 70 dollari al giorno per quattro · yoga al tramonto circa 10 dollari, al massimo dieci persone
 
 ### Giorno 12 — Parco Nazionale Manuel Antonio e rientro a San José
 Siamo partiti prima dell'alba, con una colazione veloce, per un'ora e mezza di strada fino al **Parco Nazionale Manuel Antonio**, una delle tappe più belle del Costa Rica.
@@ -111,8 +133,14 @@ La visita guidata, inclusa, dura una o due ore, secondo il passo e gli incontri:
 
 Restava l'ultimo lungo trasferimento, tre ore e mezza o quattro, fino a **San José**, con una sosta per i souvenir. La cena d'arrivederci è stata al **Costa Rica Beer Factory**, dove si era passati la prima sera, per un ultimo brindisi tutti insieme con la birra artigianale.
 
+**In pratica:** Manuel Antonio circa 18 dollari, solo con biglietto online sul portale del SINAC, chiuso il martedì · niente cibo in sacchetti di plastica e niente alcol, gli zaini vengono controllati · Manuel Antonio-San José circa 3 ore e mezza-4 ore
+
 ### Giorno 13 — Check-out e rientro
 Saluti e partenze, ciascuno con l'orario del proprio volo.
+
+Il volo va considerato con il traffico di San José: dal centro all'aeroporto **Juan Santamaría** si impiega da mezz'ora a un'ora, e nelle ore di punta anche di più. Chi parte la sera ha la mattina libera per gli ultimi acquisti: il **Mercado Central** per caffè in grani, salsa Lizano e artigianato, oppure una colazione tipica con il **gallo pinto**, riso e fagioli, nelle sodas del centro. *Il caffè costaricano costa meno al mercato e nei supermercati che nei negozi dell'aeroporto.* La tassa d'uscita oggi è di solito già compresa nel prezzo del biglietto aereo, ma conviene verificarlo con la compagnia.
+
+**In pratica:** centro-aeroporto in Uber o taxi da 30 minuti a un'ora · arrivare in aeroporto tre ore prima per i voli internazionali · ultimi colones da spendere prima dei controlli, all'estero non si cambiano facilmente
 
 ## Cosa vedere / cosa fare
 - **Il tragitto in barca fino a Tortuguero**, tra canali di giungla, coccodrilli e uccelli: uno dei trasferimenti più belli del viaggio, più che una semplice tappa di passaggio.

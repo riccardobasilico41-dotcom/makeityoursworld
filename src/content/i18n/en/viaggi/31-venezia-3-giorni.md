@@ -43,6 +43,8 @@ In the afternoon, **don't go up the St. Mark's bell tower**: there's a line and 
 
 In the evening we were in **Castello**, the sestiere right behind San Marco: ten minutes' walk east is enough and the city changes completely.
 
+**In practice:** San Marco with an online booking at opening time, shoulders and knees covered, large backpacks at the free left-luggage in a nearby calle · Pala d'Oro and Loggia dei Cavalli on extra tickets · Palazzo Ducale with a combined ticket, Secret Itineraries to book · vaporetto to San Giorgio Maggiore, bell tower with a lift and a modest ticket · check beforehand whether your date falls under the access fee.
+
 ### Day 2 — Dorsoduro, the Frari and San Rocco
 The day of great art, almost all on foot and almost all without lines.
 
@@ -58,6 +60,8 @@ At sunset we went to the **Zattere**, the long quay facing the Giudecca, where V
 
 The evening of **cicchetti** among the bacari of Dorsoduro and San Polo, standing, moving from one counter to another. It's the right way to dine in Venice, and costs a fraction of a restaurant.
 
+**In practice:** Accademia and Peggy Guggenheim with their own tickets, the Guggenheim has a weekly closing day to check · Frari with an entrance ticket, or with the Chorus Pass · Scuola Grande di San Rocco with a ticket, mirrors provided · all on foot between Dorsoduro and San Polo · cicchetti at the counter, a few euros each with an ombra.
+
 ### Day 3 — Cannaregio, the Ghetto and the Islands
 The morning in **Cannaregio**, the most lived-in and least visited of the six sestieri. **The Venetian Ghetto is the first ghetto in the world**: in 1516 the Republic obliged Jews to reside in this area closed off by guarded gates, and the word itself comes from here, from the foundry ("geto") that stood there before. Since they couldn't build outward, **they built upward**: the buildings of the Campo di Ghetto Nuovo have **very low ceilings and more levels than any other Venetian building**, and you can see it with the naked eye. There are five historic synagogues, visitable with a guide through the **Jewish Museum**. **Hours and availability change** and depend on holidays: check them beforehand.
 
@@ -69,6 +73,8 @@ The afternoon is for the **northern lagoon**, by vaporetto:
 - **Torcello**, which almost nobody does and is the reason to come to the lagoon. It is **the island from which Venice was born**: it had tens of thousands of inhabitants before malaria and silting emptied it, and today it has a few dozen. What remains is the **Basilica of Santa Maria Assunta**, founded in the 7th century, with a **mosaic Last Judgment** on the inner facade and a **Byzantine Madonna on a gold ground** in the apse, alone, on an empty golden field: one of the strongest images in all Venetian art. Outside is the grass field with the **Devil's Bridge**, without parapets.
 
 **Recommended order:** Torcello first or last, and **don't leave it out** to go shopping in Murano.
+
+**In practice:** Jewish Museum and synagogues on accompanied visits, hours tied to holidays and the Sabbath · day vaporetto pass for the northern lagoon · Murano, Burano and Torcello linked by lines from Fondamente Nove, with crossing times that add up · in Torcello the basilica and bell tower with a ticket · check the last vaporetto from Torcello, departures are sparse.
 
 ## What to see / what to do
 - **St. Mark's Basilica, booked, at opening**, with the Loggia dei Cavalli.

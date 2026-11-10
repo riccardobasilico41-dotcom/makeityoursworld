@@ -14,6 +14,7 @@ const T = {
   it: {
     durata: 'Durata',
     quando: 'Quando',
+    migliore: 'Periodo migliore',
     budget: 'Budget indicativo',
     ritmo: 'Ritmo',
     muoversi: 'Come ci si muove',
@@ -27,6 +28,7 @@ const T = {
   en: {
     durata: 'Length',
     quando: 'When',
+    migliore: 'Best time to travel',
     budget: 'Estimated budget',
     ritmo: 'Pace',
     muoversi: 'Getting around',
@@ -40,6 +42,7 @@ const T = {
   es: {
     durata: 'Duración',
     quando: 'Cuándo',
+    migliore: 'Mejor época',
     budget: 'Presupuesto orientativo',
     ritmo: 'Ritmo',
     muoversi: 'Cómo moverse',
@@ -112,7 +115,7 @@ export async function RiepilogoViaggio({ viaggio, meta }: { viaggio: Viaggio; me
       <InfoPratiche
         voci={[
           { label: t.durata, value: d.durata, icona: Clock },
-          { label: t.quando, value: d.quando, icona: CalendarDays },
+          { label: d.quandoMigliore ? t.migliore : t.quando, value: d.quando, icona: CalendarDays },
           { label: t.budget, value: d.budget, icona: Wallet },
           { label: t.ritmo, value: d.ritmo, icona: Gauge },
           { label: t.muoversi, value: d.muoversi, icona: Route },

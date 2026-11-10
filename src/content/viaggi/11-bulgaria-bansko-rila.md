@@ -30,11 +30,11 @@ Non mi aspettavo grandi cose dallo sci in Bulgaria, ed è esattamente quello che
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Sofia e trasferimento a Bansko
-Siamo atterrati a Sofia, abbiamo ritirato l'auto a noleggio in aeroporto e siamo partiti verso **Bansko** (circa 2-2h30 di guida, 160 km). La strada sale piano verso i Monti Pirin, e il paesaggio passa in fretta dalla collina alla montagna.
+Siamo atterrati a Sofia, abbiamo ritirato l'auto a noleggio in aeroporto e siamo partiti verso **Bansko** (circa 2-2h30 di guida, 160 km). La strada sale piano verso i Monti Pirin, e il paesaggio passa in fretta dalla collina alla montagna. Il tragitto segue quasi tutto l'autostrada Struma verso sud e poi la valle del fiume fino a Razlog, l'ultima cittadina prima di Bansko. *D'inverno conviene viaggiare con la luce: l'ultimo tratto può essere innevato, e le gomme invernali sono indispensabili.*
 
-Siamo arrivati in hotel nel tardo pomeriggio e abbiamo fatto un primo giro nel centro storico di Bansko: un misto tra le case in pietra e legno tipiche della "scuola di Bansko" e la parte più moderna, cresciuta in fretta negli ultimi vent'anni intorno al turismo sciistico.
+Siamo arrivati in hotel nel tardo pomeriggio e abbiamo fatto un primo giro nel centro storico di Bansko: un misto tra le case in pietra e legno tipiche della "scuola di Bansko" e la parte più moderna, cresciuta in fretta negli ultimi vent'anni intorno al turismo sciistico. Il centro vecchio si gira in un'ora, tra la chiesa della **Santa Trinità** con il suo campanile e la casa-museo del poeta **Nikola Vaptsarov**. Cena di benvenuto in una **mehana** tipica: **kapama** (stufato di carne e verdure cotto a lungo in una pentola di coccio), **banitsa** (sfoglia ripiena di formaggio), **shopska salata** (pomodori, cetrioli, cipolla e formaggio grattugiato, l'insalata nazionale) e la **rakia**, il distillato di frutta che non manca a nessun pasto.
 
-Cena di benvenuto in una **mehana** tipica: **kapama** (stufato di carne e verdure cotto a lungo in una pentola di coccio), **banitsa** (sfoglia ripiena di formaggio), **shopska salata** (pomodori, cetrioli, cipolla e formaggio grattugiato, l'insalata nazionale) e la **rakia**, il distillato di frutta che non manca a nessun pasto.
+**In pratica:** Sofia-Bansko circa 160 km, 2-2h30 di guida · per le strade serve la vignetta elettronica, di solito già inclusa nel noleggio: chiederlo al ritiro · catene in auto e gomme invernali da dicembre a marzo · per sciare comodi conviene dormire vicino alla base della gondola.
 
 ### Giorno 2-4 — Sci sulle piste di Bansko
 Abbiamo passato tre giornate piene sulle piste di **Bansko Ski Zone**: circa 70-75 km di piste distribuite su tre stazioni (Banderishka Polyana, Chalin Valog e Shiligarnika), collegate da una gondola a 8 posti che sale da 990 a 1.660 metri, fino a un'altitudine massima di 2.560 metri sul Todorka Peak.
@@ -45,17 +45,25 @@ Il livello del comprensorio è onesto ma senza pretese. Non regge il confronto c
 
 **Après-ski**: alla base della gondola, Sopranos e Happy End Bar sono il punto di ritrovo classico a fine giornata; in centro, il quartiere vecchio si anima ogni sera con mehane, pub e musica dal vivo, a prezzi molto contenuti.
 
+**In pratica:** skipass giornaliero adulti circa 33 € nella stagione 2025/26, prezzi della nuova stagione da controllare sul sito ufficiale della stazione · al mattino in alta stagione conviene essere alla gondola presto · noleggio dell'attrezzatura nei negozi del centro, conviene provarla la sera prima.
+
 ### Giorno 5 — Escursione al Monastero di Rila
 La giornata era per il **Monastero di Rila**, il più grande e importante monastero ortodosso di Bulgaria, Patrimonio UNESCO dal 1983, fondato nel X secolo dall'eremita Ivan di Rila. Ci siamo fermati lungo il tragitto di rientro verso Sofia, deviando dalla strada principale.
 
-Il complesso è racchiuso da mura di pietra alte 24 metri, con oltre 300 stanze e 110 celle monastiche. Colpisce subito la **Chiesa della Natività della Vergine**, a cinque cupole, tutta ricoperta di affreschi coloratissimi. L'ingresso al complesso e alla chiesa è gratuito; si paga (circa 8 BGN/4€) l'accesso al Museo di Storia Ecclesiastica, con manoscritti antichi, icone e la celebre Croce di Rafail, intagliata in legno con oltre 1.500 minuscole figure bibliche.
+Il complesso è racchiuso da mura di pietra alte 24 metri, con oltre 300 stanze e 110 celle monastiche. Colpisce subito la **Chiesa della Natività della Vergine**, a cinque cupole, tutta ricoperta di affreschi coloratissimi. L'ingresso al complesso e alla chiesa è gratuito; si paga (circa 4 €, in euro dal 2026) l'accesso al Museo di Storia Ecclesiastica, con manoscritti antichi, icone e la celebre Croce di Rafail, intagliata in legno con oltre 1.500 minuscole figure bibliche.
 
 *Regole pratiche per la visita: coprire spalle e ginocchia per entrare in chiesa, niente foto/video all'interno degli edifici religiosi.*
 
 Dopo le giornate sulla neve, il monastero è stato il vero colpo di scena del viaggio: un contrasto totale, e probabilmente il ricordo più forte di tutto il tour.
 
+**In pratica:** da Bansko al monastero circa 2 ore di strada, dal monastero a Sofia altre 2 ore circa · complesso e chiesa gratuiti, museo circa 4 € · fuori dalle mura ci sono ristoranti e bancarelle per il pranzo · la strada nella valle di Rila d'inverno può essere ghiacciata: partire presto.
+
 ### Giorno 6 — Rientro
-Ultimo tratto verso Sofia e riconsegna dell'auto in aeroporto.
+Ultimo tratto verso Sofia e riconsegna dell'auto in aeroporto. Se il volo è nel pomeriggio, la mattina basta per un giro nel centro di **Sofia**: la cattedrale di **Aleksandr Nevskij**, con le cupole dorate, la piccola rotonda paleocristiana di **San Giorgio**, nascosta in un cortile tra i palazzi del governo, e i resti romani di **Serdica**, che si vedono nel sottopassaggio della metro della stazione Serdika. Il centro si gira a piedi, e l'auto si può lasciare in un parcheggio a pagamento.
+
+Chi arriva da sud può fermarsi prima alla **Chiesa di Boyana**, ai piedi del monte Vitosha, patrimonio UNESCO per gli affreschi del 1259, tra i più importanti dell'arte medievale dell'Est europeo. Si entra a piccoli gruppi e per pochi minuti, per proteggere le pitture, quindi nei giorni affollati si aspetta un po'. *Prima di riconsegnare l'auto conviene fare il pieno e fotografarla, come al ritiro.*
+
+**In pratica:** l'aeroporto di Sofia è a circa 10 km dal centro, raggiungibile anche in metro fino al Terminal 2 · Chiesa di Boyana a circa mezz'ora dal centro, biglietto economico · in aeroporto almeno due ore prima del volo.
 
 ## Cosa vedere / cosa fare
 - **Le piste di Bansko**, in particolare la discesa illuminata di 7,5 km fino al centro città per lo sci notturno.

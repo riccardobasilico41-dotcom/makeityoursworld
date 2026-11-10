@@ -46,6 +46,8 @@ El resultado es que **la isla está agujereada**. Hay antiguas canteras excavada
 
 La primera noche la pasamos en el pueblo, y **atún**.
 
+**En la práctica:** hidroala Liberty Lines Trapani-Favignana en unos 20-30 minutos, con muchas salidas al día en temporada y pocas en invierno · los fines de semana de verano, billete comprado en línea · del aeropuerto de Birgi al puerto de Trapani, una media hora entre lanzadera y taxi · dormir en el pueblo, a pie del puerto y de los alquileres de bicis.
+
 ### Día 2 — Favignana en bicicleta
 La hicimos como la hace todo el mundo, porque es la forma correcta: **bicicleta**, y vuelta completa.
 
@@ -57,6 +59,8 @@ La hicimos como la hace todo el mundo, porque es la forma correcta: **bicicleta*
 
 En el pueblo está la **antigua fábrica Florio**, la gran almadraba decimonónica convertida en museo: las piscinas, la maquinaria, las cámaras de elaboración y el relato de la **mattanza**. Era el sistema de redes fijas de cámaras sucesivas en el que los atunes eran conducidos hasta la «cámara de la muerte», una práctica de origen árabe que duró siglos y que **hoy ya no se practica**. El museo la cuenta sin retórica, y la visita merece la pena.
 
+**En la práctica:** bicis de alquiler cerca del puerto, a reservar en agosto · agua y zapatillas de goma en la mochila, porque en muchas calas no hay ningún servicio · ex Stabilimento Florio con entrada de pocos euros y horarios que cambian con la temporada, a comprobar antes · las calas se eligen según el viento del día.
+
 ### Día 3 — Levanzo y la Grotta del Genovese
 Una travesía breve y llegamos a **Levanzo**, la más pequeña de las Égadas: **un solo pueblecito de casas blancas**, una carretera, y el resto es roca y matorral.
 
@@ -65,6 +69,8 @@ Se viene por la **Grotta del Genovese**, uno de los yacimientos de arte prehist�
 **Se llega solo con acompañamiento**, reservando: por mar o en todoterreno por una pista, según las condiciones. **No es una visita para improvisar sobre el terreno**, y en temporada baja las salidas son pocas.
 
 El resto de Levanzo lo recorrimos a pie. Está **Cala Minnola** con el pinar y, en el fondo a pocos metros de profundidad, los restos de un **pecio romano con las ánforas todavía en posición**, visitable haciendo snorkel con acompañamiento.
+
+**En la práctica:** Grotta del Genovese solo con reserva, al menos 48 horas antes, con visitas por la mañana · unos 20 euros solo la cueva, unos 40 con el transporte, tarifas a comprobar en la web oficial · hidroala a Levanzo desde Trapani o Favignana: verificar el horario de la última vuelta · en la isla hay poquísimos servicios, mejor llevar el agua.
 
 ### Día 4 — Marettimo
 Es la más lejana, la más alta y la más distinta. **Marettimo** está a una hora de aliscafo desde Trapani, es montañosa, cubierta de matorral y pinos, y **no tiene coches**: solo el pueblo, el puerto y los senderos.
@@ -77,6 +83,8 @@ Marettimo tiene poquísimas plazas de alojamiento y casi ningún servicio noctur
 
 Por la tarde volvimos a Trapani.
 
+**En la práctica:** hidroala Trapani-Marettimo en una hora aproximadamente, con paradas en Favignana y Levanzo · el sendero a Pizzo Falcone es cansado: salir temprano, con mucha agua y calzado de trekking · la vuelta de las cuevas se reserva en el puerto con los barqueros de la isla · última hidroala a Trapani por la tarde, a verificar antes de salir.
+
 ### Día 5 — Traslado a Pantelaria y primera vuelta
 A **Pantelaria** se va en vuelo o en ferri; a la llegada se recoge el vehículo reservado.
 
@@ -86,6 +94,8 @@ La primera vuelta nos sirvió para orientarnos: la costa occidental con **Scauri
 
 Para dormir, si se puede, un **dammuso**: las casas tradicionales panteseas, con **muros de piedra lávica de más de un metro de grosor** y **techo en cúpula blanco**, pensado para **recoger el agua de lluvia** y llevarla a una cisterna. No son un capricho arquitectónico: son la respuesta a una isla sin manantiales, donde el viento sopla siempre y el sol raja.
 
+**En la práctica:** vuelo desde Trapani o Palermo en unos 50 minutos · ferry Siremar desde Trapani en unas 5-7 horas según la salida, en verano también hidroala Liberty Lines en unas dos horas y media · coche o scooter reservados antes, con recogida en el aeropuerto o en el puerto · en el dammuso el agua de la cisterna se usa con medida.
+
 ### Día 6 — El Specchio di Venere, Benikulà y la Montagna Grande
 Fue la jornada termal y volcánica.
 
@@ -94,6 +104,8 @@ El **lago Specchio di Venere** es una cuenca dentro de una caldera, con **agua a
 Luego fuimos a la **sauna natural de Benikulà**, una cueva en la ladera de la Montagna Grande, a la que se llega con un sendero corto, donde **el vapor caliente sale de las grietas de la roca**. Uno se sienta en un banco de piedra y en pocos minutos está en una sauna al aire libre, con la vista del valle a través de la abertura. **Es libre y gratuita**, y se está pocos minutos cada vez.
 
 Por la tarde subimos a la **Montagna Grande** (836 metros), el punto más alto, con el bosque de pinos y la vista que en los días despejados llega a la **costa tunecina, a unos setenta kilómetros**: menos de la distancia de aquí a Sicilia. A lo largo de la carretera están las **favare**, fumarolas de las que el vapor sale directamente del suelo.
+
+**En la práctica:** Specchio di Venere de acceso libre, mejor por la mañana, cuando hay menos gente · los fangos se aclaran bien y no se llevan · Benikulà gratuita, pocos minutos cada vez, desaconsejada a quien tiene problemas de tensión o de corazón · a la Montagna Grande, dentro del Parque nacional, se llega en coche cerca de la cima y se camina por el bosque.
 
 ### Día 7 — Los viñedos, las alcaparras y el Passito
 Es la jornada que explica Pantelaria mejor que cualquier panorámica.
@@ -108,21 +120,21 @@ El otro cultivo son las **alcaparras**, que aquí tienen **IGP**: se recogen a m
 
 A última hora de la tarde nos bañamos en las calas. En **Gadir** **manantiales termales brotan en pozas naturales junto al mar**; **Cala Levante** y **Cala Tramontana** se usan por turnos según el viento que sople, y aquí es normal elegir la cala en función de la dirección del viento del día.
 
+**En la práctica:** bodegas solo con cita, normalmente con cata de pago · alcaparras y Passito conviene comprarlos a los productores · las pozas termales de Gadir son libres pero pequeñas, y en verano se llenan pronto · Cala Levante o Cala Tramontana según cuál quede resguardada del viento del día.
+
 ### Día 8 — Pantelaria desde el mar
-Dimos la vuelta a la isla en barco, la única forma de ver la costa que de otro modo no se alcanza: las cuevas, las coladas de lava que bajan al agua, las **aguas termales submarinas** donde se nada en zonas que se calientan de repente, y **la costa sur** con los acantilados.
+Dimos la vuelta a la isla en barco, la única forma de ver la costa que de otro modo no se alcanza: las cuevas, las coladas de lava que bajan al agua, las **aguas termales submarinas** donde se nada en zonas que se calientan de repente, y **la costa sur** con los acantilados. Las excursiones salen por la mañana, normalmente hacia las nueve y media, y vuelven a última hora de la tarde con varias paradas para bañarse. El recorrido lo decide el viento: con el siroco se navega por la vertiente resguardada y se renuncia a la otra, y un patrón serio no promete la vuelta completa a toda costa. *Conviene llevar zapatillas de goma, una camiseta para la vuelta y mucha crema solar, porque en mar abierto el sol no da tregua.*
 
-Como alternativa, para quien prefiere caminar, están los senderos del interior entre los viñedos en terrazas y los dammusi abandonados, y la **Cala Cinque Denti** en la vertiente nororiental, con las rocas lávicas en punta.
+Como alternativa, para quien prefiere caminar, están los senderos del interior entre los viñedos en terrazas y los dammusi abandonados, y la **Cala Cinque Denti** en la vertiente nororiental, con las rocas lávicas en punta. Los senderos se hacen temprano por la mañana o hacia la tarde, porque en verano la lava oscura retiene el calor y hay poca sombra. Con coche se pueden combinar las dos cosas: media jornada a pie y un baño por la tarde en la cala resguardada del viento del día. La última noche pantesca la cerramos con los **ravioli amari** y el Passito.
 
-La última noche pantesca la cerramos con los **ravioli amari** y el Passito.
+**En la práctica:** excursión compartida de un día desde unos 60 euros por persona con el almuerzo, barco privado mucho más caro · reservar el día anterior y reconfirmar por la mañana según el viento · en los senderos casi no hay dónde comprar nada: agua y sombrero · la isla es Parque nacional desde 2016: no salirse de los senderos ni saltar los muretes.
 
 ### Día 9 — Jornada de tránsito
-Es la jornada honesta del itinerario: **se vuelve a Sicilia y se parte hacia Lampedusa.** Vuelo a **Palermo** o **Catania** y conexión para Lampedusa o, con horarios menos afortunados, una noche de paso en Sicilia.
+Es la jornada honesta del itinerario: **se vuelve a Sicilia y se parte hacia Lampedusa.** Vuelo a **Palermo** o **Catania** y conexión para Lampedusa o, con horarios menos afortunados, una noche de paso en Sicilia. El vuelo desde Pantelaria dura menos de una hora, el de Lampedusa más o menos lo mismo: el problema no es el tiempo en el aire sino los horarios, porque los vuelos son pocos y no siempre encajan. **Hay que preverla con margen.** Una cancelación por viento en Pantelaria hace perder la conexión, y los vuelos a Lampedusa no son frecuentes. **No comprar billetes no modificables con pocas horas de diferencia entre uno y otro.**
 
-**Hay que preverla con margen.** Una cancelación por viento en Pantelaria hace perder la conexión, y los vuelos a Lampedusa no son frecuentes. **No comprar billetes no modificables con pocas horas de diferencia entre uno y otro.**
+Quien tiene una escala larga en Palermo la aprovecha bien: Monreale, sobre la ciudad, está a unos cuarenta minutos en coche del aeropuerto, y la catedral normanda con sus mosaicos de oro merece el desvío. Quien en cambio duerme una noche en Sicilia elige Palermo o Catania según el vuelo de la mañana siguiente, y reserva la noche para cenar en el centro. Luego la llegada a **Lampedusa** y el alojamiento: el aeropuerto está pegado al pueblo, y conviene pedir que el scooter o el coche de alquiler se entreguen allí. *La primera noche basta un paseo por la via Roma, la calle del paseo, sin más planes.*
 
-Quien tiene una escala larga en Palermo la aprovecha bien: Monreale está a veinte minutos del aeropuerto en dirección a la ciudad.
-
-Luego la llegada a **Lampedusa** y el alojamiento.
+**En la práctica:** Pantelaria-Palermo en unos 50 minutos, Palermo o Catania-Lampedusa en una hora aproximadamente · vuelos de continuidad territorial con horarios y plazas limitados: comprobarlos en la web de la compañía antes de comprar · quien viene de Agrigento tiene también el barco nocturno desde Porto Empedocle · scooter en Lampedusa a reservar antes en temporada alta.
 
 ### Día 10 — Lampedusa y la Spiaggia dei Conigli
 **Lampedusa no es geológicamente Europa**: está sobre la **plataforma continental africana**, separada de Sicilia por un canal profundo, y es calcárea y blanca como la costa tunecina que tiene enfrente, a poco más de cien kilómetros. La vegetación, la luz y el color del agua son africanos, no sicilianos.
@@ -135,6 +147,8 @@ Las otras calas: **Cala Pulcino**, a la que se llega a pie por un sendero en una
 
 A última hora de la tarde fuimos a la **Porta d'Europa**, un monumento de cerámica y piedra asomado al mar al sur de la isla, realizado en 2008 en memoria de quienes han muerto cruzando este tramo de mar. Desde hace décadas Lampedusa es el punto de llegada de las rutas migratorias del Mediterráneo central, y eso forma parte de su identidad tanto como las calitas. Ir, quedarse cinco minutos y mirar en la dirección de la que llegan las barcas es lo mínimo para no hacer como si nada.
 
+**En la práctica:** Spiaggia dei Conigli gratuita, en temporada alta solo con reserva en línea en la web de la Reserva, gestionada por Legambiente, y por turnos · desde el aparcamiento se baja a pie por un sendero de unos 800 metros, con calzado adecuado · sin servicios y con poca sombra: agua y sombrero · Porta d'Europa de acceso libre, a pocos minutos del pueblo.
+
 ### Día 11 — En barco, o Linosa
 Para la última jornada completa hay dos posibilidades.
 
@@ -142,8 +156,14 @@ Para la última jornada completa hay dos posibilidades.
 
 **Opción B — Linosa.** Una hora de travesía hacia el norte y se cambia de isla por completo: **Linosa es volcánica y negra**, donde Lampedusa es calcárea y blanca. Tiene unos quinientos habitantes, **casas pintadas de colores plenos con los marcos blancos**, tres conos volcánicos que se suben a pie y **la Pozzolana di Ponente**, una playa de arena roja que es **también lugar de anidación de las tortugas** y por tanto está regulada. No hay playas cómodas, casi no hay nada que hacer, y quien va a propósito lo sabe.
 
+**En la práctica:** excursión en barco de un día desde el puerto, normalmente con almuerzo a bordo, a reservar el día anterior · hidroala Liberty Lines Lampedusa-Linosa en una hora aproximadamente, ferry en unas dos · con mar agitado se suspenden las salidas: comprobar el horario de vuelta · en Linosa se recorre a pie o en scooter.
+
 ### Día 12 — Salida
-La última mañana, luego el vuelo. **Con margen**, porque por estos lares la última palabra la tiene el viento.
+La última mañana, luego el vuelo. **Con margen**, porque por estos lares la última palabra la tiene el viento. Lampedusa tiene al menos la ventaja del aeropuerto en el pueblo: quien sale por la tarde tiene aún tiempo para un último baño cerca, en la **Guitgia** o en **Cala Croce**, sin cruzar la isla. El scooter se devuelve antes de ir al aeropuerto, con el depósito lleno si el alquiler lo pide. *Quien vuelve en barco a Porto Empedocle debe saber que con mar gruesa las salidas se suspenden también en verano, y conviene comprobarlas la noche anterior.*
+
+Si el vuelo al continente hace escala en Palermo o Catania, mejor no encadenar el mismo día un vuelo intercontinental o un tren con pocas horas de diferencia: un retraso por viento en Lampedusa lo desbarata todo. Quien puede guarda una noche de reserva en Sicilia, que si todo va bien se convierte en una velada más en la ciudad. Algo de comer para el viaje se compra en el pueblo, porque en el pequeño aeropuerto la oferta es limitada.
+
+**En la práctica:** aeropuerto de Lampedusa a pocos minutos del centro · llegar con un margen cómodo aunque el aeropuerto sea pequeño · entre el vuelo desde Lampedusa y una conexión importante dejar al menos media jornada, mejor una noche · comprobar el barco a Porto Empedocle el día anterior.
 
 ## Las versiones cortas
 - **Solo Égadas (4-5 días):** la más fácil, la más económica y la más adecuada para una primera vez. Base en Favignana, Levanzo y Marettimo en el día. Se llega desde Trapani y se vuelve a Trapani.

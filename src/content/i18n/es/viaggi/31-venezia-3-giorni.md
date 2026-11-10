@@ -43,6 +43,8 @@ Por la tarde, **no subir al campanile de San Marcos**: hay cola y sobre todo des
 
 La noche la pasamos en **Castello**, el sestiere justo detrás de San Marcos: bastan diez minutos de caminata hacia el este y la ciudad cambia por completo.
 
+**En la práctica:** San Marcos con reserva online a la hora de apertura, hombros y rodillas cubiertos, mochilas grandes en la consigna gratuita de una calle cercana · Pala de Oro y Loggia dei Cavalli con entradas adicionales · Palacio Ducal con entrada combinada, Itinerarios Secretos a reservar · vaporetto a San Giorgio Maggiore, campanario con ascensor y entrada módica · comprobar antes si la fecha está sujeta a la tasa de acceso.
+
 ### Día 2 — Dorsoduro, los Frari y San Rocco
 La jornada del gran arte, casi toda a pie y casi toda sin colas.
 
@@ -58,6 +60,8 @@ Al atardecer fuimos a las **Zattere**, la larga ribera asomada a la Giudecca, do
 
 La noche, de **cicchetti** entre los bacari de Dorsoduro y San Polo, de pie, pasando de una barra a otra. Es la forma correcta de cenar en Venecia, y cuesta una fracción de un restaurante.
 
+**En la práctica:** Accademia y Peggy Guggenheim con entradas propias, la Guggenheim tiene un día de cierre semanal a comprobar · Frari con entrada, o con el Chorus Pass · Scuola Grande di San Rocco con entrada, espejos a disposición · todo a pie entre Dorsoduro y San Polo · cicchetti en la barra, pocos euros cada uno con la ombra.
+
 ### Día 3 — Cannaregio, el Gueto y las islas
 La mañana en **Cannaregio**, el sestiere más habitado y el menos visitado de los seis. **El Gueto de Venecia es el primer gueto del mundo**: en 1516 la República obligó a los judíos a residir en esta zona cerrada con puertas vigiladas, y la palabra misma viene de aquí, de la fundición («geto») que había antes. Como no se podía construir a lo ancho, **se construyó a lo alto**: los edificios del Campo di Ghetto Nuovo tienen **plantas bajísimas y más niveles que cualquier otro edificio veneciano**, y se ve a simple vista. Hay cinco sinagogas históricas, visitables con acompañamiento a través del **Museo Judío**. **Los horarios y la disponibilidad cambian** y dependen de las festividades: conviene comprobarlos antes.
 
@@ -69,6 +73,8 @@ La tarde es para la **laguna norte**, en vaporetto:
 - **Torcello**, que casi nadie hace y es la razón para venir a la laguna. Es **la isla de la que nació Venecia**: tenía decenas de miles de habitantes antes de que la malaria y el aterramiento la vaciaran, y hoy tiene unas pocas decenas. Queda la **basílica de Santa Maria Assunta**, fundada en el siglo VII, con un **Juicio Final en mosaico** en la contrafachada y una **Virgen bizantina sobre fondo de oro** en el ábside, sola, sobre un campo dorado vacío: una de las imágenes más fuertes de todo el arte veneciano. Fuera está el prado con el **Puente del Diablo**, sin barandillas.
 
 **Orden recomendado:** Torcello la primera o la última, y **no dejarla fuera** para ir de compras a Murano.
+
+**En la práctica:** Museo Judío y sinagogas con visita acompañada, horarios ligados a las festividades y al sábado · abono de vaporetto de un día para la laguna norte · Murano, Burano y Torcello unidas por líneas desde las Fondamente Nove, con tiempos de travesía que se suman · en Torcello basílica y campanario con entrada · comprobar el último vaporetto desde Torcello, las salidas son escasas.
 
 ## Qué ver / qué hacer
 - **La Basílica de San Marcos reservada, a la apertura**, con la Loggia dei Cavalli.

@@ -29,6 +29,8 @@ We landed at Gardermoen around lunchtime. The city is 19 minutes away by **Flyto
 
 The afternoon was one long walk: the Royal Palace gardens, the Aker Brygge waterfront, Renzo Piano's Astrup Fearnley museum and finally the Opera House, where we climbed onto the roof to look at the city and the sea. At the café inside, a hot tea hit the spot, even in July. We had dinner at **Rorbua**, also in Aker Brygge: traditional Norwegian cooking, generous portions, average prices, wood everywhere.
 
+**In practice:** Flytoget about 210 NOK one way, pay by card at the gates or on the app · the Opera roof is free to access at any hour · Oslo trams, buses and metro with the Ruter app · at Aker Brygge it's worth booking dinner in summer
+
 ### Day 2 — Oslo → Bodø → Svolvær
 We left before dawn, on the first Flytoget to the airport, and the flight to Bodø landed in the morning. With the car picked up, we walked around the center and the pier; for a view from above there's Nyholms Fort, ten minutes away. We got lunch to go from **Bryggerikaia**, which opens mid-morning and makes "mega-stuffed" sandwiches, and ate it at the city's viewpoint.
 
@@ -38,12 +40,16 @@ Then three and a quarter hours of driving to Bognes, with two stops that are wor
 
 At Bognes we took the ferry to Lødingen (best to be at the pier 40 minutes early), then an hour and forty minutes by car to Svolvær, where we arrived in the evening. Dinner at **Bacalo**, average.
 
+**In practice:** from Bodø airport to the center is a few minutes by car · Bognes-Lødingen ferry about an hour, no booking: cars board in order of arrival and the fare is paid with AutoPASS or on board · in Norway you pay by card almost everywhere, cash is rarely needed
+
 ### Day 3 — Svolvær → Henningsvær
 Breakfast at **Kringla**, an excellent bakery near the apartments. Then the first real thrill of the Lofoten: the **Lofoten Explorer** RIB boat to the **Trollfjord**, two hours with thermal suits provided by the crew, friendly guides and sea eagles a few meters from the boat. It's one of the best things about the trip. *Tip: gloves, glove liners and a hat.*
 
 In late morning we went back to Svolvær and half an hour by car got us to **Henningsvær**. We had lunch at **Fiskekrogen**, on the village canal: excellent food. Best to book and ask for a window table, because the "little Venice" effect is real. After lunch, the famous soccer field, perfect for photos and drone, and a stroll among bakeries, crafts and vintage boutiques in a small but lively village.
 
 The afternoon was for the **Festvågtind trail**, starting from Festvågtind Parking: 3 km and 500 meters of elevation gain, more technical than Reinebringen, across rock and sandy ground. In about forty minutes you reach an alpine pond halfway up; from there, to the right, there's an easier lookout, to the left the actual summit, more demanding. In the evening we had dinner at **Paleo Arctic**, the best restaurant of the whole trip: it costs a little more than average, but the quality is clearly superior.
+
+**In practice:** RIB to the Trollfjord to book ahead, in summer places run out · in Henningsvær you park for a fee at the entrance to the village · Festvågtind about 3 hours up and down, shoes with soles that grip on rock · at Paleo Arctic it's worth booking
 
 ### Day 4 — Svolvær → Reine → Nesland
 Breakfast at Kringla, a full tank of gas and 55 minutes by car to the **Borg Viking Museum**, which opens around mid-morning. It deserves an unhurried visit: an introductory film of about twenty minutes, a well-made exhibition and the reconstruction of the Viking longhouse. Outside you can shoot a bow, throw an axe or go out on horseback and by boat with a reservation; I skipped it, between the cold and the waits. We had lunch shortly after noon in Leknes, at **DIGG Restaurant**: simple, good, not memorable.
@@ -52,6 +58,8 @@ In the early afternoon we reached **Reine** (parking 200 NOK for three hours) fo
 
 We had dinner at **Ramberg Resort**, a couple of steps from Ramberg beach, and a walk on the sand after dinner closed the day nicely.
 
+**In practice:** Lofotr Viking Museum open every day in summer, a ticket of a few hundred kroner · Reinebringen: the steps are free, parking in Reine is paid; in rain the rock at the top is slippery · fill up in Leknes, further west there are few fuel stations
+
 ### Day 5 — Bunes Beach
 Breakfast at the house, sandwiches bought at the Coop Prix in Reine and the morning ferry to **Vindstad**: forty minutes of sailing among rock walls, among the most scenic stretches of the trip. Even with a reserved spot it's best to be at the pier half an hour early.
 
@@ -59,15 +67,21 @@ At Vindstad the first stop was the "little yellow house," a former school turned
 
 We ate our packed lunch at the yellow house, then hot tea and card games while waiting for the afternoon ferry. On the way back we shopped in Ramberg, better stocked and cheaper than the Coop in Reine, though it sells only beer, no wine or spirits. In the evening, a barbecue at the rorbu: grilled salmon, sautéed vegetables and a long table.
 
+**In practice:** Reine-Vindstad ferry with few departures a day, worth booking a seat · in Vindstad there are no shops: bring water and lunch · camping is allowed at Bunes beach, but no fires on the sand and take your rubbish back with you
+
 ### Day 6 — Å and the Trail to Nusfjord
 Fifty minutes by car and we arrived at **Å**, the village with the shortest name in the world. First the historic bakery, few seats and excellent pastries, then the guided tour in English of the **Fisherman's Museum**, in late morning: an hour that shows how the Lofoten fishing communities lived, interesting even in the rain. We had lunch in **Sakrisøy** at **Anita's Seafood**, with stuffed sandwiches, soups and sushi with a view of the fjord; you order at the counter.
 
 In the afternoon, as soon as the sky opened up, we walked from **Nesland toward Nusfjord**: about 11 km round trip along the fjord, through woods and rocky stretches, with no technical difficulty. After the hikes of the previous days it was the right day for something lighter. Dinner at the rorbu with what was left from the barbecue: pasta with cream and salmon.
 
+**In practice:** Å Fishing Village Museum with an entry ticket, guided tours in summer · Anita's Seafood in Sakrisøy, open in summer, you order at the counter · in Nusfjord in summer you pay a ticket to enter the village
+
 ### Day 7 — Bodø and Back to Oslo
 Wake-up before dawn for the morning ferry from **Moskenes** to Bodø, three and a half hours of sailing (at the port 40 minutes early). In Bodø we had breakfast at Melkebaren, where the service is slow. Then **Mjelle** beach, pleasant but unremarkable after what we'd seen in the previous days, and the ten-minute ferry to **Misten and Kjerringøy**, staying in the car (at the pier half an hour early). Kjerringøy didn't thrill me, but it honestly fills a few hours. *Note: if Bodø/Glimt is playing at home, going to the stadium may be worth it.*
 
 We came back on the early afternoon ferry, treated ourselves to a bit of beach between the Bobil Plats and Nils Fredrik campsites, then fuel, car return and the flight to Oslo, landing in the evening. The last dinner was at **Café Sara**, a simple place open late, perfect after a flight (on weekends it's best to book).
+
+**In practice:** Moskenes-Bodø ferry about 3 hours 15 minutes, a car pays around 600 NOK plus the space reservation, passengers travel free · in summer the car space should be booked on the Torghatten Nord website · Bodø airport is a few minutes from the center, handy for returning the car
 
 ## What to see / what to do
 - **Reinebringen:** the signature hike of the Lofoten, 1,978 steps, top view only

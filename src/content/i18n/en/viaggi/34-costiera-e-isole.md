@@ -38,6 +38,8 @@ For sleeping, the earlier recommendation holds: **Praiano or Minori** if you wan
 
 The first evening, take it slow. **Positano** at sunset, if you're there: it's vertical, you walk down among stairs and bougainvillea to the Spiaggia Grande and **you climb back up on your legs**. There's no alternative, except a bus that takes a long loop. The church of Santa Maria Assunta has the dome of yellow and green majolica tiles that is the image of the town.
 
+**In practice:** from Naples by sea from Molo Beverello in season, or Circumvesuviana to Sorrento then SITA bus or ferry · no car · in Positano you walk down and back up, travel light · book dinner for the first evening in high season.
+
 ### Day 2 — The Path of the Gods
 It's the best day of the itinerary, and it has to be done early.
 
@@ -51,6 +53,8 @@ Along the way you see the **lemon and vine terraces on impossible slopes**: they
 
 In the afternoon, beach or ferry, and rest.
 
+**In practice:** SITA bus to Agerola-Bomerano early in the morning · about three hours from Bomerano to Nocelle, downhill · free trail, trekking shoes and water, no guaranteed fountain along the way · from Nocelle bus to Positano or about 1,700 steps.
+
 ### Day 3 — Amalfi, Atrani and Ravello
 We went by ferry to **Amalfi**, which was a **Maritime Republic** when Venice was still a gamble and which today is a small town with a disproportionate past.
 
@@ -62,6 +66,8 @@ In the afternoon we went up to **Ravello**, about four hundred meters above the 
 
 The evening in Ravello, if you manage to stay, is something else: after the last buses have gone down, the town changes.
 
+**In practice:** ferry to Amalfi, a few euros each way · Cathedral and Cloister of Paradise with a ticket · Atrani ten minutes on foot · SITA bus to Ravello, which fills up in summer: better to board at the terminus · Villa Rufolo and Villa Cimbrone on separate tickets.
+
 ### Day 4 — The eastern coast and the Valle delle Ferriere
 It's the day of the things almost nobody does.
 
@@ -71,12 +77,16 @@ It's the day of the things almost nobody does.
 
 Anyone with energy left can add the **Fiordo di Furore**, a very narrow cut in the rock with a bridge above and a tiny beach at the bottom, and the **Emerald Grotto** at Conca dei Marini, reachable by boat or by an elevator from the road, **with access that depends on sea conditions**.
 
+**In practice:** Valle delle Ferriere with regulated access, check beforehand · shoes with grip on wet ground · Roman villa in Minori free · Sentiero dei Limoni short and easy · Emerald Grotto only in calm sea.
+
 ### Day 5 — Transfer to Capri
 In the morning we took the ferry to **Capri**. You land at **Marina Grande** and go up to the center with the **funicular**, or on foot if you want to start well.
 
 We spent the afternoon on the upper part: the **Piazzetta**, tiny, which lives on being watched, and then the **Gardens of Augustus** with the view over the **Faraglioni** and over **Via Krupp**, the switchback road cut into the rock that goes down to Marina Piccola. **Via Krupp has been closed in stretches for rockfall risk: better to check beforehand whether it's open.**
 
 Toward evening, when the day excursions have left, **Capri changes**. In the evening the island empties by two thirds and suddenly becomes quiet, and that's why it's worth sleeping there instead of doing it as a day trip.
+
+**In practice:** ferry or hydrofoil to Capri from Amalfi, Positano, Sorrento or Naples · funicular from Marina Grande to the Piazzetta, tickets at the station · Gardens of Augustus with a ticket · check the status of Via Krupp · sleeping on the island is expensive, book early.
 
 ### Day 6 — Capri, from above and from the sea
 In the morning we went up to **Anacapri**, the upper town, the other face of the island: fewer shop windows, more life. From there we took the **chairlift to Monte Solaro**, a single-seat, open chairlift that climbs slowly over the low walls and gardens: it's the best experience on the island, at a ridiculous price. At the top, at **589 meters**, there's all of Capri below and the whole bay around.
@@ -89,6 +99,8 @@ We spent the afternoon **on a boat**: the **tour around the island** is the righ
 
 For those who prefer walking there's the **Path of the Fortini** along the western coast, or the climb to **Villa Jovis**, the villa of **Tiberius** on the eastern tip: it's the largest of the twelve imperial villas on the island and from there you command the whole bay.
 
+**In practice:** bus to Anacapri from Capri or Marina Grande · Monte Solaro chairlift, stops in strong wind · Villa San Michele with a ticket · boat trip around the island to book at Marina Grande · Blue Grotto only in calm sea and without a queue, entry paid separately on the boat.
+
 ### Day 7 — Ischia: the Castle and the thermal baths
 We took the ferry to **Ischia**, **the largest island in the bay** and the one least like its reputation: it's not a popular Capri, it's something else entirely. It's volcanic, green, home to sixty thousand people, and has **a thermal tradition documented since antiquity**.
 
@@ -96,12 +108,16 @@ The first stop was the **Aragonese Castle** at **Ischia Ponte**, on a rock islet
 
 We spent the afternoon in a **thermal park** on the western side. They're big gardens sloping down to the sea, with pools at different temperatures, from forty degrees up, natural saunas cut into the rock and direct access to the sea. You enter for the day and spend the entire afternoon doing nothing else, which is exactly the point.
 
+**In practice:** ferry from Capri, Naples or Pozzuoli · Aragonese Castle with a ticket, lift or ramp · thermal parks with day entry, check opening season and prices · swimsuit, flip-flops and towel for the spas.
+
 ### Day 8 — Ischia: Epomeo, Sorgeto and La Mortella
 In the morning we climbed **Mount Epomeo**, the volcanic peak at the center of the island, **789 meters**. The classic route starts from **Fontana**: it's a climb of about an hour and a half, with the last stretch in a **corridor cut into green tuff** that ends on a summit with the hermitage carved into the rock. From up there you see **all of Ischia at once**, which never happens from the island, and on clear days you reach Capri and Vesuvius.
 
 As an alternative or addition there are the **La Mortella Gardens** in Forio: a subtropical botanical garden created from the 1950s in a stone quarry, with greenhouses, tree ferns, giant water lilies and two open-air theaters. It comes from a lifetime project, and it's one of the most beautiful gardens in Italy.
 
 In the late afternoon we went to **Sorgeto**. You go down to a bay of stones near **Panza** by **over two hundred steps** (which then have to be climbed back up, and it's no joke) and arrive at a cove where **boiling springs come out directly under the stones and mix with the sea**. You look for the natural pools with the right temperature, moving one meter between water at forty degrees and the cold. **It's free, it's always open, and the best moment is sunset or a winter night.** You need **rubber shoes**, because near the vents the stones really burn, and caution, because in some spots the water is scalding.
+
+**In practice:** Epomeo from Fontana, about an hour and a half uphill · La Mortella gardens open only in some months and days, to check · Sorgeto free, over two hundred steps, rubber shoes · island bus or taxi between Forio and Panza.
 
 ### Day 9 — Procida and the return
 The last ferry was to **Procida**, the smallest: **four square kilometers**, the least touristy of the three and **Italian Capital of Culture in 2022**, which brought it attention without changing it much.
@@ -113,6 +129,8 @@ Above is **Terra Murata**, the highest point, with the **Abbey of San Michele Ar
 You can see all of Procida in one day, and it's the right note to close on: after Capri, it reminds you that in this bay there's still a place where people fish for a living.
 
 In the afternoon we returned to Naples.
+
+**In practice:** ferry from Ischia to Procida, a few minutes · Corricella and Terra Murata on foot or by micro-taxi · Vivara with capped access, check the rules beforehand · back to Naples from Procida port, check whether it arrives at Beverello or Calata Porta di Massa.
 
 ## How to shorten the itinerary
 - **In 5 days:** Coast only (Days 1-4) plus one day on Capri, sleeping there.

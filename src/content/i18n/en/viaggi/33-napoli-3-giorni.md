@@ -44,6 +44,8 @@ Then we went **below**, because Naples has a city under the city: **Greek tufo q
 
 The evening, again on Via dei Tribunali, with pizza.
 
+**In practice:** Sansevero Chapel only with an online timed booking, ticket around €12, usually closed on Tuesdays, no photos · Santa Chiara cloister and Pio Monte della Misericordia with tickets of a few euros · Napoli Sotterranea and Galleria Borbonica only on accompanied visits at set times, to be booked; the first has very narrow tunnels · in the evening the best-known pizzerias on Via dei Tribunali have queues: arrive early.
+
 ### Day 2 — MANN, Sanità and the hill
 In the morning we were at the **National Archaeological Museum**, together with those in Rome the most important Roman archaeology museum in the world. It should be done **before Pompeii**.
 
@@ -54,6 +56,8 @@ In the afternoon we went to the **Rione Sanità**, the neighborhood that more th
 At the end of the day we went up to the **Vomero** by **funicular**. **Castel Sant'Elmo** has the terrace with the most complete view over the gulf, and next to it is the **Certosa di San Martino**, with the cloister, the baroque church and the **nativity scene section**. There is the **Cuciniello Nativity**, an enormous eighteenth-century nativity scene in which the Nativity is a detail amid a scene of Neapolitan life with markets, taverns and hundreds of figures.
 
 Sunset from the viewpoint and then back down. In the evening, **Chiaia** or the **Caracciolo waterfront**, which is pedestrian, with **Castel dell'Ovo** in the background.
+
+**In practice:** MANN closed on Tuesdays, open 9am to 7.30pm with last entry at 6.30pm, tickets also online · Catacombs of San Gennaro only on guided visits, at set departure times · Fontanelle Cemetery has limited hours, check before going · funicular to the Vomero with an ordinary city transport ticket · Castel Sant'Elmo and Certosa di San Martino have separate tickets: check closing days on the ministry website.
 
 ### Day 3 — Vesuvius, Herculaneum and Pompeii
 This is the day outside the city, and it must be decided in advance because **doing all three is too much**.
@@ -67,6 +71,8 @@ This is the day outside the city, and it must be decided in advance because **do
 **Pompeii** is something else: it's **an entire city**, and you walk for hours. The priorities, so as not to scatter: the **Villa of the Mysteries** with the cycle of frescoes in Pompeian red, the **Forum** with Vesuvius at the end, the **House of the Faun**, the **Stabian Baths**, the **Lupanar**, the **Amphitheater** (the oldest known Roman stone amphitheater) and the **casts**: the voids left by bodies in the ash, filled with plaster by Giuseppe Fiorelli in the nineteenth century, which give back the exact positions in which people died. **You need a hat, water and real shoes**, because you walk on uneven paving and shade is almost absent.
 
 Then we returned to Naples for the last evening in the city.
+
+**In practice:** Circumvesuviana from Napoli Porta Nolana or Garibaldi, just under half an hour to Ercolano Scavi and about forty minutes to Pompei Scavi · Pompeii tickets are personal, with date and time slot, around €20, bought only on pompeiisites.org or from official resellers · Vesuvius: tickets only online at vesuviopark.vivaticket.it, around €12, no ticket office at the top · in strong wind or weather alerts the Gran Cono path closes: check the day before.
 
 ## What to see / what to do
 - **The Veiled Christ** at the Sansevero Chapel, booked in good time.

@@ -34,15 +34,27 @@ Il primo giorno è servito ad ambientarci: il lungomare, il mercato del pesce e 
 
 *È anche il giorno per fare scorta di contanti: da qui in avanti gli ATM si diradano.*
 
+Il lungomare va visto dal tardo pomeriggio: il sole tramonta presto, tra le sei e le sei e mezza quasi tutto l'anno, dietro le isole del **Tunku Abdul Rahman Park**. Chi arriva in mattinata può prendere una barca dal **Jesselton Point** per un bagno a Manukan o a Sapi, a una ventina di minuti; altrimenti basta **Gaya Street**, la via principale della città vecchia, che la domenica mattina diventa un mercato. *In città ci si muove bene con Grab, l'app di auto con conducente usata in tutta la Malesia: costa poco ed evita le trattative con i taxi.*
+
+**In pratica:** volo da Kuala Lumpur circa 2 ore e 30, con un nuovo controllo passaporti all'arrivo in Sabah · aeroporto-centro 20-30 minuti in Grab o in taxi con coupon a prezzo fisso · ringgit in contanti per mercati, barche e lodge, prelevati qui · tramonto dal lungomare · Filipino Market la sera, pesce scelto al banco e pagato a peso.
+
 ### Giorno 2 — Verso il Kinabalu Park
 Ci si sposta a **Kundasang** o dentro il parco, circa due ore di strada. Si dorme in quota per essere al Timpohon Gate all'alba: partire da Kota Kinabalu vorrebbe dire uscire alle tre di notte.
 
 Il pomeriggio è stato leggero, nel **Kinabalu Park**, patrimonio UNESCO, tra i sentieri bassi e il giardino botanico. Serve anche solo per cominciare a stare in quota.
 
+Il permesso di salita va prenotato con mesi di anticipo insieme alla guida e al posto letto a Laban Rata: senza la notte in rifugio confermata non si sale. Il pomeriggio al parco serve anche per ritirare i documenti, conoscere la guida e preparare lo zaino della salita, il più leggero possibile: strati caldi, guanti, frontale, guscio impermeabile e qualcosa da mangiare. Se il mattino è limpido, la montagna si vede già dai tornanti prima di Kundasang. *In quota il tempo cambia nel primo pomeriggio, con nuvole e pioggia quasi ogni giorno: è la mattina il momento in cui la vetta resta scoperta.*
+
+**In pratica:** Kota Kinabalu-Kinabalu Park circa due ore in auto o minivan · permesso, guida obbligatoria e rifugio a Laban Rata si prenotano insieme, tramite operatori autorizzati, e per gli stranieri il pacchetto arriva a qualche centinaio di euro · a Kundasang la sera fa fresco: una felpa · il bagaglio grande si lascia in deposito al parco o in hotel.
+
 ### Giorno 3 — Kinabalu, primo giorno
 Siamo partiti dal **Timpohon Gate**, a 1.866 metri, con la guida obbligatoria: sei chilometri quasi tutti di gradini irregolari, dentro la foresta pluviale, con l'umidità addosso e la sensazione che non finiscano mai.
 
 Nel primo pomeriggio siamo arrivati a **Laban Rata**, 3.270 metri. Si cena presto e si prova a dormire alle otto di sera, cosa che a quella quota riesce a pochi.
+
+Si cammina al ritmo della guida, con soste nei ripari coperti lungo il sentiero, che hanno panche e servizi. Il dislivello fino al rifugio è di circa 1.400 metri, e di solito servono tra le quattro e le sei ore. La foresta cambia con la quota: muschi, felci arboree, rododendri e qualche pianta carnivora vicino al sentiero, poi sopra i tremila metri la vegetazione si abbassa e si apre la vista sulle valli. *Conviene partire presto: nel pomeriggio arrivano spesso pioggia e nebbia, e il sentiero bagnato rallenta parecchio.*
+
+**In pratica:** partenza dal Timpohon Gate la mattina, dopo il controllo dei permessi · circa 6 km e 1.400 metri di dislivello, 4-6 ore · si possono ingaggiare portatori per lo zaino, pagati a peso · a Laban Rata acqua e snack si trovano, ma costano di più · cena presto e sveglia nel cuore della notte.
 
 ### Giorno 4 — Vetta all'alba e discesa
 Sveglia all'una e mezza. Si esce al buio, la foresta è finita, e si cammina sulla **piattaforma di granito nudo** tenendosi a una corda fissa, con una fila di torce frontali sopra e sotto, lungo il fianco della montagna.
@@ -50,6 +62,8 @@ Sveglia all'una e mezza. Si esce al buio, la foresta è finita, e si cammina sul
 La quota si sente: in poco più di ventiquattro ore si passa da meno di duemila a oltre quattromila metri senza acclimatamento, e il mal di testa è la norma più che l'eccezione. Poi si arriva sui **4.095 metri** e il cielo passa dal nero all'arancione, con le nuvole sotto i piedi.
 
 La discesa si fa tutta in giornata, e pesa sulle ginocchia più della salita. Poi ci siamo trasferiti verso **Sandakan**.
+
+**In pratica:** sveglia all'una e mezza, partenza verso le due e mezza dopo un pasto leggero · lungo la via c'è un checkpoint con un orario limite: chi arriva troppo tardi viene fatto tornare indietro · frontale, guanti e strati caldi, in vetta la temperatura può avvicinarsi allo zero · rientro al Timpohon Gate di solito nel primo pomeriggio · dal parco a Sandakan circa quattro-cinque ore di strada, da prenotare come trasferimento.
 
 ### Giorno 5 — Sepilok
 La mattina siamo andati al **Sepilok Orangutan Rehabilitation Centre**, per la prima poppata. Sono animali orfani o confiscati al commercio illegale, in riabilitazione, e il centro non finge che sia natura: in questa parte del mondo non è scontato.
@@ -60,10 +74,16 @@ In mezzo ci sono le due tappe che quasi tutti saltano: il **centro dei sun bear*
 
 *Zaini chiusi: i macachi attorno alle passerelle strappano bottiglie e sacchetti senza esitare.*
 
+**In pratica:** le poppate sono di solito in tarda mattinata e a metà pomeriggio, conviene controllare gli orari del giorno all'ingresso · il biglietto del centro degli oranghi è giornaliero, va tenuto per la seconda poppata · Sun bear centre e Rainforest Discovery Centre sono a pochi passi, con biglietti propri · si dorme nei lodge di Sepilok, a circa mezz'ora da Sandakan · repellente e scarpe chiuse.
+
 ### Giorno 6 — Sandakan e la memoria
 La mattina l'abbiamo passata al **Sandakan Memorial Park**, sul sito del campo di prigionia giapponese da cui nel 1945 partirono le marce della morte verso Ranau: su circa duemilaquattrocento prigionieri alleati ne sopravvissero sei. È un posto silenzioso e poco visitato, e racconta una delle pagine più dure della guerra nel Pacifico.
 
 Nel pomeriggio ci siamo spostati verso il **fiume Kinabatangan**: circa due ore di strada fino a Sukau o Bilit, poi la barca fino al lodge. La prima **uscita al tramonto** è stata già la sera dell'arrivo.
+
+Al Memorial Park un piccolo padiglione racconta la storia del campo con fotografie e testimonianze dei sopravvissuti; si visita in un'ora, meglio la mattina, prima del caldo. Chi ha tempo in città passa dalla **Agnes Keith House**, la casa coloniale della scrittrice americana che visse a Sandakan negli anni Trenta e fu internata dai giapponesi, con la vista sulla baia. Il lodge sul Kinabatangan va prenotato prima, con il trasferimento compreso: quasi tutti i pacchetti partono da Sandakan o da Sepilok e includono uscite in barca e pasti.
+
+**In pratica:** Sandakan Memorial Park, visita di circa un'ora · Sandakan-Sukau circa due ore di strada, poi la barca del lodge · pacchetti di due o tre notti con uscite e pasti inclusi, da pagare spesso in parte in contanti · sul fiume repellente, maniche lunghe e un poncho per gli acquazzoni del pomeriggio.
 
 ### Giorno 7 — Kinabatangan
 È la giornata piena sul fiume: **uscita all'alba**, con la nebbia ancora sull'acqua e il motore al minimo, **uscita al tramonto** e **uscita notturna** con le torce per coccodrilli e civette.
@@ -72,15 +92,25 @@ In due ore di navigazione passano nasiche che saltano tra i rami, buceri in copp
 
 *Qui il binocolo vale più di qualsiasi obiettivo: si guarda quasi sempre a venti o trenta metri.*
 
+**In pratica:** uscita all'alba verso le sei, al tramonto nel tardo pomeriggio e notturna dopo cena, ognuna di un paio d'ore · binocolo, guscio impermeabile e una custodia stagna per macchina fotografica e telefono · in barca si resta seduti a lungo, un asciugamano sotto aiuta · per le camminate notturne servono stivali di gomma, che molti lodge prestano · calze antisanguisughe nella foresta.
+
 ### Giorno 8 — Kinabatangan e verso Semporna
 Ultima **uscita all'alba** (ogni uscita è una lotteria, e più biglietti si hanno, meglio è). In alternativa ci sono il trekking guidato nella foresta dietro il lodge o le **Gomantong Caves**, con milioni di pipistrelli e i nidi di rondine raccolti per la zuppa.
 
 Nel pomeriggio abbiamo affrontato il lungo trasferimento verso **Semporna** e la barca per **Mabul** (circa 45 minuti).
 
+Le **Gomantong Caves** sono a circa un'ora di strada da Sukau, sulla via verso sud: la grotta principale si visita su una passerella di legno, con un odore forte di guano e il pavimento che si muove di scarafaggi, e chi passa al tramonto vede l'uscita dei pipistrelli. Il trasferimento verso Semporna attraversa ore di piantagioni di palma da olio fino a Lahad Datu, poi segue la costa. *Le barche per Mabul non viaggiano col buio: se la strada si allunga, si dorme a Semporna e si parte la mattina dopo.*
+
+**In pratica:** Kinabatangan-Semporna circa cinque-sei ore di strada, oppure volo Sandakan-Tawau e un'ora d'auto · Gomantong con un piccolo biglietto d'ingresso, scarpe chiuse · barca Semporna-Mabul circa 45 minuti, organizzata dal resort · contanti prima di partire: sulle isole le carte non sono sempre accettate.
+
 ### Giorno 9 — Mabul: muck diving
 La prima giornata di immersioni è stata attorno a **Mabul e Kapalai**. Quasi tutti le trattano come una semplice base d'appoggio per Sipadan, e invece sono uno dei posti migliori al mondo per il **muck diving**: fondali bassi e sabbiosi dove si cercano cavallucci pigmei grandi come un'unghia, polpi mimetici, nudibranchi e pesci rana.
 
 È anche il giorno in cui si vede un contrasto su cui vale la pena fermarsi a pensare: attorno alle palafitte, a cinquanta metri dai resort, vivono i **Bajau Laut**, i "nomadi del mare", spesso senza la cittadinanza di nessuno Stato.
+
+Le immersioni a Mabul sono tranquille, con poca corrente e profondità modeste, e vanno bene anche per chi ha il brevetto da poco: è il posto giusto per riprendere confidenza con l'attrezzatura prima di Sipadan. Il ritmo è lento. Le guide locali trovano animali che da soli non si vedrebbero, e il trucco è restare fermi sul fondo senza sollevare la sabbia. *Una torcia aiuta anche chi non fotografa: sotto i pontili e tra i relitti artificiali i colori si vedono solo con la luce.*
+
+**In pratica:** di solito tre immersioni al giorno dal resort, più la notturna su richiesta · brevetto e logbook da portare, insieme all'assicurazione per le immersioni · nei villaggi Bajau si fotografa solo chiedendo · tra un'immersione e l'altra crema solare sulle spalle: il riverbero dell'acqua brucia.
 
 ### Giorno 10 — Sipadan
 È la giornata per cui si è costruito tutto il viaggio, **se il permesso è arrivato**. La rotazione dell'operatore premia i soggiorni lunghi, ed è per questo che l'itinerario prevede più notti a Mabul invece di due.
@@ -89,13 +119,23 @@ Si scende lungo una parete che continua nel blu senza un fondo visibile. In poch
 
 *Sull'isola non si può dormire: le strutture furono rimosse nel 2004 proprio per proteggerla.*
 
+**In pratica:** i permessi giornalieri per Sipadan sono a numero chiuso e assegnati ai resort autorizzati, che li distribuiscono a rotazione tra gli ospiti · la tassa del permesso si paga a parte · le correnti possono essere forti: molte immersioni richiedono esperienza o un brevetto avanzato · all'arrivo sull'isola ci si registra al posto dei ranger · tra un'immersione e l'altra si sosta sulla spiaggia, senza lasciare rifiuti.
+
 ### Giorno 11 — Mabul o Bohey Dulang
 Seconda giornata di immersioni. Chi non si immerge può salire a **Bohey Dulang**, un cratere vulcanico con un sentiero ripido sopra la laguna e una delle viste migliori del Sabah.
 
 Nel pomeriggio siamo rientrati a Semporna, per l'ultima cena di pesce sul lungomare, ottimo ed economico.
 
+La salita a **Bohey Dulang** va fatta presto, prima che il sole picchi: il sentiero è breve ma ripido, con corde e radici nel tratto finale, e dall'alto la laguna dentro il vecchio cratere ha tutti i toni del verde e dell'azzurro. L'isola fa parte del **Tun Sakaran Marine Park** e ci si arriva in barca da Semporna o dai resort, quasi sempre dentro un'escursione che aggiunge lo snorkeling nelle isole vicine. *Tra l'ultima immersione e il volo servono almeno diciotto ore, meglio ventiquattro dopo più giorni di immersioni: se il volo di domani è presto, l'ultima va fatta la mattina.*
+
+**In pratica:** Bohey Dulang, salita di mezz'ora-un'ora con scarpe da trekking leggere e acqua · escursione in barca di mezza giornata o giornata intera, con la tassa del parco marino · a Semporna il pesce sul lungomare si sceglie al banco la sera · per il volo di domani, dormire a Semporna accorcia il transfer.
+
 ### Giorno 12 — Tawau e rientro
 Ci siamo trasferiti a **Tawau** (circa un'ora e mezza di strada). Da lì il volo di rientro va su Kota Kinabalu o direttamente su Kuala Lumpur.
+
+Il trasferimento verso Tawau va calcolato con margine: la strada da Semporna attraversa paesi e piantagioni, e i voli da Tawau per Kota Kinabalu e Kuala Lumpur non sono molti al giorno. Chi ha un volo nel pomeriggio parte con calma; chi lo ha presto dorme a Semporna, con il transfer già prenotato. *Se il rientro in Europa passa da Kuala Lumpur, tra il volo interno e quello intercontinentale meglio lasciare qualche ora, soprattutto con biglietti separati.*
+
+**In pratica:** Semporna-aeroporto di Tawau circa un'ora e mezza · in aeroporto un'ora e mezza prima per i voli interni · rispettare l'intervallo di almeno 18-24 ore dall'ultima immersione · ringgit avanzati da spendere prima di lasciare la Malesia.
 
 ## Cosa vedere / cosa fare
 - **Prenotare Kinabalu e Sipadan con mesi di anticipo.** È l'unica cosa che decide davvero questo viaggio.

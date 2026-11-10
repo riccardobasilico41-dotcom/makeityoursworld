@@ -40,24 +40,32 @@ A cena siamo andati nei quartieri di **Karama o Bur Dubai**: cucina pakistana e 
 
 Se restano tempo e voglia, c'è il **Burj Khalifa** al tramonto, con il biglietto comprato online giorni prima, perché le fasce serali si esauriscono.
 
+**In pratica:** metropolitana dall'aeroporto con la linea rossa, che serve i terminal 1 e 3 ma non il 2, con la carta nol comprata e ricaricata ai distributori · abra sul creek a 1 dirham a tratta · al souq dell'oro il prezzo si basa sul peso del giorno, e si contratta sulla lavorazione · Burj Khalifa con biglietto online giorni prima per le fasce del tramonto · cena a Karama o Bur Dubai sotto i dieci euro.
+
 ### Giorno 2 — Dubai, il secondo giorno
 Con 48 ore si esce dal circuito.
 
-La mattina c'è **Alserkal Avenue**, il quartiere delle gallerie d'arte ricavato dai magazzini industriali, l'opposto dell'immagine che si ha di questa città. Oppure il **Museo del Futuro**, con la calligrafia araba incisa sulla facciata a forma di toro.
+La mattina c'è **Alserkal Avenue**, il quartiere delle gallerie d'arte ricavato dai magazzini industriali di **Al Quoz**, l'opposto dell'immagine che si ha di questa città. Oppure il **Museo del Futuro**, con la calligrafia araba incisa sulla facciata a forma di toro. Conviene muoversi presto, prima che il caldo salga anche in inverno. Alserkal si raggiunge in taxi, perché la metropolitana resta lontana; il Museo del Futuro sta invece sulla Sheikh Zayed Road, a pochi passi dalla fermata Emirates Towers della linea rossa. *Il biglietto del museo si compra online con data e fascia oraria, e in alta stagione le fasce possono esaurirsi con giorni di anticipo, come quelle del Burj Khalifa.* Le gallerie di Alserkal, invece, si girano liberamente in un paio d'ore, tra mostre, caffè e negozi di design.
 
-Il pomeriggio e la sera li abbiamo passati nel **deserto**: safari serale con dune bashing, cena in campo tendato e rientro. Va preso per quello che è (organizzato, su dune modeste a mezz'ora dalla città, con altri dieci fuoristrada sulla stessa duna), ma resta una serata piacevole. *Il deserto vero è un'altra cosa e sta a Liwa: vedi le estensioni.*
+Il pomeriggio e la sera li abbiamo passati nel **deserto**: safari serale con dune bashing, cena in campo tendato e rientro. Va preso per quello che è (organizzato, su dune modeste a mezz'ora dalla città, con altri dieci fuoristrada sulla stessa duna), ma resta una serata piacevole. I safari partono quasi tutti nel primo pomeriggio, con prelievo in hotel, e rientrano in città a sera inoltrata. Prima di pagare conviene chiedere che cosa è compreso (cena, bevande, spettacolo, giro in cammello) e scegliere un operatore con recensioni recenti. Chi soffre il mal d'auto può saltare il dune bashing o sedersi davanti. *Il deserto vero è un'altra cosa e sta a Liwa: vedi le estensioni.*
+
+**In pratica:** Museo del Futuro con biglietto online a data e ora, prezzo sulle qualche decina di euro · Alserkal a ingresso libero, ma non tutte le gallerie aprono ogni giorno: controllare gli orari sul sito · safari serale con prelievo in hotel, prezzo molto variabile secondo l'operatore, da prenotare un giorno o due prima · per dormire, Deira o Bur Dubai vicino alla metropolitana.
 
 ### Giorno 3 — Abu Dhabi, lo stopover Etihad
 Il blocco gratuito: una o due notti di hotel offerte da Etihad su un biglietto andata e ritorno con sosta dichiarata di almeno 24 ore.
 
-La tappa che da sola giustifica la sosta è la **Grande Moschea Sheikh Zayed**, dove siamo andati nel tardo pomeriggio: mille colonne bianche intarsiate di madreperla, il tappeto annodato a mano più grande del mondo e il marmo che con l'illuminazione notturna passa dal bianco al rosa e poi al blu. **Ingresso gratuito ma con prenotazione a fascia oraria**, e un codice di abbigliamento applicato sul serio: braccia e gambe coperte per tutti, capo coperto per le donne. Arrivare già vestiti nel modo giusto fa risparmiare la coda delle abaya in prestito.
+La tappa che da sola giustifica la sosta è la **Grande Moschea Sheikh Zayed**, dove siamo andati nel tardo pomeriggio: mille colonne bianche intarsiate di madreperla, il tappeto annodato a mano più grande del mondo e il marmo che con l'illuminazione notturna passa dal bianco al rosa e poi al blu. **Ingresso gratuito ma con prenotazione a fascia oraria**, e un codice di abbigliamento applicato sul serio: braccia e gambe coperte per tutti, capo coperto per le donne. Arrivare già vestiti nel modo giusto fa risparmiare la coda delle abaya in prestito. La moschea sta tra l'aeroporto e il centro: conviene lasciare i bagagli in hotel ed entrare un'ora prima del tramonto, per vedere il cortile con la luce del giorno e poi l'accensione delle luci.
 
-La sera c'è la **Corniche** o il mercato del pesce di **Al Mina**, dove si sceglie al banco e si fa cucinare accanto.
+La sera c'è la **Corniche** o il mercato del pesce di **Al Mina**, dove si sceglie al banco e si fa cucinare accanto. La Corniche è un lungomare di parecchi chilometri, con spiagge, prati e pista ciclabile, piacevole soprattutto dopo il calare del sole, quando le famiglie escono a passeggiare. Il mercato del pesce sta nella zona del porto, a pochi minuti di taxi dalla parte orientale del lungomare: si scelgono pesce e gamberi al banco e un cuoco li prepara alla griglia o in umido per pochi dirham (vedi «Dove abbiamo mangiato»). *Ad Abu Dhabi le distanze sono grandi e i mezzi pubblici poco pratici per chi ha una sola sera: il taxi a tassametro è la scelta più semplice.*
+
+**In pratica:** hotel dello stopover Etihad da prenotare qualche giorno prima del volo · Grande Moschea gratuita con fascia oraria da prenotare sul sito ufficiale; il venerdì le visite si spostano dopo la preghiera di mezzogiorno, orari da verificare · niente abiti aderenti o trasparenti, nemmeno se coprono · taxi tra aeroporto, moschea e Corniche, ciascun tratto intorno alla mezz'ora o meno.
 
 ### Giorno 4 — Abu Dhabi, il Louvre e il deserto
-Mattina o sera al **Louvre Abu Dhabi**, sull'isola di Saadiyat. L'edificio vale quanto la collezione: sotto la cupola di quasi ottomila stelle metalliche sovrapposte cade una luce che si muove tutto il giorno, e Nouvel la chiama pioggia di luce. La collezione è ordinata **per epoca e non per civiltà**, quindi nella stessa sala ci sono oggetti contemporanei fatti da culture che non si conoscevano.
+Mattina o sera al **Louvre Abu Dhabi**, sull'isola di Saadiyat. L'edificio vale quanto la collezione: sotto la cupola di quasi ottomila stelle metalliche sovrapposte cade una luce che si muove tutto il giorno, e Nouvel la chiama pioggia di luce. La collezione è ordinata **per epoca e non per civiltà**, quindi nella stessa sala ci sono oggetti contemporanei fatti da culture che non si conoscevano. Saadiyat è collegata al centro da un ponte e si raggiunge in taxi in una ventina di minuti dalla Corniche. Per la visita servono almeno due o tre ore; le ultime del pomeriggio sono le più belle sotto la cupola, quando la luce entra bassa e la piazza sull'acqua si rinfresca.
 
-Con un giorno in più si va a **Liwa**, a due ore, sul bordo del Rub' al-Khali, il più grande deserto di sabbia continuo del mondo, con dune oltre i duecento metri. È il deserto vero, l'opposto del safari serale. Oppure **Al Ain**, l'oasi patrimonio UNESCO con centoquarantasettemila palme irrigate da canali scavati duemila anni fa e ancora in funzione.
+Con un giorno in più si va a **Liwa**, a due ore, sul bordo del Rub' al-Khali, il più grande deserto di sabbia continuo del mondo, con dune oltre i duecento metri. È il deserto vero, l'opposto del safari serale. Oppure **Al Ain**, l'oasi patrimonio UNESCO con centoquarantasettemila palme irrigate da canali scavati duemila anni fa e ancora in funzione. Tutte e due chiedono una giornata intera con auto a noleggio o con autista. A Liwa conviene partire prestissimo, evitare le ore centrali sulle dune e restare fino al tramonto, meglio ancora con una notte in campo (vedi le estensioni). *Sulla sabbia un'auto a noleggio normale non va: per salire sulle dune servono un 4x4 e qualcuno che sappia guidarlo.*
+
+**In pratica:** Louvre Abu Dhabi con biglietto online, giorno di chiusura settimanale e orari serali da verificare sul sito ufficiale · taxi dalla Corniche a Saadiyat circa 20 minuti · Liwa circa 2 ore di auto, Al Ain circa un'ora e mezza-due · per il volo successivo, rientro in aeroporto con almeno tre ore di anticipo.
 
 ### Giorno 5 — Doha, lo stopover da quattordici dollari
 Il blocco con il miglior rapporto tra costo e resa di tutto il Golfo. **Si prenota sul portale Discover Qatar con il codice di prenotazione del volo**, non insieme al biglietto: è il passaggio che quasi nessuno conosce.
@@ -68,6 +76,8 @@ La sera al **Souq Waqif**, restaurato ma rimasto un mercato vero. La parte che s
 
 Abbiamo cenato nel souq, con il **karak chai** ai chioschi: il tè al latte speziato che qui si beve a tutte le ore e costa pochi centesimi.
 
+**In pratica:** stopover da prenotare su Discover Qatar con il codice di prenotazione del volo · metropolitana, linea rossa, dall'aeroporto Hamad al centro in circa 20 minuti · Museo di Arte Islamica con biglietto per i non residenti, giorno di chiusura e orari da verificare sul sito di Qatar Museums · ospedale dei falchi senza biglietto, ma con orari d'apertura limitati: chiedere sul posto · Souq Waqif vivo soprattutto la sera, karak chai a pochi centesimi.
+
 ### Giorno 6 — Doha, l'inland sea
 La giornata che quasi nessuno fa, ed è il motivo per allungare lo stopover di un giorno.
 
@@ -77,6 +87,8 @@ La giornata che quasi nessuno fa, ed è il motivo per allungare lo stopover di u
 
 *In alternativa, il nord: il forte di Al Zubarah patrimonio UNESCO, il villaggio di pescatori abbandonato di Al Jumail e le quattro lastre d'acciaio di Richard Serra alte quattordici metri piantate nel deserto di Brouq, senza parcheggio, senza biglietto e senza nessuno.*
 
+**In pratica:** Khor Al Adaid circa un'ora e mezza da Doha, solo in 4x4 con autista, da prenotare con un operatore; il prezzo è per auto, quindi conviene dividerla in più persone · partire nel primo pomeriggio per restare fino al tramonto · acqua, crema solare e uno strato caldo per la sera · per il nord, auto a noleggio e una giornata intera, con l'ultimo tratto verso le lastre di Serra su sterrato.
+
 ### Giorno 7 — Jeddah, lo stopover saudita
 Un blocco diverso da tutti gli altri: qui non si risparmia l'hotel, si risparmia **il visto**. Volando Saudia o flynas si richiede online il **visto stopover gratuito**, valido fino a 4 giorni, al posto del visto turistico da circa 130 euro.
 
@@ -85,6 +97,8 @@ Un blocco diverso da tutti gli altri: qui non si risparmia l'hotel, si risparmia
 La sera siamo andati sulla **Corniche**, che il giovedì è il momento sociale della città: famiglie con i tappeti stesi sul prato, barbecue accesi, bambini che giocano fino a mezzanotte. È lì che si capisce meglio che paese sia questo.
 
 *Con quattro giorni di visto stopover si arriva anche ad **AlUla**, con un volo interno: due giorni a Jeddah e due a Hegra sono il modo più economico al mondo di vedere una città nabatea senza nessuno davanti.*
+
+**In pratica:** visto stopover gratuito solo volando Saudia o flynas, da richiedere online dopo l'acquisto del biglietto, fino a 4 giorni · Al-Balad a piedi nell'ultima ora di luce, con scarpe comode e abiti coprenti · Corniche il giovedì sera, quando inizia il fine settimana saudita · niente alcol in tutto il Regno · per AlUla, volo interno da prenotare insieme alle date del visto.
 
 ## Cosa vedere / cosa fare
 - **Capire quale programma si ha in mano prima di prenotare.** Dubai Connect è una compensazione, gli altri sono scelte.

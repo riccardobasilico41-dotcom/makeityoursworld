@@ -32,6 +32,8 @@ We arrived in dribs and drabs during the day, each on our own flight (Uber from 
 
 The first dinner was at **Jardín de Lolita**, an informal garden where you eat from food trucks all seated together: the right place to get back together after our scattered arrivals. Alternatively there are **Colonia Arepas y Bar**, Venezuelan and Costa Rican food, or the **Costa Rica Beer Factory**, with local craft beer. Afterwards, the "boozy" ice creams of **Booze and Scoops** and a dancing night at **La Concha**, with different music every night, in the La California neighborhood, safe and lively at night too, unlike the center.
 
+**In practice:** Juan Santamaría airport to the center by Uber in half an hour to an hour depending on traffic · you pay in colones or dollars, cards are accepted almost everywhere · National Museum usually closed on Mondays, check opening times · in the evening downtown it's better to get around by taxi or Uber
+
 ### Day 2 — Puerto Viejo, between the Caribbean and the jungle
 We left in the morning for a four to four-and-a-half-hour transfer to **Puerto Viejo**, on the Caribbean coast, with sandwiches picked up along the way at Panaderia Francesa.
 
@@ -40,6 +42,8 @@ On arrival you rent bikes from **Rasta Lion** (+506 8970 8522, about $6, to be r
 You have dinner at **Madre Tierra** and, if there's live music, end up at **Hot Rocks**. At night Puerto Viejo calls for a bit more attention: better to go out with company, especially girls on their own.
 
 *Anyone who wants the most extreme rafting of the trip can arrange, at least a week ahead, the **Pacuaré** ($112, full day) on the way to Puerto Viejo. It's among the five best rivers in the world for rafting, but four hours in the water can feel long to first-timers, especially in the dry season, when the water is low. We did our rafting later, on the Sarapiquí, steadier and suitable even for the less experienced.*
+
+**In practice:** San José to Puerto Viejo about 4 to 4.5 hours by transfer or bus · rental bikes to return by late afternoon · at Punta Uva and Cocles currents change: swim where others are swimming
 
 ### Day 3 — Cahuita National Park
 It's an optional day, to be arranged at least a week ahead, but it's the one I recommend most: the **full Cahuita tour** with the local guide **José** (+506 7221 4153, also on WhatsApp), $50 per person in cash.
@@ -52,12 +56,16 @@ In the Cahuita area I also recommend the **Jaguar Rescue Center**, in Puerto Vie
 
 For dinner you choose among the **Beach Break Bar and Restaurant** at Playa Cocles, the tacos of **Tasty Waves**, the pizza of **Amimodo** and the **Koki Beach Restaurant**, more elegant and more expensive, where in the evening you often see a sloth crossing the roof. Afterwards, at **Selina**, the hotel-hostel where the town's nightlife is concentrated, there's karaoke.
 
+**In practice:** the Playa Blanca sector, at the entrance to Cahuita village, is by donation; the Puerto Vargas sector has a fixed fee · local guide to book at least a week ahead, payment in cash · Jaguar Rescue Center by guided tour only, to book online
+
 ### Day 4 — To Tortuguero, between river and jungle
 A quick breakfast and off: an hour and a half by van to the port of **Moin**, then three hours by boat to **Tortuguero**, along canals immersed in the jungle. The ride is already a spectacle, with crocodiles, caimans, birds and monkeys on the banks. Tortuguero is gorgeous, it looks a lot like the Amazon and it's fantastic for nature. We had lunch on board with a typical casado.
 
 Tortuguero is a village with no roads for cars and you get around it all on foot, among little souvenir shops. The afternoon offers two options. The **Cerro Tortuguero**, on your own ($6 for the boat plus $3 entrance), is a short climb through the jungle to a hill with a view over the whole area. At the right time (usually between July and October, but best to ask locally) there's **turtle nesting**: an evening excursion guided by **Juan** (+506 8500 1369, about $40 per person) to see egg-laying live.
 
 Dinner is included at the hotel; in town there are also **Taylor's Place** and **Mi Niño**.
+
+**In practice:** Moin to Tortuguero only by boat, the village has no roads · national park entry around 15 dollars, to buy online on the SINAC portal · for the turtles you need a certified guide, dark clothes and no flash
 
 ### Day 5 — Tortuguero: kayaking among the mangroves, then Sarapiquí
 The alarm rang before dawn for the **kayak along the canals**, included: two hours in a single or double, at the best time to see animals. We got back in time for breakfast.
@@ -66,10 +74,14 @@ In late morning we boarded for **Sarapiquí**: an hour and a half by boat and tw
 
 At the **Epic Adventure Lodge**, in the middle of the forest, there's time for the pool or for walking along the river. In the evening came the **cooking class**, included: you learn a traditional dish, usually empanadas, which then becomes dinner (vegetarians and vegans should tell the lodge beforehand). If you prefer, on the first evening at the lodge you can also have a barbecue.
 
+**In practice:** kayak at dawn, you see more animals in the early hours · from Tortuguero you leave by boat and then by van, about 4 hours in all · in Tortuguero free drinking water in front of the dock
+
 ### Day 6 — Rafting on the Sarapiquí River
 In the morning we left the lodge for the **rafting on the Sarapiquí**, included and already paid for, with stops for water and fruit, until noon. Compared with the Pacuaré it's a steadier river all year, suitable even for those who have never rafted.
 
 In the afternoon, if the weather holds, you can go to the **Cataratas Bajas del Toro**, about an hour's drive away: Bajos del Toro is considered the waterfall capital of Costa Rica, with the "gemelas" and the Catarata del Toro. The packed lunch must be ordered the day before (about $12 per person, at the end of the rafting), and you have to arrive by early afternoon, because the area closes in the late afternoon. Dinner included at the lodge.
+
+**In practice:** rafting on the Sarapiquí suitable for beginners too, closed shoes that can get wet · Bajos del Toro about an hour's drive, paid entry, closes in the late afternoon · packed lunch to order the day before
 
 ### Day 7 — Arenal: waterfalls, volcano and hot springs
 An hour and twenty minutes of road to **La Fortuna**, at the foot of the Arenal volcano, with the minivan at our disposal all day. La Fortuna is nice, but a bit overtouristy. The activities are expensive, but really, really good.
@@ -82,12 +94,16 @@ You have dinner at **Nanku Restaurant** with live music, at **Soda Víquez**, mo
 
 *We did the **canyoning in the Lost Canyon** ($115-119), and it's the activity I recommend most in La Fortuna. It's on the morning of Day 8, with lunch included, or the early afternoon of Day 7. It has its own transport, so anyone not taking part still keeps the minibus.*
 
+**In practice:** Sarapiquí to La Fortuna about 1 hour 20 · La Fortuna waterfall about 18-20 dollars, steep stairway down · El Choyin free, river shoes and headlamp · La Fortuna activities are pricey: compare combo prices
+
 ### Day 8 — Monteverde, in the cloud forest
 A quick breakfast and an early departure. The first stop is the **hanging bridges** near La Fortuna, a bit below expectations according to some of us. Then three to three and a half hours of road to **Monteverde**, with lunch at one of the sodas along the way.
 
 In the early afternoon you visit a **coffee plantation**, two hours with a final tasting: it's best to book the early-afternoon slot in advance. Alternatively there are tours that add chocolate and sugar cane, or an excursion to the Tigre Waterfalls with lunch included.
 
 You have dinner at **Tree House**, with a supermarket next door for drinks, or at **Tico y Rico**, **The Green Restaurant** or **Sabor Tico**. In the evening there's the **night walk** in the cloud forest, an hour and a half to see the night's wildlife: the Kinkajou Night Walk Tour ($28) is considered the best. *It wasn't liked equally by everyone, especially for its length: if possible, better to ask the guide to keep it between an hour and a quarter and an hour and a half.*
+
+**In practice:** La Fortuna to Monteverde about 3 to 3.5 hours, on slow, winding mountain roads · coffee plantation to book in the early-afternoon slot · night walk about 28 dollars, you need a flashlight and closed shoes
 
 ### Day 9 — Zipline in Monteverde, then toward the Pacific and Uvita
 Anyone who wants to start early can do **birdwatching at dawn** with Jason (+506 8636 0491, about $50 per person).
@@ -96,13 +112,19 @@ Then the **ziplines**: those in Monteverde are among the best in the country, lo
 
 After lunch, for example at **Tico y Rico**, up to four hours of road awaited us toward **Uvita**, on the Pacific. The stop at the **Tárcoles bridge** is a must: below, in the river, big crocodiles gather. If time allows, a sunset on a beach before the hotel. Dinner at the **Gastro Park** in Uvita (let them know beforehand, there's often a 10% discount).
 
+**In practice:** ziplines around 60 dollars, two shifts a day · Monteverde to Uvita up to 4 hours, stop at the Tárcoles bridge along the Costanera · in Uvita it's best to arrive before dark, side roads are poorly lit
+
 ### Day 10 — Uvita: whale watching
 It's **whale watching** day. In Uvita the best seasons are January-March and July-October; November-December and May-June can bring fewer encounters. The outing lasts three and a half hours, four, and costs $70 with water and fruit included. For the whale tour I recommend **Uvita Ballena Jorobada** (+506 8820 6443, also on WhatsApp). *Better to avoid improvised operators, who often lack adequate insurance: always ask before booking.*
 
 The afternoon is free at the beach. The coast of Uvita, with the whale-tail-shaped sandbar, the **Cola de la Ballena**, which you see mostly at low tide, is one of the most beautiful landscapes of the trip. Dinner at the hotel.
 
+**In practice:** whale watching about 70 dollars, morning trips when the sea is calmer · best seasons January-March and July-October · the Whale's Tail is in Marino Ballena National Park, with paid entry, and is best seen at low tide
+
 ### Day 11 — Uvita: free day for surfing, horses and yoga
 The last full day in Uvita goes at everyone's own pace. At **Rancho La Merced** (+506 8861 5147) we did the sunset **horseback ride** on the beach, two hours, about $52. I fell off, because I'm not an experienced rider, but it's beautiful. The animals are treated well, which matters hugely to me, and they're gentle. Highly recommended. Costa Rica is also great for **surfing**: in Uvita I went with **Ariel** (+506 6184 0390). At Nomadic Surf you rent boards for the whole day, about $70 for four. At sunset there's an hour of **yoga** on a deck with a very beautiful view, about $10, ten people at most. Or just beach, perhaps walking to the tip of the Cola de la Ballena. Dinner is on your own.
+
+**In practice:** two-hour horse ride about 52 dollars, to book · surfboard rental about 70 dollars a day for four · sunset yoga about 10 dollars, ten people at most
 
 ### Day 12 — Manuel Antonio National Park and return to San José
 We left before dawn, with a quick breakfast, for an hour and a half of road to **Manuel Antonio National Park**, one of the best stops in Costa Rica.
@@ -111,8 +133,14 @@ The guided visit, included, lasts one to two hours, depending on pace and encoun
 
 What remained was the last long transfer, three and a half or four hours, to **San José**, with a stop for souvenirs. The farewell dinner was at the **Costa Rica Beer Factory**, where we'd stopped the first night, for a last toast all together with craft beer.
 
+**In practice:** Manuel Antonio about 18 dollars, only with an online ticket on the SINAC portal, closed on Tuesdays · no food in plastic bags and no alcohol, backpacks are checked · Manuel Antonio to San José about 3.5 to 4 hours
+
 ### Day 13 — Check-out and return
 Goodbyes and departures, each with their own flight time.
+
+Plan the flight around San José traffic: from the center to **Juan Santamaría** airport takes half an hour to an hour, and longer at rush hour. If you leave in the evening the morning is free for last purchases: the **Mercado Central** for coffee beans, Lizano sauce and crafts, or a typical breakfast of **gallo pinto**, rice and beans, in the downtown sodas. *Costa Rican coffee costs less at the market and in supermarkets than in the airport shops.* The exit tax is usually already included in the airfare these days, but it's worth checking with the airline.
+
+**In practice:** center to airport by Uber or taxi 30 minutes to an hour · get to the airport three hours early for international flights · spend your last colones before security, abroad they're hard to change
 
 ## What to see / what to do
 - **The boat ride to Tortuguero**, among jungle canals, crocodiles and birds: one of the best transfers of the trip, more than a simple stop along the way.

@@ -158,6 +158,8 @@ Certified divers do two dives: **Elphinstone** for oceanic whitetip sharks (Octo
 ### Day 10 — Wadi el Gemal or a free day
 The last full day is chosen based on the energy left. The **Wadi el Gemal** park, south of Marsa Alam, combines desert, mangroves and the bay of Sharm el Luli, with white sand and some of the clearest water on the coast. Alternatively a desert excursion at sunset, with a Bedouin dinner under the stars, or simply a day on the beach.
 
+For Wadi el Gemal you leave early: **Sharm el Luli** is some sixty kilometres south of Marsa Alam, about an hour's drive, and in the first hours the beach is still almost empty and the water calm. Many excursions add a stop at the **Qulan mangroves**, near Hamata, with shallow channels and white sand, and a stretch of track in the wadi where gazelles are sometimes seen. *The park is a protected area: you enter the water from the sand, without walking on the coral, and you take nothing away.* Those who prefer to stay at the hotel keep the evening for a last snorkel from the shore, in the low sunset light.
+
 **In practice**
 - Excursion to Wadi el Gemal and Sharm el Luli: roughly $35-60
 - Bedouin dinner in the desert: roughly $30-50
@@ -165,6 +167,8 @@ The last full day is chosen based on the energy left. The **Wadi el Gemal** park
 
 ### Day 11 — Return
 Transfer to **Marsa Alam** airport (or Hurghada) and direct flight to Italy. At the outgoing security check, shells, corals and sand are confiscated: it's forbidden to take them away, even in small quantities.
+
+**Marsa Alam airport** is about 60 km north of the town, near Port Ghalib: from the southernmost hotels allow an hour or more of transfer, to be arranged with the hotel the evening before. Those flying from Hurghada should allow about three and a half hours of driving along the coast. Direct flight times to Italy change with the season and the airline, and rooms usually have to be vacated by noon. *With an evening flight it's worth asking for a late check-out or a day room for a shower after the last swim.*
 
 **In practice**
 - Get to the airport 3 hours early: checks are double, at the entrance and at the gate

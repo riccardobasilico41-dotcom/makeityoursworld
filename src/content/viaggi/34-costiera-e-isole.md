@@ -38,6 +38,8 @@ Per dormire vale la raccomandazione già fatta: **Praiano o Minori** se si vuole
 
 La prima sera, con calma. **Positano** al tramonto, se si è lì: è verticale, si scende a piedi tra le scale e le bouganville fino alla spiaggia Grande e **si risale con le gambe**. Non c'è alternativa, se non un bus che fa un giro largo. La chiesa di Santa Maria Assunta ha la cupola a maioliche gialle e verdi che è l'immagine del paese.
 
+**In pratica:** da Napoli via mare dal Molo Beverello in stagione, oppure Circumvesuviana fino a Sorrento e poi bus SITA o traghetto · niente auto · a Positano si scende e si risale a piedi, bagagli leggeri · per la cena del primo giorno conviene prenotare in alta stagione.
+
 ### Giorno 2 — Il Sentiero degli Dei
 È la giornata migliore dell'itinerario, e va fatta presto.
 
@@ -51,6 +53,8 @@ Lungo il percorso si vedono i **terrazzamenti a limoni e a vite su pendenze impo
 
 Il pomeriggio, spiaggia o traghetto, e riposo.
 
+**In pratica:** bus SITA per Agerola-Bomerano la mattina presto · circa tre ore da Bomerano a Nocelle, in discesa · sentiero gratuito, scarpe da trekking e acqua, nessuna fontana garantita lungo il tracciato · da Nocelle bus per Positano o circa 1.700 gradini.
+
 ### Giorno 3 — Amalfi, Atrani e Ravello
 Siamo andati in traghetto ad **Amalfi**, che è stata una **Repubblica Marinara** quando Venezia era ancora una scommessa e che oggi è un paese piccolo con un passato sproporzionato.
 
@@ -62,6 +66,8 @@ Nel pomeriggio siamo saliti a **Ravello**, a circa quattrocento metri sopra la c
 
 La sera a Ravello, se si riesce a restare, è un'altra cosa: dopo che gli ultimi bus sono scesi, il paese cambia.
 
+**In pratica:** traghetto per Amalfi, pochi euro a tratta · Duomo e Chiostro del Paradiso con biglietto · Atrani a dieci minuti a piedi · bus SITA per Ravello, che d'estate si riempie: meglio salire al capolinea · Villa Rufolo e Villa Cimbrone con biglietti separati.
+
 ### Giorno 4 — La costa orientale e la Valle delle Ferriere
 È la giornata delle cose che quasi nessuno fa.
 
@@ -71,12 +77,16 @@ La sera a Ravello, se si riesce a restare, è un'altra cosa: dopo che gli ultimi
 
 Chi ha ancora energia può aggiungere il **Fiordo di Furore**, un'incisione strettissima nella roccia con un ponte sopra e una spiaggia minuscola in fondo, e la **Grotta dello Smeraldo** a Conca dei Marini, raggiungibile in barca o con un ascensore dalla strada, **con un accesso che dipende dallo stato del mare**.
 
+**In pratica:** Valle delle Ferriere con accessi regolamentati da controllare prima · scarpe che tengono sul bagnato · Villa Romana di Minori gratuita · Sentiero dei Limoni breve e senza difficoltà · Grotta dello Smeraldo solo con il mare calmo.
+
 ### Giorno 5 — Trasferimento a Capri
 La mattina abbiamo preso il traghetto per **Capri**. Si sbarca a **Marina Grande** e si sale al centro con la **funicolare**, o a piedi per chi vuole cominciare bene.
 
 Il pomeriggio l'abbiamo dedicato alla parte alta: la **Piazzetta**, minuscola, che vive di essere osservata, e poi i **Giardini di Augusto** con l'affaccio sui **Faraglioni** e su **Via Krupp**, la strada a tornanti scavata nella roccia che scende a Marina Piccola. **Via Krupp è stata chiusa a tratti per rischio di caduta massi: conviene controllare prima se è aperta.**
 
 Verso sera, quando le escursioni giornaliere sono ripartite, **Capri cambia**. La sera l'isola si svuota di due terzi e diventa all'improvviso silenziosa, ed è per questo che vale la pena dormirci invece di farla in giornata.
+
+**In pratica:** traghetto o aliscafo per Capri da Amalfi, Positano, Sorrento o Napoli · funicolare da Marina Grande alla Piazzetta, biglietti alla stazione · Giardini di Augusto con biglietto · stato di Via Krupp da verificare · dormire sull'isola costa caro, prenotare presto.
 
 ### Giorno 6 — Capri, dall'alto e dal mare
 La mattina siamo saliti ad **Anacapri**, il paese alto, l'altra faccia dell'isola: meno vetrine, più vita. Da lì abbiamo preso la **seggiovia per il Monte Solaro**, una seggiovia monoposto, aperta, che sale lentamente sopra i muretti e i giardini: è l'esperienza più bella dell'isola, a un prezzo ridicolo. In cima, a **589 metri**, c'è tutta Capri sotto e il golfo intero intorno.
@@ -89,6 +99,8 @@ Il pomeriggio l'abbiamo passato **in barca**: il **giro dell'isola** è il modo 
 
 Per chi preferisce camminare c'è il **Sentiero dei Fortini** lungo la costa occidentale, o la salita a **Villa Jovis**, la villa di **Tiberio** sulla punta orientale: è la più grande delle dodici ville imperiali dell'isola e da lì si domina tutto il golfo.
 
+**In pratica:** bus per Anacapri da Capri o Marina Grande · seggiovia del Monte Solaro, ferma con vento forte · Villa San Michele con biglietto · giro dell'isola in barca da prenotare a Marina Grande · Grotta Azzurra solo con mare calmo e senza coda, ingresso pagato a parte in barca.
+
 ### Giorno 7 — Ischia: il Castello e le terme
 Abbiamo preso il traghetto per **Ischia**, **l'isola più grande del golfo** e la meno somigliante alla sua fama: non è una Capri popolare, è tutt'altro. È vulcanica, verde, abitata da sessantamila persone, e ha **una tradizione termale documentata dall'antichità**.
 
@@ -96,12 +108,16 @@ La prima tappa è stata il **Castello Aragonese** a **Ischia Ponte**, su un isol
 
 Il pomeriggio l'abbiamo passato in un **parco termale** sul versante occidentale. Sono grandi giardini digradanti sul mare, con piscine a temperature diverse, dai quaranta gradi in su, saune naturali scavate nella roccia e accesso diretto al mare. Si entra a giornata e ci si passa il pomeriggio intero senza fare altro, che è proprio lo scopo.
 
+**In pratica:** traghetto da Capri, Napoli o Pozzuoli · Castello Aragonese con biglietto, ascensore o rampa · parchi termali con ingresso a giornata, da controllare stagione di apertura e prezzi · costume, ciabatte e asciugamano per le terme.
+
 ### Giorno 8 — Ischia: l'Epomeo, Sorgeto e La Mortella
 La mattina siamo saliti sul **Monte Epomeo**, il rilievo vulcanico al centro dell'isola, **789 metri**. Il percorso classico parte da **Fontana**: è una salita di circa un'ora e mezza, con l'ultimo tratto in un **corridoio scavato nel tufo verde** che finisce su una cima con l'eremo scavato nella roccia. Da lassù si vede **tutta Ischia insieme**, cosa che dall'isola non succede mai, e nelle giornate limpide si arriva a Capri e al Vesuvio.
 
 In alternativa o in aggiunta ci sono i **Giardini La Mortella** a Forio: un giardino botanico subtropicale creato a partire dagli anni Cinquanta in una cava di pietra, con serre, felci arboree, ninfee giganti e due teatri all'aperto. Nasce dal progetto di una vita, ed è uno dei giardini più belli d'Italia.
 
 Nel tardo pomeriggio siamo andati a **Sorgeto**. Si scende a una baia di sassi vicino a **Panza** per **oltre duecento scalini** (che poi vanno rifatti in salita, e non è uno scherzo) e si arriva in una caletta dove **sorgenti bollenti escono direttamente sotto i sassi e si mescolano al mare**. Si cercano le pozze naturali con la temperatura giusta, spostandosi di un metro tra l'acqua a quaranta gradi e quella fredda. **È gratis, è aperto sempre, e il momento migliore è il tramonto o la notte d'inverno.** Servono **scarpe di gomma**, perché vicino alle bocche i sassi scottano sul serio, e prudenza, perché in alcuni punti l'acqua è ustionante.
+
+**In pratica:** Epomeo da Fontana, circa un'ora e mezza di salita · Giardini La Mortella aperti solo in alcuni mesi e giorni, da controllare · Sorgeto gratuito, oltre duecento scalini, scarpe di gomma · bus dell'isola o taxi per spostarsi tra Forio e Panza.
 
 ### Giorno 9 — Procida e rientro
 L'ultimo traghetto è stato per **Procida**, la più piccola: **quattro chilometri quadrati**, la meno turistica delle tre e **Capitale italiana della cultura nel 2022**, cosa che le ha portato attenzione senza cambiarla troppo.
@@ -113,6 +129,8 @@ Sopra c'è **Terra Murata**, il punto più alto, con l'**Abbazia di San Michele 
 Procida si gira tutta in una giornata, ed è la nota giusta su cui chiudere: dopo Capri, ricorda che in questo golfo c'è ancora un posto dove la gente pesca per lavoro.
 
 Nel pomeriggio siamo rientrati a Napoli.
+
+**In pratica:** traghetto da Ischia per Procida, pochi minuti · Corricella e Terra Murata a piedi o in microtaxi · Vivara ad accesso contingentato, regole da controllare prima · rientro a Napoli dal porto di Procida, verificare se arriva al Beverello o a Calata Porta di Massa.
 
 ## Come comprimere l'itinerario
 - **In 5 giorni:** solo Costiera (Giorni 1-4) più una giornata a Capri, dormendoci.

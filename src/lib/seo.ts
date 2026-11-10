@@ -34,6 +34,30 @@ export function primoTitoloCheSta(varianti: (string | false | undefined | null)[
   return valide.find((v) => v.length <= MAX_TITOLO) ?? valide[valide.length - 1]
 }
 
+/**
+ * Titolo di un viaggio per Google: se il titolo intero supera i 60 caratteri si tiene la parte
+ * prima dei due punti e si aggiungono le tappe che ci stanno («Okinawa d'estate in due settimane:
+ * Naha, Churaumi»). Il titolo sulla pagina resta quello intero.
+ */
+export function titoloSeoViaggio(titolo: string): string {
+  if (titolo.length <= MAX_TITOLO) return titolo
+  const i = titolo.indexOf(':')
+  if (i <= 0) {
+    const tagliato = titolo.slice(0, MAX_TITOLO).replace(/[\s,;(]+\S*$/, '')
+    return tagliato.replace(/[\s,;:(]+$/, '')
+  }
+  const testa = titolo.slice(0, i)
+  if (testa.length > MAX_TITOLO) return testa.slice(0, MAX_TITOLO).replace(/\s+\S*$/, '')
+  const voci = titolo.slice(i + 1).split(/,| e | and | y /).map((v) => v.trim()).filter(Boolean)
+  let fuori = testa
+  for (const v of voci) {
+    const prova = fuori === testa ? `${testa}: ${v}` : `${fuori}, ${v}`
+    if (prova.length > MAX_TITOLO) break
+    fuori = prova
+  }
+  return fuori
+}
+
 export function pageMetadata({
   title,
   description,

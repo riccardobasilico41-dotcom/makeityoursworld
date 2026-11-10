@@ -130,52 +130,72 @@ Un esempio di dieci giorni pensato per una prima volta: quattro notti su un'isol
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Malé e speedboat per Dhigurah
-I voli dall'Italia arrivano a Velana con uno scalo, spesso al mattino. Dopo i controlli ho cercato al banco degli arrivi l'operatore dello speedboat prenotato dalla guesthouse. Per **Dhigurah**, nell'atollo di Ari Sud, ci vogliono da un'ora e mezza a due ore di mare aperto. Siamo arrivati per pranzo, con il tempo di sistemarci, fare una prima nuotata sulla **bikini beach** (una lunga lingua di sabbia bianca sulla punta dell'isola) e guardare il tramonto sul lato ovest.
+I voli dall'Italia arrivano a Velana con uno scalo, spesso al mattino. Dopo i controlli ho cercato al banco degli arrivi l'operatore dello speedboat prenotato dalla guesthouse. Per **Dhigurah**, nell'atollo di Ari Sud, ci vogliono da un'ora e mezza a due ore di mare aperto. *Con il mare mosso la traversata si sente: chi soffre conviene che si sieda verso poppa e prenda qualcosa prima di partire.* Conviene anche cambiare un po' di contanti o avere dollari in piccolo taglio, utili sulle isole locali per mance ed escursioni.
+
+Siamo arrivati per pranzo, con il tempo di sistemarci, fare una prima nuotata sulla **bikini beach** (una lunga lingua di sabbia bianca sulla punta dell'isola) e guardare il tramonto sul lato ovest. Il primo pomeriggio è il momento giusto per accordarsi con la guesthouse sulle escursioni dei giorni seguenti, a partire dallo squalo balena, che dipende dal meteo e va fissato per la prima giornata utile. Dhigurah è lunga e stretta, si percorre a piedi o in bici: niente auto, ritmi da villaggio.
 
 **In pratica:** speedboat condiviso Malé-Dhigurah indicativamente 50-70 $ a persona a tratta, in genere due partenze dall'aeroporto (verso le 10:45-11 e le 16) e orari diversi il venerdì · chi atterra di sera dorme a Hulhumalé e parte il mattino dopo · IMUGA compilata nelle 96 ore prima del volo.
 
 ### Giorno 2 — Dhigurah: lo squalo balena sulla barriera di Ari Sud
-Lo squalo balena è il motivo per cui si viene ad Ari Sud. Siamo usciti in barca in mattinata lungo la barriera esterna tra Dhigurah e Maamigili, un'area marina protetta dove gli squali balena giovani si avvicinano alla superficie a cercare il plancton. Le guide li cercano dalla barca e il gruppo entra in acqua solo quando uno è vicino: si nuota a qualche metro di distanza e lo si segue finché lo permette. *L'avvistamento è probabile ma non garantito: molti operatori offrono una seconda uscita scontata o gratuita se il primo giorno va a vuoto.* Il pomeriggio ce lo siamo tenuti libero, tra la spiaggia e la barriera davanti all'isola.
+Lo squalo balena è il motivo per cui si viene ad Ari Sud. Siamo usciti in barca in mattinata lungo la barriera esterna tra Dhigurah e Maamigili, un'area marina protetta dove gli squali balena giovani si avvicinano alla superficie a cercare il plancton. Le guide li cercano dalla barca e il gruppo entra in acqua solo quando uno è vicino: si nuota a qualche metro di distanza e lo si segue finché lo permette. *L'avvistamento è probabile ma non garantito: molti operatori offrono una seconda uscita scontata o gratuita se il primo giorno va a vuoto.*
+
+Quando lo squalo è vicino le barche possono essere parecchie, e il momento migliore è proprio la mattina, con la luce alta e il mare più calmo. In acqua si entra in silenzio, senza tuffi, e si resta di lato all'animale, mai davanti alla bocca o sopra la coda. Le uscite spesso includono anche una sosta di snorkeling sulla barriera, dove capita di incontrare tartarughe. Il pomeriggio ce lo siamo tenuti libero, tra la spiaggia e la barriera davanti all'isola.
 
 **In pratica:** escursione indicativamente 60-120 $ a persona · distanza minima 3 metri, niente flash e niente tocco · lycra e crema minerale, perché si resta molto in superficie.
 
 ### Giorno 3 — Snorkeling con le mante e una sandbank
-Nella stagione secca le mante frequentano le stazioni di pulizia dell'atollo, dove piccoli pesci puliscono la pelle e le branchie. La barca ci ha portati in uno di questi punti, come quelli intorno a Rangali, per osservare dall'alto le mante che girano lente. La seconda parte della giornata l'abbiamo passata su una **sandbank**, un banco di sabbia emerso in mezzo alla laguna, con pranzo al sacco e snorkeling sulla barriera vicina.
+Nella stagione secca le mante frequentano le stazioni di pulizia dell'atollo, dove piccoli pesci puliscono la pelle e le branchie. La barca ci ha portati in uno di questi punti, come quelli intorno a Rangali, per osservare dall'alto le mante che girano lente. Le mante si guardano restando in superficie, senza scendere sopra la stazione e senza inseguirle: se ci si muove piano tornano a passare più volte. *La visibilità cambia molto con le correnti, ed è il motivo per cui le guide decidono il punto la mattina stessa.*
+
+La seconda parte della giornata l'abbiamo passata su una **sandbank**, un banco di sabbia emerso in mezzo alla laguna, con pranzo al sacco e snorkeling sulla barriera vicina. Sulla sandbank non c'è ombra: ombrellone o telo, acqua in abbondanza e crema ripetuta sono indispensabili. Al rientro, nel tardo pomeriggio, conviene un ultimo bagno sulla bikini beach, quando la luce è più morbida e la spiaggia si svuota.
 
 **In pratica:** escursione combinata mante e sandbank circa 70-130 $ a persona · da maggio a novembre le mante si spostano sul lato orientale degli atolli e l'escursione cambia sito · chi si immerge prenota con il centro diving dell'isola.
 
 ### Giorno 4 — La vita del villaggio e la pesca al tramonto
-Giornata più lenta. Al mattino abbiamo girato a piedi l'isola, che si attraversa in mezz'ora: le strade di sabbia, le case basse con i giardini, la moschea, il porto dove si scarica il tonno, il caffè dove i pescatori prendono il tè con gli short eats. Si fa snorkeling sulla barriera vicino alla spiaggia o si prende un kayak. Al tramonto siamo usciti su un **dhoni**, la barca tradizionale, per la pesca a lenza come la fanno i maldiviani; il pescato ce l'hanno cucinato la sera in guesthouse.
+Giornata più lenta. Al mattino abbiamo girato a piedi l'isola, che si attraversa in mezz'ora: le strade di sabbia, le case basse con i giardini, la moschea, il porto dove si scarica il tonno, il caffè dove i pescatori prendono il tè con gli short eats. Gli short eats sono gli snack maldiviani, fritti e ripieni di tonno e cocco, da prendere a metà mattina con un tè dolce. Si fa snorkeling sulla barriera vicino alla spiaggia o si prende un kayak.
+
+Al tramonto siamo usciti su un **dhoni**, la barca tradizionale, per la pesca a lenza come la fanno i maldiviani; il pescato ce l'hanno cucinato la sera in guesthouse. La pesca si fa con il filo avvolto attorno a un rocchetto, senza canna, e le guide mostrano come sentire l'abboccata. *Nelle ore centrali il sole è fortissimo: conviene tenere le passeggiate per il mattino e il tardo pomeriggio, e passare il resto all'ombra.*
 
 **In pratica:** pesca al tramonto circa 30-50 $ a persona · *se il giorno cade di venerdì, negozi e caffè chiudono intorno a mezzogiorno per la preghiera e le uscite in barca possono essere ridotte* · abbigliamento coperto fuori dalla bikini beach.
 
 ### Giorno 5 — Ultima mattina ad Ari e un'immersione
-Chi è brevettato fa un'immersione su un thila dell'atollo, con squali pinna bianca, tartarughe e banchi di fucilieri; chi non si immerge fa un ultimo giro di snorkeling o una prova con il centro diving. Il pomeriggio abbiamo preparato il bagaglio e siamo rimasti in spiaggia: il giorno dopo si cambiava isola.
+Chi è brevettato fa un'immersione su un thila dell'atollo, con squali pinna bianca, tartarughe e banchi di fucilieri; chi non si immerge fa un ultimo giro di snorkeling o una prova con il centro diving. I thila sono pinnacoli di corallo che salgono dal fondo fin quasi alla superficie, battuti dalle correnti: per questo si scende in genere al mattino, con la guida che controlla prima la direzione della corrente. *Per chi non si immerge da tempo conviene chiedere un'immersione di ripasso prima dei siti con corrente forte.*
+
+Il pomeriggio abbiamo preparato il bagaglio e siamo rimasti in spiaggia: il giorno dopo si cambiava isola. È anche il momento per saldare il conto della guesthouse, che spesso si paga in contanti o con carta e una piccola commissione, e per confermare l'orario del transfer verso il resort. Se il trasferimento richiede l'idrovolante, l'ultima immersione va fatta oggi al mattino presto, per rispettare l'intervallo prima del volo.
 
 **In pratica:** immersione singola 50-80 $ dai centri delle isole locali · prova subacquea per principianti 100-150 $ · lasciare 24 ore tra l'ultima immersione e un volo in idrovolante.
 
 ### Giorno 6 — Dall'isola locale al resort
-Il sesto giorno ci siamo spostati al **resort**. Molti resort di Ari Sud mandano lo speedboat a prendere gli ospiti sulle isole vicine; per quelli lontani si torna a Malé e si prende l'idrovolante, che vola solo di giorno. All'arrivo al resort cambiano le regole: alcol, bikini ovunque, cene sulla spiaggia. Nel pomeriggio, chiesti i punti di entrata e uscita sicuri, abbiamo esplorato la **house reef**.
+Il sesto giorno ci siamo spostati al **resort**. Molti resort di Ari Sud mandano lo speedboat a prendere gli ospiti sulle isole vicine; per quelli lontani si torna a Malé e si prende l'idrovolante, che vola solo di giorno. Chi arriva in idrovolante deve calcolare un'attesa al terminal di Velana, perché i voli partono a gruppi e l'orario si conferma spesso solo il giorno prima. *I bagagli rigidi e pesanti sono il problema più comune: meglio borse morbide.*
+
+All'arrivo al resort cambiano le regole: alcol, bikini ovunque, cene sulla spiaggia. Nel pomeriggio, chiesti i punti di entrata e uscita sicuri, abbiamo esplorato la **house reef**. Il primo giro sulla house reef conviene farlo con calma, controllando le correnti e i canali di uscita indicati dal centro diving. La sera è il momento per prenotare le escursioni del giorno dopo e chiedere gli orari di bassa marea, che cambiano molto le condizioni della barriera.
 
 **In pratica:** transfer in speedboat dal resort da concordare · idrovolante 500-1.200 $ a persona andata e ritorno se non incluso · controllare limiti di bagaglio dell'idrovolante.
 
 ### Giorno 7 — Resort: la house reef e un'escursione
-Giornata in acqua. Ho girato la house reef al mattino presto, quando la luce è bassa e i pesci sono più attivi, e nel tardo pomeriggio, quando le tartarughe salgono a respirare. Il centro diving del resort organizza uscite in barca di snorkeling o immersioni nei canali vicini, con squali grigi, aquile di mare e, nella stagione giusta, mante.
+Giornata in acqua. Ho girato la house reef al mattino presto, quando la luce è bassa e i pesci sono più attivi, e nel tardo pomeriggio, quando le tartarughe salgono a respirare. Tra le due uscite le ore centrali si passano all'ombra: il sole delle Maldive brucia anche in acqua, e la lycra a maniche lunghe protegge meglio di qualunque crema.
+
+Il centro diving del resort organizza uscite in barca di snorkeling o immersioni nei canali vicini, con squali grigi, aquile di mare e, nella stagione giusta, mante. Nei canali la corrente può essere forte, e per questo le uscite si fanno con guida e barca d'appoggio. *Conviene prenotare il giorno prima, perché i posti sulle barche sono pochi e i siti cambiano con le condizioni del mare.*
 
 **In pratica:** escursioni dai resort più care che dalle isole locali (snorkeling in barca 80-150 $, immersioni 100-150 $) · boa colorata per la house reef se il resort la fornisce.
 
 ### Giorno 8 — Resort: una giornata di riposo
-Giornata senza programmi, tra spiaggia, lettura, kayak nella laguna e una cena al tramonto. Chi vuole ancora acqua prova lo snorkeling notturno guidato sulla house reef: squali nutrice, aragoste e, nelle notti senza luna, a volte il plancton bioluminescente che si accende sulla battigia.
+Giornata senza programmi, tra spiaggia, lettura, kayak nella laguna e una cena al tramonto. Il kayak e la tavola da SUP, spesso inclusi, si usano meglio al mattino, quando la laguna è piatta e il vento non si è ancora alzato. È anche la giornata giusta per un trattamento alla spa o per una passeggiata intorno all'isola con la bassa marea, quando la sabbia scoperta mostra razze e piccoli squali in pochi centimetri d'acqua.
+
+Chi vuole ancora acqua prova lo snorkeling notturno guidato sulla house reef: squali nutrice, aragoste e, nelle notti senza luna, a volte il plancton bioluminescente che si accende sulla battigia. Si entra con la torcia e si resta vicini alla guida. *Il plancton bioluminescente non si prenota: si vede meglio sulle spiagge buie, lontano dalle luci dei bungalow, e solo in alcune notti.*
 
 **In pratica:** snorkeling o immersione notturna solo con guida · le spa dei resort sono care: chiedere i pacchetti all'arrivo.
 
 ### Giorno 9 — Resort e trasferimento a Hulhumalé
-Ultima mattina in acqua, poi ci siamo trasferiti a **Hulhumalé**, l'isola artificiale accanto all'aeroporto, con il tempo di vedere la spiaggia cittadina e cenare in uno dei ristoranti sul lungomare. Dormendo qui l'ultima notte, la mattina del volo non si dipende da una barca o da un idrovolante.
+Ultima mattina in acqua, poi ci siamo trasferiti a **Hulhumalé**, l'isola artificiale accanto all'aeroporto, con il tempo di vedere la spiaggia cittadina e cenare in uno dei ristoranti sul lungomare. Il check-out del resort e l'orario del transfer vanno fissati il giorno prima, tenendo conto che l'idrovolante non vola dopo il tramonto. *Se il transfer è in idrovolante, l'ultima immersione va evitata: lo snorkeling in superficie invece si può fare.*
+
+Dormendo qui l'ultima notte, la mattina del volo non si dipende da una barca o da un idrovolante. Hulhumalé è una città moderna, con viali larghi, la spiaggia pubblica e locali frequentati dai maldiviani la sera, quando il caldo cala. Sulla spiaggia vale il costume coperto, come sulle altre isole abitate.
 
 **In pratica:** idrovolanti solo di giorno, speedboat condizionati dal mare · hotel di Hulhumalé a 10-15 minuti dall'aeroporto · a Hulhumalé, isola abitata, valgono le regole locali: niente alcol.
 
 ### Giorno 10 — Malé e partenza
-Chi ha un volo pomeridiano fa un giro a **Malé**, la capitale più densa del mondo: il mercato del pesce, dove arrivano i tonni al mattino, il mercato della frutta, la Moschea del Venerdì in pietra di corallo del Seicento (visitabile fuori dagli orari di preghiera con abiti coperti). Poi si prende il traghetto o il bus per l'aeroporto.
+Chi ha un volo pomeridiano fa un giro a **Malé**, la capitale più densa del mondo: il mercato del pesce, dove arrivano i tonni al mattino, il mercato della frutta, la Moschea del Venerdì in pietra di corallo del Seicento (visitabile fuori dagli orari di preghiera con abiti coperti). Da Hulhumalé a Malé si arriva in bus o in taxi attraverso il ponte, e il centro si gira tutto a piedi in un paio d'ore. *Per entrare nella Moschea del Venerdì può servire un permesso: conviene chiedere in loco, e in ogni caso il cortile e le tombe intorno si vedono dall'esterno.*
+
+Il mercato del pesce è più vivo nella tarda mattinata, quando arrivano i dhoni; accanto c'è il mercato della frutta e verdura, con banane, cocchi e peperoncini delle isole. Il venerdì Malé si ferma per la preghiera di mezzogiorno, e conviene saperlo prima di organizzare la mattina. Poi si prende il traghetto o il bus per l'aeroporto.
 
 **In pratica:** traghetto Malé-aeroporto 10 minuti, 1-2 $ · Moschea del Venerdì visitabile con abiti coperti, non durante la preghiera · tassa di partenza di solito già inclusa nel biglietto.
 

@@ -27,16 +27,18 @@ La Corea del Sud è il paese più facile dell'Asia in cui viaggiare e uno dei pi
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Seoul
-Siamo atterrati a Incheon (ICN) e abbiamo preso l'AREX fino al centro, circa un'ora. Ci siamo sistemati tra Myeongdong e Jongno, vicino a una stazione della metropolitana.
+Siamo atterrati a Incheon (ICN) e abbiamo preso l'AREX fino al centro, circa un'ora. Ci siamo sistemati tra Myeongdong e Jongno, vicino a una stazione della metropolitana. L'AREX ha due servizi: il treno espresso diretto fino a Seoul Station, più rapido e con posto assegnato, e quello che ferma ovunque, più lento ma più economico e collegato alla metro. Chi arriva con molto bagaglio o tardi la sera può usare i bus limousine, che fermano davanti ai grandi hotel.
 
-La prima giornata è stata leggera per il fuso: la **T-money** comprata al primo minimarket, la prova che Naver Map funzionasse e la cena al **mercato di Gwangjang**, che è il modo giusto di cominciare. Si mangia seduti su sgabelli di plastica davanti a chi cucina: bindaetteok, mayak gimbap, tteokbokki.
+La prima giornata è stata leggera per il fuso: la **T-money** comprata al primo minimarket, la prova che Naver Map funzionasse e la cena al **mercato di Gwangjang**, che è il modo giusto di cominciare. Si mangia seduti su sgabelli di plastica davanti a chi cucina: bindaetteok, mayak gimbap, tteokbokki. *In Corea Google Maps funziona male per i percorsi a piedi e in auto: Naver Map o KakaoMap vanno scaricate prima di partire, con la mappa in inglese.* Il mercato è al meglio verso sera, quando i banchi del cibo sono tutti aperti.
+
+**In pratica:** AREX espresso circa 45 minuti fino a Seoul Station, treno normale circa un'ora · T-money ricaricabile in contanti nei minimarket e nelle stazioni · per dormire Myeongdong e Jongno sono comode per i palazzi e la metro · Gwangjang aperto fino a sera.
 
 ### Giorno 2 — Palazzi e Memoriale della Guerra
-La mattina siamo stati a **Changdeokgung**, con la visita guidata al **Giardino Segreto**, prenotata online qualche giorno prima perché è a numero chiuso. È il più bello dei cinque palazzi reali e il meglio conservato.
+La mattina siamo stati a **Changdeokgung**, con la visita guidata al **Giardino Segreto**, prenotata online qualche giorno prima perché è a numero chiuso. È il più bello dei cinque palazzi reali e il meglio conservato. Il giardino si visita solo in gruppo, con turni in inglese a orari fissi, e una parte dei posti si vende in biglietteria la mattina stessa; serve anche il biglietto del palazzo, che si compra a parte. *Le prenotazioni online aprono pochi giorni prima e in autunno, con il foliage, finiscono subito.*
 
-Il pomeriggio, **Gyeongbokgung** per il cambio della guardia, magari in **hanbok**, che azzera il biglietto d'ingresso e che indossano anche moltissimi coreani. *Attenzione: Gyeongbokgung chiude il martedì, gli altri palazzi il lunedì.*
+Il pomeriggio, **Gyeongbokgung** per il cambio della guardia, magari in **hanbok**, che azzera il biglietto d'ingresso e che indossano anche moltissimi coreani. *Attenzione: Gyeongbokgung chiude il martedì, gli altri palazzi il lunedì.* Dentro il recinto ci sono anche il Museo nazionale del folklore, gratuito, e il padiglione sul lago di Gyeonghoeru. A fine giornata siamo andati al **Memoriale della Guerra di Corea**, gratuito. È la tappa che rende leggibile la giornata dopo: senza quel contesto, la DMZ resta una collezione di fotografie.
 
-A fine giornata siamo andati al **Memoriale della Guerra di Corea**, gratuito. È la tappa che rende leggibile la giornata dopo: senza quel contesto, la DMZ resta una collezione di fotografie.
+**In pratica:** Gyeongbokgung circa 3.000 won, gratis in hanbok · Giardino Segreto con biglietto a parte, prenotazione sul sito ufficiale dei palazzi reali · noleggio hanbok nei negozi intorno a Gyeongbokgung, qualche decina di migliaia di won per alcune ore · Memoriale della Guerra chiuso il lunedì.
 
 ### Giorno 3 — La DMZ
 Siamo partiti al mattino presto con un tour autorizzato, **passaporto originale in tasca**: al checkpoint nessuna copia viene accettata.
@@ -45,66 +47,70 @@ Il percorso standard tocca **Imjingak**, con il Ponte della Libertà e la locomo
 
 *Se la **JSA di Panmunjom** è accessibile e si è riusciti a prenotarla con settimane di anticipo, è una giornata completamente diversa: le baracche azzurre a cavallo della linea di demarcazione, i soldati dei due paesi a venti metri, il Ponte del Non Ritorno. Ma dal 2023 è stata chiusa più volte che aperta: va tenuta come bonus, mai come perno del viaggio.*
 
-### Giorno 4 — Seoul: quartieri, fortezza, jjimjilbang
-La mattina l'abbiamo passata tra **Bukchon**, il villaggio di hanok ancora abitato tra i due palazzi, e **Insadong**. Nel pomeriggio abbiamo percorso un tratto della **fortezza di Seoul** lungo il crinale, con la città sotto: è il modo migliore di capire come la capitale sia incastrata tra le montagne.
+**In pratica:** tour della DMZ solo con operatori autorizzati, da prenotare qualche giorno prima · passaporto originale obbligatorio · i tour si cancellano anche il giorno prima per esercitazioni o ragioni di sicurezza · rientro a Seoul nel primo pomeriggio.
 
-La sera, **jjimjilbang**, la sauna aperta 24 ore: vasche termali divise per sesso e senza costume, sala comune mista in pigiama dove le famiglie dormono per terra su stuoie. Per poco più di dieci euro è l'istituzione più coreana che ci sia, e volendo ci si dorme.
+### Giorno 4 — Seoul: quartieri, fortezza, jjimjilbang
+La mattina l'abbiamo passata tra **Bukchon**, il villaggio di hanok ancora abitato tra i due palazzi, e **Insadong**. A Bukchon le case sono abitate, e il quartiere ha introdotto orari per i visitatori e zone dove non si può entrare la sera: si cammina a bassa voce e non si fotografano porte e finestre da vicino. Insadong è la via delle botteghe di carta, ceramica e tè, con le case da tè nascoste nei cortili.
+
+Nel pomeriggio abbiamo percorso un tratto della **fortezza di Seoul** lungo il crinale, con la città sotto: è il modo migliore di capire come la capitale sia incastrata tra le montagne. Il tratto più facile è quello del **parco Naksan**, che sale dal quartiere di Dongdaemun in mezz'ora ed è bello al tramonto. La sera, **jjimjilbang**, la sauna aperta 24 ore: vasche termali divise per sesso e senza costume, sala comune mista in pigiama dove le famiglie dormono per terra su stuoie. Per poco più di dieci euro è l'istituzione più coreana che ci sia, e volendo ci si dorme. *Nelle vasche si entra nudi e dopo una doccia accurata; i tatuaggi grandi in alcuni posti non sono graditi.*
+
+**In pratica:** Bukchon con orari di visita limitati nelle zone residenziali · tratto di mura di Naksan circa mezz'ora di salita facile · jjimjilbang con asciugamani e pigiama inclusi, armadietto con chiave al polso.
 
 ### Giorno 5 — Sokcho e il Seoraksan
-**Autobus express da Seoul a Sokcho, circa 2h30** (il treno non arriva fin qui).
+**Autobus express da Seoul a Sokcho, circa 2h30** (il treno non arriva fin qui). Gli autobus partono più volte all'ora dai terminal di Seoul, e conviene prenotarli online per il fine settimana. Sokcho è una città di mare sulla costa est, con il porto dei pescherecci e i mercati, e fa da base per il parco del Seoraksan, a mezz'ora di autobus.
 
-Il pomeriggio siamo stati nel quartiere di **Abai**, fondato dai profughi nordcoreani che durante la guerra si fermarono qui pensando di ripartire dopo qualche mese. Ci si arriva attraversando il canale sul **galsseonbae**, la chiatta a fune che i passeggeri tirano a mano tutti insieme. A cena, l'**ojingeo sundae**, il calamaro ripieno che è la specialità portata dai profughi.
+Il pomeriggio siamo stati nel quartiere di **Abai**, fondato dai profughi nordcoreani che durante la guerra si fermarono qui pensando di ripartire dopo qualche mese. Ci si arriva attraversando il canale sul **galsseonbae**, la chiatta a fune che i passeggeri tirano a mano tutti insieme. A cena, l'**ojingeo sundae**, il calamaro ripieno che è la specialità portata dai profughi. Prima di cena si può passare dal **mercato centrale di Sokcho**, coperto, con i banchi di pesce fritto e il pollo dolce in salsa. *Per il Seoraksan domani si parte presto: in alta stagione gli autobus per il parco si riempiono già al mattino.*
+
+**In pratica:** Seoul-Sokcho circa 2h30 di autobus express · galsseonbae con biglietto di poche centinaia di won · dal centro di Sokcho al parco del Seoraksan autobus diretti in circa mezz'ora · per dormire, vicino al terminal o al porto.
 
 ### Giorno 6 — Seoraksan
 La giornata l'abbiamo passata nel **parco nazionale del Seoraksan**: il Buddha di bronzo di Sinheungsa all'ingresso e poi la salita a **Ulsanbawi**, circa quattro ore andata e ritorno, con l'ultimo tratto su 808 gradini metallici a strapiombo su una parete di granito.
 
-*In ottobre il foliage rende il parco magnifico e impraticabile insieme: nei fine settimana si sale in fila indiana. Qui il giorno feriale è una condizione, più che un consiglio.*
+Dal 2023 l'ingresso al parco non si paga più; si paga solo il parcheggio per chi arriva in auto. Conviene partire entro le otto, con acqua e qualcosa da mangiare, perché lungo il sentiero ci sono solo un paio di punti di ristoro. *In ottobre il foliage rende il parco magnifico e impraticabile insieme: nei fine settimana si sale in fila indiana. Qui il giorno feriale è una condizione, più che un consiglio.* Chi non vuole camminare può prendere la **funivia per Gwongeumseong**, che sale in pochi minuti a un belvedere di roccia; i biglietti si vendono per orario e nei giorni affollati quelli del mattino finiscono presto. Trasferimento serale o mattutino verso Andong.
 
-Chi non vuole camminare può prendere la **funivia per Gwongeumseong**.
-
-Trasferimento serale o mattutino verso Andong.
+**In pratica:** ingresso al parco gratuito, parcheggio a pagamento · Ulsanbawi circa 4 ore andata e ritorno, scarpe da escursione · funivia con biglietto a fascia oraria, da comprare appena si arriva · da Sokcho ad Andong pochi collegamenti diretti in autobus: controllare gli orari il giorno prima.
 
 ### Giorno 7 — Andong e il villaggio di Hahoe
-Siamo arrivati ad **Andong** e da lì a **Hahoe**, patrimonio UNESCO, abitato dalla stessa famiglia da seicento anni. L'urbanistica si legge camminando: le case dei nobili con i tetti di tegole in alto e al centro, quelle dei contadini con i tetti di paglia tutt'attorno.
+Siamo arrivati ad **Andong** e da lì a **Hahoe**, patrimonio UNESCO, abitato dalla stessa famiglia da seicento anni. L'urbanistica si legge camminando: le case dei nobili con i tetti di tegole in alto e al centro, quelle dei contadini con i tetti di paglia tutt'attorno. Il villaggio sta in un'ansa del fiume Nakdong, e dall'altra riva la scogliera di **Buyongdae** offre la vista migliore dall'alto, raggiungibile in barca nella bella stagione.
 
-Se capita nei giorni giusti, c'è lo spettacolo delle **maschere byeolsingut**: una volta l'anno i contadini mettevano in scena una satira in cui il monaco è corrotto e il nobile è un idiota, e i nobili assistevano.
+Se capita nei giorni giusti, c'è lo spettacolo delle **maschere byeolsingut**: una volta l'anno i contadini mettevano in scena una satira in cui il monaco è corrotto e il nobile è un idiota, e i nobili assistevano. **Si dorme dentro il villaggio**, in una hanok. Alle cinque i pullman se ne vanno tutti insieme e restano il fiume, i cani e qualche anziano seduto fuori: è l'unica ragione per non farlo in giornata. A cena, l'**andong jjimdak**, il pollo brasato che porta il nome della città.
 
-**Si dorme dentro il villaggio**, in una hanok. Alle cinque i pullman se ne vanno tutti insieme e restano il fiume, i cani e qualche anziano seduto fuori: è l'unica ragione per non farlo in giornata.
-
-A cena, l'**andong jjimdak**, il pollo brasato che porta il nome della città.
+**In pratica:** da Andong a Hahoe autobus locale in circa 50 minuti, corse non frequenti · biglietto d'ingresso al villaggio di pochi euro · hanok con pavimento riscaldato e materassi a terra, da prenotare in anticipo · andong jjimdak nel mercato di Andong, porzioni per due.
 
 ### Giorno 8 — Gyeongju
-Ci siamo spostati a **Gyeongju**, capitale del regno di Silla per quasi mille anni.
+Ci siamo spostati a **Gyeongju**, capitale del regno di Silla per quasi mille anni. La città è piccola e piatta, e si gira bene in bicicletta: i noleggi sono vicino al terminal degli autobus e ai tumuli. Per dormire conviene la zona di **Hwangnidan-gil**, con le hanok trasformate in caffè e piccole guesthouse, a pochi passi dai siti.
 
-Il pomeriggio siamo andati in bicicletta tra i **tumuli reali del Daereungwon**, che stanno in mezzo alla città e non in un parco archeologico recintato: colline erbose alte venti metri accanto agli incroci. Uno è aperto e si entra dentro, con la corona d'oro esposta nel punto in cui fu trovata. Poi **Cheomseongdae**, l'osservatorio astronomico del VII secolo.
+Il pomeriggio siamo andati in bicicletta tra i **tumuli reali del Daereungwon**, che stanno in mezzo alla città e non in un parco archeologico recintato: colline erbose alte venti metri accanto agli incroci. Uno è aperto e si entra dentro, con una copia della corona d'oro esposta nel punto in cui fu trovata; l'originale è al **Museo Nazionale di Gyeongju**, gratuito, che vale un'ora. Poi **Cheomseongdae**, l'osservatorio astronomico del VII secolo. Dopo il buio, **Anapji**: lo stagno con i padiglioni illuminati riflessi nell'acqua. Dura mezz'ora e vale la giornata.
 
-Dopo il buio, **Anapji**: lo stagno con i padiglioni illuminati riflessi nell'acqua. Dura mezz'ora e vale la giornata.
+**In pratica:** Daereungwon con biglietto economico per la tomba di Cheonmachong · Anapji (Donggung e Wolji) aperto fino a sera, al meglio dopo il tramonto · Museo Nazionale di Gyeongju gratuito · noleggio bici a ore o a giornata.
 
 ### Giorno 9 — Bulguksa, Seokguram e templestay
-La mattina siamo saliti sul monte Toham. Prima **Seokguram**, appena apre, prima che arrivino i pullman: una cupola di granito del 751, costruita incastrando blocchi senza malta, con un Buddha di tre metri e mezzo orientato verso il mare d'Oriente. *Si guarda da dietro una vetrata, dall'anticamera: chi non lo sa prima resta deluso.* Poi **Bulguksa**, con le due pagode di pietra dell'VIII secolo nel cortile.
+La mattina siamo saliti sul monte Toham. Prima **Seokguram**, appena apre, prima che arrivino i pullman: una cupola di granito del 751, costruita incastrando blocchi senza malta, con un Buddha di tre metri e mezzo orientato verso il mare d'Oriente. *Si guarda da dietro una vetrata, dall'anticamera: chi non lo sa prima resta deluso.* Poi **Bulguksa**, con le due pagode di pietra dell'VIII secolo nel cortile. Dal 2023 l'ingresso a entrambi è gratuito. Tra i due c'è una navetta, oppure un sentiero nel bosco di circa un'ora in discesa da Seokguram a Bulguksa.
 
-Nel pomeriggio, **templestay** in un monastero di montagna: cerimonia serale, il pasto rituale del baru gongyang, in cui non si lascia nemmeno un chicco di riso, e sveglia intorno alle quattro per la liturgia al buio. Va prenotato sul portale ufficiale scegliendo un tempio con programma in inglese, altrimenti gran parte di quello che succede resta incomprensibile.
+Nel pomeriggio, **templestay** in un monastero di montagna: cerimonia serale, il pasto rituale del baru gongyang, in cui non si lascia nemmeno un chicco di riso, e sveglia intorno alle quattro per la liturgia al buio. Va prenotato sul portale ufficiale scegliendo un tempio con programma in inglese, altrimenti gran parte di quello che succede resta incomprensibile. Il tempio fornisce la divisa, e si dorme su materassini in stanze semplici; si porta poco, e niente alcol.
+
+**In pratica:** Bulguksa e Seokguram gratuiti, aperti dalla mattina presto · autobus urbani dal centro di Gyeongju a Bulguksa in circa mezz'ora · templestay da prenotare sul portale ufficiale con qualche settimana di anticipo, costo di qualche decina di euro a notte con i pasti.
 
 ### Giorno 10 — Busan
-**KTX o autobus fino a Busan**, mezz'ora scarsa da Gyeongju.
+**KTX o autobus fino a Busan**, mezz'ora scarsa da Gyeongju. Il KTX parte dalla stazione di Gyeongju, fuori città, e arriva a Busan Station; da lì la metropolitana porta in tutti i quartieri. Per dormire, chi vuole il mare sceglie Haeundae o Gwangalli, chi vuole i mercati la zona di Nampo.
 
-La mattina siamo stati al **mercato del pesce di Jagalchi**, il più grande della Corea, dove si compra al banco di sotto e si fa cucinare al piano di sopra. Il pomeriggio, il **villaggio di Gamcheon**: si sale in autobus fino in cima e si scende a piedi, lasciando il percorso segnalato dei murales per i vicoli laterali, dove ci sono ancora gli anziani seduti fuori casa.
+La mattina siamo stati al **mercato del pesce di Jagalchi**, il più grande della Corea, dove si compra al banco di sotto e si fa cucinare al piano di sopra. Accanto, il mercato di **Gukje** e la via del cibo di strada di BIFF Square. Il pomeriggio, il **villaggio di Gamcheon**: si sale in autobus fino in cima e si scende a piedi, lasciando il percorso segnalato dei murales per i vicoli laterali, dove ci sono ancora gli anziani seduti fuori casa. *Gamcheon è un quartiere abitato: niente foto dentro le case e voce bassa nei vicoli.* La sera, **Gwangalli**, con il ponte illuminato sul mare.
 
-La sera, **Gwangalli**, con il ponte illuminato sul mare.
+**In pratica:** Gyeongju-Busan in KTX circa mezz'ora · a Jagalchi si paga il pesce al banco e a parte il servizio di cucina al piano di sopra · a Gamcheon si arriva con i minibus dalla stazione della metro di Toseong · metro di Busan con la stessa T-money di Seoul.
 
 ### Giorno 11 — Busan: il cimitero ONU e la costa
-La mattina siamo andati al **cimitero commemorativo delle Nazioni Unite**, l'unico al mondo dedicato ai caduti ONU: file di lapidi di ragazzi di ventidue paesi, molti di vent'anni. Dopo la DMZ, che è tutta geopolitica, qui la guerra torna a essere fatta di nomi.
+La mattina siamo andati al **cimitero commemorativo delle Nazioni Unite**, l'unico al mondo dedicato ai caduti ONU: file di lapidi di ragazzi di ventidue paesi, molti di vent'anni. Dopo la DMZ, che è tutta geopolitica, qui la guerra torna a essere fatta di nomi. Il cimitero è aperto tutti i giorni e gratuito, e accanto c'è una piccola sala con la storia delle truppe di ogni paese. Ci si arriva in metro fino a Daeyeon e poi a piedi in un quarto d'ora.
 
-Il pomeriggio c'è il **sentiero costiero di Igidae**, con la vista frontale sullo skyline di Haeundae, oppure il tempio di **Haedong Yonggungsa**, costruito sugli scogli, da evitare nel fine settimana, quando il percorso si fa in fila indiana.
+Il pomeriggio c'è il **sentiero costiero di Igidae**, con la vista frontale sullo skyline di Haeundae, oppure il tempio di **Haedong Yonggungsa**, costruito sugli scogli, da evitare nel fine settimana, quando il percorso si fa in fila indiana. Il sentiero di Igidae si percorre in un paio d'ore fino allo **Skywalk di Oryukdo**, la passerella di vetro sopra la scogliera. A cena, il **dwaeji gukbap**, la zuppa di maiale nata proprio qui nel 1951 dagli scarti che i profughi potevano permettersi.
 
-A cena, il **dwaeji gukbap**, la zuppa di maiale nata proprio qui nel 1951 dagli scarti che i profughi potevano permettersi.
+**In pratica:** cimitero ONU gratuito, aperto tutti i giorni con orario più lungo in estate · sentiero di Igidae circa 2 ore, con saliscendi e scale · Haedong Yonggungsa gratuito, raggiungibile in autobus da Haeundae · dwaeji gukbap nella via dedicata del quartiere di Seomyeon.
 
 ### Giorno 12 — Volo per Jeju e la costa orientale
-**Volo Busan-Jeju**, meno di un'ora, e ritiro dell'auto a noleggio (**patente internazionale obbligatoria**).
+**Volo Busan-Jeju**, meno di un'ora, e ritiro dell'auto a noleggio (**patente internazionale obbligatoria**). I voli sono molti e costano poco se presi in anticipo; l'aeroporto di Busan è Gimhae, collegato alla città dalla metro leggera. A Jeju l'auto serve davvero: i siti sono sparsi lungo la costa e gli autobus passano con poca frequenza. *Le auto a noleggio coreane hanno quasi sempre il navigatore in coreano: conviene usare Naver Map o KakaoMap sul telefono.*
 
-Siamo andati dritti sulla costa est. La prima tappa è il **Museo delle haenyeo** a Gujwa-eup, da fare per primo perché senza tutto il resto resta una curiosità. Spiega i **bulteok**, i ripari circolari in pietra dove si cambiano, si scaldano e per generazioni hanno preso a voto le decisioni della comunità (ne restano una settantina); la gerarchia interna, dalle principianti alle sanggun; e la protesta del 1932, quando furono le haenyeo a guidare una delle più grandi rivolte contro il dominio coloniale giapponese.
+Siamo andati dritti sulla costa est. La prima tappa è il **Museo delle haenyeo** a Gujwa-eup, da fare per primo perché senza tutto il resto resta una curiosità. Spiega i **bulteok**, i ripari circolari in pietra dove si cambiano, si scaldano e per generazioni hanno preso a voto le decisioni della comunità (ne restano una settantina); la gerarchia interna, dalle principianti alle sanggun; e la protesta del 1932, quando furono le haenyeo a guidare una delle più grandi rivolte contro il dominio coloniale giapponese. Ci siamo sistemati attorno a Seongsan. A cena, una delle **bancarelle delle cooperative**, dove il pescato lo vendono direttamente loro e i soldi non passano da intermediari.
 
-Ci siamo sistemati attorno a Seongsan. A cena, una delle **bancarelle delle cooperative**, dove il pescato lo vendono direttamente loro e i soldi non passano da intermediari.
+**In pratica:** volo Busan-Jeju meno di un'ora · patente internazionale e patente italiana insieme al ritiro dell'auto · dall'aeroporto di Jeju a Gujwa circa un'ora di strada · Museo delle haenyeo con biglietto economico, giorni di chiusura da verificare.
 
 ### Giorno 13 — Le haenyeo e Seongsan Ilchulbong
 All'alba siamo saliti su **Seongsan Ilchulbong**, il cono vulcanico che esce dal mare: venti minuti di gradini e un vento che non smette mai.
@@ -115,8 +121,14 @@ In mattinata, secondo l'orario delle maree, c'è la **dimostrazione di immersion
 
 Il pomeriggio è libero: il tubo di lava di **Manjanggul**, una tappa degli **Olle Trail** lungo la costa, o il **Parco della Pace 4·3**, dedicato ai fatti del 1948-1954, la pagina più dura della storia dell'isola.
 
+**In pratica:** Seongsan Ilchulbong circa 5.000 won, chiuso il primo lunedì del mese · la dimostrazione delle haenyeo è gratuita, con orari che cambiano secondo stagione e mare: chiedere in biglietteria · Manjanggul è stato chiuso per lavori di sicurezza: verificare che sia aperto prima di andarci.
+
 ### Giorno 14 — Rientro
-Volo Jeju-Seoul Gimpo e proseguimento per Incheon, oppure volo internazionale diretto, secondo le coincidenze. Chi ha mezza giornata in più può usarla per l'**Hallasan**, ma solo con la prenotazione online già fatta: i due sentieri che arrivano in vetta hanno quote giornaliere e senza prenotazione non si passa il checkpoint.
+Volo Jeju-Seoul Gimpo e proseguimento per Incheon, oppure volo internazionale diretto, secondo le coincidenze. Chi ha mezza giornata in più può usarla per l'**Hallasan**, ma solo con la prenotazione online già fatta: i due sentieri che arrivano in vetta hanno quote giornaliere e senza prenotazione non si passa il checkpoint. Gli altri sentieri, che non arrivano in cima, non richiedono prenotazione e si fanno in mezza giornata.
+
+Chi preferisce restare in città può passare dal **mercato di Dongmun**, a Jeju città, a pochi minuti dall'aeroporto, per gli ultimi acquisti: mandarini, tè verde dell'isola e snack. *Da Gimpo a Incheon l'AREX impiega circa mezz'ora, ma tra cambio di aeroporto, bagagli e controlli conviene lasciare almeno tre ore tra i due voli.* L'auto si riconsegna all'aeroporto di Jeju, dove le agenzie di noleggio hanno un parcheggio comune con navette per il terminal.
+
+**In pratica:** voli Jeju-Gimpo frequenti, circa un'ora · AREX Gimpo-Incheon circa mezz'ora · riconsegna auto con navetta per il terminal: almeno mezz'ora in più · Hallasan in vetta solo con prenotazione online.
 
 ## Cosa vedere / cosa fare
 - **Il Memoriale della Guerra prima della DMZ**, mai dopo.

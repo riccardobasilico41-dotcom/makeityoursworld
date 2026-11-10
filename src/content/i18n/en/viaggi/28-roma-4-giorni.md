@@ -49,6 +49,8 @@ In the afternoon we went to **San Clemente**: a twelfth-century basilica built o
 
 In the evening we were in **Monti**, the neighborhood behind the Forums: very close, lived-in, without the postcard effect.
 
+**In practice:** the Colosseum ticket is valid 24 hours and includes the Roman Forum and Palatine; buy it only on the official Archaeological Park website, days ahead · slots with the arena or underground sell out first · metro B Colosseo or Cavour · San Clemente: the basilica is free, the underground excavations need a separate ticket · in Monti, book dinner at weekends.
+
 ### Day 2 — Vatican: Museums, Sistine, St. Peter's
 This is the most tiring day and should be organized accordingly.
 
@@ -62,6 +64,8 @@ If your legs hold up, there's the **dome**: elevator to the terrace and then **t
 
 For the evening, **Prati**, which is right there and is a real neighborhood, or **Trastevere**, across the river.
 
+**In practice:** book the Vatican Museums on the official website; closed on Sundays except the last of the month (free entry and very long lines) · allow at least three or four hours for the route · metro A Ottaviano or Cipro · St. Peter's is free after the security check, with shoulders and knees covered · the dome is paid separately, a few euros more with the lift.
+
 ### Day 3 — The baroque center and the Borghese Gallery
 In the morning we toured the center on foot, on the most beautiful loop in the city. **Piazza Navona** has the shape of Domitian's stadium because **a Roman stadium lies beneath it**, parts of which can be visited, and it hosts Bernini's **Fountain of the Four Rivers**. The **Pantheon** has **the largest unreinforced concrete dome ever built** and has held it up since the second century, with an oculus open to the sky through which, when it rains, it rains inside. Then the **Trevi Fountain** (access rules have changed several times in recent years: check them beforehand) and **Piazza di Spagna** with the Spanish Steps.
 
@@ -73,6 +77,8 @@ Afterward we walked to **Villa Borghese** and the **Pincio at sunset**, with the
 
 Evening in the **Ghetto**, with **carciofi alla giudia** if it's the right season.
 
+**In practice:** Pantheon ticket about 5 euros, best booked at weekends · Borghese Gallery closed on Mondays, mandatory booking on the official website and two-hour slots · San Luigi dei Francesi and Sant'Agostino are free but close in the middle of the day: check the hours · carciofi alla giudia are in season roughly from February to April.
+
 ### Day 4 — The Rome that doesn't end up on postcards
 This is the day that separates those who have seen Rome from those who have seen its monuments, and it should be chosen according to taste. There are three options, all full.
 
@@ -83,6 +89,8 @@ This is the day that separates those who have seen Rome from those who have seen
 **Option C: Testaccio, Aventine, Domus Aurea.** **Testaccio** with the market and the tradition of the **quinto quarto**, the **Non-Catholic Cemetery** with the tombs of Keats and Shelley and **Monte Testaccio**, an artificial hill made of **fifty million broken olive-oil amphorae** accumulated over three centuries: the dump of ancient Rome, turned into a landform. Then the **Aventine** with the **Orange Garden** and the famous **keyhole of the Priory of the Knights of Malta**, through which the dome of St. Peter's is framed at the end of an avenue of hedges. If you managed to book, the **Domus Aurea** closes the day: it's Nero's villa, visited with a hard hat in a permanent restoration site, and has a virtual-reality reconstruction of the octagonal hall.
 
 Evening in **Trastevere**, but on the side streets, not the central one.
+
+**In practice:** bus 118 goes to the Appia Antica, and bikes can be rented at the Park's information points · each catacomb has a different weekly closing day: pick them by the calendar · Ostia Antica by the Roma-Lido train from Porta San Paolo station, next to Piramide metro, on a normal city ticket · Ostia excavations closed on Mondays · Domus Aurea by reservation only and on limited days.
 
 ## The Two-Day Version
 Two days in Rome work only if you accept one rule: **you give up the Vatican or you give up the rest.** They don't fit together. There are two sensible combinations.

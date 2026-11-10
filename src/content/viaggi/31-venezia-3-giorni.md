@@ -43,6 +43,8 @@ Nel pomeriggio, **non salire sul campanile di San Marco**: c'è coda e soprattut
 
 La sera siamo stati in **Castello**, il sestiere subito dietro San Marco: bastano dieci minuti di camminata verso est e la città cambia completamente.
 
+**In pratica:** San Marco con prenotazione online all'orario di apertura, spalle e ginocchia coperte, zaini grandi al deposito gratuito in una calle vicina · Pala d'Oro e Loggia dei Cavalli con biglietti aggiuntivi · Palazzo Ducale con biglietto cumulativo, Itinerari Segreti da prenotare · vaporetto per San Giorgio Maggiore, campanile con ascensore e biglietto modesto · controllare prima se la data rientra nel contributo di accesso.
+
 ### Giorno 2 — Dorsoduro, i Frari e San Rocco
 La giornata dell'arte grande, quasi tutta a piedi e quasi tutta senza code.
 
@@ -58,6 +60,8 @@ Al tramonto siamo andati sulle **Zattere**, la lunga riva affacciata sulla Giude
 
 La sera a **cicchetti** tra i bacari di Dorsoduro e San Polo, in piedi, spostandoci da un banco all'altro. È il modo giusto di cenare a Venezia, e costa una frazione di un ristorante.
 
+**In pratica:** Accademia e Peggy Guggenheim con biglietti propri, la Guggenheim ha un giorno di chiusura settimanale da controllare · Frari con biglietto d'ingresso, oppure con il Chorus Pass · Scuola Grande di San Rocco con biglietto, specchi a disposizione · tutto a piedi tra Dorsoduro e San Polo · cicchetti al banco, pochi euro l'uno con l'ombra.
+
 ### Giorno 3 — Cannaregio, il Ghetto e le isole
 La mattina in **Cannaregio**, il sestiere più abitato e il meno visitato dei sei. **Il Ghetto di Venezia è il primo ghetto del mondo**: nel 1516 la Repubblica obbligò gli ebrei a risiedere in quest'area chiusa da cancelli sorvegliati, e la parola stessa viene da qui, dalla fonderia ("geto") che c'era prima. Siccome non si poteva costruire in larghezza, **si è costruito in altezza**: i palazzi del Campo di Ghetto Nuovo hanno **piani bassissimi e più livelli di qualunque altro edificio veneziano**, e si vede a occhio nudo. Ci sono cinque sinagoghe storiche, visitabili con accompagnamento tramite il **Museo Ebraico**. **Orari e disponibilità cambiano** e dipendono dalle festività: conviene controllarli prima.
 
@@ -69,6 +73,8 @@ Il pomeriggio è per la **laguna nord**, in vaporetto:
 - **Torcello**, che quasi nessuno fa ed è la ragione per venire in laguna. È **l'isola da cui Venezia è nata**: aveva decine di migliaia di abitanti prima che la malaria e l'interramento la svuotassero, e oggi ne ha poche decine. Resta la **basilica di Santa Maria Assunta**, fondata nel VII secolo, con un **Giudizio Universale a mosaico** sulla controfacciata e una **Madonna bizantina su fondo d'oro** nell'abside, sola, su un campo dorato vuoto: una delle immagini più forti di tutta l'arte veneziana. Fuori c'è il campo d'erba con il **Ponte del Diavolo**, senza parapetti.
 
 **Ordine consigliato:** Torcello per prima o per ultima, e **non lasciarla fuori** per fare shopping a Murano.
+
+**In pratica:** Museo Ebraico e sinagoghe con visita accompagnata, orari legati a festività e al sabato · abbonamento del vaporetto a giornata per la laguna nord · Murano, Burano e Torcello collegate dalle linee dalle Fondamente Nove, con tempi di traversata che si sommano · a Torcello basilica e campanile con biglietto · ultimo vaporetto da Torcello da controllare, le corse sono rade.
 
 ## Cosa vedere / cosa fare
 - **La Basilica di San Marco prenotata, all'apertura**, con la Loggia dei Cavalli.

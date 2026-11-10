@@ -58,6 +58,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 
 **Quanti giorni:** almeno una settimana, dormendo in due basi: una nell'interno (Ubud o Munduk) e una sulla costa (Uluwatu).
 
+**In pratica:** tassa turistica di Bali 150.000 IDR a persona, da pagare online sul sito ufficiale Love Bali · Kecak di Uluwatu al tramonto con biglietto a parte: arrivare con un'ora di anticipo per il posto · per l'alba sul Batur si parte verso le 3-4 con una guida locale · a Nyepi l'isola si ferma per 24 ore, aeroporto compreso.
+
 **Per approfondire:** [la scheda di Bali](/destinazioni/indonesia/bali), [Giava, Bali e Gili in 14 giorni](/viaggi/giava-bali-gili), [Bali, Nusa e Komodo in 14 giorni](/viaggi/bali-nusa-komodo).
 
 ### Nusa Penida e Nusa Lembongan
@@ -68,6 +70,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 **Quando andare:** come Bali, aprile-ottobre, con il mare più calmo per le traversate.
 
 **Quanti giorni:** la gita in giornata da Bali si fa, ma con le code. Tre giorni, dormendo sulle isole, permettono di essere ai panorami prima delle barche da Sanur. Io su Penida ho fatto tre notti e l'ho girata tutta con calma: è il ritmo che consiglio.
+
+**In pratica:** barca veloce da Sanur circa 30-45 minuti, da comprare al molo o da un operatore noto · a Kelingking conviene essere entro le 8 · la discesa alla spiaggia è ripida e senza protezioni continue: servono scarpe chiuse · sulle isole tenere contanti in rupie.
 
 **Per approfondire:** [la giornata a Nusa Penida](/esperienze/indonesia/giornata-nusa-penida), [Bali, Nusa e Komodo in 14 giorni](/viaggi/bali-nusa-komodo).
 
@@ -80,6 +84,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 
 **Quanti giorni:** una settimana: tre giorni per il Rinjani, il resto tra le Gili e il sud.
 
+**In pratica:** Rinjani in tre giorni e due notti, con biglietto sull'app E-Rinjani e operatore autorizzato · barca veloce Bali-Gili circa due ore, cancellata con il mare grosso · alle Gili niente mezzi a motore: si gira a piedi, in bici o in cidomo · contanti per Gili Meno e Gili Air, dove i bancomat sono pochi.
+
 **Per approfondire:** [la scheda di Lombok e Gili](/destinazioni/indonesia/lombok-gili), [il trekking al Rinjani](/esperienze/indonesia/trekking-gunung-rinjani), [Giava, Bali e Gili in 14 giorni](/viaggi/giava-bali-gili).
 
 ### Giava
@@ -90,6 +96,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 **Quando andare:** maggio-settembre, con i cieli più tersi per le albe.
 
 **Quanti giorni:** una settimana tra Yogyakarta, Bromo e Ijen.
+
+**In pratica:** biglietto per salire su Borobudur da comprare online con giorni d'anticipo · treni tra Yogyakarta, Surabaya e Probolinggo da prenotare con l'app ufficiale delle ferrovie, Access by KAI · all'Ijen si parte di notte, verso l'una, con guida e maschera antigas; il cratere può chiudere per i gas · al Bromo prima dell'alba fa freddo: servono strati pesanti.
 
 **Per approfondire:** [la scheda di Giava](/destinazioni/indonesia/giava), [l'alba al Bromo in jeep](/esperienze/indonesia/alba-bromo-jeep), [Giava, Bali e Gili in 14 giorni](/viaggi/giava-bali-gili).
 
@@ -102,6 +110,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 
 **Quanti giorni:** almeno una settimana per il nord, tra Bukit Lawang, Berastagi e Toba.
 
+**In pratica:** da Medan a Bukit Lawang circa tre o quattro ore di strada · trekking solo con guida autorizzata, in giornata o con una o due notti in giungla · per Samosir traghetto da Parapat a Tuktuk, meno di un'ora · contanti per i villaggi, i bancomat sono solo nei centri più grandi.
+
 **Per approfondire:** [la scheda di Sumatra](/destinazioni/indonesia/sumatra), [il trekking tra gli oranghi](/esperienze/indonesia/trekking-oranghi-bukit-lawang), [Sumatra e Mentawai in 14 giorni](/viaggi/sumatra-mentawai).
 
 ### Le Mentawai
@@ -112,6 +122,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 **Quando andare:** maggio-settembre. Da novembre a gennaio piove molto.
 
 **Quanti giorni:** una settimana: tre o quattro giorni nella giungla, il resto a Sipora.
+
+**In pratica:** Mentawai Fast da Padang, qualche ora di traversata, con orari da riconfermare il giorno prima · a Siberut servono repellente forte, scarpe da fango e una visita in un centro di medicina dei viaggi prima di partire · contanti per tutto il soggiorno · tassa surf solo per chi surfa.
 
 **Per approfondire:** [la scheda delle Mentawai](/destinazioni/indonesia/mentawai), [Sumatra e Mentawai in 14 giorni](/viaggi/sumatra-mentawai).
 
@@ -124,6 +136,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 
 **Quanti giorni:** tre o quattro giorni per Komodo, una settimana se si aggiunge Flores. Insieme fanno facilmente dieci giorni.
 
+**In pratica:** ingresso al parco 250.000 IDR a persona per gli stranieri · per Padar all'alba la barca parte da Labuan Bajo prima delle 5, oppure si dorme a bordo · scegliere operatori con licenza e giubbotti di salvataggio a bordo · a Wae Rebo si dorme nel villaggio, con la salita a piedi dal paese di Denge.
+
 **Per approfondire:** [la scheda di Komodo](/destinazioni/indonesia/komodo), [la scheda di Flores](/destinazioni/indonesia/flores), [il trekking con i draghi](/esperienze/indonesia/trekking-draghi-komodo), [l'alba al Kelimutu](/esperienze/indonesia/alba-kelimutu), [Bali, Nusa e Komodo in 14 giorni](/viaggi/bali-nusa-komodo).
 
 ### Sulawesi
@@ -134,6 +148,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 **Quando andare:** maggio-ottobre.
 
 **Quanti giorni:** una settimana per Toraja e il nord, di più se si aggiungono altre zone. Toraja da sola chiede tre giorni più i due di strada.
+
+**In pratica:** da Makassar a Rantepao 8-10 ore, i bus notturni sono la soluzione più usata · i grandi funerali toraja si concentrano spesso nei mesi estivi: si va con una guida locale e un piccolo dono per la famiglia · i tarsi di Tangkoko si vedono al tramonto con un ranger · Bunaken a meno di un'ora di barca da Manado.
 
 **Per approfondire:** [la scheda di Sulawesi](/destinazioni/indonesia/sulawesi), [le immersioni a Bunaken](/esperienze/indonesia/diving-bunaken-national-park), [Bali, Sulawesi e Raja Ampat in 12 giorni](/viaggi/bali-sulawesi-raja-ampat).
 
@@ -146,6 +162,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 
 **Quanti giorni:** una settimana come minimo. Con meno, si passa più tempo in viaggio che in acqua.
 
+**In pratica:** traghetto Sorong-Waisai circa 2 ore · permesso del parco da pagare a Sorong o a Waisai, importo 2026 da verificare · prelevare a Sorong tutti i contanti del soggiorno, sulle isole non ci sono bancomat · homestay da prenotare in anticipo, di solito a pensione completa, con i trasferimenti in barca pagati a parte.
+
 **Per approfondire:** [la scheda di Raja Ampat](/destinazioni/indonesia/raja-ampat), [il liveaboard a Raja Ampat](/esperienze/indonesia/diving-liveaboard-raja-ampat), [Bali, Sulawesi e Raja Ampat in 12 giorni](/viaggi/bali-sulawesi-raja-ampat).
 
 ### Il Borneo indonesiano
@@ -156,6 +174,8 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 **Quando andare:** di massima la stagione più secca, da maggio a settembre.
 
 **Quanti giorni:** tre o quattro giorni sul fiume, una settimana con il viaggio.
+
+**In pratica:** klotok di solito per tre giorni e due notti, con pasti e guida compresi · prenotare con un operatore locale e chiedere se il permesso del parco è incluso · ai punti di alimentazione degli oranghi si va negli orari fissati dai ranger · repellente e maniche lunghe per le sere sul fiume.
 
 **Per approfondire:** il [Borneo malese](/destinazioni/borneo), con gli oranghi di Sepilok e il fiume Kinabatangan, per chi vuole il Borneo con più strutture.
 

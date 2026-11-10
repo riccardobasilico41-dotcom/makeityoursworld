@@ -58,6 +58,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 
 **How many days:** at least a week, with two bases: one inland (Ubud or Munduk) and one on the coast (Uluwatu).
 
+**In practice:** Bali tourist levy 150,000 IDR per person, paid online on the official Love Bali site · Kecak at Uluwatu at sunset with a separate ticket: arrive an hour early for a seat · for sunrise on Batur you leave around 3-4 a.m. with a local guide · on Nyepi the island shuts down for 24 hours, airport included.
+
 **Read more:** [the Bali page](/destinations/indonesia/bali), [Java, Bali and the Gilis in 14 days](/trips/java-bali-gili-itinerary), [Bali, the Nusas and Komodo in 14 days](/trips/bali-nusa-penida-komodo-itinerary).
 
 ### Nusa Penida and Nusa Lembongan
@@ -68,6 +70,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 **When to go:** like Bali, April-October, with calmer seas for the crossings.
 
 **How many days:** a day trip from Bali is possible, but with lines. Three days, sleeping on the islands, let you reach the viewpoints before the boats from Sanur. I spent three nights on Penida and explored all of it at an easy pace: that's the rhythm I recommend.
+
+**In practice:** fast boat from Sanur about 30-45 minutes, buy it at the pier or from a known operator · be at Kelingking by 8 a.m. · the descent to the beach is steep with no continuous railings: closed shoes needed · carry cash in rupiah on the islands.
 
 **Read more:** [the Nusa Penida day trip](/experiences/indonesia/nusa-penida-day-trip), [Bali, the Nusas and Komodo in 14 days](/trips/bali-nusa-penida-komodo-itinerary).
 
@@ -80,6 +84,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 
 **How many days:** a week: three days for Rinjani, the rest between the Gilis and the south.
 
+**In practice:** Rinjani in three days and two nights, with the ticket on the E-Rinjani app and an authorized operator · fast boat Bali-Gilis about two hours, cancelled in rough seas · no motor vehicles on the Gilis: on foot, by bike or by cidomo · cash for Gili Meno and Gili Air, where ATMs are few.
+
 **Read more:** [the Lombok and Gili page](/destinations/indonesia/lombok-gili), [the Rinjani trek](/experiences/indonesia/mount-rinjani-trek), [Java, Bali and the Gilis in 14 days](/trips/java-bali-gili-itinerary).
 
 ### Java
@@ -90,6 +96,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 **When to go:** May-September, with the clearest skies for the sunrises.
 
 **How many days:** a week between Yogyakarta, Bromo and Ijen.
+
+**In practice:** buy the ticket to climb Borobudur online days ahead · trains between Yogyakarta, Surabaya and Probolinggo can be booked on the official railway app, Access by KAI · for Ijen you leave at night, around 1 a.m., with a guide and a gas mask; the crater can close because of the gases · at Bromo it's cold before dawn: bring heavy layers.
 
 **Read more:** [the Java page](/destinations/indonesia/java), [Bromo sunrise by jeep](/experiences/indonesia/bromo-sunrise-jeep), [Java, Bali and the Gilis in 14 days](/trips/java-bali-gili-itinerary).
 
@@ -102,6 +110,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 
 **How many days:** at least a week for the north, between Bukit Lawang, Berastagi and Toba.
 
+**In practice:** Medan to Bukit Lawang about three or four hours by road · trekking only with a licensed guide, as a day trip or with one or two nights in the jungle · for Samosir, ferry from Parapat to Tuktuk, under an hour · cash for the villages, ATMs are only in the bigger towns.
+
 **Read more:** [the Sumatra page](/destinations/indonesia/sumatra), [orangutan trekking](/experiences/indonesia/orangutan-trekking-bukit-lawang), [Sumatra and the Mentawai in 14 days](/trips/sumatra-mentawai-itinerary).
 
 ### The Mentawai
@@ -112,6 +122,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 **When to go:** May-September. From November to January it rains a lot.
 
 **How many days:** a week: three or four days in the jungle, the rest on Sipora.
+
+**In practice:** Mentawai Fast from Padang, a few hours' crossing, with times to reconfirm the day before · on Siberut you need strong repellent, mud shoes and a visit to a travel medicine clinic before leaving · cash for the whole stay · surf tax only for surfers.
 
 **Read more:** [the Mentawai page](/destinations/indonesia/mentawai), [Sumatra and the Mentawai in 14 days](/trips/sumatra-mentawai-itinerary).
 
@@ -124,6 +136,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 
 **How many days:** three or four days for Komodo, a week if you add Flores. Together they easily make ten days.
 
+**In practice:** park entry 250,000 IDR per person for foreigners · for sunrise on Padar the boat leaves Labuan Bajo before 5 a.m., or you sleep on board · choose licensed operators with life jackets on board · at Wae Rebo you sleep in the village, walking up from the village of Denge.
+
 **Read more:** [the Komodo page](/destinations/indonesia/komodo), [the Flores page](/destinations/indonesia/flores), [the Komodo dragon trek](/experiences/indonesia/komodo-dragon-trek), [Kelimutu sunrise](/experiences/indonesia/kelimutu-sunrise), [Bali, the Nusas and Komodo in 14 days](/trips/bali-nusa-penida-komodo-itinerary).
 
 ### Sulawesi
@@ -134,6 +148,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 **When to go:** May-October.
 
 **How many days:** a week for Toraja and the north, more if you add other areas. Toraja alone takes three days plus two on the road.
+
+**In practice:** Makassar to Rantepao 8-10 hours, night buses are the most common option · the big Toraja funerals are often concentrated in the summer months: go with a local guide and a small gift for the family · Tangkoko's tarsiers are seen at dusk with a ranger · Bunaken is under an hour by boat from Manado.
 
 **Read more:** [the Sulawesi page](/destinations/indonesia/sulawesi), [diving in Bunaken](/experiences/indonesia/diving-bunaken-national-park), [Bali, Sulawesi and Raja Ampat in 12 days](/trips/bali-sulawesi-raja-ampat-itinerary).
 
@@ -146,6 +162,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 
 **How many days:** a week at the very least. With less, you spend more time traveling than in the water.
 
+**In practice:** Sorong-Waisai ferry about 2 hours · park permit paid in Sorong or Waisai, 2026 amount to be checked · withdraw all the cash for your stay in Sorong, there are no ATMs on the islands · book homestays ahead, usually full board, with boat transfers paid separately.
+
 **Read more:** [the Raja Ampat page](/destinations/indonesia/raja-ampat), [the Raja Ampat liveaboard](/experiences/indonesia/raja-ampat-liveaboard-diving), [Bali, Sulawesi and Raja Ampat in 12 days](/trips/bali-sulawesi-raja-ampat-itinerary).
 
 ### Indonesian Borneo
@@ -156,6 +174,8 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 **When to go:** roughly the driest season, from May to September.
 
 **How many days:** three or four days on the river, a week including travel.
+
+**In practice:** klotok trips usually last three days and two nights, with meals and guide included · book with a local operator and ask whether the park permit is included · go to the orangutan feeding points at the times set by the rangers · repellent and long sleeves for evenings on the river.
 
 **Read more:** [Malaysian Borneo](/destinations/borneo), with the orangutans of Sepilok and the Kinabatangan River, for those who want Borneo with more infrastructure.
 

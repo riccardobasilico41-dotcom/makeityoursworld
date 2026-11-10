@@ -49,6 +49,8 @@ Nel pomeriggio siamo andati a **San Clemente**: una basilica del XII secolo cost
 
 La sera siamo stati a **Monti**, il rione dietro i Fori: vicinissimo, vissuto, senza l'effetto cartolina.
 
+**In pratica:** biglietto del Colosseo valido 24 ore con Foro Romano e Palatino, da comprare solo sul sito ufficiale del Parco archeologico con giorni d'anticipo · i turni con arena o sotterranei finiscono per primi · metro B Colosseo o Cavour · San Clemente: basilica a ingresso libero, scavi sotterranei con biglietto a parte · a Monti, nel weekend, conviene prenotare la cena.
+
 ### Giorno 2 — Vaticano: Musei, Sistina, San Pietro
 È la giornata più faticosa e va organizzata di conseguenza.
 
@@ -62,6 +64,8 @@ Se le gambe reggono, c'è la **cupola**: ascensore fino al terrazzo e poi **la s
 
 Per la sera, **Prati**, che è lì accanto ed è un quartiere vero, oppure **Trastevere**, oltre il fiume.
 
+**In pratica:** Musei Vaticani da prenotare sul sito ufficiale, chiusi la domenica tranne l'ultima del mese (ingresso gratuito e code lunghissime) · tenere almeno tre o quattro ore per il percorso · metro A Ottaviano o Cipro · in San Pietro si entra gratis dopo il controllo di sicurezza, con spalle e ginocchia coperte · la cupola si paga a parte, con l'ascensore qualche euro in più.
+
 ### Giorno 3 — Il centro barocco e la Galleria Borghese
 La mattina abbiamo girato il centro a piedi, nel giro più bello della città. **Piazza Navona** ha la forma dello stadio di Domiziano perché **sotto c'è uno stadio romano**, di cui rimangono parti visitabili, e ospita la **Fontana dei Quattro Fiumi** del Bernini. Il **Pantheon** ha **la più grande cupola in calcestruzzo non armato mai costruita** e la tiene in piedi dal II secolo, con un oculo aperto sul cielo da cui, quando piove, piove dentro. Poi la **Fontana di Trevi** (le regole di accesso negli ultimi anni sono cambiate più volte: conviene controllarle prima) e **Piazza di Spagna** con la scalinata.
 
@@ -73,6 +77,8 @@ Dopo siamo andati a piedi a **Villa Borghese** e al **Pincio al tramonto**, con 
 
 Sera nel **Ghetto**, con i **carciofi alla giudia** se si è nella stagione giusta.
 
+**In pratica:** Pantheon con biglietto di circa 5 euro, meglio prenotato nei weekend · Galleria Borghese chiusa il lunedì, prenotazione obbligatoria sul sito ufficiale e turni di due ore · San Luigi dei Francesi e Sant'Agostino a ingresso libero, ma chiudono a metà giornata: controllare gli orari · i carciofi alla giudia sono di stagione più o meno da febbraio ad aprile.
+
 ### Giorno 4 — La Roma che non finisce sulle cartoline
 È la giornata che separa chi ha visto Roma da chi ne ha visto i monumenti, e va scelta in base ai gusti. Le opzioni sono tre, tutte piene.
 
@@ -83,6 +89,8 @@ Sera nel **Ghetto**, con i **carciofi alla giudia** se si è nella stagione gius
 **Opzione C: Testaccio, Aventino, Domus Aurea.** **Testaccio** con il mercato e la tradizione del **quinto quarto**, il **Cimitero Acattolico** con le tombe di Keats e Shelley e il **Monte dei Cocci**, una collina artificiale fatta di **cinquanta milioni di anfore olearie rotte** accumulate in tre secoli: la discarica dell'antica Roma, diventata rilievo. Poi l'**Aventino** con il **Giardino degli Aranci** e il famoso **buco della serratura del Priorato dei Cavalieri di Malta**, da cui si inquadra la cupola di San Pietro in fondo a un viale di siepi. Se si è riusciti a prenotare, la **Domus Aurea** chiude la giornata: è la villa di Nerone, si visita con il caschetto in un cantiere di restauro permanente e ha una ricostruzione in realtà virtuale della sala ottagona.
 
 Sera a **Trastevere**, ma nelle vie laterali, non su quella centrale.
+
+**In pratica:** all'Appia Antica si arriva con il bus 118, e le bici si noleggiano ai punti informativi del Parco · ogni catacomba ha un giorno di chiusura settimanale diverso: sceglierle in base al calendario · Ostia Antica con il treno Roma-Lido dalla stazione di Porta San Paolo, accanto alla metro Piramide, con biglietto urbano · scavi di Ostia chiusi il lunedì · Domus Aurea solo su prenotazione e in giorni limitati.
 
 ## La versione da due giorni
 Due giorni a Roma funzionano solo se si accetta una regola: **si rinuncia al Vaticano oppure si rinuncia al resto.** Non entrano insieme. Le combinazioni sensate sono due.

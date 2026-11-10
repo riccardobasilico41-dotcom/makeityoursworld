@@ -28,53 +28,69 @@ The ski week is the Italian trip that more than any other gets decided out of ha
 ## Itinerario giorno per giorno
 
 ### Day 1 — Arrival and Picking Up the Gear
-We arrived in the afternoon and picked up the ski pass and rental, both booked online before leaving: it costs less and you skip the first-day line.
+We arrived in the afternoon and picked up the ski pass and rental, both booked online before leaving: it costs less and you skip the first-day line. It's best to drive up the valley in daylight, because the last hairpins towards the high villages are the iciest and they're harder to drive in the dark. At the rental shop, try on boots calmly, wearing the socks you'll use on the snow: *a boot that hurts in the shop will hurt twice as much after three hours on the slopes*, and swapping it straight away costs nothing. If you have your own gear, get it sharpened and waxed that same afternoon so it's ready in the morning.
 
-The first evening was light. The ski week is won on stamina, and whoever goes wild on day one arrives at Thursday wrecked.
+The first evening was light. The ski week is won on stamina, and whoever goes wild on day one arrives at Thursday wrecked. Better a walk in the village, groceries for breakfast if you're in an apartment, and half an hour over the **ski area map** to decide which lift to start from the next morning. It's also the time to download the ski area's official app, which shows open and closed lifts in real time, and to look at the weather and the **avalanche bulletin** for the coming days.
 
 **To check right away:** exactly what the insurance included in the ski pass covers, and whether your own ski liability cover is in order.
 
+**In practice:** chains or winter tyres on board, required by law on most mountain roads · ski pass desks and rental shops close in the late afternoon: check the hours before leaving · full rental set about €25-45 a day, less with the weekly package · the ski pass card may carry a small deposit, refunded when you return it.
+
 ### Day 2 — Warm-Up and Reconnaissance
-It's the day to get to know the ski area: we skied the nearby sectors, looked at where the sun hits at different hours, and scouted the huts.
+It's the day to get to know the ski area: we skied the nearby sectors, looked at where the sun hits at different hours, and scouted the huts. Start with the **blue and red runs** closest to where you're staying, without rushing, to get used to the snow and the gear again: the first runs also tell you whether the boots need tightening or loosening. Keep the map handy, on paper or in the app, and note which lifts are slow and where lines build up mid-morning. *Slopes groomed overnight are at their best in the first hours; after that, moguls and hard patches form on the busiest stretches.*
 
 **A practical tip that works everywhere:** ski the east-facing slope in the morning and the west-facing one in the afternoon, following the sun. On the transformed snow of March the rule matters even more.
 
-Lunch in a mountain hut, which in Italy is half the reason you ski: canederli, polenta, goulash, no self-service.
+Lunch in a mountain hut, which in Italy is half the reason you ski: canederli, polenta, goulash, no self-service. Sit down early, around noon, or after half past one, when the first wave has gone. In the afternoon do a few more runs, but stop before your legs give out: many falls happen at the end of the day, with fatigue and the flat light that erases the shape of the snow. Head back calmly and put the boots to dry, because tomorrow is the long day.
+
+**In practice:** lifts generally open from morning to late afternoon, with hours varying by lift and season: check them in the app · helmets required by law up to age 18 · lunch in a hut a few tens of euros per person · in the evening, pack a light backpack, water and sunscreen for tomorrow.
 
 ### Day 3 — The Sellaronda Loop
-It's the day that makes it worth coming to the Dolomites: the **full loop around the Sella massif**, four passes and four valleys, about 26 kilometers of descents and as many of lifts.
+It's the day that makes it worth coming to the Dolomites: the **full loop around the Sella massif**, four passes and four valleys, about 26 kilometers of descents and as many of lifts. The valleys are **Val Gardena, Alta Badia, Arabba and Val di Fassa**, linked by the **Gardena, Campolongo, Pordoi and Sella** passes: you can join the loop from any village, as long as you get back to your starting point before closing. The runs are mostly blue and red, within reach of a decent skier with trained legs; what tires you is the length, and with stops and lines it takes the whole day.
 
 **You start at nine sharp**, no later. The last lifts close in early afternoon, and anyone who starts late risks ending up on the wrong side of the massif, with two hours of valley bus to get back to the car.
 
-**Counterclockwise** (green signs), the less traveled direction and with fewer lines.
+**Counterclockwise** (green signs), the less traveled direction and with fewer lines. Lunch is halfway round, in a hut on one of the passes, without stretching it too long. *From mid-afternoon, check the time at every lift: if you're running late, it's better to cut the loop and head back by the shortest route.* In a light backpack carry a water bottle, an extra layer for the exposed passes and a charged phone, also useful to follow the route on the map.
 
 **To check the night before:** the wind. It's what closes the pass lifts and interrupts the loop.
+
+**In practice:** you need the Dolomiti Superski pass, a single-valley pass isn't enough · check the status of the pass lifts on the Dolomiti Superski website or app before setting off · follow the Sellaronda signs, green counterclockwise and orange clockwise · a taxi back from the wrong valley costs a lot.
 
 ### Day 4 — Technical Day or Active Rest
 Midweek the legs make themselves felt. There are two ways to go.
 
-For good skiers, a day on a more demanding sector, with black runs and, if conditions allow and you have self-rescue gear, a stretch of off-piste with a guide.
+For good skiers, a day on a more demanding sector, with black runs and, if conditions allow and you have self-rescue gear, a stretch of off-piste with a guide. Do the black runs in the morning, when the snow is firm and your legs are fresh, and leave the afternoon to long reds. Off-piste with a mountain guide or a qualified instructor is booked the day before: the guide decides where to go based on the bulletin and the snow, and sometimes the answer is to stay on the piste. *Seeing others leave the groomed runs tells you nothing about how safe the slope is.*
 
-For anyone who wants to unplug, **snowshoes or cross-country skiing**, which give you the winter mountains in silence, without the effort of the descent. Or a morning at the thermal baths, which are found everywhere in South Tyrol and Trentino.
+For anyone who wants to unplug, **snowshoes or cross-country skiing**, which give you the winter mountains in silence, without the effort of the descent. Or a morning at the thermal baths, which are found everywhere in South Tyrol and Trentino. The best snowshoe walks follow marked trails that are packed in winter, often towards a malga where you can eat; cross-country loops almost always start from the valley floor. The free afternoon is also for servicing the skis and arriving rested for the two days left.
+
+**In practice:** guide or instructor for off-piste to book the day before, with the cost split across the group · snowshoes and poles are rented at the same ski shops · cross-country trails often have a separate ticket from the alpine ski pass · spas and hotel wellness centres: book your entry, especially in the late afternoon.
 
 ### Day 5 — Ski Touring, or the Mountain Without Lifts
-It's the day that changes your relationship with winter. You climb with **climbing skins** under your skis, for two hours, in silence, while a little further on the lifts carry hundreds of people up the same slope. Then you take off the skins and descend on snow no one has touched.
+It's the day that changes your relationship with winter. You climb with **climbing skins** under your skis, for two hours, in silence, while a little further on the lifts carry hundreds of people up the same slope. Then you take off the skins and descend on snow no one has touched. Start early, while the snow is still hard and cold, and aim to be back by early afternoon, before the sun warms it and makes it heavy and less stable on exposed slopes. Keep a steady pace without stopping often, and take breaks where the slope is safe.
 
-**The first time you go with a mountain guide**, after a self-rescue course. Transceiver, shovel and probe are useless if you don't know how to use them, and **avalanche risk is read in a public bulletin and is constantly underestimated**.
+**The first time you go with a mountain guide**, after a self-rescue course. Transceiver, shovel and probe are useless if you don't know how to use them, and **avalanche risk is read in a public bulletin and is constantly underestimated**. The bulletin comes out every day on the 1-to-5 scale and also shows the most dangerous aspects and altitudes: read it the evening before and check it again in the morning. Touring skis with bindings and skins can be rented at specialist shops; the guide often provides the self-rescue kit.
 
 *Risk-free alternative: a marked snowshoe route, which gives ninety percent of the silence with a fraction of the exposure.*
 
+**In practice:** outing with a mountain guide, the cost is split among participants: ask the price when booking · regional avalanche bulletin, for South Tyrol and Trentino the Euregio one at avalanche.report · rental of skis, bindings and skins to book the day before · hot water in a thermos, spare gloves and a dry layer for the descent.
+
 ### Day 6 — The Long Day
-It's the last full day, to be made the most of: first chairlift at opening, when the slopes are freshly groomed and there's nobody there.
+It's the last full day, to be made the most of: first chairlift at opening, when the slopes are freshly groomed and there's nobody there. Be in line for the first ride a few minutes before opening, breakfast already done, and pick an east-facing side, where the light arrives first. It's the moment to repeat the week's favourite runs, the ones that get crowded by mid-morning, or to go back to the sector that looked too demanding on day one. Around eleven, slow down: the rest of the day is for enjoying the mountains.
 
-It's also the day of the **long lunch in a booked mountain hut** (in high season the best ones are booked even for midday). It's what distinguishes Italian skiing from French: here you sit down.
+It's also the day of the **long lunch in a booked mountain hut** (in high season the best ones are booked even for midday). It's what distinguishes Italian skiing from French: here you sit down. In the afternoon, after lunch, a few easy runs down to the valley are enough, without chasing the last lift.
 
-For anyone with energy left there's **night skiing**, where the lit slopes stay open.
+For anyone with energy left there's **night skiing**, where the lit slopes stay open. Otherwise the last evening is for dinner at a village trattoria and packing.
+
+**In practice:** book the hut by phone the day before, asking for a table in the sun · night skiing exists only in some resorts and on some evenings of the week, with a separate ticket: check at the tourist office · in the evening, settle any extras at your accommodation so you leave lighter the next morning.
 
 ### Day 7 — Last Morning and Return
-Half a day on skis, returning the rental and departure. Half-day rates exist and are worth using.
+Half a day on skis, returning the rental and departure. Half-day rates exist and are worth using. First leave the bags in the car or in the hotel's storage, because check-out is usually in the morning, then a few runs on the nearby slopes, without going too far from the village. *The last morning isn't the time to try the black run you avoided all week: with tired legs and your mind on the road, it's when people get hurt.*
+
+Around noon return skis and boots, collect any deposit on the pass card and get changed. If you leave in the afternoon there's time for a last lunch in the village before hitting the road.
 
 **To factor in:** Saturday morning, on the return roads from the Alpine valley floors, there is always traffic. Either you leave very early or you leave in the afternoon.
+
+**In practice:** check whether the ski pass package already covers the last day before buying a half-day pass · return the rental by the agreed time · ask the hotel for luggage storage or use of the changing rooms after check-out · check traffic and chain requirements on the motorway apps and websites before leaving.
 
 ## What to see / what to do
 - **Choose the date before the place.** January after Epiphany is worth a forty percent discount on the exact same trip.

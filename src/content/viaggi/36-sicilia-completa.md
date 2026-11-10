@@ -40,6 +40,8 @@ La prima passeggiata l'abbiamo fatta sull'asse dei **Quattro Canti**, l'incrocio
 
 La prima sera è stata di **street food**: **panelle** di farina di ceci, **crocchè**, **sfincione**, e **pane ca meusa** per chi se la sente, un panino con milza e polmone di vitello, bollito e poi passato nella sugna, "schietto" con il limone o "maritato" con ricotta e caciocavallo. È il cibo di strada più antico della città e non ha mezze misure.
 
+**In pratica:** dall'aeroporto al centro di Palermo circa 45 minuti tra navetta, treno o auto · auto in un garage o in un parcheggio custodito per i primi giorni · ZTL attiva nel centro storico · street food la sera nei mercati storici, in contanti.
+
 ### Giorno 2 — Palermo arabo-normanna
 È la giornata che spiega la Sicilia meglio di qualunque altra.
 
@@ -51,6 +53,8 @@ Poi **San Giovanni degli Eremiti** con le **cinque cupole rosse** e il chiostro,
 
 Nel pomeriggio siamo stati negli **oratori del Serpotta**, piccoli ambienti di confraternita rivestiti per intero di **stucchi bianchi** (figure allegoriche, putti, teatrini), di una virtuosità che va vista da vicino. Sono in vie laterali e quasi sempre vuoti.
 
+**In pratica:** Cappella Palatina con il percorso che cambia il venerdì, il sabato e la domenica, da controllare prima · biglietti separati per Palazzo dei Normanni, Cattedrale (tombe e tetti), San Giovanni degli Eremiti e Martorana · spalle e ginocchia coperte nelle chiese · tutto a piedi.
+
 ### Giorno 3 — I mercati, le Catacombe, Palazzo Abatellis
 La mattina l'abbiamo passata in uno dei **mercati storici**, **Ballarò**, il **Capo** o la **Vucciria**, che sono il lascito più visibile dei secoli arabi: l'impianto a suq, l'**abbanniata** (il grido dei venditori, che è una forma di canto), le bancarelle di cottura in mezzo alla strada. Ballarò è il più vivo e il meno addomesticato.
 
@@ -60,12 +64,16 @@ Il pomeriggio siamo andati a **Palazzo Abatellis**, la galleria regionale. C'è 
 
 La sera, il **Teatro Massimo**, se c'è spettacolo: è **il più grande teatro lirico d'Italia** e si visita anche di giorno.
 
+**In pratica:** mercati storici al meglio la mattina · Catacombe con biglietto, foto non consentite · orari di Palazzo Abatellis e del Teatro Massimo da controllare sui siti ufficiali, il teatro si visita con visita guidata · ai mercati occhio al portafoglio.
+
 ### Giorno 4 — Monreale e Cefalù
 La mattina siamo saliti a **Monreale**, a pochi chilometri sopra Palermo. Il **Duomo** ha **circa seimila metri quadrati di mosaici a fondo d'oro** che coprono per intero le pareti, con un **Cristo Pantocratore** nell'abside la cui mano, da sola, è alta quanto una persona. È il ciclo musivo medievale più esteso d'Italia. Il **chiostro** accanto ha **228 colonnine binate**, ognuna con capitello e decorazione diversi, in un cortile quadrato con una fontana araba nell'angolo. Va dato tempo a entrambi.
 
 Il pomeriggio siamo andati a **Cefalù**, sulla costa nord, un'ora scarsa di autostrada. C'è un'altra **cattedrale normanna** con un altro **Pantocratore**, più antico di quello di Monreale e, per molti, più bello; un centro storico stretto tra la montagna e il mare; il **lavatoio medievale** dove l'acqua scorre ancora; e la **Rocca**, che si sale in un'ora per la vista.
 
 Poi si rientra a Palermo oppure, per chi preferisce, si passa la prima notte spostandosi già verso ovest.
+
+**In pratica:** Monreale a mezz'ora d'auto da Palermo, anche in autobus · chiostro con biglietto a parte rispetto al Duomo · Cefalù un'ora scarsa di autostrada, parcheggio fuori dal centro storico · Rocca un'ora di salita, con acqua e scarpe chiuse.
 
 ### Giorno 5 — Segesta, Erice e Trapani
 Abbiamo lasciato Palermo e siamo andati a ovest.
@@ -76,6 +84,8 @@ Poi siamo saliti a **Erice**, borgo medievale a **circa 750 metri** su un monte 
 
 Notte a **Trapani** o dintorni.
 
+**In pratica:** Segesta con biglietto, navetta a pagamento fino al teatro · Erice in auto o in funivia da Trapani, che si ferma con il vento forte · un maglione anche d'estate per la nebbia di Erice · notte a Trapani o dintorni.
+
 ### Giorno 6 — Le saline, Mozia e Marsala
 È la giornata più strana dell'itinerario, e una delle più belle.
 
@@ -84,6 +94,8 @@ Le **saline tra Trapani e Marsala** sono vasche poco profonde separate da argini
 In mezzo alla laguna c'è **Mozia**, un'isola piccola e piatta su cui i **Fenici** fondarono una colonia nell'VIII secolo a.C. Ci siamo arrivati con un breve tragitto in barca, e l'isola si gira a piedi in un paio d'ore: ci sono le mura, il **cothon** (un bacino portuale artificiale), il **tofet** e, nel museo, il **Giovinetto di Mozia**, una statua greca in marmo di un giovane con una tunica plissettata aderente, di una qualità che in Sicilia occidentale non ci si aspetta. C'è anche, sotto pochi centimetri d'acqua, una **strada sommersa** che collegava l'isola alla terraferma e su cui in certe condizioni si può ancora camminare.
 
 Il pomeriggio siamo andati a **Marsala**, che dà il nome al vino. Fu un mercante inglese, alla fine del Settecento, a capire che il vino locale fortificato reggeva i viaggi per mare, e da lì è nata un'industria. **Le cantine storiche si visitano su appuntamento.** A Marsala sbarcarono anche **i Mille di Garibaldi**, nel 1860.
+
+**In pratica:** saline al tramonto · barca per Mozia dall'imbarcadero sullo Stagnone, pochi minuti, con biglietto del museo a parte · un paio d'ore per l'isola · cantine di Marsala solo su appuntamento.
 
 ### Giorno 7 — Lo Zingaro, Scopello e San Vito Lo Capo
 Giornata di costa e di cammino.
@@ -94,6 +106,8 @@ All'ingresso sud c'è **Scopello**, con il **baglio** e la **tonnara** affacciat
 
 Nel pomeriggio siamo arrivati a **San Vito Lo Capo**, con la spiaggia di sabbia chiara sotto il Monte Monaco e il **couscous**, che qui è di pesce, si cuoce a vapore nella **cuscusiera** e viene dalla tradizione nordafricana passata attraverso i pescatori. **A settembre c'è un festival dedicato** che riempie il paese.
 
+**In pratica:** Zingaro con biglietto d'ingresso, ingressi nord da San Vito e sud da Scopello · percorso completo circa quattro ore andata e ritorno · acqua e cibo al seguito, scarpe da sentiero · d'estate si parte all'alba · a San Vito couscous di pesce, festival a settembre.
+
 ### Giorno 8 — Selinunte e le Cave di Cusa
 Siamo scesi lungo la costa meridionale.
 
@@ -102,6 +116,8 @@ Siamo scesi lungo la costa meridionale.
 A pochi chilometri ci sono le **Cave di Cusa**, che quasi nessuno visita e che sono la cosa più impressionante della zona. È la cava da cui venivano i blocchi di Selinunte, e **quando i Cartaginesi distrussero la città nel 409 a.C. il lavoro si fermò di colpo**. Sono rimasti sul posto **i rocchi di colonna a metà estrazione**, ancora attaccati alla roccia madre, con il solco circolare scavato intorno, e altri già staccati e pronti per il trasporto. Sono lì da duemilaquattrocento anni, esattamente come li hanno lasciati.
 
 Sera verso **Agrigento** o **Sciacca**.
+
+**In pratica:** Selinunte mezza giornata, distanze interne lunghe tra acropoli e collina orientale · entrare all'apertura, niente ombra · Cave di Cusa a pochi chilometri, orari ridotti da controllare · sera verso Agrigento o Sciacca.
 
 ### Giorno 9 — Agrigento e la Valle dei Templi
 La **Valle dei Templi** è la ragione per cui la Sicilia è nella lista di mezzo mondo. È un crinale lungo con una fila di templi dorici del V secolo a.C., non una valle: il nome è un errore di traduzione ottocentesco.
@@ -112,6 +128,8 @@ La **Valle dei Templi** è la ragione per cui la Sicilia è nella lista di mezzo
 
 Da non saltare: il **Museo Archeologico**, con il telamone ricomposto, e il **Giardino della Kolymbethra**, un giardino agrumicolo dentro l'area archeologica (in origine una grande vasca di raccolta idrica di epoca greca), **gestito dal FAI**, in cui non entra quasi nessuno e dove si cammina all'ombra tra gli agrumi con i templi sopra la testa.
 
+**In pratica:** Valle dei Templi con biglietto cumulativo con il Museo Archeologico · d'estate aperture serali, da controllare · Kolymbethra del FAI con biglietto a parte · due ingressi e parcheggi alle due estremità del crinale · acqua e cappello.
+
 ### Giorno 10 — La Scala dei Turchi e l'interno
 La mattina siamo andati alla **Scala dei Turchi**, la falesia di **marna bianca** che scende a gradoni nel mare, **con l'avvertenza che l'accesso è stato regolamentato e in certi periodi completamente interdetto** per l'erosione e per atti vandalici: **conviene controllarne lo stato prima di andarci**, e rispettarlo.
 
@@ -121,12 +139,16 @@ Poi siamo saliti verso l'interno, la parte che quasi tutti saltano e che cambia 
 
 Se resta tempo, **Caltagirone** con la scalinata di **142 gradini in ceramica** dipinta, ognuno diverso, o **Enna**, al centro geografico esatto della Sicilia, a 900 metri, da cui nelle giornate limpide si vede l'Etna.
 
+**In pratica:** Scala dei Turchi con accesso da verificare prima di partire · da Agrigento a Piazza Armerina circa due ore d'auto · Villa Romana del Casale con biglietto, meglio al mattino · Caltagirone o Enna solo se resta luce.
+
 ### Giorno 11 — Ragusa Ibla e l'arrivo nel barocco
 Siamo entrati nel **Val di Noto**, patrimonio UNESCO: **otto città ricostruite dopo il terremoto del 1693**, tutte nello stesso stile e nello stesso momento, un caso unico di pianificazione urbana barocca su scala regionale.
 
 **Ragusa** è la porta d'ingresso giusta, perché ha una particolarità: **fu ricostruita due volte**. Una parte della popolazione rifece la città sullo stesso sperone di roccia, ed è **Ibla**, un labirinto di vicoli e scalinate; un'altra parte la rifece su un pianoro vicino, secondo criteri più moderni, ed è **Ragusa superiore**. Si scende dall'una all'altra per scalinate lunghissime, con il panorama che si apre.
 
 **Ibla** al tramonto, con il **Duomo di San Giorgio** in cima alla scalinata e il **Giardino Ibleo** in fondo allo sperone, è il pezzo più bello del barocco siciliano.
+
+**In pratica:** ZTL a Ragusa Ibla, si parcheggia fuori e si scende a piedi · scarpe comode per le scalinate tra Ragusa superiore e Ibla · Ibla al tramonto · per dormire, Ibla o la campagna intorno.
 
 ### Giorno 12 — Modica, Scicli e Noto
 È la giornata delle altre tre, tutte a venti chilometri l'una dall'altra, da fare senza fretta.
@@ -137,6 +159,8 @@ Siamo entrati nel **Val di Noto**, patrimonio UNESCO: **otto città ricostruite 
 
 **Noto** è la più scenografica, costruita tutta in **pietra calcarea locale che al tramonto diventa dorata**: il corso è una sequenza continua di chiese e palazzi con i balconi sostenuti da mensole scolpite a mostri e cavalli. **È la città più fotografata del barocco siciliano e va vista nell'ora giusta.**
 
+**In pratica:** una ventina di chilometri tra una città e l'altra · ZTL a Modica e Noto, parcheggi a pagamento ai margini del centro · cioccolato di Modica nelle botteghe storiche, con assaggi · Noto nell'ultima luce del giorno.
+
 ### Giorno 13 — Vendicari e arrivo a Siracusa
 La mattina siamo stati alla **Riserva di Vendicari**, una delle zone costiere meglio conservate della Sicilia: le **saline**, la **tonnara abbandonata** con la ciminiera sulla spiaggia, gli acquitrini e le spiagge di sabbia. **In primavera e in autunno ci sono i fenicotteri**, e la riserva è un punto di sosta sulla rotta migratoria tra Europa e Africa. Poco più a sud c'è la spiaggia di **Calamosche**, in una baia chiusa tra due promontori, raggiungibile solo a piedi.
 
@@ -144,12 +168,16 @@ Nel pomeriggio ci siamo trasferiti a **Siracusa** e sistemati a **Ortigia**, l'i
 
 La sera, il **mercato di Ortigia** e la cena con i **ricci**, che qui sono la specialità.
 
+**In pratica:** Vendicari con più ingressi e sentieri tra spiagge e saline · Calamosche solo a piedi, una ventina di minuti dal parcheggio · binocolo per i fenicotteri · a Ortigia ZTL, auto in un parcheggio di scambio e poi a piedi · ricci da cercare in stagione.
+
 ### Giorno 14 — Siracusa
 **Siracusa fu, per un lungo periodo, la città più potente del mondo greco**, più grande di Atene, e il **Parco archeologico della Neapolis** ne conserva le tracce: il **teatro greco** scavato nella roccia viva; l'**Orecchio di Dionisio**, una cavità artificiale alta ventitré metri con un'acustica straordinaria, a cui Caravaggio diede il nome dicendo che assomigliava a un padiglione auricolare; e l'**Ara di Ierone**, il più grande altare dell'antichità.
 
 Poi abbiamo girato **Ortigia** a piedi. Il **Duomo** è l'edificio più straordinario della città perché è un **tempio dorico del V secolo a.C. trasformato in chiesa**: **le colonne greche sono ancora lì, inglobate nei muri**, e si toccano con la mano entrando in una chiesa barocca. Poi la **Fonte Aretusa**, una sorgente d'acqua dolce a due metri dal mare con il **papiro** che cresce spontaneo, e il **Castello Maniace** sulla punta.
 
 Chi ha tempo può aggiungere il **Museo Paolo Orsi**, uno dei più importanti musei archeologici d'Italia, e la chiesa di **Santa Lucia alla Badia** con il **Seppellimento di Santa Lucia** di **Caravaggio**, dipinto durante la sua fuga da Malta.
+
+**In pratica:** Neapolis con biglietto, cumulativo con il Museo Paolo Orsi · dalla Neapolis a Ortigia una mezz'ora a piedi o pochi minuti d'auto · Duomo con biglietto · il Caravaggio di Santa Lucia alla Badia è in piazza Duomo · mattina presto alla Neapolis, d'estate non c'è ombra.
 
 ### Giorno 15 — L'Etna
 Ci siamo spostati verso il vulcano, per la giornata per cui si viene a est.
@@ -160,6 +188,8 @@ Ci siamo spostati verso il vulcano, per la giornata per cui si viene a est.
 
 Nel pomeriggio ci sono i **crateri Silvestri** a quota bassa, gratuiti e raggiungibili in auto, oppure una **cantina dell'Etna su appuntamento**. Le viti qui sono spesso **a piede franco**, perché sul suolo lavico la **fillossera** non è mai arrivata, e ci sono ceppi di oltre cento anni. In vent'anni l'Etna è diventato uno dei territori vinicoli più interessanti d'Europa, e vale la pena capirne il motivo sul posto.
 
+**In pratica:** bollettino INGV la sera prima · funivia dal Rifugio Sapienza, poi fuoristrada e guida, da prenotare · scarpe da trekking, giacca a vento, strati · crateri Silvestri gratuiti · cantine dell'Etna solo su appuntamento.
+
 ### Giorno 16 — Taormina e le Gole dell'Alcantara
 Siamo arrivati a **Taormina** al mattino presto, prima dei pullman. Il **teatro greco-romano** affacciato sull'Etna e sul mare è una delle scenografie più spettacolari del Mediterraneo, e il fatto che i Greci lo abbiano orientato così non è un caso. In alta stagione il paese è saturo e ha prezzi da un'altra regione; a metà mattina è già ingestibile.
 
@@ -167,12 +197,16 @@ Il pomeriggio siamo stati alle **Gole dell'Alcantara**, il canyon di **basalto c
 
 Ultima sera a **Catania** o sul versante etneo.
 
+**In pratica:** Taormina con ZTL, auto nei parcheggi pubblici sotto il paese e navetta o scale · teatro all'apertura · Gole dell'Alcantara con accessi diversi, alcuni a pagamento, e scarpe da acqua · ultima sera a Catania o sull'Etna.
+
 ### Giorno 17 — Catania e partenza
 L'ultima mattina l'abbiamo passata a **Catania**, che divide: è viva, caotica, costruita tutta in **pietra lavica nera** dopo il terremoto del 1693, e meno bella di Palermo. Va presa per quello che è.
 
 C'è il **mercato della Pescheria**, in una piazza dietro il Duomo, uno dei mercati del pesce più teatrali d'Italia; la **Via dei Crociferi** con le chiese barocche in fila; e la **Piazza del Duomo** con l'elefante di pietra lavica.
 
 Ultima granita con la brioche, ultimi acquisti (**pistacchio di Bronte**, cioccolato di Modica, capperi, vino dell'Etna, sale delle saline di Trapani) e volo da Catania.
+
+**In pratica:** Pescheria solo la mattina, chiusa la domenica · centro di Catania tutto a piedi, auto da lasciare fuori dalla ZTL · aeroporto a una ventina di minuti dal centro · riconsegna dell'auto one-way con margine prima del volo.
 
 ## Come accorciarlo
 - **In 10 giorni si fa una metà**, ed è il consiglio che vale per la maggior parte delle persone: l'**orientale** (Etna, Siracusa, Val di Noto, Agrigento) è la scelta giusta la prima volta, e ha un itinerario dedicato sul sito.

@@ -37,12 +37,16 @@ Nel pomeriggio siamo scesi verso il **Ponte delle Catene** (Széchenyi lánchíd
 
 La sera abbiamo camminato nel centro di Pest, per prendere le misure della città prima dei giorni successivi.
 
+**In pratica:** dal centro di Pest al castello con il bus 16 o la funicolare Budavári Sikló da piazza Clark Ádám, che d'estate ha spesso coda · la terrazza alta del Bastione dei Pescatori e la Chiesa di Mattia hanno biglietti separati e costano poche migliaia di fiorini · si cammina molto in salita e sul selciato: scarpe comode.
+
 ### Giorno 2 — Il Parlamento e il quartiere ebraico
 La mattina l'abbiamo dedicata al **Parlamento ungherese** (Országház), completato nel 1904, tra gli edifici parlamentari più grandi al mondo. Il tour guidato (da prenotare con anticipo) porta nelle sale principali e fino alla Sacra Corona di Santo Stefano, custodita sotto la cupola centrale.
 
 Nel primo pomeriggio siamo andati alla **Grande Sinagoga di Via Dohány**, in stile moresco, la più grande d'Europa e la seconda al mondo dopo quella di New York. Nel giardino memoriale c'è l'**Albero della Vita** di Imre Varga, una scultura in metallo a forma di salice piangente dedicata alle vittime ungheresi della Shoah: uno dei luoghi più sobri e importanti della città.
 
 Nel tardo pomeriggio siamo entrati nel **quartiere ebraico** (Erzsébetváros), oggi il centro dei ruin bar, per una prima esplorazione a piedi tra le vie, prima di tornarci la sera per il giro dei locali (vedi la scheda esperienza dedicata).
+
+**In pratica:** Parlamento circa 7.000 fiorini per i cittadini UE, tour di circa 45 minuti in orari e lingue fissi, biglietti online da prenotare con giorni di anticipo · documento d'identità all'ingresso · la Grande Sinagoga chiude il sabato e nelle festività ebraiche, spalle coperte per entrare.
 
 ### Giorno 3 — Le terme: Széchenyi o Gellért
 Abbiamo tenuto una giornata a parte per l'esperienza più caratteristica di Budapest: le **terme**. Le **Terme di Széchenyi**, nel Parco cittadino, sono il complesso più grande d'Europa, con tre vasche esterne calde tutto l'anno; d'inverno il vapore che sale dall'acqua tra la neve è probabilmente l'immagine più famosa della città. Le **Terme di Gellért**, ai piedi del colle omonimo sul lato Buda, sono l'alternativa in stile Art Nouveau, più raccolte ed eleganti, con mosaici e vetrate colorate intorno alla vasca principale.
@@ -51,18 +55,22 @@ Tra spogliatoio, code per gli armadietti e tempo nelle vasche, conviene mettere 
 
 Nel pomeriggio, chi ha scelto Széchenyi ha intorno il **Parco cittadino** (Városliget), con il Castello di Vajdahunyad e Piazza degli Eroi; chi ha scelto Gellért può salire sul **colle Gellért** e alla Cittadella, per un altro panorama sulla città e sul Danubio.
 
+*Attenzione: le Terme Gellért sono chiuse per un restauro di più anni dal 1° ottobre 2025 e la riapertura non è prevista prima del 2028; sul lato Buda l'alternativa più vicina oggi sono le Terme Rudas.*
+
+**In pratica:** Széchenyi con la metro gialla M1 fino a Széchenyi fürdő · biglietto giornaliero con armadietto intorno ai 30-40 euro a seconda del giorno, meno caro online e nei giorni feriali · costume, ciabatte e asciugamano da portare (o noleggiare) · mattina presto o tardo pomeriggio sono le fasce meno affollate.
+
 ### Giorno 4 — Danubio, Isola Margherita e l'ultimo giro
-La mattina siamo andati all'**Isola Margherita** (Margitsziget), il parco senza traffico in mezzo al Danubio, con la fontana musicale e le sue terme minori: un ritmo più lento dopo tre giorni di città.
+La mattina siamo andati all'**Isola Margherita** (Margitsziget), il parco senza traffico in mezzo al Danubio, con la fontana musicale e le sue terme minori: un ritmo più lento dopo tre giorni di città. Si entra dal lato sud, dal **Ponte Margherita**, e si può percorrere l'isola a piedi o in bici a noleggio, passando per il giardino giapponese, la torre dell'acqua e le rovine del convento domenicano dove visse santa Margherita. *Gli spettacoli della fontana musicale si tengono nella bella stagione: d'inverno l'isola resta piacevole, ma più spoglia.*
 
-Nel primo pomeriggio siamo tornati verso il centro per l'ultimo giro: la salita alla **Cupola della Basilica di Santo Stefano**, con il panorama sui tetti di Pest, e una sosta al **Mercato Centrale** per gli ultimi acquisti tra spezie, paprika e souvenir.
+Nel primo pomeriggio siamo tornati verso il centro per l'ultimo giro: la salita alla **Cupola della Basilica di Santo Stefano**, con il panorama sui tetti di Pest, e una sosta al **Mercato Centrale** per gli ultimi acquisti tra spezie, paprika e souvenir. Al piano superiore del mercato ci sono i banchi del lángos e dei piatti ungheresi, comodi per un pranzo tardivo. In serata, il modo più semplice per chiudere il weekend è una **crociera o una passeggiata lungo il Danubio**, per vedere dall'acqua il Parlamento e il Castello di Buda illuminati: le luci si accendono al tramonto, l'ora migliore per salire a bordo.
 
-In serata, il modo più semplice per chiudere il weekend è una **crociera o una passeggiata lungo il Danubio**, per vedere dall'acqua il Parlamento e il Castello di Buda illuminati.
+**In pratica:** Isola Margherita con i tram 4 e 6 fino al Ponte Margherita, oppure con il bus 26 che la attraversa · cupola della Basilica raggiungibile a piedi o in ascensore, biglietto a parte di qualche migliaio di fiorini, la domenica la chiesa apre solo nel pomeriggio · Mercato Centrale chiuso la domenica e il sabato fino al primo pomeriggio · crociere serali di circa un'ora, meglio prenotare d'estate.
 
 ## Cosa vedere / cosa fare
 - **Il Bastione dei Pescatori** e la Chiesa di Mattia, sul colle di Buda.
 - **Il Parlamento ungherese**, con il tour guidato interno o dalla riva opposta del Danubio.
 - **La Grande Sinagoga di Via Dohány** e l'Albero della Vita nel giardino memoriale.
-- **Le Terme di Széchenyi o di Gellért**, dedicandoci almeno due ore e mezza.
+- **Le Terme di Széchenyi** (o Rudas, con Gellért chiuse fino al 2028), dedicandoci almeno due ore e mezza.
 - **Il Ponte delle Catene**, attraversato a piedi al tramonto.
 - **I ruin bar del quartiere ebraico**, a partire dallo Szimpla Kert.
 - **L'Isola Margherita**, per un pomeriggio più lento.

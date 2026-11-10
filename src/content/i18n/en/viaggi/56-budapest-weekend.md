@@ -37,12 +37,16 @@ In the afternoon we went down toward the **Chain Bridge** (Széchenyi lánchíd)
 
 In the evening we walked around the center of Pest, to get the measure of the city before the following days.
 
+**In practice:** from central Pest to the castle by bus 16 or by the Budavári Sikló funicular from Clark Ádám Square, which often has a queue in summer · the upper terrace of the Fisherman's Bastion and Matthias Church have separate tickets costing a few thousand forints · a lot of uphill walking on cobbles: comfortable shoes.
+
 ### Day 2 — The Parliament and the Jewish Quarter
 We devoted the morning to the **Hungarian Parliament** (Országház), completed in 1904, among the largest parliament buildings in the world. The guided tour (to be booked in advance) takes you into the main halls and up to the Holy Crown of Saint Stephen, kept under the central dome.
 
 In the early afternoon we went to the **Great Synagogue on Dohány Street**, in Moorish style, the largest in Europe and the second in the world after the one in New York. In the memorial garden is Imre Varga's **Tree of Life**, a metal sculpture in the shape of a weeping willow dedicated to the Hungarian victims of the Shoah: one of the most sober and important places in the city.
 
 In the late afternoon we entered the **Jewish Quarter** (Erzsébetváros), now the center of the ruin bars, for a first exploration on foot through the streets, before going back in the evening for the tour of the venues (see the dedicated experience page).
+
+**In practice:** Parliament about 7,000 forints for EU citizens, tour of about 45 minutes at fixed times and languages, tickets to book online several days ahead · ID required at the entrance · the Great Synagogue closes on Saturdays and Jewish holidays, shoulders covered to enter.
 
 ### Day 3 — The Baths: Széchenyi or Gellért
 We kept a day apart for the most characteristic experience of Budapest: the **baths**. The **Széchenyi Baths**, in the City Park, are the largest complex in Europe, with three outdoor pools that are hot all year round; in winter the steam rising from the water among the snow is probably the most famous image of the city. The **Gellért Baths**, at the foot of the hill of the same name on the Buda side, are the Art Nouveau alternative, more intimate and elegant, with mosaics and colored stained glass around the main pool.
@@ -51,18 +55,22 @@ Between changing room, locker queues and time in the pools, it's best to allow *
 
 In the afternoon, those who chose Széchenyi have the **City Park** (Városliget) around them, with Vajdahunyad Castle and Heroes' Square; those who chose Gellért can climb **Gellért Hill** and the Citadel, for another panorama over the city and the Danube.
 
+*Note: the Gellért Baths closed on 1 October 2025 for a renovation lasting several years, and reopening is not expected before 2028; on the Buda side the nearest alternative today is the Rudas Baths.*
+
+**In practice:** Széchenyi by the yellow metro line M1 to Széchenyi fürdő · day ticket with locker around 30-40 euros depending on the day, cheaper online and on weekdays · bring (or rent) swimsuit, flip-flops and towel · early morning or late afternoon are the least crowded times.
+
 ### Day 4 — Danube, Margaret Island and the Last Round
-In the morning we went to **Margaret Island** (Margitsziget), the car-free park in the middle of the Danube, with the musical fountain and its smaller baths: a slower pace after three days of city.
+In the morning we went to **Margaret Island** (Margitsziget), the car-free park in the middle of the Danube, with the musical fountain and its smaller baths: a slower pace after three days of city. You enter from the south end, from **Margaret Bridge**, and can cross the island on foot or by rented bike, past the Japanese garden, the water tower and the ruins of the Dominican convent where Saint Margaret lived. *The musical fountain shows run in the warm season: in winter the island is still pleasant, but barer.*
 
-In the early afternoon we headed back toward the center for the last round: the climb to the **Dome of Saint Stephen's Basilica**, with the panorama over the rooftops of Pest, and a stop at the **Central Market Hall** for last purchases among spices, paprika and souvenirs.
+In the early afternoon we headed back toward the center for the last round: the climb to the **Dome of Saint Stephen's Basilica**, with the panorama over the rooftops of Pest, and a stop at the **Central Market Hall** for last purchases among spices, paprika and souvenirs. The upper floor of the market has stalls selling lángos and Hungarian dishes, handy for a late lunch. In the evening, the easiest way to end the weekend is a **cruise or a walk along the Danube**, to see the Parliament and Buda Castle lit up from the water: the lights come on at sunset, the best time to board.
 
-In the evening, the easiest way to end the weekend is a **cruise or a walk along the Danube**, to see the Parliament and Buda Castle lit up from the water.
+**In practice:** Margaret Island by trams 4 and 6 to Margaret Bridge, or by bus 26, which crosses it · the Basilica dome is reached on foot or by lift, separate ticket of a few thousand forints, on Sundays the church opens only in the afternoon · Central Market Hall closed on Sundays and open only until early afternoon on Saturdays · evening cruises last about an hour, best booked in summer.
 
 ## What to see / what to do
 - **The Fisherman's Bastion** and Matthias Church, on Buda Hill.
 - **The Hungarian Parliament**, with the interior guided tour or from the opposite bank of the Danube.
 - **The Great Synagogue on Dohány Street** and the Tree of Life in the memorial garden.
-- **The Széchenyi or Gellért Baths**, devoting at least two and a half hours.
+- **The Széchenyi Baths** (or Rudas, with Gellért closed until 2028), devoting at least two and a half hours.
 - **The Chain Bridge**, crossed on foot at sunset.
 - **The ruin bars of the Jewish Quarter**, starting with Szimpla Kert.
 - **Margaret Island**, for a slower afternoon.

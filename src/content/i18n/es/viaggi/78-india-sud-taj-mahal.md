@@ -33,10 +33,14 @@ El sur de India es casi otro país. Se hablan otras lenguas, se come sobre hojas
 ### Día 1 — Llegada a Delhi y la Vieja Delhi
 Al aeropuerto Indira Gandhi se llega casi siempre de noche o de madrugada. Para el centro están el taxi de prepago del mostrador oficial, Uber o el traslado del hotel: *quien a la salida dice que tu hotel está cerrado o lleno solo busca una comisión por otro*. Tras unas horas de descanso, la tarde es para la **Vieja Delhi**, en metro hasta Chandni Chowk: la **Jama Masjid**, la mayor mezquita de India, los callejones en ciclo-rickshaw, el mercado de especias de Khari Baoli y las parathas fritas de Paranthe Wali Gali. Conviene volver antes de que anochezca.
 
+El metro Airport Express sale de la Terminal 3 y llega a Nueva Delhi en unos veinte minutos; desde allí la línea amarilla lleva a Chandni Chowk en pocos minutos. En la **Jama Masjid** se puede subir a uno de los minaretes con una pequeña entrada, para ver desde arriba los tejados de la ciudad vieja y el Fuerte Rojo. *El Fuerte Rojo cierra los lunes: quien quiera añadirlo, que compruebe el día de llegada.* Para comer con seguridad conviene elegir los puestos más concurridos, donde la comida se renueva rápido, y beber solo agua embotellada y precintada.
+
 **En la práctica:** metro Airport Express hasta Nueva Delhi en unos 20 minutos · Jama Masjid cerrada a los turistas durante la oración · ciclo-rickshaw 300-500 rupias por trayecto, precio que hay que fijar antes.
 
 ### Día 2 — Delhi: Humayun, Qutub Minar y Nueva Delhi
 A primera hora, la **Tumba de Humayun**, el mausoleo mogol que inspiró el Taj Mahal, con los jardines todavía casi vacíos. Luego el **Qutub Minar**, el minarete de arenisca del siglo XII al sur de la ciudad, con la columna de hierro que no se oxida. Por la tarde, la Nueva Delhi británica, con el India Gate y la avenida de Kartavya Path, y el **Gurudwara Bangla Sahib**, el templo sij donde cualquiera puede entrar con la cabeza cubierta y comer gratis en el comedor comunitario.
+
+La Tumba de Humayun abre al amanecer, el mejor momento por la luz y el fresco; entre Humayun y el Qutub Minar hay de cuarenta minutos a una hora de carretera según el tráfico, así que conviene seguir un orden y no volver atrás. La India Gate por la noche está iluminada y llena de familias, y el Bangla Sahib está abierto a todas horas, también de noche. *Los jueves por la noche, en el santuario de Nizamuddin, hay cantos qawwali: se entra con la cabeza cubierta y sin zapatos, y se deja una ofrenda.*
 
 **En la práctica:** Humayun y Qutub Minar unas 600 rupias cada uno, entradas online en el portal ASI · Uber y Ola para moverse entre los sitios, que están lejos unos de otros · el tren a Agra del día siguiente sale temprano: preparar el equipaje la noche antes.
 
@@ -69,6 +73,8 @@ Quien quiera se acerca a **Auroville**, la comunidad internacional fundada en lo
 ### Día 7 — Hacia Thanjavur y el templo de Brihadeeswarar
 Jornada de carretera hacia el interior, entre arrozales y cocoteros, con dos paradas que valen el viaje: el templo de **Nataraja en Chidambaram**, dedicado a Shiva danzante, y el templo real de **Gangaikonda Cholapuram**, casi siempre desierto. A **Thanjavur** se llega por la tarde para el **Brihadeeswarar**, el Gran Templo de los reyes Chola, patrimonio de la UNESCO, construido hacia el año mil. La torre mide unos sesenta metros, la cúpula de lo alto pesa decenas de toneladas, y la luz del final de la tarde tiñe de naranja todo el granito.
 
+El orden importa por los horarios de los templos de Tamil Nadu, que suelen cerrar a mediodía y reabrir a última hora de la tarde. Chidambaram hay que verlo por la mañana, antes del mediodía; en Gangaikonda Cholapuram el santuario sigue horarios parecidos, pero el recinto y las esculturas exteriores, entre ellas el Shiva que corona a su devoto, se ven también en las horas centrales. La comida se hace por el camino en un restaurante vegetariano, con el thali servido sobre hoja de plátano. *Al Brihadeeswarar conviene llegar después de las 16, cuando reabre, y quedarse hasta el atardecer.*
+
 **En la práctica:** Puducherry-Thanjavur unas 4-5 horas con las paradas · Brihadeeswarar de entrada libre, zapatos en la consigna, teléfonos apagados o en la consigna si el templo aplica la norma estatal · el Palacio de los Maratha y la biblioteca Saraswathi Mahal, en la ciudad, son de pago.
 
 ### Día 8 — De Thanjavur a Madurai y el templo de Meenakshi
@@ -80,6 +86,8 @@ Primera hora de la mañana en Thanjavur, con el **Palacio de los Maratha** y la 
 
 ### Día 9 — El mercado de las flores y la subida a Munnar
 Al amanecer, el mercado de las flores de **Mattuthavani**, adonde llegan toneladas de jazmín, y luego se sale hacia los **Ghats Occidentales**. La carretera de Madurai a **Munnar**, cinco o seis horas, cruza la frontera entre Tamil Nadu y Kerala y trepa en curvas entre cardamomo, bosques y las primeras plantaciones de té, hasta los 1.600 metros. El aire cambia, y por la noche hace falta un jersey. Se llega por la tarde, con tiempo para una primera vuelta entre las colinas peinadas por las hileras de té.
+
+Pasada la frontera con Kerala la carretera sube por la **Gap Road**, un desfiladero entre paredes verdes desde el que se ven los valles de abajo, con varios miradores para parar. El pueblo de Munnar es un cruce con mucho tráfico, tiendas y puestos de té y especias, útil para comprar cardamomo y pimienta pero no para dormir. Por la noche se cena en el hotel o en el homestay, a menudo cocina casera: appam, guisos de verduras con coco y el té de las colinas de alrededor. *Con lluvia o niebla la carretera de montaña se vuelve muy lenta: mejor no viajar de noche.*
 
 **En la práctica:** el mercado de las flores está en su mejor momento antes de las 8 · Madurai-Munnar unas 5-6 horas en coche con conductor · dormir fuera del pueblo, que tiene mucho tráfico, en un homestay o un resort entre las plantaciones · carretera de montaña con curvas: quien se maree en el coche, que salga con el estómago ligero.
 
@@ -100,6 +108,8 @@ En cuatro o cinco horas se baja hacia la costa, hasta **Alappuzha** (Alleppey), 
 ### Día 12 — De las backwaters a Fort Kochi
 Desayuno en la barca, desembarco y una hora y media de carretera hasta **Fort Kochi**, la ciudad más cosmopolita de Kerala: durante siglos puerto de las especias, pasó por manos portuguesas, holandesas e inglesas, con una comunidad judía y una cristiana de las más antiguas de Asia. A primera hora de la tarde se pasea junto al mar hasta las **redes de pesca chinas**, grandes estructuras de balancín que los pescadores bajan al agua a mano, y se visita la **iglesia de San Francisco**, donde fue enterrado Vasco da Gama. Por la noche, un espectáculo de **kathakali**, la danza-teatro de Kerala, con una hora antes para ver a los actores maquillarse.
 
+Fort Kochi se recorre a pie en media jornada: además de San Francisco están la **basílica de Santa Cruz**, el viejo cementerio holandés y las casas coloniales de Princess Street, con cafés y galerías. Las redes chinas lucen más al atardecer, cuando los pescadores trabajan a contraluz y el pescado recién sacado se vende en el paseo marítimo. Para el kathakali conviene llegar con antelación: el maquillaje de los actores empieza antes del espectáculo y se mira de cerca, mientras la parte bailada dura una hora o poco más. *En Kochi hay muchos mosquitos, sobre todo por la noche cerca del agua: repelente siempre en el bolso.*
+
 **En la práctica:** Alleppey-Fort Kochi una hora y media · kathakali en el Kerala Kathakali Centre, unas 500-600 rupias, todas las noches · Fort Kochi se recorre a pie y en bici.
 
 ### Día 13 — Fort Kochi y Mattancherry
@@ -111,6 +121,8 @@ La tarde es libre: un curso de cocina de Kerala, un café en una de las galería
 
 ### Día 14 — Vuelo a Bangalore y tren nocturno a Hampi
 Jornada de traslado hacia Karnataka. Vuelo de Kochi a **Bangalore** (Bengaluru), alrededor de una hora, y tarde libre en la ciudad: el **Lalbagh**, el jardín botánico, el palacio de Tipu Sultan, el barrio de los cafés alrededor de Church Street. Por la noche, el **tren nocturno a Hosapete** (Hospet), la estación de Hampi, en litera, con llegada al amanecer.
+
+El aeropuerto de Bangalore está al norte, lejos del centro, y el tráfico es el más pesado del viaje: para la tarde conviene elegir solo uno o dos lugares cercanos entre sí, como el Lalbagh y el palacio de verano de Tipu Sultan, que están a pocos kilómetros uno del otro. El tren sale de la estación KSR Bengaluru, Bangalore City: hay que llegar al menos media hora antes para encontrar el andén y el vagón, indicados en los paneles y en las listas expuestas. *En litera el equipaje se ata o se guarda bajo el asiento, y los objetos de valor se llevan encima.*
 
 **En la práctica:** vuelo Kochi-Bangalore 3.000-6.000 rupias si se reserva con tiempo · Hampi Express (16592), desde Bangalore City hacia las 21:50 con llegada a Hosapete hacia las 7, unas 9 horas, todos los días, en 2A o 3A, que hay que reservar en IRCTC en cuanto se abre la reserva · como alternativa, vuelo al aeropuerto de Vidyanagar (Jindal), a una hora de Hampi, con pocas frecuencias.
 
@@ -130,6 +142,8 @@ Por la tarde, una vuelta en **coracle**, las barcas redondas de mimbre, por el T
 
 ### Día 17 — Bangalore y salida
 El tren llega a Bangalore por la mañana. Con unas horas antes del vuelo se desayuna una masala dosa y un filter coffee, y se pasa por el Lalbagh si no hubo tiempo el Día 14. El aeropuerto Kempegowda está al norte de la ciudad, a una hora o más de carretera según el tráfico. Muchos vuelos a Europa salen por la tarde-noche o de madrugada, con una escala.
+
+Bangalore es la ciudad del desayuno del Sur: la **masala dosa** con chutney de coco y sambar, y el filter coffee servido en vaso de metal con su platillo. Hay locales históricos como **MTR**, abierto desde los años veinte cerca del Lalbagh, donde por la mañana se hace cola. Para el aeropuerto están los autobuses Vayu Vajra, baratos y con espacio para el equipaje, o taxis y Uber, que desde la ciudad en hora punta pueden tardar bastante más de una hora. *Quien aún tenga rupias, que las cambie o las gaste antes de los controles: fuera de la India no se cambian con facilidad.*
 
 **En la práctica:** Bangalore City-aeropuerto entre una hora y una hora y media en taxi o en el autobús del aeropuerto · llegar al aeropuerto 3 horas antes para los vuelos internacionales · el tren nocturno a veces llega con retraso: nada de vuelos a primera hora de la mañana.
 

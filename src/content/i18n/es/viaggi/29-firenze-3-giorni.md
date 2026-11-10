@@ -46,6 +46,8 @@ Por la tarde fuimos al **Museo dell'Opera del Duomo**, la parte que casi todos r
 
 Cerramos el día en la **Piazza della Signoria** y en la **Loggia dei Lanzi**, un museo de escultura al aire libre, gratuito y siempre abierto, con el **Perseo** de Cellini y el **Rapto de las Sabinas** de Giambologna. El David de la plaza es una copia.
 
+**En la práctica:** Brunelleschi Pass unos 30 €, válido tres días para la cúpula, el Baptisterio, el Campanile, el Museo dell'Opera y la cripta de Santa Reparata, solo en la web oficial de la Opera · la franja horaria de la cúpula hay que reservarla con semanas de antelación en temporada alta · cúpula y Campanile cierran algunos días al año por mantenimiento y celebraciones: consultar el calendario · Loggia dei Lanzi gratuita.
+
 ### Día 2 — Uffizi y Oltrarno
 La mañana la pasamos en los **Uffizi**, con la franja reservada. Son largos y están llenos, y para no salir aniquilado hay que **decidir antes qué ver** en lugar de recorrerlos enteros: las salas de Botticelli con la **Primavera** y el **Nacimiento de Venus**, el **Tondo Doni** de Miguel Ángel, la **Anunciación** de Leonardo, los Caravaggio (la **Medusa** y el **Baco**) y la **Venus de Urbino** de Tiziano. En el corredor con vistas al Arno y al Ponte Vecchio se detienen casi todos, y es lo justo.
 
@@ -59,6 +61,8 @@ Como alternativa, o además, están el **Palazzo Pitti** y el **Jardín de Bóbo
 
 Al atardecer se sube a **San Miniato al Monte**, no a la Piazzale Michelangelo. Son cinco minutos más arriba, la iglesia románica es la más bella de Florencia, la vista es la misma y hay una décima parte de gente. **Los monjes cantan las vísperas en gregoriano a última hora de la tarde** (los horarios cambian con la estación, conviene comprobarlos), y asistir en esa iglesia, con la luz que va cayendo, es una de las mejores cosas que se pueden hacer en la ciudad sin pagar nada.
 
+**En la práctica:** los Uffizi cierran los lunes, entrada entera de unos 25-30 € según taquilla, online y temporada, con franja de tarde más barata · para entrar a la hora reservada conviene presentarse un cuarto de hora antes · Capilla Brancacci solo con reserva, comprobar las obras · de Ponte Vecchio a San Miniato hay unos 30 minutos a pie cuesta arriba, o los autobuses 12 y 13 · San Miniato entrada libre.
+
 ### Día 3 — El David, las Capillas Médicis y la elección final
 Por la mañana fuimos a la **Galería de la Academia** para ver el **David**, con reserva. La visita es corta y hay que tomarla por lo que es: se entra por una estatua. Pero el montaje de la **Galería de los Prisioneros** está construido a la perfección: los cuatro esclavos inacabados de Miguel Ángel, figuras que parecen salir a medias del bloque de mármol, están colocados en fila a lo largo del pasillo que lleva al David bajo su tribuna, y valen la entrada tanto como el propio David.
 
@@ -70,6 +74,8 @@ La tarde es a elegir, según lo que haya quedado:
 - **Palazzo Vecchio** con el **Salón de los Quinientos** y la subida a la **Torre de Arnolfo**, o bien los recorridos por los pasadizos ocultos.
 
 La última noche, en el **mercado de Sant'Ambrogio** o por el barrio, lejos del circuito central.
+
+**En la práctica:** Academia, Capillas Médicis y Bargello cierran los lunes y comparten horarios y entradas desde marzo de 2026: Academia unos 16 € más la reserva, Capillas Médicis unos 11 €, Bargello unos 12 €, y un pase de seis museos desde unos 38 € en 72 horas · el David hay que reservarlo, los otros dos normalmente no fuera de temporada · el mercado de Sant'Ambrogio funciona por la mañana, cerrado los domingos.
 
 ## La versión de dos días
 Dos días en Florencia aguantan bien, con una condición: **un solo gran museo, no dos.** El programa que funciona es este.

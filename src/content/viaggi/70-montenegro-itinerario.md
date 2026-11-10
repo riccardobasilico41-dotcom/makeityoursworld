@@ -30,6 +30,8 @@ Questo itinerario tiene insieme le due anime del paese. La costa, con le **Bocch
 ### Giorno 1 — Arrivo a Tivat e Kotor al tramonto
 Da Roma e Milano si vola su **Tivat**, l'aeroporto della costa, a un quarto d'ora da Kotor, o su **Podgorica**, la capitale, a un'ora e mezza. Con l'auto a noleggio ritirata in aeroporto siamo arrivati a **Kotor**, in fondo al ramo più interno delle Bocche, dove le montagne scendono a picco su un'acqua che sembra un lago. La prima sera l'abbiamo passata nella città vecchia, un dedalo di piazzette, chiese e gatti chiuso tra le mura veneziane, quando le navi da crociera sono ripartite e i vicoli tornano tranquilli.
 
+Conviene entrare dalla **Porta Marina**, l'ingresso principale sul lungomare, e girare la città vecchia senza mappa: è piccola, e in un'ora si passa da una piazza all'altra fino alla **cattedrale di San Trifone**. La salita alle mura si lascia a domattina, con il fresco; la sera basta guardarle dal basso, quando si accendono le luci che le seguono fino alla fortezza. *Chi arriva d'estate a metà giornata trova i vicoli pieni di crocieristi: meglio sistemarsi prima nell'alloggio e scendere dopo le 18.* Per la cena si resta dentro le mura o si cammina lungo la riva verso Dobrota, dove i locali guardano l'acqua.
+
 **In pratica:** dormire nella città vecchia significa niente auto: meglio Dobrota o Muo, a pochi minuti, con parcheggio · parcheggi intorno alle mura cari e pieni in estate · controllare il calendario delle navi da crociera sul sito del porto e programmare le visite nei giorni con meno sbarchi.
 
 ### Giorno 2 — Kotor: la città vecchia e le mura fino alla fortezza
@@ -56,7 +58,9 @@ Poi siamo scesi a **Cetinje**, la vecchia capitale reale: una cittadina tranquil
 ### Giorno 5 — Budva, la costa e Sveti Stefan
 Da Cetinje siamo scesi in quaranta minuti a **Budva**, la capitale balneare del paese. La città vecchia, su una penisola fortificata, è piccola e piacevole al mattino; il resto della città è un lungomare di grandi hotel, discoteche e spiagge affollate. La parte più bella della costa è più a sud: **Sveti Stefan**, l'isolotto-villaggio di pescatori trasformato in resort, si guarda dal belvedere sulla strada o dalla spiaggia pubblica accanto. Il pomeriggio è per il mare in una delle baie tra Budva e Petrovac, come **Drobni pijesak** o la spiaggia di Petrovac con il suo lungomare tranquillo.
 
-**In pratica:** l'isola di Sveti Stefan è accessibile solo agli ospiti del resort, quando è aperto · lettini e ombrelloni sulle spiagge attrezzate 15-30 € al giorno in alta stagione · dormire a Petrovac o a Budva.
+Conviene arrivare a Budva presto, prima delle 10, quando la **città vecchia** è ancora tranquilla: si gira in un'ora tra le mura, la cittadella sul mare e le chiese raccolte vicino alla punta, poi si esce sul lungomare verso il porto. Sveti Stefan è a pochi chilometri verso sud: il punto di vista classico è sulla strada costiera sopra l'isolotto, dove c'è qualche piazzola per fermarsi pochi minuti. *D'estate la strada tra Budva e Petrovac si intasa nel pomeriggio: meglio spostarsi al mattino o dopo il tramonto e scegliere una spiaggia vicina a dove si dorme.* La sera si cena sul lungomare di Petrovac, con il pesce del giorno, o si torna a Budva per chi cerca locali e musica.
+
+**In pratica:** l'isola di Sveti Stefan è accessibile solo agli ospiti del resort, quando è aperto · lettini e ombrelloni sulle spiagge attrezzate 15-30 € al giorno in alta stagione · dormire a Petrovac o a Budva. · città vecchia di Budva a ingresso libero
 
 ### Giorno 6 — Il lago di Scutari: Virpazar e Rijeka Crnojevića
 Il **lago di Scutari** (Skadarsko jezero), condiviso con l'Albania, è il più grande lago dei Balcani e un parco nazionale con oltre 280 specie di uccelli, tra cui il raro pellicano riccio. Da **Virpazar** partono le barche che girano tra canali di ninfee, isolotti con monasteri e villaggi di pescatori. A pranzo, la carpa e l'anguilla del lago e i vini della zona di Crmnica, una delle più antiche del paese.
@@ -86,6 +90,8 @@ Nel pomeriggio siamo scesi verso sud attraverso il **canyon della Morača**, con
 
 ### Giorno 10 — Podgorica e partenza
 L'ultimo giorno è di rientro. **Podgorica** è una capitale giovane e poco monumentale, ricostruita dopo la guerra: chi ha qualche ora vede la torre dell'orologio del quartiere ottomano di Stara Varoš, il ponte sul fiume Ribnica e la cattedrale ortodossa della Resurrezione, con i mosaici dorati. Poi abbiamo riconsegnato l'auto in aeroporto. Chi vola da Tivat torna sulla costa la sera prima e passa l'ultima mattina sulle Bocche.
+
+Con un volo nel pomeriggio, la mattina basta per un giro a piedi: si parte dalla **cattedrale della Resurrezione**, si attraversa il centro moderno e si arriva al fiume **Morača**, dove il **ponte del Millennio**, il ponte strallato inaugurato nel 2005, è diventato il simbolo della città nuova. Da lì si scende verso Stara Varoš e la confluenza con la Ribnica, dove restano le rovine della fortezza ottomana. *D'estate Podgorica supera spesso i 35 °C: il giro va fatto al mattino presto, con la valigia già in auto.* Per l'ultimo pranzo, il centro intorno alla **piazza dell'Indipendenza** ha bar e trattorie a prezzi più bassi di quelli della costa.
 
 **In pratica:** aeroporto di Podgorica a circa 15 minuti dal centro · riconsegna dell'auto con il pieno, i distributori vicini all'aeroporto sono pochi · Tivat è a 1 ora e mezza da Podgorica.
 

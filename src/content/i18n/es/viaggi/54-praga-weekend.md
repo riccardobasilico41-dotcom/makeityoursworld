@@ -36,6 +36,8 @@ En el lado opuesto de la plaza se alza la **Iglesia de Týn**, gótica, con las 
 
 Por la noche nos quedamos en el centro, pero con cuidado: los restaurantes de la plaza y de la calle Karlova son la zona con más denuncias de cuentas infladas. Para cenar conviene alejarse unas manzanas.
 
+**En la práctica:** subida a la torre del Ayuntamiento Viejo con ascensor y entrada aparte · el espectáculo del reloj dura menos de un minuto y la plaza se llena unos minutos antes de la hora · iglesia de Týn con horario reducido, entrada por los soportales del lado de la plaza · para cenar, una hospoda a unas manzanas, comprobando carta y precios antes de pedir.
+
 ### Día 2 — Puente de Carlos, Malá Strana y el Castillo de Praga
 Cruzamos el **Puente de Carlos** temprano por la mañana, antes de las 8, para evitar la mayor parte de la multitud. Son 516 metros góticos, construidos a partir de 1357 por encargo de Carlos IV, con más de setenta estatuas barrocas (todas copias: los originales están a resguardo en los museos). La más antigua y venerada es la de **San Juan Nepomuceno**, de 1683.
 
@@ -45,6 +47,8 @@ Por la tarde subimos a la colina del **Castillo de Praga**, uno de los mayores c
 
 Por la noche se vuelve a Malá Strana, o se regresa con calma hacia Staré Město.
 
+**En la práctica:** Puente de Carlos siempre abierto y gratuito, casi vacío antes de las 8 · al Castillo se sube a pie por las escaleras del Castillo o con el tranvía 22, cuidado con los carteristas · Circuito A unos 450 CZK, para entrar en el recinto se pasa un control de seguridad · el cambio de guardia es cada hora en la puerta principal, con la ceremonia más amplia a mediodía.
+
 ### Día 3 — Josefov, el barrio judío
 La mañana la dedicamos entera a **Josefov**, el antiguo barrio judío en el corazón de Staré Město. Con el Jewish Town Ticket se visitan seis sitios: el **Antiguo Cementerio Judío**, con miles de lápidas superpuestas en capas sobre un terreno que ha seguido siendo el mismo durante siglos, y las sinagogas **Pinkas** (hoy memorial con los nombres de las víctimas checas del Holocausto), **Maisel**, **Klausen** y **Española**, esta última con un interior morisco de los más sorprendentes de la ciudad. Para la **Sinagoga Vieja-Nueva**, la sinagoga activa más antigua de Europa, hace falta una entrada aparte.
 
@@ -52,12 +56,16 @@ La tarde es más libre: se puede volver a algo visto de pasada en los dos primer
 
 Por la noche conviene ir a una hospoda fuera del centro más turístico (Žižkov y Vinohrady son las zonas más vividas) para una ronda de cervezas checas a los precios reales de la ciudad.
 
+**En la práctica:** Jewish Town Ticket unos 600 CZK, Sinagoga Vieja-Nueva aparte · sitios cerrados los sábados y en las festividades judías · en las sinagogas se pide a los hombres cubrirse la cabeza, con kipás disponibles en la entrada · Žižkov y Vinohrady a pocos minutos del centro en tranvía o metro.
+
 ### Día 4 — Vyšehrad y último paseo
-Por la mañana fuimos a **Vyšehrad**, la fortaleza en la colina al sur del centro, menos frecuentada que el Castillo pero con más de mil años de historia: según la leyenda fundacional de Praga, fue aquí donde la princesa **Libuše** profetizó el nacimiento de la ciudad. Desde las murallas se ven algunos de los panoramas más amplios de Praga y del Moldava, con mucha menos gente que en el Castillo: un contrapunto tranquilo después de tres días de casco histórico.
+Por la mañana fuimos a **Vyšehrad**, la fortaleza en la colina al sur del centro, menos frecuentada que el Castillo pero con más de mil años de historia: según la leyenda fundacional de Praga, fue aquí donde la princesa **Libuše** profetizó el nacimiento de la ciudad. Desde las murallas se ven algunos de los panoramas más amplios de Praga y del Moldava, con mucha menos gente que en el Castillo: un contrapunto tranquilo después de tres días de casco histórico. Dentro de las murallas se visitan la basílica neogótica de **San Pedro y San Pablo**, la **rotonda de San Martín**, del siglo XI, uno de los edificios más antiguos de Praga, y el **cementerio de Vyšehrad**, donde descansan Dvořák, Smetana y Mucha, alrededor del panteón del Slavín.
 
-A primera hora de la tarde volvimos al centro para el último paseo: lo que se había quedado fuera los días anteriores, un último café en la Plaza de la Ciudad Vieja, las últimas compras.
+A primera hora de la tarde volvimos al centro para el último paseo: lo que se había quedado fuera los días anteriores, un último café en la Plaza de la Ciudad Vieja, las últimas compras. Desde Vyšehrad se puede volver a pie por la orilla del Moldava, en media hora larga, pasando por delante de la **Casa Danzante** de Frank Gehry hasta el Teatro Nacional.
 
-Por la noche hicimos la última cena del fin de semana en el centro.
+Por la noche hicimos la última cena del fin de semana en el centro. Antes de salir conviene dejar margen: del centro al aeropuerto se tarda unos tres cuartos de hora entre el metro A y el autobús, más en hora punta. *El día de la salida es más cómodo dejar la maleta en el hotel y volver a recogerla, en lugar de recorrer el centro con el equipaje.*
+
+**En la práctica:** fortaleza y parque de Vyšehrad de acceso libre, basílica con una pequeña entrada · metro C hasta la parada Vyšehrad, y luego unos diez minutos a pie · para el aeropuerto, metro A hasta Nádraží Veleslavín y autobús 119.
 
 ## Qué ver / qué hacer
 - **La Plaza de la Ciudad Vieja y el Reloj Astronómico**, cuando da la hora.

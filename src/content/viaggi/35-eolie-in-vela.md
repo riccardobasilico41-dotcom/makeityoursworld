@@ -30,11 +30,13 @@ Non è una vacanza per tutti. Si sta stretti, si dipende dal meteo, e l'itinerar
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Imbarco a Milazzo e trasferimento a Vulcano
-Ci siamo imbarcati nel pomeriggio: briefing di sicurezza, cambusa e sistemazione a bordo. Le cuccette sono strette, ed è lì che si capisce perché la borsa doveva essere morbida.
+Ci siamo imbarcati nel pomeriggio: briefing di sicurezza, cambusa e sistemazione a bordo. Le cuccette sono strette, ed è lì che si capisce perché la borsa doveva essere morbida. Prima di salire conviene fare la spesa per la settimana insieme allo skipper, che sa cosa si trova sulle isole e cosa no: acqua in bottiglia, frutta, pasta, colazioni e qualcosa per i pranzi in rada. Sulle isole minori i negozi sono piccoli e cari, e a Filicudi e Alicudi quasi assenti.
 
 Nel tardo pomeriggio siamo partiti per **Vulcano**, circa un'ora e mezza di traversata. È l'isola più vicina alla Sicilia e il primo impatto è **olfattivo** prima che visivo: l'odore di zolfo arriva prima dell'isola, ed è forte.
 
-Ancoraggio o ormeggio nella zona di Porto di Levante. Prima cena a bordo, e la prima notte in rada con la barca che si muove.
+Ancoraggio o ormeggio nella zona di Porto di Levante. Prima cena a bordo, e la prima notte in rada con la barca che si muove. *La prima sera chi soffre il mare prenda il rimedio prima di cena, perché il dondolio in rada si sente soprattutto le prime notti.*
+
+**In pratica:** aeroporto di Catania-Milazzo in bus circa 2 ore, intorno ai 13-15 € · imbarco di solito nel pomeriggio, con orario fissato dalla società di charter · borsa morbida, niente valigie rigide · Milazzo-Vulcano circa un'ora e mezza di navigazione.
 
 ### Giorno 2 — Vulcano e le Sette Piaghe
 La mattina presto si sale al **Gran Cratere**, se l'accesso è consentito: circa un'ora su un sentiero di sabbia vulcanica e cenere, senza ombra, da fare **prima delle otto** perché dopo il sole è insostenibile. Dall'orlo si guarda dentro il cratere, con le **fumarole gialle di zolfo** che escono dalle pareti, e si vede tutto l'arcipelago in fila verso nord, con Stromboli in fondo. **L'accesso dipende dalle ordinanze: conviene controllarlo prima.**
@@ -44,6 +46,8 @@ Il resto di Vulcano: le **acque termali che gorgogliano direttamente in mare** v
 Nel pomeriggio abbiamo fatto la breve navigazione verso **Lipari**. La rotta passa davanti alle **Sette Piaghe**, le falesie a picco della costa occidentale di Vulcano.
 
 Notte a Lipari.
+
+**In pratica:** salita al Gran Cratere circa un'ora, da fare prima delle 8 con acqua, cappello e scarpe da trekking · accesso al cratere e alle pozze termali regolato da ordinanze del Comune di Lipari, da controllare il giorno prima · Grotte del Cavallo e Piscina di Venere solo dal mare · Vulcano-Lipari breve navigazione.
 
 ### Giorno 3 — Lipari: il castello, il museo e la pomice
 **Lipari** è la più grande e la più abitata, l'unica che somigli a un paese vero, e quasi tutti la usano solo come nodo di trasporto.
@@ -56,6 +60,8 @@ Il pomeriggio in barca lungo la **costa nord-orientale**, davanti alle **ex cave
 
 Per chi resta a terra c'è il belvedere di **Quattrocchi**, da cui si vedono insieme i faraglioni e Vulcano: è la cartolina dell'isola.
 
+**In pratica:** Museo Archeologico Eoliano aperto di solito tutti i giorni fino al tardo pomeriggio, biglietto di pochi euro, orari da verificare sul sito del Parco archeologico · almeno due ore per il museo · ex cave di pomice da vedere solo dal mare · Lipari è il porto dove rifornirsi di acqua e cambusa.
+
 ### Giorno 4 — Salina: la verde
 Breve traversata verso **Salina**, l'anomalia dell'arcipelago: **è l'unica isola con acqua sorgiva**, e per questo è verde, coltivata e piena di alberi mentre le altre sono brulle. Ha due vulcani spenti gemelli, il **Monte dei Porri** e la **Fossa delle Felci**, che le danno il profilo a due gobbe riconoscibile da chilometri.
 
@@ -67,6 +73,8 @@ Salina è anche l'isola del cibo: i **capperi**, che qui sono un presidio e si r
 
 Notte in rada a Santa Marina o a Rinella.
 
+**In pratica:** salita alla Fossa delle Felci di un paio d'ore, scarpe da trekking e acqua, meglio al mattino presto · spiaggia di Pollara con accesso limitato, da verificare sul posto · cantine di Malvasia su prenotazione · capperi e Malvasia da comprare qui, dove costano meno che altrove.
+
 ### Giorno 5 — Panarea e gli isolotti
 **Panarea** è la più piccola delle isole maggiori e la più mondana. In agosto è satura e cara; in giugno e settembre torna a essere quello che è, un paese bianco senza auto (**si gira a piedi o con mezzi elettrici**), con le bouganville e le case basse.
 
@@ -75,6 +83,8 @@ In barca però ci si viene per **gli isolotti a est**: **Basiluzzo**, **Dattilo*
 A terra abbiamo camminato fino a **Punta Milazzese**. Su un promontorio a picco c'è un **villaggio preistorico dell'età del Bronzo**, con le fondazioni di ventitré capanne ovali ancora visibili, affacciato su **Cala Junco**: una baia chiusa ad anfiteatro da pareti di roccia, con l'acqua di un colore che sembra ritoccato. Ci si arriva a piedi in mezz'ora dal paese, o in tender dalla barca.
 
 Nel tardo pomeriggio siamo partiti per Stromboli. È la traversata più lunga della settimana e va fatta con la luce.
+
+**In pratica:** Punta Milazzese circa mezz'ora a piedi dal paese · a Panarea niente auto, solo mezzi elettrici e piedi · in agosto ancoraggi e prezzi al massimo, meglio giugno e settembre · traversata per Stromboli di un paio d'ore secondo il vento.
 
 ### Giorno 6 — Stromboli: la Sciara del Fuoco
 È la giornata per cui si viene alle Eolie.
@@ -87,6 +97,8 @@ Nel tardo pomeriggio, la salita, **nei limiti e con le guide che l'ordinanza in 
 
 Ma la cosa vera l'abbiamo fatta **dopo il buio, dalla barca**. Si naviga sotto la Sciara, si spengono le luci di coperta e si aspetta in silenzio. Ogni pochi minuti c'è un boato sordo, poi il bagliore arancione sul bordo del cratere, poi i blocchi incandescenti che scendono lungo il canalone per settecento metri fino all'acqua e si spengono uno dopo l'altro. Nessun filtro, nessuna transenna, nessuna coda: solo il mare nero, il rumore e quella cosa che continua a farlo da duemila anni, chiunque la guardi.
 
+**In pratica:** salita solo con guide autorizzate e fino alla quota fissata dall'ordinanza in vigore, escursioni da circa 30 € a persona · Osservatorio di Punta Labronzo circa un'ora a piedi, libero · torcia frontale, scarpe chiuse, giacca a vento e acqua · Ginostra raggiungibile solo dal mare.
+
 ### Giorno 7 — Filicudi o Alicudi: le isole della fine
 La traversata va verso occidente, alle due isole che quasi nessuno visita e che sono la ragione per cui un itinerario in barca batte il traghetto: **sono collegate male, hanno pochissimi posti letto e in bassa stagione si raggiungono con poche corse alla settimana.**
 
@@ -96,10 +108,16 @@ La traversata va verso occidente, alle due isole che quasi nessuno visita e che 
 
 Ultima notte in rada.
 
-### Giorno 8 — Rientro e sbarco
-La navigazione di rientro verso il porto di partenza è la traversata più lunga e in genere la più bella: si esce dall'arcipelago e lo si guarda allontanarsi tutto insieme, con Stromboli che sparisce per ultimo perché è il più alto.
+**In pratica:** Grotta del Bue Marino in tender o in barca, con mare calmo · Zucco Grande a piedi lungo la mulattiera, scarpe da trekking · ad Alicudi solo scalinate: borsa leggera se si scende a terra · ancoraggi esposti, la scelta tra le due isole la fa il vento.
 
-Siamo sbarcati in mattinata: pulizie di bordo e saluti.
+### Giorno 8 — Rientro e sbarco
+La navigazione di rientro verso il porto di partenza è la traversata più lunga e in genere la più bella: si esce dall'arcipelago e lo si guarda allontanarsi tutto insieme, con Stromboli che sparisce per ultimo perché è il più alto. Lo sbarco ha un orario fisso, di solito in mattinata, e per questo la rotta di rientro si organizza con lo skipper la sera prima: a volte si naviga verso il porto già l'ultimo pomeriggio, a volte si parte all'alba.
+
+Siamo sbarcati in mattinata: pulizie di bordo e saluti. Si lascia la barca in ordine, con la cambusa svuotata e i sacchi della spazzatura a terra, e lo skipper fa il controllo dell'inventario con la società di charter.
+
+Chi ha il volo nel pomeriggio ha il tempo per un giro a Milazzo, con il **castello** sopra il borgo antico e il lungomare, e per un ultimo pranzo con il pesce prima del bus per Catania. Chi resta in Sicilia può proseguire verso Cefalù e Tindari lungo la costa tirrenica, o scendere verso l'Etna e Taormina. *Non conviene prenotare voli del mattino: tra lo sbarco e il trasferimento all'aeroporto serve mezza giornata.*
+
+**In pratica:** sbarco in mattinata a orario fisso · bus Milazzo-aeroporto di Catania circa 2 ore, da prenotare in alta stagione · deposito bagagli da chiedere alla società di charter · voli dal pomeriggio in poi.
 
 ## Se non si va in vela
 L'arcipelago si fa benissimo anche via traghetto, con una logica diversa: **si sceglie una base e si fanno le altre isole in giornata**, invece di spostarsi ogni notte.

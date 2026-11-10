@@ -33,9 +33,11 @@ Il motivo per andare in Baja in febbraio e marzo sono gli animali. Le **balene g
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Città del Messico
-Siamo atterrati all'aeroporto Benito Juárez (AICM) e ci siamo spostati con un taxi autorizzato prepagato o con un'app. La base per i giorni in città è **Roma Norte** o **Condesa**, due quartieri dei primi del Novecento con viali alberati, parchi e molti locali, comodi e sicuri. Il primo pomeriggio l'abbiamo tenuto leggero: tra fuso e quota, il corpo ha bisogno di un giorno.
+Siamo atterrati all'aeroporto Benito Juárez (AICM) e ci siamo spostati con un taxi autorizzato prepagato o con un'app. La base per i giorni in città è **Roma Norte** o **Condesa**, due quartieri dei primi del Novecento con viali alberati, parchi e molti locali, comodi e sicuri. Il primo pomeriggio l'abbiamo tenuto leggero: tra fuso e quota, il corpo ha bisogno di un giorno. Città del Messico sta a circa 2.240 metri: nei primi giorni si fa più fatica a salire le scale, si dorme peggio e l'alcol fa effetto prima. *I taxi presi per strada all'aeroporto vanno evitati: si usano solo i banchi ufficiali con il biglietto prepagato o le app, che qui funzionano bene.*
 
-La sera abbiamo fatto una passeggiata nel Parque México e mangiato i primi tacos al pastor, tagliati dallo spiedo verticale con un pezzo di ananas sopra.
+La sera abbiamo fatto una passeggiata nel Parque México e mangiato i primi tacos al pastor, tagliati dallo spiedo verticale con un pezzo di ananas sopra. Il parco, con il suo ovale di viali e alberi, è il centro di Condesa, e la sera si riempie di gente che porta a spasso i cani e di famiglie. Intorno, lungo Avenida Amsterdam, si gira in sicurezza a piedi tra taquerías, caffè e locali. Per la cena conviene chiedere in hotel la taquería del quartiere più frequentata: dove c'è fila di messicani, di solito si mangia bene.
+
+**In pratica:** dall'aeroporto a Roma o Condesa 30-60 minuti secondo il traffico · taxi autorizzati con biglietto prepagato ai banchi degli arrivi · acqua sempre in bottiglia, anche per lavarsi i denti · Roma Norte e Condesa sono le zone più comode per dormire.
 
 ### Giorno 2 — Il Centro Histórico
 Il cuore della città si gira a piedi. Lo **Zócalo**, una delle piazze più grandi del mondo; la **Cattedrale Metropolitana**, che pende in modo visibile perché è costruita sul fondo di un lago prosciugato; il **Templo Mayor**, il tempio principale di Tenochtitlán, riscoperto nel 1978 durante i lavori della metro; il **Palacio Nacional**, con i murales di Diego Rivera sulla storia del paese. Poi abbiamo percorso la pedonale Madero, fino alla Casa de los Azulejos e al **Palacio de Bellas Artes**, con i murales di Orozco e Siqueiros all'interno.
@@ -48,24 +50,32 @@ Il tramonto si guarda dall'alto, dal belvedere della **Torre Latinoamericana** o
 - Metro: biglietto unico 5 MXN; nelle ore di punta le carrozze in testa al treno sono riservate alle donne.
 
 ### Giorno 3 — Teotihuacán
-**Teotihuacán**, a un'ora di bus dalla Terminal del Norte, era la città più grande delle Americhe intorno al 500 d.C. Abbiamo camminato lungo la **Calzada de los Muertos**, tra la Piramide del Sole e quella della Luna, con il tempio del Serpente Piumato in fondo alla Ciudadela. Conviene essere al cancello all'apertura, alle 9, con acqua e cappello: il sito è enorme e senza ombra.
+**Teotihuacán**, a un'ora di bus dalla Terminal del Norte, era la città più grande delle Americhe intorno al 500 d.C. Abbiamo camminato lungo la **Calzada de los Muertos**, tra la Piramide del Sole e quella della Luna, con il tempio del Serpente Piumato in fondo alla Ciudadela. Conviene essere al cancello all'apertura, alle 8, con acqua e cappello: il sito è enorme e senza ombra. Da qualche anno non si sale più sulle piramidi; il percorso a terra è comunque lungo, e tra un estremo e l'altro della Calzada ci sono un paio di chilometri. *Ai cancelli e lungo il percorso si vendono fischietti a forma di giaguaro e souvenir: un no gentile basta.*
 
-Dal 2026 l'ingresso per gli stranieri costa circa **210 MXN**. Chi vuole può salire in mongolfiera all'alba (indicativamente 2.500-4.000 MXN). Al ritorno ci si può fermare alla **Basilica di Guadalupe**, il santuario cattolico più visitato delle Americhe.
+Dal 2026 l'ingresso per gli stranieri costa circa **210 MXN**. Chi vuole può salire in mongolfiera all'alba (indicativamente 2.500-4.000 MXN). Al ritorno ci si può fermare alla **Basilica di Guadalupe**, il santuario cattolico più visitato delle Americhe. Accanto alla basilica moderna, rotonda e degli anni Settanta, c'è quella antica, che pende come la Cattedrale del Centro; l'immagine della Vergine si vede da un tapis roulant che passa sotto l'altare. All'interno del sito ci sono anche piccoli musei, utili per capire la scala della città prima di camminarci.
+
+**In pratica:** bus Autobuses Teotihuacán dalla Terminal del Norte, partenze frequenti, circa un'ora · sito aperto dalle 8 alle 17, ultimo ingresso alle 16.30 · ingresso circa 210 MXN per gli stranieri · domenica affollata, meglio un giorno feriale.
 
 ### Giorno 4 — Chapultepec e il Museo Nacional de Antropología
-Il **Museo Nacional de Antropología** vale da solo una mattina intera: la Pietra del Sole azteca, le teste olmeche, le sale maya con la ricostruzione della tomba di Pakal. Dal 2026 il biglietto per gli stranieri costa circa **210 MXN**. Il museo è dentro il **bosco di Chapultepec**, il parco più grande della città, dove sulla collina c'è il castello che fu la residenza dell'imperatore Massimiliano, oggi museo di storia.
+Il **Museo Nacional de Antropología** vale da solo una mattina intera: la Pietra del Sole azteca, le teste olmeche, le sale maya con la ricostruzione della tomba di Pakal. Dal 2026 il biglietto per gli stranieri costa circa **210 MXN**. Il museo è dentro il **bosco di Chapultepec**, il parco più grande della città, dove sulla collina c'è il castello che fu la residenza dell'imperatore Massimiliano, oggi museo di storia. Le sale sono disposte intorno a un cortile con il grande «ombrello», la fontana a colonna; conviene cominciare dalla sala Mexica, al centro, e poi scegliere le altre secondo il tempo. *Vederlo tutto in una visita non si riesce: tre ore bastano per le sale principali.*
 
-Il pomeriggio l'abbiamo passato tra caffè e gallerie, a Polanco o di nuovo a Roma. Se è martedì, venerdì o domenica, la sera si può andare all'**Arena México** per la **lucha libre**, il wrestling messicano con le maschere: i biglietti si comprano alla cassa dell'arena o online, e si va e si torna in taxi o con un'app.
+Il pomeriggio l'abbiamo passato tra caffè e gallerie, a Polanco o di nuovo a Roma. Se è martedì, venerdì o domenica, la sera si può andare all'**Arena México** per la **lucha libre**, il wrestling messicano con le maschere: i biglietti si comprano alla cassa dell'arena o online, e si va e si torna in taxi o con un'app. La serata dura un paio d'ore, il pubblico partecipa urlando e le maschere dei lottatori si comprano ai banchi fuori.
+
+**In pratica:** Museo di Antropologia e Castello di Chapultepec chiusi il lunedì · biglietto del museo circa 210 MXN per gli stranieri · Arena México nel quartiere Doctores: andata e ritorno in taxi o app, non a piedi · a Chapultepec si arriva in metro o in app.
 
 ### Giorno 5 — Coyoacán e Xochimilco
-**Coyoacán** è un villaggio coloniale inglobato dalla città: piazze, chiese, il mercato con le tostadas di mare e la **Casa Azul** di Frida Kahlo, da prenotare online qualche giorno prima. A pochi isolati c'è la casa-museo di Trotsky.
+**Coyoacán** è un villaggio coloniale inglobato dalla città: piazze, chiese, il mercato con le tostadas di mare e la **Casa Azul** di Frida Kahlo, da prenotare online qualche giorno prima. A pochi isolati c'è la casa-museo di Trotsky. La Casa Azul ha ingressi a orario fisso e i biglietti per il fine settimana finiscono prima; l'orario indicato sul biglietto va rispettato, altrimenti si rischia di non entrare. Conviene arrivare in mattinata, visitare la casa e poi pranzare al mercato.
 
-Nel pomeriggio siamo andati a **Xochimilco**, ai canali rimasti dell'antico lago, che si percorrono sulle **trajineras**, le barche colorate a fondo piatto, con mariachi e venditori di cibo che si avvicinano sulle loro barche. Il prezzo della barca è fissato a ore (indicativamente 600-700 MXN all'ora per l'intera barca) e va concordato all'imbarcadero prima di salire.
+Nel pomeriggio siamo andati a **Xochimilco**, ai canali rimasti dell'antico lago, che si percorrono sulle **trajineras**, le barche colorate a fondo piatto, con mariachi e venditori di cibo che si avvicinano sulle loro barche. Il prezzo della barca è fissato a ore (indicativamente 600-700 MXN all'ora per l'intera barca) e va concordato all'imbarcadero prima di salire. Nel fine settimana Xochimilco è una grande festa, con musica e birra, mentre nei giorni feriali è molto più tranquillo. *I mariachi e i venditori si pagano a parte: il prezzo di una canzone va chiesto prima.*
+
+**In pratica:** Casa Azul circa 320 MXN per gli stranieri, solo online, chiusa il lunedì · da Coyoacán a Xochimilco in app circa 40 minuti, o in metro fino a Tasqueña e poi tren ligero · trajinera da dividere in gruppo, prezzo a ore concordato prima · si torna prima di sera.
 
 ### Giorno 6 — Volo per La Paz e il Malecón
-Con il volo del mattino siamo arrivati a **La Paz** (circa 2 ore e 15), guadagnando un'ora con il fuso. Abbiamo ritirato l'auto in aeroporto, che serve da subito per arrivare in città, e ci siamo sistemati vicino al **Malecón**, il lungomare di cinque chilometri dove la sera escono a camminare famiglie, ciclisti e venditori di gelati.
+Con il volo del mattino siamo arrivati a **La Paz** (circa 2 ore e 15), guadagnando un'ora con il fuso. Abbiamo ritirato l'auto in aeroporto, che serve da subito per arrivare in città, e ci siamo sistemati vicino al **Malecón**, il lungomare di cinque chilometri dove la sera escono a camminare famiglie, ciclisti e venditori di gelati. *Al ritiro dell'auto conviene controllare l'assicurazione: quella di responsabilità civile è obbligatoria in Messico e spesso non è inclusa nel prezzo visto online.*
 
-La Paz è la capitale dello stato, ma ha i ritmi di una città di provincia. L'appuntamento quotidiano è il tramonto sul Mar di Cortez, con le sculture del lungomare in controluce.
+La Paz è la capitale dello stato, ma ha i ritmi di una città di provincia. L'appuntamento quotidiano è il tramonto sul Mar di Cortez, con le sculture del lungomare in controluce. Il centro è piccolo e si gira a piedi: la cattedrale, i mercati, le taquerías di pesce, dove si mangiano i tacos de pescado fritti, la specialità della Baja. Il pomeriggio si possono prenotare le uscite dei giorni seguenti, squalo balena ed Espíritu Santo, nelle agenzie del Malecón, controllando che siano autorizzate.
+
+**In pratica:** volo Città del Messico-La Paz circa 2 ore e 15 · auto a noleggio con assicurazione completa, da prenotare in anticipo nella stagione delle balene · benzina solo nei distributori, si paga anche in contanti · per dormire, il Malecón o le vie appena dietro.
 
 ### Giorno 7 — Lo squalo balena e Playa Balandra
 La mattina l'abbiamo dedicata allo **squalo balena**, il pesce più grande del mondo, che d'inverno si nutre di plancton in una zona di rifugio della baia, vicino alla lingua di sabbia di El Mogote. Si esce in barca con un operatore autorizzato dalla CONANP e si nuota in superficie accanto all'animale, in piccoli gruppi e a turni di pochi minuti. Le regole sono rigide: niente contatto, distanza minima, niente flash. La stagione si apre solo quando gli squali ci sono, e conviene controllarla prima di prenotare.
@@ -85,6 +95,8 @@ Di solito la giornata comprende il pranzo in spiaggia nella baia di Ensenada Gra
 
 *Da sapere: il tour costa indicativamente 2.500-3.500 MXN a persona, più la quota del parco (brazalete) se non è inclusa. Il mare può essere mosso: con vento forte da nord le uscite vengono cancellate, quindi conviene tenere un giorno di margine a La Paz.*
 
+**In pratica:** partenze dal Malecón o da Pichilingue la mattina presto, rientro nel pomeriggio · portare crema solare reef safe, cappello e una felpa per la barca · tenere un giorno libero a La Paz in caso di cancellazione per vento.
+
 ### Giorno 9 — Verso Bahía Magdalena: le balene grigie
 Abbiamo puntato verso il Pacifico: circa tre ore di auto attraverso il deserto di cardones, fino a **Puerto Adolfo López Mateos** o **Puerto San Carlos**, i due villaggi di pescatori sulla **Bahía Magdalena**. Qui ogni inverno le balene grigie partoriscono e allattano i piccoli nella laguna, dopo un viaggio di oltre diecimila chilometri dall'Artico.
 
@@ -92,38 +104,56 @@ Le uscite si fanno in panga, le barche dei pescatori, con le cooperative locali.
 
 *Da sapere: le uscite migliori sono al mattino, quando il vento è più debole. Chi arriva nel pomeriggio fa la prima uscita il giorno dopo.*
 
-### Giorno 10 — Seconda uscita in laguna e strada per Loreto
-Siamo tornati in laguna all'alba, quando è piatta. Poi abbiamo riattraversato la penisola verso il Mar di Cortez: da Ciudad Constitución a **Loreto** la strada sale nella Sierra de la Giganta e scende sul mare, circa due ore e mezza-tre in tutto.
+**In pratica:** da La Paz a Puerto San Carlos o López Mateos circa 3 ore di auto · stagione delle balene grigie indicativamente da gennaio a marzo · alloggi semplici e pochi, da prenotare prima · contanti in pesos: nei villaggi le carte funzionano poco.
 
-Loreto è un **Pueblo Mágico** fondato nel 1697 dai gesuiti. La **Misión de Nuestra Señora de Loreto** fu la prima missione delle Californie, e da qui partì la colonizzazione che arrivò fino a San Francisco. Il centro è piccolo e ordinato, con un malecón tranquillo e ristoranti di pesce.
+### Giorno 10 — Seconda uscita in laguna e strada per Loreto
+Siamo tornati in laguna all'alba, quando è piatta. Poi abbiamo riattraversato la penisola verso il Mar di Cortez: da Ciudad Constitución a **Loreto** la strada sale nella Sierra de la Giganta e scende sul mare, circa due ore e mezza-tre in tutto. È un tratto da fare con la luce: la strada ha pochi distributori e qualche curva stretta in montagna, e conviene fare il pieno a Ciudad Constitución. *Di notte sulle strade della Baja si incontrano mucche e capre: si guida solo di giorno.*
+
+Loreto è un **Pueblo Mágico** fondato nel 1697 dai gesuiti. La **Misión de Nuestra Señora de Loreto** fu la prima missione delle Californie, e da qui partì la colonizzazione che arrivò fino a San Francisco. Il centro è piccolo e ordinato, con un malecón tranquillo e ristoranti di pesce. Accanto alla missione c'è il piccolo museo delle missioni, che racconta la storia dei gesuiti in Baja California. La sera si prenota l'uscita in barca di domani al porto, dove i lancheros hanno i loro banchi.
+
+**In pratica:** laguna-Loreto circa 3-3 ore e mezza con la sosta per il pieno · missione di Loreto con ingresso libero, museo con biglietto economico · per dormire, il centro vicino alla missione e al malecón.
 
 ### Giorno 11 — Loreto: balenottera azzurra e Isla Coronado
-Il **Parque Nacional Bahía de Loreto** è uno dei punti del Mar di Cortez dove d'inverno si nutre la **balenottera azzurra**, insieme a balenottere comuni e delfini. Le uscite partono dal malecón con lancheros autorizzati e durano circa cinque ore; il prezzo indicativo parte da 3.000 MXN a persona. La stagione va da metà gennaio a fine marzo.
+Il **Parque Nacional Bahía de Loreto** è uno dei punti del Mar di Cortez dove d'inverno si nutre la **balenottera azzurra**, insieme a balenottere comuni e delfini. Le uscite partono dal malecón con lancheros autorizzati e durano circa cinque ore; il prezzo indicativo parte da 3.000 MXN a persona. La stagione va da metà gennaio a fine marzo. Si parte la mattina presto, quando il mare è più calmo, e le barche si tengono a distanza dagli animali secondo le regole del parco. *Avvistarle non è garantito: conviene tenere un secondo giorno libero per riprovare.*
 
-Chi preferisce una giornata più tranquilla, o ha già visto le balene, può andare a **Isla Coronado**, con una spiaggia bianca e acqua da snorkeling, oppure salire alla **Misión de San Javier**, a un'ora e mezza nella sierra, una delle missioni meglio conservate della penisola.
+Chi preferisce una giornata più tranquilla, o ha già visto le balene, può andare a **Isla Coronado**, con una spiaggia bianca e acqua da snorkeling, oppure salire alla **Misión de San Javier**, a un'ora e mezza nella sierra, una delle missioni meglio conservate della penisola. La strada per San Javier è asfaltata e attraversa canyon e oasi di palme; la missione in pietra del Settecento sta in un piccolo villaggio, con un uliveto antico dietro la chiesa. Per Isla Coronado servono la barca e il braccialetto del parco.
+
+**In pratica:** uscita per la balenottera azzurra da circa 3.000 MXN a persona, circa 5 ore · braccialetto del parco nazionale a parte, se non incluso · Isla Coronado mezza giornata in barca · San Javier circa un'ora e mezza di auto, andata e ritorno in mezza giornata.
 
 ### Giorno 12 — Da Loreto a Todos Santos
-È la tappa lunga del roadtrip: circa cinque ore e mezza di guida verso sud, prima sulla Transpeninsular fino a Ciudad Insurgentes, poi oltre La Paz fino a **Todos Santos**, sul Pacifico. Siamo partiti presto per arrivare con la luce. Dopo La Paz la strada attraversa il deserto e arriva sull'oceano proprio sul Tropico del Cancro.
+È la tappa lunga del roadtrip: circa cinque ore e mezza di guida verso sud, prima sulla Transpeninsular fino a Ciudad Insurgentes, poi oltre La Paz fino a **Todos Santos**, sul Pacifico. Siamo partiti presto per arrivare con la luce. Dopo La Paz la strada attraversa il deserto e arriva sull'oceano proprio sul Tropico del Cancro. Lungo la Transpeninsular ci sono posti di controllo militari, rapidi, dove si mostrano i documenti e a volte il bagagliaio. *Conviene fare il pieno a ogni occasione e tenere acqua in macchina: tra un paese e l'altro ci sono lunghi tratti senza servizi.*
 
-Todos Santos è un altro Pueblo Mágico, con case coloniali, gallerie d'arte, caffè e un'aria più rilassata di Cabo. La sera abbiamo cenato in centro.
+Todos Santos è un altro Pueblo Mágico, con case coloniali, gallerie d'arte, caffè e un'aria più rilassata di Cabo. La sera abbiamo cenato in centro. Il paese si gira a piedi in un'ora: la missione, la piazza, il teatro e l'**Hotel California**, che deve il nome alla canzone solo nella leggenda. Il pomeriggio, se resta luce, si può andare alla spiaggia di **La Pastora** o di Las Palmas per il tramonto sul Pacifico, ma solo per guardare: qui il mare è pericoloso.
+
+**In pratica:** Loreto-Todos Santos circa 5 ore e mezza, più le soste · posti di blocco militari con documenti a portata di mano · nelle spiagge di Todos Santos il bagno è sconsigliato per correnti e onde · per dormire, il centro del paese.
 
 ### Giorno 13 — Todos Santos, Playa Cerritos e le tartarughe
-La mattina siamo stati in spiaggia a **Playa Cerritos**, 15 minuti a sud, l'unica della zona dove si può nuotare con una certa sicurezza e dove si prendono lezioni di surf. Qui le altre spiagge del Pacifico hanno correnti e frangenti forti.
+La mattina siamo stati in spiaggia a **Playa Cerritos**, 15 minuti a sud, l'unica della zona dove si può nuotare con una certa sicurezza e dove si prendono lezioni di surf. Qui le altre spiagge del Pacifico hanno correnti e frangenti forti. Le scuole di surf noleggiano tavole e mute sulla spiaggia, e la mattina presto le onde sono più adatte ai principianti. *Anche a Cerritos si nuota vicino ai bagnini e lontano dalle rocce, dove le correnti sono più forti.*
 
-Al tramonto, nelle stagioni di schiusa, i progetti di conservazione di Todos Santos liberano in mare le tartarughe nate nei loro vivai (in inverno soprattutto tartarughe liuto e olivacee). Si partecipa con una piccola donazione, seguendo le istruzioni dei volontari. Le date dipendono dalle schiuse e vanno chieste in paese.
+Al tramonto, nelle stagioni di schiusa, i progetti di conservazione di Todos Santos liberano in mare le tartarughe nate nei loro vivai (in inverno soprattutto tartarughe liuto e olivacee). Si partecipa con una piccola donazione, seguendo le istruzioni dei volontari. Le date dipendono dalle schiuse e vanno chieste in paese. Le tartarughine si liberano sulla sabbia e si lasciano arrivare da sole all'acqua: non si toccano e non si usano flash o torce. Il pomeriggio libero è per le gallerie e i caffè del centro.
+
+**In pratica:** Playa Cerritos 15 minuti a sud di Todos Santos, parcheggio sulla spiaggia · lezioni di surf e noleggio tavole direttamente in spiaggia · liberazione delle tartarughe al tramonto, date da chiedere in paese · contanti per la donazione.
 
 ### Giorno 14 — Cabo San Lucas: El Arco e le megattere
-Con un'ora di strada siamo arrivati a **Cabo San Lucas**, la punta della penisola. In barca, dal porto turistico, si va a **El Arco**, l'arco di roccia dove il Mar di Cortez incontra il Pacifico, alla colonia di leoni marini e a **Playa del Amor**, la spiaggia stretta tra due mari.
+Con un'ora di strada siamo arrivati a **Cabo San Lucas**, la punta della penisola. In barca, dal porto turistico, si va a **El Arco**, l'arco di roccia dove il Mar di Cortez incontra il Pacifico, alla colonia di leoni marini e a **Playa del Amor**, la spiaggia stretta tra due mari. Le barche-taxi partono dalla Marina e dalla spiaggia di Médano, e un giro dura meno di un'ora; per scendere a Playa del Amor si chiede al barcaiolo di tornare a prenderci. *Il lato della spiaggia sul Pacifico, Playa del Divorcio, ha onde e correnti fortissime: il bagno si fa solo dal lato del Mar di Cortez.*
 
 Da dicembre ad aprile le acque davanti a Cabo sono piene di **megattere**. Le uscite di whale watching durano due-tre ore e sulle barche condivise costano indicativamente 80-130 dollari a persona (circa 1.400-2.200 MXN), meno con le barche grandi e di più con le piccole; una barca privata per otto persone arriva a circa 700 dollari. Cabo è la parte più turistica e cara del viaggio, con la vita notturna della Marina; per dormire molti preferiscono San José del Cabo.
 
-### Giorno 15 — San José del Cabo e Cabo Pulmo
-Per l'ultima giornata ci sono due possibilità. **San José del Cabo** è la parte coloniale e tranquilla di Los Cabos, con la piazza, la missione e il quartiere delle gallerie; il giovedì sera, da novembre a giugno, c'è l'**Art Walk**, con le gallerie aperte e musica in strada.
+**In pratica:** Todos Santos-Cabo San Lucas circa un'ora · giro a El Arco in barca-taxi con prezzo da concordare prima · whale watching 80-130 dollari a persona sulle barche condivise · a Cabo i prezzi sono spesso in dollari: conviene pagare in pesos.
 
-Chi ha energia va a **Cabo Pulmo**, circa due ore a nord-est (gli ultimi chilometri su strada sterrata): un parco nazionale con l'unica barriera corallina dura del Golfo di California, protetta dal 1995 e tornata piena di pesci. Snorkeling e immersioni si fanno solo con operatori del paese e in zone autorizzate.
+### Giorno 15 — San José del Cabo e Cabo Pulmo
+Per l'ultima giornata ci sono due possibilità. **San José del Cabo** è la parte coloniale e tranquilla di Los Cabos, con la piazza, la missione e il quartiere delle gallerie; il giovedì sera, da novembre a giugno, c'è l'**Art Walk**, con le gallerie aperte e musica in strada. Il centro si gira a piedi in mezza giornata, e la sera la piazza Mijares si riempie di famiglie. *Per l'ultima notte conviene dormire qui: l'aeroporto è a una ventina di minuti.*
+
+Chi ha energia va a **Cabo Pulmo**, circa due ore a nord-est (gli ultimi chilometri su strada sterrata): un parco nazionale con l'unica barriera corallina dura del Golfo di California, protetta dal 1995 e tornata piena di pesci. Snorkeling e immersioni si fanno solo con operatori del paese e in zone autorizzate. Il villaggio è minuscolo, senza bancomat e con pochi servizi: si portano contanti, acqua e cibo. Con un po' di fortuna, sott'acqua si vedono banchi enormi di pesci, razze e tartarughe; d'inverno a volte si vedono megattere dalla spiaggia.
+
+**In pratica:** San José-Cabo Pulmo circa 2 ore, ultimo tratto sterrato percorribile con auto normale se asciutto · braccialetto del parco e uscite con gli operatori locali · niente bancomat a Cabo Pulmo · Art Walk il giovedì sera da novembre a giugno.
 
 ### Giorno 16 — Rientro da San José del Cabo
-Abbiamo restituito l'auto all'aeroporto di **San José del Cabo**, da cui si vola a Città del Messico, con coincidenza per l'Europa, oppure via Stati Uniti. Meglio lasciare un margine ampio: tra controllo dell'auto, check-in e una coincidenza a Città del Messico, conviene tenere almeno quattro ore tra i voli.
+Abbiamo restituito l'auto all'aeroporto di **San José del Cabo**, da cui si vola a Città del Messico, con coincidenza per l'Europa, oppure via Stati Uniti. Meglio lasciare un margine ampio: tra controllo dell'auto, check-in e una coincidenza a Città del Messico, conviene tenere almeno quattro ore tra i voli. All'aeroporto di San José ci sono diversi terminal: conviene controllare prima da quale parte il volo.
+
+Chi ha la mattina libera può fare un ultimo bagno o una colazione sul mare a San José, che ha spiagge davanti alla zona degli hotel. *All'uscita dell'aeroporto e nella zona arrivi ci sono venditori di multiproprietà che offrono regali o escursioni: vale la pena ignorarli.* Per la riconsegna dell'auto si fotografa di nuovo la carrozzeria e si conserva la ricevuta; il pieno va fatto prima di arrivare, perché vicino all'aeroporto i distributori sono pochi.
+
+**In pratica:** dal centro di San José all'aeroporto circa 20 minuti · riconsegna auto con almeno mezz'ora di margine · almeno quattro ore tra i voli con coincidenza a Città del Messico · in aeroporto due-tre ore prima per i voli internazionali.
 
 ## Varianti
 **12 giorni, senza Loreto.** Quattro giorni a Città del Messico, quattro a La Paz (squalo balena, Balandra, Espíritu Santo e una giornata di andata e ritorno a Bahía Magdalena partendo all'alba), uno a Todos Santos e due a Los Cabos. Si perde la balenottera azzurra, si guida molto meno.

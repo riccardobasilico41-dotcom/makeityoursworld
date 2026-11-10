@@ -43,6 +43,8 @@ At the end of the afternoon we reached the **Sforza Castle**. The courtyard is c
 
 Aperitivo and evening in **Brera** or at the **Navigli**, with the restored **Darsena** and the two canals, Grande and Pavese. They are what remains of the canal system that carried marble from the quarries of Lake Maggiore to the Duomo's construction site.
 
+**In practice:** Duomo rooftops with tickets by time slot, on foot is cheaper than by lift, book on the official website · Pinacoteca di Brera and the Castello museums closed on Mondays, the Castello courtyard is free · the whole route is on foot; for the Navigli metro M2, Porta Genova stop
+
 ### Day 2 — The Last Supper, Sant'Ambrogio and contemporary Milan
 The morning is for the **Last Supper**, if you managed to book: you enter in groups, through two airtight doors, and have a few minutes in the refectory. It helps to know what you're looking at. Leonardo **did not paint it as a fresco**, but in tempera on dry wall, so he could work slowly and go back over details, and that's exactly why it began to deteriorate **while he was still alive**. What you see is the result of centuries of restorations and a twenty-two-year intervention. On the opposite wall, which nobody looks at, there's a perfectly preserved Crucifixion by Montorfano: it's the point of comparison that explains everything.
 
@@ -55,6 +57,8 @@ The afternoon is for the Milan of the other century, according to taste:
 - **Cimitero Monumentale**, free, an open-air museum of funerary sculpture: aedicules, temples, monuments of industrial families and the Famedio at the entrance.
 
 At the end of the day, the northern quadrant: **Porta Nuova** with the **Bosco Verticale**, two residential towers with hundreds of real trees on the balconies, which in summer give shade and in winter let the light through, and the walk toward **Isola**, the neighborhood with the most life in new Milan. Alternatively **CityLife**, with the three towers by Isozaki, Hadid and Libeskind and the park around them.
+
+**In practice:** Last Supper about 15 euros, by reservation only, closed on Mondays: slots are released in blocks and sell out in a few days · San Maurizio and Sant'Ambrogio free to enter, outside service times · HangarBicocca open Thursday to Sunday, by metro M5 · Fondazione Prada closed on Tuesdays, Museo del Novecento and the Monumentale closed on Mondays
 
 ## The One-Day Version
 One day in Milan works very well, better than in almost any other Italian city, because the center is compact and the metro is fast. The program:

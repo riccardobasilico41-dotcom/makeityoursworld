@@ -29,6 +29,10 @@ Siamo atterrati a Chongqing Jiangbei (CKG), collegato al centro in metropolitana
 
 La prima sera è servita ad ambientarsi, che qui vuol dire una cosa precisa: capire che la città è costruita su più livelli e che quello che sulla mappa è un isolato può essere separato da cento metri di dislivello. A cena gli **xiaomian**, i noodles piccanti che a Chongqing si mangiano in strada, seduti su sgabelli di plastica.
 
+Prima ancora di uscire dall'aeroporto conviene sistemare due cose: i pagamenti e la connessione. In Cina quasi tutto si paga con **Alipay** o **WeChat Pay**, che oggi accettano anche le carte di credito straniere, e senza un'eSIM o una VPN molte app occidentali non funzionano. La metro dall'aeroporto al centro impiega meno di un'ora. Il primo pomeriggio basta un giro intorno a **Jiefangbei**, la zona pedonale del Monumento alla Liberazione, e una passeggiata fino alla punta della penisola, dove lo Yangtze e il Jialing si incontrano. *Le mappe Google qui sono poco affidabili: si usa Amap (Gaode), anche in inglese.*
+
+**In pratica:** aeroporto-Yuzhong in metro, circa un'ora con un cambio, biglietto di pochi yuan · taxi e Didi economici, ma nelle ore di punta i ponti si bloccano · dormire tra Jiefangbei e Hongya Dong per fare tutto a piedi
+
 ### Giorno 2 — Chongqing verticale
 Abbiamo dedicato la giornata alla città più strana della Cina. A **Liziba** la monorotaia entra ed esce dal sesto piano di un palazzo residenziale abitato; poi il quartiere antico di **Ciqikou**, conservato dentro la megalopoli.
 
@@ -37,6 +41,8 @@ Nel tardo pomeriggio abbiamo preso la **funivia sullo Yangtze**: pochi yuan, cin
 Dopo il buio, **Hongya Dong**, ma dalla riva opposta del Jialing, non da dentro. All'interno è un centro commerciale a tema e ci si chiede perché ne parlino tutti; da fuori sono undici piani di edifici illuminati che si specchiano nell'acqua, con i grattacieli dietro.
 
 A cena l'**hot pot di Chongqing**, l'originale, che non fa concessioni: brodo rosso di grasso di manzo e peperoncino, senza versioni addolcite.
+
+**In pratica:** Liziba sulla linea 2 della monorotaia, la piattaforma di osservazione è sotto la stazione · funivia sullo Yangtze: code lunghe la sera, meglio andarci prima del tramonto · nell'hot pot si può chiedere il piccante leggero (wei la), che resta comunque piccante
 
 ### Giorno 3 — Furong Zhen, il borgo sulla cascata
 **Alta velocità Chongqing-Furong Zhen, circa 3 ore e mezza-4 ore e mezza con il cambio a Zhangjiajie Ovest.** Il treno ha reso semplice una tappa che un tempo richiedeva una giornata intera di strada.
@@ -47,12 +53,18 @@ Da non perdere il **camminamento scavato nella roccia che passa dietro il salto 
 
 **Abbiamo dormito nel borgo**, in una guesthouse affacciata sul fiume: è l'unico motivo per non farlo in giornata.
 
+**In pratica:** biglietti del treno su 12306 o Trip.com con il passaporto, conviene comprarli appena si aprono le vendite · Furong Zhen ha un biglietto d'ingresso per il borgo, da controllare al momento · la cascata è illuminata la sera fino a tardi
+
 ### Giorno 4 — Verso Zhangjiajie
 Ci siamo trasferiti a **Wulingyuan**, il paese appena fuori dall'ingresso principale del parco nazionale (circa 2 ore di auto o bus da Furong Zhen).
 
 Il pomeriggio è servito a organizzarsi, che qui conta più che altrove: il parco è enorme, il biglietto vale quattro giorni e la mappa va studiata la sera prima, non all'ingresso. Chi improvvisa passa la giornata dopo in navetta e in coda.
 
 *Dormire a Wulingyuan e non in città è la scelta che fa risparmiare due ore al giorno di trasferimento.*
+
+Il parco ha quattro ingressi: **Wulingyuan**, quello della foresta nazionale vicino a Zhangjiajie città, **Yangjiajie** e **Tianzi Shan**. Il biglietto si compra una volta sola, vale per più giorni consecutivi e comprende le navette ecologiche che collegano le zone; l'ascensore di Bailong, le funivie e il trenino del Dieci Miglia di Galleria si pagano a parte. Al primo ingresso il biglietto si registra con il passaporto e si passa al riconoscimento facciale. La sera, in paese, si comprano acqua e snack per il giorno dopo, un impermeabile leggero e qualche scorta: dentro il parco i chioschi ci sono, ma costano di più. *Conviene fissare già ora l'itinerario di domani, zona per zona, e partire con il primo bus.*
+
+**In pratica:** Furong Zhen-Wulingyuan con bus via Zhangjiajie o auto con autista, circa 2 ore · biglietto del parco con navette intorno ai 230-240 yuan, valido 4 giorni · a Wulingyuan ristoranti semplici e alberghi di ogni fascia vicino all'ingresso
 
 ### Giorno 5 — Yuanjiajie e l'ascensore di Bailong
 Eravamo **all'ingresso all'apertura**, non un minuto dopo: è la differenza tra cinque minuti di coda all'ascensore e un'ora e mezza.
@@ -63,10 +75,16 @@ Il consiglio che vale la giornata: camminare fino alle piattaforme più lontane.
 
 *Sulla nebbia conviene ribaltare il ragionamento: è ciò che fa sembrare i pilastri sospesi nel vuoto. Con il cielo terso sembrano montagne normali.*
 
+**In pratica:** ascensore di Bailong circa 65 yuan a salita, a parte rispetto al biglietto del parco · aprire il parco alle 7 circa e andare subito all'ascensore · portare acqua e pranzo al sacco, i bagni in quota ci sono ma sono pochi
+
 ### Giorno 6 — Tianzi Shan e il fondovalle
 Seconda giornata nel parco, con il biglietto già in mano. **Tianzi Shan** al mattino, per il panorama più ampio sull'intero massiccio, e nel pomeriggio la discesa lungo il **sentiero del torrente della Frusta d'Oro (Jinbian Xi)**, in fondo alla valle.
 
 È la parte che quasi nessuno fa e vale mezza giornata: guardare quei pilastri dal basso, con il collo all'insù e il ruscello di fianco, impressiona più che vederli dall'alto. E in fondovalle i pullman non arrivano.
+
+Per salire a Tianzi Shan si può usare la funivia oppure la navetta fino alla zona di **Helong**, dove si trovano i belvedere sulle **Cime del Pennello Imperiale**, le guglie che sembrano pennelli capovolti. Il sentiero della Frusta d'Oro è lungo circa sette chilometri e mezzo, quasi tutto in piano, e si percorre in due o tre ore fino all'ingresso della foresta nazionale. Lungo il torrente vivono i macachi, abituati ai turisti: *niente cibo in mano o in vista nelle borse, perché lo strappano*. Chi ha ancora gambe aggiunge il **Dieci Miglia di Galleria**, la valle dei pilastri con il trenino che la percorre in pochi minuti.
+
+**In pratica:** funivia di Tianzi Shan circa 70 yuan a tratta · le navette ecologiche sono comprese nel biglietto, nelle ore di punta si aspetta · dal fondovalle del torrente si esce all'ingresso della foresta nazionale, da lì i bus per Wulingyuan
 
 ### Giorno 7 — Tianmen Shan e volo per Chengdu
 Ci siamo trasferiti in città per una giornata a **Tianmen Shan**, con la fascia oraria della funivia prenotata in anticipo. La funivia, lunga quasi sette chilometri e mezzo, è tra le più lunghe del mondo: parte dal centro città, dura quasi mezz'ora e verso la fine sorvola la strada dei 99 tornanti.
@@ -74,6 +92,8 @@ Ci siamo trasferiti in città per una giornata a **Tianmen Shan**, con la fascia
 In cima c'è la **Porta del Cielo**, una grotta naturale passante alta 131 metri, a cui si arriva salendo 999 gradini (o con le scale mobili dentro la montagna, per chi non se la sente), e ci sono le **passerelle a strapiombo con il fondo di vetro**: sicure e larghe, ma chi soffre di vertigini si ferma dopo tre passi.
 
 **Volo serale Zhangjiajie-Chengdu.**
+
+**In pratica:** biglietto di Tianmen Shan con funivia a fasce orarie, da prenotare in anticipo sul sito ufficiale o su Trip.com · sulle passerelle di vetro si mettono soprascarpe, a pagamento · volo Zhangjiajie-Chengdu sotto le due ore, l'aeroporto è a una ventina di minuti dalla città
 
 ### Giorno 8 — Chengdu: panda, tè e hot pot
 Siamo andati alla **base dei panda giganti allo slot delle 7:30**, con la prenotazione nominale fatta giorni prima. Tutto dipende dall'ora: alle sette e mezza gli animali sono svegli, mangiano bambù e si arrampicano; alle undici dormono, e chi arriva a quell'ora se ne va convinto che sia un posto sopravvalutato.
@@ -84,10 +104,16 @@ Il pomeriggio al **Monastero di Wenshu** e poi nel **parco del Popolo**, alla ca
 
 La sera, **hot pot sichuanese** con il brodo diviso. Il pepe di Sichuan non brucia, addormenta la lingua, e la prima volta la sensazione è quasi allarmante, prima di diventare una dipendenza.
 
+**In pratica:** base dei panda circa 55 yuan, prenotazione nominale con il passaporto fino a 14 giorni prima · si arriva in taxi o Didi in mezz'ora dal centro, la metro richiede più tempo · Wenshu a ingresso libero, nel parco del Popolo il tè si ordina al tavolo e si paga poco
+
 ### Giorno 9 — Leshan, poi volo per Lijiang
 Gita in giornata al **Grande Buddha di Leshan**, 71 metri scolpiti nella roccia alla confluenza di tre fiumi, a circa un'ora di alta velocità. In alternativa **Dujiangyan**, il sistema di irrigazione in funzione ininterrotta dal III secolo a.C., ma sono in direzioni opposte e in un giorno solo se ne fa uno.
 
 **Volo serale Chengdu-Lijiang.** Si arriva a 2.400 metri, ed è per questo che la quota vera si affronta solo dal giorno dopo.
+
+Dalla stazione di Leshan al sito ci sono una trentina di minuti di taxi o di bus. Il Buddha si guarda in due modi: dall'alto, accanto alla testa, e scendendo la **scala dei Nove Tornanti**, il camminamento scavato nella parete che porta ai piedi della statua; oppure dal fiume, con il battello, che passa davanti in pochi minuti e mostra la statua intera insieme alle due figure dei guardiani. *Nei giorni festivi la coda per la scala può durare più di un'ora: conviene arrivare all'apertura o scegliere il battello.* Per pranzo, a Leshan si mangiano i **bobo ji**, spiedini freddi in brodo piccante, che vanno pagati a bastoncino.
+
+**In pratica:** treno ad alta velocità Chengdu-Leshan circa un'ora · biglietto del sito intorno agli 80 yuan, battello a parte con biglietto di qualche decina di yuan · per il volo serale tenersi un buon margine: il rientro a Chengdu e il trasferimento in aeroporto prendono un paio d'ore
 
 ### Giorno 10 — Lijiang e Baisha
 Siamo entrati nella **città vecchia di Dayan alle sei del mattino**, prima che apra qualsiasi negozio: vicoli bagnati, canali che scorrono, le donne Naxi che spazzano davanti casa. È un posto completamente diverso da quello delle sette di sera, quando la stessa via è un corridoio di souvenir con la musica alta.
@@ -95,6 +121,8 @@ Siamo entrati nella **città vecchia di Dayan alle sei del mattino**, prima che 
 Nel pomeriggio siamo stati a **Baisha**, dieci chilometri a nord. È il villaggio Naxi originario, ci va quasi nessuno, e quello che a Dayan si cerca senza trovarlo lì c'è ancora. Ci si arriva in bici o in taxi.
 
 La sera, i **noodles che attraversano il ponte** e il formaggio di capra grigliato, che nello Yunnan sono normali e nel resto della Cina non esistono.
+
+**In pratica:** tassa di manutenzione della città vecchia di Lijiang, una cinquantina di yuan, chiesta solo a volte agli ingressi · Baisha si raggiunge in bici o in taxi in una ventina di minuti · cena tra Dayan e Shuhe, l'altro borgo antico vicino, più tranquillo
 
 ### Giorno 11 — Yulong Xueshan e Impression Lijiang
 Giornata in quota, con tutto prenotato in anticipo, perché le quote giornaliere si esauriscono.
@@ -105,6 +133,8 @@ Nel pomeriggio la **funivia del ghiacciaio a 4.506 metri**, ma solo se il cielo 
 
 *Se il cielo è coperto, l'alternativa sensata è la funivia del Prato degli Abeti a 3.200 metri, che costa la metà e ha molta meno coda.*
 
+**In pratica:** biglietti per il parco, la navetta, la funivia e lo spettacolo da prenotare giorni prima sui canali ufficiali, le quote si esauriscono · in quota si vendono bombolette di ossigeno, utili per chi sente il fiato corto · strati pesanti, guanti e occhiali da sole anche d'estate
+
 ### Giorno 12 — Gola del Salto della Tigre, primo giorno
 Ci siamo trasferiti a **Qiaotou** (circa due ore da Lijiang) e siamo partiti a piedi lungo il **sentiero alto**, sul versante nord della gola, quello dell'Haba Xueshan. I bagagli grossi restano in deposito a Lijiang o vengono portati alla guesthouse d'arrivo.
 
@@ -112,10 +142,16 @@ Il tratto duro è la salita delle **28 curve**, un'ora abbondante di tornanti co
 
 Cinque o sei ore di cammino, e la notte in una guesthouse sul sentiero. Non c'è altro da fare che cenare tutti allo stesso tavolo e guardare la montagna dall'altra parte, ed è proprio questo il punto.
 
+**In pratica:** bus o auto Lijiang-Qiaotou circa 2 ore, biglietto d'ingresso alla gola all'imbocco · lungo le 28 curve i locali offrono cavalli a pagamento per la salita · guesthouse sul sentiero alto da prenotare d'estate, contanti utili per le piccole spese
+
 ### Giorno 13 — Secondo giorno di trek e Shangri-La
 Tre o quattro ore di cammino fino a **Walnut Garden** e la discesa a fondovalle. Chi vuole scende fino alla roccia del Salto della Tigre, sul fiume, con una scalinata ripida da fare andata e ritorno.
 
 Nel pomeriggio ci siamo trasferiti a **Shangri-La** (circa 2 ore). Si sale sopra i 3.200 metri e l'aria cambia: il paesaggio diventa altopiano tibetano, le notti sono fredde in ogni stagione e il fiato manca anche solo salendo una rampa di scale.
+
+Il tratto finale del sentiero alto scende verso la strada della gola, dove si trovano guesthouse e piccoli ristoranti. La discesa al fiume dalla zona di Walnut Garden passa su sentieri privati: *i residenti chiedono un pedaggio di pochi yuan in più punti, ed è normale.* L'ultimo tratto in risalita comprende una scala di metallo quasi verticale, sconsigliata a chi soffre di vertigini. Il pomeriggio la strada sale verso nord e lascia lo Yunnan dei Naxi per il territorio tibetano: arrivati a Shangri-La, la prima sera va presa con calma, camminando piano, bevendo molto e senza alcol. *Il mal di quota si presenta di solito con mal di testa e sonno agitato: se peggiora, si scende.*
+
+**In pratica:** trasferimento Walnut Garden-Shangri-La in auto o minibus, circa 2 ore · a Shangri-La conviene dormire nella città vecchia di Dukezong · le notti sono fredde tutto l'anno, servono pile e giacca
 
 ### Giorno 14 — Shangri-La e rientro a Lijiang
 La mattina siamo stati al **monastero di Songzanlin**, il più grande complesso buddista tibetano dello Yunnan, e nella città vecchia di **Dukezong**, con il grande cilindro di preghiera girevole.
@@ -124,12 +160,20 @@ Primo assaggio di cucina d'altopiano: tè al burro di yak (che spiazza al primo 
 
 Siamo rientrati a **Lijiang** in poco più di un'ora con il treno, molto più comodo delle quattro ore di strada di un tempo.
 
+Songzanlin è un complesso di templi su una collina, a una ventina di minuti dalla città, costruito nel Seicento e chiamato anche il piccolo Potala: si visita in un paio d'ore, salendo la scalinata centrale fino alla sala principale. Conviene andarci al mattino, quando i monaci sono nelle sale e c'è meno gente. Dukezong è stata in gran parte distrutta da un incendio nel 2014 e ricostruita; il **cilindro di preghiera** dorato sulla collina di Guishan è tra i più grandi del mondo e va girato in senso orario, in gruppo. Il treno per Lijiang, aperto da pochi anni, ha cambiato i tempi di questa tappa. *Sopra i 3.000 metri il sole scotta anche con il freddo: crema e cappello.*
+
+**In pratica:** Songzanlin con biglietto d'ingresso e navetta interna · treno Shangri-La-Lijiang poco più di un'ora, biglietti su 12306 · a Lijiang tornare a dormire vicino alla stazione o nella città vecchia, a seconda dell'orario del volo
+
 ### Giorno 15 — Volo per Guilin e trasferimento a Yangshuo
 **Volo Lijiang-Guilin**, poi circa un'ora di bus fino a **Yangshuo**.
 
 La scelta dell'alloggio conta più di quanto sembri: il paese è comodo ma rumoroso, soprattutto attorno alla West Street, mentre le guesthouse in campagna lungo la **Yulong River** costano meno e sono il vero motivo per venire qui.
 
 La prima sera, il **pesce birra**, cotto in padella con peperoni e pomodoro, lungo il fiume.
+
+Il volo dura un paio d'ore e conviene prenderlo al mattino, così da arrivare a Yangshuo nel primo pomeriggio. Dall'aeroporto di Guilin partono bus diretti per Yangshuo; in alternativa c'è il treno ad alta velocità, ma la stazione di Yangshuo è fuori dal paese e serve comunque un taxi. Il pomeriggio si passa tra il paese e il fiume Li: la **West Street** è la via pedonale più antica, oggi piena di bar e negozi, bella da vedere una volta e poi da lasciare. *Per dormire lungo la Yulong conviene scegliere strutture con transfer o bici incluse: le strade di campagna la sera non sono illuminate.*
+
+**In pratica:** volo Lijiang-Guilin circa 2 ore · bus aeroporto di Guilin-Yangshuo circa un'ora e mezza · guesthouse sulla Yulong a pochi chilometri dal paese, prezzi bassi anche in alta stagione
 
 ### Giorno 16 — Xingping in zattera e alba a Xianggong
 **Sveglia prima delle cinque** e salita al punto panoramico della **collina di Xianggong**, ripida e al buio, per l'alba sull'ansa del fiume Li con la nebbia che si alza. È la fotografia che avevamo in testa partendo.
@@ -138,6 +182,8 @@ In mattinata abbiamo preso la **zattera di bambù sul tratto Xingping-Yangdi**: 
 
 *Sulla scelta tra zattera e crociera lunga da Guilin conviene essere netti: la crociera dura quattro ore, costa parecchio e si fa su un battello a due piani con altre duecento persone. La zattera copre solo il tratto migliore, dura un'ora, costa una frazione e si sta a mezzo metro dall'acqua.*
 
+**In pratica:** la salita a Xianggong è di una ventina di minuti su gradini, con biglietto d'ingresso; serve la frontale · zattere Xingping-Yangdi da prenotare il giorno prima tramite la guesthouse · da Yangshuo a Xingping circa un'ora di bus o di taxi
+
 ### Giorno 17 — Yangshuo in bicicletta
 È la giornata senza programma, che in un viaggio in Cina vale più di quanto sembri: una **bici elettrica** e la strada lungo la **Yulong River**, cinque ore a fermarsi dove capita tra risaie, bufali e ponti in pietra.
 
@@ -145,8 +191,16 @@ Per chi ha ancora energie, Yangshuo è una delle capitali mondiali dell'**arramp
 
 La sera, lo spettacolo **Impression Liu Sanjie**, dello stesso regista di Impression Lijiang, messo in scena sul fiume con le torri carsiche illuminate come scenografia.
 
+La strada lungo la Yulong risale la valle fino al **Ponte del Dragone**, un ponte di pietra ad arco del periodo Ming, punto di partenza delle zattere di bambù spinte a pertica, più lente di quelle di Xingping. Lungo la strada ci sono piccoli ristoranti di campagna dove si mangia all'aperto con vista sulle torri. Chi vuole un panorama dall'alto sale alla **Collina della Luna**, con un grande arco naturale, raggiungibile con una scalinata ripida di una mezz'ora. *Le bici elettriche hanno un'autonomia limitata: va controllata la batteria prima di partire e conviene non allontanarsi troppo.*
+
+**In pratica:** noleggio di bici elettriche in paese o in guesthouse, poche decine di yuan al giorno · Impression Liu Sanjie ogni sera in stagione, biglietti con posti a più fasce di prezzo · servono contanti o Alipay per i piccoli ristoranti di campagna
+
 ### Giorno 18 — Guilin e partenza
 Trasferimento a **Guilin** e partenza. Chi ha il volo nel pomeriggio può dedicare la mattina alle **terrazze di riso di Longji** solo se ha una giornata intera: sono a due ore e mezza verso nord e non si fanno di corsa.
+
+Senza il tempo per Longji, la mattina a Guilin si passa in città, tra la **Collina della Proboscide d'Elefante**, la roccia sul fiume che è il simbolo della città, e i laghi del centro, che si girano a piedi. La **Grotta del Flauto di Canna**, a pochi chilometri, è illuminata con luci colorate e si visita in meno di un'ora. Chi invece va a Longji parte all'alba e sale ai villaggi di **Ping'an** o **Dazhai**, dove le terrazze si vedono dai sentieri tra le case di legno. *La stagione migliore per le terrazze è tra maggio, quando sono allagate, e ottobre, prima della raccolta.*
+
+**In pratica:** Yangshuo-aeroporto di Guilin circa un'ora e mezza in auto o in bus · Longji a circa due ore e mezza da Guilin, biglietto d'ingresso all'area e navetta fino ai villaggi · per il volo internazionale arrivare in aeroporto con tre ore di anticipo
 
 ## Cosa vedere / cosa fare
 - **Essere all'ingresso di Zhangjiajie all'apertura.** È la decisione che cambia di più la qualità della giornata.

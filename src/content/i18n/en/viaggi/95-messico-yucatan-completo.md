@@ -30,9 +30,11 @@ We chose a loop rather than a one-way route with a return flight from Villahermo
 ## Itinerario giorno per giorno
 
 ### Day 1 — Arrival in Cancún
-You land in Cancún and sleep near the airport or downtown, near the ADO terminal. It's better to pick up the car the next day, in daylight. The first evening a walk and the street food at Parque las Palapas are enough: it's where Rick ate on the first evenings of his trip.
+You land in Cancún and sleep near the airport or downtown, near the ADO terminal. From the airport to the centre there are ADO buses, cheap and regular, while the taxis on the forecourt cost much more. It's best to pick up the car the next day, in daylight: at pick-up, photograph the bodywork from all sides and check that the insurance includes third-party liability, which is compulsory in Mexico. The hotel zone, the area of big beach resorts, isn't needed on this trip: downtown is cheaper and more convenient for setting off.
 
-Before leaving Cancún it's worth withdrawing plenty of cash and buying a SIM. Rick recommends it on his trip: that way you don't keep stopping on the days with several stops.
+The first evening a stroll and the street food of Parque las Palapas are enough, the place where Rick ate on the first evenings of his trip: marquesitas, esquites and tacos at the stalls around the square. Before leaving Cancún it's worth withdrawing plenty of cash and buying a SIM card. Rick recommends this from his own trip: that way you don't keep stopping on the days with several stops. *ATMs inside banks are safer than isolated ones on the street.*
+
+**In practice:** ADO bus airport-downtown, about half an hour · Quintana Roo is one hour ahead of Yucatán and Campeche, worth remembering for site opening times · car: driver's credit card for the deposit, photos of the car before leaving.
 
 ### Day 2 — Ek Balam, the Xcanché cenote and Valladolid
 From Cancún you head inland. The first stop is **Ek Balam**, a Maya site smaller and much less crowded than Chichén Itzá, with a large acropolis and beautifully preserved stucco work. Rick visited it with a guide and then went to the **Xcanché cenote**, close by: you go down a staircase cut into the rock to the water. Next to the cenote he ate empanadas made on the spot in a palapa.
@@ -43,7 +45,7 @@ In the afternoon you reach **Valladolid**, a quiet colonial town. In the evening
 - Ek Balam: 210 MXN INAH admission plus a 481 MXN CULTUR state fee for foreigners, so 691 MXN, plus 100 MXN parking for the ejido (INAH page). Whether you can climb the acropolis depends on the current rules: ask at the ticket office.
 
 ### Day 3 — Chichén Itzá at opening time and Izamal, towards Mérida
-You enter **Chichén Itzá** at 8 am, before the coaches from Cancún and the heat. Rick spent about two hours there. He paid by card at the ticket office and, in the office behind the entrance, got the free stamp in his passport. For the visit Rick recommends **Alejandro**, a guide born twenty minutes from the site who speaks Spanish and English: his contact is on the Valladolid page.
+You enter **Chichén Itzá** at 8 am, before the coaches from Cancún and the heat. Rick has been there four times; on the *Messico Beach Life* visit he spent about two hours. He paid by card at the ticket office and, in the office behind the entrance, got the free stamp in his passport. For the visit Rick recommends **Alejandro**, a guide born twenty minutes from the site who speaks Spanish and English: his contact is on the Valladolid page.
 
 After lunch you go to **Izamal**, the yellow town, with the large Franciscan convent built on top of a Maya pyramid. Rick advises not to waste time and money on souvenirs, because the town is expensive. If you want a swim along the way you can stop at the **Ik Kil cenote**, near Chichén Itzá: check the opening hours on site. In the evening you reach Mérida.
 
@@ -51,22 +53,27 @@ After lunch you go to **Izamal**, the yellow town, with the large Franciscan con
 - Chichén Itzá: you pay the INAH fee and the state fee. Check the amount for foreigners before leaving: in November 2026 the INAH page gives 105 + 548 MXN, while the local press reports 697 MXN with the new single ticket. According to the INAH page it's open daily 8 am to 4 pm, last entry 3 pm.
 
 ### Day 4 — Mérida: the centre, the market and Paseo de Montejo
-**Mérida** is the capital of Yucatán and the base for the next two days. In the morning you explore the centre on foot: the **Plaza Grande** with its 16th-century cathedral, the Government Palace with its murals, then the **mercado municipal**, with fruit, spices and crafts. In the afternoon you walk along **Paseo de Montejo**, the avenue of mansions from the golden age of henequén.
+**Mérida** is the capital of Yucatán and the base for the next two days. In the morning you explore the centre on foot: the **Plaza Grande** with its sixteenth-century cathedral, the Government Palace with Fernando Castro Pacheco's murals on the history of Yucatán, free to enter, then the **mercado municipal**, with fruit, spices and crafts. It's best to start early, because around midday the heat in town is heavy, and to spend the central hours in a shady courtyard or at the hotel. At the market you can also eat the classic Yucatecan dishes, such as cochinita pibil and panuchos.
 
-In the evening Rick went to La Negrita, which closes around 10 pm, and then to the Mezcalería, a large venue where you don't need to book.
+In the afternoon you walk along the **Paseo de Montejo**, the boulevard of mansions from the golden age of henequen, when agave fibre made the hacienda owners rich. *On Sunday mornings the boulevard is closed to cars and fills with bicycles, while the Plaza Grande has a market and music.* In the evening Rick went to La Negrita, which closes around 10 pm, and then to the Mezcalería, a large venue where you don't need to book.
+
+**In practice:** Government Palace free to enter · at the market beware of people offering to take you to shops · in the centre you get around on foot or with ride apps, park the car at the hotel or in guarded car parks.
 
 ### Day 5 — Celestún and the ría reserve
-A day trip west to **Celestún**, on the Gulf. The fishing village sits on the edge of the **Ría Celestún Biosphere Reserve**, a mangrove lagoon where boats go out to see flamingos and waterbirds. Flamingo numbers change a lot through the year: before paying for the boat, ask at the pier how many there are those days.
+A day trip west to **Celestún**, on the Gulf, about an hour and a half's drive from Mérida. The fishing village sits on the edge of the **Ría Celestún Biosphere Reserve**, a mangrove lagoon where boat trips go out to see flamingos and water birds. Boats leave from the village beach or from the pier near the bridge at the entrance, and the trip takes a couple of hours, with stops in the mangrove channels and at a freshwater pool where you can swim. The number of flamingos varies a lot through the year: before paying for the boat, ask at the pier how many there are those days.
 
-If a boatman gets too close to the birds for a photo, ask him to keep his distance. In the afternoon you eat fish on the beach and get back to Mérida before dark.
+It's best to go early in the morning, when the light is better and the wind weaker. If a boatman gets too close to the birds for a photo, ask him to keep his distance. In the afternoon you eat fish on the beach and head back to Mérida before dark. *The price is per boat: if you are only a few, join other travellers at the pier to split it.*
+
+**In practice:** Mérida-Celestún about 1.5 hours by car · boat paid in cash, price per boat plus the reserve fee · hat, sunscreen and repellent for the mangrove mosquitoes.
 
 ### Day 6 — Uxmal
-From Mérida you head south on Federal Highway 261 to **Uxmal**, the great Puuc city, with the Pyramid of the Magician and the Nunnery Quadrangle. The Puuc style is easy to spot on the façades: plain at the bottom, the top covered with stone mosaics and masks of the rain god. Rick visited it with a guide and then had lunch at **Po' Pol Chac**, with meat cooked underground.
+From Mérida you head south on Federal Highway 261 to **Uxmal**, the great Puuc city, with the Pyramid of the Magician and the Nunnery Quadrangle. The Puuc style is recognisable from the façades: plain on the lower part, the upper part full of stone mosaics and masks of the rain god. The pyramid cannot be climbed, but from the terrace of the Governor's Palace you see the whole site, with the low forest around it. Arrive at opening time, 8 am: Uxmal closes earlier than other sites and the afternoon heat is strong.
 
-You sleep around Uxmal or in Santa Elena, so you're already on the Puuc Route the next morning.
+Rick visited it with a guide and then had lunch at **Po' Pol Chac**, with meat cooked underground. *Authorised guides are hired at the ticket office, with an INAH badge, not from people approaching you in the car park.* You sleep near Uxmal or in Santa Elena, so as to be already on the Puuc Route the next morning.
 
 **In practice**
-- Uxmal: 105 MXN INAH admission plus a 461 MXN CULTUR state fee for foreigners, so 566 MXN (INAH page, November 2026). Open daily 8 am to 4 pm, last entry 3 pm.
+- Uxmal: 105 MXN INAH entry plus 461 MXN CULTUR state fee for foreigners, so 566 MXN (INAH page, November 2026). Open daily from 8 am to 4 pm, last entry at 3 pm.
+- Mérida-Uxmal about 1 hour 15 minutes by car; water and a hat, there's little shade on the site.
 
 ### Day 7 — The Puuc Route and the road to Campeche
 The **Puuc Route** is a country road linking the smaller sites in the same style, a few kilometres apart. **Kabah** has the Codz Poop, a façade covered with hundreds of Chaac masks, and a lone arch. **Labná** has another famous, richly decorated arch. Between the two there's also **Sayil**, with the Great Palace built on stacked terraces. They are quiet sites, often almost empty.
@@ -88,9 +95,11 @@ In the afternoon you go up to **Fuerte de San Miguel**, on one of the hills on e
 - Fuerte de San Miguel: 145 MXN for foreigners, Tuesday to Sunday 8 am to 5 pm (INAH page). Closed on Mondays: in that case swap the days.
 
 ### Day 9 — From Campeche to Palenque
-This is the long transfer to Chiapas, via Escárcega. On the Tren Maya, Campeche and Palenque are on the same line, so it's the leg where the train makes most sense, if that day's timetable works. By car you leave early to arrive in daylight.
+This is the long transfer to Chiapas, via Escárcega. On the Tren Maya, Campeche and Palenque are on the same line, so this is the leg where the train makes most sense, if the day's timetable works. By car you leave early to arrive in daylight: it's about five to six hours, with long straight stretches through the countryside, speed bumps (topes) at the entrance to every village and a few army checkpoints, where you just stop and show your documents. Escárcega, halfway, is the place for fuel and lunch.
 
-Palenque town has little to see. You sleep in town or along the road up to the site, where there are places to stay surrounded by greenery.
+Palenque town doesn't have much to see. You sleep in town or along the road up to the site, where there are lodgings surrounded by vegetation: the El Panchán area, a few minutes from the ruins, is the most convenient for entering at opening time the next day. *The road between Escárcega and Palenque is not driven at night: animals, potholes and unlit speed bumps.*
+
+**In practice:** Campeche-Palenque about 5-6 hours by car · Tren Maya: timetables and tickets on the official website, check a few days ahead · Palenque is on Central time, like Campeche · cash for the small lodgings around the site.
 
 ### Day 10 — Palenque, the city in the forest
 The **Palenque** site lies inside the national park, a few kilometres from town, on the first forest-covered hills. The Temple of the Inscriptions held the tomb of King Pakal; the Palace, with its tower, dominates the plaza. All around are streams, small waterfalls and the noise of howler monkeys. You go in at opening time, 8 am, while the forest is still cool.
@@ -105,10 +114,14 @@ The waterfalls of **Misol-Ha**, a single drop into a wide pool, and **Agua Azul*
 
 That's why day 11 here is a spare day. If the official advice has changed when you travel, you do the waterfalls on a tour organised in town, never in your own car; ask at your hotel that same morning whether the road is clear. Otherwise you go back to the Palenque site for the forest trails and the more distant temple groups, or rest before the long day.
 
-### Day 12 — From Palenque to Xpujil
-You head back towards Escárcega and continue east on Federal Highway 186 to **Xpujil**, the reference town for Calakmul. It's a day on the road, to be done entirely in daylight. Along Highway 186 there are smaller sites such as **Balam Ku**, where Rick stopped on his trip, and around Xpujil the Río Bec-style sites, such as Becán and Xpuhil.
+**In practice:** before deciding, check the latest Viaggiare Sicuri and Foreign Office advice · organised tours from town only, leaving in the morning and back in the afternoon · at the waterfalls the communities charge an entry fee in cash · swimsuit, water shoes and repellent.
 
-You sleep in Xpujil or at the eco-lodges along the road to the reserve. Fill up and get cash before entering the reserve.
+### Day 12 — From Palenque to Xpujil
+You head back towards Escárcega and continue east on Federal Highway 186 to **Xpujil**, the base town for Calakmul. It's a driving day, to be done entirely in daylight: about five to six hours, on the same roads as day 9 as far as Escárcega and then along a straight highway through the forest, with few villages and few petrol stations. Along the 186 there are minor sites such as **Balam Ku**, where Rick stopped on his trip, with a large stucco frieze preserved under a roof, and around Xpujil the Río Bec-style sites, such as Becán and Xpuhil.
+
+**Becán**, surrounded by a moat, is the largest of the nearby sites, and in the late afternoon it's almost deserted. You sleep in Xpujil or at the eco-lodges along the road to the reserve. Fill up the tank and get cash before entering the reserve. *Xpujil has few ATMs and they don't always work: better to arrive with cash for two days already.*
+
+**In practice:** Palenque-Xpujil about 5-6 hours by car · fuel at Escárcega · Balam Ku, Becán and Xpuhil with INAH tickets of a few tens of pesos, closing at 5 pm with last entry at 4 pm · eat early: places in Xpujil close early.
 
 ### Day 13 — Calakmul, in the Biosphere Reserve
 **Calakmul** was one of the two great powers of the Classic Maya world, rival of Tikal. Today it is a vast site buried in the forest of the Biosphere Reserve, a UNESCO World Heritage Site for both culture and nature. From the tallest pyramids you see only forest to the horizon. Along the trails you may meet monkeys, ocellated turkeys and toucans.
@@ -120,13 +133,25 @@ You get there from Federal Highway 186: at the km 95 junction you take the reser
 - Stay on the marked trails. Water, food, repellent and closed shoes.
 
 ### Day 14 — From Xpujil to Bacalar
-You continue east, re-enter Quintana Roo (one hour ahead) and reach **Bacalar**, on the lagoon of seven colours. The afternoon is free: a swim off a jetty, a stroll along the lagoon front.
+You continue east, re-enter Quintana Roo (one hour ahead) and arrive in **Bacalar**, on the lagoon of seven colours. It's about two hours on the 186; if you leave early you can stop at **Kohunlich**, a site in the forest just before Chetumal, famous for its temple of large stucco masks. Before the town, on the road, is **Cenote Azul**, a deep, dark sinkhole where you can swim.
+
+The afternoon is free: a swim from the jetty, a stroll along the lakefront. The best light on the water is in the late afternoon, when the wind drops. *The lagoon is home to stromatolites, very ancient and fragile rock formations: don't step on them, and use sunscreen sparingly, preferably biodegradable.*
+
+**In practice:** Xpujil-Bacalar about 2 hours by car · Quintana Roo is one hour ahead of Campeche · Kohunlich with an INAH ticket, last entry at 4 pm local time · many jetties on the lagoon belong to hotels or private clubs, with paid entry.
 
 ### Day 15 — Bacalar, the lagoon
-A full day with no driving. In Bacalar Rick did a two-hour boat tour on the lagoon, with an hour of kayaking included. It's the simplest way to see the spots where the water changes colour. If you want more days by the sea, from here you can continue with the other trip, *Mexico Beach Life*, towards Mahahual, Tulum and Holbox.
+A whole day with no driving. In Bacalar Rick took a two-hour boat tour on the lagoon, including an hour of kayaking. It's the easiest way to see the spots where the water changes colour. The classic tours take in the **Pirates' Channel**, the bird island and the cenotes that open inside the lagoon, where the water suddenly turns from turquoise to dark blue. It's best to go out in the morning, when the water is calmer and the colours sharper.
+
+The afternoon is for the town: the **San Felipe fort**, built in the eighteenth century against pirates, with its museum and view over the lagoon, and the lakefront bars for sunset. If you want more days at the sea, from here you can continue with the other trip, *Messico Beach Life*, towards Mahahual, Tulum and Holbox. *Kayaks can also be hired on your own, but with the afternoon wind the paddle back against it is tiring.*
+
+**In practice:** boat tour of a couple of hours, price agreed at the pier or with an agency, cash · San Felipe fort with a ticket of a few euros, check closing days · book a table for sunset at weekends.
 
 ### Day 16 — Back to Cancún
-From Bacalar to Cancún it's a long run along the coast. On the Tren Maya, Bacalar and Cancún Aeropuerto are on the same network. If you have the car, you return it at the airport. An evening flight is best, or an extra night in Cancún so you don't take chances.
+From Bacalar to Cancún it's a long stretch along the coast, about four to five hours on Federal Highway 307, via Tulum and Playa del Carmen. On the Tren Maya, Bacalar and Cancún Aeropuerto are on the same network. If you have a car, return it at the airport. Leave in the morning: the heaviest traffic is around Tulum and Playa del Carmen, where the highway runs through built-up areas, and speed limits are enforced.
+
+Return the car with a full tank, check the bodywork with the agent and ask for the receipt closing the contract. An evening flight is best, or an extra night in Cancún to avoid any risk. *If your flight is early in the morning, sleep near the airport the night before: the road from Bacalar is too long to do on the same day.*
+
+**In practice:** Bacalar-Cancún about 4-5 hours by car · refuel before the airport, where there are few petrol stations · arrive at the airport at least 3 hours before an international flight · spend leftover pesos before security.
 
 ## Where to stay
 Suggested areas, no accommodation tested specifically for this itinerary. Where Rick slept on his trip is on the destination pages.

@@ -43,6 +43,8 @@ A fine pomeriggio siamo arrivati al **Castello Sforzesco**. Il cortile si attrav
 
 Aperitivo e sera in **Brera** o ai **Navigli**, con la **Darsena** rimessa a posto e i due navigli, Grande e Pavese. Sono quel che resta del sistema di canali che portava il marmo dalle cave del Lago Maggiore fino al cantiere del Duomo.
 
+**In pratica:** terrazze del Duomo con biglietto a fasce, a piedi costa meno che in ascensore, da prenotare sul sito ufficiale · Pinacoteca di Brera e musei del Castello chiusi il lunedì, il cortile del Castello è gratuito · tutto il giro si fa a piedi; per i Navigli metro M2, fermata Porta Genova
+
 ### Giorno 2 — Cenacolo, Sant'Ambrogio e la Milano contemporanea
 La mattina è per il **Cenacolo**, se si è riusciti a prenotare: si entra a gruppi, attraverso due porte a tenuta, e si hanno pochi minuti nel refettorio. Conviene sapere cosa si sta guardando. Leonardo **non l'ha dipinto ad affresco**, ma a tempera su muro asciutto, per poter lavorare lentamente e tornare sui dettagli, ed è proprio per questo che ha cominciato a degradarsi **mentre era ancora vivo**. Quello che si vede è il risultato di secoli di restauri e di un intervento durato ventidue anni. Sulla parete opposta, che nessuno guarda, c'è una Crocifissione del Montorfano perfettamente conservata: è il termine di paragone che spiega tutto.
 
@@ -55,6 +57,8 @@ Il pomeriggio è per la Milano dell'altro secolo, secondo i gusti:
 - **Cimitero Monumentale**, gratuito, un museo di scultura funeraria a cielo aperto: edicole, templi, monumenti di famiglie industriali e il Famedio all'ingresso.
 
 A fine giornata, il quadrante nord: **Porta Nuova** con il **Bosco Verticale**, due torri residenziali con centinaia di alberi veri sui balconi, che d'estate fanno ombra e d'inverno lasciano passare la luce, e la passeggiata verso **Isola**, il quartiere con più vita della Milano nuova. In alternativa **CityLife**, con le tre torri di Isozaki, Hadid e Libeskind e il parco intorno.
+
+**In pratica:** Cenacolo circa 15 euro, solo su prenotazione, chiuso il lunedì: i posti escono a blocchi e finiscono in pochi giorni · San Maurizio e Sant'Ambrogio a ingresso libero, fuori dagli orari delle funzioni · HangarBicocca aperto da giovedì a domenica, con la metro M5 · Fondazione Prada chiusa il martedì, Museo del Novecento e Monumentale chiusi il lunedì
 
 ## La versione da un giorno
 Un giorno a Milano funziona benissimo, meglio che in quasi qualunque altra città italiana, perché il centro è compatto e la metro è veloce. Il programma:

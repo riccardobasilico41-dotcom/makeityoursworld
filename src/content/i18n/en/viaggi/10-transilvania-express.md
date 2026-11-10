@@ -42,6 +42,8 @@ The **welcome dinner** (included) was at **Caru' cu Bere**, in the historic Lips
 
 *Practical note: it's best to withdraw cash as soon as you land and book taxis from the touch screens in the arrivals terminal (the airport-center fare should not exceed 60 LEI). Reliable companies: Cobălcescu and Cris Taxi.*
 
+**In practice:** Palace of Parliament only with a guided visit, about an hour, ID required, small groups usually book by phone the day before · Romanian Athenaeum a few minutes' walk from Piața Romană · taxis from the airport booked on the touch screens in arrivals, up to about 60 lei · book Caru' cu Bere at weekends.
+
 ### Day 2 — Bucharest, Peleș Castle, Bran Castle, Brașov
 Early in the morning we picked up the car from Avis (Gran Hotel Bucuresti): it's best to arrive a little early. Then the road to **Sinaia** (2h), straddling Wallachia and Transylvania, for **Peleș Castle**. It was the summer residence of Carol I, Romania's first king; it is considered one of the most beautiful castles in Europe, built between 1873 and 1914 in Neo-Renaissance style, with over 160 rooms. I recommend the first and second floor ticket (about €20/pax). The visit lasts 1-1.5 hours and you get in on a first-come basis, with no mandatory booking (in high season it is better to book online). If there is time left, the **Sinaia Monastery** (1846) can be reached on foot in about 25 minutes.
 
@@ -52,6 +54,8 @@ After lunch we set off again toward **Bran** (about 1h), with a possible photo s
 In half an hour we got to **Brașov**: check-in, shower and out on foot to the **Râșnov Fortress**, on top of a rocky hill near the Hollywood-style town sign. You get there on foot or by cable car, and the atmosphere is more *Lord of the Rings* than vampires. With a bit of time you continue toward the old town: **Piața Sfatului**, with the Council House (14th century) and the Clock Tower, and the **Black Church (Biserica Neagră)**, the largest Gothic church in Romania, open until late afternoon.
 
 Dinner is at **Sergiana**: steaming soups served in hollowed-out bread loaves, paprika meat stews, polenta with sour cream and melted cheese. Watch out for the prices of wine and palinka, often above average; book ahead by email. Alternatively there is **Casa Românească**, a rustic tavern with pan-fried chicken, smoked mutton and sarmale. For after dinner, the **Deane's Irish Pub & Grill** or the **Musik Cafe**.
+
+**In practice:** Bucharest-Sinaia about 2 hours, Sinaia-Bran about an hour, Bran-Brașov half an hour · Peleș with timed entry slots and periodic closures for maintenance, for example in November: check peles.ro · Bran with an online ticket and the guide paid separately · cash in lei for guides and parking.
 
 ### Day 3 — Saxon Villages, Sighișoara and Salina Turda
 It's the longest day at the wheel, five hours of driving in all: you leave early and you have to stick to the schedule.
@@ -66,6 +70,8 @@ In about 2h by car we reached the underground salt mine of **Salina Turda** (tic
 
 In the late afternoon we set off again for **Sibiu** (1h30 by car), with check-in and a dinner reservation. The options: **Crama Sibiul Vechi**, the most characteristic restaurant in the city, in a rustic cellar (minced meat meatballs, farmer's stew with polenta; few seats, reservation mandatory), or **La Dobrun**, very close to the hotel, or **Crama Ileana**. After dinner at the **Oldie's Pub** (good for large groups) or at the **Geea Caffe** (more intimate).
 
+**In practice:** Zărnești Bear Sanctuary only by online booking, morning visit · Viscri 12 lei · Salina Turda with an online ticket to skip the line and paid parking · inside the salt mine it's cool all year: bring a sweater · Turda-Sibiu about an hour and a half.
+
 ### Day 4 — Sibiu, Transfăgărășan and Back to Bucharest
 It's the last day before heading home and there are still a lot of kilometers: early alarm.
 
@@ -77,8 +83,14 @@ When the road is open you continue south: **another 3h45 by car to Bucharest**, 
 
 In the evening we returned the car to Avis (Gran Hotel Bucuresti). For the **farewell dinner** (not included) there is **Hanu' lui Manuc**, in the Lipscani district: the idea is similar to Caru' cu Bere, prices are higher but the food is excellent, and you need to book. The other option is **Excalibur**, a medieval-style place: nice, but a bit overrated. For those who still have energy there is an organized **pub crawl** (€16/pax, 4 shots in 4 different pubs plus club entry), or the venues of the district: **Freddo**, **St. Patrick** and the lovely open-air garden of **Grădina Dorobanți**.
 
+**In practice:** Brukenthal Museum usually closed early in the week, check hours beforehand · Transfăgărășan open only in summer and until the end of October, dates on the official site · Sibiu-Lake Bâlea about an hour and a half, then about 3 hours 45 to Bucharest · feeding the bears is forbidden: stay in the car with the windows closed.
+
 ### Day 5 — Bucharest: Check-out, Spa and Goodbyes
-The last day depends on the flight time: half a day (or the whole day) at **Therme București**. It's a huge spa park divided into three areas (water games, relaxation, restaurants/bars); you pay for everything with a wristband and settle up on the way out, €35 for the whole day. The spa is right next to the airport, so you can leave calmly even just 2 hours before the flight.
+The last day depends on the flight time: half a day (or the whole day) at **Therme București**. It's a huge spa park divided into three areas (water games, relaxation, restaurants/bars); you pay for everything with a wristband and settle up on the way out, €35 for the whole day. The spa is right next to the airport, so you can leave calmly even just 2 hours before the flight. The complex is in Balotești, a few minutes' drive from Otopeni, and is reached by taxi or car; you enter with a wristband that opens the lockers and records what you spend.
+
+The areas are designed for different visitors: the one with water slides and wave pools is for families, while the relaxation areas, with palms, saunas and warm pools, have age limits and are quieter. If you don't want the spa, you can spend the morning in town, along Calea Victoriei, in Cișmigiu park and over a last breakfast in the center, and go straight to the airport. *Leave the big luggage at the hotel or in the car and take to the spa only a bag with swimsuit, flip-flops and towel, unless you rent one.*
+
+**In practice:** Therme București about 10-15 minutes from Otopeni airport · prices vary by day, time slot and areas chosen, lower on weekdays after 4 pm: check therme.ro · your own flip-flops and towel or rentals · leave at least 2 hours before the flight.
 
 ## What to see / what to do
 - **Peleș Castle**, maybe the most beautiful architecturally of the whole trip.

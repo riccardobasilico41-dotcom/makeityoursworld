@@ -28,53 +28,69 @@ La settimana bianca è il viaggio italiano che più di ogni altro si decide per 
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo e ritiro dell'attrezzatura
-Siamo arrivati nel pomeriggio e abbiamo ritirato skipass e noleggio, entrambi prenotati online prima di partire: costa meno e si salta la coda del primo giorno.
+Siamo arrivati nel pomeriggio e abbiamo ritirato skipass e noleggio, entrambi prenotati online prima di partire: costa meno e si salta la coda del primo giorno. Conviene salire in valle con la luce, perché gli ultimi tornanti verso i paesi in quota sono i più ghiacciati e con il buio si guida peggio. Al noleggio gli scarponi si provano con calma, con le calze che si useranno sulla neve: *uno scarpone che fa male in negozio farà male il doppio dopo tre ore di pista*, e cambiarlo subito non costa niente. Chi ha l'attrezzatura propria la fa affilare e sciolinare il pomeriggio stesso, così al mattino è pronta.
 
-La prima serata è stata leggera. La settimana bianca si gioca sulla tenuta, e chi si scatena il primo giorno arriva a giovedì distrutto.
+La prima serata è stata leggera. La settimana bianca si gioca sulla tenuta, e chi si scatena il primo giorno arriva a giovedì distrutto. Meglio una passeggiata in paese, la spesa per le colazioni se si sta in appartamento e mezz'ora sulla **mappa del comprensorio** per decidere da quale impianto partire la mattina dopo. È anche il momento di scaricare l'app ufficiale delle piste, che mostra in tempo reale impianti aperti e chiusi, e di guardare meteo e **bollettino valanghe** per i giorni seguenti.
 
 **Da controllare subito:** cosa copre esattamente l'assicurazione compresa nello skipass, e se la propria RC sciistica è in regola.
 
+**In pratica:** catene o gomme invernali a bordo, obbligatorie per legge su gran parte delle strade di montagna · casse skipass e negozi di noleggio chiudono nel tardo pomeriggio: verificare l'orario prima di partire · noleggio set completo circa 25-45 € al giorno, meno con il pacchetto settimanale · la tessera dello skipass può avere una piccola cauzione, rimborsata alla riconsegna.
+
 ### Giorno 2 — Rodaggio e ricognizione
-È la giornata per capire il comprensorio: abbiamo sciato i settori vicini, guardato dove batte il sole nelle varie ore, individuato i rifugi.
+È la giornata per capire il comprensorio: abbiamo sciato i settori vicini, guardato dove batte il sole nelle varie ore, individuato i rifugi. Si comincia dalle **piste blu e rosse** più vicine all'alloggio, senza fretta, per riprendere confidenza con la neve e con l'attrezzatura: le prime discese servono anche a capire se gli scarponi vanno stretti o allentati. Conviene tenere a portata di mano la mappa, cartacea o sull'app, e segnarsi quali impianti sono lenti e dove si formano le code a metà mattina. *Le piste battute nella notte sono al meglio nelle prime ore; dopo, sui tratti più frequentati, si formano gobbe e placche dure.*
 
 **Consiglio pratico che funziona ovunque:** il versante est si scia al mattino e quello ovest nel pomeriggio, seguendo il sole. Sulla neve trasformata di marzo la regola vale ancora di più.
 
-Pranzo in rifugio, che in Italia è metà del motivo per cui si scia: canederli, polenta, gulasch, niente self-service.
+Pranzo in rifugio, che in Italia è metà del motivo per cui si scia: canederli, polenta, gulasch, niente self-service. Conviene sedersi presto, verso mezzogiorno, oppure dopo l'una e mezza, quando la prima ondata è passata. Il pomeriggio si fa ancora qualche discesa, ma si smette prima che le gambe cedano: molte cadute arrivano a fine giornata, con la stanchezza e la luce piatta che cancella i rilievi della neve. Si rientra con calma e si mettono gli scarponi ad asciugare, perché domani è la giornata lunga.
+
+**In pratica:** impianti aperti in genere dalla mattina fino al tardo pomeriggio, con orari diversi per impianto e per stagione: controllarli sull'app · casco obbligatorio per legge fino ai 18 anni · pranzo in rifugio qualche decina di euro a persona · la sera, preparare per domani zaino leggero, acqua e crema solare.
 
 ### Giorno 3 — Il giro del Sellaronda
-È la giornata per cui vale la pena venire in Dolomiti: il **giro completo attorno al massiccio del Sella**, quattro passi e quattro valli, circa 26 chilometri di discese e altrettanti di risalite.
+È la giornata per cui vale la pena venire in Dolomiti: il **giro completo attorno al massiccio del Sella**, quattro passi e quattro valli, circa 26 chilometri di discese e altrettanti di risalite. Le valli sono **Val Gardena, Alta Badia, Arabba e Val di Fassa**, unite dai passi **Gardena, Campolongo, Pordoi e Sella**: si può entrare nel giro da qualunque paese, purché si torni al punto di partenza prima della chiusura. Le piste sono in gran parte blu e rosse, alla portata di uno sciatore discreto con gambe allenate; quello che stanca è la lunghezza, con le soste e le code ci vuole la giornata intera.
 
 **Si parte alle nove in punto**, non più tardi. Gli ultimi impianti chiudono nel primo pomeriggio, e chi parte tardi rischia di restare dalla parte sbagliata del massiccio, con due ore di bus di valle per tornare all'auto.
 
-**Senso antiorario** (segnavia verde), il meno battuto e con meno code.
+**Senso antiorario** (segnavia verde), il meno battuto e con meno code. Il pranzo si fa a metà giro, in un rifugio su uno dei passi, senza allungarlo troppo. *A metà pomeriggio conviene guardare l'orologio a ogni impianto: se si è in ritardo, meglio tagliare il giro e rientrare per la via più corta.* Con lo zaino leggero si porta una borraccia, uno strato in più per i passi esposti e il telefono carico, utile anche per seguire il percorso sulla mappa.
 
 **Da controllare la sera prima:** il vento. È quello che chiude gli impianti dei passi e interrompe il giro.
+
+**In pratica:** serve lo skipass Dolomiti Superski, quello di una sola valle non basta · stato degli impianti dei passi sul sito o sull'app Dolomiti Superski prima di partire · il giro si segue con i cartelli Sellaronda, verdi in senso antiorario e arancioni in senso orario · rientrare in taxi dalla valle sbagliata costa parecchio.
 
 ### Giorno 4 — Giornata tecnica o riposo attivo
 A metà settimana le gambe si fanno sentire. Le strade sono due.
 
-Per chi scia bene, una giornata su un settore più impegnativo, con le piste nere e, se le condizioni lo permettono e si ha l'attrezzatura di autosoccorso, qualche tratto fuoripista con una guida.
+Per chi scia bene, una giornata su un settore più impegnativo, con le piste nere e, se le condizioni lo permettono e si ha l'attrezzatura di autosoccorso, qualche tratto fuoripista con una guida. Conviene scegliere le nere al mattino, quando la neve è compatta e le gambe sono fresche, e lasciare il pomeriggio alle rosse lunghe. Il fuoripista con una guida alpina o un maestro abilitato si prenota il giorno prima: è la guida a decidere dove si va in base al bollettino e alla neve, e a volte la risposta è restare in pista. *Il fatto che altri escano dal battuto non dice nulla sulla sicurezza del pendio.*
 
-Per chi vuole staccare, **ciaspole o sci di fondo**, che danno la montagna invernale in silenzio, senza la fatica della discesa. Oppure una mattinata alle terme, che in Alto Adige e in Trentino si trovano ovunque.
+Per chi vuole staccare, **ciaspole o sci di fondo**, che danno la montagna invernale in silenzio, senza la fatica della discesa. Oppure una mattinata alle terme, che in Alto Adige e in Trentino si trovano ovunque. Le ciaspolate migliori seguono i sentieri segnati che d'inverno vengono battuti, spesso verso una malga dove si mangia; gli anelli di fondo partono quasi sempre dal fondovalle. Il pomeriggio libero serve anche a mettere gli sci in manutenzione e ad arrivare riposati alle due giornate che restano.
+
+**In pratica:** guida o maestro per il fuoripista da prenotare il giorno prima, con costo che si divide nel gruppo · ciaspole e bastoncini si noleggiano negli stessi negozi di sci · le piste di fondo hanno spesso un biglietto a parte rispetto allo skipass alpino · terme e centri benessere degli hotel: prenotare l'ingresso, soprattutto nel tardo pomeriggio.
 
 ### Giorno 5 — Scialpinismo, o la montagna senza impianti
-È la giornata che cambia il rapporto con l'inverno. Si sale con le **pelli di foca** sotto gli sci, per due ore, in silenzio, mentre poco più in là gli impianti portano centinaia di persone sulla stessa pista. Poi si tolgono le pelli e si scende su neve che non ha toccato nessuno.
+È la giornata che cambia il rapporto con l'inverno. Si sale con le **pelli di foca** sotto gli sci, per due ore, in silenzio, mentre poco più in là gli impianti portano centinaia di persone sulla stessa pista. Poi si tolgono le pelli e si scende su neve che non ha toccato nessuno. Si parte presto, quando la neve è ancora dura e fredda, e si punta a essere di ritorno entro il primo pomeriggio, prima che il sole la scaldi e la renda pesante e più instabile sui pendii esposti. Il passo si tiene regolare, senza fermarsi spesso, e le soste si fanno dove il pendio è sicuro.
 
-**La prima volta si va con una guida alpina**, dopo un corso di autosoccorso. ARTVA, pala e sonda non servono a niente se non si sa usarli, e **il rischio valanghe si legge in un bollettino pubblico e viene sottovalutato di continuo**.
+**La prima volta si va con una guida alpina**, dopo un corso di autosoccorso. ARTVA, pala e sonda non servono a niente se non si sa usarli, e **il rischio valanghe si legge in un bollettino pubblico e viene sottovalutato di continuo**. Il bollettino esce ogni giorno con la scala da 1 a 5 e indica anche le esposizioni e le quote più pericolose: va letto la sera prima e ricontrollato la mattina. Gli sci da alpinismo con attacchi e pelli si noleggiano nei negozi specializzati; il kit di autosoccorso spesso lo fornisce la guida.
 
 *Alternativa senza rischio: un itinerario segnato con le ciaspole, che dà il novanta per cento del silenzio con una frazione dell'esposizione.*
 
+**In pratica:** uscita con guida alpina, il costo si divide tra i partecipanti: chiedere il prezzo alla prenotazione · bollettino valanghe regionale, per Alto Adige e Trentino quello dell'Euregio su avalanche.report · noleggio di sci, attacchi e pelli da prenotare il giorno prima · acqua calda nel thermos, guanti di ricambio e uno strato asciutto per la discesa.
+
 ### Giorno 6 — La giornata lunga
-È l'ultima giornata piena, da sfruttare: prima seggiovia all'apertura, quando le piste sono appena battute e non c'è nessuno.
+È l'ultima giornata piena, da sfruttare: prima seggiovia all'apertura, quando le piste sono appena battute e non c'è nessuno. Conviene essere in coda alla prima corsa qualche minuto prima dell'apertura, con colazione già fatta, e scegliere un versante esposto a est, dove la luce arriva subito. È il momento per ripetere le discese preferite della settimana, quelle che a metà mattina diventano affollate, o per tornare sul settore che il primo giorno sembrava troppo impegnativo. Verso le undici si rallenta: il resto della giornata è per godersi la montagna.
 
-È anche il giorno del **pranzo lungo in un rifugio prenotato** (in alta stagione i migliori si prenotano anche a mezzogiorno). È quello che distingue lo sci italiano da quello francese: qui ci si siede.
+È anche il giorno del **pranzo lungo in un rifugio prenotato** (in alta stagione i migliori si prenotano anche a mezzogiorno). È quello che distingue lo sci italiano da quello francese: qui ci si siede. Il pomeriggio, dopo il pranzo, bastano poche discese tranquille fino a valle, senza rincorrere l'ultima corsa.
 
-A chi ha ancora energie resta lo **sci notturno**, dove le piste illuminate restano aperte.
+A chi ha ancora energie resta lo **sci notturno**, dove le piste illuminate restano aperte. Altrimenti l'ultima sera è per una cena in trattoria in paese e per preparare i bagagli.
+
+**In pratica:** rifugio da prenotare per telefono il giorno prima, chiedendo un tavolo al sole · lo sci notturno c'è solo in alcune località e in alcune sere della settimana, con biglietto a parte: verificare all'ufficio turistico · la sera, saldare eventuali extra dell'alloggio per partire più leggeri il mattino dopo.
 
 ### Giorno 7 — Ultima mattina e rientro
-Mezza giornata sugli sci, la riconsegna del noleggio e la partenza. Le tariffe per mezza giornata esistono e conviene usarle.
+Mezza giornata sugli sci, la riconsegna del noleggio e la partenza. Le tariffe per mezza giornata esistono e conviene usarle. Prima si lasciano i bagagli in auto o nel deposito dell'hotel, perché il check-out è in genere al mattino, poi qualche discesa sulle piste vicine, senza allontanarsi troppo dal paese. *L'ultima mattina non è quella per provare la nera che si è evitata tutta la settimana: con le gambe stanche e il pensiero alla strada, è il momento in cui ci si fa male.*
+
+Verso mezzogiorno si riconsegnano sci e scarponi, si recupera l'eventuale cauzione della tessera e ci si cambia. Chi parte nel pomeriggio ha il tempo per un ultimo pranzo in paese prima di mettersi in strada.
 
 **Da mettere in conto:** il sabato mattina, sulle strade di rientro dai fondovalle alpini, il traffico c'è sempre. O si parte molto presto o si parte nel pomeriggio.
+
+**In pratica:** controllare se il pacchetto skipass copre già l'ultimo giorno prima di comprare la mezza giornata · riconsegna del noleggio entro l'orario concordato · chiedere all'hotel deposito bagagli o uso degli spogliatoi dopo il check-out · traffico e catene da controllare sulle app e sui siti delle autostrade prima di partire.
 
 ## Cosa vedere / cosa fare
 - **Scegliere la data prima del posto.** Gennaio dopo l'Epifania vale il quaranta per cento di sconto sullo stesso identico viaggio.

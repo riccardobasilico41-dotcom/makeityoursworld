@@ -33,28 +33,36 @@ Abbiamo cominciato dal cuore della città, la **Cattedrale di Santo Stefano** (S
 
 Abbiamo camminato lungo il **Graben** e la **Kärntner Straße**, le vie pedonali del centro storico, fino al **Ring**, il viale ottocentesco che ha preso il posto delle mura medievali. Nel pomeriggio, il primo contatto con la **Kaffeehauskultur**: una sosta in uno dei caffè storici del centro, con calma, senza fretta di alzarsi.
 
-La sera siamo rimasti nell'Innere Stadt, tra le vie del centro.
+La sera siamo rimasti nell'Innere Stadt, tra le vie del centro. Il centro si gira bene a piedi anche dopo cena: dal Graben si va verso **Am Hof** e la **Freyung**, piazze più tranquille di Stephansplatz, oppure si passa dal Neuer Markt, dove c'è la **Cripta dei Cappuccini**, da tenere per un'altra mattina. Per mangiare, le vie laterali intorno alla cattedrale hanno diversi Beisl, le osterie viennesi, dove si ordina la cotoletta senza la fila dei locali più famosi. *Conviene salire sulla torre sud presto, appena apre: la scala a chiocciola è stretta e a metà giornata ci si incrocia di continuo con chi scende.* Durante le messe la cattedrale si vede solo dal fondo della navata.
+
+**In pratica:** navata di Santo Stefano visitabile liberamente fino alla zona transennata, biglietti a parte per la torre, le catacombe (solo con visita guidata) e il giro completo · metro U1 e U3, fermata Stephansplatz · nei caffè storici si paga al tavolo, al cameriere · il primo giorno si fa tutto a piedi.
 
 ### Giorno 2 — Hofburg e Naschmarkt
 La mattina siamo stati alla **Hofburg**, la reggia invernale degli Asburgo per oltre sei secoli: il **Museo Sisi**, dedicato alla vita dell'imperatrice Elisabetta, e gli **Appartamenti Imperiali**, dove Sissi e Francesco Giuseppe abitavano. Chi ha tempo può aggiungere una visita alla **Scuola Spagnola di Equitazione** (o assistere a un allenamento mattutino), con i cavalli Lipizzani e una tradizione che risale al Cinquecento.
 
 Nel pomeriggio il **Naschmarkt**: oltre un chilometro e mezzo di bancarelle tra frutta, spezie e cucine internazionali, in mezzo a edifici Art Nouveau protetti. Il sabato c'è anche il mercatino delle pulci.
 
-La sera è il momento per un secondo caffè storico, diverso da quello del primo giorno: il Café Sacher o il Café Hawelka.
+La sera è il momento per un secondo caffè storico, diverso da quello del primo giorno: il Café Sacher o il Café Hawelka. Al Sacher, accanto all'Opera, la torta si serve con la panna montata e nelle ore di punta c'è quasi sempre fila all'ingresso; l'Hawelka, in una traversa del Graben, è un locale piccolo e scuro, con i tavoli vicini e l'aria di un vecchio salotto. Dalla Hofburg al Naschmarkt sono una ventina di minuti a piedi, passando davanti all'Albertina e all'Opera. *Al mercato conviene andare a pranzo o nel primo pomeriggio: verso sera molti banchi chiudono e restano aperti soprattutto i ristoranti.* Chi c'è il sabato mattina trova il mercatino delle pulci in fondo al mercato, verso la fermata Kettenbrückengasse.
+
+**In pratica:** Museo Sisi, Appartamenti Imperiali e Collezione d'argenteria con un unico biglietto, meglio comprato online · gli allenamenti mattutini della Scuola Spagnola ci sono solo in alcuni giorni: controllare il calendario ufficiale · Naschmarkt chiuso la domenica · metro U4 Kettenbrückengasse o U1, U2 e U4 Karlsplatz.
 
 ### Giorno 3 — Schönbrunn
 Abbiamo dedicato quasi tutta la giornata a **Schönbrunn**, la residenza estiva della famiglia imperiale. Delle oltre 1.400 stanze del palazzo se ne visita una selezione, con il tour di base o con il Grand Tour più esteso. Nel pomeriggio, i **giardini barocchi**, gratuiti, fino alla **Gloriette**, il padiglione in collina con la vista su tutto il complesso e sulla città.
 
 Chi ha tempo ed energie può aggiungere lo **Zoo di Schönbrunn**, nello stesso parco, tra i più antichi al mondo ancora in funzione.
 
-In serata siamo rientrati in centro per cena.
+In serata siamo rientrati in centro per cena. Per arrivare si prende la metro **U4** fino a Schönbrunn o a Hietzing, una decina di minuti da Karlsplatz, e si entra nel palazzo all'ora scritta sul biglietto: il **Tour Imperiale** tocca una ventina di stanze, il **Grand Tour** una quarantina, comprese le sale di Maria Teresa. Dopo la visita, nel parco ci sono anche il labirinto, la Casa delle palme e il Giardino del Principe ereditario. *D'estate i biglietti a fascia oraria si esauriscono: prenotarli qualche giorno prima evita di aspettare ore nel cortile.* Alla Gloriette si sale a piedi in una ventina di minuti, e il caffè al suo interno è il posto per fermarsi con la vista sul palazzo.
+
+**In pratica:** Tour Imperiale da circa 26 €, Grand Tour e biglietti combinati più cari · giardini e parco gratuiti, terrazza della Gloriette, labirinto e zoo con biglietto a parte · lo zoo da solo occupa mezza giornata · metro U4, fermate Schönbrunn per l'ingresso principale e Hietzing per il lato dello zoo.
 
 ### Giorno 4 — Belvedere e Prater
-La mattina siamo andati al **Palazzo del Belvedere**, in particolare all'Upper Belvedere: qui c'è **«Il Bacio»** di Gustav Klimt, insieme a una delle collezioni di arte austriaca più importanti al mondo, dal Barocco alla Secessione.
+La mattina siamo andati al **Palazzo del Belvedere**, in particolare all'Upper Belvedere: qui c'è **«Il Bacio»** di Gustav Klimt, insieme a una delle collezioni di arte austriaca più importanti al mondo, dal Barocco alla Secessione. Conviene arrivare all'apertura, perché davanti al Bacio la sala si riempie presto; dall'Upper Belvedere si scende poi al Lower Belvedere attraverso i **giardini barocchi**, gratuiti, con la vista sulla città.
 
-Nel pomeriggio il **Prater**, parco pubblico dal 1766, con il **Wiener Riesenrad**: la ruota panoramica costruita nel 1897 per il giubileo dell'imperatore Francesco Giuseppe, per decenni la più alta al mondo e sopravvissuta ai bombardamenti della Seconda guerra mondiale. Per chi vuole fermarsi di più ci sono le attrazioni del Wurstelprater.
+Nel pomeriggio il **Prater**, parco pubblico dal 1766, con il **Wiener Riesenrad**: la ruota panoramica costruita nel 1897 per il giubileo dell'imperatore Francesco Giuseppe, per decenni la più alta al mondo e sopravvissuta ai bombardamenti della Seconda guerra mondiale. Per chi vuole fermarsi di più ci sono le attrazioni del Wurstelprater. *Il Prater si raggiunge con la metro U1 o U2 fino a Praterstern: la ruota è subito all'ingresso, e il tardo pomeriggio è il momento migliore per salire.* Chi ha ancora tempo cammina lungo la **Hauptallee**, il viale alberato di oltre quattro chilometri che attraversa il parco.
 
-Per l'ultima sera, se lo si è pianificato in anticipo, un biglietto in piedi all'**Opera di Stato** è il modo più memorabile (e più economico) di chiudere il weekend viennese.
+Per l'ultima sera, se lo si è pianificato in anticipo, un biglietto in piedi all'**Opera di Stato** è il modo più memorabile (e più economico) di chiudere il weekend viennese. Prima dello spettacolo si cena vicino all'Opera, che dal Prater si raggiunge in metro in un quarto d'ora circa; chi non ha il biglietto può comunque passare davanti al teatro la sera, quando la facciata è illuminata.
+
+**In pratica:** Upper Belvedere con biglietto a fascia oraria, meglio prenotato online, giardini gratuiti · tram D dal Ring fino alla fermata Schloss Belvedere · Prater a ingresso libero, ruota panoramica e giostre a pagamento · biglietti in piedi all'Opera da circa 13 a 18 €, solo il giorno stesso.
 
 ## Cosa vedere / cosa fare
 - **La Cattedrale di Santo Stefano**, con la salita alla torre sud.

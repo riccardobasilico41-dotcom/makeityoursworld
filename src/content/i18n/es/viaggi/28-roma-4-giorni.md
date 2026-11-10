@@ -49,6 +49,8 @@ Por la tarde fuimos a **San Clemente**: una basílica del siglo XII construida s
 
 La noche la pasamos en **Monti**, el rione detrás de los Foros: cercanísimo, vivido, sin el efecto postal.
 
+**En la práctica:** la entrada del Coliseo vale 24 horas e incluye el Foro Romano y el Palatino; se compra solo en la web oficial del Parque arqueológico, con días de antelación · los turnos con arena o subterráneos se agotan primero · metro B Colosseo o Cavour · San Clemente: la basílica es gratuita, las excavaciones subterráneas tienen entrada aparte · en Monti, el fin de semana conviene reservar la cena.
+
 ### Día 2 — Vaticano: Museos, Sixtina, San Pedro
 Es la jornada más agotadora y hay que organizarla en consecuencia.
 
@@ -62,6 +64,8 @@ Si las piernas aguantan, está la **cúpula**: ascensor hasta la terraza y luego
 
 Para la noche, **Prati**, que está ahí al lado y es un barrio de verdad, o bien **Trastevere**, al otro lado del río.
 
+**En la práctica:** Museos Vaticanos con reserva en la web oficial, cerrados los domingos salvo el último del mes (entrada gratuita y colas larguísimas) · calcular al menos tres o cuatro horas de recorrido · metro A Ottaviano o Cipro · en San Pedro se entra gratis tras el control de seguridad, con hombros y rodillas cubiertos · la cúpula se paga aparte, con ascensor unos euros más.
+
 ### Día 3 — El centro barroco y la Galería Borghese
 Por la mañana recorrimos el centro a pie, en el itinerario más bello de la ciudad. **Piazza Navona** tiene la forma del estadio de Domiciano porque **debajo hay un estadio romano**, del que quedan partes visitables, y alberga la **Fuente de los Cuatro Ríos** de Bernini. El **Panteón** tiene **la mayor cúpula de hormigón no armado jamás construida** y la mantiene en pie desde el siglo II, con un óculo abierto al cielo por el que, cuando llueve, llueve dentro. Luego la **Fontana di Trevi** (las reglas de acceso en los últimos años han cambiado varias veces: conviene comprobarlas antes) y la **Piazza di Spagna** con la escalinata.
 
@@ -73,6 +77,8 @@ Después fuimos a pie a **Villa Borghese** y al **Pincio al atardecer**, con la 
 
 Noche en el **Gueto**, con las **alcachofas a la judía** si se está en la temporada adecuada.
 
+**En la práctica:** Panteón con entrada de unos 5 euros, mejor reservada el fin de semana · Galería Borghese cerrada los lunes, reserva obligatoria en la web oficial y turnos de dos horas · San Luigi dei Francesi y Sant'Agostino son gratuitas, pero cierran a mediodía: comprobar horarios · los carciofi alla giudia son de temporada más o menos de febrero a abril.
+
 ### Día 4 — La Roma que no sale en las postales
 Es la jornada que separa a quien ha visto Roma de quien ha visto sus monumentos, y hay que elegirla según los gustos. Las opciones son tres, todas llenas.
 
@@ -83,6 +89,8 @@ Es la jornada que separa a quien ha visto Roma de quien ha visto sus monumentos,
 **Opción C: Testaccio, Aventino, Domus Aurea.** **Testaccio** con el mercado y la tradición del **quinto quarto**, el **Cementerio Acatólico** con las tumbas de Keats y Shelley y el **Monte Testaccio**, una colina artificial hecha de **cincuenta millones de ánforas de aceite rotas** acumuladas a lo largo de tres siglos: el vertedero de la Roma antigua, convertido en relieve. Luego el **Aventino** con el **Jardín de los Naranjos** y el famoso **ojo de la cerradura del Priorato de los Caballeros de Malta**, por el que se enmarca la cúpula de San Pedro al fondo de una avenida de setos. Si se ha conseguido reservar, la **Domus Aurea** cierra la jornada: es la villa de Nerón, se visita con casco en una obra de restauración permanente y tiene una reconstrucción en realidad virtual de la sala octogonal.
 
 Noche en **Trastevere**, pero por las calles laterales, no por la central.
+
+**En la práctica:** a la Via Appia Antica se llega con el autobús 118, y las bicis se alquilan en los puntos de información del Parque · cada catacumba cierra un día distinto de la semana: elegirlas según el calendario · Ostia Antica con el tren Roma-Lido desde la estación de Porta San Paolo, junto al metro Piramide, con billete urbano · excavaciones de Ostia cerradas los lunes · Domus Aurea solo con reserva y en días limitados.
 
 ## La versión de dos días
 Dos días en Roma funcionan solo si se acepta una regla: **se renuncia al Vaticano o se renuncia al resto.** No caben juntos. Las combinaciones sensatas son dos.

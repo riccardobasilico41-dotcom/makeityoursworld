@@ -58,6 +58,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 
 **Cuántos días:** al menos una semana, durmiendo en dos bases: una en el interior (Ubud o Munduk) y otra en la costa (Uluwatu).
 
+**En la práctica:** tasa turística de Bali 150.000 IDR por persona, que se paga en línea en la web oficial Love Bali · Kecak de Uluwatu al atardecer con entrada aparte: llegar una hora antes para tener sitio · para el amanecer en el Batur se sale hacia las 3-4 con un guía local · en Nyepi la isla se detiene 24 horas, aeropuerto incluido.
+
 **Para saber más:** [la ficha de Bali](/es/destinos/indonesia/bali), [Java, Bali y Gili en 14 días](/es/viajes/java-bali-gili-14-dias), [Bali, las Nusa y Komodo en 14 días](/es/viajes/bali-nusa-penida-komodo-14-dias).
 
 ### Nusa Penida y Nusa Lembongan
@@ -68,6 +70,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 **Cuándo ir:** como Bali, abril-octubre, con el mar más tranquilo para las travesías.
 
 **Cuántos días:** la excursión de un día desde Bali se puede hacer, pero con colas. Tres días, durmiendo en las islas, permiten estar en los miradores antes que los barcos de Sanur. Yo en Penida pasé tres noches y la recorrí entera con calma: es el ritmo que recomiendo.
+
+**En la práctica:** barco rápido desde Sanur unos 30-45 minutos, se compra en el muelle o con un operador conocido · a Kelingking conviene llegar antes de las 8 · la bajada a la playa es empinada y sin barandillas continuas: hace falta calzado cerrado · en las islas, llevar efectivo en rupias.
 
 **Para saber más:** [el día en Nusa Penida](/es/experiencias/indonesia/dia-en-nusa-penida), [Bali, las Nusa y Komodo en 14 días](/es/viajes/bali-nusa-penida-komodo-14-dias).
 
@@ -80,6 +84,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 
 **Cuántos días:** una semana: tres días para el Rinjani, el resto entre las Gili y el sur.
 
+**En la práctica:** Rinjani en tres días y dos noches, con la entrada en la app E-Rinjani y un operador autorizado · barco rápido Bali-Gili unas dos horas, cancelado con mala mar · en las Gili no hay vehículos a motor: se va a pie, en bici o en cidomo · efectivo para Gili Meno y Gili Air, donde hay pocos cajeros.
+
 **Para saber más:** [la ficha de Lombok y Gili](/es/destinos/indonesia/lombok-gili), [el trekking al Rinjani](/es/experiencias/indonesia/trekking-gunung-rinjani), [Java, Bali y Gili en 14 días](/es/viajes/java-bali-gili-14-dias).
 
 ### Java
@@ -90,6 +96,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 **Cuándo ir:** mayo-septiembre, con los cielos más limpios para los amaneceres.
 
 **Cuántos días:** una semana entre Yogyakarta, Bromo e Ijen.
+
+**En la práctica:** la entrada para subir a Borobudur se compra en línea con días de antelación · trenes entre Yogyakarta, Surabaya y Probolinggo con reserva en la app oficial de los ferrocarriles, Access by KAI · al Ijen se sale de noche, hacia la una, con guía y máscara antigás; el cráter puede cerrar por los gases · en el Bromo antes del amanecer hace frío: hacen falta capas gruesas.
 
 **Para saber más:** [la ficha de Java](/es/destinos/indonesia/java), [el amanecer en el Bromo en jeep](/es/experiencias/indonesia/amanecer-bromo-jeep), [Java, Bali y Gili en 14 días](/es/viajes/java-bali-gili-14-dias).
 
@@ -102,6 +110,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 
 **Cuántos días:** al menos una semana para el norte, entre Bukit Lawang, Berastagi y Toba.
 
+**En la práctica:** de Medan a Bukit Lawang unas tres o cuatro horas de carretera · trekking solo con guía autorizado, en el día o con una o dos noches en la selva · para Samosir, ferry de Parapat a Tuktuk, menos de una hora · efectivo para los pueblos, los cajeros solo están en los centros más grandes.
+
 **Para saber más:** [la ficha de Sumatra](/es/destinos/indonesia/sumatra), [el trekking con orangutanes](/es/experiencias/indonesia/trekking-orangutanes-bukit-lawang), [Sumatra y Mentawai en 14 días](/es/viajes/sumatra-mentawai-14-dias).
 
 ### Las Mentawai
@@ -112,6 +122,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 **Cuándo ir:** mayo-septiembre. De noviembre a enero llueve mucho.
 
 **Cuántos días:** una semana: tres o cuatro días en la selva, el resto en Sipora.
+
+**En la práctica:** Mentawai Fast desde Padang, unas horas de travesía, con horarios que hay que reconfirmar el día antes · en Siberut hacen falta repelente fuerte, calzado para el barro y una visita a un centro de medicina del viajero antes de salir · efectivo para toda la estancia · tasa de surf solo para quien surfea.
 
 **Para saber más:** [la ficha de las Mentawai](/es/destinos/indonesia/mentawai), [Sumatra y Mentawai en 14 días](/es/viajes/sumatra-mentawai-14-dias).
 
@@ -124,6 +136,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 
 **Cuántos días:** tres o cuatro días para Komodo, una semana si se añade Flores. Juntas suman fácilmente diez días.
 
+**En la práctica:** entrada al parque 250.000 IDR por persona para extranjeros · para el amanecer en Padar el barco sale de Labuan Bajo antes de las 5, o se duerme a bordo · elegir operadores con licencia y chalecos salvavidas a bordo · en Wae Rebo se duerme en el poblado, subiendo a pie desde el pueblo de Denge.
+
 **Para saber más:** [la ficha de Komodo](/es/destinos/indonesia/komodo), [la ficha de Flores](/es/destinos/indonesia/flores), [el trekking con los dragones](/es/experiencias/indonesia/trekking-dragones-komodo), [el amanecer en el Kelimutu](/es/experiencias/indonesia/amanecer-kelimutu), [Bali, las Nusa y Komodo en 14 días](/es/viajes/bali-nusa-penida-komodo-14-dias).
 
 ### Célebes
@@ -134,6 +148,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 **Cuándo ir:** mayo-octubre.
 
 **Cuántos días:** una semana para Toraja y el norte, más si se añaden otras zonas. Toraja sola pide tres días más los dos de carretera.
+
+**En la práctica:** de Makassar a Rantepao 8-10 horas, los autobuses nocturnos son la opción más usada · los grandes funerales toraja suelen concentrarse en los meses de verano: se va con un guía local y un pequeño regalo para la familia · los tarseros de Tangkoko se ven al atardecer con un guarda · Bunaken está a menos de una hora en barco desde Manado.
 
 **Para saber más:** [la ficha de Célebes](/es/destinos/indonesia/celebes), [el buceo en Bunaken](/es/experiencias/indonesia/buceo-parque-nacional-bunaken), [Bali, Célebes y Raja Ampat en 12 días](/es/viajes/bali-celebes-raja-ampat-12-dias).
 
@@ -146,6 +162,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 
 **Cuántos días:** una semana como mínimo. Con menos, se pasa más tiempo viajando que en el agua.
 
+**En la práctica:** ferry Sorong-Waisai unas 2 horas · permiso del parque que se paga en Sorong o en Waisai, importe de 2026 por comprobar · sacar en Sorong todo el efectivo de la estancia, en las islas no hay cajeros · homestays con reserva previa, normalmente en pensión completa, con los traslados en barco aparte.
+
 **Para saber más:** [la ficha de Raja Ampat](/es/destinos/indonesia/raja-ampat), [el liveaboard en Raja Ampat](/es/experiencias/indonesia/buceo-liveaboard-raja-ampat), [Bali, Célebes y Raja Ampat en 12 días](/es/viajes/bali-celebes-raja-ampat-12-dias).
 
 ### El Borneo indonesio
@@ -156,6 +174,8 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 **Cuándo ir:** más o menos la estación más seca, de mayo a septiembre.
 
 **Cuántos días:** tres o cuatro días en el río, una semana con el viaje.
+
+**En la práctica:** el klotok suele durar tres días y dos noches, con comidas y guía incluidos · reservar con un operador local y preguntar si el permiso del parque está incluido · a los puntos de alimentación de los orangutanes se va en los horarios que fijan los guardas · repelente y manga larga para las noches en el río.
 
 **Para saber más:** el [Borneo malasio](/es/destinos/borneo), con los orangutanes de Sepilok y el río Kinabatangan, para quien quiere Borneo con más infraestructuras.
 

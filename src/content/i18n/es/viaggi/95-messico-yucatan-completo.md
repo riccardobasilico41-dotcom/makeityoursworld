@@ -30,9 +30,11 @@ Elegimos un circuito en lugar de una ruta lineal con vuelo de regreso desde Vill
 ## Itinerario giorno per giorno
 
 ### Día 1 — Llegada a Cancún
-Se aterriza en Cancún y se duerme cerca del aeropuerto o en el centro, cerca de la terminal ADO. El coche conviene recogerlo al día siguiente, con luz. La primera noche basta un paseo y la comida callejera del Parque de las Palapas, donde Rick cenó las primeras noches de su viaje.
+Se aterriza en Cancún y se duerme cerca del aeropuerto o en el centro, cerca de la terminal ADO. Del aeropuerto al centro hay autobuses ADO, baratos y regulares, mientras que los taxis de la explanada cuestan mucho más. El coche conviene recogerlo al día siguiente, con luz: al recogerlo se fotografía la carrocería por todos los lados y se comprueba que el seguro incluya la responsabilidad civil frente a terceros, que en México es obligatoria. La zona hotelera, la de los grandes resorts en la playa, en este viaje no hace falta: el centro es más barato y más cómodo para salir.
 
-Antes de salir de Cancún conviene sacar efectivo en abundancia y comprar una SIM. Rick lo aconseja en su viaje: así no hay que parar todo el rato en los días con más etapas.
+La primera noche basta un paseo y la comida callejera del Parque de las Palapas, el sitio donde Rick cenó las primeras noches de su viaje: marquesitas, esquites y tacos en los puestos alrededor de la plaza. Antes de salir de Cancún conviene sacar efectivo en abundancia y comprar una SIM. Rick lo recomienda en su viaje: así no hay que parar continuamente en los días con más etapas. *Los cajeros dentro de los bancos son más seguros que los aislados en la calle.*
+
+**En la práctica:** autobús ADO aeropuerto-centro, una media hora · Quintana Roo tiene una hora más que Yucatán y Campeche, a tener en cuenta para los horarios de los sitios · coche: tarjeta de crédito del conductor para el depósito, fotos del coche antes de salir.
 
 ### Día 2 — Ek Balam, el cenote Xcanché y Valladolid
 Desde Cancún se va hacia el interior. La primera parada es **Ek Balam**, un sitio maya más pequeño y mucho menos concurrido que Chichén Itzá, con una gran acrópolis y estucos muy bien conservados. Rick lo visitó con un guía y luego fue al **cenote Xcanché**, muy cerca: se baja por una escalera en la roca hasta el agua. Junto al cenote comió empanadas hechas al momento en una palapa.
@@ -43,7 +45,7 @@ Por la tarde se llega a **Valladolid**, una ciudad colonial tranquila. Por la no
 - Ek Balam: 210 MXN de entrada INAH más 481 MXN de cuota estatal CULTUR para extranjeros, o sea 691 MXN, más 100 MXN de estacionamiento para el ejido (ficha INAH). Si se puede subir a la acrópolis depende de las normas del momento: pregúntalo en taquilla.
 
 ### Día 3 — Chichén Itzá a la apertura e Izamal, hacia Mérida
-Se entra en **Chichén Itzá** a las 8, antes de los autobuses desde Cancún y del calor. Rick estuvo unas dos horas. Pagó con tarjeta en taquilla y, en la oficina detrás de la entrada, se hizo poner el sello gratuito en el pasaporte. Para la visita Rick recomienda a **Alejandro**, un guía nacido a veinte minutos del sitio, que habla español e inglés: el contacto está en la ficha de Valladolid.
+Se entra en **Chichén Itzá** a las 8, antes de los autobuses desde Cancún y del calor. Rick ha estado cuatro veces; en la visita del viaje *Messico Beach Life* se quedó unas dos horas. Pagó con tarjeta en taquilla y, en la oficina detrás de la entrada, se hizo poner el sello gratuito en el pasaporte. Para la visita Rick recomienda a **Alejandro**, un guía nacido a veinte minutos del sitio, que habla español e inglés: el contacto está en la ficha de Valladolid.
 
 Después de comer se va a **Izamal**, la ciudad amarilla, con el gran convento franciscano construido sobre una pirámide maya. Rick aconseja no perder tiempo ni dinero entre los souvenirs, porque el pueblo es caro. Quien quiera un baño por el camino puede parar en el **cenote Ik Kil**, cerca de Chichén Itzá: horarios por comprobar allí. Por la noche se llega a Mérida.
 
@@ -51,22 +53,27 @@ Después de comer se va a **Izamal**, la ciudad amarilla, con el gran convento f
 - Chichén Itzá: se pagan la cuota INAH y la cuota estatal. El importe para extranjeros hay que comprobarlo antes de salir: en noviembre de 2026 la ficha INAH indica 105 + 548 MXN, mientras la prensa local habla de 697 MXN con el nuevo boleto único. Según la ficha INAH abre todos los días de 8 a 16, último acceso a las 15.
 
 ### Día 4 — Mérida: el centro, el mercado y el Paseo de Montejo
-**Mérida** es la capital de Yucatán y la base para los dos días siguientes. Por la mañana se recorre el centro a pie: la **Plaza Grande** con la catedral del siglo XVI, el Palacio de Gobierno con sus murales, y luego el **mercado municipal**, con fruta, especias y artesanía. Por la tarde se pasea por el **Paseo de Montejo**, la avenida de los palacetes de la época dorada del henequén.
+**Mérida** es la capital de Yucatán y la base para los dos días siguientes. Por la mañana se recorre el centro a pie: la **Plaza Grande** con la catedral del siglo XVI, el Palacio de Gobierno con los murales de Fernando Castro Pacheco sobre la historia de Yucatán, con entrada libre, y luego el **mercado municipal**, con fruta, especias y artesanía. Conviene moverse temprano, porque hacia mediodía el calor en la ciudad es pesado, y pasar las horas centrales en un patio a la sombra o en el hotel. En el mercado también se comen los platos yucatecos más clásicos, como la cochinita pibil y los panuchos.
 
-Por la noche Rick fue a La Negrita, que cierra hacia las 22, y luego a la Mezcalería, un local grande donde no hace falta reservar.
+Por la tarde se pasea por el **Paseo de Montejo**, el bulevar de los palacios de la época dorada del henequén, cuando la fibra del agave hizo ricos a los dueños de las haciendas. *El domingo por la mañana el paseo se cierra a los coches y se llena de bicicletas, mientras en la Plaza Grande hay mercadillo y música.* Por la noche Rick fue a La Negrita, que cierra hacia las 22, y luego a la Mezcalería, un local grande donde no hace falta reservar.
+
+**En la práctica:** Palacio de Gobierno con entrada libre · en el mercado, cuidado con quien se ofrece a acompañarte a las tiendas · en el centro uno se mueve a pie o con apps de transporte, el coche se deja en el hotel o en aparcamientos vigilados.
 
 ### Día 5 — Celestún y la reserva de la ría
-Excursión de un día hacia el oeste, hasta **Celestún**, en el Golfo. El pueblo de pescadores está al borde de la **Reserva de la Biosfera Ría Celestún**, una laguna de manglares donde se sale en lancha a ver flamencos y aves acuáticas. El número de flamencos cambia mucho durante el año: antes de pagar la lancha, pregunta en el muelle cuántos hay esos días.
+Excursión de un día hacia el oeste, hasta **Celestún**, en el Golfo, a una hora y media en coche de Mérida. El pueblo de pescadores está al borde de la **Reserva de la Biosfera Ría Celestún**, una laguna de manglares donde se hacen salidas en lancha para ver los flamencos y las aves acuáticas. Las lanchas salen de la playa del pueblo o del embarcadero junto al puente de la entrada, y el paseo dura un par de horas, con paradas en los canales de manglar y en un ojo de agua dulce donde se puede nadar. El número de flamencos cambia mucho a lo largo del año: antes de pagar la lancha, pregunta en el embarcadero cuántos hay esos días.
 
-Si un lanchero se acerca demasiado a las aves para la foto, pídele que mantenga la distancia. Por la tarde se come pescado en la playa y se vuelve a Mérida antes de que oscurezca.
+Conviene salir temprano, cuando la luz es mejor y el viento más flojo. Si un lanchero se acerca demasiado a las aves para la foto, pídele que mantenga la distancia. Por la tarde se come pescado en la playa y se vuelve a Mérida antes de que anochezca. *El precio es por lancha: si sois pocos, conviene unirse a otros viajeros en el embarcadero para dividirlo.*
+
+**En la práctica:** Mérida-Celestún una hora y media en coche · lancha pagada en efectivo, precio por embarcación más la cuota de la reserva · sombrero, crema solar y repelente para los mosquitos del manglar.
 
 ### Día 6 — Uxmal
-Desde Mérida se baja hacia el sur por la Carretera Federal 261 hasta **Uxmal**, la gran ciudad puuc, con la Pirámide del Adivino y el Cuadrángulo de las Monjas. El estilo puuc se reconoce en las fachadas: la parte baja lisa, la alta llena de mosaicos de piedra y máscaras del dios de la lluvia. Rick la visitó con un guía y luego comió en el **Po' Pol Chac**, carne cocinada bajo tierra.
+Desde Mérida se baja hacia el sur, por la Federal 261, hasta **Uxmal**, la gran ciudad puuc, con la Pirámide del Adivino y el Cuadrángulo de las Monjas. El estilo puuc se reconoce por las fachadas: la parte baja lisa, la alta llena de mosaicos de piedra y máscaras del dios de la lluvia. A la pirámide no se sube, pero desde la terraza del Palacio del Gobernador se ve todo el sitio, con la selva baja alrededor. Se llega a la apertura, a las 8: Uxmal cierra antes que otros sitios y por la tarde el calor es fuerte.
 
-Se duerme en los alrededores de Uxmal o en Santa Elena, para estar ya en la Ruta Puuc a la mañana siguiente.
+Rick lo visitó con un guía y luego comió en **Po' Pol Chac**, con carne cocinada bajo tierra. *Los guías autorizados se contratan en la taquilla, con la credencial del INAH, no con quien se acerca en el aparcamiento.* Se duerme en los alrededores de Uxmal o en Santa Elena, para estar ya en la Ruta Puuc a la mañana siguiente.
 
 **En la práctica**
-- Uxmal: 105 MXN de entrada INAH más 461 MXN de cuota estatal CULTUR para extranjeros, o sea 566 MXN (ficha INAH, noviembre de 2026). Abierto todos los días de 8 a 16, último acceso a las 15.
+- Uxmal: 105 MXN de entrada INAH más 461 MXN de cuota estatal CULTUR para extranjeros, es decir 566 MXN (ficha INAH, noviembre de 2026). Abierto todos los días de 8 a 16, última entrada a las 15.
+- Mérida-Uxmal una hora y cuarto en coche; agua y sombrero, en el sitio hay poca sombra.
 
 ### Día 7 — La Ruta Puuc y la carretera a Campeche
 La **Ruta Puuc** es una carretera rural que une los sitios menores del mismo estilo, a pocos kilómetros unos de otros. **Kabah** tiene el Codz Poop, una fachada cubierta por cientos de máscaras de Chaac, y un arco aislado. **Labná** tiene otro arco famoso, muy decorado. Entre ambos está también **Sayil**, con el Gran Palacio construido sobre terrazas superpuestas. Son sitios tranquilos, a menudo casi vacíos.
@@ -88,9 +95,11 @@ Por la tarde se sube al **Fuerte de San Miguel**, en una de las colinas a los la
 - Fuerte de San Miguel: 145 MXN para extranjeros, de martes a domingo de 8 a 17 (ficha INAH). Los lunes cierra: en ese caso invierte los días.
 
 ### Día 9 — De Campeche a Palenque
-Es el traslado largo hacia Chiapas, pasando por Escárcega. En el Tren Maya, Campeche y Palenque están en la misma línea, así que es el tramo en el que el tren tiene más sentido, si el horario del día encaja. En coche se sale temprano para llegar con luz.
+Es el traslado largo hacia Chiapas, pasando por Escárcega. En el Tren Maya, Campeche y Palenque están en la misma línea, así que es el tramo en que el tren tiene más sentido, si el horario del día encaja. En coche se sale temprano para llegar con luz: son unas cinco o seis horas, con largas rectas por el campo, los topes a la entrada de cada pueblo y algún control del ejército, donde basta con parar y enseñar los documentos. Escárcega, a mitad de camino, es el sitio para repostar y comer.
 
-El pueblo de Palenque tiene poco que ver. Se duerme en el pueblo o en la carretera que sube al sitio, donde hay alojamientos entre la vegetación.
+El pueblo de Palenque no tiene mucho que ver. Se duerme en el pueblo o a lo largo de la carretera que sube al sitio, donde hay alojamientos rodeados de vegetación: la zona de El Panchán, a pocos minutos de las ruinas, es la más cómoda para entrar a la apertura al día siguiente. *De noche la carretera entre Escárcega y Palenque no se hace: animales, baches y topes sin iluminar.*
+
+**En la práctica:** Campeche-Palenque unas 5-6 horas en coche · Tren Maya: horarios y billetes en la web oficial, comprobar unos días antes · Palenque está en el horario del Centro, como Campeche · efectivo para los alojamientos pequeños alrededor del sitio.
 
 ### Día 10 — Palenque, la ciudad en la selva
 El sitio de **Palenque** está dentro del parque nacional, a pocos kilómetros del pueblo, en las primeras colinas cubiertas de selva. El Templo de las Inscripciones guardaba la tumba del rey Pakal; el Palacio, con su torre, domina la plaza. Alrededor hay arroyos, pequeñas cascadas y el ruido de los monos aulladores. Se entra a la apertura, a las 8, cuando la selva aún está fresca.
@@ -105,10 +114,14 @@ Las cascadas de **Misol-Ha**, un salto único en una amplia poza, y de **Agua Az
 
 Por eso aquí el día 11 es un día de reserva. Si cuando viajas los avisos oficiales han cambiado, las cascadas se hacen con un tour organizado desde el pueblo, nunca en coche propio; pregunta en el hotel esa misma mañana si la carretera está libre. Si no, se vuelve al sitio de Palenque para los senderos en la selva y los grupos de templos más alejados, o se descansa antes del día largo.
 
-### Día 12 — De Palenque a Xpujil
-Se vuelve hacia Escárcega y se sigue hacia el este por la Federal 186 hasta **Xpujil**, el pueblo de referencia para Calakmul. Es un día de carretera, que hay que hacer entero con luz. A lo largo de la 186 hay sitios menores como **Balam Ku**, donde Rick paró en su viaje, y alrededor de Xpujil los sitios de estilo Río Bec, como Becán y Xpuhil.
+**En la práctica:** antes de decidir, comprobar los avisos actualizados de Viaggiare Sicuri y del Foreign Office · solo tours organizados desde el pueblo, con salida por la mañana y vuelta por la tarde · en las cascadas las comunidades cobran una entrada en efectivo · bañador, escarpines y repelente.
 
-Se duerme en Xpujil o en los alojamientos ecológicos de la carretera hacia la reserva. Llena el depósito y saca efectivo antes de entrar en la reserva.
+### Día 12 — De Palenque a Xpujil
+Se vuelve hacia Escárcega y se sigue al este por la Federal 186 hasta **Xpujil**, el pueblo de referencia para Calakmul. Es un día de carretera, que hay que hacer entero con luz: unas cinco o seis horas, por las mismas carreteras del día 9 hasta Escárcega y luego por una carretera recta entre la selva, con pocos pueblos y pocas gasolineras. A lo largo de la 186 hay sitios menores como **Balam Ku**, donde Rick paró en su viaje, con un gran friso de estuco conservado bajo un techado, y alrededor de Xpujil los sitios de estilo Río Bec, como Becán y Xpuhil.
+
+**Becán**, rodeado por un foso, es el mayor de los sitios cercanos, y a última hora de la tarde está casi desierto. Se duerme en Xpujil o en los alojamientos ecológicos de la carretera hacia la reserva. Llena el depósito y saca efectivo antes de entrar en la reserva. *En Xpujil hay pocos cajeros y no siempre funcionan: mejor llegar ya con efectivo para dos días.*
+
+**En la práctica:** Palenque-Xpujil unas 5-6 horas en coche · repostar en Escárcega · Balam Ku, Becán y Xpuhil con entradas INAH de pocas decenas de pesos, cierre a las 17 con última entrada a las 16 · cenar temprano: en Xpujil los locales cierran pronto.
 
 ### Día 13 — Calakmul, en la Reserva de la Biosfera
 **Calakmul** fue una de las dos grandes potencias del mundo maya clásico, rival de Tikal. Hoy es un sitio inmenso sepultado en la selva de la Reserva de la Biosfera, patrimonio de la UNESCO tanto cultural como natural. Desde las pirámides más altas solo se ve selva hasta el horizonte. En los senderos se pueden encontrar monos, pavos ocelados y tucanes.
@@ -120,13 +133,25 @@ Se llega por la Federal 186: en el entronque del kilómetro 95 se toma la carret
 - No salgas de los senderos señalizados. Agua, comida, repelente y calzado cerrado.
 
 ### Día 14 — De Xpujil a Bacalar
-Se sigue hacia el este, se vuelve a Quintana Roo (una hora más) y se llega a **Bacalar**, en la laguna de los siete colores. La tarde es libre: un baño desde un muelle, un paseo por la orilla de la laguna.
+Se sigue hacia el este, se vuelve a Quintana Roo (una hora más) y se llega a **Bacalar**, en la laguna de los siete colores. Son unas dos horas de carretera por la 186; quien sale temprano puede parar en **Kohunlich**, un sitio en la selva poco antes de Chetumal, famoso por el templo de los grandes mascarones de estuco. Antes del pueblo, en la carretera, está el **Cenote Azul**, un pozo profundo y oscuro donde uno se baña.
+
+La tarde queda libre: un baño desde el muelle, un paseo por la orilla de la laguna. La mejor luz sobre el agua es a última hora de la tarde, cuando el viento amaina. *En la laguna viven los estromatolitos, formaciones rocosas antiquísimas y frágiles: no se pisan, y la crema solar se usa con moderación, mejor si es biodegradable.*
+
+**En la práctica:** Xpujil-Bacalar unas 2 horas en coche · Quintana Roo una hora por delante de Campeche · Kohunlich con entrada INAH, última entrada a las 16 hora local · muchos muelles de la laguna son de hoteles o clubes privados, con entrada de pago.
 
 ### Día 15 — Bacalar, la laguna
-Un día entero sin carretera. En Bacalar Rick hizo un tour en lancha de dos horas por la laguna, con una hora de kayak incluida. Es la forma más sencilla de ver los puntos donde el agua cambia de color. Quien quiera más días de mar puede seguir desde aquí con el otro viaje, *México Beach Life*, hacia Mahahual, Tulum y Holbox.
+Un día entero sin carretera. En Bacalar Rick hizo un tour en lancha de dos horas por la laguna, con una hora de kayak incluida. Es la forma más sencilla de ver los puntos donde el agua cambia de color. Los paseos clásicos pasan por el **Canal de los Piratas**, la isla de los pájaros y los cenotes que se abren dentro de la laguna, donde el agua pasa de golpe del turquesa al azul oscuro. Conviene salir por la mañana, cuando el agua está más tranquila y los colores más nítidos.
+
+La tarde queda para el pueblo: el **fuerte de San Felipe**, construido en el siglo XVIII contra los piratas, con su museo y la vista sobre la laguna, y los locales de la orilla para el atardecer. Quien quiera más días de mar puede seguir desde aquí con el otro viaje, *Messico Beach Life*, hacia Mahahual, Tulum y Holbox. *El kayak también se alquila por libre, pero con el viento de la tarde la vuelta a contracorriente cansa.*
+
+**En la práctica:** tour en lancha de un par de horas, precio que se acuerda en el muelle o en una agencia, en efectivo · fuerte de San Felipe con entrada de pocos euros, días de cierre que conviene comprobar · reservar mesa para el atardecer el fin de semana.
 
 ### Día 16 — Regreso a Cancún
-De Bacalar a Cancún hay un tramo largo por la costa. En el Tren Maya, Bacalar y Cancún Aeropuerto están en la misma red. Quien tiene coche lo devuelve en el aeropuerto. Conviene un vuelo por la noche, o una noche más en Cancún para no arriesgar.
+De Bacalar a Cancún hay un tramo largo por la costa, unas cuatro o cinco horas por la Federal 307, pasando por Tulum y Playa del Carmen. En el Tren Maya, Bacalar y Cancún Aeropuerto están en la misma red. Quien tenga coche lo devuelve en el aeropuerto. Conviene salir por la mañana: el tráfico más denso está alrededor de Tulum y Playa del Carmen, donde la carretera atraviesa las zonas urbanas, y los límites de velocidad se controlan.
+
+El coche se devuelve con el depósito lleno, revisando la carrocería con el empleado y pidiendo el recibo de cierre del contrato. Conviene un vuelo por la tarde-noche, o una noche más en Cancún para no arriesgar. *Quien tenga un vuelo a primera hora duerme cerca del aeropuerto la noche antes: la carretera desde Bacalar es demasiado larga para hacerla el mismo día.*
+
+**En la práctica:** Bacalar-Cancún unas 4-5 horas en coche · repostar antes del aeropuerto, donde hay pocas gasolineras · llegar al aeropuerto al menos 3 horas antes del vuelo internacional · los pesos que sobran se gastan antes de los controles.
 
 ## Dónde dormir
 Zonas recomendadas, ningún alojamiento probado expresamente para este itinerario. Dónde durmió Rick en su viaje lo encuentras en las fichas de los destinos.

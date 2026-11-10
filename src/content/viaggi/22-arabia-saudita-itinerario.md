@@ -29,9 +29,11 @@ Fino al 2019 questo viaggio non si poteva fare: il visto turistico non esisteva,
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Jeddah
-Siamo atterrati al King Abdulaziz (JED), la porta d'ingresso naturale dell'ovest saudita. Per dormire, vicino ad Al-Balad o sulla Corniche.
+Siamo atterrati al King Abdulaziz (JED), la porta d'ingresso naturale dell'ovest saudita. Per dormire, vicino ad Al-Balad o sulla Corniche. L'aeroporto è a nord della città, e la cosa più semplice per raggiungere l'hotel è un'auto Uber o Careem prenotata dall'app, che costa poco e risparmia la trattativa con i taxi. Conviene attivare subito una eSIM o comprare una SIM locale con il passaporto, perché in Arabia Saudita quasi tutto passa dal telefono: trasporti, biglietti dei siti, prenotazioni.
 
-Prima serata leggera: la **Corniche**, con il getto d'acqua della Fontana di Re Fahd, e cena di pesce. Il giovedì sera è il momento migliore per capire dove si è arrivati: le famiglie stendono i tappeti sul prato, accendono i barbecue e restano fino a mezzanotte.
+Prima serata leggera: la **Corniche**, con il getto d'acqua della Fontana di Re Fahd, e cena di pesce. Il giovedì sera è il momento migliore per capire dove si è arrivati: le famiglie stendono i tappeti sul prato, accendono i barbecue e restano fino a mezzanotte. Il weekend saudita cade tra venerdì e sabato, e il giovedì sera ne è l'inizio. *La fontana funziona soprattutto la sera, e la si vede meglio dal tratto centrale del lungomare.*
+
+**In pratica:** dall'aeroporto al centro in Uber o Careem, tempi molto variabili con il traffico · eSIM o SIM con il passaporto, WhatsApp funziona · Corniche gratuita e frequentata fino a tardi · vestirsi coperti anche la sera, uomini compresi.
 
 ### Giorno 2 — Al-Balad
 La mattina nei quartieri nuovi o al mare, e **il pomeriggio in Al-Balad**, perché è lì che va speso.
@@ -42,10 +44,14 @@ Va visto **nell'ultima ora di luce**. Di giorno è un quartiere polveroso pieno 
 
 Dentro, da vedere: la **Casa Nassif**, con la rampa interna costruita per far salire i cammelli, e il **souq Al-Alawi**, ancora in funzione.
 
-### Giorno 3 — Volo per AlUla
-Volo interno su AlUla (ULH), circa un'ora e mezza. *In alternativa ci sono sette ore di strada da Jeddah: si possono fare, perché le strade sono ottime e la benzina costa pochissimo, ma ci va una giornata intera.*
+**In pratica:** Al-Balad si gira a piedi, con scarpe comode e senza fretta · arrivare un'ora e mezza prima del tramonto · i negozi del souq chiudono per le preghiere, la vita riprende dopo il maghrib · contanti utili nei banchi più piccoli · cena nel quartiere o sulla Corniche, per il mandi e il pesce del Mar Rosso.
 
-Il pomeriggio è servito ad ambientarsi: la **città vecchia di AlUla**, il labirinto di case di fango ai piedi della cittadella, ed **Elephant Rock** al tramonto, il monolite di arenaria eroso a forma di elefante. È il ritrovo serale locale, con i fuochi accesi e le sedute ricavate nella sabbia.
+### Giorno 3 — Volo per AlUla
+Volo interno su AlUla (ULH), circa un'ora e mezza. *In alternativa ci sono sette ore di strada da Jeddah: si possono fare, perché le strade sono ottime e la benzina costa pochissimo, ma ci va una giornata intera.* All'arrivo si ritira l'auto a noleggio, che ad AlUla serve davvero: i siti sono sparsi su decine di chilometri lungo la valle e i trasporti pubblici sono limitati. Conviene fare check-in, lasciare i bagagli e uscire nel tardo pomeriggio, quando la luce è migliore.
+
+Il pomeriggio è servito ad ambientarsi: la **città vecchia di AlUla**, il labirinto di case di fango ai piedi della cittadella, ed **Elephant Rock** al tramonto, il monolite di arenaria eroso a forma di elefante. È il ritrovo serale locale, con i fuochi accesi e le sedute ricavate nella sabbia. Nella città vecchia la via restaurata è piena di caffè e botteghe, e si sale alla cittadella per vedere dall'alto il palmeto e le case abbandonate.
+
+**In pratica:** voli Saudia e flynas da Jeddah e Riyadh, da prenotare insieme alla data di Hegra · auto a noleggio da prenotare in anticipo in alta stagione · orari e biglietti dei siti su experiencealula.com · alloggi pochi e cari tra dicembre e febbraio: prenotare presto.
 
 ### Giorno 4 — Hegra
 Il motivo del viaggio. **La prenotazione è obbligatoria e va fatta settimane prima**: a Hegra si entra solo con visita guidata e a numeri contingentati, non in autonomia e non con il proprio mezzo. Si sale sui bus del sito con un *rawi*, un narratore, quasi sempre gente del posto.
@@ -56,6 +62,8 @@ Il pezzo che spiega come lavoravano è la **Qasr al-Farid**, la "tomba solitaria
 
 *Va detto anche cosa manca: non c'è un Siq che prepari la sorpresa, non c'è un Tesoro, e le tombe sono centoundici contro le centinaia di Petra. Quello che c'è, e che a Petra non c'è più, è il silenzio.*
 
+**In pratica:** Hegra Day Tour in bus con guida da circa 95 riyal a persona, tour privato in 4x4 molto più caro e venduto a veicolo · prenotare solo sul sito ufficiale Experience AlUla · durata di 2-3 ore · cappello, acqua e scarpe chiuse, perché si cammina sulla sabbia sotto il sole.
+
 ### Giorno 5 — Jabal Ikmah, Dadan e l'oasi
 La giornata che quasi tutti comprimono e che regge da sola.
 
@@ -65,19 +73,21 @@ Poi **Dadan**, la capitale dei regni di Dadan e Lihyan, più antica di Hegra, co
 
 Il pomeriggio nell'**oasi di AlUla**: centinaia di migliaia di palme da dattero, percorsi ombreggiati tra i campi e i datteri comprati dai produttori. Dopo due giorni di arenaria e sole, l'ombra dell'oasi è proprio quello che serve.
 
+**In pratica:** Dadan e Jabal Ikmah si visitano con biglietto o tour prenotati sul sito ufficiale, spesso con navetta da Winter Park · arrivare con la prima fascia del mattino per la luce sulle iscrizioni · nell'oasi i percorsi sono gratuiti, i datteri si comprano a peso dai produttori · nelle ore centrali meglio rientrare all'ombra.
+
 ### Giorno 6 — Volo per Riyadh
-Volo interno AlUla-Riyadh, circa due ore. Ci siamo sistemati nel centro moderno, attorno a Olaya o King Fahd Road.
+Volo interno AlUla-Riyadh, circa due ore. Ci siamo sistemati nel centro moderno, attorno a Olaya o King Fahd Road. Riyadh è una città costruita per l'auto, con distanze di decine di chilometri e marciapiedi rari: si fa tutto con Uber o Careem, che costano poco. Chi atterra al mattino ha il tempo di riposare un'ora prima di uscire, perché la giornata si concentra sul pomeriggio.
 
-Il pomeriggio al **Museo Nazionale Saudita**, il migliore del paese per capire la storia della penisola: conviene vederlo **prima** di Diriyah, non dopo.
+Il pomeriggio al **Museo Nazionale Saudita**, il migliore del paese per capire la storia della penisola: conviene vederlo **prima** di Diriyah, non dopo. Poi il **Masmak Fort**, la fortezza di fango incastrata tra i grattacieli da cui nel 1902 partì la riconquista di Ibn Saud. In mezzo ci sono poco più di cento anni, ed è il modo più rapido di capire quanto in fretta sia cambiato questo paese. *Il quartiere attorno al Masmak, con il souq e la piazza Deira, si gira bene a piedi la sera, quando rinfresca.*
 
-Poi il **Masmak Fort**, la fortezza di fango incastrata tra i grattacieli da cui nel 1902 partì la riconquista di Ibn Saud. In mezzo ci sono poco più di cento anni, ed è il modo più rapido di capire quanto in fretta sia cambiato questo paese.
+**In pratica:** Museo Nazionale con orari spezzati e aperture serali in alcuni giorni, ingresso gratuito o simbolico, da controllare su visitsaudi.com · Masmak gratuito, chiuso a metà giornata e riaperto nel pomeriggio · durante il Ramadan gli orari cambiano · Uber o Careem per ogni spostamento.
 
 ### Giorno 7 — Diriyah
-La mattina è libera in città: il **souq Al-Zal**, il quartiere di Deira, lo skybridge del **Kingdom Centre** per la vista dall'alto.
+La mattina è libera in città: il **souq Al-Zal**, il quartiere di Deira, lo skybridge del **Kingdom Centre** per la vista dall'alto. Il souq Al-Zal è il mercato tradizionale di tappeti, incenso, abiti e oggetti antichi, ed è più vivo dopo la preghiera del pomeriggio che al mattino presto; lo skybridge, il ponte sospeso tra le due punte della torre, ha senso con il cielo limpido.
 
-Il **tardo pomeriggio a Diriyah**, che è quando va vista. È la capitale originale dei Saud, fondata nel XV secolo lungo il wadi Hanifa e costruita tutta in **mattoni di fango e paglia**, con le travi di palma a vista e i motivi triangolari sulle facciate che servivano a far circolare l'aria. Distrutta dagli ottomani nel 1818, restaurata negli ultimi anni, patrimonio UNESCO dal 2010.
+Il **tardo pomeriggio a Diriyah**, che è quando va vista. È la capitale originale dei Saud, fondata nel XV secolo lungo il wadi Hanifa e costruita tutta in **mattoni di fango e paglia**, con le travi di palma a vista e i motivi triangolari sulle facciate che servivano a far circolare l'aria. Distrutta dagli ottomani nel 1818, restaurata negli ultimi anni, patrimonio UNESCO dal 2010. Nell'ultima ora di luce il colore passa dall'ocra all'arancione bruciato. A mezzogiorno il fango riverbera e le fotografie vengono piatte.
 
-Nell'ultima ora di luce il colore passa dall'ocra all'arancione bruciato. A mezzogiorno il fango riverbera e le fotografie vengono piatte.
+**In pratica:** At-Turaif con biglietto di circa 100 riyal, acquistabile su diriyah.sa, con tariffe serali ridotte segnalate in alcuni periodi · orari serali fino a tardi, da verificare sul sito · dopo la visita, cena sulla Bujairi Terrace di fronte, cara ma con vista sulle mura · Diriyah è a circa mezz'ora dal centro, in Uber.
 
 ### Giorno 8 — L'Edge of the World
 Una giornata che vale il viaggio quanto Hegra, e ne è l'opposto: lì tutto è gestito e contingentato, qui non c'è niente.
@@ -90,27 +100,35 @@ Si arriva in cima alla **scarpata del Tuwaiq** e davanti non c'è più niente: t
 
 Conviene andarci nel pomeriggio e restare al tramonto, quando la roccia diventa rossa, sapendo che poi il rientro su pista si fa al buio.
 
+**In pratica:** tour con 4x4 e autista prenotati da Riyadh, di solito di mezza giornata nel pomeriggio · portare acqua, cibo, torcia e una giacca, perché al tramonto rinfresca · l'accesso può essere chiuso dalle autorità dopo le piogge o nei mesi più caldi · nessun servizio sul posto.
+
 ### Giorno 9 — Volo per Abha
-Volo interno su Abha (AHB), circa un'ora e mezza. Si sale sopra i 2.000 metri e cambia tutto: montagne verdi, nebbie, terrazzamenti coltivati.
+Volo interno su Abha (AHB), circa un'ora e mezza. Si sale sopra i 2.000 metri e cambia tutto: montagne verdi, nebbie, terrazzamenti coltivati. In aeroporto si ritira l'auto a noleggio, indispensabile nell'Asir perché villaggi e belvedere sono sparsi lungo strade di montagna senza trasporti pubblici utili. Il clima va preso sul serio: dopo il deserto si arriva a temperature fresche, e la sera serve una felpa.
 
-Il pomeriggio l'abbiamo passato ad **Abha**, tra le case dipinte e il mercato. Il **qatt asiri**, i motivi geometrici colorati dipinti dalle donne sugli interni delle case, è patrimonio immateriale UNESCO e non ha niente in comune con l'austerità del Najd.
+Il pomeriggio l'abbiamo passato ad **Abha**, tra le case dipinte e il mercato. Il **qatt asiri**, i motivi geometrici colorati dipinti dalle donne sugli interni delle case, è patrimonio immateriale UNESCO e non ha niente in comune con l'austerità del Najd. *Se il viaggio è invernale, qui si trovano freddo e nebbia: è l'unica regione del paese con il calendario invertito, e la sua stagione buona è l'estate.*
 
-*Se il viaggio è invernale, qui si trovano freddo e nebbia: è l'unica regione del paese con il calendario invertito, e la sua stagione buona è l'estate.*
+**In pratica:** voli Saudia e flynas da Riyadh e Jeddah · auto a noleggio da prenotare prima, specie in estate quando l'Asir è pieno di turismo interno · guidare con prudenza nella nebbia sui tornanti · hotel di città a prezzi contenuti, poche strutture nei villaggi.
 
 ### Giorno 10 — Rijal Almaa
-Una giornata nel villaggio più noto dell'Asir, **Rijal Almaa**: costruito in pietra e quarzo su più piani, con le facciate che luccicano al sole e le finestre bianche che spiccano sul grigio. È candidato al patrimonio UNESCO e ospita un museo nelle case restaurate.
+Una giornata nel villaggio più noto dell'Asir, **Rijal Almaa**: costruito in pietra e quarzo su più piani, con le facciate che luccicano al sole e le finestre bianche che spiccano sul grigio. È candidato al patrimonio UNESCO e ospita un museo nelle case restaurate. Si scende da Abha con una strada di tornanti verso la Tihama, la pianura costiera, e conviene arrivare al mattino, quando la luce sulla pietra è migliore e fa meno caldo che nel fondovalle.
 
-Nel pomeriggio abbiamo fatto il giro dei villaggi di montagna in auto, tra terrazzamenti e nebbia, fino a **Habala**, il villaggio sulla scarpata che un tempo si raggiungeva solo con scale di corda.
+Nel pomeriggio abbiamo fatto il giro dei villaggi di montagna in auto, tra terrazzamenti e nebbia, fino a **Habala**, il villaggio sulla scarpata che un tempo si raggiungeva solo con scale di corda. Oggi ci si arriva con una funivia che scende lungo la parete, e il belvedere in cima è il punto migliore per capire quanto è ripida questa montagna. *La funivia ha orari ridotti e può fermarsi con il vento: conviene informarsi in hotel prima di partire.*
+
+**In pratica:** Abha-Rijal Almaa circa un'ora di strada di montagna · museo del villaggio con biglietto di poche decine di riyal, orari da controllare sul posto · funivia di Habala a pagamento, orari variabili · vestirsi a strati: tra il fondovalle e le creste la temperatura cambia molto.
 
 ### Giorno 11 — Le montagne
-La giornata lenta: la **funivia dell'Asir**, i sentieri sul **Jebel Sawda** (il punto più alto del paese) e il **mercato del bestiame e dei fiori**, che qui è ancora l'evento sociale della settimana. I venditori portano ghirlande di fiori sul capo, un'usanza che nel resto della penisola non esiste.
+La giornata lenta: la **funivia dell'Asir**, i sentieri sul **Jebel Sawda** (il punto più alto del paese) e il **mercato del bestiame e dei fiori**, che qui è ancora l'evento sociale della settimana. I venditori portano ghirlande di fiori sul capo, un'usanza che nel resto della penisola non esiste. Il mercato si tiene in un giorno fisso della settimana, diverso da paese a paese, e va chiesto in hotel; si va al mattino presto, quando arrivano gli allevatori.
 
-Il miele dell'Asir è il più pregiato dell'Arabia e si vende a prezzi importanti; poi c'è l'**areeka**, il pane con miele e burro chiarificato.
+Il miele dell'Asir è il più pregiato dell'Arabia e si vende a prezzi importanti; poi c'è l'**areeka**, il pane con miele e burro chiarificato. Sul Jebel Sawda, intorno ai 3.000 metri, ci sono ginepri, nebbia e babbuini che si avvicinano alle auto: non vanno nutriti. *Meglio non avvicinarsi alla zona di confine con lo Yemen, sconsigliata dagli avvisi ufficiali.*
 
-*Meglio non avvicinarsi alla zona di confine con lo Yemen, sconsigliata dagli avvisi ufficiali.*
+**In pratica:** Jebel Sawda a circa mezz'ora-un'ora da Abha in auto · funivie a pagamento con orari che cambiano secondo la stagione · per il miele, comprare da produttori o negozi specializzati e chiedere di assaggiare · controllare gli avvisi della Farnesina prima di guidare verso sud.
 
 ### Giorno 12 — Rientro
-Volo da Abha con scalo a Jeddah o Riyadh, e rientro.
+Volo da Abha con scalo a Jeddah o Riyadh, e rientro. L'aeroporto di Abha è piccolo e vicino alla città, ma i voli internazionali passano quasi tutti dai due hub, quindi conviene prenotare la tratta interna sullo stesso biglietto del volo per l'Europa, per non rischiare la coincidenza. Se il volo è nel pomeriggio, la mattina basta per un ultimo giro al mercato di Abha o per un caffè arabo con vista sulle montagne.
+
+Prima di partire si riconsegna l'auto a noleggio con il pieno, che qui costa pochissimo, e si lascia un margine per la strada verso l'aeroporto, che con la nebbia può essere lenta. Chi ha preso il visto turistico annuale può tornare più volte nell'arco dell'anno, ed è un buon motivo per lasciare a un secondo viaggio la costa del Mar Rosso o il deserto.
+
+**In pratica:** lasciare almeno 3 ore tra il volo interno e quello internazionale se i biglietti sono separati · riconsegna dell'auto in aeroporto · il miele dell'Asir viaggia bene nel bagaglio da stiva, non in quello a mano · visto turistico valido un anno con ingressi multipli.
 
 ## Cosa vedere / cosa fare
 - **Prenotare Hegra con settimane di anticipo.** Si entra solo con visita guidata contingentata.

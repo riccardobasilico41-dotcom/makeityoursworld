@@ -37,12 +37,16 @@ Por la tarde bajamos hacia el **Puente de las Cadenas** (Széchenyi lánchíd), 
 
 Por la noche caminamos por el centro de Pest, para tomar las medidas de la ciudad antes de los días siguientes.
 
+**En la práctica:** del centro de Pest al castillo con el autobús 16 o con el funicular Budavári Sikló desde la plaza Clark Ádám, que en verano suele tener cola · la terraza alta del Bastión de los Pescadores y la Iglesia de Matías tienen entradas aparte y cuestan unos pocos miles de florines · se camina mucho cuesta arriba y sobre adoquines: calzado cómodo.
+
 ### Día 2 — El Parlamento y el barrio judío
 La mañana la dedicamos al **Parlamento húngaro** (Országház), terminado en 1904, entre los edificios parlamentarios más grandes del mundo. El tour guiado (que se reserva con antelación) lleva a las salas principales y hasta la Sagrada Corona de San Esteban, custodiada bajo la cúpula central.
 
 A primera hora de la tarde fuimos a la **Gran Sinagoga de la calle Dohány**, de estilo morisco, la más grande de Europa y la segunda del mundo después de la de Nueva York. En el jardín memorial está el **Árbol de la Vida** de Imre Varga, una escultura de metal en forma de sauce llorón dedicada a las víctimas húngaras de la Shoah: uno de los lugares más sobrios e importantes de la ciudad.
 
 A última hora de la tarde entramos en el **barrio judío** (Erzsébetváros), hoy el centro de los ruin bars, para una primera exploración a pie por las calles, antes de volver por la noche para la ruta por los locales (ver la ficha de experiencia dedicada).
+
+**En la práctica:** Parlamento unos 7.000 florines para ciudadanos de la UE, visita de unos 45 minutos en horarios e idiomas fijos, entradas online que conviene reservar con días de antelación · documento de identidad en la entrada · la Gran Sinagoga cierra los sábados y en las festividades judías, hombros cubiertos para entrar.
 
 ### Día 3 — Las termas: Széchenyi o Gellért
 Reservamos una jornada aparte para la experiencia más característica de Budapest: las **termas**. Las **Termas de Széchenyi**, en el Parque de la Ciudad, son el complejo más grande de Europa, con tres piscinas exteriores calientes todo el año; en invierno el vapor que sube del agua entre la nieve es probablemente la imagen más famosa de la ciudad. Las **Termas de Gellért**, a los pies de la colina del mismo nombre en el lado Buda, son la alternativa de estilo Art Nouveau, más recogida y elegante, con mosaicos y vidrieras de colores alrededor de la piscina principal.
@@ -51,18 +55,22 @@ Entre vestuario, colas para las taquillas y tiempo en las piscinas, conviene con
 
 Por la tarde, quien ha elegido Széchenyi tiene alrededor el **Parque de la Ciudad** (Városliget), con el Castillo de Vajdahunyad y la Plaza de los Héroes; quien ha elegido Gellért puede subir a la **colina Gellért** y a la Ciudadela, para otro panorama sobre la ciudad y el Danubio.
 
+*Atención: las Termas Gellért están cerradas desde el 1 de octubre de 2025 por una restauración de varios años y no se prevé su reapertura antes de 2028; en el lado de Buda la alternativa más cercana hoy son las Termas Rudas.*
+
+**En la práctica:** Széchenyi con la línea amarilla de metro M1 hasta Széchenyi fürdő · entrada de día con taquilla en torno a 30-40 euros según el día, más barata online y entre semana · traer (o alquilar) bañador, chanclas y toalla · primera hora de la mañana o última de la tarde son las franjas menos concurridas.
+
 ### Día 4 — Danubio, Isla Margarita y el último paseo
-Por la mañana fuimos a la **Isla Margarita** (Margitsziget), el parque sin tráfico en medio del Danubio, con la fuente musical y sus termas menores: un ritmo más lento después de tres días de ciudad.
+Por la mañana fuimos a la **Isla Margarita** (Margitsziget), el parque sin tráfico en medio del Danubio, con la fuente musical y sus termas menores: un ritmo más lento después de tres días de ciudad. Se entra por el lado sur, desde el **Puente Margarita**, y se puede recorrer la isla a pie o en bici de alquiler, pasando por el jardín japonés, la torre del agua y las ruinas del convento dominico donde vivió santa Margarita. *Los espectáculos de la fuente musical se celebran en la temporada cálida: en invierno la isla sigue siendo agradable, pero más desnuda.*
 
-A primera hora de la tarde volvimos hacia el centro para el último paseo: la subida a la **Cúpula de la Basílica de San Esteban**, con el panorama sobre los tejados de Pest, y una parada en el **Mercado Central** para las últimas compras entre especias, pimentón y recuerdos.
+A primera hora de la tarde volvimos hacia el centro para el último paseo: la subida a la **Cúpula de la Basílica de San Esteban**, con el panorama sobre los tejados de Pest, y una parada en el **Mercado Central** para las últimas compras entre especias, pimentón y recuerdos. En la planta superior del mercado están los puestos de lángos y de platos húngaros, prácticos para una comida tardía. Por la tarde-noche, la forma más sencilla de cerrar el fin de semana es un **crucero o un paseo a lo largo del Danubio**, para ver desde el agua el Parlamento y el Castillo de Buda iluminados: las luces se encienden al atardecer, el mejor momento para subir a bordo.
 
-Por la tarde-noche, la forma más sencilla de cerrar el fin de semana es un **crucero o un paseo a lo largo del Danubio**, para ver desde el agua el Parlamento y el Castillo de Buda iluminados.
+**En la práctica:** Isla Margarita con los tranvías 4 y 6 hasta el Puente Margarita, o con el autobús 26, que la atraviesa · a la cúpula de la Basílica se sube a pie o en ascensor, entrada aparte de unos pocos miles de florines, el domingo la iglesia abre solo por la tarde · Mercado Central cerrado el domingo y el sábado solo hasta primera hora de la tarde · cruceros nocturnos de alrededor de una hora, mejor reservar en verano.
 
 ## Qué ver / qué hacer
 - **El Bastión de los Pescadores** y la Iglesia de Matías, en la colina de Buda.
 - **El Parlamento húngaro**, con el tour guiado interior o desde la orilla opuesta del Danubio.
 - **La Gran Sinagoga de la calle Dohány** y el Árbol de la Vida en el jardín memorial.
-- **Las Termas de Széchenyi o de Gellért**, dedicándoles al menos dos horas y media.
+- **Las Termas de Széchenyi** (o Rudas, con Gellért cerradas hasta 2028), dedicándoles al menos dos horas y media.
 - **El Puente de las Cadenas**, cruzado a pie al atardecer.
 - **Los ruin bars del barrio judío**, empezando por el Szimpla Kert.
 - **La Isla Margarita**, para una tarde más lenta.

@@ -30,11 +30,13 @@ It's not a vacation for everyone. You're cramped, you depend on the weather, and
 ## Itinerario giorno per giorno
 
 ### Day 1 — Boarding at Milazzo and transfer to Vulcano
-We boarded in the afternoon: safety briefing, provisioning and settling in aboard. The bunks are narrow, and that's where you understand why the bag had to be soft.
+We boarded in the afternoon: safety briefing, provisioning and settling in aboard. The bunks are narrow, and that's where you understand why the bag had to be soft. Before boarding, do the shopping for the week together with the skipper, who knows what you can find on the islands and what you can't: bottled water, fruit, pasta, breakfasts and something for lunches at anchor. On the smaller islands the shops are small and expensive, and on Filicudi and Alicudi almost non-existent.
 
 In the late afternoon we left for **Vulcano**, about an hour and a half of crossing. It's the island closest to Sicily and the first impact is **olfactory** before visual: the smell of sulfur arrives before the island does, and it's strong.
 
-Anchorage or mooring in the Porto di Levante area. First dinner aboard, and the first night at anchor with the boat moving.
+Anchorage or mooring in the Porto di Levante area. First dinner aboard, and the first night at anchor with the boat moving. *On the first evening, anyone prone to seasickness should take their remedy before dinner, because the rocking at anchor is felt most on the first nights.*
+
+**In practice:** Catania airport to Milazzo by bus about 2 hours, around €13-15 · boarding usually in the afternoon, at a time set by the charter company · soft bag, no hard suitcases · Milazzo-Vulcano about an hour and a half of sailing.
 
 ### Day 2 — Vulcano and the Seven Wounds
 Early in the morning you climb to the **Gran Cratere**, if access is allowed: about an hour on a path of volcanic sand and ash, with no shade, to be done **before eight** because after that the sun is unbearable. From the rim you look into the crater, with the **yellow sulfur fumaroles** coming out of the walls, and you see the whole archipelago in a line to the north, with Stromboli at the end. **Access depends on ordinances: better to check beforehand.**
@@ -44,6 +46,8 @@ The rest of Vulcano: the **thermal waters bubbling directly into the sea** near 
 In the afternoon we made the short sail to **Lipari**. The route passes in front of the **Seven Wounds**, the sheer cliffs of Vulcano's western coast.
 
 Night in Lipari.
+
+**In practice:** climb to the Gran Cratere about an hour, to do before 8 am with water, a hat and hiking shoes · access to the crater and the thermal pools is regulated by orders of the Comune di Lipari, check the day before · Grotte del Cavallo and Piscina di Venere only from the sea · Vulcano-Lipari a short sail.
 
 ### Day 3 — Lipari: the castle, the museum and the pumice
 **Lipari** is the largest and the most populated, the only one that looks like a real town, and almost everyone uses it only as a transport hub.
@@ -56,6 +60,8 @@ The afternoon by boat along the **northeast coast**, in front of the **former pu
 
 For those staying ashore there's the **Quattrocchi** viewpoint, from which you see the faraglioni and Vulcano together: it's the island's postcard.
 
+**In practice:** Aeolian Archaeological Museum usually open every day until late afternoon, ticket of a few euros, hours to check on the archaeological park's site · at least two hours for the museum · former pumice quarries to be seen only from the sea · Lipari is the port to restock water and provisions.
+
 ### Day 4 — Salina: the green one
 A short crossing to **Salina**, the anomaly of the archipelago: **it's the only island with spring water**, and that's why it's green, cultivated and full of trees while the others are barren. It has two twin extinct volcanoes, **Monte dei Porri** and **Fossa delle Felci**, which give it the two-humped profile recognizable from kilometers away.
 
@@ -67,6 +73,8 @@ Salina is also the island of food: the **capers**, which here are a Slow Food pr
 
 Night at anchor at Santa Marina or Rinella.
 
+**In practice:** climb to the Fossa delle Felci a couple of hours, hiking shoes and water, best early in the morning · Pollara beach with restricted access, check on site · Malvasia wineries by appointment · capers and Malvasia to buy here, where they cost less than elsewhere.
+
 ### Day 5 — Panarea and the islets
 **Panarea** is the smallest of the major islands and the most fashionable. In August it's saturated and expensive; in June and September it goes back to being what it is, a white village without cars (**you get around on foot or with electric vehicles**), with bougainvillea and low houses.
 
@@ -75,6 +83,8 @@ By boat, though, you come for **the islets to the east**: **Basiluzzo**, **Datti
 On land we walked to **Punta Milazzese**. On a sheer promontory there's a **prehistoric Bronze Age village**, with the foundations of twenty-three oval huts still visible, overlooking **Cala Junco**: a bay closed like an amphitheater by rock walls, with water of a color that seems retouched. You get there on foot in half an hour from the village, or by tender from the boat.
 
 In the late afternoon we left for Stromboli. It's the longest crossing of the week and has to be done in daylight.
+
+**In practice:** Punta Milazzese about half an hour on foot from the village · no cars on Panarea, only electric vehicles and walking · in August anchorages and prices at their peak, better June and September · crossing to Stromboli a couple of hours depending on the wind.
 
 ### Day 6 — Stromboli: the Sciara del Fuoco
 It's the day you come to the Aeolians for.
@@ -87,6 +97,8 @@ In the late afternoon, the climb, **within the limits and with the guides that t
 
 But the real thing we did **after dark, from the boat**. You sail under the Sciara, switch off the deck lights and wait in silence. Every few minutes there's a dull boom, then the orange glow on the crater rim, then the glowing blocks that roll down the chute for seven hundred meters to the water and go out one after another. No filter, no barrier, no line: just the black sea, the noise and that thing that has been doing this for two thousand years, whoever watches it.
 
+**In practice:** climb only with authorized guides and up to the altitude set by the order in force, excursions from about €30 per person · Punta Labronzo Observatory about an hour on foot, free · headlamp, closed shoes, windbreaker and water · Ginostra reachable only by sea.
+
 ### Day 7 — Filicudi or Alicudi: the islands at the end
 The crossing goes westward, to the two islands that almost nobody visits and that are the reason a boat itinerary beats the ferry: **they're poorly connected, have very few beds and in the low season are reached by only a few runs a week.**
 
@@ -96,10 +108,16 @@ The crossing goes westward, to the two islands that almost nobody visits and tha
 
 Last night at anchor.
 
-### Day 8 — Return and disembarkation
-The sail back to the departure port is the longest crossing and generally the most beautiful: you leave the archipelago and watch it recede all together, with Stromboli disappearing last because it's the tallest.
+**In practice:** Grotta del Bue Marino by tender or boat, in calm sea · Zucco Grande on foot along the mule track, hiking shoes · on Alicudi only stairways: a light bag if you go ashore · exposed anchorages, the wind chooses between the two islands.
 
-We disembarked in the morning: cleaning the boat and goodbyes.
+### Day 8 — Return and disembarkation
+The sail back to the departure port is the longest crossing and generally the most beautiful: you leave the archipelago and watch it recede all together, with Stromboli disappearing last because it's the tallest. Disembarkation has a fixed time, usually in the morning, which is why the return route is planned with the skipper the evening before: sometimes you sail towards the port on the last afternoon, sometimes you leave at dawn.
+
+We disembarked in the morning: cleaning the boat and goodbyes. You leave the boat tidy, with the galley emptied and the rubbish bags ashore, and the skipper checks the inventory with the charter company.
+
+With an afternoon flight there's time for a walk around Milazzo, with the **castle** above the old town and the seafront, and a last fish lunch before the bus to Catania. If you're staying in Sicily you can go on to Cefalù and Tindari along the Tyrrhenian coast, or head down towards Etna and Taormina. *Don't book morning flights: between disembarking and the airport transfer you need half a day.*
+
+**In practice:** disembarkation in the morning at a fixed time · Milazzo-Catania airport bus about 2 hours, to book in high season · ask the charter company about luggage storage · flights from the afternoon onwards.
 
 ## If you don't go by sail
 The archipelago can also be done very well by ferry, with a different logic: **you choose a base and do the other islands as day trips**, instead of moving every night.

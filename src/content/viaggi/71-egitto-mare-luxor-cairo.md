@@ -158,6 +158,8 @@ Chi ha il brevetto fa due immersioni: **Elphinstone** per gli squali longimano (
 ### Giorno 10 — Wadi el Gemal o giornata libera
 L'ultimo giorno pieno si sceglie in base all'energia rimasta. Il parco di **Wadi el Gemal**, a sud di Marsa Alam, unisce deserto, mangrovie e la baia di Sharm el Luli, con una sabbia bianca e un'acqua tra le più chiare della costa. In alternativa un'escursione nel deserto al tramonto, con cena beduina sotto le stelle, o semplicemente un giorno in spiaggia.
 
+Per Wadi el Gemal si parte presto: **Sharm el Luli** è a una sessantina di chilometri a sud di Marsa Alam, circa un'ora di strada, e nelle prime ore la spiaggia è ancora quasi vuota e l'acqua ferma. Molte escursioni aggiungono una sosta alle **mangrovie di Qulan**, vicino a Hamata, con canali di acqua bassa e sabbia bianca, e un tratto di pista nel wadi dove a volte si vedono le gazzelle. *Il parco è un'area protetta: si entra in acqua dalla sabbia, senza camminare sul corallo, e non si raccoglie nulla.* Chi preferisce restare in hotel tiene la sera per l'ultimo snorkeling dalla riva, con la luce bassa del tramonto.
+
 **In pratica**
 - Escursione a Wadi el Gemal e Sharm el Luli: indicativamente 35-60 $
 - Cena beduina nel deserto: indicativamente 30-50 $
@@ -165,6 +167,8 @@ L'ultimo giorno pieno si sceglie in base all'energia rimasta. Il parco di **Wadi
 
 ### Giorno 11 — Rientro
 Transfer all'aeroporto di **Marsa Alam** (o di Hurghada) e volo diretto per l'Italia. Al controllo di sicurezza in uscita si fanno sequestrare conchiglie, coralli e sabbia: è vietato portarli via, anche in piccole quantità.
+
+L'**aeroporto di Marsa Alam** è a circa 60 km a nord della città, vicino a Port Ghalib: dagli hotel più a sud si conta un'ora o più di transfer, da fissare con l'hotel la sera prima. Chi vola da Hurghada deve mettere in conto circa tre ore e mezza di strada lungo la costa. Gli orari dei voli diretti per l'Italia cambiano con la stagione e la compagnia, e le camere di solito si lasciano entro mezzogiorno. *Con un volo serale conviene chiedere un late check-out o una camera d'appoggio per la doccia dopo l'ultimo bagno.*
 
 **In pratica**
 - Arrivare in aeroporto 3 ore prima: i controlli sono doppi, all'ingresso e al gate

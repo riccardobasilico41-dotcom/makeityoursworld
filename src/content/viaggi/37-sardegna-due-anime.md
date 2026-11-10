@@ -39,6 +39,8 @@ Le spiagge sono **Liscia Ruja**, la più grande, **Capriccioli**, **Romazzino**,
 
 Poi **Porto Cervo** al tramonto, per capire il fenomeno: la piazzetta, le vetrine, le barche. Ci si sta un'ora e si è visto tutto.
 
+**In pratica:** dall'aeroporto di Olbia a Porto Cervo circa 40 minuti d'auto · in luglio e agosto i parcheggi delle spiagge della Costa Smeralda sono a pagamento e si riempiono entro metà mattina · a Porto Cervo un aperitivo in piazzetta costa molto più che altrove: va messo in conto come parte della visita.
+
 ### Giorno 2 — L'arcipelago della Maddalena
 Giornata in barca nel **Parco Nazionale dell'Arcipelago di La Maddalena**: **sessantadue tra isole e isolotti** tra la Sardegna e la Corsica, quasi tutti disabitati.
 
@@ -47,6 +49,8 @@ Si parte da Palau o dalla Maddalena. Dalla barca abbiamo visto le **Bocche di Bo
 A terra, **Caprera**: l'isola dove **Garibaldi** comprò metà del terreno nel 1855, dove visse gli ultimi ventisette anni e dove è sepolto. La **casa museo** è rimasta com'era, con il letto girato verso la finestra da cui guardava il mare. È una visita che sorprende chi non se l'aspetta.
 
 Sempre a Caprera c'è **Cala Coticcio**, detta "Tahiti", una delle calette più belle del Mediterraneo: **l'accesso via terra è contingentato e consentito solo con guide autorizzate**, a numeri giornalieri limitati. **Va prenotata con largo anticipo, oppure guardata dal mare.**
+
+**In pratica:** traghetto Palau-La Maddalena in circa 20 minuti, con corse frequenti · le escursioni in barca partono la mattina e rientrano nel pomeriggio, meglio prenotare il giorno prima in alta stagione · la casa museo di Garibaldi a Caprera ha ingressi a orario e giorni di chiusura da controllare · Cala Coticcio solo con guide autorizzate, prenotazione con largo anticipo.
 
 ### Giorno 3 — Capo Testa, la Valle della Luna e la Gallura interna
 La mattina siamo stati a **Santa Teresa di Gallura** e sul promontorio di **Capo Testa**, dove **il vento e il mare hanno eroso il granito in forme che sembrano scolpite**: massi tondi, archi, canaloni. Nell'antichità era una cava romana: ci sono ancora **colonne sbozzate e abbandonate sul posto**, e il granito di qui è finito nelle basiliche di Roma e nella cattedrale di Pisa.
@@ -57,14 +61,16 @@ Nel pomeriggio siamo entrati nella **Gallura interna**, l'opposto della costa: c
 
 Qui si produce il **Vermentino di Gallura**, unica **DOCG** dell'isola, che sul granito prende una mineralità che altrove non ha. **Cantina su appuntamento.**
 
+**In pratica:** da Santa Teresa a Capo Testa circa dieci minuti d'auto, parcheggio a pagamento in estate · alla Valle della Luna si arriva a piedi in circa mezz'ora di sentiero tra le rocce, scarpe chiuse · da Santa Teresa a Tempio Pausania circa un'ora · le cantine del Vermentino si visitano su appuntamento, da chiedere qualche giorno prima.
+
 ### Giorno 4 — Verso il Golfo di Orosei
 Ci siamo spostati verso sud lungo la costa orientale: è la giornata di guida più lunga dell'itinerario e va presa con calma.
 
-Lungo la strada ci si può fermare a **San Teodoro**, con lo stagno e i **fenicotteri**, oppure a **Cala Brandinchi** e **Lu Impostu**, spiagge bellissime ed entrambe **contingentate in alta stagione**: conviene controllare prima le regole dell'anno.
+Da Olbia a Cala Gonone ci sono circa due ore per la statale 125 e la superstrada, che diventano molte di più con le soste al mare. Conviene partire dopo colazione e fissare una sola spiaggia per il bagno, al mattino, quando i parcheggi sono ancora liberi.
 
-L'arrivo è a **Cala Gonone** o nella zona di **Dorgali**, la base per il **Golfo di Orosei**: quaranta chilometri di **falesie calcaree a picco sul mare senza una sola strada**, con le cale raggiungibili solo in barca o a piedi. È il tratto di costa più spettacolare d'Italia e uno dei pochi rimasti inaccessibili.
+Lungo la strada ci si può fermare a **San Teodoro**, con lo stagno e i **fenicotteri**, oppure a **Cala Brandinchi** e **Lu Impostu**, spiagge bellissime ed entrambe **contingentate in alta stagione**: conviene controllare prima le regole dell'anno. L'arrivo è a **Cala Gonone** o nella zona di **Dorgali**, la base per il **Golfo di Orosei**: quaranta chilometri di **falesie calcaree a picco sul mare senza una sola strada**, con le cale raggiungibili solo in barca o a piedi. È il tratto di costa più spettacolare d'Italia e uno dei pochi rimasti inaccessibili. *L'ultimo tratto verso Cala Gonone passa in galleria e scende a tornanti: meglio arrivarci con la luce.* La sera siamo andati a letto presto: il giorno dopo si cammina.
 
-La sera siamo andati a letto presto: il giorno dopo si cammina.
+**In pratica:** Olbia-Cala Gonone circa due ore senza soste · a Cala Brandinchi e Lu Impostu in estate l'accesso è a numero chiuso con prenotazione e parcheggio a pagamento · a Cala Gonone conviene dormire più notti di fila, perché è la base per i giorni 5, 6 e 7 · cena presto e zaino pronto per l'escursione del mattino dopo.
 
 ### Giorno 5 — Cala Goloritzé
 La giornata più bella dell'itinerario, e quella che richiede più organizzazione.
@@ -77,12 +83,14 @@ Poi si arriva, e **Cala Goloritzé** è quello che è: una mezzaluna di ciottoli
 
 **L'accesso è a numero chiuso con prenotazione e contributo**, e **arrampicare sull'Aguglia è vietato**, per tutelare la guglia.
 
+**In pratica:** accesso a Cala Goloritzé su prenotazione online con contributo di pochi euro e numero giornaliero limitato, da fissare con anticipo in estate · discesa circa un'ora e un quarto, salita più lunga: almeno due litri d'acqua a testa · scarpe da trekking, non infradito · chi preferisce il mare può arrivare in barca, senza sbarco sulla spiaggia.
+
 ### Giorno 6 — Le cale del golfo in barca
-Il completamento della giornata precedente, dall'acqua.
+Il completamento della giornata precedente, dall'acqua. Abbiamo fatto l'escursione in barca da **Cala Gonone** o da **Santa Maria Navarrese** lungo tutto il golfo, con le soste per il bagno: **Cala Mariolu**, con i ciottoli bianchi e il fondale che scende a gradoni, **Cala Biriola**, **Cala Sisine** e **Cala Luna**, con le grotte alle spalle della spiaggia. Anche queste sono in buona parte **contingentate**, e le imbarcazioni hanno quote di sbarco assegnate: **le regole cambiano, conviene chiedere all'operatore al momento di prenotare.** *Il mare del golfo cambia in fretta con il vento: se il maestrale è forte le uscite si annullano o restano sottocosta.*
 
-Abbiamo fatto l'escursione in barca da **Cala Gonone** o da **Santa Maria Navarrese** lungo tutto il golfo, con le soste per il bagno: **Cala Mariolu**, con i ciottoli bianchi e il fondale che scende a gradoni, **Cala Biriola**, **Cala Sisine** e **Cala Luna**, con le grotte alle spalle della spiaggia. Anche queste sono in buona parte **contingentate**, e le imbarcazioni hanno quote di sbarco assegnate: **le regole cambiano, conviene chiedere all'operatore al momento di prenotare.**
+Nel golfo c'è anche la **Grotta del Bue Marino**, una grotta marina lunghissima in cui si entra in barca per poi proseguire a piedi su passerelle tra stalattiti e laghetti. Il nome viene dalla **foca monaca**, che ci viveva fino agli anni Ottanta e che oggi nel Mediterraneo è ridotta a poche centinaia di esemplari. La grotta si visita con turni guidati, e molte escursioni in barca la inseriscono come prima tappa al mattino. Si può scegliere tra la barca collettiva, più economica, e il gommone a noleggio, che lascia libertà di orari ma richiede esperienza con il mare.
 
-Nel golfo c'è anche la **Grotta del Bue Marino**, una grotta marina lunghissima in cui si entra in barca per poi proseguire a piedi su passerelle tra stalattiti e laghetti. Il nome viene dalla **foca monaca**, che ci viveva fino agli anni Ottanta e che oggi nel Mediterraneo è ridotta a poche centinaia di esemplari.
+**In pratica:** escursioni in barca da Cala Gonone o Santa Maria Navarrese per tutta la giornata, prenotazione il giorno prima in alta stagione · gommone a noleggio anche senza patente entro i limiti di potenza consentiti, ma con mare calmo · Grotta del Bue Marino con biglietto a parte e visita guidata a orari fissi · scarpette da scoglio utili sui ciottoli.
 
 ### Giorno 7 — Il Supramonte: Gorropu o Tiscali
 La giornata della montagna, con due opzioni alternative: farle tutte e due nello stesso giorno non è realistico.
@@ -92,6 +100,8 @@ La giornata della montagna, con due opzioni alternative: farle tutte e due nello
 **Opzione B — Il villaggio nuragico di Tiscali.** Si cammina nella Valle di Lanaittu e si sale a una **dolina**, una voragine nel calcare con il tetto in parte crollato: **dentro, nascosto, c'è un villaggio nuragico**, con le capanne costruite sotto la volta naturale. Fu trovato solo alla fine dell'Ottocento e la sua funzione è discussa: probabilmente un rifugio delle popolazioni locali durante la romanizzazione. Il percorso richiede circa quattro ore in tutto e **l'ultima parte vuole piede fermo**.
 
 Per chi non se la sente di fare nessuna delle due c'è la sorgente di **Su Gologone**, una risorgenza carsica da cui esce un fiume intero, con l'acqua verde smeraldo.
+
+**In pratica:** Gorropu e Tiscali partono da punti diversi, a circa un'ora d'auto da Cala Gonone · per Gorropu si paga un biglietto d'ingresso alla gola, e conviene informarsi sul livello dell'acqua · per Tiscali si parte presto, prima del caldo, con almeno due litri d'acqua · le guide locali si prenotano a Dorgali o Cala Gonone.
 
 ### Giorno 8 — La Barbagia: Orgosolo, Mamoiada, il Cannonau
 Siamo entrati nell'interno, la Sardegna che col mare non ha niente a che fare.
@@ -104,6 +114,8 @@ Questa è anche la zona su cui si concentrano gli studi sulla **longevità sarda
 
 La sera, un pasto serio: **porceddu**, **culurgiones**, **pecorino**, **pane carasau**, **seadas** e **mirto** ghiacciato.
 
+**In pratica:** da Dorgali a Orgosolo circa 40 minuti, da Orgosolo a Mamoiada una ventina · il Museo delle Maschere Mediterranee ha orari ridotti fuori stagione · le cantine di Cannonau si visitano su appuntamento · chi guida evita la degustazione: le strade dell'interno sono strette e tortuose.
+
 ### Giorno 9 — Il Sinis, Tharros e i nuraghi
 Abbiamo attraversato l'isola verso ovest, nella giornata dedicata all'archeologia.
 
@@ -115,6 +127,8 @@ Nel pomeriggio la **penisola del Sinis**: **Tharros**, città fenicia e poi puni
 
 A **Cabras** c'è il museo con i **Giganti di Mont'e Prama**: **statue di pietra alte più di due metri** di arcieri, pugilatori e guerrieri, con gli occhi a doppio cerchio concentrico, di circa tremila anni fa, trovate per caso da un contadino nel 1974. Sono **le più antiche statue antropomorfe a tutto tondo del Mediterraneo occidentale**, e la loro scoperta ha riscritto quello che si pensava della civiltà nuragica.
 
+**In pratica:** Su Nuraxi di Barumini con visita guidata obbligatoria a orari fissi, biglietto acquistabile anche cumulativo con il polo museale di Casa Zapata, in paese · da Barumini a Tharros circa un'ora e un quarto · a Is Arutas raccogliere o portare via la sabbia è sanzionato · museo di Cabras con biglietto separato, utile da prenotare nei weekend.
+
 ### Giorno 10 — Il Sulcis-Iglesiente e Porto Flavia
 Siamo scesi nel sud-ovest, la parte meno visitata dell'isola e una delle più straordinarie.
 
@@ -122,14 +136,16 @@ Siamo scesi nel sud-ovest, la parte meno visitata dell'isola e una delle più st
 
 Nei dintorni ci sono **Cala Domestica**, una baia chiusa tra due pareti con la torre spagnola e i resti delle strutture minerarie, e le **miniere di Montevecchio e Ingurtosu**, paesi-fabbrica abbandonati con le palazzine della direzione in stile liberty in mezzo al nulla. **Il Parco Geominerario** racconta una storia durata più di un secolo e finita male: quando le miniere hanno chiuso, negli anni Settanta e Ottanta, la zona si è svuotata.
 
+**In pratica:** Porto Flavia si visita solo con prenotazione e accompagnamento, a orari fissi, da fissare con giorni di anticipo in estate · il punto d'incontro è sopra Masua e l'accesso è a piedi: scarpe chiuse · Cala Domestica ha parcheggio a pagamento e un chiosco in stagione · le strade delle miniere sono spesso sterrate.
+
 ### Giorno 11 — Le dune di Piscinas e la Costa Verde
 La giornata che quasi nessuno mette in programma.
 
-Le **dune di Piscinas** sono **tra le più alte d'Europa**: un sistema dunale mobile che arriva a **decine di metri di altezza**, alimentato dal maestrale e trattenuto da ginepri secolari piegati e da cespugli di lentisco. Ci siamo arrivati in fondo a una strada bianca in mezzo al nulla, e abbiamo camminato in un paesaggio che non somiglia a nessun'altra parte d'Italia: sabbia dorata a perdita d'occhio, il mare aperto davanti e, alle spalle, i ruderi delle miniere.
+Le **dune di Piscinas** sono **tra le più alte d'Europa**: un sistema dunale mobile che arriva a **decine di metri di altezza**, alimentato dal maestrale e trattenuto da ginepri secolari piegati e da cespugli di lentisco. Ci siamo arrivati in fondo a una strada bianca in mezzo al nulla, e abbiamo camminato in un paesaggio che non somiglia a nessun'altra parte d'Italia: sabbia dorata a perdita d'occhio, il mare aperto davanti e, alle spalle, i ruderi delle miniere. *Sulle dune si cammina solo sui percorsi segnati, per non rovinare la vegetazione che le tiene ferme; d'estate la sabbia a mezzogiorno scotta.*
 
-Il resto della **Costa Verde** (**Scivu**, **Portixeddu**, **Capo Pecora**) è una fila di spiagge lunghissime senza costruzioni, senza stabilimenti e spesso senza nessuno, anche in agosto. **Non ci sono servizi:** bisogna portarsi tutto.
+Il resto della **Costa Verde** (**Scivu**, **Portixeddu**, **Capo Pecora**) è una fila di spiagge lunghissime senza costruzioni, senza stabilimenti e spesso senza nessuno, anche in agosto. **Non ci sono servizi:** bisogna portarsi tutto. **Attenzione al mare:** su questa costa esposta a ovest corrente e onde sono serie, e quasi mai ci sono assistenti bagnanti. Il momento migliore per le dune è la mattina presto o il tardo pomeriggio, quando la luce radente disegna le creste; il tramonto sul mare aperto chiude la giornata.
 
-**Attenzione al mare:** su questa costa esposta a ovest corrente e onde sono serie, e quasi mai ci sono assistenti bagnanti.
+**In pratica:** l'ultimo tratto per Piscinas è sterrato e attraversa un guado: auto normale con prudenza, meglio informarsi dopo le piogge · niente negozi lungo la costa: acqua, cibo e ombrellone da portare · con il maestrale forte il bagno è sconsigliato · si dorme nella zona di Arbus o Guspini, o si torna verso Iglesias.
 
 ### Giorno 12 — Carloforte e l'isola di San Pietro
 Abbiamo preso il traghetto per l'**isola di San Pietro** e **Carloforte**, l'anomalia linguistica e culturale della Sardegna.
@@ -139,6 +155,8 @@ Nel 1738 un gruppo di famiglie **liguri**, che da due secoli viveva a **Tabarka*
 Per secoli Carloforte è stata un centro della **pesca del tonno con la tonnara fissa**, e il tonno rosso resta la sua identità gastronomica. Se ne mangia ogni parte, **bottarga, ventresca, mosciame, lattume**, con una cultura del taglio più vicina a quella giapponese che a quella italiana.
 
 L'isola si gira in giornata: le **colonne di basalto** della Punta delle Colonne, **Cala Fico**, le **saline** con i **fenicotteri**, e il borgo con le case colorate e le persiane verdi, che sembra un pezzo di Liguria appoggiato per sbaglio in Sardegna.
+
+**In pratica:** traghetti per Carloforte da Portovesme (circa 40 minuti) o da Calasetta (circa mezz'ora), con l'auto conviene prenotare in estate · l'isola si gira bene in auto o in scooter · a fine maggio e inizio giugno il Girotonno anima il paese: alloggi da prenotare presto · le saline si osservano dalla strada, senza entrare nelle vasche.
 
 ### Giorno 13 — Cagliari
 L'ultima città, che sorprende quasi tutti.
@@ -151,10 +169,14 @@ Il pomeriggio al **Poetto**, la spiaggia urbana lunga otto chilometri, e allo **
 
 Ultima cena in città, e ultimo mirto.
 
-### Giorno 14 — Partenza
-L'ultima mattina si può passare a Cagliari o sulla **Costa del Sud**, verso l'aeroporto: **Chia** con le dune e la torre spagnola, **Tuerredda** (contingentata in stagione) e il sito fenicio-romano di **Nora** sulla punta, con il teatro affacciato sul mare e parte della città sommersa a pochi metri di profondità.
+**In pratica:** Castello si raggiunge a piedi in salita o con gli ascensori pubblici della città · Museo Archeologico Nazionale nella Cittadella dei Musei, giorno di chiusura settimanale da controllare · al Poetto si arriva in bus dal centro in circa 20-30 minuti · i fenicotteri di Molentargius si vedono meglio la mattina presto o al tramonto.
 
-Volo da Cagliari.
+### Giorno 14 — Partenza
+L'ultima mattina si può passare a Cagliari o sulla **Costa del Sud**, verso l'aeroporto: **Chia** con le dune e la torre spagnola, **Tuerredda** (contingentata in stagione) e il sito fenicio-romano di **Nora** sulla punta, con il teatro affacciato sul mare e parte della città sommersa a pochi metri di profondità. Nora si visita con turni guidati e richiede circa un'ora; Chia è a una ventina di minuti più a sud. *Con un volo nel primo pomeriggio conviene scegliere una sola tappa, e lasciare la Costa del Sud a chi parte la sera.*
+
+Volo da Cagliari. L'aeroporto di Elmas è a una decina di chilometri dal centro e a circa un'ora da Chia, e la riconsegna dell'auto a noleggio si fa nell'area dedicata vicino al terminal. Prima della consegna conviene fare il pieno e togliere la sabbia dall'abitacolo, che alcune agenzie fanno pagare come pulizia extra. Per gli acquisti dell'ultimo momento, pecorino, bottarga e mirto si trovano anche in aeroporto, ma a prezzi più alti.
+
+**In pratica:** Cagliari-Nora circa 45 minuti, Nora-Chia circa 20 · Tuerredda in alta stagione con prenotazione e parcheggio a pagamento · arrivare all'aeroporto almeno un'ora e mezza prima dei voli nazionali, due ore per quelli internazionali · bottarga sottovuoto e formaggi viaggiano nel bagaglio a mano, mirto e vasetti oltre i 100 ml vanno in stiva.
 
 ## Le due versioni brevi
 - **Una settimana chic (nord-est):** Costa Smeralda, arcipelago della Maddalena in barca, Capo Testa, Gallura interna e due giorni sul Golfo di Orosei con Cala Goloritzé. È l'itinerario più fotogenico e il più caro.

@@ -130,52 +130,72 @@ A ten-day example designed for a first time: four nights on a local island in So
 ## Itinerario giorno per giorno
 
 ### Day 1 — Arrival in Malé and speedboat to Dhigurah
-Flights from Italy arrive at Velana with a layover, often in the morning. After the checks I looked at the arrivals desk for the speedboat operator booked by the guesthouse. To **Dhigurah**, in South Ari atoll, it takes an hour and a half to two hours on the open sea. We arrived for lunch, with time to settle in, take a first swim on the **bikini beach** (a long tongue of white sand at the tip of the island) and watch the sunset on the west side.
+Flights from Italy reach Velana with one stopover, often in the morning. After the checks I looked for the speedboat operator booked by the guesthouse at the arrivals desk. **Dhigurah**, in South Ari Atoll, is an hour and a half to two hours away across open sea. *In rough seas the crossing is felt: if you get seasick, sit towards the stern and take something before leaving.* It's also worth changing some cash or carrying small US dollar notes, handy on local islands for tips and excursions.
+
+We arrived for lunch, with time to settle in, have a first swim on the **bikini beach** (a long tongue of white sand at the tip of the island) and watch the sunset on the west side. The first afternoon is the right moment to agree the following days' excursions with the guesthouse, starting with the whale shark, which depends on the weather and should be set for the first suitable day. Dhigurah is long and narrow, covered on foot or by bike: no cars, village rhythms.
 
 **In practice:** shared Malé-Dhigurah speedboat roughly $50-70 per person each way, generally two departures from the airport (around 10:45-11 and 4 p.m.) and different times on Friday · those landing in the evening sleep in Hulhumalé and leave the next morning · IMUGA filled in within the 96 hours before the flight.
 
 ### Day 2 — Dhigurah: the whale shark on the South Ari reef
-The whale shark is the reason people come to South Ari. We went out by boat in the morning along the outer reef between Dhigurah and Maamigili, a marine protected area where young whale sharks come close to the surface looking for plankton. The guides look for them from the boat and the group enters the water only when one is close: you swim a few meters away and follow it as long as it allows. *A sighting is likely but not guaranteed: many operators offer a discounted or free second outing if the first day comes up empty.* We kept the afternoon free, between the beach and the reef in front of the island.
+The whale shark is the reason to come to South Ari. We went out by boat in the morning along the outer reef between Dhigurah and Maamigili, a marine protected area where young whale sharks come close to the surface looking for plankton. The guides search for them from the boat and the group gets into the water only when one is close: you swim a few meters away and follow it as long as it allows. *A sighting is likely but not guaranteed: many operators offer a second outing at a discount or free if the first day comes up empty.*
+
+When a shark is close there can be quite a few boats, and the best time is precisely the morning, with the sun high and the sea calmer. You enter the water quietly, without jumping, and stay to the side of the animal, never in front of its mouth or above its tail. Outings often include a snorkeling stop on the reef, where turtles are common. We kept the afternoon free, between the beach and the reef in front of the island.
 
 **In practice:** excursion roughly $60-120 per person · minimum distance 3 meters, no flash and no touching · lycra and mineral sunscreen, because you stay at the surface a lot.
 
 ### Day 3 — Snorkeling with mantas and a sandbank
-In the dry season mantas frequent the atoll's cleaning stations, where small fish clean their skin and gills. The boat took us to one of these spots, like the ones around Rangali, to watch the mantas circling slowly from above. We spent the second part of the day on a **sandbank**, a bank of sand emerging in the middle of the lagoon, with a packed lunch and snorkeling on the nearby reef.
+In the dry season mantas visit the atoll's cleaning stations, where small fish clean their skin and gills. The boat took us to one of these spots, like those around Rangali, to watch from above as the mantas circled slowly. Mantas are watched from the surface, without diving down over the station and without chasing them: if you move slowly they pass by again and again. *Visibility changes a lot with the currents, which is why the guides choose the spot the same morning.*
+
+We spent the second part of the day on a **sandbank**, a strip of sand emerging in the middle of the lagoon, with a packed lunch and snorkeling on the nearby reef. There is no shade on the sandbank: umbrella or sarong, plenty of water and repeated sunscreen are essential. Back in the late afternoon, a last swim on the bikini beach is worth it, when the light is softer and the beach empties.
 
 **In practice:** combined manta and sandbank excursion about $70-130 per person · from May to November the mantas move to the eastern side of the atolls and the excursion changes site · divers book with the island's dive center.
 
 ### Day 4 — Village life and sunset fishing
-A slower day. In the morning we walked around the island, which you cross in half an hour: the sand streets, the low houses with gardens, the mosque, the harbor where the tuna is unloaded, the café where the fishermen have tea with short eats. You snorkel on the reef near the beach or take a kayak. At sunset we went out on a **dhoni**, the traditional boat, for line fishing the way Maldivians do it; they cooked the catch for us in the evening at the guesthouse.
+A slower day. In the morning we walked around the island, which you cross in half an hour: sandy streets, low houses with gardens, the mosque, the harbor where tuna is unloaded, the café where fishermen have tea with short eats. Short eats are Maldivian snacks, fried and filled with tuna and coconut, to have mid-morning with sweet tea. You can snorkel on the reef near the beach or take a kayak.
+
+At sunset we went out on a **dhoni**, the traditional boat, for handline fishing the way Maldivians do it; the catch was cooked for us in the evening at the guesthouse. The line is wound around a spool, with no rod, and the guides show you how to feel the bite. *In the middle of the day the sun is very strong: keep walks for the morning and late afternoon, and spend the rest in the shade.*
 
 **In practice:** sunset fishing about $30-50 per person · *if the day falls on a Friday, shops and cafés close around noon for prayer and boat outings may be reduced* · covered clothing outside the bikini beach.
 
 ### Day 5 — Last morning in Ari and a dive
-Those who are certified do a dive on one of the atoll's thila, with whitetip sharks, turtles and schools of fusiliers; those who don't dive do one last round of snorkeling or a try dive with the dive center. In the afternoon we packed and stayed on the beach: the next day we were changing islands.
+Certified divers do a dive on one of the atoll's thilas, with whitetip sharks, turtles and schools of fusiliers; non-divers do a last round of snorkeling or a try dive with the dive center. Thilas are coral pinnacles rising from the bottom almost to the surface, swept by currents: that's why dives usually go in the morning, with the guide first checking the direction of the current. *If you haven't dived for a while, ask for a refresher dive before the sites with strong current.*
+
+In the afternoon we packed and stayed on the beach: the next day we were changing island. It's also the moment to settle the guesthouse bill, often paid in cash or by card with a small fee, and to confirm the time of the transfer to the resort. If the transfer involves a seaplane, the last dive has to be done early this morning, to respect the interval before flying.
 
 **In practice:** single dive $50-80 from the local islands' centers · beginner try dive $100-150 · leave 24 hours between the last dive and a seaplane flight.
 
 ### Day 6 — From the local island to the resort
-On the sixth day we moved to the **resort**. Many South Ari resorts send a speedboat to pick up guests on the nearby islands; for the far ones you go back to Malé and take the seaplane, which only flies in daylight. On arrival at the resort the rules change: alcohol, bikinis everywhere, dinners on the beach. In the afternoon, after asking for the safe entry and exit points, we explored the **house reef**.
+On the sixth day we moved to the **resort**. Many South Ari resorts send a speedboat to pick up guests on nearby islands; for distant ones you go back to Malé and take the seaplane, which only flies in daylight. Arriving by seaplane means allowing for a wait at the Velana terminal, because flights leave in groups and the time is often confirmed only the day before. *Heavy hard-shell suitcases are the most common problem: soft bags are better.*
+
+At the resort the rules change: alcohol, bikinis everywhere, dinners on the beach. In the afternoon, after asking for the safe entry and exit points, we explored the **house reef**. The first round of the house reef is best done calmly, checking the currents and the exit channels shown by the dive center. The evening is the time to book the next day's excursions and ask for low-tide times, which change the reef conditions a lot.
 
 **In practice:** speedboat transfer from the resort to be arranged · seaplane $500-1,200 per person round trip if not included · check the seaplane's luggage limits.
 
 ### Day 7 — Resort: the house reef and an excursion
-A day in the water. I swam the house reef early in the morning, when the light is low and the fish are most active, and in the late afternoon, when the turtles come up to breathe. The resort's dive center organizes snorkeling or diving boat trips to the nearby channels, with gray reef sharks, eagle rays and, in the right season, mantas.
+A day in the water. I swam the house reef early in the morning, when the light is low and the fish are more active, and in the late afternoon, when the turtles come up to breathe. Between the two swims the middle hours are spent in the shade: the Maldivian sun burns even in the water, and a long-sleeved rash guard protects better than any sunscreen.
+
+The resort's dive center organizes snorkeling boat trips or dives in the nearby channels, with grey reef sharks, eagle rays and, in the right season, mantas. In the channels the current can be strong, which is why outings go with a guide and a support boat. *Book the day before, because boat places are few and the sites change with sea conditions.*
 
 **In practice:** excursions from resorts cost more than from local islands (snorkeling by boat $80-150, dives $100-150) · colored buoy for the house reef if the resort provides it.
 
 ### Day 8 — Resort: a day of rest
-A day with no plans, between the beach, reading, kayaking in the lagoon and a sunset dinner. Anyone who still wants water tries guided night snorkeling on the house reef: nurse sharks, lobsters and, on moonless nights, sometimes the bioluminescent plankton lighting up at the water's edge.
+A day with no plans, between beach, reading, kayaking in the lagoon and a sunset dinner. Kayaks and SUP boards, often included, are best used in the morning, when the lagoon is flat and the wind hasn't picked up yet. It's also the right day for a spa treatment or a walk around the island at low tide, when the exposed sand reveals rays and small sharks in a few centimeters of water.
+
+If you still want the water, try guided night snorkeling on the house reef: nurse sharks, lobsters and, on moonless nights, sometimes the bioluminescent plankton lighting up the shoreline. You go in with a torch and stay close to the guide. *Bioluminescent plankton can't be booked: it shows best on dark beaches, away from the bungalow lights, and only on some nights.*
 
 **In practice:** night snorkeling or diving only with a guide · resort spas are expensive: ask for the packages on arrival.
 
 ### Day 9 — Resort and transfer to Hulhumalé
-Last morning in the water, then we transferred to **Hulhumalé**, the artificial island next to the airport, with time to see the city beach and have dinner at one of the waterfront restaurants. Sleeping here the last night, on the morning of the flight you don't depend on a boat or a seaplane.
+A last morning in the water, then we moved to **Hulhumalé**, the artificial island next to the airport, with time to see the city beach and have dinner at one of the restaurants on the seafront. Resort check-out and transfer time should be set the day before, bearing in mind that seaplanes don't fly after sunset. *If the transfer is by seaplane, skip the last dive: surface snorkeling is fine.*
+
+Sleeping here the last night, on the morning of the flight you don't depend on a boat or a seaplane. Hulhumalé is a modern town, with wide avenues, the public beach and places where Maldivians gather in the evening, when the heat drops. On the beach covered swimwear applies, as on the other inhabited islands.
 
 **In practice:** seaplanes only in daylight, speedboats depend on the sea · Hulhumalé hotels 10-15 minutes from the airport · in Hulhumalé, an inhabited island, local rules apply: no alcohol.
 
 ### Day 10 — Malé and departure
-Those with an afternoon flight take a tour of **Malé**, the densest capital in the world: the fish market, where the tuna arrives in the morning, the fruit market, the Friday Mosque in 17th-century coral stone (open to visitors outside prayer times with covered clothing). Then you take the ferry or the bus to the airport.
+If your flight is in the afternoon, take a walk around **Malé**, the densest capital in the world: the fish market, where tuna arrives in the morning, the fruit market, the 17th-century coral-stone Friday Mosque (open to visitors outside prayer times, with covered clothing). From Hulhumalé to Malé you go by bus or taxi across the bridge, and the center can be walked in a couple of hours. *Entering the Friday Mosque may require a permit: ask locally; in any case the courtyard and the tombs around it can be seen from outside.*
+
+The fish market is liveliest in the late morning, when the dhonis come in; next to it is the fruit and vegetable market, with bananas, coconuts and chillies from the islands. On Fridays Malé stops for midday prayer, worth knowing before planning the morning. Then take the ferry or the bus to the airport.
 
 **In practice:** Malé-airport ferry 10 minutes, $1-2 · Friday Mosque open to visitors with covered clothing, not during prayer · departure tax usually already included in the ticket.
 

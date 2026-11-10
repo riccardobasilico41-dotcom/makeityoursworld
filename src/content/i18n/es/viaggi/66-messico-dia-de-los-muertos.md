@@ -31,34 +31,39 @@ Este itinerario sigue la fiesta de norte a sur. Empieza en Ciudad de México, co
 ## Itinerario giorno per giorno
 
 ### Día 1 — Llegada a Ciudad de México
-Llegamos al aeropuerto Benito Juárez (AICM), del que se sale con el taxi autorizado de tarifa prepagada, comprado en los mostradores dentro de la terminal, o con una app. Para los primeros días la mejor base es **Roma** o **Condesa**, dos barrios arbolados, seguros y llenos de cafés, a 20-30 minutos del centro histórico. La primera tarde la dejamos tranquila: a 2.240 metros, después de un vuelo intercontinental, el cansancio se nota el doble.
+Llegamos al aeropuerto Benito Juárez (AICM), del que se sale con el taxi autorizado de tarifa prepagada, comprado en los mostradores dentro de la terminal, o con una app. Para los primeros días la mejor base es **Roma** o **Condesa**, dos barrios arbolados, seguros y llenos de cafés, a 20-30 minutos del centro histórico. Desde el aeropuerto se tarda de media hora a más de una hora, según el tráfico. Antes de salir de la terminal conviene sacar unos miles de pesos en un cajero dentro del aeropuerto y comprar una SIM local. La primera tarde la dejamos tranquila: a 2.240 metros, después de un vuelo intercontinental, el cansancio se nota el doble.
 
-Por la noche bastó un paseo por el Parque México y una primera cena de tacos al pastor en una taquería de barrio. En estos días la ciudad ya se está vistiendo para la fiesta: escaparates con calaveras de azúcar, panaderías con pan de muerto, los primeros altares en las tiendas.
+Por la noche bastó un paseo por el Parque México y una primera cena de tacos al pastor en una taquería de barrio. En estos días la ciudad ya se está vistiendo para la fiesta: escaparates con calaveras de azúcar, panaderías con pan de muerto, los primeros altares en las tiendas. Para moverse los días siguientes el metro es barato y rápido, pero en hora punta va muy lleno: para los trayectos cortos entre Roma, Condesa y el centro también funcionan bien Uber y DiDi. *Con la altitud, la primera noche conviene beber mucha agua y dejar el mezcal para los días siguientes.*
+
+**En la práctica:** taxi autorizado prepagado o app desde el AICM a Roma y Condesa, unos cientos de pesos · metro unos 5 MXN por viaje · Uber y DiDi en toda la ciudad · retirar efectivo solo en cajeros dentro de bancos, centros comerciales o el aeropuerto · alojamiento en Roma o Condesa, reservar con mucha antelación para las semanas de la fiesta.
 
 ### Día 2 — El Centro Histórico y la Mega Procesión de Catrinas
 La mañana la pasamos en el **Centro Histórico**: el **Zócalo**, donde a finales de octubre la ciudad monta una gran ofrenda pública, la Catedral Metropolitana, el **Templo Mayor** con los restos de la capital azteca de Tenochtitlán, el Palacio Nacional con los murales de Diego Rivera, y después Madero hasta el **Palacio de Bellas Artes**. La comida se hace en el mercado o en una cantina histórica del centro.
 
 La tarde es la de la **Mega Procesión de Catrinas**, que en 2026 se fijó para el domingo 25 de octubre a partir de las 18:00 aproximadamente, desde el Ángel de la Independencia por el Paseo de la Reforma hasta el Zócalo. Es gratuita y cualquiera puede participar vestido y maquillado de Catrina: por la tarde, alrededor del Ángel, hay maquilladores callejeros que pintan la cara por unos cientos de pesos. La fecha cambia cada año: conviene comprobarla en los canales del gobierno de la ciudad.
 
-**En la práctica**
-- Templo Mayor: cerrado los lunes, entrada INAH.
-- Palacio Nacional: entrada gratuita con documento, horarios variables y colas; se entra solo con el pasaporte.
-- Procesión: llegar una hora antes para encontrar sitio a lo largo de Reforma; mochila por delante, teléfono en un bolsillo cerrado.
+**En la práctica:** Templo Mayor: cerrado los lunes, entrada INAH · Palacio Nacional: entrada gratuita con documento, horarios variables y colas; se entra solo con el pasaporte · procesión: llegar una hora antes para encontrar sitio a lo largo de Reforma; mochila por delante, teléfono en un bolsillo cerrado.
 
 ### Día 3 — Teotihuacán al amanecer
-La jornada fuera de la ciudad la dedicamos a **Teotihuacán**, a aproximadamente una hora al nordeste: la "ciudad de los dioses", con la Pirámide del Sol, la Pirámide de la Luna y la Calzada de los Muertos. Conviene llegar a la apertura, a las 9, cuando la luz es suave y los grupos organizados aún no han llegado; en las horas centrales el sol aprieta y no hay sombra. Quien quiera verla desde arriba puede reservar un vuelo en globo al amanecer, aproximadamente 2.500-4.000 MXN por persona.
+La jornada fuera de la ciudad la dedicamos a **Teotihuacán**, a aproximadamente una hora al nordeste: la "ciudad de los dioses", con la Pirámide del Sol, la Pirámide de la Luna y la Calzada de los Muertos. Conviene llegar a la apertura, a las 8, cuando la luz es suave y los grupos organizados aún no han llegado; en las horas centrales el sol aprieta y no hay sombra. El recorrido clásico empieza en la **Ciudadela**, con el Templo de la Serpiente Emplumada, y sube por la Calzada hasta la **Pirámide del Sol** y la **Plaza de la Luna**: un par de kilómetros largos a pie, más los desvíos. Quien quiera verla desde arriba puede reservar un vuelo en globo al amanecer, aproximadamente 2.500-4.000 MXN por persona.
 
-Se llega con el autobús directo desde la Terminal del Norte (aproximadamente una hora, poco más de 100 MXN) o con un tour. Desde 2026 la entrada para extranjeros ha subido a unos **210 MXN**. Volvimos a la ciudad a primera hora de la tarde, con la noche libre en Condesa.
+Se llega con el autobús directo desde la Terminal del Norte (aproximadamente una hora, poco más de 100 MXN) o con un tour. Desde 2026 la entrada para extranjeros ha subido a unos **210 MXN**. Hacen falta sombrero, crema solar y al menos litro y medio de agua por persona: en el sitio no faltan vendedores, la sombra sí. *Tras el tiroteo de abril de 2026 el sitio reabrió con controles reforzados y durante un tiempo el acceso a la Pirámide de la Luna siguió cerrado: conviene comprobar antes qué estructuras están abiertas.* Volvimos a la ciudad a primera hora de la tarde, con la noche libre en Condesa.
+
+**En la práctica:** zona arqueológica abierta todos los días de 8 a 17, último acceso a las 16:30 · entrada unos 210 MXN para extranjeros · autobús desde la Terminal del Norte, aproximadamente una hora · globo a reservar con unos días de antelación, salida antes del amanecer · mochila pequeña y nada de drones.
 
 ### Día 4 — Museo de Antropología, Chapultepec y Coyoacán
 El **Museo Nacional de Antropología**, en el bosque de Chapultepec, es la clave para entender todo lo que se ve en el resto del viaje, desde las divinidades mexicas de la muerte hasta las culturas zapoteca y mixteca de Oaxaca. Hacen falta al menos tres horas; cierra los lunes y desde 2026 la entrada para extranjeros cuesta unos **210 MXN**.
 
 Por la tarde fuimos a **Coyoacán**: el viejo centro colonial, el mercado con tostadas y la **Casa Azul** de Frida Kahlo, que hay que reservar online con unos días de antelación porque a finales de octubre se agota. En estas semanas los viveros de **Xochimilco** y los mercados de barrio se llenan de cempasúchil: quien aún tenga energía puede pasar por uno de los grandes mercados de flores, o dedicar la noche a una cantina histórica con mariachis en la Plaza Garibaldi, en taxi y no a pie.
 
-### Día 5 — Puebla, la ciudad de la talavera
-Con el autobús ADO desde la TAPO o desde la Terminal del Sur llegamos a **Puebla** (unas 2 horas). El centro histórico, patrimonio de la UNESCO, es uno de los más bonitos del país: fachadas cubiertas de azulejos de **talavera**, la Catedral con las torres más altas de México, la **Capilla del Rosario** en la iglesia de Santo Domingo, toda de estucos dorados, y la **Biblioteca Palafoxiana**, la primera biblioteca pública de las Américas.
+**En la práctica:** Museo de Antropología cerrado los lunes, unos 210 MXN, al menos tres horas · Casa Azul cerrada los lunes, entrada para extranjeros unos 320 MXN, solo en línea con horario de acceso fijo y sin mochilas grandes · de Chapultepec a Coyoacán en Uber unos 30-45 minutos según el tráfico · Plaza Garibaldi de noche solo en taxi o Uber, ida y vuelta.
 
-Puebla es también una de las capitales de la cocina mexicana. Aquí se comen el **mole poblano**, la salsa oscura de chiles, especias y chocolate, las **cemitas** y las chalupas de la noche, los dulces de camote en la Calle de los Dulces. En estos días el Zócalo y el Barrio del Artista acogen ofrendas y concursos de altares.
+### Día 5 — Puebla, la ciudad de la talavera
+Con el autobús ADO desde la TAPO o desde la Terminal del Sur llegamos a **Puebla** (unas 2 horas). El centro histórico, patrimonio de la UNESCO, es uno de los más bonitos del país: fachadas cubiertas de azulejos de **talavera**, la Catedral con las torres más altas de México, la **Capilla del Rosario** en la iglesia de Santo Domingo, toda de estucos dorados, y la **Biblioteca Palafoxiana**, la primera biblioteca pública de las Américas. El centro se recorre entero a pie: se empieza por el **Zócalo** y la Catedral, se pasa a la Palafoxiana, al lado, y se sube hacia Santo Domingo, dejando la tarde para las calles de los talleres.
+
+Puebla es también una de las capitales de la cocina mexicana. Aquí se comen el **mole poblano**, la salsa oscura de chiles, especias y chocolate, las **cemitas** y las chalupas de la noche, los dulces de camote en la Calle de los Dulces. En estos días el Zócalo y el Barrio del Artista acogen ofrendas y concursos de altares. Quien quiera llevarse a casa una pieza de talavera, conviene que la compre en talleres certificados. *La talavera auténtica tiene denominación de origen: la que se vende por pocos pesos en los puestos es casi siempre industrial.*
+
+**En la práctica:** autobús ADO Ciudad de México-Puebla unas 2 horas, 200-300 MXN, salidas frecuentes · Biblioteca Palafoxiana cerrada los lunes, entrada de pocas decenas de pesos y gratuita los martes · Capilla del Rosario visitable fuera de los horarios de misa · dormir en el centro histórico alrededor del Zócalo, o directamente en Cholula para la etapa de mañana.
 
 ### Día 6 — Cholula, la iglesia sobre la pirámide y el Popocatépetl
 **Cholula** está a 20-30 minutos de Puebla y conviene dormir allí al menos una noche. La **Gran Pirámide** es la más grande del mundo por volumen, aunque hoy parece una colina cubierta de hierba: se visitan los túneles excavados por los arqueólogos y el sitio a sus pies. En la cima los conquistadores construyeron el **Santuario de la Virgen de los Remedios**, la iglesia amarilla que aparece en casi todas las fotos de Cholula.
@@ -67,6 +72,8 @@ La vista depende del tiempo. En las mañanas despejadas, frecuentes a principios
 
 *Conviene saber: el Popocatépetl está vigilado por el CENAPRED con un "semáforo" de alerta; en las fases de mayor actividad la ceniza puede cerrar durante unas horas el aeropuerto de Puebla o el de Ciudad de México. No afecta a la visita de Cholula, pero conviene saber que ocurre.*
 
+**En la práctica:** Cholula a 20-30 minutos de Puebla en Uber o taxi · zona arqueológica y túneles cerrados los lunes, entrada INAH económica · la subida al santuario es a pie y libre, mejor al amanecer o al atardecer · Tonantzintla y Acatepec a pocos minutos en taxi · el estado del Popocatépetl se consulta en el semáforo del CENAPRED.
+
 ### Día 7 — Hacia Oaxaca: mercados y primeras comparsas
 El autobús ADO de Puebla (CAPU) a **Oaxaca** tarda unas 4 horas y media por la sierra, y hay que reservarlo con antelación porque en los días previos a la fiesta se acaban las plazas. Llegamos a primera hora de la tarde a una ciudad ya en plena efervescencia: arcos de flores en las puertas, altares en las tiendas, la plaza de Santo Domingo llena de gente.
 
@@ -74,16 +81,14 @@ Por la tarde estuvimos en el **Mercado 20 de Noviembre** y en el **Benito Juáre
 
 *Conviene saber: en estos días Oaxaca está llena como en ningún otro periodo del año. Las comparsas de barrio casi nunca tienen horarios publicados; se encuentran preguntando en el hotel o siguiendo la música.*
 
+**En la práctica:** autobús ADO Puebla (CAPU)-Oaxaca unas 4 horas y media, 450-800 MXN según la clase, reservar con unos días de antelación · mercados 20 de Noviembre y Benito Juárez abiertos todos los días, a pocas cuadras del Zócalo · efectivo en billetes pequeños · para las comparsas de barrio, preguntar en el hotel esa misma tarde.
+
 ### Día 8 — 31 de octubre: Monte Albán y la noche de Xoxocotlán
 Por la mañana subimos a **Monte Albán**, la capital zapoteca construida aplanando la cima de una montaña, a 20 minutos de la ciudad. Mejor llegar pronto, porque en las horas centrales hace calor y no hay sombra, y después volver a la ciudad a descansar: la noche es larga.
 
 La noche del 31 de octubre es la de **Santa Cruz Xoxocotlán**, el cementerio más famoso de los Valles Centrales, a una decena de kilómetros al sur. Los cementerios son dos: el **Panteón Viejo**, alrededor de las ruinas de una iglesia sin techo, el más íntimo, y el **Panteón Nuevo**, más grande y más concurrido, con una feria en el exterior. Las familias llegan después de la puesta de sol y se quedan hasta bien entrada la noche entre velas, flores y bandas que tocan junto a las tumbas.
 
-**En la práctica**
-- Tours nocturnos desde Oaxaca: aproximadamente 600-1.200 MXN por persona, con transporte y a menudo también otros cementerios de la zona.
-- En taxi: acordar antes también la vuelta, porque pasada la medianoche es difícil encontrar uno libre.
-- Ropa: chaqueta, zapatos cerrados (el terreno es irregular) y una linterna.
-- La entrada a los cementerios es libre: ningún tour vende un "acceso".
+**En la práctica:** tours nocturnos desde Oaxaca: aproximadamente 600-1.200 MXN por persona, con transporte y a menudo también otros cementerios de la zona · en taxi: acordar antes también la vuelta, porque pasada la medianoche es difícil encontrar uno libre · ropa: chaqueta, zapatos cerrados (el terreno es irregular) y una linterna · la entrada a los cementerios es libre: ningún tour vende un "acceso".
 
 ### Día 9 — 1 de noviembre: Teotitlán del Valle y la muerteada de San Agustín Etla
 Después de una mañana tranquila fuimos al valle de Tlacolula: el **Árbol del Tule**, el ahuehuete de Moctezuma con uno de los troncos más anchos del mundo, y **Teotitlán del Valle**, el pueblo zapoteco de las alfombras de lana teñidas con colores naturales. En estos días las familias tienen los altares en casa; en los talleres de tejido a veces se ve alguno, pero solo se entra si te invitan.
@@ -92,26 +97,28 @@ La noche del 1 de noviembre es la de la **muerteada de San Agustín Etla**, a un
 
 *Conviene saber: quien prefiera una noche más recogida puede quedarse en la ciudad y visitar el **Panteón General**, o los cementerios más pequeños del valle con un tour.*
 
-### Día 10 — 2 de noviembre: el Panteón General de Oaxaca
-El 2 de noviembre es el día de los muertos adultos y de las despedidas. Después de la noche de Etla, por la mañana se duerme. Por la tarde recorrimos el centro: las ofrendas y los tapetes, las alfombras de arena de colores delante de las iglesias y en los edificios públicos, el **Templo de Santo Domingo** con su museo y el jardín etnobotánico, que solo se visita con visita guiada en horarios fijos.
+**En la práctica:** Árbol del Tule a unos veinte minutos de Oaxaca, entrada al recinto de pocos pesos · Teotitlán del Valle a unos 30-40 minutos en colectivo o taxi · cuando el 1 de noviembre cae en domingo, como en 2026, en la misma carretera está el gran mercado semanal de Tlacolula · para Etla, tour con regreso incluido, efectivo, chaqueta y tapones para los oídos.
 
-Por la noche el punto de encuentro es el **Panteón General** (San Miguel), el cementerio monumental de la ciudad, con las tumbas iluminadas por velas. En la ciudad pasan las últimas comparsas. Desde el día siguiente los altares empiezan a desmontarse y la fiesta termina.
+### Día 10 — 2 de noviembre: el Panteón General de Oaxaca
+El 2 de noviembre es el día de los muertos adultos y de las despedidas. Después de la noche de Etla, por la mañana se duerme. Por la tarde recorrimos el centro: las ofrendas y los tapetes, las alfombras de arena de colores delante de las iglesias y en los edificios públicos, el **Templo de Santo Domingo** con su museo y el jardín etnobotánico, que solo se visita con visita guiada en horarios fijos. Las visitas en español son casi diarias, las de inglés solo algunos días de la semana. *El Museo de las Culturas, dentro del exconvento de Santo Domingo, cierra los lunes como casi todos los museos del INAH: los años en que el 2 de noviembre cae en lunes, como en 2026, conviene visitarlo en los días anteriores.*
+
+Por la noche el punto de encuentro es el **Panteón General** (San Miguel), el cementerio monumental de la ciudad, con las tumbas iluminadas por velas. Se llega a pie desde el centro en un cuarto de hora o veinte minutos, y es el cementerio más cómodo de toda la fiesta, sin necesidad de tour ni taxi. En la ciudad pasan las últimas comparsas. Después de tres noches seguidas conviene no trasnochar demasiado, porque mañana se sale temprano hacia la ruta del mezcal. Desde el día siguiente los altares empiezan a desmontarse y la fiesta termina.
+
+**En la práctica:** Museo de las Culturas de Oaxaca cerrado los lunes, entrada INAH de unos 100 MXN · jardín etnobotánico solo con visita guiada, horarios e idiomas a preguntar en la entrada el día antes · Panteón General a pie desde el centro, entrada libre · reservar el tour de mañana antes de la noche.
 
 ### Día 11 — La ruta del mezcal: Santiago Matatlán, Mitla y Hierve el Agua
 Jornada completa hacia el este por la carretera 190, en tour o con coche y conductor. La primera parada es **Santiago Matatlán**, que se define como "capital mundial del mezcal": decenas de **palenques**, las destilerías artesanales donde el agave se cuece en hornos de piedra bajo tierra, se aplasta con una rueda de piedra tirada por un caballo y se destila en alambiques de cobre o de barro. Casi todos ofrecen visita y degustación gratis o por pocos pesos, y no hay ninguna obligación de comprar.
 
 Después **Mitla**, el centro religioso zapoteca con los mosaicos geométricos de piedra sin argamasa, únicos en Mesoamérica. La última parada es **Hierve el Agua**, las "cascadas petrificadas" de carbonato de calcio sobre un valle, con piscinas naturales asomadas al vacío. El sitio lleva años en disputa entre dos comunidades, San Lorenzo Albarradas y San Isidro Roaguía, y ha tenido cierres repentinos, uno de los cuales duró de 2020 a octubre de 2021. En 2026 los visitantes lo describen abierto, pero conviene comprobarlo la semana antes, preguntando en el hotel o a un operador local. Si está cerrado, la jornada se sostiene igualmente con Matatlán, Mitla y las ruinas de **Yagul**.
 
-**En la práctica**
-- Tour de grupo desde Oaxaca: aproximadamente 600-900 MXN por persona, entradas aparte.
-- Entrada a Hierve el Agua, cuando está abierto: 50-100 MXN entre cuota comunitaria y billete, solo efectivo.
-- Mitla: entrada INAH.
-- Si se conduce: nada de mezcal para quien va al volante, hay controles.
+**En la práctica:** tour de grupo desde Oaxaca: aproximadamente 600-900 MXN por persona, entradas aparte · entrada a Hierve el Agua, cuando está abierto: 50-100 MXN entre cuota comunitaria y billete, solo efectivo · Mitla: entrada INAH · si se conduce: nada de mezcal para quien va al volante, hay controles.
 
 ### Día 12 — De Oaxaca a Puerto Escondido
-El traslado hacia la costa ha cambiado con la **autopista Barranca Larga-Ventanilla**, abierta del todo en 2024: donde antes hacían falta seis-siete horas de curvas, hoy en autobús o van se tardan unas 3-3 y media. Se baja de los 1.550 metros de Oaxaca al nivel del mar, y la temperatura sube quince grados.
+El traslado hacia la costa ha cambiado con la **autopista Barranca Larga-Ventanilla**, abierta del todo en 2024: donde antes hacían falta seis-siete horas de curvas, hoy en autobús o van se tardan unas 3-3 y media. Se baja de los 1.550 metros de Oaxaca al nivel del mar, y la temperatura sube quince grados. Conviene salir por la mañana, con el asiento reservado el día antes, y preguntar en el hotel si hay bloqueos en la carretera: llegando a primera hora de la tarde queda tiempo para instalarse y bajar a la playa.
 
-**Puerto Escondido** es más un conjunto de barrios que una ciudad. **Zicatela** es la playa larga de los surfistas, con la ola del "Mexican Pipeline", y tiene la vida nocturna; **La Punta**, al final de Zicatela, es el lado más joven y de hostales; **Rinconada** y **Carrizalillo** son más tranquilas. El primer atardecer lo miramos desde la bahía de **Carrizalillo**, a la que se llega bajando unos 160 escalones.
+**Puerto Escondido** es más un conjunto de barrios que una ciudad. **Zicatela** es la playa larga de los surfistas, con la ola del "Mexican Pipeline", y tiene la vida nocturna; **La Punta**, al final de Zicatela, es el lado más joven y de hostales; **Rinconada** y **Carrizalillo** son más tranquilas. El primer atardecer lo miramos desde la bahía de **Carrizalillo**, a la que se llega bajando unos 160 escalones. *La subida de vuelta con calor cansa: mejor calzado cómodo y una botella de agua.* Por la noche se cena pescado en la calle principal de Zicatela o en La Punta.
+
+**En la práctica:** van o autobús Oaxaca-Puerto Escondido unas 3-3 horas y media, 300-500 MXN · comprobar los bloqueos antes de salir · Carrizalillo unos 160 escalones · dormir en La Punta con poco presupuesto, en Zicatela para la vida nocturna, en Rinconada y Carrizalillo para la tranquilidad.
 
 ### Día 13 — Puerto Escondido: surf, playas y tortugas
 Mañana en el agua. En Zicatela la ola grande es solo para surfistas expertos; para una primera clase se va a Carrizalillo o a La Punta, con olas más suaves (clases de grupo aproximadamente 600-900 MXN). **Playa Manzanillo** y **Puerto Angelito** son calas donde se nada bien y se hace snorkel.
@@ -120,18 +127,28 @@ Al atardecer, en la **Playa Bacocho**, algunos proyectos de conservación suelta
 
 *Conviene saber: Zicatela tiene fuertes corrientes de resaca y no es una playa para nadar. Cada año hay ahogados: se nada solo en las calas protegidas.*
 
-### Día 14 — Laguna de Manialtepec y la bioluminiscencia
-La **Laguna de Manialtepec** está a unos 20 minutos al oeste de la ciudad, y se va dos veces: al amanecer, en barca entre los manglares, para ver aves (garzas, cormoranes, martines pescadores), y de noche para ver la **bioluminiscencia**, el plancton que se enciende con luz azul cuando el agua se mueve. Las noches sin luna son las mejores, y después de las lluvias el efecto es más fuerte.
+**En la práctica:** clases de surf en grupo unos 600-900 MXN, mejor a primera hora de la mañana · Manzanillo y Puerto Angelito se alcanzan a pie o en pocos minutos de taxi desde el centro · liberación de tortugas en Bacocho al atardecer, con donativo, horarios a preguntar el mismo día · en Zicatela no se nada.
 
-El resto de la jornada fue libre: playa, hamaca, un pescado a la talla en una palapa. Para la laguna conviene elegir un operador que use kayak o barcas de remos en el último tramo, porque el motor y las cremas solares en el agua molestan a un ecosistema frágil. Los tours cuestan aproximadamente 500-900 MXN por persona.
+### Día 14 — Laguna de Manialtepec y la bioluminiscencia
+La **Laguna de Manialtepec** está a unos 20 minutos al oeste de la ciudad, y se va dos veces: al amanecer, en barca entre los manglares, para ver aves (garzas, cormoranes, martines pescadores), y de noche para ver la **bioluminiscencia**, el plancton que se enciende con luz azul cuando el agua se mueve. Las noches sin luna son las mejores, y después de las lluvias el efecto es más fuerte. El pico es en la temporada de lluvias, de julio a septiembre; en noviembre el fenómeno es más débil y cambia de una noche a otra, así que conviene preguntar al operador cómo fueron las noches anteriores.
+
+El resto de la jornada fue libre: playa, hamaca, un pescado a la talla en una palapa. Para la laguna conviene elegir un operador que use kayak o barcas de remos en el último tramo, porque el motor y las cremas solares en el agua molestan a un ecosistema frágil. Los tours cuestan aproximadamente 500-900 MXN por persona. *En la laguna también viven cocodrilos: al agua se entra solo donde y cuando lo diga el guía.* La salida nocturna parte después del atardecer y dura un par de horas, con regreso al hotel por la noche.
+
+**En la práctica:** laguna a unos 20 minutos de carretera hacia el oeste, casi todos los tours con recogida en el hotel · tours al amanecer y nocturnos unos 500-900 MXN · consultar el calendario lunar, con luna llena la luz apenas se ve · nada de crema solar ni repelente en la piel si uno se baña.
 
 ### Día 15 — Mazunte, Zipolite y Punta Cometa
-Jornada de excursión hacia el este, a aproximadamente una hora y cuarto de carretera: **Mazunte**, el pueblo donde tiene su sede el Centro Mexicano de la Tortuga, **San Agustinillo** y **Zipolite**, la histórica playa libre y nudista del Pacífico mexicano. El atardecer lo miramos desde **Punta Cometa**, el promontorio sobre Mazunte, subiendo un sendero corto entre la vegetación seca.
+Jornada de excursión hacia el este, a aproximadamente una hora y cuarto de carretera: **Mazunte**, el pueblo donde tiene su sede el Centro Mexicano de la Tortuga, **San Agustinillo** y **Zipolite**, la histórica playa libre y nudista del Pacífico mexicano. Conviene salir por la mañana y empezar por el **Centro Mexicano de la Tortuga**, con sus estanques y el recorrido dedicado a las tortugas marinas, comer luego en San Agustinillo y pasar la tarde en Zipolite. *En Zipolite las corrientes son tan fuertes como en Zicatela: solo hay que bañarse con el mar en calma y cerca de la orilla.*
 
-Se llega en colectivo o en taxi compartido por la carretera 200. Quien prefiera puede cambiar de base y dormir en Mazunte las dos últimas noches, volviendo directamente al aeropuerto de Huatulco o al de Puerto Escondido.
+El atardecer lo miramos desde **Punta Cometa**, el promontorio sobre Mazunte, subiendo un sendero corto entre la vegetación seca. Para la bajada, ya a oscuras, hace falta una linterna. Se llega en colectivo o en taxi compartido por la carretera 200. Quien prefiera puede cambiar de base y dormir en Mazunte las dos últimas noches, volviendo directamente al aeropuerto de Huatulco o al de Puerto Escondido. Quien vuelve en el día a Puerto Escondido debe tener en cuenta que después del atardecer los colectivos escasean: mejor acordar antes un taxi para el regreso.
+
+**En la práctica:** Puerto Escondido-Mazunte aproximadamente una hora y cuarto por la 200, en colectivo o taxi compartido · Centro Mexicano de la Tortuga cerrado lunes y martes, entrada de pocas decenas de pesos · linterna para bajar de Punta Cometa · quien duerme en Mazunte vuela desde Huatulco, a aproximadamente una hora de carretera.
 
 ### Día 16 — Regreso vía Ciudad de México
-Vuelo directo de Puerto Escondido a Ciudad de México (aproximadamente una hora; Aeroméxico, Volaris y Viva) y conexión internacional. Conviene dejar al menos cuatro horas entre los dos vuelos: el aeropuerto de Puerto Escondido es pequeño, los vuelos internos acumulan retrasos y en el AICM para el segundo vuelo se vuelven a pasar los controles.
+Vuelo directo de Puerto Escondido a Ciudad de México (aproximadamente una hora; Aeroméxico, Volaris y Viva) y conexión internacional. Si el vuelo es a primera hora de la tarde, la mañana queda para un último baño en Carrizalillo o un desayuno en la playa: el aeropuerto está a pocos minutos en taxi de Zicatela y del centro. El mezcal comprado en Matatlán va en el equipaje facturado, bien embalado. *Al volver a la Unión Europea la franquicia es de un litro de bebidas espirituosas por persona.*
+
+Conviene dejar al menos cuatro horas entre los dos vuelos: el aeropuerto de Puerto Escondido es pequeño, los vuelos internos acumulan retrasos y en el AICM para el segundo vuelo se vuelven a pasar los controles. En el AICM Volaris y Viva usan la Terminal 1 y Aeroméxico la Terminal 2: si el vuelo intercontinental sale de la otra terminal, se cambia con el aerotrén, reservado a pasajeros con tarjeta de embarque, o con los autobuses lanzadera. Antes de salir conviene comprobar la terminal en las dos reservas.
+
+**En la práctica:** aeropuerto de Puerto Escondido a pocos minutos de las playas, llegar al menos una hora y media antes · vuelo a Ciudad de México aproximadamente una hora · al menos cuatro horas entre vuelo interno e intercontinental · en el AICM Terminal 1 para Volaris y Viva, Terminal 2 para Aeroméxico · mezcal en el equipaje facturado, un litro en franquicia en la UE.
 
 ## Variantes y calendario alternativo de las noches
 **Por qué Janitzio no está en el itinerario principal.** La isla de **Janitzio**, en el lago de Pátzcuaro (Michoacán), es la imagen más famosa del Día de los Muertos: un pueblo de pescadores en una isla, con el cementerio que la noche del **1 de noviembre** se enciende con miles de velas mientras desde las orillas llegan las barcas. Tiene dos problemas para este viaje. El primero es la geografía: Pátzcuaro está al oeste de Ciudad de México (4-5 horas en autobús), Oaxaca al sudeste (6-7 horas), y la noche de Janitzio coincide con la de Etla. El segundo es la seguridad: Viaggiare Sicuri (ficha actualizada en mayo de 2026) recomienda evitar los viajes no indispensables a Michoacán, escenario de frecuentes tiroteos entre fuerzas de seguridad y grupos criminales; en 2026 el estado sigue además en el nivel 4 ("no viajar") en los avisos de Estados Unidos y figura entre los desaconsejados por Suiza. La zona del lago es turística y está muy concurrida en esos días, pero quien elige esta variante va contra una indicación explícita de la Farnesina.

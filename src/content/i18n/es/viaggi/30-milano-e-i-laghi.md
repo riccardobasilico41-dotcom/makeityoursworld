@@ -43,6 +43,8 @@ A última hora de la tarde llegamos al **Castillo Sforzesco**. El patio se cruza
 
 Aperitivo y noche en **Brera** o en los **Navigli**, con la **Darsena** restaurada y los dos canales, Grande y Pavese. Son lo que queda del sistema de canales que llevaba el mármol desde las canteras del Lago Mayor hasta la obra del Duomo.
 
+**En la práctica:** terrazas del Duomo con entrada por franjas, a pie cuesta menos que en ascensor, a reservar en la web oficial · Pinacoteca de Brera y museos del Castello cerrados los lunes, el patio del Castello es gratuito · toda la ruta se hace a pie; para los Navigli metro M2, parada Porta Genova
+
 ### Día 2 — Última Cena, Sant'Ambrogio y la Milán contemporánea
 La mañana es para la **Última Cena**, si se ha conseguido reservar: se entra por grupos, a través de dos puertas estancas, y se tienen pocos minutos en el refectorio. Conviene saber qué se está mirando. Leonardo **no la pintó al fresco**, sino al temple sobre muro seco, para poder trabajar despacio y volver sobre los detalles, y es justo por eso por lo que empezó a deteriorarse **cuando aún estaba vivo**. Lo que se ve es el resultado de siglos de restauraciones y de una intervención que duró veintidós años. En la pared opuesta, que nadie mira, hay una Crucifixión de Montorfano perfectamente conservada: es el término de comparación que lo explica todo.
 
@@ -55,6 +57,8 @@ La tarde es para la Milán del otro siglo, según los gustos:
 - **Cimitero Monumentale**, gratuito, un museo de escultura funeraria al aire libre: edículos, templos, monumentos de familias industriales y el Famedio a la entrada.
 
 Al final de la jornada, el cuadrante norte: **Porta Nuova** con el **Bosco Verticale**, dos torres residenciales con cientos de árboles de verdad en los balcones, que en verano dan sombra y en invierno dejan pasar la luz, y el paseo hacia **Isola**, el barrio con más vida de la Milán nueva. Como alternativa **CityLife**, con las tres torres de Isozaki, Hadid y Libeskind y el parque alrededor.
+
+**En la práctica:** Cenacolo unos 15 euros, solo con reserva, cerrado los lunes: las plazas salen por bloques y se agotan en pocos días · San Maurizio y Sant'Ambrogio con entrada libre, fuera del horario de culto · HangarBicocca abierto de jueves a domingo, con el metro M5 · Fondazione Prada cerrada los martes, Museo del Novecento y Monumentale cerrados los lunes
 
 ## La versión de un día
 Un día en Milán funciona estupendamente, mejor que en casi cualquier otra ciudad italiana, porque el centro es compacto y el metro es rápido. El programa:

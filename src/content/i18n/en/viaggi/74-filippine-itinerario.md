@@ -54,147 +54,128 @@ It's a sea trip for people who love being in the water: almost every day there's
 ### Day 1 — Arrival in Manila
 We landed at Manila's **Ninoy Aquino** airport. With an intercontinental flight arriving in the evening it's best to sleep near the airport or in **Makati** and leave the next day on the first domestic flight. Manila has an interesting colonial history in the fortified district of **Intramuros**, but in an eighteen-day sea trip it's a transit: anyone arriving in the morning can give it a few hours.
 
-**In practice**
-- eTravel filled in within 72 hours before arrival
-- Grab from the airport, or yellow taxis with a meter
-- SIM or eSIM at the airport, with passport registration
+Before leaving the airport, sort out three things: the SIM or eSIM, a few thousand pesos in cash from a bank ATM, and the terminal of the next day's domestic flight, because Manila's terminals are separate and far apart in traffic. With a few free hours, Intramuros has the Spanish walls, the church of **San Agustín**, a UNESCO World Heritage Site, and Fort Santiago, easy to see on foot or by calesa. *Manila's traffic is among the worst in Asia: allow generous time between the airport and the city, even for a few kilometres.*
+
+**In practice:** eTravel filled in within 72 hours before arrival · Grab from the airport, or yellow taxis with a meter · SIM or eSIM at the airport, with passport registration · withdraw cash in the city, ATMs are scarce on the islands · to sleep, Pasay near the airport or Makati.
 
 ### Day 2 — Flight to Puerto Princesa and van to El Nido
 On the morning flight we reached **Puerto Princesa**, the capital of Palawan, and from there by shared van north: five to six hours of road among rice fields and mountains, with a lunch stop. We arrived in **El Nido** in the late afternoon, in time for the sunset over Bacuit Bay from Corong-Corong. In town you pay the environmental fee and book the tours for the following days.
 
-**In practice**
-- Manila-Puerto Princesa flight: roughly €40-90
-- Shared van to El Nido: roughly 600-800 PHP, 5-6 hours
-- Environmental fee (ETDF) 400 PHP, valid 10 days
+Vans are booked online or at the exit of Puerto Princesa airport; pick one that leaves early so you don't arrive after dark. *The road is long and winding in the last stretch: if you get car sick, sit at the front and bring water and something to eat.* In El Nido the places to stay are the town, handy for tours and restaurants but noisy, and **Corong-Corong**, quieter and facing the sunset. The agencies in town sell tours A, B, C and D at similar prices: book in the evening for the next day.
+
+**In practice:** Manila-Puerto Princesa flight roughly €40-90 · shared van to El Nido roughly 600-800 PHP, 5-6 hours · environmental fee (ETDF) 400 PHP, valid 10 days · alternatively the direct AirSwift flight to El Nido, more expensive.
 
 ### Day 3 — El Nido: the Tour A lagoons
 **Tour A** is the lagoon one. We set off in a bangka, the outrigger boat, toward **Miniloc** island: the **Big Lagoon**, crossed by kayak among limestone walls, the **Small Lagoon**, which you enter by swimming through a gap in the rock, the **Secret Lagoon** and the beaches of Shimizu and 7 Commando for lunch. The Big Lagoon has timed-slot entries to limit the boats: book the day before.
 
-**In practice**
-- Tour A roughly 1,200-1,800 PHP per person with lunch
-- Big Lagoon entry about 200 PHP and kayak 150-200 PHP, extra
-- Reef shoes, your own mask, dry bag
+The boats leave from the town beach mid-morning and return in the late afternoon, after five or six stops among lagoons and beaches. Lunch is cooked on board and eaten on a beach: grilled fish, rice, fruit. *You enter the Small Lagoon at low tide or by swimming: if you're not confident in the water, keep the life jacket the boats carry on board.* The lagoons' water is shallower and calmer than the open sea, and the best moment is the morning, when the light falls between the walls and there are still few boats.
+
+**In practice:** Tour A roughly 1,200-1,800 PHP per person with lunch · Big Lagoon entry about 200 PHP and kayak 150-200 PHP, extra · reef shoes, your own mask, dry bag · back in the late afternoon.
 
 ### Day 4 — El Nido: Tour C and Nacpan Beach
 In the morning we went out by boat on **Tour C**, the hidden beaches one: **Hidden Beach**, **Secret Beach** and the **Matinloc** shrine, with snorkeling on the reefs around Helicopter Island. In the afternoon we went by tricycle or scooter to **Nacpan**, a four-kilometer beach of pale sand and palms, forty minutes from town, for El Nido's last sunset.
 
-**In practice**
-- Tour C roughly 1,400-1,800 PHP per person with lunch
-- Tricycle to Nacpan and back: to be agreed, 1,000-1,500 PHP
-- Tours B and D are an alternative with fewer boats
+Tour C goes further out than Tour A and is more exposed to the sea: in strong wind it is sometimes cancelled or shortened, in which case fall back on Tour A or B. *To get into Secret Beach you swim through an opening in the rock, only in calm sea and following the guide.* At Nacpan the beach is long and almost empty towards the far end, with a few shacks for a coconut; the road is only partly paved, so ride slowly on a scooter.
+
+**In practice:** Tour C roughly 1,400-1,800 PHP per person with lunch · tricycle to Nacpan and back to agree, 1,000-1,500 PHP · tours B and D are an alternative with fewer boats · back from Nacpan before dark.
 
 ### Day 5 — Ferry to Coron
-By fast ferry, in three and a half hours, we reached **Coron**, among the islands of northern Palawan. Departures are in the morning and get canceled in rough seas, more frequent between July and October and on northeast wind days: that's why it's worth having a spare day in the rest of the trip. In Coron in the afternoon we climbed **Mount Tapyas**, seven hundred steps for the sunset over the bay, and then went down to the **Maquinit hot springs**, salt water at 40 °C (104°F) in the middle of the mangroves.
+On the fast ferry, in three and a half hours, we reached **Coron**, among the islands of northern Palawan. Departures are in the morning and are cancelled in rough seas, more frequent between July and October and on days of north-east wind: that's why it's worth having a spare day in the rest of the trip. In Coron in the afternoon we climbed **Mount Tapyas**, seven hundred steps for the sunset over the bay, and then went down to the **Maquinit hot springs**, salt water at 40 °C among the mangroves.
 
-**In practice**
-- El Nido-Coron ferry: roughly 1,800-3,500 PHP, 3.5-4 hours
-- Mount Tapyas free, Maquinit about 300 PHP
-- Seasickness pills for the ferry
+Buy the ferry ticket a few days ahead; at El Nido port there's also a small terminal fee, and check-in is before departure, with bags weighed. Coron Town, on Busuanga island, is a port town with hotels and restaurants along the main road. *Climb Tapyas in the late afternoon, with water: the steps are exposed to the sun and crowded towards sunset.* Maquinit is about twenty minutes by tricycle and is nicest in the evening, when the air cools.
+
+**In practice:** El Nido-Coron ferry roughly 1,800-3,500 PHP, 3.5-4 hours · Mount Tapyas free, Maquinit about 300 PHP · seasickness pills for the ferry · tricycle to Maquinit, agree the fare.
 
 ### Day 6 — Coron: Kayangan Lake, Barracuda and the Twin Lagoon
-We did the classic Coron excursion. **Kayangan Lake**, among the cleanest in the Philippines, is reached by a short climb of steps; the viewpoint over the bay is Coron's signature image. **Barracuda Lake** is a layer of fresh water over a layer of salt water, with temperatures that change at depth. The **Twin Lagoon** is crossed by swimming under a rock or going over a small ladder. We left early to get to Kayangan before the boats.
+We did Coron's classic excursion. **Kayangan Lake**, among the cleanest in the Philippines, is reached by a short climb of steps; the viewpoint over the bay is Coron's signature image. **Barracuda Lake** is a layer of fresh water over a layer of salt water, with temperatures that change with depth. The **Twin Lagoons** are crossed by swimming under a rock or climbing over a ladder. We left early to reach Kayangan before the boats.
 
-**In practice**
-- Tour roughly 1,500-2,500 PHP per person with lunch
-- Entrance fees extra: Kayangan about 300 PHP, Twin Lagoon about 200 PHP, Barracuda 150-250 PHP
-- At Kayangan you swim with a life jacket in some areas, by regulation
+Kayangan Lake is on **Coron** island, the land of the Tagbanua, the indigenous community that manages access: the rules are strict and must be respected, and sunscreen should be used sparingly before getting in the water. The viewpoint is halfway up the climb, and in the morning light the bay has its best colours. *Currents in the lakes are weak but the water is deep, and in some areas the life jacket is compulsory: rent one from the boat.* Lunch is on a beach, and you're back in Coron Town in the late afternoon.
+
+**In practice:** tour roughly 1,500-2,500 PHP per person with lunch · entries extra: Kayangan about 300 PHP, Twin Lagoons about 200 PHP, Barracuda 150-250 PHP · at Kayangan you swim with a life jacket in some areas, by regulation · leave early to beat the boats.
 
 ### Day 7 — Coron: wrecks and sand islands
-Coron Bay hides about ten **Japanese ships** sunk by American planes in September 1944, now covered in coral. Those with a certification do two dives on the most famous wrecks (the **Okikawa Maru** and the **Akitsushima**), with penetrations only if you have the training; those snorkeling stop at the **Skeleton Wreck**, a few meters deep. Alternatively, the trip to the white sand islands of **Malcapuya**, **Banana** and **Bulog Dos**.
+Coron Bay hides about ten **Japanese ships** sunk by American aircraft in September 1944, now covered in coral. Certified divers do two dives on the most famous wrecks (the **Okikawa Maru** and the **Akitsushima**), with penetrations only if you have the training; snorkelers stop at the **Skeleton Wreck**, a few meters deep. Alternatively, the trip to the white sand islands of **Malcapuya**, **Banana** and **Bulog Dos**.
 
-**In practice**
-- Two wreck dives: roughly 4,000-5,500 PHP with equipment
-- Island hopping to the sand islands: roughly 2,000-2,800 PHP
-- For the deep wrecks you need at least the Advanced certification
+Dive centres leave early in the morning, and two dives with a surface interval take up most of the day. *Before booking, ask the centre about the guide-to-diver ratio, and bring your certification cards: without them, deep dives are off.* The sand island trip is longer, because Malcapuya is far from Coron Town, but it's the most relaxing: shallow clear water, pale sand and snorkelling on the reef near the shore. For non-divers it's the right day to rest.
+
+**In practice:** two wreck dives roughly 4,000-5,500 PHP with equipment · sand island hopping roughly 2,000-2,800 PHP · deep wrecks require at least Advanced certification · no flying in the 24 hours after diving, and tomorrow you fly.
 
 ### Day 8 — Flight to Cebu and transfer to Moalboal
-From **Busuanga** airport we flew to **Cebu**, the big city of the Visayas, and then by car or bus southwest to **Moalboal**, on the island's coast. We reached **Panagsama Beach** in the afternoon: the reef starts right under the seafront restaurants, and we did our first snorkel entering from the ladder.
+From **Busuanga** airport we flew to **Cebu**, the big city of the Visayas, and then by car or bus southwest to **Moalboal**, on the island's coast. We reached **Panagsama Beach** in the afternoon: the reef starts right under the seafront restaurants, and we did our first snorkel by climbing down the ladder.
 
-**In practice**
-- Busuanga-Cebu flight: roughly €50-110
-- Private car to Moalboal: roughly 3,000-4,000 PHP, 3 hours
-- Ceres bus from the South Bus Terminal: 4 hours, under 250 PHP
+Busuanga airport is about forty minutes by van from Coron Town; get there with plenty of margin because security is slow. *If you dived the wrecks the day before, respect the waiting time before flying: that's why the dives go on the previous day, not the morning of departure.* From Cebu a private car is more comfortable than the bus, especially with luggage, but the Ceres bus is cheap and frequent. Panagsama is a street of guesthouses, restaurants and dive centres facing the sea; White Beach, to the north, is the sandy beach.
+
+**In practice:** Busuanga-Cebu flight roughly €50-110 · private car to Moalboal roughly 3,000-4,000 PHP, 3 hours · Ceres bus from the South Bus Terminal 4 hours, under 250 PHP · to sleep, Panagsama for the reef, White Beach for the sand.
 
 ### Day 9 — Moalboal: sardines and turtles
-A few meters from the shore at Panagsama lives a school of **millions of sardines**, moving like a single cloud a few meters deep. We swam in the middle of it with mask and fins, without a boat, early in the morning, with the best light. Along the same reef you often meet **sea turtles**. In the afternoon we went by boat to **Pescador Island**, an islet with a coral wall where you snorkel and dive.
+A few meters from the shore at Panagsama lives a school of **millions of sardines**, moving like a single cloud a few meters down. We swam through it with mask and fins, no boat, early in the morning, in the best light. **Sea turtles** are often seen along the same reef. In the afternoon we took a boat to **Pescador Island**, an islet with a coral wall for snorkeling and diving.
 
-**In practice**
-- Snorkeling with the sardines from shore: free or with a small fee
-- Boat to Pescador: roughly 1,500-2,500 PHP per boat
-- Don't touch or chase the turtles
+The sardine school moves along the reef, and local guides or dive centres know where it is that day. *The middle of the day is the most crowded with swimmers and boats: get in early, or in the late afternoon.* Pescador Island is about half an hour by boat, and its coral wall drops deep a few metres from the edge, with reef fish, soft corals and sometimes sardines there too. Divers will find many centres in Moalboal with some of the lowest prices of the trip.
+
+**In practice:** snorkeling with the sardines from shore free or with a small fee · boat to Pescador roughly 1,500-2,500 PHP per boat · don't touch or chase the turtles · masks and fins for rent along Panagsama.
 
 ### Day 10 — Canyoning at Kawasan
-It's the most active day of the trip. The **canyoning** at Kawasan goes down the Matutinao river for a few hours, with jumps off rocks from 3 to 10 meters (the high ones are optional), natural slides and swimming stretches in turquoise water, down to the **Kawasan falls**. You do it with a guide, helmet and life jacket; we left early in the morning to avoid the crowd.
+This is the most active day of the trip. Kawasan **canyoneering** follows the Matutinao river down for a few hours, with jumps from rocks of 3 to 10 meters (the high ones are optional), natural slides and swimming stretches in turquoise water, all the way to **Kawasan Falls**. It's done with a guide, helmet and life jacket; we left early in the morning to avoid the crowds.
 
-**In practice**
-- Canyoning with a guide: roughly 1,500-2,500 PHP with transfer
-- Closed water shoes, no valuables
-- Afternoon free at White Beach
+The starting point is in Badian, half an hour by road from Moalboal, and almost all operators include the transfer from your guesthouse. After a short stretch by motorbike or on foot you enter the river and head down for a few hours, alternating jumps, swims and scrambles between rocks. *The high jumps can always be skipped by going around: the guides offer it, and there's no reason to push yourself.* At the end you reach the main falls, where you eat something and have a last swim in the turquoise pool before heading back.
+
+**In practice:** guided canyoneering roughly 1,500-2,500 PHP with transfer · closed water shoes, no valuables · waterproof pouch for your phone · afternoon free at White Beach.
 
 ### Day 11 — From Moalboal to Bohol
-You go back to **Cebu** by car or bus and take the **OceanJet** fast ferry to **Tagbilaran**, on the island of **Bohol**: two hours at sea. From Tagbilaran it's half an hour to **Panglao**, the island linked by a bridge, where we slept. Anyone who wants to avoid Cebu City can take the ferry from Argao, further south, or drive down to Oslob (2-2.5 hours) and take the bangka that crosses to Panglao in about an hour and a half: there are no direct boats from Moalboal to Bohol.
+You go back to **Cebu** by car or bus and take the **OceanJet** fast ferry to **Tagbilaran**, on **Bohol** island: two hours at sea. From Tagbilaran it's half an hour to **Panglao**, the island joined by a bridge, where we slept. To avoid Cebu City, you can take the ferry from Argao, further south, or drive down to Oslob (2-2.5 hours) and take the bangka that crosses to Panglao in about an hour and a half: no boats leave Moalboal directly for Bohol.
 
-**In practice**
-- Moalboal-Cebu: 3-4 hours
-- OceanJet Cebu-Tagbilaran: roughly 900-1,000 PHP in tourist class, 2 hours
-- Oslob-Panglao bangka: about 1,000 PHP, one late-morning departure
-- Base in Panglao, at Alona Beach or in the quieter bays
+It's a transfer day, so leave Moalboal early in the morning to catch a late-morning or early-afternoon ferry. *Buy the OceanJet ticket online or at the port a few days ahead; at the Cebu terminal a port fee and any baggage over the allowance are paid separately.* In Panglao the liveliest area is **Alona Beach**, with restaurants and dive centres; if you want calm, choose the nearby bays. In the evening, dinner on the beach is enough.
+
+**In practice:** Moalboal-Cebu 3-4 hours · OceanJet Cebu-Tagbilaran roughly 900-1,000 PHP in tourist class, 2 hours · Oslob-Panglao bangka about 1,000 PHP, one late-morning departure · base in Panglao, at Alona Beach or in the quieter bays.
 
 ### Day 12 — Bohol: Chocolate Hills, tarsiers and the Loboc river
-We did the loop of Bohol's interior with a driver. The **Chocolate Hills** are over a thousand conical limestone hills that turn brown in the dry season; you look at them from the Carmen viewpoint. The Philippine **tarsier**, one of the smallest primates in the world, is seen at the **Philippine Tarsier Sanctuary** in Corella, run by a foundation, in silence and without flash. Then the **Loboc river** by boat, among the palms, and the **colonial churches** of Baclayon and Loboc.
+We toured inland Bohol with a driver. The **Chocolate Hills** are over a thousand conical limestone hills that turn brown in the dry season; you see them from the Carmen viewpoint. The Philippine **tarsier**, one of the smallest primates in the world, can be seen at the **Philippine Tarsier Sanctuary** in Corella, run by a foundation, in silence and without flash. Then the **Loboc River** by boat, among the palms, and the **colonial churches** of Baclayon and Loboc.
 
-**In practice**
-- Car with driver for the day: roughly 2,500-3,500 PHP
-- Chocolate Hills and tarsier sanctuary: roughly 100-200 PHP each
-- Avoid the “sanctuaries” along the road with caged tarsiers
+The easiest order is to start with the churches and the tarsiers, closer to Panglao, have lunch on the Loboc river on the restaurant boats and reach the Chocolate Hills in the afternoon, when the light is softer. *The tarsier is nocturnal and very sensitive: speak softly, don't touch and don't use flash; the sanctuary guides enforce it.* The churches of Baclayon and Loboc are among the oldest in the Philippines and were restored after the 2013 earthquake. With a driver you can add the bamboo hanging bridge and the mahogany forest.
+
+**In practice:** car with driver for the day roughly 2,500-3,500 PHP · Chocolate Hills and tarsier sanctuary roughly 100-200 PHP each · avoid roadside «sanctuaries» with caged tarsiers · Loboc lunch cruise paid separately.
 
 ### Day 13 — Panglao: Balicasag and Virgin Island
-We went out by boat from Panglao at dawn: in the channel you often see **dolphins**, then you reach **Balicasag**, a small marine sanctuary with a coral wall and many turtles, great for snorkeling and diving. On the way back the sandbar of **Virgin Island**, which at low tide emerges in the middle of the sea. The afternoon at the beach.
+We left Panglao by boat at dawn: **dolphins** are often seen in the channel, then you reach **Balicasag**, a small marine sanctuary with a coral wall and many turtles, excellent for snorkeling and diving. On the way back the sandbar of **Virgin Island**, which emerges in the middle of the sea at low tide. The afternoon on the beach.
 
-**In practice**
-- Boat to Balicasag and Virgin Island: roughly 1,500-2,500 PHP per boat, plus site fees
-- Two dives at Balicasag: roughly 3,000-4,000 PHP
-- Dawn departures for the dolphins
+Boats leave from **Alona Beach** before six, and dolphin watching depends on the sea and on luck: boats must not chase or surround them. *At Balicasag access to the sanctuary is regulated and the boatmen know the areas where snorkelling is allowed: stay in the marked spots and don't stand on the coral.* Virgin Island is a sandbar with no shade, where vendors sell fruit and sea urchins. The afternoon is free at Alona or in one of Panglao's quieter bays, such as Dumaluan.
+
+**In practice:** boat to Balicasag and Virgin Island roughly 1,500-2,500 PHP per boat, plus site fees · two dives at Balicasag roughly 3,000-4,000 PHP · dawn departures for the dolphins · hat and sunscreen for Virgin Island.
 
 ### Day 14 — Flight to Siargao
-Flight from **Bohol** (or from Cebu, depending on schedules) to **Siargao**, with a stop in Cebu: there are no direct flights from Panglao. From Sayak airport to **General Luna**, the surfers' town, it takes three quarters of an hour. In the evening we rented a scooter and did a first ride to the **Cloud 9** boardwalk, the wave that made the island famous.
+Flight from **Bohol** (or from Cebu, depending on schedules) to **Siargao**, with a stopover in Cebu: there are no direct flights from Panglao. From Sayak airport to **General Luna**, the surfers' town, takes forty-five minutes. In the evening we rented a scooter and took a first ride to the **Cloud 9** boardwalk, the wave that made the island famous.
 
-**In practice**
-- Cebu-Siargao flight: about an hour, roughly €50-120
-- Shared van from the airport: roughly 300-400 PHP
-- Scooter: 350-500 PHP a day, helmet mandatory
+The day goes almost entirely on transfers, and the Cebu connection should have a wide margin, because Siargao flights are small and weather-sensitive. *Rent the scooter at your guesthouse, photograph it before leaving and don't ride outside town at night: the roads are unlit.* General Luna is the hub of island life, with cafés, restaurants and surf schools along the main road; the Cloud 9 boardwalk is the place for sunset and for watching the surfers.
+
+**In practice:** Cebu-Siargao flight about an hour, roughly €50-120 · shared van from the airport roughly 300-400 PHP · scooter 350-500 PHP a day, helmet compulsory · to sleep, General Luna or the Cloud 9 area.
 
 ### Day 15 — Siargao: Naked, Daku and Guyam
-**Island hopping** in Siargao touches three very different islands half an hour from General Luna: **Naked Island**, a spit of sand without a single tree; **Daku**, the largest, with the fishing village and the grilled fish lunch; **Guyam**, a round islet with palms. The pace is slow, and in the right season the sea is calm.
+Siargao **island hopping** covers three very different islands half an hour from General Luna: **Naked Island**, a strip of sand without a single tree; **Daku**, the largest, with the fishing village and a lunch of grilled fish; **Guyam**, a round islet with palms. The pace is slow, and in the right season the sea is calm.
 
-**In practice**
-- Island hopping roughly 1,500-2,000 PHP per person with lunch
-- Island environmental fees extra, a few tens of PHP
-- Sunscreen and a hat: there's no shade on Naked Island
+Boats leave from the General Luna pier in the morning, and the boatman chooses the order according to the tide. *Naked Island is best at low tide, when the sand is widest: at high tide it sometimes shrinks to a strip.* On Daku you eat with the fishermen, usually grilled fish, rice and fruit, in the shade of the palms. Guyam takes a few minutes to walk around and is the place for a last swim. You're back in the early afternoon, and the rest of the day is free.
+
+**In practice:** island hopping roughly 1,500-2,000 PHP per person with lunch · island environmental fees extra, a few dozen PHP · sunscreen and hat, there's no shade on Naked Island · cash for fees and drinks.
 
 ### Day 16 — Siargao: Sugba Lagoon and Magpupungko
-We went northwest, toward **Del Carmen**, where you take the boat through the mangroves to **Sugba Lagoon**, a turquoise basin closed in by rocks, with a platform to dive from and paddleboards for rent. On the way back, at **low tide**, the rock pools of **Magpupungko**, which fill with clear water among the rocks. You have to check the tide table: at high tide the pools disappear.
+We headed northwest to **Del Carmen**, where you take a boat through the mangroves to **Sugba Lagoon**, a turquoise basin enclosed by rocks, with a platform for jumping in and paddle boards for rent. On the way back, at **low tide**, the rock pools of **Magpupungko**, which fill with clear water among the rocks. Check the tide table: at high tide the pools disappear.
 
-**In practice**
-- Sugba Lagoon with boat: roughly 1,600-2,500 PHP per boat, plus entry
-- Magpupungko: small entry fee, only at low tide
-- The scooter ride is long: leave early, be back before dark
+Del Carmen is about an hour by scooter from General Luna, and the mangrove forest you cross by boat is one of the largest in the Philippines. You spend a couple of hours at the lagoon swimming and paddle boarding, then head back east, to **Pilar**, for Magpupungko. *The rocks around the pools are slippery: reef shoes, and no jumping where you can't see the bottom.* To avoid the long ride, book a van with driver for the day, which does the same loop more restfully.
+
+**In practice:** Sugba Lagoon with boat roughly 1,600-2,500 PHP per boat, plus entry · Magpupungko small entry fee, only at low tide · the scooter loop is long: leave early, back before dark · alternatively a van with driver for the day.
 
 ### Day 17 — Siargao: surf and the last day by the sea
-It's the last full day. Anyone who has never surfed takes a **lesson** on a beginner wave, often at Jacking Horse or Pacifico depending on conditions, with instructor and board. Anyone who prefers to stay put rides the **Coconut Road**, the road through the palm groves toward Pacifico, or stays on the beach. In the evening, General Luna.
+It's the last full day. If you've never surfed, take a **lesson** on a beginner wave, often at Jacking Horse or Pacifico depending on conditions, with instructor and board. If you'd rather stay still, ride the **Coconut Road**, the road through the palm groves toward Pacifico, or stay on the beach. In the evening, General Luna.
 
-**In practice**
-- Surf lesson with instructor and board: roughly 500-1,000 PHP an hour
-- Cloud 9 and the reef waves are for experienced surfers
-- Last evening: bag ready for the morning flight
+Lessons are booked the day before at the schools along the main road, and the time depends on the tide: the instructor tells you the best moment. *The reef under the waves is shallow and sharp: in a lesson you wear reef booties or a shorty wetsuit, and always fall flat.* The Coconut Road takes half a day by scooter, with palm groves stretching to the horizon and a few stops for a coconut. In the evening General Luna is full of bars and seafood dinners; pack your bag before going out.
+
+**In practice:** surf lesson with instructor and board roughly 500-1,000 PHP an hour · Cloud 9 and the reef waves are for experienced surfers · last evening: bag ready for the morning flight · return the scooter in the evening.
 
 ### Day 18 — Return from Siargao
-Morning flight from Siargao to **Manila** or **Cebu** and connection with the international flight. With Philippine domestic flights it's best to leave at least four to five hours between the arrival of the Siargao flight and the departure of the flight to Europe, and, if the ticket allows, it's even better to sleep a night in Manila or Cebu.
+Morning flight from Siargao to **Manila** or **Cebu** and connection with the international flight. With Philippine domestic flights it's best to leave at least four to five hours between the arrival of the Siargao flight and the departure of the flight to Europe, and, if the ticket allows, it's even better to spend a night in Manila or Cebu.
 
-**In practice**
-- Siargao-Manila or Cebu flight: roughly €50-120
-- A margin of at least 4-5 hours for the international connection
-- In Manila, the domestic and international terminals can be different
+Leave General Luna for Sayak airport at least an hour before check-in, booking the van the day before. *Domestic flights often have lower baggage allowances than international ones: masks, fins and souvenirs can push you over the limit, and paying the excess at the airport costs more.* If you fly via Manila, check whether arrival and departure are at the same terminal: if not, there's a shuttle or car transfer that can take a long time in traffic.
+
+**In practice:** Siargao-Manila or Cebu flight roughly €50-120 · at least 4-5 hours' margin for the international connection · in Manila the domestic and international terminals may be different · van to the airport booked the day before.
 
 ## Where to stay
 - **Manila:** mid-range: hotels in Pasay near the airport or in Makati, €50-90.

@@ -42,6 +42,10 @@ Petra è uno dei siti più visitati al mondo, ma quel Capodanno l'ho attraversat
 ### Giorno 1 — Arrivo ad Amman
 Il primo assaggio di Giordania è stato a tavola. La cena di benvenuto era da **Zajal**, in Prince Mohammed Street, per circa 15 JOD. Chi arriva con un po' di margine può chiedere sul posto di un food tour in città.
 
+L'aeroporto Queen Alia è a una trentina di chilometri a sud della città, tre quarti d'ora di taxi o di transfer. Il visto si fa all'arrivo, ma con il **Jordan Pass**, comprato online prima di partire, la tassa del visto è compresa per chi resta almeno tre notti, insieme agli ingressi di Petra, Jerash, Karak, Wadi Rum e di decine di altri siti. Chi arriva con qualche ora di luce può salire alla **Cittadella**, sul colle più alto del centro, con il tempio di Ercole e la vista sul Teatro Romano, oppure fare due passi su **Rainbow Street**, la via dei caffè e dei locali. *In Giordania si guida a destra ma il traffico di Amman è caotico: per girare in città conviene usare taxi o app di trasporto.*
+
+**In pratica:** aeroporto-centro circa 45 minuti, taxi con prezzo fisso o app di trasporto · Jordan Pass da circa 70 JOD (Petra un giorno) a 80 JOD (tre giorni), da comprare online prima di arrivare · il dinaro giordano vale più dell'euro, contanti utili per mance e piccoli acquisti
+
 ### Giorno 2 — Jerash e Mar Morto
 Siamo partiti presto da Amman verso **Jerash**, circa un'ora di strada, con una sosta lungo il tragitto per comprare alcolici. Con la visita guidata al sito archeologico abbiamo visto una delle città romane meglio conservate fuori dall'Italia: il foro ovale, il cardo colonnato, i due teatri.
 
@@ -49,10 +53,16 @@ Verso mezzogiorno siamo scesi al **Mar Morto**, un'ora e mezza, e ci siamo siste
 
 A cena eravamo a Madaba, con due indirizzi tra Adel Jumean Street e Khaled Ben Al-Walid Street: **Haret Jdoudna** o **Hikayet Sitti**. Per il bicchiere della sera c'erano il bar del Grand Hotel Madaba e il **Saint John Sky Bar**, con la città vista dall'alto.
 
+**In pratica:** Jerash compreso nel Jordan Pass, conviene arrivare la mattina presto prima dei gruppi · al Mar Morto non bagnare viso e occhi e non entrare in acqua con tagli o dopo la rasatura · alcolici più facili da trovare a Madaba, città con una forte comunità cristiana
+
 ### Giorno 3 — Karak, Monte Nebo e Little Petra
 Prima di lasciare Madaba abbiamo fatto scorta di alcolici da Soho o da Hangover. Un'ora e mezza di transfer ci ha portati al **Karak Castle**, la grande fortezza crociata che domina l'altopiano a sud del Mar Morto (l'ingresso è nel Jordan Pass). Poi il **Monte Nebo** e la strada verso **Little Petra**, Siq al-Barid, con il pranzo lungo il percorso.
 
 Del **Little Petra Trek**, nelle note di viaggio, è rimasto un aggettivo solo: «tosto». È l'anticamera di Petra, un piccolo canyon con facciate nabatee in miniatura e meno gente, e ci ha dato la prima scarica di entusiasmo alla vigilia del giorno grande. La sera, cena tipica organizzata dal DMC locale.
+
+Il castello di Karak si visita in un'ora e mezza: corridoi a volta, sale sotterranee e i camminamenti sulle mura, da cui lo sguardo arriva fino alla depressione del Mar Morto. Il Monte Nebo, con la basilica dei mosaici e il serpente di bronzo che ricorda il bastone di Mosè, è a mezz'ora da Madaba. A Little Petra conviene arrivare nel pomeriggio, quando la luce bassa scalda l'arenaria e si vedono meglio gli affreschi del **Painted House**, uno dei pochi interni nabatei con pitture ancora visibili. *Il trekking da Little Petra verso il Monastero di Petra entra nel sito dalla porta di servizio: conviene farlo con una guida, e il biglietto di Petra va comprato prima.*
+
+**In pratica:** Karak compreso nel Jordan Pass, aperto di giorno · Monte Nebo con biglietto di pochi dinari · Little Petra a ingresso libero, a circa un quarto d'ora d'auto da Wadi Musa
 
 ### Giorno 4 — Petra, giornata intera
 È il giorno per cui si viene in Giordania, e lo abbiamo dedicato tutto a **Petra**, patrimonio UNESCO e una delle Sette Meraviglie del Mondo Moderno. Con il calo del turismo nella regione il sito era quasi deserto: un privilegio raro.
@@ -63,6 +73,8 @@ Da lì il sito si allarga per più di 8 km e 800 monumenti, Tombe Reali comprese
 
 La sera l'hammam di **Al Yhakor** (Al Yakhor Turkish Bath, a Wadi Musa) ci ha sciolto le gambe dopo una giornata intera a piedi.
 
+**In pratica:** Petra apre alle 6 e chiude presto d'inverno, verso le 16-17: si entra all'apertura · biglietto di un giorno 50 JOD senza Jordan Pass · Petra by Night solo alcune sere a settimana, biglietto a parte · scarpe da trekking, acqua e cappello, anche d'inverno
+
 ### Giorno 5 — Wadi Rum: cammelli, jeep safari e Capodanno nel deserto
 L'altro protagonista del viaggio è **Wadi Rum**, la «Valle della Luna»: sabbia rossa e torri di arenaria, il set di *Lawrence d'Arabia* e di più di un film ambientato su Marte. Ci siamo arrivati in un'ora e mezza, con una sosta a sorpresa in una pasticceria locale per comprare il pranzo al sacco da portare nel deserto (10 JOD).
 
@@ -70,10 +82,14 @@ Nel deserto siamo entrati a dorso di cammello, 45 minuti per 20 JOD, sulle tracc
 
 Al campo tendato siamo arrivati in tempo per il tramonto sulle dune. La cena era beduina, cucinata secondo tradizione: spesso è lo zarb, cotto sotto la sabbia. E poi il **Capodanno nel deserto**, sotto uno dei cieli stellati più belli del mondo, lontano da qualsiasi luce. Difficile immaginare un modo più assurdo di salutare l'anno vecchio.
 
+**In pratica:** ingresso all'area protetta di Wadi Rum compreso nel Jordan Pass, il biglietto si mostra al visitor center · il campo tendato va prenotato con largo anticipo per Capodanno · nel deserto di notte la temperatura d'inverno scende vicino allo zero: servono giacca e strati
+
 ### Giorno 6 — Alba nel deserto e mare ad Aqaba
 Ci siamo svegliati prima del sole per l'**alba sulle dune** (l'ora cambia con la stagione), e il deserto è passato dal blu della notte al rosa e poi all'oro. Un'ora dopo eravamo sul Mar Rosso, ad **Aqaba**: dal deserto al mare in meno di un'ora, uno dei contrasti più belli della Giordania.
 
 Lasciati i bagagli in hotel, in quindici minuti eravamo in spiaggia. Lì c'era da scegliere: beach club, jet ski e banana boat, snorkeling sulle barriere coralline, oppure l'uscita in barca con **Deep Blue**, inclusa nel pacchetto. Per cena, ad Aqaba, i nomi erano il pesce di **Sheikh El Harah**, **Suzana**, la cucina americana di **Buffalo Wings & Ring** o **Khubza & Seneya** in Al Nahda Street.
+
+**In pratica:** Wadi Rum-Aqaba circa un'ora di strada · Aqaba è zona economica speciale, alcolici e alcuni prodotti costano meno che nel resto del paese · maschera e pinne si noleggiano in spiaggia, il reef più bello è nella zona sud verso il confine saudita
 
 ### Giorno 7 — Rientro ad Amman: due opzioni
 Siamo partiti presto da Aqaba: quattro ore e mezza fino ad Amman. Da lì il programma prevede due versioni della giornata.
@@ -82,8 +98,16 @@ Siamo partiti presto da Aqaba: quattro ore e mezza fino ad Amman. Da lì il prog
 
 **Opzione 2, l'avventura.** Due ore di buggy nel deserto vicino ad Amman (40 JOD), pranzo in strada, poi il Bazaar per souvenir e shopping. La sera la stessa cooking class con calligrafia del DMC, e dopocena da **C-Ling**, in Rainbow Street.
 
+La strada del deserto, la Desert Highway, è dritta e trafficata di camion: conviene una sosta a metà, verso Ma'an o Qatraneh. Arrivati ad Amman, la Cittadella e il Teatro Romano sono vicini tra loro e si fanno in un paio d'ore. Chi sceglie il buggy esce dalla città e torna nel pomeriggio, con il tempo per il centro e i souk. *Ad Amman il venerdì molti negozi della zona del Bazaar aprono solo dopo la preghiera di mezzogiorno.* La sera, Rainbow Street è il posto più vivace per l'ultima cena, con terrazze che guardano la città vecchia.
+
+**In pratica:** Aqaba-Amman circa 330 km, quattro ore e mezza · Cittadella e Teatro Romano compresi nel Jordan Pass · per i souvenir, nei souk il prezzo si contratta
+
 ### Giorno 8 — Rientro
 Check-out, saluti e poi in Uber o in taxi verso l'aeroporto. Se il volo lo permette, la giornata resta libera per qualcosa in più.
+
+Per l'aeroporto conviene uscire con largo margine, soprattutto dal centro: nelle ore di punta il traffico verso sud può allungare i tempi. Chi ha il volo nel pomeriggio può dedicare la mattina al **Jordan Museum**, nel quartiere di Ras Al-Ain, che conserva frammenti dei Rotoli del Mar Morto, oppure al piccolo museo delle tradizioni popolari accanto al Teatro Romano. In alternativa, un'ultima colazione a base di hummus e falafel nei locali del centro. *I controlli di sicurezza all'aeroporto di Amman cominciano già all'ingresso del terminal: meglio arrivare tre ore prima.*
+
+**In pratica:** centro-aeroporto Queen Alia circa 45 minuti senza traffico · Uber e Careem funzionano ad Amman · nei duty free dell'aeroporto si spendono gli ultimi dinari, all'estero il cambio è sfavorevole
 
 ## Cosa vedere / cosa fare
 - **Petra**: il cuore del viaggio. Il Siq, il Tesoro all'uscita della gola e,

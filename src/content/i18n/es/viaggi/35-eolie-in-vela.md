@@ -30,11 +30,13 @@ No son unas vacaciones para todos. Se está apretado, se depende del tiempo, y e
 ## Itinerario giorno per giorno
 
 ### Día 1 — Embarque en Milazzo y traslado a Vulcano
-Embarcamos por la tarde: charla de seguridad, compra de provisiones y acomodo a bordo. Las literas son estrechas, y ahí se entiende por qué la bolsa tenía que ser blanda.
+Embarcamos por la tarde: charla de seguridad, compra de provisiones y acomodo a bordo. Las literas son estrechas, y ahí se entiende por qué la bolsa tenía que ser blanda. Antes de subir conviene hacer la compra de la semana junto con el patrón, que sabe qué se encuentra en las islas y qué no: agua embotellada, fruta, pasta, desayunos y algo para las comidas fondeados. En las islas menores las tiendas son pequeñas y caras, y en Filicudi y Alicudi casi no existen.
 
 A última hora de la tarde salimos hacia **Vulcano**, una hora y media de travesía aproximadamente. Es la isla más cercana a Sicilia y el primer impacto es **olfativo** antes que visual: el olor a azufre llega antes que la isla, y es fuerte.
 
-Fondeo o amarre en la zona de Porto di Levante. Primera cena a bordo, y la primera noche en rada con el barco moviéndose.
+Fondeo o amarre en la zona de Porto di Levante. Primera cena a bordo, y la primera noche en rada con el barco moviéndose. *La primera noche, quien se maree que tome el remedio antes de cenar, porque el balanceo en la rada se nota sobre todo las primeras noches.*
+
+**En la práctica:** aeropuerto de Catania-Milazzo en autobús unas 2 horas, alrededor de 13-15 € · embarque normalmente por la tarde, a la hora fijada por la empresa de chárter · bolsa blanda, nada de maletas rígidas · Milazzo-Vulcano una hora y media de navegación aproximadamente.
 
 ### Día 2 — Vulcano y las Siete Plagas
 Por la mañana temprano se sube al **Gran Cráter**, si el acceso está permitido: aproximadamente una hora por un sendero de arena volcánica y ceniza, sin sombra, que hay que hacer **antes de las ocho** porque después el sol es insoportable. Desde el borde se mira dentro del cráter, con las **fumarolas amarillas de azufre** que salen de las paredes, y se ve todo el archipiélago en fila hacia el norte, con Stromboli al fondo. **El acceso depende de las ordenanzas: conviene comprobarlo antes.**
@@ -44,6 +46,8 @@ El resto de Vulcano: las **aguas termales que burbujean directamente en el mar**
 Por la tarde hicimos la breve navegación hacia **Lípari**. La ruta pasa frente a las **Siete Plagas**, los acantilados verticales de la costa occidental de Vulcano.
 
 Noche en Lípari.
+
+**En la práctica:** subida al Gran Cratere de una hora aproximadamente, antes de las 8 con agua, sombrero y calzado de trekking · acceso al cráter y a las pozas termales regulado por ordenanzas del Comune di Lipari, a comprobar el día antes · Grotte del Cavallo y Piscina di Venere solo desde el mar · Vulcano-Lípari, navegación corta.
 
 ### Día 3 — Lípari: el castillo, el museo y la piedra pómez
 **Lípari** es la más grande y la más poblada, la única que se parece a un pueblo de verdad, y casi todos la usan solo como nudo de transporte.
@@ -56,6 +60,8 @@ La tarde en barco a lo largo de la **costa nororiental**, frente a las **antigua
 
 Para quien se queda en tierra está el mirador de **Quattrocchi**, desde el que se ven juntos los farallones y Vulcano: es la postal de la isla.
 
+**En la práctica:** Museo Arqueológico Eolio abierto normalmente todos los días hasta media tarde, entrada de pocos euros, horarios a comprobar en la web del Parque arqueológico · al menos dos horas para el museo · antiguas canteras de piedra pómez para ver solo desde el mar · Lípari es el puerto donde cargar agua y provisiones.
+
 ### Día 4 — Salina: la verde
 Breve travesía hacia **Salina**, la anomalía del archipiélago: **es la única isla con agua de manantial**, y por eso es verde, cultivada y llena de árboles mientras las otras son yermas. Tiene dos volcanes apagados gemelos, el **Monte dei Porri** y la **Fossa delle Felci**, que le dan el perfil de dos jorobas reconocible desde kilómetros.
 
@@ -67,6 +73,8 @@ Salina es también la isla de la comida: las **alcaparras**, que aquí son un pr
 
 Noche en rada en Santa Marina o en Rinella.
 
+**En la práctica:** subida a la Fossa delle Felci de un par de horas, calzado de trekking y agua, mejor temprano por la mañana · playa de Pollara con acceso limitado, a comprobar allí · bodegas de Malvasía con cita previa · alcaparras y Malvasía para comprar aquí, donde cuestan menos que en otros sitios.
+
 ### Día 5 — Panarea y los islotes
 **Panarea** es la más pequeña de las islas mayores y la más mundana. En agosto está saturada y cara; en junio y septiembre vuelve a ser lo que es, un pueblo blanco sin coches (**se recorre a pie o con vehículos eléctricos**), con buganvillas y casas bajas.
 
@@ -75,6 +83,8 @@ En barco, sin embargo, se viene por **los islotes del este**: **Basiluzzo**, **D
 En tierra caminamos hasta **Punta Milazzese**. En un promontorio escarpado hay un **poblado prehistórico de la Edad del Bronce**, con los cimientos de veintitrés cabañas ovaladas todavía visibles, asomado a **Cala Junco**: una bahía cerrada en anfiteatro por paredes de roca, con el agua de un color que parece retocado. Se llega a pie en media hora desde el pueblo, o en auxiliar desde el barco.
 
 A última hora de la tarde salimos hacia Stromboli. Es la travesía más larga de la semana y hay que hacerla con luz.
+
+**En la práctica:** Punta Milazzese a una media hora a pie del pueblo · en Panarea no hay coches, solo vehículos eléctricos y a pie · en agosto fondeaderos y precios al máximo, mejor junio y septiembre · travesía a Stromboli de un par de horas según el viento.
 
 ### Día 6 — Stromboli: la Sciara del Fuoco
 Es la jornada por la que se viene a las Eolias.
@@ -87,6 +97,8 @@ A última hora de la tarde, la subida, **dentro de los límites y con los guías
 
 Pero lo verdadero lo hicimos **después de anochecer, desde el barco**. Se navega bajo la Sciara, se apagan las luces de cubierta y se espera en silencio. Cada pocos minutos hay un estruendo sordo, luego el resplandor anaranjado en el borde del cráter, luego los bloques incandescentes que bajan por el canalón durante setecientos metros hasta el agua y se apagan uno tras otro. Ningún filtro, ninguna valla, ninguna cola: solo el mar negro, el ruido y aquella cosa que sigue haciéndolo desde hace dos mil años, la mire quien la mire.
 
+**En la práctica:** subida solo con guías autorizados y hasta la cota fijada por la ordenanza vigente, excursiones desde unos 30 € por persona · Observatorio de Punta Labronzo a una hora a pie, libre · linterna frontal, calzado cerrado, cortavientos y agua · a Ginostra solo se llega por mar.
+
 ### Día 7 — Filicudi o Alicudi: las islas del final
 La travesía va hacia occidente, a las dos islas que casi nadie visita y que son la razón por la que un itinerario en barco gana al ferri: **están mal conectadas, tienen poquísimas camas y en temporada baja se alcanzan con pocas salidas a la semana.**
 
@@ -96,10 +108,16 @@ La travesía va hacia occidente, a las dos islas que casi nadie visita y que son
 
 Última noche en rada.
 
-### Día 8 — Regreso y desembarco
-La navegación de regreso al puerto de salida es la travesía más larga y en general la más bonita: se sale del archipiélago y se le ve alejarse todo junto, con Stromboli desapareciendo el último porque es el más alto.
+**En la práctica:** Grotta del Bue Marino en auxiliar o en barco, con mar en calma · Zucco Grande a pie por el camino de herradura, calzado de trekking · en Alicudi solo escalinatas: bolsa ligera si se baja a tierra · fondeaderos expuestos, entre las dos islas elige el viento.
 
-Desembarcamos por la mañana: limpieza del barco y despedidas.
+### Día 8 — Regreso y desembarco
+La navegación de regreso al puerto de salida es la travesía más larga y en general la más bonita: se sale del archipiélago y se le ve alejarse todo junto, con Stromboli desapareciendo el último porque es el más alto. El desembarco tiene una hora fija, normalmente por la mañana, y por eso la ruta de regreso se organiza con el patrón la noche anterior: a veces se navega hacia el puerto ya la última tarde, a veces se sale al amanecer.
+
+Desembarcamos por la mañana: limpieza del barco y despedidas. Se deja el barco en orden, con la despensa vacía y las bolsas de basura en tierra, y el patrón revisa el inventario con la empresa de chárter.
+
+Quien vuela por la tarde tiene tiempo para dar una vuelta por Milazzo, con el **castillo** sobre el casco antiguo y el paseo marítimo, y para una última comida de pescado antes del autobús a Catania. Quien se queda en Sicilia puede seguir hacia Cefalù y Tindari por la costa tirrena, o bajar hacia el Etna y Taormina. *No conviene reservar vuelos de mañana: entre el desembarco y el traslado al aeropuerto hace falta media jornada.*
+
+**En la práctica:** desembarco por la mañana a hora fija · autobús Milazzo-aeropuerto de Catania unas 2 horas, a reservar en temporada alta · preguntar a la empresa de chárter por la consigna de equipaje · vuelos de la tarde en adelante.
 
 ## Si no se va en velero
 El archipiélago se hace muy bien también en ferri, con otra lógica: **se elige una base y se hacen las otras islas en el día**, en lugar de moverse cada noche.

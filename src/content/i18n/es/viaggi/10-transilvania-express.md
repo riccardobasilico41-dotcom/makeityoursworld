@@ -42,6 +42,8 @@ La **cena de bienvenida** (incluida) fue en **Caru' cu Bere**, en el barrio hist
 
 *Nota práctica: conviene sacar efectivo nada más aterrizar y reservar los taxis desde las pantallas táctiles de la terminal de llegadas (la tarifa aeropuerto-centro no debería superar los 60 LEI). Compañías fiables: Cobălcescu y Cris Taxi.*
 
+**En la práctica:** Palacio del Parlamento solo con visita guiada, de una hora aproximadamente, documento de identidad obligatorio, los grupos pequeños suelen reservar por teléfono el día antes · Ateneo Rumano a pocos minutos a pie de Piața Romană · taxis desde el aeropuerto reservados en las pantallas táctiles de llegadas, hasta unos 60 lei · reservar Caru' cu Bere los fines de semana.
+
 ### Día 2 — Bucarest, Castillo de Peleș, Castillo de Bran, Brașov
 Por la mañana temprano recogimos el coche en Avis (Gran Hotel Bucuresti): conviene llegar con algo de antelación. Luego, la carretera hacia **Sinaia** (2 h), a caballo entre Valaquia y Transilvania, para ver el **Castillo de Peleș**. Era la residencia de verano de Carlos I, primer soberano de Rumanía; se considera uno de los castillos más bonitos de Europa, construido entre 1873 y 1914 en estilo neorrenacentista, con más de 160 habitaciones. Recomiendo la entrada para la primera y la segunda planta (unos 20 €/pax). La visita dura 1-1h30 y se entra por orden de llegada, sin reserva obligatoria (en temporada alta mejor reservar online). Si queda tiempo, el **Monasterio de Sinaia** (1846) se alcanza a pie en unos 25 minutos.
 
@@ -52,6 +54,8 @@ Después de comer volvimos a salir hacia **Bran** (alrededor de 1 h), con una po
 En media hora llegamos a **Brașov**: check-in, ducha y salida a pie hacia la **Fortaleza de Râșnov**, en lo alto de una roca cerca del cartel de la ciudad al estilo de Hollywood. Se llega a pie o en telecabina, y la atmósfera es más de *El Señor de los Anillos* que de vampiros. Con un poco de tiempo se sigue hacia el centro histórico: **Piața Sfatului**, con la Casa Sfatului (siglo XIV) y la Torre del Reloj, y la **Iglesia Negra (Biserica Neagră)**, la mayor iglesia gótica de Rumanía, abierta hasta última hora de la tarde.
 
 La cena es en **Sergiana**: sopas humeantes servidas en hogazas ahuecadas, estofados de carne con pimentón, polenta con nata agria y queso fundido. Ojo con los precios del vino y la palinka, a menudo por encima de la media; se reserva con antelación por email. Como alternativa está **Casa Românească**, taberna rústica con pollo a la sartén, cordero ahumado y sarmale. Para después de cenar, el **Deane's Irish Pub & Grill** o el **Musik Cafe**.
+
+**En la práctica:** Bucarest-Sinaia unas 2 horas, Sinaia-Bran una hora, Bran-Brașov media hora · Peleș con entradas por franjas horarias y cierres periódicos por mantenimiento, por ejemplo en noviembre: comprobar en peles.ro · Bran con entrada online y guía aparte · efectivo en lei para guías y aparcamientos.
 
 ### Día 3 — Pueblos sajones, Sighișoara y Salina Turda
 Es la jornada más larga al volante, cinco horas de conducción en total: se sale temprano y hay que respetar los tiempos.
@@ -66,6 +70,8 @@ En unas 2 h en coche llegamos a las salinas subterráneas de **Salina Turda** (e
 
 A última hora de la tarde volvimos a salir hacia **Sibiu** (1h30 en coche), con check-in y cena reservada. Las opciones: **Crama Sibiul Vechi**, el restaurante más característico de la ciudad, en una bodega rústica (albóndigas de carne picada, estofado del campesino con polenta; pocas mesas, reserva obligatoria), o **La Dobrun**, muy cerca del hotel, o **Crama Ileana**. Para después de cenar, el **Oldie's Pub** (adecuado para grupos grandes) o el **Geea Caffe** (más íntimo).
 
+**En la práctica:** Bear Sanctuary de Zărnești solo con reserva online, visita por la mañana · Viscri 12 lei · Salina Turda con entrada online para evitar la cola y aparcamiento de pago · dentro de la salina hace fresco todo el año: hace falta una sudadera · Turda-Sibiu una hora y media aproximadamente.
+
 ### Día 4 — Sibiu, Transfăgărășan y regreso a Bucarest
 Es el último día antes de volver y todavía quedan muchos kilómetros: toca madrugar.
 
@@ -77,8 +83,14 @@ Cuando la carretera está abierta se continúa hacia el sur: **todavía 3h45 en 
 
 Por la noche devolvimos el coche en Avis (Gran Hotel Bucuresti). Para la **cena de despedida** (no incluida) está **Hanu' lui Manuc**, en el barrio de Lipscani: la idea es parecida a Caru' cu Bere, los precios son más altos pero la cocina es excelente, y hay que reservar. La otra opción es el **Excalibur**, local de estilo medieval: bonito, pero un poco sobrevalorado. A quien aún tenga energía le queda un **pub crawl** organizado (16 €/pax, 4 chupitos en 4 pubs distintos más la entrada a la discoteca), o los locales del barrio: **Freddo**, **St. Patrick** y el bonito jardín al aire libre de **Grădina Dorobanți**.
 
+**En la práctica:** Museo Brukenthal normalmente cerrado a principios de semana, comprobar el horario antes · Transfăgărășan abierta solo en verano y hasta finales de octubre, fechas en la web oficial · Sibiu-lago Bâlea una hora y media, luego unas 3 horas y 45 hasta Bucarest · está prohibido dar de comer a los osos: hay que quedarse en el coche con las ventanillas cerradas.
+
 ### Día 5 — Bucarest: check-out, Termas y despedidas
-El último día depende de la hora del vuelo: media jornada (o la jornada completa) en las **Termas de Bucarest**. Es un enorme parque termal dividido en tres zonas (juegos de agua, relax, restaurantes/bares); se paga todo con una pulsera y se salda a la salida, 35 € por el día completo. Las Termas están justo al lado del aeropuerto, así que se puede salir con calma incluso solo 2 horas antes del vuelo.
+El último día depende de la hora del vuelo: media jornada (o la jornada completa) en las **Termas de Bucarest**. Es un enorme parque termal dividido en tres zonas (juegos de agua, relax, restaurantes/bares); se paga todo con una pulsera y se salda a la salida, 35 € por el día completo. Las Termas están justo al lado del aeropuerto, así que se puede salir con calma incluso solo 2 horas antes del vuelo. El complejo está en Balotești, a pocos minutos en coche de Otopeni, y se llega en taxi o en coche; se entra con una pulsera que abre las taquillas y registra los consumos.
+
+Las zonas están pensadas para públicos distintos: la de toboganes y piscinas de olas es para familias, mientras que las zonas de relax, con palmeras, saunas y piscinas calientes, tienen límites de edad y son más tranquilas. Quien no quiera termas puede pasar la mañana en la ciudad, entre Calea Victoriei, el parque Cișmigiu y un último desayuno en el centro, e ir directamente al aeropuerto. *Conviene dejar el equipaje grande en el hotel o en el coche y llevar a las termas solo una bolsa con bañador, chanclas y toalla, si no se alquila.*
+
+**En la práctica:** Therme București a unos 10-15 minutos del aeropuerto de Otopeni · precios variables según el día, la franja horaria y las zonas elegidas, más bajos entre semana después de las 16: comprobar en therme.ro · chanclas y toalla propias o de alquiler · salir al menos 2 horas antes del vuelo.
 
 ## Qué ver / qué hacer
 - El **Castillo de Peleș**, quizá el más bonito arquitectónicamente de todo el viaje.

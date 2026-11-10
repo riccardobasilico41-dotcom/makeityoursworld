@@ -40,6 +40,8 @@ Nel pomeriggio siamo saliti al colle di **Wawel**: il **Castello Reale**, sede d
 
 La sera l'abbiamo passata nel centro storico, dentro le **Planty**, gli antichi viali alberati che seguono il tracciato delle mura medievali abbattute nell'Ottocento.
 
+**In pratica:** il centro storico si gira tutto a piedi, dalla piazza al Wawel sono circa 15 minuti · biglietti del Castello Reale sul sito ufficiale, per sezione e a orario, da comprare prima perché gli ingressi giornalieri sono limitati · l'altare di Veit Stoss si vede con un biglietto per i visitatori, mentre durante le messe l'accesso turistico è sospeso · l'Hejnał suona ogni ora, giorno e notte.
+
 ### Giorno 2 — Auschwitz-Birkenau
 Questa è una giornata a parte, e va trattata come tale: l'unica cosa in programma, senza altre tappe da incastrare.
 
@@ -49,6 +51,8 @@ La visita completa richiede, a conti fatti, **3,5 ore** più il trasporto: convi
 
 Siamo rientrati a Cracovia nel tardo pomeriggio. Non è la sera per programmi elaborati.
 
+**In pratica:** ingresso al Memoriale gratuito ma su prenotazione nominativa sul sito ufficiale del Museo, la visita con educatore è a pagamento e va prenotata con settimane di anticipo · da Cracovia circa un'ora e mezza in bus o in treno · borse grandi non ammesse, solo zaini piccoli · Birkenau è all'aperto e ventoso: d'inverno vestirsi molto pesanti.
+
 ### Giorno 3 — Kazimierz e Podgórze
 La mattina siamo andati a **Kazimierz**, l'ex città autonoma fondata nel 1335 e diventata dal 1495 il centro della vita ebraica di Cracovia per secoli, fino alla distruzione della comunità durante l'occupazione nazista. La **Old Synagogue**, la più antica di Polonia, oggi museo; la **Remuh Synagogue**, una delle due ancora attive in città, con il cimitero ebraico adiacente; le vie intorno a **Plac Nowy**, la piazza del mercato del quartiere, oggi centro della vita notturna cittadina.
 
@@ -56,12 +60,14 @@ Nel primo pomeriggio abbiamo attraversato la Vistola verso **Podgórze**: la **P
 
 La sera siamo tornati a Kazimierz. Qui si può fare un tour gastronomico tra pierogi, zapiekanki e degustazione di vodka polacca (vedi la scheda esperienza dedicata) oppure, in autonomia, un giro tra i bar di Plac Nowy.
 
+**In pratica:** Kazimierz è a circa 15-20 minuti a piedi dal Rynek, Podgórze subito oltre il ponte pedonale Bernatka · Fabbrica di Schindler con ingresso a orario e numero limitato: biglietto online in anticipo, soprattutto nel weekend · le sinagoghe attive chiudono il sabato, uomini a capo coperto.
+
 ### Giorno 4 — La Miniera di Wieliczka e l'ultimo giro
-La mattina siamo andati alla **Miniera di sale di Wieliczka**, a una mezz'ora da Cracovia: il **Percorso Turistico** scende attraverso oltre venti camere scavate nel sale in sette secoli di lavoro, fino alla **Cappella di Santa Kinga**, una chiesa sotterranea scolpita tutta nel sale, pavimento, lampadari e bassorilievi compresi. Si scende a piedi (oltre 800 scalini) e si risale in ascensore.
+La mattina siamo andati alla **Miniera di sale di Wieliczka**, a una mezz'ora da Cracovia: il **Percorso Turistico** scende attraverso oltre venti camere scavate nel sale in sette secoli di lavoro, fino alla **Cappella di Santa Kinga**, una chiesa sotterranea scolpita tutta nel sale, pavimento, lampadari e bassorilievi compresi. Si scende a piedi (oltre 800 scalini) e si risale in ascensore. La visita è sempre guidata, a gruppi per lingua, e dura circa tre ore: conviene prendere uno dei primi turni del mattino, per evitare i gruppi organizzati e tornare in città per pranzo. *Sottoterra la temperatura resta sui 17-18 gradi tutto l'anno: basta una felpa.*
 
-Siamo rientrati a Cracovia nel primo pomeriggio per l'ultimo giro: il **Rynek Underground Museum**, sotto la piazza principale, con i resti archeologici del mercato medievale portati alla luce durante i restauri; il **Barbacane** e i resti delle mura, all'estremità nord del centro storico; poi tempo libero per gli ultimi acquisti nella Sukiennice.
+Siamo rientrati a Cracovia nel primo pomeriggio per l'ultimo giro: il **Rynek Underground Museum**, sotto la piazza principale, con i resti archeologici del mercato medievale portati alla luce durante i restauri; il **Barbacane** e i resti delle mura, all'estremità nord del centro storico; poi tempo libero per gli ultimi acquisti nella Sukiennice. Tra il Barbacane e la piazza si percorre via Floriańska, la vecchia strada d'ingresso dei re, passando sotto la **Porta di San Floriano**. La sera, in centro, l'ultima cena del weekend.
 
-La sera, in centro, l'ultima cena del weekend.
+**In pratica:** Wieliczka in treno regionale dalla stazione centrale di Cracovia (circa 20-25 minuti) o in bus · Percorso Turistico intorno ai 130-160 złoty a seconda della stagione, biglietti a orario sul sito ufficiale della miniera · Rynek Underground con ingressi a fasce orarie, il martedì gratuito ma con orario ridotto e il secondo lunedì del mese chiuso: prenotare per il pomeriggio.
 
 ## Cosa vedere / cosa fare
 - **Rynek Główny e la Sukiennice**, il cuore della città dal 1257.

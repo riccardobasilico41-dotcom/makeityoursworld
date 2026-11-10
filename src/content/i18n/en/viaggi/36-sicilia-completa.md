@@ -40,6 +40,8 @@ We took our first walk along the axis of the **Quattro Canti**, the Baroque cros
 
 The first evening was **street food**: **panelle** of chickpea flour, **crocchè**, **sfincione**, and **pane ca meusa** for those who dare, a sandwich of veal spleen and lung, boiled and then fried in lard, "schietto" with lemon or "maritato" with ricotta and caciocavallo. It's the oldest street food in the city and it doesn't do half measures.
 
+**In practice:** from the airport to central Palermo about 45 minutes by shuttle, train or car · car in a garage or a guarded car park for the first days · ZTL restricted traffic zone active in the historic centre · street food in the evening at the historic markets, in cash.
+
 ### Day 2 — Arab-Norman Palermo
 It's the day that explains Sicily better than any other.
 
@@ -51,6 +53,8 @@ Then **San Giovanni degli Eremiti** with its **five red domes** and the cloister
 
 In the afternoon we visited the **oratories of Serpotta**, small confraternity rooms covered entirely in **white stucco** (allegorical figures, putti, little theaters), of a virtuosity that has to be seen up close. They are on side streets and almost always empty.
 
+**In practice:** the Cappella Palatina's visit route changes on Friday, Saturday and Sunday, check beforehand · separate tickets for the Palazzo dei Normanni, the Cathedral (tombs and roofs), San Giovanni degli Eremiti and the Martorana · shoulders and knees covered in churches · everything on foot.
+
 ### Day 3 — The Markets, the Catacombs, Palazzo Abatellis
 We spent the morning in one of the **historic markets**, **Ballarò**, the **Capo** or the **Vucciria**, which are the most visible legacy of the Arab centuries: the souk layout, the **abbanniata** (the cry of the vendors, which is a form of song), the cooking stalls in the middle of the street. Ballarò is the liveliest and the least tamed.
 
@@ -60,12 +64,16 @@ In the afternoon we went to **Palazzo Abatellis**, the regional gallery. There's
 
 In the evening, the **Teatro Massimo**, if there's a performance: it is **the largest opera house in Italy** and can also be visited by day.
 
+**In practice:** historic markets at their best in the morning · Catacombs with a ticket, no photos allowed · check Palazzo Abatellis and Teatro Massimo hours on the official sites, the theatre is seen on a guided tour · watch your wallet at the markets.
+
 ### Day 4 — Monreale and Cefalù
 In the morning we climbed up to **Monreale**, a few kilometers above Palermo. The **Duomo** has **about six thousand square meters of gold-ground mosaics** covering the walls completely, with a **Christ Pantocrator** in the apse whose hand alone is as tall as a person. It is the most extensive medieval mosaic cycle in Italy. The **cloister** next to it has **228 paired columns**, each with a different capital and decoration, in a square courtyard with an Arab fountain in the corner. Give both time.
 
 In the afternoon we went to **Cefalù**, on the north coast, a little under an hour of motorway. There's another **Norman cathedral** with another **Pantocrator**, older than the one at Monreale and, for many, more beautiful; a historic center squeezed between the mountain and the sea; the **medieval wash house** where the water still runs; and the **Rocca**, which you climb in an hour for the view.
 
 Then you return to Palermo or, if you prefer, spend the first night already moving west.
+
+**In practice:** Monreale half an hour by car from Palermo, also by bus · the cloister has its own ticket, separate from the Cathedral · Cefalù just under an hour on the motorway, park outside the historic centre · the Rocca is an hour's climb, with water and closed shoes.
 
 ### Day 5 — Segesta, Erice and Trapani
 We left Palermo and headed west.
@@ -76,6 +84,8 @@ Then we went up to **Erice**, a medieval village at **about 750 meters** on a mo
 
 Night in **Trapani** or nearby.
 
+**In practice:** Segesta with a ticket, paid shuttle up to the theatre · Erice by car or by cable car from Trapani, which stops in strong wind · a sweater even in summer for Erice's fog · night in or around Trapani.
+
 ### Day 6 — The Salt Pans, Motya and Marsala
 It's the strangest day of the itinerary, and one of the most beautiful.
 
@@ -84,6 +94,8 @@ The **salt pans between Trapani and Marsala** are shallow basins separated by em
 In the middle of the lagoon is **Motya**, a small flat island where the **Phoenicians** founded a colony in the 8th century BC. We reached it with a short boat ride, and the island can be toured on foot in a couple of hours: there are the walls, the **cothon** (an artificial harbor basin), the **tophet** and, in the museum, the **Motya Charioteer** (the *Giovinetto di Mozia*), a Greek marble statue of a young man in a clinging pleated tunic, of a quality you don't expect in western Sicily. There is also, under a few centimeters of water, a **submerged road** that connected the island to the mainland and that under certain conditions can still be walked.
 
 In the afternoon we went to **Marsala**, which gives its name to the wine. It was an English merchant, at the end of the eighteenth century, who realized that the local fortified wine withstood sea voyages, and an industry was born from there. **The historic wineries can be visited by appointment.** **Garibaldi's Thousand** also landed at Marsala, in 1860.
+
+**In practice:** salt pans at sunset · boat to Mozia from the landing on the Stagnone, a few minutes, with the museum ticket extra · a couple of hours for the island · Marsala wineries by appointment only.
 
 ### Day 7 — Zingaro, Scopello and San Vito Lo Capo
 A day of coast and walking.
@@ -94,6 +106,8 @@ At the south entrance is **Scopello**, with its **baglio** and the **tonnara** f
 
 In the afternoon we reached **San Vito Lo Capo**, with its pale sand beach beneath Monte Monaco and the **couscous**, which here is made with fish, steamed in the **cuscusiera** and comes from the North African tradition passed down through the fishermen. **In September there is a festival dedicated to it** that fills the town.
 
+**In practice:** Zingaro with an entrance ticket, north entrance from San Vito and south from Scopello · full route about four hours there and back · bring water and food, trail shoes · in summer leave at dawn · in San Vito fish couscous, festival in September.
+
 ### Day 8 — Selinunte and the Cave di Cusa
 We went down the southern coast.
 
@@ -102,6 +116,8 @@ We went down the southern coast.
 A few kilometers away are the **Cave di Cusa**, which almost nobody visits and which are the most impressive thing in the area. It is the quarry the blocks of Selinunte came from, and **when the Carthaginians destroyed the city in 409 BC the work stopped abruptly**. **Column drums half extracted** were left in place, still attached to the bedrock, with the circular groove cut around them, and others already detached and ready for transport. They have been there for twenty-four hundred years, exactly as they were left.
 
 Evening toward **Agrigento** or **Sciacca**.
+
+**In practice:** Selinunte half a day, long distances inside between the acropolis and the eastern hill · go in at opening time, no shade · Cave di Cusa a few kilometres away, reduced hours to check · evening towards Agrigento or Sciacca.
 
 ### Day 9 — Agrigento and the Valley of the Temples
 The **Valley of the Temples** is the reason Sicily is on half the world's lists. It is a long ridge with a row of fifth-century BC Doric temples, not a valley: the name is a nineteenth-century translation error.
@@ -112,6 +128,8 @@ The **Valley of the Temples** is the reason Sicily is on half the world's lists.
 
 Not to be skipped: the **Archaeological Museum**, with the reassembled telamon, and the **Kolymbethra Garden**, a citrus garden inside the archaeological area (originally a large Greek-era water-collection basin), **run by the FAI**, which almost no one enters and where you walk in the shade among the citrus trees with the temples above your head.
 
+**In practice:** Valley of the Temples with a combined ticket including the Archaeological Museum · evening openings in summer, to check · FAI's Kolymbethra on a separate ticket · two entrances with car parks at the two ends of the ridge · water and a hat.
+
 ### Day 10 — The Scala dei Turchi and the Interior
 In the morning we went to the **Scala dei Turchi**, the **white marl** cliff that descends in steps into the sea, **with the warning that access has been regulated and in certain periods completely closed** because of erosion and vandalism: **check its status before going**, and respect it.
 
@@ -121,12 +139,16 @@ Then we headed up toward the interior, the part almost everyone skips and which 
 
 If time remains, **Caltagirone** with its staircase of **142 painted ceramic steps**, each one different, or **Enna**, at the exact geographic center of Sicily, at 900 meters, from where on clear days you can see Etna.
 
+**In practice:** check Scala dei Turchi access before setting off · Agrigento to Piazza Armerina about two hours by car · Villa Romana del Casale with a ticket, best in the morning · Caltagirone or Enna only if there's light left.
+
 ### Day 11 — Ragusa Ibla and Arriving in the Baroque
 We entered the **Val di Noto**, a UNESCO site: **eight cities rebuilt after the earthquake of 1693**, all in the same style and at the same moment, a unique case of Baroque urban planning on a regional scale.
 
 **Ragusa** is the right gateway, because it has a peculiarity: **it was rebuilt twice**. One part of the population rebuilt the city on the same rock spur, and that is **Ibla**, a labyrinth of alleys and staircases; another part rebuilt it on a nearby plateau, by more modern criteria, and that is **upper Ragusa**. You go down from one to the other on very long staircases, with the panorama opening up.
 
 **Ibla** at sunset, with the **Cathedral of San Giorgio** at the top of the staircase and the **Giardino Ibleo** at the end of the spur, is the most beautiful piece of Sicilian Baroque.
+
+**In practice:** ZTL in Ragusa Ibla, park outside and walk down · comfortable shoes for the stairways between upper Ragusa and Ibla · Ibla at sunset · to sleep, Ibla or the surrounding countryside.
 
 ### Day 12 — Modica, Scicli and Noto
 It's the day of the other three, all twenty kilometers from one another, to be done without hurry.
@@ -137,6 +159,8 @@ It's the day of the other three, all twenty kilometers from one another, to be d
 
 **Noto** is the most scenographic, built entirely in **local limestone that turns golden at sunset**: the main street is a continuous sequence of churches and palaces with balconies held up by brackets carved into monsters and horses. **It is the most photographed city of Sicilian Baroque and must be seen at the right hour.**
 
+**In practice:** about twenty kilometres between one town and the next · ZTL in Modica and Noto, paid car parks at the edge of the centre · Modica chocolate in the historic shops, with tastings · Noto in the last light of the day.
+
 ### Day 13 — Vendicari and Arrival in Syracuse
 In the morning we were at the **Vendicari Reserve**, one of the best-preserved coastal areas of Sicily: the **salt pans**, the **abandoned tonnara** with its chimney on the beach, the marshes and sandy beaches. **In spring and autumn there are flamingos**, and the reserve is a stopover on the migration route between Europe and Africa. A little further south is the beach of **Calamosche**, in a bay enclosed between two headlands, reachable only on foot.
 
@@ -144,12 +168,16 @@ In the afternoon we moved to **Syracuse** and settled in **Ortigia**, the island
 
 In the evening, the **Ortigia market** and dinner with **sea urchins**, which here are the specialty.
 
+**In practice:** Vendicari with several entrances and paths between beaches and salt pans · Calamosche only on foot, about twenty minutes from the car park · binoculars for the flamingos · ZTL in Ortigia, car in a park-and-ride then on foot · look for sea urchins in season.
+
 ### Day 14 — Syracuse
 **For a long period Syracuse was the most powerful city of the Greek world**, bigger than Athens, and the **Neapolis Archaeological Park** preserves its traces: the **Greek theater** carved into the living rock; the **Ear of Dionysius**, an artificial cavity twenty-three meters high with extraordinary acoustics, named by Caravaggio, who said it looked like an auricle; and the **Altar of Hieron**, the largest altar of antiquity.
 
 Then we explored **Ortigia** on foot. The **Cathedral** is the most extraordinary building in the city because it is a **fifth-century BC Doric temple converted into a church**: **the Greek columns are still there, built into the walls**, and you touch them with your hand as you enter a Baroque church. Then the **Fountain of Arethusa**, a freshwater spring two meters from the sea with **papyrus** growing wild, and the **Maniace Castle** on the tip.
 
 Anyone with time can add the **Paolo Orsi Museum**, one of the most important archaeological museums in Italy, and the church of **Santa Lucia alla Badia** with the **Burial of Saint Lucy** by **Caravaggio**, painted during his flight from Malta.
+
+**In practice:** Neapolis with a ticket, combined with the Paolo Orsi Museum · from the Neapolis to Ortigia about half an hour on foot or a few minutes by car · Cathedral with a ticket · the Caravaggio of Santa Lucia alla Badia is on Piazza Duomo · Neapolis early in the morning, no shade in summer.
 
 ### Day 15 — Etna
 We moved toward the volcano, for the day you come east for.
@@ -160,6 +188,8 @@ We moved toward the volcano, for the day you come east for.
 
 In the afternoon there are the **Silvestri craters** at low altitude, free and reachable by car, or an **Etna winery by appointment**. The vines here are often **ungrafted**, because **phylloxera** never reached the volcanic soil, and there are vines over a hundred years old. In twenty years Etna has become one of the most interesting wine territories in Europe, and it's worth understanding why on the spot.
 
+**In practice:** INGV bulletin the evening before · cable car from Rifugio Sapienza, then off-road vehicle and guide, to book · trekking shoes, windproof jacket, layers · Silvestri craters free · Etna wineries by appointment only.
+
 ### Day 16 — Taormina and the Alcantara Gorges
 We reached **Taormina** early in the morning, before the tour buses. The **Greco-Roman theater** overlooking Etna and the sea is one of the most spectacular settings in the Mediterranean, and the fact that the Greeks oriented it that way is no accident. In high season the town is packed and has prices from another region; by mid-morning it's already unmanageable.
 
@@ -167,12 +197,16 @@ In the afternoon we were at the **Alcantara Gorges**, the **columnar basalt** ca
 
 Last evening in **Catania** or on the Etna side.
 
+**In practice:** Taormina has a ZTL, car in the public car parks below town then shuttle or stairs · theatre at opening time · Alcantara Gorges with different access points, some paid, and water shoes · last evening in Catania or on Etna.
+
 ### Day 17 — Catania and Departure
 We spent the last morning in **Catania**, which divides opinion: it's lively, chaotic, built entirely in **black lava stone** after the earthquake of 1693, and less beautiful than Palermo. Take it for what it is.
 
 There's the **Pescheria market**, in a square behind the Cathedral, one of the most theatrical fish markets in Italy; **Via dei Crociferi** with its row of Baroque churches; and the **Piazza del Duomo** with the lava stone elephant.
 
 A last granita with brioche, last purchases (**Bronte pistachio**, Modica chocolate, capers, Etna wine, salt from the Trapani salt pans) and a flight from Catania.
+
+**In practice:** Pescheria only in the morning, closed on Sundays · central Catania all on foot, leave the car outside the ZTL · airport about twenty minutes from the centre · one-way car drop-off with margin before the flight.
 
 ## How to Shorten It
 - **In 10 days you do half**, and it's the advice that holds for most people: the **eastern** half (Etna, Syracuse, Val di Noto, Agrigento) is the right choice the first time, and has a dedicated itinerary on the site.

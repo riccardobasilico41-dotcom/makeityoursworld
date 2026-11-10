@@ -43,6 +43,8 @@ A fine pomeriggio siamo arrivati al **Quadrilatero Romano**, la parte più antic
 
 L'aperitivo l'abbiamo fatto nel Quadrilatero, la zona dove la sera si esce.
 
+**In pratica:** Museo Egizio aperto il lunedì 9-14 e dal martedì alla domenica 9-18.30, biglietto online consigliato perché in cassa si vende solo la disponibilità residua · Musei Reali chiusi il mercoledì, intero circa 15 € · Palazzo Madama chiuso il martedì · Porta Palazzo al meglio la mattina, più grande il sabato · la Torino+Piemonte Card conviene se si visitano diversi musei.
+
 ### Giorno 2 — La Mole, il fiume e la collina
 La mattina siamo andati alla **Mole Antonelliana**, il simbolo della città, nata per tutt'altro scopo: **fu iniziata nel 1863 come sinagoga** per la comunità ebraica torinese, appena emancipata, e l'architetto Antonelli la fece crescere ben oltre il progetto e il budget fino a farla abbandonare dalla comunità, che la cedette al Comune. È **uno degli edifici in muratura più alti mai costruiti**.
 
@@ -57,6 +59,8 @@ Pomeriggio, due possibilità.
 **Opzione B: il Novecento industriale.** Il **Museo Nazionale dell'Automobile** racconta l'auto come storia sociale e non come galleria di modelli, ed è tra i migliori al mondo nel suo genere. Poi il **Lingotto**: l'ex stabilimento con **la pista di prova sul tetto**, dove le auto appena assemblate uscivano dalla catena e salivano a girare in quota, e la **Pinacoteca Agnelli** nella struttura sospesa sul tetto: una collezione piccola e di qualità altissima, con la pista che le gira intorno e si percorre a piedi.
 
 L'ultima sera l'abbiamo chiusa con un aperitivo torinese fatto come si deve e una cena piemontese.
+
+**In pratica:** Museo del Cinema e ascensore panoramico chiusi il martedì, ascensore a orari fissi da prenotare online, specie nei weekend · tranvia Sassi-Superga con corse circa ogni ora e chiusura settimanale, di solito il mercoledì: controllare sul sito GTT · Museo dell'Automobile e Lingotto raggiungibili con la metro fino alla fermata Lingotto · per la cena piemontese prenotare il sabato sera.
 
 ## Se si ha un terzo giorno
 - **Reggia di Venaria Reale:** fuori città, raggiungibile in bus o navetta. È un complesso enorme, restaurato dopo decenni di abbandono come caserma, con la **Galleria Grande di Juvarra** (una navata di luce lunga ottanta metri) e i giardini. **Serve mezza giornata piena**, e non si fa bene di corsa.

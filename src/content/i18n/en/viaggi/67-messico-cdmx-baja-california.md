@@ -33,9 +33,11 @@ The reason to go to Baja in February and March is the animals. **Gray whales** c
 ## Itinerario giorno per giorno
 
 ### Day 1 — Arrival in Mexico City
-We landed at Benito Juárez airport (AICM) and got into the city by prepaid authorized taxi or by app. The base for the days in the city is **Roma Norte** or **Condesa**, two early-20th-century neighborhoods with tree-lined avenues, parks and plenty of places to eat and drink, convenient and safe. We kept the first afternoon light: between jet lag and altitude, your body needs a day.
+We landed at Benito Juárez airport (AICM) and got into town with a prepaid authorized taxi or a ride-hailing app. The base for the city days is **Roma Norte** or **Condesa**, two early-twentieth-century neighborhoods with tree-lined avenues, parks and plenty of places to eat, convenient and safe. We kept the first afternoon light: between jet lag and altitude, the body needs a day. Mexico City sits at about 2,240 meters: in the first days stairs feel harder, you sleep worse and alcohol hits sooner. *Avoid taxis touting at the airport: use only the official counters with prepaid tickets or the apps, which work well here.*
 
-In the evening we strolled through Parque México and had our first tacos al pastor, sliced off the vertical spit with a piece of pineapple on top.
+In the evening we took a walk in Parque México and ate our first tacos al pastor, sliced from the vertical spit with a piece of pineapple on top. The park, with its oval of paths and trees, is the heart of Condesa, and in the evening it fills with dog walkers and families. Around it, along Avenida Amsterdam, you can walk safely among taquerías, cafés and bars. For dinner, ask your hotel for the neighborhood's busiest taquería: where Mexicans are queuing, the food is usually good.
+
+**In practice:** from the airport to Roma or Condesa 30-60 minutes depending on traffic · authorized taxis with prepaid tickets at the arrivals counters · always bottled water, even for brushing your teeth · Roma Norte and Condesa are the handiest areas to stay.
 
 ### Day 2 — The Centro Histórico
 The heart of the city is best explored on foot. The **Zócalo**, one of the largest squares in the world; the **Metropolitan Cathedral**, which visibly leans because it's built on the bed of a drained lake; the **Templo Mayor**, the main temple of Tenochtitlán, rediscovered in 1978 during metro works; the **Palacio Nacional**, with Diego Rivera's murals on the country's history. Then we walked the pedestrian Madero street, as far as the Casa de los Azulejos and the **Palacio de Bellas Artes**, with murals by Orozco and Siqueiros inside.
@@ -48,24 +50,32 @@ Sunset is best seen from above, from the viewing deck of the **Torre Latinoameri
 - Metro: single fare 5 MXN; at rush hour the cars at the front of the train are reserved for women.
 
 ### Day 3 — Teotihuacán
-**Teotihuacán**, an hour by bus from the Terminal del Norte, was the largest city in the Americas around 500 AD. We walked along the **Calzada de los Muertos**, between the Pyramid of the Sun and the Pyramid of the Moon, with the temple of the Feathered Serpent at the end of the Ciudadela. It's best to be at the gate when it opens at 9, with water and a hat: the site is huge and there's no shade.
+**Teotihuacán**, an hour by bus from the Terminal del Norte, was the largest city in the Americas around 500 AD. We walked along the **Calzada de los Muertos**, between the Pyramid of the Sun and the Pyramid of the Moon, with the Temple of the Feathered Serpent at the far end in the Ciudadela. Be at the gate at opening time, 8 am, with water and a hat: the site is huge and has no shade. For some years now the pyramids can't be climbed; the walk at ground level is still long, with a couple of kilometers from one end of the Calzada to the other. *At the gates and along the route they sell jaguar whistles and souvenirs: a polite no is enough.*
 
-From 2026 admission for foreigners costs about **210 MXN**. If you like, you can go up in a hot-air balloon at dawn (roughly 2,500-4,000 MXN). On the way back you can stop at the **Basilica of Guadalupe**, the most visited Catholic shrine in the Americas.
+Since 2026 entry for foreigners costs about **210 MXN**. If you like, you can go up in a hot-air balloon at dawn (roughly 2,500-4,000 MXN). On the way back you can stop at the **Basilica of Guadalupe**, the most visited Catholic shrine in the Americas. Next to the round modern basilica from the 1970s stands the old one, which leans like the Cathedral in the Centro; the image of the Virgin is seen from a moving walkway that runs beneath the altar. Inside the site there are also small museums, useful for grasping the scale of the city before walking it.
+
+**In practice:** Autobuses Teotihuacán buses from the Terminal del Norte, frequent departures, about an hour · site open 8 am to 5 pm, last entry 4:30 pm · entry about 210 MXN for foreigners · Sundays crowded, a weekday is better.
 
 ### Day 4 — Chapultepec and the Museo Nacional de Antropología
-The **Museo Nacional de Antropología** is worth a whole morning on its own: the Aztec Sun Stone, the Olmec heads, the Maya halls with the reconstruction of Pakal's tomb. From 2026 the ticket for foreigners costs about **210 MXN**. The museum is inside **Chapultepec Forest**, the city's largest park, where on the hill stands the castle that was Emperor Maximilian's residence, now a history museum.
+The **Museo Nacional de Antropología** is worth a whole morning on its own: the Aztec Sun Stone, the Olmec heads, the Maya rooms with the reconstruction of Pakal's tomb. Since 2026 the ticket for foreigners costs about **210 MXN**. The museum is inside the **Chapultepec forest**, the city's largest park, where on the hill stands the castle that was Emperor Maximilian's residence, now a history museum. The rooms are arranged around a courtyard with the great "umbrella", the column fountain; start with the Mexica hall in the middle, then choose the others as time allows. *You can't see it all in one visit: three hours are enough for the main rooms.*
 
-We spent the afternoon among cafés and galleries, in Polanco or back in Roma. If it's a Tuesday, Friday or Sunday, in the evening you can go to the **Arena México** for **lucha libre**, Mexican masked wrestling: tickets are bought at the arena box office or online, and you go and come back by taxi or app.
+We spent the afternoon among cafés and galleries, in Polanco or back in Roma. If it's Tuesday, Friday or Sunday, in the evening you can go to **Arena México** for **lucha libre**, Mexican masked wrestling: tickets are sold at the arena box office or online, and you go and come back by taxi or app. The evening lasts a couple of hours, the crowd joins in shouting, and wrestlers' masks are sold at the stalls outside.
+
+**In practice:** Anthropology Museum and Chapultepec Castle closed on Mondays · museum ticket about 210 MXN for foreigners · Arena México is in the Doctores district: taxi or app both ways, not on foot · Chapultepec is reached by metro or app.
 
 ### Day 5 — Coyoacán and Xochimilco
-**Coyoacán** is a colonial village swallowed up by the city: squares, churches, the market with seafood tostadas and Frida Kahlo's **Casa Azul**, to be booked online a few days ahead. A few blocks away is Trotsky's house-museum.
+**Coyoacán** is a colonial village swallowed by the city: squares, churches, the market with seafood tostadas and Frida Kahlo's **Casa Azul**, to be booked online a few days ahead. A few blocks away is Trotsky's house-museum. The Casa Azul has timed entries and weekend tickets sell out sooner; the time on your ticket must be respected, or you may be refused entry. Arrive in the morning, visit the house and then have lunch at the market.
 
-In the afternoon we went to **Xochimilco**, to the canals left over from the ancient lake, which you travel on **trajineras**, the colorful flat-bottomed boats, with mariachis and food vendors pulling alongside in their own boats. The boat price is set by the hour (roughly 600-700 MXN an hour for the whole boat) and should be agreed at the dock before you get on.
+In the afternoon we went to **Xochimilco**, the surviving canals of the ancient lake, traveled on **trajineras**, the colorful flat-bottomed boats, with mariachis and food vendors pulling up alongside in their own boats. The boat price is set by the hour (roughly 600-700 MXN an hour for the whole boat) and must be agreed at the landing before boarding. At weekends Xochimilco is one big party, with music and beer, while on weekdays it's much quieter. *Mariachis and vendors are paid separately: ask the price of a song first.*
+
+**In practice:** Casa Azul about 320 MXN for foreigners, online only, closed on Mondays · from Coyoacán to Xochimilco by app about 40 minutes, or metro to Tasqueña and then the tren ligero · share the trajinera with a group, hourly price agreed in advance · head back before evening.
 
 ### Day 6 — Flight to La Paz and the Malecón
-On the morning flight we reached **La Paz** (about 2 hours 15 minutes), gaining an hour with the time difference. We picked up the car at the airport, which you need right away to get into town, and settled in near the **Malecón**, the three-mile (five-kilometer) waterfront promenade where families, cyclists and ice cream vendors come out to walk in the evening.
+With the morning flight we reached **La Paz** (about 2 hours 15), gaining an hour with the time difference. We picked up the car at the airport, which you need right away to get into town, and settled near the **Malecón**, the five-kilometer seafront where families, cyclists and ice-cream sellers come out in the evening. *When picking up the car, check the insurance: third-party liability cover is mandatory in Mexico and often isn't included in the price seen online.*
 
-La Paz is the state capital, but it has the pace of a provincial town. The daily appointment is sunset over the Sea of Cortez, with the promenade sculptures in silhouette.
+La Paz is the state capital, but it has the pace of a provincial town. The daily ritual is sunset over the Sea of Cortez, with the seafront sculptures silhouetted against the light. The center is small and walkable: the cathedral, the markets, the fish taquerías serving fried tacos de pescado, the Baja specialty. In the afternoon you can book the next days' outings, whale shark and Espíritu Santo, at the agencies on the Malecón, checking that they're authorized.
+
+**In practice:** Mexico City-La Paz flight about 2 hours 15 · rental car with full insurance, book ahead in whale season · fuel only at gas stations, cash also accepted · to stay, the Malecón or the streets just behind it.
 
 ### Day 7 — The whale shark and Playa Balandra
 We dedicated the morning to the **whale shark**, the largest fish in the world, which in winter feeds on plankton in a refuge zone of the bay, near the sandspit of El Mogote. You head out by boat with an operator authorized by CONANP and swim at the surface next to the animal, in small groups and in turns of a few minutes. The rules are strict: no touching, minimum distance, no flash. The season only opens when the sharks are there, so check before booking.
@@ -85,6 +95,8 @@ The day usually includes lunch on the beach in the bay of Ensenada Grande and a 
 
 *Good to know: the tour costs roughly 2,500-3,500 MXN per person, plus the park fee (brazalete) if it isn't included. The sea can be rough: with strong north wind the trips are canceled, so it's best to keep a spare day in La Paz.*
 
+**In practice:** departures from the Malecón or Pichilingue early in the morning, back in the afternoon · bring reef-safe sunscreen, a hat and a sweatshirt for the boat · keep a spare day in La Paz in case of cancellation due to wind.
+
 ### Day 9 — To Bahía Magdalena: the gray whales
 We headed for the Pacific: about three hours by car through the cardón desert, to **Puerto Adolfo López Mateos** or **Puerto San Carlos**, the two fishing villages on **Bahía Magdalena**. Here every winter the gray whales give birth and nurse their calves in the lagoon, after a journey of over six thousand miles (ten thousand kilometers) from the Arctic.
 
@@ -92,38 +104,56 @@ Outings are by panga, the fishermen's boats, with local cooperatives. In the lag
 
 *Good to know: the best outings are in the morning, when the wind is lighter. If you arrive in the afternoon, your first outing is the next day.*
 
-### Day 10 — A second lagoon outing and the road to Loreto
-We went back to the lagoon at dawn, when it's flat. Then we crossed the peninsula again toward the Sea of Cortez: from Ciudad Constitución to **Loreto** the road climbs into the Sierra de la Giganta and drops to the sea, about two and a half to three hours in all.
+**In practice:** from La Paz to Puerto San Carlos or López Mateos about 3 hours by car · gray whale season roughly January to March · few, simple places to stay, book ahead · cash in pesos: cards barely work in the villages.
 
-Loreto is a **Pueblo Mágico** founded in 1697 by the Jesuits. The **Misión de Nuestra Señora de Loreto** was the first mission in the Californias, and from here the colonization set out that reached all the way to San Francisco. The center is small and neat, with a quiet malecón and seafood restaurants.
+### Day 10 — A second lagoon outing and the road to Loreto
+We went back into the lagoon at dawn, when it's flat. Then we crossed the peninsula again towards the Sea of Cortez: from Ciudad Constitución to **Loreto** the road climbs into the Sierra de la Giganta and comes down to the sea, about two and a half to three hours in all. It's a stretch to drive in daylight: the road has few gas stations and some tight mountain bends, so fill up in Ciudad Constitución. *At night on Baja roads you meet cows and goats: drive only by day.*
+
+Loreto is a **Pueblo Mágico** founded in 1697 by the Jesuits. The **Misión de Nuestra Señora de Loreto** was the first mission of the Californias, and from here began the colonization that reached as far as San Francisco. The center is small and tidy, with a quiet malecón and seafood restaurants. Next to the mission is the small missions museum, which tells the story of the Jesuits in Baja California. In the evening, book tomorrow's boat trip at the harbor, where the lancheros have their stands.
+
+**In practice:** lagoon-Loreto about 3-3.5 hours with the refuelling stop · Loreto mission free, museum with an inexpensive ticket · to stay, the center near the mission and the malecón.
 
 ### Day 11 — Loreto: the blue whale and Isla Coronado
-The **Parque Nacional Bahía de Loreto** is one of the spots in the Sea of Cortez where the **blue whale** feeds in winter, along with fin whales and dolphins. Trips leave from the malecón with authorized lancheros and last about five hours; the indicative price starts at 3,000 MXN per person. The season runs from mid-January to the end of March.
+The **Parque Nacional Bahía de Loreto** is one of the spots in the Sea of Cortez where the **blue whale** feeds in winter, along with fin whales and dolphins. Trips leave from the malecón with authorized lancheros and last about five hours; the indicative price starts at 3,000 MXN per person. The season runs from mid-January to the end of March. You leave early in the morning, when the sea is calmer, and the boats keep their distance from the animals according to park rules. *Sightings aren't guaranteed: keep a second day free to try again.*
 
-If you'd rather have a quieter day, or have already seen the whales, you can go to **Isla Coronado**, with a white beach and snorkeling water, or head up to the **Misión de San Javier**, an hour and a half away in the sierra, one of the best-preserved missions on the peninsula.
+If you prefer a quieter day, or have already seen the whales, you can go to **Isla Coronado**, with a white beach and water for snorkeling, or drive up to the **Misión de San Javier**, an hour and a half into the sierra, one of the best-preserved missions on the peninsula. The road to San Javier is paved and crosses canyons and palm oases; the eighteenth-century stone mission stands in a small village, with an ancient olive grove behind the church. For Isla Coronado you need the boat and the park wristband.
+
+**In practice:** blue whale trip from about 3,000 MXN per person, about 5 hours · national park wristband extra, if not included · Isla Coronado half a day by boat · San Javier about an hour and a half by car, there and back in half a day.
 
 ### Day 12 — From Loreto to Todos Santos
-This is the long leg of the road trip: about five and a half hours of driving south, first on the Transpeninsular as far as Ciudad Insurgentes, then past La Paz to **Todos Santos**, on the Pacific. We left early to arrive in daylight. After La Paz the road crosses the desert and reaches the ocean right on the Tropic of Cancer.
+It's the long leg of the road trip: about five and a half hours of driving south, first on the Transpeninsular to Ciudad Insurgentes, then past La Paz to **Todos Santos**, on the Pacific. We left early to arrive in daylight. After La Paz the road crosses the desert and reaches the ocean right on the Tropic of Cancer. Along the Transpeninsular there are quick military checkpoints, where you show your documents and sometimes the trunk. *Fill up at every opportunity and keep water in the car: between towns there are long stretches without services.*
 
-Todos Santos is another Pueblo Mágico, with colonial houses, art galleries, cafés and a more relaxed feel than Cabo. In the evening we had dinner in the center.
+Todos Santos is another Pueblo Mágico, with colonial houses, art galleries, cafés and a more relaxed feel than Cabo. In the evening we had dinner in the center. The town takes an hour to walk around: the mission, the square, the theater and the **Hotel California**, linked to the song only in legend. In the afternoon, if there's light left, you can go to **La Pastora** or Las Palmas beach for the Pacific sunset, but only to watch: the sea here is dangerous.
+
+**In practice:** Loreto-Todos Santos about 5.5 hours, plus stops · military checkpoints, keep documents handy · swimming is not advised on Todos Santos beaches because of currents and waves · to stay, the town center.
 
 ### Day 13 — Todos Santos, Playa Cerritos and the turtles
-In the morning we were at the beach at **Playa Cerritos**, 15 minutes south, the only one in the area where you can swim with reasonable safety and where you can take surf lessons. The other Pacific beaches here have strong currents and breaking waves.
+In the morning we went to the beach at **Playa Cerritos**, 15 minutes south, the only one in the area where you can swim with some safety and where you can take surf lessons. The other Pacific beaches here have strong currents and breakers. Surf schools rent boards and wetsuits on the beach, and early in the morning the waves suit beginners better. *Even at Cerritos, swim near the lifeguards and away from the rocks, where currents are stronger.*
 
-At sunset, in hatching seasons, Todos Santos's conservation projects release into the sea the turtles born in their nurseries (in winter mostly leatherback and olive ridley turtles). You take part with a small donation, following the volunteers' instructions. Dates depend on the hatchings and have to be asked about in town.
+At sunset, in the hatching seasons, Todos Santos conservation projects release into the sea the turtles born in their nurseries (in winter mainly leatherbacks and olive ridleys). You take part for a small donation, following the volunteers' instructions. Dates depend on the hatchings and must be asked about in town. The hatchlings are released on the sand and left to reach the water on their own: no touching and no flash or torches. The free afternoon is for the galleries and cafés in the center.
+
+**In practice:** Playa Cerritos 15 minutes south of Todos Santos, parking on the beach · surf lessons and board rental right on the beach · turtle release at sunset, dates to be asked in town · cash for the donation.
 
 ### Day 14 — Cabo San Lucas: El Arco and the humpbacks
-An hour's drive took us to **Cabo San Lucas**, the tip of the peninsula. By boat, from the marina, you go to **El Arco**, the rock arch where the Sea of Cortez meets the Pacific, to the sea lion colony and to **Playa del Amor**, the beach squeezed between two seas.
+After an hour's drive we reached **Cabo San Lucas**, the tip of the peninsula. By boat from the marina you go to **El Arco**, the rock arch where the Sea of Cortez meets the Pacific, to the sea lion colony and to **Playa del Amor**, the beach squeezed between two seas. Water taxis leave from the Marina and Médano beach, and a tour takes less than an hour; to get off at Playa del Amor, ask the boatman to come back and pick you up. *The Pacific side of the beach, Playa del Divorcio, has very strong waves and currents: swim only on the Sea of Cortez side.*
 
-From December to April the waters off Cabo are full of **humpback whales**. Whale-watching trips last two to three hours and on shared boats cost roughly 80-130 dollars per person (about 1,400-2,200 MXN), less on the big boats and more on the small ones; a private boat for eight people comes to about 700 dollars. Cabo is the most touristy and expensive part of the trip, with the nightlife of the Marina; to sleep, many people prefer San José del Cabo.
+From December to April the waters off Cabo are full of **humpback whales**. Whale-watching trips last two to three hours and on shared boats cost roughly 80-130 dollars per person (about 1,400-2,200 MXN), less on big boats and more on small ones; a private boat for eight people comes to about 700 dollars. Cabo is the most touristy and expensive part of the trip, with the Marina's nightlife; to stay, many prefer San José del Cabo.
+
+**In practice:** Todos Santos-Cabo San Lucas about an hour · El Arco tour by water taxi, price agreed in advance · whale watching 80-130 dollars per person on shared boats · prices in Cabo are often in dollars: paying in pesos is better value.
 
 ### Day 15 — San José del Cabo and Cabo Pulmo
-For the last full day there are two options. **San José del Cabo** is the colonial, quiet part of Los Cabos, with the plaza, the mission and the gallery district; on Thursday evenings, from November to June, there's the **Art Walk**, with galleries open and music in the street.
+For the last day there are two options. **San José del Cabo** is the colonial, quiet side of Los Cabos, with the square, the mission and the gallery district; on Thursday evenings from November to June there's the **Art Walk**, with galleries open and music in the street. The center can be walked in half a day, and in the evening Plaza Mijares fills with families. *For the last night it's best to sleep here: the airport is about twenty minutes away.*
 
-Anyone with energy goes to **Cabo Pulmo**, about two hours north-east (the last few miles on a dirt road): a national park with the only hard-coral reef in the Gulf of California, protected since 1995 and full of fish again. Snorkeling and diving are only done with local operators and in authorized zones.
+If you have the energy, go to **Cabo Pulmo**, about two hours northeast (the last kilometers on a dirt road): a national park with the only hard coral reef in the Gulf of California, protected since 1995 and now full of fish again. Snorkeling and diving are done only with village operators and in authorized zones. The village is tiny, with no ATM and few services: bring cash, water and food. With some luck, underwater you see huge schools of fish, rays and turtles; in winter humpbacks can sometimes be seen from the beach.
+
+**In practice:** San José-Cabo Pulmo about 2 hours, last stretch on dirt passable with a normal car when dry · park wristband and outings with local operators · no ATM in Cabo Pulmo · Art Walk on Thursday evenings from November to June.
 
 ### Day 16 — Return from San José del Cabo
-We returned the car at **San José del Cabo** airport, from where you fly to Mexico City, connecting to Europe, or via the United States. Better to leave a wide margin: between the car check, check-in and a connection in Mexico City, you should allow at least four hours between flights.
+We returned the car at **San José del Cabo** airport, from where you fly to Mexico City, connecting to Europe, or via the United States. Leave a wide margin: between the car check, check-in and a connection in Mexico City, allow at least four hours between flights. San José airport has several terminals: check in advance which one your flight leaves from.
+
+If you have the morning free you can take a last swim or have breakfast by the sea in San José, which has beaches in front of the hotel zone. *At the airport exit and in arrivals there are timeshare sellers offering gifts or excursions: best ignored.* When returning the car, photograph the bodywork again and keep the receipt; fill up before arriving, because there are few gas stations near the airport.
+
+**In practice:** from central San José to the airport about 20 minutes · car return with at least half an hour's margin · at least four hours between flights when connecting in Mexico City · at the airport two to three hours before international flights.
 
 ## Variations
 **12 days, without Loreto.** Four days in Mexico City, four in La Paz (whale shark, Balandra, Espíritu Santo and a day trip to Bahía Magdalena leaving at dawn), one in Todos Santos and two in Los Cabos. You miss the blue whale, and you drive a lot less.

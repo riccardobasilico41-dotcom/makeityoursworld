@@ -44,6 +44,8 @@ Luego bajamos **debajo**, porque Nápoles tiene una ciudad bajo la ciudad: **can
 
 Por la noche, otra vez en la via dei Tribunali, con la pizza.
 
+**En la práctica:** Capilla Sansevero solo con reserva online por franja horaria, entrada de unos 12 €, normalmente cerrada los martes, prohibido hacer fotos · claustro de Santa Chiara y Pio Monte della Misericordia con entradas de pocos euros · Napoli Sotterranea y Galleria Borbonica solo con visita acompañada en horarios fijos, con reserva; la primera tiene pasadizos estrechísimos · por la noche, en las pizzerías más conocidas de via dei Tribunali hay cola: conviene llegar pronto.
+
 ### Día 2 — MANN, Sanità y la colina
 La mañana estuvimos en el **Museo Arqueológico Nacional**, el museo de arqueología romana más importante del mundo junto con los de Roma. Hay que hacerlo **antes de Pompeya**.
 
@@ -54,6 +56,8 @@ La tarde fuimos al **Rione Sanità**, el barrio que más que ningún otro ha cam
 Al final de la jornada subimos al **Vomero** en **funicular**. **Castel Sant'Elmo** tiene la terraza con la vista más completa sobre el golfo, y al lado está la **Cartuja de San Martino**, con el claustro, la iglesia barroca y la **sección belenística**. Allí está el **Belén Cuciniello**, un belén dieciochesco enorme en el que el Nacimiento es un detalle en medio de una escena de vida napolitana con mercados, tabernas y cientos de figuras.
 
 Atardecer desde el mirador y luego abajo. Por la noche, **Chiaia** o el **paseo marítimo Caracciolo**, que es peatonal, con el **Castel dell'Ovo** al fondo.
+
+**En la práctica:** MANN cerrado los martes, abierto de 9 a 19.30 con última entrada a las 18.30, entradas también online · Catacumbas de San Gennaro solo con visita guiada, con salidas fijas · Cementerio de las Fontanelle con horario reducido, mejor comprobarlo antes · funicular al Vomero con el billete normal del transporte urbano · Castel Sant'Elmo y Certosa di San Martino con entradas separadas: los días de cierre se comprueban en la web del ministerio.
 
 ### Día 3 — El Vesubio, Herculano y Pompeya
 Es la jornada fuera de la ciudad, y hay que decidirla de antemano porque **hacer las tres es demasiado**.
@@ -67,6 +71,8 @@ Es la jornada fuera de la ciudad, y hay que decidirla de antemano porque **hacer
 **Pompeya** es otra cosa: es **una ciudad entera**, y se camina durante horas. Las prioridades, para no dispersarse: la **Villa de los Misterios** con el ciclo de frescos en rojo pompeyano, el **Foro** con el Vesubio al fondo, la **Casa del Fauno**, las **Termas Estabianas**, el **Lupanar**, el **Anfiteatro** (el anfiteatro romano de piedra más antiguo conocido) y los **vaciados**: los huecos que dejaron los cuerpos en la ceniza, rellenados de yeso por Giuseppe Fiorelli en el siglo XIX, que devuelven las posturas exactas en que murió la gente. **Hacen falta gorra, agua y zapatos de verdad**, porque se camina sobre empedrado irregular y la sombra es casi inexistente.
 
 Luego volvimos a Nápoles para la última noche en la ciudad.
+
+**En la práctica:** Circumvesuviana desde Napoli Porta Nolana o Garibaldi, algo menos de media hora hasta Ercolano Scavi y unos cuarenta minutos hasta Pompei Scavi · la entrada de Pompeya es nominativa, con fecha y franja horaria, unos 20 €, y se compra solo en pompeiisites.org o en los vendedores oficiales · Vesubio: entrada solo online en vesuviopark.vivaticket.it, unos 12 €, sin taquilla arriba · con viento fuerte o alerta meteorológica el sendero del Gran Cono cierra: conviene comprobarlo el día antes.
 
 ## Qué ver / qué hacer
 - **El Cristo Velado** en la Capilla Sansevero, reservado con tiempo.

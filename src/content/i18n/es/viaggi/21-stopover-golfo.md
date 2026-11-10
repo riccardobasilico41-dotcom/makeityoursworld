@@ -40,33 +40,43 @@ Para cenar fuimos a los barrios de **Karama o Bur Dubai**: cocina paquistaní e 
 
 Si quedan tiempo y ganas, está el **Burj Khalifa** al atardecer, con la entrada comprada en línea días antes, porque las franjas de la tarde se agotan.
 
+**En la práctica:** metro desde el aeropuerto con la línea roja, que da servicio a las terminales 1 y 3 pero no a la 2, con la tarjeta nol comprada y recargada en las máquinas · abra en el creek a 1 dírham por trayecto · en el zoco del oro el precio se basa en el peso del día, y se regatea sobre la elaboración · Burj Khalifa con entrada en línea días antes para las franjas del atardecer · cena en Karama o Bur Dubai por menos de diez euros.
+
 ### Día 2 — Dubái, el segundo día
 Con 48 horas se sale del circuito.
 
-Por la mañana está **Alserkal Avenue**, el barrio de las galerías de arte hecho con almacenes industriales, lo opuesto a la imagen que se tiene de esta ciudad. O el **Museo del Futuro**, con la caligrafía árabe grabada en la fachada en forma de toro.
+Por la mañana está **Alserkal Avenue**, el barrio de las galerías de arte hecho con los almacenes industriales de **Al Quoz**, lo opuesto a la imagen que se tiene de esta ciudad. O el **Museo del Futuro**, con la caligrafía árabe grabada en la fachada en forma de toro. Conviene moverse temprano, antes de que suba el calor, incluso en invierno. A Alserkal se llega en taxi, porque el metro queda lejos; el Museo del Futuro, en cambio, está en la Sheikh Zayed Road, a pocos pasos de la parada Emirates Towers de la línea roja. *La entrada del museo se compra en línea con fecha y franja horaria, y en temporada alta las franjas pueden agotarse con días de antelación, como las del Burj Khalifa.* Las galerías de Alserkal, en cambio, se recorren libremente en un par de horas, entre exposiciones, cafés y tiendas de diseño.
 
-La tarde y la noche las pasamos en el **desierto**: safari nocturno con dune bashing, cena en un campamento de tiendas y regreso. Hay que tomarlo por lo que es (organizado, sobre dunas modestas a media hora de la ciudad, con otros diez todoterrenos en la misma duna), pero sigue siendo una velada agradable. *El desierto de verdad es otra cosa y está en Liwa: véanse las ampliaciones.*
+La tarde y la noche las pasamos en el **desierto**: safari nocturno con dune bashing, cena en un campamento de tiendas y regreso. Hay que tomarlo por lo que es (organizado, sobre dunas modestas a media hora de la ciudad, con otros diez todoterrenos en la misma duna), pero sigue siendo una velada agradable. Casi todos los safaris salen a primera hora de la tarde, con recogida en el hotel, y vuelven a la ciudad ya entrada la noche. Antes de pagar conviene preguntar qué incluye (cena, bebidas, espectáculo, paseo en camello) y elegir un operador con reseñas recientes. Quien se marea en el coche puede saltarse el dune bashing o sentarse delante. *El desierto de verdad es otra cosa y está en Liwa: véanse las ampliaciones.*
+
+**En la práctica:** Museo del Futuro con entrada en línea con fecha y hora, precio de algunas decenas de euros · Alserkal de entrada libre, pero no todas las galerías abren todos los días: consultar los horarios en la web · safari nocturno con recogida en el hotel, precio muy variable según el operador, reservar con uno o dos días de antelación · para dormir, Deira o Bur Dubai cerca del metro.
 
 ### Día 3 — Abu Dabi, la escala Etihad
 El bloque gratuito: una o dos noches de hotel ofrecidas por Etihad con un billete de ida y vuelta con parada declarada de al menos 24 horas.
 
-La parada que por sí sola justifica la escala es la **Gran Mezquita Sheikh Zayed**, adonde fuimos a última hora de la tarde: mil columnas blancas incrustadas de nácar, la alfombra anudada a mano más grande del mundo y el mármol que con la iluminación nocturna pasa del blanco al rosa y luego al azul. **Entrada gratuita pero con reserva por franja horaria**, y un código de vestimenta que se aplica en serio: brazos y piernas cubiertos para todos, cabeza cubierta para las mujeres. Llegar ya vestido como corresponde ahorra la cola de las abayas prestadas.
+La parada que por sí sola justifica la escala es la **Gran Mezquita Sheikh Zayed**, adonde fuimos a última hora de la tarde: mil columnas blancas incrustadas de nácar, la alfombra anudada a mano más grande del mundo y el mármol que con la iluminación nocturna pasa del blanco al rosa y luego al azul. **Entrada gratuita pero con reserva por franja horaria**, y un código de vestimenta que se aplica en serio: brazos y piernas cubiertos para todos, cabeza cubierta para las mujeres. Llegar ya vestido como corresponde ahorra la cola de las abayas prestadas. La mezquita está entre el aeropuerto y el centro: conviene dejar el equipaje en el hotel y entrar una hora antes del atardecer, para ver el patio con luz de día y después el encendido de las luces.
 
-Por la noche está la **Corniche** o el mercado de pescado de **Al Mina**, donde se elige en el mostrador y te lo cocinan al lado.
+Por la noche está la **Corniche** o el mercado de pescado de **Al Mina**, donde se elige en el mostrador y te lo cocinan al lado. La Corniche es un paseo marítimo de varios kilómetros, con playas, césped y carril bici, agradable sobre todo después de la puesta de sol, cuando las familias salen a pasear. El mercado de pescado está en la zona del puerto, a pocos minutos en taxi del extremo oriental del paseo: se eligen pescado y gambas en el mostrador y un cocinero los prepara a la parrilla o guisados por pocos dírhams (véase «Dónde comimos»). *En Abu Dabi las distancias son grandes y el transporte público poco práctico para quien tiene una sola noche: el taxi con taxímetro es la opción más sencilla.*
+
+**En la práctica:** hotel de la escala Etihad que se reserva unos días antes del vuelo · Gran Mezquita gratuita con franja horaria reservada en la web oficial; los viernes las visitas pasan a después de la oración del mediodía, horarios que hay que comprobar · nada de ropa ceñida o transparente, aunque cubra · taxis entre aeropuerto, mezquita y Corniche, cada trayecto en torno a media hora o menos.
 
 ### Día 4 — Abu Dabi, el Louvre y el desierto
-Mañana o tarde en el **Louvre Abu Dabi**, en la isla de Saadiyat. El edificio vale tanto como la colección: bajo la cúpula de casi ocho mil estrellas metálicas superpuestas cae una luz que se mueve todo el día, y Nouvel la llama lluvia de luz. La colección está ordenada **por época y no por civilización**, así que en la misma sala hay objetos contemporáneos hechos por culturas que no se conocían.
+Mañana o tarde en el **Louvre Abu Dabi**, en la isla de Saadiyat. El edificio vale tanto como la colección: bajo la cúpula de casi ocho mil estrellas metálicas superpuestas cae una luz que se mueve todo el día, y Nouvel la llama lluvia de luz. La colección está ordenada **por época y no por civilización**, así que en la misma sala hay objetos contemporáneos hechos por culturas que no se conocían. Saadiyat está unida al centro por un puente y se llega en taxi en unos veinte minutos desde la Corniche. Para la visita hacen falta al menos dos o tres horas; las últimas de la tarde son las más bonitas bajo la cúpula, cuando la luz entra baja y la plaza sobre el agua se refresca.
 
-Con un día más se va a **Liwa**, a dos horas, en el borde del Rub' al-Khali, el mayor desierto de arena continuo del mundo, con dunas de más de doscientos metros. Es el desierto de verdad, lo opuesto al safari nocturno. O a **Al Ain**, el oasis Patrimonio de la Humanidad de la UNESCO con ciento cuarenta y siete mil palmeras regadas por canales excavados hace dos mil años y que siguen funcionando.
+Con un día más se va a **Liwa**, a dos horas, en el borde del Rub' al-Khali, el mayor desierto de arena continuo del mundo, con dunas de más de doscientos metros. Es el desierto de verdad, lo opuesto al safari nocturno. O a **Al Ain**, el oasis Patrimonio de la Humanidad de la UNESCO con ciento cuarenta y siete mil palmeras regadas por canales excavados hace dos mil años y que siguen funcionando. Los dos piden un día entero con coche de alquiler o con conductor. A Liwa conviene salir muy temprano, evitar las horas centrales en las dunas y quedarse hasta el atardecer, mejor aún con una noche en un campamento (véanse las ampliaciones). *En la arena un coche de alquiler normal no sirve: para subir a las dunas hacen falta un 4x4 y alguien que sepa conducirlo.*
+
+**En la práctica:** Louvre Abu Dabi con entrada en línea, día de cierre semanal y horarios de tarde que hay que comprobar en la web oficial · taxi de la Corniche a Saadiyat unos 20 minutos · Liwa unas 2 horas en coche, Al Ain entre hora y media y dos · para el vuelo siguiente, vuelta al aeropuerto con al menos tres horas de antelación.
 
 ### Día 5 — Doha, la escala de catorce dólares
 El bloque con mejor relación entre coste y rendimiento de todo el Golfo. **Se reserva en el portal Discover Qatar con el código de reserva del vuelo**, no junto con el billete: es el paso que casi nadie conoce.
 
 Desde el aeropuerto, otra vez **metro**: veinte minutos hasta el centro. La primera parada fue el **Museo de Arte Islámico**, que Pei proyectó a los noventa años tras recorrer el mundo musulmán para entender qué era la arquitectura islámica. Desde la escalinata exterior, al atardecer, se ve el skyline de West Bay al otro lado del agua.
 
-Por la noche, el **Souq Waqif**, restaurado pero convertido en un mercado de verdad. Lo que desconcierta es el ala de los halcones: filas de rapaces encapuchadas en las perchas a la espera de ser compradas y, al lado, un **hospital veterinario para halcones** visitable, con la sala de espera donde los propietarios se sientan con el ave en el guante. Se entra y se mira, sin entrada.
+Por la noche, el **Souq Waqif**, restaurado pero que sigue siendo un mercado de verdad. Lo que desconcierta es el ala de los halcones: filas de rapaces encapuchadas en las perchas a la espera de ser compradas y, al lado, un **hospital veterinario para halcones** visitable, con la sala de espera donde los propietarios se sientan con el ave en el guante. Se entra y se mira, sin entrada.
 
 Cenamos en el zoco, con el **karak chai** de los quioscos: el té con leche especiado que aquí se bebe a todas horas y cuesta pocos céntimos.
+
+**En la práctica:** escala que se reserva en Discover Qatar con el código de reserva del vuelo · metro, línea roja, del aeropuerto Hamad al centro en unos 20 minutos · Museo de Arte Islámico con entrada para no residentes, día de cierre y horarios que hay que comprobar en la web de Qatar Museums · hospital de halcones sin entrada, pero con horario de apertura limitado: preguntar allí · Souq Waqif más animado por la noche, karak chai por pocos céntimos.
 
 ### Día 6 — Doha, el mar interior
 La jornada que casi nadie hace, y es el motivo para alargar la escala un día.
@@ -77,6 +87,8 @@ La jornada que casi nadie hace, y es el motivo para alargar la escala un día.
 
 *Como alternativa, el norte: el fuerte de Al Zubarah, Patrimonio de la Humanidad de la UNESCO, el pueblo de pescadores abandonado de Al Jumail y las cuatro placas de acero de Richard Serra, de catorce metros de altura, plantadas en el desierto de Brouq, sin aparcamiento, sin entrada y sin nadie.*
 
+**En la práctica:** Khor Al Adaid a hora y media de Doha, solo en 4x4 con conductor, reservado con un operador; el precio es por coche, así que conviene compartirlo · salir a primera hora de la tarde para quedarse hasta el atardecer · agua, crema solar y una capa de abrigo para la noche · para el norte, coche de alquiler y un día entero, con el último tramo hacia las placas de Serra por pista de tierra.
+
 ### Día 7 — Yeda, la escala saudí
 Un bloque distinto de todos los demás: aquí no se ahorra el hotel, se ahorra **el visado**. Volando con Saudia o flynas se solicita en línea el **visado de escala gratuito**, válido hasta 4 días, en lugar del visado turístico de unos 130 euros.
 
@@ -85,6 +97,8 @@ Un bloque distinto de todos los demás: aquí no se ahorra el hotel, se ahorra *
 Por la noche fuimos a la **Corniche**, que los jueves es el momento social de la ciudad: familias con alfombras extendidas en el césped, barbacoas encendidas, niños que juegan hasta medianoche. Allí es donde mejor se entiende qué país es este.
 
 *Con cuatro días de visado de escala se llega también a **AlUla**, con un vuelo interno: dos días en Yeda y dos en Hegra son la forma más económica del mundo de ver una ciudad nabatea sin nadie delante.*
+
+**En la práctica:** visado de escala gratuito solo volando con Saudia o flynas, se solicita en línea tras comprar el billete, hasta 4 días · Al-Balad a pie en la última hora de luz, con calzado cómodo y ropa que cubra · Corniche el jueves por la noche, cuando empieza el fin de semana saudí · nada de alcohol en todo el Reino · para AlUla, vuelo interno reservado según las fechas del visado.
 
 ## Qué ver / qué hacer
 - **Entender qué programa se tiene en la mano antes de reservar.** Dubai Connect es una compensación, los demás son elecciones.

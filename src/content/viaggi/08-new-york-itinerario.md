@@ -21,7 +21,11 @@ New York si vive a passo svelto, e in sei giorni l'ho attraversata a piedi per 1
 
 ## Itinerario giorno per giorno
 ### Giorno 1 (07.09) — Arrivo, Times Square
+Da **JFK** a Manhattan ci sono tre soluzioni: il taxi giallo a tariffa fissa, Uber o Lyft, oppure l'**AirTrain** fino a Jamaica e poi la metro o il treno LIRR, la più economica ma anche la più scomoda con le valigie. Da **Newark** c'è il treno NJ Transit fino a Penn Station. I voli dall'Italia atterrano di solito nel primo pomeriggio, e con sei ore di fuso indietro la stanchezza arriva presto: il primo giorno va lasciato leggero, senza nulla di prenotato a orario fisso. *Conviene restare svegli fino a sera, per sistemare subito il ritmo del sonno.*
+
 Siamo arrivati, abbiamo lasciato le valigie al Paramount Hotel, al 235 W 46th St, e la prima cena è stata da **Shake Shack**. Prima di uscire conviene prenotare il **Top of the Rock**, l'osservatorio del Rockefeller Center, per i giorni seguenti. Poi la passeggiata a **Times Square**: di notte, con le luci e i cartelloni, l'impatto è quasi d'obbligo la prima sera. Abbiamo chiuso al Magic Hour Bar.
+
+**In pratica:** taxi giallo da JFK a Manhattan a tariffa fissa di circa 70 $, più pedaggi, supplementi e mancia, 45-75 minuti secondo il traffico · AirTrain circa 8,75 $ più la metro a 3 $, si paga con la carta contactless ai tornelli (OMNY) · il Paramount è a due passi da Times Square, la prima sera si fa tutto a piedi · Top of the Rock con biglietto a orario: le fasce del tramonto finiscono per prime · a Times Square i personaggi in costume chiedono soldi per le foto.
 
 ### Giorno 2 (08.09) — Harlem, Central Park, Empire State Building
 Per la colazione si può scegliere tra Le Pain Quotidien, comodo per la metro, The Monkey Cup ad Harlem e Junior's, per la cheesecake, che ha più sedi in città, tra cui 49th/45th street e Brooklyn.
@@ -30,10 +34,14 @@ La mattina l'abbiamo passata ad Harlem, con la messa gospel alla Bethel Gospel A
 
 Per pranzo ci sono gli hot dog economici di **Gray's Papaya**, un classico newyorkese, o il brunch da Andrew NYC Diner, zona Madison Square Garden. Il pomeriggio siamo stati a **Central Park** in bici: siamo arrivati con l'autobus M1 davanti al Met, per la foto classica sulla scalinata, e da lì siamo entrati nel parco fino a Strawberry Fields. Cena da **Kesté**, pizza napoletana, e a tarda sera la salita all'**Empire State Building**.
 
+**In pratica:** le messe gospel di Harlem sono soprattutto la domenica mattina, i posti per i visitatori sono limitati: arrivare con largo anticipo, vestiti sobri e niente foto durante la funzione · da Midtown a Harlem in metro circa mezz'ora · bici a Central Park a noleggio orario o con Citi Bike, da riconsegnare entro il tempo incluso nella corsa · Empire State Building circa 45-50 $ per l'86° piano, di più per il 102°, aperto fino a tarda sera.
+
 ### Giorno 3 (09.09) — Cattedrale, MoMA, High Line, The Vessel
 Presto siamo passati dal **Rockefeller Center** per arrivare alla **Cattedrale di San Patrizio**. Poi il **MoMA**, con ingresso principale all'11 West 53rd Street: circa due ore, dando la precedenza al quarto e al quinto piano, dove si concentrano le opere più famose. *Conviene scaricare prima l'app Bloomberg Connects, per mappa e audioguida, disponibili solo online.*
 
 A pranzo c'è da scegliere qualcosa di veloce tra Shake Shack Midtown East, Five Guys e McDonald's, oppure il **Chelsea Market**. Nel primo pomeriggio abbiamo percorso la **High Line**, circa un miglio e mezzo a piedi, fino a **The Vessel**: un'ora e mezza o due in tutto. Dopo si può salire su **Edge** o su **Summit**, gli osservatori di Hudson Yards, oppure andare alla Grand Central Station e alla Public Library. La cena è stata da **Ellen's Stardust Diner**, dove i camerieri cantano.
+
+**In pratica:** MoMA biglietto online con orario, conviene entrare all'apertura · High Line gratuita, aperta dalla mattina alla sera, con accessi lungo tutto il percorso · The Vessel si sale solo con biglietto a orario · Edge e Summit costano qualche decina di dollari e la fascia del tramonto è la più cara: un solo osservatorio a Hudson Yards basta, visto che in programma ci sono già Empire e Top of the Rock.
 
 ### Giorno 4 (10.09) — Statua della Libertà, Wall Street, Chinatown, Broadway
 In mattinata il traghetto prenotato ci ha portati alla **Statua della Libertà**, vista dal basso, e a **Ellis Island**, con il museo dell'immigrazione. Nel primo pomeriggio siamo tornati a Manhattan per pranzo. Le opzioni: Liberty Bagels, Me La Wa (spesso con la fila) o Uncle Lo a Chinatown, oppure Prince Street Pizza a SoHo, famosa per la pepperoni pizza all'americana.
@@ -42,6 +50,8 @@ Poi **Wall Street**: il Charging Bull, la Borsa, la Trinity Church, Zuccotti Par
 
 Il tramonto si guarda dal Time Out Market o dal Darling Rooftop, con vista su Central Park. La sera, un **musical a Broadway**.
 
+**In pratica:** l'unico venditore ufficiale dei traghetti è Statue City Cruises, da Battery Park, circa 25 $ con Ellis Island incluso · piedistallo e corona sono a numero chiuso e vanno prenotati con settimane di anticipo · prima dell'imbarco ci sono controlli tipo aeroporto: arrivare almeno mezz'ora prima del turno · musical: i titoli più richiesti si prenotano prima, per gli altri c'è il botteghino TKTS a Times Square con sconti in giornata · a Chinatown alcuni locali accettano solo contanti.
+
 ### Giorno 5 (11.09) — Ground Zero, DUMBO, Top of the Rock
 L'11 settembre, a **Ground Zero**, c'è la cerimonia di commemorazione, se le date coincidono; poi, volendo, il **9/11 Museum** e **The Oculus**. Pranzo con i panini di **Pisillo**.
 
@@ -49,8 +59,16 @@ Il pomeriggio l'abbiamo passato a **DUMBO**, a Brooklyn: l'incrocio tra Water St
 
 Con il tempo che resta: la New York Public Library, la Quinta Avenue, Macy's, il Plaza, la Trump Tower, il Rockefeller Center. Il tramonto l'abbiamo visto dal **Top of the Rock**. L'ultima sera è cominciata da Virgil's BBQ, è continuata al 230 Rooftop ed è finita con un giro in limousine a Times Square.
 
+**In pratica:** il Memorial è gratuito, il 9/11 Museum costa qualche decina di dollari con biglietto a orario · l'11 settembre la mattina il Memorial è riservato ai familiari per la cerimonia e apre al pubblico più tardi: controllare gli orari del giorno · per DUMBO metro F fino a York Street o A/C fino a High Street · il Brooklyn Bridge a piedi richiede 30-40 minuti, più bello in direzione di Manhattan · Top of the Rock al tramonto da prenotare giorni prima.
+
 ### Giorno 6 (12.09) — Rientro
 Check-out e saluti.
+
+I voli per l'Europa da JFK e Newark partono quasi tutti nel tardo pomeriggio o la sera, quindi l'ultimo giorno resta mezza giornata. Il check-out è di solito a mezzogiorno e gli hotel di Midtown tengono le valigie in deposito, così la mattina si può usare per quello che è rimasto fuori dalla lista: una colazione in un diner, un giro a **Bryant Park** e nella **Grand Central Terminal**, gli ultimi acquisti sulla Quinta Avenue.
+
+Per l'aeroporto conviene partire con largo margine: nel pomeriggio il traffico verso JFK può raddoppiare i tempi, e chi ha valigie pesanti trova più comodi il taxi o un'auto con app che l'AirTrain. *I controlli di sicurezza negli aeroporti di New York possono richiedere più di un'ora: per un volo intercontinentale meglio essere al terminal tre ore prima.* I souvenir liquidi, come sciroppo d'acero o bottiglie, vanno nel bagaglio da stiva.
+
+**In pratica:** check-out di solito a mezzogiorno, deposito bagagli gratuito o con una piccola mancia · da Midtown a JFK in taxi circa un'ora, di più nell'ora di punta, con tariffa fissa di circa 70 $ più pedaggi e mancia · in alternativa AirTrain più metro o LIRR · essere al terminal tre ore prima del volo.
 
 ## Sport dal vivo: una partita di baseball e una di basket
 A settembre si possono unire due sport diversi nello stesso viaggio:

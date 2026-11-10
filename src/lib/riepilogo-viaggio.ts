@@ -2,6 +2,8 @@ import type { Viaggio } from '@/lib/viaggi'
 import type { TripMeta } from '@/lib/types'
 import { getAllDestinazioni, getAllPaesi, getPaese } from '@/lib/geo'
 import type { Lingua } from '@/lib/i18n/config'
+import { mesiConsigliatiDelViaggio } from '@/lib/viaggi-filtri'
+import { NOMI_MESI } from '@/lib/viaggi-filtri-stato'
 
 /*
  * Dati del riepilogo in cima all'articolo di viaggio. Tutto viene da quello che
@@ -107,12 +109,31 @@ function paesiDelViaggio(viaggio: Viaggio, meta: TripMeta, lingua: Lingua): stri
 export type DatiRiepilogo = {
   durata?: string
   quando?: string
+  /** true quando manca la data vera del viaggio e «quando» è il periodo migliore per andarci. */
+  quandoMigliore?: boolean
   budget?: string
   ritmo?: string
   muoversi?: string
   tappe?: string
   conChi?: string
   adattoA?: string
+}
+
+/** Mesi consigliati in intervalli leggibili: [4,5,6,9,10] → «aprile-giugno, settembre-ottobre». */
+function intervalliMesi(mesi: number[], lingua: Lingua): string | undefined {
+  const m = [...new Set(mesi)].filter((x) => x >= 1 && x <= 12).sort((a, b) => a - b)
+  if (!m.length) return undefined
+  if (m.length === 12) return { it: 'tutto l\'anno', en: 'all year round', es: 'todo el año' }[lingua]
+  const gruppi: number[][] = []
+  for (const x of m) {
+    const g = gruppi[gruppi.length - 1]
+    if (g && x === g[g.length - 1] + 1) g.push(x)
+    else gruppi.push([x])
+  }
+  // dicembre-gennaio: unisce l'ultimo gruppo al primo se l'anno «gira»
+  if (gruppi.length > 1 && gruppi[0][0] === 1 && gruppi[gruppi.length - 1].at(-1) === 12) gruppi.unshift([...gruppi.pop()!, ...gruppi.shift()!])
+  const nomi = NOMI_MESI[lingua]
+  return gruppi.map((g) => (g.length === 1 ? nomi[g[0] - 1] : `${nomi[g[0] - 1]}-${nomi[g[g.length - 1] - 1]}`)).join(', ')
 }
 
 const maiuscola = (t?: string) => (t ? t.charAt(0).toUpperCase() + t.slice(1) : undefined)
@@ -142,7 +163,8 @@ export function datiRiepilogo(viaggio: Viaggio, meta: TripMeta, lingua: Lingua):
   const quando =
     fatto && ideale && eUnaData && !ideale.toLowerCase().includes(fatto.toLowerCase())
       ? `${fatto} (${t.ilMioViaggio}) · ${t.consigliato}: ${ideale.charAt(0).toLowerCase()}${ideale.slice(1)}`
-      : fatto || ideale
+      : fatto || ideale || intervalliMesi(mesiConsigliatiDelViaggio(viaggio.slug), lingua)
+  const quandoMigliore = !fatto
 
   const totale = meta.budget.find((v) => /^(totale|total)$/i.test(v.etichetta.trim()))?.valore
   // dalla Scheda pratica vale solo una cifra: «gestito dal DMC» non è un budget
@@ -169,6 +191,7 @@ export function datiRiepilogo(viaggio: Viaggio, meta: TripMeta, lingua: Lingua):
   return {
     durata: maiuscola(viaggio.durataBreve),
     quando: maiuscola(quando),
+    quandoMigliore,
     budget,
     ritmo: breve(meta.ritmo, 90),
     muoversi,

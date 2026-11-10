@@ -62,161 +62,137 @@ La California però va organizzata. I parchi più famosi dal 2026 fanno pagare a
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a San Francisco
-Siamo atterrati a **SFO** e siamo andati in centro con la metro **BART**, in mezz'ora. Nei primi tre giorni l'auto non serve: costa solo in parcheggi e rischio furti, e si ritira il giorno della partenza per Yosemite. La sera, per il primo contatto con la città, abbiamo cenato a **North Beach**, il quartiere italiano, o a **Chinatown**, la più antica del Nord America.
+Siamo atterrati a **SFO** e siamo andati in centro con la metro **BART**, in mezz'ora. Nei primi tre giorni l'auto non serve: costa solo in parcheggi e rischio furti, e si ritira il giorno della partenza per Yosemite. Come base in città conviene una zona centrale e ben collegata, come Union Square, North Beach o il Financial District, evitando il Tenderloin, a pochi isolati da Union Square, dove la sera è meglio non passeggiare. Il primo pomeriggio va preso con calma: dopo il volo lungo basta sistemarsi e fare due passi.
 
-**In pratica**
-- BART aeroporto-centro: circa 10-12 $, 30 minuti
-- Carta Clipper o app per tram, funicolari e bus
-- Fuso orario: 9 ore indietro rispetto all'Italia, meglio restare svegli fino a sera
+La sera, per il primo contatto con la città, abbiamo cenato a **North Beach**, il quartiere italiano, o a **Chinatown**, la più antica del Nord America. Le due zone sono una accanto all'altra: si entra a Chinatown dalla **Dragon Gate** su Grant Avenue e in pochi minuti a piedi si arriva tra i caffè e le pizzerie di North Beach, con la libreria City Lights, legata agli scrittori della Beat Generation. *Il primo giorno conviene restare svegli fino a sera e cenare presto: è il modo più rapido per smaltire il fuso.*
+
+**In pratica:** BART aeroporto-centro circa 10-12 $, 30 minuti · carta Clipper o app per tram, funicolari e bus · fuso orario: 9 ore indietro rispetto all'Italia, meglio restare svegli fino a sera.
 
 ### Giorno 2 — San Francisco: il Golden Gate, il Presidio e Alcatraz
-La mattina abbiamo attraversato il **Golden Gate Bridge** a piedi o in bicicletta a noleggio, partendo dal **Presidio**, fino a **Sausalito** dall'altra parte, con il ritorno in traghetto. Le viste migliori sul ponte sono da **Battery Spencer**, sul lato di Marin, e dalla spiaggia di **Baker Beach**. D'estate la mattina la nebbia può coprirlo tutto: le ore migliori sono quelle centrali.
+La mattina abbiamo attraversato il **Golden Gate Bridge** a piedi o in bicicletta a noleggio, partendo dal **Presidio**, fino a **Sausalito** dall'altra parte, con il ritorno in traghetto. Il ponte è lungo quasi tre chilometri, e a piedi si attraversa in meno di un'ora; in bici il giro fino a Sausalito, tutto su piste e strade poco trafficate, prende un paio d'ore con le soste. Le viste migliori sul ponte sono da **Battery Spencer**, sul lato di Marin, e dalla spiaggia di **Baker Beach**. D'estate la mattina la nebbia può coprirlo tutto: le ore migliori sono quelle centrali.
 
-Il pomeriggio abbiamo preso il traghetto per **Alcatraz**, il carcere sull'isola, con l'audioguida raccontata dagli ex detenuti e dalle guardie. I biglietti si esauriscono settimane prima e si comprano solo sul sito dell'operatore ufficiale.
+Il pomeriggio abbiamo preso il traghetto per **Alcatraz**, il carcere sull'isola, con l'audioguida raccontata dagli ex detenuti e dalle guardie. I traghetti partono dal **Pier 33**, vicino a Fisherman's Wharf, e la visita, tra traversata, salita alla prigione e audioguida, richiede due ore e mezza-tre. I biglietti si esauriscono settimane prima e si comprano solo sul sito dell'operatore ufficiale. *Sul ponte e sull'isola tira quasi sempre vento freddo: anche d'estate serve una giacca.*
 
-**In pratica**
-- Bicicletta a noleggio: indicativamente 30-50 $ al giorno
-- Traghetto Sausalito-San Francisco: indicativamente 15 $
-- Alcatraz circa 48 $ (Day Tour, City Experiences), prenotazione settimane prima
+**In pratica:** bicicletta a noleggio indicativamente 30-50 $ al giorno · traghetto Sausalito-San Francisco indicativamente 15 $ · Alcatraz circa 48 $ (Day Tour, City Experiences), prenotazione settimane prima · i siti che rivendono Alcatraz a prezzi più alti non sono quello ufficiale.
 
 ### Giorno 3 — San Francisco: i quartieri e Muir Woods
-Mattina a **Muir Woods**, la foresta di sequoie costiere a mezz'ora a nord del ponte, con parcheggio o navetta da prenotare in anticipo; oppure in città, a seconda di dove si preferisce mettere la giornata. Poi i quartieri: i murales di **Mission** e un burrito per pranzo, le case vittoriane di **Alamo Square**, **Castro**, la **funicolare Powell-Hyde** fino a Lombard Street e Fisherman's Wharf, il tramonto da **Lands End**.
+Mattina a **Muir Woods**, la foresta di sequoie costiere a mezz'ora a nord del ponte, con parcheggio o navetta da prenotare in anticipo; oppure in città, a seconda di dove si preferisce mettere la giornata. Il sentiero principale è una passerella pianeggiante lungo il torrente, tra alberi alti più di settanta metri; la **Cathedral Grove** è una zona del silenzio, dove si cammina senza parlare. All'apertura c'è meno gente e la luce filtra meglio tra i tronchi.
 
-**In pratica**
-- Muir Woods: ingresso 15 $ a persona (coperto dal pass annuale) più prenotazione del parcheggio o della navetta su gomuirwoods.com
-- Funicolare: 9 $ a corsa
-- Ritiro dell'auto la sera o domattina presto
+Poi i quartieri: i murales di **Mission**, tra Balmy Alley e Clarion Alley, e un burrito per pranzo, le case vittoriane di **Alamo Square**, **Castro**, la **funicolare Powell-Hyde** fino a Lombard Street e Fisherman's Wharf, il tramonto da **Lands End**, il sentiero sulla scogliera con le rovine dei bagni Sutro e la vista sul Golden Gate. *Al capolinea della funicolare di Powell Street la coda può durare a lungo: salendo a una fermata successiva si aspetta meno.*
+
+**In pratica:** Muir Woods ingresso 15 $ a persona (coperto dal pass annuale) più prenotazione del parcheggio o della navetta su gomuirwoods.com · funicolare 9 $ a corsa · ritiro dell'auto la sera o domattina presto.
 
 ### Giorno 4 — Da San Francisco a Yosemite
-Abbiamo ritirato l'auto e siamo partiti verso est: tre ore e mezza-quattro fino all'ingresso di **Big Oak Flat** di Yosemite, attraversando la Central Valley. L'arrivo nella valle passa da **Tunnel View**, il belvedere con El Capitan a sinistra, la cascata di **Bridalveil Fall** a destra e l'**Half Dome** in fondo: ci siamo arrivati nel pomeriggio, con la luce migliore. Il pass annuale si compra all'ingresso o online prima di partire.
+Abbiamo ritirato l'auto e siamo partiti verso est: tre ore e mezza-quattro fino all'ingresso di **Big Oak Flat** di Yosemite, attraversando la Central Valley. Conviene uscire da San Francisco presto, prima del traffico della baia, e fermarsi per la spesa e il pieno nelle cittadine prima delle montagne: dopo **Groveland** i servizi diventano pochi. Il pass annuale si compra all'ingresso o online prima di partire, e copre anche il supplemento di 100 $ a persona che dal 2026 i visitatori stranieri pagano a Yosemite.
 
-**In pratica**
-- San Francisco-Yosemite Valley: 3,5-4 ore, traffico pesante in uscita dalla baia il venerdì
-- Pass annuale per non residenti: 250 $
-- Spesa al supermercato prima di entrare: dentro il parco costa molto di più
+L'arrivo nella valle passa da **Tunnel View**, il belvedere con El Capitan a sinistra, la cascata di **Bridalveil Fall** a destra e l'**Half Dome** in fondo: ci siamo arrivati nel pomeriggio, con la luce migliore. *Nel 2026 non serve la prenotazione d'ingresso, ma nei giorni di punta il parco devia il traffico quando i parcheggi sono pieni: arrivare dopo le 17 aiuta.* Chi non ha trovato posto nei lodge della valle dorme fuori parco, a 30-60 minuti di strada.
+
+**In pratica:** San Francisco-Yosemite Valley 3,5-4 ore, traffico pesante in uscita dalla baia il venerdì · pass annuale per non residenti 250 $, che copre ingressi e supplementi · spesa al supermercato prima di entrare: dentro il parco costa molto di più · agli ingressi di Yosemite si paga solo con carta.
 
 ### Giorno 5 — Yosemite Valley: il Mist Trail e le cascate
 Siamo partiti presto, prima delle 8, per trovare parcheggio. Il **Mist Trail** sale lungo il fiume Merced fino alla **cascata Vernal** e, per chi ha gambe, alla **cascata Nevada**: tra maggio e giugno il sentiero passa proprio sotto la nebulizzazione dell'acqua, e servono giacca impermeabile e scarpe che tengano sulla roccia bagnata. Sono circa 5 km andata e ritorno per la Vernal, 11 per la Nevada, con 600 metri di dislivello.
 
 Il pomeriggio abbiamo girato a piedi o in bicicletta i prati della valle, con le **Yosemite Falls** e El Capitan, dove con il binocolo si vedono gli arrampicatori sulle pareti. Al tramonto siamo tornati a Tunnel View o al **Valley View**.
 
-**In pratica**
-- Mist Trail: 3-6 ore secondo la meta, acqua e strati
-- Navette gratuite della valle per non spostare l'auto
-- Cibo nei contenitori antiorso, mai in auto la notte
+**In pratica:** Mist Trail 3-6 ore secondo la meta, acqua e strati · navette gratuite della valle per non spostare l'auto · cibo nei contenitori antiorso, mai in auto la notte.
 
 ### Giorno 6 — Yosemite: Glacier Point e Mariposa Grove
 La strada per **Glacier Point**, aperta indicativamente da fine maggio a novembre, sale a 2.200 metri sopra la valle con la vista frontale sull'Half Dome e le cascate. Siamo scesi poi verso sud fino a **Mariposa Grove**, il bosco di sequoie giganti all'ingresso meridionale, con il **Grizzly Giant** e una passeggiata di un paio d'ore. Si esce dal parco da sud e si dorme a **Oakhurst** o a **Fish Camp**, già sulla strada per Sequoia.
 
 Chi viaggia in estate con la **Tioga Road** aperta può valutare il percorso alternativo verso est, descritto nelle varianti, che porta a Mono Lake e Death Valley lasciando Sequoia fuori.
 
-**In pratica**
-- Glacier Point: circa 1 ora di auto dalla valle
-- Mariposa Grove: navetta dal parcheggio di ingresso, sentiero di 3-11 km
-- Oakhurst ha supermercati e distributori più economici
+**In pratica:** Glacier Point circa 1 ora di auto dalla valle · Mariposa Grove con navetta dal parcheggio di ingresso, sentiero di 3-11 km · Oakhurst ha supermercati e distributori più economici.
 
 ### Giorno 7 — Da Yosemite a Sequoia
-Tre ore e mezza-quattro di strada verso sud, passando per **Fresno**, fino all'ingresso del **Kings Canyon**. Abbiamo cominciato dal **General Grant Grove**, con il secondo albero più grande del mondo, e, se la stagione lo consente, si scende lungo la **Kings Canyon Scenic Byway** in una gola glaciale profonda quanto Yosemite e molto meno frequentata. La notte nel **Wuksachi Lodge** o in un lodge della zona.
+Tre ore e mezza-quattro di strada verso sud, passando per **Fresno**, fino all'ingresso del **Kings Canyon**. Il tratto da Oakhurst a Fresno è veloce, poi la statale 180 risale dalla pianura agricola alla Sierra in poco più di un'ora. Abbiamo cominciato dal **General Grant Grove**, con il secondo albero più grande del mondo, che negli Stati Uniti chiamano l'albero di Natale della nazione: un anello asfaltato di meno di un chilometro gira intorno al tronco e alle sequoie vicine.
 
-**In pratica**
-- Oakhurst-Grant Grove: circa 2,5-3 ore
-- Kings Canyon Scenic Byway: aperta indicativamente da fine aprile-maggio a novembre, circa 1 ora per tratta fino a Road's End
-- Pieno a Fresno: nei parchi il carburante è quasi assente
+Se la stagione lo consente, si scende lungo la **Kings Canyon Scenic Byway** in una gola glaciale profonda quanto Yosemite e molto meno frequentata, con le soste alle Grizzly Falls e alla fine della strada, Road's End, dove il sentiero piano di Zumwalt Meadow costeggia il fiume sotto le pareti di granito. *Andata e ritorno sono due ore di auto: conviene partire entro mezzogiorno per rientrare con la luce.* La notte nel **Wuksachi Lodge** o in un lodge della zona.
+
+**In pratica:** Oakhurst-Grant Grove circa 2,5-3 ore · Sequoia e Kings Canyon 35 $ per auto più il supplemento di 100 $ a persona per gli stranieri, entrambi coperti dal pass annuale · Kings Canyon Scenic Byway aperta indicativamente da fine aprile-maggio a novembre, circa 1 ora per tratta fino a Road's End · pieno a Fresno: nei parchi il carburante è quasi assente.
 
 ### Giorno 8 — Sequoia: il General Sherman e Moro Rock
-Abbiamo passato la giornata nella **Giant Forest**. Il **General Sherman**, la sequoia più voluminosa della Terra, con oltre 2.000 anni, si raggiunge con un sentiero breve dal parcheggio; da lì il **Congress Trail** gira tra decine di sequoie giganti in un'ora e mezza. Poi **Moro Rock**, una cupola di granito con 350 gradini scavati fino alla cima e la vista sulla Sierra e sulla valle. Il pomeriggio siamo scesi dalla **Generals Highway**, molto tortuosa, fino all'uscita sud di **Three Rivers**.
+Abbiamo passato la giornata nella **Giant Forest**. Il **General Sherman**, la sequoia più voluminosa della Terra, con oltre 2.000 anni, si raggiunge con un sentiero breve dal parcheggio; da lì il **Congress Trail** gira tra decine di sequoie giganti in un'ora e mezza. Conviene essere al General Sherman prima delle 9, quando i parcheggi sono ancora liberi; in estate le navette del parco collegano i punti principali della Giant Forest e permettono di lasciare l'auto. Il Giant Forest Museum, lungo la strada, spiega come vivono e come resistono al fuoco questi alberi.
 
-**In pratica**
-- Congress Trail: circa 5 km ad anello, facile
-- Moro Rock: 30-45 minuti andata e ritorno, sconsigliato con il temporale
-- Generals Highway: circa 1,5 ore dalla Giant Forest a Three Rivers, tornanti stretti
+Poi **Moro Rock**, una cupola di granito con 350 gradini scavati fino alla cima e la vista sulla Sierra e sulla valle. Poco oltre, sulla stessa strada, c'è il **Tunnel Log**, una sequoia caduta in cui è stato scavato un passaggio per le auto, e il prato di Crescent Meadow. Il pomeriggio siamo scesi dalla **Generals Highway**, molto tortuosa, fino all'uscita sud di **Three Rivers**, dove si dorme. *La discesa perde quasi duemila metri di quota in poche decine di chilometri: freni dolci e marce basse.*
+
+**In pratica:** Congress Trail circa 5 km ad anello, facile · Moro Rock 30-45 minuti andata e ritorno, sconsigliato con il temporale · Generals Highway circa 1,5 ore dalla Giant Forest a Three Rivers, tornanti stretti · a Three Rivers motel e ristoranti, più economici che dentro il parco.
 
 ### Giorno 9 — Verso la Death Valley
-Giornata di strada, cinque-sei ore, dalla Sierra al deserto: abbiamo aggirato la catena da sud passando per **Lake Isabella** e **Ridgecrest**, fino all'ingresso ovest della Death Valley a **Panamint Springs**. Il paesaggio cambia del tutto nell'ultima ora. Siamo arrivati a **Stovepipe Wells** per il tramonto sulle **dune di Mesquite Flat**, con la luce radente che ne disegna le creste.
+Giornata di strada, cinque-sei ore, dalla Sierra al deserto: abbiamo aggirato la catena da sud passando per **Lake Isabella** e **Ridgecrest**, fino all'ingresso ovest della Death Valley a **Panamint Springs**. La prima parte risale il canyon del fiume Kern, stretto e pieno di curve; dopo Ridgecrest la strada si apre su altipiani vuoti. Il paesaggio cambia del tutto nell'ultima ora, con la discesa dentro la valle di Panamint e poi la salita al passo di Towne prima di scendere verso Stovepipe Wells.
 
-**In pratica**
-- Three Rivers-Stovepipe Wells: circa 5-6 ore
-- Pieno a Ridgecrest e 4 litri d'acqua a testa in auto
-- Ingresso Death Valley: 30 $ per auto, coperto dal pass annuale
+Siamo arrivati a **Stovepipe Wells** per il tramonto sulle **dune di Mesquite Flat**, con la luce radente che ne disegna le creste. Il parcheggio è sulla statale, e si cammina sulla sabbia quanto si vuole, senza sentiero: basta tenere d'occhio la direzione dell'auto. *Anche al tramonto la sabbia resta calda per ore: scarpe chiuse, niente sandali.* Stovepipe Wells ha un hotel, un emporio e un distributore, ed è comoda per l'alba del giorno dopo.
+
+**In pratica:** Three Rivers-Stovepipe Wells circa 5-6 ore · pieno a Ridgecrest e 4 litri d'acqua a testa in auto · ingresso Death Valley 30 $ per auto, coperto dal pass annuale · in buona parte del parco il telefono non prende: mappe scaricate prima.
 
 ### Giorno 10 — Death Valley: Badwater, Artists Drive e Zabriskie Point
-L'alba l'abbiamo vista a **Zabriskie Point**, quando le colline di argilla gialla e bruna si accendono. Poi verso sud: il **Golden Canyon** a piedi nelle ore fresche, l'**Artists Drive** con le pareti colorate dai minerali, e **Badwater Basin**, la distesa di sale a 86 metri sotto il livello del mare, il punto più basso del Nord America. Nelle ore calde ci siamo fermati a **Furnace Creek**, al visitor center. Il tramonto si vede da **Dante's View**, 1.700 metri più in alto di Badwater.
+L'alba l'abbiamo vista a **Zabriskie Point**, quando le colline di argilla gialla e bruna si accendono. Poi verso sud: il **Golden Canyon** a piedi nelle ore fresche, l'**Artists Drive** con le pareti colorate dai minerali, e **Badwater Basin**, la distesa di sale a 86 metri sotto il livello del mare, il punto più basso del Nord America. Dal parcheggio di Badwater si cammina sulla crosta bianca fino a dove il sale forma le celle esagonali, a una ventina di minuti; lungo la strada c'è anche il **Devil's Golf Course**, un campo di cristalli di sale taglienti. L'Artists Drive è a senso unico e conviene percorrerlo nel pomeriggio, quando il sole illumina l'Artists Palette.
 
-**In pratica**
-- Da maggio a settembre niente camminate dopo le 10
-- Dante's View: 40 minuti da Furnace Creek, ultimo tratto ripido
-- Di notte il parco è uno dei cieli più scuri degli Stati Uniti
+Nelle ore calde ci siamo fermati a **Furnace Creek**, al visitor center, dove una piccola esposizione racconta il clima della valle, che detiene il record della temperatura dell'aria più alta mai misurata. Il tramonto si vede da **Dante's View**, 1.700 metri più in alto di Badwater. *D'estate, in caso di guasto, si resta in auto e si aspetta: chi si allontana a piedi in cerca di aiuto rischia la vita.*
+
+**In pratica:** da maggio a settembre niente camminate dopo le 10 · Dante's View 40 minuti da Furnace Creek, ultimo tratto ripido · di notte il parco è uno dei cieli più scuri degli Stati Uniti · pieno a Furnace Creek o a Stovepipe Wells, cari ma gli unici in zona.
 
 ### Giorno 11 — Dalla Death Valley a Joshua Tree
-Abbiamo attraversato il **deserto del Mojave** verso sud-est, quattro-cinque ore. Chi ha tempo esce dalla Death Valley verso **Shoshone** e **Baker**, poi prende un tratto della storica **Route 66** tra **Amboy**, con il suo vecchio motel e la stazione di servizio, e **Twentynine Palms**, alle porte di Joshua Tree. È una giornata di strade dritte e paesi quasi vuoti, la parte di California che i film hanno reso famosa.
+Abbiamo attraversato il **deserto del Mojave** verso sud-est, quattro-cinque ore. Chi ha tempo esce dalla Death Valley verso **Shoshone** e **Baker**, il paese del grande termometro sull'autostrada, poi attraversa la riserva del Mojave e prende un tratto della storica **Route 66** tra **Amboy**, con il suo vecchio motel e la stazione di servizio, e **Twentynine Palms**, alle porte di Joshua Tree. Vicino ad Amboy c'è anche un cratere vulcanico spento, visibile dalla strada.
 
-**In pratica**
-- Furnace Creek-Twentynine Palms via Amboy: circa 4,5-5 ore
-- Pochi distributori sulla Route 66: pieno a Baker
-- Base a Twentynine Palms, Joshua Tree o Yucca Valley
+È una giornata di strade dritte e paesi quasi vuoti, la parte di California che i film hanno reso famosa. Conviene partire presto, per fare il tratto più caldo nelle ore del mattino, e fermarsi solo nelle aree di sosta: ai lati della strada la sabbia è morbida e un'auto a noleggio si insabbia facilmente. *Su questa tratta i distributori sono pochi e lontani: si riparte da ogni sosta con il serbatoio quasi pieno.* In serata si arriva a Twentynine Palms, la base per il parco.
+
+**In pratica:** Furnace Creek-Twentynine Palms via Amboy circa 4,5-5 ore · pochi distributori sulla Route 66: pieno a Baker · base a Twentynine Palms, Joshua Tree o Yucca Valley · acqua e cibo in auto per tutta la giornata.
 
 ### Giorno 12 — Joshua Tree
-Il parco l'abbiamo fatto da nord a sud in auto, con molte soste brevi. **Hidden Valley**, un anello tra massi di granito dove si arrampica e si fa bouldering; **Skull Rock**; **Keys View**, sulla valle di Coachella e la faglia di Sant'Andrea; il **Cholla Cactus Garden**, un campo di cactus che al tramonto sembra illuminato. La notte è per le stelle: Joshua Tree è un parco a cielo scuro.
+Il parco l'abbiamo fatto da nord a sud in auto, con molte soste brevi. Joshua Tree mette insieme due deserti: a nord il Mojave, più alto e fresco, con gli alberi di Giosuè che danno il nome al parco; a sud il deserto del Colorado, più basso e caldo, con cactus e ocotillo. **Hidden Valley**, un anello di un chilometro e mezzo tra massi di granito dove si arrampica e si fa bouldering; **Skull Rock**, il masso a forma di teschio vicino alla strada; **Keys View**, sulla valle di Coachella e la faglia di Sant'Andrea.
 
-**In pratica**
-- Ingresso: 30 $ per auto, coperto dal pass annuale
-- Ryan Mountain: 5 km andata e ritorno per chi vuole una vera escursione
-- Ai cholla non ci si avvicina: le spine si staccano al minimo contatto
+Il **Cholla Cactus Garden**, un campo di cactus che al tramonto sembra illuminato, è più a sud, a mezz'ora dal centro del parco: conviene arrivarci nell'ultima ora di luce. La notte è per le stelle: Joshua Tree è un parco a cielo scuro, e basta fermarsi in un parcheggio lontano dalle luci dei paesi. *Dentro il parco non c'è acqua potabile lungo le strade, e non ci sono negozi: tutto quello che serve si porta dalla base.*
+
+**In pratica:** ingresso 30 $ per auto, coperto dal pass annuale · Ryan Mountain 5 km andata e ritorno per chi vuole una vera escursione · ai cholla non ci si avvicina: le spine si staccano al minimo contatto · visitor center a Joshua Tree e a Twentynine Palms per mappe e condizioni.
 
 ### Giorno 13 — Palm Springs e l'arrivo a Los Angeles
-In mezz'ora siamo scesi a **Palm Springs**, la città delle case moderniste di metà Novecento, con la **funivia** che sale in dieci minuti dal deserto ai 2.600 metri del monte San Jacinto, tra i pini. Nel pomeriggio, due ore e mezza di autostrada fino a **Los Angeles**, dove si dorme a **Santa Monica** o a **West Hollywood**.
+In mezz'ora siamo scesi a **Palm Springs**, la città delle case moderniste di metà Novecento, con la **funivia** che sale in dieci minuti dal deserto ai 2.600 metri del monte San Jacinto, tra i pini. Le cabine ruotano durante la salita, così da ogni posto si vede tutta la valle; in cima la temperatura è più bassa di parecchi gradi rispetto al deserto, e ci sono sentieri nel bosco e un belvedere. Conviene salire la mattina, prima del caldo e delle code dei weekend.
 
-**In pratica**
-- Funivia di Palm Springs: indicativamente 35-40 $
-- Palm Springs-Los Angeles: 2-3 ore, evitare l'ora di punta pomeridiana
-- Parcheggio dell'hotel: 35-60 $ a notte
+Tornati a valle, un giro su **Palm Canyon Drive**, la via principale, tra negozi e architetture degli anni Cinquanta. Nel pomeriggio, due ore e mezza di autostrada fino a **Los Angeles**, dove si dorme a **Santa Monica** o a **West Hollywood**. *A Los Angeles si guida molto anche per brevi distanze: scegliere la zona dell'hotel in base ai giri dei giorni successivi fa risparmiare ore di traffico.*
+
+**In pratica:** funivia di Palm Springs indicativamente 35-40 $, chiusa alcune settimane all'anno per manutenzione · Palm Springs-Los Angeles 2-3 ore, evitare l'ora di punta pomeridiana · parcheggio dell'hotel 35-60 $ a notte · in cima alla funivia serve una felpa anche d'estate.
 
 ### Giorno 14 — Los Angeles: il Getty, Hollywood e il Griffith Observatory
-La mattina siamo stati al **Getty Center**, il museo sulla collina di Brentwood con la collezione d'arte europea, i giardini e la vista sulla città: ingresso gratuito, parcheggio a pagamento. Poi **Hollywood**, con la Walk of Fame e il Dolby Theatre, un tour degli studi **Warner Bros.** per chi ama il cinema, e al tramonto il **Griffith Observatory**, con la scritta Hollywood sulla collina e la città che si accende.
+La mattina siamo stati al **Getty Center**, il museo sulla collina di Brentwood con la collezione d'arte europea, i giardini e la vista sulla città: ingresso gratuito, parcheggio a pagamento. Dal parcheggio un trenino automatico sale fino al museo; dentro, i padiglioni sono collegati da terrazze, e il giardino centrale vale la visita quanto le sale. Il museo è chiuso il lunedì, e l'ingresso va prenotato con un orario.
 
-**In pratica**
-- Getty Center gratuito, parcheggio intorno ai 25 $
-- Tour Warner Bros.: indicativamente 70-80 $
-- Griffith Observatory gratuito, parcheggio a pagamento e spesso pieno al tramonto
+Poi **Hollywood**, con la Walk of Fame, il Dolby Theatre e le impronte delle star davanti al TCL Chinese Theatre, un tour degli studi **Warner Bros.** per chi ama il cinema, e al tramonto il **Griffith Observatory**, con la scritta Hollywood sulla collina e la città che si accende. *Anche l'osservatorio di solito è chiuso il lunedì: questa giornata va spostata se cade di lunedì.* Il parcheggio vicino all'osservatorio si riempie presto: conviene arrivare almeno un'ora prima del tramonto o lasciare l'auto più in basso e salire a piedi.
+
+**In pratica:** Getty Center gratuito con prenotazione, chiuso il lunedì, parcheggio 25 $ (15 $ dopo le 15) · tour Warner Bros. indicativamente 70-80 $ · Griffith Observatory gratuito, parcheggio a pagamento e spesso pieno al tramonto.
 
 ### Giorno 15 — Los Angeles: Santa Monica, Venice e Malibu
-Giornata sul mare. Abbiamo cominciato dal **Santa Monica Pier** e proseguito in bicicletta sulla pista lungo la spiaggia fino a **Venice**, con il boardwalk, la palestra all'aperto di Muscle Beach e i canali. Il pomeriggio siamo saliti verso nord sulla **Pacific Coast Highway** fino a **Malibu**, con una sosta a **El Matador Beach**, tra gli scogli, e al tramonto una cena di pesce sul mare.
+Giornata sul mare. Abbiamo cominciato dal **Santa Monica Pier**, dove un cartello segna la fine della Route 66, e proseguito in bicicletta sulla pista lungo la spiaggia fino a **Venice**, con il boardwalk, la palestra all'aperto di Muscle Beach e i canali. La pista è piana, separata dai pedoni, e tra Santa Monica e Venice si fa in mezz'ora. Ai canali di Venice, poche strade a sud del boardwalk, si gira a piedi tra le case con i ponticelli, e Abbot Kinney Boulevard è la via dei negozi e dei caffè.
 
-**In pratica**
-- Bicicletta a noleggio a Santa Monica: indicativamente 15-25 $ per qualche ora
-- Getty Villa a Malibu: gratuita con prenotazione, parcheggio a pagamento
-- Niente in vista in auto nei parcheggi delle spiagge
+Il pomeriggio siamo saliti verso nord sulla **Pacific Coast Highway** fino a **Malibu**, con una sosta a **El Matador Beach**, tra gli scogli, e al tramonto una cena di pesce sul mare. A El Matador si scende con una scalinata ripida, e con l'alta marea la spiaggia quasi sparisce. *Lungo la Pacific Coast Highway i lavori dopo gli incendi del 2025 possono ancora rallentare il traffico: lo stato della strada si controlla su Caltrans QuickMap.*
+
+**In pratica:** bicicletta a noleggio a Santa Monica indicativamente 15-25 $ per qualche ora · Getty Villa a Malibu gratuita con prenotazione, parcheggio a pagamento, giorno di chiusura da controllare · niente in vista in auto nei parcheggi delle spiagge.
 
 ### Giorno 16 — Santa Barbara e la costa fino a Cambria
-Abbiamo lasciato Los Angeles verso nord. **Santa Barbara**, a un'ora e mezza-due, è una cittadina bianca con i tetti rossi, la **missione** spagnola del Settecento e la passeggiata sul molo di Stearns Wharf. Abbiamo proseguito per la **Highway 101** e la **Highway 1** fino a **San Simeon** e **Cambria**, con le visite all'**Hearst Castle**, la residenza dell'editore William Randolph Hearst, e la colonia di **elefanti marini** di Piedras Blancas, visibile gratis da una passerella sulla spiaggia.
+Abbiamo lasciato Los Angeles verso nord. **Santa Barbara**, a un'ora e mezza-due, è una cittadina bianca con i tetti rossi, la **missione** spagnola del Settecento e la passeggiata sul molo di Stearns Wharf. La missione si visita con un percorso libero tra chiesa, chiostro, cimitero e museo, in circa un'ora; in centro la via principale, State Street, porta fino al mare, e il quartiere della Funk Zone, vicino al molo, è pieno di sale di degustazione dei vini della zona.
 
-**In pratica**
-- Los Angeles-Santa Barbara: 1,5-2 ore, Santa Barbara-Cambria circa 2,5 ore
-- Hearst Castle: Grand Rooms Tour 35 $, da prenotare
-- Elefanti marini: presenti tutto l'anno, più numerosi in inverno e in primavera
+Abbiamo proseguito per la **Highway 101** e la **Highway 1** fino a **San Simeon** e **Cambria**, con le visite all'**Hearst Castle**, la residenza dell'editore William Randolph Hearst, e la colonia di **elefanti marini** di Piedras Blancas, visibile gratis da una passerella sulla spiaggia. Al castello si sale solo con il bus del visitor center, con l'orario del tour prenotato. *Tra Santa Barbara e il castello ci sono due ore e mezza di strada: chi vuole fare entrambi deve lasciare Los Angeles presto e prenotare un tour del pomeriggio.*
+
+**In pratica:** Los Angeles-Santa Barbara 1,5-2 ore, Santa Barbara-Cambria circa 2,5 ore · missione di Santa Barbara, visita libera circa 17 $ · Hearst Castle Grand Rooms Tour 35 $, da prenotare · elefanti marini presenti tutto l'anno, più numerosi in inverno e in primavera.
 
 ### Giorno 17 — Big Sur sulla Highway 1
 È la giornata più famosa del viaggio: circa 150 km di strada a picco sull'oceano da Cambria a Carmel, da fare con calma, almeno sei-sette ore con le soste. Le tappe: **Ragged Point**, la cascata di **McWay Falls** che cade sulla spiaggia nel **Julia Pfeiffer Burns State Park**, la **Pfeiffer Beach** con la sabbia viola, il ponte di **Bixby Creek** e **Point Lobos**, una riserva con foche, lontre e cipressi. Prima di partire conviene controllare lo stato della strada su Caltrans QuickMap.
 
-**In pratica**
-- Pieno a Cambria: lungo Big Sur i distributori sono pochi e cari
-- Soste solo nelle piazzole segnalate, mai in curva
-- Point Lobos: 10 $ per auto, arrivare presto nei weekend
+Andando verso nord, il mare è sul lato sinistro e le piazzole sono più facili da raggiungere. McWay Falls si vede da un breve sentiero che parte dal parcheggio del parco, in dieci minuti; la strada per Pfeiffer Beach è stretta e non segnalata, e il parcheggio in fondo si riempie presto. *Lungo quasi tutta Big Sur il telefono non prende: mappe e indicazioni vanno scaricate prima.* Si arriva a Carmel o a Monterey nel tardo pomeriggio, dove si dorme.
+
+**In pratica:** pieno a Cambria: lungo Big Sur i distributori sono pochi e cari · soste solo nelle piazzole segnalate, mai in curva · Point Lobos 10 $ per auto, arrivare presto nei weekend · Julia Pfeiffer Burns e Pfeiffer Beach con parcheggio a pagamento.
 
 ### Giorno 18 — Monterey, Carmel e il rientro a San Francisco
-La mattina siamo stati a **Monterey**, al **Monterey Bay Aquarium**, uno dei migliori acquari del mondo, con la foresta di kelp e le lontre marine. Poi **Carmel-by-the-Sea**, il paese delle case da fiaba, e la **17-Mile Drive** tra campi da golf e cipressi sull'oceano. Nel pomeriggio, due ore abbondanti fino a **San Francisco**: abbiamo riconsegnato l'auto in aeroporto e dormito vicino a SFO.
+La mattina siamo stati a **Monterey**, al **Monterey Bay Aquarium**, uno dei migliori acquari del mondo, con la foresta di kelp e le lontre marine. L'acquario sta in fondo a **Cannery Row**, la via delle ex fabbriche di sardine raccontata da Steinbeck, e i pasti delle lontre e degli altri animali sono a orari fissi, indicati all'ingresso: conviene organizzare la visita intorno a quelli. Servono almeno due-tre ore.
 
-**In pratica**
-- Monterey Bay Aquarium: intorno ai 65 $
-- 17-Mile Drive: 12,50 $ per auto
-- Pieno prima della riconsegna e controllo dei pedaggi addebitati
+Poi **Carmel-by-the-Sea**, il paese delle case da fiaba, e la **17-Mile Drive** tra campi da golf e cipressi sull'oceano, con la sosta al cipresso solitario, il **Lone Cypress**, su uno scoglio. Nel pomeriggio, due ore abbondanti fino a **San Francisco**: abbiamo riconsegnato l'auto in aeroporto e dormito vicino a SFO. *Il traffico verso la baia nel tardo pomeriggio dei giorni feriali è pesante: partire da Carmel entro le 14-15 evita le code peggiori.*
+
+**In pratica:** Monterey Bay Aquarium intorno ai 65 $, biglietti online · 17-Mile Drive 12,50 $ per auto · pieno prima della riconsegna e controllo dei pedaggi addebitati.
 
 ### Giorno 19 — Partenza da San Francisco
-Volo di rientro da **SFO**. Con i voli per l'Europa che partono di solito nel pomeriggio o la sera, la mattina basta per un ultimo giro al **Ferry Building**, se si è dormito in città, o per arrivare con calma in aeroporto.
+Volo di rientro da **SFO**. Con i voli per l'Europa che partono di solito nel pomeriggio o la sera, la mattina basta per un ultimo giro al **Ferry Building**, se si è dormito in città, o per arrivare con calma in aeroporto. Il Ferry Building, sul lungomare dell'Embarcadero, ha dentro botteghe di cibo e caffè, e il martedì, il giovedì e il sabato ospita il mercato dei produttori della baia. Dagli hotel vicino all'aeroporto, invece, si arriva al terminal in pochi minuti con le navette gratuite.
 
-**In pratica**
-- Arrivare in aeroporto 3 ore prima per i voli internazionali
-- Le mance e le tasse dell'hotel vanno controllate sul conto finale
+A SFO i terminal sono collegati dall'AirTrain, il trenino automatico che porta anche alla stazione BART e al centro di riconsegna delle auto. *Prima di partire conviene controllare il conto finale dell'hotel e gli eventuali addebiti del noleggio, come pedaggi e carburante, mentre si è ancora in tempo per contestarli.*
+
+**In pratica:** arrivare in aeroporto 3 ore prima per i voli internazionali · le mance e le tasse dell'hotel vanno controllate sul conto finale · BART dal centro all'aeroporto circa 30 minuti.
 
 ## Dove dormire
 - **San Francisco:** economiche: ostelli e motel di Lombard Street, 120-180 $ · fascia media: boutique hotel di Union Square, Nob Hill e North Beach, 200-320 $ · lusso: Fairmont, grandi hotel di Nob Hill.

@@ -46,6 +46,8 @@ In the afternoon we went to the **Museo dell'Opera del Duomo**, the part almost 
 
 We closed the day in **Piazza della Signoria** and the **Loggia dei Lanzi**, an open-air sculpture museum, free and always open, with Cellini's **Perseus** and Giambologna's **Rape of the Sabine Women**. The David in the square is a copy.
 
+**In practice:** Brunelleschi Pass about €30, valid three days for the dome, Baptistery, Bell Tower, Museo dell'Opera and the Santa Reparata crypt, sold only on the Opera's official site · the dome time slot should be booked weeks ahead in high season · the dome and Bell Tower close a few days a year for maintenance and celebrations: check the calendar · Loggia dei Lanzi free.
+
 ### Day 2 — Uffizi and Oltrarno
 We spent the morning at the **Uffizi**, with our reserved slot. They are long and crowded, and to avoid coming out wiped out you have to **decide in advance what to see** instead of walking through all of it: the Botticelli rooms with the **Primavera** and the **Birth of Venus**, Michelangelo's **Doni Tondo**, Leonardo's **Annunciation**, the Caravaggios (the **Medusa** and the **Bacchus**) and Titian's **Venus of Urbino**. Almost everyone stops in the corridor with the view over the Arno and Ponte Vecchio, and rightly so.
 
@@ -59,6 +61,8 @@ Alternatively, or in addition, there are **Palazzo Pitti** and the **Boboli Gard
 
 At sunset you climb to **San Miniato al Monte**, not to Piazzale Michelangelo. It's five minutes higher up, the Romanesque church is the most beautiful in Florence, the view is the same and there's a tenth of the crowd. **The monks sing vespers in Gregorian chant in the late afternoon** (times change with the season, so it's worth checking them), and attending in that church, with the light fading, is one of the best things you can do in the city without paying anything.
 
+**In practice:** the Uffizi is closed on Mondays, full ticket around €25-30 depending on desk, online and season, with a cheaper afternoon slot · to get in at your booked time, show up a quarter of an hour early · Brancacci Chapel by reservation only, check for works · from Ponte Vecchio to San Miniato it's about 30 minutes uphill on foot, or bus 12 or 13 · San Miniato free.
+
 ### Day 3 — The David, the Medici Chapels and the final choice
 In the morning we went to the **Accademia Gallery** for the **David**, with a reservation. The visit is short and should be taken for what it is: you go in for one statue. But the layout of the **Gallery of the Prisoners** is superbly done: Michelangelo's four unfinished slaves, figures that seem to be emerging half out of the block of marble, are lined up along the corridor that leads to the David beneath his tribune, and they are worth the ticket as much as the David itself.
 
@@ -70,6 +74,8 @@ The afternoon is your choice, depending on what's left:
 - **Palazzo Vecchio** with the **Salone dei Cinquecento** and the climb up the **Arnolfo Tower**, or the tours through the hidden passages.
 
 The last evening, at the **Sant'Ambrogio market** or in the neighborhood, away from the central circuit.
+
+**In practice:** the Accademia, Medici Chapels and Bargello are closed on Mondays and have shared hours and tickets since March 2026: Accademia about €16 plus booking, Medici Chapels about €11, Bargello about €12, and a six-museum pass from about €38 for 72 hours · the David must be booked, the other two usually not off-season · the Sant'Ambrogio market works in the morning, closed on Sundays.
 
 ## The Two-Day Version
 Two days in Florence hold up well, on one condition: **only one big museum, not two.** The program that works is this.

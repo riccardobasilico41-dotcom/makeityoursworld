@@ -33,28 +33,36 @@ We started from the heart of the city, **St. Stephen's Cathedral** (Stephansdom)
 
 We walked along the **Graben** and the **Kärntner Straße**, the pedestrian streets of the historic center, as far as the **Ring**, the 19th-century boulevard that took the place of the medieval walls. In the afternoon, the first contact with **Kaffeehauskultur**: a stop in one of the historic cafés in the center, taking our time, in no hurry to get up.
 
-In the evening we stayed in the Innere Stadt, among the streets of the center.
+In the evening we stayed in the Innere Stadt, among the streets of the center. The centre is easy to explore on foot after dinner too: from the Graben head towards **Am Hof** and the **Freyung**, quieter squares than Stephansplatz, or pass through Neuer Markt, home to the **Capuchin Crypt**, which is best kept for another morning. To eat, the side streets around the cathedral have several Beisl, the Viennese taverns, where you can order a schnitzel without the queues of the most famous places. *It is best to climb the south tower early, as soon as it opens: the spiral staircase is narrow and by midday you keep squeezing past people coming down.* During mass the cathedral can only be seen from the back of the nave.
+
+**In practice:** the nave of St Stephen's can be visited freely up to the roped-off area, separate tickets for the tower, the catacombs (guided tour only) and the full visit · U1 and U3 underground, Stephansplatz stop · in the historic cafés you pay at the table, to the waiter · the whole first day is done on foot.
 
 ### Day 2 — Hofburg and Naschmarkt
 In the morning we went to the **Hofburg**, the Habsburgs' winter palace for over six centuries: the **Sisi Museum**, devoted to the life of Empress Elisabeth, and the **Imperial Apartments**, where Sisi and Franz Joseph lived. Those with time can add a visit to the **Spanish Riding School** (or watch a morning training session), with the Lipizzaner horses and a tradition dating back to the 16th century.
 
 In the afternoon the **Naschmarkt**: over a mile of stalls with fruit, spices and international cuisines, among protected Art Nouveau buildings. On Saturdays there's also the flea market.
 
-The evening is the time for a second historic café, different from the one on the first day: Café Sacher or Café Hawelka.
+The evening is the time for a second historic café, different from the one on the first day: Café Sacher or Café Hawelka. At the Sacher, next to the Opera, the cake is served with whipped cream and at peak times there is almost always a queue at the door; the Hawelka, in a side street off the Graben, is small and dark, with tables close together and the feel of an old drawing room. From the Hofburg to the Naschmarkt it is about twenty minutes on foot, past the Albertina and the Opera. *Go to the market for lunch or in the early afternoon: towards evening many stalls close and mostly the restaurants stay open.* On Saturday mornings the flea market is at the far end of the market, towards the Kettenbrückengasse stop.
+
+**In practice:** the Sisi Museum, the Imperial Apartments and the Silver Collection share a single ticket, best bought online · the Spanish Riding School's morning exercises only take place on some days: check the official calendar · the Naschmarkt is closed on Sundays · U4 underground to Kettenbrückengasse, or U1, U2 and U4 to Karlsplatz.
 
 ### Day 3 — Schönbrunn
 We devoted almost the whole day to **Schönbrunn**, the summer residence of the imperial family. Of the palace's over 1,400 rooms a selection is visited, with the basic tour or the more extensive Grand Tour. In the afternoon, the free **Baroque gardens**, up to the **Gloriette**, the pavilion on the hill with a view over the whole complex and the city.
 
 Those with time and energy can add the **Schönbrunn Zoo**, in the same park, among the oldest in the world still in operation.
 
-In the evening we went back to the center for dinner.
+In the evening we went back to the center for dinner. To get there take the **U4** underground to Schönbrunn or Hietzing, about ten minutes from Karlsplatz, and enter the palace at the time printed on your ticket: the **Imperial Tour** covers about twenty rooms, the **Grand Tour** about forty, including Maria Theresa's rooms. After the visit, the park also has the maze, the Palm House and the Crown Prince Garden. *In summer the timed tickets sell out: booking a few days ahead saves hours of waiting in the courtyard.* The walk up to the Gloriette takes about twenty minutes, and the café inside it is the place to stop with the view over the palace.
+
+**In practice:** Imperial Tour from about €26, Grand Tour and combined tickets cost more · gardens and park free, the Gloriette terrace, the maze and the zoo have separate tickets · the zoo alone takes half a day · U4 underground, Schönbrunn stop for the main entrance and Hietzing for the zoo side.
 
 ### Day 4 — Belvedere and Prater
-In the morning we went to the **Belvedere Palace**, in particular the Upper Belvedere: here is **"The Kiss"** by Gustav Klimt, along with one of the most important collections of Austrian art in the world, from the Baroque to the Secession.
+In the morning we went to the **Belvedere Palace**, in particular the Upper Belvedere: here is **"The Kiss"** by Gustav Klimt, along with one of the most important collections of Austrian art in the world, from the Baroque to the Secession. It is best to arrive at opening time, because the room in front of The Kiss fills up quickly; from the Upper Belvedere you then walk down to the Lower Belvedere through the **Baroque gardens**, which are free, with the view over the city.
 
-In the afternoon the **Prater**, a public park since 1766, with the **Wiener Riesenrad**: the Ferris wheel built in 1897 for Emperor Franz Joseph's jubilee, for decades the tallest in the world and a survivor of the bombings of the Second World War. For those who want to stay longer there are the attractions of the Wurstelprater.
+In the afternoon the **Prater**, a public park since 1766, with the **Wiener Riesenrad**: the Ferris wheel built in 1897 for Emperor Franz Joseph's jubilee, for decades the tallest in the world and a survivor of the bombings of the Second World War. For those who want to stay longer there are the attractions of the Wurstelprater. *The Prater is reached by U1 or U2 underground to Praterstern: the wheel is right by the entrance, and late afternoon is the best time to ride it.* Those with time left can walk along the **Hauptallee**, the tree-lined avenue of more than four kilometres that crosses the park.
 
-For the last evening, if planned in advance, a standing ticket at the **State Opera** is the most memorable (and cheapest) way to close the Viennese weekend.
+For the last evening, if planned in advance, a standing ticket at the **State Opera** is the most memorable (and cheapest) way to close the Viennese weekend. Before the performance, have dinner near the Opera, about a quarter of an hour from the Prater by underground; without a ticket you can still walk past the theatre in the evening, when the façade is lit up.
+
+**In practice:** Upper Belvedere with a timed ticket, best booked online, gardens free · tram D from the Ring to the Schloss Belvedere stop · the Prater is free to enter, the Ferris wheel and rides are paid · standing tickets at the Opera from about €13 to €18, same day only.
 
 ## What to see / what to do
 - **St. Stephen's Cathedral**, with the climb up the south tower.

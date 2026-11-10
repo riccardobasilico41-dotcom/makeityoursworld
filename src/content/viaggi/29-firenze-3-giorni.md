@@ -46,6 +46,8 @@ Nel pomeriggio siamo andati al **Museo dell'Opera del Duomo**, la parte che quas
 
 Abbiamo chiuso la giornata in **Piazza della Signoria** e nella **Loggia dei Lanzi**, un museo di scultura all'aperto, gratuito e sempre aperto, con il **Perseo** di Cellini e il **Ratto delle Sabine** del Giambologna. Il David in piazza è una copia.
 
+**In pratica:** Brunelleschi Pass circa 30 €, valido tre giorni per cupola, Battistero, Campanile, Museo dell'Opera e cripta di Santa Reparata, solo sul sito ufficiale dell'Opera · la fascia oraria della cupola va prenotata con settimane di anticipo in alta stagione · cupola e Campanile chiudono alcuni giorni l'anno per manutenzione e per le celebrazioni: controllare il calendario · Loggia dei Lanzi gratuita.
+
 ### Giorno 2 — Uffizi e Oltrarno
 La mattina l'abbiamo passata agli **Uffizi**, con lo slot prenotato. Sono lunghi e affollati, e per non uscirne annientati bisogna **decidere prima cosa vedere** invece di percorrerli tutti: le sale di Botticelli con la **Primavera** e la **Nascita di Venere**, il **Tondo Doni** di Michelangelo, l'**Annunciazione** di Leonardo, i Caravaggio (la **Medusa** e il **Bacco**) e la **Venere di Urbino** di Tiziano. Nel corridoio con la vista sull'Arno e su Ponte Vecchio si fermano quasi tutti, ed è giusto così.
 
@@ -59,6 +61,8 @@ In alternativa, o in aggiunta, ci sono **Palazzo Pitti** e il **Giardino di Bobo
 
 Al tramonto si sale a **San Miniato al Monte**, non a Piazzale Michelangelo. Sono cinque minuti più in alto, la chiesa romanica è la più bella di Firenze, la vista è la stessa e c'è un decimo della gente. **I monaci cantano i vespri in gregoriano nel tardo pomeriggio** (gli orari cambiano con la stagione, conviene controllarli), e assistervi in quella chiesa, con la luce che cala, è una delle cose migliori che si possano fare in città senza pagare niente.
 
+**In pratica:** Uffizi chiusi il lunedì, intero intorno ai 25-30 € a seconda di cassa, online e stagione, con fascia pomeridiana ridotta · per entrare all'ora prenotata conviene presentarsi un quarto d'ora prima · Cappella Brancacci solo su prenotazione, da verificare per i lavori · da Ponte Vecchio a San Miniato sono circa 30 minuti a piedi in salita, oppure bus 12 o 13 · San Miniato ingresso libero.
+
 ### Giorno 3 — Il David, le Cappelle Medicee e la scelta finale
 La mattina siamo andati alla **Galleria dell'Accademia** per il **David**, con prenotazione. La visita è corta e va presa per quello che è: si entra per una statua. Però l'allestimento della **Galleria dei Prigioni** è costruito benissimo: i quattro schiavi incompiuti di Michelangelo, figure che sembrano uscire a metà dal blocco di marmo, sono messi in fila lungo il corridoio che porta al David sotto la sua tribuna, e valgono il biglietto quanto il David stesso.
 
@@ -70,6 +74,8 @@ Il pomeriggio è a scelta, secondo cosa è rimasto:
 - **Palazzo Vecchio** con il **Salone dei Cinquecento** e la salita alla **Torre di Arnolfo**, oppure i percorsi nei passaggi nascosti.
 
 L'ultima sera, al **mercato di Sant'Ambrogio** o nel quartiere, lontano dal circuito centrale.
+
+**In pratica:** Accademia, Cappelle Medicee e Bargello chiusi il lunedì e con orari e biglietti unificati da marzo 2026: Accademia circa 16 € più la prenotazione, Cappelle Medicee circa 11 €, Bargello circa 12 €, e un cumulativo per sei musei da circa 38 € in 72 ore · il David va prenotato, gli altri due di solito no fuori stagione · il mercato di Sant'Ambrogio lavora la mattina, chiuso la domenica.
 
 ## La versione da due giorni
 Due giorni a Firenze reggono bene, a una condizione: **un solo grande museo, non due.** Il programma che funziona è questo.

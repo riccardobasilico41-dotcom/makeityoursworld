@@ -40,6 +40,8 @@ In the afternoon we climbed **Wawel** hill: the **Royal Castle**, seat of Polish
 
 We spent the evening in the historic center, inside the **Planty**, the old tree-lined avenues that follow the line of the medieval walls demolished in the 19th century.
 
+**In practice:** the old town is all walkable, from the square to Wawel is about 15 minutes · Royal Castle tickets on the official website, by section and timed, best bought ahead because daily entries are limited · the Veit Stoss altarpiece is seen with a visitor ticket, and tourist access is suspended during Mass · the Hejnał plays every hour, day and night.
+
 ### Day 2 — Auschwitz-Birkenau
 This is a day apart, and has to be treated as such: the only thing on the schedule, with no other stops to squeeze in.
 
@@ -49,6 +51,8 @@ The complete visit takes, all told, **3.5 hours** plus transport: it's best to a
 
 We returned to Krakow in the late afternoon. It's not the evening for elaborate plans.
 
+**In practice:** entry to the Memorial is free but needs a named booking on the Museum's official website, the visit with an educator is paid and should be booked weeks ahead · from Kraków about an hour and a half by bus or train · large bags not allowed, only small backpacks · Birkenau is open and windy: in winter dress very warmly.
+
 ### Day 3 — Kazimierz and Podgórze
 In the morning we went to **Kazimierz**, the former autonomous town founded in 1335 and, from 1495, for centuries the center of Jewish life in Krakow, until the destruction of the community during the Nazi occupation. The **Old Synagogue**, the oldest in Poland, now a museum; the **Remuh Synagogue**, one of the two still active in the city, with the adjoining Jewish cemetery; the streets around **Plac Nowy**, the neighborhood's market square, now the center of the city's nightlife.
 
@@ -56,12 +60,14 @@ In the early afternoon we crossed the Vistula toward **Podgórze**: **Ghetto Her
 
 In the evening we went back to Kazimierz. Here you can take a food tour of pierogi, zapiekanki and Polish vodka tasting (see the dedicated experience page) or, on your own, a stroll among the bars of Plac Nowy.
 
+**In practice:** Kazimierz is about 15-20 minutes on foot from the Rynek, Podgórze just across the Bernatka footbridge · Schindler's Factory has timed, limited entry: buy the ticket online in advance, especially at weekends · the active synagogues close on Saturdays, men must cover their heads.
+
 ### Day 4 — The Wieliczka Mine and a Last Stroll
-In the morning we went to the **Wieliczka Salt Mine**, half an hour from Krakow: the **Tourist Route** descends through more than twenty chambers carved into the salt over seven centuries of work, to the **Chapel of St. Kinga**, an underground church sculpted entirely from salt, floor, chandeliers and bas-reliefs included. You go down on foot (over 800 steps) and come back up by elevator.
+In the morning we went to the **Wieliczka Salt Mine**, about half an hour from Kraków: the **Tourist Route** goes down through more than twenty chambers carved into the salt over seven centuries of work, to the **Chapel of Saint Kinga**, an underground church carved entirely from salt, floor, chandeliers and bas-reliefs included. You go down on foot (over 800 steps) and come back up by lift. The visit is always guided, in groups by language, and lasts about three hours: it's worth taking one of the first morning slots, to avoid the organized groups and be back in town for lunch. *Underground the temperature stays around 17-18 degrees all year: a sweatshirt is enough.*
 
-We returned to Krakow in the early afternoon for a last stroll: the **Rynek Underground Museum**, beneath the main square, with the archaeological remains of the medieval market uncovered during restoration; the **Barbican** and the remains of the walls, at the northern edge of the historic center; then free time for last purchases in the Sukiennice.
+We were back in Kraków in the early afternoon for the last round: the **Rynek Underground Museum**, beneath the main square, with the archaeological remains of the medieval market uncovered during restoration works; the **Barbican** and what remains of the walls, at the northern end of the old town; then free time for last purchases in the Cloth Hall. Between the Barbican and the square you walk along Floriańska Street, the old royal entrance road, passing under **Saint Florian's Gate**. In the evening, in the center, the last dinner of the weekend.
 
-In the evening, in the center, the last dinner of the weekend.
+**In practice:** Wieliczka by regional train from Kraków main station (about 20-25 minutes) or by bus · Tourist Route around 130-160 złoty depending on the season, timed tickets on the mine's official website · Rynek Underground has timed entry slots, free on Tuesdays but with shorter hours and closed on the second Monday of the month: book for the afternoon.
 
 ## What to see / what to do
 - **Rynek Główny and the Sukiennice**, the heart of the city since 1257.

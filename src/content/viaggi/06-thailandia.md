@@ -35,49 +35,79 @@ Bangkok l'ho vista più volte nel corso degli anni, e ogni volta ho scoperto qua
 ### Giorno 1 — Bangkok
 La prima sera l'abbiamo passata su **Khao San Road**, per un primo assaggio della vita notturna di Bangkok. Per tutto il resto della città c'è la sezione dedicata più sotto.
 
+Il primo giorno serve soprattutto ad atterrare e sistemarsi. Dall'aeroporto si arriva in città con Grab, con un taxi dal banco ufficiale o con l'Airport Rail Link se si atterra a Suvarnabhumi. Khao San Road si anima dopo il tramonto: banchi di pad thai, frullati di frutta, bar con la musica alta e venditori di tutto. *È la via più turistica della città: va presa come un assaggio e non come un'idea di Bangkok.* Conviene andare a letto non troppo tardi, perché il giorno dopo il pick-up è all'alba.
+
+**In pratica:** Grab funziona bene in città · contanti in baht per bancarelle e piccoli acquisti · Khao San al meglio dalla sera in poi · niente alcolici in vendita nei 7-Eleven dopo le 22 · sveglia presto per il giorno dopo.
+
 ### Giorno 2 — Bangkok-Hua Hin
 Il pick-up in hotel era di mattina presto. Con un gruppo grande ci si divide su due van, e non c'è modo di averne uno solo. La mattina l'abbiamo dedicata ai mercati: prima il **Floating Market**, il mercato galleggiante, poi il **Train Market**, quello che si smonta al passaggio del treno (più sotto c'è un approfondimento su entrambi).
 
-Verso mezzogiorno abbiamo mangiato in un autogrill lungo la strada, con tanta scelta e cibo buono, contro ogni previsione. Nel primo pomeriggio, se c'è tempo, si fa tappa alla grotta di **Tham Khao Luang**; a **Hua Hin** siamo arrivati nel tardo pomeriggio. Per cena c'è uno dei mercati serali, Cicada, Tamarind o Chatchai, pieni di bancarelle di street food.
+Verso mezzogiorno abbiamo mangiato in un autogrill lungo la strada, con tanta scelta e cibo buono, contro ogni previsione. Nel primo pomeriggio, se c'è tempo, si fa tappa alla grotta di **Tham Khao Luang**, vicino a Phetchaburi, una grotta con statue di Buddha illuminata dall'alto; a **Hua Hin** siamo arrivati nel tardo pomeriggio. Per cena c'è uno dei mercati serali, Cicada, Tamarind o Chatchai, pieni di bancarelle di street food. *Al mercato del treno conviene restare dietro la linea che segnano i venditori: il treno passa davvero a pochi centimetri.*
+
+**In pratica:** partenza all'alba per arrivare ai mercati prima della folla · al mercato galleggiante i prezzi sono gonfiati, si contratta · Cicada e Tamarind aprono solo alcune sere della settimana, da controllare · a Hua Hin si dorme vicino alla spiaggia o al centro.
 
 ### Giorno 3 — Hua Hin-Chumphon
 Siamo partiti presto per il **Parco Nazionale di Sam Roi Yot** (200 THB a persona, di solito raccolti dal coordinatore nella cassa comune). La spiaggia di **Laem Sala** si raggiunge in barca, un quarto d'ora, o a piedi in quaranta minuti, secondo il mare. Da lì una breve escursione nella foresta porta alla **Grotta di Phra Nakorn**, con dentro un padiglione reale: quando la luce filtra dall'alto è uno degli scorci più fotografati della Thailandia. Siamo rimasti in spiaggia fino al pranzo.
 
 Nel primo pomeriggio abbiamo cambiato veicolo per il safari nel **Kui Buri National Park** (1.050 THB a persona), a caccia di bufali rossi ed elefanti selvatici. *Meglio dirlo chiaro al gruppo: non è un safari africano, gli animali si vedono spesso da lontano e a volte non si vedono affatto.* Se c'è tempo, il **Wat Thang Sai**; poi tre ore e mezza di strada fino a **Chumphon**. Per cena, il Cube Bar o l'Helio Restaurant.
 
+**In pratica:** Sam Roi Yot 200 THB a persona · barca per Laem Sala secondo il mare, altrimenti sentiero di quaranta minuti · scarpe chiuse per la salita alla grotta, la luce migliore è a metà mattina · Kui Buri 1.050 THB, binocolo utile · tre ore e mezza di strada fino a Chumphon.
+
 ### Giorno 4 — Chumphon-Khao Sok
 Pick-up presto e quattro ore e mezza di strada fino a **Khao Sok**, con due soste in stazioni di servizio; l'ingresso al parco costa 220 THB a persona. All'arrivo guida e autista salutano (la mancia è facoltativa, circa 500 baht per auto).
 
-Le attività facoltative, elephant safari, bamboo rafting, night safari e trekking nella giungla, si prenotano tramite l'hotel, lo Smiley Bungalows, almeno 24 ore prima e mai con fornitori esterni non autorizzati. Cena al Bamboo Bistro Khao Sok.
+Le attività facoltative, elephant safari, bamboo rafting, night safari e trekking nella giungla, si prenotano tramite l'hotel, lo Smiley Bungalows, almeno 24 ore prima e mai con fornitori esterni non autorizzati. Cena al Bamboo Bistro Khao Sok. Khao Sok è una delle foreste pluviali più antiche del paese, con pareti calcaree coperte di vegetazione e il fiume che scorre tra i bungalow: il pomeriggio va bene per un primo giro a piedi o per il rafting, che è tranquillo e adatto a tutti. *Se l'elephant safari prevede di salire in groppa agli elefanti o di fare il bagno con loro, è meglio lasciarlo perdere: sul sito la linea è quella spiegata nel viaggio [nella Thailandia del nord](/viaggi/thailandia-nord).* Il night safari serve per vedere insetti, rane e serpenti con la torcia.
+
+**In pratica:** quattro ore e mezza di strada da Chumphon · ingresso al parco 220 THB · attività da prenotare in hotel almeno 24 ore prima · repellente, scarpe da trekking e un telo impermeabile per il telefono · la sera può piovere anche in stagione secca.
 
 ### Giorno 5 — Khao Sok, il lago Cheow Lan
 Due giorni e una notte sul lago, con colazione, pranzo e cena inclusi. Il transfer ci ha portati al molo, con una sosta in un negozio locale, e da lì un'ora e mezza di barca fino al **resort galleggiante**. La sistemazione è molto essenziale e le aspettative vanno tarate: il telefono non sempre prende e il wifi c'è, a volte, solo alla reception. Il resto del giorno era libero, per godersi il lago.
 
-Nel tardo pomeriggio abbiamo fatto la crociera al tramonto, con una guida locale che parla inglese, tra le pareti calcaree che escono dall'acqua: uno degli scenari più belli della Thailandia, spesso paragonato a una piccola Guilin. *Attenzione alle regole del resort: niente rumore dopo cena e niente birra portata da fuori.*
+Nel tardo pomeriggio abbiamo fatto la crociera al tramonto, con una guida locale che parla inglese, tra le pareti calcaree che escono dall'acqua: uno degli scenari più belli della Thailandia, spesso paragonato a una piccola Guilin. *Attenzione alle regole del resort: niente rumore dopo cena e niente birra portata da fuori.* Il lago **Cheow Lan** è un bacino artificiale nato da una diga, e nelle ore libere si nuota o si va in kayak davanti ai bungalow. Nel bagaglio bastano poche cose, il resto può restare a terra.
+
+**In pratica:** circa un'ora e mezza di barca dal molo · pasti inclusi, bevande a parte · zaino piccolo per la notte sul lago · torcia, power bank e contanti, al resort non sempre si paga con la carta · costume e sandali d'acqua.
 
 ### Giorno 6 — Khao Sok-Krabi
 Un'ora di barca e due di strada, e verso mezzogiorno eravamo a Krabi. Il pomeriggio siamo andati a **Railay Beach**: barca di un quarto d'ora, 200 THB a tratta, poi mezz'ora a piedi fino a **Phra Nang Beach** e alla sua grotta. In serata, ad **Ao Nang Beach**, davanti al Boat Service Club, c'è uno spettacolo di fuoco gratuito.
 
-A pranzo il Last Fisherman, a cena il Sea Salt Krabi Restaurant o un ristorante di cucina thailandese locale.
+A pranzo il Last Fisherman, a cena il Sea Salt Krabi Restaurant o un ristorante di cucina thailandese locale. Railay non ha strade e si raggiunge solo in barca, per via delle pareti di roccia che la separano dalla terraferma: è uno dei posti più famosi della Thailandia per l'arrampicata. Phra Nang Beach è considerata da molti la spiaggia più bella della zona, con le pareti a strapiombo sull'acqua. *Con la bassa marea le long-tail attraccano lontano dalla riva e si cammina nell'acqua fino alle ginocchia: borsa impermeabile per telefono e documenti.* Per il ritorno conviene non aspettare il buio, quando le barche diminuiscono.
+
+**In pratica:** long-tail da Ao Nang a Railay 200 THB a tratta, un quarto d'ora · ultima barca prima del tramonto, orario da chiedere al molo · scarpe da scoglio utili · spettacolo di fuoco gratuito la sera ad Ao Nang.
 
 ### Giorno 7 — Krabi: Bond Island e canoa
 Abbiamo passato una giornata intera in barca, dalla mattina presto al tardo pomeriggio, con guida in inglese. Siamo passati da **Koh Ta Poo**, l'isola resa famosa da *L'uomo dalla pistola d'oro*, e da **Koh Ping Gun**, siamo entrati in canoa fino a **Tham Lot** e abbiamo pranzato a **Koh Panyee**, il villaggio di pescatori sulle palafitte; poi la **Monkey Cave** e un po' di riposo alle cascate. Ingresso al parco, pranzo e trasferimenti sono inclusi.
 
-Per cena, il Sea Salt Krabi Restaurant o il Reeve Beach Club Krabi; per la serata, Carlito's o, più disco, Slinky.
+Per cena, il Sea Salt Krabi Restaurant o il Reeve Beach Club Krabi; per la serata, Carlito's o, più disco, Slinky. La baia di **Phang Nga** è piena di faraglioni calcarei che escono dal mare, e la canoa passa sotto archi e dentro grotte dove con la barca grande non si entra. *Alla Monkey Cave le scimmie rubano dalle borse e dalle mani: niente cibo in vista e niente occhiali appoggiati sulla testa.* Koh Panyee è un villaggio musulmano, quindi a pranzo non si serve alcol e conviene vestirsi in modo rispettoso.
+
+**In pratica:** tour di un giorno intero, rientro nel tardo pomeriggio · ingresso al parco, pranzo e trasferimenti inclusi · crema solare, cappello e una maglietta per la canoa · contanti per mance e bevande.
 
 ### Giorno 8 — Krabi-Koh Phi Phi
 Abbiamo preso il traghetto in mattinata da Ao Nopparat Thara Pier (check-in mezz'ora prima) e in due ore e mezza siamo arrivati a **Koh Phi Phi**, al Tonsai Pier. Il pomeriggio offre una gita in barca a **Bamboo Island** oppure mezza giornata di immersioni con Blue View Divers.
 
-Per cena, il Dow Restaurant o l'ACQUA Restaurant. La serata è al Backpacker Bar o al Reggae Bar, dove gli incontri amatoriali di Muay Thai sono molto divertenti da guardare.
+Per cena, il Dow Restaurant o l'ACQUA Restaurant. La serata è al Backpacker Bar o al Reggae Bar, dove gli incontri amatoriali di Muay Thai sono molto divertenti da guardare. Koh Phi Phi non ha strade per le auto: dal molo agli hotel si va a piedi o con i carretti dei facchini, quindi meglio un bagaglio facile da portare. All'arrivo al molo si paga una piccola tassa d'ingresso all'isola. *Chi ha tempo sale al **viewpoint** sopra Tonsai, una mezz'ora di scalini, per vedere le due baie che si toccano: è più bello al tramonto, ma va portata acqua.* **Maya Bay** si visita solo con accessi contingentati e senza bagno in mare.
+
+**In pratica:** traghetto da Ao Nopparat Thara, check-in mezz'ora prima · piccola tassa d'ingresso al molo di Tonsai, in contanti · viewpoint con biglietto di qualche decina di baht · le immersioni si prenotano il giorno prima · la sera Tonsai è molto rumorosa: chi vuole dormire sceglie un hotel lontano dai bar.
 
 ### Giorno 9 — Koh Phi Phi-Krabi
 Il traghetto di ritorno l'abbiamo preso nel primo pomeriggio; attracca ad Ao Nopparat Thara o a Klong Jirat, secondo l'operatore. Cena al Reeve Beach Club Krabi, con lo spettacolo di fuoco della sera.
 
+La mattina resta libera sull'isola: è il momento per un bagno a **Long Beach**, raggiungibile a piedi o con una long-tail da Tonsai, o per uno snorkeling vicino alla riva prima che arrivino le barche delle gite in giornata. Il check-out va fatto prima di uscire, lasciando i bagagli alla reception. *Conviene controllare sul biglietto il molo di arrivo, perché Ao Nopparat Thara e Klong Jirat sono in punti diversi e il trasferimento cambia.* A Krabi si riprende la camera in tempo per una doccia prima di cena.
+
+**In pratica:** traghetto nel primo pomeriggio, check-in al molo mezz'ora prima · long-tail per Long Beach da contrattare a Tonsai · arrivo ad Ao Nopparat Thara o Klong Jirat secondo l'operatore · cena ad Ao Nang con spettacolo di fuoco.
+
 ### Giorno 10 — Krabi-Bangkok
 Siamo rientrati a Bangkok con un volo interno da Krabi, con circa 15 kg di bagaglio inclusi e check-in 80 minuti prima. Attenzione all'aeroporto: si può atterrare a BKK o a Don Mueang (DMK), va controllato sul biglietto. La sera, un ultimo drink su un rooftop e cena al Sawasdee House o al Sathorn is Charme Eatery.
 
+L'aeroporto di Krabi è a una mezz'ora di strada da Ao Nang, e il volo per Bangkok dura poco più di un'ora. Arrivati in città, il pomeriggio è il momento giusto per la spesa di souvenir o per un massaggio thailandese, prima della serata. *Per i rooftop bar di Bangkok servono pantaloni lunghi e scarpe chiuse: con infradito e pantaloncini spesso non si entra.* Chi ha bagagli pesanti dopo il mare deve ricordare il limite di peso del volo interno.
+
+**In pratica:** circa 15 kg di bagaglio inclusi, check-in 80 minuti prima · da Ao Nang all'aeroporto di Krabi circa mezz'ora · BKK o DMK da controllare sul biglietto · dress code per i rooftop.
+
 ### Giorno 11 — Bangkok
 L'ultima giornata è libera e senza servizi inclusi: il momento giusto per recuperare qualcosa dalla lista di Bangkok qui sotto.
+
+Chi ha il volo la sera può fare la mattina i templi, partendo presto dal **Grand Palace** e dal **Wat Pho**, e il pomeriggio un mercato o un giro in battello sul fiume. Chi ha già visto il centro può scegliere il **Chatuchak Weekend Market**, se è sabato o domenica, oppure un quartiere di street food. *Conviene lasciare i bagagli in hotel dopo il check-out e partire per l'aeroporto con almeno tre ore di anticipo: il traffico di Bangkok nelle ore di punta è imprevedibile.* Per arrivare a Suvarnabhumi l'Airport Rail Link evita gli ingorghi.
+
+**In pratica:** check-out con deposito bagagli in hotel · templi con spalle e ginocchia coperte · Chatuchak solo nel fine settimana · Airport Rail Link per Suvarnabhumi, Grab o taxi per Don Mueang · partire per l'aeroporto almeno tre ore prima.
 
 ## Bangkok: i rooftop bar
 Bangkok è probabilmente la capitale mondiale dei rooftop bar: vale la pena

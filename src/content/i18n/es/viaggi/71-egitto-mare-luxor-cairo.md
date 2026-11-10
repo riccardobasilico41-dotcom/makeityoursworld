@@ -158,6 +158,8 @@ Quien tiene el título hace dos inmersiones: **Elphinstone** para los tiburones 
 ### Día 10 — Wadi el Gemal o jornada libre
 El último día completo se elige según la energía que quede. El parque de **Wadi el Gemal**, al sur de Marsa Alam, une desierto, manglares y la bahía de Sharm el Luli, con una arena blanca y un agua entre las más claras de la costa. Como alternativa, una excursión por el desierto al atardecer, con cena beduina bajo las estrellas, o simplemente un día de playa.
 
+Para Wadi el Gemal se sale temprano: **Sharm el Luli** está a unos sesenta kilómetros al sur de Marsa Alam, cerca de una hora de carretera, y en las primeras horas la playa sigue casi vacía y el agua quieta. Muchas excursiones añaden una parada en los **manglares de Qulan**, cerca de Hamata, con canales de agua baja y arena blanca, y un tramo de pista por el wadi donde a veces se ven gacelas. *El parque es un área protegida: se entra al agua desde la arena, sin pisar el coral, y no se recoge nada.* Quien prefiere quedarse en el hotel reserva la tarde para el último snorkel desde la orilla, con la luz baja del atardecer.
+
 **En la práctica**
 - Excursión a Wadi el Gemal y Sharm el Luli: aproximadamente 35-60 $
 - Cena beduina en el desierto: aproximadamente 30-50 $
@@ -165,6 +167,8 @@ El último día completo se elige según la energía que quede. El parque de **W
 
 ### Día 11 — Regreso
 Traslado al aeropuerto de **Marsa Alam** (o de Hurghada) y vuelo directo a Italia. En el control de seguridad de salida te hacen confiscar conchas, corales y arena: está prohibido llevárselos, incluso en pequeñas cantidades.
+
+El **aeropuerto de Marsa Alam** está a unos 60 km al norte de la ciudad, cerca de Port Ghalib: desde los hoteles más al sur hay que contar una hora o más de traslado, que se acuerda con el hotel la noche anterior. Quien vuela desde Hurghada debe calcular unas tres horas y media de carretera por la costa. Los horarios de los vuelos directos a Italia cambian con la temporada y la compañía, y las habitaciones suelen dejarse antes del mediodía. *Con un vuelo de noche conviene pedir un late check-out o una habitación de día para ducharse después del último baño.*
 
 **En la práctica**
 - Llegar al aeropuerto 3 horas antes: los controles son dobles, a la entrada y en la puerta de embarque

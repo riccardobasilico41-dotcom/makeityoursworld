@@ -27,14 +27,18 @@ I toured Sri Lanka in a **private van with driver**: comfortable and carefree, b
 
 ## Itinerario giorno per giorno
 ### Day 1 — Negombo
-From Colombo airport to Negombo I was driven by Michael, a trusted driver, for about 6,000 LKR per car. Anyone arriving in time for lunch will find at **SeaJoy** a cheap place with good value for money; in the late afternoon we met up at the hotel before going out.
+From Colombo airport to Negombo I was driven by Michael, a trusted driver, for about 6,000 LKR per car. Negombo is about twenty minutes from the airport, which is why it is the most convenient base for the first and last night, much more than Colombo. If you arrive in time for lunch, **SeaJoy** is a cheap place with good value for money; the afternoon is best left for resting after the flight, with at most a walk on the beach, which is wide here but not as beautiful as those in the south. In the late afternoon we met at the hotel before going out.
 
-The welcome dinner, not included, is chosen among **Salt Restaurant**, **Tuk Tuk Wine & Dine** and **Jude Restaurant**: there the fish and seafood are good, about €12 a head, but the service is slow and there is Italian music in the background. Afterward, **Rodeo** or the **Sky Lounge**, or you ask guides and locals where there is a beach party. *Tip for the next day: the Negombo fish market, early in the morning, is a sight.*
+The welcome dinner, not included, is a choice between **Salt Restaurant**, **Tuk Tuk Wine & Dine** and **Jude Restaurant**: the fish and seafood there are good, about €12 per person, but the service is slow and there's Italian music in the background. Afterwards, the **Rodeo** or the **Sky Lounge**, or ask the guide and the locals where there's a beach party. *Tip for the next day: the Negombo fish market, early in the morning, is a spectacle.*
+
+**In practice:** airport-Negombo about 20-30 minutes, agree the car price before leaving · take out rupees at the airport and get a local SIM for the transport apps · for tuk tuks in town use the apps or agree the price before getting in.
 
 ### Day 2 — Negombo-Anuradhapura
-After breakfast, five hours on the road to **Anuradhapura**, the first of the sacred cities of the Sinhalese cultural triangle: immense dagobas, ruins that tell more than two thousand years of Buddhist history and the Sri Maha Bodhi, a direct descendant of the tree under which the Buddha reached enlightenment.
+After breakfast, five hours on the road to **Anuradhapura**, the first of the sacred cities of the Sinhalese cultural triangle: huge dagobas, ruins telling more than two thousand years of Buddhist history, and the Sri Maha Bodhi, a direct descendant of the tree under which the Buddha attained enlightenment. The site is very large, with stupas kilometres apart, and is toured by car, tuk tuk or bicycle. It's best to arrive in the early afternoon, when the heat starts to ease, and to leave the Sri Maha Bodhi for last, when in the evening pilgrims dressed in white bring flowers and oil lamps.
 
-The visit to the site lasts about three hours, with a guide: Anil, who goes by bicycle, or Lalith, who speaks excellent English, for about 6,500 LKR (€19) plus tip. On paper you are back at the hotel in the late afternoon; in reality, between a flat tire and the rain, I arrived much later. Buffet dinner at the hotel, about 2,200 LKR plus drinks.
+The visit to the site takes about three hours, with a guide: Anil, who goes around by bicycle, or Lalith, who speaks excellent English, for about 6,500 LKR (€19) plus a tip. *Temples are entered barefoot, with shoulders and knees covered: a pair of socks helps on the scorching stones.* On paper you're back at the hotel in the late afternoon; in reality, between a flat tyre and the rain, I arrived much later. Buffet dinner at the hotel, about 2,200 LKR plus drinks.
+
+**In practice:** Negombo-Anuradhapura about 5 hours by car · the foreigners' ticket for the Anuradhapura site costs a few tens of dollars, paid separately from the guide · water, a hat and sunscreen: there's little shade between the stupas.
 
 ### Day 3 — Anuradhapura-Dambulla: Mihintale and safari
 Wake-up before dawn and half an hour on the road to **Mihintale**, where according to tradition Buddhism arrived in Sri Lanka in the 3rd century BC. The visit lasts a couple of hours: entrance 500 LKR, a sarong for rent at 50 LKR and socks for walking in the temples.
@@ -43,12 +47,16 @@ An hour and a half later we were on the **safari** jeep. I did it at **Minneriya
 
 In the late afternoon we climbed **Pidurangala Rock** for sunset: half an hour up with a demanding last stretch, so real shoes and not flip-flops. In front is Sigiriya Rock, and it is one of the most beautiful views of the trip. At the top you pay 1,000 LKR; you need the sarong and a headlamp to come down in the dark. Dinner in Dambulla, at **Mom's Kitchen** or the **Golden Palace**.
 
+**In practice:** Mihintale 500 LKR, sarong 50 LKR · safari at Minneriya, Hurulu or Kaudulla about 12,000 LKR per jeep plus entry, the park is chosen that morning depending on where the elephants are · Pidurangala 1,000 LKR, half an hour's climb, head torch for the way down · dinner in Dambulla at Mom's Kitchen or the Golden Palace.
+
 ### Day 4 — Dambulla-Polonnaruwa-Dambulla
 Early, half an hour to **Sigiriya**, Lion Rock. The climb takes an hour and a half or two; entrance ranges from 10,000 LKR to 30 USD per person depending on the rate applied, and you need a sarong, water and something to eat. At the top are the foundations of the 5th-century royal palace, and along the mirror wall the frescoes of the celestial maidens: one of the strongest moments of the trip. *Tip: start early, before the heat.*
 
 An hour and ten minutes later we arrived at **Polonnaruwa**, the island's second medieval capital. We toured it by bicycle, rented on the spot for 1,000 LKR (about €2.50), among temples and Buddha statues: two and a half or three hours, lighter and more direct than Sigiriya. Recommended guide: Indu, 6,000 LKR plus tip. Lunch, before or after depending on timing, is at **Priyamali gedara**, a country restaurant over the rice paddies, very good.
 
 On the way back to Dambulla there is the **Ayurvedic massage**, to be booked the day before through the driver. You have dinner in Dambulla or Sigiriya, at the same places as the evening before.
+
+**In practice:** Sigiriya from 10,000 LKR to 30 USD per person, climb of an hour and a half to two hours, best at opening time · Polonnaruwa by bicycle, hire about 1,000 LKR, guide Indu 6,000 LKR plus tip · lunch at Priyamali gedara · Ayurvedic massage to be booked the day before through the driver.
 
 ### Day 5 — Dambulla-Kandy
 The morning was for the **Golden Temple of Dambulla**: five caves carved into the rock, full of Buddha statues and frescoes, one of the most beautiful and least touristy places of the trip (the ticket office closes at 5 pm, the temple at 7 pm). Then the **Dambulla Wholesale Market**, the biggest wholesale market in Sri Lanka, where you sample street food among the stalls.
@@ -57,13 +65,21 @@ Around noon we left for **Kandy**, two hours, with lunch at the **Ranweli Spice 
 
 In the evening there is the **Temple of the Tooth**. The ceremony begins as the light fades, with the drums just before, but the line forms from late afternoon: I got in just in time for the drums. Entrance 2,000 LKR, sarong mandatory. For dinner, a South Indian restaurant found by chance: dirt cheap and excellent, even if they get a bit confused with the orders.
 
-### Day 6 — Kandy-Nallathanniya: rafting at Kitulgala
-We left Kandy in the morning; if the guide agrees, there is an unscheduled stop at a local orphanage. Two hours and we arrived at **Kitulgala**, for a day on the water: **rafting on the Kelani River**, the same one where *The Bridge on the River Kwai* was filmed, organized by the DMC. With the operator you can add canyoning, waterfall jumps and a jungle walk with lunch.
+**In practice:** Dambulla Golden Temple, ticket office closes at 5pm and temple at 7pm, shoes at the deposit · Dambulla-Kandy about 2 hours, with a stop at Ranweli Spice Garden · Temple of the Tooth 2,000 LKR, sarong compulsory, queue from late afternoon for the evening ceremony.
 
-In the evening we arrived at **Hatton/Nallathanniya**, the base for the climb of **Adam's Peak**, that same night or the next. Dinner at the hotel.
+### Day 6 — Kandy-Nallathanniya: rafting at Kitulgala
+We left Kandy in the morning; if the guide agrees, there's an unscheduled stop at a local orphanage. Two hours later we reached **Kitulgala**, for a day on the water: **rafting on the Kelani River**, the same one where *The Bridge on the River Kwai* was filmed, organised by the DMC. The classic stretch takes a couple of hours, with rapids suitable even for first-timers, helmet and life jacket provided by the operator. With the operator you can add canyoning, waterfall jumps and a jungle walk with lunch.
+
+In the evening we arrived in **Hatton/Nallathanniya**, the base for climbing **Adam's Peak**, the same night or the next. After Kitulgala the road climbs through the tea plantations, with many bends, and it's best to arrive before dark. Dinner at the hotel, early. *If you climb the same night, go to bed straight after dinner: the alarm goes off in the middle of the night, and sweatshirt, head torch, water and snacks need to be ready.*
+
+**In practice:** Kandy-Kitulgala about 2 hours, Kitulgala-Nallathanniya a few hours of mountain road · rafting to be arranged with the DMC, water level changes with the rains · spare clothes and a waterproof bag for phone and documents.
 
 ### Night Adam's Peak — the physical challenge of the trip
-We set off in the dead of night to reach the top, at 2,243 meters, at dawn. It is two and a half or three hours of pilgrimage staircase, fully lit and crowded: from December to May it is pilgrim season, and the last stretch is done in single file, at a snail's pace. At the top it is cold, between 3 and 6 degrees with the wind, and a sweatshirt is indispensable. Coming down takes another two and a half or three hours. *The real attraction is the effort shared with hundreds of pilgrims, more than the temple at the top: an experience that is worth more for the path than for the destination.*
+We set off in the dead of night to reach the top, at 2,243 metres, at dawn. It's two and a half to three hours of pilgrimage staircase, fully lit and crowded: December to May is pilgrim season, and the last stretch is done in single file, at a snail's pace. The path from Nallathanniya is made of thousands of steps, with tea stalls and small temples along the way where you can stop to catch your breath. Out of season the lights may be off and the stalls closed, and the climb becomes much harder.
+
+At the top it's cold, between 3 and 6 degrees with the wind, and a sweatshirt is essential. You wait for dawn in front of the small temple, and on clear mornings the triangular shadow of the mountain stretches over the valley. Getting down takes another two and a half to three hours. *The real attraction is the effort shared with hundreds of pilgrims, more than the temple at the top: an experience worth more for the journey than for the destination.*
+
+**In practice:** departure roughly between 1am and 2.30am · hiking shoes, head torch, sweatshirt or light down jacket, water and a few snacks · on holidays and full-moon days the crowds are bigger and the climb slower · the descent is hard on the knees: poles help.
 
 ### Day 7 — Hatton-Nuwara Eliya: tea plantations
 After breakfast we went to the **Pedro Tea Plantation**, with a visit to the plantation and the tea factory. The transfer varies a lot depending on the base: for me it was about twenty minutes instead of the two hours planned.
@@ -72,6 +88,8 @@ Then **Nuwara Eliya**, Sri Lanka's "Little England", at 1,868 meters. After lunc
 
 You dine at **De Silva Food Center**, **Grand Indian**, **Grand Thai** or, the most local, **Themparadu**. The nightcap is at the **Lakeview Pub**.
 
+**In practice:** Pedro Tea Plantation with a factory visit, cheap ticket · activities in Nuwara Eliya around 5,000-8,000 LKR · Horton Plains about an hour away, to be done first thing in the morning because the clouds rise early and cover World's End · evenings at almost 1,900 metres are cool: bring a sweatshirt.
+
 ### Day 8 — Nuwara Eliya-Ella: the scenic train
 After breakfast we went to the station for the **train from Nanu Oya to Ella**. On paper it's three hours; I left in the early afternoon and arrived late in the evening, with nothing to eat on board. *It is the most photographed route in Sri Lanka, among tea valleys, bridges and tunnels, but it must be taken with the right spirit: delays are the norm.*
 
@@ -79,23 +97,35 @@ At **Ella**, before or after the train, if time allows: the **Nine Arches Bridge
 
 The evening was the cooking class with dinner from the DMC, then **One Love Ella**: nice place, but watch out for the drinks offered at the table, which often end up on the bill.
 
+**In practice:** Nanu Oya-Ella train with reserved seats, in high demand, to be booked in advance · no food on board: stock up before leaving · Nine Arches Bridge free, train times unreliable · Flying Ravana zip line about €20 · at One Love Ella watch out for drinks offered at the table.
+
 ### Day 9 — Ella-Yala-Hikkaduwa: safari and first beach
 Very early wake-up and two hours on the road to **Yala National Park**, the park with the highest density of leopards in the world, along with elephants, crocodiles, water buffalo and a great many birds. The safari lasts about four hours and costs 12,000-16,000 LKR per jeep, plus entrance (€27-30 per person) and tip. Breakfast, often prepared by the resort, is eaten mid-morning.
 
 Then we headed toward the coast, two hours and a quarter or two forty. Along the road are the famous stilt fishermen: *today they are almost always a staged show for tourists, no longer a real way of fishing.* In Mirissa, in the early afternoon, a good pizza from a kiosk (about 4,000 LKR), and in the late afternoon we arrived in **Hikkaduwa**. Dinner at a seaside restaurant: slow service, excellent red snapper.
 
-### Day 10 — Hikkaduwa: day at the sea
-A full day of beach, to fill as you like. The best spot for **swimming with turtles** is in front of the Hikka Tranz by Cinnamon Hotel. The **Tsunami Museum** tells what the 2004 tsunami did to this coast. Then there are the Big Buddha, surfing, snorkeling, diving and the boat safari on the Madu River; if the weather is bad, you can go to Colombo.
+**In practice:** Ella-Yala about 2 hours · Yala safari 12,000-16,000 LKR per jeep, plus entry of €27-30 per person and tip · the park may close for a few weeks in the dry season, check beforehand · Yala-Hikkaduwa about 2-3 hours, with lunch in Mirissa.
 
-You have lunch on the beach at **Steffi's Mandala**, vegetarian, or at the **Thambili Cafe**. In the evening, the beach club **Sea Salt Society** or **Canal View**.
+### Day 10 — Hikkaduwa: day at the sea
+A whole day at the beach, to fill as you like. The best spot to **swim with turtles** is in front of the Hikka Tranz by Cinnamon Hotel: you get there from the beach, swim a few metres from the shore, and early in the morning the water is calmer and there are fewer people. *Turtles must not be touched or fed, even if some people sell seaweed on the beach for that.* The **Tsunami Museum** tells what the 2004 tsunami did to this coast, with photos and testimonies from local people.
+
+Then there are the Big Buddha, surfing, snorkelling, diving and the boat safari on the Madu River, among mangroves and islets; if the weather is bad, you can go to Colombo. Lunch on the beach at **Steffi's Mandala**, vegetarian, or at **Thambili Cafe**. In the evening, the **Sea Salt Society** beach club or **Canal View**. At sunset the beach fills with locals, and it's the best moment of the day.
+
+**In practice:** the sea on the south-west coast is calm roughly from November to April, rougher in the monsoon season · Tsunami Museum by donation · snorkelling and diving with the centres on the beach, gear for hire · water-resistant sunscreen, the sun is strong even under cloud.
 
 ### Day 11 — Hikkaduwa-Negombo
-Last free morning in Hikkaduwa. On the road to Negombo, 45 minutes away, is the **Sea Turtle Conservation Project in Bentota**; if there is time left, in the afternoon you stop by Colombo.
+Last free morning in Hikkaduwa: a final swim, or time to pack calmly, because the journey north takes up the rest of the day. On the road to Negombo, 45 minutes away, is the **Bentota Sea Turtle Conservation Project**, where you see the tanks with turtles and hatchlings before they are released into the sea. If there's time left, in the afternoon you pass through Colombo, for a walk on the Galle Face Green seafront or among the Pettah markets.
 
-The farewell dinner, not included, goes back to the same places as the first night: Salt Restaurant, Tuk Tuk Wine & Dine, Jude Restaurant. And afterward, maybe, one last beach party.
+The farewell dinner, not included, goes back to the same places as the first evening: Salt Restaurant, Tuk Tuk Wine & Dine, Jude Restaurant. And afterwards, perhaps, one last beach party. *Pack your bags that evening and check the flight time: for night or early-morning flights, Negombo is a few minutes from the airport.*
+
+**In practice:** Hikkaduwa-Negombo about 3 hours on the Southern Expressway, longer with stops and Colombo traffic · the Bentota turtle centre charges a few euros entry · last purchases of tea and spices cost less at the markets than at the airport.
 
 ### Day 12 — Negombo-Airport
-Check-out, and Michael took me back to the airport, about 5,000 LKR per car. Nothing is organized: time is free until the flight.
+Check-out, and Michael drove me back to the airport, about 5,000 LKR per car. Nothing is organised: the time is free until the flight. With an afternoon or evening flight there's a whole morning left in Negombo, to spend on the beach or on a boat trip on the lagoon and canals, among the fishermen and the mangroves. If you didn't see the fish market on the first morning, you can go now, at dawn, when the boats come in.
+
+Rooms usually have to be vacated by midday, but many hotels keep luggage and, for a fee, allow a late check-out. *Spend leftover rupees before security: after customs prices are in dollars and the exchange rate is poor.* Get to the airport well in advance, because the checks at the terminal entrance and at passport control can take time.
+
+**In practice:** Negombo-airport about 20-30 minutes · arrive at least 3 hours before an international flight · ask the hotel the day before about late check-out or luggage storage.
 
 ## What to see / what to do
 - **Sigiriya:** Lion Rock, among the most spectacular royal ruins in Asia.

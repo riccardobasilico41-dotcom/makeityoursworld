@@ -43,6 +43,8 @@ Late in the afternoon we reached the **Roman Quarter**, the oldest part of the c
 
 We had aperitivo in the Quadrilatero, the area where people go out in the evening.
 
+**In practice:** Egyptian Museum open on Monday 9 am-2 pm and Tuesday to Sunday 9 am-6:30 pm, online ticket recommended because the ticket office only sells what's left · Royal Museums closed on Wednesday, full ticket about €15 · Palazzo Madama closed on Tuesday · Porta Palazzo is best in the morning, and biggest on Saturday · the Torino+Piemonte Card pays off if you visit several museums.
+
 ### Day 2 — The Mole, the River and the Hill
 In the morning we went to the **Mole Antonelliana**, the symbol of the city, built for quite another purpose: **it was begun in 1863 as a synagogue** for Turin's Jewish community, newly emancipated, and the architect Antonelli let it grow well beyond the plan and the budget until the community abandoned it and ceded it to the city. It is **one of the tallest masonry buildings ever built**.
 
@@ -57,6 +59,8 @@ Afternoon, two possibilities.
 **Option B: industrial twentieth century.** The **National Automobile Museum** tells the story of the car as social history and not as a gallery of models, and is among the best in the world of its kind. Then the **Lingotto**: the former factory with **the test track on the roof**, where newly assembled cars came off the line and went up to circle at altitude, and the **Pinacoteca Agnelli** in the structure suspended on the roof: a small, very high-quality collection, with the track running around it that you can walk.
 
 We closed the last evening with a proper Turin aperitivo and a Piedmontese dinner.
+
+**In practice:** Cinema Museum and panoramic lift closed on Tuesday, lift at fixed times to book online, especially at weekends · Sassi-Superga tram with runs about every hour and a weekly closing day, usually Wednesday: check the GTT site · Automobile Museum and Lingotto reachable by metro to Lingotto stop · book the Piedmontese dinner on Saturday nights.
 
 ## If You Have a Third Day
 - **Reggia di Venaria Reale:** outside the city, reachable by bus or shuttle. It's an enormous complex, restored after decades of abandonment as a barracks, with Juvarra's **Grand Gallery** (a nave of light eighty meters long) and the gardens. **It takes a full half day**, and can't be done well in a rush.

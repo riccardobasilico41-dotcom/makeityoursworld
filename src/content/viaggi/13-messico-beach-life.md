@@ -27,14 +27,18 @@ Se devo scegliere un solo momento per aprire questo racconto, scelgo lo squalo b
 ## Itinerario giorno per giorno
 
 ### Giorno 0 — Cancún, notte extra pre-tour
-Sono arrivato a Cancún e ho preso il bus ADO fino al terminal; i biglietti si comprano in aeroporto con la carta di credito. Il terminal ADO è comodo come punto di riferimento: lì vicino c'è un 7-Eleven, dove ho comprato la SIM Telcel.
+Sono arrivato a Cancún e ho preso il bus ADO fino al terminal; i biglietti si comprano in aeroporto con la carta di credito. Il terminal ADO è comodo come punto di riferimento: lì vicino c'è un 7-Eleven, dove ho comprato la SIM Telcel. Il bus parte dai terminal dell'aeroporto e in circa mezz'ora porta al centro di Cancún, il Downtown, che è un'altra città rispetto alla Zona Hotelera dei resort: più economica, più locale, e comoda come base per partire. Conviene arrivare con un po' di pesos in contanti o prelevarli al primo bancomat di una banca, evitando i cambiavalute dell'aeroporto.
 
-Ho dormito all'Hostel Selina Cancún Downtown, a circa 200 metri dal terminal ADO: pulito, con colazione inclusa a bordo piscina. Per cena, bancarelle e street food a **Parque las Palapas**.
+Ho dormito all'Hostel Selina Cancún Downtown, a circa 200 metri dal terminal ADO: pulito, con colazione inclusa a bordo piscina. Per cena, bancarelle e street food a **Parque las Palapas**. La notte extra serve soprattutto a smaltire il fuso e a cominciare il tour riposati: chi arriva dall'Europa atterra di solito nel pomeriggio, e la sera basta una passeggiata nel parco, dove le famiglie del quartiere si ritrovano tra banchi di marquesitas, elotes e tacos.
+
+**In pratica:** bus ADO aeroporto-centro circa 140 pesos, biglietti al banco ADO o su ado.com.mx · SIM Telcel nei minimarket, con il passaporto · prelevare ai bancomat delle banche, non ai cambi dell'aeroporto · Parque las Palapas animato soprattutto la sera.
 
 ### Giorno 1 — Cancún, giornata di spiaggia
 Giornata senza transfer. Con il bus R1 rosso mi sono spostato verso **Playa Marlin** o **Playa Gaviota** (vicino a quest'ultima c'è anche un mercatino molto turistico, utile per un primo giro tra i souvenir). Il Selina è a circa 300 metri dal Luma e a 500 dal terminal ADO, quindi si fa tutto a piedi.
 
 Aperitivo e street food ancora a Parque las Palapas, poi cena messicana da **a la Parrilla**, che fa il conto individuale (occhio: con più di 10 persone al tavolo spesso applicano un servizio del 50% in più) e offre un chupito finale. Un consiglio pratico: fare subito scorta di snack e acqua e cambiare o prelevare contanti in abbondanza, per evitare continui stop nei giorni successivi.
+
+**In pratica:** bus R1 lungo il Boulevard Kukulcán ogni pochi minuti, si paga a bordo in contanti · spiagge pubbliche gratuite, lettini e ombrelloni a pagamento · in estate può arrivare il sargasso: controllare i bollettini locali · contanti in pesos per i pasti e le mance.
 
 ### Giorno 2 — Cancún → Valladolid
 È il giorno dell'incontro con il driver. Il mio è stato Manuel, un vero patron: prenotava lui pranzi e guide lungo il percorso e indicava sempre i tempi giusti per ogni tappa.
@@ -43,12 +47,16 @@ Siamo partiti presto in mattinata verso **Río Lagartos** (al porto c'è un bar 
 
 In giornata siamo arrivati a Valladolid, all'hotel Waye. La sera sono uscito in città, che si raggiunge a piedi dall'hotel: Valladolid è molto tranquilla, un buon posto per una passeggiata dopo cena.
 
+**In pratica:** Cancún-Río Lagartos circa 3 ore di strada, poi un'ora fino a Ek Balam e mezz'ora fino a Valladolid · Ek Balam tra i siti più cari dello Yucatán, circa 690 pesos per gli stranieri nel 2026, più il parcheggio · cenote Xcanché con ingresso a parte · costume e asciugamano nello zaino.
+
 ### Giorno 3 — Valladolid → Mérida
 Partenza presto verso **Chichén Itzá**. Sono entrato in mattinata, con circa due ore per la visita completa. Il sito è aperto tutti i giorni dalle 8:00 alle 17:00, con ultimo ingresso alle 16:00; l'ingresso si paga con carta/Revolut alla cassa, e all'ufficio dietro l'ingresso c'è un timbro gratuito per il passaporto.
 
 Sosta a **Izamal** per la piramide e il convento, con una pausa all'OXXO vicino al convento per rifocillarmi. Nota pratica: Izamal è cara, meglio non perdere troppo tempo (né soldi) tra i souvenir, tanto il pranzo vero arriva più avanti.
 
 Pranzo (tardi) al **cenote Ik Kil**, che chiude alle 17; anche qui si paga con carta/Revolut alla cassa. Siamo arrivati a Mérida prima di cena, all'hotel Ontico, e abbiamo cenato alla **Mezcalería**, un locale molto grande dove non serve prenotare. A Mérida ho usato anche il servizio lavanderia dell'hotel: comodo, a metà viaggio.
+
+**In pratica:** Chichén Itzá con biglietto unico da circa 700 pesos per gli stranieri dal 2026, aperto dalle 8 alle 17 · arrivare all'apertura, prima dei pullman da Cancún · Ik Kil e Izamal lungo la strada per Mérida · Chichén Itzá-Mérida circa 2 ore.
 
 ### Giorno 4 — Mérida, giornata break: Playa Progreso
 Giornata senza transfer, dedicata a un'escursione a **Playa Progreso**, con partenza in mattinata. Al beach club **El Adiós** ho chiesto di Ana: con una consumazione i lettini in spiaggia sono gratis. A Progreso c'è anche il **museo del meteorite**, e poco distante **Isla C. Olimpios**, una spiaggia alternativa molto bella e meno battuta.
@@ -57,6 +65,8 @@ Giornata senza transfer, dedicata a un'escursione a **Playa Progreso**, con part
 
 Siamo rientrati a Mérida nel tardo pomeriggio. Prima di scendere in centro sono passato dalla **Negrita** per prenotare (chiude alle 22, quindi conviene muoversi per tempo) e mi sono fatto lasciare dal driver al mercado municipal per un pomeriggio libero di shopping. In serata, dopo la Negrita, ci siamo spostati alla Mezcalería per continuare.
 
+**In pratica:** Mérida-Progreso circa 40 minuti di strada · beach club con lettini gratuiti a fronte di una consumazione, da chiedere prima di sedersi · protezione solare e acqua, perché l'ombra in spiaggia è poca · prenotare la Negrita in anticipo nei weekend.
+
 ### Giorno 5 — Mérida → Campeche
 Giornata a tappe serrate, per arrivare puntuali al Temazcal in serata. Siamo partiti presto in mattinata verso **Uxmal**, con la guida prenotata dal driver (vicino al sito ci sono un bancomat e, tempo permettendo, il museo del cioccolato). Pranzo tipico, carne cotta sottoterra, al ristorante **Po' Pol Chac**.
 
@@ -64,15 +74,21 @@ Nel primo pomeriggio siamo ripartiti, con tappa a **Becal** per i sombreros arti
 
 Nel tardo pomeriggio, **Temazcal Yax Ha**: circa 450 MXN, una cerimonia in mezzo alla selva, con una piscina per chi preferisce non partecipare al rito. La cena inclusa è comoda, direttamente al temazcal, in serata. A Campeche, all'hotel Drake, siamo arrivati a cena già fatta.
 
+**In pratica:** Mérida-Uxmal circa un'ora, poi altre 2 ore e mezza fino a Campeche con le soste · Uxmal circa 590 pesos per gli stranieri nel 2026 · Temazcal Yax Ha circa 450 pesos, cena inclusa · portare costume e cambio asciutto per la sera.
+
 ### Giorno 6 — Campeche → Mahahual
 È il transfer più lungo di tutto il viaggio, da costa a costa (est-ovest), con un cambio di fuso orario. I ritmi sono serrati e serve puntualità per non perdere la tappa successiva (una sosta al sito archeologico di Balam Ku, lungo il tragitto).
 
 Siamo partiti da Campeche il prima possibile. Il driver mi ha lasciato in Piazza della Cattedrale (curatissima, con i tipici lustrascarpe), da lì ho attraversato a piedi la **Puerta del Mar** fino al lungomare, dove il driver mi ha recuperato. Poi un'ora e mezza di van fino al **Cenote Miguel Colorado**, da cui bisogna ripartire entro mezzogiorno inoltrato per rispettare i tempi del resto della giornata. Siamo arrivati a Mahahual in serata.
 
-### Giorno 7 — Mahahual: Bacalar, snorkeling e Temazcal
-Giornata densa. In mattinata, **tour in barca di 2 ore a Bacalar** (con un'ora di kayak inclusa dopo la barca), sulla famosa laguna dai sette colori. Nel primo pomeriggio, **snorkeling tra le tartarughe a Mahahual**: molto bello e apprezzato.
+**In pratica:** Campeche-Mahahual oltre 500 km, 6-7 ore di strada senza contare le soste · entrando in Quintana Roo si sposta l'orologio un'ora avanti · lungo la strada pochi distributori e poco campo: fare il pieno e scaricare le mappe offline · a Mahahual si cena sul malecón.
 
-In serata, il secondo **Temazcal** del viaggio, un'esperienza che definirei «spirituale», capace di unire emotivamente il gruppo. Oltre al rito con lo sciamano è una vera sauna, molto lunga, al buio: chi soffre di claustrofobia è meglio che lo sappia in anticipo. Resta una di quelle esperienze che non si dimenticano.
+### Giorno 7 — Mahahual: Bacalar, snorkeling e Temazcal
+Giornata densa. In mattinata, **tour in barca di 2 ore a Bacalar** (con un'ora di kayak inclusa dopo la barca), sulla famosa laguna dai sette colori. Nel primo pomeriggio, **snorkeling tra le tartarughe a Mahahual**: molto bello e apprezzato. Bacalar è a circa un'ora e mezza di strada da Mahahual, e la mattina è il momento migliore per la laguna: l'acqua è più calma, la luce fa risaltare le sfumature dal turchese al blu scuro e le barche sono meno. Il giro tocca di solito i cenote dentro la laguna, il canale dei pirati e le zone di fondale bianco dove ci si ferma a fare il bagno; a Mahahual lo snorkeling si fa sulla barriera corallina a pochi minuti di barca dalla spiaggia.
+
+In serata, il secondo **Temazcal** del viaggio, un'esperienza che definirei «spirituale», capace di unire emotivamente il gruppo. Oltre al rito con lo sciamano è una vera sauna, molto lunga, al buio: chi soffre di claustrofobia è meglio che lo sappia in anticipo. Resta una di quelle esperienze che non si dimenticano. *Il temazcal è sconsigliato a chi ha problemi di pressione o di cuore e a chi è in gravidanza: chiedere a chi lo conduce prima di entrare.*
+
+**In pratica:** tour in barca di 2 ore sulla laguna, spesso con kayak compreso, da prenotare il giorno prima · a Bacalar solo creme solari biodegradabili, e niente camminate sugli stromatoliti, protetti · snorkeling a Mahahual con attrezzatura e giubbotto inclusi nei tour · per il temazcal portare costume, asciugamano e acqua.
 
 ### Giorno 8 — Tulum: giornata chill
 Giornata rilassata a **Caleta Tankah** (ingresso 300 MXN a persona, niente carte). All'inizio il mare non era invitante e stavo quasi per andarmene dopo pochi minuti, ma non c'è rimborso, nemmeno appena entrati. Poi è uscito il sole e la giornata è cambiata del tutto: il cenote dentro la caleta è molto carino. *Nota pratica: pensarci bene prima di entrare, perché il rimborso non c'è in nessun caso.*
@@ -81,23 +97,35 @@ In zona ho fatto anche un bagno in un **cenote vicino a Dos Ojos**, nel sistema 
 
 Serata top allo **Straw Hat**, con giochi «hot» che hanno movimentato la serata (e creato più di una coppietta di viaggio).
 
-### Giorno 9 — Tulum e Playa del Carmen
-In mattinata abbiamo visitato il **sito archeologico di Tulum**, sulla scogliera a picco sul Caribe. Pranzo e pomeriggio a **Playa Paraíso**, una delle spiagge più belle di tutto il viaggio: mi sono fermato da **El Paraíso Hotel Tulum** (il secondo beach club sulla destra entrando in spiaggia, con lettini a pagamento).
+**In pratica:** Caleta Tankah circa 300 pesos a persona, solo contanti e senza rimborso · i cenote del sistema Sac Actun, come Dos Ojos, hanno ingressi a parte, spesso solo in contanti · torcia e maschera utili nelle grotte · Tulum si gira in bici o in taxi, a prezzo fissato prima.
 
-La sera eravamo a **Playa del Carmen**, al **Clandestino**, dove alle ragazze del gruppo hanno offerto più di un drink.
+### Giorno 9 — Tulum e Playa del Carmen
+In mattinata abbiamo visitato il **sito archeologico di Tulum**, sulla scogliera a picco sul Caribe. Pranzo e pomeriggio a **Playa Paraíso**, una delle spiagge più belle di tutto il viaggio: mi sono fermato da **El Paraíso Hotel Tulum** (il secondo beach club sulla destra entrando in spiaggia, con lettini a pagamento). Conviene arrivare all'apertura delle 8, prima del caldo e dei gruppi in arrivo da Cancún: il sito è piccolo, si visita in un'ora o poco più, e dal belvedere sopra la spiaggia si vede El Castillo a picco sul mare. Si entra dal Parque del Jaguar, con un biglietto per il parco e uno per la zona archeologica, e un trenino elettrico porta all'ingresso. Playa Paraíso è a pochi minuti più a sud, lungo la strada della costa.
+
+La sera eravamo a **Playa del Carmen**, al **Clandestino**, dove alle ragazze del gruppo hanno offerto più di un drink. Playa del Carmen è a circa 45 minuti da Tulum, e la sera la vita si concentra sulla **Quinta Avenida**, la via pedonale parallela al mare, e nelle strade laterali verso la spiaggia. *Meglio tenere d'occhio il bicchiere e prendere taxi autorizzati per rientrare.*
+
+**In pratica:** zona archeologica di Tulum circa 165 pesos per gli stranieri più circa 100 per il Parque del Jaguar dal 2026, aperta dalle 8 alle 17 con ultimo ingresso alle 15.30 · portare contanti, alla cassa le carte non sono sempre accettate · lettini dei beach club a pagamento o con consumazione minima · Tulum-Playa del Carmen circa 45 minuti.
 
 ### Giorno 10 — Verso Holbox: 3 Islas e bioluminescenza
-Siamo partiti molto presto, prima dell'alba, per arrivare a **Holbox** in tempo per il tour delle **3 Islas** in tarda mattinata, un giro tra fenicotteri, mangrovie e uccelli vari. Carino, ma un po' ripetitivo se nel viaggio si sono già viste cose simili; resta comunque una buona alternativa allo stare fermi in spiaggia tutto il giorno.
+Siamo partiti molto presto, prima dell'alba, per arrivare a **Holbox** in tempo per il tour delle **3 Islas** in tarda mattinata, un giro tra fenicotteri, mangrovie e uccelli vari. Carino, ma un po' ripetitivo se nel viaggio si sono già viste cose simili; resta comunque una buona alternativa allo stare fermi in spiaggia tutto il giorno. Holbox si raggiunge solo via mare: si arriva in auto o in bus a **Chiquilá**, si lascia il mezzo nei parcheggi del porto e si prende il traghetto, circa venti minuti di traversata. Sull'isola non ci sono auto, ci si muove a piedi, in bici o con i golf cart che fanno da taxi, e le strade sono di sabbia.
 
-Pranzo e pomeriggio a **Punta Mosquito**. In serata, la **bioluminescenza**, uno dei momenti più belli del viaggio. Occhio alle zanzare, però: meglio portarsi repellente in abbondanza.
+Pranzo e pomeriggio a **Punta Mosquito**. In serata, la **bioluminescenza**, uno dei momenti più belli del viaggio. Occhio alle zanzare, però: meglio portarsi repellente in abbondanza. Punta Mosquito è una lingua di sabbia a est del paese, raggiungibile a piedi con la bassa marea camminando nell'acqua bassa, e al tramonto si riempie di fenicotteri e aironi. La bioluminescenza si vede meglio nelle notti senza luna, da giugno a ottobre: i tour in kayak o a piedi si organizzano in paese e cambiano date secondo il calendario lunare.
+
+**In pratica:** traghetto Chiquilá-Holbox circa 200 pesos a tratta, corse frequenti dal mattino alla sera · parcheggio custodito a Chiquilá a pagamento · golf cart taxi in paese, prezzo da concordare · repellente e scarpe da acqua per Punta Mosquito.
 
 ### Giorno 11 — Holbox: squalo balena
-Escursione di 8 ore per nuotare con lo **squalo balena**, il vero must del viaggio. Costa parecchio, ma vale ogni peso speso: se dovessi consigliare una sola attività dell'intero itinerario sarebbe questa, ed è probabilmente la conclusione perfetta del tour.
+Escursione di 8 ore per nuotare con lo **squalo balena**, il vero must del viaggio. Costa parecchio, ma vale ogni peso speso: se dovessi consigliare una sola attività dell'intero itinerario sarebbe questa, ed è probabilmente la conclusione perfetta del tour. Le barche partono dal molo di Holbox al mattino presto e navigano un'ora o più al largo, dove gli squali balena si radunano per nutrirsi di plancton. Si entra in acqua a turni di due o tre persone con una guida, per pochi minuti alla volta, e le regole sono rigide: niente contatto, distanza minima, niente flash. Di solito il tour si chiude con una sosta per lo snorkeling e un pranzo leggero a bordo.
+
+È un'attività stagionale: il periodo è all'incirca da metà maggio a metà settembre, con luglio e agosto come mesi migliori, e a inizio stagione gli avvistamenti non sono garantiti. Conviene prenotare con operatori autorizzati e chiedere cosa è incluso, perché a volte il braccialetto del parco si paga a parte. *Il mare aperto può essere mosso: chi soffre il mal di mare prenda i rimedi prima di salire in barca.*
+
+**In pratica:** tour condiviso indicativamente sui 3.000-4.000 pesos a persona, più eventuale braccialetto del parco · partenza verso le 7-8, rientro nel primo pomeriggio · crema solare biodegradabile, maglia a maniche lunghe, acqua · giubbotto di salvataggio obbligatorio in acqua.
 
 ### Giorno 12 — Rientro a Cancún
-Siamo partiti da Holbox in mattinata e per l'ora di pranzo ero già a Cancún. Ho passato il resto della giornata nella spiaggia libera di fronte al **Coco Bongo**: al «Coco Bongo Beach Party» del pomeriggio le ragazze del gruppo avevano entrata gratuita e drink illimitati.
+Siamo partiti da Holbox in mattinata e per l'ora di pranzo ero già a Cancún. Ho passato il resto della giornata nella spiaggia libera di fronte al **Coco Bongo**: al «Coco Bongo Beach Party» del pomeriggio le ragazze del gruppo avevano entrata gratuita e drink illimitati. Il traghetto riporta a Chiquilá, e da lì sono circa due ore e mezza di strada fino a Cancún. Per il pomeriggio la Zona Hotelera ha le spiagge migliori della città, ma anche i prezzi più alti: un pasto in un locale del Downtown costa molto meno.
 
-In serata, **Coco Bongo**: uno di quei locali da fare almeno una volta, e un modo diretto per chiudere il viaggio dove era cominciato.
+In serata, **Coco Bongo**: uno di quei locali da fare almeno una volta, e un modo diretto per chiudere il viaggio dove era cominciato. Il Coco Bongo è uno spettacolo-discoteca con acrobati, musica dal vivo e open bar, e la serata comincia tardi e va avanti fino all'alba. *Chi ha il volo il giorno dopo tenga conto che l'aeroporto è a circa venti minuti dalla Zona Hotelera, e che serve arrivarci con almeno tre ore di anticipo.*
+
+**In pratica:** traghetto per Chiquilá al mattino, poi circa 2 ore e mezza fino a Cancún · Coco Bongo con open bar indicativamente da 90 dollari in su, secondo la serata, da prenotare sul sito ufficiale · documento d'identità obbligatorio, niente infradito né costumi · per l'aeroporto, ADO dalla Zona Hotelera o dal centro.
 
 ## Cosa vedere / cosa fare
 - **Ek Balam e, subito dopo, il cenote Xcanché**: rovine maya poco affollate e poi acqua fresca, una combinazione perfetta.

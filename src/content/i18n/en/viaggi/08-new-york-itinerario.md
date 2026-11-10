@@ -21,7 +21,11 @@ New York moves at a brisk pace, and over six days I crossed it on foot, 9-12 mil
 
 ## Itinerario giorno per giorno
 ### Day 1 (07.09) — Arrival, Times Square
+From **JFK** to Manhattan there are three options: a yellow cab at a flat fare, Uber or Lyft, or the **AirTrain** to Jamaica and then the subway or the LIRR train, the cheapest but also the least comfortable with luggage. From **Newark** there's the NJ Transit train to Penn Station. Flights from Italy usually land in the early afternoon, and with the six-hour time difference tiredness comes early: keep the first day light, with nothing booked at a fixed time. *It's worth staying awake until evening, to fix your sleep pattern straight away.*
+
 We arrived, dropped our bags at the Paramount Hotel, at 235 W 46th St, and our first dinner was at **Shake Shack**. Before heading out, it's worth booking **Top of the Rock**, the Rockefeller Center observation deck, for the following days. Then a walk through **Times Square**: at night, with the lights and the billboards, the impact is almost a must on the first evening. We ended the night at Magic Hour Bar.
+
+**In practice:** yellow cab from JFK to Manhattan at a flat fare of about $70, plus tolls, surcharges and tip, 45-75 minutes depending on traffic · AirTrain about $8.75 plus the $3 subway, paid by tapping a contactless card at the turnstiles (OMNY) · the Paramount is a short walk from Times Square, so the first evening is all on foot · Top of the Rock has timed tickets: sunset slots sell out first · in Times Square the costumed characters ask for money for photos.
 
 ### Day 2 (08.09) — Harlem, Central Park, Empire State Building
 For breakfast you can choose between Le Pain Quotidien, handy for the subway, The Monkey Cup in Harlem, and Junior's, for the cheesecake, which has several locations in the city, including 49th/45th Street and Brooklyn.
@@ -30,10 +34,14 @@ We spent the morning in Harlem, at the gospel service at Bethel Gospel Assembly 
 
 For lunch there are the cheap hot dogs at **Gray's Papaya**, a New York classic, or brunch at Andrew NYC Diner, near Madison Square Garden. In the afternoon we biked around **Central Park**: we took the M1 bus to the front of the Met, for the classic photo on the steps, and from there we rode into the park as far as Strawberry Fields. Dinner at **Kesté**, Neapolitan pizza, and late in the evening we went up the **Empire State Building**.
 
+**In practice:** Harlem gospel services are mostly on Sunday morning and seats for visitors are limited: arrive well ahead, dress modestly and no photos during the service · from Midtown to Harlem by subway about half an hour · bikes in Central Park from hourly rentals or Citi Bike, returned within the time included in the ride · Empire State Building about $45-50 for the 86th floor, more for the 102nd, open until late evening.
+
 ### Day 3 (09.09) — Cathedral, MoMA, High Line, The Vessel
 Early on we stopped by **Rockefeller Center** on the way to **St. Patrick's Cathedral**. Then **MoMA**, with its main entrance at 11 West 53rd Street: about two hours, giving priority to the fourth and fifth floors, where the most famous works are concentrated. *It's worth downloading the Bloomberg Connects app beforehand, for the map and audio guide, which are only available online.*
 
 For lunch, take your pick of something quick among Shake Shack Midtown East, Five Guys and McDonald's, or **Chelsea Market**. In the early afternoon we walked the **High Line**, about a mile and a half, to **The Vessel**: an hour and a half or two hours in all. Afterward you can go up **Edge** or **Summit**, the Hudson Yards observation decks, or head to Grand Central Station and the Public Library. Dinner was at **Ellen's Stardust Diner**, where the waiters sing.
+
+**In practice:** MoMA timed ticket online, best to go in at opening · the High Line is free, open from morning to evening, with entrances all along the route · The Vessel can only be climbed with a timed ticket · Edge and Summit cost a few tens of dollars and the sunset slot is the most expensive: one observatory at Hudson Yards is enough, since the Empire State and Top of the Rock are already on the plan.
 
 ### Day 4 (10.09) — Statue of Liberty, Wall Street, Chinatown, Broadway
 In the morning the ferry we'd booked took us to the **Statue of Liberty**, seen from below, and to **Ellis Island**, with its immigration museum. In the early afternoon we came back to Manhattan for lunch. The options: Liberty Bagels, Me La Wa (often with a line) or Uncle Lo in Chinatown, or Prince Street Pizza in SoHo, famous for its American-style pepperoni pizza.
@@ -42,6 +50,8 @@ Then **Wall Street**: the Charging Bull, the Stock Exchange, Trinity Church, Zuc
 
 Sunset is best watched from Time Out Market or Darling Rooftop, with a view of Central Park. In the evening, a **Broadway musical**.
 
+**In practice:** the only official ferry seller is Statue City Cruises, from Battery Park, about $25 with Ellis Island included · pedestal and crown access are limited and must be booked weeks ahead · before boarding there's airport-style security: arrive at least half an hour before your slot · musicals: the most popular shows are booked in advance, for the others there's the TKTS booth in Times Square with same-day discounts · in Chinatown some places take cash only.
+
 ### Day 5 (11.09) — Ground Zero, DUMBO, Top of the Rock
 On September 11, at **Ground Zero**, there's the commemoration ceremony, if the dates line up; then, if you like, the **9/11 Museum** and **The Oculus**. Lunch with the sandwiches from **Pisillo**.
 
@@ -49,8 +59,16 @@ We spent the afternoon in **DUMBO**, in Brooklyn: the corner of Water Street and
 
 With the time left: the New York Public Library, Fifth Avenue, Macy's, the Plaza, Trump Tower, Rockefeller Center. We watched the sunset from **Top of the Rock**. The last evening started at Virgil's BBQ, continued at 230 Rooftop and ended with a limo ride around Times Square.
 
+**In practice:** the Memorial is free, the 9/11 Museum costs a few tens of dollars with a timed ticket · on 11 September the Memorial is reserved for families in the morning for the ceremony and opens to the public later: check that day's hours · for DUMBO take the F train to York Street or the A/C to High Street · walking the Brooklyn Bridge takes 30-40 minutes, best in the direction of Manhattan · book Top of the Rock at sunset days ahead.
+
 ### Day 6 (12.09) — Heading home
 Check-out and goodbyes.
+
+Flights to Europe from JFK and Newark almost all leave in the late afternoon or evening, so the last day still leaves half a day. Check-out is usually at noon and Midtown hotels keep luggage in storage, so the morning can go to whatever was left off the list: breakfast in a diner, a walk through **Bryant Park** and **Grand Central Terminal**, last purchases on Fifth Avenue.
+
+Leave for the airport with a wide margin: in the afternoon traffic towards JFK can double the time, and with heavy bags a taxi or an app car is easier than the AirTrain. *Security at New York airports can take more than an hour: for an intercontinental flight, better to be at the terminal three hours ahead.* Liquid souvenirs, such as maple syrup or bottles, go in the checked bag.
+
+**In practice:** check-out usually at noon, luggage storage free or for a small tip · from Midtown to JFK by taxi about an hour, more at rush hour, at a flat fare of about $70 plus tolls and tip · alternatively AirTrain plus subway or LIRR · be at the terminal three hours before the flight.
 
 ## Live sports: one baseball game and one basketball game
 In September you can combine two different sports in the same trip:

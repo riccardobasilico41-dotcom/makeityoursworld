@@ -87,12 +87,15 @@ Tourist Egypt is safe with respect to violent crime; the real problem is commerc
 ## Itinerario giorno per giorno
 
 ### Day 1 — Arrival in Cairo
-We landed in Cairo, bought the visa at the counter before the checks (needed if you don't have the e-visa) and took an Uber to **Giza**, where it's best to sleep for the first three days: you're a few minutes from the pyramids, the Grand Egyptian Museum and the road to Saqqara. In the evening there's the sound and light show in front of the Sphinx, which you can also see from many hotel terraces.
+We landed in Cairo, bought the visa at the counter before the checks (needed if you don't have the e-visa) and took an Uber to **Giza**, where it's best to sleep for the first three days: you're a few minutes from the pyramids, the Grand Egyptian Museum and the road to Saqqara. The e-visa is applied for online on the official portal a few days ahead and saves you the queue at the counter; if you buy the visa on arrival you need dollars or euros in cash, or a card. *Outside arrivals you'll be approached by drivers and touts: Uber or the hotel transfer avoids any haggling.*
+
+In the evening there's the sound and light show in front of the Sphinx, which you can also see from many hotel terraces. Keep the first day light: change some cash, buy a SIM and have dinner near the hotel. In Cairo you need small banknotes for tips, *baksheesh*, given to guards, to whoever opens a door or takes a photo, at public toilets. The capital's traffic is chaotic and car journeys are long: sleeping in Giza for the first days saves hours on the road.
 
 **In practice**
 - Visa on arrival $30, cash or card
 - Uber airport-Giza: 45-75 minutes
 - SIM or eSIM in arrivals, with passport
+- Small Egyptian pound notes for tips
 
 ### Day 2 — Giza and the Grand Egyptian Museum
 The plateau opens at 7 and it's the only time of day without groups and without heat. With the internal **electric bus** we did the Great Pyramid (the inside is paid separately and is worth it for the corridor and the Grand Gallery, not for the chambers), the panoramic viewpoint of the nine pyramids and the **Sphinx** with the Valley Temple of Khafre.
@@ -105,9 +108,9 @@ We spent the afternoon at the **Grand Egyptian Museum**, the largest archaeologi
 - No shade on the plateau: water, hat, sunscreen
 
 ### Day 3 — Saqqara, Dahshur and Memphis
-We spent the day with a driver heading south. At **Saqqara** there's the **step pyramid of Djoser**, the first great stone building in history, and around it the mastabas of Old Kingdom officials, with hunting, fishing and market scenes carved into the limestone. The **Serapeum**, with the granite sarcophagi of the sacred bulls, is one of the most impressive visits in the Cairo area.
+We spent the day with a driver heading south. At **Saqqara** is the **Step Pyramid of Djoser**, the first large stone construction in history, and around it the mastabas of Old Kingdom officials, with scenes of hunting, fishing and markets carved into the limestone. The **Serapeum**, with the granite sarcophagi of the sacred bulls, is one of the most impressive visits around Cairo. At the entrance is the small **Imhotep Museum**, dedicated to Djoser's architect, worth a stop before entering the site. Start early: Saqqara is large, with little shade, and the tombs open to visitors change according to restoration shifts.
 
-At **Dahshur**, almost deserted, there are the **Bent Pyramid** with its change of slope halfway up and the **Red Pyramid**, which you enter down a sixty-meter corridor. On the way back we stopped briefly at **Memphis**, the ancient capital, with the reclining colossus of Ramesses II.
+At **Dahshur**, almost deserted, are the **Bent Pyramid**, with its change of slope halfway up, and the **Red Pyramid**, which you enter down a sixty-meter passage. The passage is low and steep, and inside the air is hot and heavy: if you're claustrophobic, stay outside. On the way back we stopped briefly at **Memphis**, the ancient capital, with the reclining colossus of Ramesses II. *Guards offer to open closed tombs or let you climb monuments in exchange for tips: better not to accept.*
 
 **In practice**
 - Driver for the day: roughly $30-50 per vehicle
@@ -115,68 +118,74 @@ At **Dahshur**, almost deserted, there are the **Bent Pyramid** with its change 
 - Lunch at one of the country restaurants on the road to Saqqara
 
 ### Day 4 — Islamic Cairo, Coptic Cairo and the Egyptian Museum
-Here we change base: we sleep in **Zamalek** or downtown. In the morning we visited **Islamic Cairo**: the **Citadel** with the Muhammad Ali Mosque, the **Ibn Tulun Mosque**, the oldest intact one in the city, the **Sultan Hassan** complex and **al-Muizz** street as far as Khan el-Khalili. Those who prefer can go to **Coptic Cairo**, by metro to Mar Girgis.
+Here you change base: sleep in **Zamalek** or downtown. In the morning we were in **Islamic Cairo**: the **Citadel** with the Mosque of Muhammad Ali, the **Mosque of Ibn Tulun**, the oldest intact one in the city, the **Sultan Hassan** complex and **al-Muizz** street up to Khan el-Khalili. If you prefer, go to **Coptic Cairo**, by metro to Mar Girgis. In Coptic Cairo you visit the **Hanging Church**, built over a gate of the Roman fortress, the Ben Ezra synagogue and the Coptic Museum, all a few steps from one another.
 
-In the afternoon we went to the **Egyptian Museum on Tahrir Square**, which even after Tutankhamun's move to the GEM remains full of masterpieces, in an early-20th-century display. In the evening we had tea at El Fishawy café, in the bazaar. Shoulders and knees covered all day, scarf for women in the mosques.
+In the afternoon we went to the **Egyptian Museum in Tahrir Square**, which even after Tutankhamun's move to the GEM is still full of masterpieces, in an early-twentieth-century display. In the evening we had tea at El Fishawy café, in the bazaar. Shoulders and knees covered all day, a headscarf for women in the mosques. Distances between neighborhoods are large and traffic slow: get around by Uber and don't walk the stretches between the Citadel and al-Muizz.
 
 **In practice**
 - Citadel 550 EGP, Egyptian Museum 550 EGP
-- Mosques: shoes off at the entrance, tip the shoe keeper
-- Tomorrow we leave at dawn: suitcase ready
+- Mosques: shoes off at the entrance, tip for the shoe keeper
+- Tomorrow you leave at dawn: have your bag ready
 
 ### Day 5 — From Cairo to Marsa Matruh via Alexandria
-We did the first leg toward Siwa by car with a driver. **Alexandria**, three hours from Cairo, deserves a half-day stop: the new **Bibliotheca Alexandrina**, the catacombs of **Kom el-Shoqafa** and the **Qaitbay** citadel on the site of the Lighthouse. Then the coastal road passes through **El Alamein**, with the war cemeteries and the battle museum, and we arrived in **Marsa Matruh** in the evening.
+We did the first leg towards Siwa by car with a driver. **Alexandria**, three hours from Cairo, deserves a half-day stop: the new **Bibliotheca Alexandrina**, the catacombs of **Kom el-Shoqafa** and the **Qaitbay** citadel on the site of the Lighthouse. Lunch is on the Corniche, in the fish restaurants, where you choose the fish at the counter and have it cooked. Leave Cairo at dawn, to have Alexandria in the morning and set off again right after lunch.
 
-It's a long day, around eight hours of driving with stops. The direct night bus to Siwa would save a day, but it travels in the dark, which Viaggiare Sicuri advises against: better to break up the trip and drive only by day.
+Then the coast road passes **El Alamein**, with its war memorials and battle museum, and we reached **Marsa Matruh** in the evening. It's a long day, around eight hours of driving with stops. The direct overnight bus to Siwa would save a day, but it travels in the dark, which the Italian foreign ministry's travel advice (Viaggiare Sicuri) discourages: better to split the journey and drive only by day. *There are checkpoints along the coast: keep your passport at hand, not in the suitcase.*
 
 **In practice**
 - Car with driver Cairo-Siwa and back: roughly $250-400 in total
 - Bibliotheca Alexandrina about 200 EGP, Kom el-Shoqafa 200 EGP
-- Italian war cemetery at El Alamein: free entry
+- Italian war memorial at El Alamein: free entry
 
 ### Day 6 — From Marsa Matruh to Siwa
-Another four hours southwest, through a flat, empty desert, with a couple of military checkpoints where you hand over passports. We arrived in **Siwa** for lunch. In the afternoon we got our bearings by bicycle among the palm groves and at sunset we climbed the **fortress of Shali**, the old center built of kershef, a mix of mud and salt that the rains of 1926 partly melted.
+Another four hours southwest, across a flat, empty desert, with a couple of military checkpoints where you hand over your passports. We reached **Siwa** for lunch. The oasis is one of the most isolated in Egypt, about fifty kilometers from the Libyan border, with its own Berber language and people who live off dates and olives. It's best to sleep in one of the eco-lodges built of kershef or in the guesthouses in town, and keep the first day to settle in.
 
-In the evening you hand your passport to the operator for tomorrow's or the next day's desert permit.
+In the afternoon we got our bearings by bike among the palm groves and at sunset climbed the **Shali fortress**, the old town built of kershef, a mix of mud and salt that the rains of 1926 partly dissolved. From the top you see the palm groves, the salt lakes and the desert mountains. In the evening you give your passport to the operator for the desert permit for the next day or the day after. *Siwa is a conservative community: alcohol almost impossible to find, covering clothes for men too, and local women are not photographed.*
 
 **In practice**
-- Bicycle rental: a few euros a day
-- Shali fortress: cheap entry
+- Bike rental: a few euros a day
+- Shali fortress: inexpensive entry
 - Cash for the whole stay, ATMs are few and sometimes empty
 
 ### Day 7 — Siwa: the Oracle, the Mountain of the Dead and Cleopatra's Spring
-We spent the day in the oasis. In the morning we visited the **temple of the Oracle of Amun** at **Aghurmi**, where in 331 BC Alexander the Great was recognized as the son of the god; not far away, the remains of the temple of Umm Ubayda. Then **Gebel al-Mawta**, the Mountain of the Dead, with Ptolemaic and Roman tombs, some still painted.
+We spent the day in the oasis. In the morning we visited the **Temple of the Oracle of Amun** at **Aghurmi**, where in 331 BC Alexander the Great was recognized as the son of the god; nearby are the remains of the temple of Umm Ubayda. Then **Gebel al-Mawta**, the mountain of the dead, with Ptolemaic and Roman tombs, some still painted. The painted tombs open to visitors are few and are seen with the guard; go in the morning, before the heat, and leave the afternoon for the water.
 
-In the afternoon we swam in **Cleopatra's Spring**, a pool of lukewarm water in the middle of the palm groves, and at sunset we went to the **salt lakes**, where you float as in the Dead Sea. Siwa is a conservative community: even at the springs you swim covered, in a T-shirt and shorts.
+In the afternoon we swam in **Cleopatra's Spring**, a pool of warm water among the palm groves, and at sunset we went to the **salt lakes**, where you float as in the Dead Sea. Siwa is a conservative community: even at the springs you bathe covered, in a T-shirt and shorts. After the salt lakes you need a freshwater shower, which many operators bring in jerrycans or offer at equipped spots. *The salt dries the skin and stings cuts: no swimming with open wounds, and keep your eyes away from the water.*
 
 **In practice**
 - Tuk-tuk or cart for the day: to be agreed, a few euros
-- Siwa site entrance fees: cheap
-- At the springs: swimsuit covered with a T-shirt, women all the more so
+- Siwa site tickets: inexpensive
+- At the springs: swimsuit covered by a T-shirt, women all the more so
 
 ### Day 8 — The Great Sand Sea
-The 4x4 excursion into the **Great Sand Sea** is the reason you come all this way. We left in the early afternoon with an authorized operator, crossed dunes tens of meters high, stopped at hot and cold springs in the middle of the sand, went **sandboarding** and watched the sunset from the crest of a dune. Those who want to sleep in a tent camp in the desert, with dinner and a fire.
+The 4x4 trip into the **Great Sand Sea** is the reason to come all this way. We set off in the early afternoon with an authorized operator, crossed dunes tens of meters high, stopped at the hot and cold springs in the middle of the sand, went **sandboarding** and watched the sunset from the crest of a dune. If you like, you can sleep in a desert tent camp, with dinner and a fire. The best-known hot spring is **Bir Wahed**, a pool in the middle of the dunes where you bathe at sunset.
+
+The desert permit is requested by the operator, with the passport handed over the evening before. The cars go up and down the dunes at speed, and if you get carsick it's wise to sit in front. *Choose an operator with 4x4s in good condition and at least two cars per trip: in the open desert, a breakdown on your own is a serious problem.* Pack a headlamp, a scarf against the sand and, in winter, warm layers for the evening.
 
 **In practice**
 - Half-day excursion: roughly $20-35 per person, permit included
 - Night in the desert: roughly $50-90 per person with dinner and breakfast
-- In winter nights get close to 0 °C (32 °F): heavy jacket
+- In winter nights get close to 0 °C: heavy jacket
 
 ### Day 9 — Back to Cairo
-It was a transfer day, eight to ten hours of road to Cairo, passing again through Marsa Matruh or along the more direct inland road, depending on the driver. You sleep near the airport or in Heliopolis, to be convenient for tomorrow morning's flight. It's best to leave early, to reach Cairo before dark.
+It was a transfer day, eight to ten hours of road to Cairo, going back through Marsa Matruh or along the more direct inland road, depending on the driver. Sleep near the airport or in Heliopolis, to be close to tomorrow morning's flight. Leave early, to reach Cairo before dark. Stops along the way are few: bring water and food, and use every gas station with a toilet.
+
+If you reach Cairo with some daylight left, you can take a walk around **Heliopolis**, the district built in the early twentieth century by the Belgian Baron Empain, with avenues and neo-Moorish buildings and the **Baron's Palace**, inspired by Indian temples, restored and now open to visitors. *Cairo traffic is heavy in the evening: if the flight to Aswan is very early, a hotel next to the airport is worth the extra cost.* Dinner at the hotel or nearby, without plans.
 
 **In practice**
 - Car: 8-10 hours with stops
-- Night bus: it exists (10-12 hours, a few tens of euros), but it's not recommended because it travels in the dark
+- Overnight bus: it exists (10-12 hours, a few tens of euros), but is not recommended because it travels in the dark
 - Hotel near the airport for tomorrow's flight
 
 ### Day 10 — Flight to Aswan and felucca at sunset
-We took the morning flight to **Aswan**, an hour and twenty-five minutes. Anyone with an extra day, or wanting to save a hotel night, can take the **overnight train** from Giza on the evening of the return from Siwa, if you arrive in time, and wake up in Aswan. Aswan is the calmest city in Upper Egypt, with the Nile narrowing between granite islands and dunes. In the afternoon we visited the **Nubian Museum** and, around 4 pm, took a **felucca** around Elephantine Island and Kitchener's Island, with the botanical garden, until sunset over the tombs of the nobles.
+We took the morning flight to **Aswan**, an hour and twenty-five minutes. If you have an extra day, or want to save a hotel night, you can take the **overnight train** from Giza on the evening of the return from Siwa, if you arrive in time, and wake up in Aswan. Aswan is the calmest city in Upper Egypt, with the Nile narrowing between granite islands and dunes. You can stay on the Corniche or on one of the islands, in a Nubian hotel on the west bank, with the boat crossing included.
+
+In the afternoon we visited the **Nubian Museum** and, around 4 pm, took a **felucca** around Elephantine Island and Kitchener's Island, with the botanical garden, until sunset over the tombs of the nobles. The museum tells the story of Nubia, flooded by Lake Nasser, with an outdoor garden and a reconstructed Nubian house. In the evening, a stroll through the Aswan **souk**, calmer than Cairo's, among spices, karkadé and baskets of dates. *On the felucca the price is per boat and per hour: agree it beforehand, together with the route.*
 
 **In practice**
 - Cairo-Aswan flight: roughly €70-140
 - Nubian Museum 400 EGP
-- Felucca: roughly 300-600 EGP per hour per boat, to be agreed beforehand
+- Felucca: roughly 300-600 EGP an hour per boat, to be agreed beforehand
 
 ### Day 11 — Abu Simbel at dawn
 Wake-up at 3, minivan at 4 and three and a half hours of Nubian desert to **Abu Simbel**. The two temples, the great one of **Ramesses II** with its four colossal statues and the one of **Nefertari**, were cut into blocks and rebuilt 65 meters higher between 1964 and 1968, when the Aswan Dam created Lake Nasser. Arriving early means seeing them in the morning light and before the 9 o'clock groups.
@@ -189,89 +198,104 @@ We were back in Aswan by early afternoon. Those who don't want to do seven hours
 - Packed breakfast from the hotel: there's only one rest stop along the way
 
 ### Day 12 — Philae and boarding the Nile cruise
-In the morning we visited the **temple of Philae**, dedicated to Isis, also moved to a higher island to save it from the water; you reach it by boat from the Shellal dock. On the way you see the **High Dam** and the **Unfinished Obelisk**, left in the quarry because it cracked during cutting.
+In the morning we visited the **Temple of Philae**, dedicated to Isis, also moved to a higher island to save it from the water; it's reached by boat from the Shellal landing. On the way you see the **High Dam** and the **Unfinished Obelisk**, left in the quarry because it cracked while being cut. The temple is one of the most beautiful in Egypt for its setting, on the water among the rocks, and early morning is when the light is best and the groups fewest. Boats to the island are taken at the landing, with the price for the whole boat to be agreed for the return trip.
 
-In the early afternoon we boarded the cruise ship, moored along the Corniche. The first night the ship stays in Aswan; in the evening many packages include a visit to a **Nubian village** on the west bank.
+In the early afternoon we boarded the cruise ship, moored along the Corniche. The first night the ship stays in Aswan; in the evening many packages include a visit to a **Nubian village** on the west bank. Ships often moor side by side, and to get ashore you walk through the lobbies of the other ships. *On cruises, tips for the crew are left at the end of the trip, in a shared envelope: ask straight away how much is recommended.*
 
 **In practice**
 - Philae 550 EGP, boat roughly 300-500 EGP per boat
-- Aswan-Luxor 3-night cruise: roughly $400-1,000 per person depending on the ship
-- Check what's included: entrance fees, guide, drinks, tips
+- Aswan-Luxor cruise 3 nights: roughly $400-1,000 per person depending on the ship
+- Check what's included: tickets, guide, drinks, tips
 
 ### Day 13 — Cruise: Kom Ombo and Edfu
-The ship set sail at dawn heading north. Mid-morning we docked at **Kom Ombo**, the only double temple in Egypt, dedicated to Sobek, the crocodile god, and to Horus; next to it is the small museum with crocodile mummies. In the afternoon we reached **Edfu**, the temple of Horus, the best preserved in the country: roof, pylon, hypostyle hall and sanctuary almost intact.
+The ship sailed north at dawn. Mid-morning we docked at **Kom Ombo**, Egypt's only double temple, dedicated to Sobek, the crocodile god, and to Horus; next to it is the small museum with crocodile mummies. The temple stands right on the bank, a few steps from the jetty, and has two entrances and twin sanctuaries, one for each god. Between stops you sit on deck watching the bank: green fields, villages, palms, and the desert behind.
 
-The ships all dock at the same time, and the temples fill up. Anyone who can get off first or visit Edfu the following morning finds far fewer people.
+In the afternoon we arrived at **Edfu**, the Temple of Horus, the best preserved in the country: roof, pylon, hypostyle hall and sanctuary almost intact. Ships all dock at the same time, and the temples fill up. If you can get off first or visit Edfu the following morning, you'll find far fewer people. *Ship guides work with large groups: if you want more time in the temples you can break away and return at the stated time.*
 
 **In practice**
 - Kom Ombo 450 EGP and Edfu 550 EGP, often included in the package
-- At Edfu you reach the temple by horse carriage: price already set by the ship, tip separate
-- On deck it's cool in the evening even in October
+- At Edfu you reach the temple by horse carriage: price already set by the ship, tip extra
+- On deck the evenings are cool even in October
 
 ### Day 14 — Esna and arrival in Luxor: Karnak and Luxor Temple
-The ship went through the **Esna lock**, where sometimes vendors throw tablecloths and galabeyas from their boats up to the deck. We arrived in **Luxor** at the end of the morning. We gave the afternoon to the east bank: the **Karnak** complex, with the 134-column hypostyle hall and the sacred lake, and at sunset **Luxor Temple**, linked to Karnak by the avenue of sphinxes reopened in 2021.
+The ship went through the **Esna lock**, where vendors sometimes throw tablecloths and galabiyas from their boats up onto the deck. We reached **Luxor** at the end of the morning. Some ships also stop at the **Temple of Khnum** in Esna, where recent restoration has brought the ceiling's colors back to light: if the stop is on your program, don't miss it. On arrival in Luxor the ship becomes the hotel for the last night, handy for getting around the east bank.
+
+We devoted the afternoon to the east bank: the **Karnak** complex, with the hypostyle hall of 134 columns and the sacred lake, and at sunset the **Luxor Temple**, linked to Karnak by the avenue of sphinxes reopened in 2021. Karnak is huge and deserves at least two hours, best in the late afternoon, when the sun is low and the columns cast shade. *Inside the temples, people who offer to show you a hidden relief then ask for a tip: you can politely say no.*
 
 **In practice**
 - Karnak 600 EGP, Luxor Temple 500 EGP
-- Luxor Temple is open until evening and is more beautiful lit up
+- The Luxor Temple is open into the evening and is more beautiful lit up
 - Last night on board
 
 ### Day 15 — Luxor, west bank: Valley of the Kings, Hatshepsut and Nefertari
-We disembarked and at dawn we were already on the west bank. The **Valley of the Kings** with the basic three-tomb ticket, plus **Tutankhamun** or **Seti I** for those who want to spend; the terraced **temple of Hatshepsut** beneath the mountain; and the **tomb of Nefertari** in the Valley of the Queens, the most beautiful in Egypt, with a limited visiting time and a very expensive ticket. We slept on the west bank, among the sugarcane fields.
+We disembarked and by dawn we were already on the west bank. The **Valley of the Kings** with the basic three-tomb ticket, plus **Tutankhamun** or **Seti I** if you're willing to pay; the terraced **Temple of Hatshepsut** beneath the mountain; and the **Tomb of Nefertari** in the Valley of the Queens, the most beautiful in Egypt, with limited visiting time and a very expensive ticket. The tombs open on the basic ticket rotate: there's a list at the entrance, and it's worth choosing those with the best-preserved colors. Tickets are bought at the entrance of each site, not at a single point.
+
+On the way you pass the **Colossi of Memnon**, the two seated statues of Amenhotep III, which can be seen for free from the roadside. The heat on the west bank comes early even in winter: do the Valley of the Kings first, then Hatshepsut, which is all in the sun, by noon. We slept on the west bank, among the sugar cane fields. *The electric train from the Valley of the Kings entrance to the tombs costs little and saves a walk in the sun.*
 
 **In practice**
 - Valley of the Kings 750 EGP, Tutankhamun about 700, Seti I about 2,000
-- Nefertari: separate ticket and short visit, but in 2026 the tomb is often reported closed; Valley of the Queens 220 EGP
+- Nefertari: separate ticket and short visit, but in 2026 the tomb is often closed; Valley of the Queens 220 EGP
 - Car with driver for the west bank: $25-40
 
 ### Day 16 — Hot-air balloon, Medinet Habu and Deir el-Medina
-At dawn we took the **hot-air balloon flight** over the west bank, about forty minutes above temples and villages. Then we saw the less crowded sites of the Theban necropolis: **Medinet Habu**, the temple of Ramesses III, with reliefs that still keep their reds and blues; **Deir el-Medina**, the village of the workers who dug the royal tombs, with their small painted tombs; the **Ramesseum** and the **tombs of the nobles**. Afternoon free by the pool.
+At dawn we took the **hot-air balloon flight** over the west bank, some forty minutes above temples and villages. Hotel pickup is before five, with a cup of tea on the boat across the Nile; the balloons take off together, dozens at a time, and the best moment is when the sun rises behind the east-bank hills. You land in the fields, where farmers help fold the balloon.
+
+Then we saw the less crowded sites of the Theban necropolis: **Medinet Habu**, the temple of Ramesses III, with reliefs that still keep their reds and blues; **Deir el-Medina**, the village of the workmen who dug the royal tombs, with their own small painted tombs; the **Ramesseum** and the **Tombs of the Nobles**. Afternoon free by the pool. *The Tombs of the Nobles are divided into groups with separate tickets: choose two rather than buying them all.*
 
 **In practice**
 - Hot-air balloon roughly $50-100 per person
 - Medinet Habu 220 EGP, Deir el-Medina about 200-300 EGP
-- With strong wind balloon flights are canceled: better to book it for the first available day
+- In strong wind balloon flights are cancelled: better to book it for the first available day
 
 ### Day 17 — Day trip to Dendera or Abydos
-Last day in Luxor, with a trip north. **Dendera**, an hour and a half away, has the temple of Hathor with its cleaned and brilliantly colored astronomical ceiling and the decorated crypts. **Abydos**, three hours away, has the temple of **Seti I**, the most refined reliefs of the New Kingdom and the king list. Those with the whole day do both with a driver. In the evening we returned to Luxor.
+Last day in Luxor, with an excursion north. **Dendera**, an hour and a half away, has the Temple of Hathor with its cleaned, brightly colored astronomical ceiling and decorated crypts. **Abydos**, three hours away, has the Temple of **Seti I**, the finest reliefs of the New Kingdom and the king list. With a whole day you can do both with a driver. At Dendera you go up onto the temple roof, where the chapels of Osiris are, and on the outer wall you see the relief of Cleopatra with her son Caesarion.
+
+At Abydos, behind the Temple of Seti I, is the **Osireion**, an underground structure often flooded, linked to the cult of Osiris. Do Abydos first, the farthest, and Dendera on the way back in the afternoon, when the light enters the halls better. In the evening we returned to Luxor. *On this road the police sometimes ask you to travel with an escort or at set times: the driver knows how to handle it.*
 
 **In practice**
 - Dendera 300 EGP, Abydos 260 EGP
 - Car with driver for both: roughly $80-120
-- The road passes through checkpoints: bring your passport
+- The road goes through checkpoints: carry your passport
 
 ### Day 18 — From Luxor to Marsa Alam
-We transferred to the Red Sea: four and a half hours of road, first along the Nile as far as **Edfu**, then across the Eastern Desert. We arrived in **Marsa Alam** in the early afternoon and checked in at the dive center with certifications, logbook and insurance; then there's time for a trial dive or a first snorkel on the reef in front of the resort.
+We moved to the Red Sea: four and a half hours by road, first along the Nile to **Edfu**, then across the Eastern Desert. The desert stretch crosses dark rocky mountains and dry valleys, with almost no villages and a few checkpoints. Leave after breakfast and arrive in daylight. *Along the desert road there are very few services: set off with water and a full tank.*
+
+We reached **Marsa Alam** in the early afternoon and checked in at the dive center with certification cards, logbook and insurance; then there's time for a check dive or a first snorkel on the reef in front of the resort. Marsa Alam is less built up than Hurghada and Sharm, with resorts scattered along the coast and the reef often starting right from the beach. It's best to choose a resort with its own house reef and dive center, so shore dives are easy.
 
 **In practice**
 - Private car Luxor-Marsa Alam: roughly $100-150 per vehicle
-- At the dive center: certification, logbook, diving insurance, medical certificate if required
-- Packages of 6-10 dives are better value than single dives
+- At the dive center: certification, logbook, dive insurance, medical certificate if required
+- Packages of 6-10 dives better value than single dives
 
 ### Day 19 — Diving: Abu Dabbab and the Marsa Alam reefs
-Two or three dives on the coastal reefs. **Abu Dabbab** is a sandy bay with green turtles and, if you're lucky, the **dugong** grazing on the seagrass; it can also be done from shore and suits every level. The boat outings go to the reefs around **Marsa Alam** and **Port Ghalib**, with hard coral walls, Napoleon wrasse and moray eels. Those with only the Open Water stay within 18 meters (60 ft), and here they miss almost nothing.
+Two or three dives on the coastal reefs. **Abu Dabbab** is a sandy bay with green turtles and, if you're lucky, the **dugong** grazing on the seagrass; it can be done from shore and suits every level. Boat trips go to the reefs around **Marsa Alam** and **Port Ghalib**, with hard coral walls, Napoleon wrasse and moray eels. If you only have Open Water you stay within 18 meters, and here you miss almost nothing.
+
+At Abu Dabbab the turtles graze on the seagrass a few meters down, and can be seen well while snorkeling too. *The bay's rules are strict: no contact with the animals, keep your distance from the turtles, nobody standing on the seagrass with fins.* Early in the morning, before day groups arrive from the other resorts, the bay is quieter. Boat dives usually leave in the morning and return for lunch, leaving the afternoon free for snorkeling.
 
 **In practice**
 - Single dive roughly $35-55, 10-dive package $300-400
 - Full equipment rental: roughly $20-30 a day
-- Nitrox: extra per dive
+- Nitrox: surcharge per dive
 
 ### Day 20 — Diving at Elphinstone or snorkeling at Dolphin House
-For divers with an **Advanced** certification and experience, **Elphinstone**: a long, narrow reef in open sea, with currents, vertical walls and, from October to December, oceanic whitetip sharks. For those who don't dive, or who want to respect the time before the flight, **Dolphin House (Samadai)**, the horseshoe reef where you swim near spinner dolphins, in a protected area with limited access.
+For divers with an **Advanced** certification and experience, **Elphinstone**: a long, narrow offshore reef, with currents, vertical walls and, from October to December, oceanic whitetip sharks. For non-divers, or for those who want to respect the no-fly interval, **Dolphin House (Samadai)**, the horseshoe reef where you swim near spinner dolphins, in a protected zone with limited access. Trips to Elphinstone depend on the sea: in strong wind the boats don't go out, so keep a spare day.
 
-The last dives must be done by this morning: between the last dive and the flight you need at least 18-24 hours.
+The last dives must be done by this morning: you need at least 18-24 hours between the last dive and the flight. At Samadai the dolphins are watched without chasing them: you swim on the surface in the permitted area and let them come to you. *With oceanic whitetips, follow the briefing rules to the letter: stay close to the wall and the group, never alone on the surface.*
 
 **In practice**
-- Elphinstone: only with Advanced, often with a minimum of logged dives
+- Elphinstone: Advanced only, often with a minimum number of logged dives
 - Dolphin House: roughly $40-60 with lunch
-- Last afternoon without diving, on the reef with a mask
+- Last afternoon without diving, snorkeling on the reef
 
 ### Day 21 — Return
-Transfer to **Marsa Alam** airport or Hurghada and flight to Italy. At security check coral, shells and sand are confiscated, and real antiquities as souvenirs are banned from export: the scarabs sold in the bazaars are reproductions, and that's fine.
+Transfer to **Marsa Alam** or Hurghada airport and flight to Italy. At security, corals, shells and sand are confiscated, and real antiquities are banned from export: the scarabs sold in the bazaars are reproductions, and that's fine. Marsa Alam airport is north of the town, at a distance that depends on your resort; Hurghada is several hours' drive further north, and is worth choosing only if your flight requires it.
+
+The transfer is booked through the hotel or the dive center, at a time that allows for the checks. At the terminal entrance there's already a first baggage check, followed by passports and security. *The last morning is for snorkeling on the reef or the pool: to fly, your last dive must be at least a day earlier.* The last souvenirs, spices and karkadé, are best bought in the resort or town shops before leaving.
 
 **In practice**
 - At the airport 3 hours early: checks at the entrance and at the gate
-- Spend any leftover pounds before leaving
+- Spend your remaining pounds before departure
+- Book the transfer with the hotel the day before
 
 ## Where to stay
 - **Giza (nights 1-3):** budget: guesthouses with a terrace on the pyramids, €30-50 · mid-range: boutique hotels near the GEM, €70-120 · luxury: Marriott Mena House.

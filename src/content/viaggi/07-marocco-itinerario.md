@@ -20,7 +20,11 @@ Il primo impatto vero con il Marocco è arrivato a Jemaa El-Fna, la piazza di Ma
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Marrakech
+L'aeroporto di **Marrakech Menara** è a pochi chilometri dalla città, un quarto d'ora o venti minuti d'auto. Il dirham non si compra fuori dal Marocco: si preleva al bancomat o si cambia direttamente in aeroporto, dove conviene prendere anche una SIM locale con qualche giga, utile per tutto il giro. *Con i taxi il prezzo si fissa prima di salire; più semplice ancora farsi mandare il transfer dall'alloggio.* Il resto della giornata serve a riprendere fiato e a fare il punto con la guida sulla settimana: orari di partenza, soste, cosa mettere nella borsa per la notte nel deserto.
+
 Il primo giorno era libero e ci è servito a conoscere Mustafa, la guida che mi ha accompagnato per tutto il viaggio. Abbiamo dormito a **Villa Zahra**: comoda, con più spazio e più tranquillità di un hotel in piena medina. L'unico compromesso è la posizione, un po' fuori dal centro, da mettere in conto per gli spostamenti della sera. Abbiamo cenato da **Kui Zin**, poi un bicchiere al Churchill Bar o alla Pergola.
+
+**In pratica:** aeroporto-città 15-20 minuti, taxi a prezzo concordato prima o transfer dell'alloggio · dirham solo in Marocco: bancomat o cambio in aeroporto, conservando le ricevute per riconvertire quelli avanzati · SIM locale in aeroporto con il passaporto · Villa Zahra è fuori dalla medina: per la sera mettere in conto taxi o transfer · cena da prenotare nel fine settimana.
 
 ### Giorno 2 — Marrakech-Aït Benhaddou
 Siamo partiti presto: 127 km, circa due ore e mezza, fino alla **Kasbah di Telouet**, l'antica residenza della famiglia Glaoui. Fuori è terra battuta in parte crollata, dentro ci sono interni riccamente decorati, e il contrasto è la ragione per venirci.
@@ -29,36 +33,60 @@ Un'altra ora di strada e siamo arrivati ad **Aït Benhaddou**, lo ksar patrimoni
 
 *Nota pratica per il giorno dopo: caricare i power bank prima della notte nel deserto e chiedere alla guida dove fermarsi per alcolici e snack da portare a Merzouga, perché nel deserto le scorte sono poche.*
 
+**In pratica:** Marrakech-Telouet circa due ore e mezza sulla strada del passo del Tizi n'Tichka, con molte curve: chi soffre l'auto prende qualcosa prima di partire · a Telouet si paga un piccolo biglietto d'ingresso · nello ksar di Aït Benhaddou si entra liberamente, alcune case chiedono qualche dirham per salire sulle terrazze · la luce migliore sullo ksar è al tramonto, guardandolo dalla riva opposta del fiume.
+
 ### Giorno 3 — Merzouga, l'ingresso nel Sahara
 Presto in strada: 200 km, tre ore, fino alle **Gole di Todra**. Bastano trenta minuti per camminare tra pareti di roccia che si stringono fino a pochi metri, tra le più belle del Marocco. Abbiamo pranzato al sacco lungo il tragitto.
 
 Nel primo pomeriggio siamo ripartiti verso l'**Erg Chebbi**, altri 187 km. A metà strada, in un mercato locale, abbiamo comprato turbanti e pashmine: servono contro la sabbia e contro il freddo della notte nel deserto. Nel tardo pomeriggio siamo arrivati al campo tendato **Camp La Source** e al tramonto siamo saliti sui cammelli per un giro tra le dune, incluso. La cena è al campo (le allergie vanno segnalate prima). *Di notte, un cielo stellato senza pari, lontano da qualsiasi luce: uno dei momenti più belli di tutto il viaggio.*
+
+**In pratica:** Gole di Todra a ingresso libero, si cammina sul fondo del canyon accanto al fiume · giornata lunga di strada: contanti per caffè, bagni e benzina nei paesi lungo la via · nel campo tendato prese ed elettricità sono limitate, quindi power bank carichi · di notte nel deserto la temperatura scende molto, anche d'estate serve un pile · turbante e pashmina si comprano lungo il tragitto, contrattando.
 
 ### Giorno 4 — Merzouga-Agdz
 La sveglia è suonata prima dell'alba per un altro giro in cammello, incluso, mentre le dune cambiavano colore col sole che saliva. Colazione al rientro, poi il **quad nel deserto**, 350 MAD a persona da concordare con la guida. *Chi ha la patente può anche guidare una moto: conviene prenotarla qualche giorno prima, i mezzi sono pochi.*
 
 In tarda mattinata siamo partiti per **Agdz**, 300 km e circa quattro ore. Nel tardo pomeriggio siamo arrivati alla Kasbah Trane, con un po' di tempo per la piscina. La sera abbiamo visitato la **Kasbah di Tamnougalt**, una delle meglio conservate della valle del Draa (20 MAD a persona più 200 MAD di mancia alla guida locale), e abbiamo cenato in hotel.
 
+**In pratica:** quad circa 350 MAD a persona, da concordare con la guida; moto da prenotare qualche giorno prima · macchina fotografica e telefono in un sacchetto durante il quad: la sabbia entra ovunque · Merzouga-Agdz circa 300 km e quattro ore, con l'ultimo tratto nella valle del Draa tra i palmeti · Kasbah di Tamnougalt 20 MAD più la mancia alla guida locale.
+
 ### Giorno 5 — Agdz-Agadir
 Siamo partiti presto per **Taliouine**, 173 km, due ore e mezza: è la capitale marocchina dello zafferano, e lì lo abbiamo comprato, nella città vecchia. Meglio farsi indicare il posto giusto dalla guida che fermarsi nel primo negozio sulla strada. Si può pranzare a **Taroudant**, e in quel caso conviene farlo nella città vecchia, per avere il tempo di vedere le mura antiche e il centro storico.
 
 Altre tre ore, 187 km, e siamo arrivati ad **Agadir**. Check-in all'Hotel Oasis e tempo libero, con la possibilità di fare yoga al tramonto con Khalid. Abbiamo cenato da **Les Blancs**, cucina spagnola e mediterranea su un rooftop con vista sul mare, e abbiamo finito la serata al LOFT, tra narghilè, birre e un'atmosfera da discoteca araba.
+
+**In pratica:** Agdz-Taliouine circa due ore e mezza, Taliouine-Agadir circa tre ore · lo zafferano vero ha pistilli interi rosso scuro e un prezzo alto: diffidare delle offerte troppo convenienti · a Taroudant le mura in terra battuta girano intorno a tutta la città vecchia, si vedono bene dalla strada · ad Agadir il lungomare è comodo per la passeggiata serale prima di cena.
 
 ### Giorno 6 — Agadir-Essaouira, con tappa surf a Taghazout
 Mezz'ora di strada e siamo arrivati a **Taghazout** per due ore di **surf** con Chillout, 250 MAD a persona (le docce costano 10 MAD). Abbiamo pranzato in paese e poi abbiamo fatto due ore e mezza, 152 km, fino a **Essaouira**.
 
 Il tour guidato del tardo pomeriggio, incluso, dura un'ora e mezza (mancia di 150-200 MAD in tutto). Essaouira è la città portuale fortificata sull'Atlantico, con una medina bianca e blu tra le più belle del Marocco. *Qui lo shopping costa meno che a Marrakech.* Dopo giorni di van e visite, l'**hammam** da Kenza, un'ora per 250 MAD, è stata una pausa ben piazzata. Per cena si sceglie tra **Triskala**, **La Table by Madada** e **Des Rêves**.
 
+**In pratica:** Agadir-Taghazout circa mezz'ora · surf con Chillout 250 MAD per due ore, docce 10 MAD, da fissare il giorno prima · Taghazout-Essaouira circa due ore e mezza per 152 km lungo la costa · hammam da Kenza 250 MAD per un'ora · a Essaouira il vento soffia forte gran parte dell'anno: una giacca per la sera · ristoranti da prenotare in alta stagione.
+
 ### Giorno 7 — Essaouira-Marrakech
 La mattina l'abbiamo passata al Ranch de Diabat: un'ora di **quad**, incluso (può tirare vento, conviene coprirsi bene), e una passeggiata a cavallo facoltativa (i cavalli sono al massimo dodici). A mezzogiorno un picnic, poi tre ore e 200 km fino a Marrakech. Abbiamo cenato da **Narwama**, con dinner show, e siamo tornati a dormire a Villa Zahra.
+
+Il **Ranch de Diabat** è a pochi chilometri a sud di Essaouira, vicino al villaggio di Diabat e alle dune che scendono verso la spiaggia: conviene andarci nelle prime ore, quando il vento di solito è più debole. Il quad passa tra la sabbia e la boscaglia costiera, il cavallo segue la spiaggia, e per entrambi servono pantaloni lunghi e occhiali da sole contro la sabbia.
+
+La strada per Marrakech attraversa la pianura degli **arganeti**, l'albero che cresce quasi solo in questa parte del Marocco, ed è il tratto in cui si vedono le capre arrampicate sui rami. *Spesso sono messe lì apposta per le foto, in cambio di qualche dirham: se si scatta, si paga.* Lungo la via ci sono le cooperative femminili dell'olio d'argan, dove si vede come si rompono e si spremono i semi; una sosta breve rompe le tre ore di viaggio. A Marrakech si arriva nel tardo pomeriggio, con il tempo per una doccia prima di cena.
+
+**In pratica:** Essaouira-Marrakech circa tre ore per 200 km, strada buona · quad incluso, cavallo facoltativo con al massimo dodici cavalli · pantaloni lunghi, occhiali e una giacca a vento · Narwama con spettacolo serale: prenotare · notte di nuovo a Villa Zahra.
 
 ### Giorno 8 — Marrakech
 La mattina abbiamo fatto il tour guidato della città, incluso (mancia di 200 MAD in tutto): la **Medersa Ali Ben Youssef** (50 MAD), il **Palazzo della Bahia** (70 MAD), le **Tombe Saadiane** (70 MAD, aperte fino al tardo pomeriggio), la **Moschea Koutoubia**, solo da fuori perché i non musulmani non possono entrare, e infine **Piazza Jemaa El-Fna**, il cuore della medina, tra incantatori di serpenti, musicisti e bancarelle di ogni tipo, soprattutto dopo il tramonto.
 
 Abbiamo pranzato e girato per i souk. Nel pomeriggio un taxi, 50 MAD a corsa, ci ha portato al **Jardin Majorelle**, il giardino blu cobalto creato da Jacques Majorelle e poi appartenuto a Yves Saint Laurent: 150 MAD a persona, ingressi contingentati, da prenotare prima (apre presto e l'ultimo ingresso è nel tardo pomeriggio). Il resto è stato shopping e tempo libero. L'ultima cena l'abbiamo fatta da **Safran by Koya**, buono e bello, e l'ultima notte ancora a Villa Zahra.
 
+**In pratica:** Medersa Ali Ben Youssef 50 MAD, Palazzo della Bahia 70 MAD, Tombe Saadiane 70 MAD · taxi 50 MAD a corsa, prezzo da fissare prima di salire · Jardin Majorelle 150 MAD, ingressi a orario da prenotare online · nella medina chi si offre di indicare la strada di solito poi chiede soldi: meglio una mappa offline · nei souk si contratta sempre, partendo molto sotto il primo prezzo.
+
 ### Giorno 9 — Rientro
 Check-out e saluti.
+
+L'ultima mattina dipende dall'orario del volo. Chi parte nel pomeriggio ha ancora qualche ora per i souk o per un caffè su una terrazza della medina, lasciando le valigie in deposito all'alloggio. È il momento per gli acquisti rimandati: lampade, ceramiche, olio d'argan, spezie. *I liquidi come l'olio d'argan vanno nel bagaglio da stiva, ben chiusi e avvolti nei vestiti.*
+
+Prima di partire conviene spendere i dirham avanzati, o riconvertirli in aeroporto con le ricevute del cambio: fuori dal Marocco non si cambiano. All'aeroporto di Marrakech c'è un primo controllo già all'ingresso del terminal, poi il passaporto e la sicurezza, e nei mesi di punta le code possono essere lunghe. Il transfer va fissato il giorno prima con la guida o con l'alloggio.
+
+**In pratica:** check-out in genere entro mezzogiorno, deposito bagagli all'alloggio · dalla città all'aeroporto 15-30 minuti secondo la zona · essere in aeroporto almeno due ore e mezza prima del volo · dirham da spendere o riconvertire prima del gate.
 
 ## Cosa vedere / cosa fare
 - **Aït Benhaddou:** lo ksar patrimonio UNESCO, set di innumerevoli film.

@@ -30,7 +30,11 @@ At two in the morning, in front of the plane wreck at Sólheimasandur, there was
 
 ## Itinerario giorno per giorno
 ### Day 0
-Departure day from Italy.
+Departure day from Italy. There are direct flights to Keflavík, mostly seasonal, and connections via Northern Europe; the direct flight takes about four hours. This is the day to finish the logistics you can't improvise in Iceland: car and tent booked weeks ahead, the Ring Road campsites marked on the map, a credit card with a PIN for the fuel pumps, which are almost all self-service and often unstaffed.
+
+Pack warm, waterproof layers even in July, because at night it drops close to 0°C, and a sleep mask: with the midnight sun the tent never gets dark. On arrival, before leaving the baggage hall, there's the Keflavík duty-free, where alcohol costs much less than at Vínbúðin, the state shops that hold the monopoly on the island. *The day before, check the weather, roads and the state of the volcanic area on safetravel.is and vedur.is.*
+
+**In practice:** direct flight Italy-Keflavík about 4 hours · book car and tent well ahead for July and August · card with a PIN for fuel · alcohol from the arrivals duty-free.
 
 ### Day 1 — Arrival in Keflavík and the eruption seen up close
 We landed in Keflavík in the late afternoon, and the first Iceland was the unromantic one of the airport area. Bus 55 takes you in about twenty minutes to the *Kellir* stop (€4 per person), a stone's throw from the Konvin Hotel: just long enough to drop the backpacks and we went out for dinner.
@@ -38,6 +42,8 @@ We landed in Keflavík in the late afternoon, and the first Iceland was the unro
 We ate at **Kaffi Duus**, mixed fish for about €30. Here I tried **whale fillet**. It's a dish that sparks debate: in Iceland whaling is still allowed but highly contested, and it's worth forming an opinion before ordering it. You still get there with the 55: five minutes' walk to the stop, ten by bus, another ten on foot from Hringbraut & Melteigur. Afterwards we did a round of the bars in Keflavík and went back, again by bus, with an eye on the clock: the last run comes just after 11 p.m. and can't be missed.
 
 It's in these first days, on the Reykjanes peninsula, that I saw the **erupting volcano** up close: the Grindavík and Fagradalsfjall area, a few minutes from the airport, became active several times between 2023 and 2024. I went on my own, without a tour. It was one of the most powerful experiences of the whole trip. Eruptions come and go, though, and the area is often closed: before leaving, check the status of the area on safetravel.is.
+
+**In practice:** bus 55 from the airport, about €4 a ride, last bus just after 23:00 · dinner at Kaffi Duus about €30 · before heading to the eruption, check closures and air quality on safetravel.is · on Reykjanes you need hiking shoes and a windproof jacket even in summer.
 
 ### Day 2 — Golden Circle: Geysir and Gullfoss
 The day started early and with logistics: the car from Sixt at Keflavík airport, then the tent from RENTATENT (Vesturvör 32b, Kópavogur, opens at 9). From there the trip really began, toward the Golden Circle.
@@ -48,6 +54,8 @@ The afternoon was a string of waterfalls. At **Seljalandsfoss** (parking 700 ISK
 
 Then the decision made almost as a joke. At the end of July the sun doesn't set, tiredness isn't enough, and so, instead of sleeping, we set off again for the **DC-3 wreck at Sólheimasandur**, abandoned on the sand since 1973. Twenty minutes by car to the parking lot on the Ring Road, then 4 km on foot over black sand, flat and with no shelter from the wind, between 40 and 60 minutes each way. *A real slog after an already full day, but probably the most absurd and memorable moment of the whole trip.* We got back to the campsite in the dead of night, with a light that never fully faded.
 
+**In practice:** Geysir and Gullfoss are free · Seljalandsfoss parking 700 ISK · Vík campsite 1,950 ISK, shower 300 ISK · cars can't go past the parking lot for the DC-3: 4 km on foot each way · shop in Hvolsvöllur, further on supermarkets are few.
+
 ### Day 3 — Dyrhólaey, Reynisfjara and the glacial lagoon
 The alarm came later than planned, because of the wreck. We set off unhurriedly toward **Dyrhólaey**: the lighthouse, the black lava arch over the sea, the sea stacks and, in summer, puffins. Right after is **Reynisfjara**, the black beach with basalt columns. Here the waves are unpredictable and dangerous: follow the signs to the letter. Quick lunch at the beach stand, hot dog or soup for 2-3,000 ISK.
 
@@ -57,12 +65,16 @@ From Skaftafell I did the **trek on the Vatnajökull glacier** with **[Troll Exp
 
 The last hour of driving leads to **Höfn**, where we arrived late in the evening. You sleep at a campsite, either Vestrahorn at the foot of the mountain, 18 minutes from town, or the municipal one in the center. For dinner there's fish soup from the "capital of Icelandic lobster," or you cook at the tent.
 
+**In practice:** at Reynisfjara keep away from the waterline, sneaker waves have killed people · paid parking at Skaftafell and Jökulsárlón · glacier hike and kayak only with a guide, book ahead for July and August · from Skaftafell to Höfn about two hours of driving with the lagoon stop.
+
 ### Day 4 — Viking Village, the East Fjords and Egilsstaðir
 Breakfast at the campsite and a short walk to the **Viking Village**, the film set built in 2010 next to Vestrahorn: a reconstructed Viking village, with horses grazing around it.
 
 Then the day belonged to the road. Route 1 along the **East Fjords** is about 250 km: three or four hours on paper, which easily become five or six, because the road follows every single fjord and you travel at 50-60 km/h. It's one of the least touristy areas of the island, the wildest, and in summer colonies of puffins live there. Those with time can detour to **Seyðisfjörður**, a small town tucked among the mountains and known for its art scene.
 
 In the late afternoon we arrived in **Egilsstaðir**, the capital of the east with about 2,500 inhabitants, and pitched the tent at **Camp Egilsstaðir**: bathrooms, showers, laundry, indoor and outdoor kitchens, free wifi, about 2,000 ISK per person. Ten minutes away are the **Vök Baths**, the hot pool floating on Lake Urriðavatn: the first real hot bath after two days of hiking and wind.
+
+**In practice:** the Viking Village is visited with a ticket paid at the Viking Café, at the start of the road to Stokksnes · East Fjords about 250 km, allow five or six hours · Camp Egilsstaðir about 2,000 ISK per person · book Vök Baths online, especially in the late afternoon.
 
 ### Day 5 — Stuðlagil, Dettifoss and Ásbyrgi
 After an hour of driving, with the last stretch on dirt road, we reached **Stuðlagil Canyon**: basalt columns 30 meters high and a turquoise river. It only became famous after 2017, when the Kárahnjúkar hydroelectric plant lowered the water level, and it remains one of the less-visited stops.
@@ -71,6 +83,8 @@ Back on Route 1, in two hours you reach **Dettifoss**, the most powerful waterfa
 
 Forty minutes later comes **Ásbyrgi**, the horseshoe-shaped canyon that legend attributes to a hoof of Odin's eight-legged horse. We walked among the green walls to the Botnstjörn pond and slept at the **Ásbyrgi campsite**, in the heart of the park (open from mid-May to the end of October, with electricity), from which several trails start. Dinner at the campsite.
 
+**In practice:** at Stuðlagil the west side has the viewing platform near the parking lot, the east side needs a walk of a few kilometers but reaches the canyon floor · Dettifoss west side from the paved Route 862 · Ásbyrgi campsite open mid-May to late October · fill up when you can, fuel stations are sparse in the northeast.
+
 ### Day 6 — Húsavík, whale watching and Lake Mývatn
 An hour's drive brought us to **Húsavík**, which calls itself the whale watching capital of the world. The classic outing lasts three hours and leaves from the old harbor, on one of the restored traditional oak boats. In Skjálfandi Bay you look for humpbacks and minke whales; with luck, orcas or blue whales.
 
@@ -78,18 +92,28 @@ After a quick lunch, another hour by car took us to **Lake Mývatn**, one of the
 
 In the evening, three quarters of an hour later, we arrived in **Akureyri**. We slept at the **Hamrar** campsite, at the edge of the Kjarnaskógur forest, and the groceries bought in town turned into a barbecue.
 
+**In practice:** whale watching about 3 hours, book the day before in high season, usually with a windproof suit provided on board · at Mývatn in summer there are clouds of midges: a head net helps · at Grjótagjá you look, you don't bathe · from Goðafoss to Akureyri about 45 minutes.
+
 ### Day 7 — Toward the Snæfellsnes peninsula
 It was almost all transfer: about 390 km from Akureyri to the **Snæfellsnes** peninsula, five actual hours via Route 1 and Borgarnes, six or seven with stops. Along the road in the northwest you meet the **turf houses** with grass roofs and, if there's time, a little-visited natural hot pool like **Guðrúnarlaug**, toward the Westfjords: basic changing room and free entry.
 
 In the late afternoon **Kirkjufell** appeared, the 463 most photographed meters in Iceland, with the Kirkjufellsfoss waterfall in front. The parking lot is right next to the waterfall and the classic photo requires no walking; with the long summer light it's the right place for sunset. We spent the last night in the tent at the **Grundarfjörður** campsite, at the foot of the mountain, with a view of the fjord. Groceries at the town's shops, ten minutes on foot, and dinner at the campsite.
 
-### Day 8 — Thermal relaxation and return to Reykjavík
-We took down the tent for the last time, unhurriedly. On the way back there's room for one last hot stop in West Iceland, in the Deildartunguhver and Krauma area, the most powerful hot spring in Europe. Then two and a half hours, 180 km via Borgarnes, to **Reykjavík**.
+**In practice:** Akureyri-Snæfellsnes about 390 km, five hours of actual driving · Guðrúnarlaug is free · at Kirkjufellsfoss the parking lot is right by the waterfall · Grundarfjörður campsite at the foot of Kirkjufell · shop in Akureyri or Borgarnes, there are few stores along the way.
 
-In the late afternoon we returned the car and tent and checked into the hotel: after six nights in a tent, a real bed. The rest of the day is free in the center: the **Kolaportið** flea market if it's Saturday or Sunday, the colorful streets, the Hallgrímskirkja church. In the evening, a last dinner downtown to close out the trip.
+### Day 8 — Thermal relaxation and return to Reykjavík
+We took down the tent for the last time, unhurriedly. On the way back there's room for one last hot stop in West Iceland, in the area of Deildartunguhver, the most powerful hot spring in Europe, and Krauma. Then two and a half hours, 180 km via Borgarnes, to **Reykjavík**. **Deildartunguhver** can be seen for free from the boardwalks, with steam pouring out nonstop; next to it is **Krauma**, the spa whose pools are filled with the same water, for a fee. *Before returning the car, fill up and photograph it from every side: damage disputes are the most common hassle.*
+
+In the late afternoon we returned the car and tent and checked into the hotel: after six nights in a tent, a real bed. The rest of the day is free in the center: the **Kolaportið** flea market if it's Saturday or Sunday, the colorful streets, the Hallgrímskirkja church. In the evening, a last dinner downtown to close out the trip. If you still have energy, go up the Hallgrímskirkja tower, with a separate ticket, for the view over the colorful roofs, or take a dip in a municipal pool, where Icelanders go: it costs much less than the thermal lagoons.
+
+**In practice:** Deildartunguhver free, Krauma paid with booking recommended · from the thermal area to Reykjavík about two and a half hours · Kolaportið open only on Saturdays and Sundays · central Reykjavík is all walkable.
 
 ### Day 9 — Return
-Check-out and transfer to **Keflavík**, about 45 minutes from Reykjavík, depending on the flight time.
+Check-out and transfer to **Keflavík**, about 45 minutes from Reykjavík, depending on the flight time. Without a car the easiest option is the **Flybus**, the shuttle that leaves from the BSÍ terminal in the center, with pick-ups at some hotels on request. Get to the airport at least two hours early: in summer the security lines at Keflavík are long and the check-in desks open in waves.
+
+With an afternoon flight you can use the morning for one last hot soak: the **Blue Lagoon** is about twenty minutes from the airport, entry is by online booking only and there's luggage storage, so you can go straight there with your backpack. The area is close to the Reykjanes eruptions, though, and is sometimes closed. If you've made major purchases, there's a VAT refund desk at the airport. *Keep the receipt and the item at hand, because they may ask to see it.*
+
+**In practice:** Flybus from BSÍ about 45 minutes, ticket online · at the airport at least two hours early, more in July and August · Blue Lagoon by booking only, check on safetravel.is that the area is open · VAT refund at the airport desk.
 
 ## What to see / what to do
 - **Erupting volcano on the Reykjanes peninsula:** seen up close during the trip, one of the most powerful experiences in all of Iceland.

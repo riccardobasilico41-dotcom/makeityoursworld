@@ -26,23 +26,35 @@ Siamo atterrati e ci siamo sistemati in centro. Il primo giro della città l'abb
 
 Se restano tempo ed energie, anche il **Fjellheisen** (la funivia sul monte Storsteinen, 465 m) è una buona prima serata: una cabina ogni 30 minuti, 4-5 minuti di salita, aperta fino a mezzanotte in inverno, biglietto A/R 495 NOK (43€ circa) per gli adulti. Da lassù, in una serata serena, si può tentare l'osservazione dell'aurora senza uscire dalla città.
 
+**In pratica:** dall'aeroporto al centro in bus o taxi, pochi chilometri · Cattedrale Artica sull'altra sponda del fiordo, raggiungibile a piedi dal ponte o in bus · Fjellheisen 495 NOK andata e ritorno, aperto fino a mezzanotte in inverno · ramponcini da scarpa utili sui marciapiedi ghiacciati.
+
 ### Giorno 2 — Aurora chase in minibus
 La serata l'abbiamo dedicata alla caccia all'aurora boreale con una guida in minibus (gruppi piccoli, di solito 8-16 persone). Si esce dalla città per allontanarsi dall'inquinamento luminoso e si insegue il cielo sereno, anche per un paio d'ore se serve: a volte lungo la costa, a volte nell'entroterra, in certe serate perfino oltre confine, in Finlandia. L'escursione si adatta al meteo della sera, quindi partenza e destinazione le decidono all'ultimo le guide, in base alle previsioni e all'indice dell'aurora.
 
 Operatori noti in zona sono Chasing Lights e Tromsø Friluftsenter. È un'uscita lunga, 6-8 ore, intorno ai 100-160€ a persona; diversi tour includono una sosta con fuoco e tè caldo e qualche consiglio di fotografia notturna.
+
+**In pratica:** partenza in serata, rientro dopo mezzanotte · 100-160 € a persona, prenotare con qualche giorno di anticipo e scegliere una data flessibile · strati termici, guanti, berretto e scarpe calde, anche se molti tour prestano le tute · batterie di ricambio, con il freddo si scaricano in fretta.
 
 ### Giorno 3 — Husky sledding
 Abbiamo passato la giornata tra i paesaggi innevati fuori città, con un'escursione in slitta trainata dagli husky. La organizzano centri come Tromsø Villmarkssenter (circa 200 husky alaskani, sull'isola di Kvaløya). Dopo un transfer di 25 minuti dal centro si ricevono tuta termica e stivali, poi si parte. Nella formula più comune si viene portati da un musher esperto (la corsa in slitta vera e propria dura circa 45 minuti), ma esistono anche formule «guida tu stesso» per chi vuole prendere in mano le redini.
 
 Dopo la corsa c'è la visita al canile con caffè e dolce, e si possono conoscere alcuni cuccioli. Tra transfer e vestizione l'uscita occupa mezza giornata; il prezzo va dai 170 ai 320€ a persona a seconda della formula.
 
+**In pratica:** transfer di circa 25 minuti per Kvaløya · tuta termica e stivali forniti · mezza giornata in tutto · 170-320 € a persona secondo la formula · occhiali da sole e crema per il riverbero sulla neve nelle ore di luce.
+
 ### Giorno 4 — Cultura sami e renne
 Abbiamo fatto un'escursione con guida sami (operatori come Tromsø Arctic Reindeer), con ritrovo di solito al terminal bus del porto di Tromsø (Prostneset). È mezza giornata tra centinaia di renne al pascolo: si danno da mangiare a mano e si fa un giro in slitta trainata dalle renne stesse.
 
 Poi ci si ritrova in una tenda tradizionale (lavvu), scaldata da un fuoco al centro, con i racconti sulla cultura sami, una cena tipica e spesso un joik (il canto tradizionale sami) intonato dalle guide. Il prezzo parte da 145€ a persona per la versione base e arriva a 250-260€ per quelle più lunghe.
 
+**In pratica:** ritrovo di solito al terminal bus di Prostneset · mezza giornata · da 145 € a persona per la versione base fino a 250-260 € per le più lunghe · cena tipica inclusa, segnalare prima allergie o diete · foto alle persone solo chiedendo il permesso.
+
 ### Giorno 5 — Tempo libero e partenza
 L'ultima mattinata l'abbiamo avuta libera in città prima del volo di rientro. È il momento buono per una visita più tranquilla a **Polaria** (il centro artico con cinema panoramico, vasca delle foche e acquari, 400-450 NOK / 35-39€ circa, aperto 10-17) o al **Polar Museum** (dedicato alla storia delle spedizioni polari norvegesi, 130 NOK / 11€ circa, aperto 11-17), entrambi comodi a piedi dal centro.
+
+Polaria e il Polar Museum sono vicini al centro e si fanno entrambi in una mattina se il volo è nel pomeriggio: conviene cominciare da Polaria all'apertura, quando la vasca delle foche è meno affollata, e chiudere con il museo. *Il volo va controllato prima di uscire: con neve forte o vento gli orari possono cambiare, e conviene lasciare i bagagli in hotel dopo il check-out.* Per un ultimo pranzo, Storgata e il porto hanno caffè e ristoranti a pochi passi, e chi ha ancora tempo può fare un ultimo giro lungo il fiordo con la luce del mezzogiorno artico.
+
+**In pratica:** Polaria 400-450 NOK, aperto 10-17 · Polar Museum 130 NOK, aperto 11-17 · aeroporto di Tromsø a pochi chilometri dal centro, in bus o taxi · arrivare con il margine solito dei voli europei, i controlli di sicurezza sono rapidi ma la neve può rallentare il traffico.
 
 ## Cosa vedere / cosa fare
 - **Fjellheisen**, la funivia che sale sul monte Storsteinen (465 m): vista su città e fiordi, e in inverno un altro ottimo punto da cui tentare l'osservazione dell'aurora senza uscire dalla città. A/R 495 NOK (43€) adulti, 280 NOK (24€) bambini 3-15 anni; aperta 9:00-24:00, una cabina ogni 30 minuti.

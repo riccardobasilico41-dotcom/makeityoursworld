@@ -45,7 +45,7 @@ import { JsonLd } from '@/components/JsonLd'
 import { articoloViaggioJsonLd, breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
 import type { EditorialMeta } from '@/content/viaggi-editorial'
 import { getHeroVideo } from '@/content/viaggi-hero-video'
-import { pageMetadata } from '@/lib/seo'
+import { pageMetadata, titoloSeoViaggio } from '@/lib/seo'
 import { DomandeViaggio } from '@/components/domande/DomandeViaggio'
 import { ProssimaDestinazione } from '@/components/ProssimaDestinazione'
 import { domandePubblicate } from '@/lib/domande/archivio'
@@ -191,7 +191,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const editorial = editoriale(slug, lingua)
   return pageMetadata({
     ogPropria: true, // opengraph-image.tsx della pagina
-    title: editorial.seoTitle ?? viaggio.titolo,
+    title: editorial.seoTitle ?? titoloSeoViaggio(viaggio.titolo),
     description: editorial.seoDescription ?? viaggio.descrizione,
     socialTitle: editorial.socialTitle,
     socialDescription: editorial.socialDescription,

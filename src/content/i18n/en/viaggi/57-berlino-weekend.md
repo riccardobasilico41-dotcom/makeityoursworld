@@ -36,6 +36,8 @@ A few steps away is the **Holocaust Memorial** (Denkmal für die ermordeten Jude
 
 In the evening we were in Mitte, between Unter den Linden and Gendarmenmarkt, the square with the German and French Cathedrals and the Konzerthaus.
 
+**In practice:** the Reichstag is free with a booking on the Bundestag website and ID at the entrance · the Holocaust Memorial is always open, the underground information center is closed on Mondays · U5 or S-Bahn to Brandenburger Tor · from Gendarmenmarkt it's a few minutes' walk back to Unter den Linden.
+
 ### Day 2 — The Berlin Wall and the Cold War
 This is the day of the divided city, and it asks for time.
 
@@ -47,12 +49,16 @@ In the afternoon, the **Topography of Terror** (Topographie des Terrors), the do
 
 After a day like that, the evening should be left empty.
 
-### Day 3 — Museum Island and East Berlin
-The morning and early afternoon were for **Museum Island** (Museumsinsel), a UNESCO World Heritage Site since 1999: the **Pergamonmuseum** (it's worth checking beforehand which rooms are open, given the ongoing works), the **Neues Museum** with the bust of **Nefertiti** and the **Altes Museum** with its classical art collections.
+**In practice:** the outdoor area on Bernauer Straße is free and always open, the visitor center is closed on Mondays (S-Bahn Nordbahnhof) · the Topography of Terror is free and open every day · Checkpoint Charlie is on the U6, Kochstraße stop · a BVG day ticket makes sense, because the three sites are far apart.
 
-In the afternoon we moved toward **Alexanderplatz** and the neighborhood around it, heart of former East Berlin: the **Fernsehturm** (TV Tower), visible from much of the city, and the **Nikolaiviertel**, the small quarter rebuilt around the oldest church in Berlin. If you like, the **DDR Museum**, dedicated to everyday life in East Germany, is a few steps away.
+### Day 3 — Museum Island and East Berlin
+The morning and early afternoon were for **Museum Island** (Museumsinsel), a UNESCO World Heritage Site since 1999: the **Pergamonmuseum** (it's worth checking beforehand which rooms are open, given the ongoing works), the **Neues Museum** with the bust of **Nefertiti** and the **Altes Museum** with its classical art collections. It's best to arrive at opening time with a time slot booked online, especially for the Neues Museum: Nefertiti's room is the most crowded on the island and early in the morning you can see it without the crush. If you want several museums on the same day, the combined island ticket costs less.
+
+In the afternoon we moved toward **Alexanderplatz** and the neighborhood around it, heart of former East Berlin: the **Fernsehturm** (TV Tower), visible from much of the city, and the **Nikolaiviertel**, the small quarter rebuilt around the oldest church in Berlin. If you like, the **DDR Museum**, dedicated to everyday life in East Germany, is a few steps away. For the Fernsehturm it's better to buy a timed ticket online: the viewing platform is at about 200 meters and toward sunset the line gets long.
 
 You eat dinner around Alexanderplatz or on the way back toward Mitte.
+
+**In practice:** island museums on a single or combined ticket, ideally with a booked time slot · U5 Museumsinsel or S-Bahn Hackescher Markt · Pergamonmuseum: check on the State Museums website which rooms are open · Fernsehturm with a timed ticket from the official website · the DDR Museum is on the Spree, opposite the Cathedral.
 
 ### Day 4 — Kreuzberg and Friedrichshain
 On the last day we left the old town for the eastern neighborhoods, grown after reunification in the spaces left free by the fall of the Wall. In the morning we were at the **East Side Gallery**: 1.3 km of the Wall still standing along the Spree in Friedrichshain, painted in 1990 by more than a hundred artists. Among the murals is the "Fraternal Kiss" between Brezhnev and Honecker.
@@ -60,6 +66,8 @@ On the last day we left the old town for the eastern neighborhoods, grown after 
 In the early afternoon, **Kreuzberg**: the Turkish market along the **Maybachufer**, the street art in the streets around Oranienstraße, the **Markthalle Neun** for a snack among the many international street food options.
 
 In the evening there's time for a nod to the nightlife scene that made Berlin one of the world capitals of electronic music, born right in these industrial spaces left empty by the fall of the Wall (there's a dedicated experience entry), without it being an indispensable part of the weekend.
+
+**In practice:** the East Side Gallery is outdoors and free, from Warschauer Straße or Ostbahnhof stations · the Turkish market on the Maybachufer runs on Tuesdays and Fridays · at Markthalle Neun, Street Food Thursday is on Thursday evening · the U1 crosses the Oberbaumbrücke and links Friedrichshain to Kreuzberg in a few minutes.
 
 ## What to see / what to do
 - **The Brandenburg Gate** and the Reichstag dome.

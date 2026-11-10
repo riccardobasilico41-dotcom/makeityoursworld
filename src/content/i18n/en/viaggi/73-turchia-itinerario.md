@@ -59,154 +59,116 @@ State museums are quoted in euros and prices go up every year: the figures are a
 ## Itinerario giorno per giorno
 
 ### Day 1 — Arrival in Istanbul
-We landed at Istanbul airport, forty kilometers from the city, and with the Havaist or the metro you get all the way to **Sultanahmet**, the historic peninsula where it's best to sleep for the first few days. The first thing to do is buy the **Istanbulkart** at one of the metro or tram vending machines.
+We landed at Istanbul airport, forty kilometers from the city, and with the Havaist or the metro you get all the way to **Sultanahmet**, the historic peninsula where it's best to sleep for the first few days. The first thing to do is buy the **Istanbulkart** at one of the metro or tram vending machines. The Havaist leaves from the arrivals level and has a line heading down to the historic peninsula; the M11 metro is cheaper but needs at least one change. *Avoid the unofficial taxis touting at the exit: better the line of yellow metered taxis or an app like BiTaksi.*
 
-In the evening we took a first stroll between **Hagia Sophia** and the **Blue Mosque** lit up, separated by the Sultanahmet garden, and had dinner in a lokanta away from the main square, where prices are cut in half.
+In the evening we took a first stroll between **Hagia Sophia** and the **Blue Mosque** lit up, separated by the Sultanahmet garden, and had dinner in a lokanta away from the main square, where prices are cut in half. To get around the area the **T1 tram** is enough: it runs from Sultanahmet to Eminönü and Kabataş and is paid with the same Istanbulkart. Keep the first evening light and go to bed early, because tomorrow you enter Hagia Sophia at opening time.
 
-**In practice**
-- Havaist or metro: about 1-1.5 hours to the center
-- Istanbulkart: bought and recharged at the vending machines, works for several people
-- eSIM or SIM at the airport, with a passport
+**In practice:** Havaist or metro: about 1-1.5 hours to the center · Istanbulkart: bought and recharged at the vending machines, works for several people · eSIM or SIM at the airport, with a passport
 
 ### Day 2 — Sultanahmet: Hagia Sophia, the Blue Mosque and the Cistern
-We entered **Hagia Sophia** at opening time. Since 2024 foreign tourists follow a separate route with a ticket, which goes up to the upper galleries with the Byzantine mosaics, while the main floor is reserved for prayer. The **Blue Mosque**, opposite, is free and closes to tourists during the five prayers: you enter barefoot, with shoulders and legs covered and a headscarf for women.
+We entered **Hagia Sophia** at opening time. Since 2024 foreign tourists follow a separate route with a ticket, which goes up to the upper galleries with the Byzantine mosaics, while the main floor is reserved for prayer. The **Blue Mosque**, opposite, is free and closes to tourists during the five prayers: you enter barefoot, with shoulders and legs covered and a headscarf for women. There are security checks at the entrance and the line grows quickly from 10 am onwards; in the mosques you carry your shoes in a plastic bag, usually found at the entrance.
 
-In the afternoon we went underground, into the **Basilica Cistern**, with its 336 columns and the two Medusa heads, and then moved on to the **Hippodrome** with the Egyptian obelisk. Those with the Museum Pass add the Great Palace Mosaic Museum.
+In the afternoon we went underground, into the **Basilica Cistern**, with its 336 columns and the two Medusa heads, and then moved on to the **Hippodrome** with the Egyptian obelisk. Those with the Museum Pass add the Great Palace Mosaic Museum. The Cistern is cool and dim, and in the evening the setting changes and the ticket costs more. At the Hippodrome, besides the obelisk of Theodosius, there are the **Serpent Column** brought from Delphi and the German Fountain, and from there you walk back to the Blue Mosque to see it after the sunset prayer.
 
-**In practice**
-- Hagia Sophia €25, Blue Mosque free
-- Basilica Cistern: about 1,950-2,250 lira by day (€35-40), 3,000 lira in the evening
-- Mosques closed to tourists during prayers, especially on Friday at noon
+**In practice:** Hagia Sophia €25, Blue Mosque free · Basilica Cistern: about 1,950-2,250 lira by day (€35-40), 3,000 lira in the evening · mosques closed to tourists during prayers, especially on Friday at noon
 
 ### Day 3 — Topkapı, the Grand Bazaar and the Süleymaniye
-**Topkapı Palace**, residence of the sultans for almost four centuries, needs at least three hours: the courtyards, the treasury, the relics and above all the **harem**, with the combined ticket. It's best to enter at opening time; it's closed on Tuesdays.
+**Topkapı Palace**, residence of the sultans for almost four centuries, needs at least three hours: the courtyards, the treasury, the relics and above all the **harem**, with the combined ticket. It's best to enter at opening time; it's closed on Tuesdays. The busiest rooms are the treasury and the relics, with the line growing by mid-morning: see them first and leave for later the pavilions overlooking the Bosphorus and the fourth courtyard, with its view of the Golden Horn.
 
-Then the **Grand Bazaar**, with its sixty covered streets, and on foot to the **Süleymaniye Mosque**, the masterpiece of the architect Sinan, from whose terrace you see the Golden Horn. We went down to the **Spice Bazaar** and had dinner with the **balık ekmek**, the fish sandwich from the Eminönü boats.
+Then the **Grand Bazaar**, with its sixty covered streets, and on foot to the **Süleymaniye Mosque**, the masterpiece of the architect Sinan, from whose terrace you see the Golden Horn. We went down to the **Spice Bazaar** and had dinner with the **balık ekmek**, the fish sandwich from the Eminönü boats. In the Süleymaniye garden are the tombs of Suleiman the Magnificent and his wife Hürrem, and the mosque can be visited free outside prayer times. *The Spice Bazaar is smaller and pricier than the Grand Bazaar: for tea, lokum and spices, compare prices in the shops in the surrounding streets.*
 
-**In practice**
-- Topkapı with harem 2,750 lira (about €50), closed on Tuesdays
-- Grand Bazaar closed on Sundays
-- At the bazaar you haggle, starting from half the asking price
+**In practice:** Topkapı with harem 2,750 lira (about €50), closed on Tuesdays · Grand Bazaar closed on Sundays · at the bazaar you haggle, starting from half the asking price
 
 ### Day 4 — The Bosphorus, Beyoğlu and Kadıköy
-A day on the water. The **public ferry** on the Bosphorus from Eminönü goes up the strait between Ottoman villas, fortresses and bridges to **Anadolu Kavağı**, almost at the Black Sea, with a climb to the Genoese fortress and a return in the afternoon. Alternatively, those with less time take one of the short ferries to **Kadıköy**, on the Asian side, for the fish market and the café streets.
+A day on the water. The **public ferry** on the Bosphorus from Eminönü goes up the strait between Ottoman villas, fortresses and bridges to **Anadolu Kavağı**, almost at the Black Sea, with a climb to the Genoese fortress and a return in the afternoon. Alternatively, those with less time take one of the short ferries to **Kadıköy**, on the Asian side, for the fish market and the café streets. On the way out the long ferry takes about an hour and a half, with several stops on both shores, and you get an outdoor seat by boarding a little early. In Anadolu Kavağı the fish restaurants are on the harbor, and the climb to Yoros Castle takes about twenty minutes on foot.
 
-In the evening in **Beyoğlu**: the Galata Tower at sunset, İstiklal Avenue, and a meze dinner in a meyhane.
+In the evening in **Beyoğlu**: the Galata Tower at sunset, İstiklal Avenue, and a meze dinner in a meyhane. From Karaköy you go up to Beyoğlu on the **Tünel**, the underground funicular of 1875, or on foot along the steep streets. İstiklal Avenue is pedestrian and runs to Taksim Square, with the red heritage tram crossing it; the meyhanes are in the side streets, around the Balık Pazarı fish market.
 
-**In practice**
-- Long public Bosphorus ferry (Şehir Hatları): departs every day at 10:35 from Eminönü, returns from Anadolu Kavağı at 15:00, about 320 lira round trip (about €6)
-- Eminönü-Kadıköy ferry: 20 minutes, with the Istanbulkart
-- Galata Tower around €30, often with a queue
+**In practice:** long public Bosphorus ferry (Şehir Hatları): departs every day at 10:35 from Eminönü, returns from Anadolu Kavağı at 15:00, about 320 lira round trip (about €6) · Eminönü-Kadıköy ferry: 20 minutes, with the Istanbulkart · Galata Tower around €30, often with a queue
 
 ### Day 5 — Flight to Cappadocia
-Morning flight to **Kayseri** or **Nevşehir** and transfer to **Göreme**, the town at the heart of the valleys. You sleep in a **cave hotel**, a room carved into the tuff. The afternoon served to get settled: a walk in **Love Valley** with its pinnacles and sunset from the hill above Göreme, when in every guesthouse they are already booking the next day's balloons.
+Morning flight to **Kayseri** or **Nevşehir** and transfer to **Göreme**, the town at the heart of the valleys. You sleep in a **cave hotel**, a room carved into the tuff. The afternoon served to get settled: a walk in **Love Valley** with its pinnacles and sunset from the hill above Göreme, when in every guesthouse they are already booking the next day's balloons. Nevşehir airport is the closest to Göreme, about forty minutes away, Kayseri a little over an hour but with more flights; the shared transfer is booked through the hotel or on arrival.
 
-**In practice**
-- Istanbul-Kayseri or Nevşehir flight: roughly €40-90
-- Shared transfer to Göreme: roughly €10-15 per person
-- Book the balloon for the first available day, with the other as a spare
+Göreme is small and walkable: the balloon agencies, quad rentals and tour departures are all in the center of the village. For the balloon, choose a licensed operator and ask how many people are in the basket, because the price changes a lot with the size. *Evenings are cold even in summer: pack a jacket, and even more so for the dawn flight.*
+
+**In practice:** Istanbul-Kayseri or Nevşehir flight: roughly €40-90 · shared transfer to Göreme: roughly €10-15 per person · book the balloon for the first available day, with the other as a spare
 
 ### Day 6 — Balloon at Dawn and the Göreme Open-Air Museum
 Wake-up at 4. The minibus picks you up at the hotel, and around dawn about a hundred **balloons** rise above the valleys for about an hour. Flights depend on the wind and are canceled with a few hours' notice: that is why you book for the first morning and keep the second as a spare. Those who don't fly watch them take off from the hill above Göreme, for free.
 
-In the morning we went to the **Göreme Open-Air Museum**, a monastic complex with rock-cut churches and Byzantine frescoes; the **Dark Church**, with a separate ticket, is the one with the best-preserved colors. In the afternoon we walked to **Paşabağ**, the valley of fairy chimneys with double caps.
+In the morning we went to the **Göreme Open-Air Museum**, a monastic complex with rock-cut churches and Byzantine frescoes; the **Dark Church**, with a separate ticket, is the one with the best-preserved colors. In the afternoon we walked to **Paşabağ**, the valley of fairy chimneys with double caps. The road to Paşabağ passes through **Çavuşin**, the village with the old church carved into the cliff, and you can walk back to Göreme on the valley trails, a couple of hours of easy walking.
 
-**In practice**
-- Balloon roughly €150-350 with transfer and breakfast
-- Göreme Open-Air Museum €20, Dark Church separate
-- Enter the museum at opening time, before the groups
+**In practice:** balloon roughly €150-350 with transfer and breakfast · Göreme Open-Air Museum €20, Dark Church separate · enter the museum at opening time, before the groups
 
 ### Day 7 — Red Valley, Uçhisar and the Underground City
-In the morning you go underground into the **underground city of Derinkuyu** or that of **Kaymaklı**: eight levels carved into the tuff, with stables, cellars and chapels, used for centuries as a refuge. Those who suffer from tight spaces take the shorter route.
+In the morning you go underground into the **underground city of Derinkuyu** or that of **Kaymaklı**: eight levels carved into the tuff, with stables, cellars and chapels, used for centuries as a refuge. Those who suffer from tight spaces take the shorter route. Inside it's cool all year and some passages are low and narrow: you need comfortable shoes and a light sweater. A guide, even one shared with other visitors at the entrance, helps understand what each room was for.
 
-The afternoon is for the **Uçhisar citadel**, the highest rock in the area, and for the trail of the **Red Valley** and the **Rose Valley**, to be done in the last hours of light, when the walls take on the color that gives the valleys their name. In the evening we took the **overnight bus** to Pamukkale, which leaves from Göreme or Nevşehir.
+The afternoon is for the **Uçhisar citadel**, the highest rock in the area, and for the trail of the **Red Valley** and the **Rose Valley**, to be done in the last hours of light, when the walls take on the color that gives the valleys their name. In the evening we took the **overnight bus** to Pamukkale, which leaves from Göreme or Nevşehir. For the night bus, book the seat the day before at the agencies in Göreme, and ask whether there's a shuttle to the Nevşehir bus station.
 
-**In practice**
-- Derinkuyu or Kaymaklı €13
-- The daily Green Tour (Derinkuyu, Ihlara, Selime) is the alternative to a car
-- Overnight bus to Denizli/Pamukkale: about 9-10 hours, roughly €20-35
+**In practice:** Derinkuyu or Kaymaklı €13 · the daily Green Tour (Derinkuyu, Ihlara, Selime) is the alternative to a car · overnight bus to Denizli/Pamukkale: about 9-10 hours, roughly €20-35
 
 ### Day 8 — Pamukkale and Hierapolis
-We arrived in **Pamukkale** early in the morning. The **travertine terraces**, the white hill formed by hot springs, are climbed barefoot from the lower entrance; at the top are the ruins of **Hierapolis**, with the Roman theater and the necropolis, and the **Antique Pool**, where you swim among fallen columns. Many pools are kept dry on rotation to preserve the limestone.
+We arrived in **Pamukkale** early in the morning. The **travertine terraces**, the white hill formed by hot springs, are climbed barefoot from the lower entrance; at the top are the ruins of **Hierapolis**, with the Roman theater and the necropolis, and the **Antique Pool**, where you swim among fallen columns. Many pools are kept dry on rotation to preserve the limestone. If you come by bus you get off in Denizli and take a minibus to the village of Pamukkale, at the foot of the hill; from the lower entrance to the top it's about half an hour's climb, barefoot on the limestone. At the top, besides the theater, you can climb to the **Martyrium of St Philip**, on the slope behind the ancient city.
 
-We spent the afternoon resting at the guesthouse, and watched the sunset from the terraces, when the light turns the white pink.
+We spent the afternoon resting at the guesthouse, and watched the sunset from the terraces, when the light turns the white pink. *At midday the white of the terraces reflects the sun like snow: sunglasses and sunscreen are essential, and it's best to climb early or in the late afternoon.*
 
-**In practice**
-- Pamukkale-Hierapolis €30, Antique Pool roughly €6-13 in lira
-- Pick up the rental car in Denizli, today or tomorrow morning
-- You walk barefoot on the terraces: bring a bag for your shoes
+**In practice:** Pamukkale-Hierapolis €30, Antique Pool roughly €6-13 in lira · pick up the rental car in Denizli, today or tomorrow morning · you walk barefoot on the terraces: bring a bag for your shoes
 
 ### Day 9 — Aphrodisias and Arrival in Selçuk
-We set off by car heading west. **Aphrodisias**, an hour and a half from Pamukkale, is one of the most beautiful and least visited sites in Turkey: an almost intact Roman stadium for thirty thousand people, the tetrapylon and a museum full of statues, because there was a school of sculptors here. It can be visited in two hours, often almost alone.
+We set off by car heading west. **Aphrodisias**, an hour and a half from Pamukkale, is one of the most beautiful and least visited sites in Turkey: an almost intact Roman stadium for thirty thousand people, the tetrapylon and a museum full of statues, because there was a school of sculptors here. It can be visited in two hours, often almost alone. In the museum the highlight is the reliefs of the **Sebasteion**, the temple dedicated to the emperors, reassembled in a long hall that recreates the facade.
 
-We continued to **Selçuk**, the town next to Ephesus, for the evening: the **Basilica of St. John** at sunset and dinner in the center.
+We continued to **Selçuk**, the town next to Ephesus, for the evening: the **Basilica of St. John** at sunset and dinner in the center. Above the basilica stands the **Ayasuluk fortress**, and down on the plain a single column remains of the **Artemision**, the temple of Artemis that was one of the seven wonders of the ancient world. Selçuk is small and quiet, with family-run guesthouses and lower prices than Kuşadası.
 
-**In practice**
-- Aphrodisias €12
-- Pamukkale-Aphrodisias-Selçuk: about 3.5 hours of driving
-- Basilica of St. John €6
+**In practice:** Aphrodisias €12 · Pamukkale-Aphrodisias-Selçuk: about 3.5 hours of driving · Basilica of St. John €6
 
 ### Day 10 — Ephesus and Şirince
 **Ephesus** opens early, and you should be there at opening time: from 10 the cruise ship passengers from Kuşadası arrive. It's best to enter through the **upper gate** (by taxi) and walk down the **Curetes Street** to the **Library of Celsus** and the **great theater**. The **Terrace Houses**, with a separate ticket and a covering that protects them, preserve frescoes and mosaics from the houses of wealthy Romans: they are the best part of the site.
 
-In the afternoon the **Ephesus Museum** in Selçuk and then **Şirince**, a Greek village in the hills ten minutes away, with white houses and fruit wines.
+In the afternoon the **Ephesus Museum** in Selçuk and then **Şirince**, a Greek village in the hills ten minutes away, with white houses and fruit wines. The museum holds the two statues of Artemis found at Ephesus and finds from the terrace houses, and helps piece together what you saw in the morning.
 
-**In practice**
-- Ephesus €40, Terrace Houses €15 separate
-- Taxi from Selçuk to the upper gate: a few euros
-- The House of the Virgin Mary (Meryem Ana Evi) is 15 minutes from the upper gate
+**In practice:** Ephesus €40, Terrace Houses €15 separate · taxi from Selçuk to the upper gate: a few euros · the House of the Virgin Mary (Meryem Ana Evi) is 15 minutes from the upper gate
 
 ### Day 11 — Toward the Lycian Coast: Fethiye
-A transfer day, three and a half or four hours southeast, to **Fethiye**. The afternoon is for the **Lycian tombs** carved into the rock above the town, the **fish market**, where you choose the fish at the counter and have it cooked in the restaurants around it, and sunset from the harbor.
+A transfer day, three and a half or four hours southeast, to **Fethiye**. The afternoon is for the **Lycian tombs** carved into the rock above the town, the **fish market**, where you choose the fish at the counter and have it cooked in the restaurants around it, and sunset from the harbor. Above the town, the **Tomb of Amyntas** is the largest and is reached by a stairway from the center: the best light is in the late afternoon, when the carved facade turns orange.
 
-**In practice**
-- Selçuk-Fethiye: about 3.5-4 hours, with HGS tolls on the first stretch
-- Fish market: you pay for the fish by weight at the counter, plus a fixed amount for cooking
-- Base in Fethiye or Ölüdeniz for two nights
+Fethiye is a real town, with a harbor full of gulets and a seafront you can walk to the center, and it's a handy base because the twelve-island boat trips leave from here, as do the roads to Ölüdeniz and Kayaköy. If you want to break the journey, stop halfway for lunch inland, where food costs much less than on the coast. *At the fish market, ask the price per kilo before the fish is weighed.*
+
+**In practice:** Selçuk-Fethiye: about 3.5-4 hours, with HGS tolls on the first stretch · fish market: you pay for the fish by weight at the counter, plus a fixed amount for cooking · base in Fethiye or Ölüdeniz for two nights
 
 ### Day 12 — Ölüdeniz, Kayaköy and the Lycian Way
-In the morning we were at the beach in **Ölüdeniz**, the protected turquoise lagoon, with Belcekız beach in front. Those who want to fly by **paraglider** from Babadağ, at almost two thousand meters, and land directly on the beach; those who prefer take the boat to the **Butterfly Valley**, a cove closed in between rock walls.
+In the morning we were at the beach in **Ölüdeniz**, the protected turquoise lagoon, with Belcekız beach in front. Those who want to fly by **paraglider** from Babadağ, at almost two thousand meters, and land directly on the beach; those who prefer take the boat to the **Butterfly Valley**, a cove closed in between rock walls. The lagoon itself is a nature park with a small entrance fee, while Belcekız beach is public; in summer arrive early to find a spot.
 
-In the afternoon **Kayaköy**, the Greek village abandoned after the 1923 population exchange, and a short stage of the **Lycian Way**, the 540 km trail that starts right here, between Ölüdeniz and Faralya.
+In the afternoon **Kayaköy**, the Greek village abandoned after the 1923 population exchange, and a short stage of the **Lycian Way**, the 540 km trail that starts right here, between Ölüdeniz and Faralya. In Kayaköy hundreds of roofless stone houses remain along the slope, with two churches, and it takes an hour to walk among the ruins. The stretch of the Lycian Way above Ölüdeniz has views over the lagoon from above, but needs hiking shoes and water, because there's little shade.
 
-**In practice**
-- Paragliding around €100-150
-- Boat to the Butterfly Valley: roughly €10-20 round trip
-- Kayaköy around €5-10
+**In practice:** paragliding around €100-150 · boat to the Butterfly Valley: roughly €10-20 round trip · Kayaköy around €5-10
 
 ### Day 13 — From Fethiye to Kaş: Saklıkent and Patara
-We headed down toward **Kaş** with two stops. The first is the **Saklıkent gorge**, an 18-kilometer canyon whose first stretch you walk through the icy water of the stream, with water shoes. Then **Patara**, with the ruins of the ancient Lycian capital and an 18-kilometer sandy beach, protected because sea turtles nest there.
+We headed down toward **Kaş** with two stops. The first is the **Saklıkent gorge**, an 18-kilometer canyon whose first stretch you walk through the icy water of the stream, with water shoes. Then **Patara**, with the ruins of the ancient Lycian capital and an 18-kilometer sandy beach, protected because sea turtles nest there. The stream water comes from the mountain snow and is cold even in August: the stretch to walk is short, then the gorge narrows and gets harder. At Patara the theater and the **bouleuterion**, the assembly hall of the Lycian League, have been restored and are worth seeing before the beach.
 
-We arrived in **Kaş** in the evening, after seeing from the top of the coastal road the beach of **Kaputaş**, one of the most photographed in the country.
+We arrived in **Kaş** in the evening, after seeing from the top of the coastal road the beach of **Kaputaş**, one of the most photographed in the country. From the road you go down to Kaputaş by a stairway, and the parking is small: stop only if you find a space.
 
-**In practice**
-- Saklıkent around €5-10, Patara €15
-- Water shoes for the Saklıkent stream, rented on site
-- At Patara the beach closes at sunset for the turtles
+**In practice:** Saklıkent around €5-10, Patara €15 · water shoes for the Saklıkent stream, rented on site · at Patara the beach closes at sunset for the turtles
 
 ### Day 14 — Kekova by Boat
-A day by boat from Kaş or from Üçağız toward **Kekova**: you sail over the ruins of a Lycian city sunk by earthquakes, with stairways and walls visible below the surface of the water (you can't swim over the ruins). You land at **Kaleköy (Simena)**, a village reachable only by sea, with the castle and a Lycian sarcophagus rising out of the water. Those who prefer do the same route by **kayak** with a guide. The evening in Kaş, among the uphill streets and the taverns.
+A day by boat from Kaş or from Üçağız toward **Kekova**: you sail over the ruins of a Lycian city sunk by earthquakes, with stairways and walls visible below the surface of the water (you can't swim over the ruins). You land at **Kaleköy (Simena)**, a village reachable only by sea, with the castle and a Lycian sarcophagus rising out of the water. Those who prefer do the same route by **kayak** with a guide. The evening in Kaş, among the uphill streets and the taverns. The boats usually leave in the morning and return in the afternoon, with swimming stops in bays reachable only from the sea.
 
-**In practice**
-- Boat trip to Kekova with lunch: roughly €25-45
-- Kayak tour: roughly €40-60
-- Kaş is also a diving center, with wrecks and caves near the coast
+In Kaleköy you climb to **Simena Castle** with a short walk among the houses, and from the top you see the islands, the bay and the Lycian tombs scattered on the slope. The village has few houses, a few guesthouses and fish restaurants on the jetty, and those on the kayak trip usually get there for lunch. *In summer the sun on the water is strong even with wind: a hat, sunscreen and a long-sleeved shirt are more useful than they seem.*
+
+**In practice:** boat trip to Kekova with lunch: roughly €25-45 · kayak tour: roughly €40-60 · Kaş is also a diving center, with wrecks and caves near the coast
 
 ### Day 15 — From Kaş to Antalya
-Last stretch along the coast, three and a half hours to **Antalya**, with a stop at **Myra** for the rock-cut tombs and the church of **St. Nicholas** in Demre, or at **Olympos** for the ruins in the forest and the flames of the Chimera, which burn naturally from the ground. Return the car at the airport or in the city, then the evening in **Kaleiçi**, the old town around the Roman harbor.
+Last stretch along the coast, three and a half hours to **Antalya**, with a stop at **Myra** for the rock-cut tombs and the church of **St. Nicholas** in Demre, or at **Olympos** for the ruins in the forest and the flames of the Chimera, which burn naturally from the ground. Return the car at the airport or in the city, then the evening in **Kaleiçi**, the old town around the Roman harbor. At Myra the rock tombs have facades carved like Lycian houses, above a large Roman theater; the church of St Nicholas, in Demre, held the saint's relics before they were taken to Bari.
 
-**In practice**
-- Myra €13, St. Nicholas church €17
-- Chimera: the visit is better in the dark, with a flashlight
-- Car return: check the full tank and the HGS charge
+**Kaleiçi** is explored on foot in the evening, when it cools down: you enter through **Hadrian's Gate**, the 2nd-century Roman arch, pass under the **Yivli Minare**, the fluted minaret that is the city's symbol, and walk down among the Ottoman houses to the ancient harbor. The narrow streets are full of guesthouses and restaurants, and in high season it's worth booking dinner. *At Olympos the Chimaera is reached by a climb of about half an hour: closed shoes and a torch, because the path is unlit.*
+
+**In practice:** Myra €13, St. Nicholas church €17 · Chimera: the visit is better in the dark, with a flashlight · car return: check the full tank and the HGS charge
 
 ### Day 16 — Antalya and the Trip Home
-The **Antalya Archaeological Museum**, among the best in the country, with the statues from Perge, has been closed since July 2025 for reconstruction, with reopening announced no earlier than the end of 2026. The morning is therefore for a walk to the **Düden waterfalls** that fall into the sea, or for the museum, if it has reopened in the meantime. Then the airport, with direct flights to Italy in season or via Istanbul.
+The **Antalya Archaeological Museum**, among the best in the country, with the statues from Perge, has been closed since July 2025 for reconstruction, with reopening announced no earlier than the end of 2026. The morning is therefore for a walk to the **Düden waterfalls** that fall into the sea, or for the museum, if it has reopened in the meantime. Then the airport, with direct flights to Italy in season or via Istanbul. The **Düden waterfalls** are two: the upper ones in a park in the city, with a path behind the falling water, and the lower ones at Lara, where the river drops straight into the sea from the cliff.
 
-**In practice**
-- Archaeological Museum closed for reconstruction (€15 before the closure): check whether it has reopened
-- Antalya airport 20-30 minutes from the center
-- In high season the airport is crowded: arrive 2.5-3 hours early
+With more time you can add **Perge** or **Aspendos**, less than an hour from the city: Aspendos has one of the best-preserved Roman theaters in the world, still used for performances in summer. For the last lunch, Kaleiçi and the area around the harbor have places serving **piyaz**, the bean salad with tahini typical of Antalya. *Traffic to the airport can be slow at rush hour: leave with a margin.*
+
+**In practice:** archaeological Museum closed for reconstruction (€15 before the closure): check whether it has reopened · Antalya airport 20-30 minutes from the center · in high season the airport is crowded: arrive 2.5-3 hours early
 
 ## Where to stay
 - **Istanbul:** budget: small hotels in Sultanahmet and Sirkeci, €50-80 · mid-range: boutique hotels in Sultanahmet or Karaköy, €90-160 · luxury: historic hotels and palaces on the Bosphorus.

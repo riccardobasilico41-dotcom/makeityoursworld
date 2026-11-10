@@ -39,6 +39,8 @@ The beaches are **Liscia Ruja**, the biggest, **Capriccioli**, **Romazzino**, **
 
 Then **Porto Cervo** at sunset, to understand the phenomenon: the little square, the shop windows, the boats. You spend an hour there and you've seen it all.
 
+**In practice:** from Olbia airport to Porto Cervo about 40 minutes by car · in July and August parking at the Costa Smeralda beaches is paid and fills up by mid-morning · in Porto Cervo an aperitif in the piazzetta costs far more than elsewhere: count it as part of the visit.
+
 ### Day 2 — The La Maddalena Archipelago
 A day by boat in the **La Maddalena Archipelago National Park**: **sixty-two islands and islets** between Sardinia and Corsica, almost all uninhabited.
 
@@ -47,6 +49,8 @@ You leave from Palau or La Maddalena. From the boat we saw the **Strait of Bonif
 On land, **Caprera**: the island where **Garibaldi** bought half the land in 1855, where he lived his last twenty-seven years and where he is buried. The **house museum** has been left as it was, with the bed turned toward the window from which he watched the sea. It's a visit that surprises anyone who doesn't expect it.
 
 Also on Caprera is **Cala Coticcio**, called "Tahiti", one of the most beautiful coves in the Mediterranean: **access by land is capped and allowed only with authorized guides**, in limited daily numbers. **Book well in advance, or look at it from the sea.**
+
+**In practice:** Palau-La Maddalena ferry in about 20 minutes, with frequent sailings · boat trips leave in the morning and return in the afternoon, best booked the day before in high season · Garibaldi's house museum on Caprera has timed entry and closing days to check · Cala Coticcio only with authorized guides, book well ahead.
 
 ### Day 3 — Capo Testa, the Valley of the Moon and Inland Gallura
 In the morning we were in **Santa Teresa di Gallura** and on the headland of **Capo Testa**, where **wind and sea have eroded the granite into shapes that look sculpted**: round boulders, arches, channels. In antiquity it was a Roman quarry: there are still **columns roughed out and abandoned on the spot**, and granite from here ended up in the basilicas of Rome and in Pisa Cathedral.
@@ -57,14 +61,16 @@ In the afternoon we entered **inland Gallura**, the opposite of the coast: grani
 
 This is where **Vermentino di Gallura** is made, the island's only **DOCG**, which on granite takes on a minerality it doesn't have elsewhere. **Winery by appointment.**
 
+**In practice:** from Santa Teresa to Capo Testa about ten minutes by car, paid parking in summer · the Valle della Luna is reached on foot in about half an hour of trail among the rocks, closed shoes · from Santa Teresa to Tempio Pausania about an hour · Vermentino wineries visited by appointment, to request a few days ahead.
+
 ### Day 4 — Toward the Gulf of Orosei
-We moved south along the east coast: it's the longest driving day of the itinerary and should be taken slowly.
+We moved south along the east coast: it's the longest driving day of the itinerary and should be taken calmly.
 
-Along the way you can stop at **San Teodoro**, with its lagoon and **flamingos**, or at **Cala Brandinchi** and **Lu Impostu**, beautiful beaches that are both **capped in high season**: check the year's rules first.
+From Olbia to Cala Gonone it's about two hours on the SS125 and the expressway, which become many more with beach stops. Leave after breakfast and pick a single beach for a swim, in the morning, when parking is still free.
 
-The destination is **Cala Gonone** or the **Dorgali** area, the base for the **Gulf of Orosei**: forty kilometers of **limestone cliffs plunging into the sea without a single road**, with coves reachable only by boat or on foot. It is the most spectacular stretch of coast in Italy and one of the few left inaccessible.
+Along the way you can stop at **San Teodoro**, with its lagoon and **flamingos**, or at **Cala Brandinchi** and **Lu Impostu**, beautiful beaches, both with **limited numbers in high season**: check that year's rules beforehand. You arrive at **Cala Gonone** or in the **Dorgali** area, the base for the **Gulf of Orosei**: forty kilometers of **limestone cliffs plunging into the sea without a single road**, with the coves reachable only by boat or on foot. It's the most spectacular stretch of coast in Italy and one of the few still inaccessible. *The last stretch to Cala Gonone goes through a tunnel and down hairpin bends: better to arrive in daylight.* In the evening we went to bed early: the next day meant walking.
 
-That evening we went to bed early: the next day we walk.
+**In practice:** Olbia-Cala Gonone about two hours without stops · at Cala Brandinchi and Lu Impostu in summer access is capped with booking and paid parking · in Cala Gonone it's best to stay several nights in a row, as it's the base for days 5, 6 and 7 · early dinner and backpack ready for the next morning's hike.
 
 ### Day 5 — Cala Goloritzé
 The most beautiful day of the itinerary, and the one that takes the most organization.
@@ -77,12 +83,14 @@ Then you arrive, and **Cala Goloritzé** is what it is: a crescent of white pebb
 
 **Access is capped, with a reservation and a fee**, and **climbing the Aguglia is forbidden**, to protect the spire.
 
+**In practice:** access to Cala Goloritzé by online booking with a fee of a few euros and a limited daily number, to be secured in advance in summer · descent about an hour and a quarter, the climb back longer: at least two liters of water each · hiking shoes, not flip-flops · if you prefer the sea you can arrive by boat, without landing on the beach.
+
 ### Day 6 — The Gulf's Coves by Boat
-The completion of the previous day, from the water.
+The completion of the previous day, from the water. We did the boat trip from **Cala Gonone** or **Santa Maria Navarrese** along the whole gulf, with swimming stops: **Cala Mariolu**, with white pebbles and a seabed dropping in steps, **Cala Biriola**, **Cala Sisine** and **Cala Luna**, with caves behind the beach. These too are largely **capped**, and boats have assigned landing quotas: **the rules change, so ask the operator when booking.** *The sea in the gulf changes quickly with the wind: if the mistral is strong, trips are cancelled or stay close to shore.*
 
-We took the boat excursion from **Cala Gonone** or from **Santa Maria Navarrese** along the whole gulf, with swim stops: **Cala Mariolu**, with white pebbles and a seabed that drops away in steps, **Cala Biriola**, **Cala Sisine** and **Cala Luna**, with the caves behind the beach. These too are in large part **capped**, and boats have assigned landing quotas: **rules change, so ask the operator when you book.**
+In the gulf there's also the **Grotta del Bue Marino**, a very long sea cave you enter by boat and then continue on foot along walkways among stalactites and pools. The name comes from the **monk seal**, which lived there until the 1980s and today numbers only a few hundred in the Mediterranean. The cave is visited in guided slots, and many boat trips include it as the first stop in the morning. You can choose between the shared boat, cheaper, and a rented dinghy, which gives freedom of timing but requires experience at sea.
 
-In the gulf there is also the **Bue Marino Cave**, a very long sea cave that you enter by boat and then continue on foot along walkways among stalactites and little lakes. The name comes from the **monk seal**, which lived here until the 1980s and which today is down to a few hundred individuals in the Mediterranean.
+**In practice:** full-day boat trips from Cala Gonone or Santa Maria Navarrese, book the day before in high season · dinghies can be rented without a licence within the permitted engine power, but only in calm seas · Grotta del Bue Marino with a separate ticket and guided visit at set times · reef shoes useful on the pebbles.
 
 ### Day 7 — The Supramonte: Gorropu or Tiscali
 The mountain day, with two alternative options: doing both on the same day is not realistic.
@@ -92,6 +100,8 @@ The mountain day, with two alternative options: doing both on the same day is no
 **Option B — The Nuragic village of Tiscali.** You walk through the Lanaittu Valley and climb to a **doline**, a sinkhole in the limestone with its roof partly collapsed: **inside, hidden, is a Nuragic village**, with huts built under the natural vault. It was only found at the end of the nineteenth century and its function is debated: probably a refuge for local peoples during the Romanization. The route takes about four hours in all and **the last part needs sure feet**.
 
 For anyone who doesn't feel up to either, there is the **Su Gologone** spring, a karst resurgence from which an entire river emerges, the water emerald green.
+
+**In practice:** Gorropu and Tiscali start from different points, about an hour's drive from Cala Gonone · for Gorropu there's an entrance ticket to the gorge, and it's worth checking the water level · for Tiscali leave early, before the heat, with at least two liters of water · local guides can be booked in Dorgali or Cala Gonone.
 
 ### Day 8 — The Barbagia: Orgosolo, Mamoiada, Cannonau
 We went into the interior, the Sardinia that has nothing to do with the sea.
@@ -104,6 +114,8 @@ This is also the area where the studies on **Sardinian longevity** are concentra
 
 In the evening, a proper meal: **porceddu**, **culurgiones**, **pecorino**, **pane carasau**, **seadas** and ice-cold **mirto**.
 
+**In practice:** from Dorgali to Orgosolo about 40 minutes, from Orgosolo to Mamoiada about twenty · the Museum of Mediterranean Masks has reduced hours off season · Cannonau wineries visited by appointment · whoever drives skips the tasting: inland roads are narrow and winding.
+
 ### Day 9 — The Sinis, Tharros and the Nuraghi
 We crossed the island westward, on the day dedicated to archaeology.
 
@@ -115,6 +127,8 @@ In the afternoon, the **Sinis peninsula**: **Tharros**, a Phoenician and then Pu
 
 In **Cabras** is the museum with the **Giants of Mont'e Prama**: **stone statues over two meters tall** of archers, boxers and warriors, with eyes made of double concentric circles, about three thousand years old, found by chance by a farmer in 1974. They are **the oldest fully three-dimensional anthropomorphic statues of the western Mediterranean**, and their discovery rewrote what was thought about Nuragic civilization.
 
+**In practice:** Su Nuraxi di Barumini with compulsory guided visit at set times, ticket also available combined with the Casa Zapata museum complex in the village · from Barumini to Tharros about an hour and a quarter · at Is Arutas collecting or taking sand is fined · Cabras museum with a separate ticket, worth booking at weekends.
+
 ### Day 10 — The Sulcis-Iglesiente and Porto Flavia
 We went down to the south-west, the least visited part of the island and one of the most extraordinary.
 
@@ -122,14 +136,16 @@ We went down to the south-west, the least visited part of the island and one of 
 
 Nearby are **Cala Domestica**, a bay enclosed between two walls with the Spanish tower and the remains of mining structures, and the **mines of Montevecchio and Ingurtosu**, abandoned factory-villages with the Liberty-style management buildings in the middle of nowhere. **The Geo-Mining Park** tells a story that lasted more than a century and ended badly: when the mines closed, in the 1970s and 80s, the area emptied out.
 
+**In practice:** Porto Flavia can only be visited by booking and with a guide, at set times, to arrange several days ahead in summer · the meeting point is above Masua and access is on foot: closed shoes · Cala Domestica has paid parking and a kiosk in season · the roads to the mines are often unpaved.
+
 ### Day 11 — The Piscinas Dunes and the Costa Verde
-The day almost nobody puts in the plan.
+The day almost nobody puts on the program.
 
-The **Piscinas dunes** are **among the tallest in Europe**: a moving dune system reaching **tens of meters in height**, fed by the mistral and held in place by centuries-old bent junipers and lentisk bushes. We got there at the end of a dirt road in the middle of nowhere, and walked through a landscape that looks like nowhere else in Italy: golden sand as far as the eye can see, open sea ahead and, behind, the ruins of the mines.
+The **Piscinas dunes** are **among the highest in Europe**: a shifting dune system reaching **tens of meters in height**, fed by the mistral and held in place by bent centuries-old junipers and mastic shrubs. We got there at the end of a dirt road in the middle of nowhere, and walked in a landscape that resembles no other part of Italy: golden sand as far as the eye can see, the open sea ahead and, behind, the ruins of the mines. *On the dunes walk only on the marked paths, so as not to damage the vegetation that holds them; in summer the sand is scorching at midday.*
 
-The rest of the **Costa Verde** (**Scivu**, **Portixeddu**, **Capo Pecora**) is a string of very long beaches with no buildings, no beach clubs and often no one, even in August. **There are no services:** you have to bring everything.
+The rest of the **Costa Verde** (**Scivu**, **Portixeddu**, **Capo Pecora**) is a string of very long beaches without buildings, without beach clubs and often without anyone, even in August. **There are no services:** you have to bring everything. **Watch the sea:** on this west-facing coast currents and waves are serious, and there are almost never lifeguards. The best time for the dunes is early morning or late afternoon, when the low light draws the crests; sunset over the open sea closes the day.
 
-**Watch out for the sea:** on this west-facing coast currents and waves are serious, and there are almost never lifeguards.
+**In practice:** the last stretch to Piscinas is unpaved and crosses a ford: a normal car with care, check after rain · no shops along the coast: bring water, food and an umbrella · with a strong mistral swimming is not advisable · sleep in the Arbus or Guspini area, or head back toward Iglesias.
 
 ### Day 12 — Carloforte and the Island of San Pietro
 We took the ferry to the **island of San Pietro** and **Carloforte**, Sardinia's linguistic and cultural anomaly.
@@ -139,6 +155,8 @@ In 1738 a group of **Ligurian** families, who for two centuries had lived in **T
 For centuries Carloforte was a center of **tuna fishing with the fixed tonnara**, and bluefin tuna remains its culinary identity. Every part is eaten, **bottarga, ventresca, mosciame, lattume**, with a culture of cutting closer to the Japanese than the Italian.
 
 The island can be toured in a day: the **basalt columns** of Punta delle Colonne, **Cala Fico**, the **salt pans** with **flamingos**, and the village with its colored houses and green shutters, which looks like a piece of Liguria set down by mistake in Sardinia.
+
+**In practice:** ferries to Carloforte from Portovesme (about 40 minutes) or Calasetta (about half an hour), with a car best booked in summer · the island is easy to tour by car or scooter · in late May and early June the Girotonno livens up the town: book accommodation early · the salt pans are watched from the road, without entering the basins.
 
 ### Day 13 — Cagliari
 The last city, which surprises almost everyone.
@@ -151,10 +169,14 @@ The afternoon at the **Poetto**, the eight-kilometer urban beach, and at the **M
 
 A last dinner in town, and a last mirto.
 
-### Day 14 — Departure
-The last morning can be spent in Cagliari or on the **Costa del Sud**, toward the airport: **Chia** with its dunes and Spanish tower, **Tuerredda** (capped in season) and the Phoenician-Roman site of **Nora** on the point, with the theater overlooking the sea and part of the city submerged a few meters deep.
+**In practice:** Castello is reached on foot uphill or with the city's public lifts · National Archaeological Museum in the Cittadella dei Musei, check the weekly closing day · the Poetto is 20-30 minutes by bus from the center · the Molentargius flamingos are best seen early in the morning or at sunset.
 
-Flight from Cagliari.
+### Day 14 — Departure
+The last morning can be spent in Cagliari or on the **Costa del Sud**, toward the airport: **Chia** with its dunes and Spanish tower, **Tuerredda** (capped in season) and the Phoenician-Roman site of **Nora** on the point, with the theater facing the sea and part of the city submerged a few meters deep. Nora is visited in guided slots and takes about an hour; Chia is about twenty minutes further south. *With an early-afternoon flight pick a single stop, and leave the Costa del Sud to those leaving in the evening.*
+
+Flight from Cagliari. Elmas airport is about ten kilometers from the center and about an hour from Chia, and rental cars are returned in the dedicated area near the terminal. Before returning it, fill the tank and clear the sand from the car, which some agencies charge as extra cleaning. For last-minute shopping, pecorino, bottarga and mirto are also sold at the airport, but at higher prices.
+
+**In practice:** Cagliari-Nora about 45 minutes, Nora-Chia about 20 · Tuerredda in high season with booking and paid parking · get to the airport at least an hour and a half before domestic flights, two hours for international ones · vacuum-packed bottarga and cheese travel in hand luggage, mirto and jars over 100 ml go in the hold.
 
 ## The Two Short Versions
 - **A chic week (north-east):** Costa Smeralda, the La Maddalena archipelago by boat, Capo Testa, inland Gallura and two days on the Gulf of Orosei with Cala Goloritzé. It's the most photogenic itinerary and the most expensive.

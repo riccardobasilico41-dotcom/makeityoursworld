@@ -27,35 +27,39 @@ La China clásica es el viaje que todo el mundo imagina cuando piensa en China: 
 ## Itinerario giorno per giorno
 
 ### Día 1 — Llegada a Pekín
-Se llega a Capital (PEK) o a Daxing (PKX): conviene comprobar cuál de los dos antes de reservar el traslado, porque Daxing está mucho más lejos. Ambos están conectados con el centro por metro o por trenes exprés.
+Se llega a Capital (PEK) o a Daxing (PKX): conviene comprobar cuál de los dos antes de reservar el traslado, porque Daxing está mucho más lejos. Los dos están conectados con el centro por metro o trenes exprés. *Antes de salir hay que comprobar las normas de entrada actualizadas: en los últimos años los italianos han podido entrar sin visado para estancias cortas, pero las condiciones y los plazos cambian.* Al salir del aeropuerto conviene tener ya una SIM internacional o una eSIM con VPN integrada, porque muchas apps occidentales no funcionan en China.
 
-El primer día lo dejamos ligero a propósito, porque el cambio horario se hace notar: un paseo por los hutong alrededor de la Torre del Tambor y el lago Houhai y la primera cena en un restaurante de barrio, para estrenar el traductor con cámara en la carta. Es también el momento de comprobar en una tienda que Alipay o WeChat Pay funcionan, antes de descubrirlo en una situación incómoda.
+El primer día lo dejamos ligero a propósito, porque el desfase horario se nota: un paseo por los hutong alrededor de la Torre del Tambor y del lago Houhai y la primera cena en un restaurante de barrio, para probar el traductor con cámara sobre la carta. Es también el momento de comprobar en una tienda que Alipay o WeChat Pay funcionan, antes de descubrirlo en una situación incómoda. Los **hutong**, los callejones de casas con patio de la vieja Pekín, se recorren mejor a pie o en bici, sin rumbo, entrando en los patios solo donde la puerta está abierta.
+
+**En la práctica:** Daxing-centro en tren exprés unos 20 minutos hasta Caoqiao más el metro, Capital-centro con el Airport Express en una media hora · Alipay y WeChat Pay aceptan tarjetas de crédito extranjeras, que conviene vincular antes de salir · algo de efectivo en yuanes sigue siendo útil para los puestos pequeños · en las fiestas chinas (Año Nuevo lunar y primera semana de octubre) trenes y museos se llenan: mejor evitarlas.
 
 ### Día 2 — Ciudad Prohibida, Tiananmén y Jingshan
-Entramos en la **Ciudad Prohibida** a la apertura, con la reserva hecha desde hacía semanas y el pasaporte en la mano: sin él no se entra. El recorrido es de sentido único, de sur a norte. Conviene abandonar pronto el eje central, por donde camina el noventa por ciento de los visitantes, y meterse por los patios laterales del este, donde las salas son pequeñas y casi están vacías.
+Entramos en la **Ciudad Prohibida** a la hora de apertura, con la reserva hecha semanas antes y el pasaporte en la mano: sin él no se entra. El recorrido es de sentido único de sur a norte. Conviene dejar pronto el eje central, por donde camina el noventa por ciento de los visitantes, y meterse en los patios laterales del este, donde las salas son pequeñas y están casi vacías. *Para la visita hacen falta al menos tres horas, y dentro hay pocos sitios para comer: agua y algo de comida en la mochila.*
 
-Al salir por la puerta norte cruzamos la calle y subimos los escalones de la **colina de Jingshan**: diez minutos de subida y se tiene todo el complejo a los pies, con los tejados dorados alineados hasta Tiananmén. Casi nadie añade este paso a la visita, y sin esta vista la disposición del palacio resulta incomprensible.
+Al salir por la puerta norte cruzamos la calle y subimos los escalones de la **colina de Jingshan**: diez minutos de subida y se tiene todo el complejo debajo, con los tejados dorados alineados hasta Tiananmen. Casi nadie combina este paso con la visita, y sin embargo sin esta vista la planta del palacio resulta incomprensible. Por la tarde, la **Plaza de Tiananmen** (controles de seguridad en la entrada, hace falta el pasaporte) y, por la noche, pato laqueado en un local que lo prepara de oficio.
 
-La tarde en la **plaza de Tiananmén** (controles de seguridad a la entrada, hace falta el pasaporte) y, por la noche, pato laqueado en un local que lo hace por oficio.
+**En la práctica:** Ciudad Prohibida cerrada los lunes (salvo festivos), entradas nominativas en la web oficial o por app con el número de pasaporte, la venta abre pocos días antes y las plazas se agotan · Jingshan con una entrada de pocos yuanes · para Tiananmen puede hacer falta reserva online, conviene comprobarlo antes · el pato laqueado en los locales históricos se reserva para la cena.
 
 ### Día 3 — La Gran Muralla en Jinshanling
-Jornada entera: salida temprano por la mañana y unas 2h30 de trayecto. **Jinshanling** es el tramo restaurado solo en parte más accesible desde Pekín, una decena de kilómetros de muralla a lo largo de una cresta, con torres de vigilancia medio derruidas y hierba entre las piedras.
+Jornada completa: salida temprano y unas 2h30 de traslado. **Jinshanling** es el tramo solo en parte restaurado más accesible desde Pekín, una decena de kilómetros de muralla a lo largo de una cresta, con torres de vigilancia medio derruidas y hierba entre las piedras. Se camina 3-4 horas por escalones irregulares, sin un metro de sombra y sin puntos de avituallamiento: agua, sombrero y calzado con buena suela son obligatorios. A cambio, tras media hora de camino uno se da la vuelta y no hay nadie.
 
-Se camina 3-4 horas por escalones irregulares, sin un metro de sombra y sin puntos donde comer o beber: agua, gorra y zapatos con buena suela son obligatorios. A cambio, tras media hora de camino uno se da la vuelta y no hay nadie.
+*Alternativas si no es posible la jornada completa: **Mutianyu**, restaurado pero bonito, con telesilla para subir y tobogán sobre raíl para bajar, media jornada; **Gubei Water Town y Simatai**, el único tramo que se puede visitar de noche, que sin embargo exige dormir fuera de la ciudad. **Badaling** solo como último recurso: es el más cómodo y el más concurrido del país.* La mejor luz en la cresta es la de la mañana y la de última hora de la tarde; en invierno el viento sobre la muralla es helado y los escalones pueden congelarse, mientras que en verano el calor pesa más que el esfuerzo.
 
-*Alternativas si no es posible dedicar el día entero: **Mutianyu**, restaurado pero bonito, con telesilla para subir y tobogán sobre raíles para bajar, media jornada; **Gubei Water Town y Simatai**, el único tramo visitable de noche, que sin embargo exige pernoctar fuera de la ciudad. **Badaling** solo como último recurso: es el más cómodo y el más concurrido del país.*
+**En la práctica:** para Jinshanling coche con conductor o tour organizado desde Pekín, porque el transporte público es incómodo · entrada de unas decenas de yuanes, teleférico aparte · Gubei Water Town con reserva online y noche en uno de los hoteles del pueblo · en las fiestas chinas todos los tramos cercanos a Pekín se llenan.
 
 ### Día 4 — Templo del Cielo, hutong y Palacio de Verano
-Madrugón y **Templo del Cielo** a la apertura, pero por el parque más que por el templo: allí, cada mañana, cientos de jubilados bailan, cantan en coro, juegan a las cartas y hacen ejercicios con la espada. Es la escena más bonita y menos turística de la ciudad, y a las diez ya ha terminado.
+Madrugón y **Templo del Cielo** a la hora de apertura, más por el parque que por el templo: allí, cada mañana, cientos de jubilados bailan, cantan en coro, juegan a las cartas y hacen ejercicios con la espada. Es la escena más bonita y menos turística de la ciudad, y a las diez ya ha terminado. De camino hacia el norte merece una parada el **Templo de los Lamas** (Yonghegong), el gran monasterio budista tibetano de la ciudad, todavía activo, con el humo del incienso en los patios y el Buda de dieciocho metros tallado en un único tronco de sándalo en el último pabellón.
 
-Por la tarde fuimos al **Palacio de Verano**, junto al lago Kunming, menos monumental que la Ciudad Prohibida y mucho más agradable para pasear. Luego, regreso al centro y última noche por los hutong. Un aviso: los de alrededor de Houhai ya son bares y tiendas; la vida de verdad está en los callejones dos manzanas más allá.
+Por la tarde fuimos al **Palacio de Verano**, en el lago Kunming, menos monumental que la Ciudad Prohibida y mucho más agradable de caminar. El Corredor Largo pintado y la colina de la Longevidad se ven en un par de horas; con más tiempo se cruza el lago en barca. Luego, vuelta al centro y última noche en los hutong. Un aviso: los de alrededor de Houhai ya son bares y tiendas, la vida de verdad está en los callejones dos manzanas más allá.
+
+**En la práctica:** el parque del Templo del Cielo abre muy temprano, los pabellones más tarde, con entrada combinada de unas decenas de yuanes · Templo de los Lamas en las líneas 2 y 5 del metro, parada Yonghegong, entrada de unas decenas de yuanes, ropa discreta y sin fotos dentro de las salas · Palacio de Verano a alrededor de una hora de metro del centro, entradas nominativas con pasaporte.
 
 ### Día 5 — Tren a Xi'an y murallas en bicicleta
-**Alta velocidad Pekín-Xi'an, unas 4h30.** En la estación conviene tener 30-40 minutos de margen: los controles son serios y las estaciones son grandes como aeropuertos.
+**Alta velocidad Pekín-Xi'an, unas 4h30.** En la estación conviene tener 30-40 minutos de margen: los controles son serios y las estaciones son grandes como aeropuertos. Los billetes son nominativos: se compran en la app oficial de los ferrocarriles chinos o en plataformas como Trip.com con el pasaporte, que luego sirve de billete en los tornos. *En las fiestas chinas los trenes se agotan semanas antes: conviene comprar en cuanto abre la venta.*
 
-Al llegar a Xi'an Norte cogimos el metro hasta el centro y nos instalamos dentro de las murallas. A última hora de la tarde, la **vuelta a las murallas Ming en bicicleta**: catorce kilómetros de muralla, lo bastante ancha para pedalear encima, con la ciudad vieja a un lado y los rascacielos al otro. El momento justo es la última hora de luz, cuando se encienden los farolillos rojos de las torres de las puertas.
+Al llegar a Xi'an Norte tomamos el metro hasta el centro y nos instalamos dentro de las murallas. A última hora de la tarde, la **vuelta a las murallas Ming en bicicleta**: catorce kilómetros de muralla, lo bastante ancha para pedalear encima, con la ciudad vieja a un lado y los rascacielos al otro. El momento justo es la última hora de luz, cuando se encienden los farolillos rojos en las torres de las puertas. Cena por etapas en el **Barrio Musulmán**: brochetas de cordero al comino, roujiamo, biang biang noodles. Se come un poco en cada puesto y se sigue, sin sentarse.
 
-Cena por etapas en el **Barrio Musulmán**: brochetas de cordero al comino, roujiamo, fideos biang biang. Se come poco en cada puesto y se sigue, sin sentarse.
+**En la práctica:** estación de Pekín Oeste para Xi'an, comprobar en el billete · a la muralla se sube por una de las puertas principales, entrada y alquiler de bici aparte, la vuelta lleva unas dos horas · el alquiler cierra antes del atardecer: salir con tiempo · en el Barrio Musulmán hay que preguntar los precios antes, y en las tiendas de recuerdos se regatea.
 
 ### Día 6 — Ejército de Terracota
 La mañana la pasamos en el **museo del mausoleo de Qin Shi Huang**, a 40 minutos del centro. La reserva es nominal y está vinculada al pasaporte, y la venta abre apenas 7 días antes: hay que apuntarla en la agenda como una cita.
@@ -66,41 +70,49 @@ Allí hay quien aconseja visitar las fosas en orden inverso (tres, dos, uno), po
 
 La tarde queda libre para la **Gran Pagoda de la Oca Silvestre** o para el **Museo de Historia de Shaanxi** (gratuito, pero con cupos diarios que se agotan en minutos).
 
-### Día 7 — Tren a Shanghái y el Bund
-**Alta velocidad Xi'an-Shanghái, unas 6 horas.** Es el trayecto más largo del viaje y conviene cogerlo por la mañana, para tener la tarde libre.
+**En la práctica:** entrada unos 120 yuanes, reserva nominativa online hasta 7 días antes · autobús 306 desde la plaza este de la estación de tren de Xi'an, alrededor de una hora · un guía o una audioguía en la entrada ayudan a leer las fosas · para la tarde, el Museo de Historia de Shaanxi se reserva en cuanto abre la venta, cerrado los lunes.
 
-Nos instalamos en la antigua Concesión Francesa, la zona más agradable para dormir, y la primera salida fue al **Bund a la hora azul**, cuando se encienden las luces de Pudong y el cielo aún no es negro. El truco que vale más que un crucero turístico es el **ferri público** que cruza el río por unos pocos yuanes: desde la cubierta se ven juntos los edificios coloniales de un lado y los rascacielos del otro.
+### Día 7 — Tren a Shanghái y el Bund
+**Alta velocidad Xi'an-Shanghái, unas 6 horas.** Es el trayecto más largo del viaje y conviene hacerlo por la mañana, para tener la tarde libre. A bordo hay agua caliente gratuita y un carrito con comidas sencillas, pero muchos viajeros llevan tentempiés y fideos instantáneos: conviene hacer lo mismo. *Al llegar, comprobar si el tren para en Shanghái Hongqiao o en otra estación, porque los tiempos de metro hacia el centro cambian.*
+
+Nos instalamos en la antigua Concesión Francesa, la zona más agradable para dormir, y la primera salida fue al **Bund a la hora azul**, cuando se encienden las luces de Pudong y el cielo todavía no está negro. El truco que vale más que un crucero turístico es el **ferry público** que cruza el río por pocos yuanes: desde la cubierta se ven a la vez los edificios coloniales a un lado y los rascacielos al otro. Las luces del Bund y de Pudong se apagan a última hora de la noche, así que conviene ir pronto.
+
+**En la práctica:** de Hongqiao a la Concesión Francesa unos 30-40 minutos de metro · ferry público entre el Bund y Pudong por pocos yuanes, se paga con tarjeta de transporte o código QR · en las noches de fiesta el Bund se llena y los accesos se limitan · los hoteles de la Concesión Francesa conviene reservarlos pronto para el fin de semana.
 
 ### Día 8 — Shanghái: Concesión Francesa, Yuyuan, Pudong
-La mañana a pie por la **antigua Concesión Francesa**, entre plátanos de sombra y casas bajas de ladrillo: es la Shanghái que merece la pena, y solo se descubre caminando.
+Por la mañana a pie por la **antigua Concesión Francesa**, entre plátanos de sombra y casas bajas de ladrillo: es la Shanghái que vale, y solo se descubre caminando. Las callecitas de **Wukang Road** y alrededores, con villas de los años treinta y cafés, se recorren bien en un par de horas, entrando en los longtang, los callejones residenciales cerrados por un portal.
 
-La tarde en el **Jardín Yuyuan** y en el bazar de la ciudad vieja (muy concurrido, mejor temprano o tarde) y luego en un mirador de **Pudong**: la Shanghai Tower o un bar en una azotea, que cuesta lo que un cóctel y tiene la vista frontal.
+Por la tarde, el **Jardín Yuyuan** y el bazar de la ciudad vieja (muy concurrido, mejor temprano o tarde) y luego un mirador en **Pudong**: la Shanghai Tower o un bar en una azotea, que cuesta lo que un cóctel y tiene la vista de frente. Por la noche, los locales de la Concesión Francesa. Cuidado con Nanjing Road: es el lugar donde la estafa del té está más extendida de toda China. *La estafa es siempre la misma: jóvenes simpáticos que proponen una ceremonia del té o un bar, y al final una cuenta de cientos de euros. Basta con declinar con una sonrisa.*
 
-La noche en los locales de la Concesión Francesa. Ojo con la Nanjing Road: es el lugar donde el timo del té está más extendido de toda China.
+**En la práctica:** Yuyuan con entrada aparte para el jardín, el bazar de alrededor es libre · en el bazar y en los mercados se regatea duro, empezando por una fracción del precio pedido · mirador de la Shanghai Tower con entrada de un par de cientos de yuanes, inútil con neblina · el metro de Shanghái es cómodo y se paga con el código QR de Alipay.
 
 ### Día 9 — Suzhou y los jardines clásicos
-Jornada en **Suzhou**, a 25 minutos en alta velocidad desde Shanghái. Hay que hacerla **en día laborable**: los jardines son pequeños y en fin de semana la multitud borra justo aquello para lo que existen.
+Jornada en **Suzhou**, a 25 minutos de alta velocidad de Shanghái. Hay que hacerla **en un día laborable**: los jardines son pequeños y el fin de semana la multitud borra justo aquello para lo que existen. Conviene salir temprano y llegar al primer jardín a la hora de apertura, cuando la luz todavía es baja sobre los estanques y los grupos no han llegado.
 
-Con dos o tres jardines basta y sobra. El **Jardín del Administrador Humilde** es el más famoso y requiere reserva online con pasaporte; el **Jardín del Maestro de las Redes** es el más pequeño, el menos transitado y probablemente el más bello. Son composiciones construidas sobre una regla precisa, que ninguna abertura enmarque dos veces la misma escena, y caminando dentro de ellas se entiende enseguida.
+Dos o tres jardines bastan y sobran. El **Jardín del Administrador Humilde** es el más famoso y requiere reserva online con pasaporte; el **Jardín del Maestro de las Redes** es el más pequeño, el menos visitado y probablemente el más bonito. Son composiciones construidas sobre una regla precisa, que ninguna abertura encuadre dos veces la misma escena, y caminando por dentro se entiende enseguida. Entre un jardín y otro se camina por **Pingjiang Road**, la calle del canal de la ciudad vieja, con las casas blancas y los puentes de piedra.
+
+**En la práctica:** trenes frecuentes desde Shanghái a Suzhou o Suzhou Norte, que se pueden reservar incluso el día antes · entradas de los jardines de unas decenas de yuanes, nominativas con pasaporte · en las fiestas chinas los jardines están llenos y conviene evitarlos · en la ciudad se mueve uno en metro o en taxi por app.
 
 ### Día 10 — Un pueblo de agua
-Una jornada en uno de los pueblos construidos sobre canales alrededor de Shanghái. A **Zhujiajiao** se llega en metro en una hora y es el más cómodo, pero también el más comercial. **Tongli** se combina bien con Suzhou y tiene un jardín de la UNESCO. **Wuzhen** es el más cuidado y el más fotogénico, sobre todo el sector oeste iluminado de noche, pero es un pueblo-museo del que han trasladado a los residentes. **Nanxun** es el menos transitado y el único todavía en parte habitado.
+Una jornada en uno de los pueblos construidos sobre canales alrededor de Shanghái. **Zhujiajiao** se alcanza en metro en una hora y es el más cómodo, pero también el más comercial. **Tongli** se combina bien con Suzhou y tiene un jardín UNESCO. **Wuzhen** es el más cuidado y el más fotogénico, sobre todo el sector oeste iluminado de noche, pero es un pueblo-museo del que se trasladó a los residentes. **Nanxun** es el menos visitado y el único todavía en parte habitado.
 
-*La elección cambia la jornada más de lo que parece: quien solo quiera ver un canal que elija Zhujiajiao y no lo piense más; quien tenga una noche que gastar que duerma en Wuzhen y vea el sector oeste después del atardecer.*
+*La elección cambia la jornada más de lo que parece: quien solo quiera ver un canal, que coja Zhujiajiao y no le dé más vueltas; quien tenga una noche que gastar, que duerma en Wuzhen y vea el sector oeste después del atardecer.* En todos los pueblos las primeras horas de la mañana y las de después de cenar son las más tranquilas, mientras que a mediodía llegan los grupos desde Shanghái. Las barcas de remo de los canales tienen precio fijo expuesto en el embarcadero; en las tiendas de recuerdos, en cambio, se regatea.
+
+**En la práctica:** Zhujiajiao con la línea 17 del metro desde Shanghái, entrada libre al pueblo y entradas para los sitios concretos · Wuzhen y Nanxun en autobús o coche desde Shanghái en hora y media-dos horas · para Wuzhen Oeste entrada de pago, más cara con la visita nocturna · los fines de semana y festivos todos los pueblos están llenos.
 
 ### Día 11 — Hacia Hong Kong
-**Alta velocidad Shanghái-Hong Kong West Kowloon (unas 8 horas)** o vuelo desde Shanghái (2h30). Sobre el papel el tren es fascinante; en la práctica, a esta distancia, el vuelo ahorra media jornada.
+**Alta velocidad Shanghái-Hong Kong West Kowloon (unas 8 horas)** o vuelo desde Shanghái (2h30). Sobre el papel el tren es fascinante; en la práctica, en esta distancia, el vuelo ahorra media jornada. En ambos casos se cruza una **frontera de verdad**, con control de pasaportes a la salida de China continental y a la entrada en Hong Kong. Los italianos entran sin visado durante 90 días.
 
-En ambos casos se cruza una **frontera de verdad**, con control de pasaportes a la salida de la China continental y a la entrada en Hong Kong. Los italianos entran sin visado durante 90 días.
+*En Hong Kong rigen otras reglas que en China continental: las apps y webs occidentales funcionan sin VPN, se paga con la tarjeta Octopus o con tarjeta bancaria, y la moneda es el dólar de Hong Kong.* La primera noche la pasamos en el paseo marítimo de **Tsim Sha Tsui**, con el skyline de la isla enfrente, y hubo una primera probada de los cha chaan teng, las cafeterías locales donde se come cocina híbrida anglo-cantonesa por pocos dólares. A las ocho de la noche el espectáculo de luces en los rascacielos se ve gratis desde el paseo.
 
-La primera noche la pasamos en el paseo marítimo de **Tsim Sha Tsui**, con el skyline de la isla enfrente, y fue el primer contacto con los cha chaan teng, los restaurantes locales donde se come cocina híbrida anglo-cantonesa por unos pocos dólares.
+**En la práctica:** en West Kowloon los controles fronterizos están dentro de la estación, conviene llegar con antelación a la salida · tarjeta Octopus a la venta en el aeropuerto y en las estaciones MTR, vale para metro, tranvía, ferris y tiendas · desde Tsim Sha Tsui el metro y el Star Ferry llevan a la isla en pocos minutos · los hoteles de Hong Kong son caros y pequeños: reservar pronto.
 
 ### Día 12 — Hong Kong: Peak, Star Ferry, mercados
-Subimos a **Victoria Peak**, que solo hay que hacer con el cielo despejado, porque allí arriba lo que cuenta es la vista. El tranvía histórico tiene una cola que a última hora de la tarde supera la hora; el autobús 15, que sube desde la misma zona, sale enseguida y cuesta una fracción. Arriba conviene olvidarse de la plataforma de pago y tomar **Lugard Road**, el sendero llano que rodea la cima: la misma vista, gratis y sin nadie.
+Subimos al **Victoria Peak**, que solo hay que hacer con el cielo despejado, porque allí arriba lo que cuenta es la vista. El tranvía histórico tiene una cola que a última hora de la tarde supera la hora; el autobús 15, que sube desde la misma zona, sale enseguida y cuesta una fracción. Arriba conviene olvidarse de la plataforma de pago y tomar **Lugard Road**, el sendero llano que rodea la cima: la misma vista, gratis y sin nadie.
 
-La tarde entre **Sheung Wan** y las escaleras mecánicas al aire libre más largas del mundo, la noche en los mercados de **Mong Kok**, del de las flores a Temple Street.
+La tarde entre **Sheung Wan** y las escaleras mecánicas al aire libre más largas del mundo, la noche en los mercados de **Mong Kok**, del de las flores a Temple Street. Sheung Wan es el barrio de las tiendas de hierbas secas y setas, de templos de barrio como el de Man Mo y de calles empinadas. *En los mercados de Mong Kok y de Temple Street se regatea duro: el primer precio casi siempre es alto, y uno puede irse sin apuro.* En algún momento del día, además, la travesía del puerto en el **Star Ferry**: diez minutos, menos de medio euro, y la mejor vista de la ciudad.
 
-En algún momento del día, además, la travesía del puerto en el **Star Ferry**: diez minutos, menos de medio euro, y la mejor vista de la ciudad.
+**En la práctica:** autobús 15 al Peak desde Central Exchange Square, se paga con la Octopus · Peak Tram con entradas online y subida más rápida por la mañana · Star Ferry entre Central y Tsim Sha Tsui con salidas frecuentes hasta tarde · el Temple Street Night Market se anima después de las 19.
 
 ### Día 13 — Macao en el día
 Para llegar está el **ferri rápido desde Hong Kong (aproximadamente una hora)** o el autobús por el puente Hong Kong-Zhuhai-Macao, el puente marítimo más largo del mundo. Nuevo control de pasaportes en ambas direcciones.
@@ -113,15 +125,21 @@ La tarde en la franja del **Cotai**, con los autobuses lanzadera gratuitos de lo
 
 Por la noche volvimos a Hong Kong.
 
+**En la práctica:** ferris rápidos desde Hong Kong (Sheung Wan o Kowloon) a Macao con salidas frecuentes, o autobuses lanzadera por el puente desde la terminal cerca del aeropuerto · pasaporte para los dos controles, los italianos no necesitan visado · en Macao se paga en patacas, pero los dólares de Hong Kong se aceptan casi en todas partes · para la vuelta por la noche conviene comprar el billete de regreso al llegar.
+
 ### Día 14 — Lantau y la Hong Kong que no te esperas
-La mañana en la isla de **Lantau**: teleférico panorámico de Ngong Ping, Gran Buda y el pueblo de pescadores sobre palafitos de **Tai O**.
+Por la mañana en la isla de **Lantau**: teleférico panorámico de Ngong Ping, Gran Buda y el pueblo de pescadores sobre palafitos de **Tai O**. El teleférico sobrevuela la bahía y las colinas durante unos veinticinco minutos; al Gran Buda se sube por una escalinata de más de doscientos escalones, y al lado está el monasterio de Po Lin. De Ngong Ping a Tai O se baja en autobús en una veintena de minutos. *Con viento fuerte o tormentas el teleférico se para: en ese caso se sube en autobús desde Tung Chung.*
 
-Como alternativa, para quien prefiera caminar, está el **Dragon's Back**: un sendero panorámico sobre la costa sur, a media hora entre metro y autobús del distrito financiero, con el mar debajo y ningún edificio a la vista. Es la mitad de Hong Kong que nadie pone en el programa.
+Como alternativa, para quien prefiera caminar, está el **Dragon's Back**: un sendero panorámico sobre la costa sur, a media hora entre metro y autobús del centro financiero, con el mar debajo y ningún edificio a la vista. Es la mitad de Hong Kong que nadie pone en el programa. El sendero lleva un par de horas y termina en Big Wave Bay o en Shek O, donde se puede uno bañar antes de volver. Última cena con **oca asada** cantonesa, de lo mejor que comimos en todo el viaje.
 
-Última cena con el **ganso asado** cantonés, entre lo mejor que comimos en todo el viaje.
+**En la práctica:** Lantau en metro hasta Tung Chung, luego teleférico con entradas online, cola más corta a primera hora · la cabina con suelo de cristal cuesta más · Dragon's Back desde el metro de Shau Kei Wan con el autobús 9, calzado de trekking y agua · en verano salir temprano, antes del calor húmedo.
 
 ### Día 15 — Salida
-Airport Express desde Hong Kong Central hasta el aeropuerto en 24 minutos. Quien tenga el vuelo por la tarde tiene tiempo para un último dim sum y una última travesía en el Star Ferry.
+Airport Express de Hong Kong Central al aeropuerto en 24 minutos. Quien tiene el vuelo por la tarde tiene tiempo para un último dim sum y una última travesía en Star Ferry. El dim sum se come sobre todo en el desayuno y la comida, y en las casas de té más populares se hace cola desde la apertura: conviene llegar pronto.
+
+Muchas compañías permiten el check-in en la ciudad, en la estación del Airport Express de Hong Kong, entregando allí el equipaje: se pasea libre hasta el último momento y se va al aeropuerto solo con la mochila. *El servicio no vale para todas las compañías y cierra algunas horas antes del vuelo: conviene comprobarlo con antelación.*
+
+**En la práctica:** Airport Express desde Hong Kong Station o Kowloon, billete más barato de ida y vuelta o con la Octopus · check-in en la ciudad en la estación para muchas compañías · para los vuelos intercontinentales llegar al aeropuerto al menos dos-tres horas antes · el saldo restante de la Octopus se puede reembolsar en los mostradores MTR.
 
 ## Qué ver / qué hacer
 - **El tramo de Muralla adecuado.** Jinshanling con una jornada completa y piernas en forma, Mutianyu con media jornada, Gubei/Simatai para la versión nocturna. Badaling solo si no hay alternativa.

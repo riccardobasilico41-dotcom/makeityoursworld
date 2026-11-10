@@ -43,6 +43,8 @@ A última hora de la tarde llegamos al **Cuadrilátero Romano**, la parte más a
 
 El aperitivo lo hicimos en el Cuadrilátero, la zona donde por la noche se sale.
 
+**En la práctica:** Museo Egipcio abierto el lunes de 9 a 14 y de martes a domingo de 9 a 18.30, entrada online recomendada porque en taquilla solo se vende lo que queda · Museos Reales cerrados el miércoles, entrada completa unos 15 € · Palazzo Madama cerrado el martes · Porta Palazzo, mejor por la mañana y más grande el sábado · la Torino+Piemonte Card compensa si se visitan varios museos.
+
 ### Día 2 — La Mole, el río y la colina
 Por la mañana fuimos a la **Mole Antonelliana**, el símbolo de la ciudad, nacida para un fin muy distinto: **se empezó en 1863 como sinagoga** para la comunidad judía turinesa, recién emancipada, y el arquitecto Antonelli la hizo crecer mucho más allá del proyecto y del presupuesto hasta que la comunidad la abandonó y la cedió al Ayuntamiento. Es **uno de los edificios de mampostería más altos jamás construidos**.
 
@@ -57,6 +59,8 @@ Por la tarde, dos posibilidades.
 **Opción B: el siglo XX industrial.** El **Museo Nacional del Automóvil** cuenta el coche como historia social y no como galería de modelos, y es de los mejores del mundo en su género. Luego el **Lingotto**: la antigua fábrica con **la pista de pruebas en el tejado**, donde los coches recién ensamblados salían de la cadena y subían a rodar en altura, y la **Pinacoteca Agnelli** en la estructura suspendida sobre el tejado: una colección pequeña y de calidad altísima, con la pista que le da la vuelta y se recorre a pie.
 
 La última noche la cerramos con un aperitivo turinés hecho como se debe y una cena piamontesa.
+
+**En la práctica:** Museo del Cine y ascensor panorámico cerrados el martes, ascensor a horas fijas que se reserva online, sobre todo los fines de semana · tranvía Sassi-Superga con salidas aproximadamente cada hora y un día de cierre semanal, normalmente el miércoles: comprobar en la web de GTT · Museo del Automóvil y Lingotto en metro hasta la parada Lingotto · reservar la cena piamontesa el sábado por la noche.
 
 ## Si se tiene un tercer día
 - **Reggia di Venaria Reale:** fuera de la ciudad, accesible en autobús o lanzadera. Es un complejo enorme, restaurado tras décadas de abandono como cuartel, con la **Galería Grande de Juvarra** (una nave de luz de ochenta metros de largo) y los jardines. **Hace falta media jornada entera**, y no se hace bien con prisas.

@@ -40,6 +40,8 @@ El primer paseo lo hicimos por el eje de los **Quattro Canti**, el cruce barroco
 
 La primera noche fue de **comida callejera**: **panelle** de harina de garbanzo, **crocchè**, **sfincione**, y **pane ca meusa** para quien se atreva, un bocadillo de bazo y pulmón de ternera, hervido y luego pasado por manteca, «schietto» con limón o «maritato» con ricotta y caciocavallo. Es la comida de calle más antigua de la ciudad y no tiene medias tintas.
 
+**En la práctica:** del aeropuerto al centro de Palermo unos 45 minutos entre lanzadera, tren o coche · coche en un garaje o aparcamiento vigilado los primeros días · ZTL activa en el centro histórico · comida callejera por la noche en los mercados históricos, en efectivo.
+
 ### Día 2 — Palermo árabe-normanda
 Es la jornada que explica Sicilia mejor que ninguna otra.
 
@@ -51,6 +53,8 @@ Luego **San Giovanni degli Eremiti** con las **cinco cúpulas rojas** y el claus
 
 Por la tarde estuvimos en los **oratorios de Serpotta**, pequeños recintos de cofradía revestidos por completo de **estucos blancos** (figuras alegóricas, angelotes, teatrillos), de una virtuosidad que hay que ver de cerca. Están en callejuelas laterales y casi siempre vacíos.
 
+**En la práctica:** en la Capilla Palatina el recorrido cambia el viernes, el sábado y el domingo, hay que comprobarlo antes · entradas separadas para el Palacio de los Normandos, la Catedral (tumbas y tejados), San Giovanni degli Eremiti y la Martorana · hombros y rodillas cubiertos en las iglesias · todo a pie.
+
 ### Día 3 — Los mercados, las Catacumbas, Palazzo Abatellis
 La mañana la pasamos en uno de los **mercados históricos**, **Ballarò**, el **Capo** o la **Vucciria**, que son el legado más visible de los siglos árabes: la planta de zoco, la **abbanniata** (el grito de los vendedores, que es una forma de canto), los puestos de cocina en medio de la calle. Ballarò es el más vivo y el menos domesticado.
 
@@ -60,12 +64,16 @@ Por la tarde fuimos a **Palazzo Abatellis**, la galería regional. Está el **Tr
 
 Por la noche, el **Teatro Massimo**, si hay función: es **el mayor teatro lírico de Italia** y se visita también de día.
 
+**En la práctica:** mercados históricos en su mejor momento por la mañana · Catacumbas con entrada, no se permiten fotos · horarios del Palazzo Abatellis y del Teatro Massimo a comprobar en las webs oficiales, el teatro se ve con visita guiada · en los mercados, ojo con la cartera.
+
 ### Día 4 — Monreale y Cefalù
 Por la mañana subimos a **Monreale**, a pocos kilómetros sobre Palermo. La **Catedral** tiene **unos seis mil metros cuadrados de mosaicos sobre fondo de oro** que cubren por entero las paredes, con un **Cristo Pantocrátor** en el ábside cuya mano, por sí sola, es tan alta como una persona. Es el ciclo musivo medieval más extenso de Italia. El **claustro** de al lado tiene **228 columnillas pareadas**, cada una con capitel y decoración distintos, en un patio cuadrado con una fuente árabe en la esquina. Hay que dar tiempo a ambos.
 
 Por la tarde fuimos a **Cefalù**, en la costa norte, una hora escasa de autopista. Hay otra **catedral normanda** con otro **Pantocrátor**, más antiguo que el de Monreale y, para muchos, más bello; un casco antiguo encajado entre la montaña y el mar; el **lavadero medieval** donde el agua sigue corriendo; y la **Rocca**, que se sube en una hora por la vista.
 
 Luego se vuelve a Palermo o, para quien prefiera, se pasa la primera noche desplazándose ya hacia el oeste.
+
+**En la práctica:** Monreale a media hora en coche de Palermo, también en autobús · el claustro tiene entrada aparte respecto al Duomo · Cefalù a menos de una hora de autopista, aparcamiento fuera del centro histórico · la Rocca es una hora de subida, con agua y calzado cerrado.
 
 ### Día 5 — Segesta, Erice y Trapani
 Dejamos Palermo y fuimos hacia el oeste.
@@ -76,6 +84,8 @@ Luego subimos a **Erice**, pueblo medieval a **unos 750 metros** en un monte col
 
 Noche en **Trapani** o alrededores.
 
+**En la práctica:** Segesta con entrada, lanzadera de pago hasta el teatro · Erice en coche o en teleférico desde Trapani, que se para con viento fuerte · un jersey incluso en verano por la niebla de Erice · noche en Trapani o alrededores.
+
 ### Día 6 — Las salinas, Mozia y Marsala
 Es la jornada más extraña del itinerario, y una de las más bellas.
 
@@ -84,6 +94,8 @@ Las **salinas entre Trapani y Marsala** son balsas poco profundas separadas por 
 En medio de la laguna está **Mozia**, una isla pequeña y plana en la que los **fenicios** fundaron una colonia en el siglo VIII a. C. Llegamos con un breve trayecto en barca, y la isla se recorre a pie en un par de horas: están las murallas, el **cothon** (una dársena artificial), el **tofet** y, en el museo, el **Efebo de Mozia**, una estatua griega de mármol de un joven con una túnica plisada ceñida, de una calidad que en la Sicilia occidental no se espera. Hay también, bajo pocos centímetros de agua, una **calzada sumergida** que unía la isla con tierra firme y por la que en ciertas condiciones todavía se puede caminar.
 
 Por la tarde fuimos a **Marsala**, que da nombre al vino. Fue un comerciante inglés, a finales del siglo XVIII, quien comprendió que el vino local fortificado aguantaba los viajes por mar, y de ahí nació una industria. **Las bodegas históricas se visitan con cita previa.** En Marsala desembarcaron también **los Mil de Garibaldi**, en 1860.
+
+**En la práctica:** salinas al atardecer · barca a Mozia desde el embarcadero del Stagnone, pocos minutos, con la entrada al museo aparte · un par de horas para la isla · bodegas de Marsala solo con cita.
 
 ### Día 7 — Zingaro, Scopello y San Vito Lo Capo
 Jornada de costa y de caminata.
@@ -94,6 +106,8 @@ En la entrada sur está **Scopello**, con el **baglio** y la **almadraba** asoma
 
 Por la tarde llegamos a **San Vito Lo Capo**, con la playa de arena clara bajo el Monte Monaco y el **cuscús**, que aquí es de pescado, se cuece al vapor en la **cuscusera** y viene de la tradición norteafricana pasada por los pescadores. **En septiembre hay un festival dedicado** que llena el pueblo.
 
+**En la práctica:** Zingaro con entrada, acceso norte desde San Vito y sur desde Scopello · recorrido completo unas cuatro horas ida y vuelta · agua y comida encima, calzado de sendero · en verano se sale al amanecer · en San Vito cuscús de pescado, festival en septiembre.
+
 ### Día 8 — Selinunte y las Canteras de Cusa
 Bajamos por la costa meridional.
 
@@ -102,6 +116,8 @@ Bajamos por la costa meridional.
 A pocos kilómetros están las **Canteras de Cusa**, que casi nadie visita y que son lo más impresionante de la zona. Es la cantera de la que salían los bloques de Selinunte, y **cuando los cartagineses destruyeron la ciudad en el 409 a. C. el trabajo se detuvo de golpe**. Quedaron en el sitio **los tambores de columna a medio extraer**, todavía pegados a la roca madre, con el surco circular excavado alrededor, y otros ya separados y listos para el transporte. Están ahí desde hace dos mil cuatrocientos años, exactamente como los dejaron.
 
 Noche hacia **Agrigento** o **Sciacca**.
+
+**En la práctica:** Selinunte medio día, distancias internas largas entre la acrópolis y la colina oriental · entrar a la apertura, sin sombra · Cave di Cusa a pocos kilómetros, horario reducido a comprobar · noche hacia Agrigento o Sciacca.
 
 ### Día 9 — Agrigento y el Valle de los Templos
 El **Valle de los Templos** es la razón por la que Sicilia está en la lista de medio mundo. Es una cresta larga con una fila de templos dóricos del siglo V a. C., no un valle: el nombre es un error de traducción decimonónico.
@@ -112,6 +128,8 @@ El **Valle de los Templos** es la razón por la que Sicilia está en la lista de
 
 Que no se salten: el **Museo Arqueológico**, con el telamón recompuesto, y el **Jardín de la Kolymbethra**, un jardín de agrios dentro del área arqueológica (en origen una gran balsa de captación de agua de época griega), **gestionado por el FAI**, en el que casi no entra nadie y donde se camina a la sombra entre los agrios con los templos sobre la cabeza.
 
+**En la práctica:** Valle de los Templos con entrada combinada con el Museo Arqueológico · en verano aperturas nocturnas, a comprobar · Kolymbethra del FAI con entrada aparte · dos accesos con aparcamiento en los dos extremos de la cresta · agua y sombrero.
+
 ### Día 10 — La Scala dei Turchi y el interior
 Por la mañana fuimos a la **Scala dei Turchi**, el acantilado de **marga blanca** que baja en escalones hasta el mar, **con la advertencia de que el acceso se ha regulado y en ciertos periodos se ha prohibido por completo** por la erosión y por actos vandálicos: **conviene comprobar su estado antes de ir**, y respetarlo.
 
@@ -121,12 +139,16 @@ Luego subimos hacia el interior, la parte que casi todos se saltan y que cambia 
 
 Si queda tiempo, **Caltagirone** con la escalinata de **142 peldaños de cerámica** pintada, cada uno distinto, o **Enna**, en el centro geográfico exacto de Sicilia, a 900 metros, desde donde en los días despejados se ve el Etna.
 
+**En la práctica:** acceso a la Scala dei Turchi a comprobar antes de salir · de Agrigento a Piazza Armerina unas dos horas en coche · Villa Romana del Casale con entrada, mejor por la mañana · Caltagirone o Enna solo si queda luz.
+
 ### Día 11 — Ragusa Ibla y la llegada al barroco
 Entramos en el **Val di Noto**, patrimonio UNESCO: **ocho ciudades reconstruidas tras el terremoto de 1693**, todas en el mismo estilo y en el mismo momento, un caso único de planificación urbana barroca a escala regional.
 
 **Ragusa** es la puerta de entrada correcta, porque tiene una particularidad: **fue reconstruida dos veces**. Una parte de la población rehízo la ciudad sobre el mismo espolón de roca, y es **Ibla**, un laberinto de callejuelas y escalinatas; otra parte la rehízo en una meseta cercana, con criterios más modernos, y es **Ragusa superior**. Se baja de una a otra por escalinatas larguísimas, con el panorama que se abre.
 
 **Ibla** al atardecer, con la **Catedral de San Jorge** en lo alto de la escalinata y el **Jardín Ibleo** al fondo del espolón, es la pieza más bella del barroco siciliano.
+
+**En la práctica:** ZTL en Ragusa Ibla, se aparca fuera y se baja a pie · calzado cómodo para las escalinatas entre Ragusa superior e Ibla · Ibla al atardecer · para dormir, Ibla o el campo de alrededor.
 
 ### Día 12 — Módica, Scicli y Noto
 Es la jornada de las otras tres, todas a veinte kilómetros una de otra, para hacer sin prisa.
@@ -137,6 +159,8 @@ Es la jornada de las otras tres, todas a veinte kilómetros una de otra, para ha
 
 **Noto** es la más escenográfica, construida toda en **piedra caliza local que al atardecer se vuelve dorada**: el corso es una sucesión continua de iglesias y palacios con los balcones sostenidos por ménsulas esculpidas con monstruos y caballos. **Es la ciudad más fotografiada del barroco siciliano y hay que verla a la hora adecuada.**
 
+**En la práctica:** una veintena de kilómetros entre una ciudad y otra · ZTL en Módica y Noto, aparcamientos de pago en los márgenes del centro · chocolate de Módica en las tiendas históricas, con degustación · Noto con la última luz del día.
+
 ### Día 13 — Vendicari y llegada a Siracusa
 Por la mañana estuvimos en la **Reserva de Vendicari**, una de las zonas costeras mejor conservadas de Sicilia: las **salinas**, la **almadraba abandonada** con la chimenea en la playa, los humedales y las playas de arena. **En primavera y en otoño hay flamencos**, y la reserva es un punto de parada en la ruta migratoria entre Europa y África. Un poco más al sur está la playa de **Calamosche**, en una bahía cerrada entre dos promontorios, a la que solo se llega a pie.
 
@@ -144,12 +168,16 @@ Por la tarde nos trasladamos a **Siracusa** y nos instalamos en **Ortigia**, la 
 
 Por la noche, el **mercado de Ortigia** y la cena con los **erizos**, que aquí son la especialidad.
 
+**En la práctica:** Vendicari con varios accesos y senderos entre playas y salinas · Calamosche solo a pie, unos veinte minutos desde el aparcamiento · prismáticos para los flamencos · en Ortigia ZTL, coche en un aparcamiento disuasorio y luego a pie · erizos a buscar en temporada.
+
 ### Día 14 — Siracusa
 **Siracusa fue, durante un largo periodo, la ciudad más poderosa del mundo griego**, más grande que Atenas, y el **Parque arqueológico de la Neapolis** conserva sus huellas: el **teatro griego** excavado en la roca viva; la **Oreja de Dionisio**, una cavidad artificial de veintitrés metros de altura con una acústica extraordinaria, a la que Caravaggio dio nombre diciendo que se parecía a un pabellón auditivo; y el **Ara de Hierón**, el mayor altar de la Antigüedad.
 
 Luego recorrimos **Ortigia** a pie. La **Catedral** es el edificio más extraordinario de la ciudad porque es un **templo dórico del siglo V a. C. transformado en iglesia**: **las columnas griegas siguen ahí, englobadas en los muros**, y se tocan con la mano al entrar en una iglesia barroca. Luego la **Fuente Aretusa**, un manantial de agua dulce a dos metros del mar con el **papiro** que crece espontáneo, y el **Castillo Maniace** en la punta.
 
 Quien tenga tiempo puede añadir el **Museo Paolo Orsi**, uno de los museos arqueológicos más importantes de Italia, y la iglesia de **Santa Lucia alla Badia** con el **Entierro de Santa Lucía** de **Caravaggio**, pintado durante su huida de Malta.
+
+**En la práctica:** Neápolis con entrada, combinada con el Museo Paolo Orsi · de la Neápolis a Ortigia una media hora a pie o pocos minutos en coche · Duomo con entrada · el Caravaggio de Santa Lucia alla Badia está en la piazza Duomo · Neápolis a primera hora, en verano no hay sombra.
 
 ### Día 15 — El Etna
 Nos desplazamos hacia el volcán, para la jornada por la que se viene al este.
@@ -160,6 +188,8 @@ Nos desplazamos hacia el volcán, para la jornada por la que se viene al este.
 
 Por la tarde están los **cráteres Silvestri** a cota baja, gratuitos y accesibles en coche, o una **bodega del Etna con cita previa**. Las vides aquí suelen ser **de pie franco**, porque en el suelo de lava la **filoxera** nunca llegó, y hay cepas de más de cien años. En veinte años el Etna se ha convertido en uno de los territorios vinícolas más interesantes de Europa, y vale la pena entender el motivo sobre el terreno.
 
+**En la práctica:** boletín del INGV la noche antes · teleférico desde el Rifugio Sapienza, luego todoterreno y guía, a reservar · botas de trekking, cortavientos, capas · cráteres Silvestri gratuitos · bodegas del Etna solo con cita.
+
 ### Día 16 — Taormina y las Gargantas del Alcántara
 Llegamos a **Taormina** por la mañana temprano, antes de los autocares. El **teatro greco-romano** asomado al Etna y al mar es uno de los escenarios más espectaculares del Mediterráneo, y que los griegos lo orientaran así no es casualidad. En temporada alta el pueblo está saturado y tiene precios de otra región; a media mañana ya es ingobernable.
 
@@ -167,12 +197,16 @@ La tarde la pasamos en las **Gargantas del Alcántara**, el cañón de **basalto
 
 Última noche en **Catania** o en la vertiente del Etna.
 
+**En la práctica:** Taormina tiene ZTL, coche en los aparcamientos públicos bajo el pueblo y luego lanzadera o escaleras · teatro a la apertura · Gargantas del Alcantara con accesos distintos, algunos de pago, y calzado de agua · última noche en Catania o en el Etna.
+
 ### Día 17 — Catania y salida
 La última mañana la pasamos en **Catania**, que divide: es viva, caótica, construida toda en **piedra lávica negra** tras el terremoto de 1693, y menos bella que Palermo. Hay que tomarla por lo que es.
 
 Está el **mercado de la Pescheria**, en una plaza detrás de la Catedral, uno de los mercados de pescado más teatrales de Italia; la **Via dei Crociferi** con las iglesias barrocas en fila; y la **Piazza del Duomo** con el elefante de piedra lávica.
 
 Última granita con brioche, últimas compras (**pistacho de Bronte**, chocolate de Módica, alcaparras, vino del Etna, sal de las salinas de Trapani) y vuelo desde Catania.
+
+**En la práctica:** Pescheria solo por la mañana, cerrada el domingo · centro de Catania todo a pie, el coche fuera de la ZTL · aeropuerto a unos veinte minutos del centro · devolución del coche one-way con margen antes del vuelo.
 
 ## Cómo acortarlo
 - **En 10 días se hace una mitad**, y es el consejo que vale para la mayoría de la gente: la **oriental** (Etna, Siracusa, Val di Noto, Agrigento) es la elección correcta la primera vez, y tiene un itinerario dedicado en el sitio.
