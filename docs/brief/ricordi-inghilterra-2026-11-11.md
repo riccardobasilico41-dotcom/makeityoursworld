@@ -1,0 +1,6 @@
+# Ricordi di Rick sull'Inghilterra (11 novembre 2026, testo originale)
+
+per l'inghilterra puoi aggiungere anche il nord? Manchester e liverpool in un weekend lungo con esperienza premier league, e possibile estensione in lake e peak districti per gli amanti della natura - considera che mio fratello ha vissuto li 4 anni, quindi sono andato tantissime volte a visitare quelle zone
+Stessa cosa per l'inghilterra del sud per le 7 sister cliff e brighton che sono fattibli in giornata o in weekend da londra - brighton è molto bella ma durante il weekend diventa una sorta di sstag party a cielo aperto con molti booze and bar hopping quindi la gente ci da dentro, però è comunque molto bella - le 7 sisteser invece natura e se becchi la giornata bella sono incredibili, mentre ssse piove o c'è vento potrebbe non essere cosi piacevole. per manchester a me piace perchè si respira ancora un'aria di inghilterra piu autentica risspetto a londra, che ormai è una città cosmopolita a tutti gli effetti - sstesssa cosa per livepool dove c'è ancora piu aria di "operai" in senso buono, con i fabbricati in mattoni rossi ecc
+
+Altri fatti già noti: Rick ha fatto l'università nel Surrey e ha vissuto un anno lavorando nel centro di Londra; guida a sinistra ok per lui ma serve allenamento, strade di campagna strette.
