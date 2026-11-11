@@ -259,6 +259,8 @@ import { destinazioniIrlandaDelNord } from '@/content/destinazioni/irlanda-del-n
 import { londraCotswoldsMeta } from '@/content/viaggi-dati/londra-cotswolds'
 import { scoziaHighlandsDistillerieMeta } from '@/content/viaggi-dati/scozia-highlands-distillerie'
 import { irlandaDueIrlandeMeta } from '@/content/viaggi-dati/irlanda-due-irlande'
+import { manchesterLiverpoolPremierLeagueMeta } from '@/content/viaggi-dati/manchester-liverpool-premier-league'
+import { brightonSevenSistersMeta } from '@/content/viaggi-dati/brighton-seven-sisters'
 
 // Registro dei Paesi disponibili. Aggiungere un nuovo Paese = aggiungere una
 // riga qui più i relativi file in src/content/{paesi,destinazioni,esperienze}.
@@ -362,6 +364,8 @@ const TRIP_META: TripMeta[] = [
   londraCotswoldsMeta,
   scoziaHighlandsDistillerieMeta,
   irlandaDueIrlandeMeta,
+  manchesterLiverpoolPremierLeagueMeta,
+  brightonSevenSistersMeta,
 ]
 
 // Le schede dati dei viaggi contengono appunti di lavoro ("(da confermare quale)",

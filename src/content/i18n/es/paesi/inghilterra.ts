@@ -6,9 +6,9 @@ export const inghilterra: Paese = {
   continente: 'Europa',
   tipo: 'regione',
   stato: 'Reino Unido',
-  titolo: 'Inglaterra: Londres, Oxford, los Cotswolds y Bath',
+  titolo: 'Inglaterra: Londres, los Cotswolds, el norte de Manchester y Liverpool, Brighton',
   descrizione:
-    'Londres con sus museos gratuitos, el Támesis y los barrios a pie, y luego el campo inglés: los pueblos de piedra dorada de los Cotswolds, los colleges de Oxford y las termas romanas de Bath. Un viaje fácil en tren, con el coche solo para los pueblos.',
+    'Londres con sus museos gratuitos, el Támesis y los barrios a pie, y luego el campo inglés: los pueblos de piedra dorada de los Cotswolds, los colleges de Oxford y las termas romanas de Bath. En el norte, Manchester y Liverpool, con la Premier League, y los parques del Peak District y del Lake District; en el sur, Richmond Park, Brighton y los acantilados de las Seven Sisters. Un país fácil en tren, con el coche solo para los pueblos y los parques.',
   periodoMigliore: 'de mayo a septiembre por los días largos; abril y octubre son más tranquilos',
   durataConsigliata: '7-8 días',
   budgetIndicativo: 'alto: Londres es una de las ciudades más caras de Europa para dormir',

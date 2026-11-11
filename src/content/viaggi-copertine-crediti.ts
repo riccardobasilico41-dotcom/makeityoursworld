@@ -348,6 +348,8 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
   },
   'londra-cotswolds': { autore: 'Saffron Blaze (Wikimedia Commons)', licenza: 'CC BY-SA 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Arlington_Row_Bibury.jpg' },
   'scozia-highlands-distillerie': { autore: 'Eric Kilby (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct_-_Jacobite_Express.jpg' },
+  'manchester-liverpool-premier-league': { autore: 'Michael Garlick (geograph.org.uk, via Wikimedia Commons)', licenza: 'CC BY-SA 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Scenes_from_the_Mersey_Ferry_crossing_24,_The_Three_Graces_and_Museum_of_Liverpool_-_geograph.org.uk_-_7769485.jpg' },
+  'brighton-seven-sisters': { autore: 'Ian Hawfinch (geograph.org.uk, via Wikimedia Commons)', licenza: 'CC BY-SA 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coastguard_Cottages_-_view_towards_the_Seven_Sisters_-_geograph.org.uk_-_6833312.jpg' },
   'irlanda-due-irlande': {
     autore: 'Diliff (Wikimedia Commons)',
     licenza: 'CC BY-SA 3.0',

@@ -56,6 +56,8 @@ const ABBINAMENTI: Record<string, string> = {
   'londra-cotswolds': 'scozia-highlands-distillerie',
   'scozia-highlands-distillerie': 'irlanda-due-irlande',
   'irlanda-due-irlande': 'scozia-highlands-distillerie',
+  'manchester-liverpool-premier-league': 'londra-cotswolds',
+  'brighton-seven-sisters': 'londra-cotswolds',
 }
 
 const T = {

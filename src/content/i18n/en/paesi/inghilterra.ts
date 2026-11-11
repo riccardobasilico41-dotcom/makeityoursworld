@@ -6,9 +6,9 @@ export const inghilterra: Paese = {
   continente: 'Europa',
   tipo: 'regione',
   stato: 'United Kingdom',
-  titolo: 'England: London, Oxford, the Cotswolds and Bath',
+  titolo: 'England: London, the Cotswolds, Manchester and Liverpool in the north, Brighton',
   descrizione:
-    'London with its free museums, the Thames and neighbourhoods to explore on foot, then the English countryside: the golden stone villages of the Cotswolds, the colleges of Oxford and the Roman baths of Bath. An easy trip by train, with the car only for the villages.',
+    'London with its free museums, the Thames and neighbourhoods to explore on foot, then the English countryside: the golden stone villages of the Cotswolds, the colleges of Oxford and the Roman baths of Bath. In the north, Manchester and Liverpool, with the Premier League, and the Peak District and Lake District national parks; in the south, Richmond Park, Brighton and the Seven Sisters cliffs. An easy country by train, with the car only for the villages and the parks.',
   periodoMigliore: 'May to September for the long days; April and October are quieter',
   durataConsigliata: '7-8 days',
   budgetIndicativo: 'high: London is among the most expensive cities in Europe to sleep in',

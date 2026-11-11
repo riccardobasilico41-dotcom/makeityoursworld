@@ -362,6 +362,14 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/scozia-highlands-distillerie.webp',
     imageAlt: "Il treno a vapore Jacobite sul viadotto di Glenfinnan, tra le colline delle Highlands in autunno",
   },
+  'manchester-liverpool-premier-league': {
+    immagine: '/images/copertine/manchester-liverpool-premier-league.jpg',
+    imageAlt: "Il waterfront di Liverpool dal Mersey: il Royal Liver Building, il Cunard Building e il Museum of Liverpool",
+  },
+  'brighton-seven-sisters': {
+    immagine: '/images/copertine/brighton-seven-sisters.jpg',
+    imageAlt: "Le casette dei guardacoste di Seaford Head davanti alle scogliere bianche delle Seven Sisters",
+  },
   'irlanda-due-irlande': {
     immagine: '/images/copertine/irlanda-due-irlande.webp',
     imageAlt: "Il ponte di corda di Carrick-a-Rede e l'isolotto sulla costa di Antrim, Irlanda del Nord",

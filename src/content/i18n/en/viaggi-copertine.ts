@@ -341,6 +341,14 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/scozia-highlands-distillerie.webp',
     imageAlt: "The Jacobite steam train on the Glenfinnan Viaduct, among the autumn hills of the Highlands",
   },
+  'manchester-liverpool-premier-league': {
+    immagine: '/images/copertine/manchester-liverpool-premier-league.jpg',
+    imageAlt: "Liverpool's waterfront from the Mersey: the Royal Liver Building, the Cunard Building and the Museum of Liverpool",
+  },
+  'brighton-seven-sisters': {
+    immagine: '/images/copertine/brighton-seven-sisters.jpg',
+    imageAlt: "The Seaford Head coastguard cottages in front of the white cliffs of the Seven Sisters",
+  },
   'irlanda-due-irlande': {
     immagine: '/images/copertine/irlanda-due-irlande.webp',
     imageAlt: "The Carrick-a-Rede rope bridge and its island on the Antrim coast, Northern Ireland",

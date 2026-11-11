@@ -934,6 +934,24 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Per entrare nell'Irlanda del Nord la carta d'identità non basta: servono passaporto ed ETA britannica, anche arrivando in auto da Dublino.",
     editorialHookType: 'before-you-go',
   },
+  'manchester-liverpool-premier-league': {
+    seoTitle: "Manchester e Liverpool in un weekend lungo con la Premier League",
+    seoDescription:
+      "Quattro giorni in treno tra Manchester e Liverpool: biglietti delle partite dai canali ufficiali, tour di Old Trafford e Anfield, poi Peak e Lake District.",
+    socialTitle: "Manchester, Liverpool e una partita di Premier League: come prendere i biglietti senza rischi",
+    editorialHook:
+      "Nel Regno Unito rivendere biglietti di calcio senza l'autorizzazione del club è un reato: i posti si prendono con la membership, la ticket exchange ufficiale o l'hospitality.",
+    editorialHookType: 'before-you-go',
+  },
+  'brighton-seven-sisters': {
+    seoTitle: "Brighton, Seven Sisters, Kingston e Richmond Park da Londra",
+    seoDescription:
+      "Tre giorni a sud di Londra in treno: il Tamigi a Kingston e Richmond Park con i cervi, poi Brighton e le scogliere bianche delle Seven Sisters a piedi.",
+    socialTitle: "A sud di Londra: Richmond Park, Brighton e le scogliere delle Seven Sisters",
+    editorialHook:
+      "Le Seven Sisters vanno scelte guardando il meteo, non il calendario: con pioggia e vento il sentiero sulle scogliere perde molto, e il gesso frana senza preavviso.",
+    editorialHookType: 'before-you-go',
+  },
 }
 
 export function getEditorialMeta(slug: string): EditorialMeta {

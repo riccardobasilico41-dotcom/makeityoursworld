@@ -856,4 +856,22 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "An EU ID card is not enough for Northern Ireland: you need a passport and a UK ETA, even if you drive in from Dublin.",
     editorialHookType: 'before-you-go',
   },
+  'manchester-liverpool-premier-league': {
+    seoTitle: "Manchester and Liverpool long weekend with the Premier League",
+    seoDescription:
+      "Four days by train between Manchester and Liverpool: match tickets from official channels, Old Trafford and Anfield tours, then the Peak and Lake District.",
+    socialTitle: "Manchester, Liverpool and a Premier League match: how to get tickets without the risk",
+    editorialHook:
+      "In the UK, reselling football tickets without the club's authorisation is a criminal offence: seats come through membership, the official ticket exchange or hospitality.",
+    editorialHookType: 'before-you-go',
+  },
+  'brighton-seven-sisters': {
+    seoTitle: "Brighton, Seven Sisters, Kingston and Richmond Park from London",
+    seoDescription:
+      "Three days south of London by train: the Thames at Kingston and Richmond Park with its deer, then Brighton and the white cliffs of the Seven Sisters on foot.",
+    socialTitle: "South of London: Richmond Park, Brighton and the Seven Sisters cliffs",
+    editorialHook:
+      "Pick your Seven Sisters day by the forecast, not the calendar: in rain and wind the clifftop path loses a lot, and the chalk collapses without warning.",
+    editorialHookType: 'before-you-go',
+  },
 }

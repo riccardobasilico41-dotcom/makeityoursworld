@@ -460,6 +460,10 @@ export const QUERY = {
   // Nov 2026, viaggi 96-98 (Inghilterra, Scozia, Irlanda, Irlanda del Nord): query verificate a mano su Nominatim
   'inghilterra/cotswolds': 'Stow-on-the-Wold',
   'inghilterra/bath': 'Bath, Somerset',
+  'inghilterra/lake-district': 'Ambleside',
+  'inghilterra/peak-district': 'Castleton, Derbyshire',
+  'inghilterra/seven-sisters': 'Seven Sisters Country Park',
+  'inghilterra/kingston-richmond-park': 'Richmond Park',
   'scozia/loch-lomond-glencoe': 'Glencoe',
   'scozia/fort-william-glenfinnan': 'Fort William',
   'scozia/isola-di-skye': 'Portree',

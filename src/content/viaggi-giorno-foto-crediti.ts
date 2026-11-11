@@ -4451,4 +4451,18 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Monumen_Nasional,_Jakarta,_Indonesia.jpg',
     },
   },
+  'manchester-liverpool-premier-league': {
+    'Giorno 1 — Arrivo a Manchester: Northern Quarter e Ancoats': { autore: 'Jorge Franganillo (Wikimedia Commons)', licenza: 'CC BY 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Manchester_-_Northern_Quarter.jpg' },
+    'Giorno 2 — Manchester: musei, Castlefield e la partita': { autore: 'Arne Müseler (Wikimedia Commons)', licenza: 'CC BY-SA 3.0 DE', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Manchester_United_Old_Trafford.jpg' },
+    'Giorno 3 — In treno a Liverpool: Albert Dock, Pier Head e il Mersey': { autore: '瑞丽江的河水 (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Royal_Albert_Dock,_Liverpool_-_2024-06-15.jpg' },
+    'Giorno 4 — Liverpool: le cattedrali, il Cavern Club e Anfield': { autore: 'Rodhullandemu (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Liverpool_Anglican_Cathedral_from_Hope_Street.jpg' },
+    'Giorno 5 — Estensione: Peak District, da Edale a Castleton passando da Mam Tor': { autore: 'Gareth James (geograph.org.uk, via Wikimedia Commons)', licenza: 'CC BY-SA 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Ramblers_on_the_Mam_Tor_Ridge_(geograph_3855226).jpg' },
+    'Giorno 6 — Estensione: Lake District, Windermere, Ambleside e Grasmere': { autore: 'mattbuck (Wikimedia Commons)', licenza: 'CC BY-SA 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lake_Windermere_MMB_68_Bowness-on-Windermere.jpg' },
+    'Giorno 7 — Estensione: Keswick, Derwentwater e Catbells, poi il rientro': { autore: 'RKL (geograph.org.uk, via Wikimedia Commons)', licenza: 'CC BY-SA 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Catbells_and_Derwentwater_-_geograph.org.uk_-_7344943.jpg' },
+  },
+  'brighton-seven-sisters': {
+    'Giorno 1 — Il Tamigi a sud-ovest di Londra: Kingston, Richmond Park e Richmond Hill': { autore: 'Julian Herzog (Wikimedia Commons)', licenza: 'CC BY 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Red_Deer_Cervus_Elaphus_in_Richmond_Park_2024_02.jpg' },
+    'Giorno 2 — Da Londra a Brighton: il Pier, il Royal Pavilion e le Lanes': { autore: 'Simon Burchell (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Royal_Pavilion,_Brighton_01.jpg' },
+    'Giorno 3 — Le Seven Sisters: da Cuckmere Haven a Birling Gap': { autore: 'PAUL FARMER (geograph.org.uk, via Wikimedia Commons)', licenza: 'CC BY-SA 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Seven_Sisters_Cliffs,_Cuckmere_Haven_-_geograph.org.uk_-_6695639.jpg' },
+  },
 }

@@ -863,4 +863,22 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Para entrar en Irlanda del Norte el DNI no basta: hacen falta pasaporte y la ETA británica, aunque llegues en coche desde Dublín.",
     editorialHookType: 'before-you-go',
   },
+  'manchester-liverpool-premier-league': {
+    seoTitle: "Manchester y Liverpool en un fin de semana con la Premier",
+    seoDescription:
+      "Cuatro días en tren por Manchester y Liverpool: entradas en los canales oficiales, visitas a Old Trafford y Anfield, y luego el Peak y el Lake District.",
+    socialTitle: "Manchester, Liverpool y un partido de la Premier League: cómo conseguir entradas sin riesgos",
+    editorialHook:
+      "En el Reino Unido revender entradas de fútbol sin la autorización del club es delito: las plazas se consiguen con la membership, la ticket exchange oficial o la hospitality.",
+    editorialHookType: 'before-you-go',
+  },
+  'brighton-seven-sisters': {
+    seoTitle: "Brighton, Seven Sisters, Kingston y Richmond Park",
+    seoDescription:
+      "Tres días al sur de Londres en tren: el Támesis en Kingston y Richmond Park con los ciervos, luego Brighton y los acantilados de las Seven Sisters a pie.",
+    socialTitle: "Al sur de Londres: Richmond Park, Brighton y los acantilados de las Seven Sisters",
+    editorialHook:
+      "Las Seven Sisters se eligen mirando el tiempo, no el calendario: con lluvia y viento el sendero de los acantilados pierde mucho, y la creta se derrumba sin previo aviso.",
+    editorialHookType: 'before-you-go',
+  },
 }
