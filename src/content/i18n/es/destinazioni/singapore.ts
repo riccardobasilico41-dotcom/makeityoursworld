@@ -366,12 +366,11 @@ export const destinazioniSingapore: Destinazione[] = [
       "Chinatown y Bugis son las mejores zonas en relación calidad-precio: céntricas, servidas por el metro y mucho más económicas que Marina Bay. Little India tiene los precios más bajos con diferencia.",
     doveMangiare:
       "Aquí se come, y se come en un centro de hawkers. El pollo de Hainan con el arroz cocido en el caldo es el plato nacional; luego el laksa de Katong con leche de coco, el char kway teow, el chilli crab (que cuesta mucho más y se come en otro sitio, junto al mar), el roti prata y el teh tarik en Little India, el nasi padang en Kampong Glam. La regla: la cola más larga indica el mejor puesto, y uno se pone en la fila.",
-    comeArrivare: "Metro: Chinatown, Little India y Bugis tienen todas su parada, a pocas estaciones de distancia.",
+    comeArrivare: "Desde Changi se toma la línea verde del metro hasta Expo y allí la línea azul Downtown, que para en Bugis, Little India, Chinatown y Telok Ayer: unos 45-50 minutos y 2-3 SGD (unos 2 €) pagando con tarjeta contactless en el torniquete. Taxis y Grab cuestan unos 25-45 SGD (16-30 €), más el recargo de aeropuerto. Chinatown tiene también la parada Maxwell, a Kampong Glam se llega desde Bugis y Tiong Bahru tiene su parada en la línea verde: entre un barrio y otro bastan dos o tres paradas.",
     comeSpostarsi: "A pie dentro de cada barrio, en MRT entre uno y otro. Están todos en un radio de tres kilómetros.",
     periodoMigliore:
       "todo el año. Los momentos especiales son el Año Nuevo chino en Chinatown, el Deepavali en Little India y el Hari Raya en Kampong Glam, cuando los respectivos barrios se iluminan. En el Año Nuevo chino, sin embargo, muchos puestos de hawkers de gestión familiar cierran durante días.",
-    costi:
-      "casi nulos: los barrios se recorren a pie, en los templos no hay entrada y una comida completa en un centro hawker cuesta pocos euros. Es el Singapur que se puede hacer con poco dinero.",
+    costi: "Los barrios se recorren a pie y templos, mezquita y hawker centres no tienen entrada: un plato cuesta en general 4-8 SGD (unos 3-5 €). Solo se pagan los museos, como el Malay Heritage Centre, 10 SGD para turistas (unos 7 €). Presupuesto diario en Singapur: unos 70-90 € con albergue y hawker centres, 150-220 € con un hotel de gama media en el centro, más de 350 € en un hotel de lujo.",
     erroriDaEvitare: [
       "Comer en los restaurantes con aire acondicionado y menú ilustrado cuando a cincuenta metros hay un centro de hawkers: se paga el triple por un plato peor",
       "Ir a Chinatown solo por la calle de los souvenirs, que es la parte menos interesante del barrio",
@@ -387,7 +386,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT hasta Chinatown. Se entra con hombros y rodillas cubiertos. Algunas salas están reservadas.",
         quando: "Por la mañana, cuando el templo está más tranquilo.",
         tempo: "45 minutos",
-        consiglio: "Subir a la azotea, donde hay una gran rueda de oración de estilo tibetano y la pagoda de los Diez Mil Budas."
+        consiglio: "Subir a la azotea, donde hay una gran rueda de oración de estilo tibetano y la pagoda de los Diez Mil Budas.",
+        url: "https://www.buddhatoothrelictemple.org.sg/",
+        lat: 1.28151,
+        lng: 103.84419,
+        costo: "gratuito",
+        orari: "todos los días 9-17",
       },
       {
         nome: "Sri Mariamman Temple",
@@ -395,7 +399,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "A pocos pasos de la parada de Chinatown. Zapatos fuera donde se indique.",
         quando: "Por la mañana, o durante las fiestas hindúes cuando el templo está lleno de fieles.",
         tempo: "30 minutos",
-        consiglio: "Comprobar antes si hay una ceremonia: el templo cambia por completo."
+        consiglio: "Comprobar antes si hay una ceremonia: el templo cambia por completo.",
+        url: "https://heb.org.sg/smt/",
+        lat: 1.28261,
+        lng: 103.84528,
+        costo: "gratuito",
+        orari: "todos los días 7-12 y de nuevo por la tarde-noche; cerrado en las horas centrales",
       },
       {
         nome: "Maxwell Food Centre y Chinatown Complex",
@@ -403,7 +412,10 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "A pie desde Chinatown o la parada de Maxwell. Se elige el puesto, se pide, se busca una mesa compartida y luego se recoge el plato.",
         quando: "Almuerzo y cena son las horas punta, con colas. A media mañana o a última hora de la tarde se come con más calma.",
         tempo: "1 hora",
-        consiglio: "Ponerse en la cola más larga: es el método más fiable."
+        consiglio: "Ponerse en la cola más larga: es el método más fiable.",
+        lat: 1.28033,
+        lng: 103.84475,
+        costo: "un plato en general 4-8 SGD, unos 3-5 € (2026)",
       },
       {
         nome: "Sri Veeramakaliamman Temple y las calles de Little India",
@@ -411,7 +423,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT hasta Little India. A pie entre Serangoon Road, Campbell Lane y las calles laterales. Zapatos fuera en el templo.",
         quando: "Última hora de la tarde y noche, cuando las tiendas están abiertas y el barrio está más vivo. Durante el Deepavali se ilumina para la fiesta.",
         tempo: "2 horas",
-        consiglio: "Buscar el Tekka Centre, el mercado cubierto con el centro hawker en la planta baja, para una comida india barata."
+        consiglio: "Buscar el Tekka Centre, el mercado cubierto con el centro hawker en la planta baja, para una comida india barata.",
+        url: "https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/little-india/sri-veeramakaliamman-temple/",
+        lat: 1.30795,
+        lng: 103.8524,
+        costo: "gratuito",
+        orari: "todos los días 5:30-21",
       },
       {
         nome: "Sultan Mosque y Haji Lane",
@@ -419,7 +436,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT hasta Bugis, luego unos minutos a pie. La mezquita se visita en el horario para visitantes, nunca durante la oración del viernes; hay que ir cubierto y en la entrada prestan túnicas.",
         quando: "Por la mañana la mezquita; última hora de la tarde las calles.",
         tempo: "1 hora y media",
-        consiglio: "Comprobar los horarios de oración antes de subir, porque la visita se interrumpe durante la oración."
+        consiglio: "Comprobar los horarios de oración antes de subir, porque la visita se interrumpe durante la oración.",
+        url: "https://sultanmosque.sg/visitors-info",
+        lat: 1.30222,
+        lng: 103.859,
+        costo: "gratuito",
+        orari: "visitas de sábado a jueves 10-12 y 14-16; el viernes cerrada a los visitantes",
       },
       {
         nome: "Tiong Bahru",
@@ -427,8 +449,101 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT hasta Tiong Bahru y a pie. El barrio es pequeño y se recorre en una hora.",
         quando: "Por la mañana, para el mercado y el desayuno.",
         tempo: "1 hora",
-        consiglio: "Comer en el centro hawker de la planta alta del mercado, donde los puestos son muy frecuentados por los vecinos."
-      }
+        consiglio: "Comer en el centro hawker de la planta alta del mercado, donde los puestos son muy frecuentados por los vecinos.",
+        lat: 1.28479,
+        lng: 103.83255,
+      },
+      {
+        nome: "Thian Hock Keng Temple",
+        testo: "El templo hokkien más importante de la ciudad, dedicado a Mazu, la diosa protectora de los navegantes: los primeros inmigrantes chinos venían aquí a dar gracias por la travesía. Fue reconstruido entre 1839 y 1842 sin usar clavos, con vigas talladas con dragones y fénix, y es monumento nacional desde 1973.",
+        come: "MRT hasta Telok Ayer, luego dos minutos a pie por Telok Ayer Street, que antes corría a lo largo de la orilla del mar. Se entra libremente, con los hombros cubiertos.",
+        quando: "Por la mañana, cuando llegan los fieles con el incienso.",
+        tempo: "30 minutos",
+        costo: "gratuito",
+        orari: "todos los días 7:30-17:30",
+        consiglio: "Seguir por Telok Ayer Street: en el mismo tramo están la mezquita Al-Abrar y el Nagore Dargah, construidos por los musulmanes llegados del sur de la India.",
+        lat: 1.281,
+        lng: 103.8475,
+      },
+      {
+        nome: "Chinatown Heritage Centre",
+        testo: "Tres shophouses de Pagoda Street reconstruidas como eran a mediados del siglo XX, con las habitaciones minúsculas donde dormían familias enteras y los trabajadores llegados de China. Explica el barrio mejor que cualquier paseo.",
+        come: "Salida A de la parada Chinatown, en Pagoda Street. Recorrido libre por varias plantas.",
+        quando: "En las horas de calor, antes de recorrer el barrio.",
+        tempo: "1 hora-1 hora y media",
+        orari: "todos los días 10-20, última entrada 19:15; cierres por mantenimiento indicados en la web",
+        consiglio: "Verlo antes del Buddha Tooth Relic Temple y de las calles de souvenirs: después se miran las fachadas con otros ojos.",
+        url: "https://www.chinatownheritagecentre.com.sg/",
+        lat: 1.2835,
+        lng: 103.84433,
+      },
+      {
+        nome: "Ann Siang Hill y Club Street",
+        testo: "Una pequeña colina detrás de Chinatown con shophouses restauradas, sedes de antiguas asociaciones de clanes y una escalinata que sube a un jardín. Por la noche Club Street y Ann Siang Road se convierten en una de las zonas de bares y restaurantes más animadas del centro.",
+        come: "A pie desde la parada Maxwell o Telok Ayer, cinco minutos cuesta arriba.",
+        quando: "Al atardecer, para tomar algo antes de cenar.",
+        tempo: "45 minutos",
+        costo: "paseo gratuito",
+        orari: "siempre accesibles",
+        lat: 1.28079,
+        lng: 103.84644,
+      },
+      {
+        nome: "Tekka Centre",
+        testo: "El mercado cubierto de Little India: en la planta baja un hawker centre con cocina india del norte y del sur, malaya y china, junto a los puestos de carne, pescado y verdura; en la planta de arriba, sastres y tiendas de saris. Es el sitio más auténtico del barrio para comer.",
+        come: "Junto a la parada Little India. Se pide en los puestos y se paga en el momento.",
+        quando: "Por la mañana para el mercado, a mediodía para el biryani.",
+        tempo: "1 hora",
+        costo: "un plato en general 4-8 SGD, unos 3-5 € (2026)",
+        consiglio: "Los puestos de pescado y carne se ven a primera hora: a mediodía el mercado ya está casi vacío.",
+        lat: 1.30619,
+        lng: 103.85061,
+      },
+      {
+        nome: "Indian Heritage Centre",
+        testo: "El museo de la comunidad india de Singapur, en un edificio moderno con una fachada de vidrio que por la noche se ilumina como un farol. Cuenta dos siglos de migraciones desde el subcontinente con joyas, tejidos y una puerta de casa del Chettinad tallada en madera.",
+        come: "A pocos pasos de la parada Little India, en Campbell Lane.",
+        quando: "En las horas de calor de la tarde.",
+        tempo: "1 hora y media",
+        orari: "de martes a domingo 10-18, última entrada 17:30; cerrado los lunes",
+        url: "https://www.indianheritage.gov.sg/",
+        lat: 1.30562,
+        lng: 103.85232,
+      },
+      {
+        nome: "Sri Srinivasa Perumal Temple",
+        testo: "Uno de los templos hindúes más antiguos de la ciudad, dedicado a Vishnu, con una gran torre de entrada cubierta de estatuas de colores. De aquí sale cada año la procesión del Thaipusam, cuando los devotos llevan los kavadi hasta el templo de Tank Road.",
+        come: "Al final de Serangoon Road, a pocos minutos de la parada Farrer Park. Zapatos fuera.",
+        quando: "A primera hora de la mañana o por la tarde-noche, durante los rituales.",
+        tempo: "30 minutos",
+        costo: "gratuito",
+        orari: "a primera hora de la mañana y por la tarde-noche; cerrado en las horas centrales del día",
+        url: "https://heb.org.sg/sspt/",
+        lat: 1.31349,
+        lng: 103.85602,
+      },
+      {
+        nome: "Sakya Muni Buddha Gaya Temple",
+        testo: "El «templo de las mil luces», fundado por un monje tailandés, guarda un Buda sentado de unos quince metros de altura, rodeado de bombillas. Enfrente, al otro lado de la calle, está el Leong San See, un templo chino más antiguo y recogido.",
+        come: "En Race Course Road, a cinco minutos a pie de la parada Farrer Park.",
+        quando: "Junto con el templo de Perumal, que está a dos pasos.",
+        tempo: "30 minutos",
+        costo: "gratuito",
+        lat: 1.31482,
+        lng: 103.8569,
+      },
+      {
+        nome: "Malay Heritage Centre",
+        testo: "El museo de la cultura malaya ocupa el Istana Kampong Gelam, el palacio del sultán construido hacia 1840 junto a la Sultan Mosque. Reabrió en abril de 2026 tras una larga restauración, con galerías renovadas sobre la historia del barrio y del mundo malayo.",
+        come: "MRT hasta Bugis, diez minutos a pie: está en Sultan Gate, detrás de la mezquita.",
+        quando: "Por la mañana, antes o después de visitar la mezquita.",
+        tempo: "1 hora y media",
+        costo: "10 SGD para turistas, unos 7 € (2026)",
+        orari: "galerías de martes a domingo 10-18, última entrada 17:30; jardín 8-21; cerrado los lunes",
+        url: "https://www.malayheritage.gov.sg/",
+        lat: 1.30287,
+        lng: 103.85983,
+      },
     ],
     programmi: [
       {
@@ -448,24 +563,39 @@ export const destinazioniSingapore: Destinazione[] = [
           "Día 2: mañana en la Sultan Mosque, Arab Street y Haji Lane; almuerzo en Bugis; tarde libre",
           "Noche: cena en otro centro hawker a elegir"
         ]
-      }
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Chinatown Heritage Centre a la apertura, Buddha Tooth Relic Temple y Sri Mariamman",
+          "Almuerzo en el Maxwell Food Centre, luego Thian Hock Keng en Telok Ayer Street",
+          "Noche: algo de beber entre Ann Siang Hill y Club Street",
+          "Día 2: Tekka Centre por la mañana, Indian Heritage Centre en las horas de calor",
+          "Última hora de la tarde: Sri Veeramakaliamman, Sri Srinivasa Perumal y el templo de las mil luces; cena en hoja de plátano",
+          "Día 3: Sultan Mosque y Malay Heritage Centre por la mañana, Haji Lane y Arab Street",
+          "Tarde: Tiong Bahru o una excursión a Katong para la cocina peranakan"
+        ]
+      },
     ],
     zone: [
       {
         nome: "Chinatown y Tanjong Pagar",
         perChi: "quien quiere estar cerca de los centros hawker y del centro",
-        testo: "Hostales y hoteles de gama media, muchos bares y restaurantes. Algo de vida nocturna, pero las noches siguen siendo llevaderas."
+        testo: "Hostales y hoteles de gama media, muchos bares y restaurantes. Algo de vida nocturna, pero las noches siguen siendo llevaderas.",
+        fascia: "120-220 €",
       },
       {
         nome: "Little India y Farrer Park",
         perChi: "quien quiere ahorrar y comer comida india",
-        testo: "Alojamiento de los más baratos de la ciudad, con muy buena comida cerca. Las calles son animadas y el ruido no falta."
+        testo: "Alojamiento de los más baratos de la ciudad, con muy buena comida cerca. Las calles son animadas y el ruido no falta.",
+        fascia: "80-150 €",
       },
       {
         nome: "Kampong Glam y Bugis",
         perChi: "quien quiere locales y comodidad",
-        testo: "Mucha oferta de hoteles y hostales, conexión directa con la bahía. Los fines de semana la zona está llena de gente."
-      }
+        testo: "Mucha oferta de hoteles y hostales, conexión directa con la bahía. Los fines de semana la zona está llena de gente.",
+        fascia: "110-200 €",
+      },
     ],
     sapori: [
       {
@@ -490,6 +620,52 @@ export const destinazioniSingapore: Destinazione[] = [
       "Los puestos más famosos tienen colas muy largas a la hora de comer: ir pronto o fuera de horas. Muchos cierran cuando se les acaban los ingredientes.",
       "No tirar basura en la calle ni fumar fuera de las zonas permitidas: las multas existen y son altas.",
       "Durante el Año Nuevo chino muchos puestos familiares cierran durante días: si se viaja entonces, comprobarlo antes."
+    ],
+    gite: [
+      {
+        nome: "Katong y Joo Chiat",
+        distanza: "unos 30 minutos en MRT",
+        come: "Línea Thomson-East Coast hasta Marine Parade o Katong Park, o autobús desde Bugis.",
+        testo: "El barrio de la comunidad peranakan, nacida de los comerciantes chinos casados con mujeres malayas: shophouses de color pastel con azulejos decorados en Koon Seng Road, tiendas de dulces kueh y el laksa de Katong, con los fideos cortados para comerlos con cuchara.",
+      },
+      {
+        nome: "Geylang Serai",
+        distanza: "15 minutos en MRT desde Bugis",
+        come: "Línea verde hasta Paya Lebar, luego cinco minutos a pie.",
+        testo: "El corazón de la comunidad malaya, con el Geylang Serai Market y su hawker centre de cocina malaya en la planta de arriba. En el mes de Ramadán las calles de alrededor se llenan con el gran bazar nocturno.",
+      },
+      {
+        nome: "Haw Par Villa",
+        distanza: "unos 30 minutos en MRT",
+        come: "Línea Circle hasta la parada Haw Par Villa, frente a la entrada.",
+        testo: "Un parque de estatuas de cemento construido en los años treinta por los hermanos del Tiger Balm, con escenas de la mitología china y los Diez Tribunales del Infierno. Kitsch e inquietante a la vez, es uno de los lugares más extraños de la ciudad.",
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuánto tiempo hace falta para Chinatown, Little India y Kampong Glam?",
+        risposta: "Un día basta para verlos seguidos, por la mañana Chinatown y por la tarde Little India y Kampong Glam. Con dos o tres días se añaden los museos, Tiong Bahru y un hawker centre distinto cada noche.",
+      },
+      {
+        domanda: "¿Se paga para entrar en los templos y en la Sultan Mosque?",
+        risposta: "No, la entrada es libre en todas partes. Hay que llevar hombros y rodillas cubiertos; en los templos hindúes y en la mezquita se quitan los zapatos, y la Sultan Mosque cierra a los visitantes los viernes.",
+      },
+      {
+        domanda: "¿Cuánto cuesta comer en un hawker centre?",
+        risposta: "Un plato cuesta en general 4-8 SGD, unos 3-5 €. Se pide y se paga en el puesto; muchos aceptan tarjeta, pero conviene llevar algunos dólares en efectivo.",
+      },
+      {
+        domanda: "¿En qué barrio conviene dormir?",
+        risposta: "Chinatown y Bugis por comodidad y conexiones, Little India para gastar menos. Una doble cuesta unos 80-150 € en Little India y 110-220 € en Chinatown o Bugis.",
+      },
+      {
+        domanda: "¿Cuándo son las fiestas de los barrios?",
+        risposta: "El Año Nuevo chino cae entre finales de enero y febrero, el Deepavali entre octubre y noviembre, el Hari Raya Puasa al final del Ramadán, que cambia cada año. En las semanas anteriores los barrios se iluminan; en los días del Año Nuevo muchos puestos familiares cierran.",
+      },
+      {
+        domanda: "¿Qué significa el paquete de pañuelos sobre la mesa?",
+        risposta: "Es el «chope»: el sitio lo guarda alguien que está haciendo cola en un puesto. No se mueve; se busca otra mesa.",
+      }
     ],
     esperienzeSlugs: ['hawker-centre'],
     tripSlugs: ['malesia-singapore'],
@@ -524,12 +700,11 @@ export const destinazioniSingapore: Destinazione[] = [
     doveDormire: "Ninguna de estas zonas es una base sensata: se duerme en el centro y se llega en metro o con un trayecto corto.",
     doveMangiare:
       "No hay oferta dentro de las reservas, salvo algún quiosco: se lleva agua en abundancia, porque el calor húmedo en los senderos es serio. En Pulau Ubin hay un par de restaurantes de pescado en el pueblo del muelle, sencillos y correctos así.",
-    comeArrivare:
-      "Botanic Gardens y MacRitchie tienen paradas de metro o se alcanzan en pocos minutos de trayecto; para Pulau Ubin se va a Changi Point y se coge un bumboat, que sale cuando tiene doce pasajeros a bordo.",
+    comeArrivare: "Desde Changi el metro llega al centro en 40-50 minutos por 2-3 SGD (unos 2 €) con tarjeta contactless; desde allí: parada Botanic Gardens (líneas Circle y Downtown) o Napier para los Botanic Gardens, Caldecott o un autobús hasta la entrada para MacRitchie, Beauty World para Bukit Timah, Kranji y luego el autobús 925 (925M los domingos y festivos) para Sungei Buloh. Para Pulau Ubin se va en metro a Tanah Merah y en el autobús 2 hasta Changi Point, donde se coge un bumboat que sale cuando tiene doce pasajeros a bordo.",
     comeSpostarsi: "A pie en las reservas, en bicicleta en Pulau Ubin (se alquila en el muelle).",
     periodoMigliore:
       "todo el año, a primera hora de la mañana. Pasadas las diez el calor y la humedad hacen los senderos mucho más pesados de lo que la distancia hace pensar.",
-    costi: "todo gratuito, incluidos los Botanic Gardens, MacRitchie y Pulau Ubin (solo se pagan la barca y la bici); dentro de los Botanic Gardens solo el National Orchid Garden tiene entrada.",
+    costi: "Casi todo es gratuito: Botanic Gardens, MacRitchie con el TreeTop Walk, Bukit Timah, Sungei Buloh, los parques y las Southern Ridges. Se pagan el National Orchid Garden (15 SGD para turistas, unos 10 €), el bumboat a Pulau Ubin (4 SGD por trayecto, unos 3 €) y el alquiler de la bici, el Zoo (49 SGD, unos 32 €) y el Night Safari (58 SGD, unos 38 €). Presupuesto diario en Singapur: unos 70-90 € con albergue y hawker centres, 150-220 € con un hotel de gama media, más de 350 € en un hotel de lujo.",
     erroriDaEvitare: [
       "Subestimar el clima: diez kilómetros en MacRitchie con esta humedad valen el doble, y a lo largo del recorrido no se compra agua",
       "Acercarse a los macacos o comer delante de ellos: en MacRitchie y Bukit Timah están acostumbrados a los humanos y arrebatan los bolsos",
@@ -547,7 +722,10 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "2 horas",
         costo: "entrada gratuita a los jardines; el National Orchid Garden tiene una entrada aparte",
         url: "https://www.nparks.gov.sg/",
-        consiglio: "Llegar antes de las ocho: después el calor pesa y el jardín pierde lo mejor."
+        consiglio: "Llegar antes de las ocho: después el calor pesa y el jardín pierde lo mejor.",
+        lat: 1.3151,
+        lng: 103.8162,
+        orari: "jardines todos los días 5-24; National Orchid Garden 8:30-19, última entrada 18",
       },
       {
         nome: "MacRitchie Reservoir y TreeTop Walk",
@@ -557,7 +735,10 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "3-4 horas",
         costo: "gratuito",
         url: "https://www.nparks.gov.sg/",
-        consiglio: "Llevar mucha agua: no hay tiendas en el recorrido."
+        consiglio: "Llevar mucha agua: no hay tiendas en el recorrido.",
+        lat: 1.34361,
+        lng: 103.83111,
+        orari: "parque todos los días 7-19; TreeTop Walk de martes a viernes 9-17, sábados, domingos y festivos 8:30-17, última entrada 16:45, cerrado los lunes salvo festivos",
       },
       {
         nome: "Bukit Timah Nature Reserve",
@@ -567,7 +748,10 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "2-3 horas",
         costo: "gratuito",
         url: "https://www.nparks.gov.sg/",
-        consiglio: "Mantener las bolsas cerradas y la comida fuera de la vista: los macacos arrebatan todo."
+        consiglio: "Mantener las bolsas cerradas y la comida fuera de la vista: los macacos arrebatan todo.",
+        lat: 1.35408,
+        lng: 103.77944,
+        orari: "todos los días 7-19",
       },
       {
         nome: "Pulau Ubin",
@@ -575,7 +759,11 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "Bumboat desde la terminal de Changi Point Ferry. La travesía dura unos 10 minutos y la barca sale cuando tiene doce pasajeros: 4 SGD por persona y trayecto, o 48 SGD por la barca entera (tarifas vigentes desde 2020). Bicicletas de alquiler en la isla.",
         quando: "Por la mañana. La última barca de vuelta es por la tarde: comprobar el horario al llegar.",
         tempo: "medio día",
-        consiglio: "Alquilar una bici e ir hacia Chek Jawa, la zona húmeda con la pasarela sobre el mar."
+        consiglio: "Alquilar una bici e ir hacia Chek Jawa, la zona húmeda con la pasarela sobre el mar.",
+        url: "https://pulau-ubin.nparks.gov.sg/",
+        lat: 1.40944,
+        lng: 103.96,
+        costo: "bumboat 4 SGD por trayecto, unos 3 €; bici de alquiler aparte (2026)",
       },
       {
         nome: "Southern Ridges y Henderson Waves",
@@ -585,8 +773,136 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "2-3 horas",
         costo: "gratuito",
         url: "https://www.nparks.gov.sg/",
-        consiglio: "Hacer el tramo Henderson Waves - Forest Walk, el más sugerente, y terminar en el Mount Faber."
-      }
+        consiglio: "Hacer el tramo Henderson Waves - Forest Walk, el más sugerente, y terminar en el Mount Faber.",
+        lat: 1.27605,
+        lng: 103.81541,
+      },
+      {
+        nome: "National Orchid Garden",
+        testo: "El corazón de los Botanic Gardens: un jardín en una colina con más de mil especies y dos mil híbridos de orquídeas, incluidos los dedicados a jefes de Estado de visita. Un invernadero fresco, la Cool House, alberga las orquídeas de los bosques de altura.",
+        come: "Dentro de los Botanic Gardens, a un cuarto de hora a pie de la parada Botanic Gardens o de Napier. Entrada en la taquilla del acceso.",
+        quando: "A la apertura de las 8:30, antes del calor.",
+        tempo: "1 hora",
+        costo: "15 SGD para turistas, unos 10 € (2026)",
+        orari: "todos los días 8:30-19, última entrada 18",
+        consiglio: "Entrar por el lado de Tanglin, parada Napier, y cruzar el jardín a pie pasando por el Swan Lake.",
+        url: "https://sbg.nparks.gov.sg/",
+        lat: 1.31274,
+        lng: 103.81361,
+      },
+      {
+        nome: "Chek Jawa Wetlands",
+        testo: "En el extremo oriental de Pulau Ubin, un humedal donde se tocan seis ecosistemas: playa, laguna, manglar, bosque costero, praderas marinas y llanura de marea. Una pasarela de un kilómetro aproximadamente corre sobre el manglar y el mar, y una torre de observación mira por encima de las copas.",
+        come: "En bici desde el muelle de Pulau Ubin, 3-4 km de caminos con alguna subida; las bicis se dejan en la entrada.",
+        quando: "Con marea baja, cuando asoman estrellas de mar y cangrejos: las mareas se publican en la web de NParks.",
+        tempo: "1 hora y media",
+        costo: "gratuito",
+        consiglio: "Salir temprano de Changi Point: la pasarela está expuesta y a mediodía no hay sombra.",
+        url: "https://pulau-ubin.nparks.gov.sg/",
+        lat: 1.40869,
+        lng: 103.99077,
+      },
+      {
+        nome: "Sungei Buloh Wetland Reserve",
+        testo: "La reserva de manglares de la costa norte, frente a Malasia: pasarelas entre las raíces, torres de observación y senderos donde se ven varanos, nutrias y cocodrilos marinos. De agosto a abril llegan las aves migratorias.",
+        come: "MRT hasta Kranji, luego autobús 925 (925M los domingos y festivos). Senderos señalizados a pie; algunos tramos se inundan con la marea alta.",
+        quando: "A primera hora de la mañana o al final de la tarde, cuando los animales están más activos.",
+        tempo: "2-3 horas",
+        costo: "gratuito",
+        orari: "todos los días 7-19, última entrada 18:30",
+        consiglio: "Quedarse en las pasarelas y lejos de la orilla: los cocodrilos son reales.",
+        url: "https://www.nparks.gov.sg/visit/parks/sungei-buloh-wetland-reserve",
+        lat: 1.44494,
+        lng: 103.72429,
+      },
+      {
+        nome: "Singapore Zoo",
+        testo: "Un zoo abierto, con fosos y vegetación en lugar de jaulas, a orillas del embalse de Upper Seletar: los orangutanes se mueven libres por los árboles sobre los visitantes. Forma parte de la Mandai Wildlife Reserve, con el Night Safari, el Bird Paradise y el River Wonders.",
+        come: "MRT hasta Khatib, luego el autobús lanzadera Mandai Khatib; o Grab. Entradas online.",
+        quando: "A la apertura de las 8:30, cuando los animales están activos y todavía hace fresco.",
+        tempo: "media jornada",
+        costo: "49 SGD para turistas adultos, unos 32 € (2026)",
+        orari: "todos los días 8:30-18, última entrada 17",
+        consiglio: "Combinarlo con el Night Safari, que está al lado: zoo por la tarde, cena en Mandai y safari después del atardecer.",
+        url: "https://www.mandai.com/en/singapore-zoo/",
+        lat: 1.40371,
+        lng: 103.79404,
+      },
+      {
+        nome: "Night Safari",
+        testo: "El primer zoo nocturno del mundo, abierto en 1994: se recorre después del atardecer, en tranvía o a pie por senderos apenas iluminados, entre leopardos, tapires, pangolines y ciervos. Los animales son nocturnos y por la noche están despiertos.",
+        come: "Junto al Zoo, en Mandai: MRT hasta Khatib y lanzadera, o Grab.",
+        quando: "A la apertura, para evitar las colas del tranvía, y en un día laborable.",
+        tempo: "2-3 horas",
+        costo: "58 SGD para turistas adultos de domingo a jueves, unos 38 €; más en los días punta (2026)",
+        orari: "todos los días 19:15-24, última entrada 23:15",
+        consiglio: "Nada de flash: está prohibido y asusta a los animales.",
+        url: "https://www.mandai.com/en/night-safari/",
+        lat: 1.40135,
+        lng: 103.789,
+      },
+      {
+        nome: "Fort Canning Park",
+        testo: "La colina sobre el centro, donde estaba el palacio de los antiguos reyes malayos y después la casa de Raffles. Entre los paseos están la puerta del fuerte británico, un jardín de especias con más de 180 variedades y nueve jardines históricos; dentro de la colina está el Battlebox, el búnker del mando británico de 1942.",
+        come: "MRT hasta Fort Canning, Dhoby Ghaut o Clarke Quay; se sube a pie por varios lados.",
+        quando: "Por la mañana o al atardecer; los árboles dan algo de sombra.",
+        tempo: "1-2 horas",
+        costo: "gratuito",
+        orari: "siempre abierto",
+        url: "https://www.nparks.gov.sg/visit/parks/park-detail/fort-canning-park",
+        lat: 1.29402,
+        lng: 103.84601,
+      },
+      {
+        nome: "East Coast Park",
+        testo: "Trece kilómetros de parque junto al mar a lo largo de la costa este, con carriles bici, playas y barbacoas bajo los árboles. Es donde los singapurenses pasan el fin de semana, con los barcos fondeados enfrente.",
+        come: "MRT hasta Bedok, luego autobús o Grab hasta el parque; bicis y patines de alquiler en las tiendas del parque.",
+        quando: "Al atardecer, cuando la brisa refresca, o el domingo por la mañana.",
+        tempo: "2-3 horas",
+        costo: "gratuito; alquiler de bici de pago",
+        orari: "siempre abierto",
+        consiglio: "Terminar con la cena en el East Coast Lagoon Food Village, el hawker centre junto al mar.",
+        url: "https://www.nparks.gov.sg/visit/parks/park-detail/east-coast-park",
+        lat: 1.30497,
+        lng: 103.92708,
+      },
+      {
+        nome: "Labrador Nature Reserve",
+        testo: "Un tramo de bosque costero sobre el puerto, donde había un fuerte británico: entre los árboles quedan búnkeres y posiciones de artillería de la Segunda Guerra Mundial. Una pasarela elevada, el Keppel Coastal Trail, recorre la orilla con vistas a los barcos y a Sentosa.",
+        come: "MRT hasta Labrador Park, luego cinco minutos a pie; de aquí sale también el recorrido de las Southern Ridges.",
+        quando: "Por la mañana o al final de la tarde.",
+        tempo: "1-2 horas",
+        costo: "gratuito",
+        orari: "parque siempre abierto; reserva natural 7-19",
+        consiglio: "La pasarela de Berlayar Creek está cerrada por obras hasta el 31 de marzo de 2027; el Keppel Coastal Trail sigue abierto.",
+        url: "https://www.nparks.gov.sg/visit/parks/park-detail/labrador-nature-reserve",
+        lat: 1.26615,
+        lng: 103.80274,
+      },
+      {
+        nome: "Coney Island",
+        testo: "Una isla al noreste, unida por dos puentes y dejada casi salvaje: senderos de tierra, casuarinas, manglares y cinco playas tranquilas. Se recorre a pie o en bici en un par de horas, y es uno de los pocos sitios de Singapur sin construcciones.",
+        come: "MRT hasta Punggol Coast, luego a pie o en bici hasta la entrada oeste, cerca de Punggol Point. En la isla no hay aparcamientos.",
+        quando: "A primera hora de la mañana, antes del calor.",
+        tempo: "2 horas",
+        costo: "gratuito",
+        orari: "todos los días 7-19",
+        url: "https://www.nparks.gov.sg/visit/parks/park-detail/coney-island-park",
+        lat: 1.40942,
+        lng: 103.92147,
+      },
+      {
+        nome: "Rail Corridor",
+        testo: "El antiguo trazado del ferrocarril malayo que cruzaba la isla de norte a sur, cerrado en 2011 y convertido en un sendero verde de unos 24 km. El tramo más bonito está en torno a la antigua estación de Bukit Timah, de 1932, con el puente de hierro sobre Bukit Timah Road.",
+        come: "Se entra por muchos puntos; para la estación de Bukit Timah las paradas más cercanas son King Albert Park y Beauty World.",
+        quando: "Por la mañana: el sendero no está iluminado y hay que dejarlo antes de que oscurezca.",
+        tempo: "2-3 horas por tramo",
+        costo: "gratuito",
+        consiglio: "Desde marzo de 2026 está cerrado por obras el tramo sur entre Henderson Road y Spooner Road: mejor la parte central.",
+        url: "https://railcorridor.nparks.gov.sg/",
+        lat: 1.33427,
+        lng: 103.78113,
+      },
     ],
     programmi: [
       {
@@ -607,19 +923,45 @@ export const destinazioniSingapore: Destinazione[] = [
           "Almuerzo en uno de los locales del pueblo cerca del muelle",
           "Regreso por la tarde, antes del calor máximo"
         ]
-      }
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: Botanic Gardens al amanecer y National Orchid Garden a la apertura",
+          "Media mañana: MacRitchie y TreeTop Walk (no los lunes)",
+          "Noche: Night Safari en Mandai",
+          "Día 2: Pulau Ubin en bici hasta Chek Jawa, con marea baja si es posible",
+          "Última hora de la tarde: East Coast Park y cena en el East Coast Lagoon Food Village"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1 y 2: como en el programa de dos días",
+          "Día 3: Sungei Buloh a la apertura de las 7, por los animales y las aves",
+          "Almuerzo en un hawker centre del centro y pausa en las horas de calor",
+          "Última hora de la tarde: Labrador Nature Reserve y Southern Ridges hasta Henderson Waves al atardecer"
+        ]
+      },
     ],
     zone: [
       {
         nome: "Orchard y Newton",
         perChi: "quien quiere estar cerca de los Botanic Gardens",
-        testo: "Hoteles y centros comerciales, a pocos minutos de los jardines en MRT. Cómodo y caro."
+        testo: "Hoteles y centros comerciales, a pocos minutos de los jardines en MRT. Cómodo y caro.",
+        fascia: "130-330 €",
       },
       {
         nome: "Alrededores de Bishan o Toa Payoh",
         perChi: "quien quiere vivir como los residentes",
         testo: "Barrios residenciales con excelentes centros hawker y precios bajos; pocos hoteles, pero hay apartamentos."
-      }
+      },
+      {
+        nome: "Chinatown y Bugis",
+        perChi: "quien quiere una base céntrica y gastar menos",
+        testo: "La línea Downtown lleva a los Botanic Gardens en un cuarto de hora y la línea verde a Tanah Merah, para Changi Point y Pulau Ubin. Por la noche los hawker centres están a la puerta.",
+        fascia: "110-220 €",
+      },
     ],
     sapori: [
       {
@@ -644,6 +986,52 @@ export const destinazioniSingapore: Destinazione[] = [
       "Los macacos de MacRitchie y Bukit Timah arrebatan bolsas y comida. No enseñar comida, no mirarlos a los ojos, no darles nada.",
       "No salir de los senderos señalizados ni llevarse nada de la reserva: hay multas para quien lo hace.",
       "Llevar efectivo para Pulau Ubin: en la isla las tarjetas no siempre funcionan."
+    ],
+    gite: [
+      {
+        nome: "St John's y Kusu",
+        distanza: "un trayecto corto en ferry",
+        come: "Ferry desde el Marina South Pier, parada de MRT Marina South Pier.",
+        testo: "Dos de las Southern Islands: St John's, con playas, senderos y un laboratorio marino, y Kusu, la isla de la tortuga, con un templo chino y un santuario malayo que atraen peregrinos en otoño.",
+      },
+      {
+        nome: "Kranji Countryside",
+        distanza: "alrededor de una hora entre MRT y autobús",
+        come: "MRT hasta Kranji, luego autobús o Grab entre las granjas.",
+        testo: "El último campo de Singapur, en la frontera con Malasia: huertas, granjas de cabras y de ranas, viveros y las Kranji Marshes, un pantano de agua dulce con una torre para observar aves. Se combina fácilmente con Sungei Buloh.",
+      },
+      {
+        nome: "Jurong Lake Gardens",
+        distanza: "unos 40 minutos en MRT",
+        come: "Línea verde hasta Lakeside o Chinese Garden.",
+        testo: "El parque nacional del oeste, alrededor del Jurong Lake, con praderas, pantanos de agua dulce y un gran parque acuático infantil. Lo frecuentan sobre todo los residentes y es el patio de fin de semana de los barrios del oeste.",
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Se paga por visitar los parques de Singapur?",
+        risposta: "Casi nunca: Botanic Gardens, MacRitchie, Bukit Timah, Sungei Buloh y los parques costeros son gratuitos. Se pagan el National Orchid Garden (15 SGD), el Zoo, el Night Safari y la barca a Pulau Ubin.",
+      },
+      {
+        domanda: "¿Cuándo abre el TreeTop Walk?",
+        risposta: "De martes a viernes 9-17, fines de semana y festivos 8:30-17, con última entrada a las 16:45; los lunes cierra, salvo festivos. Solo se llega a pie y la vuelta completa lleva 2-3 horas.",
+      },
+      {
+        domanda: "¿Cómo se llega a Pulau Ubin?",
+        risposta: "MRT hasta Tanah Merah, autobús 2 hasta el Changi Point Ferry Terminal y bumboat de unos diez minutos, 4 SGD por trayecto. La barca sale cuando tiene doce pasajeros; en la isla se alquila la bici.",
+      },
+      {
+        domanda: "¿Merece la pena el Night Safari?",
+        risposta: "Es el más original de los parques de Mandai, con animales nocturnos vistos cuando están despiertos. Cuesta 58 SGD por adulto en días normales y se combina bien con el Zoo la misma tarde.",
+      },
+      {
+        domanda: "¿Hay peligros en los senderos?",
+        risposta: "Sobre todo el calor y los macacos, que arrebatan bolsos y comida. En Sungei Buloh hay cocodrilos marinos: hay que quedarse en las pasarelas, lejos del agua.",
+      },
+      {
+        domanda: "¿Cuál es el mejor momento del día?",
+        risposta: "El amanecer y primera hora de la mañana: los Botanic Gardens abren a las 5 y las reservas a las 7. Pasadas las diez la humedad hace cada kilómetro mucho más cansado.",
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
@@ -678,12 +1066,10 @@ export const destinazioniSingapore: Destinazione[] = [
     doveDormire: "Los hoteles de Sentosa son caros y están aislados del resto de la ciudad: solo tiene sentido para quien pasa varios días en los parques con niños.",
     doveMangiare:
       "La oferta de la isla es toda a precios de parque temático. El consejo es comer antes o después, en VivoCity, el centro comercial de donde sale el monorraíl, que tiene un food court normal en la planta alta.",
-    comeArrivare:
-      "Monorraíl desde VivoCity (parada MRT HarbourFront), teleférico desde Mount Faber o a pie por el puente peatonal, que es gratuito y dura diez minutos.",
+    comeArrivare: "Se baja en la parada de MRT HarbourFront (líneas morada y Circle) y desde VivoCity se elige: el monorraíl Sentosa Express desde la planta 3, 4 SGD (unos 3 €) para entrar, de 7 a medianoche; el Sentosa Boardwalk a pie desde la planta 1, gratuito, con un tramo desviado por un paso cubierto por las obras del paseo marítimo; o el teleférico desde la HarbourFront Tower 2 o desde Mount Faber. De Changi a HarbourFront se tarda alrededor de una hora en metro; taxis y Grab tardan 25-30 minutos.",
     comeSpostarsi: "Lanzaderas internas gratuitas, monorraíl y muchas caminatas: la isla es larga y los puntos de interés están distantes entre sí.",
     periodoMigliore: "todo el año. En fin de semana y en las vacaciones escolares la isla está muy llena de residentes.",
-    costi:
-      "a pie por el Sentosa Boardwalk se entra gratis; teleférico y monorraíl tienen tarifas en la web de Sentosa; el gasto de verdad son los parques: Universal Studios y el acuario tienen precios de parque internacional.",
+    costi: "Entrar a pie es gratis, el Sentosa Express cuesta 4 SGD (unos 3 €) y el teleférico 35 SGD con las dos líneas (unos 23 €). Fort Siloso, las playas, el puente del punto más meridional y la Sensoryscape son gratuitos; Wings of Time empieza en 22 SGD (unos 15 €), el Singapore Oceanarium en 55 SGD para adultos (unos 36 €) y Universal Studios tiene precios de parque internacional que cambian según la fecha. Presupuesto diario en Singapur: unos 70-90 € con albergue y hawker centres, 150-220 € con un hotel de gama media, más de 350 € con un resort en la isla y los parques.",
     erroriDaEvitare: [
       "Esperar playas: son artificiales, con arena importada, y enfrente está la rada de los petroleros. Hay que tomarlas por lo que son",
       "Pagar el monorraíl a la ida: el puente peatonal es gratuito, cubierto y se tardan diez minutos",
@@ -699,9 +1085,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "Dentro de Sentosa, en el extremo occidental. Se llega con el autobús interno o a pie desde Siloso Beach. Recorrido a pie con escaleras y túneles.",
         quando: "Por la mañana, antes del calor.",
         tempo: "1 hora y media",
-        costo: "tarifas y horarios en la web de Sentosa",
+        costo: "gratuito",
         url: "https://www.sentosa.com.sg/",
-        consiglio: "Subir a las plataformas de los cañones: la vista sobre la rada y los petroleros explica el tráfico del puerto."
+        consiglio: "Subir a las plataformas de los cañones: la vista sobre la rada y los petroleros explica el tráfico del puerto.",
+        lat: 1.25877,
+        lng: 103.8088,
+        orari: "fuerte y Surrender Chambers todos los días 9-18, exposiciones desde las 10, última entrada 17:30; ascensor de la Fort Siloso Skywalk 9-22",
       },
       {
         nome: "Teleférico Mount Faber - Sentosa",
@@ -709,7 +1098,12 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT hasta HarbourFront, luego se sube al Mount Faber o se toma el teleférico desde la estación de HarbourFront, junto a VivoCity. Billete de pago.",
         quando: "Al atardecer.",
         tempo: "1 hora",
-        consiglio: "Cogerlo en un solo sentido y volver a pie o en monorraíl."
+        consiglio: "Cogerlo en un solo sentido y volver a pie o en monorraíl.",
+        url: "https://www.mountfaberleisure.com/",
+        lat: 1.2555,
+        lng: 103.8177,
+        costo: "Mount Faber Line más Sentosa Line 35 SGD, unos 23 €; solo Mount Faber Line 33 SGD, unos 22 €; solo Sentosa Line 15 SGD, unos 10 € (2026)",
+        orari: "todos los días 8:45-22, último embarque 21:30",
       },
       {
         nome: "Siloso, Palawan y Tanjong Beach",
@@ -717,7 +1111,10 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "Con el autobús o el monorraíl interno desde Sentosa Station.",
         quando: "Por la mañana y entre semana. Los fines de semana están llenas de residentes.",
         tempo: "2 horas",
-        consiglio: "No esperar el mar: venir por la relajación de un día de lluvia o con niños."
+        consiglio: "No esperar el mar: venir por la relajación de un día de lluvia o con niños.",
+        lat: 1.25437,
+        lng: 103.81333,
+        costo: "gratuito",
       },
       {
         nome: "Universal Studios y Singapore Oceanarium",
@@ -726,7 +1123,11 @@ export const destinazioniSingapore: Destinazione[] = [
         quando: "Entre semana; los fines de semana están muy llenos.",
         tempo: "día completo para el parque, 2 horas para el acuario",
         url: "https://www.sentosa.com.sg/",
-        consiglio: "Reservar online para saltarse la cola de taquilla."
+        consiglio: "Reservar online para saltarse la cola de taquilla.",
+        lat: 1.2542,
+        lng: 103.82267,
+        costo: "Singapore Oceanarium desde 55 SGD para adultos, unos 36 €; Universal Studios con precio según la fecha (2026)",
+        orari: "Universal Studios en general desde las 10 hasta la tarde-noche, con cierre que cambia según el día; Oceanarium todos los días 10-20, con horario reducido algunas fechas (calendario en la web)",
       },
       {
         nome: "Punto más meridional de Asia continental",
@@ -735,8 +1136,80 @@ export const destinazioniSingapore: Destinazione[] = [
         quando: "Al atardecer.",
         tempo: "20 minutos",
         costo: "gratuito",
-        consiglio: "Antes de convertirlo en una parada, recordar que es un hito turístico más que un lugar natural."
-      }
+        consiglio: "Antes de convertirlo en una parada, recordar que es un hito turístico más que un lugar natural.",
+        url: "https://www.sentosa.com.sg/en/things-to-do/attractions/southernmost-point-of-continental-asia/",
+        lat: 1.24796,
+        lng: 103.82143,
+        orari: "puente todos los días 9-18:30, última entrada 18; por la noche, 19-22, un recorrido de luces de pago",
+      },
+      {
+        nome: "Sentosa Boardwalk",
+        testo: "La pasarela peatonal cubierta que une VivoCity con la isla sobre el canal, con cintas transportadoras en algunos tramos. Hasta 2030 una parte está cerrada por las obras del nuevo paseo marítimo de Resorts World y se pasa por un enlace cubierto provisional.",
+        come: "Desde la parada HarbourFront se va al Lobby F de VivoCity, planta 1, y se sigue la pasarela.",
+        quando: "A la ida, por la mañana; por la noche está iluminada.",
+        tempo: "10-15 minutos",
+        costo: "gratuito",
+        url: "https://www.sentosa.com.sg/en/getting-to-sentosa/",
+        lat: 1.26096,
+        lng: 103.82352,
+      },
+      {
+        nome: "Sentosa Express",
+        testo: "El monorraíl que va de VivoCity a la isla en pocos minutos, con paradas en Resorts World, Imbiah y Beach. Es la forma más cómoda de llegar con niños o con calor.",
+        come: "Estación en la planta 3 de VivoCity, Lobby L; se paga en el torniquete con la tarjeta.",
+        quando: "A la vuelta, cuando se está cansado; a la ida el Boardwalk es gratuito.",
+        tempo: "5 minutos",
+        costo: "4 SGD para entrar en la isla, unos 3 € (2026)",
+        orari: "todos los días de 7 a medianoche",
+        url: "https://www.sentosa.com.sg/en/getting-to-sentosa/",
+        lat: 1.25165,
+        lng: 103.81853,
+      },
+      {
+        nome: "Wings of Time",
+        testo: "El espectáculo nocturno sobre el mar de Siloso Beach: chorros de agua, láseres, fuegos artificiales y música, en un escenario construido dentro del agua. Dura unos veinte minutos y desde diciembre de 2025 el final tiene fuegos más grandes.",
+        come: "En la playa de Siloso, a pocos pasos de la parada Beach del monorraíl. Entradas online o en las taquillas del teleférico.",
+        quando: "Dos pases cada noche, a las 19:40 y a las 20:40.",
+        tempo: "20 minutos",
+        costo: "desde 22 SGD, unos 15 € (2026)",
+        orari: "todos los días a las 19:40 y a las 20:40",
+        url: "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
+        lat: 1.25078,
+        lng: 103.81674,
+      },
+      {
+        nome: "Skyline Luge",
+        testo: "Carritos de gravedad sin motor que bajan por pistas asfaltadas en el bosque, desde la colina de Imbiah hasta Siloso Beach; se vuelve a subir en el telesilla Skyride, con vistas al puerto. Divierte a los niños tanto como a los adultos.",
+        come: "Salida desde Imbiah, cerca de la estación del teleférico, o desde la base en Siloso Beach. Entradas en paquetes de varias bajadas.",
+        quando: "Al atardecer, por la vista desde el telesilla.",
+        tempo: "1 hora",
+        url: "https://www.skylineluge.com/",
+        lat: 1.25505,
+        lng: 103.81734,
+      },
+      {
+        nome: "Sentosa Sensoryscape",
+        testo: "Un paseo peatonal entre jardines que cruza la isla desde Resorts World hasta las playas, con plantas e instalaciones pensadas para los cinco sentidos y luces por la noche. Ha convertido en un paseo fácil la conexión entre la zona de los parques y el mar.",
+        come: "A pie desde la parada Resorts World del monorraíl o desde la estación Sensoryscape del teleférico.",
+        quando: "Por la noche, cuando se encienden las luces.",
+        tempo: "30 minutos",
+        costo: "gratuito",
+        lat: 1.25321,
+        lng: 103.81882,
+      },
+      {
+        nome: "Mount Faber Park",
+        testo: "La colina sobre el puerto, salida del teleférico y final de las Southern Ridges. Desde la cima se ven Sentosa, los barcos fondeados y el skyline; el Marang Trail, un sendero de 700 metros con escaleras, sube en un cuarto de hora desde la zona de HarbourFront.",
+        come: "Desde la parada HarbourFront se busca el inicio del Marang Trail, o se sube en teleférico.",
+        quando: "Al atardecer.",
+        tempo: "1 hora",
+        costo: "gratuito",
+        orari: "siempre abierto",
+        consiglio: "Un tramo del sendero entre Henderson Waves y la estación del teleférico está cerrado por mantenimiento: seguir los desvíos señalizados.",
+        url: "https://www.nparks.gov.sg/visit/parks/park-detail/mount-faber-park",
+        lat: 1.27182,
+        lng: 103.81753,
+      },
     ],
     programmi: [
       {
@@ -755,19 +1228,37 @@ export const destinazioniSingapore: Destinazione[] = [
           "Tarde: Singapore Oceanarium",
           "Atardecer: playa de Palawan y el punto más al sur"
         ]
-      }
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: Universal Studios desde la apertura, las atracciones más solicitadas primero",
+          "Noche: Wings of Time en Siloso Beach",
+          "Día 2: a pie por el Marang Trail hasta Mount Faber, teleférico a Sentosa",
+          "Mañana: Fort Siloso, luego Skyline Luge",
+          "Tarde: Singapore Oceanarium o playa de Tanjong",
+          "Atardecer: Palawan y el punto más meridional, vuelta a pie por el Boardwalk"
+        ]
+      },
     ],
     zone: [
       {
         nome: "Dentro de Sentosa",
         perChi: "familias que quieren quedarse junto a los parques",
-        testo: "Resorts de gama alta, cómodos para los parques pero lejos de la vida urbana y de los centros hawker."
+        testo: "Resorts de gama alta, cómodos para los parques pero lejos de la vida urbana y de los centros hawker.",
+        fascia: "200-400 €",
       },
       {
         nome: "HarbourFront y VivoCity",
         perChi: "quien quiere estar cerca sin pagar los precios de la isla",
         testo: "Hoteles de gama media frente al centro comercial, con conexión directa a Sentosa a pie o en monorraíl."
-      }
+      },
+      {
+        nome: "Chinatown y Tanjong Pagar",
+        perChi: "quien viene a Sentosa solo un día",
+        testo: "Desde Outram Park la línea morada llega a HarbourFront en una parada, y por la noche se vuelve a cenar a los hawker centres del barrio.",
+        fascia: "120-220 €",
+      },
     ],
     sapori: [
       {
@@ -792,6 +1283,52 @@ export const destinazioniSingapore: Destinazione[] = [
       "Pagar en taquilla la entrada de un parque sin mirar las ofertas online cuesta bastante más que la misma entrada comprada con antelación.",
       "Los fines de semana y en vacaciones escolares la isla se llena de residentes: si es posible, venir entre semana.",
       "En la playa, el agua frente a la rada no es el motivo para venir: los bares valen más que el mar."
+    ],
+    gite: [
+      {
+        nome: "Southern Ridges y Henderson Waves",
+        distanza: "a pie desde Mount Faber",
+        come: "Desde Mount Faber se camina hacia el oeste por el recorrido señalizado, pasando por Henderson Waves hasta Kent Ridge.",
+        testo: "Unos diez kilómetros de parques unidos por puentes y pasarelas en el bosque; el tramo más bonito es el puente ondulado de Henderson Waves. Tiene su ficha en El Singapur verde.",
+      },
+      {
+        nome: "Haw Par Villa",
+        distanza: "pocos minutos en la línea Circle desde HarbourFront",
+        come: "Línea Circle hasta la parada Haw Par Villa, frente a la entrada.",
+        testo: "Un parque de estatuas de cemento construido en los años treinta por los hermanos del Tiger Balm, con escenas de la mitología china y los Diez Tribunales del Infierno. Uno de los lugares más extraños de la ciudad.",
+      },
+      {
+        nome: "St John's y Kusu",
+        distanza: "un trayecto corto en ferry",
+        come: "Ferry desde el Marina South Pier, parada de MRT Marina South Pier.",
+        testo: "Dos de las Southern Islands, más tranquilas que Sentosa: St John's con playas y senderos, Kusu con un templo chino y un santuario malayo que atraen peregrinos en otoño.",
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Se paga para entrar en Sentosa?",
+        risposta: "A pie por el Boardwalk, no. El monorraíl Sentosa Express cuesta 4 SGD para entrar; en coche o taxi se paga un peaje que cambia según la hora.",
+      },
+      {
+        domanda: "¿Cuánto cuesta el teleférico?",
+        risposta: "35 SGD por adulto con las dos líneas, Mount Faber y Sentosa; 33 SGD solo la Mount Faber Line y 15 SGD solo la Sentosa Line. Funciona todos los días de 8:45 a 22.",
+      },
+      {
+        domanda: "¿El Fort Siloso es gratuito?",
+        risposta: "Sí, el fuerte, los túneles y las Surrender Chambers no tienen entrada. Abre todos los días de 9 a 18 y el ascensor de la Skywalk funciona hasta las 22.",
+      },
+      {
+        domanda: "¿Merecen la pena las playas de Sentosa?",
+        risposta: "Son artificiales y miran a la rada de los petroleros: valen para una pausa o con niños, no para el mar. Tanjong es la más tranquila, Palawan la más adecuada para familias.",
+      },
+      {
+        domanda: "¿Basta media jornada o hace falta un día entero?",
+        risposta: "Sin parques basta media jornada: teleférico, Fort Siloso, una playa y el punto más meridional. Con Universal Studios hace falta un día entero, y medio más para el Oceanarium.",
+      },
+      {
+        domanda: "¿A qué hora es Wings of Time?",
+        risposta: "Cada noche a las 19:40 y a las 20:40 en Siloso Beach, durante unos veinte minutos; las entradas empiezan en 22 SGD.",
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],

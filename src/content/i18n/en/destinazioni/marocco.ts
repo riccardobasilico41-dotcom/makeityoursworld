@@ -336,29 +336,69 @@ export const destinazioniMarocco: Destinazione[] = [
     doveDormire:
       "We slept at Ksar El Janoub, the place with the best reviews in the area: clean, well-kept rooms, a pool with a view and service described as attentive and friendly (several reviews mention the owner, Khalid, for his hospitality).\n\nBudget: Riad Caravane, Dar Mouna · mid-range: Kasbah Tebi, Kasbah El Hajja · luxury (not over the top): Kasbah Rayane, Caravane Hotel (Ounila Valley).",
     doveMangiare: 'Tawesna, for lunch after visiting the ksar.',
-    comeArrivare: 'About 2h30 from Marrakech to Telouet, then about 1h to Aït Benhaddou.',
+    comeArrivare: 'About 2h30 from Marrakech to Telouet, then about 1h to Aït Benhaddou. From Marrakech it is about 170 km on the national road to Ouarzazate, which crosses the High Atlas at the Tizi n\'Tichka pass: without the detour to Telouet it takes 3 to 3 and a half hours. Ouarzazate is about 30 km away, 40 minutes; its airport has flights mainly from Casablanca. CTM and Supratours buses link Marrakech and Ouarzazate, then you continue by grand taxi. From the car park in the new village you cross the river on foot.',
     comeSpostarsi: 'On foot in the ksar.',
     periodoMigliore: 'morning, for the best light on the rammed-earth facade',
-    costi: "I didn't note down the entry prices for Telouet and Aït Benhaddou.",
+    costi: "I didn't note down the entry prices for Telouet and Aït Benhaddou. At Telouet there is a small ticket, about 20-50 MAD (€2-5); the ksar is free to enter. Daily budget per person, as a guide: low €30-50 (simple guesthouse, lunch at a village eatery, minimal entry fees); mid €80-120 (kasbah hotel with pool and dinner, guide in the ksar, Atlas Studios); high from €180 (boutique kasbah and private driver from Marrakech).",
     erroriDaEvitare: ["Forgetting to recharge power banks before the night in the desert: the tented camps have no electrical outlets"],
     miaEsperienza:
       "I was surprised by the contrast between the rammed-earth exterior of the Telouet Kasbah, now partly collapsed, and the interiors full of decoration. The ksar of Aït Benhaddou in person is even more beautiful than it looks in the films that made it famous.",
     // GUIDA-START
     luoghi: [
       {
+        "nome": "Tizi n'Tichka pass",
+        "testo": "The highest pass on the road between Marrakech and Ouarzazate, at about 2,260 metres in the High Atlas. At the top there are stalls selling fossils and minerals and a viewpoint over the mountains; the road climbs through many hairpin bends.",
+        "come": "By car on the national road from Marrakech; the turn-off for Telouet is just past the pass.",
+        "quando": "Morning. In winter, check for snow or ice before setting off.",
+        "tempo": "15-20 minute stop",
+        "costo": "Free",
+        "orari": "Road open all year, except when closed by snow",
+        "lat": 31.2861,
+        "lng": -7.3811
+      },
+      {
         "nome": "Telouet Kasbah",
         "testo": "The residence of the Glaoui clan, begun in 1860 on the old caravan route over the Atlas. Much of the palace is in ruins and the 2023 earthquake also hit the restored part; the reception rooms have zellige, stucco and painted cedar ceilings.",
         "come": "From Marrakech over the Tizi n'Tichka pass; visited with a local guide. Ask beforehand which rooms are open.",
         "quando": "Morning.",
         "tempo": "1 hour",
+        "costo": "About 20-50 MAD, €2-5, cash only (from my trip)",
+        "lat": 31.287,
+        "lng": -7.235,
         "consiglio": "The contrast between the mud outside and the decorated interiors is the surprise of the visit."
+      },
+      {
+        "nome": "Ounila Valley and Tamdaght kasbah",
+        "testo": "The road down from Telouet towards Aït Benhaddou follows the Ounila river through red canyons, mud-brick villages and terraced gardens. At Tamdaght, a few kilometres above the ksar, stands another Glaoui kasbah, partly collapsed.",
+        "come": "By car on the paved road between Telouet and Aït Benhaddou, about an hour's drive without stops.",
+        "quando": "Late morning, on the way to the ksar.",
+        "tempo": "1 hour with stops",
+        "costo": "The valley is free",
+        "lat": 31.0855,
+        "lng": -7.146
       },
       {
         "nome": "Aït Benhaddou Ksar",
         "testo": "The fortified mudbrick village on the Ounila river, UNESCO World Heritage since 1987, a set for films from \"Lawrence of Arabia\" to \"Gladiator\". You climb to the top for the view over the valley.",
         "come": "By car from Telouet; from the modern village you cross the river on the footbridge and climb between the houses.",
         "quando": "Morning, for the best light on the facade and no heat.",
-        "tempo": "1-1.5 hours"
+        "tempo": "1-1.5 hours",
+        "costo": "Free entry; some houses ask a few dirhams to go up on their terraces (from my trip)",
+        "orari": "Always open",
+        "url": "https://whc.unesco.org/en/list/444",
+        "lat": 31.0469,
+        "lng": -7.1296
+      },
+      {
+        "nome": "The ksar from the opposite bank",
+        "testo": "The whole ksar can be seen from the bank of the new village, on the other side of the Ounila. From here, at sunset, the rammed-earth façade glows red and the granaries at the top stand out against the sky.",
+        "come": "On foot from the new village, along the river, without crossing the bridge.",
+        "quando": "Sunset.",
+        "tempo": "30 minutes",
+        "costo": "Free",
+        "orari": "Always open",
+        "lat": 31.0452,
+        "lng": -7.131
       },
       {
         "nome": "Taourirt Kasbah in Ouarzazate",
@@ -366,7 +406,38 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "In central Ouarzazate. Visit on your own or with a guide at the entrance.",
         "quando": "Late afternoon, on the way to the valleys. Hours on site.",
         "tempo": "45 minutes",
+        "lat": 30.9201,
+        "lng": -6.8994,
         "consiglio": "The town's film studios are only for film lovers: the kasbah is more interesting."
+      },
+      {
+        "nome": "Atlas Studios",
+        "testo": "The film studios on the edge of Ouarzazate, where the sets of many period films are still standing: Egyptian temples, palaces and fortresses made of plaster and wood. The visit is in a group with a guide, who explains which films were shot on each set.",
+        "come": "On the road to Marrakech, about 5 km from the centre of Ouarzazate; by car or petit taxi.",
+        "quando": "Morning or late afternoon. Some areas may be closed during filming.",
+        "tempo": "1 hour",
+        "lat": 30.9418,
+        "lng": -6.9669,
+        "consiglio": "Mainly worth it for film lovers; with little time, choose the Taourirt Kasbah."
+      },
+      {
+        "nome": "Tifoultoute kasbah",
+        "testo": "A Glaoui kasbah on a rise above the river, a few kilometres west of Ouarzazate, looking over the valley, the palm groves and the Atlas mountains. It gets fewer visitors than the Taourirt Kasbah.",
+        "come": "By car or taxi from Ouarzazate, about 10 minutes.",
+        "quando": "Late afternoon, for the light over the valley.",
+        "tempo": "30 minutes",
+        "lat": 30.9266,
+        "lng": -6.9904
+      },
+      {
+        "nome": "Fint oasis",
+        "testo": "A small palm oasis south of Ouarzazate, hidden among dark rocky hills, with a mud-brick village along the river. You walk among palms and gardens, away from the tour groups.",
+        "come": "By 4x4 or with a guide from Ouarzazate: the last stretch is a dirt track.",
+        "quando": "Morning or late afternoon, outside the hottest hours.",
+        "tempo": "2 hours",
+        "costo": "The oasis is free",
+        "lat": 30.8265,
+        "lng": -6.9511
       }
     ],
     programmi: [
@@ -378,18 +449,32 @@ export const destinazioniMarocco: Destinazione[] = [
           "Lunch along the way",
           "Ksar of Aït Benhaddou"
         ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Marrakech, Tizi n'Tichka pass, Telouet Kasbah, down the Ounila Valley with a stop at Tamdaght, sunset over the ksar from the opposite bank",
+          "Day 2: the ksar of Aït Benhaddou early, before the groups; Atlas Studios, Taourirt and Tifoultoute kasbahs in Ouarzazate, then on towards Skoura or the valleys"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Aït Benhaddou",
         "perChi": "those who want to sleep in the valley",
-        "testo": "Kasbah-hotels a few steps from the ksar, simple and quiet."
+        "testo": "Kasbah hotels a few steps from the ksar, simple and quiet. You get the sunset and the ksar early in the morning, before the coaches from Marrakech arrive.",
+        "fascia": "€35-90"
       },
       {
         "nome": "Ouarzazate",
         "perChi": "those who want more services",
-        "testo": "A nearby town, with hotels in every price range and restaurants."
+        "testo": "The nearby town, about 30 km away, with hotels in every price range, restaurants, ATMs and the airport. Handy for the film studios and the Taourirt Kasbah.",
+        "fascia": "€45-130"
+      },
+      {
+        "nome": "Ounila Valley",
+        "perChi": "those looking for silence and scenery",
+        "testo": "Guesthouses in restored kasbahs in the villages above the ksar, towards Tamdaght. Few services around: dinner is almost always where you sleep."
       }
     ],
     sapori: [
@@ -414,6 +499,46 @@ export const destinazioniMarocco: Destinazione[] = [
       "The Tizi n'Tichka pass is winding and in winter there may be snow or ice.",
       "Guides at Aït Benhaddou ask per-person fees: agree beforehand.",
       "Forgetting to charge power banks before the night in the desert: the camps have no outlets."
+    ],
+    gite: [
+      {
+        "nome": "Skoura and Kasbah Amridil",
+        "distanza": "about 70 km, 1 hour 20",
+        "come": "By car on the road to the valleys, beyond Ouarzazate.",
+        "testo": "A large palm grove dotted with mud-brick kasbahs, including Kasbah Amridil, one of the best preserved in the south, which can be visited inside with its rooms, terraces and old tools."
+      },
+      {
+        "nome": "Dadès Gorge",
+        "distanza": "about 130 km from Ouarzazate, 2 and a half hours",
+        "come": "By car heading east, through Skoura and Kelaat M'Gouna; it is the road to Merzouga.",
+        "testo": "A valley of Berber villages and red rocks shaped by the wind, closing into a gorge climbed by a hairpin road. In Kelaat M'Gouna, along the way, the rose festival takes place in May."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Do you pay to enter the ksar of Aït Benhaddou?",
+        "risposta": "No, entry is free. Some families who still live in the ksar ask a few dirhams to go up on their terraces, and guides have rates to agree beforehand."
+      },
+      {
+        "domanda": "How long does a visit to Aït Benhaddou take?",
+        "risposta": "An hour to an hour and a half to climb between the houses to the granary at the top. With Telouet and the Tizi n'Tichka pass, starting from Marrakech, it takes a full day."
+      },
+      {
+        "domanda": "Can it be done as a day trip from Marrakech?",
+        "risposta": "Yes, but it means 3-4 hours of bends each way over the Tizi n'Tichka pass. If the trip continues towards the desert, it is better to sleep here or in Ouarzazate."
+      },
+      {
+        "domanda": "Is it better to sleep in Aït Benhaddou or Ouarzazate?",
+        "risposta": "In Aït Benhaddou you see the ksar at sunset and early in the morning without the groups. Ouarzazate has more hotels, restaurants and the airport, and is the starting point for the valleys."
+      },
+      {
+        "domanda": "Which films were shot at Aït Benhaddou?",
+        "risposta": "Among the best known are «Lawrence of Arabia», «Gladiator» and some scenes of «Game of Thrones». Many other sets are at the Atlas Studios in Ouarzazate."
+      },
+      {
+        "domanda": "Did the 2023 earthquake damage the monuments?",
+        "risposta": "Yes, especially the Telouet and Taourirt kasbahs, where some rooms may be closed. Ask on site which parts can be visited."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -441,10 +566,10 @@ export const destinazioniMarocco: Destinazione[] = [
     doveDormire:
       "We slept at Camp La Source, a tented camp at the foot of the Erg Chebbi dunes: large, well-kept tents, family management described as very welcoming and a starry sky far from any artificial light.\n\nBudget: Hostel La Liberte Merzouga, Merzouga Camp and Hostel · mid-range: Auberge La Khaima, Nomad Palace Camp · luxury (not over the top): Merzouga Luxury Desert Camp, Sahara Desert Luxury Camp.",
     doveMangiare: 'Dinner at the tented camp; allergies and intolerances can be flagged in advance.',
-    comeArrivare: 'About 3h from Aït Benhaddou to the Todra Gorge, then about 3h to Erg Chebbi.',
+    comeArrivare: 'About 3h from Aït Benhaddou to the Todra Gorge, then about 3h to Erg Chebbi. From Fès it is about 460 km, 8 hours on the road across the Middle Atlas and the Ziz valley; from Errachidia, which has the nearest airport, about 125 km and 2 hours. Supratours buses link Merzouga with Fès and Marrakech, with evening departures. The road is paved up to the village; the last stretch to the camps is by 4x4 or camel, and the car is left at the auberge.',
     comeSpostarsi: 'Camel and quad in the desert.',
     periodoMigliore: 'early May, nights still cool',
-    costi: 'Quad 350 MAD per person.',
+    costi: 'Quad 350 MAD per person. Daily budget per person, as a guide: low €40-60 (auberge in Hassilabied or simple camp with camel and dinner); mid €90-140 (mid-range camp with dinner and breakfast, quad, 4x4 tour); high from €200 (luxury camp with en-suite tent and private transfers).',
     erroriDaEvitare: ["Going into the desert without a turban or pashmina: it's better to buy them beforehand at the local market, they protect against sand and the night cold", "Arriving in Merzouga without a supply of alcohol and snacks: there's very little to be found in the desert"],
     miaEsperienza:
       "The starry sky at night, far from any artificial light, was one of the best moments of the trip. The camel ride at dawn, with the dunes changing color in the sunlight, was a fitting end to that night.",
@@ -455,7 +580,21 @@ export const destinazioniMarocco: Destinazione[] = [
         "testo": "A canyon in the High Atlas: in the last 600 metres the smooth walls rise to about 160 metres and the floor narrows to around ten metres. You walk along the bottom beside the stream.",
         "come": "By car on the road towards Merzouga; you stop in a car park and walk.",
         "quando": "Morning, before the groups.",
-        "tempo": "30 minutes"
+        "tempo": "30 minutes",
+        "costo": "Free entry (from my trip)",
+        "orari": "Always open",
+        "lat": 31.5876,
+        "lng": -5.5919
+      },
+      {
+        "nome": "Tinghir palm grove",
+        "testo": "The long oasis of palms, olive trees and gardens along the Todgha river, just before the gorge. From the roadside viewpoint you see the mud-brick villages and the old ksar of Tinghir above the fields.",
+        "come": "Viewpoint along the road to the gorge; to walk through the fields, a local guide helps.",
+        "quando": "Morning, before the gorge.",
+        "tempo": "20 minutes at the viewpoint, 1-2 hours on foot",
+        "costo": "Free",
+        "lat": 31.5454,
+        "lng": -5.5718
       },
       {
         "nome": "Erg Chebbi and the night in the desert",
@@ -463,7 +602,20 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "The camel ride leaves from the village to the camp.",
         "quando": "Sunset and dawn; the best season is October to April.",
         "tempo": "One night",
+        "lat": 31.1382,
+        "lng": -3.9708,
         "consiglio": "Bring a turban or pashmina for sand and the night cold, and charge your phone beforehand."
+      },
+      {
+        "nome": "The big dune",
+        "testo": "The highest dune of Erg Chebbi, about 150 metres, south of Merzouga. The climb through the sand is tiring, but from the crest you see the whole erg and the sharp edge of the hamada, the stony desert.",
+        "come": "On foot from the camp or the village, or by camel to the base.",
+        "quando": "At dawn or sunset; in summer avoid the middle of the day.",
+        "tempo": "1-2 hours there and back",
+        "costo": "Free",
+        "lat": 31.0777,
+        "lng": -3.9924,
+        "consiglio": "Go barefoot or in closed shoes: sandals fill with sand, and at midday the sand is scorching."
       },
       {
         "nome": "Quad in the desert",
@@ -471,7 +623,18 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "Book at the hotel or camp.",
         "quando": "Morning or late afternoon.",
         "tempo": "1-2 hours",
-        "costo": "350 MAD per person (from my trip)"
+        "costo": "350 MAD per person, about €32 (from my trip)",
+        "lat": 31.0999,
+        "lng": -4.0141
+      },
+      {
+        "nome": "Hassilabied",
+        "testo": "The village on the northern edge of Erg Chebbi, with auberges built right up against the dunes. It is quieter than Merzouga and handy for setting off by camel towards the camps.",
+        "come": "On a paved road, a few kilometres north of Merzouga.",
+        "quando": "Afternoon, before leaving for the camp.",
+        "tempo": "Half an hour, or a night in an auberge",
+        "lat": 31.1383,
+        "lng": -4.0259
       },
       {
         "nome": "Khamlia and Gnawa music",
@@ -480,7 +643,39 @@ export const destinazioniMarocco: Destinazione[] = [
         "quando": "Afternoon, before leaving for the desert camp.",
         "tempo": "1 hour",
         "costo": "Donation for the musicians",
+        "lat": 31.0351,
+        "lng": -4.0073,
         "consiglio": "Leave a donation or buy a CD: that is how the group makes a living."
+      },
+      {
+        "nome": "Lake Dayet Srji",
+        "testo": "A seasonal lake west of Merzouga that fills after rainy winters and attracts flamingos and other migratory birds. In dry years it stays a flat expanse of clay.",
+        "come": "By 4x4 or quad from Merzouga, often as part of the tour around Erg Chebbi.",
+        "quando": "Late winter and spring, after the rains.",
+        "tempo": "30 minutes",
+        "costo": "Free",
+        "lat": 31.0958,
+        "lng": -4.054
+      },
+      {
+        "nome": "Rissani souk",
+        "testo": "Rissani is the small town at the entrance to the Tafilalet, cradle of the Alaouite dynasty that still rules Morocco today. Its souk is one of the liveliest markets in the south: spices, dates, fabrics and, on market days, the donkey pen and the livestock market.",
+        "come": "By car from Merzouga, about 40 minutes. Go early for the animal market.",
+        "quando": "Tuesday, Thursday or Sunday morning.",
+        "tempo": "1-2 hours",
+        "costo": "Free",
+        "orari": "Market days Tuesday, Thursday and Sunday, from morning to early afternoon; on other days only some shops are open",
+        "lat": 31.281,
+        "lng": -4.2662
+      },
+      {
+        "nome": "Mausoleum of Moulay Ali Cherif and Sijilmasa",
+        "testo": "The mausoleum of the ancestor of the Alaouite dynasty, on the edge of Rissani: the shrine is reserved for Muslims, but from outside you can see the courtyards and the decorated gates. Nearby lie the ruins of Sijilmasa, the caravan city founded in the 8th century and for centuries the gateway of the gold trade across the Sahara.",
+        "come": "A few minutes by car from the centre of Rissani. Only mounds of earth remain of Sijilmasa's walls: a guide is needed to make sense of them.",
+        "quando": "Morning, together with the souk.",
+        "tempo": "1 hour",
+        "lat": 31.2796,
+        "lng": -4.253
       }
     ],
     programmi: [
@@ -490,18 +685,37 @@ export const destinazioniMarocco: Destinazione[] = [
           "Day 1: Todra Gorges, then transfer to Merzouga, camel at sunset, night at the camp",
           "Day 2: dawn over the dunes, return"
         ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Tinghir palm grove and Todra Gorge, arrival in Merzouga or Hassilabied, night in an auberge",
+          "Day 2: Rissani souk (Tuesday, Thursday or Sunday) and the mausoleum of Moulay Ali Cherif, afternoon in Khamlia, camel at sunset and night at the camp",
+          "Day 3: dawn on the big dune, quad or 4x4 tour with Lake Dayet Srji, departure"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Tented camp at Erg Chebbi",
         "perChi": "those who want the night in the desert",
-        "testo": "Simple or more comfortable tents, with dinner and breakfast. Little electricity."
+        "testo": "Simple or more comfortable tents, with dinner and breakfast. Little electricity.",
+        "fascia": "€80-160"
       },
       {
         "nome": "Hotel in Merzouga",
         "perChi": "those who prefer a room",
         "testo": "Hotels and kasbahs with a pool, a few minutes from the dunes."
+      },
+      {
+        "nome": "Hassilabied",
+        "perChi": "those who want the dunes outside the window",
+        "testo": "Mud-brick auberges right against the erg, quieter than Merzouga village; many arrange the camel and a camp for the night."
+      },
+      {
+        "nome": "Rissani and Erfoud",
+        "perChi": "those arriving late or looking for lower prices",
+        "testo": "Small towns with hotels, banks and markets, 40-50 minutes from the dunes. Convenient as a stop, but you only see the desert by driving there."
       }
     ],
     sapori: [
@@ -527,6 +741,46 @@ export const destinazioniMarocco: Destinazione[] = [
       "Arriving in Merzouga without a stock of alcohol and snacks: in the desert you find few.",
       "Nights are cold even in spring: bring warm layers.",
       "Check what the camel and quad cost before signing: prices vary."
+    ],
+    gite: [
+      {
+        "nome": "Erfoud",
+        "distanza": "about 50 km, 50 minutes",
+        "come": "By car or grand taxi heading north.",
+        "testo": "The fossil town: in the workshops, slabs of stone full of ammonites and orthoceras are cut and polished into tables, basins and souvenirs. In autumn it hosts the date festival."
+      },
+      {
+        "nome": "Dadès Gorge",
+        "distanza": "about 70 km from Tinghir, 1 and a half hours",
+        "come": "By car heading west from Tinghir, on the road to Ouarzazate.",
+        "testo": "A wider and greener valley than the Todra, with Berber villages, red rocks shaped by the wind and a hairpin road climbing into the gorge. It pairs well with the Todra for those coming from Ouarzazate."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How long is the camel ride to the camp?",
+        "risposta": "Usually an hour or a little more on the way out, at sunset, and the same on the way back at dawn. The camel is normally included in the night at the camp."
+      },
+      {
+        "domanda": "Is it cold at night in the desert?",
+        "risposta": "Yes, even in spring. From November to February nights can get close to freezing: bring a fleece, a jacket and a turban or pashmina."
+      },
+      {
+        "domanda": "When is the best time for Merzouga?",
+        "risposta": "October to April, with mild days. In July and August daytime temperatures often exceed 40 degrees; in early May the nights are still cool."
+      },
+      {
+        "domanda": "Do the camps have bathrooms and electricity?",
+        "risposta": "It depends on the category: upmarket camps have a bathroom in the tent, simple ones shared bathrooms. Sockets are few or none, so arrive with charged power banks."
+      },
+      {
+        "domanda": "Quad or camel?",
+        "risposta": "The camel is the classic way to reach the camp; the quad, 350 MAD per person, is an extra hour or two among the dunes. Those with a licence can ask for a motorbike, to be booked a few days ahead."
+      },
+      {
+        "domanda": "Can you get to Merzouga without an organised tour?",
+        "risposta": "Yes: the road is paved up to the village and there are Supratours buses. Almost all auberges and camps arrange the camel and the transfer to the dunes."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: ['notte-deserto-erg-chebbi', 'gole-todra', 'quad-deserto-merzouga'],
@@ -774,10 +1028,10 @@ export const destinazioniMarocco: Destinazione[] = [
     doveDormire:
       "We spent one night at Maison De Sud, right in the old town, a few steps from the souks and the port: a house with character, with handcrafted decor and, according to the reviews, very attentive staff. The rooms are small, and at night you hear the calls to prayer, which is normal in the heart of the medina.\n\nBudget: La Smala, Riad Al Madina · mid-range: Lyon Mogador, Riad Chakir Mogador · luxury (not over the top): Heure Bleue Palais, Riad Dar Maya.",
     doveMangiare: 'Triskala, La Table by Madada or Des Rêves.',
-    comeArrivare: 'About 2h30 from Agadir via Taghazout.',
+    comeArrivare: 'About 2h30 from Agadir via Taghazout. From Marrakech it is about 185 km, almost 3 hours on the road across the argan plain; from Agadir about 175 km along the coast. Supratours and CTM buses link Marrakech and Essaouira several times a day and arrive just outside the medina. Essaouira-Mogador airport, about 15 km south, has few direct flights. Cars cannot enter the medina: park outside the walls and continue on foot.',
     comeSpostarsi: 'On foot in the medina.',
     periodoMigliore: 'late afternoon, for the guided tour in the best light',
-    costi: 'Hammam 250 MAD per person; shopping generally cheaper than in Marrakech.',
+    costi: 'Hammam 250 MAD per person; shopping generally cheaper than in Marrakech. Daily budget per person, as a guide: low €30-50 (simple riad in the medina, fish at the port stalls, everything on foot); mid €80-130 (boutique riad, hammam, restaurant dinners, quad or horse at Diabat); high from €200 (luxury riad or seafront hotel, private kitesurf lessons, driver).',
     erroriDaEvitare: [],
     miaEsperienza:
       "After days of van, desert and sightseeing, the hour at the hammam at Kenza was one of the few truly relaxing moments of the trip, and the white-and-blue medina of Essaouira remains one of the loveliest atmospheres in Morocco.",
@@ -789,6 +1043,11 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "On foot: you enter through the main gates or from the port.",
         "quando": "Late afternoon, with better light.",
         "tempo": "2-3 hours",
+        "costo": "Free entry; the guided tour is paid with a tip of 150-200 MAD in total, about €14-19 (from my trip)",
+        "orari": "Always open",
+        "url": "https://whc.unesco.org/en/list/753",
+        "lat": 31.5133,
+        "lng": -9.7688,
         "consiglio": "A guided walking tour gives you a good sense of direction."
       },
       {
@@ -796,7 +1055,69 @@ export const destinazioniMarocco: Destinazione[] = [
         "testo": "The port with the fishermen's blue boats and the Sqala, the bastions with cannons also used as a Game of Thrones set, with gulls and fish stalls.",
         "come": "On foot from the medina.",
         "quando": "Morning, when the trawlers arrive, and at sunset.",
-        "tempo": "1 hour"
+        "tempo": "1 hour",
+        "lat": 31.51,
+        "lng": -9.7736
+      },
+      {
+        "nome": "Skala de la Ville",
+        "testo": "The 18th-century bastion on the north side of the medina, with its row of bronze cannons aimed at the ocean and the waves breaking under the walls. Orson Welles shot scenes of his «Othello» here. In the vaults below the ramparts, the thuya woodcarvers are at work.",
+        "come": "On foot from the medina, up the Skala street, near the museum.",
+        "quando": "At sunset, when the sun goes down over the ocean.",
+        "tempo": "30 minutes",
+        "costo": "Free",
+        "lat": 31.5142,
+        "lng": -9.7724
+      },
+      {
+        "nome": "Place Moulay Hassan",
+        "testo": "The square between the medina and the port, with open-air cafés and fish restaurants. It is the town's meeting point and, in June, the main stage of the Gnaoua Festival.",
+        "come": "On foot from the medina or the port.",
+        "quando": "Morning for a coffee, evening for the atmosphere.",
+        "tempo": "30 minutes",
+        "costo": "Free",
+        "orari": "Always open",
+        "lat": 31.5117,
+        "lng": -9.772
+      },
+      {
+        "nome": "Sidi Mohammed Ben Abdallah Museum",
+        "testo": "The town's ethnographic museum, in a 19th-century house in the medina: musical instruments, Berber jewellery, carpets, weapons and thuya-wood objects, with a section on Gnawa music. In 2026 a project began to restore and relaunch it.",
+        "come": "On foot, on rue Laalouj, a few steps from the Skala de la Ville.",
+        "quando": "In the hot hours or when the wind makes the beach unpleasant.",
+        "tempo": "45 minutes",
+        "lat": 31.5139,
+        "lng": -9.7714,
+        "consiglio": "Because of the works, ask the riad whether it is open before going."
+      },
+      {
+        "nome": "Dar Souiri",
+        "testo": "The town's cultural space, in a traditional house on avenue du Caire: it hosts exhibitions, concerts and talks, especially during the festivals. Worth a look at the courtyard in passing.",
+        "come": "On foot in the medina, near Place Moulay Hassan.",
+        "quando": "In the evening, when there is a concert or an exhibition.",
+        "tempo": "20 minutes",
+        "lat": 31.5116,
+        "lng": -9.7701
+      },
+      {
+        "nome": "Mellah and Bayt Dakira",
+        "testo": "The old Jewish quarter in the north-east corner of the medina: in the 19th century a large share of Essaouira's inhabitants were Jewish. In the house of the Simon Attias synagogue is Bayt Dakira, the «house of memory» opened in 2020, with photographs, clothes and objects of the community.",
+        "come": "On foot from Bab Doukkala or from the medina's main street.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "lat": 31.5157,
+        "lng": -9.7671
+      },
+      {
+        "nome": "Bab Doukkala",
+        "testo": "The north-east gate of the medina, where the main street begins and crosses the town to the port. Around it are fruit and spice stalls and, just outside the walls, the old cemeteries.",
+        "come": "By taxi to the gate, then on foot into the medina.",
+        "quando": "Morning, when the market is busiest.",
+        "tempo": "20 minutes",
+        "costo": "Free",
+        "orari": "Always open",
+        "lat": 31.5161,
+        "lng": -9.7658
       },
       {
         "nome": "Hammam",
@@ -804,7 +1125,7 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "Book ahead at a venue in the medina.",
         "quando": "Afternoon.",
         "tempo": "1-1.5 hours",
-        "costo": "250 MAD per person at Kenza (from my trip)",
+        "costo": "250 MAD per person for one hour at Kenza, about €23 (from my trip)",
         "consiglio": "Perfect after days of van and visits."
       },
       {
@@ -812,7 +1133,9 @@ export const destinazioniMarocco: Destinazione[] = [
         "testo": "Horse and quad rides along the sandy coast towards Diabat, about 5 km south, near the ruins of Bordj El Berod.",
         "come": "By taxi from the medina.",
         "quando": "Late afternoon.",
-        "tempo": "1-2 hours"
+        "tempo": "1-2 hours",
+        "lat": 31.4818,
+        "lng": -9.7649
       },
       {
         "nome": "Beach and kitesurfing",
@@ -820,15 +1143,45 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "On foot from the medina heading south. Kite schools and rental on the beach.",
         "quando": "Afternoon, when the wind is steadier.",
         "tempo": "Half a day",
+        "costo": "Free beach",
+        "orari": "Always open",
+        "lat": 31.4993,
+        "lng": -9.7642,
         "consiglio": "For a kite lesson choose a licensed school with certified instructors, and ask what the insurance covers."
+      },
+      {
+        "nome": "Mogador Island",
+        "testo": "The island facing the bay, where purple dye was produced in ancient times and where a nature reserve now protects Eleonora's falcon, which nests here in summer. Landing is not allowed without a permit: it is seen from the beach or the ramparts.",
+        "come": "Visible from the beach towards Diabat and from the port's Skala.",
+        "quando": "Late afternoon, in the low light.",
+        "tempo": "A stop during the walk",
+        "lat": 31.4967,
+        "lng": -9.7867
       }
     ],
     programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: port and fish auction, the port's Skala",
+          "Lunch of grilled fish at the port stalls",
+          "Afternoon: medina, Mellah and Skala de la Ville",
+          "Sunset on the ramparts and dinner in the medina"
+        ]
+      },
       {
         "titolo": "2 days",
         "tappe": [
           "Day 1: arrival, medina and harbor, fish dinner",
           "Day 2: morning at the market, hammam, afternoon at Diabat"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: port, Place Moulay Hassan, guided tour of the medina, sunset on the Skala de la Ville",
+          "Day 2: Mellah and Bayt Dakira, museum, afternoon at the hammam and dinner in the medina",
+          "Day 3: quad or horse at the Ranch de Diabat, beach walk to Diabat with the view of Mogador Island, or half a day in Sidi Kaouki"
         ]
       }
     ],
@@ -836,12 +1189,24 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         "nome": "Medina",
         "perChi": "those who want to be inside the city",
-        "testo": "Riads and guesthouses in the white alleys, very close to everything. Small rooms, but the atmosphere is unique."
+        "testo": "Riads and guesthouses in the white alleys, very close to everything. Small rooms, but the atmosphere is unique.",
+        "fascia": "€40-120"
+      },
+      {
+        "nome": "Seafront",
+        "perChi": "those who want beach and wind",
+        "testo": "Modern hotels facing the sea, larger and with parking.",
+        "fascia": "€20-50"
       },
       {
         "nome": "Seafront",
         "perChi": "those who want beach and wind",
         "testo": "Modern hotels facing the sea, larger and with parking."
+      },
+      {
+        "nome": "Sidi Kaouki",
+        "perChi": "those who come for surfing and quiet",
+        "testo": "A coastal village about 25 km south, with guesthouses and surf schools facing an open beach. Few restaurants: a car is needed for the medina."
       }
     ],
     sapori: [
@@ -866,6 +1231,52 @@ export const destinazioniMarocco: Destinazione[] = [
       "The strong wind (trade winds) often makes the seafront cold: bring a jacket even in summer.",
       "Shopping in Essaouira generally costs less than in Marrakech, but the price is still negotiated.",
       "Avoid unofficial guides in the street."
+    ],
+    gite: [
+      {
+        "nome": "Sidi Kaouki",
+        "distanza": "about 25 km, 25 minutes",
+        "come": "By car or grand taxi heading south along the coast.",
+        "testo": "A long windswept beach popular with surfers and kitesurfers, with the small white shrine of the saint who gives the village its name. Horse and camel rides are offered on the sand."
+      },
+      {
+        "nome": "Moulay Bouzerktoun",
+        "distanza": "about 30 km, 30 minutes",
+        "come": "By car or grand taxi heading north, on the coast road to Safi.",
+        "testo": "A fishing village on a windy bay, one of Morocco's best-known spots for wave windsurfing and kitesurfing. Even without a board, the coast road and a fish lunch are worth it."
+      },
+      {
+        "nome": "Argan groves and cooperatives",
+        "distanza": "from 20 km on, on the road to Marrakech",
+        "come": "Along the road to Marrakech, by car or as a stop on the way back.",
+        "testo": "The plain of argan trees, which grow almost only in this part of Morocco. In the women's cooperatives you see how the kernels are cracked and the oil pressed; on the trees along the road there are often goats placed there for photos, in exchange for a few dirhams."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Essaouira?",
+        "risposta": "Two days: one for the medina, port and ramparts, one for the hammam, the beach and Diabat. A third day adds Sidi Kaouki or the argan cooperatives."
+      },
+      {
+        "domanda": "Can you swim in Essaouira?",
+        "risposta": "Yes, but the Atlantic is cold here and the trade winds blow hard for much of the year. The bay is better suited to kitesurfing, windsurfing and walks than to a day under a beach umbrella."
+      },
+      {
+        "domanda": "When is the Gnaoua Festival?",
+        "risposta": "Every year in June, for a few days, with concerts on Place Moulay Hassan and on the beach. During the festival, medina accommodation must be booked months ahead."
+      },
+      {
+        "domanda": "Can Essaouira be done as a day trip from Marrakech?",
+        "risposta": "It can, but it is almost 3 hours each way. With at least one night you see the medina at sunset and the port in the morning, when the fishing boats come in."
+      },
+      {
+        "domanda": "Do you need a guide in the Essaouira medina?",
+        "risposta": "No, the medina is small with straight streets, so it is hard to get lost. A tour of an hour and a half helps to understand its history; avoid people offering themselves as guides in the street."
+      },
+      {
+        "domanda": "Where to eat fish in Essaouira?",
+        "risposta": "At the port stalls you choose the fish and they grill it on the spot: agree the price per kilo first. For dinner in the medina there are Triskala, La Table by Madada and Des Rêves."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: ['hammam-essaouira'],
