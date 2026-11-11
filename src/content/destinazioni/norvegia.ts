@@ -431,10 +431,10 @@ export const destinazioniNorvegia: Destinazione[] = [
       'Ho dormito in un appartamento con vista sul porto al Nordis Apartment: finestroni, terrazza panoramica, angolo cottura. Su Booking.com ha un punteggio di 8,7/10 (417 recensioni) e 9,7/10 per la posizione — numeri che confermano la mia impressione: spazi ampi e puliti, vista che da sola vale il soggiorno, comodo per chi vuole cucinare la sera invece di uscire sempre.\n\nAlternative a Svolvær. Economiche: Lofoten Feriesenter (campeggio e cabine, da circa 200 NOK a persona), Lofoten Sommerhotell og Vandrerhjem (ostello a Kabelvåg, sauna e colazione inclusa) · fascia media (qui rientra il Nordis Apartment scelto): Thon Hotel Lofoten (centrale, vista sul porto) · fascia alta senza esagerare: Thon Hotel Svolvær (grande hotel sul lungomare, binocolo in ogni stanza), Svinøya Rorbuer (rorbu storici con cucina propria, il più quotato di Svolvær su Tripadvisor).',
     doveMangiare:
       'Bacalo per una cena nella media. Paleo Arctic è stato il ristorante migliore di tutto il viaggio: prezzi un po\' sopra la media, ma qualità molto più alta. Va prenotato per tempo.',
-    comeArrivare: 'Da Bodø: circa 3h15 di guida fino a Bognes, traghetto Bognes-Lødingen (arrivare con 40 minuti di anticipo), poi altre 1h40 d\'auto fino a Svolvær.',
+    comeArrivare: "Da Bodø: circa 3h15 di guida fino a Bognes, traghetto Bognes-Lødingen (arrivare con 40 minuti di anticipo), poi altre 1h40 d'auto fino a Svolvær. Il traghetto dura circa un'ora e non si prenota: si entra in ordine di arrivo e il pedaggio si paga con l'AutoPASS o a bordo. In alternativa si arriva da sud con il traghetto Bodø-Moskenes (circa 3 ore e un quarto; l'auto paga intorno ai 600 NOK più la prenotazione del posto, i passeggeri viaggiano gratis) e poi si guida per circa 2 ore lungo la E10 da Reine a Svolvær.",
     comeSpostarsi: 'Auto a noleggio.',
     periodoMigliore: 'ci sono stato in estate; per gli altri mesi non ho un riferimento diretto',
-    costi: 'non mi sono segnato i costi di questa tappa',
+    costi: "Non mi sono segnato i costi di questa tappa. Riferimenti 2026: RIB al Trollfjord 1.195 NOK (circa 100 €), Magic Ice 325 NOK, musei di Kabelvåg 130-160 NOK. Indicativamente, a persona al giorno: 80-120 € con campeggio o ostello e spesa al supermercato; 180-260 € con appartamento o hotel in due e una cena fuori; oltre 350 € con rorbu curato, ristoranti ed escursioni tutti i giorni.",
     erroriDaEvitare: ['Prenotare per tempo sia il Trollfjord sia una cena da Paleo Arctic: sono le due esperienze più richieste della zona'],
     miaEsperienza:
       'Svolvær è stata la base giusta per le prime giornate: comoda per il Trollfjord e per Henningsvær, e lì abbiamo fatto la cena migliore di tutto il viaggio, al Paleo Arctic.',
@@ -446,6 +446,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Sera, per la luce e il pesce in banchina.",
         tempo: "1 ora",
         costo: "ingresso libero",
+        lat: 68.23215,
+        lng: 14.57516,
         consiglio: "Appartamento con vista sul porto: scelta pratica per cucinare e riposare."
       },
       {
@@ -453,6 +455,11 @@ export const destinazioniNorvegia: Destinazione[] = [
         testo: "Un fiordo stretto di circa 2 km, con pareti ripide e un'imboccatura larga un centinaio di metri. In estate il giro in RIB (gommone veloce) è il modo più diffuso per entrarci.",
         come: "Escursione prenotata con operatore da Svolvær.",
         quando: "Estate, con cielo sereno.",
+        tempo: "2 ore",
+        costo: "1.195 NOK adulti, 950 NOK bambini, circa 100 € (Lofoten Explorer, 2026)",
+        lat: 68.3628,
+        lng: 14.9361,
+        url: "https://lofoten-explorer.no",
         consiglio: "Prenotare in anticipo: i RIB si riempiono."
       },
       {
@@ -461,6 +468,9 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Sentiero dal paese, ben segnato ma ripido.",
         quando: "Giornata sgombra da nuvole.",
         tempo: "3-4 ore",
+        costo: "gratuito",
+        lat: 68.24632,
+        lng: 14.58847,
         consiglio: "Non è per chi soffre di vertigini."
       },
       {
@@ -469,8 +479,91 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "In auto da Svolvær; Kabelvåg è vicinissima, Borg più lontano, verso ovest.",
         quando: "Giorno pieno.",
         tempo: "2-3 ore",
+        costo: "Lofotmuseet 130 NOK, circa 11 €; Lofotr 210 NOK da metà settembre a fine dicembre 2026, intorno ai 250 NOK in alta stagione",
+        orari: "Lofotmuseet: da settembre ad aprile tutti i giorni 11-16, chiuso 24, 25 e 31 dicembre. Lofotr: tutti i giorni dal 1° maggio al 15 settembre; novembre-dicembre 2026 mercoledì e sabato 11-17",
+        lat: 68.20697,
+        lng: 14.45292,
         url: "https://lofotr.no",
         consiglio: "Il Lofotr Viking Museum si visita in autonomia; in estate ci sono attività dal vivo."
+      },
+      {
+        nome: "Lofotakvariet",
+        testo: "L'acquario delle Lofoten, nel vecchio porto di Kabelvåg: vasche con i pesci del mare intorno alle isole, foche e lontre. Il momento più vivace è l'alimentazione delle foche.",
+        come: "In auto, 8 minuti da Svolvær (5 km); si parcheggia davanti all'acquario.",
+        quando: "All'ora dell'alimentazione: 12 e 16 d'estate, 12 e 15 da settembre ad aprile.",
+        tempo: "1-1,5 ore",
+        costo: "160 NOK adulti, 100 NOK bambini 3-15 anni, circa 14 € (2026); biglietto combinato SKREI 375 NOK",
+        orari: "maggio-agosto tutti i giorni 10-18; settembre-novembre e febbraio-aprile 11-16; chiuso dicembre e gennaio",
+        lat: 68.2074,
+        lng: 14.4495,
+        url: "https://www.museumnord.no/en/our-venues/lofotakvariet/",
+        consiglio: "Il biglietto SKREI vale anche per il Lofotmuseet e la Galleri Espolin, a poche centinaia di metri: si fanno tutti e tre in una mattina."
+      },
+      {
+        nome: "Galleri Espolin",
+        testo: "La galleria dedicata a Kaare Espolin Johnson, l'artista che ha raccontato in bianco e nero la vita dei pescatori e il mare del nord. Un edificio moderno a Storvågan, accanto al Lofotmuseet.",
+        come: "In auto da Svolvær, 7-8 minuti; parcheggio comune con il Lofotmuseet.",
+        quando: "Mattina, insieme agli altri musei di Kabelvåg.",
+        tempo: "45 minuti",
+        costo: "130 NOK adulti, 70 NOK bambini 5-15 anni, circa 11 € (dal 1° giugno 2026)",
+        orari: "maggio-agosto tutti i giorni 10-18; settembre-aprile 11-16, chiuso 24, 25 e 31 dicembre",
+        lat: 68.20806,
+        lng: 14.45139,
+        url: "https://www.museumnord.no/en/our-venues/galleri-espolin/"
+      },
+      {
+        nome: "Vågan kirke (Lofotkatedralen)",
+        testo: "La grande chiesa di legno di Kabelvåg, del 1898, chiamata «cattedrale delle Lofoten» per le dimensioni. Fu costruita così grande per i pescatori che arrivavano a migliaia per la stagione del merluzzo.",
+        come: "In auto lungo la E10, all'ingresso di Kabelvåg arrivando da Svolvær.",
+        quando: "Di giorno; dall'esterno si vede a qualsiasi ora.",
+        tempo: "30 minuti",
+        lat: 68.2157,
+        lng: 14.4832
+      },
+      {
+        nome: "Lofoten Krigsminnemuseum",
+        testo: "Un museo privato sulla Seconda guerra mondiale nel nord della Norvegia, fitto di uniformi, oggetti e documenti, compresi quelli del raid britannico sulle Lofoten del 1941. Piccolo e affollato di pezzi, piace a chi ama la storia.",
+        come: "A piedi dal porto, in centro.",
+        quando: "In una giornata di pioggia, o dopo cena: è aperto anche la sera.",
+        tempo: "1 ora",
+        costo: "150 NOK adulti, 50 NOK bambini, circa 13 €",
+        orari: "lunedì-venerdì 11-16, sabato 11-15, domenica 12-15; tutti i giorni anche 18.30-22.15",
+        lat: 68.23116,
+        lng: 14.56482,
+        url: "https://lofotenkrigmus.no"
+      },
+      {
+        nome: "Magic Ice Lofoten",
+        testo: "Una sala di sculture di ghiaccio sul porto, con un bar dove si beve in un bicchiere di ghiaccio. È un'attrazione turistica, ma con la pioggia è una delle poche cose da fare al chiuso a Svolvær.",
+        come: "A piedi dal centro; poncho e guanti vengono forniti all'ingresso.",
+        quando: "Sera o giornata di maltempo.",
+        tempo: "45 minuti",
+        costo: "325 NOK con drink di benvenuto, circa 28 €",
+        orari: "dal 1° giugno al 1° settembre tutti i giorni 12-22; d'inverno 14-22, dal 18 settembre dalle 18",
+        lat: 68.22953,
+        lng: 14.56676,
+        url: "https://www.magicice.no/listings/svolvaer-lofoten/"
+      },
+      {
+        nome: "Svinøya",
+        testo: "L'isolotto collegato al centro da un ponte, dove è nata Svolvær: case rosse dei pescatori, rastrelliere del merluzzo e rorbuer storici oggi affittati ai viaggiatori. È l'angolo più fotogenico del paese.",
+        come: "A piedi dal centro, una decina di minuti attraverso il ponte.",
+        quando: "Sera, con la luce bassa sul porto.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        lat: 68.23396,
+        lng: 14.57969
+      },
+      {
+        nome: "Fløya e Djevelporten",
+        testo: "La montagna alle spalle di Svolvær, la stessa della Svolværgeita. Il sentiero passa sotto Djevelporten, la «porta del diavolo», un masso incastrato tra due pareti di roccia, e continua fino in cima a Fløya con la vista sul porto e sulle isole.",
+        come: "Si parte dal quartiere residenziale a nord del centro; sentiero ripido, con tratti a gradini e roccia.",
+        quando: "Giornata senza nuvole, mai con la roccia bagnata.",
+        tempo: "mezza giornata",
+        costo: "gratuito",
+        lat: 68.25084,
+        lng: 14.59798,
+        consiglio: "Chi non vuole arrivare in vetta può fermarsi a Djevelporten: la vista sul porto è già ottima."
       }
     ],
     sapori: [
@@ -491,6 +584,106 @@ export const destinazioniNorvegia: Destinazione[] = [
       "In Norvegia le strade delle Lofoten sono strette e con molti ponti: attenzione agli autobus e ai camper.",
       "Prenotare il Trollfjord e le cene con anticipo in estate.",
       "Per l'accesso alla natura vale il diritto di libero accesso, ma niente campeggio vicino a case e bivacchi nei parcheggi dei villaggi."
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: RIB al Trollfjord (2 ore, da prenotare)",
+          "Pranzo in centro e giro di Svinøya e del porto",
+          "Pomeriggio a Kabelvåg: Lofotakvariet, Lofotmuseet e Vågan kirke",
+          "Sera: cena (Paleo Arctic va prenotato) e Krigsminnemuseum o Magic Ice"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Henningsvær (27 minuti d'auto), campo da calcio e canale",
+          "Pranzo sul canale e pomeriggio sul Festvågtind",
+          "Rientro a Svolvær per cena"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Fløya e Djevelporten la mattina",
+          "Pomeriggio al Lofotr Viking Museum di Borg (circa 1 ora d'auto), oppure partenza verso Reine"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro e porto",
+        perChi: "chi vuole ristoranti, negozi e partenze delle escursioni a piedi",
+        testo: "Hotel sul lungomare e appartamenti con vista sul porto, a pochi passi dai RIB del Trollfjord e dai locali.",
+        fascia: "150-300 €"
+      },
+      {
+        nome: "Svinøya",
+        perChi: "chi vuole dormire in un rorbu storico",
+        testo: "Case dei pescatori ristrutturate con cucina, sull'isolotto collegato al centro da un ponte; tranquillo ma a dieci minuti a piedi da tutto.",
+        fascia: "170-300 €"
+      },
+      {
+        nome: "Kabelvåg",
+        perChi: "chi preferisce un paese più quieto o cerca un ostello",
+        testo: "A 5 km da Svolvær, con i musei di Storvågan, la grande chiesa di legno e un ostello estivo con sauna.",
+        fascia: "100-200 €"
+      },
+      {
+        nome: "Campeggi e cabine",
+        perChi: "chi viaggia in tenda, camper o con budget stretto",
+        testo: "Il Lofoten Feriesenter, poco fuori Svolvær, ha piazzole e cabine semplici.",
+        fascia: "da circa 200 NOK a persona (circa 17 €)"
+      }
+    ],
+    gite: [
+      {
+        nome: "Henningsvær",
+        distanza: "23 km, circa 30 minuti in auto",
+        come: "In auto lungo la E10 e poi la strada per Henningsvær, che passa su due ponti.",
+        testo: "Il villaggio dei pescatori con il campo da calcio sullo scoglio, il canale e il sentiero del Festvågtind."
+      },
+      {
+        nome: "Lofotr Viking Museum a Borg",
+        distanza: "55 km, circa 1 ora in auto",
+        come: "In auto verso ovest sulla E10.",
+        testo: "La casa lunga di un capo vichingo ricostruita a grandezza naturale, con navi e attività all'aperto in estate."
+      },
+      {
+        nome: "Reine e Hamnøy",
+        distanza: "121 km, circa 2 ore e 10 in auto",
+        come: "In auto sulla E10 fino all'estremo ovest dell'arcipelago.",
+        testo: "La baia più fotografata delle Lofoten e il Reinebringen. In giornata è una corsa: meglio spostare la base per una o due notti."
+      }
+    ],
+    faq: [
+      {
+        domanda: "Quante notti servono a Svolvær?",
+        risposta: "Due o tre: una giornata per il Trollfjord e Kabelvåg, una per Henningsvær e il Festvågtind, la terza per un sentiero o per il Lofotr Viking Museum."
+      },
+      {
+        domanda: "Meglio dormire a Svolvær o a Reine?",
+        risposta: "Conviene dividere il soggiorno: Svolvær per le isole a est, Reine o Flakstad per quelle a ovest. Sono a circa due ore d'auto, troppe da fare avanti e indietro ogni giorno."
+      },
+      {
+        domanda: "Bisogna prenotare il Trollfjord?",
+        risposta: "D'estate sì, con qualche giorno di anticipo: i RIB hanno pochi posti e si riempiono. Il giro dura circa due ore e le tute termiche sono fornite."
+      },
+      {
+        domanda: "Si può visitare Svolvær senza auto?",
+        risposta: "Il centro, Svinøya e le escursioni in barca sì, perché partono dal porto. Per Kabelvåg, Henningsvær e il resto dell'arcipelago l'auto è quasi indispensabile."
+      },
+      {
+        domanda: "Cosa fare a Svolvær quando piove?",
+        risposta: "I musei di Kabelvåg (acquario, Lofotmuseet, Galleri Espolin), il Krigsminnemuseum, aperto anche la sera, e il Magic Ice. Con la pioggia i sentieri di roccia vanno evitati."
+      },
+      {
+        domanda: "Come si arriva a Svolvær da Bodø?",
+        risposta: "In auto con il traghetto Bognes-Lødingen, circa cinque ore in tutto, oppure con il traghetto Bodø-Moskenes e poi due ore di strada da Reine."
+      }
     ],
     esperienzeSlugs: ['trollfjord-rib'],
     tripSlugs: ['lofoten-estate-2025'],
@@ -515,10 +708,10 @@ export const destinazioniNorvegia: Destinazione[] = [
     ],
     doveDormire: 'Non ho pernottato a Henningsvær: si dorme a Svolvær, a circa 30 minuti d\'auto.',
     doveMangiare: 'Fiskekrogen, sul canale: cibo ottimo, ma meglio prenotare in anticipo, soprattutto per un tavolo vicino alla finestra.',
-    comeArrivare: '30 minuti d\'auto da Svolvær.',
+    comeArrivare: "30 minuti d'auto da Svolvær. Sono 23 km: si segue la E10 verso ovest e poi la strada 816, che entra nel villaggio su due ponti. Si parcheggia a pagamento all'ingresso del paese e da lì si gira tutto a piedi. Dal Lofotr Viking Museum di Borg e dalla parte ovest delle Lofoten si arriva in circa 50 minuti (47 km).",
     comeSpostarsi: 'A piedi, il villaggio è piccolo.',
     periodoMigliore: 'ci sono stato in estate; per gli altri mesi non ho un riferimento diretto',
-    costi: 'non mi sono segnato i costi di questa tappa',
+    costi: "Non mi sono segnato i costi di questa tappa. Il villaggio si gira gratis; si paga il parcheggio all'ingresso. Indicativamente, a persona al giorno: 80-120 € con spesa al supermercato e notte in campeggio; 180-260 € con una notte in rorbu in due e un pranzo sul canale; oltre 350 € con alloggi curati ed escursioni guidate.",
     erroriDaEvitare: ['Non prenotare Fiskekrogen: nelle ore di punta il ristorante si riempie in fretta'],
     miaEsperienza:
       'Henningsvær è stata una delle sorprese del viaggio: il pranzo sul canale, il campo da calcio e, nel pomeriggio, il Festvågtind, un trekking più selvaggio e meno affollato del Reinebringen.',
@@ -530,6 +723,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Mattina presto o sera, con luce morbida.",
         tempo: "30 minuti",
         costo: "ingresso libero",
+        lat: 68.1525,
+        lng: 14.19723,
         consiglio: "Non entrare in campo durante le partite o gli allenamenti."
       },
       {
@@ -539,6 +734,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Mattina, prima dei gruppi.",
         tempo: "1-2 ore",
         costo: "ingresso libero",
+        lat: 68.1529,
+        lng: 14.2008,
         consiglio: "Pranzo da Fiskekrogen sul canale: prenotare e chiedere un tavolo vicino alla finestra."
       },
       {
@@ -548,7 +745,56 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Pomeriggio con cielo limpido.",
         tempo: "3-4 ore",
         costo: "ingresso libero",
+        lat: 68.17806,
+        lng: 14.22527,
         consiglio: "È stata una delle sorprese del viaggio: meno turisti, più silenzio."
+      },
+      {
+        nome: "KaviarFactory",
+        testo: "Una ex fabbrica di caviale sul porto trasformata in sala per l'arte contemporanea, con mostre temporanee di artisti internazionali. Gli spazi industriali bianchi, con le finestre sul mare, valgono la visita quanto le opere.",
+        come: "A piedi nel villaggio, sul lato del porto.",
+        quando: "Di giorno, soprattutto in estate.",
+        tempo: "45 minuti",
+        lat: 68.15528,
+        lng: 14.20129
+      },
+      {
+        nome: "Henningsvær Lysstøperi & Café",
+        testo: "Un laboratorio di candele fatte a mano con un piccolo caffè: si vedono colare le candele e ci si scalda con un dolce tra un giro e l'altro del villaggio.",
+        come: "A piedi, nella parte centrale del villaggio.",
+        quando: "Pausa a metà giro, con il freddo o la pioggia.",
+        tempo: "30 minuti",
+        lat: 68.15446,
+        lng: 14.20207
+      },
+      {
+        nome: "Ponti di Henningsvær",
+        testo: "Due ponti ad arco, aperti nel 1983, uniscono il villaggio all'isola di Austvågøy: il più lungo misura 258 metri. Prima c'era solo un traghetto da Festvåg, e arrivarci passando sopra il mare è già parte della visita.",
+        come: "Sulla strada 816, unica via d'accesso in auto al villaggio.",
+        quando: "Arrivando, con la luce della sera.",
+        tempo: "15 minuti",
+        costo: "gratuito",
+        lat: 68.15972,
+        lng: 14.21472
+      },
+      {
+        nome: "Chiesa di Henningsvær",
+        testo: "Una chiesa di legno del 1974, con 250 posti, sull'isolotto di Heimøya. Da qui si vede il villaggio dall'altro lato del porto.",
+        come: "A piedi dal centro attraverso il porticciolo.",
+        quando: "Di giorno.",
+        tempo: "20 minuti",
+        lat: 68.1518,
+        lng: 14.1991
+      },
+      {
+        nome: "Spiaggia di Rørvik (Rørvikstranda)",
+        testo: "Una spiaggia di sabbia chiara e acqua verde-azzurra sotto le montagne, lungo la E10 tra Kabelvåg e Henningsvær. Accanto c'è un campeggio, ed è la sosta più comoda del tragitto.",
+        come: "In auto da Svolvær lungo la E10 verso ovest.",
+        quando: "Giornata di sole, anche solo per una passeggiata sulla sabbia.",
+        tempo: "30 minuti",
+        costo: "gratuito",
+        lat: 68.20399,
+        lng: 14.23275
       }
     ],
     sapori: [
@@ -564,6 +810,100 @@ export const destinazioniNorvegia: Destinazione[] = [
     attenzioni: [
       "Il parcheggio nel villaggio è piccolo: arrivare presto.",
       "Per il sentiero Festvågtind servono scarpe da trekking: dopo la pioggia è scivoloso."
+    ],
+    programmi: [
+      {
+        titolo: "Mezza giornata",
+        tappe: [
+          "Arrivo da Svolvær passando sui ponti",
+          "Giro del canale e del porto",
+          "Pranzo sul canale (Fiskekrogen va prenotato)",
+          "Campo da calcio e rientro"
+        ]
+      },
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: sosta alla spiaggia di Rørvik lungo la strada",
+          "Canale, KaviarFactory e un caffè al Lysstøperi",
+          "Pranzo sul canale e campo da calcio",
+          "Pomeriggio: Festvågtind (circa 3 ore)"
+        ]
+      },
+      {
+        titolo: "2 giorni con notte nel villaggio",
+        tappe: [
+          "Giorno 1 come sopra, con cena e sera nel villaggio senza gruppi",
+          "Giorno 2: chiesa di Heimøya e porto al mattino presto",
+          "Partenza verso ovest: Lofotr Viking Museum a Borg (50 minuti)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Henningsvær",
+        perChi: "chi vuole il villaggio la sera, quando i gruppi sono partiti",
+        testo: "Rorbuer, piccoli hotel sulle banchine e guesthouse: pochi posti, da prenotare presto in estate.",
+        fascia: "170-300 €"
+      },
+      {
+        nome: "Svolvær",
+        perChi: "chi vuole più scelta e le partenze per il Trollfjord",
+        testo: "A 30 minuti d'auto, con hotel sul porto, appartamenti e i ristoranti migliori della zona.",
+        fascia: "150-300 €"
+      },
+      {
+        nome: "Kabelvåg",
+        perChi: "chi cerca prezzi un po' più bassi a metà strada",
+        testo: "Paese tranquillo a 20 minuti, con musei, un ostello estivo e rorbuer.",
+        fascia: "100-200 €"
+      }
+    ],
+    gite: [
+      {
+        nome: "Svolvær",
+        distanza: "23 km, circa 30 minuti in auto",
+        come: "In auto sulla strada 816 e poi la E10 verso est.",
+        testo: "Il porto principale delle Lofoten, con il Trollfjord in RIB, Svinøya e la montagna della Svolværgeita."
+      },
+      {
+        nome: "Kabelvåg e i musei di Storvågan",
+        distanza: "18 km, circa 20 minuti in auto",
+        come: "In auto verso Svolvær; i musei sono poco prima del paese.",
+        testo: "Acquario, Lofotmuseet e Galleri Espolin con un unico biglietto, più la grande chiesa di legno."
+      },
+      {
+        nome: "Lofotr Viking Museum a Borg",
+        distanza: "47 km, circa 50 minuti in auto",
+        come: "In auto lungo la E10 verso ovest.",
+        testo: "La casa lunga vichinga ricostruita, comoda da abbinare se si prosegue verso Reine."
+      }
+    ],
+    faq: [
+      {
+        domanda: "Quanto tempo serve a Henningsvær?",
+        risposta: "Mezza giornata per il villaggio, il pranzo e il campo da calcio. Con il Festvågtind diventa una giornata intera."
+      },
+      {
+        domanda: "Conviene dormire a Henningsvær?",
+        risposta: "Sì, per vedere il villaggio la sera senza la folla del giorno, ma i posti sono pochi e cari. Altrimenti si dorme a Svolvær, a mezz'ora d'auto."
+      },
+      {
+        domanda: "Dove si parcheggia a Henningsvær?",
+        risposta: "Nel parcheggio a pagamento all'ingresso del paese. Le strade interne sono strette e il villaggio si gira a piedi."
+      },
+      {
+        domanda: "Si può entrare nel campo da calcio?",
+        risposta: "È un campo vero, usato dalla squadra locale: si guarda dal bordo e si evita di entrare durante partite e allenamenti. La foto famosa si fa con il drone."
+      },
+      {
+        domanda: "Il Festvågtind è difficile?",
+        risposta: "Sono 3 km con 500 metri di dislivello, più tecnici del Reinebringen tra roccia e sabbia. In circa 3 ore si fanno salita e discesa; serve una suola che tenga sulla roccia."
+      },
+      {
+        domanda: "Henningsvær o Reine?",
+        risposta: "Sono due cose diverse: Henningsvær è un villaggio da girare a piedi in mezza giornata, Reine è la base per i trekking e le spiagge dell'ovest. In un viaggio di una settimana si fanno entrambi."
+      }
     ],
     esperienzeSlugs: ['festvagtind-trail'],
     tripSlugs: ['lofoten-estate-2025'],
@@ -588,10 +928,10 @@ export const destinazioniNorvegia: Destinazione[] = [
     ],
     doveDormire: 'Non ho pernottato a Reine: si dorme a Nesland/Flakstad, a pochi minuti d\'auto.',
     doveMangiare: 'A Reine non mi sono segnato ristoranti: la Coop Prix del paese è comoda per organizzare un pranzo al sacco prima delle escursioni.',
-    comeArrivare: 'Da Svolvær via Leknes (con tappa al Viking Museum di Borg), circa 55 minuti d\'auto da Svolvær fino a Borg, poi altri 20-30 minuti fino a Reine.',
+    comeArrivare: "Da Svolvær via Leknes (con tappa al Viking Museum di Borg), circa 55 minuti d'auto da Svolvær fino a Borg, poi altri 20-30 minuti fino a Reine. Da Bodø c'è il traghetto per Moskenes, a pochi minuti da Reine: circa 3 ore e un quarto di navigazione, l'auto paga intorno ai 600 NOK più la prenotazione del posto (d'estate da fare sul sito di Torghatten Nord), i passeggeri viaggiano gratis; al porto conviene arrivare 40 minuti prima. Da Svolvær sono 121 km lungo la E10, circa 2 ore e 10 senza soste.",
     comeSpostarsi: 'Parcheggio a pagamento in paese (200 NOK/3h).',
     periodoMigliore: 'Il Reinebringen vale la pena solo con cielo sereno: controllare le previsioni prima di programmare la giornata.',
-    costi: 'Parcheggio 200 NOK/3h.',
+    costi: "Parcheggio 200 NOK/3h. Le scale del Reinebringen sono gratuite. Riferimenti 2026: Lofotr 210 NOK fuori stagione, museo di Å 125 NOK. Indicativamente, a persona al giorno: 80-120 € in campeggio o cabina con spesa al supermercato; 200-280 € con un rorbu in due e una cena fuori; oltre 350 € con rorbu curati e ristorante ogni sera.",
     erroriDaEvitare: [
       'Il Reinebringen richiede un minimo di allenamento per il dislivello; se il cielo è coperto, meglio rimandarlo, perché la vista è tutto',
       'Per il traghetto verso Vindstad/Bunes, arrivare con almeno 30 minuti di anticipo anche con posti riservati',
@@ -605,6 +945,9 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Parcheggio nel villaggio, sentiero ben segnato; salita ripida ma breve.",
         quando: "Con cielo sereno e senza pioggia, per evitare gradini scivolosi. Mattina presto o sera.",
         tempo: "circa 2 ore tra salita, sosta e discesa",
+        costo: "scale gratuite; parcheggio a Reine 200 NOK per 3 ore, circa 17 €",
+        lat: 67.9261,
+        lng: 13.07532,
         consiglio: "Controllare le previsioni prima: con nuvole non si vede nulla dalla cima."
       },
       {
@@ -614,6 +957,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Mattina, con luce morbida.",
         tempo: "1-2 ore",
         costo: "ingresso libero",
+        lat: 67.9324,
+        lng: 13.0887,
         consiglio: "Il supermercato Coop Prix di Reine è comodo per preparare un pranzo al sacco."
       },
       {
@@ -622,6 +967,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Traghetto stagionale da Reine, poi sentiero a piedi.",
         quando: "Estate, con l'orario del traghetto verificato in anticipo.",
         tempo: "mezza giornata",
+        lat: 67.97767,
+        lng: 12.96349,
         consiglio: "Insieme al Reinebringen, è il ricordo che mi sono portato a casa."
       },
       {
@@ -630,8 +977,57 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "In auto da Svolvær; sosta ideale lungo il trasferimento.",
         quando: "Giorno pieno.",
         tempo: "2 ore",
+        costo: "210 NOK adulti, 160 NOK bambini 6-15 anni da metà settembre a fine dicembre 2026, circa 18 €; intorno ai 250 NOK in alta stagione",
+        orari: "tutti i giorni dal 1° maggio al 15 settembre; novembre-dicembre 2026 mercoledì e sabato 11-17, chiuso il 26 dicembre",
+        lat: 68.24399,
+        lng: 13.75686,
         url: "https://lofotr.no",
         consiglio: "Una sosta utile se piove."
+      },
+      {
+        nome: "Sakrisøy",
+        testo: "Un isolotto tra Reine e Hamnøy con i rorbuer dipinti di giallo ocra invece che di rosso, uno degli scorci più fotografati della E10. Sulla banchina c'è il chiosco di pesce Anita's Seafood, con panini, zuppe e sushi vista fiordo.",
+        come: "In auto, 5 minuti da Reine sulla E10; si ordina al bancone.",
+        quando: "A pranzo, d'estate, quando il chiosco è aperto.",
+        tempo: "1 ora con il pranzo",
+        lat: 67.94109,
+        lng: 13.11064,
+        url: "https://sakrisoy.no"
+      },
+      {
+        nome: "Kvalvika e Ryten",
+        testo: "Kvalvika è una spiaggia chiusa tra due pareti di roccia sul mare aperto, raggiungibile solo a piedi. Il sentiero parte da Fredvang, scavalca un passo e scende sulla sabbia; chi ha ancora gambe sale sul Ryten, la cima che guarda la baia dall'alto.",
+        come: "In auto da Reine fino a Fredvang (25 km, circa 30 minuti), poi a piedi su sentiero con fango e roccia.",
+        quando: "Giornata asciutta e serena; d'estate anche la sera, con il sole di mezzanotte.",
+        tempo: "mezza giornata",
+        costo: "sentiero gratuito",
+        lat: 68.07703,
+        lng: 13.09581,
+        consiglio: "Scarpe da trekking vere: dopo la pioggia i tratti di torba diventano molto scivolosi."
+      },
+      {
+        nome: "Spiaggia di Ramberg",
+        testo: "Una lunga spiaggia di sabbia bianca lungo la E10, con le montagne alle spalle e l'acqua turchese con il sole. Accanto c'è il Ramberg Resort, comodo per cenare prima di una passeggiata sulla sabbia.",
+        come: "In auto, circa 30 minuti da Reine (26 km) sulla E10.",
+        quando: "Sera: d'estate la luce dura fino a notte.",
+        tempo: "30-60 minuti",
+        costo: "ingresso libero",
+        lat: 68.0962,
+        lng: 13.23793,
+        consiglio: "Il supermercato di Ramberg è più fornito ed economico della Coop di Reine, ma vende solo birra: niente vino né superalcolici."
+      },
+      {
+        nome: "Å e il Museo dei pescatori",
+        testo: "Å, in fondo alla E10, è il paese dal nome più corto del mondo e un villaggio di pescatori conservato. Il Norsk Fiskeværsmuseum occupa le vecchie case e i magazzini e racconta come vivevano le comunità che campavano di pesca alle Lofoten.",
+        come: "In auto, circa 15 minuti da Reine (9 km); parcheggio all'ingresso del villaggio.",
+        quando: "Tarda mattinata, con la visita guidata; anche con la pioggia.",
+        tempo: "1-1,5 ore",
+        costo: "125 NOK adulti, 95 NOK 6-17 anni, circa 11 € (autunno 2026)",
+        orari: "1° ottobre-6 dicembre 2026 tutti i giorni 9-15; chiuso dal 7 dicembre al 2 gennaio",
+        lat: 67.88137,
+        lng: 12.98206,
+        url: "https://www.museumnord.no/en/our-venues/norsk-fiskevaersmuseum/",
+        consiglio: "La panetteria storica del paese ha pochi posti a sedere: meglio passarci presto."
       }
     ],
     sapori: [
@@ -648,6 +1044,113 @@ export const destinazioniNorvegia: Destinazione[] = [
       "Reinebringen: i gradini sono molti e il sentiero è affollato; non scendere con fretta, soprattutto con la pioggia.",
       "Il traghetto per Bunes ha orari ridotti e può essere cancellato: verificare il giorno prima.",
       "Parcheggio e traffico nel villaggio sono limitati: non lasciare l'auto lungo la strada."
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: villaggio di Reine e ponte di Hamnøy",
+          "Reinebringen (circa 2 ore tra salita e discesa)",
+          "Pranzo a Sakrisøy",
+          "Pomeriggio ad Å e al Museo dei pescatori",
+          "Sera: cena a Ramberg e passeggiata sulla spiaggia"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: traghetto del mattino per Vindstad (40 minuti)",
+          "Sentiero fino alla spiaggia di Bunes e pranzo al sacco",
+          "Traghetto del pomeriggio e spesa a Ramberg"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Kvalvika da Fredvang, con il Ryten per chi ha gambe",
+          "Rientro verso est con sosta al Lofotr Viking Museum di Borg"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Reine e Hamnøy",
+        perChi: "chi vuole svegliarsi davanti alla baia",
+        testo: "Rorbuer rossi sulle rocce, alcuni con vista sul Reinebringen; i più richiesti, spesso con minimo di notti in estate.",
+        fascia: "170-350 €"
+      },
+      {
+        nome: "Sakrisøy",
+        perChi: "chi cerca un rorbu tra Reine e Hamnøy",
+        testo: "Poche case dei pescatori gialle sull'isolotto, con il chiosco di pesce sotto casa e le stesse viste di Reine.",
+        fascia: "170-300 €"
+      },
+      {
+        nome: "Ramberg e Flakstad",
+        perChi: "chi vuole spendere meno ed è disposto a guidare mezz'ora",
+        testo: "Cabine, guesthouse e campeggi vicino alla spiaggia di Ramberg, con il supermercato più fornito della zona.",
+        fascia: "80-200 €"
+      },
+      {
+        nome: "Tenda a Bunes",
+        perChi: "chi viaggia in tenda e vuole la spiaggia per sé",
+        testo: "Sulla spiaggia di Bunes si può campeggiare, senza fuochi sulla sabbia e riportando indietro i rifiuti; a Vindstad non ci sono negozi.",
+        fascia: "gratuito con tenda propria, traghetto a parte"
+      }
+    ],
+    gite: [
+      {
+        nome: "Å",
+        distanza: "9 km, circa 15 minuti in auto",
+        come: "In auto sulla E10 fino al capolinea della strada.",
+        testo: "Il villaggio dei pescatori in fondo alle Lofoten, con il museo, la panetteria storica e le rastrelliere dello stoccafisso."
+      },
+      {
+        nome: "Nusfjord",
+        distanza: "41 km, circa 45 minuti in auto",
+        come: "In auto sulla E10 verso est e poi la strada laterale per Nusfjord.",
+        testo: "Uno dei villaggi di pescatori meglio conservati della Norvegia; d'estate si paga un biglietto per entrare."
+      },
+      {
+        nome: "Lofotr Viking Museum a Borg",
+        distanza: "66 km, circa 1 ora e 10 in auto",
+        come: "In auto sulla E10 verso est.",
+        testo: "La casa lunga vichinga ricostruita a grandezza naturale: una buona tappa con la pioggia."
+      },
+      {
+        nome: "Bodø",
+        distanza: "circa 3 ore e un quarto di traghetto da Moskenes",
+        come: "Traghetto Moskenes-Bodø di Torghatten Nord; d'estate il posto auto va prenotato.",
+        testo: "La città sulla terraferma, con la spiaggia di Mjelle e il traghetto per Kjerringøy; è anche la via più breve per lasciare le Lofoten."
+      }
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Reine?",
+        risposta: "Due: uno per il Reinebringen con Hamnøy e Å, uno per la spiaggia di Bunes in traghetto. Con un terzo giorno si aggiunge Kvalvika."
+      },
+      {
+        domanda: "Il Reinebringen è difficile?",
+        risposta: "Tecnicamente no, sono 1.978 scalini di pietra, ma salgono 448 metri in 1,1 km e il dislivello si sente. Il tempo medio è tra due e quattro ore andata e ritorno."
+      },
+      {
+        domanda: "Come si arriva alla spiaggia di Bunes?",
+        risposta: "Con il traghetto da Reine a Vindstad, circa 40 minuti, con poche corse al giorno: il posto conviene prenotarlo. Da Vindstad si cammina 45-50 minuti su un sentiero facile."
+      },
+      {
+        domanda: "Dove si parcheggia a Reine?",
+        risposta: "Nel parcheggio a pagamento del paese, 200 NOK per tre ore. L'auto non va lasciata lungo la strada: gli spazi sono pochi e il traffico d'estate è intenso."
+      },
+      {
+        domanda: "Meglio dormire a Reine o a Svolvær?",
+        risposta: "Per le isole dell'ovest, Reine o Flakstad; per il Trollfjord e Henningsvær, Svolvær. Sono a due ore d'auto, quindi conviene dividere il soggiorno."
+      },
+      {
+        domanda: "Cosa fare a Reine se piove?",
+        risposta: "Il Museo dei pescatori di Å e il Lofotr Viking Museum, al chiuso. Con la pioggia le scale del Reinebringen e la roccia in cima scivolano: meglio spostare il trekking."
+      }
     ],
     esperienzeSlugs: ['reinebringen', 'spiaggia-di-bunes', 'viking-museum-borg'],
     tripSlugs: ['lofoten-estate-2025'],
@@ -816,11 +1319,10 @@ export const destinazioniNorvegia: Destinazione[] = [
     ],
     doveDormire: 'Non ricordo con precisione dove ho dormito. La zona più comoda è quella del porto/Storgata, a pochi passi da negozi, bar e dal punto di ritrovo di gran parte delle escursioni; una doppia in hotel centrale in alta stagione costa indicativamente 140-170€/notte.',
     doveMangiare: 'Ho ricordi generici più che locali precisi: la cucina locale ruota molto intorno a granchio reale (kongekrabbe) e baccalà essiccato (tørrfisk/lutefisk), diffusi nei ristoranti della zona di Storgata.',
-    comeArrivare: 'Volo diretto o con scalo su Tromsø.',
+    comeArrivare: "Volo diretto o con scalo su Tromsø. L'aeroporto di Tromsø-Langnes è a circa 5 km dal centro. Il Flybussen costa circa 125 NOK (200 andata e ritorno), biglietto in app o a bordo con carta, e arriva in Storgata e agli hotel principali in 15-20 minuti, con corse legate agli arrivi. I bus urbani 40 e 42 costano circa 48 NOK ma sono più lenti e la sera passano di rado; un taxi costa circa 250-350 NOK, una decina di minuti.",
     comeSpostarsi: 'A piedi in centro; minibus/pullman organizzati per le escursioni fuori città.',
     periodoMigliore: 'da fine settembre a fine marzo per l\'aurora, con notte polare (poca luce diurna) tra dicembre e gennaio',
-    costi:
-      'Fjellheisen: 645 NOK (circa 55€) andata e ritorno adulti, 310 NOK (circa 27€) bambini 3-15 anni (2026). Polaria: circa 400-450 NOK (35-39€). Polar Museum: 130 NOK (circa 11€). Aurora chase in minibus: 100-160€ a persona. Husky sledding: 170-320€ a persona. Esperienza sami con le renne: da 145€ a persona. Whale watching: 130-260€ a persona. Doppia in hotel centrale in alta stagione: 140-170€/notte.',
+    costi: "Fjellheisen: 645 NOK (circa 55€) andata e ritorno adulti, 310 NOK (circa 27€) bambini 3-15 anni (2026). Polaria: circa 400-450 NOK (35-39€). Polar Museum: 130 NOK (circa 11€). Aurora chase in minibus: 100-160€ a persona. Husky sledding: 170-320€ a persona. Esperienza sami con le renne: da 145€ a persona. Whale watching: 130-260€ a persona. Doppia in hotel centrale in alta stagione: 140-170€/notte. Indicativamente, a persona al giorno: 70-110 € con ostello e spesa al supermercato; 180-260 € con hotel centrale in due e una cena fuori; 350-500 € aggiungendo un'escursione organizzata al giorno.",
     erroriDaEvitare: [
       'Prenotare le escursioni serali con un minimo di anticipo, soprattutto nei mesi di punta (novembre-marzo)',
       'Sottovalutare il vento sul lungomare: si sente più del previsto',
@@ -835,6 +1337,10 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "A piedi attraverso il ponte o in bus dal centro.",
         quando: "Mattina o pomeriggio; orari di visita e concerti sul sito.",
         tempo: "45 minuti",
+        costo: "90 NOK adulti, circa 8 €; gratis sotto i 12 anni, si paga all'ingresso",
+        orari: "1° gennaio-30 maggio e 16 agosto-31 dicembre 10-17 (domenica 13-17; mercoledì chiuso 13-14); 1° giugno-15 agosto 9-18 (domenica 13-18)",
+        lat: 69.6482,
+        lng: 18.9871,
         url: "https://ishavskatedralen.no",
         consiglio: "Se c'è un concerto di mezzanotte in estate, meglio prenotare."
       },
@@ -845,6 +1351,9 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Sera in inverno per le luci della città, giorno in estate.",
         tempo: "1-2 ore",
         costo: "645 NOK andata e ritorno adulti, 310 NOK bambini 3-15 anni (2026)",
+        orari: "tutti i giorni 9-24, una cabina ogni mezz'ora",
+        lat: 69.64096,
+        lng: 18.98724,
         url: "https://www.fjellheisen.no",
         consiglio: "Salita rapida, ma vestirsi caldo in cima."
       },
@@ -854,6 +1363,10 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "A piedi dal centro, accanto al porto.",
         quando: "Giorno, in particolare se piove.",
         tempo: "1,5 ore",
+        costo: "400-450 NOK, circa 35-39 €",
+        orari: "10-17 (novembre 2026); alimentazione e addestramento delle foche alle 10.30 e alle 12.30",
+        lat: 69.6437,
+        lng: 18.9501,
         url: "https://polaria.no",
         consiglio: "Orari delle alimentazioni delle foche sul sito."
       },
@@ -863,6 +1376,10 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "A piedi dal centro.",
         quando: "Giorno.",
         tempo: "1 ora",
+        costo: "130 NOK adulti, circa 11 €; gratis sotto i 18 anni",
+        orari: "tutti i giorni 10-18 (2026); chiuso 1° e 17 maggio",
+        lat: 69.65221,
+        lng: 18.96343,
         url: "https://uit.no/tmu/polarmuseet",
         consiglio: "Più interessante di quanto sembri, per chi ama la storia delle esplorazioni."
       },
@@ -872,6 +1389,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "A piedi dal centro.",
         quando: "Sera.",
         tempo: "1 ora",
+        lat: 69.6459,
+        lng: 18.95047,
         consiglio: "Provare una birra locale: si ordina al bancone."
       },
       {
@@ -880,6 +1399,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Prenotato con operatore, partenza dal centro in minibus.",
         quando: "Da fine settembre a fine marzo, notte con poche nuvole.",
         tempo: "una serata",
+        costo: "100-160 € a persona",
         consiglio: "È stata la prima volta che ho visto l'aurora muoversi nel cielo."
       },
       {
@@ -888,24 +1408,89 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Prenotazione con operatore; trasferimento in minibus.",
         quando: "Inverno, con la neve.",
         tempo: "mezza giornata",
+        costo: "husky 170-320 € a persona; renne con guida sami da 145 €",
         consiglio: "Vestirsi a strati: ci si ferma spesso."
+      },
+      {
+        nome: "Duomo di Tromsø e Storgata",
+        testo: "La cattedrale luterana di legno, del 1861, sta sulla via pedonale principale della città. Intorno, Storgata è la strada di negozi, bar e ristoranti dove passa quasi tutta la vita del centro.",
+        come: "A piedi in centro.",
+        quando: "Tardo pomeriggio, con le luci accese nel buio invernale.",
+        tempo: "1 ora",
+        lat: 69.64874,
+        lng: 18.95676
+      },
+      {
+        nome: "Nordnorsk Kunstmuseum",
+        testo: "Il museo d'arte della Norvegia del nord, in un vecchio edificio del centro: pittura dell'Ottocento, arte sami e contemporanea. Una buona ora al caldo tra un'escursione e l'altra.",
+        come: "A piedi da Storgata, vicino al porto.",
+        quando: "Di giorno, con il maltempo.",
+        tempo: "1 ora",
+        costo: "110 NOK adulti, circa 9 €; gratis sotto i 18 anni",
+        orari: "martedì-domenica 11-17; chiuso il lunedì",
+        lat: 69.6482,
+        lng: 18.9599,
+        url: "https://nnkm.no"
+      },
+      {
+        nome: "Tromsø Museum (Museo universitario artico)",
+        testo: "Il museo dell'università, nel parco di Folkeparken a sud dell'isola: sale sull'aurora boreale, sulla cultura sami, sulla geologia e sulla fauna artica. Spiega bene quello che si vede fuori nelle escursioni.",
+        come: "In bus dal centro, oppure a piedi lungo la costa (circa 2 km).",
+        quando: "Prima della prima caccia all'aurora, per capire cosa si cerca.",
+        tempo: "1,5-2 ore",
+        costo: "130 NOK adulti, circa 11 €; gratis sotto i 18 anni",
+        orari: "16 agosto-14 giugno lunedì-venerdì 10-16.30, sabato e domenica 11-16; 15 giugno-15 agosto lunedì-venerdì 10-18, sabato e domenica 11-17; chiuso 1° gennaio, 1° e 17 maggio, 24 e 25 dicembre",
+        lat: 69.63486,
+        lng: 18.91257,
+        url: "https://uit.no/tmu"
+      },
+      {
+        nome: "Giardino botanico artico-alpino",
+        testo: "Il giardino botanico dell'università, con piante artiche e d'alta montagna da varie parti del mondo, tra rocce e piccoli stagni. Si visita quando la neve si è sciolta.",
+        come: "In bus dal centro verso il campus universitario di Breivika.",
+        quando: "Da giugno a settembre.",
+        tempo: "1 ora",
+        lat: 69.6768,
+        lng: 18.9763
+      },
+      {
+        nome: "Pust, saune nel porto",
+        testo: "Saune galleggianti nel porto interno, con il tuffo nel mare artico tra un turno e l'altro. Sono tre, tra cui una a forma di lavvu, la tenda sami.",
+        come: "A piedi dal centro; si prenota online la fascia oraria.",
+        quando: "Sera d'inverno, prima o dopo cena.",
+        tempo: "1-2 ore",
+        costo: "da 150 NOK, circa 13 €, a seconda della sauna e dell'orario",
+        orari: "tutti i giorni 6-23",
+        lat: 69.65089,
+        lng: 18.96254,
+        url: "https://www.pust.io/en/lokasjon/tromso/"
+      },
+      {
+        nome: "Telegrafbukta",
+        testo: "Una piccola spiaggia sul lato sud-ovest dell'isola, con la vista sul fiordo e sulle montagne di Kvaløya. D'estate è il posto dei barbecue, d'inverno uno degli angoli più bui a portata di passeggiata.",
+        come: "A piedi dal centro in circa 40 minuti, accanto al Tromsø Museum, o in bus.",
+        quando: "Tramonto d'estate; sere serene d'inverno.",
+        tempo: "1 ora",
+        costo: "gratuito",
+        lat: 69.63208,
+        lng: 18.90648
       }
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
-          "Cattedrale Artica",
-          "Fjellheisen",
-          "Polaria o Polar Museum",
-          "Cena in centro"
+          "Mattina: Polaria (foche alle 10.30) e Polar Museum",
+          "Pranzo in Storgata e Duomo",
+          "Pomeriggio: Cattedrale Artica",
+          "Sera: Fjellheisen per la vista e, con cielo sereno, l'aurora"
         ]
       },
       {
         titolo: "2 giorni",
         tappe: [
           "Giorno 1 come sopra",
-          "Giorno 2: husky sledding o renne",
+          "Giorno 2: husky o renne con guida sami (mezza giornata)",
           "Sera: caccia all'aurora in minibus"
         ]
       },
@@ -913,8 +1498,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         titolo: "3 giorni",
         tappe: [
           "Giorni 1-2 come sopra",
-          "Giorno 3: whale watching a Skjervøy (non fatto) o relax in centro",
-          "Ultima sera: Mack's Ølhallen"
+          "Giorno 3: Tromsø Museum e Telegrafbukta, oppure whale watching verso Skjervøy (da metà ottobre a fine gennaio)",
+          "Sera: sauna Pust nel porto e ultima birra al Mack's Ølhallen"
         ]
       }
     ],
@@ -922,12 +1507,20 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Centro (Storgata e porto)",
         perChi: "Chi non ha l'auto",
-        testo: "A pochi passi da negozi, bar e dal punto di ritrovo delle escursioni. In alta stagione i prezzi sono alti: prenotare presto."
+        testo: "A pochi passi da negozi, bar e dal punto di ritrovo delle escursioni. In alta stagione i prezzi sono alti: prenotare presto.",
+        fascia: "140-250 €"
       },
       {
         nome: "Tromsdalen",
         perChi: "Chi vuole un po' di tranquillità",
-        testo: "Dall'altra parte del ponte, vicino alla Cattedrale Artica e alla funivia; si va in centro in bus."
+        testo: "Dall'altra parte del ponte, vicino alla Cattedrale Artica e alla funivia; si va in centro in bus.",
+        fascia: "120-200 €"
+      },
+      {
+        nome: "Ostelli",
+        perChi: "chi viaggia con poco e spende per le escursioni",
+        testo: "Ostelli in centro come il Tromsø Activities Hostel, con letti in dormitorio e cucina comune.",
+        fascia: "da circa 35 € a letto in dormitorio"
       }
     ],
     sapori: [
@@ -948,6 +1541,58 @@ export const destinazioniNorvegia: Destinazione[] = [
       "Aurora: non è garantita, serve cielo sereno e attività solare; prevedere più sere.",
       "Il freddo pungente e le giornate di notte polare richiedono strati termici veri.",
       "Prezzi alti: confrontare i tour prima di prenotare."
+    ],
+    gite: [
+      {
+        nome: "Sommarøy e Kvaløya",
+        distanza: "57 km, circa 1 ora e 10 in auto",
+        come: "In auto a noleggio o con i tour in minibus che partono dal centro.",
+        testo: "Isolotti, spiagge di sabbia bianca e acqua chiara sul mare aperto; d'inverno la strada attraversa Kvaløya tra montagne innevate."
+      },
+      {
+        nome: "Ersfjordbotn",
+        distanza: "21 km, circa 30 minuti in auto",
+        come: "In auto attraverso Kvaløya; molte cacce all'aurora passano di qui.",
+        testo: "Un fiordo chiuso tra pareti ripide, lontano dalle luci della città: d'inverno uno dei posti più vicini per guardare l'aurora."
+      },
+      {
+        nome: "Alpi di Lyngen",
+        distanza: "circa 1 ora e 30-2 ore",
+        come: "In auto o con tour organizzati; gli igloo di vetro di Lyngen North si prenotano con largo anticipo.",
+        testo: "Montagne a picco sul Lyngenfjord. Una notte in igloo di vetro costa intorno ai 380-420 € in due."
+      },
+      {
+        nome: "Whale watching verso Skjervøy",
+        distanza: "giornata intera",
+        come: "Solo con tour in barca da Tromsø, da metà ottobre a fine gennaio.",
+        testo: "Orche e megattere che seguono le aringhe nei fiordi del nord; 130-260 € a persona, e la qualità della barca cambia molto l'esperienza."
+      }
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Tromsø?",
+        risposta: "Quattro o cinque, per avere più sere a disposizione per l'aurora e due o tre escursioni di giorno. In due giorni si vede la città, ma l'aurora diventa una scommessa."
+      },
+      {
+        domanda: "Quando si vede l'aurora boreale a Tromsø?",
+        risposta: "Da fine settembre a fine marzo, con cielo sereno e un po' di attività solare. Non è mai garantita: conviene prevedere più uscite."
+      },
+      {
+        domanda: "Serve l'auto a Tromsø?",
+        risposta: "No: il centro si gira a piedi e le escursioni includono il transfer. L'auto serve solo per muoversi in autonomia verso Kvaløya o Sommarøy, e d'inverno richiede esperienza su neve e ghiaccio."
+      },
+      {
+        domanda: "Come si va dall'aeroporto al centro?",
+        risposta: "Con il Flybussen, circa 125 NOK e 15-20 minuti fino a Storgata, oppure in taxi, 250-350 NOK. I bus urbani costano meno ma la sera passano di rado."
+      },
+      {
+        domanda: "Bisogna prenotare le escursioni in anticipo?",
+        risposta: "Sì, soprattutto da novembre a marzo: aurora, husky e renne vanno prenotati qualche giorno prima, scegliendo date flessibili per l'aurora."
+      },
+      {
+        domanda: "Cosa fare durante la notte polare?",
+        risposta: "Tra dicembre e gennaio la luce dura poche ore: si usano per la Cattedrale Artica e i musei, mentre il buio è il momento di Fjellheisen, della sauna nel porto e della caccia all'aurora."
+      }
     ],
     esperienzeSlugs: ['aurora-chase-minibus-tromso', 'husky-sledding-tromso', 'sami-renne-lavvu-tromso', 'whale-watching-tromso', 'glass-igloo-lyngen'],
     tripSlugs: ['tromso'],

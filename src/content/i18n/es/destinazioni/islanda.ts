@@ -19,10 +19,10 @@ export const destinazioniIslanda: Destinazione[] = [
     doveDormire:
       "Dormí en el Konvin Hotel, uno de los hoteles más grandes de la zona del aeropuerto: cómodo por la lanzadera, con un desayuno abundante. Las reseñas online (cerca de 3/5 en casi 940 reseñas de Tripadvisor) lo sitúan en la media para una escala de una noche: quien lo elige por la cercanía al aeropuerto lo encuentra práctico y el personal amable, otros señalan habitaciones frías o baños no impecables. Nada especial, pero para la primera noche funciona.\n\nAlternativas en Keflavík/Reykjanesbær. Económicas: guesthouses y pequeños B&B de la zona · gama media (aquí entra el Konvin Hotel): otros hoteles cerca del aeropuerto con lanzadera incluida · más cuidadas: hoteles boutique en el centro de Reikiavik (~45 min en coche), para quien en la primera o en la última noche renuncia de buen grado a la comodidad del aeropuerto.",
     doveMangiare: "Kaffi Duus (autobús 55 + pocos minutos a pie): pescado variado, unos 30 € por persona.",
-    comeArrivare: "Vuelo a Keflavík; autobús 55 (unos 20 minutos, parada Kellir, 4 € por persona) hasta el centro.",
+    comeArrivare: "Vuelo a Keflavík; autobús 55 (unos 20 minutos, parada Kellir, 4 € por persona) hasta el centro. El aeropuerto de Keflavík (KEF) está a unos 50 km de Reikiavik, 45-50 minutos en coche. Hacia la capital hay Flybus hasta la terminal BSÍ (unos 45 minutos, unos 4.000 ISK, 29 €), Airport Direct (unos 5.000 ISK, 36 €) y el autobús Strætó 55, el más barato (unos 2.400 ISK, 18 €) pero con pocas salidas. El taxi cuesta 20.000-25.000 ISK y no hay Uber; los coches de alquiler se recogen en el mismo aeropuerto.",
     comeSpostarsi: "Autobús 55 el primer día; coche de alquiler desde el día siguiente (recogida en Sixt Rent a Car en el aeropuerto).",
     periodoMigliore: "el de todo el recorrido: el verano, si se da la vuelta a la isla en tienda",
-    costi: "Autobús 55: 4 € por persona y trayecto.",
+    costi: "Autobús 55: 4 € por persona y trayecto. Blue Lagoon desde 12.990 ISK (unos 95 €), cena de pescado en Kaffi Duus unos 30 €. Como referencia, por persona y día: 90-130 € en guesthouse cocinando uno mismo; 200-280 € con hotel céntrico, una cena en restaurante y la Blue Lagoon; más de 400 € con hotel cuidado y excursiones guiadas.",
     erroriDaEvitare: ["El último autobús 55 sale poco después de las 23 h: no hay que perderlo para volver al hotel"],
     miaEsperienza:
       "Keflavík fue una parada breve, pero está ligada a uno de los recuerdos más fuertes de Islandia: durante el viaje, en la península de Reykjanes, a pocos minutos de aquí, vi de cerca un volcán en erupción, yendo por mi cuenta, sin tour. El día exacto no lo anoté.",
@@ -34,7 +34,11 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Con cielo despejado y viento en calma; en verano la luz larga permite ir también por la tarde.",
         tempo: "media jornada",
         url: "https://safetravel.is",
-        consiglio: "Fui por mi cuenta, sin tour: antes de salir siempre revisar gases, viento y cierres."
+        consiglio: "Fui por mi cuenta, sin tour: antes de salir siempre revisar gases, viento y cierres.",
+        costo: "senderos libres; con una erupción en curso el acceso puede estar prohibido",
+        orari: "sin horario fijo: el acceso depende de los cierres que decide protección civil",
+        lat: 63.88941,
+        lng: -22.28843,
       },
       {
         nome: "Puente entre continentes (Midlina)",
@@ -43,7 +47,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "A cualquier hora; está al aire libre y siempre accesible.",
         tempo: "30 minutos",
         costo: "entrada libre",
-        consiglio: "Se combina bien con el faro de Reykjanesviti y la zona geotérmica de Gunnuhver."
+        consiglio: "Se combina bien con el faro de Reykjanesviti y la zona geotérmica de Gunnuhver.",
+        orari: "siempre accesible",
+        lat: 63.8683,
+        lng: -22.67554,
       },
       {
         nome: "Centro de Keflavík y paseo marítimo",
@@ -51,8 +58,90 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "A pie por el centro; desde el aeropuerto en autobús o taxi.",
         quando: "Al atardecer, muy tarde en verano.",
         tempo: "1-2 horas",
-        consiglio: "Comprobar la hora del último autobús antes de salir por la noche."
-      }
+        consiglio: "Comprobar la hora del último autobús antes de salir por la noche.",
+        costo: "paseo libre; cena de pescado en Kaffi Duus unos 30 €",
+        lat: 64.00817,
+        lng: -22.55743,
+      },
+      {
+        nome: "Blue Lagoon",
+        testo: "La laguna termal más famosa de Islandia: agua azul lechoso entre campos de lava, con barro de sílice y sauna. Es cara y concurrida, pero a 25 minutos del aeropuerto es la forma más cómoda de empezar o terminar el viaje.",
+        come: "En coche desde Keflavík (23 km) o con los autobuses que la conectan con el aeropuerto. Solo se entra con reserva online por franja horaria; en la entrada hay consigna de equipaje.",
+        quando: "A primera hora o a última de la tarde, con menos grupos; útil también en las horas antes de un vuelo.",
+        tempo: "2-3 horas",
+        costo: "paquete Comfort desde 12.990 ISK, unos 95 € (2026); el precio cambia según fecha y hora",
+        orari: "abierta todos los días con horario de temporada, más largo en verano: comprobarlo al reservar",
+        lat: 63.88005,
+        lng: -22.44935,
+        url: "https://www.bluelagoon.com",
+        consiglio: "La zona está cerca de las erupciones de Reykjanes y a veces cierra: comprobar su estado el día antes.",
+      },
+      {
+        nome: "Gunnuhver",
+        testo: "Una zona geotérmica de pozas de barro hirviendo y vapor, una de las más potentes de la isla. El nombre viene de Gunna, el fantasma de una leyenda local que habría quedado atrapado justo aquí.",
+        come: "En coche hacia la punta de la península, luego pasarelas de madera entre las columnas de vapor.",
+        quando: "Con el viento a la espalda, para no acabar dentro del vapor sulfuroso.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 63.81944,
+        lng: -22.68418,
+        consiglio: "No salir de las pasarelas: el terreno de alrededor está muy caliente y es frágil.",
+      },
+      {
+        nome: "Faro de Reykjanesviti y acantilados de Valahnúkur",
+        testo: "El faro blanco domina la punta suroeste de la península. Debajo están los acantilados de Valahnúkur, golpeados por el océano, y mar adentro el islote de Eldey, donde anida una gran colonia de alcatraces.",
+        come: "A cinco minutos en coche de Gunnuhver; desde el aparcamiento se sube a pie a la colina de Valahnúkur.",
+        quando: "Al atardecer o con mar agitado, cuando las olas se levantan contra la costa.",
+        tempo: "45 minutos",
+        costo: "entrada libre (el faro se ve desde fuera)",
+        orari: "siempre accesible",
+        lat: 63.81561,
+        lng: -22.70437,
+        consiglio: "Con viento fuerte no acercarse al borde de los acantilados.",
+      },
+      {
+        nome: "Brimketill",
+        testo: "Una poza natural excavada por el mar en la lava, en la costa sur de la península. La leyenda dice que aquí se bañaba una giganta; hoy es uno de los mejores puntos para ver las olas romper contra la roca negra.",
+        come: "Aparcamiento en la carretera costera 425 y plataforma mirador a pocos pasos.",
+        quando: "Con mar agitado el espectáculo es mejor, pero solo se mira desde la plataforma.",
+        tempo: "20 minutos",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 63.81915,
+        lng: -22.60601,
+        consiglio: "No bajar a las rocas: las olas llegan sin avisar.",
+      },
+      {
+        nome: "Seltún y lago Kleifarvatn (Krýsuvík)",
+        testo: "En Seltún el suelo es amarillo, rojo y verde por el azufre, con pozas de barro que borbotean junto a una pasarela. Para llegar se bordea el Kleifarvatn, un lago oscuro entre colinas de lava, casi siempre desierto.",
+        come: "En coche, unos 55 km desde Keflavík (50 minutos) por la carretera 42; pasarela y sendero corto por la colina.",
+        quando: "Con tiempo seco: con barro el sendero alto resbala.",
+        tempo: "1-2 horas con el lago",
+        orari: "siempre accesible",
+        lat: 63.89525,
+        lng: -22.05552,
+        consiglio: "Combina bien con media jornada por la península antes de volver hacia Reikiavik.",
+      },
+      {
+        nome: "Víkingaheimar (Mundo Vikingo)",
+        testo: "El museo vikingo de Njarðvík, construido alrededor del Íslendingur, la réplica de un barco vikingo que en el año 2000 cruzó el Atlántico hasta Nueva York. Junto al barco hay salas sobre la navegación y los mitos nórdicos.",
+        come: "En coche o taxi, a 5 minutos del centro de Keflavík y a 10 del aeropuerto.",
+        quando: "En días de lluvia o mucho viento, o en las horas antes de un vuelo.",
+        tempo: "1 hora",
+        lat: 63.97602,
+        lng: -22.52899,
+      },
+      {
+        nome: "Duus Safnahús y la cueva de la giganta",
+        testo: "En el puerto de Keflavík los antiguos almacenes de la casa comercial Duus acogen el museo municipal, con exposiciones de arte e historia local. A pocos pasos, en una cueva junto al puerto deportivo, duerme a tamaño real la giganta de los cuentos infantiles de Herdís Egilsdóttir.",
+        come: "A pie desde el centro, junto a Kaffi Duus.",
+        quando: "Antes de cenar, junto con el paseo por el puerto.",
+        tempo: "1 hora",
+        lat: 64.00795,
+        lng: -22.55738,
+        consiglio: "A los niños les encanta la giganta: se entra en la cueva y se la oye roncar.",
+      },
     ],
     sapori: [
       {
@@ -72,6 +161,101 @@ export const destinazioniIslanda: Destinazione[] = [
       "Volcán y gases: durante las erupciones seguir solo las indicaciones oficiales (safetravel.is, vedur.is) y no acercarse a las coladas.",
       "Con el coche de alquiler comprobar las coberturas por arena, ceniza y grava, a menudo excluidas del seguro básico.",
       "Llenar el depósito antes de dejar la zona de Reikiavik: en el Este y el Norte los surtidores son escasos y a menudo sin personal."
+    ],
+    programmi: [
+      {
+        titolo: "1 día (llegada o salida)",
+        tappe: [
+          "Puente entre continentes en Sandvík",
+          "Gunnuhver y el faro de Reykjanesviti",
+          "Brimketill en la costa sur",
+          "Tarde en la Blue Lagoon, con reserva",
+          "Noche en el paseo marítimo de Keflavík y cena en el puerto",
+        ],
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Seltún y el lago Kleifarvatn",
+          "Senderos hacia la zona volcánica, solo si están abiertos",
+          "Víkingaheimar y luego hacia Reikiavik (50 km)",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: Golden Circle (Þingvellir, Geysir, Gullfoss) o un día en Reikiavik",
+          "Última noche cerca del aeropuerto si el vuelo sale temprano",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Centro de Keflavík",
+        perChi: "quien quiere cenar y pasear a pie la primera noche",
+        testo: "Hoteles y guesthouses alrededor de Hafnargata y del puerto, a 10 minutos del aeropuerto; el autobús 55 para cerca.",
+        fascia: "150-250 €",
+      },
+      {
+        nome: "Ásbrú y zona del aeropuerto",
+        perChi: "quien aterriza tarde o sale al amanecer",
+        testo: "La antigua base militar junto a la terminal, con hoteles funcionales y lanzaderas; poca vida por la noche.",
+        fascia: "130-220 €",
+      },
+      {
+        nome: "Reikiavik",
+        perChi: "quien prefiere empezar o terminar el viaje en la ciudad",
+        testo: "A 45-50 minutos del aeropuerto, con mucha más oferta de restaurantes y locales; los precios son los más altos del país.",
+        fascia: "200-320 €",
+      },
+    ],
+    gite: [
+      {
+        nome: "Reikiavik",
+        distanza: "50 km, 45-50 minutos",
+        come: "En coche, con Flybus o con el autobús Strætó 55.",
+        testo: "La capital, con Hallgrímskirkja, el puerto viejo y el auditorio Harpa: se recorre bien a pie en un día.",
+      },
+      {
+        nome: "Golden Circle",
+        distanza: "unos 90 km hasta Þingvellir, 1 hora y media",
+        come: "En coche o con una excursión de un día.",
+        testo: "El parque de Þingvellir entre las placas tectónicas, el géiser Strokkur y la cascada de Gullfoss: el clásico circuito del suroeste.",
+      },
+      {
+        nome: "Cascadas de la costa sur",
+        distanza: "unos 165 km hasta Seljalandsfoss, 2 horas y media",
+        come: "En coche por la Route 1.",
+        testo: "Seljalandsfoss y Skógafoss en el día es una carrera: solo tiene sentido si no se sigue hacia Vík.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Es mejor dormir en Keflavík o en Reikiavik la primera noche?",
+        risposta: "Con llegada por la noche o vuelo al amanecer conviene Keflavík, a 10 minutos de la terminal. Si se llega pronto y el viaje empieza en Reikiavik, mejor dormir en la ciudad.",
+      },
+      {
+        domanda: "¿A qué distancia está el aeropuerto de Keflavík de Reikiavik?",
+        risposta: "Unos 50 km, 45-50 minutos en coche. Flybus tarda unos 45 minutos hasta la terminal BSÍ y cuesta unos 4.000 ISK.",
+      },
+      {
+        domanda: "¿Hace falta reservar la Blue Lagoon?",
+        risposta: "Sí, solo se entra con entrada online para una franja horaria. En verano las mejores horas se agotan días antes.",
+      },
+      {
+        domanda: "¿Se puede ver el volcán de Reykjanes?",
+        risposta: "Depende del momento: las erupciones van y vienen y la zona se cierra a menudo. Antes de salir hay que consultar safetravel.is y las indicaciones de protección civil.",
+      },
+      {
+        domanda: "¿Hay Uber en Keflavík?",
+        risposta: "No. Un taxi del aeropuerto a Reikiavik cuesta unos 20.000-25.000 ISK; para el centro de Keflavík está el autobús 55.",
+      },
+      {
+        domanda: "¿Qué hacer con una escala de pocas horas?",
+        risposta: "La Blue Lagoon está a 25 minutos y tiene consigna de equipaje. Con coche, el Puente entre continentes y Gunnuhver caben en media jornada.",
+      },
     ],
     esperienzeSlugs: ['vulcano-reykjanes'],
     tripSlugs: ['islanda-2024'],
@@ -398,10 +582,10 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     doveDormire: "No pernocté aquí: se duerme en Höfn, a una hora más adelante por la Ring Road.",
     doveMangiare: "Comida rápida en Reynisfjara (chiringuito de perritos calientes/sopa, 2-3.000 ISK).",
-    comeArrivare: "Desde Vík, por la Ring Road, con paradas en Dyrhólaey, Reynisfjara y Fjaðrárgljúfur.",
+    comeArrivare: "Desde Vík, por la Ring Road, con paradas en Dyrhólaey, Reynisfjara y Fjaðrárgljúfur. Skaftafell está a unos 140 km de Vík (2 horas sin paradas) y a unos 330 km de Reikiavik; Jökulsárlón queda 55 km más al este y Höfn otros 75. El autobús Strætó 51 entre Reikiavik y Höfn pasa por la zona pocas veces al día, pero para moverse entre senderos y lagunas hace falta coche.",
     comeSpostarsi: "Coche de alquiler; la zona de Skaftafell se explora solo a pie.",
     periodoMigliore: "verano, por las mejores condiciones de acceso al glaciar",
-    costi: "los precios del trekking sobre el glaciar y del kayak no los anoté: conviene consultarlos en las webs de los operadores al reservar",
+    costi: "los precios del trekking sobre el glaciar y del kayak no los anoté: conviene consultarlos en las webs de los operadores al reservar. Aparcamiento en Skaftafell y Jökulsárlón 1.110 ISK por coche (unos 8 €; mitad de precio si el mismo día ya se pagó en otra zona del parque), camping de Skaftafell 2.800 ISK por persona, barco anfibio en Jökulsárlón 7.100 ISK, barco en Fjallsárlón 11.300 ISK. Como referencia, por persona y día: 70-100 € en tienda con compra en el supermercado; 220-320 € con hotel en Öræfi y un paseo en barco; más de 450 € con hotel con vistas al glaciar y trekking guiado.",
     erroriDaEvitare: ["En Reynisfjara seguir siempre las indicaciones de seguridad: las olas son imprevisibles"],
     miaEsperienza:
       "El trekking sobre el glaciar y el kayak entre los icebergs fueron dos de las experiencias más intensas del viaje. El trekking lo hice con Troll Expeditions; el operador del kayak, las duraciones y los precios exactos no los anoté.",
@@ -413,7 +597,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Finales de primavera y verano para los frailecillos; al atardecer por la luz.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Quedarse en los senderos señalizados: los acantilados son altos y se desmoronan."
+        consiglio: "Quedarse en los senderos señalizados: los acantilados son altos y se desmoronan.",
+        orari: "siempre accesible",
+        lat: 63.39972,
+        lng: -19.12639,
       },
       {
         nome: "Reynisfjara",
@@ -422,7 +609,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Temprano por la mañana, cuando hay menos autocares.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Respetar las indicaciones de seguridad: las olas llegan mucho más alto de lo que parece."
+        consiglio: "Respetar las indicaciones de seguridad: las olas llegan mucho más alto de lo que parece.",
+        orari: "siempre accesible",
+        lat: 63.40443,
+        lng: -19.0588,
       },
       {
         nome: "Fjaðrárgljúfur",
@@ -431,7 +621,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Verano, con el río bajo; en primavera puede estar cerrado por el barro.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Quedarse en el sendero: en 2019 el cañón se cerró porque la avalancha de visitantes tras un videoclip dañaba el entorno."
+        consiglio: "Quedarse en el sendero: en 2019 el cañón se cerró porque la avalancha de visitantes tras un videoclip dañaba el entorno.",
+        orari: "sendero abierto todo el año, salvo cierres temporales por barro o deshielo",
+        lat: 63.7726,
+        lng: -18.17372,
       },
       {
         nome: "Skaftafell y Svartifoss",
@@ -440,7 +633,11 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Verano, con luz larga; el sendero está cerrado o helado en los meses fríos.",
         tempo: "2-3 horas",
         url: "https://www.vatnajokulsthjodgardur.is",
-        consiglio: "El aparcamiento es de pago; el centro de visitantes tiene cafetería e información meteorológica."
+        consiglio: "El aparcamiento es de pago; el centro de visitantes tiene cafetería e información meteorológica.",
+        costo: "aparcamiento 1.110 ISK por coche de hasta 5 plazas, unos 8 € (2026); senderos libres",
+        orari: "senderos siempre abiertos; en invierno el tramo a Svartifoss puede tener hielo",
+        lat: 64.02772,
+        lng: -16.97529,
       },
       {
         nome: "Laguna glaciar de Jökulsárlón y Diamond Beach",
@@ -450,8 +647,58 @@ export const destinazioniIslanda: Destinazione[] = [
         tempo: "2-3 horas",
         costo: "laguna y playa libres; barco anfibio 7.100 ISK, zodiac 16.600 ISK por adulto (2026, icelagoon.is)",
         url: "https://www.vatnajokulsthjodgardur.is",
-        consiglio: "El kayak entre icebergs es de mis recuerdos más fuertes: no anoté operador y precio, comprobar las ofertas actuales."
-      }
+        consiglio: "El kayak entre icebergs es de mis recuerdos más fuertes: no anoté operador y precio, comprobar las ofertas actuales.",
+        orari: "laguna y playa siempre accesibles; barcos solo en los meses indicados",
+        lat: 64.07832,
+        lng: -16.22742,
+      },
+      {
+        nome: "Fjallsárlón",
+        testo: "Una laguna glaciar más pequeña que Jökulsárlón, diez minutos antes, con el frente del glaciar Fjallsjökull mucho más cerca. Hay menos gente y desde el sendero de la morrena el hielo se ve bien incluso sin barco.",
+        come: "Pista corta de tierra desde la Route 1 hasta el aparcamiento y luego unos minutos a pie por la morrena. El barco sale del embarcadero junto a la cafetería.",
+        quando: "Por la mañana, antes de que lleguen los grupos de Jökulsárlón.",
+        tempo: "1 hora a pie, 75 minutos con el barco",
+        costo: "laguna libre; paseo en barco 11.300 ISK, unos 82 € (2026)",
+        orari: "barcos de abril a noviembre",
+        lat: 64.0229,
+        lng: -16.39779,
+        url: "https://www.fjallsarlon.is",
+        consiglio: "Si solo se elige un barco entre las dos lagunas, este se acerca más al glaciar.",
+      },
+      {
+        nome: "Svínafellsjökull",
+        testo: "Una lengua del Vatnajökull llena de grietas y seracs, a pocos kilómetros de Skaftafell. Desde la morrena se ve el hielo de cerca sin equipo: es uno de los frentes glaciares más espectaculares a los que se llega en coche.",
+        come: "Pista corta de tierra desde la Route 1 hasta el aparcamiento y luego un sendero corto por la morrena.",
+        quando: "Por la tarde, con luz sobre el frente del glaciar.",
+        tempo: "45 minutos",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 64.00836,
+        lng: -16.88013,
+        consiglio: "No bajar al hielo por cuenta propia: para caminar sobre él hacen falta guía, crampones y casco.",
+      },
+      {
+        nome: "Centro de visitantes de Skaftafell y Skaftafellsjökull",
+        testo: "El centro de visitantes es el punto de partida de los senderos del parque y de los trekkings guiados por el glaciar. Desde aquí un sendero fácil y llano lleva al frente de la lengua de Skaftafellsjökull, con la laguna de deshielo a los pies del hielo.",
+        come: "Aparcamiento del centro de visitantes y luego a pie; el sendero al glaciar es apto para todos.",
+        quando: "A la vuelta de Svartifoss o en un día nublado, cuando la cascada luce menos.",
+        tempo: "1 hora",
+        costo: "aparcamiento 1.110 ISK por coche de hasta 5 plazas, unos 8 € (2026)",
+        lat: 64.01667,
+        lng: -16.96633,
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "En el centro de visitantes se publican la previsión del día y el estado de los senderos.",
+      },
+      {
+        nome: "Hofskirkja",
+        testo: "Una pequeña iglesia con tejado de hierba en la aldea de Hof, al este de Skaftafell. Es de finales del siglo XIX, una de las últimas iglesias de turba construidas en Islandia, y todavía se celebran oficios.",
+        come: "Pequeño desvío desde la Route 1; aparcamiento junto al cementerio.",
+        quando: "De paso entre Skaftafell y Jökulsárlón.",
+        tempo: "20 minutos",
+        lat: 63.90704,
+        lng: -16.70673,
+        consiglio: "Sigue siendo una iglesia en uso: entrar en silencio y respetar el cementerio de alrededor.",
+      },
     ],
     programmi: [
       {
@@ -464,12 +711,110 @@ export const destinazioniIslanda: Destinazione[] = [
           "Jökulsárlón y Diamond Beach",
           "Llegada a Höfn para dormir"
         ]
-      }
+      },
+      {
+        titolo: "2 días con noche en Skaftafell",
+        tappe: [
+          "Día 1: Fjaðrárgljúfur por la carretera desde Vík",
+          "Svartifoss y el sendero a Skaftafellsjökull",
+          "Noche en el camping de Skaftafell o en un hotel de Öræfi",
+          "Día 2: trekking guiado por el glaciar por la mañana o Svínafellsjökull desde la morrena",
+          "Hofskirkja y Fjallsárlón",
+          "Jökulsárlón y Diamond Beach al final de la tarde, luego Höfn",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba, sin prisas",
+          "Día 3: barco o kayak en Jökulsárlón",
+          "En verano, frailecillos en Ingólfshöfði; en invierno, una cueva de hielo con guía",
+          "Noche en Höfn",
+        ],
+      },
     ],
     attenzioni: [
       "Reynisfjara: olas anómalas, mantenerse lejos del agua.",
       "En el glaciar ir solo con guías autorizados: crampones y piolet hacen falta de verdad.",
       "Comprobar el viento antes de salir: las ráfagas fuertes pueden dañar las puertas del coche, un daño no cubierto por el seguro básico."
+    ],
+    zone: [
+      {
+        nome: "Skaftafell y Öræfi",
+        perChi: "quien quiere salir temprano hacia el glaciar",
+        testo: "Pocos hoteles rurales y guesthouses entre Skaftafell y Hof, casi todos aislados junto a la Route 1: se cena en el hotel. En verano se reserva con meses de antelación.",
+        fascia: "270-450 €",
+      },
+      {
+        nome: "Camping de Skaftafell",
+        perChi: "quien viaja con tienda o autocaravana",
+        testo: "El camping del parque nacional, al pie de los senderos, con duchas y enchufes de pago.",
+        fascia: "unos 40 € para dos con tienda propia (2.800 ISK por persona, 2026)",
+      },
+      {
+        nome: "Kirkjubæjarklaustur",
+        perChi: "quien llega desde Vík y quiere partir el viaje",
+        testo: "El pueblo más cercano con supermercado y gasolinera antes de Skaftafell, a unos 70 km; algunos hoteles y guesthouses.",
+        fascia: "250-370 €",
+      },
+      {
+        nome: "Höfn",
+        perChi: "quien prefiere un pueblo con restaurantes y más oferta",
+        testo: "A unos 75 km de Jökulsárlón: hoteles, albergue y los restaurantes de langostino. Útil si se ven las lagunas por la tarde y luego se sigue.",
+        fascia: "250-450 €",
+      },
+    ],
+    gite: [
+      {
+        nome: "Ingólfshöfði",
+        distanza: "unos 25 km desde Skaftafell",
+        come: "Solo con la excursión guiada de verano que cruza la llanura de arena hasta el promontorio.",
+        testo: "Un promontorio aislado en medio de la arena negra, con acantilados llenos de frailecillos de mayo a agosto.",
+      },
+      {
+        nome: "Kirkjubæjarklaustur y Kirkjugólf",
+        distanza: "unos 70 km, 1 hora",
+        come: "En coche por la Route 1 hacia el oeste.",
+        testo: "El pueblo con la cascada Systrafoss y el «suelo de iglesia», una superficie de columnas de basalto que parece empedrada a mano.",
+      },
+      {
+        nome: "Cueva de hielo en el Vatnajökull",
+        distanza: "salidas desde Jökulsárlón o Skaftafell",
+        come: "Solo con guía, en súper jeep, en los meses fríos.",
+        testo: "Las cuevas azules bajo el glaciar se forman y se derrumban cada año: se visitan normalmente de noviembre a marzo, cuando el hielo es estable.",
+      },
+      {
+        nome: "Höfn",
+        distanza: "unos 130 km desde Skaftafell, 75 desde Jökulsárlón",
+        come: "En coche por la Route 1 hacia el este.",
+        testo: "El puerto del langostino islandés y la playa de Stokksnes bajo el Vestrahorn.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuánto tiempo hace falta para Skaftafell y Jökulsárlón?",
+        risposta: "En un día completo se ven Svartifoss y las lagunas, pero con un trekking por el glaciar hacen falta dos días. Las distancias son cortas; el tiempo se va en las excursiones.",
+      },
+      {
+        domanda: "¿Se puede caminar por el glaciar sin guía?",
+        risposta: "No: las grietas y el hielo vivo son peligrosos incluso cerca del borde. Se va con un operador autorizado, que proporciona crampones, piolet y casco.",
+      },
+      {
+        domanda: "¿Mejor Jökulsárlón o Fjallsárlón?",
+        risposta: "Jökulsárlón es más grande y tiene la Diamond Beach; Fjallsárlón es más tranquila y el glaciar está más cerca. Están a diez minutos: conviene ver las dos.",
+      },
+      {
+        domanda: "¿Dónde dormir cerca de Jökulsárlón?",
+        risposta: "Los hoteles entre Skaftafell y la laguna son pocos y caros. Las alternativas son el camping de Skaftafell o Höfn, a unos 75 km.",
+      },
+      {
+        domanda: "¿Los aparcamientos son de pago?",
+        risposta: "Sí, en Skaftafell y Jökulsárlón cuestan 1.110 ISK por coche de hasta 5 plazas, con la app Parka. Si el mismo día ya se pagó en otra zona del parque, se paga la mitad.",
+      },
+      {
+        domanda: "¿Cuándo se visitan las cuevas de hielo?",
+        risposta: "En los meses fríos, normalmente de noviembre a marzo, y solo con guía. En verano las cuevas del Vatnajökull están cerradas porque el hielo se derrite.",
+      },
     ],
     esperienzeSlugs: ['trekking-ghiacciaio-vatnajokull', 'kayak-jokulsarlon'],
     tripSlugs: ['islanda-2024'],
@@ -491,10 +836,10 @@ export const destinazioniIslanda: Destinazione[] = [
     doveDormire:
       "En Höfn los campings son dos, el Vestrahorn y el municipal, y en cuál dormimos no lo anoté. El Vestrahorn (~2.800 ISK por persona/noche) incluye la entrada al Viking Village y la vista sobre Stokksnes, pero algunas reseñas señalan solo dos duchas, disponibles en horarios limitados; el camping municipal de Hafnarbraut (~1.800 ISK) es más céntrico, cerca de la piscina del pueblo.\n\nAlternativas en Höfn. Económicas: Höfn HI Hostel, Guesthouse Dyngja · gama media: Hotel Höfn, The Old Airline Guesthouse · más cuidadas: Fosshotel Vatnajökull, Brunnhóll Country Guesthouse.",
     doveMangiare: "Sopa de pescado en uno de los restaurantes de Höfn, la «capital de la langosta islandesa», o cena en el camping.",
-    comeArrivare: "Desde Skaftafell/Jökulsárlón, aproximadamente una hora de conducción.",
+    comeArrivare: "Desde Skaftafell/Jökulsárlón, aproximadamente una hora de conducción. Höfn está en la Route 1, a unos 445 km de Reikiavik (unas 6 horas sin paradas), a 75 km de Jökulsárlón y a 100 km de Djúpivogur hacia el este. Sin coche está el autobús Strætó 51 desde Reikiavik, con pocas salidas, y el pequeño aeropuerto de Hornafjörður tiene vuelos domésticos desde la capital.",
     comeSpostarsi: "Coche de alquiler.",
     periodoMigliore: "el de todo el recorrido: el verano, si se da la vuelta a la isla en tienda",
-    costi: "Camping Vestrahorn ~2.800 ISK/noche, camping municipal ~1.800 ISK/noche.",
+    costi: "Camping Vestrahorn ~2.800 ISK/noche, camping municipal ~1.800 ISK/noche. Entrada a Stokksnes unos 1.200 ISK (unos 9 €). Como referencia, por persona y día: 60-90 € en camping cocinando uno mismo; 200-300 € con hotel en el centro y una cena de langostino; más de 400 € con hotel rural y una cueva de hielo con guía.",
     erroriDaEvitare: [],
     miaEsperienza: "Después de la jornada más intensa del viaje, Höfn fue una parada tranquila, cómoda para descansar antes del largo tramo hacia los fiordos del Este del día siguiente.",
     luoghi: [
@@ -504,8 +849,12 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Tras la carretera a Stokksnes hay una entrada de pago gestionada por el dueño privado del terreno; luego unos minutos a pie.",
         quando: "Amanecer o atardecer, con agua baja para los reflejos.",
         tempo: "1-2 horas",
-        costo: "entrada de pago (tarifa a comprobar in situ)",
-        consiglio: "El Viking Village está en el mismo camino: se visitan juntos."
+        costo: "unos 1.200 ISK por persona, unos 9 €, gratis para menores de 16 (2026); entrada en el Viking Café",
+        consiglio: "El Viking Village está en el mismo camino: se visitan juntos.",
+        orari: "entradas en el Viking Café de 7:30 a 22:00; fuera de ese horario hay un quiosco automático",
+        lat: 64.24404,
+        lng: -14.96729,
+        url: "https://www.vestrahorn.is",
       },
       {
         nome: "Viking Village",
@@ -513,7 +862,8 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Se llega por la misma carretera de Stokksnes.",
         quando: "Hora de luz baja, cuando se ve bien Vestrahorn al fondo.",
         tempo: "30 minutos",
-        consiglio: "Si hay caballos sueltos, no darles comida ni acercarse demasiado."
+        consiglio: "Si hay caballos sueltos, no darles comida ni acercarse demasiado.",
+        costo: "entrada que se paga en el Viking Café, al inicio de la carretera de Stokksnes",
       },
       {
         nome: "Puerto de Höfn y langostino",
@@ -521,8 +871,62 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "A pie desde el camping municipal.",
         quando: "Cena: los restaurantes se llenan pronto en verano.",
         tempo: "1-2 horas",
-        consiglio: "Reservar la cena en Höfn en verano."
-      }
+        consiglio: "Reservar la cena en Höfn en verano.",
+        costo: "paseo libre",
+        orari: "siempre accesible; los restaurantes cierran pronto por la noche",
+        lat: 64.25326,
+        lng: -15.20804,
+      },
+      {
+        nome: "Ósland",
+        testo: "Una península verde junto al puerto, reserva de aves con un sendero circular. En verano anidan charranes y otras aves marinas, y en días despejados se ven las lenguas del Vatnajökull al otro lado de la laguna.",
+        come: "A pie desde el puerto, sendero llano.",
+        quando: "Tarde de verano, con la luz baja sobre las montañas.",
+        tempo: "1 hora",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 64.24322,
+        lng: -15.20749,
+        consiglio: "En junio y julio los charranes defienden los nidos picando en la cabeza: una gorra ayuda.",
+      },
+      {
+        nome: "Gamlabúð",
+        testo: "Una antigua casa de comerciantes en el puerto, hoy centro de visitantes del parque nacional del Vatnajökull. Tiene una pequeña exposición sobre los glaciares de la zona e información sobre senderos y carreteras.",
+        come: "A pie en el centro, en el paseo marítimo.",
+        quando: "Antes de salir hacia las lagunas o con mal tiempo.",
+        tempo: "30-45 minutos",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "Útil para preguntar por el estado de las pistas hacia las lenguas del glaciar.",
+      },
+      {
+        nome: "Piscina de Höfn (Sundlaug Hafnar)",
+        testo: "La piscina municipal al aire libre, con pozas calientes y toboganes. Como en toda Islandia, es donde la gente del pueblo se encuentra por la tarde, y después de un día de coche es la forma más barata de entrar en calor.",
+        come: "A pie desde el centro y el camping municipal.",
+        quando: "Por la tarde, al volver de las lagunas.",
+        tempo: "1-2 horas",
+        lat: 64.25399,
+        lng: -15.20863,
+        consiglio: "Antes de entrar en el agua hay que ducharse desnudo: es la norma en todas las piscinas islandesas.",
+      },
+      {
+        nome: "Hoffell y la laguna de Hoffellsjökull",
+        testo: "A unos veinte kilómetros de Höfn, una lengua del glaciar termina en una laguna con pequeños icebergs, casi siempre sin nadie. En la granja de Hoffell hay pozas calientes al aire libre, alimentadas con agua geotérmica.",
+        come: "En coche: unos 20 minutos hasta la granja y luego una pista de tierra más irregular hasta la laguna, para hacer despacio.",
+        quando: "Por la tarde, con luz sobre el hielo; las pozas al atardecer.",
+        tempo: "2 horas con el baño",
+        lat: 64.42152,
+        lng: -15.41944,
+        consiglio: "El último tramo de pista no es apto para todos los coches de alquiler: revisar las condiciones del contrato.",
+      },
+      {
+        nome: "Fláajökull",
+        testo: "Otra lengua del Vatnajökull al oeste de Höfn, a la que se llega por un sendero que cruza el arroyo por un puente colgante. El frente de hielo, gris y azul, se mira desde la morrena sin bajar.",
+        come: "Pista de tierra desde la Route 1 y luego un sendero de una hora entre ida y vuelta.",
+        quando: "Verano y principios de otoño, con la pista seca.",
+        tempo: "1-2 horas",
+        costo: "entrada libre",
+        consiglio: "Combina bien con Hoffell en la misma media jornada.",
+      },
     ],
     sapori: [
       {
@@ -537,6 +941,101 @@ export const destinazioniIslanda: Destinazione[] = [
     attenzioni: [
       "En temporada alta Höfn está llena: reservar camping y cena con antelación.",
       "El tramo oriental de la Ring Road tiene pocos surtidores: llenar el depósito en Höfn."
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Amanecer en Stokksnes, bajo el Vestrahorn",
+          "Viking Village en la misma carretera",
+          "Comida de langostino en el puerto",
+          "Gamlabúð y el sendero de Ósland",
+          "Tarde en la piscina de Höfn",
+        ],
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Hoffell, la laguna del glaciar y las pozas calientes",
+          "Fláajökull y el puente colgante",
+          "Vuelta a Höfn para cenar",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: Jökulsárlón y Diamond Beach (75 km) o, en invierno, una cueva de hielo con guía",
+          "Como alternativa, hacia el este hasta Djúpivogur",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Centro de Höfn",
+        perChi: "quien quiere restaurantes, puerto y piscina a pie",
+        testo: "Hoteles, guesthouses y un albergue alrededor del puerto y de Hafnarbraut. En verano se llena: reservar pronto, también la cena.",
+        fascia: "250-450 €",
+      },
+      {
+        nome: "Granjas junto a la Route 1",
+        perChi: "quien viaja en coche y busca silencio y vistas a los glaciares",
+        testo: "Hoteles rurales y alojamientos en granjas entre Höfn y las lenguas del Vatnajökull, a 10-30 minutos del pueblo; a menudo se cena allí.",
+        fascia: "220-400 €",
+      },
+      {
+        nome: "Campings",
+        perChi: "quien viaja con tienda o autocaravana",
+        testo: "El camping municipal en Hafnarbraut, cerca de la piscina, o el Vestrahorn, bajo la montaña, con la entrada al Viking Village incluida.",
+        fascia: "unos 26-41 € para dos con tienda propia (1.800-2.800 ISK por persona)",
+      },
+    ],
+    gite: [
+      {
+        nome: "Jökulsárlón y Diamond Beach",
+        distanza: "unos 75 km, 1 hora y cuarto",
+        come: "En coche por la Route 1 hacia el oeste.",
+        testo: "La laguna de los icebergs y la playa negra con los bloques de hielo: desde Höfn se llega cómodamente a primera hora, antes de los autocares.",
+      },
+      {
+        nome: "Djúpivogur",
+        distanza: "unos 100 km, 1 hora y media",
+        come: "En coche por la Route 1 hacia el este, por la costa.",
+        testo: "Un pueblo pesquero en el fiordo, con los huevos de granito de Eggin í Gleðivík alineados en el muelle y la montaña piramidal de Búlandstindur.",
+      },
+      {
+        nome: "Cueva de hielo",
+        distanza: "salidas desde Jökulsárlón o Höfn",
+        come: "Solo con guía, en súper jeep, más o menos de noviembre a marzo.",
+        testo: "Las cuevas azules bajo el Vatnajökull cambian cada invierno: es la excursión más solicitada de la zona en los meses fríos.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántas noches hacen falta en Höfn?",
+        risposta: "Una noche basta como parada en la Ring Road. Con dos se añaden Hoffell y Fláajökull, o una cueva de hielo en invierno.",
+      },
+      {
+        domanda: "¿Merece la pena pagar la entrada a Stokksnes?",
+        risposta: "Sí, si el cielo está despejado: el Vestrahorn reflejado en las dunas negras es uno de los paisajes más bonitos del Este. La entrada cuesta unos 1.200 ISK y se paga en el Viking Café.",
+      },
+      {
+        domanda: "¿Dónde se come langostino en Höfn?",
+        risposta: "En los restaurantes alrededor del puerto, en sopa, a la plancha o con mantequilla de ajo. En verano conviene reservar mesa por la mañana.",
+      },
+      {
+        domanda: "¿Höfn es buena base para Jökulsárlón?",
+        risposta: "Sí: la laguna está a unos 75 km, poco más de una hora. Durmiendo aquí se llega antes que los grupos de la mañana.",
+      },
+      {
+        domanda: "¿Hay campings en Höfn?",
+        risposta: "Dos: el municipal en Hafnarbraut, cerca de la piscina, y el Vestrahorn bajo la montaña, que incluye la entrada al Viking Village.",
+      },
+      {
+        domanda: "¿Dónde repostar antes de los fiordos del Este?",
+        risposta: "En Höfn: hacia el este las gasolineras son pocas y están lejos entre sí. Conviene salir con el depósito lleno.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
@@ -721,10 +1220,10 @@ export const destinazioniIslanda: Destinazione[] = [
     doveDormire:
       "Dormí en el camping Hamrar, entre los mejor valorados de Islandia (4/5 en Tripadvisor), en el límite del bosque de Kjarnaskógur, con duchas casi nuevas y excelentes servicios. El precio orientativo es de unos 1.500 ISK por persona más una tarifa por la tienda.\n\nAlternativas en Akureyri. Económicas: Akureyri Backpackers, Guesthouse Bægisá · gama media: Centrum Hotel · más cuidadas: Hotel Kea, Bryggjan Boutique Hotel.",
     doveMangiare: "Comida rápida en Húsavík; barbacoa en el camping por la noche con la compra hecha en Akureyri.",
-    comeArrivare: "Desde Ásbyrgi, con parada en Húsavík y en la zona de Mývatn.",
+    comeArrivare: "Desde Ásbyrgi, con parada en Húsavík y en la zona de Mývatn. De Reikiavik a Akureyri hay unos 380 km por la Route 1, cinco horas y media de coche sin paradas; el vuelo doméstico dura unos 45 minutos y el aeropuerto está a 3 km del centro. Desde Akureyri, Goðafoss está a 35 km, Húsavík a 75 km y el lago Mývatn a unos 85 km (una hora y cuarto).",
     comeSpostarsi: "Coche de alquiler.",
     periodoMigliore: "verano, por las mejores condiciones del tour de avistamiento de ballenas",
-    costi: "Camping Hamrar ~1.500 ISK/persona + tarifa por la tienda.",
+    costi: "Camping Hamrar ~1.500 ISK/persona + tarifa por la tienda. Forest Lagoon desde 7.490 ISK, Earth Lagoon desde unos 7.900 ISK, avistamiento de ballenas desde 12.990 ISK, museo de arte 2.400 ISK, museo de las ballenas 2.650 ISK. Como referencia, por persona y día: 60-90 € en camping cocinando uno mismo; 180-260 € con hotel céntrico, una laguna termal y una cena fuera; más de 350 € con hotel cuidado en Mývatn y excursión en barco.",
     erroriDaEvitare: [],
     miaEsperienza: "Avistamiento de ballenas por la mañana y zona geotérmica por la tarde: fue una de las jornadas más variadas del viaje, del mar abierto al azufre en pocas horas.",
     luoghi: [
@@ -735,7 +1234,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Salidas diarias de marzo a noviembre; junio-agosto es la mejor época. Temprano por la mañana para el mar en calma.",
         tempo: "3 horas",
         costo: "desde 12.990 ISK el tour clásico de 3 horas con North Sailing (2026)",
-        consiglio: "Vestirse en capas: en el barco hace frío incluso en verano."
+        consiglio: "Vestirse en capas: en el barco hace frío incluso en verano.",
+        lat: 66.04615,
+        lng: -17.34365,
+        url: "https://www.northsailing.is",
       },
       {
         nome: "Goðafoss",
@@ -744,7 +1246,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Tarde de verano o temprano por la mañana.",
         tempo: "30-45 minutos",
         costo: "entrada libre",
-        consiglio: "El lado oeste tiene menos gente y mejor vista."
+        consiglio: "El lado oeste tiene menos gente y mejor vista.",
+        orari: "siempre accesible",
+        lat: 65.68282,
+        lng: -17.55062,
       },
       {
         nome: "Zona geotérmica de Mývatn",
@@ -752,7 +1257,11 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "En coche alrededor del lago; senderos cortos y bien señalizados.",
         quando: "Mañana, antes de los grupos; en verano los mosquitos molestan.",
         tempo: "media jornada",
-        consiglio: "Llevar una redecilla antimosquitos: el nombre del lago significa «lago de los mosquitos»."
+        consiglio: "Llevar una redecilla antimosquitos: el nombre del lago significa «lago de los mosquitos».",
+        costo: "Dimmuborgir, Hverfjall y Hverir son zonas naturales sin entrada",
+        orari: "siempre accesible; en invierno algunos senderos tienen hielo",
+        lat: 65.64114,
+        lng: -16.80918,
       },
       {
         nome: "Grjótagjá",
@@ -761,7 +1270,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "A cualquier hora.",
         tempo: "20 minutos",
         costo: "entrada libre",
-        consiglio: "Respetar los carteles del lugar: el agua puede estar muy caliente."
+        consiglio: "Respetar los carteles del lugar: el agua puede estar muy caliente.",
+        orari: "siempre accesible",
+        lat: 65.62641,
+        lng: -16.88297,
       },
       {
         nome: "Ciudad de Akureyri",
@@ -769,8 +1281,114 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "A pie desde el centro, también el jardín botánico Lystigarðurinn.",
         quando: "De día; por la tarde para las cafeterías.",
         tempo: "2-3 horas",
-        consiglio: "Hacer la compra aquí: los supermercados están mejor surtidos que en los pueblos del norte."
-      }
+        consiglio: "Hacer la compra aquí: los supermercados están mejor surtidos que en los pueblos del norte.",
+        costo: "paseo libre",
+        lat: 65.68333,
+        lng: -18.1,
+      },
+      {
+        nome: "Akureyrarkirkja",
+        testo: "La iglesia luterana de 1940, con dos torres de hormigón que recuerdan las columnas de basalto, en lo alto de una escalinata sobre el centro. Es el símbolo de la ciudad y desde arriba se ve todo el fiordo.",
+        come: "A pie desde el centro, subiendo la escalinata desde Kaupvangsstræti.",
+        quando: "De día para el interior, al atardecer para la vista del fiordo.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        lat: 65.67986,
+        lng: -18.09094,
+        consiglio: "Durante los oficios no se visita: mirar los horarios en la entrada.",
+      },
+      {
+        nome: "Jardín botánico (Lystigarðurinn)",
+        testo: "Un jardín botánico a pocos grados del Círculo Polar, con miles de especies islandesas y extranjeras y una pequeña cafetería en el invernadero. En verano es el rincón más verde y resguardado de la ciudad.",
+        come: "A pie desde el centro, diez minutos cuesta arriba detrás de la iglesia.",
+        quando: "De junio a agosto, con las floraciones.",
+        tempo: "1 hora",
+        orari: "del 1 de junio al 30 de septiembre puertas y aseos abiertos de 8:00 a 22:00; en invierno puertas abiertas pero aseos cerrados",
+        lat: 65.67511,
+        lng: -18.09367,
+        url: "https://www.lystigardur.akureyri.is",
+        consiglio: "Combina con la subida a la iglesia, que está en la misma calle.",
+      },
+      {
+        nome: "Museo de Arte de Akureyri y Listagil",
+        testo: "Listagil, la «calle de las artes», es la cuesta que sube hacia la iglesia, con galerías y talleres en antiguos edificios industriales. El museo de arte, al pie de la calle, expone arte islandés contemporáneo en muestras que cambian a menudo.",
+        come: "A pie en el centro, por Kaupvangsstræti.",
+        quando: "Por la tarde o en un día de lluvia.",
+        tempo: "1-1,5 horas",
+        costo: "2.400 ISK, unos 18 € (2026)",
+        orari: "de junio a agosto 10:00-17:00, de septiembre a mayo 12:00-17:00, todos los días; cerrado el 24, 25 y 31 de diciembre y el 1 de enero",
+        lat: 65.68044,
+        lng: -18.092,
+        url: "https://www.listak.is",
+      },
+      {
+        nome: "Forest Lagoon (Skógarböðin)",
+        testo: "Las termas en el bosque de Vaðlaheiði, al otro lado del fiordo: pozas calientes al aire libre entre abedules, con vistas a Akureyri. Son más recientes y menos concurridas que las lagunas del sur.",
+        come: "En coche, a 5 minutos del centro cruzando el fiordo; se recomienda reservar online.",
+        quando: "Al final de la tarde o por la noche, también en invierno para la aurora.",
+        tempo: "2 horas",
+        costo: "desde 7.490 ISK, unos 55 € (2026)",
+        orari: "todos los días de 10:00 a medianoche; hay que salir del agua antes de las 23:30",
+        lat: 65.66992,
+        lng: -18.0418,
+        url: "https://www.forestlagoon.is",
+      },
+      {
+        nome: "Jólagarðurinn, la casa de la Navidad",
+        testo: "Una casita roja en el campo al sur de Akureyri, llena de adornos y dulces navideños todo el año. Una parada curiosa, sobre todo con niños, camino del valle de Eyjafjörður.",
+        come: "En coche, unos 10 km al sur de la ciudad.",
+        quando: "De paso, por la tarde.",
+        tempo: "30 minutos",
+        lat: 65.58011,
+        lng: -18.0915,
+      },
+      {
+        nome: "Earth Lagoon Mývatn (antes Mývatn Nature Baths)",
+        testo: "La laguna termal del Norte, agua azul lechoso como la Blue Lagoon pero más tranquila, en una colina sobre el lago. Cambió de nombre hace poco y muchos la siguen llamando Nature Baths.",
+        come: "En coche, a pocos minutos de Reykjahlíð por la Route 1; mejor reservar.",
+        quando: "Por la tarde, después de la vuelta por los cráteres.",
+        tempo: "2 horas",
+        costo: "desde unos 7.900 ISK, unos 58 € (2026)",
+        orari: "todos los días de 12:00 a 22:00; el horario puede cambiar según la temporada",
+        lat: 65.63046,
+        lng: -16.8476,
+        url: "https://www.earthlagoon.is",
+      },
+      {
+        nome: "Pseudocráteres de Skútustaðagígar",
+        testo: "En la orilla sur del lago, decenas de pequeños cráteres verdes nacidos de explosiones de vapor cuando la lava corrió sobre zonas pantanosas. Un sendero circular los atraviesa con vistas al agua y a las aves.",
+        come: "Aparcamiento en Skútustaðir, en la Route 1, y sendero corto.",
+        quando: "Por la mañana, con el lago en calma.",
+        tempo: "30-45 minutos",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 65.57138,
+        lng: -17.03373,
+      },
+      {
+        nome: "Krafla y el cráter Víti",
+        testo: "Una zona volcánica activa al noreste del lago, con la central geotérmica y el cráter Víti, un lago de agua verde azulada dentro de un cono de explosión. Muy cerca, los campos de lava de Leirhnjúkur todavía humean.",
+        come: "En coche desde Reykjahlíð por la carretera asfaltada de la central; sendero por el borde del cráter.",
+        quando: "Con tiempo seco y sin niebla, cuando el color del agua se ve bien.",
+        tempo: "1-2 horas con Leirhnjúkur",
+        costo: "entrada libre",
+        orari: "carretera abierta en verano; en invierno puede cerrar por nieve",
+        lat: 65.7171,
+        lng: -16.7531,
+        consiglio: "En Leirhnjúkur no salir de los senderos marcados: el suelo está caliente y cede.",
+      },
+      {
+        nome: "Museo de las ballenas de Húsavík",
+        testo: "Un museo en un antiguo edificio del puerto, con esqueletos reales de ballena colgados del techo, entre ellos el de una ballena azul. Antes o después de la salida en barco ayuda a entender lo que se ha visto.",
+        come: "A pie desde el puerto, junto a las taquillas de las excursiones.",
+        quando: "Antes del avistamiento, o si la excursión se cancela por el mar.",
+        tempo: "1 hora",
+        costo: "2.650 ISK, unos 19 € (2026)",
+        orari: "de mayo a septiembre 9:00-18:00, de octubre a abril 10:00-16:00",
+        lat: 66.04679,
+        lng: -17.34471,
+        url: "https://hvalasafn.is",
+      },
     ],
     sapori: [
       {
@@ -785,6 +1403,109 @@ export const destinazioniIslanda: Destinazione[] = [
     attenzioni: [
       "El tour de ballenas puede cancelarse por el tiempo: dejar un día de margen.",
       "Alrededor de Mývatn hay muchos mosquitos en verano: llevar un sombrero con red."
+    ],
+    programmi: [
+      {
+        titolo: "1 día en Akureyri",
+        tappe: [
+          "Akureyrarkirkja y la escalinata sobre el centro",
+          "Listagil y el museo de arte",
+          "Jardín botánico",
+          "Tarde en la Forest Lagoon",
+          "Cena en el centro, junto al fiordo",
+        ],
+      },
+      {
+        titolo: "2 días con Mývatn",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Goðafoss por la Route 1",
+          "Skútustaðagígar y Dimmuborgir",
+          "Hverfjall, Grjótagjá y las fumarolas de Hverir",
+          "Krafla y Víti, luego tarde en la Earth Lagoon",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: avistamiento de ballenas desde Húsavík por la mañana",
+          "Museo de las ballenas y comida en el puerto",
+          "Vuelta a Akureyri pasando por la casa de la Navidad",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Centro de Akureyri",
+        perChi: "quien quiere restaurantes, tiendas y el fiordo a pie",
+        testo: "Hoteles y guesthouses entre Hafnarstræti y el puerto, con la oferta más amplia del Norte; base cómoda también para ir a Mývatn y Húsavík en el día.",
+        fascia: "170-260 €",
+      },
+      {
+        nome: "Lago Mývatn (Reykjahlíð)",
+        perChi: "quien quiere despertarse entre cráteres y fumarolas",
+        testo: "Hoteles y guesthouses repartidos alrededor del lago, casi todos con restaurante; en verano cuidado con los mosquitos y los precios altos.",
+        fascia: "180-280 €",
+      },
+      {
+        nome: "Húsavík",
+        perChi: "quien apuesta por el avistamiento de ballenas por la mañana",
+        testo: "Un puerto pequeño y tranquilo, con algunos hoteles y guesthouses a dos pasos de los barcos.",
+        fascia: "170-260 €",
+      },
+      {
+        nome: "Campings",
+        perChi: "quien viaja con tienda o autocaravana",
+        testo: "En Akureyri el camping Hamrar, al borde del bosque de Kjarnaskógur, con duchas y servicios muy cuidados; más campings alrededor de Mývatn.",
+        fascia: "unos 22 € para dos más la tarifa de la tienda (unos 1.500 ISK por persona)",
+      },
+    ],
+    gite: [
+      {
+        nome: "Siglufjörður",
+        distanza: "unos 78 km, 1 hora y cuarto",
+        come: "En coche por el fiordo y a través de los túneles de Héðinsfjörður.",
+        testo: "Un pueblo pesquero en el fiordo más septentrional de la isla, con el museo de la época del arenque y las casas de colores en el puerto.",
+      },
+      {
+        nome: "Isla de Hrísey",
+        distanza: "unos 35 km hasta Árskógssandur y luego ferri",
+        come: "En coche hasta el puerto de Árskógssandur y luego una travesía corta en ferri; en la isla se va a pie.",
+        testo: "Una isla llana y silenciosa en medio del Eyjafjörður, con senderos entre lagópodos y charranes y vistas a las montañas del fiordo.",
+      },
+      {
+        nome: "Dettifoss y Ásbyrgi",
+        distanza: "unos 150 km hasta Dettifoss",
+        come: "En coche por Mývatn y la Route 862, asfaltada por el lado oeste.",
+        testo: "La cascada más potente de Europa y el cañón en herradura de Ásbyrgi: un día largo, mejor durmiendo en Mývatn o en Húsavík.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para Akureyri y Mývatn?",
+        risposta: "Dos días bastan para la ciudad y la vuelta al lago. Con el avistamiento de ballenas desde Húsavík hacen falta tres.",
+      },
+      {
+        domanda: "¿Es mejor dormir en Akureyri o en Mývatn?",
+        risposta: "Akureyri tiene más oferta y precios algo más bajos; Mývatn ahorra hora y media de carretera por trayecto. Con dos noches se pueden repartir.",
+      },
+      {
+        domanda: "¿Forest Lagoon o Earth Lagoon?",
+        risposta: "La Forest Lagoon está en Akureyri, en el bosque con vistas al fiordo; la Earth Lagoon está en Mývatn, más grande y rodeada de paisaje volcánico. Cuestan más o menos lo mismo: se elige según dónde se duerma.",
+      },
+      {
+        domanda: "¿Cuándo se ven ballenas en Húsavík?",
+        risposta: "Las excursiones salen de marzo a noviembre; de junio a agosto los avistamientos son más frecuentes y el mar suele estar más tranquilo.",
+      },
+      {
+        domanda: "¿De verdad hay tantos mosquitos en Mývatn?",
+        risposta: "Sí, sobre todo de junio a agosto en días sin viento. Casi nunca pican, pero una red para la cabeza ayuda mucho.",
+      },
+      {
+        domanda: "¿Se ve la aurora boreal en Akureyri?",
+        risposta: "Sí, de septiembre a abril con cielo despejado y lejos de las luces del centro. En verano el cielo no llega a oscurecer lo suficiente.",
+      },
     ],
     esperienzeSlugs: ['whale-watching-husavik', 'zona-geotermale-myvatn'],
     tripSlugs: ['islanda-2024'],
@@ -809,10 +1530,10 @@ export const destinazioniIslanda: Destinazione[] = [
     doveDormire:
       "Dormí en el camping a los pies del Kirkjufell, sencillo y panorámico, con vista directa al fiordo y a la montaña.\n\nEn el pueblo las opciones son pocas: el Kirkjufell Guesthouse and Apartments (desde unos 180 $/noche) es de hecho la elección principal de gama media, y de alternativas económicas o de lujo hay pocas. Para tener más donde elegir conviene mirar hacia Stykkishólmur, a unos 25 minutos en coche.",
     doveMangiare: "Compra en las tiendas del pueblo (a 10 minutos a pie del camping) y cena en el camping: la última cena de verdad en tienda del viaje.",
-    comeArrivare: "Desde Akureyri, unos 390 km y 5 horas de conducción efectivas por la Route 1 y Borgarnes (6-7 horas con paradas).",
+    comeArrivare: "Desde Akureyri, unos 390 km y 5 horas de conducción efectivas por la Route 1 y Borgarnes (6-7 horas con paradas). Desde Reikiavik hay unos 180 km, dos horas y media de coche por Borgarnes y la Route 54; Stykkishólmur está a 40 km hacia el este y Arnarstapi a unos 50 km en la costa sur. Los autobuses son pocos: sin coche la península se ve casi solo con excursiones de un día desde Reikiavik.",
     comeSpostarsi: "Coche de alquiler.",
     periodoMigliore: "verano, por la luz hasta tarde sobre el Kirkjufell al atardecer",
-    costi: "el precio del camping no lo anoté: conviene consultarlo antes de salir",
+    costi: "el precio del camping no lo anoté: conviene consultarlo antes de salir. Aparcamiento del Kirkjufell unos 1.000 ISK por coche (2025), cueva de Vatnshellir 5.900 ISK (unos 43 €). Como referencia, por persona y día: 60-90 € en camping cocinando uno mismo; 170-250 € con guesthouse en el pueblo y una cena fuera; más de 350 € con hotel en la costa sur y excursiones guiadas.",
     erroriDaEvitare: ["Contar con 6-7 horas de conducción con las paradas: es el traslado más largo de todo el viaje"],
     miaEsperienza: "La última cena en tienda, con vista al Kirkjufell y al fiordo, fue una bonita manera de cerrar la parte «on the road» del viaje, antes de las dos noches finales en hotel.",
     luoghi: [
@@ -823,7 +1544,10 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Atardecer, sobre todo en verano; en invierno de noche por la aurora.",
         tempo: "1 hora",
         costo: "entrada libre; aparcamiento de pago, unas 1.000 ISK (2025)",
-        consiglio: "El camping a los pies de la montaña ofrece la mejor vista sin moverse."
+        consiglio: "El camping a los pies de la montaña ofrece la mejor vista sin moverse.",
+        orari: "siempre accesible",
+        lat: 64.92616,
+        lng: -23.31236,
       },
       {
         nome: "Arnarstapi y Hellnar",
@@ -831,7 +1555,11 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Aparcamiento en los dos pueblos; el sendero se hace a pie.",
         quando: "Verano.",
         tempo: "1-2 horas",
-        consiglio: "Llevar un cortavientos: es mar abierto."
+        consiglio: "Llevar un cortavientos: es mar abierto.",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 64.76673,
+        lng: -23.62808,
       },
       {
         nome: "Djúpalónssandur",
@@ -839,7 +1567,11 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Pequeño aparcamiento en la Route 574 y bajada corta a pie.",
         quando: "Mañana o tarde.",
         tempo: "1 hora",
-        consiglio: "Las olas son fuertes: no acercarse demasiado al agua."
+        consiglio: "Las olas son fuertes: no acercarse demasiado al agua.",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 64.7521,
+        lng: -23.90322,
       },
       {
         nome: "Guðrúnarlaug",
@@ -847,12 +1579,172 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "En coche, en el valle de Sælingsdalur.",
         quando: "Tarde.",
         tempo: "1 hora",
-        consiglio: "Vestuario básico: llevar toalla y chancletas."
-      }
+        consiglio: "Vestuario básico: llevar toalla y chancletas.",
+        costo: "entrada gratuita",
+        lat: 65.2464,
+        lng: -21.80557,
+      },
+      {
+        nome: "Búðakirkja, la iglesia negra de Búðir",
+        testo: "Una pequeña iglesia de madera pintada de negro, de 1848, sola en medio del campo de lava de Búðahraun con el glaciar Snæfellsjökull al fondo. Es uno de los lugares más fotografiados de la península.",
+        come: "Desvío desde la Route 54 hacia Búðir, aparcamiento junto al hotel y dos minutos a pie.",
+        quando: "Al final de la tarde, con luz rasante sobre la madera negra.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        orari: "exterior siempre accesible; el interior suele estar cerrado",
+        lat: 64.82166,
+        lng: -23.38402,
+        consiglio: "Desde el aparcamiento sale también un sendero por la lava hasta la costa.",
+      },
+      {
+        nome: "Playa de las focas de Ytri Tunga",
+        testo: "Una playa de arena dorada y rocas en la costa sur, donde las focas se tumban en las rocas a pocos metros de la orilla. Es uno de los puntos más fiables de Islandia para verlas sin excursión.",
+        come: "Pista corta de tierra desde la Route 54 hasta el aparcamiento y luego unos minutos a pie por la playa.",
+        quando: "En verano, con marea baja, cuando las rocas quedan al descubierto.",
+        tempo: "30-45 minutos",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 64.80276,
+        lng: -23.08004,
+        consiglio: "Moverse despacio y sin acercarse demasiado: las focas se asustan y vuelven al agua.",
+      },
+      {
+        nome: "Lóndrangar",
+        testo: "Dos farallones de basalto que se levantan sobre el mar, restos de un antiguo cráter erosionado por las olas, en la costa suroeste de la península. Desde el acantilado se ven también las aves marinas que anidan en las paredes.",
+        come: "Aparcamiento en la carretera 574 y sendero corto hasta el mirador; un sendero más largo baja hacia la base.",
+        quando: "Por la tarde, con el sol iluminando las rocas desde el oeste.",
+        tempo: "30-60 minutos",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 64.73241,
+        lng: -23.7839,
+      },
+      {
+        nome: "Cráter Saxhóll",
+        testo: "Un pequeño cono volcánico rojo y negro en el parque nacional del Snæfellsjökull, con una escalera metálica que lleva al borde en pocos minutos. Desde arriba se ven los campos de lava hasta el mar.",
+        come: "Aparcamiento en la carretera 574 y luego la escalera hasta arriba.",
+        quando: "Con cielo despejado, para ver también el glaciar.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        orari: "siempre accesible",
+        lat: 64.85173,
+        lng: -23.92653,
+      },
+      {
+        nome: "Cueva de lava de Vatnshellir",
+        testo: "Un tubo de lava de unos 8.000 años bajo el parque nacional, al que se baja por escaleras de caracol. Solo se visita con guía, con casco y linterna incluidos.",
+        come: "Punto de encuentro en la caseta de la carretera 574; visita guiada en grupo.",
+        quando: "Todo el año; útil en días de lluvia.",
+        tempo: "45 minutos",
+        costo: "5.900 ISK, unos 43 € (2026); niños de 5 a 11 años gratis",
+        orari: "salidas todos los días del año, con horarios que cambian según la temporada; edad mínima 5 años",
+        lat: 64.74812,
+        lng: -23.81798,
+        url: "https://www.summitguides.is/vatnshellir-cave-tour",
+        consiglio: "Dentro hace frío incluso en verano: llevar chaqueta y calzado cerrado.",
+      },
     ],
     attenzioni: [
       "El tramo Akureyri-Snæfellsnes es uno de los días de conducción más largos del viaje: salir temprano.",
       "Las pozas termales naturales suelen estar sin vestuarios: respetar las normas y dejar todo limpio."
+    ],
+    programmi: [
+      {
+        titolo: "1 día: la vuelta a la península",
+        tappe: [
+          "Kirkjufell y Kirkjufellsfoss a primera hora",
+          "Cráter Saxhóll",
+          "Djúpalónssandur",
+          "Vatnshellir con la visita guiada",
+          "Lóndrangar",
+          "Sendero entre Arnarstapi y Hellnar",
+          "Búðakirkja y las focas de Ytri Tunga a la vuelta",
+        ],
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: Kirkjufell, Saxhóll, Djúpalónssandur y Vatnshellir",
+          "Atardecer otra vez en el Kirkjufell",
+          "Día 2: Lóndrangar, Arnarstapi y Hellnar",
+          "Búðakirkja y Ytri Tunga",
+          "Noche en Stykkishólmur",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: ferri desde Stykkishólmur a la isla de Flatey, o bien",
+          "Guðrúnarlaug y las cascadas de Hraunfossar camino de Reikiavik",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Grundarfjörður",
+        perChi: "quien quiere el Kirkjufell al amanecer y al atardecer",
+        testo: "Un pueblo de pescadores con pocas guesthouses y apartamentos, un supermercado y el camping al pie de la montaña.",
+        fascia: "160-250 €",
+      },
+      {
+        nome: "Stykkishólmur",
+        perChi: "quien busca más restaurantes y el ferri a Flatey",
+        testo: "El pueblo más animado de la península, a 40 km, con casas de madera de colores en el puerto y la mayor oferta de hoteles.",
+        fascia: "160-250 €",
+      },
+      {
+        nome: "Costa sur (Arnarstapi, Hellnar, Búðir)",
+        perChi: "quien quiere dormir cerca del glaciar y del sendero costero",
+        testo: "Hoteles aislados y alguna guesthouse entre la lava y el mar; en Búðir el hotel junto a la iglesia negra está en la franja más alta.",
+        fascia: "180-300 €",
+      },
+    ],
+    gite: [
+      {
+        nome: "Stykkishólmur",
+        distanza: "unos 40 km, 35 minutos",
+        come: "En coche por la Route 54 hacia el este.",
+        testo: "El puerto con casas de madera de colores, el faro en el islote de Súgandisey y la Biblioteca del Agua en la colina.",
+      },
+      {
+        nome: "Isla de Flatey",
+        distanza: "ferri desde Stykkishólmur",
+        come: "Con el ferri Baldur, que cruza el fiordo de Breiðafjörður.",
+        testo: "Una isla sin coches con un pequeño pueblo de casas del siglo XIX, prados en flor y aves marinas: se va por el silencio.",
+      },
+      {
+        nome: "Hraunfossar y Deildartunguhver",
+        distanza: "unos 155 km, 2 horas y cuarto",
+        come: "En coche hacia Borgarnes, útil como parada camino de Reikiavik.",
+        testo: "Decenas de cascadas pequeñas que brotan de la lava junto al río Hvítá y, cerca, el manantial caliente más potente de Europa.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para Snæfellsnes?",
+        risposta: "La vuelta a la península se hace en un día largo. Con dos días se ve todo con calma y se añade Stykkishólmur.",
+      },
+      {
+        domanda: "¿Es mejor dormir en Grundarfjörður o en Stykkishólmur?",
+        risposta: "Grundarfjörður está al pie del Kirkjufell y más cerca de la punta de la península; Stykkishólmur tiene más restaurantes y el ferri a Flatey. Están a 40 km.",
+      },
+      {
+        domanda: "¿El aparcamiento del Kirkjufell es de pago?",
+        risposta: "Sí, unos 1.000 ISK por coche (2025). La cascada está a pocos pasos del aparcamiento.",
+      },
+      {
+        domanda: "¿Se puede subir al Kirkjufell?",
+        risposta: "La subida es empinada y expuesta, y con los años ha habido accidentes mortales. Sin experiencia de montaña y un guía local es mejor fotografiarlo desde abajo.",
+      },
+      {
+        domanda: "¿Hace falta guía para Vatnshellir?",
+        risposta: "Sí, la cueva solo se visita con la excursión guiada de 45 minutos, que incluye casco y linterna. Cuesta 5.900 ISK y sale todos los días.",
+      },
+      {
+        domanda: "¿Se puede hacer Snæfellsnes en el día desde Reikiavik?",
+        risposta: "Se puede, pero son unos 180 km hasta Grundarfjörður y otros tantos de vuelta. Con una noche en la península se ven el atardecer en el Kirkjufell y la costa sur sin prisas.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],

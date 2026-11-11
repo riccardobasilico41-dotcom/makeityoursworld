@@ -29,10 +29,10 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Guesthouses a lo largo del río Bohorok en Bukit Lawang, cómodas para salir temprano al trekking; homestays en la isla de Samosir para el Lago Toba.",
     doveMangiare:
       "Se come sencillo y casi en todas partes bien: el nasi padang (vitrinas con muchos platos ya preparados: se señala el que se quiere y se paga solo lo que se toca) es la institución local y nació precisamente aquí, en Sumatra occidental. En la zona del Lago Toba aparece el cerdo, raro en el resto de la Indonesia musulmana, porque los batak son cristianos. El café de Sumatra, bebido en los warung de la carretera a Berastagi, es muy apreciado y cuesta poco.",
-    comeArrivare: "Vuelo a Medan (Kualanamu International, KNO) desde Yakarta o desde Kuala Lumpur/Singapur.",
+    comeArrivare: "Para el norte se vuela a Medan, al aeropuerto de Kualanamu (KNO), desde Yakarta, Kuala Lumpur o Singapur. El tren Railink llega a Medan en unos 35-45 minutos; para Bukit Lawang, en cambio, hace falta coche privado, unas 3-4 horas por 650.000-700.000 IDR (unos 37-40 €), casi siempre enviado por la casa de huéspedes. Para el Lago Toba está también el aeropuerto de Silangit, a una hora y media de Parapat, con vuelos directos a Yakarta. Para Bukittinggi y Sumatra occidental se vuela a Padang (PDG): desde allí son unas 3 horas en coche, con un coche privado por unos 500.000 IDR (unos 28 €).",
     comeSpostarsi: "Coche privado o autobús entre Medan, Bukit Lawang, Berastagi y Lago Toba; ferri a la isla de Samosir.",
     periodoMigliore: "junio-septiembre, estación más seca para el trekking",
-    costi: "entre las islas más baratas del archipiélago, sobre todo en alojamientos y trekkings guiados",
+    costi: "Entre las islas más baratas del archipiélago, sobre todo en alojamientos y trekkings guiados. Económico: unos 25-35 € al día con casas de huéspedes junto al río o el lago, warungs y autobuses. Medio: 60-90 € con habitaciones mejores, un conductor para los tramos largos (800.000-900.000 IDR, unos 45-50 €, de Bukit Lawang a Berastagi) y el trekking de dos días. Alto: más de 130 € con resorts en el lago, conductor privado en cada tramo y trekkings privados.",
     erroriDaEvitare: [
       "Fiarse de guías no certificados para el trekking de orangutanes: el contacto cercano no regulado es peligroso tanto para los visitantes como para los animales",
       "Subestimar los tiempos de desplazamiento por carreteras de montaña a menudo en mal estado",
@@ -91,34 +91,79 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Bukit Lawang y el Gunung Leuser",
         testo: "El pueblo a orillas del río Bohorok, a las puertas del Parque Nacional del Gunung Leuser, uno de los hábitats que quedan del orangután de Sumatra. En la zona viven orangutanes antes rehabilitados y hoy salvajes. En el parque viven también el elefante, el tigre y el rinoceronte de Sumatra.",
-        come: "Desde Medan en coche o minibús, unas horas según el tráfico. El trekking se hace solo con guía certificado, a pie por la selva, durante medio día o varios días.",
+        come: "Desde Medan en coche o minibús, unas horas según el tráfico. El trekking se hace solo con guía certificado, a pie por la selva, durante medio día o varios días. Los precios los fijan los guías locales y el permiso del parque suele estar incluido: conviene comparar dos o tres ofertas antes de elegir.",
         quando: "En los meses más secos, cuando los senderos tienen menos barro. Salir al amanecer.",
         tempo: "2-3 días",
+        lat: 3.55083,
+        lng: 98.12367,
         consiglio: "Rechazar de forma explícita, ya al reservar, a los guías que atraen a los animales con comida."
       },
       {
         nome: "Lago Toba",
         testo: "El mayor lago volcánico del mundo, unos 1.130 km², nacido de una erupción enorme. Agua fresca, orillas verdes, pueblos y una gran isla en el centro, Samosir.",
-        come: "Desde Medan en coche o autobús hasta Parapat, varias horas de carretera, luego ferri a Tuk Tuk en la isla de Samosir.",
+        come: "Desde Medan en coche o autobús hasta Parapat, varias horas de carretera, luego ferri a Tuk Tuk en la isla de Samosir. De Berastagi a Parapat son unas 3 horas, con conductor por 700.000-800.000 IDR (unos 40-45 €). El ferri de pasajeros Parapat-Tuk Tuk tarda unos 45 minutos; el de coches sale de Ajibata y llega a Tomok.",
         quando: "Todo el año, mejor por la mañana y en la estación seca.",
         tempo: "2-3 días",
+        lat: 2.68,
+        lng: 98.88,
         consiglio: "Tras Bukit Lawang es la descompresión ideal: ritmo lento, sin prisa."
       },
       {
         nome: "Isla de Samosir y los pueblos batak",
-        testo: "Los batak toba son en su inmensa mayoría cristianos y viven en casas de tejado en forma de silla de montar con fachadas talladas.",
+        testo: "Los batak toba son en su inmensa mayoría cristianos y viven en casas de tejado en forma de silla de montar con fachadas talladas. La isla ocupa el centro del cráter y es casi tan grande como Singapur. Los homestays y restaurantes se concentran en la península de Tuk Tuk; los pueblos tradicionales están a lo largo de la carretera de la costa.",
         come: "En scooter o coche de alquiler desde Tuk Tuk, por la carretera que rodea la isla.",
         quando: "Por la mañana. Las danzas de la marioneta Sigale-gale se representan sobre todo para los visitantes, en algunos pueblos.",
         tempo: "1 día",
+        costo: "Alquiler de scooter 70.000-100.000 IDR al día, unos 4-6 € (2026).",
+        lat: 2.58333,
+        lng: 98.81667,
         consiglio: "Alquilar una scooter y dar la vuelta a la isla con calma, parando en los pueblos."
+      },
+      {
+        nome: "Huta Siallagan en Ambarita",
+        testo: "El pueblo del rey Siallagan, con las casas batak en fila y las sillas de piedra donde se reunía el consejo de ancianos para juzgar a los culpables. Es uno de los pueblos más visitados de Samosir, a pocos kilómetros de Tuk Tuk.",
+        come: "En scooter desde Tuk Tuk, unos diez minutos hacia el norte por la carretera de la costa. Los guías de la entrada cuentan la historia de las sillas.",
+        quando: "Por la mañana, antes de los grupos.",
+        tempo: "1 hora",
+        lat: 2.67892,
+        lng: 98.83647,
+      },
+      {
+        nome: "Tomok y la tumba del rey Sidabutar",
+        testo: "El pueblo donde atraca el ferri de coches, con el sarcófago de piedra del rey Sidabutar, todavía objeto de culto, y las estatuas de los antepasados alrededor. En el camino a la tumba hay puestos de tejidos ulos y tallas.",
+        come: "En scooter desde Tuk Tuk hacia el sur, o con el ferri desde Ajibata.",
+        quando: "Por la mañana.",
+        tempo: "1 hora",
+        lat: 2.62,
+        lng: 98.862,
+      },
+      {
+        nome: "Cascada de Sipiso-piso",
+        testo: "Una cascada que se precipita más de cien metros desde la meseta a un desfiladero, en el extremo norte del lago Toba. Desde el mirador se ven juntos la cascada y el lago.",
+        come: "Parada en la carretera entre Berastagi y Parapat, con conductor. Desde el aparcamiento una larga escalinata baja hacia la base: la subida de vuelta cansa.",
+        quando: "Por la mañana, antes de que lleguen las nubes.",
+        tempo: "1-2 horas",
+        lat: 2.91642,
+        lng: 98.51965,
       },
       {
         nome: "Gunung Sibayak y Berastagi",
         testo: "Un volcán activo pero tranquilo sobre el pueblo de Berastagi, con una subida de pocas horas y fumarolas en la cima. Después, aguas termales para descansar.",
         come: "Desde Berastagi a pie o en moto hasta el inicio del sendero. Mejor con guía.",
-        quando: "En las primeras horas de la mañana.",
+        quando: "En las primeras horas de la mañana, antes de que lleguen las nubes y la lluvia.",
         tempo: "medio día",
+        lat: 3.23917,
+        lng: 98.50556,
         consiglio: "Terminar el trekking con un baño en las aguas termales."
+      },
+      {
+        nome: "Bukit Gundaling",
+        testo: "La colina a las afueras de Berastagi desde la que se ven los dos volcanes de la zona, el Sibayak y el Sinabung. El Sinabung lleva años en actividad y hay que respetar las zonas prohibidas alrededor del cráter: desde aquí se mira a distancia.",
+        come: "A pocos minutos en coche desde el centro de Berastagi.",
+        quando: "Al atardecer o a primera hora de la mañana, con el cielo despejado.",
+        tempo: "1 hora",
+        lat: 3.19273,
+        lng: 98.50129,
       },
       {
         nome: "Medan: Istana Maimun y mercados",
@@ -126,10 +171,59 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "El palacio está en el centro, en taxi o Grab.",
         quando: "Por la mañana.",
         tempo: "2 horas",
+        lat: 3.57528,
+        lng: 98.68389,
         consiglio: "No quedarse más de una noche: lo bueno está fuera de la ciudad."
+      },
+      {
+        nome: "Masjid Raya Al-Mashun, Medan",
+        testo: "La gran mezquita del sultanato de Deli, con cúpulas negras y vidrieras de colores. Está a pocos minutos a pie del Istana Maimun y se visitan bien juntos.",
+        come: "A pie desde el palacio. Se entra fuera de las horas de oración, con piernas y hombros cubiertos.",
+        quando: "Por la mañana, evitando el mediodía del viernes.",
+        tempo: "30-45 minutos",
+        lat: 3.57511,
+        lng: 98.68732,
+      },
+      {
+        nome: "Bukittinggi y la Jam Gadang",
+        testo: "La ciudad de la meseta de los minangkabau, a unos 900 metros, fresca por la noche tras el calor de la costa. En el centro está la Jam Gadang, la torre del reloj, con el mercado de Pasar Atas y los locales para cenar alrededor. Sirve de base para las excursiones por Sumatra occidental.",
+        come: "Desde Padang o su aeropuerto en coche, unas 3 horas. El centro se recorre a pie.",
+        quando: "Al final de la tarde y por la noche, cuando la plaza se llena.",
+        tempo: "medio día",
+        lat: -0.3052,
+        lng: 100.3696,
+        consiglio: "Ya no se sube a lo alto de la torre: se mira desde la plaza."
+      },
+      {
+        nome: "Ngarai Sianok y Lobang Jepang",
+        testo: "El cañón que baja en picado en el borde de Bukittinggi, con paredes verdes y el río en el fondo. Bajo el parque Panorama, en el borde del cañón, están los Lobang Jepang, túneles excavados durante la ocupación japonesa en la Segunda Guerra Mundial.",
+        come: "A pie desde el centro de Bukittinggi hasta el parque Panorama; la entrada a los túneles está en el mismo parque.",
+        quando: "Por la mañana, con la luz sobre las paredes.",
+        tempo: "2 horas",
+        costo: "Unos 15.000 IDR para el mirador, menos de 1 € (2026); entrada económica aparte para los túneles.",
+        orari: "Lobang Jepang abierto más o menos de 8 a última hora de la tarde.",
+        lat: -0.30779,
+        lng: 100.3652,
       }
     ],
     programmi: [
+      {
+        titolo: "3 días: solo Bukit Lawang",
+        tappe: [
+          "Día 1: llegada a Kualanamu, coche a Bukit Lawang, cena junto al Bohorok",
+          "Día 2: trekking de dos días en el Gunung Leuser con noche en la selva",
+          "Día 3: regreso a pie o en tubing por el río, coche a Medan e Istana Maimun"
+        ]
+      },
+      {
+        titolo: "4 días: Bukittinggi y Sumatra occidental",
+        tappe: [
+          "Día 1: llegada a Padang, carretera a Bukittinggi por la garganta de Lembah Anai",
+          "Día 2: valle de Harau",
+          "Día 3: Puncak Lawang y lago Maninjau por las curvas de la Kelok 44",
+          "Día 4: Jam Gadang, Ngarai Sianok y Lobang Jepang, regreso a Padang"
+        ]
+      },
       {
         titolo: "7 días",
         tappe: [
@@ -143,7 +237,10 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         titolo: "10 días",
         tappe: [
-          "Como los 7 días, con un día más en Bukit Lawang y dos en el Lago Toba"
+          "Como los 7 días, con un día más en Bukit Lawang y dos en el Lago Toba",
+          "Parada en la cascada de Sipiso-piso entre Berastagi y Parapat",
+          "Un día en scooter por Samosir entre Tuk Tuk, Ambarita y Tomok",
+          "Regreso en avión desde Silangit a Yakarta, en lugar de la carretera a Medan"
         ]
       }
     ],
@@ -151,17 +248,25 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Bukit Lawang",
         perChi: "quien hace el trekking",
-        testo: "Casas de huéspedes a lo largo del río Bohorok. Sencillas y cómodas para salir pronto."
+        testo: "Casas de huéspedes a lo largo del río Bohorok. Sencillas y cómodas para salir pronto.",
+        fascia: "10-40 €"
       },
       {
         nome: "Tuk Tuk (Samosir)",
         perChi: "quien va al Lago Toba",
-        testo: "Homestays y casas de huéspedes en la península de Tuk Tuk, junto al lago. Tranquilo, bajo coste."
+        testo: "Homestays y casas de huéspedes en la península de Tuk Tuk, junto al lago. Tranquilo, bajo coste.",
+        fascia: "12-45 €"
       },
       {
         nome: "Berastagi",
         perChi: "quien va al volcán",
         testo: "Pueblo de altura con alojamiento económico, más fresco."
+      },
+      {
+        nome: "Bukittinggi, alrededor de la Jam Gadang",
+        perChi: "quien recorre Sumatra occidental",
+        testo: "Hoteles y homestays en el centro, con restaurantes a pie y excursiones de un día a Harau y Maninjau.",
+        fascia: "15-60 €"
       }
     ],
     sapori: [
@@ -187,6 +292,46 @@ export const destinazioniIndonesia: Destinazione[] = [
       "En las carreteras de montaña los tiempos de trayecto son mucho más largos de lo que parece.",
       "El río Bohorok puede crecer con la lluvia: seguir las indicaciones locales.",
       "Ley: Indonesia tiene leyes muy severas sobre drogas. No llevar nada que no sea propio."
+    ],
+    gite: [
+      {
+        nome: "Valle de Harau",
+        distanza: "47 km desde Bukittinggi, 1,5-2 horas en coche",
+        come: "Coche con conductor desde Bukittinggi, pasado Payakumbuh. Entrada unos 10.000-20.000 IDR por persona, menos de 1 €.",
+        testo: "Una hondonada de arrozales cerrada por paredes verticales de roca, con pequeñas cascadas que caen de los acantilados, como Sarasah Murai. Mejor un día laborable y por la mañana, antes de las nubes de la tarde."
+      },
+      {
+        nome: "Lago Maninjau y Puncak Lawang",
+        distanza: "45 minutos desde Bukittinggi al mirador, 1,5-2 horas hasta la orilla",
+        come: "Coche con conductor local: la carretera es estrecha. Puncak Lawang unos 10.000-25.000 IDR por persona, la orilla es libre.",
+        testo: "Un lago volcánico dentro de una caldera, para mirar primero desde arriba. Luego se baja a la orilla por la Kelok 44, la carretera con 44 curvas numeradas, y se come pescado del lago."
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Sumatra?",
+        risposta: "Al menos una semana para el norte, entre Bukit Lawang, Berastagi y el lago Toba. Con dos semanas se añaden Bukittinggi y las Mentawai, saliendo de Padang."
+      },
+      {
+        domanda: "¿Se ven seguro los orangutanes en Bukit Lawang?",
+        risposta: "No hay garantía, pero las probabilidades son altas porque en la zona viven orangutanes antes rehabilitados. Quien promete el avistamiento seguro a menudo atrae a los animales con comida, una práctica que hay que rechazar."
+      },
+      {
+        domanda: "¿Hace falta guía para el trekking en el Gunung Leuser?",
+        risposta: "Sí, solo se entra con guía certificado. Conviene elegirlo entre los registrados y no entre las ofertas más baratas de la calle."
+      },
+      {
+        domanda: "¿Cómo se llega al lago Toba?",
+        risposta: "En coche hasta Parapat, unas 3 horas desde Berastagi o 4-5 desde el aeropuerto de Kualanamu, y luego el ferri de pasajeros a Tuk Tuk en unos 45 minutos. Otra opción es volar a Silangit, a hora y media de Parapat."
+      },
+      {
+        domanda: "¿Mejor Medan o Padang como puerta de entrada?",
+        risposta: "Medan para los orangutanes, Berastagi y el lago Toba; Padang para Bukittinggi y las Mentawai. Las dos zonas están lejos por tierra, y con poco tiempo conviene elegir una."
+      },
+      {
+        domanda: "¿Cuál es la mejor época para Sumatra?",
+        risposta: "De junio a septiembre, la estación más seca. Con las lluvias los senderos de la selva se llenan de barro y el río Bohorok puede crecer."
+      }
     ],
     esperienzeSlugs: ['trekking-oranghi-bukit-lawang'],
     tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai', 'indonesia-isola-per-isola'],
@@ -222,11 +367,11 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveMangiare:
       "Yogyakarta es el sitio para probar el gudeg, el estofado dulce de yaca que es el plato identitario de la ciudad y que divide a quien lo prueba. Por lo demás la calle gana a los restaurantes: nasi goreng y mie goreng de los carritos de la tarde, sate ayam y el tempeh (inventado precisamente en Java), frito y comido como aperitivo. Alrededor del Bromo y del Ijen la oferta es mínima y las comidas se hacen en la guesthouse: no es el momento del viaje en que se come bien.",
     comeArrivare:
-      "Vuelo a Yakarta (CGK), hub internacional del país, o directamente a Yogyakarta o Surabaya (punto de partida para Bromo/Ijen).",
+      "Desde Europa se aterriza en Yakarta (CGK) y se sigue con un vuelo interno de 1 hora y 20 minutos a Yogyakarta, con unas horas de margen para retrasos e inmigración. El aeropuerto de Yogyakarta (YIA) está en la costa, a unos 45 km de la ciudad: el tren KA Bandara llega a la estación Tugu en unos 40 minutos por unos 20.000 IDR (cerca de 1 €; unos 50.000 el YIA Xpress, más rápido), el autobús DAMRI cuesta unos 80.000 IDR y Grab o taxi unos 250.000-350.000 IDR (15-20 €) en más de una hora. Para el Bromo y el Ijen se sigue en tren hasta Surabaya Gubeng (4-5 horas) y Probolinggo (2 horas más).",
     comeSpostarsi:
       "Tren entre las ciudades principales (red eficiente Yakarta-Yogyakarta-Surabaya), coche con conductor para las excursiones al Bromo y al Ijen.",
     periodoMigliore: "mayo-septiembre, cielos más limpios para el amanecer en el Bromo",
-    costi: "en la media del archipiélago; los tours organizados al Bromo/Ijen tienen un coste fijo independiente de la estación",
+    costi: "Entradas: Borobudur y Prambanan unos 25 USD cada uno para extranjeros, con la subida a Borobudur aparte; Bromo unos 255.000 IDR; Ijen 100.000-150.000 IDR (2025-26). Económico: unos 25-35 € al día con casas de huéspedes, warungs, trenes y minibuses públicos. Medio: 50-80 € con hotel en Prawirotaman, coche con conductor para los templos y jeep compartido en el Bromo. Alto: más de 150 € con hoteles de categoría y tours privados a los volcanes.",
     erroriDaEvitare: [
       "Subir al Kawah Ijen sin máscara antigás: los humos de azufre son peligrosos",
       "Subestimar el tráfico de Yakarta al planificar los desplazamientos",
@@ -240,9 +385,12 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Desde Yogyakarta en coche o autobús. La subida a la estructura tiene cupo, con guía y sandalias especiales: se reserva online en la web oficial con mucha antelación.",
         quando: "Al amanecer o al atardecer, con paquetes específicos de pago. La subida a la estructura se divide en franjas horarias con cupo y se agota.",
         tempo: "3 horas",
-        costo: "Dos entradas distintas: el parque y la subida a la estructura, que incluye guía y sandalias upanat. Las tarifas para extranjeros son más altas que para los indonesios: precios actualizados en la web oficial.",
-        url: "https://borobudurpark.com/",
-        consiglio: "Reservar la entrada para subir con mucha antelación, porque el cupo es limitado."
+        costo: "Para extranjeros unos 25 USD, cerca de 22 € (2025), para el parque; la subida a la estructura, con guía y sandalias upanat, es una entrada aparte por turnos, con unas 1.200 plazas al día. Los indonesios pagan menos.",
+        orari: "Subida a la estructura todos los días 8:30-17:00, por turnos. Los lunes la zona de los templos puede cerrar por mantenimiento: consultar la web oficial.",
+        lat: -7.608,
+        lng: 110.204,
+        url: "https://ticket.borobudurpark.com/en",
+        consiglio: "Reservar la entrada para subir con mucha antelación, porque el cupo es limitado.",
       },
       {
         nome: "Prambanan",
@@ -250,27 +398,24 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "A las afueras de Yogyakarta, en autobús urbano o taxi. Se visita solo o con guía.",
         quando: "Por la mañana o al atardecer. Los lunes, por mantenimiento, solo se visita el parque alrededor de los templos: consultar la web oficial. Algunas noches se representa el ballet del Ramayana.",
         tempo: "2 horas",
-        costo: "Los extranjeros pagan más que los indonesios: precios actualizados en la web oficial.",
-        url: "https://borobudurpark.com/",
-        consiglio: "Consultar las fechas del ballet: en algunos periodos se celebra al atardecer con las torres iluminadas."
-      },
-      {
-        nome: "Kraton de Yogyakarta y Taman Sari",
-        testo: "El palacio del sultán, todavía en uso, con un museo y espectáculos de gamelán. Dentro del recinto del Kraton está el Taman Sari, el «castillo de agua» construido en el siglo XVIII, con estanques y pabellones.",
-        come: "A pie o en becak desde Malioboro.",
-        quando: "Por la mañana. El Kraton tiene horario reducido los días de ceremonia.",
-        tempo: "2 horas",
-        consiglio: "Visitar ambos en el mismo paseo y luego perderse por las calles del barrio de los batik."
+        costo: "Para extranjeros unos 25 USD, cerca de 22 € (2025). La entrada incluye también los templos de Lumbung, Bubrah y Sewu, en el mismo parque.",
+        orari: "Todos los días desde las 6:30; cierra a última hora de la tarde, con la última entrada una hora antes.",
+        lat: -7.75222,
+        lng: 110.49167,
+        url: "https://ticket.borobudurpark.com/en",
+        consiglio: "Consultar las fechas del ballet: en algunos periodos se celebra al atardecer con las torres iluminadas.",
       },
       {
         nome: "Gunung Bromo",
         testo: "Un cráter humeante dentro de la caldera del Tengger, rodeado por el Mar de Arena. El amanecer desde el mirador de Penanjakan es una de las imágenes más famosas de Java.",
-        come: "Desde Cemoro Lawang o Surabaya en jeep 4x4 reservado la noche anterior. Se sale en plena noche. La entrada se compra online en la web oficial del parque, antes de la visita.",
-        quando: "Al amanecer; de abril a octubre el cielo está más despejado.",
+        come: "Desde Cemoro Lawang o Surabaya en jeep 4x4 reservado la noche anterior. Se sale en plena noche. La entrada se compra online en la web oficial del parque, antes de la visita. Desde el Mar de Arena se sube a pie al borde del cráter, con una escalinata final de unos 250 peldaños.",
+        quando: "Al amanecer; de abril a octubre el cielo está más despejado. Antes de salir hay que comprobar que el parque esté abierto: en 2026 estuvo cerrado varias semanas tras un incendio.",
         tempo: "medio día",
-        costo: "Entrada para extranjeros que se compra online en la web del parque: las tarifas han cambiado varias veces y las fuentes no coinciden, así que hay que comprobar el importe allí. Jeep aparte.",
+        costo: "Entrada para extranjeros unos 255.000 IDR, cerca de 15 € (2026), más cara el fin de semana, con reserva online. Jeep compartido unos 700.000-900.000 IDR por vehículo (40-50 €), a dividir entre 4-6.",
+        lat: -7.94167,
+        lng: 112.95,
         url: "https://bromotenggersemeru.org/",
-        consiglio: "El amanecer desde Penanjakan es espectacular pero está lleno de jeeps: ir sabiéndolo."
+        consiglio: "El amanecer desde Penanjakan es espectacular pero está lleno de jeeps: ir sabiéndolo.",
       },
       {
         nome: "Kawah Ijen y el fuego azul",
@@ -278,9 +423,66 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Desde Banyuwangi o Licin en coche hasta Paltuding, luego a pie hasta el borde del cráter y, donde está permitido, hacia el lago. Hace falta una máscara antigás de verdad. Las entradas se compran online; el parque pide además un certificado médico reciente (a menudo lo gestionan hoteles y tours).",
         quando: "La puerta de Paltuding abre a las 2 y cierra a mediodía; el fuego azul solo se ve con oscuridad, antes del amanecer. El cráter cierra un día al mes por limpieza y con mal tiempo o actividad volcánica.",
         tempo: "medio día",
-        costo: "Extranjeros 100.000 IDR los días laborables y 150.000 IDR los fines de semana y festivos (2025).",
+        costo: "Extranjeros 100.000 IDR los días laborables y 150.000 IDR los fines de semana y festivos, unos 6-9 € (2025).",
+        orari: "Puerta de Paltuding de 2:00 a mediodía. Cerrado por mantenimiento el primer viernes de cada mes y con humos, mal tiempo o actividad volcánica.",
+        lat: -8.0575,
+        lng: 114.2415,
         url: "https://ayoketamannasional.kehutanan.go.id/en/taman-wisata-alam/kawah-ijen",
-        consiglio: "Llevar una máscara antigás de verdad y no un pañuelo; no fotografiar a los mineros sin preguntar."
+        consiglio: "Llevar una máscara antigás de verdad y no un pañuelo; no fotografiar a los mineros sin preguntar.",
+      },
+      {
+        nome: "Kraton de Yogyakarta y Taman Sari",
+        testo: "El palacio del sultán, todavía en uso, con un museo y espectáculos de gamelán. Dentro del recinto del Kraton está el Taman Sari, el «castillo de agua» construido en el siglo XVIII, con estanques y pabellones.",
+        come: "A pie o en becak desde Malioboro.",
+        quando: "Por la mañana. El Kraton tiene horario reducido los días de ceremonia.",
+        tempo: "2 horas",
+        costo: "Kraton unos 25.000 IDR para extranjeros, Taman Sari aparte unos 25.000 IDR: cerca de 1,5 € cada uno (2025).",
+        orari: "Kraton de martes a domingo 9:00-14:00, cerrado los lunes y durante las ceremonias de la corte.",
+        lat: -7.80569,
+        lng: 110.36406,
+        consiglio: "Visitar ambos en el mismo paseo y luego perderse por las calles del barrio de los batik. Ignorar a quien propone una «exposición de batik de estudiantes, solo hoy»: lleva a una tienda con precios inflados.",
+      },
+      {
+        nome: "Punthuk Setumbu",
+        testo: "Una colina boscosa a pocos kilómetros de Borobudur, desde la que al amanecer se ve el templo surgir de la niebla, con los volcanes Merapi y Merbabu al fondo. Es la alternativa más sencilla cuando se agotan las plazas para el amanecer sobre el templo.",
+        come: "En coche desde Yogyakarta, una hora y media; desde el aparcamiento, una subida corta a pie por escalones hasta la plataforma.",
+        quando: "Antes del amanecer; después se entra en Borobudur con el primer turno.",
+        tempo: "1,5 horas",
+        lat: -7.60741,
+        lng: 110.17784,
+        consiglio: "Los días secos, de mayo a septiembre, dan más posibilidades de ver niebla baja y volcanes a la vez.",
+      },
+      {
+        nome: "Candi Ratu Boko",
+        testo: "Los restos de un conjunto de los siglos VIII-IX en una meseta al sur de Prambanan: una gran puerta de piedra, terrazas, estanques y basamentos. Más que las ruinas cuenta la ubicación, con vistas a la llanura y al Merapi al atardecer.",
+        come: "A pocos kilómetros al sur de Prambanan, en coche o taxi; se combina fácilmente en la misma tarde.",
+        quando: "A última hora de la tarde, para el atardecer desde la puerta.",
+        tempo: "1,5-2 horas",
+        orari: "Todos los días desde las 7:00.",
+        lat: -7.77,
+        lng: 110.48889,
+        url: "https://ticket.borobudurpark.com/en",
+      },
+      {
+        nome: "Candi Sewu",
+        testo: "El segundo conjunto budista de Java después de Borobudur, del siglo VIII: un templo central rodeado de filas de templos menores, muchos reconstruidos en parte. Está en el mismo parque que Prambanan y casi siempre vacío.",
+        come: "A pie o con las bicicletas y lanzaderas internas del parque de Prambanan, unos 800 metros al norte de los templos principales.",
+        quando: "Después de Prambanan, una hora y media antes del cierre.",
+        tempo: "45 minutos",
+        costo: "Incluido en la entrada de Prambanan.",
+        lat: -7.74393,
+        lng: 110.49284,
+        url: "https://ticket.borobudurpark.com/en",
+      },
+      {
+        nome: "Cascada de Madakaripura",
+        testo: "La cascada más alta de Java, escondida al fondo de un cañón estrecho, con un salto de más de 200 metros. Para llegar se camina por el río y se pasa bajo cascadas menores: uno se moja seguro.",
+        come: "A unos 45 minutos en coche desde la zona del Bromo; un kilómetro a pie por el río y luego otros 500 metros vadeando.",
+        quando: "Por la mañana, después del amanecer en el Bromo; en la estación seca, porque con las lluvias el río crece.",
+        tempo: "2-3 horas",
+        lat: -7.84472,
+        lng: 113.0175,
+        consiglio: "Sandalias, una muda y una bolsa estanca para el móvil y los documentos.",
       },
       {
         nome: "Malioboro y talleres de batik",
@@ -288,17 +490,63 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "A pie. Los cursos se reservan en los talleres del barrio de Taman Sari.",
         quando: "Por la tarde y la noche.",
         tempo: "2-3 horas",
-        consiglio: "Un curso de batik es una buena forma de ver una artesanía viva."
-      }
+        lat: -7.79336,
+        lng: 110.36571,
+        consiglio: "Un curso de batik es una buena forma de ver una artesanía viva.",
+      },
+      {
+        nome: "Kotagede",
+        testo: "El barrio más antiguo de Yogyakarta, primera capital del reino de Mataram en el siglo XVI, con callejones estrechos, casas tradicionales, la vieja mezquita y las tumbas reales. Es conocido sobre todo por los talleres de plata, donde se ve trabajar la filigrana.",
+        come: "Unos 5 km al sureste del centro, en Grab o Gojek; el barrio se recorre a pie.",
+        quando: "Por la mañana, con los talleres abiertos.",
+        tempo: "2 horas",
+        lat: -7.81786,
+        lng: 110.39541,
+      },
+      {
+        nome: "Kota Tua, Yakarta",
+        testo: "La vieja Batavia colonial holandesa, con la plaza Fatahillah, los edificios porticados de la administración y los museos en edificios históricos. Es el lugar para ver Yakarta en medio día, antes del vuelo a Yogyakarta.",
+        come: "En Grab o en el autobús TransJakarta hasta la estación Jakarta Kota; luego a pie alrededor de la plaza.",
+        quando: "Por la mañana o a última hora de la tarde, evitando el calor del mediodía.",
+        tempo: "2-3 horas",
+        lat: -6.13468,
+        lng: 106.81324,
+      },
+      {
+        nome: "Monas, Yakarta",
+        testo: "El Monumento Nacional, un obelisco de 132 metros con la cima dorada en el centro de la plaza Merdeka. Desde la terraza de arriba, los días sin bruma, la ciudad se extiende hasta el horizonte.",
+        come: "En Grab desde Kota Tua, pocos minutos. La subida a la cima tiene entrada aparte y plazas limitadas.",
+        quando: "Por la mañana, cuando la bruma es más ligera y las colas más cortas.",
+        tempo: "1-1,5 horas",
+        lat: -6.17539,
+        lng: 106.82714,
+      },
     ],
     programmi: [
+      {
+        titolo: "1 día: los templos de Yogyakarta",
+        tappe: [
+          "Amanecer en Borobudur, o en Punthuk Setumbu si no quedan plazas",
+          "Subida a la estructura con el primer turno",
+          "Pausa en Yogyakarta en las horas de calor",
+          "Tarde en Prambanan y Candi Sewu, atardecer entre las torres",
+        ],
+      },
+      {
+        titolo: "2 días: Yogyakarta",
+        tappe: [
+          "Día 1: Borobudur al amanecer, Prambanan y Sewu al atardecer",
+          "Día 2: Kraton y Taman Sari por la mañana, taller de batik",
+          "Día 2: Kotagede por la tarde, noche en Malioboro con gudeg",
+        ],
+      },
       {
         titolo: "3 días",
         tappe: [
           "Día 1: Yogyakarta, Kraton y Taman Sari, cena en Malioboro",
           "Día 2: amanecer en Borobudur, Prambanan por la tarde",
-          "Día 3: tren a Surabaya o Probolinggo, noche en Cemoro Lawang"
-        ]
+          "Día 3: tren a Surabaya o Probolinggo, noche en Cemoro Lawang",
+        ],
       },
       {
         titolo: "6-8 días",
@@ -306,31 +554,34 @@ export const destinazioniIndonesia: Destinazione[] = [
           "Días 1-3 como arriba",
           "Día 4: amanecer en el Bromo, traslado hacia Banyuwangi",
           "Día 5: Ijen de noche, descanso",
-          "Días 6-8: Bali o regreso"
-        ]
-      }
+          "Días 6-8: Bali o regreso",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Prawirotaman (Yogyakarta)",
         perChi: "quien quiere estar más tranquilo",
-        testo: "Barrio de cafés y casas de huéspedes, menos caótico que Malioboro."
+        testo: "Barrio de cafés y casas de huéspedes, menos caótico que Malioboro.",
+        fascia: "15-70 €",
       },
       {
         nome: "Malioboro",
         perChi: "quien quiere el corazón turístico",
-        testo: "Cerca de la estación y los puestos. Ruidoso."
+        testo: "Cerca de la estación y los puestos. Ruidoso.",
+        fascia: "20-80 €",
       },
       {
         nome: "Cemoro Lawang",
         perChi: "quien va al Bromo",
-        testo: "Pueblo en el borde del cráter, con alojamiento sencillo. Hace frío por la noche."
+        testo: "Pueblo en el borde del cráter, con alojamiento sencillo. Hace frío por la noche.",
+        fascia: "15-70 €",
       },
       {
         nome: "Banyuwangi o Licin",
         perChi: "quien va al Ijen",
-        testo: "Alojamiento sencillo para salir en plena noche."
-      }
+        testo: "Alojamiento sencillo para salir en plena noche.",
+      },
     ],
     sapori: [
       {
@@ -355,6 +606,52 @@ export const destinazioniIndonesia: Destinazione[] = [
       "El tráfico de Yakarta hace imprevisibles los tiempos de trayecto.",
       "Bromo: acordar el precio del jeep antes de partir; el Penanjakan está lleno de gente.",
       "Los taxis no oficiales en las estaciones piden tarifas altas: usar Grab o taxis con taxímetro."
+    ],
+    gite: [
+      {
+        nome: "Volcán Merapi",
+        distanza: "unos 30 km, 1 hora en coche",
+        come: "En coche con conductor hasta Kaliurang y luego en jeep con los tours locales por las coladas de la erupción de 2010.",
+        testo: "El volcán más activo de Indonesia domina la llanura de Yogyakarta. Los recorridos en jeep pasan por pueblos sepultados y campos de lava, con el cono humeante al fondo en las mañanas claras. Con alerta volcánica alta, las zonas cercanas al cráter cierran.",
+      },
+      {
+        nome: "Playa de Parangtritis",
+        distanza: "unos 28 km, 45 minutos-1 hora en coche",
+        come: "En Grab o scooter desde Yogyakarta, hacia el sur.",
+        testo: "Una larga playa de arena oscura en el océano Índico, con dunas y acantilados, ligada a las leyendas de la reina del mar del Sur. Se viene por el atardecer: hay corrientes fuertes y no se recomienda el baño.",
+      },
+      {
+        nome: "Meseta de Dieng",
+        distanza: "unos 120 km, 3-4 horas en coche",
+        come: "En coche con conductor, saliendo antes del amanecer; día largo, mejor con una noche allí.",
+        testo: "Una meseta volcánica a más de 2.000 metros con algunos de los templos hindúes más antiguos de Java, lagos de colores y cráteres humeantes. Hace frío, sobre todo al amanecer.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Java?",
+        risposta: "Tres días bastan para Yogyakarta con Borobudur y Prambanan. Para añadir el Bromo y el Ijen hacen falta 6-8 días, porque los traslados en tren y coche son largos.",
+      },
+      {
+        domanda: "¿Hay que reservar la subida a Borobudur?",
+        risposta: "Sí. La subida a la estructura es por turnos con guía y unas 1.200 plazas al día, y se agota con mucha antelación: hay que comprarla en el portal oficial antes de salir.",
+      },
+      {
+        domanda: "¿Conviene ver Borobudur y Prambanan el mismo día?",
+        risposta: "Sí, es la combinación más habitual: Borobudur al amanecer, pausa en las horas de calor y Prambanan por la tarde hasta el atardecer. Están en lados opuestos de Yogyakarta, así que hace falta coche con conductor.",
+      },
+      {
+        domanda: "¿Cómo se va de Yogyakarta al Bromo?",
+        risposta: "En tren hasta Surabaya Gubeng (4-5 horas), luego a Probolinggo (unas 2 horas) y en minibús público hasta Cemoro Lawang, unos 35.000 IDR. A la salida de la estación de Probolinggo conviene ignorar a quien dice que los minibuses ya han salido.",
+      },
+      {
+        domanda: "¿Se puede subir al Ijen sin tour?",
+        risposta: "Sí, con coche y conductor desde Banyuwangi o Licin hasta Paltuding y la entrada comprada online. Aun así hacen falta una máscara antigás de verdad, una linterna frontal y el control médico que pide el parque.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para Java?",
+        risposta: "De mayo a septiembre, la estación seca, cuando el cielo al amanecer sobre el Bromo y Borobudur está más despejado. De noviembre a marzo llueve a menudo y los senderos de los volcanes pueden cerrar.",
+      },
     ],
     esperienzeSlugs: ['alba-bromo-jeep'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'indonesia-isola-per-isola'],
@@ -739,10 +1036,11 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveMangiare:
       "Célebes tiene una cocina muy picante, sobre todo en el norte, alrededor de Manado: el plato que hay que conocer es el rica-rica, a base de guindilla en cantidades que no se negocian. En Makassar se come el coto makassar, sopa de ternera que se sirve en el desayuno, y el pescado a la parrilla en el paseo marítimo por la noche. En Tana Toraja aparecen el cerdo y el búfalo, porque la zona es cristiana: el pa'piong, carne cocinada dentro de un tubo de bambú, a menudo hay que pedirlo con antelación.",
     comeArrivare:
-      "Vuelo a Makassar (hub principal), luego autobús o vuelo interno a Rantepao (Tana Toraja) o a Manado (base para Bunaken).",
+      "Hay dos aeropuertos: Makassar (UPG), el nudo del sur, y Manado (MDC), la puerta del norte. De Makassar a Rantepao el autobús nocturno sale por la tarde de la terminal Daya y llega de madrugada tras unas 9-10 horas, por 200.000-350.000 IDR según la clase (unos 11-19 €); el vuelo al aeropuerto de Toraja dura unos 55 minutos, pero hay pocos vuelos y pueden cancelarse. De Denpasar a Manado hay un directo de unas 2,5 horas cuando la ruta está activa; si no, se pasa por Makassar en 4-5 horas. Del aeropuerto de Manado a Tomohon se tarda 1-1,5 horas en coche; a Bunaken, la barca desde el muelle de Manado tarda 30-60 minutos.",
     comeSpostarsi: "Autobús o coche con conductor para Tana Toraja; barca desde el muelle de Manado para Bunaken. Para organizarlo todo recomiendo Wale Adventure (wale-adventure.com), operador turístico local: amables y buenos, con tours privados por toda la isla y una vanilla farm que visitar (su web la hice yo).",
     periodoMigliore: "mayo-octubre",
-    costi: "en la media, más alto para los paquetes de buceo en Bunaken",
+    costi:
+      "Tangkoko unos 100.000 IDR al día para extranjeros (unos 5 €), más el fin de semana, guía aparte; Bunaken unos 50.000 IDR al día (unos 3 €), a menudo incluido en los tours (2026). Económico: unos 30-40 € al día con guesthouse, warung y autobús. Medio: 70-110 € con hotel en Rantepao y Manado, conductor y guía. Alto: más de 150 € con dive resort en Bunaken y tours privados.",
     erroriDaEvitare: [
       "Participar en ceremonias funerarias sin un guía que explique la etiqueta: son eventos privados, abiertos a los visitantes solo con ciertas reglas de respeto",
     ],
@@ -755,7 +1053,19 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Toraja está lejos de Makassar: un viaje largo en autobús nocturno o en coche, o con vuelos internos. Los pueblos se visitan con guía.",
         quando: "En la estación seca. Las fechas de los funerales las deciden las familias: el guía sabe si hay alguno en curso.",
         tempo: "2-3 días",
-        consiglio: "Contratar un guía local que explique los símbolos: sin él se pierde la mitad del significado."
+        lat: -2.97046,
+        lng: 119.89872,
+        consiglio: "Contratar un guía local que explique los símbolos: sin él se pierde la mitad del significado.",
+      },
+      {
+        nome: "Ke'te Kesu",
+        testo: "El pueblo tongkonan más visitado de Tana Toraja: una fila de casas con tejado de barca frente a los graneros de arroz, con cuernos de búfalo colgados en las fachadas como señal de rango. Detrás del pueblo, en la pared de roca, hay tumbas antiguas y ataúdes de madera colgados. Es el lugar para entender cómo es un pueblo toraja antes de ver los demás.",
+        come: "A pocos kilómetros al sureste de Rantepao, en coche, scooter o con el guía.",
+        quando: "A primera hora, antes de los grupos.",
+        tempo: "1-1,5 horas",
+        costo: "Una pequeña entrada, pagada en la puerta.",
+        lat: -2.99664,
+        lng: 119.91026,
       },
       {
         nome: "Tumbas en la roca",
@@ -763,7 +1073,21 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Con el guía desde Rantepao, en coche o scooter.",
         quando: "Por la mañana.",
         tempo: "medio día",
-        consiglio: "Llevar linterna para las cuevas y respetar las tumbas: no tocar los huesos."
+        costo: "Una pequeña entrada en cada sitio, pagada en la puerta.",
+        lat: -3.04979,
+        lng: 119.89287,
+        consiglio: "Llevar linterna para las cuevas y respetar las tumbas: no tocar los huesos.",
+      },
+      {
+        nome: "Londa",
+        testo: "Cuevas funerarias al pie de una pared de roca, con las tau tau alineadas en un balcón excavado sobre la entrada. Dentro, a oscuras, hay ataúdes, calaveras y huesos dejados por las familias, a menudo con ofrendas de cigarrillos. Es uno de los sitios funerarios más impresionantes de la zona y uno de los más cercanos a Rantepao.",
+        come: "Al sur de Rantepao, en coche o scooter. En la entrada hay guías locales con lámparas para entrar en las cuevas.",
+        quando: "Por la mañana.",
+        tempo: "1 hora",
+        costo: "Una pequeña entrada; el guía con la lámpara se paga aparte.",
+        lat: -3.01491,
+        lng: 119.87589,
+        consiglio: "En los pasos bajos se camina agachado: zapato cerrado y nada de bolsas voluminosas.",
       },
       {
         nome: "Un funeral toraja",
@@ -771,7 +1095,17 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Solo con un guía que explique la etiqueta. Se lleva un regalo, normalmente azúcar o cigarrillos, y se permanece donde indique el guía.",
         quando: "Cuando la familia lo celebra: las fechas no son fijas y se conocen en el lugar, con el guía.",
         tempo: "medio día",
-        consiglio: "Prepararse para ver cosas impactantes. Para organizar el viaje: Wale Adventure (wale-adventure.com), operador local."
+        consiglio: "Prepararse para ver cosas impactantes. Para organizar el viaje: Wale Adventure (wale-adventure.com), operador local.",
+      },
+      {
+        nome: "Batutumonga y los senderos del Sesean",
+        testo: "Un pueblo en las laderas del monte Sesean, al norte de Rantepao, con arrozales en terrazas que bajan hacia el valle y vistas de toda la llanura. Desde aquí se baja a pie durante unas horas entre campos, tongkonan aislados y pequeños pueblos. Es la forma más lenta y menos turística de ver la cultura toraja.",
+        come: "En coche hasta el pueblo y luego a pie cuesta abajo con un guía contratado en Rantepao por día.",
+        quando: "En la estación seca, saliendo por la mañana.",
+        tempo: "1 día",
+        lat: -2.91039,
+        lng: 119.88334,
+        consiglio: "El sendero pasa por diques y terrenos privados: tras la lluvia hay barro, hace falta calzado con suela.",
       },
       {
         nome: "Parque Marino Nacional de Bunaken",
@@ -779,7 +1113,40 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "En barco desde el puerto de Manado. Paquetes de una o más noches.",
         quando: "En los meses con el mar más tranquilo: preguntar a los operadores de buceo.",
         tempo: "2-3 días",
-        consiglio: "Quien llega después de Toraja lo vive como contrapeso: dos caras distintas de la isla."
+        costo: "Entrada al parque para extranjeros unos 50.000 IDR al día, unos 3 € (2026), a menudo incluida en los tours.",
+        lat: 1.61667,
+        lng: 124.75,
+        consiglio: "Quien llega después de Toraja lo vive como contrapeso: dos caras distintas de la isla.",
+      },
+      {
+        nome: "Reserva de Tangkoko",
+        testo: "Un bosque de llanura bajo el monte Tangkoko, cerca de Bitung, en la punta noreste de Sulawesi. Se camina con un guía local buscando tarseros, diminutos primates de ojos enormes, y macacos negros crestados, además de cálaos y otras aves. Es uno de los pocos lugares del mundo donde los tarseros se ven con bastante probabilidad.",
+        come: "Desde Tomohon unas 2-2,5 horas en coche, desde Manado algo menos. Se entra desde el pueblo de Batuputih con un guía local, obligatorio.",
+        quando: "Al amanecer para los macacos y las aves; al atardecer para los tarseros, cuando salen de los árboles huecos donde duermen.",
+        tempo: "2-3 horas por salida",
+        costo: "Unos 100.000 IDR al día para extranjeros, unos 5 € (2026), más el fin de semana; el guía se paga aparte.",
+        lat: 1.51667,
+        lng: 125.18333,
+        consiglio: "Nosotros la hicimos con Wale Adventure. Con una noche en Batuputih se hacen el amanecer y el atardecer sin conducir de noche. A los tarseros no se les ilumina con linterna ni flash.",
+      },
+      {
+        nome: "Tomohon y el lago Linow",
+        testo: "Tomohon es una ciudad en el altiplano entre los volcanes Lokon y Mahawu, más fresca que la costa y rodeada de viveros de flores y huertos. A pocos kilómetros al sur está el lago Linow, un lago volcánico cuyas aguas cambian de color con el azufre y la luz, con fumarolas en la orilla. Es la base más cómoda para el norte de Sulawesi.",
+        come: "A 1-1,5 horas en coche del aeropuerto de Manado; el lago está a pocos minutos del centro de Tomohon.",
+        quando: "Por la mañana, antes de que lleguen las nubes a los volcanes.",
+        tempo: "medio día",
+        lat: 1.27078,
+        lng: 124.82648,
+        consiglio: "Por la noche hace falta una sudadera. Wale Adventure tiene su base en Tomohon y organiza los tours del norte, incluida la visita a su vanilla farm.",
+      },
+      {
+        nome: "Volcán Mahawu",
+        testo: "Uno de los volcanes que cierran el altiplano de Tomohon, con un cráter ancho y una pequeña laguna en el fondo. Se llega en coche casi hasta arriba y se sube a pie hasta el borde, desde donde en días claros se ven el Lokon, la llanura y el mar hacia Manado.",
+        come: "En coche desde Tomohon y luego una breve subida a pie.",
+        quando: "A primera hora, con el cielo más despejado.",
+        tempo: "1,5-2 horas",
+        lat: 1.358,
+        lng: 124.858,
       },
       {
         nome: "Fort Rotterdam y Makassar",
@@ -787,38 +1154,82 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "A pie o en taxi desde el centro de Makassar.",
         quando: "Por la mañana.",
         tempo: "1-2 horas",
-        consiglio: "Comer coto makassar por la mañana y pescado a la parrilla en el paseo marítimo por la noche."
-      }
+        lat: -5.13389,
+        lng: 119.40552,
+        consiglio: "Comer coto makassar por la mañana y pescado a la parrilla en el paseo marítimo por la noche.",
+      },
+      {
+        nome: "Puerto de Paotere",
+        testo: "El viejo puerto de Makassar, donde están anclados los pinisi, los grandes barcos de madera de los bugis que aún conectan las islas. Entre cargas, pescadores y mercado de pescado, es la cara más viva y menos turística de la ciudad.",
+        come: "En taxi o Grab desde el centro, a pocos kilómetros al norte de Fort Rotterdam.",
+        quando: "A primera hora, cuando se descargan los barcos.",
+        tempo: "1 hora",
+        lat: -5.1097,
+        lng: 119.42109,
+      },
+      {
+        nome: "Paseo marítimo de Losari",
+        testo: "El paseo marítimo de Makassar, a dos pasos de Fort Rotterdam, donde la ciudad se reúne por la tarde. Los puestos y restaurantes de pescado asan la captura del día, y el atardecer sobre el estrecho es el mejor momento del día en la ciudad.",
+        come: "A pie desde Fort Rotterdam.",
+        quando: "Al atardecer y por la noche.",
+        tempo: "1-2 horas",
+        lat: -5.14388,
+        lng: 119.40698,
+      },
     ],
     programmi: [
-      {
-        titolo: "7-9 días",
-        tappe: [
-          "Día 1: llegada a Makassar, Fort Rotterdam",
-          "Día 2: traslado a Rantepao",
-          "Día 3-4: tongkonan, tumbas en la roca, un funeral si lo hay",
-          "Día 5: regreso a Makassar o vuelo a Manado",
-          "Día 6-8: Bunaken",
-          "Día 9: regreso"
-        ]
-      }
+      { titolo: "1 día: Makassar", tappe: [
+        "Primera hora: puerto de Paotere y los pinisi",
+        "Desayuno con coto makassar",
+        "Fort Rotterdam y el museo La Galigo",
+        "Atardecer y pescado a la parrilla en el paseo de Losari",
+        "Noche: autobús nocturno a Rantepao",
+      ] },
+      { titolo: "3 días: Tana Toraja", tappe: [
+        "Día 1: Ke'te Kesu por la mañana, luego Londa y Lemo",
+        "Día 2: funeral toraja con el guía, si hay alguno",
+        "Día 3: Batutumonga y bajada a pie entre los arrozales del Sesean",
+        "Noche: regreso a Makassar en el autobús nocturno",
+      ] },
+      { titolo: "3 días: el norte, de Tomohon a Bunaken", tappe: [
+        "Día 1: llegada a Manado y subida a Tomohon, lago Linow y Mahawu",
+        "Día 2: Tangkoko, con la salida al atardecer para los tarseros y noche en Batuputih",
+        "Día 3: barca a Bunaken, esnórquel o inmersiones en las paredes",
+      ] },
+      { titolo: "7-9 días", tappe: [
+        "Día 1: llegada a Makassar, Fort Rotterdam",
+        "Día 2: traslado a Rantepao",
+        "Día 3-4: tongkonan, tumbas en la roca, un funeral si lo hay",
+        "Día 5: regreso a Makassar o vuelo a Manado",
+        "Día 6-8: Bunaken",
+        "Día 9: regreso",
+      ] },
     ],
     zone: [
       {
         nome: "Rantepao",
         perChi: "quien visita Tana Toraja",
-        testo: "Pequeña ciudad con casas de huéspedes y restaurantes, base para los pueblos."
+        testo: "Pequeña ciudad con casas de huéspedes y restaurantes, base para los pueblos.",
+        fascia: "20-60 €",
+      },
+      {
+        nome: "Tomohon",
+        perChi: "quien visita el norte con Tangkoko y los volcanes",
+        testo: "Altiplano fresco entre volcanes, con homestays y pequeños hoteles baratos. A 1-1,5 horas de Manado.",
+        fascia: "10-40 €",
       },
       {
         nome: "Manado",
         perChi: "quien va a Bunaken",
-        testo: "Ciudad portuaria con hoteles, de donde salen las barcas a la isla."
+        testo: "Ciudad portuaria con hoteles, de donde salen las barcas a la isla.",
+        fascia: "25-80 €",
       },
       {
         nome: "Isla de Bunaken",
         perChi: "quien bucea",
-        testo: "Homestays y resorts en la isla. Sencillo."
-      }
+        testo: "Homestays y resorts en la isla. Sencillo.",
+        fascia: "40-120 €",
+      },
     ],
     sapori: [
       {
@@ -843,6 +1254,52 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Tana Toraja es cristiana: aparece el cerdo, que en el resto de Indonesia es raro.",
       "Las carreteras a Toraja son largas y sinuosas; el autobús nocturno es incómodo.",
       "El paquete de buceo en Bunaken cuesta más que la media: comparar operadores."
+    ],
+    gite: [
+      {
+        nome: "Rammang-Rammang",
+        distanza: "unos 45 km de Makassar, 1-1,5 horas en coche",
+        come: "En coche con conductor hasta el embarcadero del río y luego en barca entre las torres kársticas.",
+        testo: "Torres de roca caliza que surgen de los arrozales y del río, en el karst de Maros. Se remonta el río en barca hasta un pequeño pueblo entre las paredes y se camina entre los campos.",
+      },
+      {
+        nome: "Cascada de Bantimurung",
+        distanza: "unos 45 km de Makassar, 1-1,5 horas en coche",
+        come: "En coche; se combina fácilmente con Rammang-Rammang en el mismo día.",
+        testo: "Una cascada ancha sobre escalones de roca en el parque nacional de Bantimurung-Bulusaraung, famoso por sus mariposas. El fin de semana se llena de familias de Makassar: mejor ir entre semana.",
+      },
+      {
+        nome: "Estrecho de Lembeh",
+        distanza: "Bitung, 1-1,5 horas en coche desde Manado",
+        come: "En coche hasta Bitung y luego en barca con un centro de buceo.",
+        testo: "El canal entre Sulawesi y la isla de Lembeh es uno de los destinos más conocidos del mundo para el muck diving: fondos de arena oscura donde se buscan pulpos, peces rana y nudibranquios. Está cerca de Tangkoko y se combina bien con la reserva.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para Sulawesi?",
+        risposta: "Al menos una semana para Tana Toraja y el norte: Toraja sola pide tres días más los dos de carretera desde y hacia Makassar, y el norte con Tomohon, Tangkoko y Bunaken otros tres o cuatro.",
+      },
+      {
+        domanda: "¿Mejor Tana Toraja o el norte de Sulawesi?",
+        risposta: "Depende de lo que se busque: Toraja es cultura, con pueblos, tumbas y funerales; el norte es naturaleza, con volcanes, tarseros y las paredes de Bunaken. Con poco tiempo, el norte es más cómodo porque Manado tiene vuelos directos a Sorong y Bali.",
+      },
+      {
+        domanda: "¿Cómo se llega a Tana Toraja desde Makassar?",
+        risposta: "En el autobús nocturno desde la terminal Daya, unas 9-10 horas por 200.000-350.000 IDR, o con el vuelo de unos 55 minutos al aeropuerto de Toraja, que tiene pocos vuelos y puede cancelarse.",
+      },
+      {
+        domanda: "¿Se puede asistir a un funeral toraja?",
+        risposta: "Sí, con un guía local que conozca a la familia y explique la etiqueta. Se lleva un pequeño regalo, normalmente azúcar o cigarrillos, y se está donde indica el guía; las ceremonias son más frecuentes en la estación seca.",
+      },
+      {
+        domanda: "¿Cuándo se ven los tarseros en Tangkoko?",
+        risposta: "Al atardecer, cuando salen de los árboles huecos donde duermen. Para verlos con calma conviene dormir en Batuputih, a la entrada de la reserva, y hacer también la salida del amanecer para los macacos.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para Sulawesi?",
+        risposta: "De mayo a octubre, en la estación más seca. Es también cuando los grandes funerales toraja son más frecuentes, sobre todo en verano.",
+      },
     ],
     esperienzeSlugs: ['diving-bunaken-national-park'],
     tripSlugs: ['indonesia-itinerario', 'bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
@@ -1447,11 +1904,11 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveMangiare:
       "La oferta es mínima, y forma parte del viaje: fuera de Labuan Bajo se come en los warung de los pueblos, casi siempre arroz, pescado o pollo y verduras salteadas, con pocas alternativas. Merece la pena probar el se'i, la carne ahumada típica de las islas orientales, y en todas partes se encuentra el café de Flores, tostado en casa y servido sin filtro. En las guesthouses de Moni la cena se pide por la tarde, porque la cocinan expresamente.",
     comeArrivare:
-      "Vuelo a Labuan Bajo para el oeste de la isla (y para seguir hacia Komodo), o a Ende o Maumere para el este.",
+      "Para el oeste se vuela a Labuan Bajo (LBJ), con vuelos directos desde Bali, poco más de una hora, y desde Yakarta; es también el puerto del Parque Nacional de Komodo. Para el este se vuela a Ende o Maumere, con pocos vuelos y horarios que cambian: hay que reservarlos con antelación. Luego se cruza la isla por la Trans-Flores con coche y conductor por días: Labuan Bajo-Bajawa unas 9-10 horas con paradas, Bajawa-Moni 6-7 horas, Moni-Ende 1,5-2 horas, Moni-Maumere 3-4 horas.",
     comeSpostarsi:
       "La Trans-Flores, la carretera que cruza la isla de oeste a este: panorámica pero tortuosa y más lenta de lo que parece en el mapa.",
     periodoMigliore: "mayo-octubre",
-    costi: "entre las islas más baratas del viaje",
+    costi: "Entradas: Kelimutu unos 150.000 IDR para extranjeros entre semana, más el fin de semana; Bena y los pueblos con donativo. Económico: unos 20-30 € al día con casas de huéspedes y warungs, aunque el coche con conductor en la Trans-Flores pesa y conviene compartirlo. Medio: 50-80 € con conductor compartido y mejores hoteles en Labuan Bajo. Alto: más de 120 € con conductor privado, ecolodges y resorts en Labuan Bajo. Siempre con efectivo: fuera de Labuan Bajo y Ende hay pocos cajeros.",
     erroriDaEvitare: [
       "Subestimar los tiempos de recorrido en la Trans-Flores: las distancias en línea recta engañan",
     ],
@@ -1461,18 +1918,14 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Kelimutu",
         testo: "Tres lagos de cráter en la misma montaña, de colores distintos que cambian con el tiempo por los gases volcánicos y las lluvias. No hay forma de saber de antemano qué colores se encontrarán, y ese es el sentido del lugar.",
-        come: "Desde el pueblo de Moni en moto o coche hasta el aparcamiento, luego a pie. Despertador antes del amanecer.",
-        quando: "Al amanecer, antes de que suba la niebla.",
+        come: "Desde el pueblo de Moni en moto o coche hasta el aparcamiento, unos 12 km y media hora, y luego unos veinte minutos a pie por un sendero fácil con escalones hasta el mirador más alto. Despertador antes del amanecer.",
+        quando: "Al amanecer, antes de que suba la niebla. Las nubes pueden taparlo todo la primera hora y abrirse de golpe.",
         tempo: "3 horas",
-        consiglio: "Merecen el madrugón antes del amanecer: la luz del amanecer sobre los lagos es lo mejor."
-      },
-      {
-        nome: "Bena",
-        testo: "Un pueblo tradicional a los pies del volcán Inerie, con filas de casas de paja y monumentos megalíticos de piedra. Los ngada siguen viviendo aquí.",
-        come: "Desde Bajawa en coche, a poca distancia. Se deja un donativo en la entrada.",
-        quando: "Por la mañana.",
-        tempo: "1-2 horas",
-        consiglio: "Dejar una pequeña ofrenda y preguntar antes de fotografiar a las personas."
+        costo: "Extranjeros unos 150.000 IDR entre semana, cerca de 9 € (2025), más el fin de semana; en efectivo.",
+        lat: -8.76611,
+        lng: 121.81417,
+        url: "https://ayoketamannasional.kehutanan.go.id/en/taman-nasional/kelimutu",
+        consiglio: "Merecen el madrugón antes del amanecer: la luz del amanecer sobre los lagos es lo mejor.",
       },
       {
         nome: "Wae Rebo",
@@ -1480,26 +1933,95 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Desde la zona de Denge y Dintor, unos 4,5 km de sendero por el bosque: 2,5-3 horas de subida (2022). Se duerme en las casas de huéspedes del pueblo, en dormitorio. Se organiza a través del comité del pueblo o de un operador.",
         quando: "En la estación seca; con las lluvias el sendero está embarrado.",
         tempo: "2 días (1 noche)",
-        consiglio: "Llevar un regalo modesto para la comunidad y respetar las normas del pueblo."
+        lat: -8.76932,
+        lng: 120.28398,
+        consiglio: "Llevar un regalo modesto para la comunidad y respetar las normas del pueblo.",
       },
       {
-        nome: "Riung y las 17 islas",
-        testo: "Un archipiélago de pequeñas islas con playas y snorkel.",
-        come: "Desde Bajawa o Ruteng a Riung en coche y luego barca. Tours de medio día o de un día.",
-        quando: "En la estación seca, con el mar más tranquilo.",
-        tempo: "medio día",
-        consiglio: "Venir con el tiempo justo: las distancias en la Trans-Flores engañan."
+        nome: "Bena",
+        testo: "Un pueblo tradicional a los pies del volcán Inerie, con filas de casas de paja y monumentos megalíticos de piedra. Los ngada siguen viviendo aquí.",
+        come: "Desde Bajawa en coche, unos veinte kilómetros. En la entrada se firma el registro y se deja un donativo.",
+        quando: "Por la mañana o a primera hora de la tarde.",
+        tempo: "1-2 horas",
+        costo: "Donativo registrado en la entrada.",
+        lat: -8.87763,
+        lng: 120.98583,
+        consiglio: "Dejar una pequeña ofrenda y preguntar antes de fotografiar a las personas.",
       },
       {
         nome: "Arrozales de telaraña de Cancar y Ruteng",
         testo: "Arrozales dispuestos en forma radial como una telaraña, según el antiguo reparto de tierras. El mejor mirador está en una colina cerca del pueblo.",
-        come: "Desde Ruteng en coche.",
+        come: "Desde Ruteng en coche; es una parada natural en la Trans-Flores entre Labuan Bajo y Bajawa.",
         quando: "Por la mañana o al atardecer.",
         tempo: "1 hora",
-        consiglio: "Combinar con una parada en Ruteng, ciudad fresca de altura, y su café."
-      }
+        consiglio: "Combinar con una parada en Ruteng, ciudad fresca de altura, y su café.",
+      },
+      {
+        nome: "Riung y las 17 islas",
+        testo: "Un archipiélago de pequeñas islas con playas y snorkel, protegido como parque marino. Se recorre en barca, parando en playas blancas y en un islote donde descansan colonias de zorros voladores.",
+        come: "Desde Bajawa o Ruteng a Riung en coche y luego barca. Tours de medio día o de un día.",
+        quando: "En la estación seca, con el mar más tranquilo.",
+        tempo: "medio día",
+        consiglio: "Venir con el tiempo justo: las distancias en la Trans-Flores engañan.",
+      },
+      {
+        nome: "Casa de Sukarno en Ende",
+        testo: "La casa donde Sukarno vivió exiliado en los años treinta, antes de ser el primer presidente de Indonesia. Dentro hay muebles y objetos de la época; en el jardín cercano, bajo un árbol del pan, se dice que concibió los principios de la Pancasila.",
+        come: "En el centro de Ende, en coche o a pie.",
+        quando: "Entre semana, por la mañana.",
+        tempo: "45 minutos",
+        costo: "Donativo o una entrada pequeña.",
+        orari: "De lunes a viernes desde las 9:00, en horario de oficina; cerrada sábados y domingos.",
+        lat: -8.84066,
+        lng: 121.64455,
+      },
+      {
+        nome: "Playa de Penggajawa",
+        testo: "Una playa de la costa sur cubierta de guijarros azules y verdes, que los vecinos recogen, separan por colores y venden por sacos. Es una parada de media hora en la carretera entre Bajawa y Ende.",
+        come: "En la Trans-Flores, poco antes de Ende viniendo de Bajawa.",
+        quando: "De día, durante el traslado.",
+        tempo: "30 minutos",
+        lat: -8.79458,
+        lng: 121.49271,
+        consiglio: "Los guijarros son el trabajo de los vecinos: no llevarse ninguno.",
+      },
+      {
+        nome: "Cascada de Murundao",
+        testo: "Una pequeña cascada con una poza para bañarse, a las afueras del pueblo de Moni. Es la forma más sencilla de entrar en calor después del frío del amanecer en el Kelimutu.",
+        come: "A pie desde Moni, a pocos minutos de la carretera principal.",
+        quando: "A media mañana, al volver del Kelimutu.",
+        tempo: "1 hora",
+        lat: -8.75117,
+        lng: 121.84602,
+      },
+      {
+        nome: "Cueva de Batu Cermin",
+        testo: "Una cueva caliza a las puertas de Labuan Bajo, llamada «piedra espejo» porque a ciertas horas el sol entra por una grieta y se refleja en las paredes húmedas. En la roca se ven fósiles de corales y animales marinos, señal de que antes estaba bajo el mar.",
+        come: "A pocos kilómetros del centro de Labuan Bajo, en scooter o coche; dentro se va con un guía local y casco.",
+        quando: "A media mañana, cuando el sol está más alto.",
+        tempo: "1 hora",
+        lat: -8.47937,
+        lng: 119.89919,
+      },
     ],
     programmi: [
+      {
+        titolo: "2 días: el Kelimutu desde el este",
+        tappe: [
+          "Día 1: vuelo a Ende, casa de Sukarno, carretera a Moni",
+          "Día 1: cena en la casa de huéspedes, pedida por la tarde",
+          "Día 2: amanecer en el Kelimutu, baño en Murundao",
+          "Día 2: regreso a Ende o Maumere para el vuelo",
+        ],
+      },
+      {
+        titolo: "3 días: el oeste desde Labuan Bajo",
+        tappe: [
+          "Día 1: Labuan Bajo, cueva de Batu Cermin, carretera a Ruteng y los arrozales de Cancar",
+          "Día 2: Denge y subida a Wae Rebo, noche en el pueblo",
+          "Día 3: descenso y regreso a Labuan Bajo",
+        ],
+      },
       {
         titolo: "5-7 días (este-oeste)",
         tappe: [
@@ -1508,26 +2030,29 @@ export const destinazioniIndonesia: Destinazione[] = [
           "Día 3: Bena y pueblos ngada",
           "Día 4: carretera a Ruteng, Cancar",
           "Día 5: Denge y subida a Wae Rebo",
-          "Día 6: Wae Rebo, descenso y regreso a Labuan Bajo"
-        ]
-      }
+          "Día 6: Wae Rebo, descenso y regreso a Labuan Bajo",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Moni",
         perChi: "quien ve el Kelimutu",
-        testo: "Pueblo de casas de huéspedes sencillas. La cena se pide por la tarde."
+        testo: "Pueblo de casas de huéspedes sencillas. La cena se pide por la tarde.",
+        fascia: "10-30 €",
       },
       {
         nome: "Bajawa",
         perChi: "quien va a Bena",
-        testo: "Ciudad de altura con alojamiento de todo tipo, más fresca."
+        testo: "Ciudad de altura con alojamiento de todo tipo, más fresca.",
+        fascia: "12-45 €",
       },
       {
         nome: "Labuan Bajo",
         perChi: "quien sale o llega",
-        testo: "Puerto con más servicios, base para Komodo."
-      }
+        testo: "Puerto con más servicios, base para Komodo.",
+        fascia: "20-120 €",
+      },
     ],
     sapori: [
       {
@@ -1552,6 +2077,46 @@ export const destinazioniIndonesia: Destinazione[] = [
       "En Wae Rebo y Bena se es huésped: se pregunta antes de fotografiar y se respetan las reglas locales.",
       "Las casas de huéspedes tienen pocas plazas: reservar para las paradas principales.",
       "Llevar efectivo: los cajeros son raros fuera de Labuan Bajo."
+    ],
+    gite: [
+      {
+        nome: "Parque Nacional de Komodo",
+        distanza: "1-2 horas en barco desde Labuan Bajo",
+        come: "Con un tour en barco de un día o con noches a bordo, con operadores con licencia.",
+        testo: "Los dragones de Komodo en Rinca o en la isla de Komodo, siempre con un guarda, Padar al amanecer y el snorkel en Manta Point y Kanawa. La entrada al parque para extranjeros cuesta 250.000 IDR, con trekking y snorkel incluidos.",
+      },
+      {
+        nome: "Kanawa",
+        distanza: "1 hora en barco desde Labuan Bajo",
+        come: "Con los barcos de los tours o un traslado en barca desde el puerto.",
+        testo: "Un islote con una playa blanca y un arrecife que empieza a pocos metros de la orilla: snorkel fácil para el último día antes del vuelo.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para Flores?",
+        risposta: "De cinco a siete días para cruzarla de este a oeste con el Kelimutu, Bena y Wae Rebo. Con menos tiempo conviene elegir un solo lado: el este para el Kelimutu, el oeste para Wae Rebo.",
+      },
+      {
+        domanda: "¿Se puede recorrer Flores sin conductor?",
+        risposta: "Sí, con autobuses locales y motos, pero es lento y cansado. Casi todos contratan coche con conductor por días en la Trans-Flores, con el precio pactado antes: cuantos más días, más barato.",
+      },
+      {
+        domanda: "¿Cómo se llega a Wae Rebo?",
+        risposta: "Desde el pueblo de Denge se sube a pie unos 4,5 km por el bosque, 2,5-3 horas. Se duerme en el pueblo, en la casa de huéspedes, y se llega respetando el rito de bienvenida.",
+      },
+      {
+        domanda: "¿Conviene empezar por el este o por el oeste?",
+        risposta: "Da igual: se vuela a Maumere o Ende y se sale por Labuan Bajo, o al revés. Quien quiera terminar con Komodo empieza por el este.",
+      },
+      {
+        domanda: "¿Cuánto cuesta la entrada al Kelimutu?",
+        risposta: "Para extranjeros unos 150.000 IDR entre semana, más el fin de semana. Conviene llevar efectivo.",
+      },
+      {
+        domanda: "¿Hay cajeros en Flores?",
+        risposta: "En Labuan Bajo y Ende sí; en los pueblos no, y en Moni no hay. Se sale con efectivo para los días de carretera.",
+      },
     ],
     esperienzeSlugs: ['alba-kelimutu'],
     tripSlugs: ['indonesia-itinerario', 'indonesia-isola-per-isola'],
@@ -1585,12 +2150,12 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveMangiare:
       "No hay elección, y no hace falta: en los homestays se come lo que cocina la familia, tres veces al día, pescado recién pescado con arroz y verduras. Es bueno y monótono. Fuera de los alojamientos no existen restaurantes, así que la última ocasión para comprar snacks, agua y efectivo es Sorong o Waisai: en las islas no hay cajeros.",
     comeArrivare:
-      "Vuelo a Sorong (vía Yakarta o Makassar), luego ferri rápido o barca privada a Waisai o a los resorts/liveaboard.",
+      "Se vuela a Sorong (SOQ) desde Yakarta, Makassar o Manado, este último directo en unas 1,5 horas con Lion Air o TransNusa; desde Bali hay directo de Garuda solo en los meses en que opera, en 2026-2027 de finales de octubre a marzo. Del aeropuerto al puerto de Sorong son pocos minutos en taxi. El ferry a Waisai sale a las 14 y tarda unas 2 horas, con billete en el puerto en economy o VIP; el de la mañana no sale todos los días. En Waisai la barca del homestay lleva a Kri, Arborek o a las Fam. En las islas no hay cajeros: el efectivo se saca en Sorong.",
     comeSpostarsi: "Solo por mar: barca pública, barca privada o liveaboard.",
     periodoMigliore:
       "no existe una verdadera estación equivocada: hay dos experiencias distintas. De octubre a abril las corrientes traen un afloramiento de aguas ricas en plancton que atrae a las mantas y a los demás grandes pelágicos, el mar está más tranquilo y los liveaboard operan a pleno rendimiento: es la ventana más segura y con más fauna. De mayo a septiembre soplan los vientos del sureste, que levantan el mar sobre todo en el estrecho de Dampier y en las travesías hacia Misool: los desplazamientos entre islas pueden alargarse y las salidas a las zonas más expuestas pueden cancelarse, y muchos liveaboard en este periodo se desplazan a otro lugar. A cambio, el verano tiene mucha menos gente. Para la lluvia no hay una regla estacional: aquí llueve todo el año, en chubascos breves e imprevisibles. Lo que decide cuándo ir son el viento y lo que se quiere ver bajo el agua.",
     costi:
-      "entre los destinos más caros de Indonesia por la logística y el permiso obligatorio del parque marino (PIN Raja Ampat)",
+      "Tasa turística del distrito de Raja Ampat 1.000.000 IDR por persona para extranjeros, unos 55 € (2026), que se paga una vez por estancia; la tasa del parque marino va aparte y su importe cambió en 2026, así que hay que preguntarla al homestay antes de salir. Económico: unos 60-90 € al día por persona con homestay a pensión completa y salidas en barca compartidas. Medio: 150-250 € con dive resort e inmersiones. Alto: más de 300 € al día en liveaboard.",
     erroriDaEvitare: [
       "No calcular el coste y los tiempos para obtener el permiso obligatorio del parque marino (PIN Raja Ampat)",
       "Subestimar los costes de transporte interno: los vuelos y las barcas hacia esta zona están entre los más caros del país",
@@ -1667,15 +2232,20 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "En barca desde las islas de Waisai o los homestays. Se paga el permiso del parque marino (PIN Raja Ampat).",
         quando: "Al atardecer, pero es el único momento en que uno se cruza con alguien.",
         tempo: "medio día",
-        consiglio: "Subir pronto o al final del día para evitar la plataforma abarrotada."
+        costo: "Cubierto por los permisos de Raja Ampat; el pueblo puede pedir una pequeña aportación por barca.",
+        lat: -0.56417,
+        lng: 130.2706,
+        consiglio: "Subir pronto o al final del día para evitar la plataforma abarrotada.",
       },
       {
-        nome: "Wayag",
-        testo: "El otro mirador famoso, en el norte, con decenas de islotes calizos en una laguna. Más lejos, requiere más tiempo y más dinero.",
-        come: "Con liveaboard o barca privada, lejos de Waisai. Depende del viento y del mar.",
-        quando: "En los meses con el mar más tranquilo: preguntar a homestays y operadores.",
-        tempo: "1 día o más",
-        consiglio: "Prever un día de margen: el viento puede cancelar la salida."
+        nome: "Kri y Cape Kri",
+        testo: "Una pequeña isla en el estrecho de Dampier, con una playa blanca, una fila de homestays y un centro de buceo. Los arrecifes de alrededor están entre los más ricos en especies del mundo, y muchos se alcanzan directamente desde el muelle. Cape Kri, en la punta oriental, es uno de los sitios de buceo más famosos del parque por la cantidad de peces.",
+        come: "Desde el puerto de Waisai con la barca del homestay, acordada antes. Las inmersiones se hacen con Soul Scuba Divers, en la isla.",
+        quando: "Por la mañana, con la luz alta y el mar a menudo más plano.",
+        tempo: "2-3 días",
+        lat: -0.56083,
+        lng: 130.6779,
+        consiglio: "Nosotros dormimos en Paparisa Homestay: precios por encima de la media de los homestays, pero un buen equilibrio entre comodidad y estancia local, y delante de la playa nadan a menudo delfines y dugongos.",
       },
       {
         nome: "Arborek",
@@ -1683,7 +2253,29 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "En barca desde el resto de las islas. Se duerme en los homestays del pueblo.",
         quando: "Todo el año; mejor por la mañana.",
         tempo: "1-2 días",
-        consiglio: "Dormir en homestays, no en resorts: ese modelo es lo que sostiene la protección del parque."
+        lat: -0.56506,
+        lng: 130.51758,
+        consiglio: "Dormir en homestays, no en resorts: ese modelo es lo que sostiene la protección del parque.",
+      },
+      {
+        nome: "Islas Fam: Rufas y la Fam Wall",
+        testo: "Más al noroeste el paisaje cambia: islotes de roca caliza cubiertos de bosque, lagunas turquesa y muy pocos alojamientos. Rufas es una bahía entre los islotes con agua baja y transparente; la Fam Wall es una pared de coral que baja hacia el azul, con corales blandos y abanicos de gorgonias. Piaynemo está a pocos minutos en barca.",
+        come: "En barca desde Kri o Waisai, unas horas según el mar; las salidas se organizan con el homestay.",
+        quando: "El orden de las paradas lo decide la marea; con viento las zonas expuestas pueden saltarse.",
+        tempo: "1-2 días",
+        lat: -0.66054,
+        lng: 130.29064,
+        consiglio: "Nosotros dormimos en Tanjung Mefiyai Homestay: muy sencillo, en un lugar precioso, con Reno organizando excursiones y traslados. Máscara y aletas propias, porque las prestadas no siempre están en buen estado.",
+      },
+      {
+        nome: "Telaga Bintang",
+        testo: "Una laguna en forma de estrella encerrada entre rocas, a dos pasos de Piaynemo. Se ve desde arriba desde un pequeño mirador al que se llega con una breve subida por la roca, y casi todas las barcas la combinan con Piaynemo.",
+        come: "En la misma salida en barca que Piaynemo.",
+        quando: "Antes o después de Piaynemo, con la luz de la tarde.",
+        tempo: "30-45 minutos",
+        lat: -0.56887,
+        lng: 130.27073,
+        consiglio: "La roca es cortante y resbaladiza: hace falta calzado con suela.",
       },
       {
         nome: "Estrecho de Dampier y puntos de mantas",
@@ -1691,7 +2283,27 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "En barca con operadores, en los horarios adecuados para las corrientes.",
         quando: "Las mantas y los grandes pelágicos dependen de la estación: preguntar a los operadores de buceo antes de fijar las fechas.",
         tempo: "1-2 días",
-        consiglio: "Algunos puntos solo se hacen con la corriente adecuada: seguir las instrucciones del guía."
+        consiglio: "Algunos puntos solo se hacen con la corriente adecuada: seguir las instrucciones del guía.",
+      },
+      {
+        nome: "Aves del paraíso en Saporkren y Sawinggrai",
+        testo: "En los bosques de Waigeo y Gam viven las aves del paraíso, con los machos haciendo la danza de cortejo en las mismas ramas al amanecer. Los guías de los pueblos de Saporkren y Sawinggrai llevan a los puntos de observación. En Sawinggrai el muelle del pueblo es también un buen punto de esnórquel.",
+        come: "Saporkren está cerca de Waisai, Sawinggrai en Gam: en barca desde el homestay antes del amanecer y luego un breve paseo por el bosque con el guía del pueblo.",
+        quando: "Al amanecer: pasadas las primeras horas las aves dejan de exhibirse.",
+        tempo: "medio día",
+        lat: -0.43686,
+        lng: 130.72983,
+        consiglio: "Llevar prismáticos o un teleobjetivo: las aves están en lo alto de los árboles.",
+      },
+      {
+        nome: "Wayag",
+        testo: "El otro mirador famoso, en el norte, con decenas de islotes calizos en una laguna. Más lejos, requiere más tiempo y más dinero.",
+        come: "Con liveaboard o barca privada, lejos de Waisai. Depende del viento y del mar.",
+        quando: "En los meses con el mar más tranquilo: preguntar a homestays y operadores.",
+        tempo: "1 día o más",
+        lat: 0.17774,
+        lng: 130.04205,
+        consiglio: "Prever un día de margen: el viento puede cancelar la salida.",
       },
       {
         nome: "Misool",
@@ -1699,37 +2311,73 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Con liveaboard o resort, lejos de Waisai.",
         quando: "En los meses con el mar más tranquilo; con viento el mar hacia Misool se encrespa.",
         tempo: "2 días o más",
-        consiglio: "Con viento los traslados hacia Misool pueden suspenderse: dejar margen."
-      }
+        lat: -1.86951,
+        lng: 130.13809,
+        consiglio: "Con viento los traslados hacia Misool pueden suspenderse: dejar margen.",
+      },
+      {
+        nome: "Muelle de Yenbuba",
+        testo: "El pueblo de Yenbuba, en la isla de Mansuar frente a Kri, tiene un muelle bajo el que se reúnen bancos de peces, y un arrecife que empieza a pocos metros de la orilla. Es una de las salidas de esnórquel más sencillas desde Kri.",
+        come: "Pocos minutos en barca desde Kri, con el homestay.",
+        quando: "Con corriente débil: preguntar la hora al guía.",
+        tempo: "1-2 horas",
+        lat: -0.57107,
+        lng: 130.65374,
+        consiglio: "En el pueblo se pide siempre permiso antes de fotografiar a las personas.",
+      },
+      {
+        nome: "Friwen Wall",
+        testo: "Una pared de coral poco profunda a lo largo de la isla de Friwen, entre Waisai y Kri, cubierta de corales blandos, esponjas y abanicos. Es un punto resguardado, apto también para quien hace esnórquel por primera vez en estas aguas.",
+        come: "En barca desde Waisai o Kri, a menudo como parada durante el traslado.",
+        quando: "Con la marea y la corriente que indique el guía.",
+        tempo: "1 hora",
+        lat: -0.47745,
+        lng: 130.69603,
+      },
     ],
     programmi: [
-      {
-        titolo: "5-7 días",
-        tappe: [
-          "Día 1: vuelo a Sorong, ferri a Waisai",
-          "Día 2-3: Arborek y snorkel en arrecifes cercanos",
-          "Día 4: Piaynemo",
-          "Día 5-6: puntos de mantas o Wayag, si el mar lo permite",
-          "Día 7: regreso a Sorong"
-        ]
-      }
+      { titolo: "1 día: desde Kri", tappe: [
+        "Mañana: esnórquel desde el muelle de Kri o en Cape Kri",
+        "Horas centrales a la sombra",
+        "Tarde: en barca al muelle de Yenbuba",
+        "Atardecer desde la playa del homestay",
+      ] },
+      { titolo: "3 días: Kri, Arborek y Fam", tappe: [
+        "Día 1: ferry Sorong-Waisai, barca a Kri y primer baño desde el muelle",
+        "Día 2: aves del paraíso al amanecer, luego el arrecife de Arborek",
+        "Día 3: traslado a las Fam, Telaga Bintang y Piaynemo al atardecer",
+      ] },
+      { titolo: "5-7 días", tappe: [
+        "Día 1: vuelo a Sorong, ferri a Waisai",
+        "Día 2-3: Arborek y snorkel en arrecifes cercanos",
+        "Día 4: Piaynemo",
+        "Día 5-6: puntos de mantas o Wayag, si el mar lo permite",
+        "Día 7: regreso a Sorong",
+      ] },
     ],
     zone: [
       {
         nome: "Homestays (Arborek, Gam, Kri)",
         perChi: "quien quiere ahorrar y apoyar a las comunidades",
-        testo: "Se duerme en casa de familias, se come lo que cocinan, sin electricidad a todas horas."
+        testo: "Se duerme en casa de familias, se come lo que cocinan, sin electricidad a todas horas.",
+        fascia: "30-80 €",
+      },
+      {
+        nome: "Dive resorts (Kri, Gam, Mansuar)",
+        perChi: "quien bucea a diario y quiere comodidad",
+        testo: "Bungalows con electricidad continua, restaurante y barcas rápidas a los sitios del estrecho de Dampier. Normalmente en paquete con comidas e inmersiones.",
+        fascia: "desde 280 €",
       },
       {
         nome: "Liveaboard",
         perChi: "quien quiere cubrir más zonas",
-        testo: "Barco con literas, para llegar a Wayag y Misool. Caro."
+        testo: "Barco con literas, para llegar a Wayag y Misool. Caro.",
       },
       {
         nome: "Waisai",
         perChi: "quien llega y se va",
-        testo: "Capital del distrito, con pocos servicios y parada logística."
-      }
+        testo: "Capital del distrito, con pocos servicios y parada logística.",
+      },
     ],
     sapori: [
       {
@@ -1750,6 +2398,52 @@ export const destinazioniIndonesia: Destinazione[] = [
       "El viento puede alargar los traslados y suspender las salidas hacia las zonas expuestas: preguntar a los operadores cuál es la mejor estación.",
       "No hay cajeros en las islas: retirar en Sorong o Waisai.",
       "Las corrientes son fuertes: seguir siempre las instrucciones del guía."
+    ],
+    gite: [
+      {
+        nome: "Arborek y Sawinggrai",
+        distanza: "unos 20 km en barca desde Kri",
+        come: "Con la barca del homestay, precio por barca a repartir.",
+        testo: "Un día entre el arrecife de Arborek, con los bancos de peces bajo el muelle, y el pueblo de Sawinggrai en Gam. Saliendo al amanecer se suman las aves del paraíso.",
+      },
+      {
+        nome: "Piaynemo y Telaga Bintang",
+        distanza: "unos 45 km en barca desde Kri, unas horas según el mar",
+        come: "Con el homestay o en barca privada, saliendo por la mañana.",
+        testo: "El mirador más famoso de Raja Ampat y la laguna en forma de estrella junto a él, con una parada de esnórquel en el camino. Con viento la travesía se alarga: mejor dormir una noche en las Fam.",
+      },
+      {
+        nome: "Friwen Wall y Saporkren",
+        distanza: "cerca de Waisai, unos 10 km en barca desde Kri",
+        come: "En barca, también como parada a la llegada o a la salida.",
+        testo: "Al amanecer las aves del paraíso en el bosque de Saporkren y luego esnórquel en la pared resguardada de Friwen. Es la excursión más fácil de encajar en el día del ferry.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Raja Ampat?",
+        risposta: "Una semana como mínimo: con menos se pasa más tiempo viajando que en el agua. Conviene dividirla entre el estrecho de Dampier (Kri, Arborek) y las islas Fam.",
+      },
+      {
+        domanda: "¿Cuánto cuesta el permiso de Raja Ampat?",
+        risposta: "En 2026 la tasa turística del distrito es de 1.000.000 IDR por persona para extranjeros, una vez por estancia. La tasa del parque marino es aparte y su importe cambió en 2026: hay que preguntarla al homestay y guardar el recibo.",
+      },
+      {
+        domanda: "¿Homestay, resort o liveaboard?",
+        risposta: "El homestay es la opción más barata y la que sostiene a las comunidades que protegen el parque. El resort conviene a quien bucea cada día; el liveaboard, a quien quiere llegar a Wayag o Misool en el mismo viaje.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para Raja Ampat?",
+        risposta: "De octubre a abril, con mar más tranquilo, mantas y grandes pelágicos. De mayo a septiembre soplan los vientos del sureste: los traslados se alargan y alguna salida puede saltarse, pero hay mucha menos gente.",
+      },
+      {
+        domanda: "¿Hay cajeros en Raja Ampat?",
+        risposta: "En las islas no. Se saca en Sorong todo el efectivo de la estancia, en rupias: homestays, barcas y aportaciones a los pueblos se pagan en efectivo.",
+      },
+      {
+        domanda: "¿Cómo se llega a Kri?",
+        risposta: "Vuelo a Sorong, ferry de las 14 a Waisai (unas 2 horas) y luego la barca del homestay hasta Kri. Conviene un vuelo de mañana, para llegar al puerto con margen.",
+      },
     ],
     esperienzeSlugs: ['diving-liveaboard-raja-ampat'],
     tripSlugs: ['bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
@@ -1782,13 +2476,13 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveDormire:
       "En Siberut, en la uma de la familia que acoge, en una esterilla con mosquitero. En Sipora, homestay sencillos, o resorts y surf camps, más caros.",
     comeArrivare:
-      "Ferri rápido Mentawai Fast desde Padang hasta Tuapejat (Sipora) y hasta Siberut. Horarios y precios cambian a menudo: hay que verificarlos en la página oficial del operador. No constan vuelos regulares confirmados para el aeropuerto de las Mentawai.",
+      "Se vuela a Padang, al aeropuerto Minangkabau (PDG), desde Yakarta, Bali o Kuala Lumpur: ida y vuelta desde Yakarta o Bali cuesta unos 130-200 USD. El tren Minangkabau Ekspres llega en unos 40 minutos, por unos 10.000 IDR, a la estación de Pulau Air, cerca del puerto; en Grab o Gojek son unos 100.000-150.000 IDR. Desde el puerto en la desembocadura del Batang Arau sale el ferri rápido Mentawai Fast: unas 3,5 horas hasta Tuapejat (Sipora) y unas 4 hasta Siberut, por unos 300.000-400.000 IDR (unos 17-22 €), con suplemento para las tablas de surf. Horarios y precios cambian a menudo: hay que verificarlos en la página oficial del operador, y el billete conviene comprarlo el día antes en el puerto. No constan vuelos regulares confirmados para el aeropuerto de las Mentawai.",
     comeSpostarsi:
       "En Siberut, minivan, canoa a motor por el río y trekking por el barro. Entre las islas y hacia los breaks, barca privada o los traslados organizados por operadores y surf camps.",
     periodoMigliore:
       "mayo-principios de septiembre para la selva de Siberut, mayo-septiembre para los swells más grandes; de noviembre a enero llueve mucho",
     costi:
-      "las estancias en la selva con operadores locales se venden por paquete, precios a consultar con el operador; los surfistas pagan una tasa de surf obligatoria, con importe que hay que comprobar al reservar.",
+      "las estancias en la selva con operadores locales se venden por paquete, precios a consultar con el operador; los surfistas pagan una tasa de surf obligatoria, con importe que hay que comprobar al reservar. Económico: unos 50-70 € al día con homestays sencillos en Sipora y el ferri público. Medio: 100-150 € con un homestay mejor, alguna salida en barca compartida y el paquete en la selva de Siberut (desde 480 € por persona por 6 días con parada en Sipora). Alto: más de 250 € con resort o surf camp y barca privada, que cuesta más o menos 1.500.000-3.000.000 IDR al día (unos 85-170 €).",
     erroriDaEvitare: [
       "Tratar la visita como un espectáculo: se es huésped en casa de una familia, se pide permiso antes de cada foto y no se paga por poses o disfraces",
       "Salir sin días de margen: con bandera roja del Syahbandar los ferris no salen",
@@ -1802,37 +2496,121 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Selva de Siberut y la uma de una familia mentawai",
         testo: "Se remonta el río en canoa a motor hasta la uma, la casa larga de una familia, y se pasan unos días en la selva. Barro por todas partes, insectos, sin electricidad, se duerme sobre una estera. No es un zoo humano: se es huésped en casa de alguien.",
-        come: "Desde el puerto de Siberut, en canoa a motor y a pie por la selva. Con guías mentawai de operadores locales de Padang.",
+        come: "Desde el puerto de Siberut, en canoa a motor y a pie por la selva. Con guías mentawai de operadores locales de Padang. Desde el puerto se sigue en minibús o pick-up hasta un pueblo, luego 1,5-2 horas de canoa y unos 3,5 km a pie entre barro, raíces y troncos.",
         quando: "En los meses menos lluviosos; preguntar al operador, porque en ciertos periodos llueve mucho y los senderos se vuelven difíciles.",
         tempo: "3-8 días",
+        costo: "Por paquete con el operador; por ejemplo desde 480 € por persona por 6 días entre Siberut y Sipora (2026).",
+        lat: -1.36667,
+        lng: 98.93333,
         consiglio: "Preguntar antes de fotografiar, acordar los regalos con el guía y elegir un operador con guías mentawai, para que el dinero llegue a la comunidad."
+      },
+      {
+        nome: "Muara Siberut",
+        testo: "El puerto principal de Siberut, donde llega el ferri de Padang. De aquí salen los transportes hacia los pueblos del interior y las canoas por el río. Pasado el puerto la cobertura telefónica se vuelve incierta.",
+        come: "Ferri Mentawai Fast desde Padang, unas 4 horas. Según el operador de la selva las salidas públicas son martes, jueves y sábado, pero hay que reconfirmarlas siempre.",
+        quando: "Salida a primera hora: quien va a la selva llega a la uma por la tarde.",
+        tempo: "medio día de paso",
+        costo: "Ferri unos 300.000-400.000 IDR por persona, unos 17-22 € (2026).",
+        lat: -1.5968,
+        lng: 99.2138,
+        url: "https://www.mentawaifast.com/",
+        consiglio: "Teléfono, documentos y dinero en la bolsa estanca nada más bajar: en la canoa uno se moja."
       },
       {
         nome: "Tuapejat y Sipora",
         testo: "La capital de las Mentawai y la isla donde están las playas más bonitas. Tras la selva de Siberut es la parte de mar y descanso.",
-        come: "Ferri rápido Mentawai Fast desde Padang, solo algunos días a la semana. Horarios y precios cambian a menudo: consultarlos en la página del operador.",
+        come: "Ferri rápido Mentawai Fast desde Padang, solo algunos días a la semana. Horarios y precios cambian a menudo: consultarlos en la página del operador. La travesía dura unas 3,5 horas.",
         quando: "En los meses con el mar más tranquilo, preguntando a los operadores.",
         tempo: "2-3 días",
+        costo: "Ferri unos 300.000-400.000 IDR por persona, unos 17-22 €, más el suplemento por las tablas (2026).",
+        lat: -2.0308,
+        lng: 99.5867,
+        url: "https://www.mentawaifast.com/",
         consiglio: "Dejar días de margen: con bandera roja del Syahbandar los ferris no salen."
       },
       {
         nome: "Playas de Sipora",
-        testo: "Playas preciosas y poco frecuentadas, con agua clara.",
-        come: "En scooter o con traslados organizados desde Tuapejat.",
-        quando: "En los meses con el mar más tranquilo.",
+        testo: "Playas preciosas y poco frecuentadas, con agua clara. Delante de muchas está el arrecife, bueno para el snorkel cuando el mar está en calma. Los alojamientos están repartidos por la costa, entre Tuapejat y el sur de la isla.",
+        come: "En scooter o con traslados organizados desde Tuapejat; para las playas cercanas también en barca.",
+        quando: "Por la mañana, cuando el mar está más liso y el viento más flojo.",
         tempo: "1-2 días",
-        consiglio: "Llevar todo lo necesario: en la isla los servicios son pocos."
+        consiglio: "Llevar todo lo necesario: en la isla los servicios son pocos. El coral corta: hasta un arañazo pequeño hay que desinfectarlo enseguida."
       },
       {
         nome: "Los rompientes de surf de las Mentawai",
         testo: "Olas entre las más célebres del mundo, el motivo por el que casi todos llegan hasta aquí. Los surf camps y los barcos llevan a los rompientes según el swell y el nivel de cada uno.",
-        come: "Con barca privada o traslados organizados por campamentos de surf. Tasa de surf obligatoria.",
+        come: "Con barca privada o traslados organizados por campamentos de surf. Tasa de surf obligatoria. Para quien empieza hay olas de playa con clases y alquiler.",
         quando: "Los swells y la mejor estación dependen del nivel: preguntar a los surf camps antes de fijar fechas.",
         tempo: "al menos 5 días",
+        costo: "Clases y alquiler para principiantes unos 500.000-1.000.000 IDR al día, unos 28-55 € (2026). Tasa de surf aparte, importe a confirmar con el alojamiento.",
         consiglio: "Los arrecifes famosos no son para principiantes: elegir los breaks según el nivel."
+      },
+      {
+        nome: "Lance's Left, bahía de Katiet",
+        testo: "La izquierda más accesible del sur de Sipora, en la bahía de Katiet. Sigue siendo una ola de arrecife, para nivel intermedio, y con swells grandes se vuelve seria.",
+        come: "En barca desde los alojamientos del sur de Sipora, decidiendo el spot esa misma mañana con el barquero.",
+        quando: "A primera hora, con menos viento y menos barcas.",
+        tempo: "medio día",
+        consiglio: "Con marea baja el arrecife está a pocos centímetros: escarpines y nunca solos en el agua."
+      },
+      {
+        nome: "HTs (Lance's Right)",
+        testo: "Una derecha difícil de leer, cerca de Lance's Left, con el arrecife cortante en el inside. Es una ola para expertos.",
+        come: "En barca desde la bahía de Katiet o desde los alojamientos del sur de Sipora.",
+        quando: "A primera hora, según swell y marea.",
+        tempo: "medio día",
+        lat: -2.37567,
+        lng: 99.85954,
+        consiglio: "Quien no tiene el nivel la mira desde la barca: ya es un espectáculo."
+      },
+      {
+        nome: "Telescopes",
+        testo: "Una izquierda larga en el norte de Sipora, con varias secciones de tubo. Es uno de los breaks más conocidos de la isla, para surfistas expertos.",
+        come: "En barca desde los alojamientos de Sipora; el spot se elige por la mañana según la dirección del swell.",
+        quando: "A primera hora, antes de que arrecie el viento.",
+        tempo: "medio día",
+        consiglio: "Quien no surfea puede hacer snorkel en aguas tranquilas o quedarse en la barca."
+      },
+      {
+        nome: "Padang: ciudad vieja y puente Siti Nurbaya",
+        testo: "La ciudad de salida hacia las Mentawai. A lo largo del río Batang Arau están los viejos almacenes de la época holandesa, y el puente de Siti Nurbaya es el mejor punto al atardecer. El puerto de los ferris está en la desembocadura del mismo río.",
+        come: "A pie por la ciudad vieja, durmiendo en un hotel cerca del puerto.",
+        quando: "Al atardecer.",
+        tempo: "medio día",
+        lat: -0.96546,
+        lng: 100.35909,
+        consiglio: "Es también la última ocasión para un buen nasi padang y para comprar rendang envasado."
+      },
+      {
+        nome: "Playa de Air Manis y Malin Kundang",
+        testo: "Una playa al sur de Padang con la roca que, según la leyenda, es Malin Kundang, el hijo ingrato convertido en piedra. Es la excursión más sencilla para un día de margen en la ciudad.",
+        come: "En coche o con Grab desde el centro de Padang.",
+        quando: "Por la tarde.",
+        tempo: "2 horas",
+        lat: -0.99127,
+        lng: 100.36069,
       }
     ],
     programmi: [
+      {
+        titolo: "4 días: solo Siberut",
+        tappe: [
+          "Día 1: ferri de Padang a Siberut, canoa por el río y sendero hasta la uma",
+          "Día 2: jornada con la familia, recogida de comida y elaboración del sagú",
+          "Día 3: la selva alrededor de la uma a primera hora, tarde de descanso",
+          "Día 4: regreso a pie y en canoa, ferri a Padang"
+        ]
+      },
+      {
+        titolo: "5 días: Sipora, mar y surf",
+        tappe: [
+          "Día 1: Mentawai Fast de Padang a Tuapejat, traslado al alojamiento",
+          "Día 2: playa y snorkel, o clase de surf en olas de playa",
+          "Día 3: barca a Lance's Left y HTs en la bahía de Katiet",
+          "Día 4: Telescopes por la mañana o día tranquilo de reserva",
+          "Día 5: ferri Tuapejat-Padang a primera hora de la tarde"
+        ]
+      },
       {
         titolo: "8-9 días",
         tappe: [
@@ -1856,9 +2634,16 @@ export const destinazioniIndonesia: Destinazione[] = [
         testo: "Hoteles y restaurantes sencillos. Un punto logístico."
       },
       {
+        nome: "Homestays de Sipora",
+        perChi: "quien busca mar y alguna salida en barca",
+        testo: "Alojamientos sencillos a lo largo de la costa, entre Tuapejat y el sur de la isla. Conviene elegir uno con el traslado desde la barca incluido.",
+        fascia: "40-85 €"
+      },
+      {
         nome: "Campamentos de surf de Sipora",
         perChi: "surfistas",
-        testo: "Instalaciones dedicadas, con barcas para los breaks."
+        testo: "Instalaciones dedicadas, con barcas para los breaks.",
+        fascia: "desde 220 €"
       }
     ],
     sapori: [
@@ -1880,6 +2665,46 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Con bandera roja los ferris no salen: partir con días de margen.",
       "Condiciones duras: barro, mosquitos, sin electricidad, calor húmedo.",
       "Seguro que cubra la evacuación y visita a una clínica de medicina del viajero por la malaria."
+    ],
+    gite: [
+      {
+        nome: "Bukittinggi y el cañón de Ngarai Sianok",
+        distanza: "unas 3 horas en coche desde Padang",
+        come: "Coche privado, unos 500.000 IDR (unos 28 €), a fijar antes. Mejor con una noche, si los días de margen lo permiten.",
+        testo: "La ciudad de la meseta de los minangkabau, fresca tras el calor de la costa, con la torre del reloj Jam Gadang, el cañón de Ngarai Sianok y los túneles japoneses de Lobang Jepang."
+      },
+      {
+        nome: "Cascada de Lembah Anai",
+        distanza: "en la carretera entre Padang y Bukittinggi",
+        come: "En coche, como parada en la carretera principal hacia la meseta.",
+        testo: "La cascada cae justo al borde de la carretera, en la garganta de Lembah Anai. Se combina con la excursión a Bukittinggi o se hace sola con medio día libre en Padang."
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para las Mentawai?",
+        risposta: "Siete u ocho días: tres o cuatro en la selva de Siberut y el resto en Sipora. Hay que sumar al menos un día de margen en Padang antes del vuelo."
+      },
+      {
+        domanda: "¿Cómo se llega a las Mentawai?",
+        risposta: "Con el ferri rápido Mentawai Fast desde Padang: unas 3,5 horas hasta Tuapejat y 4 hasta Siberut. No hay vuelos regulares confirmados."
+      },
+      {
+        domanda: "¿Merecen la pena las Mentawai si no se hace surf?",
+        risposta: "Sí: la selva de Siberut con una familia mentawai y las playas de Sipora bastan por sí solas. Quien no surfea puede también seguir las barcas a los breaks y hacer snorkel."
+      },
+      {
+        domanda: "¿Se puede aprender a surfear en las Mentawai?",
+        risposta: "En olas de playa, con clases y alquiler por unos 500.000-1.000.000 IDR al día. Los arrecifes famosos, como HTs y Telescopes, son para nivel intermedio y experto."
+      },
+      {
+        domanda: "¿Cuánto cuesta la tasa de surf de las Mentawai?",
+        risposta: "Solo la pagan los surfistas, y el importe cambia a menudo. Hay que pedir la cifra actualizada al alojamiento o al operador antes de salir."
+      },
+      {
+        domanda: "¿Cuál es la mejor época para las Mentawai?",
+        risposta: "De mayo a septiembre: para la selva de Siberut los meses más secos van de mayo a principios de septiembre, y en verano llegan también los swells más grandes. De noviembre a enero llueve mucho."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['sumatra-mentawai', 'indonesia-isola-per-isola'],

@@ -864,82 +864,188 @@ export const destinazioniMessico: Destinazione[] = [
     doveDormire: 'I slept at Hotel Francis Drake, in the old town.',
     doveMangiare:
       "I didn't note down the restaurants. In the fortified old town there are several places on the main streets near the Cathedral, handy for a quick dinner before the long transfer the next day to Mahahual.",
-    comeArrivare: 'By van/car from Mérida, with stops at Uxmal, Becal and Pomuch along the way.',
+    comeArrivare: "From Mérida it is about 180 km: by car it takes 2-2.5 hours on Federal Highway 180, or you can go via Uxmal and the Ruta Puuc on the 261 and arrive by evening with stops. ADO buses link Mérida and Campeche several times a day, in about 2.5-3 hours, to the terminal on Avenida Patricio Trueba, ten minutes by taxi from the walls. Campeche also has a Tren Maya station outside town and a small airport (CPE) with flights from Mexico City. A van from Mérida with stops at Uxmal, Becal and Pomuch is the easiest way to see something along the road.",
     comeSpostarsi: 'The old town is small and easy to get around on foot.',
     periodoMigliore: "I didn't note it for Campeche; the dry season recommended for the Yucatán applies, from November to April.",
-    costi: "I didn't note down my spending in Campeche; the interior in general is very cheap.",
+    costi: "I didn't note down my spending in Campeche, but the interior costs much less than the Riviera Maya. Low budget about 40-60 € a day per person (simple colonial guesthouse, loncherías and the market, sightseeing on foot); mid 80-130 € (boutique hotel in the centre, museums, a taxi or tour to Edzná); high from 200 € (luxury hotel in a colonial mansion, car with driver). INAH tickets for foreigners: Edzná 210 MXN; Fuerte de San Miguel, Fuerte de San José and Baluarte de la Soledad 145 MXN each (2026).",
     erroriDaEvitare: [
       'The next day, toward Mahahual, the transfer is very long and you change time zone: it\'s best to leave as early as possible in the morning',
     ],
     miaEsperienza:
       "A short but pleasant stop. Cathedral Square is very well kept, with the typical shoe shiners, and the walk to the waterfront through the Puerta del Mar was a nice way to stretch my legs after hours in the van.",
-      "luoghi": [
-        {
-          "nome": "Cathedral Square",
-          "testo": "The main square of the historic centre, well kept, with the cathedral and the typical shoeshiners. The pastel facades of the houses around it are the Campeche of the photos; in the evening the square fills with families and sweet sellers.",
-          "come": "On foot.",
-          "quando": "Morning and evening.",
-          "tempo": "1 hour"
-        },
-        {
-          "nome": "Puerta del Mar and waterfront",
-          "testo": "The sea gate of the old walls, leading to the waterfront. The walk from the cathedral is a good way to stretch after hours in a van.",
-          "come": "On foot from the square.",
-          "quando": "Afternoon and evening.",
-          "tempo": "1-2 hours"
-        },
-        {
-          "nome": "Walls and bastions",
-          "testo": "Campeche is a fortified city, a UNESCO site since 1999, with walls and bastions built in the 17th and 18th centuries against pirate attacks. Some bastions house small museums and gardens; part of the walls can be walked.",
-          "come": "On foot along the walls.",
-          "quando": "Morning.",
-          "tempo": "2 hours",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Fuerte de San Miguel",
-          "testo": "A fort on the hill south-west of the centre, with a moat and cannons facing the Gulf. Inside is the archaeological museum with the jade masks from Calakmul; from its ramparts you can watch the sunset over the sea.",
-          "come": "Taxi from the centre.",
-          "quando": "Tuesday to Sunday 8:00-17:00, closed on Mondays (INAH listing); late afternoon for the sunset.",
-          "costo": "145 MXN for foreigners (INAH listing, 2026).",
-          "tempo": "1-2 hours",
-          "url": "https://lugares.inah.gob.mx/en/node/4261"
-        },
-        {
-          "nome": "Edzná",
-          "testo": "An inland Maya site with the Building of the Five Storeys, a terraced pyramid on a large plaza. It sees few visitors compared with the Yucatán sites.",
-          "come": "Car, taxi or tour from Campeche.",
-          "quando": "Open daily 8:00-17:00, last entry at 16:30 (INAH listing). Early morning, before the heat.",
-          "tempo": "Half a day",
-          "url": "https://lugares.inah.gob.mx/en/node/5755",
-          "consiglio": "Bring water and a hat: there is little shade.",
-          "costo": "210 MXN for foreigners (INAH 2026 rates); the site museum is included."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "Half a day",
-          "tappe": [
-            "Cathedral Square",
-            "Puerta del Mar and waterfront",
-            "Dinner in the historic centre"
-          ]
-        },
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: walls and bastions",
-            "Afternoon: walk and dinner"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Fortified historic centre",
-          "perChi": "on foot to everything",
-          "testo": "Hotels in colonial houses, very close to the cathedral and waterfront."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Cathedral Square",
+        testo: "The main square of the historic centre, well kept, with the cathedral and the typical shoeshiners. The pastel facades of the houses around it are the Campeche of the photos; in the evening the square fills with families and sweet sellers. The Cathedral of the Immaculate Conception, with its two towers, closes the side facing the sea.",
+        come: "On foot; the cathedral can be visited outside mass times.",
+        quando: "Early morning for photos, evening for the atmosphere.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 19.84619,
+        lng: -90.53606,
+      },
+      {
+        nome: "Calle 59",
+        testo: "The pedestrian street that crosses the centre from the Puerta de Tierra to the Puerta del Mar, with restored colonial houses, restaurants and bars with tables in the street. In the evening it is where people eat in the centre.",
+        come: "On foot, inside the walls.",
+        quando: "Evening, when the lights come on and tables go out.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 19.84726,
+        lng: -90.53918,
+      },
+      {
+        nome: "Puerta de Tierra",
+        testo: "The land gate, the fortified entrance on the inland side, joined to the best-preserved stretch of wall. You can walk up to the rampart to look over the rooftops; on some evenings there is a sound-and-light show about the pirate era.",
+        come: "On foot, at the end of Calle 59.",
+        quando: "Late afternoon; ask at the hotel for the days and times of the evening show.",
+        tempo: "30-45 minutes",
+        lat: 19.84136,
+        lng: -90.53603,
+      },
+      {
+        nome: "Walls and bastions",
+        testo: "Campeche is a fortified city, a UNESCO World Heritage site since 1999, with walls and bastions built between the 17th and 18th centuries against pirate attacks. Several of the seven bastions still stand, some with small museums and gardens; part of the walls can be walked.",
+        come: "On foot around the edge of the historic centre.",
+        quando: "Morning, before the heat.",
+        tempo: "2 hours",
+        url: "https://www.inah.gob.mx/",
+      },
+      {
+        nome: "Baluarte de la Soledad and Museum of Maya Architecture",
+        testo: "The largest bastion, facing the main square, houses the INAH museum of Maya architecture, with stelae and carved pieces from Edzná and other Campeche sites. From the walkway on top you can see the cathedral and the sea.",
+        come: "On foot, on Calle 8 between 57 and 59.",
+        quando: "Morning; worth seeing before going to Edzná.",
+        tempo: "1 hour",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Tuesday to Sunday 8 am-5 pm, closed Monday",
+        lat: 19.84629,
+        lng: -90.53803,
+        url: "https://lugares.inah.gob.mx/en/node/5054",
+      },
+      {
+        nome: "Baluarte de San Carlos",
+        testo: "The first bastion to be built, at the seaward corner of the walls, with cannons still on the ramparts and a small museum about the city and its defences. It is a few steps from the square and pairs easily with the Soledad.",
+        come: "On foot, at the corner of Calle 8 and Calle 65.",
+        quando: "Morning.",
+        tempo: "30-45 minutes",
+        lat: 19.84457,
+        lng: -90.54058,
+      },
+      {
+        nome: "Casa 6",
+        testo: "A family colonial house on the square, furnished as in the 19th century, with its patio, high-ceilinged rooms and period furniture. It shows how the city's wealthy merchants lived.",
+        come: "On foot, on the side of the main square.",
+        quando: "In the hottest hours, to keep cool.",
+        tempo: "30 minutes",
+        lat: 19.84555,
+        lng: -90.53739,
+      },
+      {
+        nome: "Puerta del Mar and waterfront",
+        testo: "The sea gate of the old walls, leading to the Malecón, the several-kilometre seafront with a cycle path and benches facing the Gulf. The walk from the cathedral is a good way to stretch your legs after hours in the van, and at sunset the seafront fills with joggers and cyclists.",
+        come: "On foot from the square, through the gate.",
+        quando: "Sunset, when the heat drops.",
+        tempo: "1-2 hours",
+        costo: "Free",
+        lat: 19.84586,
+        lng: -90.53841,
+      },
+      {
+        nome: "San Román neighbourhood",
+        testo: "The neighbourhood outside the walls to the south-west, with the church of the Black Christ, the Señor de San Román, venerated by fishermen. It is quieter and more residential than the centre and is pleasant in the morning, among low houses and courtyards.",
+        come: "On foot, about ten minutes from the square.",
+        quando: "Morning; the saint's festival is in September.",
+        tempo: "1 hour",
+      },
+      {
+        nome: "Pedro Sáinz de Baranda Market",
+        testo: "The main market, just outside the walls near the Puerta de Tierra, with fruit stalls, Gulf fish and small comedores where you can have breakfast with panuchos and juices. It is the cheapest place to eat in town.",
+        come: "On foot from the Puerta de Tierra.",
+        quando: "Morning, when the fish comes in.",
+        tempo: "1 hour",
+        lat: 19.8419,
+        lng: -90.53331,
+      },
+      {
+        nome: "Fuerte de San Miguel",
+        testo: "A fort on the hill south-west of the centre, with a moat and cannons facing the Gulf. Inside is the archaeological museum with the jade masks from Calakmul; from the ramparts you watch the sunset over the sea.",
+        come: "Taxi from the centre, about 10 minutes.",
+        quando: "Late afternoon for the sunset.",
+        tempo: "1-2 hours",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Tuesday to Sunday 8 am-5 pm, closed Monday",
+        lat: 19.82468,
+        lng: -90.56849,
+        url: "https://lugares.inah.gob.mx/en/node/4261",
+      },
+      {
+        nome: "Fuerte de San José el Alto",
+        testo: "The fort on the north-eastern hill, twin of San Miguel, with a drawbridge and the INAH museum of underwater archaeology: anchors, cannons and objects recovered from Gulf shipwrecks. It gets fewer visitors and has a wide view over the city and the harbour.",
+        come: "Taxi from the centre, about 10-15 minutes.",
+        quando: "Morning; arrive at least an hour before closing.",
+        tempo: "1 hour",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Tuesday to Sunday 8 am-5 pm, closed Monday",
+        lat: 19.86052,
+        lng: -90.5105,
+        url: "https://lugares.inah.gob.mx/en/node/5047",
+      },
+      {
+        nome: "Edzná",
+        testo: "A Maya site inland with the Building of the Five Storeys, a terraced pyramid on a large plaza. It gets few visitors compared with the Yucatán sites.",
+        come: "Car, taxi or tour from Campeche, about 55 km and an hour's drive.",
+        quando: "Early morning, before the heat.",
+        tempo: "Half a day",
+        costo: "210 MXN for foreigners, about 10 € (2026); the site museum is included",
+        orari: "Daily 8 am-5 pm, last entry 4.30 pm",
+        lat: 19.59678,
+        lng: -90.22908,
+        url: "https://lugares.inah.gob.mx/en/node/5755",
+        consiglio: "Bring water and a hat: there is little shade.",
+      },
+    ],
+    programmi: [
+      { titolo: "Half a day", tappe: [
+        "Cathedral Square and Casa 6",
+        "Calle 59 to the Puerta de Tierra",
+        "Puerta del Mar and the seafront at sunset",
+      ] },
+      { titolo: "1 day", tappe: [
+        "Morning: Baluarte de la Soledad, San Carlos and a stretch of the walls",
+        "Lunch at the market with pan de cazón",
+        "Afternoon: Fuerte de San Miguel for the sunset",
+        "Evening: dinner on Calle 59",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: Edzná at opening, afternoon in the centre around the square, Casa 6 and Calle 59",
+        "Day 2: bastions and walls, market, Fuerte de San Miguel at sunset",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Days 1-2 as above",
+        "Day 3: Fuerte de San José and San Román in the morning, then Pomuch and Becal on the road to Mérida",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Fortified historic centre",
+        perChi: "everything on foot",
+        testo: "Hotels in colonial houses, very close to the cathedral and the seafront. Rooms facing Calle 59 hear the bars in the evening.",
+        fascia: "45-100 €",
+      },
+      {
+        nome: "Malecón",
+        perChi: "sea views and a pool",
+        testo: "Larger, more modern hotels on the seafront, 5-10 minutes' walk from the walls. Handy if you travel by car and need parking.",
+        fascia: "55-110 €",
+      },
+      {
+        nome: "San Román and Guadalupe",
+        perChi: "lower budgets",
+        testo: "Neighbourhoods outside the walls with small guesthouses and apartments, quiet at night and 10-15 minutes' walk from the square.",
+        fascia: "35-70 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Pan de cazón",
@@ -965,6 +1071,52 @@ export const destinazioniMessico: Destinazione[] = [
         "Many INAH museums, including those in the forts, close on Mondays: check before planning the day.",
         "From April to October the humid heat is intense: go out early in the morning and at sunset, and drink plenty."
       ],
+    gite: [
+      {
+        nome: "Edzná",
+        distanza: "55 km, about 1 hour",
+        come: "Car, hourly taxi or tour from the centre; there is no convenient public transport.",
+        testo: "The nearest Maya city, with the Building of the Five Storeys and a large plaza almost empty early in the morning.",
+      },
+      {
+        nome: "Pomuch",
+        distanza: "about 1 hour towards Mérida",
+        come: "By car on Federal Highway 180, often combined with Becal.",
+        testo: "The village known for its cemetery, where families clean the bones of their dead before Hanal Pixán in late October. It is also known for bread baked in wood ovens.",
+      },
+      {
+        nome: "Becal",
+        distanza: "about 1.5 hours towards Mérida",
+        come: "By car on Federal Highway 180, on the way to Mérida.",
+        testo: "The village of jipi palm hats, woven in caves under the houses where the humidity keeps the fibres soft. A basic hat costs about 800 MXN.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Campeche?",
+        risposta: "One night is enough for the centre and the seafront; with two nights you add Edzná and Fuerte de San Miguel at sunset without rushing.",
+      },
+      {
+        domanda: "Is Campeche worth it compared with Mérida?",
+        risposta: "It is smaller and much quieter, with the walls and the sea close by. Mérida has more life and restaurants; Campeche works well as a stopover towards Palenque, Calakmul or Mahahual.",
+      },
+      {
+        domanda: "How do you get to Edzná without a car?",
+        risposta: "With a tour from the centre or an hourly taxi agreed in advance; public transport is awkward. By car it is about an hour.",
+      },
+      {
+        domanda: "Which museums close on Monday?",
+        risposta: "The INAH museums: Fuerte de San Miguel, Fuerte de San José and Baluarte de la Soledad open Tuesday to Sunday. Edzná is open every day.",
+      },
+      {
+        domanda: "Is Campeche safe?",
+        risposta: "The historic centre is calm in the evening too, with plenty of families around. As anywhere, avoid empty streets outside the walls late at night.",
+      },
+      {
+        domanda: "What is Campeche's typical dish?",
+        risposta: "Pan de cazón: layered tortillas with shredded dogfish, beans and tomato sauce. You find it in restaurants in the centre and at the market.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'A gate in the old walls of the historic center of Campeche with a colorful colonial house in the background',
@@ -985,75 +1137,133 @@ export const destinazioniMessico: Destinazione[] = [
     cosaFare: ['Snorkeling with turtles', 'Evening Temazcal in the jungle'],
     doveDormire: "I didn't note the name of the place; on the waterfront there's a choice at every price level.",
     doveMangiare: "I didn't note down where we ate in Mahahual.",
-    comeArrivare: 'From Campeche, with the longest transfer of the whole itinerary and a time zone change.',
+    comeArrivare: "From Campeche it is the longest transfer of the itinerary: over 500 km, 6-7 hours of driving without stops, crossing the peninsula on Federal Highway 186 and then towards the coast; entering Quintana Roo the clock moves forward one hour. From Bacalar it takes about an hour and a half, from Cancún 4-5 hours on the 307. ADO buses reach the village from Chetumal and the Riviera Maya a few times a day. The nearest airport is Chetumal (CTM); the one with most international flights is Cancún.",
     comeSpostarsi: "I have no notes on getting around in Mahahual.",
     periodoMigliore: "I didn't note it for Mahahual; the dry season recommended for the area applies, from November to April.",
-    costi: "I didn't note down my spending in Mahahual.",
+    costi: "I didn't note down my spending in Mahahual. As a guide: low budget about 50-70 € a day per person (simple hotel on the seafront, fish tacos, snorkelling from the shore); mid 100-150 € (mid-range hotel, a boat trip to the reef, dinners on the malecón); high from 220 € (boutique hotel on the beach, Banco Chinchorro or dives). Chacchoben 155 MXN and Balamkú 145 MXN for foreigners (2026). The Quintana Roo Visitax is 20.99 dollars per person.",
     erroriDaEvitare: [
       "The arrival day has a tight schedule: if you slip on the timing of the previous stops (especially Balam Ku) the rest of the day falls apart",
     ],
     miaEsperienza:
       "I arrived in Mahahual in the evening, after the longest transfer of the trip. The next day was one of the fullest of the itinerary, with Bacalar, snorkeling with turtles and the Temazcal: the detail is on the trip page.",
-      "luoghi": [
-        {
-          "nome": "Mahahual waterfront",
-          "testo": "The waterfront of the village on the Caribbean, with restaurants, beach clubs and the cruise-ship pier, south of the Riviera Maya.",
-          "come": "From Campeche with the longest transfer of the itinerary and a time-zone change.",
-          "quando": "Afternoon and evening.",
-          "tempo": "Half a day"
-        },
-        {
-          "nome": "Snorkelling with turtles",
-          "testo": "A boat trip to the reef near the coast, where you may meet turtles. Here the reef is close to shore and less busy than on the Riviera Maya.",
-          "come": "Tour from the waterfront with an operator.",
-          "quando": "Morning.",
-          "tempo": "2-3 hours"
-        },
-        {
-          "nome": "Temazcal in the jungle",
-          "testo": "A steam-bath ritual of indigenous tradition, with a guide.",
-          "come": "Booking with a local property.",
-          "quando": "Evening.",
-          "tempo": "2-3 hours"
-        },
-        {
-          "nome": "Banco Chinchorro",
-          "testo": "A biosphere reserve off Mahahual, a coral atoll of about 800 km² with at least nine wrecks. The trip depends heavily on the weather: with strong wind trips are cancelled.",
-          "come": "Only with authorised operators from Mahahual or Xcalak, by fast boat.",
-          "quando": "Morning, with a calm sea; best in the dry months.",
-          "tempo": "Full day",
-          "consiglio": "Ask how many hours of sailing there are and what the price includes (park fee, lunch, gear)."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: snorkelling with turtles",
-            "Afternoon: waterfront",
-            "Evening: temazcal"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: arrival from Campeche, waterfront",
-            "Day 2: Bacalar as a day trip, snorkelling and temazcal"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "On the waterfront",
-          "perChi": "on foot to everything",
-          "testo": "Hotels in all price ranges, noisy on cruise days."
-        },
-        {
-          "nome": "Outside the centre",
-          "perChi": "calm",
-          "testo": "More isolated cabañas, away from the ships."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Mahahual waterfront",
+        testo: "The village's pedestrian waterfront on the Caribbean, with restaurants, beach clubs and, at the northern end, the Costa Maya cruise pier. On days without ships it is quiet and you walk on the sand from one bar to the next.",
+        come: "On foot from the village; the waterfront is about a kilometre long.",
+        quando: "Afternoon and evening, best on days without cruise ships.",
+        tempo: "Half a day",
+        costo: "Free",
+        lat: 18.70738,
+        lng: -87.71314,
+      },
+      {
+        nome: "The reef off the village",
+        testo: "Here the Mesoamerican reef runs a few hundred metres from the shore: from some points of the waterfront, with a calm sea, you can snorkel straight from the beach among parrotfish, rays and corals. Further out you go only by boat.",
+        come: "From the beach with a mask and fins rented on the waterfront; ask the beach clubs where to get in.",
+        quando: "Morning, with a flat sea and no wind.",
+        tempo: "1-2 hours",
+        consiglio: "Don't touch or stand on the coral, and use reef-safe sunscreen.",
+      },
+      {
+        nome: "Snorkelling with turtles",
+        testo: "A boat trip to the reef near the coast, where you may meet turtles. Here the reef is close to the shore and less crowded than in the Riviera Maya.",
+        come: "Tour from the waterfront with an operator; gear and life jacket are usually included.",
+        quando: "Morning.",
+        tempo: "2-3 hours",
+      },
+      {
+        nome: "Banco Chinchorro",
+        testo: "A biosphere reserve off Mahahual, a coral atoll of about 800 km² with at least nine wrecks. The trip depends heavily on the weather: with strong wind, departures are cancelled.",
+        come: "Only with authorised operators from Mahahual or Xcalak, by fast boat, about 30-40 km offshore.",
+        quando: "Morning, with a calm sea; best in the dry months.",
+        tempo: "Full day",
+        lat: 18.58306,
+        lng: -87.3721,
+        consiglio: "Ask how many hours of sailing there are and what the price includes (park fee, lunch, gear).",
+      },
+      {
+        nome: "Temazcal in the jungle",
+        testo: "A steam bath ritual of indigenous tradition, led by a guide. Besides the ceremony it is a real sauna, long and in the dark: anyone with claustrophobia or blood pressure problems should know beforehand.",
+        come: "Book with a local centre; bring swimwear, a towel and water.",
+        quando: "Evening.",
+        tempo: "2-3 hours",
+      },
+      {
+        nome: "Chacchoben",
+        testo: "A Maya site in the forest with restored pyramids on a large platform, shaded by tall trees. It is the easiest ruin to reach from the cruise piers: on days without ships there are very few people.",
+        come: "By car or taxi, about an hour inland from the village, on road 293 past Lázaro Cárdenas.",
+        quando: "At opening time, or on days with no ships in port.",
+        tempo: "1.5-2 hours",
+        costo: "155 MXN for foreigners, about 8 € (2026)",
+        orari: "Daily 9 am-3 pm, last entry 2.30 pm",
+        lat: 19.00069,
+        lng: -88.23119,
+        url: "https://lugares.inah.gob.mx/en/node/5626",
+      },
+      {
+        nome: "Balamkú",
+        testo: "A small site on Federal Highway 186, on the road from Campeche, known for a large stucco frieze with frogs, jaguars and crocodiles, preserved under a roof. It is a one-hour stop that breaks the long transfer to the coast.",
+        come: "By car, turn-off at km 93 of Federal Highway 186 Escárcega-Chetumal.",
+        quando: "During the transfer, keeping to time: arriving late wrecks the rest of the day.",
+        tempo: "1 hour",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4.45 pm",
+        lat: 18.56019,
+        lng: -89.94436,
+        url: "https://lugares.inah.gob.mx/en/node/5435",
+      },
+      {
+        nome: "Cenote Miguel Colorado",
+        testo: "An open cenote with sheer walls and dark green water at the bottom, in the Campeche jungle. You look down from the viewpoints; the community that runs it also offers zip lines and kayaks.",
+        come: "By car, a turn-off from the road between Champotón and Escárcega; about an hour and a half from Campeche.",
+        quando: "Mid-morning, leaving again by early afternoon to keep to the transfer schedule.",
+        tempo: "1-2 hours",
+        lat: 18.81223,
+        lng: -90.64592,
+      },
+    ],
+    programmi: [
+      { titolo: "Along the road from Campeche", tappe: [
+        "Leave Campeche at dawn",
+        "Cenote Miguel Colorado mid-morning",
+        "Balamkú on Federal Highway 186",
+        "Arrive in Mahahual in the evening, dinner on the malecón",
+      ] },
+      { titolo: "1 day", tappe: [
+        "Morning: snorkelling with turtles",
+        "Afternoon: waterfront and a swim off the village",
+        "Evening: temazcal",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: arrive from Campeche, waterfront",
+        "Day 2: Bacalar by boat in the morning, turtle snorkelling in the afternoon, temazcal in the evening",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Days 1-2 as above",
+        "Day 3: Banco Chinchorro if the sea allows, otherwise Chacchoben and the coast road to Xcalak",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "On the waterfront",
+        perChi: "everything on foot",
+        testo: "Hotels in every price range, with restaurants and beach clubs on the doorstep; noisier on cruise days.",
+        fascia: "35-110 €",
+      },
+      {
+        nome: "Coast road to the south",
+        perChi: "peace and quiet",
+        testo: "Cabañas and small beach hotels, away from the ships, a few minutes by bike or taxi from the village.",
+        fascia: "70-140 €",
+      },
+      {
+        nome: "Bacalar as a base",
+        perChi: "those who also want the lagoon",
+        testo: "Lodging on the lagoon of seven colours, an hour and a half away: handy if you continue to Chetumal or Calakmul and visit Mahahual for the day.",
+        fascia: "45-90 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Whole fried fish and ceviche",
@@ -1079,6 +1289,52 @@ export const destinazioniMessico: Destinazione[] = [
         "Few ATMs, sometimes out of cash: arrive with enough pesos.",
         "Between spring and summer sargassum can arrive: ask locally which beaches are clean."
       ],
+    gite: [
+      {
+        nome: "Bacalar",
+        distanza: "about 1.5 hours by car",
+        come: "By car or on an organised tour; boat trips on the lagoon take about 2 hours, often with an hour of kayaking.",
+        testo: "The lagoon of seven colours, with cenotes in the water, the pirates' channel and white shallows where boats stop for a swim. In the morning the water is calmer and the light brings out the shades.",
+      },
+      {
+        nome: "Xcalak",
+        distanza: "about 60 km south, 1 hour",
+        come: "By car on the coast road; boats to Banco Chinchorro also leave from Xcalak.",
+        testo: "A fishing village almost on the Belize border, inside the Xcalak Reefs National Park, with shallow sea, mangroves and fly fishing in the lagoons.",
+      },
+      {
+        nome: "Chacchoben",
+        distanza: "about 1 hour inland",
+        come: "By car or taxi; open daily 9 am-3 pm.",
+        testo: "The Maya pyramids in the forest nearest to Mahahual, with a 155 MXN entry fee for foreigners (2026). Best on days without cruise ships.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Mahahual?",
+        risposta: "One or two nights are enough for snorkelling, the waterfront and a morning in Bacalar. A third night adds Banco Chinchorro or Xcalak.",
+      },
+      {
+        domanda: "Mahahual or Tulum?",
+        risposta: "Mahahual is a small, calm village with the reef a few metres away and lower prices; Tulum has ruins by the sea, more restaurants and many more people. If you want quiet, choose Mahahual.",
+      },
+      {
+        domanda: "Do the cruise ships spoil the visit?",
+        risposta: "On ship days the waterfront fills up and prices rise, but it quietens down in the evening. Use those days for Bacalar or trips out of the village.",
+      },
+      {
+        domanda: "Is there sargassum in Mahahual?",
+        risposta: "Between spring and summer it can arrive, as along the whole Caribbean coast. From November to April there is usually less; ask locally which beaches are clean.",
+      },
+      {
+        domanda: "Are there ATMs in Mahahual?",
+        risposta: "Few, and they sometimes run out of cash. Arrive with enough pesos for tours, taxis and restaurants that don't take cards.",
+      },
+      {
+        domanda: "Can you visit Bacalar for the day?",
+        risposta: "Yes: it is about an hour and a half away and the lagoon boat trip takes a couple of hours, so you are back by the afternoon. Go in the morning, when the water is calmer.",
+      },
+    ],
     esperienzeSlugs: ['snorkeling-tartarughe-mahahual', 'temazcal'],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'Mahahual beach with palm trees, tables and boats on the Caribbean Sea',
@@ -2100,84 +2356,155 @@ export const destinazioniMessico: Destinazione[] = [
       'There are few places to stay near Uxmal; Santa Elena is the nearest village. Sleeping here lets you enter the sites at opening time without the drive from Mérida.',
     doveMangiare:
       "After Uxmal I had lunch at Po' Pol Chac, with meat cooked underground.",
-    comeArrivare: 'From Mérida on Federal Highway 261 towards Santa Elena, by car or on a tour.',
+    comeArrivare: "Uxmal is about 80 km south of Mérida on Federal Highway 261 towards Santa Elena: by car it takes about an hour and a quarter. Second-class buses also run from Mérida to Uxmal a few times a day, and many day tours go there. For the Ruta Puuc proper you need a car or a driver: the smaller sites lie along a country road, the 31, with no public transport. From Uxmal to Campeche is about 2.5 hours. The nearest airport is Mérida (MID).",
     comeSpostarsi: 'For the Puuc Route you need a car or a tour: the sites are along a country road.',
     periodoMigliore: 'November to April, the dry season; from April the heat at the shadeless sites is intense.',
-    costi: 'Uxmal 105 MXN INAH admission plus a 461 MXN CULTUR state fee for foreigners; Kabah 155 MXN; Labná and Sayil 145 MXN each (INAH pages, November 2026).',
+    costi: "Uxmal 105 MXN INAH ticket plus 461 MXN CULTUR state fee for foreigners; Kabah 155 MXN; Labná, Sayil and Xlapak 145 MXN each (2026). Rough daily budget per person: low 50-70 € (simple lodging in Santa Elena, tickets, meals in the villages); mid 100-150 € (hotel near the site, rental car shared by two, a guide at Uxmal); high from 200 € (upscale hotel by the ruins or in a hacienda, private driver).",
     erroriDaEvitare: [
       'Arriving at Uxmal in the afternoon: it closes at 4 pm, with last entry at 3 pm',
       'Bringing food to the site entrance: it is not allowed',
     ],
     miaEsperienza:
       "I visited Uxmal with a guide, on the road between Mérida and Campeche, and then had lunch at Po' Pol Chac, with meat cooked underground. I didn't do the Puuc Route.",
-      "luoghi": [
-        {
-          "nome": "Uxmal",
-          "testo": "The largest city of the Puuc style, a UNESCO World Heritage Site. The Pyramid of the Magician has an unusual oval plan; the Nunnery Quadrangle is a courtyard enclosed by four palaces with stone-mosaic façades.",
-          "come": "From Mérida on Federal Highway 261 towards Santa Elena. INAH ticket plus the CULTUR state fee.",
-          "quando": "Open daily 8 am to 4 pm, last entry 3 pm (INAH page).",
-          "tempo": "2-3 hours",
-          "costo": "105 MXN INAH plus 461 MXN CULTUR for foreigners; Yucatán residents don't pay the state fee (INAH page, 2026).",
-          "url": "https://lugares.inah.gob.mx/en/node/5797",
-          "consiglio": "With a guide the symbols on the façades make much more sense."
-        },
-        {
-          "nome": "Kabah",
-          "testo": "The Codz Poop has a façade covered with hundreds of Chaac masks, one of the finest examples of Maya art according to INAH. The site also has a lone arch.",
-          "come": "By car, south of Uxmal on the Puuc Route.",
-          "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page).",
-          "tempo": "1 hour",
-          "costo": "155 MXN for foreigners (INAH page, 2026).",
-          "url": "https://lugares.inah.gob.mx/en/node/5504"
-        },
-        {
-          "nome": "Sayil",
-          "testo": "A Puuc site with the Great Palace, or North Palace, built on two terraces that give the impression of three storeys, with façades added in successive stages.",
-          "come": "By car on the Puuc Route, between Kabah and Labná.",
-          "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page).",
-          "tempo": "45 minutes",
-          "costo": "145 MXN for foreigners (INAH page, November 2026).",
-          "url": "https://lugares.inah.gob.mx/en/node/4458"
-        },
-        {
-          "nome": "Labná",
-          "testo": "Famous for its richly decorated arch, which linked two courtyards. Inhabited from 200 BC, it peaked between 800 and 1000 AD (INAH page). The site is quiet.",
-          "come": "By car, at the end of the Puuc Route.",
-          "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page).",
-          "tempo": "1 hour",
-          "costo": "145 MXN for foreigners (INAH page, 2026).",
-          "url": "https://lugares.inah.gob.mx/en/node/4427"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: Uxmal at opening time",
-            "Lunch with pib",
-            "Afternoon: Kabah"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: Uxmal and a night nearby",
-            "Day 2: Kabah, Sayil and Labná, then on to Campeche"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Around Uxmal",
-          "perChi": "those who want to enter at opening time",
-          "testo": "A few places to stay near the site, to book ahead."
-        },
-        {
-          "nome": "Santa Elena",
-          "perChi": "those spending less",
-          "testo": "The nearest village, with simple accommodation."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Uxmal",
+        testo: "The largest city of the Puuc style, a UNESCO World Heritage site. The Pyramid of the Magician has an unusual oval plan; the Nunnery Quadrangle is a courtyard enclosed by four palaces with stone-mosaic facades. You can't climb the pyramid, but from the terrace of the Governor's Palace you see the whole site.",
+        come: "From Mérida on Federal Highway 261 towards Santa Elena. INAH ticket plus CULTUR state fee; licensed guides are hired at the ticket office.",
+        quando: "At opening, 8 am: it closes earlier than other sites and the afternoon heat is strong.",
+        tempo: "2-3 hours",
+        costo: "105 MXN INAH plus 461 MXN CULTUR for foreigners, i.e. 566 MXN, about 28 €; Yucatán residents don't pay the state fee (2026)",
+        orari: "Daily 8 am-4 pm, last entry 3 pm",
+        lat: 20.35944,
+        lng: -89.77139,
+        url: "https://lugares.inah.gob.mx/en/node/5797",
+        consiglio: "With a guide the symbols on the facades make much more sense.",
+      },
+      {
+        nome: "Kabah",
+        testo: "The Codz Poop has a facade covered with hundreds of masks of Chaac, one of the finest examples of Maya art. The site also has a free-standing arch, where a ceremonial road to Uxmal began.",
+        come: "By car, about 20 km south of Uxmal, on Federal Highway 261.",
+        quando: "Morning or early afternoon, after Uxmal.",
+        tempo: "1 hour",
+        costo: "155 MXN for foreigners, about 8 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4 pm",
+        lat: 20.24843,
+        lng: -89.6473,
+        url: "https://lugares.inah.gob.mx/en/node/5504",
+      },
+      {
+        nome: "Sayil",
+        testo: "A Puuc site with the Great Palace, or North Palace, built on two terraces that give the impression of three storeys, with facades added in successive phases.",
+        come: "By car along the Ruta Puuc, between Kabah and Labná.",
+        quando: "Morning, before the heat.",
+        tempo: "45 minutes",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4 pm",
+        lat: 20.17776,
+        lng: -89.65218,
+        url: "https://lugares.inah.gob.mx/en/node/4458",
+      },
+      {
+        nome: "Xlapak",
+        testo: "The smallest of the Ruta Puuc sites, with a single restored palace decorated with Chaac masks on the corners and geometric friezes. It takes a few minutes and is almost always empty.",
+        come: "By car, at km 10 of the Ruta Puuc road, between Sayil and Labná.",
+        quando: "Along the Ruta Puuc loop; it closes an hour earlier than the others.",
+        tempo: "30 minutes",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Daily 8 am-4 pm",
+        lat: 20.17361,
+        lng: -89.60833,
+        url: "https://lugares.inah.gob.mx/en/node/5826",
+      },
+      {
+        nome: "Labná",
+        testo: "Famous for its richly decorated arch, which connected two courtyards. Inhabited from 200 BC, it peaked between 800 and 1000 AD. The site is quiet, with a long palace and a sacbé, a raised road, leading to the arch.",
+        come: "By car, at the end of the Ruta Puuc.",
+        quando: "Late morning, before continuing to Oxkutzcab or Campeche.",
+        tempo: "1 hour",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4 pm",
+        lat: 20.1725,
+        lng: -89.579,
+        url: "https://lugares.inah.gob.mx/en/node/4427",
+      },
+      {
+        nome: "Loltún Caves",
+        testo: "The largest cave system in Yucatán, with huge chambers, cave paintings and remains of prehistoric animals. It is visited with a guide along a route of about two kilometres underground.",
+        come: "By car from Oxkutzcab, 6 km, at the end of the Ruta Puuc.",
+        quando: "It is currently listed as temporarily closed: check before going.",
+        tempo: "1.5 hours",
+        costo: "145 MXN INAH plus 282 MXN CULTUR fee for foreigners, when open",
+        lat: 20.2528,
+        lng: -89.4564,
+        url: "https://lugares.inah.gob.mx/en/node/5720",
+      },
+      {
+        nome: "Choco-Story Uxmal",
+        testo: "A cocoa museum in the forest opposite the entrance to Uxmal, with huts telling the story of Maya chocolate, a demonstration of the drink made the traditional way and a small animal sanctuary. It is an easy stop after the ruins.",
+        come: "On foot or by car from the Uxmal car park, across the road.",
+        quando: "After visiting Uxmal, in the hot hours.",
+        tempo: "1-1.5 hours",
+        costo: "280 MXN, about 14 €, with reductions for children and students (2026)",
+        orari: "Daily 9 am-7.30 pm",
+        url: "https://www.choco-storymexico.com/",
+      },
+      {
+        nome: "Santa Elena",
+        testo: "The village closest to Uxmal and Kabah, with an 18th-century church on a small hill and a little museum with child mummies found under its floor. Staying here lets you enter the sites at opening time.",
+        come: "By car, on Federal Highway 261 between Uxmal and Kabah.",
+        quando: "Late afternoon, walking up to the church for the view.",
+        tempo: "1 hour",
+        lat: 20.32472,
+        lng: -89.64306,
+      },
+      {
+        nome: "Hacienda Yaxcopoil",
+        testo: "A henequen hacienda on the 261 between Mérida and Uxmal, left almost as it was: the main house with its furniture, the machine room for the agave fibre and the large Moorish arch at the entrance. It shows the wealth of late-19th-century Yucatán.",
+        come: "By car, a stop on the road from Mérida, about 30 km south of the city.",
+        quando: "Morning, on the way to Uxmal; closed on Sunday.",
+        tempo: "1 hour",
+        costo: "200 MXN per person, about 10 € (2026)",
+        orari: "Monday-Friday 9 am-6 pm, last tour 5 pm; Saturday 9 am-2 pm; closed Sunday and holidays",
+        lat: 20.74472,
+        lng: -89.72222,
+        url: "https://www.yaxcopoil.com/",
+      },
+    ],
+    programmi: [
+      { titolo: "1 day", tappe: [
+        "Morning: Uxmal at opening",
+        "Lunch with pib",
+        "Afternoon: Choco-Story and Kabah",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: Hacienda Yaxcopoil on the road from Mérida, Uxmal, night nearby or in Santa Elena",
+        "Day 2: Kabah, Sayil, Xlapak and Labná, then on to Campeche",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Days 1-2 as above, sleeping two nights near Uxmal",
+        "Day 3: Ticul for pottery, Maní with its Franciscan convent and, if reopened, the Loltún caves",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Around Uxmal",
+        perChi: "those who want to enter at opening",
+        testo: "A few hotels minutes from the site, some with a pool in the forest; book ahead.",
+        fascia: "70-140 €",
+      },
+      {
+        nome: "Santa Elena",
+        perChi: "lower budgets",
+        testo: "The nearest village, with simple lodging and a few bungalows between Uxmal and Kabah.",
+      },
+      {
+        nome: "Mérida as a base",
+        perChi: "services and evenings out",
+        testo: "You do Uxmal as a day trip with an hour and a quarter each way, giving up on arriving at opening time.",
+        fascia: "50-150 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Pib and cochinita",
@@ -2193,6 +2520,52 @@ export const destinazioniMessico: Destinazione[] = [
         "No food at the entrance, no pets, extra fee for professional video cameras.",
         "There are few services along the Puuc Route: get water and fuel before you set off."
       ],
+    gite: [
+      {
+        nome: "Maní",
+        distanza: "about 40 km east of Uxmal",
+        come: "By car via Ticul.",
+        testo: "A pueblo mágico with the large Franciscan convent of San Miguel Arcángel, where in 1562 Friar Diego de Landa burned the Maya codices. The village restaurants are known for poc chuc.",
+      },
+      {
+        nome: "Ticul",
+        distanza: "about 25 km east of Uxmal",
+        come: "By car or colectivo from Santa Elena.",
+        testo: "A town of potters and shoemakers, with workshops making replicas of Maya vessels. It is also the starting point for Maní and Loltún.",
+      },
+      {
+        nome: "Oxkintok",
+        distanza: "about 40 km by road to the north-west",
+        come: "By car from Muna or Maxcanú; pairs with the Calcehtok caves.",
+        testo: "One of the oldest sites of the Puuc area, with the Satunsat, a three-level stone labyrinth, and very few visitors.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How long do you need at Uxmal?",
+        risposta: "Two to three hours are enough for the site; a guide helps with the facade symbols. Go in at 8 am, because it closes at 4 pm with last entry at 3 pm.",
+      },
+      {
+        domanda: "Uxmal or Chichén Itzá?",
+        risposta: "Chichén Itzá is more famous and crowded; Uxmal has richer decorated facades and far fewer people. With time, see both, because the styles are different.",
+      },
+      {
+        domanda: "Can you climb the Pyramid of the Magician?",
+        risposta: "No, the pyramid is closed to climbing. The best view of the site is from the terrace of the Governor's Palace and from the Great Pyramid to the south.",
+      },
+      {
+        domanda: "Do you need a car for the Ruta Puuc?",
+        risposta: "Yes, or a tour with a driver: the sites lie along a country road with no public transport, and there are few services between them.",
+      },
+      {
+        domanda: "Where to stay for the Ruta Puuc?",
+        risposta: "Near Uxmal or in Santa Elena, to enter the sites at opening without the drive from Mérida. Lodging is limited, so book ahead.",
+      },
+      {
+        domanda: "How much is the entry fee to Uxmal?",
+        risposta: "For foreigners 566 MXN: 105 for the INAH ticket plus 461 CULTUR state fee (2026). You pay at the ticket office.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo', 'messico-beach-life'],
     imageAlt: "The two-headed jaguar throne in front of the Governor's Palace at Uxmal",
@@ -2448,70 +2821,144 @@ export const destinazioniMessico: Destinazione[] = [
       'The town of Xpujil, on Federal Highway 186, or the eco-lodges along the reserve road. There are few of them: book ahead.',
     doveMangiare:
       'A few simple places in Xpujil. For the day in the reserve, better to bring food and water.',
-    comeArrivare: 'From Federal Highway 186 (Escárcega-Chetumal): at the km 95 junction you take the reserve road, and the site is at km 60 (INAH page). The Tren Maya has stations at Xpujil and Calakmul, but there doesn\'t appear to be public transport to the ruins.',
+    comeArrivare: "From Federal Highway 186 (Escárcega-Chetumal): at the km 95 turn-off, by the ejido of Conhuas, you enter the reserve road, and the site is at km 60: about an hour and a half of slow driving from Xpujil. Xpujil is about 2 hours from Bacalar and 5-6 hours from Palenque. The Tren Maya has stations at Xpujil and Calakmul and ADO buses stop at Xpujil, but there is no known public transport to the ruins: you need a car or a tour. The nearest airports are Chetumal and Campeche.",
     comeSpostarsi: 'By car or on a tour from Xpujil.',
     periodoMigliore: 'November to April, the dry season; in the rainy season the forest is more humid and full of mosquitoes.',
-    costi: '210 MXN INAH admission for foreigners, plus a 215 MXN reserve fee (CONANP) (INAH page, November 2026). Bring cash.',
+    costi: "210 MXN INAH ticket for foreigners, plus 215 MXN reserve fee (CONANP) (2026); Becán 155 MXN, Xpuhil, Chicanná and Balamkú 145 MXN, Hormiguero free. Bring cash: ATMs in Xpujil are few. Rough daily budget per person: low 40-60 € (simple hotel in Xpujil, tickets, your own food); mid 90-130 € (eco-lodge on the reserve road, rental car); high from 180 € (better lodges and a private guide for the day in the reserve).",
     erroriDaEvitare: [
       'Leaving late: last entry is at 4 pm and the reserve road is long and narrow',
       'Leaving the marked trails',
       'Entering the reserve without fuel, water and cash',
       'Driving on Federal Highway 186 in the evening',
     ],
-      "luoghi": [
-        {
-          "nome": "Calakmul archaeological zone",
-          "testo": "The capital of the Kaan dynasty, which fought Tikal for control of the Maya lowlands. The tallest structures rise above the treetops: from up there you see only forest to the horizon.",
-          "come": "From the km 95 junction on Federal Highway 186, 60 km of road inside the reserve. You pay the INAH admission and the CONANP reserve fee.",
-          "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page). Leave at dawn.",
-          "tempo": "Full day",
-          "costo": "210 MXN INAH plus 215 MXN CONANP for foreigners (INAH page, November 2026).",
-          "url": "https://lugares.inah.gob.mx/en/node/5551",
-          "consiglio": "Closed shoes, repellent, water and food for the whole day."
-        },
-        {
-          "nome": "Becán and Xpuhil",
-          "testo": "Two Río Bec-style sites near the town of Xpujil, with decorative towers and, at Becán, a moat around the city.",
-          "come": "By car from Federal Highway 186, a few minutes from town.",
-          "tempo": "1-2 hours",
-          "consiglio": "Good for the afternoon of your arrival day."
-        },
-        {
-          "nome": "Balam Ku",
-          "testo": "A small site along Federal Highway 186, on the road between Escárcega and Xpujil.",
-          "come": "By car, as a stop along the way.",
-          "tempo": "1 hour"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Dawn: leave Xpujil",
-            "Morning and early afternoon: Calakmul",
-            "Back in Xpujil before dark"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: Balam Ku on the way, Becán or Xpuhil in the afternoon",
-            "Day 2: Calakmul"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Xpujil",
-          "perChi": "services and transport",
-          "testo": "The town on Federal Highway 186, with simple accommodation and a few places to eat."
-        },
-        {
-          "nome": "Reserve road",
-          "perChi": "those who want the forest",
-          "testo": "Eco-lodges closer to the site, few and to book ahead."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Calakmul archaeological zone",
+        testo: "The capital of the Kaan dynasty, which disputed control of the Maya lowlands with Tikal. The tallest structures rise above the treetops: from up there you see nothing but forest to the horizon. Along the trails you may meet monkeys, ocellated turkeys and toucans.",
+        come: "From the km 95 turn-off on Federal Highway 186, 60 km of road through the reserve. You pay the INAH ticket and the CONANP reserve fee.",
+        quando: "Leave Xpujil at dawn: the road is long and narrow.",
+        tempo: "Full day",
+        costo: "210 MXN INAH plus 215 MXN CONANP for foreigners, about 21 € in total (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4 pm",
+        lat: 18.105,
+        lng: -89.81056,
+        url: "https://lugares.inah.gob.mx/en/node/5551",
+        consiglio: "Closed shoes, repellent, water and food for the whole day.",
+      },
+      {
+        nome: "Calakmul site museum",
+        testo: "At km 20 of the reserve road, with rooms on the forest and on finds from the city. It is included in the site ticket and works well on the way back, in the heat of the day.",
+        come: "By car along the reserve road, entering from Conhuas.",
+        quando: "Early afternoon, returning from the ruins.",
+        tempo: "45 minutes",
+        costo: "Included in the archaeological zone ticket",
+        orari: "Daily 8 am-5 pm, last entry 4 pm",
+        url: "https://lugares.inah.gob.mx/en/node/4696",
+      },
+      {
+        nome: "The reserve road",
+        testo: "The 60 km of narrow tarmac between Federal Highway 186 and the ruins cross the forest of the Biosphere Reserve: at dawn and dusk you see ocellated turkeys, coatis, monkeys and sometimes jaguar tracks. It is part of the visit, not just a transfer.",
+        come: "By car, slowly: there are animals on the road and blind bends.",
+        quando: "Dawn and late afternoon, getting back before dark.",
+        tempo: "1.5 hours each way",
+      },
+      {
+        nome: "Becán",
+        testo: "The largest site near Xpujil, surrounded by a moat almost two kilometres long, with Río Bec-style towers and palaces and a vaulted passage under a building. In the late afternoon it is almost empty.",
+        come: "By car, turn-off at km 145 of Federal Highway 186, a few minutes from Xpujil.",
+        quando: "Late afternoon on the day you arrive.",
+        tempo: "1-1.5 hours",
+        costo: "155 MXN for foreigners, about 8 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4.45 pm",
+        lat: 18.51667,
+        lng: -89.46667,
+        url: "https://lugares.inah.gob.mx/en/node/5441",
+      },
+      {
+        nome: "Xpuhil",
+        testo: "A building with three tall, narrow towers, mock pyramids with unclimbable stairs, typical of the Río Bec style. It is right at the entrance to the town of Xpujil and takes little time.",
+        come: "On foot or by car from the town, on Federal Highway 186 at km 156.",
+        quando: "Afternoon, or in the morning before leaving.",
+        tempo: "30-45 minutes",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4.45 pm",
+        lat: 18.51003,
+        lng: -89.40447,
+        url: "https://lugares.inah.gob.mx/en/node/5841",
+      },
+      {
+        nome: "Chicanná",
+        testo: "The name means «house of the serpent mouth»: Structure II has its doorway shaped like a huge monster's mouth, with fangs and eyes in stucco and stone. It is small, shady and very photogenic.",
+        come: "By car, turn-off at km 140 of Federal Highway 186, near Becán.",
+        quando: "Together with Becán, in the afternoon.",
+        tempo: "45 minutes",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4.45 pm",
+        lat: 18.50692,
+        lng: -89.48633,
+        url: "https://lugares.inah.gob.mx/en/node/5657",
+      },
+      {
+        nome: "Balam Ku",
+        testo: "A small site on Federal Highway 186, on the road between Escárcega and Xpujil, with a large stucco frieze preserved under a roof, showing frogs, jaguars and crocodiles. It is a one-hour stop that breaks up the drive.",
+        come: "By car, turn-off at km 93 of Federal Highway 186.",
+        quando: "On the way to Xpujil, in the early afternoon.",
+        tempo: "1 hour",
+        costo: "145 MXN for foreigners, about 7 € (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4.45 pm",
+        lat: 18.56019,
+        lng: -89.94436,
+        url: "https://lugares.inah.gob.mx/en/node/5435",
+      },
+      {
+        nome: "Hormiguero",
+        testo: "A site in the forest south of Xpujil with Structure II, a monster-mouth facade between two towers, among the best preserved of the Río Bec style. It is reached by a dirt road and there is often nobody there.",
+        come: "By car, 14 km south of Xpujil to the ejido Eugenio Echeverría Castellot, then 8 km west; after rain the road is difficult.",
+        quando: "Morning, with dry ground.",
+        tempo: "1 hour plus the drive",
+        costo: "Free entry (2026)",
+        orari: "Daily 8 am-5 pm, last entry 4.45 pm",
+        lat: 18.40333,
+        lng: -89.485,
+        url: "https://lugares.inah.gob.mx/en/node/5777",
+      },
+    ],
+    programmi: [
+      { titolo: "1 day", tappe: [
+        "Dawn: leave Xpujil",
+        "Morning and early afternoon: Calakmul",
+        "On the way back: site museum at km 20",
+        "Back in Xpujil before dark",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: Balam Ku on the way, Chicanná and Becán in the afternoon",
+        "Day 2: Calakmul at opening, museum on the way back",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Days 1-2 as above",
+        "Day 3: Xpuhil and Hormiguero in the morning, then on to Bacalar with a stop at Kohunlich",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Xpujil",
+        perChi: "services and transport",
+        testo: "The town on Federal Highway 186, with simple lodging, a few places to eat and the Tren Maya station. Restaurants close early.",
+        fascia: "25-60 €",
+      },
+      {
+        nome: "Reserve road",
+        perChi: "those who want the forest",
+        testo: "Eco-lodges closer to the site, few and to be booked, with dinner included because there is nothing else around.",
+        fascia: "60-130 €",
+      },
+      {
+        nome: "Bacalar as the next stop",
+        perChi: "those short on time",
+        testo: "About two hours away: sleep on the lagoon and do Calakmul and Becán with a single night in Xpujil.",
+        fascia: "45-90 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Campeche cooking",
@@ -2523,6 +2970,52 @@ export const destinazioniMessico: Destinazione[] = [
         "No smoking at the site and an extra fee for professional video cameras.",
         "Viaggiare Sicuri reports chikungunya in Campeche: strong repellent."
       ],
+    gite: [
+      {
+        nome: "Kohunlich",
+        distanza: "about 1.5 hours towards Chetumal",
+        come: "By car, turn-off at km 60 of Federal Highway 186 past Francisco Villa, then 9 km.",
+        testo: "A site in the forest famous for the Temple of the Masks, large stucco faces flanking the stairway. Entry 210 MXN for foreigners, daily 8 am-5 pm (2026).",
+      },
+      {
+        nome: "Dzibanché and Kinichná",
+        distanza: "about 1.5 hours towards Chetumal",
+        come: "By car, turn-off at km 58 of Federal Highway 186 towards Morocoy.",
+        testo: "Two neighbouring sites, with tall pyramids in the forest and very few visitors; Dzibanché was one of the early seats of the Kaan dynasty. One ticket, 155 MXN for foreigners (2026).",
+      },
+      {
+        nome: "Bacalar",
+        distanza: "about 2 hours by car",
+        come: "On Federal Highway 186 east and then north on the 307; Quintana Roo is one hour ahead.",
+        testo: "The lagoon of seven colours, with the Cenote Azul on the road before town: the natural next stop after Calakmul.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need for Calakmul?",
+        risposta: "Two nights in Xpujil or on the reserve road: an afternoon for Becán and Chicanná and a full day for Calakmul. With one night you only see Calakmul.",
+      },
+      {
+        domanda: "Can you reach Calakmul by public transport?",
+        risposta: "As far as Xpujil, yes, by Tren Maya or ADO bus; to the ruins, no. From Xpujil you go by car or on a tour, leaving at dawn.",
+      },
+      {
+        domanda: "Calakmul or Tikal?",
+        risposta: "They were rivals and are similar in size. Tikal is more restored and visited; at Calakmul you walk through the forest almost alone and can still climb the tallest structures.",
+      },
+      {
+        domanda: "How much is the entry to Calakmul?",
+        risposta: "For foreigners 210 MXN INAH ticket plus 215 MXN CONANP reserve fee (2026). Have cash with you.",
+      },
+      {
+        domanda: "Do you see wildlife at Calakmul?",
+        risposta: "Often, yes: howler and spider monkeys, ocellated turkeys, toucans and coatis, especially early in the morning and along the reserve road. Jaguars live here but are rarely seen.",
+      },
+      {
+        domanda: "What is the best time to go?",
+        risposta: "From November to April, the dry season. In the rains the forest is wetter, there are more mosquitoes and the dirt roads to the smaller sites get difficult.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo'],
     imageAlt: "Calakmul's Structure I rising from the reserve's forest, seen from the top of Structure II",

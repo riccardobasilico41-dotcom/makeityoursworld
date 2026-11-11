@@ -358,74 +358,194 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     doveDormire:
       'En Puebla, el centro alrededor del Zócalo, con muchos hoteles en edificios coloniales. En Cholula, hostales y hotelitos a los pies de la pirámide.',
     doveMangiare: 'Mole poblano, chalupas, cemitas y molotes; los chiles en nogada son un plato de temporada de finales del verano.',
-    comeArrivare: 'Autobús ADO desde Ciudad de México; de Puebla a Cholula, taxi o colectivo.',
+    comeArrivare: "Desde Ciudad de México los autobuses ADO salen de la TAPO o de la Terminal del Sur, con mucha frecuencia: unas 2 horas y 200-300 MXN, unos 10-15 € (2026), hasta la terminal CAPU de Puebla, desde donde se va al centro en taxi o aplicación. El aeropuerto de Puebla (PBC), en Huejotzingo, tiene pocos vuelos nacionales; casi todos llegan a Ciudad de México. De Puebla a Cholula hay 20-30 minutos en Uber, taxi o colectivo. Para seguir a Oaxaca el autobús cuesta 450-800 MXN y tarda unas 4,5-5 horas.",
     comeSpostarsi: 'A pie por los centros; taxi y apps entre Puebla y Cholula.',
     periodoMigliore: 'de octubre a abril; las mañanas despejadas de noviembre a febrero son las mejores para ver los volcanes.',
+    costi: "Presupuesto diario por persona, orientativo para 2026: bajo 50-80 € (hostal u hotel sencillo en Cholula, mercados y cemitas, colectivos); medio 110-170 € (hotel en una casa colonial del centro, museos, restaurantes de cocina poblana, Uber); alto desde 250 € (hotel de gama alta, guía privado, cocina de autor). Gran Pirámide de Cholula 210 MXN para extranjeros; Museo Amparo 85 MXN; Biblioteca Palafoxiana unos 40 MXN, gratis el martes.",
     erroriDaEvitare: [
       'Visitar Cholula solo a mediodía, cuando la bruma suele esconder el volcán',
       'Hacer Puebla en el día desde Ciudad de México sin dormir al menos una noche en Cholula',
     ],
-      "luoghi": [
-        {
-          "nome": "Centro histórico de Puebla y Catedral",
-          "testo": "Patrimonio UNESCO, con la Catedral, el Zócalo y casas cubiertas de azulejos de talavera.",
-          "come": "A pie desde el Zócalo.",
-          "quando": "Mañana.",
-          "tempo": "3 horas"
-        },
-        {
-          "nome": "Biblioteca Palafoxiana y Capilla del Rosario",
-          "testo": "La primera biblioteca pública de América, fundada en 1646, y una capilla barroca cubierta de oro (Templo de Santo Domingo).",
-          "come": "A pie desde el centro.",
-          "quando": "Mañana.",
-          "tempo": "1,5 horas"
-        },
-        {
-          "nome": "Gran Pirámide de Cholula",
-          "testo": "La pirámide más grande del mundo por volumen, casi escondida bajo un cerro de pasto, con la iglesia de la Virgen de los Remedios en la cima. Los túneles reabrieron en marzo de 2026 tras seis años cerrados, con visitas en grupo.",
-          "come": "Autobús o Uber desde Puebla, a poca distancia.",
-          "quando": "Mañana; atardecer para la vista de los volcanes.",
-          "tempo": "2-3 horas",
-          "url": "https://www.inah.gob.mx/",
-          "consiglio": "Subir a la iglesia de la cima para el panorama de los volcanes Popocatépetl e Iztaccíhuatl."
-        },
-        {
-          "nome": "Tonantzintla y Acatepec",
-          "testo": "Iglesias barrocas indígenas con fachadas de azulejos e interiores cubiertos de estuco dorado.",
-          "come": "Uber o colectivo desde Cholula.",
-          "quando": "Mañana.",
-          "tempo": "1-2 horas"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: Catedral, Capilla del Rosario",
-            "Almuerzo con mole poblano",
-            "Tarde: Cholula y pirámide"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: centro de Puebla y Palafoxiana",
-            "Día 2: Cholula, pirámide, Tonantzintla y Acatepec"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro histórico de Puebla",
-          "perChi": "a pie de todo",
-          "testo": "Hoteles en edificios históricos y restaurantes cerca."
-        },
-        {
-          "nome": "Cholula",
-          "perChi": "ambiente de pueblo",
-          "testo": "Más tranquilo, con bares y vida estudiantil."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Zócalo y Catedral de Puebla",
+        testo: "El corazón del centro histórico patrimonio de la UNESCO, con sus portales y la Catedral de la Inmaculada Concepción, cuyas torres están entre las más altas del país. Dentro están el Altar de los Reyes y un gran coro de madera taraceada; la plaza se llena por la noche.",
+        come: "A pie; la catedral se visita fuera del horario de misa.",
+        quando: "Por la mañana la catedral, por la noche la plaza iluminada.",
+        tempo: "1-1,5 horas",
+        costo: "Gratis",
+        lat: 19.04283,
+        lng: -98.19836,
+      },
+      {
+        nome: "Capilla del Rosario y Santo Domingo",
+        testo: "Dentro de la iglesia de Santo Domingo, la capilla del Rosario es un barroco de finales del XVII cubierto de estuco dorado, ángeles y volutas, considerado una de las obras maestras del barroco mexicano. Está a pocos minutos a pie del Zócalo.",
+        come: "A pie desde el centro, por la 5 de Mayo.",
+        quando: "Fuera del horario de misa.",
+        tempo: "30 minutos",
+        costo: "Gratis",
+        lat: 19.04656,
+        lng: -98.19831,
+      },
+      {
+        nome: "Biblioteca Palafoxiana",
+        testo: "La primera biblioteca pública de América, fundada en 1646 por el obispo Juan de Palafox: una sala barroca con estanterías de madera en tres niveles y decenas de miles de volúmenes antiguos. Está junto a la catedral, en la Casa de la Cultura.",
+        come: "A pie, en la primera planta de la Casa de la Cultura, junto a la catedral.",
+        quando: "Por la mañana; el martes la entrada es gratis y hay más gente.",
+        tempo: "45 minutos",
+        costo: "Unos 40 MXN, unos 2 €; gratis el martes (2026)",
+        orari: "Cerrada el lunes",
+        lat: 19.0425,
+        lng: -98.1989,
+      },
+      {
+        nome: "Museo Amparo",
+        testo: "Un museo privado en dos casonas coloniales unidas, con una de las mejores colecciones de arte prehispánico del país, salas de arte virreinal y contemporáneo y una terraza con vista a las cúpulas del centro. Funciona bien también una mañana de lluvia.",
+        come: "A pie, a dos cuadras del Zócalo.",
+        quando: "Por la mañana; la terraza tiene café para una pausa.",
+        tempo: "2 horas",
+        costo: "85 MXN, unos 4 € (2026)",
+        orari: "De miércoles a lunes de 10 a 18 h, cerrado el martes",
+        lat: 19.0408,
+        lng: -98.1985,
+        url: "https://museoamparo.com/",
+      },
+      {
+        nome: "Callejón de los Sapos",
+        testo: "Una placita y unos callejones del barrio antiguo al sureste del Zócalo, con tiendas de antigüedades, talavera y cantinas. Sábados y domingos hay mercado de cosas viejas; por la noche, bares con música en vivo.",
+        come: "A pie, a cinco minutos del Zócalo.",
+        quando: "Fines de semana por la mañana para el mercado, por la noche para los bares.",
+        tempo: "1 hora",
+        costo: "Gratis",
+        lat: 19.04075,
+        lng: -98.19646,
+      },
+      {
+        nome: "Barrio del Artista",
+        testo: "Un patio de pequeños talleres donde pintores y grabadores trabajan con las puertas abiertas y venden su obra. Al lado está el Parián, el mercado de artesanías con talavera, ónix y dulces.",
+        come: "A pie, al noreste del Zócalo, hacia el Teatro Principal.",
+        quando: "Por la tarde, cuando los talleres están abiertos.",
+        tempo: "45 minutos",
+        costo: "Gratis",
+        lat: 19.044,
+        lng: -98.192,
+      },
+      {
+        nome: "Calle de los Dulces",
+        testo: "El tramo de la 6 Oriente con las dulcerías históricas: camotes, tortitas de Santa Clara, borrachitos y jamoncillos, nacidos en los conventos de monjas de la ciudad. Se prueba antes de comprar.",
+        come: "A pie, cerca de Santa Clara, a pocas cuadras del Zócalo.",
+        quando: "Por la tarde.",
+        tempo: "30 minutos",
+        lat: 19.04616,
+        lng: -98.19617,
+      },
+      {
+        nome: "Talavera Uriarte",
+        testo: "Uno de los talleres históricos de talavera con denominación de origen, activo desde el siglo XIX. La visita guiada muestra todo el proceso, desde el barro amasado con los pies hasta la pintura a mano y la doble cocción.",
+        come: "A pie desde el centro, en la 4 Poniente; la visita requiere reserva.",
+        quando: "Entre semana, cuando trabajan los artesanos.",
+        tempo: "50 minutos",
+        costo: "150 MXN de lunes a viernes, 200 MXN los sábados, unos 8-10 € (2026)",
+        orari: "Visitas de lunes a viernes de 10 a 15 h; sábados según disponibilidad",
+        url: "https://www.uriartetalavera.com.mx/visita-uriarte",
+        consiglio: "La talavera auténtica lleva el sello de denominación de origen: la que se vende por pocos pesos en los puestos casi siempre es industrial.",
+      },
+      {
+        nome: "Fuertes de Loreto y Guadalupe",
+        testo: "En el cerro al noreste del centro, donde el 5 de mayo de 1862 el ejército mexicano venció a los franceses: la fecha del Cinco de Mayo. El fuerte de Loreto alberga un museo de la batalla, y alrededor hay un parque con vista a la ciudad y a los volcanes.",
+        come: "Taxi o Uber desde el centro, unos 10 minutos.",
+        quando: "Una mañana despejada, para ver los volcanes.",
+        tempo: "1,5-2 horas",
+        lat: 19.05675,
+        lng: -98.18694,
+      },
+      {
+        nome: "Museo Internacional del Barroco",
+        testo: "Un edificio blanco y ondulado diseñado por Toyo Ito, en la zona moderna de Angelópolis, que cuenta el barroco en el arte, la música y la ciudad, con salas interactivas. Interesante por el contraste con el centro histórico.",
+        come: "Taxi o Uber desde el centro, unos 20 minutos; cerca está la noria Estrella de Puebla.",
+        quando: "Por la tarde.",
+        tempo: "2 horas",
+        lat: 19.01931,
+        lng: -98.24661,
+      },
+      {
+        nome: "Gran Pirámide de Cholula",
+        testo: "La pirámide más grande del mundo por volumen, casi escondida bajo un cerro de hierba, con la iglesia de la Virgen de los Remedios en la cima. Los túneles interiores reabrieron en marzo de 2026 tras seis años cerrados, con visitas en grupo; el museo de sitio está incluido en el boleto.",
+        come: "Uber, taxi o colectivo desde Puebla, 20-30 minutos; boletos también en línea.",
+        quando: "Por la mañana para los túneles y la zona arqueológica.",
+        tempo: "2-3 horas",
+        costo: "210 MXN para extranjeros, unos 10 € (2026)",
+        orari: "Zona arqueológica de miércoles a domingo de 9 a 17 h",
+        lat: 19.0575,
+        lng: -98.30194,
+        url: "https://lugares.inah.gob.mx/en/node/5678",
+        consiglio: "Los túneles son estrechos: no aptos para quien sufre claustrofobia.",
+      },
+      {
+        nome: "Santuario de la Virgen de los Remedios",
+        testo: "La iglesia amarilla que los españoles construyeron en lo alto de la pirámide, la de las fotos con el Popocatépetl humeando detrás. Se sube a pie por una rampa; desde el atrio, las mañanas despejadas, se ven el Popocatépetl y el Iztaccíhuatl.",
+        come: "A pie desde la plaza de San Pedro Cholula, subida libre.",
+        quando: "Al amanecer o al atardecer; a mediodía la bruma suele tapar el volcán.",
+        tempo: "1 hora",
+        costo: "Gratis",
+        lat: 19.0581,
+        lng: -98.3018,
+      },
+      {
+        nome: "Convento de San Gabriel",
+        testo: "El convento franciscano del siglo XVI en la plaza principal de San Pedro Cholula, con la Capilla Real, una capilla de decenas de cúpulas construida para los indígenas convertidos. Está frente a la pirámide.",
+        come: "A pie, en la plaza de Cholula.",
+        quando: "Por la tarde, antes de subir al santuario para el atardecer.",
+        tempo: "45 minutos",
+        costo: "Gratis",
+        lat: 19.06229,
+        lng: -98.30438,
+      },
+      {
+        nome: "Tonantzintla y Acatepec",
+        testo: "Dos iglesias barrocas indígenas a pocos kilómetros de Cholula. Santa María Tonantzintla tiene el interior cubierto de estuco policromado con rostros, frutas y ángeles hechos por artesanos locales; San Francisco Acatepec tiene la fachada revestida por completo de talavera.",
+        come: "Uber o colectivo desde Cholula, 10-15 minutos; las dos iglesias están cerca una de otra.",
+        quando: "Por la mañana; en Tonantzintla no se fotografía dentro.",
+        tempo: "1-2 horas",
+        costo: "Gratis",
+        lat: 19.02988,
+        lng: -98.3197,
+      },
+    ],
+    programmi: [
+      { titolo: "1 día", tappe: [
+        "Mañana: Zócalo, Catedral, Palafoxiana y Capilla del Rosario",
+        "Comida con mole poblano",
+        "Tarde: Cholula, pirámide y santuario al atardecer",
+      ] },
+      { titolo: "2 días", tappe: [
+        "Día 1: centro de Puebla, Museo Amparo, Calle de los Dulces y Callejón de los Sapos por la noche",
+        "Día 2: Cholula al amanecer, pirámide y túneles, Tonantzintla y Acatepec",
+      ] },
+      { titolo: "3 días", tappe: [
+        "Días 1-2 como arriba",
+        "Día 3: Talavera Uriarte por la mañana, fuertes de Loreto y Guadalupe, luego Atlixco o el Museo del Barroco",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Centro histórico de Puebla",
+        perChi: "todo a pie",
+        testo: "Hoteles en casonas coloniales alrededor del Zócalo, con restaurantes y museos cerca.",
+        fascia: "60-125 €",
+      },
+      {
+        nome: "Cholula",
+        perChi: "ambiente de pueblo y vista a los volcanes",
+        testo: "Hostales y pequeños hoteles al pie de la pirámide, algunos con terraza al Popocatépetl; por la noche hay bares de estudiantes.",
+        fascia: "35-90 €",
+      },
+      {
+        nome: "Angelópolis",
+        perChi: "quien viaja en coche",
+        testo: "La zona moderna entre Puebla y Cholula, con hoteles de cadena, centros comerciales y el Museo del Barroco; cómoda para moverse en coche, sin encanto.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Mole poblano",
@@ -449,6 +569,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Taxis de calle: usar Uber.",
         "El volcán Popocatépetl está activo: el panorama puede variar."
       ],
+    gite: [
+      {
+        nome: "Atlixco",
+        distanza: "unos 30 km desde Cholula, 40 minutos",
+        come: "En coche o en autobús desde Puebla.",
+        testo: "Pueblo mágico de viveros de flores al pie del Popocatépetl, con el Cerro de San Miguel y su capilla sobre el pueblo. En noviembre florecen los campos de nochebuenas.",
+      },
+      {
+        nome: "Paso de Cortés",
+        distanza: "aproximadamente 1,5 horas desde Cholula",
+        come: "En coche pasando por San Nicolás de los Ranchos; se paga la entrada al parque nacional.",
+        testo: "El puerto a unos 3.600 metros entre el Popocatépetl y el Iztaccíhuatl, en el Parque Nacional Izta-Popo, desde donde salen senderos hacia el Iztaccíhuatl. Al Popocatépetl no se sube: hay que consultar el semáforo del CENAPRED.",
+      },
+      {
+        nome: "Cuetzalan",
+        distanza: "aproximadamente 3,5 horas desde Puebla",
+        come: "En autobús o coche; mejor con una noche allí.",
+        testo: "Pueblo de la Sierra Norte entre nieblas y cafetales, con mercado dominical nahua, grutas y cascadas. Queda lejos para un día, pero es la Puebla más verde.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para Puebla y Cholula?",
+        risposta: "Dos días: uno para el centro de Puebla y otro para Cholula, con la pirámide y las iglesias de Tonantzintla y Acatepec. Con un tercero se añaden los fuertes, Uriarte y Atlixco.",
+      },
+      {
+        domanda: "¿Mejor dormir en Puebla o en Cholula?",
+        risposta: "Puebla tiene más museos, restaurantes y hoteles coloniales; Cholula es más pequeña y permite subir al santuario al amanecer, cuando mejor se ven los volcanes. Con dos noches, una en cada una.",
+      },
+      {
+        domanda: "¿Se puede hacer Puebla en el día desde Ciudad de México?",
+        risposta: "Se puede, con unas 2 horas de autobús por trayecto, pero solo se ve el centro. Para Cholula con buena luz sobre los volcanes hace falta al menos una noche.",
+      },
+      {
+        domanda: "¿Están abiertos los túneles de la pirámide de Cholula?",
+        risposta: "Sí, reabrieron en marzo de 2026 tras seis años, con visitas en grupo. La zona arqueológica abre de miércoles a domingo de 9 a 17 h y cuesta 210 MXN para extranjeros.",
+      },
+      {
+        domanda: "¿Cuándo se ve mejor el Popocatépetl?",
+        risposta: "Las mañanas despejadas de noviembre a febrero, al amanecer o al atardecer. A mediodía la bruma suele taparlo.",
+      },
+      {
+        domanda: "¿Cuándo se comen los chiles en nogada?",
+        risposta: "Son un plato de agosto y septiembre, la temporada de la nuez y la granada. El resto del año pocos restaurantes los preparan; el mole poblano, en cambio, siempre está.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'El Santuario de la Virgen de los Remedios sobre la pirámide de Cholula con el volcán nevado detrás',
@@ -796,78 +962,152 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'La muerteada de San Agustín Etla (al norte de Oaxaca) la noche del 1 de noviembre',
       'Bañarse en las piscinas naturales de Hierve el Agua',
     ],
-    comeArrivare: 'En tour de grupo desde Oaxaca, con coche y conductor o en colectivo por la 190.',
+    comeArrivare: "Todos los pueblos del valle de Tlacolula están en la carretera 190, la Panamericana que va de Oaxaca hacia Tehuantepec: Tule está a unos 10 km, Teotitlán y Tlacolula a 30, Mitla a 45 y Hierve el Agua a unos 70, es decir 1,5-2 horas de carretera. Lo más sencillo es un tour en grupo desde Oaxaca (unos 600-900 MXN por persona, 30-45 €, entradas aparte) o un coche con chófer. Por libre se usan los colectivos y autobuses de la 190; desde Mitla salen camionetas compartidas a Hierve el Agua.",
     comeSpostarsi: 'Colectivos entre los pueblos; desde Mitla, camionetas compartidas a Hierve el Agua.',
     periodoMigliore: 'todo el año; finales de octubre-principios de noviembre para los altares en las casas y las comparsas.',
-    costi: 'Hierve el Agua con cuota comunitaria en efectivo; Mitla entrada INAH; degustaciones en los palenques a menudo gratuitas.',
+    costi: "Tour en grupo de la ruta del mezcal 600-900 MXN por persona, entradas aparte; Mitla y Yagul 210 MXN, Dainzú y Lambityeco 145 MXN para extranjeros (2026); Hierve el Agua 50-100 MXN entre cuota comunitaria y boleto, solo efectivo; las degustaciones en los palenques suelen ser gratis. Presupuesto diario por persona, orientativo: bajo 40-60 € (colectivos, comedores de pueblo, entradas); medio 80-120 € (tour o coche, comida en un restaurante de Teotitlán, algunas compras); alto desde 180 € (chófer privado y guía para el día).",
     erroriDaEvitare: [
       'Salir hacia Hierve el Agua sin comprobar que esté abierto: los cierres por disputas entre comunidades son frecuentes',
       'Conducir después de las degustaciones de mezcal',
       'Entrar en los altares de las casas sin invitación',
     ],
-      "luoghi": [
-        {
-          "nome": "Árbol del Tule",
-          "testo": "Un ahuehuete con el tronco más grueso del mundo, en el atrio de la iglesia de Santa María del Tule. Las estimaciones más serias le dan entre 1.400 y 1.600 años.",
-          "come": "Autobús o taxi desde Oaxaca, a unos 9 km al este, en la carretera a Mitla.",
-          "quando": "Mañana.",
-          "tempo": "Parada breve"
-        },
-        {
-          "nome": "Teotitlán del Valle",
-          "testo": "Un pueblo zapoteco de tapetes de lana tejidos a mano con tintes naturales (grana cochinilla, añil).",
-          "come": "Taxi o tour desde Oaxaca.",
-          "quando": "Mañana.",
-          "tempo": "1-2 horas",
-          "consiglio": "Comprar en los talleres familiares, donde se ve el trabajo."
-        },
-        {
-          "nome": "Mitla",
-          "testo": "Sitio zapoteco-mixteco con mosaicos geométricos de piedra encajada. Entrada INAH.",
-          "come": "Colectivo o tour desde Oaxaca.",
-          "quando": "Mañana.",
-          "tempo": "1-2 horas",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Hierve el Agua",
-          "testo": "Cascadas petrificadas de caliza y pozas naturales con vista al valle. Gestionadas por la comunidad; la apertura puede cambiar.",
-          "come": "Tour desde Oaxaca o coche.",
-          "quando": "Mañana, con menos gente; comprobar la apertura.",
-          "tempo": "2-3 horas",
-          "consiglio": "Tras lluvias o por bloqueos de carretera puede estar cerrado: comprobar antes."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Árbol del Tule",
-            "Teotitlán del Valle",
-            "Mezcal en Santiago Matatlán",
-            "Mitla"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: Tule, Teotitlán y Mitla",
-            "Día 2: Hierve el Agua y Yagul"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Base en Oaxaca",
-          "perChi": "servicios",
-          "testo": "Los Valles se visitan en excursión de un día desde Oaxaca."
-        },
-        {
-          "nome": "Teotitlán o Mitla",
-          "perChi": "quien quiere quedarse",
-          "testo": "Pequeñas posadas familiares, calma y cultura local."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Árbol del Tule",
+        testo: "Un ahuehuete con el tronco más grueso del mundo, en el atrio de la iglesia de Santa María del Tule. Las estimaciones más serias le dan entre 1.400 y 1.600 años; los niños del pueblo señalan figuras de animales en los nudos de la corteza.",
+        come: "Autobús, colectivo o taxi desde Oaxaca, unos 10 km al este, camino de Mitla.",
+        quando: "Por la mañana, como primera parada.",
+        tempo: "30 minutos",
+        costo: "Unos pocos pesos para entrar al recinto (2026)",
+        lat: 17.0465,
+        lng: -96.63611,
+      },
+      {
+        nome: "Dainzú",
+        testo: "Un pequeño sitio zapoteco en la ladera, con losas de piedra talladas con jugadores de pelota con máscaras y guantes. Se visita en poco tiempo y casi siempre a solas.",
+        come: "Desvío en el km 23,5 de la 190, luego 1,5 km al sur.",
+        quando: "Por la mañana, antes del calor.",
+        tempo: "45 minutos",
+        costo: "145 MXN para extranjeros, unos 7 € (2026)",
+        orari: "Todos los días de 8 a 17 h, último acceso a las 16.30",
+        lat: 17.0037,
+        lng: -96.55717,
+        url: "https://lugares.inah.gob.mx/en/node/5739",
+      },
+      {
+        nome: "Teotitlán del Valle",
+        testo: "Pueblo zapoteco de tapetes de lana tejidos a mano con tintes naturales (grana cochinilla, añil, líquenes). En los talleres familiares se ven el telar, el cardado y las tinas de color, y en Día de Muertos a veces un altar en la casa.",
+        come: "Colectivo, taxi o tour desde Oaxaca, unos 30-40 minutos; el pueblo está a 4 km al norte de la 190.",
+        quando: "Por la mañana; a los altares de las casas solo se entra si te invitan.",
+        tempo: "1-2 horas",
+        lat: 17.02917,
+        lng: -96.52,
+        consiglio: "Comprar en los talleres familiares, donde se ve el trabajo.",
+      },
+      {
+        nome: "Lambityeco",
+        testo: "Un sitio zapoteco diminuto junto a la 190, con dos techumbres que protegen frisos y máscaras de estuco del dios de la lluvia Cocijo y de una pareja de señores. Aquí está prohibido fotografiar.",
+        come: "En la 190, km 30,6, 2,5 km antes de Tlacolula.",
+        quando: "Parada breve en el camino.",
+        tempo: "30 minutos",
+        costo: "145 MXN para extranjeros, unos 7 € (2026)",
+        orari: "Todos los días de 8 a 17 h, último acceso a las 16.30",
+        lat: 16.97167,
+        lng: -96.49194,
+        url: "https://lugares.inah.gob.mx/en/node/5709",
+      },
+      {
+        nome: "Tianguis dominical de Tlacolula",
+        testo: "Uno de los mercados más grandes de los Valles Centrales: el domingo las calles alrededor de la iglesia se llenan de puestos de mezcal, pan, barbacoa, textiles y animales, con mujeres zapotecas de los pueblos. Dentro del mercado techado están las fondas de carne asada.",
+        come: "En la 190, a unos 30 km de Oaxaca; colectivos frecuentes el domingo.",
+        quando: "Domingo por la mañana; el 1 de noviembre de 2026 cae en domingo.",
+        tempo: "1,5-2 horas",
+        costo: "Gratis",
+        lat: 16.95428,
+        lng: -96.47886,
+      },
+      {
+        nome: "Yagul",
+        testo: "Una ciudad zapoteca sobre un cerro rocoso, con un gran juego de pelota, el Palacio de los Seis Patios y una fortaleza en lo alto desde donde se ve todo el valle. Las cuevas prehistóricas de alrededor forman parte del sitio UNESCO de Yagul y Mitla.",
+        come: "Desvío en el km 36 de la 190, 1,2 km pasado Tlacolula.",
+        quando: "Al final de la tarde por la luz sobre el valle; cierra a las 17.",
+        tempo: "1-1,5 horas",
+        costo: "210 MXN para extranjeros, unos 10 € (2026)",
+        orari: "Todos los días de 8 a 17 h, último acceso a las 16",
+        lat: 16.95836,
+        lng: -96.45014,
+        url: "https://lugares.inah.gob.mx/en/node/5849",
+      },
+      {
+        nome: "Santiago Matatlán",
+        testo: "El pueblo que se llama a sí mismo «capital mundial del mezcal», con decenas de palenques en la carretera. Se ve el agave cocido en hornos de piedra bajo tierra, molido con una tahona tirada por un caballo y destilado en alambiques de cobre o de barro.",
+        come: "En la 190, poco al sur del desvío a Mitla; con tour o coche con chófer.",
+        quando: "A media mañana, cuando trabajan los palenques.",
+        tempo: "1-2 horas",
+        costo: "Visita y degustación gratis o por pocos pesos, sin obligación de comprar (2026)",
+        lat: 16.8661,
+        lng: -96.38342,
+        consiglio: "Quien conduce no bebe: hay controles.",
+      },
+      {
+        nome: "Mitla",
+        testo: "El centro religioso zapoteco-mixteco con mosaicos geométricos de piedras encajadas sin argamasa, únicos en Mesoamérica, que cubren los muros de los palacios. Al lado está la iglesia colonial levantada sobre uno de los conjuntos.",
+        come: "Colectivo o tour desde Oaxaca, una hora; desvío al norte en el km 39 de la 190.",
+        quando: "Por la mañana o a primera hora de la tarde.",
+        tempo: "1-2 horas",
+        costo: "210 MXN para extranjeros, unos 10 € (2026); boletos también en línea",
+        orari: "Todos los días de 8 a 17 h, último acceso a las 16.30",
+        lat: 16.92083,
+        lng: -96.36167,
+        url: "https://lugares.inah.gob.mx/en/node/5793",
+      },
+      {
+        nome: "Hierve el Agua",
+        testo: "Cascadas petrificadas de carbonato de calcio sobre un valle, con pozas naturales asomadas al vacío. El sitio está en disputa desde hace años entre las comunidades de San Lorenzo Albarradas y San Isidro Roaguía y ha tenido cierres repentinos, uno de 2020 a octubre de 2021.",
+        come: "Tour desde Oaxaca, coche o camioneta compartida desde Mitla; unos 70 km y 1,5-2 horas desde Oaxaca.",
+        quando: "Por la mañana, con menos gente; comprobar que esté abierto la semana anterior.",
+        tempo: "2-3 horas",
+        costo: "50-100 MXN entre cuota comunitaria y boleto, unos 3-5 €, solo efectivo (2026)",
+        lat: 16.86552,
+        lng: -96.276,
+        consiglio: "Después de las lluvias o por bloqueos puede estar cerrado: comprobar antes en el hotel o con un operador local.",
+      },
+    ],
+    programmi: [
+      { titolo: "1 día", tappe: [
+        "Árbol del Tule",
+        "Teotitlán del Valle",
+        "Mezcal en Santiago Matatlán",
+        "Mitla, y Hierve el Agua si está abierto",
+      ] },
+      { titolo: "2 días", tappe: [
+        "Día 1: Tule, Dainzú, Teotitlán, Lambityeco y Yagul",
+        "Día 2: Matatlán, Mitla y Hierve el Agua",
+      ] },
+      { titolo: "3 días", tappe: [
+        "Días 1-2 como arriba, con el primero en domingo para el tianguis de Tlacolula",
+        "Día 3: valle de Ocotlán con San Bartolo Coyotepec y San Martín Tilcajete",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Centro de Oaxaca",
+        perChi: "servicios y salida de tours",
+        testo: "Los Valles se visitan en el día desde Oaxaca: casi todos los tours salen del centro. En las noches de Muertos los precios se duplican o triplican.",
+        fascia: "75-175 €",
+      },
+      {
+        nome: "Barrio de Jalatlaco",
+        perChi: "calma cerca del centro",
+        testo: "Calles empedradas y casas de colores al este del centro, hacia la salida a la 190: cómodo si se va a los Valles en coche.",
+        fascia: "75-175 €",
+      },
+      {
+        nome: "Teotitlán o Mitla",
+        perChi: "quien quiere quedarse en el valle",
+        testo: "Pequeñas posadas familiares, calma y vida de pueblo; cómodas para llegar a Hierve el Agua temprano.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Mezcal artesanal",
@@ -891,6 +1131,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Comprar tapetes en talleres familiares, no a intermediarios.",
         "Las degustaciones de mezcal son fuertes: no conducir."
       ],
+    gite: [
+      {
+        nome: "Valle de Ocotlán: San Bartolo Coyotepec y San Martín Tilcajete",
+        distanza: "15-35 km al sur de Oaxaca",
+        come: "En colectivo, taxi o tour por la carretera 175 hacia Ocotlán.",
+        testo: "El otro valle artesano: en San Bartolo se trabaja el barro negro, pulido con piedra; en Tilcajete se tallan y pintan alebrijes. El viernes hay tianguis en Ocotlán.",
+      },
+      {
+        nome: "San Agustín Etla",
+        distanza: "unos 40 minutos al norte de Oaxaca",
+        come: "Taxi o tour; la noche de la muerteada, solo con un tour con regreso.",
+        testo: "Pueblo de ladera con una antigua fábrica textil convertida en centro de las artes. La noche del 1 de noviembre acoge la muerteada más grande de los Valles Centrales, con cientos de personas enmascaradas.",
+      },
+      {
+        nome: "Monte Albán",
+        distanza: "unos 10 km de Oaxaca, 20-30 minutos",
+        come: "Shuttles desde el centro, taxi o tour.",
+        testo: "La capital zapoteca sobre una montaña aplanada encima de la ciudad, con la Gran Plaza y vista a los tres valles. Es la visita arqueológica principal desde Oaxaca, para combinar con un día en los Valles.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Está abierto Hierve el Agua?",
+        risposta: "En 2026 los visitantes lo describen abierto, pero por las disputas entre comunidades puede cerrar sin aviso. Conviene preguntar en el hotel o a un operador local la semana anterior.",
+      },
+      {
+        domanda: "¿Mejor tour o por libre?",
+        risposta: "El tour en grupo (600-900 MXN más entradas) es lo más sencillo para verlo todo en un día sin conducir tras el mezcal. Por libre se va en colectivo, con más tiempo en los pueblos pero más esperas.",
+      },
+      {
+        domanda: "¿Cuánto cuesta entrar a Mitla?",
+        risposta: "210 MXN para extranjeros, abierto todos los días de 8 a 17 h con último acceso a las 16.30 (2026). Los boletos se compran también en línea.",
+      },
+      {
+        domanda: "¿Las degustaciones de mezcal son gratis?",
+        risposta: "En los palenques de Santiago Matatlán casi siempre sí, o cuestan pocos pesos, sin obligación de comprar. El mezcal artesanal es fuerte: quien conduce no bebe.",
+      },
+      {
+        domanda: "¿Cuándo es el tianguis de Tlacolula?",
+        risposta: "El domingo, de la mañana a primera hora de la tarde. Conviene organizar el día por los Valles para pasar a media mañana.",
+      },
+      {
+        domanda: "¿Cuántos días hacen falta para los Valles Centrales?",
+        risposta: "Un día basta para Tule, Teotitlán, Matatlán y Mitla; con dos se añaden Hierve el Agua, Yagul y los sitios menores sin prisas.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'Las cascadas petrificadas de Hierve el Agua sobre el valle',
@@ -1268,77 +1554,173 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     doveDormire: 'El Malecón o el centro, todo a pie; resorts más tranquilos hacia Pichilingue.',
     doveMangiare: 'Tacos de pescado y de camarón, ceviche, aguachile, almejas chocolatas.',
-    comeArrivare: 'Vuelo desde Ciudad de México; ferri de Baja Ferries desde Mazatlán o Topolobampo a Pichilingue.',
+    comeArrivare: "El aeropuerto internacional de La Paz (LAP) está a una docena de kilómetros del centro: desde Ciudad de México el vuelo dura unas 2 horas y 15 minutos y cuesta orientativamente 1.500-3.500 MXN, unos 75-175 € (2026); a la ciudad se va en taxi o con el coche de alquiler, que conviene recoger enseguida. Quien aterriza en San José del Cabo (SJD), con más vuelos internacionales, tiene unas 2,5-3 horas de carretera. Los ferris de Baja Ferries llegan al puerto de Pichilingue, 17 km al norte, desde Mazatlán y Topolobampo.",
     comeSpostarsi: 'Coche de alquiler para playas y alrededores; barcas de los tours para las islas.',
     periodoMigliore: 'entre el otoño y la primavera para el tiburón ballena, cuando la CONANP abre la temporada.',
-    costi: 'Tiburón ballena y Espíritu Santo con tours a precios variables, más la cuota del parque; Balandra tiene una cuota de entrada que hay que verificar antes de ir.',
+    costi: "Presupuesto diario por persona, orientativo para 2026: bajo 75-110 € (hostal o pequeño hotel, tacos de pescado, coche compartido); medio 150-225 € (hotel en el malecón, una salida en lancha al día, cenas de marisco); alto desde 350 € (resort hacia Pichilingue, salidas privadas). Partidas: tiburón ballena 1.500-2.500 MXN más el brazalete del santuario (215 MXN en la temporada 2025-2026); Espíritu Santo 2.500-3.500 MXN; Balandra 120 MXN; Museo Regional 145 MXN para extranjeros.",
     erroriDaEvitare: [
       'Ir a Balandra sin haber reservado el turno',
       'Elegir un operador no autorizado para el tiburón ballena',
       'No dejar un día de margen por el viento del norte',
     ],
-      "luoghi": [
-        {
-          "nome": "Malecón de La Paz",
-          "testo": "El malecón de la ciudad, de algunos kilómetros, con esculturas, cafés y el atardecer sobre el Mar de Cortés.",
-          "come": "A pie desde el centro.",
-          "quando": "Atardecer.",
-          "tempo": "1-2 horas"
-        },
-        {
-          "nome": "Playa Balandra",
-          "testo": "Una bahía poco profunda de agua turquesa, conocida por su roca en forma de hongo, dentro de un área natural protegida. El acceso está limitado para proteger el ecosistema.",
-          "come": "En coche o taxi desde La Paz. Se entra en dos turnos, 8-12 y 13-17, con plazas limitadas por turno; parte se reserva en el portal de áreas protegidas de la CONANP, el resto es para quien llega primero.",
-          "quando": "Mañana temprano.",
-          "tempo": "Media jornada",
-          "consiglio": "Llega temprano y lleva agua y comida: en la playa no se vende nada, y la basura se lleva de vuelta.",
-          "costo": "Cuota de entrada del área protegida: verificar el importe con la CONANP antes de ir."
-        },
-        {
-          "nome": "Isla Espíritu Santo y Los Islotes",
-          "testo": "Archipiélago dentro del sitio UNESCO de las islas y áreas protegidas del Golfo de California, con colonias de lobos marinos y fondos para snorkel. En Los Islotes se nada con los lobos marinos.",
-          "come": "Tour en barca desde La Paz con operador autorizado.",
-          "quando": "Mañana; todo el año con horarios variables.",
-          "tempo": "Día completo"
-        },
-        {
-          "nome": "Tiburón ballena en la bahía de La Paz",
-          "testo": "Encuentro con el tiburón ballena dentro del refugio de la bahía, en temporada, solo con embarcaciones autorizadas.",
-          "come": "Tour en barca desde La Paz.",
-          "quando": "Normalmente entre el otoño y la primavera, pero la temporada abre solo cuando la CONANP cuenta suficientes tiburones en el refugio de la bahía: en 2025 se suspendió varias veces. Verificar antes.",
-          "tempo": "Media jornada",
-          "consiglio": "Elegir operadores que respeten las distancias y los límites de número."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: Playa Balandra",
-            "Almuerzo de pescado",
-            "Atardecer en el Malecón"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: Balandra y Malecón",
-            "Día 2: Espíritu Santo y Los Islotes"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro y Malecón",
-          "perChi": "a pie de todo",
-          "testo": "Hoteles y restaurantes cerca del paseo marítimo."
-        },
-        {
-          "nome": "Hacia Balandra",
-          "perChi": "calma",
-          "testo": "Hoteles más tranquilos al norte, más lejos del centro."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Isla Espíritu Santo",
+        testo: "Archipiélago deshabitado dentro del sitio UNESCO de islas y áreas protegidas del Golfo de California, con acantilados rojos, calas de arena blanca y fondos para el esnórquel. El día suele incluir comida en la playa de Ensenada Grande y paradas por la costa, a veces con delfines o mantas.",
+        come: "Tour en lancha desde La Paz o Pichilingue con operador autorizado.",
+        quando: "Salida temprano; con viento fuerte del norte se cancelan las salidas.",
+        tempo: "Día completo",
+        costo: "Orientativamente 2.500-3.500 MXN por persona, unos 125-175 €, más la cuota del parque si no está incluida (2026)",
+        lat: 24.47139,
+        lng: -110.3325,
+        consiglio: "Dejar un día de margen en La Paz por las cancelaciones por viento.",
+      },
+      {
+        nome: "Los Islotes",
+        testo: "Los islotes del extremo norte del archipiélago, donde vive una colonia de lobos marinos: se hace esnórquel mientras los jóvenes se acercan curiosos y rodean a los nadadores. Es la parada que todos esperan en el día de Espíritu Santo.",
+        come: "Solo en lancha, dentro del tour de Espíritu Santo; se entra al agua donde indica el operador.",
+        quando: "Por la mañana, con el mar en calma.",
+        tempo: "1 hora en el agua",
+        consiglio: "Las reglas con los lobos marinos son estrictas: sin contacto y a distancia de hembras y machos adultos.",
+      },
+      {
+        nome: "Tiburón ballena en la bahía de La Paz",
+        testo: "Encuentro con el tiburón ballena en la zona de refugio de la bahía, cerca de la barra de arena de El Mogote, solo con lanchas autorizadas. Se nada en superficie junto al animal, en grupos pequeños y en turnos de pocos minutos, sin contacto.",
+        come: "Tour en lancha desde el malecón; comprobar que el operador esté en la lista oficial de la CONANP de la temporada.",
+        quando: "Normalmente entre otoño y primavera, pero la temporada solo abre cuando la CONANP cuenta suficientes tiburones en el refugio: en 2025 se suspendió varias veces.",
+        tempo: "Medio día",
+        costo: "Orientativamente 1.500-2.500 MXN por persona, unos 75-125 €, más el brazalete del santuario (215 MXN para extranjeros en la temporada 2025-2026)",
+        lat: 24.163,
+        lng: -110.362,
+        consiglio: "Agua a 20-22 °C en invierno: el neopreno corto ayuda.",
+      },
+      {
+        nome: "Playa Balandra",
+        testo: "Una bahía poco profunda de agua turquesa entre cerros rojos, conocida por su roca en forma de hongo, dentro de un área natural protegida. Se camina con el agua a las rodillas durante cientos de metros; el acceso está limitado para proteger manglares y dunas.",
+        come: "En coche o taxi desde La Paz, unos 25 minutos. Dos turnos, de 8 a 12 y de 13 a 17 h, con 450 personas por turno; se reserva en el portal de áreas protegidas de la CONANP.",
+        quando: "Turno de la mañana, con menos viento.",
+        tempo: "Medio día",
+        costo: "120 MXN por persona al día, unos 6 €; la mitad para estudiantes (2026)",
+        orari: "Turnos de 8 a 12 y de 13 a 17 h, ampliados hasta las 19 en Semana Santa, verano y diciembre",
+        lat: 24.32068,
+        lng: -110.3229,
+        consiglio: "Llevar agua y comida: en la playa no se vende nada y la basura se lleva de vuelta.",
+      },
+      {
+        nome: "Playa El Tecolote",
+        testo: "La playa ancha y abierta poco después de Balandra, con restaurantes de mariscos en la arena, alquiler de kayaks y vista a Espíritu Santo. No tiene turnos y es la alternativa cuando Balandra está llena.",
+        come: "En coche, unos 30 minutos desde La Paz, al final de la carretera de Pichilingue.",
+        quando: "Por la tarde, después del turno de Balandra.",
+        tempo: "2-3 horas",
+        costo: "Gratis",
+        lat: 24.33622,
+        lng: -110.31625,
+      },
+      {
+        nome: "Playa Pichilingue",
+        testo: "Una pequeña playa resguardada junto al puerto de ferris, con palapas y restaurantes de mariscos. El agua es tranquila y poco profunda, buena para un baño rápido camino de Balandra.",
+        come: "En coche, unos 20 minutos desde La Paz.",
+        quando: "A la hora de comer o al final de la tarde.",
+        tempo: "1-2 horas",
+        costo: "Gratis",
+        lat: 24.28417,
+        lng: -110.32861,
+      },
+      {
+        nome: "Malecón de La Paz",
+        testo: "El malecón de la ciudad, unos cinco kilómetros con esculturas, cafés y ciclovía, donde por la tarde salen a pasear familias, ciclistas y vendedores de helado. La puesta de sol sobre el Mar de Cortés, con las esculturas a contraluz, es la cita de cada día.",
+        come: "A pie desde el centro; en bici de alquiler.",
+        quando: "Al atardecer.",
+        tempo: "1-2 horas",
+        costo: "Gratis",
+        lat: 24.16752,
+        lng: -110.3109,
+      },
+      {
+        nome: "Playa El Coromuel",
+        testo: "La playa urbana al final del malecón, con balneario, tobogán y palapas, adonde van las familias de La Paz. El agua es tranquila y poco profunda; el nombre viene del viento de la tarde que refresca la bahía.",
+        come: "En bici o taxi desde el centro, pocos minutos.",
+        quando: "Por la tarde.",
+        tempo: "1-2 horas",
+        lat: 24.19623,
+        lng: -110.3006,
+      },
+      {
+        nome: "Catedral y Jardín Velasco",
+        testo: "La plaza principal del pequeño centro, con su kiosco, la antigua casa de gobierno y la catedral de Nuestra Señora de La Paz, levantada donde estaba la misión jesuita del siglo XVIII. Alrededor están las tiendas y taquerías del centro.",
+        come: "A pie, a tres cuadras del malecón.",
+        quando: "Por la mañana o por la noche.",
+        tempo: "30 minutos",
+        costo: "Gratis",
+        lat: 24.16167,
+        lng: -110.31278,
+      },
+      {
+        nome: "Museo Regional de Antropología e Historia",
+        testo: "El museo INAH de Baja California Sur, con reproducciones de las pinturas rupestres de la Sierra de San Francisco, los pueblos de la península, las misiones y la historia de las perlas de La Paz. Da contexto a una región que se recorre sobre todo por el mar.",
+        come: "A pie desde el centro, en la esquina de Altamirano y 5 de Mayo.",
+        quando: "En las horas de calor o un día de viento.",
+        tempo: "1-1,5 horas",
+        costo: "145 MXN para extranjeros, unos 7 € (2026)",
+        orari: "De martes a domingo de 9 a 18 h, cerrado el lunes",
+        lat: 24.15956,
+        lng: -110.30881,
+        url: "https://lugares.inah.gob.mx/en/node/5005",
+      },
+      {
+        nome: "Museo de la Ballena y Ciencias del Mar",
+        testo: "Un museo pequeño en el malecón, con esqueletos de ballenas y delfines del Mar de Cortés y paneles sobre las especies que se ven en las salidas en lancha. Buena introducción antes del tiburón ballena o las ballenas grises.",
+        come: "A pie o en bici por el malecón.",
+        quando: "Por la tarde.",
+        tempo: "1 hora",
+        lat: 24.14758,
+        lng: -110.31842,
+      },
+      {
+        nome: "Mercado Madero",
+        testo: "El mercado municipal del centro, con puestos de pescado y fruta y pequeñas fondas donde se desayunan tacos de pescado frito, el desayuno más típico de la Baja, o machaca.",
+        come: "A pie desde el centro.",
+        quando: "Por la mañana.",
+        tempo: "1 hora",
+        lat: 24.15829,
+        lng: -110.31553,
+      },
+    ],
+    programmi: [
+      { titolo: "1 día", tappe: [
+        "Mañana: Playa Balandra, turno de las 8",
+        "Comida de marisco en El Tecolote",
+        "Atardecer en el malecón",
+      ] },
+      { titolo: "2 días", tappe: [
+        "Día 1: tiburón ballena por la mañana (en temporada), Balandra en el turno de la tarde, malecón",
+        "Día 2: Espíritu Santo y Los Islotes",
+      ] },
+      { titolo: "3 días", tappe: [
+        "Días 1-2 como arriba",
+        "Día 3: margen por el viento; si el mar está bien, Museo Regional, mercado Madero y Playa El Coromuel, o Todos Santos",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Centro y malecón",
+        perChi: "todo a pie",
+        testo: "Hoteles en el malecón y en las calles de detrás, con restaurantes y agencias de salidas en lancha a pie. Los hoteles de gama media del malecón son la opción más cómoda.",
+        fascia: "90-150 €",
+      },
+      {
+        nome: "Calles del centro",
+        perChi: "presupuestos bajos",
+        testo: "Hostales y pequeños hoteles a unas cuadras del mar, cerca del mercado y las taquerías.",
+        fascia: "35-60 €",
+      },
+      {
+        nome: "Hacia Pichilingue y Costa Baja",
+        perChi: "resorts y calma",
+        testo: "Resorts y hoteles tranquilos al norte, en la carretera de las playas, más lejos del centro: hace falta coche.",
+        fascia: "da 225 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Tacos de pescado",
@@ -1362,6 +1744,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Para Los Islotes elegir operadores autorizados: las reglas sobre los lobos marinos son estrictas.",
         "Sol fuerte y viento: llevar agua y protección."
       ],
+    gite: [
+      {
+        nome: "Todos Santos",
+        distanza: "unos 80 km, 1 hora",
+        come: "En coche por la Federal 19 hacia el Pacífico.",
+        testo: "Pueblo mágico en el Pacífico, con centro histórico de galerías, la playa de Cerritos para el surf y, en invierno, liberaciones de tortuguitas al atardecer.",
+      },
+      {
+        nome: "La Ventana y El Sargento",
+        distanza: "unos 45-60 minutos al sureste",
+        come: "En coche hacia el Mar de Cortés, cruzando la sierra.",
+        testo: "Dos pueblos en la bahía frente a Isla Cerralvo, famosos en invierno por el kitesurf con el viento del norte. Aunque no se practique, la playa y los atardeceres merecen el viaje.",
+      },
+      {
+        nome: "Bahía Magdalena",
+        distanza: "unas 3 horas al noroeste",
+        come: "En coche hasta Puerto San Carlos o López Mateos, saliendo al amanecer; luego panga con los pescadores.",
+        testo: "La laguna donde paren las ballenas grises: la temporada oficial va del 1 de enero al 30 de abril, y desde las lanchas se pueden ver madres y crías a pocos metros. Se hace en el día, pero mejor con una noche.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en La Paz?",
+        risposta: "Tres o cuatro: uno para Balandra y el malecón, uno para Espíritu Santo, uno para el tiburón ballena en temporada y uno de margen por el viento, que a menudo cancela las salidas.",
+      },
+      {
+        domanda: "¿Cuándo se nada con el tiburón ballena?",
+        risposta: "Normalmente entre otoño y primavera, pero la temporada solo abre cuando la CONANP cuenta suficientes ejemplares en la bahía, y puede suspenderse. Antes de reservar conviene comprobar la apertura y la lista de operadores autorizados.",
+      },
+      {
+        domanda: "¿Hace falta reservar Playa Balandra?",
+        risposta: "Sí, conviene: se entra en dos turnos (8-12 y 13-17 h) de 450 personas cada uno, con reserva en el portal de áreas protegidas de la CONANP. La entrada cuesta 120 MXN.",
+      },
+      {
+        domanda: "¿Hace falta coche en La Paz?",
+        risposta: "Para el centro no, pero para Balandra, El Tecolote y los alrededores es muy cómodo. Al alquilar hay que revisar el seguro de responsabilidad civil, obligatorio y a menudo no incluido en el precio en línea.",
+      },
+      {
+        domanda: "¿La Paz o Los Cabos como base?",
+        risposta: "La Paz es más tranquila y barata y es la base para Espíritu Santo y el tiburón ballena; Los Cabos tiene resorts, vida nocturna y ballenas jorobadas. Muchos hacen las dos, con Todos Santos en medio.",
+      },
+      {
+        domanda: "¿Cómo se llega a Los Islotes?",
+        risposta: "Solo en lancha, con un tour de día a Espíritu Santo desde La Paz o Pichilingue, orientativamente 2.500-3.500 MXN por persona. Con viento fuerte del norte se cancelan las salidas.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'Playa Balandra desde lo alto con el agua poco profunda turquesa, cerca de La Paz',
@@ -1696,73 +2124,173 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Snorkel en Cabo Pulmo con operadores del pueblo',
     ],
     doveDormire: 'San José del Cabo para la gama media; el Corridor para los resorts de gama alta; Cabo San Lucas para la vida nocturna.',
-    comeArrivare: 'Aeropuerto de San José del Cabo (SJD), con vuelos a Ciudad de México y directos a Estados Unidos; en coche desde Todos Santos.',
+    comeArrivare: "El aeropuerto internacional de San José del Cabo (SJD) tiene vuelos a Ciudad de México, con conexiones a Europa, y muchos directos a Estados Unidos. Del aeropuerto al centro de San José hay unos 20 minutos, a Cabo San Lucas unos 45 por el Corredor; se va en coche de alquiler, shuttle reservado o taxi autorizado de la terminal. Desde Todos Santos hay una hora de carretera, desde La Paz 2,5-3 horas. En la zona de llegadas los vendedores de tiempo compartido ofrecen «transporte» y regalos: se sigue de largo.",
     periodoMigliore: 'el invierno para las jorobadas.',
-    costi: 'Avistamiento de ballenas y taxis acuáticos a precios variables: comparar operadores.',
+    costi: "Es la parte más cara de la Baja, con muchos precios en dólares (conviene pagar en pesos). Presupuesto diario por persona, orientativo para 2026: bajo 90-130 € (hotel sencillo en San José, tacos de calle, autobuses); medio 180-260 € (hotel de gama media, coche, una salida en lancha); alto desde 400 € (resort en el Corredor, lanchas privadas). Avistamiento de ballenas en barcos compartidos 80-130 dólares por persona, unos 70-110 €; paseo a El Arco en taxi acuático a precio pactado.",
     erroriDaEvitare: [
       'Detenerse con los vendedores de multipropiedad en el aeropuerto y en la Marina',
       'Subestimar los precios, muy altos',
     ],
-      "luoghi": [
-        {
-          "nome": "El Arco y Playa del Amor",
-          "testo": "La formación rocosa donde el Mar de Cortés se encuentra con el Pacífico, con la Playa del Amor escondida detrás.",
-          "come": "Taxi acuático desde el muelle de Cabo San Lucas.",
-          "quando": "Mañana.",
-          "tempo": "1-2 horas",
-          "consiglio": "El mar está picado: no siempre se puede desembarcar."
-        },
-        {
-          "nome": "San José del Cabo",
-          "testo": "Centro colonial con galerías de arte y el Art Walk gratuito de los jueves por la tarde, de noviembre a junio, en el distrito de galerías.",
-          "come": "Coche o bus desde Cabo San Lucas.",
-          "quando": "Jueves por la noche.",
-          "tempo": "Media jornada"
-        },
-        {
-          "nome": "Parque Nacional Cabo Pulmo",
-          "testo": "El más antiguo de los únicos tres arrecifes de coral de la costa oeste de Norteamérica, en un parque nacional que forma parte del sitio UNESCO del Golfo de California. Snorkel y buceo entre enormes cardúmenes.",
-          "come": "Coche desde Los Cabos, luego barca con un operador del pueblo.",
-          "quando": "Mañana.",
-          "tempo": "Día completo"
-        },
-        {
-          "nome": "Avistamiento de ballenas jorobadas",
-          "testo": "Avistamiento de ballena jorobada en las aguas de Los Cabos. En invierno llegan aquí para reproducirse y parir: desde la lancha se ven saltos, coletazos y, con suerte, madres con su cría.",
-          "come": "Barca desde Cabo San Lucas o San José del Cabo.",
-          "quando": "En invierno, en temporada.",
-          "tempo": "2-3 horas"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: El Arco en taxi acuático",
-            "Almuerzo en Cabo San Lucas",
-            "Jueves por la noche: Art Walk en San José del Cabo"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: El Arco y Cabo San Lucas",
-            "Día 2: Cabo Pulmo o ballenas (en invierno)"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "San José del Cabo",
-          "perChi": "tranquilidad",
-          "testo": "Un centro colonial, más calmado y menos turístico."
-        },
-        {
-          "nome": "Cabo San Lucas",
-          "perChi": "vida nocturna",
-          "testo": "Marina, bares y locales, muy turístico."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "El Arco",
+        testo: "La formación rocosa en la punta de la península, donde el Mar de Cortés se une al Pacífico, con una colonia de lobos marinos en las rocas cercanas. Solo se ve desde el mar, en un paseo en lancha de menos de una hora.",
+        come: "Taxi acuático desde la Marina o la playa de El Médano; el precio se pacta antes.",
+        quando: "Por la mañana, con el mar más tranquilo.",
+        tempo: "1 hora",
+        lat: 22.87602,
+        lng: -109.89456,
+      },
+      {
+        nome: "Playa del Amor",
+        testo: "La playa estrecha entre dos mares escondida detrás de El Arco. El lado del Mar de Cortés está resguardado; el del Pacífico, Playa del Divorcio, tiene olas y corrientes muy fuertes y no es apto para nadar.",
+        come: "Con el taxi acuático, pidiendo al lanchero que vuelva a recogernos a una hora fija.",
+        quando: "Por la mañana; con mar picado no siempre se desembarca.",
+        tempo: "1-2 horas",
+        consiglio: "Solo hay que bañarse en el lado del Mar de Cortés.",
+      },
+      {
+        nome: "Marina de Cabo San Lucas",
+        testo: "El puerto deportivo alrededor del cual gira Cabo San Lucas, con yates, barcos de pesca deportiva, restaurantes y bares en el paseo. De aquí salen las lanchas a El Arco y al avistamiento de ballenas; por la noche es el centro de la vida nocturna.",
+        come: "A pie desde el centro de Cabo San Lucas.",
+        quando: "Por la mañana para las lanchas, por la noche para los bares.",
+        tempo: "1-2 horas",
+        costo: "Gratis",
+        lat: 22.88251,
+        lng: -109.9105,
+        consiglio: "Los vendedores de tiempo compartido ofrecen paseos «gratis» a cambio de una presentación de medio día: se sigue de largo.",
+      },
+      {
+        nome: "Playa El Médano",
+        testo: "La playa larga de la bahía de Cabo San Lucas, con agua tranquila, clubes de playa, deportes acuáticos y vista a El Arco. Es la más animada y una de las pocas de la zona donde nadar es seguro.",
+        come: "A pie desde la Marina, 10-15 minutos.",
+        quando: "Por la mañana para la calma, por la tarde para el ambiente.",
+        tempo: "Medio día",
+        costo: "Gratis",
+        lat: 22.89506,
+        lng: -109.89362,
+      },
+      {
+        nome: "Playa Chileno",
+        testo: "Una bahía del Corredor entre las dos ciudades, resguardada y con un pequeño arrecife: se hace esnórquel desde la playa entre peces tropicales. Tiene acceso público con aparcamiento, baños y sombra.",
+        come: "En coche o autobús por la carretera del Corredor, unos 20 minutos desde Cabo San Lucas.",
+        quando: "Temprano, antes de que lleguen los grupos en lancha.",
+        tempo: "2-3 horas",
+        costo: "Gratis",
+        lat: 22.94984,
+        lng: -109.80708,
+      },
+      {
+        nome: "Playa Santa María",
+        testo: "Una bahía en forma de herradura entre dos puntas rocosas, protegida para el esnórquel, con agua transparente y bancos de peces a pocos metros de la orilla. Es más pequeña y tranquila que Chileno.",
+        come: "En coche por el Corredor, poco al oeste de Chileno; aparcamiento público arriba.",
+        quando: "Por la mañana.",
+        tempo: "2-3 horas",
+        costo: "Gratis",
+        lat: 22.92973,
+        lng: -109.81624,
+      },
+      {
+        nome: "Playa Palmilla",
+        testo: "La playa de San José del Cabo con el agua más tranquila, resguardada por una punta rocosa, con las lanchas de los pescadores y una parte libre para bañarse. Cómoda para una última mañana antes del vuelo.",
+        come: "En coche o taxi, unos 10 minutos desde el centro de San José.",
+        quando: "Por la mañana.",
+        tempo: "2 horas",
+        costo: "Gratis",
+        lat: 23.01365,
+        lng: -109.71799,
+      },
+      {
+        nome: "Centro de San José del Cabo",
+        testo: "La parte colonial y tranquila de Los Cabos, con la Plaza Mijares, la misión fundada por los jesuitas en 1730 y calles de casas bajas con restaurantes. Por la noche la plaza se llena de familias.",
+        come: "Coche o autobús desde Cabo San Lucas, unos 40 minutos; el centro se recorre a pie.",
+        quando: "Al final de la tarde y por la noche.",
+        tempo: "Medio día",
+        costo: "Gratis",
+        lat: 23.06211,
+        lng: -109.6948,
+      },
+      {
+        nome: "Distrito del Arte y Art Walk",
+        testo: "Las calles detrás de la misión de San José, con decenas de galerías de arte contemporáneo y mexicano. Los jueves por la noche, de noviembre a junio, hay Art Walk gratuito: galerías abiertas, música en la calle y puestos.",
+        come: "A pie desde la Plaza Mijares.",
+        quando: "Jueves por la noche, de noviembre a junio.",
+        tempo: "2 horas",
+        costo: "Gratis",
+        lat: 23.0621,
+        lng: -109.6956,
+      },
+      {
+        nome: "Estero de San José",
+        testo: "La laguna de agua dulce donde el río San José se encuentra con el mar, con carrizos, palmas y más de doscientas especies de aves. Un sendero la bordea hasta la playa; en kayak se entra entre los carrizos.",
+        come: "A pie desde el centro de San José, hacia la zona hotelera.",
+        quando: "Al amanecer o al atardecer, por las aves.",
+        tempo: "1-2 horas",
+        lat: 23.05216,
+        lng: -109.67862,
+      },
+      {
+        nome: "Flora Farms",
+        testo: "Una granja orgánica al pie de la sierra sobre San José, con huertos, restaurante con productos propios y tiendas. Se ha convertido en un lugar muy cuidado y caro, pero el paseo por los huertos es agradable.",
+        come: "En coche, unos 15 minutos desde el centro de San José, el último tramo de terracería.",
+        quando: "Cena, con reserva; o por la tarde para los huertos.",
+        tempo: "2 horas",
+        lat: 23.07903,
+        lng: -109.6776,
+      },
+      {
+        nome: "Avistamiento de ballenas jorobadas",
+        testo: "Avistamiento de ballenas jorobadas en las aguas de Los Cabos. En invierno llegan aquí para reproducirse y parir: desde la lancha se ven saltos, coletazos y, con suerte, madres con su cría.",
+        come: "Lancha desde la Marina de Cabo San Lucas o San José del Cabo.",
+        quando: "De diciembre a abril, por la mañana.",
+        tempo: "2-3 horas",
+        costo: "80-130 dólares por persona en barcos compartidos, unos 70-110 €; lancha privada para ocho unos 700 dólares",
+      },
+      {
+        nome: "Parque Nacional Cabo Pulmo",
+        testo: "El más antiguo de los únicos tres arrecifes de coral de la costa occidental de Norteamérica, el único arrecife duro del Golfo de California, protegido desde 1995 y de nuevo lleno de peces. Se hace esnórquel y buceo entre enormes bancos, rayas y tortugas.",
+        come: "Coche desde San José, unas 2 horas, los últimos kilómetros de terracería; luego lancha con un operador del pueblo.",
+        quando: "Por la mañana, con el mar en calma.",
+        tempo: "Día completo",
+        lat: 23.44667,
+        lng: -109.40667,
+        consiglio: "No hay cajero en el pueblo: llevar efectivo, agua y comida.",
+      },
+    ],
+    programmi: [
+      { titolo: "1 día", tappe: [
+        "Mañana: El Arco y Playa del Amor en taxi acuático",
+        "Tarde: Playa El Médano o esnórquel en Chileno",
+        "Noche: centro de San José del Cabo, con el Art Walk si es jueves",
+      ] },
+      { titolo: "2 días", tappe: [
+        "Día 1: El Arco, Marina, ballenas por la tarde (en invierno)",
+        "Día 2: Santa María y Chileno por la mañana, estero y San José al atardecer",
+      ] },
+      { titolo: "3 días", tappe: [
+        "Días 1-2 como arriba",
+        "Día 3: Cabo Pulmo para el esnórquel, regreso para cenar en Flora Farms o en el centro",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "San José del Cabo",
+        perChi: "tranquilidad y aeropuerto cerca",
+        testo: "Centro colonial, más tranquilo y menos turístico, a unos veinte minutos del aeropuerto: la opción más cómoda para la última noche.",
+        fascia: "90-175 €",
+      },
+      {
+        nome: "El Corredor",
+        perChi: "resorts de gama alta",
+        testo: "Los 30 km de costa entre las dos ciudades, con resorts, campos de golf y las bahías de Chileno y Santa María; hace falta coche.",
+        fascia: "da 350 €",
+      },
+      {
+        nome: "Cabo San Lucas",
+        perChi: "vida nocturna y lanchas",
+        testo: "Marina, bares y discotecas, muy turístico; cómodo para ir a pie a las lanchas de El Arco y a las ballenas.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Tacos de pescado",
@@ -1788,6 +2316,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "En Cabo Pulmo solo se entra al agua con los operadores del pueblo: las reglas del parque son estrictas para proteger el arrecife.",
         "De mediados de mayo a noviembre es la temporada de huracanes del Pacífico: revisa los boletines."
       ],
+    gite: [
+      {
+        nome: "Todos Santos",
+        distanza: "aproximadamente 1 hora desde Cabo San Lucas",
+        come: "En coche por la Federal 19 junto al Pacífico.",
+        testo: "Pueblo mágico con un centro de galerías y restaurantes, huertos orgánicos y, en invierno, liberaciones de tortuguitas al atardecer. También es más barato que Cabo para dormir.",
+      },
+      {
+        nome: "Playa Los Cerritos",
+        distanza: "unos 50 minutos desde Cabo San Lucas",
+        come: "En coche por la Federal 19, poco antes de Todos Santos.",
+        testo: "Una de las pocas playas del Pacífico donde se puede nadar, con olas buenas para aprender surf y escuelas en la arena.",
+      },
+      {
+        nome: "La Paz",
+        distanza: "unas 2,5-3 horas",
+        come: "En coche o autobús; mejor con al menos dos noches.",
+        testo: "La tranquila capital de Baja California Sur, base para Espíritu Santo, los lobos marinos de Los Islotes, el tiburón ballena y Playa Balandra.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Mejor dormir en Cabo San Lucas o en San José del Cabo?",
+        risposta: "San José es más tranquilo, colonial y cercano al aeropuerto; Cabo San Lucas tiene la Marina, la vida nocturna y las lanchas a El Arco. Muchos duermen en San José y van a Cabo en el día.",
+      },
+      {
+        domanda: "¿Dónde es seguro bañarse en Los Cabos?",
+        risposta: "En las playas resguardadas y señalizadas como El Médano, Chileno, Santa María y Palmilla. En el Pacífico, incluida Playa del Divorcio, las corrientes son muy fuertes.",
+      },
+      {
+        domanda: "¿Cuándo se ven las ballenas jorobadas?",
+        risposta: "De diciembre a abril. Las salidas duran dos o tres horas y en barcos compartidos cuestan orientativamente 80-130 dólares por persona.",
+      },
+      {
+        domanda: "¿Cuántos días hacen falta en Los Cabos?",
+        risposta: "Dos o tres: uno para El Arco y Cabo San Lucas, uno para las bahías del Corredor y San José, y un tercero para Cabo Pulmo o las ballenas.",
+      },
+      {
+        domanda: "¿Merece la pena ir a Cabo Pulmo?",
+        risposta: "Sí, para quien hace esnórquel o buceo: es el arrecife más rico del Golfo de California. Son unas dos horas de carretera, y en el pueblo no hay cajeros.",
+      },
+      {
+        domanda: "¿Cómo evitar a los vendedores de tiempo compartido?",
+        risposta: "En el aeropuerto y en la Marina ofrecen transporte, tours gratis o descuentos a cambio de una presentación de medio día. Basta no detenerse y reservar traslados y salidas con antelación.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'El Arco de Cabo San Lucas con una barca delante de las rocas',

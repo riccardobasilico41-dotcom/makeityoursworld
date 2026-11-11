@@ -354,11 +354,10 @@ export const destinazioniSvezia: Destinazione[] = [
     doveDormire:
       "A la ida dormí en el STF Malmfältens Folkhögskola, un alojamiento sencillo y esencial gestionado por la Svenska Turistföreningen (la asociación excursionista sueca, muy presente en toda la región). A la vuelta en el Elite Hotel Frost - Hotel & Spa: un buen salto de calidad, con un spa interior ideal para recuperarse después de los días más fríos en Abisko.",
     doveMangiare: "No tengo restaurantes que recomendar. El presupuesto orientativo que había previsto: desayunos 10-15 €/día, comidas y cenas 30-50 € por comida.",
-    comeArrivare: 'Vuelo interior desde Estocolmo Arlanda; luego tren panorámico a Abisko.',
+    comeArrivare: "Se llega en avión al aeropuerto de Kiruna (KRN), con vuelos interiores desde Estocolmo Arlanda: el autobús que coincide con las llegadas lleva al centro en unos 20 minutos por 100-110 SEK (unos 10 €), el taxi cuesta 300-400 SEK. Como alternativa está el tren SJ de Estocolmo hacia Narvik, que para en Kiruna. De Kiruna a Abisko se sigue en tren, aproximadamente una hora y cuarto, o en coche por la E10 (unos 96 km).",
     comeSpostarsi: 'A pie por el centro; tren a Abisko.',
     periodoMigliore: "el mismo que Abisko: de finales de diciembre a marzo para la aurora, con febrero-marzo mucho más económicos",
-    costi:
-      "El centro se visita gratis; la iglesia está cerrada hasta su reapertura prevista en 2027. La mina LKAB cuesta unos 590 SEK (52 €) por persona por la visita guiada de 3 horas. El ICEHOTEL cuesta 349 SEK (31 €) solo la entrada de día, desde 3.995 SEK (350 €) por noche para 2 personas para dormir allí. Habitación doble en hotel de gama media en la ciudad: aproximadamente 100-150 €/noche.",
+    costi: "El centro se visita gratis; la iglesia está cerrada hasta su reapertura prevista en 2027. La mina LKAB cuesta 590 SEK (unos 52 €) por persona por la visita guiada de 3 horas. El ICEHOTEL cuesta 325 SEK (unos 29 €) solo la visita de día hasta diciembre de 2026, desde 3.995 SEK (unos 350 €) por noche para 2 personas para dormir en una habitación de hielo. Habitación doble en hotel de gama media en la ciudad: aproximadamente 100-150 €/noche. Presupuesto diario orientativo por persona: 80-110 € con albergue STF y compra en el supermercado; 160-230 € con hotel en el centro y dos comidas fuera (30-50 € por comida); más de 400 € con una noche en el ICEHOTEL y una visita guiada.",
     erroriDaEvitare: [],
     miaEsperienza:
       "Para mí Kiruna fue una base práctica más que un destino: a la ida la esencialidad del STF, a la vuelta el spa del Elite Hotel Frost, y de fondo la iglesia roja y el centro en transformación.",
@@ -367,11 +366,14 @@ export const destinazioniSvezia: Destinazione[] = [
         nome: "Iglesia de Kiruna",
         testo: "Iglesia de madera roja de 1912 de Gustaf Wickman, considerada una de las mayores construcciones de madera de Suecia. El 19 y 20 de agosto de 2025 fue transportada entera unos 5 km, sobre remolques teledirigidos, hasta el nuevo centro, entre el cementerio y la nueva plaza, por la expansión de la mina. En el interior siguen las obras: la reapertura está prevista para 2027.",
         come: "En el nuevo centro de Kiruna, a pie; por ahora solo se ve por fuera.",
-        costo: "cerrada al público hasta la reapertura prevista en 2027",
-        url: "https://www.svenskakyrkan.se/kiruna",
         quando: "De día, ya que la luz invernal es corta.",
         tempo: "30 minutos-1 hora",
-        consiglio: "El nuevo centro está en construcción: una ocasión para ver una ciudad que se mueve."
+        costo: "cerrada al público hasta la reapertura prevista en 2027",
+        orari: "interior cerrado por obras hasta 2027; el exterior se ve a cualquier hora",
+        lat: 67.84959,
+        lng: 20.28885,
+        url: "https://www.svenskakyrkan.se/kiruna",
+        consiglio: "El nuevo centro está en construcción: una ocasión para ver una ciudad que se mueve.",
       },
       {
         nome: "Mina de hierro de LKAB",
@@ -379,27 +381,75 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "Visita guiada de Kiruna Lapland con autobús desde el Kiruna Tourist Center (Malmvägen 9B); los días y los idiomas cambian según la temporada.",
         quando: "Todo el año; en invierno las plazas se agotan pronto.",
         tempo: "3 horas",
-        costo: "590 SEK adultos (2026), con traslado, guía y café",
+        costo: "590 SEK adultos, unos 52 € (2026), con traslado, guía y café",
+        orari: "días, horarios e idiomas varían según la temporada; presentarse 15 minutos antes de la salida, reserva online",
         url: "https://kirunalapland.se/en/mine-tour/",
-        consiglio: "Llevar ropa de abrigo: bajo tierra la temperatura es baja."
+        consiglio: "Llevar ropa de abrigo: bajo tierra la temperatura es baja.",
       },
       {
         nome: "ICEHOTEL en Jukkasjärvi",
-        testo: "El hotel de hielo reconstruido cada invierno con esculturas y suites temáticas. Se visita también sin dormir y está el ICEBAR; las habitaciones de hielo existen de diciembre a abril, mientras que la Art Suite 365 abre todo el año.",
-        come: "En Jukkasjärvi, a las afueras de Kiruna, en coche o bus.",
-        quando: "De diciembre a abril.",
+        testo: "El hotel de hielo reconstruido cada invierno con esculturas y suites temáticas a mediados de diciembre, y que en abril se deja derretir en el río Torne. Se visita también sin dormir; el ICEHOTEL 365, con el ICEBAR y las suites de arte, abre todo el año.",
+        come: "En Jukkasjärvi, a unos 20 km de Kiruna: en coche o con el autobús 501 de Länstrafiken Norrbotten (se paga con tarjeta a bordo, pocas salidas el fin de semana).",
+        quando: "De diciembre a abril para el hotel de hielo propiamente dicho.",
         tempo: "1-2 horas",
-        url: "https://www.icehotel.com",
-        consiglio: "Aunque no se duerma allí, se pueden visitar las salas y el bar."
+        costo: "visita de día 325 SEK adultos, unos 29 € (abril-diciembre de 2026); niños de 4 a 12 años 39 SEK",
+        orari: "exposición ICEHOTEL 365 todos los días 11-18 hasta el 11 de diciembre de 2026, luego 10-18 hasta el 10 de abril de 2027; ICEBAR 11-20 de diciembre de 2026 a marzo de 2027",
+        lat: 67.85021,
+        lng: 20.59642,
+        url: "https://www.icehotel.com/tickets-opening-hours",
+        consiglio: "Solo se paga con tarjeta: en todo el complejo no se acepta efectivo.",
+      },
+      {
+        nome: "Iglesia de Jukkasjärvi",
+        testo: "Pequeña iglesia de madera roja con el campanario separado: el edificio actual es de 1726, pero conserva partes de 1607. Dentro, el retablo pintado por Bror Hjorth es el motivo para entrar.",
+        come: "En Jukkasjärvi, a pocos minutos a pie del ICEHOTEL: encaja en la misma media jornada.",
+        quando: "De día, antes o después de la visita al ICEHOTEL.",
+        tempo: "30 minutos",
+        orari: "todos los días 10-15, todo el año",
+        lat: 67.84663,
+        lng: 20.62125,
+        url: "https://kirunalapland.se/en/destinations/jukkasjarvi/",
+      },
+      {
+        nome: "Nutti Sámi Siida y museo Márkanbáiki",
+        testo: "Museo al aire libre sobre la cultura sami en Jukkasjärvi: vida nómada, historia del pastoreo de renos y renos a los que se da de comer a mano. Hay una cabaña-café con almuerzo sami y una tienda de artesanía.",
+        come: "En Jukkasjärvi, junto a la iglesia; lo gestiona Nutti Sámi Siida, que organiza también excursiones en trineo tirado por renos.",
+        quando: "Invierno: en verano casi toda la manada está en la montaña y en el museo quedan pocos renos.",
+        tempo: "1-2 horas",
+        orari: "museo todos los días 10-16; el 24 de diciembre 10-14",
+        lat: 67.84698,
+        lng: 20.62,
+        url: "https://nutti.se",
+      },
+      {
+        nome: "Ayuntamiento Kristallen y nuevo centro",
+        testo: "El ayuntamiento Kristallen, inaugurado en 2018, fue el primer edificio del nuevo centro, unos tres kilómetros al este de la vieja Kiruna. A su alrededor están surgiendo manzanas, un centro cultural, unos baños y escuelas: aquí se entiende el traslado de la ciudad.",
+        come: "A pie desde la iglesia o el Elite Hotel Frost, todos en el mismo barrio.",
+        quando: "De día; en invierno en la ventana de luz de mediodía.",
+        tempo: "1 hora",
+        lat: 67.849,
+        lng: 20.30277,
+        url: "https://kirunalapland.se/en/city-transformation/",
+      },
+      {
+        nome: "Luossavaara",
+        testo: "La colina al norte de la ciudad, con las pistas de esquí de Luossabacken y senderos. Desde arriba se ven el centro viejo y el nuevo y, enfrente, la montaña de la mina.",
+        come: "En coche o taxi hasta la base de las pistas; en invierno con el telesquí o con raquetas.",
+        quando: "Al atardecer o en noches despejadas, lejos de las luces del centro.",
+        tempo: "1-2 horas",
+        lat: 67.87273,
+        lng: 20.21002,
       },
       {
         nome: "Elite Hotel Frost y spa",
         testo: "El spa de nuestro hotel de Kiruna, ideal para recuperarse tras los días en el frío de Abisko.",
-        come: "En el centro de Kiruna.",
+        come: "En el nuevo centro de Kiruna.",
         quando: "Tarde, tras volver de Abisko.",
         tempo: "2 horas",
-        consiglio: "Una de las experiencias que merecen la pena tras la fase más fría."
-      }
+        lat: 67.84956,
+        lng: 20.30609,
+        consiglio: "Una de las experiencias que merecen la pena tras la fase más fría.",
+      },
     ],
     sapori: [
       {
@@ -419,6 +469,100 @@ export const destinazioniSvezia: Destinazione[] = [
       "En invierno la temperatura puede bajar de -30 grados: ropa técnica por capas, no algodón.",
       "La mina y el ICEHOTEL se reservan con antelación en los meses de temporada alta.",
       "La aurora no está garantizada: prever varias noches en la zona."
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Mañana en el nuevo centro: iglesia de Kiruna (por fuera) y ayuntamiento Kristallen",
+          "Comida en el centro",
+          "Tarde en Jukkasjärvi con el autobús 501: ICEHOTEL, iglesia de Jukkasjärvi y museo Márkanbáiki",
+          "Noche en el spa del Elite Hotel Frost o a la caza de la aurora fuera de la ciudad",
+        ],
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: visita a la mina LKAB (3 horas, con reserva)",
+          "Tarde en la colina de Luossavaara para ver la ciudad desde arriba",
+          "Noche con una salida guiada para la aurora",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: tren a Abisko, aproximadamente una hora y cuarto",
+          "Cañón del Abiskojåkka con luz de día y noche en la Aurora Sky Station",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Nuevo centro de Kiruna",
+        perChi: "quien quiere restaurantes, tiendas y el autobús al aeropuerto a mano",
+        testo: "Aquí están el Elite Hotel Frost y los demás hoteles de la ciudad, cerca de la iglesia y del ayuntamiento. Cómodo para la mina y para moverse en autobús.",
+        fascia: "110-180 €",
+      },
+      {
+        nome: "Jukkasjärvi",
+        perChi: "quien quiere dormir en el ICEHOTEL o junto al río Torne",
+        testo: "El pueblo del ICEHOTEL, a unos 20 km: habitaciones cálidas todo el año y habitaciones de hielo de diciembre a abril. Por la noche hay pocas alternativas para cenar fuera del hotel.",
+        fascia: "150-350 € (habitación de hielo desde 3.995 SEK para 2)",
+      },
+      {
+        nome: "Kurravaara y campamentos para la aurora",
+        perChi: "quien busca oscuridad de verdad y cabañas con vistas",
+        testo: "Pequeños campamentos y cabañas fuera de la ciudad, lejos de las luces, pensados para mirar el cielo desde la puerta. Hace falta coche o el traslado del alojamiento.",
+        fascia: "200-250 €",
+      },
+    ],
+    gite: [
+      {
+        nome: "Abisko",
+        distanza: "aproximadamente 1 hora y cuarto en tren, 96 km",
+        come: "Tren de la línea de Narvik hasta la parada Abisko Turiststation; en coche por la E10.",
+        testo: "El parque nacional con su microclima seco, la Aurora Sky Station en el monte Nuolja y el lago Torneträsk: es el motivo del viaje y merece al menos dos noches.",
+      },
+      {
+        nome: "Jukkasjärvi",
+        distanza: "unos 20 km, 20 minutos",
+        come: "Autobús 501 de Länstrafiken Norrbotten o coche.",
+        testo: "ICEHOTEL, iglesia del siglo XVIII y museo sami en la misma media jornada.",
+      },
+      {
+        nome: "Nikkaluokta y Kebnekaise",
+        distanza: "unos 70 km en coche",
+        come: "En coche o en el autobús de verano hasta Nikkaluokta; desde allí, sendero hacia la estación de montaña de Kebnekaise.",
+        testo: "La puerta de acceso a la montaña más alta de Suecia. Es una excursión de verano: en invierno la zona solo se alcanza en moto de nieve y con guías.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Kiruna?",
+        risposta: "Un día basta para el centro y Jukkasjärvi; con dos se añade la mina LKAB, que solo se visita algunos días. Quien va a Abisko suele dormir en Kiruna a la ida y a la vuelta.",
+      },
+      {
+        domanda: "¿Kiruna o Abisko como base para la aurora?",
+        risposta: "Abisko, por el microclima seco y la oscuridad del parque. Kiruna es más cómoda para vuelos y servicios: se puede hacer una noche aquí y dos o tres en Abisko.",
+      },
+      {
+        domanda: "¿Hay que reservar la visita a la mina LKAB?",
+        risposta: "Sí, las visitas se reservan online en la web de Kiruna Lapland y salen del Kiruna Tourist Center. Los días y los idiomas cambian según la temporada y en invierno las plazas se agotan pronto.",
+      },
+      {
+        domanda: "¿Se puede visitar el ICEHOTEL sin dormir allí?",
+        risposta: "Sí, con la entrada de día: 325 SEK para adultos hasta diciembre de 2026. Solo se paga con tarjeta.",
+      },
+      {
+        domanda: "¿Cómo se va de Kiruna al ICEHOTEL?",
+        risposta: "Con el autobús 501 de Länstrafiken Norrbotten, en coche o en taxi: son unos 20 km. El fin de semana hay pocas salidas, conviene mirar el horario en ltnbd.se.",
+      },
+      {
+        domanda: "¿La iglesia de Kiruna está abierta?",
+        risposta: "No: fue trasladada al nuevo centro en agosto de 2025 y el interior sigue cerrado hasta la reapertura prevista en 2027. Por fuera se ve siempre.",
+      },
     ],
     esperienzeSlugs: ['icehotel-jukkasjarvi', 'miniera-lkab-kiruna'],
     tripSlugs: ['lapponia-svedese-abisko'],
@@ -447,11 +591,10 @@ export const destinazioniSvezia: Destinazione[] = [
     doveDormire:
       "Dormí en el STF Abisko Turiststation, la histórica estación de montaña dentro del parque nacional, desde donde se sale directamente al telesilla de la Aurora Sky Station. Es esencial, pero inmersa en el parque tiene una atmósfera que no he encontrado en otro sitio.",
     doveMangiare: "No tengo locales que recomendar: los desayunos suelen estar incluidos en las instalaciones STF, comidas y cenas en la media que había previsto (30-50 € por comida).",
-    comeArrivare: 'Tren panorámico desde Kiruna: algo más de una hora en un paisaje cada vez más desnudo.',
+    comeArrivare: "Desde Kiruna se llega en tren por la línea de Narvik, aproximadamente una hora y cuarto en un paisaje cada vez más desnudo: en Abisko hay dos paradas, Abisko Östra para el pueblo y Abisko Turiststation, la correcta para la estación STF, el naturum y el telesilla. También hay trenes SJ directos desde Estocolmo. En coche son unos 96 km desde Kiruna por la E10; desde el aeropuerto de Kiruna conviene el tren o un traslado.",
     comeSpostarsi: 'A pie por el pueblo; excursiones organizadas en moto de nieve y con huskies.',
     periodoMigliore: 'de finales de diciembre a marzo; febrero-marzo cuesta mucho menos manteniendo altas probabilidades de aurora',
-    costi:
-      "Actividades, precio orientativo por persona: Aurora Sky Station con visita nocturna guiada desde 1.295 SEK (unos 120 €) y cena en la cima desde 2.395 SEK (unos 215 €), tarifas STF de la temporada 2026-27; moto de nieve guiada sobre el lago helado unos 100-110 € (self-drive 150-250 €); trineo de huskies nocturno con caza de la aurora 240 € (versiones diurnas más cortas desde 70 €). Costes de todo el viaje por persona: vuelos 600-645 €, alojamiento 400-600 €, transportes interiores 80 € (tren panorámico + traslado aeroportuario), excursiones 450-500 € por 3 tours con guía. Presupuesto total orientativo de 1.500 € (básico) a 1.800 € (nivel óptimo).",
+    costi: "Actividades, precio orientativo por persona: Aurora Sky Station con visita nocturna guiada desde 1.295 SEK (unos 120 €) y cena en la cima desde 2.395 SEK (unos 215 €), tarifas STF de la temporada 2026-27; solo telesilla desde 260 SEK (unos 23 €); moto de nieve guiada en el lago helado unos 100-110 € (self-drive 150-250 €); trineo de huskies nocturno con búsqueda de la aurora 240 € (versiones diurnas más cortas desde 70 €). Costes del viaje completo por persona: vuelos 600-645 €, alojamiento 400-600 €, transporte interior 80 € (tren panorámico + traslado al aeropuerto), excursiones 450-500 € por 3 tours guiados. Presupuesto total orientativo de 1.500 € (básico) a 1.800 € (nivel óptimo). Al día, por persona: unos 80-120 € con habitación sencilla en la STF y comidas sencillas; 200-300 € con una o dos actividades guiadas; más de 400 € con la cena en la cima y la moto de nieve self-drive.",
     erroriDaEvitare: [
       "Ir en Nochevieja si el objetivo es ahorrar: es la época más cara del año para volar y dormir en la zona",
       "No dejar un margen extra en los transportes: con el frío extremo los trenes a veces se cancelan (no a menudo, pero ocurre), y en esos casos los taxis de la zona tienden a subir un poco los precios",
@@ -461,39 +604,93 @@ export const destinazioniSvezia: Destinazione[] = [
     luoghi: [
       {
         nome: "Aurora Sky Station",
-        testo: "Una estación en la cima del monte Nuolja, a la que se llega en telesilla, desde la que se observa la aurora en uno de los lugares más despejados de Suecia. Hay también una cena panorámica.",
-        come: "Telesilla desde la STF Abisko Turiststation. Dos fórmulas que se reservan con antelación, con plazas limitadas: Night Visit (guía, telesilla ida y vuelta, mono y botas térmicas) y Northern Lights Dinner.",
-        quando: "Temporada 2026-27 del 19 de octubre al 27 de marzo, de 20:30 a 1:00; con viento fuerte la telesilla se para.",
+        testo: "Una estación en la cima del monte Nuolja, a 900 metros, a la que se llega en 20 minutos de telesilla, desde la que se observa la aurora en uno de los lugares más despejados de Suecia. Hay también una cena panorámica.",
+        come: "Telesilla desde la STF Abisko Turiststation. Dos fórmulas que se reservan con antelación, con plazas limitadas: Night Visit (guía, telesilla de ida y vuelta, mono y botas térmicas) y Northern Lights Dinner.",
+        quando: "Temporada 2026-27 del 19 de octubre al 27 de marzo; con viento fuerte el telesilla se detiene.",
         tempo: "3-4 horas",
-        costo: "Night Visit desde 1.295 SEK, cena desde 2.395 SEK por persona (temporada 2026-27, tarifas STF)",
+        costo: "Night Visit desde 1.295 SEK, cena desde 2.395 SEK por persona (temporada 2026-27, tarifas STF); solo telesilla desde 260 SEK",
+        orari: "invierno 2026-27 de 20:30 a 1:00; verano 2026 de día 9:30-16 (12 de junio-20 de septiembre) y de noche 20-1:30 (12 de junio-19 de julio)",
+        lat: 68.36169,
+        lng: 18.72341,
         url: "https://www.auroraskystation.se",
-        consiglio: "Cené allí arriba: es de los recuerdos más fuertes de la semana."
+        consiglio: "Cené allí arriba: es de los recuerdos más fuertes de la semana.",
       },
       {
         nome: "Lago helado Torneträsk y moto de nieve",
-        testo: "El gran lago de Abisko se hiela en invierno y se recorre en moto de nieve con un guía, también de noche bajo la aurora.",
-        come: "Excursión con operador local, salida desde Abisko.",
+        testo: "El gran lago de Abisko, de 70 km de largo, suele estar helado de diciembre a junio y se recorre en moto de nieve con un guía, también de noche bajo la aurora.",
+        come: "Excursión con un operador local, salida desde Abisko: en trineo arrastrado por la moto del guía, o en self-drive con carné de conducir.",
         quando: "Invierno, cuando el lago está helado: fechas con el operador.",
         tempo: "2-3 horas",
-        consiglio: "Hace falta ropa de abrigo; los requisitos para conducir, en la web del operador. Se para a menudo para mirar el cielo."
+        costo: "guiada unos 100-110 € (2 horas); self-drive 150-250 € (media jornada)",
+        lat: 68.367,
+        lng: 19.1,
+        consiglio: "Hace falta ropa de abrigo; los requisitos para conducir, en la web del operador. Se para a menudo para mirar el cielo.",
       },
       {
         nome: "Trineo de huskies",
         testo: "Conducir un trineo de perros husky en los alrededores de Abisko, con una parada para el té y la búsqueda de la aurora.",
-        come: "Reserva con operador local; traslado en minibús.",
+        come: "Reserva con un operador local; recogida en la STF Abisko Turiststation, donde conviene estar 45 minutos antes.",
         quando: "Invierno, con nieve.",
         tempo: "media jornada",
-        consiglio: "Bajo la aurora es una emoción que se queda."
+        costo: "salida nocturna con búsqueda de la aurora 240 €; versiones de día más cortas desde 70 €",
+        consiglio: "Bajo la aurora es una emoción que se queda.",
       },
       {
         nome: "Parque nacional de Abisko y Lapporten",
-        testo: "El parque a los pies de las montañas, con el valle en U de Lapporten, la «puerta de Laponia», al fondo. La estación turística STF es la base para los senderos.",
-        come: "Tren desde Kiruna hasta la estación de Abisko Turiststation.",
+        testo: "El parque a los pies de las montañas, con el valle en U de Lapporten, la «puerta de Laponia», al fondo. Las precipitaciones son de solo 300 milímetros al año, y por eso el cielo está tan a menudo despejado.",
+        come: "Tren desde Kiruna hasta la estación de Abisko Turiststation; el naturum y la estación STF están a unos 800 metros.",
         quando: "Verano para el trekking, invierno para la aurora.",
-        tempo: "jornada completa",
+        tempo: "día completo",
         costo: "entrada al parque libre",
-        consiglio: "Los senderos están siempre abiertos, pero en invierno hacen falta crampones ligeros o raquetas."
-      }
+        lat: 68.26622,
+        lng: 18.98619,
+        url: "https://www.sverigesnationalparker.se/en/parks/abisko-national-park/",
+        consiglio: "Los senderos están siempre abiertos, pero en invierno hacen falta crampones ligeros o raquetas.",
+      },
+      {
+        nome: "Cañón del Abiskojåkka",
+        testo: "El río que baja del lago Abiskojaure al Torneträsk excava una garganta estrecha a pocos minutos de la estación STF. Es el paseo más fácil del parque, con un tramo de sendero accesible y una zona de descanso.",
+        come: "A pie desde el naturum o la STF Abisko Turiststation; en invierno los crampones ligeros ayudan sobre el hielo.",
+        quando: "Con luz de día; en invierno la ventana de mediodía.",
+        tempo: "1 hora",
+        costo: "libre",
+        lat: 68.36389,
+        lng: 18.7875,
+      },
+      {
+        nome: "Naturum Abisko",
+        testo: "El centro de visitantes del parque: una exposición sobre geología, flora y fauna y sobre los efectos del cambio climático en la montaña, con guías naturalistas, una pequeña biblioteca y una tienda. En el piso de arriba hay exposiciones temporales y proyecciones.",
+        come: "Junto a la STF Abisko Turiststation, a unos 800 metros de la parada del tren; fuera hay un punto de información siempre abierto.",
+        quando: "Antes de salir a los senderos.",
+        tempo: "1 hora",
+        orari: "2026-27: 1-26 de septiembre de martes a sábado 9-17; 1 de diciembre-13 de febrero martes, jueves y sábado 14-17; desde el 15 de febrero los mismos días 13-17",
+        lat: 68.35812,
+        lng: 18.78489,
+        url: "https://www.lansstyrelsen.se/norrbotten/besoksmal/naturum-i-norrbottens-lan/naturum-abisko.html",
+      },
+      {
+        nome: "Kungsleden",
+        testo: "El «sendero del rey», de 425 km, empieza justo en la STF Abisko Turiststation y sube a lo largo del río Abiskojåkka. Aunque no se haga el trekking entero, los primeros kilómetros son un bonito paseo entre abedules.",
+        come: "Salida a pie desde la estación STF; en la tienda se alquila el equipo.",
+        quando: "De finales de junio a septiembre para caminar; en invierno el primer tramo se hace con raquetas o esquís.",
+        tempo: "de 2 horas a varios días",
+        costo: "libre",
+        lat: 68.35738,
+        lng: 18.78247,
+        url: "https://www.swedishtouristassociation.com/facilities/stf-abisko-mountain-station/",
+      },
+      {
+        nome: "Monte Nuolja y el sol de medianoche",
+        testo: "En verano el Nuolja se convierte en el lugar para ver el sol de medianoche: desde principios de junio en Abisko hay día polar. Se sube en telesilla o a pie y se baja caminando.",
+        come: "Telesilla desde la estación del valle junto a la STF, o sendero desde la estación.",
+        quando: "De mediados de junio a mediados de julio, con el telesilla nocturno abierto.",
+        tempo: "3-4 horas",
+        costo: "telesilla desde 260 SEK, unos 23 €",
+        orari: "telesilla nocturno 20-1:30 del 12 de junio al 19 de julio (verano de 2026)",
+        lat: 68.37256,
+        lng: 18.69877,
+        url: "https://auroraskystation.se/sommar/linbana-sommar/",
+      },
     ],
     sapori: [
       {
@@ -509,6 +706,104 @@ export const destinazioniSvezia: Destinazione[] = [
       "La Aurora Sky Station y el telesilla pueden cerrar con viento fuerte o tormenta.",
       "Quien conduce una moto de nieve responde de los daños: comprobar franquicia y seguro.",
       "En Abisko hay pocos servicios: llevar lo esencial."
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Llegada en tren a la parada Abisko Turiststation",
+          "Naturum y cañón del Abiskojåkka con luz de día",
+          "Cena en la STF y noche en la Aurora Sky Station (Night Visit o cena en la cima)",
+        ],
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: moto de nieve sobre el Torneträsk helado",
+          "Noche: trineo de huskies con búsqueda de la aurora",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: primer tramo del Kungsleden con raquetas, o excursión a Björkliden",
+          "Noche libre para otra búsqueda de la aurora, si el cielo está despejado",
+          "En verano: Lapporten y el sol de medianoche desde el Nuolja",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "STF Abisko Turiststation",
+        perChi: "quien quiere el telesilla y los senderos en la puerta",
+        testo: "La estación histórica dentro del parque, con habitaciones, albergue, restaurante y tienda con alquiler. Aquí empieza el Kungsleden y se coge el telesilla.",
+        fascia: "90-160 €",
+      },
+      {
+        nome: "Abisko Östra",
+        perChi: "quien prefiere un lodge o una cabaña con cocina",
+        testo: "El pueblo propiamente dicho, unos 4 km al este de la estación STF, con lodges, cabañas y algún restaurante; tiene su propia parada de tren.",
+        fascia: "desde unos 180 €",
+      },
+      {
+        nome: "Björkliden",
+        perChi: "quien quiere un resort de montaña con pistas de esquí",
+        testo: "A unos 9 km de Abisko por la E10, con hoteles, cabañas y pistas; tiene también el campo de golf más septentrional de Suecia.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Björkliden",
+        distanza: "unos 9 km, 10 minutos en coche",
+        come: "En coche por la E10 o en tren, con su propia parada.",
+        testo: "El pueblo de esquí más cercano, con pistas y senderos sobre el Torneträsk.",
+      },
+      {
+        nome: "Riksgränsen",
+        distanza: "unos 36 km, media hora en coche",
+        come: "En coche por la E10 o en tren por la línea de Narvik.",
+        testo: "El último pueblo sueco antes de la frontera con Noruega, entre montañas y lagos, famoso por el esquí a final de temporada.",
+      },
+      {
+        nome: "Narvik",
+        distanza: "unos 77 km, poco más de una hora en coche",
+        come: "Tren por la línea del hierro o coche por la E10 cruzando la frontera.",
+        testo: "El puerto noruego donde termina la línea que lleva el mineral desde Kiruna: en un día se pasa del lago helado a los fiordos.",
+      },
+      {
+        nome: "Kiruna y Jukkasjärvi",
+        distanza: "aproximadamente 1 hora y cuarto en tren hasta Kiruna",
+        come: "Tren hasta Kiruna, luego autobús 501 a Jukkasjärvi.",
+        testo: "El ICEHOTEL, el museo sami y la ciudad que se traslada por la mina, para combinar con la vuelta.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántas noches hacen falta en Abisko para ver la aurora?",
+        risposta: "Al menos dos, mejor tres: la aurora no está garantizada y el tiempo cambia de una noche a otra. Con más noches se pone la actividad más cara en la del cielo mejor.",
+      },
+      {
+        domanda: "¿Cuándo se ve la aurora en Abisko?",
+        risposta: "Con oscuridad, es decir, de septiembre a marzo; la Aurora Sky Station abre por la noche del 19 de octubre al 27 de marzo en la temporada 2026-27. Desde principios de junio hay día polar y la aurora no se ve.",
+      },
+      {
+        domanda: "¿Hay que reservar la Aurora Sky Station?",
+        risposta: "Sí, el Night Visit y la cena tienen plazas limitadas y se reservan online con STF. Con viento fuerte el telesilla se detiene.",
+      },
+      {
+        domanda: "¿En qué parada del tren hay que bajar?",
+        risposta: "Abisko Turiststation para la estación STF, el naturum y el telesilla; Abisko Östra para el pueblo. Están a unos 4 km una de otra.",
+      },
+      {
+        domanda: "¿Merece la pena Abisko en verano?",
+        risposta: "Sí, por el sol de medianoche desde el Nuolja, el Kungsleden y los senderos del parque. En verano el telesilla abre de día y, de mediados de junio a mediados de julio, también de noche.",
+      },
+      {
+        domanda: "¿Qué temperaturas hay en invierno?",
+        risposta: "A menudo entre -20 y -30 °C en las semanas más frías, pero es un frío seco. Hacen falta capas técnicas, pasamontañas y guantes dobles, sobre todo en la cima y en la moto de nieve.",
+      },
     ],
     esperienzeSlugs: ['aurora-sky-station', 'motoslitta-lago-ghiacciato', 'husky-sledding-caccia-aurora'],
     tripSlugs: ['lapponia-svedese-abisko'],

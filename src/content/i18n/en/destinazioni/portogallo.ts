@@ -196,7 +196,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Bairro Alto and Príncipe Real",
         "testo": "The Bairro Alto is a grid of lanes with tiny bars and fado houses, filling with people in the street at night. Higher up, Príncipe Real has gardens, 19th-century mansions and the São Pedro de Alcântara viewpoint.",
-        "come": "On foot from the Chiado or by the Glória funicular from Restauradores.",
+        "come": "On foot from the Chiado: the Glória funicular from Restauradores has been out of service since September 2025.",
         "quando": "Afternoon for Príncipe Real, evening after 22 for the Bairro Alto.",
         "tempo": "2-3 hours",
         "costo": "free",

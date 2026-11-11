@@ -157,94 +157,161 @@ export const destinazioniCostaRica: Destinazione[] = [
       "Escape Caribeño: beachfront bungalows with a pool and a much-photographed tropical garden, breakfast rated excellent by most guests. Some complain about the minimal room amenities and the price, already high, which doesn't include breakfast. Upper mid-range.\n\nAlternatives: budget: Cabinas Guaraná, Rocking J's · mid-range: Coco Loco Lodge · luxury: Le Cameleon Boutique Hotel, Cariblue Beach & Jungle Resort.",
     doveMangiare: "Madre Tierra, Koki Beach Restaurant (often a sloth crosses the roof in the evening), Amimodo.",
     usciteSerali: "Hot Rocks for live music, Selina for karaoke. At night it's better to always go out with company.",
-    comeArrivare: "About 4-4.5 hours by van from San José.",
+    comeArrivare: "From San José it is about 4-4.5 hours by van or car, coming down through Braulio Carrillo Park towards Limón and then along the coast; a lunch stop halfway is a good idea. Public buses leave from San José's Gran Terminal del Caribe and take a little longer, stopping at Cahuita. From Limón it takes about an hour and a quarter. The international airport is Juan Santamaría (SJO); the Sixaola border with Panama is about 45 minutes away.",
     comeSpostarsi: "Rental bicycle, local tuk tuks for short trips (about $4 per person).",
     periodoMigliore: "all year, as in the tropics",
-    costi: "Bike rental about $6; Cahuita tour $50 per person; Pacuaré rafting $112.",
+    costi: "Bike rental about 6$; Cahuita tour 50$ per person; Pacuaré rafting 112$; tuk-tuk about 4$ per person for short hops. Rough daily budget per person for 2026: low 50-80 € (cabinas or hostel, sodas, bike); mid 110-170 € (bungalow in Cocles, one tour a day, restaurant dinners); high from 250 € (jungle hotel at Punta Uva, rafting and private tours).",
     erroriDaEvitare: ["Book the Cahuita tour and the Pacuaré rafting at least a week in advance", "At night always go out with company, especially girls on their own"],
     miaEsperienza:
       "We cycled along the coast to Punta Uva, with howler monkeys calling from the trees overhead. Cahuita, really beautiful: there we saw a nurse shark, rays, several sloths, all kinds of little monkeys and more. The Bribri community, on the other hand, is a cultural experience, but don't picture it as something authentic deep in the jungle, at least not the way I experienced it. It's nice to see how they live, or used to live, and how chocolate is made, but it's not like the Mentawai, to give you an idea. In the area I also recommend the Jaguar Rescue Center. From here we then went to the Panama border.",
-      "luoghi": [
-        {
-          "nome": "Cahuita National Park",
-          "testo": "A coastal trail between beach, forest and sea, with a coral reef offshore. You see sloths, howler and capuchin monkeys, raccoons and birds. At the Cahuita entrance you leave a donation instead of buying a ticket.",
-          "come": "Main entrance in Cahuita, or from the Puerto Vargas side. The trail follows the beach, with some river crossings.",
-          "quando": "Early morning, when animals are active.",
-          "tempo": "3-4 hours",
-          "consiglio": "With a local guide you see many more animals. There is a dedicated experience card for a full tour with the guide José. We saw a nurse shark, rays, several sloths and monkeys."
-        },
-        {
-          "nome": "Punta Uva and Playa Chiquita",
-          "testo": "Pale-sand beaches south of Puerto Viejo, with palms and forest behind. From here you hear howler monkeys in the trees.",
-          "come": "By bike along the coast from Puerto Viejo; rentals in town.",
-          "quando": "Morning or late afternoon.",
-          "tempo": "Half a day",
-          "consiglio": "Cycling along the coast is the simplest and truest way to know the Costa Rican Caribbean."
-        },
-        {
-          "nome": "Playa Cocles",
-          "testo": "A popular beach near town, with surf waves and bars on the sand.",
-          "come": "By bike or on foot from town.",
-          "quando": "Late afternoon for happy hour.",
-          "tempo": "2-3 hours",
-          "consiglio": "Currents are strong: swim with care."
-        },
-        {
-          "nome": "Pacuaré River (rafting)",
-          "testo": "A descent of the Pacuaré river, through gorges and forest, an optional excursion much in demand in the area.",
-          "come": "Organised tour from Puerto Viejo, booked a few days ahead.",
-          "quando": "Check the best season with the operator.",
-          "tempo": "Full day",
-          "consiglio": "The river is far from the coast: it is a long day with many hours on the road."
-        },
-        {
-          "nome": "Jaguar Rescue Center",
-          "testo": "A center that takes in injured, sick or orphaned animals, mostly monkeys, sloths, birds and reptiles. It cares for them and, when they can live free again, releases them into the forest, also from its La Ceiba release station.",
-          "come": "In Puerto Viejo, by bike or tuk tuk from town.",
-          "quando": "Guided tours every day at 9:30 and 11:30; private tour at 2pm, limited places.",
-          "tempo": "1.5-2 hours",
-          "url": "https://www.jaguarrescue.foundation/en-us/",
-          "consiglio": "You can only visit on a guided tour: book it online on their website."
-        },
-        {
-          "nome": "Sixaola border, toward Panama",
-          "testo": "From Puerto Viejo or Cahuita you take a bus to Sixaola, cross the binational bridge over the Sixaola River, opened in 2021, and enter Panama at Guabito. From there you continue to Bocas del Toro.",
-          "come": "Local bus to Sixaola, then on foot across the bridge. After Guabito: bus or shared taxi to Changuinola and Almirante, then water taxi to Bocas Town (about 30 minutes).",
-          "quando": "Early morning: the border offices close in the late afternoon.",
-          "tempo": "Half a day to Bocas",
-          "costo": "Costa Rica land exit tax: 8 USD per person, online on the Banco de Costa Rica website or at the BCR kiosks at the border.",
-          "consiglio": "Panama may ask for an onward ticket and proof of at least 1,000 USD or a credit card. Panama is one hour ahead of Costa Rica."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: bike to Punta Uva",
-            "Lunch of Caribbean food",
-            "Afternoon: Playa Cocles and happy hour"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: bike along the coast to Punta Uva",
-            "Day 2: Cahuita Park with a guide, then a swim"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Puerto Viejo centre",
-          "perChi": "social life and restaurants",
-          "testo": "Everything close but music in the evening, sometimes loud."
-        },
-        {
-          "nome": "Playa Cocles and Punta Uva",
-          "perChi": "calm and nature",
-          "testo": "Cabañas in the forest, but you need a bike or taxi for dinner."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Cahuita National Park",
+        testo: "A coastal trail between beach, forest and sea, with a coral reef offshore. You see sloths, howler and capuchin monkeys, raccoons, snakes and birds, and you swim at a beach inside the park.",
+        come: "Main entrance at Playa Blanca, at the edge of Cahuita village, or from the Puerto Vargas sector. The trail follows the beach, partly with stream crossings.",
+        quando: "Early morning, when animals are active.",
+        tempo: "3-4 hours",
+        costo: "Playa Blanca sector by donation; Puerto Vargas has a fixed fee. Full tour with a local guide 50 USD per person in cash, about 43 €, entry included",
+        lat: 9.73214,
+        lng: -82.84006,
+        consiglio: "With a local guide you see many more animals: there is an experience page for the full tour with the guide José, to book at least a week ahead. We saw a nurse shark, rays, several sloths and monkeys.",
+      },
+      {
+        nome: "Punta Uva and Playa Chiquita",
+        testo: "Pale-sand beaches south of Puerto Viejo, backed by palms and forest. Punta Uva is the best swimming beach on Costa Rica's Caribbean coast, with usually calm water and a headland with a small rock arch.",
+        come: "By bike along the coast from Puerto Viejo, about forty minutes' ride; rental in town.",
+        quando: "Morning or late afternoon.",
+        tempo: "Half a day",
+        costo: "Free",
+        lat: 9.64354,
+        lng: -82.68501,
+        consiglio: "Cycling along the coast is the simplest and most genuine way to get to know the Costa Rican Caribbean; along the road you hear howler monkeys.",
+      },
+      {
+        nome: "Playa Cocles",
+        testo: "A long, busy beach near town, with surf waves, lifeguards on some stretches and bars on the sand. At sunset it is the happy-hour spot.",
+        come: "By bike or on foot from town, 5-10 minutes.",
+        quando: "Late afternoon for happy hour.",
+        tempo: "2-3 hours",
+        costo: "Free",
+        lat: 9.6478,
+        lng: -82.7322,
+        consiglio: "Currents are strong: swim where others are swimming.",
+      },
+      {
+        nome: "Puerto Viejo centre and Salsa Brava",
+        testo: "The seaside town, with sodas, reggae bars, shops and nightlife. Off the Salsa Brava reef breaks one of the most powerful waves in the country, best watched from the beach unless you are an expert surfer.",
+        come: "On foot.",
+        quando: "Evening; the wave is best between December and March.",
+        tempo: "1-2 hours",
+        costo: "Free",
+        lat: 9.65725,
+        lng: -82.75421,
+        consiglio: "At night it is better to move around in company, especially women alone.",
+      },
+      {
+        nome: "Playa Negra",
+        testo: "The black volcanic-sand beach north of town, long and quiet, with beginner surf waves and forest right down to the sand.",
+        come: "On foot or by bike from the centre, a few minutes towards Cahuita.",
+        quando: "Early morning.",
+        tempo: "1-2 hours",
+        costo: "Free",
+      },
+      {
+        nome: "Jaguar Rescue Center",
+        testo: "A centre that rescues injured, sick or orphaned animals, mainly monkeys, sloths, birds and reptiles. It treats them and, when they can be freed, releases them into the forest, including from its La Ceiba release station.",
+        come: "Between Cocles and Playa Chiquita, by bike or tuk-tuk from town.",
+        quando: "Morning, on the guided tour.",
+        tempo: "1.5-2 hours",
+        orari: "Guided tours daily at 9.30 and 11.30 am; private tour at 2 pm, limited places",
+        lat: 9.6428,
+        lng: -82.72347,
+        url: "https://www.jaguarrescue.foundation/en-us/",
+        consiglio: "Entry is by guided tour only: book online on their website.",
+      },
+      {
+        nome: "Ara Manzanillo",
+        testo: "A reintroduction project for the great green macaw, the big parrot that had vanished from the Caribbean coast. On the afternoon visit you see free-flying macaws come to the feeding platforms in the forest.",
+        come: "By car or bike towards Manzanillo; by online booking only.",
+        quando: "Visits usually at 3 pm, by booking",
+        tempo: "1.5 hours",
+        lat: 9.62569,
+        lng: -82.68491,
+        url: "https://aramanzanillo.org/",
+      },
+      {
+        nome: "Manzanillo and the Gandoca-Manzanillo refuge",
+        testo: "The village where the coast road ends, at the gateway to the Gandoca-Manzanillo wildlife refuge: trails through forest, cliffs and small coves, with dolphins offshore and corals near the shore.",
+        come: "By bike or car, about 13 km south of Puerto Viejo; the trail starts at the end of the village.",
+        quando: "Morning, with a calm sea for snorkelling.",
+        tempo: "Half a day",
+        lat: 9.63162,
+        lng: -82.6581,
+        consiglio: "With a local guide the trail is safer and you see more animals.",
+      },
+      {
+        nome: "Bribri community and chocolate workshop",
+        testo: "A visit to an indigenous Bribri community, where the village leader explains traditional plants and shows the little poison frogs, followed by a traditional chocolate workshop with tasting. It is a cultural experience, but don't picture it as something authentic deep in the jungle.",
+        come: "As part of the full Cahuita tour, in the afternoon, or on a dedicated tour.",
+        quando: "Afternoon.",
+        tempo: "2-3 hours",
+        consiglio: "The tour usually ends at a waterfall at the end of a short but steep walk, where you can swim.",
+      },
+      {
+        nome: "Pacuare River (rafting)",
+        testo: "A descent of the Pacuare River, through gorges and forest, one of the five best rafting rivers in the world. Four hours on the water can feel long for first-timers, especially in the dry season, when the water is low.",
+        come: "Organised tour on the way between San José and Puerto Viejo, to be booked at least a week ahead.",
+        quando: "Best in the rainy season, with more water.",
+        tempo: "Full day",
+        costo: "112 USD per person, about 96 €",
+        consiglio: "The river is far from the coast: it is a long day with many hours on the road.",
+      },
+      {
+        nome: "Sixaola border, towards Panama",
+        testo: "From Puerto Viejo or Cahuita you take a bus to Sixaola, cross the binational bridge over the Sixaola river, opened in 2021, and enter Panama at Guabito. From there you continue to Bocas del Toro.",
+        come: "Local bus to Sixaola, then on foot over the bridge. After Guabito: bus or shared taxi to Changuinola and Almirante, then water taxi to Bocas Town (about 30 minutes).",
+        quando: "Early morning: the border offices close in the late afternoon.",
+        tempo: "Half a day to Bocas",
+        costo: "Costa Rica land exit tax: 8 USD per person, online on the Banco de Costa Rica website or at the BCR kiosks at the border",
+        lat: 9.5579,
+        lng: -82.66978,
+        consiglio: "Panama may ask for an onward ticket and proof of at least 1,000 USD or a credit card. Panama is one hour ahead of Costa Rica.",
+      },
+    ],
+    programmi: [
+      { titolo: "1 day", tappe: [
+        "Morning: bike to Punta Uva",
+        "Caribbean lunch",
+        "Afternoon: Playa Cocles and happy hour",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: bike along the coast to Punta Uva, Jaguar Rescue Center in the morning",
+        "Day 2: full Cahuita tour with a guide, Bribri community and chocolate",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Days 1-2 as above",
+        "Day 3: Manzanillo and the Gandoca trail in the morning, Ara Manzanillo at 3 pm, dinner in town",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Puerto Viejo centre",
+        perChi: "social life and restaurants",
+        testo: "Everything close, with cabinas, hostels and small hotels, but music in the evening, sometimes loud.",
+        fascia: "40-100 €",
+      },
+      {
+        nome: "Playa Cocles and Punta Uva",
+        perChi: "peace and nature",
+        testo: "Bungalows and cabins in the forest near the best beaches, but you need a bike or taxi for dinner.",
+        fascia: "90-200 €",
+      },
+      {
+        nome: "Manzanillo",
+        perChi: "those who want the quietest village",
+        testo: "A few simple places at the end of the road, next to the Gandoca refuge; there is little to do in the evening.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Caribbean rice and beans",
@@ -268,6 +335,46 @@ export const destinazioniCostaRica: Destinazione[] = [
         "Sea and currents at Playa Cocles are strong: swim with caution.",
         "Caribbean weather is rainier and less predictable than the Pacific: leave some margin of days."
       ],
+    gite: [
+      {
+        nome: "Bocas del Toro (Panama)",
+        distanza: "half a day's travel via Sixaola",
+        come: "Bus to Sixaola, the bridge on foot, then bus or shared taxi to Almirante and water taxi; better with a few nights.",
+        testo: "Panama's Caribbean archipelago, with the stilt houses of Bocas Town, the beaches of Isla Bastimentos and the starfish of Playa Estrella.",
+      },
+      {
+        nome: "Cahuita village",
+        distanza: "about 16 km, 20 minutes",
+        come: "By bus, taxi or bike.",
+        testo: "The smallest, slowest village on the coast, with Cahuita's own Playa Negra, Caribbean sodas and the donation entrance to the park.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Puerto Viejo?",
+        risposta: "Two days cover the coast by bike and Cahuita park; a third adds Manzanillo, Gandoca and Ara Manzanillo. The weather is unpredictable: a spare day helps.",
+      },
+      {
+        domanda: "Which beach is best for swimming?",
+        risposta: "Punta Uva, where the water is usually calm; Cocles and Playa Negra have waves and currents, better for surfing. Swim where others are swimming.",
+      },
+      {
+        domanda: "Do you pay to enter Cahuita Park?",
+        risposta: "At the Playa Blanca entrance, in Cahuita village, you leave a donation; the Puerto Vargas sector has a fixed fee. With a guided tour the entry is usually included.",
+      },
+      {
+        domanda: "Is Puerto Viejo safe?",
+        risposta: "By day yes, with normal care: theft on beaches and from bungalows is common. At night it is better to move around in company, especially women alone.",
+      },
+      {
+        domanda: "How do you get from Puerto Viejo to Bocas del Toro?",
+        risposta: "By bus to Sixaola, on foot over the bridge to Guabito, then bus or shared taxi to Almirante and a water taxi to Bocas Town. On exit you pay an 8-dollar tax, and Panama is one hour ahead.",
+      },
+      {
+        domanda: "When to go to the Caribbean coast?",
+        risposta: "You can go all year; September and October are often the driest months here, unlike the Pacific. The weather stays wetter and more unpredictable: leave some slack.",
+      },
+    ],
     esperienzeSlugs: ['tour-cahuita'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The Caribbean beach of Punta Uva near Puerto Viejo, Costa Rica",
@@ -293,74 +400,123 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       "Hotel Icaco Tortuguero: convenient location, right in front of the park's beach, quick check-in and check-out. Some reviews find the rooms small and basic for the price. Lower mid-range.\n\nAlternatives: budget: La Casona de Tortuguero, Cabinas Miss Junie · mid-range: Aracari Garden Hotel · luxury: Tortuga Lodge & Gardens, Manatus Hotel.",
     doveMangiare: "Taylor's Place or Mi Niño in town; dinner included at the hotel.",
-    comeArrivare: "1.5 hours by van to the port of Moín, then 3 hours by boat.",
+    comeArrivare: "No roads reach the village: you arrive only by boat or small plane. From Puerto Viejo or Limón you take a van to the port of Moín (about 1h30) and then 3 hours of navigation along the canals. From San José the most common route goes via Cariari to the La Pavona dock, where you take the boat to the village; many lodges sell the full transfer. Tortuguero's airstrip receives domestic flights from San José.",
     comeSpostarsi: "On foot: the village has no roads for cars. Kayak and boat for excursions.",
     periodoMigliore: "July-October for turtle nesting",
-    costi: "Cerro Tortuguero $6 boat + $3 entrance; night turtle excursion about $40 per person.",
+    costi: "Cerro Tortuguero 6$ boat + 3$ entry; night turtle walk about 40$ per person; national park around 15 dollars, bought online on the SINAC portal. Rough daily budget per person for 2026: low 60-90 € (cabinas in the village, sodas, shared trips); mid 130-190 € (hotel with dinner, kayak and guided trips); high from 250 € (canal lodge package with transfers, meals and tours).",
     erroriDaEvitare: [],
     miaEsperienza:
       "Tortuguero is gorgeous. It looks a lot like the Amazon and it's fantastic for nature. Even the boat ride from Moín, along jungle canals with crocodiles and monkeys on the banks, was one of the best transfers of the whole trip.",
-      "luoghi": [
-        {
-          "nome": "Tortuguero canals",
-          "testo": "A network of mangrove and forest canals in the north-east, home to caimans, crocodiles, monkeys, herons and kingfishers. You go by boat with a low-impact motor.",
-          "come": "Boat from Moín or from the Cariari-La Pavona area, long transfer hours. The village has no roads.",
-          "quando": "Early morning, for animals and light.",
-          "tempo": "2-3 hours",
-          "consiglio": "The transfer from Moín to Tortuguero, through canals and jungle, is one of the best of the trip and counts as an experience in itself."
-        },
-        {
-          "nome": "Kayak at dawn in the mangroves",
-          "testo": "Silent kayaking along side canals, without a motor, to get close to birds and reptiles.",
-          "come": "With a lodge guide, leaving before dawn. There is a dedicated experience card.",
-          "quando": "Dawn.",
-          "tempo": "2 hours"
-        },
-        {
-          "nome": "Cerro Tortuguero",
-          "testo": "A hill with views over canals, sea and forest.",
-          "come": "A short boat crossing from the village to the trailhead; ask your lodge about current access rules and fee.",
-          "quando": "Morning.",
-          "tempo": "1-1.5 hours",
-          "consiglio": "Bring water and repellent: in the humid forest there are many mosquitoes."
-        },
-        {
-          "nome": "Turtle nesting",
-          "testo": "In season green turtles lay eggs on the beach at night. They can only be observed with authorised guides.",
-          "come": "Night excursion with an authorised guide, in small groups and with strict rules.",
-          "quando": "Night, during the nesting season.",
-          "tempo": "2-3 hours",
-          "consiglio": "No lights or flash: follow the guide and keep your distance."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: boat from Moín, arrival in the village, walk around",
-            "Day 2: kayak at dawn, canals by boat, Cerro Tortuguero"
-          ]
-        },
-        {
-          "titolo": "3 days",
-          "tappe": [
-            "Days 1-2 as above",
-            "Day 3: night nesting (in season) or a trek in the park"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Lodges on the canals",
-          "perChi": "those who want to be immersed in nature",
-          "testo": "Packages with meals and excursions, isolated and quiet. Often the only services are the lodge's."
-        },
-        {
-          "nome": "Tortuguero village",
-          "perChi": "budget",
-          "testo": "Simple cabinas and restaurants, with village noise."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Tortuguero canals",
+        testo: "A network of mangrove and forest canals in the north-east, home to caimans, crocodiles, monkeys, herons and kingfishers. It looks a lot like the Amazon; you travel by boat with a low-impact engine, with a guide.",
+        come: "Boat trip from the village with a guide and park ticket.",
+        quando: "Early morning, for animals and light.",
+        tempo: "2-3 hours",
+        costo: "Park entry around 15 USD, about 13 €, online on the SINAC portal, plus boat and guide",
+        lat: 10.4232,
+        lng: -83.4967,
+        url: "https://serviciosenlinea.sinac.go.cr/",
+        consiglio: "The transfer from Moín, through canals and jungle, is one of the best of the trip and is an experience in itself.",
+      },
+      {
+        nome: "Dawn kayak in the mangroves",
+        testo: "Two hours of silent kayaking along the side canals, single or double, without an engine, to get close to birds and reptiles at the best time of day. There is a dedicated experience page.",
+        come: "With the lodge's guide, leaving before dawn.",
+        quando: "Dawn, back in time for breakfast.",
+        tempo: "2 hours",
+      },
+      {
+        nome: "Cerro Tortuguero",
+        testo: "A volcanic hill north of the village, the only high ground in the area, with a short jungle climb to a viewpoint over canals, sea and forest.",
+        come: "On your own: a short boat crossing from the village to the trailhead.",
+        quando: "Morning, or the afternoon you arrive.",
+        tempo: "1-1.5 hours",
+        costo: "6 USD for the boat plus 3 USD entry, about 8 €",
+        lat: 10.5851,
+        lng: -83.5278,
+        consiglio: "Bring water and repellent: in the damp forest there are lots of mosquitoes.",
+      },
+      {
+        nome: "Turtle nesting",
+        testo: "In season, green turtles nest on the beach at night: Tortuguero is one of the most important nesting sites in the Atlantic. You watch only with certified guides, in small groups and under strict rules.",
+        come: "Night tour with a certified guide, booked in the village.",
+        quando: "Night, usually between July and October; ask locally.",
+        tempo: "2-3 hours",
+        costo: "About 40 USD per person, about 34 €",
+        consiglio: "Dark clothes, no lights or flash: follow the guide and keep your distance.",
+      },
+      {
+        nome: "El Gavilán trail",
+        testo: "The national park's walking trail, from the Cuatro Esquinas station south of the village, through flooded forest and along the beach. You see howler monkeys, frogs and birds; you often walk in mud.",
+        come: "On foot from the village; rubber boots can be rented at the entrance.",
+        quando: "Morning.",
+        tempo: "1.5-2 hours",
+        url: "https://serviciosenlinea.sinac.go.cr/",
+      },
+      {
+        nome: "Tortuguero beach",
+        testo: "The long dark-sand Caribbean beach in front of the village, where the turtles nest. It is lovely for walking, but not for swimming: strong currents and open sea.",
+        come: "On foot from the village.",
+        quando: "Sunset.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 10.54225,
+        lng: -83.50175,
+      },
+      {
+        nome: "Sea Turtle Conservancy visitor centre",
+        testo: "The small museum of the organisation that has studied Tortuguero's turtles since the 1950s, with panels and videos on green turtles. A good way to understand what you will see at night.",
+        come: "On foot, at the northern end of the village.",
+        quando: "Afternoon, before the night tour.",
+        tempo: "30-45 minutes",
+        lat: 10.54715,
+        lng: -83.50502,
+      },
+      {
+        nome: "Tortuguero village",
+        testo: "A village with no roads for cars, between the canal and the sea, with colourful wooden houses, souvenir shops and sodas. Everything is on foot; by the dock there is a small supermarket and a free drinking-water tank.",
+        come: "On foot from the dock.",
+        quando: "Afternoon and evening.",
+        tempo: "1 hour",
+        costo: "Free",
+      },
+    ],
+    programmi: [
+      { titolo: "Along the route from Moín", tappe: [
+        "1h30 by van to the port of Moín",
+        "3 hours by boat along the canals, with lunch on board",
+        "Afternoon: village and Cerro Tortuguero",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: boat from Moín, village, Cerro Tortuguero, turtles in the evening in season",
+        "Day 2: dawn kayak, breakfast, boat departure to Sarapiquí or La Pavona",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Day 1: arrival, village and beach at sunset",
+        "Day 2: dawn kayak, El Gavilán trail, Sea Turtle Conservancy centre, night nesting in season",
+        "Day 3: canals by boat in the morning, Cerro Tortuguero and departure",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Canal lodges",
+        perChi: "those who want to immerse themselves in nature",
+        testo: "Packages with meals, excursions and transfers, isolated and quiet on the far bank of the canal. Often the only services are the lodge's own.",
+        fascia: "da 250 € a persona in pacchetto",
+      },
+      {
+        nome: "Tortuguero village",
+        perChi: "budget and independence",
+        testo: "Simple cabinas and small hotels, restaurants and guides on foot, with village noise.",
+      },
+      {
+        nome: "Facing the park beach",
+        perChi: "convenience",
+        testo: "Hotels in the village facing the beach, handy for nesting tours and the trail entrance; rooms often small and basic.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Caribbean casado",
@@ -384,6 +540,46 @@ export const destinazioniCostaRica: Destinazione[] = [
         "In the park the nesting rules are strict: no lights, no flash, only with an authorised guide.",
         "Mosquitoes and humidity: repellent and light long-sleeved clothes."
       ],
+    gite: [
+      {
+        nome: "Parismina",
+        distanza: "south along the canals, by boat",
+        come: "Private boat or a stop on the transfer from Moín.",
+        testo: "An Afro-Caribbean village between the canal and the sea, with a community turtle-protection project and far fewer people than Tortuguero.",
+      },
+      {
+        nome: "Barra del Colorado",
+        distanza: "north along the canals, by boat",
+        come: "Private boat from Tortuguero; arranged through the lodge.",
+        testo: "The largest wildlife refuge on Costa Rica's Caribbean coast, towards the Nicaraguan border, with lagoons, flooded forest and tarpon sport fishing.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How do you get to Tortuguero?",
+        risposta: "Only by boat or plane: from Moín, near Limón, it is 3 hours by boat; from San José you go via Cariari and the La Pavona dock. Many lodges sell the full transfer.",
+      },
+      {
+        domanda: "How many days do you need in Tortuguero?",
+        risposta: "One night is enough for the boat journey, the Cerro and the dawn kayak; with two nights you add the park trail and, in season, the nesting without rushing.",
+      },
+      {
+        domanda: "When can you see the turtles?",
+        risposta: "Green turtles usually nest between July and October, but the season should be confirmed locally. Tours go out only at night with certified guides.",
+      },
+      {
+        domanda: "Can you swim at Tortuguero?",
+        risposta: "Not in the sea: strong currents and open-sea waves make swimming inadvisable. Many lodges have a pool.",
+      },
+      {
+        domanda: "Do you need a package or can you go independently?",
+        risposta: "You can go independently, arranging boat, cabinas and guides in the village. Lodge packages cost more but include transfers, meals and tours.",
+      },
+      {
+        domanda: "What is the weather like in Tortuguero?",
+        risposta: "It rains a lot all year, even in months that are dry elsewhere. Bring a waterproof jacket, cases for phone and camera, and light long-sleeved clothes.",
+      },
+    ],
     esperienzeSlugs: ['barca-tortuguero', 'kayak-tortuguero'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "A jungle canal leading to the village of Tortuguero, Costa Rica",
@@ -522,71 +718,153 @@ export const destinazioniCostaRica: Destinazione[] = [
       "Hotel Campos Arenal: among the most cited strengths are the volcano view from the pool, the hearty breakfast and the convenient location. The recurring flaw is the dirt access path, slippery when it rains. Mid-range.\n\nAlternatives: budget: Arenal Backpackers Resort, Gringo Pete's · mid-range: Volcano Lodge & Springs · luxury: Nayara Springs, Tabacón Thermal Resort & Spa.",
     doveMangiare: "Nanku Restaurant with live music; Soda Víquez for traditional, inexpensive food; Spectacular Cantina (Mexican).",
     usciteSerali: "Selina or Lava Lounge.",
-    comeArrivare: "About 1h20 by van from Sarapiquí.",
+    comeArrivare: "From Sarapiquí it is about 1 hour 20 minutes by van. From San José and Juan Santamaría airport (SJO) it takes about 3 hours by car, via San Ramón or Ciudad Quesada; public buses leave from San José, often changing at Ciudad Quesada, and take longer. From Liberia airport (LIR) it is about 2.5-3 hours. To and from Monteverde you take the mountain road around the lake, about 3-3.5 hours, or the jeep-boat-jeep transfer across Lake Arenal.",
     comeSpostarsi: "Minivan at our disposal for the whole day.",
     periodoMigliore: "late afternoon for the hot springs",
-    costi: "La Fortuna Waterfall $18-20; combo tour $90-120 per person; Lost Canyon canyoning $115-119.",
+    costi: "La Fortuna Waterfall 18-20$; combo tour 90-120$ per person; Lost Canyon canyoning 115-119$. Activities in La Fortuna are expensive: pick a few things done well. Rough daily budget per person for 2026: low 60-90 € (hostel, sodas, free El Chollín and the waterfall); mid 140-200 € (hotel with a volcano view, one activity a day); high from 300 € (thermal resort, canyoning and private tours).",
     erroriDaEvitare: ["There are no changing rooms at the El Chollín springs: river shoes, a swimsuit and a headlamp are enough, no towels"],
     miaEsperienza:
       "La Fortuna is nice, but a bit overtouristy. The activities are expensive, but really, really good, especially the canyoning, which we did and I recommend. The free hot springs of El Choyin, on a natural stretch of river, felt far more authentic to us than the paid hot springs in the area.",
-      "luoghi": [
-        {
-          "nome": "La Fortuna waterfall",
-          "testo": "A waterfall about 70 metres high in a forest gorge, with about 530 steps down and back up and a pool for a swim. There is a dedicated experience card.",
-          "come": "A few minutes by car or taxi from La Fortuna town, then steep stairs to the base.",
-          "quando": "Open daily 7am-5pm; mornings are less crowded.",
-          "tempo": "2 hours",
-          "costo": "20 USD for foreigners (2025); you pay even if you only go to the viewpoint.",
-          "url": "https://www.cataratariofortuna.com/",
-          "consiglio": "The way back is all uphill: shoes with grip and water."
-        },
-        {
-          "nome": "The free thermal river at El Chollín",
-          "testo": "A stretch of the Tabacón river with naturally hot water and public access, a few steps from the thermal resorts. Not to be confused with El Choyín, a paid complex on the same river.",
-          "come": "By car or taxi from La Fortuna; you park on the road, often with an attendant, and walk a short way down to the river.",
-          "quando": "Early morning: at weekends and on holidays it is packed.",
-          "tempo": "1-2 hours",
-          "consiglio": "No showers, lockers or facilities: water shoes, a towel and no valuables left in the car."
-        },
-        {
-          "nome": "Mistico hanging bridges",
-          "testo": "A trail of about 3.2 km through the forest near Arenal, with 16 bridges, 6 of them hanging; the highest pass about 45 metres above the forest.",
-          "come": "By car or taxi from La Fortuna; you can go on your own or with a guide, who must be booked.",
-          "quando": "Open daily from 6am; last entry to the trail at 3:50pm. Best early in the morning, for the wildlife.",
-          "tempo": "2-3 hours",
-          "costo": "From 32 USD plus tax self-guided, from 44 USD with a guide (official website, 2026).",
-          "url": "https://www.misticopark.com/"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: La Fortuna waterfall",
-            "Lunch in La Fortuna",
-            "Afternoon: free thermal river at El Chollín"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: waterfall and hot springs",
-            "Day 2: Mistico hanging bridges or a hike with views of the volcano, optional canyoning"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "La Fortuna",
-          "perChi": "services and tours",
-          "testo": "The town has restaurants, agencies and hotels, with a view of the volcano."
-        },
-        {
-          "nome": "Around the volcano",
-          "perChi": "those who want quiet",
-          "testo": "Lodges in the forest, with their own hot springs; you need a car to dine."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "La Fortuna Waterfall",
+        testo: "A waterfall of about 70 metres in a forest gorge, with about 530 steps down and back up and a pool for swimming at the bottom. It is probably the most photographed waterfall in the country. There is a dedicated experience page.",
+        come: "A few minutes by car or taxi from La Fortuna town, then steep stairs to the bottom.",
+        quando: "In the morning, when it is less crowded.",
+        tempo: "2 hours",
+        costo: "20 USD for foreigners, about 17 € (2025); you pay even just for the viewpoint",
+        orari: "Daily 7 am-5 pm",
+        lat: 10.43919,
+        lng: -84.66933,
+        url: "https://www.cataratariofortuna.com/",
+        consiglio: "The way back is all uphill: shoes with grip and water.",
+      },
+      {
+        nome: "The free hot river at El Chollín",
+        testo: "A stretch of the Tabacón river with naturally hot water and public access, a few steps from the thermal resorts. Not to be confused with El Choyín, a paid complex on the same river. It is one of the best and least postcard-like moments in the area.",
+        come: "By car or taxi from La Fortuna; park on the road, often with an attendant, and walk a short way down to the river.",
+        quando: "Late afternoon, or early morning: at weekends and on holidays it is packed.",
+        tempo: "1-2 hours",
+        costo: "Free",
+        lat: 10.49145,
+        lng: -84.72491,
+        consiglio: "There are no showers, lockers or changing rooms: river shoes, swimwear and a headlamp in a dry bag, and no valuables left in the car.",
+      },
+      {
+        nome: "Mistico hanging bridges",
+        testo: "A trail of about 3.2 km in the forest near Arenal, with 16 bridges, 6 of them hanging; the highest pass about 45 metres above the forest. Some find it a little below expectations: with a guide you see many more animals.",
+        come: "By car or taxi from La Fortuna; go alone or with a guide, who must be booked.",
+        quando: "Early morning, for wildlife.",
+        tempo: "2-3 hours",
+        costo: "From 32 USD plus tax alone, from 44 USD with a guide, about 28-38 € (2026)",
+        orari: "Daily from 6 am; last trail entry 3.50 pm",
+        lat: 10.48805,
+        lng: -84.75378,
+        url: "https://www.misticopark.com/",
+      },
+      {
+        nome: "Arenal Volcano National Park",
+        testo: "The state park around the volcano, with trails over the 1992 lava flows, a huge ceiba tree and viewpoints over the cone and the lake. You cannot climb to the crater: the volcano has been quiet since 2010 but the summit stays closed.",
+        come: "By car, about 30 minutes from La Fortuna towards the lake; tickets on the SINAC portal.",
+        quando: "Morning, when the cone is more often clear of cloud.",
+        tempo: "2-3 hours",
+        lat: 10.46306,
+        lng: -84.70306,
+        url: "https://serviciosenlinea.sinac.go.cr/",
+      },
+      {
+        nome: "Arenal 1968",
+        testo: "A private reserve next to the national park, with trails through the forest and over the lava flow of the 1968 eruption, which destroyed the villages at the foot of the volcano. From the longest trail, about two hours, you see the cone and the lake together.",
+        come: "By car or taxi from La Fortuna, on the road to the national park.",
+        quando: "Early morning or late afternoon.",
+        tempo: "2 hours",
+        lat: 10.46641,
+        lng: -84.73621,
+        url: "https://www.arenal1968.com/",
+      },
+      {
+        nome: "El Silencio viewpoint",
+        testo: "A hike through the forest on the volcano's slopes to a viewpoint with excellent views of the cone. It is one of the three activities in La Fortuna's most common combo tour, together with the waterfall and the hot springs.",
+        come: "On your own or as part of the 90-dollar combo tour with the waterfall and hot springs.",
+        quando: "Morning, before clouds cover the volcano.",
+        tempo: "2 hours",
+        costo: "About 10 USD on its own, about 9 €",
+      },
+      {
+        nome: "Canyoning in the Lost Canyon",
+        testo: "Abseiling down waterfalls and rock walls in a forest gorge, with an operator who provides gear and transport. It is the activity I recommend most in La Fortuna: a real adrenaline rush, only with serious operators.",
+        come: "Book with the operator, with hotel pick-up and lunch included.",
+        quando: "In the morning, or early afternoon.",
+        tempo: "Half a day",
+        costo: "115-119 USD per person, about 100 €",
+      },
+      {
+        nome: "Tabacón hot springs",
+        testo: "The best-known thermal resort in the area, built on the hot Tabacón river, with pools and hot waterfalls in a tropical garden. Many resorts sell a day pass with dinner; it is expensive compared with the free river.",
+        come: "By car or taxi, about 15 minutes from La Fortuna; day pass to be booked.",
+        quando: "Evening, after a day of activities.",
+        tempo: "3 hours",
+        lat: 10.48781,
+        lng: -84.72299,
+        consiglio: "For simpler paid springs with a barbecue there are also the Termalitas del Arenal.",
+      },
+      {
+        nome: "Lake Arenal and the Sangregado dam",
+        testo: "The country's largest artificial lake, west of the volcano, created by the Sangregado dam. From the dam and the lakeshore road come the widest views of Arenal, and in the evening you often see coatis by the roadside.",
+        come: "By car, about 30 minutes from La Fortuna; you drive across the dam.",
+        quando: "Sunset.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 10.4752,
+        lng: -84.76079,
+        consiglio: "Don't feed the coatis, even if they come up to the cars.",
+      },
+      {
+        nome: "La Fortuna town",
+        testo: "The town at the foot of the volcano, with the church and the central park from which you see the cone when it is clear of cloud. It has agencies, sodas and restaurants for every budget and is the base for all excursions.",
+        come: "On foot.",
+        quando: "Evening, for dinner.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 10.47144,
+        lng: -84.64472,
+      },
+    ],
+    programmi: [
+      { titolo: "1 day", tappe: [
+        "Morning: La Fortuna Waterfall",
+        "Lunch in La Fortuna",
+        "Afternoon: El Silencio viewpoint or Mistico hanging bridges",
+        "Late afternoon: free hot river at El Chollín",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: waterfall, hanging bridges and hot springs",
+        "Day 2: Lost Canyon canyoning in the morning, national park or Arenal 1968 in the afternoon, sunset at the dam",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Days 1-2 as above",
+        "Day 3: Río Celeste in Tenorio Volcano National Park, or an evening at Tabacón",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "La Fortuna",
+        perChi: "services and tours",
+        testo: "The town has restaurants, agencies and hotels, many with a volcano view; everything on foot or a few minutes by taxi.",
+        fascia: "70-150 €",
+      },
+      {
+        nome: "Volcano road",
+        perChi: "hot springs and luxury",
+        testo: "Resorts with thermal pools and forest lodges between La Fortuna and the lake; you need a car to eat out.",
+        fascia: "150-280 €",
+      },
+      {
+        nome: "El Castillo",
+        perChi: "those seeking quiet",
+        testo: "A village on the south side of the lake, with cabins and small lodges facing the volcano; the road is partly unpaved.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Casado",
@@ -611,6 +889,52 @@ export const destinazioniCostaRica: Destinazione[] = [
         "Canyoning: very adrenaline-fuelled, only with serious operators. We did it and it's great.",
         "La Fortuna is a bit overtouristy and activities are expensive: pick a few things and do them well."
       ],
+    gite: [
+      {
+        nome: "Río Celeste",
+        distanza: "about 1.5-2 hours",
+        come: "By car or on an organised tour; entry to Tenorio Volcano National Park to be booked on the SINAC portal.",
+        testo: "The milky-blue river in the Tenorio forest, with a waterfall and the spot where two streams meet and change colour. Swimming is not allowed in the park.",
+      },
+      {
+        nome: "Bajos del Toro",
+        distanza: "about 1.5-2 hours",
+        come: "By car; the area closes in the late afternoon, so arrive by early afternoon.",
+        testo: "Costa Rica's «waterfall capital», with the Catarata del Toro and the twin falls in a valley between two national parks. It is quieter than La Fortuna.",
+      },
+      {
+        nome: "Caño Negro",
+        distanza: "about 1.5-2 hours north",
+        come: "Day tour with a boat trip on the Río Frío, or by car to the village.",
+        testo: "A wetland refuge near the Nicaraguan border, with caimans, herons, spoonbills and kingfishers. The dry season concentrates the birds in the lagoons.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in La Fortuna?",
+        risposta: "One day covers the waterfall, a hike and the hot springs; two days add canyoning, the national park and the lake. A third day is for Río Celeste.",
+      },
+      {
+        domanda: "Are there free hot springs in La Fortuna?",
+        risposta: "Yes, the public stretch of the Tabacón river at El Chollín, with no facilities. Resorts such as Tabacón or Termalitas del Arenal charge, with pools, showers and dinner.",
+      },
+      {
+        domanda: "Can you climb Arenal volcano?",
+        risposta: "No, the summit is closed. You walk on the slopes and old lava flows in the national park, at Arenal 1968 or at the El Silencio viewpoint.",
+      },
+      {
+        domanda: "How much is La Fortuna Waterfall?",
+        risposta: "20 dollars for foreigners (2025), open daily 7 am-5 pm. There are about 530 steps down and back.",
+      },
+      {
+        domanda: "La Fortuna or Monteverde?",
+        risposta: "They are different and most people do both: La Fortuna has the volcano, waterfalls and hot springs; Monteverde the cloud forest, night walks and the longest zip lines. They are about 3-3.5 hours apart by road.",
+      },
+      {
+        domanda: "When can you see the volcano without clouds?",
+        risposta: "Usually early in the morning and in the dry season, December to April. The rest of the year the cone is often covered but clears at times.",
+      },
+    ],
     esperienzeSlugs: ['cascata-fortuna-termales'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The Arenal volcano seen from La Fortuna, Costa Rica",
@@ -636,77 +960,135 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       "Hotel Jardines de Monteverde: well-kept gardens, lots of wildlife to watch without leaving the property, staff always described as kind. Some more recent reviews mention rooms and bathrooms that are a bit dated. Lower mid-range.\n\nAlternatives: budget: Pensión Santa Elena, Monteverde Backpackers · mid-range: Cloud Forest Lodge · luxury: Hotel Belmar, Monteverde Lodge & Gardens.",
     doveMangiare: "Tree House (supermarket next door); Tico y Rico, The Green Restaurant, Sabor Tico.",
-    comeArrivare: "About 3-3.5 hours by van from La Fortuna.",
+    comeArrivare: "From La Fortuna it is about 3-3.5 hours by van on slow, winding mountain roads, or the jeep-boat-jeep transfer across Lake Arenal. From San José and Juan Santamaría airport it takes about 3.5-4 hours: you leave the Inter-American Highway and the last kilometres climb to Santa Elena, at about 1,400 metres. Public buses run from San José and Puntarenas. Towards the Pacific and Uvita, allow up to 4 hours.",
     comeSpostarsi: "Private van for excursions.",
     periodoMigliore: "early morning for birdwatching and ziplining",
-    costi: "Night walk (Kinkajou Night Walk) $28 per person; zipline about $60 per person; birdwatching $50 per person.",
+    costi: "Night walk (Kinkajou Night Walk) 28$ per person; zip line about 60$ per person; birdwatching 50$ per person. Rough daily budget per person for 2026: low 60-90 € (hostel or guesthouse in Santa Elena, sodas, a reserve without a guide); mid 130-190 € (hotel with a garden, guided reserve walk, zip line or night walk); high from 280 € (forest lodge, private tours).",
     erroriDaEvitare: ["Don't be afraid to ask the guide to cut the night walk short if it goes on too long: not everyone likes the length equally"],
     miaEsperienza:
       "Monteverde has the giant zip line, and it's awesome. The night walk in the cloud forest was great too, with wildlife that only comes out after sunset, although some may find the length (1h30) a bit long.",
-      "luoghi": [
-        {
-          "nome": "Monteverde cloud forest",
-          "testo": "A high-altitude rainforest wrapped in clouds, with thousands of species of plants, birds and insects. You walk on trails and bridges.",
-          "come": "By taxi or shuttle from the small town of Santa Elena, on a slow mountain road. Since 2026 entry is timed and booked online. Better with a guide to spot the animals.",
-          "quando": "Forest trails from 7:30 to 16:00 (official site hours); early morning for birds. The fog is part of the landscape.",
-          "tempo": "3-4 hours",
-          "url": "https://cloudforestmonteverde.com/"
-        },
-        {
-          "nome": "Night walk in the forest",
-          "testo": "An evening excursion with guide and torch to see frogs, insects, tarantulas and other nocturnal animals. There is a dedicated experience card.",
-          "come": "Departure after sunset with a guide.",
-          "quando": "Evening: at the reserve the night walk starts at 18:00.",
-          "tempo": "1-2 hours",
-          "consiglio": "To some people the duration can feel long. Bring a jacket and closed shoes."
-        },
-        {
-          "nome": "Coffee plantation",
-          "testo": "A visit to a finca with tasting and an explanation of the process, from plant to cup.",
-          "come": "Half-day tour booked locally.",
-          "quando": "Morning.",
-          "tempo": "2-3 hours"
-        },
-        {
-          "nome": "Zipline adventure",
-          "testo": "A zipline route above the canopy. There is a dedicated experience card. Monteverde has the giant zip line: 100% Aventura states on its website that it has the longest cable in Costa Rica, 1,590 meters, over 10 lines, from 72 USD per person (2026).",
-          "url": "https://www.aventuracanopytour.com/",
-          "come": "Booking with a local operator, with transfer.",
-          "quando": "Morning.",
-          "tempo": "2-3 hours",
-          "consiglio": "Always ask about the operator's equipment and safety measures."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: cloud forest with a guide",
-            "Lunch in Santa Elena",
-            "Afternoon: coffee",
-            "Evening: night walk"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: forest, coffee and night walk",
-            "Day 2: zipline, birdwatching at dawn as an option"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Santa Elena",
-          "perChi": "services and budget",
-          "testo": "Restaurants, agencies and hotels; you need a taxi or shuttle to the reserve."
-        },
-        {
-          "nome": "Near the reserve",
-          "perChi": "those who want nature",
-          "testo": "Lodges and cabañas near the forest, more isolated and pricier."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Monteverde Cloud Forest Reserve",
+        testo: "High-altitude rainforest wrapped in cloud, with thousands of species of plants, birds and insects; it is the area's historic reserve, where people look for the quetzal. You walk on trails and a hanging bridge above the canopy.",
+        come: "By taxi or shuttle from the town of Santa Elena, on a slow mountain road. Since 2026 entry is by time slot, booked online. Better with a guide to spot the animals.",
+        quando: "Early morning for birds. The mist is part of the landscape.",
+        tempo: "3-4 hours",
+        orari: "Forest trails 7.30 am-4 pm; night walk at 6 pm",
+        lat: 10.30345,
+        lng: -84.78771,
+        url: "https://cloudforestmonteverde.com/",
+      },
+      {
+        nome: "Santa Elena Reserve",
+        testo: "A community reserve north of town, slightly higher and less visited than Monteverde, with 12 km of trails and an observation tower on the Youth Challenge trail. On clear days you can see Arenal in the distance.",
+        come: "Shuttle or taxi from Santa Elena, about 20 minutes; go alone or with a booked guide.",
+        quando: "Morning.",
+        tempo: "2-4 hours",
+        lat: 10.34285,
+        lng: -84.79305,
+        url: "https://reservasantaelena.org/",
+      },
+      {
+        nome: "Curi-Cancha Reserve",
+        testo: "A private reserve between pasture and forest, with about 8 km of easy trails, much loved by birdwatchers: it is one of the best places for quetzals and motmots. Entries are limited and it is less crowded.",
+        come: "Taxi from Santa Elena, on the road towards the Monteverde reserve; night walks too.",
+        quando: "At dawn, for the birds.",
+        tempo: "2-3 hours",
+        lat: 10.30661,
+        lng: -84.80742,
+        url: "https://www.reservacuricancha.com/",
+        consiglio: "For dawn birdwatching you can book a private guide, about 50 dollars per person.",
+      },
+      {
+        nome: "Children's Eternal Rainforest, Bajo del Tigre",
+        testo: "The largest private reserve in the country, born from fundraising by children around the world. The Bajo del Tigre sector, by the road, has short trails in a lower, drier forest and a night walk in the evening.",
+        come: "On foot or by taxi from Santa Elena, a few minutes.",
+        quando: "Afternoon, or the evening for the night walk.",
+        tempo: "1.5-2 hours",
+        lat: 10.30572,
+        lng: -84.81922,
+      },
+      {
+        nome: "Night walk in the forest",
+        testo: "An evening walk with a guide and torch to see frogs, insects, tarantulas, sloths and other animals that only move after dark. The Kinkajou Night Walk Tour is considered the best. There is a dedicated experience page.",
+        come: "Departure after sunset with a guide; bring a torch and closed shoes.",
+        quando: "Evening, from 5.30-6 pm.",
+        tempo: "1.5 hours",
+        costo: "Kinkajou Night Walk 28 USD per person, about 24 €",
+        consiglio: "Some find it long: you can ask the guide to keep it to between an hour and a quarter and an hour and a half. Bring a jacket.",
+      },
+      {
+        nome: "Zip-line adventure",
+        testo: "A course of cables above the forest. Monteverde's are among the best in the country and longer than La Fortuna's: 100% Aventura states on its website the longest cable in Costa Rica, 1,590 metres, over 10 lines. There is a dedicated experience page.",
+        come: "Book with the operator, with hotel transfer; two sessions, at dawn and late morning.",
+        quando: "Morning.",
+        tempo: "3 hours",
+        costo: "About 60 USD; 100% Aventura from 72 USD per person (2026), about 52-62 €",
+        url: "https://www.aventuracanopytour.com/",
+        consiglio: "If after the third line you don't feel up to it, you can stop and get a 75% refund.",
+      },
+      {
+        nome: "Selvatura and Sky Adventures hanging bridges",
+        testo: "Two private parks north of Santa Elena with trails of hanging bridges at canopy height, where you see epiphytes, orchids and canopy birds up close. Sky Adventures also has a cable car; both combine the bridges with zip lines.",
+        come: "Park shuttle or taxi from Santa Elena, 15-20 minutes.",
+        quando: "Morning, before the afternoon clouds.",
+        tempo: "2 hours",
+      },
+      {
+        nome: "Coffee farm",
+        testo: "A visit to a farm with a tasting and an explanation of the process, from plant to cup. Some tours add chocolate and sugar cane.",
+        come: "Tour booked locally, with transport.",
+        quando: "Early afternoon: book the slot in advance.",
+        tempo: "2 hours",
+      },
+      {
+        nome: "Santa Elena",
+        testo: "The town where you sleep and eat, with sodas, agencies, supermarkets and the departure point for reserve shuttles. It is small and walkable, but evenings are cold and often rainy.",
+        come: "On foot.",
+        quando: "Evening, for dinner.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 10.3175,
+        lng: -84.8241,
+      },
+    ],
+    programmi: [
+      { titolo: "1 day", tappe: [
+        "Morning: Monteverde Reserve with a guide",
+        "Lunch in Santa Elena",
+        "Afternoon: coffee farm",
+        "Evening: night walk",
+      ] },
+      { titolo: "2 days", tappe: [
+        "Day 1: coffee in the afternoon and night walk",
+        "Day 2: dawn birdwatching at Curi-Cancha, then zip line in late morning",
+      ] },
+      { titolo: "3 days", tappe: [
+        "Days 1-2 as above",
+        "Day 3: Monteverde or Santa Elena reserve in the morning, hanging bridges in the afternoon",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Santa Elena",
+        perChi: "services and budget",
+        testo: "Restaurants, agencies and hotels on foot; for the reserves you need a taxi or shuttle.",
+        fascia: "50-110 €",
+      },
+      {
+        nome: "Cerro Plano",
+        perChi: "halfway",
+        testo: "The road between Santa Elena and the Monteverde reserve, with hotels set in gardens, Bajo del Tigre and Curi-Cancha minutes away.",
+        fascia: "80-170 €",
+      },
+      {
+        nome: "Forest lodges",
+        perChi: "those seeking nature",
+        testo: "Lodges and cabins on the edge of the forest, more isolated and pricier, often with their own trails.",
+        fascia: "da 200 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Casado",
@@ -730,6 +1112,46 @@ export const destinazioniCostaRica: Destinazione[] = [
         "The mountain roads to the reserve are narrow and slow: allow time, and book your entry slot online.",
         "For birds and wildlife you need a guide: alone you see much less."
       ],
+    gite: [
+      {
+        nome: "Tigre Waterfalls",
+        distanza: "nearby, with organised transport",
+        come: "Organised hike with transport and lunch included.",
+        testo: "A trail through pasture and forest with several waterfalls and hanging bridges, wilder than the reserves; an alternative to the coffee farm in the afternoon.",
+      },
+      {
+        nome: "Lake Arenal and La Fortuna",
+        distanza: "about 3 hours by jeep-boat-jeep",
+        come: "Combined shuttle and boat transfer across the lake; better as the next stop with a night there.",
+        testo: "Arenal volcano, La Fortuna waterfall and the natural hot springs. Crossing the lake with the volcano ahead is the nicest way to move between the two areas.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Which reserve should you choose in Monteverde?",
+        risposta: "Monteverde is the most famous and visited, with timed entry to book; Santa Elena is higher and quieter; Curi-Cancha is the birdwatchers' favourite. With only one morning, do one of the three with a guide.",
+      },
+      {
+        domanda: "How many days do you need in Monteverde?",
+        risposta: "Two days: one for a reserve, coffee and the night walk, one for zip lines and birdwatching. A third adds another reserve and the hanging bridges.",
+      },
+      {
+        domanda: "Do you need a guide in the cloud forest?",
+        risposta: "It is not compulsory, but alone you see much less: guides carry a scope and know where to look for quetzals, sloths and frogs. For the night walk it is essential.",
+      },
+      {
+        domanda: "Is it cold in Monteverde?",
+        risposta: "Yes, compared with the rest of the country: you are at about 1,400 metres, evenings get cold and it often rains. Bring a waterproof jacket and a jumper.",
+      },
+      {
+        domanda: "How much is the zip line in Monteverde?",
+        risposta: "About 60 dollars per person for a three-hour course; 100% Aventura starts from 72 dollars (2026). There are two sessions, at dawn and late morning.",
+      },
+      {
+        domanda: "Can you see the quetzal?",
+        risposta: "With a guide and some luck, yes, especially early in the morning between February and June, when it nests. Curi-Cancha and the Monteverde reserve are the best places.",
+      },
+    ],
     esperienzeSlugs: ['camminata-notturna-monteverde', 'zipline-monteverde'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The Monteverde cloud forest, Costa Rica",
@@ -876,71 +1298,146 @@ export const destinazioniCostaRica: Destinazione[] = [
     cosaFare: ["Guided visit of the park, included (there's a dedicated experience page)", "Free time on the beach inside the park"],
     doveDormire: "We didn't sleep here: it was a half-day stop on the way back to San José.",
     doveMangiare: "I have no addresses to suggest: the stop was entirely given over to the park visit.",
-    comeArrivare: "About 1.5 hours of transfer from Uvita.",
+    comeArrivare: "From Uvita it is about an hour and a half's transfer on the Costanera. From San José it takes about 3 hours by car, via Jacó and the Tárcoles bridge; direct buses from San José reach Quepos and continue to the park entrance. Quepos also has a small airport with domestic flights from San José. From the park back to San José, allow 3.5-4 hours with traffic.",
     comeSpostarsi: "On foot along the park trails, with a guide.",
     periodoMigliore: "early morning: we left before dawn",
-    costi: "Remember that the park is closed on Tuesdays.",
+    costi: "I didn't note down the ticket price; today it is about 18 dollars for foreigners, online only on the SINAC portal, and the park is closed on Tuesday. Rough daily budget per person for 2026: low 60-90 € (lodging in Quepos, sodas, park without a guide); mid 140-200 € (hotel on the park road, guide, dinner with a view); high from 300 € (hotel overlooking the Pacific, catamaran trip).",
     erroriDaEvitare: ["Forgetting that the park is closed on Tuesdays: better to check beforehand and, if necessary, move the visit earlier"],
     miaEsperienza:
       "Manuel Antonio is a beautiful park, but with so many people there you almost feel like you're going to the zoo. It's still very beautiful. Thanks to the guide we saw sloths, monkeys and iguanas up close along trails we'd have struggled to read on our own.",
-      "luoghi": [
-        {
-          "nome": "Manuel Antonio National Park",
-          "testo": "A small but life-rich park: sloths, capuchin monkeys, iguanas and hummingbirds along the trails, with beaches inside the park. There is a dedicated experience card.",
-          "come": "From Quepos by bus or car, in a few minutes. With a guide you see many more animals.",
-          "quando": "Early morning, when the animals are active. Open Wednesday to Monday, 7am-4pm; closed on Tuesdays.",
-          "tempo": "3-4 hours",
-          "costo": "About 18 USD for foreign adults (16 USD plus VAT, 2025-2026), online only and with limited places.",
-          "url": "https://serviciosenlinea.sinac.go.cr/",
-          "consiglio": "With the guide we saw sloths, monkeys and iguanas up close along trails that we would have struggled much more to read alone."
-        },
-        {
-          "nome": "Playa Manuel Antonio and Playa Espadilla Sur",
-          "testo": "Beaches inside the park, with pale sand and calm water. You can swim after the visit.",
-          "come": "From the park trails.",
-          "quando": "Mid-morning.",
-          "tempo": "1-2 hours",
-          "consiglio": "Do not feed the animals and do not leave backpacks unattended: monkeys open them."
-        },
-        {
-          "nome": "Tárcoles bridge",
-          "testo": "Along the route from Uvita, the bridge with the large crocodiles of the Tárcoles river.",
-          "come": "Stop on the Costanera.",
-          "quando": "Daytime.",
-          "tempo": "20-30 minutes"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "Half a day",
-          "tappe": [
-            "Arrive when the park opens",
-            "Guided visit of 2-3 hours",
-            "Swim at the beach",
-            "Lunch in Quepos and return"
-          ]
-        },
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: park with a guide",
-            "Afternoon: Manuel Antonio public beach",
-            "Evening: sunset over the sea"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Road between Quepos and the park",
-          "perChi": "views and convenience",
-          "testo": "Hotels with coast views, but bus and taxi traffic."
-        },
-        {
-          "nome": "Quepos",
-          "perChi": "budget",
-          "testo": "Cheaper, with restaurants and a market."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Manuel Antonio National Park",
+        testo: "A small park full of life: sloths, capuchin and squirrel monkeys, iguanas and hummingbirds along the trails, with beaches inside the park. It is one of the most famous and crowded parks in the country. There is a dedicated experience page.",
+        come: "You get there from Quepos by bus or car in a few minutes. With a guide you see many more animals; bags are checked: no food in plastic bags and no alcohol.",
+        quando: "At opening, when animals are active and there are fewer people.",
+        tempo: "3-4 hours",
+        costo: "About 18 USD for foreign adults (16 USD plus VAT, 2025-2026), about 16 €, online only and with limited places",
+        orari: "Wednesday to Monday 7 am-4 pm; closed Tuesday",
+        lat: 9.37556,
+        lng: -84.13583,
+        url: "https://serviciosenlinea.sinac.go.cr/",
+        consiglio: "With the guide we saw sloths, monkeys and iguanas up close along trails we would have found much harder to read on our own.",
+      },
+      {
+        nome: "Playa Manuel Antonio and Playa Espadilla Sur",
+        testo: "Beaches inside the park, with pale sand and calm water, separated by the Punta Catedral tombolo. Playa Manuel Antonio, in the most sheltered bay, is one of the most beautiful beaches in the country.",
+        come: "From the park trails, with the entry ticket.",
+        quando: "Mid-morning, after the guided walk.",
+        tempo: "1-2 hours",
+        lat: 9.38088,
+        lng: -84.1456,
+        consiglio: "Don't feed the animals or leave bags unattended: monkeys and raccoons open them.",
+      },
+      {
+        nome: "Punta Catedral trail",
+        testo: "A loop through the forest on the headland that was once an island, joined to the coast by a sandbar. It climbs and drops with steps and viewpoints over the Pacific and the islets off the park.",
+        come: "Inside the park, starting between the two beaches.",
+        quando: "Morning, when it is less hot.",
+        tempo: "1 hour",
+        lat: 9.3779,
+        lng: -84.14679,
+      },
+      {
+        nome: "Playa Espadilla",
+        testo: "The long public beach outside the park, in front of Manuel Antonio village, with umbrellas, beginner surf and sunsets over the sea. It is free and open on Tuesdays too.",
+        come: "On foot from the park entrance.",
+        quando: "Afternoon and sunset.",
+        tempo: "2-3 hours",
+        costo: "Free",
+        lat: 9.39898,
+        lng: -84.1596,
+        consiglio: "Currents can be strong: swim near the lifeguards and where others are swimming.",
+      },
+      {
+        nome: "Playa Biesanz",
+        testo: "A small cove hidden between the forest and the hillside hotels, with calm water and a little snorkelling among the rocks. Monkeys are often in the trees above the sand.",
+        come: "On foot down a short, steep path from the road between Quepos and the park.",
+        quando: "Morning, or on Tuesday when the park is closed.",
+        tempo: "2 hours",
+        costo: "Free",
+        lat: 9.4009,
+        lng: -84.16844,
+      },
+      {
+        nome: "Quepos and Marina Pez Vela",
+        testo: "The area's service town, with the market, cheap sodas and the marina where sport fishing and catamaran trips leave from. The seafront is pleasant at sunset.",
+        come: "Bus or taxi from the park, about 15 minutes.",
+        quando: "Lunch after the park, or evening.",
+        tempo: "1-2 hours",
+        lat: 9.42642,
+        lng: -84.16872,
+      },
+      {
+        nome: "Isla Damas mangroves",
+        testo: "A mangrove estuary north of Quepos, explored by boat or kayak through channels with capuchin monkeys, herons and crocodiles. It is a quiet afternoon outing.",
+        come: "Tour with transfer from Quepos or Manuel Antonio, about 20 minutes.",
+        quando: "Afternoon, at high tide.",
+        tempo: "2-3 hours",
+        lat: 9.46458,
+        lng: -84.1931,
+      },
+      {
+        nome: "Carara National Park",
+        testo: "On the Costanera towards San José, a transitional forest between dry and wet, famous for scarlet macaws flying to the coast at sunset. The trails near the road are short and flat.",
+        come: "A stop on the Costanera, about 1.5 hours from Manuel Antonio; tickets on the SINAC portal.",
+        quando: "Early morning or late afternoon, for the macaws.",
+        tempo: "1-2 hours",
+        lat: 9.74722,
+        lng: -84.62778,
+        url: "https://serviciosenlinea.sinac.go.cr/",
+      },
+      {
+        nome: "Tárcoles bridge",
+        testo: "On the way between Uvita and San José, the bridge under which large American crocodiles gather on the sandbanks of the Tárcoles river. The stop is a must.",
+        come: "A stop on the Costanera; you walk along the bridge footpath.",
+        quando: "Daytime.",
+        tempo: "20-30 minutes",
+        costo: "Free",
+        lat: 9.80087,
+        lng: -84.60611,
+        consiglio: "Don't leave anything visible in a car parked near the bridge.",
+      },
+    ],
+    programmi: [
+      { titolo: "Half a day", tappe: [
+        "Arrive at park opening",
+        "2-3 hour guided walk",
+        "Swim at Playa Manuel Antonio",
+        "Lunch in Quepos and head back",
+      ] },
+      { titolo: "1 day", tappe: [
+        "Morning: park with a guide and Punta Catedral",
+        "Afternoon: Playa Espadilla or Playa Biesanz",
+        "Evening: sunset over the sea",
+      ] },
+      { titolo: "On the way back to San José", tappe: [
+        "Leave before dawn and the park at opening",
+        "Lunch in Quepos",
+        "Stops at Carara and the Tárcoles bridge",
+        "Arrive in San José in the evening",
+      ] },
+    ],
+    zone: [
+      {
+        nome: "Road between Quepos and the park",
+        perChi: "views and convenience",
+        testo: "Hillside hotels with coastal views, many with pools, but bus and taxi traffic.",
+        fascia: "110-330 €",
+      },
+      {
+        nome: "Near the entrance and Playa Espadilla",
+        perChi: "those entering at opening",
+        testo: "Hotels and cabinas walking distance from the park and the public beach, with simple restaurants.",
+        fascia: "90-200 €",
+      },
+      {
+        nome: "Quepos",
+        perChi: "budget",
+        testo: "Cheaper, with restaurants, the market and the marina; take the bus or a taxi to the park.",
+        fascia: "60-110 €",
+      },
+    ],
       "sapori": [
         {
           "nome": "Fish casado",
@@ -966,6 +1463,52 @@ export const destinazioniCostaRica: Destinazione[] = [
         "Since 30 April 2026 fines for entering through unofficial access points or closed areas are high: stay on marked trails.",
         "It's one of the most crowded parks in the country: with all those people it feels like a zoo at times. Arriving at opening time helps."
       ],
+    gite: [
+      {
+        nome: "Nauyaca Waterfalls",
+        distanza: "about 1.5 hours south",
+        come: "By car towards Dominical, then on foot or by 4x4 from the entrance.",
+        testo: "Two tiered falls with a large pool for swimming, in the Barú valley. They are reached by a walk of a few kilometres.",
+      },
+      {
+        nome: "Uvita and Marino Ballena National Park",
+        distanza: "about 1-1.5 hours south",
+        come: "By car on the Costanera.",
+        testo: "The Cola de la Ballena, the whale-tail sandbar visible at low tide, and humpback whale trips, best from January to March and from July to October.",
+      },
+      {
+        nome: "Jacó",
+        distanza: "about 1 hour north",
+        come: "By car on the Costanera, on the way to San José.",
+        testo: "The surf town closest to San José, with a long beach of steady waves, surf schools and nightlife.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Is Manuel Antonio Park closed on Tuesday?",
+        risposta: "Yes, it opens Wednesday to Monday 7 am-4 pm; in heavy rain SINAC can close it on other days too. On Tuesday, go to Playa Espadilla or Biesanz.",
+      },
+      {
+        domanda: "How do you buy tickets?",
+        risposta: "Online only, on SINAC's official portal, with limited places: they are not sold at the gate. Sites reselling them with a mark-up are not official.",
+      },
+      {
+        domanda: "Do you need a guide at Manuel Antonio?",
+        risposta: "It is not compulsory, but with the guide's scope you see sloths, frogs and snakes you would miss alone. Certified guides are at the entrance or booked in advance.",
+      },
+      {
+        domanda: "How long do you need for the park?",
+        risposta: "Half a day: two to three hours of trails with a guide and an hour or two on the beach. It works as a stop on the way back to San José.",
+      },
+      {
+        domanda: "Can you swim in the park?",
+        risposta: "Yes, at Playa Manuel Antonio and Espadilla Sur, where the water is usually calm. Keep bags closed and close by, because monkeys and raccoons steal food.",
+      },
+      {
+        domanda: "Is it too crowded?",
+        risposta: "It is one of the most visited parks in the country and at times it feels like a zoo, but it is still very beautiful. Arriving at opening and avoiding weekends helps.",
+      },
+    ],
     esperienzeSlugs: ['parco-manuel-antonio'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "A sloth among the trees of Manuel Antonio National Park, Costa Rica",
