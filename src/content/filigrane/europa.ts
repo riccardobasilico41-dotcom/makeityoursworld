@@ -142,6 +142,11 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
       cosa: 'Pulcinelle di mare, tavola ornitologica',
       fonte: { titolo: 'Naturgeschichte der Vögel Deutschlands, tav. 335 (Lunda arctica)', autore: 'Johann Andreas e Johann Friedrich Naumann', anno: '1820-1860', url: C + 'Johann_Andreas_Naumann%27s_..._Naturgeschichte_der_V%C3%B6gel_Deutschlands,_nach_einigen_Erfahrungen_entworfen_(Taf._335)_(6058937141).jpg', licenza: 'Pubblico dominio' },
     },
+    b: {
+      src: '/images/filigrane/islanda-b.webp',
+      cosa: 'Una varða (ometto di pietre) sulla strada da Reykjavík a Þingvellir, con cavalieri, pecore e i monti innevati dello Hengill, litografia',
+      fonte: { titolo: 'Varda, route de Reykjavík à Thingvellir (Voyage en Islande et au Groënland)', autore: 'Auguste Mayer (disegno), A. Joly (litografia)', anno: '1838-1852', url: C + 'Gaimard30.jpg', licenza: 'Pubblico dominio' },
+    },
   },
   estonia: {
     a: {
@@ -149,12 +154,70 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
       cosa: 'Tallinn: il Vecchio Mercato (Vana turg) nella città vecchia, acquatinta colorata',
       fonte: { titolo: 'Der Alte Markt zu Reval', autore: 'Theodor Gehlhaar', anno: '1871', url: C + 'Vana_turg_Tallinnas._Der_Alte_Markt_zu_Reval_(cropped,_enhanced).jpg', licenza: 'Pubblico dominio' },
     },
+    b: {
+      src: '/images/filigrane/estonia-b.webp',
+      cosa: 'Tallinn: la collina di Toompea con il castello sulla rupe, incisione (ritagliata senza didascalia)',
+      fonte: { titolo: 'Domberg Reval (A Residence on the Shores of the Baltic, vol. 1, p. 8)', autore: 'Elizabeth Rigby (Lady Eastlake)', anno: '1842', url: C + 'RIGBY(1842)_Baltic_letters,_p1.008_DOMBERG_REVAL.jpg', licenza: 'Pubblico dominio' },
+    },
   },
   lettonia: {
     a: {
       src: '/images/filigrane/lettonia-a.webp',
       cosa: 'Riga: il Municipio (Rathaus) sulla piazza della città vecchia, incisione (ritagliata)',
       fonte: { titolo: 'Das Rathaus in Riga (Raekoda Riias)', autore: 'Theodor Gehlhaar', anno: '1835', url: C + 'Raekoda_Riias._1835,_AM_7469_4_G_602_4.tif', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/lettonia-b.webp',
+      cosa: 'La torre del castello di Turaida nella valle della Gauja, disegno litografico',
+      fonte: { titolo: 'Turaida Castle (Schloss Treyden)', autore: 'August Matthias Hagen', anno: 'prima metà del XIX secolo', url: C + 'Turaida_Castle_by_A._M._Hagen.jpg', licenza: 'Pubblico dominio' },
+    },
+  },
+  inghilterra: {
+    a: {
+      src: '/images/filigrane/inghilterra-a.webp',
+      cosa: 'Londra: la cattedrale di St Paul vista da sud-est, con le carrozze sul sagrato, acquatinta colorata (ritagliata senza titolo)',
+      fonte: { titolo: "South East View of St. Paul's Cathedral", autore: 'Daniel Havell', anno: '1818', url: C + "Havell_family_-_South_East_View_of_St._Paul%27s_Cathedral_-_B1977.14.16242_-_Yale_Center_for_British_Art.jpg", licenza: 'CC0' },
+    },
+    b: {
+      src: '/images/filigrane/inghilterra-b.webp',
+      cosa: 'Stonehenge nella piana di Salisbury, acquerello (ritagliato sulla parte bassa del cielo)',
+      fonte: { titolo: 'Stonehenge', autore: 'John Constable', anno: '1835', url: C + 'Constable_-_Stonehenge,_1629-1888,_2006AK8142.jpg', licenza: 'Pubblico dominio' },
+    },
+  },
+  scozia: {
+    a: {
+      src: '/images/filigrane/scozia-a.webp',
+      cosa: 'Edimburgo: il castello sulla rupe sopra il mercato dei cavalli del Grassmarket, acquaforte (ritagliata senza firma)',
+      fonte: { titolo: 'Edinburgh Castle and Horse Fair', autore: 'Walter Geikie', anno: '1828', url: C + 'Walter_Geikie_-_Edinburgh_Castle_and_Horse_Fair_-_B1977.14.5024_-_Yale_Center_for_British_Art.jpg', licenza: 'CC0' },
+    },
+    b: {
+      src: '/images/filigrane/scozia-b.webp',
+      cosa: 'Loch Lomond tra le montagne delle Highlands, incisione (ritagliata senza titolo)',
+      fonte: { titolo: 'Loch Lomond', autore: 'James Heath', anno: '1805', url: C + 'James_Heath_-_Loch_Lomond_-_B1977.14.6561_-_Yale_Center_for_British_Art.jpg', licenza: 'CC0' },
+    },
+  },
+  irlanda: {
+    a: {
+      src: '/images/filigrane/irlanda-a.webp',
+      cosa: 'Dublino: il Parliament House su College Green, incisione colorata (ritagliata senza didascalia)',
+      fonte: { titolo: 'A Prospect of the Parliament House, in College Green, Dublin', autore: 'Anonimo (Rijksmuseum)', anno: '1753', url: C + 'Gezicht_op_het_House_of_Parliament_aan_het_plein_College_Green_te_Dublin_A_prospect_of_the_Parliament_House,_in_College_Green,_Dublin_(titel_op_object),_RP-P-1932-393.jpg', licenza: 'CC0' },
+    },
+    b: {
+      src: '/images/filigrane/irlanda-b.webp',
+      cosa: "La cascata di O'Sullivan sul lago di Killarney, acquatinta (ritagliata senza didascalia)",
+      fonte: { titolo: "View of O'Sullivans Waterfall, Lake of Killarney, Ireland", autore: 'Francis Jukes', anno: '1801', url: C + 'Francis_Jukes_-_View_of_O%27Sullivans_Waterfall,_Lake_of_Killarney,_Ireland_-_B1977.14.14451_-_Yale_Center_for_British_Art.jpg', licenza: 'CC0' },
+    },
+  },
+  'irlanda-del-nord': {
+    a: {
+      src: '/images/filigrane/irlanda-del-nord-a.webp',
+      cosa: 'Il Selciato del Gigante (Giant\'s Causeway) con le colonne di basalto sul mare, incisione (ritagliata senza didascalia)',
+      fonte: { titolo: "The Giant's Causeway (Fisher's Drawing Room Scrap Book)", autore: 'Thomas Mann Baynes (disegno), William Le Petit (incisione)', anno: '1832', url: C + 'The_Giant%27s_Causeway,_1832_(IA_jstor-30002626)_(page_1_crop).jpg', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/irlanda-del-nord-b.webp',
+      cosa: 'Le rovine del castello di Dunluce sulla scogliera di Antrim, incisione su acciaio',
+      fonte: { titolo: 'Dunluce Castle', autore: 'William Miller (incisione), da John Thomson of Duddingston', anno: '1848', url: C + 'Dunluce_Castle_engraving_by_William_Miller.jpg', licenza: 'Pubblico dominio' },
     },
   },
   lituania: {

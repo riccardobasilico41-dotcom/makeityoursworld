@@ -224,6 +224,11 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
       cosa: 'Condor delle Ande',
       fonte: { titolo: 'Nouveau recueil de planches coloriées d\'oiseaux', autore: 'Temminck, Laugier de Chartrouse', anno: '1838', url: 'https://commons.wikimedia.org/wiki/File:Nouveau_recueil_de_planches_colori%C3%A9es_d%27oiseaux_(6286223052).jpg', licenza: 'Pubblico dominio' },
     },
+    b: {
+      src: '/images/filigrane/bolivia-b.webp',
+      cosa: 'Potosí ai piedi del Cerro Rico, la montagna d\'argento, incisione (ritagliata senza cartiglio e cornice)',
+      fonte: { titolo: 'Veduta della città, e della Montagna del Potosi (Atlante dell\'America)', autore: 'Giuseppe Maria Terreni (incisione), Giovanni Tommaso Masi (editore)', anno: '1777', url: 'https://commons.wikimedia.org/wiki/File:Veduta_della_citt%C3%A0,_e_della_Montagna_del_Potosi._G._M._T._fe._(IA_dr_veduta-della-citt-e-della-montagna-del-potosi-g-m-t-fe-14343052).jpg', licenza: 'Pubblico dominio' },
+    },
   },
   brasile: {
     a: {

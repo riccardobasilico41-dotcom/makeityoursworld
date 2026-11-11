@@ -253,6 +253,17 @@ export const filigraneAsia: Record<string, FiligranaPaese> = {
         licenza: 'Pubblico dominio',
       },
     },
+    b: {
+      src: '/images/filigrane/filippine-b.webp',
+      cosa: 'Manila: venditori e passanti con bilancieri e ombrelli davanti alle mura della città, litografia (ritagliata senza cornice e didascalie)',
+      fonte: {
+        titolo: 'View of Manila, Capital of Luzon Island, Philippine Islands',
+        autore: 'Friedrich Heinrich von Kittlitz (disegno)',
+        anno: '1826-1829',
+        url: 'https://commons.wikimedia.org/wiki/File:View_of_Manila,_Capital_of_Luzon_Island,_Philippine_Islands,_1826-1829.png',
+        licenza: 'Pubblico dominio',
+      },
+    },
   },
   maldive: {
     a: {
