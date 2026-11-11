@@ -1393,12 +1393,10 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     doveDormire:
       'Economiche: piccoli hotel in centro · fascia media: eco-lodge in stile siwano fuori dal centro · lusso: Adrère Amellal, senza elettricità, a lume di candela.',
-    comeArrivare:
-      'Bus notturno dal Cairo (circa 10-12 ore) oppure in due tappe passando per Marsa Matruh; in alternativa auto con autista o tour organizzato. Lungo la strada ci sono posti di blocco: passaporto sempre a portata di mano.',
+    comeArrivare: "Siwa è a circa 750 km dal Cairo. In auto con autista si va in due giorni, passando per Alessandria ed El Alamein e dormendo a Marsa Matruh, da dove mancano circa quattro ore di deserto (indicativamente 250-400 $ per l'auto andata e ritorno, circa 215-345 €). In alternativa c'è il bus notturno dal Cairo, circa 10-12 ore, o il bus da Marsa Matruh. Lungo la strada ci sono posti di blocco militari che registrano i passaporti: tenerli a portata di mano.",
     comeSpostarsi: 'Bicicletta, tuk-tuk e carretti trainati da asini nell\'oasi; fuoristrada con autista locale per il deserto.',
     periodoMigliore: 'da ottobre ad aprile; le notti d\'inverno nel deserto scendono vicino a 0 °C',
-    costi:
-      'Escursione di mezza giornata nel Grande Mare di Sabbia indicativamente 20-35 $ a persona; il permesso per il deserto viene richiesto dall\'operatore locale, che lo include nel prezzo (indicativo).',
+    costi: "Budget basso circa 30-45 € al giorno a persona (piccolo hotel in centro, bicicletta, siti dell'oasi, cibo nei locali); medio 70-120 € (eco-lodge in stile siwano, mezza giornata nel deserto, tuk-tuk); alto da 250 € in su (lodge di lusso senza elettricità, notte nel deserto con cena, autista privato). Siti 2026: tempio dell'Oracolo e Gebel al-Mawta 120 EGP ciascuno, circa 2 €; escursione nel Grande Mare di Sabbia circa 20-35 $ a persona.",
     erroriDaEvitare: [
       'Andare nel deserto con chi non ha i permessi: le zone verso il confine libico sono controllate dall\'esercito',
       'Indossare abiti succinti in paese: Siwa è una comunità conservatrice, e anche al lago o alle sorgenti si fa il bagno coperti',
@@ -1409,28 +1407,105 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Fortezza di Shali",
-        "testo": "La vecchia cittadella di fango e sale, danneggiata da tre giorni di piogge nel 1926 e poi abbandonata dagli abitanti. Dalla cima si vede tutta l'oasi.",
-        "come": "A piedi dal centro di Siwa.",
+        "testo": "La vecchia cittadella di kershef, un impasto di fango e sale, danneggiata da tre giorni di piogge nel 1926 e poi abbandonata dagli abitanti. Dalla cima si vedono i palmeti, i laghi salati e le montagne del deserto.",
+        "come": "A piedi dal centro di Siwa: si sale tra i vicoli fino alla cima.",
         "quando": "Tramonto.",
-        "tempo": "1 ora"
+        "tempo": "1 ora",
+        "costo": "Pochi EGP.",
+        "lat": 29.2011,
+        "lng": 25.5184
       },
       {
         "nome": "Tempio dell'Oracolo di Amon",
-        "testo": "Le rovine sul colle di Aghurmi dove, secondo la tradizione, Alessandro Magno venne a consultare l'oracolo, che lo riconobbe figlio del dio e faraone.",
-        "come": "In bici o taxi dal centro.",
+        "testo": "Le rovine sul colle di Aghurmi dove, secondo la tradizione, Alessandro Magno venne nel 331 a.C. a consultare l'oracolo, che lo riconobbe figlio del dio e faraone. Intorno restano le case di fango del vecchio villaggio.",
+        "come": "In bici o tuk-tuk dal centro, circa 4 km.",
         "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "1 ora",
+        "costo": "120 EGP, circa 2 € (2026).",
+        "lat": 29.2051,
+        "lng": 25.5434,
+        "url": "https://egymonuments.com/"
+      },
+      {
+        "nome": "Tempio di Umm Ubayda",
+        "testo": "Poco lontano da Aghurmi resta un unico muro decorato del secondo tempio di Amon, fatto saltare nell'Ottocento per ricavarne pietra. È una sosta breve, sulla strada verso la sorgente di Cleopatra.",
+        "come": "In bici o tuk-tuk da Aghurmi, pochi minuti.",
+        "quando": "Insieme all'Oracolo.",
+        "tempo": "15 minuti"
+      },
+      {
+        "nome": "Gebel al-Mawta",
+        "testo": "La montagna dei morti, una collina bucata da tombe tolemaiche e romane. Le poche tombe dipinte aperte, come quella di Si-Amun, conservano colori ancora vivi.",
+        "come": "A piedi o in bici dal centro, circa 1 km; le tombe dipinte si visitano con il custode.",
+        "quando": "Mattina, prima del caldo.",
+        "tempo": "1 ora",
+        "costo": "120 EGP, circa 2 € (2026).",
+        "lat": 29.2114,
+        "lng": 25.5251,
+        "url": "https://egymonuments.com/"
+      },
+      {
+        "nome": "Sorgente di Cleopatra",
+        "testo": "Una vasca rotonda di acqua tiepida in mezzo ai palmeti, la più famosa delle sorgenti dell'oasi, con qualche caffè intorno.",
+        "come": "In bici o tuk-tuk dal centro, circa 3 km.",
+        "quando": "Pomeriggio, dopo i siti.",
+        "tempo": "1 ora",
+        "lat": 29.197,
+        "lng": 25.5501,
+        "consiglio": "Si fa il bagno coperti, con maglietta e pantaloncini, e le donne a maggior ragione."
+      },
+      {
+        "nome": "Laghi salati",
+        "testo": "Vasche di acqua turchese nate dalle saline intorno all'oasi, così salate che si galleggia come nel Mar Morto. Le rive bianche di sale sono uno dei paesaggi più fotografati di Siwa.",
+        "come": "In tuk-tuk o con un operatore, spesso nella stessa uscita del deserto.",
+        "quando": "Pomeriggio, con rientro al tramonto.",
+        "tempo": "1-2 ore",
+        "consiglio": "Dopo il bagno serve una doccia di acqua dolce, che molti operatori portano in taniche; niente bagno con tagli o ferite."
+      },
+      {
+        "nome": "Isola di Fatnas",
+        "testo": "Un promontorio di palme sul lago di Siwa, a ovest del paese, con un caffè e la vista sul lago e sulle montagne del deserto. È il posto classico per il tramonto.",
+        "come": "In bici o tuk-tuk dal centro, circa 5 km.",
+        "quando": "Tramonto.",
+        "tempo": "1 ora",
+        "lat": 29.1926,
+        "lng": 25.4794
+      },
+      {
+        "nome": "Gebel Dakrour",
+        "testo": "La montagna a sud-est dell'oasi dove d'estate si praticano i bagni di sabbia calda, un rimedio tradizionale contro i reumatismi. Dalla cima si vede tutta l'oasi.",
+        "come": "In bici o tuk-tuk dal centro, circa 4 km.",
+        "quando": "Tardo pomeriggio per la salita; i bagni di sabbia sono in estate.",
         "tempo": "1 ora"
       },
       {
-        "nome": "Deserto, laghi salati e sorgente di Cleopatra",
-        "testo": "Gita in fuoristrada verso il Grande Mare di Sabbia con sandboarding, tramonto sulle dune e bagno nelle sorgenti, come l'antica sorgente naturale detta Bagno di Cleopatra, e nei laghi salati.",
-        "come": "Solo con un operatore locale, che ha il permesso per il deserto.",
-        "quando": "Pomeriggio, con rientro al tramonto.",
+        "nome": "Grande Mare di Sabbia e Bir Wahed",
+        "testo": "L'uscita in fuoristrada tra dune alte decine di metri, con sandboarding, tramonto dalla cresta di una duna e bagno nelle sorgenti in mezzo alla sabbia. La più conosciuta è Bir Wahed, una vasca calda nel mezzo delle dune.",
+        "come": "Solo con un operatore locale, che chiede il permesso per il deserto con il passaporto consegnato la sera prima.",
+        "quando": "Pomeriggio, con rientro al tramonto; o con una notte in campo tendato.",
         "tempo": "Mezza giornata",
-        "consiglio": "Chiedere se bagno e cena sono inclusi, e portare una giacca per la sera."
+        "costo": "Mezza giornata circa 20-35 $ a persona, circa 17-30 €, permesso incluso; notte nel deserto circa 50-90 $, circa 45-80 €, con cena e colazione.",
+        "lat": 29.1222,
+        "lng": 25.4336,
+        "consiglio": "Scegliere un operatore con fuoristrada in buono stato e almeno due auto per uscita, e portare una giacca per la sera."
       }
     ],
     programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: tempio dell'Oracolo, Umm Ubayda e Gebel al-Mawta",
+          "Pomeriggio: sorgente di Cleopatra",
+          "Tramonto: fortezza di Shali o isola di Fatnas"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: bicicletta nell'oasi, Gebel al-Mawta, fortezza di Shali al tramonto",
+          "Giorno 2: Aghurmi e sorgente di Cleopatra al mattino, Grande Mare di Sabbia e laghi salati nel pomeriggio"
+        ]
+      },
       {
         "titolo": "3 giorni",
         "tappe": [
@@ -1444,12 +1519,24 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Centro di Siwa",
         "perChi": "chi vuole stare vicino a tutto",
-        "testo": "Hotel e guesthouse vicino al mercato e alla fortezza. Semplici."
+        "testo": "Hotel e guesthouse vicino al mercato e alla fortezza. Semplici.",
+        "fascia": "20-40 €"
       },
       {
         "nome": "Eco-lodge nell'oasi",
         "perChi": "chi vuole natura e silenzio",
-        "testo": "Case in fango tra le palme, più care e poco comode da raggiungere a piedi."
+        "testo": "Case in fango tra le palme, più care e poco comode da raggiungere a piedi.",
+        "fascia": "60-120 €"
+      },
+      {
+        "nome": "Lodge di lusso ai piedi delle montagne",
+        "perChi": "chi vuole un'esperienza particolare",
+        "testo": "Come Adrère Amellal, costruito in kershef, senza elettricità e a lume di candela, isolato vicino al lago."
+      },
+      {
+        "nome": "Campo tendato nel deserto",
+        "perChi": "chi vuole una notte sotto le stelle",
+        "testo": "Una notte nel Grande Mare di Sabbia con cena e fuoco, organizzata dagli operatori con il permesso; d'inverno fa freddo."
       }
     ],
     sapori: [
@@ -1468,6 +1555,46 @@ export const destinazioniEgitto: Destinazione[] = [
       "Tenere il passaporto a portata di mano ai posti di blocco.",
       "Le notti d'inverno nel deserto sono fredde: portare abiti pesanti.",
       "Strade: il governo britannico (ottobre 2026) considera Siwa e la strada da Marsa Matruh fuori dalle zone sconsigliate, ma sconsiglia i viaggi non essenziali sulla strada tra Bahariya e Siwa."
+    ],
+    gite: [
+      {
+        "nome": "Marsa Matruh ed El Alamein",
+        "distanza": "Marsa Matruh circa 300 km, 4 ore; El Alamein altre 3 ore verso il Cairo",
+        "come": "In auto con autista, come tappa del viaggio di andata o ritorno.",
+        "testo": "Marsa Matruh ha spiagge di sabbia bianca sul Mediterraneo; a El Alamein ci sono i sacrari militari e il museo della battaglia del 1942. Si dorme a Matruh per spezzare il viaggio."
+      },
+      {
+        "nome": "Una notte nel Grande Mare di Sabbia",
+        "distanza": "a 1-2 ore di fuoristrada dall'oasi",
+        "come": "Solo con operatori locali autorizzati, che organizzano campo, cena e permesso.",
+        "testo": "Il tramonto e l'alba sulle dune, il cielo stellato e il silenzio totale. D'inverno le notti si avvicinano a 0 °C: servono abiti pesanti e una frontale."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Siwa?",
+        "risposta": "Tre giorni sul posto più i due di viaggio dal Cairo. Con due giorni si vedono i siti dell'oasi e si fa una sola uscita nel deserto."
+      },
+      {
+        "domanda": "Come si arriva a Siwa dal Cairo?",
+        "risposta": "In auto con autista in due giorni, dormendo a Marsa Matruh, oppure con il bus notturno di circa 10-12 ore. Ai posti di blocco si mostra il passaporto."
+      },
+      {
+        "domanda": "Serve un permesso per il deserto?",
+        "risposta": "Sì, per il Grande Mare di Sabbia e le zone verso il confine libico. Lo chiede l'operatore locale con il passaporto, e il costo è di solito incluso nell'escursione."
+      },
+      {
+        "domanda": "Siwa è sicura?",
+        "risposta": "Il governo britannico (ottobre 2026) considera Siwa e la strada da Marsa Matruh fuori dalle zone sconsigliate, ma sconsiglia i viaggi non essenziali sulla strada tra Bahariya e Siwa. Nel deserto si va solo con operatori autorizzati."
+      },
+      {
+        "domanda": "Come bisogna vestirsi?",
+        "risposta": "Siwa è una comunità conservatrice: spalle e ginocchia coperte anche per gli uomini, e alle sorgenti ci si bagna vestiti. L'alcol è quasi introvabile e le donne del posto non si fotografano."
+      },
+      {
+        "domanda": "Quando andare?",
+        "risposta": "Da ottobre ad aprile. D'estate fa troppo caldo; d'inverno le giornate sono miti ma le notti nel deserto scendono vicino a 0 °C."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -1500,13 +1627,11 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     doveDormire:
       'Hurghada: El Gouna e Sahl Hasheesh per la fascia media e alta, Hurghada città per la fascia economica. Marsa Alam: resort isolati con reef davanti, eco-lodge come quello di Wadi Lahami per i sub. Sharm: Naama Bay per la vita serale, Nabq per i resort.',
-    comeArrivare:
-      'Voli diretti dall\'Italia su Hurghada, Marsa Alam e Sharm el-Sheikh (molti charter stagionali); voli interni dal Cairo; da Luxor 4 ore di strada per Hurghada, 4-4,5 per Marsa Alam.',
+    comeArrivare: "Ci sono voli diretti dall'Italia su Hurghada (HRG), Marsa Alam (RMF) e Sharm el-Sheikh (SSH), molti charter stagionali, e voli interni dal Cairo tutto l'anno. Da Luxor in auto con autista servono circa 4 ore per Hurghada (indicativamente 70-120 $, circa 60-105 €) e 4-4,5 per Marsa Alam (100-150 $, circa 85-130 €). L'aeroporto di Marsa Alam è a circa 60 km a nord della città, vicino a Port Ghalib; dal Sinai a Luxor serve quasi sempre un volo via Cairo.",
     comeSpostarsi: 'Transfer organizzati dal resort, taxi e minivan con autista; per le escursioni in barca si parte dai porti turistici.',
     periodoMigliore:
       'mare caldo da maggio a novembre; da dicembre a marzo acqua sui 22 °C e vento forte, con giornate da muta di 5 mm',
-    costi:
-      'Escursione in barca di snorkeling con pranzo indicativamente 30-50 $; immersione singola 35-55 $, pacchetto da 10 immersioni 300-400 $; corso Open Water 400-550 $; liveaboard di 7 notti 1.000-1.800 € più tasse del parco (indicativi).',
+    costi: "Budget basso circa 50-70 € al giorno a persona (hotel in città a Hurghada, snorkeling dalla riva, cibo nei locali); medio 100-160 € (resort con reef e mezza pensione, un'uscita in barca o due immersioni); alto da 250 € in su (resort isolato con spiaggia privata, immersioni ogni giorno o crociera subacquea). Escursioni: snorkeling in barca circa 30-50 $, circa 25-45 €; immersione singola 35-55 $, circa 30-47 €; corso Open Water 400-550 $, circa 345-475 €; liveaboard di 7 notti 1.000-1.800 € più tasse del parco.",
     erroriDaEvitare: [
       'Scegliere Sharm pensando di andare comodamente a Luxor: dal Sinai serve un volo, quasi sempre via Cairo',
       'Toccare o camminare sul corallo e comprare conchiglie o coralli: è vietato e l\'export si sequestra in aeroporto',
@@ -1517,29 +1642,130 @@ export const destinazioniEgitto: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        "nome": "Hurghada",
-        "testo": "Una delle principali località turistiche della costa, con escursioni in barca per lo snorkeling e le immersioni sulle isole Giftun e sui reef al largo.",
-        "come": "Escursioni da prenotare con un operatore locale dal proprio hotel.",
+        "nome": "Hurghada e le isole Giftun",
+        "testo": "Una delle principali località turistiche della costa, con escursioni in barca per lo snorkeling e le immersioni sulle isole Giftun e sui reef al largo. Orange Bay, sulla Giftun grande, ha sabbia bianca e acqua bassissima.",
+        "come": "Escursioni da prenotare con un operatore locale dal proprio hotel, con partenza dalla marina.",
         "quando": "Tutto l'anno; da dicembre a marzo l'acqua scende a 21-23 °C, ad agosto arriva a 28 °C.",
-        "tempo": "Giornata"
+        "tempo": "Giornata",
+        "costo": "Uscita di snorkeling con pranzo circa 30-50 $, circa 25-45 €.",
+        "lat": 27.2021,
+        "lng": 33.9502
+      },
+      {
+        "nome": "El Gouna",
+        "testo": "La cittadina costruita sulle lagune a nord di Hurghada, con canali, isolotti collegati da ponti, una marina e la vita serale più curata della costa. È anche una base per il kitesurf.",
+        "come": "In taxi o con la navetta degli hotel da Hurghada, circa 30 minuti.",
+        "quando": "Sera, per la marina e i ristoranti; il vento per il kite soffia soprattutto in primavera ed estate.",
+        "tempo": "Mezza giornata",
+        "lat": 27.385,
+        "lng": 33.6792
+      },
+      {
+        "nome": "Relitto del Thistlegorm",
+        "testo": "Il mercantile britannico affondato nel 1941 nello stretto di Gubal, con il carico ancora a bordo: motociclette, camion, munizioni e locomotive. È tra le immersioni su relitto più famose al mondo.",
+        "come": "In giornata lunga da Hurghada o da Sharm el-Sheikh, o durante una crociera subacquea; serve il brevetto Advanced.",
+        "quando": "Partenza all'alba; con il mare mosso le uscite si annullano.",
+        "tempo": "Giornata, con due immersioni",
+        "lat": 27.8142,
+        "lng": 33.92
       },
       {
         "nome": "Marsa Alam e Abu Dabbab",
-        "testo": "Più a sud e più tranquilla: la baia di Abu Dabbab, nota per le tartarughe marine, e più a sud il parco nazionale di Wadi el-Gemal, dove vivono anche dugonghi e tartarughe verdi. L'aeroporto riceve voli turistici anche dall'Italia.",
-        "come": "In auto da Luxor o con voli diretti.",
-        "quando": "Mattina presto, con meno barche.",
+        "testo": "Più a sud e più tranquilla: la baia sabbiosa di Abu Dabbab, nota per le tartarughe verdi che pascolano sulle praterie a pochi metri di profondità e, con fortuna, per il dugongo. Si fa da riva ed è adatta a ogni livello, anche in snorkeling.",
+        "come": "In auto da Luxor o con voli diretti; la baia è a nord della città, sulla strada per El Quseir.",
+        "quando": "Mattina presto, prima dei gruppi in giornata dagli altri resort.",
+        "tempo": "Mezza giornata",
+        "costo": "Ingresso per chi non soggiorna nella baia circa 10-20 $, circa 9-17 €.",
+        "lat": 25.3386,
+        "lng": 34.7397,
+        "consiglio": "Niente contatto con gli animali e distanza dalle tartarughe: le regole della baia sono rigide."
+      },
+      {
+        "nome": "Dolphin House (Samadai)",
+        "testo": "Il reef a ferro di cavallo a sud di Marsa Alam dove vivono i delfini spinner, in una zona protetta ad accesso limitato. Si nuota in superficie nell'area consentita e si lascia che siano i delfini ad avvicinarsi.",
+        "come": "Solo in barca con un'escursione organizzata, a numero chiuso.",
+        "quando": "Mattina, con il mare calmo.",
         "tempo": "Giornata",
-        "consiglio": "Una buona scelta per chi cerca soprattutto lo snorkeling."
+        "costo": "Escursione con pranzo circa 40-60 $, circa 35-50 €.",
+        "lat": 24.9858,
+        "lng": 34.9966
+      },
+      {
+        "nome": "Elphinstone",
+        "testo": "Un reef lungo e stretto in mare aperto, al largo di Marsa Alam, con correnti, pareti verticali e, da ottobre a dicembre, gli squali longimano. È un'immersione per sub esperti.",
+        "come": "In barca dai porti vicino a Marsa Alam; serve l'Advanced, spesso con un minimo di immersioni registrate.",
+        "quando": "Da ottobre a dicembre per gli squali; con vento forte le barche non escono.",
+        "tempo": "Mezza giornata",
+        "costo": "Due immersioni in barca circa 70-110 $, circa 60-95 €, attrezzatura a parte.",
+        "lat": 25.3092,
+        "lng": 34.8607,
+        "consiglio": "Tenere un giorno di riserva per il meteo, e almeno 18-24 ore tra l'ultima immersione e il volo."
+      },
+      {
+        "nome": "Wadi el Gemal e Sharm el Luli",
+        "testo": "Il parco nazionale a sud di Marsa Alam unisce deserto, mangrovie e reef, e vi vivono anche dugonghi e tartarughe verdi. La baia di Sharm el Luli ha una sabbia bianca e un'acqua tra le più chiare della costa.",
+        "come": "In escursione o in auto, circa un'ora a sud di Marsa Alam; molte gite aggiungono le mangrovie di Qulan, vicino a Hamata.",
+        "quando": "Partenza presto: nelle prime ore la spiaggia è quasi vuota.",
+        "tempo": "Giornata",
+        "costo": "Escursione circa 35-60 $, circa 30-50 €.",
+        "lat": 24.5542,
+        "lng": 35.1455,
+        "consiglio": "È un'area protetta: si entra in acqua dalla sabbia, senza camminare sul corallo, e non si raccoglie nulla."
       },
       {
         "nome": "Sharm el-Sheikh e Ras Mohammed",
-        "testo": "Immersioni e snorkeling nel parco nazionale di Ras Mohammed, con il relitto del Thistlegorm non lontano.",
-        "come": "Voli diretti dall'Europa e dal Cairo.",
+        "testo": "Immersioni e snorkeling nel parco nazionale di Ras Mohammed, sulla punta del Sinai, con pareti di corallo che scendono a picco e grandi banchi di pesci. Il relitto del Thistlegorm non è lontano.",
+        "come": "Voli diretti dall'Europa e dal Cairo; il parco si raggiunge in barca o in auto da Sharm.",
         "quando": "Tutto l'anno.",
-        "tempo": "Giornata"
+        "tempo": "Giornata",
+        "lat": 27.7694,
+        "lng": 34.2097
+      },
+      {
+        "nome": "Stretto di Tiran",
+        "testo": "Quattro reef in fila nello stretto tra il Sinai e l'isola di Tiran, con correnti, coralli molli e spesso pelagici. Sono la seconda uscita classica da Sharm dopo Ras Mohammed.",
+        "come": "In barca da Sharm el-Sheikh, circa un'ora di navigazione.",
+        "quando": "Mattina, prima che si alzi il vento.",
+        "tempo": "Giornata",
+        "lat": 28.0039,
+        "lng": 34.4653
+      },
+      {
+        "nome": "Naama Bay",
+        "testo": "La baia con il lungomare pedonale di Sharm el-Sheikh, piena di ristoranti, locali e centri diving. È il punto di partenza di molte uscite in barca.",
+        "come": "In taxi dagli hotel della zona di Sharm, 10-20 minuti.",
+        "quando": "Sera.",
+        "tempo": "2 ore",
+        "lat": 27.9053,
+        "lng": 34.3242
+      },
+      {
+        "nome": "Dahab e il Blue Hole",
+        "testo": "Un paese più rilassato a un'ora da Sharm, con reef che partono dalla riva. Il Blue Hole è una dolina sommersa sul bordo del reef: in superficie si fa bene lo snorkeling, mentre il fondo è solo per apneisti e sub tecnici.",
+        "come": "In auto o in escursione da Sharm el-Sheikh, circa un'ora; a Dahab ci si muove a piedi e in taxi.",
+        "quando": "Mattina, prima dei gruppi da Sharm.",
+        "tempo": "Giornata",
+        "lat": 28.5722,
+        "lng": 34.5374,
+        "consiglio": "Sotto il Blue Hole non scendere oltre i limiti del proprio brevetto: è uno dei punti più pericolosi del Mar Rosso."
       }
     ],
     programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: snorkeling dalla riva del resort o ad Abu Dabbab",
+          "Pomeriggio: riposo e reef con la luce bassa",
+          "Sera: pesce del giorno in un ristorante fuori dal resort"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: snorkeling dalla riva e battesimo o immersione dal reef di casa",
+          "Giorno 2: uscita in barca a Dolphin House, alle Giftun o a Ras Mohammed secondo la base"
+        ]
+      },
       {
         "titolo": "3 giorni",
         "tappe": [
@@ -1547,23 +1773,39 @@ export const destinazioniEgitto: Destinazione[] = [
           "Giorno 2: barca per i reef al largo o Ras Mohammed",
           "Giorno 3: corso o immersioni"
         ]
+      },
+      {
+        "titolo": "4 giorni a Marsa Alam",
+        "tappe": [
+          "Giorno 1: arrivo, check-in al diving e reef di casa",
+          "Giorno 2: Abu Dabbab con le tartarughe",
+          "Giorno 3: Elphinstone per i sub esperti o Dolphin House",
+          "Giorno 4: Wadi el Gemal e Sharm el Luli, senza immersioni se si vola il giorno dopo"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Hurghada",
         "perChi": "chi vuole molta scelta e prezzi bassi",
-        "testo": "Resort ovunque e vita serale, con costa molto costruita."
+        "testo": "Resort ovunque e vita serale, con costa molto costruita. Gli hotel in città sono i più economici, Sahl Hasheesh e Makadi la fascia media, El Gouna la più curata.",
+        "fascia": "40-130 €"
       },
       {
         "nome": "Marsa Alam",
         "perChi": "chi vuole reef e tranquillità",
-        "testo": "Resort sul reef, lontani dalle città: ideale per lo snorkeling."
+        "testo": "Resort sul reef, lontani dalle città: ideale per lo snorkeling. I resort più isolati con spiaggia privata superano i 180 € a notte.",
+        "fascia": "70-130 €"
       },
       {
         "nome": "Sharm el-Sheikh",
         "perChi": "chi vuole immersioni e resort grandi",
-        "testo": "Molti resort e centri diving, parchi marini vicini."
+        "testo": "Molti resort e centri diving, parchi marini vicini. Naama Bay per la vita serale, Nabq per i resort."
+      },
+      {
+        "nome": "Eco-lodge per sub nel sud",
+        "perChi": "chi viene soprattutto per immergersi",
+        "testo": "Campi come quello di Wadi Lahami, tra Marsa Alam e Berenice, con il diving sul posto e i reef più integri; comodità essenziali."
       }
     ],
     sapori: [
@@ -1590,6 +1832,58 @@ export const destinazioniEgitto: Destinazione[] = [
       "Per le crociere subacquee chiedere all'operatore il brevetto e l'esperienza richiesti.",
       "Da dicembre a marzo l'acqua è sui 21-23 °C e c'è spesso vento: serve una muta più spessa.",
       "Sinai: il governo britannico (ottobre 2026) sconsiglia ogni viaggio nel Nord Sinai e i viaggi non essenziali nell'interno del Sud Sinai oltre la strada Santa Caterina-Nuweiba; le coste, compresa Sharm el-Sheikh, ne sono escluse."
+    ],
+    gite: [
+      {
+        "nome": "Luxor",
+        "distanza": "circa 4 ore da Hurghada, 4-4,5 da Marsa Alam",
+        "come": "Auto con autista o escursione in giornata con partenza all'alba; meglio con una notte.",
+        "testo": "Karnak, il tempio di Luxor e la Valle dei Re. In giornata è molto stancante: con una notte si vede anche la riva ovest con calma."
+      },
+      {
+        "nome": "El Quseir",
+        "distanza": "circa 1,5 ore a nord di Marsa Alam",
+        "come": "In auto o in taxi lungo la strada costiera.",
+        "testo": "Un vecchio porto del Mar Rosso con la fortezza ottomana, le case di corallo e legno del centro e il lungomare. Un'alternativa tranquilla ai resort."
+      },
+      {
+        "nome": "Monastero di Santa Caterina",
+        "distanza": "circa 3 ore da Sharm el-Sheikh",
+        "come": "Escursione organizzata, spesso di notte per salire sul Monte Sinai all'alba.",
+        "testo": "Il monastero ortodosso ai piedi del Monte Sinai, tra i più antichi ancora abitati. Il governo britannico (ottobre 2026) sconsiglia i viaggi non essenziali nell'interno del Sud Sinai oltre la strada Santa Caterina-Nuweiba: controllare gli avvisi prima di partire."
+      },
+      {
+        "nome": "Dahab",
+        "distanza": "circa 1 ora da Sharm el-Sheikh",
+        "come": "In auto o in escursione.",
+        "testo": "Il Blue Hole, i reef dalla riva e un lungomare di caffè bassi sul mare. Si può anche dormire qui qualche notte."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Meglio Hurghada, Marsa Alam o Sharm el-Sheikh?",
+        "risposta": "Marsa Alam per il reef dalla riva e la tranquillità, Hurghada per voli, prezzi e vita serale, Sharm per Ras Mohammed e Tiran. Solo Hurghada e Marsa Alam sono collegate a Luxor via strada."
+      },
+      {
+        "domanda": "Serve il brevetto per vedere le tartarughe?",
+        "risposta": "No: ad Abu Dabbab le tartarughe pascolano a pochi metri di profondità e si vedono bene in snorkeling. Per Elphinstone e il Thistlegorm serve invece l'Advanced."
+      },
+      {
+        "domanda": "Com'è l'acqua d'inverno?",
+        "risposta": "Da dicembre a marzo è sui 21-23 °C, con vento frequente: per immergersi serve una muta da 5-7 mm. Da maggio a novembre è calda, fino a 28 °C ad agosto."
+      },
+      {
+        "domanda": "Si possono portare via conchiglie o coralli?",
+        "risposta": "No: è vietato e in aeroporto i controlli li sequestrano, insieme alla sabbia. Anche toccare o calpestare il corallo è vietato."
+      },
+      {
+        "domanda": "Quanto tempo deve passare tra l'ultima immersione e il volo?",
+        "risposta": "Almeno 18-24 ore. L'ultimo giorno si passa sul reef in maschera o in spiaggia."
+      },
+      {
+        "domanda": "Il Sinai è sicuro?",
+        "risposta": "Il governo britannico (ottobre 2026) sconsiglia ogni viaggio nel Nord Sinai e i viaggi non essenziali nell'interno del Sud Sinai oltre la strada Santa Caterina-Nuweiba; le coste, compresa Sharm el-Sheikh, ne sono escluse."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

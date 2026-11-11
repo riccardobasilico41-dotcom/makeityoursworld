@@ -22,10 +22,10 @@ export const destinazioniTransilvania: Destinazione[] = [
       "On arrival we slept at the Hotel Duke Romana (Piața Romană area), a 3-star with mixed but overall positive reviews: good breakfast, comfortable beds and good value for money, with a few complaints about the attic rooms. On the way back, at the Hotel Continental Forum (Palace of the Parliament area), a 4-star, with very positive reviews on breakfast, staff and rooms.\n\nArrival alternatives: budget: Hello Hotels Bucharest, Trianon Hotel · mid-range: Casa Mendeleev · luxury (affordable): Epoque Hotel, Grand Hotel Continental.\n\nReturn alternatives: budget: Hotel Parliament, Volo Hotel Bucharest · mid-range: Filitti Boutique Hotel · luxury (affordable): Radisson Blu Hotel Bucharest, JW Marriott Bucharest Grand Hotel.",
     doveMangiare: "Caru' cu Bere for the welcome dinner; Hanu' lui Manuc or Excalibur for the farewell dinner.",
     usciteSerali: 'The Lipscani district, full of bars and venues with music until late; Freddo, St. Patrick, the Grădina Dorobanți garden.',
-    comeArrivare: "International flight to Bucharest, then taxi from the airport (best to use official taxis or a ride-hailing app).",
+    comeArrivare: "You land at Henri Coandă airport in Otopeni, about 17 km north of the centre. The train reaches Gara de Nord in 20-25 minutes (about 6-7 lei); express bus 100, running 24 hours a day, stops at Piața Victoriei, Universitate and Piața Unirii (about 3 lei with a contactless card). Taxis are booked from the touch screens in arrivals and should not cost more than 60 lei to the centre; Bolt and Uber have a signposted pick-up area.",
     comeSpostarsi: 'On foot in the center, Uber, Bolt or taxi for the rest.',
     periodoMigliore: 'Halloween long weekend or early November',
-    costi: 'Tickets for the Palace of the Parliament, Romanian Athenaeum and Spa on the official websites.',
+    costi: "Daily budget per person, as a guide: low €40-60 (hostel or simple hotel, taverns, metro), mid €80-120 (central hotel, traditional restaurants, two entry tickets), high from €180. Tickets in 2026: Palace of the Parliament 85 lei (about €17), Village Museum 40 lei (about €8), Therme from 141 lei (about €28). Dinner at Caru' cu Bere costs about €25-30 per person.",
     erroriDaEvitare: ['Running out of cash: it is best to withdraw as soon as you land, because some traditional places prefer cash in lei'],
     miaEsperienza:
       "The Palace of the Parliament, with its out-of-scale size, tells the megalomania of the Ceaușescu regime before you even go in. It was one of the most impressive guided visits of the trip.",
@@ -36,7 +36,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "Visitor entrance shown on the official website. Bring your passport and book ahead.",
         quando: "Weekday morning; the state rooms may be closed for events.",
         tempo: "1-1.5 hours",
-        costo: "tour prices on the official website",
+        costo: "standard tour 85 lei adults, about €17 (2026)",
+        lat: 44.4275,
+        lng: 26.0875,
+        url: "https://cic.cdep.ro/en/vizitare",
         consiglio: "The oversized scale tells the regime's megalomania even before you go in."
       },
       {
@@ -45,7 +48,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "On foot, at Piața Revoluției.",
         quando: "Morning or on a concert evening.",
         tempo: "30-45 minutes",
-        costo: "tickets and concerts on the official website",
+        costo: "building visit about €2; symphony concerts 120-160 lei, about €24-32",
+        lat: 44.4413,
+        lng: 26.0973,
+        url: "https://fge.org.ro",
         consiglio: "If possible, attend a concert: the acoustics are excellent."
       },
       {
@@ -54,6 +60,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "On foot, near Piața Unirii.",
         quando: "Evening.",
         tempo: "2 hours",
+        costo: "free",
+        orari: "Always open.",
+        lat: 44.43237,
+        lng: 26.09862,
         consiglio: "Check menu prices: some places are designed for tourists."
       },
       {
@@ -62,6 +72,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In the centre, Strada Stavropoleos.",
         quando: "Dinner; book.",
         tempo: "1.5-2 hours",
+        costo: "about €25-30 per person for a main course, a drink and dessert",
+        lat: 44.4321,
+        lng: 26.0981,
         url: "https://www.carucubere.ro",
         consiglio: "Try the sarmale and the papanași."
       },
@@ -71,6 +84,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In King Michael I Park (formerly Herăstrău), north of the centre, by metro or bus.",
         quando: "Morning; the park is pleasant.",
         tempo: "1.5-2 hours",
+        costo: "40 lei adults, about €8 (2026)",
+        orari: "Open every day, with seasonal hours; closed at Easter, on 25-26 December and on 1-2 January.",
+        lat: 44.47336,
+        lng: 26.07656,
         url: "https://www.muzeul-satului.ro",
         consiglio: "Combine with a walk in Herăstrău park."
       },
@@ -80,9 +97,105 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "By taxi or shuttle from Bucharest: directions on the official website.",
         quando: "All day, especially the last day.",
         tempo: "full day",
-        costo: "prices on the official website",
+        costo: "Galaxy area 141 lei Monday to Thursday and 151 lei Friday to Sunday (about €28-30); The Palm and Elysium cost more",
+        orari: "Monday-Thursday 10:00-23:00, Friday and Saturday 9:00-24:00, Sunday 9:00-23:00; facilities close 30 minutes earlier.",
+        lat: 44.60542,
+        lng: 26.08536,
         url: "https://therme.ro",
         consiglio: "Book online to skip the queue."
+      },
+      {
+        nome: "Stavropoleos Monastery",
+        testo: "A small church from 1724 in Brâncovenesc style, with a porch of carved stone columns and frescoes, now a convent. Gravestones and fragments of demolished churches are gathered in the courtyard.",
+        come: "On foot, on Strada Stavropoleos, next to Caru' cu Bere.",
+        quando: "Daytime; during services enter quietly.",
+        tempo: "20-30 minutes",
+        costo: "free",
+        lat: 44.43182,
+        lng: 26.09879,
+        url: "https://www.stavropoleos.ro"
+      },
+      {
+        nome: "Cărturești Carusel",
+        testo: "A bookshop on six levels inside a restored early 20th-century bank building, with white balconies and a café on the top floor. Opened in 2015, it is one of the most photographed interiors in the city.",
+        come: "On foot, at Strada Lipscani 55.",
+        quando: "Morning or late afternoon on weekdays.",
+        tempo: "30-45 minutes",
+        costo: "free",
+        lat: 44.43189,
+        lng: 26.10161,
+        url: "https://carturesti.ro"
+      },
+      {
+        nome: "Hanu' lui Manuc",
+        testo: "Bucharest's oldest caravanserai still in use, built in 1808 by the Armenian merchant Manuc Bei: a courtyard enclosed by two floors of wooden galleries, now a restaurant and hotel.",
+        come: "On foot, opposite Curtea Veche, near Piața Unirii.",
+        quando: "Lunch or dinner; book at weekends.",
+        tempo: "1.5 hours",
+        lat: 44.42944,
+        lng: 26.10194
+      },
+      {
+        nome: "Curtea Veche (Old Princely Court)",
+        testo: "The remains of the princely court where in 1459 Vlad III signed the first document to name Bucharest. Next to it stands the Church of the Annunciation, the oldest in the city still in use. In 2026 the site is undergoing safety works.",
+        come: "On foot, on Strada Franceză, in the old town.",
+        quando: "Daytime, together with Lipscani.",
+        tempo: "30 minutes",
+        lat: 44.43009,
+        lng: 26.10129
+      },
+      {
+        nome: "Piața Revoluției and Calea Victoriei",
+        testo: "The square where in December 1989 Ceaușescu gave his last speech from the balcony of the former Central Committee, with the Memorial of Rebirth in the middle. Around it stand the Athenaeum, the Central University Library and the former Royal Palace.",
+        come: "On foot along Calea Victoriei, about 10 minutes from Piața Romană and Universitate.",
+        quando: "Daytime, or in the evening when the buildings are lit.",
+        tempo: "30-45 minutes",
+        costo: "free",
+        orari: "Always open.",
+        lat: 44.43866,
+        lng: 26.0975
+      },
+      {
+        nome: "National Museum of Art (former Royal Palace)",
+        testo: "In the former Royal Palace on Piața Revoluției: the gallery of old Romanian art, with icons and liturgical objects, the gallery of modern Romanian art, with Grigorescu and Brâncuși, and a gallery of European art.",
+        come: "On foot, Calea Victoriei 49-53.",
+        quando: "Morning, on a rainy day.",
+        tempo: "2 hours",
+        lat: 44.44016,
+        lng: 26.09553,
+        url: "https://www.mnar.ro"
+      },
+      {
+        nome: "Cișmigiu Gardens",
+        testo: "The oldest public garden in the centre, laid out in the mid-19th century by the German landscape gardener Carl Meyer, with a lake, rowing boats in summer and an ice rink in winter.",
+        come: "On foot, between Bulevardul Regina Elisabeta and Strada Știrbei Vodă.",
+        quando: "Afternoon, for a break between visits.",
+        tempo: "1 hour",
+        costo: "free",
+        lat: 44.43726,
+        lng: 26.0906
+      },
+      {
+        nome: "Spring Palace (Ceaușescu House)",
+        testo: "The Ceaușescus' private residence until 1989, in the Primăverii district: original furniture, the mosaic swimming pool, the cinema room and Elena Ceaușescu's wardrobe. Visits are guided and must be booked.",
+        come: "By taxi or metro (Aviatorilor), then a 10-minute walk.",
+        quando: "By booking, at set times.",
+        tempo: "1 hour",
+        orari: "Tuesday-Sunday 10:00-17:00; closed on Mondays.",
+        lat: 44.46888,
+        lng: 26.09232,
+        url: "https://casaceausescu.ro",
+        consiglio: "It pairs well with the Palace of the Parliament: two sides of the same regime."
+      },
+      {
+        nome: "Arch of Triumph",
+        testo: "The 27-metre arch at the start of Șoseaua Kiseleff, in its current granite form from 1936, dedicated to independence and the 1918 union. You see it in passing on the way to the Village Museum.",
+        come: "Metro Aviatorilor or bus along Șoseaua Kiseleff.",
+        quando: "Daytime.",
+        tempo: "15 minutes",
+        costo: "free from outside",
+        lat: 44.46719,
+        lng: 26.07813
       }
     ],
     sapori: [
@@ -108,6 +221,110 @@ export const destinazioniTransilvania: Destinazione[] = [
       "To drive in Romania you need the road vignette (rovinieta), to have before you set off.",
       "Pickpockets at Gara de Nord and on the metro.",
       "The Palace of the Parliament requires a passport: bring it."
+    ],
+    faq: [
+      {
+        domanda: "How many days do you need in Bucharest?",
+        risposta: "One full day is enough for the Palace of the Parliament, Lipscani and Calea Victoriei. Two days add the Village Museum and the Spring Palace; three, the Therme spa or a trip to Mogoșoaia or Snagov."
+      },
+      {
+        domanda: "How do you get from the airport to the centre?",
+        risposta: "By train to Gara de Nord in 20-25 minutes, by express bus 100 to Piața Unirii, or by taxi booked from the touch screens in arrivals, for no more than about 60 lei."
+      },
+      {
+        domanda: "Do you need to book the Palace of the Parliament?",
+        risposta: "Yes: entry is by guided tour only, and small groups usually book by phone the day before. You need an ID document and there is no left-luggage."
+      },
+      {
+        domanda: "Do you need cash in lei?",
+        risposta: "Cards are accepted almost everywhere in the centre, but some traditional places, guides and car parks prefer cash. It is best to withdraw as soon as you land."
+      },
+      {
+        domanda: "Do Uber and Bolt work?",
+        risposta: "Yes, they are the easiest way to get around outside the centre. For traditional taxis, choose ones with displayed fares, such as Cobălcescu or Cris Taxi."
+      },
+      {
+        domanda: "Can you go to the Therme spa before your flight?",
+        risposta: "Yes: Therme is in Balotești, 10-15 minutes from Otopeni airport. Just leave at least 2 hours before your flight."
+      }
+    ],
+    gite: [
+      {
+        nome: "Sinaia and Peleș Castle",
+        distanza: "about 2 hours by car",
+        come: "By car along the DN1 or by train from Gara de Nord.",
+        testo: "Carol I's summer residence in the Prahova valley, with Pelișor Castle next door. Peleș is closed on Mondays and Tuesdays and, in 2026, from 2 November to 1 December."
+      },
+      {
+        nome: "Mogoșoaia Palace",
+        distanza: "about 15 km north-west",
+        come: "By car or taxi, half an hour depending on traffic.",
+        testo: "The Brâncovenesc-style palace of 1702, on a lake, with a large park. A half day out of the city."
+      },
+      {
+        nome: "Snagov Monastery",
+        distanza: "about 40 km north",
+        come: "By car; the monastery stands on an island in the lake, reached by a footbridge.",
+        testo: "A small 16th-century monastery where, according to tradition, Vlad the Impaler is buried."
+      },
+      {
+        nome: "Brașov",
+        distanza: "about 3 hours by car without stops",
+        come: "By car along the Prahova valley or by direct train from Gara de Nord.",
+        testo: "The Saxon town with Piața Sfatului and the Black Church, a handy base for Bran and Râșnov."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Palace of the Parliament in the morning, with a guided tour",
+          "Stavropoleos Monastery and Curtea Veche",
+          "Lunch in Lipscani",
+          "Cărturești Carusel",
+          "Calea Victoriei to Piața Revoluției and the Athenaeum",
+          "Dinner at Caru' cu Bere or Hanu' lui Manuc"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: centre as in the one-day plan",
+          "Day 2: Village Museum and King Michael I Park, Arch of Triumph, Spring Palace in the afternoon, evening in Dorobanți"
+        ]
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Day 1: Palace of the Parliament and old town",
+          "Day 2: National Museum of Art, Cișmigiu Gardens, Village Museum and Spring Palace",
+          "Day 3: Mogoșoaia Palace in the morning or half a day at the Therme spa before the flight"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Old Town (Lipscani)",
+        perChi: "those who want to go out in the evening on foot",
+        testo: "Hotels and apartments among the bars of the historic centre, a few steps from everything. Noisy on Friday and Saturday nights.",
+        fascia: "€70-150"
+      },
+      {
+        nome: "Piața Romană and Calea Victoriei",
+        perChi: "those who want a central, well-connected base",
+        testo: "An area served by the metro, 15-20 minutes' walk from Lipscani, with hotels of every category along the main boulevards."
+      },
+      {
+        nome: "Unirii and the Palace of the Parliament",
+        perChi: "those arriving or leaving by car",
+        testo: "Large hotels along the boulevards around Piața Unirii, within walking distance of both the Parliament and the old town."
+      },
+      {
+        nome: "Dorobanți and Primăverii",
+        perChi: "those looking for boutique hotels in a quiet district",
+        testo: "An elegant residential district to the north, with cafés and restaurants; the metro or a taxi is needed for the centre.",
+        fascia: "€110-280"
+      }
     ],
     esperienzeSlugs: ['palazzo-parlamento', 'terme-bucarest'],
     tripSlugs: ['transilvania-express'],
@@ -136,10 +353,10 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     doveDormire: "We didn't sleep here: it was a transit stop between Bucharest and Brașov.",
     doveMangiare: 'Restaurant Bucegi (with terrace) in Sinaia, or a packed lunch or street food to save time.',
-    comeArrivare: 'By car from Bucharest to Sinaia, then from Sinaia to Bran.',
+    comeArrivare: "From Bucharest to Sinaia it is about 2 hours by car along the DN1 and the Prahova valley; from Sinaia to Bran takes about an hour, and from Bran to Brașov half an hour. Sinaia has a railway station on the Bucharest-Brașov line, from which you walk up to Peleș. Bran can also be reached by bus from Brașov, but to see both castles in one day a car is the most practical option.",
     comeSpostarsi: 'Rental car.',
     periodoMigliore: 'morning, to avoid the crowds at the castles',
-    costi: "Tickets and prices for Peleș and Bran on the official websites.",
+    costi: "Daily budget per person, as a guide: low €40-60, mid €70-110, high from €150, plus fuel and parking. Tickets in 2026: Peleș 100 lei (about €20), Pelișor 30 lei (about €6), Bran 100 lei for the standard visit (about €20).",
     erroriDaEvitare: ["Trusting the prices of the stalls and restaurants around Bran Castle: they are tourist traps"],
     miaEsperienza:
       "In terms of architecture Peleș is perhaps the most beautiful castle of the trip, with interiors cared for down to the details in a way Bran, as fascinating as it is, is not. Bran's link with Dracula is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
@@ -148,9 +365,12 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Peleș Castle",
         testo: "The summer residence of Carol I, king of Romania, built between 1873 and 1914 in German neo-Renaissance style. For architecture it is perhaps the most beautiful castle of the trip, with interiors cared for in the smallest details.",
         come: "From Bucharest to Sinaia; from the centre of Sinaia walk up.",
-        quando: "Early morning, to avoid the crush. Closed from 2 November to 1 December 2026 for cleaning and conservation. Closed Monday and Tuesday; Wednesday 10-17, Thursday-Sunday 9:15-17, last entry at 16.",
+        quando: "Early morning, to avoid the crowds.",
         tempo: "1.5 hours",
-        costo: "100 lei adults, ground and first floor (2026)",
+        costo: "100 lei adults, about €20, ground and first floor (2026)",
+        orari: "Closed Monday and Tuesday; Wednesday 10:00-17:00, Thursday-Sunday 9:15-17:00, last entry at 16:00. Closed from 2 November to 1 December 2026.",
+        lat: 45.35984,
+        lng: 25.54265,
         url: "https://peles.ro",
         consiglio: "Tickets, on bilete.peles.ro, have a time slot and cannot be rescheduled."
       },
@@ -161,15 +381,20 @@ export const destinazioniTransilvania: Destinazione[] = [
         quando: "Morning.",
         tempo: "45 minutes",
         costo: "free entry",
+        lat: 45.35533,
+        lng: 25.54962,
         consiglio: "Silence inside."
       },
       {
         nome: "Bran Castle",
         testo: "The fortress on the rock, documented since 1377, famous for its link with Dracula. In fact the link is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
         come: "South-west of Brașov, by car. Tickets on the official website.",
-        quando: "Early morning; on Mondays it opens at 12, other days at 9. Closes at 19 from April to October, at 18 from November to March.",
+        quando: "Early morning.",
         tempo: "1-1.5 hours",
-        costo: "100 lei adults, standard tour (November-December 2026); often sold out: better online",
+        costo: "100 lei adults, about €20, standard visit (November-December 2026); often sold out: better online",
+        orari: "Monday from 12:00, other days from 9:00; closes at 19:00 from April to October, at 18:00 from November to March.",
+        lat: 45.51508,
+        lng: 25.36724,
         url: "https://www.bran-castle.com",
         consiglio: "Vlad the Impaler never lived here: the Dracula link was born for tourism."
       },
@@ -179,7 +404,57 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "By car or train, in Bușteni, just past Sinaia.",
         quando: "Daytime.",
         tempo: "30 minutes",
+        lat: 45.41411,
+        lng: 25.54258,
         consiglio: "Only for those with time."
+      },
+      {
+        nome: "Pelișor Castle",
+        testo: "The smaller castle, built next to Peleș between 1899 and 1902 for the future King Ferdinand and Queen Marie, with Art Nouveau interiors. The visit takes under an hour and it is usually far less crowded.",
+        come: "On foot from Peleș, a few minutes through the park.",
+        quando: "Right after Peleș.",
+        tempo: "45 minutes",
+        costo: "30 lei adults, about €6, full tour (2026)",
+        orari: "Closed Monday and Tuesday; Wednesday 10:00-17:00, Thursday-Sunday 9:15-17:00, last entry at 16:15.",
+        lat: 45.3606,
+        lng: 25.53914,
+        url: "https://peles.ro"
+      },
+      {
+        nome: "Sinaia Casino",
+        testo: "The Belle Époque building of 1912-1913 in Dimitrie Ghica park, commissioned by Carol I on the model of Monte Carlo. Today it is a conference centre with some rooms open to visitors.",
+        come: "On foot, in the park in the centre of Sinaia.",
+        quando: "Daytime, on the way down from Peleș.",
+        tempo: "30-45 minutes",
+        lat: 45.35518,
+        lng: 25.55338
+      },
+      {
+        nome: "Sinaia cable cars (Cota 1400 and Cota 2000)",
+        testo: "From the upper part of Sinaia the cable car climbs to Cota 1400 and the Carp gondola continues to Cota 2000, in the Bucegi mountains, with trails and views over the Prahova valley. In autumn 2026 the Cota 1000-1400 section is closed; the other lifts run when the weather allows.",
+        come: "From the cable car station at the end of Sinaia's centre.",
+        quando: "A clear day; in winter for skiing.",
+        tempo: "half a day",
+        lat: 45.34949,
+        lng: 25.54595
+      },
+      {
+        nome: "Urlătoarea Waterfall",
+        testo: "A waterfall in the woods above Bușteni, at the foot of the Bucegi, reached by an easy marked trail. An outdoor stop between Sinaia and Bran.",
+        come: "On foot from the upper part of Bușteni, along the marked trail.",
+        quando: "May to October; in winter the trail can be icy.",
+        tempo: "1.5 hours there and back",
+        lat: 45.3962,
+        lng: 25.51574
+      },
+      {
+        nome: "Bran Village Museum",
+        testo: "A small open-air museum at the foot of the castle, with farmhouses, granaries and workshops from the Bran area. A quick visit before or after the castle.",
+        come: "On foot, next to the castle entrance.",
+        quando: "Before or after the castle visit.",
+        tempo: "30 minutes",
+        lat: 45.51495,
+        lng: 25.37004
       }
     ],
     sapori: [
@@ -191,6 +466,96 @@ export const destinazioniTransilvania: Destinazione[] = [
     attenzioni: [
       "Early morning: the castles fill with groups by late morning.",
       "Peleș is closed on Mondays and Tuesdays; Bran opens only at 12 on Mondays. Tickets on the official websites."
+    ],
+    faq: [
+      {
+        domanda: "Can you see Peleș and Bran on the same day?",
+        risposta: "Yes, leaving Bucharest early: Peleș in the morning, lunch in Sinaia and Bran in the afternoon, with an hour's drive between them. In the evening Brașov is half an hour away."
+      },
+      {
+        domanda: "When is Peleș closed?",
+        risposta: "On Mondays and Tuesdays, plus a few weeks a year for cleaning and conservation: in 2026 from 2 November to 1 December. It is worth checking peles.ro before setting off."
+      },
+      {
+        domanda: "Do you need to book tickets?",
+        risposta: "For Peleș, online tickets on bilete.peles.ro have a time slot and cannot be changed. At Bran the standard visit often sells out at weekends: better to buy online."
+      },
+      {
+        domanda: "Is Bran really Dracula's castle?",
+        risposta: "No: Vlad the Impaler never lived there, and the link with Bram Stoker's novel was created for tourism. The castle is still worth the visit."
+      },
+      {
+        domanda: "Can you take photos inside Peleș?",
+        risposta: "Amateur photos without flash are allowed under the castle rules, but professional shoots are charged separately."
+      },
+      {
+        domanda: "Can you get there without a car?",
+        risposta: "Yes, but it takes longer: train from Bucharest to Sinaia for Peleș, then train to Brașov and bus to Bran. Seeing everything in one day is hard."
+      }
+    ],
+    gite: [
+      {
+        nome: "Râșnov Fortress",
+        distanza: "about 15 km from Bran",
+        come: "By car, on the road between Bran and Brașov.",
+        testo: "The peasant fortress on a crag, with the Hollywood-style sign. In 2026 the citadel is under restoration and you visit the garden."
+      },
+      {
+        nome: "Brașov",
+        distanza: "about half an hour from Bran",
+        come: "By car or bus.",
+        testo: "The Saxon centre with Piața Sfatului, the Black Church and the Tâmpa cable car: the handiest base for the night."
+      },
+      {
+        nome: "LiBEARty Bear Sanctuary in Zărnești",
+        distanza: "about 30 minutes from Bran",
+        come: "By car; visits only with online booking.",
+        testo: "A refuge for bears rescued from captivity, with guided visits in the morning. Book well ahead."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day (from Bucharest to Brașov)",
+        tappe: [
+          "Early start from Bucharest towards Sinaia",
+          "Peleș Castle and Pelișor Castle",
+          "Sinaia Monastery and lunch in the centre",
+          "Photo stop at Cantacuzino Castle in Bușteni",
+          "Bran Castle in the afternoon",
+          "Arrival in Brașov in the evening"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: Peleș, Pelișor, the Casino and the Sinaia cable car, night in Sinaia or Bușteni",
+          "Day 2: Urlătoarea Waterfall in the morning, then Bran and the Village Museum, Râșnov and arrival in Brașov"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sinaia",
+        perChi: "those who want to visit Peleș at opening time",
+        testo: "Hotels and guesthouses in the mountain resort, within walking distance of the castle and the cable car. Easy even without a car, thanks to the train."
+      },
+      {
+        nome: "Bușteni",
+        perChi: "those looking for mountains and trails",
+        testo: "Guesthouses at the foot of the Bucegi, ten minutes north of Sinaia, with views of the Caraiman cliffs."
+      },
+      {
+        nome: "Bran and Râșnov",
+        perChi: "those who want to sleep near the castles",
+        testo: "Village guesthouses around the castle and towards Râșnov. Lower prices, a car is needed.",
+        fascia: "€40-80"
+      },
+      {
+        nome: "Brașov",
+        perChi: "those who want an evening in town",
+        testo: "The old town or the Șchei district, half an hour from Bran: a wider choice of restaurants and bars.",
+        fascia: "€45-140"
+      }
     ],
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
@@ -530,10 +895,10 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     doveDormire: "We didn't sleep here: it was a transit day on the way to Sibiu.",
     doveMangiare: 'Gasthaus Altepost or Vlad Dracul Restaurant in Sighișoara.',
-    comeArrivare: 'By car from Brașov to Viscri, then toward Sighișoara and on to Salina Turda.',
+    comeArrivare: "By car from Brașov to Viscri takes about an hour and twenty minutes, then about an hour from Viscri to Sighișoara, and about 2 hours from Sighișoara to Salina Turda. Sighișoara is also on the Brașov-Cluj railway line, with the station ten minutes' walk from the citadel. From Turda to Sibiu is about an hour and a half by road; the nearest airport to Turda is Cluj-Napoca.",
     comeSpostarsi: 'Rental car; on foot in the old towns.',
     periodoMigliore: 'leave early: it is the longest day behind the wheel of the trip',
-    costi: "Tickets for Viscri, the birthplace and Salina Turda on site or on the official websites; the guide at Salina Turda is paid separately.",
+    costi: "Daily budget per person, as a guide: low €35-55, mid €60-100, high from €140, plus fuel and parking. Tickets in 2026: Salina Turda 75 lei Monday to Friday and 90 lei at weekends (about €15-18), guide extra; Viscri 12 lei (about €2.50); Dracula's birthplace 5 lei for the upper floor (about €1).",
     erroriDaEvitare: ['Going over on time: it is the longest day behind the wheel of the whole trip'],
     miaEsperienza:
       "Salina Turda was one of the nicest surprises of the trip. From a salt mine I didn't expect to go down and find a navigable lake, and even a table football.",
@@ -544,6 +909,8 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "On foot from the car park below; steep lanes.",
         quando: "Early morning, when it is quiet.",
         tempo: "2 hours",
+        lat: 46.2193,
+        lng: 24.7933,
         consiglio: "Climb the tower for the view: the coloured houses from above."
       },
       {
@@ -552,7 +919,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "On foot in the citadel.",
         quando: "Morning.",
         tempo: "1 hour",
-        costo: "ticket on site",
+        costo: "5 lei to go up to the upper floor, about €1",
+        lat: 46.21947,
+        lng: 24.79277,
         consiglio: "Combine it with the climb up the Covered Stairway."
       },
       {
@@ -561,18 +930,82 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "By car from Brașov, towards Sighișoara.",
         quando: "Morning.",
         tempo: "1-1.5 hours",
-        costo: "ticket on site",
+        costo: "12 lei, about €2.50",
+        lat: 46.05471,
+        lng: 25.08862,
         consiglio: "An optional but very authentic stop."
       },
       {
         nome: "Salina Turda",
         testo: "A salt mine that is today an underground park, with an underground lake, a panoramic lift, the echo chamber and an old winch still in place. It was one of the best surprises of the trip.",
         come: "By car from Sighișoara. Tickets at the entrance or online.",
-        quando: "Daily 9-17, last entry 16:20; big groups at weekends.",
+        quando: "On weekdays; at weekends large groups arrive.",
         tempo: "2 hours",
-        costo: "75 lei Monday to Friday, 90 at weekends and holidays (2026); guide on request 205 lei",
+        costo: "75 lei Monday to Friday, 90 at weekends and holidays (about €15-18, 2026); guide on request 205 lei",
+        orari: "Every day 9:00-17:00, last entry at 16:20.",
+        lat: 46.58771,
+        lng: 23.7874,
         url: "https://salinaturda.eu",
         consiglio: "Dress in layers: inside the temperature is low all year."
+      },
+      {
+        nome: "Church on the Hill",
+        testo: "The Gothic Lutheran church at the top of the Covered Stairway, on School Hill, with 15th-century frescoes and a crypt. Behind it spreads the old Saxon cemetery, among the trees.",
+        come: "On foot, climbing the Covered Stairway from the citadel.",
+        quando: "Morning.",
+        tempo: "45 minutes",
+        lat: 46.21763,
+        lng: 24.79055,
+        consiglio: "The cemetery at the back is the quietest spot in town."
+      },
+      {
+        nome: "Piața Cetății",
+        testo: "The citadel's main square, framed by colourful houses with cafés and restaurants. At the end of July it hosts the medieval festival.",
+        come: "On foot, from the Clock Tower.",
+        quando: "Early morning or at sunset.",
+        tempo: "30 minutes",
+        costo: "free",
+        orari: "Always open.",
+        lat: 46.21997,
+        lng: 24.79256
+      },
+      {
+        nome: "Monastery Church",
+        testo: "The Gothic church of the former Dominican monastery, next to the Clock Tower, with a collection of oriental carpets and a Baroque organ.",
+        come: "On foot, at the entrance to the citadel.",
+        quando: "Daytime.",
+        tempo: "20-30 minutes",
+        lat: 46.21965,
+        lng: 24.79348
+      },
+      {
+        nome: "Shoemakers' Tower",
+        testo: "One of the nine surviving towers of the medieval walls, rebuilt in 1681 with a Baroque roof.",
+        come: "On foot, on the north side of the citadel.",
+        quando: "Daytime.",
+        tempo: "20 minutes",
+        costo: "free from outside",
+        lat: 46.22126,
+        lng: 24.79195
+      },
+      {
+        nome: "Turda Gorge (Cheile Turzii)",
+        testo: "A limestone canyon almost 3 km long carved by the Hășdate stream, with a trail along the bottom of the gorge and walls equipped for climbing. An outdoor walk close to Salina Turda.",
+        come: "By car from Turda towards Petreștii de Jos, then on foot from the car park by the cabana.",
+        quando: "April to October, in good weather.",
+        tempo: "2 hours",
+        lat: 46.56389,
+        lng: 23.67917,
+        consiglio: "Shoes with good soles: the rocks along the stream are slippery."
+      },
+      {
+        nome: "Biertan Fortified Church",
+        testo: "One of the largest fortified churches in Transylvania, a UNESCO site, enclosed by three rings of walls on a hill. Inside is the sacristy door with a lock of 19 bolts.",
+        come: "By car, about half an hour from Sighișoara.",
+        quando: "Morning or early afternoon.",
+        tempo: "1 hour",
+        lat: 46.13516,
+        lng: 24.52145
       }
     ],
     sapori: [
@@ -589,6 +1022,96 @@ export const destinazioniTransilvania: Destinazione[] = [
       "It is the longest day at the wheel: leave early.",
       "Tickets for Salina Turda are bought at the entrance or online.",
       "Park outside the Sighișoara citadel."
+    ],
+    faq: [
+      {
+        domanda: "How much time do you need in Sighișoara?",
+        risposta: "The citadel takes 2-3 hours, with the Clock Tower, the Covered Stairway and the Church on the Hill. Biertan or Viscri need an extra half day."
+      },
+      {
+        domanda: "Can you sleep inside the citadel?",
+        risposta: "Yes, there are guesthouses and small hotels within the walls. Leave the car in the car parks below, as the citadel is entered only on foot."
+      },
+      {
+        domanda: "Do you need to book Salina Turda?",
+        risposta: "It is not compulsory: tickets are sold at the entrance or online. Online you skip the queue, which helps above all at weekends."
+      },
+      {
+        domanda: "What is the temperature inside Salina Turda?",
+        risposta: "Cool all year round, even in summer: bring a sweatshirt or a light jacket."
+      },
+      {
+        domanda: "Is the boat ride on the underground lake worth it?",
+        risposta: "It is short and paid separately. The lake is more spectacular seen from above, from the walkways."
+      },
+      {
+        domanda: "Sighișoara and Turda on the same day?",
+        risposta: "Yes, by car: Sighișoara in the morning, about 2 hours' drive and Salina Turda in the afternoon. It is a long day, so start early."
+      }
+    ],
+    gite: [
+      {
+        nome: "Cluj-Napoca",
+        distanza: "about 35 km from Turda",
+        come: "By car along the A3 motorway, or by bus.",
+        testo: "Transylvania's university city, with Union Square and St Michael's Church. It has the nearest airport to Turda."
+      },
+      {
+        nome: "Sibiu",
+        distanza: "about an hour and a half from Turda",
+        come: "By car.",
+        testo: "The Saxon old town with the Large Square and the Bridge of Lies, the starting point for the Transfăgărășan."
+      },
+      {
+        nome: "Brașov",
+        distanza: "about 2 hours from Sighișoara",
+        come: "By car or train.",
+        testo: "The town of the Black Church and Tâmpa, handy for the castles of Bran and Peleș."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day (along the driving route)",
+        tappe: [
+          "Early start from Brașov",
+          "Viscri and the fortified church",
+          "Sighișoara: Clock Tower, Dracula's birthplace, Covered Stairway and Church on the Hill",
+          "Lunch in the citadel",
+          "About 2 hours' drive to Turda",
+          "Salina Turda in the afternoon, then Sibiu or Cluj for the night"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: Viscri, Biertan and Sighișoara, night in the citadel",
+          "Day 2: Salina Turda in the morning and Turda Gorge in the afternoon, then Cluj-Napoca or Sibiu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sighișoara citadel",
+        perChi: "those who want the town in the evening, without crowds",
+        testo: "Guesthouses and small hotels within the walls, among the colourful houses. Reached on foot from the car parks.",
+        fascia: "€45-80"
+      },
+      {
+        nome: "Sighișoara lower town",
+        perChi: "those travelling by car who want easy parking",
+        testo: "Hotels and guesthouses at the foot of the citadel, 5-10 minutes' walk from the Clock Tower.",
+        fascia: "€35-70"
+      },
+      {
+        nome: "Saxon villages (Viscri, Biertan)",
+        perChi: "those looking for silence and restored farmhouses",
+        testo: "Guesthouses in the villages around the fortified churches, with home cooking. A car is needed."
+      },
+      {
+        nome: "Turda and Cluj-Napoca",
+        perChi: "those visiting the salt mine and heading west",
+        testo: "Turda has a few simple hotels near the salt mine; Cluj, half an hour away, has far more choice."
+      }
     ],
     esperienzeSlugs: ['salina-turda'],
     tripSlugs: ['transilvania-express'],

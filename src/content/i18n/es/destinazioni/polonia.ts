@@ -353,13 +353,11 @@ export const destinazioniPolonia: Destinazione[] = [
     cosaFare: [],
     doveDormire: "Se visita en el día desde Cracovia: no está pensada como parada con pernoctación en Oświęcim.",
     doveMangiare: "En la zona del centro de visitantes de Auschwitz I hay un pequeño bar/autoservicio; la mayoría de los visitantes come al volver a Cracovia.",
-    comeArrivare:
-      "Desde Cracovia: autobuses directos desde la estación de autobuses hasta el aparcamiento del Museo, o tren regional hasta la estación de Oświęcim y luego a pie o en autobús hasta la entrada. Existen también tours organizados con traslado, guía y entrada incluidos, con salida desde Cracovia.",
+    comeArrivare: "Desde Cracovia hay autobuses directos desde la estación de autobuses MDA hasta el aparcamiento del Museo, en una hora y media aproximadamente, con salidas cada 20-40 minutos y billete en torno a 34 PLN por trayecto, unos 8 €. Como alternativa, el tren regional llega a la estación de Oświęcim en alrededor de 1 hora y 40 minutos, y desde allí hay unos 2 km hasta la entrada, a pie o en el autobús local. Existen también tours organizados con traslado, guía y entrada incluidos, con salida desde Cracovia.",
     comeSpostarsi: "Entre Auschwitz I y Birkenau funciona una lanzadera gratuita frecuente; a pie se camina mucho, por un terreno en gran parte descubierto.",
     periodoMigliore:
       "todo el año, con consideraciones distintas: en verano hace calor y los recorridos (sobre todo en Birkenau, casi sin sombra) resultan fatigosos; en invierno el frío intenso devuelve quizá más que ninguna otra estación la dureza del lugar. La temporada alta (junio-agosto) es también el periodo con más dificultad para encontrar una plaza de entrada libre.",
-    costi:
-      "La entrada al sitio es gratuita. El coste, cuando lo hay, es el del transporte (autobús/tren) o el del tour organizado con guía, que suele costar algunas decenas de euros por persona.",
+    costi: "La entrada al Memorial es gratuita con el pase nominativo. La visita guiada para visitantes individuales cuesta 150 PLN, unos 35 €, en idioma extranjero (140 PLN en polaco; tarifas 2026, auriculares incluidos). Presupuesto para la jornada: bajo unos 20-30 € (pase gratuito, autobús de ida y vuelta, almuerzo); medio unos 50-70 € (visita con educador, autobús, comidas); alto desde 120 € (tour organizado o traslado privado desde Cracovia).",
     erroriDaEvitare: [
       "Presentarse sin reserva en línea: las entry card, gratuitas, hay que reservarlas con antelación en el sitio oficial visit.auschwitz.org: ya no se compran en el lugar",
       "No comprobar los horarios de temporada: en las horas centrales del día la entrada solo se permite con un guía-educador del Museo o con un tour organizado; la visita libre sin guía solo es posible en las franjas horarias restantes, más tarde por la tarde según la estación",
@@ -369,37 +367,207 @@ export const destinazioniPolonia: Destinazione[] = [
     ],
     luoghi: [
       {
-        nome: "Auschwitz I (Museo)",
-        testo: "El primer campo, con el cartel «Arbeit macht frei» a la entrada, los bloques-museo con las exposiciones nacionales y las vitrinas de objetos personales de las víctimas. Es el lugar de memoria donde se comprende la escala del exterminio.",
-        come: "Desde la estación de autobuses de Cracovia, bus o minibús hasta Oświęcim, o tren hasta la estación y luego autobús o a pie.",
-        quando: "El pase nominativo se reserva online; durante gran parte del día solo se entra con guía.",
-        tempo: "media jornada; el tour guiado estándar dura unas tres horas y media",
-        costo: "la entrada es libre pero requiere el pase por franja horaria",
-        url: "https://www.auschwitz.org",
-        consiglio: "Mochilas y bolsos no pueden superar 35x25x15 cm: los más grandes se dejan fuera."
+        "nome": "Auschwitz I (Museo)",
+        "testo": "El primer campo, con el cartel «Arbeit macht frei» a la entrada, los bloques-museo con las exposiciones nacionales y las vitrinas de objetos personales de las víctimas. Es el lugar de memoria donde se comprende la escala del exterminio.",
+        "come": "Desde la estación de autobuses de Cracovia, bus o minibús hasta Oświęcim, o tren hasta la estación y luego autobús o a pie. La visita empieza siempre aquí.",
+        "quando": "El pase nominativo se reserva online; durante gran parte del día solo se entra con guía.",
+        "tempo": "media jornada; el tour guiado estándar dura unas tres horas y media",
+        "costo": "la entrada es libre pero requiere el pase por franja horaria; visita guiada para individuales 150 PLN, unos 35 € (2026)",
+        "orari": "Entrada desde las 7:30; última entrada a las 14:00 en diciembre, 15:00 en noviembre y enero, 16:00 en febrero, 17:00 en marzo y octubre, 18:00 en abril, mayo y septiembre, 19:00 de junio a agosto. Se puede permanecer 90 minutos después de la última entrada. Cerrado el 1 de enero, el 25 de diciembre y el domingo de Pascua.",
+        "lat": 50.0264,
+        "lng": 19.204,
+        "url": "https://www.auschwitz.org",
+        "consiglio": "Mochilas y bolsos no pueden superar 35x25x15 cm: los más grandes se dejan fuera."
       },
       {
-        nome: "Auschwitz II-Birkenau",
-        testo: "El campo de exterminio propiamente dicho, mucho más extenso, con la vía de entrada, la rampa de selección y los barracones de madera que quedan. El monumento internacional entre los restos de los crematorios recuerda a las víctimas.",
-        come: "Con el tour guiado el traslado desde Auschwitz I está incluido.",
-        quando: "Después de la visita a Auschwitz I.",
-        tempo: "1,5-2 horas",
-        url: "https://www.auschwitz.org",
-        consiglio: "Un lugar para visitar en silencio, sin selfis."
+        "nome": "Bloque 11 y el muro de las ejecuciones",
+        "testo": "El bloque usado como prisión del campo, con las celdas en los sótanos. En el patio cerrado entre el Bloque 10 y el Bloque 11 está el muro donde las SS fusilaron a miles de prisioneros; hoy es un lugar de recogimiento, con flores y velas.",
+        "come": "Forma parte del recorrido de Auschwitz I, con guía o en visita libre.",
+        "quando": "Durante la visita a Auschwitz I.",
+        "tempo": "20-30 minutos",
+        "lat": 50.0251,
+        "lng": 19.2035,
+        "consiglio": "En los sótanos y en algunas salas están prohibidas las fotografías: seguir los carteles."
       },
       {
-        nome: "Reserva y normas de visita",
-        testo: "El Museo gestiona un sistema de pases nominativos, en número limitado. Las visitas guiadas para individuales existen en varios idiomas. Durante gran parte del día solo se entra con guía; sin guía, con el pase gratuito, solo en las horas indicadas en la web.",
-        come: "Las reservas se hacen solo online, en visit.auschwitz.org; en verano con mucha antelación.",
-        quando: "Evitar fines de semana y festivos.",
-        url: "https://www.auschwitz.org",
-        consiglio: "Desconfiar de los revendedores: el sitio oficial es el único fiable."
+        "nome": "Auschwitz II-Birkenau",
+        "testo": "El campo de exterminio propiamente dicho, mucho más extenso, con la vía de entrada bajo la torre de guardia, la rampa de selección y los barracones de madera que quedan. Las cámaras de gas y los crematorios fueron volados por los alemanes en retirada, y las ruinas se conservan así.",
+        "come": "Con el tour guiado el traslado desde Auschwitz I está incluido; si no, lanzadera gratuita entre los dos sitios, a unos 3 km.",
+        "quando": "Después de la visita a Auschwitz I.",
+        "tempo": "1,5-2 horas",
+        "costo": "Incluido en el pase y en la visita guiada.",
+        "orari": "Como Auschwitz I.",
+        "lat": 50.0345,
+        "lng": 19.1809,
+        "url": "https://www.auschwitz.org",
+        "consiglio": "Un lugar para visitar en silencio, sin selfis. Está al aire libre y casi sin sombra: en invierno abrigarse mucho."
+      },
+      {
+        "nome": "La Sauna central de Birkenau",
+        "testo": "El edificio donde los deportados seleccionados para el trabajo eran desnudados, rapados, desinfectados y registrados. Hoy acoge una exposición con las fotografías de familia que llevaban los deportados y que se encontraron en el campo.",
+        "come": "En la parte noroeste de Birkenau, más allá de las ruinas de los crematorios; se llega a pie con el guía o en visita libre.",
+        "quando": "Al final del recorrido de Birkenau.",
+        "tempo": "30 minutos",
+        "lat": 50.0391,
+        "lng": 19.1668
+      },
+      {
+        "nome": "Monumento internacional a las víctimas",
+        "testo": "El monumento inaugurado en 1967 al final de la rampa, entre las ruinas de los crematorios II y III. Las lápidas llevan el mismo texto en muchas de las lenguas de las víctimas.",
+        "come": "A pie a lo largo de la vía, al fondo del campo de Birkenau.",
+        "quando": "Durante la visita a Birkenau.",
+        "tempo": "15-20 minutos",
+        "lat": 50.0348,
+        "lng": 19.169
+      },
+      {
+        "nome": "Judenrampe",
+        "testo": "La antigua rampa de descarga entre Auschwitz I y Birkenau, donde llegaron los trenes de deportados desde 1942 hasta mayo de 1944, antes de que la vía se prolongara dentro de Birkenau. En 2005 se inauguró un memorial al aire libre, con un vagón de mercancías.",
+        "come": "En la carretera entre los dos campos; algunas visitas guiadas se detienen aquí.",
+        "quando": "Entre Auschwitz I y Birkenau, si el programa lo permite.",
+        "tempo": "20 minutos",
+        "lat": 50.0329,
+        "lng": 19.1901
+      },
+      {
+        "nome": "Monowitz (Auschwitz III)",
+        "testo": "El tercer campo, al este de Oświęcim, construido junto a la fábrica de caucho sintético de IG Farben, donde los prisioneros eran obligados a trabajar. Del campo queda poco: algunos edificios y paneles conmemorativos en el pueblo de Monowice.",
+        "come": "En coche o en taxi desde Oświęcim, unos 15 minutos; no forma parte de la visita ordinaria del Museo.",
+        "quando": "Para quien quiere profundizar, después de los dos sitios principales.",
+        "tempo": "30 minutos",
+        "lat": 50.0275,
+        "lng": 19.2881
+      },
+      {
+        "nome": "Centro judío de Oświęcim",
+        "testo": "En el centro de la ciudad, cerca de la plaza del mercado, el Centro judío cuenta la vida de la comunidad judía que antes de la guerra era más de la mitad de los habitantes de Oświęcim. Al lado está la sinagoga Chevra Lomdei Mishnayot, la única que queda en la ciudad.",
+        "come": "En taxi o en autobús desde el Museo, unos 10 minutos; Plac ks. Jana Skarbka 5.",
+        "quando": "Antes o después del Memorial; cerrado en las festividades judías.",
+        "tempo": "1 hora",
+        "lat": 50.04,
+        "lng": 19.2205
+      },
+      {
+        "nome": "Reserva y normas de visita",
+        "testo": "El Museo gestiona un sistema de pases nominativos, en número limitado, y pide un documento de identidad a la entrada. Las visitas guiadas para individuales existen en varios idiomas. Durante gran parte del día solo se entra con guía; sin guía, con el pase gratuito, solo en las horas indicadas en la web.",
+        "come": "Las reservas se hacen solo online, en visit.auschwitz.org: los pases gratuitos al menos 7 días antes, los guías con mucha antelación. Los pases individuales no se cambian ni se reembolsan.",
+        "quando": "Evitar fines de semana y festivos.",
+        "url": "https://visit.auschwitz.org/",
+        "consiglio": "Desconfiar de los revendedores: el sitio oficial es el único fiable. El Museo desaconseja la visita a menores de 14 años."
+      },
+      {
+        "nome": "Salida desde Cracovia",
+        "testo": "El autobús directo al Museo sale de la estación de autobuses MDA, junto a la estación de tren de Kraków Główny y la Galeria Krakowska. El tren regional a Oświęcim sale de la estación principal.",
+        "come": "Autobús una hora y media aproximadamente, tren alrededor de 1 hora y 40 minutos más el tramo desde la estación de Oświęcim hasta el Museo.",
+        "quando": "Salir temprano, para llegar con margen a la franja horaria reservada.",
+        "tempo": "3-3,5 horas entre ida y vuelta",
+        "costo": "Autobús unos 34 PLN por trayecto, unos 8 €.",
+        "lat": 50.0678,
+        "lng": 19.9497,
+        "consiglio": "Comprobar la hora del último autobús de vuelta antes de entrar."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "Medio día",
+        "tappe": [
+          "Mañana: autobús o tren desde Cracovia",
+          "Visita guiada de Auschwitz I y Auschwitz II-Birkenau, unas tres horas y media",
+          "Primera hora de la tarde: regreso a Cracovia"
+        ]
+      },
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: salida temprano desde Cracovia",
+          "Auschwitz I con el educador, luego la lanzadera a Birkenau",
+          "Tarde: la Judenrampe y el Centro judío de Oświęcim",
+          "Noche: regreso a Cracovia, sin otros planes"
+        ]
+      },
+      {
+        "titolo": "2 días, visita de estudio",
+        "tappe": [
+          "Día 1: visita de estudio de 6 horas con el educador del Museo, noche en Oświęcim",
+          "Día 2: Birkenau de nuevo a la apertura, con calma, luego el Centro judío y regreso a Cracovia"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Cracovia, zona de la estación y Kleparz",
+        "perChi": "quien quiere el autobús o el tren a Oświęcim al lado de casa",
+        "testo": "Justo al norte de los Planty, cerca de Kraków Główny y de la estación MDA. Menos ambiente, pero se sale a pie y se está a diez minutos del Rynek.",
+        "fascia": "60-110 €"
+      },
+      {
+        "nome": "Cracovia, Stare Miasto",
+        "perChi": "quien quiere estar cerca de los monumentos",
+        "testo": "Corazón histórico, a 10-15 minutos a pie de la estación de autobuses; ruido de noche cerca de los locales.",
+        "fascia": "90-160 €"
+      },
+      {
+        "nome": "Cracovia, Kazimierz",
+        "perChi": "quien busca un barrio más recogido",
+        "testo": "El antiguo barrio judío, con sinagogas y cafés; más movido por la noche.",
+        "fascia": "70-130 €"
+      },
+      {
+        "nome": "Oświęcim",
+        "perChi": "quien hace una visita de estudio de dos días",
+        "testo": "Pocos hoteles y pensiones sencillas en la ciudad, cerca del Museo; útil solo para quien quiere volver a Birkenau a la apertura."
       }
     ],
     attenzioni: [
       "Las exposiciones son muy duras: pensarlo bien antes de llevar niños.",
       "Tener en cuenta que la visita es emocionalmente pesada: planificar con calma el resto del día.",
       "Para fotos y grabaciones seguir los carteles y las indicaciones del personal."
+    ],
+    gite: [
+      {
+        "nome": "Fábrica de Schindler y el gueto de Podgórze",
+        "distanza": "en Cracovia, a 66 km del Museo",
+        "come": "A pie o en tranvía desde el centro de Cracovia, en otro día.",
+        "testo": "El museo en la fábrica de Oskar Schindler cuenta Cracovia bajo la ocupación alemana; a pocos pasos, la plaza de los Héroes del Gueto, con sus sillas de metal, recuerda las deportaciones desde el gueto."
+      },
+      {
+        "nome": "Kazimierz",
+        "distanza": "en Cracovia",
+        "come": "A pie desde el casco histórico.",
+        "testo": "El antiguo barrio judío de Cracovia, con la sinagoga Vieja, la sinagoga Remuh y su cementerio. Ayuda a entender la vida de las comunidades que el nazismo borró."
+      },
+      {
+        "nome": "Mina de sal de Wieliczka",
+        "distanza": "unos 15 km de Cracovia, 20-25 minutos en tren",
+        "come": "Tren regional o autobús desde Cracovia, con entrada con horario en la web oficial.",
+        "testo": "La Ruta Turística de 2-3 horas entre capillas y lagos subterráneos excavados en la sal. Hay que hacerla un día distinto de Auschwitz-Birkenau, nunca el mismo."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Hay que reservar la visita a Auschwitz-Birkenau?",
+        "risposta": "Sí: cada visitante necesita un pase nominativo, que se reserva solo online en visit.auschwitz.org, y un documento de identidad. En el lugar ya no se venden pases."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la visita?",
+        "risposta": "La entrada es gratuita con el pase. La visita guiada para individuales cuesta 150 PLN, unos 35 €, en idioma extranjero, 140 PLN en polaco (2026), con auriculares y traslado a Birkenau."
+      },
+      {
+        "domanda": "¿Se puede visitar sin guía?",
+        "risposta": "Sí, pero solo en las franjas horarias reservadas a la visita libre, normalmente a última hora de la tarde, con el pase gratuito reservado con antelación. En las horas centrales solo se entra con un guía-educador del Museo."
+      },
+      {
+        "domanda": "¿Cuánto tiempo hace falta?",
+        "risposta": "La visita guiada dura unas tres horas y media para los dos sitios, más unas 3 horas de viaje de ida y vuelta desde Cracovia. Conviene dedicarle un día entero, sin otros planes."
+      },
+      {
+        "domanda": "¿Es adecuada para niños?",
+        "risposta": "El Museo desaconseja la visita a menores de 14 años: las exposiciones son muy duras. Con chicos mayores conviene prepararlos antes."
+      },
+      {
+        "domanda": "¿Cuáles son los horarios en noviembre y en invierno?",
+        "risposta": "Se entra desde las 7:30; la última entrada es a las 15:00 en noviembre y enero, a las 14:00 en diciembre, y se puede permanecer 90 minutos después. El Museo cierra el 1 de enero, el 25 de diciembre y el domingo de Pascua."
+      }
     ],
     esperienzeSlugs: ['auschwitz-birkenau-visita-guidata'],
     tripSlugs: ['cracovia-weekend'],

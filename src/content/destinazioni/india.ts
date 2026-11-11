@@ -982,7 +982,8 @@ export const destinazioniIndia: Destinazione[] = [
       'Prenotare la gypsy, la jeep da 6 posti, invece del canter da una ventina',
     ],
     doveDormire: 'Lodge e hotel lungo la strada del parco a Sawai Madhopur, molti con il ritiro per i safari.',
-    comeArrivare: 'Da Agra circa 5-6 ore di auto, da Jaipur circa 3,5-4. La stazione è Sawai Madhopur, sulla linea Delhi-Mumbai.',
+    comeArrivare:
+      "Da Agra circa 5-6 ore di auto, con la sosta a Fatehpur Sikri lungo la strada; da Jaipur circa 3,5-4 ore. La stazione di Sawai Madhopur Junction è sulla linea Delhi-Mumbai, servita da treni da Delhi, Kota e Jaipur, e molti lodge mandano un'auto a prendere chi arriva in treno. L'aeroporto più vicino è quello di Jaipur, a circa 155 chilometri di strada.",
     comeSpostarsi: 'Con i mezzi dei safari (gypsy o canter) che passano a prendere in hotel.',
     periodoMigliore:
       'ottobre-giugno; le zone centrali (1-5) chiudono con il monsone, da luglio a settembre, mentre alcune zone esterne restano aperte. Da marzo a giugno fa caldo, ma gli animali si vedono di più intorno all\'acqua.',
@@ -998,7 +999,10 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Solo con i safari ufficiali, in gypsy (jeep da 6 posti) o canter (camion scoperto da una ventina), che passano a prendere in hotel. Si prenota con il passaporto sul portale del Forest Department o tramite l'hotel.",
         quando: "Due turni al giorno, al mattino presto e nel pomeriggio, con orari che cambiano con la stagione. Le zone 1-5 chiudono da luglio a settembre. Da marzo a giugno fa caldo ma gli animali si vedono vicino all'acqua.",
         tempo: "qualche ora per safari, durata secondo la stagione; almeno due safari",
-        consiglio: "Noi ci siamo mossi tardi e abbiamo fatto il canter, ma siamo stati fortunati lo stesso: 3 tigri in un solo safari del mattino, e anche due orsetti che correvano. Se volete la gypsy prenotate con largo anticipo, e fate sempre almeno due safari: la zona non si sceglie, è assegnata a caso."
+        costo: "Per gli stranieri, dal 1° aprile 2026: circa 3.025 rupie a persona in gypsy (circa 30 €) e circa 2.400 in canter (circa 23 €); per gli indiani circa 1.612 e 987 rupie. Le tariffe salgono del 10% ogni 1° aprile.",
+        orari: "Due turni al giorno, all'alba e nel pomeriggio, con orari che cambiano di mese in mese. Zone 1-5 chiuse dal 1° luglio al 30 settembre.",
+        url: "https://fmdss.forest.rajasthan.gov.in/",
+        consiglio: "Noi ci siamo mossi tardi e abbiamo fatto il canter, ma siamo stati fortunati lo stesso: 3 tigri in un solo safari del mattino, e anche due orsetti che correvano. Se volete la gypsy prenotate con largo anticipo, e fate sempre almeno due safari: la zona non si sceglie, è assegnata a caso.",
       },
       {
         nome: "Forte di Ranthambore",
@@ -1006,7 +1010,9 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Si sale dalla porta del parco con l'auto o il tuk-tuk, poi a piedi per le scalinate, come i pellegrini diretti al tempio di Ganesh.",
         quando: "La mattina, tra un safari e l'altro. Il mercoledì il tempio di Ganesh richiama migliaia di fedeli.",
         tempo: "2 ore",
-        consiglio: "Lungo le mura si vedono spesso langur e a volte animali del parco sotto la rupe."
+        lat: 26.0203,
+        lng: 76.455,
+        consiglio: "Lungo le mura si vedono spesso langur e a volte animali del parco sotto la rupe.",
       },
       {
         nome: "I laghi di Padam Talao e Rajbagh",
@@ -1014,44 +1020,155 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Si vedono solo se il vostro safari ha una delle zone centrali.",
         quando: "Nella stagione secca, quando gli animali si concentrano intorno all'acqua.",
         tempo: "dentro un safari",
-        consiglio: "Chiedere all'hotel quali zone stanno dando buoni avvistamenti: non si sceglie, ma aiuta a capire cosa aspettarsi."
-      }
+        lat: 26.0303,
+        lng: 76.4604,
+        consiglio: "Chiedere all'hotel quali zone stanno dando buoni avvistamenti: non si sceglie, ma aiuta a capire cosa aspettarsi.",
+      },
+      {
+        nome: "Tempio di Trinetra Ganesh",
+        testo: "Il tempio dentro il forte dedicato a Ganesh con tre occhi, uno dei più venerati del Rajasthan. Molte famiglie gli mandano per posta il primo invito di nozze, e al tempio arrivano lettere da tutta l'India.",
+        come: "Si raggiunge salendo le scalinate del forte. Scarpe da togliere all'ingresso del santuario.",
+        quando: "Presto la mattina, prima del caldo. Il mercoledì, giorno di Ganesh, e durante la fiera di Ganesh Chaturthi la salita è piena di pellegrini.",
+        tempo: "30 minuti, oltre alla visita del forte",
+        costo: "ingresso libero al tempio",
+        lat: 26.0203,
+        lng: 76.455,
+        consiglio: "Sulle scale ci sono molte scimmie che strappano il cibo di mano: meglio non tenere sacchetti in vista.",
+      },
+      {
+        nome: "Museo regionale di storia naturale Rajiv Gandhi",
+        testo: "Un museo di scienze naturali aperto nel 2014 a Ramsinghpura, a circa 9 chilometri da Sawai Madhopur. Il piano terra racconta foreste, animali e biodiversità del Rajasthan, con ricostruzioni di animali e diorami dei villaggi bishnoi.",
+        come: "In auto o tuk-tuk da Sawai Madhopur. Si visita da soli.",
+        quando: "Nelle ore centrali, tra il safari del mattino e quello del pomeriggio.",
+        tempo: "1 ora",
+        orari: "Chiuso il lunedì e nelle feste nazionali",
+        consiglio: "Utile con i bambini, prima o dopo il primo safari.",
+      },
+      {
+        nome: "Dastkar Ranthambhore",
+        testo: "Il centro di artigianato di una cooperativa di donne dei villaggi intorno al parco, nata per dare un reddito alle famiglie che hanno perso terre e pascoli con la riserva. Tessuti stampati a blocchi, patchwork, ricami e oggetti con le tigri come motivo.",
+        come: "Sulla strada del parco, nella zona di Sherpur-Khilchipur, in auto o tuk-tuk dal proprio lodge.",
+        quando: "Nelle ore centrali, tra un safari e l'altro.",
+        tempo: "45 minuti",
+        lat: 26.0652,
+        lng: 76.4282,
+        consiglio: "I prezzi sono fissi e vanno alla cooperativa: è un buon posto per i regali, senza trattare.",
+      },
+      {
+        nome: "La stazione di Sawai Madhopur",
+        testo: "La stazione del paese ha muri e sale d'attesa dipinti con tigri, uccelli, alberi e laghi del parco. Le pitture sono nate da una proposta del WWF adottata dalle ferrovie indiane, e nel 2014-2015 la stazione ha vinto il premio nazionale come stazione più accogliente per i turisti.",
+        come: "In centro a Sawai Madhopur; si vede arrivando o partendo in treno.",
+        quando: "Quando si passa per prendere un treno: non vale un viaggio apposta.",
+        tempo: "15 minuti",
+        costo: "gratuito",
+        lat: 26.0189,
+        lng: 76.3572,
+      },
+      {
+        nome: "Forte di Khandar",
+        testo: "Un forte su una collina al margine orientale della riserva, poco visitato. Costruito dai Badgujar, passò ai re di Mewar, per poco ai Moghul e nel Settecento ai maharaja di Jaipur; restano mura, porte e templi tra la boscaglia.",
+        come: "Circa 45 chilometri di strada da Sawai Madhopur, in auto con autista. La salita finale è a piedi.",
+        quando: "Di mattina presto o nel tardo pomeriggio, mai nelle ore calde.",
+        tempo: "mezza giornata con il viaggio",
+        lat: 26.0233,
+        lng: 76.6069,
+        consiglio: "Ha senso solo con un giorno in più: chi ha poco tempo fa un safari in più.",
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
           "Safari del mattino",
-          "Forte di Ranthambore e il tempio di Ganesh",
-          "Safari del pomeriggio"
-        ]
+          "Forte di Ranthambore e il tempio di Trinetra Ganesh",
+          "Pranzo e riposo nel lodge",
+          "Safari del pomeriggio",
+        ],
       },
       {
-        titolo: "2 notti",
+        titolo: "2 giorni",
         tappe: [
           "Giorno 1: arrivo, safari del pomeriggio",
-          "Giorno 2: safari del mattino, forte, safari del pomeriggio",
-          "Giorno 3: un ultimo safari all'alba e partenza per Jaipur"
-        ]
-      }
+          "Giorno 2: safari del mattino, forte e tempio di Ganesh, safari del pomeriggio",
+          "Il mattino dopo, un ultimo safari all'alba e partenza per Jaipur",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: arrivo, safari del pomeriggio",
+          "Giorno 2: safari del mattino, Dastkar e museo di storia naturale, safari del pomeriggio",
+          "Giorno 3: safari all'alba, poi forte di Ranthambore o forte di Khandar, e partenza",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Ranthambore Road",
         perChi: "chi viene per i safari",
-        testo: "La strada tra Sawai Madhopur e la porta del parco, con lodge e resort in ogni fascia. Molti organizzano il ritiro per i safari; si dorme tranquilli, ma intorno non c'è nulla."
+        testo: "La strada tra Sawai Madhopur e la porta del parco, con lodge e resort in ogni fascia. Molti organizzano il ritiro per i safari; si dorme tranquilli, ma intorno non c'è nulla.",
+        fascia: "40-90 €",
       },
       {
         nome: "Sawai Madhopur",
         perChi: "chi arriva in treno con poco budget",
-        testo: "Il paese vicino alla stazione, con hotel semplici. Comodo per i treni, meno per i safari: i mezzi passano comunque, ma più presto."
-      }
+        testo: "Il paese vicino alla stazione, con hotel semplici. Comodo per i treni, meno per i safari: i mezzi passano comunque, ma più presto.",
+        fascia: "20-40 €",
+      },
+      {
+        nome: "I resort di lusso ai margini del parco",
+        perChi: "chi vuole un lodge con piscina e safari organizzati",
+        testo: "Resort e tende di lusso lungo la strada del parco e verso Sherpur, con naturalisti propri e ritiro per i safari. Prezzi molto più alti, spesso con pasti compresi.",
+        fascia: "100-250 €",
+      },
     ],
     attenzioni: [
       "Molti siti con nomi simili a quello ufficiale rivendono i safari a prezzo più alto: prenotate sul portale del Forest Department o tramite un hotel serio.",
       "Le tigri non sono garantite: due o tre safari aumentano molto le probabilità.",
       "Tra dicembre e febbraio le mattine sui mezzi scoperti sono fredde: servono strati, un berretto e i guanti.",
       "Colori accesi, voce alta e cibo sui mezzi sono vietati o mal tollerati dai ranger."
+    ],
+    costi:
+      "Safari per gli stranieri dal 1° aprile 2026: gypsy circa 3.025 rupie (circa 30 €), canter circa 2.400 rupie (circa 23 €) a persona. Budget giornaliero a persona, indicativo, con due safari: basso 60-80 € (hotel semplice a Sawai Madhopur e due canter); medio 120-170 € (lodge su Ranthambore Road e due gypsy); alto 300 € e oltre (resort di lusso con safari organizzati).",
+    gite: [
+      {
+        nome: "Bundi",
+        testo: "Una piccola città del Rajasthan sotto un palazzo sulla collina, con affreschi, pozzi a gradini e vicoli azzurri. Molto meno turistica di Jaipur.",
+        come: "In auto con autista, spesso come tappa verso Udaipur o Jaipur.",
+        distanza: "circa 120 km, 2,5-3 ore",
+      },
+      {
+        nome: "Pozzo a gradini di Chand Baori, Abhaneri",
+        testo: "Uno dei pozzi a gradini più grandi e profondi dell'India, con migliaia di scalini in geometrie perfette, accanto al tempio di Harshat Mata.",
+        come: "In auto con autista, come sosta sulla strada tra Ranthambore e Agra o Jaipur.",
+        distanza: "circa 135 km, 3 ore",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Le tigri sono garantite?",
+        risposta: "No. Le probabilità sono buone ma ogni safari percorre una sola zona, assegnata a caso: con due o tre safari aumentano molto.",
+      },
+      {
+        domanda: "Meglio la gypsy o il canter?",
+        risposta: "La gypsy, la jeep da 6 posti, è più silenziosa e agile e costa di più; il canter porta una ventina di persone. Le gypsy finiscono per prime, quindi vanno prenotate con largo anticipo.",
+      },
+      {
+        domanda: "Quanti safari conviene fare?",
+        risposta: "Almeno due, per esempio uno al pomeriggio dell'arrivo e uno all'alba del giorno dopo. Con tre si vede quasi sempre qualcosa di più.",
+      },
+      {
+        domanda: "Come si prenota un safari?",
+        risposta: "Sul portale del Forest Department del Rajasthan o tramite l'hotel, con il passaporto: lo stesso documento va portato al safari. Diffidate dei siti con nomi simili che rivendono a prezzi più alti.",
+      },
+      {
+        domanda: "Si può scegliere la zona del parco?",
+        risposta: "No, la zona è assegnata dal Forest Department. Si può solo prenotare più safari per avere più possibilità.",
+      },
+      {
+        domanda: "Quando andare a Ranthambore?",
+        risposta: "Da ottobre a giugno. Le zone centrali 1-5 chiudono dal 1° luglio al 30 settembre; tra marzo e giugno fa caldo ma gli animali si concentrano vicino all'acqua.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
@@ -2432,7 +2549,8 @@ export const destinazioniIndia: Destinazione[] = [
       "I bronzi del Government Museum",
     ],
     cosaFare: ['Un pasto su foglia di banano in un ristorante vegetariano storico', 'Un caffè filtrato in tazza di metallo'],
-    comeArrivare: 'Aeroporto internazionale di Chennai, con voli dall\'Italia via Golfo.',
+    comeArrivare:
+      "L'aeroporto internazionale di Chennai è a Meenambakkam, circa 15-20 chilometri a sud-ovest del centro, collegato in metro (linea blu), Uber e taxi prepagati. Dall'Italia non ci sono voli diretti: si passa dagli scali del Golfo o da Delhi e Mumbai. Le stazioni principali sono Chennai Central e Chennai Egmore; Mamallapuram è a circa 55 chilometri dall'aeroporto lungo la East Coast Road.",
     comeSpostarsi: 'Uber, Ola, metro e tuk-tuk.',
     periodoMigliore: 'dicembre-marzo; ottobre-dicembre è la stagione del monsone di nord-est.',
     erroriDaEvitare: [
@@ -2447,16 +2565,22 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Mattina presto o sera, durante le cerimonie. Orari esposti all'ingresso del tempio.",
         tempo: "1 ora",
         costo: "ingresso libero",
-        consiglio: "Girare a piedi le strade intorno alla vasca, tra botteghe e bancarelle."
+        lat: 13.0337,
+        lng: 80.2699,
+        consiglio: "Girare a piedi le strade intorno alla vasca, tra botteghe e bancarelle.",
       },
       {
         nome: "Government Museum di Egmore",
         testo: "Fondato nel 1851, è il secondo museo più antico dell'India dopo l'Indian Museum di Calcutta. La galleria dei bronzi raccoglie statue di divinità dell'India del Sud, tra cui il Nataraja (Shiva danzante) di Tiruvalangadu, dell'XI secolo.",
-        come: "In metro o Uber fino a Egmore. Si visita da soli; il complesso è grande, puntare dritti alla galleria dei bronzi.",
-        quando: "Dalle 10.30 alle 18.30, chiuso il venerdì e in alcune feste (Deepavali, Pongal, 26 gennaio, 15 agosto, 2 ottobre). Fonte: sito ufficiale, 2026.",
+        come: "In metro o Uber fino a Egmore. Si visita da soli; il complesso è grande, puntare dritti alla galleria dei bronzi. Diverse gallerie (zoologia, botanica, geologia, antropologia, arte contemporanea e bambini) sono chiuse per lavori.",
+        quando: "Di mattina, quando le sale sono più fresche e tranquille.",
         tempo: "1 ora e mezza",
+        costo: "250 rupie per gli stranieri (circa 2,5 €); fotocamera a pagamento",
+        orari: "10.30-18.30; chiuso il venerdì, a Deepavali, a Pongal e il 26 gennaio, il 15 agosto e il 2 ottobre",
         url: "https://www.govtmuseumchennai.org/",
-        consiglio: "Se si va poi a Thanjavur e Madurai, qui si capisce cosa si vedrà nei templi."
+        lat: 13.0711,
+        lng: 80.2569,
+        consiglio: "Se si va poi a Thanjavur e Madurai, qui si capisce cosa si vedrà nei templi.",
       },
       {
         nome: "Marina Beach",
@@ -2465,7 +2589,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Il tardo pomeriggio e il tramonto, quando il caldo cala.",
         tempo: "1 ora",
         costo: "gratuito",
-        consiglio: "Si cammina e si mangia, ma il bagno qui è vietato per legge: le correnti sono pericolose e non ci sono bagnini."
+        orari: "Sempre accessibile",
+        lat: 13.0542,
+        lng: 80.2837,
+        consiglio: "Si cammina e si mangia, ma il bagno qui è vietato per legge: le correnti sono pericolose e non ci sono bagnini.",
       },
       {
         nome: "Fort St. George",
@@ -2473,8 +2600,98 @@ export const destinazioniIndia: Destinazione[] = [
         come: "In Uber o tuk-tuk, vicino al porto.",
         quando: "Di mattina; orari del Fort Museum sul sito dell'ASI.",
         tempo: "1 ora",
-        consiglio: "Una visita per chi è appassionato di storia coloniale; altrimenti meglio Mylapore."
-      }
+        orari: "Fort Museum chiuso il venerdì",
+        lat: 13.0797,
+        lng: 80.2869,
+        consiglio: "Una visita per chi è appassionato di storia coloniale; altrimenti meglio Mylapore.",
+      },
+      {
+        nome: "Basilica di San Tommaso (San Thome)",
+        testo: "La cattedrale bianca di Santhome, costruita dai portoghesi nel 1523 sopra quella che la tradizione indica come la tomba dell'apostolo Tommaso, e rifatta in stile neogotico nel 1896. Dietro la chiesa una cappella sotterranea porta alla tomba, e c'è un piccolo museo.",
+        come: "In Uber o tuk-tuk, a pochi minuti da Mylapore e da Marina Beach. Si entra liberamente fuori dalle messe.",
+        quando: "Di mattina o nel tardo pomeriggio, combinata con Kapaleeshwarar.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        url: "https://santhomechurch.com/",
+        lat: 13.0336,
+        lng: 80.2778,
+      },
+      {
+        nome: "Tempio di Parthasarathy, Triplicane",
+        testo: "Uno dei templi più antichi della città, con origini attribuite ai Pallava, dedicato a Krishna come auriga di Arjuna. È tra i 108 Divya Desam, i santuari di Vishnu cantati dai poeti tamil, e custodisce cinque forme di Vishnu.",
+        come: "In Uber o tuk-tuk fino a Triplicane, vicino a Marina Beach. Scarpe al deposito; seguire le regole su telefoni e foto esposte all'ingresso.",
+        quando: "Al mattino presto o alla sera, durante le cerimonie. Di solito chiude a metà giornata e riapre nel pomeriggio.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        lat: 13.054,
+        lng: 80.2768,
+        consiglio: "Intorno al tempio ci sono vecchie mense vegetariane dove fare colazione con idli e caffè filtrato.",
+      },
+      {
+        nome: "Vivekanandar Illam (Ice House)",
+        testo: "Un edificio rotondo sul lungomare costruito nel 1842 per conservare il ghiaccio portato in nave dall'America. Nel 1897 vi soggiornò Swami Vivekananda; oggi è gestito dal Ramakrishna Math, con una mostra sulla sua vita e spettacoli in 3D e realtà virtuale.",
+        come: "Sul lungomare di Marina Beach, a piedi o in tuk-tuk.",
+        quando: "Prima del tramonto a Marina Beach, che è proprio davanti.",
+        tempo: "1 ora",
+        costo: "40-50 rupie per gli spettacoli (circa 0,50 €)",
+        orari: "10-12.30 e 15-19.15 (la domenica fino alle 19.30); chiuso il lunedì",
+        url: "https://vivekanandahouse.org/",
+        lat: 13.0496,
+        lng: 80.2803,
+      },
+      {
+        nome: "Elliot's Beach e il tempio di Ashtalakshmi",
+        testo: "La spiaggia di Besant Nagar, più piccola e tranquilla di Marina, con il santuario di Nostra Signora della Buona Salute sulla sabbia. Poco più a sud c'è il tempio di Ashtalakshmi, dedicato alle otto forme della dea Lakshmi, con i santuari disposti su più piani.",
+        come: "In Uber o metro più tuk-tuk fino a Besant Nagar.",
+        quando: "Il tardo pomeriggio e la sera, quando arrivano le famiglie e aprono i chioschi.",
+        tempo: "1-2 ore",
+        costo: "gratuito",
+        lat: 12.9979,
+        lng: 80.2719,
+        consiglio: "Le strade dietro la spiaggia sono piene di caffè e locali: buon posto per cenare.",
+      },
+      {
+        nome: "DakshinaChitra",
+        testo: "Un museo all'aperto della cultura dell'India del Sud, aperto nel 1996 a Muttukadu, sulla East Coast Road. Case tradizionali del Tamil Nadu, del Kerala, del Karnataka e dell'Andhra Pradesh sono state smontate e ricostruite qui, con botteghe di artigiani e dimostrazioni.",
+        come: "In auto o Uber lungo la East Coast Road, circa 25 chilometri a sud della città: comodo come sosta verso Mamallapuram.",
+        quando: "Di mattina, prima del caldo; non il martedì.",
+        tempo: "2-3 ore",
+        costo: "350 rupie per gli stranieri (circa 3,5 €), 200 per gli indiani",
+        orari: "10-18 nei giorni feriali, 10-19 nel fine settimana; chiuso il martedì",
+        url: "https://www.dakshinachitra.net/",
+        lat: 12.823,
+        lng: 80.242,
+      },
+      {
+        nome: "T. Nagar e Pondy Bazaar",
+        testo: "Il grande quartiere dello shopping di Chennai, tra Ranganathan Street, Usman Road e Pondy Bazaar: negozi di sete e sari, gioiellerie e bancarelle. Uno dei mercati più affollati dell'Asia.",
+        come: "In metro o Uber fino a T. Nagar, poi a piedi.",
+        quando: "Nei giorni feriali, la sera: nei fine settimana e prima delle feste è pieno.",
+        tempo: "1-2 ore",
+        costo: "gratuito",
+        lat: 13.0408,
+        lng: 80.2377,
+        consiglio: "Per le sete del Sud entrare nei grandi negozi storici, con prezzi fissi.",
+      },
+      {
+        nome: "St. Thomas Mount",
+        testo: "Una collinetta vicino all'aeroporto, chiamata in tamil Parangimalai, legata alla tradizione del martirio dell'apostolo Tommaso. In cima c'è un santuario e la vista si apre sulla città e sulla pista degli aerei.",
+        come: "In metro fino a St. Thomas Mount, poi in tuk-tuk fino in cima.",
+        quando: "Il tardo pomeriggio, oppure all'arrivo o prima della partenza in aereo.",
+        tempo: "45 minuti",
+        costo: "gratuito",
+        lat: 13.0078,
+        lng: 80.1925,
+      },
+      {
+        nome: "Valluvar Kottam",
+        testo: "Il monumento dedicato a Valluvar, il poeta-filosofo autore del Tirukkural, il testo più amato della letteratura tamil. È il più grande centro culturale tamil della città, con il carro di pietra che ricorda quelli dei templi.",
+        come: "In Uber fino a Nungambakkam.",
+        quando: "Di mattina o nel tardo pomeriggio.",
+        tempo: "30-45 minuti",
+        lat: 13.0544,
+        lng: 80.2418,
+      },
     ],
     programmi: [
       {
@@ -2484,26 +2701,48 @@ export const destinazioniIndia: Destinazione[] = [
           "Colazione tamil con caffè filtrato",
           "Government Museum e i bronzi Chola",
           "Tramonto a Marina Beach",
-          "La sera, o il mattino dopo, partenza per Mamallapuram"
-        ]
-      }
+          "La sera, o il mattino dopo, partenza per Mamallapuram",
+        ],
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Kapaleeshwarar, basilica di San Tommaso, Government Museum, Vivekanandar Illam e tramonto a Marina Beach",
+          "Giorno 2: tempio di Parthasarathy al mattino, Fort St. George, pomeriggio a T. Nagar, sera a Elliot's Beach",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1 e 2 come sopra",
+          "Giorno 3: verso sud lungo la East Coast Road, con DakshinaChitra e arrivo a Mamallapuram per il tramonto sullo Shore Temple",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Mylapore e Alwarpet",
         perChi: "chi vuole la Chennai tradizionale",
-        testo: "Quartiere dei templi e dei ristoranti vegetariani storici, vicino a Marina Beach. Traffico intenso, ma tutto a portata di Uber."
+        testo: "Quartiere dei templi e dei ristoranti vegetariani storici, vicino a Marina Beach. Traffico intenso, ma tutto a portata di Uber.",
+        fascia: "70-150 €",
       },
       {
         nome: "Egmore",
         perChi: "chi arriva o parte in treno",
-        testo: "Vicino alla stazione e al museo, con hotel di fascia media. Comodo, poco affascinante."
+        testo: "Vicino alla stazione e al museo, con hotel di fascia media. Comodo, poco affascinante.",
+        fascia: "45-90 €",
       },
       {
         nome: "Vicino all'aeroporto o sulla East Coast Road",
         perChi: "chi va diretto a Mamallapuram",
-        testo: "Hotel e resort a sud, sulla strada per la costa. Si evita il centro e si parte subito."
-      }
+        testo: "Hotel e resort a sud, sulla strada per la costa. Si evita il centro e si parte subito.",
+      },
+      {
+        nome: "T. Nagar",
+        perChi: "chi vuole muoversi in metro e fare shopping",
+        testo: "Il quartiere dei negozi, con hotel di fascia media vicino a Pondy Bazaar. Caotico di giorno, comodo per i trasporti.",
+        fascia: "45-100 €",
+      },
     ],
     sapori: [
       {
@@ -2528,6 +2767,48 @@ export const destinazioniIndia: Destinazione[] = [
       "Tra ottobre e dicembre il monsone di nord-est porta piogge forti e a volte cicloni.",
       "I tuk-tuk raramente usano il tassametro: meglio Uber, Ola o un prezzo fissato prima.",
       "Dal settembre 2026 nei grandi templi del Tamil Nadu foto e video sono vietati; le regole sui telefoni (deposito o telefono spento) sono cambiate più volte: seguite le indicazioni all'ingresso.",
+    ],
+    costi:
+      "Ingressi bassi: Government Museum 250 rupie, DakshinaChitra 350, templi e spiagge gratis. Budget giornaliero a persona, indicativo: basso 30-45 € (hotel semplice, pasti nei ristoranti vegetariani, metro); medio 70-110 € (hotel a Mylapore o T. Nagar, Uber, cene fuori); alto 200 € e oltre (grandi hotel e ristoranti degli alberghi).",
+    gite: [
+      {
+        nome: "Mamallapuram",
+        testo: "Il porto dei re Pallava con lo Shore Temple, i Cinque Ratha e la Penitenza di Arjuna. Meglio dormirci una notte che farla in giornata.",
+        come: "In auto, taxi o Uber lungo la East Coast Road, con sosta a DakshinaChitra.",
+        distanza: "circa 55 km, 1-1,5 ore",
+      },
+      {
+        nome: "Kanchipuram",
+        testo: "L'antica capitale dei Pallava, città di templi come il Kailasanathar e l'Ekambareswarar, e delle sete più famose del Tamil Nadu.",
+        come: "In auto con autista, spesso insieme a Mamallapuram.",
+        distanza: "circa 80 km, 2 ore",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Chennai?",
+        risposta: "Per la maggior parte dei viaggi basta un giorno, da usare come arrivo prima di Mamallapuram. Con due giorni si aggiungono Triplicane, Fort St. George e i quartieri del sud.",
+      },
+      {
+        domanda: "Si può fare il bagno a Marina Beach?",
+        risposta: "No, è vietato per legge: le correnti sono forti e non ci sono bagnini. La spiaggia si vive passeggiando, soprattutto al tramonto.",
+      },
+      {
+        domanda: "Come si va dall'aeroporto a Mamallapuram?",
+        risposta: "In taxi o Uber lungo la East Coast Road, circa 55 chilometri: con il traffico servono 1-1,5 ore. Si può fare subito all'arrivo senza dormire in città.",
+      },
+      {
+        domanda: "Si possono fare foto nei templi?",
+        risposta: "Dal settembre 2026 foto e video sono vietati nei grandi templi del Tamil Nadu e le regole sui telefoni sono cambiate più volte. Seguite le indicazioni all'ingresso.",
+      },
+      {
+        domanda: "Qual è il periodo migliore?",
+        risposta: "Da dicembre a marzo, quando fa meno caldo. Tra ottobre e dicembre il monsone di nord-est porta piogge forti e a volte cicloni.",
+      },
+      {
+        domanda: "Come ci si sposta in città?",
+        risposta: "Metro per le tratte lunghe, Uber e Ola per il resto. I tuk-tuk raramente usano il tassametro: fissate il prezzo prima.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
@@ -2556,10 +2837,12 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Visitare le botteghe degli scalpellini', 'Il tramonto sullo Shore Temple', 'Una gita a Kanchipuram, la città dei templi e della seta'],
     doveDormire: 'Guesthouse vicino alla spiaggia dei pescatori; resort sulla East Coast Road.',
     doveMangiare: 'Pesce e frutti di mare nei ristoranti sulla spiaggia, colazioni tamil in paese.',
-    comeArrivare: "Circa 60 chilometri a sud di Chennai, in auto o taxi dall'aeroporto lungo la East Coast Road.",
+    comeArrivare:
+      "Circa 55 chilometri a sud dell'aeroporto di Chennai, in taxi, auto con autista o Uber lungo la East Coast Road: con il traffico servono 1-1,5 ore. Da Chennai partono anche autobus statali per Mamallapuram. Verso sud, Puducherry è a circa 95 chilometri sulla stessa strada costiera, Kanchipuram a circa 70 chilometri nell'entroterra.",
     comeSpostarsi: 'A piedi e in bici; tuk-tuk per i Cinque Ratha.',
     periodoMigliore: 'dicembre-marzo.',
-    costi: "Shore Temple e Cinque Ratha sono a pagamento con biglietto ASI: tariffe per gli stranieri alla biglietteria o sul portale ASI. Penitenza di Arjuna ad accesso libero.",
+    costi:
+      "Shore Temple e Cinque Ratha con un unico biglietto ASI da circa 600 rupie per gli stranieri (circa 6 €); Penitenza di Arjuna, Krishna Mandapam, palla di burro e Grotta della Tigre gratuiti. Budget giornaliero a persona, indicativo: basso 25-40 € (guesthouse in paese, pesce sulla spiaggia, bici); medio 60-100 € (hotel con piscina, tuk-tuk, cene fuori); alto 150 € e oltre (resort sulla East Coast Road).",
     erroriDaEvitare: [
       "Fare il bagno senza informarsi: il mare davanti al paese ha correnti forti",
       "Visitare i siti a mezzogiorno, sul granito al sole",
@@ -2571,9 +2854,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A piedi dal paese. Biglietto alla biglietteria ASI o online.",
         quando: "Orari alla biglietteria o sul sito dell'ASI. L'alba e il tardo pomeriggio danno la luce migliore sul granito.",
         tempo: "1 ora",
-        costo: "biglietto ASI per gli stranieri, tariffa alla biglietteria",
+        costo: "biglietto ASI unico con i Cinque Ratha: circa 600 rupie per gli stranieri (circa 6 €), 40 per gli indiani, gratis sotto i 15 anni",
+        orari: "Tutti i giorni dall'alba al tramonto, circa 6-18",
         url: "https://asi.nic.in/",
-        consiglio: "Girare intorno al tempio dal lato del mare: si vede bene quanto il vento ha consumato le sculture."
+        lat: 12.6164,
+        lng: 80.1986,
+        consiglio: "Girare intorno al tempio dal lato del mare: si vede bene quanto il vento ha consumato le sculture.",
       },
       {
         nome: "I Cinque Ratha",
@@ -2581,9 +2867,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Poco fuori dal centro, in bici o tuk-tuk. Biglietto ASI.",
         quando: "Mattina presto, prima che il sole renda il granito rovente.",
         tempo: "45 minuti",
-        costo: "biglietto ASI; chiedere alla biglietteria se vale anche per lo Shore Temple",
+        costo: "stesso biglietto ASI dello Shore Temple: circa 600 rupie per gli stranieri (circa 6 €)",
+        orari: "Tutti i giorni dall'alba al tramonto, circa 6-18",
         url: "https://asi.nic.in/",
-        consiglio: "Girare intorno a ogni ratha: ognuno ha uno stile di tetto diverso."
+        lat: 12.6088,
+        lng: 80.1896,
+        consiglio: "Girare intorno a ogni ratha: ognuno ha uno stile di tetto diverso.",
       },
       {
         nome: "La Penitenza di Arjuna",
@@ -2592,7 +2881,10 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Mattina presto o tardo pomeriggio, con la luce radente che fa risaltare le figure.",
         tempo: "30 minuti",
         costo: "gratuito",
-        consiglio: "Cercare il gatto in piedi su una zampa, che imita la penitenza dei saggi."
+        orari: "Sempre accessibile",
+        lat: 12.6175,
+        lng: 80.1989,
+        consiglio: "Cercare il gatto in piedi su una zampa, che imita la penitenza dei saggi.",
       },
       {
         nome: "La palla di burro di Krishna e la collina",
@@ -2600,19 +2892,73 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A piedi dalla Penitenza di Arjuna, per sentieri sulla collina.",
         quando: "Il tardo pomeriggio fino al tramonto.",
         tempo: "1-2 ore",
-        consiglio: "Scarpe comode: la roccia è liscia e scivolosa."
-      }
+        costo: "gratuito",
+        lat: 12.6191,
+        lng: 80.1923,
+        consiglio: "Scarpe comode: la roccia è liscia e scivolosa.",
+      },
+      {
+        nome: "Krishna Mandapam",
+        testo: "Accanto alla Penitenza di Arjuna, un bassorilievo della metà del VII secolo con Krishna che solleva il monte Govardhana per proteggere pastori e mucche dalla pioggia. Nel Cinquecento, sotto l'impero di Vijayanagara, fu chiuso dentro un padiglione a colonne.",
+        come: "A piedi, a pochi passi dalla Penitenza di Arjuna. Accesso libero.",
+        quando: "Insieme alla Penitenza, la mattina presto o nel tardo pomeriggio.",
+        tempo: "15-20 minuti",
+        costo: "gratuito",
+        lat: 12.6174,
+        lng: 80.1926,
+        consiglio: "Guardare la mucca che allatta il vitello mentre il pastore la munge: è il dettaglio più famoso.",
+      },
+      {
+        nome: "Il faro e il tempio di Olakkannesvara",
+        testo: "Il faro di pietra in cima alla collina, attivo dal 1904 e aperto ai turisti dal 2011. Accanto c'è il tempio di Olakkannesvara, dell'VIII secolo, sul cui tetto fu acceso il primo fanale nel 1887; dall'alto si vedono il paese, la costa e lo Shore Temple.",
+        come: "A piedi dalla collina della palla di burro di Krishna. Biglietto alla base del faro.",
+        quando: "Il tardo pomeriggio, per la luce sulla costa.",
+        tempo: "45 minuti",
+        lat: 12.6153,
+        lng: 80.1918,
+        consiglio: "Si combina con il tempio rupestre di Mahishasuramardini, proprio sotto il tempio di Olakkannesvara.",
+      },
+      {
+        nome: "La Grotta della Tigre, Saluvankuppam",
+        testo: "Un tempio rupestre dell'VIII secolo sulla spiaggia, con l'ingresso incorniciato da una fila di teste di yali, leoni mitici che sembrano tigri. Accanto, gli scavi hanno riportato alla luce un antico tempio di Murugan.",
+        come: "Circa 5 chilometri a nord del paese, in bici, tuk-tuk o auto lungo la East Coast Road. Sito ASI.",
+        quando: "Di mattina presto, prima dei gruppi del fine settimana.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        lat: 12.657,
+        lng: 80.2093,
+      },
+      {
+        nome: "Tempio di Sthalasayana Perumal",
+        testo: "Il tempio di Vishnu del paese, dove il dio è venerato disteso, ricordato dai santi poeti alvar con l'antico nome di Thirukadalmallai. È uno dei 108 Divya Desam ed è ancora un tempio vivo, frequentato dai fedeli.",
+        come: "A piedi, tra la Penitenza di Arjuna e il mare. Scarpe al deposito.",
+        quando: "Alla mattina o alla sera, durante le cerimonie.",
+        tempo: "30 minuti",
+        costo: "ingresso libero",
+        lat: 12.6167,
+        lng: 80.1986,
+      },
+      {
+        nome: "Madras Crocodile Bank",
+        testo: "Uno zoo di rettili e centro di ricerca fondato nel 1976 sulla East Coast Road, con coccodrilli e gaviali dell'India, tartarughe e serpenti. È anche un centro di conservazione per le specie in pericolo.",
+        come: "Circa 15 chilometri a nord di Mamallapuram, in auto o tuk-tuk; si può fermare sulla strada da Chennai.",
+        quando: "Di mattina, quando gli animali sono più attivi; non il lunedì.",
+        tempo: "1,5-2 ore",
+        orari: "Chiuso il lunedì",
+        lat: 12.7439,
+        lng: 80.2401,
+      },
     ],
     programmi: [
       {
         titolo: "1 giorno",
         tappe: [
           "Cinque Ratha all'apertura",
-          "Penitenza di Arjuna",
+          "Penitenza di Arjuna e Krishna Mandapam",
           "Pranzo di pesce sulla spiaggia",
-          "Collina con i templi rupestri e la palla di Krishna",
-          "Shore Temple al tramonto"
-        ]
+          "Collina con i templi rupestri, la palla di Krishna e il faro",
+          "Shore Temple al tramonto",
+        ],
       },
       {
         titolo: "2 giorni",
@@ -2620,20 +2966,29 @@ export const destinazioniIndia: Destinazione[] = [
           "Il giorno sopra",
           "Giorno 2: gita a Kanchipuram, l'antica capitale dei Pallava, città dei templi e della seta",
           "Ritorno e serata nel paese con le botteghe degli scalpellini",
-        ]
-      }
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "I due giorni sopra",
+          "Giorno 3: Grotta della Tigre al mattino, Madras Crocodile Bank, pomeriggio al mare e partenza per Puducherry",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Il paese, vicino alla spiaggia dei pescatori",
         perChi: "chi vuole tutto a piedi",
-        testo: "Guesthouse e piccoli hotel tra la spiaggia e i monumenti, con ristoranti di pesce. Semplice, tranquillo la sera."
+        testo: "Guesthouse e piccoli hotel tra la spiaggia e i monumenti, con ristoranti di pesce. Semplice, tranquillo la sera.",
+        fascia: "20-45 €",
       },
       {
         nome: "East Coast Road",
         perChi: "resort con piscina",
-        testo: "Resort sulla spiaggia a nord e a sud del paese. Comodi per riposare dopo il volo, serve un mezzo per i siti."
-      }
+        testo: "Resort sulla spiaggia a nord e a sud del paese. Comodi per riposare dopo il volo, serve un mezzo per i siti.",
+        fascia: "60-170 €",
+      },
     ],
     sapori: [
       {
@@ -2658,6 +3013,52 @@ export const destinazioniIndia: Destinazione[] = [
       "I biglietti si comprano alle biglietterie ASI o online, non da chi li offre per strada.",
       "Nelle botteghe di sculture i prezzi per gli stranieri partono alti: trattare.",
       "A mezzogiorno il granito al sole è rovente: siti all'alba e al tramonto.",
+    ],
+    gite: [
+      {
+        nome: "Kanchipuram",
+        testo: "L'antica capitale dei Pallava, con templi come il Kailasanathar e l'Ekambareswarar, e le botteghe di seta più famose del Tamil Nadu.",
+        come: "In auto con autista o taxi, andata e ritorno in giornata.",
+        distanza: "circa 70 km, 1,5-2 ore",
+      },
+      {
+        nome: "Puducherry",
+        testo: "L'ex colonia francese con il quartiere bianco di case coloniali, la passeggiata sul mare e l'ashram di Sri Aurobindo. Più una tappa da una notte che una gita.",
+        come: "In auto lungo la East Coast Road o in autobus.",
+        distanza: "circa 95 km, 2-2,5 ore",
+      },
+      {
+        nome: "DakshinaChitra",
+        testo: "Un museo all'aperto con case tradizionali dell'India del Sud ricostruite e botteghe di artigiani.",
+        come: "In auto o tuk-tuk verso nord sulla East Coast Road; chiuso il martedì.",
+        distanza: "circa 30 km, 45 minuti",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quanto tempo serve a Mamallapuram?",
+        risposta: "Un giorno pieno basta per i monumenti principali. Con due notti si aggiunge Kanchipuram o un pomeriggio al mare.",
+      },
+      {
+        domanda: "Serve un biglietto per ogni monumento?",
+        risposta: "No: Shore Temple e Cinque Ratha hanno un unico biglietto ASI, circa 600 rupie per gli stranieri. Penitenza di Arjuna, Krishna Mandapam, palla di burro e templi della collina sono gratuiti.",
+      },
+      {
+        domanda: "Si può fare il bagno?",
+        risposta: "Il mare davanti al paese ha correnti forti: informatevi sul posto prima di entrare in acqua e non nuotate dove non c'è nessuno.",
+      },
+      {
+        domanda: "Meglio dormire a Mamallapuram o a Chennai?",
+        risposta: "A Mamallapuram: il paese è tranquillo, i siti si vedono all'alba e al tramonto e si riparte direttamente verso sud.",
+      },
+      {
+        domanda: "Come ci si arriva dall'aeroporto di Chennai?",
+        risposta: "In taxi o Uber lungo la East Coast Road, circa 55 chilometri e 1-1,5 ore di strada.",
+      },
+      {
+        domanda: "Quando andare?",
+        risposta: "Da dicembre a marzo. Tra ottobre e dicembre il monsone di nord-est porta piogge forti, e da aprile il caldo sul granito diventa pesante.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],

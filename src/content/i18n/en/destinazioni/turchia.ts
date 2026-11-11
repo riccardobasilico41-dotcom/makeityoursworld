@@ -1194,11 +1194,10 @@ export const destinazioniTurchia: Destinazione[] = [
     doveDormire:
       "Fethiye or Ölüdeniz for the first base, Kaş for the second (the nicest and liveliest). Budget: guesthouses in Kaş · mid-range: hotels with sea views · luxury: resorts in Ölüdeniz and Kalkan.",
     doveMangiare: 'Fish chosen at the Fethiye market and cooked in the restaurants around it, gözleme in the villages, meze in the taverns of Kaş.',
-    comeArrivare: 'Dalaman (for Fethiye) and Antalya (for Kaş and Kekova) airports.',
+    comeArrivare: "Two airports serve the coast: Dalaman (DLM) for Fethiye, Ölüdeniz and Göcek, about an hour's drive from Fethiye, and Antalya (AYT) for Kaş and Kekova, about three and a half hours from Kaş. In season there are direct flights from Italy to both, and all year via Istanbul. Driving in from the Aegean takes about 3.5-4 hours from Selçuk to Fethiye; from Fethiye to Kaş the coast road takes about 2 hours.",
     comeSpostarsi: 'Rental car; dolmuş between the main towns; boats from the harbor to the islands.',
     periodoMigliore: 'May-June and September-October; July-August are very hot and crowded',
-    costi:
-      "Boat trip with lunch roughly €25-45; paragliding around €100-150; Patara and Saklıkent around €5-15 each (approximate).",
+    costi: "Low budget about €50-70 a day per person (guesthouse in Fethiye or Kaş, dolmuş, one site a day, food in local places); mid €100-150 (sea-view hotel, rental car, boat trip, fish dinners); high from €220 up (resort in Ölüdeniz or Kalkan, private boat, paragliding). 2026 tickets for foreign visitors: Patara €15, Myra €13, Church of St Nicholas €17, Simena €4, Kayaköy, Tlos, Xanthos, Letoon, the Tomb of Amyntas and Gemile Island €3 each.",
     erroriDaEvitare: [
       "Touring the coast without a car: dolmuş run between towns, but the best coves stay out of reach",
       'Going in August without booking: Kaş and Ölüdeniz fill up',
@@ -1208,38 +1207,164 @@ export const destinazioniTurchia: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
+        "nome": "Fethiye and the Tomb of Amyntas",
+        "testo": "Fethiye is a real town, with a harbour full of gulets, the fish market and the seafront. Above the centre, Lycian tombs are cut into the rock face: the largest, the 4th-century BC Tomb of Amyntas, has a temple front with Ionic columns.",
+        "come": "A staircase climbs from the centre to the tomb, about 15 minutes on foot.",
+        "quando": "Late afternoon, when the carved façade turns orange.",
+        "tempo": "1 hour for the tomb, half a day with the market and harbour",
+        "costo": "Tomb of Amyntas €3 (2026).",
+        "orari": "Daily, 8:30-19:30 from April to October and 8:30-17:30 from November to March.",
+        "lat": 36.6183,
+        "lng": 29.1178,
+        "url": "https://www.turkishmuseums.com/museum/detail/2177-mugla-amynthas-archaeological-site/2177/4",
+        "consiglio": "At the fish market, ask the price per kilo before the fish is weighed: cooking at the restaurants around is paid separately."
+      },
+      {
         "nome": "Ölüdeniz and Butterfly Valley",
-        "testo": "The turquoise lagoon, a protected nature area, with Butterfly Valley just beyond.",
-        "come": "Dolmuş from Fethiye.",
-        "quando": "Morning, before the bathers arrive.",
+        "testo": "The turquoise lagoon, a protected natural area, with the public beach of Belcekız in front. A little further south, Butterfly Valley is a cove shut in by rock walls, reachable in practice only by sea.",
+        "come": "Dolmuş from Fethiye, about 30 minutes. For Butterfly Valley, boat from Ölüdeniz beach.",
+        "quando": "Morning, before the crowds of swimmers; in summer arrive early to find a spot.",
         "tempo": "Half a day",
-        "consiglio": "Paragliding flights from Mount Babadağ land here."
+        "costo": "The lagoon has a small entry fee, Belcekız beach is free; boat to Butterfly Valley about €10-20 return.",
+        "lat": 36.5495,
+        "lng": 29.1116,
+        "consiglio": "Paragliding flights take off from Mount Babadağ, at almost two thousand metres, and land on the beach: about €100-150."
       },
       {
         "nome": "Kayaköy",
-        "testo": "A Greek village emptied by the 1923 population exchange, with about 500 ruined stone houses on the slope.",
-        "come": "Dolmuş from Fethiye, about 8 km.",
+        "testo": "A Greek village emptied by the population exchange of 1923, with about 500 roofless stone houses on the hillside and two churches. A trail also leads down from here towards Ölüdeniz.",
+        "come": "Dolmuş from Fethiye, about 8 km. You walk among the ruins on uphill paths.",
         "quando": "Morning or afternoon, in low light.",
-        "tempo": "1-1.5 hours"
+        "tempo": "1-1.5 hours",
+        "costo": "€3 (2026).",
+        "orari": "Daily, 8:30-19:30 from April to October and 8:30-17:30 from November to March.",
+        "lat": 36.5767,
+        "lng": 29.0867,
+        "url": "https://www.turkishmuseums.com/museum/detail/2187-mugla-kayakoy-archaeological-site/2187/4"
+      },
+      {
+        "nome": "Gemile Island",
+        "testo": "A small island off the coast between Ölüdeniz and Kayaköy, also called St Nicholas Island, with the remains of Byzantine churches and a long covered walkway climbing to the top. It is a classic stop on boat trips from Fethiye and Ölüdeniz.",
+        "come": "By boat only: day trips from Fethiye and Ölüdeniz or boats from Gemiler bay.",
+        "quando": "Morning, before the tour boats arrive.",
+        "tempo": "1 hour on the island",
+        "costo": "€3 (2026), plus the boat.",
+        "orari": "Daily, 8:30-19:30 from April to October and 8:30-17:30 from November to March.",
+        "lat": 36.5534,
+        "lng": 29.0694,
+        "url": "https://www.turkishmuseums.com/museum/detail/2181-mugla-gemile-island/2181/4"
+      },
+      {
+        "nome": "Tlos",
+        "testo": "One of the oldest cities of Lycia, on a spur above the Xanthos valley, with façade tombs cut into the cliff, the acropolis with its Ottoman castle, the stadium and the theatre. From the top you see the mountains towards Saklıkent.",
+        "come": "By car from Fethiye, about 40 minutes; it pairs easily with Saklıkent.",
+        "quando": "Early morning or late afternoon: there is little shade.",
+        "tempo": "1.5 hours",
+        "costo": "€3 (2026).",
+        "orari": "Daily, 8:30-19:30 from April to October and 8:30-17:30 from November to March.",
+        "lat": 36.5539,
+        "lng": 29.4208,
+        "url": "https://www.turkishmuseums.com/museum/detail/2194-mugla-tlos-archaeological-site/2194/4"
       },
       {
         "nome": "Saklıkent",
-        "testo": "A gorge around 300 metres deep where you wade through cold water between rock walls; the walking section only opens when the water level allows.",
-        "come": "By car from Fethiye.",
-        "quando": "Summer, when it is hot.",
+        "testo": "A gorge about 300 metres deep and 18 kilometres long, where you walk through cold water between rock walls. The water comes from mountain snow and is icy even in August; the walking section opens only when the level allows, then the gorge narrows and gets demanding.",
+        "come": "By car from Fethiye, about an hour. A wooden walkway at the entrance, then you wade the stream.",
+        "quando": "Summer, when it is hot; in spring the water can be too high.",
         "tempo": "2-3 hours",
-        "consiglio": "Rent water shoes on site."
+        "costo": "About €5-10.",
+        "lat": 36.4688,
+        "lng": 29.4034,
+        "consiglio": "Rent water shoes on site and keep phone and documents in a dry bag."
+      },
+      {
+        "nome": "Xanthos and Letoon",
+        "testo": "Xanthos was the capital of the Lycian League, with its theatre, pillar tombs and the inscribed pillar bearing the longest known Lycian text. A few kilometres away, the Letoon was the federal sanctuary of Leto, Apollo and Artemis. Together they have been a UNESCO World Heritage Site since 1988.",
+        "come": "By car, on the road between Fethiye and Kaş; Xanthos is near the village of Kınık, the Letoon 10 minutes away.",
+        "quando": "Morning, before the heat; they pair with Patara on the same day.",
+        "tempo": "1 hour each",
+        "costo": "€3 each (2026).",
+        "orari": "Xanthos: Daily, 8:30-19:00 from April to October (ticket office until 18:30) and 8:30-17:30 from November to March (ticket office until 17:00). Letoon: 8:30-19:30 in summer, 8:30-17:30 in winter.",
+        "lat": 36.3571,
+        "lng": 29.3193,
+        "url": "https://www.turkishmuseums.com/museum/detail/1975-antalya-xanthos-archeological-site/1975/4"
+      },
+      {
+        "nome": "Patara",
+        "testo": "The ruins of the ancient Lycian capital, with the theatre, the restored bouleuterion, the League's assembly hall, and a colonnaded street. Beyond the ruins lies an 18-kilometre sandy beach among the dunes, protected because sea turtles nest there.",
+        "come": "By car or dolmuş from Kaş or Kalkan to the village of Gelemiş; from the ruins to the beach on foot or by car.",
+        "quando": "The ruins in the morning, the beach in the afternoon.",
+        "tempo": "Half a day",
+        "costo": "€15 (2026), ruins and beach.",
+        "orari": "Daily, 8:30-19:00 from April to October (ticket office until 18:30) and 8:30-17:30 from November to March (ticket office until 17:00).",
+        "lat": 36.2603,
+        "lng": 29.3142,
+        "url": "https://www.turkishmuseums.com/museum/detail/1968-antalya-patara/1968/4",
+        "consiglio": "The beach closes at sunset for the turtles, and you cannot stay at night."
+      },
+      {
+        "nome": "Kaputaş",
+        "testo": "A small sand-and-pebble beach at the mouth of a gorge between Kalkan and Kaş, with very intense blue water. It is one of the most photographed beaches in the country, and it can be seen well from the coast road above.",
+        "come": "Steps lead down from the road; the car park is small and there is a dolmuş stop between Kaş and Kalkan.",
+        "quando": "Early morning or off season: in summer it fills up fast.",
+        "tempo": "1-2 hours",
+        "lat": 36.2292,
+        "lng": 29.4492,
+        "consiglio": "Stop only if there is space in the car park: you cannot park along the coast road."
+      },
+      {
+        "nome": "Kaş and the Antiphellos theatre",
+        "testo": "The most pleasant seaside town on the coast, with uphill lanes, cafés on the harbour and tavernas. At the edge of town stands the small Hellenistic theatre of ancient Antiphellos, facing the sea and the Greek island of Kastellorizo, and Lycian tombs appear here and there among the houses.",
+        "come": "On foot from the harbour: the theatre is 10 minutes to the west.",
+        "quando": "Sunset at the theatre, then the evening on the harbour.",
+        "tempo": "Half a day",
+        "lat": 36.2,
+        "lng": 29.6383,
+        "consiglio": "Kaş is also a diving centre, with wrecks and caves close to the coast."
       },
       {
         "nome": "Kekova and Simena",
-        "testo": "A protected stretch of sea with the sunken ruins of Dolichiste, destroyed by an earthquake in the 2nd century, and the village of Kaleköy, ancient Simena, reachable only by sea, below a castle.",
-        "come": "Boat or kayak trip from Üçağız or Kaş.",
-        "quando": "Morning, with the clearest water.",
-        "tempo": "Half a day",
-        "consiglio": "Swimming and diving over the sunken city are forbidden: you look from the boat or kayak."
+        "testo": "A protected stretch of sea with the sunken ruins of Dolichiste, destroyed by an earthquake in the 2nd century, and the village of Kaleköy, ancient Simena, reachable only by sea, below a castle. From the castle you see the islands, the bay and a Lycian sarcophagus rising from the water.",
+        "come": "Boat or kayak trip from Üçağız or Kaş; in Kaleköy you walk up to the castle between the houses.",
+        "quando": "Morning, when the water is clearest; boats return in the afternoon.",
+        "tempo": "Half or full day",
+        "costo": "Boat trip with lunch about €25-45, kayak tour about €40-60; Simena castle €4 (2026).",
+        "orari": "Simena castle: Daily, 8:30-19:00 from April to October (ticket office until 18:30) and 8:30-17:30 from November to March (ticket office until 17:00).",
+        "lat": 36.1906,
+        "lng": 29.8615,
+        "url": "https://www.turkishmuseums.com/museum/detail/1972-antalya-simena-archeological-site/1972/4",
+        "consiglio": "Swimming and diving over the sunken city are forbidden: you look from the boat or the kayak."
+      },
+      {
+        "nome": "Myra and the Church of St Nicholas",
+        "testo": "In Demre, the rock tombs of Myra have façades carved like Lycian houses, above a large Roman theatre. In town, the Church of St Nicholas held the relics of the bishop of Myra until they were taken to Bari in 1087.",
+        "come": "By car from Kaş, about 45 minutes; the ruins and the church are 2 km apart.",
+        "quando": "Morning, before the tour coaches from Antalya.",
+        "tempo": "2 hours for both",
+        "costo": "Myra €13, Church of St Nicholas €17 (2026).",
+        "orari": "Daily, 8:30-19:00 from April to October (ticket office until 18:30) and 8:30-17:30 from November to March (ticket office until 17:00).",
+        "lat": 36.2592,
+        "lng": 29.9853,
+        "url": "https://www.turkishmuseums.com/museum/detail/1966-antalya-myra-archaeological-site/1966/4",
+        "consiglio": "On the road to Antalya it pairs well with Olympos and the Chimaera."
       }
     ],
     programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Ölüdeniz and the lagoon",
+          "Afternoon: Kayaköy",
+          "Evening: Tomb of Amyntas at sunset and dinner at the Fethiye fish market"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Fethiye, Ölüdeniz and Kayaköy",
+          "Day 2: Saklıkent and Tlos in the morning, Xanthos and Patara in the afternoon, arrival in Kaş via Kaputaş"
+        ]
+      },
       {
         "titolo": "3 days",
         "tappe": [
@@ -1247,23 +1372,41 @@ export const destinazioniTurchia: Destinazione[] = [
           "Day 2: Kayaköy, Saklıkent and Patara",
           "Day 3: Kaş and Kekova"
         ]
+      },
+      {
+        "titolo": "5 days, Fethiye to Antalya",
+        "tappe": [
+          "Day 1: Fethiye and the Tomb of Amyntas",
+          "Day 2: Ölüdeniz, Butterfly Valley and Kayaköy",
+          "Day 3: Tlos, Saklıkent, Xanthos and Patara, evening in Kaş",
+          "Day 4: Kekova and Simena by boat",
+          "Day 5: Myra and St Nicholas, Olympos and the Chimaera, arrival in Antalya"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Fethiye",
         "perChi": "those who want a base with services",
-        "testo": "A city with a harbor, fish market and dolmuş for the whole coast."
+        "testo": "A town with a harbour, fish market and dolmuş along the whole coast.",
+        "fascia": "€40-70"
       },
       {
         "nome": "Ölüdeniz",
         "perChi": "those who want beach and paragliding",
-        "testo": "Touristy, with hotels and bars until late."
+        "testo": "Touristy, with hotels and bars open late; prices rise near the lagoon.",
+        "fascia": "€80-140"
       },
       {
         "nome": "Kaş",
         "perChi": "those who want a quiet seaside town",
-        "testo": "Cafes and taverns on the harbor, diving and trips to Kekova."
+        "testo": "Cafés and tavernas on the harbour, diving and trips to Kekova.",
+        "fascia": "€45-160"
+      },
+      {
+        "nome": "Kalkan",
+        "perChi": "those looking for villas and upmarket hotels",
+        "testo": "A town of white houses on a bay between Kaş and Patara, with many villas with pools and terrace restaurants; pricier and less lively than Kaş."
       }
     ],
     sapori: [
@@ -1290,6 +1433,58 @@ export const destinazioniTurchia: Destinazione[] = [
       "Boat trips sold on the street vary a lot: look at what the price includes.",
       "Paragliding: choose a licensed operator and check that your travel insurance covers it."
     ],
+    gite: [
+      {
+        "nome": "Kastellorizo (Meis)",
+        "distanza": "about 20 minutes by ferry from Kaş",
+        "come": "Ferry from Kaş harbour, with a passport or an ID card valid for travel: it is a Greek island, so you leave Turkey.",
+        "testo": "The colourful village on the harbour, the Blue Cave by boat and tavernas by the sea. It takes half a day."
+      },
+      {
+        "nome": "Olympos and the Chimaera",
+        "distanza": "about 2 hours from Kaş, 1.5 hours from Antalya",
+        "come": "By car along the coast towards Antalya; for the Chimaera you walk up from Çıralı in about half an hour.",
+        "testo": "The ruins of Olympos in the woods along a stream, down to the beach (€10, 2026), and the flames of the Chimaera, which burn naturally from underground on the hill above Çıralı. They are best after dark: you need closed shoes and a torch."
+      },
+      {
+        "nome": "The Twelve Islands of Fethiye",
+        "distanza": "a day by boat from Fethiye harbour",
+        "come": "Gulets with lunch on board leave the harbour in the morning, booked the day before.",
+        "testo": "Swimming stops among the bays and islands of the gulf, often including Gemile Island and coves reachable only by sea. Check what the price includes: some boats are very crowded and play loud music."
+      },
+      {
+        "nome": "A stage of the Lycian Way",
+        "distanza": "on foot from Ölüdeniz or Kaş",
+        "come": "The trail is marked with red and white stripes; the easiest sections are Ölüdeniz-Faralya and Kaş-Limanağzı.",
+        "testo": "The 540 km trail linking Fethiye to Antalya along the coast. A one-day section gives views over the lagoon or the bays from above; there is little shade, and you need hiking shoes and plenty of water."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for the Lycian coast?",
+        "risposta": "Four or five days for the stretch from Fethiye to Antalya with Kekova. With three days you can do Fethiye, Ölüdeniz, Patara and Kaş, skipping a few sites."
+      },
+      {
+        "domanda": "Is it better to stay in Fethiye, Ölüdeniz or Kaş?",
+        "risposta": "Fethiye or Ölüdeniz for the western part, Kaş for Kekova, Patara and Myra. Two bases save you driving the same road every day."
+      },
+      {
+        "domanda": "Do you need a car?",
+        "risposta": "It is not essential, because dolmuş link the main towns, but without a car you miss the coves, Tlos and Saklıkent. For five days a rental car is the most convenient choice."
+      },
+      {
+        "domanda": "Can you swim over the sunken city of Kekova?",
+        "risposta": "No: swimming and diving over the ruins are forbidden. Boats stop for swimming in nearby bays and the ruins are seen from the boat or a kayak."
+      },
+      {
+        "domanda": "When is the best time to go?",
+        "risposta": "May-June and September-October, when the sea is already warm and there are fewer people. July and August are very hot and Kaş and Ölüdeniz must be booked ahead."
+      },
+      {
+        "domanda": "How much do the archaeological sites cost?",
+        "risposta": "In 2026 Patara costs €15, Myra €13 and the Church of St Nicholas €17; Tlos, Xanthos, Letoon and Kayaköy €3 each. You pay at the ticket office by card or online on the ministry's site."
+      }
+    ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
@@ -1310,10 +1505,10 @@ export const destinazioniTurchia: Destinazione[] = [
     cosaVedere: ["Kaleiçi and Hadrian's Gate", 'The Antalya Archaeological Museum', 'The Düden waterfalls', 'The theater of Aspendos and Perge'],
     cosaFare: ['A swim at Konyaaltı', 'An evening at the old harbor'],
     doveDormire: 'In the restored Ottoman houses of Kaleiçi.',
-    comeArrivare: 'Antalya airport (AYT), with direct flights from Italy in season and from Istanbul all year round.',
+    comeArrivare: "Antalya airport (AYT) is about 20-30 minutes from the centre, with direct flights from Italy in season and from Istanbul all year round. From the airport the AntRay tram runs to the centre, or take a taxi or the hotel transfer; in high season it is worth reaching the airport 2.5-3 hours before the flight home. From Kaş the coast road takes about 3.5 hours by car, from Pamukkale about 3.5-4.",
     comeSpostarsi: 'Tram and taxi in the city; car for the sites nearby.',
     periodoMigliore: 'April to November',
-    costi: 'Archaeological Museum and Aspendos around €15-20 each (approximate).',
+    costi: "Low budget about €50-70 a day per person (guesthouse in Kaleiçi, tram, one site, food in local places); mid €100-150 (hotel in an Ottoman house, car or driver for Perge and Aspendos, dinners at the harbour); high from €250 up (seaside resort or luxury hotel, private guide, rafting or a boat). 2026 tickets for foreign visitors: Aspendos €15, Perge €11, Side €7, Karain €5.",
     erroriDaEvitare: ["Returning the rental car in another city without checking the one-way fee"],
     miaEsperienza:
       "It was the last stop of my sixteen days in Turkey with friends: I drove in from Kaş, spent a night in Kaleiçi and flew home from here.",
@@ -1322,27 +1517,139 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Kaleiçi",
         "testo": "The old town inside the walls, with traditional red-roofed houses, Hadrian's Gate, built for the emperor's visit in 130, and the old harbour, now a marina. In the evening it is full of restaurants.",
-        "come": "On foot from the modern centre.",
-        "quando": "Afternoon and evening.",
-        "tempo": "2 hours"
+        "come": "On foot from the modern centre; the lanes step down to the harbour.",
+        "quando": "Afternoon and evening, when it cools down.",
+        "tempo": "2 hours",
+        "lat": 36.881,
+        "lng": 30.7037,
+        "consiglio": "In high season book dinner: the harbour restaurants fill up."
+      },
+      {
+        "nome": "Hadrian's Gate",
+        "testo": "The three-arched marble gate built for Emperor Hadrian's visit in 130, the eastern entrance to Kaleiçi. Under the arches you can still see the ruts left by cart wheels in the paving.",
+        "come": "On Atatürk Caddesi, a short walk from the tram stop.",
+        "quando": "Always visible; lit up in the evening.",
+        "tempo": "15 minutes",
+        "costo": "Free.",
+        "lat": 36.8853,
+        "lng": 30.7083
+      },
+      {
+        "nome": "Yivli Minare",
+        "testo": "The fluted 13th-century minaret, in brick with turquoise tile inlays, the symbol of the city. It stands next to the mosque of the same name and the clock tower, at the northern entrance to Kaleiçi.",
+        "come": "On foot from Kale Kapısı square.",
+        "quando": "Outside prayer times if you want to enter the mosque.",
+        "tempo": "20 minutes",
+        "costo": "Free.",
+        "lat": 36.8864,
+        "lng": 30.7044,
+        "consiglio": "In the mosque shoulders and knees covered, and a headscarf for women."
+      },
+      {
+        "nome": "Hıdırlık Tower and Karaalioğlu Park",
+        "testo": "The 2nd-century Roman stone tower at the south-west corner of the walls, above the cliff. Next to it Karaalioğlu Park runs along the coast, with views over the gulf and the Beydağları mountains.",
+        "come": "On foot from the old harbour, 10 minutes uphill.",
+        "quando": "At sunset, when the light drops behind the mountains.",
+        "tempo": "1 hour",
+        "costo": "Free.",
+        "lat": 36.8814,
+        "lng": 30.7036
       },
       {
         "nome": "Antalya Archaeological Museum",
-        "testo": "It was one of Turkey's most important museums, with the Roman statues from Perge. It closed in July 2025 and is being rebuilt: as of November 2026 it cannot be visited.",
-        "come": "Closed for rebuilding.",
-        "quando": "Check the official website for the reopening date.",
+        "testo": "It was one of the most important museums in Turkey, with the Roman statues from Perge and carved sarcophagi. It closed in July 2025 and is being rebuilt: in November 2026 it cannot be visited.",
+        "come": "Closed for reconstruction.",
+        "quando": "Check the reopening date on the official site.",
         "tempo": "—",
+        "lat": 36.8856,
+        "lng": 30.6797,
         "url": "https://muze.gov.tr/"
       },
       {
-        "nome": "Aspendos and Perge",
-        "testo": "The theatre of Aspendos, built in 155, is considered one of the best preserved of antiquity and still hosts a summer opera and ballet festival. Perge, near Antalya, has the stadium, the large South Baths and the main street with a water channel down the middle.",
-        "come": "By car with a driver or on a tour from Antalya: Perge is on the way to Aspendos.",
-        "quando": "Open daily 8am-5pm, ticket office until 4:30pm (November 2026). Early morning.",
-        "tempo": "Half a day for both",
-        "url": "https://muze.gov.tr/",
-        "consiglio": "Aspendos is the stop not to skip.",
-        "costo": "Prices for foreign visitors on the official website"
+        "nome": "Upper Düden Waterfalls",
+        "testo": "The Düden river drops into a gorge inside a wooded park on the northern edge of the city. A path runs behind the falls, through a damp cave.",
+        "come": "By taxi or city bus from the centre, about 20-30 minutes.",
+        "quando": "Early morning on weekdays; at weekends families and groups arrive.",
+        "tempo": "1 hour",
+        "lat": 36.9638,
+        "lng": 30.7269
+      },
+      {
+        "nome": "Lower Düden Waterfalls",
+        "testo": "Where the river ends straight in the sea, falling from a cliff about forty metres high, in the Lara area. You watch them from the clifftop park or, better, from the sea on the boats leaving the old harbour.",
+        "come": "By taxi towards Lara, about 20 minutes; or by boat from Kaleiçi harbour.",
+        "quando": "Afternoon, with the sun behind you.",
+        "tempo": "30-45 minutes, or 1-2 hours by boat",
+        "lat": 36.851,
+        "lng": 30.7835
+      },
+      {
+        "nome": "Konyaaltı Beach",
+        "testo": "The long pebble beach west of the centre, with the mountains behind, a pedestrian and cycle promenade and beach clubs with loungers. The water gets deep right away.",
+        "come": "Tram or bus from the centre, about 15 minutes, or on foot along the coast from Karaalioğlu Park.",
+        "quando": "May to October; in summer early or after 5 pm.",
+        "tempo": "Half a day",
+        "lat": 36.865,
+        "lng": 30.6444,
+        "consiglio": "Water shoes to get in over the pebbles."
+      },
+      {
+        "nome": "Tünektepe cable car",
+        "testo": "From the western end of Konyaaltı a cable car climbs Tünektepe hill, with a viewpoint and a restaurant over the Gulf of Antalya, the city and the mountains.",
+        "come": "By taxi or bus to the lower station, at the far end of Konyaaltı.",
+        "quando": "Sunset, with the city lights.",
+        "tempo": "1-1.5 hours",
+        "lat": 36.8262,
+        "lng": 30.5906
+      },
+      {
+        "nome": "Perge",
+        "testo": "One of the great cities of Pamphylia, close to Antalya: the Hellenistic gate with its two round towers, the stadium, the large South Baths and the main street with a water channel down the middle. Many of the statues of the Antalya museum come from here.",
+        "come": "By car, taxi or tour from Antalya, about 20 minutes. It is on the way to Aspendos.",
+        "quando": "Early morning: the site is large and has almost no shade.",
+        "tempo": "1.5-2 hours",
+        "costo": "€11 (2026).",
+        "orari": "Daily, 8:00-19:00 in summer (ticket office until 18:30) and 8:00-17:00 from November to April (ticket office until 16:30).",
+        "lat": 36.9604,
+        "lng": 30.8537,
+        "url": "https://www.turkishmuseums.com/museum/detail/1969-antalya-perge-archaeological-site/1969/4"
+      },
+      {
+        "nome": "Aspendos",
+        "testo": "The theatre, built in 155, is considered one of the best preserved of antiquity, with its stage building still standing, and it still hosts a summer opera and ballet festival. On the hill behind stand the basilica, the agora and a long stretch of aqueduct.",
+        "come": "By car with driver or on a tour from Antalya, about 45 minutes.",
+        "quando": "Early morning, before the coaches; in summer in the evening for performances.",
+        "tempo": "1-1.5 hours",
+        "costo": "€15 (2026).",
+        "orari": "Daily, 8:00-19:00 in summer (ticket office until 18:30) and 8:00-17:00 from November to April (ticket office until 16:30).",
+        "lat": 36.9389,
+        "lng": 31.1722,
+        "url": "https://www.turkishmuseums.com/museum/detail/1963-antalya-aspendos-archaeological-site/1963/4",
+        "consiglio": "If you have time for only one site outside the city, make it this one."
+      },
+      {
+        "nome": "Termessos",
+        "testo": "A city perched at over a thousand metres in Güllük Dağı National Park, which Alexander the Great gave up besieging. The theatre on the edge of the precipice looks out over the mountains; around it remain walls, cisterns and hundreds of tombs scattered in the woods.",
+        "come": "By car, about 45 minutes from Antalya to the car park, then a steep 20-30 minute climb on a stony path.",
+        "quando": "Morning, in spring or autumn; in summer it is hot even at altitude.",
+        "tempo": "3 hours",
+        "orari": "Daily, 8:00-19:00 in summer and 8:00-17:00 from November to April (ticket office until 15:30).",
+        "lat": 36.9825,
+        "lng": 30.4644,
+        "url": "https://www.turkishmuseums.com/museum/detail/1974-antalya-termessos-archeological-site/1974/4",
+        "consiglio": "Hiking shoes and water: there is nothing at the top."
+      },
+      {
+        "nome": "Karain Cave",
+        "testo": "A cave inhabited since the Palaeolithic, among the most important prehistoric sites in Turkey, north-west of Antalya. You climb up a staircase, and a small museum next to it displays the finds.",
+        "come": "By car, about 30 minutes from the centre; it pairs with Termessos.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "costo": "€5 (2026).",
+        "orari": "Daily, 8:00-19:30 in summer and 8:00-17:00 from November to April (ticket office until 16:30).",
+        "lat": 37.0778,
+        "lng": 30.5708,
+        "url": "https://www.turkishmuseums.com/museum/detail/1964-antalya-karain-cave/1964/4"
       }
     ],
     programmi: [
@@ -1353,18 +1660,39 @@ export const destinazioniTurchia: Destinazione[] = [
           "Afternoon: swim at Konyaaltı",
           "Evening: Kaleiçi and the old harbour"
         ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Kaleiçi, Hadrian's Gate, Yivli Minare, Hıdırlık Tower; sunset from Karaalioğlu Park",
+          "Day 2: Perge and Aspendos in the morning, Lower Düden Waterfalls in the afternoon, evening at the harbour"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Kaleiçi and the Upper Düden Waterfalls",
+          "Day 2: Perge, Aspendos and Side",
+          "Day 3: Termessos and Karain in the morning, Konyaaltı and the Tünektepe cable car at sunset"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Kaleiçi",
         "perChi": "those who want the old town",
-        "testo": "Hotels in Ottoman houses, evening noise from the bars."
+        "testo": "Hotels in Ottoman houses, noise from the bars in the evening.",
+        "fascia": "€60-130"
       },
       {
         "nome": "Konyaaltı",
-        "perChi": "those who want a beach",
-        "testo": "A modern area with a pebble beach and mountains behind."
+        "perChi": "those who want the beach",
+        "testo": "A modern area with a pebble beach and mountains in the background, linked to the centre by tram and bus."
+      },
+      {
+        "nome": "Lara",
+        "perChi": "those who want a resort near the airport",
+        "testo": "The sandy coast to the east, past the Lower Düden Waterfalls, with large hotels and all-inclusives; far from the old town."
       }
     ],
     sapori: [
@@ -1389,6 +1717,58 @@ export const destinazioniTurchia: Destinazione[] = [
       "Rental car dropped in another city: check the one-way fee.",
       "All-inclusive hotels far from the center: sometimes the transfer costs as much as the difference.",
       "In summer it is very hot: visit at dawn."
+    ],
+    gite: [
+      {
+        "nome": "Side",
+        "distanza": "about 75 km, 1 hour 15 minutes",
+        "come": "By car, or by bus from Antalya to Manavgat, then dolmuş.",
+        "testo": "The village is built inside the ancient city: the theatre, the Temple of Apollo by the sea, the colonnaded street and the museum in the Roman baths. Archaeological site €7 and museum €5 (2026); the temple at sunset is the finest sight."
+      },
+      {
+        "nome": "Köprülü Canyon",
+        "distanza": "about 1.5 hours",
+        "come": "By car or with the rafting trips leaving from hotels, with morning pick-up.",
+        "testo": "A canyon along the Köprü river in a national park, with the easiest and busiest rafting in the area and a Roman bridge still in use. Higher up are the ruins of Selge."
+      },
+      {
+        "nome": "Phaselis and the Tahtalı cable car",
+        "distanza": "about 1 hour towards Kemer",
+        "come": "By car along the south-west coast.",
+        "testo": "Phaselis has three ancient harbours and a paved street among the pines leading to coves where you swim among the ruins (€10, 2026). Nearby a cable car climbs Mount Tahtalı, at over 2,300 metres."
+      },
+      {
+        "nome": "Kurşunlu Waterfall",
+        "distanza": "about 20 km, 30 minutes",
+        "come": "By car or taxi heading east.",
+        "testo": "A nature park with a waterfall in a green hollow and a path among the pools. It pairs with Perge on the same road."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Antalya?",
+        "risposta": "One for Kaleiçi and Aspendos, two to add Perge, the waterfalls and the sea, three with Termessos or Side. Many use it as the last stop before the flight."
+      },
+      {
+        "domanda": "Is the Antalya Archaeological Museum open?",
+        "risposta": "No: it has been closed since July 2025 for reconstruction and cannot be visited in November 2026. Check the reopening on the ministry's official site."
+      },
+      {
+        "domanda": "How do you get to Aspendos and Perge without a car?",
+        "risposta": "With a half-day tour or a taxi with driver for both, done in the same morning because Perge is on the way to Aspendos."
+      },
+      {
+        "domanda": "Where is it best to stay?",
+        "risposta": "Kaleiçi to be on foot between the harbour and restaurants, Konyaaltı for the beach in town, Lara for a resort near the airport."
+      },
+      {
+        "domanda": "How much do the sites around Antalya cost?",
+        "risposta": "For foreign visitors in 2026 Aspendos costs €15, Perge €11, Side €7 and Karain Cave €5. Tickets are paid at the ticket office by card or online."
+      },
+      {
+        "domanda": "When should you go?",
+        "risposta": "April to June and September to November. July and August are very hot: visit the sites at opening and spend the afternoon at the sea."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

@@ -353,13 +353,11 @@ export const destinazioniPolonia: Destinazione[] = [
     cosaFare: [],
     doveDormire: "It is visited as a day trip from Krakow: it is not designed as a stop with an overnight stay in Oświęcim.",
     doveMangiare: 'A small bar/self-service is in the Auschwitz I visitor center area; most visitors eat on returning to Krakow.',
-    comeArrivare:
-      "From Krakow: direct buses from the bus station to the Museum parking lot, or a regional train to Oświęcim station and then on foot or by bus to the entrance. There are also organized tours with transfer, guide and ticket included, departing from Krakow.",
+    comeArrivare: "From Kraków there are direct buses from the MDA coach station to the Museum car park, in about an hour and a half, every 20-40 minutes, with tickets around 34 PLN each way, about €8. Alternatively the regional train reaches Oświęcim station in about 1 hour 40 minutes, and from there it is about 2 km to the entrance, on foot or by local bus. There are also organised tours from Kraków with transfer, guide and ticket included.",
     comeSpostarsi: 'Between Auschwitz I and Birkenau a frequent free shuttle runs; on foot you walk a lot, on largely uncovered ground.',
     periodoMigliore:
       "all year, with different considerations: in summer it is hot and the routes (especially at Birkenau, almost without shade) become tiring; in winter the intense cold perhaps conveys the harshness of the place more than any other season. High season (June-August) is also when it's hardest to find a free entry slot.",
-    costi:
-      "Entry to the site is free. The cost, when there is one, is that of transport (bus/train) or the organized tour with a guide, which usually costs a few tens of euros per person.",
+    costi: "Entry to the Memorial is free with the named pass. The guided tour for individual visitors costs 150 PLN, about €35, in a foreign language (140 PLN in Polish; 2026 rates, headphones included). Budget for the day: low about €20-30 (free pass, return bus, lunch); mid about €50-70 (tour with an educator, bus, meals); high from €120 up (organised tour or private transfer from Kraków).",
     erroriDaEvitare: [
       'Showing up without an online reservation: the entry cards, which are free, must be reserved in advance on the official site visit.auschwitz.org: they are no longer sold on site',
       "Not checking the seasonal hours: in the middle hours of the day entry is allowed only with a Museum guide-educator or an organized tour; the independent visit without a guide is possible only in the remaining time slots, later in the afternoon depending on the season",
@@ -369,37 +367,207 @@ export const destinazioniPolonia: Destinazione[] = [
     ],
     luoghi: [
       {
-        nome: "Auschwitz I (Museum)",
-        testo: "The first camp, with the 'Arbeit macht frei' sign at the entrance, the museum blocks with national exhibitions and the display cases of victims' personal belongings. It is the place of memory where you grasp the scale of the extermination.",
-        come: "From Kraków bus station, bus or minibus to Oświęcim, or train to the station and then bus or on foot.",
-        quando: "The personal pass must be booked online; for most of the day entry is only with a guide.",
-        tempo: "half a day; the standard guided tour lasts about three and a half hours",
-        costo: "entry is free but requires a time-slot pass",
-        url: "https://www.auschwitz.org",
-        consiglio: "Backpacks and bags cannot exceed 35x25x15 cm: larger ones must be left outside."
+        "nome": "Auschwitz I (Museum)",
+        "testo": "The first camp, with the sign «Arbeit macht frei» at the entrance, the museum blocks with the national exhibitions and the display cases of the victims' personal belongings. It is the place of memory where the scale of the extermination becomes clear.",
+        "come": "From the Kraków bus station, bus or minibus to Oświęcim, or train to the station and then bus or on foot. The visit always starts here.",
+        "quando": "The named pass must be booked online; for most of the day entry is only with a guide.",
+        "tempo": "half a day; the standard guided tour lasts about three and a half hours",
+        "costo": "entry is free but requires a timed pass; guided tour for individuals 150 PLN, about €35 (2026)",
+        "orari": "Entry from 7:30; last entry at 14:00 in December, 15:00 in November and January, 16:00 in February, 17:00 in March and October, 18:00 in April, May and September, 19:00 from June to August. Visitors may stay 90 minutes after last entry. Closed on 1 January, 25 December and Easter Sunday.",
+        "lat": 50.0264,
+        "lng": 19.204,
+        "url": "https://www.auschwitz.org",
+        "consiglio": "Bags and backpacks may not exceed 35x25x15 cm: larger ones must be left outside."
       },
       {
-        nome: "Auschwitz II-Birkenau",
-        testo: "The actual extermination camp, much larger, with the entrance railway, the selection ramp and the surviving wooden barracks. The international monument among the remains of the crematoria remembers the victims.",
-        come: "With the guided tour the transfer from Auschwitz I is included.",
-        quando: "After the visit to Auschwitz I.",
-        tempo: "1.5-2 hours",
-        url: "https://www.auschwitz.org",
-        consiglio: "A place to visit in silence, without selfies."
+        "nome": "Block 11 and the Death Wall",
+        "testo": "The block used as the camp prison, with cells in the basement. In the closed courtyard between Block 10 and Block 11 stands the wall where the SS shot thousands of prisoners; today it is a place of remembrance, with flowers and candles.",
+        "come": "It is part of the Auschwitz I route, with a guide or on a self-guided visit.",
+        "quando": "During the visit to Auschwitz I.",
+        "tempo": "20-30 minutes",
+        "lat": 50.0251,
+        "lng": 19.2035,
+        "consiglio": "In the basement and in some rooms photography is forbidden: follow the signs."
       },
       {
-        nome: "Booking and visiting rules",
-        testo: "The Museum runs a system of personal passes, limited in number. Guided tours for individuals run in several languages. For most of the day entry is only with a guide; without a guide, with the free pass, only at the hours shown on the website.",
-        come: "Bookings are made only online, at visit.auschwitz.org; in summer well ahead.",
-        quando: "Avoid weekends and holidays.",
-        url: "https://www.auschwitz.org",
-        consiglio: "Beware of resellers: the official site is the only reliable one."
+        "nome": "Auschwitz II-Birkenau",
+        "testo": "The extermination camp itself, much larger, with the entrance track under the guard tower, the selection ramp and the remaining wooden barracks. The gas chambers and crematoria were blown up by the retreating Germans, and the ruins are preserved as they are.",
+        "come": "With the guided tour the transfer from Auschwitz I is included; otherwise a free shuttle runs between the two sites, about 3 km apart.",
+        "quando": "After the visit to Auschwitz I.",
+        "tempo": "1.5-2 hours",
+        "costo": "Included in the pass and the guided tour.",
+        "orari": "As Auschwitz I.",
+        "lat": 50.0345,
+        "lng": 19.1809,
+        "url": "https://www.auschwitz.org",
+        "consiglio": "A place to visit in silence, without selfies. It is outdoors with almost no shade: in winter dress very warmly."
+      },
+      {
+        "nome": "The Central Sauna at Birkenau",
+        "testo": "The building where deportees selected for labour were stripped, shaved, disinfected and registered. Today it houses an exhibition of family photographs brought by the deportees and found in the camp.",
+        "come": "In the north-western part of Birkenau, beyond the ruins of the crematoria; reached on foot with the guide or on a self-guided visit.",
+        "quando": "At the end of the Birkenau route.",
+        "tempo": "30 minutes",
+        "lat": 50.0391,
+        "lng": 19.1668
+      },
+      {
+        "nome": "International Monument to the Victims",
+        "testo": "The monument unveiled in 1967 at the end of the ramp, between the ruins of crematoria II and III. The plaques carry the same text in many of the victims' languages.",
+        "come": "On foot along the track, at the far end of the Birkenau camp.",
+        "quando": "During the visit to Birkenau.",
+        "tempo": "15-20 minutes",
+        "lat": 50.0348,
+        "lng": 19.169
+      },
+      {
+        "nome": "Judenrampe",
+        "testo": "The old unloading ramp between Auschwitz I and Birkenau, where the deportation trains arrived from 1942 until May 1944, before the track was extended into Birkenau. An open-air memorial with a freight wagon was inaugurated in 2005.",
+        "come": "Along the road between the two camps; some guided tours stop here.",
+        "quando": "Between Auschwitz I and Birkenau, if the schedule allows.",
+        "tempo": "20 minutes",
+        "lat": 50.0329,
+        "lng": 19.1901
+      },
+      {
+        "nome": "Monowitz (Auschwitz III)",
+        "testo": "The third camp, east of Oświęcim, built next to the IG Farben synthetic rubber plant where prisoners were forced to work. Little of the camp remains: a few buildings and memorial panels in the village of Monowice.",
+        "come": "By car or taxi from Oświęcim, about 15 minutes; it is not part of the regular Museum visit.",
+        "quando": "For those who want to go deeper, after the two main sites.",
+        "tempo": "30 minutes",
+        "lat": 50.0275,
+        "lng": 19.2881
+      },
+      {
+        "nome": "Auschwitz Jewish Center in Oświęcim",
+        "testo": "In the town centre, near the market square, the Jewish Center tells the story of the Jewish community that before the war made up more than half of Oświęcim's inhabitants. Next to it is the Chevra Lomdei Mishnayot synagogue, the only one left in town.",
+        "come": "By taxi or bus from the Museum, about 10 minutes; Plac ks. Jana Skarbka 5.",
+        "quando": "Before or after the Memorial; closed on Jewish holidays.",
+        "tempo": "1 hour",
+        "lat": 50.04,
+        "lng": 19.2205
+      },
+      {
+        "nome": "Booking and visiting rules",
+        "testo": "The Museum runs a system of named passes, in limited numbers, and asks for an identity document at the entrance. Guided tours for individuals are available in several languages. For most of the day entry is only with a guide; without a guide, with the free pass, only at the times shown on the website.",
+        "come": "Bookings are made only online, at visit.auschwitz.org: free passes at least 7 days ahead, guides well in advance. Individual passes cannot be changed or refunded.",
+        "quando": "Avoid weekends and holidays.",
+        "url": "https://visit.auschwitz.org/",
+        "consiglio": "Beware of resellers: the official website is the only reliable one. The Museum does not recommend the visit for children under 14."
+      },
+      {
+        "nome": "Leaving from Kraków",
+        "testo": "The direct bus to the Museum leaves from the MDA coach station, next to Kraków Główny railway station and Galeria Krakowska. The regional train to Oświęcim leaves from the main station.",
+        "come": "Bus about an hour and a half, train about 1 hour 40 minutes plus the stretch from Oświęcim station to the Museum.",
+        "quando": "Leave early, to arrive with a margin before the booked time slot.",
+        "tempo": "3-3.5 hours there and back",
+        "costo": "Bus about 34 PLN each way, about €8.",
+        "lat": 50.0678,
+        "lng": 19.9497,
+        "consiglio": "Check the time of the last bus back before going in."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "Half a day",
+        "tappe": [
+          "Morning: bus or train from Kraków",
+          "Guided tour of Auschwitz I and Auschwitz II-Birkenau, about three and a half hours",
+          "Early afternoon: back to Kraków"
+        ]
+      },
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: early departure from Kraków",
+          "Auschwitz I with the educator, then the shuttle to Birkenau",
+          "Afternoon: the Judenrampe and the Auschwitz Jewish Center",
+          "Evening: back to Kraków, with nothing else planned"
+        ]
+      },
+      {
+        "titolo": "2 days, study visit",
+        "tappe": [
+          "Day 1: 6-hour study visit with a Museum educator, night in Oświęcim",
+          "Day 2: Birkenau again at opening, at a slow pace, then the Jewish Center and back to Kraków"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Kraków, station area and Kleparz",
+        "perChi": "those who want the bus or train to Oświęcim on the doorstep",
+        "testo": "Just north of the Planty, near Kraków Główny and the MDA station. Less atmosphere, but you leave on foot and are ten minutes from the Rynek.",
+        "fascia": "€60-110"
+      },
+      {
+        "nome": "Kraków, Stare Miasto",
+        "perChi": "those who want to be close to the sights",
+        "testo": "The historic heart, 10-15 minutes on foot from the bus station; noise at night near the bars.",
+        "fascia": "€90-160"
+      },
+      {
+        "nome": "Kraków, Kazimierz",
+        "perChi": "those looking for a more intimate district",
+        "testo": "The old Jewish quarter, with synagogues and cafés; busier in the evening.",
+        "fascia": "€70-130"
+      },
+      {
+        "nome": "Oświęcim",
+        "perChi": "those doing a two-day study visit",
+        "testo": "A few hotels and simple guesthouses in town, near the Museum; useful only for those who want to return to Birkenau at opening."
       }
     ],
     attenzioni: [
       "The exhibitions are very hard: think carefully before bringing children.",
       "Allow for the visit being emotionally heavy: plan the rest of the day calmly.",
       "For photos and filming follow the signs and the staff's instructions."
+    ],
+    gite: [
+      {
+        "nome": "Schindler's Factory and the Podgórze ghetto",
+        "distanza": "in Kraków, 66 km from the Museum",
+        "come": "On foot or by tram from the centre of Kraków, on a different day.",
+        "testo": "The museum in Oskar Schindler's factory tells the story of Kraków under German occupation; a few steps away, Ghetto Heroes Square, with its metal chairs, remembers the deportations from the ghetto."
+      },
+      {
+        "nome": "Kazimierz",
+        "distanza": "in Kraków",
+        "come": "On foot from the old town.",
+        "testo": "Kraków's old Jewish quarter, with the Old Synagogue, the Remuh Synagogue and its cemetery. It helps to understand the life of the communities that Nazism wiped out."
+      },
+      {
+        "nome": "Wieliczka Salt Mine",
+        "distanza": "about 15 km from Kraków, 20-25 minutes by train",
+        "come": "Regional train or bus from Kraków, with a timed ticket on the official website.",
+        "testo": "The 2-3 hour Tourist Route among chapels and underground lakes carved in salt. It should be done on a different day from Auschwitz-Birkenau, never on the same one."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Do you need to book a visit to Auschwitz-Birkenau?",
+        "risposta": "Yes: every visitor needs a named pass, booked only online at visit.auschwitz.org, and an identity document. Passes are no longer sold on site."
+      },
+      {
+        "domanda": "How much does the visit cost?",
+        "risposta": "Entry is free with the pass. The guided tour for individuals costs 150 PLN, about €35, in a foreign language, 140 PLN in Polish (2026), including headphones and the transfer to Birkenau."
+      },
+      {
+        "domanda": "Can you visit without a guide?",
+        "risposta": "Yes, but only in the time slots reserved for self-guided visits, usually in the late afternoon, with the free pass booked in advance. At the busiest hours entry is only with a Museum educator."
+      },
+      {
+        "domanda": "How much time does it take?",
+        "risposta": "The guided tour lasts about three and a half hours for both sites, plus about 3 hours of travel there and back from Kraków. It is worth giving it a whole day, with nothing else planned."
+      },
+      {
+        "domanda": "Is it suitable for children?",
+        "risposta": "The Museum does not recommend the visit for children under 14: the exhibitions are very harrowing. Older children are best prepared beforehand."
+      },
+      {
+        "domanda": "What are the opening hours in November and winter?",
+        "risposta": "Entry starts at 7:30; last entry is at 15:00 in November and January, 14:00 in December, and you may stay 90 minutes after. The Museum is closed on 1 January, 25 December and Easter Sunday."
+      }
     ],
     esperienzeSlugs: ['auschwitz-birkenau-visita-guidata'],
     tripSlugs: ['cracovia-weekend'],

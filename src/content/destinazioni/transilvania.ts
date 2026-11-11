@@ -24,10 +24,10 @@ export const destinazioniTransilvania: Destinazione[] = [
       'All\'arrivo abbiamo dormito all\'Hotel Duke Romana (zona Piața Romană), un 3 stelle con recensioni miste ma nel complesso positive: colazione buona, letti comodi e buon rapporto qualità-prezzo, con qualche lamentela sulle camere mansardate. Al rientro, all\'Hotel Continental Forum (zona Palazzo del Parlamento), un 4 stelle, con recensioni molto positive su colazione, staff e camere.\n\nAlternative arrivo: economiche: Hello Hotels Bucharest, Trianon Hotel · fascia media: Casa Mendeleev · lusso (contenuto): Epoque Hotel, Grand Hotel Continental.\n\nAlternative rientro: economiche: Hotel Parliament, Volo Hotel Bucharest · fascia media: Filitti Boutique Hotel · lusso (contenuto): Radisson Blu Hotel Bucharest, JW Marriott Bucharest Grand Hotel.',
     doveMangiare: 'Caru\' cu Bere per la cena di benvenuto; Hanu\' lui Manuc o Excalibur per la cena di arrivederci.',
     usciteSerali: 'Il quartiere di Lipscani, pieno di bar e locali con musica fino a tardi; Freddo, St. Patrick, il giardino di Grădina Dorobanți.',
-    comeArrivare: 'Volo internazionale su Bucarest, poi taxi dall\'aeroporto (meglio taxi ufficiali o app di trasporto).',
+    comeArrivare: "Si atterra all'aeroporto Henri Coandă di Otopeni, circa 17 km a nord del centro. Il treno porta alla Gara de Nord in 20-25 minuti (circa 6-7 lei); il bus espresso 100, attivo 24 ore su 24, ferma a Piața Victoriei, Universitate e Piața Unirii (circa 3 lei con carta contactless). Il taxi si prenota dai touch screen degli arrivi e per il centro non dovrebbe superare i 60 lei; Bolt e Uber hanno un'area di ritiro segnalata.",
     comeSpostarsi: 'A piedi in centro, Uber, Bolt o taxi per il resto.',
     periodoMigliore: 'ponte di Halloween o inizio novembre',
-    costi: 'Biglietti di Palazzo del Parlamento, Ateneo Romeno e Terme sui siti ufficiali.',
+    costi: "Budget giornaliero a persona, indicativo: basso 40-60 € (ostello o hotel semplice, trattorie, metro), medio 80-120 € (hotel in centro, ristoranti tipici, due ingressi), alto da 180 €. Ingressi 2026: Palazzo del Parlamento 85 lei (circa 17 €), Museo del Villaggio 40 lei (circa 8 €), Therme da 141 lei (circa 28 €). Una cena da Caru' cu Bere costa circa 25-30 € a testa.",
     erroriDaEvitare: ['Restare senza contanti: conviene prelevare appena atterrati, perché alcuni locali tipici preferiscono i contanti in lei'],
     miaEsperienza:
       'Il Palazzo del Parlamento, con le sue dimensioni fuori scala, racconta la megalomania del regime di Ceaușescu prima ancora di entrare. È stata una delle visite guidate più impressionanti del viaggio.',
@@ -38,7 +38,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "Ingresso visitatori indicato sul sito ufficiale. Portare il passaporto e prenotare in anticipo.",
         quando: "Mattina nei giorni feriali; le sale di rappresentanza possono essere chiuse per eventi.",
         tempo: "1-1,5 ore",
-        costo: "tariffe dei tour sul sito ufficiale",
+        costo: "tour standard 85 lei adulti, circa 17 € (2026)",
+        lat: 44.4275,
+        lng: 26.0875,
+        url: "https://cic.cdep.ro/en/vizitare",
         consiglio: "Le dimensioni fuori scala raccontano la megalomania del regime già prima di entrare."
       },
       {
@@ -47,7 +50,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "A piedi, a Piața Revoluției.",
         quando: "Mattina o sera di concerto.",
         tempo: "30-45 minuti",
-        costo: "biglietti e concerti sul sito ufficiale",
+        costo: "visita dell'edificio circa 2 €; concerti sinfonici 120-160 lei, circa 24-32 €",
+        lat: 44.4413,
+        lng: 26.0973,
+        url: "https://fge.org.ro",
         consiglio: "Se possibile, assistere a un concerto: l'acustica è eccellente."
       },
       {
@@ -56,6 +62,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "A piedi, vicino a Piața Unirii.",
         quando: "Sera.",
         tempo: "2 ore",
+        costo: "ingresso libero",
+        orari: "Sempre accessibile.",
+        lat: 44.43237,
+        lng: 26.09862,
         consiglio: "Controllare i prezzi dei menu: alcuni locali sono pensati per turisti."
       },
       {
@@ -64,6 +74,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In pieno centro, Strada Stavropoleos.",
         quando: "Cena; prenotare.",
         tempo: "1,5-2 ore",
+        costo: "circa 25-30 € a testa per piatto, bevanda e dolce",
+        lat: 44.4321,
+        lng: 26.0981,
         url: "https://www.carucubere.ro",
         consiglio: "Provare i sarmale e il papanași."
       },
@@ -73,6 +86,10 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "Nel parco Re Michele I (ex Herăstrău), a nord del centro, in metro o bus.",
         quando: "Mattina; il parco è piacevole.",
         tempo: "1,5-2 ore",
+        costo: "40 lei adulti, circa 8 € (2026)",
+        orari: "Aperto tutti i giorni, con orario stagionale; chiuso a Pasqua, il 25 e 26 dicembre e l'1 e 2 gennaio.",
+        lat: 44.47336,
+        lng: 26.07656,
         url: "https://www.muzeul-satului.ro",
         consiglio: "Combinare con una passeggiata nel parco Herăstrău."
       },
@@ -82,9 +99,105 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In taxi o navetta da Bucarest: come arrivare sul sito ufficiale.",
         quando: "Giornata intera, specie l'ultimo giorno.",
         tempo: "giornata intera",
-        costo: "tariffe sul sito ufficiale",
+        costo: "zona Galaxy 141 lei dal lunedì al giovedì e 151 lei da venerdì a domenica (circa 28-30 €); The Palm ed Elysium costano di più",
+        orari: "Lunedì-giovedì 10-23, venerdì e sabato 9-24, domenica 9-23; le strutture chiudono 30 minuti prima.",
+        lat: 44.60542,
+        lng: 26.08536,
         url: "https://therme.ro",
         consiglio: "Prenotare online per saltare la fila."
+      },
+      {
+        nome: "Monastero Stavropoleos",
+        testo: "Una piccola chiesa del 1724 in stile brâncovenesc, con il portico a colonne di pietra scolpite e gli affreschi, oggi monastero femminile. Nel cortile sono raccolte lapidi e frammenti di chiese demolite.",
+        come: "A piedi, in Strada Stavropoleos, accanto a Caru' cu Bere.",
+        quando: "Di giorno; durante le funzioni si entra in silenzio.",
+        tempo: "20-30 minuti",
+        costo: "ingresso libero",
+        lat: 44.43182,
+        lng: 26.09879,
+        url: "https://www.stavropoleos.ro"
+      },
+      {
+        nome: "Cărturești Carusel",
+        testo: "Una libreria su sei livelli dentro un palazzo bancario d'inizio Novecento restaurato, con balconate bianche e una caffetteria all'ultimo piano. Aperta nel 2015, è uno degli interni più fotografati della città.",
+        come: "A piedi, in Strada Lipscani 55.",
+        quando: "Mattina o tardo pomeriggio nei giorni feriali.",
+        tempo: "30-45 minuti",
+        costo: "ingresso libero",
+        lat: 44.43189,
+        lng: 26.10161,
+        url: "https://carturesti.ro"
+      },
+      {
+        nome: "Hanu' lui Manuc",
+        testo: "Il più antico caravanserraglio ancora in funzione di Bucarest, costruito nel 1808 dal mercante armeno Manuc Bei: un cortile chiuso da ballatoi di legno su due piani, oggi ristorante e hotel.",
+        come: "A piedi, di fronte a Curtea Veche, vicino a Piața Unirii.",
+        quando: "Pranzo o cena; nel fine settimana prenotare.",
+        tempo: "1,5 ore",
+        lat: 44.42944,
+        lng: 26.10194
+      },
+      {
+        nome: "Curtea Veche",
+        testo: "I resti della corte principesca dove nel 1459 Vlad III firmò il primo documento che nomina Bucarest. Accanto c'è la chiesa dell'Annunciazione, la più antica della città ancora in uso. Nel 2026 il sito è interessato da lavori di messa in sicurezza.",
+        come: "A piedi, in Strada Franceză, nel quartiere storico.",
+        quando: "Di giorno, insieme a Lipscani.",
+        tempo: "30 minuti",
+        lat: 44.43009,
+        lng: 26.10129
+      },
+      {
+        nome: "Piața Revoluției e Calea Victoriei",
+        testo: "La piazza dove nel dicembre 1989 Ceaușescu tenne l'ultimo discorso dal balcone dell'ex Comitato Centrale, con il Memoriale della Rinascita al centro. Intorno ci sono l'Ateneo, la Biblioteca centrale universitaria e l'ex Palazzo Reale.",
+        come: "A piedi lungo Calea Victoriei, a circa 10 minuti da Piața Romană e da Universitate.",
+        quando: "Di giorno, o la sera quando i palazzi sono illuminati.",
+        tempo: "30-45 minuti",
+        costo: "ingresso libero",
+        orari: "Sempre accessibile.",
+        lat: 44.43866,
+        lng: 26.0975
+      },
+      {
+        nome: "Museo Nazionale d'Arte (ex Palazzo Reale)",
+        testo: "Nell'ex Palazzo Reale di Piața Revoluției: la galleria di arte romena antica, con icone e oggetti di culto, quella di arte moderna romena, con Grigorescu e Brâncuși, e una galleria di arte europea.",
+        come: "A piedi, Calea Victoriei 49-53.",
+        quando: "Mattina, in un giorno di pioggia.",
+        tempo: "2 ore",
+        lat: 44.44016,
+        lng: 26.09553,
+        url: "https://www.mnar.ro"
+      },
+      {
+        nome: "Parco Cișmigiu",
+        testo: "Il giardino pubblico più antico del centro, disegnato a metà Ottocento dal paesaggista tedesco Carl Meyer, con un lago, barche a remi d'estate e pista di pattinaggio d'inverno.",
+        come: "A piedi, tra Bulevardul Regina Elisabeta e Strada Știrbei Vodă.",
+        quando: "Pomeriggio, per una pausa tra le visite.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        lat: 44.43726,
+        lng: 26.0906
+      },
+      {
+        nome: "Palazzo Primăverii (Casa Ceaușescu)",
+        testo: "La residenza privata dei Ceaușescu fino al 1989, nel quartiere Primăverii: arredi originali, la piscina a mosaico, la sala cinema e il guardaroba di Elena Ceaușescu. Si visita con guida, su prenotazione.",
+        come: "In taxi o metro (Aviatorilor), poi 10 minuti a piedi.",
+        quando: "Su prenotazione, a orari fissi.",
+        tempo: "1 ora",
+        orari: "Martedì-domenica 10-17; chiuso il lunedì.",
+        lat: 44.46888,
+        lng: 26.09232,
+        url: "https://casaceausescu.ro",
+        consiglio: "Si abbina bene al Palazzo del Parlamento: i due lati dello stesso regime."
+      },
+      {
+        nome: "Arco di Trionfo",
+        testo: "L'arco alto 27 metri all'inizio di Șoseaua Kiseleff, nella forma attuale in granito del 1936, dedicato all'indipendenza e all'unione del 1918. Si vede di passaggio andando al Museo del Villaggio.",
+        come: "Metro Aviatorilor o bus lungo Șoseaua Kiseleff.",
+        quando: "Di giorno.",
+        tempo: "15 minuti",
+        costo: "esterno libero",
+        lat: 44.46719,
+        lng: 26.07813
       }
     ],
     sapori: [
@@ -110,6 +223,110 @@ export const destinazioniTransilvania: Destinazione[] = [
       "Per guidare in Romania serve la vignetta stradale (rovinieta), da avere prima di mettersi in strada.",
       "Borseggiatori alla Gara de Nord e in metro.",
       "Il Palazzo del Parlamento richiede il passaporto: portarlo."
+    ],
+    faq: [
+      {
+        domanda: "Quanti giorni servono a Bucarest?",
+        risposta: "Per il Palazzo del Parlamento, Lipscani e Calea Victoriei basta un giorno pieno. Con due giorni si aggiungono il Museo del Villaggio e il Palazzo Primăverii, con tre anche le Terme o una gita a Mogoșoaia o Snagov."
+      },
+      {
+        domanda: "Come si va dall'aeroporto al centro?",
+        risposta: "In treno fino alla Gara de Nord in 20-25 minuti, con il bus espresso 100 fino a Piața Unirii oppure in taxi prenotato dai touch screen degli arrivi, per non più di circa 60 lei."
+      },
+      {
+        domanda: "Bisogna prenotare il Palazzo del Parlamento?",
+        risposta: "Sì: si entra solo con visita guidata, e per i piccoli gruppi di solito si prenota per telefono il giorno prima. Serve un documento d'identità e non c'è deposito bagagli."
+      },
+      {
+        domanda: "Servono contanti in lei?",
+        risposta: "Le carte sono accettate quasi ovunque in centro, ma alcuni locali tipici, le guide e i parcheggi preferiscono i contanti. Conviene prelevare appena atterrati."
+      },
+      {
+        domanda: "Uber e Bolt funzionano?",
+        risposta: "Sì, sono il modo più semplice per muoversi fuori dal centro. Per i taxi tradizionali meglio quelli con tariffa esposta, come Cobălcescu o Cris Taxi."
+      },
+      {
+        domanda: "Si può andare alle Terme prima del volo?",
+        risposta: "Sì: Therme è a Balotești, a 10-15 minuti dall'aeroporto di Otopeni. Basta uscire almeno 2 ore prima del volo."
+      }
+    ],
+    gite: [
+      {
+        nome: "Sinaia e Castello di Peleș",
+        distanza: "circa 2 ore in auto",
+        come: "In auto lungo la DN1 o in treno dalla Gara de Nord.",
+        testo: "La residenza estiva di Carlo I nella valle di Prahova, con il vicino Castello Pelișor. Peleș chiude il lunedì e il martedì e, nel 2026, dal 2 novembre al 1° dicembre."
+      },
+      {
+        nome: "Palazzo Mogoșoaia",
+        distanza: "circa 15 km a nord-ovest",
+        come: "In auto o taxi, mezz'ora secondo il traffico.",
+        testo: "Il palazzo in stile brâncovenesc del 1702, sul lago, con un grande parco. Una mezza giornata fuori città."
+      },
+      {
+        nome: "Monastero di Snagov",
+        distanza: "circa 40 km a nord",
+        come: "In auto; il monastero sta su un'isola del lago, collegata da una passerella.",
+        testo: "Un piccolo monastero del Cinquecento dove, secondo la tradizione, sarebbe sepolto Vlad l'Impalatore."
+      },
+      {
+        nome: "Brașov",
+        distanza: "circa 3 ore in auto senza soste",
+        come: "In auto lungo la valle di Prahova o in treno diretto dalla Gara de Nord.",
+        testo: "La città sassone con Piața Sfatului e la Chiesa Nera, base comoda per Bran e Râșnov."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Palazzo del Parlamento al mattino, con visita guidata",
+          "Monastero Stavropoleos e Curtea Veche",
+          "Pranzo a Lipscani",
+          "Cărturești Carusel",
+          "Calea Victoriei fino a Piața Revoluției e all'Ateneo",
+          "Cena da Caru' cu Bere o da Hanu' lui Manuc"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: centro come nel programma di un giorno",
+          "Giorno 2: Museo del Villaggio e parco Re Michele I, Arco di Trionfo, Palazzo Primăverii nel pomeriggio, sera a Dorobanți"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Palazzo del Parlamento e centro storico",
+          "Giorno 2: Museo Nazionale d'Arte, Parco Cișmigiu, Museo del Villaggio e Palazzo Primăverii",
+          "Giorno 3: Palazzo Mogoșoaia al mattino oppure mezza giornata alle Terme prima del volo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città Vecchia (Lipscani)",
+        perChi: "chi vuole uscire la sera a piedi",
+        testo: "Hotel e appartamenti tra i locali del centro storico, a pochi passi da tutto. Il venerdì e il sabato notte è rumoroso.",
+        fascia: "70-150 €"
+      },
+      {
+        nome: "Piața Romană e Calea Victoriei",
+        perChi: "chi vuole una base centrale e ben collegata",
+        testo: "Zona servita dalla metro, a 15-20 minuti a piedi da Lipscani, con hotel di ogni categoria lungo i grandi viali."
+      },
+      {
+        nome: "Unirii e Palazzo del Parlamento",
+        perChi: "chi arriva o riparte in auto",
+        testo: "Grandi hotel lungo i viali intorno a Piața Unirii, a piedi sia dal Parlamento sia dal centro storico."
+      },
+      {
+        nome: "Dorobanți e Primăverii",
+        perChi: "chi cerca boutique hotel in un quartiere tranquillo",
+        testo: "Quartiere residenziale elegante a nord, con caffè e ristoranti; per il centro serve la metro o un taxi.",
+        fascia: "110-280 €"
+      }
     ],
     esperienzeSlugs: ['palazzo-parlamento', 'terme-bucarest'],
     tripSlugs: ['transilvania-express'],
@@ -138,10 +355,10 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     doveDormire: 'Qui non abbiamo dormito: era una tappa di passaggio tra Bucarest e Brașov.',
     doveMangiare: 'Restaurant Bucegi (con terrazza) a Sinaia, oppure pranzo al sacco o street food per guadagnare tempo.',
-    comeArrivare: 'In auto da Bucarest a Sinaia, poi da Sinaia a Bran.',
+    comeArrivare: "Da Bucarest a Sinaia sono circa 2 ore di auto lungo la DN1 e la valle di Prahova; da Sinaia a Bran serve circa un'ora, e da Bran a Brașov mezz'ora. Sinaia ha una stazione ferroviaria sulla linea Bucarest-Brașov, da cui si sale a piedi a Peleș. Bran si raggiunge anche in bus da Brașov, ma per vedere i due castelli nello stesso giorno l'auto è la soluzione più pratica.",
     comeSpostarsi: 'Auto a noleggio.',
     periodoMigliore: 'mattina, per evitare la ressa ai castelli',
-    costi: 'Biglietti e tariffe di Peleș e Bran sui siti ufficiali.',
+    costi: "Budget giornaliero a persona, indicativo: basso 40-60 €, medio 70-110 €, alto da 150 €, più carburante e parcheggi. Ingressi 2026: Peleș 100 lei (circa 20 €), Pelișor 30 lei (circa 6 €), Bran 100 lei per la visita standard (circa 20 €).",
     erroriDaEvitare: ['Fidarsi dei prezzi delle bancarelle e dei ristoranti intorno al Castello di Bran: sono trappole per turisti'],
     miaEsperienza:
       'Per architettura Peleș è forse il castello più bello del viaggio, con interni curati fin nei dettagli come Bran, per quanto affascinante, non è. Il legame di Bran con Dracula è più un\'invenzione turistica che un fatto storico, ma il castello vale la visita anche da solo.',
@@ -150,9 +367,12 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Castello di Peleș",
         testo: "Residenza estiva di Carlo I, re di Romania, costruita tra il 1873 e il 1914 in stile neorinascimentale tedesco. Per architettura è forse il castello più bello del viaggio, con interni curati nei minimi dettagli.",
         come: "Da Bucarest a Sinaia; dal centro di Sinaia si sale a piedi.",
-        quando: "Mattina presto, per evitare la ressa. Chiuso dal 2 novembre al 1° dicembre 2026 per pulizie e conservazione. Chiuso lunedì e martedì; mercoledì 10-17, giovedì-domenica 9:15-17, ultimo ingresso alle 16.",
+        quando: "Mattina presto, per evitare la ressa.",
         tempo: "1,5 ore",
-        costo: "100 lei adulti, piano terra e primo piano (2026)",
+        costo: "100 lei adulti, circa 20 €, piano terra e primo piano (2026)",
+        orari: "Chiuso lunedì e martedì; mercoledì 10-17, giovedì-domenica 9:15-17, ultimo ingresso alle 16. Chiuso dal 2 novembre al 1° dicembre 2026.",
+        lat: 45.35984,
+        lng: 25.54265,
         url: "https://peles.ro",
         consiglio: "I biglietti, su bilete.peles.ro, hanno una fascia oraria e non si possono spostare."
       },
@@ -163,15 +383,20 @@ export const destinazioniTransilvania: Destinazione[] = [
         quando: "Mattina.",
         tempo: "45 minuti",
         costo: "ingresso libero",
+        lat: 45.35533,
+        lng: 25.54962,
         consiglio: "Silenzio all'interno."
       },
       {
         nome: "Castello di Bran",
         testo: "La fortezza sulla roccia, documentata dal 1377, famosa per il legame con Dracula. In realtà il legame è più un'invenzione turistica che un fatto storico, ma il castello vale la visita anche da solo.",
         come: "A sud-ovest di Brașov, in auto. Biglietti sul sito ufficiale.",
-        quando: "Mattina presto; il lunedì apre alle 12, gli altri giorni alle 9. Chiude alle 19 da aprile a ottobre, alle 18 da novembre a marzo.",
+        quando: "Mattina presto.",
         tempo: "1-1,5 ore",
-        costo: "100 lei adulti, visita standard (novembre-dicembre 2026); spesso esaurito: meglio online",
+        costo: "100 lei adulti, circa 20 €, visita standard (novembre-dicembre 2026); spesso esaurito: meglio online",
+        orari: "Lunedì dalle 12, gli altri giorni dalle 9; chiude alle 19 da aprile a ottobre, alle 18 da novembre a marzo.",
+        lat: 45.51508,
+        lng: 25.36724,
         url: "https://www.bran-castle.com",
         consiglio: "Il castello non ha mai ospitato Vlad l'Impalatore: il legame con Dracula è nato per il turismo."
       },
@@ -181,7 +406,57 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In auto o treno, a Bușteni, poco dopo Sinaia.",
         quando: "Giorno.",
         tempo: "30 minuti",
+        lat: 45.41411,
+        lng: 25.54258,
         consiglio: "Solo per chi ha tempo."
+      },
+      {
+        nome: "Castello Pelișor",
+        testo: "Il castello più piccolo, costruito accanto a Peleș tra il 1899 e il 1902 per il futuro re Ferdinando e la regina Maria, con interni Art Nouveau. Si visita in meno di un'ora e di solito è molto meno affollato.",
+        come: "A piedi da Peleș, pochi minuti nel parco.",
+        quando: "Subito dopo Peleș.",
+        tempo: "45 minuti",
+        costo: "30 lei adulti, circa 6 €, tour completo (2026)",
+        orari: "Chiuso lunedì e martedì; mercoledì 10-17, giovedì-domenica 9:15-17, ultimo ingresso alle 16:15.",
+        lat: 45.3606,
+        lng: 25.53914,
+        url: "https://peles.ro"
+      },
+      {
+        nome: "Casinò di Sinaia",
+        testo: "L'edificio Belle Époque del 1912-1913 nel parco Dimitrie Ghica, voluto da Carlo I sul modello di Monte Carlo. Oggi è un centro congressi con alcune sale aperte alle visite.",
+        come: "A piedi, nel parco al centro di Sinaia.",
+        quando: "Di giorno, scendendo da Peleș.",
+        tempo: "30-45 minuti",
+        lat: 45.35518,
+        lng: 25.55338
+      },
+      {
+        nome: "Funivie di Sinaia (Cota 1400 e Cota 2000)",
+        testo: "Dalla parte alta di Sinaia la telecabina sale a Cota 1400 e la Gondola Carp prosegue fino a Cota 2000, sui Bucegi, con sentieri e vista sulla valle di Prahova. Nell'autunno 2026 il tratto Cota 1000-1400 è chiuso; le altre risalite funzionano quando il tempo lo permette.",
+        come: "Dalla stazione della telecabina, in fondo al centro di Sinaia.",
+        quando: "Giornata serena; d'inverno per sciare.",
+        tempo: "mezza giornata",
+        lat: 45.34949,
+        lng: 25.54595
+      },
+      {
+        nome: "Cascata Urlătoarea",
+        testo: "Una cascata nel bosco sopra Bușteni, ai piedi dei Bucegi, raggiungibile con un sentiero segnato e facile. Una sosta all'aria aperta tra Sinaia e Bran.",
+        come: "A piedi dalla parte alta di Bușteni, lungo il sentiero segnato.",
+        quando: "Da maggio a ottobre; d'inverno il sentiero può essere ghiacciato.",
+        tempo: "1,5 ore andata e ritorno",
+        lat: 45.3962,
+        lng: 25.51574
+      },
+      {
+        nome: "Museo del Villaggio di Bran",
+        testo: "Un piccolo museo all'aperto ai piedi del castello, con case contadine, granai e laboratori della zona di Bran. Si gira in fretta prima o dopo il castello.",
+        come: "A piedi, accanto all'ingresso del castello.",
+        quando: "Prima o dopo la visita al castello.",
+        tempo: "30 minuti",
+        lat: 45.51495,
+        lng: 25.37004
       }
     ],
     sapori: [
@@ -193,6 +468,96 @@ export const destinazioniTransilvania: Destinazione[] = [
     attenzioni: [
       "Mattina presto: i castelli si riempiono di gruppi in tarda mattinata.",
       "Peleș è chiuso il lunedì e il martedì; Bran il lunedì apre solo alle 12. Biglietti sui siti ufficiali."
+    ],
+    faq: [
+      {
+        domanda: "Si possono vedere Peleș e Bran nello stesso giorno?",
+        risposta: "Sì, partendo presto da Bucarest: Peleș al mattino, pranzo a Sinaia e Bran nel pomeriggio, con un'ora di strada tra i due. La sera si arriva a Brașov in mezz'ora."
+      },
+      {
+        domanda: "Quando è chiuso Peleș?",
+        risposta: "Il lunedì e il martedì, più alcune settimane all'anno per pulizie e conservazione: nel 2026 dal 2 novembre al 1° dicembre. Conviene controllare peles.ro prima di partire."
+      },
+      {
+        domanda: "Bisogna prenotare i biglietti?",
+        risposta: "Per Peleș i biglietti online su bilete.peles.ro hanno una fascia oraria e non si spostano. A Bran nei fine settimana la visita standard si esaurisce spesso: meglio comprarla online."
+      },
+      {
+        domanda: "Bran è davvero il castello di Dracula?",
+        risposta: "No: Vlad l'Impalatore non ci ha mai vissuto, e il legame con il romanzo di Bram Stoker è nato per il turismo. Il castello vale comunque la visita."
+      },
+      {
+        domanda: "Si possono fare foto dentro Peleș?",
+        risposta: "Le foto amatoriali senza flash sono ammesse secondo le regole del castello, ma le riprese professionali si pagano a parte."
+      },
+      {
+        domanda: "Si arriva senza auto?",
+        risposta: "Sì, ma con più tempo: treno da Bucarest a Sinaia per Peleș, poi treno fino a Brașov e bus per Bran. In un giorno solo è difficile vedere tutto."
+      }
+    ],
+    gite: [
+      {
+        nome: "Fortezza di Râșnov",
+        distanza: "circa 15 km da Bran",
+        come: "In auto, sulla strada tra Bran e Brașov.",
+        testo: "La fortezza contadina su una rocca, con la scritta in stile hollywoodiano. Nel 2026 la cittadella è in restauro e si visita il giardino."
+      },
+      {
+        nome: "Brașov",
+        distanza: "circa mezz'ora da Bran",
+        come: "In auto o in bus.",
+        testo: "Il centro sassone con Piața Sfatului, la Chiesa Nera e la funivia del Tâmpa: la base più comoda per dormire."
+      },
+      {
+        nome: "Santuario degli orsi LiBEARty a Zărnești",
+        distanza: "circa 30 minuti da Bran",
+        come: "In auto; visita solo su prenotazione online.",
+        testo: "Un rifugio per orsi salvati dalla cattività, con visite guidate al mattino. Va prenotato con anticipo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno (da Bucarest a Brașov)",
+        tappe: [
+          "Partenza presto da Bucarest verso Sinaia",
+          "Castello di Peleș e Castello Pelișor",
+          "Monastero di Sinaia e pranzo in centro",
+          "Sosta fotografica al Castello Cantacuzino di Bușteni",
+          "Castello di Bran nel pomeriggio",
+          "Arrivo a Brașov la sera"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Peleș, Pelișor, Casinò e funivia di Sinaia, notte a Sinaia o Bușteni",
+          "Giorno 2: Cascata Urlătoarea al mattino, poi Bran e il Museo del Villaggio, Râșnov e arrivo a Brașov"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sinaia",
+        perChi: "chi vuole visitare Peleș all'apertura",
+        testo: "Hotel e pensioni nella stazione di montagna, a piedi dal castello e dalla funivia. Comoda anche senza auto, grazie al treno."
+      },
+      {
+        nome: "Bușteni",
+        perChi: "chi cerca la montagna e i sentieri",
+        testo: "Pensioni ai piedi dei Bucegi, dieci minuti a nord di Sinaia, con vista sulle pareti del Caraiman."
+      },
+      {
+        nome: "Bran e Râșnov",
+        perChi: "chi vuole dormire vicino ai castelli",
+        testo: "Pensioni di paese intorno al castello e verso Râșnov. Prezzi più bassi, serve l'auto.",
+        fascia: "40-80 €"
+      },
+      {
+        nome: "Brașov",
+        perChi: "chi vuole la sera in città",
+        testo: "Il centro storico o il quartiere di Șchei, a mezz'ora da Bran: più scelta di ristoranti e locali.",
+        fascia: "45-140 €"
+      }
     ],
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
@@ -532,10 +897,10 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     doveDormire: 'Qui non abbiamo dormito: era una giornata di passaggio verso Sibiu.',
     doveMangiare: 'Gasthaus Altepost o Vlad Dracul Restaurant a Sighișoara.',
-    comeArrivare: 'In auto da Brașov a Viscri, poi verso Sighișoara e da lì a Salina Turda.',
+    comeArrivare: "In auto da Brașov a Viscri servono circa un'ora e venti, poi da Viscri a Sighișoara circa un'ora, e da Sighișoara a Salina Turda circa 2 ore. Sighișoara è anche sulla linea ferroviaria Brașov-Cluj, con la stazione a dieci minuti a piedi dalla cittadella. Da Turda a Sibiu c'è circa un'ora e mezza di strada; l'aeroporto più vicino a Turda è quello di Cluj-Napoca.",
     comeSpostarsi: 'Auto a noleggio; a piedi nei centri storici.',
     periodoMigliore: 'partenza presto: è la giornata più lunga al volante del viaggio',
-    costi: 'Biglietti di Viscri, casa natale e Salina Turda sul posto o sui siti ufficiali; la guida a Salina Turda si paga a parte.',
+    costi: "Budget giornaliero a persona, indicativo: basso 35-55 €, medio 60-100 €, alto da 140 €, più carburante e parcheggi. Ingressi 2026: Salina Turda 75 lei dal lunedì al venerdì e 90 lei nel weekend (circa 15-18 €), guida a parte; Viscri 12 lei (circa 2,5 €); casa natale di Dracula 5 lei per il piano superiore (circa 1 €).",
     erroriDaEvitare: ['Sforare con i tempi: è la giornata più lunga al volante di tutto il viaggio'],
     miaEsperienza:
       'Salina Turda è stata una delle sorprese più belle del viaggio. Da una miniera di sale non mi aspettavo di scendere e trovare un laghetto navigabile, e perfino un biliardino.',
@@ -546,6 +911,8 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "A piedi dal parcheggio in basso; vicoli ripidi.",
         quando: "Mattina presto, quando è tranquilla.",
         tempo: "2 ore",
+        lat: 46.2193,
+        lng: 24.7933,
         consiglio: "Salire sulla torre per la vista: le case colorate dall'alto."
       },
       {
@@ -554,7 +921,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "A piedi nella cittadella.",
         quando: "Mattina.",
         tempo: "1 ora",
-        costo: "biglietto sul posto",
+        costo: "5 lei per salire al piano superiore, circa 1 €",
+        lat: 46.21947,
+        lng: 24.79277,
         consiglio: "Abbinarla alla salita sulla Scalinata Coperta."
       },
       {
@@ -563,18 +932,82 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "In auto da Brașov, verso Sighișoara.",
         quando: "Mattina.",
         tempo: "1-1,5 ore",
-        costo: "biglietto sul posto",
+        costo: "12 lei, circa 2,5 €",
+        lat: 46.05471,
+        lng: 25.08862,
         consiglio: "Tappa facoltativa ma molto autentica."
       },
       {
         nome: "Salina Turda",
         testo: "Una miniera di sale che oggi è un parco sotterraneo, con un lago sotterraneo, un ascensore panoramico, la sala dell'eco e un antico argano ancora al suo posto. È stata una delle sorprese più belle del viaggio.",
         come: "In auto da Sighișoara. Biglietti all'ingresso o online.",
-        quando: "Tutti i giorni 9-17, ultimo ingresso 16:20; gruppi numerosi nel weekend.",
+        quando: "Nei giorni feriali; nel weekend arrivano gruppi numerosi.",
         tempo: "2 ore",
-        costo: "75 lei dal lunedì al venerdì, 90 nel weekend e festivi (2026); guida su richiesta 205 lei",
+        costo: "75 lei dal lunedì al venerdì, 90 nel weekend e festivi (circa 15-18 €, 2026); guida su richiesta 205 lei",
+        orari: "Tutti i giorni 9-17, ultimo ingresso alle 16:20.",
+        lat: 46.58771,
+        lng: 23.7874,
         url: "https://salinaturda.eu",
         consiglio: "Vestirsi a strati: dentro la temperatura è bassa tutto l'anno."
+      },
+      {
+        nome: "Chiesa sulla Collina",
+        testo: "La chiesa gotica evangelica in cima alla Scalinata Coperta, sulla collina della scuola, con affreschi del Quattrocento e una cripta. Dietro si stende il vecchio cimitero sassone, tra gli alberi.",
+        come: "A piedi, salendo la Scalinata Coperta dalla cittadella.",
+        quando: "Mattina.",
+        tempo: "45 minuti",
+        lat: 46.21763,
+        lng: 24.79055,
+        consiglio: "Il cimitero sul retro è il punto più silenzioso della città."
+      },
+      {
+        nome: "Piața Cetății",
+        testo: "La piazza principale della cittadella, chiusa da case colorate con caffè e ristoranti. A fine luglio qui si svolge il festival medievale.",
+        come: "A piedi, dalla Torre dell'Orologio.",
+        quando: "Mattina presto o al tramonto.",
+        tempo: "30 minuti",
+        costo: "ingresso libero",
+        orari: "Sempre accessibile.",
+        lat: 46.21997,
+        lng: 24.79256
+      },
+      {
+        nome: "Chiesa del Monastero",
+        testo: "La chiesa gotica dell'antico monastero domenicano, accanto alla Torre dell'Orologio, con una collezione di tappeti orientali e un organo barocco.",
+        come: "A piedi, all'ingresso della cittadella.",
+        quando: "Di giorno.",
+        tempo: "20-30 minuti",
+        lat: 46.21965,
+        lng: 24.79348
+      },
+      {
+        nome: "Torre dei Calzolai",
+        testo: "Una delle nove torri rimaste delle mura medievali, ricostruita nel 1681 con un tetto barocco.",
+        come: "A piedi, sul lato nord della cittadella.",
+        quando: "Di giorno.",
+        tempo: "20 minuti",
+        costo: "esterno libero",
+        lat: 46.22126,
+        lng: 24.79195
+      },
+      {
+        nome: "Gole di Turda (Cheile Turzii)",
+        testo: "Un canyon calcareo lungo quasi 3 km scavato dal torrente Hășdate, con un sentiero sul fondo della gola e pareti attrezzate per l'arrampicata. Una passeggiata all'aperto vicino a Salina Turda.",
+        come: "In auto da Turda verso Petreștii de Jos, poi a piedi dal parcheggio della cabana.",
+        quando: "Da aprile a ottobre, con il bel tempo.",
+        tempo: "2 ore",
+        lat: 46.56389,
+        lng: 23.67917,
+        consiglio: "Scarpe con buona suola: le rocce lungo il torrente sono scivolose."
+      },
+      {
+        nome: "Chiesa fortificata di Biertan",
+        testo: "Una delle chiese fortificate più grandi della Transilvania, patrimonio UNESCO, chiusa da tre giri di mura su una collina. Dentro si conserva la porta della sagrestia con una serratura a 19 chiavistelli.",
+        come: "In auto, circa mezz'ora da Sighișoara.",
+        quando: "Mattina o primo pomeriggio.",
+        tempo: "1 ora",
+        lat: 46.13516,
+        lng: 24.52145
       }
     ],
     sapori: [
@@ -591,6 +1024,96 @@ export const destinazioniTransilvania: Destinazione[] = [
       "È la giornata più lunga al volante: partire presto.",
       "I biglietti per Salina Turda si comprano all'ingresso o online.",
       "Parcheggiare fuori dalla cittadella di Sighișoara."
+    ],
+    faq: [
+      {
+        domanda: "Quanto tempo serve a Sighișoara?",
+        risposta: "La cittadella si gira in 2-3 ore, con la Torre dell'Orologio, la Scalinata Coperta e la Chiesa sulla Collina. Per Biertan o Viscri serve mezza giornata in più."
+      },
+      {
+        domanda: "Si può dormire dentro la cittadella?",
+        risposta: "Sì, ci sono pensioni e piccoli hotel tra le mura. L'auto va lasciata nei parcheggi in basso, perché nella cittadella si entra solo a piedi."
+      },
+      {
+        domanda: "Bisogna prenotare Salina Turda?",
+        risposta: "Non è obbligatorio: i biglietti si comprano all'ingresso o online. Online si salta la coda, utile soprattutto nel fine settimana."
+      },
+      {
+        domanda: "Che temperatura c'è dentro Salina Turda?",
+        risposta: "Fresca tutto l'anno, anche d'estate: serve una felpa o una giacca leggera."
+      },
+      {
+        domanda: "Vale la pena il giro in barca sul lago sotterraneo?",
+        risposta: "È breve e si paga a parte. Il lago è più spettacolare visto dall'alto, dalle passerelle."
+      },
+      {
+        domanda: "Sighișoara e Turda nello stesso giorno?",
+        risposta: "Sì, in auto: Sighișoara al mattino, circa 2 ore di strada e Salina Turda nel pomeriggio. È una giornata lunga, conviene partire presto."
+      }
+    ],
+    gite: [
+      {
+        nome: "Cluj-Napoca",
+        distanza: "circa 35 km da Turda",
+        come: "In auto lungo l'autostrada A3, o in bus.",
+        testo: "La città universitaria della Transilvania, con la piazza dell'Unione e la chiesa di San Michele. Ha l'aeroporto più vicino a Turda."
+      },
+      {
+        nome: "Sibiu",
+        distanza: "circa 1 ora e mezza da Turda",
+        come: "In auto.",
+        testo: "Il centro storico sassone con la Piazza Grande e il Ponte delle Bugie, punto di partenza per la Transfăgărășan."
+      },
+      {
+        nome: "Brașov",
+        distanza: "circa 2 ore da Sighișoara",
+        come: "In auto o in treno.",
+        testo: "La città della Chiesa Nera e del Tâmpa, comoda per i castelli di Bran e Peleș."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno (lungo il percorso in auto)",
+        tappe: [
+          "Partenza presto da Brașov",
+          "Viscri e la chiesa fortificata",
+          "Sighișoara: Torre dell'Orologio, casa natale di Dracula, Scalinata Coperta e Chiesa sulla Collina",
+          "Pranzo nella cittadella",
+          "Circa 2 ore di strada verso Turda",
+          "Salina Turda nel pomeriggio, poi Sibiu o Cluj per la notte"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Viscri, Biertan e Sighișoara, notte nella cittadella",
+          "Giorno 2: Salina Turda al mattino e Gole di Turda nel pomeriggio, poi Cluj-Napoca o Sibiu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Cittadella di Sighișoara",
+        perChi: "chi vuole vivere il borgo la sera, senza folla",
+        testo: "Pensioni e piccoli hotel dentro le mura, tra le case colorate. Si arriva a piedi dai parcheggi.",
+        fascia: "45-80 €"
+      },
+      {
+        nome: "Città bassa di Sighișoara",
+        perChi: "chi viaggia in auto e vuole parcheggiare comodo",
+        testo: "Hotel e pensioni ai piedi della cittadella, a 5-10 minuti a piedi dalla Torre dell'Orologio.",
+        fascia: "35-70 €"
+      },
+      {
+        nome: "Villaggi sassoni (Viscri, Biertan)",
+        perChi: "chi cerca silenzio e case contadine restaurate",
+        testo: "Case per ospiti nei villaggi intorno alle chiese fortificate, con cucina di casa. Serve l'auto."
+      },
+      {
+        nome: "Turda e Cluj-Napoca",
+        perChi: "chi visita la salina e prosegue verso ovest",
+        testo: "A Turda pochi hotel semplici vicino alla salina; Cluj, a mezz'ora, ha molta più scelta."
+      }
     ],
     esperienzeSlugs: ['salina-turda'],
     tripSlugs: ['transilvania-express'],

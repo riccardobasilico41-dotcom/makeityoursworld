@@ -1991,11 +1991,11 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire:
       "In Santiago, the historic center around the Cathedral. Along the Camino the traditional choice is albergues (pilgrim hostels, often with bunk beds and very low prices); those who want more comfort find pensiones and small hotels in the coastal towns.",
     doveMangiare: "In Galicia you eat pulpo á feira (boiled octopus with paprika and oil, served on a wooden plate) and seafood; along the Cantabrian and Asturian coast, the catch of the day and fabada asturiana (stew of beans, chorizo and morcilla).",
-    comeArrivare: "Santiago-Rosalía de Castro Airport, well connected with Europe. To start a stretch of the Camino del Norte: Irún (French border) or any of the intermediate stages, reachable by train or bus from the respective cities (San Sebastián, Bilbao, Santander).",
+    comeArrivare: "Santiago-Rosalía de Castro Airport (SCQ), about 10 km from the centre, has direct flights from several European cities; a city bus links it with Praza de Galicia and the intermodal station in about 35 minutes. By train, direct AVE, Avlo and Alvia services from Madrid Chamartín take about 3 to 3.5 hours, and from A Coruña about 30 minutes. To start the Camino del Norte, begin at Irún on the French border or at an intermediate stage such as San Sebastián, Bilbao or Santander, all reachable by train or bus.",
     comeSpostarsi: "On foot along the Camino, following the yellow arrows and the shells that mark the route; in Santiago, the historic center is entirely pedestrian.",
     periodoMigliore:
       "May-September for walking; the driest period runs from June to early September. The Camino can be done all year, but in winter and late autumn it often rains and the days are short.",
-    costi: "Cathedral and museum complex: the price varies by section (some areas are free); an albergue along the Camino costs between €10 and €20 a night.",
+    costi: "Basilica free, Cathedral Museum €9, rooftops €15, a public albergue in Galicia about €10 a night (2026). Budget: about €40-60 a day sleeping in albergues and eating the menú del día. Mid-range: €100-150 with a hotel in the old town and restaurants. High: over €250 with the Parador and seafood dinners.",
     erroriDaEvitare: [
       "Underestimating the elevation gain and terrain of the Camino del Norte: it's more demanding and less equipped than the Camino Francés, with exposed stretches of coastal trail",
       "Not booking the albergue in the peak months (June-September) along the most popular stretches: beds, especially in small villages, run out",
@@ -2008,6 +2008,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot from the old town, which is entirely pedestrian. Museums, the Pórtico da Gloria and guided tours are booked separately on the cathedral website.",
         "quando": "From 16 October 2026, until further notice, pilgrim masses are held in the church of San Agustín (9:30, 12:00 and 19:30) because of works in the main chapel; the 7:30 mass stays in the cathedral. The botafumeiro does not swing at every mass: check the cathedral website.",
         "tempo": "1-2 hours",
+        "costo": "The basilica is free. Cathedral Museum €9 (reduced €7), Pórtico da Gloria with audioguide €15 (reduced €12) (2026).",
+        "orari": "Basilica daily 7:00-21:00, on summer Saturdays until 20:30; entry through the Praterías door, no backpacks. Museum daily 10:00-20:00, closed 1 and 6 January and 25 July.",
+        "lat": 42.88056,
+        "lng": -8.54444,
         "url": "https://www.catedraldesantiago.es/",
         "consiglio": "Arrive early for the pilgrim mass to get a seat; afterwards, stay in Praza do Obradoiro to watch the arrivals."
       },
@@ -2017,6 +2021,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A few minutes' walk from the cathedral, at Rúa das Carretas 33. You take a number with a QR code that shows the queue in real time.",
         "quando": "Every day 10:00-19:00, closed on 25 December and 1 January. At peak times same-day collection is not guaranteed.",
         "tempo": "30 minutes-2 hours, depending on the queue",
+        "orari": "Daily 10:00-19:00; closed 25 December and 1 January.",
+        "lat": 42.88207,
+        "lng": -8.54689,
         "url": "https://oficinadelperegrino.com/",
         "consiglio": "Go in the early afternoon or early morning, when the line is shorter."
       },
@@ -2026,6 +2033,10 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot. The market is a few minutes from the cathedral.",
         "quando": "The market in the morning. Rain is frequent: bring a raincoat.",
         "tempo": "2-3 hours",
+        "orari": "Mercado de Abastos: Monday-Saturday 8:00-14:00, closed Sunday.",
+        "lat": 42.87998,
+        "lng": -8.54121,
+        "url": "https://www.mercadodeabastosdesantiago.com/",
         "consiglio": "Eat pulpo á feira in the places next to the market, which cook to order."
       },
       {
@@ -2042,7 +2053,94 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot from Santiago in a few days, or by bus from Santiago bus station.",
         "quando": "Summer. At sunset those who walk stop at the lighthouse.",
         "tempo": "a day from Santiago by bus, a few days on foot",
+        "costo": "Santiago-Fisterra bus about €7 one way (2026).",
+        "lat": 42.88235,
+        "lng": -9.27202,
         "consiglio": "Check bus times for your chosen period, because they change by season."
+      },
+      {
+        "nome": "Cathedral Museum, Pórtico da Gloria and rooftops",
+        "testo": "The museum spreads over several floors next to the Obradoiro façade and includes the crypt beneath the Pórtico and the Pazo de Xelmírez, the Romanesque archbishop's palace. The Pórtico da Gloria, carved by Master Mateo and completed in 1188, is seen in a timed slot of no more than 25 minutes. The rooftop tour takes you onto the cathedral's granite roofs and up the Torre da Carraca, 140 steps in all.",
+        "come": "Ticket office on Praza do Obradoiro; the rooftop tour meets at the Pazo de Xelmírez reception. Timed tickets on the visits website; the rooftops are guided only and not wheelchair accessible.",
+        "quando": "Every day between 16:00 and 17:30 there are free invitations for the Pórtico, two per person at most. Arrive 15 minutes early for the rooftops.",
+        "tempo": "1 hour for the museum, 1 hour for the rooftops",
+        "costo": "Museum €9 (reduced €7, free under 12), Pórtico with audioguide €15 (reduced €12), rooftops €15 (reduced €12), full visit €23 (reduced €19) (2026).",
+        "orari": "Daily 10:00-20:00, ticket offices close half an hour earlier. Closed 1 and 6 January and 25 July; on 24, 25 and 31 December last entry 14:00.",
+        "lat": 42.88099,
+        "lng": -8.54516,
+        "url": "https://visitas.catedraldesantiago.es/",
+        "consiglio": "The museum ticket also covers the Diocesan Museum at San Martiño Pinario and the collegiate church of Sar, valid for seven days."
+      },
+      {
+        "nome": "Museo das Peregrinacións e de Santiago (Pilgrimage Museum)",
+        "testo": "The Galician government's museum on the history of the pilgrimage and the city, with statues of St James as a pilgrim, objects carried by pilgrims over the centuries and models of the cathedral. It helps make sense of the Camino before or after visiting the cathedral.",
+        "come": "On foot, at Praza das Praterías 2, facing the cathedral's south façade.",
+        "quando": "Before the cathedral, so you arrive knowing what you are looking at.",
+        "tempo": "1 hour",
+        "orari": "Tuesday-Friday 9:30-20:30, Saturday 11:00-19:30, Sundays and holidays 10:15-14:45. Closed Mondays, 1 and 6 January, 1 May, 24, 25 and 31 December.",
+        "lat": 42.88211,
+        "lng": -8.54282,
+        "url": "https://museoperegrinacions.xunta.gal/es"
+      },
+      {
+        "nome": "San Martiño Pinario Monastery",
+        "testo": "One of the largest Benedictine monasteries in Spain, just behind the cathedral on Praza da Inmaculada. The Baroque church has huge gilded altarpieces and carved wooden choir stalls; the complex houses the Diocesan Museum, with its cloister and sacred art collections.",
+        "come": "Entrance at Praza da Inmaculada 5. Guided tours at 12:30 and 16:30, about 50 minutes.",
+        "tempo": "1 hour",
+        "costo": "€5 (2026); free with a Cathedral Museum ticket and for under-12s.",
+        "orari": "Tuesday-Saturday 10:00-14:00 and 16:00-19:00; closed Sundays, Mondays and holidays.",
+        "lat": 42.88194,
+        "lng": -8.54444,
+        "url": "https://visitas.catedraldesantiago.es/museo-diocesano/"
+      },
+      {
+        "nome": "Hostal dos Reis Católicos",
+        "testo": "Built by the Catholic Monarchs in 1499 as a hospital for pilgrims, it closes the north side of Praza do Obradoiro with a Plateresque doorway. Today it is a Parador, a state-run luxury hotel, laid out around its cloisters.",
+        "come": "On Praza do Obradoiro, to the left as you face the cathedral. The façade can be seen freely from the square; the interior is open to hotel guests or on the Parador's guided tours.",
+        "tempo": "30 minutes",
+        "lat": 42.88139,
+        "lng": -8.54583
+      },
+      {
+        "nome": "Museo do Pobo Galego and Bonaval park",
+        "testo": "Galicia's ethnographic museum, in the former convent of San Domingos de Bonaval, covers the sea, the countryside, crafts and traditional dress. Inside is Domingo de Andrade's triple spiral staircase, three independent helical flights. Next door, Bonaval park fills the convent's old garden and cemetery.",
+        "come": "On foot from the old town in about ten minutes, through Porta do Camiño.",
+        "tempo": "1-1.5 hours",
+        "orari": "Tuesday-Saturday 11:00-18:00, Sundays and holidays 11:00-14:00; closed Mondays.",
+        "lat": 42.88275,
+        "lng": -8.53914,
+        "url": "https://www.museodopobo.gal/"
+      },
+      {
+        "nome": "Parque da Alameda",
+        "testo": "The 19th-century park west of the old town. From the Paseo da Ferradura comes the classic distant view of the cathedral, its towers rising over the roofs. At the entrance stands the statue of the Dúas Marías, two colourfully dressed sisters who became a symbol of the city.",
+        "come": "On foot from Praza do Obradoiro in about ten minutes.",
+        "quando": "At sunset, with the light on the towers.",
+        "tempo": "45 minutes",
+        "costo": "Free",
+        "lat": 42.87787,
+        "lng": -8.54947
+      },
+      {
+        "nome": "Collegiate Church of Santa María a Real de Sar",
+        "testo": "A 12th-century Romanesque church in the Sar valley, known for its leaning columns: the pillars tilt outwards, and large flying buttresses were added to hold them up. It keeps a stretch of Romanesque cloister and a small museum, MuSar.",
+        "come": "On foot in about twenty minutes from the old town, heading downhill to the south-east.",
+        "tempo": "45 minutes",
+        "costo": "€2 (2026); free with a Cathedral Museum ticket, for under-12s and for pilgrims with a credential.",
+        "orari": "Monday-Friday 10:00-14:00 and 16:00-18:00, Saturday 10:00-14:00; closed Sundays and holidays.",
+        "lat": 42.87212,
+        "lng": -8.53697,
+        "url": "https://visitas.catedraldesantiago.es/musar-museo-colexiata-de-sar/"
+      },
+      {
+        "nome": "Cidade da Cultura de Galicia (City of Culture)",
+        "testo": "The complex designed by Peter Eisenman on Monte Gaiás, its quartzite-clad buildings following the folds of the hill. It houses the Museo Centro Gaiás and the Library and Archive of Galicia. From the hill you can see the city and the cathedral towers.",
+        "come": "City bus 9 from Casas Novas on weekdays and Saturday mornings; line C11 from Xeneral Pardiñas on Saturday afternoons, Sundays and holidays.",
+        "tempo": "2 hours",
+        "orari": "Grounds daily 8:00-23:00; Museo Centro Gaiás 10:00-20:00, exhibitions closed on Mondays. Closed 25 December and 1 January.",
+        "lat": 42.87016,
+        "lng": -8.52567,
+        "url": "https://cidadedacultura.gal/"
       }
     ],
     programmi: [
@@ -2084,6 +2182,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Ensanche and station area",
         "perChi": "Those arriving by train or bus who want lower costs",
         "testo": "Walkable from the centre, but outside the monumental area. A quieter area, with hotels and guesthouses."
+      },
+      {
+        "nome": "Along the Camino del Norte",
+        "perChi": "Those walking the Camino",
+        "testo": "Galicia's public albergues cost about €10 per person per night, cannot be booked and only take guests with a pilgrim credential. Coastal villages also have private albergues, pensiones and small hotels."
       }
     ],
     sapori: [
@@ -2114,6 +2217,52 @@ export const destinazioniSpagna: Destinazione[] = [
       "Pilgrim credential: if you only walk the minimum 100 km, stamp it at the start and end of each stage, with the date, to get the Compostela.",
       "Camino del Norte: constant climbs and exposed stretches of coastal path. Do not underestimate the elevation gain.",
       "Cathedral: museums, the Pórtico da Gloria and guided tours are booked on the official site; since October 2026 there are works in the main chapel."
+    ],
+    gite: [
+      {
+        "nome": "A Coruña",
+        "distanza": "about 75 km, 30-40 minutes by train",
+        "come": "Avant and regional trains from Santiago station, from about €5-8 one way.",
+        "testo": "An ocean city with the Tower of Hercules, a lighthouse of Roman origin still in use and a UNESCO site, the seafront along Riazor and Orzán beaches and the glazed galleries of La Marina."
+      },
+      {
+        "nome": "Fisterra and Muxía",
+        "distanza": "about 90 km, 2h15-3 hours by bus",
+        "come": "Monbus coaches from Santiago bus station, about €7 one way; Fisterra to Muxía takes 35-45 minutes with few buses a day. By car both fit into one day.",
+        "testo": "The Fisterra lighthouse on its cliff, seen as the Camino's true end point, and the sanctuary of Virxe da Barca at Muxía, on rocks pounded by the ocean. This is the Costa da Morte."
+      },
+      {
+        "nome": "Ourense",
+        "distanza": "about 105 km, just over an hour by train",
+        "come": "Avant trains from Santiago station, about 1h10.",
+        "testo": "The city of hot springs: the As Burgas springs rise right in the centre and open-air thermal pools line the river Miño. The old town has a Romanesque cathedral and a Roman bridge."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Santiago de Compostela?",
+        "risposta": "Two days cover the cathedral, museums and old town. A third day adds Fisterra and Muxía or A Coruña."
+      },
+      {
+        "domanda": "Do you need to book the cathedral?",
+        "risposta": "Entry to the basilica is free and needs no booking, through the Praterías door. The museum, Pórtico da Gloria and rooftops have timed tickets on the visits website: book ahead in summer."
+      },
+      {
+        "domanda": "When does the botafumeiro swing?",
+        "risposta": "Not at every Mass: on major feast days and at some celebrations listed on the cathedral website. Since 16 October 2026 the pilgrims' Masses are held in the church of San Agustín because of works in the main chapel."
+      },
+      {
+        "domanda": "How do you get the Compostela?",
+        "risposta": "At the Pilgrim's Office, Rúa das Carretas 33, by showing your stamped credential: you need at least the last 100 km on foot or horseback, or 200 km by bike. It is open daily 10:00-19:00."
+      },
+      {
+        "domanda": "Is the Camino del Norte hard?",
+        "risposta": "It is tougher than the Camino Francés: about 820 km from Irún, usually split into 34-36 stages, with constant climbs in the Basque Country and fewer albergues. With only a few days you can walk just one coastal stretch."
+      },
+      {
+        "domanda": "What is the best time to go?",
+        "risposta": "May to September for walking, with June and September quieter than July and August. It rains often in Galicia in every season, so always pack a rain jacket."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['spagna-nord-itinerario'],
@@ -2870,10 +3019,10 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: "Ciutadella for the historic atmosphere and the old port; Mahón for the capital and connections; the southern coastal areas for those who mainly aim for the coves.",
     doveMangiare: "Caldereta de langosta (spiny lobster stew, the island's signature dish, not cheap) and Mahón-Menorca PDO cheese, among the best known in Spain.",
-    comeArrivare: "Mahón Airport, with seasonal direct flights from Italy in high season. Ferry from Mallorca: Alcúdia-Ciutadella (1-2h30) or Palma-Mahón (about 6h).",
+    comeArrivare: "Maó Airport (MAH), with direct flights from Italy mostly in summer; bus L10 reaches Maó bus station in just over 10 minutes, every half hour (€2.80, cash only on board, 2026). By ferry from Mallorca, Alcúdia-Ciutadella takes about 1h15 on the fast boat and Palma-Maó about 6 hours. From Barcelona, the fast ferry reaches Ciutadella in about 3.5 hours, while conventional ships take 7-9 hours to Ciutadella or Maó.",
     comeSpostarsi: "A rental car is almost indispensable: buses connect the main towns but not the most secluded coves, which are the reason to come here.",
     periodoMigliore: "June and September, with pleasant temperatures and fewer crowds; the island stays quieter than Mallorca and Ibiza even in midsummer, thanks to less tourist development.",
-    costi: "In high season it generally costs a bit less than Ibiza; car rental and ferries are the main budget items.",
+    costi: "Torre d'en Galmés €3, Fortalesa de la Mola €8.25, Museu de Menorca €4, bus L69 to Macarella €4.60 (2026); tourist tax €0.25-4 per person per night, plus VAT. Budget: about €70-90 a day with a hostel or shared apartment and buses. Mid-range: €150-200 with a hotel, a hire car and harbour dinners. High: over €300 with a boutique hotel, a boat trip and caldereta.",
     erroriDaEvitare: [
       "Expecting the nightlife or tourist services of Ibiza or Mallorca: Minorca chose another path",
       "Trying to see the whole island in a single day: the best coves require travel on secondary roads, often unpaved in the last stretches",
@@ -2883,9 +3032,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Ciutadella",
         "testo": "The former capital, with a long narrow harbour like a ria, a Gothic cathedral and noble palaces under the arcades of Ses Voltes. Seafood restaurants line the port. The Sant Joan festival, on 23-24 June, fills the town with horses and riders.",
-        "come": "Explore on foot. From Maó by scheduled bus or by car on the Me-1.",
+        "come": "Explore on foot. From Maó take bus L01, about an hour (€5.75, 2026), or drive the Me-1.",
         "quando": "The morning market in Plaça del Born. In the evening the harbour is where you eat.",
         "tempo": "half a day",
+        "lat": 40.00139,
+        "lng": 3.83639,
         "consiglio": "Leave the car in the car parks outside the centre: streets are narrow and full in summer."
       },
       {
@@ -2894,7 +3045,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "The airport is close. In town you walk; boats tour the harbour.",
         "quando": "Morning for the market, sunset over the harbour.",
         "tempo": "half a day",
-        "consiglio": "Taste Xoriguer gin at the distillery: it goes into the pomada, the local lemon drink."
+        "lat": 39.88944,
+        "lng": 4.26417,
+        "consiglio": "The Xoriguer gin distillery on the harbour runs one-hour guided tours with a tasting, Monday to Friday, for €15 (2026). The gin goes into pomada, the local drink mixed with lemonade."
       },
       {
         "nome": "Camí de Cavalls",
@@ -2902,15 +3055,19 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Start from several points with parking. The route is waymarked; the official site has maps and stages.",
         "quando": "Spring and autumn. In summer the lack of shade and the heat weigh heavily.",
         "tempo": "3-6 hours per stage",
+        "costo": "Free",
         "url": "https://www.camidecavalls.com/",
         "consiglio": "Carry plenty of water and choose short stages ending at a beach: swim halfway."
       },
       {
         "nome": "Cala Macarella and Macarelleta",
         "testo": "Two nearby coves on the south coast. Macarella is a bay of white sand and pine woods; the smaller Macarelleta is reached on foot from the first and is partly naturist.",
-        "come": "From Ciutadella by car to the car park, then a stretch on foot. In high season there is also a seasonal bus. Or walk from Cala Galdana along the Camí de Cavalls.",
+        "come": "Since 1 June 2026, in summer, Macarella can only be reached on bus L69 from Ciutadella, which leaves from the Via Perimetral, where you park; in high season it runs every 20 minutes, from 8:05 to the last return at 21:20. Otherwise walk from Cala Galdana along the Camí de Cavalls. Macarelleta is a few minutes along the path from the first cove.",
         "quando": "Early morning or late afternoon. In high summer the car park fills up early.",
         "tempo": "half a day",
+        "costo": "Bus L69 €4.60 one way, €8.40 return (2026).",
+        "lat": 39.9387,
+        "lng": 3.93709,
         "consiglio": "Get there before everyone else: early in the morning the water is still and clear."
       },
       {
@@ -2919,6 +3076,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "By car from Maó or Ciutadella, in the middle of the island. Self-guided, with panels. There is an entry ticket.",
         "quando": "Early morning or late afternoon, for the heat and the light.",
         "tempo": "1-1.5 hours",
+        "costo": "€3 (reduced €1.80), free under 8 and on Mondays; free access from November to April (2026).",
+        "orari": "May to October: Tuesday and Sunday 9:00-16:00, Wednesday-Saturday 9:00-20:15, free access on Mondays. November to April: open access.",
+        "lat": 39.90199,
+        "lng": 4.11424,
+        "url": "https://www.menorcatalayotica.info/",
         "consiglio": "Combine it with Cala en Porter or the Museu de Menorca in Maó."
       },
       {
@@ -2927,7 +3089,94 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "By car on the Maó-Ciutadella road, a few kilometres from Ciutadella. A half-hour stop.",
         "quando": "Any time; the golden light of late afternoon is best.",
         "tempo": "30 minutes",
+        "costo": "€2 (reduced €1.20), free under 8 and on Mondays (2026).",
+        "orari": "Tuesday-Saturday 9:00-20:15, Sunday 9:00-15:15; free entry on Mondays.",
+        "lat": 40.00308,
+        "lng": 3.89165,
+        "url": "https://menorcatalayotica.info/en/Naveta_des_Tudons/10664",
         "consiglio": "Stop on the way between the two towns: no detour needed."
+      },
+      {
+        "nome": "Cala en Turqueta",
+        "testo": "A cove on the south-west coast, white sand enclosed by pine woods and rocks, with no buildings around. The water stays shallow for the first few metres and turns turquoise further out.",
+        "come": "Drive from Ciutadella to the car park, which closes once full, then walk a short way through the pines. Bus L68 from Ciutadella runs a few times a day (in 2026 at 10:15, 12:15, 16:15 and 19:15).",
+        "quando": "Before 10:00 in summer: in 2026 the car park was full by mid-morning, even in May.",
+        "tempo": "half a day",
+        "costo": "Bus L68 €5.15 one way (2026).",
+        "lat": 39.93254,
+        "lng": 3.91498
+      },
+      {
+        "nome": "Fortalesa de la Mola",
+        "testo": "The fortress of Isabel II, built in the 19th century on the La Mola peninsula to guard the mouth of Maó harbour. You walk through galleries, batteries and casemates, with views of the open sea and the harbour; the route is long and largely outdoors.",
+        "come": "Drive from Maó along the north shore of the harbour. Tickets sold at reception only.",
+        "quando": "April to September, when it keeps full hours; bring water and a hat.",
+        "tempo": "2-3 hours",
+        "costo": "€8.25 (reduced €4.25-7.50), free under 6 (2026).",
+        "orari": "April-September 10:00-20:00; October 10:00-19:30, then 10:00-18:00 late in the month; February, March and November 10:00-14:00, closed Mondays; December 10:00-14:00 until the 8th; closed from 9 December and in January.",
+        "lat": 39.87591,
+        "lng": 4.31058,
+        "url": "https://www.fortalesalamola.com/"
+      },
+      {
+        "nome": "Museu de Menorca",
+        "testo": "The island museum, in a former Franciscan convent in Maó: Talayotic prehistory, the Roman and Islamic periods, through to the centuries of British rule. It explains the megalithic sites well before you go and see them.",
+        "come": "On foot from central Maó.",
+        "tempo": "1-1.5 hours",
+        "costo": "€4 (reduced €3), free on Sundays (2026).",
+        "orari": "Tuesday and Thursday 10:00-19:00; Wednesday, Friday, Saturday, Sunday and holidays 10:00-14:00. Closed Mondays.",
+        "lat": 39.89109,
+        "lng": 4.26058,
+        "url": "https://www.museudemenorca.com/"
+      },
+      {
+        "nome": "Fornells",
+        "testo": "A fishing village on the north coast, at the end of a wide, sheltered bay that suits kayaking and sailing. It is the home of caldereta de langosta; at the mouth of the bay stands a defence tower built by the British in the early 1800s.",
+        "come": "By car from Maó or Ciutadella; bus from Maó (€3.45, 2026).",
+        "tempo": "half a day",
+        "lat": 40.05352,
+        "lng": 4.12848,
+        "consiglio": "Caldereta is expensive and often priced by weight: check the menu price before ordering."
+      },
+      {
+        "nome": "Monte Toro",
+        "testo": "At 358 metres it is the highest point in Menorca, in the middle of the island. On top stands the sanctuary of the Mare de Déu del Toro, the island's patron, and from the terrace you can see much of the coast.",
+        "come": "By car from Es Mercadal, on a narrow winding road.",
+        "quando": "On clear days, in the morning or at sunset.",
+        "tempo": "45 minutes",
+        "lat": 39.98512,
+        "lng": 4.11386
+      },
+      {
+        "nome": "Cap de Cavalleria",
+        "testo": "The island's northernmost cape, with dark cliffs, a 19th-century lighthouse and bare land swept by the tramontana wind. Nearby are the beaches of Cavalleria and Binimel·là, with dark, reddish sand.",
+        "come": "By car from Es Mercadal or Fornells to the lighthouse road; the Camí de Cavalls passes here.",
+        "quando": "At sunset; when the tramontana blows hard the wind is fierce.",
+        "tempo": "1-2 hours",
+        "lat": 40.08894,
+        "lng": 4.09241
+      },
+      {
+        "nome": "Binibeca Vell",
+        "testo": "A village built in the 1970s in imitation of a fishing hamlet: white houses, narrow lanes, outdoor stairways and a tiny harbour. It is a private, lived-in residential complex, not a town.",
+        "come": "By car from Maó or Sant Lluís, parking outside the village.",
+        "quando": "Between 11:00 and 20:00, the hours the owners ask visitors to keep.",
+        "tempo": "45 minutes",
+        "orari": "Visits between 11:00 and 20:00 (owners' rule since 2024).",
+        "lat": 39.82322,
+        "lng": 4.23225,
+        "consiglio": "Do not enter courtyards or climb onto balconies: these are private homes."
+      },
+      {
+        "nome": "Cova d'en Xoroi",
+        "testo": "Natural caves halfway up the cliff at Cala en Porter, open to the sea and turned into a bar and venue with terraces hanging over the water. The name comes from a legend about a Moorish pirate said to have lived there.",
+        "come": "By car to Cala en Porter; tickets online.",
+        "quando": "At sunset, when the sun goes down over the sea in front of the caves.",
+        "tempo": "1-2 hours",
+        "orari": "Closed in winter: reopens in March 2027, with online sales from mid-February.",
+        "lat": 39.86565,
+        "lng": 4.13282,
+        "url": "https://www.covadenxoroi.com/"
       }
     ],
     programmi: [
@@ -2971,6 +3220,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "South coast (Cala Galdana, Son Bou)",
         "perChi": "those who want the sea",
         "testo": "Resorts and a long beach. More services, less character."
+      },
+      {
+        "nome": "Fornells and the north coast",
+        "perChi": "those after peace and water sports",
+        "testo": "A handful of hotels and apartments around Fornells bay, with kayaking, sailing and fish restaurants. Windier, with wilder beaches than the south; you need a car and a bit more driving."
       }
     ],
     sapori: [
@@ -2996,12 +3250,58 @@ export const destinazioniSpagna: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "The car parks for the southern coves (Macarella, Turqueta) fill up during the morning in high season and are paid.",
+      "Car parks at the south coves, such as Turqueta, fill up by mid-morning in high season and close when full; in summer Macarella is reachable only by bus.",
       "On the Camí de Cavalls there is no shade and little water: start early and avoid midday.",
       "Book your rental car months ahead in summer: prices climb.",
-      "Tourist tax (ecotasa) of a few euros per night, paid at the hotel.",
+      "Tourist tax (impuesto de turismo sostenible) of €0.25-4 per person per night depending on season and category, plus VAT, paid at your accommodation.",
       "No fires or wild camping: they are banned and checks are frequent.",
       "Don't trample the dunes or the washed-up posidonia, which are protected."
+    ],
+    gite: [
+      {
+        "nome": "Boat trip to the south-coast coves",
+        "distanza": "from Cala Galdana, 3.5 hours",
+        "come": "Boat trips from Cala Galdana with two swimming stops, from about €76 per person (2026).",
+        "testo": "From the water you see Mitjana, Trebalúger, Macarella and Turqueta one after another, and swim in the coves without hiking the paths or hunting for parking."
+      },
+      {
+        "nome": "S'Albufera des Grau and Cap de Favàritx",
+        "distanza": "about 10-20 km from Maó",
+        "come": "By car from Maó; waymarked trails inside the natural park.",
+        "testo": "The heart of the Biosphere Reserve: a lagoon with waterbirds, dunes and pine woods, and further north the Favàritx lighthouse on an almost lunar headland of black slate."
+      },
+      {
+        "nome": "Alcúdia (Mallorca)",
+        "distanza": "about 1h15 by fast ferry from Ciutadella",
+        "come": "Baleària ferry from Ciutadella, with seasonal timetables: check there is a same-day return.",
+        "testo": "The walled town of Alcúdia, with the Roman remains of Pollentia and the long beach on the bay: a taste of Mallorca without changing hotels."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need in Menorca?",
+        "risposta": "Three days cover Ciutadella, Maó, a Talayotic site and two coves. A week adds more Camí de Cavalls stages and the north coast."
+      },
+      {
+        "domanda": "Do you need a car?",
+        "risposta": "For the coves and inland sites, almost always. Buses cover the towns: L10 from the airport to Maó and L01 between Maó and Ciutadella; in summer buses L68 and L69 run to Turqueta and Macarella."
+      },
+      {
+        "domanda": "How do you get to Macarella in summer?",
+        "risposta": "Since 2026 only on bus L69 from Ciutadella (€4.60 one way), leaving the car at the Via Perimetral, or on foot along the Camí de Cavalls from Cala Galdana."
+      },
+      {
+        "domanda": "How much is the tourist tax?",
+        "risposta": "From 1 May to 31 October it ranges from €1 to €4 per person per night depending on the accommodation category, and from €0.25 to €1 from November to April, plus VAT. Under-16s are exempt."
+      },
+      {
+        "domanda": "Is the north or the south coast better?",
+        "risposta": "The south has white-sand coves among pine woods and calm water; the north has darker sand, cliffs and more tramontana wind. With a car you can do both in one day."
+      },
+      {
+        "domanda": "What is the best time to go?",
+        "risposta": "June and September for the sea with fewer crowds; April, May and October for walking the Camí de Cavalls. In winter many services close and some sites cut their hours."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['baleari-itinerario'],
@@ -3371,10 +3671,10 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: "Las Palmas for city life and the urban beach of Las Canteras; Maspalomas/Playa del Inglés for those who mainly focus on the dunes and the sea.",
     doveMangiare: "As in the rest of the Canary Islands, papas arrugadas with mojo and gofio; in Las Palmas, the Mercado de Vegueta is the right place for a first taste of local cuisine among the stalls.",
-    comeArrivare: "Gran Canaria Airport (LPA), about 30 km from Las Palmas and close to the tourist south coast. Domestic flight from Tenerife in about 30-40 minutes, or ferry (about 1h30-2h30 depending on the route).",
+    comeArrivare: "Gran Canaria Airport (LPA), on the east coast, halfway between Las Palmas and the tourist south. Line 60 runs to Las Palmas (San Telmo €2.30, Santa Catalina €2.95), twice an hour between 6:00 and 20:00; line 66 goes to Playa del Inglés and Maspalomas lighthouse (€3.50-4.05, hourly; 2026 fares). From Tenerife there is a 30-40 minute domestic flight or the Fred. Olsen Santa Cruz-Agaete ferry in 80 minutes.",
     comeSpostarsi: "Rental car to reach the mountainous center; efficient buses along the coast between Las Palmas and Maspalomas.",
     periodoMigliore: "all year, with the same mild climate as the rest of the Canary Islands; the cooler mountains of the center are pleasant in the months when the coast is hotter.",
-    costi: "Overall similar to the rest of the Canary Islands, with Las Palmas slightly cheaper than the tourist areas of the south.",
+    costi: "Casa de Colón €4, Cueva Pintada €6, cathedral with museum and tower €8, airport bus to Las Palmas €2.30 (2026). Budget: about €50-70 a day with a guesthouse in Las Palmas and buses. Mid-range: €120-170 with a hotel, a hire car and restaurants. High: over €300 with a resort in Mogán or Meloneras.",
     erroriDaEvitare: [
       "Staying on the south coast without ever going up toward the mountains of the center: it's the part that makes the island \"a continent in miniature\"",
       "Underestimating the sun on the Maspalomas dunes: little shade, better to avoid the middle hours of the day",
@@ -3386,14 +3686,21 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "From the Playa del Inglés promenade or the Maspalomas lighthouse you walk into the dunes. Buses from the coast and from Las Palmas.",
         "quando": "Early morning or sunset: at midday the sun is strong and there is no shade.",
         "tempo": "2 hours",
+        "costo": "Free",
+        "lat": 27.74388,
+        "lng": -15.5829,
         "consiglio": "Stay on marked paths: the dunes are protected and parts have restricted access."
       },
       {
         "nome": "Roque Nublo",
         "testo": "A volcanic rock about 80 metres tall, its top 1,813 metres above sea level: the symbol of the island. On clear days you can see Tenerife's Teide from up there.",
-        "come": "By car to the La Goleta car park, then a short but uphill trail, out and back.",
+        "come": "The La Goleta car park is gone: leave the car in Tejeda or at Cruz de los Llanos and take the circular shuttle, every 30 minutes from 9:30 to 18:00, or line 18 from Maspalomas. From the stop the trail is short but uphill. Booking at reservasroquenublo.com.",
         "quando": "Morning, before the clouds. The wind is cold even in summer.",
         "tempo": "1.5-2 hours on foot",
+        "costo": "Shuttle from Tejeda €1.40, line 18 from Maspalomas lighthouse €6 (2026).",
+        "orari": "Every day from 9:00 to 17:00 the trail requires a booking with a QR code, up to 60 people per hour; outside those hours no booking is needed.",
+        "lat": 27.97083,
+        "lng": -15.6125,
         "url": "https://www.grancanaria.com/",
         "consiglio": "Don't leave the marked path: walls near the rock drop away. Bring a sweatshirt."
       },
@@ -3403,6 +3710,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot from central Las Palmas or by bus from Las Canteras. Parking in paid garages.",
         "quando": "Morning for the market. Museum hours on the official sites, especially on Sundays.",
         "tempo": "half a day",
+        "costo": "Cathedral, Museo de Arte Sacro and tower €8 (reduced €6), free under 12 (2026).",
+        "orari": "Cathedral Monday-Friday 10:00-18:00, Saturday 10:00-16:00, last entry half an hour before. Mercado de Vegueta Monday-Thursday 7:00-14:00, Friday and Saturday 7:00-14:30.",
+        "lat": 28.10083,
+        "lng": -15.41473,
+        "url": "https://catedraldecanarias.es/",
         "consiglio": "Climb the cathedral tower for the view over the roofs."
       },
       {
@@ -3411,6 +3723,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Reached by city bus or on foot from Santa Catalina. The beach is in the city centre.",
         "quando": "All year. La Barra shows at low tide.",
         "tempo": "half a day",
+        "costo": "Free",
+        "lat": 28.13955,
+        "lng": -15.43663,
         "consiglio": "In heavy seas the barrier doesn't protect: check the flags."
       },
       {
@@ -3419,15 +3734,101 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "By car from Agüimes on the GC-103. You can walk along the bottom.",
         "quando": "Morning or lunch. In winter clouds are possible up high.",
         "tempo": "2-3 hours",
+        "lat": 27.93003,
+        "lng": -15.46547,
         "consiglio": "The visitor centre up top explains the caves. Eat in a cave restaurant, but book."
       },
       {
         "nome": "Puerto de Mogán",
         "testo": "A harbour village with canals, white houses with bougainvillea and a beach. Built in the 1980s in local style and called little Venice.",
-        "come": "By car from Maspalomas on the GC-1 or by bus. The centre is easy to walk.",
+        "come": "By car from Maspalomas on the GC-1 or by bus (line 91 from Las Palmas, €9.40, 2026). The centre is explored on foot.",
         "quando": "Friday is market day. Sunset over the harbour is quiet.",
         "tempo": "3 hours",
+        "lat": 27.8174,
+        "lng": -15.76522,
         "consiglio": "The Friday market is crowded: arrive early."
+      },
+      {
+        "nome": "Casa de Colón",
+        "testo": "A mansion with courtyards and wooden balconies where, by tradition, Columbus stopped in 1492 on his way to America. The museum covers his voyages, navigation at the time and the role of the Canaries between Europe and the Americas.",
+        "come": "On foot from Plaza de Santa Ana, in the heart of Vegueta.",
+        "tempo": "1 hour",
+        "costo": "€4 (reduced €2), free under 18 and every Sunday (2026).",
+        "orari": "Wednesday-Monday 10:00-18:00, closed Tuesdays; last entry half an hour before. Closed 1 and 6 January, 1 May, 24, 25 and 31 December.",
+        "lat": 28.10138,
+        "lng": -15.41411,
+        "url": "https://casadecolon.grancanaria.com/"
+      },
+      {
+        "nome": "Cueva Pintada, Gáldar",
+        "testo": "A museum and archaeological park built over a village of the ancient Canarians: stone houses and a cave decorated with geometric paintings in red, black and white. It is one of the key pre-Hispanic sites in the Canaries.",
+        "come": "By car or bus to Gáldar, in the north-west. Guided visits at set times with limited places: book online. Cash is not accepted.",
+        "tempo": "1.5 hours",
+        "costo": "€6 (reduced €3), free under 18; free on Sundays with tickets handed out on site while they last (2026).",
+        "orari": "October-May: Tuesday-Saturday 10:00-18:00, Sundays and holidays 11:00-18:00. June-September: Tuesday-Saturday 10:30-19:30, Sunday 11:00-19:30. Closed Mondays.",
+        "lat": 28.14402,
+        "lng": -15.65508,
+        "url": "https://cuevapintada.grancanaria.com/"
+      },
+      {
+        "nome": "Jardín Botánico Canario Viera y Clavijo",
+        "testo": "The large botanical garden devoted to Canary Islands flora, on terraces in the Guiniguada ravine: dragon trees, Canary palms, and endemic plants from the islands' laurel forests and dry zones.",
+        "come": "By car from Las Palmas towards Tafira, about twenty minutes.",
+        "quando": "Early on a weekday morning, when it opens at 7:30 and it is still cool.",
+        "tempo": "2 hours",
+        "orari": "Monday-Friday 7:30-18:00 from October to March and 7:30-19:00 from April to September; Saturdays, Sundays and holidays 10:00-18:00. Last entry one hour before; closed 24, 25 and 31 December and 1 January.",
+        "lat": 28.06441,
+        "lng": -15.46231,
+        "url": "https://jardincanario.grancanaria.com/",
+        "consiglio": "At weekends there are free guided tours on booking."
+      },
+      {
+        "nome": "Teror",
+        "testo": "A town of houses with carved wooden balconies in the green north of the island. The Basilica of Nuestra Señora del Pino holds the patron saint of Gran Canaria; on Sunday mornings a market fills the streets around the church, with chorizo de Teror and sweets made by the Cistercian nuns.",
+        "come": "Bus 216 or 229 from San Telmo in Las Palmas, €2.30 (2026); about half an hour by car.",
+        "quando": "Sunday morning, for the market.",
+        "tempo": "2 hours",
+        "lat": 28.0593,
+        "lng": -15.54781
+      },
+      {
+        "nome": "Tejeda",
+        "testo": "A white village on the rim of the Caldera de Tejeda, facing Roque Nublo and Roque Bentayga. It belongs to the «Most Beautiful Villages in Spain» and is known for its almond sweets, such as bienmesabe.",
+        "come": "Bus 220 from Teror (€3.95) or 305 from San Mateo (€2.55) (2026); by car on narrow, winding mountain roads.",
+        "quando": "Late January to February, when the almond trees blossom.",
+        "tempo": "2 hours",
+        "lat": 27.99744,
+        "lng": -15.61394
+      },
+      {
+        "nome": "Roque Bentayga",
+        "testo": "A lone rock in the middle of the caldera, a sacred place for the ancient Canarians: around it are granaries cut into the rock, engravings and an almogarén, a ritual altar.",
+        "come": "Drive from Tejeda to the interpretation centre, then a short uphill path.",
+        "tempo": "1-1.5 hours",
+        "costo": "Free",
+        "orari": "Interpretation centre Tuesday-Sunday 9:30-16:30, last entry 16:00; closed Mondays.",
+        "lat": 27.99152,
+        "lng": -15.64176,
+        "url": "https://grancanaria.com/turismo/en/culture/archaeological-sites/centro-de-interpretacion-del-roque-bentayga"
+      },
+      {
+        "nome": "Pico de las Nieves",
+        "testo": "At about 1,950 metres it is the highest point on Gran Canaria. From the viewpoint you can see Roque Nublo, the caldera and, on clear days, Mount Teide on Tenerife.",
+        "come": "By car on the GC-134, which branches off the GC-130, up to the viewpoint. In winter the road may close for ice or storms.",
+        "quando": "Early morning or sunset, before the clouds rise.",
+        "tempo": "30 minutes",
+        "lat": 27.96192,
+        "lng": -15.57175
+      },
+      {
+        "nome": "Agaete and Puerto de las Nieves",
+        "testo": "The Agaete valley in the north-west grows coffee and tropical fruit; on the coast, Puerto de las Nieves is the harbour for ferries to Tenerife. The Las Salinas natural pools, carved into the lava, are free to use.",
+        "come": "Bus 103 or 130 from San Telmo, €4.40 (2026); by car on the GC-2.",
+        "quando": "When the sea is calm, for the natural pools.",
+        "tempo": "half a day",
+        "costo": "Natural pools free",
+        "lat": 28.10014,
+        "lng": -15.71303
       }
     ],
     programmi: [
@@ -3459,17 +3860,26 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Las Palmas (Las Canteras)",
         "perChi": "those who want city and beach",
-        "testo": "Life all year, restaurants, buses. Cooler and windier than the south. Evening noise."
+        "testo": "Life all year, restaurants, buses. Cooler and windier than the south. Evening noise.",
+        "fascia": "90-150 €"
       },
       {
         "nome": "Maspalomas and Playa del Inglés",
         "perChi": "those who want guaranteed sun",
-        "testo": "South coast: hot and dry, big hotels, dunes nearby. More touristy and less authentic."
+        "testo": "South coast: hot and dry, big hotels, dunes nearby. More touristy and less authentic.",
+        "fascia": "85-330 €"
       },
       {
         "nome": "Puerto de Mogán",
         "perChi": "those who want calm",
-        "testo": "Small and quiet, but you need a car to get around. Fewer places to eat."
+        "testo": "Small and quiet, but you need a car to get around. Fewer places to eat.",
+        "fascia": "135-650 €"
+      },
+      {
+        "nome": "Tejeda and the island's interior",
+        "perChi": "hikers and those after quiet",
+        "testo": "Rural hotels and country houses among the pines and mountain villages, handy for an early start to Roque Nublo. Evenings are cool and the beach is far away.",
+        "fascia": "da circa 100 €"
       }
     ],
     sapori: [
@@ -3501,6 +3911,46 @@ export const destinazioniSpagna: Destinazione[] = [
       "Strong currents at some southern beaches and Las Canteras in heavy seas: respect the flags.",
       "In summer wildfires are frequent in the mountains: fire is banned, respect trail closures.",
       "Vegueta and Las Palmas: petty pickpocketing in markets and at the port."
+    ],
+    gite: [
+      {
+        "nome": "Tenerife",
+        "distanza": "80 minutes by ferry from Agaete to Santa Cruz",
+        "come": "Fred. Olsen from Puerto de las Nieves, with several sailings a day; Naviera Armas from Las Palmas in about 1h40.",
+        "testo": "With the first morning sailing you can see Santa Cruz and La Laguna, a UNESCO site, or head up into the Anaga massif, returning in the evening."
+      },
+      {
+        "nome": "Arucas and Firgas",
+        "distanza": "about 20 km from Las Palmas",
+        "come": "By car or on Global buses from Las Palmas.",
+        "testo": "Arucas has a huge neo-Gothic church in dark volcanic stone and the Arehucas rum distillery; a little higher up, Firgas has the Paseo de Canarias and a stepped water cascade running through the town."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need on Gran Canaria?",
+        "risposta": "Three: one for Las Palmas and Vegueta, one for the mountains with Roque Nublo and Tejeda, and one for the south between Maspalomas and Puerto de Mogán."
+      },
+      {
+        "domanda": "Do you need to book Roque Nublo?",
+        "risposta": "Yes, every day from 9:00 to 17:00 you need a booking with a QR code, up to 60 people per hour. The La Goleta car park has been removed: take the shuttle from Tejeda or Cruz de los Llanos."
+      },
+      {
+        "domanda": "How do you get from the airport to Las Palmas or Maspalomas?",
+        "risposta": "Line 60 runs to Las Palmas (San Telmo €2.30, Santa Catalina €2.95), twice an hour between 6:00 and 20:00. Line 66 goes to Playa del Inglés (€3.50) and Maspalomas lighthouse (€4.05) every hour (2026)."
+      },
+      {
+        "domanda": "Can you get around without a car?",
+        "risposta": "Global buses link the airport, Las Palmas, Maspalomas and Mogán, and also climb to Teror and Tejeda. For the mountains and the ravines a car saves a lot of time."
+      },
+      {
+        "domanda": "Is it better to stay in Las Palmas or in the south?",
+        "risposta": "Las Palmas for city life, museums and Las Canteras beach, at lower prices; the south for near-guaranteed sun and the dunes. With three days you can split your nights."
+      },
+      {
+        "domanda": "What is the best time to go?",
+        "risposta": "All year: the south coast stays mild even in winter. From late January to February the almond trees blossom around Tejeda; in summer the mountains are cooler than the coast."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['canarie-itinerario'],
@@ -3537,10 +3987,10 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     doveDormire: "Arrecife, the capital, for connections; Playa Blanca in the south or Puerto del Carmen for those who focus on the sea, both with low buildings because of the urban planning rules Manrique wanted.",
     doveMangiare: "As in the rest of the Canary Islands, papas arrugadas and mojo. The wines of La Geria, in particular the malvasía volcánico, come from vineyards that have no equivalent elsewhere and deserve a tasting of their own.",
-    comeArrivare: "Lanzarote Airport (ACE), near Arrecife. Domestic flight from the other Canary Islands or ferry from Gran Canaria/Fuerteventura.",
+    comeArrivare: "Lanzarote Airport (ACE), a few kilometres from Arrecife, with direct flights from Europe and the other Canary Islands. Line 22 links Terminal 2 with Arrecife bus station in about 15 minutes, every 40-55 minutes from 5:45 to 23:35; for the rest of the island it pays to hire a car at the airport. Ferries arrive from Fuerteventura, Corralejo to Playa Blanca in 25-35 minutes, and from Gran Canaria with Naviera Armas into Arrecife.",
     comeSpostarsi: "A rental car is almost indispensable: the distances between the places to see are greater than on the other smaller islands and buses exist, but they run rarely.",
     periodoMigliore: "all year, with the same mild climate as the other Canary Islands; Timanfaya, exposed to the sun on dark terrain, is more comfortable to visit in the cooler hours of the day.",
-    costi: "Timanfaya about €12-18 with bus included; Jameos del Agua and Cueva de los Verdes about €10-12 each; a combined ticket for several Manrique sites almost always pays off for those who see them all.",
+    costi: "Timanfaya €30, Jameos del Agua from €17, Cueva de los Verdes €17, Mirador del Río and Jardín de Cactus €9, Fundación César Manrique €10 (2026). Budget: about €60-80 a day with a simple apartment and buses. Mid-range: €130-180 with a hotel, a hire car and the Manrique sites. High: over €300 with a resort in Playa Blanca and winery tastings.",
     erroriDaEvitare: [
       "Getting off the bus or leaving the marked routes at Timanfaya: it's forbidden for safety (the ground stays hot a few meters down) and for environmental protection",
       "Underestimating the distances between one site and the next: Lanzarote is larger than it looks on the map and the roads, however good, take time",
@@ -3551,9 +4001,12 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Parco Nazionale di Timanfaya",
         "testo": "The lava and ash landscape created by the eruptions of 1730-1736. It can only be visited by bus along the Ruta de los Volcanes, with recorded commentary. At Islote de Hilario there are geothermal demonstrations: water poured into a pipe turns to steam and food is cooked on the heat of the ground.",
         "come": "By car from Yaiza or Tinajo to the entrance. The ticket, which includes the bus tour, is bought online for a set date and time. You don't get off the bus.",
-        "quando": "Every day 9:00-15:45 (CACT website). Pick an early slot: later the queues grow.",
+        "quando": "Pick an early slot: later the queues grow.",
         "tempo": "an hour and a half",
-        "costo": "€30, free up to age 6 (CACT, 2026)",
+        "costo": "€30, free up to age 6 (2026)",
+        "orari": "Daily 9:00-15:45; tickets online only, for a set date and time.",
+        "lat": 29.00283,
+        "lng": -13.75067,
         "url": "https://cactlanzarote.com/",
         "consiglio": "The camel ride is a separate activity with its own fee; you can skip it."
       },
@@ -3561,29 +4014,38 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Jameos del Agua",
         "testo": "A stretch of the La Corona lava tube by the sea, the first centre created by César Manrique, turned into a garden, auditorium and natural lagoon. A tiny blind white crab, Munidopsis polymorpha, lives in the lake.",
         "come": "By car from Arrecife on the LZ-1, on the north coast. Visited on foot along a loop.",
-        "quando": "Every day 10:00-18:00 (CACT website); there are evening events, check the calendar. By day go early to avoid groups.",
+        "quando": "There are evening events, listed in the calendar. By day go early to avoid the groups.",
         "tempo": "1.5 hours",
+        "costo": "from €17, free up to age 6 (2026)",
+        "orari": "Daily 10:00-18:00.",
+        "lat": 29.15694,
+        "lng": -13.43205,
         "url": "https://cactlanzarote.com/",
-        "costo": "from €17, free up to age 6 (CACT, 2026)",
         "consiglio": "Don't throw coins into the lake: they harm the crabs. It pairs well with the Cueva de los Verdes, a few minutes away."
       },
       {
         "nome": "Cueva de los Verdes",
         "testo": "A visitable stretch of the lava tube formed by the eruption of La Corona volcano, with galleries, mineral formations and lighting effects. Guided visits last about 50 minutes.",
         "come": "By car on the LZ-1 near Haría, close to Jameos del Agua. Guided visit at set times, with an online ticket for a date and time.",
-        "quando": "Every day 9:30-16:45 (CACT website); inside the temperature is constant. Morning to avoid groups.",
+        "quando": "Inside the temperature is constant. Go in the morning to avoid the groups.",
         "tempo": "50 minutes",
+        "costo": "€17, free up to age 6 (2026)",
+        "orari": "Daily 9:30-16:45; tickets online only, for a set date and time.",
+        "lat": 29.16078,
+        "lng": -13.43869,
         "url": "https://cactlanzarote.com/",
-        "costo": "€17, free up to age 6 (CACT, 2026)",
         "consiglio": "The route has steps and a low stretch: wear closed shoes with grippy soles."
       },
       {
         "nome": "Mirador del Río",
         "testo": "Manrique's viewpoint built into the cliff and clad in volcanic stone, almost invisible from outside, with windows over the El Río strait and the island of La Graciosa. White curved interiors, a bar with a view.",
         "come": "By car from the LZ-1 via Haría, at the northern tip of the island.",
-        "quando": "Every day 10:00-17:00 (CACT website). Morning, with fewer clouds; in winter the sky is often overcast.",
+        "quando": "Morning, with fewer clouds; in winter the sky is often overcast.",
         "tempo": "1 hour",
-        "costo": "€9, free up to age 6 (CACT, 2026)",
+        "costo": "€9, free up to age 6 (2026)",
+        "orari": "Daily 10:00-17:00.",
+        "lat": 29.21442,
+        "lng": -13.48137,
         "url": "https://cactlanzarote.com/",
         "consiglio": "Have a coffee at the inside bar facing the windows: it's the best way to take in the view without hurry. Combine it on the same trip with Jameos del Agua and the Cueva de los Verdes."
       },
@@ -3591,10 +4053,13 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Jardín de Cactus",
         "testo": "Manrique's last work: an amphitheatre of terraces in an old quarry, with cacti from five continents. A windmill stands at the entrance.",
         "come": "By car from Arrecife to Guatiza, in the north. Visited on foot, flat with a few steps.",
-        "quando": "Every day 10:00-17:00 (CACT website). Morning, for softer light.",
+        "quando": "Morning, when the light is softer.",
         "tempo": "1 hour",
+        "costo": "€9, free up to age 6 (2026)",
+        "orari": "Daily 10:00-17:00.",
+        "lat": 29.08064,
+        "lng": -13.47607,
         "url": "https://cactlanzarote.com/",
-        "costo": "€9, free up to age 6 (CACT, 2026)",
         "consiglio": "On the road you pass Guatiza and its prickly pear plantations, where cochineal is farmed."
       },
       {
@@ -3603,6 +4068,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "By car on the LZ-30 between Yaiza and Mozaga. The wineries offer tastings.",
         "quando": "September for the harvest; in other months wineries open by day.",
         "tempo": "2 hours",
+        "costo": "Bodega El Grifo: self-guided wine museum visit with two glasses €15, five-wine tasting €30 (2026).",
+        "orari": "El Grifo and its wine museum: Monday-Friday 10:00-17:15 (last entry).",
+        "lat": 28.96898,
+        "lng": -13.71451,
+        "url": "https://elgrifo.com/",
         "consiglio": "Stop at the lay-bys and drive slowly: many tourists stop on the road."
       },
       {
@@ -3611,7 +4081,92 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "By car from Playa Blanca on a dirt road; there is an access fee for cars (charged by Yaiza town council). Walk from the car parks.",
         "quando": "Morning in summer, with little wind. Wind kicks up the sand.",
         "tempo": "half a day",
+        "costo": "€3 per vehicle for non-residents, card or phone payment only; free on foot or by bike (2025).",
+        "lat": 28.84242,
+        "lng": -13.78812,
         "consiglio": "Bring a parasol, water and food: the coves have no services."
+      },
+      {
+        "nome": "Fundación César Manrique (Taro de Tahíche)",
+        "testo": "The house Manrique built for himself in 1968 on a lava flow: white rooms with large windows above, and below five volcanic bubbles joined by tunnels and turned into living spaces, with a pool and garden. Today it is the foundation's headquarters and shows his work alongside 20th-century artists.",
+        "come": "By car from Arrecife to Tahíche, a few kilometres inland.",
+        "quando": "At opening time, before the coach groups.",
+        "tempo": "1 hour",
+        "costo": "€10, €3 for ages 7-12; joint ticket with the Haría house-museum €17 (2026).",
+        "orari": "Daily 10:00-17:30, ticket office until 17:00; closed 1 January.",
+        "lat": 29.00308,
+        "lng": -13.54727,
+        "url": "https://fcmanrique.org/"
+      },
+      {
+        "nome": "César Manrique House-Museum, Haría",
+        "testo": "The house where Manrique spent his last years, in a palm grove in the Haría valley, known as the «valley of a thousand palms». His studio has been left as it was, with canvases, brushes and clothes, and the house shows how he lived between traditional architecture and design.",
+        "come": "By car to Haría, in the north of the island; it pairs well with the Mirador del Río.",
+        "tempo": "1 hour",
+        "costo": "€10, €3 for ages 7-12; joint ticket with the Foundation €17 (2026).",
+        "orari": "Daily 10:00-17:30, ticket office until 17:00; closed 1 January.",
+        "lat": 29.14187,
+        "lng": -13.50405,
+        "url": "https://fcmanrique.org/"
+      },
+      {
+        "nome": "Castillo de San José (MIAC)",
+        "testo": "An 18th-century fortress on Arrecife harbour, restored by Manrique as the International Museum of Contemporary Art, with Spanish works from the later 20th century. Downstairs is a restaurant with windows onto the harbour.",
+        "come": "By car or on foot from central Arrecife, along the coast towards Puerto de Naos.",
+        "tempo": "1 hour",
+        "costo": "€5.40, free up to age 6 (2026)",
+        "orari": "Daily 11:00-18:00.",
+        "lat": 28.97097,
+        "lng": -13.53324,
+        "url": "https://cactlanzarote.com/"
+      },
+      {
+        "nome": "El Golfo and Charco de los Clicos",
+        "testo": "Half a volcanic crater open to the sea on the west coast: red and ochre walls enclose an emerald-green lagoon, coloured by algae and separated from the ocean by a black-sand beach.",
+        "come": "By car from Yaiza; from the El Golfo car park a short path leads to the viewpoint. You cannot go down to the water and swimming is forbidden.",
+        "quando": "In the afternoon, with the sun on the crater walls.",
+        "tempo": "45 minutes",
+        "lat": 28.97647,
+        "lng": -13.82785,
+        "consiglio": "In El Golfo village the seafront fish restaurants make a good stop at sunset."
+      },
+      {
+        "nome": "Los Hervideros",
+        "testo": "A stretch of coast where lava reaching the sea formed caves and cracks: in rough seas the waves surge in and burst into spray as if the water were boiling, hence the name. Paths and steps lead among the rocks.",
+        "come": "By car on the LZ-703, the coast road between Janubio and El Golfo; small roadside car park.",
+        "quando": "In rough seas, when the spray is highest.",
+        "tempo": "30 minutes",
+        "lat": 28.95513,
+        "lng": -13.8333,
+        "consiglio": "Stay on the paths: the rock is sharp and the waves reach high."
+      },
+      {
+        "nome": "Salinas de Janubio",
+        "testo": "The largest salt pans in the Canaries, in a lagoon by the sea beneath the southern volcanoes: geometric pools shading from white to pink and ochre. Salt and fleur de sel are still produced here.",
+        "come": "By car on the LZ-2 towards Playa Blanca; there is a roadside viewpoint above the salt pans.",
+        "quando": "At sunset, with reflections on the pools.",
+        "tempo": "30 minutes",
+        "lat": 28.93806,
+        "lng": -13.82069
+      },
+      {
+        "nome": "Teguise",
+        "testo": "The island's capital until 1847, with white colonial houses, convents and the church of Nuestra Señora de Guadalupe. Above the town, on the Guanapay volcano, stands the Castillo de Santa Bárbara.",
+        "come": "By car from Arrecife, about twenty minutes.",
+        "quando": "On Sunday mornings there is the big market, roughly 9:00 to 14:00; on other days the town is much quieter.",
+        "tempo": "2 hours",
+        "lat": 29.06111,
+        "lng": -13.55972
+      },
+      {
+        "nome": "Playa de Famara",
+        "testo": "A beach several kilometres long on the north-west coast, beneath the Famara cliffs, with the village of La Caleta de Famara at one end. It is one of the best-known surf beaches in the Canaries.",
+        "come": "By car from Teguise. Surf schools and board hire in the village.",
+        "quando": "All year for surfing; at sunset the cliffs light up.",
+        "tempo": "half a day",
+        "lat": 29.12587,
+        "lng": -13.53754,
+        "consiglio": "The town council flags it as a dangerous beach because of waves and currents: swim only near the lifeguards."
       }
     ],
     programmi: [
@@ -3644,17 +4199,25 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Playa Blanca",
         "perChi": "those who want beaches and calm",
-        "testo": "South: quiet, a promenade and easy beaches. Near Papagayo and Timanfaya. Little life away from the seafront."
+        "testo": "South: quiet, a promenade and easy beaches. Near Papagayo and Timanfaya. Little life away from the seafront.",
+        "fascia": "da circa 70 €"
       },
       {
         "nome": "Puerto del Carmen",
         "perChi": "those who want activity",
-        "testo": "A long avenue of bars and restaurants, a long beach. More touristy and noisy. Near the airport."
+        "testo": "A long avenue of bars and restaurants, a long beach. More touristy and noisy. Near the airport.",
+        "fascia": "da circa 70 €"
       },
       {
         "nome": "Costa Teguise and Arrecife",
         "perChi": "those who want services and wind for surfing",
-        "testo": "Costa Teguise is more modern, with wind for windsurfing; Arrecife is the capital, more practical than pretty."
+        "testo": "Costa Teguise is more modern, with wind for windsurfing; Arrecife is the capital, more practical than pretty.",
+        "fascia": "da circa 85 €"
+      },
+      {
+        "nome": "Haría and the north",
+        "perChi": "those after rural houses and quiet",
+        "testo": "Country houses and small lodgings among Haría's palm groves, close to the Mirador del Río, the Jameos and the Órzola ferry to La Graciosa. Far from the southern beaches, with fewer restaurants."
       }
     ],
     sapori: [
@@ -3686,6 +4249,46 @@ export const destinazioniSpagna: Destinazione[] = [
       "Dirt roads to Papagayo: rental firms often exclude underbody damage; read the contract.",
       "The Sunday market in Teguise is very crowded: pickpockets.",
       "Strong sun even with clouds and wind: sunscreen and a hat."
+    ],
+    gite: [
+      {
+        "nome": "La Graciosa",
+        "distanza": "25-30 minutes by ferry from Órzola",
+        "come": "Líneas Romero and Biosfera Express ferries from Órzola, at the northern tip; in Caleta del Sebo you can hire bikes or take a 4x4 taxi.",
+        "testo": "An island without paved roads, with sandy streets in Caleta del Sebo and beaches such as Las Conchas beneath the volcanoes. It is part of the Chinijo Archipelago Natural Park."
+      },
+      {
+        "nome": "Corralejo (Fuerteventura)",
+        "distanza": "25-35 minutes by ferry from Playa Blanca",
+        "come": "Fred. Olsen, with up to 12 sailings a day, Naviera Armas or Líneas Romero from Playa Blanca.",
+        "testo": "The white dunes of Corralejo Natural Park, a few minutes from the port, and the long beaches along them; boats to the islet of Lobos also leave from the harbour."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need on Lanzarote?",
+        "risposta": "Three: one for Timanfaya and La Geria, one for Manrique's works in the north, and the third for Papagayo, the west coast or La Graciosa."
+      },
+      {
+        "domanda": "Do you need to book Timanfaya?",
+        "risposta": "Yes: tickets are sold online only, for a set date and time, at €30 including the Ruta de los Volcanes coach (2026). The same applies to the Cueva de los Verdes."
+      },
+      {
+        "domanda": "Can you walk inside Timanfaya?",
+        "risposta": "No, the route among the craters is done by coach only, without getting off: the ground is hot a few metres down and the park is protected. You can only walk around the Islote de Hilario area."
+      },
+      {
+        "domanda": "Do you need a car on Lanzarote?",
+        "risposta": "Almost always: the sights are spread across the island and buses outside Arrecife are infrequent. Line 22 links the airport with Arrecife in about 15 minutes."
+      },
+      {
+        "domanda": "How much do César Manrique's sites cost?",
+        "risposta": "The Cabildo's tourist centres cost from €5.40 (Castillo de San José) to €17 (Jameos del Agua and Cueva de los Verdes); the Foundation and the Haría house-museum are €10 each or €17 together (2026)."
+      },
+      {
+        "domanda": "Where is best to stay?",
+        "risposta": "Playa Blanca for quiet beaches near Papagayo and Timanfaya, Puerto del Carmen for bars and restaurants, Costa Teguise for windsurfing. The rural north around Haría is handy for Manrique's sites and La Graciosa."
+      }
     ],
     esperienzeSlugs: ['timanfaya-ruta-volcanes'],
     tripSlugs: ['canarie-itinerario'],
