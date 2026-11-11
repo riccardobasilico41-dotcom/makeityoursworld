@@ -344,15 +344,17 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveDormire: "I didn't stay overnight in Bodø, I only passed through: I don't have an address to recommend for anyone who wants to stop for a night.",
     doveMangiare:
       "Bryggerikaia (opens mid-morning): excellent \"mega-stuffed\" takeaway sandwiches, to eat at the city viewpoint. Melkebaren for breakfast: good, but the service is slow, something to factor in when time is tight.",
-    comeArrivare: 'Domestic flight from Oslo Gardermoen.',
+    comeArrivare: "Domestic flight from Oslo Gardermoen, about an hour and a half. Bodø airport is about 1.5 km from the centre: buses 1 and 4 take 5-10 minutes (about 45 NOK, about 4 €, with the Reis Nordland app), a taxi costs 150-250 NOK, or it is a 15-minute walk; car rental desks are in the terminal. From the Lofoten you arrive on the Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about 53 €; passengers free); in summer the car space must be booked on the Torghatten Nord website. By train, the Nordland Line arrives from Trondheim in about 10 hours.",
     comeSpostarsi: 'On foot in the center; rental car for the rest of the getting around.',
     periodoMigliore: "I passed through in summer, on the way out and back from the Lofoten; for the other months I have no direct reference",
-    costi: "I didn't note down the costs of this stop",
+    costi: "I didn't note down the costs of this stop. For reference: Aviation Museum 195 NOK (about 17 €), airport bus about 45 NOK, ferry to Moskenes 605 NOK per car. Indicative daily budget per person: low 90-120 € (hostel, supermarket food, buses); mid 160-230 € (hotel in a double room, a museum, one restaurant dinner); high 300 € and up (harbour-front hotel, rental car, seafood dinners).",
     erroriDaEvitare: ["Factor in the slow service at Melkebaren if you have little time between one ferry and the next"],
     miaEsperienza:
       "For us it was a logistical stop both on the way out and on the way back, but with enough to do (Mjelle beach, the Nyholms Fort viewpoint) not to feel like wasted time.",
     luoghi: [
       {
+        lat: 67.2877,
+        lng: 14.3677,
         nome: "Nyholms Fort",
         testo: "An old fort at the tip of Bodø harbour, now with views over the harbour and the islands.",
         come: "On foot from the harbour.",
@@ -362,6 +364,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "The easiest spot for a panoramic photo before boarding."
       },
       {
+        lat: 67.4085,
+        lng: 14.6273,
         nome: "Mjelle beach",
         testo: "A long sandy beach north of the centre, among dunes and sea. In summer you can walk in the evening too with the long light.",
         come: "By car or local bus from Bodø.",
@@ -371,13 +375,89 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "Bring a windproof jacket: the northern wind is strong."
       },
       {
+        orari: "Always accessible, viewed from the bridge and the shore",
+        lat: 67.2281,
+        lng: 14.6164,
         nome: "Saltstraumen",
         testo: "One of the strongest tidal currents in the world, south-east of Bodø: each tide cycle pushes up to 400 million cubic metres of water through, forming whirlpools. I did not visit it, but it is the classic outing from Bodø.",
         come: "By car or bus from Bodø.",
         quando: "Check the tide tables: the current is strongest at mid-tide, roughly every six hours.",
         tempo: "2-3 hours",
         consiglio: "Watch from the bridge; no swimming."
-      }
+      },
+      {
+        nome: "Norwegian Aviation Museum (Norsk Luftfartsmuseum)",
+        testo: "Norway's national aviation museum, in a large propeller-shaped building next to the airport. One wing covers civil flying, the other military aviation, with original aircraft and a section on the Cold War. It is the most substantial indoor visit in Bodø on a rainy day.",
+        come: "About 25 minutes on foot from the centre, or by car: it sits by the airport, handy before returning a rental car.",
+        quando: "On a rainy day or in the hours before a flight.",
+        tempo: "2 hours",
+        costo: "Adults 195 NOK (about 17 €), children 6-16 95 NOK, family 550 NOK (2026)",
+        orari: "1 June-16 August daily 10:00-18:00; rest of the year Mon-Fri 10:00-16:00, Sat-Sun 11:00-17:00; closed for maintenance 1-24 January and on the Christmas holidays",
+        url: "https://luftfartsmuseum.no",
+        lat: 67.2764,
+        lng: 14.4128,
+      },
+      {
+        nome: "Bodø Cathedral (Bodø domkirke)",
+        testo: "The cathedral was built in the 1950s, after the 1940 bombing had destroyed much of the town. It is a modern concrete building with a free-standing bell tower and large stained-glass windows.",
+        come: "In the centre, a few minutes' walk from the harbour.",
+        quando: "During the day, outside service times.",
+        tempo: "20-30 minutes",
+        lat: 67.2823,
+        lng: 14.3819,
+      },
+      {
+        nome: "Nordland Museum (Nordlandsmuseet)",
+        testo: "The regional museum of Nordland, in one of the oldest buildings in the centre. It covers the history of Bodø, fishing and Sámi culture, and shows what the town was like before the war.",
+        come: "On foot in the centre, next to the cathedral.",
+        quando: "A spare hour between a walk in the centre and the ferry.",
+        tempo: "1 hour",
+        url: "https://www.nordlandsmuseet.no",
+        lat: 67.2819,
+        lng: 14.3823,
+      },
+      {
+        nome: "Stormen library and concert hall",
+        testo: "The two white buildings on the waterfront are the town's cultural centre: the concert hall on one side, the library on the other, with tall windows over the harbour. The library is free to walk into and a good place to sit and watch the sea.",
+        come: "On foot from the quay, on the central waterfront.",
+        quando: "In bad weather, or in the evening if there is a concert.",
+        tempo: "30 minutes",
+        costo: "Library free; concerts ticketed",
+        lat: 67.2831,
+        lng: 14.3754,
+      },
+      {
+        nome: "Keiservarden",
+        testo: "The viewpoint on Rønvikfjellet, above the town, is named after the visit of German Emperor Wilhelm II in the late 19th century. From the top you see Bodø, the islands and, on a clear day, the outline of the Lofoten. In summer it is the classic spot for the midnight sun.",
+        come: "Marked trail from the Rønvik area, north of the centre; drive to the trailhead parking, then walk.",
+        quando: "A summer evening, with the midnight sun and clear skies.",
+        tempo: "2-3 hours round trip",
+        costo: "Free",
+        lat: 67.315,
+        lng: 14.4783,
+        consiglio: "Wear hiking shoes: the ground is wet even in summer.",
+      },
+      {
+        nome: "Kjerringøy trading post (Kjerringøy handelssted)",
+        testo: "A 19th-century trading post with wooden houses, sea-front warehouses and the merchant's home, now run as a museum by the Nordland Museum. The landscape around it, with pale beaches and pointed peaks, looks like a small-scale Lofoten.",
+        come: "Drive north and take the roughly 10-minute ferry to Misten (you stay in the car; be at the quay 30 minutes early).",
+        quando: "Summer, when guided tours run.",
+        tempo: "Half a day including the drive",
+        url: "https://www.nordlandsmuseet.no",
+        lat: 67.5195,
+        lng: 14.7643,
+      },
+      {
+        nome: "Aspmyra Stadion",
+        testo: "The home of Bodø/Glimt, the club that has won the Norwegian league in recent years and made a name for itself in European competitions. It is small and close to the centre: on match days the town turns yellow.",
+        come: "A 15-minute walk from the centre.",
+        quando: "On home match days; the fixture list is on the club's website.",
+        tempo: "2-3 hours for a match",
+        url: "https://glimt.no",
+        lat: 67.2767,
+        lng: 14.3844,
+        consiglio: "Buy tickets online early, especially for European matches.",
+      },
     ],
     sapori: [
       {
@@ -392,6 +472,29 @@ export const destinazioniNorvegia: Destinazione[] = [
     attenzioni: [
       "If you take the ferry to the Lofoten, arrive well ahead of time: in summer the queues are long.",
       "In summer Bodø's accommodation fills up early: book soon."
+    ],
+    programmi: [
+      { titolo: "Half a day between flight and ferry", tappe: ["Walk around the centre and the quay", "Takeaway sandwich and the view from Nyholms Fort", "Stormen and the cathedral", "At the ferry quay well ahead of time"] },
+      { titolo: "1 day", tappe: ["Morning at the Aviation Museum", "Lunch in the centre and the Nordland Museum", "Afternoon at Saltstraumen, timed for the strongest current", "Evening at Keiservarden in the long light"] },
+      { titolo: "2 days", tappe: ["Day 1: as above", "Day 2: ferry to Misten and Kjerringøy", "Mjelle beach on the way back", "A Bodø/Glimt match, if there is one"] },
+    ],
+    zone: [
+      { nome: "Centre and harbour", perChi: "Those arriving or leaving by ferry", testo: "Hotels, restaurants and the ferry quay all within a few minutes' walk. The most convenient area for a one-night stopover." },
+      { nome: "Near the airport", perChi: "Those with a dawn flight", testo: "A few hotels between the airport and the centre, close to the Aviation Museum. Less atmosphere, but the terminal is minutes away." },
+      { nome: "Saltstraumen", perChi: "Those with a car who want nature", testo: "Lodges and cabins around the tidal current, about half an hour from town. Quiet, but you need a car and your own groceries." },
+    ],
+    gite: [
+      { nome: "Saltstraumen", distanza: "about 30 km, half an hour's drive", come: "By car or local bus from Bodø.", testo: "The tidal current forms whirlpools under the bridge four times a day: go at mid-tide and check the tables." },
+      { nome: "Kjerringøy", distanza: "about 40 km north, with a 10-minute ferry", come: "By car and ferry to Misten.", testo: "The historic trading post, pale beaches and pointed peaks: a taste of the Lofoten landscape without the crowds." },
+      { nome: "Lofoten via Moskenes", distanza: "about 3 hours 15 minutes by ferry", come: "Torghatten Nord ferry to Moskenes, with or without a car.", testo: "More a crossing than a day trip, it leads to Reine and Å: in summer a car space must be booked, foot passengers board without trouble." },
+    ],
+    faq: [
+      { domanda: "Is Bodø worth a stop?", risposta: "As a stop of a few hours, yes: the centre is walkable, Nyholms Fort is ten minutes away and Saltstraumen half an hour. For more than one night you need a specific reason, such as Kjerringøy or a Bodø/Glimt match." },
+      { domanda: "How do you get from Bodø to the Lofoten?", risposta: "By ferry to Moskenes, about 3 hours 15 minutes: a car up to 6 metres pays 605 NOK, passengers travel free. Alternatively fly to Leknes or Svolvær, or drive north and take the Bognes-Lødingen ferry." },
+      { domanda: "Do you need to book the Moskenes ferry?", risposta: "With a car in summer, yes: book the space on the Torghatten Nord website, or you risk being left behind. Foot passengers board easily; still be at the port 40 minutes early." },
+      { domanda: "How far is the airport from the centre?", risposta: "About 1.5 km: a 15-minute walk, 5-10 minutes on buses 1 and 4 (about 45 NOK) or a few minutes by taxi." },
+      { domanda: "When can you see the midnight sun in Bodø?", risposta: "Bodø is above the Arctic Circle: the midnight sun lasts roughly from early June to early July. The best place to watch it is Keiservarden, above the town." },
+      { domanda: "What to do in Bodø when it rains?", risposta: "The Aviation Museum, the Nordland Museum and the Stormen library, all close to the centre. The aviation museum alone fills a couple of hours." },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['lofoten-estate-2025'],
@@ -1159,15 +1262,18 @@ export const destinazioniNorvegia: Destinazione[] = [
       "I stayed in a private rorbu overlooking the fjord, Casa Flakstad, the most isolated and quiet lodging of the trip. It's a small place, with too few online reviews to quote: a simple, basic rorbu, few lights, plenty of silence, the fjord a few steps away.\n\nAlternatives in Nesland/Flakstad. Budget: Ramberg Gjestegård (simple cabins, 850-1050 NOK a night, discount in low season), Lofoten Beach Camp (family-run campsite in Ramberg, sauna and picnic area) · mid-range (the rorbu I chose falls here): Lofoten Nesland Guesthouse (very high review score, quiet location with an ocean view) · upscale without going overboard: Nusfjord Village & Resort (renovated historic rorbuer in the village of Nusfjord, sauna and hot tubs included; pricey, but with enthusiastic reviews).",
     doveMangiare:
       "Dinner at Ramberg Resort, in a good spot a couple of steps from Ramberg beach for a post-dinner stroll. The supermarket in Ramberg is better stocked and cheaper than the Coop in Reine and is the go-to for organizing an evening barbecue (salmon, vegetables, sides). Note: it only sells beer, no wine or spirits.",
-    comeArrivare: 'A few minutes by car from Reine.',
+    comeArrivare: "By car on the E10, the road running through the whole Lofoten: about half an hour from Leknes, about an hour and a half from Svolvær, about 50 minutes from Å. The nearest ferry port is Moskenes, served by the Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about 53 €; passengers free). The most convenient airports are Leknes, with flights from Bodø, and Bodø itself. E10 buses stop at Ramberg but run rarely: a car remains the practical choice.",
     comeSpostarsi: 'Rental car.',
     periodoMigliore: "I was there in summer; for the other months I have no direct reference",
-    costi: 'Cabins from 850-1050 NOK/night for the budget options in the area.',
+    costi: "Cabins from 850-1050 NOK/night for the budget options in the area. Indicative daily budget per person: low 80-110 € (simple cabin for two, groceries in Ramberg and a barbecue); mid 150-220 € (rorbu or guesthouse in a double room, one restaurant dinner, fuel); high 300 € and up (restored rorbuer in Nusfjord, seafood dinners).",
     erroriDaEvitare: ["The Ramberg supermarket doesn't sell wine/spirits, only beer: plan your shopping accordingly"],
     miaEsperienza:
       "The rorbu in Nesland was the quietest place of the whole trip: no artificial light, the fjord a few steps away, and one of the most relaxed barbecue evenings of the week.",
     luoghi: [
       {
+        costo: "Free",
+        lat: 68.0042,
+        lng: 13.2872,
         nome: "Nesland-Nusfjord walk",
         testo: "A scenic path that follows the fjord coast from Nesland to the village of Nusfjord, with views of the sea and the mountains of Flakstadøya.",
         come: "On foot from the rorbu, along the coast.",
@@ -1176,6 +1282,9 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "The silence and the few lights of the place are the best part."
       },
       {
+        costo: "In summer there is an entry ticket to the village",
+        lat: 68.0354,
+        lng: 13.3477,
         nome: "Nusfjord",
         testo: "A well-preserved fishing village on the south coast of Flakstadøya, with red rorbuer and a small harbour.",
         come: "A short drive from Nesland.",
@@ -1184,6 +1293,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "A short walk, but best in calm weather."
       },
       {
+        lat: 68.0899,
+        lng: 13.2299,
         nome: "Ramberg and the beaches of Flakstadøya",
         testo: "Ramberg has a long pale sand beach, a bit further on is Skagsanden and, on the neighbouring island of Vestvågøy, Haukland: among the most beautiful beaches in the Lofoten. The water is cold but the colour is Caribbean.",
         come: "By car from Nesland; Haukland is further, towards Leknes.",
@@ -1191,7 +1302,67 @@ export const destinazioniNorvegia: Destinazione[] = [
         tempo: "1-2 hours",
         costo: "free entry",
         consiglio: "Supermarkets sell only beer: wine and spirits are sold only at Vinmonopolet."
-      }
+      },
+      {
+        nome: "Skagsanden",
+        testo: "A pale sand beach beside Flakstad church, framed by mountains. In winter it is one of the most photographed northern-lights spots; in summer, for long sunsets over the ocean.",
+        come: "By car on the E10, with a small parking area by the road.",
+        quando: "Summer evenings or clear winter nights.",
+        tempo: "30 minutes-1 hour",
+        costo: "Free",
+        lat: 68.1066,
+        lng: 13.2951,
+      },
+      {
+        nome: "Flakstad Church",
+        testo: "A red wooden church from the late 18th century, with an onion-domed tower, on the flat land between the road and the sea. It is one of the few old buildings still standing on the island.",
+        come: "On the E10 between Ramberg and Skagsanden, with parking in front.",
+        quando: "In summer, when the interior is open to visitors.",
+        tempo: "20 minutes",
+        lat: 68.1048,
+        lng: 13.3063,
+      },
+      {
+        nome: "Kvalvika beach",
+        testo: "A wild bay on the north coast, reachable only on foot, enclosed between two rock walls. The trail climbs and dips through bog and stones before dropping onto the sand.",
+        come: "From the parking area on the road to Fredvang, a trail of about 2 km each way.",
+        quando: "Summer, in dry weather: when wet, the mud slows you down a lot.",
+        tempo: "2-3 hours round trip",
+        costo: "Free; paid parking",
+        lat: 68.0781,
+        lng: 13.102,
+        consiglio: "Hiking shoes, no fires on the beach, and carry your rubbish out.",
+      },
+      {
+        nome: "Ryten",
+        testo: "The roughly 540-metre mountain above Kvalvika, with a rock ledge hanging over the beach. One of the finest views in the Lofoten, and a less crowded climb than Reinebringen.",
+        come: "Same parking as Kvalvika; the trail splits halfway and climbs to the ridge.",
+        quando: "Clear summer days; with low cloud you see nothing.",
+        tempo: "4-5 hours round trip",
+        costo: "Free; paid parking",
+        lat: 68.0893,
+        lng: 13.0929,
+        consiglio: "You can combine it with the beach: up Ryten, down to Kvalvika.",
+      },
+      {
+        nome: "Fredvang Bridges",
+        testo: "Two arched bridges linking Flakstadøya with the village of Fredvang, over a strait of green water. Stopping halfway, in the small parking areas, gives one of the most photographed views in the area.",
+        come: "By car, a detour off the E10 towards Fredvang.",
+        quando: "In sunshine, when the water is at its clearest.",
+        tempo: "20 minutes",
+        costo: "Free",
+        lat: 68.0803,
+        lng: 13.2003,
+      },
+      {
+        nome: "Glasshytta Vikten glassworks",
+        testo: "A glass-blowing workshop in a stone-and-timber building on the north coast, facing the ocean. You can watch the glass being worked and buy pieces made on site; there is a small gallery and a summer café.",
+        come: "By car, a detour off the E10 towards Vikten, about 15 minutes from Ramberg.",
+        quando: "In summer; out of season it may close earlier.",
+        tempo: "45 minutes",
+        lat: 68.1387,
+        lng: 13.3113,
+      },
     ],
     sapori: [
       {
@@ -1202,6 +1373,29 @@ export const destinazioniNorvegia: Destinazione[] = [
     attenzioni: [
       "Ramberg: the supermarket sells only beer; for wine you need to go to the nearest Vinmonopolet.",
       "The rorbu is isolated: bring enough groceries and a torch."
+    ],
+    programmi: [
+      { titolo: "1 day", tappe: ["Morning in Nusfjord before the groups", "Flakstad Church and Skagsanden", "Lunch and groceries in Ramberg", "Evening: the Nesland-Nusfjord walk in the long light"] },
+      { titolo: "2 days", tappe: ["Day 1: as above", "Day 2: Kvalvika on foot, or Ryten if the sky is clear", "Fredvang Bridges on the way back", "Evening: barbecue at the rorbu"] },
+      { titolo: "3 days", tappe: ["Days 1-2: as above", "Day 3: Å, Sakrisøy and Hamnøy to the west", "Or eastwards: Glasshytta Vikten and the beaches of Vestvågøy"] },
+    ],
+    zone: [
+      { nome: "Nesland and Nusfjord", perChi: "Those after silence and a fjord view", testo: "Rorbuer and guesthouses scattered along the south coast, away from the main road. Very few services: shop in Ramberg." },
+      { nome: "Ramberg", perChi: "Those who want a supermarket and a beach nearby", testo: "The best-served village on Flakstadøya, with the supermarket, Ramberg Resort and simple cabins on the beach.", fascia: "75-90 € (simple cabin, 850-1,050 NOK)" },
+      { nome: "Fredvang", perChi: "Those planning Kvalvika and Ryten", testo: "A village beyond the bridges, at the foot of the Kvalvika and Ryten trails. Few places to stay; book early." },
+    ],
+    gite: [
+      { nome: "Reine and Hamnøy", distanza: "about 30-40 minutes by car", come: "By car west along the E10.", testo: "Reine bay, Reinebringen and the red rorbuer of Hamnøy: the most famous stretch of the Lofoten." },
+      { nome: "Å", distanza: "about 50 minutes by car", come: "By car to the end of the E10.", testo: "The Fishing Village Museum and the historic bakery, with a lunch stop in Sakrisøy." },
+      { nome: "Haukland and Uttakleiv", distanza: "about 40-50 minutes by car", come: "By car east, past Leknes, on Vestvågøy island.", testo: "Two white beaches linked by a coastal road and a footpath: among the finest in the archipelago." },
+      { nome: "Lofotr Viking Museum", distanza: "about 45 minutes by car", come: "By car east to Borg, past Leknes.", testo: "A reconstruction of a Viking chieftain's longhouse, open daily in summer; tickets are around 250 NOK in high season." },
+    ],
+    faq: [
+      { domanda: "Is it better to stay on Flakstadøya rather than in Reine?", risposta: "With a car, yes: Reine is half an hour away, you are halfway between Å and Leknes, and evenings are far quieter. Without a car Reine is more convenient." },
+      { domanda: "Do you pay to enter Nusfjord?", risposta: "In summer, yes, there is an entry ticket to the village. Out of season access is freer; the trail from Nesland reaches the village on foot either way." },
+      { domanda: "How hard is the Kvalvika trail?", risposta: "It is not technical, but it climbs and dips over stones and bog for about 2 km each way. When wet it turns muddy: hiking shoes are needed." },
+      { domanda: "Where can you buy groceries?", risposta: "At the Ramberg supermarket, better stocked and cheaper than the Coop in Reine. It only sells beer: wine and spirits only at the Vinmonopolet." },
+      { domanda: "Can you see the northern lights from Flakstad?", risposta: "Yes, from late August to April, with clear, dark skies. Skagsanden and Ramberg beach are the most popular spots, as they face north over the sea." },
     ],
     esperienzeSlugs: ['nesland-nusfjord'],
     tripSlugs: ['lofoten-estate-2025'],
@@ -1223,15 +1417,19 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveDormire: "I didn't stay overnight in Å: you sleep in Nesland/Flakstad.",
     doveMangiare:
       "The village's historic bakery (few seats, but excellent pastries). On the way, in Sakrisøy, Anita's Seafood: stuffed sandwiches, soups, sushi, a view of the fjord. You order at the counter, no table service.",
-    comeArrivare: 'About 50 minutes by car from Nesland/Flakstad.',
+    comeArrivare: "Å is the last village on the E10, at the tip of Moskenesøya island: about 10 km from Reine, about 50 minutes by car from Nesland/Flakstad, about two hours from Svolvær. The ferry port for Bodø is at Moskenes, 5 km before the village: Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about 53 €; passengers free). Parking is after the tunnel, a few minutes' walk from the village centre. Local buses come from Reine and Leknes, but run rarely.",
     comeSpostarsi: 'On foot, the village is small.',
     periodoMigliore: "I was there in summer, in the rain; for the other months I have no direct reference",
-    costi: "I didn't note down the costs of this stop",
+    costi: "I didn't note down the costs of this stop. For reference: Fishing Village Museum 125 NOK (about 11 €), Reine parking 200 NOK for three hours, Moskenes-Bodø ferry 605 NOK per car. Indicative daily budget per person: low 80-110 € (hostel or shared rorbu, Coop groceries); mid 150-220 € (rorbu in a double room, a museum, a seafood lunch); high 300 € and up (waterfront rorbu in Reine or Hamnøy, restaurant dinners).",
     erroriDaEvitare: [],
     miaEsperienza:
       "Å struck me even in the rain: the Fisherman's Museum, with its guided tour in English, tells well a part of local history that elsewhere on the trip you only glimpse in passing.",
     luoghi: [
       {
+        costo: "Adults 125 NOK (about 11 €, autumn 2026)",
+        orari: "1 November-6 December 2026 daily 9:00-15:00; closed 7 December-2 January; guided tours most days",
+        lat: 67.8814,
+        lng: 12.9821,
         nome: "Norwegian Fishing Village Museum (Norsk Fiskeværsmuseum)",
         testo: "The museum of the village of Å, with houses, warehouses and a historic bakery, tells the story of Lofoten fishermen.",
         come: "By car from Nesland; opening times and how to visit on the official website.",
@@ -1241,6 +1439,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "In the rain, as when I went, it is still a good indoor visit."
       },
       {
+        lat: 67.8808,
+        lng: 12.9818,
         nome: "Å historic bakery",
         testo: "A historic bakery, with cinnamon rolls and sweets made on site; few seats but excellent.",
         come: "On foot in the village.",
@@ -1249,13 +1449,67 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "Get a cinnamon swirl: it is the typical thing."
       },
       {
+        lat: 67.9412,
+        lng: 13.1111,
         nome: "Sakrisøy and Anita's Seafood",
         testo: "On the way to Å is Sakrisøy, a village of yellow cottages, and Anita's Seafood, where you eat soups, sandwiches and sushi. You order at the counter, no table service.",
         come: "By car, along the road to Å.",
         quando: "Lunch.",
         tempo: "1 hour",
         consiglio: "View of the fjord from the outdoor table."
-      }
+      },
+      {
+        nome: "Lofoten Stockfish Museum (Lofoten Tørrfiskmuseum)",
+        testo: "A small private museum in an old fish warehouse, devoted to stockfish: the winter cod fishery, drying on the racks and export, above all to Italy. In recent years its opening has been irregular.",
+        come: "On foot at the entrance to the village.",
+        quando: "In summer.",
+        tempo: "45 minutes",
+        lat: 67.8823,
+        lng: 12.9841,
+        consiglio: "If it is closed, the stockfish racks can still be seen outdoors around the village.",
+      },
+      {
+        nome: "Moskstraumen viewpoint",
+        testo: "Beyond the last houses of Å a path leads onto the rocks at the tip of the island, facing the Moskstraumen, the tidal current that inspired the 'Maelström' of Edgar Allan Poe and Jules Verne. Værøy island lies on the horizon.",
+        come: "A few minutes on foot from the village centre.",
+        quando: "With a calm sea and evening light.",
+        tempo: "30 minutes",
+        costo: "Free",
+        consiglio: "The rocks are slippery when wet: keep away from the edge.",
+      },
+      {
+        nome: "Hamnøy",
+        testo: "A fishing village on an islet, with red rorbuer on the rocks and the Reine mountains behind. From the bridge on the E10 you get the most famous photo in the Lofoten.",
+        come: "By car on the E10, about 20 minutes from Å; small parking area before the bridge.",
+        quando: "Early morning or evening, with low-angled light.",
+        tempo: "30 minutes",
+        costo: "Free",
+        lat: 67.9464,
+        lng: 13.1376,
+        consiglio: "Do not stop your car on the bridge: traffic squeezes past.",
+      },
+      {
+        nome: "Reine",
+        testo: "The village on the most famous bay in the Lofoten, at the foot of Reinebringen. Ferries to Vindstad and Bunes beach also leave from here.",
+        come: "By car on the E10, about 15 minutes from Å.",
+        quando: "Any time of day; Reinebringen only in clear weather.",
+        tempo: "1 hour for the village, 2-4 hours with Reinebringen",
+        costo: "Parking 200 NOK for three hours (about 17 €)",
+        lat: 67.9325,
+        lng: 13.0888,
+      },
+      {
+        nome: "Moskenes",
+        testo: "The ferry port for Bodø, a few kilometres from Å. There is not much to see, but it is where you arrive and leave if you enter or exit the Lofoten from the west.",
+        come: "By car on the E10, about 5 km before Å.",
+        quando: "At the port 40 minutes before departure.",
+        tempo: "About 3 hours 15 minutes' crossing to Bodø",
+        costo: "Car up to 6 metres 605 NOK (about 53 €), passengers free (2026)",
+        url: "https://www.torghatten.no/en/our-routes/18-782",
+        lat: 67.8998,
+        lng: 13.0438,
+        consiglio: "In summer, book the car space.",
+      },
     ],
     sapori: [
       {
@@ -1270,6 +1524,28 @@ export const destinazioniNorvegia: Destinazione[] = [
     attenzioni: [
       "Å is the end of the E10 road: there is nothing beyond, park calmly.",
       "The weather changes fast: bring a waterproof."
+    ],
+    programmi: [
+      { titolo: "Half a day", tappe: ["The historic bakery as soon as it opens", "Fishing Village Museum with the guided tour", "Moskstraumen viewpoint", "Lunch in Sakrisøy"] },
+      { titolo: "1 day from Å to Hamnøy", tappe: ["Morning in Å: bakery, museum, the rocks at the end of the village", "Lunch at Anita's Seafood in Sakrisøy", "Afternoon: Reinebringen if the sky is clear", "Evening: photos from the Hamnøy bridge"] },
+      { titolo: "2 days", tappe: ["Day 1: as above", "Day 2: morning ferry from Reine to Vindstad and Bunes beach", "Back on the afternoon ferry"] },
+    ],
+    zone: [
+      { nome: "Å", perChi: "Those who want to sleep in the historic village", testo: "Rorbuer and a hostel among the museum buildings. In the evening, once the cars leave, the village is silent." },
+      { nome: "Reine, Sakrisøy and Hamnøy", perChi: "Those who want the most famous view", testo: "Rorbuer on the water facing the mountains, a quarter of an hour from Å. The most sought-after stays in the Lofoten: book months ahead." },
+      { nome: "Sørvågen and Moskenes", perChi: "Those catching an early ferry", testo: "Between Å and Reine, a few minutes from the ferry port. Quieter and a little cheaper than the postcard villages." },
+    ],
+    gite: [
+      { nome: "Reinebringen", distanza: "about 15 minutes' drive to Reine", come: "By car, then on foot: 1,978 stone steps, 448 metres of ascent.", testo: "The view down over Reine bay, the most famous in the Lofoten. Only worth it in clear weather." },
+      { nome: "Bunes beach", distanza: "40-minute ferry from Reine, then about an hour's walk", come: "Reine-Vindstad ferry, few sailings a day: best to book a seat.", testo: "A beach hemmed in by rock walls on the north side of the island. There are no shops in Vindstad: bring water and lunch." },
+      { nome: "Nusfjord and Flakstadøya", distanza: "about 50 minutes by car", come: "By car east on the E10.", testo: "The fishing village of Nusfjord, Flakstad Church and the beaches of Ramberg and Skagsanden." },
+    ],
+    faq: [
+      { domanda: "How much time do you need for Å?", risposta: "Half a day is enough for the bakery, the Fishing Village Museum and the rocks at the end of the village. Adding Reine, Sakrisøy and Hamnøy makes a full day." },
+      { domanda: "Can you drive into the village?", risposta: "Parking is after the tunnel, a few minutes' walk from the centre: leave the car there and explore on foot, the village is small." },
+      { domanda: "Is the Fishing Village Museum open all year?", risposta: "Almost: it closes from early December to early January, and hours change with the seasons. In autumn 2026 it opens daily 9:00-15:00, with a 125 NOK ticket." },
+      { domanda: "What does Å mean?", risposta: "In Old Norse it means 'river'. It is considered the shortest place name in the world, along with a few other Scandinavian villages of the same name." },
+      { domanda: "When is the best time to go to Å?", risposta: "In summer for the long light and open venues such as the bakery and Anita's Seafood. From February to April the racks are full of stockfish and, at night, the northern lights appear." },
     ],
     esperienzeSlugs: ['museo-dei-pescatori'],
     tripSlugs: ['lofoten-estate-2025'],

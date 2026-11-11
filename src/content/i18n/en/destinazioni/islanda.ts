@@ -1060,10 +1060,10 @@ export const destinazioniIslanda: Destinazione[] = [
     doveDormire:
       "I slept at Camp Egilsstaðir, well reviewed (4/5 on Tripadvisor): clean bathrooms, washers and dryers, indoor kitchens, electricity, for about 2,000 ISK per person.\n\nAlternatives in Egilsstaðir. Budget: Hafaldan HI Hostel (Harbour building) · mid-range: Við Lónið Guesthouse · more refined: Gistihúsið Lake Hotel Egilsstaðir, Hotel Valaskjálf.",
     doveMangiare: "Dinner at the campsite or at one of the places in Egilsstaðir.",
-    comeArrivare: "From Höfn, along the East Fjords (Route 1).",
+    comeArrivare: "From Höfn along the East Fjords on Route 1: about 250 km, three or four hours on paper that become five or six with stops, as the road follows every fjord. From Akureyri, Route 1 crosses the highlands in about three and a half hours. Egilsstaðir airport has domestic flights from Reykjavík of about an hour, and the Smyril Line Norröna ferry from Denmark docks at Seyðisfjörður, 27 km away. The Öxi pass shortcut is gravel and closes in winter: check road.is.",
     comeSpostarsi: 'Rental car.',
     periodoMigliore: "the same as the whole trip: summer, if you tour the island by tent",
-    costi: "Campsite about 2,000 ISK per person.",
+    costi: "Campsite about 2,000 ISK per person. Vök Baths 7,690 ISK (about 55 €), Skriðuklaustur 1,800 ISK, Egilsstaðir museum 1,500 ISK. Indicative daily budget per person: low 60-90 € (campsite, supermarket food, fuel split between two); mid 150-220 € (guesthouse in a double room, Vök Baths, one restaurant dinner); high 300 € and up (lakeside hotel, dinners with reindeer dishes).",
     erroriDaEvitare: [],
     miaEsperienza: "The Vök Baths came at just the right moment: after two days of hiking and wind, it was the first real hot bath of the trip.",
     luoghi: [
@@ -1077,6 +1077,9 @@ export const destinazioniIslanda: Destinazione[] = [
         consiglio: "Plan breaks in villages like Djúpivogur, and fill up beforehand."
       },
       {
+        costo: "Free",
+        lat: 65.2598,
+        lng: -14.0049,
         nome: "Seyðisfjörður",
         testo: "An artists' village in a deep fjord, with colourful wooden houses, the blue church and the rainbow street. You arrive by descending a mountain pass (Fjarðarheiði) with beautiful waterfalls.",
         come: "By car from Egilsstaðir (27 km), over the Fjarðarheiði pass. Every week from mid-March to late November the Smyril Line ferry Norröna arrives here from Hirtshals (Denmark) and Tórshavn (Faroe Islands).",
@@ -1085,6 +1088,11 @@ export const destinazioniIslanda: Destinazione[] = [
         consiglio: "Walk to the waterfalls along the road, with several stops."
       },
       {
+        costo: "Adults 7,690 ISK (about 55 €), students and seniors 5,290 ISK, children 6-15 3,590 ISK; towel rental 1,390 ISK",
+        orari: "15 June-15 September daily 10:00-23:00; 16 September-14 June daily 12:00-22:00; pools close 15 minutes before closing time",
+        url: "https://www.vokbaths.is",
+        lat: 65.3031,
+        lng: -14.4475,
         nome: "Vök Baths",
         testo: "Floating geothermal pools on Lake Urriðavatn, a short drive from Egilsstaðir, with a bar on the water. The first real hot bath after days of trekking and wind.",
         come: "By car, just outside Egilsstaðir. At weekends it is better to book online.",
@@ -1093,13 +1101,60 @@ export const destinazioniIslanda: Destinazione[] = [
         consiglio: "Check current prices on the official site before going."
       },
       {
+        costo: "Free",
+        lat: 65.0954,
+        lng: -14.7207,
         nome: "Lagarfljót and Hallormsstaður forest",
         testo: "One of Iceland's largest forests, 740 hectares of tall trees and a trail along the Lagarfljót. A real surprise in an almost treeless country.",
         come: "By car, about 25 km from Egilsstaðir along the lake, in the Fljótsdalur valley.",
         quando: "Summer and early autumn for the colours.",
         tempo: "2 hours",
         consiglio: "Small and quiet, ideal as a break from driving."
-      }
+      },
+      {
+        nome: "Hengifoss",
+        testo: "One of Iceland's tallest waterfalls, about 128 metres, falling down a basalt wall striped with red clay layers. Halfway up the trail you pass Litlanesfoss, a smaller fall framed by basalt columns.",
+        come: "By car along Lake Lagarfljót, about 35 km from Egilsstaðir; from the car park, an uphill trail of about 2.5 km each way.",
+        quando: "Summer and early autumn, when the trail is dry.",
+        tempo: "2-2.5 hours round trip",
+        lat: 65.0952,
+        lng: -14.8895,
+        consiglio: "It pairs well with Skriðuklaustur, a few kilometres away.",
+      },
+      {
+        nome: "Skriðuklaustur",
+        testo: "The large house of writer Gunnar Gunnarsson, built in the late 1930s to a design by a German architect, now a cultural centre with exhibitions and a café. Next to it are the excavations of a 16th-century monastery and the Snæfellsstofa visitor centre of Vatnajökull National Park.",
+        come: "By car, about 40 km from Egilsstaðir in the Fljótsdalur valley, just past Hengifoss.",
+        quando: "April to mid-October; good on a rainy day too.",
+        tempo: "1-1.5 hours",
+        costo: "Adults 1,800 ISK (about 13 €) including exhibitions and guided tour; students and seniors 1,000 ISK; free up to 18 with an adult (2026)",
+        orari: "April-May 11:00-17:00; June-August 10:00-17:00; September-15 October 11:00-17:00; variable hours in winter",
+        url: "https://www.skriduklaustur.is",
+        lat: 65.0409,
+        lng: -14.9531,
+      },
+      {
+        nome: "East Iceland Heritage Museum (Minjasafn Austurlands)",
+        testo: "The museum of East Iceland, in central Egilsstaðir, with two permanent exhibitions: one on the wild reindeer of the East, the other on rural life in the region up to the mid-20th century.",
+        come: "On foot in the centre, at Laufskógar 1.",
+        quando: "In bad weather or on a summer evening.",
+        tempo: "1 hour",
+        costo: "Adults 1,500 ISK (about 11 €), seniors 1,000 ISK, free up to 17",
+        orari: "June-August daily 10:00-18:00; September-May Tue-Fri 11:00-16:00, closed Saturday, Sunday and Monday",
+        url: "https://www.minjasafn.is",
+        lat: 65.2626,
+        lng: -14.3965,
+      },
+      {
+        nome: "Fardagafoss",
+        testo: "A waterfall tucked into a gorge just outside town, on the road to Seyðisfjörður. The trail is short but steep, with a good view over the Lagarfljót valley.",
+        come: "By car on road 93, about 5 km from Egilsstaðir; small car park and marked trail.",
+        quando: "Summer, when the ground is dry.",
+        tempo: "1 hour round trip",
+        costo: "Free",
+        lat: 65.2688,
+        lng: -14.3139,
+      },
     ],
     sapori: [
       {
@@ -1114,6 +1169,29 @@ export const destinazioniIslanda: Destinazione[] = [
     attenzioni: [
       "Mountain roads like Fjarðarheiði and Öxi can close due to snow or fog: check road.is.",
       "Fuel pumps in the fjords are far apart: fill up when you can."
+    ],
+    programmi: [
+      { titolo: "1 day (arriving from the fjords)", tappe: ["East Fjords from Höfn, with a stop in Djúpivogur", "Arrive in Egilsstaðir in the late afternoon", "Evening at Vök Baths, booked ahead"] },
+      { titolo: "2 days", tappe: ["Day 1: as above", "Day 2: Seyðisfjörður in the morning, with the waterfalls of the Fjarðarheiði pass", "Afternoon: Fardagafoss and the Egilsstaðir museum"] },
+      { titolo: "3 days", tappe: ["Days 1-2: as above", "Day 3: loop around Lagarfljót with Hallormsstaður, Hengifoss and Skriðuklaustur", "Or head north via Stuðlagil"] },
+    ],
+    zone: [
+      { nome: "Central Egilsstaðir", perChi: "Those passing through on Route 1", testo: "The campsite, hotels and supermarkets are all close together, with Vök Baths ten minutes away.", fascia: "about 30 € for two in a tent at Camp Egilsstaðir (2,000 ISK per person)" },
+      { nome: "Lake Lagarfljót and Hallormsstaður", perChi: "Those who want woodland and quiet", testo: "Hotels and cottages in the forest, half an hour from town, handy for Hengifoss and Skriðuklaustur." },
+      { nome: "Seyðisfjörður", perChi: "Those arriving by ferry or wanting a fjord village", testo: "Guesthouses in wooden houses and a hostel in the artists' village. Livelier than Egilsstaðir at night, but the pass can close with snow." },
+    ],
+    gite: [
+      { nome: "Seyðisfjörður", distanza: "27 km, about half an hour", come: "By car over the Fjarðarheiði pass.", testo: "Colourful houses, the blue church and the rainbow street at the head of a deep fjord, with waterfalls on the way down." },
+      { nome: "Borgarfjörður eystri", distanza: "about 70 km, an hour and a quarter", come: "By car on road 94, partly over mountains.", testo: "An isolated village with the islet of Hafnarhólmi, where in spring and summer puffins nest a few metres from the boardwalk." },
+      { nome: "Hengifoss and Skriðuklaustur", distanza: "about 35-40 km", come: "By car along Lagarfljót, returning on the other shore.", testo: "The waterfall with red layers, the writer's house and Hallormsstaður forest in a single loop." },
+      { nome: "Stuðlagil", distanza: "about an hour by car", come: "By car north-west, last stretch on gravel.", testo: "The canyon of basalt columns and turquoise water, the natural first stop on the way to Dettifoss and Ásbyrgi." },
+    ],
+    faq: [
+      { domanda: "How long do the East Fjords take?", risposta: "From Höfn to Egilsstaðir is about 250 km: three or four hours on paper, five or six in practice with stops. Give it a whole day with nothing else planned." },
+      { domanda: "Do you need to book Vök Baths?", risposta: "It is wise, especially in summer and late afternoon: entry is by time slot with limited places. Adult tickets cost 7,690 ISK." },
+      { domanda: "Is the detour to Seyðisfjörður worth it?", risposta: "Yes, if the Fjarðarheiði pass is open: 27 km with waterfalls along the road and one of the island's prettiest fjord villages. From autumn to spring snow can close the pass." },
+      { domanda: "Can you take the Öxi shortcut?", risposta: "In summer, yes, with a normal car and care: it is gravel and steep. From autumn to spring it often closes for snow or fog; check its status on road.is." },
+      { domanda: "Where to stay in Egilsstaðir?", risposta: "In town there is Camp Egilsstaðir, about 2,000 ISK per person, plus guesthouses and a few lakeside hotels. For more nature, stay in Hallormsstaður forest or in Seyðisfjörður." },
     ],
     esperienzeSlugs: ['terme-naturali-islanda'],
     tripSlugs: ['islanda-2024'],
@@ -1143,14 +1221,16 @@ export const destinazioniIslanda: Destinazione[] = [
     doveDormire:
       "I slept at the Ásbyrgi national park campsite (up to 350 pitches, open from mid-May to the end of October), which according to reviews has good facilities (clean bathrooms, showers, laundry). In high season it's best to book.\n\nThe area is very remote and nearby alternatives are few: in Kópasker (about 35-40 minutes) there are Kópasker Guesthouse, MELAR Guesthouse and Kópasker HI Hostel (budget/mid-range). There's no luxury in the surroundings: you choose between the campsite itself, which also has small studios, and the guesthouses of Kópasker.",
     doveMangiare: 'Dinner at the campsite.',
-    comeArrivare: "From Egilsstaðir, with stops at Stuðlagil Canyon and Dettifoss.",
+    comeArrivare: "From Egilsstaðir head north-west on Route 1, with the detour to Stuðlagil (about an hour, last stretch on gravel); then about two hours to Dettifoss on paved road 862 and another 40 minutes to Ásbyrgi. From Húsavík it is about an hour along the coast, from Akureyri a couple of hours. There is no convenient public transport: you need a car, and should fill up in Húsavík or Egilsstaðir.",
     comeSpostarsi: "Rental car; last stretch to Stuðlagil on dirt road.",
     periodoMigliore: "campsite open from mid-May to the end of October",
-    costi: "check the campsite price when booking",
+    costi: "check the campsite price when booking. The national park rate for the Ásbyrgi campsite is 2,800 ISK per person per night (about 20 €), 2,300 ISK for seniors, free up to 16 with an adult; electricity 1,500 ISK per 24 hours. Indicative daily budget per person: low 50-80 € (campsite, food bought beforehand, fuel split between two); mid 130-200 € (guesthouse in Kópasker or Húsavík, one restaurant dinner); high 250 € and up (hotel in Húsavík, whale watching).",
     erroriDaEvitare: ["Don't leave the campsite unbooked in high season: the area is very remote and alternatives are few"],
     miaEsperienza: "You hear Dettifoss before you see it: the roar and the force of the muddy water are among the most physical memories of the trip.",
     luoghi: [
       {
+        lat: 65.1636,
+        lng: -15.3091,
         nome: "Stuðlagil",
         testo: "A canyon with basalt columns and turquoise water that was almost unknown until a few years ago: the Kárahnjúkar dam upstream reduced the river's flow and exposed the walls. There are two approaches: the viewing platform on the west bank and, on the east bank, a longer trail.",
         come: "Last stretch on a gravel road from the asphalt; short, well-kept trails.",
@@ -1159,6 +1239,8 @@ export const destinazioniIslanda: Destinazione[] = [
         consiglio: "The trail down to the river is better than the platform but needs suitable shoes."
       },
       {
+        lat: 65.8147,
+        lng: -16.3845,
         nome: "Dettifoss",
         testo: "A waterfall 100 metres wide and 44 high, considered the most powerful in Europe. The water is muddy and grey, and the noise carries far.",
         come: "From Route 862 (paved) on the west side, the best view; from the car park to the viewpoint it is a 1 km walk each way.",
@@ -1169,6 +1251,8 @@ export const destinazioniIslanda: Destinazione[] = [
         consiglio: "You hear it before you see it: stay behind the chains, the edge is slippery."
       },
       {
+        lat: 66.0144,
+        lng: -16.5033,
         nome: "Ásbyrgi canyon",
         testo: "A horseshoe-shaped gorge 3.5 km long and 1 wide, with walls up to 100 metres and a birch forest on the floor. According to legend it is the hoofprint of Odin's horse.",
         come: "From the parking lot a flat trail leads to the Botnstjörn pond.",
@@ -1179,6 +1263,8 @@ export const destinazioniIslanda: Destinazione[] = [
         consiglio: "The national park campsite is on the canyon floor, with excellent facilities."
       },
       {
+        lat: 65.9444,
+        lng: -16.533,
         nome: "Hljóðaklettar",
         testo: "The 'echo rocks' in Vesturdalur, part of a row of craters about 6 km long that erupted 8,000-9,000 years ago. Floods from the Jökulsá river washed away the loose material and laid bare the basalt formed by magma that solidified in the volcanic conduits.",
         come: "In Vesturdalur, about 15 km south of Ásbyrgi, on a paved road. Marked trails from the car park.",
@@ -1187,10 +1273,72 @@ export const destinazioniIslanda: Destinazione[] = [
         url: "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsargljufur/hljodaklettar",
         consiglio: "Trail V2 (1.2 km, about 30 minutes, easy) is enough to see the rocks; the V3 loop is 3 km, 1-1.5 hours, and more demanding."
       },
+      {
+        nome: "Selfoss",
+        testo: "A wide, low waterfall, about 11 metres, just upstream of Dettifoss. The water drops in a horseshoe along a long front, in many small falls.",
+        come: "From the Dettifoss west car park, about 1 km on foot beyond the viewpoint.",
+        quando: "Summer, when the trail is free of snow.",
+        tempo: "45 minutes on top of Dettifoss",
+        costo: "Free",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        lat: 65.8048,
+        lng: -16.3865,
+      },
+      {
+        nome: "Hafragilsfoss",
+        testo: "The third waterfall in the canyon, about 27 metres, downstream of Dettifoss. You see it from above, deep in a gorge, and it gets far fewer visitors than the other two.",
+        come: "From the east side on gravel road 864; from the west side by a trail from the Dettifoss car park.",
+        quando: "Summer.",
+        tempo: "30 minutes-1 hour",
+        costo: "Free",
+        lat: 65.8321,
+        lng: -16.4,
+      },
+      {
+        nome: "Gljúfrastofa visitor centre, Ásbyrgi",
+        testo: "The national park visitor centre at the canyon entrance, with an exhibition on how Ásbyrgi and Jökulsárgljúfur formed, trail maps and road information.",
+        come: "On road 85, next to the campsite.",
+        quando: "Before setting out on the trails.",
+        tempo: "30 minutes",
+        costo: "Free",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        lat: 66.0282,
+        lng: -16.4887,
+      },
+      {
+        nome: "Eyjan",
+        testo: "The long rock ridge splitting the Ásbyrgi canyon in two, known as 'the island'. A trail climbs to the top and follows it, with views over both halves of the horseshoe.",
+        come: "Marked trail from the campsite and Gljúfrastofa area.",
+        quando: "Summer evening, with light on the walls.",
+        tempo: "1.5-2 hours round trip",
+        costo: "Free",
+      },
     ],
     attenzioni: [
       "The area is remote: fill up with fuel and groceries in Húsavík or Akureyri.",
       "Gravel roads near Dettifoss east require a 4x4; Route 862 west is paved."
+    ],
+    programmi: [
+      { titolo: "1 day from Egilsstaðir", tappe: ["Morning at Stuðlagil", "Dettifoss and Selfoss from the west side", "Evening in the Ásbyrgi canyon up to Botnstjörn", "Night at the campsite"] },
+      { titolo: "2 days", tappe: ["Day 1: as above", "Day 2: Gljúfrastofa and the Eyjan trail", "Hljóðaklettar in Vesturdalur", "Afternoon towards Húsavík"] },
+      { titolo: "3 days", tappe: ["Days 1-2: as above", "Day 3: whale watching in Húsavík in the morning", "Afternoon at Lake Mývatn"] },
+    ],
+    zone: [
+      { nome: "Ásbyrgi campsite", perChi: "Those travelling with a tent or camper", testo: "On the canyon floor, open mid-May to late October, with showers, laundry and trails starting from the pitches.", fascia: "about 40 € for two in a tent (2,800 ISK per person)" },
+      { nome: "Kópasker", perChi: "Those wanting a bed near the canyon", testo: "A small seaside village about 35-40 minutes away, with two guesthouses and a hostel: the only rooms nearby." },
+      { nome: "Húsavík", perChi: "Those who want services and whale watching", testo: "About an hour away, with hotels, restaurants, supermarkets and whale-watching boats: the most convenient base if not camping." },
+    ],
+    gite: [
+      { nome: "Húsavík", distanza: "about an hour by car", come: "By car along the coast on road 85.", testo: "The whale-watching harbour: trips of about three hours in Skjálfandi bay, with windproof suits provided on board." },
+      { nome: "Lake Mývatn", distanza: "about an hour and a half", come: "By car, via Dettifoss or Húsavík.", testo: "Grjótagjá, Hverfjall crater, the Hverir fumaroles and the Dimmuborgir lava fields in a few hours." },
+      { nome: "Vesturdalur and Hljóðaklettar", distanza: "about 15 km", come: "By car south on road 862.", testo: "The echo rocks and the craters along the Jökulsá river, with short, easy trails." },
+    ],
+    faq: [
+      { domanda: "Is Dettifoss better from the east or west side?", risposta: "From the west side, on paved road 862: the view is better and Selfoss is reachable from there. The east side is on gravel and needs more care with the car." },
+      { domanda: "Should you book the Ásbyrgi campsite?", risposta: "In high season, yes: the area is remote and alternatives are few. It is open mid-May to late October and costs 2,800 ISK per person per night." },
+      { domanda: "Which side of Stuðlagil is best?", risposta: "The west side has the viewing platform near the car park. The east side needs a walk of a few kilometres but goes down to the canyon floor, next to the water." },
+      { domanda: "Do you need a 4x4?", risposta: "Not for the main route: road 862 west and road 85 are paved, and the last stretch to Stuðlagil is fine in a normal car. The gravel roads on the east side of Dettifoss are more demanding." },
+      { domanda: "Where can you get fuel and groceries?", risposta: "Fuel stations are sparse in the north-east: fill up and shop in Húsavík, Akureyri or Egilsstaðir before you arrive." },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],

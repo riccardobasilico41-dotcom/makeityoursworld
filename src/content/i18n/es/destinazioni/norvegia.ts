@@ -344,15 +344,17 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveDormire: 'No pernocté en Bodø, solo pasé por allí: no tengo una dirección que recomendar para quien quiera quedarse una noche.',
     doveMangiare:
       'Bryggerikaia (abre a media mañana): excelentes bocadillos «megarrellenos» para llevar, para comer en el mirador de la ciudad. Melkebaren para desayunar: bueno, pero el servicio es lento, algo que hay que tener en cuenta si se va justo de tiempo.',
-    comeArrivare: 'Vuelo interno desde Oslo Gardermoen.',
+    comeArrivare: "Vuelo interno desde Oslo Gardermoen, de una hora y media aproximadamente. El aeropuerto de Bodø está a 1,5 km del centro: autobuses 1 y 4 en 5-10 minutos (unos 45 NOK, unos 4 €, con la app Reis Nordland), taxi 150-250 NOK, o un cuarto de hora a pie; el alquiler de coches está en la terminal. Desde las Lofoten se llega con el ferri Moskenes-Bodø (unas 3 horas y cuarto; coche de hasta 6 metros 605 NOK, unos 53 €; pasajeros gratis); en verano la plaza para el coche se reserva en la web de Torghatten Nord. En tren, la línea Nordlandsbanen llega desde Trondheim en unas 10 horas.",
     comeSpostarsi: 'A pie por el centro; coche de alquiler para el resto de los desplazamientos.',
     periodoMigliore: 'pasé por allí en verano, a la ida y a la vuelta de las Lofoten; para los demás meses no tengo una referencia directa',
-    costi: 'no anoté los costes de esta parada',
+    costi: "no anoté los costes de esta parada. Referencias: Museo de la Aviación 195 NOK (unos 17 €), autobús del aeropuerto unos 45 NOK, ferri a Moskenes 605 NOK por coche. Presupuesto diario por persona, orientativo: bajo 90-120 € (albergue, compra en el supermercado, autobús); medio 160-230 € (hotel en habitación doble, un museo, una cena en restaurante); alto 300 € o más (hotel en el puerto, coche de alquiler, cenas de pescado).",
     erroriDaEvitare: ['Tener en cuenta el servicio lento de Melkebaren si hay poco tiempo entre un ferri y otro'],
     miaEsperienza:
       'Para nosotros fue una parada logística tanto a la ida como a la vuelta, pero con lo bastante que hacer (playa de Mjelle, el mirador de Nyholms Fort) como para no parecer tiempo perdido.',
     luoghi: [
       {
+        lat: 67.2877,
+        lng: 14.3677,
         nome: "Nyholms Fort",
         testo: "Un antiguo fuerte en la punta del puerto de Bodø, hoy con vistas al puerto y a las islas.",
         come: "A pie desde el puerto.",
@@ -362,6 +364,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "El punto más cómodo para una foto panorámica antes de embarcar."
       },
       {
+        lat: 67.4085,
+        lng: 14.6273,
         nome: "Playa de Mjelle",
         testo: "Una larga playa de arena al norte del centro, entre dunas y mar. En verano se camina también de noche con la luz larga.",
         come: "En coche o bus local desde Bodø.",
@@ -371,13 +375,89 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "Llevar cortavientos: el viento del norte es fuerte."
       },
       {
+        orari: "Siempre accesible, se mira desde el puente y la orilla",
+        lat: 67.2281,
+        lng: 14.6164,
         nome: "Saltstraumen",
         testo: "Una de las corrientes de marea más fuertes del mundo, al sureste de Bodø: en cada ciclo de marea pasan hasta 400 millones de metros cúbicos de agua, formando remolinos. No lo visité, pero es la excursión clásica desde Bodø.",
         come: "En coche o bus desde Bodø.",
         quando: "Consultar las tablas de mareas: la corriente es más fuerte a media marea, aproximadamente cada seis horas.",
         tempo: "2-3 horas",
         consiglio: "Para mirar desde el puente; no se baña uno."
-      }
+      },
+      {
+        nome: "Museo Noruego de la Aviación (Norsk Luftfartsmuseum)",
+        testo: "El museo nacional de la aviación, en un gran edificio con forma de hélice junto al aeropuerto. Un ala está dedicada a la aviación civil y otra a la militar, con aviones originales y una parte sobre la Guerra Fría. Es la visita bajo techo más sólida de Bodø cuando llueve.",
+        come: "A pie desde el centro en unos 25 minutos, o en coche: está junto al aeropuerto, cómodo antes de devolver el coche de alquiler.",
+        quando: "Con lluvia o en las horas antes del vuelo.",
+        tempo: "2 horas",
+        costo: "Adultos 195 NOK (unos 17 €), niños de 6 a 16 años 95 NOK, familia 550 NOK (2026)",
+        orari: "1 de junio-16 de agosto todos los días 10-18; resto del año lun-vie 10-16, sáb-dom 11-17; cerrado por mantenimiento del 1 al 24 de enero y en los festivos de Navidad",
+        url: "https://luftfartsmuseum.no",
+        lat: 67.2764,
+        lng: 14.4128,
+      },
+      {
+        nome: "Catedral de Bodø (Bodø domkirke)",
+        testo: "La catedral se construyó en los años cincuenta, después de que el bombardeo de 1940 destruyera gran parte de la ciudad. Es un edificio moderno de hormigón con el campanario separado y grandes vidrieras de colores.",
+        come: "En el centro, a pocos minutos a pie del puerto.",
+        quando: "De día, fuera del horario de los oficios.",
+        tempo: "20-30 minutos",
+        lat: 67.2823,
+        lng: 14.3819,
+      },
+      {
+        nome: "Museo de Nordland (Nordlandsmuseet)",
+        testo: "El museo regional de Nordland, en uno de los edificios más antiguos del centro. Cuenta la historia de Bodø, la pesca y la cultura sami, y ayuda a entender cómo era la ciudad antes de la guerra.",
+        come: "A pie en el centro, junto a la catedral.",
+        quando: "Un rato libre entre un paseo por el centro y el ferri.",
+        tempo: "1 hora",
+        url: "https://www.nordlandsmuseet.no",
+        lat: 67.2819,
+        lng: 14.3823,
+      },
+      {
+        nome: "Stormen, biblioteca y sala de conciertos",
+        testo: "Los dos edificios blancos del paseo marítimo son el centro cultural de la ciudad: a un lado la sala de conciertos, al otro la biblioteca, con grandes ventanales sobre el puerto. En la biblioteca se entra libremente y uno puede sentarse a mirar el mar.",
+        come: "A pie desde el muelle, en el paseo marítimo del centro.",
+        quando: "Con mal tiempo, o por la noche si hay concierto.",
+        tempo: "30 minutos",
+        costo: "Biblioteca de entrada libre; conciertos de pago",
+        lat: 67.2831,
+        lng: 14.3754,
+      },
+      {
+        nome: "Keiservarden",
+        testo: "El mirador del monte Rønvikfjellet, sobre la ciudad, debe su nombre a la visita del emperador alemán Guillermo II a finales del siglo XIX. Desde arriba se ven Bodø, las islas y, con el cielo despejado, el perfil de las Lofoten. En verano es el lugar clásico para el sol de medianoche.",
+        come: "Sendero señalizado desde la zona de Rønvik, al norte del centro; en coche hasta el aparcamiento de salida y luego a pie.",
+        quando: "Una tarde de verano, con el sol de medianoche y el cielo despejado.",
+        tempo: "2-3 horas ida y vuelta",
+        costo: "Entrada libre",
+        lat: 67.315,
+        lng: 14.4783,
+        consiglio: "Calzado de montaña: el terreno está mojado incluso en verano.",
+      },
+      {
+        nome: "Antiguo puesto comercial de Kjerringøy (Kjerringøy handelssted)",
+        testo: "Un puesto comercial del siglo XIX con casas de madera, almacenes junto al mar y la casa del comerciante, hoy gestionado como museo por el Nordlandsmuseet. El paisaje de alrededor, entre playas claras y montañas puntiagudas, recuerda a unas Lofoten en pequeño.",
+        come: "En coche hacia el norte, con el ferri de unos 10 minutos hasta Misten (uno se queda en el coche; estar en el muelle media hora antes).",
+        quando: "Verano, cuando hay visitas guiadas.",
+        tempo: "Media jornada con el trayecto",
+        url: "https://www.nordlandsmuseet.no",
+        lat: 67.5195,
+        lng: 14.7643,
+      },
+      {
+        nome: "Aspmyra Stadion",
+        testo: "El estadio del Bodø/Glimt, el equipo que en los últimos años ha ganado la liga noruega y se ha dado a conocer en las copas europeas. Es pequeño y está cerca del centro: cuando juega en casa, la ciudad se tiñe de amarillo.",
+        come: "A un cuarto de hora a pie del centro.",
+        quando: "Los días de partido en casa; el calendario está en la web del club.",
+        tempo: "2-3 horas con el partido",
+        url: "https://glimt.no",
+        lat: 67.2767,
+        lng: 14.3844,
+        consiglio: "Las entradas hay que comprarlas online con tiempo, sobre todo para los partidos europeos.",
+      },
     ],
     sapori: [
       {
@@ -392,6 +472,29 @@ export const destinazioniNorvegia: Destinazione[] = [
     attenzioni: [
       "Si se va a las Lofoten en ferry, llegar con bastante antelación: en verano las colas son largas.",
       "En verano los alojamientos de Bodø se llenan pronto: reservar con antelación."
+    ],
+    programmi: [
+      { titolo: "Media jornada entre vuelo y ferri", tappe: ["Paseo a pie por el centro y el muelle", "Bocadillo para llevar y vistas desde Nyholms Fort", "Stormen y la catedral", "Al muelle de los ferris con mucha antelación"] },
+      { titolo: "1 día", tappe: ["Mañana en el Museo de la Aviación", "Comida en el centro y Nordlandsmuseet", "Tarde en Saltstraumen, a la hora de la corriente más fuerte", "Noche en Keiservarden con la luz larga"] },
+      { titolo: "2 días", tappe: ["Día 1: como arriba", "Día 2: ferri a Misten y Kjerringøy", "Playa de Mjelle en el camino de vuelta", "Partido del Bodø/Glimt, si lo hay"] },
+    ],
+    zone: [
+      { nome: "Centro y puerto", perChi: "Quien llega o sale en ferri", testo: "Hoteles, restaurantes y el muelle de los ferris a pocos minutos a pie. La zona más cómoda para una noche de paso." },
+      { nome: "Cerca del aeropuerto", perChi: "Quien tiene un vuelo al amanecer", testo: "Algunos hoteles entre el aeropuerto y el centro, al lado del Museo de la Aviación. Menos ambiente, pero la terminal queda a pocos minutos." },
+      { nome: "Saltstraumen", perChi: "Quien tiene coche y busca naturaleza", testo: "Lodges y cabañas alrededor de la corriente de marea, a una media hora de la ciudad. Tranquilo, pero hacen falta coche y la compra hecha." },
+    ],
+    gite: [
+      { nome: "Saltstraumen", distanza: "unos 30 km, media hora en coche", come: "En coche o en autobús local desde Bodø.", testo: "La corriente de marea forma remolinos bajo el puente cuatro veces al día: hay que verla a media marea, consultando las tablas." },
+      { nome: "Kjerringøy", distanza: "unos 40 km al norte, con un ferri de 10 minutos", come: "En coche y ferri a Misten.", testo: "El puesto comercial histórico, las playas claras y las montañas puntiagudas: un anticipo del paisaje de las Lofoten sin multitudes." },
+      { nome: "Lofoten vía Moskenes", distanza: "unas 3 horas y cuarto de ferri", come: "Ferri de Torghatten Nord a Moskenes, con o sin coche.", testo: "Más que una excursión es el paso hacia Reine y Å: en verano con coche hay que reservar, a pie se sube sin problema." },
+    ],
+    faq: [
+      { domanda: "¿Vale la pena parar en Bodø?", risposta: "Como parada de unas horas, sí: el centro se recorre a pie, el mirador de Nyholms Fort está a diez minutos y Saltstraumen a media hora. Para más de una noche hace falta un interés concreto, como Kjerringøy o un partido del Bodø/Glimt." },
+      { domanda: "¿Cómo se va de Bodø a las Lofoten?", risposta: "Con el ferri a Moskenes, unas 3 horas y cuarto: el coche de hasta 6 metros paga 605 NOK y los pasajeros viajan gratis. Como alternativa, se vuela a Leknes o Svolvær, o se conduce hacia el norte y se toma el ferri Bognes-Lødingen." },
+      { domanda: "¿Hay que reservar el ferri a Moskenes?", risposta: "Con coche, en verano sí: la plaza se reserva en la web de Torghatten Nord y sin reserva uno se arriesga a quedarse en tierra. A pie se sube sin problema; de todos modos conviene estar en el puerto 40 minutos antes." },
+      { domanda: "¿A qué distancia está el aeropuerto del centro?", risposta: "Unos 1,5 km: un cuarto de hora a pie, 5-10 minutos con los autobuses 1 y 4 (unos 45 NOK) o pocos minutos en taxi." },
+      { domanda: "¿Cuándo se ve el sol de medianoche en Bodø?", risposta: "Bodø está por encima del Círculo Polar Ártico: el sol de medianoche dura más o menos de principios de junio a principios de julio. El mejor lugar para verlo es Keiservarden, sobre la ciudad." },
+      { domanda: "¿Qué hacer en Bodø cuando llueve?", risposta: "El Museo de la Aviación, el Nordlandsmuseet y la biblioteca de Stormen, todos cerca del centro. Solo el museo de la aviación ocupa un par de horas." },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['lofoten-estate-2025'],
@@ -1159,15 +1262,18 @@ export const destinazioniNorvegia: Destinazione[] = [
       'Dormí en un rorbu privado asomado al fiordo, Casa Flakstad, el alojamiento más aislado y silencioso del viaje. Es un establecimiento pequeño, con demasiado pocas reseñas online para citarlas: un rorbu sencillo y esencial, pocas luces, mucho silencio, el fiordo a pocos pasos.\n\nAlternativas en Nesland/Flakstad. Económicas: Ramberg Gjestegård (cabañas sencillas, 850-1050 NOK la noche, descuento en temporada baja), Lofoten Beach Camp (camping de gestión familiar en Ramberg, sauna y zona de picnic) · gama media (aquí entra el rorbu elegido): Lofoten Nesland Guesthouse (puntuación muy alta en las reseñas, ubicación tranquila con vistas al océano) · gama alta sin exagerar: Nusfjord Village & Resort (rorbu históricos reformados en el pueblo de Nusfjord, sauna y jacuzzis incluidos; caro, pero con reseñas entusiastas).',
     doveMangiare:
       'Cena en el Ramberg Resort, buena ubicación a dos pasos de la playa de Ramberg para un paseo digestivo. El supermercado de Ramberg está mejor surtido y es más barato que el Coop de Reine y es el punto de referencia para organizar una barbacoa nocturna (salmón, verduras, guarniciones). Ojo: vende solo cerveza, nada de vino ni licores.',
-    comeArrivare: 'Pocos minutos en coche desde Reine.',
+    comeArrivare: "En coche por la E10, la carretera que atraviesa todas las Lofoten: desde Leknes una media hora, desde Svolvær una hora y media, desde Å unos 50 minutos. El puerto de ferris más cercano es Moskenes, con el ferri Moskenes-Bodø (unas 3 horas y cuarto; coche de hasta 6 metros 605 NOK, unos 53 €; pasajeros gratis). Los aeropuertos más cómodos son Leknes, con vuelos desde Bodø, y el propio Bodø. Los autobuses de la E10 paran en Ramberg pero con pocas salidas: el coche sigue siendo la opción más práctica.",
     comeSpostarsi: 'Coche de alquiler.',
     periodoMigliore: 'estuve en verano; para los demás meses no tengo una referencia directa',
-    costi: 'Cabañas desde 850-1050 NOK/noche para las opciones económicas de la zona.',
+    costi: "Cabañas desde 850-1050 NOK/noche para las opciones económicas de la zona. Presupuesto diario por persona, orientativo: bajo 80-110 € (cabaña sencilla para dos, compra en Ramberg y barbacoa); medio 150-220 € (rorbu o guesthouse en habitación doble, una cena en restaurante, gasolina); alto 300 € o más (rorbuer restaurados en Nusfjord, cenas de pescado).",
     erroriDaEvitare: ['El supermercado de Ramberg no vende vino/licores, solo cerveza: planificar la compra en consecuencia'],
     miaEsperienza:
       'El rorbu de Nesland fue el lugar más silencioso de todo el viaje: ninguna luz artificial, el fiordo a pocos pasos, y una noche de barbacoa de las más relajadas de la semana.',
     luoghi: [
       {
+        costo: "Entrada libre",
+        lat: 68.0042,
+        lng: 13.2872,
         nome: "Paseo Nesland-Nusfjord",
         testo: "Un sendero panorámico que sigue la costa del fiordo de Nesland hasta el pueblo de Nusfjord, con vistas al mar y a las montañas de Flakstadøya.",
         come: "A pie desde el rorbu, por la costa.",
@@ -1176,6 +1282,9 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "El silencio y las pocas luces del lugar son lo mejor."
       },
       {
+        costo: "En verano se paga una entrada para acceder al pueblo",
+        lat: 68.0354,
+        lng: 13.3477,
         nome: "Nusfjord",
         testo: "Un pueblo de pescadores bien conservado en la costa sur de Flakstadøya, con rorbuer rojos y un pequeño puerto.",
         come: "En coche desde Nesland, a poca distancia.",
@@ -1184,6 +1293,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "Paseo corto, pero mejor con tiempo en calma."
       },
       {
+        lat: 68.0899,
+        lng: 13.2299,
         nome: "Ramberg y las playas de Flakstadøya",
         testo: "Ramberg tiene una larga playa de arena clara, un poco más adelante está Skagsanden y, en la isla vecina de Vestvågøy, Haukland: entre las playas más bellas de las Lofoten. El agua es fría pero el color es caribeño.",
         come: "En coche desde Nesland; Haukland está más lejos, hacia Leknes.",
@@ -1191,7 +1302,67 @@ export const destinazioniNorvegia: Destinazione[] = [
         tempo: "1-2 horas",
         costo: "entrada libre",
         consiglio: "En los supermercados solo se vende cerveza: vino y licores, solo en el Vinmonopolet."
-      }
+      },
+      {
+        nome: "Skagsanden",
+        testo: "Una playa de arena clara junto a la iglesia de Flakstad, cerrada por las montañas. En invierno es uno de los puntos más fotografiados para la aurora boreal; en verano, para las largas puestas de sol sobre el océano.",
+        come: "En coche por la E10, con un pequeño aparcamiento junto a la carretera.",
+        quando: "Tardes de verano o noches despejadas de invierno.",
+        tempo: "30 minutos-1 hora",
+        costo: "Entrada libre",
+        lat: 68.1066,
+        lng: 13.2951,
+      },
+      {
+        nome: "Iglesia de Flakstad",
+        testo: "Una iglesia de madera roja de finales del siglo XVIII, con campanario en forma de cebolla, en la llanura entre la carretera y el mar. Es uno de los pocos edificios antiguos que siguen en pie en la isla.",
+        come: "En la E10 entre Ramberg y Skagsanden, con aparcamiento delante.",
+        quando: "En verano, cuando el interior está abierto a los visitantes.",
+        tempo: "20 minutos",
+        lat: 68.1048,
+        lng: 13.3063,
+      },
+      {
+        nome: "Playa de Kvalvika",
+        testo: "Una bahía salvaje en la costa norte, a la que solo se llega a pie, encerrada entre dos paredes de roca. El sendero sube y baja entre turbera y piedras y luego baja a la arena.",
+        come: "Desde el aparcamiento de la carretera a Fredvang, sendero de unos 2 km por trayecto.",
+        quando: "Verano, con tiempo seco: con lluvia el barro frena mucho.",
+        tempo: "2-3 horas ida y vuelta",
+        costo: "Entrada libre; aparcamiento de pago",
+        lat: 68.0781,
+        lng: 13.102,
+        consiglio: "Calzado de montaña, nada de hogueras en la playa y la basura se lleva de vuelta.",
+      },
+      {
+        nome: "Ryten",
+        testo: "La montaña de unos 540 metros sobre Kvalvika, con una terraza de roca que cae a pico sobre la playa. Una de las mejores vistas de las Lofoten y una subida menos concurrida que el Reinebringen.",
+        come: "Mismo aparcamiento que Kvalvika; el sendero se divide a mitad de camino y sube a la cresta.",
+        quando: "Días despejados de verano; con nubes bajas no se ve nada.",
+        tempo: "4-5 horas ida y vuelta",
+        costo: "Entrada libre; aparcamiento de pago",
+        lat: 68.0893,
+        lng: 13.0929,
+        consiglio: "Se puede combinar con la playa: subida al Ryten y bajada a Kvalvika.",
+      },
+      {
+        nome: "Puentes de Fredvang",
+        testo: "Dos puentes en arco que unen Flakstadøya con el pueblo de Fredvang, sobre un estrecho de agua verde. Parar a mitad de camino, en los pequeños aparcamientos, regala una de las vistas más fotografiadas de la zona.",
+        come: "En coche, desvío de la E10 hacia Fredvang.",
+        quando: "Con sol, cuando el agua está más clara.",
+        tempo: "20 minutos",
+        costo: "Entrada libre",
+        lat: 68.0803,
+        lng: 13.2003,
+      },
+      {
+        nome: "Taller de vidrio Glasshytta Vikten",
+        testo: "Un taller de vidrio soplado en un edificio de piedra y madera en la costa norte, frente al océano. Se puede ver trabajar el vidrio y comprar piezas hechas allí mismo; hay una pequeña galería y una cafetería en verano.",
+        come: "En coche, desvío de la E10 hacia Vikten, a unos 15 minutos de Ramberg.",
+        quando: "En verano; fuera de temporada puede cerrar antes.",
+        tempo: "45 minutos",
+        lat: 68.1387,
+        lng: 13.3113,
+      },
     ],
     sapori: [
       {
@@ -1202,6 +1373,29 @@ export const destinazioniNorvegia: Destinazione[] = [
     attenzioni: [
       "Ramberg: el supermercado solo vende cerveza; para el vino hay que ir al Vinmonopolet más cercano.",
       "El rorbu está aislado: llevar compra suficiente y una linterna."
+    ],
+    programmi: [
+      { titolo: "1 día", tappe: ["Mañana en Nusfjord antes de los grupos", "Iglesia de Flakstad y Skagsanden", "Comida y compra en Ramberg", "Tarde: paseo Nesland-Nusfjord con la luz larga"] },
+      { titolo: "2 días", tappe: ["Día 1: como arriba", "Día 2: Kvalvika a pie, o el Ryten con el cielo despejado", "Puentes de Fredvang a la vuelta", "Noche: barbacoa en la rorbu"] },
+      { titolo: "3 días", tappe: ["Días 1-2: como arriba", "Día 3: Å, Sakrisøy y Hamnøy hacia el oeste", "O hacia el este: Glasshytta Vikten y las playas de Vestvågøy"] },
+    ],
+    zone: [
+      { nome: "Nesland y Nusfjord", perChi: "Quien busca silencio y vistas al fiordo", testo: "Rorbuer y guesthouses dispersas por la costa sur, lejos de la carretera principal. Muy pocos servicios: la compra se hace en Ramberg." },
+      { nome: "Ramberg", perChi: "Quien quiere supermercado y playa al lado", testo: "El pueblo con más servicios de Flakstadøya, con el supermercado, el Ramberg Resort y cabañas sencillas junto a la playa.", fascia: "75-90 € (cabaña sencilla, 850-1.050 NOK)" },
+      { nome: "Fredvang", perChi: "Quien quiere hacer Kvalvika y el Ryten", testo: "Un pueblo pasados los puentes, al pie de los senderos de Kvalvika y el Ryten. Pocos alojamientos, hay que reservar pronto." },
+    ],
+    gite: [
+      { nome: "Reine y Hamnøy", distanza: "unos 30-40 minutos en coche", come: "En coche hacia el oeste por la E10.", testo: "La bahía de Reine, el Reinebringen y las rorbuer rojas de Hamnøy: el tramo más famoso de las Lofoten." },
+      { nome: "Å", distanza: "unos 50 minutos en coche", come: "En coche hasta el final de la E10.", testo: "El Museo de los Pescadores y la panadería histórica, con una parada para comer en Sakrisøy." },
+      { nome: "Haukland y Uttakleiv", distanza: "unos 40-50 minutos en coche", come: "En coche hacia el este, pasado Leknes, en la isla de Vestvågøy.", testo: "Dos playas blancas unidas por una carretera costera y un sendero: de las más bonitas del archipiélago." },
+      { nome: "Lofotr Viking Museum", distanza: "unos 45 minutos en coche", come: "En coche hacia el este, a Borg, pasado Leknes.", testo: "La reconstrucción de la gran casa de un jefe vikingo, abierta todos los días en verano; la entrada ronda los 250 NOK en temporada alta." },
+    ],
+    faq: [
+      { domanda: "¿Conviene dormir en Flakstadøya en lugar de en Reine?", risposta: "Con coche, sí: Reine queda a media hora, se está a medio camino entre Å y Leknes y por la noche hay mucho más silencio. Sin coche, Reine es más cómoda." },
+      { domanda: "¿Se paga para entrar en Nusfjord?", risposta: "En verano sí, hay una entrada para el pueblo. Fuera de temporada el acceso es más libre; el sendero desde Nesland llega igualmente a pie hasta el pueblo." },
+      { domanda: "¿Qué dificultad tiene el sendero a Kvalvika?", risposta: "No es técnico, pero sube y baja entre piedras y turbera unos 2 km por trayecto. Con lluvia se embarra: hace falta calzado de montaña." },
+      { domanda: "¿Dónde se hace la compra?", risposta: "En el supermercado de Ramberg, más surtido y barato que la Coop de Reine. Solo vende cerveza: vino y licores solo en el Vinmonopolet." },
+      { domanda: "¿Se ve la aurora boreal desde Flakstad?", risposta: "Sí, de finales de agosto a abril, con cielo despejado y oscuridad. Skagsanden y la playa de Ramberg son los puntos más usados, porque miran al norte sobre el mar." },
     ],
     esperienzeSlugs: ['nesland-nusfjord'],
     tripSlugs: ['lofoten-estate-2025'],
@@ -1223,15 +1417,19 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveDormire: 'No pernocté en Å: se duerme en Nesland/Flakstad.',
     doveMangiare:
       "La panadería histórica del pueblo (pocas mesas, pero dulces excelentes). Por el camino, en Sakrisøy, Anita's Seafood: bocadillos rellenos, sopas, sushi, vistas al fiordo. Se pide en la barra, sin servicio en la mesa.",
-    comeArrivare: 'Unos 50 minutos en coche desde Nesland/Flakstad.',
+    comeArrivare: "Å es el último pueblo de la E10, en el extremo de la isla de Moskenesøya: a unos 10 km de Reine, a unos 50 minutos en coche de Nesland/Flakstad y a unas dos horas de Svolvær. El puerto de los ferris a Bodø está en Moskenes, 5 km antes del pueblo: ferri Moskenes-Bodø (unas 3 horas y cuarto; coche de hasta 6 metros 605 NOK, unos 53 €; pasajeros gratis). El aparcamiento está pasado el túnel, a pocos minutos a pie del centro del pueblo. Los autobuses locales llegan desde Reine y Leknes, pero con pocas salidas.",
     comeSpostarsi: 'A pie, el pueblo es pequeño.',
     periodoMigliore: 'estuve en verano, bajo la lluvia; para los demás meses no tengo una referencia directa',
-    costi: 'no anoté los costes de esta parada',
+    costi: "no anoté los costes de esta parada. Referencias: Museo de los Pescadores 125 NOK (unos 11 €), aparcamiento en Reine 200 NOK por tres horas, ferri Moskenes-Bodø 605 NOK por coche. Presupuesto diario por persona, orientativo: bajo 80-110 € (albergue o rorbu compartida, compra en la Coop); medio 150-220 € (rorbu en habitación doble, un museo, una comida de pescado); alto 300 € o más (rorbu junto al mar en Reine o Hamnøy, cenas en restaurante).",
     erroriDaEvitare: [],
     miaEsperienza:
       'Å me impresionó incluso bajo la lluvia: el Museo de los Pescadores, con la visita guiada en inglés, cuenta bien una parte de la historia local que en otros puntos del viaje solo se ve de pasada.',
     luoghi: [
       {
+        costo: "Adultos 125 NOK (unos 11 €, otoño de 2026)",
+        orari: "1 de noviembre-6 de diciembre de 2026 todos los días 9-15; cerrado del 7 de diciembre al 2 de enero; visitas guiadas casi todos los días",
+        lat: 67.8814,
+        lng: 12.9821,
         nome: "Museo de los Pescadores (Norsk Fiskeværsmuseum)",
         testo: "El museo del pueblo de Å, con casas, almacenes y un horno histórico, cuenta la vida de los pescadores de las Lofoten.",
         come: "En coche desde Nesland; horarios y forma de visita en la web oficial.",
@@ -1241,6 +1439,8 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "Con lluvia, como cuando fui, sigue siendo una buena visita bajo techo."
       },
       {
+        lat: 67.8808,
+        lng: 12.9818,
         nome: "Panadería histórica de Å",
         testo: "Una panadería histórica, con canela y dulces hechos en el lugar; pocos asientos pero excelente.",
         come: "A pie en el pueblo.",
@@ -1249,13 +1449,67 @@ export const destinazioniNorvegia: Destinazione[] = [
         consiglio: "Tomar un rollo de canela: es lo típico."
       },
       {
+        lat: 67.9412,
+        lng: 13.1111,
         nome: "Sakrisøy y Anita's Seafood",
         testo: "En el camino a Å está Sakrisøy, pueblo de casitas amarillas, y Anita's Seafood, donde se comen sopas, bocadillos y sushi. Se pide en el mostrador, sin servicio en mesa.",
         come: "En coche, por la carretera a Å.",
         quando: "Almuerzo.",
         tempo: "1 hora",
         consiglio: "Vista del fiordo desde la mesa exterior."
-      }
+      },
+      {
+        nome: "Museo del Bacalao Seco de las Lofoten (Lofoten Tørrfiskmuseum)",
+        testo: "Un pequeño museo privado en un antiguo almacén de pescado, dedicado al bacalao seco: la pesca invernal del bacalao, el secado en los secaderos y la exportación, sobre todo a Italia. En los últimos años ha abierto de forma irregular.",
+        come: "A pie a la entrada del pueblo.",
+        quando: "En verano.",
+        tempo: "45 minutos",
+        lat: 67.8823,
+        lng: 12.9841,
+        consiglio: "Si está cerrado, los secaderos de bacalao se ven igualmente al aire libre alrededor del pueblo.",
+      },
+      {
+        nome: "Mirador del Moskstraumen",
+        testo: "Pasadas las últimas casas de Å, un sendero lleva a las rocas del extremo de la isla, frente al Moskstraumen, la corriente de marea que inspiró el «Maelström» de Edgar Allan Poe y Julio Verne. Al fondo se ve la isla de Værøy.",
+        come: "A pocos minutos a pie del centro del pueblo.",
+        quando: "Con el mar en calma y la luz de la tarde.",
+        tempo: "30 minutos",
+        costo: "Entrada libre",
+        consiglio: "Las rocas resbalan con lluvia: mantenerse lejos del borde.",
+      },
+      {
+        nome: "Hamnøy",
+        testo: "Un pueblo de pescadores sobre un islote, con las rorbuer rojas en las rocas y las montañas de Reine detrás. Desde el puente de la E10 se saca la foto más famosa de las Lofoten.",
+        come: "En coche por la E10, unos 20 minutos desde Å; pequeño aparcamiento antes del puente.",
+        quando: "A primera hora o por la tarde, con la luz rasante.",
+        tempo: "30 minutos",
+        costo: "Entrada libre",
+        lat: 67.9464,
+        lng: 13.1376,
+        consiglio: "No parar el coche en el puente: el tráfico pasa muy justo.",
+      },
+      {
+        nome: "Reine",
+        testo: "El pueblo de la bahía más famosa de las Lofoten, al pie del Reinebringen. De aquí salen también los ferris a Vindstad y la playa de Bunes.",
+        come: "En coche por la E10, unos 15 minutos desde Å.",
+        quando: "A cualquier hora; el Reinebringen solo con el cielo despejado.",
+        tempo: "1 hora para el pueblo, 2-4 horas con el Reinebringen",
+        costo: "Aparcamiento 200 NOK por tres horas (unos 17 €)",
+        lat: 67.9325,
+        lng: 13.0888,
+      },
+      {
+        nome: "Moskenes",
+        testo: "El puerto de los ferris a Bodø, a pocos kilómetros de Å. No hay mucho que ver, pero es el punto de llegada y salida de quien entra o sale de las Lofoten por el oeste.",
+        come: "En coche por la E10, unos 5 km antes de Å.",
+        quando: "En el puerto 40 minutos antes de la salida.",
+        tempo: "Unas 3 horas y cuarto de travesía a Bodø",
+        costo: "Coche de hasta 6 metros 605 NOK (unos 53 €), pasajeros gratis (2026)",
+        url: "https://www.torghatten.no/en/our-routes/18-782",
+        lat: 67.8998,
+        lng: 13.0438,
+        consiglio: "En verano hay que reservar la plaza del coche.",
+      },
     ],
     sapori: [
       {
@@ -1270,6 +1524,28 @@ export const destinazioniNorvegia: Destinazione[] = [
     attenzioni: [
       "Å es el final de la carretera E10: no hay nada más allá, aparcar con calma.",
       "El tiempo cambia rápido: llevar impermeable."
+    ],
+    programmi: [
+      { titolo: "Media jornada", tappe: ["La panadería histórica nada más abrir", "Museo de los Pescadores con la visita guiada", "Mirador del Moskstraumen", "Comida en Sakrisøy"] },
+      { titolo: "1 día de Å a Hamnøy", tappe: ["Mañana en Å: panadería, museo, rocas al final del pueblo", "Comida en Anita's Seafood en Sakrisøy", "Tarde: Reinebringen si el cielo está despejado", "Noche: fotos desde el puente de Hamnøy"] },
+      { titolo: "2 días", tappe: ["Día 1: como arriba", "Día 2: ferri de la mañana de Reine a Vindstad y playa de Bunes", "Vuelta con el ferri de la tarde"] },
+    ],
+    zone: [
+      { nome: "Å", perChi: "Quien quiere dormir en el pueblo histórico", testo: "Rorbuer y un albergue entre las casas del museo. Por la tarde, cuando se van los coches, el pueblo queda en silencio." },
+      { nome: "Reine, Sakrisøy y Hamnøy", perChi: "Quien quiere la vista más famosa", testo: "Rorbuer sobre el agua frente a las montañas, a un cuarto de hora de Å. Son los alojamientos más solicitados de las Lofoten: se reservan con meses de antelación." },
+      { nome: "Sørvågen y Moskenes", perChi: "Quien coge un ferri temprano", testo: "Entre Å y Reine, a pocos minutos del puerto de ferris. Más tranquilo y algo más barato que los pueblos de postal." },
+    ],
+    gite: [
+      { nome: "Reinebringen", distanza: "unos 15 minutos en coche hasta Reine", come: "En coche y luego a pie: 1.978 escalones de piedra, 448 metros de desnivel.", testo: "La vista sobre la bahía de Reine desde arriba, la más famosa de las Lofoten. Solo vale la pena con el cielo despejado." },
+      { nome: "Playa de Bunes", distanza: "ferri de 40 minutos desde Reine y luego una hora a pie", come: "Ferri Reine-Vindstad, pocas salidas al día: conviene reservar plaza.", testo: "Una playa encerrada entre paredes de roca en el lado norte de la isla. En Vindstad no hay tiendas: hay que llevar agua y comida." },
+      { nome: "Nusfjord y Flakstadøya", distanza: "unos 50 minutos en coche", come: "En coche hacia el este por la E10.", testo: "El pueblo pesquero de Nusfjord, la iglesia de Flakstad y las playas de Ramberg y Skagsanden." },
+    ],
+    faq: [
+      { domanda: "¿Cuánto tiempo hace falta para Å?", risposta: "Media jornada basta para la panadería, el Museo de los Pescadores y las rocas del final del pueblo. Con Reine, Sakrisøy y Hamnøy se llega a un día completo." },
+      { domanda: "¿Se puede entrar en coche en el pueblo?", risposta: "El aparcamiento está pasado el túnel, a pocos minutos a pie del centro: conviene dejar el coche allí y recorrerlo a pie, el pueblo es pequeño." },
+      { domanda: "¿El Museo de los Pescadores abre todo el año?", risposta: "Casi: cierra entre principios de diciembre y principios de enero y el horario cambia según la temporada. En otoño de 2026 abre todos los días de 9 a 15, con entrada de 125 NOK." },
+      { domanda: "¿Qué significa Å?", risposta: "En nórdico antiguo significa «río». Se considera el topónimo más corto del mundo, junto con unos pocos pueblos escandinavos del mismo nombre." },
+      { domanda: "¿Cuándo conviene ir a Å?", risposta: "En verano por la luz larga y los locales abiertos, como la panadería y Anita's Seafood. De febrero a abril los secaderos están llenos de bacalao y, de noche, se ve la aurora boreal." },
     ],
     esperienzeSlugs: ['museo-dei-pescatori'],
     tripSlugs: ['lofoten-estate-2025'],

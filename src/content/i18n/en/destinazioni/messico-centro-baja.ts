@@ -1445,64 +1445,181 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "The launch crossing from the Muelle General to Janitzio",
       "The artisan tianguis of the Noche de Ánimas",
     ],
-    comeArrivare: 'Bus from Mexico City via Morelia on highway 15D.',
+    comeArrivare: "From Mexico City, first-class buses to Pátzcuaro leave from the Poniente and Norte terminals and go via Morelia on Highway 15D: about 4-5 hours. If you fly, you land in Morelia (MLM); from the city, buses to Pátzcuaro run often and take about an hour. Pátzcuaro's bus station is south of the center, a few minutes by taxi from the plazas. Road travel is for daylight only.",
     comeSpostarsi: 'Launches from the Muelle General to Janitzio; taxis and colectivos for the lake towns.',
     periodoMigliore: 'October 30 to November 2 for the Noche de Ánimas.',
+    costi: "Daily budget per person, indicative for 2026 and outside the festival nights: low €45-65 (small hotel or guesthouse, market and comedores, colectivos); mid €90-140 (hotel in a colonial house in the center, taxis to the lake towns, restaurant dinners); high from €220 (boutique hotel, car with driver). Single items: boat to Janitzio about 100 MXN round trip; Tzintzuntzan 210 MXN and Ihuatzio 145 MXN for foreigners; Museo de Artes e Industrias Populares 145 MXN. Between October 31 and November 2 lodging costs much more and must be booked months ahead.",
     erroriDaEvitare: [
       "Deciding to go without having read Viaggiare Sicuri's updated card on Michoacán",
       'Traveling at night off the main roads',
       "Thinking you can combine Janitzio and Oaxaca's main nights on the same trip: they coincide",
     ],
-      "luoghi": [
-        {
-          "nome": "Janitzio Island",
-          "testo": "An island on Lake Pátzcuaro with a statue of Morelos, famous for the Día de Muertos vigil in the cemetery on the night of 1 November.",
-          "come": "Boat from the Pátzcuaro dock.",
-          "quando": "Night of 1 November for the vigil.",
-          "tempo": "Half a day",
-          "consiglio": "Respect the families: the vigil is not a show."
-        },
-        {
-          "nome": "Tzintzuntzan",
-          "testo": "An ancient Purépecha capital, with the yácatas (round pyramids) and a decorated cemetery.",
-          "come": "Car or colectivo from Pátzcuaro, along the lake.",
-          "quando": "Morning.",
-          "tempo": "2 hours",
-          "costo": "210 MXN for foreigners (2026).",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Colonial squares of Pátzcuaro",
-          "testo": "Plaza Vasco de Quiroga and Plaza Gertrudis Bocanegra, with arcades and a crafts market.",
-          "come": "On foot.",
-          "quando": "Morning.",
-          "tempo": "2-3 hours"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: Plaza Vasco de Quiroga and market",
-            "Afternoon: Tzintzuntzan",
-            "Evening: boat to Janitzio, vigil (1 November)"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: Pátzcuaro and Tzintzuntzan",
-            "Day 2: Janitzio and surroundings"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Pátzcuaro centre",
-          "perChi": "on foot to everything",
-          "testo": "Hotels in colonial houses, near the squares."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Janitzio Island",
+        testo: "The best-known island on the lake, a Purépecha fishing village whose houses climb in tiers up to the huge statue of José María Morelos, which you climb inside along a staircase painted with the story of the independence hero. On the night of November 1 the cemetery fills with candles, cempasúchil flowers and families keeping vigil: it is the most famous image of Día de los Muertos.",
+        come: "By boat from the Muelle General in Pátzcuaro; on the island you walk up steep lanes lined with stalls.",
+        quando: "By day in any season; on the night of November 1 for the vigil, with full boats and long waits at the pier.",
+        tempo: "Half a day; on the vigil night until late",
+        costo: "Boat about 100 MXN per person round trip, about €5 (2026)",
+        orari: "Daytime boats roughly 9 am to 6 pm; on the festival nights service runs until late",
+        lat: 19.57361,
+        lng: -101.65194,
+        consiglio: "During the vigil families pray beside the graves: no flash, and photos only after asking.",
+      },
+      {
+        nome: "Muelle General",
+        testo: "The lake's main pier, about three kilometers north of the center, where boats leave for Janitzio and the other islands. Around it are ticket booths, craft stalls and small restaurants frying charales and pescado blanco.",
+        come: "By taxi or the colectivos marked «Muelle» from the center, about ten minutes.",
+        quando: "Morning, before the groups arrive.",
+        tempo: "30 minutes, plus the wait for the boat",
+        costo: "Free",
+        lat: 19.54332,
+        lng: -101.61659,
+      },
+      {
+        nome: "Plaza Vasco de Quiroga",
+        testo: "Pátzcuaro's big square, one of the largest in Mexico, framed by colonial houses with arcades and red-tiled roofs. In the middle stands the fountain with the statue of Vasco de Quiroga, the bishop who in the 16th century organized the lake villages by craft: copper, lacquer, wood, textiles.",
+        come: "On foot; it is the center of town.",
+        quando: "Early morning or evening, when the lamps come on.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 19.5135,
+        lng: -101.60877,
+      },
+      {
+        nome: "Plaza Gertrudis Bocanegra and market",
+        testo: "The «plaza chica», busier and more local than the big one, named after the independence heroine executed in Pátzcuaro in 1817. On its north side the market begins, with stalls of fruit, corundas, bread and crafts from the lake towns; during the Noche de Ánimas the artisan tianguis is set up here and in the main square.",
+        come: "On foot, two blocks north of Plaza Vasco de Quiroga.",
+        quando: "Morning, when the market is liveliest.",
+        tempo: "1-2 hours",
+        costo: "Free",
+        lat: 19.51612,
+        lng: -101.60886,
+      },
+      {
+        nome: "Gertrudis Bocanegra Library",
+        testo: "The public library occupies the former church of San Agustín. At the end of the nave is Juan O'Gorman's large mural of the history of Michoacán, from Purépecha origins to the revolution, one of the lesser-known reasons to stop in town.",
+        come: "On foot, on Plaza Gertrudis Bocanegra.",
+        quando: "By day, during library hours.",
+        tempo: "30 minutes",
+        costo: "Free",
+        lat: 19.51661,
+        lng: -101.6084,
+      },
+      {
+        nome: "Basílica de Nuestra Señora de la Salud",
+        testo: "The church Vasco de Quiroga intended as a cathedral, left unfinished and rebuilt several times. It keeps the image of the Virgen de la Salud, modeled with the Purépecha technique in corn-stalk paste, and draws pilgrims, especially around December 8.",
+        come: "On foot, uphill east of the main square.",
+        quando: "Morning; during mass, visit quietly.",
+        tempo: "30 minutes",
+        costo: "Free",
+        lat: 19.51511,
+        lng: -101.60615,
+      },
+      {
+        nome: "Museo de Artes e Industrias Populares",
+        testo: "The INAH museum occupies the Colegio de San Nicolás, founded by Vasco de Quiroga in the 16th century. It gathers lacquerware, hammered copper, ceramics, masks and textiles from the lake towns, and in the garden stands a troje, the traditional Purépecha wooden house.",
+        come: "On foot, one block east of Plaza Vasco de Quiroga.",
+        quando: "Morning, before touring the workshops.",
+        tempo: "1 hour",
+        costo: "145 MXN for foreigners, about €7; 80 MXN for Mexicans (2026)",
+        orari: "Tuesday to Sunday 9 am-5 pm, closed Monday",
+        lat: 19.51381,
+        lng: -101.60715,
+        url: "https://lugares.inah.gob.mx/en/node/4877",
+      },
+      {
+        nome: "Casa de los Once Patios",
+        testo: "An 18th-century former convent with a series of linked courtyards, now home to artisans' workshops: hand-painted lacquer, looms, copper, embroidery. Entry is free and you often see the sellers at work.",
+        come: "On foot, a few blocks southeast of the main square.",
+        quando: "Late morning, when the workshops are open.",
+        tempo: "45 minutes",
+        costo: "Free entry",
+        lat: 19.51181,
+        lng: -101.60808,
+      },
+      {
+        nome: "Tzintzuntzan archaeological site",
+        testo: "The ancient capital of the Purépecha kingdom, which held off the Aztecs and fell only with the arrival of the Spanish. On a large platform overlooking the lake stand the yácatas, bases with a mixed rectangular and circular plan; the small site museum is included in the ticket.",
+        come: "By car or with the colectivos to Quiroga from central Pátzcuaro, about 25-30 minutes along the lakeshore.",
+        quando: "Morning; on the night of October 31 the town cemetery hosts one of the most heartfelt vigils on the lake.",
+        tempo: "1.5-2 hours",
+        costo: "210 MXN for foreigners, about €10; 105 MXN for Mexicans (2026)",
+        orari: "Daily 9 am-6 pm, last entry 5 pm",
+        lat: 19.62314,
+        lng: -101.57378,
+        url: "https://lugares.inah.gob.mx/en/node/5791",
+        consiglio: "In town, the Franciscan convent with its courtyard of olive trees is also worth a stop.",
+      },
+      {
+        nome: "Ihuatzio archaeological site",
+        testo: "A less visited Purépecha site on a plateau above the lake, with two large twin pyramids and long walls that also served as walkways. It is quiet and almost always empty, and the village of Ihuatzio has a cemetery that fills on the nights of the dead.",
+        come: "By car or taxi from Pátzcuaro, about 20 minutes northeast.",
+        quando: "Morning or late afternoon.",
+        tempo: "1 hour",
+        costo: "145 MXN for foreigners, about €7; 80 MXN for Mexicans (2026)",
+        orari: "Daily 9 am-6 pm, last entry 5 pm",
+        lat: 19.57778,
+        lng: -101.62217,
+        url: "https://lugares.inah.gob.mx/en/node/5482",
+      },
+      {
+        nome: "Cerro del Estribo",
+        testo: "The wooded hill west of town, a protected natural area, with a lookout over the lake and its islands. Locals walk up a long stairway, especially on weekends.",
+        come: "By car or taxi to the parking area, then on foot up the stairway.",
+        quando: "Early morning, when the air is clearest.",
+        tempo: "1.5-2 hours",
+        costo: "Free",
+        lat: 19.51199,
+        lng: -101.642,
+        consiglio: "Go up in a group and by day, with no valuables on show.",
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Plaza Vasco de Quiroga, Museo de Artes e Industrias Populares and Casa de los Once Patios",
+          "Lunch at the Plaza Gertrudis Bocanegra market and the library mural",
+          "Afternoon: boat from the Muelle General to Janitzio and climb to the Morelos statue",
+        ],
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: the center, the Basílica and the market, then Janitzio in the afternoon",
+          "Day 2: Tzintzuntzan with the yácatas and the convent, Ihuatzio on the way back",
+        ],
+      },
+      {
+        titolo: "3 days (October 30-November 1)",
+        tappe: [
+          "October 30: arrival, the center and the Noche de Ánimas artisan tianguis",
+          "October 31: Tzintzuntzan by day and the vigil in its cemetery at night",
+          "November 1: Ihuatzio or Santa Clara del Cobre by day, then the boat to Janitzio at night",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Historic center",
+        perChi: "everything on foot",
+        testo: "Hotels and guesthouses in colonial buildings around the two plazas, with the market and restaurants a few steps away. On the festival nights prices rise sharply.",
+        fascia: "€75-100",
+      },
+      {
+        nome: "Colonial charm houses",
+        perChi: "those who want a patio and a fireplace",
+        testo: "A few boutique hotels in the old mansions of the center, with courtyards, fireplaces for cool evenings and large rooms.",
+        fascia: "from €250",
+      },
+      {
+        nome: "Toward the lake and the Muelle General",
+        perChi: "those heading often to the islands",
+        testo: "Hotels and posadas along Avenida Lázaro Cárdenas, closer to the pier but far from the plazas: in the evening you need a taxi.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Pescado blanco",
@@ -1526,6 +1643,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Respect the families during the vigils: no flash or intrusive photos.",
         "Boat to Janitzio: agree the price."
       ],
+    gite: [
+      {
+        nome: "Santa Clara del Cobre",
+        distanza: "about 20 km south, half an hour",
+        come: "By car or with the colectivos from the bus station.",
+        testo: "The town of hand-hammered copper, with dozens of workshops where you watch pots, vases and lamps being made, and a museum devoted to the craft. In August it hosts the national copper fair.",
+      },
+      {
+        nome: "Morelia",
+        distanza: "about 60 km, 1 hour",
+        come: "By first-class bus, frequent departures from the Pátzcuaro station.",
+        testo: "The capital of Michoacán has a pink-stone historic center listed by UNESCO, with the cathedral, the aqueduct and the arcades. It works as a day trip, returning in daylight.",
+      },
+      {
+        nome: "Tócuaro and Erongarícuaro",
+        distanza: "10-20 km on the western shore",
+        come: "By car or taxi along the lake road.",
+        testo: "Two less visited Purépecha villages: Tócuaro is known for its carved and painted wooden masks, Erongarícuaro for its square and Franciscan convent.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Is it safe to go to Pátzcuaro?",
+        risposta: "The Italian Foreign Ministry advises against non-essential travel to Michoacán, and the state is at the highest level in US advisories too. The lake area is touristy and very busy during the festival, but anyone going should read the current advisories, travel only by day and stick to main roads.",
+      },
+      {
+        domanda: "Which night is the Janitzio vigil?",
+        risposta: "The vigil in the island cemetery is the night between November 1 and 2. October 31 is the night for Tzintzuntzan; Ihuatzio and Jarácuaro are less crowded alternatives.",
+      },
+      {
+        domanda: "How do you get to Janitzio island?",
+        risposta: "By boat from the Muelle General, north of the center, for about 100 MXN per person round trip. By day boats leave when full; on the festival nights the lines at the pier are long.",
+      },
+      {
+        domanda: "How many days do you need?",
+        risposta: "Two days are enough for the town, Janitzio and Tzintzuntzan. For the festival, arrive on October 30 and stay until November 2.",
+      },
+      {
+        domanda: "Can you combine Janitzio and Oaxaca on the same trip?",
+        risposta: "The main nights coincide, so you miss one of them. The most practical order is Pátzcuaro from October 30 to November 1, back to Mexico City on the 2nd for Mixquic, and Oaxaca after the festival.",
+      },
+      {
+        domanda: "What do you eat in Pátzcuaro?",
+        risposta: "Pescado blanco and fried charales from the lake, corundas and uchepos, sopa tarasca and carnitas from nearby Quiroga. At the market, breakfast is atole and bread.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'The island of Janitzio in Lake Pátzcuaro with the Morelos monument on top, seen from above',
@@ -1812,68 +1975,137 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     doveDormire: 'Simple lodgings and small motels in the two villages; package tent camps on the islands.',
     doveMangiare: "The fishermen's fish and seafood in family restaurants.",
-    comeArrivare: 'By car from La Paz or from Loreto, via Ciudad Constitución.',
+    comeArrivare: "Bahía Magdalena can only be reached by car. From La Paz it is about three hours northwest on Federal Highway 1 to Ciudad Constitución, then the turnoff to Puerto San Carlos or, farther north, to Puerto Adolfo López Mateos. From Loreto you cross the Sierra de la Giganta in about three hours. Águila buses reach Ciudad Constitución but not the villages; the nearest airports are La Paz (LAP) and Loreto (LTO), where it pays to rent a car.",
     periodoMigliore: 'winter, during the gray whale season: check dates with the cooperatives.',
-    costi: 'Panga trips priced per boat, to agree in advance, cash only.',
+    costi: "Daily budget per person, indicative for 2026: low €75-110 (motel in the village, fish in family restaurants, panga shared with others); mid €150-225 (morning trips on the lagoon, rental car with insurance); high from €350 (packaged tent camp on the islands, private boat). Single items: whale panga about 1,500-2,000 MXN per hour for the whole boat, up to 6-8 people; simple lodging 700-1,500 MXN a night. Cards barely work in the villages: bring cash in pesos.",
     erroriDaEvitare: [
       'Arriving without cash',
       'Planning outings in the afternoon, when the wind churns up the lagoon',
       'Driving in the evening on the road back',
     ],
-      "luoghi": [
-        {
-          "nome": "Grey whale watching",
-          "testo": "The lagoons of Bahía Magdalena host the grey whales that come to give birth each year. You go out in a panga and the whales come up to the boat.",
-          "come": "Panga with an operator from Puerto Adolfo López Mateos or Puerto San Carlos.",
-          "quando": "In winter, during the whale season; in the morning, with less wind.",
-          "tempo": "2-3 hours",
-          "consiglio": "A morning trip, when the wind is weakest."
-        },
-        {
-          "nome": "Barrier island dunes",
-          "testo": "Sand dunes on Isla Magdalena, the long barrier separating the lagoon from the Pacific. From the top you see the calm water where the whales swim on one side and the ocean waves on the other; it is often the stop after the panga trip.",
-          "come": "By panga from the lagoons.",
-          "quando": "Morning.",
-          "tempo": "Half a day"
-        },
-        {
-          "nome": "Fishing villages",
-          "testo": "Puerto Adolfo López Mateos and Puerto San Carlos, fishing villages with a market and fresh fish. They live from fishing and, in winter, from the whales: off season they are almost empty, with few restaurants open.",
-          "come": "By car from La Paz or Ciudad Constitución.",
-          "quando": "Daytime.",
-          "tempo": "Half a day",
-          "consiglio": "In winter the villages come alive with the whale season: ask locally whether there are festivals or events on your dates."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: panga trip for the whales",
-            "Seafood lunch",
-            "Afternoon: dunes"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: arrival, afternoon trip",
-            "Day 2: morning trip and fish lunch at the port"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Puerto Adolfo López Mateos",
-          "perChi": "nature",
-          "testo": "Few services, simple inns."
-        },
-        {
-          "nome": "Puerto San Carlos",
-          "perChi": "services",
-          "testo": "Larger, with hotels."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Gray whales at Puerto Adolfo López Mateos",
+        testo: "In the northern part of the bay, near the mouth that opens onto the Pacific, gray whale mothers spend the winter with their newborn calves. The cooperative pangas reach the whale area quickly, and the whales often approach the boat on their own, sometimes close enough to be touched.",
+        come: "Panga with the pier cooperatives, guide on board; you pay per boat and can share with other travelers.",
+        quando: "Official season January 1 to April 30; the best period is mid-February to late March. Mornings are best, with the lagoon flat.",
+        tempo: "1.5-3 hours on the water",
+        costo: "About 1,500-2,000 MXN per hour for the whole boat, up to 6-8 people, about €75-100 (2026)",
+        lat: 25.19278,
+        lng: -112.11056,
+        consiglio: "The whales decide on contact: stay seated in the boat, without leaning out or chasing them.",
+      },
+      {
+        nome: "Gray whales from Puerto San Carlos",
+        testo: "From the town in the middle of the bay, longer trips leave that take in the whale areas, the mangroves and the barrier islands. It is the alternative to López Mateos when boats there are full or wind closes the mouth.",
+        come: "Panga with the port operators; times are agreed the evening before.",
+        quando: "January to April, morning departure.",
+        tempo: "Half a day",
+        costo: "A 2025 offer was about 8,000 MXN for a boat of up to 8 people for about six hours, about €400",
+        lat: 24.78958,
+        lng: -112.10768,
+      },
+      {
+        nome: "The village of López Mateos",
+        testo: "A fishing village built around the pier, with low houses, pangas pulled up on shore and a few comedores. Between late January and early February it hosts the gray whale festival, with music and food.",
+        come: "By car; the cooperatives' pier is at the end of the village.",
+        quando: "During whale season; out of season it is almost deserted.",
+        tempo: "1-2 hours",
+        costo: "Free",
+        lat: 25.19278,
+        lng: -112.11056,
+        consiglio: "In 2026 the festival ran from January 30 to February 1: dates change every year.",
+      },
+      {
+        nome: "Puerto San Carlos",
+        testo: "The largest town on the bay, with a commercial port, gas stations, small hotels and seafood restaurants. It is the most convenient base for those who want services and more choice for sleeping and eating.",
+        come: "By car, about an hour from Ciudad Constitución.",
+        quando: "Year-round; livelier in winter.",
+        tempo: "Half a day",
+        costo: "Free",
+        lat: 24.78958,
+        lng: -112.10768,
+      },
+      {
+        nome: "Isla Magdalena dunes",
+        testo: "The long sand island that closes the bay toward the ocean. You land from the panga and cross the dunes to the Pacific beach: on one side the calm whale lagoon, on the other the open surf, with shells and animal tracks in the sand.",
+        come: "Only by panga, often as a stop during the whale trip.",
+        quando: "Morning, before the wind picks up.",
+        tempo: "1-2 hours",
+        lat: 24.90242,
+        lng: -112.22122,
+        consiglio: "Light closed shoes and water: there is no shade on the dunes.",
+      },
+      {
+        nome: "Mangrove channels",
+        testo: "North of López Mateos the lagoon narrows into mangrove-lined channels where herons, pelicans, frigatebirds and ospreys nest. The panga trips are calm and work outside whale season too.",
+        come: "By panga with the López Mateos cooperatives, also combined with the whales.",
+        quando: "Early morning or late afternoon, for the birds.",
+        tempo: "1-2 hours",
+      },
+      {
+        nome: "Isla Santa Margarita",
+        testo: "The southernmost barrier island, long and almost uninhabited, closing off the southern part of the bay. Trips from Puerto San Carlos run along its beaches and cliffs, with good chances of seeing dolphins and seabirds.",
+        come: "By panga from Puerto San Carlos, with an operator.",
+        quando: "Morning, with calm seas.",
+        tempo: "Half a day",
+        lat: 24.41524,
+        lng: -111.78906,
+      },
+      {
+        nome: "Ciudad Constitución",
+        testo: "The farming town of the Santo Domingo valley, seat of the municipality of Comondú, is the obligatory stop on the way to the bay. It has no particular sights, but it has ATMs, supermarkets, gas stations and a few hotels on the Transpeninsular.",
+        come: "On Federal Highway 1, about two and a half hours from La Paz.",
+        quando: "A stop on the way in, for cash and fuel.",
+        tempo: "1 hour",
+        lat: 25.03222,
+        lng: -111.67028,
+        consiglio: "Fill up and withdraw cash here: gas stations and ATMs are scarce in the bay villages.",
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 day (from La Paz)",
+        tappe: [
+          "Leave La Paz at dawn, stop in Ciudad Constitución",
+          "Late morning: whale panga trip from López Mateos or San Carlos",
+          "Seafood lunch at the port and back to La Paz before dark",
+        ],
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: arrival, a walk around the village and an afternoon trip if the lagoon is calm",
+          "Day 2: dawn trip with a stop on the Isla Magdalena dunes, lunch and the road to Loreto or La Paz",
+        ],
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above, at López Mateos",
+          "Day 3: Puerto San Carlos, mangroves or Isla Santa Margarita by panga, then departure",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Puerto Adolfo López Mateos",
+        perChi: "those who want to be near the whales",
+        testo: "A few simple lodgings and small motels steps from the cooperatives' pier. In whale season they fill up: book ahead.",
+        fascia: "€35-75",
+      },
+      {
+        nome: "Puerto San Carlos",
+        perChi: "those looking for more services",
+        testo: "More hotels, restaurants and shops, and closer to Ciudad Constitución and the southern part of the bay.",
+        fascia: "€35-75",
+      },
+      {
+        nome: "Tent camps on the islands",
+        perChi: "those who want to sleep on the lagoon",
+        testo: "Organized camps on the bay islands, sold as packages with meals and boat trips: the top end of the area.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Almejas chocolatas",
@@ -1900,6 +2132,46 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Long distances and few petrol stations: fill up in Ciudad Constitución.",
         "Winter mornings on the boat are cool and damp: windbreaker and layers."
       ],
+    gite: [
+      {
+        nome: "Loreto",
+        distanza: "about 3 hours northeast",
+        come: "By car via Ciudad Constitución and the Sierra de la Giganta, in daylight only.",
+        testo: "The Pueblo Mágico on the Sea of Cortez is the natural next stop after the bay, with its 1697 mission and, from mid-January to late March, blue whales in the marine park.",
+      },
+      {
+        nome: "La Paz",
+        distanza: "about 3 hours southeast",
+        come: "By car on Federal Highway 1.",
+        testo: "The capital of Baja California Sur, with the Malecón, Playa Balandra, Espíritu Santo and whale sharks in season. Many use it as a base and come to the bay for the day.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "When can you see gray whales in Bahía Magdalena?",
+        risposta: "The official season runs from January 1 to April 30. The period with the most mothers and calves in the lagoon is mid-February to late March.",
+      },
+      {
+        domanda: "Can you do it as a day trip from La Paz?",
+        risposta: "Yes, leaving at dawn: it is about three hours each way. With a night in a village you get two trips on the water and drive less tired.",
+      },
+      {
+        domanda: "López Mateos or Puerto San Carlos?",
+        risposta: "López Mateos is closer to the whale area and trips are short; San Carlos has more hotels and services and longer trips that also visit the islands.",
+      },
+      {
+        domanda: "How much does the boat trip cost?",
+        risposta: "You pay per boat, not per person: about 1,500-2,000 MXN per hour for a panga for up to 6-8 people. At the pier you can join other travelers to split the cost.",
+      },
+      {
+        domanda: "Can you touch the whales?",
+        risposta: "Mothers sometimes approach with their calves and let themselves be touched, but it is their choice. Licensed boats follow rules on time and distance and do not chase the animals.",
+      },
+      {
+        domanda: "Do you need cash?",
+        risposta: "Yes: cards barely work in the villages and the cooperatives want cash in pesos. Withdraw in Ciudad Constitución.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'A gray whale rising vertically out of the water off Baja California Sur',
@@ -1927,62 +2199,156 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     doveDormire: 'The historic center near the mission; resorts at Nopoló for high-end.',
     doveMangiare: 'Catch of the day and clams on the malecón.',
-    comeArrivare: 'By car from La Paz or from Bahía Magdalena; small airport with flights mostly from the United States and Tijuana.',
+    comeArrivare: "Loreto's small airport (LTO) has flights mainly from the United States and Tijuana. On a road trip you arrive by car: from La Paz it is about 4.5-5 hours on Federal Highway 1 via Ciudad Constitución, from Bahía Magdalena about 3 hours across the Sierra de la Giganta. Águila buses stop in town along the Transpeninsular. Gas stations are few between Ciudad Constitución and Loreto: fill up before.",
     periodoMigliore: 'winter for the whales: check the season with the operators.',
-    costi: 'Whale and island trips with authorized operators, at varying prices.',
+    costi: "Daily budget per person, indicative for 2026: low €75-110 (small hotel in the center, fish tacos, shared car); mid €150-225 (hotel near the malecón, one boat trip a day); high from €350 (resort in Nopoló, private trips). Single items: blue whales from about 3,000 MXN per person; Isla Coronado about 70 dollars per person (about 1,250 MXN); Museo de las Misiones 145 MXN for foreigners; marine park wristband extra if not included; mid-range lodging 1,200-2,500 MXN a night.",
     erroriDaEvitare: [
       'Arriving in Loreto without having filled up on the stretch from Ciudad Constitución',
       'Booking with operators without a park permit',
     ],
-      "luoghi": [
-        {
-          "nome": "Mission of Nuestra Señora de Loreto",
-          "testo": "The Jesuit mission of Loreto, founded by the Jesuit Juan María de Salvatierra in 1697, with the missions museum next to the church. From here the expansion across the peninsula began; the stone church, built between 1740 and 1744, is still the heart of town life.",
-          "come": "On foot from the centre.",
-          "quando": "Morning.",
-          "tempo": "1 hour",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Bahía de Loreto National Park and Isla Coronado",
-          "testo": "A marine park, part of the Gulf of California UNESCO site, with islands, snorkelling and whales in season. Isla Coronado, one of the main islands, has a white beach, clear water and sea lions on the rocks; by boat you may cross paths with dolphins.",
-          "come": "Boat from Loreto with an authorised operator.",
-          "quando": "Morning; calm sea.",
-          "tempo": "Full day"
-        },
-        {
-          "nome": "San Javier Mission",
-          "testo": "A Jesuit mission founded in 1699 in the Sierra de la Giganta, reached by a mountain road through canyons and palm oases. The stone church, built between 1744 and 1758 and is looked after by INAH.",
-          "come": "Car or tour from Loreto, across the sierra.",
-          "quando": "Morning.",
-          "tempo": "Half a day",
-          "consiglio": "A mountain road with tight bends: drive by day and take it slowly."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: Loreto Mission",
-            "Seafood lunch",
-            "Afternoon: Isla Coronado"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: Loreto and the National Park",
-            "Day 2: San Javier Mission"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Loreto centre",
-          "perChi": "on foot to everything",
-          "testo": "Small hotels and restaurants near the seafront."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Misión de Nuestra Señora de Loreto",
+        testo: "The first mission of the Californias, founded in 1697 by the Jesuit Juan María de Salvatierra: from here began the expansion that reached as far as San Francisco. The stone church, built between 1740 and 1744, is still the center of town life, with the statue of the Virgen de Loreto on the altar.",
+        come: "On foot from the center, on Calle Salvatierra.",
+        quando: "Morning, together with the museum next door.",
+        tempo: "30 minutes",
+        costo: "Free entry",
+        lat: 26.01043,
+        lng: -111.34336,
+      },
+      {
+        nome: "Museo de las Misiones",
+        testo: "The INAH museum next to the mission tells the story of the Jesuits in Baja California: maps, weapons, mission tools, sacred art and the life of the peninsula's peoples before the Europeans arrived. It makes sense of the missions scattered across the sierra.",
+        come: "On foot, beside the church.",
+        quando: "Morning: it closes early in the afternoon.",
+        tempo: "45 minutes-1 hour",
+        costo: "145 MXN for foreigners, about €7; 80 MXN for Mexicans, free on Sundays for Mexicans (2026)",
+        orari: "Tuesday to Saturday 9 am-3 pm, closed Sunday and Monday",
+        lat: 26.01028,
+        lng: -111.34366,
+        url: "https://lugares.inah.gob.mx/en/node/5176",
+      },
+      {
+        nome: "Loreto Malecón",
+        testo: "The town's seafront, quiet and tidy, with benches, palms and the pier where the lancheros leave from. Here the Sea of Cortez faces east, and the best time is dawn, when the sun rises behind Isla del Carmen.",
+        come: "On foot from the center.",
+        quando: "Dawn or evening.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 26.01059,
+        lng: -111.33909,
+      },
+      {
+        nome: "Blue whales in Parque Nacional Bahía de Loreto",
+        testo: "In winter the blue whale, the largest animal that has ever lived, feeds in the park's waters, along with fin whales and pods of dolphins. The marine park is part of the UNESCO site of the islands and protected areas of the Gulf of California.",
+        come: "Boat trip from the malecón with licensed lancheros; boats keep their distance under park rules.",
+        quando: "Mid-January to late March, early-morning departure with calm seas.",
+        tempo: "About 5 hours",
+        costo: "From about 3,000 MXN per person, about €150, plus the park wristband if not included (2026)",
+        lat: 25.86417,
+        lng: -111.12167,
+        consiglio: "Sightings are not guaranteed: keep a second day free to try again.",
+      },
+      {
+        nome: "Isla Coronado",
+        testo: "The island closest to town, an old volcano with a white beach and clear water on its sheltered side. A colony of sea lions lives on the rocks, and on the crossing you often meet dolphins.",
+        come: "By boat from the malecón with a licensed operator.",
+        quando: "Morning, with calm seas.",
+        tempo: "Half a day",
+        costo: "About 70 dollars per person, about 1,250 MXN or €60, park wristband excluded (2026)",
+        lat: 26.11792,
+        lng: -111.27352,
+      },
+      {
+        nome: "Isla del Carmen",
+        testo: "The largest island in the park, uninhabited, with old salt works that operated until the last century, sandy bays and red cliffs. Boat trips explore its coast with snorkeling stops.",
+        come: "By boat from Loreto with a licensed operator.",
+        quando: "Morning; with a north wind, trips are canceled.",
+        tempo: "Full day",
+        lat: 25.93961,
+        lng: -111.17611,
+      },
+      {
+        nome: "Isla Danzante",
+        testo: "A small, narrow, mountainous island off Puerto Escondido, with coves for kayaking and reefs for snorkeling. It is the easiest destination for paddling in the park.",
+        come: "By kayak or boat from Puerto Escondido, about 25 km south of Loreto.",
+        quando: "Morning, before the wind.",
+        tempo: "Half a day",
+        lat: 25.7884,
+        lng: -111.25067,
+      },
+      {
+        nome: "Nopoló",
+        testo: "The planned tourist zone south of town, with resorts, a golf course and a long beach on the bay. It is quieter than the center and has the services of the big hotels.",
+        come: "By car, about 10 minutes south of Loreto.",
+        quando: "Afternoon at the beach.",
+        tempo: "2-3 hours",
+        lat: 25.93094,
+        lng: -111.35963,
+      },
+      {
+        nome: "Puerto Escondido",
+        testo: "An almost enclosed natural harbor at the foot of the Sierra de la Giganta, with a marina where Sea of Cortez sailboats stop. Trips leave from here to Isla Danzante and the southern coast of the park.",
+        come: "By car, about half an hour south of Loreto on Federal Highway 1.",
+        quando: "Morning.",
+        tempo: "1-2 hours",
+        lat: 25.81433,
+        lng: -111.31209,
+      },
+      {
+        nome: "Playa Juncalito",
+        testo: "A quiet beach south of Loreto, with fishermen's pangas on the sand and the sierra behind. You swim in calm water and look at the park's islands from the shore.",
+        come: "By car, about 20 minutes south of Loreto.",
+        quando: "Afternoon.",
+        tempo: "2 hours",
+        costo: "Free",
+        lat: 25.83308,
+        lng: -111.33107,
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: mission, Museo de las Misiones and malecón",
+          "Seafood lunch in the center",
+          "Afternoon: Isla Coronado by boat, if the sea is calm",
+        ],
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: blue whale trip (in season), then the mission and the malecón",
+          "Day 2: Isla Coronado in the morning, Misión San Javier by car in the afternoon",
+        ],
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: spare day to try again for whales, or Puerto Escondido, kayaking at Isla Danzante and Playa Juncalito",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Historic center and malecón",
+        perChi: "everything on foot",
+        testo: "Small hotels and posadas near the mission and the seafront, with restaurants and the lancheros' stands a few steps away.",
+        fascia: "€60-125",
+      },
+      {
+        nome: "Nopoló",
+        perChi: "resorts and calm",
+        testo: "Resorts and vacation homes on the beach, with a golf course: you need a car to get into town.",
+      },
+      {
+        nome: "Toward Puerto Escondido and Juncalito",
+        perChi: "kayaking and the sea",
+        testo: "Vacation rentals and campgrounds along the southern coast, handy for trips to Isla Danzante.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Almejas tatemadas",
@@ -2007,6 +2373,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Authorised operators in the national park.",
         "The marine park charges a protected-area entry fee: ask whether it is included in the tour price."
       ],
+    gite: [
+      {
+        nome: "Misión San Javier",
+        distanza: "about 1.5 hours by car",
+        come: "By car or on a tour, on the mountain road through the Sierra de la Giganta.",
+        testo: "The mission founded in 1699 and built in stone between 1744 and 1758 is one of the best preserved on the peninsula, in a ranch village among canyons and palms. The road is narrow and winding: drive by day.",
+      },
+      {
+        nome: "Bahía Magdalena",
+        distanza: "about 3 hours southwest",
+        come: "By car via Ciudad Constitución, leaving at dawn.",
+        testo: "The Pacific lagoons where gray whales give birth, from January 1 to April 30. Better with a night in López Mateos or San Carlos.",
+      },
+      {
+        nome: "Laguna San Ignacio",
+        distanza: "about 4 hours north",
+        come: "By car on the Transpeninsular, as a 2-3 day extension.",
+        testo: "The lagoon where close encounters with gray whales are most frequent, inside the El Vizcaíno Biosphere Reserve, with tent camps on the shore.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "When can you see blue whales in Loreto?",
+        risposta: "From mid-January to late March. Trips last about five hours and cost from about 3,000 MXN per person; sightings are not guaranteed.",
+      },
+      {
+        domanda: "How many days do you need in Loreto?",
+        risposta: "Two days for the blue whales, the mission and Isla Coronado; three if you want a spare day for the sea or a relaxed visit to San Javier.",
+      },
+      {
+        domanda: "How do you get to Isla Coronado?",
+        risposta: "By boat from the malecón with a licensed operator, about half a day and about 70 dollars per person. The marine park wristband is often extra.",
+      },
+      {
+        domanda: "Do you need a car in Loreto?",
+        risposta: "Not for the town, but yes for San Javier, Puerto Escondido and the beaches to the south. When renting, check the third-party liability insurance, which is mandatory and often left out of online prices.",
+      },
+      {
+        domanda: "Are the museum and the mission open every day?",
+        risposta: "The church is, with free entry. The Museo de las Misiones opens Tuesday to Saturday from 9 am to 3 pm and costs 145 MXN for foreigners.",
+      },
+      {
+        domanda: "Can you fly to Loreto?",
+        risposta: "Yes, Loreto airport has flights mainly from the United States and Tijuana. From Europe it is easier to fly to La Paz or San José del Cabo and drive up.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'The stone Misión de Nuestra Señora de Loreto among the palms, in the center of town',
@@ -2026,58 +2438,157 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     cosaVedere: ['The historic center and the galleries', 'Playa Cerritos', 'The Pacific beaches at sunset'],
     cosaFare: ['Surf lesson at Cerritos', 'Turtle release with the local projects, in hatching seasons'],
     doveDormire: 'Historic center, with small charming hotels and a few budget guesthouses.',
-    comeArrivare: 'By car from La Paz or from Cabo San Lucas.',
+    comeArrivare: "Todos Santos is on Federal Highway 19, about an hour by car from both La Paz (80 km) and Cabo San Lucas. The nearest airports are La Paz (LAP) and San José del Cabo (SJD), with more international flights: at either one, pick up the rental car right away. Buses linking La Paz and Cabo San Lucas along the Pacific stop in town, but you need a car for Cerritos and the beaches.",
     periodoMigliore: 'November to April.',
+    costi: "Daily budget per person, indicative for 2026: low €75-110 (guesthouse, fish tacos, shared car); mid €150-225 (charming hotel in the center, surf lesson, restaurant dinners); high from €350 (boutique hotel and chef-driven cooking). Single items: hotels in the center 2,000-5,000 MXN a night, about €100-250; turtle release for a small cash donation. Staying here costs less than in Los Cabos.",
     erroriDaEvitare: ['Swimming on the open Pacific beaches outside Cerritos: strong currents'],
-      "luoghi": [
-        {
-          "nome": "Historic centre and galleries",
-          "testo": "A Pueblo Mágico with colonial houses, art galleries, boutiques and cafés. It used to be a sugar-cane town; today it lives on artists, surfers and small restaurants cooking with vegetables from the surrounding farms.",
-          "come": "On foot.",
-          "quando": "Morning and evening.",
-          "tempo": "Half a day"
-        },
-        {
-          "nome": "Playa Cerritos",
-          "testo": "A Pacific beach with waves suitable for beginner surfing, schools and board rental.",
-          "come": "Car or taxi from Todos Santos, heading south.",
-          "quando": "Morning.",
-          "tempo": "Half a day",
-          "consiglio": "Outside Cerritos the Pacific beaches have strong currents: do not swim."
-        },
-        {
-          "nome": "Turtle release",
-          "testo": "Local conservation projects releasing hatchlings in the hatching seasons. Several species of sea turtles nest on the beaches near town; volunteers protect the nests and, at sunset, guide the hatchlings to the sea.",
-          "come": "With local projects, in season.",
-          "quando": "Evening.",
-          "tempo": "1-2 hours",
-          "consiglio": "Respect the project rules."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: centre and galleries",
-            "Afternoon: Cerritos and surf lesson",
-            "Sunset over the Pacific"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: centre and Cerritos",
-            "Day 2: turtles in season or a day in La Paz"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Historic centre",
-          "perChi": "charm",
-          "testo": "Small hotels and guesthouses, on foot from restaurants."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Historic center and galleries",
+        testo: "The old sugarcane town, now a Pueblo Mágico, with low colonial houses, art galleries, boutiques and cafés along Calles Juárez, Centenario and Topete. You can walk it in an hour, but it is worth staying until evening, when the galleries open and the streets come alive.",
+        come: "On foot.",
+        quando: "Late afternoon and evening.",
+        tempo: "Half a day",
+        costo: "Free",
+        consiglio: "Galleries keep variable hours and some close in summer.",
+      },
+      {
+        nome: "Misión de Nuestra Señora del Pilar",
+        testo: "The mission church, founded by the Jesuits in the 18th century and rebuilt several times, looks onto the town square. Inside is the image of the Virgen del Pilar, celebrated on October 12 with the patron saint's festival.",
+        come: "On foot, on the square.",
+        quando: "Morning or evening.",
+        tempo: "20 minutes",
+        costo: "Free entry",
+        lat: 23.44978,
+        lng: -110.22557,
+      },
+      {
+        nome: "Teatro Cine General Manuel Márquez de León",
+        testo: "The town's old theater and cinema, next to the square, with its restored period façade. It hosts shows, concerts and cultural festival events.",
+        come: "On foot, next to the mission.",
+        quando: "Evening, if there is a show.",
+        tempo: "20 minutes from outside",
+        lat: 23.45043,
+        lng: -110.22556,
+      },
+      {
+        nome: "Hotel California",
+        testo: "The town's most famous building, a hotel with a blue façade and a bar under the arcades. The link with the Eagles song exists only in legend, but it has made it a stop for many visitors.",
+        come: "On foot, on Calle Juárez.",
+        quando: "Evening, for a drink.",
+        tempo: "30 minutes",
+        lat: 23.44892,
+        lng: -110.22568,
+      },
+      {
+        nome: "Centro Cultural Profesor Néstor Agúndez",
+        testo: "The cultural center occupies an old school with murals on its façade and houses the regional history museum, a reconstructed Southern Baja ranch house, a photo archive and a picture gallery. It tells the story of the town before the surfers and galleries.",
+        come: "On foot, a few blocks from the square.",
+        quando: "Morning.",
+        tempo: "45 minutes",
+        lat: 23.45089,
+        lng: -110.22356,
+      },
+      {
+        nome: "Playa Cerritos",
+        testo: "A Pacific bay sheltered by a rocky point, the only one in the area where you can swim with some safety. The waves suit beginners, and on the beach there are surf schools, board rentals and restaurants.",
+        come: "By car or taxi, about 15 minutes south of Todos Santos; parking on the beach.",
+        quando: "Early morning for lessons, when the waves are gentler.",
+        tempo: "Half a day",
+        lat: 23.32964,
+        lng: -110.17617,
+        consiglio: "Even here, swim near the lifeguards and away from the rocks, where currents are stronger.",
+      },
+      {
+        nome: "Playa Punta Lobos",
+        testo: "The fishermen's beach, just south of town, where at midday the pangas ride the waves back in and unload the catch. From a rocky point you see the whole coast; swimming is dangerous.",
+        come: "By car on a dirt track, about 10 minutes from the center.",
+        quando: "Late morning, for the boats coming in.",
+        tempo: "1 hour",
+        costo: "Free",
+        lat: 23.41474,
+        lng: -110.23049,
+      },
+      {
+        nome: "Playa Las Palmas",
+        testo: "A secluded beach backed by a palm grove, between two rocky points, reached on a short walk. It is one of the most beautiful in the area at sunset, but the sea has strong currents.",
+        come: "By car heading south, then on foot for the last stretch.",
+        quando: "Late afternoon.",
+        tempo: "2 hours",
+        costo: "Free",
+        lat: 23.38987,
+        lng: -110.21273,
+      },
+      {
+        nome: "Playa La Pastora",
+        testo: "The beach north of town, long and open, used by experienced surfers and by those who come to watch the sunset over the Pacific. In winter you may see humpback whales blowing offshore.",
+        come: "By car heading north on a dirt road, 10-15 minutes.",
+        quando: "Sunset.",
+        tempo: "1-2 hours",
+        costo: "Free",
+        consiglio: "For looking only: currents and breakers make swimming dangerous.",
+      },
+      {
+        nome: "Turtle release",
+        testo: "In the hatching seasons, the town's conservation projects release into the sea, at sunset, the turtles born in their hatcheries, in winter mostly leatherbacks and olive ridleys. The hatchlings are set on the sand and reach the water on their own.",
+        come: "With local projects, such as Tortugueros Las Playitas, north of town; dates depend on the hatchings and are announced a few hours ahead.",
+        quando: "At sunset, in the hatching months.",
+        tempo: "1 hour",
+        costo: "Small cash donation",
+        consiglio: "Do not touch the hatchlings, and use no flash or flashlights.",
+      },
+      {
+        nome: "El Pescadero",
+        testo: "The farming village south of Todos Santos, among organic farms, fruit stands and small restaurants. It is the base for Cerritos and for the Sierra de la Laguna trails.",
+        come: "By car, about 15 minutes south on Federal Highway 19.",
+        quando: "Morning, for the farm stands.",
+        tempo: "1-2 hours",
+        lat: 23.36417,
+        lng: -110.16833,
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Playa Cerritos and a surf lesson",
+          "Afternoon: the mission, the Centro Cultural and the galleries in the center",
+          "Sunset at La Pastora, dinner in town",
+        ],
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: historic center, Punta Lobos for the pangas coming in, sunset at Las Palmas",
+          "Day 2: Cerritos and El Pescadero, turtles at sunset in season",
+        ],
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: a hike in the Sierra de la Laguna, or a day in La Paz or Cabo San Lucas",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Historic center",
+        perChi: "charm and restaurants on foot",
+        testo: "Small charming hotels in the mid and upper range and a few budget guesthouses, steps from the galleries and restaurants.",
+        fascia: "€100-250",
+      },
+      {
+        nome: "El Pescadero and Cerritos",
+        perChi: "surf",
+        testo: "Vacation rentals, small hotels and campgrounds near the Cerritos waves: you are in swimwear all day, but you need a car for dinner.",
+      },
+      {
+        nome: "La Pastora and Las Playitas",
+        perChi: "those who want silence",
+        testo: "Houses and villas scattered north of town, among palm groves and empty beaches, reached on dirt roads.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Fish and shrimp tacos",
@@ -2101,6 +2612,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Galleries close at varying hours: check.",
         "From mid-May to November is the Pacific hurricane season: check the bulletins before setting off."
       ],
+    gite: [
+      {
+        nome: "La Paz",
+        distanza: "about 80 km, 1 hour",
+        come: "By car on Federal Highway 19.",
+        testo: "The Malecón, Playa Balandra and, in season, whale sharks; with an extra day, Espíritu Santo and the sea lions of Los Islotes.",
+      },
+      {
+        nome: "Cabo San Lucas",
+        distanza: "about 1 hour south",
+        come: "By car on Federal Highway 19.",
+        testo: "The boat to El Arco and, from December to April, humpback whale trips. It is the most touristy and expensive part of the peninsula.",
+      },
+      {
+        nome: "Sierra de la Laguna",
+        distanza: "a few kilometers inland",
+        come: "By car to the trailheads on the El Pescadero side, ideally with a guide.",
+        testo: "The biosphere reserve behind the coast, with oak and pine forests above the desert. Short walks work as a day trip; the trek to the lagoon at the top takes two days.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Can you swim in Todos Santos?",
+        risposta: "Not on the beaches in front of town: currents and breakers are strong. You swim at Playa Cerritos, 15 minutes south, near the lifeguards.",
+      },
+      {
+        domanda: "When are the turtles released?",
+        risposta: "In the hatching seasons, at sunset, with the town's conservation projects. Dates depend on the eggs and are announced a few hours ahead: ask as soon as you arrive.",
+      },
+      {
+        domanda: "Todos Santos or Los Cabos as a base?",
+        risposta: "Todos Santos is quieter and cheaper, with galleries, surf and empty beaches; Los Cabos has resorts, nightlife and humpback whale trips. They are an hour apart.",
+      },
+      {
+        domanda: "How many days do you need?",
+        risposta: "One day is enough for the center and Cerritos; two allow for sunsets, turtles in season and a slower pace.",
+      },
+      {
+        domanda: "Is Hotel California the one from the song?",
+        risposta: "No, the link with the Eagles track exists only in legend. The hotel is still one of the most photographed buildings in town.",
+      },
+      {
+        domanda: "When should you go to Todos Santos?",
+        risposta: "From November to April, with dry days and whales offshore. From mid-May to November it is Pacific hurricane season.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'The long ocean beach of Todos Santos seen from above',

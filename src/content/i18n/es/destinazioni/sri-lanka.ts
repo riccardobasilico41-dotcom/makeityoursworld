@@ -21,10 +21,10 @@ export const destinazioniSriLanka: Destinazione[] = [
       "A la ida dormimos en el Regal Réseau Hotel & Spa (4/5 en Tripadvisor, unas 400 reseñas): gusta por el rooftop con piscina infinita, aunque según algunos huéspedes la música del bar llega hasta las habitaciones. A la vuelta en el Goldi Sands Hotel (4/5, más de 1.700 reseñas): desayuno buffet mejor de lo previsto y ubicación cómoda, pero algunos reseñadores encuentran el mobiliario anticuado.\n\nEconómicos: Icebear Guesthouse, Ocean Beauty Guest House. Gama media: Jetwing Sea, Jetwing Lagoon. Lujo (contenido): Jetwing Blue, Sentido Heritance Negombo.",
     doveMangiare: 'Jude Restaurant (buen pescado pero servicio lento, unos 12 € por cabeza); SeaJoy para una comida económica.',
     usciteSerali: 'Rodeo, Sky Lounge, o una beach party, preguntando a guía y gente del lugar dónde hay.',
-    comeArrivare: 'Traslado desde el aeropuerto de Colombo, unas 6.000 LKR por coche.',
+    comeArrivare: "Negombo está a 20-30 minutos del aeropuerto internacional Bandaranaike (CMB) de Katunayake, y por eso es la base más cómoda para la primera y la última noche. Se llega en taxi de tarifa fija desde el mostrador oficial de llegadas, con las apps PickMe o Uber o con un coche del hotel acordado antes, por unas 5.000-6.000 LKR (unos 15-18 €) por coche. Desde Colombo hay unos 40 km por la autopista E03, o el tren de la línea costera hasta la estación de Negombo.",
     comeSpostarsi: 'Furgoneta privada con conductor.',
     periodoMigliore: 'noviembre',
-    costi: 'Cena unos 12 € por cabeza; traslado desde el aeropuerto 5.000-6.000 LKR.',
+    costi: "Cena de pescado unos 12 € por cabeza (2023); traslado desde el aeropuerto 5.000-6.000 LKR (unos 15-18 €). Presupuesto diario orientativo por persona: bajo 25-35 € (casa de huéspedes, rice and curry, tuk-tuk), medio 60-100 € (hotel frente al mar, restaurantes de pescado, paseo en barca por la laguna), alto desde 150 € (resort en la playa, conductor privado).",
     erroriDaEvitare: [],
     miaEsperienza:
       "El fish market de Negombo a primera hora de la mañana fue un espectáculo genuino, una buena manera de familiarizarse con el país nada más llegar.",
@@ -35,6 +35,8 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "A pocos minutos del centro, en tuk-tuk o a pie desde los hoteles frente al mar.",
         "quando": "Al amanecer o a primera hora.",
         "tempo": "1 hora",
+        "lat": 7.21106,
+        "lng": 79.83181,
         "consiglio": "Ir pronto: a media mañana la actividad casi ha terminado."
       },
       {
@@ -42,6 +44,8 @@ export const destinazioniSriLanka: Destinazione[] = [
         "testo": "A Negombo se la llama la «pequeña Roma» por sus iglesias católicas, herencia del periodo portugués. Santa María, terminada en 1922 tras casi cincuenta años de obras, tiene el techo pintado con escenas de la vida de Cristo, obra de un pintor local budista, N.S. Godamanne.",
         "come": "A pie o en tuk-tuk desde el centro.",
         "tempo": "30 minutos",
+        "lat": 7.201,
+        "lng": 79.838,
         "consiglio": "Hombros y rodillas cubiertos, como en todos los lugares de culto."
       },
       {
@@ -50,6 +54,73 @@ export const destinazioniSriLanka: Destinazione[] = [
         "tempo": "una noche",
         "costo": "Cena unos 12 € por persona (del viaje de 2023)",
         "consiglio": "Jude Restaurant: buen pescado pero servicio lento."
+      },
+      {
+        "nome": "Fuerte holandés",
+        "testo": "Los portugueses construyeron aquí un fuerte para controlar el comercio de la canela; los holandeses lo tomaron en 1644 y lo rehicieron. Hoy quedan la puerta de entrada con la fecha 1678, un tramo de bastiones y la torre del reloj, porque dentro hay una cárcel.",
+        "come": "En tuk-tuk o a pie desde el centro, cerca de la laguna y del mercado de pescado.",
+        "quando": "Por la mañana, junto con el mercado de pescado.",
+        "tempo": "20-30 minutos",
+        "lat": 7.20866,
+        "lng": 79.83118,
+        "consiglio": "La cárcel no se visita y no se fotografía a los guardias: la puerta se ve desde fuera."
+      },
+      {
+        "nome": "Canal holandés (Hamilton Canal)",
+        "testo": "Un canal excavado por los holandeses para llevar mercancías entre Colombo y Negombo sin pasar por el mar, y prolongado después por los ingleses a comienzos del siglo XIX. En las orillas hay casas de pescadores, barcas y aves acuáticas.",
+        "come": "Se recorre a pie o en bicicleta desde el centro, o en barca con los paseos por la laguna.",
+        "quando": "Primera hora de la mañana o última de la tarde.",
+        "tempo": "1 hora",
+        "lat": 7.12325,
+        "lng": 79.84708
+      },
+      {
+        "nome": "Laguna de Negombo en barca",
+        "testo": "La gran laguna al sur de la ciudad, entre manglares, islotes y pescadores que trabajan con redes y barcas tradicionales. El paseo en barca pasa también por los canales y es la forma más tranquila de pasar la mañana antes de un vuelo.",
+        "come": "Con las barcas que salen de la orilla de la laguna o con un paseo reservado a través del hotel; precio a fijar antes de subir.",
+        "quando": "Temprano por la mañana, cuando hace menos calor y hay más actividad de los pescadores.",
+        "tempo": "2 horas",
+        "lat": 7.15,
+        "lng": 79.85,
+        "consiglio": "Aclarar antes si el precio es por persona o por barca."
+      },
+      {
+        "nome": "Playa de Negombo",
+        "testo": "Una playa ancha y larga delante de los hoteles de Porutota Road, cómoda para un paseo al atardecer después del vuelo. No es tan bonita como las del sur y el mar suele estar picado.",
+        "come": "A pie desde los hoteles del paseo marítimo.",
+        "quando": "Atardecer; el mar está más tranquilo aproximadamente de noviembre a abril.",
+        "tempo": "1-2 horas",
+        "lat": 7.23142,
+        "lng": 79.84062,
+        "consiglio": "Bañarse solo donde haya otras personas: las corrientes pueden ser fuertes."
+      },
+      {
+        "nome": "Iglesia de San Sebastián de Katuwapitiya",
+        "testo": "Una iglesia neogótica al norte del centro, golpeada por los atentados del Domingo de Pascua de 2019 y reconstruida después. Dentro, un pequeño memorial recuerda a las víctimas.",
+        "come": "En tuk-tuk desde el centro, unos 15 minutos.",
+        "tempo": "30 minutos",
+        "lat": 7.21106,
+        "lng": 79.85917,
+        "consiglio": "Es un lugar de duelo para la comunidad: ropa que cubra y silencio durante las misas."
+      },
+      {
+        "nome": "Templo de Angurukaramulla",
+        "testo": "Un templo budista en el centro de Negombo, con una entrada en forma de boca de dragón y una gran estatua de Buda sentado. Es un contraste curioso con las iglesias que dieron a la ciudad el apodo de «pequeña Roma».",
+        "come": "A pie o en tuk-tuk desde el centro; se entra descalzo.",
+        "quando": "Por la mañana o a última hora de la tarde.",
+        "tempo": "30-45 minutos",
+        "lat": 7.21008,
+        "lng": 79.85431,
+        "consiglio": "Hombros y rodillas cubiertos; los zapatos se dejan en la entrada."
+      },
+      {
+        "nome": "Marismas de Muthurajawela",
+        "testo": "Un gran humedal entre la laguna de Negombo y Colombo, con manglares, canales, aves, varanos y cocodrilos de agua salada. Se recorre en barca desde un centro de visitantes.",
+        "come": "En coche o tuk-tuk hacia el sur, unos 30 minutos desde Negombo; paseos en barca desde el centro de visitantes.",
+        "quando": "Temprano por la mañana o a última hora de la tarde, cuando los animales están más activos.",
+        "tempo": "2-3 horas",
+        "lat": 7.07889,
+        "lng": 79.85302
       }
     ],
     programmi: [
@@ -61,13 +132,41 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Almuerzo de pescado en SeaJoy",
           "Cena de bienvenida o de despedida junto al mar"
         ]
+      },
+      {
+        "titolo": "2 días (llegada y salida)",
+        "tappe": [
+          "Día de llegada: descanso, paseo por la playa al atardecer, cena de pescado",
+          "Día de salida: mercado de pescado al amanecer, fuerte holandés, paseo en barca por la laguna y el canal holandés, luego el aeropuerto"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: llegada, playa y cena frente al mar",
+          "Día 2: mercado de pescado al amanecer, fuerte holandés, iglesias de Santa María y San Sebastián, templo de Angurukaramulla",
+          "Día 3: laguna en barca por la mañana, marismas de Muthurajawela por la tarde"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Paseo marítimo de Negombo",
         "perChi": "llegada y salida",
-        "testo": "Hoteles frente al mar, cerca del aeropuerto de Colombo. Cómodo, pero poco auténtico más allá del mercado de pescado."
+        "testo": "Hoteles frente al mar, cerca del aeropuerto de Colombo. Cómodo, pero poco auténtico más allá del mercado de pescado.",
+        "fascia": "40-100 €"
+      },
+      {
+        "nome": "Lewis Place",
+        "perChi": "presupuesto ajustado",
+        "testo": "La carretera costera al norte del centro, hacia el mercado de pescado: casas de huéspedes y pequeños hoteles familiares a pocos pasos de la playa.",
+        "fascia": "20-50 €"
+      },
+      {
+        "nome": "Laguna y hoteles Jetwing",
+        "perChi": "comodidad y piscina",
+        "testo": "Resorts con piscina entre el mar y la laguna, como los Jetwing y el Heritance: más caros, pero cómodos para descansar antes o después del vuelo.",
+        "fascia": "80-180 €"
       }
     ],
     sapori: [
@@ -94,6 +193,46 @@ export const destinazioniSriLanka: Destinazione[] = [
       "Acordar el precio del tuk-tuk o del traslado antes de subir.",
       "En los lugares de culto hay que cubrir hombros y rodillas: lleva un pareo o pantalones largos."
     ],
+    gite: [
+      {
+        "nome": "Colombo",
+        "distanza": "unos 40 km, 1 hora",
+        "come": "En coche por la autopista E03 o en tren por la línea costera.",
+        "testo": "El paseo de Galle Face Green al atardecer, los mercados de Pettah, el templo de Gangaramaya y los edificios coloniales de Fort: un día de ciudad antes del vuelo."
+      },
+      {
+        "nome": "Marismas de Muthurajawela",
+        "distanza": "unos 30 minutos",
+        "come": "En coche o tuk-tuk; los paseos en barca salen del centro de visitantes.",
+        "testo": "Manglares, canales y aves acuáticas a media hora del aeropuerto, para quien tenga una mañana libre."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Es mejor dormir en Negombo o en Colombo la primera noche?",
+        "risposta": "Negombo está a 20-30 minutos del aeropuerto, Colombo a 40-60 minutos con tráfico. Para la primera y la última noche Negombo es casi siempre más cómoda, sobre todo con vuelos nocturnos."
+      },
+      {
+        "domanda": "¿Cuánto cuesta el traslado del aeropuerto a Negombo?",
+        "risposta": "En 2023 el traslado en coche costaba 5.000-6.000 LKR por coche (unos 15-18 €). Conviene el mostrador oficial de taxis, una app como PickMe o Uber, o el coche del hotel acordado antes."
+      },
+      {
+        "domanda": "¿A qué hora hay que ver el mercado de pescado?",
+        "risposta": "Al amanecer, cuando vuelven las barcas. A media mañana la actividad casi ha terminado."
+      },
+      {
+        "domanda": "¿Es bonito el mar de Negombo?",
+        "risposta": "La playa es ancha y cómoda para pasear, pero no tan bonita como las del sur y el mar suele estar picado. Para días de playa de verdad conviene reservar tiempo para Hikkaduwa y la costa sur."
+      },
+      {
+        "domanda": "¿Vale la pena quedarse en Negombo más de una noche?",
+        "risposta": "Un día basta para el mercado de pescado, el fuerte, las iglesias y la laguna. Con más tiempo se añaden las marismas de Muthurajawela o un día en Colombo."
+      },
+      {
+        "domanda": "¿Cómo moverse por Negombo?",
+        "risposta": "A pie junto al mar y en tuk-tuk para el resto, con las apps o fijando el precio antes de subir."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Barcas de pesca de colores en la playa de Negombo, Sri Lanka',
@@ -114,10 +253,10 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveDormire:
       "Dormimos en el Miridiya Lake Resort: nota media 3/5 en Tripadvisor (unas 400 reseñas), pero con la nueva gestión parece haber mejorado bastante (entrada, comida, habitaciones). La vista sobre el lago Nuwara Wewa gusta mucho; alguien se queja de las duchas y de la humedad en los baños.\n\nEconómicos: Saubagya Inn, Why Not Palace. Gama media: Kings Town Hotel, Monaara Leisure. Lujo: Ulagalla by Uga Escapes, Divulgaha Gedara Boutique Hotel.",
     doveMangiare: 'Buffet en el hotel (unas 2.200 LKR más las bebidas).',
-    comeArrivare: 'Unas 5 h en furgoneta desde Negombo.',
+    comeArrivare: "Desde Negombo y el aeropuerto de Colombo se necesitan unas 5 horas en coche con conductor, la opción más habitual. Desde Dambulla y Sigiriya hay alrededor de hora y media de carretera, desde Mihintale una veintena de minutos. En tren se llega desde Colombo Fort por la línea del norte en unas 4-5 horas; los autobuses salen de Colombo, Dambulla y Kandy, más lentos pero baratos.",
     comeSpostarsi: 'En bicicleta con el guía, dentro del yacimiento.',
     periodoMigliore: 'por la tarde, tras la llegada',
-    costi: 'Guía unas 6.500 LKR (19 €) más la propina.',
+    costi: "Entrada al recinto para extranjeros unos 30 USD (unos 26 €, 2026); guía unas 6.500 LKR (19 €) más la propina y bufé en el hotel unas 2.200 LKR más las bebidas (2023). Presupuesto diario orientativo por persona: bajo 25-35 € (casa de huéspedes, bicicleta, rice and curry), medio 60-100 € (hotel junto al lago, guía, tuk-tuk), alto desde 180 € (resort de lujo fuera de la ciudad, coche con conductor).",
     erroriDaEvitare: [],
     miaEsperienza:
       "Las dagobas inmensas de Anuradhapura dan enseguida la medida de la historia budista de la isla. Fue un buen primer contacto con el triángulo cultural, antes de las paradas más conocidas como Sigiriya.",
@@ -127,7 +266,9 @@ export const destinazioniSriLanka: Destinazione[] = [
         "testo": "El árbol sagrado, descendiente directo del bajo el cual Buda alcanzó la iluminación, plantado en el siglo III a. C. Para los fieles es el lugar más venerado de la ciudad.",
         "come": "Dentro del sitio arqueológico, en bicicleta o a pie. Se entra descalzo y sin sombrero, con hombros y piernas cubiertos; los fieles visten de blanco.",
         "quando": "Por la mañana o al final de la tarde; en los días de luna llena (poya) está lleno de peregrinos.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "lat": 8.34472,
+        "lng": 80.39667
       },
       {
         "nome": "Las dagobas del sitio arqueológico",
@@ -136,6 +277,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "quando": "Taquilla abierta de 7 a 17 h. Por la tarde, tras la llegada; mejor evitar las horas centrales por el calor.",
         "tempo": "3 horas",
         "costo": "Entrada al sitio para extranjeros unos 30 USD (marzo de 2026), pagada en rupias; guía unos 6.500 LKR (19 €) más propina (del viaje de 2023)",
+        "orari": "Taquilla todos los días 7-17 (2026).",
         "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "consiglio": "Con guía los lugares se entienden: sin ella son montones de piedra."
       },
@@ -143,7 +285,81 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Lago Nuwara Wewa",
         "testo": "El gran lago artificial junto a la ciudad nueva, bonito al atardecer. Varios hoteles dan al lago, entre ellos el Miridiya Lake Resort.",
         "quando": "Atardecer.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "lat": 8.33246,
+        "lng": 80.42992
+      },
+      {
+        "nome": "Ruwanwelisaya",
+        "testo": "La estupa blanca construida por el rey Dutugemunu en el siglo II a. C., la más venerada de la ciudad después del árbol sagrado. La base está rodeada por un muro de elefantes esculpidos, y por la tarde los peregrinos vestidos de blanco rodean la cúpula con flores y lamparillas.",
+        "come": "En el recinto arqueológico, a pie desde el Sri Maha Bodhi; se entra descalzo.",
+        "quando": "Última hora de la tarde y noche, con los peregrinos y la luz más suave.",
+        "tempo": "45 minutos",
+        "lat": 8.35,
+        "lng": 80.39639
+      },
+      {
+        "nome": "Jetavanaramaya",
+        "testo": "El rey Mahasena la mandó construir en el siglo III con millones de ladrillos: medía unos 122 metros, uno de los edificios más altos del mundo antiguo después de las pirámides de Guiza. Hoy la cúpula de ladrillo rojo, restaurada, domina el parque.",
+        "come": "En bicicleta o tuk-tuk dentro del recinto, al este de la ciudadela.",
+        "quando": "Primera hora de la mañana o última de la tarde.",
+        "tempo": "30-45 minutos",
+        "costo": "Incluido en la entrada del recinto, unos 30 USD (unos 26 €) para extranjeros (2026), pagados en rupias",
+        "lat": 8.35167,
+        "lng": 80.40361
+      },
+      {
+        "nome": "Thuparamaya",
+        "testo": "La primera estupa construida en la isla tras la llegada del budismo, en el siglo III a. C., para guardar según la tradición la clavícula de Buda. Es pequeña y está rodeada de finas columnas de piedra que antes sostenían un techo.",
+        "come": "A pie desde el Ruwanwelisaya, unos minutos al norte.",
+        "tempo": "30 minutos",
+        "lat": 8.35528,
+        "lng": 80.39611
+      },
+      {
+        "nome": "Abhayagiri y su museo",
+        "testo": "El gran monasterio fundado en el siglo I a. C. por el rey Vattagamani Abhaya, que llegó a albergar a miles de monjes. Además de la estupa hay refectorios, estanques y la célebre piedra de luna delante del palacio de la reina; el museo reúne joyas, esculturas y objetos hallados en las excavaciones.",
+        "come": "En la parte norte del recinto, en bicicleta o tuk-tuk.",
+        "quando": "Por la mañana, antes del calor.",
+        "tempo": "1 hora y media",
+        "costo": "Incluido en la entrada del recinto, unos 30 USD (unos 26 €) para extranjeros (2026), pagados en rupias",
+        "orari": "Taquilla todos los días 7-17 (2026).",
+        "lat": 8.37094,
+        "lng": 80.39525
+      },
+      {
+        "nome": "Estatua del Samadhi",
+        "testo": "Un Buda sentado en meditación tallado en piedra hacia el siglo IV, de algo más de dos metros. Es una de las imágenes más conocidas de Sri Lanka, por la expresión serena del rostro.",
+        "come": "En el bosque cerca del Abhayagiri, a pocos minutos en bicicleta.",
+        "tempo": "20 minutos",
+        "lat": 8.36987,
+        "lng": 80.39817,
+        "consiglio": "Nunca posar de espaldas a la estatua para una foto."
+      },
+      {
+        "nome": "Kuttam Pokuna",
+        "testo": "Los «estanques gemelos»: dos piscinas de piedra escalonadas del monasterio de Abhayagiri, alimentadas por canales subterráneos y filtros. Están entre los ejemplos más refinados de ingeniería hidráulica de la antigua Anuradhapura.",
+        "come": "Al noreste del Abhayagiri, en bicicleta.",
+        "tempo": "20 minutos",
+        "lat": 8.37114,
+        "lng": 80.40165
+      },
+      {
+        "nome": "Isurumuniya",
+        "testo": "Un templo adosado a una roca, cerca del lago Tissa Wewa, con elefantes esculpidos en la piedra sobre el estanque. En el pequeño museo está el bajorrelieve de los «amantes», una de las esculturas más famosas de la isla. Desde lo alto de la roca se ve la llanura con las estupas.",
+        "come": "Al sur del recinto principal, en tuk-tuk o bicicleta; entrada aparte, no incluida en la del recinto.",
+        "quando": "Atardecer, desde lo alto de la roca.",
+        "tempo": "45 minutos",
+        "lat": 8.3346,
+        "lng": 80.3904
+      },
+      {
+        "nome": "Lovamahapaya",
+        "testo": "El «Palacio de bronce»: en origen un edificio de nueve plantas para los monjes, con el tejado cubierto de tejas de bronce, construido en el siglo II a. C. Hoy queda un bosque de unas 1.600 columnas de piedra, entre el Ruwanwelisaya y el Sri Maha Bodhi.",
+        "come": "A pie, en el camino entre el árbol sagrado y el Ruwanwelisaya.",
+        "tempo": "15 minutos",
+        "lat": 8.34611,
+        "lng": 80.39778
       }
     ],
     programmi: [
@@ -155,18 +371,41 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Atardecer en el lago Nuwara Wewa",
           "Cena buffet en el hotel"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: llegada, tarde entre Sri Maha Bodhi, Lovamahapaya, Ruwanwelisaya y Thuparamaya, noche en el árbol sagrado con los peregrinos",
+          "Día 2: mañana en bicicleta por Jetavanaramaya, Abhayagiri y su museo, la Estatua del Samadhi y Kuttam Pokuna; atardecer en Isurumuniya"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Sri Maha Bodhi, Ruwanwelisaya y Thuparamaya",
+          "Día 2: Jetavanaramaya, Abhayagiri, Samadhi, Kuttam Pokuna, Isurumuniya al atardecer",
+          "Día 3: Mihintale al amanecer, luego salida hacia Dambulla o Sigiriya"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Ciudad nueva y lago",
         "perChi": "quien quiera un hotel cómodo",
-        "testo": "Hoteles y casas de huéspedes con vistas al lago, a pocos minutos de los sitios en tuk-tuk. La zona más práctica."
+        "testo": "Hoteles y casas de huéspedes con vistas al lago, a pocos minutos de los sitios en tuk-tuk. La zona más práctica.",
+        "fascia": "25-80 €"
       },
       {
         "nome": "Fuera de la ciudad",
         "perChi": "quien busque lujo y calma",
-        "testo": "Villas y resorts en el campo, más lejos de los sitios; hacen falta traslados."
+        "testo": "Villas y resorts en el campo, más lejos de los sitios; hacen falta traslados.",
+        "fascia": "150-400 €"
+      },
+      {
+        "nome": "Cerca de Mihintale",
+        "perChi": "quien sigue hacia el este",
+        "testo": "Casas de huéspedes y pequeños hoteles rurales en la carretera de Mihintale, a unos 20 minutos de los recintos: cómodos para subir a Mihintale al amanecer.",
+        "fascia": "25-60 €"
       }
     ],
     sapori: [
@@ -192,6 +431,52 @@ export const destinazioniSriLanka: Destinazione[] = [
       "Nunca posar para una foto delante de una estatua de Buda: se considera una falta de respeto, y faltar al respeto a las imágenes budistas es un delito.",
       "Los días de luna llena (poya) son festivos y normalmente no hay alcohol: el sitio está lleno.",
       "El calor de la tarde es fuerte: lleva agua y sombrero."
+    ],
+    gite: [
+      {
+        "nome": "Mihintale",
+        "distanza": "unos 12 km, 20 minutos",
+        "come": "En coche o tuk-tuk; se sube a pie por una escalinata de granito.",
+        "testo": "La colina donde según la tradición llegó el budismo a Sri Lanka, con templos, estupas y una amplia vista sobre la llanura y las cúpulas de Anuradhapura."
+      },
+      {
+        "nome": "Buda de Avukana",
+        "distanza": "unos 50 km, 1 hora",
+        "come": "En coche con conductor, pasando junto al lago Kala Wewa.",
+        "testo": "Un Buda de pie de unos 12 metros, tallado en la roca en el siglo V: encaja bien en el traslado hacia Dambulla."
+      },
+      {
+        "nome": "Ritigala",
+        "distanza": "unos 45 km",
+        "come": "En coche con conductor; se visita a pie por senderos empedrados en el bosque.",
+        "testo": "Las ruinas de un monasterio de eremitas en la selva, con pasarelas de piedra y estanques, casi sin turistas."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto cuesta entrar en Anuradhapura?",
+        "risposta": "La entrada al recinto para extranjeros cuesta unos 30 USD (unos 26 €, 2026), pagados en rupias. El Sri Maha Bodhi e Isurumuniya tienen entradas gestionadas aparte por los templos."
+      },
+      {
+        "domanda": "¿Hace falta un guía?",
+        "risposta": "Ayuda mucho: sin explicaciones muchas ruinas parecen montones de piedras. En 2023 un guía en bicicleta durante unas tres horas costaba 6.500 LKR (19 €) más la propina."
+      },
+      {
+        "domanda": "¿Mejor en bicicleta o en tuk-tuk?",
+        "risposta": "Las estupas están a kilómetros unas de otras: la bicicleta es lo más agradable si no hace demasiado calor, el tuk-tuk es más cómodo en las horas centrales."
+      },
+      {
+        "domanda": "¿Basta un día?",
+        "risposta": "Una tarde y una mañana bastan para los lugares principales. Con dos días completos se añaden Abhayagiri con su museo, Isurumuniya y Mihintale."
+      },
+      {
+        "domanda": "¿Cómo hay que vestirse?",
+        "risposta": "Ropa clara que cubra hombros y rodillas; en los lugares sagrados se entra descalzo y sin sombrero. Un par de calcetines ayuda sobre la piedra caliente."
+      },
+      {
+        "domanda": "¿Cuándo hay más ambiente?",
+        "risposta": "Al atardecer, cuando los peregrinos vestidos de blanco llevan flores y lamparillas al Sri Maha Bodhi y al Ruwanwelisaya. Los días de luna llena (poya) hay mucha más gente."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
@@ -480,10 +765,10 @@ export const destinazioniSriLanka: Destinazione[] = [
     cosaFare: ['Recorrido por los templos en bicicleta de alquiler (1.000 LKR)', 'Comida en el Priyamali gedara, con vista a los arrozales'],
     doveDormire: 'No dormí allí: fue una excursión de media jornada desde Dambulla.',
     doveMangiare: 'Priyamali gedara, restaurante de campo con vista a los arrozales: muy bueno.',
-    comeArrivare: 'Unos 1 h 10 de traslado desde Sigiriya.',
+    comeArrivare: "Desde Sigiriya se tarda alrededor de una hora y diez minutos en coche, desde Dambulla unas hora y media: por eso Polonnaruwa se suele visitar en el día desde allí. Desde Habarana son unos 45 minutos. Desde el aeropuerto de Colombo el trayecto lleva unas 5-6 horas; los autobuses llegan desde Dambulla, Kandy y Colombo, y la estación de tren está en la línea de Batticaloa.",
     comeSpostarsi: 'En bicicleta de alquiler, dentro del yacimiento.',
     periodoMigliore: 'mañana o tarde',
-    costi: 'Bicicleta 1.000 LKR (unos 2,5 €); guía (Indu) 6.000 LKR más la propina.',
+    costi: "Entrada al recinto para extranjeros unos 30 USD (unos 26 €, 2026); alquiler de bicicleta 1.000 LKR (unos 3 €) y guía 6.000 LKR (unos 18 €) más la propina (2023). Presupuesto diario orientativo por persona: bajo 20-30 € (casa de huéspedes, bicicleta, rice and curry), medio 50-90 € (hotel junto al lago, guía, coche), alto desde 150 € (resort de lujo en la zona, conductor privado).",
     erroriDaEvitare: [],
     miaEsperienza:
       "Recorrer Polonnaruwa en bicicleta fue un buen cambio de ritmo después de la subida a Sigiriya del día anterior. La comida en el Priyamali gedara, con vista a los arrozales, fue una de las mejores del viaje.",
@@ -493,13 +778,17 @@ export const destinazioniSriLanka: Destinazione[] = [
         "testo": "Cuatro imágenes de Buda talladas en una sola pared de granito en el siglo XII, entre ellas una figura de pie y un Buda reclinado de unos 14 metros de largo.",
         "come": "En el sitio arqueológico, en bicicleta; se dejan los zapatos en la entrada.",
         "quando": "Por la mañana o por la tarde, con luz rasante.",
-        "tempo": "30 minutos"
+        "tempo": "30 minutos",
+        "lat": 7.96588,
+        "lng": 81.00497
       },
       {
         "nome": "Vatadage y el Cuadrángulo",
         "testo": "El Vatadage es un templo circular construido quizá para la reliquia del diente, quizá para el cuenco del Buda: los historiadores no se ponen de acuerdo. Tiene escalinatas y una piedra de luna tallada en la entrada norte. El Cuadrángulo reúne en un recinto los templos más bellos de la ciudad medieval.",
         "come": "Se circula en bicicleta entre las ruinas y se visitan a pie los templos del Cuadrángulo.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "lat": 7.94722,
+        "lng": 81.00111
       },
       {
         "nome": "Paseo en bicicleta entre los templos",
@@ -507,9 +796,78 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "Bicicleta de alquiler en la entrada del sitio, con o sin guía.",
         "quando": "Taquilla abierta de 7 a 17 h. Por la mañana o por la tarde; evitar las horas centrales.",
         "tempo": "medio día",
-        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "costo": "Entrada al sitio para extranjeros unos 30 USD (marzo de 2026); bicicleta 1.000 LKR (unos 2,5 €); guía 6.000 LKR más propina (del viaje de 2023)",
+        "orari": "Taquilla todos los días 7-17 (2026).",
+        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "consiglio": "Almuerzo en Priyamali gedara, restaurante rural con vistas a los arrozales: muy bueno."
+      },
+      {
+        "nome": "Museo arqueológico",
+        "testo": "El museo junto a la taquilla, con maquetas de la ciudad medieval, bronces hindúes y objetos hallados en las excavaciones. Conviene verlo primero: después las ruinas se entienden mejor.",
+        "come": "En la entrada sur del recinto, cerca del lago; la entrada se compra aquí.",
+        "quando": "Al principio de la visita.",
+        "tempo": "45 minutos",
+        "costo": "Incluido en la entrada del recinto, unos 30 USD (unos 26 €) para extranjeros (2026), pagados en rupias",
+        "orari": "Taquilla todos los días 7-17 (2026).",
+        "lat": 7.94179,
+        "lng": 80.99898
+      },
+      {
+        "nome": "Palacio real de Parakramabahu",
+        "testo": "Los restos del palacio del rey Parakramabahu I, del siglo XII: muros de ladrillo de unos tres metros de grosor, que según se dice sostenían siete plantas. Al lado está la Sala del Consejo, con hileras de columnas y leones de piedra en la escalinata.",
+        "come": "En la ciudadela, la primera zona del recinto después del museo.",
+        "tempo": "45 minutos",
+        "lat": 7.94348,
+        "lng": 80.99793
+      },
+      {
+        "nome": "Rankoth Vehera",
+        "testo": "La estupa más grande de Polonnaruwa, de unos 54 metros, mandada construir por el rey Nissanka Malla en el siglo XII siguiendo el modelo de las de Anuradhapura.",
+        "come": "En bicicleta, al norte del Cuadrángulo.",
+        "tempo": "20 minutos",
+        "lat": 7.95821,
+        "lng": 81.0034
+      },
+      {
+        "nome": "Lankatilaka",
+        "testo": "Una sala de imágenes con muros de ladrillo de unos 17 metros de altura que encierran un enorme Buda de pie sin cabeza. Entre las paredes altísimas la estatua aparece de repente.",
+        "come": "En el grupo del Alahana Parivena, en bicicleta, poco antes del Gal Vihara.",
+        "tempo": "20 minutos",
+        "lat": 7.96283,
+        "lng": 81.00363
+      },
+      {
+        "nome": "Kiri Vehera",
+        "testo": "Una estupa blanca a pocos pasos del Lankatilaka, que conserva aún el enlucido original después de más de ochocientos años: según la tradición la mandó construir una reina de Parakramabahu.",
+        "come": "A pie desde el Lankatilaka.",
+        "tempo": "15 minutos",
+        "lat": 7.96327,
+        "lng": 81.00362
+      },
+      {
+        "nome": "Shiva Devale n.º 2",
+        "testo": "Un pequeño templo hindú de piedra del periodo chola, del siglo XI, entre las construcciones más antiguas que siguen enteras en la ciudad. Recuerda que Polonnaruwa fue también capital de reyes del sur de la India.",
+        "come": "En bicicleta, al norte del Cuadrángulo.",
+        "tempo": "15 minutos",
+        "lat": 7.94999,
+        "lng": 81.00751
+      },
+      {
+        "nome": "Estatua de Potgul Vihara",
+        "testo": "Una figura de pie de unos 3,5 metros, tallada en una roca al sur de la ciudad: hay quien la identifica con el rey Parakramabahu y quien con un sabio que sostiene un manuscrito de hojas de palma.",
+        "come": "Al sur del recinto principal, junto al lago: en bicicleta o tuk-tuk; se ve gratis.",
+        "tempo": "20 minutos",
+        "lat": 7.92627,
+        "lng": 80.99484
+      },
+      {
+        "nome": "Parakrama Samudra",
+        "testo": "El gran embalse mandado construir por Parakramabahu I para regar los arrozales, todavía en uso. Al atardecer la carretera sobre el dique es el lugar más bonito de la ciudad.",
+        "come": "La carretera principal discurre por el dique: a pie, en bicicleta o en tuk-tuk desde los hoteles.",
+        "quando": "Atardecer.",
+        "tempo": "1 hora",
+        "lat": 7.9,
+        "lng": 80.96667
       }
     ],
     programmi: [
@@ -521,18 +879,44 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Almuerzo en Priyamali gedara",
           "Regreso a Dambulla"
         ]
+      },
+      {
+        "titolo": "1 día completo",
+        "tappe": [
+          "Mañana: museo arqueológico, palacio real y Sala del Consejo, Cuadrángulo con el Vatadage",
+          "Comida en el Priyamali gedara",
+          "Tarde: Shiva Devale, Rankoth Vehera, Lankatilaka, Kiri Vehera y Gal Vihara en bicicleta",
+          "Atardecer en el Parakrama Samudra"
+        ]
+      },
+      {
+        "titolo": "A lo largo de la ruta",
+        "tappe": [
+          "Desde Sigiriya o Dambulla a primera hora",
+          "Visita en bicicleta de 2 horas y media-3 horas",
+          "Estatua de Potgul Vihara en el camino de vuelta",
+          "Masaje ayurvédico al volver a Dambulla"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Dambulla o Sigiriya",
         "perChi": "excursión de un día",
-        "testo": "Polonnaruwa se visita en medio día desde Dambulla o Sigiriya, sin pernoctar."
+        "testo": "Polonnaruwa se visita en medio día desde Dambulla o Sigiriya, sin pernoctar.",
+        "fascia": "30-90 €"
       },
       {
         "nome": "Polonnaruwa nueva",
         "perChi": "quien quiera dormir cerca",
-        "testo": "Casas de huéspedes y pequeños hoteles cerca del lago y del sitio; poca vida nocturna."
+        "testo": "Casas de huéspedes y pequeños hoteles cerca del lago y del sitio; poca vida nocturna.",
+        "fascia": "20-50 €"
+      },
+      {
+        "nome": "Habarana y Giritale",
+        "perChi": "safaris y comodidad",
+        "testo": "Resorts con piscina entre Polonnaruwa y Sigiriya, cerca de los parques de Minneriya y Kaudulla: cómodos para unir el recinto con un safari.",
+        "fascia": "50-150 €"
       }
     ],
     sapori: [
@@ -554,6 +938,46 @@ export const destinazioniSriLanka: Destinazione[] = [
       "La entrada al sitio se compra solo en la taquilla oficial: desconfía de quien ofrezca guías o entradas en la calle.",
       "Cuidado con los monos: no ofrecer comida.",
       "El calor de las horas centrales es fuerte: lleva agua y sombrero."
+    ],
+    gite: [
+      {
+        "nome": "Safari en Minneriya o Kaudulla",
+        "distanza": "unos 30-45 minutos",
+        "come": "En jeep con conductor-guía; el parque se elige esa misma mañana según dónde estén los elefantes.",
+        "testo": "Las manadas de elefantes alrededor de los grandes lagos artificiales: una tarde de safari después de la mañana entre las ruinas."
+      },
+      {
+        "nome": "Sigiriya y Dambulla",
+        "distanza": "alrededor de 1 hora y 10",
+        "come": "En coche con conductor.",
+        "testo": "La Roca del León y el Templo de Oro, las etapas cercanas del triángulo cultural."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto tiempo hace falta para Polonnaruwa?",
+        "risposta": "En bicicleta bastan 2 horas y media-3 horas para los lugares principales. Con el museo, el Potgul Vihara y el atardecer en el lago se llega a un día entero."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada?",
+        "risposta": "Unos 30 USD (unos 26 €) para extranjeros en 2026, pagados en rupias en la taquilla del museo; incluye el museo."
+      },
+      {
+        "domanda": "¿Mejor Polonnaruwa o Anuradhapura?",
+        "risposta": "Polonnaruwa es más compacta y se recorre fácilmente en media jornada, con las estatuas del Gal Vihara. Anuradhapura es más antigua, más grande y con más vida de peregrinos."
+      },
+      {
+        "domanda": "¿Se recorre bien en bicicleta?",
+        "risposta": "Sí: el recinto es llano y las distancias son cortas. En 2023 el alquiler costaba 1.000 LKR (unos 3 €)."
+      },
+      {
+        "domanda": "¿Conviene dormir en Polonnaruwa?",
+        "risposta": "No es necesario: se visita en el día desde Dambulla, Sigiriya o Habarana. Dormir aquí solo sirve a quien quiere entrar a la apertura o ver el atardecer en el lago."
+      },
+      {
+        "domanda": "¿Cómo hay que vestirse?",
+        "risposta": "Hombros y rodillas cubiertos; en los templos se entra descalzo y sin sombrero, así que mejor evitar las horas centrales, cuando la piedra quema."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
@@ -849,10 +1273,10 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveDormire:
       "Nuestra base para el ascenso fue el Wathsala Inn, 3/5 en Tripadvisor: bonita vista sobre el valle y el Peak, personal amable, pero muchas reseñas señalan problemas de mantenimiento (duchas, sábanas, filtraciones). Hay que tomarlo por lo que es, un apoyo esencial para salir de noche, no un sitio de vacaciones.\n\nEconómicos: Slightly Chilled, Sun Mount Adam's Peak. Gama media: White House Adam's Peak, Adams Peak Grand. Alojamientos de lujo de verdad aquí no hay: es el pueblo desde el que parte el trekking.",
     doveMangiare: 'Cena en el hotel antes de la salida nocturna.',
-    comeArrivare: 'Unas 2 h de traslado desde Kandy, pasando por Kitulgala.',
+    comeArrivare: "Nallathanniya, también llamada Dalhousie, es el pueblo donde empieza el sendero del Adam's Peak, a unos 32 km de Hatton. Desde Kandy se tarda unas 2 horas hasta Kitulgala y luego algunas horas de carretera de montaña; desde Nuwara Eliya unas dos horas y media. En tren se baja en la estación de Hatton, en la línea de Ella, y desde allí se sigue en autobús o tuk-tuk. En la temporada de peregrinación hay también autobuses directos desde Colombo.",
     comeSpostarsi: 'A pie durante todo el ascenso.',
     periodoMigliore: 'la temporada de la peregrinación, diciembre-mayo, por el recorrido iluminado (que, sin embargo, está también más concurrido)',
-    costi: 'Cuánto costaban el rafting y las actividades extra en Kitulgala no lo apunté: se acuerdan con el operador.',
+    costi: "Cuánto costaban el rafting y las actividades extra en Kitulgala no lo apunté: se acuerdan con el operador. Presupuesto diario orientativo por persona: bajo 20-30 € (casa de huéspedes sencilla, cena en el hotel), medio 40-70 € (casa de huéspedes con vistas, conductor), alto 80-150 € (bungalós en las fincas de té alrededor de los lagos).",
     erroriDaEvitare: ['Subir sin una sudadera: en la cima al amanecer hace frío y viento (3-6 °C en el viaje de 2023)'],
     miaEsperienza:
       "La noche en el Adam's Peak, en fila india con cientos de peregrinos locales por una escalinata toda iluminada, fue la verdadera prueba física del viaje. En la cima el frío corta, pero subir junto a quien lo hace por fe, y no por turismo, cuenta más que el propio amanecer.",
@@ -863,6 +1287,8 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "Se sale a pie desde el pueblo de Nallathanniya en plena noche; la subida requiere varias horas (de 2,5 a 3 horas en el viaje de 2023).",
         "quando": "Temporada de peregrinación, de diciembre a mayo, con el camino iluminado; abril es el mes con más gente.",
         "tempo": "6-7 horas entre subida, amanecer y bajada",
+        "lat": 6.8094,
+        "lng": 80.4997,
         "consiglio": "En la cima al amanecer hace frío y viento (3-6 °C en el viaje de 2023): lleva una sudadera."
       },
       {
@@ -870,13 +1296,65 @@ export const destinazioniSriLanka: Destinazione[] = [
         "testo": "Rafting en el río Kelani, el mismo donde se rodó El puente sobre el río Kwai.",
         "come": "Con un operador de Kitulgala, en la carretera de Kandy hacia Nallathanniya.",
         "tempo": "medio día",
-        "costo": "No anoté cuánto costó: se acuerda con el operador."
+        "costo": "No anoté cuánto costó: se acuerda con el operador.",
+        "lat": 6.99722,
+        "lng": 80.41111
       },
       {
         "nome": "Río Kelani",
         "testo": "El río que atraviesa Kitulgala, entre selva y rápidos, con la zona del set de la película.",
         "come": "Desde la carretera principal de Kitulgala.",
         "tempo": "1 hora"
+      },
+      {
+        "nome": "Pagoda de la Paz",
+        "testo": "Una estupa blanca construida por monjes japoneses al comienzo del sendero, un poco por encima del pueblo. Es una de las primeras paradas de la subida y, de día, un mirador sobre el valle.",
+        "come": "En el sendero desde Nallathanniya, a una media hora del pueblo.",
+        "quando": "De noche durante la subida, o de día por la vista.",
+        "tempo": "15 minutos"
+      },
+      {
+        "nome": "Embalse de Maskeliya",
+        "testo": "El lago artificial a los pies del Adam's Peak, rodeado de plantaciones de té. Cuando el agua baja reaparecen las ruinas del antiguo pueblo de Maskeliya, sumergido por la presa.",
+        "come": "En la carretera entre Hatton y Nallathanniya: se ve desde el coche o con una parada.",
+        "quando": "Por la tarde, a la llegada, o a la vuelta de la cima.",
+        "tempo": "30 minutos",
+        "lat": 6.84361,
+        "lng": 80.54889
+      },
+      {
+        "nome": "Cascadas de Laxapana",
+        "testo": "Una de las cascadas más altas de Sri Lanka, con un salto de más de 120 metros entre la vegetación, en la carretera entre Maskeliya y Kitulgala.",
+        "come": "En coche, desviándose de la carretera entre Kitulgala y Nallathanniya; último tramo a pie.",
+        "quando": "Después de las lluvias, cuando lleva más agua.",
+        "tempo": "1 hora",
+        "lat": 6.9,
+        "lng": 80.5
+      },
+      {
+        "nome": "Cueva de Belilena",
+        "testo": "Una cueva prehistórica cerca de Kitulgala, donde las excavaciones encontraron restos humanos y herramientas de piedra de decenas de miles de años, entre los más antiguos de la isla.",
+        "come": "Desde Kitulgala en tuk-tuk y luego a pie por un corto sendero en la selva.",
+        "tempo": "1 hora",
+        "lat": 7.00222,
+        "lng": 80.43578
+      },
+      {
+        "nome": "Cascadas de St. Clair",
+        "testo": "Una cascada ancha, de varios saltos, llamada la «pequeña Niágara de Sri Lanka», entre las plantaciones de té cerca de Talawakele. Se ve desde un mirador en la carretera principal.",
+        "come": "En la carretera de Hatton hacia Nuwara Eliya: parada en el mirador o bajada a pie entre el té.",
+        "quando": "Por la mañana, con la mejor luz.",
+        "tempo": "30 minutos",
+        "lat": 6.95118,
+        "lng": 80.64788
+      },
+      {
+        "nome": "Cascadas de Devon",
+        "testo": "Un salto de unos 97 metros en una garganta verde, no lejos de St. Clair, que lleva el nombre de un plantador inglés. El punto de vista más cómodo es un mirador cerca del centro del té.",
+        "come": "En la carretera entre Hatton y Talawakele, parada en el mirador.",
+        "tempo": "20 minutos",
+        "lat": 6.95167,
+        "lng": 80.62972
       }
     ],
     programmi: [
@@ -888,18 +1366,43 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Noche: salida hacia el Adam's Peak",
           "Amanecer en la cima y bajada, y luego traslado"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: rafting en Kitulgala por la mañana, cascadas de Laxapana, llegada a Nallathanniya y cena temprano",
+          "Noche: subida al Adam's Peak pasando por la Pagoda de la Paz",
+          "Día 2: amanecer en la cima, bajada, descanso; por la tarde embalse de Maskeliya, cascadas de Devon y St. Clair camino de Nuwara Eliya"
+        ]
+      },
+      {
+        "titolo": "A lo largo de la ruta",
+        "tappe": [
+          "Kandy → Kitulgala (unas 2 horas), rafting",
+          "Kitulgala → Nallathanniya, carretera de montaña entre el té",
+          "Noche en el Adam's Peak",
+          "Nallathanniya → Pedro Tea Plantation → Nuwara Eliya"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Nallathanniya",
         "perChi": "quien sube de noche",
-        "testo": "El pueblo desde donde parte el sendero: casas de huéspedes básicas como el Wathsala Inn, con vistas al valle. No es un sitio de vacaciones."
+        "testo": "El pueblo desde donde parte el sendero: casas de huéspedes básicas como el Wathsala Inn, con vistas al valle. No es un sitio de vacaciones.",
+        "fascia": "15-40 €"
       },
       {
         "nome": "Hatton",
         "perChi": "más comodidad",
-        "testo": "Ciudad cercana con más oferta de alojamiento y restaurantes, pero más lejos del inicio del sendero: la cumbre está a unos 32 km."
+        "testo": "Ciudad cercana con más oferta de alojamiento y restaurantes, pero más lejos del inicio del sendero: la cumbre está a unos 32 km.",
+        "fascia": "30-80 €"
+      },
+      {
+        "nome": "Lagos de Maskeliya y Castlereagh",
+        "perChi": "quien quiere quedarse unos días",
+        "testo": "Bungalós y pequeños hoteles en las fincas de té alrededor de los lagos, a 30-60 minutos del sendero: más tranquilos y cómodos, pero lejos para la salida nocturna.",
+        "fascia": "60-150 €"
       }
     ],
     sapori: [
@@ -921,6 +1424,46 @@ export const destinazioniSriLanka: Destinazione[] = [
       "La escalinata está muy concurrida en temporada de peregrinación: sigue el ritmo del flujo y no te detengas en los escalones.",
       "Lleva una linterna frontal y calzado con buen agarre: la escalinata está iluminada, pero conviene llevarla igualmente.",
       "Con niebla o lluvia la subida resbala: valora las condiciones antes de salir."
+    ],
+    gite: [
+      {
+        "nome": "Kitulgala",
+        "distanza": "unas 2 horas y media",
+        "come": "En coche, por la carretera hacia Kandy o Colombo.",
+        "testo": "Rafting en el río Kelani, el de la película El puente sobre el río Kwai, con barranquismo y caminatas por la selva a acordar con los operadores."
+      },
+      {
+        "nome": "Cascadas de St. Clair y Devon",
+        "distanza": "alrededor de 1 hora",
+        "come": "En coche por la carretera de Nuwara Eliya.",
+        "testo": "Las dos cascadas más famosas de la zona del té, a pocos minutos una de otra, fáciles de unir al traslado a Nuwara Eliya."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuándo se puede subir al Adam's Peak?",
+        "risposta": "Se sube todo el año, pero la temporada de peregrinación va de diciembre a mayo: el sendero está iluminado y los puestos de té abiertos. Fuera de temporada las luces pueden estar apagadas y los servicios cerrados."
+      },
+      {
+        "domanda": "¿Cuánto dura la subida?",
+        "risposta": "En el viaje de 2023 la subida llevó 2 horas y media-3 horas, y lo mismo la bajada. Los días de luna llena y de fiesta la fila avanza mucho más despacio."
+      },
+      {
+        "domanda": "¿A qué hora se sale?",
+        "risposta": "Aproximadamente entre la una y las dos y media de la madrugada, para llegar a la cima antes del amanecer."
+      },
+      {
+        "domanda": "¿Qué hay que llevar?",
+        "risposta": "Calzado de montaña, linterna frontal, forro polar o plumífero ligero, agua y algo de comer. En la cima al amanecer se baja a 3-6 °C con el viento."
+      },
+      {
+        "domanda": "¿Mejor dormir en Nallathanniya o en Hatton?",
+        "risposta": "Nallathanniya está al inicio del sendero y permite dormir unas horas más. Hatton tiene más oferta, pero está a unos 32 km."
+      },
+      {
+        "domanda": "¿Hay más cosas que hacer en la zona?",
+        "risposta": "El rafting en Kitulgala, el embalse de Maskeliya y las cascadas de Laxapana, Devon y St. Clair, casi todas en los traslados."
+      }
     ],
     esperienzeSlugs: ['rafting-kitulgala', 'scalata-adams-peak'],
     tripSlugs: ['sri-lanka-2023'],
@@ -946,10 +1489,10 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveDormire:
       "Dormimos en el Araliya RED, uno de los más reservados de la zona, 4/5 con casi 2.000 reseñas: la piscina climatizada gusta mucho, el personal es hospitalario y desde el rooftop se ve la ciudad. Alguien señala ruidos de las habitaciones contiguas y olor a gasóleo en la entrada.\n\nEconómicos: Galaxy Grand Hotel, Star Gate Private Villa. Gama media: Jetwing St. Andrew's, Clifton Inn. Lujo: Heritance Tea Factory, The Grand Hotel Nuwara Eliya.",
     doveMangiare: 'De Silva Food Center, Grand Indian, Grand Thai o Themparadu (el más local); copas después de cenar en el Lakeview Pub.',
-    comeArrivare: 'Traslado desde Hatton/Nallathanniya, pasando por la Pedro Tea Plantation.',
+    comeArrivare: "Desde Hatton y Nallathanniya se tarda alrededor de hora y media-dos horas por carreteras entre el té, pasando por las cascadas de St. Clair y la Pedro Tea Plantation. Desde Kandy son unas 2 horas y media-3 horas en coche, desde Ella unas dos horas y media. La estación de tren es Nanu Oya, a unos 15 minutos del centro, en la línea panorámica entre Kandy y Ella; los autobuses llegan desde Kandy y Colombo.",
     comeSpostarsi: 'Furgoneta privada para Horton Plains, a pie por la ciudad.',
     periodoMigliore: "un día de sol para el trekking a World's End",
-    costi: 'Actividades en Nuwara Eliya (masaje, ceremonia del té) 5.000-8.000 LKR.',
+    costi: "Actividades en la ciudad (masaje, ceremonia del té) 5.000-8.000 LKR, unos 15-24 € (2023); Hakgala 3.540 LKR (unos 10 €); Horton Plains unos 25 USD más tasas y vehículo (2026). Presupuesto diario orientativo por persona: bajo 25-35 € (casa de huéspedes, restaurantes locales, autobús), medio 60-100 € (hotel en el centro, conductor para Horton Plains), alto desde 180 € (hoteles históricos y fincas de té).",
     erroriDaEvitare: [],
     miaEsperienza:
       "El traslado a la Pedro Tea Plantation fue mucho más corto de lo previsto, y así me quedó más tiempo para la tarde libre entre los valles de té verdísimos alrededor de Nuwara Eliya.",
@@ -959,7 +1502,9 @@ export const destinazioniSriLanka: Destinazione[] = [
         "testo": "Una plantación con su fábrica de té, donde se sigue el proceso de la hoja a la taza. El traslado desde Nallathanniya fue mucho más corto de lo previsto, así que me quedó más tiempo para una tarde libre entre los valles de té.",
         "come": "A unos 3,5 km al este de Nuwara Eliya, en la carretera hacia Kandapola: en furgoneta o tuk-tuk. Cerca está la cascada de Lover's Leap.",
         "quando": "Por la mañana o a primera hora de la tarde.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "lat": 6.96994,
+        "lng": 80.79555
       },
       {
         "nome": "World's End en Horton Plains",
@@ -968,19 +1513,91 @@ export const destinazioniSriLanka: Destinazione[] = [
         "quando": "Temprano por la mañana: después llegan la niebla y las nubes y la vista desaparece. Hace falta un día de sol.",
         "tempo": "3 horas caminando más el traslado",
         "costo": "Entrada al parque unos 25 USD por adulto extranjero, más impuestos, servicio y vehículo (2026)",
+        "orari": "Entrada desde las 6 (2026).",
+        "lat": 6.78318,
+        "lng": 80.79286,
+        "url": "https://www.dwc.gov.lk",
         "consiglio": "Salir de Nuwara Eliya al amanecer, para llegar al borde antes de las nubes."
       },
       {
         "nome": "Victoria Park y el lago",
         "testo": "Un parque ordenado de estilo inglés, con parterres y aves, en el corazón de la «pequeña Inglaterra» de Sri Lanka.",
         "come": "A pie desde el centro.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "lat": 6.96917,
+        "lng": 80.76806
       },
       {
         "nome": "Ceremonia del té y relax",
         "testo": "El té de la tarde en el Grand Hotel, un masaje o un paseo a la cascada de Lover's Leap, de unos 30 metros, entre las plantaciones.",
         "tempo": "medio día",
         "costo": "Actividades 5.000-8.000 LKR (del viaje de 2023)"
+      },
+      {
+        "nome": "Lago Gregory",
+        "testo": "El lago artificial creado en 1873 por voluntad del gobernador William Gregory, en el borde del centro. A su alrededor hay un paseo con jardines, hidropedales, barcas y caballos: el lugar donde las familias de Sri Lanka vienen a pasear los días de fiesta.",
+        "come": "A pie o en tuk-tuk desde el centro, unos 10 minutos.",
+        "quando": "Última hora de la tarde; los fines de semana y en abril hay muchísima gente.",
+        "tempo": "1-2 horas",
+        "lat": 6.95376,
+        "lng": 80.77954
+      },
+      {
+        "nome": "Jardín botánico de Hakgala",
+        "testo": "Un jardín botánico en una ladera a unos 1.700 metros, nacido a mediados del siglo XIX como plantación experimental de quina. Hoy tiene rosaledas, helechos arborescentes, orquídeas y bosque de montaña, con los langures de cara púrpura entre los árboles.",
+        "come": "A unos 10 km al sureste de Nuwara Eliya, en la carretera de Welimada: en tuk-tuk o coche.",
+        "quando": "Por la mañana, antes de que lleguen las nubes.",
+        "tempo": "1 hora y media-2 horas",
+        "costo": "3.540 LKR (unos 10 €) para adultos extranjeros, 1.770 LKR para niños de 5 a 12 años (2026)",
+        "orari": "Todos los días 7.30-18, taquilla hasta las 17 (2026).",
+        "lat": 6.92736,
+        "lng": 80.82006,
+        "url": "https://botanicgardens.gov.lk"
+      },
+      {
+        "nome": "Templo de Seetha Amman",
+        "testo": "Un colorido templo hindú cerca de Hakgala, ligado al Ramayana: según la tradición aquí estuvo prisionera Sita, raptada por el rey Ravana. En la roca junto al arroyo los fieles muestran huellas que atribuyen al elefante de Hanuman.",
+        "come": "En la carretera de Hakgala, a pocos minutos del jardín botánico.",
+        "quando": "Por la mañana, junto con Hakgala.",
+        "tempo": "30 minutos",
+        "lat": 6.9332,
+        "lng": 80.8105,
+        "consiglio": "Se entra descalzo; es un lugar de culto muy frecuentado por peregrinos indios."
+      },
+      {
+        "nome": "Oficina de correos de Nuwara Eliya",
+        "testo": "Un edificio de ladrillo rojo de estilo Tudor, con torre del reloj, de la época colonial inglesa, que sigue funcionando como oficina de correos. Es el símbolo de la «pequeña Inglaterra».",
+        "come": "En el centro, frente a la parada de autobuses, a pie.",
+        "tempo": "15 minutos",
+        "lat": 6.97159,
+        "lng": 80.76639,
+        "consiglio": "Se puede enviar una postal con sellos de Sri Lanka."
+      },
+      {
+        "nome": "Cascada de Lover's Leap",
+        "testo": "Una cascada de unos 30 metros sobre las plantaciones, a la que se llega con un corto paseo entre el té. El nombre viene de una leyenda de dos enamorados que se habrían lanzado desde el precipicio.",
+        "come": "Desde la carretera de la Pedro Tea Plantation, luego 15-20 minutos a pie por un sendero empinado.",
+        "quando": "Por la mañana, después de las lluvias.",
+        "tempo": "1 hora"
+      },
+      {
+        "nome": "Galway's Land",
+        "testo": "Un pequeño parque nacional de bosque de montaña en el borde de la ciudad, de los más ricos en aves de la isla, con muchas especies endémicas y migratorias en invierno.",
+        "come": "A pie o en tuk-tuk desde el centro, hacia el este.",
+        "quando": "Al amanecer, el mejor momento para observar aves.",
+        "tempo": "1-2 horas",
+        "lat": 6.96667,
+        "lng": 80.77722,
+        "url": "https://www.dwc.gov.lk"
+      },
+      {
+        "nome": "Moon Plains",
+        "testo": "Una meseta de hierba al sureste de la ciudad, con un mirador desde el que en los días claros se ven las montañas más altas de la isla, entre ellas el Adam's Peak.",
+        "come": "En tuk-tuk o jeep desde el centro, unos 20 minutos; el último tramo está reservado a vehículos autorizados.",
+        "quando": "Temprano por la mañana, antes de las nubes.",
+        "tempo": "1-2 horas",
+        "lat": 6.95049,
+        "lng": 80.8068
       }
     ],
     programmi: [
@@ -991,18 +1608,41 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Almuerzo en Nuwara Eliya",
           "Tarde: Pedro Tea Plantation y té en el Grand Hotel"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Pedro Tea Plantation y Lover's Leap, el centro con la oficina de correos y el Victoria Park, té en el Grand Hotel",
+          "Día 2: World's End en Horton Plains al amanecer, tarde en Hakgala y el templo de Seetha Amman, noche en el lago Gregory"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: plantaciones de té, Lover's Leap y el centro",
+          "Día 2: Horton Plains y World's End al amanecer",
+          "Día 3: Galway's Land al amanecer, Moon Plains, Hakgala y Seetha Amman; a la mañana siguiente tren desde Nanu Oya a Ella"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Centro de Nuwara Eliya",
         "perChi": "quien quiera caminar",
-        "testo": "Hoteles y restaurantes a pocos minutos del parque y el mercado. Más ruido y tráfico."
+        "testo": "Hoteles y restaurantes a pocos minutos del parque y el mercado. Más ruido y tráfico.",
+        "fascia": "30-90 €"
       },
       {
         "nome": "Colinas del té",
         "perChi": "vistas y calma",
-        "testo": "Plantaciones y resorts con encanto como el Heritance Tea Factory, más lejos del centro."
+        "testo": "Plantaciones y resorts con encanto como el Heritance Tea Factory, más lejos del centro.",
+        "fascia": "120-250 €"
+      },
+      {
+        "nome": "Lago Gregory",
+        "perChi": "familias y paseos",
+        "testo": "Hoteles y casas de huéspedes alrededor del lago, a pocos minutos del centro: más verde y menos tráfico, con el paseo junto al lago a la puerta.",
+        "fascia": "40-110 €"
       }
     ],
     sapori: [
@@ -1028,6 +1668,52 @@ export const destinazioniSriLanka: Destinazione[] = [
       "En World's End sin sol no hay panorama: comprueba las condiciones y sal temprano.",
       "No lleves plástico de un solo uso a Horton Plains, donde está prohibido.",
       "En los senderos permanece siempre en el camino señalizado: hay precipicios sin protección."
+    ],
+    gite: [
+      {
+        "nome": "Horton Plains y World's End",
+        "distanza": "alrededor de 1 hora",
+        "come": "En coche o jeep con conductor, saliendo al amanecer; luego un circuito de unos 9,5 km a pie.",
+        "testo": "La meseta por encima de los 2.000 metros con el precipicio de 870 metros de World's End y las Baker's Falls: una de las caminatas más bonitas de la isla."
+      },
+      {
+        "nome": "Ella en tren",
+        "distanza": "3 horas sobre el papel",
+        "come": "Tren panorámico desde la estación de Nanu Oya, con asientos reservados con antelación.",
+        "testo": "El tramo más fotografiado de Sri Lanka, entre valles de té, puentes y túneles. Los retrasos son la norma."
+      },
+      {
+        "nome": "Cascadas de St. Clair y Devon",
+        "distanza": "alrededor de 1 hora",
+        "come": "En coche por la carretera de Hatton.",
+        "testo": "Dos grandes cascadas entre las plantaciones, visibles desde miradores en la carretera principal."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Hace frío en Nuwara Eliya?",
+        "risposta": "A 1.868 metros las noches son frescas todo el año y en Horton Plains al amanecer hace todavía más frío. Hace falta un forro polar o una sudadera gruesa."
+      },
+      {
+        "domanda": "¿Se puede hacer Horton Plains en el día desde Nuwara Eliya?",
+        "risposta": "Sí, está a alrededor de una hora. Conviene salir al amanecer: a partir de media mañana las nubes suelen cubrir World's End."
+      },
+      {
+        "domanda": "¿Cuánto cuesta Horton Plains?",
+        "risposta": "La entrada para adultos extranjeros es de unos 25 USD, más tasas, servicio y vehículo (2026); se paga en la entrada del parque, que abre a las 6."
+      },
+      {
+        "domanda": "¿Qué plantación de té visitar?",
+        "risposta": "La Pedro Tea Plantation está a unos 3,5 km del centro, con visita a la fábrica y degustación; cerca está la cascada de Lover's Leap."
+      },
+      {
+        "domanda": "¿De dónde sale el tren a Ella?",
+        "risposta": "De la estación de Nanu Oya, a unos 15 minutos del centro. Los asientos reservados hay que comprarlos con antelación en el portal de Sri Lanka Railways."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta?",
+        "risposta": "Un día basta para el té y el centro; con dos se añade Horton Plains al amanecer, con tres también Hakgala y los alrededores."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
@@ -1289,10 +1975,10 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveDormire:
       "Dormimos en el Sapphire Seas Beachfront Hotel, con reseñas muy positivas: un hotel boutique justo en el mar, habitaciones espaciosas y una limpieza que mencionan muchos. Alguien lo describe como \"un oasis\" respecto a las zonas más transitadas de Hikkaduwa.\n\nEconómicos: Hilda Guest House, Amaroo Hikkaduwa. Gama media: Sea Star Boutique Hotel, Hikka Tranz by Cinnamon. Lujo: Crystal Sands, Aditya Resort.",
     doveMangiare: "Cena en la playa (tomamos el red snapper: servicio lento pero cena excelente); Steffi's Mandala (vegetariano) o Thambili Cafe a la hora de comer; Sea Salt Society o Canal View para cenar.",
-    comeArrivare: 'Unas 2 h 15-2 h 40 de traslado desde Ella, pasando por el safari en Yala.',
+    comeArrivare: "Desde Colombo y el aeropuerto se llega en unas 2 horas y media-3 horas por la autopista del sur; desde Negombo hace falta alrededor de una hora más. El tren costero desde Colombo Fort para en Hikkaduwa en unas dos horas y media, con el mar al otro lado de la ventanilla. Desde Ella, pasando por el safari de Yala, el viaje ocupa un día; Galle está a una media hora en coche o tuk-tuk.",
     comeSpostarsi: 'A pie por la playa.',
     periodoMigliore: 'noviembre, cuando fuimos, aunque entre un monzón y otro en la costa pueden llegar lluvias y tormentas',
-    costi: 'Safari en Yala 12.000-16.000 LKR por jeep, más la entrada (27-30 € por persona) y la propina.',
+    costi: "Safari en Yala 12.000-16.000 LKR por jeep, más la entrada (27-30 € por persona) y la propina (2023); Museo del Tsunami con donativo libre. Presupuesto diario orientativo por persona: bajo 25-35 € (casa de huéspedes en Narigama, rice and curry, tuk-tuk), medio 60-100 € (hotel frente al mar, esnórquel, restaurantes de pescado), alto desde 150 € (resort en la playa, excursiones privadas).",
     erroriDaEvitare: ['Fiarse de los "pescadores sobre postes" a lo largo de la costa sur: ya son casi siempre una puesta en escena de pago para turistas'],
     miaEsperienza:
       "Después de días llenos de templos y trekking, las playas de Hikkaduwa fueron la manera adecuada de cerrar el viaje. El red snapper comido en la playa una noche, con el servicio lento y el mar a dos pasos, es uno de los recuerdos más verdaderos de todo Sri Lanka.",
@@ -1304,6 +1990,9 @@ export const destinazioniSriLanka: Destinazione[] = [
         "quando": "A primera hora de la mañana o al final de la tarde, cuando los animales están activos.",
         "tempo": "4 horas",
         "costo": "Jeep 12.000-16.000 LKR, más la entrada (27-30 € por persona) y propina (del viaje de 2023); la entrada básica es de unos 25 USD por adulto extranjero, más impuestos, servicio y vehículo (2026)",
+        "lat": 6.57097,
+        "lng": 81.50728,
+        "url": "https://www.dwc.gov.lk",
         "consiglio": "Los leopardos no están garantizados: pregunta al conductor dónde se han avistado."
       },
       {
@@ -1318,13 +2007,51 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Museo del Tsunami",
         "testo": "Un museo dedicado al tsunami de 2004, que mató a miles de personas en la costa sur. Un momento serio en medio de unas vacaciones de playa.",
         "come": "En tuk-tuk desde Hikkaduwa.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "lat": 6.16879,
+        "lng": 80.08797
       },
       {
         "nome": "Río Madu, surf y Big Buddha",
         "testo": "Safari en barca por el río Madu entre manglares, la gran estatua de Buda en la costa y, para los amantes del mar, surf, snorkel y buceo.",
         "come": "Excursiones desde Hikkaduwa en tuk-tuk o barco.",
         "tempo": "medio día"
+      },
+      {
+        "nome": "Arrecife de coral de Hikkaduwa",
+        "testo": "El arrecife de coral frente al centro está protegido como parque nacional marino: peces de colores, corales y tortugas a pocos metros de la orilla. El tsunami de 2004 y el blanqueamiento lo dañaron, pero sigue siendo el punto de esnórquel más cómodo de la costa.",
+        "come": "Desde la playa con gafas y aletas, o con las barcas con fondo de cristal que salen de la orilla.",
+        "quando": "Por la mañana, con el mar en calma, aproximadamente de noviembre a abril.",
+        "tempo": "1-2 horas",
+        "lat": 6.145,
+        "lng": 80.0925,
+        "consiglio": "No pisar ni tocar los corales; el precio de la barca se acuerda antes."
+      },
+      {
+        "nome": "Playa de Narigama",
+        "testo": "El tramo de playa al sur del centro, con las mejores olas para el surf, escuelas y alquiler de tablas, casas de huéspedes y locales sobre la arena. Por la noche es el corazón de la vida nocturna de Hikkaduwa.",
+        "come": "A pie por la playa o en tuk-tuk desde la carretera principal.",
+        "quando": "Surf de noviembre a abril; atardecer por el ambiente.",
+        "tempo": "media jornada",
+        "lat": 6.11952,
+        "lng": 80.11506
+      },
+      {
+        "nome": "Seenigama Muhudu Viharaya",
+        "testo": "Un pequeño templo budista en un islote a pocos metros de la costa, al norte de Hikkaduwa. En tierra firme, enfrente, hay un santuario donde los fieles vienen a pedir justicia o a lanzar maldiciones contra quien les ha ofendido.",
+        "come": "En tuk-tuk hacia el norte, unos 10 minutos; al islote se llega en barca.",
+        "tempo": "45 minutos",
+        "lat": 6.15726,
+        "lng": 80.09302
+      },
+      {
+        "nome": "Buda del tsunami de Peraliya",
+        "testo": "Una estatua de Buda de pie de unos 18 metros, inspirada en los Budas de Bamiyán, construida con ayuda de Japón cerca del lugar donde la ola de 2004 arrolló un tren lleno de pasajeros. Es el Big Buddha que se ve desde la carretera costera.",
+        "come": "En la carretera costera al norte de Hikkaduwa, unos 15 minutos en tuk-tuk; se combina bien con el Museo del Tsunami.",
+        "tempo": "30 minutos",
+        "lat": 6.16308,
+        "lng": 80.09175,
+        "consiglio": "Es también un memorial: ropa que cubra y respeto por quien viene a rezar."
       }
     ],
     programmi: [
@@ -1334,18 +2061,43 @@ export const destinazioniSriLanka: Destinazione[] = [
           "Día 1: safari en Yala en el traslado desde Ella y cena en la playa",
           "Día 2: snorkel con tortugas por la mañana, Museo del Tsunami y tarde en la playa"
         ]
+      },
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: esnórquel con las tortugas y en el arrecife de coral",
+          "Comida en Steffi's Mandala o en el Thambili Cafe",
+          "Tarde: Museo del Tsunami y Buda de Peraliya",
+          "Atardecer en Narigama y cena de pescado"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: safari en Yala durante el traslado desde Ella, cena en la playa",
+          "Día 2: tortugas y arrecife de coral, Museo del Tsunami, Peraliya y Seenigama",
+          "Día 3: fuerte de Galle por la mañana, tarde de surf o safari en barca por el río Madu"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Paseo marítimo de Hikkaduwa",
         "perChi": "vida nocturna y surf",
-        "testo": "Locales, escuelas de surf y hoteles a lo largo de la calle principal. Ruidosa y con tráfico."
+        "testo": "Locales, escuelas de surf y hoteles a lo largo de la calle principal. Ruidosa y con tráfico.",
+        "fascia": "40-110 €"
       },
       {
         "nome": "Hoteles frente al mar fuera del centro",
         "perChi": "calma",
-        "testo": "Hoteles boutique como el Sapphire Seas, directamente en la playa, en zonas menos transitadas."
+        "testo": "Hoteles boutique como el Sapphire Seas, directamente en la playa, en zonas menos transitadas.",
+        "fascia": "60-150 €"
+      },
+      {
+        "nome": "Narigama",
+        "perChi": "surf y presupuesto ajustado",
+        "testo": "Casas de huéspedes, albergues y pequeños hoteles en el tramo de playa con las mejores olas, cerca de los locales: barato y animado, ruidoso por la noche.",
+        "fascia": "15-50 €"
       }
     ],
     sapori: [
@@ -1371,6 +2123,58 @@ export const destinazioniSriLanka: Destinazione[] = [
       "En octubre y noviembre, entre los dos monzones, en la costa sur pueden llegar tormentas y mar agitado: pregunta en el hotel antes de bañarte.",
       "Safari en Yala: elige operadores que respeten las distancias a los animales y los límites de jeeps en los avistamientos.",
       "Corrientes y olas altas en el sur: nada donde haya otras personas y respeta las banderas."
+    ],
+    gite: [
+      {
+        "nome": "Fuerte de Galle",
+        "distanza": "unos 20 km, 30 minutos",
+        "come": "En coche, tuk-tuk o tren costero.",
+        "testo": "La ciudad fortificada de los holandeses, patrimonio de la UNESCO: bastiones sobre el mar, faro, iglesias, callejuelas con cafés y tiendas. Al atardecer los bastiones se llenan de gente."
+      },
+      {
+        "nome": "Río Madu",
+        "distanza": "unos 30 minutos",
+        "come": "En coche o tuk-tuk hasta Balapitiya, luego en barca.",
+        "testo": "Safari en barca entre manglares e islotes, con un templo en una isla y la vida de los pueblos sobre el agua."
+      },
+      {
+        "nome": "Centro de tortugas de Bentota",
+        "distanza": "unos 45 minutos",
+        "come": "En coche por la carretera hacia Colombo y Negombo.",
+        "testo": "Tanques con tortugas marinas y crías antes de su liberación en el mar: una parada cómoda en el camino de vuelta. Entrada unas 1.000-2.000 LKR (2023)."
+      },
+      {
+        "nome": "Mirissa",
+        "distanza": "alrededor de 1 hora y media",
+        "come": "En coche o tren costero hacia el sur.",
+        "testo": "Una bahía con palmeras y playa clara, punto de salida de las excursiones en barco para ver ballenas de diciembre a abril."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuándo es la mejor temporada en Hikkaduwa?",
+        "risposta": "El mar de la costa suroeste está en calma aproximadamente de noviembre a abril. En octubre y noviembre, entre los dos monzones, todavía pueden llegar tormentas."
+      },
+      {
+        "domanda": "¿Dónde se nada con tortugas?",
+        "risposta": "Delante del Hikka Tranz by Cinnamon Hotel, a pocos metros de la orilla, mejor temprano por la mañana. Las tortugas no se tocan ni se alimentan."
+      },
+      {
+        "domanda": "¿Es Hikkaduwa buena para el surf?",
+        "risposta": "Sí, sobre todo en Narigama, con escuelas y alquiler de tablas en la playa; de noviembre a abril hay olas también para principiantes."
+      },
+      {
+        "domanda": "¿Hikkaduwa o Mirissa?",
+        "risposta": "Hikkaduwa tiene el arrecife de coral, las tortugas y más vida nocturna; Mirissa es más pequeña, con su bahía y las salidas para ver ballenas. Están a alrededor de hora y media una de otra."
+      },
+      {
+        "domanda": "¿A qué distancia está el fuerte de Galle?",
+        "risposta": "A unos 20 km, media hora en coche o tuk-tuk, o algo más en tren: se visita bien en media jornada."
+      },
+      {
+        "domanda": "¿Se paga el Museo del Tsunami?",
+        "risposta": "Funciona con donativo libre: cuenta con fotos y testimonios lo que el tsunami de 2004 hizo a esta costa."
+      }
     ],
     esperienzeSlugs: ['safari-yala'],
     tripSlugs: ['sri-lanka-2023'],

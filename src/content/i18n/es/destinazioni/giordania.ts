@@ -249,7 +249,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Madaba y Monte Nebo",
         "distanza": "Madaba unos 45 minutos, el Monte Nebo media hora más",
         "come": "Coche o taxi para el día; combina bien con el Mar Muerto.",
-        "testo": "Madaba es la ciudad de los mosaicos, con el mapa bizantino de Tierra Santa en la iglesia de San Jorge; el Monte Nebo tiene la basílica de los mosaicos y la vista sobre el valle del Jordán. Parque arqueológico de Madaba 3 JOD, Monte Nebo 2 JOD."
+        "testo": "Madaba es la ciudad de los mosaicos, con el mapa bizantino de Tierra Santa en la iglesia de San Jorge; el Monte Nebo tiene la basílica de los mosaicos y la vista sobre el valle del Jordán. Parque arqueológico de Madaba 3 JOD, Monte Nebo 3 JOD."
       },
       {
         "nome": "Mar Muerto",
@@ -309,10 +309,10 @@ export const destinazioniGiordania: Destinazione[] = [
     cosaFare: ['Visita guiada al yacimiento arqueológico'],
     doveDormire: 'No pernocté aquí: parada de paso entre Amán y el Mar Muerto.',
     doveMangiare: 'No tengo direcciones que señalar: nos detuvimos sobre todo para la visita.',
-    comeArrivare: 'Aproximadamente 1h de transfer desde Amán, con parada para comprar alcohol por el camino.',
+    comeArrivare: "Aproximadamente 1h de transfer desde Amán, con parada para comprar alcohol por el camino. Jerash está a unos 50 km al norte de la capital: se llega en coche de alquiler, en taxi por día o con una excursión organizada. El aparcamiento y la taquilla están junto al Arco de Adriano, en la entrada sur del yacimiento.",
     comeSpostarsi: 'A pie dentro del yacimiento arqueológico.',
     periodoMigliore: 'mañana, antes del calor y de los grupos organizados',
-    costi: 'Entrada incluida en el Jordan Pass.',
+    costi: "Entrada incluida en el Jordan Pass. Sin pase la entrada cuesta 10 JOD (unos 12 €), museo incluido (2026). Presupuesto bajo unos 40-60 € al día por persona (minibús o taxi compartido desde Amán, falafel y hummus); medio 80-120 € (taxi por día con Ajloun, almuerzo en restaurante); alto desde 180 € (conductor privado y guía).",
     erroriDaEvitare: [],
     miaEsperienza:
       'Jerash fue una bonita sorpresa: una de las ciudades romanas mejor conservadas que he visto nunca, con el cardo con columnas que se pierde de vista. Mucho más que una parada de paso.',
@@ -324,8 +324,11 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "El aparcamiento está junto al arco; la taquilla queda cerca.",
         "quando": "Abierto de 8 a 17 (2026). Mejor a primera hora, antes de los grupos.",
         "tempo": "30 minutos",
-        "costo": "10 JOD para extranjeros, o incluido en el Jordan Pass (2026)",
-        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+        "costo": "10 JOD (unos 12 €) para extranjeros, museo incluido; incluido en el Jordan Pass (2026)",
+        "orari": "Todos los días de 8 a 17 h (2026).",
+        "lat": 32.27222,
+        "lng": 35.89111,
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees"
       },
       {
         "nome": "Foro Oval y Cardo Máximo",
@@ -333,6 +336,10 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Se recorre a pie de sur a norte.",
         "quando": "A primera hora y al final de la tarde por la luz sobre las columnas.",
         "tempo": "1 hora",
+        "costo": "Incluido en la entrada de Jerash",
+        "orari": "Con el yacimiento, de 8 a 17 h.",
+        "lat": 32.27748,
+        "lng": 35.89072,
         "consiglio": "Mirar el empedrado del cardo: las piedras siguen siendo las originales y se ven los surcos que dejaron los carros."
       },
       {
@@ -340,7 +347,66 @@ export const destinazioniGiordania: Destinazione[] = [
         "testo": "El teatro grande, con más de 3.000 asientos, donde la voz se oye en todas las gradas hablando desde el centro de la orquesta, y a menudo tocan gaitas y tambores; después el santuario de Artemisa en la parte más alta, con columnas que se ven de lejos.",
         "come": "Desde el foro se sube al teatro y luego al templo en la colina.",
         "quando": "Media mañana, cuando la luz es alta y el teatro resuena.",
-        "tempo": "1 hora"
+        "tempo": "1 hora",
+        "costo": "Incluido en la entrada de Jerash",
+        "orari": "Con el yacimiento, de 8 a 17 h.",
+        "lat": 32.27669,
+        "lng": 35.88945
+      },
+      {
+        "nome": "Hipódromo",
+        "testo": "La pista de carreras de carros, de casi 250 metros, justo después del Arco de Adriano. Las gradas se han reconstruido en parte y se camina por la propia pista.",
+        "come": "A pie desde el Arco de Adriano, a la izquierda antes de la taquilla.",
+        "quando": "Al principio de la visita, por la mañana.",
+        "tempo": "20 minutos",
+        "costo": "Incluido en la entrada de Jerash",
+        "orari": "Con el yacimiento, de 8 a 17 h.",
+        "lat": 32.27297,
+        "lng": 35.89109
+      },
+      {
+        "nome": "Templo de Zeus",
+        "testo": "El santuario en la colina sobre el Foro Oval, reconstruido en el siglo II sobre un lugar de culto más antiguo. Quedan el podio, algunas columnas y la vista desde arriba de la plaza y el cardo.",
+        "come": "Desde el Foro Oval se sube a pie por una rampa corta, a la izquierda de la plaza.",
+        "quando": "Por la mañana, antes del Teatro Sur que está al lado.",
+        "tempo": "20 minutos",
+        "costo": "Incluido en la entrada de Jerash",
+        "orari": "Con el yacimiento, de 8 a 17 h.",
+        "lat": 32.2768,
+        "lng": 35.89033
+      },
+      {
+        "nome": "Ninfeo",
+        "testo": "La gran fuente monumental del cardo, dedicada a las ninfas y construida en el año 191, con dos órdenes de hornacinas y el estanque abajo. Estaba revestida de mármol y el agua salía por cabezas de león.",
+        "come": "En el cardo, a medio camino entre el Foro Oval y el Teatro Norte.",
+        "quando": "Por la tarde, con el sol en la fachada.",
+        "tempo": "15 minutos",
+        "costo": "Incluido en la entrada de Jerash",
+        "orari": "Con el yacimiento, de 8 a 17 h.",
+        "lat": 32.28057,
+        "lng": 35.89221
+      },
+      {
+        "nome": "Catedral e iglesias bizantinas",
+        "testo": "Detrás del Ninfeo se sube a la catedral del siglo IV y, un poco más allá, a la iglesia de San Teodoro y al grupo de iglesias con suelos de mosaico. Muestran la ciudad cristiana que sustituyó a la romana.",
+        "come": "Por la escalinata junto al Ninfeo, a pie.",
+        "quando": "Media mañana o por la tarde.",
+        "tempo": "30-45 minutos",
+        "costo": "Incluido en la entrada de Jerash",
+        "orari": "Con el yacimiento, de 8 a 17 h.",
+        "lat": 32.28056,
+        "lng": 35.89164
+      },
+      {
+        "nome": "Teatro Norte",
+        "testo": "El teatro pequeño, inaugurado en el año 165 y ampliado después, que servía también para las reuniones del consejo de la ciudad. En las filas más bajas aún se leen nombres griegos grabados en la piedra.",
+        "come": "Al final del cardo, girando a la izquierda por el decumano norte.",
+        "quando": "Al final de la visita, por la tarde, con menos gente.",
+        "tempo": "20 minutos",
+        "costo": "Incluido en la entrada de Jerash",
+        "orari": "Con el yacimiento, de 8 a 17 h.",
+        "lat": 32.2826,
+        "lng": 35.89221
       }
     ],
     programmi: [
@@ -353,18 +419,42 @@ export const destinazioniGiordania: Destinazione[] = [
           "Teatro Sur",
           "Templo de Artemisa"
         ]
+      },
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Jerash a la hora de apertura, del Arco de Adriano al Teatro Norte",
+          "Almuerzo en la ciudad moderna",
+          "Tarde: Castillo de Ajloun",
+          "Regreso a Amán para cenar"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Jerash y Castillo de Ajloun",
+          "Noche en Amán o en Ajloun",
+          "Día 2: Umm Qais, con la vista sobre el lago de Tiberíades",
+          "Regreso a Amán"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Amán",
         "perChi": "quien la visita en el día",
-        "testo": "Jerash está a unos 50 km de Amán, así que se va con conductor o en tour. Dormir en la capital es más cómodo."
+        "testo": "Jerash está a unos 50 km de Amán, así que se va con conductor o en tour. Dormir en la capital es más cómodo.",
+        "fascia": "25-140 €"
       },
       {
         "nome": "Ciudad de Jerash",
         "perChi": "quien quiere verla al amanecer",
         "testo": "Unos pocos hoteles sencillos cerca del sitio, útiles para entrar a la apertura antes de los grupos."
+      },
+      {
+        "nome": "Ajloun",
+        "perChi": "quien añade el castillo y el norte",
+        "testo": "Pequeña ciudad en las colinas boscosas a unos 25 km de Jerash, con algunos hoteles y casas de huéspedes sencillos. Práctica para dormir entre Jerash y Umm Qais."
       }
     ],
     sapori: [
@@ -391,6 +481,52 @@ export const destinazioniGiordania: Destinazione[] = [
       "Los puestos de la salida venden recuerdos a precios inflados: regatear siempre."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Castillo de Ajloun",
+        "distanza": "unos 25 km, 40 minutos en coche",
+        "come": "En coche o taxi hacia el oeste; se combina con Jerash en el mismo día.",
+        "testo": "La fortaleza ayubí de finales del siglo XII, en lo alto de una colina con vista al valle del Jordán. Entrada 3 JOD (unos 3,60 €), museo incluido, o con el Jordan Pass; abierto de 8 a 17 h."
+      },
+      {
+        "nome": "Umm Qais (Gadara)",
+        "distanza": "unos 80 km, 1 hora y media en coche",
+        "come": "En coche hacia el norte pasando por Irbid; con Jerash ocupa un día entero.",
+        "testo": "La ciudad grecorromana de Gadara, de basalto negro, en el extremo noroeste del país, con vista al lago de Tiberíades y a los Altos del Golán. Abierta de 8 a 17 h, incluida en el Jordan Pass."
+      },
+      {
+        "nome": "Amán",
+        "distanza": "unos 50 km, 1 hora en coche",
+        "come": "Coche, taxi o excursión; muchos visitan Jerash en el día desde la capital.",
+        "testo": "La Ciudadela, el Teatro Romano y Rainbow Street. Es la base más cómoda para dormir, con hoteles de todos los precios."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto tiempo hace falta para visitar Jerash?",
+        "risposta": "Tres o cuatro horas bastan para el recorrido del Arco de Adriano al Teatro Norte. Con media jornada más se añade el Castillo de Ajloun."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada a Jerash?",
+        "risposta": "10 JOD (unos 12 €) para extranjeros, museo incluido (2026). Con el Jordan Pass la entrada ya está incluida."
+      },
+      {
+        "domanda": "¿Se puede ir a Jerash en el día desde Amán?",
+        "risposta": "Sí, son unos 50 km y una hora de carretera. Se va en coche, en taxi por día o en excursión, y se vuelve para cenar."
+      },
+      {
+        "domanda": "¿Cuál es la mejor hora?",
+        "risposta": "La apertura a las 8: hay menos gente y menos calor. En el yacimiento casi no hay sombra, así que en verano después de las 11 cuesta."
+      },
+      {
+        "domanda": "¿Hace falta guía en Jerash?",
+        "risposta": "No es obligatoria: los paneles explican los monumentos principales. Un guía ayuda a entender la ciudad, pero hay que acordar el precio antes."
+      },
+      {
+        "domanda": "¿Qué se combina con Jerash en el mismo día?",
+        "risposta": "El Castillo de Ajloun, a unos 40 minutos. Con un día más se puede llegar a Umm Qais, en el extremo norte."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'El cardo con columnas de Jerash entre prados verdes, con la ciudad moderna al fondo, Jordania',
@@ -416,10 +552,10 @@ export const destinazioniGiordania: Destinazione[] = [
     doveDormire:
       'Dormí en el Holiday Inn Resort Dead Sea by IHG. Las reseñas online (Tripadvisor, unas 5.600, media 4/5) lo describen como un resort de gama media-alta con personal atento, tres piscinas, playa privada y buffet abundante; los defectos más citados son los precios altos de comida y bebida, algún problema de mantenimiento en las habitaciones y la prohibición de llevar comida de fuera.\n\nEconómicos: Ramada Resort by Wyndham Dead Sea, O Beach Hotel & Resort (acceso directo al mar a una fracción del precio) · gama media: Dead Sea Spa Hotel, Crowne Plaza Jordan Dead Sea Resort & Spa (la franja del Holiday Inn) · más lujosos: Hilton Dead Sea Resort & Spa, Kempinski Hotel Ishtar Dead Sea.',
     doveMangiare: 'Haret Jdoudna o Hikayet Sitti en Madaba; copa después de cenar en el bar del Grand Hotel Madaba o en el Saint John Sky Bar.',
-    comeArrivare: 'Aproximadamente 1h30 de transfer desde Jerash.',
+    comeArrivare: "Aproximadamente 1h30 de transfer desde Jerash. Desde Amán la carretera baja durante una hora hasta los resorts de Sweimeh, en la orilla noreste, donde están casi todos los hoteles y las playas equipadas. No hay autobuses regulares cómodos: se va en coche de alquiler, en taxi o con el traslado del hotel. Madaba y el Monte Nebo están a 40 minutos de subida, el Lugar del Bautismo a un cuarto de hora.",
     comeSpostarsi: 'A pie en el resort, transfer organizado a Madaba para la cena.',
     periodoMigliore: 'atardecer',
-    costi: 'no apunté los precios del resort: conviene compararlos en el momento de reservar.',
+    costi: "no apunté los precios del resort: conviene compararlos en el momento de reservar. Presupuesto bajo unos 50-80 € al día por persona (hotel en Madaba, playa pública, comida local); medio 120-180 € (resort de gama media junto al mar, cena de bufé); alto desde 250 € (resort de lujo con spa). Lugar del Bautismo 12 JOD (unos 14,50 €), Siq Trail del Mujib 21 JOD más impuestos (unos 29 €), parque arqueológico de Madaba 3 JOD o con el Jordan Pass (2026).",
     erroriDaEvitare: ['Salir hacia las zonas más conservadoras o el desierto sin haber comprado el alcohol en Madaba (Soho o Hangover)'],
     miaEsperienza:
       'Flotar a ras de agua viendo cómo el sol se pone tras las colinas de Cisjordania es una experiencia aparte. Al atardecer, creo, el Mar Muerto da más de lo que se espera.',
@@ -439,6 +575,8 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Madaba está a una media hora de Amán y a una hora del mar Muerto; el centro se visita a pie.",
         "quando": "Mañana, cuando la iglesia está menos concurrida.",
         "tempo": "1-2 horas",
+        "lat": 31.71765,
+        "lng": 35.7942,
         "consiglio": "Combinarla con una cena en un restaurante del casco antiguo."
       },
       {
@@ -447,9 +585,76 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "En coche desde el mar Muerto. La entrada estándar incluye lanzadera y guía local.",
         "quando": "Entrada desde las 8; última entrada a las 16 de noviembre a marzo y a las 17 de abril a octubre (2026). Mejor por la mañana, antes del calor.",
         "tempo": "1,5-2 horas",
+        "costo": "12 JOD (unos 14,50 €) para extranjeros (2026)",
+        "orari": "Todos los días desde las 8; última entrada a las 16 de noviembre a marzo y a las 17 de abril a octubre (2026).",
+        "lat": 31.83722,
+        "lng": 35.55028,
         "url": "https://www.baptismsite.com/",
-        "consiglio": "Llevar sombrero y agua: el recorrido va casi todo al sol.",
-        "costo": "12 JOD para extranjeros (2026)"
+        "consiglio": "Llevar sombrero y agua: el recorrido va casi todo al sol."
+      },
+      {
+        "nome": "Amman Beach",
+        "testo": "La playa pública equipada más conocida, con duchas, sombrillas y piscinas, alternativa a los resorts para quien no duerme junto al mar. Los fines de semana se llena de familias jordanas.",
+        "come": "En coche o taxi, entre los resorts de Sweimeh; se paga a la entrada.",
+        "quando": "Entre semana, por la tarde hasta la puesta de sol.",
+        "tempo": "2-3 horas",
+        "lat": 31.69952,
+        "lng": 35.581
+      },
+      {
+        "nome": "Dead Sea Panorama",
+        "testo": "Un complejo al borde del escarpe sobre el mar, con un pequeño museo sobre la geología, la historia y el medio ambiente del Mar Muerto y una terraza con vista a toda la costa. Al atardecer la luz cae sobre Cisjordania, enfrente.",
+        "come": "En coche por la carretera que sube hacia Ma'in, unos 20 minutos desde los resorts.",
+        "quando": "Última hora de la tarde, por la vista con luz baja.",
+        "tempo": "1 hora",
+        "orari": "Museo de 9 a 17 h (2026).",
+        "lat": 31.62954,
+        "lng": 35.58436
+      },
+      {
+        "nome": "Wadi Mujib, el Siq Trail",
+        "testo": "El sendero de agua más conocido de la Reserva de Mujib: se remonta el río entre paredes de arenisca, caminando y a ratos nadando, hasta una cascada. Uno se moja de la cabeza a los pies.",
+        "come": "Desde el centro de visitantes en la carretera de la costa, al sur de los resorts. Calzado que se pueda mojar y nada que tema el agua.",
+        "quando": "Solo en la temporada cálida: en invierno los senderos de agua cierran por las crecidas.",
+        "tempo": "2-3 horas",
+        "costo": "21 JOD más el 16% de impuestos, unos 29 € (2026)",
+        "lat": 31.46712,
+        "lng": 35.57314,
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees",
+        "consiglio": "No ir si ha llovido hace poco en la zona: el nivel del río sube muy rápido."
+      },
+      {
+        "nome": "Hammamat Ma'in",
+        "testo": "Las fuentes termales en una garganta sobre el Mar Muerto, con cascadas de agua caliente que bajan por las rocas. Una parte está reservada a un resort; la otra está abierta al público con entrada.",
+        "come": "En coche desde Madaba o desde el Mar Muerto, por una carretera de curvas.",
+        "quando": "En invierno, cuando el agua caliente se agradece; en verano hace mucho calor.",
+        "tempo": "2-3 horas",
+        "lat": 31.60947,
+        "lng": 35.61046
+      },
+      {
+        "nome": "Parque arqueológico de Madaba",
+        "testo": "En el centro de Madaba, un recinto con un tramo de calzada romana, la iglesia de la Virgen y la Sala de Hipólito con sus mosaicos, además del museo. Completa bien la visita al mapa de San Jorge.",
+        "come": "A pie desde la iglesia de San Jorge, pocos minutos.",
+        "quando": "Por la mañana, junto con el mapa de mosaico.",
+        "tempo": "1 hora",
+        "costo": "3 JOD (unos 3,60 €), museo incluido; incluido en el Jordan Pass (2026)",
+        "orari": "De 8 a 16 h (2026).",
+        "lat": 31.71615,
+        "lng": 35.7955,
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees"
+      },
+      {
+        "nome": "Museo del punto más bajo de la Tierra y Cueva de Lot",
+        "testo": "En Ghor es-Safi, en la orilla sur, un museo cuenta la historia de la zona más baja del planeta. Encima, en una ladera, están la cueva y los restos del monasterio bizantino que la tradición vincula a Lot.",
+        "come": "En coche por la carretera del Mar Muerto hacia el sur, una hora y media desde los resorts; a la cueva se sube a pie por una escalinata.",
+        "quando": "Por la mañana, antes de que apriete el calor del valle.",
+        "tempo": "1,5 horas",
+        "costo": "Museo 2 JOD (unos 2,40 €), incluido en el Jordan Pass (2026)",
+        "orari": "Museo de 8 a 17.15 h (2026).",
+        "lat": 31.05043,
+        "lng": 35.5023,
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       }
     ],
     programmi: [
@@ -461,18 +666,42 @@ export const destinazioniGiordania: Destinazione[] = [
           "Tarde: traslado al Mar Muerto",
           "Baño y barro, luego atardecer sobre el mar"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Madaba, el mapa de mosaico y el parque arqueológico, luego baño en el Mar Muerto al atardecer",
+          "Día 2 por la mañana: Lugar del Bautismo",
+          "Día 2 por la tarde: Dead Sea Panorama y puesta de sol desde la terraza"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Madaba y baño al atardecer",
+          "Día 2: Lugar del Bautismo y Hammamat Ma'in",
+          "Día 3: Wadi Mujib (Siq Trail, en temporada cálida) y Museo del punto más bajo de la Tierra, luego hacia Karak"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Resorts junto al mar",
         "perChi": "quien quiere acceso directo a la playa",
-        "testo": "Cómodos, con piscinas y spa. Los precios de comida y bebida son altos y a menudo no se puede entrar con comida de fuera."
+        "testo": "Cómodos, con piscinas y spa. Los precios de comida y bebida son altos y a menudo no se puede entrar con comida de fuera.",
+        "fascia": "90-150 €"
       },
       {
         "nome": "Madaba",
         "perChi": "quien quiere gastar menos",
-        "testo": "Hoteles más sencillos y restaurantes locales, con una hora de traslado hasta el mar."
+        "testo": "Hoteles más sencillos y restaurantes locales, con una hora de traslado hasta el mar.",
+        "fascia": "40-80 €"
+      },
+      {
+        "nome": "Resorts de lujo en Sweimeh",
+        "perChi": "quien busca spa y un servicio cuidado",
+        "testo": "Los hoteles de cinco estrellas de la misma costa, con playas más amplias, más piscinas y spa. También comer sale caro.",
+        "fascia": "170-350 €"
       }
     ],
     sapori: [
@@ -499,6 +728,52 @@ export const destinazioniGiordania: Destinazione[] = [
       "No quedarse demasiado tiempo en el agua de una vez, y beber mucho."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Monte Nebo",
+        "distanza": "unos 30 km, 40 minutos en coche",
+        "come": "En coche subiendo hacia Madaba; se combina con la visita a la ciudad.",
+        "testo": "La cresta desde la que, según la tradición, Moisés vio la Tierra Prometida, con el memorial y los mosaicos bizantinos. Entrada 3 JOD (unos 3,60 €)."
+      },
+      {
+        "nome": "Amán",
+        "distanza": "una hora en coche",
+        "come": "Coche, taxi o lanzadera hacia la capital.",
+        "testo": "La Ciudadela, el Teatro Romano y el centro con sus zocos. Se va y se vuelve en el día, o se usa Amán como base."
+      },
+      {
+        "nome": "Castillo de Karak",
+        "distanza": "una hora y media en coche",
+        "come": "En coche por la costa hacia el sur y luego subiendo a la meseta.",
+        "testo": "La gran fortaleza cruzada sobre la ciudad de Karak. Entrada 2 JOD (unos 2,40 €), museo incluido, o con el Jordan Pass; abierto de 8 a 17 h."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Se puede uno bañar en el Mar Muerto sin dormir en un resort?",
+        "risposta": "Sí: Amman Beach y las otras playas públicas equipadas cobran entrada por día, y muchos resorts venden un pase para playa y piscinas."
+      },
+      {
+        "domanda": "¿Cuánto tiempo se puede estar en el agua?",
+        "risposta": "Mejor no más de 15-20 minutos seguidos, y luego ducha con agua dulce. La sal escuece en los ojos, en los cortes y en la piel recién afeitada."
+      },
+      {
+        "domanda": "¿Cuál es la mejor época para el Mar Muerto?",
+        "risposta": "De octubre a abril, con días templados. En verano, a esta cota, se superan fácilmente los 40 grados."
+      },
+      {
+        "domanda": "¿Wadi Mujib está abierto todo el año?",
+        "risposta": "No: los senderos de agua como el Siq Trail abren solo en la temporada cálida y cierran en invierno por riesgo de crecidas. La entrada del Siq cuesta 21 JOD más impuestos."
+      },
+      {
+        "domanda": "¿El Mar Muerto está en el Jordan Pass?",
+        "risposta": "El baño no, porque se paga la playa o el resort. Sí están incluidos el parque arqueológico de Madaba y el Museo del punto más bajo de la Tierra."
+      },
+      {
+        "domanda": "¿Conviene dormir en el Mar Muerto o en Madaba?",
+        "risposta": "Junto al mar para el baño al atardecer y el descanso; en Madaba para gastar menos y cenar en la ciudad, con una hora de carretera hasta la playa."
+      }
+    ],
     esperienzeSlugs: ['bagno-mar-morto'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'El sol velado que se refleja en el Mar Muerto al atardecer, pequeñas siluetas de bañistas en la orilla, Jordania',
@@ -518,10 +793,10 @@ export const destinazioniGiordania: Destinazione[] = [
     cosaFare: ['Visita a Karak Castle', 'Parada en el monte Nebo'],
     doveDormire: 'No pernocté aquí: parada de paso hacia Little Petra y Wadi Musa.',
     doveMangiare: 'Comida por el camino entre el monte Nebo y Little Petra.',
-    comeArrivare: 'Aproximadamente 1h30 de transfer desde Madaba hasta Karak; el monte Nebo es una parada posterior en el recorrido hacia Little Petra.',
+    comeArrivare: "Aproximadamente 1h30 de transfer desde Madaba hasta Karak; el Monte Nebo es una parada posterior en el camino hacia Little Petra. El Monte Nebo está a pocos kilómetros de Madaba, mientras que a Karak se llega desde el norte por la King's Highway, cruzando el cañón del Mujib, o desde el Mar Muerto subiendo a la meseta. Desde Karak la King's Highway sigue hacia el sur hasta Shobak y Wadi Musa. Lo más libre es el coche de alquiler o un conductor por día.",
     comeSpostarsi: 'A pie dentro de la fortaleza de Karak.',
     periodoMigliore: 'mañana',
-    costi: 'Entrada a Karak incluida en el Jordan Pass.',
+    costi: "Entrada a Karak incluida en el Jordan Pass. Sin pase: Castillo de Karak 2 JOD (unos 2,40 €), Monte Nebo 3 JOD (unos 3,60 €), Castillo de Shobak 1 JOD, Reserva de Dana 10 JOD más impuestos (2026). Presupuesto bajo unos 40-60 € al día por persona (hotel sencillo en Karak o Madaba, casas de comidas); medio 90-140 € (coche de alquiler o conductor compartido, hotel de gama media); alto desde 200 € (conductor privado y guía).",
     erroriDaEvitare: [],
     miaEsperienza:
       'Karak Castle es una fortaleza imponente y merece la visita. El monte Nebo, para ser sincero, me dejó indiferente: cuenta más como símbolo (es el lugar desde el que, según la tradición, Moisés vio la Tierra Prometida) que como paisaje, y es la parada de la jornada que menos recuerdo.',
@@ -533,8 +808,11 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Se llega desde Madaba por la King's Highway. Se visita por libre, pero algunos pasillos están oscuros: llevar linterna.",
         "quando": "Abierto de 8 a 17 (2026). Por la mañana hay menos viento y el sol aún está bajo.",
         "tempo": "1-1,5 horas",
-        "costo": "Incluido en el Jordan Pass (dato de mi viaje)",
-        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+        "costo": "2 JOD (unos 2,40 €), museo incluido; incluido en el Jordan Pass (2026)",
+        "orari": "Todos los días de 8 a 17 h (2026).",
+        "lat": 31.18056,
+        "lng": 35.70139,
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees"
       },
       {
         "nome": "Monte Nebo",
@@ -542,7 +820,10 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Está a las afueras de Madaba, en la carretera hacia el mar Muerto. Se llega en coche hasta el aparcamiento.",
         "quando": "Un día despejado, cuando se ven el valle del Jordán y Jericó, y con el cielo muy limpio Jerusalén.",
         "tempo": "45 minutos",
-        "costo": "3 JOD para extranjeros (2026)"
+        "costo": "3 JOD (unos 3,60 €) para extranjeros (2026)",
+        "lat": 31.76667,
+        "lng": 35.725,
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees"
       },
       {
         "nome": "Castillo de Shobak",
@@ -550,8 +831,65 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "En la King's Highway entre Karak y Petra. Se visita por libre; para el túnel hace falta linterna.",
         "quando": "Abierto de 8 a 17 (2026). Buena parada camino de Petra.",
         "tempo": "1 hora",
-        "costo": "1 JOD para extranjeros, o incluido en el Jordan Pass (2026)",
+        "costo": "1 JOD (unos 1,20 €) para extranjeros, o incluido en el Jordan Pass (2026)",
+        "orari": "Todos los días de 8 a 17 h (2026).",
+        "lat": 30.53139,
+        "lng": 35.56083,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+      },
+      {
+        "nome": "Museo de Karak",
+        "testo": "El pequeño museo arqueológico en la parte baja del castillo, con piezas desde la Edad del Bronce hasta la época mameluca y paneles sobre la historia de la fortaleza. Ayuda a entender las fases del castillo antes de recorrerlo.",
+        "come": "Dentro del castillo, en el patio inferior.",
+        "quando": "Al principio de la visita al castillo.",
+        "tempo": "30 minutos",
+        "costo": "Incluido en la entrada del castillo",
+        "orari": "De 8 a 17.15 h (2026).",
+        "lat": 31.18216,
+        "lng": 35.70172,
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+      },
+      {
+        "nome": "Umm ar-Rasas",
+        "testo": "Sitio UNESCO desde 2004, en la estepa al sureste de Madaba, con los restos de una ciudad romana y bizantina. En la iglesia de San Esteban un gran mosaico del siglo VIII representa las ciudades de Tierra Santa; cerca se alza una torre de estilita.",
+        "come": "En coche desde Madaba o desde Dhiban, desviándose de la King's Highway hacia el este.",
+        "quando": "Por la mañana o a última hora de la tarde; el sitio está al aire libre y sin sombra.",
+        "tempo": "1 hora",
+        "costo": "Incluido en el Jordan Pass",
+        "orari": "De 8 a 17 h (2026).",
+        "lat": 31.50079,
+        "lng": 35.92026,
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+      },
+      {
+        "nome": "Maqueronte (Mukawir)",
+        "testo": "La fortaleza de Herodes el Grande en lo alto de una colina aislada sobre el Mar Muerto. Según Flavio Josefo, aquí fue encarcelado y ejecutado Juan el Bautista; quedan columnas, cisternas y una vista muy amplia sobre la costa.",
+        "come": "En coche hasta el pueblo de Mukawir y luego una breve subida a pie.",
+        "quando": "Al atardecer, con la luz sobre el Mar Muerto.",
+        "tempo": "1 hora",
+        "lat": 31.56722,
+        "lng": 35.62417,
+        "consiglio": "Calzado cerrado: el sendero es empinado y pedregoso."
+      },
+      {
+        "nome": "Cañón del Wadi Mujib",
+        "testo": "Por la King's Highway la carretera baja en curvas al gran cañón del Mujib y sube por el otro lado. Abajo está el lago de la presa; desde los miradores del borde se ve toda la garganta.",
+        "come": "En coche por la King's Highway entre Dhiban y Karak, parando en los apartaderos.",
+        "quando": "Por la mañana, con la luz rasante en las paredes.",
+        "tempo": "30-45 minutos con las paradas",
+        "lat": 31.44472,
+        "lng": 35.81806
+      },
+      {
+        "nome": "Reserva de Dana",
+        "testo": "La mayor reserva natural de Jordania, con el pueblo de piedra de Dana al borde de un valle que baja hacia el Wadi Araba. Senderos de media jornada o de varios días entre montañas de arenisca y granito.",
+        "come": "En coche por la King's Highway, al sur de Tafila; algunos senderos requieren guía de la reserva.",
+        "quando": "Primavera y otoño, con temperaturas buenas para caminar.",
+        "tempo": "Media jornada o una noche",
+        "costo": "10 JOD más el 16% de impuestos, unos 14 € (2026)",
+        "lat": 30.6751,
+        "lng": 35.61053,
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees"
       }
     ],
     programmi: [
@@ -564,18 +902,39 @@ export const destinazioniGiordania: Destinazione[] = [
           "Castillo de Karak",
           "Llegada a Wadi Musa"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Monte Nebo, Umm ar-Rasas y cañón del Wadi Mujib",
+          "Tarde: Castillo y Museo de Karak",
+          "Noche en Karak o en Dana",
+          "Día 2: paseo por la Reserva de Dana, luego Castillo de Shobak y llegada a Wadi Musa"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Wadi Musa",
         "perChi": "quien sigue hacia Petra",
-        "testo": "La continuación natural del recorrido por la King's Highway."
+        "testo": "La continuación natural del recorrido por la King's Highway.",
+        "fascia": "40-180 €"
       },
       {
         "nome": "Karak",
         "perChi": "quien quiere una noche tranquila",
         "testo": "Pocos alojamientos, sencillos y baratos; por la noche la ciudad se apaga pronto."
+      },
+      {
+        "nome": "Madaba",
+        "perChi": "quien sale del norte",
+        "testo": "Base cómoda para el Monte Nebo, Umm ar-Rasas y Maqueronte, con restaurantes y hoteles sencillos en el centro.",
+        "fascia": "40-80 €"
+      },
+      {
+        "nome": "Pueblo de Dana",
+        "perChi": "quien quiere caminar",
+        "testo": "Unas pocas casas de huéspedes y el albergue de la reserva al borde del valle. Silencio, cielo estrellado y senderos que salen de la puerta."
       }
     ],
     sapori: [
@@ -603,6 +962,52 @@ export const destinazioniGiordania: Destinazione[] = [
       "El 23 de octubre de 2026 hubo un tiroteo en una iglesia de la gobernación de Karak: seguir las indicaciones de las autoridades locales y las noticias (gov.uk)."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Petra",
+        "distanza": "unas 2 horas y media en coche por la King's Highway",
+        "come": "En coche, taxi o traslado hacia el sur, pasando por Shobak.",
+        "testo": "La ciudad nabatea excavada en la roca rosa. Conviene llegar a Wadi Musa la tarde anterior y entrar a la apertura de las 6."
+      },
+      {
+        "nome": "Madaba",
+        "distanza": "una hora y media en coche",
+        "come": "En coche hacia el norte por la King's Highway, cruzando el cañón del Mujib.",
+        "testo": "La ciudad de los mosaicos, con el mapa bizantino de la iglesia de San Jorge y el parque arqueológico (3 JOD o con el Jordan Pass)."
+      },
+      {
+        "nome": "Mar Muerto, orilla sur",
+        "distanza": "una hora en coche",
+        "come": "En coche bajando de la meseta hacia Ghor es-Safi o hacia los resorts más al norte.",
+        "testo": "El Museo del punto más bajo de la Tierra y la Cueva de Lot, o un baño en los resorts de Sweimeh, más al norte."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto cuesta entrar al Castillo de Karak?",
+        "risposta": "2 JOD (unos 2,40 €), museo incluido, o está incluido en el Jordan Pass (2026). Abre todos los días de 8 a 17 h."
+      },
+      {
+        "domanda": "¿Cuánto tiempo hace falta para Karak?",
+        "risposta": "Una hora y media para el castillo y el museo. Con una linterna se recorren también los pasillos oscuros y las salas subterráneas."
+      },
+      {
+        "domanda": "¿El Monte Nebo está en el Jordan Pass?",
+        "risposta": "El Monte Nebo lo gestionan los franciscanos y tiene entrada propia de 3 JOD (unos 3,60 €). Conviene llevar efectivo."
+      },
+      {
+        "domanda": "¿Mejor la King's Highway o la Desert Highway?",
+        "risposta": "La King's Highway es más lenta y con curvas, pero pasa por Madaba, el Monte Nebo, el cañón del Mujib, Karak y Shobak. La Desert Highway es más rápida y sin paradas interesantes."
+      },
+      {
+        "domanda": "¿Se pueden ver el Monte Nebo y Karak el mismo día?",
+        "risposta": "Sí, saliendo temprano de Madaba o del Mar Muerto: Monte Nebo por la mañana, Karak después de comer y llegada a Wadi Musa por la noche."
+      },
+      {
+        "domanda": "¿Merece la pena dormir en Dana?",
+        "risposta": "Sí para quien camina: el pueblo es tranquilo y los senderos salen de la reserva. La entrada cuesta 10 JOD más el 16% de impuestos."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Los muros de piedra de la fortaleza cruzada de Karak Castle, Jordania',
@@ -1215,10 +1620,10 @@ export const destinazioniGiordania: Destinazione[] = [
     doveDormire:
       'Dormí en un hotel cualquiera, del que no apunté el nombre, cómodo por la cercanía a la playa y al paseo marítimo.\n\nEconómicos: Days Inn Hotel & Suites Aqaba, Extra Traveller (hostel) · gama media: Golden Tulip Aqaba, Bratus Hotel Aqaba · más lujosos: Kempinski Hotel Aqaba, Mövenpick Resort & Spa Aqaba.',
     doveMangiare: 'Sheikh El Harah (especialidades de pescado), Suzana, Buffalo Wings & Ring (cocina americana), Khubza & Seneya (Al Nahda Street).',
-    comeArrivare: 'Aproximadamente 1h de transfer desde Wadi Rum.',
+    comeArrivare: "Aproximadamente 1h de transfer desde Wadi Rum. Áqaba tiene el aeropuerto internacional King Hussein (AQJ), a pocos kilómetros del centro, con vuelos desde Amán y conexiones directas de temporada desde Europa. Desde Amán son unos 330 km por la Desert Highway, cuatro horas y media en coche, o se puede tomar un autobús JETT. Desde Petra se tarda unas dos horas, desde Wadi Rum una hora y cuarto.",
     comeSpostarsi: 'Transfer a la playa (15 minutos desde el hotel).',
     periodoMigliore: 'día de sol, después del amanecer en el desierto',
-    costi: 'Boat tour con Deep Blue incluido en el paquete.',
+    costi: "Boat tour con Deep Blue incluido en el paquete. Presupuesto bajo unos 45-70 € al día por persona (hotel sencillo en el centro, playa pública, falafel y pescado en locales); medio 100-150 € (hotel en el paseo marítimo, beach club, cena de pescado); alto desde 220 € (resort en la costa sur con inmersiones). Fuerte y museo 3 JOD (unos 3,60 €) o con el Jordan Pass (2026). Áqaba es zona económica especial: el alcohol y algunos productos cuestan menos.",
     erroriDaEvitare: [],
     miaEsperienza:
       'En Áqaba hicimos también buceo: agradable, pero nada especial comparado con otros puntos del Mar Rojo más famosos por las inmersiones (Egipto sobre todo). Sigue siendo una bonita jornada para desconectar después del desierto, entre snorkel y deportes de agua.',
@@ -1230,6 +1635,8 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Se reserva un centro de buceo o un barco en la marina.",
         "quando": "Todo el año, pero primavera y otoño son los mejores meses.",
         "tempo": "Medio día",
+        "lat": 29.42815,
+        "lng": 34.97149,
         "consiglio": "Las inmersiones me parecieron agradables pero menos espectaculares que otros puntos del Mar Rojo."
       },
       {
@@ -1245,8 +1652,66 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "En el centro, cerca del paseo marítimo.",
         "quando": "Castillo abierto de 8 a 17, museo de 8 a 17.15 (2026). Final de la tarde, antes del atardecer sobre el mar.",
         "tempo": "45 minutos",
-        "costo": "Incluido en el Jordan Pass",
+        "costo": "3 JOD (unos 3,60 €), museo incluido; incluido en el Jordan Pass (2026)",
+        "orari": "Castillo de 8 a 17 h, museo de 8 a 17.15 h (2026).",
+        "lat": 29.52136,
+        "lng": 35.00204,
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees"
+      },
+      {
+        "nome": "Museo arqueológico de Áqaba",
+        "testo": "Junto al fuerte, en la casa del jerife Hussein bin Ali, el museo reúne piezas de la ciudad islámica de Ayla, cerámica, monedas e inscripciones. Se visita con la misma entrada que el castillo.",
+        "come": "En el centro, al lado del fuerte y de la Plaza de la Revuelta Árabe.",
+        "quando": "Última hora de la tarde, junto con el fuerte.",
+        "tempo": "30 minutos",
+        "costo": "Incluido en la entrada del fuerte; incluido en el Jordan Pass",
+        "orari": "De 8 a 17.15 h (2026).",
+        "lat": 29.52167,
+        "lng": 35.00139,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
+      },
+      {
+        "nome": "Ruinas de Ayla",
+        "testo": "Los restos de la ciudad portuaria islámica fundada en el siglo VII, con tramos de muralla, las puertas y la gran calle que las unía. Están al aire libre junto al paseo marítimo, entre hoteles y palmeras.",
+        "come": "A pie desde el centro, por el paseo marítimo al norte del fuerte.",
+        "quando": "A primera hora o hacia el atardecer, con el sol bajo.",
+        "tempo": "30 minutos",
+        "lat": 29.53058,
+        "lng": 35.0
+      },
+      {
+        "nome": "Iglesia de Áqaba",
+        "testo": "Los cimientos de adobe de una iglesia de finales del siglo III, descubiertos en 1998 y considerados entre los más antiguos de una iglesia construida como tal. Se ve poco, pero cuenta mucho para la historia del cristianismo.",
+        "come": "En el centro, cerca del paseo marítimo, a pocos minutos a pie de las ruinas de Ayla.",
+        "quando": "En cualquier momento, junto con Ayla.",
+        "tempo": "15 minutos",
+        "lat": 29.53389,
+        "lng": 34.99917
+      },
+      {
+        "nome": "Plaza de la Revuelta Árabe y mástil",
+        "testo": "La gran plaza junto al mar con el mástil de unos 130 metros y la bandera de la Revuelta Árabe, visible desde Israel, Egipto y Arabia Saudí. Por la noche es el punto de encuentro de familias y paseantes.",
+        "come": "En el centro, junto al fuerte.",
+        "quando": "Al atardecer, con la luz sobre el golfo.",
+        "tempo": "20 minutos",
+        "lat": 29.5217,
+        "lng": 35.0011
+      },
+      {
+        "nome": "Museo militar submarino",
+        "testo": "Desde julio de 2019 una veintena de vehículos militares retirados, entre ellos tanques, un helicóptero y una ambulancia, descansan en el fondo a 15-28 metros, colocados como en formación. Es una inmersión insólita, sobre arena, lejos del coral.",
+        "come": "Solo con un centro de buceo, normalmente en barco.",
+        "quando": "Todo el año, con mar en calma.",
+        "tempo": "Media jornada con la inmersión"
+      },
+      {
+        "nome": "Costa sur y beach clubs",
+        "testo": "Hacia la frontera saudí la costa está salpicada de beach clubs y resorts con playa, piscinas y acceso directo al arrecife. Es la zona para pasar el día en bañador y hacer snorkel desde la orilla.",
+        "come": "En taxi desde el centro, unos 15-20 minutos; se paga la entrada de día al beach club.",
+        "quando": "Todo el día; en verano mejor por la mañana.",
+        "tempo": "Media jornada o más",
+        "lat": 29.43501,
+        "lng": 34.97432
       }
     ],
     programmi: [
@@ -1258,18 +1723,42 @@ export const destinazioniGiordania: Destinazione[] = [
           "Tarde en la playa",
           "Cena en el paseo marítimo"
         ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba",
+          "Día 2 por la mañana: inmersión en el Cedar Pride o en el Museo militar submarino",
+          "Día 2 por la tarde: fuerte, museo, ruinas de Ayla e iglesia",
+          "Atardecer en la Plaza de la Revuelta Árabe"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: playa y snorkel en la costa sur",
+          "Día 2: inmersiones o barco con fondo de cristal, luego el centro histórico",
+          "Día 3: excursión a Wadi Rum en jeep y regreso por la noche, o salida hacia Petra"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Centro y paseo marítimo",
         "perChi": "quien quiere ir a pie",
-        "testo": "Hoteles de gama media y restaurantes cerca del mar."
+        "testo": "Hoteles de gama media y restaurantes cerca del mar.",
+        "fascia": "45-75 €"
       },
       {
         "nome": "Resorts de la costa sur",
         "perChi": "quien quiere playa y buceo",
-        "testo": "Resorts de lujo con playa privada y centro de buceo, lejos del centro."
+        "testo": "Resorts de lujo con playa privada y centro de buceo, lejos del centro.",
+        "fascia": "120-200 €"
+      },
+      {
+        "nome": "Ayla",
+        "perChi": "quien busca un barrio nuevo y tranquilo",
+        "testo": "El complejo residencial reciente al norte del centro, construido alrededor de una marina y de lagunas artificiales, con hoteles modernos y restaurantes junto al agua. Al centro histórico se llega con un taxi corto."
       }
     ],
     sapori: [
@@ -1295,6 +1784,46 @@ export const destinazioniGiordania: Destinazione[] = [
       "El sol sobre el mar es fuerte todo el año: protección alta y agua."
     ],
     // GUIDA-END
+    gite: [
+      {
+        "nome": "Wadi Rum",
+        "distanza": "unos 70 km, una hora y cuarto en coche",
+        "come": "Taxi, coche de alquiler o traslado del campamento hasta el centro de visitantes; luego jeep con guía beduino.",
+        "testo": "El desierto de arena roja y torres de arenisca. Se puede hacer en el día con una ruta en jeep, pero una noche en tienda vale mucho más."
+      },
+      {
+        "nome": "Petra",
+        "distanza": "unos 125 km, 2 horas en coche",
+        "come": "Traslado, taxi o coche por la Desert Highway; también hay autobuses JETT.",
+        "testo": "Se puede hacer en el día, pero la entrada sin pernoctar cuesta 90 JOD y se pierde la apertura de las 6: mejor dormir en Wadi Musa."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Áqaba es buena para hacer snorkel?",
+        "risposta": "Sí: en la costa sur el arrecife empieza a pocos metros de la orilla y gafas y aletas se alquilan en la playa. El agua se mantiene templada gran parte del año."
+      },
+      {
+        "domanda": "¿Merece la pena bucear en Áqaba?",
+        "risposta": "Es agradable y fácil, con el pecio del Cedar Pride y el Museo militar submarino como puntos fuertes. Quien busca el gran Mar Rojo encuentra más en la costa egipcia."
+      },
+      {
+        "domanda": "¿Cómo hay que vestir en Áqaba?",
+        "risposta": "El bañador está bien en resorts y beach clubs; en la ciudad y en la playa pública conviene ropa discreta, con hombros y rodillas cubiertos."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta en Áqaba?",
+        "risposta": "Un día basta para mar y snorkel después del desierto. Con dos o tres se añaden inmersiones, el centro histórico y una excursión a Wadi Rum."
+      },
+      {
+        "domanda": "¿El fuerte de Áqaba está en el Jordan Pass?",
+        "risposta": "Sí. Sin pase la entrada cuesta 3 JOD (unos 3,60 €) e incluye el museo arqueológico de al lado (2026)."
+      },
+      {
+        "domanda": "¿En Áqaba el alcohol y las compras cuestan menos?",
+        "risposta": "Sí, Áqaba es zona económica especial y algunos productos, alcohol incluido, cuestan menos que en el resto del país."
+      }
+    ],
     esperienzeSlugs: ['diving-aqaba'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'La costa de Áqaba en el Mar Rojo, Jordania',

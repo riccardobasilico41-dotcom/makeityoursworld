@@ -1458,64 +1458,181 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'La traversata in lancia dal Muelle General per Janitzio',
       'Il tianguis artigianale della Noche de Ánimas',
     ],
-    comeArrivare: 'Bus da Città del Messico via Morelia sull\'autostrada 15D.',
+    comeArrivare: "Da Città del Messico i bus di prima classe per Pátzcuaro partono dalle terminal Poniente e Norte e passano da Morelia sull'autostrada 15D: circa 4-5 ore. Chi arriva in aereo atterra a Morelia (MLM); dalla città i bus per Pátzcuaro partono spesso e impiegano circa un'ora. La stazione dei bus di Pátzcuaro è a sud del centro, a pochi minuti di taxi dalle piazze. Gli spostamenti su strada si fanno solo di giorno.",
     comeSpostarsi: 'Lance dal Muelle General per Janitzio; taxi e colectivos per i paesi del lago.',
     periodoMigliore: 'dal 30 ottobre al 2 novembre per la Noche de Ánimas.',
+    costi: "Budget giornaliero a persona, indicativo per il 2026 e fuori dalle notti della festa: basso 45-65 € (piccolo hotel o casa di ospiti, mercato e comedores, colectivos); medio 90-140 € (hotel in una casa coloniale del centro, taxi per i paesi del lago, cene al ristorante); alto da 220 € (hotel boutique, auto con autista). Voci singole: lancia per Janitzio circa 100 MXN andata e ritorno; Tzintzuntzan 210 MXN e Ihuatzio 145 MXN per gli stranieri; Museo de Artes e Industrias Populares 145 MXN. Tra il 31 ottobre e il 2 novembre gli alloggi costano molto di più e vanno prenotati con mesi di anticipo.",
     erroriDaEvitare: [
       'Decidere di andare senza aver letto la scheda aggiornata di Viaggiare Sicuri sul Michoacán',
       'Spostarsi di notte fuori dalle strade principali',
       'Pensare di unire nello stesso viaggio Janitzio e le notti principali di Oaxaca: coincidono',
     ],
-      "luoghi": [
-        {
-          "nome": "Isola di Janitzio",
-          "testo": "Isola sul lago di Pátzcuaro con la statua di Morelos, famosa per la veglia di Día de Muertos nel cimitero, la notte del 1° novembre.",
-          "come": "Barca dal molo di Pátzcuaro.",
-          "quando": "Notte del 1° novembre per la veglia.",
-          "tempo": "Mezza giornata",
-          "consiglio": "Rispettare le famiglie: la veglia non è uno spettacolo."
-        },
-        {
-          "nome": "Tzintzuntzan",
-          "testo": "Antica capitale purépecha, con le yácatas (piramidi circolari) e un cimitero decorato.",
-          "come": "Auto o colectivo da Pátzcuaro, lungo il lago.",
-          "quando": "Mattina.",
-          "tempo": "2 ore",
-          "costo": "210 MXN per gli stranieri (2026).",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Piazze coloniali di Pátzcuaro",
-          "testo": "Plaza Vasco de Quiroga e Plaza Gertrudis Bocanegra, con portici e mercato di artigianato.",
-          "come": "A piedi.",
-          "quando": "Mattina.",
-          "tempo": "2-3 ore"
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: Plaza Vasco de Quiroga e mercato",
-            "Pomeriggio: Tzintzuntzan",
-            "Sera: barca per Janitzio, veglia (1° novembre)"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: Pátzcuaro e Tzintzuntzan",
-            "Giorno 2: Janitzio e dintorni"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro di Pátzcuaro",
-          "perChi": "a piedi da tutto",
-          "testo": "Hotel in case coloniali, vicini alle piazze."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Isola di Janitzio",
+        testo: "L'isola più conosciuta del lago, un paese di pescatori purépecha con le case che salgono a gradoni fino alla grande statua di José María Morelos, dentro la quale si sale lungo una scala dipinta con la storia dell'eroe dell'indipendenza. La notte del 1° novembre il cimitero si riempie di candele, fiori di cempasúchil e famiglie in veglia, ed è l'immagine più famosa del Día de los Muertos.",
+        come: "In lancia dal Muelle General di Pátzcuaro; sull'isola si sale a piedi lungo vicoli in salita pieni di bancarelle.",
+        quando: "Di giorno in qualsiasi stagione; la notte del 1° novembre per la veglia, con barche piene e lunghe attese al molo.",
+        tempo: "Mezza giornata; la notte della veglia fino a tardi",
+        costo: "Lancia circa 100 MXN a persona andata e ritorno, circa 5 € (2026)",
+        orari: "Lance di giorno circa dalle 9 alle 18; nelle notti della festa il servizio continua fino a tardi",
+        lat: 19.57361,
+        lng: -101.65194,
+        consiglio: "Durante la veglia le famiglie pregano accanto alle tombe: niente flash e foto solo dopo aver chiesto.",
+      },
+      {
+        nome: "Muelle General",
+        testo: "Il molo principale del lago, circa tre chilometri a nord del centro, da cui partono le lance per Janitzio e per le altre isole. Intorno ci sono le biglietterie, i banchi di artigianato e piccoli ristoranti che friggono charales e pescado blanco.",
+        come: "In taxi o con i colectivos segnati «Muelle» dal centro, una decina di minuti.",
+        quando: "Mattina, prima che arrivino i gruppi.",
+        tempo: "30 minuti, più l'attesa della lancia",
+        costo: "Gratis",
+        lat: 19.54332,
+        lng: -101.61659,
+      },
+      {
+        nome: "Plaza Vasco de Quiroga",
+        testo: "La piazza grande di Pátzcuaro, una delle più ampie del Messico, circondata da case coloniali con i portici e i tetti di tegole rosse. Al centro c'è la fontana con la statua di Vasco de Quiroga, il vescovo che nel Cinquecento organizzò i villaggi del lago per mestiere: rame, lacca, legno, tessuti.",
+        come: "A piedi; è il centro della città.",
+        quando: "Mattina presto o sera, quando si accendono i lampioni.",
+        tempo: "1 ora",
+        costo: "Gratis",
+        lat: 19.5135,
+        lng: -101.60877,
+      },
+      {
+        nome: "Plaza Gertrudis Bocanegra e mercato",
+        testo: "La «piazza chica», più popolare e animata della grande, dedicata all'eroina dell'indipendenza fucilata a Pátzcuaro nel 1817. Sul lato nord comincia il mercato, con banchi di frutta, corundas, pane e artigianato dei paesi del lago; nei giorni della Noche de Ánimas qui e nella piazza grande si monta il tianguis artigianale.",
+        come: "A piedi, due isolati a nord di Plaza Vasco de Quiroga.",
+        quando: "Mattina, quando il mercato è più vivo.",
+        tempo: "1-2 ore",
+        costo: "Gratis",
+        lat: 19.51612,
+        lng: -101.60886,
+      },
+      {
+        nome: "Biblioteca Gertrudis Bocanegra",
+        testo: "La biblioteca pubblica occupa l'antica chiesa di San Agustín. In fondo alla navata c'è il grande murale di Juan O'Gorman con la storia del Michoacán, dalle origini purépecha alla rivoluzione, uno dei motivi meno noti per fermarsi in città.",
+        come: "A piedi, sulla Plaza Gertrudis Bocanegra.",
+        quando: "Di giorno, negli orari della biblioteca.",
+        tempo: "30 minuti",
+        costo: "Gratis",
+        lat: 19.51661,
+        lng: -101.6084,
+      },
+      {
+        nome: "Basílica de Nuestra Señora de la Salud",
+        testo: "La chiesa che Vasco de Quiroga volle come cattedrale, rimasta incompiuta e ricostruita più volte. Custodisce l'immagine della Virgen de la Salud, modellata secondo la tecnica purépecha in pasta di canna di mais, ed è meta di pellegrinaggi, soprattutto intorno all'8 dicembre.",
+        come: "A piedi, in salita a est della piazza grande.",
+        quando: "Mattina; nelle ore di messa si visita in silenzio.",
+        tempo: "30 minuti",
+        costo: "Gratis",
+        lat: 19.51511,
+        lng: -101.60615,
+      },
+      {
+        nome: "Museo de Artes e Industrias Populares",
+        testo: "Il museo dell'INAH occupa il Colegio de San Nicolás, fondato da Vasco de Quiroga nel Cinquecento. Raccoglie lacche, rame battuto, ceramiche, maschere e tessuti dei paesi del lago, e nel giardino c'è una troje, la casa tradizionale purépecha in legno.",
+        come: "A piedi, un isolato a est di Plaza Vasco de Quiroga.",
+        quando: "Mattina, prima di girare le botteghe.",
+        tempo: "1 ora",
+        costo: "145 MXN per gli stranieri, circa 7 €; 80 MXN per i messicani (2026)",
+        orari: "Da martedì a domenica 9-17, chiuso il lunedì",
+        lat: 19.51381,
+        lng: -101.60715,
+        url: "https://lugares.inah.gob.mx/en/node/4877",
+      },
+      {
+        nome: "Casa de los Once Patios",
+        testo: "Un antico convento del Settecento con una serie di cortili collegati, oggi occupato da botteghe di artigiani: lacca dipinta a mano, telai, rame, ricami. Si entra liberamente e spesso si vede lavorare chi vende.",
+        come: "A piedi, pochi isolati a sud-est della piazza grande.",
+        quando: "Tarda mattina, quando le botteghe sono aperte.",
+        tempo: "45 minuti",
+        costo: "Ingresso libero",
+        lat: 19.51181,
+        lng: -101.60808,
+      },
+      {
+        nome: "Zona archeologica di Tzintzuntzan",
+        testo: "L'antica capitale del regno purépecha, che resistette agli aztechi e cadde solo con l'arrivo degli spagnoli. Su una grande piattaforma affacciata sul lago si allineano le yácatas, basamenti a pianta mista rettangolare e circolare; il piccolo museo di sito è compreso nel biglietto.",
+        come: "In auto o con i colectivos per Quiroga dal centro di Pátzcuaro, circa 25-30 minuti lungo la riva del lago.",
+        quando: "Mattina; la notte del 31 ottobre il cimitero del paese ospita una delle veglie più sentite del lago.",
+        tempo: "1,5-2 ore",
+        costo: "210 MXN per gli stranieri, circa 10 €; 105 MXN per i messicani (2026)",
+        orari: "Tutti i giorni 9-18, ultimo ingresso alle 17",
+        lat: 19.62314,
+        lng: -101.57378,
+        url: "https://lugares.inah.gob.mx/en/node/5791",
+        consiglio: "In paese merita una sosta anche il convento francescano con il cortile degli ulivi.",
+      },
+      {
+        nome: "Zona archeologica di Ihuatzio",
+        testo: "Un sito purépecha meno visitato, su un altopiano sopra il lago, con due grandi piramidi gemelle e lunghe mura che servivano anche da camminamenti. È tranquillo e quasi sempre vuoto, e il paese di Ihuatzio ha un cimitero frequentato nelle notti dei morti.",
+        come: "In auto o taxi da Pátzcuaro, circa 20 minuti verso nord-est.",
+        quando: "Mattina o tardo pomeriggio.",
+        tempo: "1 ora",
+        costo: "145 MXN per gli stranieri, circa 7 €; 80 MXN per i messicani (2026)",
+        orari: "Tutti i giorni 9-18, ultimo ingresso alle 17",
+        lat: 19.57778,
+        lng: -101.62217,
+        url: "https://lugares.inah.gob.mx/en/node/5482",
+      },
+      {
+        nome: "Cerro del Estribo",
+        testo: "La collina boscosa a ovest della città, area naturale protetta, con un belvedere da cui si vedono il lago e le isole. Gli abitanti ci salgono a piedi lungo una lunga scalinata, soprattutto nel fine settimana.",
+        come: "In auto o taxi fino al parcheggio, poi a piedi lungo la scalinata.",
+        quando: "Mattina presto, con l'aria più limpida.",
+        tempo: "1,5-2 ore",
+        costo: "Gratis",
+        lat: 19.51199,
+        lng: -101.642,
+        consiglio: "Salire in gruppo e di giorno, senza oggetti di valore in vista.",
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Plaza Vasco de Quiroga, Museo de Artes e Industrias Populares e Casa de los Once Patios",
+          "Pranzo al mercato di Plaza Gertrudis Bocanegra e murale della biblioteca",
+          "Pomeriggio: lancia dal Muelle General per Janitzio e salita alla statua di Morelos",
+        ],
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: il centro, la Basílica e il mercato, poi Janitzio nel pomeriggio",
+          "Giorno 2: Tzintzuntzan con le yácatas e il convento, Ihuatzio sulla strada del ritorno",
+        ],
+      },
+      {
+        titolo: "3 giorni (30 ottobre-1° novembre)",
+        tappe: [
+          "30 ottobre: arrivo, centro e tianguis artigianale della Noche de Ánimas",
+          "31 ottobre: Tzintzuntzan di giorno e veglia nel suo cimitero la notte",
+          "1° novembre: Ihuatzio o Santa Clara del Cobre di giorno, la notte in lancia a Janitzio",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Centro storico",
+        perChi: "a piedi da tutto",
+        testo: "Hotel e case di ospiti in edifici coloniali intorno alle due piazze, con mercato e ristoranti a pochi passi. Nelle notti della festa i prezzi salgono molto.",
+        fascia: "75-100 €",
+      },
+      {
+        nome: "Case coloniali di charme",
+        perChi: "chi vuole un patio e il camino",
+        testo: "Pochi hotel boutique nelle vecchie dimore del centro, con cortili, camini per le sere fresche e stanze ampie.",
+        fascia: "da 250 €",
+      },
+      {
+        nome: "Verso il lago e il Muelle General",
+        perChi: "chi va spesso alle isole",
+        testo: "Alberghi e posadas lungo l'avenida Lázaro Cárdenas, più vicini al molo ma lontani dalle piazze: la sera serve il taxi.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Pescado blanco",
@@ -1539,6 +1656,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Rispettare le famiglie durante le veglie: niente flash né foto invadenti.",
         "Barca per Janitzio: concordare il prezzo."
       ],
+    gite: [
+      {
+        nome: "Santa Clara del Cobre",
+        distanza: "circa 20 km a sud, mezz'ora",
+        come: "In auto o con i colectivos dalla stazione dei bus.",
+        testo: "Il paese del rame battuto a mano, con decine di botteghe dove si vedono lavorare pentole, vasi e lampade, e un museo dedicato al mestiere. In agosto vi si tiene la fiera nazionale del rame.",
+      },
+      {
+        nome: "Morelia",
+        distanza: "circa 60 km, 1 ora",
+        come: "In bus di prima classe, partenze frequenti dalla stazione di Pátzcuaro.",
+        testo: "La capitale del Michoacán ha un centro storico in pietra rosa patrimonio UNESCO, con la cattedrale, l'acquedotto e i portici. Si visita in giornata e al ritorno si rientra con la luce.",
+      },
+      {
+        nome: "Tócuaro ed Erongarícuaro",
+        distanza: "10-20 km sulla riva occidentale",
+        come: "In auto o taxi lungo la strada del lago.",
+        testo: "Due paesi purépecha meno battuti: Tócuaro è conosciuto per le maschere di legno intagliate e dipinte, Erongarícuaro per la piazza e il convento francescano.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "È sicuro andare a Pátzcuaro?",
+        risposta: "La Farnesina raccomanda di evitare i viaggi non indispensabili nel Michoacán, e lo stato è al livello più alto anche negli avvisi degli Stati Uniti. La zona del lago è turistica e molto frequentata nei giorni della festa, ma chi ci va deve leggere le schede aggiornate, muoversi solo di giorno e su strade principali.",
+      },
+      {
+        domanda: "Qual è la notte di Janitzio?",
+        risposta: "La veglia nel cimitero dell'isola è la notte tra il 1° e il 2 novembre. La notte del 31 ottobre è quella di Tzintzuntzan; Ihuatzio e Jarácuaro sono alternative meno affollate.",
+      },
+      {
+        domanda: "Come si arriva sull'isola di Janitzio?",
+        risposta: "In lancia dal Muelle General, a nord del centro, per circa 100 MXN a persona andata e ritorno. Di giorno le barche partono quando sono piene; nelle notti della festa le code al molo sono lunghe.",
+      },
+      {
+        domanda: "Quanti giorni servono?",
+        risposta: "Due giorni bastano per la città, Janitzio e Tzintzuntzan. Per la festa conviene arrivare il 30 ottobre e restare fino al 2 novembre.",
+      },
+      {
+        domanda: "Si possono unire Janitzio e Oaxaca nello stesso viaggio?",
+        risposta: "Le notti principali coincidono, quindi una delle due si perde. L'ordine più pratico è Pátzcuaro dal 30 ottobre al 1° novembre, rientro a Città del Messico il 2 per Mixquic e Oaxaca dopo la festa.",
+      },
+      {
+        domanda: "Cosa si mangia a Pátzcuaro?",
+        risposta: "Il pescado blanco e i charales fritti del lago, le corundas e gli uchepos, la sopa tarasca e le carnitas della vicina Quiroga. Al mercato si fa colazione con atole e pane.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'L\'isola di Janitzio nel lago di Pátzcuaro con il monumento a Morelos in cima, vista dall\'alto',
@@ -1825,68 +1988,137 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     doveDormire: 'Alloggi semplici e piccoli motel nei due villaggi; campi tendati a pacchetto sulle isole.',
     doveMangiare: 'Pesce e frutti di mare dei pescatori in ristoranti familiari.',
-    comeArrivare: 'In auto da La Paz o da Loreto, via Ciudad Constitución.',
+    comeArrivare: "Bahía Magdalena si raggiunge solo in auto. Da La Paz sono circa tre ore verso nord-ovest sulla Federale 1 fino a Ciudad Constitución, poi la deviazione verso Puerto San Carlos o, più a nord, verso Puerto Adolfo López Mateos. Da Loreto si attraversa la Sierra de la Giganta in circa tre ore. I bus Águila arrivano a Ciudad Constitución ma non ai villaggi; gli aeroporti più vicini sono La Paz (LAP) e Loreto (LTO), dove conviene noleggiare l'auto.",
     periodoMigliore: 'l\'inverno, nella stagione delle balene grigie: verificare le date con le cooperative.',
-    costi: 'Uscite in panga con prezzo per barca da concordare, solo contanti.',
+    costi: "Budget giornaliero a persona, indicativo per il 2026: basso 75-110 € (motel nel villaggio, pesce nei ristoranti familiari, panga divisa con altri); medio 150-225 € (uscite in laguna la mattina, auto a noleggio con assicurazione); alto da 350 € (campo tendato sulle isole a pacchetto, barca privata). Voci singole: panga per le balene circa 1.500-2.000 MXN all'ora per l'intera barca, fino a 6-8 persone; alloggi semplici 700-1.500 MXN a notte. Nei villaggi le carte funzionano poco: servono contanti in pesos.",
     erroriDaEvitare: [
       'Arrivare senza contanti',
       'Pianificare le uscite nel pomeriggio, quando il vento alza la laguna',
       'Guidare la sera sulla strada del ritorno',
     ],
-      "luoghi": [
-        {
-          "nome": "Avvistamento delle balene grigie",
-          "testo": "Le lagune di Bahía Magdalena ospitano ogni anno le balene grigie che vengono a partorire. Si esce in panga e le balene si avvicinano alla barca.",
-          "come": "Panga con operatore da Puerto Adolfo López Mateos o Puerto San Carlos.",
-          "quando": "In inverno, nella stagione delle balene; al mattino, con meno vento.",
-          "tempo": "2-3 ore",
-          "consiglio": "Un'uscita al mattino, quando il vento è più debole."
-        },
-        {
-          "nome": "Dune delle isole barriera",
-          "testo": "Dune di sabbia sull'isola Magdalena, la lunga barriera che separa la laguna dal Pacifico. Dall'alto si vedono da una parte le acque calme dove nuotano le balene, dall'altra le onde dell'oceano; spesso è la sosta dopo l'uscita in panga.",
-          "come": "In panga dalle lagune.",
-          "quando": "Mattina.",
-          "tempo": "Mezza giornata"
-        },
-        {
-          "nome": "Villaggi di pescatori",
-          "testo": "Puerto Adolfo López Mateos e Puerto San Carlos, villaggi di pescatori con mercato e pesce fresco. Vivono di pesca e, d'inverno, delle balene: fuori stagione sono quasi deserti, con pochi ristoranti aperti.",
-          "come": "In auto da La Paz o Ciudad Constitución.",
-          "quando": "Giorno.",
-          "tempo": "Mezza giornata",
-          "consiglio": "D'inverno i paesi si animano per la stagione delle balene: chiedere sul posto se ci sono feste o eventi in quei giorni."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: uscita in panga per le balene",
-            "Pranzo di pesce",
-            "Pomeriggio: dune"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: arrivo, uscita pomeridiana",
-            "Giorno 2: uscita mattutina e pranzo di pesce al porto"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Puerto Adolfo López Mateos",
-          "perChi": "natura",
-          "testo": "Pochi servizi, locande semplici."
-        },
-        {
-          "nome": "Puerto San Carlos",
-          "perChi": "servizi",
-          "testo": "Più grande, con alberghi."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Balene grigie a Puerto Adolfo López Mateos",
+        testo: "Nel tratto nord della baia, vicino alla bocca che la apre sul Pacifico, le madri di balena grigia passano l'inverno con i piccoli appena nati. Le pangas delle cooperative arrivano in poco tempo nella zona delle balene, che spesso si avvicinano da sole alla barca, a volte fino a lasciarsi toccare.",
+        come: "Panga con le cooperative del molo, con guida a bordo; si paga a barca e si può dividere con altri viaggiatori.",
+        quando: "Stagione ufficiale dal 1° gennaio al 30 aprile; il periodo migliore è da metà febbraio a fine marzo. Meglio la mattina, con la laguna piatta.",
+        tempo: "1,5-3 ore in barca",
+        costo: "Circa 1.500-2.000 MXN all'ora per l'intera barca, fino a 6-8 persone, circa 75-100 € (2026)",
+        lat: 25.19278,
+        lng: -112.11056,
+        consiglio: "Il contatto lo decidono le balene: in barca si sta seduti, senza sporgersi né inseguirle.",
+      },
+      {
+        nome: "Balene grigie da Puerto San Carlos",
+        testo: "Dal paese nel centro della baia partono uscite più lunghe, che toccano le zone delle balene, le mangrovie e le isole barriera. È l'alternativa a López Mateos quando lì le barche sono al completo o il vento chiude la bocca.",
+        come: "Panga con gli operatori del porto; gli orari si concordano la sera prima.",
+        quando: "Da gennaio ad aprile, partenza la mattina.",
+        tempo: "Mezza giornata",
+        costo: "Un'offerta del 2025 dava circa 8.000 MXN per una barca fino a 8 persone per circa sei ore, circa 400 €",
+        lat: 24.78958,
+        lng: -112.10768,
+      },
+      {
+        nome: "Il villaggio di López Mateos",
+        testo: "Un paese di pescatori costruito intorno al molo, con case basse, pangas tirate in secco e qualche comedor. Tra fine gennaio e inizio febbraio vi si tiene il festival della balena grigia, con musica e cibo.",
+        come: "In auto; il molo delle cooperative è in fondo al paese.",
+        quando: "Nella stagione delle balene; fuori stagione è quasi deserto.",
+        tempo: "1-2 ore",
+        costo: "Gratis",
+        lat: 25.19278,
+        lng: -112.11056,
+        consiglio: "Nel 2026 il festival si è tenuto dal 30 gennaio al 1° febbraio: le date cambiano ogni anno.",
+      },
+      {
+        nome: "Puerto San Carlos",
+        testo: "Il centro più grande della baia, con un porto commerciale, distributori, piccoli alberghi e ristoranti di pesce. È la base più comoda per chi vuole servizi e più scelta per dormire e mangiare.",
+        come: "In auto, circa un'ora da Ciudad Constitución.",
+        quando: "Tutto l'anno; d'inverno è più vivo.",
+        tempo: "Mezza giornata",
+        costo: "Gratis",
+        lat: 24.78958,
+        lng: -112.10768,
+      },
+      {
+        nome: "Dune di Isla Magdalena",
+        testo: "La lunga isola di sabbia che chiude la baia verso l'oceano. Si sbarca dalla panga e si attraversano le dune fino alla spiaggia del Pacifico: da una parte la laguna calma delle balene, dall'altra le onde aperte, con conchiglie e tracce di animali sulla sabbia.",
+        come: "Solo in panga, spesso come sosta durante l'uscita per le balene.",
+        quando: "Mattina, prima che si alzi il vento.",
+        tempo: "1-2 ore",
+        lat: 24.90242,
+        lng: -112.22122,
+        consiglio: "Scarpe chiuse leggere e acqua: sulle dune non c'è ombra.",
+      },
+      {
+        nome: "Canali di mangrovie",
+        testo: "A nord di López Mateos la laguna si stringe in canali bordati di mangrovie, dove nidificano aironi, pellicani, fregate e falchi pescatori. Le uscite in panga sono tranquille e funzionano anche fuori dalla stagione delle balene.",
+        come: "In panga con le cooperative di López Mateos, anche combinata con le balene.",
+        quando: "Prime ore del mattino o tardo pomeriggio, per gli uccelli.",
+        tempo: "1-2 ore",
+      },
+      {
+        nome: "Isla Santa Margarita",
+        testo: "L'isola barriera più a sud, lunga e quasi disabitata, che chiude la parte meridionale della baia. Le uscite da Puerto San Carlos ne costeggiano le spiagge e le scogliere, con buone possibilità di vedere delfini e uccelli marini.",
+        come: "In panga da Puerto San Carlos, con un operatore.",
+        quando: "Mattina, con mare calmo.",
+        tempo: "Mezza giornata",
+        lat: 24.41524,
+        lng: -111.78906,
+      },
+      {
+        nome: "Ciudad Constitución",
+        testo: "La città agricola della valle di Santo Domingo, capoluogo del municipio di Comondú, è il passaggio obbligato per arrivare alla baia. Non ha attrattive particolari, ma ha bancomat, supermercati, distributori e qualche hotel sulla Transpeninsular.",
+        come: "Sulla Federale 1, circa due ore e mezza da La Paz.",
+        quando: "Sosta all'andata, per contanti e pieno.",
+        tempo: "1 ora",
+        lat: 25.03222,
+        lng: -111.67028,
+        consiglio: "Fare il pieno e prelevare qui: nei villaggi della baia distributori e sportelli sono pochi.",
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno (da La Paz)",
+        tappe: [
+          "Partenza da La Paz all'alba, sosta a Ciudad Constitución",
+          "Tarda mattina: uscita in panga per le balene da López Mateos o San Carlos",
+          "Pranzo di pesce al porto e rientro a La Paz prima del buio",
+        ],
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: arrivo, giro del villaggio e uscita pomeridiana se la laguna è calma",
+          "Giorno 2: uscita all'alba con sosta sulle dune di Isla Magdalena, pranzo e strada per Loreto o La Paz",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra, a López Mateos",
+          "Giorno 3: Puerto San Carlos, mangrovie o Isla Santa Margarita in panga, poi partenza",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Puerto Adolfo López Mateos",
+        perChi: "chi vuole stare vicino alle balene",
+        testo: "Pochi alloggi semplici e piccoli motel a pochi passi dal molo delle cooperative. Nella stagione delle balene si riempiono: conviene prenotare.",
+        fascia: "35-75 €",
+      },
+      {
+        nome: "Puerto San Carlos",
+        perChi: "chi cerca più servizi",
+        testo: "Più alberghi, ristoranti e negozi, ed è più vicino a Ciudad Constitución e alla parte sud della baia.",
+        fascia: "35-75 €",
+      },
+      {
+        nome: "Campi tendati sulle isole",
+        perChi: "chi vuole dormire in laguna",
+        testo: "Campi organizzati sulle isole della baia, venduti a pacchetto con pasti e uscite in barca: sono la fascia alta della zona.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Almejas chocolatas",
@@ -1913,6 +2145,46 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Distanze lunghe e pochi distributori: fare il pieno a Ciudad Constitución.",
         "Le mattine d'inverno in barca sono fresche e umide: giacca a vento e strati."
       ],
+    gite: [
+      {
+        nome: "Loreto",
+        distanza: "circa 3 ore a nord-est",
+        come: "In auto via Ciudad Constitución e la Sierra de la Giganta, solo con la luce.",
+        testo: "Il Pueblo Mágico sul Mar di Cortez è la tappa naturale dopo la baia, con la missione del 1697 e, da metà gennaio a fine marzo, la balenottera azzurra nel parco marino.",
+      },
+      {
+        nome: "La Paz",
+        distanza: "circa 3 ore a sud-est",
+        come: "In auto sulla Federale 1.",
+        testo: "La capitale della Baja California Sur, con il Malecón, Playa Balandra, Espíritu Santo e lo squalo balena in stagione. Molti la usano come base e vengono alla baia in giornata.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quando si vedono le balene grigie a Bahía Magdalena?",
+        risposta: "La stagione ufficiale va dal 1° gennaio al 30 aprile. Il periodo con più madri e piccoli in laguna è da metà febbraio a fine marzo.",
+      },
+      {
+        domanda: "Si può fare in giornata da La Paz?",
+        risposta: "Sì, partendo all'alba: sono circa tre ore di strada per andata. Con una notte in un villaggio si fanno due uscite e si guida meno stanchi.",
+      },
+      {
+        domanda: "Meglio López Mateos o Puerto San Carlos?",
+        risposta: "López Mateos è più vicino alla zona delle balene e le uscite sono brevi; San Carlos ha più alberghi e servizi e uscite più lunghe che toccano anche le isole.",
+      },
+      {
+        domanda: "Quanto costa l'uscita in barca?",
+        risposta: "Si paga a barca, non a persona: circa 1.500-2.000 MXN all'ora per una panga fino a 6-8 persone. Al molo ci si può unire ad altri viaggiatori per dividere la spesa.",
+      },
+      {
+        domanda: "Si possono toccare le balene?",
+        risposta: "Capita che le madri si avvicinino con i piccoli e si lascino toccare, ma è una scelta loro. Le barche autorizzate seguono regole su tempi e distanze e non inseguono gli animali.",
+      },
+      {
+        domanda: "Servono contanti?",
+        risposta: "Sì: nei villaggi le carte funzionano poco e le cooperative chiedono pesos in contanti. Conviene prelevare a Ciudad Constitución.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'Una balena grigia che emerge in verticale dall\'acqua al largo della Baja California Sur',
@@ -1940,62 +2212,156 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     doveDormire: 'Il centro storico vicino alla missione; resort a Nopoló per la fascia alta.',
     doveMangiare: 'Pesce del giorno e almejas sul malecón.',
-    comeArrivare: 'In auto da La Paz o da Bahía Magdalena; piccolo aeroporto con voli soprattutto da Stati Uniti e Tijuana.',
+    comeArrivare: "Il piccolo aeroporto di Loreto (LTO) ha voli soprattutto dagli Stati Uniti e da Tijuana. Chi fa il roadtrip arriva in auto: da La Paz sono circa 4 ore e mezza-5 sulla Federale 1 via Ciudad Constitución, da Bahía Magdalena circa 3 ore attraverso la Sierra de la Giganta. I bus Águila fermano in città lungo la Transpeninsular. Fra Ciudad Constitución e Loreto i distributori sono pochi: si fa il pieno prima.",
     periodoMigliore: 'l\'inverno per le balene: verificare la stagione con gli operatori.',
-    costi: 'Uscite per le balene e per le isole con operatori autorizzati, a prezzi variabili.',
+    costi: "Budget giornaliero a persona, indicativo per il 2026: basso 75-110 € (piccolo hotel del centro, tacos di pesce, auto divisa); medio 150-225 € (hotel vicino al malecón, un'uscita in barca al giorno); alto da 350 € (resort a Nopoló, uscite private). Voci singole: balenottera azzurra da circa 3.000 MXN a persona; Isla Coronado circa 70 dollari a persona (circa 1.250 MXN); Museo de las Misiones 145 MXN per gli stranieri; braccialetto del parco marino a parte, se non incluso; alloggio di fascia media 1.200-2.500 MXN a notte.",
     erroriDaEvitare: [
       'Arrivare a Loreto senza aver fatto benzina nel tratto da Ciudad Constitución',
       'Prenotare con operatori senza permesso del parco',
     ],
-      "luoghi": [
-        {
-          "nome": "Misión de Nuestra Señora de Loreto",
-          "testo": "La missione gesuita di Loreto, fondata dal gesuita Juan María de Salvatierra nel 1697, con il museo delle missioni accanto alla chiesa. Da qui partì l'espansione verso tutta la penisola; la chiesa in pietra, costruita fra il 1740 e il 1744, è ancora il centro della vita del paese.",
-          "come": "A piedi dal centro.",
-          "quando": "Mattina.",
-          "tempo": "1 ora",
-          "url": "https://www.inah.gob.mx/"
-        },
-        {
-          "nome": "Parco Nazionale Bahía de Loreto e Isla Coronado",
-          "testo": "Parco marino, parte del sito UNESCO del Golfo di California, con isole, snorkeling e balene in stagione. Isla Coronado, una delle isole principali, ha una spiaggia bianca, acqua trasparente e leoni marini sugli scogli; in barca capita di incrociare delfini.",
-          "come": "Barca da Loreto con operatore autorizzato.",
-          "quando": "Mattina; mare calmo.",
-          "tempo": "Giornata intera"
-        },
-        {
-          "nome": "Misión San Javier",
-          "testo": "Missione gesuita fondata nel 1699 nella Sierra de la Giganta, raggiunta da una strada di montagna fra canyon e oasi di palme. La chiesa in pietra, costruita fra il 1744 e il 1758 ed è curata dall'INAH.",
-          "come": "Auto o tour da Loreto, attraverso la sierra.",
-          "quando": "Mattina.",
-          "tempo": "Mezza giornata",
-          "consiglio": "Strada di montagna con curve strette: guidare di giorno e con calma."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: Misión di Loreto",
-            "Pranzo di pesce",
-            "Pomeriggio: Isla Coronado"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: Loreto e Parque Nacional",
-            "Giorno 2: Misión San Javier"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro di Loreto",
-          "perChi": "a piedi da tutto",
-          "testo": "Hotel piccoli e ristoranti vicino al lungomare."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Misión de Nuestra Señora de Loreto",
+        testo: "La prima missione delle Californie, fondata nel 1697 dal gesuita Juan María de Salvatierra: da qui partì l'espansione che arrivò fino a San Francisco. La chiesa in pietra, costruita fra il 1740 e il 1744, è ancora il centro della vita del paese, con la statua della Virgen de Loreto sull'altare.",
+        come: "A piedi dal centro, sulla calle Salvatierra.",
+        quando: "Mattina, insieme al museo accanto.",
+        tempo: "30 minuti",
+        costo: "Ingresso libero",
+        lat: 26.01043,
+        lng: -111.34336,
+      },
+      {
+        nome: "Museo de las Misiones",
+        testo: "Il museo dell'INAH accanto alla missione racconta i gesuiti in Baja California: mappe, armi, utensili delle missioni, arte sacra e la vita dei popoli della penisola prima dell'arrivo degli europei. Dà senso alle missioni sparse nella sierra.",
+        come: "A piedi, a fianco della chiesa.",
+        quando: "Mattina: chiude presto il pomeriggio.",
+        tempo: "45 minuti-1 ora",
+        costo: "145 MXN per gli stranieri, circa 7 €; 80 MXN per i messicani, gratis la domenica per i messicani (2026)",
+        orari: "Da martedì a sabato 9-15, chiuso domenica e lunedì",
+        lat: 26.01028,
+        lng: -111.34366,
+        url: "https://lugares.inah.gob.mx/en/node/5176",
+      },
+      {
+        nome: "Malecón di Loreto",
+        testo: "Il lungomare del paese, tranquillo e ordinato, con panchine, palme e il molo da cui partono i lancheros. Il Mar di Cortez qui guarda a est, e l'ora migliore è l'alba, quando il sole sorge dietro Isla del Carmen.",
+        come: "A piedi dal centro.",
+        quando: "Alba o sera.",
+        tempo: "1 ora",
+        costo: "Gratis",
+        lat: 26.01059,
+        lng: -111.33909,
+      },
+      {
+        nome: "Balenottera azzurra nel Parque Nacional Bahía de Loreto",
+        testo: "D'inverno nelle acque del parco si nutre la balenottera azzurra, l'animale più grande mai esistito, insieme a balenottere comuni e branchi di delfini. Il parco marino fa parte del sito UNESCO delle isole e aree protette del Golfo di California.",
+        come: "Uscita in barca dal malecón con lancheros autorizzati; le barche restano a distanza secondo le regole del parco.",
+        quando: "Da metà gennaio a fine marzo, partenza la mattina presto con mare calmo.",
+        tempo: "Circa 5 ore",
+        costo: "Da circa 3.000 MXN a persona, circa 150 €, più il braccialetto del parco se non incluso (2026)",
+        lat: 25.86417,
+        lng: -111.12167,
+        consiglio: "L'avvistamento non è garantito: tenere un secondo giorno libero per riprovare.",
+      },
+      {
+        nome: "Isla Coronado",
+        testo: "L'isola più vicina al paese, un vecchio vulcano con una spiaggia bianca e acqua trasparente sul lato riparato. Sugli scogli vive una colonia di leoni marini, e durante la traversata capita di incrociare delfini.",
+        come: "In barca dal malecón con un operatore autorizzato.",
+        quando: "Mattina, con mare calmo.",
+        tempo: "Mezza giornata",
+        costo: "Circa 70 dollari a persona, circa 1.250 MXN o 60 €, braccialetto del parco escluso (2026)",
+        lat: 26.11792,
+        lng: -111.27352,
+      },
+      {
+        nome: "Isla del Carmen",
+        testo: "L'isola più grande del parco, disabitata, con le vecchie saline che hanno lavorato fino al secolo scorso, baie di sabbia e scogliere rosse. Le uscite in barca ne esplorano la costa con soste per lo snorkeling.",
+        come: "In barca da Loreto con un operatore autorizzato.",
+        quando: "Mattina; con vento da nord le uscite saltano.",
+        tempo: "Giornata intera",
+        lat: 25.93961,
+        lng: -111.17611,
+      },
+      {
+        nome: "Isla Danzante",
+        testo: "Una piccola isola stretta e montuosa davanti a Puerto Escondido, con calette per il kayak e fondali per lo snorkeling. È la meta più semplice per chi vuole pagaiare nel parco.",
+        come: "In kayak o in barca da Puerto Escondido, circa 25 km a sud di Loreto.",
+        quando: "Mattina, prima del vento.",
+        tempo: "Mezza giornata",
+        lat: 25.7884,
+        lng: -111.25067,
+      },
+      {
+        nome: "Nopoló",
+        testo: "La zona turistica pianificata a sud del paese, con resort, campo da golf e una lunga spiaggia sulla baia. È più tranquilla del centro e ha i servizi dei grandi alberghi.",
+        come: "In auto, circa 10 minuti a sud di Loreto.",
+        quando: "Pomeriggio in spiaggia.",
+        tempo: "2-3 ore",
+        lat: 25.93094,
+        lng: -111.35963,
+      },
+      {
+        nome: "Puerto Escondido",
+        testo: "Un porto naturale quasi chiuso, ai piedi della Sierra de la Giganta, con una marina dove si fermano le barche a vela del Mar di Cortez. Da qui partono le uscite verso Isla Danzante e la costa sud del parco.",
+        come: "In auto, circa mezz'ora a sud di Loreto sulla Federale 1.",
+        quando: "Mattina.",
+        tempo: "1-2 ore",
+        lat: 25.81433,
+        lng: -111.31209,
+      },
+      {
+        nome: "Playa Juncalito",
+        testo: "Una spiaggia tranquilla a sud di Loreto, con le pangas dei pescatori sulla sabbia e la sierra alle spalle. Si fa il bagno in acqua calma e si guardano le isole del parco dalla riva.",
+        come: "In auto, circa 20 minuti a sud di Loreto.",
+        quando: "Pomeriggio.",
+        tempo: "2 ore",
+        costo: "Gratis",
+        lat: 25.83308,
+        lng: -111.33107,
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: missione, Museo de las Misiones e malecón",
+          "Pranzo di pesce in centro",
+          "Pomeriggio: Isla Coronado in barca, se il mare è calmo",
+        ],
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: uscita per la balenottera azzurra (in stagione), poi missione e malecón",
+          "Giorno 2: Isla Coronado la mattina, nel pomeriggio Misión San Javier in auto",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: margine per riprovare con le balene, oppure Puerto Escondido, kayak a Isla Danzante e Playa Juncalito",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Centro storico e malecón",
+        perChi: "a piedi da tutto",
+        testo: "Piccoli hotel e posadas vicino alla missione e al lungomare, con ristoranti e banchi dei lancheros a pochi passi.",
+        fascia: "60-125 €",
+      },
+      {
+        nome: "Nopoló",
+        perChi: "resort e calma",
+        testo: "Resort e case vacanza sulla spiaggia, con campo da golf: serve l'auto per andare in paese.",
+      },
+      {
+        nome: "Verso Puerto Escondido e Juncalito",
+        perChi: "kayak e mare",
+        testo: "Case vacanza e campeggi lungo la costa sud, comodi per le uscite verso Isla Danzante.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Almejas tatemadas",
@@ -2020,6 +2386,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Operatori autorizzati nel parco nazionale.",
         "Il parco marino ha una tassa d'ingresso dell'area protetta: chiedere se è compresa nel prezzo del tour."
       ],
+    gite: [
+      {
+        nome: "Misión San Javier",
+        distanza: "circa 1 ora e mezza di auto",
+        come: "In auto o con un tour, sulla strada di montagna della Sierra de la Giganta.",
+        testo: "La missione fondata nel 1699 e costruita in pietra fra il 1744 e il 1758 è una delle meglio conservate della penisola, in un villaggio di ranch tra canyon e palme. La strada è stretta e con curve: si guida di giorno.",
+      },
+      {
+        nome: "Bahía Magdalena",
+        distanza: "circa 3 ore a sud-ovest",
+        come: "In auto via Ciudad Constitución, partendo all'alba.",
+        testo: "Le lagune del Pacifico dove partoriscono le balene grigie, dal 1° gennaio al 30 aprile. Meglio con una notte a López Mateos o San Carlos.",
+      },
+      {
+        nome: "Laguna San Ignacio",
+        distanza: "circa 4 ore a nord",
+        come: "In auto sulla Transpeninsular, come estensione di 2-3 giorni.",
+        testo: "La laguna dove gli incontri ravvicinati con le balene grigie sono più frequenti, dentro la Riserva della Biosfera di El Vizcaíno, con campi tendati sulla riva.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Quando si vede la balenottera azzurra a Loreto?",
+        risposta: "Da metà gennaio a fine marzo. Le uscite durano circa cinque ore e costano da circa 3.000 MXN a persona; l'avvistamento non è garantito.",
+      },
+      {
+        domanda: "Quanti giorni servono a Loreto?",
+        risposta: "Due giorni per la balenottera, la missione e Isla Coronado; tre se si vuole un giorno di margine per il mare o San Javier con calma.",
+      },
+      {
+        domanda: "Come si va a Isla Coronado?",
+        risposta: "In barca dal malecón con un operatore autorizzato, circa mezza giornata e circa 70 dollari a persona. Il braccialetto del parco marino spesso è a parte.",
+      },
+      {
+        domanda: "Serve l'auto a Loreto?",
+        risposta: "Per il paese no, ma per San Javier, Puerto Escondido e le spiagge a sud sì. Al noleggio va controllata l'assicurazione di responsabilità civile, obbligatoria e spesso esclusa dai prezzi online.",
+      },
+      {
+        domanda: "Il museo e la missione sono aperti tutti i giorni?",
+        risposta: "La chiesa sì, con ingresso libero. Il Museo de las Misiones apre da martedì a sabato dalle 9 alle 15 e costa 145 MXN per gli stranieri.",
+      },
+      {
+        domanda: "Si arriva a Loreto in aereo?",
+        risposta: "Sì, l'aeroporto di Loreto ha voli soprattutto dagli Stati Uniti e da Tijuana. Dall'Europa conviene volare a La Paz o San José del Cabo e salire in auto.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'La Misión de Nuestra Señora de Loreto in pietra tra le palme, nel centro del paese',
@@ -2039,58 +2451,157 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     cosaVedere: ['Il centro storico e le gallerie', 'Playa Cerritos', 'Le spiagge del Pacifico al tramonto'],
     cosaFare: ['Lezione di surf a Cerritos', 'Liberazione delle tartarughe con i progetti locali, nelle stagioni di schiusa'],
     doveDormire: 'Centro storico, con piccoli hotel di charme e qualche guesthouse economica.',
-    comeArrivare: 'In auto da La Paz o da Cabo San Lucas.',
+    comeArrivare: "Todos Santos è sulla Federale 19, a circa un'ora di auto sia da La Paz (80 km) sia da Cabo San Lucas. Gli aeroporti più vicini sono La Paz (LAP) e San José del Cabo (SJD), con più voli internazionali: in entrambi conviene ritirare subito l'auto a noleggio. I bus che collegano La Paz e Cabo San Lucas lungo il Pacifico fermano in paese, ma per Cerritos e le spiagge serve l'auto.",
     periodoMigliore: 'da novembre ad aprile.',
+    costi: "Budget giornaliero a persona, indicativo per il 2026: basso 75-110 € (guesthouse, tacos di pesce, auto divisa); medio 150-225 € (hotel di charme del centro, lezione di surf, cene al ristorante); alto da 350 € (boutique hotel e cucina d'autore). Voci singole: hotel del centro 2.000-5.000 MXN a notte, circa 100-250 €; liberazione delle tartarughe con una piccola donazione in contanti. Dormire qui costa meno che a Los Cabos.",
     erroriDaEvitare: ['Nuotare sulle spiagge aperte del Pacifico fuori da Cerritos: correnti forti'],
-      "luoghi": [
-        {
-          "nome": "Centro storico e gallerie",
-          "testo": "Pueblo Mágico con case coloniali, gallerie d'arte, boutique e caffè. Era un paese della canna da zucchero; oggi vive di artisti, surfisti e piccoli ristoranti che cucinano con le verdure degli orti intorno.",
-          "come": "A piedi.",
-          "quando": "Mattina e sera.",
-          "tempo": "Mezza giornata"
-        },
-        {
-          "nome": "Playa Cerritos",
-          "testo": "Spiaggia sul Pacifico con onde adatte al surf per principianti, scuole e noleggio tavole.",
-          "come": "Auto o taxi da Todos Santos, verso sud.",
-          "quando": "Mattina.",
-          "tempo": "Mezza giornata",
-          "consiglio": "Fuori da Cerritos le spiagge del Pacifico hanno correnti forti: non nuotare."
-        },
-        {
-          "nome": "Liberazione delle tartarughe",
-          "testo": "Progetti locali di tutela con liberazione dei piccoli nelle stagioni di schiusa. Sulle spiagge vicine al paese nidificano diverse specie di tartarughe marine; i volontari proteggono i nidi e, al tramonto, accompagnano i piccoli verso il mare.",
-          "come": "Con i progetti locali, in stagione.",
-          "quando": "Sera.",
-          "tempo": "1-2 ore",
-          "consiglio": "Rispettare le regole del progetto."
-        }
-      ],
-      "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: centro e gallerie",
-            "Pomeriggio: Cerritos e lezione di surf",
-            "Tramonto sul Pacifico"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: centro e Cerritos",
-            "Giorno 2: tartarughe in stagione o un giorno a La Paz"
-          ]
-        }
-      ],
-      "zone": [
-        {
-          "nome": "Centro storico",
-          "perChi": "charme",
-          "testo": "Piccoli hotel e guesthouse, a piedi dai ristoranti."
-        }
-      ],
+    luoghi: [
+      {
+        nome: "Centro storico e gallerie",
+        testo: "Il paese vecchio della canna da zucchero, oggi Pueblo Mágico, con case coloniali basse, gallerie d'arte, boutique e caffè lungo le calles Juárez, Centenario e Topete. Si gira a piedi in un'ora, ma conviene restare fino a sera, quando le gallerie aprono e le strade si animano.",
+        come: "A piedi.",
+        quando: "Tardo pomeriggio e sera.",
+        tempo: "Mezza giornata",
+        costo: "Gratis",
+        consiglio: "Le gallerie hanno orari variabili e alcune chiudono d'estate.",
+      },
+      {
+        nome: "Misión de Nuestra Señora del Pilar",
+        testo: "La chiesa della missione, fondata dai gesuiti nel Settecento e ricostruita più volte, si affaccia sulla piazza del paese. All'interno c'è l'immagine della Virgen del Pilar, festeggiata il 12 ottobre con la festa patronale.",
+        come: "A piedi, sulla piazza.",
+        quando: "Mattina o sera.",
+        tempo: "20 minuti",
+        costo: "Ingresso libero",
+        lat: 23.44978,
+        lng: -110.22557,
+      },
+      {
+        nome: "Teatro Cine General Manuel Márquez de León",
+        testo: "Il vecchio teatro-cinema del paese, accanto alla piazza, con la facciata d'epoca restaurata. Ospita spettacoli, concerti ed eventi dei festival culturali.",
+        come: "A piedi, accanto alla missione.",
+        quando: "Sera, se c'è uno spettacolo.",
+        tempo: "20 minuti dall'esterno",
+        lat: 23.45043,
+        lng: -110.22556,
+      },
+      {
+        nome: "Hotel California",
+        testo: "Il più famoso edificio del paese, un hotel con la facciata blu e il bar sotto i portici. Il legame con la canzone degli Eagles esiste solo nella leggenda, ma ne ha fatto una tappa per molti visitatori.",
+        come: "A piedi, sulla calle Juárez.",
+        quando: "Sera, per un drink.",
+        tempo: "30 minuti",
+        lat: 23.44892,
+        lng: -110.22568,
+      },
+      {
+        nome: "Centro Cultural Profesor Néstor Agúndez",
+        testo: "Il centro culturale occupa una vecchia scuola con murales sulla facciata e ospita il museo di storia regionale, la ricostruzione di una casa di ranch sudcaliforniana, una fototeca e una pinacoteca. Racconta il paese prima di surfisti e gallerie.",
+        come: "A piedi, a pochi isolati dalla piazza.",
+        quando: "Mattina.",
+        tempo: "45 minuti",
+        lat: 23.45089,
+        lng: -110.22356,
+      },
+      {
+        nome: "Playa Cerritos",
+        testo: "Una baia sul Pacifico protetta da una punta rocciosa, l'unica della zona dove si nuota con una certa sicurezza. Le onde sono adatte ai principianti e sulla spiaggia ci sono scuole di surf, noleggio tavole e ristoranti.",
+        come: "In auto o taxi, circa 15 minuti a sud di Todos Santos; parcheggio sulla spiaggia.",
+        quando: "Mattina presto per le lezioni, quando le onde sono più gentili.",
+        tempo: "Mezza giornata",
+        lat: 23.32964,
+        lng: -110.17617,
+        consiglio: "Anche qui si nuota vicino ai bagnini e lontano dalle rocce, dove le correnti sono più forti.",
+      },
+      {
+        nome: "Playa Punta Lobos",
+        testo: "La spiaggia dei pescatori, poco a sud del paese, dove a metà giornata le pangas rientrano sfruttando le onde e scaricano il pescato. Da una punta rocciosa si vede tutta la costa; il bagno è pericoloso.",
+        come: "In auto su una pista sterrata, circa 10 minuti dal centro.",
+        quando: "Tarda mattina, per il rientro delle barche.",
+        tempo: "1 ora",
+        costo: "Gratis",
+        lat: 23.41474,
+        lng: -110.23049,
+      },
+      {
+        nome: "Playa Las Palmas",
+        testo: "Una spiaggia appartata con un palmeto alle spalle, fra due punte rocciose, raggiungibile con una breve camminata. È tra le più belle della zona per il tramonto, ma il mare ha correnti forti.",
+        come: "In auto verso sud, poi a piedi per l'ultimo tratto.",
+        quando: "Tardo pomeriggio.",
+        tempo: "2 ore",
+        costo: "Gratis",
+        lat: 23.38987,
+        lng: -110.21273,
+      },
+      {
+        nome: "Playa La Pastora",
+        testo: "La spiaggia a nord del paese, lunga e aperta, frequentata da surfisti esperti e da chi va a vedere il tramonto sul Pacifico. D'inverno capita di vedere al largo il soffio delle megattere.",
+        come: "In auto verso nord su strada sterrata, 10-15 minuti.",
+        quando: "Tramonto.",
+        tempo: "1-2 ore",
+        costo: "Gratis",
+        consiglio: "Solo per guardare: correnti e frangenti rendono il bagno pericoloso.",
+      },
+      {
+        nome: "Liberazione delle tartarughe",
+        testo: "Nelle stagioni di schiusa i progetti di conservazione del paese liberano in mare, al tramonto, le tartarughe nate nei loro vivai, d'inverno soprattutto liuto e olivacee. I piccoli si posano sulla sabbia e raggiungono l'acqua da soli.",
+        come: "Con i progetti locali, come Tortugueros Las Playitas, a nord del paese; le date dipendono dalle schiuse e si annunciano poche ore prima.",
+        quando: "Al tramonto, nei mesi di schiusa.",
+        tempo: "1 ora",
+        costo: "Piccola donazione in contanti",
+        consiglio: "Le tartarughine non si toccano e non si usano flash né torce.",
+      },
+      {
+        nome: "El Pescadero",
+        testo: "Il paese agricolo a sud di Todos Santos, fra orti biologici, banchi di frutta e piccoli ristoranti. È la base per Cerritos e per i sentieri della Sierra de la Laguna.",
+        come: "In auto, circa 15 minuti a sud sulla Federale 19.",
+        quando: "Mattina, per i banchi degli orti.",
+        tempo: "1-2 ore",
+        lat: 23.36417,
+        lng: -110.16833,
+      },
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Playa Cerritos e lezione di surf",
+          "Pomeriggio: missione, Centro Cultural e gallerie del centro",
+          "Tramonto a La Pastora, cena in paese",
+        ],
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: centro storico, Punta Lobos per il rientro delle pangas, tramonto a Las Palmas",
+          "Giorno 2: Cerritos e El Pescadero, tartarughe al tramonto in stagione",
+        ],
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: escursione nella Sierra de la Laguna, oppure una giornata a La Paz o Cabo San Lucas",
+        ],
+      },
+    ],
+    zone: [
+      {
+        nome: "Centro storico",
+        perChi: "charme e ristoranti a piedi",
+        testo: "Piccoli hotel di charme di fascia media e alta e qualche guesthouse economica, a pochi passi da gallerie e ristoranti.",
+        fascia: "100-250 €",
+      },
+      {
+        nome: "El Pescadero e Cerritos",
+        perChi: "surf",
+        testo: "Case vacanza, piccoli hotel e campeggi vicino alle onde di Cerritos: si sta in costume tutto il giorno, ma per cena serve l'auto.",
+      },
+      {
+        nome: "La Pastora e Las Playitas",
+        perChi: "chi vuole silenzio",
+        testo: "Case e ville sparse a nord del paese, fra palmeti e spiagge vuote, raggiungibili su strade sterrate.",
+      },
+    ],
       "sapori": [
         {
           "nome": "Tacos di pesce e gamberi",
@@ -2114,6 +2625,52 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Le gallerie chiudono a ore variabili: controllare.",
         "Da metà maggio a novembre è la stagione degli uragani del Pacifico: controllare i bollettini prima di partire."
       ],
+    gite: [
+      {
+        nome: "La Paz",
+        distanza: "circa 80 km, 1 ora",
+        come: "In auto sulla Federale 19.",
+        testo: "Il Malecón, Playa Balandra e, in stagione, lo squalo balena; con un giorno in più, Espíritu Santo e i leoni marini di Los Islotes.",
+      },
+      {
+        nome: "Cabo San Lucas",
+        distanza: "circa 1 ora a sud",
+        come: "In auto sulla Federale 19.",
+        testo: "La barca fino a El Arco e, da dicembre ad aprile, le uscite per le megattere. È la parte più turistica e cara della penisola.",
+      },
+      {
+        nome: "Sierra de la Laguna",
+        distanza: "pochi chilometri all'interno",
+        come: "In auto fino all'inizio dei sentieri sul versante di El Pescadero, meglio con una guida.",
+        testo: "La riserva della biosfera alle spalle della costa, con boschi di querce e pini sopra il deserto. Le passeggiate brevi si fanno in giornata; il trekking fino alla laguna in cima richiede due giorni.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "Si può fare il bagno a Todos Santos?",
+        risposta: "Sulle spiagge davanti al paese no: correnti e frangenti sono forti. Si nuota a Playa Cerritos, 15 minuti a sud, vicino ai bagnini.",
+      },
+      {
+        domanda: "Quando si liberano le tartarughe?",
+        risposta: "Nelle stagioni di schiusa, al tramonto, con i progetti di conservazione del paese. Le date dipendono dalle uova e vengono annunciate poche ore prima: conviene chiedere appena si arriva.",
+      },
+      {
+        domanda: "Todos Santos o Los Cabos come base?",
+        risposta: "Todos Santos è più tranquillo e costa meno, con gallerie, surf e spiagge vuote; Los Cabos ha resort, vita notturna e le uscite per le megattere. Sono a un'ora l'uno dall'altro.",
+      },
+      {
+        domanda: "Quanti giorni servono?",
+        risposta: "Un giorno basta per il centro e Cerritos; due permettono tramonti, tartarughe in stagione e un ritmo più lento.",
+      },
+      {
+        domanda: "L'Hotel California è quello della canzone?",
+        risposta: "No, il legame con il brano degli Eagles esiste solo nella leggenda. L'hotel resta comunque uno degli edifici più fotografati del paese.",
+      },
+      {
+        domanda: "Quando andare a Todos Santos?",
+        risposta: "Da novembre ad aprile, con giornate secche e megattere al largo. Da metà maggio a novembre è la stagione degli uragani del Pacifico.",
+      },
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'La lunga spiaggia oceanica di Todos Santos vista dall\'alto',
