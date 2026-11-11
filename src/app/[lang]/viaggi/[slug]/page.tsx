@@ -13,6 +13,7 @@ import { etichetta } from '@/lib/i18n/etichette'
 
 /** Vecchi indirizzi con «-360» (titoli rinominati il 30/10/2026): redirect permanente al nuovo. */
 import { Prose } from '@/components/Prose'
+import { CardRicordo } from '@/components/scheda/CardRicordo'
 import { Tendina } from '@/components/Tendina'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
@@ -484,7 +485,7 @@ function SignatureViaggioContent({
       {/* Indice: da lg una colonna laterale sticky (sezioni + giorni), sotto lg una barra sticky
           «Giorno 3 di 12 ▾» + «Mappa» in cima all'articolo. Prima era una fila di pulsanti fissa qui. */}
       <section className="pb-16 sm:pb-20">
-        <Container>
+        <Container largo>
           <div className="lg:grid lg:grid-cols-[12.5rem_minmax(0,1fr)] lg:gap-12">
           <aside className="hidden pt-16 lg:block">
             <IndiceViaggio sezioni={sezioni} giorni={giorniIndice} unitaLabel={meta.unitaGiorniLabel} />
@@ -692,9 +693,12 @@ function SignatureViaggioContent({
             )}
 
             {viaggio.chiusura && (
-              <p className="border-t border-alpine/10 pt-10 font-display text-lg italic leading-relaxed text-stone sm:text-xl">
+              <CardRicordo
+                etichetta={{ it: 'Il mio ricordo', en: 'My memory', es: 'Mi recuerdo' }[lingua]}
+                className="mt-6"
+              >
                 {richNodes(viaggio.chiusura)}
-              </p>
+              </CardRicordo>
             )}
 
             {viaggio.tags.length > 0 && (

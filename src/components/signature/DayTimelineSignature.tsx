@@ -78,14 +78,14 @@ export const DayTimelineSignature = forwardRef<
           // <li> figlio diretto di <ol> (HTML valido); l'animazione sta dentro, sul contenuto.
           // scroll-mt più alto della barra sticky dell'indice sul telefono (circa 60 px)
           <li key={giorno.titolo} id={idGiorno(i)} className="scroll-mt-20 lg:scroll-mt-8">
-            <Reveal className="grid gap-4 sm:grid-cols-[7rem_1fr] sm:gap-10">
-              <div className="flex items-center sm:block">
-                <span aria-hidden="true" className="font-display text-6xl font-medium leading-none text-alpine/20 sm:text-7xl">
+            <Reveal className="grid gap-3">
+              <div className="flex items-center gap-4">
+                <span aria-hidden="true" className="font-display text-6xl font-medium leading-none text-alpine/20">
                   {numero.padStart(2, '0')}
                 </span>
                 {info && (
                   <span
-                    className={`ml-4 inline-flex h-fit items-center gap-1.5 rounded-none px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider sm:ml-0 sm:mt-3 ${INTENSITA_CLASSES[info.intensita]}`}
+                    className={`inline-flex h-fit items-center gap-1.5 rounded-none px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider ${INTENSITA_CLASSES[info.intensita]}`}
                   >
                     <Gauge size={12} aria-hidden />
                     {t.ritmo[info.intensita]}
@@ -135,7 +135,7 @@ export const DayTimelineSignature = forwardRef<
                 )}
 
                 {/* 3. Racconto e attività, così come sono nel markdown */}
-                {racconto && <Prose className="mt-5 text-sm">{racconto}</Prose>}
+                {racconto && <Prose className="mt-5 text-[0.95rem] leading-relaxed">{racconto}</Prose>}
 
                 {/* 4. Consigli: il blocco «In pratica» del markdown, staccato dal racconto */}
                 {pratica && (

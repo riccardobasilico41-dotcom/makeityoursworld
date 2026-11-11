@@ -52,7 +52,7 @@ export function DaySectionSignature({
   const nomi = [...new Set(evidenzia.map((i) => tappe[i]?.nome).filter(Boolean))]
 
   return (
-    <div className="xl:grid xl:grid-cols-[minmax(0,1fr)_15rem] xl:gap-10">
+    <div className="xl:grid xl:grid-cols-[minmax(0,1fr)_14rem] xl:gap-10">
       <DayTimelineSignature ref={containerRef} giorni={giorni} meta={meta} paeseSlug={paeseSlug} unitaLabel={unitaLabel} />
       <div className="hidden xl:sticky xl:top-6 xl:block xl:self-start">
         {/* stesso giorno attivo dell'indice laterale e della barra mobile (useAncoraAttiva) */}

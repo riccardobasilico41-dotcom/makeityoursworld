@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { CardRicordo } from '@/components/scheda/CardRicordo'
 import { Filigrana } from '@/components/Filigrana'
 
 // la filigrana della meraviglia è quella del Paese dove si trova
@@ -263,12 +264,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
             )}
 
             {meraviglia.miaEsperienza && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">{t.mia}</h2>
-                <p className="mt-3 font-display text-xl italic leading-relaxed text-alpine">
-                  {meraviglia.miaEsperienza}
-                </p>
-              </div>
+              <CardRicordo etichetta={t.mia} className="mt-4">{meraviglia.miaEsperienza}</CardRicordo>
             )}
             <FirmaAutore />
             {meraviglia.verificataIl && meraviglia.fonti && meraviglia.fonti.length > 0 && (

@@ -1,7 +1,7 @@
-import Image from 'next/image'
 import type { ReactNode } from 'react'
 import { AlertTriangle, ArrowUpRight, type LucideIcon } from 'lucide-react'
 import { richNodes } from '@/components/ui/Rich'
+import { CardRicordo } from '@/components/scheda/CardRicordo'
 import { Container } from '@/components/ui/Container'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
@@ -121,25 +121,7 @@ export function SchedaTesto({ icona: Icona, titolo, testo }: { icona: LucideIcon
 /** Il ricordo di Rick: riquadro scuro, virgolette e firma con la faccia. */
 export async function Ricordo({ testo }: { testo: string }) {
   const t = T[await linguaCorrente()]
-  return (
-    <figure className="relative scheda bg-alpine p-6 text-cream sm:p-8">
-      <span aria-hidden className="absolute -top-6 left-5 font-display text-7xl leading-none text-rosso">
-        «
-      </span>
-      <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cream/60">{t.miaEsperienza}</p>
-      <blockquote className="mt-3 font-display text-xl italic leading-relaxed sm:text-2xl">{richNodes(testo)}</blockquote>
-      <figcaption className="mt-5 flex items-center gap-3 text-sm text-cream/80">
-        <Image
-          src="/images/chi-sono/rick-avatar.jpg"
-          alt=""
-          width={36}
-          height={36}
-          className="size-9 rounded-full border-2 border-cream object-cover"
-        />
-        Rick
-      </figcaption>
-    </figure>
-  )
+  return <CardRicordo etichetta={t.miaEsperienza}>{richNodes(testo)}</CardRicordo>
 }
 
 /** Errori da evitare in un riquadro rosso. */
