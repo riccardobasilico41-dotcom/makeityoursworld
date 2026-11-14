@@ -524,7 +524,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "The season runs from early December to mid-April, but the periods are very different. **Christmas and New Year** have the highest prices of the year and the most crowded slopes. **January after Epiphany** is the best time for value: good snow, few people, low prices. **February** is the month with the most reliable snow but coincides with school ski weeks. **March** is the best month for good skiers: long days, sun, snow still good up high and prices falling. In April you only ski at high altitude and on glaciers.",
     costi:
-      "The lift pass is the main expense and varies a lot. In Dolomiti Superski the daily pass in high season is around 86 euros (about 77 in low season) and the seasonal pass around 970: these are indicative figures that should be rechecked every year. Then there's rental (€25-45 a day for a full set), lessons and lunch on the mountain. **Rates drop considerably if you book lift pass and lodging as a package and outside peak periods.**",
+      "The lift pass is the main expense and varies a lot. In Dolomiti Superski the 2026/27 adult day pass costs 89 euros in high season and 80 in regular season, the pre-sale season pass 990; in Cervinia 64, in the Vialattea from 54, in Livigno from 66. Then there's rental (€25-45 a day for a full set), lessons and lunch on the mountain. **Prices drop considerably if you book lift pass and accommodation as a package and outside peak periods.** Budget: about €150-180 a day per person with a shared apartment, lift pass and rental. Mid-range: €250-300 with a half-board hotel and lunch in a mountain hut. High: over €450 with a ski-in/ski-out hotel and a private instructor.",
     erroriDaEvitare: [
       "Booking at Christmas or New Year without knowing they're the two most expensive weeks of the year, with differences of even forty percent compared with January",
       "Choosing the ski area by reputation instead of altitude: below 1,800 meters, with the winters of recent years, natural snow is no longer guaranteed and you ski on man-made snow",
@@ -542,7 +542,7 @@ export const destinazioniItalia: Destinazione[] = [
           {
             nome: "Dolomiti Superski",
             sintesi: "The largest ski consortium in the world by area served by a single lift pass: twelve ski areas, over 1,200 km of slopes, from the Sellaronda to the Marmolada to Cortina.",
-            costo: "daily pass around €86 in high season, seasonal pass around €970",
+            costo: "daily pass around €89 in high season, seasonal pass around €990",
             durata: "a week isn't enough to see it all",
             pro: [
               "A size with no comparison: you ski for days without ever repeating a run",
@@ -735,8 +735,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Start from any village around the Sella (Selva, Canazei, Arabba, Corvara) with a Dolomiti Superski pass. The clockwise direction is marked with orange signs, the anticlockwise one with green signs.",
         "quando": "In season, December to mid April. Start early and reach the last lift before closing: anyone who arrives late has to take a taxi back.",
         "tempo": "a full day: 4-5 hours on skis plus breaks",
-        "costo": "Dolomiti Superski pass prices change every season: check them on the official site before leaving",
+        "costo": "Dolomiti Superski lift pass 2026/27: adult day pass €89 in high season and €80 in regular season; 6 days €453 or €407",
+        "orari": "Season from 28 November 2026; high season 20 December to 9 January and 31 January to 20 March 2027. Lifts run during the day, with different hours for each lift: check them on the official app",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5,
+        "lng": 11.8333,
         "consiglio": "Check the last-lift times for each pass the same morning and carry something to eat in your pocket."
       },
       {
@@ -745,7 +748,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Stay in Corvara, La Villa or San Cassiano and take the lifts straight from the village. The Dolomiti Superski pass also reaches the Sellaronda.",
         "quando": "December to April. January and March are the best months for snow and prices.",
         "tempo": "2-3 days to explore the area",
+        "costo": "Dolomiti Superski lift pass 2026/27: adult day pass €89 in high season and €80 in regular season; 6 days €453 or €407",
+        "orari": "Season from 28 November 2026; high season 20 December to 9 January and 31 January to 20 March 2027. Lifts run during the day, with different hours for each lift: check them on the official app",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5496,
+        "lng": 11.874,
         "consiglio": "Have lunch in a mountain hut and book in high season: the best ones run out of tables early."
       },
       {
@@ -754,7 +761,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Stay in Cortina and take the gondola or shuttle to the lift base; valley ski buses link the three areas.",
         "quando": "December to April. In the weeks after Epiphany and in late February prices drop.",
         "tempo": "3-4 days",
+        "costo": "Dolomiti Superski lift pass 2026/27: adult day pass €89 in high season and €80 in regular season; 6 days €453 or €407",
+        "orari": "Season from 28 November 2026; high season 20 December to 9 January and 31 January to 20 March 2027. Lifts run during the day, with different hours for each lift: check them on the official app",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5333,
+        "lng": 12.1333,
         "consiglio": "After the 2026 Olympics some lifts and runs were changed: check the updated map before planning your days."
       },
       {
@@ -763,7 +774,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Aosta drive or take the bus to Breuil-Cervinia. The lifts start from the village. For Zermatt you need the extended pass.",
         "quando": "November to May for snow at altitude; the link to Zermatt depends on the weather and wind.",
         "tempo": "3-5 days; the Cervinia-Zermatt trip takes a full day",
+        "costo": "Cervinia lift pass 2026/27 on the Italian side: €64 a day with a single rate all season, €338 for 6 days. With Zermatt (Matterhorn Ski Paradise) €88 a day",
+        "orari": "Season on the Italian side from 24 October 2026 to 2 May 2027; the link with Zermatt depends on wind and weather",
         "url": "https://www.cervinia.it/",
+        "lat": 45.9344,
+        "lng": 7.6311,
         "consiglio": "Check the last lift for coming back from Switzerland: if you miss the last ride, you go back by taxi or train at high cost."
       },
       {
@@ -772,7 +787,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Courmayeur is reached by car or bus from Aosta. The Skyway starts at Pontal d'Entrèves, a few minutes from the centre.",
         "quando": "December-April. For the Skyway choose clear days: with clouds there is no view.",
         "tempo": "2-3 days; the Skyway takes half a day",
+        "costo": "Adult day pass about €75 (2026/27); Skyway return ticket to Punta Helbronner about €55 per person",
         "url": "https://www.montebianco.com/",
+        "lat": 45.8159,
+        "lng": 6.9561,
         "consiglio": "Anyone who wants the Vallée Blanche must book a mountain guide in advance and check crevasse conditions."
       },
       {
@@ -781,7 +799,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Turin by car up the Susa valley. There is also a train to Oulx, then a bus to Sauze or Sestriere.",
         "quando": "December to April. Altitudes are lower than Cervinia: snow is less certain at the start and end of the season.",
         "tempo": "3-5 days",
+        "costo": "Vialattea lift pass 2026/27: day pass €54, €62 in peak season (24 December-6 January) at the ticket office; 6 days from €273.50 to €325.50",
         "url": "https://www.vialattea.it/",
+        "lat": 44.9582,
+        "lng": 6.8788,
         "consiglio": "For anyone coming from Turin it is the most convenient choice for a weekend: you can do it without two long nights on the road."
       },
       {
@@ -790,7 +811,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Milan by car, via Bormio and the Eira Pass, or from Switzerland through the Munt la Schera tunnel. Check winter road conditions.",
         "quando": "Late November to April.",
         "tempo": "3-5 days",
+        "costo": "Lift pass 2026/27: day pass €66, €74.50 in high season, €51.50 in promo periods; 6 days from €331 to €374.50",
+        "orari": "Promo rate from 28 November to 18 December 2026 and from 10 April to 2 May 2027; high season 26 December to 8 January and 31 January to 29 March 2027",
         "url": "https://www.livigno.eu/",
+        "lat": 46.5382,
+        "lng": 10.136,
         "consiglio": "There are customs checks on leaving, with limits on quantities of alcohol, tobacco and fuel: find out before shopping."
       },
       {
@@ -799,8 +824,79 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Malga Ciapela, in the Alto Agordino, a cable car in three sections goes up to Punta Rocca. From there you ski down the run. The lifts are part of Dolomiti Superski.",
         "quando": "December to April, often with good snow in spring. The lifts depend on the weather.",
         "tempo": "half a day for the descent",
+        "costo": "Dolomiti Superski lift pass 2026/27: adult day pass €89 in high season and €80 in regular season; 6 days €453 or €407",
+        "orari": "Season from 28 November 2026; high season 20 December to 9 January and 31 January to 20 March 2027. Lifts run during the day, with different hours for each lift: check them on the official app",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.4275,
+        "lng": 11.9131,
         "consiglio": "The descent is long: check conditions and the last ride, and carry some liquids."
+      },
+      {
+        "nome": "Madonna di Campiglio",
+        "testo": "Trentino's best-known resort, below the Brenta Dolomites, linked on skis with Pinzolo and Folgarida-Marilleva. The Canalone Miramonti is the night run of the 3Tre, the World Cup slalom. The village is elegant and expensive, with shops and nightlife.",
+        "come": "By car from Trento in about an hour and a half, or by regional bus from Trento. The lifts start from the village.",
+        "quando": "December to April; January after Epiphany and March are cheaper.",
+        "tempo": "3-5 days",
+        "costo": "Skiarea Campiglio lift pass 2026/27: day pass €75 in regular season, €87 in high season, €89 in peak season; 6 days from about €376 to €445",
+        "orari": "Peak season 5-8 December 2026, 28 December-6 January and 7-20 February 2027; on Sundays 3- to 6-day passes cost €10 more",
+        "lat": 46.2319,
+        "lng": 10.8261,
+        "consiglio": "To spend less, stay in Pinzolo, down in the valley, and take the gondola up into the ski area."
+      },
+      {
+        "nome": "Val Gardena and Seceda",
+        "testo": "Selva, Santa Cristina and Ortisei lie on the Sellaronda and have runs for every level. The Saslong is the World Cup downhill; from the Seceda, above Ortisei, the Odle peaks are close up.",
+        "come": "Train to Bolzano and bus 350 up the valley, or by car from the A22 (Chiusa exit). The valley ski bus links the three villages.",
+        "quando": "December to April. Take the Seceda cable car on a clear day.",
+        "tempo": "2-4 days",
+        "costo": "Dolomiti Superski lift pass 2026/27: adult day pass €89 in high season and €80 in regular season; 6 days €453 or €407",
+        "orari": "Season from 28 November 2026; high season 20 December to 9 January and 31 January to 20 March 2027. Lifts run during the day, with different hours for each lift: check them on the official app",
+        "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5558,
+        "lng": 11.7606
+      },
+      {
+        "nome": "Monterosa Ski (Champoluc, Gressoney, Alagna)",
+        "testo": "Three valleys below Monte Rosa linked on skis. Champoluc and Gressoney have wide runs and Walser villages; Alagna is one of Europe's best-known freeride spots.",
+        "come": "Champoluc and Gressoney from the A5 motorway (Verrès and Pont-Saint-Martin exits); Alagna from Valsesia. Valley buses leave from Verrès and Pont-Saint-Martin stations.",
+        "quando": "December to April. Off-piste only with a guide and after reading the avalanche bulletin.",
+        "tempo": "3-5 days",
+        "costo": "Dynamic pricing: the day pass changes with the date and with how early it is bought online",
+        "url": "https://www.monterosaski.eu/",
+        "lat": 45.8333,
+        "lng": 7.7333
+      },
+      {
+        "nome": "Bormio",
+        "testo": "A historic town in upper Valtellina with the Stelvio run, one of the toughest downhills on the World Cup circuit and venue of the men's alpine races at the 2026 Games. After skiing there are the thermal baths.",
+        "come": "Train from Milan to Tirano and bus to Bormio, or by car along the SS38. The gondola leaves from the town.",
+        "quando": "December to April.",
+        "tempo": "3-5 days",
+        "costo": "Multi-day passes at dynamic prices, with discounts of up to 25% when bought online in advance",
+        "lat": 46.4667,
+        "lng": 10.3667,
+        "consiglio": "Livigno is about an hour away: the two ski areas can be combined in the same week."
+      },
+      {
+        "nome": "Plan de Corones (Kronplatz)",
+        "testo": "A mountain with a broad, rounded summit above Brunico, with runs coming down every side. At the top is Lumen, the museum of mountain photography. It is part of Dolomiti Superski.",
+        "come": "Val Pusteria train to Brunico or Perca, where the station is next to the gondola. By car from the A22, Bressanone exit.",
+        "quando": "December to April.",
+        "tempo": "2-3 days",
+        "costo": "Dolomiti Superski lift pass 2026/27: adult day pass €89 in high season and €80 in regular season; 6 days €453 or €407",
+        "orari": "Season from 28 November 2026; high season 20 December to 9 January and 31 January to 20 March 2027. Lifts run during the day, with different hours for each lift: check them on the official app",
+        "url": "https://www.kronplatz.com/",
+        "lat": 46.7381,
+        "lng": 11.96
+      },
+      {
+        "nome": "Roccaraso and Alto Sangro",
+        "testo": "The largest ski area in the Apennines, in Abruzzo, between Roccaraso, Rivisondoli and Pescocostanzo. It is the snow for people living in Rome and Naples: prices far below the Alps, but seasons that are less and less certain.",
+        "come": "By car from Rome or Naples in about two and a half hours. The Aremogna lifts are a few kilometres from the town.",
+        "quando": "January and February, on weekdays: weekends are very crowded. Check the snow report before leaving.",
+        "tempo": "a weekend",
+        "lat": 41.8466,
+        "lng": 14.0785
       }
     ],
     programmi: [
@@ -888,6 +984,58 @@ export const destinazioniItalia: Destinazione[] = [
       "At Christmas, New Year and in February weeks prices rise sharply and the pistes are very crowded. Book early or choose January after Epiphany or March.",
       "In lower resorts natural snow is not guaranteed: check webcams and the snow report before booking.",
       "At Cervinia wind and fog often close the high lifts: keep a plan B at lower altitude. At Livigno there are customs checks on leaving."
+    ],
+    gite: [
+      {
+        "nome": "Bolzano and the Ötzi Museum",
+        "distanza": "about 40 km from Val Gardena",
+        "come": "Bus 350 from Ortisei or by car",
+        "testo": "A rest day for the legs: the South Tyrol Museum of Archaeology with the Similaun mummy, the arcades and, in December, the Christmas market."
+      },
+      {
+        "nome": "Lake Braies in winter",
+        "distanza": "about 35 km from Cortina",
+        "come": "By car via Dobbiaco",
+        "testo": "The frozen lake below the Croda del Becco, with a walk around the shore. After fresh snow, snowshoes make the walk easier."
+      },
+      {
+        "nome": "Bormio thermal baths",
+        "distanza": "about 40 km from Livigno",
+        "come": "By car or regular bus",
+        "testo": "Outdoor pools with naturally hot water and views of snowy peaks: the easiest way to recover mid-week."
+      },
+      {
+        "nome": "Roman Aosta",
+        "distanza": "about 35 km from Courmayeur, 50 from Cervinia",
+        "come": "Bus or car along the valley",
+        "testo": "The Roman theatre, the Arch of Augustus and the collegiate church of Sant'Orso in half a day, useful when wind closes the high lifts."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How much is a Dolomites lift pass in 2026/27?",
+        "risposta": "The Dolomiti Superski adult day pass costs €89 in high season and €80 in regular season; the 6-day pass €453 or €407. Buying it together with accommodation, as a package, lowers the cost."
+      },
+      {
+        "domanda": "When is the best time for a ski week?",
+        "risposta": "January after Epiphany: usually good snow, empty slopes and prices up to 40% lower than at Christmas. March is excellent at altitude for those who want sun and long days."
+      },
+      {
+        "domanda": "Where is snow most reliable in Italy?",
+        "risposta": "In ski areas starting above 1,800-2,000 metres: Cervinia, which reaches about 3,480 metres, Livigno and the high parts of the Dolomites. Below that you often ski on artificial snow."
+      },
+      {
+        "domanda": "Do I need insurance to ski in Italy?",
+        "risposta": "Yes: since 2022 third-party liability insurance has been compulsory for skiing on pistes. Mountain rescue is also charged, and a helicopter can cost thousands of euros: check what the policy sold with the lift pass covers."
+      },
+      {
+        "domanda": "Is the Sellaronda suitable for an intermediate skier?",
+        "risposta": "Yes, the runs are almost all blue and red. What tires you is the length: start at nine, anticlockwise (green signs) to find shorter queues, and check the wind and the times of the last lifts."
+      },
+      {
+        "domanda": "Can I reach the slopes without a car?",
+        "risposta": "Yes. For Val Gardena, train to Bolzano and bus 350; for Val di Fassa there is the FlySki Shuttle from Verona, Venice, Treviso, Bergamo and Milan airports at weekends from 19 December 2026 to 29 March 2027, about €50 each way."
+      }
     ],
     esperienzeSlugs: ['sellaronda', 'scialpinismo-ciaspole'],
     tripSlugs: ['settimana-bianca'],
@@ -3572,13 +3720,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Each archipelago has its own identity: capers, malvasia and blue fish in the Aeolians; capers, passito and Pantesco pesto in Pantelleria; rabbit alla ischitana on Ischia, a land dish on an island; fish and tuna in all its preserves on Favignana. The general rule is that on the smaller islands **fish is expensive and land cooking is cheap and often better**.",
     comeArrivare:
-      "Ferries and hydrofoils from mainland ports, with **frequencies that collapse in low season** and runs that get canceled in rough seas: it's the variable that conditions everything. Pantelleria and Lampedusa have airports; Elba does too, but with few connections.",
+      "Ferries and hydrofoils from mainland ports, with **frequencies that collapse in low season** and runs that get canceled in rough seas: it's the variable that conditions everything. Pantelleria and Lampedusa have airports; Elba does too, but with few connections. For the Aeolian Islands fly to Catania and continue by bus to Milazzo; for the Egadi go to Trapani; for Capri, Ischia and Procida to Naples; for Ponza to Anzio, Formia or Terracina.",
     comeSpostarsi:
       "On foot, by scooter, by boat. **Several islands limit or ban cars from landing in summer** and on some (Panarea, Alicudi, Filicudi) there are almost no cars. Bringing your own vehicle is almost always pointless and often impossible.",
     periodoMigliore:
       "June and September are the ideal window: warm sea, full connections, prices not yet out of scale. **July and August are to be avoided** everywhere on the smaller islands: supply is saturated, prices multiply and already-small places fill up. From November to March many islands almost completely shut down, with reduced ferries and closed lodgings.",
     costi:
-      "Ferries weigh more than you'd think, and with a car in tow they double. In high season, lodging on the best-known islands (Capri, Panarea, Ponza) reaches the prices of a European capital.",
+      "Ferries weigh more than you'd think, and with a car in tow they double. In high season, lodging on the best-known islands (Capri, Panarea, Ponza) reaches the prices of a European capital. Budget: about €70-90 a day per person with a simple B&B in a double room, trattoria meals and ferries. Mid-range: €130-180 with a hotel, a boat trip and fish dinners. High: over €300 with a boutique hotel in Capri, Panarea or Ponza in high season.",
     erroriDaEvitare: [
       "Planning tight ferry connections: **in rough seas runs get canceled**, and being stuck an extra day is the rule",
       "Choosing the island by reputation instead of character: Capri and Panarea in August are glamorous and extremely crowded, and anyone looking for peace has the wrong address",
@@ -3695,6 +3843,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Milazzo or from Lipari and the other Aeolian islands. On the island you walk and use Ape taxis. Above the free altitude you need authorised volcano guides.",
         "quando": "The climb is governed by ordinances that change with the volcano's activity: the maximum altitude, access to the summit and the guide requirement should be checked with the Comune di Lipari or the authorised guides before booking. June and September, with calm seas, for boat trips.",
         "tempo": "1 full day, better one night",
+        "costo": "Trips with an authorised guide from about €30 per person; the boat trip below the Sciara is paid separately",
+        "orari": "Under the 2025 ordinance you can climb alone up to 290 metres and with a guide up to 400: the limit changes with the volcano's activity, so check the one in force",
+        "lat": 38.7939,
+        "lng": 15.2111,
         "consiglio": "In the evening have dinner on Stromboli and go out by boat in the dark: you do not need the summit to see the explosions. Headlamp, hiking shoes and a sweater even in September."
       },
       {
@@ -3703,6 +3855,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Milazzo or Lipari; in high season landings at Santa Marina and Rinella. On the island there are few buses and a scooter is best.",
         "quando": "June and September. In summer the sunset from Pollara is crowded; better early morning.",
         "tempo": "1-2 days",
+        "lat": 38.559,
+        "lng": 14.8359,
         "consiglio": "Try the sunset from Pollara and the malvasia passito at a winery. In August connections are full."
       },
       {
@@ -3711,6 +3865,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "You need a car or scooter from Pantelleria town. You get there by flight from Trapani, Palermo and Catania, or by sea from Trapani by ferry or hydrofoil; in rough seas sailings are cancelled.",
         "quando": "Spring and autumn for walking, June and September for swimming. The island is very windy. The mud and swim in the lake are nicer in the morning.",
         "tempo": "2-3 hours",
+        "costo": "Free entry",
+        "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.8158,
+        "lng": 11.9862,
         "consiglio": "If you do the mud bath, take off jewelry and rinse in the lake before leaving. Bring rock shoes: there are no sand beaches."
       },
       {
@@ -3719,6 +3877,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Inland roads to drive by car or scooter. Trails start from the road to Montagna Grande.",
         "quando": "Spring and autumn. Summer is scorching by day and sirocco days make trails difficult.",
         "tempo": "half a day",
+        "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.7807,
+        "lng": 12.005,
         "consiglio": "The local wineries do passito tastings: book. Bush vines are seen mostly in the south."
       },
       {
@@ -3727,6 +3888,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil or ferry from Naples and Sorrento. On the island you use buses and the funicular, then walk.",
         "quando": "May, June and September; off season Capri is another island. The Blue Grotto can be visited in calm seas, early morning.",
         "tempo": "1 day, better 2 with a night",
+        "costo": "Hydrofoil from Naples over €25 each way. Blue Grotto about €18-19 between rowing boat and ticket, plus the boat transfer from Marina Grande",
+        "lat": 40.5419,
+        "lng": 14.2531,
         "consiglio": "To escape the crowd, go around the island by boat early in the morning and then go up to Anacapri. In the afternoon the Faraglioni are better in backlight."
       },
       {
@@ -3735,6 +3899,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ferry or hydrofoil from Naples (Molo Beverello and Calata Porta di Massa) or Pozzuoli. On the island you walk and minibuses run.",
         "quando": "All year, but from May to September. In July and August day boats bring many people.",
         "tempo": "1 day",
+        "lat": 40.7583,
+        "lng": 14.0167,
         "consiglio": "Go down to Corricella by the stairway and eat in one of the places on the quay."
       },
       {
@@ -3743,6 +3909,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ferry or hydrofoil from Anzio, Formia or Terracina. On the island you walk or take the bus; boat trips are booked at the harbour.",
         "quando": "June and September. In August Ponza fills up with the Rome crowd.",
         "tempo": "1-2 days",
+        "lat": 40.9075,
+        "lng": 12.9525,
         "consiglio": "The boat tour is the best way: leave early and stop for a swim at Palmarola. Chiaia di Luna is often closed because of landslide risk."
       },
       {
@@ -3751,6 +3919,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ferries and hydrofoils from Termoli, Vieste, Peschici, Rodi Garganico and Ortona; from Termoli the crossing is the shortest.",
         "quando": "June and September. In winter connections are reduced.",
         "tempo": "1-2 days",
+        "lat": 42.1167,
+        "lng": 15.5,
         "consiglio": "Snorkel with a local operator: the area is protected and boat access is regulated."
       },
       {
@@ -3759,7 +3929,52 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Trapani or Marsala. On the island you rent a bike: distances are short.",
         "quando": "May, June and September. Early in the morning the coves are empty.",
         "tempo": "1 day",
+        "costo": "Hydrofoil from Trapani from about €12 each way, more in high season",
+        "lat": 37.9253,
+        "lng": 12.3289,
         "consiglio": "Bike tour of the quarries, then a tuna dinner. Book the bike in high season."
+      },
+      {
+        "nome": "Ischia and its thermal parks",
+        "testo": "The largest island in the Bay of Naples, volcanic, with hot springs used since antiquity and thermal parks with open-air pools. The Aragonese Castle stands on an islet linked by a bridge; in Forio are the La Mortella Gardens.",
+        "come": "Ferry or hydrofoil from Naples or Pozzuoli. On the island, local buses and taxis.",
+        "quando": "April to October, when the thermal parks are open.",
+        "tempo": "2-3 days",
+        "costo": "Thermal parks with day tickets, about €50 at the Giardini Poseidon in 2026; La Mortella Gardens about €15",
+        "orari": "La Mortella Gardens from early April to early November, Tuesday, Thursday, Saturday and Sunday, 9am-7pm",
+        "lat": 40.7312,
+        "lng": 13.8957,
+        "consiglio": "Swimsuit, flip-flops and towel for the baths; for Sorgeto, the bay with hot water in the sea, there are over two hundred steps."
+      },
+      {
+        "nome": "Elba",
+        "testo": "The largest island of the Tuscan Archipelago, with sandy and pebble beaches, Monte Capanne and iron mines. In Portoferraio is the Villa dei Mulini, where Napoleon lived during his exile.",
+        "come": "Ferry from Piombino, about an hour's crossing, with a car if needed: the island is large.",
+        "quando": "June and September; spring for walking.",
+        "tempo": "3-5 days",
+        "url": "https://www.visitelba.info/",
+        "lat": 42.7782,
+        "lng": 10.1927
+      },
+      {
+        "nome": "Ustica",
+        "testo": "A volcanic island north of Palermo, home to the first marine protected area established in Italy. Its seabed, with caves and walls, is among the best known in the Mediterranean for diving and snorkelling.",
+        "come": "Hydrofoil or ferry from Palermo. On the island you walk or rent a scooter.",
+        "quando": "June to September for the sea; in rough seas crossings are cancelled.",
+        "tempo": "2-3 days",
+        "lat": 38.7053,
+        "lng": 13.1761
+      },
+      {
+        "nome": "Lampedusa and Rabbit Island",
+        "testo": "Italy's southernmost island, already on the African plate. The beach facing Rabbit Island is a nature reserve and a nesting site of the loggerhead turtle, with turquoise water visible from above.",
+        "come": "Flight from Palermo or Catania, or ship from Porto Empedocle. From town by scooter to the car park, then 15-20 minutes on foot along a dirt track.",
+        "quando": "June and September; from November to March the island shuts down.",
+        "tempo": "half a day",
+        "costo": "Free access, with compulsory booking in summer and a daily cap",
+        "lat": 35.51,
+        "lng": 12.5584,
+        "consiglio": "There are no bars on the beach: bring water and shade."
       }
     ],
     programmi: [
@@ -3776,6 +3991,16 @@ export const destinazioniItalia: Destinazione[] = [
         "tappe": [
           "Days 1-2: Capri and Procida from the Gulf of Naples",
           "Days 3-4: Ponza and Palmarola with a boat tour"
+        ]
+      },
+      {
+        "titolo": "7 days: Egadi and Pantelleria",
+        "tappe": [
+          "Days 1-2: hydrofoil from Trapani to Favignana, coves by bike and tuff quarries",
+          "Day 3: Levanzo and the Grotta del Genovese, by reservation",
+          "Day 4: back to Trapani and flight or ferry to Pantelleria",
+          "Days 5-6: Specchio di Venere, Montagna Grande and a passito winery",
+          "Day 7: boat trip around the island and return, with a margin for the wind"
         ]
       }
     ],
@@ -3794,6 +4019,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Gulf of Naples: Procida",
         "perChi": "those with few days",
         "testo": "Procida costs less than Capri and Ischia, with village life and frequent connections from Naples."
+      },
+      {
+        "nome": "Favignana",
+        "perChi": "those with few days, leaving from Trapani",
+        "testo": "The widest choice and most affordable prices among the Sicilian islands, half an hour by hydrofoil from Trapani. Everything is reached by bike."
       }
     ],
     sapori: [
@@ -3829,6 +4059,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Many islands limit or ban cars landing in summer: bringing the car is almost always pointless and expensive.",
       "Fresh water is scarce and arrives by tanker ships: use it sparingly.",
       "Off season (November-March) many businesses are closed and connections reduced: check what is open before leaving."
+    ],
+    gite: [
+      {
+        "nome": "Procida from Naples",
+        "distanza": "about 40 minutes by hydrofoil",
+        "come": "Hydrofoil or ferry from Molo Beverello, Calata Porta di Massa or Pozzuoli",
+        "testo": "The smallest island in the bay can be walked in a day: Corricella, Terra Murata and a beach in the afternoon."
+      },
+      {
+        "nome": "Favignana from Trapani",
+        "distanza": "about 30 minutes by hydrofoil",
+        "come": "Hydrofoil from Trapani harbour, bike hire on arrival",
+        "testo": "Cala Rossa, Cala Azzurra and the tuff quarries in a day, with the last evening hydrofoil back."
+      },
+      {
+        "nome": "Vulcano from Milazzo",
+        "distanza": "about an hour by hydrofoil",
+        "come": "Hydrofoil from Milazzo harbour",
+        "testo": "The climb to the Gran Cratere, about an hour on foot, with views over all the Aeolian Islands, then a swim at Porto di Levante."
+      },
+      {
+        "nome": "Ponza from Rome",
+        "distanza": "about 70 km to Anzio, then about an hour and a half by hydrofoil",
+        "come": "Rome-Anzio train and hydrofoil, in summer",
+        "testo": "It can be done in a day with a boat trip around the island, but one night also allows Palmarola."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "What is the best month for Italy's smaller islands?",
+        "risposta": "June and September: warm sea, full schedules and prices not yet at August levels. In July and August accommodation and ferries must be booked months ahead."
+      },
+      {
+        "domanda": "Do I need a car on the islands?",
+        "risposta": "Hardly ever: several islands restrict cars in summer and are explored on foot, by bike or by scooter. The exceptions are Pantelleria and Elba, which are large."
+      },
+      {
+        "domanda": "How do I get to the Aeolian Islands?",
+        "risposta": "Fly to Catania, then a direct bus to Milazzo harbour (about 2 hours, about €13) and a hydrofoil to the islands. In summer there are also hydrofoils from Naples and Palermo."
+      },
+      {
+        "domanda": "Can you climb Stromboli?",
+        "risposta": "Yes, within the altitude set by the Lipari municipality's ordinance: under the 2025 rules, alone up to 290 metres and with an authorised guide up to 400. The explosions are also clearly visible from the sea at night."
+      },
+      {
+        "domanda": "Can Capri be done as a day trip?",
+        "risposta": "Yes, but in high season you share it with thousands of day visitors. Arrive on the first hydrofoil, take the boat trip straight away and, if possible, stay one night."
+      },
+      {
+        "domanda": "What happens if the sea is rough?",
+        "risposta": "Hydrofoils and ferries may not sail, sometimes for days. Avoid booking a flight or train on the same day you return from the island."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['eolie-in-vela', 'isole-siciliane', 'costiera-e-isole'],
@@ -3868,13 +4150,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "It's the best part. In inland Italy the cuisine is still tied to the land and the seasons, something that elsewhere has become a slogan: handmade pasta with a different name every twenty kilometers, locally raised meats, cheeses from small producers, wild greens. **A full meal with wine runs between twenty and thirty euros**, and often there's no written menu. The flip side: outside meal hours you don't eat, and on Sunday evening and Monday many places are closed.",
     comeArrivare:
-      "**A car is a must, no exceptions.** Regional trains reach the provincial capitals and everything stops there; intercity buses have runs designed for students, so two in the morning and two in the afternoon, and nothing on weekends.",
+      "**A car is a must, no exceptions.** Regional trains reach the provincial capitals and everything stops there; intercity buses have runs designed for students, so two in the morning and two in the afternoon, and nothing on weekends. Useful airports are Rome and Naples for Molise, Tuscia and Cilento, Bari for Basilicata, Lamezia and Reggio for Calabria, Venice and Trieste for Friuli: that is where to pick up a rental car.",
     comeSpostarsi:
       "You need your own car. The interior roads are narrow, winding and in places in poor condition: add a third to the times maps estimate. Fuel in small villages may not be available: fill up when you can, not when you need to.",
     periodoMigliore:
       "May-June and September-October. Summer in the inland center-south is scorching; winter in the Apennines brings snow and closed roads, with several villages going into hibernation. Patron-saint festivals cluster between June and September and that's when the villages fill up again, because the emigrants come back.",
     costi:
-      "It's the part of Italy where you spend the least, by far. Admission almost everywhere free or symbolic, lodging and restaurants at prices that no longer exist on the coast or in the cities.",
+      "It's the part of Italy where you spend the least, by far. Admission almost everywhere free or symbolic, lodging and restaurants at prices that no longer exist on the coast or in the cities. Budget: about €50-70 a day per person with a B&B or farm stay in a double room and trattoria meals. Mid-range: €90-130 with an albergo diffuso, a rental car and dinners with wine. High: over €180 with the boutique places in restored villages.",
     erroriDaEvitare: [
       "Counting on public transport: here it's no use",
       "Arriving in a village at three in the afternoon and looking for food: in inland Italy you eat between twelve thirty and two, and then they close",
@@ -3988,6 +4270,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Isernia or Campobasso. There is no useful public transport. Self-guided, with panels.",
         "quando": "Spring and autumn. Check opening hours and days with the town hall or the Soprintendenza before leaving, especially off season.",
         "tempo": "1-2 hours, plus a tour of the villages",
+        "lat": 41.75,
+        "lng": 14.3833,
         "consiglio": "Combine the visit with lunch in a village trattoria, arriving early: after lunchtime the kitchen closes."
       },
       {
@@ -3996,6 +4280,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Train on the Adriatic line or the A14 motorway. The old town is walkable from the station.",
         "quando": "May-June and September. In August it fills with Italian holidaymakers.",
         "tempo": "half a day",
+        "lat": 42.0028,
+        "lng": 14.9947,
         "consiglio": "Eat brodetto alla termolese in one of the places at the port, and walk the seafront at sunset."
       },
       {
@@ -4004,6 +4290,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car only. From Terranova di Pollino or San Severino Lucano. Navigate with a map or trail app; mountain shoes needed.",
         "quando": "June-September for the altitude, October for the colors. From November to May snow and closed roads.",
         "tempo": "1-2 days",
+        "lat": 39.9311,
+        "lng": 16.1261,
         "consiglio": "Fill the tank and bring food: in mountain villages shops close early. The weather changes fast above 1,800 meters."
       },
       {
@@ -4013,6 +4301,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "The flowering concentrates between late May and July. On flowering weekends the Piano fills up with cars.",
         "tempo": "1 day",
         "url": "https://www.sibillini.net/",
+        "lat": 42.8288,
+        "lng": 13.2077,
         "consiglio": "Visit on a weekday and early in the morning for the best light, and do not walk among the flowering fields."
       },
       {
@@ -4021,6 +4311,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Udine towards Tolmezzo. The valleys are explored by car and on short walks.",
         "quando": "June-September for trails, winter for snow. Friuli is among the rainiest areas of Italy.",
         "tempo": "2-3 days",
+        "lat": 46.4654,
+        "lng": 12.7087,
         "consiglio": "Try Sauris ham and mountain-pasture cheese, and ask the tourist office about trails."
       },
       {
@@ -4030,6 +4322,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Late spring to autumn. After rain the trails can be impassable.",
         "tempo": "2-4 days of trekking",
         "url": "https://www.parcovalgrande.it/",
+        "lat": 46.0292,
+        "lng": 8.4594,
         "consiglio": "Ask the park authority for information before leaving and tell someone your route. Every year there are rescues for those who underestimate the area."
       },
       {
@@ -4038,6 +4332,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Reggio Calabria. Inland roads are slow and rough in places.",
         "quando": "Spring and autumn. Summer is scorching on the coast.",
         "tempo": "2-3 days",
+        "lat": 37.9542,
+        "lng": 15.7611,
         "consiglio": "At the Archaeological Museum of Reggio Calabria you see the Riace Bronzes: do it on the day of arrival or departure."
       },
       {
@@ -4046,7 +4342,37 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Train to Bologna for the start, return by train from Florence. The route is marked; hostels to be booked.",
         "quando": "April-June and September-October. In summer the heat and in winter the mud.",
         "tempo": "4-5 days",
+        "url": "https://www.viadeglidei.it/",
         "consiglio": "Book beds in advance and carry little weight: the stages are long."
+      },
+      {
+        "nome": "Civita di Bagnoregio",
+        "testo": "The medieval village on a crumbling spur of tuff in Tuscia, reachable only by a long footbridge. Inside are a square, the church of San Donato and a few inhabited houses.",
+        "come": "By car to Bagnoregio, park and walk to the bridge. There are local buses from Orvieto.",
+        "quando": "Early morning or late afternoon, outside weekends: groups arrive in the middle of the day.",
+        "tempo": "2 hours",
+        "costo": "Entry ticket about €5 per person",
+        "url": "https://www.civitadibagnoregio.it/",
+        "lat": 42.6278,
+        "lng": 12.1139
+      },
+      {
+        "nome": "Padula Charterhouse and the Vallo di Diano",
+        "testo": "The Charterhouse of San Lorenzo is one of the largest monastic complexes in Europe, with a huge cloister and a spiral stone staircase. It lies in the Vallo di Diano, in inland Cilento, a UNESCO site.",
+        "come": "By car from the A2 motorway, Padula-Buonabitacolo exit.",
+        "quando": "All year; in summer in the morning, as the Vallo gets very hot.",
+        "tempo": "2-3 hours",
+        "lat": 40.3372,
+        "lng": 15.6519
+      },
+      {
+        "nome": "Craco",
+        "testo": "A Basilicata village abandoned after a landslide in the 1960s, with the Norman tower at the top and empty houses along the ridge. It has been the set of many films.",
+        "come": "By car from Matera in about an hour. The old town can only be visited on guided tours, with a helmet.",
+        "quando": "Spring and autumn; in summer avoid the middle of the day.",
+        "tempo": "2 hours",
+        "lat": 40.3786,
+        "lng": 16.44
       }
     ],
     programmi: [
@@ -4114,6 +4440,54 @@ export const destinazioniItalia: Destinazione[] = [
       "In August the villages fill with emigrants coming back: it is the liveliest period, not the quietest.",
       "After the 2016 earthquake some roads and villages of the Sibillini have closures: check the park authority's notices."
     ],
+    gite: [
+      {
+        "nome": "Craco from Matera",
+        "distanza": "about 55 km, an hour's drive",
+        "come": "By car",
+        "testo": "The ghost village of Basilicata on a guided tour, which can be combined with the Aliano badlands on the same day."
+      },
+      {
+        "nome": "The Tremiti Islands from Termoli",
+        "distanza": "about an hour and a half by boat",
+        "come": "Ferry or hydrofoil from Termoli harbour",
+        "testo": "The only archipelago in the Adriatic as a day trip: San Domino for swimming, San Nicola for the fortified abbey."
+      },
+      {
+        "nome": "Civita and Lake Bolsena from Orvieto",
+        "distanza": "about 20 km to Bagnoregio",
+        "come": "By car, or local bus from Orvieto",
+        "testo": "Civita in the morning, before the groups, and the afternoon on the shores of Lake Bolsena."
+      },
+      {
+        "nome": "Padula Charterhouse from Salerno",
+        "distanza": "about 100 km, an hour and a quarter",
+        "come": "By car along the A2",
+        "testo": "The great cloister of the charterhouse and the villages of the Vallo di Diano, with a detour to Teggiano."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Is a car really necessary?",
+        "risposta": "Yes. Regional trains reach the provincial towns and buses have few runs, timed for students and almost none at weekends. Without a car you see very little."
+      },
+      {
+        "domanda": "When is the best time to go?",
+        "risposta": "May-June and September-October. Summer inland in central and southern Italy is scorching, and in winter some Apennine roads close for snow."
+      },
+      {
+        "domanda": "How much does eating cost?",
+        "risposta": "In a village trattoria a full meal with wine usually costs between 20 and 30 euros. Often there is no written menu and you ask what's available."
+      },
+      {
+        "domanda": "Is Val Grande suitable for everyone?",
+        "risposta": "No. It is an area without roads or inhabited villages, with poorly marked trails, basic bivouacs and no phone signal: it is for experienced, self-sufficient hikers."
+      },
+      {
+        "domanda": "How long is the Via degli Dei?",
+        "risposta": "About 130 km from Bologna to Florence, usually 4-5 days of walking with nights in hostels and guesthouses to book in advance."
+      }
+    ],
     esperienzeSlugs: ['cammini-italia'],
     tripSlugs: [],
     imageAlt: "Civita di Bagnoregio perched on its tuff spur, reachable only by the long pedestrian bridge, in the Tuscia",
@@ -4158,7 +4532,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "**September and October**, during the harvest: the cellars are in full swing, the vineyards change color and the fairs are on the calendar. April-June is the second window, with greenery and fewer people. From November to March many small wineries reduce visits, and in August several close.",
     costi:
-      "Cellar tastings usually cost between 15 and 40 euros per person depending on the wines and the welcome, often deducted from a purchase. In the best-known areas (Barolo, Montalcino) guided visits of historic wineries cost more; in emerging areas you pay much less or nothing.",
+      "Cellar tastings usually cost between 15 and 40 euros per person depending on the wines and the welcome, often deducted from a purchase. In the best-known areas (Barolo, Montalcino) guided visits of historic wineries cost more; in emerging areas you pay much less or nothing. Budget: about €80-110 a day per person with a farm stay in a double room, one tasting and an osteria. Mid-range: €150-200 with two wineries, lunch and dinner with wine. High: over €350 with a wine resort, a driver and historic wineries.",
     erroriDaEvitare: [
       "**Showing up at a winery without an appointment**: it's mistake number one. Wineries are farms with working hours, and almost all receive only by reservation, often a few days ahead",
       "Planning more than two or three wineries a day: after the third you no longer taste anything with attention, and the day becomes a collection of stamps",
@@ -4305,6 +4679,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Alba. Wineries receive visitors by appointment: write a few days ahead. Many roads are narrow and steep.",
         "quando": "September-October for the harvest, or April-June with the green. In August many wineries close.",
         "tempo": "1 day, 2 wineries",
+        "costo": "WiMu, the wine museum in the Falletti castle, about €12; winery tastings about €20-40",
+        "url": "https://www.wimubarolo.it/",
+        "lat": 44.6167,
+        "lng": 7.9333,
         "consiglio": "Book one winery in the morning and one in the afternoon. After the third you taste nothing with care."
       },
       {
@@ -4313,6 +4691,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Turin by train with a change, but the car is easier. In town you walk.",
         "quando": "October-November for the truffle. Outside the fair Alba is quieter.",
         "tempo": "half a day",
+        "url": "https://www.fieradeltartufo.org/",
+        "lat": 44.7,
+        "lng": 8.0333,
         "consiglio": "At the fair truffle prices are high: ask for the weight and price before ordering, and prefer restaurants with seasonal truffle."
       },
       {
@@ -4321,6 +4702,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car or taxi from Verona. Wineries receive visitors by appointment.",
         "quando": "September-October for the harvest, January-February for the pressing of the dried grapes.",
         "tempo": "1 day",
+        "costo": "Winery tastings about €20-40 per person, often deducted from purchases",
+        "url": "https://www.consorziovalpolicella.it/",
+        "lat": 45.5167,
+        "lng": 10.8833,
         "consiglio": "If the driver does not drink, a taxi from Verona to the wineries is a simple solution."
       },
       {
@@ -4329,6 +4714,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Treviso or by train to Conegliano. By bike you can ride among the vines.",
         "quando": "Spring and autumn. Not in August: it is hot and many wineries are closed.",
         "tempo": "1 day",
+        "costo": "Winery tastings about €20-40 per person, often deducted from purchases",
+        "url": "https://www.prosecco.wine/",
+        "lat": 45.9163,
+        "lng": 12.0142,
         "consiglio": "The osterias of Valdobbiadene serve sparkling Prosecco with cured meats: have lunch there after the winery visit."
       },
       {
@@ -4337,6 +4726,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Florence or Siena. The Chiantigiana road runs through the villages.",
         "quando": "April-June and September-October. In summer there are many coach tours.",
         "tempo": "1-2 days",
+        "costo": "Tastings about €20-40, more at the historic estates; steak is priced by weight",
+        "url": "https://www.chianticlassico.com/",
+        "lat": 43.5833,
+        "lng": 11.3167,
         "consiglio": "Sleep in an agriturismo and visit small wineries: often the producer himself welcomes you."
       },
       {
@@ -4345,6 +4738,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Siena. Montalcino is walkable, the wineries are scattered around it.",
         "quando": "Spring and autumn. Book wineries well ahead.",
         "tempo": "1 day",
+        "costo": "Winery tastings about €20-40 per person, often deducted from purchases",
+        "url": "https://www.consorziobrunellodimontalcino.it/",
+        "lat": 43.0592,
+        "lng": 11.4892,
         "consiglio": "Visit the Abbey of Sant'Antimo early in the morning, when it is quiet and the light slants into the naves."
       },
       {
@@ -4353,6 +4750,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Catania, on winding, slow roads. Base yourself in Linguaglossa, Castiglione di Sicilia or Randazzo.",
         "quando": "September-October for the harvest, but Etna is lovely in spring too.",
         "tempo": "1-2 days",
+        "costo": "Winery tastings about €20-40 per person, often deducted from purchases",
+        "lat": 37.8828,
+        "lng": 15.1225,
         "consiglio": "Ask to see the old vines: you understand why the lava soil saved the vines from the parasite."
       },
       {
@@ -4361,6 +4761,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Gorizia or Cormons, which are close by. The wineries are small and family-run.",
         "quando": "Spring and autumn. In summer there is more sun.",
         "tempo": "1-2 days",
+        "costo": "Winery tastings about €20-40 per person, often deducted from purchases",
+        "url": "https://www.collio.it/",
+        "lat": 45.95,
+        "lng": 13.4667,
         "consiglio": "Cross the Slovenian border for lunch in a gostilna: a short distance away the cuisine changes."
       },
       {
@@ -4369,6 +4773,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Only by car from Avellino or Potenza. Few wineries have facilities for visitors.",
         "quando": "September-October. Very hot summer.",
         "tempo": "2 days, one per zone",
+        "lat": 41.0,
+        "lng": 14.95,
         "consiglio": "Here you often find yourself in the cellar where the owner is racking wine: that is the moment to ask questions."
       },
       {
@@ -4377,7 +4783,41 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Train from Milan to Tirano or Sondrio. Getting between wineries needs a car.",
         "quando": "September-October. In summer the valley floor is hot and busy.",
         "tempo": "1-2 days",
+        "lat": 46.1697,
+        "lng": 9.87,
         "consiglio": "Walk a stretch of the Via dei Terrazzamenti, the path among the walls, before or after tastings."
+      },
+      {
+        "nome": "Grinzane Cavour Castle",
+        "testo": "The castle where Camillo Benso di Cavour lived, among the vineyards between Alba and Barolo, now home to the Piedmont regional wine shop and a museum on the history of the Langhe. From the terraces the whole UNESCO landscape is visible.",
+        "come": "By car from Alba in about 10 minutes. Parking below the castle.",
+        "quando": "All year; in autumn it hosts the world white truffle auction.",
+        "tempo": "1 hour",
+        "costo": "Ticket about €8",
+        "orari": "Daily from 10am, until 7pm from April to October and until 6pm the rest of the year",
+        "lat": 44.6532,
+        "lng": 7.995
+      },
+      {
+        "nome": "Barbaresco",
+        "testo": "The village that gives its name to the other great Nebbiolo of the Langhe, on a hill above the Tanaro. The medieval tower can be climbed and the regional wine shop is in a deconsecrated church.",
+        "come": "By car from Alba in about 15 minutes. Wineries receive by appointment.",
+        "quando": "September-October and spring.",
+        "tempo": "half a day",
+        "costo": "Winery tastings about €20-40 per person, often deducted from purchases",
+        "lat": 44.7167,
+        "lng": 8.0833
+      },
+      {
+        "nome": "Montepulciano and Vino Nobile",
+        "testo": "A Renaissance hill town above Val d'Orcia, with stone palaces and cellars dug under the old town, where Vino Nobile ages. The church of San Biagio, just outside the walls, is also worth seeing.",
+        "come": "By car from Siena in about an hour; park outside the walls and walk up.",
+        "quando": "Spring and autumn.",
+        "tempo": "half a day",
+        "costo": "Winery tastings about €20-40 per person, often deducted from purchases",
+        "lat": 43.1,
+        "lng": 11.7833,
+        "consiglio": "It can be combined with Montalcino and Pienza on the same day."
       }
     ],
     programmi: [
@@ -4422,6 +4862,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Verona or Siena",
         "perChi": "those who tie wine to a city",
         "testo": "You sleep in the city and go to the wineries by car: great if you like monuments, but no hills in the evening."
+      },
+      {
+        "nome": "Etna: Linguaglossa and Castiglione di Sicilia",
+        "perChi": "those doing the volcano route",
+        "testo": "Villages on the north slope, among the Nerello Mascalese contrade. Farm stays and wineries with rooms, an hour from Catania and half an hour from Taormina."
       }
     ],
     sapori: [
@@ -4457,6 +4902,58 @@ export const destinazioniItalia: Destinazione[] = [
       "In August many wineries close or reduce visits, while at harvest they fill up.",
       "In the famous zones (Barolo, Montalcino) lodging and tasting prices are high: consider Irpinia, Vulture, Valtellina and Etna.",
       "Buying at the winery costs less than at the wine shop and you speak to the person who made the wine."
+    ],
+    gite: [
+      {
+        "nome": "Pollenzo and Bra",
+        "distanza": "about 15 km from Alba",
+        "come": "By car",
+        "testo": "The Savoy estate with the University of Gastronomic Sciences and the Wine Bank, then Bra, where Slow Food was born, for its raw sausage."
+      },
+      {
+        "nome": "Lake Garda: Bardolino and Lazise",
+        "distanza": "about 25 km from Valpolicella",
+        "come": "By car or bus from Verona",
+        "testo": "An afternoon by the lake, with Bardolino and Chiaretto in the wineries on the Verona shore."
+      },
+      {
+        "nome": "San Galgano Abbey",
+        "distanza": "about 35 km from Siena",
+        "come": "By car",
+        "testo": "The roofless Gothic abbey in the fields and, on the hill beside it, the Montesiepi rotunda with the sword in the stone."
+      },
+      {
+        "nome": "Taormina from Etna",
+        "distanza": "about 30 km from Castiglione di Sicilia",
+        "come": "By car",
+        "testo": "The ancient theatre with the volcano in the background and Corso Umberto, best in the morning before the crowds."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Do winery visits need booking?",
+        "risposta": "Yes, almost always. Wineries are working farms and receive by appointment: write or call a few days ahead, earlier at harvest time."
+      },
+      {
+        "domanda": "How much does a tasting cost?",
+        "risposta": "Usually between 20 and 40 euros per person, often deducted if you buy bottles. Historic wineries in Barolo and Montalcino cost more, lesser-known areas much less."
+      },
+      {
+        "domanda": "When should I go?",
+        "risposta": "September and October, at harvest time, or April to June. In August many wineries close or cut back on visits."
+      },
+      {
+        "domanda": "What about the driver?",
+        "risposta": "In Italy the limit is 0.5 grams per litre, zero for those who have held a licence for under three years, and there are checks in wine areas. Taste and spit, or hire a driver or a taxi."
+      },
+      {
+        "domanda": "How many wineries can I visit in a day?",
+        "risposta": "Two, three at most: one in the morning and one in the afternoon, with lunch in an osteria in between. Beyond that you taste without paying attention."
+      },
+      {
+        "domanda": "Which route is cheapest?",
+        "risposta": "Irpinia and Vulture: top-level Aglianico, wineries where the owner often receives you, and accommodation at a fraction of Langhe or Chianti prices."
+      }
     ],
     esperienzeSlugs: ['degustazione-cantina'],
     tripSlugs: ['rotte-dei-vini-itinerario'],
@@ -5894,13 +6391,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Palermo is the Italian capital of street food: **arancine** (feminine, here), chickpea **panelle**, **sfincione**, crocchè, and **pane con la milza** (spleen sandwich), for the brave, to try at least once at the historic stalls. Then pasta con le sarde, sarde a beccafico, fish couscous at **San Vito Lo Capo** and in Trapani, a direct inheritance of the Arab and North African world. The sweets: cassata, cannoli and frutta martorana. The wine: Marsala in its own zone, Grillo and Catarratto for the whites.",
     comeArrivare:
-      "Fly to Palermo Punta Raisi, or Trapani Birgi for low-cost carriers. By ferry from Naples, Genoa and Civitavecchia. **A car is indispensable** for getting around outside Palermo.",
+      "Fly to Palermo Punta Raisi, or Trapani Birgi for low-cost carriers. By ferry from Naples, Genoa and Civitavecchia. **A car is indispensable** for getting around outside Palermo. From Palermo airport the Prestia e Comandè bus reaches the centre in about 50 minutes, about €6; from Trapani Birgi the AST bus reaches the city and the port in about 40 minutes, and taxis have a fixed fare of about €35.",
     comeSpostarsi:
       "Palermo is done on foot in the historic center, with public transport that works poorly. Outside you need a car: highways connect Palermo, Trapani and Marsala, the rest is state road. For the Egadi, hydrofoils from Trapani and Marsala.",
     periodoMigliore:
       "**April-June and September-October.** In summer the west is scorching and the archaeological areas have no shade. Winter is mild and excellent for Palermo and the sites, with the sea out of play. In September there's the Cous Cous Fest at San Vito Lo Capo.",
     costi:
-      "For lodging and restaurants it costs quite a bit less than eastern Sicily. Monreale has separate tickets for the cathedral, cloister and terraces; Segesta and Selinunte have modest entrance fees; the markets cost nothing beyond what you eat.",
+      "For lodging and restaurants it costs quite a bit less than eastern Sicily. Monreale has separate tickets for the cathedral, cloister and terraces; Segesta and Selinunte have modest entrance fees; the markets cost nothing beyond what you eat. Budget: about €60-80 a day per person with a B&B in a double room, street food and trains or buses. Mid-range: €120-160 with a hotel in the old town, a rental car and restaurants. High: over €250 with historic residences, private guides and fish dinners.",
     erroriDaEvitare: [
       "Going to Monreale in the middle of the day, when the tour buses arrive: at eight thirty you're inside with ten people",
       "Judging Palermo by the decay of certain areas and stopping there: it's the most layered city in Italy and asks you to adapt",
@@ -5918,6 +6415,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the historic center. Ballarò is near Casa Professa and Porta Nuova; the Capo is behind the Teatro Massimo; the Vucciria lies between via Roma and the port.",
         "quando": "Morning, when all the stalls are up. In the afternoon many stalls pack up. Sunday is quieter.",
         "tempo": "2-3 hours",
+        "costo": "Free entry; street food costs a few euros a piece",
+        "lat": 38.1124,
+        "lng": 13.3601,
         "consiglio": "Eat panelle, arancine and sfincione standing, at the stalls where locals queue, not at places with an English menu."
       },
       {
@@ -5926,7 +6426,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From the centre walk towards Porta Nuova. Tickets online on the Fondazione Federico II website; entry with security checks and short queues if you go early.",
         "quando": "Monday-Saturday 8:30-16:30, Sundays and holidays 8:30-12:30 (last-entry times, Fondazione Federico II website). In the morning, at opening. Hours change with services and regional assembly sittings: check beforehand.",
         "tempo": "1.5 hours",
+        "costo": "Ticket about €19 for the Palatine Chapel and Royal Apartments",
+        "orari": "Monday-Saturday 8.30am-4.30pm, Sundays and holidays 8.30am-12.30pm (last entry)",
         "url": "https://www.federicosecondo.org/",
+        "lat": 38.1108,
+        "lng": 13.3536,
         "consiglio": "Look up at the ceiling: the muqarnas are painted wood, with scenes of Arab court life."
       },
       {
@@ -5935,6 +6439,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "AMAT bus 389 from Palermo (piazza Indipendenza or corso Calatafimi). The cloister and the terraces have their own tickets.",
         "quando": "Early morning, before the coaches. Hours vary with services: check beforehand.",
         "tempo": "2 hours",
+        "url": "https://www.monrealeduomo.it/",
+        "lat": 38.0819,
+        "lng": 13.2921,
         "consiglio": "Climb the terraces to see the roof and Palermo; bring a sweater for the cool inside."
       },
       {
@@ -5943,7 +6450,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Palermo by car, on the Palermo-Trapani motorway. The temple is near the entrance; for the theatre there is a shuttle or a walk uphill.",
         "quando": "Morning or late afternoon. In summer there is no shade: avoid midday.",
         "tempo": "2 hours",
-        "costo": "tickets and combined passes on the archaeological park's website: prices change",
+        "costo": "Archeopass for Segesta, Selinunte and Gibellina €25.40, valid 7 days (since 2026)",
+        "url": "https://www.coopculture.it/",
+        "lat": 37.9414,
+        "lng": 12.8322,
         "consiglio": "Climb to the theater: at the top you understand why the Greeks built it here."
       },
       {
@@ -5952,7 +6462,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Trapani or Palermo. Inside the park there is a shuttle; you can also rent a bike.",
         "quando": "Early morning or late afternoon. At midday in summer it is vast and shadeless.",
         "tempo": "3 hours",
-        "costo": "tickets and combined passes on the archaeological park's website: prices change",
+        "costo": "Archeopass for Segesta, Selinunte and Gibellina €25.40, valid 7 days (since 2026)",
+        "url": "https://www.coopculture.it/",
+        "lat": 37.5836,
+        "lng": 12.8247,
         "consiglio": "Finish on Marinella beach, a step from the temples."
       },
       {
@@ -5961,6 +6474,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car on a hairpin road from Trapani, or by regular bus. The Trapani-Erice cable car, when running, is the shortest way.",
         "quando": "In the evening, when the tour buses are gone and the fog remains. The fog is part of the place.",
         "tempo": "half a day",
+        "url": "https://www.funiviaerice.it/",
+        "lat": 38.0369,
+        "lng": 12.5864,
         "consiglio": "Sleep there one night to see it empty, and bring a sweater even in summer."
       },
       {
@@ -5969,6 +6485,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car along the Via del Sale. For Mozia, a little boat from the Birgi landing, a few minutes. The salt museum is at Nubia.",
         "quando": "Sunset, when the water turns pink. Mozia: days without strong wind.",
         "tempo": "half a day",
+        "costo": "The boat to Mozia and entry to the island with the Whitaker museum are paid separately",
+        "url": "https://www.fondazionewhitaker.it/",
+        "lat": 37.8683,
+        "lng": 12.4686,
         "consiglio": "Stop in Marsala for the wine of the same name: the historic wineries run visits with tastings."
       },
       {
@@ -5977,6 +6497,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Two entrances: Scopello (south) and San Vito Lo Capo (north). You leave the car in the car parks at the entrance.",
         "quando": "Spring and autumn; in summer start at opening and bring water. Hours and entrances should be checked.",
         "tempo": "half a day or all day",
+        "costo": "Entry €5, electronic payment only",
+        "orari": "After the 2025 fire the reserve reopened in stages in 2026, first from Scopello and then from San Vito too: check which entrances and trails are open",
+        "url": "https://www.riservazingaro.it/",
+        "lat": 38.1042,
+        "lng": 12.7908,
         "consiglio": "Water shoes and a mask: the sea in the coves is among the most beautiful in Sicily."
       },
       {
@@ -5985,7 +6510,37 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car from Trapani or Palermo. Paid parking in town, full in summer.",
         "quando": "June and September, for the sea and the couscous. In July and August it is full.",
         "tempo": "half a day or one night",
+        "lat": 38.1667,
+        "lng": 12.75,
         "consiglio": "Try the fish couscous at a place with a family recipe, and book in September."
+      },
+      {
+        "nome": "Cattedrale di Palermo",
+        "testo": "A Norman cathedral remodelled over centuries, with Arab and Gothic elements and a neoclassical interior. Inside are the royal tombs of Frederick II and Roger II; from the roofs you walk above the city.",
+        "come": "On foot along the Cassaro (Corso Vittorio Emanuele), between the Quattro Canti and the Norman Palace. Tombs, treasury and roofs have a separate ticket.",
+        "quando": "In the morning or late afternoon, when the light is low over the terraces.",
+        "tempo": "an hour and a half",
+        "costo": "Free entry to the church",
+        "lat": 38.1144,
+        "lng": 13.3561
+      },
+      {
+        "nome": "Scopello and its tuna fishery",
+        "testo": "A tiny village around a baglio courtyard, above the old tuna fishery and the sea stacks rising from the water. It is the southern entrance to the Zingaro Reserve.",
+        "come": "By car from Castellammare del Golfo, about 10 km. The tuna fishery has paid access for swimming.",
+        "quando": "June and September; in August the village fills up.",
+        "tempo": "half a day",
+        "lat": 38.0715,
+        "lng": 12.8216
+      },
+      {
+        "nome": "Mondello",
+        "testo": "Palermo's beach, a bay of pale sand between Monte Pellegrino and Monte Gallo, with the Art Nouveau bathing establishment on the water. In summer it is the city's seaside.",
+        "come": "City bus from the centre in about half an hour, or by car with paid parking.",
+        "quando": "June and September, on weekdays.",
+        "tempo": "half a day",
+        "lat": 38.2008,
+        "lng": 13.3231
       }
     ],
     programmi: [
@@ -6073,6 +6628,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Segesta and Selinunte have no shade: water, a hat, and visit early in summer.",
       "Site hours and prices change: always check the official websites before going."
     ],
+    gite: [
+      {
+        "nome": "Cefalù",
+        "distanza": "about 70 km from Palermo",
+        "come": "Regional train in about an hour",
+        "testo": "The Norman cathedral with its Pantocrator, part of the UNESCO Arab-Norman route, the medieval wash-house and the beach below the Rocca."
+      },
+      {
+        "nome": "Bagheria and its Baroque villas",
+        "distanza": "about 15 km from Palermo",
+        "come": "Train or car",
+        "testo": "Villa Palagonia with its monster statues and the Renato Guttuso museum, in half a day."
+      },
+      {
+        "nome": "Favignana",
+        "distanza": "about 30 minutes by hydrofoil from Trapani",
+        "come": "Hydrofoil from Trapani harbour, then bike",
+        "testo": "Cala Rossa and the tuff quarries in a day, returning on the last hydrofoil."
+      },
+      {
+        "nome": "Mazara del Vallo",
+        "distanza": "about 25 km from Marsala",
+        "come": "By car or train",
+        "testo": "The casbah with its alleys and ceramics, and the Dancing Satyr, the bronze statue fished out of the sea."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days does western Sicily need?",
+        "risposta": "Seven or eight: two or three in Palermo with Monreale, then Segesta, Erice and Trapani, Mozia and the salt pans, Selinunte and a beach day at San Vito or the Zingaro."
+      },
+      {
+        "domanda": "How do I get from Palermo airport to the centre?",
+        "risposta": "By the Prestia e Comandè bus, every half hour, about 50 minutes to the Central Station, about €6 online; or by the Trinacria Express train or a fixed-fare taxi."
+      },
+      {
+        "domanda": "Is there a combined ticket for Segesta and Selinunte?",
+        "risposta": "Yes, since 2026 there is the Archeopass: €25.40 full price, valid seven days, with one entry to Segesta, one to Selinunte and Gibellina."
+      },
+      {
+        "domanda": "Do I need a car?",
+        "risposta": "Not in Palermo, where it is a problem because of the limited traffic zone and parking. For the rest of the west, yes: sites, salt pans and beaches are far apart and public transport is scarce."
+      },
+      {
+        "domanda": "When should I go?",
+        "risposta": "April to June and September to October. In summer the archaeological parks have no shade; in winter Palermo and the sites are easy to visit, with the sea out of play."
+      },
+      {
+        "domanda": "Is Palermo safe?",
+        "risposta": "Generally yes, with the usual big-city care: pickpockets in the markets, nothing visible in the car and only official or attended car parks, since unofficial parking attendants are common."
+      }
+    ],
     esperienzeSlugs: ['monreale', 'street-food-palermo'],
     tripSlugs: ['sicilia-completa'],
     imageAlt: "The crenellated viewpoint of Erice above a sea of clouds, with the Trapani coast in the background",
@@ -6117,7 +6724,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "**June and September**, like all the smaller islands. On Pantelleria the season is longer and the island works in spring and autumn too thanks to wine and thermalism. Lampedusa from November to March almost entirely closes.",
     costi:
-      "The main expense is transport, and it's no small one: Pantelleria and Lampedusa require a flight or a long ferry. **The Spiaggia dei Conigli on Lampedusa has regulated and capped access** for turtle nesting: it's worth finding out beforehand.",
+      "The main expense is transport, and it's no small one: Pantelleria and Lampedusa require a flight or a long ferry. **The Spiaggia dei Conigli on Lampedusa has regulated and capped access** for turtle nesting: it's worth finding out beforehand. Budget: about €70-90 a day per person with a simple double room, bike hire and trattoria meals. Mid-range: €130-180 with a dammuso or hotel, car or scooter and a boat trip. High: over €280 with boutique dammusi, a private boat and fish dinners.",
     erroriDaEvitare: [
       "Going to Pantelleria looking for sand beaches: **there are none**. You enter the water from the rocks, and those who don't know are disappointed",
       "Underestimating the wind on Pantelleria: it's a constant and can be strong for days",
@@ -6205,6 +6812,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Trapani. On the island you rent a bicycle: distances are short.",
         "quando": "June and September. Morning for the coves, afternoon for the museum. In August it is crowded.",
         "tempo": "2 days",
+        "costo": "Hydrofoil from Trapani from about €12 each way; the former Florio plant has a ticket of a few euros",
+        "lat": 37.9253,
+        "lng": 12.3289,
         "consiglio": "Bring rubber shoes: almost no cove has sand, you enter from the rock."
       },
       {
@@ -6221,7 +6831,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Trapani or Favignana. The cave is reached on foot or by boat and visited with a guide.",
         "quando": "June and September. The visit is by booking and in small groups: plan for the morning.",
         "tempo": "half a day",
+        "costo": "About €20 for the cave alone, about €40 with transport",
+        "orari": "By reservation only, at least 48 hours ahead, with morning visits",
         "url": "https://www.ampisoleegadi.it/",
+        "lat": 38.0031,
+        "lng": 12.3222,
         "consiglio": "Book the cave visit the day before, and wear closed shoes for the path."
       },
       {
@@ -6230,6 +6844,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hydrofoil from Trapani (longer than the one to Favignana) or ferry. You get around on foot and by boat.",
         "quando": "June and September. In rough seas the runs are cancelled.",
         "tempo": "1-2 days",
+        "lat": 37.9694,
+        "lng": 12.0572,
         "consiglio": "The boat tour of the caves is the main experience; agree the price with the boatman."
       },
       {
@@ -6238,7 +6854,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Flight from Trapani, Palermo or seasonally from the mainland, or an overnight ferry from Trapani. On the island you need a car, booked ahead.",
         "quando": "Spring and September. The lake at sunset, with the mud already warm. The wind is constant.",
         "tempo": "4-5 days",
+        "costo": "Free access to the lake",
         "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.8158,
+        "lng": 11.9862,
         "consiglio": "Don't look for sandy beaches: there are none, you enter the water from the rocks or the thermal pools."
       },
       {
@@ -6247,6 +6866,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "By car to the foot of Montagna Grande, then on foot. The gardens can be seen along inner roads and on some farms.",
         "quando": "Morning. Strong wind and cool at altitude even in summer.",
         "tempo": "half a day",
+        "lat": 36.7807,
+        "lng": 12.005,
         "consiglio": "Visit a winery and try the passito: visits are booked."
       },
       {
@@ -6255,7 +6876,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Flight from Palermo or Catania, or a ship from Porto Empedocle, a long crossing. From town by scooter or car to the car park, then on foot.",
         "quando": "June and September. In high season access may be capped and by booking.",
         "tempo": "half a day",
+        "costo": "Free access, with compulsory booking in summer and a daily cap",
         "url": "https://www.ampisolepelagie.it/",
+        "lat": 35.51,
+        "lng": 12.5584,
         "consiglio": "Find out the season's access rules before you leave and arrive early in the morning."
       },
       {
@@ -6264,7 +6888,38 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ship from Sicily or hydrofoil from Lampedusa in season. You cover it on foot in a day.",
         "quando": "June and September; out of season connections are sparse.",
         "tempo": "1 day or one night",
+        "lat": 35.8667,
+        "lng": 12.8667,
         "consiglio": "Check the return times before leaving: in rough seas runs are cancelled."
+      },
+      {
+        "nome": "Ex Stabilimento Florio",
+        "testo": "The Florio family's nineteenth-century tuna plant on Favignana harbour, restored as a museum: the sheds where tuna was processed, the boats of the mattanza and the photos and voices of the fishermen.",
+        "come": "On foot from the harbour, a few minutes from the ferry.",
+        "quando": "In the hottest hours, when the coves are in full sun.",
+        "tempo": "1-2 hours",
+        "costo": "A ticket of a few euros; hours change with the season",
+        "lat": 37.9303,
+        "lng": 12.3227
+      },
+      {
+        "nome": "Pantelleria from the sea and the Elephant Arch",
+        "testo": "A boat trip around the island is the way to see the lava coasts, caves and beachless coves. The Elephant Arch, a lava rock shaped like a trunk dipping into the sea, is the most photographed spot.",
+        "come": "Boats leave from Pantelleria harbour; the Arch can also be reached by car along the east coast.",
+        "quando": "On days without strong wind: book the day before and reconfirm in the morning.",
+        "tempo": "a full day",
+        "costo": "Shared day trip from about €60 per person with lunch; a private boat costs much more",
+        "lat": 36.7929,
+        "lng": 12.0536
+      },
+      {
+        "nome": "Lampedusa by boat",
+        "testo": "The trip around the island stops at the coves of the south coast, with pale seabeds that look like pools, and the Tabaccara, one of the clearest bays in the Mediterranean. Many of these coves cannot be reached from land.",
+        "come": "Boats leave from the harbour, with lunch on board; book in town the day before.",
+        "quando": "June to September, in calm seas.",
+        "tempo": "a full day",
+        "lat": 35.515,
+        "lng": 12.58
       }
     ],
     programmi: [
@@ -6348,6 +7003,58 @@ export const destinazioniItalia: Destinazione[] = [
       "On Pantelleria look for a car early, because few vehicles are available in season.",
       "Fresh water is scarce on Pantelleria, Lampedusa and the minor islands: use it sparingly.",
       "The wind is constant on Pantelleria: choose sheltered coves and check the forecast."
+    ],
+    gite: [
+      {
+        "nome": "Erice from Trapani",
+        "distanza": "about 10 minutes by cable car",
+        "come": "Trapani-Erice cable car, which stops in strong wind, or bus",
+        "testo": "The medieval village 750 metres above Trapani, with the Castle of Venus and almond pastry shops: half a day before or after the Egadi."
+      },
+      {
+        "nome": "Mozia and the Stagnone lagoon",
+        "distanza": "about 30 km from Trapani",
+        "come": "By car to the jetty, then a few minutes by boat",
+        "testo": "The Phoenician island in the lagoon, with the Whitaker museum, and the salt pans at sunset on the way back."
+      },
+      {
+        "nome": "Levanzo from Favignana",
+        "distanza": "a few minutes by hydrofoil",
+        "come": "Hydrofoil, with a booked cave visit",
+        "testo": "A fishing village, the Grotta del Genovese with its prehistoric engravings and a swim at Cala Minnola."
+      },
+      {
+        "nome": "Linosa from Lampedusa",
+        "distanza": "about an hour by hydrofoil",
+        "come": "Hydrofoil in season, check the return times",
+        "testo": "The black volcanic island with colourful houses, to walk around in a day."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Which island: Favignana, Pantelleria or Lampedusa?",
+        "risposta": "Favignana for those with few days leaving from Trapani; Pantelleria for landscape, wine and quiet, knowing it has no sandy beaches; Lampedusa for the finest sea, allowing for distance and cost."
+      },
+      {
+        "domanda": "How do I get to Pantelleria?",
+        "risposta": "By plane from Trapani or Palermo, and in season from the mainland, or by overnight ferry from Trapani, about six hours. On the island you need a car, booked in advance."
+      },
+      {
+        "domanda": "Do I need to book Rabbit Beach?",
+        "risposta": "In summer, yes: access is free but capped and by reservation, to protect the loggerhead turtle nests. There are no bars, so bring water and shade."
+      },
+      {
+        "domanda": "Can Favignana be explored by bike?",
+        "risposta": "Yes, it is flat and small: bikes are hired near the harbour and are the best way around. In August book one in advance."
+      },
+      {
+        "domanda": "When should I go?",
+        "risposta": "June and September. Pantelleria also works in spring and autumn; Lampedusa almost shuts down from November to March."
+      },
+      {
+        "domanda": "Does rough sea block connections?",
+        "risposta": "Yes, especially to Pantelleria, Lampedusa, Levanzo and Marettimo. Leave a spare day before the flight home."
+      }
     ],
     esperienzeSlugs: ['passito-pantelleria'],
     tripSlugs: ['isole-siciliane'],

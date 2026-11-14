@@ -530,7 +530,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       'La stagione va da inizio dicembre a metà aprile, ma i periodi sono molto diversi. **Natale e Capodanno** hanno i prezzi più alti dell\'anno e le piste più affollate. **Gennaio dopo l\'Epifania** è il momento migliore per rapporto qualità-prezzo: neve buona, poca gente, prezzi bassi. **Febbraio** è il mese con la neve più affidabile ma coincide con le settimane bianche scolastiche. **Marzo** è il mese migliore per chi scia bene: giornate lunghe, sole, neve ancora buona in quota e prezzi in calo. Ad aprile si scia solo in alta quota e sui ghiacciai.',
     costi:
-      'Lo skipass è la voce principale e varia molto. Nel Dolomiti Superski il giornaliero in alta stagione sta attorno agli 86 euro (circa 77 in bassa) e lo stagionale attorno ai 970: sono cifre indicative che vanno riverificate ogni anno. Poi ci sono noleggio (25-45€ al giorno per un set completo), lezioni e pranzo in quota. **Le tariffe scendono parecchio prenotando skipass e alloggio in pacchetto e fuori dai periodi di punta.**',
+      'Lo skipass è la voce principale e varia molto. Nel Dolomiti Superski il giornaliero adulto 2026/27 costa 89 euro in alta stagione e 80 in stagione ordinaria, lo stagionale in prevendita 990; a Cervinia 64, nella Vialattea da 54, a Livigno da 66. Poi ci sono noleggio (25-45€ al giorno per un set completo), lezioni e pranzo in quota. **Le tariffe scendono parecchio prenotando skipass e alloggio in pacchetto e fuori dai periodi di punta.** Budget: circa 150-180 € al giorno a persona con appartamento condiviso, skipass e noleggio. Medio: 250-300 € con hotel in mezza pensione e pranzo in rifugio. Alto: oltre 450 € con hotel ski-in/ski-out e maestro privato.',
     erroriDaEvitare: [
       'Prenotare a Natale o a Capodanno senza sapere che sono le due settimane più care dell\'anno, con differenze anche del quaranta per cento rispetto a gennaio',
       'Scegliere il comprensorio per fama invece che per quota: sotto i 1.800 metri, con gli inverni degli ultimi anni, la neve naturale non è più garantita e si scia su innevamento programmato',
@@ -548,7 +548,7 @@ export const destinazioniItalia: Destinazione[] = [
           {
             nome: 'Dolomiti Superski',
             sintesi: 'Il più grande consorzio sciistico al mondo per estensione servita da un unico skipass: dodici comprensori, oltre 1.200 km di piste, dal Sellaronda alla Marmolada a Cortina.',
-            costo: 'giornaliero attorno agli 86€ in alta stagione, stagionale attorno ai 970€',
+            costo: 'giornaliero attorno agli 89€ in alta stagione, stagionale attorno ai 990€',
             durata: 'una settimana non basta per vederlo tutto',
             pro: [
               'Un\'estensione che non ha confronti: si scia per giorni senza mai ripetere una pista',
@@ -741,8 +741,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Si parte da qualunque paese attorno al Sella (Selva, Canazei, Arabba, Corvara) con lo skipass Dolomiti Superski. Il senso orario è segnato con cartelli arancioni, quello antiorario con cartelli verdi.",
         "quando": "In stagione, da dicembre a metà aprile. Partire presto e arrivare all'ultimo impianto prima della chiusura: chi arriva tardi deve rientrare con il taxi.",
         "tempo": "una giornata intera: 4-5 ore sugli sci più pause",
-        "costo": "Le tariffe dello skipass Dolomiti Superski cambiano ogni stagione: controllarle sul sito ufficiale prima di partire",
+        "costo": "Skipass Dolomiti Superski 2026/27: giornaliero adulto 89 € in alta stagione e 80 € in stagione ordinaria; 6 giorni 453 € o 407 €",
+        "orari": "Stagione dal 28 novembre 2026; alta stagione dal 20 dicembre al 9 gennaio e dal 31 gennaio al 20 marzo 2027. Gli impianti girano di giorno, con orari diversi per impianto: si controllano sull'app ufficiale",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5,
+        "lng": 11.8333,
         "consiglio": "Controllare gli orari dell'ultimo impianto di ogni passo la mattina stessa e portare qualcosa da mangiare in tasca."
       },
       {
@@ -751,7 +754,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Si dorme a Corvara, La Villa o San Cassiano e si sale con gli impianti direttamente dal paese. Con lo skipass Dolomiti Superski si raggiunge anche il Sellaronda.",
         "quando": "Da dicembre ad aprile. Gennaio e marzo sono i mesi migliori per neve e prezzi.",
         "tempo": "2-3 giorni per scoprire il comprensorio",
+        "costo": "Skipass Dolomiti Superski 2026/27: giornaliero adulto 89 € in alta stagione e 80 € in stagione ordinaria; 6 giorni 453 € o 407 €",
+        "orari": "Stagione dal 28 novembre 2026; alta stagione dal 20 dicembre al 9 gennaio e dal 31 gennaio al 20 marzo 2027. Gli impianti girano di giorno, con orari diversi per impianto: si controllano sull'app ufficiale",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5496,
+        "lng": 11.874,
         "consiglio": "Pranzare in un rifugio in quota e prenotare in alta stagione: i migliori finiscono i tavoli presto."
       },
       {
@@ -760,7 +767,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Si dorme a Cortina e si prende la telecabina o la navetta fino all'impianto di partenza; gli skibus di valle collegano le tre aree.",
         "quando": "Da dicembre ad aprile. Nelle settimane dopo l'Epifania e a fine febbraio i prezzi calano.",
         "tempo": "3-4 giorni",
+        "costo": "Skipass Dolomiti Superski 2026/27: giornaliero adulto 89 € in alta stagione e 80 € in stagione ordinaria; 6 giorni 453 € o 407 €",
+        "orari": "Stagione dal 28 novembre 2026; alta stagione dal 20 dicembre al 9 gennaio e dal 31 gennaio al 20 marzo 2027. Gli impianti girano di giorno, con orari diversi per impianto: si controllano sull'app ufficiale",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5333,
+        "lng": 12.1333,
         "consiglio": "Dopo le Olimpiadi 2026 alcuni impianti e piste sono stati cambiati: controllare la mappa aggiornata prima di organizzare le giornate."
       },
       {
@@ -769,7 +780,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Aosta si va a Breuil-Cervinia in auto o con i bus. Gli impianti partono dal paese. Per Zermatt serve lo skipass esteso.",
         "quando": "Da novembre a maggio per la neve in quota; il collegamento con Zermatt dipende dal meteo e dal vento.",
         "tempo": "3-5 giorni; il giro Cervinia-Zermatt richiede una giornata intera",
+        "costo": "Skipass Cervinia 2026/27 sul versante italiano: 64 € al giorno con tariffa unica, 338 € per 6 giorni. Con Zermatt (Cervino Ski Paradise) 88 € al giorno",
+        "orari": "Stagione sul versante italiano dal 24 ottobre 2026 al 2 maggio 2027; il collegamento con Zermatt dipende da vento e meteo",
         "url": "https://www.cervinia.it/",
+        "lat": 45.9344,
+        "lng": 7.6311,
         "consiglio": "Controllare l'ultimo impianto per tornare dalla Svizzera: se si perde l'ultima corsa, si rientra in taxi o treno con costi alti."
       },
       {
@@ -778,7 +793,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Courmayeur si raggiunge in auto o bus da Aosta. La Skyway parte da Pontal d'Entrèves, a pochi minuti dal centro.",
         "quando": "Dicembre-aprile. Per salire con la Skyway scegliere giornate limpide: con nuvole non c'è panorama.",
         "tempo": "2-3 giorni; la Skyway richiede mezza giornata",
+        "costo": "Skipass giornaliero adulto circa 75 € (2026/27); Skyway andata e ritorno fino a Punta Helbronner circa 55 € a persona",
         "url": "https://www.montebianco.com/",
+        "lat": 45.8159,
+        "lng": 6.9561,
         "consiglio": "Chi vuole la Vallée Blanche deve prenotare una guida alpina in anticipo e controllare le condizioni dei crepacci."
       },
       {
@@ -787,7 +805,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Torino in auto lungo la Val di Susa. Da Oulx c'è anche il treno, poi bus fino a Sauze o Sestriere.",
         "quando": "Da dicembre ad aprile. Quote più basse di Cervinia: la neve è meno garantita a inizio e fine stagione.",
         "tempo": "3-5 giorni",
+        "costo": "Skipass Vialattea 2026/27: giornaliero 54 €, 62 € in altissima stagione (24 dicembre-6 gennaio) in biglietteria; 6 giorni da 273,50 € a 325,50 €",
         "url": "https://www.vialattea.it/",
+        "lat": 44.9582,
+        "lng": 6.8788,
         "consiglio": "Per chi arriva da Torino è la scelta più comoda per un fine settimana: si può fare un weekend senza dormire due notti in macchina."
       },
       {
@@ -796,7 +817,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Milano in auto, passando da Bormio e dal Passo d'Eira, oppure dalla Svizzera con il tunnel Munt la Schera. Controllare la viabilità invernale.",
         "quando": "Da fine novembre ad aprile.",
         "tempo": "3-5 giorni",
+        "costo": "Skipass 2026/27: giornaliero 66 €, 74,50 € in alta stagione, 51,50 € nei periodi promo; 6 giorni da 331 € a 374,50 €",
+        "orari": "Tariffa promo dal 28 novembre al 18 dicembre 2026 e dal 10 aprile al 2 maggio 2027; alta stagione dal 26 dicembre all'8 gennaio e dal 31 gennaio al 29 marzo 2027",
         "url": "https://www.livigno.eu/",
+        "lat": 46.5382,
+        "lng": 10.136,
         "consiglio": "All'uscita ci sono controlli doganali con limiti sulle quantità di alcol, tabacco e carburante: informarsi prima di fare acquisti."
       },
       {
@@ -805,8 +830,79 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Malga Ciapela, nell'Alto Agordino, si sale con la funivia in tre tronconi fino a Punta Rocca. Da lì si scende a valle seguendo la pista. Gli impianti sono parte del Dolomiti Superski.",
         "quando": "Da dicembre ad aprile, con neve spesso buona a primavera. Gli impianti dipendono dal meteo.",
         "tempo": "mezza giornata per la discesa",
+        "costo": "Skipass Dolomiti Superski 2026/27: giornaliero adulto 89 € in alta stagione e 80 € in stagione ordinaria; 6 giorni 453 € o 407 €",
+        "orari": "Stagione dal 28 novembre 2026; alta stagione dal 20 dicembre al 9 gennaio e dal 31 gennaio al 20 marzo 2027. Gli impianti girano di giorno, con orari diversi per impianto: si controllano sull'app ufficiale",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.4275,
+        "lng": 11.9131,
         "consiglio": "La discesa è lunga: controllare condizioni e tempi dell'ultima corsa e portare con sé un po' di liquidi."
+      },
+      {
+        "nome": "Madonna di Campiglio",
+        "testo": "La stazione più nota del Trentino, sotto le Dolomiti di Brenta, collegata sugli sci con Pinzolo e Folgarida-Marilleva. Il Canalone Miramonti è la pista notturna della 3Tre, lo slalom di Coppa del Mondo. Il paese è elegante e caro, con negozi e vita serale.",
+        "come": "In auto da Trento in circa un'ora e mezza, o con i bus extraurbani da Trento. Gli impianti partono dal paese.",
+        "quando": "Da dicembre ad aprile; gennaio dopo l'Epifania e marzo hanno prezzi più bassi.",
+        "tempo": "3-5 giorni",
+        "costo": "Skipass Skiarea Campiglio 2026/27: giornaliero 75 € in stagione ordinaria, 87 € in alta stagione, 89 € in altissima; 6 giorni da circa 376 € a 445 €",
+        "orari": "Altissima stagione 5-8 dicembre 2026, 28 dicembre-6 gennaio e 7-20 febbraio 2027; la domenica le tessere da 3 a 6 giorni costano 10 € in più",
+        "lat": 46.2319,
+        "lng": 10.8261,
+        "consiglio": "Per spendere meno si dorme a Pinzolo, in fondovalle, e si sale con la cabinovia nel comprensorio."
+      },
+      {
+        "nome": "Val Gardena e Seceda",
+        "testo": "Selva, Santa Cristina e Ortisei stanno sul Sellaronda e hanno piste per tutti i livelli. La Saslong è la discesa libera di Coppa del Mondo; dalla Seceda, sopra Ortisei, si vedono le Odle da vicino.",
+        "come": "Treno fino a Bolzano e bus 350 per la valle, o auto dall'A22 (uscita Chiusa). Lo skibus della valle unisce i tre paesi.",
+        "quando": "Da dicembre ad aprile. La funivia della Seceda va presa con il cielo limpido.",
+        "tempo": "2-4 giorni",
+        "costo": "Skipass Dolomiti Superski 2026/27: giornaliero adulto 89 € in alta stagione e 80 € in stagione ordinaria; 6 giorni 453 € o 407 €",
+        "orari": "Stagione dal 28 novembre 2026; alta stagione dal 20 dicembre al 9 gennaio e dal 31 gennaio al 20 marzo 2027. Gli impianti girano di giorno, con orari diversi per impianto: si controllano sull'app ufficiale",
+        "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5558,
+        "lng": 11.7606
+      },
+      {
+        "nome": "Monterosa Ski (Champoluc, Gressoney, Alagna)",
+        "testo": "Tre valli sotto il Monte Rosa collegate sugli sci. Champoluc e Gressoney hanno piste larghe e paesi walser; Alagna è una delle mete di freeride più note d'Europa.",
+        "come": "Champoluc e Gressoney dall'autostrada A5 (uscite Verrès e Pont-Saint-Martin); Alagna dalla Valsesia. I bus di valle partono dalle stazioni di Verrès e Pont-Saint-Martin.",
+        "quando": "Da dicembre ad aprile. Il fuoripista solo con guida e dopo aver letto il bollettino valanghe.",
+        "tempo": "3-5 giorni",
+        "costo": "Prezzo dinamico: il giornaliero cambia con la data e con l'anticipo dell'acquisto online",
+        "url": "https://www.monterosaski.eu/",
+        "lat": 45.8333,
+        "lng": 7.7333
+      },
+      {
+        "nome": "Bormio",
+        "testo": "Paese storico dell'Alta Valtellina con la pista Stelvio, una delle discese più dure del circuito di Coppa del Mondo e sede delle gare maschili di sci alpino ai Giochi del 2026. Dopo lo sci ci sono le terme.",
+        "come": "Treno da Milano a Tirano e bus per Bormio, o auto lungo la statale 38. La cabinovia parte dal paese.",
+        "quando": "Da dicembre ad aprile.",
+        "tempo": "3-5 giorni",
+        "costo": "Plurigiornalieri a prezzo dinamico, con sconti fino al 25% comprando online in anticipo",
+        "lat": 46.4667,
+        "lng": 10.3667,
+        "consiglio": "Livigno è a circa un'ora: si possono alternare i due comprensori nella stessa settimana."
+      },
+      {
+        "nome": "Plan de Corones",
+        "testo": "Una montagna dalla cima tonda e larga sopra Brunico, con piste che scendono da tutti i versanti. In vetta c'è il museo della fotografia di montagna Lumen. Fa parte del Dolomiti Superski.",
+        "come": "Treno della Val Pusteria fino a Brunico o Perca, dove la stazione è accanto alla cabinovia. In auto dall'A22, uscita Bressanone.",
+        "quando": "Da dicembre ad aprile.",
+        "tempo": "2-3 giorni",
+        "costo": "Skipass Dolomiti Superski 2026/27: giornaliero adulto 89 € in alta stagione e 80 € in stagione ordinaria; 6 giorni 453 € o 407 €",
+        "orari": "Stagione dal 28 novembre 2026; alta stagione dal 20 dicembre al 9 gennaio e dal 31 gennaio al 20 marzo 2027. Gli impianti girano di giorno, con orari diversi per impianto: si controllano sull'app ufficiale",
+        "url": "https://www.kronplatz.com/",
+        "lat": 46.7381,
+        "lng": 11.96
+      },
+      {
+        "nome": "Roccaraso e l'Alto Sangro",
+        "testo": "Il comprensorio più grande dell'Appennino, in Abruzzo, tra Roccaraso, Rivisondoli e Pescocostanzo. È la neve di chi vive a Roma e a Napoli: prezzi molto più bassi delle Alpi, ma stagioni sempre più incerte.",
+        "come": "In auto da Roma o da Napoli in circa due ore e mezza. Gli impianti dell'Aremogna sono a pochi chilometri dal paese.",
+        "quando": "Gennaio e febbraio, nei giorni feriali: nei weekend è molto affollato. Controllare il bollettino neve prima di partire.",
+        "tempo": "un weekend",
+        "lat": 41.8466,
+        "lng": 14.0785
       }
     ],
     programmi: [
@@ -894,6 +990,58 @@ export const destinazioniItalia: Destinazione[] = [
       "A Natale, Capodanno e nelle settimane di febbraio i prezzi salgono molto e le piste sono molto affollate. Prenotare per tempo oppure scegliere gennaio dopo l'Epifania o marzo.",
       "Nelle località più basse la neve naturale non è garantita: controllare webcam e bollettino neve prima di prenotare.",
       "A Cervinia vento e nebbia chiudono gli impianti alti con frequenza: tenere un piano B a quote più basse. A Livigno ci sono controlli doganali all'uscita."
+    ],
+    gite: [
+      {
+        "nome": "Bolzano e il Museo di Ötzi",
+        "distanza": "circa 40 km dalla Val Gardena",
+        "come": "Bus 350 da Ortisei o in auto",
+        "testo": "Una giornata di riposo per le gambe: il Museo Archeologico dell'Alto Adige con la mummia del Similaun, i portici e, a dicembre, il mercatino di Natale."
+      },
+      {
+        "nome": "Lago di Braies d'inverno",
+        "distanza": "circa 35 km da Cortina",
+        "come": "In auto via Dobbiaco",
+        "testo": "Il lago gelato sotto la Croda del Becco, con il giro a piedi della riva. Con neve fresca le ciaspole rendono la passeggiata più facile."
+      },
+      {
+        "nome": "Terme di Bormio",
+        "distanza": "circa 40 km da Livigno",
+        "come": "In auto o bus di linea",
+        "testo": "Vasche all'aperto con acqua calda naturale e vista sulle montagne innevate: il modo più comodo per recuperare a metà settimana."
+      },
+      {
+        "nome": "Aosta romana",
+        "distanza": "circa 35 km da Courmayeur, 50 da Cervinia",
+        "come": "Bus o auto lungo la valle",
+        "testo": "Il teatro romano, l'Arco di Augusto e la collegiata di Sant'Orso in una mezza giornata, utile quando il vento chiude gli impianti alti."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanto costa lo skipass in Dolomiti nel 2026/27?",
+        "risposta": "Il giornaliero Dolomiti Superski per un adulto costa 89 € in alta stagione e 80 € in stagione ordinaria; il 6 giorni 453 € o 407 €. Comprarlo insieme all'alloggio, in pacchetto, abbassa la spesa."
+      },
+      {
+        "domanda": "Qual è il periodo migliore per una settimana bianca?",
+        "risposta": "Gennaio dopo l'Epifania: neve in genere buona, piste vuote e prezzi fino al 40% più bassi di Natale. Marzo è ottimo in alta quota per chi cerca sole e giornate lunghe."
+      },
+      {
+        "domanda": "Dove si trova la neve più sicura in Italia?",
+        "risposta": "Nei comprensori che partono sopra i 1.800-2.000 metri: Cervinia, che arriva a circa 3.480 metri, Livigno e le zone alte delle Dolomiti. Sotto quella quota si scia spesso su neve programmata."
+      },
+      {
+        "domanda": "Serve un'assicurazione per sciare in Italia?",
+        "risposta": "Sì: dal 2022 la responsabilità civile è obbligatoria per chi scia in pista. In più il soccorso in montagna si paga, e un elicottero può costare migliaia di euro: conviene verificare cosa copre la polizza abbinata allo skipass."
+      },
+      {
+        "domanda": "Il Sellaronda è adatto a uno sciatore medio?",
+        "risposta": "Sì, le piste sono quasi tutte blu e rosse. Stanca la lunghezza: si parte alle nove, in senso antiorario (cartelli verdi) per trovare meno coda, e si controllano vento e orari degli ultimi impianti."
+      },
+      {
+        "domanda": "Si può arrivare sulle piste senza auto?",
+        "risposta": "Sì. Per la Val Gardena treno fino a Bolzano e bus 350; per la Val di Fassa c'è il FlySki Shuttle dagli aeroporti di Verona, Venezia, Treviso, Bergamo e Milano nei fine settimana dal 19 dicembre 2026 al 29 marzo 2027, circa 50 € a tratta."
+      }
     ],
     esperienzeSlugs: ['sellaronda', 'scialpinismo-ciaspole'],
     tripSlugs: ['settimana-bianca'],
@@ -3578,13 +3726,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'Ogni arcipelago ha la sua identità: capperi, malvasia e pesce azzurro alle Eolie; capperi, passito e il pesto pantesco a Pantelleria; coniglio all\'ischitana a Ischia, un piatto di terra su un\'isola; il pesce e il tonno in tutte le sue conserve a Favignana. La regola generale è che nelle isole minori **il pesce costa caro e la cucina di terra costa poco ed è spesso migliore**.',
     comeArrivare:
-      'Traghetti e aliscafi dai porti continentali, con **frequenze che crollano in bassa stagione** e corse che saltano con il mare mosso: è la variabile che condiziona tutto. Pantelleria e Lampedusa hanno aeroporti; l\'Elba pure, ma con pochi collegamenti.',
+      'Traghetti e aliscafi dai porti continentali, con **frequenze che crollano in bassa stagione** e corse che saltano con il mare mosso: è la variabile che condiziona tutto. Pantelleria e Lampedusa hanno aeroporti; l\'Elba pure, ma con pochi collegamenti. Per le Eolie si vola a Catania e si prosegue in bus fino a Milazzo; per le Egadi si arriva a Trapani; per Capri, Ischia e Procida a Napoli; per Ponza ad Anzio, Formia o Terracina.',
     comeSpostarsi:
       'A piedi, in scooter, in barca. **Diverse isole limitano o vietano lo sbarco delle auto in estate** e in alcune (Panarea, Alicudi, Filicudi) le auto quasi non ci sono. Portarsi il mezzo è quasi sempre inutile e spesso impossibile.',
     periodoMigliore:
       'giugno e settembre sono la finestra ideale: mare caldo, collegamenti pieni, prezzi non ancora fuori scala. **Luglio e agosto sono da evitare** ovunque nelle isole minori: l\'offerta è satura, i prezzi si moltiplicano e posti già piccoli si riempiono. Da novembre a marzo molte isole chiudono quasi del tutto, con traghetti ridotti e strutture serrate.',
     costi:
-      'I traghetti incidono più di quanto si pensi, e con l\'auto al seguito raddoppiano. In alta stagione gli alloggi nelle isole più note (Capri, Panarea, Ponza) raggiungono cifre da capitale europea.',
+      'I traghetti incidono più di quanto si pensi, e con l\'auto al seguito raddoppiano. In alta stagione gli alloggi nelle isole più note (Capri, Panarea, Ponza) raggiungono cifre da capitale europea. Budget: circa 70-90 € al giorno a persona con B&B semplice in doppia, pasti in trattoria e traghetti. Medio: 130-180 € con hotel, giro in barca e cene di pesce. Alto: oltre 300 € con hotel di charme a Capri, Panarea o Ponza in alta stagione.',
     erroriDaEvitare: [
       'Programmare coincidenze strette con i traghetti: **con il mare mosso le corse saltano**, e restare bloccati un giorno in più è la regola',
       'Scegliere l\'isola per fama invece che per carattere: Capri e Panarea in agosto sono mondane e affollatissime, e chi cercava la pace ha sbagliato indirizzo',
@@ -3701,6 +3849,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo da Milazzo o da Lipari e dalle altre Eolie. Sull'isola si cammina e si usano taxi-ape. Oltre la quota libera servono guide vulcanologiche autorizzate.",
         "quando": "La salita è regolata da ordinanze che cambiano con l'attività del vulcano: la quota massima, l'accesso alla cima e l'obbligo di guida si controllano presso il Comune di Lipari o le guide autorizzate prima di prenotare. Giugno e settembre, con mare calmo, per le uscite in barca.",
         "tempo": "1 giornata intera, meglio una notte",
+        "costo": "Escursioni con guida autorizzata da circa 30 € a persona; l'uscita in barca sotto la Sciara si paga a parte",
+        "orari": "Con l'ordinanza del 2025 si sale da soli fino a 290 metri e con guida fino a 400: la quota cambia con l'attività del vulcano, va controllata quella in vigore",
+        "lat": 38.7939,
+        "lng": 15.2111,
         "consiglio": "La sera si cena a Stromboli e si esce in barca al buio: non serve la cima per vedere le esplosioni. Torcia frontale, scarpe da trekking e un maglione anche a settembre."
       },
       {
@@ -3709,6 +3861,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo da Milazzo o da Lipari; in alta stagione sbarchi a Santa Marina e Rinella. Sull'isola ci sono pochi bus e conviene lo scooter.",
         "quando": "Giugno e settembre. In estate il tramonto da Pollara è affollato; meglio la mattina presto.",
         "tempo": "1-2 giorni",
+        "lat": 38.559,
+        "lng": 14.8359,
         "consiglio": "Provare il tramonto da Pollara e la malvasia al passito in cantina. In agosto i collegamenti sono pieni."
       },
       {
@@ -3717,6 +3871,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Serve un'auto o uno scooter da Pantelleria paese. Si arriva con volo da Trapani, Palermo e Catania, oppure via mare da Trapani con traghetto o aliscafo; con il mare mosso le corse saltano.",
         "quando": "Primavera e autunno per camminare, giugno e settembre per il bagno. L'isola è molto ventosa. Fango e bagno nel lago sono più piacevoli al mattino.",
         "tempo": "2-3 ore",
+        "costo": "Ingresso libero",
+        "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.8158,
+        "lng": 11.9862,
         "consiglio": "Se si fa il bagno di fango, togliere i gioielli e fare la doccia al lago prima di rientrare. Portare scarpe da scoglio: non ci sono spiagge di sabbia."
       },
       {
@@ -3725,6 +3883,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Strade interne da percorrere in auto o scooter. I sentieri partono dalla strada per Montagna Grande.",
         "quando": "Primavera e autunno. L'estate è torrida di giorno e le giornate di scirocco rendono difficili i sentieri.",
         "tempo": "mezza giornata",
+        "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.7807,
+        "lng": 12.005,
         "consiglio": "La Cantina di Pantelleria e le aziende locali fanno degustazioni di passito: prenotare. La vite ad alberello si vede soprattutto nella parte sud."
       },
       {
@@ -3733,6 +3894,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo o traghetto da Napoli e da Sorrento. Dentro l'isola si va in bus e funicolare, poi si cammina.",
         "quando": "Maggio, giugno e settembre; fuori stagione Capri è un'altra isola. La Grotta Azzurra è visitabile con mare calmo, di mattina presto.",
         "tempo": "1 giorno, meglio 2 con una notte",
+        "costo": "Aliscafo da Napoli oltre 25 € a tratta. Grotta Azzurra circa 18-19 € tra barca a remi e biglietto, più il trasferimento in barca da Marina Grande",
+        "lat": 40.5419,
+        "lng": 14.2531,
         "consiglio": "Per sfuggire alla folla, fare il giro dell'isola in barca la mattina presto e salire poi ad Anacapri. Nel pomeriggio i Faraglioni sono più belli in controluce."
       },
       {
@@ -3741,6 +3905,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Traghetto o aliscafo da Napoli (Molo Beverello e Calata Porta di Massa) o da Pozzuoli. Sull'isola si cammina e circolano minibus.",
         "quando": "Tutto l'anno, ma da maggio a settembre. In luglio e agosto i battelli di giornata portano molta gente.",
         "tempo": "1 giorno",
+        "lat": 40.7583,
+        "lng": 14.0167,
         "consiglio": "Scendere a Corricella dalla scalinata e mangiare in uno dei locali sul molo."
       },
       {
@@ -3749,6 +3915,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Traghetto o aliscafo da Anzio, Formia o Terracina. Sull'isola si cammina o si prende il bus; il giro in barca si prenota in porto.",
         "quando": "Giugno e settembre. In agosto Ponza si riempie con il bacino romano.",
         "tempo": "1-2 giorni",
+        "lat": 40.9075,
+        "lng": 12.9525,
         "consiglio": "Il giro in barca è il modo migliore: partire presto e fermarsi per il bagno a Palmarola. Chiaia di Luna è spesso interdetta per rischio frane."
       },
       {
@@ -3757,6 +3925,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Traghetti e aliscafi da Termoli, Vieste, Peschici, Rodi Garganico e Ortona; da Termoli la traversata è la più breve.",
         "quando": "Giugno e settembre. D'inverno i collegamenti sono ridotti.",
         "tempo": "1-2 giorni",
+        "lat": 42.1167,
+        "lng": 15.5,
         "consiglio": "Fare lo snorkeling con un operatore locale: l'area è protetta e l'accesso con la barca è regolato."
       },
       {
@@ -3765,7 +3935,52 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo da Trapani o da Marsala. Sull'isola si noleggia la bici: le distanze sono brevi.",
         "quando": "Maggio, giugno e settembre. La mattina presto le calette sono vuote.",
         "tempo": "1 giorno",
+        "costo": "Aliscafo da Trapani da circa 12 € a tratta, di più in alta stagione",
+        "lat": 37.9253,
+        "lng": 12.3289,
         "consiglio": "Giro in bici sulle cave, poi cena a base di tonno. Prenotare la bici in alta stagione."
+      },
+      {
+        "nome": "Ischia e le terme",
+        "testo": "L'isola più grande del golfo di Napoli, vulcanica, con sorgenti calde usate fin dall'antichità e parchi termali con piscine all'aperto. Il Castello Aragonese sta su un isolotto collegato da un ponte; a Forio ci sono i Giardini La Mortella.",
+        "come": "Traghetto o aliscafo da Napoli o da Pozzuoli. Sull'isola bus di linea e taxi.",
+        "quando": "Da aprile a ottobre, quando i parchi termali sono aperti.",
+        "tempo": "2-3 giorni",
+        "costo": "Parchi termali con ingresso a giornata, ai Giardini Poseidon circa 50 € nel 2026; Giardini La Mortella circa 15 €",
+        "orari": "Giardini La Mortella da inizio aprile a inizio novembre, martedì, giovedì, sabato e domenica, 9-19",
+        "lat": 40.7312,
+        "lng": 13.8957,
+        "consiglio": "Costume, ciabatte e asciugamano per le terme; per Sorgeto, la baia con l'acqua calda in mare, ci sono oltre duecento scalini."
+      },
+      {
+        "nome": "Isola d'Elba",
+        "testo": "La più grande dell'Arcipelago Toscano, con spiagge di sabbia e di ciottoli, il Monte Capanne e le miniere di ferro. A Portoferraio c'è la residenza dei Mulini, dove visse Napoleone durante l'esilio.",
+        "come": "Traghetto da Piombino, circa un'ora di traversata, con auto al seguito se serve: l'isola è grande.",
+        "quando": "Giugno e settembre; in primavera per camminare.",
+        "tempo": "3-5 giorni",
+        "url": "https://www.visitelba.info/",
+        "lat": 42.7782,
+        "lng": 10.1927
+      },
+      {
+        "nome": "Ustica",
+        "testo": "Isola vulcanica a nord di Palermo, sede della prima area marina protetta istituita in Italia. I fondali, con grotte e pareti, sono tra i più noti del Mediterraneo per immersioni e snorkeling.",
+        "come": "Aliscafo o traghetto da Palermo. Sull'isola si cammina o si noleggia uno scooter.",
+        "quando": "Da giugno a settembre per il mare; con mare mosso le corse saltano.",
+        "tempo": "2-3 giorni",
+        "lat": 38.7053,
+        "lng": 13.1761
+      },
+      {
+        "nome": "Lampedusa e l'Isola dei Conigli",
+        "testo": "L'isola più a sud d'Italia, già sulla placca africana. La spiaggia davanti all'Isola dei Conigli è riserva naturale e sito di nidificazione della tartaruga Caretta caretta, con un'acqua di un turchese che si vede dall'alto.",
+        "come": "Volo da Palermo o Catania, o nave da Porto Empedocle. Dal paese in scooter fino al parcheggio, poi 15-20 minuti a piedi su sterrato.",
+        "quando": "Giugno e settembre; da novembre a marzo l'isola si ferma.",
+        "tempo": "mezza giornata",
+        "costo": "Accesso gratuito, con prenotazione obbligatoria in estate e numero chiuso",
+        "lat": 35.51,
+        "lng": 12.5584,
+        "consiglio": "In spiaggia non ci sono bar: acqua e ombrellone si portano da casa."
       }
     ],
     programmi: [
@@ -3782,6 +3997,16 @@ export const destinazioniItalia: Destinazione[] = [
         "tappe": [
           "Giorno 1-2: Capri e Procida dal golfo di Napoli",
           "Giorno 3-4: Ponza e Palmarola con giro in barca"
+        ]
+      },
+      {
+        "titolo": "7 giorni: Egadi e Pantelleria",
+        "tappe": [
+          "Giorno 1-2: aliscafo da Trapani a Favignana, cale in bicicletta e cave di tufo",
+          "Giorno 3: Levanzo e la Grotta del Genovese, su prenotazione",
+          "Giorno 4: rientro a Trapani e volo o traghetto per Pantelleria",
+          "Giorno 5-6: Specchio di Venere, Montagna Grande e una cantina di passito",
+          "Giorno 7: giro dell'isola in barca e rientro, con margine per il vento"
         ]
       }
     ],
@@ -3800,6 +4025,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Golfo di Napoli: Procida",
         "perChi": "chi ha pochi giorni",
         "testo": "Procida costa meno di Capri e Ischia, vita da villaggio, con collegamenti frequenti da Napoli."
+      },
+      {
+        "nome": "Favignana",
+        "perChi": "chi ha pochi giorni e parte da Trapani",
+        "testo": "L'offerta più larga e i prezzi più accessibili tra le isole siciliane, a mezz'ora di aliscafo da Trapani. Si gira tutto in bicicletta."
       }
     ],
     sapori: [
@@ -3835,6 +4065,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Molte isole limitano o vietano lo sbarco delle auto in estate: portare l'auto è quasi sempre inutile e costoso.",
       "L'acqua dolce è scarsa e arriva con navi cisterna: usarla con parsimonia.",
       "Fuori stagione (novembre-marzo) molte strutture sono chiuse e i collegamenti ridotti: verificare cosa è aperto prima di partire."
+    ],
+    gite: [
+      {
+        "nome": "Procida da Napoli",
+        "distanza": "circa 40 minuti di aliscafo",
+        "come": "Aliscafo o traghetto dal Molo Beverello, da Calata Porta di Massa o da Pozzuoli",
+        "testo": "La più piccola delle isole del golfo si gira a piedi in un giorno: Corricella, Terra Murata e una spiaggia nel pomeriggio."
+      },
+      {
+        "nome": "Favignana da Trapani",
+        "distanza": "circa 30 minuti di aliscafo",
+        "come": "Aliscafo dal porto di Trapani, bici a noleggio all'arrivo",
+        "testo": "Cala Rossa, Cala Azzurra e le cave di tufo in una giornata, con l'ultimo aliscafo serale per rientrare."
+      },
+      {
+        "nome": "Vulcano da Milazzo",
+        "distanza": "circa un'ora di aliscafo",
+        "come": "Aliscafo dal porto di Milazzo",
+        "testo": "La salita al Gran Cratere, circa un'ora a piedi, con la vista su tutte le Eolie, poi il bagno a Porto di Levante."
+      },
+      {
+        "nome": "Ponza da Roma",
+        "distanza": "circa 70 km fino ad Anzio, poi circa un'ora e mezza di aliscafo",
+        "come": "Treno Roma-Anzio e aliscafo, in estate",
+        "testo": "Si fa in giornata con il giro dell'isola in barca, ma una notte permette di vedere anche Palmarola."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Qual è il mese migliore per le isole minori?",
+        "risposta": "Giugno e settembre: mare caldo, collegamenti pieni e prezzi non ancora da agosto. A luglio e agosto alloggi e traghetti vanno prenotati con mesi di anticipo."
+      },
+      {
+        "domanda": "Serve l'auto sulle isole?",
+        "risposta": "Quasi mai: diverse isole limitano lo sbarco delle auto in estate e si girano a piedi, in bici o in scooter. Le eccezioni sono Pantelleria e l'Elba, che sono grandi."
+      },
+      {
+        "domanda": "Come si arriva alle Eolie?",
+        "risposta": "In aereo a Catania, poi bus diretto per il porto di Milazzo (circa 2 ore, circa 13 €) e aliscafo per le isole. In estate ci sono aliscafi anche da Napoli e da Palermo."
+      },
+      {
+        "domanda": "Si può salire sullo Stromboli?",
+        "risposta": "Sì, entro la quota fissata dall'ordinanza del Comune di Lipari: con le regole del 2025, da soli fino a 290 metri e con guida autorizzata fino a 400. Le esplosioni si vedono bene anche dal mare, di notte."
+      },
+      {
+        "domanda": "Capri si può fare in giornata?",
+        "risposta": "Sì, ma in alta stagione si sta in mezzo a migliaia di visitatori in giornata. Conviene arrivare con il primo aliscafo, fare subito il giro in barca e, se possibile, dormire una notte."
+      },
+      {
+        "domanda": "Cosa succede se il mare è mosso?",
+        "risposta": "Aliscafi e traghetti possono non partire, a volte per giorni. Meglio non incastrare un volo o un treno nello stesso giorno del rientro dall'isola."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['eolie-in-vela', 'isole-siciliane', 'costiera-e-isole'],
@@ -3874,13 +4156,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'È la parte migliore. Nell\'Italia interna la cucina è ancora legata al territorio e alle stagioni, cosa che altrove è diventata uno slogan: pasta fatta a mano con nomi diversi ogni venti chilometri, carni di allevamento locale, formaggi di piccole produzioni, verdure spontanee. **Un pasto completo con vino sta tra i venti e i trenta euro**, e spesso non c\'è un menu scritto. Il rovescio della medaglia: fuori orario non si mangia, e la domenica sera e il lunedì molti posti sono chiusi.',
     comeArrivare:
-      '**Auto obbligatoria, senza eccezioni.** I treni regionali arrivano ai capoluoghi e lì si ferma tutto; gli autobus extraurbani hanno corse pensate per gli studenti, quindi due la mattina e due il pomeriggio, e niente nei fine settimana.',
+      '**Auto obbligatoria, senza eccezioni.** I treni regionali arrivano ai capoluoghi e lì si ferma tutto; gli autobus extraurbani hanno corse pensate per gli studenti, quindi due la mattina e due il pomeriggio, e niente nei fine settimana. Gli aeroporti utili sono Roma e Napoli per Molise, Tuscia e Cilento, Bari per la Basilicata, Lamezia e Reggio per la Calabria, Venezia e Trieste per il Friuli: lì conviene ritirare l\'auto a noleggio.',
     comeSpostarsi:
       'Serve un\'auto propria. Le strade interne sono strette, tortuose e in certi tratti dissestate: i tempi vanno aumentati di un terzo rispetto alle stime delle mappe. Il carburante nei paesi piccoli può non esserci: si fa il pieno quando si può, non quando serve.',
     periodoMigliore:
       'maggio-giugno e settembre-ottobre. L\'estate nell\'interno del centro-sud è torrida; l\'inverno in Appennino porta neve e strade chiuse, con diversi paesi che vanno in letargo. Le feste patronali si concentrano tra giugno e settembre ed è quando i paesi tornano pieni, perché rientrano gli emigrati.',
     costi:
-      'È la parte d\'Italia dove si spende meno, di gran lunga. Ingressi quasi ovunque gratuiti o simbolici, alloggi e ristoranti a cifre che sulla costa o in città non esistono più.',
+      'È la parte d\'Italia dove si spende meno, di gran lunga. Ingressi quasi ovunque gratuiti o simbolici, alloggi e ristoranti a cifre che sulla costa o in città non esistono più. Budget: circa 50-70 € al giorno a persona con B&B o agriturismo in doppia e trattoria. Medio: 90-130 € con albergo diffuso, auto a noleggio e cene con vino. Alto: oltre 180 € con le strutture di charme dei borghi restaurati.',
     erroriDaEvitare: [
       'Contare sui mezzi pubblici: qui non servono a niente',
       'Arrivare in un paese alle tre del pomeriggio e cercare da mangiare: nell\'Italia interna si mangia tra le dodici e mezza e le due, e poi si chiude',
@@ -3994,6 +4276,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Isernia o da Campobasso. Non ci sono mezzi pubblici utili. Si visita da soli, con pannelli.",
         "quando": "Primavera e autunno. Controllare orari e giorni di apertura con il Comune o la Soprintendenza prima di partire, soprattutto fuori stagione.",
         "tempo": "1-2 ore, più il giro dei paesi",
+        "lat": 41.75,
+        "lng": 14.3833,
         "consiglio": "Abbinare la visita a un pranzo in una trattoria di paese, arrivando presto: dopo l'ora di pranzo la cucina chiude."
       },
       {
@@ -4002,6 +4286,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Treno sulla linea adriatica o autostrada A14. Il borgo si raggiunge a piedi dalla stazione.",
         "quando": "Maggio-giugno e settembre. In agosto si riempie di vacanzieri italiani.",
         "tempo": "mezza giornata",
+        "lat": 42.0028,
+        "lng": 14.9947,
         "consiglio": "Mangiare il brodetto alla termolese in uno dei locali in porto, e passeggiare sul lungomare al tramonto."
       },
       {
@@ -4010,6 +4296,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Solo in auto. Da Terranova di Pollino o San Severino Lucano. Il Pollino si gira con carta o app di sentieri; servono scarpe da montagna.",
         "quando": "Giugno-settembre per la quota, ottobre per i colori. Da novembre a maggio neve e strade chiuse.",
         "tempo": "1-2 giorni",
+        "lat": 39.9311,
+        "lng": 16.1261,
         "consiglio": "Fare il pieno e portare cibo: nei villaggi di montagna i negozi chiudono presto. Il tempo cambia in fretta sopra i 1.800 metri."
       },
       {
@@ -4019,6 +4307,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "La fioritura si concentra tra fine maggio e luglio. Nei fine settimana di fioritura il Piano si riempie di auto.",
         "tempo": "1 giornata",
         "url": "https://www.sibillini.net/",
+        "lat": 42.8288,
+        "lng": 13.2077,
         "consiglio": "Visitare in settimana e al mattino presto per la luce migliore, e non camminare tra i campi fioriti."
       },
       {
@@ -4027,6 +4317,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Udine verso Tolmezzo. Le valli si girano in macchina e con brevi camminate.",
         "quando": "Giugno-settembre per i sentieri, inverno per la neve. Il Friuli è tra le zone più piovose d'Italia.",
         "tempo": "2-3 giorni",
+        "lat": 46.4654,
+        "lng": 12.7087,
         "consiglio": "Provare il prosciutto di Sauris e il formaggio di malga, e chiedere dei sentieri alla pro loco."
       },
       {
@@ -4036,6 +4328,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Fine primavera-autunno. Dopo le piogge i sentieri possono essere impraticabili.",
         "tempo": "2-4 giorni di trekking",
         "url": "https://www.parcovalgrande.it/",
+        "lat": 46.0292,
+        "lng": 8.4594,
         "consiglio": "Chiedere informazioni all'ente parco prima di partire e comunicare il percorso. Ogni anno ci sono soccorsi per chi sottovaluta l'area."
       },
       {
@@ -4044,6 +4338,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Reggio Calabria. Le strade interne sono lente e dissestate in tratti.",
         "quando": "Primavera e autunno. L'estate è torrida sulla costa.",
         "tempo": "2-3 giorni",
+        "lat": 37.9542,
+        "lng": 15.7611,
         "consiglio": "Al Museo Archeologico di Reggio Calabria si vedono i Bronzi di Riace: farlo il giorno di arrivo o partenza."
       },
       {
@@ -4052,7 +4348,37 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Treno fino a Bologna per la partenza, rientro con treno da Firenze. Il tracciato è segnato; ostelli da prenotare.",
         "quando": "Aprile-giugno e settembre-ottobre. In estate il caldo e in inverno il fango.",
         "tempo": "4-5 giorni",
+        "url": "https://www.viadeglidei.it/",
         "consiglio": "Prenotare i posti letto con anticipo e portare poco peso: le tappe sono lunghe."
+      },
+      {
+        "nome": "Civita di Bagnoregio",
+        "testo": "Il borgo medievale sopra uno sperone di tufo che si sgretola, nella Tuscia, raggiungibile solo con un lungo ponte pedonale. Dentro ci sono una piazza, la chiesa di San Donato e poche case abitate.",
+        "come": "In auto fino a Bagnoregio, parcheggio e poi a piedi fino al ponte. Da Orvieto ci sono bus di linea.",
+        "quando": "Mattina presto o tardo pomeriggio, fuori dai weekend: nelle ore centrali arrivano i gruppi.",
+        "tempo": "2 ore",
+        "costo": "Biglietto d'ingresso circa 5 € a persona",
+        "url": "https://www.civitadibagnoregio.it/",
+        "lat": 42.6278,
+        "lng": 12.1139
+      },
+      {
+        "nome": "Certosa di Padula e il Vallo di Diano",
+        "testo": "La Certosa di San Lorenzo è uno dei complessi monastici più grandi d'Europa, con un chiostro enorme e una scala elicoidale in pietra. Sta nel Vallo di Diano, nel Cilento interno, patrimonio UNESCO.",
+        "come": "In auto dall'autostrada A2, uscita Padula-Buonabitacolo.",
+        "quando": "Tutto l'anno; in estate al mattino, perché il Vallo è molto caldo.",
+        "tempo": "2-3 ore",
+        "lat": 40.3372,
+        "lng": 15.6519
+      },
+      {
+        "nome": "Craco",
+        "testo": "Un paese della Basilicata abbandonato dopo una frana negli anni Sessanta, con la torre normanna in cima e le case vuote lungo il crinale. È stato set di molti film.",
+        "come": "In auto da Matera in circa un'ora. Il centro storico si visita solo con le visite guidate, con casco.",
+        "quando": "Primavera e autunno; d'estate evitare le ore centrali.",
+        "tempo": "2 ore",
+        "lat": 40.3786,
+        "lng": 16.44
       }
     ],
     programmi: [
@@ -4120,6 +4446,54 @@ export const destinazioniItalia: Destinazione[] = [
       "Ad agosto i paesi si riempiono di chi è emigrato e torna: è il periodo più vivo, non il più tranquillo.",
       "Dopo il sisma del 2016 alcune strade e borghi dei Sibillini hanno chiusure: controllare gli avvisi dell'ente parco."
     ],
+    gite: [
+      {
+        "nome": "Craco da Matera",
+        "distanza": "circa 55 km, un'ora di strada",
+        "come": "In auto",
+        "testo": "Il paese fantasma lucano con visita guidata, combinabile con i calanchi di Aliano nella stessa giornata."
+      },
+      {
+        "nome": "Le Tremiti da Termoli",
+        "distanza": "circa un'ora e mezza di nave",
+        "come": "Traghetto o aliscafo dal porto di Termoli",
+        "testo": "L'unico arcipelago dell'Adriatico in giornata: San Domino per il bagno, San Nicola per l'abbazia fortificata."
+      },
+      {
+        "nome": "Civita e il lago di Bolsena da Orvieto",
+        "distanza": "circa 20 km fino a Bagnoregio",
+        "come": "In auto, o bus di linea da Orvieto",
+        "testo": "Civita al mattino, prima dei gruppi, e il pomeriggio sulle rive del lago di Bolsena."
+      },
+      {
+        "nome": "Certosa di Padula da Salerno",
+        "distanza": "circa 100 km, un'ora e un quarto",
+        "come": "In auto lungo l'A2",
+        "testo": "Il grande chiostro della certosa e i paesi del Vallo di Diano, con una deviazione a Teggiano."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Serve davvero l'auto?",
+        "risposta": "Sì. I treni regionali arrivano ai capoluoghi e i bus extraurbani hanno poche corse, pensate per gli studenti e quasi nulle nei weekend. Senza auto si vede poco."
+      },
+      {
+        "domanda": "Quando conviene andare?",
+        "risposta": "Maggio-giugno e settembre-ottobre. L'estate nell'interno del centro-sud è torrida e d'inverno in Appennino alcune strade chiudono per neve."
+      },
+      {
+        "domanda": "Quanto si spende per mangiare?",
+        "risposta": "In una trattoria di paese un pasto completo con vino costa di solito tra i 20 e i 30 euro. Spesso non c'è un menu scritto e si chiede cosa c'è."
+      },
+      {
+        "domanda": "La Val Grande è adatta a tutti?",
+        "risposta": "No. È un'area senza strade né paesi abitati, con sentieri poco segnati, bivacchi essenziali e niente segnale telefonico: è per escursionisti esperti e autonomi."
+      },
+      {
+        "domanda": "Quanto dura la Via degli Dei?",
+        "risposta": "Circa 130 km da Bologna a Firenze, di solito in 4-5 giorni di cammino con pernotto in ostelli e foresterie da prenotare in anticipo."
+      }
+    ],
     esperienzeSlugs: ['cammini-italia'],
     tripSlugs: [],
     imageAlt: 'Civita di Bagnoregio arroccata sul suo sperone di tufo, raggiungibile solo dal lungo ponte pedonale, nella Tuscia',
@@ -4164,7 +4538,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       '**settembre e ottobre**, durante la vendemmia: le cantine sono in piena attività, i colori delle vigne cambiano e le fiere sono in calendario. Aprile-giugno è la seconda finestra, con il verde e meno gente. Da novembre a marzo molte piccole cantine riducono le visite, e ad agosto diverse chiudono.',
     costi:
-      'Le degustazioni in cantina costano di solito tra i 15 e i 40 euro a persona a seconda dei vini e dell\'accoglienza, spesso scalati sull\'acquisto. Nelle zone più note (Barolo, Montalcino) le visite guidate delle cantine storiche costano di più; nelle zone emergenti si paga molto meno o nulla.',
+      'Le degustazioni in cantina costano di solito tra i 15 e i 40 euro a persona a seconda dei vini e dell\'accoglienza, spesso scalati sull\'acquisto. Nelle zone più note (Barolo, Montalcino) le visite guidate delle cantine storiche costano di più; nelle zone emergenti si paga molto meno o nulla. Budget: circa 80-110 € al giorno a persona con agriturismo in doppia, una degustazione e osteria. Medio: 150-200 € con due cantine, pranzo e cena con vino. Alto: oltre 350 € con wine resort, autista e cantine storiche.',
     erroriDaEvitare: [
       '**Presentarsi in cantina senza appuntamento**: è l\'errore numero uno. Le cantine sono aziende agricole con orari di lavoro, e quasi tutte ricevono solo su prenotazione, spesso con qualche giorno di anticipo',
       'Programmare più di due o tre cantine al giorno: dopo la terza non si assaggia più niente con attenzione, e la giornata diventa una collezione di timbri',
@@ -4311,6 +4685,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Alba. Le cantine ricevono su prenotazione: scrivere con qualche giorno di anticipo. Molte strade sono strette e in salita.",
         "quando": "Settembre-ottobre in vendemmia, o aprile-giugno col verde. Ad agosto molte cantine chiudono.",
         "tempo": "1 giornata, 2 cantine",
+        "costo": "WiMu, il museo del vino nel castello Falletti, circa 12 €; degustazioni in cantina circa 20-40 €",
+        "url": "https://www.wimubarolo.it/",
+        "lat": 44.6167,
+        "lng": 7.9333,
         "consiglio": "Prenotare una sola cantina al mattino e una al pomeriggio. Dopo la terza non si assaggia più niente con attenzione."
       },
       {
@@ -4319,6 +4697,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Torino in treno con cambio, ma è più comoda l'auto. In città si va a piedi.",
         "quando": "Ottobre-novembre per il tartufo. Fuori fiera Alba è più tranquilla.",
         "tempo": "mezza giornata",
+        "url": "https://www.fieradeltartufo.org/",
+        "lat": 44.7,
+        "lng": 8.0333,
         "consiglio": "Alla fiera i prezzi del tartufo sono alti: chiedere il peso e il prezzo prima di ordinare, e preferire i ristoranti con tartufo di stagione."
       },
       {
@@ -4327,6 +4708,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto o taxi da Verona. Le cantine ricevono su appuntamento.",
         "quando": "Settembre-ottobre per la vendemmia, gennaio-febbraio per la pressatura delle uve appassite.",
         "tempo": "1 giornata",
+        "costo": "Degustazioni in cantina circa 20-40 € a persona, spesso scalate sull'acquisto",
+        "url": "https://www.consorziovalpolicella.it/",
+        "lat": 45.5167,
+        "lng": 10.8833,
         "consiglio": "Se chi guida non beve, il taxi da Verona alle cantine è una soluzione semplice."
       },
       {
@@ -4335,6 +4720,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Treviso o in treno fino a Conegliano. In bici si fa un giro tra i filari.",
         "quando": "Primavera e autunno. Non ad agosto: fa caldo e molte cantine sono chiuse.",
         "tempo": "1 giornata",
+        "costo": "Degustazioni in cantina circa 20-40 € a persona, spesso scalate sull'acquisto",
+        "url": "https://www.prosecco.wine/",
+        "lat": 45.9163,
+        "lng": 12.0142,
         "consiglio": "Le osterie di Valdobbiadene servono il Prosecco spumante con salumi: pranzare lì dopo la visita in cantina."
       },
       {
@@ -4343,6 +4732,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Firenze o Siena. La strada Chiantigiana attraversa i paesi.",
         "quando": "Aprile-giugno e settembre-ottobre. In estate ci sono tante gite in pullman.",
         "tempo": "1-2 giornate",
+        "costo": "Degustazioni circa 20-40 €, di più nelle tenute storiche; la bistecca si paga a peso",
+        "url": "https://www.chianticlassico.com/",
+        "lat": 43.5833,
+        "lng": 11.3167,
         "consiglio": "Dormire in agriturismo e visitare cantine piccole: spesso il produttore stesso accoglie."
       },
       {
@@ -4351,6 +4744,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Siena. Montalcino si gira a piedi, le cantine sono sparse intorno.",
         "quando": "Primavera e autunno. Prenotare le cantine con anticipo.",
         "tempo": "1 giornata",
+        "costo": "Degustazioni in cantina circa 20-40 € a persona, spesso scalate sull'acquisto",
+        "url": "https://www.consorziobrunellodimontalcino.it/",
+        "lat": 43.0592,
+        "lng": 11.4892,
         "consiglio": "Visitare l'Abbazia di Sant'Antimo la mattina presto, quando c'è silenzio e la luce entra di lato nelle navate."
       },
       {
@@ -4359,6 +4756,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Catania, su strade tortuose e lente. Base a Linguaglossa, Castiglione di Sicilia o Randazzo.",
         "quando": "Settembre-ottobre per la vendemmia, ma l'Etna è bella anche in primavera.",
         "tempo": "1-2 giornate",
+        "costo": "Degustazioni in cantina circa 20-40 € a persona, spesso scalate sull'acquisto",
+        "lat": 37.8828,
+        "lng": 15.1225,
         "consiglio": "Chiedere di vedere le vigne vecchie: si capisce perché il suolo lavico ha salvato le viti dal parassita."
       },
       {
@@ -4367,6 +4767,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Gorizia o Cormons, che sono vicine. Le cantine sono piccole, a conduzione familiare.",
         "quando": "Primavera e autunno. In estate ha più sole.",
         "tempo": "1-2 giornate",
+        "costo": "Degustazioni in cantina circa 20-40 € a persona, spesso scalate sull'acquisto",
+        "url": "https://www.collio.it/",
+        "lat": 45.95,
+        "lng": 13.4667,
         "consiglio": "Attraversare il confine sloveno per un pranzo in una gostilna: a poca distanza cambia la cucina."
       },
       {
@@ -4375,6 +4779,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Solo in auto da Avellino o da Potenza. Poche cantine hanno strutture per l'accoglienza.",
         "quando": "Settembre-ottobre. Estate molto calda.",
         "tempo": "2 giornate, una per zona",
+        "lat": 41.0,
+        "lng": 14.95,
         "consiglio": "Qui ci si ritrova spesso nella cantina dove il proprietario sta travasando: è quello il momento di fare domande."
       },
       {
@@ -4383,7 +4789,41 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Treno da Milano a Tirano o Sondrio. Gli spostamenti tra le cantine richiedono l'auto.",
         "quando": "Settembre-ottobre. Il fondovalle d'estate è caldo e trafficato.",
         "tempo": "1-2 giornate",
+        "lat": 46.1697,
+        "lng": 9.87,
         "consiglio": "Camminare un tratto della Via dei Terrazzamenti, il sentiero tra i muretti, prima o dopo le degustazioni."
+      },
+      {
+        "nome": "Castello di Grinzane Cavour",
+        "testo": "Il castello dove visse Camillo Benso di Cavour, in mezzo alle vigne tra Alba e Barolo, oggi sede dell'enoteca regionale piemontese e di un museo sulla storia delle Langhe. Dalle terrazze si vede tutto il paesaggio UNESCO.",
+        "come": "In auto da Alba in circa 10 minuti. Parcheggio sotto il castello.",
+        "quando": "Tutto l'anno; in autunno ospita l'asta mondiale del tartufo bianco.",
+        "tempo": "1 ora",
+        "costo": "Biglietto circa 8 €",
+        "orari": "Tutti i giorni dalle 10, fino alle 19 da aprile a ottobre e fino alle 18 nel resto dell'anno",
+        "lat": 44.6532,
+        "lng": 7.995
+      },
+      {
+        "nome": "Barbaresco",
+        "testo": "Il paese che dà il nome all'altro grande Nebbiolo delle Langhe, su una collina sopra il Tanaro. La torre medievale si può salire e l'enoteca regionale sta in una chiesa sconsacrata.",
+        "come": "In auto da Alba in circa 15 minuti. Le cantine ricevono su prenotazione.",
+        "quando": "Settembre-ottobre e primavera.",
+        "tempo": "mezza giornata",
+        "costo": "Degustazioni in cantina circa 20-40 € a persona, spesso scalate sull'acquisto",
+        "lat": 44.7167,
+        "lng": 8.0833
+      },
+      {
+        "nome": "Montepulciano e il Vino Nobile",
+        "testo": "Borgo rinascimentale in cima a una collina della Val d'Orcia, con palazzi in pietra e cantine scavate sotto il centro storico, dove invecchia il Vino Nobile. Si vede bene anche la chiesa di San Biagio, appena fuori le mura.",
+        "come": "In auto da Siena in circa un'ora; si parcheggia fuori dalle mura e si sale a piedi.",
+        "quando": "Primavera e autunno.",
+        "tempo": "mezza giornata",
+        "costo": "Degustazioni in cantina circa 20-40 € a persona, spesso scalate sull'acquisto",
+        "lat": 43.1,
+        "lng": 11.7833,
+        "consiglio": "Si combina con Montalcino e Pienza nella stessa giornata."
       }
     ],
     programmi: [
@@ -4428,6 +4868,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Verona o Siena",
         "perChi": "chi lega il vino a una città",
         "testo": "Si dorme in città e si va in cantina in auto: ottima per chi ama monumenti, ma niente colline la sera."
+      },
+      {
+        "nome": "Etna: Linguaglossa e Castiglione di Sicilia",
+        "perChi": "chi fa la rotta del vulcano",
+        "testo": "Paesi sul versante nord, in mezzo alle contrade del Nerello Mascalese. Agriturismi e cantine con camere, a un'ora da Catania e mezz'ora da Taormina."
       }
     ],
     sapori: [
@@ -4463,6 +4908,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Ad agosto molte cantine chiudono o riducono le visite, mentre in vendemmia si riempiono.",
       "Nelle zone famose (Barolo, Montalcino) i prezzi di alloggio e degustazione sono alti: considerare Irpinia, Vulture, Valtellina ed Etna.",
       "Comprare in cantina costa meno dell'enoteca e si parla con chi ha fatto il vino."
+    ],
+    gite: [
+      {
+        "nome": "Pollenzo e Bra",
+        "distanza": "circa 15 km da Alba",
+        "come": "In auto",
+        "testo": "La tenuta sabauda con l'Università di Scienze Gastronomiche e la Banca del Vino, poi Bra, dove è nato Slow Food, per la salsiccia cruda."
+      },
+      {
+        "nome": "Lago di Garda: Bardolino e Lazise",
+        "distanza": "circa 25 km dalla Valpolicella",
+        "come": "In auto o bus da Verona",
+        "testo": "Un pomeriggio sul lago, con il Bardolino e il Chiaretto nelle cantine della sponda veronese."
+      },
+      {
+        "nome": "Abbazia di San Galgano",
+        "distanza": "circa 35 km da Siena",
+        "come": "In auto",
+        "testo": "L'abbazia gotica senza tetto in mezzo ai campi e, sulla collina accanto, la rotonda di Montesiepi con la spada nella roccia."
+      },
+      {
+        "nome": "Taormina dall'Etna",
+        "distanza": "circa 30 km da Castiglione di Sicilia",
+        "come": "In auto",
+        "testo": "Il teatro antico con il vulcano sullo sfondo e il corso Umberto, da fare al mattino prima della folla."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Bisogna prenotare le visite in cantina?",
+        "risposta": "Sì, quasi sempre. Le cantine sono aziende agricole e ricevono su appuntamento: si scrive o si telefona qualche giorno prima, di più in vendemmia."
+      },
+      {
+        "domanda": "Quanto costa una degustazione?",
+        "risposta": "Di solito tra 20 e 40 euro a persona, spesso scalati se si comprano bottiglie. Le cantine storiche di Barolo e Montalcino costano di più, le zone meno note molto meno."
+      },
+      {
+        "domanda": "Quando andare?",
+        "risposta": "Settembre e ottobre, in vendemmia, oppure da aprile a giugno. Ad agosto molte cantine chiudono o riducono le visite."
+      },
+      {
+        "domanda": "Come si fa con chi guida?",
+        "risposta": "In Italia il limite è 0,5 grammi per litro, zero per chi ha la patente da meno di tre anni, e nelle zone del vino i controlli ci sono. Si assaggia e si sputa, oppure si prende un autista o un taxi."
+      },
+      {
+        "domanda": "Quante cantine si visitano in un giorno?",
+        "risposta": "Due, al massimo tre: una al mattino e una al pomeriggio, con il pranzo in osteria in mezzo. Oltre si assaggia senza attenzione."
+      },
+      {
+        "domanda": "Qual è la rotta più economica?",
+        "risposta": "Irpinia e Vulture: Aglianico di grande livello, cantine dove spesso riceve il proprietario e alloggi a una frazione dei prezzi delle Langhe o del Chianti."
+      }
     ],
     esperienzeSlugs: ['degustazione-cantina'],
     tripSlugs: ['rotte-dei-vini-itinerario'],
@@ -5900,13 +6397,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       'Palermo è la capitale italiana dello street food: **arancine** (femminile, qui), **panelle** di ceci, **sfincione**, crocchè, e il **pane con la milza**, per i coraggiosi, da provare almeno una volta ai banchi storici. Poi la pasta con le sarde, le sarde a beccafico, il cous cous di pesce a **San Vito Lo Capo** e a Trapani, eredità diretta del mondo arabo e nordafricano. I dolci: cassata, cannoli e frutta martorana. Il vino: Marsala nella sua zona, Grillo e Catarratto per i bianchi.',
     comeArrivare:
-      'Volo su Palermo Punta Raisi, oppure Trapani Birgi per i low cost. In traghetto da Napoli, Genova e Civitavecchia. **Auto indispensabile** per muoversi fuori da Palermo.',
+      'Volo su Palermo Punta Raisi, oppure Trapani Birgi per i low cost. In traghetto da Napoli, Genova e Civitavecchia. **Auto indispensabile** per muoversi fuori da Palermo. Dall\'aeroporto di Palermo il bus Prestia e Comandè porta in centro in circa 50 minuti, circa 6 €; da Trapani Birgi il bus AST arriva in città e al porto in circa 40 minuti, e il taxi ha una tariffa fissa di circa 35 €.',
     comeSpostarsi:
       'Palermo si gira a piedi nel centro storico, con i mezzi pubblici che funzionano male. Fuori serve l\'auto: le autostrade collegano Palermo, Trapani e Marsala, il resto è statale. Per le Egadi, aliscafi da Trapani e Marsala.',
     periodoMigliore:
       '**aprile-giugno e settembre-ottobre.** In estate l\'ovest è torrido e le zone archeologiche non hanno ombra. L\'inverno è mite e ottimo per Palermo e i siti, con il mare fuori gioco. A settembre c\'è il Cous Cous Fest a San Vito Lo Capo.',
     costi:
-      'Per alloggi e ristoranti costa parecchio meno della Sicilia orientale. Monreale ha biglietti separati per duomo, chiostro e terrazze; Segesta e Selinunte hanno ingressi contenuti; i mercati non costano niente oltre a quello che si mangia.',
+      'Per alloggi e ristoranti costa parecchio meno della Sicilia orientale. Monreale ha biglietti separati per duomo, chiostro e terrazze; Segesta e Selinunte hanno ingressi contenuti; i mercati non costano niente oltre a quello che si mangia. Budget: circa 60-80 € al giorno a persona con B&B in doppia, street food e treni o bus. Medio: 120-160 € con hotel nel centro storico, auto a noleggio e ristoranti. Alto: oltre 250 € con dimore storiche, guide private e cene di pesce.',
     erroriDaEvitare: [
       'Andare a Monreale a metà giornata, quando arrivano i pullman: alle otto e mezza si sta dentro con dieci persone',
       'Giudicare Palermo dal degrado di certe zone e fermarsi lì: è la città più stratificata d\'Italia e chiede di adattarsi',
@@ -5924,6 +6421,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal centro storico. Ballarò è vicino alla Casa Professa e a Porta Nuova; il Capo è dietro il Teatro Massimo; la Vucciria sta tra via Roma e il porto.",
         "quando": "Mattina, quando i banchi sono al completo. Il pomeriggio molti banchi smontano. La domenica è più vuota.",
         "tempo": "2-3 ore",
+        "costo": "Ingresso libero; lo street food costa pochi euro a pezzo",
+        "lat": 38.1124,
+        "lng": 13.3601,
         "consiglio": "Mangiare panelle, arancine e sfincione in piedi, ai banchi dove fa la fila la gente del posto, non nei locali con il menu in inglese."
       },
       {
@@ -5932,7 +6432,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dal centro si arriva a piedi verso Porta Nuova. Biglietto online sul sito della Fondazione Federico II, ingresso con controlli e file brevi se si va presto.",
         "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso, sito della Fondazione Federico II). Al mattino, appena apre. Gli orari cambiano con le funzioni e con le sedute dell'assemblea regionale: controllare prima.",
         "tempo": "1 ora e mezza",
+        "costo": "Biglietto circa 19 € per Cappella Palatina e Appartamenti Reali",
+        "orari": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (ultimo ingresso)",
         "url": "https://www.federicosecondo.org/",
+        "lat": 38.1108,
+        "lng": 13.3536,
         "consiglio": "Alzare gli occhi al soffitto: i muqarnas sono in legno dipinto, con scene di corte arabe."
       },
       {
@@ -5941,6 +6445,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Bus AMAT 389 da Palermo (piazza Indipendenza o corso Calatafimi). Il chiostro e le terrazze hanno biglietti propri.",
         "quando": "Primo mattino, prima dei pullman. Orari variano con le funzioni: controllare prima.",
         "tempo": "2 ore",
+        "url": "https://www.monrealeduomo.it/",
+        "lat": 38.0819,
+        "lng": 13.2921,
         "consiglio": "Salire sulle terrazze per vedere il tetto e Palermo; portare una felpa per il fresco dentro."
       },
       {
@@ -5949,7 +6456,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Palermo in auto, per l'autostrada Palermo-Trapani. Il tempio è vicino all'ingresso; per il teatro c'è una navetta o una salita a piedi.",
         "quando": "Mattina o fine pomeriggio. D'estate non c'è ombra: evitare il mezzogiorno.",
         "tempo": "2 ore",
-        "costo": "biglietti e pass cumulativi sul sito del Parco archeologico: le tariffe cambiano",
+        "costo": "Archeopass Segesta, Selinunte e Gibellina 25,40 €, valido 7 giorni (dal 2026)",
+        "url": "https://www.coopculture.it/",
+        "lat": 37.9414,
+        "lng": 12.8322,
         "consiglio": "Salire al teatro: in cima si capisce perché i Greci lo costruirono qui."
       },
       {
@@ -5958,7 +6468,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto da Trapani o da Palermo. Dentro il parco c'è una navetta; si può anche noleggiare una bici.",
         "quando": "Prima mattina o tardo pomeriggio. A mezzogiorno d'estate è vastissimo e senza ombra.",
         "tempo": "3 ore",
-        "costo": "biglietti e pass cumulativi sul sito del Parco archeologico: le tariffe cambiano",
+        "costo": "Archeopass Segesta, Selinunte e Gibellina 25,40 €, valido 7 giorni (dal 2026)",
+        "url": "https://www.coopculture.it/",
+        "lat": 37.5836,
+        "lng": 12.8247,
         "consiglio": "Finire sulla spiaggia di Marinella, a due passi dai templi."
       },
       {
@@ -5967,6 +6480,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto con strada a tornanti da Trapani, oppure con il bus di linea. La funivia Trapani-Erice, quando è in funzione, è il modo più breve.",
         "quando": "La sera, quando i pullman se ne sono andati e resta la nebbia. La nebbia fa parte del posto.",
         "tempo": "mezza giornata",
+        "url": "https://www.funiviaerice.it/",
+        "lat": 38.0369,
+        "lng": 12.5864,
         "consiglio": "Dormirci una notte per vederla vuota, e portare una felpa anche d'estate."
       },
       {
@@ -5975,6 +6491,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Auto lungo la Via del Sale. Per Mozia, barchetta dall'imbarcadero di Birgi, pochi minuti. Il museo delle saline sta a Nubia.",
         "quando": "Tramonto, quando l'acqua diventa rosa. Mozia: giornate senza vento forte.",
         "tempo": "mezza giornata",
+        "costo": "Barca per Mozia e ingresso all'isola con il museo Whitaker si pagano separatamente",
+        "url": "https://www.fondazionewhitaker.it/",
+        "lat": 37.8683,
+        "lng": 12.4686,
         "consiglio": "Fermarsi a Marsala per l'omonimo vino: le cantine storiche fanno visite con degustazione."
       },
       {
@@ -5983,6 +6503,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Due ingressi: Scopello (a sud) e San Vito Lo Capo (a nord). Si lascia l'auto nei parcheggi dell'ingresso.",
         "quando": "Primavera e autunno; d'estate partire all'apertura e portare acqua. Orari e ingressi vanno controllati.",
         "tempo": "mezza giornata o tutto il giorno",
+        "costo": "Ingresso 5 €, solo con pagamento elettronico",
+        "orari": "Dopo l'incendio del 2025 la riserva ha riaperto per tratti nel 2026, prima da Scopello e poi anche da San Vito: controllare quali ingressi e sentieri sono aperti",
+        "url": "https://www.riservazingaro.it/",
+        "lat": 38.1042,
+        "lng": 12.7908,
         "consiglio": "Scarpe da scoglio e maschera: il mare nelle calette è tra i più belli della Sicilia."
       },
       {
@@ -5991,7 +6516,37 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Trapani o da Palermo in auto. Parcheggio a pagamento in paese, pieno in estate.",
         "quando": "Giugno e settembre, per il mare e il couscous. A luglio e agosto è pieno.",
         "tempo": "mezza giornata o una notte",
+        "lat": 38.1667,
+        "lng": 12.75,
         "consiglio": "Assaggiare il couscous di pesce in un locale con ricetta di famiglia, e prenotare a settembre."
+      },
+      {
+        "nome": "Cattedrale di Palermo",
+        "testo": "Una cattedrale normanna rimaneggiata per secoli, con elementi arabi, gotici e un interno neoclassico. Dentro ci sono le tombe reali di Federico II e Ruggero II; dalle coperture si cammina sopra la città.",
+        "come": "A piedi lungo il Cassaro (corso Vittorio Emanuele), tra i Quattro Canti e il Palazzo dei Normanni. Tombe, tesoro e tetti hanno un biglietto a parte.",
+        "quando": "Al mattino o nel tardo pomeriggio, quando la luce è bassa sulle terrazze.",
+        "tempo": "1 ora e mezza",
+        "costo": "Ingresso alla chiesa libero",
+        "lat": 38.1144,
+        "lng": 13.3561
+      },
+      {
+        "nome": "Scopello e la tonnara",
+        "testo": "Un borgo minuscolo attorno a un baglio, sopra la vecchia tonnara e i faraglioni che escono dall'acqua. È l'ingresso sud della Riserva dello Zingaro.",
+        "come": "In auto da Castellammare del Golfo, circa 10 km. La tonnara ha un accesso a pagamento per il bagno.",
+        "quando": "Giugno e settembre; ad agosto il borgo si riempie.",
+        "tempo": "mezza giornata",
+        "lat": 38.0715,
+        "lng": 12.8216
+      },
+      {
+        "nome": "Mondello",
+        "testo": "La spiaggia di Palermo, una baia di sabbia chiara tra Monte Pellegrino e Monte Gallo, con lo stabilimento liberty sull'acqua. D'estate è il mare della città.",
+        "come": "Bus urbano dal centro in circa mezz'ora, o in auto con parcheggi a pagamento.",
+        "quando": "Giugno e settembre, nei giorni feriali.",
+        "tempo": "mezza giornata",
+        "lat": 38.2008,
+        "lng": 13.3231
       }
     ],
     programmi: [
@@ -6079,6 +6634,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Segesta e Selinunte non hanno ombra: acqua, cappello e visita presto d'estate.",
       "Orari e prezzi dei siti cambiano: controllare sempre i siti ufficiali prima di andare."
     ],
+    gite: [
+      {
+        "nome": "Cefalù",
+        "distanza": "circa 70 km da Palermo",
+        "come": "Treno regionale in circa un'ora",
+        "testo": "Il duomo normanno con il Pantocratore, parte dell'itinerario arabo-normanno UNESCO, il lavatoio medievale e la spiaggia sotto la Rocca."
+      },
+      {
+        "nome": "Bagheria e le ville barocche",
+        "distanza": "circa 15 km da Palermo",
+        "come": "Treno o auto",
+        "testo": "Villa Palagonia con le sue statue di mostri e il museo di Renato Guttuso, in mezza giornata."
+      },
+      {
+        "nome": "Favignana",
+        "distanza": "circa 30 minuti di aliscafo da Trapani",
+        "come": "Aliscafo dal porto di Trapani, poi bicicletta",
+        "testo": "Cala Rossa e le cave di tufo in giornata, con rientro sull'ultimo aliscafo."
+      },
+      {
+        "nome": "Mazara del Vallo",
+        "distanza": "circa 25 km da Marsala",
+        "come": "In auto o treno",
+        "testo": "La casbah con i vicoli e le ceramiche e il Satiro danzante, la statua di bronzo ripescata in mare."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono per la Sicilia occidentale?",
+        "risposta": "Sette o otto: due o tre a Palermo con Monreale, poi Segesta, Erice e Trapani, Mozia e le saline, Selinunte e un giorno di mare a San Vito o allo Zingaro."
+      },
+      {
+        "domanda": "Come si arriva dall'aeroporto di Palermo al centro?",
+        "risposta": "Con il bus Prestia e Comandè, ogni mezz'ora, circa 50 minuti fino alla Stazione Centrale, circa 6 € online; oppure con il treno Trinacria Express o il taxi a tariffa fissa."
+      },
+      {
+        "domanda": "Esiste un biglietto unico per Segesta e Selinunte?",
+        "risposta": "Sì, dal 2026 c'è l'Archeopass: 25,40 € intero, valido sette giorni, con un ingresso a Segesta, uno a Selinunte e Gibellina."
+      },
+      {
+        "domanda": "Serve l'auto?",
+        "risposta": "A Palermo no, anzi è un problema per la ZTL e i parcheggi. Per il resto dell'ovest sì: siti, saline e spiagge sono distanti e i mezzi pubblici sono pochi."
+      },
+      {
+        "domanda": "Quando andare?",
+        "risposta": "Da aprile a giugno e da settembre a ottobre. D'estate i parchi archeologici non hanno ombra; d'inverno Palermo e i siti si visitano bene, con il mare fuori gioco."
+      },
+      {
+        "domanda": "Palermo è sicura?",
+        "risposta": "In generale sì, con le attenzioni di ogni grande città: borseggi nei mercati, niente in vista in auto e solo parcheggi ufficiali o custoditi, perché i parcheggiatori abusivi sono diffusi."
+      }
+    ],
     esperienzeSlugs: ['monreale', 'street-food-palermo'],
     tripSlugs: ['sicilia-completa'],
     imageAlt: 'Il belvedere merlato di Erice sopra un mare di nuvole, con la costa trapanese sullo sfondo',
@@ -6123,7 +6730,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       '**giugno e settembre**, come tutte le isole minori. A Pantelleria la stagione è più lunga e l\'isola funziona anche in primavera e in autunno grazie al vino e al termalismo. Lampedusa da novembre a marzo chiude quasi del tutto.',
     costi:
-      'La voce principale sono i trasporti, e non è da poco: Pantelleria e Lampedusa richiedono un volo o un traghetto lungo. **La Spiaggia dei Conigli a Lampedusa ha accesso regolamentato e contingentato** per la nidificazione delle tartarughe: conviene informarsi prima.',
+      'La voce principale sono i trasporti, e non è da poco: Pantelleria e Lampedusa richiedono un volo o un traghetto lungo. **La Spiaggia dei Conigli a Lampedusa ha accesso regolamentato e contingentato** per la nidificazione delle tartarughe: conviene informarsi prima. Budget: circa 70-90 € al giorno a persona con camera semplice in doppia, bici e pasti in trattoria. Medio: 130-180 € con dammuso o hotel, auto o scooter e un giro in barca. Alto: oltre 280 € con dammusi di charme, barca privata e cene di pesce.',
     erroriDaEvitare: [
       'Andare a Pantelleria cercando spiagge di sabbia: **non ce ne sono**. Si entra in acqua dalle rocce, e chi non lo sa resta deluso',
       'Sottovalutare il vento a Pantelleria: è una costante e può essere forte per giorni',
@@ -6211,6 +6818,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo da Trapani. Sull'isola si noleggia una bicicletta: le distanze sono brevi.",
         "quando": "Giugno e settembre. Mattina per le cale, pomeriggio per il museo. Ad agosto è affollata.",
         "tempo": "2 giorni",
+        "costo": "Aliscafo da Trapani da circa 12 € a tratta; ex Stabilimento Florio con biglietto di pochi euro",
+        "lat": 37.9253,
+        "lng": 12.3289,
         "consiglio": "Portare scarpe di gomma: quasi nessuna cala è di sabbia, si entra dalla roccia."
       },
       {
@@ -6227,7 +6837,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo da Trapani o da Favignana. La grotta si raggiunge a piedi o in barca e si visita con una guida.",
         "quando": "Giugno e settembre. La visita è su prenotazione e a gruppi limitati: organizzarsi al mattino.",
         "tempo": "mezza giornata",
+        "costo": "Circa 20 € la sola grotta, circa 40 € con il trasporto",
+        "orari": "Solo su prenotazione, almeno 48 ore prima, con visite al mattino",
         "url": "https://www.ampisoleegadi.it/",
+        "lat": 38.0031,
+        "lng": 12.3222,
         "consiglio": "Prenotare la visita alla grotta il giorno prima, e portare scarpe chiuse per il sentiero."
       },
       {
@@ -6236,6 +6850,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo da Trapani (più lungo di quello per Favignana) o traghetto. Si gira a piedi e in barca.",
         "quando": "Giugno e settembre. Con mare mosso le corse saltano.",
         "tempo": "1-2 giorni",
+        "lat": 37.9694,
+        "lng": 12.0572,
         "consiglio": "Il giro delle grotte in barca è l'esperienza principale; concordare il prezzo con il barcaiolo."
       },
       {
@@ -6244,7 +6860,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aereo da Trapani, Palermo o in stagione dal continente, oppure traghetto notturno da Trapani. Sull'isola serve l'auto, da prenotare in anticipo.",
         "quando": "Primavera e settembre. Il lago al tramonto, con il fango già caldo. Il vento è una costante.",
         "tempo": "4-5 giorni",
+        "costo": "Ingresso al lago libero",
         "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.8158,
+        "lng": 11.9862,
         "consiglio": "Non cercare spiagge di sabbia: non ce ne sono, si entra in acqua dalle rocce o dai laghetti termali."
       },
       {
@@ -6253,6 +6872,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In auto fino alla base della Montagna Grande e poi a piedi. I giardini si vedono lungo le strade interne e in alcune aziende agricole.",
         "quando": "Mattina. Vento forte e fresco in quota anche d'estate.",
         "tempo": "mezza giornata",
+        "lat": 36.7807,
+        "lng": 12.005,
         "consiglio": "Visitare una cantina e provare il passito: le visite si prenotano."
       },
       {
@@ -6261,7 +6882,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aereo da Palermo o Catania, oppure nave da Porto Empedocle, con una traversata lunga. Dal paese in scooter o in auto fino al parcheggio, poi a piedi.",
         "quando": "Giugno e settembre. In alta stagione l'accesso può essere contingentato e a prenotazione.",
         "tempo": "mezza giornata",
+        "costo": "Accesso gratuito, con prenotazione obbligatoria in estate e numero chiuso",
         "url": "https://www.ampisolepelagie.it/",
+        "lat": 35.51,
+        "lng": 12.5584,
         "consiglio": "Informarsi sulle regole di accesso della stagione prima di partire e arrivare presto al mattino."
       },
       {
@@ -6270,7 +6894,38 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Nave dalla Sicilia o aliscafo da Lampedusa in stagione. Si gira a piedi in un giorno.",
         "quando": "Giugno e settembre; fuori stagione i collegamenti sono radi.",
         "tempo": "1 giorno o una notte",
+        "lat": 35.8667,
+        "lng": 12.8667,
         "consiglio": "Controllare gli orari di ritorno prima di partire: con il mare mosso le corse saltano."
+      },
+      {
+        "nome": "Ex Stabilimento Florio",
+        "testo": "La tonnara ottocentesca dei Florio sul porto di Favignana, restaurata come museo: i capannoni dove si lavorava il tonno, le barche della mattanza e le foto e le voci dei tonnaroti.",
+        "come": "A piedi dal porto, a pochi minuti dallo sbarco.",
+        "quando": "Nelle ore calde, quando le cale sono al sole pieno.",
+        "tempo": "1-2 ore",
+        "costo": "Biglietto di pochi euro; orari che cambiano con la stagione",
+        "lat": 37.9303,
+        "lng": 12.3227
+      },
+      {
+        "nome": "Pantelleria dal mare e l'Arco dell'Elefante",
+        "testo": "Il giro dell'isola in barca è il modo per vedere le coste di lava, le grotte e le calette senza spiaggia. L'Arco dell'Elefante, una roccia lavica a forma di proboscide che entra in mare, è il punto più fotografato.",
+        "come": "Le barche partono dal porto di Pantelleria; l'Arco si raggiunge anche in auto lungo la costa est.",
+        "quando": "Nei giorni senza vento forte: si prenota il giorno prima e si riconferma la mattina.",
+        "tempo": "una giornata",
+        "costo": "Escursione condivisa di una giornata da circa 60 € a persona con il pranzo; barca privata molto più cara",
+        "lat": 36.7929,
+        "lng": 12.0536
+      },
+      {
+        "nome": "Lampedusa in barca",
+        "testo": "Il giro dell'isola tocca le cale della costa sud, con fondali chiari che sembrano piscine, e la Tabaccara, una delle baie più trasparenti del Mediterraneo. Da terra molte di queste cale non si raggiungono.",
+        "come": "Le barche partono dal porto, con pranzo a bordo; si prenota in paese il giorno prima.",
+        "quando": "Da giugno a settembre, con mare calmo.",
+        "tempo": "una giornata",
+        "lat": 35.515,
+        "lng": 12.58
       }
     ],
     programmi: [
@@ -6354,6 +7009,58 @@ export const destinazioniItalia: Destinazione[] = [
       "A Pantelleria si cerca un'auto con anticipo, perché i mezzi disponibili sono pochi in stagione.",
       "L'acqua dolce è scarsa su Pantelleria, Lampedusa e le isole minori: consumarla con misura.",
       "Il vento è costante a Pantelleria: scegliere calette riparate e controllare le previsioni."
+    ],
+    gite: [
+      {
+        "nome": "Erice da Trapani",
+        "distanza": "circa 10 minuti di funivia",
+        "come": "Funivia Trapani-Erice, che con vento forte si ferma, o bus",
+        "testo": "Il borgo medievale a 750 metri sopra Trapani, con il Castello di Venere e le pasticcerie di mandorla: una mezza giornata prima o dopo le Egadi."
+      },
+      {
+        "nome": "Mozia e lo Stagnone",
+        "distanza": "circa 30 km da Trapani",
+        "come": "In auto fino all'imbarcadero, poi barca di pochi minuti",
+        "testo": "L'isola fenicia nella laguna, con il museo Whitaker, e le saline al tramonto sulla via del ritorno."
+      },
+      {
+        "nome": "Levanzo da Favignana",
+        "distanza": "pochi minuti di aliscafo",
+        "come": "Aliscafo, con visita alla grotta prenotata",
+        "testo": "Un paese di pescatori, la Grotta del Genovese con le incisioni preistoriche e un bagno a Cala Minnola."
+      },
+      {
+        "nome": "Linosa da Lampedusa",
+        "distanza": "circa un'ora di aliscafo",
+        "come": "Aliscafo in stagione, da controllare per il ritorno",
+        "testo": "L'isola vulcanica nera con le case colorate, da girare a piedi in un giorno."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quale isola scegliere tra Favignana, Pantelleria e Lampedusa?",
+        "risposta": "Favignana per chi ha pochi giorni e parte da Trapani; Pantelleria per paesaggio, vino e silenzio, sapendo che non ha spiagge di sabbia; Lampedusa per il mare più bello, mettendo in conto distanza e costi."
+      },
+      {
+        "domanda": "Come si arriva a Pantelleria?",
+        "risposta": "In aereo da Trapani o da Palermo, e in stagione dal continente, oppure con il traghetto notturno da Trapani, circa sei ore. Sull'isola serve l'auto, da prenotare con anticipo."
+      },
+      {
+        "domanda": "Serve prenotare la Spiaggia dei Conigli?",
+        "risposta": "In estate sì: l'accesso è gratuito ma a numero chiuso, su prenotazione, per proteggere i nidi della Caretta caretta. Non ci sono bar, quindi acqua e ombra si portano da casa."
+      },
+      {
+        "domanda": "Favignana si gira in bici?",
+        "risposta": "Sì, è piatta e piccola: la bici si noleggia vicino al porto ed è il mezzo migliore. Ad agosto conviene prenotarla."
+      },
+      {
+        "domanda": "Quando andare?",
+        "risposta": "Giugno e settembre. Pantelleria funziona anche in primavera e in autunno; Lampedusa da novembre a marzo chiude quasi del tutto."
+      },
+      {
+        "domanda": "Il mare mosso blocca i collegamenti?",
+        "risposta": "Sì, soprattutto per Pantelleria, Lampedusa, Levanzo e Marettimo. Conviene lasciare un giorno di margine prima del volo di rientro."
+      }
     ],
     esperienzeSlugs: ['passito-pantelleria'],
     tripSlugs: ['isole-siciliane'],

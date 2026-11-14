@@ -391,10 +391,10 @@ export const destinazioniLituania: Destinazione[] = [
     doveDormire: "On this itinerary Trakai is visited in half a day from Vilnius, without staying overnight.",
     doveMangiare:
       "Karaim kibinai, the town's dish, can be found at several historic places near the castle. For a full meal there are the lakeside restaurants, with a view of the castle and Lithuanian and Karaim cooking.",
-    comeArrivare: "From Vilnius central station by regional train or by intercity bus; station and stop are a few kilometres from the castle.",
+    comeArrivare: "LTG Link regional trains to Trakai leave from Vilnius central station: about 35 minutes and about 1.90 € in second class, with a price that varies with demand. Alternatively there is the scheduled bus from the bus station next door, with similar times. Station and stop are a few kilometres from the castle, a walk along the lake. By car it is about 28 km from Vilnius.",
     comeSpostarsi: "From the station or bus stop to the center of Trakai and the castle there's a relaxed walk along the lake; alternatively there's a short local bus ride.",
     periodoMigliore: "May to September, when the lake shows its colors and you can rent a boat. The castle is open all year and has a different charm under the snow.",
-    costi: "tickets and prices of the castle History Museum on the official website.",
+    costi: "Daily budget per person sharing a double room: 40-60 € on a tight budget (guesthouse, kibinai, only the Island Castle), 80-120 € mid-range (lakeside hotel, combined castle ticket, dinner at a restaurant), over 150 € with a spa hotel. 2026 prices: train from Vilnius about 1.90 € each way, Island Castle 14 € from April to September and 12 € from October to March, combined with the Peninsula Castle 17 € (April-September only), Karaim museum 9 €.",
     erroriDaEvitare: [
       "Leaving without checking opening hours: the castle's opening days and hours change with the season",
       "Stopping at the footbridge without going into the museum: the inside rooms, including those on the history of the Grand Duchy, are worth the ticket",
@@ -407,9 +407,13 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Trakai Island Castle",
         testo: "A red-brick Gothic castle on an island in Lake Galvė, begun in the 14th century by Grand Duke Kęstutis and completed by his son Vytautas, who died there in 1430. Rebuilt in the 20th century, it houses the Trakai History Museum.",
         come: "From the town, pedestrian wooden bridge from the shore.",
-        quando: "Weekday morning; October-March fewer crowds. From May to September open daily 10-19; March-April and October-November closed on Mondays, December-February closed Mondays and Tuesdays (10-18).",
+        quando: "Weekday morning; from October to March there are fewer crowds.",
         tempo: "2-3 hours",
-        costo: "14 € April-September, 12 € October-March; reduced 7/6 € (2026)",
+        costo: "14 € April-September, 12 € October-March; reduced 7/6 €; combined with the Peninsula Castle 17 € (April-September, 2026)",
+        orari: "April-September daily 10-19; March, October and November 10-18, closed Mondays; December-February 10-18, closed Mondays and Tuesdays. Last entry 30 minutes before closing",
+        lat: 54.6525,
+        lng: 24.93306,
+        url: "https://trakaimuziejus.lt",
         consiglio: "Go into the museum rooms: they tell the story of the Grand Duchy."
       },
       {
@@ -418,6 +422,9 @@ export const destinazioniLituania: Destinazione[] = [
         come: "On foot from the centre, along the street.",
         quando: "Lunch.",
         tempo: "1 hour",
+        costo: "free entry",
+        lat: 54.64733,
+        lng: 24.93374,
         consiglio: "Try the meat kibinai in one of the Karaite restaurants."
       },
       {
@@ -426,7 +433,64 @@ export const destinazioniLituania: Destinazione[] = [
         come: "On foot from the town; rental on the lakefront.",
         quando: "Summer, morning or late afternoon.",
         tempo: "1-2 hours",
+        lat: 54.66,
+        lng: 24.93,
         consiglio: "Renting a rowing boat is the easiest way to see the castle from the water."
+      },
+      {
+        nome: "Peninsula Castle",
+        testo: "The oldest castle in Trakai, built by Grand Duke Kęstutis in the 14th century on the peninsula between lakes Galvė and Luka. The walls and towers remain, partly rebuilt, inside a large park; the chapel of the former Dominican monastery hosts an exhibition of sacred art. It takes less time and draws fewer people than the Island Castle.",
+        come: "On foot from the centre, at the start of Kęstučio gatvė.",
+        quando: "Before or after the Island Castle, while the crowds are on the island.",
+        tempo: "45 minutes-1 hour",
+        costo: "10 € April-September, 8 € October-March; reduced 6/5 € (2026)",
+        orari: "April-September daily 10-18; October-March Tuesday-Saturday 10-18, closed Sundays and Mondays",
+        lat: 54.646,
+        lng: 24.937,
+        url: "https://trakaimuziejus.lt",
+        consiglio: "From April to September the combined ticket with the Island Castle costs 17 € and is worth it."
+      },
+      {
+        nome: "S. Šapšal Karaim National Museum",
+        testo: "The museum of Trakai's Karaim community, named after the scholar Seraja Šapšal, holds costumes, religious objects, weapons and documents. It tells how the minority came from Crimea at the end of the 14th century and kept its language and faith to this day.",
+        come: "On foot along Karaimų gatvė, at number 22.",
+        quando: "Together with lunch in the Karaite quarter.",
+        tempo: "45 minutes",
+        costo: "9 € April-September, 7 € October-March; reduced 5/4 € (2026)",
+        orari: "Wednesday-Sunday 10-18, closed Mondays and Tuesdays",
+        lat: 54.64717,
+        lng: 24.93307,
+        url: "https://trakaimuziejus.lt"
+      },
+      {
+        nome: "Trakai Kenesa",
+        testo: "The Karaim temple of Trakai, wooden, rectangular in plan with a hipped roof, completed around 1800 and restored in the 1890s. It is one of the few surviving kenesas of the former Polish-Lithuanian Commonwealth.",
+        come: "On foot along Karaimų gatvė, at number 30.",
+        quando: "During the walk through the Karaite quarter.",
+        tempo: "15 minutes",
+        lat: 54.64778,
+        lng: 24.93278,
+        consiglio: "It is usually seen only from outside: the interior rarely opens."
+      },
+      {
+        nome: "Basilica of the Visitation",
+        testo: "Trakai's parish church, founded by Grand Duke Vytautas in 1409 in Gothic style and later remodelled in Baroque style. It keeps the icon of the Madonna of Trakai, venerated as patroness of Lithuania.",
+        come: "On foot from the centre, in the southern part of town, towards the station.",
+        quando: "On the way to or from the station.",
+        tempo: "20-30 minutes",
+        costo: "free entry",
+        lat: 54.64286,
+        lng: 24.93444
+      },
+      {
+        nome: "Užutrakis Manor",
+        testo: "A late-19th-century neoclassical villa of the Tyszkiewicz family, on the opposite shore of Lake Galvė, with a park designed by the French landscape architect Édouard André. From the lawn by the lake you see the Island Castle from a less familiar angle.",
+        come: "On foot or by bike from the centre, about 3 km along the lake; in summer also by boat.",
+        quando: "Afternoon, with the light on the lake.",
+        tempo: "1-2 hours",
+        lat: 54.6597,
+        lng: 24.9438,
+        consiglio: "The villa is under restoration and some parts may be closed: the park is worth it anyway."
       }
     ],
     sapori: [
@@ -443,6 +507,86 @@ export const destinazioniLituania: Destinazione[] = [
       "Trakai, west of Vilnius, is a half-day trip: trains and buses leave from the station.",
       "In summer parking and lakeside restaurants fill up at weekends.",
       "Restaurants facing the castle are pricier than those in the Karaite quarter."
+    ],
+    programmi: [
+      {
+        titolo: "Half a day",
+        tappe: ["Morning train from Vilnius", "Island Castle and History Museum", "Lunch with kibinai on Karaimų gatvė", "Back to Vilnius in the afternoon"]
+      },
+      {
+        titolo: "1 day",
+        tappe: ["Morning: Island Castle as soon as it opens", "Lunch in the Karaite quarter, kenesa and Karaim museum (not Monday or Tuesday)", "Afternoon: Peninsula Castle", "Boat trip on Lake Galvė before the train back"]
+      },
+      {
+        titolo: "2 days",
+        tappe: ["Day 1 as above, with a night by the lake", "Day 2 morning: walk or cycle to Užutrakis Manor", "Basilica of the Visitation", "Afternoon: Senieji Trakai and back to Vilnius"]
+      }
+    ],
+    zone: [
+      {
+        nome: "Old town and Karaimų gatvė",
+        perChi: "Those who want the castle a few steps away",
+        testo: "Guesthouses and small hotels in the wooden houses, near the restaurants; quiet in the evening.",
+        fascia: "60-110 €"
+      },
+      {
+        nome: "Lakeshores",
+        perChi: "Those looking for a spa and a view of the water",
+        testo: "Spa hotels and resorts on lakes Galvė and Totoriškės, a little outside the centre.",
+        fascia: "90-160 €"
+      },
+      {
+        nome: "Vilnius as a base",
+        perChi: "Those doing Trakai as a day trip",
+        testo: "More choice and lower prices; by train Trakai is 35 minutes away.",
+        fascia: "50-140 €"
+      }
+    ],
+    faq: [
+      {
+        domanda: "How much time do you need for Trakai?",
+        risposta: "Half a day is enough for the Island Castle and a lunch of kibinai. A full day adds the Peninsula Castle, the Karaite quarter and a boat trip."
+      },
+      {
+        domanda: "How do you get from Vilnius to Trakai?",
+        risposta: "By regional train from the central station, about 35 minutes and about 1.90 € each way, or by bus from the bus station next door. From Trakai station to the castle you walk along the lake."
+      },
+      {
+        domanda: "How much does the castle cost?",
+        risposta: "In 2026 the Island Castle costs 14 € from April to September and 12 € from October to March. From April to September there is a combined ticket with the Peninsula Castle for 17 €."
+      },
+      {
+        domanda: "Is the castle open all year?",
+        risposta: "Yes, but in winter it closes on Mondays and Tuesdays, and in March, October and November on Mondays. From April to September it is open daily from 10 to 19."
+      },
+      {
+        domanda: "Can you go around the lake by boat?",
+        risposta: "Yes, rowing boats, pedal boats and canoes can be rented on the lakefront, mainly from May to September. It is the best way to see the castle from the water."
+      },
+      {
+        domanda: "What are kibinai?",
+        risposta: "Filled pastries, usually with lamb or beef and onion, a typical Karaim dish. In Trakai you eat them in the places on Karaimų gatvė."
+      }
+    ],
+    gite: [
+      {
+        nome: "Senieji Trakai",
+        distanza: "about 3 km",
+        come: "By car, bike or taxi from Trakai.",
+        testo: "The village of \"old Trakai\", where the first castle stood and where, according to tradition, Grand Duke Vytautas was born. The church with the former Benedictine monastery remains, on a rise among the fields."
+      },
+      {
+        nome: "Vilnius",
+        distanza: "about 28 km, 35 minutes by train",
+        come: "Regional train or bus to the central station.",
+        testo: "The capital, with the UNESCO-listed Baroque Old Town, the Užupis district and Gediminas Tower. For anyone sleeping in Trakai it is an easy day."
+      },
+      {
+        nome: "Kaunas",
+        distanza: "about 85 km, about 1 hour by car",
+        come: "By car on the A1 motorway, or by train via Vilnius.",
+        testo: "The country's second city, capital between the wars, with its Old Town on the river and the modernist buildings of the 1920s and 1930s, UNESCO World Heritage since 2023."
+      }
     ],
     esperienzeSlugs: ['trakai-castello-lago-galve'],
     tripSlugs: ['capitali-baltiche'],

@@ -391,10 +391,10 @@ export const destinazioniLituania: Destinazione[] = [
     doveDormire: 'En este itinerario Trakai se visita en media jornada desde Vilna, sin dormir allí.',
     doveMangiare:
       "Los kibinai caraítas, el plato de la localidad, se encuentran en varios locales históricos cerca del castillo. Para una comida completa están los restaurantes del paseo junto al lago, con vistas al castillo y cocina lituana y caraíta.",
-    comeArrivare: 'Desde la estación central de Vilna en tren regional o en autobús de línea; estación y parada están a algunos kilómetros del castillo.',
+    comeArrivare: "Desde la estación central de Vilna salen los trenes regionales LTG Link hacia Trakai: unos 35 minutos y unos 1,90 € en segunda clase, con un precio que varía según la demanda. Como alternativa está el autobús de línea desde la estación de autobuses contigua, con tiempos parecidos. Estación y parada están a algunos kilómetros del castillo, un paseo junto al lago. En coche son unos 28 km desde Vilna.",
     comeSpostarsi: 'De la estación o de la parada del autobús al centro de Trakai y al castillo hay un paseo tranquilo junto al lago; como alternativa hay un breve tramo de autobús local.',
     periodoMigliore: 'de mayo a septiembre, cuando el lago tiene sus colores y se puede alquilar una barca. El castillo está abierto todo el año y bajo la nieve tiene otro encanto.',
-    costi: 'entradas y precios del Museo Histórico del Castillo en la web oficial.',
+    costi: "Presupuesto diario por persona en habitación doble: 40-60 € gastando poco (casa de huéspedes, kibinai, solo el castillo de la isla), 80-120 € de gama media (hotel junto al lago, entrada combinada de los castillos, cena en restaurante), más de 150 € con hotel spa. Precios 2026: tren desde Vilna unos 1,90 € por trayecto, castillo de la isla 14 € de abril a septiembre y 12 € de octubre a marzo, combinada con el castillo de la península 17 € (solo abril-septiembre), museo caraíta 9 €.",
     erroriDaEvitare: [
       "Salir sin comprobar los horarios: los días y horarios de apertura del castillo cambian según la temporada",
       "Quedarse en el puente peatonal sin entrar en el museo: las salas interiores, también las de la historia del Gran Ducado, valen la entrada",
@@ -407,9 +407,13 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Castillo de la isla de Trakai",
         testo: "Castillo gótico de ladrillo rojo en la isla del lago Galvė, iniciado en el siglo XIV por el gran duque Kęstutis y terminado por su hijo Vytautas, que murió allí en 1430. Reconstruido en el siglo XX, alberga el Museo Histórico de Trakai.",
         come: "Desde el pueblo, puente de madera peatonal desde la orilla.",
-        quando: "Mañana entre semana; de octubre a marzo menos gente. De mayo a septiembre abierto todos los días 10-19; marzo-abril y octubre-noviembre cerrado los lunes, diciembre-febrero cerrado lunes y martes (10-18).",
+        quando: "Mañana entre semana; de octubre a marzo hay menos gente.",
         tempo: "2-3 horas",
-        costo: "14 € abril-septiembre, 12 € octubre-marzo; reducida 7/6 € (2026)",
+        costo: "14 € abril-septiembre, 12 € octubre-marzo; reducida 7/6 €; combinada con el castillo de la península 17 € (abril-septiembre, 2026)",
+        orari: "Abril-septiembre todos los días 10-19; marzo, octubre y noviembre 10-18, cerrado los lunes; diciembre-febrero 10-18, cerrado lunes y martes. Última entrada 30 minutos antes del cierre",
+        lat: 54.6525,
+        lng: 24.93306,
+        url: "https://trakaimuziejus.lt",
         consiglio: "Entrar en las salas del museo: cuentan la historia del Gran Ducado."
       },
       {
@@ -418,6 +422,9 @@ export const destinazioniLituania: Destinazione[] = [
         come: "A pie desde el centro, por la calle.",
         quando: "Almuerzo.",
         tempo: "1 hora",
+        costo: "entrada libre",
+        lat: 54.64733,
+        lng: 24.93374,
         consiglio: "Probar los kibinai de carne en uno de los restaurantes caraítas."
       },
       {
@@ -426,7 +433,64 @@ export const destinazioniLituania: Destinazione[] = [
         come: "A pie desde el pueblo; alquiler en el paseo del lago.",
         quando: "Verano, mañana o última hora de la tarde.",
         tempo: "1-2 horas",
+        lat: 54.66,
+        lng: 24.93,
         consiglio: "Alquilar una barca de remos es la forma más sencilla de ver el castillo desde el agua."
+      },
+      {
+        nome: "Castillo de la península",
+        testo: "El castillo más antiguo de Trakai, construido por el gran duque Kęstutis en el siglo XIV en la península entre los lagos Galvė y Luka. Quedan las murallas y las torres, en parte reconstruidas, dentro de un gran parque; en la capilla del antiguo convento dominico hay una exposición de arte sacro. Se visita en menos tiempo y con menos gente que el castillo de la isla.",
+        come: "A pie desde el centro, al comienzo de Kęstučio gatvė.",
+        quando: "Antes o después del castillo de la isla, mientras la gente está en la isla.",
+        tempo: "45 minutos-1 hora",
+        costo: "10 € abril-septiembre, 8 € octubre-marzo; reducida 6/5 € (2026)",
+        orari: "Abril-septiembre todos los días 10-18; octubre-marzo martes-sábado 10-18, cerrado domingo y lunes",
+        lat: 54.646,
+        lng: 24.937,
+        url: "https://trakaimuziejus.lt",
+        consiglio: "De abril a septiembre la entrada combinada con el castillo de la isla cuesta 17 € y compensa."
+      },
+      {
+        nome: "Museo Nacional Caraíta S. Šapšal",
+        testo: "El museo de la comunidad caraíta de Trakai, dedicado al estudioso Seraja Šapšal, reúne trajes, objetos religiosos, armas y documentos. Cuenta cómo la minoría llegó de Crimea a finales del siglo XIV y conservó su lengua y su fe hasta hoy.",
+        come: "A pie por Karaimų gatvė, en el número 22.",
+        quando: "Junto con el almuerzo en el barrio caraíta.",
+        tempo: "45 minutos",
+        costo: "9 € abril-septiembre, 7 € octubre-marzo; reducida 5/4 € (2026)",
+        orari: "Miércoles-domingo 10-18, cerrado lunes y martes",
+        lat: 54.64717,
+        lng: 24.93307,
+        url: "https://trakaimuziejus.lt"
+      },
+      {
+        nome: "Kenesa de Trakai",
+        testo: "El templo caraíta de Trakai, de madera, de planta rectangular con tejado a cuatro aguas, terminado hacia 1800 y restaurado en la década de 1890. Es una de las pocas kenesas que se conservan de la antigua Mancomunidad polaco-lituana.",
+        come: "A pie por Karaimų gatvė, en el número 30.",
+        quando: "Durante el paseo por el barrio caraíta.",
+        tempo: "15 minutos",
+        lat: 54.64778,
+        lng: 24.93278,
+        consiglio: "Normalmente solo se ve desde fuera: el interior abre pocas veces."
+      },
+      {
+        nome: "Basílica de la Visitación",
+        testo: "La iglesia parroquial de Trakai, fundada por el gran duque Vytautas en 1409 en estilo gótico y reformada después en estilo barroco. Guarda el icono de la Virgen de Trakai, venerada como patrona de Lituania.",
+        come: "A pie desde el centro, en la parte sur de la ciudad, hacia la estación.",
+        quando: "Al ir o volver de la estación.",
+        tempo: "20-30 minutos",
+        costo: "entrada libre",
+        lat: 54.64286,
+        lng: 24.93444
+      },
+      {
+        nome: "Mansión de Užutrakis",
+        testo: "Una villa neoclásica de finales del siglo XIX de la familia Tyszkiewicz, en la orilla opuesta del lago Galvė, con un parque diseñado por el paisajista francés Édouard André. Desde el prado junto al lago se ve el castillo de la isla desde un ángulo menos conocido.",
+        come: "A pie o en bicicleta desde el centro, unos 3 km junto al lago; en verano también en barca.",
+        quando: "Por la tarde, con la luz sobre el lago.",
+        tempo: "1-2 horas",
+        lat: 54.6597,
+        lng: 24.9438,
+        consiglio: "La villa está en restauración y algunas partes pueden estar cerradas: el parque merece la pena igualmente."
       }
     ],
     sapori: [
@@ -443,6 +507,86 @@ export const destinazioniLituania: Destinazione[] = [
       "Trakai, al oeste de Vilna, es una excursión de media jornada: trenes y buses salen de la estación.",
       "En verano los aparcamientos y los restaurantes del lago se llenan los fines de semana.",
       "Los restaurantes frente al castillo son más caros que los del barrio caraíta."
+    ],
+    programmi: [
+      {
+        titolo: "Media jornada",
+        tappe: ["Tren desde Vilna por la mañana", "Castillo de la isla y Museo Histórico", "Almuerzo con kibinai en Karaimų gatvė", "Vuelta a Vilna por la tarde"]
+      },
+      {
+        titolo: "1 día",
+        tappe: ["Mañana: castillo de la isla nada más abrir", "Almuerzo en el barrio caraíta, kenesa y museo caraíta (no lunes ni martes)", "Tarde: castillo de la península", "Paseo en barca por el lago Galvė antes del tren de vuelta"]
+      },
+      {
+        titolo: "2 días",
+        tappe: ["Día 1 como arriba, con noche junto al lago", "Día 2 por la mañana: paseo o bici hasta la mansión de Užutrakis", "Basílica de la Visitación", "Tarde: Senieji Trakai y vuelta a Vilna"]
+      }
+    ],
+    zone: [
+      {
+        nome: "Ciudad vieja y Karaimų gatvė",
+        perChi: "Quien quiere el castillo a pocos pasos",
+        testo: "Casas de huéspedes y pequeños hoteles en las casas de madera, cerca de los restaurantes; tranquilo por la noche.",
+        fascia: "60-110 €"
+      },
+      {
+        nome: "Orillas de los lagos",
+        perChi: "Quien busca spa y vistas al agua",
+        testo: "Hoteles con spa y resorts en los lagos Galvė y Totoriškės, algo fuera del centro.",
+        fascia: "90-160 €"
+      },
+      {
+        nome: "Vilna como base",
+        perChi: "Quien hace Trakai en el día",
+        testo: "Más oferta y precios más bajos; en tren Trakai está a 35 minutos.",
+        fascia: "50-140 €"
+      }
+    ],
+    faq: [
+      {
+        domanda: "¿Cuánto tiempo hace falta para Trakai?",
+        risposta: "Media jornada basta para el castillo de la isla y un almuerzo con kibinai. Con un día entero se añaden el castillo de la península, el barrio caraíta y un paseo en barca."
+      },
+      {
+        domanda: "¿Cómo se va de Vilna a Trakai?",
+        risposta: "En tren regional desde la estación central, unos 35 minutos y unos 1,90 € por trayecto, o en autobús desde la estación contigua. Desde la estación de Trakai al castillo se camina junto al lago."
+      },
+      {
+        domanda: "¿Cuánto cuesta entrar en el castillo?",
+        risposta: "En 2026 el castillo de la isla cuesta 14 € de abril a septiembre y 12 € de octubre a marzo. De abril a septiembre hay entrada combinada con el castillo de la península por 17 €."
+      },
+      {
+        domanda: "¿El castillo abre todo el año?",
+        risposta: "Sí, pero en invierno cierra lunes y martes, y en marzo, octubre y noviembre los lunes. De abril a septiembre abre todos los días de 10 a 19."
+      },
+      {
+        domanda: "¿Se puede recorrer el lago en barca?",
+        risposta: "Sí, en el paseo del lago se alquilan barcas de remos, hidropedales y canoas, sobre todo de mayo a septiembre. Es la mejor forma de ver el castillo desde el agua."
+      },
+      {
+        domanda: "¿Qué son los kibinai?",
+        risposta: "Empanadillas rellenas, normalmente de cordero o ternera con cebolla, plato típico caraíta. En Trakai se comen en los locales de Karaimų gatvė."
+      }
+    ],
+    gite: [
+      {
+        nome: "Senieji Trakai",
+        distanza: "unos 3 km",
+        come: "En coche, bici o taxi desde Trakai.",
+        testo: "El pueblo del «viejo Trakai», donde estaba el primer castillo y donde, según la tradición, nació el gran duque Vytautas. Queda la iglesia con el antiguo monasterio benedictino, sobre una loma entre los campos."
+      },
+      {
+        nome: "Vilna",
+        distanza: "unos 28 km, 35 minutos en tren",
+        come: "Tren regional o autobús hasta la estación central.",
+        testo: "La capital, con el casco antiguo barroco patrimonio de la UNESCO, el barrio de Užupis y la Torre de Gediminas. Para quien duerme en Trakai es una jornada fácil."
+      },
+      {
+        nome: "Kaunas",
+        distanza: "unos 85 km, alrededor de 1 hora en coche",
+        come: "En coche por la autopista A1, o en tren pasando por Vilna.",
+        testo: "La segunda ciudad del país, capital entre las dos guerras, con el casco antiguo junto al río y los edificios modernistas de los años veinte y treinta, patrimonio de la UNESCO desde 2023."
+      }
     ],
     esperienzeSlugs: ['trakai-castello-lago-galve'],
     tripSlugs: ['capitali-baltiche'],

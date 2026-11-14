@@ -524,7 +524,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "La temporada va de principios de diciembre a mediados de abril, pero los periodos son muy distintos. **Navidad y Fin de Año** tienen los precios más altos del año y las pistas más concurridas. **Enero después de Reyes** es el mejor momento por relación calidad-precio: buena nieve, poca gente, precios bajos. **Febrero** es el mes con la nieve más fiable pero coincide con las semanas blancas escolares. **Marzo** es el mejor mes para quien esquía bien: días largos, sol, nieve todavía buena en altura y precios a la baja. En abril solo se esquía en alta montaña y en los glaciares.",
     costi:
-      "El forfait es la partida principal y varía mucho. En el Dolomiti Superski el de un día en temporada alta ronda los 86 euros (unos 77 en temporada baja) y el de temporada unos 970: son cifras orientativas que hay que volver a comprobar cada año. Luego están el alquiler (25-45 € al día por un equipo completo), las clases y la comida en altura. **Las tarifas bajan bastante reservando forfait y alojamiento en paquete y fuera de los periodos punta.**",
+      "El forfait es la partida principal y varía mucho. En el Dolomiti Superski el de un día adulto 2026/27 cuesta 89 euros en temporada alta y 80 en temporada normal, el de temporada en preventa 990; en Cervinia 64, en la Vialattea desde 54, en Livigno desde 66. Luego están el alquiler (25-45 € al día por un equipo completo), las clases y la comida en altura. **Las tarifas bajan bastante reservando forfait y alojamiento en paquete y fuera de los periodos punta.** Económico: unos 150-180 € al día por persona con apartamento compartido, forfait y alquiler. Medio: 250-300 € con hotel en media pensión y comida en refugio. Alto: más de 450 € con hotel a pie de pista y monitor privado.",
     erroriDaEvitare: [
       "Reservar en Navidad o Fin de Año sin saber que son las dos semanas más caras del año, con diferencias de hasta el cuarenta por ciento respecto a enero",
       "Elegir el área por fama en lugar de por altitud: por debajo de los 1.800 metros, con los inviernos de los últimos años, la nieve natural ya no está garantizada y se esquía sobre nieve producida",
@@ -542,7 +542,7 @@ export const destinazioniItalia: Destinazione[] = [
           {
             nome: "Dolomiti Superski",
             sintesi: "El mayor consorcio de esquí del mundo por extensión servida con un único forfait: doce áreas, más de 1.200 km de pistas, del Sellaronda a la Marmolada y Cortina.",
-            costo: "un día ronda los 86 € en temporada alta, el de temporada unos 970 €",
+            costo: "un día ronda los 89 € en temporada alta, el de temporada unos 990 €",
             durata: "una semana no basta para verlo todo",
             pro: [
               "Una extensión sin comparación: se esquía durante días sin repetir nunca una pista",
@@ -735,8 +735,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Se sale desde cualquier pueblo alrededor del Sella (Selva, Canazei, Arabba, Corvara) con el forfait Dolomiti Superski. El sentido horario está señalizado con carteles naranjas y el antihorario con carteles verdes.",
         "quando": "En temporada, de diciembre a mediados de abril. Salir temprano y llegar al último remonte antes del cierre: quien llega tarde tiene que volver en taxi.",
         "tempo": "una jornada entera: 4-5 horas esquiando más pausas",
-        "costo": "Las tarifas del forfait Dolomiti Superski cambian cada temporada: consultarlas en la web oficial antes de salir",
+        "costo": "Forfait Dolomiti Superski 2026/27: un día adulto 89 € en temporada alta y 80 € en temporada normal; 6 días 453 € o 407 €",
+        "orari": "Temporada desde el 28 de noviembre de 2026; temporada alta del 20 de diciembre al 9 de enero y del 31 de enero al 20 de marzo de 2027. Los remontes funcionan de día, con horarios distintos según la instalación: se consultan en la app oficial",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5,
+        "lng": 11.8333,
         "consiglio": "Comprobar los horarios del último remonte de cada paso esa misma mañana y llevar algo de comer en el bolsillo."
       },
       {
@@ -745,7 +748,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Se duerme en Corvara, La Villa o San Cassiano y se sube con los remontes directamente desde el pueblo. Con el forfait Dolomiti Superski se llega también al Sellaronda.",
         "quando": "De diciembre a abril. Enero y marzo son los mejores meses por nieve y precios.",
         "tempo": "2-3 días para conocer la zona",
+        "costo": "Forfait Dolomiti Superski 2026/27: un día adulto 89 € en temporada alta y 80 € en temporada normal; 6 días 453 € o 407 €",
+        "orari": "Temporada desde el 28 de noviembre de 2026; temporada alta del 20 de diciembre al 9 de enero y del 31 de enero al 20 de marzo de 2027. Los remontes funcionan de día, con horarios distintos según la instalación: se consultan en la app oficial",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5496,
+        "lng": 11.874,
         "consiglio": "Comer en un refugio de altura y reservar en temporada alta: los mejores se quedan sin mesas pronto."
       },
       {
@@ -754,7 +761,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Se duerme en Cortina y se toma la telecabina o la lanzadera hasta el remonte de salida; los skibus de valle unen las tres áreas.",
         "quando": "De diciembre a abril. En las semanas posteriores a la Epifanía y a finales de febrero bajan los precios.",
         "tempo": "3-4 días",
+        "costo": "Forfait Dolomiti Superski 2026/27: un día adulto 89 € en temporada alta y 80 € en temporada normal; 6 días 453 € o 407 €",
+        "orari": "Temporada desde el 28 de noviembre de 2026; temporada alta del 20 de diciembre al 9 de enero y del 31 de enero al 20 de marzo de 2027. Los remontes funcionan de día, con horarios distintos según la instalación: se consultan en la app oficial",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5333,
+        "lng": 12.1333,
         "consiglio": "Tras los Juegos de 2026 se han cambiado algunos remontes y pistas: consultar el mapa actualizado antes de organizar las jornadas."
       },
       {
@@ -763,7 +774,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Aosta se va a Breuil-Cervinia en coche o en autobús. Los remontes salen del pueblo. Para Zermatt hace falta el forfait ampliado.",
         "quando": "De noviembre a mayo para tener nieve en altura; la conexión con Zermatt depende del tiempo y del viento.",
         "tempo": "3-5 días; el recorrido Cervinia-Zermatt ocupa una jornada entera",
+        "costo": "Forfait Cervinia 2026/27 en la vertiente italiana: 64 € al día con tarifa única, 338 € por 6 días. Con Zermatt (Cervino Ski Paradise) 88 € al día",
+        "orari": "Temporada en la vertiente italiana del 24 de octubre de 2026 al 2 de mayo de 2027; la conexión con Zermatt depende del viento y del tiempo",
         "url": "https://www.cervinia.it/",
+        "lat": 45.9344,
+        "lng": 7.6311,
         "consiglio": "Comprobar el último remonte para volver desde Suiza: si se pierde el último viaje, se regresa en taxi o tren con un coste alto."
       },
       {
@@ -772,7 +787,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A Courmayeur se llega en coche o autobús desde Aosta. El Skyway sale de Pontal d'Entrèves, a pocos minutos del centro.",
         "quando": "Diciembre-abril. Para subir con el Skyway elegir días despejados: con nubes no hay panorama.",
         "tempo": "2-3 días; el Skyway requiere media jornada",
+        "costo": "Forfait de un día adulto unos 75 € (2026/27); Skyway ida y vuelta hasta Punta Helbronner unos 55 € por persona",
         "url": "https://www.montebianco.com/",
+        "lat": 45.8159,
+        "lng": 6.9561,
         "consiglio": "Quien quiera la Vallée Blanche debe reservar un guía de montaña con antelación y comprobar las condiciones de las grietas."
       },
       {
@@ -781,7 +799,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Turín en coche por el valle de Susa. Hasta Oulx también hay tren, y luego autobús a Sauze o Sestriere.",
         "quando": "De diciembre a abril. Altitudes más bajas que Cervinia: la nieve es menos segura a principio y final de temporada.",
         "tempo": "3-5 días",
+        "costo": "Forfait Vialattea 2026/27: un día 54 €, 62 € en temporada altísima (24 de diciembre-6 de enero) en taquilla; 6 días de 273,50 € a 325,50 €",
         "url": "https://www.vialattea.it/",
+        "lat": 44.9582,
+        "lng": 6.8788,
         "consiglio": "Para quien llega desde Turín es la opción más cómoda para un fin de semana: se puede hacer sin pasar dos noches largas en la carretera."
       },
       {
@@ -790,7 +811,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Milán en coche, pasando por Bormio y el Paso de Eira, o desde Suiza por el túnel Munt la Schera. Comprobar el estado de las carreteras en invierno.",
         "quando": "De finales de noviembre a abril.",
         "tempo": "3-5 días",
+        "costo": "Forfait 2026/27: un día 66 €, 74,50 € en temporada alta, 51,50 € en los periodos promocionales; 6 días de 331 € a 374,50 €",
+        "orari": "Tarifa promocional del 28 de noviembre al 18 de diciembre de 2026 y del 10 de abril al 2 de mayo de 2027; temporada alta del 26 de diciembre al 8 de enero y del 31 de enero al 29 de marzo de 2027",
         "url": "https://www.livigno.eu/",
+        "lat": 46.5382,
+        "lng": 10.136,
         "consiglio": "A la salida hay controles aduaneros con límites de cantidad de alcohol, tabaco y combustible: informarse antes de comprar."
       },
       {
@@ -799,8 +824,79 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Malga Ciapela, en el Alto Agordino, un teleférico en tres tramos sube hasta Punta Rocca. Desde allí se baja siguiendo la pista. Los remontes forman parte de Dolomiti Superski.",
         "quando": "De diciembre a abril, con nieve a menudo buena en primavera. Los remontes dependen del tiempo.",
         "tempo": "media jornada para el descenso",
+        "costo": "Forfait Dolomiti Superski 2026/27: un día adulto 89 € en temporada alta y 80 € en temporada normal; 6 días 453 € o 407 €",
+        "orari": "Temporada desde el 28 de noviembre de 2026; temporada alta del 20 de diciembre al 9 de enero y del 31 de enero al 20 de marzo de 2027. Los remontes funcionan de día, con horarios distintos según la instalación: se consultan en la app oficial",
         "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.4275,
+        "lng": 11.9131,
         "consiglio": "El descenso es largo: comprobar condiciones y horario del último viaje y llevar algo de líquido."
+      },
+      {
+        "nome": "Madonna di Campiglio",
+        "testo": "La estación más conocida del Trentino, bajo las Dolomitas de Brenta, conectada con esquís con Pinzolo y Folgarida-Marilleva. El Canalone Miramonti es la pista nocturna de la 3Tre, el eslalon de la Copa del Mundo. El pueblo es elegante y caro, con tiendas y vida nocturna.",
+        "come": "En coche desde Trento en una hora y media aproximadamente, o en autobús interurbano desde Trento. Los remontes salen del pueblo.",
+        "quando": "De diciembre a abril; enero después de Reyes y marzo son más baratos.",
+        "tempo": "3-5 días",
+        "costo": "Forfait Skiarea Campiglio 2026/27: un día 75 € en temporada normal, 87 € en temporada alta, 89 € en la altísima; 6 días de unos 376 € a 445 €",
+        "orari": "Temporada altísima 5-8 de diciembre de 2026, 28 de diciembre-6 de enero y 7-20 de febrero de 2027; en domingo los forfaits de 3 a 6 días cuestan 10 € más",
+        "lat": 46.2319,
+        "lng": 10.8261,
+        "consiglio": "Para gastar menos se duerme en Pinzolo, en el fondo del valle, y se sube con la telecabina al dominio."
+      },
+      {
+        "nome": "Val Gardena y Seceda",
+        "testo": "Selva, Santa Cristina y Ortisei están en el Sellaronda y tienen pistas para todos los niveles. La Saslong es el descenso de la Copa del Mundo; desde la Seceda, sobre Ortisei, se ven las Odle de cerca.",
+        "come": "Tren hasta Bolzano y autobús 350 hasta el valle, o en coche por la A22 (salida Chiusa). El esquibús del valle une los tres pueblos.",
+        "quando": "De diciembre a abril. El teleférico de la Seceda conviene cogerlo con el cielo despejado.",
+        "tempo": "2-4 días",
+        "costo": "Forfait Dolomiti Superski 2026/27: un día adulto 89 € en temporada alta y 80 € en temporada normal; 6 días 453 € o 407 €",
+        "orari": "Temporada desde el 28 de noviembre de 2026; temporada alta del 20 de diciembre al 9 de enero y del 31 de enero al 20 de marzo de 2027. Los remontes funcionan de día, con horarios distintos según la instalación: se consultan en la app oficial",
+        "url": "https://www.dolomitisuperski.com/",
+        "lat": 46.5558,
+        "lng": 11.7606
+      },
+      {
+        "nome": "Monterosa Ski (Champoluc, Gressoney, Alagna)",
+        "testo": "Tres valles bajo el Monte Rosa conectados con esquís. Champoluc y Gressoney tienen pistas anchas y pueblos walser; Alagna es uno de los destinos de freeride más conocidos de Europa.",
+        "come": "Champoluc y Gressoney desde la autopista A5 (salidas Verrès y Pont-Saint-Martin); Alagna desde Valsesia. Los autobuses de valle salen de las estaciones de Verrès y Pont-Saint-Martin.",
+        "quando": "De diciembre a abril. El fuera de pista solo con guía y después de leer el boletín de aludes.",
+        "tempo": "3-5 días",
+        "costo": "Precio dinámico: el forfait de un día cambia según la fecha y la antelación de la compra en línea",
+        "url": "https://www.monterosaski.eu/",
+        "lat": 45.8333,
+        "lng": 7.7333
+      },
+      {
+        "nome": "Bormio",
+        "testo": "Pueblo histórico de la Alta Valtellina con la pista Stelvio, uno de los descensos más duros del circuito de la Copa del Mundo y sede de las pruebas masculinas de esquí alpino en los Juegos de 2026. Después del esquí están las termas.",
+        "come": "Tren de Milán a Tirano y autobús a Bormio, o en coche por la carretera SS38. La telecabina sale del pueblo.",
+        "quando": "De diciembre a abril.",
+        "tempo": "3-5 días",
+        "costo": "Forfaits de varios días a precio dinámico, con descuentos de hasta el 25% comprando en línea con antelación",
+        "lat": 46.4667,
+        "lng": 10.3667,
+        "consiglio": "Livigno está a una hora aproximadamente: se pueden alternar las dos estaciones en la misma semana."
+      },
+      {
+        "nome": "Plan de Corones",
+        "testo": "Una montaña de cima redonda y ancha sobre Brunico, con pistas que bajan por todas las vertientes. En la cumbre está Lumen, el museo de la fotografía de montaña. Forma parte del Dolomiti Superski.",
+        "come": "Tren de la Val Pusteria hasta Brunico o Perca, donde la estación está junto a la telecabina. En coche desde la A22, salida Bressanone.",
+        "quando": "De diciembre a abril.",
+        "tempo": "2-3 días",
+        "costo": "Forfait Dolomiti Superski 2026/27: un día adulto 89 € en temporada alta y 80 € en temporada normal; 6 días 453 € o 407 €",
+        "orari": "Temporada desde el 28 de noviembre de 2026; temporada alta del 20 de diciembre al 9 de enero y del 31 de enero al 20 de marzo de 2027. Los remontes funcionan de día, con horarios distintos según la instalación: se consultan en la app oficial",
+        "url": "https://www.kronplatz.com/",
+        "lat": 46.7381,
+        "lng": 11.96
+      },
+      {
+        "nome": "Roccaraso y el Alto Sangro",
+        "testo": "El dominio más grande de los Apeninos, en los Abruzos, entre Roccaraso, Rivisondoli y Pescocostanzo. Es la nieve de quien vive en Roma y Nápoles: precios mucho más bajos que en los Alpes, pero temporadas cada vez más inciertas.",
+        "come": "En coche desde Roma o Nápoles en unas dos horas y media. Los remontes del Aremogna están a pocos kilómetros del pueblo.",
+        "quando": "Enero y febrero, entre semana: los fines de semana está muy concurrido. Consultar el parte de nieve antes de salir.",
+        "tempo": "un fin de semana",
+        "lat": 41.8466,
+        "lng": 14.0785
       }
     ],
     programmi: [
@@ -888,6 +984,58 @@ export const destinazioniItalia: Destinazione[] = [
       "En Navidad, Fin de Año y en las semanas de febrero los precios suben mucho y las pistas están muy llenas. Reservar con tiempo o elegir enero después de la Epifanía o marzo.",
       "En las estaciones más bajas la nieve natural no está garantizada: consultar webcams y parte de nieve antes de reservar.",
       "En Cervinia el viento y la niebla cierran con frecuencia los remontes altos: tener un plan B a menor altura. En Livigno hay controles aduaneros a la salida."
+    ],
+    gite: [
+      {
+        "nome": "Bolzano y el Museo de Ötzi",
+        "distanza": "unos 40 km desde la Val Gardena",
+        "come": "Autobús 350 desde Ortisei o en coche",
+        "testo": "Un día de descanso para las piernas: el Museo Arqueológico del Alto Adigio con la momia del Similaun, los soportales y, en diciembre, el mercadillo de Navidad."
+      },
+      {
+        "nome": "Lago de Braies en invierno",
+        "distanza": "unos 35 km desde Cortina",
+        "come": "En coche por Dobbiaco",
+        "testo": "El lago helado bajo la Croda del Becco, con la vuelta a pie por la orilla. Con nieve fresca las raquetas facilitan el paseo."
+      },
+      {
+        "nome": "Termas de Bormio",
+        "distanza": "unos 40 km desde Livigno",
+        "come": "En coche o autobús de línea",
+        "testo": "Piscinas al aire libre con agua caliente natural y vistas a las montañas nevadas: la forma más cómoda de recuperarse a mitad de semana."
+      },
+      {
+        "nome": "Aosta romana",
+        "distanza": "unos 35 km desde Courmayeur, 50 desde Cervinia",
+        "come": "Autobús o coche por el valle",
+        "testo": "El teatro romano, el Arco de Augusto y la colegiata de Sant'Orso en media jornada, útil cuando el viento cierra los remontes altos."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuánto cuesta el forfait en las Dolomitas en 2026/27?",
+        "risposta": "El forfait de un día Dolomiti Superski para adulto cuesta 89 € en temporada alta y 80 € en temporada normal; el de 6 días 453 € o 407 €. Comprarlo junto con el alojamiento, en paquete, reduce el gasto."
+      },
+      {
+        "domanda": "¿Cuál es la mejor época para una semana de esquí?",
+        "risposta": "Enero después de Reyes: nieve normalmente buena, pistas vacías y precios hasta un 40% más bajos que en Navidad. Marzo es excelente en altura para quien busca sol y días largos."
+      },
+      {
+        "domanda": "¿Dónde es más segura la nieve en Italia?",
+        "risposta": "En los dominios que empiezan por encima de 1.800-2.000 metros: Cervinia, que llega a unos 3.480 metros, Livigno y las zonas altas de las Dolomitas. Por debajo de esa cota se esquía a menudo sobre nieve artificial."
+      },
+      {
+        "domanda": "¿Hace falta un seguro para esquiar en Italia?",
+        "risposta": "Sí: desde 2022 el seguro de responsabilidad civil es obligatorio para esquiar en pista. Además el rescate en montaña se paga, y un helicóptero puede costar miles de euros: conviene comprobar qué cubre la póliza asociada al forfait."
+      },
+      {
+        "domanda": "¿El Sellaronda es apto para un esquiador medio?",
+        "risposta": "Sí, las pistas son casi todas azules y rojas. Cansa la longitud: se sale a las nueve, en sentido antihorario (carteles verdes) para encontrar menos cola, y se controlan el viento y el horario de los últimos remontes."
+      },
+      {
+        "domanda": "¿Se puede llegar a las pistas sin coche?",
+        "risposta": "Sí. Para la Val Gardena, tren hasta Bolzano y autobús 350; para la Val di Fassa está el FlySki Shuttle desde los aeropuertos de Verona, Venecia, Treviso, Bérgamo y Milán los fines de semana del 19 de diciembre de 2026 al 29 de marzo de 2027, unos 50 € por trayecto."
+      }
     ],
     esperienzeSlugs: ['sellaronda', 'scialpinismo-ciaspole'],
     tripSlugs: ['settimana-bianca'],
@@ -3572,13 +3720,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Cada archipiélago tiene su identidad: alcaparras, malvasía y pescado azul en las Eolias; alcaparras, passito y el pesto pantesco en Pantelaria; conejo a la ischitana en Ischia, un plato de tierra en una isla; el pescado y el atún en todas sus conservas en Favignana. La regla general es que en las islas menores **el pescado cuesta caro y la cocina de tierra cuesta poco y a menudo es mejor**.",
     comeArrivare:
-      "Ferries y aliscafi desde los puertos continentales, con **frecuencias que se desploman en temporada baja** y trayectos que se cancelan con el mar movido: es la variable que lo condiciona todo. Pantelaria y Lampedusa tienen aeropuertos; Elba también, pero con pocas conexiones.",
+      "Ferries y aliscafi desde los puertos continentales, con **frecuencias que se desploman en temporada baja** y trayectos que se cancelan con el mar movido: es la variable que lo condiciona todo. Pantelaria y Lampedusa tienen aeropuertos; Elba también, pero con pocas conexiones. Para las Eolias se vuela a Catania y se sigue en autobús hasta Milazzo; para las Egadas se llega a Trapani; para Capri, Ischia y Prócida a Nápoles; para Ponza a Anzio, Formia o Terracina.",
     comeSpostarsi:
       "A pie, en scooter, en barca. **Varias islas limitan o prohíben el desembarco de coches en verano** y en algunas (Panarea, Alicudi, Filicudi) casi no hay coches. Llevarse el vehículo es casi siempre inútil y a menudo imposible.",
     periodoMigliore:
       "junio y septiembre son la ventana ideal: mar cálido, conexiones completas, precios todavía no fuera de escala. **Julio y agosto hay que evitarlos** en cualquier isla menor: la oferta está saturada, los precios se multiplican y sitios ya pequeños se llenan. De noviembre a marzo muchas islas cierran casi del todo, con ferries reducidos y locales cerrados.",
     costi:
-      "Los ferries pesan más de lo que se piensa, y con el coche detrás se duplican. En temporada alta los alojamientos en las islas más conocidas (Capri, Panarea, Ponza) alcanzan cifras de capital europea.",
+      "Los ferries pesan más de lo que se piensa, y con el coche detrás se duplican. En temporada alta los alojamientos en las islas más conocidas (Capri, Panarea, Ponza) alcanzan cifras de capital europea. Económico: unos 70-90 € al día por persona con B&B sencillo en doble, comidas en trattoria y ferris. Medio: 130-180 € con hotel, vuelta en barco y cenas de pescado. Alto: más de 300 € con hotel con encanto en Capri, Panarea o Ponza en temporada alta.",
     erroriDaEvitare: [
       "Programar conexiones ajustadas con los ferries: **con el mar movido los trayectos se cancelan**, y quedarse bloqueado un día más es la norma",
       "Elegir la isla por fama en lugar de por carácter: Capri y Panarea en agosto son mundanas y abarrotadísimas, y quien buscaba paz se ha equivocado de dirección",
@@ -3695,6 +3843,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hidroala desde Milazzo o desde Lipari y las demás Eolias. En la isla se camina y se usan taxis-ape. Por encima de la cota libre hacen falta guías vulcanológicos autorizados.",
         "quando": "La subida está regulada por ordenanzas que cambian con la actividad del volcán: la cota máxima, el acceso a la cima y la obligación de guía se consultan en el Ayuntamiento de Lipari o con los guías autorizados antes de reservar. Junio y septiembre, con mar en calma, para las salidas en barco.",
         "tempo": "1 jornada completa, mejor una noche",
+        "costo": "Excursiones con guía autorizado desde unos 30 € por persona; la salida en barco bajo la Sciara se paga aparte",
+        "orari": "Con la ordenanza de 2025 se sube solo hasta 290 metros y con guía hasta 400: la cota cambia con la actividad del volcán, hay que comprobar la vigente",
+        "lat": 38.7939,
+        "lng": 15.2111,
         "consiglio": "Por la noche se cena en Stromboli y se sale en barco a oscuras: no hace falta la cima para ver las explosiones. Linterna frontal, botas de trekking y un jersey incluso en septiembre."
       },
       {
@@ -3703,6 +3855,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo desde Milazzo o Lipari; en temporada alta desembarcos en Santa Marina y Rinella. En la isla hay pocos autobuses y conviene la moto.",
         "quando": "Junio y septiembre. En verano el atardecer en Pollara está lleno; mejor a primera hora de la mañana.",
         "tempo": "1-2 días",
+        "lat": 38.559,
+        "lng": 14.8359,
         "consiglio": "Probar el atardecer en Pollara y la malvasía passito en una bodega. En agosto los enlaces van llenos."
       },
       {
@@ -3711,6 +3865,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hace falta coche o moto desde Pantelleria pueblo. Se llega en avión desde Trapani, Palermo y Catania, o por mar desde Trapani en ferry o hidroala; con mar agitado se cancelan los viajes.",
         "quando": "Primavera y otoño para caminar, junio y septiembre para el baño. La isla es muy ventosa. El baño de barro y el chapuzón en el lago son más agradables por la mañana.",
         "tempo": "2-3 horas",
+        "costo": "Entrada libre",
+        "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.8158,
+        "lng": 11.9862,
         "consiglio": "Si se hace el baño de barro, quitarse las joyas y ducharse en el lago antes de volver. Llevar escarpines: no hay playas de arena."
       },
       {
@@ -3719,6 +3877,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Carreteras interiores para recorrer en coche o moto. Los senderos parten de la carretera a Montagna Grande.",
         "quando": "Primavera y otoño. El verano es tórrido de día y los días de siroco dificultan los senderos.",
         "tempo": "media jornada",
+        "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.7807,
+        "lng": 12.005,
         "consiglio": "Las bodegas locales hacen catas de passito: reservar. La viña en vaso se ve sobre todo en el sur."
       },
       {
@@ -3727,6 +3888,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hidroala o ferry desde Nápoles y Sorrento. En la isla se va en autobús y funicular, y luego a pie.",
         "quando": "Mayo, junio y septiembre; fuera de temporada Capri es otra isla. La Gruta Azul se visita con mar en calma, a primera hora.",
         "tempo": "1 día, mejor 2 con una noche",
+        "costo": "Hidrodeslizador desde Nápoles más de 25 € por trayecto. Gruta Azul unos 18-19 € entre barca de remos y entrada, más el traslado en barco desde Marina Grande",
+        "lat": 40.5419,
+        "lng": 14.2531,
         "consiglio": "Para escapar de la multitud, dar la vuelta a la isla en barco temprano y subir luego a Anacapri. Por la tarde los Faraglioni lucen más a contraluz."
       },
       {
@@ -3735,6 +3899,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ferry o hidroala desde Nápoles (Molo Beverello y Calata Porta di Massa) o Pozzuoli. En la isla se camina y circulan microbuses.",
         "quando": "Todo el año, pero de mayo a septiembre. En julio y agosto los barcos de un día traen mucha gente.",
         "tempo": "1 día",
+        "lat": 40.7583,
+        "lng": 14.0167,
         "consiglio": "Bajar a Corricella por la escalinata y comer en uno de los locales del muelle."
       },
       {
@@ -3743,6 +3909,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ferry o hidroala desde Anzio, Formia o Terracina. En la isla se camina o se coge el autobús; la vuelta en barco se reserva en el puerto.",
         "quando": "Junio y septiembre. En agosto Ponza se llena con el público romano.",
         "tempo": "1-2 días",
+        "lat": 40.9075,
+        "lng": 12.9525,
         "consiglio": "La vuelta en barco es la mejor forma: salir pronto y parar a bañarse en Palmarola. Chiaia di Luna suele estar prohibida por riesgo de desprendimientos."
       },
       {
@@ -3751,6 +3919,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Ferris e hidroalas desde Termoli, Vieste, Peschici, Rodi Garganico y Ortona; desde Termoli la travesía es la más corta.",
         "quando": "Junio y septiembre. En invierno los enlaces se reducen.",
         "tempo": "1-2 días",
+        "lat": 42.1167,
+        "lng": 15.5,
         "consiglio": "Hacer snorkel con un operador local: la zona está protegida y el acceso en barco está regulado."
       },
       {
@@ -3759,7 +3929,52 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hidroala desde Trapani o Marsala. En la isla se alquila una bici: las distancias son cortas.",
         "quando": "Mayo, junio y septiembre. A primera hora las calas están vacías.",
         "tempo": "1 día",
+        "costo": "Hidrodeslizador desde Trapani desde unos 12 € por trayecto, más en temporada alta",
+        "lat": 37.9253,
+        "lng": 12.3289,
         "consiglio": "Vuelta en bici por las canteras, luego cena de atún. Reservar la bici en temporada alta."
+      },
+      {
+        "nome": "Ischia y sus termas",
+        "testo": "La isla más grande del golfo de Nápoles, volcánica, con fuentes calientes usadas desde la Antigüedad y parques termales con piscinas al aire libre. El Castillo Aragonés está en un islote unido por un puente; en Forio están los Jardines La Mortella.",
+        "come": "Ferry o hidrodeslizador desde Nápoles o Pozzuoli. En la isla, autobuses de línea y taxis.",
+        "quando": "De abril a octubre, cuando los parques termales están abiertos.",
+        "tempo": "2-3 días",
+        "costo": "Parques termales con entrada de día, unos 50 € en los Giardini Poseidon en 2026; Jardines La Mortella unos 15 €",
+        "orari": "Jardines La Mortella de principios de abril a principios de noviembre, martes, jueves, sábado y domingo, 9-19",
+        "lat": 40.7312,
+        "lng": 13.8957,
+        "consiglio": "Bañador, chanclas y toalla para las termas; para Sorgeto, la bahía con agua caliente en el mar, hay más de doscientos escalones."
+      },
+      {
+        "nome": "Isla de Elba",
+        "testo": "La más grande del Archipiélago Toscano, con playas de arena y de cantos, el Monte Capanne y las minas de hierro. En Portoferraio está la Villa dei Mulini, donde vivió Napoleón durante el exilio.",
+        "come": "Ferry desde Piombino, una hora de travesía aproximadamente, con coche si hace falta: la isla es grande.",
+        "quando": "Junio y septiembre; en primavera para caminar.",
+        "tempo": "3-5 días",
+        "url": "https://www.visitelba.info/",
+        "lat": 42.7782,
+        "lng": 10.1927
+      },
+      {
+        "nome": "Ustica",
+        "testo": "Isla volcánica al norte de Palermo, sede de la primera área marina protegida creada en Italia. Sus fondos, con cuevas y paredes, están entre los más conocidos del Mediterráneo para el buceo y el snorkel.",
+        "come": "Hidrodeslizador o ferry desde Palermo. En la isla se camina o se alquila una moto.",
+        "quando": "De junio a septiembre para el mar; con mar agitado se cancelan los trayectos.",
+        "tempo": "2-3 días",
+        "lat": 38.7053,
+        "lng": 13.1761
+      },
+      {
+        "nome": "Lampedusa y la Isla de los Conejos",
+        "testo": "La isla más al sur de Italia, ya sobre la placa africana. La playa frente a la Isla de los Conejos es reserva natural y lugar de anidación de la tortuga boba, con un agua turquesa que se ve desde arriba.",
+        "come": "Vuelo desde Palermo o Catania, o barco desde Porto Empedocle. Desde el pueblo en moto hasta el aparcamiento, luego 15-20 minutos a pie por un camino de tierra.",
+        "quando": "Junio y septiembre; de noviembre a marzo la isla se detiene.",
+        "tempo": "media jornada",
+        "costo": "Acceso gratuito, con reserva obligatoria en verano y aforo limitado",
+        "lat": 35.51,
+        "lng": 12.5584,
+        "consiglio": "En la playa no hay bares: agua y sombrilla se llevan de casa."
       }
     ],
     programmi: [
@@ -3776,6 +3991,16 @@ export const destinazioniItalia: Destinazione[] = [
         "tappe": [
           "Días 1-2: Capri y Procida desde el golfo de Nápoles",
           "Días 3-4: Ponza y Palmarola con vuelta en barco"
+        ]
+      },
+      {
+        "titolo": "7 días: Egadas y Pantelaria",
+        "tappe": [
+          "Días 1-2: hidrodeslizador de Trapani a Favignana, calas en bicicleta y canteras de toba",
+          "Día 3: Levanzo y la Grotta del Genovese, con reserva",
+          "Día 4: regreso a Trapani y vuelo o ferry a Pantelaria",
+          "Días 5-6: Specchio di Venere, Montagna Grande y una bodega de passito",
+          "Día 7: vuelta a la isla en barco y regreso, con margen por el viento"
         ]
       }
     ],
@@ -3794,6 +4019,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Golfo de Nápoles: Procida",
         "perChi": "quien tiene pocos días",
         "testo": "Procida cuesta menos que Capri e Ischia, con vida de pueblo y conexiones frecuentes desde Nápoles."
+      },
+      {
+        "nome": "Favignana",
+        "perChi": "quien tiene pocos días y sale de Trapani",
+        "testo": "La oferta más amplia y los precios más asequibles entre las islas sicilianas, a media hora de hidrodeslizador desde Trapani. Todo se recorre en bicicleta."
       }
     ],
     sapori: [
@@ -3829,6 +4059,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Muchas islas limitan o prohíben el desembarco de coches en verano: llevar el coche es casi siempre inútil y caro.",
       "El agua dulce escasea y llega con barcos cisterna: usarla con moderación.",
       "Fuera de temporada (noviembre-marzo) muchos negocios están cerrados y los enlaces reducidos: comprobar qué está abierto antes de salir."
+    ],
+    gite: [
+      {
+        "nome": "Prócida desde Nápoles",
+        "distanza": "unos 40 minutos de hidrodeslizador",
+        "come": "Hidrodeslizador o ferry desde Molo Beverello, Calata Porta di Massa o Pozzuoli",
+        "testo": "La más pequeña de las islas del golfo se recorre a pie en un día: Corricella, Terra Murata y una playa por la tarde."
+      },
+      {
+        "nome": "Favignana desde Trapani",
+        "distanza": "unos 30 minutos de hidrodeslizador",
+        "come": "Hidrodeslizador desde el puerto de Trapani, bicicleta de alquiler a la llegada",
+        "testo": "Cala Rossa, Cala Azzurra y las canteras de toba en un día, con el último hidrodeslizador de la tarde para volver."
+      },
+      {
+        "nome": "Vulcano desde Milazzo",
+        "distanza": "una hora de hidrodeslizador aproximadamente",
+        "come": "Hidrodeslizador desde el puerto de Milazzo",
+        "testo": "La subida al Gran Cratere, una hora a pie aproximadamente, con vistas a todas las Eolias, y luego un baño en Porto di Levante."
+      },
+      {
+        "nome": "Ponza desde Roma",
+        "distanza": "unos 70 km hasta Anzio, luego hora y media de hidrodeslizador",
+        "come": "Tren Roma-Anzio e hidrodeslizador, en verano",
+        "testo": "Se hace en el día con la vuelta a la isla en barco, pero una noche permite ver también Palmarola."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuál es el mejor mes para las islas menores?",
+        "risposta": "Junio y septiembre: mar caliente, conexiones completas y precios aún no de agosto. En julio y agosto alojamiento y ferris se reservan con meses de antelación."
+      },
+      {
+        "domanda": "¿Hace falta coche en las islas?",
+        "risposta": "Casi nunca: varias islas limitan el desembarco de coches en verano y se recorren a pie, en bici o en moto. Las excepciones son Pantelaria y Elba, que son grandes."
+      },
+      {
+        "domanda": "¿Cómo se llega a las Eolias?",
+        "risposta": "En avión a Catania, luego autobús directo al puerto de Milazzo (unas 2 horas, unos 13 €) e hidrodeslizador a las islas. En verano también hay hidrodeslizadores desde Nápoles y Palermo."
+      },
+      {
+        "domanda": "¿Se puede subir al Stromboli?",
+        "risposta": "Sí, dentro de la cota fijada por la ordenanza del Ayuntamiento de Lipari: con las normas de 2025, solo hasta 290 metros y con guía autorizado hasta 400. Las explosiones se ven bien también desde el mar, de noche."
+      },
+      {
+        "domanda": "¿Capri se puede hacer en un día?",
+        "risposta": "Sí, pero en temporada alta se comparte con miles de visitantes de un día. Conviene llegar con el primer hidrodeslizador, hacer enseguida la vuelta en barco y, si es posible, dormir una noche."
+      },
+      {
+        "domanda": "¿Qué pasa si el mar está agitado?",
+        "risposta": "Hidrodeslizadores y ferris pueden no salir, a veces durante días. Mejor no encajar un vuelo o un tren el mismo día del regreso de la isla."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['eolie-in-vela', 'isole-siciliane', 'costiera-e-isole'],
@@ -3868,13 +4150,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Es la mejor parte. En la Italia interior la cocina sigue ligada al territorio y a las estaciones, algo que en otros sitios se ha convertido en un eslogan: pasta hecha a mano con nombres distintos cada veinte kilómetros, carnes de cría local, quesos de pequeñas producciones, verduras silvestres. **Una comida completa con vino cuesta entre veinte y treinta euros**, y a menudo no hay carta escrita. La otra cara de la moneda: fuera de horario no se come, y el domingo por la noche y el lunes muchos sitios están cerrados.",
     comeArrivare:
-      "**Coche obligatorio, sin excepciones.** Los trenes regionales llegan a las capitales de provincia y ahí se detiene todo; los autobuses interurbanos tienen horarios pensados para los estudiantes, es decir dos por la mañana y dos por la tarde, y nada los fines de semana.",
+      "**Coche obligatorio, sin excepciones.** Los trenes regionales llegan a las capitales de provincia y ahí se detiene todo; los autobuses interurbanos tienen horarios pensados para los estudiantes, es decir dos por la mañana y dos por la tarde, y nada los fines de semana. Los aeropuertos útiles son Roma y Nápoles para Molise, Tuscia y Cilento, Bari para Basilicata, Lamezia y Reggio para Calabria, Venecia y Trieste para el Friul: allí conviene recoger el coche de alquiler.",
     comeSpostarsi:
       "Hace falta coche propio. Las carreteras interiores son estrechas, tortuosas y en ciertos tramos están en mal estado: los tiempos hay que aumentarlos un tercio respecto a las estimaciones de los mapas. El carburante en los pueblos pequeños puede no haber: se llena el depósito cuando se puede, no cuando hace falta.",
     periodoMigliore:
       "mayo-junio y septiembre-octubre. El verano en el interior del centro-sur es tórrido; el invierno en los Apeninos trae nieve y carreteras cortadas, con varios pueblos que entran en letargo. Las fiestas patronales se concentran entre junio y septiembre y es cuando los pueblos vuelven a llenarse, porque regresan los emigrados.",
     costi:
-      "Es la parte de Italia donde se gasta menos, con diferencia. Entradas casi en todas partes gratuitas o simbólicas, alojamientos y restaurantes a cifras que en la costa o en las ciudades ya no existen.",
+      "Es la parte de Italia donde se gasta menos, con diferencia. Entradas casi en todas partes gratuitas o simbólicas, alojamientos y restaurantes a cifras que en la costa o en las ciudades ya no existen. Económico: unos 50-70 € al día por persona con B&B o agroturismo en doble y trattoria. Medio: 90-130 € con albergo diffuso, coche de alquiler y cenas con vino. Alto: más de 180 € con los alojamientos con encanto de los pueblos restaurados.",
     erroriDaEvitare: [
       "Contar con el transporte público: aquí no sirve para nada",
       "Llegar a un pueblo a las tres de la tarde y buscar comida: en la Italia interior se come entre las doce y media y las dos, y luego se cierra",
@@ -3988,6 +4270,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Isernia o Campobasso. No hay transporte público útil. Se visita por libre, con paneles.",
         "quando": "Primavera y otoño. Comprobar horarios y días de apertura con el Ayuntamiento o la Soprintendenza antes de salir, sobre todo fuera de temporada.",
         "tempo": "1-2 horas, más la vuelta por los pueblos",
+        "lat": 41.75,
+        "lng": 14.3833,
         "consiglio": "Combinar la visita con una comida en una trattoria del pueblo, llegando pronto: pasada la hora de comer la cocina cierra."
       },
       {
@@ -3996,6 +4280,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Tren por la línea adriática o autopista A14. Al casco antiguo se llega a pie desde la estación.",
         "quando": "Mayo-junio y septiembre. En agosto se llena de veraneantes italianos.",
         "tempo": "media jornada",
+        "lat": 42.0028,
+        "lng": 14.9947,
         "consiglio": "Comer el brodetto alla termolese en uno de los locales del puerto y pasear por el paseo marítimo al atardecer."
       },
       {
@@ -4004,6 +4290,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Solo en coche. Desde Terranova di Pollino o San Severino Lucano. Orientarse con mapa o app de senderos; hace falta calzado de montaña.",
         "quando": "Junio-septiembre por la altitud, octubre por los colores. De noviembre a mayo nieve y carreteras cortadas.",
         "tempo": "1-2 días",
+        "lat": 39.9311,
+        "lng": 16.1261,
         "consiglio": "Llenar el depósito y llevar comida: en los pueblos de montaña las tiendas cierran pronto. El tiempo cambia rápido por encima de 1.800 metros."
       },
       {
@@ -4013,6 +4301,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "La floración se concentra entre finales de mayo y julio. En los fines de semana de floración el Piano se llena de coches.",
         "tempo": "1 jornada",
         "url": "https://www.sibillini.net/",
+        "lat": 42.8288,
+        "lng": 13.2077,
         "consiglio": "Visitar entre semana y a primera hora para la mejor luz, y no caminar entre los campos florecidos."
       },
       {
@@ -4021,6 +4311,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Udine hacia Tolmezzo. Los valles se recorren en coche y con caminatas cortas.",
         "quando": "Junio-septiembre para los senderos, invierno para la nieve. El Friuli es una de las zonas más lluviosas de Italia.",
         "tempo": "2-3 días",
+        "lat": 46.4654,
+        "lng": 12.7087,
         "consiglio": "Probar el jamón de Sauris y el queso de majada, y preguntar por los senderos en la oficina de turismo."
       },
       {
@@ -4030,6 +4322,8 @@ export const destinazioniItalia: Destinazione[] = [
         "quando": "Finales de primavera hasta otoño. Tras las lluvias los senderos pueden ser impracticables.",
         "tempo": "2-4 días de trekking",
         "url": "https://www.parcovalgrande.it/",
+        "lat": 46.0292,
+        "lng": 8.4594,
         "consiglio": "Pedir información al ente del parque antes de salir y comunicar el recorrido. Cada año hay rescates de quien subestima la zona."
       },
       {
@@ -4038,6 +4332,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Reggio Calabria. Las carreteras del interior son lentas y están en mal estado en algunos tramos.",
         "quando": "Primavera y otoño. El verano es tórrido en la costa.",
         "tempo": "2-3 días",
+        "lat": 37.9542,
+        "lng": 15.7611,
         "consiglio": "En el Museo Arqueológico de Reggio Calabria se ven los Bronces de Riace: hacerlo el día de llegada o de salida."
       },
       {
@@ -4046,7 +4342,37 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Tren hasta Bolonia para la salida, regreso en tren desde Florencia. El trazado está señalizado; albergues por reservar.",
         "quando": "Abril-junio y septiembre-octubre. En verano el calor y en invierno el barro.",
         "tempo": "4-5 días",
+        "url": "https://www.viadeglidei.it/",
         "consiglio": "Reservar las camas con antelación y llevar poco peso: las etapas son largas."
+      },
+      {
+        "nome": "Civita di Bagnoregio",
+        "testo": "El pueblo medieval sobre un espolón de toba que se desmorona, en la Tuscia, accesible solo por un largo puente peatonal. Dentro hay una plaza, la iglesia de San Donato y pocas casas habitadas.",
+        "come": "En coche hasta Bagnoregio, aparcamiento y luego a pie hasta el puente. Desde Orvieto hay autobuses de línea.",
+        "quando": "Primera hora de la mañana o última de la tarde, fuera de los fines de semana: en las horas centrales llegan los grupos.",
+        "tempo": "2 horas",
+        "costo": "Entrada unos 5 € por persona",
+        "url": "https://www.civitadibagnoregio.it/",
+        "lat": 42.6278,
+        "lng": 12.1139
+      },
+      {
+        "nome": "Cartuja de Padula y el Vallo di Diano",
+        "testo": "La Cartuja de San Lorenzo es uno de los complejos monásticos más grandes de Europa, con un claustro enorme y una escalera helicoidal de piedra. Está en el Vallo di Diano, en el Cilento interior, patrimonio de la UNESCO.",
+        "come": "En coche desde la autopista A2, salida Padula-Buonabitacolo.",
+        "quando": "Todo el año; en verano por la mañana, porque el Vallo es muy caluroso.",
+        "tempo": "2-3 horas",
+        "lat": 40.3372,
+        "lng": 15.6519
+      },
+      {
+        "nome": "Craco",
+        "testo": "Un pueblo de Basilicata abandonado tras un deslizamiento en los años sesenta, con la torre normanda en lo alto y las casas vacías a lo largo de la cresta. Ha sido escenario de muchas películas.",
+        "come": "En coche desde Matera en una hora aproximadamente. El casco antiguo solo se visita con visitas guiadas, con casco.",
+        "quando": "Primavera y otoño; en verano evitar las horas centrales.",
+        "tempo": "2 horas",
+        "lat": 40.3786,
+        "lng": 16.44
       }
     ],
     programmi: [
@@ -4114,6 +4440,54 @@ export const destinazioniItalia: Destinazione[] = [
       "En agosto los pueblos se llenan de emigrados que regresan: es el periodo más vivo, no el más tranquilo.",
       "Tras el terremoto de 2016 algunas carreteras y pueblos de los Sibillini tienen cortes: comprobar los avisos del ente del parque."
     ],
+    gite: [
+      {
+        "nome": "Craco desde Matera",
+        "distanza": "unos 55 km, una hora de carretera",
+        "come": "En coche",
+        "testo": "El pueblo fantasma lucano con visita guiada, combinable con los barrancos de Aliano en el mismo día."
+      },
+      {
+        "nome": "Las Tremiti desde Termoli",
+        "distanza": "una hora y media de barco aproximadamente",
+        "come": "Ferry o hidrodeslizador desde el puerto de Termoli",
+        "testo": "El único archipiélago del Adriático en un día: San Domino para el baño, San Nicola para la abadía fortificada."
+      },
+      {
+        "nome": "Civita y el lago de Bolsena desde Orvieto",
+        "distanza": "unos 20 km hasta Bagnoregio",
+        "come": "En coche, o autobús de línea desde Orvieto",
+        "testo": "Civita por la mañana, antes de los grupos, y la tarde a orillas del lago de Bolsena."
+      },
+      {
+        "nome": "Cartuja de Padula desde Salerno",
+        "distanza": "unos 100 km, una hora y cuarto",
+        "come": "En coche por la A2",
+        "testo": "El gran claustro de la cartuja y los pueblos del Vallo di Diano, con un desvío a Teggiano."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿De verdad hace falta coche?",
+        "risposta": "Sí. Los trenes regionales llegan a las capitales de provincia y los autobuses interurbanos tienen pocas frecuencias, pensadas para estudiantes y casi nulas los fines de semana. Sin coche se ve poco."
+      },
+      {
+        "domanda": "¿Cuándo conviene ir?",
+        "risposta": "Mayo-junio y septiembre-octubre. El verano en el interior del centro-sur es tórrido y en invierno algunas carreteras de los Apeninos cierran por nieve."
+      },
+      {
+        "domanda": "¿Cuánto se gasta en comer?",
+        "risposta": "En una trattoria de pueblo una comida completa con vino suele costar entre 20 y 30 euros. A menudo no hay carta escrita y se pregunta qué hay."
+      },
+      {
+        "domanda": "¿La Val Grande es apta para todos?",
+        "risposta": "No. Es una zona sin carreteras ni pueblos habitados, con senderos poco señalizados, vivacs básicos y sin cobertura: es para excursionistas expertos y autónomos."
+      },
+      {
+        "domanda": "¿Cuánto dura la Via degli Dei?",
+        "risposta": "Unos 130 km de Bolonia a Florencia, normalmente en 4-5 días de camino con noches en albergues y hospederías que se reservan con antelación."
+      }
+    ],
     esperienzeSlugs: ['cammini-italia'],
     tripSlugs: [],
     imageAlt: "Civita di Bagnoregio encaramada en su espolón de toba, accesible solo por el largo puente peatonal, en la Tuscia",
@@ -4158,7 +4532,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "**septiembre y octubre**, durante la vendimia: las bodegas están en plena actividad, los colores de las viñas cambian y las ferias están en el calendario. Abril-junio es la segunda ventana, con el verde y menos gente. De noviembre a marzo muchas bodegas pequeñas reducen las visitas, y en agosto varias cierran.",
     costi:
-      "Las catas en bodega cuestan normalmente entre 15 y 40 euros por persona según los vinos y la acogida, a menudo descontados de la compra. En las zonas más conocidas (Barolo, Montalcino) las visitas guiadas de las bodegas históricas cuestan más; en las zonas emergentes se paga mucho menos o nada.",
+      "Las catas en bodega cuestan normalmente entre 15 y 40 euros por persona según los vinos y la acogida, a menudo descontados de la compra. En las zonas más conocidas (Barolo, Montalcino) las visitas guiadas de las bodegas históricas cuestan más; en las zonas emergentes se paga mucho menos o nada. Económico: unos 80-110 € al día por persona con agroturismo en doble, una cata y osteria. Medio: 150-200 € con dos bodegas, comida y cena con vino. Alto: más de 350 € con wine resort, conductor y bodegas históricas.",
     erroriDaEvitare: [
       "**Presentarse en una bodega sin cita**: es el error número uno. Las bodegas son explotaciones agrícolas con horarios de trabajo, y casi todas reciben solo con reserva, a menudo con algunos días de antelación",
       "Programar más de dos o tres bodegas al día: después de la tercera ya no se prueba nada con atención, y la jornada se convierte en una colección de sellos",
@@ -4305,6 +4679,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Alba. Las bodegas reciben con reserva: escribir con unos días de antelación. Muchas carreteras son estrechas y en cuesta.",
         "quando": "Septiembre-octubre en vendimia, o abril-junio con el verde. En agosto muchas bodegas cierran.",
         "tempo": "1 jornada, 2 bodegas",
+        "costo": "WiMu, el museo del vino en el castillo Falletti, unos 12 €; catas en bodega unos 20-40 €",
+        "url": "https://www.wimubarolo.it/",
+        "lat": 44.6167,
+        "lng": 7.9333,
         "consiglio": "Reservar una sola bodega por la mañana y otra por la tarde. Después de la tercera ya no se prueba nada con atención."
       },
       {
@@ -4313,6 +4691,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Turín en tren con transbordo, aunque es más cómodo el coche. En la ciudad se va a pie.",
         "quando": "Octubre-noviembre para la trufa. Fuera de la feria Alba es más tranquila.",
         "tempo": "media jornada",
+        "url": "https://www.fieradeltartufo.org/",
+        "lat": 44.7,
+        "lng": 8.0333,
         "consiglio": "En la feria los precios de la trufa son altos: preguntar el peso y el precio antes de pedir, y preferir restaurantes con trufa de temporada."
       },
       {
@@ -4321,6 +4702,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche o taxi desde Verona. Las bodegas reciben con cita.",
         "quando": "Septiembre-octubre para la vendimia, enero-febrero para el prensado de las uvas pasificadas.",
         "tempo": "1 jornada",
+        "costo": "Catas en bodega unos 20-40 € por persona, a menudo descontadas de la compra",
+        "url": "https://www.consorziovalpolicella.it/",
+        "lat": 45.5167,
+        "lng": 10.8833,
         "consiglio": "Si quien conduce no bebe, el taxi desde Verona a las bodegas es una solución sencilla."
       },
       {
@@ -4329,6 +4714,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Treviso o en tren hasta Conegliano. En bici se hace una vuelta entre las viñas.",
         "quando": "Primavera y otoño. No en agosto: hace calor y muchas bodegas están cerradas.",
         "tempo": "1 jornada",
+        "costo": "Catas en bodega unos 20-40 € por persona, a menudo descontadas de la compra",
+        "url": "https://www.prosecco.wine/",
+        "lat": 45.9163,
+        "lng": 12.0142,
         "consiglio": "Las osterias de Valdobbiadene sirven el Prosecco espumoso con embutidos: almorzar allí tras la visita a la bodega."
       },
       {
@@ -4337,6 +4726,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Florencia o Siena. La carretera Chiantigiana atraviesa los pueblos.",
         "quando": "Abril-junio y septiembre-octubre. En verano hay muchas excursiones en autocar.",
         "tempo": "1-2 jornadas",
+        "costo": "Catas unos 20-40 €, más en las fincas históricas; el chuletón se paga al peso",
+        "url": "https://www.chianticlassico.com/",
+        "lat": 43.5833,
+        "lng": 11.3167,
         "consiglio": "Dormir en agroturismo y visitar bodegas pequeñas: a menudo recibe el propio productor."
       },
       {
@@ -4345,6 +4738,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Siena. Montalcino se recorre a pie, las bodegas están repartidas alrededor.",
         "quando": "Primavera y otoño. Reservar las bodegas con antelación.",
         "tempo": "1 jornada",
+        "costo": "Catas en bodega unos 20-40 € por persona, a menudo descontadas de la compra",
+        "url": "https://www.consorziobrunellodimontalcino.it/",
+        "lat": 43.0592,
+        "lng": 11.4892,
         "consiglio": "Visitar la Abadía de Sant'Antimo temprano, cuando hay silencio y la luz entra de lado en las naves."
       },
       {
@@ -4353,6 +4750,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Catania, por carreteras sinuosas y lentas. Base en Linguaglossa, Castiglione di Sicilia o Randazzo.",
         "quando": "Septiembre-octubre para la vendimia, pero el Etna es bonito también en primavera.",
         "tempo": "1-2 jornadas",
+        "costo": "Catas en bodega unos 20-40 € por persona, a menudo descontadas de la compra",
+        "lat": 37.8828,
+        "lng": 15.1225,
         "consiglio": "Pedir ver las viñas viejas: se entiende por qué el suelo lávico salvó las vides del parásito."
       },
       {
@@ -4361,6 +4761,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Gorizia o Cormons, que están cerca. Las bodegas son pequeñas y familiares.",
         "quando": "Primavera y otoño. En verano hay más sol.",
         "tempo": "1-2 jornadas",
+        "costo": "Catas en bodega unos 20-40 € por persona, a menudo descontadas de la compra",
+        "url": "https://www.collio.it/",
+        "lat": 45.95,
+        "lng": 13.4667,
         "consiglio": "Cruzar la frontera eslovena para almorzar en una gostilna: a poca distancia cambia la cocina."
       },
       {
@@ -4369,6 +4773,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Solo en coche desde Avellino o Potenza. Pocas bodegas tienen instalaciones para visitantes.",
         "quando": "Septiembre-octubre. Verano muy caluroso.",
         "tempo": "2 jornadas, una por zona",
+        "lat": 41.0,
+        "lng": 14.95,
         "consiglio": "Aquí uno se encuentra a menudo en la bodega donde el propietario está trasegando: es el momento de hacer preguntas."
       },
       {
@@ -4377,7 +4783,41 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Tren de Milán a Tirano o Sondrio. Para moverse entre bodegas hace falta coche.",
         "quando": "Septiembre-octubre. En verano el fondo del valle es caluroso y tiene tráfico.",
         "tempo": "1-2 jornadas",
+        "lat": 46.1697,
+        "lng": 9.87,
         "consiglio": "Caminar un tramo de la Via dei Terrazzamenti, el sendero entre los muros, antes o después de las catas."
+      },
+      {
+        "nome": "Castillo de Grinzane Cavour",
+        "testo": "El castillo donde vivió Camillo Benso di Cavour, entre los viñedos de Alba y Barolo, hoy sede de la enoteca regional piamontesa y de un museo sobre la historia de las Langhe. Desde las terrazas se ve todo el paisaje UNESCO.",
+        "come": "En coche desde Alba en unos 10 minutos. Aparcamiento bajo el castillo.",
+        "quando": "Todo el año; en otoño acoge la subasta mundial de la trufa blanca.",
+        "tempo": "1 hora",
+        "costo": "Entrada unos 8 €",
+        "orari": "Todos los días desde las 10, hasta las 19 de abril a octubre y hasta las 18 el resto del año",
+        "lat": 44.6532,
+        "lng": 7.995
+      },
+      {
+        "nome": "Barbaresco",
+        "testo": "El pueblo que da nombre al otro gran Nebbiolo de las Langhe, en una colina sobre el Tanaro. Se puede subir a la torre medieval y la enoteca regional está en una iglesia desacralizada.",
+        "come": "En coche desde Alba en unos 15 minutos. Las bodegas reciben con reserva.",
+        "quando": "Septiembre-octubre y primavera.",
+        "tempo": "media jornada",
+        "costo": "Catas en bodega unos 20-40 € por persona, a menudo descontadas de la compra",
+        "lat": 44.7167,
+        "lng": 8.0833
+      },
+      {
+        "nome": "Montepulciano y el Vino Nobile",
+        "testo": "Pueblo renacentista en lo alto de una colina de la Val d'Orcia, con palacios de piedra y bodegas excavadas bajo el casco antiguo, donde envejece el Vino Nobile. También merece la iglesia de San Biagio, justo fuera de las murallas.",
+        "come": "En coche desde Siena en una hora aproximadamente; se aparca fuera de las murallas y se sube a pie.",
+        "quando": "Primavera y otoño.",
+        "tempo": "media jornada",
+        "costo": "Catas en bodega unos 20-40 € por persona, a menudo descontadas de la compra",
+        "lat": 43.1,
+        "lng": 11.7833,
+        "consiglio": "Se combina con Montalcino y Pienza en la misma jornada."
       }
     ],
     programmi: [
@@ -4422,6 +4862,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Verona o Siena",
         "perChi": "quien une el vino a una ciudad",
         "testo": "Se duerme en la ciudad y se va a las bodegas en coche: ideal si gustan los monumentos, pero sin colinas por la noche."
+      },
+      {
+        "nome": "Etna: Linguaglossa y Castiglione di Sicilia",
+        "perChi": "quien hace la ruta del volcán",
+        "testo": "Pueblos en la vertiente norte, entre las contrade del Nerello Mascalese. Agroturismos y bodegas con habitaciones, a una hora de Catania y media hora de Taormina."
       }
     ],
     sapori: [
@@ -4457,6 +4902,58 @@ export const destinazioniItalia: Destinazione[] = [
       "En agosto muchas bodegas cierran o reducen las visitas, mientras que en vendimia se llenan.",
       "En las zonas famosas (Barolo, Montalcino) los precios de alojamiento y cata son altos: considerar Irpinia, Vulture, Valtellina y Etna.",
       "Comprar en la bodega cuesta menos que en la enoteca y se habla con quien ha hecho el vino."
+    ],
+    gite: [
+      {
+        "nome": "Pollenzo y Bra",
+        "distanza": "unos 15 km desde Alba",
+        "come": "En coche",
+        "testo": "La finca saboyana con la Universidad de Ciencias Gastronómicas y la Banca del Vino, luego Bra, donde nació Slow Food, para su salchicha cruda."
+      },
+      {
+        "nome": "Lago de Garda: Bardolino y Lazise",
+        "distanza": "unos 25 km desde la Valpolicella",
+        "come": "En coche o autobús desde Verona",
+        "testo": "Una tarde en el lago, con el Bardolino y el Chiaretto en las bodegas de la orilla veronesa."
+      },
+      {
+        "nome": "Abadía de San Galgano",
+        "distanza": "unos 35 km desde Siena",
+        "come": "En coche",
+        "testo": "La abadía gótica sin techo en medio de los campos y, en la colina de al lado, la rotonda de Montesiepi con la espada en la roca."
+      },
+      {
+        "nome": "Taormina desde el Etna",
+        "distanza": "unos 30 km desde Castiglione di Sicilia",
+        "come": "En coche",
+        "testo": "El teatro antiguo con el volcán al fondo y el corso Umberto, mejor por la mañana antes de la multitud."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Hay que reservar las visitas a las bodegas?",
+        "risposta": "Sí, casi siempre. Las bodegas son explotaciones agrícolas y reciben con cita: se escribe o se llama unos días antes, más en vendimia."
+      },
+      {
+        "domanda": "¿Cuánto cuesta una cata?",
+        "risposta": "Normalmente entre 20 y 40 euros por persona, a menudo descontados si se compran botellas. Las bodegas históricas de Barolo y Montalcino cuestan más, las zonas menos conocidas mucho menos."
+      },
+      {
+        "domanda": "¿Cuándo ir?",
+        "risposta": "Septiembre y octubre, en vendimia, o de abril a junio. En agosto muchas bodegas cierran o reducen las visitas."
+      },
+      {
+        "domanda": "¿Qué pasa con quien conduce?",
+        "risposta": "En Italia el límite es de 0,5 gramos por litro, cero para quien tiene el carné desde hace menos de tres años, y en las zonas del vino hay controles. Se cata y se escupe, o se contrata un conductor o un taxi."
+      },
+      {
+        "domanda": "¿Cuántas bodegas se visitan en un día?",
+        "risposta": "Dos, como máximo tres: una por la mañana y otra por la tarde, con la comida en una osteria en medio. Más allá se cata sin atención."
+      },
+      {
+        "domanda": "¿Cuál es la ruta más económica?",
+        "risposta": "Irpinia y Vulture: Aglianico de gran nivel, bodegas donde a menudo recibe el propietario y alojamientos a una fracción de los precios de las Langhe o del Chianti."
+      }
     ],
     esperienzeSlugs: ['degustazione-cantina'],
     tripSlugs: ['rotte-dei-vini-itinerario'],
@@ -5894,13 +6391,13 @@ export const destinazioniItalia: Destinazione[] = [
     doveMangiare:
       "Palermo es la capital italiana del street food: **arancine** (en femenino, aquí), **panelle** de garbanzos, **sfincione**, crocchè, y el **pane con la milza** (pan con bazo), para los valientes, para probar al menos una vez en los puestos históricos. Luego la pasta con sardinas, las sardinas a beccafico, el cuscús de pescado en **San Vito Lo Capo** y en Trapani, herencia directa del mundo árabe y norteafricano. Los dulces: cassata, cannoli y fruta martorana. El vino: Marsala en su zona, Grillo y Catarratto para los blancos.",
     comeArrivare:
-      "Vuelo a Palermo Punta Raisi, o a Trapani Birgi para los de bajo coste. En ferry desde Nápoles, Génova y Civitavecchia. **Coche indispensable** para moverse fuera de Palermo.",
+      "Vuelo a Palermo Punta Raisi, o a Trapani Birgi para los de bajo coste. En ferry desde Nápoles, Génova y Civitavecchia. **Coche indispensable** para moverse fuera de Palermo. Desde el aeropuerto de Palermo el autobús Prestia e Comandè llega al centro en unos 50 minutos, unos 6 €; desde Trapani Birgi el autobús AST llega a la ciudad y al puerto en unos 40 minutos, y el taxi tiene una tarifa fija de unos 35 €.",
     comeSpostarsi:
       "Palermo se recorre a pie en el casco histórico, con el transporte público funcionando mal. Fuera hace falta coche: las autopistas unen Palermo, Trapani y Marsala, el resto es estatal. Para las Egadas, aliscafi desde Trapani y Marsala.",
     periodoMigliore:
       "**abril-junio y septiembre-octubre.** En verano el oeste es tórrido y las zonas arqueológicas no tienen sombra. El invierno es suave y excelente para Palermo y los yacimientos, con el mar fuera de juego. En septiembre está el Cous Cous Fest en San Vito Lo Capo.",
     costi:
-      "En alojamientos y restaurantes cuesta bastante menos que la Sicilia oriental. Monreale tiene entradas separadas para catedral, claustro y terrazas; Segesta y Selinunte tienen entradas contenidas; los mercados no cuestan nada aparte de lo que se come.",
+      "En alojamientos y restaurantes cuesta bastante menos que la Sicilia oriental. Monreale tiene entradas separadas para catedral, claustro y terrazas; Segesta y Selinunte tienen entradas contenidas; los mercados no cuestan nada aparte de lo que se come. Económico: unos 60-80 € al día por persona con B&B en doble, comida callejera y trenes o autobuses. Medio: 120-160 € con hotel en el casco antiguo, coche de alquiler y restaurantes. Alto: más de 250 € con residencias históricas, guías privados y cenas de pescado.",
     erroriDaEvitare: [
       "Ir a Monreale a media jornada, cuando llegan los autocares: a las ocho y media se está dentro con diez personas",
       "Juzgar Palermo por la degradación de ciertas zonas y quedarse ahí: es la ciudad más estratificada de Italia y pide adaptarse",
@@ -5918,6 +6415,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A pie desde el centro histórico. Ballarò está cerca de la Casa Professa y de Porta Nuova; el Capo está detrás del Teatro Massimo; la Vucciria queda entre via Roma y el puerto.",
         "quando": "Por la mañana, cuando están todos los puestos. Por la tarde muchos puestos recogen. El domingo hay menos movimiento.",
         "tempo": "2-3 horas",
+        "costo": "Entrada libre; la comida callejera cuesta pocos euros por pieza",
+        "lat": 38.1124,
+        "lng": 13.3601,
         "consiglio": "Comer panelle, arancine y sfincione de pie, en los puestos donde hace cola la gente del lugar, no en locales con menú en inglés."
       },
       {
@@ -5926,7 +6426,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde el centro se llega a pie hacia Porta Nuova. Entrada online en la web de la Fundación Federico II; acceso con controles y colas cortas si se va temprano.",
         "quando": "De lunes a sábado de 8:30 a 16:30, domingos y festivos de 8:30 a 12:30 (horas de última entrada, web de la Fundación Federico II). Por la mañana, nada más abrir. Los horarios cambian con los oficios y las sesiones de la asamblea regional: comprobar antes.",
         "tempo": "1 hora y media",
+        "costo": "Entrada unos 19 € para la Capilla Palatina y los Apartamentos Reales",
+        "orari": "Lunes-sábado 8:30-16:30, domingos y festivos 8:30-12:30 (última entrada)",
         "url": "https://www.federicosecondo.org/",
+        "lat": 38.1108,
+        "lng": 13.3536,
         "consiglio": "Levantar la vista al techo: los muqarnas son de madera pintada, con escenas de la corte árabe."
       },
       {
@@ -5935,6 +6439,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Autobús AMAT 389 desde Palermo (piazza Indipendenza o corso Calatafimi). El claustro y las terrazas tienen entrada propia.",
         "quando": "A primera hora, antes de los autocares. Los horarios cambian con los oficios: comprobar antes.",
         "tempo": "2 horas",
+        "url": "https://www.monrealeduomo.it/",
+        "lat": 38.0819,
+        "lng": 13.2921,
         "consiglio": "Subir a las terrazas para ver el tejado y Palermo; llevar una sudadera por el fresco del interior."
       },
       {
@@ -5943,7 +6450,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Desde Palermo en coche, por la autopista Palermo-Trapani. El templo está cerca de la entrada; para el teatro hay lanzadera o subida a pie.",
         "quando": "Por la mañana o al final de la tarde. En verano no hay sombra: evitar el mediodía.",
         "tempo": "2 horas",
-        "costo": "entradas y pases combinados en la web del parque arqueológico: las tarifas cambian",
+        "costo": "Archeopass Segesta, Selinunte y Gibellina 25,40 €, válido 7 días (desde 2026)",
+        "url": "https://www.coopculture.it/",
+        "lat": 37.9414,
+        "lng": 12.8322,
         "consiglio": "Subir al teatro: arriba se entiende por qué los griegos lo construyeron aquí."
       },
       {
@@ -5952,7 +6462,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Trapani o Palermo. Dentro del parque hay lanzadera; también se puede alquilar una bici.",
         "quando": "Temprano por la mañana o al final de la tarde. Al mediodía en verano es inmenso y sin sombra.",
         "tempo": "3 horas",
-        "costo": "entradas y pases combinados en la web del parque arqueológico: las tarifas cambian",
+        "costo": "Archeopass Segesta, Selinunte y Gibellina 25,40 €, válido 7 días (desde 2026)",
+        "url": "https://www.coopculture.it/",
+        "lat": 37.5836,
+        "lng": 12.8247,
         "consiglio": "Terminar en la playa de Marinella, a dos pasos de los templos."
       },
       {
@@ -5961,6 +6474,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche por carretera de curvas desde Trapani, o en autobús de línea. El teleférico Trapani-Erice, cuando funciona, es el camino más corto.",
         "quando": "Por la tarde-noche, cuando se han ido los autocares y queda la niebla. La niebla forma parte del lugar.",
         "tempo": "media jornada",
+        "url": "https://www.funiviaerice.it/",
+        "lat": 38.0369,
+        "lng": 12.5864,
         "consiglio": "Dormir allí una noche para verla vacía, y llevar una sudadera incluso en verano."
       },
       {
@@ -5969,6 +6485,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche por la Via del Sale. Para Mozia, una barquita desde el embarcadero de Birgi, pocos minutos. El museo de la sal está en Nubia.",
         "quando": "Al atardecer, cuando el agua se vuelve rosa. Mozia: días sin viento fuerte.",
         "tempo": "media jornada",
+        "costo": "El barco a Mozia y la entrada a la isla con el museo Whitaker se pagan por separado",
+        "url": "https://www.fondazionewhitaker.it/",
+        "lat": 37.8683,
+        "lng": 12.4686,
         "consiglio": "Parar en Marsala por el vino del mismo nombre: las bodegas históricas hacen visitas con degustación."
       },
       {
@@ -5977,6 +6497,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dos entradas: Scopello (sur) y San Vito Lo Capo (norte). Se deja el coche en los aparcamientos de la entrada.",
         "quando": "Primavera y otoño; en verano salir al abrir y llevar agua. Conviene comprobar horarios y entradas.",
         "tempo": "media jornada o todo el día",
+        "costo": "Entrada 5 €, solo con pago electrónico",
+        "orari": "Tras el incendio de 2025 la reserva reabrió por tramos en 2026, primero desde Scopello y luego también desde San Vito: comprobar qué accesos y senderos están abiertos",
+        "url": "https://www.riservazingaro.it/",
+        "lat": 38.1042,
+        "lng": 12.7908,
         "consiglio": "Escarpines y máscara: el mar de las calas está entre los más bellos de Sicilia."
       },
       {
@@ -5985,7 +6510,37 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche desde Trapani o Palermo. Aparcamiento de pago en el pueblo, lleno en verano.",
         "quando": "Junio y septiembre, por el mar y el cuscús. En julio y agosto está lleno.",
         "tempo": "media jornada o una noche",
+        "lat": 38.1667,
+        "lng": 12.75,
         "consiglio": "Probar el cuscús de pescado en un local con receta familiar, y reservar en septiembre."
+      },
+      {
+        "nome": "Cattedrale di Palermo",
+        "testo": "Una catedral normanda reformada durante siglos, con elementos árabes, góticos y un interior neoclásico. Dentro están las tumbas reales de Federico II y Roger II; desde las cubiertas se camina sobre la ciudad.",
+        "come": "A pie por el Cassaro (corso Vittorio Emanuele), entre los Quattro Canti y el Palacio de los Normandos. Tumbas, tesoro y tejados tienen entrada aparte.",
+        "quando": "Por la mañana o al final de la tarde, cuando la luz está baja sobre las terrazas.",
+        "tempo": "una hora y media",
+        "costo": "Entrada a la iglesia libre",
+        "lat": 38.1144,
+        "lng": 13.3561
+      },
+      {
+        "nome": "Scopello y su almadraba",
+        "testo": "Un pueblo diminuto alrededor de un baglio, sobre la vieja almadraba y los farallones que salen del agua. Es la entrada sur de la Reserva del Zingaro.",
+        "come": "En coche desde Castellammare del Golfo, unos 10 km. La almadraba tiene acceso de pago para bañarse.",
+        "quando": "Junio y septiembre; en agosto el pueblo se llena.",
+        "tempo": "media jornada",
+        "lat": 38.0715,
+        "lng": 12.8216
+      },
+      {
+        "nome": "Mondello",
+        "testo": "La playa de Palermo, una bahía de arena clara entre el Monte Pellegrino y el Monte Gallo, con el balneario modernista sobre el agua. En verano es el mar de la ciudad.",
+        "come": "Autobús urbano desde el centro en una media hora, o en coche con aparcamientos de pago.",
+        "quando": "Junio y septiembre, entre semana.",
+        "tempo": "media jornada",
+        "lat": 38.2008,
+        "lng": 13.3231
       }
     ],
     programmi: [
@@ -6073,6 +6628,58 @@ export const destinazioniItalia: Destinazione[] = [
       "Segesta y Selinunte no tienen sombra: agua, sombrero y visita temprano en verano.",
       "Los horarios y precios de los yacimientos cambian: consultar siempre las webs oficiales antes de ir."
     ],
+    gite: [
+      {
+        "nome": "Cefalú",
+        "distanza": "unos 70 km desde Palermo",
+        "come": "Tren regional en una hora aproximadamente",
+        "testo": "La catedral normanda con el Pantocrátor, parte del itinerario árabe-normando UNESCO, el lavadero medieval y la playa bajo la Rocca."
+      },
+      {
+        "nome": "Bagheria y sus villas barrocas",
+        "distanza": "unos 15 km desde Palermo",
+        "come": "Tren o coche",
+        "testo": "Villa Palagonia con sus estatuas de monstruos y el museo de Renato Guttuso, en media jornada."
+      },
+      {
+        "nome": "Favignana",
+        "distanza": "unos 30 minutos de hidrodeslizador desde Trapani",
+        "come": "Hidrodeslizador desde el puerto de Trapani, luego bicicleta",
+        "testo": "Cala Rossa y las canteras de toba en un día, con regreso en el último hidrodeslizador."
+      },
+      {
+        "nome": "Mazara del Vallo",
+        "distanza": "unos 25 km desde Marsala",
+        "come": "En coche o tren",
+        "testo": "La casbah con sus callejuelas y cerámicas y el Sátiro danzante, la estatua de bronce rescatada del mar."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para Sicilia occidental?",
+        "risposta": "Siete u ocho: dos o tres en Palermo con Monreale, luego Segesta, Erice y Trapani, Mozia y las salinas, Selinunte y un día de playa en San Vito o en el Zingaro."
+      },
+      {
+        "domanda": "¿Cómo se llega del aeropuerto de Palermo al centro?",
+        "risposta": "Con el autobús Prestia e Comandè, cada media hora, unos 50 minutos hasta la Estación Central, unos 6 € en línea; o con el tren Trinacria Express o el taxi con tarifa fija."
+      },
+      {
+        "domanda": "¿Existe una entrada combinada para Segesta y Selinunte?",
+        "risposta": "Sí, desde 2026 existe el Archeopass: 25,40 € la entrada completa, válido siete días, con una entrada a Segesta, una a Selinunte y Gibellina."
+      },
+      {
+        "domanda": "¿Hace falta coche?",
+        "risposta": "En Palermo no, es más bien un problema por la ZTL y los aparcamientos. Para el resto del oeste sí: yacimientos, salinas y playas están lejos y el transporte público es escaso."
+      },
+      {
+        "domanda": "¿Cuándo ir?",
+        "risposta": "De abril a junio y de septiembre a octubre. En verano los parques arqueológicos no tienen sombra; en invierno Palermo y los yacimientos se visitan bien, con el mar fuera de juego."
+      },
+      {
+        "domanda": "¿Palermo es segura?",
+        "risposta": "En general sí, con las precauciones de cualquier gran ciudad: carteristas en los mercados, nada a la vista en el coche y solo aparcamientos oficiales o vigilados, porque los aparcacoches ilegales son frecuentes."
+      }
+    ],
     esperienzeSlugs: ['monreale', 'street-food-palermo'],
     tripSlugs: ['sicilia-completa'],
     imageAlt: "El mirador almenado de Erice sobre un mar de nubes, con la costa trapanesa al fondo",
@@ -6117,7 +6724,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "**junio y septiembre**, como todas las islas menores. En Pantelaria la temporada es más larga y la isla funciona también en primavera y otoño gracias al vino y al termalismo. Lampedusa de noviembre a marzo cierra casi del todo.",
     costi:
-      "La partida principal son los transportes, y no es poca cosa: Pantelaria y Lampedusa requieren un vuelo o un ferry largo. **La Spiaggia dei Conigli en Lampedusa tiene acceso regulado y con cupo** por la nidificación de las tortugas: conviene informarse antes.",
+      "La partida principal son los transportes, y no es poca cosa: Pantelaria y Lampedusa requieren un vuelo o un ferry largo. **La Spiaggia dei Conigli en Lampedusa tiene acceso regulado y con cupo** por la nidificación de las tortugas: conviene informarse antes. Económico: unos 70-90 € al día por persona con habitación sencilla en doble, bici y comidas en trattoria. Medio: 130-180 € con dammuso u hotel, coche o moto y una vuelta en barco. Alto: más de 280 € con dammusi con encanto, barco privado y cenas de pescado.",
     erroriDaEvitare: [
       "Ir a Pantelaria buscando playas de arena: **no las hay**. Se entra en el agua desde las rocas, y quien no lo sabe se queda decepcionado",
       "Subestimar el viento en Pantelaria: es una constante y puede ser fuerte durante días",
@@ -6205,6 +6812,9 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hidroala desde Trapani. En la isla se alquila una bicicleta: las distancias son cortas.",
         "quando": "Junio y septiembre. Por la mañana las calas, por la tarde el museo. En agosto está llena.",
         "tempo": "2 días",
+        "costo": "Hidrodeslizador desde Trapani desde unos 12 € por trayecto; el antiguo Stabilimento Florio con entrada de pocos euros",
+        "lat": 37.9253,
+        "lng": 12.3289,
         "consiglio": "Llevar zapatos de goma: casi ninguna cala es de arena, se entra desde la roca."
       },
       {
@@ -6221,7 +6831,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Hidroala desde Trapani o Favignana. A la gruta se llega a pie o en barco y se visita con guía.",
         "quando": "Junio y septiembre. La visita es con reserva y en grupos reducidos: organizarse por la mañana.",
         "tempo": "media jornada",
+        "costo": "Unos 20 € solo la cueva, unos 40 € con el transporte",
+        "orari": "Solo con reserva, al menos 48 horas antes, con visitas por la mañana",
         "url": "https://www.ampisoleegadi.it/",
+        "lat": 38.0031,
+        "lng": 12.3222,
         "consiglio": "Reservar la visita a la gruta el día anterior y llevar zapatos cerrados para el sendero."
       },
       {
@@ -6230,6 +6844,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Aliscafo desde Trapani (más largo que el de Favignana) o ferri. Se recorre a pie y en barca.",
         "quando": "Junio y septiembre. Con mar agitado se cancelan los trayectos.",
         "tempo": "1-2 días",
+        "lat": 37.9694,
+        "lng": 12.0572,
         "consiglio": "El recorrido de las grutas en barca es la experiencia principal; acordar el precio con el barquero."
       },
       {
@@ -6238,7 +6854,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Vuelo desde Trapani, Palermo o en temporada desde el continente, o ferri nocturno desde Trapani. En la isla hace falta coche, que se reserva con antelación.",
         "quando": "Primavera y septiembre. El lago al atardecer, con el barro ya caliente. El viento es constante.",
         "tempo": "4-5 días",
+        "costo": "Acceso libre al lago",
         "url": "https://www.parconazionalepantelleria.it/",
+        "lat": 36.8158,
+        "lng": 11.9862,
         "consiglio": "No buscar playas de arena: no hay, se entra al agua desde las rocas o las pozas termales."
       },
       {
@@ -6247,6 +6866,8 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "En coche hasta el pie de la Montagna Grande y luego a pie. Los jardines se ven por las carreteras interiores y en algunas fincas.",
         "quando": "Por la mañana. Viento fuerte y fresco en altura incluso en verano.",
         "tempo": "media jornada",
+        "lat": 36.7807,
+        "lng": 12.005,
         "consiglio": "Visitar una bodega y probar el passito: las visitas se reservan."
       },
       {
@@ -6255,7 +6876,10 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Avión desde Palermo o Catania, o barco desde Porto Empedocle, con una travesía larga. Desde el pueblo en moto o coche hasta el aparcamiento, y luego a pie.",
         "quando": "Junio y septiembre. En temporada alta el acceso puede estar limitado y con reserva.",
         "tempo": "media jornada",
+        "costo": "Acceso gratuito, con reserva obligatoria en verano y aforo limitado",
         "url": "https://www.ampisolepelagie.it/",
+        "lat": 35.51,
+        "lng": 12.5584,
         "consiglio": "Informarse de las normas de acceso de la temporada antes de salir y llegar temprano por la mañana."
       },
       {
@@ -6264,7 +6888,38 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Barco desde Sicilia o aliscafo desde Lampedusa en temporada. Se recorre a pie en un día.",
         "quando": "Junio y septiembre; fuera de temporada las conexiones son escasas.",
         "tempo": "1 día o una noche",
+        "lat": 35.8667,
+        "lng": 12.8667,
         "consiglio": "Comprobar los horarios de vuelta antes de partir: con mar agitado se cancelan los trayectos."
+      },
+      {
+        "nome": "Ex Stabilimento Florio",
+        "testo": "La almadraba decimonónica de los Florio en el puerto de Favignana, restaurada como museo: las naves donde se trabajaba el atún, las barcas de la mattanza y las fotos y voces de los pescadores.",
+        "come": "A pie desde el puerto, a pocos minutos del desembarco.",
+        "quando": "En las horas de calor, cuando las calas están a pleno sol.",
+        "tempo": "1-2 horas",
+        "costo": "Entrada de pocos euros; horarios que cambian con la temporada",
+        "lat": 37.9303,
+        "lng": 12.3227
+      },
+      {
+        "nome": "Pantelaria desde el mar y el Arco del Elefante",
+        "testo": "La vuelta a la isla en barco es la forma de ver las costas de lava, las cuevas y las calas sin playa. El Arco del Elefante, una roca de lava con forma de trompa que entra en el mar, es el punto más fotografiado.",
+        "come": "Los barcos salen del puerto de Pantelaria; al Arco también se llega en coche por la costa este.",
+        "quando": "Los días sin viento fuerte: se reserva el día antes y se confirma por la mañana.",
+        "tempo": "un día",
+        "costo": "Excursión compartida de un día desde unos 60 € por persona con comida; el barco privado es mucho más caro",
+        "lat": 36.7929,
+        "lng": 12.0536
+      },
+      {
+        "nome": "Lampedusa en barco",
+        "testo": "La vuelta a la isla pasa por las calas de la costa sur, con fondos claros que parecen piscinas, y la Tabaccara, una de las bahías más transparentes del Mediterráneo. Muchas de estas calas no se alcanzan por tierra.",
+        "come": "Los barcos salen del puerto, con comida a bordo; se reserva en el pueblo el día antes.",
+        "quando": "De junio a septiembre, con mar en calma.",
+        "tempo": "un día",
+        "lat": 35.515,
+        "lng": 12.58
       }
     ],
     programmi: [
@@ -6348,6 +7003,58 @@ export const destinazioniItalia: Destinazione[] = [
       "En Pantelleria conviene buscar coche con antelación, porque hay pocos vehículos disponibles en temporada.",
       "El agua dulce escasea en Pantelleria, Lampedusa y las islas menores: usarla con moderación.",
       "El viento es constante en Pantelleria: elegir calas resguardadas y consultar la previsión."
+    ],
+    gite: [
+      {
+        "nome": "Erice desde Trapani",
+        "distanza": "unos 10 minutos de teleférico",
+        "come": "Teleférico Trapani-Erice, que se detiene con viento fuerte, o autobús",
+        "testo": "El pueblo medieval a 750 metros sobre Trapani, con el Castillo de Venus y las pastelerías de almendra: media jornada antes o después de las Egadas."
+      },
+      {
+        "nome": "Mozia y el Stagnone",
+        "distanza": "unos 30 km desde Trapani",
+        "come": "En coche hasta el embarcadero, luego unos minutos de barco",
+        "testo": "La isla fenicia en la laguna, con el museo Whitaker, y las salinas al atardecer en el camino de vuelta."
+      },
+      {
+        "nome": "Levanzo desde Favignana",
+        "distanza": "pocos minutos de hidrodeslizador",
+        "come": "Hidrodeslizador, con visita a la cueva reservada",
+        "testo": "Un pueblo de pescadores, la Grotta del Genovese con sus grabados prehistóricos y un baño en Cala Minnola."
+      },
+      {
+        "nome": "Linosa desde Lampedusa",
+        "distanza": "una hora de hidrodeslizador aproximadamente",
+        "come": "Hidrodeslizador en temporada, comprobando la vuelta",
+        "testo": "La isla volcánica negra con casas de colores, para recorrer a pie en un día."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Qué isla elegir entre Favignana, Pantelaria y Lampedusa?",
+        "risposta": "Favignana para quien tiene pocos días y sale de Trapani; Pantelaria por el paisaje, el vino y el silencio, sabiendo que no tiene playas de arena; Lampedusa por el mar más bonito, contando con la distancia y los costes."
+      },
+      {
+        "domanda": "¿Cómo se llega a Pantelaria?",
+        "risposta": "En avión desde Trapani o Palermo, y en temporada desde el continente, o con el ferry nocturno desde Trapani, unas seis horas. En la isla hace falta coche, reservado con antelación."
+      },
+      {
+        "domanda": "¿Hay que reservar la Playa de los Conejos?",
+        "risposta": "En verano sí: el acceso es gratuito pero con aforo limitado y reserva, para proteger los nidos de la tortuga boba. No hay bares, así que agua y sombra se llevan de casa."
+      },
+      {
+        "domanda": "¿Favignana se recorre en bici?",
+        "risposta": "Sí, es llana y pequeña: la bici se alquila cerca del puerto y es el mejor medio. En agosto conviene reservarla."
+      },
+      {
+        "domanda": "¿Cuándo ir?",
+        "risposta": "Junio y septiembre. Pantelaria funciona también en primavera y otoño; Lampedusa de noviembre a marzo cierra casi por completo."
+      },
+      {
+        "domanda": "¿El mar agitado bloquea las conexiones?",
+        "risposta": "Sí, sobre todo para Pantelaria, Lampedusa, Levanzo y Marettimo. Conviene dejar un día de margen antes del vuelo de vuelta."
+      }
     ],
     esperienzeSlugs: ['passito-pantelleria'],
     tripSlugs: ['isole-siciliane'],

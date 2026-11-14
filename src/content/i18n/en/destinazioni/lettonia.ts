@@ -373,10 +373,10 @@ export const destinazioniLettonia: Destinazione[] = [
     ],
     doveDormire: "On this itinerary Jūrmala is visited in half a day from Riga, without sleeping there. Anyone who wants to stay a few days at the sea can add it as an extension.",
     doveMangiare: "Along Jomas iela restaurants and cafés serve Latvian and international cooking; in summer several beach kiosks serve grilled fish and ice cream.",
-    comeArrivare: "From Riga by regional train from the central station (Rīga Centrālā stacija) to Majori, with frequent departures.",
+    comeArrivare: "From Riga by Vivi regional train from the central station (Rīga Centrālā stacija) to Majori: about 30-35 minutes, departures at least every half hour, tickets from about 1.40-1.50 € each way, a little less when bought online or in the Vivi app. The same train also stops at Dzintari, Bulduri and Dubulti and continues to Ķemeri. Anyone arriving by car pays the entry fee of 5 € a day.",
     comeSpostarsi: "The center of Majori and the beach are explored on foot. For Dzintari or the farther areas you can take the same regional train again, which stops at several points along the coast.",
     periodoMigliore: "June-August for swimming. In the shoulder seasons the walk on the beach and among the wooden villas is still pleasant, with fewer people.",
-    costi: "an inexpensive trip: cheap train, free beach, cafés and restaurants on the seafront.",
+    costi: "Daily budget per person sharing a double room: 45-65 € on a tight budget (sleeping in Riga, train, beach and a simple lunch), 90-140 € mid-range (3-4 star hotel in Majori, dinner on the seafront), over 200 € with a 5-star spa hotel in high season. 2026 prices: Riga-Majori train about 1.50 € each way, beach, Dzintari tower and Jūrmala Museum free, Rainis and Aspazija Summer House 5 €, car entry fee 5 € a day.",
     erroriDaEvitare: [
       "Going out of season expecting the summer beach life: outside summer the beach is almost deserted and many places close",
       "Staying only on the beach without wandering the residential streets: it's the decorated wooden villas that make Jūrmala different from \"just another beach\"",
@@ -392,6 +392,9 @@ export const destinazioniLettonia: Destinazione[] = [
         quando: "Summer, when it is warm; in winter it is deserted and atmospheric.",
         tempo: "half a day",
         costo: "free entry",
+        orari: "Always open",
+        lat: 56.97927,
+        lng: 23.81217,
         consiglio: "The train is easier than the car: non-residents pay a toll to enter Jūrmala by vehicle, all year round: 5 € a day for a car (2026)."
       },
       {
@@ -401,6 +404,8 @@ export const destinazioniLettonia: Destinazione[] = [
         quando: "Summer afternoon and evening.",
         tempo: "1-2 hours",
         costo: "free entry",
+        lat: 56.97366,
+        lng: 23.80492,
         consiglio: "Choose a cafe on the side streets for better prices."
       },
       {
@@ -419,7 +424,59 @@ export const destinazioniLettonia: Destinazione[] = [
         quando: "Summer, in the evening.",
         tempo: "2 hours",
         url: "https://www.dzintarukoncertzale.lv",
+        lat: 56.97789,
+        lng: 23.81201,
         consiglio: "Check the schedule for the concerts on the bill."
+      },
+      {
+        nome: "Dzintari Forest Park",
+        testo: "A pine wood among the villas of Dzintari, with paths, playgrounds and a wood-and-steel viewing tower. From the platform at 33.5 metres you see the sea and the Lielupe river together.",
+        come: "Train to Dzintari, then a 10-minute walk.",
+        quando: "Clear days; late-afternoon light over the sea.",
+        tempo: "1 hour",
+        costo: "free entry, tower included",
+        orari: "Daily 9-22",
+        lat: 56.97577,
+        lng: 23.8191,
+        url: "https://visitjurmala.lv",
+        consiglio: "Combine it with the beach walk from Majori to Dzintari, about 2 km."
+      },
+      {
+        nome: "Jūrmala Museum",
+        testo: "The town museum, a few steps from Jomas iela, tells the story of the Jūrmala and Ķemeri resorts from the 18th to the 20th century, when people came here for sea bathing and cures. It also has a multimedia room on the poet Rainis and temporary art exhibitions.",
+        come: "On foot from Majori station, Tirgoņu iela 29.",
+        quando: "Rainy days or out of season.",
+        tempo: "1 hour",
+        costo: "free entry",
+        orari: "Wednesday-Sunday 10-18, closed Mondays and Tuesdays",
+        lat: 56.97122,
+        lng: 23.80143,
+        url: "https://www.jurmalasmuzejs.lv"
+      },
+      {
+        nome: "Rainis and Aspazija Summer House",
+        testo: "The wooden villa in Majori that the two Latvian national poets bought in 1926 and where they spent the summers from 1927 to 1929; Rainis died there. The rooms are furnished as they were then, among the pines.",
+        come: "On foot from Majori station, Jāņa Pliekšāna iela 5/7.",
+        quando: "Morning, on opening days.",
+        tempo: "45 minutes",
+        costo: "5 €; reduced 2 €; family 7 € (2026)",
+        orari: "Tuesday-Saturday 10-17; from 1 June to 31 August Wednesdays 12-19; closed Sundays and Mondays",
+        lat: 56.97594,
+        lng: 23.80801,
+        url: "https://memorialiemuzeji.lv",
+        consiglio: "An audio guide (3 €) helps anyone who doesn't know the two poets' story."
+      },
+      {
+        nome: "Great Ķemeri Bog Boardwalk",
+        testo: "A wooden boardwalk in Ķemeri National Park, at the western end of Jūrmala, among dark pools, dwarf pines and sphagnum moss. There is a long loop of about 3.5 km and a short one of about 1.5 km, with an observation tower over the bog.",
+        come: "Train to Ķemeri, then about 3 km on foot or by taxi to the trail car park.",
+        quando: "Early morning or at sunset; in autumn the colours are stronger.",
+        tempo: "1.5-2 hours",
+        costo: "free entry",
+        orari: "Always open",
+        lat: 56.90973,
+        lng: 23.45996,
+        consiglio: "Comfortable shoes and mosquito repellent in summer; with frost the boards are slippery."
       }
     ],
     sapori: [
@@ -436,6 +493,91 @@ export const destinazioniLettonia: Destinazione[] = [
       "To enter Jūrmala by car non-residents pay a toll all year round, 5 € a day (2026): the train trip is simpler.",
       "The beach is windy: bring a sweatshirt even in summer.",
       "On summer weekends the restaurants are full: book."
+    ],
+    programmi: [
+      {
+        titolo: "Half a day",
+        tappe: ["Morning train from Riga to Majori", "Beach from Majori towards Dzintari", "Wooden villas in the streets behind Jomas iela", "Lunch on Jomas iela and train back"]
+      },
+      {
+        titolo: "1 day",
+        tappe: ["Morning: beach and villas of Majori", "Jūrmala Museum or the Rainis and Aspazija Summer House", "Afternoon: Dzintari Forest Park and tower", "Evening: a concert at the Dzintari hall, if one is on"]
+      },
+      {
+        titolo: "2 days",
+        tappe: ["Day 1 as above, with a night in Majori", "Day 2 morning: train to Ķemeri and the bog boardwalk", "Afternoon: beach at Bulduri or Dzintari", "Back to Riga by train"]
+      }
+    ],
+    zone: [
+      {
+        nome: "Majori",
+        perChi: "Those who want station, beach and restaurants on foot",
+        testo: "The centre of town, around Jomas iela; the liveliest in summer.",
+        fascia: "80-170 €"
+      },
+      {
+        nome: "Dzintari and Bulduri",
+        perChi: "Those looking for pine woods and quieter villas",
+        testo: "Residential streets among the pines, one or two train stops from Majori.",
+        fascia: "90-200 €"
+      },
+      {
+        nome: "Ķemeri",
+        perChi: "Those coming for the national park's nature",
+        testo: "The old spa resort at the western end, quiet and close to the bog; few places to stay."
+      },
+      {
+        nome: "Riga as a base",
+        perChi: "Those doing Jūrmala as a day trip",
+        testo: "More choice and lower prices; Majori is half an hour away by train.",
+        fascia: "45-140 €"
+      }
+    ],
+    faq: [
+      {
+        domanda: "How do you get from Riga to Jūrmala?",
+        risposta: "By regional train from the central station to Majori, about 30-35 minutes and about 1.50 € each way, with departures at least every half hour. By car there is an entry fee of 5 € a day."
+      },
+      {
+        domanda: "Can you swim at Jūrmala?",
+        risposta: "Yes, from June to August. The water of the Gulf of Riga stays shallow for many metres and remains cool even in high summer."
+      },
+      {
+        domanda: "Is it better to get off at Majori or Dzintari?",
+        risposta: "Majori is the centre, with Jomas iela, the museum and the restaurants. Dzintari is quieter, with the forest park and the concert hall; between the two there are about 2 km of beach to walk."
+      },
+      {
+        domanda: "Is Jūrmala worth it out of season?",
+        risposta: "Yes, for the walk on the empty beach, the wooden villas and the Ķemeri bog. Many seafront places close, though, and beach life stops."
+      },
+      {
+        domanda: "How much time do you need?",
+        risposta: "Half a day is enough for Majori, the beach and the villas. A full day adds Dzintari and a museum; with two you get as far as the Ķemeri bog."
+      },
+      {
+        domanda: "Can you visit the wooden villas?",
+        risposta: "Almost all are private homes and are seen from outside. You can go inside the Rainis and Aspazija Summer House, furnished as in the 1920s."
+      }
+    ],
+    gite: [
+      {
+        nome: "Riga",
+        distanza: "about 20 km, 30-35 minutes by train",
+        come: "Regional train from Majori to the central station.",
+        testo: "The capital, with the UNESCO-listed Old Town, the Art Nouveau district and the Central Market in the zeppelin hangars."
+      },
+      {
+        nome: "Tukums",
+        distanza: "about 40 km, on the same railway line",
+        come: "Regional train from Majori westwards, to the end of the line.",
+        testo: "A Courland town with a historic centre of low houses and the tower of the medieval castle, quiet and little visited."
+      },
+      {
+        nome: "Rundāle Palace",
+        distanza: "about 90 km, 1-1.5 hours by car",
+        come: "By car or on an organised tour; by public transport you have to go via Riga and Bauska.",
+        testo: "The Baroque palace designed by Rastrelli, the architect of the Winter Palace in Saint Petersburg, with its French garden and rose garden."
+      }
     ],
     esperienzeSlugs: ['jurmala-spiaggia-ville-liberty'],
     tripSlugs: ['capitali-baltiche'],
