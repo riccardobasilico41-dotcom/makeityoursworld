@@ -160,6 +160,7 @@ export const esperienzeSpagna: Esperienza[] = [
     paeseSlug: 'spagna',
     destinazioneSlug: 'ibiza',
     nome: 'Northern Ibiza: coves and markets beyond the nightlife',
+    titoloBreve: 'Northern Ibiza: coves and markets',
     localita: 'Sant Joan de Labritja and Santa Gertrudis, Ibiza',
     cosE:
       "A day (or more) in the rural north of Ibiza: the coves of Cala Xarraca and Cala Sant Vicent, the hippie and craft market of Las Dalias or the Saturday one in Sant Joan, and the sunset with drums at Benirràs, an informal Sunday ritual that has gone on for decades.",

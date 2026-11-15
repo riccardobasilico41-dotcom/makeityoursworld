@@ -385,7 +385,7 @@ export const destinazioniSpagna: Destinazione[] = [
     erroriDaEvitare: [
       'Arrivare a Granada senza aver già prenotato l\'Alhambra: i biglietti si comprano sul sito ufficiale (anche al telefono o alle casse automatiche) e in alta stagione (giugno-settembre e vacanze) si esauriscono con settimane di anticipo',
       'Sottovalutare le salite dell\'Albaicín e del Sacromonte: sono ripide e acciottolate, poco comode con bagagli o scarpe non adatte',
-      'Prenotare uno spettacolo di flamenco senza informarsi: nel Sacromonte convivono zambras autentiche e format molto turistici allo stesso prezzo',
+      'Prenotare uno spettacolo di flamenco senza informarsi: nel Sacromonte convivono zambras tradizionali e format molto turistici allo stesso prezzo',
     ],
     luoghi: [
       {
@@ -3877,7 +3877,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Maspalomas e Playa del Inglés",
         "perChi": "chi vuole sole garantito",
-        "testo": "Costa sud: caldo e secco, grandi hotel, dune vicine. Più turistica e meno autentica.",
+        "testo": "Costa sud: caldo e secco, grandi hotel, dune vicine. Più turistica e meno spontanea.",
         "fascia": "85-330 €"
       },
       {

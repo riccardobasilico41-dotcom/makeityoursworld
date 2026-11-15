@@ -2,6 +2,7 @@ import { Children, isValidElement, type ReactElement, type ReactNode } from 'rea
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { CardRicordo } from '@/components/scheda/CardRicordo'
+import { VoceFaq } from '@/components/scheda/Faq'
 import Link from '@/components/ui/Link'
 import { canonico } from '@/lib/i18n/percorsi'
 
@@ -27,10 +28,34 @@ function ricordoDa(children: ReactNode): { etichetta: string; corpo: ReactNode[]
   return { etichetta: ETICHETTA[m[1].toLowerCase()] ?? m[1], corpo: [resto, ...dentro.slice(1)] }
 }
 
+/** Testo semplice di un nodo React (per riconoscere le domande in grassetto). */
+function testoDi(n: ReactNode): string {
+  if (typeof n === 'string' || typeof n === 'number') return String(n)
+  if (Array.isArray(n)) return n.map(testoDi).join('')
+  if (isValidElement(n)) return testoDi((n as ReactElement<{ children?: ReactNode }>).props.children)
+  return ''
+}
+
+/**
+ * «**Domanda?**» seguita dalla risposta nello stesso paragrafo (le FAQ delle guide) diventa una
+ * voce della fisarmonica delle domande frequenti, la stessa delle pagine Paese e destinazione.
+ */
+function domandaDa(children: ReactNode): { domanda: ReactNode; risposta: ReactNode[] } | null {
+  const figli = Children.toArray(children)
+  const primo = figli[0]
+  if (!isValidElement(primo) || primo.type !== 'strong') return null
+  const domanda = (primo as ReactElement<{ children?: ReactNode }>).props.children
+  if (!testoDi(domanda).trim().endsWith('?')) return null
+  const risposta = figli.slice(1)
+  if (typeof risposta[0] === 'string') risposta[0] = risposta[0].replace(/^\s+/, '')
+  if (!testoDi(risposta).trim()) return null
+  return { domanda, risposta }
+}
+
 export function Prose({ children, className = '' }: { children: string; className?: string }) {
   return (
     <div
-      className={`prose prose-neutral max-w-none prose-headings:font-display prose-headings:font-medium prose-headings:text-alpine prose-p:text-stone prose-li:text-stone prose-strong:text-ink prose-strong:font-semibold prose-a:text-rosso prose-a:no-underline hover:prose-a:underline ${className}`}
+      className={`prose prose-neutral max-w-none prose-headings:font-display prose-headings:text-alpine prose-p:text-stone prose-li:text-stone prose-strong:text-ink prose-strong:font-semibold prose-a:text-rosso prose-a:no-underline hover:prose-a:underline ${className}`}
     >
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
@@ -45,6 +70,8 @@ export function Prose({ children, className = '' }: { children: string; classNam
           p({ children: figli }) {
             const r = ricordoDa(figli)
             if (r) return <CardRicordo etichetta={r.etichetta} className="my-10">{r.corpo}</CardRicordo>
+            const d = domandaDa(figli)
+            if (d) return <VoceFaq domanda={d.domanda}><p>{d.risposta}</p></VoceFaq>
             return <p>{figli}</p>
           },
         }}

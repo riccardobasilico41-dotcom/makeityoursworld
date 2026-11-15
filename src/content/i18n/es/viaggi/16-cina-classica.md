@@ -106,7 +106,7 @@ Una jornada en uno de los pueblos construidos sobre canales alrededor de Shangh�
 **En la práctica:** Zhujiajiao con la línea 17 del metro desde Shanghái, entrada libre al pueblo y entradas para los sitios concretos · Wuzhen y Nanxun en autobús o coche desde Shanghái en hora y media-dos horas · para Wuzhen Oeste entrada de pago, más cara con la visita nocturna · los fines de semana y festivos todos los pueblos están llenos.
 
 ### Día 11 — Hacia Hong Kong
-**Alta velocidad Shanghái-Hong Kong West Kowloon (unas 8 horas)** o vuelo desde Shanghái (2h30). Sobre el papel el tren es fascinante; en la práctica, en esta distancia, el vuelo ahorra media jornada. En ambos casos se cruza una **frontera de verdad**, con control de pasaportes a la salida de China continental y a la entrada en Hong Kong. Los italianos entran sin visado durante 90 días.
+**Alta velocidad Shanghái-Hong Kong West Kowloon (unas 8 horas)** o vuelo desde Shanghái (2h30). Sobre el papel el tren es fascinante, pero en esta distancia el vuelo ahorra media jornada. En ambos casos se cruza una **frontera de verdad**, con control de pasaportes a la salida de China continental y a la entrada en Hong Kong. Los italianos entran sin visado durante 90 días.
 
 *En Hong Kong rigen otras reglas que en China continental: las apps y webs occidentales funcionan sin VPN, se paga con la tarjeta Octopus o con tarjeta bancaria, y la moneda es el dólar de Hong Kong.* La primera noche la pasamos en el paseo marítimo de **Tsim Sha Tsui**, con el skyline de la isla enfrente, y hubo una primera probada de los cha chaan teng, las cafeterías locales donde se come cocina híbrida anglo-cantonesa por pocos dólares. A las ocho de la noche el espectáculo de luces en los rascacielos se ve gratis desde el paseo.
 

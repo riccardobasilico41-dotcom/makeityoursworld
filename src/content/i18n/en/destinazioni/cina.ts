@@ -93,7 +93,7 @@ export const destinazioniCina: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      "Beijing is the city that asks for more preparation than anything else on the trip, and it pays back immediately those who did it. The Forbidden City is bigger than any expectation, and that is both its merit and its limit: you cross it courtyard after courtyard in one direction only, with thousands of people, and after the third throne hall I noticed I was looking without seeing. The trick is to leave the central road and slip into the side palaces to the east: almost nobody goes there and the rooms are small, human-sized. The Temple of Heaven early in the morning, on the other hand, never disappoints, and not because of the temple. In the park around it hundreds of retirees dance, sing in chorus, play cards and do sword exercises: it's the most beautiful and least touristy scene in the city. About the hutongs the truth must be told. The ones around Houhai are bars and shops by now; real life is in the alleys two blocks farther on, and that's where it's worth getting lost. And if you have time, go to the Lama Temple: it's less iconic, but to me it's beautiful.",
+      "Beijing is the city that asks for more preparation than anything else on the trip, and it pays back immediately those who did it. The Forbidden City is bigger than any expectation, and that is both its merit and its limit: you cross it courtyard after courtyard in one direction only, with thousands of people, and after the third throne hall I noticed I was looking without seeing. The trick is to leave the central road and slip into the side palaces to the east: almost nobody goes there and the rooms are small, human-sized. The Temple of Heaven early in the morning, on the other hand, never disappoints, and not because of the temple. In the park around it hundreds of retirees dance, sing in chorus, play cards and do sword exercises: it's the most beautiful and least touristy scene in the city. About the hutongs the truth must be told. The ones around Houhai are bars and shops by now; real life is in the alleys two blocks farther on, and that's the place to get lost. And if you have time, go to the Lama Temple: it's less iconic, but to me it's beautiful.",
     luoghi: [
       {
         nome: "Forbidden City",
@@ -1196,7 +1196,7 @@ export const destinazioniCina: Destinazione[] = [
       'Counting on cash payments or on English-speaking staff: here Alipay or WeChat Pay and the translator are indispensable',
     ],
     miaEsperienza:
-      "It's the stop nobody puts on an itinerary, and yet it stays with you. By day Furong Zhen is what you expect: buses, stalls, the same merchandise as every rebuilt Chinese village. Around six in the evening, though, the groups all leave together, the lights come on over the waterfall and the town goes back to being four streets of wet stone, with a few families eating dinner on the doorstep. The strongest memory is the walkway behind the drop of water: you walk in a corridor cut into the rock, with the noise of the water a meter away, and come out soaked with spray. As a historic village it is largely renovated, so anyone looking for authentic architecture will be disappointed. What counts here is the position, which is unique, and the time of day you look at it.",
+      "It's the stop nobody puts on an itinerary, and yet it stays with you. By day Furong Zhen is what you expect: buses, stalls, the same merchandise as every rebuilt Chinese village. Around six in the evening, though, the groups all leave together, the lights come on over the waterfall and the town goes back to being four streets of wet stone, with a few families eating dinner on the doorstep. The strongest memory is the walkway behind the drop of water: you walk in a corridor cut into the rock, with the noise of the water a meter away, and come out soaked with spray. As a historic village it is largely renovated, so anyone looking for original architecture will be disappointed. What counts here is the position, which is unique, and the time of day you look at it.",
     luoghi: [
       {
         nome: "Waterfall and walkway",
@@ -1735,7 +1735,7 @@ export const destinazioniCina: Destinazione[] = [
         nome: "Three Gorges cruise",
         distanza: "3-4 days to Yichang",
         come: "Cruise ships from the Chongqing piers, to book in advance.",
-        testo: "The Yangtze cruise through the Three Gorges to the great dam: not a day trip, but it starts here.",
+        testo: "The Yangtze cruise through the Three Gorges to the great dam: it takes more than a day, but it starts here.",
       },
     ],
     esperienzeSlugs: ['hongya-dong-notte'],

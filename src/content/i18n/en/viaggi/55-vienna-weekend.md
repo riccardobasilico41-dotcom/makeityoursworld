@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Vienna is the capital that for six centuries hosted the most powerful court in Central Europe, and you can see it in every corner of the historic center: a palace with over 1,400 rooms just outside the gates, a palace that today holds one of the most reproduced paintings in the world, a Gothic cathedral with a colored-tile roof that has become the very symbol of the city. But what makes Vienna different from Prague or Krakow isn't only imperial grandeur: it's the euro in place of a local currency to convert, and a coffee culture so deeply rooted that it has entered UNESCO's intangible cultural heritage.
+Vienna is the capital that for six centuries hosted the most powerful court in Central Europe, and you can see it in every corner of the historic center: a palace with over 1,400 rooms just outside the gates, a palace that today holds one of the most reproduced paintings in the world, a Gothic cathedral with a colored-tile roof that has become the very symbol of the city. But beyond imperial grandeur, Vienna differs from Prague or Krakow in two other ways: the euro in place of a local currency to convert, and a coffee culture so deeply rooted that it has entered UNESCO's intangible cultural heritage.
 
 Three or four days are enough for the essentials: the Innere Stadt with St. Stephen's Cathedral, the Hofburg, Schönbrunn (which alone is worth half a day), the Belvedere with Klimt and the Prater as a lighter finish. From a practical standpoint it's a simpler weekend than many other capitals (no currency exchange, public transport among the most efficient in Europe), but with a city that still asks you to slow down for at least an hour a day in a historic café, not as a tourist break but as a genuine local custom.
 

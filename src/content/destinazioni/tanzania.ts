@@ -173,7 +173,7 @@ export const destinazioniTanzania: Destinazione[] = [
       'Visita a un villaggio Maasai (boma culturale)',
     ],
     doveDormire:
-      'Lodge e campeggi sul bordo del cratere, a circa 2.300 metri: di notte fa freddo davvero. Più economico dormire a Karatu, fuori dall\'area protetta, e salire la mattina presto.',
+      'Lodge e campeggi sul bordo del cratere, a circa 2.300 metri: di notte fa molto freddo. Più economico dormire a Karatu, fuori dall\'area protetta, e salire la mattina presto.',
     comeArrivare: "Da Arusha in fuoristrada, passando per Karatu; è anche la tappa di passaggio tra Arusha e il Serengeti.",
     comeSpostarsi: 'In fuoristrada con autista-guida, con discesa e risalita su piste dedicate.',
     periodoMigliore: 'tutto l\'anno; nella stagione secca l\'erba è bassa e gli animali si vedono meglio',

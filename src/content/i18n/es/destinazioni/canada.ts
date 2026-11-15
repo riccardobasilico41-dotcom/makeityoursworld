@@ -483,7 +483,7 @@ export const destinazioniCanada: Destinazione[] = [
         come: "Los cruceros salen de Gananoque y de Kingston y se reservan online.",
         quando: "En la temporada buena: fechas en las webs de los operadores. El verano está lleno, el otoño es más tranquilo.",
         tempo: "1-3 horas",
-        consiglio: "Elige el crucero largo si quieres ver de verdad las islas interiores.",
+        consiglio: "Elige el crucero largo si quieres llegar hasta las islas interiores.",
       },
       {
         nome: "Thousand Islands Parkway",

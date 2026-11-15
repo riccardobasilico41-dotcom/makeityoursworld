@@ -145,7 +145,7 @@ Plan the flight around San José traffic: from the center to **Juan Santamaría*
 
 ## What to see / what to do
 - **The boat ride to Tortuguero**, among jungle canals, crocodiles and birds: one of the best transfers of the trip, more than a simple stop along the way.
-- **The free hot springs of El Choyin**, in Arenal: far more authentic (and free) than the paid "postcard" hot springs.
+- **The free hot springs of El Choyin**, in Arenal: far less touristy (and free) than the paid "postcard" hot springs.
 - **Manuel Antonio National Park**, with some of the most beautiful beaches in the country and a very high chance of seeing sloths and monkeys. Beautiful, but very crowded: it almost feels like a zoo.
 - **Tortuguero**, which looks a lot like the Amazon.
 - **Canyoning in La Fortuna and the giant zip line in Monteverde**, the two most adrenaline-filled activities of the trip.

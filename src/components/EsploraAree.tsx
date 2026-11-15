@@ -48,7 +48,7 @@ export function EsploraAree({ lingua }: { lingua: Lingua }) {
       <Container>
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.eyebrow}</p>
-          <h2 id="aree-titolo" className="mt-3 font-display text-[clamp(1.8rem,3vw,2.6rem)] text-balance text-ink">
+          <h2 id="aree-titolo" className="mt-3 titolo-sezione text-balance text-ink">
             {t.titolo}
           </h2>
         </Reveal>
@@ -58,7 +58,7 @@ export function EsploraAree({ lingua }: { lingua: Lingua }) {
             <li key={area.slug} className={i === aree.length - 1 ? 'col-span-2 lg:col-span-1' : ''}>
               <Link
                 href={`/aree/${area.slug}`}
-                className="group flex h-full min-h-11 flex-col overflow-hidden border-2 border-ink bg-white shadow-[4px_4px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-150 hover:shadow-[6px_6px_0_var(--color-rosso)] focus-visible:shadow-[6px_6px_0_var(--color-rosso)] motion-safe:hover:-translate-x-0.5 motion-safe:hover:-translate-y-0.5"
+                className="group flex h-full min-h-11 flex-col overflow-hidden scheda scheda-link bg-white"
               >
                 <div className="relative aspect-[16/9] w-full overflow-hidden border-b-2 border-ink bg-alpine-dark lg:aspect-[4/3]">
                   <Image

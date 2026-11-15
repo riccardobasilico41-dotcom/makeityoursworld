@@ -37,7 +37,7 @@ export const destinazioniSingapore: Destinazione[] = [
       "È la parte della città dove si mangia peggio in rapporto al prezzo: i ristoranti attorno alla baia sono pensati per chi non si sposta. Il consiglio è mangiare in un centro hawker di Chinatown o di Bugis e venire qui dopo cena.",
     comeArrivare: "Da Changi si prende la metro verde fino a Expo e lì la linea blu (Downtown) fino a Bayfront o Promenade: circa 40 minuti e 2-3 SGD (circa 2 €) pagando con la carta contactless al tornello, dalle 5:30 alle 23:30 circa. Taxi e Grab impiegano 20-30 minuti e costano circa 25-45 SGD (16-30 €), più il supplemento aeroportuale fino a 8 SGD e il 50% in più dopo mezzanotte. In città le fermate Bayfront, Marina Bay, Promenade ed Esplanade servono tutta la baia.",
     comeSpostarsi:
-      'Tutto a piedi, ma con un\'avvertenza: il caldo è serio e l\'ombra è poca. I passaggi sotterranei climatizzati che collegano i centri commerciali sono la vera rete pedonale della città e vale la pena usarli.',
+      'Tutto a piedi, ma con un\'avvertenza: il caldo è serio e l\'ombra è poca. I passaggi sotterranei climatizzati che collegano i centri commerciali sono la vera rete pedonale della città: conviene usarli.',
     periodoMigliore:
       'tutto l\'anno, meglio di sera: ci sono le luci, e di giorno l\'umidità sulla baia è pesante e l\'asfalto rimanda il calore.',
     costi: "La baia, i Supertree, gli spettacoli di luci Garden Rhapsody e Spectra e il giro a piedi sono gratuiti. Le due serre costano 46 SGD per i non residenti (circa 30 €), la OCBC Skyway 14 SGD (circa 9 €), la piattaforma del Marina Bay Sands circa 35-39 SGD (23-26 €), la National Gallery 20 SGD (circa 13 €). Budget giornaliero a Singapore: circa 70-90 € con ostello e centri hawker, 150-220 € con un albergo di fascia media in centro, oltre 350 € dormendo sulla baia.",
@@ -52,7 +52,7 @@ export const destinazioniSingapore: Destinazione[] = [
     luoghi: [
       {
         nome: "Supertree Grove di Gardens by the Bay",
-        testo: "Diciotto strutture a forma di albero alte tra 25 e 50 metri, coperte di piante e dotate di pannelli solari. Servono davvero: fanno da prese d'aria e da sfiato per il raffreddamento delle serre e raccolgono l'acqua piovana. La sera si illuminano e c'è uno spettacolo di luci gratuito.",
+        testo: "Diciotto strutture a forma di albero alte tra 25 e 50 metri, coperte di piante e dotate di pannelli solari. Hanno anche una funzione: fanno da prese d'aria e da sfiato per il raffreddamento delle serre e raccolgono l'acqua piovana. La sera si illuminano e c'è uno spettacolo di luci gratuito.",
         come: "MRT fino a Bayfront, poi un passaggio coperto che porta ai giardini. Il bosco dei Supertree si gira da soli e senza biglietto; la passerella sospesa (OCBC Skyway) si paga a parte.",
         quando: "Dopo il tramonto per lo spettacolo di luci Garden Rhapsody, ogni sera alle 19:45 e alle 20:45, circa quindici minuti; nei periodi di festa si aggiungono repliche (calendario sul sito ufficiale).",
         tempo: "1 ora e mezza",
@@ -1081,7 +1081,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Andarci nel fine settimana, quando metà Singapore è lì',
     ],
     miaEsperienza:
-      'Sentosa è la tappa su cui vale la pena essere onesti: è un\'isola di intrattenimento, con spiagge artificiali di sabbia importata che guardano una rada piena di petroliere in attesa. Chi ci va cercando il mare torna indietro perplesso. Con dei bambini, o in una giornata di pioggia, i parchi e l\'acquario sono ottimi e giustificano tutto. Per tutti gli altri, le due cose che rendono il viaggio sono altre: la funivia da Mount Faber, che passa sopra il porto e permette di vedere quante navi ci sono in rada (Singapore è uno dei porti più trafficati del mondo e dall\'alto si capisce cosa significhi), e il Fort Siloso, gratuito, con i cannoni puntati verso il mare e la storia di come la città cadde in mano giapponese nel 1942, da terra, mentre l\'artiglieria guardava dalla parte sbagliata. Per quelle due cose la mezza giornata vale.',
+      'Su Sentosa bisogna essere onesti: è un\'isola di intrattenimento, con spiagge artificiali di sabbia importata che guardano una rada piena di petroliere in attesa. Chi ci va cercando il mare torna indietro perplesso. Con dei bambini, o in una giornata di pioggia, i parchi e l\'acquario sono ottimi e giustificano tutto. Per tutti gli altri, le due cose che rendono il viaggio sono altre: la funivia da Mount Faber, che passa sopra il porto e permette di vedere quante navi ci sono in rada (Singapore è uno dei porti più trafficati del mondo e dall\'alto si capisce cosa significhi), e il Fort Siloso, gratuito, con i cannoni puntati verso il mare e la storia di come la città cadde in mano giapponese nel 1942, da terra, mentre l\'artiglieria guardava dalla parte sbagliata. Per quelle due cose la mezza giornata vale.',
     luoghi: [
       {
         nome: "Fort Siloso",

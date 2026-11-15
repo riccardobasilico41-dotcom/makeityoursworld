@@ -6,6 +6,7 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     paeseSlug: 'repubblica-ceca',
     destinazioneSlug: 'praga',
     nome: 'Prague Castle Visitor Route and St. Vitus Cathedral',
+    titoloBreve: 'Prague Castle and St. Vitus Cathedral',
     localita: 'Hradčany, Castle hill, Prague',
     cosE:
       "\"Circuit A\" (Main Visitor Route) is the ticket that covers the main attractions of the complex: the interior of St. Vitus Cathedral, the Old Royal Palace, St. George's Basilica and Golden Lane with the Daliborka Tower. The Castle courtyards and the outer nave of the Cathedral remain free; the ticket is only for the interior rooms.",

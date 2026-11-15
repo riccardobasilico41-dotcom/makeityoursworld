@@ -814,7 +814,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       },
       {
         "nome": "Central de Abastos",
-        "testo": "The city's wholesale market, huge and chaotic, where producers from the surrounding villages arrive. It is the most authentic place to see what Oaxaca eats, from dried chiles to handmade tortillas.",
+        "testo": "The city's wholesale market, huge and chaotic, where producers from the surrounding villages arrive. It is the place to see what Oaxaca eats every day, from dried chiles to handmade tortillas.",
         "come": "Taxi or on foot from the centre, about 20 minutes south-west.",
         "quando": "Morning.",
         "tempo": "1-2 hours",

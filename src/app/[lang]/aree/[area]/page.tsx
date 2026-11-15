@@ -146,7 +146,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
 
       <section aria-labelledby="paesi-titolo" className="sezione">
         <Container>
-          <h2 id="paesi-titolo" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
+          <h2 id="paesi-titolo" className="titolo-sezione text-alpine">
             {t.paesi}
           </h2>
           <ul className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -154,7 +154,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
               <li key={paese.slug}>
                 <Link
                   href={`/destinazioni/${paese.slug}`}
-                  className="group flex h-full flex-col overflow-hidden border border-alpine/10 bg-white transition-colors duration-150 hover:border-ink"
+                  className="group flex h-full flex-col overflow-hidden scheda-lista"
                 >
                   {paese.heroImage && (
                     <div className="relative aspect-[16/10] overflow-hidden bg-cream-dark">
@@ -169,7 +169,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
                   )}
                   <div className="flex flex-1 flex-col gap-2 p-6">
                     <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-rosso">{t.nDest(destinazioni.length)}</p>
-                    <h3 className="font-display text-xl text-alpine">{paese.nome}</h3>
+                    <h3 className="titolo-scheda text-alpine">{paese.nome}</h3>
                     <p className="line-clamp-3 text-sm leading-relaxed text-stone">{paese.descrizione}</p>
                     <span className="mt-auto inline-flex items-center gap-1.5 pt-2 text-sm font-medium text-rosso">
                       {t.esplora}
@@ -197,7 +197,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
 
       <section aria-labelledby="tutte-titolo" className="border-t border-alpine/10 bg-cream-dark/30 sezione">
         <Container>
-          <h2 id="tutte-titolo" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
+          <h2 id="tutte-titolo" className="titolo-sezione text-alpine">
             {t.tutte}
           </h2>
           {/* indice rapido per Paese: con molte destinazioni la pagina è lunga */}
@@ -220,7 +220,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
               .map(({ paese, destinazioni }) => (
                 <div key={paese.slug} id={`paese-${paese.slug}`} className="scroll-mt-24">
                   <div className="flex flex-wrap items-baseline justify-between gap-3 border-b border-alpine/15 pb-3">
-                    <h3 className="font-display text-2xl text-alpine">{paese.nome}</h3>
+                    <h3 className="titolo-scheda text-alpine">{paese.nome}</h3>
                     <Link href={`/destinazioni/${paese.slug}`} aria-label={`${t.vediPaese}: ${paese.nome}`} className="-my-3 inline-flex min-h-11 items-center text-sm font-semibold text-rosso underline-offset-4 hover:underline">
                       {t.vediPaese} <span aria-hidden="true">&nbsp;→</span>
                     </Link>

@@ -826,7 +826,7 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "By car along the main road.",
         "quando": "Afternoon.",
         "tempo": "Half a day",
-        "consiglio": "Leaving the most beaten routes is worth it: Tamnougalt shows it."
+        "consiglio": "Tamnougalt is a good reason to leave the most beaten routes."
       },
       {
         "nome": "Zagora and the 'Timbuktu 52 days' sign",
@@ -1776,7 +1776,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         domanda: "Fez or Marrakech?",
-        risposta: "Fez has the oldest and most authentic medina, with fewer tourists and more craftsmen at work; Marrakech has more monuments to visit, gardens and nightlife. With time, see both, on two different itineraries.",
+        risposta: "Fez has the oldest and most lived-in medina, with fewer tourists and more craftsmen at work; Marrakech has more monuments to visit, gardens and nightlife. With time, see both, on two different itineraries.",
       },
       {
         domanda: "How do you get to a riad in the medina?",

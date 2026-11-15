@@ -21,13 +21,13 @@ export function RelatedContent({
 
   return (
     <div className={className}>
-      <h2 className="font-display text-xl text-alpine">{titolo}</h2>
-      <div className="mt-4 grid gap-3 sm:grid-cols-2">
+      <h2 className="titolo-scheda text-alpine">{titolo}</h2>
+      <div className="mt-4 grid gap-3 sm:grid-cols-[repeat(auto-fit,minmax(14rem,1fr))]">
         {items.map((item) => (
           <Link
             key={item.href}
             href={item.href}
-            className="group flex items-start justify-between gap-3 rounded-none border border-alpine/10 bg-white p-4 transition-colors hover:border-alpine/30"
+            className="group flex items-start justify-between gap-3 scheda-lista p-4"
           >
             <div>
               <p className="text-[0.65rem] font-semibold uppercase tracking-wider text-rosso">{item.eyebrow}</p>

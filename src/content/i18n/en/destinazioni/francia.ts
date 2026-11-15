@@ -12,7 +12,7 @@ export const destinazioniFrancia: Destinazione[] = [
     introduzione:
       "A hundred and twenty kilometers of coastline between Cassis and Menton. One after another you get a city of half a million people that UNESCO recognized for having invented the seaside holiday, the Mediterranean's most important marina, three Picasso museums, one of Europe's leading modern art foundations and an Alpine national park an hour and a half from the beach. It is also the part of France that suffers most from its own fame: in July and August the coast is one long traffic jam and prices bear no relation to anything.",
     percheAndarci:
-      "No other Mediterranean coast has so many different things twenty minutes from one another, and it is one of the few places in the world where in February you can ski in the morning and sit in the sun by the sea in the afternoon. The version worth going for is the one in May, in October and, surprisingly, in January. The August one, much less so.",
+      "No other Mediterranean coast has so many different things twenty minutes from one another, and it is one of the few places in the world where in February you can ski in the morning and sit in the sun by the sea in the afternoon. The best months are May, October and, surprisingly, January. August much less so.",
     cosaVedere: [
       "**Antibes**: the old town inside the ramparts, the **Marché Provençal** in the morning on the Cours Masséna, the **Musée Picasso** in the Château Grimaldi, where Picasso worked in the autumn of 1946, and **Port Vauban**, the largest port in the Mediterranean by tonnage, with the quay of enormous yachts",
       "**Cap d'Antibes** and the coastal path that goes around its tip: free, on the sea, and almost nobody does it",
@@ -595,7 +595,7 @@ export const destinazioniFrancia: Destinazione[] = [
       "Not checking closing days: **the Louvre closes on Tuesday, Orsay on Monday, Versailles on Monday**, and on Tuesday the crowd pours onto Orsay and Versailles",
       "Putting the **Centre Pompidou** on the plan without checking: it has entered a long closure for renovation and reopening is expected at the end of the decade",
       "Going up the Eiffel Tower to see Paris: from up there the view is missing precisely the tower",
-      "Stopping at Place du Tertre, the least authentic part of Montmartre, two hundred meters from streets where there is nobody",
+      "Stopping at Place du Tertre, the most touristy part of Montmartre, two hundred meters from streets where there is nobody",
       "Sitting at a table for a quick coffee: at the counter it costs about half, and the two prices are posted by law",
       "Underestimating distances: the metro map compresses everything, and Paris is ten kilometers wide",
     ],
@@ -2151,7 +2151,7 @@ export const destinazioniFrancia: Destinazione[] = [
     erroriDaEvitare: [
       "**Showing up at the big châteaux without an appointment.** The well-known names are booked weeks in advance, and many don't receive the public",
       "Driving after tasting. Spitting is the norm; anyone who doesn't want to should book a guided excursion",
-      "Doing only the big names: the satellite appellations around Saint-Émilion and the less classified areas offer more authentic visits and cost a fraction",
+      "Doing only the big names: the satellite appellations around Saint-Émilion and the less classified areas offer more personal visits and cost a fraction",
       "Going to Saint-Émilion only for the tasting: **the monolithic church and the catacombs can be visited only on a guided tour booked at the tourist office**, and they are the reason the town is a UNESCO site",
       "Underestimating the Dune du Pilat: you climb on steep sand, and in summer the sand burns",
       "Swimming in the ocean without finding out first: **on the Atlantic coast rip currents are dangerous**, and the supervised beaches have a marked perimeter to respect",

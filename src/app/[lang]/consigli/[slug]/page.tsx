@@ -103,7 +103,7 @@ export default async function ConsiglioPage({ params }: { params: Promise<{ lang
           </div>
           {viaggi.length > 0 && (
             <div className="mt-16">
-              <h2 className="font-display text-2xl text-ink">{t.viaggi}</h2>
+              <h2 className="titolo-sezione text-ink">{t.viaggi}</h2>
               <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {viaggi.map((v) => (
                   <ProssimaScheda key={v.slug} viaggio={v} />

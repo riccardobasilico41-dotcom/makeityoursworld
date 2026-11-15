@@ -49,7 +49,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     confronti: [
       {
-        titolo: 'Los programas de stopover de las compañías del Golfo: cómo funcionan de verdad',
+        titolo: 'Los programas de stopover de las compañías del Golfo: cómo funcionan en detalle',
         introduzione:
           "Todas las grandes compañías del Golfo tienen un programa para convencerte de que te quedes en su hub en lugar de cambiar de avión en dos horas, pero funcionan de maneras muy distintas. La diferencia que cuenta es una: algunos son una compensación por una escala larga que te toca sufrir, otros son productos comerciales que eliges. Confundirlos es la forma más rápida de esperar un hotel gratis y no tenerlo.",
         opzioni: [
@@ -564,7 +564,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Mercado de pescado de Mina Zayed",
-        "testo": "El mercado de pescado del puerto de Mina Zayed, todavía abierto y uno de los rincones más auténticos de la ciudad, junto a los otros mercados históricos de la zona. Se ve el pescado fresco del Golfo recién desembarcado.",
+        "testo": "El mercado de pescado del puerto de Mina Zayed, todavía abierto y uno de los rincones menos turísticos de la ciudad, junto a los otros mercados históricos de la zona. Se ve el pescado fresco del Golfo recién desembarcado.",
         "come": "Taxi desde el centro.",
         "quando": "A primera hora de la mañana o a última hora de la tarde.",
         "tempo": "1 hora",
@@ -739,7 +739,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Jebel Hafeet, la montaña con la carretera panorámica y la vista del oasis",
     ],
     cosaFare: [
-      "Una noche en el desierto en Liwa, mucho más auténtica que los safaris nocturnos de los alrededores de Dubái",
+      "Una noche en el desierto en Liwa, mucho menos turística que los safaris nocturnos de los alrededores de Dubái",
       "El amanecer sobre las dunas de Moreeb",
       "Caminar por el oasis de Al Ain a lo largo de los canales de riego, a la sombra de las palmeras",
       "Subir en coche al Jebel Hafeet, entre curvas, hasta el mirador de la cima",
@@ -747,7 +747,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     doveDormire:
       "En Liwa hay pocos resorts en el desierto, caros y que hay que reservar con antelación; Al Ain tiene la oferta normal de una ciudad. Casi todos llegan desde Abu Dabi en el día, y es la elección que hace perder la mejor parte: la noche.",
     doveMangiare:
-      "Fuera de los resorts están los restaurantes de barrio, casi todos indios o paquistaníes, buenos y económicos. En Al Ain vale la pena buscar los dátiles locales, el producto agrícola del oasis, que se venden en los mercados especializados.",
+      "Fuera de los resorts están los restaurantes de barrio, casi todos indios o paquistaníes, buenos y económicos. En Al Ain conviene buscar los dátiles locales, el producto agrícola del oasis, que se venden en los mercados especializados.",
     comeArrivare:
       "Desde Abu Dabi son unas 2 horas de carretera hasta Liwa y 1 h 30 hasta Al Ain. Hace falta un coche de alquiler o un traslado: hay transporte público, pero es poco práctico, y para las dunas hace falta de todos modos un 4x4 con guía.",
     comeSpostarsi: "Con coche propio por las carreteras asfaltadas; por las dunas solo en 4x4 con un conductor experto. Quien conduce sobre la arena sin experiencia suele quedarse atascado.",

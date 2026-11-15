@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Los Dolomitas son patrimonio de la UNESCO desde 2009, y la motivación oficial no habla de belleza: habla de geología. Son barreras de coral de un mar tropical de hace doscientos cincuenta millones de años, elevadas, resquebrajadas y que han quedado en pie como paredes verticales que conservan la estratificación a la vista. Son también, técnicamente, nueve sistemas montañosos separados repartidos en tres provincias (Bolzano, Trento, Belluno), y este es el punto que la mayoría de las guías se salta: los Dolomitas no son un lugar, son un archipiélago de lugares que se parecen en la sustancia de la roca y son completamente distintos en la atmósfera, en el precio y en la cantidad de gente.
+Los Dolomitas son patrimonio de la UNESCO desde 2009, y la motivación oficial es la geología, no el paisaje. Son barreras de coral de un mar tropical de hace doscientos cincuenta millones de años, elevadas, resquebrajadas y que han quedado en pie como paredes verticales que conservan la estratificación a la vista. Son también, técnicamente, nueve sistemas montañosos separados repartidos en tres provincias (Bolzano, Trento, Belluno), y este es el punto que la mayoría de las guías se salta: los Dolomitas son un archipiélago de lugares que se parecen en la sustancia de la roca y son completamente distintos en la atmósfera, en el precio y en la cantidad de gente.
 
 Por eso aquí abajo no encontrarás un itinerario por días fijos. Encontrarás diez zonas tratadas como lugares independientes, cada una con lo que hay que saber para decidir si y cuándo incluirla en el propio recorrido, más tres propuestas de roadtrip ya armadas para quien solo quiera un punto de partida. El roadtrip en coche es el formato que más sentido tiene aquí: las zonas están cerca en línea recta pero separadas por puertos de montaña, y pasar de una a otra ya forma parte de la experiencia: o del problema, si te toca en la hora equivocada de agosto.
 
@@ -101,7 +101,7 @@ Las propuestas más exigentes de esta guía, con desnivel y dificultad indicados
 - **Vuelta al Sella a pie (Sella Ronda de senderismo)**: varios días, etapas de 5-6 horas cada una con 600-900 metros de desnivel, para quien quiere hacer el circuito de los cuatro puertos caminando en vez de en coche.
 - **Ferrata hacia la Marmolada (vertiente Ferrata Ivano Dibona o similares en los grupos cercanos)**: dura, fuerte exposición, reservada a quien ya tiene experiencia de ferrata y que la primera vez debe hacerse con un guía de montaña.
 
-**La primera vez en una ferrata se va con un guía de montaña.** Es la causa más frecuente de llamada al rescate alpino en los Dolomitas, y no es un consejo de manual: es lo que dicen los guardas de refugio a cualquiera que llegue sin el kit adecuado.
+**La primera vez en una ferrata se va con un guía de montaña.** Es la causa más frecuente de llamada al rescate alpino en los Dolomitas, y los guardas de refugio lo repiten a cualquiera que llegue sin el kit adecuado.
 
 ### Para quien busca el panorama sin sufrir
 ![El panorama del Alpe di Siusi con los Dolomitas al fondo](/images/viaggi/dolomiti-roadtrip/alpe-di-siusi.jpg)
@@ -120,7 +120,7 @@ Los Dolomitas en invierno son un mundo distinto del estival, con un público en 
 
 **Raquetas de nieve y paseos invernales:** el Alpe di Siusi y el Valle de Braies, que en verano sufren por exceso de gente, en invierno se convierten en recorridos silenciosos para raquetas de nieve. El lago helado de Braies, en particular, es un espectáculo distinto del veraniego, a menudo con mucha menos gente.
 
-**Mercadillos de Navidad:** Brunico y Vipiteno tienen mercadillos de Navidad de los más auténticos del Tirol del Sur, menos escenográficos que los de Bolzano pero también menos concurridos.
+**Mercadillos de Navidad:** Brunico y Vipiteno tienen mercadillos de Navidad de los más tradicionales del Tirol del Sur, menos escenográficos que los de Bolzano pero también menos concurridos.
 
 **Escalada en hielo y cascadas heladas:** actividad de nicho pero en crecimiento, sobre todo en el Val Pusteria y el Val Gardena, para quien busca algo distinto del esquí.
 

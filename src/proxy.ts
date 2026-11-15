@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from 'next/server'
-import { canonico, localizza } from '@/lib/i18n/percorsi'
+import { canonico, localizza, schedaInesistente } from '@/lib/i18n/percorsi'
 import { LINGUE_PUBBLICATE, SEGMENTI, isLingua } from '@/lib/i18n/config'
 import { VECCHI_SLUG_VIAGGI } from '@/lib/vecchi-slug'
 import { HEADER_LINGUA } from '@/lib/i18n/lingua-header'
@@ -17,6 +17,9 @@ import { HEADER_LINGUA } from '@/lib/i18n/lingua-header'
 
 // parole italiane del primo segmento che in inglese cambiano: senza prefisso sono vecchi indirizzi italiani
 const VECCHI_IT = new Set(Object.keys(SEGMENTI.en).filter((k) => SEGMENTI.en[k] !== k))
+
+/** Segmento interno senza rotta: chi ci viene riscritto riceve la 404 globale. */
+const NON_TROVATA = '_pagina-non-trovata'
 
 export function proxy(request: NextRequest) {
   const url = request.nextUrl
@@ -61,7 +64,9 @@ export function proxy(request: NextRequest) {
     url.pathname = localizza(`/viaggi/${VECCHI_SLUG_VIAGGI[vecchio]}`, lingua)
     return NextResponse.redirect(url, 308)
   }
-  url.pathname = `/${lingua}${percorso === '/' ? '' : percorso}`
+  // scheda di destinazione o esperienza sconosciuta: a un indirizzo senza rotta, cioè alla 404 globale
+  // (global-not-found.tsx, completa sul server e col selettore della lingua) invece che a notFound()
+  url.pathname = schedaInesistente(percorso) ? `/${lingua}/${NON_TROVATA}` : `/${lingua}${percorso === '/' ? '' : percorso}`
   // la lingua viaggia anche in un header: la 404 globale (global-not-found.tsx) sta fuori da app/[lang]
   // e senza questo non saprebbe in che lingua rispondere a /it/pagina-inesistente
   const headers = new Headers(request.headers)

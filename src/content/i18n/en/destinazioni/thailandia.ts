@@ -339,7 +339,7 @@ export const destinazioniThailandia: Destinazione[] = [
       'Counting on the Maeklong train at a fixed time without checking that day\'s passages',
     ],
     miaEsperienza:
-      "The floating market and the train market are very touristy, with inflated prices compared with any local market. On a first time in Thailand, though, they are worth doing: they are curious glimpses, and the train brushing the stalls is still fun.",
+      "The floating market and the train market are very touristy, with inflated prices compared with any local market. On a first time in Thailand, though, they are good to do: they are curious glimpses, and the train brushing the stalls is still fun.",
     luoghi: [
       {
         nome: "Floating market",
@@ -357,7 +357,7 @@ export const destinazioniThailandia: Destinazione[] = [
         tempo: "1 hour",
         lat: 13.40773,
         lng: 100.0009,
-        consiglio: "The train brushing past the stalls is still fun, even if it is very touristy. Stay behind the line the vendors mark: it really passes a few centimetres away.",
+        consiglio: "The train brushing past the stalls is still fun, even if it is very touristy. Stay behind the line the vendors mark: it passes a few centimetres away.",
       },
       {
         nome: "Night markets",
@@ -608,7 +608,7 @@ export const destinazioniThailandia: Destinazione[] = [
         lat: 12.19748,
         lng: 100.01128,
         url: "https://www.dnp.go.th/",
-        consiglio: "One of the best surprises of the stretch; for the light it is worth being there in the morning. Closed shoes: in the rainy season the trail is slippery.",
+        consiglio: "One of the best surprises of the stretch; for the light it is better to arrive in the morning. Closed shoes: in the rainy season the trail is slippery.",
       },
       {
         nome: "Kui Buri National Park",
@@ -986,8 +986,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['mare', 'avventura'],
     giorniConsigliati: '3 days',
     visitataPersonalmente: true,
-    introduzione: "Railay Beach, Bond Island and the canoe trip in Phang Nga Bay: to explore the Andaman Sea it is a more authentic base than Phuket.",
-    percheAndarci: "It is more authentic than Phuket, and some of the most beautiful excursions in southern Thailand leave from here.",
+    introduzione: "Railay Beach, Bond Island and the canoe trip in Phang Nga Bay: to explore the Andaman Sea it is a less touristy base than Phuket.",
+    percheAndarci: "It is less built up than Phuket, and some of the most beautiful excursions in southern Thailand leave from here.",
     cosaVedere: ['Railay Beach and Phra Nang Beach', 'Koh Ta Poo (Bond Island) and Koh Ping Gun', 'The fishing village of Koh Panyee'],
     cosaFare: [
       'Boat to Railay Beach and walk to Phra Nang Beach',
@@ -1670,7 +1670,7 @@ export const destinazioniThailandia: Destinazione[] = [
       { nome: "Nimman cafes", testo: "Specialty coffee shops." },
     ],
     attenzioni: [
-      "Booking an elephant sanctuary without checking that it is really ethical: not all of them are.",
+      "Booking an elephant sanctuary without checking that it is ethical: not all of them are.",
       "Temple dress code.",
       "Songthaew: agree on the price.",
     ],

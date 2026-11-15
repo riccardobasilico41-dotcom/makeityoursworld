@@ -115,8 +115,8 @@ If your flight is in the evening, do the temples in the morning, starting early 
 **In practice:** check-out with luggage storage at the hotel · temples with shoulders and knees covered · Chatuchak only at the weekend · Airport Rail Link for Suvarnabhumi, Grab or taxi for Don Mueang · leave for the airport at least three hours ahead.
 
 ## Bangkok: the rooftop bars
-Bangkok is probably the world capital of rooftop bars: it is worth
-choosing at least a couple for different evenings:
+Bangkok is probably the world capital of rooftop bars, and it pays to
+choose at least a couple for different evenings:
 - **Vertigo & Moon Bar** (Banyan Tree): one of the most iconic, open-air,
   spectacular at sunset.
 - **Lebua at State Tower**: where a scene from *The Hangover Part II*
@@ -165,7 +165,7 @@ of the photos is largely staged for the occasion. That said,
 doing**: they are curious, photogenic glimpses, the
 train passing a hand's breadth from the goods is really fun, and in half a day
 you satisfy the curiosity without sacrificing too much time from the rest of the
-itinerary. Those looking instead for a more authentic Thai market experience
+itinerary. Those who want a Thai market used by local people
 would do better to aim for a local neighborhood market in
 Bangkok itself (e.g. Khlong Toei) or the evening markets of Chiang Mai.
 
@@ -221,7 +221,7 @@ a restaurant:
   genuine street food at lunch.
 
 ## Bangkok: nightlife
-Bangkok at night has very different faces: it is worth knowing what
+Bangkok at night has very different faces, and it helps to know what
 to expect from each before choosing where to go:
 - **Khao San Road**: the historic headquarters of backpackers: open-air
   bars, music everywhere, street food, vendors of everything. Chaotic,
@@ -293,7 +293,7 @@ and when:
 | **Andaman Sea** (west) | Phuket, Krabi, Koh Phi Phi, Similan, Khao Lak | November-April | May-October (southwest monsoon) |
 | **Gulf of Thailand** (east) | Koh Samui, Koh Phangan, Koh Tao | January-April and July-September | October-December (northeast monsoon) |
 
-In practice: **when it rains on the Andaman, the Gulf is often sunny, and
+**When it rains on the Andaman, the Gulf is often sunny, and
 vice versa**. If you travel in the height of the European summer (July-August), the
 Gulf islands (Samui, Phangan, Tao) remain a safer bet;
 if you travel between December and March, you can choose freely because
@@ -305,7 +305,7 @@ tourist season on all the islands.
   (Patong for nightlife, Kata/Karon for a quieter mix) and
   a good international airport: the most convenient base from which to leave on
   boat trips to Phi Phi, the Similan Islands or the smaller islands.
-- **Krabi**: more authentic than Phuket, starting point for Railay Beach,
+- **Krabi**: less touristy than Phuket, starting point for Railay Beach,
   Bond Island and the canoe tours in Phang Nga Bay (see Day 7
   of the itinerary above).
 - **Koh Phi Phi**: the most photographed island on this coast, made
@@ -363,7 +363,7 @@ became over the years one of the largest beach parties in the world: between
 - **Getting there:** if you stay elsewhere on the island, songthaews (shared
   taxis) connect all of Koh Phangan with Haad Rin all night long; if
   you come from Koh Samui, the last useful ferry leaves in the late
-  afternoon and the first one the next morning is around 6:00: in practice,
+  afternoon and the first one the next morning is around 6:00, so
   **it is best to sleep on Koh Phangan on the night of the party**, not go
   back and forth in a day from Samui.
 - **When to go:** dates are published a year ahead on the

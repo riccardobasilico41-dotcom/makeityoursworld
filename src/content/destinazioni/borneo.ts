@@ -199,7 +199,7 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         titolo: 'Dove vedere gli oranghi: Borneo o Sumatra',
         introduzione:
-          'Gli oranghi selvatici vivono solo su due isole al mondo, il Borneo e Sumatra, e sono due specie diverse; tre, contando il tapanuli, descritto da pochi anni e con pochissimi individui. È la scelta che cambia il viaggio più di ogni altra, perché nei luoghi principali probabilità di avvistamento, costi e autenticità sono completamente diversi. In generale, più l\'incontro è selvatico, meno è garantito e più costa arrivarci.',
+          'Gli oranghi selvatici vivono solo su due isole al mondo, il Borneo e Sumatra, e sono due specie diverse; tre, contando il tapanuli, descritto da pochi anni e con pochissimi individui. È la scelta che cambia il viaggio più di ogni altra, perché nei luoghi principali probabilità di avvistamento, costi e libertà degli animali sono completamente diversi. In generale, più l\'incontro è selvatico, meno è garantito e più costa arrivarci.',
         opzioni: [
           {
             nome: 'Sepilok (Sabah)',
@@ -234,7 +234,7 @@ export const destinazioniBorneo: Destinazione[] = [
               'La fascia di foresta è stretta proprio perché intorno c\'è la palma da olio; è anche il motivo per cui gli animali si concentrano lì, e fa riflettere',
               'Zanzare e caldo pesanti nelle uscite serali',
             ],
-            perChi: 'Chiunque abbia almeno due notti: è la scelta con il miglior equilibrio tra autenticità e riuscita.',
+            perChi: 'Chiunque abbia almeno due notti: è la scelta con il miglior equilibrio tra animali in libertà e probabilità di vederli.',
           },
           {
             nome: 'Danum Valley (Sabah)',

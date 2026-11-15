@@ -106,7 +106,7 @@ A day in one of the canal towns around Shanghai. **Zhujiajiao** is reached by me
 **In practice:** Zhujiajiao by metro line 17 from Shanghai, free entry to the town and tickets for individual sites · Wuzhen and Nanxun by bus or car from Shanghai in about an hour and a half to two · for Wuzhen West an entrance ticket, more expensive with the evening visit · at weekends and on holidays all the towns are crowded.
 
 ### Day 11 — To Hong Kong
-**High-speed train Shanghai-Hong Kong West Kowloon (about 8 hours)** or a flight from Shanghai (2h30). On paper the train is fascinating; in practice, over this distance, the flight saves half a day. Either way you cross a **real border**, with passport control leaving mainland China and entering Hong Kong. Italians enter without a visa for 90 days.
+**High-speed train Shanghai-Hong Kong West Kowloon (about 8 hours)** or a flight from Shanghai (2h30). On paper the train is fascinating, but over this distance the flight saves half a day. Either way you cross a **real border**, with passport control leaving mainland China and entering Hong Kong. Italians enter without a visa for 90 days.
 
 *Hong Kong has different rules from the mainland: Western apps and websites work without a VPN, you pay with an Octopus card or by card, and the currency is the Hong Kong dollar.* We spent the first evening on the **Tsim Sha Tsui** waterfront, with the island skyline opposite, and had our first taste of cha chaan teng, local diners serving hybrid Anglo-Cantonese food for a few dollars. At eight in the evening the light show on the skyscrapers can be watched from the waterfront, free.
 

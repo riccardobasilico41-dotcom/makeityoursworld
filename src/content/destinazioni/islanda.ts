@@ -744,7 +744,7 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     attenzioni: [
       "Reynisfjara: onde anomale, restare lontani dall'acqua.",
-      "Sul ghiacciaio andare solo con guide autorizzate: ramponi e piccozza servono davvero.",
+      "Sul ghiacciaio andare solo con guide autorizzate: ramponi e piccozza sono indispensabili.",
       "Controllare il vento prima di partire: raffiche forti possono rovinare le portiere dell'auto, danno non coperto dall'assicurazione base."
     ],
     zone: [
@@ -1196,7 +1196,7 @@ export const destinazioniIslanda: Destinazione[] = [
       { nome: "Stuðlagil", distanza: "circa un'ora d'auto", come: "In auto verso nord-ovest, ultimo tratto su sterrato.", testo: "Il canyon di colonne di basalto e acqua turchese, prima tappa naturale verso Dettifoss e Ásbyrgi." },
     ],
     faq: [
-      { domanda: "Quanto tempo serve per i fiordi dell'Est?", risposta: "Da Höfn a Egilsstaðir sono circa 250 km: sulla carta tre o quattro ore, in pratica cinque o sei con le soste. Conviene dedicarci una giornata intera senza altri programmi." },
+      { domanda: "Quanto tempo serve per i fiordi dell'Est?", risposta: "Da Höfn a Egilsstaðir sono circa 250 km: sulla carta tre o quattro ore, nella realtà cinque o sei con le soste. Conviene dedicarci una giornata intera senza altri programmi." },
       { domanda: "I Vök Baths vanno prenotati?", risposta: "Conviene, soprattutto d'estate e nel tardo pomeriggio: l'ingresso è a fasce orarie con posti limitati. Il biglietto adulti costa 7.690 ISK." },
       { domanda: "Vale la deviazione per Seyðisfjörður?", risposta: "Sì, se il passo Fjarðarheiði è aperto: sono 27 km con cascate lungo la strada e un paese di fiordo tra i più belli dell'isola. Da autunno a primavera la neve può chiudere il passo." },
       { domanda: "Si può prendere la scorciatoia di Öxi?", risposta: "D'estate sì, con un'auto normale e prudenza: è sterrata e ripida. Da autunno a primavera chiude spesso per neve o nebbia; lo stato si controlla su road.is." },
@@ -2191,7 +2191,7 @@ export const destinazioniIslanda: Destinazione[] = [
         risposta: "La Blue Lagoon è vicina all'aeroporto e comoda all'arrivo o alla partenza; la Sky Lagoon è a un quarto d'ora dal centro e guarda l'oceano. Tutte e due si prenotano online.",
       },
       {
-        domanda: "Le piscine comunali valgono la pena?",
+        domanda: "Conviene andare alle piscine comunali?",
         risposta: "Sì: costano 1.500 ISK e sono il modo più islandese di passare la sera. Prima di entrare c'è la doccia senza costume, ed è obbligatoria.",
       },
       {

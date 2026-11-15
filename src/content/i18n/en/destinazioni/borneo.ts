@@ -195,7 +195,7 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         titolo: 'Where to see orangutans: Borneo or Sumatra',
         introduzione:
-          "Wild orangutans live on only two islands in the world, Borneo and Sumatra, and they are two different species; three, counting the Tapanuli, described only recently and with very few individuals. It's the choice that changes the trip more than any other, because at the main sites sighting odds, costs and authenticity are completely different. In general, the wilder the encounter, the less guaranteed it is and the more it costs to get there.",
+          "Wild orangutans live on only two islands in the world, Borneo and Sumatra, and they are two different species; three, counting the Tapanuli, described only recently and with very few individuals. It's the choice that changes the trip more than any other, because at the main sites sighting odds, costs and how wild the animals are change completely. In general, the wilder the encounter, the less guaranteed it is and the more it costs to get there.",
         opzioni: [
           {
             nome: 'Sepilok (Sabah)',
@@ -230,7 +230,7 @@ export const destinazioniBorneo: Destinazione[] = [
               "The strip of forest is narrow precisely because oil palm surrounds it; it's also why the animals concentrate there, and it gives you pause",
               'Heavy mosquitoes and heat on the evening outings',
             ],
-            perChi: 'Anyone with at least two nights: it is the choice with the best balance between authenticity and success.',
+            perChi: 'Anyone with at least two nights: it is the choice with the best balance between wild animals and the odds of seeing them.',
           },
           {
             nome: 'Danum Valley (Sabah)',

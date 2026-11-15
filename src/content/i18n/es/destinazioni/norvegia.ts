@@ -815,7 +815,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Canal y puerto",
-        testo: "El pueblo se extiende sobre pequeñas islas unidas por puentes, con casas de madera de colores y viejos almacenes de pescado. El aire de pequeña Venecia existe de verdad junto al canal.",
+        testo: "El pueblo se extiende sobre pequeñas islas unidas por puentes, con casas de madera de colores y viejos almacenes de pescado. Junto al canal se nota el aire de pequeña Venecia.",
         come: "A pie desde el aparcamiento.",
         quando: "Mañana, antes de los grupos.",
         tempo: "1-2 horas",
@@ -1016,7 +1016,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveMangiare: 'En Reine no anoté restaurantes: el Coop Prix del pueblo es cómodo para organizar un picnic antes de las excursiones.',
     comeArrivare: "Desde Svolvær vía Leknes (con parada en el Viking Museum de Borg), unos 55 minutos en coche desde Svolvær hasta Borg, luego otros 20-30 minutos hasta Reine. Desde Bodø está el ferry a Moskenes, a pocos minutos de Reine: unas 3 horas y cuarto de travesía, el coche paga alrededor de 600 NOK más la reserva de plaza (en verano, en la web de Torghatten Nord), los pasajeros viajan gratis; conviene llegar al puerto 40 minutos antes. Desde Svolvær son 121 km por la E10, unas 2 horas y 10 minutos sin paradas.",
     comeSpostarsi: 'Aparcamiento de pago en el pueblo (200 NOK/3 h).',
-    periodoMigliore: 'El Reinebringen solo vale la pena con el cielo despejado: consultar las previsiones antes de programar el día.',
+    periodoMigliore: 'El Reinebringen solo tiene sentido con el cielo despejado: consultar las previsiones antes de programar el día.',
     costi: "Aparcamiento 200 NOK/3 h. Las escaleras del Reinebringen son gratis. Referencias 2026: Lofotr 210 NOK fuera de temporada, museo de Å 125 NOK. Orientativamente, por persona y día: 80-120 € en camping o cabaña con compra en el supermercado; 200-280 € con un rorbu para dos y una cena fuera; más de 350 € con rorbuer cuidados y restaurante cada noche.",
     erroriDaEvitare: [
       'El Reinebringen requiere un mínimo de entrenamiento por el desnivel; si el cielo está cubierto, mejor aplazarlo, porque la vista lo es todo',

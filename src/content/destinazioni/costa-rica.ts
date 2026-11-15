@@ -706,7 +706,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     tipologia: ['natura', 'vulcani'],
     giorniConsigliati: '1 giorno',
     visitataPersonalmente: true,
-    introduzione: 'Il vulcano Arenal, la Cascada de La Fortuna e le sorgenti termali gratuite di El Chollín, molto più autentiche delle terme a pagamento "da cartolina".',
+    introduzione: 'Il vulcano Arenal, la Cascada de La Fortuna e le sorgenti termali gratuite di El Chollín, in un tratto di fiume naturale, molto meno costruite delle terme a pagamento "da cartolina".',
     percheAndarci: 'Per le sorgenti termali gratuite di El Chollín, uno dei momenti più belli e meno "da cartolina" di tutto il viaggio.',
     cosaVedere: ['Il vulcano Arenal', 'La Cascada de La Fortuna', 'Le sorgenti termali di El Chollín'],
     cosaFare: [

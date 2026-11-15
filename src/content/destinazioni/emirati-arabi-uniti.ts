@@ -54,7 +54,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     confronti: [
       {
-        titolo: 'I programmi stopover delle compagnie del Golfo: come funzionano davvero',
+        titolo: 'I programmi stopover delle compagnie del Golfo: come funzionano nel dettaglio',
         introduzione:
           'Tutte le grandi compagnie del Golfo hanno un programma per convincerti a fermarti nel loro hub invece di cambiare aereo in due ore, ma funzionano in modi molto diversi. La differenza che conta è una: alcuni sono una compensazione per uno scalo lungo che subisci, altri sono prodotti commerciali che scegli. Confonderli è il modo più rapido per aspettarsi un hotel gratis e non averlo.',
         opzioni: [
@@ -569,7 +569,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Mercato del pesce di Mina Zayed",
-        "testo": "Il mercato del pesce del porto di Mina Zayed, ancora aperto e tra i più autentici della città, accanto agli altri mercati storici della zona. Si vede il pesce fresco del Golfo appena sbarcato.",
+        "testo": "Il mercato del pesce del porto di Mina Zayed, ancora aperto e tra i meno turistici della città, accanto agli altri mercati storici della zona. Si vede il pesce fresco del Golfo appena sbarcato.",
         "come": "Taxi dal centro.",
         "quando": "Mattina presto o tardo pomeriggio.",
         "tempo": "1 ora",
@@ -744,7 +744,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       'Jebel Hafeet, la montagna con la strada panoramica e la vista sull\'oasi',
     ],
     cosaFare: [
-      'Una notte nel deserto a Liwa, molto più autentica dei safari serali intorno a Dubai',
+      'Una notte nel deserto a Liwa, molto meno turistica dei safari serali intorno a Dubai',
       'L\'alba sulle dune di Moreeb',
       'Camminare nell\'oasi di Al Ain lungo i canali di irrigazione, all\'ombra delle palme',
       'Salire in auto sul Jebel Hafeet, tra i tornanti, fino al belvedere in cima',
@@ -752,7 +752,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     doveDormire:
       'A Liwa ci sono pochi resort nel deserto, cari e da prenotare in anticipo; Al Ain ha la normale offerta di una città. Quasi tutti arrivano da Abu Dhabi in giornata, ed è la scelta che fa perdere la parte migliore: la notte.',
     doveMangiare:
-      'Fuori dai resort ci sono i ristoranti di quartiere, quasi tutti indiani o pakistani, buoni ed economici. Ad Al Ain vale la pena cercare i datteri locali, il prodotto agricolo dell\'oasi, che si vendono nei mercati specializzati.',
+      'Fuori dai resort ci sono i ristoranti di quartiere, quasi tutti indiani o pakistani, buoni ed economici. Ad Al Ain conviene cercare i datteri locali, il prodotto agricolo dell\'oasi, che si vendono nei mercati specializzati.',
     comeArrivare:
       'Da Abu Dhabi sono circa 2 ore di strada per Liwa e 1h30 per Al Ain. Serve un\'auto a noleggio o un transfer: i mezzi pubblici ci sono ma sono poco pratici, e per le dune serve comunque un 4x4 con guida.',
     comeSpostarsi: 'Con un\'auto propria sulle strade asfaltate; sulle dune solo in 4x4 con un autista esperto. Chi guida sulla sabbia senza esperienza di solito resta impantanato.',

@@ -14,7 +14,7 @@ La settimana bianca è il viaggio italiano che più di ogni altro si decide per 
 Le settimane bianche le faccio da quando sono piccolo, sia nei weekend sia per periodi più lunghi.
 
 ## Scheda pratica
-- **Quando andare — la scelta che vale di più:**
+- **Quando andare (la scelta che conta di più):**
   - **Natale e Capodanno:** le due settimane più care dell'anno, con differenze **anche del quaranta per cento** rispetto a gennaio. Piste affollate, code, prenotazioni con mesi di anticipo.
   - **Gennaio dopo l'Epifania:** la **finestra migliore in assoluto** per rapporto qualità-prezzo. Neve in genere ottima, comprensori aperti per intero, piste vuote nelle settimane feriali, prezzi in calo subito dopo il 6. In cambio, freddo intenso e giornate corte.
   - **Febbraio:** statisticamente la neve più affidabile, ma coincide con le settimane bianche scolastiche, che cambiano da regione a regione. Prezzi alti e code nelle ore centrali.
@@ -24,7 +24,7 @@ Le settimane bianche le faccio da quando sono piccolo, sia nei weekend sia per p
 - **Noleggio:** 25-45 € al giorno per un set completo, con sconti sui pacchetti settimanali. Prenotare online prima di partire costa meno che presentarsi al negozio.
 - **Strada:** **catene o gomme invernali sono obbligatorie per legge** su gran parte della rete montana nel periodo invernale, con date che variano da regione a regione. È un obbligo sanzionabile, non una raccomandazione.
 - **Dall'aeroporto al centro:** per il Sellaronda gli aeroporti comodi sono **Verona (VRN)**, **Venezia (VCE)** e **Treviso (TSF)**, poi **Bergamo (BGY)** e **Innsbruck (INN)**. Da Verona per la Val Gardena ci sono i bus diretti AltoAdigeBus, oppure il treno fino a Bolzano (circa 1h30) e da lì il bus 350, un transfer o il taxi. Per la Val di Fassa c'è il **FlySki Shuttle** da Verona, Venezia, Treviso, Bergamo e Milano, nei fine settimana dal 19 dicembre 2026 al 29 marzo 2027, circa 50 € a tratta, da prenotare online entro le 8 del venerdì. In alta stagione i transfer si riempiono, e chi noleggia l'auto in aeroporto deve chiedere gomme invernali o catene.
-- **Assicurazione — il punto che quasi nessuno verifica:** in Italia **il soccorso in pista e in montagna si paga**, e in diverse regioni un intervento con l'elicottero costa migliaia di euro. Molti skipass includono una copertura base: conviene controllare cosa copre esattamente. Dal 2022 **l'assicurazione di responsabilità civile è obbligatoria per legge per chi scia sulle piste**, e bisogna accertarsi che la propria polizza la comprenda.
+- **Assicurazione, il punto che quasi nessuno verifica:** in Italia **il soccorso in pista e in montagna si paga**, e in diverse regioni un intervento con l'elicottero costa migliaia di euro. Molti skipass includono una copertura base: conviene controllare cosa copre esattamente. Dal 2022 **l'assicurazione di responsabilità civile è obbligatoria per legge per chi scia sulle piste**, e bisogna accertarsi che la propria polizza la comprenda.
 - **Fuoripista:** **ARTVA, pala e sonda, e saperli usare.** Il bollettino valanghe è pubblico e quotidiano, con una scala da 1 a 5, e va letto prima di uscire dal battuto. Non è roba da improvvisare.
 - **Dove dormire:** d'inverno **stare sulle piste conta**: mezz'ora di navetta con gli scarponi due volte al giorno pesa più di quanto sembri quando si prenota.
 
@@ -118,7 +118,7 @@ Verso mezzogiorno si riconsegnano sci e scarponi, si recupera l'eventuale cauzio
 ## Dove abbiamo mangiato
 - **In quota, seduti.** È il vantaggio italiano sulla neve: i rifugi di pista non sono mense. Canederli, polenta, gulasch e casunziei in Dolomiti; polenta concia e fonduta in Valle d'Aosta; pizzoccheri in Valtellina.
 - **In alta stagione i rifugi migliori si prenotano anche a pranzo**, e chi non lo sa mangia dove capita.
-- **A valle:** la mezza pensione risolve la cena, ma vale la pena uscire almeno un paio di sere nelle trattorie di paese, che costano meno dell'hotel e cucinano meglio.
+- **A valle:** la mezza pensione risolve la cena, ma conviene uscire almeno un paio di sere nelle trattorie di paese, che costano meno dell'hotel e cucinano meglio.
 
 ## Consigli pratici / errori da non ripetere
 - **Non prenotare a Natale o Capodanno se si può scegliere.** Sono le due settimane più care dell'anno, senza confronto.

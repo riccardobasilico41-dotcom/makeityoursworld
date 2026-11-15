@@ -71,7 +71,7 @@ export const destinazioniGiordania: Destinazione[] = [
       },
       {
         "nome": "Downtown y los zocos",
-        "testo": "El centro viejo alrededor de la mezquita al-Husseini: tiendas de especias, cafés, dulces, ropa, oro. Es la parte más viva y auténtica de la capital, mucho más que los barrios nuevos.",
+        "testo": "El centro viejo alrededor de la mezquita al-Husseini: tiendas de especias, cafés, dulces, ropa, oro. Es la parte más viva y más vivida de la capital, mucho más que los barrios nuevos.",
         "come": "A pie desde el teatro romano, en pocos minutos.",
         "quando": "De día y hasta la noche. El viernes por la mañana muchas tiendas abren tarde.",
         "tempo": "2 horas",

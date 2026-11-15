@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Il Borneo non è un'appendice della Malesia: è un viaggio a sé, con tempi, costi e logica completamente diversi dalla penisola, ed è per questo che qui ha un itinerario tutto suo. In dodici giorni si sale sulla montagna più alta del sud-est asiatico tra Himalaya e Nuova Guinea, si vedono gli oranghi in due modi opposti, si risale un fiume dove la fauna è concentrata come in nessun altro posto della regione, e si scende lungo una parete corallina che molti considerano la migliore del pianeta. È anche il viaggio in cui si capisce cosa ha fatto la palma da olio a quest'isola: si atterra sopra un tappeto verde ordinato che sembra foresta, e non lo è. È una cosa che si vede meglio da qui che da qualsiasi documentario.
+Il Borneo malese ha tempi, costi e logica completamente diversi dalla penisola, e per questo qui ha un itinerario tutto suo. In dodici giorni si sale sulla montagna più alta del sud-est asiatico tra Himalaya e Nuova Guinea, si vedono gli oranghi in due modi opposti, si risale un fiume dove la fauna è concentrata come in nessun altro posto della regione, e si scende lungo una parete corallina che molti considerano la migliore del pianeta. È anche il viaggio in cui si capisce cosa ha fatto la palma da olio a quest'isola: si atterra sopra un tappeto verde ordinato che sembra foresta, e non lo è. È una cosa che si vede meglio da qui che da qualsiasi documentario.
 
 ## Scheda pratica
 - **Quando andare:** da **marzo a ottobre**, con i mesi migliori tra aprile e settembre. Vale per tutto nello stesso momento, cosa rara: mare calmo e visibilità alta a Sipadan, meno probabilità di pioggia in vetta al Kinabalu e fiume basso sul Kinabatangan, che è la condizione perché gli animali restino concentrati sulle rive invece di disperdersi nella foresta allagata.
@@ -107,7 +107,7 @@ Le **Gomantong Caves** sono a circa un'ora di strada da Sukau, sulla via verso s
 ### Giorno 9 — Mabul: muck diving
 La prima giornata di immersioni è stata attorno a **Mabul e Kapalai**. Quasi tutti le trattano come una semplice base d'appoggio per Sipadan, e invece sono uno dei posti migliori al mondo per il **muck diving**: fondali bassi e sabbiosi dove si cercano cavallucci pigmei grandi come un'unghia, polpi mimetici, nudibranchi e pesci rana.
 
-È anche il giorno in cui si vede un contrasto su cui vale la pena fermarsi a pensare: attorno alle palafitte, a cinquanta metri dai resort, vivono i **Bajau Laut**, i "nomadi del mare", spesso senza la cittadinanza di nessuno Stato.
+È anche il giorno in cui si vede un contrasto che fa pensare: attorno alle palafitte, a cinquanta metri dai resort, vivono i **Bajau Laut**, i "nomadi del mare", spesso senza la cittadinanza di nessuno Stato.
 
 Le immersioni a Mabul sono tranquille, con poca corrente e profondità modeste, e vanno bene anche per chi ha il brevetto da poco: è il posto giusto per riprendere confidenza con l'attrezzatura prima di Sipadan. Il ritmo è lento. Le guide locali trovano animali che da soli non si vedrebbero, e il trucco è restare fermi sul fondo senza sollevare la sabbia. *Una torcia aiuta anche chi non fotografa: sotto i pontili e tra i relitti artificiali i colori si vedono solo con la luce.*
 
@@ -139,7 +139,7 @@ Il trasferimento verso Tawau va calcolato con margine: la strada da Semporna att
 **In pratica:** Semporna-aeroporto di Tawau circa un'ora e mezza · in aeroporto un'ora e mezza prima per i voli interni · rispettare l'intervallo di almeno 18-24 ore dall'ultima immersione · ringgit avanzati da spendere prima di lasciare la Malesia.
 
 ## Cosa vedere / cosa fare
-- **Prenotare Kinabalu e Sipadan con mesi di anticipo.** È l'unica cosa che decide davvero questo viaggio.
+- **Prenotare Kinabalu e Sipadan con mesi di anticipo.** Da questo dipende tutto il viaggio.
 - **L'alba dalla piattaforma di granito** a 4.095 metri.
 - **Entrambe le poppate a Sepilok**, non una.
 - **Il centro dei sun bear**, che quasi tutti saltano.

@@ -828,7 +828,7 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "In auto lungo la strada principale.",
         "quando": "Pomeriggio.",
         "tempo": "Mezza giornata",
-        "consiglio": "Uscire dagli itinerari più battuti vale la pena: Tamnougalt lo dimostra."
+        "consiglio": "Tamnougalt è un buon motivo per uscire dagli itinerari più battuti."
       },
       {
         "nome": "Zagora e il cartello «Tombouctou 52 giorni»",
@@ -1779,7 +1779,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         domanda: "Meglio Fès o Marrakech?",
-        risposta: "Fès ha la medina più antica e autentica, con meno turisti e più artigiani al lavoro; Marrakech ha più monumenti visitabili, giardini e locali. Chi ha tempo le vede entrambe, in due itinerari diversi.",
+        risposta: "Fès ha la medina più antica e più vissuta, con meno turisti e più artigiani al lavoro; Marrakech ha più monumenti visitabili, giardini e locali. Chi ha tempo le vede entrambe, in due itinerari diversi.",
       },
       {
         domanda: "Come si arriva al riad nella medina?",

@@ -107,7 +107,7 @@ Il pomeriggio c'è il **sentiero costiero di Igidae**, con la vista frontale sul
 **In pratica:** cimitero ONU gratuito, aperto tutti i giorni con orario più lungo in estate · sentiero di Igidae circa 2 ore, con saliscendi e scale · Haedong Yonggungsa gratuito, raggiungibile in autobus da Haeundae · dwaeji gukbap nella via dedicata del quartiere di Seomyeon.
 
 ### Giorno 12 — Volo per Jeju e la costa orientale
-**Volo Busan-Jeju**, meno di un'ora, e ritiro dell'auto a noleggio (**patente internazionale obbligatoria**). I voli sono molti e costano poco se presi in anticipo; l'aeroporto di Busan è Gimhae, collegato alla città dalla metro leggera. A Jeju l'auto serve davvero: i siti sono sparsi lungo la costa e gli autobus passano con poca frequenza. *Le auto a noleggio coreane hanno quasi sempre il navigatore in coreano: conviene usare Naver Map o KakaoMap sul telefono.*
+**Volo Busan-Jeju**, meno di un'ora, e ritiro dell'auto a noleggio (**patente internazionale obbligatoria**). I voli sono molti e costano poco se presi in anticipo; l'aeroporto di Busan è Gimhae, collegato alla città dalla metro leggera. A Jeju l'auto serve: i siti sono sparsi lungo la costa e gli autobus passano con poca frequenza. *Le auto a noleggio coreane hanno quasi sempre il navigatore in coreano: conviene usare Naver Map o KakaoMap sul telefono.*
 
 Siamo andati dritti sulla costa est. La prima tappa è il **Museo delle haenyeo** a Gujwa-eup, da fare per primo perché senza tutto il resto resta una curiosità. Spiega i **bulteok**, i ripari circolari in pietra dove si cambiano, si scaldano e per generazioni hanno preso a voto le decisioni della comunità (ne restano una settantina); la gerarchia interna, dalle principianti alle sanggun; e la protesta del 1932, quando furono le haenyeo a guidare una delle più grandi rivolte contro il dominio coloniale giapponese. Ci siamo sistemati attorno a Seongsan. A cena, una delle **bancarelle delle cooperative**, dove il pescato lo vendono direttamente loro e i soldi non passano da intermediari.
 
@@ -170,7 +170,7 @@ Chi preferisce restare in città può passare dal **mercato di Dongmun**, a Jeju
 - **Evitare il Seoraksan nei fine settimana di ottobre**, quando il foliage lo rende impraticabile.
 - **Prenotare l'Hallasan** se lo si vuole salire: senza, non si passa.
 - **Patente internazionale per Jeju**, da fare in Italia: senza, l'auto non la danno.
-- **Non aspettarsi le haenyeo a comando.** Escono secondo maree, stagione e fermo biologico; le uniche uscite a orario sono le dimostrazioni. E non sono un'attrazione folkloristica: sono donne molto anziane al lavoro.
+- **Non aspettarsi le haenyeo a comando.** Escono secondo maree, stagione e fermo biologico; le uniche uscite a orario sono le dimostrazioni. E chi si vede in acqua sono donne molto anziane che stanno lavorando.
 - **Evitare Seollal e Chuseok.** In quei giorni il paese si sposta in massa e mezza Corea è chiusa.
 
 ## Chiusura personale

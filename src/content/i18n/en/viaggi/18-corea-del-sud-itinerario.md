@@ -107,7 +107,7 @@ In the afternoon there's the **Igidae coastal trail**, with a head-on view of th
 **In practice:** UN cemetery free, open every day with longer hours in summer · Igidae trail about 2 hours, with ups and downs and stairs · Haedong Yonggungsa free, reachable by bus from Haeundae · dwaeji gukbap on the street dedicated to it in the Seomyeon district.
 
 ### Day 12 — Flight to Jeju and the east coast
-**Busan-Jeju flight**, under an hour, and pickup of the rental car (**international driving permit required**). There are many flights and they're cheap if booked early; Busan's airport is Gimhae, linked to the city by light rail. On Jeju a car is really needed: the sights are spread along the coast and buses are infrequent. *Korean rental cars almost always have the navigation in Korean: use Naver Map or KakaoMap on your phone.*
+**Busan-Jeju flight**, under an hour, and pickup of the rental car (**international driving permit required**). There are many flights and they're cheap if booked early; Busan's airport is Gimhae, linked to the city by light rail. On Jeju you need a car: the sights are spread along the coast and buses are infrequent. *Korean rental cars almost always have the navigation in Korean: use Naver Map or KakaoMap on your phone.*
 
 We went straight to the east coast. The first stop is the **Haenyeo Museum** in Gujwa-eup, to be done first because without it everything else stays a curiosity. It explains the **bulteok**, the circular stone shelters where they change, warm up and for generations took community decisions by vote (about seventy remain); the internal hierarchy, from beginners to sanggun; and the 1932 protest, when the haenyeo led one of the largest uprisings against Japanese colonial rule. We stayed around Seongsan. For dinner, one of the **cooperative stalls**, where they sell the catch themselves and the money doesn't go through middlemen.
 
@@ -170,7 +170,7 @@ If you'd rather stay in town, you can stop at **Dongmun Market**, in Jeju City, 
 - **Avoid Seoraksan on October weekends**, when the foliage makes it unwalkable.
 - **Book Hallasan** if you want to climb it: without a reservation you don't get through.
 - **International driving permit for Jeju**, to be done in Italy: without it, they won't give you the car.
-- **Don't expect the haenyeo on cue.** They go out according to tides, season and the biological closure; the only scheduled outings are the demonstrations. And they're not a folkloric attraction: they are very old women at work.
+- **Don't expect the haenyeo on cue.** They go out according to tides, season and the biological closure; the only scheduled outings are the demonstrations. And the people you see in the water are very old women doing their job.
 - **Avoid Seollal and Chuseok.** On those days the country moves en masse and half of Korea is closed.
 
 ## Chiusura personale

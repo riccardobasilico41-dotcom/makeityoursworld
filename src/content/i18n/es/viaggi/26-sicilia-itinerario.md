@@ -42,7 +42,7 @@ Subimos con teleférico y todoterreno hasta la zona de cumbre, con el guía obli
 
 **Capas de verdad:** se sale de Catania con veinticinco grados, y a tres mil metros puede haber cinco, con viento fuerte.
 
-Por la tarde, los **cráteres Silvestri** a cota baja (gratuitos, accesibles en coche) o una **bodega del Etna** con cita previa: aquí las vides suelen ser **de pie franco**, porque en este suelo de lava la filoxera nunca llegó, y hay cepas de más de cien años. Las bodegas están sobre todo en la vertiente norte, en torno a Castiglione di Sicilia y Randazzo. *Cuando aumenta la actividad del volcán, la zona de cumbre se cierra incluso con pocas horas de aviso: el plan B de los cráteres Silvestri y las bodegas hace falta de verdad.*
+Por la tarde, los **cráteres Silvestri** a cota baja (gratuitos, accesibles en coche) o una **bodega del Etna** con cita previa: aquí las vides suelen ser **de pie franco**, porque en este suelo de lava la filoxera nunca llegó, y hay cepas de más de cien años. Las bodegas están sobre todo en la vertiente norte, en torno a Castiglione di Sicilia y Randazzo. *Cuando aumenta la actividad del volcán, la zona de cumbre se cierra incluso con pocas horas de aviso: conviene tener siempre listo el plan B de los cráteres Silvestri y las bodegas.*
 
 **En la práctica:** paquete de teleférico, todoterreno y guía desde unos 80-95 € por persona, excursiones más altas a precio mayor · botas, cortavientos y gorro incluso en verano · del Rifugio Sapienza a las bodegas de la vertiente norte, una hora de carretera.
 

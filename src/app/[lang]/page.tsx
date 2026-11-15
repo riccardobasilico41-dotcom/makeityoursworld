@@ -166,7 +166,7 @@ export default async function HomePage() {
         <Container>
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
-              <h2 className="font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
+              <h2 className="titolo-sezione text-balance text-alpine">
                 {t.meraviglieTitolo}
               </h2>
               <p className="mt-4 max-w-2xl text-base leading-relaxed text-stone">

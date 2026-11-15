@@ -749,7 +749,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Amanecer en el Gunung Batur",
         testo: "Un trekking nocturno hasta la cima del volcán, 1.717 metros, para ver el amanecer sobre la caldera y el lago Batur. La subida dura unas horas y no es técnica.",
-        come: "Con un guía local, en la práctica obligatorio, saliendo de Toya Bungkah o de los pueblos cercanos; muchas agencias recogen en el hotel entre las 2 y las 3 de la madrugada.",
+        come: "Con un guía local, de hecho obligatorio, saliendo de Toya Bungkah o de los pueblos cercanos; muchas agencias recogen en el hotel entre las 2 y las 3 de la madrugada.",
         quando: "Salida en plena noche para estar arriba al amanecer.",
         tempo: "Media jornada",
         costo: "Permiso unos 100.000 IDR por persona, unos 5,5 €, más el guía.",
@@ -2166,7 +2166,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         titolo: "Dónde dormir en Raja Ampat: ¿homestay, resort o liveaboard?",
         introduzione:
-          "Con un archipiélago hecho casi solo de islas y ninguna ciudad de verdad, dónde se duerme decide buena parte del viaje: presupuesto, contacto con las comunidades locales y qué puntos del parque se consigue realmente alcanzar.",
+          "Con un archipiélago hecho casi solo de islas y ninguna ciudad de verdad, dónde se duerme decide buena parte del viaje: presupuesto, contacto con las comunidades locales y qué puntos del parque se consigue alcanzar.",
         opzioni: [
           {
             nome: "Homestay",
@@ -2224,7 +2224,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      "Es el sitio más bonito que he visto bajo el agua, y también el más fatigoso de alcanzar: dos vuelos, un ferri y una barca, con costes que no se parecen al resto de Indonesia. La diferencia, sin embargo, se ve en el primer snorkel: una densidad de peces como la del arrecife de Arborek, a veinte metros de la orilla, en otros sitios ya no existe. Las corrientes son fuertes y hay que respetarlas en serio: ciertos puntos se hacen solo en los horarios adecuados. Dormir en los homestays en lugar de en los resorts es la elección que merece la pena, porque ese modelo, más aún que el precio, es lo que mantiene en pie la protección del parque. Piaynemo al atardecer, con las escaleras de madera y la plataforma abarrotada, es el único momento en que uno se cruza con alguien más. Estuvimos en agosto de 2026, que en todas las guías figura como la estación equivocada. En parte lo es, pero de un modo distinto al que uno se espera: el mar fue espectacular igualmente, diez días sin ver una gota de lluvia. El viento, en cambio, se hizo notar: alargó un par de traslados entre las islas y nos hizo perder una salida a una zona más expuesta. La otra cuenta que hay que hacer es la de los grandes pelágicos: mantas y tiburones en verano son mucho más raros, porque el afloramiento de aguas ricas en plancton que los atrae es sobre todo un fenómeno invernal. Con los arrecifes llenos de peces igualmente y poquísimos turistas por ahí, fue un compromiso del que no me arrepiento.",
+      "Es el sitio más bonito que he visto bajo el agua, y también el más fatigoso de alcanzar: dos vuelos, un ferri y una barca, con costes que no se parecen al resto de Indonesia. La diferencia, sin embargo, se ve en el primer snorkel: una densidad de peces como la del arrecife de Arborek, a veinte metros de la orilla, en otros sitios ya no existe. Las corrientes son fuertes y hay que respetarlas en serio: ciertos puntos se hacen solo en los horarios adecuados. Dormir en los homestays en lugar de en los resorts es la elección correcta, porque ese modelo, más aún que el precio, es lo que mantiene en pie la protección del parque. Piaynemo al atardecer, con las escaleras de madera y la plataforma abarrotada, es el único momento en que uno se cruza con alguien más. Estuvimos en agosto de 2026, que en todas las guías figura como la estación equivocada. En parte lo es, pero de un modo distinto al que uno se espera: el mar fue espectacular igualmente, diez días sin ver una gota de lluvia. El viento, en cambio, se hizo notar: alargó un par de traslados entre las islas y nos hizo perder una salida a una zona más expuesta. La otra cuenta que hay que hacer es la de los grandes pelágicos: mantas y tiburones en verano son mucho más raros, porque el afloramiento de aguas ricas en plancton que los atrae es sobre todo un fenómeno invernal. Con los arrecifes llenos de peces igualmente y poquísimos turistas por ahí, fue un compromiso del que no me arrepiento.",
     luoghi: [
       {
         nome: "Piaynemo",

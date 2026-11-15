@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:**
-**Durata:** 12 giorni, 11 notti — tre arcipelaghi che non si collegano tra loro
+**Durata:** 12 giorni, 11 notti: tre arcipelaghi che non si collegano tra loro
 **Compagni di viaggio:** con amici, in autonomia, tra voli interni, traghetti, bici e scooter
 **Categoria:** Europa · Italia · Sicilia · isole · mare · vulcani
 
@@ -153,9 +153,9 @@ Nel tardo pomeriggio siamo andati alla **Porta d'Europa**, un monumento di ceram
 ### Giorno 11 — In barca, o Linosa
 Per l'ultima giornata piena ci sono due possibilità.
 
-**Opzione A — Il giro dell'isola in barca.** È il modo giusto di vedere Lampedusa: la costa meridionale ha le grotte e le insenature, e soprattutto c'è la **Tabaccara**, una baia con un fondale bianchissimo dove **le barche sembrano sospese a mezz'aria**, perché l'acqua è così trasparente che si vede l'ombra dello scafo sul fondo a diversi metri. **Alla Tabaccara non si sbarca e l'ancoraggio è regolamentato**: si guarda e si nuota.
+**Opzione A: il giro dell'isola in barca.** È il modo giusto di vedere Lampedusa: la costa meridionale ha le grotte e le insenature, e soprattutto c'è la **Tabaccara**, una baia con un fondale bianchissimo dove **le barche sembrano sospese a mezz'aria**, perché l'acqua è così trasparente che si vede l'ombra dello scafo sul fondo a diversi metri. **Alla Tabaccara non si sbarca e l'ancoraggio è regolamentato**: si guarda e si nuota.
 
-**Opzione B — Linosa.** Un'ora di traversata verso nord e si cambia isola del tutto: **Linosa è vulcanica e nera**, dove Lampedusa è calcarea e bianca. Ha circa cinquecento abitanti, **case dipinte a colori pieni con le cornici bianche**, tre coni vulcanici da salire a piedi e **la Pozzolana di Ponente**, una spiaggia di sabbia rossa che è **anch'essa sito di nidificazione delle tartarughe** e quindi regolamentata. Non ci sono spiagge comode, non c'è quasi niente da fare, e chi ci va apposta lo sa.
+**Opzione B: Linosa.** Un'ora di traversata verso nord e si cambia isola del tutto: **Linosa è vulcanica e nera**, dove Lampedusa è calcarea e bianca. Ha circa cinquecento abitanti, **case dipinte a colori pieni con le cornici bianche**, tre coni vulcanici da salire a piedi e **la Pozzolana di Ponente**, una spiaggia di sabbia rossa che è **anch'essa sito di nidificazione delle tartarughe** e quindi regolamentata. Non ci sono spiagge comode, non c'è quasi niente da fare, e chi ci va apposta lo sa.
 
 **In pratica:** giro in barca di una giornata dal porto, di solito con pranzo a bordo, da prenotare il giorno prima · aliscafo Liberty Lines Lampedusa-Linosa in circa un'ora, traghetto in circa due · con il mare mosso le corse saltano: controllare l'orario del rientro · a Linosa si gira a piedi o in scooter.
 

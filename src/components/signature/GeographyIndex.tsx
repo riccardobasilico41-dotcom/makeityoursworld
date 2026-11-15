@@ -46,7 +46,7 @@ export async function GeographyIndex({
       <Container>
         <Reveal>
           <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
-            <h2 className="max-w-lg font-display text-[clamp(2rem,3.4vw,3rem)] text-balance">
+            <h2 className="max-w-lg titolo-sezione text-balance">
               {t.titolo}
             </h2>
             <p className="max-w-sm text-sm leading-relaxed text-cream/60">

@@ -339,7 +339,7 @@ export const destinazioniThailandia: Destinazione[] = [
       "Contar con el tren de Maeklong a una hora fija sin comprobar los pasos del día",
     ],
     miaEsperienza:
-      "El mercado flotante y el mercado del tren son muy turísticos, con precios inflados respecto a cualquier mercado local. En el primer viaje a Tailandia, sin embargo, merece la pena hacerlos: son rincones curiosos, y el tren que roza los puestos sigue siendo divertido.",
+      "El mercado flotante y el mercado del tren son muy turísticos, con precios inflados respecto a cualquier mercado local. En el primer viaje a Tailandia, sin embargo, conviene hacerlos: son rincones curiosos, y el tren que roza los puestos sigue siendo divertido.",
     luoghi: [
       {
         nome: "Mercado flotante",
@@ -357,7 +357,7 @@ export const destinazioniThailandia: Destinazione[] = [
         tempo: "1 hora",
         lat: 13.40773,
         lng: 100.0009,
-        consiglio: "Ver el tren rozando los puestos sigue siendo divertido, aunque sea muy turístico. Quedarse detrás de la línea que marcan los vendedores: pasa de verdad a pocos centímetros.",
+        consiglio: "Ver el tren rozando los puestos sigue siendo divertido, aunque sea muy turístico. Quedarse detrás de la línea que marcan los vendedores: pasa a pocos centímetros.",
       },
       {
         nome: "Mercados nocturnos",
@@ -608,7 +608,7 @@ export const destinazioniThailandia: Destinazione[] = [
         lat: 12.19748,
         lng: 100.01128,
         url: "https://www.dnp.go.th/",
-        consiglio: "Una de las mejores sorpresas del tramo; por la luz merece la pena estar allí por la mañana. Calzado cerrado: en la temporada de lluvias el sendero resbala.",
+        consiglio: "Una de las mejores sorpresas del tramo; por la luz es mejor llegar por la mañana. Calzado cerrado: en la temporada de lluvias el sendero resbala.",
       },
       {
         nome: "Kui Buri National Park",
@@ -986,8 +986,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['mare', 'avventura'],
     giorniConsigliati: "3 días",
     visitataPersonalmente: true,
-    introduzione: "Railay Beach, Bond Island y el paseo en canoa por la bahía de Phang Nga: para explorar el mar de Andamán es una base más auténtica que Phuket.",
-    percheAndarci: "Es más auténtica que Phuket, y desde aquí salen algunas de las mejores excursiones del sur de Tailandia.",
+    introduzione: "Railay Beach, Bond Island y el paseo en canoa por la bahía de Phang Nga: para explorar el mar de Andamán es una base menos turística que Phuket.",
+    percheAndarci: "Está menos construida que Phuket, y desde aquí salen algunas de las mejores excursiones del sur de Tailandia.",
     cosaVedere: ["Railay Beach y Phra Nang Beach", "Koh Ta Poo (Bond Island) y Koh Ping Gun", "El pueblo de pescadores de Koh Panyee"],
     cosaFare: [
       "Barca a Railay Beach y caminata hasta Phra Nang Beach",
@@ -1670,7 +1670,7 @@ export const destinazioniThailandia: Destinazione[] = [
       { nome: "Cafés de Nimman", testo: "Cafeterías de especialidad." },
     ],
     attenzioni: [
-      "Reservar un santuario de elefantes sin comprobar que sea de verdad ético: no todos lo son.",
+      "Reservar un santuario de elefantes sin comprobar que sea ético: no todos lo son.",
       "Código de vestimenta de los templos.",
       "Songthaew: acuerda el precio.",
     ],

@@ -109,7 +109,7 @@ export default async function ComeLavoroPage() {
                   {String(i + 1).padStart(2, '0')}
                 </span>
                 <div>
-                  <h2 className="font-display text-2xl text-alpine">{v.titolo}</h2>
+                  <h2 className="titolo-scheda text-alpine">{v.titolo}</h2>
                   <p className="mt-3 leading-relaxed text-stone">{v.testo}</p>
                   {v.link && (
                     <Link href={v.link.href} className="mt-3 inline-block font-semibold text-rosso hover:underline">

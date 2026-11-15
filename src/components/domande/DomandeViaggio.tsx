@@ -46,7 +46,7 @@ export function DomandeViaggio({ viaggio, lingua, domande }: { viaggio: string; 
 
       {domande.length > 0 && (
         <div>
-          <h2 className="font-display text-2xl text-alpine">{t.titolo}</h2>
+          <h2 className="titolo-sezione text-alpine">{t.titolo}</h2>
           <ol className="mt-6 space-y-6">
             {domande.map((d) => (
               <li key={d.id} id={`domanda-${d.id}`} className="scroll-mt-24 border-2 border-ink bg-white">

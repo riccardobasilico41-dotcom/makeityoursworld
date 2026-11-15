@@ -236,7 +236,7 @@ export const destinazioniPanama: Destinazione[] = [
       "zone": [
         {
           "nome": "Cabaña su un'isola Guna",
-          "perChi": "esperienza autentica",
+          "perChi": "chi vuole dormire in una comunità Guna",
           "testo": "Essenziale per scelta: luce a orario, acqua dolce razionata, wifi quasi assente, pasti inclusi, gestita da una famiglia Guna."
         },
         {

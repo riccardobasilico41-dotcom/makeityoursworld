@@ -14,7 +14,7 @@ The ski week is the Italian trip that more than any other gets decided out of ha
 I've been doing ski weeks since I was little, both weekends and longer stays.
 
 ## Scheda pratica
-- **When to go — the choice that matters most:**
+- **When to go (the choice that matters most):**
   - **Christmas and New Year:** the two most expensive weeks of the year, with differences of **as much as forty percent** compared with January. Crowded slopes, lines, bookings months ahead.
   - **January after Epiphany:** the **best window by far** for value. Snow is generally excellent, ski areas fully open, slopes empty on weekdays, prices dropping right after the 6th. In return, intense cold and short days.
   - **February:** statistically the most reliable snow, but it coincides with school ski weeks, which vary from region to region. High prices and lines at midday.
@@ -24,7 +24,7 @@ I've been doing ski weeks since I was little, both weekends and longer stays.
 - **Rental:** €25-45 a day for a full set, with discounts on weekly packages. Booking online before leaving costs less than showing up at the shop.
 - **Road:** **chains or winter tires are required by law** on much of the mountain network in winter, with dates that vary from region to region. It is an obligation you can be fined for, not a recommendation.
 - **From the airport to the centre:** for the Sellaronda the handy airports are **Verona (VRN)**, **Venice (VCE)** and **Treviso (TSF)**, then **Bergamo (BGY)** and **Innsbruck (INN)**. From Verona to Val Gardena there are direct AltoAdigeBus coaches, or the train to Bolzano (about 1h30) and from there bus 350, a transfer or a taxi. For Val di Fassa there's the **FlySki Shuttle** from Verona, Venice, Treviso, Bergamo and Milan, at weekends from 19 December 2026 to 29 March 2027, about €50 each way, to be booked online by 8am on the Friday. In high season transfers fill up, and if you rent a car at the airport ask for winter tyres or chains.
-- **Insurance — the point almost nobody checks:** in Italy **rescue on the slopes and in the mountains is paid for**, and in several regions a helicopter rescue costs thousands of euros. Many ski passes include basic coverage: check exactly what it covers. Since 2022 **liability insurance is required by law for anyone skiing on the slopes**, and you need to make sure your own policy includes it.
+- **Insurance, the point almost nobody checks:** in Italy **rescue on the slopes and in the mountains is paid for**, and in several regions a helicopter rescue costs thousands of euros. Many ski passes include basic coverage: check exactly what it covers. Since 2022 **liability insurance is required by law for anyone skiing on the slopes**, and you need to make sure your own policy includes it.
 - **Off-piste:** **avalanche transceiver, shovel and probe, and knowing how to use them.** The avalanche bulletin is public and daily, on a scale of 1 to 5, and must be read before leaving the groomed runs. It's not something to improvise.
 - **Where to sleep:** in winter **being on the slopes matters**: half an hour of shuttle in ski boots twice a day weighs more than it seems when you book.
 
@@ -118,7 +118,7 @@ Around noon return skis and boots, collect any deposit on the pass card and get 
 ## Dove abbiamo mangiato
 - **At altitude, seated.** It's the Italian advantage on snow: slope-side huts aren't canteens. Canederli, polenta, goulash and casunziei in the Dolomites; polenta concia and fonduta in Valle d'Aosta; pizzoccheri in Valtellina.
 - **In high season the best huts are booked even for lunch**, and anyone who doesn't know it eats wherever they end up.
-- **In the valley:** half board takes care of dinner, but it's worth going out at least a couple of evenings to the village trattorias, which cost less than the hotel and cook better.
+- **In the valley:** half board takes care of dinner, but it pays to go out at least a couple of evenings to the village trattorias, which cost less than the hotel and cook better.
 
 ## Practical tips / mistakes not to repeat
 - **Don't book at Christmas or New Year if you can choose.** They are the two most expensive weeks of the year, no comparison.

@@ -10,19 +10,19 @@ const T = {
   it: {
     infoPratiche: 'Informazioni pratiche',
     avviso: 'Prezzi, orari e disponibilità cambiano: conviene ricontrollarli prima di partire.',
-    miaEsperienza: 'La mia esperienza',
+    miaEsperienza: 'Il mio ricordo',
     errori: 'Errori da evitare',
   },
   en: {
     infoPratiche: 'Practical information',
     avviso: 'Prices, opening hours and availability change: it pays to double-check them before you go.',
-    miaEsperienza: 'My experience',
+    miaEsperienza: 'My memory',
     errori: 'Mistakes to avoid',
   },
   es: {
     infoPratiche: 'Información práctica',
     avviso: 'Los precios, los horarios y la disponibilidad cambian: conviene volver a comprobarlos antes de salir.',
-    miaEsperienza: 'Mi experiencia',
+    miaEsperienza: 'Mi recuerdo',
     errori: 'Errores que evitar',
   },
 } satisfies Record<Lingua, Record<string, string>>
@@ -36,50 +36,85 @@ const T = {
 
 export type VoceInfo = { label: string; value?: string; icona: LucideIcon }
 
-/** Le informazioni pratiche in griglia, sotto l'intestazione. Le voci vuote non compaiono. */
-export async function InfoPratiche({ voci, titolo }: { voci: VoceInfo[]; titolo?: string }) {
+/** Oltre questa lunghezza una casella va a riga intera, in fondo, invece di allungare la riga. */
+const LUNGA = 160
+const LG_COLS = { 1: 'lg:grid-cols-1', 2: 'lg:grid-cols-2', 3: 'lg:grid-cols-3' } as const
+const LG_SPAN = { 1: 'lg:col-span-1', 2: 'lg:col-span-2', 3: 'lg:col-span-3' } as const
+
+/**
+ * Le informazioni pratiche: l'unica griglia di dati del sito (schede destinazione, esperienza,
+ * meraviglia, Paese). Bordo nero, icona rossa per voce, niente buchi: l'ultima casella corta
+ * allarga fino in fondo alla riga e le caselle lunghe (oltre LUNGA caratteri) vanno a riga intera
+ * dopo le altre. `fascia` (predefinito) la mette in una banda a tutta pagina sotto l'intestazione;
+ * senza, è un blocco dentro la colonna del testo.
+ */
+export async function InfoPratiche({
+  voci,
+  titolo,
+  id = 'info-pratiche',
+  avviso = true,
+  fascia = true,
+}: {
+  voci: VoceInfo[]
+  titolo?: string
+  id?: string
+  avviso?: boolean
+  fascia?: boolean
+}) {
   const t = T[await linguaCorrente()]
   titolo ??= t.infoPratiche
   const piene = voci.filter((v) => v.value && v.value.trim())
   if (piene.length === 0) return null
-  return (
-    <section aria-labelledby="info-pratiche" className="border-b border-alpine/10 bg-cream-dark/50 py-10 sm:py-12">
-      <Container>
-        <h2 id="info-pratiche" className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">
-          {titolo}
-        </h2>
-        <dl className="mt-5 grid grid-cols-2 gap-px overflow-hidden border-2 border-ink bg-ink lg:grid-cols-3">
-          {piene.map(({ label, value, icona: Icona }, i) => {
-            // l'ultima casella allarga fino in fondo alla riga, così la griglia non resta con buchi neri
-            const ultima = i === piene.length - 1
-            const lg = { 0: 'lg:col-span-1', 1: 'lg:col-span-3', 2: 'lg:col-span-2' }[piene.length % 3]
-            const larga = ultima ? `${piene.length % 2 === 1 ? 'col-span-2' : ''} ${lg}` : ''
-            return (
-            // dt e dd figli diretti del div (HTML valido per <dl>); l'icona sta nel dt, in posizione assoluta
-            <div key={label} className={`relative min-w-0 bg-cream p-3.5 min-[400px]:pl-11 sm:p-5 sm:pl-13 ${larga}`}>
-              <dt className="text-[11px] font-semibold uppercase tracking-wider text-stone/85 sm:text-xs">
-                <Icona size={20} aria-hidden className="absolute left-3.5 top-4 hidden text-rosso min-[400px]:block sm:left-5 sm:top-[1.375rem]" />
-                {label}
-              </dt>
-              <dd className="mt-1 text-sm leading-relaxed text-ink">{richNodes(value!)}</dd>
-            </div>
-            )
-          })}
-        </dl>
+  const corte = piene.filter((v) => v.value!.length <= LUNGA)
+  const lunghe = piene.filter((v) => v.value!.length > LUNGA)
+  const k = corte.length
+  const cols = (k <= 2 ? Math.max(k, 1) : k === 4 ? 2 : 3) as 1 | 2 | 3
+  const resto = k % cols
+  const ultimaSpan = (resto === 0 ? 1 : cols - resto + 1) as 1 | 2 | 3
+  const celle = [
+    ...corte.map((v, i) => ({
+      v,
+      span: i === k - 1 ? `${k % 2 === 1 ? 'col-span-2' : ''} ${LG_SPAN[ultimaSpan]}` : '',
+    })),
+    ...lunghe.map((v) => ({ v, span: 'col-span-2 lg:col-span-full' })),
+  ]
+  const blocco = (
+    <>
+      <h2 id={id} className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">
+        {titolo}
+      </h2>
+      <dl className={`mt-5 grid grid-cols-2 gap-px overflow-hidden border-2 border-ink bg-ink ${LG_COLS[cols]}`}>
+        {celle.map(({ v: { label, value, icona: Icona }, span }) => (
+          // dt e dd figli diretti del div (HTML valido per <dl>); l'icona sta nel dt, in posizione assoluta
+          <div key={label} className={`relative min-w-0 bg-cream p-3.5 min-[400px]:pl-11 sm:p-5 sm:pl-13 ${span}`}>
+            <dt className="text-[11px] font-semibold uppercase tracking-wider text-stone/85 sm:text-xs">
+              <Icona size={20} aria-hidden className="absolute left-3.5 top-4 hidden text-rosso min-[400px]:block sm:left-5 sm:top-[1.375rem]" />
+              {label}
+            </dt>
+            <dd className="mt-1 max-w-[80ch] text-sm leading-relaxed text-ink [overflow-wrap:anywhere]">{richNodes(value!)}</dd>
+          </div>
+        ))}
+      </dl>
+      {avviso && (
         <p className="mt-3 flex items-center gap-1.5 text-xs text-stone/85">
           <ArrowUpRight size={12} aria-hidden />
           {t.avviso}
         </p>
-      </Container>
+      )}
+    </>
+  )
+  if (!fascia) return <section aria-labelledby={id}>{blocco}</section>
+  return (
+    <section aria-labelledby={id} className="border-b border-alpine/10 bg-cream-dark/50 py-10 sm:py-12">
+      <Container>{blocco}</Container>
     </section>
   )
 }
 
-/** Titolo di sezione con icona e trattino rosso, uguale in tutta la scheda. */
-export function TitoloSezione({ icona: Icona, children }: { icona?: LucideIcon; children: ReactNode }) {
+/** Titolo di sezione, uguale in tutto il sito (token `titolo-sezione`). */
+export function TitoloSezione({ children, id }: { children: ReactNode; id?: string }) {
   return (
-    <h2 className="flex items-center gap-3 font-display text-2xl text-alpine sm:text-3xl">
-      {Icona && <Icona size={22} aria-hidden className="shrink-0 text-rosso" />}
+    <h2 id={id} className="titolo-sezione text-alpine">
       {children}
     </h2>
   )
@@ -90,7 +125,7 @@ export function ElencoNumerato({ voci }: { voci: string[] }) {
   return (
     <ol className="mt-5 grid gap-3 sm:grid-cols-2">
       {voci.map((v, i) => (
-        <li key={v} className="flex gap-4 border border-alpine/15 bg-white p-4 transition-colors hover:border-ink">
+        <li key={v} className="scheda-lista flex gap-4 p-4">
           <span aria-hidden className="font-display text-2xl leading-none text-rosso tabular-nums">
             {String(i + 1).padStart(2, '0')}
           </span>
@@ -104,8 +139,8 @@ export function ElencoNumerato({ voci }: { voci: string[] }) {
 /** Testo lungo (dove mangiare, dormire, uscire) in una scheda con icona. I \n\n diventano paragrafi. */
 export function SchedaTesto({ icona: Icona, titolo, testo }: { icona: LucideIcon; titolo: string; testo: string }) {
   return (
-    <div className="border border-alpine/15 bg-white p-5 sm:p-6">
-      <h3 className="flex items-center gap-2.5 font-display text-xl text-alpine">
+    <div className="scheda-lista p-5 sm:p-6">
+      <h3 className="titolo-scheda flex items-center gap-2.5 text-alpine">
         <Icona size={19} aria-hidden className="text-rosso" />
         {titolo}
       </h3>
@@ -124,14 +159,17 @@ export async function Ricordo({ testo }: { testo: string }) {
   return <CardRicordo etichetta={t.miaEsperienza}>{richNodes(testo)}</CardRicordo>
 }
 
-/** Errori da evitare in un riquadro rosso. */
-export async function ErroriDaEvitare({ voci }: { voci: string[] }) {
-  const t = T[await linguaCorrente()]
+/**
+ * Il riquadro rosso degli avvisi: errori da evitare, truffe, attenzioni. Uno solo per tutto il
+ * sito: bordo rosso 2 px, icona, quadratini rossi come punti elenco, larghezza massima fissa.
+ */
+export function RiquadroAvviso({ titolo, voci, id }: { titolo: string; voci: string[]; id?: string }) {
+  if (voci.length === 0) return null
   return (
-    <div className="border-2 border-rosso bg-rosso/[0.04] p-5 sm:p-7">
-      <h2 className="flex items-center gap-3 font-display text-2xl text-rosso sm:text-3xl">
-        <AlertTriangle size={22} aria-hidden />
-        {t.errori}
+    <div id={id} className="max-w-3xl scroll-mt-24 border-2 border-rosso bg-rosso/[0.04] p-5 sm:p-7">
+      <h2 className="titolo-scheda flex items-center gap-3 text-rosso">
+        <AlertTriangle size={22} aria-hidden className="shrink-0" />
+        {titolo}
       </h2>
       <ul className="mt-4 space-y-3">
         {voci.map((v) => (
@@ -143,4 +181,10 @@ export async function ErroriDaEvitare({ voci }: { voci: string[] }) {
       </ul>
     </div>
   )
+}
+
+/** Errori da evitare delle schede destinazione. */
+export async function ErroriDaEvitare({ voci }: { voci: string[] }) {
+  const t = T[await linguaCorrente()]
+  return <RiquadroAvviso titolo={t.errori} voci={voci} />
 }

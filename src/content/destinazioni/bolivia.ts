@@ -148,7 +148,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Mercado Rodríguez",
-        "testo": "Il mercato alimentare più vivace della città, che riempie diverse vie con banchi di patate, frutta tropicale delle Yungas, formaggi e carni. È il posto dove si vede come mangiano davvero i paceños.",
+        "testo": "Il mercato alimentare più vivace della città, che riempie diverse vie con banchi di patate, frutta tropicale delle Yungas, formaggi e carni. È il posto dove si vede cosa mangiano i paceños tutti i giorni.",
         "come": "A piedi dal centro, nella zona di San Pedro.",
         "quando": "Sabato e domenica mattina è al massimo.",
         "tempo": "1 ora",
@@ -1015,7 +1015,7 @@ export const destinazioniBolivia: Destinazione[] = [
     cosaVedere: [
       'I caimani, i capibara e le scimmie lungo il Rio Yacuma, nelle pampas',
       'I delfini rosa di fiume, che nelle pampas si avvicinano alle barche',
-      'La foresta primaria del Madidi, con alberi enormi e fauna più difficile da avvistare ma più autentica',
+      'La foresta primaria del Madidi, con alberi enormi e fauna più difficile da avvistare ma del tutto selvatica',
       'I tramonti sulle praterie allagate, il momento migliore della giornata',
     ],
     cosaFare: [

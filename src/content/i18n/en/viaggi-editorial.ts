@@ -858,6 +858,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   },
   'manchester-liverpool-premier-league': {
     seoTitle: "Manchester and Liverpool long weekend with the Premier League",
+    titoloBreve: "Manchester and Liverpool: a Premier League long weekend",
     seoDescription:
       "Four days by train between Manchester and Liverpool: match tickets from official channels, Old Trafford and Anfield tours, then the Peak and Lake District.",
     socialTitle: "Manchester, Liverpool and a Premier League match: how to get tickets without the risk",

@@ -1,5 +1,3 @@
-import fs from 'node:fs'
-import path from 'node:path'
 import { Container } from '@/components/ui/Container'
 import { SectionHeading } from '@/components/ui/SectionHeading'
 import { plain } from '@/components/ui/Rich'
@@ -8,34 +6,13 @@ import type { Destinazione, Esperienza } from '@/lib/types'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 import { MappaPaese, type DatiMappa, type PuntoMappa } from './MappaPaese'
-import { MappaAtlante, type DatiAtlante, type TappaPercorso } from './MappaAtlante'
+import { MappaAtlante, type TappaPercorso } from './MappaAtlante'
 import { getPaese, getTripMeta } from '@/lib/geo'
+import { atlanteSenzaContorni, leggiAtlante, leggiMappa } from '@/lib/mappa-geometria'
+import { localizza } from '@/lib/i18n/percorsi'
 
-/**
- * Mappa «da atlante» (rilievo e tinta, vicini, fiumi, percorso del viaggio): per ogni Paese che ha
- * src/content/mappe/<paese>-atlante.json (tools/mappe/atlante.mjs); gli altri restano con MappaPaese.
- */
-function leggiAtlante(paeseSlug: string): DatiAtlante | null {
-  if (!/^[a-z-]+$/.test(paeseSlug)) return null
-  const file = path.join(process.cwd(), 'src/content/mappe', `${paeseSlug}-atlante.json`)
-  if (!fs.existsSync(file)) return null
-  return JSON.parse(fs.readFileSync(file, 'utf8')) as DatiAtlante
-}
-
-type FileMappa = {
-  viewBox: string
-  w: number
-  h: number
-  path: string
-  proiezione: { tipo: 'mercatore'; lng0: number; y0: number; s: number; ox: number; oy: number }
-}
-
-function leggiMappa(paeseSlug: string): FileMappa | null {
-  if (!/^[a-z-]+$/.test(paeseSlug)) return null
-  const file = path.join(process.cwd(), 'src/content/mappe', `${paeseSlug}.json`)
-  if (!fs.existsSync(file)) return null
-  return JSON.parse(fs.readFileSync(file, 'utf8')) as FileMappa
-}
+// letture dei file in src/lib/mappa-geometria.ts: i contorni si scaricano a parte (/geometria-mappa/<paese>)
+type FileMappa = NonNullable<ReturnType<typeof leggiMappa>>
 
 const mercY = (lat: number) => (Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI) / 360)) * 180) / Math.PI
 const mercLat = (y: number) => (Math.atan(Math.exp((y * Math.PI) / 180)) * 360) / Math.PI - 90
@@ -190,7 +167,9 @@ export async function MappaPaeseSezione({
     })
   }
 
-  const dati: DatiMappa = { viewBox: file.viewBox, w: file.w, h: file.h, path: file.path, graticola: graticola(file) }
+  // senza contorni: arrivano dopo, da `geometria` (prima erano metà dell'HTML della pagina)
+  const dati: DatiMappa = { viewBox: file.viewBox, w: file.w, h: file.h, path: '', graticola: graticola(file) }
+  const geometria = localizza(`/geometria-mappa/${paeseSlug}`, lingua)
   const nd = punti.filter((p) => p.tipo === 'destinazione').length
   const ne = punti.length - nd
 
@@ -226,7 +205,8 @@ export async function MappaPaeseSezione({
           <MappaAtlante
             nomePaese={nomePaese}
             mappa={dati}
-            atlante={atlante}
+            atlante={atlanteSenzaContorni(atlante)}
+            geometria={geometria}
             punti={punti}
             tappe={tappe}
             percorso={percorso}
@@ -234,7 +214,7 @@ export async function MappaPaeseSezione({
             proiezione={{ y0: file.proiezione.y0, s: file.proiezione.s, oy: file.proiezione.oy }}
           />
         ) : (
-          <MappaPaese nomePaese={nomePaese} mappa={dati} punti={punti} />
+          <MappaPaese nomePaese={nomePaese} mappa={dati} punti={punti} geometria={geometria} />
         )}
       </Container>
     </section>

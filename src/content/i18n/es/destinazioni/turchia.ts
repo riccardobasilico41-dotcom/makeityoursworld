@@ -875,7 +875,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "domanda": "¿Se puede bañar uno en las terrazas?",
-        "risposta": "Se camina descalzo y uno se moja en las pozas abiertas, que tienen poca agua y cambian por turnos. Para nadar de verdad está la Piscina Antigua, entre columnas sumergidas."
+        "risposta": "Se camina descalzo y uno se moja en las pozas abiertas, que tienen poca agua y cambian por turnos. Para nadar está la Piscina Antigua, entre columnas sumergidas."
       },
       {
         "domanda": "¿Mejor entrar por la entrada baja o por la alta?",
@@ -1221,7 +1221,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Ölüdeniz y el Valle de las Mariposas",
-        "testo": "La laguna turquesa, área natural protegida, con la playa pública de Belcekız delante. Un poco más al sur, el Valle de las Mariposas es una cala cerrada entre paredes de roca, a la que en la práctica solo se llega por mar.",
+        "testo": "La laguna turquesa, área natural protegida, con la playa pública de Belcekız delante. Un poco más al sur, el Valle de las Mariposas es una cala cerrada entre paredes de roca, a la que casi solo se llega por mar.",
         "come": "Dolmuş desde Fethiye, unos 30 minutos. Para el Valle de las Mariposas, barco desde la playa de Ölüdeniz.",
         "quando": "Por la mañana, antes de que lleguen los bañistas; en verano llegar pronto para encontrar sitio.",
         "tempo": "Medio día",

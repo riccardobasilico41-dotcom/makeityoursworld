@@ -307,7 +307,7 @@ export const destinazioniNewYork: Destinazione[] = [
     giorniConsigliati: '1 giorno',
     visitataPersonalmente: true,
     introduzione: 'Il lato di New York meno da cartolina: una messa gospel di quartiere, l\'Apollo Theater e il grande parco cittadino in bicicletta fino a Strawberry Fields.',
-    percheAndarci: 'Per una New York più autentica e meno turistica del resto di Manhattan, prima di tornare nel pomeriggio al verde di Central Park.',
+    percheAndarci: 'Per una New York più di quartiere e meno turistica del resto di Manhattan, prima di tornare nel pomeriggio al verde di Central Park.',
     cosaVedere: ['L\'Apollo Theater', 'Strawberry Fields a Central Park'],
     cosaFare: [
       'Messa gospel di quartiere (c\'è una scheda esperienza dedicata)',
@@ -322,7 +322,7 @@ export const destinazioniNewYork: Destinazione[] = [
     costi: "Walking tour di Harlem 275$ + mancia. Ingresso al Met 30 $, circa 26 €; Guggenheim 30 $; Central Park Zoo 22,95 $, circa 20 €. Il parco, Strawberry Fields, Bethesda Terrace, il Belvedere Castle e il Conservatory Garden sono gratuiti. Budget basso circa 150-200 € al giorno a persona (ostello o pod hotel, cibo da deli e pizza a fetta, metro); medio 300-450 € (hotel di fascia media, un museo o un osservatorio, cena al ristorante); alto da 700 € in su (hotel di lusso, tour privati, cene e rooftop).",
     erroriDaEvitare: [],
     miaEsperienza:
-      'La messa gospel della domenica mattina è stata un\'esperienza di quartiere autentica, molto diversa da un tour organizzato. Non c\'è obbligo di offerta e ci si può alzare e uscire quando si vuole, ma vale la pena restare fino alla fine.',
+      'La messa gospel della domenica mattina è stata un\'esperienza di quartiere, molto diversa da un tour organizzato. Non c\'è obbligo di offerta e ci si può alzare e uscire quando si vuole, ma conviene restare fino alla fine.',
     luoghi: [
       {
         nome: "Apollo Theater",
@@ -509,7 +509,7 @@ export const destinazioniNewYork: Destinazione[] = [
         nome: "The Met Cloisters e Fort Tryon Park",
         distanza: "circa 30 minuti di metro da Harlem",
         come: "Metro A fino a 190 St, poi a piedi attraverso Fort Tryon Park.",
-        testo: "La sede medievale del Met, costruita con parti di chiostri europei autentici, su una collina sopra l'Hudson. Il biglietto del Met vale anche qui nello stesso giorno; è aperta da giovedì a martedì, 10-17.",
+        testo: "La sede medievale del Met, costruita con parti originali di chiostri europei, su una collina sopra l'Hudson. Il biglietto del Met vale anche qui nello stesso giorno; è aperta da giovedì a martedì, 10-17.",
       },
       {
         nome: "Yankee Stadium, nel Bronx",

@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:**
-**Durata:** 4 giorni, 3 notti — con una versione compressa da 2 giorni
+**Durata:** 4 giorni, 3 notti, con una versione compressa da 2 giorni
 **Compagni di viaggio:** con amici, in autonomia, tutto a piedi e in metro
 **Categoria:** Europa · Italia · Roma · archeologia · arte · gastronomia
 
@@ -13,7 +13,7 @@ Roma è la città dove il turista medio fa più fatica, e quasi sempre per un mo
 
 Quattro giorni sono il minimo per farla senza correre: uno per l'antica, uno per il Vaticano, uno per il centro barocco, uno per la Roma che non finisce sulle cartoline. Due giorni si possono fare (e più sotto c'è la versione), ma vanno fatti con una rinuncia esplicita, decisa prima di partire e non improvvisata in mezzo alla strada con i piedi che fanno male.
 
-La cosa che cambia davvero l'esperienza non è quali monumenti si scelgono: è **prenotare tutto un mese prima**. A Roma i due ingressi che si esauriscono davvero (Galleria Borghese e le aree speciali del Colosseo) non si recuperano il giorno stesso in nessun modo.
+Più della scelta dei monumenti, conta **prenotare tutto un mese prima**. A Roma i due ingressi che vanno sempre esauriti (Galleria Borghese e le aree speciali del Colosseo) non si recuperano il giorno stesso in nessun modo.
 
 ## Scheda pratica
 - **Quando andare:** **aprile, maggio, inizio giugno, ottobre e novembre.** Luglio e agosto sono torridi e il centro è senza ombra; ad agosto molte attività storiche di quartiere chiudono per ferie. L'inverno è freddo ma gestibile e poco affollato, anche se le giornate corte limitano le visite.

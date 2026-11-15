@@ -19,7 +19,8 @@ import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
 import { RiepilogoViaggio } from '@/components/RiepilogoViaggio'
 import { minutiDiLettura, PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
-import { Clock, MapPinned } from 'lucide-react'
+import { Clock, Compass, MapPinned, RotateCcw, Search, Sparkles, Users } from 'lucide-react'
+import { InfoPratiche } from '@/components/scheda/Blocchi'
 import { BudgetBreakdown } from '@/components/BudgetBreakdown'
 import type { TocItem } from '@/components/StickyTableOfContents'
 import { GiorniBarraMobile, type VoceGiorno } from '@/components/signature/GiorniBarraMobile'
@@ -50,7 +51,7 @@ import { JsonLd } from '@/components/JsonLd'
 import { articoloViaggioJsonLd, breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
 import type { EditorialMeta } from '@/content/viaggi-editorial'
 import { getHeroVideo } from '@/content/viaggi-hero-video'
-import { pageMetadata, titoloSeoViaggio } from '@/lib/seo'
+import { pageMetadata, primoTitoloCheSta, titoloSeoViaggio } from '@/lib/seo'
 import { DomandeViaggio } from '@/components/domande/DomandeViaggio'
 import { ProssimaDestinazione } from '@/components/ProssimaDestinazione'
 import { domandePubblicate } from '@/lib/domande/archivio'
@@ -217,7 +218,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const editorial = editoriale(slug, lingua)
   return pageMetadata({
     ogPropria: true, // opengraph-image.tsx della pagina
-    title: editorial.seoTitle ?? titoloSeoViaggio(viaggio.titolo),
+    title: primoTitoloCheSta([editorial.seoTitle, editorial.titoloBreve, titoloSeoViaggio(viaggio.titolo)]),
     description: editorial.seoDescription ?? viaggio.descrizione,
     socialTitle: editorial.socialTitle,
     socialDescription: editorial.socialDescription,
@@ -234,6 +235,14 @@ const CAMPI_VIAGGIO_IN_BREVE = [
   'cosaCambierei',
   'aChiLoConsiglio',
 ] as const satisfies (keyof ViaggioInBreve)[]
+
+const ICONE_IN_BREVE = {
+  percheHoScelto: Compass,
+  cosaCercavo: Search,
+  treEsperienzePiuBelle: Sparkles,
+  cosaCambierei: RotateCcw,
+  aChiLoConsiglio: Users,
+} as const
 
 export default async function ViaggioPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
@@ -425,16 +434,35 @@ function SignatureViaggioContent({
       <PageHeader
         crumbs={briciole.map((b, i) => (i === briciole.length - 1 ? { label: b.nome } : { label: b.nome, href: b.percorso }))}
         eyebrow={etichetta(getContinente(viaggio.categorie), lingua)}
-        title={(() => {
+        {...(() => {
+          // Titoli lunghi da frase SEO («Manchester e Liverpool in un weekend lungo: la Premier League, …»):
+          // sulla pagina la parte prima dei due punti fa da titolo grande (in colore del Paese), il resto
+          // scende in una riga più piccola sotto, sempre dentro l'H1. I due punti restano per i lettori di schermo.
           const titolo = editorial.editorialHeadline ?? viaggio.titolo
+          const colore = colorePaese(meta.paeseSlug, getContinente(viaggio.categorie))
           const parti = testaTitolo(titolo)
-          if (!parti) return titolo
-          return (
-            <>
-              <span style={{ color: colorePaese(meta.paeseSlug, getContinente(viaggio.categorie)) }}>{parti[0]}</span>
-              {parti[1]}
-            </>
-          )
+          if (!parti) return { title: titolo }
+          const [testa, resto] = parti
+          if (testa.endsWith(':') && resto.trim()) {
+            const sotto = resto.trim()
+            return {
+              title: <span style={{ color: colore }}>{testa.slice(0, -1)}</span>,
+              titleNote: (
+                <>
+                  <span className="sr-only">: </span>
+                  {sotto.charAt(0).toLocaleUpperCase(lingua) + sotto.slice(1)}
+                </>
+              ),
+            }
+          }
+          return {
+            title: (
+              <>
+                <span style={{ color: colore }}>{testa}</span>
+                {resto}
+              </>
+            ),
+          }
         })()}
         lead={
           <>
@@ -513,22 +541,20 @@ function SignatureViaggioContent({
               <TripSummary meta={meta} />
               {CAMPI_VIAGGIO_IN_BREVE.some((key) => meta.viaggioInBreve[key]) && (
                 <div id="il-viaggio-in-breve" className="scroll-mt-24">
-                  <h2 className="font-display text-xl text-alpine">{t.inBreve}</h2>
-                  <dl className="mt-4 grid gap-4 sm:grid-cols-2">
-                    {CAMPI_VIAGGIO_IN_BREVE.filter((key) => meta.viaggioInBreve[key]).map((key) => (
-                      <div key={key} className="rounded-none border border-alpine/10 p-4">
-                        <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t[key]}</dt>
-                        <dd className="mt-1.5 text-sm leading-relaxed text-ink">{meta.viaggioInBreve[key]}</dd>
-                      </div>
-                    ))}
-                  </dl>
+                  <InfoPratiche
+                    id="il-viaggio-in-breve-titolo"
+                    titolo={t.inBreve}
+                    fascia={false}
+                    avviso={false}
+                    voci={CAMPI_VIAGGIO_IN_BREVE.map((key) => ({ label: t[key], value: meta.viaggioInBreve[key], icona: ICONE_IN_BREVE[key] }))}
+                  />
                 </div>
               )}
             </div>
 
             {viaggio.schedaPratica && (
               <div id="scheda-pratica" className="scroll-mt-24 border-2 border-ink bg-cream-dark/50 p-6 sm:p-8">
-                <h2 className="font-display text-2xl text-alpine">{t.schedaPratica}</h2>
+                <h2 className="titolo-scheda text-alpine">{t.schedaPratica}</h2>
                 {viaggio.periodo && viaggio.periodo !== viaggio.periodoBreve && (
                   <p className="mt-4 text-sm leading-relaxed text-stone">
                     <span className="font-semibold text-ink">{t.periodo}</span>
@@ -556,7 +582,7 @@ function SignatureViaggioContent({
             </p>
             {meta.tappeMappa.length > 0 && (
               <div id="mappa" className="scroll-mt-24">
-                <h2 className="font-display text-2xl text-alpine">{t.laRotta}</h2>
+                <h2 className="titolo-sezione text-alpine">{t.laRotta}</h2>
                 <p className="mt-2 max-w-xl text-sm leading-relaxed text-stone">
                   {unica ? t.rottaLeadUnica(unica.nome) : rotta ? t.rottaLeadMappa : t.rottaLead}
                 </p>
@@ -634,7 +660,7 @@ function SignatureViaggioContent({
 
             {viaggio.giorni.length > 0 && (
               <div id="itinerario-giorno-per-giorno" className="scroll-mt-24">
-                <h2 className="font-display text-2xl text-alpine">
+                <h2 className="titolo-sezione text-alpine">
                   {meta.unitaGiorniLabel ? t.itinerarioZone : t.itinerarioGiorni}
                 </h2>
                 <div className="mt-10">
@@ -653,7 +679,7 @@ function SignatureViaggioContent({
 
             {cosaVedereSezione && (
               <div id={slugify(cosaVedereSezione.titolo)} className="scroll-mt-24">
-                <h2 className="font-display text-2xl text-alpine">{cosaVedereSezione.titolo}</h2>
+                <h2 className="titolo-sezione text-alpine">{cosaVedereSezione.titolo}</h2>
                 <Prose className="mt-4">{cosaVedereSezione.corpo}</Prose>
               </div>
             )}
@@ -679,7 +705,7 @@ function SignatureViaggioContent({
             </div>
 
             <div id="budget" className="scroll-mt-24">
-              <h2 className="font-display text-2xl text-alpine">{t.budget}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.budget}</h2>
               <p className="mt-2 text-sm text-stone">
                 {t.budgetNota}
               </p>
@@ -690,7 +716,7 @@ function SignatureViaggioContent({
 
             {consigliSezione && (
               <div id={slugify(consigliSezione.titolo)} className="scroll-mt-24">
-                <h2 className="font-display text-2xl text-alpine">{consigliSezione.titolo}</h2>
+                <h2 className="titolo-sezione text-alpine">{consigliSezione.titolo}</h2>
                 <Prose className="mt-4">{consigliSezione.corpo}</Prose>
               </div>
             )}

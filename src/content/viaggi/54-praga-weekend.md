@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Praga è la città che più di ogni altra capitale dell'Europa centrale ha attraversato il Novecento senza perdere la propria pelle medievale e barocca: mentre Varsavia veniva rasa al suolo e Dresda bruciava sotto le bombe, il centro storico praghese è arrivato fino a oggi quasi intatto, tanto da valergli il soprannome di "città dalle cento torri". Cammina come una città del Trecento perché lo è ancora davvero, non è una ricostruzione, a differenza di tanti altri centri storici europei rifatti dopo il 1945.
+Praga è la città che più di ogni altra capitale dell'Europa centrale ha attraversato il Novecento senza perdere la propria pelle medievale e barocca: mentre Varsavia veniva rasa al suolo e Dresda bruciava sotto le bombe, il centro storico praghese è arrivato fino a oggi quasi intatto, tanto da valergli il soprannome di "città dalle cento torri". Cammina come una città del Trecento perché lo è ancora: a differenza di tanti altri centri storici europei rifatti dopo il 1945, non è una ricostruzione.
 
 Tre o quattro giorni bastano per fare bene la Praga essenziale: la Città Vecchia con l'Orologio Astronomico, il Ponte Carlo che porta a Malá Strana e al Castello, il quartiere ebraico di Josefov, e Vyšehrad come contrappunto tranquillo a chi ha già visto il grosso della folla del centro. È anche una città dove conviene arrivare preparati su un paio di cose molto pratiche (la valuta non è l'euro, e intorno alla piazza principale circolano schemi di conti gonfiati piuttosto consolidati) più che su una lista infinita di monumenti da spuntare.
 

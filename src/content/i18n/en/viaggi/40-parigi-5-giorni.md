@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
 **Periodo del viaggio:**
-**Durata:** 5 days, 4 nights — with a 3-day version
+**Durata:** 5 days, 4 nights, with a 3-day version
 **Compagni di viaggio:** with friends, independently, by metro and on foot
 **Categoria:** Europa · Francia · Parigi · arte · architettura
 

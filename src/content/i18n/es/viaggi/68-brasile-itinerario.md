@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Brasil es tan grande como Europa y no se recorre entero en tres semanas: hay que elegir. Este itinerario reúne los paisajes más distintos que se pueden alcanzar con pocos vuelos internos. Río de Janeiro, entre montañas de granito, selva y océano. La Costa Verde, con la ciudad colonial de Paraty y la isla sin coches de Ilha Grande. Las cataratas de Iguazú, para ver desde dos países. Salvador, la ciudad más africana de las Américas, y tras ella el altiplano de cañones y cuevas de la Chapada Diamantina. Por último, los Lençóis Maranhenses, dunas blancas hasta donde alcanza la vista con lagunas de agua de lluvia entre una duna y otra, que solo existen de verdad de junio a septiembre.
+Brasil es tan grande como Europa y no se recorre entero en tres semanas: hay que elegir. Este itinerario reúne los paisajes más distintos que se pueden alcanzar con pocos vuelos internos. Río de Janeiro, entre montañas de granito, selva y océano. La Costa Verde, con la ciudad colonial de Paraty y la isla sin coches de Ilha Grande. Las cataratas de Iguazú, para ver desde dos países. Salvador, la ciudad más africana de las Américas, y tras ella el altiplano de cañones y cuevas de la Chapada Diamantina. Por último, los Lençóis Maranhenses, dunas blancas hasta donde alcanza la vista con lagunas de agua de lluvia entre una duna y otra, que solo están de junio a septiembre.
 
 Julio-agosto se ha elegido por esas lagunas, y es el mismo periodo en que se abren las dos extensiones propuestas al final. La primera es el **Pantanal**, el mayor humedal del mundo, donde entre julio y octubre se ven jaguares en las orillas de los ríos. La segunda es la **Amazonia** desde Manaos, con la posibilidad de seguir en barco por el río Amazonas hasta la frontera con Colombia y Perú. El viaje es para quien quiere naturaleza y ciudad a la vez, acepta algunas jornadas de traslado y busca un Brasil más variado que Río y playa.
 
@@ -76,7 +76,7 @@ La bahía de Paraty tiene decenas de islas y playas a las que solo se llega por 
 
 *Conviene saber: quien tenga un día más puede ir a **Trindade**, a 30 minutos al sur, con playas salvajes y la piscina natural del Cachadaço.*
 
-Las escunas salen del muelle de Paraty a media mañana y vuelven por la tarde, con tres o cuatro paradas para bañarse y hacer snorkel: por precio y calidad vale la pena comparar varias agencias, y las lanchas privadas se reparten bien entre cuatro o seis personas. Las cascadas y los alambiques están en la carretera de montaña hacia Cunha, a pocos kilómetros del centro, y se llega en taxi, con un tour o en el autobús local. *En la roca del Tobogã se resbala de verdad: quien lo prueba lo hace con prudencia, mirando antes por dónde bajan los del lugar.*
+Las escunas salen del muelle de Paraty a media mañana y vuelven por la tarde, con tres o cuatro paradas para bañarse y hacer snorkel: por precio y calidad conviene comparar varias agencias, y las lanchas privadas se reparten bien entre cuatro o seis personas. Las cascadas y los alambiques están en la carretera de montaña hacia Cunha, a pocos kilómetros del centro, y se llega en taxi, con un tour o en el autobús local. *En la roca del Tobogã se resbala de verdad: quien lo prueba lo hace con prudencia, mirando antes por dónde bajan los del lugar.*
 
 **En la práctica:** escuna de 4-5 horas con paradas, unos 100-150 R$ por persona, almuerzo aparte · lancha privada más cara, a negociar en el muelle · para las cascadas, escarpines y una toalla · Trindade a unos 30 minutos al sur, con autobuses locales desde Paraty.
 

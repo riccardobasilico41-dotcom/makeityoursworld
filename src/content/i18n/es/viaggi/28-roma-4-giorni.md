@@ -13,7 +13,7 @@ Roma es la ciudad donde el turista medio sufre más, y casi siempre por un solo 
 
 Cuatro días son el mínimo para hacerla sin correr: uno para la antigua, uno para el Vaticano, uno para el centro barroco, uno para la Roma que no sale en las postales. Dos días se pueden hacer (y más abajo está la versión), pero hay que hacerlos con una renuncia explícita, decidida antes de salir y no improvisada en mitad de la calle con los pies doloridos.
 
-Lo que de verdad cambia la experiencia no es qué monumentos se eligen: es **reservarlo todo con un mes de antelación**. En Roma las dos entradas que de verdad se agotan (la Galería Borghese y las áreas especiales del Coliseo) no se recuperan el mismo día de ninguna manera.
+Más que la elección de los monumentos, cuenta **reservarlo todo con un mes de antelación**. En Roma las dos entradas que siempre se agotan (la Galería Borghese y las áreas especiales del Coliseo) no se recuperan el mismo día de ninguna manera.
 
 ## Scheda pratica
 - **Cuándo ir:** **abril, mayo, principios de junio, octubre y noviembre.** Julio y agosto son tórridos y el centro no tiene sombra; en agosto muchos negocios históricos de barrio cierran por vacaciones. El invierno es frío pero manejable y poco concurrido, aunque los días cortos limitan las visitas.

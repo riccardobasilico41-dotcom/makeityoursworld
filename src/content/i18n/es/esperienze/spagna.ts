@@ -158,6 +158,7 @@ export const esperienzeSpagna: Esperienza[] = [
     paeseSlug: 'spagna',
     destinazioneSlug: 'ibiza',
     nome: 'El norte de Ibiza: calas y mercadillos más allá de la vida nocturna',
+    titoloBreve: 'El norte de Ibiza: calas y mercadillos',
     localita: 'Sant Joan de Labritja y Santa Gertrudis, Ibiza',
     cosE:
       "Una jornada (o más) en el norte rural de Ibiza: las calas de Cala Xarraca y Cala Sant Vicent, el mercadillo hippie y artesanal de Las Dalias o el del sábado de Sant Joan y el atardecer con tambores de Benirràs, un rito informal del domingo que dura desde hace décadas.",

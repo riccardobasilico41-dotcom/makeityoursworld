@@ -170,6 +170,7 @@ export const esperienzeSpagna: Esperienza[] = [
     paeseSlug: 'spagna',
     destinazioneSlug: 'ibiza',
     nome: 'Il nord di Ibiza: calette e mercati oltre la vita notturna',
+    titoloBreve: 'Il nord di Ibiza: calette e mercati',
     localita: 'Sant Joan de Labritja e Santa Gertrudis, Ibiza',
     cosE:
       'Una giornata (o più) nel nord rurale di Ibiza: le calette di Cala Xarraca e Cala Sant Vicent, il mercato hippie e artigianale di Las Dalias o quello del sabato di Sant Joan e il tramonto coi tamburi di Benirràs, un rito informale della domenica che va avanti da decenni.',

@@ -879,7 +879,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "domanda": "Si può fare il bagno nelle terrazze?",
-        "risposta": "Si cammina scalzi e ci si bagna nelle vasche aperte, che hanno poca acqua e cambiano a rotazione. Per nuotare davvero c'è la Piscina Antica, tra le colonne sommerse."
+        "risposta": "Si cammina scalzi e ci si bagna nelle vasche aperte, che hanno poca acqua e cambiano a rotazione. Per nuotare c'è la Piscina Antica, tra le colonne sommerse."
       },
       {
         "domanda": "Meglio entrare dall'ingresso basso o da quello alto?",
@@ -1225,7 +1225,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Ölüdeniz e la Valle delle Farfalle",
-        "testo": "La laguna turchese, area naturale protetta, con la spiaggia pubblica di Belcekız davanti. Poco più a sud la Valle delle Farfalle è una caletta chiusa tra pareti di roccia, raggiungibile in pratica solo dal mare.",
+        "testo": "La laguna turchese, area naturale protetta, con la spiaggia pubblica di Belcekız davanti. Poco più a sud la Valle delle Farfalle è una caletta chiusa tra pareti di roccia, raggiungibile quasi solo dal mare.",
         "come": "Dolmuş da Fethiye, circa 30 minuti. Per la Valle delle Farfalle barca dalla spiaggia di Ölüdeniz.",
         "quando": "Mattina, prima dell'afflusso dei bagnanti; in estate arrivare presto per trovare posto.",
         "tempo": "Mezza giornata",

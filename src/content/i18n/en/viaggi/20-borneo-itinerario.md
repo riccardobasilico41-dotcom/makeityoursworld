@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Borneo isn't an appendix of Malaysia: it's a trip of its own, with timing, costs and logic completely different from the peninsula, which is why it gets its own itinerary here. In twelve days you climb the highest mountain in Southeast Asia between the Himalayas and New Guinea, you see orangutans in two opposite ways, you go up a river where wildlife is concentrated like nowhere else in the region, and you dive down a coral wall many consider the best on the planet. It's also the trip where you understand what palm oil has done to this island: you land over a neat green carpet that looks like forest, and isn't. You see it better from here than in any documentary.
+Malaysian Borneo has timing, costs and logic completely different from the peninsula, which is why it gets its own itinerary here. In twelve days you climb the highest mountain in Southeast Asia between the Himalayas and New Guinea, you see orangutans in two opposite ways, you go up a river where wildlife is concentrated like nowhere else in the region, and you dive down a coral wall many consider the best on the planet. It's also the trip where you understand what palm oil has done to this island: you land over a neat green carpet that looks like forest, and isn't. You see it better from here than in any documentary.
 
 ## Scheda pratica
 - **When to go:** from **March to October**, with the best months between April and September. It holds true for everything at the same time, which is rare: calm sea and high visibility at Sipadan, lower chance of rain at the top of Kinabalu and a low river on the Kinabatangan, which is the condition for the animals to stay concentrated on the banks instead of scattering into the flooded forest.
@@ -107,7 +107,7 @@ The **Gomantong Caves** are about an hour's drive from Sukau, on the way south: 
 ### Day 9 — Mabul: muck diving
 The first diving day was around **Mabul and Kapalai**. Almost everyone treats them as just a base for Sipadan, but they're actually among the best places in the world for **muck diving**: shallow sandy bottoms where you look for pygmy seahorses the size of a fingernail, mimic octopuses, nudibranchs and frogfish.
 
-It's also the day you see a contrast worth stopping to think about: around the stilt houses, fifty meters from the resorts, live the **Bajau Laut**, the "sea nomads", often without citizenship of any state.
+It's also the day you see a contrast that makes you think: around the stilt houses, fifty meters from the resorts, live the **Bajau Laut**, the "sea nomads", often without citizenship of any state.
 
 The dives at Mabul are easy, with little current and modest depths, and suit even recently certified divers: it's the right place to get comfortable with your gear again before Sipadan. The pace is slow. Local guides find animals you'd never spot on your own, and the trick is to stay still on the bottom without stirring up the sand. *A torch helps even if you don't take photos: under the jetties and among the artificial wrecks the colours only show with light.*
 
@@ -139,7 +139,7 @@ Allow plenty of margin for the transfer to Tawau: the road from Semporna runs th
 **In practice:** Semporna-Tawau airport about an hour and a half · at the airport an hour and a half before domestic flights · respect the gap of at least 18-24 hours after the last dive · spend leftover ringgit before leaving Malaysia.
 
 ## What to see / what to do
-- **Book Kinabalu and Sipadan months ahead.** It's the one thing that truly decides this trip.
+- **Book Kinabalu and Sipadan months ahead.** The whole trip depends on it.
 - **Dawn from the granite plateau** at 4,095 meters.
 - **Both feedings at Sepilok**, not one.
 - **The sun bear center**, which almost everyone skips.

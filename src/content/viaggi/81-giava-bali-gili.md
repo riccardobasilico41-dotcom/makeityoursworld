@@ -60,7 +60,7 @@ Giornata di trasferimento. Il treno da Yogyakarta a **Surabaya Gubeng** impiega 
 **In pratica:** treni da prenotare qualche giorno prima nei periodi di festa · minivan Probolinggo-Cemoro Lawang circa 1 ora e mezza · a Cemoro Lawang poche sistemazioni e prezzi più alti della media: prenotare in anticipo · ingresso al parco del Bromo da pagare a parte (vedi giorno dopo).
 
 ### Giorno 5 — Alba al Bromo e verso l'Ijen
-Si parte verso le 3 in **jeep 4x4** per il punto panoramico del Penanjakan. Il jeep condiviso costa di riferimento 700.000-900.000 IDR **a veicolo**, da dividere in 4-6 persone. Chi ne chiede il doppio all'alba sta solo approfittando della fretta. L'alba con il Bromo che fuma e il Semeru dietro è spettacolare. È anche affollata: centinaia di jeep e file di telefoni alzati. Vale lo stesso. Poi si scende nel **Mare di Sabbia** e si sale a piedi fino all'orlo del cratere. Servono strati pesanti, perché in quota di notte fa freddo davvero.
+Si parte verso le 3 in **jeep 4x4** per il punto panoramico del Penanjakan. Il jeep condiviso costa di riferimento 700.000-900.000 IDR **a veicolo**, da dividere in 4-6 persone. Chi ne chiede il doppio all'alba sta solo approfittando della fretta. L'alba con il Bromo che fuma e il Semeru dietro è spettacolare. È anche affollata: centinaia di jeep e file di telefoni alzati. Vale lo stesso. Poi si scende nel **Mare di Sabbia** e si sale a piedi fino all'orlo del cratere. Servono strati pesanti, perché in quota di notte fa molto freddo.
 
 L'ultimo tratto verso il cratere è una scalinata di circa 250 gradini, spesso coperta di sabbia; dal basso si può salire a cavallo, ma il prezzo va fissato prima. Si rientra a Cemoro Lawang per la colazione verso le 8-9. Chi ha ancora energie fa una deviazione alla cascata di **Madakaripura**, a circa 45 minuti di auto: si cammina lungo il fiume e ci si bagna, quindi servono sandali e una busta per il telefono. Nel pomeriggio si va verso **Banyuwangi** o **Licin**, le basi per l'Ijen. Il trasferimento più semplice è un'auto privata, prenotata a Cemoro Lawang.
 
@@ -90,7 +90,7 @@ Da Munduk si arriva in un'ora e mezza circa. *Il colore cambia molto con il cicl
 ### Giorno 9 — Ubud e le risaie di Tegalalang
 Giornata a Ubud. Le **risaie di Tegalalang** sono le più famose e anche le più frequentate: si vedono meglio la mattina presto. Si trovano a circa venti minuti di strada a nord del centro; prima delle 8 la luce è morbida e i gruppi non sono ancora arrivati. Lungo i sentieri tra le terrazze i contadini chiedono a volte una piccola offerta per il passaggio, e ci sono altalene e cornici per le foto a pagamento.
 
-Chi vuole fatica sale sul **Gunung Batur** per l'alba, con partenza nella notte. La salita dura circa due ore e la guida locale è in pratica obbligatoria. Chi preferisce un giorno più lento resta in centro tra templi e mercati: il **palazzo reale** di Ubud, il **tempio di Saraswati** con le ninfee e la **Monkey Forest**. Qui, lontano dal cemento del sud, davanti alle case ci sono le offerte di fiori rinnovate ogni mattina. *Nella Monkey Forest i macachi rubano occhiali, cappelli e cibo: meglio entrare con lo zaino chiuso e niente in mano.* La sera, nel palazzo e nei templi del centro, ci sono spettacoli di danza balinese quasi ogni giorno.
+Chi vuole fatica sale sul **Gunung Batur** per l'alba, con partenza nella notte. La salita dura circa due ore e la guida locale è di fatto obbligatoria. Chi preferisce un giorno più lento resta in centro tra templi e mercati: il **palazzo reale** di Ubud, il **tempio di Saraswati** con le ninfee e la **Monkey Forest**. Qui, lontano dal cemento del sud, davanti alle case ci sono le offerte di fiori rinnovate ogni mattina. *Nella Monkey Forest i macachi rubano occhiali, cappelli e cibo: meglio entrare con lo zaino chiuso e niente in mano.* La sera, nel palazzo e nei templi del centro, ci sono spettacoli di danza balinese quasi ogni giorno.
 
 **In pratica:** trekking del Batur con ritiro in hotel verso le 2-3 di notte, permesso circa 100.000 IDR a persona più la guida · Tegalalang con un piccolo biglietto d'ingresso · biglietti per le danze serali in vendita all'ingresso nel pomeriggio.
 
@@ -145,7 +145,7 @@ Se il volo parte presto, è meglio passare l'ultima notte vicino all'aeroporto e
 - **Il jeep del Bromo si paga a veicolo**, di riferimento 700.000-900.000 IDR, da dividere.
 - **Portare vestiti pesanti** per Bromo e Ijen: di notte in quota fa freddo.
 - **Maschera antigas all'Ijen**, senza eccezioni.
-- **Lo scooter solo se sai guidare davvero:** altrimenti driver a giornata, Grab o Gojek.
+- **Lo scooter solo se lo sai già guidare bene:** altrimenti driver a giornata, Grab o Gojek.
 - **Saltare il sud generico di Bali**, attorno a Seminyak: Uluwatu ha la stessa costa con più carattere.
 - **Tenere un margine sull'ultimo giorno:** con il mare mosso le barche dalle Gili ritardano.
 - **Compilare e-VOA e All Indonesia Arrival Card** prima della partenza, sui portali ufficiali.

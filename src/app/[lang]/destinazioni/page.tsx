@@ -68,7 +68,17 @@ export default async function DestinazioniIndexPage() {
   const lingua = await linguaCorrente()
   const t = T[lingua]
   const paesi = getAllPaesi(lingua)
-  const gruppi = raggruppaPerContinente(paesi, (p) => p.continente)
+  // raggruppati per area, con gli stessi nomi delle pagine area e dei filtri (es. «Africa e Medio
+  // Oriente»); i continenti che non stanno in nessuna area restano per continente, in fondo
+  const gruppi = [
+    ...AREE.map((area) => ({ chiave: area.slug, nome: area.nome[lingua], href: `/aree/${area.slug}` as string | undefined, items: paesi.filter((p) => area.continenti.includes(p.continente)) })),
+    ...raggruppaPerContinente(paesi.filter((p) => !AREE.some((a) => a.continenti.includes(p.continente))), (p) => p.continente).map((g) => ({
+      chiave: g.continente,
+      nome: etichetta(g.continente, lingua),
+      href: undefined as string | undefined,
+      items: g.items,
+    })),
+  ].filter((g) => g.items.length > 0)
 
   return (
     <>
@@ -96,20 +106,17 @@ export default async function DestinazioniIndexPage() {
       <section className="sezione">
       <Container>
         <div className="space-y-16">
-          {gruppi.map(({ continente, items }) => (
-            <div key={continente}>
+          {gruppi.map(({ chiave, nome, href, items }) => (
+            <div key={chiave}>
               <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
-                <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">
-                  {(() => {
-                    const area = AREE.find((a) => a.continenti.includes(continente))
-                    return area ? (
-                      <Link href={`/aree/${area.slug}`} className="hover:text-rosso">
-                        {etichetta(continente, lingua)}
-                      </Link>
-                    ) : (
-                      etichetta(continente, lingua)
-                    )
-                  })()}
+                <h2 className="titolo-sezione text-alpine">
+                  {href ? (
+                    <Link href={href} className="hover:text-rosso">
+                      {nome}
+                    </Link>
+                  ) : (
+                    nome
+                  )}
                 </h2>
                 <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">
                   {contaPaesi(items)} {contaPaesi(items) === 1 ? t.paese : t.paesi}
@@ -121,7 +128,7 @@ export default async function DestinazioniIndexPage() {
                   <RevealItem key={paese.slug}>
                     <Link
                       href={`/destinazioni/${paese.slug}`}
-                      className="group flex h-full flex-col overflow-hidden rounded-none border border-alpine/10 bg-white transition-[border-color,transform] duration-150 ease-out hover:border-ink active:scale-[0.99] motion-reduce:active:scale-100"
+                      className="group flex h-full flex-col overflow-hidden scheda-lista active:scale-[0.99] motion-reduce:active:scale-100"
                     >
                       {paese.heroImage && (
                         <div className="relative aspect-[16/10] overflow-hidden bg-cream-dark">
@@ -135,7 +142,7 @@ export default async function DestinazioniIndexPage() {
                         </div>
                       )}
                       <div className="flex flex-1 flex-col gap-3 p-6">
-                      <h3 className="font-display text-xl font-medium text-alpine">{paese.nome}</h3>
+                      <h3 className="titolo-scheda text-alpine">{paese.nome}</h3>
                       <p className="text-sm leading-relaxed text-stone">{paese.descrizione}</p>
                       <span className="mt-auto inline-flex items-center gap-1.5 pt-2 text-sm font-medium text-rosso">
                         {t.esplora}

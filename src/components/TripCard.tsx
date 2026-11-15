@@ -107,7 +107,7 @@ export function TripCard({
   return (
     <Link
       href={`/viaggi/${viaggio.slug}`}
-      className="group relative flex flex-col overflow-hidden rounded-none border border-alpine/10 bg-white transition-[border-color,transform] duration-150 ease-out hover:border-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
+      className="group relative flex flex-col overflow-hidden scheda-lista focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
     >
       {featured && <FeaturedBorderTrail />}
       <div
@@ -147,9 +147,7 @@ export function TripCard({
       </div>
       <div className="flex flex-1 flex-col gap-3 p-6">
         <h3
-          className={`font-display font-medium leading-tight text-alpine ${
-            featured ? 'text-2xl' : 'text-lg'
-          }`}
+          className={`titolo-scheda text-alpine ${featured ? 'sm:text-2xl' : ''}`}
         >
           {viaggio.titolo}
         </h3>

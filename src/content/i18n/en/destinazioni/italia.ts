@@ -1473,7 +1473,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Ordering a \"bistecca fiorentina\" well done or under two hundred and fifty grams: it doesn't exist, and anyone serving it that way is serving something else",
     ],
     miaEsperienza:
-      "Florence has a problem of scale that the guidebooks don't mention: everything you come to see fits in half a square kilometer, and from April to October the center is a dense crowd moving slowly along three axes. In practice the city should be done backwards: early in the morning, or in November. The dome climb booked for the first slot, at eight thirty, is a different experience from doing it at noon: you climb a narrow staircase between the two shells, pass a few centimeters from the frescoes of the Last Judgment, and at the top there's air. Almost nobody goes to the Museo dell'Opera del Duomo, which is worth as much as the Uffizi: inside are the original doors of the Baptistery (the ones in the square are copies) and Michelangelo's last Pietà, the one he wanted to destroy. There are four people. For sunset everyone goes to Piazzale Michelangelo, which is a parking lot with vendors; a hundred meters higher is San Miniato al Monte, a Romanesque church from the year 1000 with a marble-inlaid façade, the same view and, in the afternoon, monks singing Gregorian chant in the crypt.",
+      "Florence has a problem of scale that the guidebooks don't mention: everything you come to see fits in half a square kilometer, and from April to October the center is a dense crowd moving slowly along three axes. So the city should be done backwards: early in the morning, or in November. The dome climb booked for the first slot, at eight thirty, is a different experience from doing it at noon: you climb a narrow staircase between the two shells, pass a few centimeters from the frescoes of the Last Judgment, and at the top there's air. Almost nobody goes to the Museo dell'Opera del Duomo, which is worth as much as the Uffizi: inside are the original doors of the Baptistery (the ones in the square are copies) and Michelangelo's last Pietà, the one he wanted to destroy. There are four people. For sunset everyone goes to Piazzale Michelangelo, which is a parking lot with vendors; a hundred meters higher is San Miniato al Monte, a Romanesque church from the year 1000 with a marble-inlaid façade, the same view and, in the afternoon, monks singing Gregorian chant in the crypt.",
     luoghi: [
       {
         "nome": "Duomo and Brunelleschi's dome",
@@ -1547,7 +1547,7 @@ export const destinazioniItalia: Destinazione[] = [
         "lat": 43.768,
         "lng": 11.244,
         "url": "https://museicivicifiorentini.comune.fi.it/",
-        "consiglio": "It is less crowded than the big museums and just as important. Before going in it is worth reading a couple of lines on Masaccio: the visit is far more interesting."
+        "consiglio": "It is less crowded than the big museums and just as important. Before going in, read a couple of lines on Masaccio: the visit is far more interesting."
       },
       {
         "nome": "San Miniato al Monte",
@@ -2134,7 +2134,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "domanda": "Is it better to stay in Venice or Mestre?",
-        "risposta": "Mestre costs about half and is ten minutes by train, but you miss the city in the evening and early morning. For one or two nights it is worth paying more to stay in Cannaregio or Castello."
+        "risposta": "Mestre costs about half and is ten minutes by train, but you miss the city in the evening and early morning. For one or two nights it makes sense to pay more to stay in Cannaregio or Castello."
       },
       {
         "domanda": "What happens with acqua alta?",
@@ -2256,7 +2256,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Herculaneum",
-        "testo": "A smaller city than Pompeii, buried by mud rather than ash: upper floors, charred wooden beams, doors and beds survived. You see how people really lived.",
+        "testo": "A smaller city than Pompeii, buried by mud rather than ash: upper floors, charred wooden beams, doors and beds survived. You see how people lived at home.",
         "come": "Circumvesuviana Napoli-Sorrento line to Ercolano Scavi, from Napoli Garibaldi, then a short walk downhill.",
         "quando": "Morning, in summer. The site closes on the main holidays: check the calendar on the official site.",
         "tempo": "2 hours",
@@ -2444,7 +2444,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Sorrento and the Amalfi Coast",
         "distanza": "1h10 by Circumvesuviana to Sorrento",
         "come": "Circumvesuviana to Sorrento and SITA bus to Positano and Amalfi; from spring also direct ferries from Naples.",
-        "testo": "In a day you reach Sorrento and one of the two Amalfi Coast gems. To really see it you need at least two nights there."
+        "testo": "In a day you reach Sorrento and one of the two Amalfi Coast gems. To see it properly you need at least two nights there."
       }
     ],
     sapori: [
@@ -2900,7 +2900,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Doing Agrigento at noon in summer: the Valley of the Temples has no shade and temperatures exceed 40 degrees",
       "Going in August without knowing it's the worst month in every respect",
       "Skipping the interior (Enna, Piazza Armerina, the Madonie) to stay only on the coast: it's where Sicily is most itself and least touristy",
-      "Getting granita with whipped cream thinking it's the authentic version: Sicilian granita is made with water, sugar and the fruit, and goes with the brioche col tuppo",
+      "Getting granita with whipped cream thinking it's the traditional version: Sicilian granita is made with water, sugar and the fruit, and goes with the brioche col tuppo",
       "Trusting estimated travel times: on the interior state roads add a third",
     ],
     confronti: [
@@ -3784,7 +3784,7 @@ export const destinazioniItalia: Destinazione[] = [
             pro: [
               "Accessibility: you reach them in under an hour from Naples, even as a day trip",
               "Ischia has natural hot springs, with sources already used by the Greeks",
-              "Procida has remained a fishing village and is the most authentic of the three",
+              "Procida has remained a fishing village and is the least touristy of the three",
               "Capri off-season, without the day-trippers, is a different island",
             ],
             contro: [
@@ -5638,7 +5638,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Going around the island by boat, which on Capri is the only way to see the grottoes and the Faraglioni up close",
     ],
     doveDormire:
-      "Capri is very expensive in high season; Anacapri costs quite a bit less and is quieter. Ischia has the widest and cheapest offering of the three, with its thermal hotels. Procida is the most accessible and the most authentic. **Many people base themselves in Naples or Sorrento and go for the day**: it's the cheapest choice, but the worst for Capri.",
+      "Capri is very expensive in high season; Anacapri costs quite a bit less and is quieter. Ischia has the widest and cheapest offering of the three, with its thermal hotels. Procida is the most accessible and the least touristy. **Many people base themselves in Naples or Sorrento and go for the day**: it's the cheapest choice, but the worst for Capri.",
     doveMangiare:
       "Insalata caprese and torta caprese were born on Capri, the latter with almonds and no flour. On Ischia the dish to look for is **coniglio all'ischitana**, a land dish on an island: rabbits were raised in pits dug into the tuff, and island cooking is more peasant than seafaring. On Procida you eat fish and buy the local lemon, huge, used in salads. **On the main squares you pay for the location**: two alleys away you eat better and spend half.",
     comeArrivare:

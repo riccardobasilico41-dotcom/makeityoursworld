@@ -14,7 +14,7 @@ La semana blanca es el viaje italiano que más se decide por costumbre: se va ad
 Hago semanas blancas desde pequeño, tanto fines de semana como estancias más largas.
 
 ## Scheda pratica
-- **Cuándo ir — la elección que más vale:**
+- **Cuándo ir (la elección que más cuenta):**
   - **Navidad y Nochevieja:** las dos semanas más caras del año, con diferencias **incluso del cuarenta por ciento** respecto a enero. Pistas llenas, colas, reservas con meses de antelación.
   - **Enero después de la Epifanía:** la **mejor ventana con diferencia** en relación calidad-precio. Nieve por lo general excelente, zonas esquiables abiertas por completo, pistas vacías entre semana, precios a la baja justo después del 6. A cambio, frío intenso y días cortos.
   - **Febrero:** estadísticamente la nieve más fiable, pero coincide con las semanas blancas escolares, que cambian de una región a otra. Precios altos y colas en las horas centrales.
@@ -24,7 +24,7 @@ Hago semanas blancas desde pequeño, tanto fines de semana como estancias más l
 - **Alquiler:** 25-45 € al día por un equipo completo, con descuentos en los paquetes semanales. Reservar online antes de salir cuesta menos que presentarse en la tienda.
 - **Carretera:** **las cadenas o los neumáticos de invierno son obligatorios por ley** en gran parte de la red de montaña durante el periodo invernal, con fechas que varían de una región a otra. Es una obligación sancionable, no una recomendación.
 - **Del aeropuerto al centro:** para el Sellaronda los aeropuertos cómodos son **Verona (VRN)**, **Venecia (VCE)** y **Treviso (TSF)**, y luego **Bérgamo (BGY)** e **Innsbruck (INN)**. Desde Verona a Val Gardena hay autobuses directos AltoAdigeBus, o bien tren hasta Bolzano (alrededor de 1h30) y desde allí el autobús 350, un traslado o taxi. Para el Val di Fassa está el **FlySki Shuttle** desde Verona, Venecia, Treviso, Bérgamo y Milán, los fines de semana del 19 de diciembre de 2026 al 29 de marzo de 2027, unos 50 € por trayecto, con reserva online antes de las 8 del viernes. En temporada alta los traslados se llenan, y quien alquila coche en el aeropuerto debe pedir neumáticos de invierno o cadenas.
-- **Seguro — el punto que casi nadie comprueba:** en Italia **el rescate en pista y en montaña se paga**, y en varias regiones una intervención con helicóptero cuesta miles de euros. Muchos forfaits incluyen una cobertura básica: conviene comprobar qué cubre exactamente. Desde 2022 **el seguro de responsabilidad civil es obligatorio por ley para quien esquía en pistas**, y hay que asegurarse de que la propia póliza lo incluya.
+- **Seguro, el punto que casi nadie comprueba:** en Italia **el rescate en pista y en montaña se paga**, y en varias regiones una intervención con helicóptero cuesta miles de euros. Muchos forfaits incluyen una cobertura básica: conviene comprobar qué cubre exactamente. Desde 2022 **el seguro de responsabilidad civil es obligatorio por ley para quien esquía en pistas**, y hay que asegurarse de que la propia póliza lo incluya.
 - **Fuera de pista:** **ARVA, pala y sonda, y saber usarlos.** El boletín de aludes es público y diario, con una escala del 1 al 5, y hay que leerlo antes de salir de lo pisado. No es algo que se improvise.
 - **Dónde dormir:** en invierno **estar junto a las pistas cuenta**: media hora de lanzadera con las botas puestas dos veces al día pesa más de lo que parece cuando se reserva.
 
@@ -118,7 +118,7 @@ Hacia mediodía se devuelven esquís y botas, se recupera la posible fianza de l
 ## Dove abbiamo mangiato
 - **En altura, sentados.** Es la ventaja italiana sobre la nieve: los refugios de pista no son comedores. Canederli, polenta, gulasch y casunziei en los Dolomitas; polenta concia y fonduta en el Valle de Aosta; pizzoccheri en la Valtellina.
 - **En temporada alta los mejores refugios se reservan incluso para comer**, y quien no lo sabe come donde cae.
-- **En el valle:** la media pensión resuelve la cena, pero vale la pena salir al menos un par de noches a las trattorias de pueblo, que cuestan menos que el hotel y cocinan mejor.
+- **En el valle:** la media pensión resuelve la cena, pero conviene salir al menos un par de noches a las trattorias de pueblo, que cuestan menos que el hotel y cocinan mejor.
 
 ## Consejos prácticos / errores que no hay que repetir
 - **No reservar en Navidad o Nochevieja si se puede elegir.** Son las dos semanas más caras del año, sin comparación.

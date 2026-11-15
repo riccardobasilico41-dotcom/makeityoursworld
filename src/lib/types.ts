@@ -170,6 +170,8 @@ export type Esperienza = {
   paeseSlug: string
   destinazioneSlug: string
   nome: string
+  /** Nome corto per il titolo di Google (entro 60 caratteri) quando il nome intero non ci sta. */
+  titoloBreve?: string
   localita: string
   cosE: string
   percheFarla: string

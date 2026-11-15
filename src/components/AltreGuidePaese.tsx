@@ -60,7 +60,7 @@ export function AltreGuidePaese({ slug, lingua }: { slug: string; lingua: Lingua
   return (
     <section aria-labelledby="altre-guide" className="border-t border-alpine/10 pt-10">
       <div id="altre-guide">
-        <TitoloSezione icona={BookOpen}>{t.titolo(elencoNomi)}</TitoloSezione>
+        <TitoloSezione>{t.titolo(elencoNomi)}</TitoloSezione>
       </div>
       {altri.length > 0 && (
         <>

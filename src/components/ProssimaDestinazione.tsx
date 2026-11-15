@@ -108,7 +108,7 @@ export function ProssimaDestinazione({ slug, lingua }: { slug: string; lingua: L
   const a = getPaese(getTripMeta(viaggio.slug, lingua)?.paeseSlug ?? '', lingua)?.nome
   return (
     <section className="border-t border-alpine/10 pt-10">
-      <TitoloSezione icona={Compass}>{t.titolo}</TitoloSezione>
+      <TitoloSezione>{t.titolo}</TitoloSezione>
       {da && a && da !== a && <p className="mt-3 text-stone">{t.perche(da, a)}</p>}
       <div className="mt-6 max-w-md">
         <ProssimaScheda viaggio={{ ...riduciPerScheda(viaggio), copertina: copertina(viaggio.slug, lingua) }} />

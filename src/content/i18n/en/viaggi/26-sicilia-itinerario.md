@@ -42,7 +42,7 @@ We went up by cable car and off-road vehicle to the summit zone, with the guide 
 
 **Real layers:** you leave Catania at twenty-five degrees, and at three thousand meters it can be five, with strong wind.
 
-In the afternoon, the **Silvestri craters** at low altitude (free, reachable by car) or an **Etna winery** by appointment: here the vines are often **ungrafted**, because phylloxera never reached this volcanic soil, and there are vines over a hundred years old. The wineries are mostly on the north side, around Castiglione di Sicilia and Randazzo. *When the volcano's activity increases, the summit zone is closed even at a few hours' notice: the plan B of the Silvestri craters and the wineries really matters.*
+In the afternoon, the **Silvestri craters** at low altitude (free, reachable by car) or an **Etna winery** by appointment: here the vines are often **ungrafted**, because phylloxera never reached this volcanic soil, and there are vines over a hundred years old. The wineries are mostly on the north side, around Castiglione di Sicilia and Randazzo. *When the volcano's activity increases, the summit zone is closed even at a few hours' notice: always keep the plan B of the Silvestri craters and the wineries ready.*
 
 **In practice:** cable car, off-road vehicle and guide package from about €80-95 per person, higher excursions cost more · boots, windproof jacket and hat even in summer · Rifugio Sapienza to the north-side wineries about an hour's drive.
 

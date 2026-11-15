@@ -76,7 +76,7 @@ One day in Milan works very well, better than in almost any other Italian city, 
 ## The Lakes as Day Trips
 For many people the lake excursion is the best part of a trip to Milan. Three options, in order of convenience.
 
-**Lake Como — the standard choice, and the right one the first time.**
+**Lake Como: the standard choice, and the right one the first time.**
 The practical way to do it without a car is the **direct train from Milano Centrale to Varenna**, about an hour. **Varenna** is the right village to start from precisely because **it's the only one of the three classics reachable by train** (Bellagio and Menaggio can only be reached by boat or bus), and it is smaller and more beautiful than its fame suggests, with staircases going down to the lake and the promenade over the water.
 
 From Varenna the **ferry** connects **Bellagio** and **Menaggio** in a few minutes: the triangle can be done in a day by boat, and it's the right way to see the lake, **from the water** and not from the road. **Bellagio** is the postcard village, beautiful and very crowded; **Villa Melzi** in Bellagio and **Villa Carlotta** in Tremezzo have gardens that in May, with the azaleas, are the reason to come in that precise week.
@@ -85,10 +85,10 @@ From Varenna the **ferry** connects **Bellagio** and **Menaggio** in a few minut
 
 **Como city** can be reached in under an hour from Cadorna or Centrale and is a more convenient but less beautiful base: it has the Duomo, the walls, the funicular to Brunate and its silk history. Anyone with only one day should choose **Varenna and the boat triangle**, not Como city. *My memory: Como is gorgeous, but touristy.*
 
-**Bergamo Alta — the most underrated excursion.**
+**Bergamo Alta: the most underrated excursion.**
 About fifty minutes by train, then the **funicular** up to the walled city. Piazza Vecchia with the Civic Tower, the **Colleoni Chapel** and the Basilica of Santa Maria Maggiore, the Venetian walls that can be walked with the plain below. It takes half a day, costs very little and has none of the lake's crush. **Try the casoncelli**, and the **polenta**, which here is a serious dish. *My memory: Bergamo isn't essential, but it's authentic.*
 
-**Lake Maggiore and the Borromean Islands — the longest and most scenic excursion.**
+**Lake Maggiore and the Borromean Islands: the longest and most scenic excursion.**
 Train to **Stresa**, about an hour and a half, and a boat to the islands: **Isola Bella** with its baroque palace and terraced garden with white peacocks, **Isola dei Pescatori**, a still-inhabited fishing village, and **Isola Madre** with the botanical garden. It's a full day and must be organized with the boat timetables in hand. *My memory: the Borromean Islands are a surprise if you don't know them, because they're incredibly well kept.*
 
 **Alternatively, for those who want the lake without the crowds, there's Lake Orta**: smaller, harder to reach and much quieter, with the **Island of San Giulio** and the Sacro Monte above Orta.

@@ -5,7 +5,7 @@ import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
 import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
-import { Backpack, CalendarDays, Clock, Compass, MapPin, Shuffle, Ticket, Users, Wallet } from 'lucide-react'
+import { Backpack, CalendarDays, Clock, MapPin, Ticket, Users, Wallet } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { Rich } from '@/components/ui/Rich'
@@ -140,6 +140,8 @@ export async function generateMetadata({
       t.titolo3(nome),
       t.titolo4(nome),
       nome,
+      // nome corto scritto a mano, per i nomi che da soli superano i 60 caratteri
+      esperienza.titoloBreve,
     ]),
     description: esperienza.cosE,
     path: `/esperienze/${paeseSlug}/${slug}`,
@@ -228,7 +230,7 @@ export default async function EsperienzaPage({
       <section className="sezione">
         <Container className="space-y-14">
           <div className="max-w-3xl">
-            <TitoloSezione icona={Compass}>{t.percheFarla}</TitoloSezione>
+            <TitoloSezione>{t.percheFarla}</TitoloSezione>
             <p className="mt-4 text-lg leading-relaxed text-stone">{richNodes(esperienza.percheFarla)}</p>
           </div>
 
@@ -246,7 +248,7 @@ export default async function EsperienzaPage({
 
           {esperienza.alternative.length > 0 && (
             <div>
-              <TitoloSezione icona={Shuffle}>{t.alternative}</TitoloSezione>
+              <TitoloSezione>{t.alternative}</TitoloSezione>
               <ElencoNumerato voci={esperienza.alternative} />
             </div>
           )}
@@ -279,7 +281,7 @@ export default async function EsperienzaPage({
               ]}
             />
           </div>
-          <FirmaAutore className="max-w-3xl" />
+          <FirmaAutore />
         </Container>
       </section>
     </>

@@ -202,7 +202,7 @@ function Modulo({ viaggio, lingua, onInviata }: { viaggio: string; lingua: Lingu
       className="border-2 border-ink bg-cream p-6 sm:p-8"
       aria-labelledby={id('titolo')}
     >
-      <h2 id={id('titolo')} className="font-display text-2xl text-alpine">
+      <h2 id={id('titolo')} className="titolo-scheda text-alpine">
         {t.titolo}
       </h2>
       <p className="mt-2 max-w-2xl text-sm leading-relaxed text-stone">{t.lead}</p>

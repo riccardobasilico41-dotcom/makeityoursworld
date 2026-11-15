@@ -1,7 +1,7 @@
 import type { Paese } from '@/lib/types'
 import { Container } from '@/components/ui/Container'
 import { JsonLd } from '@/components/JsonLd'
-import { Tendina } from '@/components/Tendina'
+import { ElencoFaq } from '@/components/scheda/Faq'
 import { richNodes } from '@/components/ui/Rich'
 import { faqJsonLd } from '@/lib/structured-data'
 import { linguaCorrente } from '@/lib/i18n/server'
@@ -71,19 +71,17 @@ export async function FaqPaese({ paese }: { paese: Paese }) {
     <section id="domande-frequenti" aria-labelledby="faq-titolo" className="scroll-mt-24 border-t border-alpine/10 sezione">
       <JsonLd data={jsonLd} />
       <Container>
-        <h2 id="faq-titolo" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
+        <h2 id="faq-titolo" className="titolo-sezione text-alpine">
           {t.titolo(n)}
         </h2>
-        <div className="mt-8 [&>details+details]:border-t-0">
-          {voci.map((v, i) => (
-            <Tendina key={v.domanda} titolo={v.domanda} aperta={i === 0}>
-              <div className="max-w-[70ch] space-y-3 text-base leading-relaxed text-stone">
-                {v.risposta.split(/\n\n+/).map((p, j) => (
-                  <p key={j}>{richNodes(p)}</p>
-                ))}
-              </div>
-            </Tendina>
-          ))}
+        <div className="max-w-4xl">
+          <ElencoFaq
+            primaAperta
+            voci={voci.map((v) => ({
+              domanda: v.domanda,
+              risposta: v.risposta.split(/\n\n+/).map((p, j) => <p key={j}>{richNodes(p)}</p>),
+            }))}
+          />
         </div>
       </Container>
     </section>

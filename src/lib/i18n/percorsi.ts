@@ -62,6 +62,24 @@ function inverse(l: Lingua) {
   return INVERSE[l]!
 }
 
+/*
+ * Schede note di destinazioni ed esperienze («paese/slug», forma canonica). Le loro pagine generano
+ * l'italiano e lo spagnolo alla prima visita (dynamicParams), quindi uno slug sconosciuto arrivava
+ * fino a notFound() e usciva la shell vuota `__next_error__`: il proxy le manda invece alla 404
+ * globale, già completa nell'HTML. Le chiavi della mappa inglese coprono tutte le schede.
+ */
+const SCHEDE = {
+  destinazioni: new Set(Object.keys((slugEn as MappaSlug).destinazioni)),
+  esperienze: new Set(Object.keys((slugEn as MappaSlug).esperienze)),
+}
+
+/** Il percorso canonico è una scheda di destinazione o esperienza che non esiste (/destinazioni/giappone/xyz). */
+export function schedaInesistente(percorso: string): boolean {
+  const m = percorso.match(/^\/(destinazioni|esperienze)\/([^/]+)\/([^/?#]+)\/?$/)
+  if (!m || m[3] === 'opengraph-image') return false
+  return !SCHEDE[m[1] as 'destinazioni' | 'esperienze'].has(`${m[2]}/${m[3]}`)
+}
+
 function dividi(href: string): [string, string] {
   const i = href.search(/[?#]/)
   return i === -1 ? [href, ''] : [href.slice(0, i), href.slice(i)]

@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Praga es la ciudad que, más que ninguna otra capital de Europa central, atravesó el siglo XX sin perder su piel medieval y barroca: mientras Varsovia era arrasada y Dresde ardía bajo las bombas, el casco histórico de Praga ha llegado hasta hoy casi intacto, hasta el punto de valerle el apodo de «ciudad de las cien torres». Se camina como una ciudad del siglo XIV porque todavía lo es de verdad, no es una reconstrucción, a diferencia de tantos otros cascos históricos europeos rehechos después de 1945.
+Praga es la ciudad que, más que ninguna otra capital de Europa central, atravesó el siglo XX sin perder su piel medieval y barroca: mientras Varsovia era arrasada y Dresde ardía bajo las bombas, el casco histórico de Praga ha llegado hasta hoy casi intacto, hasta el punto de valerle el apodo de «ciudad de las cien torres». Se camina como una ciudad del siglo XIV porque todavía lo es: a diferencia de tantos otros cascos históricos europeos rehechos después de 1945, no es una reconstrucción.
 
 Tres o cuatro días bastan para hacer bien la Praga esencial: la Ciudad Vieja con el Reloj Astronómico, el Puente de Carlos que lleva a Malá Strana y al Castillo, el barrio judío de Josefov, y Vyšehrad como contrapunto tranquilo para quien ya ha visto lo más concurrido del centro. Es también una ciudad a la que conviene llegar preparado en un par de cosas muy prácticas (la moneda no es el euro, y alrededor de la plaza principal circulan esquemas de cuentas infladas bastante consolidados) más que en una lista infinita de monumentos que tachar.
 

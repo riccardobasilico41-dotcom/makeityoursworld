@@ -35,7 +35,7 @@ Qui più che in altri viaggi il tempo in auto fa parte dell'esperienza: **5 ore 
 ### Giorno 1 — Bucarest
 Abbiamo dormito all'Hotel Duke Romana, e il primo incontro con Bucarest è stato il più ingombrante. Nel tardo pomeriggio abbiamo visitato il **Palazzo del Parlamento**, il secondo edificio più grande al mondo dopo il Pentagono, voluto dal dittatore Nicolae Ceaușescu. La visita è guidata, dura un'ora e costa circa 12,5 €/pax, da pagare all'ingresso. Non c'è deposito bagagli, quindi durante la visita bisogna portare tutto con sé.
 
-Se c'è tempo, vale la pena vedere anche il **Romanian Athenaeum**, sala concerti neoclassica del 1888, sede dell'Orchestra Filarmonica George Enescu. Per un giro fotografico bastano 30 minuti; l'ingresso costa 2 €/pax ed è a pochi passi dal quartiere Piața Romană.
+Se c'è tempo, si può vedere anche il **Romanian Athenaeum**, sala concerti neoclassica del 1888, sede dell'Orchestra Filarmonica George Enescu. Per un giro fotografico bastano 30 minuti; l'ingresso costa 2 €/pax ed è a pochi passi dal quartiere Piața Romană.
 
 In serata c'è stato il meeting di benvenuto in hotel, poi il **walking tour** con una guida locale. In alternativa ci sono i free walking tour di GuruWalk o Freetour.com, oppure una guida personalizzata come Catalina o Stefania, circa 100 € per 2,5-3h di tour.
 

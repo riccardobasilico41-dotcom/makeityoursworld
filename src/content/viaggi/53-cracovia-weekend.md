@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Cracovia è la città che, di tutte le capitali dell'Europa centrale, ha sofferto meno la Seconda guerra mondiale: mentre Varsavia veniva rasa quasi al suolo e ricostruita da zero, il centro storico di Cracovia è arrivato fino a oggi quasi intatto, ed è per questo che nel 1978 è finita tra i primi dodici siti mai iscritti nella lista UNESCO: insieme, tra gli altri, alle Galápagos, a Yellowstone e, a pochi chilometri da qui, alla Miniera di sale di Wieliczka. Cammina come una città medievale perché lo è davvero, non è una ricostruzione.
+Cracovia è la città che, di tutte le capitali dell'Europa centrale, ha sofferto meno la Seconda guerra mondiale: mentre Varsavia veniva rasa quasi al suolo e ricostruita da zero, il centro storico di Cracovia è arrivato fino a oggi quasi intatto, ed è per questo che nel 1978 è finita tra i primi dodici siti mai iscritti nella lista UNESCO: insieme, tra gli altri, alle Galápagos, a Yellowstone e, a pochi chilometri da qui, alla Miniera di sale di Wieliczka. Ha l'aspetto di una città medievale perché lo è: il centro non è stato ricostruito.
 
 È anche una città su cui pesa, inevitabilmente, un'altra storia: a un'ora e mezza di autobus c'è Auschwitz-Birkenau, e qualunque weekend a Cracovia che lo ignori del tutto lascia fuori la ragione per cui, per molti, quella città e quel nome restano associati per sempre. Non è un obbligo, ma è la scelta più onesta includerlo, con lo spazio e la cura che merita, non come una tappa tra le altre.
 

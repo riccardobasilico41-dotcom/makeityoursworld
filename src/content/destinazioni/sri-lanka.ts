@@ -155,7 +155,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Lungomare di Negombo",
         "perChi": "arrivo e partenza",
-        "testo": "Hotel sul mare, vicini all'aeroporto di Colombo. Comodo, ma poco di autentico fuori dal mercato del pesce.",
+        "testo": "Hotel sul mare, vicini all'aeroporto di Colombo. Comodo, ma a parte il mercato del pesce c'è poco della vita locale.",
         "fascia": "40-100 €"
       },
       {

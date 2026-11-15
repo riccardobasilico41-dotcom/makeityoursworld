@@ -280,7 +280,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "Do you need to book Alcatraz?",
-        risposta: "Yes, practically always: tickets are sold online only by Alcatraz City Cruises and in summer and on holidays they sell out even a month ahead. The day tour costs $47.95 (2026).",
+        risposta: "Yes, almost always: tickets are sold online only by Alcatraz City Cruises and in summer and on holidays they sell out even a month ahead. The day tour costs $47.95 (2026).",
       },
       {
         domanda: "Do you need a car in San Francisco?",

@@ -14,9 +14,9 @@ const PAESE_MERAVIGLIA: Record<string, string> = {
 }
 import { FirmaAutore } from '@/components/FirmaAutore'
 import { notFound } from 'next/navigation'
-import { ArrowUpRight, AlertTriangle } from 'lucide-react'
+import { BedDouble, CalendarDays, Clock, MapPin } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
-import { PracticalInfo } from '@/components/ui/PracticalInfo'
+import { InfoPratiche, RiquadroAvviso } from '@/components/scheda/Blocchi'
 import { getAllMeraviglie, getMeraviglia } from '@/lib/meraviglie'
 import { pageMetadata } from '@/lib/seo'
 import { seoMeraviglia } from '@/lib/i18n/contenuti'
@@ -45,7 +45,7 @@ const T = {
     giorni: 'Giorni speciali e quando andare',
     truffe: 'Truffe comuni da evitare',
     errori: 'Altri errori da non fare',
-    mia: 'La mia esperienza',
+    mia: 'Il mio ricordo',
     info: 'Informazioni pratiche',
     paese: 'Paese',
     durata: 'Durata consigliata',
@@ -71,7 +71,7 @@ const T = {
     giorni: 'Special days and when to go',
     truffe: 'Common scams to avoid',
     errori: 'Other mistakes to avoid',
-    mia: 'My experience',
+    mia: 'My memory',
     info: 'Practical information',
     paese: 'Country',
     durata: 'Recommended time',
@@ -97,7 +97,7 @@ const T = {
     giorni: 'Días especiales y cuándo ir',
     truffe: 'Estafas comunes que evitar',
     errori: 'Otros errores que evitar',
-    mia: 'Mi experiencia',
+    mia: 'Mi recuerdo',
     info: 'Información práctica',
     paese: 'País',
     durata: 'Duración recomendada',
@@ -192,20 +192,30 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
         credito={heroVideo ? creditiHeroVideoMeraviglie[meraviglia.slug] : creditiMeraviglie[meraviglia.slug]}
       />
 
+      <InfoPratiche
+        titolo={t.info}
+        voci={[
+          { label: t.paese, value: meraviglia.paese, icona: MapPin },
+          { label: t.durata, value: meraviglia.durataConsigliata, icona: Clock },
+          { label: t.periodo, value: meraviglia.periodoMigliore, icona: CalendarDays },
+          { label: t.dormire, value: meraviglia.doveDormire, icona: BedDouble },
+        ]}
+      />
+
       <section className="sezione">
-        <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
-          <div className="space-y-12">
+        <Container>
+          <div className="max-w-3xl space-y-12">
             <div>
-              <h2 className="font-display text-2xl text-alpine">{t.perche}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.perche}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.storiaBreve}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">{t.cosaVedere}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.cosaVedere}</h2>
               <div className="mt-4 space-y-4">
                 {meraviglia.sezioniDaVedere.map((sezione) => (
-                  <div key={sezione.nome} className="rounded-none border border-alpine/10 bg-cream-dark/40 p-5">
-                    <h3 className="font-display text-lg text-alpine">{sezione.nome}</h3>
+                  <div key={sezione.nome} className="scheda-lista p-5">
+                    <h3 className="titolo-scheda text-alpine">{sezione.nome}</h3>
                     <p className="mt-1.5 text-sm leading-relaxed text-stone">{sezione.perche}</p>
                   </div>
                 ))}
@@ -213,22 +223,22 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">{t.tour}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.tour}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.tourOAutonomo}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">{t.prenotazione}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.prenotazione}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.prenotazione}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">{t.prezzi}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.prezzi}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.prezzi}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">{t.comeArrivare}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.comeArrivare}</h2>
               <div className="mt-3 space-y-3 text-base leading-relaxed text-stone">
                 <p><span className="font-medium text-ink">{t.inAereo}</span>{meraviglia.comeArrivareInternazionale}</p>
                 <p><span className="font-medium text-ink">{t.dallAeroporto}</span>{meraviglia.comeArrivareLocale}</p>
@@ -237,34 +247,12 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">{t.giorni}</h2>
+              <h2 className="titolo-sezione text-alpine">{t.giorni}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.giorniSpeciali}</p>
             </div>
 
-            {meraviglia.scamDaEvitare.length > 0 && (
-              <div className="rounded-none border border-rosso/20 bg-rosso/5 p-6">
-                <h2 className="flex items-center gap-2 font-display text-2xl text-rosso-dark">
-                  <AlertTriangle size={20} />
-                  {t.truffe}
-                </h2>
-                <ul className="mt-3 space-y-2 text-base leading-relaxed text-stone">
-                  {meraviglia.scamDaEvitare.map((v) => (
-                    <li key={v}>· {v}</li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {meraviglia.erroriDaEvitare.length > 0 && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">{t.errori}</h2>
-                <ul className="mt-3 space-y-1.5 text-base leading-relaxed text-stone">
-                  {meraviglia.erroriDaEvitare.map((v) => (
-                    <li key={v}>· {v}</li>
-                  ))}
-                </ul>
-              </div>
-            )}
+            <RiquadroAvviso titolo={t.truffe} voci={meraviglia.scamDaEvitare} />
+            <RiquadroAvviso titolo={t.errori} voci={meraviglia.erroriDaEvitare} />
 
             {meraviglia.miaEsperienza && (
               <CardRicordo etichetta={t.mia} className="mt-4">{meraviglia.miaEsperienza}</CardRicordo>
@@ -293,24 +281,6 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
             )}
           </div>
 
-          <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
-            <div>
-              <h2 className="font-display text-lg text-alpine">{t.info}</h2>
-              <PracticalInfo
-                className="mt-4"
-                items={[
-                  { label: t.paese, value: meraviglia.paese },
-                  { label: t.durata, value: meraviglia.durataConsigliata },
-                  { label: t.periodo, value: meraviglia.periodoMigliore },
-                  { label: t.dormire, value: meraviglia.doveDormire },
-                ]}
-              />
-            </div>
-            <p className="flex items-center gap-1.5 text-xs text-stone/85">
-              <ArrowUpRight size={12} />
-              {t.avviso}
-            </p>
-          </aside>
         </Container>
       </section>
     </>

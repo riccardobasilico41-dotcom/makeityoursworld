@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:**
-**Durata:** 17 giorni, 16 notti — giro completo dell'isola, da Palermo a Catania
+**Durata:** 17 giorni, 16 notti, giro completo dell'isola, da Palermo a Catania
 **Compagni di viaggio:** con amici, in autonomia, con auto a noleggio
 **Categoria:** Europa · Italia · Sicilia · archeologia · arte · gastronomia
 

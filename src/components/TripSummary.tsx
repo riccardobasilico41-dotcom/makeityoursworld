@@ -19,7 +19,7 @@ export async function TripSummary({ meta }: { meta: TripMeta }) {
   if (meta.puntiForti.length === 0 && meta.criticita.length === 0) return null
   return (
     <div className="rounded-none border border-alpine/10 bg-cream-dark/50 p-6 sm:p-8">
-      <h2 className="font-display text-xl text-alpine">{t.titolo}</h2>
+      <h2 className="titolo-scheda text-alpine">{t.titolo}</h2>
       <div className="mt-5 grid gap-6 sm:grid-cols-2">
         <div>
           <p className="inline-flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-alpine">

@@ -935,7 +935,7 @@ export const destinazioniTransilvania: Destinazione[] = [
         costo: "12 lei, circa 2,5 €",
         lat: 46.05471,
         lng: 25.08862,
-        consiglio: "Tappa facoltativa ma molto autentica."
+        consiglio: "Tappa facoltativa e poco turistica."
       },
       {
         nome: "Salina Turda",

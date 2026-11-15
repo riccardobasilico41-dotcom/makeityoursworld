@@ -111,7 +111,7 @@ export function QuestoMeseScelta({ voci }: { voci: VoceMese[] }) {
   return (
     <section aria-labelledby={`${id}-titolo`} className="border-t border-alpine/10 sezione">
       <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.eyebrow}</p>
-      <h2 id={`${id}-titolo`} className="mt-3 font-display text-[clamp(1.8rem,3vw,2.6rem)] text-ink">
+      <h2 id={`${id}-titolo`} className="mt-3 titolo-sezione text-ink">
         {conSchede ? t.titolo(nome) : titoloScheda}
       </h2>
       {conSchede ? (

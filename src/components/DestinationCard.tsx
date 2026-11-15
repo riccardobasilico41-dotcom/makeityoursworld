@@ -40,12 +40,12 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
   return (
     <Link
       href={`/destinazioni/${paeseSlug}/${destinazione.slug}`}
-      className="scheda scheda-link group flex flex-col overflow-hidden bg-white"
+      className="scheda-lista group flex flex-col overflow-hidden"
     >
       <div
         role={destinazione.immagine ? undefined : 'img'}
         aria-label={destinazione.immagine ? undefined : destinazione.imageAlt}
-        className={`relative flex min-h-[13rem] items-end overflow-hidden border-b-2 border-ink bg-gradient-to-br p-5 text-cream ${gradient}`}
+        className={`relative flex min-h-[13rem] items-end overflow-hidden bg-gradient-to-br p-5 text-cream ${gradient}`}
       >
         {destinazione.immagine ? (
           <Image
@@ -70,7 +70,7 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
         </p>
       </div>
       <div className="flex flex-1 flex-col gap-2.5 p-5">
-        <h3 className="font-display text-lg font-medium leading-tight text-alpine">{destinazione.nome}</h3>
+        <h3 className="titolo-scheda text-alpine">{destinazione.nome}</h3>
         <p className="line-clamp-4 text-sm leading-relaxed text-stone">{plain(destinazione.introduzione)}</p>
         {destinazione.luoghi && destinazione.luoghi.length > 0 && (
           // i primi luoghi della mini guida, come assaggio di cosa c'è dentro

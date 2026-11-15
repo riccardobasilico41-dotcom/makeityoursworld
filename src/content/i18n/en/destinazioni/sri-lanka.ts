@@ -153,7 +153,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Negombo seafront",
         "perChi": "arrival and departure",
-        "testo": "Seafront hotels near Colombo airport. Convenient, but not much that is authentic beyond the fish market.",
+        "testo": "Seafront hotels near Colombo airport. Convenient, but apart from the fish market there is little of local life.",
         "fascia": "€40-100"
       },
       {

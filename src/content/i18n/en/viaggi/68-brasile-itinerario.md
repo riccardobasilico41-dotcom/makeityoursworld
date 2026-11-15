@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Brazil is as big as Europe and you can't see it all in three weeks: you have to choose. This itinerary brings together the most varied landscapes you can reach with just a few domestic flights. Rio de Janeiro, between granite mountains, forest and ocean. The Costa Verde, with the colonial town of Paraty and the car-free island of Ilha Grande. The Iguazú Falls, to be seen from two countries. Salvador, the most African city in the Americas, and behind it the plateau of canyons and caves of the Chapada Diamantina. Finally the Lençóis Maranhenses, white dunes as far as the eye can see, with rainwater lagoons between one dune and the next, which really exist only from June to September.
+Brazil is as big as Europe and you can't see it all in three weeks: you have to choose. This itinerary brings together the most varied landscapes you can reach with just a few domestic flights. Rio de Janeiro, between granite mountains, forest and ocean. The Costa Verde, with the colonial town of Paraty and the car-free island of Ilha Grande. The Iguazú Falls, to be seen from two countries. Salvador, the most African city in the Americas, and behind it the plateau of canyons and caves of the Chapada Diamantina. Finally the Lençóis Maranhenses, white dunes as far as the eye can see, with rainwater lagoons between one dune and the next, which are there only from June to September.
 
 July-August is chosen for those lagoons, and it is also the time when the two extensions proposed at the end open up. The first is the **Pantanal**, the largest wetland in the world, where from July to October you can see jaguars on the riverbanks. The second is the **Amazon** from Manaus, with the option of continuing by boat along the Amazon River to the border with Colombia and Peru. The trip is for people who want nature and cities together, accept a few transfer days and want a Brazil more varied than Rio and the beach.
 
@@ -76,7 +76,7 @@ Paraty Bay has dozens of islands and beaches reachable only by sea. The **escuna
 
 *Good to know: if you have an extra day you can go to **Trindade**, 30 minutes south, with wild beaches and the Cachadaço natural pool.*
 
-The escunas leave Paraty's pier in late morning and return in the afternoon, with three or four stops for swimming and snorkelling: for price and quality it's worth comparing a few agencies, and private lanchas split well among four or six people. The waterfalls and alambiques are on the mountain road towards Cunha, a few kilometres from the centre, reached by taxi, on a tour or by local bus. *On the Tobogã rock you really slide: if you try it, be careful and first watch where the locals go down.*
+The escunas leave Paraty's pier in late morning and return in the afternoon, with three or four stops for swimming and snorkelling: for price and quality, compare a few agencies, and private lanchas split well among four or six people. The waterfalls and alambiques are on the mountain road towards Cunha, a few kilometres from the centre, reached by taxi, on a tour or by local bus. *On the Tobogã rock you really slide: if you try it, be careful and first watch where the locals go down.*
 
 **In practice:** escuna 4-5 hours with stops, about R$100-150 per person, lunch extra · private lancha more expensive, to be negotiated at the pier · for the waterfalls, water shoes and a towel · Trindade about 30 minutes south, with local buses from Paraty.
 

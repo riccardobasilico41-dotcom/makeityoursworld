@@ -161,7 +161,7 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     doveDormire: 'San Pedro for the services and nightlife; the areas north and south of the island for quieter resorts, reachable by golf cart or boat.',
     doveMangiare:
-      "San Pedro has more choice than anywhere in the country and also the highest prices: on the waterfront you pay for the location. In the streets behind there are the comedores where locals have lunch, with the same stew chicken at a quarter of the price. Look for the stands that grill the day's catch and the corn tortillas made on the spot. In season it's worth trying the conch fritter and, as a local drink, the seaweed shake, which described doesn't sound convincing and then works.",
+      "San Pedro has more choice than anywhere in the country and also the highest prices: on the waterfront you pay for the location. In the streets behind there are the comedores where locals have lunch, with the same stew chicken at a quarter of the price. Look for the stands that grill the day's catch and the corn tortillas made on the spot. In season, try the conch fritter and, as a local drink, the seaweed shake, which described doesn't sound convincing and then works.",
     comeArrivare: 'Water taxi from Belize City (about 1h30, often with a stop at Caye Caulker) or a 15-minute domestic flight from Belize City.',
     comeSpostarsi: 'Rental golf carts, golf-cart taxis, bicycles; shuttle boats for the areas farther north.',
     periodoMigliore: 'December-April; the Blue Hole requires calm seas, more likely in the dry months',

@@ -64,7 +64,7 @@ Il traghetto per **Minorca**, spesso con scalo o cambio a Mallorca secondo la tr
 
 Il pomeriggio a **Ciutadella**, l'ex capitale, con il porto vecchio e la Cattedrale gotica dentro le mura. Il centro si gira a piedi in un paio d'ore: la **Plaça des Born** con l'obelisco e i palazzi nobiliari, il **Carrer de Ses Voltes** sotto i portici, e la discesa al porto, una lunga insenatura stretta dove si allineano i ristoranti. *Al tramonto conviene restare sul porto, quando la luce scende sulle case color ocra e i tavoli si riempiono.* Nel porto si mangia la caldereta de langosta, ma non è un piatto economico.
 
-**In pratica:** controllare la tratta Ibiza-Minorca appena si fissano le date, è quella con meno corse · se si passa da Mallorca, la tratta Alcúdia-Ciutadella è la più breve · ritiro dell'auto a Ciutadella o all'arrivo, sull'isola serve davvero.
+**In pratica:** controllare la tratta Ibiza-Minorca appena si fissano le date, è quella con meno corse · se si passa da Mallorca, la tratta Alcúdia-Ciutadella è la più breve · ritiro dell'auto a Ciutadella o all'arrivo, sull'isola è necessaria.
 
 ### Giorno 7 — Ciutadella e il Camí de Cavalls
 La mattina l'abbiamo dedicata a un tratto del **Camí de Cavalls**, il sentiero costiero che gira intorno all'isola: alcuni tratti vicino a Ciutadella vanno bene anche per chi non è allenato. Il sentiero è segnato con paletti numerati e diviso in tappe; quelle della costa sud-ovest passano tra pinete, scogliere basse e calette. Si parte presto, quando la temperatura è ancora sopportabile e la luce sul mare è più bella.

@@ -71,7 +71,7 @@ It's Bolivia's most iconic activity: the mountain bike descent along the old Yun
 ### Day 7 — El Alto and the night bus to Uyuni
 A transition day in **La Paz**, also useful for shaking off the previous day's fatigue. If the calendar falls on a Thursday or Sunday, the El Alto market, one of the largest in South America, is worth the detour: you get there by cable car and walk for hours among car parts, clothes, animals and street food. Those staying in the center can use the morning for **Calle Jaén**, the city's best-preserved colonial street, or to withdraw cash calmly, because in the following days ATMs become scarce.
 
-In the afternoon you pack for the three days in a 4x4: heavy layers, because in Sud Lípez you sleep below freezing and a sleeping bag is not always included in the tour. In the evening there's the **night bus** to **Uyuni**, a cheaper alternative to the direct flight, which covers the same route in about an hour. On this distance it pays to choose the better companies, with reclining bed seats so you actually sleep. *Documents, money and phone stay on you, not in the hold or the overhead rack.*
+In the afternoon you pack for the three days in a 4x4: heavy layers, because in Sud Lípez you sleep below freezing and a sleeping bag is not always included in the tour. In the evening there's the **night bus** to **Uyuni**, a cheaper alternative to the direct flight, which covers the same route in about an hour. On this distance it pays to choose the better companies, with reclining bed seats so you can sleep. *Documents, money and phone stay on you, not in the hold or the overhead rack.*
 
 **In practice:** La Paz-Uyuni buses usually leave between 8 and 9 pm, about 10 hours of travel, arriving at dawn · book tickets with the tourist companies a day or two ahead · buses are often cold at night: keep a sweatshirt and a light blanket at hand · eat dinner before boarding.
 
@@ -120,7 +120,7 @@ We spent the early afternoon free in the historic center, among white façades a
 ### Day 14 — Sucre: colonial center and Parque Cretácico
 A day for Sucre: the **Casa de la Libertad**, where Bolivia's independence was signed; the covered markets, where you eat well for very little (the fruit juice stall is an institution); the **Parque Cretácico**, a vertical wall with thousands of dinosaur footprints pressed into what was once a lake shore. Go to the park in the morning, on the tourist bus from the center, and take the guided tour that goes down close to the wall.
 
-*If your dates fall on a Sunday*, the hour-and-a-half to two-hour detour to **Tarabuco** is worth it for the Sunday textile market, one of the most authentic in the country for Yampara weaving. Sucre also has some of the best and cheapest Spanish schools in South America: anyone with extra time can stay for a course.
+*If your dates fall on a Sunday*, the hour-and-a-half to two-hour detour to **Tarabuco** is worth it for the Sunday textile market, one of the best in the country for Yampara weaving. Sucre also has some of the best and cheapest Spanish schools in South America: anyone with extra time can stay for a course.
 
 **In practice:** Parque Cretácico about 25 minutes from the center, entrance around 30 bolivianos with a guide · the Tarabuco market is held only on Sunday mornings, colectivo or tour from the center · Casa de la Libertad by guided tour, check times on site · at the Mercado Central a full lunch costs a few bolivianos.
 
@@ -179,7 +179,7 @@ The last hours in the city depend on the time left (one last cable car ride, one
 - **Take the first two days in La Paz completely easy:** in a few hours you go from sea level to over 4,000 meters, and it's a real physical shock before it's a figure of speech.
 - **Road blockades:** build them into the itinerary, don't treat them as a remote possibility. They can isolate whole areas for days and wipe out flights and transfers, especially on the overland stretches between Uyuni, Potosí and Sucre.
 - **Book the Uyuni tour in advance, not on the spot:** in Uyuni the street agencies and pop-up ones offer lower prices, but they change the itinerary after payment, pack in more passengers than planned or put drivers without a license or insurance behind the wheel. Booking from La Paz or online with a verifiable agency cuts the risk a lot.
-- **Don't skimp on the Death Road operator:** almost all reported accidents involve cheap operators with poorly maintained bikes; it's worth spending the $120-170 of the premium tier.
+- **Don't skimp on the Death Road operator:** almost all reported accidents involve cheap operators with poorly maintained bikes; it pays to spend the $120-170 of the premium tier.
 - **Flights to Rurrenabaque are often canceled for weather**, not only in the rainy season: keep a spare day both on the way there and, above all, on the way back, before an international flight.
 - **Always carry cash:** outside La Paz and Sucre ATMs are rare or empty, and tours are almost always paid in cash.
 - **The Potosí mines are not a tourist attraction:** approach them with respect, and skip them if you're claustrophobic or have breathing problems.

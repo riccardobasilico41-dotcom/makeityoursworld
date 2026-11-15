@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified; the first-person passages are written as a draft to reread and personalize)
 **Periodo del viaggio:**
-**Durata:** 2 days, 1 night — extendable to 3 with the Venaria or the Langhe
+**Durata:** 2 days, 1 night (extendable to 3 with the Venaria or the Langhe)
 **Compagni di viaggio:** with friends, independent, on foot and by metro
 **Categoria:** Europa · Italia · Torino · musei · architettura · gastronomia
 

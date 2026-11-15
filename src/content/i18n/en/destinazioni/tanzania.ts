@@ -165,7 +165,7 @@ export const destinazioniTanzania: Destinazione[] = [
       'A visit to a Maasai village (cultural boma)',
     ],
     doveDormire:
-      "Lodges and campsites on the crater rim, at about 2,300 meters: it gets really cold at night. It's cheaper to sleep in Karatu, outside the protected area, and drive up early in the morning.",
+      "Lodges and campsites on the crater rim, at about 2,300 meters: it gets very cold at night. It's cheaper to sleep in Karatu, outside the protected area, and drive up early in the morning.",
     comeArrivare: 'From Arusha by 4x4, via Karatu; it\'s also the stop on the way between Arusha and the Serengeti.',
     comeSpostarsi: 'By 4x4 with a driver-guide, going down and back up on dedicated tracks.',
     periodoMigliore: 'all year; in the dry season the grass is short and animals are easier to see',

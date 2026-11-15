@@ -141,7 +141,7 @@ In the evening, **Coco Bongo**: one of those places to do at least once, and a d
 - **The bioluminescence at Punta Mosquito**, Holbox: a natural phenomenon worth the evening, mosquitoes included.
 - **The whale shark at Holbox**: the highlight of the whole trip, not to be missed for any reason.
 - **Off-the-beaten-path gem:** besides the pig beach, for those with a few extra days on the Riviera Maya, a stop at **Cozumel** (reachable in a day from Playa del Carmen, second largest coral reef in the world) or at **Akumal**, for guided snorkeling with turtles right from the beach, are excellent additions.
-- If the trip falls between late October and early November, it's worth finding out about the traditional **Hanal Pixán** ceremonies (the Maya variant of the Día de los Muertos), which some Yucatán communities celebrate with altars and a typical dinner.
+- If the trip falls between late October and early November, find out about the traditional **Hanal Pixán** ceremonies (the Maya variant of the Día de los Muertos), which some Yucatán communities celebrate with altars and a typical dinner.
 
 ## Practical tips / mistakes not to repeat
 - **Exchange or withdraw plenty of cash from the very first day**: you avoid constant stops along the way on the days with the most stops.

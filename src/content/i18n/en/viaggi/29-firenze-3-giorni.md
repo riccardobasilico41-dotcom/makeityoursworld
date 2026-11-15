@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized)
 **Periodo del viaggio:**
-**Durata:** 3 days, 2 nights — with a compressed 2-day version
+**Durata:** 3 days, 2 nights, with a compressed 2-day version
 **Compagni di viaggio:** with friends, independent, everything on foot
 **Categoria:** Europa · Italia · Firenze · arte · Rinascimento · gastronomia
 
@@ -121,7 +121,7 @@ Two days in Florence hold up well, on one condition: **only one big museum, not 
 - **General rule:** restaurants around the Duomo and the Uffizi with a menu in six languages on display are to be avoided by definition. Two blocks further on you eat better for half the price.
 
 ## Practical tips / mistakes not to repeat
-- **Book the dome before anything else**, because it's the only entry that truly sells out.
+- **Book the dome before anything else**, because it's the only entry that ends up sold out.
 - **Check the closing days** of the Uffizi, the Accademia and the Duomo complex before building your schedule.
 - **One big museum a day.** After the third masterpiece you stop seeing: Stendhal syndrome is named after an illness suffered in Florence, and it's not entirely a legend.
 - **Don't climb the dome** if you're claustrophobic or have delicate knees: there are no intermediate exits.

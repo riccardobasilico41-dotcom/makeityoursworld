@@ -346,7 +346,7 @@ export const destinazioniThailandia: Destinazione[] = [
       'Contare sul treno di Maeklong a orario fisso senza controllare i passaggi del giorno',
     ],
     miaEsperienza:
-      'Il mercato galleggiante e il mercato del treno sono molto turistici, con prezzi gonfiati rispetto a un qualunque mercato locale. Alla prima volta in Thailandia però vale la pena farli: sono scorci curiosi, e il treno che sfiora le bancarelle resta divertente.',
+      'Il mercato galleggiante e il mercato del treno sono molto turistici, con prezzi gonfiati rispetto a un qualunque mercato locale. Alla prima volta in Thailandia però conviene farli: sono scorci curiosi, e il treno che sfiora le bancarelle resta divertente.',
     luoghi: [
       {
         nome: "Mercato galleggiante",
@@ -364,7 +364,7 @@ export const destinazioniThailandia: Destinazione[] = [
         tempo: "1 ora",
         lat: 13.40773,
         lng: 100.0009,
-        consiglio: "Il treno che sfiora le bancarelle resta divertente, anche se è molto turistico. Restare dietro la linea segnata dai venditori: passa davvero a pochi centimetri.",
+        consiglio: "Il treno che sfiora le bancarelle resta divertente, anche se è molto turistico. Restare dietro la linea segnata dai venditori: passa a pochi centimetri.",
       },
       {
         nome: "Mercati serali",
@@ -615,7 +615,7 @@ export const destinazioniThailandia: Destinazione[] = [
         lat: 12.19748,
         lng: 100.01128,
         url: "https://www.dnp.go.th/",
-        consiglio: "Una delle sorprese più belle del tratto; per la luce vale la pena essere lì in mattinata. Scarpe chiuse: nella stagione delle piogge il sentiero è scivoloso.",
+        consiglio: "Una delle sorprese più belle del tratto; per la luce è meglio arrivare in mattinata. Scarpe chiuse: nella stagione delle piogge il sentiero è scivoloso.",
       },
       {
         nome: "Kui Buri National Park",
@@ -993,8 +993,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['mare', 'avventura'],
     giorniConsigliati: '3 giorni',
     visitataPersonalmente: true,
-    introduzione: 'Railay Beach, Bond Island e il giro in canoa nella baia di Phang Nga: per esplorare il mare delle Andamane è una base più autentica di Phuket.',
-    percheAndarci: 'È più autentica di Phuket, e da qui partono alcune delle escursioni più belle del sud della Thailandia.',
+    introduzione: 'Railay Beach, Bond Island e il giro in canoa nella baia di Phang Nga: per esplorare il mare delle Andamane è una base meno turistica di Phuket.',
+    percheAndarci: 'Rispetto a Phuket è meno costruita, e da qui partono alcune delle escursioni più belle del sud della Thailandia.',
     cosaVedere: ['Railay Beach e Phra Nang Beach', 'Koh Ta Poo (Bond Island) e Koh Ping Gun', 'Il villaggio di pescatori di Koh Panyee'],
     cosaFare: [
       'Barca verso Railay Beach e camminata fino a Phra Nang Beach',
@@ -1677,7 +1677,7 @@ export const destinazioniThailandia: Destinazione[] = [
       { nome: "Caffè di Nimman", testo: "Caffetterie di specialità." },
     ],
     attenzioni: [
-      "Prenotare un santuario degli elefanti senza controllare che sia davvero etico: non tutti lo sono.",
+      "Prenotare un santuario degli elefanti senza controllare che sia etico: non tutti lo sono.",
       "Dress code dei templi.",
       "Songthaew: concordare il prezzo.",
     ],

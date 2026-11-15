@@ -106,7 +106,7 @@ Una giornata in uno dei borghi costruiti sui canali attorno a Shanghai. **Zhujia
 **In pratica:** Zhujiajiao con la metro linea 17 da Shanghai, ingresso al borgo libero e biglietti per i singoli siti · Wuzhen e Nanxun in bus o auto da Shanghai in circa un'ora e mezza-due · per Wuzhen ovest biglietto d'ingresso, più caro con la visita serale · nei weekend e nei festivi tutti i borghi sono affollati.
 
 ### Giorno 11 — Verso Hong Kong
-**Alta velocità Shanghai-Hong Kong West Kowloon (circa 8 ore)** oppure volo da Shanghai (2h30). Sulla carta il treno è affascinante; in pratica, su questa distanza, il volo fa risparmiare mezza giornata. In entrambi i casi si attraversa una **frontiera vera**, con controllo passaporti in uscita dalla Cina continentale e in ingresso a Hong Kong. Gli italiani entrano senza visto per 90 giorni.
+**Alta velocità Shanghai-Hong Kong West Kowloon (circa 8 ore)** oppure volo da Shanghai (2h30). Sulla carta il treno è affascinante, ma su questa distanza il volo fa risparmiare mezza giornata. In entrambi i casi si attraversa una **frontiera vera**, con controllo passaporti in uscita dalla Cina continentale e in ingresso a Hong Kong. Gli italiani entrano senza visto per 90 giorni.
 
 *A Hong Kong valgono altre regole rispetto alla Cina continentale: le app e i siti occidentali funzionano senza VPN, si paga con la Octopus card o con carta, e la moneta è il dollaro di Hong Kong.* La prima serata l'abbiamo passata sul lungomare di **Tsim Sha Tsui**, con lo skyline dell'isola di fronte, e c'è stato il primo assaggio di cha chaan teng, le tavole calde locali dove si mangia cucina ibrida anglo-cantonese per pochi dollari. Alle otto di sera lo spettacolo di luci sui grattacieli si vede dal lungomare, gratis.
 

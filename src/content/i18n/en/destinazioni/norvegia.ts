@@ -815,7 +815,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Canal and harbour",
-        testo: "The village spreads over small islands joined by bridges, with colourful wooden houses and old fish warehouses. The little Venice feel is real along the canal.",
+        testo: "The village spreads over small islands joined by bridges, with colourful wooden houses and old fish warehouses. Along the canal you do get the little Venice feel.",
         come: "On foot from the parking lot.",
         quando: "Morning, before the groups.",
         tempo: "1-2 hours",
@@ -1016,7 +1016,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveMangiare: "I didn't note down any restaurants in Reine: the village's Coop Prix is handy for putting together a packed lunch before the excursions.",
     comeArrivare: "From Svolvær via Leknes (with a stop at the Borg Viking Museum), about 55 minutes by car from Svolvær to Borg, then another 20-30 minutes to Reine. From Bodø there's the ferry to Moskenes, a few minutes from Reine: about 3 hours 15 minutes at sea, a car costs around 600 NOK plus the reservation (in summer, to be made on the Torghatten Nord website), foot passengers travel free; arrive at the port 40 minutes early. From Svolvær it's 121 km along the E10, about 2 hours 10 minutes without stops.",
     comeSpostarsi: 'Paid parking in the village (200 NOK/3h).',
-    periodoMigliore: "Reinebringen is only worth it with a clear sky: check the forecast before planning the day.",
+    periodoMigliore: "Reinebringen only makes sense with a clear sky: check the forecast before planning the day.",
     costi: "Parking 200 NOK/3h. The Reinebringen stairs are free. 2026 references: Lofotr 210 NOK off-season, Å museum 125 NOK. Roughly, per person per day: €80-120 at a campsite or cabin with supermarket food; €200-280 with a rorbu shared by two and one dinner out; over €350 with refined rorbuer and a restaurant every evening.",
     erroriDaEvitare: [
       "Reinebringen takes a minimum of fitness because of the elevation gain; if the sky is overcast, better to postpone it, because the view is everything",

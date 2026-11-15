@@ -826,7 +826,7 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "En coche por la carretera principal.",
         "quando": "Tarde.",
         "tempo": "Medio día",
-        "consiglio": "Salirse de las rutas más trilladas vale la pena: Tamnougalt lo demuestra."
+        "consiglio": "Tamnougalt es un buen motivo para salirse de las rutas más trilladas."
       },
       {
         "nome": "Zagora y el cartel «Tombuctú 52 días»",
@@ -1776,7 +1776,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         domanda: "¿Mejor Fez o Marrakech?",
-        risposta: "Fez tiene la medina más antigua y auténtica, con menos turistas y más artesanos trabajando; Marrakech tiene más monumentos visitables, jardines y vida nocturna. Con tiempo se ven las dos, en dos itinerarios distintos.",
+        risposta: "Fez tiene la medina más antigua y más vivida, con menos turistas y más artesanos trabajando; Marrakech tiene más monumentos visitables, jardines y vida nocturna. Con tiempo se ven las dos, en dos itinerarios distintos.",
       },
       {
         domanda: "¿Cómo se llega al riad en la medina?",

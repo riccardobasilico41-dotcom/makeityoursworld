@@ -164,7 +164,7 @@ export const destinazioniTanzania: Destinazione[] = [
       'Visita a una aldea masái (boma cultural)',
     ],
     doveDormire:
-      'Lodges y campings en el borde del cráter, a unos 2.300 metros: de noche hace frío de verdad. Es más barato dormir en Karatu, fuera del área protegida, y subir temprano por la mañana.',
+      'Lodges y campings en el borde del cráter, a unos 2.300 metros: de noche hace mucho frío. Es más barato dormir en Karatu, fuera del área protegida, y subir temprano por la mañana.',
     comeArrivare: 'Desde Arusha en todoterreno, pasando por Karatu; es también la parada de paso entre Arusha y el Serengeti.',
     comeSpostarsi: 'En todoterreno con conductor-guía, con bajada y subida por pistas específicas.',
     periodoMigliore: 'todo el año; en la estación seca la hierba está baja y los animales se ven mejor',

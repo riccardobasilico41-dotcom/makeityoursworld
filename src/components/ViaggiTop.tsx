@@ -60,7 +60,7 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.eyebrow}</p>
           <div className="mt-3 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
-            <h2 className="max-w-lg font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-ink">{t.titolo}</h2>
+            <h2 className="max-w-lg titolo-sezione text-balance text-ink">{t.titolo}</h2>
             <p className="max-w-sm text-sm leading-relaxed text-stone">{t.sotto}</p>
           </div>
         </Reveal>
@@ -90,7 +90,7 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
                   )}
                 </div>
                 <div className="flex flex-1 flex-col p-6">
-                  <h3 className="font-display text-xl font-medium leading-tight text-alpine">{v.titolo}</h3>
+                  <h3 className="titolo-scheda text-alpine">{v.titolo}</h3>
                   <p className="mt-3 line-clamp-3 text-sm leading-relaxed text-stone">{plain(v.descrizione)}</p>
                   {tappe.length > 0 && (
                     <ul className="mt-4 flex flex-wrap gap-1.5">

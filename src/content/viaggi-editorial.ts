@@ -43,6 +43,8 @@ export type HookType =
 
 export type EditorialMeta = {
   seoTitle?: string
+  /** Titolo per Google di riserva, entro 60 caratteri, quando seoTitle è più lungo. */
+  titoloBreve?: string
   seoDescription?: string
   editorialHeadline?: string
   editorialHook?: string
@@ -936,6 +938,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   },
   'manchester-liverpool-premier-league': {
     seoTitle: "Manchester e Liverpool in un weekend lungo con la Premier League",
+    titoloBreve: "Manchester e Liverpool in un weekend con la Premier League",
     seoDescription:
       "Quattro giorni in treno tra Manchester e Liverpool: biglietti delle partite dai canali ufficiali, tour di Old Trafford e Anfield, poi Peak e Lake District.",
     socialTitle: "Manchester, Liverpool e una partita di Premier League: come prendere i biglietti senza rischi",

@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Italia es el mayor productor mundial de vino y tiene más de quinientas variedades autóctonas catalogadas: más que cualquier otro país, y no por poco. Tres paisajes vitivinícolas son patrimonio de la UNESCO. Pero la razón por la que este tema funciona como viaje no es el vino en sí: es que el vino es el mejor pretexto para atravesar la Italia agrícola en lugar de la monumental, y para hablar con quien hace las cosas en lugar de con quien las cuenta. En una bodega italiana, a diferencia de muchas zonas francesas, quien te recibe es casi siempre quien hace el vino, y eso cambia por completo el tipo de conversación. Con una condición, que es también la única regla de verdad de este itinerario: **se reserva, no se presenta uno sin más.**
+Italia es el mayor productor mundial de vino y tiene más de quinientas variedades autóctonas catalogadas: más que cualquier otro país, y no por poco. Tres paisajes vitivinícolas son patrimonio de la UNESCO. Como viaje, sin embargo, el vino funciona sobre todo como pretexto: es la mejor manera de atravesar la Italia agrícola en lugar de la monumental, y para hablar con quien hace las cosas en lugar de con quien las cuenta. En una bodega italiana, a diferencia de muchas zonas francesas, quien te recibe es casi siempre quien hace el vino, y eso cambia por completo el tipo de conversación. Con una condición, que es también la única regla de verdad de este itinerario: **se reserva, no se presenta uno sin más.**
 
 *Mi recuerdo: elegir la bodega es imposible, es algo demasiado personal. Depende del gusto, del presupuesto y de la experiencia que se busque: algo más refinado o algo más auténtico.*
 
@@ -117,7 +117,7 @@ Del Val d'Orcia a Florencia se sube en algo menos de dos horas, por la Via Cassi
 - **Langhe:** agroturismos entre las colinas, a menudo de empresas vitivinícolas. Precios altos en temporada, sobre todo durante la feria de la trufa.
 - **Valpolicella:** las empresas con alojamiento en la zona clásica, que es pequeña y se recorre en media hora.
 - **Chianti y Montalcino:** wine resorts y agroturismos. Es la zona más cara y más turística del itinerario.
-- **Nota general:** en Irpinia, Vulture y Valtellina se gasta una fracción por una calidad similar, y por eso esas extensiones merecen la pena.
+- **Nota general:** en Irpinia, Vulture y Valtellina se gasta una fracción por una calidad similar, y por eso conviene añadir esas extensiones.
 
 ## Dove abbiamo mangiato
 - **Langhe:** tajarin, carne cruda picada a cuchillo, vitello tonnato, plin, y la trufa blanca en temporada. Es la cocina más rica del itinerario.

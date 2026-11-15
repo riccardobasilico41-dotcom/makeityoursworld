@@ -297,7 +297,7 @@ export const destinazioniNewYork: Destinazione[] = [
     giorniConsigliati: '1 day',
     visitataPersonalmente: true,
     introduzione: "The side of New York that's less postcard: a neighborhood gospel service, the Apollo Theater and the big city park by bike as far as Strawberry Fields.",
-    percheAndarci: "For a more authentic, less touristy New York than the rest of Manhattan, before heading back in the afternoon to the green of Central Park.",
+    percheAndarci: "For a more local, less touristy New York than the rest of Manhattan, before heading back in the afternoon to the green of Central Park.",
     cosaVedere: ['The Apollo Theater', 'Strawberry Fields in Central Park'],
     cosaFare: [
       "A neighborhood gospel service (there's a dedicated experience page)",
@@ -312,7 +312,7 @@ export const destinazioniNewYork: Destinazione[] = [
     costi: "Harlem walking tour $275 + tip. Met admission $30, about €26; Guggenheim $30; Central Park Zoo $22.95, about €20. The park, Strawberry Fields, Bethesda Terrace, Belvedere Castle and the Conservatory Garden are free. Low budget about €150-200 a day per person (hostel or pod hotel, deli food and pizza by the slice, subway); mid-range €300-450 (mid-range hotel, a museum or an observation deck, dinner at a restaurant); high from €700 upwards (luxury hotel, private tours, dinners and rooftops).",
     erroriDaEvitare: [],
     miaEsperienza:
-      "The Sunday morning gospel service was an authentic neighborhood experience, very different from an organized tour. There's no obligation to make an offering and you can get up and leave whenever you like, but it's worth staying to the end.",
+      "The Sunday morning gospel service was a neighborhood experience, very different from an organized tour. There's no obligation to make an offering and you can get up and leave whenever you like, but it's worth staying to the end.",
     luoghi: [
       {
         nome: "Apollo Theater",

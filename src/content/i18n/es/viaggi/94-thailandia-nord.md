@@ -64,7 +64,7 @@ La segunda es el **Doi Inthanon**, la montaña más alta de Tailandia, en el dí
 ### Día 6 — Un día con elefantes, como debe ser
 El día de los elefantes, en un sitio elegido con los criterios de la sección dedicada más abajo. Se reserva con días de antelación, y casi todos los centros recogen en el hotel en Chiang Mai. Antes de pagar hay que leer bien el programa: si incluye montarlos, lavarlos o bañarse con ellos, no es el sitio adecuado. Los centros serios están casi todos fuera de la ciudad, en los valles hacia Mae Taeng o Mae Wang, y el traslado de ida suele durar más de una hora.
 
-Un buen día consiste sobre todo en caminar detrás de los animales a distancia, mirarlos mientras comen, pastan o se revuelcan en el barro, y escuchar a quien trabaja allí contar de dónde viene cada elefante. *Ropa que se pueda manchar, calzado cerrado, crema solar y repelente: se está mucho al aire libre.* Si algo del programa no cuadra con lo que dice la web, vale la pena pedir explicaciones allí mismo. Por la noche se vuelve a la ciudad cansado, y basta una cena cerca del hotel.
+Un buen día consiste sobre todo en caminar detrás de los animales a distancia, mirarlos mientras comen, pastan o se revuelcan en el barro, y escuchar a quien trabaja allí contar de dónde viene cada elefante. *Ropa que se pueda manchar, calzado cerrado, crema solar y repelente: se está mucho al aire libre.* Si algo del programa no cuadra con lo que dice la web, conviene pedir explicaciones allí mismo. Por la noche se vuelve a la ciudad cansado, y basta una cena cerca del hotel.
 
 **En la práctica:** reservar directamente en la web del centro, no en folletos del hotel · vuelta a Chiang Mai a última hora de la tarde · precios de algunos miles de baht por el día, comida a menudo incluida · consultar la lista actualizada de World Animal Protection antes de elegir.
 
@@ -76,7 +76,7 @@ Pai es un pueblo en un valle verde que con los años se ha convertido en destino
 **En la práctica:** minivan Chiang Mai-Pai a reservar un día antes, unos cientos de baht · unos 130 km de curvas · el mercado nocturno abre hacia el atardecer · para dormir, guesthouses en el centro o bungalós justo a las afueras, más tranquilos pero hace falta transporte.
 
 ### Día 8 — Pai: cañón, campo y aguas termales
-Un día alrededor del pueblo. El **Pai Canyon** al atardecer, con senderos sobre crestas de tierra roja: no tienen barandillas y son estrechos, así que nada de acrobacias para las fotos. En el valle hay cascadas, arrozales y fuentes termales. Aquí muchos alquilan scooter. Quien lo haga necesita el permiso adecuado, el casco abrochado y un seguro que cubra de verdad. Quien no esté seguro toma un songthaew o un conductor para el día.
+Un día alrededor del pueblo. El **Pai Canyon** al atardecer, con senderos sobre crestas de tierra roja: no tienen barandillas y son estrechos, así que nada de acrobacias para las fotos. En el valle hay cascadas, arrozales y fuentes termales. Aquí muchos alquilan scooter. Quien lo haga necesita el permiso adecuado, el casco abrochado y un seguro que cubra también el scooter. Quien no esté seguro toma un songthaew o un conductor para el día.
 
 El orden más cómodo es dejar el cañón para el final. Por la mañana las **fuentes termales**, más agradables con el fresco de las primeras horas, luego la cascada de **Mo Paeng**, los arrozales y el puente conmemorativo de la Segunda Guerra Mundial en la carretera de Chiang Mai. Por la tarde, quien no tema las curvas puede subir al mirador de **Yun Lai**, famoso al amanecer por el mar de nubes sobre el valle. *Al cañón se llega al menos una hora antes del atardecer, y se lleva una linterna para volver al aparcamiento.*
 
@@ -166,7 +166,7 @@ El golfo de Tailandia, con Koh Samui, Koh Phangan y Koh Tao, tiene estaciones di
 - **Vestirse para los templos**: hombros y rodillas cubiertos, siempre.
 - **Ir tarde al Templo Blanco**, cuando los tours ya se han ido.
 - **En el Triángulo de Oro, el museo antes que el mirador.** Y la frontera se mira desde la orilla tailandesa.
-- **Llevar un jersey.** En el Doi Inthanon y en Pai, a primera hora, hace frío de verdad.
+- **Llevar un jersey.** En el Doi Inthanon y en Pai a primera hora hace mucho frío.
 
 ## Chiusura personale
 De Chiang Mai me quedó el ritmo, más lento que en el resto del país, y la mañana con los elefantes del Elephant Nature Park, sin montarlos nunca: uno de mis mejores recuerdos de Tailandia.

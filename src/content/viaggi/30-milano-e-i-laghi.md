@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:**
-**Durata:** 2 giorni, 1 notte — con una versione da 1 giorno e le gite sui laghi
+**Durata:** 2 giorni, 1 notte, con una versione da 1 giorno e le gite sui laghi
 **Compagni di viaggio:** con amici, in autonomia, metro e treni regionali
 **Categoria:** Europa · Italia · Milano · Lago di Como · design · arte
 
@@ -76,7 +76,7 @@ Un giorno a Milano funziona benissimo, meglio che in quasi qualunque altra citt�
 ## I laghi in giornata
 La gita sul lago è, per molti, la parte migliore di un viaggio a Milano. Tre opzioni, in ordine di comodità.
 
-**Lago di Como — la scelta standard, e quella giusta la prima volta.**
+**Lago di Como: la scelta standard, e quella giusta la prima volta.**
 Il modo pratico per farlo senza auto è il **treno diretto da Milano Centrale a Varenna**, circa un'ora. **Varenna** è il paese giusto da cui partire proprio perché **è l'unico dei tre classici raggiungibile in treno** (Bellagio e Menaggio si raggiungono solo in battello o in bus), ed è più piccola e più bella di quanto la sua fama suggerisca, con le scalinate che scendono al lago e la passeggiata sull'acqua.
 
 Da Varenna il **traghetto** collega in pochi minuti **Bellagio** e **Menaggio**: il triangolo si fa in giornata con i battelli, ed è il modo giusto di vedere il lago, **dall'acqua** e non dalla strada. **Bellagio** è il paese cartolina, bellissimo e affollatissimo; **Villa Melzi** a Bellagio e **Villa Carlotta** a Tremezzo hanno giardini che a maggio, con le azalee, sono la ragione per venire in quella settimana precisa.
@@ -85,10 +85,10 @@ Da Varenna il **traghetto** collega in pochi minuti **Bellagio** e **Menaggio**:
 
 **Como città** si raggiunge in meno di un'ora da Cadorna o da Centrale ed è una base più comoda ma meno bella: ha il Duomo, le mura, la funicolare per Brunate e la sua storia di seta. Chi ha un giorno solo scelga **Varenna e il triangolo dei battelli**, non Como città. *Il mio ricordo: Como è bellissima, ma turistica.*
 
-**Bergamo Alta — la gita più sottovalutata.**
+**Bergamo Alta: la gita più sottovalutata.**
 Circa cinquanta minuti di treno, poi la **funicolare** che sale alla città murata. Piazza Vecchia con la Torre Civica, la **Cappella Colleoni** e la Basilica di Santa Maria Maggiore, le mura venete percorribili a piedi con la pianura sotto. Si fa in mezza giornata, costa pochissimo e non ha niente della calca del lago. **Da provare i casoncelli**, e la **polenta**, che qui è un piatto serio. *Il mio ricordo: Bergamo non è essenziale, ma è autentica.*
 
-**Lago Maggiore e Isole Borromee — la gita più lunga e la più scenografica.**
+**Lago Maggiore e Isole Borromee: la gita più lunga e la più scenografica.**
 Treno per **Stresa**, circa un'ora e mezza, e battello per le isole: **Isola Bella** con il palazzo barocco e il giardino a terrazze con i pavoni bianchi, **Isola dei Pescatori**, un borgo di pescatori ancora abitato, e **Isola Madre** con il giardino botanico. È una giornata intera e va organizzata con gli orari dei battelli in mano. *Il mio ricordo: le Borromee sono una sorpresa, se non le si conosce, perché sono super curate.*
 
 **In alternativa, per chi vuole il lago senza folla, c'è il Lago d'Orta**: più piccolo, meno raggiungibile e molto più quieto, con l'**Isola di San Giulio** e il Sacro Monte sopra Orta.

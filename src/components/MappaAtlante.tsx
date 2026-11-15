@@ -6,6 +6,7 @@ import { ArrowRight } from 'lucide-react'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import type { Lingua } from '@/lib/i18n/config'
 import type { DatiMappa, PuntoMappa } from './MappaPaese'
+import { conContorni, useGeometriaMappa } from './useGeometriaMappa'
 
 /**
  * Variante «da stampa antica» della mappa Paese (per ora solo il Perù, vedi ATLANTE in
@@ -182,8 +183,9 @@ type Gruppo = { x: number; y: number; luoghi: Luogo[] }
 
 export function MappaAtlante({
   nomePaese,
-  mappa,
-  atlante,
+  mappa: mappaBase,
+  atlante: atlanteBase,
+  geometria,
   punti,
   tappe,
   percorso: sequenza,
@@ -195,6 +197,8 @@ export function MappaAtlante({
   nomePaese: string
   mappa: DatiMappa
   atlante: DatiAtlante
+  /** indirizzo dei contorni (/geometria-mappa/<paese>): se c'è, mappa e atlante arrivano senza e si scaricano vicino allo schermo */
+  geometria?: string
   punti: PuntoMappa[]
   tappe: TappaPercorso[]
   /** il viaggio nell'ordine vero dei giorni (le destinazioni possono ripetersi, es. i rientri a Lima) */
@@ -213,6 +217,9 @@ export function MappaAtlante({
   const svgRef = useRef<SVGSVGElement>(null)
   const boxRef = useRef<HTMLDivElement>(null)
   const scalaRef = useRef<HTMLDivElement>(null)
+  const geo = useGeometriaMappa(geometria, boxRef)
+  const mappa = useMemo(() => (geo ? { ...mappaBase, path: geo.path } : mappaBase), [geo, mappaBase])
+  const atlante = useMemo(() => (geo ? conContorni(atlanteBase, geo) : atlanteBase), [geo, atlanteBase])
   const vbRef = useRef<VB>([0, 0, mappa.w, mappa.h])
   const rafRef = useRef(0)
   const [filtro, setFiltro] = useState<Filtro>('tutto')
@@ -684,18 +691,28 @@ export function MappaAtlante({
                 <pattern id={P('tratteggio')} width={7} height={7} patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
                   <path d="M0 0V7" stroke="#8f887a" strokeWidth={0.7} opacity={0.35} />
                 </pattern>
+                {/* ogni contorno una volta sola, poi richiamato con <use>: prima il contorno del Paese
+                    era ripetuto 13 volte nell'HTML (New York: 1,66 MB di pagina). Il vector-effect sta
+                    qui perché non si eredita da <use>; tratto, riempimento e spessore sì. */}
+                <path id={P('g-paese')} d={mappa.path} vectorEffect="non-scaling-stroke" />
+                {atlante.vicini.map((v) => (
+                  <path key={v.id} id={P(`g-${v.id}`)} d={v.path} vectorEffect="non-scaling-stroke" />
+                ))}
+                {atlante.interni?.map((v) => (
+                  <path key={v.id} id={P(`gi-${v.id}`)} d={v.path} vectorEffect="non-scaling-stroke" />
+                ))}
                 {atlante.vicini.map((v) => (
                   <clipPath key={v.id} id={P(`c-${v.id}`)}>
-                    <path d={v.path} />
+                    <use href={`#${P(`g-${v.id}`)}`} />
                   </clipPath>
                 ))}
                 {atlante.interni?.map((v) => (
                   <clipPath key={v.id} id={P(`ci-${v.id}`)}>
-                    <path d={v.path} />
+                    <use href={`#${P(`gi-${v.id}`)}`} />
                   </clipPath>
                 ))}
                 <clipPath id={P('paese')}>
-                  <path d={mappa.path} />
+                  <use href={`#${P('g-paese')}`} />
                 </clipPath>
                 {atlante.rilievi?.map((r, i) => (
                   <clipPath key={i} id={P(`r-${i}`)}>
@@ -727,21 +744,21 @@ export function MappaAtlante({
               <g fill="none" strokeLinejoin="round">
                 {[64, 40].map((w, i) => (
                   <g key={w} opacity={i ? 1 : 0.7}>
-                    <path d={mappa.path} stroke={MARE_COSTA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
+                    <use href={`#${P('g-paese')}`} stroke={MARE_COSTA} strokeWidth={w} />
                     {atlante.vicini.map((v) => (
-                      <path key={v.id} d={v.path} stroke={MARE_COSTA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
+                      <use key={v.id} href={`#${P(`g-${v.id}`)}`} stroke={MARE_COSTA} strokeWidth={w} />
                     ))}
                   </g>
                 ))}
                 {[30, 20, 11].map((w) => (
                   <g key={w}>
-                    <path d={mappa.path} stroke={RIGA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
+                    <use href={`#${P('g-paese')}`} stroke={RIGA} strokeWidth={w} />
                     {atlante.vicini.map((v) => (
-                      <path key={v.id} d={v.path} stroke={RIGA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
+                      <use key={v.id} href={`#${P(`g-${v.id}`)}`} stroke={RIGA} strokeWidth={w} />
                     ))}
-                    <path d={mappa.path} stroke={MARE_COSTA} strokeWidth={w - 1.6} vectorEffect="non-scaling-stroke" />
+                    <use href={`#${P('g-paese')}`} stroke={MARE_COSTA} strokeWidth={w - 1.6} />
                     {atlante.vicini.map((v) => (
-                      <path key={v.id} d={v.path} stroke={MARE_COSTA} strokeWidth={w - 1.6} vectorEffect="non-scaling-stroke" />
+                      <use key={v.id} href={`#${P(`g-${v.id}`)}`} stroke={MARE_COSTA} strokeWidth={w - 1.6} />
                     ))}
                   </g>
                 ))}
@@ -757,17 +774,17 @@ export function MappaAtlante({
                   const [velo, bordo] = velatura(v.colore)
                   return (
                     <g key={v.id}>
-                      <path d={v.path} fill={velo} stroke={velo} strokeWidth={2} vectorEffect="non-scaling-stroke" />
-                      <path d={v.path} fill="none" stroke={bordo} strokeWidth={9} opacity={0.8} clipPath={`url(#${P(`c-${v.id}`)})`} vectorEffect="non-scaling-stroke" />
-                      <path d={v.path} fill={`url(#${P('tratteggio')})`} stroke={BORDO_VICINO} strokeWidth={0.9} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
+                      <use href={`#${P(`g-${v.id}`)}`} fill={velo} stroke={velo} strokeWidth={2} />
+                      <use href={`#${P(`g-${v.id}`)}`} fill="none" stroke={bordo} strokeWidth={9} opacity={0.8} clipPath={`url(#${P(`c-${v.id}`)})`} />
+                      <use href={`#${P(`g-${v.id}`)}`} fill={`url(#${P('tratteggio')})`} stroke={BORDO_VICINO} strokeWidth={0.9} strokeLinejoin="round" />
                     </g>
                   )
                 })}
               </g>
 
               {/* il Paese: inchiostro sotto, carta, rilievo ritagliato sulla forma */}
-              <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={2.6} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
-              <path d={mappa.path} fill="var(--color-cream)" />
+              <use href={`#${P('g-paese')}`} fill="none" stroke="var(--color-ink)" strokeWidth={2.6} strokeLinejoin="round" />
+              <use href={`#${P('g-paese')}`} fill="var(--color-cream)" />
               {atlante.rilievi ? (
                 atlante.rilievi.map((r, i) =>
                   r.src ? (
@@ -800,7 +817,7 @@ export function MappaAtlante({
                   opacity={0.98}
                 />
               ) : (
-                <path d={mappa.path} fill={TINTA_PIATTA} opacity={0.9} />
+                <use href={`#${P('g-paese')}`} fill={TINTA_PIATTA} opacity={0.9} />
               )}
               {dettaglio && !atlante.rilievi && atlante.rilievo?.srcHd && (
                 <image
@@ -816,15 +833,15 @@ export function MappaAtlante({
                 />
               )}
               {/* contorno a inchiostro anche sopra la tinta, sottile */}
-              <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={0.8} strokeLinejoin="round" opacity={0.7} vectorEffect="non-scaling-stroke" />
+              <use href={`#${P('g-paese')}`} fill="none" stroke="var(--color-ink)" strokeWidth={0.8} strokeLinejoin="round" opacity={0.7} />
               {/* zone interne (distretti): velatura più viva dei vicini, bordo carico lungo il confine */}
               {atlante.interni?.map((v) => {
                 const [velo, bordo] = velatura(v.colore)
                 return (
                   <g key={v.id}>
-                    <path d={v.path} fill={velo} />
-                    <path d={v.path} fill="none" stroke={bordo} strokeWidth={8} clipPath={`url(#${P(`ci-${v.id}`)})`} vectorEffect="non-scaling-stroke" />
-                    <path d={v.path} fill="none" stroke="var(--color-ink)" strokeWidth={0.7} strokeDasharray="4 2 1 2" opacity={0.75} vectorEffect="non-scaling-stroke" />
+                    <use href={`#${P(`gi-${v.id}`)}`} fill={velo} />
+                    <use href={`#${P(`gi-${v.id}`)}`} fill="none" stroke={bordo} strokeWidth={8} clipPath={`url(#${P(`ci-${v.id}`)})`} />
+                    <use href={`#${P(`gi-${v.id}`)}`} fill="none" stroke="var(--color-ink)" strokeWidth={0.7} strokeDasharray="4 2 1 2" opacity={0.75} />
                   </g>
                 )
               })}

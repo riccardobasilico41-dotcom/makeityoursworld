@@ -264,7 +264,7 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "KLCC",
         perChi: "quien busca vistas a las torres y hoteles de gama alta",
-        testo: "Tranquilo, limpio, con restaurantes de calidad. Menos vida auténtica.",
+        testo: "Tranquilo, limpio, con restaurantes de calidad. Menos vida de barrio.",
         fascia: "90-220 €"
       },
       {
@@ -1005,7 +1005,7 @@ export const destinazioniMalesia: Destinazione[] = [
         nome: "Port Dickson",
         distanza: "unos 90 km, 1,5 horas en coche",
         come: "En coche o con conductor; los autobuses desde Melaka Sentral son más lentos.",
-        testo: "El lugar de playa más cercano a Kuala Lumpur, con playas largas y el faro de Tanjung Tuan. El mar no es de postal, pero es un día de descanso camino del norte.",
+        testo: "El lugar de playa más cercano a Kuala Lumpur, con playas largas y el faro de Tanjung Tuan. El mar es normal: se para aquí para un día de descanso camino del norte.",
       },
     ],
     faq: [

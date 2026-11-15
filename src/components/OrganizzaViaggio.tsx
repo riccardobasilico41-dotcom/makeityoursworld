@@ -142,7 +142,7 @@ export async function OrganizzaViaggio({
   return (
     <section id="organizza" aria-labelledby="organizza-titolo" className="scroll-mt-24 border-2 border-ink bg-cream p-5 sm:p-7">
       <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.prenotaTappe}</p>
-      <h2 id="organizza-titolo" className="mt-2 font-display text-2xl text-ink sm:text-3xl">
+      <h2 id="organizza-titolo" className="mt-2 titolo-scheda text-ink">
         {t.organizza}
       </h2>
 

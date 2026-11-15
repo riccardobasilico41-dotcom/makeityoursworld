@@ -153,9 +153,9 @@ In the late afternoon we went to the **Porta d'Europa** (Gateway to Europe), a c
 ### Day 11 — By boat, or Linosa
 For the last full day there are two options.
 
-**Option A — The boat tour of the island.** It's the right way to see Lampedusa: the southern coast has the caves and inlets, and above all there's the **Tabaccara**, a bay with a brilliant white seabed where **the boats seem suspended in midair**, because the water is so clear you can see the hull's shadow on the bottom several meters down. **At the Tabaccara you can't land and anchoring is regulated**: you look and you swim.
+**Option A: the boat tour of the island.** It's the right way to see Lampedusa: the southern coast has the caves and inlets, and above all there's the **Tabaccara**, a bay with a brilliant white seabed where **the boats seem suspended in midair**, because the water is so clear you can see the hull's shadow on the bottom several meters down. **At the Tabaccara you can't land and anchoring is regulated**: you look and you swim.
 
-**Option B — Linosa.** An hour's crossing to the north and you change island entirely: **Linosa is volcanic and black**, where Lampedusa is limestone and white. It has about five hundred inhabitants, **houses painted in full colors with white trim**, three volcanic cones to climb on foot and **Pozzolana di Ponente**, a red-sand beach that is **also a turtle nesting site** and therefore regulated. There are no comfortable beaches, there's almost nothing to do, and those who go on purpose know it.
+**Option B: Linosa.** An hour's crossing to the north and you change island entirely: **Linosa is volcanic and black**, where Lampedusa is limestone and white. It has about five hundred inhabitants, **houses painted in full colors with white trim**, three volcanic cones to climb on foot and **Pozzolana di Ponente**, a red-sand beach that is **also a turtle nesting site** and therefore regulated. There are no comfortable beaches, there's almost nothing to do, and those who go on purpose know it.
 
 **In practice:** full-day boat trip from the port, usually with lunch on board, to be booked the day before · Liberty Lines hydrofoil Lampedusa-Linosa in about an hour, ferry in about two · with rough seas sailings are cancelled: check the return time · on Linosa you get around on foot or by scooter.
 

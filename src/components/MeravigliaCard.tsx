@@ -17,7 +17,7 @@ export async function MeravigliaCard({ meraviglia, subito = false }: { meravigli
   return (
     <Link
       href={`/meraviglie/${meraviglia.slug}`}
-      className="group flex w-full flex-col overflow-hidden rounded-none border border-alpine/10 bg-white transition-[border-color,transform] duration-150 ease-out hover:border-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
+      className="group flex w-full flex-col overflow-hidden scheda-lista focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
     >
       <div
         role={meraviglia.heroImage ? undefined : 'img'}
@@ -50,7 +50,7 @@ export async function MeravigliaCard({ meraviglia, subito = false }: { meravigli
       </div>
 
       <div className="flex flex-1 flex-col gap-2.5 p-6">
-        <h3 className="font-display text-xl font-medium leading-tight text-alpine">{meraviglia.nome}</h3>
+        <h3 className="titolo-scheda text-alpine">{meraviglia.nome}</h3>
         <p className="text-sm leading-relaxed text-stone line-clamp-3">{meraviglia.descrizione}</p>
         <div className="mt-auto flex items-center justify-between pt-2">
           <span className="text-xs text-stone/85">{meraviglia.citta}</span>

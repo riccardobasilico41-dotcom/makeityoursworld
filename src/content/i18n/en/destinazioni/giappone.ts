@@ -76,7 +76,7 @@ export const destinazioniGiappone: Destinazione[] = [
         url: "https://www.meijijingu.or.jp/en/",
         lat: 35.6764,
         lng: 139.6993,
-        consiglio: "Do the shrine before Takeshita Street: the contrast between the two halves of the day is the point.",
+        consiglio: "Do the shrine before Takeshita Street: the best part of the day is the contrast between its two halves.",
       },
       {
         nome: "Tokyo Skytree",
@@ -800,7 +800,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Ginkaku-ji, the Silver Pavilion",
-        testo: "The 15th-century retreat villa of the shogun Ashikaga Yoshimasa, later turned into a Zen temple. Despite the name it was never covered in silver: it is a pavilion of dark wood, with a garden of raked sand shaped into a cone and a moss garden that climbs the hill.",
+        testo: "The 15th-century retreat villa of the shogun Ashikaga Yoshimasa, later turned into a Zen temple. Despite the name, it was never covered in silver. It is a pavilion of dark wood, with a garden of raked sand shaped into a cone and a moss garden that climbs the hill.",
         come: "Bus 5, 17 or 100 to Ginkakuji-michi, then 10 minutes uphill on foot. It is the start, or the end, of the Philosopher's Path.",
         quando: "At opening time or in the late afternoon; in late November for the red maples.",
         tempo: "1 hour",
@@ -2140,7 +2140,7 @@ export const destinazioniGiappone: Destinazione[] = [
         url: "https://jinya.gifu.jp/",
         lat: 36.13969,
         lng: 137.25753,
-        consiglio: "There's a free guide service: it's worth asking at the ticket desk.",
+        consiglio: "There's a free guide service: ask at the ticket desk.",
       },
       {
         nome: "Hida Folk Village",

@@ -492,7 +492,7 @@ export const destinazioniCanada: Destinazione[] = [
         come: "Le crociere partono da Gananoque e da Kingston e si prenotano online.",
         quando: "Nella bella stagione: date sui siti degli operatori. L'estate è piena, l'autunno è più calmo.",
         tempo: "1-3 ore",
-        consiglio: "Scegli la crociera lunga se vuoi vedere davvero le isole più interne.",
+        consiglio: "Scegli la crociera lunga se vuoi arrivare fino alle isole più interne.",
       },
       {
         nome: "Thousand Islands Parkway",

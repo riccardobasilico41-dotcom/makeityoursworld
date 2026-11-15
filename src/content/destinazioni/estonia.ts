@@ -21,7 +21,7 @@ export const destinazioniEstonia: Destinazione[] = [
     introduzione:
       'La capitale dell\'Estonia è la più settentrionale delle tre capitali baltiche e si affaccia sul Golfo di Finlandia. La Città Vecchia, patrimonio UNESCO dal 1997, è uno dei centri medievali meglio conservati del nord Europa: in alto la Toompea, la collina fortificata dove risiedeva il potere, in basso la città dei mercanti anseatici. Fuori dalle mura, il parco barocco di Kadriorg e l\'ex complesso industriale di Telliskivi raccontano due Estonie diverse, quella zarista e quella più recente, digitale e creativa.',
     percheAndarci:
-      'Il centro storico è autentico: mura, torri e la piazza con il municipio gotico sono arrivate fino a oggi quasi intatte. E appena fuori da quelle mura Tallinn cambia faccia, con un parco imperiale russo da una parte e un distretto creativo nato in una fabbrica sovietica dall\'altra.',
+      'Il centro storico è rimasto com\'era: mura, torri e la piazza con il municipio gotico sono arrivate fino a oggi quasi intatte. E appena fuori da quelle mura Tallinn cambia faccia, con un parco imperiale russo da una parte e un distretto creativo nato in una fabbrica sovietica dall\'altra.',
     cosaVedere: [
       'La Piazza del Municipio (Raekoja plats), con il Municipio di Tallinn, del 1404, ancora in uso',
       'La collina di Toompea, con il Castello di Toompea (oggi sede del parlamento estone, il Riigikogu) e la Cattedrale ortodossa di Alexander Nevsky, con le cupole a cipolla dorate',

@@ -121,7 +121,7 @@ Dos días en Florencia aguantan bien, con una condición: **un solo gran museo, 
 - **Regla general:** los restaurantes alrededor del Duomo y de los Uffizi con el menú en seis idiomas expuesto hay que evitarlos por definición. Dos manzanas más allá se come mejor por la mitad.
 
 ## Consejos prácticos / errores que no hay que repetir
-- **Reservar la cúpula antes que cualquier otra cosa**, porque es la única entrada que se agota de verdad.
+- **Reservar la cúpula antes que cualquier otra cosa**, porque es la única entrada que acaba agotada.
 - **Comprobar los días de cierre** de los Uffizi, la Academia y el complejo del Duomo antes de montar el programa.
 - **Un gran museo al día.** Después de la tercera obra maestra se deja de ver: el síndrome de Stendhal toma su nombre de un malestar sufrido en Florencia, y no es del todo una leyenda.
 - **No subir a la cúpula** con claustrofobia o rodillas delicadas: no hay salidas intermedias.

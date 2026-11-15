@@ -865,6 +865,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   },
   'manchester-liverpool-premier-league': {
     seoTitle: "Manchester y Liverpool en un fin de semana con la Premier",
+    titoloBreve: "Manchester y Liverpool: un fin de semana de Premier League",
     seoDescription:
       "Cuatro días en tren por Manchester y Liverpool: entradas en los canales oficiales, visitas a Old Trafford y Anfield, y luego el Peak y el Lake District.",
     socialTitle: "Manchester, Liverpool y un partido de la Premier League: cómo conseguir entradas sin riesgos",

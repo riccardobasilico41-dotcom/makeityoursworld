@@ -725,7 +725,7 @@ export const destinazioniPeru: Destinazione[] = [
           },
         ],
         raccomandazione:
-          "With fixed dates and little time, take the train from Ollantaytambo with a night in Aguas Calientes: you enter on the first shift and avoid the rush. With 4-5 days and a wish to walk, the Salkantay gives you more scenery for less money and without the permit anxiety. The classic Inca Trail is worth it only if you can decide (and book) at least five or six months ahead.",
+          "With fixed dates and little time, take the train from Ollantaytambo with a night in Aguas Calientes: you enter on the first shift and avoid the rush. With 4-5 days and a wish to walk, the Salkantay gives you more scenery for less money and without the permit anxiety. The classic Inca Trail only makes sense if you can decide (and book) at least five or six months ahead.",
       },
     ],
     doveDormire:
@@ -1599,7 +1599,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "domanda": "Is it worth sleeping on Amantaní?",
-        "risposta": "Yes, it is the most authentic part of the lake. The houses are simple, with shared bathrooms, no guaranteed hot water and no heating: you need a warm sleeping bag."
+        "risposta": "Yes, it is the most direct way to see how people live on the lake. The houses are simple, with shared bathrooms, no guaranteed hot water and no heating: you need a warm sleeping bag."
       },
       {
         "domanda": "Are the Uros islands a tourist trap?",
@@ -1960,7 +1960,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     doveDormire: 'Historic center of Arequipa; Chivay or Cabanaconde as bases for the canyon.',
     doveMangiare:
-      "Arequipeña cuisine is different from the rest of Peru and worth tasting in the traditional picanterías: rocoto relleno, adobo on Sunday morning and chupe de camarones. In the canyon the offer shrinks to the set menus of the small village restaurants.",
+      "Arequipeña cuisine is different from the rest of Peru and should be tried in the traditional picanterías: rocoto relleno, adobo on Sunday morning and chupe de camarones. In the canyon the offer shrinks to the set menus of the small village restaurants.",
     comeArrivare: "The flight from Lima takes about 1.5 hours; from Rodríguez Ballón airport to the centre it is about 20-30 minutes by official taxi. The bus from Lima takes 15-16 hours, overnight. From Puno it is about 5-6 hours by bus with the main companies, best by day for the scenery of the Salinas y Aguada Blanca reserve; from the terminal to the centre it is about 15-20 minutes by taxi. For the Colca: Arequipa to Chivay takes about 3-4 hours, on a two-day tour or by regular bus to Chivay and Cabanaconde.",
     comeSpostarsi: 'Arequipa is walkable; for the Colca, organized two-day tours or regular buses to Chivay and Cabanaconde.',
     periodoMigliore: 'May-September; condors can be seen all year but most likely in the early morning hours',
@@ -2016,7 +2016,7 @@ export const destinazioniPeru: Destinazione[] = [
         "orari": "Reduced hours on Sunday: check beforehand",
         "lat": -16.39984,
         "lng": -71.53772,
-        "consiglio": "The visit is guided and short: worth it to understand the Colca context."
+        "consiglio": "The visit is guided and short, and helps you understand the Colca context."
       },
       {
         "nome": "Iglesia de la Compañía and its cloisters",

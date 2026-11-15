@@ -284,7 +284,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "Serve prenotare Alcatraz?",
-        risposta: "Sì, in pratica sempre: i biglietti si comprano online solo da Alcatraz City Cruises e in estate e nei festivi finiscono anche un mese prima. Il tour diurno costa 47,95 $ (2026).",
+        risposta: "Sì, quasi sempre: i biglietti si comprano online solo da Alcatraz City Cruises e in estate e nei festivi finiscono anche un mese prima. Il tour diurno costa 47,95 $ (2026).",
       },
       {
         domanda: "Serve l'auto a San Francisco?",

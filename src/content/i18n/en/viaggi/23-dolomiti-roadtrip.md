@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-The Dolomites have been a UNESCO site since 2009, and the official reasoning doesn't talk about beauty: it talks about geology. They are the coral reefs of a tropical sea from two hundred and fifty million years ago, lifted, split and left standing as vertical walls that keep their layering in plain view. They are also, technically, nine separate mountain systems spread over three provinces (Bolzano, Trento, Belluno), and that's the point most guides skip: the Dolomites aren't a place, they're an archipelago of places that resemble each other in the substance of the rock and are completely different in atmosphere, price and number of people.
+The Dolomites have been a UNESCO site since 2009, and the official reason is geology, not scenery. They are the coral reefs of a tropical sea from two hundred and fifty million years ago, lifted, split and left standing as vertical walls that keep their layering in plain view. They are also, technically, nine separate mountain systems spread over three provinces (Bolzano, Trento, Belluno), and that's the point most guides skip: the Dolomites are an archipelago of places that resemble each other in the substance of the rock and are completely different in atmosphere, price and number of people.
 
 That's why below you won't find an itinerary with fixed days. You'll find ten areas treated as places in their own right, each with what you need to know to decide whether and when to fit it into your own loop, plus three ready-made roadtrip proposals for anyone who just wants a starting point. The car roadtrip is the format that makes the most sense here: the areas are close as the crow flies but separated by mountain passes, and getting from one to another is already part of the experience, or of the problem, if it happens at the wrong hour in August.
 
@@ -101,7 +101,7 @@ The most demanding proposals in this guide, with elevation gain and difficulty g
 - **Sella loop on foot (hiking Sella Ronda)**: multi-day, stages of 5-6 hours each with 600-900 meters of elevation gain, for those who want to do the four-pass loop walking instead of driving.
 - **Ferrata toward the Marmolada (Ivano Dibona ferrata side or similar on nearby groups)**: hard, strong exposure, reserved for those who already have ferrata experience and to be done with a mountain guide the first time.
 
-**The first time on a ferrata you go with a mountain guide.** It's the most frequent cause of calls to mountain rescue in the Dolomites, and it's not boilerplate advice: it's what hut keepers say to anyone who arrives without proper kit.
+**The first time on a ferrata you go with a mountain guide.** It's the most frequent cause of calls to mountain rescue in the Dolomites, and hut keepers repeat it to anyone who arrives without proper kit.
 
 ### For those who want the view without suffering
 ![The panorama of the Alpe di Siusi with the Dolomites in the background](/images/viaggi/dolomiti-roadtrip/alpe-di-siusi.jpg)
@@ -120,7 +120,7 @@ The Dolomites in winter are a different world from the summer one, with a largel
 
 **Snowshoes and winter walks:** the Alpe di Siusi and the Braies Valley, which in summer suffer from too many people, in winter become quiet snowshoe routes. The frozen Lago di Braies, in particular, is a different spectacle from the summer one, often with far fewer people.
 
-**Christmas markets:** Brunico and Vipiteno have among the most authentic Christmas markets in South Tyrol, less scenic than those of Bolzano but also less crowded.
+**Christmas markets:** Brunico and Vipiteno have among the most traditional Christmas markets in South Tyrol, less scenic than those of Bolzano but also less crowded.
 
 **Ice climbing and frozen waterfalls:** a niche but growing activity, especially in the Val Pusteria and Val Gardena, for those looking for something different from skiing.
 

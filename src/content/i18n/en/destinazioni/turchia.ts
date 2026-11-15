@@ -875,7 +875,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "domanda": "Can you bathe in the terraces?",
-        "risposta": "You walk barefoot and wade in the open pools, which are shallow and change on rotation. For a real swim there is the Antique Pool, among the submerged columns."
+        "risposta": "You walk barefoot and wade in the open pools, which are shallow and change on rotation. For a swim there is the Antique Pool, among the submerged columns."
       },
       {
         "domanda": "Is it better to enter from the lower or upper entrance?",
@@ -1221,7 +1221,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Ölüdeniz and Butterfly Valley",
-        "testo": "The turquoise lagoon, a protected natural area, with the public beach of Belcekız in front. A little further south, Butterfly Valley is a cove shut in by rock walls, reachable in practice only by sea.",
+        "testo": "The turquoise lagoon, a protected natural area, with the public beach of Belcekız in front. A little further south, Butterfly Valley is a cove shut in by rock walls, reachable almost only by sea.",
         "come": "Dolmuş from Fethiye, about 30 minutes. For Butterfly Valley, boat from Ölüdeniz beach.",
         "quando": "Morning, before the crowds of swimmers; in summer arrive early to find a spot.",
         "tempo": "Half a day",

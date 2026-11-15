@@ -19,7 +19,7 @@ Nine days are enough to do all four stops at a human pace, without the rushing t
 - **AVE trains:** Madrid-Seville (~2h30), Seville-Córdoba (~45 min), Córdoba-Madrid (~1h40-2h) are among the most frequent and fastest routes on the Spanish network. **Córdoba-Granada** has direct high-speed trains (about 1h30), more convenient than the bus (~2h40): book them together with the other legs.
 - **Rental car:** not needed until Granada, but almost essential for Ronda and the pueblos blancos, where buses between villages are scarce. It's best to rent it in Granada and return it in Málaga at the end of the trip.
 - **The tapeo:** in Seville you often have dinner going from bar to bar, tapa after tapa. In **Granada the tapa comes free with every drink**: it is one of the few Spanish cities where this still always happens.
-- **Flamenco, how to choose:** the more touristy tablaos tend toward standardized, amplified shows for large groups; the smaller ones without amplification, often in Triana (Seville) or in the cave houses of Sacromonte (Granada), give you something closer to the tradition. Price is not always a guarantee of authenticity.
+- **Flamenco, how to choose:** the more touristy tablaos tend toward standardized, amplified shows for large groups; the smaller ones without amplification, often in Triana (Seville) or in the cave houses of Sacromonte (Granada), give you something closer to the tradition. A high price does not guarantee a more traditional flamenco.
 - **The heat:** even in the recommended window (March-May, September-October) the middle hours in Seville and Córdoba can be heavy: plan outdoor monuments for early morning or late afternoon.
 - **Electricity and currency:** euro, type C/F sockets identical to Italy. No surprises on that front.
 - **From the airport to the centre:** at Seville San Pablo (SVQ) Tussam's EA bus goes to Santa Justa, Prado de San Sebastián and Plaza de Armas in about 35 minutes, every 20-30 minutes from about 5:20 to 1:15, about €4, payable on board, contactless card included · fixed-fare taxi to the centre, about €25 by day and €28 at night and on holidays · Uber, Cabify and Bolt work · leaving from Málaga (AGP), the C1 Cercanías train links María Zambrano and the centre in about 12 minutes, about €2, every 20 minutes; the A Express bus costs about €4, a taxi about €20-25 · to avoid trouble, always check that the taxi applies the fixed fare.
@@ -118,7 +118,7 @@ The **tapeo** is an institution in Seville (salmorejo, espinacas con garbanzos, 
 ## Practical tips / mistakes not to repeat
 - **Book the Alhambra as soon as you set the date of your trip**, not close to departure: it sells out weeks, in high season months, ahead.
 - **Avoid June-August**: the heat in Seville and Córdoba is a serious factor to build into your planning.
-- **Don't pick the first tablao advertised in the center**: between tourist formats and more authentic venues, it's worth checking the reputation of the place before booking.
+- **Don't pick the first tablao advertised in the center**: between shows packaged for tourists and serious venues, it's worth checking the reputation of the place before booking.
 - **Rent the car only from Granada onward**: in the three big cities the AVE is more convenient and a car in the center is just a parking problem.
 - **Dress in layers even in spring/autumn**: temperature swings between day and evening remain marked.
 - **Check the reduced summer hours** of the Córdoba monuments if you travel anyway in late June or early September.

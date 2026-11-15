@@ -1,7 +1,7 @@
 # Thailandia: da Bangkok al mare del sud, con Chiang Mai, Phuket e le Similan
 
 **Stato bozza:** 🟡 in lavorazione (info pratiche e aneddoti pronti — scritti come bozza da rileggere e personalizzare; mancano le foto)
-**Periodo del viaggio:** più viaggi nel tempo — un giro strutturato Bangkok →
+**Periodo del viaggio:** più viaggi nel tempo: un giro strutturato Bangkok →
 Hua Hin → Chumphon → Khao Sok → Krabi → Koh Phi Phi → Bangkok, più diverse
 visite a Bangkok, e viaggi separati a Chiang Mai, Phuket e le Similan
 **Durata:** 11 giorni per il giro principale, più le tappe extra
@@ -115,7 +115,7 @@ Chi ha il volo la sera può fare la mattina i templi, partendo presto dal **Gran
 **In pratica:** check-out con deposito bagagli in hotel · templi con spalle e ginocchia coperte · Chatuchak solo nel fine settimana · Airport Rail Link per Suvarnabhumi, Grab o taxi per Don Mueang · partire per l'aeroporto almeno tre ore prima.
 
 ## Bangkok: i rooftop bar
-Bangkok è probabilmente la capitale mondiale dei rooftop bar: vale la pena
+Bangkok è probabilmente la capitale mondiale dei rooftop bar, e conviene
 sceglierne almeno un paio per sere diverse:
 - **Vertigo & Moon Bar** (Banyan Tree): uno dei più iconici, aperto,
   spettacolare al tramonto.
@@ -165,8 +165,8 @@ questo, **se è la prima volta in Thailandia e c'è tempo, vale comunque la
 pena farlo**: sono scorci curiosi e fotogenici, il
 treno che passa a un palmo dalle merci diverte sul serio, e in mezza
 giornata si toglie la curiosità senza sacrificare troppo tempo al resto
-dell'itinerario. Chi invece cerca un'esperienza più autentica di mercato
-thailandese farebbe meglio a puntare su un mercato locale di quartiere a
+dell'itinerario. Chi invece vuole un mercato thailandese frequentato dalla
+gente del posto farebbe meglio a puntare su un mercato locale di quartiere a
 Bangkok stessa (es. Khlong Toei) o sui mercati serali di Chiang Mai.
 
 ## Ayutthaya, la gita fuori porta
@@ -221,7 +221,7 @@ con un ristorante:
   uffici, street food genuino a pranzo.
 
 ## Bangkok: vita notturna
-Bangkok di notte ha facce molto diverse tra loro: vale la pena sapere cosa
+Bangkok di notte ha facce molto diverse tra loro, ed è meglio sapere cosa
 aspettarsi da ciascuna prima di scegliere dove andare:
 - **Khao San Road**: il quartier generale storico dei backpacker: bar a
   cielo aperto, musica ovunque, street food, venditori di tutto. Caotica,
@@ -293,7 +293,7 @@ e quando:
 | **Mare delle Andamane** (ovest) | Phuket, Krabi, Koh Phi Phi, Similan, Khao Lak | Novembre-aprile | Maggio-ottobre (monsone di sud-ovest) |
 | **Golfo di Thailandia** (est) | Koh Samui, Koh Phangan, Koh Tao | Gennaio-aprile e luglio-settembre | Ottobre-dicembre (monsone di nord-est) |
 
-In pratica: **quando piove sulle Andamane, il Golfo spesso è al sole, e
+**Quando piove sulle Andamane, il Golfo spesso è al sole, e
 viceversa**. Se si viaggia in piena estate europea (luglio-agosto), le
 isole del Golfo (Samui, Phangan, Tao) restano una scommessa più sicura;
 se si viaggia tra dicembre e marzo, si può scegliere liberamente perché
@@ -305,7 +305,7 @@ stagione turistica su tutte le isole.
   (Patong per la vita notturna, Kata/Karon per un mix più tranquillo) e
   un buon aeroporto internazionale: la base più comoda da cui partire per
   le gite in barca verso Phi Phi, le Similan o le isole minori.
-- **Krabi**: più autentica di Phuket, punto di partenza per Railay Beach,
+- **Krabi**: meno turistica di Phuket, punto di partenza per Railay Beach,
   Bond Island e i tour in canoa nella baia di Phang Nga (vedi Giorno 7
   dell'itinerario sopra).
 - **Koh Phi Phi**: l'isola più fotografata di questa costa, resa
@@ -363,7 +363,7 @@ diventata negli anni una delle feste in spiaggia più grandi al mondo: tra
 - **Come arrivare:** se si alloggia altrove sull'isola, i songthaew (taxi
   condivisi) collegano tutta Koh Phangan con Haad Rin per tutta la notte; se
   si viene da Koh Samui, l'ultimo traghetto utile parte nel tardo
-  pomeriggio e il primo del mattino dopo è verso le 6:00: in pratica,
+  pomeriggio e il primo del mattino dopo è verso le 6:00, quindi
   **conviene dormire a Koh Phangan la notte del party**, non fare
   avanti-indietro in giornata da Samui.
 - **Quando andare:** le date sono pubblicate con un anno di anticipo sul

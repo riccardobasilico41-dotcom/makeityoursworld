@@ -60,7 +60,7 @@ A transfer day. The train from Yogyakarta to **Surabaya Gubeng** takes 4-5 hours
 **In practice:** book trains a few days ahead during holidays · Probolinggo-Cemoro Lawang minivan about 1 hour 30 minutes · few places to stay in Cemoro Lawang and prices above average: book ahead · Bromo park entry paid separately (see next day).
 
 ### Day 5 — Sunrise at Bromo and on to Ijen
-You set off around 3 a.m. in a **4x4 jeep** for the Penanjakan viewpoint. A shared jeep costs about 700,000-900,000 IDR **per vehicle**, to be split among 4-6 people. Anyone asking double at dawn is simply taking advantage of the rush. Sunrise with Bromo smoking and Semeru behind it is spectacular. It's also crowded: hundreds of jeeps and rows of raised phones. It's still worth it. Then you go down into the **Sea of Sand** and walk up to the crater rim. Bring heavy layers, because it really is cold at altitude at night.
+You set off around 3 a.m. in a **4x4 jeep** for the Penanjakan viewpoint. A shared jeep costs about 700,000-900,000 IDR **per vehicle**, to be split among 4-6 people. Anyone asking double at dawn is simply taking advantage of the rush. Sunrise with Bromo smoking and Semeru behind it is spectacular. It's also crowded: hundreds of jeeps and rows of raised phones. It's still worth it. Then you go down into the **Sea of Sand** and walk up to the crater rim. Bring heavy layers, because at altitude it gets very cold at night.
 
 The last stretch to the crater is a staircase of about 250 steps, often covered in sand; from the bottom you can ride up on horseback, but agree the price first. You're back in Cemoro Lawang for breakfast around 8-9. If you still have energy, make a detour to the **Madakaripura** waterfall, about 45 minutes by car: you walk along the river and get wet, so bring sandals and a pouch for your phone. In the afternoon you head toward **Banyuwangi** or **Licin**, the bases for Ijen. The simplest transfer is a private car, booked in Cemoro Lawang.
 
@@ -145,7 +145,7 @@ If your flight leaves early, it's better to spend the last night near the airpor
 - **The Bromo jeep is paid per vehicle**, roughly 700,000-900,000 IDR, to be split.
 - **Bring warm clothes** for Bromo and Ijen: it's cold at altitude at night.
 - **Gas mask at Ijen**, no exceptions.
-- **Scooter only if you can really ride:** otherwise a driver by the day, Grab or Gojek.
+- **Scooter only if you already ride well:** otherwise a driver by the day, Grab or Gojek.
 - **Skip generic southern Bali**, around Seminyak: Uluwatu has the same coast with more character.
 - **Leave a buffer on the last day:** when the sea is rough, boats from the Gilis run late.
 - **Complete the e-VOA and the All Indonesia Arrival Card** before departure, on the official portals.

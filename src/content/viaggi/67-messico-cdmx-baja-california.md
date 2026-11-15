@@ -152,7 +152,7 @@ Chi ha energia va a **Cabo Pulmo**, circa due ore a nord-est (gli ultimi chilome
 ### Giorno 16 — Rientro da San José del Cabo
 Abbiamo restituito l'auto all'aeroporto di **San José del Cabo**, da cui si vola a Città del Messico, con coincidenza per l'Europa, oppure via Stati Uniti. Meglio lasciare un margine ampio: tra controllo dell'auto, check-in e una coincidenza a Città del Messico, conviene tenere almeno quattro ore tra i voli. All'aeroporto di San José ci sono diversi terminal: conviene controllare prima da quale parte il volo.
 
-Chi ha la mattina libera può fare un ultimo bagno o una colazione sul mare a San José, che ha spiagge davanti alla zona degli hotel. *All'uscita dell'aeroporto e nella zona arrivi ci sono venditori di multiproprietà che offrono regali o escursioni: vale la pena ignorarli.* Per la riconsegna dell'auto si fotografa di nuovo la carrozzeria e si conserva la ricevuta; il pieno va fatto prima di arrivare, perché vicino all'aeroporto i distributori sono pochi.
+Chi ha la mattina libera può fare un ultimo bagno o una colazione sul mare a San José, che ha spiagge davanti alla zona degli hotel. *All'uscita dell'aeroporto e nella zona arrivi ci sono venditori di multiproprietà che offrono regali o escursioni: meglio ignorarli.* Per la riconsegna dell'auto si fotografa di nuovo la carrozzeria e si conserva la ricevuta; il pieno va fatto prima di arrivare, perché vicino all'aeroporto i distributori sono pochi.
 
 **In pratica:** dal centro di San José all'aeroporto circa 20 minuti · riconsegna auto con almeno mezz'ora di margine · almeno quattro ore tra i voli con coincidenza a Città del Messico · in aeroporto due-tre ore prima per i voli internazionali.
 

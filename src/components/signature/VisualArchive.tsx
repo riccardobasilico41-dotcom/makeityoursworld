@@ -37,7 +37,7 @@ export async function VisualArchive({
       <Container className="mb-10">
         {/* la CTA «tutti i viaggi» è subito sotto, nella sezione della Home: qui non si ripete */}
         <div className="flex flex-wrap items-end justify-between gap-4">
-          <h2 className="max-w-xl font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
+          <h2 className="max-w-xl titolo-sezione text-balance text-alpine">
             {t.archivio}
           </h2>
         </div>

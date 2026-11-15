@@ -74,7 +74,7 @@ export default async function AmazzoniaPage() {
           <Ricordo testo={t.ricordo} />
 
           <div className="max-w-3xl">
-            <TitoloSezione icona={Compass}>{t.citta.titolo}</TitoloSezione>
+            <TitoloSezione>{t.citta.titolo}</TitoloSezione>
             {t.citta.paragrafi.map((p) => (
               <p key={p} className="mt-4 text-lg leading-relaxed text-stone">
                 {p}
@@ -83,7 +83,7 @@ export default async function AmazzoniaPage() {
           </div>
 
           <div>
-            <TitoloSezione icona={ShieldCheck}>{t.sicurezza.titolo}</TitoloSezione>
+            <TitoloSezione>{t.sicurezza.titolo}</TitoloSezione>
             <p className="mt-4 max-w-[70ch] text-lg leading-relaxed text-stone">{t.sicurezza.testo}</p>
             <ul className="mt-6 grid gap-4 md:grid-cols-2">
               {t.sicurezza.agenzie.map((a) => (
@@ -107,7 +107,7 @@ export default async function AmazzoniaPage() {
 
       <section id="porte" aria-labelledby="porte-titolo" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 sezione">
         <Container>
-          <h2 id="porte-titolo" className="font-display text-[clamp(1.9rem,3.2vw,2.8rem)] text-alpine">
+          <h2 id="porte-titolo" className="titolo-sezione text-alpine">
             {t.porte.titolo}
           </h2>
           <p className="mt-3 max-w-[65ch] text-lg leading-relaxed text-stone">{t.porte.intro}</p>
@@ -160,7 +160,7 @@ export default async function AmazzoniaPage() {
 
       <section id="traversata" aria-labelledby="traversata-titolo" className="scroll-mt-24 border-t border-alpine/10 sezione">
         <Container>
-          <h2 id="traversata-titolo" className="flex items-start gap-3 font-display text-[clamp(1.9rem,3.2vw,2.8rem)] text-alpine">
+          <h2 id="traversata-titolo" className="flex items-start gap-3 titolo-sezione text-alpine">
             <Ship size={30} aria-hidden className="mt-2 shrink-0 text-rosso" />
             {t.traversata.titolo}
           </h2>
@@ -214,7 +214,7 @@ export default async function AmazzoniaPage() {
 
       <section id="domande-frequenti" aria-labelledby="faq-amazzonia" className="scroll-mt-24 border-t border-alpine/10 sezione">
         <Container>
-          <h2 id="faq-amazzonia" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
+          <h2 id="faq-amazzonia" className="titolo-sezione text-alpine">
             {e.faqTitolo}
           </h2>
           <div className="mt-8 [&>details+details]:border-t-0">

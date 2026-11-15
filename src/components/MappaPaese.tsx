@@ -1,8 +1,9 @@
 'use client'
 
 import Link from '@/components/ui/Link'
-import { useCallback, useEffect, useMemo, useRef, useState, type KeyboardEvent } from 'react'
+import { useCallback, useEffect, useId, useMemo, useRef, useState, type KeyboardEvent } from 'react'
 import { ArrowRight } from 'lucide-react'
+import { useGeometriaMappa } from './useGeometriaMappa'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import type { Lingua } from '@/lib/i18n/config'
 
@@ -116,10 +117,25 @@ const DISTANZA_RIGA = 14 // larghezza del tratto: la riga cade a metà, ~7 px da
  * pin che restano della stessa misura sullo schermo a ogni zoom, zoom animato sul
  * punto scelto, pannello con i dettagli, filtri. Rispetta prefers-reduced-motion.
  */
-export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; mappa: DatiMappa; punti: PuntoMappa[] }) {
+export function MappaPaese({
+  nomePaese,
+  mappa,
+  punti,
+  geometria,
+}: {
+  nomePaese: string
+  mappa: DatiMappa
+  punti: PuntoMappa[]
+  /** indirizzo dei contorni (/geometria-mappa/<paese>), scaricati quando la mappa si avvicina: `mappa.path` arriva vuoto */
+  geometria?: string
+}) {
   const lingua = useLingua()
   const t = T[lingua]
   const svgRef = useRef<SVGSVGElement>(null)
+  const boxGeo = useRef<HTMLDivElement>(null)
+  const contornoPaese = useGeometriaMappa(geometria, boxGeo)?.path ?? mappa.path
+  // id del contorno, disegnato una volta e richiamato con <use> (prima era ripetuto 4 volte nell'HTML)
+  const contorno = `${useId().replace(/:/g, '')}-contorno`
   const vbRef = useRef<VB>([0, 0, mappa.w, mappa.h])
   const rafRef = useRef(0)
   const [filtro, setFiltro] = useState<Filtro>('tutto')
@@ -304,7 +320,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
 
       <div className="mt-6 grid items-start gap-6 lg:grid-cols-[7fr_5fr] lg:gap-10">
         <div>
-          <div className="relative overflow-hidden border-2 border-ink" style={{ touchAction: 'pan-y', backgroundColor: FONDO }}>
+          <div ref={boxGeo} className="relative overflow-hidden border-2 border-ink" style={{ touchAction: 'pan-y', backgroundColor: FONDO }}>
             <svg
               ref={svgRef}
               viewBox={mappa.viewBox}
@@ -316,14 +332,18 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
               {mappa.graticola && (
                 <path d={mappa.graticola} fill="none" stroke={GRIGLIA} strokeWidth={1} strokeDasharray="2 5" vectorEffect="non-scaling-stroke" />
               )}
+              <defs>
+                {/* il vector-effect sta qui: non si eredita da <use>, tratto e riempimento sì */}
+                <path id={contorno} d={contornoPaese} vectorEffect="non-scaling-stroke" />
+              </defs>
               {/* riga di contorno: tratto largo coperto da uno un po' più stretto color fondo */}
               <g fill="none" strokeLinejoin="round">
-                <path d={mappa.path} stroke={RIGA} strokeWidth={DISTANZA_RIGA} vectorEffect="non-scaling-stroke" />
-                <path d={mappa.path} stroke={FONDO} strokeWidth={DISTANZA_RIGA - 2.5} vectorEffect="non-scaling-stroke" />
+                <use href={`#${contorno}`} stroke={RIGA} strokeWidth={DISTANZA_RIGA} />
+                <use href={`#${contorno}`} stroke={FONDO} strokeWidth={DISTANZA_RIGA - 2.5} />
               </g>
               {/* due passate: tratto spesso sotto, riempimento sopra → si vede solo la costa, non i confini interni */}
-              <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={2.4} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
-              <path d={mappa.path} fill="var(--color-cream)" />
+              <use href={`#${contorno}`} fill="none" stroke="var(--color-ink)" strokeWidth={2.4} strokeLinejoin="round" />
+              <use href={`#${contorno}`} fill="var(--color-cream)" />
               {ordinati.map((p) => {
                 const on = visibile(p)
                 const isSel = p.id === selId

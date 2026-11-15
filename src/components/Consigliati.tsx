@@ -23,7 +23,7 @@ export function Consigliati({ chiave, lingua }: { chiave: string; lingua: Lingua
   const t = T[lingua]
   return (
     <div>
-      <TitoloSezione icona={HeartHandshake}>{t.titolo}</TitoloSezione>
+      <TitoloSezione>{t.titolo}</TitoloSezione>
       <p className="mt-3 max-w-[70ch] text-sm leading-relaxed text-stone">{t.nota}</p>
       <ul className="mt-6 grid gap-4 md:grid-cols-2">
         {voci.map((v) => {

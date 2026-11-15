@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Of all the capitals of Central Europe, Krakow is the city that suffered least in World War II: while Warsaw was razed almost to the ground and rebuilt from scratch, Krakow's historic center has come down to today almost intact, and that's why in 1978 it ended up among the first twelve sites ever inscribed on the UNESCO list: together, among others, with the Galápagos, Yellowstone and, a few miles from here, the Wieliczka Salt Mine. It walks like a medieval city because it really is one, it's not a reconstruction.
+Of all the capitals of Central Europe, Krakow is the city that suffered least in World War II: while Warsaw was razed almost to the ground and rebuilt from scratch, Krakow's historic center has come down to today almost intact, and that's why in 1978 it ended up among the first twelve sites ever inscribed on the UNESCO list: together, among others, with the Galápagos, Yellowstone and, a few miles from here, the Wieliczka Salt Mine. It looks like a medieval city because it is one: the centre was never rebuilt.
 
 It's also a city on which, inevitably, another history weighs: an hour and a half by bus away is Auschwitz-Birkenau, and any weekend in Krakow that ignores it completely leaves out the reason why, for many, that city and that name remain forever linked. It isn't an obligation, but the most honest choice is to include it, with the space and care it deserves, not as one stop among others.
 

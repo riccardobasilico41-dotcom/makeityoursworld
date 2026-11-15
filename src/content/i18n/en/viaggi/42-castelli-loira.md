@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-The golden rule here is not to see too many: five or six châteaux in six days, chosen by type and not by fame, with a whole day left for the bicycle along the river, which is how this UNESCO landscape should really be crossed.
+The rule here is not to see too many: five or six châteaux in six days, chosen by type and not by fame, with a whole day left for the bicycle along the river, which is the best way to cross this UNESCO landscape.
 
 ## Scheda pratica
 - **When to go:** April-June for the gardens in bloom, September-October for the colors and fewer crowds.

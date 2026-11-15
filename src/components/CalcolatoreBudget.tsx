@@ -72,7 +72,7 @@ export function CalcolatoreBudget({ costi, nomePaese }: { costi: DatiMesiPaese['
   return (
     <section id="quanto-costa" className="scroll-mt-24 border-t border-alpine/10 sezione">
       <div className="mx-auto w-full max-w-6xl px-6 sm:px-8">
-        <h2 className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-ink">{t.titolo(nomePaese)}</h2>
+        <h2 className="titolo-sezione text-ink">{t.titolo(nomePaese)}</h2>
         <p className="mt-3 max-w-2xl text-stone">{t.lead}</p>
         <div className="mt-8 grid gap-8 border-2 border-ink bg-white p-6 sm:p-8 lg:grid-cols-[1fr_1fr]">
           <div className="space-y-6">

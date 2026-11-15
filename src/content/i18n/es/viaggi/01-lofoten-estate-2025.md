@@ -35,7 +35,7 @@ La tarde fue un largo paseo: los jardines del Palacio Real, el paseo marítimo d
 ### Día 2 — Oslo → Bodø → Svolvær
 Salimos antes del amanecer, con el primer Flytoget hacia el aeropuerto, y el vuelo a Bodø aterrizó por la mañana. Recogido el coche, dimos una vuelta a pie entre el centro y el muelle; para una vista desde arriba está Nyholms Fort, a diez minutos. La comida la pedimos para llevar en **Bryggerikaia**, que abre a media mañana y hace bocadillos «megarrellenos», y nos la comimos en el mirador de la ciudad.
 
-Después, tres horas y cuarto de conducción hasta Bognes, con dos paradas que merecen la pena:
+Después, tres horas y cuarto de conducción hasta Bognes, con dos paradas que hacer:
 - **Kate Koisk Husflid**, cafetería con vistas a un lago: solo efectivo (NOK o euros) o app de pago noruega, sin baño.
 - **Mørsvikbotn Handel**, gasolinera con baño gratuito y otro lago pequeño enfrente.
 
@@ -93,7 +93,7 @@ Volvimos con el ferri de primera hora de la tarde, nos concedimos un rato de pla
 - **Festvågtind trail:** más técnico y «salvaje» que el Reinebringen.
 - **Playa de Bunes:** solo se llega en el ferri a Vindstad, una de las más
   bonitas.
-- **Pueblo de Å** + Museo de los Pescadores: las Lofoten «históricas» y auténticas.
+- **Pueblo de Å** + Museo de los Pescadores: las Lofoten «históricas», las de los pescadores.
 - **Henningsvær:** el campo de fútbol más fotografiado de Noruega y un ambiente
   bohemio.
 - **Joya poco turística:** el paseo Nesland–Nusfjord, panorámico y sin las

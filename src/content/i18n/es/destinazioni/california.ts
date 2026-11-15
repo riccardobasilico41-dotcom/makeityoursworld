@@ -280,7 +280,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "¿Hay que reservar Alcatraz?",
-        risposta: "Sí, en la práctica siempre: las entradas se venden en línea solo en Alcatraz City Cruises y en verano y festivos se agotan incluso con un mes de antelación. El tour diurno cuesta 47,95 $ (2026).",
+        risposta: "Sí, casi siempre: las entradas se venden en línea solo en Alcatraz City Cruises y en verano y festivos se agotan incluso con un mes de antelación. El tour diurno cuesta 47,95 $ (2026).",
       },
       {
         domanda: "¿Hace falta coche en San Francisco?",

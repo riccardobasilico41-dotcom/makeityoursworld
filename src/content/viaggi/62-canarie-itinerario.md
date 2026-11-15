@@ -102,7 +102,7 @@ Il **Mirador del Río** sta in cima alla scogliera di Famara, a circa 475 metri,
 - **La Graciosa (+1 giorno):** l'isolotto senza auto a nord di Lanzarote, raggiungibile in traghetto in giornata.
 
 ## Dove abbiamo dormito
-A Tenerife, **Puerto de la Cruz** per la costa nord più verde e autentica o **Costa Adeje/Los Cristianos** per la costa sud, più soleggiata. A Gran Canaria, **Las Palmas** per la vita cittadina o **Maspalomas** per chi punta soprattutto su dune e mare. A Lanzarote, **Arrecife** per i collegamenti o **Playa Blanca/Puerto del Carmen** per il mare, tutte con edifici bassi per via delle regole urbanistiche volute da Manrique.
+A Tenerife, **Puerto de la Cruz** per la costa nord più verde e meno turistica o **Costa Adeje/Los Cristianos** per la costa sud, più soleggiata. A Gran Canaria, **Las Palmas** per la vita cittadina o **Maspalomas** per chi punta soprattutto su dune e mare. A Lanzarote, **Arrecife** per i collegamenti o **Playa Blanca/Puerto del Carmen** per il mare, tutte con edifici bassi per via delle regole urbanistiche volute da Manrique.
 
 ## Dove abbiamo mangiato
 Le **papas arrugadas** con mojo rojo e mojo verde sono il piatto simbolo di tutte e tre le isole; il **gofio**, farina tostata di cereali di origine guanche, compare in mille varianti. A Lanzarote i vini della Geria, in particolare il malvasía volcánico, sono un'esperienza a sé, coltivati in un paesaggio che non ha uguali.

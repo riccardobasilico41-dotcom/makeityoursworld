@@ -62,7 +62,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
               'Es el aeropuerto donde aterriza quien usa el visado de escala de Saudia o flynas',
             ],
             contro: ['Calor y humedad pesados casi todo el año', 'Más lejos del Asir y del este del país', 'Ciudad dispersa, donde uno solo se mueve en coche'],
-            perChi: 'Cualquiera que venga por primera vez o tenga pocos días. Con un visado de escala de cuatro días es en la práctica la única opción sensata.',
+            perChi: 'Cualquiera que venga por primera vez o tenga pocos días. Con un visado de escala de cuatro días es la única opción sensata.',
           },
           {
             nome: 'Entrar por Riad',

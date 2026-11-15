@@ -195,7 +195,7 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         titolo: "Dónde ver orangutanes: Borneo o Sumatra",
         introduzione:
-          "Los orangutanes salvajes viven solo en dos islas del mundo, Borneo y Sumatra, y son dos especies distintas; tres, contando el tapanuli, descrito hace poco y con poquísimos individuos. Es la elección que cambia el viaje más que ninguna otra, porque en los lugares principales probabilidad de avistamiento, costes y autenticidad son completamente diferentes. En general, cuanto más salvaje es el encuentro, menos garantizado está y más cuesta llegar.",
+          "Los orangutanes salvajes viven solo en dos islas del mundo, Borneo y Sumatra, y son dos especies distintas; tres, contando el tapanuli, descrito hace poco y con poquísimos individuos. Es la elección que cambia el viaje más que ninguna otra, porque en los lugares principales probabilidad de avistamiento, costes y libertad de los animales son completamente diferentes. En general, cuanto más salvaje es el encuentro, menos garantizado está y más cuesta llegar.",
         opzioni: [
           {
             nome: "Sepilok (Sabah)",
@@ -230,7 +230,7 @@ export const destinazioniBorneo: Destinazione[] = [
               "La franja de selva es estrecha precisamente porque alrededor está la palma aceitera; es también el motivo por el que los animales se concentran allí, y da que pensar",
               "Mosquitos y calor pesados en las salidas de la tarde",
             ],
-            perChi: "Cualquiera que tenga al menos dos noches: es la opción con el mejor equilibrio entre autenticidad y éxito.",
+            perChi: "Cualquiera que tenga al menos dos noches: es la opción con el mejor equilibrio entre animales en libertad y probabilidad de verlos.",
           },
           {
             nome: "Danum Valley (Sabah)",

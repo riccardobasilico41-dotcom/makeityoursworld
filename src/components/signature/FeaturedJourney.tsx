@@ -64,7 +64,7 @@ export function FeaturedJourney({
 
             <div className="min-w-0">
               <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.inEvidenza}</p>
-              <h2 id="evidenza-titolo" className="mt-3 font-display text-[clamp(1.8rem,3vw,2.6rem)] leading-tight text-balance text-alpine">
+              <h2 id="evidenza-titolo" className="mt-3 titolo-sezione text-balance text-alpine">
                 {titolo}
               </h2>
               {(durata || periodo) && (

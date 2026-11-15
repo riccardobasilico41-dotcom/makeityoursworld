@@ -76,7 +76,7 @@ Pai is a town in a green valley that over the years has become a backpacker dest
 **In practice:** Chiang Mai-Pai minivan to book a day ahead, a few hundred baht · about 130 km of bends · the evening market opens around sunset · to sleep, guesthouses in the centre or bungalows just outside, quieter but you need transport.
 
 ### Day 8 — Pai: canyon, countryside and hot springs
-A day around town. **Pai Canyon** at sunset, with paths along ridges of red earth: they have no railings and are narrow, so no acrobatics for photos. The valley has waterfalls, rice fields and hot springs. Many people rent a scooter here. If you do, you need the right licence, a fastened helmet and insurance that actually covers you. If you're not confident, take a songthaew or a driver for the day.
+A day around town. **Pai Canyon** at sunset, with paths along ridges of red earth: they have no railings and are narrow, so no acrobatics for photos. The valley has waterfalls, rice fields and hot springs. Many people rent a scooter here. If you do, you need the right licence, a fastened helmet and insurance that also covers the scooter. If you're not confident, take a songthaew or a driver for the day.
 
 The easiest order is to leave the canyon for last. In the morning the **hot springs**, nicer in the cool of the early hours, then **Mo Paeng** waterfall, the rice fields and the Second World War memorial bridge on the road to Chiang Mai. In the afternoon, if you don't mind bends, you can drive up to the **Yun Lai** viewpoint, famous at dawn for the sea of clouds over the valley. *Get to the canyon at least an hour before sunset, and bring a torch for the walk back to the car park.*
 
@@ -166,7 +166,7 @@ The Gulf of Thailand, with Koh Samui, Koh Phangan and Koh Tao, has different sea
 - **Dress for the temples**: shoulders and knees covered, always.
 - **Go to the White Temple late**, once the tours have left.
 - **At the Golden Triangle, the museum before the viewpoint.** And you look at the border from the Thai bank.
-- **Bring a sweater.** On Doi Inthanon and in Pai, early in the morning, it gets properly cold.
+- **Bring a sweater.** On Doi Inthanon and in Pai it gets very cold early in the morning.
 
 ## Chiusura personale
 What stayed with me from Chiang Mai is the pace, slower than the rest of the country, and the morning with the elephants at Elephant Nature Park, without ever riding them: one of my best memories of Thailand.

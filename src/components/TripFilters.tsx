@@ -59,7 +59,7 @@ const T = {
     nessunoTesto: 'Togli uno dei filtri o azzerali tutti per tornare al catalogo completo.',
     togli: (filtro: string, n: number) => `Togli ${filtro}: ${n} ${n === 1 ? 'viaggio' : 'viaggi'}`,
     altrove: 'Altrove',
-    mostraAltri: (n: number, resto: number) => (n === resto ? `Mostra altri ${n}` : `Mostra altri ${n} (ne restano ${resto})`),
+    mostraAltri: (n: number, _resto: number) => `Mostra altri ${n}`,
     mostraAltriAria: (n: number, gruppo: string) => `Mostra altri ${n} viaggi: ${gruppo}`,
     fasce: { weekend: 'Weekend (1-3 giorni)', '4-7': '4-7 giorni', '8-14': '8-14 giorni', '15+': '15 giorni e più' } as Record<string, string>,
   },
@@ -93,7 +93,7 @@ const T = {
     nessunoTesto: 'Remove one of the filters, or clear them all to get back to the full catalog.',
     togli: (filtro: string, n: number) => `Remove ${filtro}: ${n} ${n === 1 ? 'trip' : 'trips'}`,
     altrove: 'Elsewhere',
-    mostraAltri: (n: number, resto: number) => (n === resto ? `Show ${n} more` : `Show ${n} more (${resto} left)`),
+    mostraAltri: (n: number, _resto: number) => `Show ${n} more`,
     mostraAltriAria: (n: number, gruppo: string) => `Show ${n} more trips: ${gruppo}`,
     fasce: { weekend: 'Weekend (1-3 days)', '4-7': '4-7 days', '8-14': '8-14 days', '15+': '15+ days' } as Record<string, string>,
   },
@@ -127,7 +127,7 @@ const T = {
     nessunoTesto: 'Quita uno de los filtros o bórralos todos para volver al catálogo completo.',
     togli: (filtro: string, n: number) => `Quitar ${filtro}: ${n} ${n === 1 ? 'viaje' : 'viajes'}`,
     altrove: 'En otros lugares',
-    mostraAltri: (n: number, resto: number) => (n === resto ? `Mostrar ${n} más` : `Mostrar ${n} más (quedan ${resto})`),
+    mostraAltri: (n: number, _resto: number) => `Mostrar ${n} más`,
     mostraAltriAria: (n: number, gruppo: string) => `Mostrar ${n} viajes más: ${gruppo}`,
     fasce: { weekend: 'Fin de semana (1-3 días)', '4-7': '4-7 días', '8-14': '8-14 días', '15+': '15 días o más' } as Record<string, string>,
   },
@@ -328,8 +328,12 @@ function Catalogo({
           {/* niente animazione d'ingresso: le card restavano invisibili (opacity 0) finché non
               arrivava il JavaScript di motion, e la prima foto (l'LCP del telefono) compariva dopo 4-5 s */}
           <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {items.slice(0, quanti).map((viaggio, i) => (
-              <TripCard key={viaggio.slug} viaggio={viaggio} subito={primo && i === 0} confronto />
+            {/* tutte le card sono nell'HTML (link che i motori seguono), quelle oltre il passo restano
+                nascoste finché non si preme «Mostra altri»: con display:none le foto lazy non si scaricano */}
+            {items.map((viaggio, i) => (
+              <div key={viaggio.slug} className={i < quanti ? 'contents' : 'hidden'}>
+                <TripCard viaggio={viaggio} subito={primo && i === 0} confronto />
+              </div>
             ))}
           </div>
         </div>

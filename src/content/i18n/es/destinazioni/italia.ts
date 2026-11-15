@@ -1473,7 +1473,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Pedir una «bistecca fiorentina» muy hecha o de menos de doscientos cincuenta gramos: no existe, y quien la sirve así está sirviendo otra cosa",
     ],
     miaEsperienza:
-      "Florencia tiene un problema de escala que las guías no cuentan: todo lo que se viene a ver está en medio kilómetro cuadrado, y de abril a octubre el centro es una multitud compacta que se mueve despacio a lo largo de tres ejes. En la práctica la ciudad hay que hacerla al revés: temprano por la mañana, o en noviembre. La subida a la cúpula reservada en la primera franja, a las ocho y media, es otra experiencia que hacerla a mediodía: se sube por una escalera estrecha entre las dos cáscaras, se pasa a pocos centímetros de los frescos del Juicio, y arriba hay aire. Casi nadie, en cambio, va al Museo dell'Opera del Duomo, que vale lo que los Uffizi: dentro están las puertas originales del Baptisterio (las de la plaza son copias) y la última Piedad de Miguel Ángel, la que quería destruir. Hay cuatro personas. Para el atardecer, todos van al Piazzale Michelangelo, que es un aparcamiento con vendedores; cien metros más arriba está San Miniato al Monte, una iglesia románica del año mil con la fachada de incrustaciones de mármol, la misma vista y, por la tarde, los monjes que cantan en gregoriano en la cripta.",
+      "Florencia tiene un problema de escala que las guías no cuentan: todo lo que se viene a ver está en medio kilómetro cuadrado, y de abril a octubre el centro es una multitud compacta que se mueve despacio a lo largo de tres ejes. Por eso la ciudad hay que hacerla al revés: temprano por la mañana, o en noviembre. La subida a la cúpula reservada en la primera franja, a las ocho y media, es otra experiencia que hacerla a mediodía: se sube por una escalera estrecha entre las dos cáscaras, se pasa a pocos centímetros de los frescos del Juicio, y arriba hay aire. Casi nadie, en cambio, va al Museo dell'Opera del Duomo, que vale lo que los Uffizi: dentro están las puertas originales del Baptisterio (las de la plaza son copias) y la última Piedad de Miguel Ángel, la que quería destruir. Hay cuatro personas. Para el atardecer, todos van al Piazzale Michelangelo, que es un aparcamiento con vendedores; cien metros más arriba está San Miniato al Monte, una iglesia románica del año mil con la fachada de incrustaciones de mármol, la misma vista y, por la tarde, los monjes que cantan en gregoriano en la cripta.",
     luoghi: [
       {
         "nome": "Duomo y cúpula de Brunelleschi",
@@ -1547,7 +1547,7 @@ export const destinazioniItalia: Destinazione[] = [
         "lat": 43.768,
         "lng": 11.244,
         "url": "https://museicivicifiorentini.comune.fi.it/",
-        "consiglio": "Está menos concurrida que los grandes museos y es igual de importante. Antes de entrar merece la pena leer dos líneas sobre Masaccio: la visita resulta mucho más interesante."
+        "consiglio": "Está menos concurrida que los grandes museos y es igual de importante. Antes de entrar conviene leer dos líneas sobre Masaccio: la visita resulta mucho más interesante."
       },
       {
         "nome": "San Miniato al Monte",
@@ -2134,7 +2134,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "domanda": "¿Mejor dormir en Venecia o en Mestre?",
-        "risposta": "Mestre cuesta aproximadamente la mitad y está a diez minutos en tren, pero se pierde la ciudad de noche y a primera hora. Para una o dos noches vale la pena gastar más y quedarse en Cannaregio o Castello."
+        "risposta": "Mestre cuesta aproximadamente la mitad y está a diez minutos en tren, pero se pierde la ciudad de noche y a primera hora. Para una o dos noches conviene gastar más y quedarse en Cannaregio o Castello."
       },
       {
         "domanda": "¿Qué pasa con el acqua alta?",
@@ -2256,7 +2256,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Herculano",
-        "testo": "Una ciudad más pequeña que Pompeya, sepultada por el barro y no por la ceniza: se conservaron pisos superiores, vigas de madera carbonizada, puertas y camas. Se ve cómo se vivía de verdad.",
+        "testo": "Una ciudad más pequeña que Pompeya, sepultada por el barro y no por la ceniza: se conservaron pisos superiores, vigas de madera carbonizada, puertas y camas. Se ve cómo se vivía dentro de casa.",
         "come": "Circumvesuviana línea Nápoles-Sorrento hasta Ercolano Scavi, desde Napoli Garibaldi, y luego un tramo a pie cuesta abajo.",
         "quando": "Por la mañana, en verano. El yacimiento cierra en las fiestas principales: consultar el calendario del sitio oficial.",
         "tempo": "2 horas",
@@ -2444,7 +2444,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Sorrento y la Costa Amalfitana",
         "distanza": "1h10 en Circumvesuviana hasta Sorrento",
         "come": "Circumvesuviana hasta Sorrento y autobús SITA a Positano y Amalfi; desde primavera también ferris directos desde Nápoles.",
-        "testo": "En un día se llega a Sorrento y a una de las dos joyas de la Costa. Para verla de verdad hacen falta al menos dos noches allí."
+        "testo": "En un día se llega a Sorrento y a una de las dos joyas de la Costa. Para verla bien hacen falta al menos dos noches allí."
       }
     ],
     sapori: [
@@ -2900,7 +2900,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Hacer Agrigento a mediodía en verano: el Valle de los Templos no tiene sombra y se superan los 40 grados",
       "Ir en agosto sin saber que es el peor mes en todos los aspectos",
       "Saltarse el interior (Enna, Piazza Armerina, las Madonie) para quedarse solo en la costa: es donde Sicilia es más ella misma y menos turística",
-      "Tomar la granita con nata montada pensando que es la versión auténtica: la granita siciliana se hace con agua, azúcar y la fruta, y se acompaña con la brioche col tuppo",
+      "Tomar la granita con nata montada pensando que es la versión tradicional: la granita siciliana se hace con agua, azúcar y la fruta, y se acompaña con la brioche col tuppo",
       "Fiarse de los tiempos de recorrido estimados: en las estatales interiores hay que aumentarlos un tercio",
     ],
     confronti: [
@@ -3784,7 +3784,7 @@ export const destinazioniItalia: Destinazione[] = [
             pro: [
               "Accesibilidad: se llega en menos de una hora desde Nápoles, incluso en el día",
               "Ischia tiene termas naturales, con manantiales ya aprovechados por los griegos",
-              "Procida ha seguido siendo un pueblo de pescadores y es la más auténtica de las tres",
+              "Procida ha seguido siendo un pueblo de pescadores y es la menos turística de las tres",
               "Capri fuera de temporada, sin los visitantes de un día, es otra isla",
             ],
             contro: [
@@ -5638,7 +5638,7 @@ export const destinazioniItalia: Destinazione[] = [
       "La vuelta a la isla en barca, que en Capri es la única manera de ver las grutas y los Faraglioni de cerca",
     ],
     doveDormire:
-      "Capri es carísima en temporada alta; Anacapri cuesta bastante menos y es más tranquila. Ischia tiene la oferta más amplia y más económica de las tres, con los hoteles termales. Procida es la más accesible y la más auténtica. **Muchos hacen base en Nápoles o en Sorrento y van en el día**: es la elección más económica, pero la peor para Capri.",
+      "Capri es carísima en temporada alta; Anacapri cuesta bastante menos y es más tranquila. Ischia tiene la oferta más amplia y más económica de las tres, con los hoteles termales. Procida es la más accesible y la menos turística. **Muchos hacen base en Nápoles o en Sorrento y van en el día**: es la elección más económica, pero la peor para Capri.",
     doveMangiare:
       "En Capri nacieron la ensalada caprese y la torta caprese, con almendras y sin harina. En Ischia el plato que hay que buscar es el **coniglio all'ischitana**, un plato de tierra en una isla: los conejos se criaban en fosos excavados en la toba, y la cocina isleña es más campesina que marinera. En Procida se come pescado y se compra el limón local, enorme, que se usa en ensalada. **En las plazuelas principales se paga la posición**: dos callejuelas más allá se come mejor y se gasta la mitad.",
     comeArrivare:

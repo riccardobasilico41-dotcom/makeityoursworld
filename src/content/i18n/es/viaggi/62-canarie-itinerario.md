@@ -102,7 +102,7 @@ El **Mirador del Río** está en lo alto del risco de Famara, a unos 475 metros,
 - **La Graciosa (+1 día):** el islote sin coches al norte de Lanzarote, al que se llega en ferri en el día.
 
 ## Dove abbiamo dormito
-En Tenerife, **Puerto de la Cruz** para la costa norte más verde y auténtica o **Costa Adeje/Los Cristianos** para la costa sur, más soleada. En Gran Canaria, **Las Palmas** para la vida urbana o **Maspalomas** para quien apunta sobre todo a dunas y mar. En Lanzarote, **Arrecife** por las conexiones o **Playa Blanca/Puerto del Carmen** por el mar, todas con edificios bajos por las normas urbanísticas que quiso Manrique.
+En Tenerife, **Puerto de la Cruz** para la costa norte más verde y menos turística o **Costa Adeje/Los Cristianos** para la costa sur, más soleada. En Gran Canaria, **Las Palmas** para la vida urbana o **Maspalomas** para quien apunta sobre todo a dunas y mar. En Lanzarote, **Arrecife** por las conexiones o **Playa Blanca/Puerto del Carmen** por el mar, todas con edificios bajos por las normas urbanísticas que quiso Manrique.
 
 ## Dove abbiamo mangiato
 Las **papas arrugadas** con mojo rojo y mojo verde son el plato símbolo de las tres islas; el **gofio**, harina tostada de cereales de origen guanche, aparece en mil variantes. En Lanzarote los vinos de La Geria, en particular la malvasía volcánica, son una experiencia aparte, cultivados en un paisaje sin igual.

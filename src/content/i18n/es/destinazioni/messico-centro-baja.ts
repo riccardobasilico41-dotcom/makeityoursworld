@@ -448,7 +448,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         costo: "150 MXN de lunes a viernes, 200 MXN los sábados, unos 8-10 € (2026)",
         orari: "Visitas de lunes a viernes de 10 a 15 h; sábados según disponibilidad",
         url: "https://www.uriartetalavera.com.mx/visita-uriarte",
-        consiglio: "La talavera auténtica lleva el sello de denominación de origen: la que se vende por pocos pesos en los puestos casi siempre es industrial.",
+        consiglio: "La talavera genuina lleva el sello de denominación de origen: la que se vende por pocos pesos en los puestos casi siempre es industrial.",
       },
       {
         nome: "Fuertes de Loreto y Guadalupe",
@@ -814,7 +814,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       },
       {
         "nome": "Central de Abastos",
-        "testo": "El mercado mayorista de la ciudad, enorme y caótico, adonde llegan los productores de los pueblos de alrededor. Es el lugar más auténtico para ver qué se come en Oaxaca, de los chiles secos a las tortillas hechas a mano.",
+        "testo": "El mercado mayorista de la ciudad, enorme y caótico, adonde llegan los productores de los pueblos de alrededor. Es el lugar para ver qué se come a diario en Oaxaca, de los chiles secos a las tortillas hechas a mano.",
         "come": "Taxi o a pie desde el centro, unos 20 minutos al suroeste.",
         "quando": "Por la mañana.",
         "tempo": "1-2 horas",

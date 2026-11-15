@@ -39,6 +39,7 @@ const T = {
     itinerarioCompleto: 'Itinerario completo, giorno per giorno — con quello che rifarei e quello che cambierei.',
     durata: 'Durata',
     altriViaggi: 'Gli altri viaggi nel Paese',
+    ancheViaggi: 'Anche questi itinerari passano dal Paese',
     altriViaggiDesc: (nome: string) => `Altri itinerari giorno per giorno che passano da ${nome}.`,
     trasporti: 'Trasporti',
     stile: 'Stile',
@@ -76,6 +77,7 @@ const T = {
     itinerarioCompleto: "The full itinerary, day by day, including what I'd do again and what I'd change.",
     durata: 'Length',
     altriViaggi: 'More trips in the country',
+    ancheViaggi: 'These itineraries also pass through the country',
     altriViaggiDesc: (nome: string) => `Other day-by-day itineraries that pass through ${nome}.`,
     trasporti: 'Transport',
     stile: 'Style',
@@ -113,6 +115,7 @@ const T = {
     itinerarioCompleto: 'El itinerario completo, día a día, con lo que repetiría y lo que cambiaría.',
     durata: 'Duración',
     altriViaggi: 'Otros viajes en el país',
+    ancheViaggi: 'Estos itinerarios también pasan por el país',
     altriViaggiDesc: (nome: string) => `Otros itinerarios día a día que pasan por ${nome}.`,
     trasporti: 'Transporte',
     stile: 'Estilo',
@@ -192,8 +195,10 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
   const viaggiPaese = getAllViaggi(lingua).filter((v) => paesiDelViaggio(v.slug).includes(paeseSlug))
   const nViaggiPaese = viaggiPaese.length
   const copertineViaggi = copertine(lingua)
-  const altriViaggi = viaggiPaese
-    .filter((v) => v.slug !== tripPrincipale?.slug)
+  const nonPrincipali = viaggiPaese.filter((v) => v.slug !== tripPrincipale?.slug)
+  // oltre le tre card, gli altri viaggi del Paese in un elenco di link: ognuno raggiungibile senza JavaScript
+  const restoViaggi = nonPrincipali.slice(3).map((v) => ({ slug: v.slug, titolo: v.titolo }))
+  const altriViaggi = nonPrincipali
     .slice(0, 3)
     .map((v) => ({ ...riduciPerScheda(v), copertina: copertineViaggi[v.slug], luogo: datiFiltroViaggio(v, lingua).luogo }))
   const areaSlug = areaDelPaese(paeseSlug)
@@ -248,7 +253,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
               description={t.itinerarioCompleto}
             />
             <Reveal>
-              <div className="mt-8 grid gap-10 rounded-none border border-alpine/10 bg-cream-dark/40 p-6 sm:p-10 lg:grid-cols-[1.4fr_1fr]">
+              <div className="scheda mt-8 grid gap-10 bg-white p-6 sm:p-10 lg:grid-cols-[1.4fr_1fr]">
                 <div>
                   {tripPrincipale.apertura ? (
                     <p className="font-display text-xl italic leading-relaxed text-alpine">
@@ -312,7 +317,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
             {/* gli altri viaggi del Paese, se ce ne sono: card come nell'archivio, poi il filtro completo */}
             {altriViaggi.length > 0 && (
               <div className="mt-14">
-                <h3 className="font-display text-[clamp(1.4rem,2.4vw,2rem)] text-alpine">{t.altriViaggi}</h3>
+                <h3 className="titolo-scheda text-alpine">{t.altriViaggi}</h3>
                 <p className="mt-2 max-w-2xl text-sm leading-relaxed text-stone">{t.altriViaggiDesc(paese.nome)}</p>
                 <ul className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
                   {altriViaggi.map((v) => (
@@ -321,6 +326,20 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                     </li>
                   ))}
                 </ul>
+                {restoViaggi.length > 0 && (
+                  <div className="mt-6">
+                    <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.ancheViaggi}</p>
+                    <ul className="mt-2 flex flex-wrap gap-x-5 gap-y-1 text-sm">
+                      {restoViaggi.map((v) => (
+                        <li key={v.slug}>
+                          <Link href={`/viaggi/${v.slug}`} className="text-alpine underline decoration-alpine/30 underline-offset-4 hover:decoration-alpine">
+                            {v.titolo}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
               </div>
             )}
             {nViaggiPaese >= 2 && (

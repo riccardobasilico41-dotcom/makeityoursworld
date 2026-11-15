@@ -12,7 +12,7 @@ export const destinazioniEstonia: Destinazione[] = [
     introduzione:
       "Estonia's capital is the northernmost of the three Baltic capitals and looks out on the Gulf of Finland. The Old Town, a UNESCO site since 1997, is one of the best-preserved medieval centers in northern Europe: up top is Toompea, the fortified hill where power sat, below is the city of the Hanseatic merchants. Outside the walls, the baroque Kadriorg park and the former industrial complex of Telliskivi tell of two different Estonias, the tsarist one and the newer, digital and creative one.",
     percheAndarci:
-      "The old center is the real thing: walls, towers and the square with the Gothic town hall have come down to us almost intact. And just outside those walls Tallinn changes face, with a Russian imperial park on one side and a creative district born in a Soviet factory on the other.",
+      "The old center has stayed as it was: walls, towers and the square with the Gothic town hall have come down to us almost intact. And just outside those walls Tallinn changes face, with a Russian imperial park on one side and a creative district born in a Soviet factory on the other.",
     cosaVedere: [
       "Town Hall Square (Raekoja plats), with Tallinn Town Hall, from 1404, still in use",
       "Toompea hill, with Toompea Castle (now the seat of the Estonian parliament, the Riigikogu) and the Alexander Nevsky Orthodox Cathedral, with its golden onion domes",

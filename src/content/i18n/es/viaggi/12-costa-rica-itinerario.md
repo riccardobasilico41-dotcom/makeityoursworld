@@ -145,7 +145,7 @@ El vuelo hay que calcularlo con el tráfico de San José: del centro al aeropuer
 
 ## Qué ver / qué hacer
 - **El trayecto en barco hasta Tortuguero**, entre canales de selva, cocodrilos y aves: uno de los traslados más bonitos del viaje, más que una simple parada de paso.
-- **Las aguas termales gratuitas de El Choyin**, en Arenal: mucho más auténticas (y gratuitas) que los baños «de postal» de pago.
+- **Las aguas termales gratuitas de El Choyin**, en Arenal: mucho menos turísticas (y gratuitas) que los baños «de postal» de pago.
 - **El Parque Nacional Manuel Antonio**, con algunas de las playas más bellas del país y una probabilidad altísima de ver perezosos y monos. Bonito, pero abarrotado: casi parece un zoo.
 - **Tortuguero**, que se parece mucho a la Amazonia.
 - **El canyoning en La Fortuna y la tirolina gigante de Monteverde**, las dos actividades con más adrenalina del viaje.

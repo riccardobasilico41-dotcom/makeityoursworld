@@ -141,7 +141,7 @@ In serata, **Coco Bongo**: uno di quei locali da fare almeno una volta, e un mod
 - **La bioluminescenza a Punta Mosquito**, Holbox: un fenomeno naturale che vale la serata, zanzare comprese.
 - **Lo squalo balena a Holbox**: il momento clou di tutto il viaggio, da non perdere per nessun motivo.
 - **Chicca poco turistica:** oltre al pig beach, per chi ha qualche giorno in più sulla Riviera Maya restano ottime aggiunte una sosta a **Cozumel** (raggiungibile in giornata da Playa del Carmen, seconda barriera corallina più grande al mondo) o ad **Akumal**, per lo snorkeling guidato con le tartarughe direttamente dalla spiaggia.
-- Se il viaggio cade tra fine ottobre e inizio novembre, vale la pena informarsi sulle cerimonie tradizionali dell'**Hanal Pixán** (la variante maya del Día de los Muertos), che alcune comunità dello Yucatán vivono con altari e cena tipica.
+- Se il viaggio cade tra fine ottobre e inizio novembre, conviene informarsi sulle cerimonie tradizionali dell'**Hanal Pixán** (la variante maya del Día de los Muertos), che alcune comunità dello Yucatán vivono con altari e cena tipica.
 
 ## Consigli pratici / errori da non ripetere
 - **Cambiare o prelevare contanti in abbondanza fin dal primo giorno**: si evitano continui stop lungo il tragitto nei giorni con più tappe.

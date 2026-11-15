@@ -1001,7 +1001,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         nome: "Yangdong Village",
         distanza: "about 20 km, 40 minutes by bus or car",
         come: "By bus from central Gyeongju or by taxi.",
-        testo: "A Joseon-era clan village still inhabited, with houses of nobles and farmers on the hills, a UNESCO site together with Hahoe. More authentic and less crowded than the hanok quarters in town.",
+        testo: "A Joseon-era clan village still inhabited, with houses of nobles and farmers on the hills, a UNESCO site together with Hahoe. More lived-in and less crowded than the hanok quarters in town.",
       },
       {
         nome: "Golgulsa",

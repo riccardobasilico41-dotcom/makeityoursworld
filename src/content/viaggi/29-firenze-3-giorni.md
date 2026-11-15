@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:**
-**Durata:** 3 giorni, 2 notti — con una versione compressa da 2 giorni
+**Durata:** 3 giorni, 2 notti, con una versione compressa da 2 giorni
 **Compagni di viaggio:** con amici, in autonomia, tutto a piedi
 **Categoria:** Europa · Italia · Firenze · arte · Rinascimento · gastronomia
 
@@ -121,7 +121,7 @@ Due giorni a Firenze reggono bene, a una condizione: **un solo grande museo, non
 - **Regola generale:** i ristoranti intorno al Duomo e agli Uffizi con il menù in sei lingue esposto sono da evitare per definizione. Due isolati più in là si mangia meglio alla metà.
 
 ## Consigli pratici / errori da non ripetere
-- **Prenotare la cupola prima di qualsiasi altra cosa**, perché è l'unico ingresso che si esaurisce davvero.
+- **Prenotare la cupola prima di qualsiasi altra cosa**, perché è l'unico ingresso che finisce esaurito.
 - **Controllare i giorni di chiusura** di Uffizi, Accademia e complesso del Duomo prima di costruire il programma.
 - **Un grande museo al giorno.** Dopo il terzo capolavoro si smette di vedere: la sindrome di Stendhal prende il nome da un malore avuto a Firenze, e non è del tutto una leggenda.
 - **Non salire sulla cupola** con claustrofobia o ginocchia delicate: non ci sono uscite intermedie.

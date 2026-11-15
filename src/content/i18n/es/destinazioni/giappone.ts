@@ -76,7 +76,7 @@ export const destinazioniGiappone: Destinazione[] = [
         url: "https://www.meijijingu.or.jp/en/",
         lat: 35.6764,
         lng: 139.6993,
-        consiglio: "Conviene visitar el santuario antes que Takeshita Street: el contraste entre las dos mitades del día es lo que hace que valga la pena.",
+        consiglio: "Conviene visitar el santuario antes que Takeshita Street: lo mejor del día es el contraste entre sus dos mitades.",
       },
       {
         nome: "Tokyo Skytree",
@@ -800,7 +800,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Ginkaku-ji, el Pabellón de Plata",
-        testo: "Villa de retiro del shogun Ashikaga Yoshimasa, del siglo XV, convertida después en templo zen. Pese a su nombre, nunca estuvo cubierto de plata: es un pabellón de madera oscura, con un jardín de arena rastrillada en forma de cono y un jardín de musgo que sube por la colina.",
+        testo: "Villa de retiro del shogun Ashikaga Yoshimasa, del siglo XV, convertida después en templo zen. Pese a su nombre, nunca estuvo cubierto de plata. Es un pabellón de madera oscura, con un jardín de arena rastrillada en forma de cono y un jardín de musgo que sube por la colina.",
         come: "Autobús 5, 17 o 100 hasta Ginkakuji-michi, y después 10 minutos a pie cuesta arriba. Es el inicio, o el final, del Camino de la Filosofía.",
         quando: "A la apertura o a última hora de la tarde; a finales de noviembre para los arces rojos.",
         tempo: "1 hora",
@@ -2138,7 +2138,7 @@ export const destinazioniGiappone: Destinazione[] = [
         url: "https://jinya.gifu.jp/",
         lat: 36.13969,
         lng: 137.25753,
-        consiglio: "Hay un servicio de guías gratuitas: vale la pena pedirlo en la taquilla.",
+        consiglio: "Hay un servicio de guías gratuitas: se pide en la taquilla.",
       },
       {
         nome: "Hida Folk Village",

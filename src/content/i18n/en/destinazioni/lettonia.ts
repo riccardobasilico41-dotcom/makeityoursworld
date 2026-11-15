@@ -40,7 +40,7 @@ export const destinazioniLettonia: Destinazione[] = [
     costi: "A cheap city by Western European standards: in the 2025 City Costs Barometer Riga came out the best value of 38 European cities. Daily budget per person with a shared double room: €45-65 on a tight budget, €90-130 mid-range (3-4-star hotel, a museum, restaurant dinner), over €180 with a 5-star hotel and Michelin-starred restaurants. 2026 admissions: House of the Blackheads €10, Occupation Museum €8, St Peter's tower about €9, Art Nouveau Museum €9; bus ticket from about €1.50.",
     erroriDaEvitare: [
       "Stopping at the Old Town: the Art Nouveau district just outside the walls is as central a part of Riga's architecture as the medieval center",
-      "Going to the Central Market on the weekend after lunch: the best stalls empty out early, and the morning, with the local vendors, is the most authentic moment",
+      "Going to the Central Market on the weekend after lunch: the best stalls empty out early, and the morning, with the local vendors, is the time to see it as it really is",
       "Planning Jūrmala without checking the weather: it's a seaside trip and makes sense mostly from June to August",
       "Thinking Russian isn't needed: the city's sizable Russian-speaking minority still speaks it, and in certain everyday situations outside the tourist center it's more useful than English",
     ],

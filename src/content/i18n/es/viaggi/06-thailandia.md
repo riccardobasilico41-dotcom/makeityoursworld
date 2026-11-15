@@ -117,7 +117,7 @@ Quien tenga el vuelo por la noche puede hacer por la mañana los templos, empeza
 **En la práctica:** check-out con consigna en el hotel · templos con hombros y rodillas cubiertos · Chatuchak solo el fin de semana · Airport Rail Link para Suvarnabhumi, Grab o taxi para Don Mueang · salir hacia el aeropuerto al menos tres horas antes.
 
 ## Bangkok: los rooftop bars
-Bangkok es probablemente la capital mundial de los rooftop bars: merece la pena
+Bangkok es probablemente la capital mundial de los rooftop bars, y conviene
 elegir al menos un par para noches distintas:
 - **Vertigo & Moon Bar** (Banyan Tree): uno de los más emblemáticos, al aire libre,
   espectacular al atardecer.
@@ -167,8 +167,8 @@ esto, **si es la primera vez en Tailandia y hay tiempo, merece en cualquier caso
 pena hacerlo**: son rincones curiosos y fotogénicos, el
 tren que pasa a un palmo de las mercancías divierte de verdad, y en media
 jornada se quita uno la curiosidad sin sacrificar demasiado tiempo al resto
-del itinerario. Quien busque en cambio una experiencia más auténtica de mercado
-tailandés haría mejor en apuntar a un mercado local de barrio en
+del itinerario. Quien quiera en cambio un mercado tailandés frecuentado por
+la gente del lugar haría mejor en apuntar a un mercado local de barrio en
 la propia Bangkok (p. ej. Khlong Toei) o a los mercados nocturnos de Chiang Mai.
 
 ## Ayutthaya, la excursión a las afueras
@@ -223,7 +223,7 @@ con un restaurante:
   oficinas, comida callejera genuina a mediodía.
 
 ## Bangkok: vida nocturna
-Bangkok de noche tiene caras muy distintas entre sí: merece la pena saber qué
+Bangkok de noche tiene caras muy distintas entre sí, y es mejor saber qué
 esperar de cada una antes de elegir adónde ir:
 - **Khao San Road**: el cuartel general histórico de los mochileros: bares al
   aire libre, música por todas partes, comida callejera, vendedores de todo. Caótica,
@@ -295,7 +295,7 @@ y cuándo:
 | **Mar de Andamán** (oeste) | Phuket, Krabi, Koh Phi Phi, Similan, Khao Lak | Noviembre-abril | Mayo-octubre (monzón del suroeste) |
 | **Golfo de Tailandia** (este) | Koh Samui, Koh Phangan, Koh Tao | Enero-abril y julio-septiembre | Octubre-diciembre (monzón del noreste) |
 
-En la práctica: **cuando llueve en Andamán, el Golfo a menudo está al sol, y
+**Cuando llueve en Andamán, el Golfo a menudo está al sol, y
 viceversa**. Si se viaja en pleno verano europeo (julio-agosto), las
 islas del Golfo (Samui, Phangan, Tao) siguen siendo una apuesta más segura;
 si se viaja entre diciembre y marzo, se puede elegir libremente porque
@@ -307,7 +307,7 @@ turística en todas las islas.
   (Patong para la vida nocturna, Kata/Karon para una mezcla más tranquila) y
   un buen aeropuerto internacional: la base más cómoda desde la que salir hacia
   las excursiones en barca a Phi Phi, las Similan o las islas menores.
-- **Krabi**: más auténtica que Phuket, punto de partida para Railay Beach,
+- **Krabi**: menos turística que Phuket, punto de partida para Railay Beach,
   Bond Island y los tours en canoa por la bahía de Phang Nga (véase el Día 7
   del itinerario de arriba).
 - **Koh Phi Phi**: la isla más fotografiada de esta costa, hecha
@@ -365,7 +365,7 @@ ha convertido con los años en una de las fiestas en la playa más grandes del m
 - **Cómo llegar:** si se está alojado en otro punto de la isla, los songthaew (taxis
   compartidos) conectan toda Koh Phangan con Haad Rin durante toda la noche; si
   se viene de Koh Samui, el último ferri útil sale a última hora de la
-  tarde y el primero de la mañana siguiente es hacia las 6:00: en la práctica,
+  tarde y el primero de la mañana siguiente es hacia las 6:00, así que
   **conviene dormir en Koh Phangan la noche de la fiesta**, no hacer
   ida y vuelta en el día desde Samui.
 - **Cuándo ir:** las fechas se publican con un año de antelación en el

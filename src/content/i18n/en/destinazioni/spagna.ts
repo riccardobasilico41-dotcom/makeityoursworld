@@ -374,7 +374,7 @@ export const destinazioniSpagna: Destinazione[] = [
     erroriDaEvitare: [
       "Arriving in Granada without having already booked the Alhambra: tickets are sold on the official website (also by phone or at the ticket machines) and in high season (June-September and holidays) they sell out weeks in advance",
       "Underestimating the climbs of the Albaicín and the Sacromonte: they're steep and cobbled, not very comfortable with luggage or unsuitable shoes",
-      "Booking a flamenco show without doing research: in the Sacromonte authentic zambras and very touristy formats coexist at the same price",
+      "Booking a flamenco show without doing research: in the Sacromonte traditional zambras and very touristy formats coexist at the same price",
     ],
     luoghi: [
       {
@@ -3866,7 +3866,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Maspalomas and Playa del Inglés",
         "perChi": "those who want guaranteed sun",
-        "testo": "South coast: hot and dry, big hotels, dunes nearby. More touristy and less authentic.",
+        "testo": "South coast: hot and dry, big hotels, dunes nearby. More touristy and less spontaneous.",
         "fascia": "€85-330"
       },
       {

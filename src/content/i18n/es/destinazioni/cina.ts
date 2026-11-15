@@ -93,7 +93,7 @@ export const destinazioniCina: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      "Pekín es la ciudad que pide más preparación de todo el viaje, y compensa enseguida a quien la ha hecho. La Ciudad Prohibida es más grande que cualquier expectativa, y ese es su mérito y su límite: se atraviesa patio tras patio en una sola dirección, junto a miles de personas, y después de la tercera sala del trono me di cuenta de que miraba sin ver. El truco es salirse de la vía central y meterse en los palacios laterales del este: casi nadie va y las salas son pequeñas, a medida de persona. El Templo del Cielo a primera hora de la mañana, en cambio, nunca decepciona, y no por el templo. En el parque de alrededor cientos de jubilados bailan, cantan en coro, juegan a las cartas y hacen ejercicios con la espada: es la escena más bonita y menos turística de la ciudad. Sobre los hutongs hay que decir la verdad. Los de alrededor de Houhai ya son bares y tiendas; la vida de verdad está en las callejuelas dos manzanas más allá, y es ahí donde vale la pena perderse. Y si tenéis tiempo, id al Templo de los Lamas: es menos icónico, pero para mí es precioso.",
+      "Pekín es la ciudad que pide más preparación de todo el viaje, y compensa enseguida a quien la ha hecho. La Ciudad Prohibida es más grande que cualquier expectativa, y ese es su mérito y su límite: se atraviesa patio tras patio en una sola dirección, junto a miles de personas, y después de la tercera sala del trono me di cuenta de que miraba sin ver. El truco es salirse de la vía central y meterse en los palacios laterales del este: casi nadie va y las salas son pequeñas, a medida de persona. El Templo del Cielo a primera hora de la mañana, en cambio, nunca decepciona, y no por el templo. En el parque de alrededor cientos de jubilados bailan, cantan en coro, juegan a las cartas y hacen ejercicios con la espada: es la escena más bonita y menos turística de la ciudad. Sobre los hutongs hay que decir la verdad. Los de alrededor de Houhai ya son bares y tiendas; la vida de verdad está en las callejuelas dos manzanas más allá, y es ahí donde conviene perderse. Y si tenéis tiempo, id al Templo de los Lamas: es menos icónico, pero para mí es precioso.",
     luoghi: [
       {
         nome: "Ciudad Prohibida",
@@ -1196,7 +1196,7 @@ export const destinazioniCina: Destinazione[] = [
       'Contar con pagos en efectivo o con personal que hable inglés: aquí Alipay o WeChat Pay y el traductor son indispensables',
     ],
     miaEsperienza:
-      "Es la parada que nadie incluye en el itinerario, y sin embargo se queda. De día Furong Zhen es lo que uno espera: autocares, puestos, la misma mercancía de cualquier pueblo chino reconstruido. Hacia las seis de la tarde, sin embargo, los grupos se van todos a la vez, se encienden las luces sobre la cascada y el pueblo vuelve a ser cuatro calles de piedra mojada, con alguna familia cenando en la puerta. El recuerdo más fuerte es el pasadizo detrás del salto de agua: se camina por un corredor excavado en la roca, con el ruido del agua a un metro, y se sale empapado de salpicaduras. Como pueblo histórico está en gran parte rehecho, así que quien busque arquitectura auténtica saldrá decepcionado. Aquí cuentan la posición, que es única, y la hora del día en que se mira.",
+      "Es la parada que nadie incluye en el itinerario, y sin embargo se queda. De día Furong Zhen es lo que uno espera: autocares, puestos, la misma mercancía de cualquier pueblo chino reconstruido. Hacia las seis de la tarde, sin embargo, los grupos se van todos a la vez, se encienden las luces sobre la cascada y el pueblo vuelve a ser cuatro calles de piedra mojada, con alguna familia cenando en la puerta. El recuerdo más fuerte es el pasadizo detrás del salto de agua: se camina por un corredor excavado en la roca, con el ruido del agua a un metro, y se sale empapado de salpicaduras. Como pueblo histórico está en gran parte rehecho, así que quien busque arquitectura original saldrá decepcionado. Aquí cuentan la posición, que es única, y la hora del día en que se mira.",
     luoghi: [
       {
         nome: "Cascada y pasarela",
@@ -1735,7 +1735,7 @@ export const destinazioniCina: Destinazione[] = [
         nome: "Crucero por las Tres Gargantas",
         distanza: "3-4 días hasta Yichang",
         come: "Barcos de crucero desde los muelles de Chongqing, con reserva anticipada.",
-        testo: "El crucero por el Yangtsé a través de las Tres Gargantas hasta la gran presa: no es una excursión de un día, pero sale de aquí.",
+        testo: "El crucero por el Yangtsé a través de las Tres Gargantas hasta la gran presa: dura más de un día, pero sale de aquí.",
       },
     ],
     esperienzeSlugs: ['hongya-dong-notte'],

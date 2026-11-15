@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-More than any other capital in Central Europe, Prague came through the twentieth century without losing its medieval and Baroque skin: while Warsaw was razed to the ground and Dresden burned under the bombs, Prague's historic center has reached today almost intact, earning it the nickname "city of a hundred spires." It walks like a fourteenth-century city because it still truly is one, not a reconstruction, unlike so many other European historic centers rebuilt after 1945.
+More than any other capital in Central Europe, Prague came through the twentieth century without losing its medieval and Baroque skin: while Warsaw was razed to the ground and Dresden burned under the bombs, Prague's historic center has reached today almost intact, earning it the nickname "city of a hundred spires." It walks like a fourteenth-century city because it still is one: unlike so many other European historic centers rebuilt after 1945, it is not a reconstruction.
 
 Three or four days are enough to do the essential Prague well: the Old Town with the Astronomical Clock, Charles Bridge leading to Malá Strana and the Castle, the Jewish quarter of Josefov, and Vyšehrad as a quiet counterpoint for those who have already seen the bulk of the center's crowds. It's also a city where it's worth arriving prepared on a couple of very practical things (the currency is not the euro, and around the main square there are rather well-established schemes of inflated bills) more than on an endless list of monuments to tick off.
 

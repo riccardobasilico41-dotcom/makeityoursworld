@@ -102,7 +102,7 @@ The **Mirador del Río** sits on top of the Famara cliff, at about 475 meters, w
 - **La Graciosa (+1 day):** the car-free islet north of Lanzarote, reachable by ferry in a day.
 
 ## Dove abbiamo dormito
-In Tenerife, **Puerto de la Cruz** for the greener, more authentic north coast or **Costa Adeje/Los Cristianos** for the sunnier south coast. In Gran Canaria, **Las Palmas** for city life or **Maspalomas** for those focused mainly on dunes and sea. In Lanzarote, **Arrecife** for the connections or **Playa Blanca/Puerto del Carmen** for the sea, all with low buildings thanks to the urban planning rules Manrique pushed for.
+In Tenerife, **Puerto de la Cruz** for the greener, less touristy north coast or **Costa Adeje/Los Cristianos** for the sunnier south coast. In Gran Canaria, **Las Palmas** for city life or **Maspalomas** for those focused mainly on dunes and sea. In Lanzarote, **Arrecife** for the connections or **Playa Blanca/Puerto del Carmen** for the sea, all with low buildings thanks to the urban planning rules Manrique pushed for.
 
 ## Dove abbiamo mangiato
 **Papas arrugadas** with mojo rojo and mojo verde are the signature dish of all three islands; **gofio**, toasted cereal flour of Guanche origin, shows up in a thousand variations. In Lanzarote the wines of La Geria, in particular the malvasía volcánico, are an experience in themselves, grown in a landscape like no other.

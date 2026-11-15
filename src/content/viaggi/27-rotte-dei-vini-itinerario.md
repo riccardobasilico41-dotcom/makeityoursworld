@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-L'Italia è il maggior produttore mondiale di vino e ha oltre cinquecento varietà autoctone catalogate: più di qualunque altro paese, e non di poco. Tre paesaggi vitivinicoli sono patrimonio UNESCO. Ma la ragione per cui questo tema funziona come viaggio non è il vino in sé: è che il vino è il pretesto migliore per attraversare l'Italia agricola invece di quella monumentale, e per parlare con chi fa le cose invece che con chi le racconta. In una cantina italiana, a differenza di molte zone francesi, chi ti riceve è quasi sempre chi il vino lo fa, e questo cambia completamente il tipo di conversazione. A una condizione, che è anche l'unica regola vera di questo itinerario: **si prenota, non ci si presenta.**
+L'Italia è il maggior produttore mondiale di vino e ha oltre cinquecento varietà autoctone catalogate: più di qualunque altro paese, e non di poco. Tre paesaggi vitivinicoli sono patrimonio UNESCO. Come viaggio, però, il vino funziona soprattutto da pretesto: è il modo migliore per attraversare l'Italia agricola invece di quella monumentale, e per parlare con chi fa le cose invece che con chi le racconta. In una cantina italiana, a differenza di molte zone francesi, chi ti riceve è quasi sempre chi il vino lo fa, e questo cambia completamente il tipo di conversazione. A una condizione, che è anche l'unica regola vera di questo itinerario: **si prenota, non ci si presenta.**
 
 *Il mio ricordo: scegliere la cantina è impossibile, è una cosa troppo personale. Dipende dal gusto, dal budget e dall'esperienza che si cerca: una cosa più ricercata o una più autentica.*
 
@@ -117,7 +117,7 @@ Dalla Val d'Orcia a Firenze si sale in poco meno di due ore, per la Cassia fino 
 - **Langhe:** agriturismi tra le colline, spesso di aziende vitivinicole. Prezzi alti in stagione, soprattutto durante la fiera del tartufo.
 - **Valpolicella:** le aziende con ospitalità nella zona classica, che è piccola e si gira in mezz'ora.
 - **Chianti e Montalcino:** wine resort e agriturismi. È la zona più cara e più turistica dell'itinerario.
-- **Nota generale:** in Irpinia, Vulture e Valtellina si spende una frazione per una qualità simile, ed è per questo che quelle estensioni valgono la pena.
+- **Nota generale:** in Irpinia, Vulture e Valtellina si spende una frazione per una qualità simile, ed è il motivo per cui conviene aggiungere quelle estensioni.
 
 ## Dove abbiamo mangiato
 - **Langhe:** tajarin, carne cruda battuta al coltello, vitello tonnato, plin, e il tartufo bianco in stagione. È la cucina più ricca dell'itinerario.

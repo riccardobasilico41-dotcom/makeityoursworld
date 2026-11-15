@@ -49,7 +49,7 @@ export const destinazioniLettonia: Destinazione[] = [
     costi: "Città economica per gli standard dell'Europa occidentale: nel City Costs Barometer 2025 Riga è risultata la più conveniente tra 38 città europee. Budget giornaliero a persona con alloggio in doppia: 45-65 € spendendo poco, 90-130 € di fascia media (hotel 3-4 stelle, un museo, cena al ristorante), oltre 180 € con hotel 5 stelle e ristoranti stellati. Ingressi 2026: Casa delle Teste Nere 10 €, Museo dell'Occupazione 8 €, torre di San Pietro circa 9 €, Museo dell'Art Nouveau 9 €; biglietto del bus da circa 1,50 €.",
     erroriDaEvitare: [
       'Fermarsi alla Città Vecchia: il quartiere Art Nouveau appena fuori dalle mura è una parte centrale dell\'architettura di Riga quanto il centro medievale',
-      'Andare al Mercato Centrale nel weekend dopo pranzo: i banchi migliori si svuotano presto, e il mattino, con i venditori locali, è il momento più autentico',
+      'Andare al Mercato Centrale nel weekend dopo pranzo: i banchi migliori si svuotano presto, e il mattino, con i venditori locali, è il momento giusto per vederlo com\'è',
       'Programmare Jūrmala senza guardare il meteo: è una gita al mare e ha senso soprattutto da giugno ad agosto',
       'Pensare che il russo non serva: lo parla ancora la consistente minoranza russofona della città, e in certe situazioni quotidiane fuori dal centro turistico è più utile dell\'inglese',
     ],

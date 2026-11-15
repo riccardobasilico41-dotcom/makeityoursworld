@@ -12,7 +12,7 @@ export const destinazioniEstonia: Destinazione[] = [
     introduzione:
       'La capital de Estonia es la más septentrional de las tres capitales bálticas y da al golfo de Finlandia. El casco antiguo, Patrimonio de la Humanidad desde 1997, es uno de los centros medievales mejor conservados del norte de Europa: arriba, Toompea, la colina fortificada donde residía el poder; abajo, la ciudad de los mercaderes hanseáticos. Fuera de las murallas, el parque barroco de Kadriorg y el antiguo complejo industrial de Telliskivi cuentan dos Estonias distintas, la zarista y la más reciente, digital y creativa.',
     percheAndarci:
-      'El centro histórico es auténtico: las murallas, las torres y la plaza con el ayuntamiento gótico han llegado hasta hoy casi intactos. Y justo al salir de esas murallas Tallin cambia de cara, con un parque imperial ruso por un lado y un distrito creativo nacido en una fábrica soviética por el otro.',
+      'El centro histórico sigue como era: las murallas, las torres y la plaza con el ayuntamiento gótico han llegado hasta hoy casi intactos. Y justo al salir de esas murallas Tallin cambia de cara, con un parque imperial ruso por un lado y un distrito creativo nacido en una fábrica soviética por el otro.',
     cosaVedere: [
       'La Plaza del Ayuntamiento (Raekoja plats), con el Ayuntamiento de Tallin, de 1404, todavía en uso',
       'La colina de Toompea, con el Castillo de Toompea (hoy sede del parlamento estonio, el Riigikogu) y la catedral ortodoxa de Alexander Nevsky, con sus cúpulas de cebolla doradas',

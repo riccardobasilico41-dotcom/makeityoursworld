@@ -71,7 +71,7 @@ export default async function ConsigliPage() {
               <li key={c.slug}>
                 <Link
                   href={`/consigli/${c.slug}`}
-                  className="group flex h-full flex-col border-2 border-ink bg-white transition-transform duration-150 hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+                  className="scheda-lista group flex h-full flex-col overflow-hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
                 >
                   <div className="relative aspect-[4/3] overflow-hidden bg-cream-dark">
                     <Image
@@ -79,12 +79,12 @@ export default async function ConsigliPage() {
                       alt={c.imageAlt[lingua]}
                       fill
                       sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-                      className="object-cover"
+                      className="object-cover transition-transform duration-500 group-hover:scale-105"
                       priority={i === 0}
                     />
                   </div>
                   <div className="flex flex-1 flex-col p-5">
-                    <h2 className="font-display text-xl leading-snug text-ink">{c.testi[lingua].titolo}</h2>
+                    <h2 className="titolo-scheda text-alpine">{c.testi[lingua].titolo}</h2>
                     <p className="mt-2 flex-1 text-sm leading-relaxed text-stone">{c.testi[lingua].descrizione}</p>
                     <span className="mt-4 text-sm font-semibold text-rosso group-hover:underline">{t.leggi} →</span>
                   </div>

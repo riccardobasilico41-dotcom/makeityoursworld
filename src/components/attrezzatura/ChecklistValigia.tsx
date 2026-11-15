@@ -228,7 +228,7 @@ export function ChecklistValigia({
             <section key={sezione.titolo} aria-labelledby={idTitolo}>
               <h2
                 id={idTitolo}
-                className="border-b-2 border-ink pb-3 font-display text-[clamp(1.5rem,2.6vw,2.25rem)] text-ink"
+                className="border-b-2 border-ink pb-3 titolo-sezione text-ink"
               >
                 {sezione.titolo}
               </h2>

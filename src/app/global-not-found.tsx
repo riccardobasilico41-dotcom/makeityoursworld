@@ -5,6 +5,7 @@ import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { PaginaNonTrovata, titoloNonTrovata } from '@/components/PaginaNonTrovata'
 import { LinguaProvider } from '@/lib/i18n/LinguaProvider'
+import { NonTrovataProvider } from '@/lib/i18n/NonTrovata'
 import { LOCALE } from '@/lib/i18n/config'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { siteConfig } from '@/lib/site-config'
@@ -47,11 +48,13 @@ export default async function GlobalNotFound() {
           }}
         />
         <LinguaProvider lingua={lingua}>
-          <Header />
-          <main id="contenuto" tabIndex={-1} className="flex-1 focus:outline-none">
-            <PaginaNonTrovata lingua={lingua} />
-          </main>
-          <Footer />
+          <NonTrovataProvider>
+            <Header />
+            <main id="contenuto" tabIndex={-1} className="flex-1 focus:outline-none">
+              <PaginaNonTrovata lingua={lingua} />
+            </main>
+            <Footer />
+          </NonTrovataProvider>
         </LinguaProvider>
       </body>
     </html>

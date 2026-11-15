@@ -64,7 +64,7 @@ El ferry a **Menorca**, a menudo con escala o transbordo en Mallorca según la r
 
 La tarde en **Ciutadella**, la antigua capital, con el puerto viejo y la Catedral gótica dentro de las murallas. El centro se recorre a pie en un par de horas: la **Plaça des Born** con el obelisco y los palacios señoriales, el **Carrer de Ses Voltes** bajo los soportales, y la bajada al puerto, una ensenada larga y estrecha donde se alinean los restaurantes. *Al atardecer conviene quedarse en el puerto, cuando la luz cae sobre las casas color ocre y las mesas se llenan.* En el puerto se come la caldereta de langosta, aunque no es un plato barato.
 
-**En la práctica:** consultar la ruta Ibiza-Menorca en cuanto se fijan las fechas, es la que tiene menos salidas · si se pasa por Mallorca, la ruta Alcúdia-Ciutadella es la más corta · recogida del coche en Ciutadella o a la llegada, en esta isla hace falta de verdad.
+**En la práctica:** consultar la ruta Ibiza-Menorca en cuanto se fijan las fechas, es la que tiene menos salidas · si se pasa por Mallorca, la ruta Alcúdia-Ciutadella es la más corta · recogida del coche en Ciutadella o a la llegada, en esta isla es necesario.
 
 ### Día 7 — Ciutadella y el Camí de Cavalls
 La mañana la dedicamos a un tramo del **Camí de Cavalls**, el sendero costero que rodea la isla: algunos tramos cerca de Ciutadella son aptos incluso para quien no está entrenado. El sendero está señalizado con postes numerados y dividido en etapas; las de la costa suroeste pasan entre pinares, acantilados bajos y calas. Se sale temprano, cuando la temperatura aún es soportable y la luz sobre el mar es más bonita.

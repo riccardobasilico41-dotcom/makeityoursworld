@@ -95,7 +95,7 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "ABBA The Museum",
-        testo: "El museo del grupo pop sueco más famoso del mundo, con trajes, discos de oro y salas interactivas donde se canta y se baila con sus canciones. Funciona aunque no se sea fan: es alegre, está bien hecho y se ve rápido.",
+        testo: "El museo del grupo pop sueco más famoso del mundo, con trajes, discos de oro y salas interactivas donde se canta y se baila con sus canciones. Funciona aunque no se sea fan, porque es alegre, está bien hecho y se ve rápido.",
         come: "En Djurgården, a pocos minutos a pie del Museo Vasa; tranvía 7 desde el centro.",
         quando: "A la apertura o después de las 15: entre las 10 y las 15 hay más gente.",
         tempo: "1,5-2 horas",

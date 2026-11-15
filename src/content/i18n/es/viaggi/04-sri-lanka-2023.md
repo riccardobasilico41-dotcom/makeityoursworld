@@ -48,7 +48,7 @@ muy populares:
   país. Las empresas más fiables (p. ej. **Holiday Tuk Tuk**,
   holidaytuktuk.com, con base en Kandy) dan una lección de conducción completa
   antes de la salida y asistencia 24/7 a lo largo del recorrido. Es la forma más
-  auténtica y divertida de ver el país, pero hay que saber defenderse
+  libre y divertida de ver el país, pero hay que saber defenderse
   en el tráfico caótico de las ciudades y en las carreteras de montaña (algunas empresas
   ofrecen incluso una lección específica para las curvas hacia Ella).
 - **Autobuses locales, los llamados "chicken bus"**: en Sri Lanka no hay

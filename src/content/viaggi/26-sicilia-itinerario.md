@@ -42,7 +42,7 @@ Siamo saliti con funivia e fuoristrada fino alla zona sommitale, con la guida ob
 
 **Strati veri:** si parte da Catania con venticinque gradi, e a tremila metri ce ne possono essere cinque, con vento forte.
 
-Nel pomeriggio, i **crateri Silvestri** a quota bassa (gratuiti, raggiungibili in auto) o una **cantina dell'Etna** su appuntamento: qui le viti sono spesso **a piede franco**, perché su questo suolo lavico la fillossera non è mai arrivata, e ci sono ceppi di oltre cento anni. Le cantine sono soprattutto sul versante nord, intorno a Castiglione di Sicilia e Randazzo. *Quando l'attività del vulcano aumenta, la zona sommitale viene chiusa anche con poche ore di preavviso: il piano B dei crateri Silvestri e delle cantine serve davvero.*
+Nel pomeriggio, i **crateri Silvestri** a quota bassa (gratuiti, raggiungibili in auto) o una **cantina dell'Etna** su appuntamento: qui le viti sono spesso **a piede franco**, perché su questo suolo lavico la fillossera non è mai arrivata, e ci sono ceppi di oltre cento anni. Le cantine sono soprattutto sul versante nord, intorno a Castiglione di Sicilia e Randazzo. *Quando l'attività del vulcano aumenta, la zona sommitale viene chiusa anche con poche ore di preavviso: conviene avere sempre pronto il piano B dei crateri Silvestri e delle cantine.*
 
 **In pratica:** pacchetto funivia, fuoristrada e guida da circa 80-95 € a persona, escursioni più alte a prezzo maggiore · scarponi, giacca a vento e cappello anche d'estate · Rifugio Sapienza-cantine del versante nord circa un'ora di strada.
 

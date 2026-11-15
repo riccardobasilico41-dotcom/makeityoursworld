@@ -31,31 +31,86 @@ export function accorciaDescrizione(testo: string, max = MAX_DESCRIZIONE): strin
 /** Il primo titolo che sta nei 60 caratteri, tra varianti dalla più ricca alla più corta. */
 export function primoTitoloCheSta(varianti: (string | false | undefined | null)[]): string {
   const valide = varianti.filter((v): v is string => Boolean(v))
-  return valide.find((v) => v.length <= MAX_TITOLO) ?? valide[valide.length - 1]
+  return valide.find((v) => v.length <= MAX_TITOLO) ?? accorciaTitolo(valide[valide.length - 1])
 }
 
+// parole che non possono chiudere un titolo tagliato («… nel Lake District e», «… with the»)
+const PAROLE_VUOTE = new Set(
+  (
+    'e ed o od di da del dello della dei degli delle dal dalla dai in nel nello nella nei negli nelle a al allo alla ai agli alle ' +
+    'su sul sulla sui con col per tra fra il lo la i gli le un uno una che come ' +
+    'and or of the an at to on into with for from by as vs ' +
+    'y u de el los las en para por al lo que sin'
+  ).split(' ')
+)
+
+/** Toglie in coda punteggiatura, parentesi lasciate aperte e parole vuote. */
+function pulisciCoda(t: string): string {
+  let s = t.trim()
+  for (;;) {
+    const prima = s
+    // parentesi aperta e mai chiusa: si taglia prima della parentesi
+    const ap = s.lastIndexOf('(')
+    if (ap >= 0 && s.indexOf(')', ap) === -1) s = s.slice(0, ap)
+    s = s.replace(/[\s,;:·|/&+(—–-]+$/u, '')
+    const ultima = s.match(/(?:^|\s)([^\s]+)$/)?.[1]
+    if (ultima && s.includes(' ') && PAROLE_VUOTE.has(ultima.toLowerCase().replace(/^[«"'(]+/, ''))) s = s.slice(0, s.length - ultima.length)
+    s = s.trim()
+    if (s === prima) return s
+  }
+}
+
+/** Taglio a fine parola entro `max`, senza punteggiatura né parole vuote in coda. */
+function tagliaAParola(t: string, max: number): string {
+  if (t.length <= max) return pulisciCoda(t)
+  const finestra = t.slice(0, max + 1)
+  const spazio = finestra.lastIndexOf(' ')
+  return pulisciCoda(spazio > 0 ? finestra.slice(0, spazio) : t.slice(0, max))
+}
+
+// sotto questa lunghezza il titolo tagliato a una voce dell'elenco perde troppo: si taglia a fine parola
+const MIN_UTILE = 42
+
 /**
- * Titolo di un viaggio per Google: se il titolo intero supera i 60 caratteri si tiene la parte
- * prima dei due punti e si aggiungono le tappe che ci stanno («Okinawa d'estate in due settimane:
- * Naha, Churaumi»). Il titolo sulla pagina resta quello intero.
+ * Titolo entro i 60 caratteri che Google mostra, senza tagli a metà parola. In ordine:
+ * - fino all'ultima voce intera dell'elenco dopo i due punti, separatori originali compresi
+ *   («Okinawa in summer: two-week itinerary, Kerama, Miyako»);
+ * - la parte prima di un trattino o di una barra;
+ * - senza le parentesi;
+ * - altrimenti il taglio all'ultima parola intera, senza punteggiatura né «e/di/the» in coda.
+ * Il primo tentativo vale solo se conserva almeno 42 caratteri: «Ascenso al Pico del Teide: teleférico»
+ * direbbe troppo poco, meglio «… teleférico y permiso».
  */
+export function accorciaTitolo(titolo: string, max = MAX_TITOLO): string {
+  const t = titolo.replace(/\s+/g, ' ').trim()
+  if (t.length <= max) return t
+
+  const dueP = t.indexOf(':')
+  if (dueP > 0) {
+    const testa = pulisciCoda(t.slice(0, dueP))
+    if (testa.length > max) return accorciaTitolo(testa, max)
+    // fine di ogni voce: prima di una virgola, di un punto e virgola o di «e/and/y» tra due voci
+    let migliore = ''
+    for (const m of t.slice(dueP + 1).matchAll(/,|;| e | ed | and | y | & |$/g)) {
+      const pezzo = pulisciCoda(t.slice(0, dueP + 1 + (m.index ?? 0)))
+      if (pezzo.length > max) break
+      if (pezzo.length > dueP + 1) migliore = pezzo
+    }
+    if (migliore.length >= MIN_UTILE) return migliore
+  }
+
+  const sep = t.match(/^(.+?)\s+[—–|·-]\s+/)
+  if (sep && sep[1].length >= MIN_UTILE && sep[1].length <= max) return pulisciCoda(sep[1])
+
+  const senzaParentesi = t.replace(/\s*\([^)]*\)/g, '').trim()
+  if (senzaParentesi !== t) return accorciaTitolo(senzaParentesi, max)
+
+  return tagliaAParola(t, max)
+}
+
+/** Titolo di un viaggio per Google (il titolo sulla pagina resta quello intero). */
 export function titoloSeoViaggio(titolo: string): string {
-  if (titolo.length <= MAX_TITOLO) return titolo
-  const i = titolo.indexOf(':')
-  if (i <= 0) {
-    const tagliato = titolo.slice(0, MAX_TITOLO).replace(/[\s,;(]+\S*$/, '')
-    return tagliato.replace(/[\s,;:(]+$/, '')
-  }
-  const testa = titolo.slice(0, i)
-  if (testa.length > MAX_TITOLO) return testa.slice(0, MAX_TITOLO).replace(/\s+\S*$/, '')
-  const voci = titolo.slice(i + 1).split(/,| e | and | y /).map((v) => v.trim()).filter(Boolean)
-  let fuori = testa
-  for (const v of voci) {
-    const prova = fuori === testa ? `${testa}: ${v}` : `${fuori}, ${v}`
-    if (prova.length > MAX_TITOLO) break
-    fuori = prova
-  }
-  return fuori
+  return accorciaTitolo(titolo)
 }
 
 export function pageMetadata({
@@ -86,6 +141,8 @@ export function pageMetadata({
    */
   ogPropria?: boolean
 }): Metadata {
+  // ogni titolo passa da qui: oltre i 60 caratteri si accorcia (il nome del sito in coda c'è solo se ci sta)
+  title = accorciaTitolo(title)
   const ogTitle = socialTitle ?? title
   // Anteprima di riserva: l'immagine generale del sito nella lingua della pagina, all'indirizzo
   // pubblico (/opengraph-image, /it/opengraph-image…). Impostando `openGraph` qui la pagina

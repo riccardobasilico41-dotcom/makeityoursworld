@@ -704,7 +704,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     tipologia: ['natura', 'vulcani'],
     giorniConsigliati: "1 day",
     visitataPersonalmente: true,
-    introduzione: "The Arenal volcano, the La Fortuna Waterfall and the free hot springs of El Chollín, far more authentic than the paid \"postcard\" spas.",
+    introduzione: "The Arenal volcano, the La Fortuna Waterfall and the free hot springs of El Chollín, a natural stretch of river, far less built-up than the paid \"postcard\" spas.",
     percheAndarci: "For the free hot springs of El Chollín, one of the best and least \"postcard\" moments of the whole trip.",
     cosaVedere: ["The Arenal volcano", "The La Fortuna Waterfall", "The El Chollín hot springs"],
     cosaFare: [

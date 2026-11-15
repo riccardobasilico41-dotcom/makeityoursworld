@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-La regla de oro aquí es no ver demasiados: cinco o seis castillos en seis días, elegidos por tipo y no por fama, con una jornada entera dedicada a la bicicleta a lo largo del río, que es la manera en que este paisaje patrimonio de la UNESCO se recorre de verdad.
+La regla aquí es no ver demasiados: cinco o seis castillos en seis días, elegidos por tipo y no por fama, con una jornada entera dedicada a la bicicleta a lo largo del río, que es la mejor manera de recorrer este paisaje patrimonio de la UNESCO.
 
 ## Scheda pratica
 - **Cuándo ir:** abril-junio para los jardines en flor, septiembre-octubre por los colores y menos gente.

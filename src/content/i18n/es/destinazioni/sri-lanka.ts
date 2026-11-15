@@ -153,7 +153,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Paseo marítimo de Negombo",
         "perChi": "llegada y salida",
-        "testo": "Hoteles frente al mar, cerca del aeropuerto de Colombo. Cómodo, pero poco auténtico más allá del mercado de pescado.",
+        "testo": "Hoteles frente al mar, cerca del aeropuerto de Colombo. Cómodo, pero aparte del mercado de pescado hay poco de la vida local.",
         "fascia": "40-100 €"
       },
       {

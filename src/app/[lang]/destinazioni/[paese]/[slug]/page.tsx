@@ -9,7 +9,7 @@ import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
 import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
-import { ArrowRight, Camera, BedDouble, Bus, CalendarDays, Clock, Compass, Eye, Footprints, MapPin, Moon, Plane, Sparkles, Utensils, Wallet } from 'lucide-react'
+import { ArrowRight, BedDouble, Bus, CalendarDays, Clock, Moon, Plane, Utensils, Wallet } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { Rich } from '@/components/ui/Rich'
@@ -318,7 +318,7 @@ export default async function DestinazionePage({
             </Link>
           )}
           <div className="max-w-3xl">
-            <TitoloSezione icona={Compass}>{t.perche}</TitoloSezione>
+            <TitoloSezione>{t.perche}</TitoloSezione>
             <p className="mt-4 text-lg leading-relaxed text-stone">{richNodes(destinazione.percheAndarci)}</p>
           </div>
 
@@ -332,7 +332,7 @@ export default async function DestinazionePage({
 
           {foto.length >= 2 && (
             <div>
-              <TitoloSezione icona={Camera}>{t.foto}</TitoloSezione>
+              <TitoloSezione>{t.foto}</TitoloSezione>
               <Galleria foto={foto.slice(0, 9)} />
             </div>
           )}
@@ -355,7 +355,7 @@ export default async function DestinazionePage({
           ) : (
             destinazione.cosaVedere.length > 0 && (
               <div>
-                <TitoloSezione icona={Eye}>{t.cosaVedere}</TitoloSezione>
+                <TitoloSezione>{t.cosaVedere}</TitoloSezione>
                 <ElencoNumerato voci={destinazione.cosaVedere} />
               </div>
             )
@@ -367,14 +367,14 @@ export default async function DestinazionePage({
 
           {destinazione.cosaFare.length > 0 && (
             <div>
-              <TitoloSezione icona={Footprints}>{t.cosaFare}</TitoloSezione>
+              <TitoloSezione>{t.cosaFare}</TitoloSezione>
               <ElencoNumerato voci={destinazione.cosaFare} />
             </div>
           )}
 
           {esperienze.length > 0 && (
             <div>
-              <TitoloSezione icona={Sparkles}>{t.esperienzeQui}</TitoloSezione>
+              <TitoloSezione>{t.esperienzeQui}</TitoloSezione>
               <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {esperienze.map((e) => (
                   <ExperienceCard key={e.slug} esperienza={e} paeseSlug={paeseSlug} />
@@ -392,7 +392,7 @@ export default async function DestinazionePage({
           {/* con la mini guida, zone e sapori sostituiscono le due schede brevi */}
           {((destinazione.doveMangiare && !destinazione.sapori?.length) || (destinazione.doveDormire && !destinazione.zone?.length) || destinazione.usciteSerali) && (
             <div>
-              <TitoloSezione icona={MapPin}>{t.mangiare}</TitoloSezione>
+              <TitoloSezione>{t.mangiare}</TitoloSezione>
               <div className="mt-5 grid gap-4 lg:grid-cols-2">
                 {destinazione.doveDormire && !destinazione.zone?.length && <SchedaTesto icona={BedDouble} titolo={t.dormire} testo={destinazione.doveDormire} />}
                 {destinazione.doveMangiare && !destinazione.sapori?.length && <SchedaTesto icona={Utensils} titolo={t.mangiareDove} testo={destinazione.doveMangiare} />}
@@ -406,9 +406,7 @@ export default async function DestinazionePage({
           <FaqGuida d={destinazione} lingua={lingua} />
 
           {destinazione.erroriDaEvitare.length > 0 && (
-            <div className="max-w-4xl">
-              <ErroriDaEvitare voci={destinazione.erroriDaEvitare} />
-            </div>
+            <ErroriDaEvitare voci={destinazione.erroriDaEvitare} />
           )}
 
           <div className="grid items-start gap-10 lg:grid-cols-2">
@@ -431,7 +429,7 @@ export default async function DestinazionePage({
               ]}
             />
           </div>
-          <FirmaAutore className="max-w-3xl" />
+          <FirmaAutore />
         </Container>
       </section>
     </>

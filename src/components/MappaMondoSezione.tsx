@@ -45,7 +45,7 @@ export async function MappaMondoSezione() {
     <section aria-labelledby="mondo-titolo" className="border-t border-alpine/10 bg-cream sezione">
       <Container>
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-          <h2 id="mondo-titolo" className="font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
+          <h2 id="mondo-titolo" className="titolo-sezione text-balance text-alpine">
             {t.titolo}
           </h2>
           <p className="max-w-sm text-sm leading-relaxed text-stone">

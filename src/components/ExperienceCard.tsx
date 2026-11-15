@@ -18,7 +18,7 @@ export async function ExperienceCard({ esperienza, paeseSlug }: { esperienza: Es
   return (
     <Link
       href={`/esperienze/${paeseSlug}/${esperienza.slug}`}
-      className="group flex flex-col overflow-hidden rounded-none border border-alpine/10 bg-white transition-[border-color,transform] duration-150 ease-out hover:border-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
+      className="group flex flex-col overflow-hidden scheda-lista focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
     >
       {esperienza.immagine && (
         <div className="relative h-36 overflow-hidden">
@@ -33,7 +33,7 @@ export async function ExperienceCard({ esperienza, paeseSlug }: { esperienza: Es
       )}
       <div className="flex flex-1 flex-col gap-3 p-5">
         <div className="flex items-start justify-between gap-3">
-          <h3 className="font-display text-lg font-medium leading-tight text-alpine">{esperienza.nome}</h3>
+          <h3 className="titolo-scheda text-alpine">{esperienza.nome}</h3>
           <PersonalVerdict giudizio={esperienza.giudizio} className="shrink-0" />
         </div>
         <div className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-stone/85">

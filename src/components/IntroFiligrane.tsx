@@ -38,6 +38,20 @@ function daSaltare() {
 
 const nessunaIscrizione = () => () => {}
 
+/**
+ * Le 160 celle non sono <img> ma sfondi CSS: una classe per filigrana, definita una volta sola.
+ * Prima ogni pagina aveva 160 <img> nel DOM (e ~40 KB di HTML) anche quando l'apertura non
+ * parte; uno sfondo dentro un elemento con display:none non viene scaricato.
+ */
+function stile(immagini: string[]) {
+  return (
+    '.if-c{display:flex;aspect-ratio:1/1;align-items:center;justify-content:center;border:.5px solid color-mix(in oklab,var(--color-ink) 10%,transparent);padding:14%}' +
+    '.if-c>span{display:block;width:100%;height:100%;background-position:center;background-size:contain;background-repeat:no-repeat}' +
+    (Object.keys(FILTRI) as (keyof typeof FILTRI)[]).map((v) => `#intro-filigrane[data-v=${v}] .if-c>span{filter:${FILTRI[v]}}`).join('') +
+    immagini.map((src, i) => `.if-${i}{background-image:url(${JSON.stringify(src)})}`).join('')
+  )
+}
+
 export function IntroFiligrane({ immagini, variante = 'colore' }: { immagini: string[]; variante?: 'colore' | 'bn' }) {
   const [stato, setStato] = useState<'visibile' | 'esce' | 'nascosta'>('visibile')
   // variante forzata con ?intro=colore|bn: letta dall'URL nel browser (sul server e nell'idratazione vale la prop)
@@ -107,19 +121,19 @@ export function IntroFiligrane({ immagini, variante = 'colore' }: { immagini: st
   return (
       <div
         id="intro-filigrane"
+        data-v={scelta}
         aria-hidden="true"
         suppressHydrationWarning
         onClick={() => setStato('esce')}
         className="intro-filigrane fixed inset-0 z-[100] cursor-pointer overflow-hidden bg-[#fbf8f2] transition-opacity ease-out"
         style={{ opacity: stato === 'esce' ? 0 : 1, transitionDuration: `${SFUMATURA}ms`, pointerEvents: stato === 'esce' ? 'none' : undefined }}
       >
+        <style>{stile(immagini)}</style>
         <div className="grid h-full w-full grid-cols-[repeat(auto-fill,minmax(92px,1fr))] content-start sm:grid-cols-[repeat(auto-fill,minmax(128px,1fr))]">
+          {/* niente <img> né preload: con l'apertura già nascosta (display:none) le filigrane non si scaricano */}
           {celle.map((i, k) => (
-            <div key={k} className="flex aspect-square items-center justify-center border-[0.5px] border-ink/10 p-[14%]">
-              {/* lazy: senza, React metteva 36 <link rel="preload"> nel <head> di ogni pagina, davanti al
-                  fotogramma LCP, e il browser li scaricava anche con l'apertura già nascosta (display:none) */}
-              {/* eslint-disable-next-line @next/next/no-img-element -- miniature da pochi KB, niente ottimizzazione */}
-              <img src={immagini[i]} alt="" width={96} height={96} loading="lazy" decoding="async" fetchPriority="low" className="h-full w-full object-contain" style={{ filter: FILTRI[scelta] }} />
+            <div key={k} className="if-c">
+              <span className={`if-${i}`} />
             </div>
           ))}
         </div>

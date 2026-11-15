@@ -71,7 +71,7 @@ export const destinazioniGiordania: Destinazione[] = [
       },
       {
         "nome": "Downtown and the souqs",
-        "testo": "The old center around the al-Husseini mosque: spice shops, cafes, sweets, clothes, gold. It is the liveliest and most authentic part of the capital, far more than the new districts.",
+        "testo": "The old center around the al-Husseini mosque: spice shops, cafes, sweets, clothes, gold. It is the liveliest and most lived-in part of the capital, far more than the new districts.",
         "come": "On foot from the Roman theater, a few minutes.",
         "quando": "Daytime into the evening. On Friday mornings many shops open late.",
         "tempo": "2 hours",

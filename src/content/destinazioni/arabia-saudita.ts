@@ -67,7 +67,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
               'È lo scalo dove atterra chi usa il visto stopover di Saudia o flynas',
             ],
             contro: ['Caldo e umidità pesanti quasi tutto l\'anno', 'Più lontana dall\'Asir e dall\'est del paese', 'Città dispersa, dove ci si muove solo in auto'],
-            perChi: 'Chiunque venga per la prima volta o abbia pochi giorni. Con un visto stopover di quattro giorni è in pratica l\'unica scelta sensata.',
+            perChi: 'Chiunque venga per la prima volta o abbia pochi giorni. Con un visto stopover di quattro giorni è l\'unica scelta sensata.',
           },
           {
             nome: 'Entrare da Riyadh',

@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 en preparación
 **Periodo del viaggio:**
-**Durata:** 17 días, 16 noches — vuelta completa a la isla, de Palermo a Catania
+**Durata:** 17 días, 16 noches, vuelta completa a la isla, de Palermo a Catania
 **Compagni di viaggio:** con amigos, por libre, con coche de alquiler
 **Categoria:** Europa · Italia · Sicilia · archeologia · arte · gastronomia
 

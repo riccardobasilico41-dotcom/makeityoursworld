@@ -145,7 +145,7 @@ Il volo va considerato con il traffico di San José: dal centro all'aeroporto **
 
 ## Cosa vedere / cosa fare
 - **Il tragitto in barca fino a Tortuguero**, tra canali di giungla, coccodrilli e uccelli: uno dei trasferimenti più belli del viaggio, più che una semplice tappa di passaggio.
-- **Le sorgenti termali gratuite di El Choyin**, ad Arenal: molto più autentiche (e gratuite) delle terme «da cartolina» a pagamento.
+- **Le sorgenti termali gratuite di El Choyin**, ad Arenal: molto meno turistiche (e gratuite) delle terme «da cartolina» a pagamento.
 - **Il Parco Nazionale Manuel Antonio**, con alcune delle spiagge più belle del paese e una probabilità altissima di vedere bradipi e scimmie. Bello, ma affollatissimo: sembra quasi uno zoo.
 - **Tortuguero**, che assomiglia molto all'Amazzonia.
 - **Il canyoning a La Fortuna e la zip line gigante di Monteverde**, le due attività più adrenaliniche del viaggio.

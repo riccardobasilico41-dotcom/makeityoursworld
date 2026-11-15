@@ -1479,7 +1479,7 @@ export const destinazioniItalia: Destinazione[] = [
       'Ordinare una «bistecca fiorentina» ben cotta o sotto i due etti e mezzo: non esiste, e chi la serve così sta servendo altro',
     ],
     miaEsperienza:
-      'Firenze ha un problema di scala che le guide non dicono: tutto quello che si viene a vedere sta in mezzo chilometro quadrato, e da aprile a ottobre il centro è una folla compatta che si muove piano lungo tre assi. In pratica la città va fatta al contrario: presto al mattino, o a novembre. La salita alla cupola prenotata alla prima fascia, alle otto e mezza, è un\'altra esperienza rispetto a farla a mezzogiorno: si sale per una scala stretta tra i due gusci, si passa a pochi centimetri dagli affreschi del Giudizio, e in cima c\'è aria. Quasi nessuno invece va al Museo dell\'Opera del Duomo, che vale quanto gli Uffizi: dentro ci sono le porte originali del Battistero (quelle in piazza sono copie) e l\'ultima Pietà di Michelangelo, quella che voleva distruggere. Ci sono quattro persone. Per il tramonto, tutti vanno al Piazzale Michelangelo, che è un parcheggio con i venditori; cento metri più su c\'è San Miniato al Monte, una chiesa romanica del Mille con la facciata a intarsi di marmo, la stessa vista e, nel pomeriggio, i monaci che cantano in gregoriano nella cripta.',
+      'Firenze ha un problema di scala che le guide non dicono: tutto quello che si viene a vedere sta in mezzo chilometro quadrato, e da aprile a ottobre il centro è una folla compatta che si muove piano lungo tre assi. Per questo la città va fatta al contrario: presto al mattino, o a novembre. La salita alla cupola prenotata alla prima fascia, alle otto e mezza, è un\'altra esperienza rispetto a farla a mezzogiorno: si sale per una scala stretta tra i due gusci, si passa a pochi centimetri dagli affreschi del Giudizio, e in cima c\'è aria. Quasi nessuno invece va al Museo dell\'Opera del Duomo, che vale quanto gli Uffizi: dentro ci sono le porte originali del Battistero (quelle in piazza sono copie) e l\'ultima Pietà di Michelangelo, quella che voleva distruggere. Ci sono quattro persone. Per il tramonto, tutti vanno al Piazzale Michelangelo, che è un parcheggio con i venditori; cento metri più su c\'è San Miniato al Monte, una chiesa romanica del Mille con la facciata a intarsi di marmo, la stessa vista e, nel pomeriggio, i monaci che cantano in gregoriano nella cripta.',
     luoghi: [
       {
         "nome": "Duomo e cupola del Brunelleschi",
@@ -1553,7 +1553,7 @@ export const destinazioniItalia: Destinazione[] = [
         "lat": 43.768,
         "lng": 11.244,
         "url": "https://museicivicifiorentini.comune.fi.it/",
-        "consiglio": "È meno affollata dei grandi musei e altrettanto importante. Prima di entrare vale la pena di leggere due righe sul Masaccio: la visita è molto più interessante."
+        "consiglio": "È meno affollata dei grandi musei e altrettanto importante. Prima di entrare conviene leggere due righe su Masaccio: la visita è molto più interessante."
       },
       {
         "nome": "San Miniato al Monte",
@@ -2140,7 +2140,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "domanda": "Meglio dormire a Venezia o a Mestre?",
-        "risposta": "Mestre costa circa la metà ed è a dieci minuti di treno, ma si perde la città di sera e al mattino presto. Per una o due notti vale la pena spendere di più e stare a Cannaregio o Castello."
+        "risposta": "Mestre costa circa la metà ed è a dieci minuti di treno, ma si perde la città di sera e al mattino presto. Per una o due notti conviene spendere di più e stare a Cannaregio o Castello."
       },
       {
         "domanda": "Cosa succede con l'acqua alta?",
@@ -2262,7 +2262,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Ercolano",
-        "testo": "Una città più piccola di Pompei, sepolta da fango e non da cenere: si sono conservati piani superiori, travi di legno carbonizzato, porte, letti. Si vede come vivevano davvero.",
+        "testo": "Una città più piccola di Pompei, sepolta da fango e non da cenere: si sono conservati piani superiori, travi di legno carbonizzato, porte, letti. Si vede come si viveva dentro casa.",
         "come": "Circumvesuviana linea Napoli-Sorrento fino a Ercolano Scavi, da Napoli Garibaldi, poi un tratto a piedi in discesa.",
         "quando": "Mattina, in estate. Il sito chiude nelle festività principali: controllare il calendario sul sito ufficiale.",
         "tempo": "2 ore",
@@ -2450,7 +2450,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Sorrento e Costiera Amalfitana",
         "distanza": "1h10 in Circumvesuviana fino a Sorrento",
         "come": "Circumvesuviana fino a Sorrento e bus SITA per Positano e Amalfi; da primavera anche traghetti diretti da Napoli.",
-        "testo": "In giornata si arriva a Sorrento e a una delle due perle della Costiera. Per vederla davvero servono almeno due notti sul posto."
+        "testo": "In giornata si arriva a Sorrento e a una delle due perle della Costiera. Per vederla bene servono almeno due notti sul posto."
       }
     ],
     sapori: [
@@ -2906,7 +2906,7 @@ export const destinazioniItalia: Destinazione[] = [
       'Fare Agrigento a mezzogiorno d\'estate: la Valle dei Templi non ha ombra e si superano i 40 gradi',
       'Andarci ad agosto senza sapere che è il mese peggiore sotto ogni aspetto',
       'Saltare l\'interno (Enna, Piazza Armerina, le Madonie) per stare solo sulla costa: è dove la Sicilia è più sé stessa e meno turistica',
-      'Prendere la granita con la panna montata pensando che sia la versione autentica: la granita siciliana si fa con acqua, zucchero e il frutto, e si accompagna alla brioche col tuppo',
+      'Prendere la granita con la panna montata pensando che sia quella tradizionale: la granita siciliana si fa con acqua, zucchero e il frutto, e si accompagna alla brioche col tuppo',
       'Fidarsi dei tempi di percorrenza stimati: sulle statali interne vanno aumentati di un terzo',
     ],
     confronti: [
@@ -3790,7 +3790,7 @@ export const destinazioniItalia: Destinazione[] = [
             pro: [
               'Accessibilità: si raggiungono in meno di un\'ora da Napoli, anche in giornata',
               'Ischia ha terme naturali, con sorgenti già sfruttate dai greci',
-              'Procida è rimasta un paese di pescatori ed è la più autentica delle tre',
+              'Procida è rimasta un paese di pescatori ed è la meno turistica delle tre',
               'Capri fuori stagione, senza i visitatori in giornata, è un\'altra isola',
             ],
             contro: [
@@ -5644,7 +5644,7 @@ export const destinazioniItalia: Destinazione[] = [
       'Il giro dell\'isola in barca, che a Capri è l\'unico modo di vedere le grotte e i Faraglioni da vicino',
     ],
     doveDormire:
-      'Capri è carissima in alta stagione; Anacapri costa parecchio meno ed è più tranquilla. Ischia ha l\'offerta più larga e più economica delle tre, con gli hotel termali. Procida è la più accessibile e la più autentica. **Molti fanno base a Napoli o a Sorrento e vanno in giornata**: è la scelta più economica, ma la peggiore per Capri.',
+      'Capri è carissima in alta stagione; Anacapri costa parecchio meno ed è più tranquilla. Ischia ha l\'offerta più larga e più economica delle tre, con gli hotel termali. Procida è la più accessibile e la meno turistica. **Molti fanno base a Napoli o a Sorrento e vanno in giornata**: è la scelta più economica, ma la peggiore per Capri.',
     doveMangiare:
       'A Capri sono nate l\'insalata caprese e la torta caprese, con le mandorle e senza farina. A Ischia il piatto da cercare è il **coniglio all\'ischitana**, un piatto di terra su un\'isola: i conigli venivano allevati in fosse scavate nel tufo, e la cucina isolana è più contadina che marinara. A Procida si mangia pesce e si compra il limone locale, enorme, che si usa in insalata. **Sulle piazzette principali si paga la posizione**: due vicoli più in là si mangia meglio e si spende metà.',
     comeArrivare:

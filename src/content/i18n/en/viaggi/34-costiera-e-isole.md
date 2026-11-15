@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified)
 **Periodo del viaggio:**
-**Durata:** 9 days, 8 nights — can be split into two blocks of 4-5
+**Durata:** 9 days, 8 nights, can be split into two blocks of 4-5
 **Compagni di viaggio:** with friends, independent, **no car**, everything by ferry, bus and on foot
 **Categoria:** Europa · Italia · Campania · mare · trekking · isole
 

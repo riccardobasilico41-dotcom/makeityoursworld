@@ -1,5 +1,6 @@
-import { AlertTriangle, ArrowUpRight, BedDouble, CalendarDays, Clock, Compass, Footprints, HelpCircle, Lightbulb, MapPin, Route, Ticket, Utensils, Wallet } from 'lucide-react'
-import { TitoloSezione } from '@/components/scheda/Blocchi'
+import { ArrowUpRight, CalendarDays, Clock, Footprints, Lightbulb, MapPin, Ticket, Wallet } from 'lucide-react'
+import { RiquadroAvviso, TitoloSezione } from '@/components/scheda/Blocchi'
+import { ElencoFaq } from '@/components/scheda/Faq'
 import type { Destinazione } from '@/lib/types'
 import type { Lingua } from '@/lib/i18n/config'
 
@@ -34,13 +35,13 @@ export function LuoghiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) 
   const t = T[lingua]
   return (
     <div>
-      <TitoloSezione icona={MapPin}>{t.luoghi}</TitoloSezione>
+      <TitoloSezione>{t.luoghi}</TitoloSezione>
       <ol className="mt-6 space-y-5">
         {d.luoghi.map((l, i) => (
-          <li key={l.nome} id={`luogo-${i + 1}`} className="scroll-mt-24 border-2 border-ink bg-cream p-5 sm:p-7">
+          <li key={l.nome} id={`luogo-${i + 1}`} className="scheda-lista scroll-mt-24 p-5 sm:p-7">
             <div className="flex items-baseline gap-3">
               <span aria-hidden className="font-display text-2xl leading-none text-rosso tabular-nums">{String(i + 1).padStart(2, '0')}</span>
-              <h3 className="font-display text-xl text-alpine sm:text-2xl">{l.nome}</h3>
+              <h3 className="titolo-scheda text-alpine">{l.nome}</h3>
             </div>
             <p className="mt-3 max-w-[70ch] leading-relaxed text-stone">{l.testo}</p>
             <dl className="mt-5 grid gap-4 sm:grid-cols-2">
@@ -87,11 +88,11 @@ export function ProgrammiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua 
   const t = T[lingua]
   return (
     <div>
-      <TitoloSezione icona={Route}>{t.programmi}</TitoloSezione>
-      <div className="mt-6 grid gap-4 md:grid-cols-3">
+      <TitoloSezione>{t.programmi}</TitoloSezione>
+      <div className="mt-6 grid gap-4 md:grid-cols-[repeat(auto-fit,minmax(18rem,1fr))]">
         {d.programmi.map((p) => (
-          <div key={p.titolo} className="border border-alpine/15 bg-white p-5">
-            <h3 className="font-display text-lg text-alpine">{p.titolo}</h3>
+          <div key={p.titolo} className="scheda-lista p-5">
+            <h3 className="titolo-scheda text-alpine">{p.titolo}</h3>
             <ol className="mt-3 space-y-2">
               {p.tappe.map((x, i) => (
                 <li key={x} className="flex gap-3 text-[0.95rem] leading-relaxed text-ink">
@@ -113,11 +114,11 @@ export function ZoneSaporiAttenzioni({ d, lingua }: { d: Destinazione; lingua: L
     <>
       {d.zone?.length ? (
         <div>
-          <TitoloSezione icona={BedDouble}>{t.zone}</TitoloSezione>
+          <TitoloSezione>{t.zone}</TitoloSezione>
           <ul className="mt-6 grid gap-4 md:grid-cols-2">
             {d.zone.map((z) => (
-              <li key={z.nome} className="border border-alpine/15 bg-white p-5">
-                <h3 className="font-display text-lg text-alpine">{z.nome}</h3>
+              <li key={z.nome} className="scheda-lista p-5">
+                <h3 className="titolo-scheda text-alpine">{z.nome}</h3>
                 <p className="mt-1 text-[11px] font-semibold uppercase tracking-wider text-rosso">
                   {t.perChi}: <span className="normal-case tracking-normal text-stone">{z.perChi}</span>
                 </p>
@@ -135,7 +136,7 @@ export function ZoneSaporiAttenzioni({ d, lingua }: { d: Destinazione; lingua: L
       ) : null}
       {d.sapori?.length ? (
         <div>
-          <TitoloSezione icona={Utensils}>{t.sapori}</TitoloSezione>
+          <TitoloSezione>{t.sapori}</TitoloSezione>
           <ul className="mt-6 grid gap-x-8 gap-y-4 sm:grid-cols-2">
             {d.sapori.map((x) => (
               <li key={x.nome}>
@@ -146,21 +147,7 @@ export function ZoneSaporiAttenzioni({ d, lingua }: { d: Destinazione; lingua: L
           </ul>
         </div>
       ) : null}
-      {d.attenzioni?.length ? (
-        <div className="border-2 border-rosso bg-rosso/[0.04] p-5 sm:p-6">
-          <h2 className="flex items-center gap-2.5 font-display text-xl text-rosso sm:text-2xl">
-            <AlertTriangle size={20} aria-hidden /> {t.attenzioni}
-          </h2>
-          <ul className="mt-4 space-y-3">
-            {d.attenzioni.map((x) => (
-              <li key={x} className="flex gap-3 leading-relaxed text-ink">
-                <span aria-hidden className="mt-2.5 size-1.5 shrink-0 bg-rosso" />
-                <span>{x}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      ) : null}
+      {d.attenzioni?.length ? <RiquadroAvviso titolo={t.attenzioni} voci={d.attenzioni} /> : null}
     </>
   )
 }
@@ -170,11 +157,11 @@ export function GiteGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
   const t = T[lingua]
   return (
     <div>
-      <TitoloSezione icona={Compass}>{t.gite}</TitoloSezione>
+      <TitoloSezione>{t.gite}</TitoloSezione>
       <ul className="mt-6 grid gap-4 md:grid-cols-2">
         {d.gite.map((g) => (
-          <li key={g.nome} className="border border-alpine/15 bg-white p-5">
-            <h3 className="font-display text-lg text-alpine">{g.nome}</h3>
+          <li key={g.nome} className="scheda-lista p-5">
+            <h3 className="titolo-scheda text-alpine">{g.nome}</h3>
             <p className="mt-1 text-[11px] font-semibold uppercase tracking-wider text-rosso">
               {g.distanza} · <span className="normal-case tracking-normal text-stone">{g.come}</span>
             </p>
@@ -191,19 +178,8 @@ export function FaqGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
   const t = T[lingua]
   return (
     <div className="max-w-4xl">
-      <TitoloSezione icona={HelpCircle}>{t.faq}</TitoloSezione>
-      <div className="mt-6 divide-y divide-ink/10 border-y border-ink/10">
-        {d.faq.map((f) => (
-          <details key={f.domanda} className="group py-4">
-            <summary className="cursor-pointer list-none font-semibold text-ink marker:hidden">
-              <span className="mr-2 text-rosso group-open:hidden">+</span>
-              <span className="mr-2 hidden text-rosso group-open:inline">−</span>
-              {f.domanda}
-            </summary>
-            <p className="mt-3 leading-relaxed text-stone">{f.risposta}</p>
-          </details>
-        ))}
-      </div>
+      <TitoloSezione>{t.faq}</TitoloSezione>
+      <ElencoFaq voci={d.faq.map((f) => ({ domanda: f.domanda, risposta: <p>{f.risposta}</p> }))} />
     </div>
   )
 }

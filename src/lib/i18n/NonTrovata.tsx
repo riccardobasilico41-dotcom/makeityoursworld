@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useSyncExternalStore } from 'react'
+import { createContext, useContext, useEffect, useSyncExternalStore, type ReactNode } from 'react'
 
 /*
  * La pagina 404 lo dice al selettore della lingua (che sta nell'header, nel layout, e da solo non lo sa):
@@ -29,9 +29,22 @@ export function SegnaNonTrovata() {
   return null
 }
 
-export const usePaginaNonTrovata = () =>
-  useSyncExternalStore(
+/*
+ * La 404 globale (global-not-found.tsx) avvolge header e pagina: lì il selettore sa di essere su una 404
+ * già nel rendering sul server, e l'HTML punta subito alla home delle altre lingue (anche senza JavaScript).
+ */
+const NonTrovataCtx = createContext(false)
+
+export function NonTrovataProvider({ children }: { children: ReactNode }) {
+  return <NonTrovataCtx.Provider value>{children}</NonTrovataCtx.Provider>
+}
+
+export function usePaginaNonTrovata() {
+  const globale = useContext(NonTrovataCtx)
+  const segnata = useSyncExternalStore(
     iscrivi,
     () => nonTrovata,
     () => false
   )
+  return globale || segnata
+}

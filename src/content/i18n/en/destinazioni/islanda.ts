@@ -735,7 +735,7 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     attenzioni: [
       "Reynisfjara: sneaker waves, stay away from the water.",
-      "On the glacier go only with licensed guides: crampons and ice axe are really needed.",
+      "On the glacier go only with licensed guides: crampons and an ice axe are essential.",
       "Check the wind before leaving: strong gusts can damage car doors, a damage not covered by basic insurance."
     ],
     zone: [
@@ -1187,7 +1187,7 @@ export const destinazioniIslanda: Destinazione[] = [
       { nome: "Stuðlagil", distanza: "about an hour by car", come: "By car north-west, last stretch on gravel.", testo: "The canyon of basalt columns and turquoise water, the natural first stop on the way to Dettifoss and Ásbyrgi." },
     ],
     faq: [
-      { domanda: "How long do the East Fjords take?", risposta: "From Höfn to Egilsstaðir is about 250 km: three or four hours on paper, five or six in practice with stops. Give it a whole day with nothing else planned." },
+      { domanda: "How long do the East Fjords take?", risposta: "From Höfn to Egilsstaðir is about 250 km: three or four hours on paper, five or six in reality with stops. Give it a whole day with nothing else planned." },
       { domanda: "Do you need to book Vök Baths?", risposta: "It is wise, especially in summer and late afternoon: entry is by time slot with limited places. Adult tickets cost 7,690 ISK." },
       { domanda: "Is the detour to Seyðisfjörður worth it?", risposta: "Yes, if the Fjarðarheiði pass is open: 27 km with waterfalls along the road and one of the island's prettiest fjord villages. From autumn to spring snow can close the pass." },
       { domanda: "Can you take the Öxi shortcut?", risposta: "In summer, yes, with a normal car and care: it is gravel and steep. From autumn to spring it often closes for snow or fog; check its status on road.is." },
@@ -2182,7 +2182,7 @@ export const destinazioniIslanda: Destinazione[] = [
         risposta: "The Blue Lagoon is near the airport and handy on arrival or departure; Sky Lagoon is a quarter of an hour from the centre and faces the ocean. Both are booked online.",
       },
       {
-        domanda: "Are the city pools worth it?",
+        domanda: "Should you go to the city pools?",
         risposta: "Yes: they cost 1,500 ISK and are the most Icelandic way to spend an evening. Before going in you shower without a swimsuit, and it's compulsory.",
       },
       {

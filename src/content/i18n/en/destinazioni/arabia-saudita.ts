@@ -62,7 +62,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
               "It's the airport where those using the Saudia or flynas stopover visa land",
             ],
             contro: ['Heavy heat and humidity almost all year', 'Farther from the Asir and the east of the country', 'A spread-out city where you get around only by car'],
-            perChi: "Anyone coming for the first time or with few days. With a four-day stopover visa it's practically the only sensible choice.",
+            perChi: "Anyone coming for the first time or with few days. With a four-day stopover visa it's the only sensible choice.",
           },
           {
             nome: 'Enter through Riyadh',

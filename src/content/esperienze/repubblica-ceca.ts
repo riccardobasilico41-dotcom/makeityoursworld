@@ -13,6 +13,7 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     paeseSlug: 'repubblica-ceca',
     destinazioneSlug: 'praga',
     nome: 'Percorso dei visitatori del Castello di Praga e Cattedrale di San Vito',
+    titoloBreve: 'Castello di Praga e Cattedrale di San Vito',
     localita: 'Hradčany, colle del Castello, Praga',
     cosE:
       'Il "Circuito A" (Main Visitor Route) è il biglietto che copre le principali attrazioni del complesso: l\'interno della Cattedrale di San Vito, il Vecchio Palazzo Reale, la Basilica di San Giorgio e il Vicolo d\'Oro con la Torre Daliborka. I cortili del Castello e la navata esterna della Cattedrale restano gratuiti; il biglietto serve solo per le sale interne.',

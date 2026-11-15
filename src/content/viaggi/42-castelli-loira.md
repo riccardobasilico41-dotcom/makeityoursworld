@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-La regola d'oro qui è non vederne troppi: cinque o sei castelli in sei giorni, scelti per tipo e non per fama, con una giornata intera lasciata alla bicicletta lungo il fiume, che è il modo in cui questo paesaggio patrimonio UNESCO va davvero attraversato.
+La regola qui è non vederne troppi: cinque o sei castelli in sei giorni, scelti per tipo e non per fama, con una giornata intera lasciata alla bicicletta lungo il fiume, che è il modo migliore per attraversare questo paesaggio patrimonio UNESCO.
 
 ## Scheda pratica
 - **Quando andare:** aprile-giugno per i giardini in fiore, settembre-ottobre per i colori e meno folla.

@@ -6,6 +6,7 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     paeseSlug: 'repubblica-ceca',
     destinazioneSlug: 'praga',
     nome: 'Recorrido de visitantes del Castillo de Praga y Catedral de San Vito',
+    titoloBreve: 'Castillo de Praga y Catedral de San Vito',
     localita: 'Hradčany, colina del Castillo, Praga',
     cosE:
       "El «Circuito A» (Main Visitor Route) es la entrada que cubre las principales atracciones del complejo: el interior de la Catedral de San Vito, el Antiguo Palacio Real, la Basílica de San Jorge y el Callejón del Oro con la Torre Daliborka. Los patios del Castillo y la nave exterior de la Catedral siguen siendo gratuitos; la entrada sirve solo para las salas interiores.",

@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Italy is the world's largest wine producer and has over five hundred catalogued native varieties: more than any other country, and not by a little. Three wine landscapes are UNESCO heritage. But the reason this theme works as a trip isn't the wine itself: it's that wine is the best pretext for crossing agricultural Italy instead of monumental Italy, and for talking with the people who make things instead of the ones who tell the story. In an Italian winery, unlike many French regions, the person who receives you is almost always the one who makes the wine, and that completely changes the kind of conversation. On one condition, which is also the only real rule of this itinerary: **you book, you don't just show up.**
+Italy is the world's largest wine producer and has over five hundred catalogued native varieties: more than any other country, and not by a little. Three wine landscapes are UNESCO heritage. As a trip, though, wine works mostly as a pretext: it is the best way to cross agricultural Italy instead of monumental Italy, and for talking with the people who make things instead of the ones who tell the story. In an Italian winery, unlike many French regions, the person who receives you is almost always the one who makes the wine, and that completely changes the kind of conversation. On one condition, which is also the only real rule of this itinerary: **you book, you don't just show up.**
 
 *My memory: choosing the winery is impossible, it's far too personal. It depends on your taste, your budget and the experience you're after: something more refined or something more authentic.*
 
@@ -117,7 +117,7 @@ From the Val d'Orcia to Florence it's a little under two hours, along the Via Ca
 - **Langhe:** agriturismi among the hills, often run by wine estates. High prices in season, especially during the truffle fair.
 - **Valpolicella:** estates with hospitality in the classic area, which is small and can be toured in half an hour.
 - **Chianti and Montalcino:** wine resorts and agriturismi. It's the priciest and most touristy area of the itinerary.
-- **General note:** in Irpinia, Vulture and Valtellina you spend a fraction for similar quality, and that's why those extensions are worth it.
+- **General note:** in Irpinia, Vulture and Valtellina you spend a fraction for similar quality, and that's why it pays to add those extensions.
 
 ## Dove abbiamo mangiato
 - **Langhe:** tajarin, hand-chopped raw meat, vitello tonnato, plin, and white truffle in season. It's the richest cuisine of the itinerary.

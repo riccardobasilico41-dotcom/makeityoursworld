@@ -2,14 +2,14 @@
 
 **Stato bozza:** 🟡 in lavorazione (zone, dislivelli e informazioni pratiche verificate e aggiornate; ricordi diretti aggiunti per Seceda, Tre Cime, Lagazuoi e Pale di San Martino)
 **Periodo del viaggio:**
-**Durata:** modulare — da un weekend su una zona sola a un giro completo di due settimane. Tre proposte pronte più sotto.
+**Durata:** modulare, da un weekend su una zona sola a un giro completo di due settimane. Tre proposte pronte più sotto.
 **Compagni di viaggio:** con amici, in autonomia, in auto
 **Categoria:** Europa · Italia · Dolomiti · roadtrip · trekking · sci · montagna
 
 ---
 
 ## Apertura personale
-Le Dolomiti sono patrimonio UNESCO dal 2009, e la motivazione ufficiale non parla di bellezza: parla di geologia. Sono barriere coralline di un mare tropicale di duecentocinquanta milioni di anni fa, sollevate, spaccate e rimaste in piedi come pareti verticali che conservano la stratificazione a vista. Sono anche, tecnicamente, nove sistemi montuosi separati distribuiti su tre province (Bolzano, Trento, Belluno), e questo è il punto che la maggior parte delle guide salta: le Dolomiti non sono un posto, sono un arcipelago di posti che si assomigliano nella sostanza della roccia e sono completamente diversi nell'atmosfera, nel prezzo e nella quantità di gente.
+Le Dolomiti sono patrimonio UNESCO dal 2009, e la motivazione ufficiale è la geologia, non il paesaggio. Sono barriere coralline di un mare tropicale di duecentocinquanta milioni di anni fa, sollevate, spaccate e rimaste in piedi come pareti verticali che conservano la stratificazione a vista. Sono anche, tecnicamente, nove sistemi montuosi separati distribuiti su tre province (Bolzano, Trento, Belluno), e questo è il punto che la maggior parte delle guide salta: le Dolomiti sono un arcipelago di posti che si assomigliano nella sostanza della roccia e sono completamente diversi nell'atmosfera, nel prezzo e nella quantità di gente.
 
 Per questo qui sotto non troverai un itinerario a giorni fissi. Troverai dieci zone trattate come luoghi a sé, ciascuna con quello che c'è da sapere per decidere se e quando inserirla nel proprio giro, più tre proposte di roadtrip già assemblate per chi vuole solo un punto di partenza. Il roadtrip in auto è il formato che ha più senso qui: le zone sono vicine in linea d'aria ma separate da passi di montagna, e spostarsi da una all'altra è già parte dell'esperienza: o del problema, se capita nell'ora sbagliata d'agosto.
 
@@ -101,7 +101,7 @@ Le proposte più impegnative di questa guida, con dislivello e difficoltà indic
 - **Giro del Sella a piedi (Sella Ronda escursionistica)**: multi-giorno, tappe da 5-6 ore ciascuna con 600-900 metri di dislivello, per chi vuole fare l'anello dei quattro passi camminando invece che in auto.
 - **Ferrata verso la Marmolada (versante Ferrata Ivano Dibona o simili sui gruppi vicini)**: hard, forte esposizione, riservata a chi ha già esperienza di ferrata e va fatta con una guida alpina la prima volta.
 
-**La prima volta su una ferrata si va con una guida alpina.** È la causa più frequente di chiamata al soccorso alpino in Dolomiti, e non è un consiglio da vademecum: è quello che dicono i rifugisti a chiunque arrivi senza kit adeguato.
+**La prima volta su una ferrata si va con una guida alpina.** È la causa più frequente di chiamata al soccorso alpino in Dolomiti, e i rifugisti lo ripetono a chiunque arrivi senza kit adeguato.
 
 ### Per chi cerca il panorama senza soffrire
 ![Il panorama dell'Alpe di Siusi con le Dolomiti sullo sfondo](/images/viaggi/dolomiti-roadtrip/alpe-di-siusi.jpg)
@@ -120,7 +120,7 @@ Le Dolomiti d'inverno sono un mondo diverso da quello estivo, con un pubblico in
 
 **Ciaspole e passeggiate invernali:** l'Alpe di Siusi e la Valle di Braies, che d'estate soffrono di troppa gente, d'inverno diventano percorsi silenziosi per le ciaspole. Il lago ghiacciato di Braies, in particolare, è uno spettacolo diverso da quello estivo, spesso con molta meno gente.
 
-**Mercatini di Natale:** Brunico e Vipiteno hanno mercatini di Natale tra i più autentici dell'Alto Adige, meno scenografici di quelli di Bolzano ma anche meno affollati.
+**Mercatini di Natale:** Brunico e Vipiteno hanno mercatini di Natale tra i più tradizionali dell'Alto Adige, meno scenografici di quelli di Bolzano ma anche meno affollati.
 
 **Arrampicata su ghiaccio e cascate ghiacciate:** attività di nicchia ma in crescita, soprattutto in Val Pusteria e Val Gardena, per chi cerca qualcosa di diverso dallo sci.
 

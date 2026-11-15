@@ -1,7 +1,6 @@
 import { ArrowRight, CalendarDays, Clock, Compass, Wallet } from 'lucide-react'
 import { InfoPratiche } from './scheda/Blocchi'
 import { HeaderAction, PageHeader } from './ui/PageHeader'
-import { Container } from './ui/Container'
 import type { Media } from './ui/HeaderMedia'
 import { copertina as copertinaViaggio } from '@/lib/i18n/contenuti'
 import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
@@ -91,30 +90,7 @@ export async function CountryHero({
         pieno
         credito={credito}
       />
-      {rapide.length > 0 && (
-        <section aria-labelledby="info-rapide" className="border-b border-alpine/10 py-6 sm:py-8">
-          <Container>
-            <h2 id="info-rapide" className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">
-              {t.rapide}
-            </h2>
-            <dl className="mt-3 grid grid-cols-2 gap-px border-2 border-ink bg-ink lg:grid-cols-4">
-              {rapide.map(({ label, value, icona: Icona }, i) => (
-                // con un numero dispari di voci l'ultima occupa la riga intera su due colonne
-                <div
-                  key={label}
-                  className={`min-w-0 bg-white p-3 sm:p-4 ${rapide.length % 2 === 1 && i === rapide.length - 1 ? 'col-span-2 lg:col-span-1' : ''}`}
-                >
-                  <dt className="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-wider text-stone/85">
-                    <Icona size={14} aria-hidden className="shrink-0 text-rosso" />
-                    {label}
-                  </dt>
-                  <dd className="mt-1 text-sm leading-snug text-ink [overflow-wrap:anywhere]">{value}</dd>
-                </div>
-              ))}
-            </dl>
-          </Container>
-        </section>
-      )}    </>
+      {rapide.length > 0 && <InfoPratiche id="info-rapide" titolo={t.rapide} voci={rapide} avviso={false} />}    </>
   )
 }
 

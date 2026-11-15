@@ -761,7 +761,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Alba sul Gunung Batur",
         testo: "Un trekking notturno che porta in cima al vulcano, 1.717 metri, per l'alba sulla caldera e sul lago Batur. La salita è di qualche ora e non è tecnica.",
-        come: "Con una guida locale, in pratica obbligatoria, partendo da Toya Bungkah o dai villaggi vicini; molte agenzie passano a prendere in hotel tra le 2 e le 3 di notte.",
+        come: "Con una guida locale, di fatto obbligatoria, partendo da Toya Bungkah o dai villaggi vicini; molte agenzie passano a prendere in hotel tra le 2 e le 3 di notte.",
         quando: "Partenza nel cuore della notte per essere in cima all'alba.",
         tempo: "Mezza giornata",
         costo: "Permesso circa 100.000 IDR a persona, circa 5,5 €, più la guida.",
@@ -2178,7 +2178,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         titolo: 'Dove dormire a Raja Ampat: homestay, resort o liveaboard?',
         introduzione:
-          'Con un arcipelago fatto quasi solo di isole e nessuna vera città, dove si dorme decide gran parte del viaggio: budget, contatto con le comunità locali e quali punti del parco si riesce davvero a raggiungere.',
+          'Con un arcipelago fatto quasi solo di isole e nessuna vera città, dove si dorme decide gran parte del viaggio: budget, contatto con le comunità locali e quali punti del parco si riesce a raggiungere.',
         opzioni: [
           {
             nome: 'Homestay',
@@ -2236,7 +2236,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      'È il posto più bello che ho visto sott\'acqua, e anche il più faticoso da raggiungere: due voli, un traghetto e una barca, con costi che non somigliano al resto dell\'Indonesia. La differenza però si vede al primo snorkeling: una densità di pesce come quella del reef di Arborek, a venti metri dalla riva, altrove non c\'è più. Le correnti sono forti e vanno rispettate sul serio: certi punti si fanno solo negli orari giusti. Dormire negli homestay invece che nei resort è la scelta che vale la pena fare, perché quel modello, più ancora del prezzo, è ciò che tiene in piedi la protezione del parco. Piaynemo al tramonto, con le scale di legno e la piattaforma affollata, è l\'unico momento in cui si incontra qualcun altro. Ci siamo stati ad agosto 2026, che su tutte le guide è segnato come la stagione sbagliata. In parte lo è, ma in modo diverso da come ci si aspetta: il mare è stato clamoroso lo stesso, dieci giorni senza vedere una goccia di pioggia. Il vento invece si è fatto sentire: ha allungato un paio di trasferimenti tra le isole e ci ha fatto saltare un\'uscita in una zona più esposta. L\'altro conto da fare è sui grandi pelagici: mante e squali d\'estate sono molto più rari, perché la risalita di acque ricche di plancton che li richiama è soprattutto un fenomeno invernale. Con i reef pieni di pesce comunque e pochissimi altri turisti in giro, è stato un compromesso di cui non mi pento.',
+      'È il posto più bello che ho visto sott\'acqua, e anche il più faticoso da raggiungere: due voli, un traghetto e una barca, con costi che non somigliano al resto dell\'Indonesia. La differenza però si vede al primo snorkeling: una densità di pesce come quella del reef di Arborek, a venti metri dalla riva, altrove non c\'è più. Le correnti sono forti e vanno rispettate sul serio: certi punti si fanno solo negli orari giusti. Dormire negli homestay invece che nei resort è la scelta giusta, perché quel modello, più ancora del prezzo, è ciò che tiene in piedi la protezione del parco. Piaynemo al tramonto, con le scale di legno e la piattaforma affollata, è l\'unico momento in cui si incontra qualcun altro. Ci siamo stati ad agosto 2026, che su tutte le guide è segnato come la stagione sbagliata. In parte lo è, ma in modo diverso da come ci si aspetta: il mare è stato clamoroso lo stesso, dieci giorni senza vedere una goccia di pioggia. Il vento invece si è fatto sentire: ha allungato un paio di trasferimenti tra le isole e ci ha fatto saltare un\'uscita in una zona più esposta. L\'altro conto da fare è sui grandi pelagici: mante e squali d\'estate sono molto più rari, perché la risalita di acque ricche di plancton che li richiama è soprattutto un fenomeno invernale. Con i reef pieni di pesce comunque e pochissimi altri turisti in giro, è stato un compromesso di cui non mi pento.',
     luoghi: [
       {
         nome: "Piaynemo",

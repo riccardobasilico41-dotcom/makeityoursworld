@@ -98,7 +98,7 @@ export const destinazioniCina: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      'Pechino è la città che chiede più preparazione di tutto il viaggio, e ripaga subito chi l\'ha fatta. La Città Proibita è più grande di qualsiasi aspettativa, ed è il suo pregio e il suo limite: la si attraversa cortile dopo cortile in una direzione sola, insieme a migliaia di persone, e dopo la terza sala del trono mi sono accorto di guardare senza vedere. Il trucco è uscire dalla via centrale e infilarsi nei palazzi laterali a est: non ci va quasi nessuno e le sale sono piccole, a misura di persona. Il Tempio del Cielo al mattino presto invece non delude mai, e non per il tempio. Nel parco attorno centinaia di pensionati ballano, cantano in coro, giocano a carte e fanno esercizi con la spada: è la scena più bella e meno turistica della città. Sugli hutong va detta la verità. Quelli attorno a Houhai ormai sono bar e negozi; la vita vera è nei vicoli due isolati più in là, ed è lì che vale la pena perdersi. E se avete tempo, andate al Tempio dei Lama: è meno iconico, ma per me è bellissimo.',
+      'Pechino è la città che chiede più preparazione di tutto il viaggio, e ripaga subito chi l\'ha fatta. La Città Proibita è più grande di qualsiasi aspettativa, ed è il suo pregio e il suo limite: la si attraversa cortile dopo cortile in una direzione sola, insieme a migliaia di persone, e dopo la terza sala del trono mi sono accorto di guardare senza vedere. Il trucco è uscire dalla via centrale e infilarsi nei palazzi laterali a est: non ci va quasi nessuno e le sale sono piccole, a misura di persona. Il Tempio del Cielo al mattino presto invece non delude mai, e non per il tempio. Nel parco attorno centinaia di pensionati ballano, cantano in coro, giocano a carte e fanno esercizi con la spada: è la scena più bella e meno turistica della città. Sugli hutong va detta la verità. Quelli attorno a Houhai ormai sono bar e negozi; la vita vera è nei vicoli due isolati più in là, ed è lì che conviene perdersi. E se avete tempo, andate al Tempio dei Lama: è meno iconico, ma per me è bellissimo.',
     luoghi: [
       {
         nome: "Città Proibita",
@@ -1201,7 +1201,7 @@ export const destinazioniCina: Destinazione[] = [
       'Contare su pagamenti in contanti o su personale che parli inglese: qui Alipay o WeChat Pay e il traduttore sono indispensabili',
     ],
     miaEsperienza:
-      'È la tappa che nessuno mette in itinerario, e invece resta. Di giorno Furong Zhen è quello che ci si aspetta: pullman, bancarelle, la stessa merce di ogni borgo cinese ricostruito. Verso le sei di sera però i gruppi ripartono tutti insieme, le luci si accendono sulla cascata e il paese torna a essere quattro strade di pietra bagnata, con qualche famiglia che cena sull\'uscio. Il ricordo più forte è il camminamento dietro il salto d\'acqua: si cammina in un corridoio scavato nella roccia, con il rumore dell\'acqua a un metro, e si esce fradici di spruzzi. Come borgo storico è in gran parte rimesso a nuovo, quindi chi cerca architettura autentica resterà deluso. Qui contano la posizione, che è unica, e l\'ora del giorno in cui lo si guarda.',
+      'È la tappa che nessuno mette in itinerario, e invece resta. Di giorno Furong Zhen è quello che ci si aspetta: pullman, bancarelle, la stessa merce di ogni borgo cinese ricostruito. Verso le sei di sera però i gruppi ripartono tutti insieme, le luci si accendono sulla cascata e il paese torna a essere quattro strade di pietra bagnata, con qualche famiglia che cena sull\'uscio. Il ricordo più forte è il camminamento dietro il salto d\'acqua: si cammina in un corridoio scavato nella roccia, con il rumore dell\'acqua a un metro, e si esce fradici di spruzzi. Come borgo storico è in gran parte rimesso a nuovo, quindi chi cerca architettura originale resterà deluso. Qui contano la posizione, che è unica, e l\'ora del giorno in cui lo si guarda.',
     luoghi: [
       {
         nome: "Cascata e camminamento",
@@ -1740,7 +1740,7 @@ export const destinazioniCina: Destinazione[] = [
         nome: "Crociera sulle Tre Gole",
         distanza: "3-4 giorni fino a Yichang",
         come: "Navi da crociera dai moli di Chongqing, da prenotare con anticipo.",
-        testo: "La crociera sullo Yangtze attraverso le Tre Gole fino alla grande diga: non è una gita in giornata, ma parte da qui.",
+        testo: "La crociera sullo Yangtze attraverso le Tre Gole fino alla grande diga: dura più di un giorno, ma parte da qui.",
       },
     ],
     esperienzeSlugs: ['hongya-dong-notte'],

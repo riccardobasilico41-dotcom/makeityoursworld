@@ -64,7 +64,7 @@ export async function DayTimeline({
 
         return (
           <Reveal key={giorno.titolo}>
-            <li className="rounded-none border border-alpine/10 bg-white p-6 sm:p-7">
+            <li className="scheda-lista p-6 sm:p-7">
               <div className="flex flex-wrap items-start justify-between gap-3">
                 <div className="flex items-center gap-3">
                   <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-alpine font-display text-sm font-semibold text-cream">

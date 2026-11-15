@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:**
-**Durata:** 9 días, 8 noches — divisible en dos bloques de 4-5
+**Durata:** 9 días, 8 noches, divisible en dos bloques de 4-5
 **Compagni di viaggio:** con amigos, por libre, **sin coche**, todo en ferri, autobús y a pie
 **Categoria:** Europa · Italia · Campania · mare · trekking · isole
 

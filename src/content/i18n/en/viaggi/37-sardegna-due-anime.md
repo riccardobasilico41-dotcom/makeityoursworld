@@ -2,7 +2,7 @@
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified; the first-person passages are written as a draft to reread and personalize)
 **Periodo del viaggio:**
-**Durata:** 14 days, 13 nights — by car, crossing the island on the diagonal
+**Durata:** 14 days and 13 nights by car, crossing the island on the diagonal
 **Compagni di viaggio:** with friends, independent, with a rental car
 **Categoria:** Europa · Italia · Sardegna · mare · archeologia · trekking
 

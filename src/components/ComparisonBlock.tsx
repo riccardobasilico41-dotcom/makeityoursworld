@@ -26,7 +26,7 @@ export async function ComparisonBlock({ confronto }: { confronto: Confronto }) {
 
         <div className="mt-8 grid gap-5 lg:grid-cols-2">
           {confronto.opzioni.map((opzione) => (
-            <div key={opzione.nome} className="flex flex-col rounded-none border border-alpine/10 bg-white p-5">
+            <div key={opzione.nome} className="flex flex-col scheda-lista p-5">
               <h4 className="font-display text-lg font-medium text-alpine">{opzione.nome}</h4>
               <p className="mt-2 text-sm leading-relaxed text-stone">{richNodes(opzione.sintesi)}</p>
 

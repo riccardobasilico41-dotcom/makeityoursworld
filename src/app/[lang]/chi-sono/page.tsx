@@ -153,7 +153,7 @@ export default async function ChiSonoPage() {
                 [t.progetti, t.progettiTesto],
               ].map(([titolo, testo]) => (
                 <div key={titolo} className="border-t-2 border-ink pt-5">
-                  <h2 className="font-display text-2xl text-alpine">{titolo}</h2>
+                  <h2 className="titolo-sezione text-alpine">{titolo}</h2>
                   <p className="mt-3 max-w-[60ch] text-lg leading-relaxed text-stone">{testo}</p>
                 </div>
               ))}

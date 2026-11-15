@@ -13,7 +13,7 @@ Rome is the city where the average tourist struggles most, and almost always for
 
 Four days is the minimum to do it without rushing: one for the ancient city, one for the Vatican, one for the baroque center, one for the Rome that doesn't end up on postcards. Two days can be done (and below there's the version), but they must be done with an explicit sacrifice, decided before leaving and not improvised in the middle of the street with aching feet.
 
-What really changes the experience isn't which monuments you choose: it's **booking everything a month ahead**. In Rome the two entries that truly sell out (the Borghese Gallery and the Colosseum's special areas) cannot be recovered on the same day by any means.
+More than your choice of monuments, what counts is **booking everything a month ahead**. In Rome the two entries that always sell out (the Borghese Gallery and the Colosseum's special areas) cannot be recovered on the same day by any means.
 
 ## Scheda pratica
 - **When to go:** **April, May, early June, October and November.** July and August are scorching and the center has no shade; in August many historic neighborhood businesses close for vacation. Winter is cold but manageable and not crowded, though the short days limit visits.

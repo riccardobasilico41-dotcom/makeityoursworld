@@ -832,7 +832,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Canale e porto",
-        testo: "Il villaggio si sviluppa su piccole isole unite da ponti, con case di legno colorate e vecchi magazzini del pesce. L'atmosfera da piccola Venezia c'è davvero sul canale.",
+        testo: "Il villaggio si sviluppa su piccole isole unite da ponti, con case di legno colorate e vecchi magazzini del pesce. Sul canale l'atmosfera da piccola Venezia si sente.",
         come: "A piedi dal parcheggio.",
         quando: "Mattina, prima dei gruppi.",
         tempo: "1-2 ore",
@@ -1033,7 +1033,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveMangiare: 'A Reine non mi sono segnato ristoranti: la Coop Prix del paese è comoda per organizzare un pranzo al sacco prima delle escursioni.',
     comeArrivare: "Da Svolvær via Leknes (con tappa al Viking Museum di Borg), circa 55 minuti d'auto da Svolvær fino a Borg, poi altri 20-30 minuti fino a Reine. Da Bodø c'è il traghetto per Moskenes, a pochi minuti da Reine: circa 3 ore e un quarto di navigazione, l'auto paga intorno ai 600 NOK più la prenotazione del posto (d'estate da fare sul sito di Torghatten Nord), i passeggeri viaggiano gratis; al porto conviene arrivare 40 minuti prima. Da Svolvær sono 121 km lungo la E10, circa 2 ore e 10 senza soste.",
     comeSpostarsi: 'Parcheggio a pagamento in paese (200 NOK/3h).',
-    periodoMigliore: 'Il Reinebringen vale la pena solo con cielo sereno: controllare le previsioni prima di programmare la giornata.',
+    periodoMigliore: 'Il Reinebringen ha senso solo con cielo sereno: controllare le previsioni prima di programmare la giornata.',
     costi: "Parcheggio 200 NOK/3h. Le scale del Reinebringen sono gratuite. Riferimenti 2026: Lofotr 210 NOK fuori stagione, museo di Å 125 NOK. Indicativamente, a persona al giorno: 80-120 € in campeggio o cabina con spesa al supermercato; 200-280 € con un rorbu in due e una cena fuori; oltre 350 € con rorbu curati e ristorante ogni sera.",
     erroriDaEvitare: [
       'Il Reinebringen richiede un minimo di allenamento per il dislivello; se il cielo è coperto, meglio rimandarlo, perché la vista è tutto',

@@ -735,7 +735,7 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     attenzioni: [
       "Reynisfjara: olas anómalas, mantenerse lejos del agua.",
-      "En el glaciar ir solo con guías autorizados: crampones y piolet hacen falta de verdad.",
+      "En el glaciar ir solo con guías autorizados: crampones y piolet son imprescindibles.",
       "Comprobar el viento antes de salir: las ráfagas fuertes pueden dañar las puertas del coche, un daño no cubierto por el seguro básico."
     ],
     zone: [
@@ -1187,7 +1187,7 @@ export const destinazioniIslanda: Destinazione[] = [
       { nome: "Stuðlagil", distanza: "una hora en coche aproximadamente", come: "En coche hacia el noroeste, último tramo de grava.", testo: "El cañón de columnas de basalto y agua turquesa, primera parada natural camino de Dettifoss y Ásbyrgi." },
     ],
     faq: [
-      { domanda: "¿Cuánto tiempo hace falta para los fiordos del Este?", risposta: "De Höfn a Egilsstaðir hay unos 250 km: tres o cuatro horas sobre el papel, cinco o seis en la práctica con las paradas. Conviene dedicarle un día entero sin otros planes." },
+      { domanda: "¿Cuánto tiempo hace falta para los fiordos del Este?", risposta: "De Höfn a Egilsstaðir hay unos 250 km: tres o cuatro horas sobre el papel, cinco o seis en la realidad con las paradas. Conviene dedicarle un día entero sin otros planes." },
       { domanda: "¿Hay que reservar Vök Baths?", risposta: "Conviene, sobre todo en verano y a última hora de la tarde: la entrada es por franjas horarias con plazas limitadas. La entrada de adulto cuesta 7.690 ISK." },
       { domanda: "¿Vale la pena el desvío a Seyðisfjörður?", risposta: "Sí, si el paso Fjarðarheiði está abierto: son 27 km con cascadas en el camino y uno de los pueblos de fiordo más bonitos de la isla. De otoño a primavera la nieve puede cerrar el paso." },
       { domanda: "¿Se puede tomar el atajo de Öxi?", risposta: "En verano sí, con un coche normal y prudencia: es de grava y empinada. De otoño a primavera cierra a menudo por nieve o niebla; su estado se consulta en road.is." },
@@ -2182,7 +2182,7 @@ export const destinazioniIslanda: Destinazione[] = [
         risposta: "La Blue Lagoon está cerca del aeropuerto y es cómoda a la llegada o a la salida; la Sky Lagoon está a un cuarto de hora del centro y mira al océano. Las dos se reservan en línea.",
       },
       {
-        domanda: "¿Merecen la pena las piscinas municipales?",
+        domanda: "¿Conviene ir a las piscinas municipales?",
         risposta: "Sí: cuestan 1.500 ISK y son la forma más islandesa de pasar la tarde. Antes de entrar hay que ducharse sin bañador, y es obligatorio.",
       },
       {

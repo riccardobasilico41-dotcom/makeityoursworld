@@ -64,7 +64,7 @@ The ferry to **Menorca**, often with a stop or change in Mallorca depending on t
 
 The afternoon in **Ciutadella**, the former capital, with its old harbour and the Gothic Cathedral inside the walls. The center can be walked in a couple of hours: the **Plaça des Born** with its obelisk and noble palaces, the **Carrer de Ses Voltes** under the arcades, and the walk down to the harbour, a long narrow inlet lined with restaurants. *At sunset it is worth staying by the harbour, when the light falls on the ochre houses and the tables fill up.* In the harbour you can eat caldereta de langosta, but it is not a cheap dish.
 
-**In practice:** check the Ibiza-Menorca route as soon as the dates are set, it has the fewest sailings · if you go via Mallorca, the Alcúdia-Ciutadella route is the shortest · pick up the car in Ciutadella or on arrival, on this island you really need it.
+**In practice:** check the Ibiza-Menorca route as soon as the dates are set, it has the fewest sailings · if you go via Mallorca, the Alcúdia-Ciutadella route is the shortest · pick up the car in Ciutadella or on arrival, on this island you need one.
 
 ### Day 7 — Ciutadella and the Camí de Cavalls
 We dedicated the morning to a stretch of the **Camí de Cavalls**, the coastal path that goes around the island: some sections near Ciutadella are fine even for those who aren't fit. The path is marked with numbered posts and divided into stages; those on the south-west coast run through pine woods, low cliffs and coves. Start early, while the temperature is still bearable and the light on the sea is at its best.
