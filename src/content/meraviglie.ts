@@ -79,7 +79,7 @@ export const meraviglie: Meraviglia[] = [
     verificataIl: '2026-11-06',
     statoVerifica: 'parziale',
     heroImageAlt: 'La Grande Muraglia Cinese che serpeggia sulle colline verdi di Mutianyu fino a una torre di guardia, sotto un cielo azzurro con nuvole bianche',
-    heroImage: '/images/meraviglie/grande-muraglia-cinese.jpg',
+    heroImage: '/images/meraviglie/grande-muraglia-mutianyu.jpg',
   },
   {
     slug: 'petra',
@@ -203,7 +203,7 @@ export const meraviglie: Meraviglia[] = [
     verificataIl: '2026-11-06',
     statoVerifica: 'parziale',
     heroImageAlt: 'Il Cristo Redentore in controluce sulla terrazza del Corcovado al tramonto, con il cielo di Rio de Janeiro striato di rosa e azzurro',
-    heroImage: '/images/meraviglie/cristo-redentore.jpg',
+    heroImage: '/images/meraviglie/cristo-redentore-corcovado-tramonto.jpg',
   },
   {
     slug: 'machu-picchu',
@@ -339,7 +339,7 @@ export const meraviglie: Meraviglia[] = [
     verificataIl: '2026-11-06',
     statoVerifica: 'verificata',
     heroImageAlt: 'La piramide di El Castillo a Chichén Itzá vista di fronte, con la scalinata centrale, il prato verde e il cielo azzurro, Yucatán, Messico',
-    heroImage: '/images/meraviglie/chichen-itza.jpg',
+    heroImage: '/images/meraviglie/chichen-itza-el-castillo.jpg',
   },
   {
     slug: 'colosseo',
@@ -405,7 +405,7 @@ export const meraviglie: Meraviglia[] = [
     verificataIl: '2026-11-06',
     statoVerifica: 'verificata',
     heroImageAlt: 'Il Colosseo di Roma visto dal Foro Romano nella luce calda del pomeriggio, tra cipressi, ulivi e colonne antiche',
-    heroImage: '/images/meraviglie/colosseo.jpg',
+    heroImage: '/images/meraviglie/colosseo-dal-foro-romano.jpg',
   },
   {
     slug: 'taj-mahal',

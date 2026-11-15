@@ -3,7 +3,7 @@ import type { Consiglio } from './tipi'
 export const consiglioDoveMangiareBangkok: Consiglio = {
   slug: 'dove-mangiare-a-bangkok',
   aggiornato: '2026-11-11',
-  immagine: '/images/thailandia/bangkok-stock.jpg',
+  immagine: '/images/thailandia/wat-arun-chao-phraya.jpg',
   imageAlt: {
     it: 'Il Wat Arun visto dal fiume Chao Phraya, con una barca a coda lunga colorata ormeggiata davanti al tempio',
     en: 'Wat Arun seen from the Chao Phraya river, with a colourful long-tail boat moored in front of the temple',

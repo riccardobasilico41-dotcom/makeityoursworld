@@ -286,7 +286,7 @@ export const destinazioniNewYork: Destinazione[] = [
     esperienzeSlugs: ['musical-broadway'],
     tripSlugs: ['new-york-itinerario'],
     imageAlt: 'The lights and billboards of Times Square at night, New York',
-    immagine: '/images/new-york/times-square-stock.jpg',
+    immagine: '/images/new-york/times-square-notte.jpg',
   },
   {
     slug: 'harlem-central-park',
@@ -537,7 +537,7 @@ export const destinazioniNewYork: Destinazione[] = [
     esperienzeSlugs: ['messa-gospel-harlem'],
     tripSlugs: ['new-york-itinerario'],
     imageAlt: "The historic facade of the Apollo Theater in Harlem, New York",
-    immagine: '/images/new-york/harlem-stock.jpg',
+    immagine: '/images/new-york/apollo-theater-harlem.jpg',
   },
   {
     slug: 'rockefeller-chelsea',
@@ -788,7 +788,7 @@ export const destinazioniNewYork: Destinazione[] = [
     esperienzeSlugs: ['high-line-vessel'],
     tripSlugs: ['new-york-itinerario'],
     imageAlt: 'The elevated High Line promenade among the skyscrapers of Manhattan, New York',
-    immagine: '/images/new-york/high-line-stock.jpg',
+    immagine: '/images/new-york/high-line.jpg',
   },
   {
     slug: 'statua-liberta-wall-street',

@@ -424,6 +424,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     },
   },
   'dolomiti-roadtrip': {
+    'La Valle di Braies': { autore: 'kallerna', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lago_di_Braies_South_Tyrol_6.jpg' },
     'Val Gardena, Ortisei e la Seceda': {
       autore: 'Stch2022 (Wikimedia Commons)',
       licenza: 'CC BY 4.0',
@@ -4445,6 +4446,10 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     "Giorno 15 — Bacalar, la laguna": { autore: 'Yosef Ben Melamed (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Bacalar_lagoon.jpg' },
   },
   'giava-bali-gili': {
+    'Giorno 13 — Gili: tartarughe, biciclette e tramonto': { autore: 'Anna & Michal', licenza: 'CC BY 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sunset_on_Gili_Trawangan2.jpg' },
+    'Giorno 12 — In barca veloce verso le Gili': { autore: 'FBilula', licenza: 'CC BY 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Gili_Trawangan_aerial_2026_01.jpg' },
+    'Giorno 8 — Le risaie di Jatiluwih e arrivo a Ubud': { autore: 'Paxson Woelber', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Rice_fields_at_Jatiluwih._Bali,_Indonesia.JPG' },
+    'Giorno 5 — Alba al Bromo e verso l\'Ijen': { autore: 'Andhika bayu nugraha', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg' },
     'Giorno 1 — Arrivo a Giacarta e volo per Yogyakarta': {
       autore: 'Ramayoni (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',

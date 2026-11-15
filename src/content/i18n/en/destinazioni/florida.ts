@@ -283,7 +283,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['speedboat-thriller-miami', 'salsa-night-miami'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: "The colorful Art Deco buildings of Ocean Drive, Miami Beach, Florida",
-    immagine: '/images/florida/miami-stock.jpg',
+    immagine: '/images/florida/miami-ocean-drive-art-deco.jpg',
   },
   {
     slug: 'key-west-marathon',
@@ -544,7 +544,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['hemingway-home', 'snorkeling-bahia-honda'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: "The Seven Mile Bridge crossing the turquoise of the Florida Keys",
-    immagine: '/images/florida/key-west-stock.jpg',
+    immagine: '/images/florida/seven-mile-bridge-aerea.jpg',
   },
   {
     slug: 'everglades-naples',
@@ -800,7 +800,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['everglades-airboat'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: "An airboat in the Everglades swamps, Florida",
-    immagine: '/images/florida/everglades-stock.jpg',
+    immagine: '/images/florida/everglades-airboat-palude.jpg',
   },
   {
     slug: 'orlando',
@@ -1086,7 +1086,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['parco-tema-orlando'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: "The evening lights of a theme park in Orlando, Florida",
-    immagine: '/images/florida/orlando-stock.jpg',
+    immagine: '/images/florida/orlando-castello-notte.jpg',
   },
   {
     slug: 'cape-canaveral',
@@ -1319,6 +1319,6 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['kennedy-space-center'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: "The Saturn V rocket on display at the Kennedy Space Center, Cape Canaveral, Florida",
-    immagine: '/images/florida/cape-canaveral-stock.jpg',
+    immagine: '/images/florida/kennedy-space-center-saturn-v.jpg',
   },
 ]

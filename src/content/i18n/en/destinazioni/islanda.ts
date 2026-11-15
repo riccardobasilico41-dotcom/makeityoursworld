@@ -260,7 +260,7 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: ['vulcano-reykjanes'],
     tripSlugs: ['islanda-2024'],
     imageAlt: "Glowing lava flow during a night eruption on the Reykjanes peninsula, near Keflavík",
-    immagine: '/images/islanda/keflavik-stock.jpg',
+    immagine: '/images/islanda/reykjanes-eruzione-notte.jpg',
   },
   {
     slug: 'vik',
@@ -556,7 +556,7 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: ['relitto-aereo-solheimasandur', 'golden-circle'],
     tripSlugs: ['islanda-2024'],
     imageAlt: "DC-3 plane wreck abandoned on the black sand of Sólheimasandur, Iceland",
-    immagine: '/images/islanda/vik-stock.jpg',
+    immagine: '/images/islanda/solheimasandur-dc3.jpg',
   },
   {
     slug: 'skaftafell-jokulsarlon',
@@ -1040,7 +1040,7 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Vestrahorn mountain and black sand beach near Höfn, Iceland',
-    immagine: '/images/islanda/hofn-stock.jpg',
+    immagine: '/images/islanda/vestrahorn-stokksnes.jpg',
   },
   {
     slug: 'egilsstadir',
@@ -1196,7 +1196,7 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: ['terme-naturali-islanda'],
     tripSlugs: ['islanda-2024'],
     imageAlt: "Village of Seyðisfjörður among the snow-covered mountains of an Icelandic East fjord",
-    immagine: '/images/islanda/egilsstadir-stock.jpg',
+    immagine: '/images/islanda/seydisfjordur-fiordo.jpg',
   },
   {
     slug: 'asbyrgi',
@@ -1343,7 +1343,7 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Aerial view of the horseshoe-shaped Ásbyrgi canyon, Iceland',
-    immagine: '/images/islanda/asbyrgi-stock.jpg',
+    immagine: '/images/islanda/asbyrgi-canyon-aereo.jpg',
   },
   {
     slug: 'akureyri',
@@ -1658,7 +1658,7 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: ['whale-watching-husavik', 'zona-geotermale-myvatn'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Steaming hot pool in the sulfur-colored ground of the geothermal area near Lake Mývatn',
-    immagine: '/images/islanda/akureyri-stock.jpg',
+    immagine: '/images/islanda/hverir-namafjall-fumarole.jpg',
   },
   {
     slug: 'grundarfjordur',
@@ -1897,7 +1897,7 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Kirkjufell mountain and the Kirkjufellsfoss waterfall, Iceland',
-    immagine: '/images/islanda/grundarfjordur-stock.jpg',
+    immagine: '/images/islanda/kirkjufell-kirkjufellsfoss.jpg',
   },
   {
     slug: 'reykjavik',
@@ -2197,6 +2197,6 @@ export const destinazioniIslanda: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Art Deco-style spire of the Hallgrímskirkja church in Reykjavík',
-    immagine: '/images/islanda/reykjavik-stock.jpg',
+    immagine: '/images/islanda/hallgrimskirkja.jpg',
   },
 ]

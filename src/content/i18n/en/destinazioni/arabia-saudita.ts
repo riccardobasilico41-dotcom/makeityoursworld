@@ -595,7 +595,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     introduzione:
       "The northern coast of the Saudi Red Sea, with an archipelago of about a hundred white-sand islands and coral reefs among the least damaged on the planet, because until a few years ago no tourist could get there. With a forgivable exaggeration they call it \"the Saudi Maldives\".",
     percheAndarci:
-      "These are reefs that haven't undergone decades of tourist pressure. And it's the part of the country that is changing fastest: the big coastal projects are rising here, and whoever goes now sees it before.",
+      "These are reefs that haven't undergone decades of tourist pressure. And it's the part of the country that is changing fastest: the big coastal projects are rising here, and whoever goes now sees it before. It's on the list for a reason with an expiry date. These reefs are among the least damaged in the Red Sea because until 2019 almost no tourist could get there, and now some of the largest tourism projects ever started in the world are being born on this coast. The period in which Umluj remains a fishing port with about a hundred white islands in front of it and no facilities will, in all likelihood, be short. It should also be said honestly what this entails: no services, few operators, no guaranteed standard, and the country's rules apply on the beach too, where on public beaches people go into the water dressed. It's not a beach destination as we understand it: it's a coast that is opening up right now.",
     cosaVedere: [
       'The archipelago off Umluj, with white-sand islands and coral banks',
       'The reefs of the northern Red Sea, with very high visibility',
@@ -622,8 +622,6 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Taking beach clothing for granted: outside the closed resorts the country's rules apply, and on public beaches people go into the water dressed",
       'Planning it without a car',
     ],
-    miaEsperienza:
-      "It's a possible extension of the trip I did: this page sticks to verifiable facts. It's on the list for a reason with an expiry date. These reefs are among the least damaged in the Red Sea because until 2019 almost no tourist could get there, and now some of the largest tourism projects ever started in the world are being born on this coast. The period in which Umluj remains a fishing port with about a hundred white islands in front of it and no facilities will, in all likelihood, be short. It should also be said honestly what this entails: no services, few operators, no guaranteed standard, and the country's rules apply on the beach too, where on public beaches people go into the water dressed. It's not a beach destination as we understand it: it's a coast that is opening up right now.",
     // GUIDA-START
     luoghi: [
       {

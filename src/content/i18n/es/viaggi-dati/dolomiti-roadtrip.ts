@@ -97,7 +97,7 @@ export const dolomitiRoadtripMeta: TripMeta = {
       costiNoti:
         "aparcamiento 5-10 € (autobús lanzadera incluido fuera de temporada); acceso en coche con cupo 9-16 en verano, con reserva online obligatoria",
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-1-lago-di-braies.jpg',
+      immagine: '/images/viaggi/dolomiti-roadtrip/lago-di-braies-barche.jpg',
       imageAlt: "El Lago di Braies con sus barcas de remos y las paredes dolomíticas al fondo",
     },
     {

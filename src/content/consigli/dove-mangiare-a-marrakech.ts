@@ -3,7 +3,7 @@ import type { Consiglio } from './tipi'
 export const consiglioDoveMangiareMarrakech: Consiglio = {
   slug: 'dove-mangiare-a-marrakech',
   aggiornato: '2026-11-11',
-  immagine: '/images/marocco/marrakech-stock.jpg',
+  immagine: '/images/marocco/jemaa-el-fna-sera.jpg',
   imageAlt: {
     it: 'La piazza Jemaa el-Fna di sera, illuminata dai fumi e dalle luci delle bancarelle di cibo, con la Koutoubia sullo sfondo, Marrakech',
     en: 'Jemaa el-Fna square at night, lit by the smoke and lights of the food stalls, with the Koutoubia in the background, Marrakech',

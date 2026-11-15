@@ -321,7 +321,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: ['tour-marrakech', 'jardin-majorelle'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'La piazza Jemaa El-Fna animata di sera a Marrakech, Marocco',
-    immagine: '/images/marocco/marrakech-stock.jpg',
+    immagine: '/images/marocco/jemaa-el-fna-sera.jpg',
   },
   {
     slug: 'ait-benhaddou',
@@ -546,7 +546,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'Il ksar fortificato di Aït Benhaddou, Patrimonio UNESCO, Marocco',
-    immagine: '/images/marocco/ait-benhaddou-stock.jpg',
+    immagine: '/images/marocco/ksar-ait-benhaddou.jpg',
   },
   {
     slug: 'merzouga',
@@ -889,7 +889,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'La Kasbah di Tamnougalt nella valle del Draa, Marocco',
-    immagine: '/images/marocco/agdz-stock.jpg',
+    immagine: '/images/marocco/kasbah-tamnougalt.jpg',
   },
   {
     slug: 'agadir',
@@ -1009,7 +1009,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: ['surf-taghazout'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'Lezione di surf sulle onde di Taghazout, Marocco',
-    immagine: '/images/marocco/agadir-stock.jpg',
+    immagine: '/images/marocco/taghazout-surf.jpg',
   },
   {
     slug: 'essaouira',
@@ -1284,7 +1284,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: ['hammam-essaouira'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'La medina bianca e blu della città portuale di Essaouira, Marocco',
-    immagine: '/images/marocco/essaouira-stock.jpg',
+    immagine: '/images/marocco/essaouira-medina.jpg',
   },
   // --- NORD: città imperiali e città blu (visitate da Rick; dati pratici verificati il 05/11/2026, distanze OSRM) ---
   {

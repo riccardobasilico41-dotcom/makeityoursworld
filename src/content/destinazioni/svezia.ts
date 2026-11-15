@@ -348,7 +348,7 @@ export const destinazioniSvezia: Destinazione[] = [
     esperienzeSlugs: ['vasamuseet-stoccolma', 'gamla-stan-passeggiata', 'abba-museum-stoccolma', 'arcipelago-stoccolma-in-barca'],
     tripSlugs: ['lapponia-svedese-abisko', 'capitali-nordiche'],
     imageAlt: 'Case colorate del centro storico di Stoccolma affacciate sull\'acqua in inverno',
-    immagine: '/images/svezia/stoccolma-stock.jpg',
+    immagine: '/images/svezia/gamla-stan-inverno.jpg',
   },
   {
     slug: 'kiruna',
@@ -586,7 +586,7 @@ export const destinazioniSvezia: Destinazione[] = [
     esperienzeSlugs: ['icehotel-jukkasjarvi', 'miniera-lkab-kiruna'],
     tripSlugs: ['lapponia-svedese-abisko'],
     imageAlt: 'Chiesa di legno rossa di Kiruna sotto un cielo invernale svedese',
-    immagine: '/images/svezia/kiruna-stock.jpg',
+    immagine: '/images/svezia/kiruna-chiesa.jpg',
   },
   {
     slug: 'abisko',
@@ -827,6 +827,6 @@ export const destinazioniSvezia: Destinazione[] = [
     esperienzeSlugs: ['aurora-sky-station', 'motoslitta-lago-ghiacciato', 'husky-sledding-caccia-aurora'],
     tripSlugs: ['lapponia-svedese-abisko'],
     imageAlt: 'Aurora boreale verde sopra le montagne innevate del parco nazionale di Abisko',
-    immagine: '/images/svezia/abisko-stock.jpg',
+    immagine: '/images/svezia/abisko-aurora-boreale.jpg',
   },
 ]

@@ -131,7 +131,7 @@ export const esperienzeFlorida: Esperienza[] = [
   },
   {
     slug: 'salsa-night-miami',
-    immagine: '/images/florida/miami-stock.jpg',
+    immagine: '/images/florida/miami-flamingo-hotel-motoscafi.jpg',
     paeseSlug: 'florida',
     destinazioneSlug: 'miami',
     nome: 'Salsa Night: lessons, mojitos and dancing',

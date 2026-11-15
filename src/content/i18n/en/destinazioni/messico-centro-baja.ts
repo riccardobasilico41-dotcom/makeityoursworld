@@ -1692,7 +1692,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'The island of Janitzio in Lake Pátzcuaro with the Morelos monument on top, seen from above',
-    immagine: '/images/messico/janitzio-stock.jpg',
+    immagine: '/images/messico/isola-di-janitzio.jpg',
   },
   {
     slug: 'la-paz-baja',
@@ -2422,7 +2422,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'The stone Misión de Nuestra Señora de Loreto among the palms, in the center of town',
-    immagine: '/images/messico/loreto-mision-stock.jpg',
+    immagine: '/images/messico/mision-de-loreto.jpg',
   },
   {
     slug: 'todos-santos',

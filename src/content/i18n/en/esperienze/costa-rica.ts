@@ -113,7 +113,7 @@ export const esperienzeCostaRica: Esperienza[] = [
   },
   {
     slug: 'camminata-notturna-monteverde',
-    immagine: '/images/costa-rica/monteverde-stock.jpg',
+    immagine: '/images/costa-rica/cascata-la-fortuna.jpg',
     paeseSlug: 'costa-rica',
     destinazioneSlug: 'monteverde',
     nome: "Night Walk in the Cloud Forest",

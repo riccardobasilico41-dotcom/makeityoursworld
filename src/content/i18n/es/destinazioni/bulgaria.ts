@@ -252,7 +252,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     esperienzeSlugs: ['sci-bansko', 'discesa-notturna-bansko'],
     tripSlugs: ['bulgaria-bansko-rila'],
     imageAlt: 'Las pistas nevadas del dominio esquiable de Bansko, Bulgaria',
-    immagine: '/images/bulgaria/bansko-stock.jpg',
+    immagine: '/images/bulgaria/bansko-piste.jpg',
   },
   {
     slug: 'monastero-rila',
@@ -488,6 +488,6 @@ export const destinazioniBulgaria: Destinazione[] = [
     esperienzeSlugs: ['visita-monastero-rila'],
     tripSlugs: ['bulgaria-bansko-rila'],
     imageAlt: 'La fachada con frescos de la Iglesia de la Natividad de la Virgen en el Monasterio de Rila, Bulgaria',
-    immagine: '/images/copertine/bulgaria-bansko-rila.jpg',
+    immagine: '/images/copertine/bulgaria-monastero-di-rila.jpg',
   },
 ]

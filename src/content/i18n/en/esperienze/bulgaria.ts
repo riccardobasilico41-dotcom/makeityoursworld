@@ -25,7 +25,7 @@ export const esperienzeBulgaria: Esperienza[] = [
   },
   {
     slug: 'discesa-notturna-bansko',
-    immagine: '/images/bulgaria/bansko-stock.jpg',
+    immagine: '/images/bulgaria/pirin-vihren-kutelo.jpg',
     paeseSlug: 'bulgaria',
     destinazioneSlug: 'bansko',
     nome: 'Lit run for night skiing',

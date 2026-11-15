@@ -36,6 +36,6 @@ export const transilvania: Paese = {
   },
   stileViaggio: ['on the road', 'castelli', 'road trip'],
   heroImageAlt: 'Il Castello di Bran, il "Castello di Dracula", in Transilvania, Romania',
-  heroImage: '/images/copertine/transilvania-express.jpg',
+  heroImage: '/images/copertine/transilvania-castello-di-bran.jpg',
   tripPrincipaleSlug: 'transilvania-express',
 }

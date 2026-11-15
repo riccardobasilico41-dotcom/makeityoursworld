@@ -1352,6 +1352,6 @@ export const destinazioniCanada: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['canada-itinerario'],
     imageAlt: 'Fotografi a bordo di un tundra buggy che riprendono un orso polare nella tundra di Churchill',
-    immagine: `${IMG}/churchill-orsi-polari.jpg`,
+    immagine: `${IMG}/churchill-tundra-buggy-orso.jpg`,
   },
 ]

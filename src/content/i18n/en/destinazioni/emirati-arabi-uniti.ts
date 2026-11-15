@@ -730,7 +730,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     introduzione:
       "The interior. To the south is the Liwa oasis, on the edge of the Rub' al-Khali, the Empty Quarter, the largest continuous sand desert in the world, with dunes that exceed 250 meters. To the east is Al Ain, the UNESCO-listed “garden city,” with palm oases irrigated by the falaj, underground channels two thousand years old.",
     percheAndarci:
-      "It's the only way to see the real desert, and not its evening-safari version at the gates of Dubai. And Al Ain shows how people lived here before oil: an agricultural oasis with an irrigation system that still works.",
+      "It's the only way to see the real desert, and not its evening-safari version at the gates of Dubai. And Al Ain shows how people lived here before oil: an agricultural oasis with an irrigation system that still works. It's on the list for a specific reason. What Dubai and Abu Dhabi sell as a “desert safari” is done on modest dunes half an hour from the city, with quad bikes, dinner in a tent camp and a return in the evening. The Rub' al-Khali is something else, the largest continuous sand desert in the world, with dunes over two hundred meters at Moreeb, and it's two hours from Abu Dhabi: a two-day extension is enough. The other half of the detour is Al Ain, which is the opposite: a UNESCO oasis with a hundred and forty-seven thousand palms irrigated by channels dug two thousand years ago and still working, where you walk in the shade and hear the water flowing. Together they tell what this country was like before oil, which is exactly what's missing from a stopover made only of cities.",
     cosaVedere: [
       "The Moreeb dunes, among the tallest in the world, in the Liwa area",
       "The edge of the Rub' al-Khali, the largest continuous sand desert on the planet",
@@ -760,8 +760,6 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Coming for the day and skipping the night, which is why you come all this way",
       "Underestimating the cold of winter nights in the desert",
     ],
-    miaEsperienza:
-      "It's a possible extension of the trip I did: this page sticks to verifiable facts. It's on the list for a specific reason. What Dubai and Abu Dhabi sell as a “desert safari” is done on modest dunes half an hour from the city, with quad bikes, dinner in a tent camp and a return in the evening. The Rub' al-Khali is something else, the largest continuous sand desert in the world, with dunes over two hundred meters at Moreeb, and it's two hours from Abu Dhabi: a two-day extension is enough. The other half of the detour is Al Ain, which is the opposite: a UNESCO oasis with a hundred and forty-seven thousand palms irrigated by channels dug two thousand years ago and still working, where you walk in the shade and hear the water flowing. Together they tell what this country was like before oil, which is exactly what's missing from a stopover made only of cities.",
     // GUIDA-START
     luoghi: [
       {

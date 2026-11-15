@@ -730,7 +730,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     introduzione:
       "El interior. Al sur está el oasis de Liwa, en el borde del Rub' al-Khali, el Cuarto Vacío, el mayor desierto de arena continuo del mundo, con dunas que superan los 250 metros. Al este está Al Ain, la «ciudad jardín» patrimonio de la UNESCO, con los oasis de palmeras regados por los falaj, canales subterráneos de hace dos mil años.",
     percheAndarci:
-      "Es la única forma de ver el desierto de verdad, y no su versión de safari nocturno a las puertas de Dubái. Al Ain, además, enseña cómo se vivía aquí antes del petróleo: un oasis agrícola con un sistema de riego que todavía funciona.",
+      "Es la única forma de ver el desierto de verdad, y no su versión de safari nocturno a las puertas de Dubái. Al Ain, además, enseña cómo se vivía aquí antes del petróleo: un oasis agrícola con un sistema de riego que todavía funciona. Está en la lista por un motivo preciso. Lo que en Dubái y en Abu Dabi venden como «safari por el desierto» se hace en dunas modestas a media hora de la ciudad, con quads, la cena en un campamento de tiendas y la vuelta por la noche. El Rub' al-Khali es otra cosa, el mayor desierto de arena continuo del mundo, con dunas de más de doscientos metros en Moreeb, y está a dos horas de Abu Dabi: basta una ampliación de dos días. La otra mitad del desvío es Al Ain, que es lo contrario: un oasis patrimonio de la UNESCO con ciento cuarenta y siete mil palmeras regadas por canales excavados hace dos mil años y todavía en funcionamiento, donde se camina a la sombra y se oye correr el agua. Juntos cuentan cómo era este país antes del petróleo, y es lo que falta por completo en un stopover hecho solo de ciudades.",
     cosaVedere: [
       "Las dunas de Moreeb, entre las más altas del mundo, en la zona de Liwa",
       "El borde del Rub' al-Khali, el mayor desierto de arena continuo del planeta",
@@ -760,8 +760,6 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Venir en el día y saltarse la noche, que es el motivo por el que se llega hasta aquí",
       "Subestimar el frío de las noches de invierno en el desierto",
     ],
-    miaEsperienza:
-      "Es una posible extensión del viaje que hice: aquí la ficha se queda en los hechos verificables. Está en la lista por un motivo preciso. Lo que en Dubái y en Abu Dabi venden como «safari por el desierto» se hace en dunas modestas a media hora de la ciudad, con quads, la cena en un campamento de tiendas y la vuelta por la noche. El Rub' al-Khali es otra cosa, el mayor desierto de arena continuo del mundo, con dunas de más de doscientos metros en Moreeb, y está a dos horas de Abu Dabi: basta una ampliación de dos días. La otra mitad del desvío es Al Ain, que es lo contrario: un oasis patrimonio de la UNESCO con ciento cuarenta y siete mil palmeras regadas por canales excavados hace dos mil años y todavía en funcionamiento, donde se camina a la sombra y se oye correr el agua. Juntos cuentan cómo era este país antes del petróleo, y es lo que falta por completo en un stopover hecho solo de ciudades.",
     // GUIDA-START
     luoghi: [
       {

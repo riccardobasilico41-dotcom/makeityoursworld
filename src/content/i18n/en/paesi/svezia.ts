@@ -33,6 +33,6 @@ export const svezia: Paese = {
   },
   stileViaggio: ['nature', 'adventure', 'extreme winter'],
   heroImageAlt: 'Green northern lights over a snowy landscape in Swedish Lapland',
-  heroImage: '/images/svezia/abisko-stock.jpg',
+  heroImage: '/images/svezia/abisko-aurora-boreale.jpg',
   tripPrincipaleSlug: 'lapponia-svedese-abisko',
 }

@@ -595,7 +595,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     introduzione:
       "La costa septentrional del Mar Rojo saudí, con un archipiélago de un centenar de islas de arena blanca y arrecifes de coral entre los menos dañados del planeta, porque hasta hace pocos años ningún turista podía llegar. Con una exageración perdonable lo llaman «las Maldivas saudíes».",
     percheAndarci:
-      "Son arrecifes que no han sufrido décadas de presión turística. Y es la parte del país que cambia más deprisa: aquí están surgiendo los grandes proyectos costeros, y quien va ahora la ve antes.",
+      "Son arrecifes que no han sufrido décadas de presión turística. Y es la parte del país que cambia más deprisa: aquí están surgiendo los grandes proyectos costeros, y quien va ahora la ve antes. Está en la lista por una razón que tiene fecha de caducidad. Estos arrecifes están entre los menos dañados del Mar Rojo porque hasta 2019 casi ningún turista podía llegar, y ahora en esta costa están naciendo algunos de los mayores proyectos turísticos jamás iniciados en el mundo. El periodo en que Umluj sigue siendo un puerto de pescadores con un centenar de islas blancas delante y ninguna infraestructura será, con toda probabilidad, breve. También hay que decir con honestidad lo que implica: ningún servicio, pocos operadores, ningún estándar garantizado, y las normas del país valen también en la playa, donde en las playas públicas se entra en el agua vestido. No es un destino de playa como lo entendemos nosotros: es una costa que se está abriendo ahora.",
     cosaVedere: [
       "El archipiélago frente a Umluj, con las islas de arena blanca y los bancos de coral",
       "Los arrecifes del Mar Rojo septentrional, con una visibilidad altísima",
@@ -622,8 +622,6 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Dar por hecha la ropa de playa: fuera de los resorts cerrados valen las normas del país, y en las playas públicas se entra en el agua vestido",
       "Programarla sin coche",
     ],
-    miaEsperienza:
-      "Es una posible extensión del viaje que hice: aquí la ficha se queda en los hechos verificables. Está en la lista por una razón que tiene fecha de caducidad. Estos arrecifes están entre los menos dañados del Mar Rojo porque hasta 2019 casi ningún turista podía llegar, y ahora en esta costa están naciendo algunos de los mayores proyectos turísticos jamás iniciados en el mundo. El periodo en que Umluj sigue siendo un puerto de pescadores con un centenar de islas blancas delante y ninguna infraestructura será, con toda probabilidad, breve. También hay que decir con honestidad lo que implica: ningún servicio, pocos operadores, ningún estándar garantizado, y las normas del país valen también en la playa, donde en las playas públicas se entra en el agua vestido. No es un destino de playa como lo entendemos nosotros: es una costa que se está abriendo ahora.",
     // GUIDA-START
     luoghi: [
       {

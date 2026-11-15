@@ -238,7 +238,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Barche da pesca colorate sulla spiaggia di Negombo, Sri Lanka',
-    immagine: '/images/sri-lanka/negombo-stock.jpg',
+    immagine: '/images/sri-lanka/negombo-barca-pesca.jpg',
   },
   {
     slug: 'anuradhapura',
@@ -1720,7 +1720,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Le vallate di tè verdi attorno a Nuwara Eliya, Sri Lanka',
-    immagine: '/images/sri-lanka/nuwara-eliya-stock.jpg',
+    immagine: '/images/sri-lanka/nuwara-eliya-piantagione-te.jpg',
   },
   {
     slug: 'ella',
@@ -2181,6 +2181,6 @@ export const destinazioniSriLanka: Destinazione[] = [
     esperienzeSlugs: ['safari-yala'],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'La spiaggia di Hikkaduwa sulla costa sud dello Sri Lanka',
-    immagine: '/images/sri-lanka/hikkaduwa-stock.jpg',
+    immagine: '/images/sri-lanka/hikkaduwa-spiaggia.jpg',
   },
 ]

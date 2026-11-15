@@ -55,7 +55,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "It depends on where you want to go and what you want to do, and the stretch you pick makes the difference between a day trip in the middle of a crowd and a memorable day. I advise against the stretch close to the city, Badaling: there are huge crowds, it's restored to the point of looking like a theme park, and you risk not enjoying the experience much. Gubeikou, with Gubei Water Town, I liked a lot: there's the water town at the foot of the Simatai wall, few people, and you can visit it in the evening too. Mutianyu is the right compromise, with the chairlift going up and the toboggan coming down: nice and fun, it looks like a tourist gimmick and is actually one of the best ways to end the day. Jinshanling is the stretch for those who want to walk: two hours from Beijing, unrestored towers, grass between the stones and, for long stretches, nobody else in sight. The effort also has to be mentioned, which photos don't convey: it's not a flat walk but a constant up and down on steps of different heights, some very tall, and after three hours your legs notice.",
     heroImageAlt: "The Great Wall of China snaking over the green hills of Mutianyu to a watchtower, under a blue sky with white clouds",
-    heroImage: "/images/meraviglie/grande-muraglia-cinese.jpg",
+    heroImage: "/images/meraviglie/grande-muraglia-mutianyu.jpg",
   },
   {
     slug: "petra",
@@ -159,7 +159,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "It's worth it. And if your budget allows, it's lovely to see it by helicopter too: it's another way of looking at it, and it's worth the money.",
     heroImageAlt: "Christ the Redeemer backlit on the Corcovado terrace at sunset, with the Rio de Janeiro sky streaked in pink and blue",
-    heroImage: "/images/meraviglie/cristo-redentore.jpg",
+    heroImage: "/images/meraviglie/cristo-redentore-corcovado-tramonto.jpg",
   },
   {
     slug: "machu-picchu",
@@ -278,7 +278,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "I've seen it four times. It's beautiful, but with reservations. It's the wonder that disappoints most those who arrive unprepared, and the reason isn't the site but the way it's visited. From ten o'clock on the mass-tourism buses from the Riviera arrive, from Cancún and Playa del Carmen, and I don't like that at all, just like the stalls that are everywhere: the avenues fill up with vendors, one stall next to another along almost every path, with jaguar-shaped whistles sounding nonstop. Entering at opening time completely changes the experience. You haven't been able to climb the Castillo for years, so it has to be looked at from below, and that's where you understand the trick: clap your hands in front of the staircase and the echo comes back like the call of the quetzal, and it's no coincidence. If you're after a feeling of discovery you find it more at Uxmal or Cobá, and across Mexico, Belize and Guatemala there are temples that in my opinion are more beautiful: Calakmul, Palenque, Tikal, Caracol. Here you come for the astronomical precision, which is something else and is still worth it.",
     heroImageAlt: "The pyramid of El Castillo at Chichén Itzá seen head-on, with the central staircase, the green lawn and the blue sky, Yucatán, Mexico",
-    heroImage: "/images/meraviglie/chichen-itza.jpg",
+    heroImage: "/images/meraviglie/chichen-itza-el-castillo.jpg",
   },
   {
     slug: "colosseo",
@@ -337,7 +337,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "I've seen it countless times, and it's always beautiful and fascinating. But here I'm playing at home, and standing in the middle of the city, with traffic passing in front of it, gives it a different kind of charm for me than the other wonders. The way to see it with fresh eyes is to go down into the hypogeum, the underground where cages, lifts and the people who worked the shows were: it has a separate entrance, limited numbers, sells out early, and is by far the most interesting part of the monument. The most common mistake is still buying the ticket on the spot: the line is measured in hours, and online on the official site it costs less. Beware too of those offering \"skip-the-line\" in front of the entrance, often at triple the price for the same ticket. The practical advice is to visit early in the morning or in the last slot of the afternoon, and save the Palatine for afterward: it's included in the same ticket and almost everyone skips it out of tiredness.",
     heroImageAlt: "The Colosseum in Rome seen from the Roman Forum in the warm afternoon light, among cypresses, olive trees and ancient columns",
-    heroImage: "/images/meraviglie/colosseo.jpg",
+    heroImage: "/images/meraviglie/colosseo-dal-foro-romano.jpg",
   },
   {
     slug: "taj-mahal",

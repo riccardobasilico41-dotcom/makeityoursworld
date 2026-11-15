@@ -37,6 +37,6 @@ export const thailandia: Paese = {
   },
   stileViaggio: ['sea', 'jungle', 'food', 'islands'],
   heroImageAlt: 'A longtail boat in a turquoise bay among the limestone sea stacks of southern Thailand',
-  heroImage: '/images/copertine/thailandia.jpg',
+  heroImage: '/images/copertine/thailandia-phi-phi-long-tail.jpg',
   tripPrincipaleSlug: 'thailandia',
 }

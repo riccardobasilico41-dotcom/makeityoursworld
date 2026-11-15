@@ -319,7 +319,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: ['tour-marrakech', 'jardin-majorelle'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'Jemaa El-Fna square bustling in the evening in Marrakech, Morocco',
-    immagine: '/images/marocco/marrakech-stock.jpg',
+    immagine: '/images/marocco/jemaa-el-fna-sera.jpg',
   },
   {
     slug: 'ait-benhaddou',
@@ -544,7 +544,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'The fortified ksar of Aït Benhaddou, a UNESCO World Heritage site, Morocco',
-    immagine: '/images/marocco/ait-benhaddou-stock.jpg',
+    immagine: '/images/marocco/ksar-ait-benhaddou.jpg',
   },
   {
     slug: 'merzouga',
@@ -887,7 +887,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'The Tamnougalt Kasbah in the Draa Valley, Morocco',
-    immagine: '/images/marocco/agdz-stock.jpg',
+    immagine: '/images/marocco/kasbah-tamnougalt.jpg',
   },
   {
     slug: 'agadir',
@@ -1007,7 +1007,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: ['surf-taghazout'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'A surf lesson on the waves of Taghazout, Morocco',
-    immagine: '/images/marocco/agadir-stock.jpg',
+    immagine: '/images/marocco/taghazout-surf.jpg',
   },
   {
     slug: 'essaouira',
@@ -1282,7 +1282,7 @@ export const destinazioniMarocco: Destinazione[] = [
     esperienzeSlugs: ['hammam-essaouira'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'The white-and-blue medina of the port town of Essaouira, Morocco',
-    immagine: '/images/marocco/essaouira-stock.jpg',
+    immagine: '/images/marocco/essaouira-medina.jpg',
   },
   {
     slug: 'chefchaouen',

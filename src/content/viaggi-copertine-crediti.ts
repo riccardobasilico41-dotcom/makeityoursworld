@@ -361,4 +361,10 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
   'okinawa-estate': { autore: 'Hashi photo (Wikimedia Commons)', licenza: 'CC BY 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Ama_beach_in_Zamami_Island.jpg' },
   'hokkaido-sci-giappone': { autore: 'Excellent moniteur de ski (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Namara_Slope.jpg' },
   'thailandia-nord': { autore: 'Sgroey (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pai_canyon_1.jpg' },
+  'thailandia': { autore: 'Diego Delso', licenza: 'CC BY-SA 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Isla_Phi_Phi_Lay,_Tailandia,_2013-08-19,_DD_04.JPG' },
+  'florida-road-trip': { autore: 'U.S. National Archives (NARA)', licenza: 'Public Domain', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Florida_Keys_Scenic_Highway_-_Smathers_Beach_in_Key_West_-_NARA_-_7718453.jpg' },
+  'costa-rica-itinerario': { autore: 'Rhododendrites', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Arenal_Volcano_(70602).jpg' },
+  'transilvania-express': { autore: 'Asurnipal', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Bran_Castle_(Toerzburg_or_Castelul_Bran)-05ASD.jpg' },
+  'bulgaria-bansko-rila': { autore: 'Raggatt2000', licenza: 'CC BY-SA 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Rila_Monastery,_August_2013.jpg' },
+  'giava-bali-gili': { autore: 'Andhika bayu nugraha', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg' },
 }

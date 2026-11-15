@@ -1466,7 +1466,7 @@ export const destinazioniBrasile: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: "Un jaguar escondido entre la vegetación a la orilla del río en Porto Jofre, en el Pantanal norte",
-    immagine: '/images/brasile/pantanal-stock.jpg',
+    immagine: '/images/brasile/pantanal-giaguaro.jpg',
   },
   {
     slug: 'amazzonia-manaus',
@@ -1598,6 +1598,6 @@ export const destinazioniBrasile: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: "Barcos fluviales amarrados en el Rio Negro en Manaos",
-    immagine: '/images/brasile/manaus-stock.jpg',
+    immagine: '/images/brasile/manaus-barche-rio-negro.jpg',
   },
 ]

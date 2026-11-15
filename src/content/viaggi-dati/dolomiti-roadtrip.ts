@@ -106,7 +106,7 @@ export const dolomitiRoadtripMeta: TripMeta = {
       costiNoti:
         'parcheggio 5-10 € (bus navetta incluso fuori stagione); accesso auto contingentato 9-16 in estate, con prenotazione online obbligatoria',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-1-lago-di-braies.jpg',
+      immagine: '/images/viaggi/dolomiti-roadtrip/lago-di-braies-barche.jpg',
       imageAlt: 'Il Lago di Braies con le sue barche a remi e le pareti dolomitiche sullo sfondo',
     },
     {

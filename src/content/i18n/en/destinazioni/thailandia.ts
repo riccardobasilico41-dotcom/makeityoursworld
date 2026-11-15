@@ -314,7 +314,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['jay-fai-bangkok'],
     tripSlugs: ['thailandia'],
     imageAlt: "Wat Arun, the Temple of Dawn, on the Chao Phraya river in Bangkok, Thailand",
-    immagine: '/images/thailandia/bangkok-stock.jpg',
+    immagine: '/images/thailandia/wat-arun-chao-phraya.jpg',
   },
   {
     slug: 'hua-hin',
@@ -553,7 +553,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['thailandia'],
     imageAlt: 'Colorful boats loaded with fruit at the floating market near Bangkok, Thailand',
-    immagine: '/images/thailandia/hua-hin-stock.jpg',
+    immagine: '/images/thailandia/mercato-galleggiante-damnoen-saduak.jpg',
   },
   {
     slug: 'sam-roi-yot-kui-buri',
@@ -765,7 +765,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['thailandia'],
     imageAlt: 'The royal pavilion lit from above in the Phra Nakorn Cave, Sam Roi Yot, Thailand',
-    immagine: '/images/thailandia/sam-roi-yot-stock.jpg',
+    immagine: '/images/thailandia/grotta-phraya-nakhon.jpg',
   },
   {
     slug: 'khao-sok',
@@ -1235,7 +1235,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['bond-island-canoa'],
     tripSlugs: ['thailandia'],
     imageAlt: 'The limestone rock formations of Railay Beach near Krabi, Thailand',
-    immagine: '/images/thailandia/krabi-stock.jpg',
+    immagine: '/images/thailandia/railay-west.jpg',
   },
   {
     slug: 'koh-phi-phi',
@@ -1729,7 +1729,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['elephant-nature-park'],
     tripSlugs: ['thailandia'],
     imageAlt: 'The temple Wat Phra That Doi Suthep perched on the mountain above Chiang Mai, Thailand',
-    immagine: '/images/thailandia/chiang-mai-stock.jpg',
+    immagine: '/images/thailandia/doi-suthep.jpg',
   },
   {
     slug: 'phuket-similan',
@@ -2000,7 +2000,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['snorkeling-similan'],
     tripSlugs: ['thailandia'],
     imageAlt: 'The crystal-clear waters and white granite rocks of the Similan Islands, Thailand',
-    immagine: '/images/thailandia/similan-stock.jpg',
+    immagine: '/images/thailandia/isole-similan.jpg',
   },
   {
     slug: 'golfo-thailandia',
@@ -2278,7 +2278,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['full-moon-party'],
     tripSlugs: [],
     imageAlt: 'Tropical beach on an island in the Gulf of Thailand',
-    immagine: '/images/thailandia/koh-phangan-stock.jpg',
+    immagine: '/images/thailandia/koh-phangan-bottle-beach.jpg',
   },
   {
     slug: 'chiang-rai',

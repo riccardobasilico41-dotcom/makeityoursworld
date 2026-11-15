@@ -42,7 +42,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "The Miyajima torii backlit at sunset, with mountains and golden clouds, Japan",
   },
   thailandia: {
-    immagine: '/images/copertine/thailandia.jpg',
+    immagine: '/images/copertine/thailandia-phi-phi-long-tail.jpg',
     imageAlt: 'A longtail boat in a turquoise bay among the limestone sea stacks of southern Thailand',
   },
   'marocco-itinerario': {
@@ -54,19 +54,19 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "The Lower Manhattan skyline with One World Trade Center seen from the water, New York",
   },
   'florida-road-trip': {
-    immagine: '/images/copertine/florida-360.jpg',
+    immagine: '/images/copertine/florida-key-west-smathers-beach.jpg',
     imageAlt: "Turquoise water and palm trees along the Florida coast",
   },
   'transilvania-express': {
-    immagine: '/images/copertine/transilvania-express.jpg',
+    immagine: '/images/copertine/transilvania-castello-di-bran.jpg',
     imageAlt: "Bran Castle, \"Dracula's Castle\", in Transylvania, Romania",
   },
   'bulgaria-bansko-rila': {
-    immagine: '/images/copertine/bulgaria-bansko-rila.jpg',
+    immagine: '/images/copertine/bulgaria-monastero-di-rila.jpg',
     imageAlt: "The striped, colorful arches of the courtyard of Rila Monastery, Bulgaria",
   },
   'costa-rica-itinerario': {
-    immagine: '/images/copertine/costa-rica-360.jpg',
+    immagine: '/images/copertine/costa-rica-vulcano-arenal.jpg',
     imageAlt: "Arenal Volcano surrounded by rainforest, Costa Rica",
   },
   'bolivia-itinerario': {
@@ -322,7 +322,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "Niagara's Horseshoe Falls seen from the Canadian side, with the mist rising from the drop",
   },
   'giava-bali-gili': {
-    immagine: '/images/viaggi/giava-bali-gili/bromo-alba.jpg',
+    immagine: '/images/viaggi/giava-bali-gili/bromo-semeru-alba-commons.jpg',
     imageAlt: "The Bromo crater smoking in the Sea of Sand at first light, with Semeru in the background, seen from the drone",
   },
   'peru-due-settimane': {

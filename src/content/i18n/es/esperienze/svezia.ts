@@ -75,7 +75,7 @@ export const esperienzeSvezia: Esperienza[] = [
   },
   {
     slug: 'icehotel-jukkasjarvi',
-    immagine: '/images/svezia/kiruna-stock.jpg',
+    immagine: '/images/svezia/abisko-betulle-neve.jpg',
     paeseSlug: 'svezia',
     destinazioneSlug: 'kiruna',
     nome: "ICEHOTEL de Jukkasjärvi",

@@ -283,7 +283,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['speedboat-thriller-miami', 'salsa-night-miami'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: 'Los coloridos edificios Art Deco de Ocean Drive, Miami Beach, Florida',
-    immagine: '/images/florida/miami-stock.jpg',
+    immagine: '/images/florida/miami-ocean-drive-art-deco.jpg',
   },
   {
     slug: 'key-west-marathon',
@@ -544,7 +544,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['hemingway-home', 'snorkeling-bahia-honda'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: 'El Seven Mile Bridge que cruza el turquesa de los Cayos de Florida',
-    immagine: '/images/florida/key-west-stock.jpg',
+    immagine: '/images/florida/seven-mile-bridge-aerea.jpg',
   },
   {
     slug: 'everglades-naples',
@@ -800,7 +800,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['everglades-airboat'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: 'Un airboat entre los pantanos de los Everglades, Florida',
-    immagine: '/images/florida/everglades-stock.jpg',
+    immagine: '/images/florida/everglades-airboat-palude.jpg',
   },
   {
     slug: 'orlando',
@@ -1086,7 +1086,7 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['parco-tema-orlando'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: 'Las luces nocturnas de un parque temático en Orlando, Florida',
-    immagine: '/images/florida/orlando-stock.jpg',
+    immagine: '/images/florida/orlando-castello-notte.jpg',
   },
   {
     slug: 'cape-canaveral',
@@ -1319,6 +1319,6 @@ export const destinazioniFlorida: Destinazione[] = [
     esperienzeSlugs: ['kennedy-space-center'],
     tripSlugs: ['florida-road-trip'],
     imageAlt: 'El cohete Saturn V expuesto en el Kennedy Space Center, Cabo Cañaveral, Florida',
-    immagine: '/images/florida/cape-canaveral-stock.jpg',
+    immagine: '/images/florida/kennedy-space-center-saturn-v.jpg',
   },
 ]

@@ -55,7 +55,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "Depende de adónde quieras ir y de lo que quieras hacer, y el tramo que elijas marca la diferencia entre una excursión entre la multitud y un día memorable. El tramo cercano a la ciudad, Badaling, no lo recomiendo: hay muchísima gente, está tan restaurado que parece un parque temático y te arriesgas a disfrutar poco de la experiencia. Gubeikou, con Gubei Water Town, me gustó mucho: al pie de la muralla de Simatai está la ciudad del agua, hay poca gente y se visita también de noche. Mutianyu es el compromiso justo, con la telesilla para subir y el tobogán para bajar: bonito y divertido, parece un reclamo turístico y en cambio es una de las mejores formas de terminar el día. Jinshanling es el tramo para quien quiere caminar: a dos horas de Pekín, atalayas sin restaurar, hierba entre las piedras y, durante largos trechos, nadie más a la vista. Hay que contar también el cansancio, que las fotos no transmiten: no es un paseo llano sino un continuo sube y baja por escalones de distinta altura, algunos altísimos, y después de tres horas las piernas lo notan.",
     heroImageAlt: "La Gran Muralla China serpenteando por las verdes colinas de Mutianyu hasta una atalaya, bajo un cielo azul con nubes blancas",
-    heroImage: "/images/meraviglie/grande-muraglia-cinese.jpg",
+    heroImage: "/images/meraviglie/grande-muraglia-mutianyu.jpg",
   },
   {
     slug: "petra",
@@ -159,7 +159,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "Merece la pena. Y si el presupuesto lo permite, es precioso verlo también en helicóptero: es otra forma de mirarlo, y vale lo que cuesta.",
     heroImageAlt: "El Cristo Redentor a contraluz en la terraza del Corcovado al atardecer, con el cielo de Río de Janeiro veteado de rosa y azul",
-    heroImage: "/images/meraviglie/cristo-redentore.jpg",
+    heroImage: "/images/meraviglie/cristo-redentore-corcovado-tramonto.jpg",
   },
   {
     slug: "machu-picchu",
@@ -278,7 +278,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "La he visto cuatro veces. Es preciosa, pero con reservas. Es la maravilla que más decepciona a quien llega sin preparación, y el motivo no es el sitio sino la forma de visitarlo. A partir de las diez llegan los autobuses del turismo de masas desde la Riviera, desde Cancún y Playa del Carmen, y no me gusta nada, igual que los puestos que hay por todas partes: los paseos se llenan de vendedores, un puesto junto a otro por casi todos los recorridos, con los silbatos en forma de jaguar sonando sin parar. Entrar a la apertura cambia por completo la experiencia. A El Castillo ya no se sube desde hace años, así que hay que mirarlo desde abajo, y ahí se entiende el juego: dando palmas frente a la escalinata el eco vuelve como el canto del quetzal, y no es casualidad. Quien busque la sensación de descubrimiento la encuentra más en Uxmal o en Cobá, y entre México, Belice y Guatemala hay templos que para mí son más bonitos: Calakmul, Palenque, Tikal, Caracol. Aquí se viene por la precisión astronómica, que es otra cosa y vale la pena igualmente.",
     heroImageAlt: "La pirámide de El Castillo en Chichén Itzá vista de frente, con la escalinata central, el césped verde y el cielo azul, Yucatán, México",
-    heroImage: "/images/meraviglie/chichen-itza.jpg",
+    heroImage: "/images/meraviglie/chichen-itza-el-castillo.jpg",
   },
   {
     slug: "colosseo",
@@ -337,7 +337,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza: "Lo he visto infinidad de veces, y siempre es bonito y fascinante. Pero aquí juego en casa, y estar en medio de la ciudad, con el tráfico pasando por delante, le da para mí un encanto distinto al de las otras maravillas. La forma de mirarlo con otros ojos es bajar a los hipogeos, los subterráneos donde estaban las jaulas, los montacargas y quienes trabajaban en los espectáculos: tienen entrada aparte, aforo limitado, se agotan pronto y son con diferencia la parte más interesante del monumento. El error más común sigue siendo comprar la entrada en el sitio: la cola se mide en horas, y online en la web oficial cuesta menos. Cuidado también con quien propone «saltarse la cola» frente a la entrada, a menudo a precios triplicados por la misma entrada. El consejo práctico es visitarlo a primera hora de la mañana o en la última franja de la tarde, y dejarse el Palatino para después: está incluido en la misma entrada y casi todos se lo saltan por cansancio.",
     heroImageAlt: "El Coliseo de Roma visto desde el Foro Romano con la luz cálida de la tarde, entre cipreses, olivos y columnas antiguas",
-    heroImage: "/images/meraviglie/colosseo.jpg",
+    heroImage: "/images/meraviglie/colosseo-dal-foro-romano.jpg",
   },
   {
     slug: "taj-mahal",

@@ -42,7 +42,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "El torii de Miyajima a contraluz al atardecer, con las montañas y las nubes doradas, Japón",
   },
   thailandia: {
-    immagine: '/images/copertine/thailandia.jpg',
+    immagine: '/images/copertine/thailandia-phi-phi-long-tail.jpg',
     imageAlt: 'Una barca de cola larga en una bahía turquesa entre los farallones calizos del sur de Tailandia',
   },
   'marocco-itinerario': {
@@ -54,19 +54,19 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "El skyline del Lower Manhattan con el One World Trade Center visto desde el agua, Nueva York",
   },
   'florida-road-trip': {
-    immagine: '/images/copertine/florida-360.jpg',
+    immagine: '/images/copertine/florida-key-west-smathers-beach.jpg',
     imageAlt: "Agua turquesa y palmeras a lo largo de la costa de Florida",
   },
   'transilvania-express': {
-    immagine: '/images/copertine/transilvania-express.jpg',
+    immagine: '/images/copertine/transilvania-castello-di-bran.jpg',
     imageAlt: "El Castillo de Bran, el «Castillo de Drácula», en Transilvania, Rumanía",
   },
   'bulgaria-bansko-rila': {
-    immagine: '/images/copertine/bulgaria-bansko-rila.jpg',
+    immagine: '/images/copertine/bulgaria-monastero-di-rila.jpg',
     imageAlt: "Las arcadas a rayas de colores del patio del Monasterio de Rila, Bulgaria",
   },
   'costa-rica-itinerario': {
-    immagine: '/images/copertine/costa-rica-360.jpg',
+    immagine: '/images/copertine/costa-rica-vulcano-arenal.jpg',
     imageAlt: "El volcán Arenal rodeado de selva tropical, Costa Rica",
   },
   'bolivia-itinerario': {
@@ -322,7 +322,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "Las Horseshoe Falls del Niágara vistas desde el lado canadiense, con la bruma de agua que sube del salto",
   },
   'giava-bali-gili': {
-    immagine: '/images/viaggi/giava-bali-gili/bromo-alba.jpg',
+    immagine: '/images/viaggi/giava-bali-gili/bromo-semeru-alba-commons.jpg',
     imageAlt: "El cráter del Bromo humeando en el Mar de Arena con la primera luz, con el Semeru al fondo, visto desde el dron",
   },
   'peru-due-settimane': {

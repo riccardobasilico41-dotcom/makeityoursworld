@@ -34,6 +34,6 @@ export const bulgaria: Paese = {
   },
   stileViaggio: ['skiing', 'mountains', 'balkans'],
   heroImageAlt: 'The striped colored arcades of the courtyard of Rila Monastery, Bulgaria',
-  heroImage: '/images/copertine/bulgaria-bansko-rila.jpg',
+  heroImage: '/images/copertine/bulgaria-monastero-di-rila.jpg',
   tripPrincipaleSlug: 'bulgaria-bansko-rila',
 }

@@ -579,3 +579,12 @@ Per ogni viaggio, 3-4 domande sui ricordi che la pagina ancora non racconta. Nes
 2. A Chefchaouen: c'è un vicolo o un momento al tramonto che ricordi?
 3. A Volubilis: quale mosaico ti ha colpito?
 4. La moschea Hassan II a Casablanca: ci sei entrato?
+
+## Destinazioni visitate ma senza ricordo (15 novembre 2026)
+
+Sono segnate come «visitate», ma la scheda non ha la card «Il mio ricordo». Basta una o due frasi tue per ognuna (cosa ti è rimasto, un momento, un consiglio). Se una non l'hai fatta davvero, dimmelo e la segno come non visitata.
+
+- Messico: Città del Messico · Puebla e Cholula · Oaxaca · Valles Centrales (Teotitlán, Mitla, Hierve el Agua) · Puerto Escondido · Pátzcuaro e Janitzio · La Paz ed Espíritu Santo · Bahía Magdalena · Loreto · Todos Santos · Los Cabos
+- Giappone: Hakuba
+- Maldive: Malé Sud e Vaavu · Baa e la baia di Hanifaru
+- Tanzania: Ngorongoro · Tarangire e lago Manyara · Zanzibar

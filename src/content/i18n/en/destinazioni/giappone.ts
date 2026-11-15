@@ -662,7 +662,7 @@ export const destinazioniGiappone: Destinazione[] = [
     esperienzeSlugs: ['chureito-monte-fuji'],
     tripSlugs: [],
     imageAlt: 'The Chureito Pagoda with Mount Fuji in the background, Japan',
-    immagine: '/images/copertine/giappone-360.jpg',
+    immagine: '/images/copertine/giappone-pagoda-chureito-fuji.jpg',
   },
   {
     slug: 'kyoto',

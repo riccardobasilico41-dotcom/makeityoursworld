@@ -97,7 +97,7 @@ export const dolomitiRoadtripMeta: TripMeta = {
       costiNoti:
         'parking €5-10 (shuttle bus included off season); car access limited 9-16 in summer, with mandatory online booking',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-1-lago-di-braies.jpg',
+      immagine: '/images/viaggi/dolomiti-roadtrip/lago-di-braies-barche.jpg',
       imageAlt: 'Lago di Braies with its rowboats and the dolomitic walls in the background',
     },
     {

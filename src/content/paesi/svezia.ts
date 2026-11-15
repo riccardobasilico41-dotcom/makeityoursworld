@@ -33,6 +33,6 @@ export const svezia: Paese = {
   },
   stileViaggio: ['natura', 'avventura', 'inverno estremo'],
   heroImageAlt: 'Aurora boreale verde sopra un paesaggio innevato della Lapponia svedese',
-  heroImage: '/images/svezia/abisko-stock.jpg',
+  heroImage: '/images/svezia/abisko-aurora-boreale.jpg',
   tripPrincipaleSlug: 'lapponia-svedese-abisko',
 }

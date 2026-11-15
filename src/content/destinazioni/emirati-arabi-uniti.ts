@@ -735,7 +735,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     introduzione:
       'L\'entroterra. A sud c\'è l\'oasi di Liwa, sul bordo del Rub\' al-Khali, il Quarto Vuoto, il più grande deserto di sabbia continuo del mondo, con dune che superano i 250 metri. A est c\'è Al Ain, la "città giardino" patrimonio UNESCO, con le oasi di palme irrigate dai falaj, canali sotterranei di duemila anni fa.',
     percheAndarci:
-      'È l\'unico modo di vedere il deserto vero, e non la sua versione da safari serale alle porte di Dubai. Al Ain, poi, mostra come si viveva qui prima del petrolio: un\'oasi agricola con un sistema di irrigazione che funziona ancora.',
+      'È l\'unico modo di vedere il deserto vero, e non la sua versione da safari serale alle porte di Dubai. Al Ain, poi, mostra come si viveva qui prima del petrolio: un\'oasi agricola con un sistema di irrigazione che funziona ancora. È in lista per un motivo preciso. Quello che a Dubai e ad Abu Dhabi vendono come "safari nel deserto" si fa su dune modeste a mezz\'ora dalla città, con i quad, la cena in campo tendato e il rientro in serata. Il Rub\' al-Khali è un\'altra cosa, il più grande deserto di sabbia continuo del mondo, con dune oltre i duecento metri a Moreeb, e sta a due ore da Abu Dhabi: basta un\'estensione di due giorni. L\'altra metà della deviazione è Al Ain, che è l\'opposto: un\'oasi patrimonio UNESCO con centoquarantasettemila palme irrigate da canali scavati duemila anni fa e ancora in funzione, dove si cammina all\'ombra e si sente scorrere l\'acqua. Insieme raccontano com\'era questo paese prima del petrolio, ed è quello che manca del tutto a uno stopover fatto solo di città.',
     cosaVedere: [
       'Le dune di Moreeb, tra le più alte del mondo, nella zona di Liwa',
       'Il bordo del Rub\' al-Khali, il più grande deserto di sabbia continuo del pianeta',
@@ -765,8 +765,6 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       'Venire in giornata e saltare la notte, che è il motivo per cui si arriva fin qui',
       'Sottovalutare il freddo delle notti d\'inverno nel deserto',
     ],
-    miaEsperienza:
-      'È un\'estensione possibile del viaggio che ho fatto io: qui la scheda si ferma ai fatti verificabili. È in lista per un motivo preciso. Quello che a Dubai e ad Abu Dhabi vendono come "safari nel deserto" si fa su dune modeste a mezz\'ora dalla città, con i quad, la cena in campo tendato e il rientro in serata. Il Rub\' al-Khali è un\'altra cosa, il più grande deserto di sabbia continuo del mondo, con dune oltre i duecento metri a Moreeb, e sta a due ore da Abu Dhabi: basta un\'estensione di due giorni. L\'altra metà della deviazione è Al Ain, che è l\'opposto: un\'oasi patrimonio UNESCO con centoquarantasettemila palme irrigate da canali scavati duemila anni fa e ancora in funzione, dove si cammina all\'ombra e si sente scorrere l\'acqua. Insieme raccontano com\'era questo paese prima del petrolio, ed è quello che manca del tutto a uno stopover fatto solo di città.',
     // GUIDA-START
     luoghi: [
       {

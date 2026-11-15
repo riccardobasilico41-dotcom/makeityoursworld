@@ -3,7 +3,7 @@ import type { Esperienza } from '@/lib/types'
 export const esperienzeThailandia: Esperienza[] = [
   {
     slug: 'jay-fai-bangkok',
-    immagine: '/images/thailandia/bangkok-stock.jpg',
+    immagine: '/images/thailandia/wat-arun-chao-phraya.jpg',
     paeseSlug: 'thailandia',
     destinazioneSlug: 'bangkok',
     nome: "Jay Fai, el puesto con estrella Michelin",

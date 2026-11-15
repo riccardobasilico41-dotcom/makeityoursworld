@@ -42,7 +42,7 @@ export const maldive: Paese = {
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['mare', 'snorkeling', 'immersioni', 'isole locali', 'resort'],
-  heroImage: '/images/maldive/hero-atollo.jpg',
+  heroImage: '/images/maldive/guriadhoo-atollo-aereo.jpg',
   heroImageAlt: 'A coral island in the Maldives seen from above, with the turquoise lagoon and the reef dropping into the blue',
   tripPrincipaleSlug: 'maldive-guida',
 }

@@ -3,7 +3,7 @@ import type { Consiglio } from './tipi'
 export const consiglioDoveMangiareTokyo: Consiglio = {
   slug: 'dove-mangiare-a-tokyo',
   aggiornato: '2026-11-11',
-  immagine: '/images/giappone/tokyo-stock.jpg',
+  immagine: '/images/giappone/shibuya-incrocio-sera.jpg',
   imageAlt: {
     it: "Shibuya di notte, con le insegne al neon accese e la folla in movimento sull'incrocio",
     en: 'Shibuya at night, with neon signs lit up and the crowd moving across the crossing',

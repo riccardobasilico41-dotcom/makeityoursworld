@@ -145,7 +145,7 @@ const it: ContenutoAmazzonia = {
         nome: 'Manaus, Rio Negro e Anavilhanas',
         paese: 'Brasile',
         href: '/destinazioni/brasile/amazzonia-manaus',
-        immagine: '/images/brasile/manaus-stock.jpg',
+        immagine: '/images/brasile/manaus-barche-rio-negro.jpg',
         perChi: "Chi vuole l'Amazzonia più facile da raggiungere, con lodge e piccole crociere per ogni budget.",
         comeArrivare: "Voli diretti dalle grandi città brasiliane; l'Incontro delle acque si fa in mezza giornata in barca.",
         giorni: '3-5 giorni',

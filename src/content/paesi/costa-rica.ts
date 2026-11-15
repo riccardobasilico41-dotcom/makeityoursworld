@@ -38,6 +38,6 @@ export const costaRica: Paese = {
   },
   stileViaggio: ['giungla', 'vulcani', 'pura vida', 'natura'],
   heroImageAlt: 'Il vulcano Arenal circondato dalla foresta pluviale, Costa Rica',
-  heroImage: '/images/copertine/costa-rica-360.jpg',
+  heroImage: '/images/copertine/costa-rica-vulcano-arenal.jpg',
   tripPrincipaleSlug: 'costa-rica-itinerario',
 }

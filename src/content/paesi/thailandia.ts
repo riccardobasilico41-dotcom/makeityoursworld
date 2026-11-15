@@ -37,6 +37,6 @@ export const thailandia: Paese = {
   },
   stileViaggio: ['mare', 'giungla', 'cibo', 'isole'],
   heroImageAlt: 'Barca a coda lunga in una baia turchese tra i faraglioni calcarei del sud della Thailandia',
-  heroImage: '/images/copertine/thailandia.jpg',
+  heroImage: '/images/copertine/thailandia-phi-phi-long-tail.jpg',
   tripPrincipaleSlug: 'thailandia',
 }

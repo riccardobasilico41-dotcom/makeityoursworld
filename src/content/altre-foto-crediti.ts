@@ -17,4 +17,5 @@ export const creditiAltreFoto: Record<string, CreditoImmagine> = {
   '/images/tanzania/stone-town.jpg': { autore: 'Polly Sadler (@pols__)', licenza: 'Unsplash License', fonteUrl: 'https://unsplash.com/photos/0DDEIeraxMU' },
   '/images/tanzania/kilimanjaro.jpg': { autore: 'Smilyan Pavlov (@smilyan)', licenza: 'Unsplash License', fonteUrl: 'https://unsplash.com/photos/Zi0V8CV6OS4' },
   '/images/tanzania/tende-campo.jpg': { autore: 'Andrew Kayani (@the_gallery)', licenza: 'Unsplash License', fonteUrl: 'https://unsplash.com/photos/c1mUXqK2Eww' },
+  '/images/giappone/shibuya-incrocio-sera.jpg': { autore: 'Benh LIEU SONG (Flickr)', licenza: 'CC BY-SA 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg' },
 }

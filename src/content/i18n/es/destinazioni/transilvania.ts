@@ -329,7 +329,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['palazzo-parlamento', 'terme-bucarest'],
     tripSlugs: ['transilvania-express'],
     imageAlt: "El Palacio del Parlamento de Bucarest, Rumanía",
-    immagine: '/images/transilvania/bucarest-stock.jpg',
+    immagine: '/images/transilvania/palazzo-del-parlamento.jpg',
   },
   {
     slug: 'peles-bran',
@@ -560,7 +560,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
     imageAlt: "El Castillo de Bran, el «Castillo de Drácula», en Transilvania, Rumanía",
-    immagine: '/images/copertine/transilvania-express.jpg',
+    immagine: '/images/copertine/transilvania-castello-di-bran.jpg',
   },
   {
     slug: 'brasov',
@@ -868,7 +868,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['fortezza-rasnov'],
     tripSlugs: ['transilvania-express'],
     imageAlt: "La Fortaleza de Râșnov sobre una roca cerca de Brașov, Rumanía",
-    immagine: '/images/transilvania/brasov-stock.jpg',
+    immagine: '/images/transilvania/rasnov-cittadella.jpg',
   },
   {
     slug: 'sighisoara-salina-turda',
@@ -1116,7 +1116,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['salina-turda'],
     tripSlugs: ['transilvania-express'],
     imageAlt: "Las casas de colores y las calles empedradas del casco antiguo de Sighișoara, Rumanía",
-    immagine: '/images/transilvania/sighisoara-stock.jpg',
+    immagine: '/images/transilvania/sighisoara-centro-storico.jpg',
   },
   {
     slug: 'sibiu-transfagarasan',
@@ -1435,6 +1435,6 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['transfagarasan'],
     tripSlugs: ['transilvania-express'],
     imageAlt: "Las curvas de la Transfăgărășan entre las montañas de Rumanía",
-    immagine: '/images/transilvania/transfagarasan-stock.jpg',
+    immagine: '/images/transilvania/transfagarasan-tornanti.jpg',
   },
 ]

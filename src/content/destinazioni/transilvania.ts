@@ -331,7 +331,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['palazzo-parlamento', 'terme-bucarest'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'Il Palazzo del Parlamento di Bucarest, Romania',
-    immagine: '/images/transilvania/bucarest-stock.jpg',
+    immagine: '/images/transilvania/palazzo-del-parlamento.jpg',
   },
   {
     slug: 'peles-bran',
@@ -562,7 +562,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'Il Castello di Bran, il "Castello di Dracula", in Transilvania, Romania',
-    immagine: '/images/copertine/transilvania-express.jpg',
+    immagine: '/images/copertine/transilvania-castello-di-bran.jpg',
   },
   {
     slug: 'brasov',
@@ -870,7 +870,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['fortezza-rasnov'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'La Fortezza di Râșnov su una rocca vicino a Brașov, Romania',
-    immagine: '/images/transilvania/brasov-stock.jpg',
+    immagine: '/images/transilvania/rasnov-cittadella.jpg',
   },
   {
     slug: 'sighisoara-salina-turda',
@@ -1118,7 +1118,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['salina-turda'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'Le case colorate e le vie acciottolate del centro storico di Sighișoara, Romania',
-    immagine: '/images/transilvania/sighisoara-stock.jpg',
+    immagine: '/images/transilvania/sighisoara-centro-storico.jpg',
   },
   {
     slug: 'sibiu-transfagarasan',
@@ -1437,6 +1437,6 @@ export const destinazioniTransilvania: Destinazione[] = [
     esperienzeSlugs: ['transfagarasan'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'I tornanti della Transfăgărășan tra le montagne della Romania',
-    immagine: '/images/transilvania/transfagarasan-stock.jpg',
+    immagine: '/images/transilvania/transfagarasan-tornanti.jpg',
   },
 ]

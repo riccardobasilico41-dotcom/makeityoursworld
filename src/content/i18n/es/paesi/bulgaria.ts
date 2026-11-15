@@ -34,6 +34,6 @@ export const bulgaria: Paese = {
   },
   stileViaggio: ['sci', 'montagna', 'balcani'],
   heroImageAlt: 'Los arcos a rayas de colores del patio del Monasterio de Rila, Bulgaria',
-  heroImage: '/images/copertine/bulgaria-bansko-rila.jpg',
+  heroImage: '/images/copertine/bulgaria-monastero-di-rila.jpg',
   tripPrincipaleSlug: 'bulgaria-bansko-rila',
 }

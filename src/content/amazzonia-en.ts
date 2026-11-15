@@ -88,7 +88,7 @@ export const en: ContenutoAmazzonia = {
         nome: 'Manaus, Rio Negro and Anavilhanas',
         paese: 'Brazil',
         href: '/destinazioni/brasile/amazzonia-manaus',
-        immagine: '/images/brasile/manaus-stock.jpg',
+        immagine: '/images/brasile/manaus-barche-rio-negro.jpg',
         perChi: 'For those who want the easiest Amazon to reach, with lodges and small cruises for every budget.',
         comeArrivare: 'Direct flights from the big Brazilian cities; the Meeting of the Waters is a half-day boat trip.',
         giorni: '3-5 days',

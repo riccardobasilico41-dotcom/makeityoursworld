@@ -324,7 +324,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     esperienzeSlugs: ['vigeland-park-oslo', 'bygdoy-musei-fram-kontiki', 'oslofjord-crociera'],
     tripSlugs: ['lofoten-estate-2025', 'capitali-nordiche'],
     imageAlt: "Glass and marble facade of the Oslo Opera House, with people on the sloping roof",
-    immagine: '/images/norvegia/oslo-stock.jpg',
+    immagine: '/images/norvegia/oslo-opera-house.jpg',
   },
   {
     slug: 'bodo',
@@ -499,7 +499,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: "Aerial view of the port of Bodø, with red cabins on the pier and the coastal road",
-    immagine: '/images/norvegia/bodo-stock.jpg',
+    immagine: '/images/norvegia/bodo-porto.jpg',
   },
   {
     slug: 'svolvaer',
@@ -774,7 +774,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     esperienzeSlugs: ['trollfjord-rib'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: "The church of Svolvær with the red houses of the harbor against a stormy sky, Lofoten",
-    immagine: '/images/norvegia/svolvaer-stock.jpg',
+    immagine: '/images/norvegia/svolvaer-chiesa-porto.jpg',
   },
   {
     slug: 'henningsvaer',
@@ -1241,7 +1241,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     esperienzeSlugs: ['reinebringen', 'spiaggia-di-bunes', 'viking-museum-borg'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: "Aerial view from Reinebringen over the village of Reine and the surrounding fjords",
-    immagine: '/images/norvegia/reinebringen-stock.jpg',
+    immagine: '/images/norvegia/reine-dal-reinebringen.jpg',
   },
   {
     slug: 'nesland-flakstad',
@@ -1400,7 +1400,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     esperienzeSlugs: ['nesland-nusfjord'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: "Traditional red rorbuer with a fog-wrapped mountain in the background, Lofoten",
-    immagine: '/images/norvegia/nesland-stock.jpg',
+    immagine: '/images/norvegia/nusfjord-rorbu.jpg',
   },
   {
     slug: 'a',
@@ -1550,7 +1550,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     esperienzeSlugs: ['museo-dei-pescatori'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: "Traditional stockfish drying racks at sunset, with snowy mountains in the background, Lofoten",
-    immagine: '/images/norvegia/a-stock.jpg',
+    immagine: '/images/norvegia/a-rastrelliere-stoccafisso.jpg',
   },
   {
     slug: 'tromso',
@@ -1856,6 +1856,6 @@ export const destinazioniNorvegia: Destinazione[] = [
     esperienzeSlugs: ['aurora-chase-minibus-tromso', 'husky-sledding-tromso', 'sami-renne-lavvu-tromso', 'whale-watching-tromso', 'glass-igloo-lyngen'],
     tripSlugs: ['tromso'],
     imageAlt: "Arctic Cathedral of Tromsø lit up in the evening with the northern lights behind it",
-    immagine: '/images/norvegia/tromso-stock.jpg',
+    immagine: '/images/norvegia/tromso-cattedrale-artica-notte.jpg',
   },
 ]

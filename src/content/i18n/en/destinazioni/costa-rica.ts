@@ -134,7 +134,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The center of San José, capital of Costa Rica",
-    immagine: '/images/costa-rica/san-jose-stock.jpg',
+    immagine: '/images/costa-rica/san-jose-teatro-nacional.jpg',
   },
   {
     slug: 'puerto-viejo',
@@ -378,7 +378,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: ['tour-cahuita'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The Caribbean beach of Punta Uva near Puerto Viejo, Costa Rica",
-    immagine: '/images/costa-rica/puerto-viejo-stock.jpg',
+    immagine: '/images/costa-rica/punta-uva-spiaggia.jpg',
   },
   {
     slug: 'tortuguero',
@@ -583,7 +583,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: ['barca-tortuguero', 'kayak-tortuguero'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "A jungle canal leading to the village of Tortuguero, Costa Rica",
-    immagine: '/images/costa-rica/tortuguero-stock.jpg',
+    immagine: '/images/costa-rica/tortuguero-canale.jpg',
   },
   {
     slug: 'sarapiqui',
@@ -694,7 +694,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: ['rafting-sarapiqui'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The rainforest around a lodge in Sarapiquí, Costa Rica",
-    immagine: '/images/costa-rica/sarapiqui-stock.jpg',
+    immagine: '/images/costa-rica/sarapiqui-ponte-foresta.jpg',
   },
   {
     slug: 'arenal',
@@ -938,7 +938,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: ['cascata-fortuna-termales'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The Arenal volcano seen from La Fortuna, Costa Rica",
-    immagine: '/images/copertine/costa-rica-360.jpg',
+    immagine: '/images/copertine/costa-rica-vulcano-arenal.jpg',
   },
   {
     slug: 'monteverde',
@@ -1155,7 +1155,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: ['camminata-notturna-monteverde', 'zipline-monteverde'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The Monteverde cloud forest, Costa Rica",
-    immagine: '/images/costa-rica/monteverde-stock.jpg',
+    immagine: '/images/costa-rica/monteverde-foresta-nebulosa.jpg',
   },
   {
     slug: 'uvita',
@@ -1282,7 +1282,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: ['whale-watching-uvita'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "The Cola de la Ballena sandbar at Uvita, Costa Rica",
-    immagine: '/images/costa-rica/uvita-stock.jpg',
+    immagine: '/images/costa-rica/uvita-tombolo-marino-ballena.jpg',
   },
   {
     slug: 'manuel-antonio',
@@ -1512,6 +1512,6 @@ export const destinazioniCostaRica: Destinazione[] = [
     esperienzeSlugs: ['parco-manuel-antonio'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "A sloth among the trees of Manuel Antonio National Park, Costa Rica",
-    immagine: '/images/costa-rica/manuel-antonio-stock.jpg',
+    immagine: '/images/costa-rica/manuel-antonio-bradipo.jpg',
   },
 ]

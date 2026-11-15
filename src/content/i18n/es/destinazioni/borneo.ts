@@ -31,14 +31,12 @@ export const destinazioniBorneo: Destinazione[] = [
       "En la ciudad la zona más cómoda es el paseo marítimo. Para la subida al Kinabalu se duerme en Kundasang o dentro del parque, porque se sale al amanecer y desde Kota Kinabalu hay un largo trayecto por carretera: hacerlo en el día significa levantarse en plena noche.",
     doveMangiare:
       "En Kota Kinabalu se come junto al mar. En el Filipino Market se elige el pescado en el puesto y se hace a la parrilla al momento: es la cena más típica de la ciudad, a precios bajos. Hay que probar el hinava, el pescado crudo marinado en lima de los kadazan-dusun, y el tuaran mee, los fideos hechos a mano de la zona. En las ciudades de Sabah la cocina china es excelente y está por todas partes.",
-    comeArrivare:
-      "En avión a Kota Kinabalu (BKI) desde Kuala Lumpur, con muchos vuelos al día. A la llegada se pasa el control de pasaportes de Sabah, que tiene una inmigración propia incluso para quien llega desde la península.",
+    comeArrivare: "En avión a Kota Kinabalu (BKI) desde Kuala Lumpur, con muchos vuelos al día y unas 2 horas y 30 minutos de vuelo. A la llegada se pasa el control de pasaportes de Sabah, que tiene inmigración propia incluso para quien llega de la península. El aeropuerto está a unos 8 km del centro: Grab desde la zona de recogida señalizada cuesta unos 15-25 RM (3-5 €) en 20-30 minutos; el taxi con cupón a precio fijo, comprado en el mostrador de llegadas, unos 30-45 RM; el autobús urbano unos 5 RM, pero es lento y pasa poco.",
     comeSpostarsi:
       "En la ciudad a pie y con Grab. Para el parque del Kinabalu y para Sandakan hacen falta minibuses interurbanos o traslados privados: las carreteras son lentas y en el mapa las distancias engañan.",
     periodoMigliore:
       "de marzo a septiembre para la subida, cuando en la cima llueve menos. Con mal tiempo la montaña cierra, y en el pasado ha ocurrido también tras terremotos: mejor fijar la fecha con un poco de margen.",
-    costi:
-      "la subida al Kinabalu es cara y no hay forma de ahorrar: permiso, guía obligatorio, noche en Laban Rata y traslados se pagan en paquete, y es una de las partidas más altas de todo el viaje. Las islas del parque marino, en cambio, cuestan muy poco.",
+    costi: "la subida al Kinabalu es cara y no hay forma de ahorrar: permiso 400 RM y guía 350 RM cada cinco adultos (unos 80 y 70 €), más la noche en Laban Rata y los traslados, que se pagan en paquete. Es una de las partidas más altas de todo el viaje. Las islas del parque marino, en cambio, cuestan muy poco: 25 RM de entrada más la barca (2026). En la ciudad el presupuesto económico es de unos 30-45 € al día con guesthouse, mercados y Grab; medio 70-110 € con hotel en el paseo marítimo y un día en las islas; alto más de 180 € con resort en Tanjung Aru y restaurantes.",
     erroriDaEvitare: [
       "Pensar en reservar la subida al Kinabalu sobre el terreno: los permisos diarios son pocos y se agotan con mucha antelación",
       "Subestimar la altura: se parte de menos de dos mil metros y se llega a 4.095 en poco más de un día, sin aclimatación, y el mal de altura afecta también a quien está entrenado",
@@ -54,9 +52,12 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "La subida solo se permite con guía registrado (uno cada cinco adultos) y un permiso nominal, que se reserva con meses de antelación junto con la cama en Laban Rata, a través de Sabah Parks u operadores autorizados. Se sale del Timpohon Gate, a 1.866 metros: el sendero de Mesilau está cerrado.",
         quando: "En los meses más secos; con mal tiempo la montaña cierra. Reservar con margen.",
         tempo: "2 días, 1 noche en Laban Rata",
-        costo: "Permiso de subida 400 RM para adultos extranjeros, guía 350 RM cada cinco personas, seguro 10 RM (tarifas vigentes desde 2023); refugio y entrada al parque aparte.",
+        costo: "Permiso de subida 400 RM para adultos extranjeros (unos 80 €), 200 RM para menores de 18 años; guía 350 RM cada cinco adultos (unos 70 €); seguro 10 RM (tarifas vigentes desde 2023, sin cambios en 2026). Refugio y entrada al parque aparte.",
         url: "https://www.sabahparks.org.my/",
-        consiglio: "Dormir cerca del parque la noche anterior a la subida y no en Kota Kinabalu, para salir descansado."
+        consiglio: "Dormir cerca del parque la noche anterior a la subida y no en Kota Kinabalu, para salir descansado.",
+        orari: "Salida desde el Timpohon Gate a primera hora de la mañana, tras el control de permisos; la sesión informativa para quien sube es a las 18 de la tarde anterior, en la sede del parque.",
+        lat: 6.075,
+        lng: 116.5586,
       },
       {
         nome: "Kinabalu Park",
@@ -65,7 +66,11 @@ export const destinazioniBorneo: Destinazione[] = [
         quando: "Por la mañana.",
         tempo: "medio día",
         url: "https://www.sabahparks.org.my/",
-        consiglio: "Un día en el parque es la opción adecuada para quien no hace la subida."
+        consiglio: "Un día en el parque es la opción adecuada para quien no hace la subida.",
+        costo: "Tasa de conservación 50 RM para adultos extranjeros (unos 10 €), 25 RM para menores de 18 años; jardín botánico 5 RM (2026).",
+        orari: "Todos los días 8-17. Jardín botánico 9-16, última entrada a las 15, con visitas guiadas a las 9, a las 12 y a las 15; paseo guiado por el sendero natural a las 11.",
+        lat: 6.0057,
+        lng: 116.5425,
       },
       {
         nome: "Poring Hot Springs y canopy walkway",
@@ -73,7 +78,12 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "En coche o taxi desde el Kinabalu Park.",
         quando: "Por la mañana la pasarela; por la tarde las pozas.",
         tempo: "3 horas",
-        consiglio: "Combinar con Kinabalu Park el mismo día."
+        consiglio: "Combinar con Kinabalu Park el mismo día.",
+        costo: "Tasa de conservación 50 RM para adultos extranjeros (unos 10 €); canopy walkway 10 RM; bañera al aire libre 10 RM las tres primeras horas (2026).",
+        orari: "Todos los días 8-17. A finales de 2026 la canopy walkway está cerrada temporalmente: consultar con Sabah Parks antes de ir.",
+        url: "https://www.sabahparks.org.my/",
+        lat: 6.048,
+        lng: 116.7023,
       },
       {
         nome: "Parque marino Tunku Abdul Rahman",
@@ -81,9 +91,12 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "En barca desde el muelle de Jesselton Point. Se paga la tasa del parque.",
         quando: "El parque abre todos los días, 8-17. Por la mañana el mar está más tranquilo.",
         tempo: "medio día",
-        costo: "Entrada al parque 25 RM al día para adultos extranjeros (Sabah Parks), más la barca.",
+        costo: "Entrada 25 RM al día para adultos extranjeros, unos 5 € (2026), más la barca desde Jesselton Point.",
         url: "https://www.sabahparks.org.my/",
-        consiglio: "Manukan, Mamutik y Sapi son los destinos más habituales para un día."
+        consiglio: "Manukan, Mamutik y Sapi son los destinos más habituales para un día.",
+        orari: "Todos los días 8-17.",
+        lat: 5.9667,
+        lng: 116.0,
       },
       {
         nome: "Paseo marítimo, Filipino Market y atardecer",
@@ -91,7 +104,88 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pie desde el centro. El mercado está activo por la noche.",
         quando: "El atardecer y la noche.",
         tempo: "2 horas",
-        consiglio: "Comer pescado a la parrilla en los puestos nocturnos, eligiéndolo del hielo."
+        consiglio: "Comer pescado a la parrilla en los puestos nocturnos, eligiéndolo del hielo.",
+        orari: "Los puestos de pescado funcionan desde media tarde hasta la noche.",
+        lat: 5.9816,
+        lng: 116.072,
+      },
+      {
+        nome: "Mezquita de la ciudad de Kota Kinabalu",
+        testo: "La segunda mezquita principal de la ciudad, en el barrio de Likas, construida sobre una laguna: con el agua quieta parece flotar. La cúpula y los minaretes se ven bien también desde la carretera de la costa.",
+        come: "En Grab desde el centro, unos 15 minutos hacia el norte. Los visitantes no musulmanes entran fuera de las horas de oración, con brazos y piernas cubiertos.",
+        quando: "A última hora de la tarde, por la luz sobre el agua; evitar el viernes a mediodía.",
+        tempo: "1 hora",
+        lat: 5.9959,
+        lng: 116.1078,
+      },
+      {
+        nome: "Atkinson Clock Tower",
+        testo: "La torre del reloj de madera en la ladera de Signal Hill es la estructura más antigua que sigue en pie en Kota Kinabalu, una de las pocas que sobrevivieron a la guerra. Se dedicó a Francis Atkinson, el primer funcionario del distrito de Jesselton, el antiguo nombre de la ciudad.",
+        come: "A pie desde el centro, pocos minutos de subida desde Gaya Street.",
+        quando: "De día, junto con Signal Hill.",
+        tempo: "20 minutos",
+        costo: "Gratis: se ve desde fuera.",
+        lat: 5.9822,
+        lng: 116.0773,
+      },
+      {
+        nome: "Signal Hill Observatory",
+        testo: "El mirador en la colina detrás del centro, con vistas a los tejados, al puerto y a las islas del parque marino. Es la forma más sencilla de entender cómo es la ciudad.",
+        come: "A pie desde el centro por una escalinata empinada, o en Grab hasta arriba.",
+        quando: "Al atardecer, cuando el sol baja detrás de las islas.",
+        tempo: "1 hora",
+        lat: 5.9856,
+        lng: 116.0791,
+      },
+      {
+        nome: "Gaya Street y el mercado del domingo",
+        testo: "La calle principal del casco antiguo, con shophouses chinas, cafés y kopitiam. El domingo por la mañana se llena de puestos de fruta, plantas, artesanía y comida callejera.",
+        come: "A pie desde el paseo marítimo.",
+        quando: "El domingo temprano, antes del calor.",
+        tempo: "1-2 horas",
+        orari: "El mercado solo se monta los domingos, desde primera hora hasta el final de la mañana.",
+        lat: 5.9835,
+        lng: 116.077,
+      },
+      {
+        nome: "Sabah Museum",
+        testo: "El museo estatal de Sabah en la colina de Bukit Istana Lama, con secciones de etnografía, historia natural y arqueología y una aldea de casas tradicionales al aire libre. El edificio principal está cerrado temporalmente por obras: conviene comprobar antes qué partes del complejo están abiertas.",
+        come: "En Grab desde el centro, unos 10 minutos hacia el sur.",
+        quando: "En las horas de más calor o con lluvia.",
+        tempo: "1-2 horas",
+        costo: "15 RM para extranjeros, unos 3 € (2026).",
+        lat: 5.9614,
+        lng: 116.0709,
+        url: "https://museum.sabah.gov.my/",
+      },
+      {
+        nome: "Kota Kinabalu Wetland Centre",
+        testo: "Veinticuatro hectáreas de manglar, el último retazo de los que cubrían la costa de la ciudad. Una pasarela de madera cruza el pantano, entre aves residentes, migratorias del norte de Asia, cangrejos y peces del fango.",
+        come: "En Grab desde el centro, unos 10 minutos hacia Likas.",
+        quando: "A primera hora o hacia la tarde, por las aves.",
+        tempo: "1-2 horas",
+        lat: 5.9874,
+        lng: 116.0892,
+      },
+      {
+        nome: "Playa de Tanjung Aru",
+        testo: "La larga playa al sur del centro, cerca del aeropuerto, adonde por la tarde llegan familias y puestos de comida. Para bañarse no es memorable, pero el atardecer está entre los mejores de la ciudad.",
+        come: "En Grab, unos 15 minutos desde el centro.",
+        quando: "Al atardecer.",
+        tempo: "2 horas",
+        costo: "Gratis.",
+        lat: 5.9357,
+        lng: 116.0467,
+      },
+      {
+        nome: "Kundasang War Memorial",
+        testo: "El memorial de los prisioneros británicos y australianos muertos en las marchas de la muerte de Sandakan a Ranau, que recuerda también el sufrimiento de la población de Sabah. Está en Kundasang, en la carretera al Kinabalu Park, con jardines y vistas a la montaña.",
+        come: "En coche, en el traslado al parque: a pocos minutos del centro de Kundasang.",
+        quando: "Por la mañana, cuando la cima del Kinabalu está despejada.",
+        tempo: "1 hora",
+        lat: 5.9874,
+        lng: 116.5763,
+        consiglio: "Tiene más sentido después del Sandakan Memorial Park, o antes si el viaje empieza por la montaña.",
       }
     ],
     programmi: [
@@ -103,6 +197,15 @@ export const destinazioniBorneo: Destinazione[] = [
           "Tarde: descanso",
           "Atardecer en el paseo marítimo y cena en los puestos del Filipino Market"
         ]
+      },
+      {
+        titolo: "2 días en la ciudad",
+        tappe: [
+          "Día 1: Gaya Street, Atkinson Clock Tower y Signal Hill por la mañana",
+          "Tarde en el Wetland Centre o el Sabah Museum, atardecer en el paseo marítimo y cena en el Filipino Market",
+          "Día 2: barca desde Jesselton Point a Manukan o Sapi, vuelta a primera hora de la tarde",
+          "Mezquita de Likas a última hora de la tarde y atardecer en Tanjung Aru",
+        ],
       },
       {
         titolo: "3 días con la subida",
@@ -123,6 +226,11 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Cerca de Kinabalu Park (Kundasang)",
         perChi: "quien sube a la cima",
         testo: "Lodges y casas de huéspedes lejos de la ciudad, cerca del Timpohon Gate. Fresco por la noche."
+      },
+      {
+        nome: "Tanjung Aru",
+        perChi: "quien quiere el mar cerca del aeropuerto",
+        testo: "Los grandes resorts en la playa al sur del centro, a pocos minutos del aeropuerto. Tranquilos, pero para ir al centro siempre hace falta Grab.",
       }
     ],
     sapori: [
@@ -144,6 +252,46 @@ export const destinazioniBorneo: Destinazione[] = [
       "La altitud se nota: se sube de menos de dos mil a 4.095 metros en poco más de un día, y el mal de altura afecta incluso a quien está entrenado.",
       "Consultar los avisos de viaje de la costa oriental de Sabah antes de moverse más allá de la zona de Kota Kinabalu.",
       "Llevar efectivo para los pequeños negocios: fuera de la ciudad las tarjetas no siempre funcionan."
+    ],
+    gite: [
+      {
+        nome: "Río Klias y los monos narigudos",
+        distanza: "unas 2 horas en coche hacia el sur",
+        testo: "Un crucero entre los manglares de la península de Klias al atardecer, con los monos narigudos en los árboles y, al anochecer, las luciérnagas. Es la alternativa más cercana para quien no va al Kinabatangan.",
+        come: "Con un tour de tarde, vuelta a la ciudad por la noche.",
+      },
+      {
+        nome: "Tip of Borneo",
+        distanza: "unos 190 km, 3-4 horas en coche",
+        testo: "Tanjung Simpang Mengayau, el punto más septentrional de Borneo, donde el mar de China Meridional se encuentra con el mar de Joló. Es un día largo: se combina con las casas largas de los rungus en los alrededores de Kudat.",
+        come: "En coche con conductor o con un tour de un día, saliendo temprano; se pasa por Kudat.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Kota Kinabalu?",
+        risposta: "Uno o dos días para la ciudad y las islas del parque marino. Para el Kinabalu se añaden tres: traslado al parque, subida hasta Laban Rata y cima al amanecer con el descenso.",
+      },
+      {
+        domanda: "¿Cómo se reserva la subida al Monte Kinabalu?",
+        risposta: "El permiso es nominal y va ligado a una cama en Laban Rata: se reserva con meses de antelación a través de Sabah Parks o de un operador autorizado, junto con el guía obligatorio. Allí no se encuentra.",
+      },
+      {
+        domanda: "¿Cuánto cuesta subir al Kinabalu?",
+        risposta: "Para adultos extranjeros el permiso cuesta 400 RM (unos 80 €) y el guía 350 RM cada cinco personas. Aparte se pagan el refugio, la entrada al parque y los traslados, que suelen comprarse en paquete.",
+      },
+      {
+        domanda: "¿Hace falta experiencia de montaña para el Kinabalu?",
+        risposta: "No hacen falta técnica ni material de escalada, pero sí fondo: unos 1.400 metros de desnivel el primer día y la cima a 4.095 metros el segundo, sin aclimatación. En la ruta hay una hora límite, y a quien va demasiado lento lo hacen volver.",
+      },
+      {
+        domanda: "¿Cómo se va del aeropuerto al centro?",
+        risposta: "Con Grab, unos 15-25 RM en 20-30 minutos, o con el taxi a precio fijo comprado en el mostrador de llegadas, unos 30-45 RM. El autobús urbano cuesta unos 5 RM pero pasa poco.",
+      },
+      {
+        domanda: "¿Qué islas elegir en el parque Tunku Abdul Rahman?",
+        risposta: "Manukan, Mamutik y Sapi son las más cómodas para media jornada de playa y esnórquel, a unos veinte minutos en barca desde Jesselton Point; Gaya es la más grande. La entrada cuesta 25 RM para adultos extranjeros.",
+      },
     ],
     esperienzeSlugs: ['monte-kinabalu'],
     tripSlugs: ['borneo-itinerario'],
@@ -179,12 +327,11 @@ export const destinazioniBorneo: Destinazione[] = [
       "En Sepilok, en los lodges inmersos en la selva a pocos minutos de los centros. Es la mejor opción, porque permite estar en la primera sesión de alimentación y en la pasarela del dosel al amanecer. La ciudad de Sandakan sirve solo para las conexiones.",
     doveMangiare:
       "En Sandakan se come pescado y cocina china, ambos de buen nivel: la ciudad tiene una comunidad china histórica, y el sitio adecuado son los restaurantes de marisco del paseo marítimo. En Sepilok solo están los restaurantes de los lodges, sencillos y con menús fijos.",
-    comeArrivare:
-      "Vuelo de Kota Kinabalu a Sandakan o un largo viaje por carretera. Sepilok está a las afueras de Sandakan.",
+    comeArrivare: "Vuelo de Kota Kinabalu a Sandakan (SDK), algo menos de una hora, o unas seis horas por carretera; desde el Kinabalu Park, después de la subida, el traslado dura cuatro o cinco horas. Sepilok está a unos 25 km al oeste de la ciudad, media hora en taxi o con el traslado del lodge, y es cómodo también desde el aeropuerto.",
     comeSpostarsi: "Taxi o traslados organizados por los lodges. Hay transporte público, pero pasa raramente y con equipaje es incómodo.",
     periodoMigliore:
       "todo el año para los centros, con una precisión importante: en la temporada de frutos de la selva, que varía de un año a otro, los orangutanes encuentran comida por sí solos y a las sesiones de alimentación llegan muchos menos.",
-    costi: "Sepilok con entrada (precios actualizados en taquilla); centro de los osos malayos 50 ringgit (2025); Rainforest Discovery Centre con entrada aparte.",
+    costi: "Sepilok 30 RM para adultos extranjeros (unos 6 €), Rainforest Discovery Centre 30 RM, Agnes Keith House 15 RM (2026); centro de los osos malayos 50 RM (2025). Económico: unos 35-50 € al día con guesthouse en Sepilok y taxis; medio 70-120 € con un lodge en la selva y traslados privados; alto más de 150 € añadiendo la noche en Selingan o tours guiados.",
     erroriDaEvitare: [
       "Ir a una sola sesión de alimentación: en una temporada desfavorable dos intentos duplican las probabilidades",
       "Llevar mochilas abiertas, botellas o comida en la mano: los macacos los arrebatan, y ocurre a menudo",
@@ -299,9 +446,12 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A unos 25 km al oeste de Sandakan, en taxi o autobús. Se camina por pasarelas de madera hasta la plataforma.",
         quando: "Tomas de comida a las 10 y a las 15 (Sabah Wildlife Department): llegar media hora antes y comprobar en taquilla posibles cambios. Ir a las dos tomas duplica las probabilidades.",
         tempo: "2-3 horas",
-        costo: "Precios actualizados en taquilla o en la web del Sabah Wildlife Department; llevar efectivo.",
+        costo: "30 RM para adultos extranjeros, unos 6 €; 15 RM para menores de 18 años; 10 RM más por cámaras profesionales y de vídeo, el móvil gratis (2026). La entrada vale todo el día, con la toma de la tarde incluida.",
         url: "https://wildlife.sabah.gov.my/",
-        consiglio: "Llevar la mochila cerrada y sin comida en la mano: los macacos arrebatan todo."
+        consiglio: "Llevar la mochila cerrada y sin comida en la mano: los macacos arrebatan todo.",
+        orari: "Todos los días 9-12 y 14-16; los viernes 9-11 y 14-16.",
+        lat: 5.865,
+        lng: 117.9488,
       },
       {
         nome: "Bornean Sun Bear Conservation Centre",
@@ -309,9 +459,11 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pie o en taxi desde Sepilok, unos minutos.",
         quando: "Por la mañana o a primera hora de la tarde.",
         tempo: "1 hora",
-        costo: "50 RM para adultos extranjeros (2025).",
+        costo: "50 RM para adultos extranjeros, unos 10 € (2025).",
         url: "https://www.bsbcc.org.my/",
-        consiglio: "Visitarlo el mismo día que los orangutanes."
+        consiglio: "Visitarlo el mismo día que los orangutanes.",
+        lat: 5.865,
+        lng: 117.9496,
       },
       {
         nome: "Rainforest Discovery Centre",
@@ -319,7 +471,12 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pie desde el centro de Sepilok o en taxi.",
         quando: "Al amanecer para las aves.",
         tempo: "2 horas",
-        consiglio: "Prismáticos y salida al amanecer: es cuando el bosque está más vivo."
+        consiglio: "Prismáticos y salida al amanecer: es cuando el bosque está más vivo.",
+        costo: "30 RM para adultos extranjeros (unos 6 €), 20 RM entre 5 y 17 años; paseo nocturno guiado 30 RM (2026).",
+        orari: "Todos los días 8-17, festivos incluidos.",
+        url: "https://sabahtourism.com/destination/rainforest-discovery-centre-rdc/",
+        lat: 5.8765,
+        lng: 117.9445,
       },
       {
         nome: "Sandakan Memorial Park",
@@ -327,7 +484,9 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pocos kilómetros de Sandakan, en taxi.",
         quando: "Por la mañana.",
         tempo: "1 hora y media",
-        consiglio: "No saltárselo por ser «solo un parque»: merece el tiempo."
+        consiglio: "No saltárselo por ser «solo un parque»: merece el tiempo.",
+        lat: 5.8876,
+        lng: 118.0471,
       },
       {
         nome: "Agnes Keith House",
@@ -335,16 +494,85 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "En taxi desde el centro de Sandakan.",
         quando: "Por la tarde.",
         tempo: "1 hora",
-        consiglio: "Se combina con el Memorial Park el mismo día en Sandakan."
+        consiglio: "Se combina con el Memorial Park el mismo día en Sandakan.",
+        costo: "15 RM para extranjeros, unos 3 € (2026).",
+        url: "https://museum.sabah.gov.my/",
+        lat: 5.8431,
+        lng: 118.1155,
       },
+      {
+        nome: "Labuk Bay Proboscis Monkey Sanctuary",
+        testo: "Un santuario privado nacido dentro de una plantación de palma aceitera, donde los monos narigudos llegan a las plataformas de madera a la hora de la fruta. Se ven muy de cerca y con poco esfuerzo, pero es un encuentro organizado, no salvaje.",
+        come: "Unos 40 minutos en coche desde Sepilok, en taxi o con los tours de media jornada de los lodges.",
+        quando: "En las tomas de las plataformas, una por la mañana y otra por la tarde: comprobar los horarios al reservar.",
+        tempo: "2-3 horas",
+        lat: 5.9352,
+        lng: 117.7982,
+        consiglio: "Tiene sentido para quien no va al Kinabatangan; quien va los verá en libertad.",
+      },
+      {
+        nome: "Templo de Puu Jih Shih",
+        testo: "Un gran templo budista chino en una colina al oeste del centro, con columnas rodeadas de dragones y una amplia vista sobre la bahía de Sandakan. Cuenta el peso de la comunidad china en la historia de la ciudad.",
+        come: "En taxi o Grab desde el centro, pocos minutos.",
+        quando: "Por la mañana o hacia la tarde.",
+        tempo: "45 minutos",
+        lat: 5.8342,
+        lng: 118.0861,
+      },
+      {
+        nome: "Iglesia de St. Michael and All Angels",
+        testo: "Una iglesia anglicana de piedra en la colina del centro, de las más antiguas de Sabah y uno de los pocos edificios de Sandakan que quedaron en pie tras la guerra. Se combina con la Agnes Keith House en el recorrido por la ciudad histórica.",
+        come: "A pie desde el centro, cuesta arriba.",
+        quando: "De día.",
+        tempo: "30 minutos",
+        lat: 5.8406,
+        lng: 118.1129,
+      },
+      {
+        nome: "Mercado central de Sandakan",
+        testo: "El mercado junto al puerto, con pescado, marisco seco, fruta, verdura y puestos de comida. Es donde se ve la Sandakan de todos los días.",
+        come: "A pie en el centro.",
+        quando: "A primera hora, cuando llega el pescado.",
+        tempo: "1 hora",
+        lat: 5.839,
+        lng: 118.121,
+      },
+      {
+        nome: "Turtle Islands Park (Selingan)",
+        testo: "Tres islas a 40 km al norte de Sandakan donde las tortugas verdes y carey ponen sus huevos en la playa. Se duerme en la isla de Selingan y por la noche los guardas avisan a los huéspedes cuando una tortuga sube a la arena; después se asiste a la suelta de las crías.",
+        come: "Solo con noche en la isla, reservada con antelación a través del operador autorizado; barca desde Sandakan. Las plazas son limitadas.",
+        quando: "Todo el año; reservar con mucha antelación.",
+        tempo: "1 noche",
+        costo: "Tasa de conservación 60 RM al día para adultos extranjeros (unos 12 €), 30 RM para menores de 18 años (2026); barca y noche en el paquete.",
+        orari: "El programa de las tortugas es nocturno.",
+        lat: 6.1745,
+        lng: 118.0605,
+        url: "https://www.sabahparks.org.my/turtle-islands-park",
+      }
     ],
     programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Toma de las 10 en Sepilok",
+          "Sun Bear Centre, a pocos pasos",
+          "Comida y Rainforest Discovery Centre",
+          "Toma de las 15, con la misma entrada",
+        ],
+      },
       {
         titolo: "2 días",
         tappe: [
           "Día 1: ración de la mañana en Sepilok, Sun Bear Centre, almuerzo, Rainforest Discovery Centre, ración de la tarde",
           "Día 2: Sandakan Memorial Park, luego traslado al Kinabatangan"
         ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2: como en los 2 días, sin salir hacia el río",
+          "Día 3: noche en Selingan para las tortugas, o Labuk Bay y la Sandakan histórica con Puu Jih Shih, St. Michael y la Agnes Keith House",
+        ],
       }
     ],
     zone: [
@@ -357,6 +585,11 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Sandakan",
         perChi: "quien llega en avión o quiere servicios",
         testo: "Hoteles y restaurantes en la ciudad, no lejos de Sepilok. Más cómodo para salir."
+      },
+      {
+        nome: "Isla de Selingan",
+        perChi: "quien quiere ver las tortugas",
+        testo: "Las únicas habitaciones son las del parque, ligadas al programa nocturno: una sola noche, reservada con mucha antelación.",
       }
     ],
     sapori: [
@@ -378,6 +611,46 @@ export const destinazioniBorneo: Destinazione[] = [
       "Los macacos arrebatan mochilas abiertas, botellas y comida: llevar todo cerrado.",
       "Sepilok no es bosque salvaje: los orangutanes están acostumbrados a la gente. Para la fauna salvaje hace falta el Kinabatangan.",
       "Consultar los avisos de viaje de la costa oriental de Sabah."
+    ],
+    gite: [
+      {
+        nome: "Gomantong Caves",
+        distanza: "de camino al Kinabatangan, una hora antes de Sukau",
+        testo: "Cuevas de caliza con colonias de murciélagos y salanganas, cuyos nidos se recogen para la sopa. La entrada cuesta unos 30 RM para extranjeros; zapato cerrado, porque el suelo está cubierto de guano.",
+        come: "Con el traslado hacia el río o con una salida del lodge.",
+      },
+      {
+        nome: "Río Kinabatangan",
+        distanza: "unas 2 horas por carretera hasta Sukau o Bilit",
+        testo: "La continuación natural de Sepilok: orangutanes y monos narigudos en libertad, vistos desde la barca. No es una excursión de un día: hacen falta al menos dos noches.",
+        come: "Con los paquetes de los lodges, que salen de Sandakan o de Sepilok.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿A qué hora son las tomas en Sepilok?",
+        risposta: "A las 10 y a las 15, en la plataforma principal. La entrada vale todo el día, así que se puede volver para la segunda; con lluvia pueden retrasarse.",
+      },
+      {
+        domanda: "¿Cuánto cuesta la entrada a Sepilok?",
+        risposta: "30 RM para adultos extranjeros y 15 RM para menores de 18 años (2026). Las cámaras profesionales pagan 10 RM más, los móviles no.",
+      },
+      {
+        domanda: "¿Se ven siempre orangutanes?",
+        risposta: "No. Cuando en la selva hay mucha fruta llegan pocos o ninguno; ir a las dos tomas duplica las probabilidades.",
+      },
+      {
+        domanda: "¿Mejor dormir en Sepilok o en Sandakan?",
+        risposta: "En Sepilok, en los lodges a pocos minutos de los centros: se llega a la primera toma y a la canopy walkway al amanecer sin traslados. Sandakan sirve para vuelos y conexiones.",
+      },
+      {
+        domanda: "¿Cuánto tiempo hace falta en Sepilok y Sandakan?",
+        risposta: "Un día completo para Sepilok, el centro de los osos malayos y el Rainforest Discovery Centre; un segundo para el Sandakan Memorial Park y la ciudad, antes de salir hacia el Kinabatangan.",
+      },
+      {
+        domanda: "¿Se pueden ver tortugas desde Sandakan?",
+        risposta: "Sí, en el Turtle Islands Park, con una noche en la isla de Selingan reservada con antelación. La puesta es de noche y los guardas avisan a los huéspedes cuando una tortuga sube a la playa.",
+      },
     ],
     esperienzeSlugs: ['sepilok-oranghi'],
     tripSlugs: ['borneo-itinerario'],
@@ -412,12 +685,11 @@ export const destinazioniBorneo: Destinazione[] = [
       "En los lodges a lo largo del río, casi todos en torno a Sukau y Bilit, que se reservan en paquete con comidas y salidas en barca incluidas: es la única forma sensata de organizarse. Los hay desde muy básicos hasta confortables, y la diferencia de precio está más en la habitación que en los guías.",
     doveMangiare:
       "No hay elección, y es normal: se come en el lodge, en buffet, tres veces al día. Cocina malaya sencilla: arroz, pollo, pescado de río, verduras salteadas, fruta. Buena y repetitiva. Tiendas no hay: el agua, los snacks y sobre todo el efectivo hay que comprarlos en Sandakan antes de salir.",
-    comeArrivare:
-      "Unas horas de carretera desde Sandakan hasta Sukau o Bilit, luego la barca hasta el lodge. Casi todos los paquetes incluyen el traslado desde Sandakan o directamente desde el aeropuerto.",
+    comeArrivare: "Unas horas por carretera desde Sandakan, unas dos, hasta Sukau o Bilit, y luego la barca hasta el lodge. Casi todos los paquetes incluyen el traslado desde Sandakan, Sepilok o directamente desde el aeropuerto, y muchos paran en las Gomantong Caves por el camino. Para seguir hacia Semporna hacen falta cinco o seis horas en coche, o el vuelo de Sandakan a Tawau y hora y media por carretera.",
     comeSpostarsi: "Solo en barca, con las salidas organizadas por el lodge: a lo largo del río no hay carreteras.",
     periodoMigliore:
       "de marzo a octubre. En la estación de lluvias el río sube y los animales se dispersan por la selva inundada en lugar de concentrarse en las orillas: las probabilidades de verlos bajan bastante.",
-    costi: "paquetes por persona y noche con pensión completa, salidas en barca y traslados incluidos; las diferencias de precio dependen sobre todo del nivel de la habitación.",
+    costi: "paquetes por persona y noche con pensión completa, salidas en barca y traslados incluidos, que a menudo se pagan en parte en efectivo; las diferencias de precio dependen sobre todo del nivel de la habitación. Gomantong cuesta unos 30 RM para extranjeros (unos 6 €). Económico: unos 50-80 € al día por persona en homestay o en un lodge sencillo; medio 100-180 € en los lodges cómodos de Sukau; alto más de 250 € con las mejores habitaciones y guías privados.",
     erroriDaEvitare: [
       "Quedarse una sola noche: con dos salidas se depende de la suerte, con cuatro o seis las probabilidades cambian por completo",
       "Llegar sin efectivo: a lo largo del río no hay cajeros, y muchos lodges y servicios extra se pagan solo en ringgit",
@@ -457,7 +729,51 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "En coche, normalmente con el traslado o una salida del lodge. Se visita la cueva Simud Hitam, a pocos minutos a pie de la entrada; la Simud Putih está cerrada al público.",
         quando: "Por la tarde, hacia la salida nocturna de los murciélagos.",
         tempo: "2 horas",
-        consiglio: "Zapatos cerrados y linterna: el suelo está cubierto de guano y el olor es fuerte."
+        consiglio: "Zapatos cerrados y linterna: el suelo está cubierto de guano y el olor es fuerte.",
+        costo: "Unos 30 RM para extranjeros, unos 6 €.",
+        lat: 5.5299,
+        lng: 118.0751,
+      },
+      {
+        nome: "Afluente Menanggul",
+        testo: "Un estrecho afluente del Kinabatangan cerca de Sukau, donde la barca pasa a pocos metros de las orillas. A última hora de la tarde los monos narigudos se instalan en los árboles para la noche, y se ven martines pescadores y cocodrilos.",
+        come: "Con las salidas en barca de los lodges de Sukau.",
+        quando: "A última hora de la tarde.",
+        tempo: "2 horas",
+      },
+      {
+        nome: "Lago de Kelenanap",
+        testo: "Un lago en forma de herradura nacido de un meandro abandonado del río, al que se llega remontando el Kinabatangan. Es uno de los mejores lugares para las aves, cálaos incluidos, en las primeras horas del día.",
+        come: "Con la salida de la mañana de los lodges, en barca.",
+        quando: "Al amanecer.",
+        tempo: "1-2 horas",
+      },
+      {
+        nome: "Agop Batu Tulug",
+        testo: "Cuevas en una colina caliza junto al río, en Batu Puteh, con unos 125 ataúdes de madera tallada atribuidos por lo general a los Orang Sungai, los pueblos del río. Es un lugar del patrimonio estatal, con un pequeño museo y una escalera de madera hasta las cuevas.",
+        come: "En coche por la carretera entre Sandakan y Lahad Datu, una hora y media desde Sandakan.",
+        quando: "Por la mañana, antes del calor.",
+        tempo: "1-2 horas",
+        lat: 5.4157,
+        lng: 117.9424,
+        url: "https://museum.sabah.gov.my/",
+      },
+      {
+        nome: "Batu Puteh y el ecoturismo comunitario",
+        testo: "El pueblo de Batu Puteh, en el tramo más alto, acoge un proyecto de ecoturismo gestionado por la comunidad con homestays, salidas en barca y jornadas de reforestación en las zonas degradadas. Es la forma de ver el río desde el lado de quien vive en él.",
+        come: "En coche por la carretera Sandakan-Lahad Datu; se reserva con antelación.",
+        quando: "Todo el año.",
+        tempo: "1-2 días",
+        lat: 5.4201,
+        lng: 117.9418,
+      },
+      {
+        nome: "Trekking guiado y paseo nocturno",
+        testo: "Las caminatas por la selva detrás de los lodges, de día o con linterna después de cenar: insectos, ranas, arañas, búhos y, con suerte, un tarsero. El terreno está embarrado y las sanguijuelas son la norma.",
+        come: "Con los guías del lodge; muchos prestan botas de goma.",
+        quando: "Por la tarde o después de cenar.",
+        tempo: "1-2 horas",
+        consiglio: "Calcetines antisanguijuelas y manga larga.",
       }
     ],
     programmi: [
@@ -468,6 +784,15 @@ export const destinazioniBorneo: Destinazione[] = [
           "Día 2: crucero al amanecer, mañana libre, trekking guiado por la tarde, salida nocturna",
           "Día 3: último crucero al amanecer y salida"
         ]
+      },
+      {
+        titolo: "3 noches",
+        tappe: [
+          "Día 1: Gomantong por el camino, salida al atardecer por el Menanggul",
+          "Día 2: amanecer en el lago de Kelenanap, trekking por la tarde, salida nocturna",
+          "Día 3: crucero al amanecer, luego Agop Batu Tulug o media jornada en Batu Puteh",
+          "Día 4: última salida al amanecer y partida",
+        ],
       }
     ],
     zone: [
@@ -480,6 +805,11 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Bilit",
         perChi: "quien quiere ahorrar",
         testo: "Lodges más sencillos, en un tramo más aislado del río. Algo menos cómodo de alcanzar."
+      },
+      {
+        nome: "Batu Puteh",
+        perChi: "quien busca un homestay comunitario",
+        testo: "Casas de familias del pueblo en el tramo más alto del río. Más sencillo, y lo que se paga se queda en la comunidad.",
       }
     ],
     sapori: [
@@ -502,6 +832,46 @@ export const destinazioniBorneo: Destinazione[] = [
       "Una sola noche no basta: con dos salidas se depende de la suerte.",
       "En la estación de lluvias el río sube y los animales se dispersan: menos avistamientos."
     ],
+    gite: [
+      {
+        nome: "Sepilok y Sandakan",
+        distanza: "unas 2-3 horas por carretera",
+        testo: "Las tomas de los orangutanes en Sepilok, el centro de los osos malayos y el Sandakan Memorial Park: el complemento natural del río, donde los animales se ven de cerca.",
+        come: "Con el traslado del lodge, antes o después del río.",
+      },
+      {
+        nome: "Danum Valley",
+        distanza: "unas horas por carretera hacia el sur, hasta Lahad Datu",
+        testo: "La selva primaria nunca talada, lo contrario del Kinabatangan: menos animales fáciles de ver, árboles gigantes y un bosque intacto. No es una excursión de un día.",
+        come: "Solo con paquete y traslado del alojamiento; al menos tres noches.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántas noches hacen falta en el Kinabatangan?",
+        risposta: "Al menos dos: con cuatro o cinco salidas en barca las probabilidades de ver orangutanes y elefantes cambian por completo. Una sola noche deja dos salidas y mucha suerte.",
+      },
+      {
+        domanda: "¿Sukau o Bilit?",
+        risposta: "Sukau es el punto clásico, cerca del Menanggul y del lago de Kelenanap; Bilit tiene lodges más sencillos en un tramo más aislado. Guías y salidas son parecidos, lo que cambia sobre todo es la habitación.",
+      },
+      {
+        domanda: "¿Se ven elefantes pigmeos?",
+        risposta: "A veces, pero no en un periodo garantizado: las manadas se mueven mucho a lo largo del río. Los lodges saben dónde se han visto en los últimos días.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para el Kinabatangan?",
+        risposta: "De marzo a octubre, con el río bajo y los animales concentrados en las orillas. En la temporada de lluvias el agua sube y la fauna se dispersa por la selva inundada.",
+      },
+      {
+        domanda: "¿Hace falta efectivo en el río?",
+        risposta: "Sí. A lo largo del río no hay cajeros y muchos extras se pagan solo en ringgit: conviene sacar dinero en Sandakan o en Kota Kinabalu.",
+      },
+      {
+        domanda: "¿Qué llevar en la barca?",
+        risposta: "Prismáticos, chaqueta impermeable, una funda estanca para el móvil y la cámara y repelente fuerte para las salidas de la tarde. Para los trekkings hacen falta calcetines antisanguijuelas.",
+      },
+    ],
     esperienzeSlugs: ['crociera-kinabatangan'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: "Barcas de madera de colores amarradas en la orilla fangosa del río Kinabatangan, con la selva tropical en la otra orilla",
@@ -516,8 +886,7 @@ export const destinazioniBorneo: Destinazione[] = [
     visitataPersonalmente: false,
     introduzione:
       "Una vasta selva tropical primaria nunca talada, una de las pocas que quedan en el sudeste asiático: árboles altísimos, una pasarela suspendida entre las copas y un silencio que por la mañana temprano solo rompen los gibones. No hay pueblos ni carreteras públicas.",
-    percheAndarci:
-      "Es lo más parecido al Borneo de antes de la deforestación. La diferencia entre selva primaria y secundaria, que sobre el papel parece un detalle técnico, aquí se ve a simple vista: árboles de tamaños que en otros sitios ya no existen y una estructura en estratos completa.",
+    percheAndarci: "Es lo más parecido al Borneo de antes de la deforestación. La diferencia entre selva primaria y secundaria, que sobre el papel parece un detalle técnico, aquí se ve a simple vista: árboles de tamaños que en otros sitios ya no existen y una estructura en estratos completa. Y es lo contrario del Kinabatangan: allí los animales se ven con facilidad porque están apretados en una franja de selva entre las palmas aceiteras, aquí se ven menos porque todavía tienen 438 km² por donde moverse. Por eso hacen falta al menos tres noches.",
     cosaVedere: [
       "La pasarela en el dosel suspendida entre las copas",
       "Los árboles emergentes, entre ellos Menara, un meranti amarillo de 97,6 metros",
@@ -533,28 +902,27 @@ export const destinazioniBorneo: Destinazione[] = [
     doveDormire:
       "Solo se duerme dentro del valle: en el centro de investigación, básico y más económico, o en el lodge de alta gama. No se puede venir en el día: es la etapa más cara de cualquier viaje a Borneo.",
     doveMangiare: "Pensión completa incluida en el paquete, sin alternativas: alrededor no hay nada más.",
-    comeArrivare:
-      "Vuelo a Lahad Datu, luego un largo tramo de pista forestal con el traslado organizado por el alojamiento. No se llega por cuenta propia y no hay transporte público.",
+    comeArrivare: "Vuelo a Lahad Datu desde Kota Kinabalu, y luego unos 82 km de pistas en gran parte forestales, alrededor de dos horas, con el traslado organizado por el alojamiento. No se llega por cuenta propia y no hay transporte público: los traslados salen a horas fijas, así que quien aterriza tarde duerme en Lahad Datu y sale a la mañana siguiente.",
     comeSpostarsi: "A pie por los senderos, siempre con guía, y en todoterreno para los night drives.",
     periodoMigliore:
       "de marzo a octubre, el periodo más seco. Llueve de todos modos: es selva tropical ecuatorial, y la lluvia forma parte del paquete.",
-    costi: "la partida más cara del viaje, con paquetes de varias noches que incluyen traslados, pensión completa y actividades guiadas.",
+    costi: "la partida más cara del viaje, con paquetes de varias noches que incluyen traslados, pensión completa y actividades guiadas, más 10 RM de tasa turística por habitación y noche para extranjeros. Los paquetes más sencillos del centro de investigación cuestan unos 300 € al día por persona; en chalet 400-450 €; el lodge de gama alta, todavía más.",
     erroriDaEvitare: [
       "Ir por los orangutanes: están, pero verlos es imprevisible, y quien viene por una sola especie se queda decepcionado. Aquí se viene por la selva",
       "Quedarse una noche: descontados los traslados quedarían pocas horas, y el coste por hora sería absurdo",
       "Subestimar las sanguijuelas: en la estación húmeda son muchas, y los calcetines específicos son la única defensa que funciona",
       "Dar por sentada la conexión: aquí no hay, y forma parte del encanto",
     ],
-    miaEsperienza:
-      "Es una posible extensión del viaje que hice: aquí la ficha se queda en los hechos verificables. Está en la lista por dos motivos precisos. El primero es que la selva primaria no es un detalle de naturalistas: árboles emergentes de más de ochenta metros y una estructura en estratos completa en el sudeste asiático casi ya no existen, y Danum es uno de los poquísimos lugares donde todavía se ven. El segundo es que es justo lo contrario del Kinabatangan: allí los animales se ven con facilidad porque están aplastados en una franja de verde entre las palmas aceiteras, aquí se ven poco precisamente porque todavía tienen cuarenta y tres mil hectáreas donde estar. Cuesta bastante y hay que contar al menos tres noches: quien va por una pasa el tiempo casi solo en traslados.",
     luoghi: [
       {
         nome: "Canopy walkway",
-        testo: "Una pasarela colgante entre las copas de la selva primaria. Permite ver aves y monos a la altura de las copas.",
+        testo: "Una pasarela colgante entre las copas de la selva primaria, de hasta unos 26 metros de altura en su punto más alto. Permite ver aves y monos a la altura de las copas.",
         come: "A pie desde el lodge con un guía, por sendero señalizado.",
         quando: "Al amanecer para las aves.",
         tempo: "2 horas",
-        consiglio: "Ir con un guía: ve lo que el visitante pasa por alto."
+        consiglio: "Ir con un guía: ve lo que el visitante pasa por alto.",
+        lat: 5.0197,
+        lng: 117.7461,
       },
       {
         nome: "Árboles emergentes y bosque primario",
@@ -562,7 +930,9 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "Con senderos y salidas guiadas desde el lodge.",
         quando: "Por la mañana y después de la lluvia.",
         tempo: "medio día",
-        consiglio: "Caminar despacio y en silencio: se ve más de lo que parece."
+        consiglio: "Caminar despacio y en silencio: se ve más de lo que parece.",
+        lat: 4.9167,
+        lng: 117.6667,
       },
       {
         nome: "Night drive y night walk",
@@ -573,12 +943,41 @@ export const destinazioniBorneo: Destinazione[] = [
         consiglio: "No dejar las salidas nocturnas para la última noche."
       },
       {
-        nome: "Mirador sobre la selva",
-        testo: "Un mirador con vista continua sobre la selva, al que se llega a pie con guía.",
+        nome: "Coffin Cliff y mirador",
+        testo: "Un sendero por la selva hasta una pared donde, en los huecos de la roca, quedan ataúdes de madera dura de los kadazan-dusun, algunos de hace siglos. Más arriba un mirador se abre sobre el valle, con la selva sin interrupciones hasta el horizonte.",
         come: "A pie con guía, desde el lodge.",
         quando: "Por la mañana.",
         tempo: "3 horas",
         consiglio: "Salir temprano, antes del calor."
+      },
+      {
+        nome: "Jacuzzi Pool y el río Danum",
+        testo: "Una poza natural entre las rocas, alimentada por los arroyos de la selva, donde se para a bañarse a la vuelta del Coffin Cliff. Con el río en buenas condiciones también se baja el Danum en flotadores.",
+        come: "A pie con el guía; el tubing depende del nivel del agua y del tiempo.",
+        quando: "En las horas de calor.",
+        tempo: "1-2 horas",
+      },
+      {
+        nome: "Danum Valley Field Centre",
+        testo: "El centro de investigación y educación de la Yayasan Sabah, la fundación que gestiona la reserva. Junto a los laboratorios hay un vivero que produce cientos de miles de plantones de dipterocarpáceas para la reforestación, y los visitantes duermen en habitaciones sencillas o en dormitorio.",
+        come: "Con un paquete reservado con antelación y el traslado desde Lahad Datu.",
+        quando: "Todo el año.",
+        tempo: "al menos 3 noches",
+      },
+      {
+        nome: "Observación de aves",
+        testo: "En la reserva se han registrado más de 270 especies de aves, con varios cálaos, faisanes argos y pitas; un pequeño pájaro, el spectacled flowerpecker, solo se ha registrado aquí hasta ahora.",
+        come: "Con los guías naturalistas, desde la canopy walkway y a lo largo de la pista de acceso.",
+        quando: "Al amanecer y a última hora de la tarde.",
+        tempo: "media jornada",
+        consiglio: "Unos prismáticos valen más que cualquier teleobjetivo.",
+      },
+      {
+        nome: "Fauna de la selva primaria",
+        testo: "Orangutanes, gibones de Müller, tarseros, ciervos, osos malayos, elefantes pigmeos y, para muy pocos, el leopardo nebuloso. La selva es tan grande que los encuentros son raros e imprevisibles, y justo por eso valen más.",
+        come: "Con las salidas guiadas de día y de noche.",
+        quando: "Al amanecer, al atardecer y después de oscurecer.",
+        tempo: "durante toda la estancia",
       }
     ],
     programmi: [
@@ -589,6 +988,14 @@ export const destinazioniBorneo: Destinazione[] = [
           "Día 2: amanecer en la canopy walkway, mañana en el bosque, mirador por la tarde, night drive",
           "Día 3: sendero largo con los guías y regreso al día siguiente"
         ]
+      },
+      {
+        titolo: "4 noches",
+        tappe: [
+          "Como las 3 noches",
+          "Un día más para el Coffin Cliff, la Jacuzzi Pool y el tubing en el río Danum",
+          "Último amanecer en la canopy walkway antes de la vuelta",
+        ],
       }
     ],
     zone: [
@@ -601,6 +1008,11 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Centro de investigación",
         perChi: "quien busca un alojamiento sencillo",
         testo: "El albergue del centro de investigación, con precios más bajos y confort mínimo."
+      },
+      {
+        nome: "Lahad Datu",
+        perChi: "quien llega el día antes",
+        testo: "La pequeña ciudad del aeropuerto, donde se duerme si el vuelo llega tarde: los traslados al valle salen por la mañana.",
       }
     ],
     sapori: [
@@ -614,6 +1026,46 @@ export const destinazioniBorneo: Destinazione[] = [
       "Las sanguijuelas abundan en la estación húmeda: calcetines adecuados.",
       "No hay conexión, y es parte del encanto.",
       "Una sola noche no tiene sentido: descontados los traslados quedan pocas horas."
+    ],
+    gite: [
+      {
+        nome: "Tabin Wildlife Reserve",
+        distanza: "unos 48 km al este de Lahad Datu",
+        testo: "Una reserva de 1.225 km² en el centro de la península de Dent, con volcanes de lodo donde los animales van a lamer la sal: un buen lugar para elefantes pigmeos, ciervos y primates. Se añade a la Danum para quien tiene días de más.",
+        come: "Con paquete y noche en la reserva, por carreteras asfaltadas y de tierra.",
+      },
+      {
+        nome: "Río Kinabatangan",
+        distanza: "unas horas por carretera hacia el norte",
+        testo: "La otra cara de Sabah: fauna concentrada en las orillas y vista desde la barca. Junto con la Danum da el cuadro completo de la selva de Borneo.",
+        come: "Con un traslado organizado y al menos dos noches en los lodges del río.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántas noches hacen falta en el Danum Valley?",
+        risposta: "Al menos tres. El traslado desde Lahad Datu dura unas dos horas por trayecto, y con menos noches quedarían pocas horas en la selva.",
+      },
+      {
+        domanda: "¿Se ven orangutanes en el Danum Valley?",
+        risposta: "Viven en la reserva, pero los avistamientos son imprevisibles. Al Danum se viene por la selva primaria en su conjunto, no por una especie.",
+      },
+      {
+        domanda: "¿Se puede visitar en un día?",
+        risposta: "No. No hay transporte público ni acceso libre: solo se entra con un paquete y al menos una noche en uno de los alojamientos del valle.",
+      },
+      {
+        domanda: "¿Mejor el centro de investigación o el lodge?",
+        risposta: "El Danum Valley Field Centre es más sencillo y cuesta menos, con habitaciones básicas y dormitorios; el lodge de gama alta ofrece más comodidad y guías dedicados. La selva es la misma.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para el Danum Valley?",
+        risposta: "De marzo a octubre, el periodo más seco. Aun así llueve a menudo: es selva tropical ecuatorial.",
+      },
+      {
+        domanda: "¿Qué llevar al Danum Valley?",
+        risposta: "Calcetines antisanguijuelas, ropa de manga larga que se seque rápido, una linterna frontal para las salidas nocturnas y prismáticos. No hay conexión.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: [],
@@ -650,13 +1102,11 @@ export const destinazioniBorneo: Destinazione[] = [
       "Nosotros dormimos en la isla de Mabul, para estar ya en el mar; allí hay resorts y alojamientos más económicos. La ciudad de Semporna cuesta menos y es más cómoda para las conexiones, pero quita esta ventaja. **En la isla de Sipadan no se puede dormir**: las instalaciones se retiraron en 2004 precisamente para protegerla.",
     doveMangiare:
       "En los resorts se come con pensión completa, incluida en el paquete. En la ciudad de Semporna hay restaurantes de pescado en el paseo marítimo, excelentes y económicos, donde la captura del día se elige en el puesto.",
-    comeArrivare:
-      "Vuelo a Tawau, luego la carretera hasta Semporna y la barca a Mabul. Casi todos los resorts organizan el traslado completo.",
+    comeArrivare: "Vuelo a Tawau (TWU) desde Kota Kinabalu o Kuala Lumpur, luego hora y media por carretera hasta Semporna y 45 minutos en barca hasta Mabul. Casi todos los resorts organizan todo el traslado. Las barcas no navegan de noche: quien llega tarde duerme en Semporna y sale a la mañana siguiente. Desde el Kinabatangan son cinco o seis horas en coche.",
     comeSpostarsi: "Solo en barca, con las salidas organizadas por el centro de buceo.",
     periodoMigliore:
       "de abril a septiembre, con el mar más en calma y la mejor visibilidad. De noviembre a febrero el mar está más agitado y algunas salidas se cancelan.",
-    costi:
-      "paquetes de buceo de varias noches con pensión completa; el permiso de Sipadan se paga aparte y es la partida que lo decide todo. El número de inmersiones por permiso lo fija Sabah Parks y cambia con el tiempo: preguntarlo al operador.",
+    costi: "paquetes de buceo de varias noches con pensión completa; el permiso para Sipadan, 100 RM de tasa de conservación más 350 RM de permiso de buceo (unos 90 €, 2026), se paga aparte y es la partida que lo decide todo. El número de inmersiones por permiso lo fija Sabah Parks y cambia con el tiempo: preguntarlo al operador. El parque Tun Sakaran cuesta 20 RM al día. Económico: unos 40-60 € al día en Semporna con guesthouse y una salida en barca; medio 120-200 € por persona en los paquetes de buceo de Mabul; alto más de 250 € en resorts sobre pilotes con Sipadan.",
     erroriDaEvitare: [
       "Presentarse esperando bucear en Sipadan sin haber reservado meses antes: los permisos diarios son pocos, Sabah Parks los asigna a los operadores y estos los reparten entre los huéspedes, casi siempre de forma rotativa y premiando las estancias más largas",
       "Reservar solo dos noches y contar con Sipadan: la rotación favorece a quien se queda 4-5 noches, y por eso el itinerario hay que construirlo así",
@@ -672,9 +1122,11 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "Solo con operadores autorizados que tengan permisos de Sabah Parks. En la isla no se duerme: las instalaciones cerraron en 2004 y se sale en barca desde Mabul, Kapalai o Semporna. El número de inmersiones por permiso lo fija Sabah Parks: preguntarlo al operador.",
         quando: "Los permisos diarios tienen cupo y Sabah Parks los asigna a los operadores, que pueden reservarlos hasta con seis meses de antelación. Normalmente la isla cierra en noviembre para proteger el arrecife.",
         tempo: "1 día por permiso",
-        costo: "Para extranjeros tasa de conservación de 100 RM más permiso de buceo de 350 RM por persona y día (Sabah Parks); los operadores los incluyen en el paquete con un recargo.",
+        costo: "Para extranjeros, tasa de conservación 100 RM más permiso de buceo 350 RM por persona y día, unos 90 € en total (Sabah Parks, 2026); los operadores los incluyen en el paquete con un recargo.",
         url: "https://www.sabahparks.org.my/",
-        consiglio: "Reservar 4-5 noches: la rotación de permisos premia las estancias más largas."
+        consiglio: "Reservar 4-5 noches: la rotación de permisos premia las estancias más largas.",
+        lat: 4.1147,
+        lng: 118.6288,
       },
       {
         nome: "Mabul",
@@ -682,7 +1134,9 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "Desde los resorts sobre pilotes, en barca para las inmersiones.",
         quando: "Todo el año; preguntar a los operadores por el estado del mar.",
         tempo: "2-3 días",
-        consiglio: "Dormir en Mabul, no en Semporna, para estar cerca de los sitios."
+        consiglio: "Dormir en Mabul, no en Semporna, para estar cerca de los sitios.",
+        lat: 4.2458,
+        lng: 118.6311,
       },
       {
         nome: "Kapalai",
@@ -690,7 +1144,9 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "Con las barcas de los resorts desde Mabul.",
         quando: "Todo el año; preguntar a los operadores por el estado del mar.",
         tempo: "medio día",
-        consiglio: "Informarse de si el resort sigue abierto antes de reservar."
+        consiglio: "Informarse de si el resort sigue abierto antes de reservar.",
+        lat: 4.2167,
+        lng: 118.6833,
       },
       {
         nome: "Comunidades Bajau Laut",
@@ -702,15 +1158,58 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Bohey Dulang",
-        testo: "La isla con un cráter volcánico y un sendero panorámico sobre la laguna, en el parque marino Tun Sakaran.",
+        testo: "La isla con un cráter volcánico y un sendero panorámico sobre la laguna, en el parque marino Tun Sakaran: su cima más alta llega a 353 metros.",
         come: "En barca desde Semporna con tours organizados.",
         quando: "Por la mañana.",
         tempo: "medio día",
-        url: "https://www.sabahparks.org.my/",
-        consiglio: "Llevar calzado de senderismo y agua: el sendero es empinado."
+        url: "https://www.sabahparks.org.my/tun-sakaran-marine-park",
+        consiglio: "Llevar calzado de senderismo y agua: el sendero es empinado.",
+        costo: "Tasa del parque Tun Sakaran 20 RM para adultos extranjeros (unos 4 €); subida a Bohey Dulang 50 RM por persona, más el guía, 50 RM cada seis personas (2026).",
+        orari: "Parque abierto todos los días 8-17.",
+        lat: 4.5994,
+        lng: 118.7866,
+      },
+      {
+        nome: "Pulau Sibuan",
+        testo: "Una isla baja de arena blanca en el parque marino Tun Sakaran, rodeada de un arrecife poco profundo. Es la parada clásica de las salidas en barca para hacer esnórquel, a menudo junto con Bohey Dulang.",
+        come: "Con las salidas en barca desde Semporna.",
+        quando: "Por la mañana, con el mar más tranquilo.",
+        tempo: "1-2 horas",
+        costo: "Incluida en la tasa del parque Tun Sakaran, 20 RM para adultos extranjeros (2026).",
+        lat: 4.6504,
+        lng: 118.658,
+        url: "https://www.sabahparks.org.my/tun-sakaran-marine-park",
+      },
+      {
+        nome: "Pulau Mantabuan",
+        testo: "Otra isla del parque Tun Sakaran, más al este, con playa y arrecife donde se hace esnórquel entre corales y peces de arrecife en las salidas del parque.",
+        come: "Con las salidas en barca desde Semporna.",
+        quando: "Por la mañana.",
+        tempo: "1-2 horas",
+        costo: "Incluida en la tasa del parque Tun Sakaran (2026).",
+        lat: 4.6352,
+        lng: 118.7931,
+      },
+      {
+        nome: "Paseo marítimo y mercado de pescado de Semporna",
+        testo: "Semporna vive alrededor del puerto: puestos de pescado y marisco, barcas bajau pintadas y restaurantes sobre pilotes donde por la noche se elige la pesca en el mostrador. De aquí salen casi todas las barcas a las islas.",
+        come: "A pie en el centro.",
+        quando: "Por la noche, para cenar.",
+        tempo: "1-2 horas",
+        lat: 4.4757,
+        lng: 118.616,
       }
     ],
     programmi: [
+      {
+        titolo: "1 día desde Semporna, sin bucear",
+        tappe: [
+          "Barca de la mañana por el parque Tun Sakaran",
+          "Subida a Bohey Dulang antes del calor",
+          "Esnórquel en Sibuan y Mantabuan",
+          "Cena de pescado en el paseo marítimo de Semporna",
+        ],
+      },
       {
         titolo: "4-5 días",
         tappe: [
@@ -730,6 +1229,11 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Semporna",
         perChi: "quien quiere ahorrar",
         testo: "Hoteles en la ciudad, con traslados en barca a los sitios. Menos cómodo y más ruidoso."
+      },
+      {
+        nome: "Kapalai",
+        perChi: "quien quiere dormir sobre el agua",
+        testo: "Resorts sobre pilotes encima de un banco de arena, cerca de los puntos de Mabul. Solo paquetes completos.",
       }
     ],
     sapori: [
@@ -747,6 +1251,46 @@ export const destinazioniBorneo: Destinazione[] = [
       "Consultar los avisos de seguridad de la costa oriental de Sabah: la zona está vigilada, pero conviene comprobarlo antes de partir.",
       "No dar dinero a los niños bajau en las barcas.",
       "Con el mar agitado algunas salidas se suspenden: dejar días de margen."
+    ],
+    gite: [
+      {
+        nome: "Islas del parque Tun Sakaran",
+        distanza: "salida en barca de media jornada o jornada completa desde Semporna",
+        testo: "Bohey Dulang con el sendero del cráter, y luego esnórquel en Sibuan y Mantabuan. Es el día adecuado para quien no bucea o para la víspera del vuelo.",
+        come: "Con una excursión desde Semporna o desde los resorts, con la tasa del parque.",
+      },
+      {
+        nome: "Tawau Hills Park",
+        distanza: "24 km al noroeste de Tawau, de camino al aeropuerto",
+        testo: "Selva de colinas con senderos, cascadas y fuentes termales. La entrada, 20 RM para adultos extranjeros, incluye el jardín botánico; abre de 8 a 16 los días laborables y de 7:30 a 15:30 los fines de semana y festivos.",
+        come: "En coche o Grab desde Tawau; se puede hacer el día de la salida con un vuelo de tarde.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cómo se consigue el permiso para Sipadan?",
+        risposta: "Solo a través de un operador autorizado: Sabah Parks asigna los permisos diarios a los centros de buceo, que los reparten entre sus clientes por turnos. A particulares no se venden.",
+      },
+      {
+        domanda: "¿Cuántas noches hacen falta para bucear en Sipadan?",
+        risposta: "Cuatro o cinco, porque la rotación premia las estancias largas; con dos noches es fácil quedarse sin permiso.",
+      },
+      {
+        domanda: "¿Cuánto cuesta el permiso para Sipadan?",
+        risposta: "Para extranjeros, 100 RM de tasa de conservación más 350 RM de permiso de buceo al día, unos 90 € en total (2026), que suelen incluirse en el paquete con un recargo.",
+      },
+      {
+        domanda: "¿Se puede dormir en Sipadan?",
+        risposta: "No. Las instalaciones de la isla se retiraron en 2004 para protegerla: se duerme en Mabul, en Kapalai o en Semporna y se llega en barca.",
+      },
+      {
+        domanda: "¿Qué hace quien no bucea?",
+        risposta: "Esnórquel en Mabul y en las islas del parque Tun Sakaran, como Sibuan y Mantabuan, y la subida a Bohey Dulang. En Sipadan los permisos van sobre todo a los buceadores.",
+      },
+      {
+        domanda: "¿Es segura la zona de Semporna?",
+        risposta: "La costa oriental tiene una zona de seguridad vigilada, con toque de queda marítimo nocturno, y el turismo funciona con normalidad. Aun así, conviene consultar los avisos de viaje actualizados antes de reservar.",
+      },
     ],
     esperienzeSlugs: ['diving-sipadan'],
     tripSlugs: ['borneo-itinerario'],
@@ -782,13 +1326,12 @@ export const destinazioniBorneo: Destinazione[] = [
       "En el paseo fluvial o en el casco histórico de Kuching, que se recorre entero a pie. Para Bako conviene una noche en los chalets del parque: permite el paseo nocturno y los senderos al amanecer sin depender de los horarios de las barcas, ligados a la marea.",
     doveMangiare:
       "En Kuching se come muy bien, y de forma distinta al resto de Malasia. El plato que hay que probar es el Sarawak laksa, en el desayuno, con un caldo de gambas y especias que no se parece ni al de Penang ni al nyonya. Luego el kolo mee, los fideos secos, y el midin, un helecho de selva salteado con ajo que solo se encuentra aquí. Los sitios adecuados son el mercado nocturno de Chinatown y los food courts del río.",
-    comeArrivare:
-      "Vuelo a Kuching (KCH) desde Kuala Lumpur o desde Kota Kinabalu. También aquí hay un control de pasaportes propio: Sarawak tiene una inmigración separada incluso respecto a Sabah.",
+    comeArrivare: "Vuelo a Kuching (KCH) desde Kuala Lumpur, algo menos de dos horas, o desde Kota Kinabalu; también hay vuelos directos desde Singapur. También aquí hay un control de pasaportes propio: Sarawak tiene inmigración separada incluso respecto a Sabah. Desde el aeropuerto, al sur de la ciudad, al centro se llega en Grab o en taxi con cupón en 20-30 minutos.",
     comeSpostarsi:
       "Kuching se recorre a pie y con Grab. Para Bako hacen falta un autobús y luego una barca, con horarios ligados a la marea; para Semenggoh, autobús o Grab.",
     periodoMigliore:
       "de marzo a octubre. En Semenggoh la temporada cuenta bastante: de abril a octubre las probabilidades de ver orangutanes son mucho más altas, mientras que en la temporada de frutos de la selva pueden no dejarse ver en absoluto.",
-    costi: "Bako con entrada al parque más la barca; Semenggoh con una entrada pequeña; museos gratis o casi. Kuching es barata incluso para los estándares malasios.",
+    costi: "Bako 20 RM para adultos extranjeros más la barca desde Kampung Bako, Semenggoh 10 RM, Niah 20 RM; el paseo fluvial, los templos y el puente Darul Hana son gratis. Kuching es barata incluso para los estándares malasios: económico unos 30-40 € al día con guesthouse en el centro y Grab; medio 60-100 € con hotel en el paseo fluvial y una excursión; alto más de 150 € con resort en Damai y tours privados.",
     erroriDaEvitare: [
       "Ir a Semenggoh en la temporada de frutos contando con verlos: en la temporada de frutos los orangutanes comen en la selva, y la reserva lo dice abiertamente",
       "Hacer Bako en el día sin mirar las mareas: las barcas van y vuelven según el agua, y es fácil quedarse bloqueado",
@@ -804,7 +1347,9 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pie desde el centro. Los sampan cruzan el río por unos pocos ringgit.",
         quando: "Por la noche, con las luces encendidas.",
         tempo: "2 horas",
-        consiglio: "Tomar un sampan hasta el Fort Margherita y volver a pie."
+        consiglio: "Tomar un sampan hasta el Fort Margherita y volver a pie.",
+        lat: 1.5605,
+        lng: 110.3431,
       },
       {
         nome: "Sarawak Museum y Borneo Cultures Museum",
@@ -813,7 +1358,10 @@ export const destinazioniBorneo: Destinazione[] = [
         quando: "Por la mañana o en las horas de más calor.",
         tempo: "2 horas",
         url: "https://sarawaktourism.com/",
-        consiglio: "Visitarlos antes de ir a una casa larga: ayuda a entender lo que se ve."
+        consiglio: "Visitarlos antes de ir a una casa larga: ayuda a entender lo que se ve.",
+        orari: "Borneo Cultures Museum: lunes-viernes 9-16:45; sábados, domingos y festivos 9:30-16:30.",
+        lat: 1.5555,
+        lng: 110.3425,
       },
       {
         nome: "Parque nacional de Bako",
@@ -821,7 +1369,10 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "Desde Kuching (unos 40 km) en autobús hasta Kampung Bako, luego unos 20 minutos de barca. Los horarios dependen de la marea.",
         quando: "Por la mañana, con la marea adecuada.",
         tempo: "1 día",
-        consiglio: "Comprobar los horarios de las mareas: se corre el riesgo de quedarse atrapado."
+        consiglio: "Comprobar los horarios de las mareas: se corre el riesgo de quedarse atrapado.",
+        costo: "Entrada 20 RM para adultos extranjeros, unos 4 €, más la barca desde Kampung Bako, que se acuerda en el embarcadero.",
+        lat: 1.7163,
+        lng: 110.4442,
       },
       {
         nome: "Semenggoh Nature Reserve",
@@ -829,7 +1380,10 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "En taxi o tour desde Kuching.",
         quando: "Dos sesiones al día, mañana y tarde (horarios en la taquilla). Cuando en la selva hay mucha fruta los orangutanes se dejan ver menos.",
         tempo: "2-3 horas",
-        consiglio: "Ir sin dar por hecho que se verán: los orangutanes son libres y solo vienen si quieren."
+        consiglio: "Ir sin dar por hecho que se verán: los orangutanes son libres y solo vienen si quieren.",
+        costo: "10 RM para adultos extranjeros, unos 2 €.",
+        lat: 1.4019,
+        lng: 110.3144,
       },
       {
         nome: "Sarawak Cultural Village",
@@ -837,7 +1391,11 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "En autobús o tour desde Kuching, hacia Damai.",
         quando: "Por la mañana.",
         tempo: "medio día",
-        consiglio: "Es una reconstrucción: verlo como introducción, no en lugar de una casa larga auténtica."
+        consiglio: "Es una reconstrucción: verlo como introducción, no en lugar de una casa larga auténtica.",
+        orari: "Todos los días 9-17.",
+        url: "https://scv.com.my",
+        lat: 1.7498,
+        lng: 110.3168,
       },
       {
         nome: "Cuevas de Niah",
@@ -845,10 +1403,94 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "Desde Miri en coche, luego una pasarela por la selva.",
         quando: "Por la mañana.",
         tempo: "medio día",
-        consiglio: "Se llega con un desvío desde el norte: valorar el tiempo."
+        consiglio: "Se llega con un desvío desde el norte: valorar el tiempo.",
+        costo: "Entrada al parque 20 RM para adultos extranjeros, unos 4 €.",
+        lat: 3.8141,
+        lng: 113.7827,
+      },
+      {
+        nome: "Fort Margherita",
+        testo: "El fuerte con aire de castillo inglés que Charles Brooke, el segundo rajá blanco, construyó en 1879 para defender Kuching de los piratas que remontaban el río. Lleva el nombre de su esposa Margaret y hoy alberga la Brooke Gallery, sobre la historia de Sarawak bajo la dinastía.",
+        come: "En sampán desde el paseo fluvial, pocos minutos, o en coche pasando por Petra Jaya.",
+        quando: "Por la mañana o a última hora de la tarde.",
+        tempo: "1 hora y media",
+        lat: 1.5606,
+        lng: 110.3494,
+      },
+      {
+        nome: "Astana",
+        testo: "El palacio que Charles Brooke construyó en 1870 como regalo de boda para su esposa, en la orilla norte del río, frente al paseo fluvial. Es la residencia del gobernador de Sarawak: el interior no se visita, pero los jardines están abiertos.",
+        come: "En sampán desde el paseo fluvial.",
+        quando: "De día; desde el paseo fluvial se ve bien también al atardecer.",
+        tempo: "30 minutos",
+        lat: 1.5636,
+        lng: 110.346,
+      },
+      {
+        nome: "Main Bazaar y Carpenter Street",
+        testo: "Las calles más antiguas del centro, paralelas al río: Main Bazaar con tiendas de artesanía y antigüedades en las shophouses, Carpenter Street con viejos talleres, kopitiam y pequeños templos chinos.",
+        come: "A pie desde el paseo fluvial.",
+        quando: "Por la mañana o a última hora de la tarde.",
+        tempo: "1-2 horas",
+        lat: 1.5588,
+        lng: 110.3469,
+      },
+      {
+        nome: "Templo de Tua Pek Kong y Chinese History Museum",
+        testo: "El templo chino más antiguo de Kuching, al final del paseo fluvial, y enfrente el pequeño museo sobre la historia de las comunidades chinas de Sarawak. Juntos cuentan una parte de la ciudad que el paseo fluvial por sí solo no muestra.",
+        come: "A pie desde el paseo fluvial.",
+        quando: "Por la mañana.",
+        tempo: "45 minutos",
+        lat: 1.5571,
+        lng: 110.349,
+      },
+      {
+        nome: "Puente Darul Hana",
+        testo: "El puente peatonal en forma de S sobre el río Sarawak, el único que une a pie las dos orillas del centro. Lleva del paseo fluvial al edificio de la asamblea legislativa, con su gran tejado dorado, y está iluminado por la noche.",
+        come: "A pie desde el paseo fluvial.",
+        quando: "Por la noche.",
+        tempo: "30 minutos",
+        costo: "Gratis.",
+        lat: 1.5609,
+        lng: 110.3456,
+      },
+      {
+        nome: "Casa larga de Annah Rais",
+        testo: "Una casa larga bidayuh en el interior al sur de Kuching, cerca de la frontera con Kalimantan, habitada por familias del pueblo y abierta a los visitantes, con su larga galería común de bambú. Quien quiera puede dormir en homestay.",
+        come: "En coche o con un tour desde Kuching, una hora y media.",
+        quando: "De día, o con una noche.",
+        tempo: "media jornada",
+        lat: 1.1561,
+        lng: 110.2654,
+      },
+      {
+        nome: "Parque nacional de Kubah",
+        testo: "Un parque de 2.230 hectáreas en los montes Matang, a unos 20 km de Kuching, con selva de dipterocarpáceas, palmeras, orquídeas y muchísimas ranas. En los días claros, desde la ciudad se ven sus tres cimas de arenisca: Serapi, Selang y Sendok.",
+        come: "En coche o Grab desde Kuching.",
+        quando: "Por la mañana, o por la noche para las ranas con un guía.",
+        tempo: "media jornada",
+        lat: 1.6126,
+        lng: 110.1966,
       }
     ],
     programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Sarawak laksa para desayunar",
+          "Paseo fluvial, Main Bazaar y Carpenter Street",
+          "Templo de Tua Pek Kong y Chinese History Museum",
+          "Borneo Cultures Museum en las horas de calor",
+          "Sampán a Fort Margherita y vuelta por el puente Darul Hana al atardecer",
+        ],
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: como arriba",
+          "Día 2: Bako con la barca de la mañana, vuelta por la tarde y cena en el mercado nocturno",
+        ],
+      },
       {
         titolo: "3 días",
         tappe: [
@@ -874,6 +1516,11 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Alrededores de Bako",
         perChi: "quien quiere despertar en el bosque",
         testo: "Pocos lodges cerca del parque, para ver los animales al amanecer."
+      },
+      {
+        nome: "Santubong y Damai",
+        perChi: "quien quiere mar y montaña",
+        testo: "Resorts en la península de Santubong, cerca del Sarawak Cultural Village y del monte Santubong. Cómodos para las excursiones, lejos de la ciudad por la noche.",
       }
     ],
     sapori: [
@@ -900,6 +1547,46 @@ export const destinazioniBorneo: Destinazione[] = [
       "En Semenggoh los orangutanes no están garantizados, sobre todo cuando la selva está llena de fruta.",
       "Elegir con cuidado la casa larga: las experiencias van de la visita montada a la estancia auténtica."
     ],
+    gite: [
+      {
+        nome: "Península de Santubong y Damai",
+        distanza: "unos 35 km, 40 minutos en coche",
+        testo: "El monte Santubong, con un sendero empinado hasta la cima, las playas de Damai y el Sarawak Cultural Village. Al atardecer, en el estuario, salen las barcas para buscar los delfines del Irrawaddy.",
+        come: "En Grab o con las lanzaderas de los resorts.",
+      },
+      {
+        nome: "Casas largas iban del Batang Ai o del Lemanak",
+        distanza: "4-5 horas por carretera hacia el este, y luego en barca",
+        testo: "Las casas largas iban a lo largo de los ríos del interior: la vida en común en la galería, los arrozales, la selva. Es la experiencia que más cambia según la comunidad y el operador.",
+        come: "Con un operador que trabaje con la comunidad, al menos una noche.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta en Kuching?",
+        risposta: "Tres: uno para la ciudad y los museos, uno para Bako y uno para Semenggoh y el Sarawak Cultural Village. Con un cuarto se añade una casa larga o la península de Santubong.",
+      },
+      {
+        domanda: "¿Cómo se llega a Bako?",
+        risposta: "En autobús o Grab hasta Kampung Bako, unos 40 km, y luego unos veinte minutos en barca. Los horarios de las barcas dependen de la marea: hay que acordar la vuelta antes de salir.",
+      },
+      {
+        domanda: "¿En Semenggoh se ven seguro los orangutanes?",
+        risposta: "No: son libres y vuelven a las plataformas sobre todo cuando la selva ofrece poco. Entre noviembre y marzo, en la temporada de la fruta, puede no aparecer ninguno.",
+      },
+      {
+        domanda: "¿Hace falta el pasaporte entre Sabah y Sarawak?",
+        risposta: "Sí. Sarawak tiene inmigración propia: a la llegada se pasa un control de pasaportes con un sello nuevo, también desde Kota Kinabalu o desde la península.",
+      },
+      {
+        domanda: "¿Qué comer en Kuching?",
+        risposta: "El Sarawak laksa para desayunar, el kolo mee y el midin, el helecho de selva salteado con ajo. Los sitios adecuados son los kopitiam del centro, el mercado nocturno y los food courts junto al río.",
+      },
+      {
+        domanda: "¿Cómo se elige una casa larga?",
+        risposta: "Informándose sobre el operador: va de la visita montada para grupos a la estancia real con una familia. Las casas largas del Batang Ai y del Lemanak requieren al menos una noche.",
+      },
+    ],
     esperienzeSlugs: ['bako-nasiche'],
     tripSlugs: [],
     imageAlt: "El monte Santubong entre la bruma al otro lado del río Sarawak, cerca de Kuching",
@@ -916,14 +1603,13 @@ export const destinazioniBorneo: Destinazione[] = [
     imageAlt: "Los Pinnacles de Gunung Mulu: agujas de caliza gris de decenas de metros entre la selva tropical y la niebla",
     introduzione:
       "Un parque nacional Patrimonio de la UNESCO en el interior de Sarawak, al que se llega normalmente en avión, con algunos de los sistemas de cuevas más grandes del planeta. La Sarawak Chamber está entre las cámaras subterráneas más grandes conocidas, y casi cada tarde de la Deer Cave salen millones de murciélagos en formaciones en espiral.",
-    percheAndarci:
-      "Por las cuevas, que por dimensiones no tienen comparación en el mundo, y por los Pináculos, hojas de caliza de decenas de metros de altura en la ladera de la montaña, accesibles con un trekking muy exigente.",
+    percheAndarci: "Por las cuevas, que por dimensiones no tienen comparación en el mundo, y por los Pináculos, hojas de caliza de decenas de metros de altura en la ladera de la montaña, accesibles con un trekking muy exigente. La Sarawak Chamber es la cámara subterránea más grande que se conoce, y la Deer Cave tiene una boca tan ancha que la salida de los murciélagos al atardecer parece una columna de humo oscuro sobre la selva. Al parque se llega normalmente en avión y las camas son pocas: primero se reserva la cama, luego el vuelo.",
     cosaVedere: [
       "La Deer Cave, con la salida vespertina de millones de murciélagos",
       "La Lang Cave, rica en concreciones",
       "La Clearwater Cave y la Wind Cave, accesibles en barca por el río",
       "Los Pináculos del Gunung Api, las hojas de caliza en la ladera de la montaña",
-      "La pasarela en el dosel del parque, de 480 metros",
+      "La pasarela en el dosel del parque, de 420 metros",
     ],
     cosaFare: [
       "Ver al atardecer la salida de los murciélagos de la Deer Cave, desde el observatorio específico",
@@ -934,20 +1620,17 @@ export const destinazioniBorneo: Destinazione[] = [
     doveDormire:
       "Dentro del parque, en los alojamientos que gestiona el propio parque, o en un resort externo. Las posibilidades son pocas y hay que reservarlas con antelación, porque las camas limitan de hecho el número de visitantes.",
     doveMangiare: "El restaurante del parque y el del resort, sin alternativas. Como en las demás etapas en la selva, lo que haga falta hay que traerlo de fuera.",
-    comeArrivare:
-      "Normalmente en avión, con vuelos internos desde Miri y otras ciudades de Borneo: ninguna carretera llega al parque, la alternativa es un largo trayecto río arriba en barca. Es el motivo principal por el que esta etapa hay que organizarla antes que todo lo demás.",
+    comeArrivare: "Normalmente en avión, con vuelos internos desde Miri, una media hora, y desde Kota Kinabalu y Kuching: ninguna carretera llega al parque, y la alternativa es remontar el río en barca desde Marudi durante muchas horas. El aeropuerto está a pocos minutos de la sede del parque. Los aviones son pequeños y las plazas pocas, y es el motivo principal por el que esta etapa se organiza antes que todo lo demás.",
     comeSpostarsi: "A pie por las pasarelas del parque y en barca por el río para las cuevas más lejanas.",
     periodoMigliore:
       "todo el año, pero la salida de los murciélagos no está garantizada: si al atardecer llueve, se quedan dentro. El trekking a los Pináculos es más seguro en la estación más seca.",
-    costi: "la entrada al parque cuesta poco, pero cada cueva y cada excursión guiada se paga aparte; la partida principal es el vuelo.",
+    costi: "cada cueva y cada excursión guiada se pagan aparte: Deer y Lang Cave 35 MYR, Clearwater y Wind Cave 70 MYR, canopy walk 55 MYR, Pinnacles 465 MYR por persona (2026). Dormir en el parque cuesta 370-402 MYR la noche para dos (unos 75-80 €), el dormitorio 80 MYR por cama, más 10 RM de tasa turística por habitación. Económico: unos 40-60 € al día con dormitorio y los tours principales; medio 100-150 € con habitación en el parque; alto más de 250 € con resort y espeleología avanzada. La partida más alta sigue siendo el vuelo.",
     erroriDaEvitare: [
       "Reservar el vuelo antes que el alojamiento: las plazas dentro del parque son limitadas, y sin alojamiento no se va a ninguna parte",
       "Programar una sola noche: entre vuelos y distancias internas quedaría poco tiempo",
       "Apuntarse al trekking de los Pináculos subestimándolo: es una subida muy exigente por roca y escaleras de mano, con límites de tiempo fijados por los guías",
       "Contar con la salida de los murciélagos: si llueve no salen, y ocurre a menudo",
     ],
-    miaEsperienza:
-      "Es una posible extensión del viaje que hice: aquí la ficha se queda en los hechos verificables. Está en la lista, sin embargo, por un motivo preciso: las dimensiones. La Sarawak Chamber es la cámara subterránea más grande conocida (en las comparaciones que circulan cabrían dentro varios aviones de línea en fila), y la Deer Cave tiene una boca tan amplia que la salida vespertina de los murciélagos parece una columna de humo oscuro que se enrosca sobre la selva. Antes de soñar con ello hay que saber una cosa de logística: a Mulu se llega solo en avión, las camas del parque son pocas y limitan a los visitantes, y por tanto se reserva al revés de lo habitual: primero la cama, luego el vuelo.",
     luoghi: [
       {
         nome: "Deer Cave y salida de los murciélagos",
@@ -955,16 +1638,23 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pie desde la sede del parque por pasarela. La Deer Cave se ve en un tour junto con la Lang Cave; la salida de los murciélagos se observa desde una plataforma.",
         quando: "Al atardecer. Si llueve los murciélagos no salen.",
         tempo: "medio día",
-        url: "https://www.mulupark.com/",
-        consiglio: "No planear la salida como única noche: con lluvia puede cancelarse."
+        url: "https://mulupark.com/deer-lang/",
+        consiglio: "No planear la salida como única noche: con lluvia puede cancelarse.",
+        costo: "Visita guiada a la Deer Cave y la Lang Cave 35 MYR por persona, unos 7 € (2026), guía incluido.",
+        orari: "Salidas todos los días a las 14 o a las 14:30 desde la sede; la salida de los murciélagos puede empezar después de las 17. El recorrido total es de 9 km, los 3 primeros por una pasarela casi llana.",
+        lat: 4.0271,
+        lng: 114.8286,
       },
       {
         nome: "Lang Cave",
         testo: "Una cueva más pequeña y rica en formaciones, estalactitas y estalagmitas iluminadas.",
         come: "Con tour guiado desde la sede.",
-        quando: "Por la mañana.",
+        quando: "Por la tarde, con el tour de las 14.",
         tempo: "1 hora y media",
-        consiglio: "Se combina con la Deer Cave en el mismo tour."
+        consiglio: "Se combina con la Deer Cave en el mismo tour.",
+        costo: "Incluida en el tour con la Deer Cave, 35 MYR (2026).",
+        lat: 4.0243,
+        lng: 114.8252,
       },
       {
         nome: "Clearwater Cave y Wind Cave",
@@ -972,24 +1662,85 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "En barca desde la sede y luego a pie con guía.",
         quando: "Por la mañana.",
         tempo: "medio día",
-        url: "https://www.mulupark.com/",
-        consiglio: "Llevar bañador: en las pozas del río se puede nadar."
+        url: "https://mulupark.com/clearwater-winds/",
+        consiglio: "Llevar bañador: en las pozas del río se puede nadar.",
+        costo: "70 MYR por persona, unos 14 € (2026), con guía y barca; comida y agua hay que llevarlas.",
+        orari: "Todos los días, salidas a las 8:45 y a las 9:15; unas 4 horas.",
+        lat: 4.065,
+        lng: 114.8314,
       },
       {
         nome: "Pináculos del Gunung Api",
-        testo: "Hojas de caliza de decenas de metros de altura en la ladera de la montaña. Un trekking muy exigente sobre roca y escaleras de mano.",
+        testo: "Cuchillas de caliza de hasta 50 metros en la ladera del Gunung Api. El último tramo sube 2,4 km y unos 1.200 metros de desnivel hasta el mirador, por roca y escaleras de mano: un trekking muy exigente, desaconsejado a menores de 16 años.",
         come: "Solo con guía del parque: tres días y dos noches, con un tramo en barca, una larga caminata hasta el Camp 5 y la última subida empinadísima entre cuerdas y escaleras.",
         quando: "En la estación más seca.",
         tempo: "3 días, 2 noches",
-        consiglio: "Subestimarlo es el error más común: hace falta entrenamiento."
+        consiglio: "Subestimarlo es el error más común: hace falta entrenamiento.",
+        costo: "465 MYR por persona, unos 93 €, con guía, barca y campamento (2026); mínimo tres participantes, con uno o dos se paga mucho más.",
+        orari: "Salida a las 9:15 desde la sede; la subida empieza hacia las 6:30 del segundo día.",
+        url: "https://mulupark.com/pinnacles/",
       },
       {
         nome: "Canopy skywalk",
-        testo: "Una pasarela colgante de 480 metros entre las copas de la selva.",
-        come: "A pie desde la sede.",
+        testo: "Una pasarela colgante de 420 metros, a 25 metros de altura entre las copas de la selva.",
+        come: "A pie desde la sede, solo con guía.",
         quando: "A primera hora de la mañana.",
         tempo: "1 hora",
-        consiglio: "Combinarla con un paseo por el bosque."
+        consiglio: "Combinarla con un paseo por el bosque.",
+        costo: "55 MYR por persona, unos 11 €, guía incluido (2026).",
+        orari: "Salidas a las 7, 8:30, 10, 10:30 y 12:30; unas 2 horas.",
+        url: "https://mulupark.com/canopy-walk/",
+        lat: 4.0326,
+        lng: 114.819,
+      },
+      {
+        nome: "Batu Bungan",
+        testo: "Un asentamiento penan junto al río Melinau, primera parada de la salida en barca hacia la Wind Cave y la Clearwater, con un pequeño mercado de artesanía.",
+        come: "Con el tour en barca de Clearwater y Wind Cave.",
+        quando: "Por la mañana; el mercado cierra los domingos.",
+        tempo: "30 minutos",
+        lat: 4.0536,
+        lng: 114.8186,
+      },
+      {
+        nome: "Racer Cave",
+        testo: "Una cueva de espeleología de aventura de nivel intermedio, que debe su nombre a las serpientes racer que cazan murciélagos y salanganas en su interior. Se camina, se trepa con cuerdas y se cruzan tramos sin luz.",
+        come: "Solo con guía del parque, con reserva; edad mínima 12 años.",
+        quando: "Todo el año.",
+        costo: "165 MYR por persona, unos 33 € (2026).",
+        lat: 4.0585,
+        lng: 114.8279,
+        url: "https://mulupark.com/racer-cave/",
+      },
+      {
+        nome: "Sarawak Chamber",
+        testo: "La cámara subterránea más grande que se conoce, en la cueva de Gua Nasib Bagus. Se llega tras tres horas de sendero hasta la boca, luego un canal de agua de unos 900 metros y una travesía con cuerda, con noche obligatoria en el Camp 1.",
+        come: "Con reserva, grupos de 3 a 6 personas, edad mínima 16 años; hay que saber nadar y demostrar experiencia en cuevas sin acondicionar.",
+        quando: "Solo con el agua baja: si el nivel es alto, el guía cancela la salida.",
+        tempo: "2 días, 1 noche",
+        costo: "315 MYR por persona, unos 63 € (2026).",
+        lat: 4.0719,
+        lng: 114.8768,
+        url: "https://mulupark.com/sarawak-chamber-overnight-at-camp-1/",
+      },
+      {
+        nome: "Cascada de Paku",
+        testo: "Un sendero por la selva desde la sede hasta una pequeña cascada con una poza para bañarse. Es la caminata libre más sencilla del parque.",
+        come: "A pie desde la sede, por un sendero señalizado.",
+        quando: "Por la mañana, antes de los tours de las cuevas.",
+        tempo: "media jornada",
+        lat: 4.037,
+        lng: 114.8293,
+      },
+      {
+        nome: "Paseo nocturno",
+        testo: "Una salida guiada con linterna por la selva alrededor de la sede: insectos palo, ranas, arañas y serpientes, todo a pocos metros de las pasarelas.",
+        come: "Con guía del parque.",
+        quando: "Después de cenar.",
+        tempo: "1-2 horas",
+        costo: "35 MYR por persona, unos 7 € (2026).",
+        orari: "Salidas a las 19 o a las 19:30, según el tiempo.",
+        url: "https://mulupark.com/night-walk/",
       }
     ],
     programmi: [
@@ -1000,13 +1751,32 @@ export const destinazioniBorneo: Destinazione[] = [
           "Día 2: barca a Clearwater Cave y Wind Cave, canopy skywalk",
           "Día 3: mañana libre y vuelo de regreso"
         ]
+      },
+      {
+        titolo: "5 días con los Pinnacles",
+        tappe: [
+          "Día 1: llegada en avión, Deer Cave, Lang Cave y salida de los murciélagos",
+          "Días 2-4: trekking de los Pinnacles con dos noches en el Camp 5 y la barca por el Melinau",
+          "Día 5: canopy walk por la mañana y vuelo de vuelta",
+        ],
       }
     ],
     zone: [
       {
         nome: "Dentro del parque (cerca de la sede)",
         perChi: "todos: las camas son pocas",
-        testo: "Lodge, albergue y un resort cerca de la entrada. Se reserva primero la cama y luego el vuelo."
+        testo: "Lodge, albergue y un resort cerca de la entrada. Se reserva primero la cama y luego el vuelo.",
+        fascia: "75-80 €",
+      },
+      {
+        nome: "Dormitorio del parque",
+        perChi: "quien viaja solo o con poco presupuesto",
+        testo: "Un dormitorio de 14 camas con baño compartido y agua caliente, desayuno incluido: 80 MYR por cama y noche (2026).",
+      },
+      {
+        nome: "Resort fuera del parque",
+        perChi: "quien quiere piscina y spa",
+        testo: "Un resort de cinco estrellas a unos cinco minutos del parque, con habitaciones sobre pasarelas en la selva.",
       }
     ],
     sapori: [
@@ -1020,6 +1790,46 @@ export const destinazioniBorneo: Destinazione[] = [
       "La salida de los murciélagos no está garantizada: si llueve, se quedan dentro.",
       "El trekking de los Pináculos es duro: roca y escaleras de mano, con límites de tiempo.",
       "Una sola noche no basta: entre vuelos y distancias quedaría poco tiempo."
+    ],
+    gite: [
+      {
+        nome: "Niah National Park",
+        distanza: "unas 2 horas en coche desde Miri",
+        testo: "Las cuevas con restos humanos de unos 40.000 años y las pinturas de la Painted Cave, Patrimonio de la UNESCO desde 2024. Tiene sentido con una noche en Miri entre la llegada y el vuelo al Mulu.",
+        come: "En coche desde Miri, antes o después del vuelo al Mulu.",
+      },
+      {
+        nome: "Miri",
+        distanza: "unos 30 minutos de vuelo",
+        testo: "La ciudad desde la que salen casi todos los vuelos al parque y la base para Niah. Conviene una noche aquí cuando los horarios de los vuelos no encajan.",
+        come: "Con los vuelos internos desde el Mulu.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cómo se llega al Gunung Mulu?",
+        risposta: "En avión, normalmente desde Miri con una media hora de vuelo, o desde Kota Kinabalu y Kuching. No hay carreteras: la alternativa es remontar el río en barca desde Marudi durante muchas horas.",
+      },
+      {
+        domanda: "¿Cuántos días hacen falta en el Mulu?",
+        risposta: "Tres para las cuevas principales y la canopy walk; cinco si se añade el trekking de los Pinnacles, que dura tres días y dos noches.",
+      },
+      {
+        domanda: "¿Cuánto cuestan los tours de las cuevas?",
+        risposta: "Deer y Lang Cave 35 MYR por persona, Clearwater y Wind Cave 70 MYR con la barca, canopy walk 55 MYR (2026). Todas las actividades se hacen con los guías del parque.",
+      },
+      {
+        domanda: "¿Se ve siempre la salida de los murciélagos?",
+        risposta: "No. Suele empezar después de las 17, pero con lluvia los murciélagos se quedan dentro: conviene tener al menos dos tardes.",
+      },
+      {
+        domanda: "¿El trekking de los Pinnacles es para todos?",
+        risposta: "No: 2,4 km y unos 1.200 metros de desnivel por roca y escaleras, con bajadas que a menudo duran cinco horas o más. El parque lo desaconseja a menores de 16 años y pide al menos tres participantes.",
+      },
+      {
+        domanda: "¿Dónde se duerme en el Mulu?",
+        risposta: "Dentro del parque, en bungalows, casas largas y un dormitorio gestionados por el parque, o en un resort a cinco minutos. Las plazas son pocas: se reserva el alojamiento antes del vuelo.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: [],

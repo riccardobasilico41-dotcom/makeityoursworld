@@ -63,7 +63,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'Il torii di Miyajima in controluce al tramonto, con le montagne e le nuvole dorate, Giappone',
   },
   thailandia: {
-    immagine: '/images/copertine/thailandia.jpg',
+    immagine: '/images/copertine/thailandia-phi-phi-long-tail.jpg',
     imageAlt: 'Barca a coda lunga in una baia turchese tra i faraglioni calcarei del sud della Thailandia',
   },
   'marocco-itinerario': {
@@ -75,19 +75,19 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'Lo skyline di Lower Manhattan con il One World Trade Center visto dall\'acqua, New York',
   },
   'florida-road-trip': {
-    immagine: '/images/copertine/florida-360.jpg',
+    immagine: '/images/copertine/florida-key-west-smathers-beach.jpg',
     imageAlt: 'Acqua turchese e palme lungo la costa della Florida',
   },
   'transilvania-express': {
-    immagine: '/images/copertine/transilvania-express.jpg',
+    immagine: '/images/copertine/transilvania-castello-di-bran.jpg',
     imageAlt: 'Il Castello di Bran, il "Castello di Dracula", in Transilvania, Romania',
   },
   'bulgaria-bansko-rila': {
-    immagine: '/images/copertine/bulgaria-bansko-rila.jpg',
+    immagine: '/images/copertine/bulgaria-monastero-di-rila.jpg',
     imageAlt: 'Le arcate a righe colorate del cortile del Monastero di Rila, Bulgaria',
   },
   'costa-rica-itinerario': {
-    immagine: '/images/copertine/costa-rica-360.jpg',
+    immagine: '/images/copertine/costa-rica-vulcano-arenal.jpg',
     imageAlt: 'Il vulcano Arenal circondato dalla foresta pluviale, Costa Rica',
   },
   'bolivia-itinerario': {
@@ -343,7 +343,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'Le Horseshoe Falls del Niagara viste dal lato canadese, con la nebbia d\'acqua che sale dal salto',
   },
   'giava-bali-gili': {
-    immagine: '/images/viaggi/giava-bali-gili/bromo-alba.jpg',
+    immagine: '/images/viaggi/giava-bali-gili/bromo-semeru-alba-commons.jpg',
     imageAlt: 'Il cratere del Bromo che fuma nel Mare di Sabbia alla prima luce, con il Semeru sullo sfondo, visto dal drone',
   },
   'peru-due-settimane': {

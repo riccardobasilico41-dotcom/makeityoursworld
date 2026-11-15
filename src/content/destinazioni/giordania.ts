@@ -1015,7 +1015,7 @@ export const destinazioniGiordania: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Le mura in pietra della fortezza crociata di Karak Castle, Giordania',
-    immagine: '/images/giordania/karak-stock.jpg',
+    immagine: '/images/giordania/castello-di-karak.jpg',
   },
   {
     slug: 'petra',
@@ -1831,6 +1831,6 @@ export const destinazioniGiordania: Destinazione[] = [
     esperienzeSlugs: ['diving-aqaba'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'La costa di Aqaba sul Mar Rosso, Giordania',
-    immagine: '/images/giordania/aqaba-stock.jpg',
+    immagine: '/images/giordania/aqaba-costa-mar-rosso.jpg',
   },
 ]

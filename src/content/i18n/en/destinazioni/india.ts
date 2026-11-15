@@ -337,7 +337,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi', 'india-sud-taj-mahal'],
     imageAlt: "Humayun's Tomb in Delhi, in red sandstone and white marble, at the center of the Mughal gardens",
-    immagine: '/images/india/delhi.jpg',
+    immagine: '/images/india/delhi-tomba-di-humayun.jpg',
   },
   {
     slug: 'agra',
@@ -3051,7 +3051,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: "The Shore Temple of Mamallapuram on the beach, in wind-eroded granite",
-    immagine: '/images/india/mamallapuram.jpg',
+    immagine: '/images/india/mamallapuram-shore-temple.jpg',
   },
   {
     slug: 'madurai',
@@ -3583,7 +3583,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: "The hills of Munnar covered with tea plantations, with orderly rows of green bushes",
-    immagine: '/images/india/munnar.jpg',
+    immagine: '/images/india/munnar-piantagioni-te.jpg',
   },
   {
     slug: 'backwaters-alleppey',
@@ -4157,7 +4157,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: "The Chinese fishing nets on the Fort Kochi waterfront at sunset",
-    immagine: '/images/india/fort-kochi.jpg',
+    immagine: '/images/india/fort-kochi-reti-cinesi.jpg',
   },
   {
     slug: 'hampi',
@@ -4457,6 +4457,6 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: "The stone chariot of the Vittala temple in Hampi, among carved columns and granite boulders",
-    immagine: '/images/india/hampi.jpg',
+    immagine: '/images/india/hampi-carro-di-pietra.jpg',
   },
 ]

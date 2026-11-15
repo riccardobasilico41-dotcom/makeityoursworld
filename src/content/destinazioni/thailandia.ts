@@ -321,7 +321,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['jay-fai-bangkok'],
     tripSlugs: ['thailandia', 'thailandia-nord'],
     imageAlt: 'Il Wat Arun, il Tempio dell\'Alba, sul fiume Chao Phraya a Bangkok, Thailandia',
-    immagine: '/images/thailandia/bangkok-stock.jpg',
+    immagine: '/images/thailandia/wat-arun-chao-phraya.jpg',
   },
   {
     slug: 'hua-hin',
@@ -560,7 +560,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['thailandia'],
     imageAlt: 'Barche colorate cariche di frutta al mercato galleggiante vicino a Bangkok, Thailandia',
-    immagine: '/images/thailandia/hua-hin-stock.jpg',
+    immagine: '/images/thailandia/mercato-galleggiante-damnoen-saduak.jpg',
   },
   {
     slug: 'sam-roi-yot-kui-buri',
@@ -772,7 +772,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['thailandia'],
     imageAlt: 'Il padiglione reale illuminato dall\'alto nella Grotta di Phra Nakorn, Sam Roi Yot, Thailandia',
-    immagine: '/images/thailandia/sam-roi-yot-stock.jpg',
+    immagine: '/images/thailandia/grotta-phraya-nakhon.jpg',
   },
   {
     slug: 'khao-sok',
@@ -1242,7 +1242,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['bond-island-canoa'],
     tripSlugs: ['thailandia'],
     imageAlt: 'Le formazioni rocciose calcaree di Railay Beach vicino a Krabi, Thailandia',
-    immagine: '/images/thailandia/krabi-stock.jpg',
+    immagine: '/images/thailandia/railay-west.jpg',
   },
   {
     slug: 'koh-phi-phi',
@@ -1736,7 +1736,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['elephant-nature-park'],
     tripSlugs: ['thailandia', 'thailandia-nord'],
     imageAlt: 'Il tempio Wat Phra That Doi Suthep arroccato sulla montagna sopra Chiang Mai, Thailandia',
-    immagine: '/images/thailandia/chiang-mai-stock.jpg',
+    immagine: '/images/thailandia/doi-suthep.jpg',
   },
   {
     slug: 'phuket-similan',
@@ -2007,7 +2007,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['snorkeling-similan'],
     tripSlugs: ['thailandia'],
     imageAlt: 'Le acque cristalline e le rocce di granito bianco delle Isole Similan, Thailandia',
-    immagine: '/images/thailandia/similan-stock.jpg',
+    immagine: '/images/thailandia/isole-similan.jpg',
   },
   {
     slug: 'golfo-thailandia',
@@ -2285,7 +2285,7 @@ export const destinazioniThailandia: Destinazione[] = [
     esperienzeSlugs: ['full-moon-party'],
     tripSlugs: [],
     imageAlt: 'Spiaggia tropicale su un\'isola del Golfo di Thailandia',
-    immagine: '/images/thailandia/koh-phangan-stock.jpg',
+    immagine: '/images/thailandia/koh-phangan-bottle-beach.jpg',
   },
   {
     slug: 'chiang-rai',

@@ -3,7 +3,7 @@ import type { Consiglio } from './tipi'
 export const consiglioDoveDormireNewYork: Consiglio = {
   slug: 'dove-dormire-a-new-york',
   aggiornato: '2026-11-11',
-  immagine: '/images/new-york/times-square-stock.jpg',
+  immagine: '/images/new-york/times-square-notte.jpg',
   imageAlt: {
     it: 'Times Square di sera, con i maxischermi accesi e i grattacieli di Midtown contro il cielo blu',
     en: 'Times Square in the evening, with the giant screens lit up and the Midtown towers against a deep blue sky',

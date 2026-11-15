@@ -349,7 +349,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi', 'india-sud-taj-mahal'],
     imageAlt: 'La Tomba di Humayun a Delhi, in arenaria rossa e marmo bianco, al centro dei giardini moghul',
-    immagine: '/images/india/delhi.jpg',
+    immagine: '/images/india/delhi-tomba-di-humayun.jpg',
   },
   {
     slug: 'agra',
@@ -3063,7 +3063,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Lo Shore Temple di Mamallapuram sulla spiaggia, in granito eroso dal vento',
-    immagine: '/images/india/mamallapuram.jpg',
+    immagine: '/images/india/mamallapuram-shore-temple.jpg',
   },
   {
     slug: 'madurai',
@@ -3595,7 +3595,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Le colline di Munnar coperte di piantagioni di tè, con file ordinate di cespugli verdi',
-    immagine: '/images/india/munnar.jpg',
+    immagine: '/images/india/munnar-piantagioni-te.jpg',
   },
   {
     slug: 'backwaters-alleppey',
@@ -4169,7 +4169,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Le reti da pesca cinesi sul lungomare di Fort Kochi al tramonto',
-    immagine: '/images/india/fort-kochi.jpg',
+    immagine: '/images/india/fort-kochi-reti-cinesi.jpg',
   },
   {
     slug: 'hampi',
@@ -4469,6 +4469,6 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Il carro di pietra del tempio di Vittala a Hampi, tra colonne scolpite e massi di granito',
-    immagine: '/images/india/hampi.jpg',
+    immagine: '/images/india/hampi-carro-di-pietra.jpg',
   },
 ]

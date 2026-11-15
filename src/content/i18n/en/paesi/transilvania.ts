@@ -36,6 +36,6 @@ export const transilvania: Paese = {
   },
   stileViaggio: ['road trip', 'castles', 'on the road'],
   heroImageAlt: 'Bran Castle, "Dracula\'s Castle", in Transylvania, Romania',
-  heroImage: '/images/copertine/transilvania-express.jpg',
+  heroImage: '/images/copertine/transilvania-castello-di-bran.jpg',
   tripPrincipaleSlug: 'transilvania-express',
 }

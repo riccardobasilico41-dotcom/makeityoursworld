@@ -1829,7 +1829,7 @@ export const destinazioniMessico: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'A group in wetsuits and snorkeling gear in a cave cenote near Dos Ojos, Tulum',
-    immagine: '/images/messico/cenote-dos-ojos-gruppo.jpg',
+    immagine: '/images/messico/cenote-dos-ojos.jpg',
   },
   {
     slug: 'playa-del-carmen',

@@ -38,6 +38,6 @@ export const florida: Paese = {
   },
   stileViaggio: ['on the road', 'road trip', 'mare', 'famiglia'],
   heroImageAlt: 'Agua turquesa y palmeras a lo largo de la costa de Florida',
-  heroImage: '/images/copertine/florida-360.jpg',
+  heroImage: '/images/copertine/florida-key-west-smathers-beach.jpg',
   tripPrincipaleSlug: 'florida-road-trip',
 }
