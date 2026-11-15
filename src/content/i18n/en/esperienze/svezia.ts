@@ -151,7 +151,7 @@ export const esperienzeSvezia: Esperienza[] = [
     durata: 'half a day for an unhurried stroll, coffee stops included',
     periodo: 'all year, more pleasant from April to September',
     costo: 'walking is free; the Royal Palace (state apartments) has a separate paid admission',
-    comePrenotare: 'No need to book for the walk; the changing of the guard has fixed times, to be checked on site or online',
+    comePrenotare: 'No need to book for the walk; the changing of the guard has fixed times: check them on site or online',
     cosaPortare: 'Comfortable shoes: on the cobblestones of Gamla Stan heels and thin soles suffer',
     perChiEAdatta: 'Anyone, with no particular physical difficulty',
     giudizio: 'da-verificare',

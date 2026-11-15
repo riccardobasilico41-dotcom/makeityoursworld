@@ -52,7 +52,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Está en pleno centro, a pie desde Santa Cruz o la Plaza Nueva. La entrada única incluye catedral y Giralda: la visita empieza por la torre, que tiene un control de acceso aparte.",
         "quando": "De lunes a sábado de 10:45 a 18:00 (taquilla hasta las 17), domingo de 14:30 a 19:00 (taquilla hasta las 18); horarios 2026, que cambian por cultos y actos: consultar el calendario de la web. Mejor a la apertura.",
         "tempo": "1-2 horas",
-        "costo": "13 euros online, 14 euros en taquilla (desde el 1 de enero de 2026); la entrada incluye también la iglesia del Salvador",
+        "costo": "13 € online, 14 € en taquilla (desde el 1 de enero de 2026); la entrada incluye también la iglesia del Salvador",
         "orari": "De lunes a sábado desde media mañana hasta media tarde; el domingo solo por la tarde.",
         "lat": 37.3858,
         "lng": -5.9931,
@@ -65,7 +65,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Entrada por la Puerta del León, en la Plaza del Triunfo, frente a la catedral. Hay un recorrido único; las audioguías se alquilan en la entrada.",
         "quando": "Abierto de 9:30 a 19 h de abril a septiembre y de 9:30 a 17 h de octubre a marzo. Cerrado el 1 y el 6 de enero, el Viernes Santo y el 25 de diciembre. A primera hora o en la última franja de la tarde para evitar los grupos.",
         "tempo": "2-3 horas",
-        "costo": "15,50 euros la entrada general (tarifa de la web oficial, 2026); el Cuarto Real Alto se paga aparte",
+        "costo": "15,50 € la entrada general (2026); el Cuarto Real Alto se paga aparte",
         "orari": "Todos los días desde las 9:30; cierra a las 19 de abril a septiembre y a las 17 en invierno.",
         "lat": 37.3831,
         "lng": -5.9902,
@@ -383,7 +383,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie cuesta arriba desde el centro o en el minibús urbano 30 o 32 desde la Plaza Isabel la Católica. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
         "quando": "Abierta todos los días: de 8:30 a 20 h del 1 de abril al 14 de octubre y de 8:30 a 18 h del 15 de octubre al 31 de marzo. Cerrada el 25 de diciembre y el 1 de enero. Las entradas se compran en el canal oficial (online, por teléfono o en los cajeros) y en temporada alta se agotan con semanas de antelación.",
         "tempo": "3-4 horas, media jornada para verlo todo",
-        "costo": "22,08 euros la Alhambra General diurna en el canal oficial (2026)",
+        "costo": "22,08 € la Alhambra General diurna en el canal oficial (2026)",
         "orari": "Todos los días desde las 8:30; cierra a las 20 de abril a mediados de octubre y a las 18 en invierno, con visitas nocturnas algunas noches.",
         "lat": 37.1761,
         "lng": -3.5881,
@@ -687,7 +687,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Entrada por la Puerta del Perdón o el Patio de los Naranjos, a un paso del río. Se visita por cuenta propia, con audioguía de alquiler; la catedral del centro se atraviesa en el mismo recorrido.",
         "quando": "De lunes a sábado, de 8:30 a 9:30, la entrada es gratuita (acceso hasta las 9:20, sin grupos); después se paga. Los horarios cambian según la temporada y los cultos: consultar la web oficial.",
         "tempo": "1 hora y media-2 horas",
-        "costo": "15 euros; visita nocturna «El Alma de Córdoba» 25 euros (web oficial, 2026)",
+        "costo": "15 €; visita nocturna «El Alma de Córdoba» 25 € (2026)",
         "url": "https://mezquita-catedraldecordoba.es/",
         "consiglio": "La franja gratuita de la mañana es la mejor: poca gente y luz rasante en las naves. También se puede pagar y entrar después, pero se pierde el silencio.",
         "orari": "Varían según la fecha y los cultos: en noviembre de 2026, por ejemplo, de 10 a 18, y la taquilla cierra 30 minutos antes. Entrada libre de lunes a sábado de 8:30 a 9:30. Calendario diario en la web oficial.",
@@ -712,7 +712,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Comprobar horarios y días de cierre en la web del monumento. En verano, mejor por la mañana.",
         "tempo": "1-1 hora y media",
         "consiglio": "Los jardines son la única sombra donde sentarse después de la Mezquita.",
-        "costo": "unos 7 euros (2026)",
+        "costo": "unos 7 € (2026)",
         "orari": "Cerrado los lunes; los horarios cambian según la temporada y en verano se reducen por el calor.",
         "lat": 37.8766,
         "lng": -4.78138,
@@ -725,7 +725,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Al atardecer o de noche, cuando la Mezquita está iluminada.",
         "tempo": "30-45 minutos",
         "consiglio": "Cruzar el puente y hacer la foto desde la orilla opuesta, no desde el puente.",
-        "costo": "puente libre; Torre de la Calahorra 4,50 euros con terraza y audioguía (web oficial, 2026)",
+        "costo": "puente libre; Torre de la Calahorra 4,50 € con terraza y audioguía (2026)",
         "orari": "Torre: noviembre-febrero de 10 a 18; octubre y marzo-mayo de 10 a 19; junio-septiembre de 10 a 14 y de 16:30 a 20:30.",
         "lat": 37.87663,
         "lng": -4.77788,
@@ -747,7 +747,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Se sube por turnos con aforo reducido, con una entrada aparte de la Mezquita. Acceso desde el Patio de los Naranjos.",
         "quando": "El primer turno de la mañana o el último de la tarde, con luz rasante sobre los tejados.",
         "tempo": "30 minutos",
-        "costo": "4 euros (web oficial, 2026)",
+        "costo": "4 € (2026)",
         "orari": "Turnos cada 30 minutos; en noviembre de 2026 de 9:30 a 18:30.",
         "lat": 37.87955,
         "lng": -4.78032,
@@ -772,7 +772,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A unos 8 km al oeste del centro. En coche se aparca en el museo; desde allí un autobús lanzadera lleva al yacimiento. Del centro salen también autobuses turísticos y visitas guiadas.",
         "quando": "Por la mañana: el yacimiento casi no tiene sombra. En verano hay aperturas nocturnas.",
         "tempo": "media jornada",
-        "costo": "gratuita para ciudadanos de la Unión Europea, 1,50 euros para el resto (Junta de Andalucía)",
+        "costo": "gratuita para ciudadanos de la Unión Europea, 1,50 € para el resto (Junta de Andalucía)",
         "orari": "Del 21 de septiembre al 20 de marzo: martes a sábado de 9 a 18, domingos y festivos de 9 a 15; lunes cerrado. En verano el horario cambia: consultar la web.",
         "lat": 37.88608,
         "lng": -4.86779,
@@ -785,7 +785,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "A pie, a unos 20 minutos de la Mezquita, en el barrio de Santa Marina. Se pueden ver solo los patios o añadir la visita guiada de los interiores.",
         "quando": "En primavera, con las flores; por la mañana entra más luz en los patios.",
         "tempo": "1-1 hora y media",
-        "costo": "solo patios 8,50 euros; patios e interiores con guía 14 euros (web oficial)",
+        "costo": "solo patios 8,50 €; patios e interiores con guía 14 €",
         "orari": "Septiembre-diciembre: martes a sábado de 10 a 19, domingos y festivos de 10 a 15; julio y agosto: martes a domingo de 9 a 15. Lunes cerrado.",
         "lat": 37.88867,
         "lng": -4.77432,
@@ -942,7 +942,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "domanda": "¿Cuándo es gratis la Mezquita?",
-        "risposta": "De lunes a sábado de 8:30 a 9:30, con acceso hasta las 9:20 aproximadamente y sin grupos, salvo días con actos extraordinarios. Después se paga la entrada de 15 euros."
+        "risposta": "De lunes a sábado de 8:30 a 9:30, con acceso hasta las 9:20 aproximadamente y sin grupos, salvo días con actos extraordinarios. Después se paga la entrada de 15 €."
       },
       {
         "domanda": "¿Se puede visitar Córdoba en el día desde Sevilla?",
@@ -1046,7 +1046,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Por la mañana a la apertura, antes de los grupos que llegan de excursión desde la costa.",
         "tempo": "1 hora",
         "consiglio": "Quien no quiera el tema taurino puede mirar solo la arquitectura y las caballerizas.",
-        "costo": "10 € general, 12 € con audioguía (tarifas de la web oficial, 2026)",
+        "costo": "10 € general, 12 € con audioguía (2026)",
         "orari": "Todos los días desde las 10; cierra a las 18 de noviembre a febrero, a las 19 en marzo y octubre y a las 20 de abril a septiembre. Hay obras de consolidación en curso en el coso.",
         "lat": 36.74237,
         "lng": -5.16707,
@@ -1680,7 +1680,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Metro hasta Moyúa y luego a pie, o tranvía hasta la parada Guggenheim. Se puede ver solo el exterior, que es libre, con el paseo junto a la ría.",
         "quando": "De martes a domingo de 10 a 19 h; hasta las 20 h en Semana Santa y del 15 de junio al 13 de septiembre. Cerrado los lunes, salvo algunas aperturas extraordinarias, entre ellas los lunes de verano. Cerrado el 25 de diciembre y el 1 de enero. A primera hora de la mañana la luz sobre el titanio es mejor.",
         "tempo": "2-3 horas dentro, 30 minutos el exterior",
-        "costo": "12 euros la entrada general, gratis para menores de 18 (tarifa de la web oficial en noviembre de 2026: cambia según la temporada y las exposiciones)",
+        "costo": "12 € la entrada general, gratis para menores de 18 (tarifa de la web oficial en noviembre de 2026: cambia según la temporada y las exposiciones)",
         "url": "https://www.guggenheim-bilbao.eus/",
         "consiglio": "Comprar la entrada online y ver primero las salas de Serra; luego el exterior al atardecer.",
         "orari": "Martes a domingo 10-19; hasta las 20 en Semana Santa y del 15 de junio al 13 de septiembre. Lunes cerrado, salvo los lunes de verano y algunas fechas (2026). Cerrado el 25 de diciembre y el 1 de enero; el 24 y el 31 de diciembre cierra a las 17.",
@@ -1773,7 +1773,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Al atardecer, con el cielo despejado. Comprobar horarios en la web del gestor.",
         "tempo": "1 hora",
         "consiglio": "Subir hacia la hora del atardecer y parar a tomar una cerveza en la colina.",
-        "orari": "De octubre a mayo, lunes a sábado 7:15-22 y domingos y festivos 8:15-22; de junio a septiembre hasta las 23 los viernes, sábados y vísperas de festivo (por comprobar).",
+        "orari": "De octubre a mayo, lunes a sábado 7:15-22 y domingos y festivos 8:15-22; de junio a septiembre hasta las 23 los viernes, sábados y vísperas de festivo.",
         "lat": 43.2713,
         "lng": -2.92253
       },
@@ -2369,13 +2369,13 @@ export const destinazioniSpagna: Destinazione[] = [
         "tempo": "1-1,5 horas",
         "url": "https://catedraldemallorca.org/",
         "consiglio": "La mejor vista de la fachada reflejada en el estanque es desde el Parc de la Mar, mejor antes de entrar.",
-        "costo": "unos 10 euros con el museo, unos 25 con la subida a las terrazas (2026)",
+        "costo": "unos 10 € con el museo, unos 25 con la subida a las terrazas (2026)",
         "orari": "Visitas de lunes a viernes hasta la tarde y el sábado solo por la mañana; el domingo cerrada a las visitas.",
         "lat": 39.5675,
         "lng": 2.64806
       },
       {
-        "nome": "Palma vecchia: Almudaina e vicoli",
+        "nome": "Palma antigua: la Almudaina y sus callejones",
         "testo": "El Palacio de la Almudaina, antigua fortaleza árabe y luego residencia de los reyes de Mallorca, está junto a la catedral. Alrededor se abre el casco antiguo: patios escondidos, la Plaça Major, los baños árabes y el barrio de Sa Llotja con sus bares frente al puerto.",
         "come": "Todo a pie desde la catedral. El palacio lo gestiona Patrimonio Nacional y se visita por cuenta propia con los paneles.",
         "quando": "El palacio tiene un día de descanso semanal y cierra por actos oficiales: conviene mirar la web. Las callejuelas se disfrutan más al atardecer, cuando baja el calor.",
@@ -2401,7 +2401,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Sale de la estación de la Plaça d'Espanya de Palma. Desde Sóller el tranvía lleva al Port de Sóller; el billete se compra a bordo.",
         "quando": "El tren para en invierno: en la temporada 2026-27 del 23 de noviembre de 2026 al 1 de febrero de 2027. Los horarios cambian según la temporada, así que hay que mirar la web oficial. Mejor los trenes de la mañana.",
         "tempo": "jornada completa con el puerto",
-        "costo": "30 euros ida y vuelta Palma-Sóller; tranvía Sóller-Port de Sóller 10 euros por trayecto (web oficial, 2026)",
+        "costo": "30 € ida y vuelta Palma-Sóller; tranvía Sóller-Port de Sóller 10 € por trayecto (2026)",
         "url": "https://trendesoller.com/",
         "consiglio": "Comprar la entrada online con antelación en temporada alta y sentarse a la derecha en la ida para ver el valle.",
         "orari": "Salidas desde Palma concentradas por la mañana; servicio suspendido del 23 de noviembre de 2026 al 1 de febrero de 2027.",
@@ -2431,7 +2431,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 3.21229
       },
       {
-        "nome": "Cala Mondragó e Es Trenc",
+        "nome": "Cala Mondragó y Es Trenc",
         "testo": "Dos playas del sureste. Cala Mondragó está dentro de un parque natural, con pinar y dos calas de arena. Es Trenc es un largo arenal blanco sin edificios, con dunas y salinas detrás.",
         "come": "En coche desde Palma: Cala Mondragó está cerca de Santanyí, Es Trenc cerca de Campos. Aparcamientos de pago, que se llenan pronto.",
         "quando": "Junio y septiembre. En julio y agosto, llegar antes de las 10.",
@@ -2455,7 +2455,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En autobús urbano o taxi hasta el aparcamiento, o a pie cuesta arriba por el bosque desde el barrio de El Terreno. La taquilla está en el centro de recepción del aparcamiento.",
         "quando": "A última hora de la tarde, con la luz sobre la bahía; el domingo la entrada es gratis pero hay más gente.",
         "tempo": "1-1 hora y media",
-        "costo": "4 euros, gratis los domingos (web oficial)",
+        "costo": "4 €, gratis los domingos",
         "orari": "Lunes cerrado. Octubre-marzo de martes a sábado de 10 a 18, abril-septiembre de 10 a 19; domingos y festivos de 10 a 15. Cerrado el 1 de enero, el domingo de Pascua, el 1 de mayo y el 25 de diciembre.",
         "lat": 39.56375,
         "lng": 2.61934,
@@ -2467,7 +2467,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "En coche desde Palma hacia el este hasta Porto Cristo, o con excursiones organizadas. Entradas con hora fija, con venta en línea.",
         "quando": "El primer pase de la mañana o fuera de temporada: en verano los grupos son numerosos.",
         "tempo": "1 hora la visita, media jornada con el viaje",
-        "costo": "18,50 euros en línea, 19,50 euros en taquilla (web oficial)",
+        "costo": "18,50 € en línea, 19,50 € en taquilla",
         "orari": "Visitas con hora fija todos los días; del 1 de noviembre al 15 de marzo a las 10:30, 12, 14 y 15:30. Cerrado el 25 de diciembre y el 1 de enero.",
         "lat": 39.53574,
         "lng": 3.33062,
@@ -2611,7 +2611,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "domanda": "¿El tren de Sóller funciona todo el año?",
-        "risposta": "No: en la temporada 2026-27 para del 23 de noviembre de 2026 al 1 de febrero de 2027. Ida y vuelta desde Palma cuesta 30 euros, el tranvía al puerto 10 euros por trayecto."
+        "risposta": "No: en la temporada 2026-27 para del 23 de noviembre de 2026 al 1 de febrero de 2027. Ida y vuelta desde Palma cuesta 30 €, el tranvía al puerto 10 € por trayecto."
       },
       {
         "domanda": "¿Cuál es la mejor época para Mallorca?",
@@ -2721,7 +2721,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 1.4367
       },
       {
-        "nome": "Es Vedrà e Cala d'Hort",
+        "nome": "Es Vedrà y Cala d'Hort",
         "testo": "Es Vedrà es un islote de 413 metros frente a la costa suroeste, rodeado de leyendas. Se ve mejor desde Cala d'Hort, una playa de arena y cantos, y desde la Torre des Savinar.",
         "come": "En coche desde Ibiza ciudad. Cala d'Hort tiene un aparcamiento pequeño, lleno las tardes de verano.",
         "quando": "El atardecer es el momento más concurrido: llegar al menos una hora antes.",
@@ -2743,7 +2743,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 1.22012
       },
       {
-        "nome": "Benirràs e tamburi della domenica",
+        "nome": "Benirràs y los tambores del domingo",
         "testo": "Una bahía del norte cerrada por acantilados. Desde hace décadas, los domingos al atardecer se reúne un grupo de tamborileros en la arena, con puestos y gente bailando.",
         "come": "En coche desde Sant Joan de Labritja. La carretera es estrecha en el último tramo.",
         "quando": "Los domingos al atardecer, de mayo a octubre. Los demás días la bahía está tranquila.",
@@ -2766,7 +2766,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 1.39186
       },
       {
-        "nome": "Cala Xarraca e Cala Sant Vicent",
+        "nome": "Cala Xarraca y Cala Sant Vicent",
         "testo": "Dos calas del norte. Xarraca es una bahía verde de agua calma; Sant Vicent es rocosa y más salvaje. Poca construcción alrededor.",
         "come": "En coche desde Sant Joan de Labritja; aparcamientos pequeños.",
         "quando": "A primera hora o al final de la tarde.",
@@ -4075,7 +4075,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "consiglio": "Parar en los miradores y conducir despacio: muchos turistas se detienen en la carretera."
       },
       {
-        "nome": "Playa Papagayo e Los Ajaches",
+        "nome": "Playa Papagayo y Los Ajaches",
         "testo": "Calas de arena clara y agua turquesa en el parque natural de Los Ajaches, al sur. Papagayo es la más conocida; las otras (Caleta del Congrio, Playa Mujeres) son más tranquilas.",
         "come": "En coche desde Playa Blanca por una pista de tierra; la entrada en coche es de pago (tasa del Ayuntamiento de Yaiza). Se camina desde los aparcamientos.",
         "quando": "Por la mañana en verano, con poco viento. El viento levanta la arena.",

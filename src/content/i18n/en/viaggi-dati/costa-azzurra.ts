@@ -79,7 +79,7 @@ export const costaAzzurraMeta: TripMeta = {
       pernottamento: 'Antibes',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'Chapelle du Rosaire hours very limited: to be checked',
+      costiNoti: 'Chapelle du Rosaire with very limited hours, closed on Sundays',
       destinazioneSlug: 'costa-azzurra',
       immagine: '/images/viaggi/costa-azzurra/giorno-4-saint-paul-de-vence.jpg',
       imageAlt: 'Panorama of the hill village of Saint-Paul-de-Vence, encircled by walls and surrounded by greenery',

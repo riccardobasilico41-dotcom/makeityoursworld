@@ -18,7 +18,7 @@ export const malesia: Paese = {
   durataConsigliata:
     '10-12 giorni per Kuala Lumpur, Penang, Malacca, le Cameron Highlands e un\'isola; 14-16 giorni aggiungendo Taman Negara e Singapore in coda, che sta a quattro ore di bus da Malacca',
   budgetIndicativo:
-    'tra i più bassi del sud-est asiatico: pasti ai food court da 2-4€, hotel di buon livello 30-50€, autobus interurbani comodi per pochi euro. Le voci che pesano sono i voli interni e le isole in alta stagione.',
+    'tra i più bassi del sud-est asiatico: pasti ai food court da 2-4 €, hotel di buon livello 30-50 €, autobus interurbani comodi per pochi euro. Le voci che pesano sono i voli interni e le isole in alta stagione.',
   stileViaggio: ['gastronomia', 'città coloniali', 'isole', 'multiculturale'],
   scheda: {
     documenti:
@@ -34,7 +34,7 @@ export const malesia: Paese = {
     trasportiInterni:
       'Ottimi e semplici. Gli autobus interurbani sono comodi, puntuali ed economici, con sedili larghi anche nelle classi base: sono il mezzo normale per muoversi tra le città. Il treno ETS collega Kuala Lumpur a Ipoh e Penang in poche ore ed è la scelta più comoda sulla dorsale ovest. I voli interni di AirAsia e Batik costano pochissimo e servono soprattutto per il Borneo, che dalla penisola dista due ore e mezza di volo. Nelle città, Grab risolve tutto.',
     costoVita:
-      'Tra i più bassi della regione a parità di qualità. Un pasto completo in un food court sta sotto i 4 euro, una camera doppia buona attorno ai 35-50, l\'autobus tra due città costa meno di 10. Le uniche voci care sono l\'alcol, tassato pesantemente, e le isole in alta stagione.',
+      'Tra i più bassi della regione a parità di qualità. Un pasto completo in un food court sta sotto i 4 €, una camera doppia buona attorno ai 35-50, l\'autobus tra due città costa meno di 10. Le uniche voci care sono l\'alcol, tassato pesantemente, e le isole in alta stagione.',
     lingua:
       'Malese (bahasa melayu), ma l\'inglese è diffuso e parlato bene quasi ovunque: è probabilmente il paese più facile del sud-est asiatico da questo punto di vista. Si sentono di continuo anche il cinese mandarino, l\'hokkien, il cantonese e il tamil, spesso nella stessa strada.',
     elettricita: '240V, 50Hz, prese di tipo G, le stesse britanniche a tre poli rettangolari: l\'adattatore serve e non è quello europeo.',

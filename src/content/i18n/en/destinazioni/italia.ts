@@ -204,7 +204,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "From Cortina or Dobbiaco, drive to Auronzo or Misurina, then take the toll road up to the Rifugio Auronzo (2,320 m), where the loop starts. A shuttle also runs from Misurina.",
         "quando": "From late spring to autumn, while the road is open: dates are on the booking portal. Arrive at opening time or late in the afternoon: in the middle of the day in July and August the trail is one continuous line.",
         "tempo": "3-4 hours for the full loop (about 10 km)",
-        "costo": "40 euros per car, 2026; online booking is compulsory and the ticket is valid for 12 hours from the chosen time. The shuttle from Misurina to the Rifugio Auronzo costs 10 euros per person per day",
+        "costo": "€40 per car, 2026; online booking is compulsory and the ticket is valid for 12 hours from the chosen time. The shuttle from Misurina to the Rifugio Auronzo costs €10 per person per day",
         "lat": 46.6122,
         "lng": 12.2961,
         "consiglio": "I did the loop in August and it felt like walking in single file: in September you walk with a third of the people. If you start early, go clockwise and climb to the Locatelli in the low morning light."
@@ -524,7 +524,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "The season runs from early December to mid-April, but the periods are very different. **Christmas and New Year** have the highest prices of the year and the most crowded slopes. **January after Epiphany** is the best time for value: good snow, few people, low prices. **February** is the month with the most reliable snow but coincides with school ski weeks. **March** is the best month for good skiers: long days, sun, snow still good up high and prices falling. In April you only ski at high altitude and on glaciers.",
     costi:
-      "The lift pass is the main expense and varies a lot. In Dolomiti Superski the 2026/27 adult day pass costs 89 euros in high season and 80 in regular season, the pre-sale season pass 990; in Cervinia 64, in the Vialattea from 54, in Livigno from 66. Then there's rental (€25-45 a day for a full set), lessons and lunch on the mountain. **Prices drop considerably if you book lift pass and accommodation as a package and outside peak periods.** Budget: about €150-180 a day per person with a shared apartment, lift pass and rental. Mid-range: €250-300 with a half-board hotel and lunch in a mountain hut. High: over €450 with a ski-in/ski-out hotel and a private instructor.",
+      "The lift pass is the main expense and varies a lot. In Dolomiti Superski the 2026/27 adult day pass costs €89 in high season and 80 in regular season, the pre-sale season pass 990; in Cervinia 64, in the Vialattea from 54, in Livigno from 66. Then there's rental (€25-45 a day for a full set), lessons and lunch on the mountain. **Prices drop considerably if you book lift pass and accommodation as a package and outside peak periods.** Budget: about €150-180 a day per person with a shared apartment, lift pass and rental. Mid-range: €250-300 with a half-board hotel and lunch in a mountain hut. High: over €450 with a ski-in/ski-out hotel and a private instructor.",
     erroriDaEvitare: [
       "Booking at Christmas or New Year without knowing they're the two most expensive weeks of the year, with differences of even forty percent compared with January",
       "Choosing the ski area by reputation instead of altitude: below 1,800 meters, with the winters of recent years, natural snow is no longer guaranteed and you ski on man-made snow",
@@ -1111,7 +1111,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro A to Ottaviano or Cipro, then on foot. Better to book online on the official site to skip the ticket-office queue.",
         "quando": "Monday to Saturday 8am-8pm, last entry at 6pm. Closed on Sundays, except the last Sunday of the month (9am-2pm, last entry 12:30pm), when entry is free and the crowds are huge. Also closed on some religious holidays: see the calendar on the website. First slot in the morning or late afternoon.",
         "tempo": "3-4 hours",
-        "costo": "20 euros full price, 25 euros with online booking on the official website (2026)",
+        "costo": "€20 full price, €25 with online booking on the official website (2026)",
         "orari": "Monday-Saturday 8-20, last entry 18:00. Closed Sundays except the last one of the month (9-14, free).",
         "lat": 41.9065,
         "lng": 12.4536,
@@ -1135,7 +1135,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Pantheon",
         "testo": "The temple of all the gods, rebuilt under Hadrian in the 2nd century AD. The unreinforced concrete dome is still the largest of its kind in the world, with the oculus open at the centre letting in light and also rain. Raphael and the first kings of Italy are buried inside.",
         "come": "In the centre, between Piazza Navona and the Trevi Fountain, on foot. Since 2023 entry is paid, with tickets online or on site. During religious services access is limited.",
-        "quando": "Every day 9:00-19:00, last entry 18:30; on the first Sunday of the month entry is free (official site). Early morning or evening for fewer people; in the rain the oculus creates a special atmosphere.",
+        "quando": "Every day 9:00-19:00, last entry 18:30; on the first Sunday of the month entry is free. Early morning or evening for fewer people; in the rain the oculus creates a special atmosphere.",
         "tempo": "30-45 minutes",
         "costo": "€7 (from 1 July 2026); free on the first Sunday of the month",
         "orari": "Daily 9-19, last entry 18:30.",
@@ -1313,25 +1313,25 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Monti",
         "perChi": "anyone who wants a lively neighbourhood close to the Colosseum and Termini",
         "testo": "Alleys, workshops and bars on foot from the Colosseum. A bit noisy in the evening, with few big hotels and many apartments. Convenient for metro and trains.",
-        "fascia": "130-250 €"
+        "fascia": "€130-250"
       },
       {
         "nome": "Trastevere",
         "perChi": "anyone who wants evening life",
         "testo": "Lanes, osterie and music. Crowded and noisy at weekends; the restaurants on the main streets are touristy. The centre is a walk across the Tiber.",
-        "fascia": "120-220 €"
+        "fascia": "€120-220"
       },
       {
         "nome": "Prati",
         "perChi": "anyone who wants to spend less and see the Vatican",
         "testo": "A residential district with lower prices and metro A for St Peter's and Termini. Not very charming, but quiet and convenient.",
-        "fascia": "100-180 €"
+        "fascia": "€100-180"
       },
       {
         "nome": "Testaccio",
         "perChi": "anyone who wants to eat well and stay out of the crowds",
         "testo": "A working-class district with historic trattorias and the market. A bit off the beaten track from the centre and the monuments, but well connected by metro B.",
-        "fascia": "90-160 €"
+        "fascia": "€90-160"
       }
     ],
     gite: [
@@ -1505,7 +1505,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from Piazza della Signoria. Entry is by booking: the queue without a ticket is long even in low season. The visit is linear and there is no shortcut: choose the rooms beforehand.",
         "quando": "Tuesday to Sunday 8:15-18:30, last entry 17:30; closed on Mondays, 1 January and 25 December. First slot in the morning or late afternoon.",
         "tempo": "3 hours",
-        "costo": "25 euros on the day, 29 euros booked in advance (official site, 2026)",
+        "costo": "€25 on the day, €29 booked in advance (2026)",
         "orari": "Tuesday-Sunday 8:15-18:30. Closed Mondays.",
         "lat": 43.7678,
         "lng": 11.2553,
@@ -1531,7 +1531,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the Ponte Vecchio. The museums and the garden have separate or combined tickets: check the website.",
         "quando": "Closed on Mondays. In summer the garden is hot and shadeless in many places: go early in the morning.",
         "tempo": "half a day",
-        "costo": "Pitti Palace €16 on the day, €19 booked ahead; Pitti and Boboli €22 (official site, 2026)",
+        "costo": "Pitti Palace €16 on the day, €19 booked ahead; Pitti and Boboli €22 (2026)",
         "orari": "Palazzo Pitti Tuesday-Sunday 8:15-18:30, closed Mondays. Boboli from 8:15 to dusk, closed the first and last Monday of the month.",
         "lat": 43.7651,
         "lng": 11.25,
@@ -1689,25 +1689,25 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Oltrarno",
         "perChi": "anyone who wants a lively district five minutes from the centre",
         "testo": "Workshops, trattorias and squares. Quieter than the centre, with slightly lower prices. San Frediano is the district for the evening.",
-        "fascia": "110-200 €"
+        "fascia": "€110-200"
       },
       {
         "nome": "Sant'Ambrogio",
         "perChi": "anyone looking for lower prices and a real market",
         "testo": "A residential area east of the Duomo, with the Florentines' market and many trattorias. A bit off the tourist routes.",
-        "fascia": "100-180 €"
+        "fascia": "€100-180"
       },
       {
         "nome": "Santa Maria Novella",
         "perChi": "anyone arriving by train and leaving early",
         "testo": "Close to the station: convenient for trains and buses to Tuscany. A busier area and less pleasant in the evening.",
-        "fascia": "90-170 €"
+        "fascia": "€90-170"
       },
       {
         "nome": "Historic centre (Duomo and Signoria)",
         "perChi": "anyone who wants everything on foot and does not mind the prices",
         "testo": "Extremely convenient and expensive. In the evening there are few residents and many tourists, and the noise of the pedestrian streets reaches the rooms.",
-        "fascia": "150-300 €"
+        "fascia": "€150-300"
       }
     ],
     gite: [
@@ -1839,7 +1839,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "From November to February, Carnival excluded, Venice becomes a city again. Days are short and damp, there's a chance of acqua alta (which the MOSE now limits but doesn't eliminate), but in exchange you have the campielli all to yourself. April-June and September-October are the most beautiful and the most saturated months.",
     costi:
-      '**The access fee** applies to those who enter for the day without staying overnight, on a set number of high-season days: in 2026 it was charged on 60 days between April and July, 5 euros if booked at least four days ahead and 10 euros below that threshold. Those who stay overnight in the city are exempt but still have to register. The calendar changes every year: it\'s worth checking before you go. The timed vaporetto pass is almost always worthwhile; the gondola has rates set by the city and is expensive anyway. Rough daily budget per person, sharing a double: low €80-100 (staying in Mestre), mid €150-200, high over €300.',
+      '**The access fee** applies to those who enter for the day without staying overnight, on a set number of high-season days: in 2026 it was charged on 60 days between April and July, €5 if booked at least four days ahead and €10 below that threshold. Those who stay overnight in the city are exempt but still have to register. The calendar changes every year: it\'s worth checking before you go. The timed vaporetto pass is almost always worthwhile; the gondola has rates set by the city and is expensive anyway. Rough daily budget per person, sharing a double: low €80-100 (staying in Mestre), mid €150-200, high over €300.',
     erroriDaEvitare: [
       "Coming for the day in high season without checking the access fee and without booking it in advance, paying double",
       "Doing Venice between ten and five and judging it: in those hours, on the main routes, it's a dense crowd. At seven in the morning the same calle is empty",
@@ -1869,11 +1869,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Next to the Basilica, on the St Mark's basin. The standard ticket also includes the museums of Piazza San Marco.",
         "quando": "Open every day: 9am-7pm from April to October, 9am-6pm from November to March, last entry one hour before closing. Early morning or late afternoon to avoid the groups.",
         "tempo": "2-3 hours",
-        "costo": "35 euros full price, including the Museums of St Mark's Square; 30 euros if bought online more than 30 days ahead (2026)",
+        "costo": "€35 full price, including the Museums of St Mark's Square; €30 if bought online more than 30 days ahead (2026)",
         "lat": 45.4337,
         "lng": 12.3404,
         "url": "https://palazzoducale.visitmuve.it/",
-        "consiglio": "Buying online more than a month ahead saves 5 euros and lets you skip the queue. If you have time, the Secret Itineraries, a guided tour, show rooms the normal route does not reach."
+        "consiglio": "Buying online more than a month ahead saves €5 and lets you skip the queue. If you have time, the Secret Itineraries, a guided tour, show rooms the normal route does not reach."
       },
       {
         "nome": "Scuola Grande di San Rocco",
@@ -2040,25 +2040,25 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Cannaregio",
         "perChi": "anyone who wants a lived-in area and to spend less",
         "testo": "Close to the station, with wide canals and osterie used by Venetians. Quieter and cheaper than the centre, a walk from San Marco.",
-        "fascia": "120-220 €"
+        "fascia": "€120-220"
       },
       {
         "nome": "Castello",
         "perChi": "anyone looking for calm away from San Marco",
         "testo": "A large residential sestiere, with very quiet areas toward the Arsenale and the Giardini. Little to do in the evening, but close to San Marco.",
-        "fascia": "130-240 €"
+        "fascia": "€130-240"
       },
       {
         "nome": "Dorsoduro",
         "perChi": "anyone who wants museums and evening life",
         "testo": "Close to the Gallerie dell'Accademia and the Guggenheim Collection, with bars around Campo Santa Margherita. Livelier in the evening, a bit more expensive.",
-        "fascia": "150-280 €"
+        "fascia": "€150-280"
       },
       {
         "nome": "Mestre",
         "perChi": "anyone who wants to spend as little as possible",
         "testo": "On the mainland, a few minutes by train from Venezia Santa Lucia. It costs less, but you miss dawn and evening in the city, which are the best times. Those staying in the historic centre are exempt from the access fee.",
-        "fascia": "70-130 €"
+        "fascia": "€70-130"
       }
     ],
     gite: [
@@ -2248,7 +2248,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Circumvesuviana Napoli-Sorrento line to Pompei Scavi-Villa dei Misteri, from Napoli Garibaldi. You can also take a regional train to Pompei. Audioguide or guide recommended.",
         "quando": "At opening time or in the late afternoon in summer; not at midday, with no shade. Open 9am-7pm from 16 March to 14 October (last entry 5:30pm) and 9am-5pm the rest of the year (last entry 3:30pm). Closed on 25 December and 1 January, unless there are special openings. Named tickets, a cap of 20,000 visitors a day and time slots in high season.",
         "tempo": "3-4 hours",
-        "costo": "Pompei Express 20 euros; Pompei+, with the suburban villas and Boscoreale, 25 euros (from 12 January 2026). Online sales only through Vivaticket, or at the ticket office",
+        "costo": "Pompei Express €20; Pompei+, with the suburban villas and Boscoreale, €25 (from 12 January 2026). Online sales only through Vivaticket, or at the ticket office",
         "lat": 40.749,
         "lng": 14.4848,
         "url": "https://pompeiisites.org/",
@@ -2406,19 +2406,19 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Historic center",
         "perChi": "Those who want to be inside the city",
         "testo": "Everything on foot, lanes full of life and places open late. Constant noise of scooters and voices even at night, narrow streets that are not always clean. Better a room on an upper floor or facing the courtyard.",
-        "fascia": "70-130 €"
+        "fascia": "€70-130"
       },
       {
         "nome": "Chiaia and the seafront",
         "perChi": "Those looking for a calmer area",
         "testo": "A residential and shopping district, with restaurants and sea views from the seafront. Quieter in the evening, walkable from the historic centre and close to the metro.",
-        "fascia": "110-200 €"
+        "fascia": "€110-200"
       },
       {
         "nome": "Vomero",
         "perChi": "Those watching prices who want a view",
         "testo": "A hill served by funiculars and metro line 1, with views over the gulf. Safer and quieter, but you go down and back up by funicular each time: in the evening you lose time.",
-        "fascia": "80-140 €"
+        "fascia": "€80-140"
       }
     ],
     gite: [
@@ -2542,7 +2542,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "April-June and September-October. Winter is cold and foggy but the city works; summer is muggy and in August Milan empties, with many places closed. During the Salone del Mobile (April) and fashion weeks, lodging prices triple and finding a place is hard.",
     costi:
-      "For lodging it's the most expensive city in Italy. The Duomo and terraces have a combined ticket; the Last Supper costs 15 euros full price (official website, 2026), the problem is finding a spot. Rough daily budget per person, sharing a double room: low €80-110, mid €150-200, high over €300.",
+      "For lodging it's the most expensive city in Italy. The Duomo and terraces have a combined ticket; the Last Supper costs €15 full price (2026), the problem is finding a spot. Rough daily budget per person, sharing a double room: low €80-110, mid €150-200, high over €300.",
     erroriDaEvitare: [
       "Trying to see the Last Supper without a reservation: **you can't get in**, booking windows open quarterly and sell out in no time. It's the most common mistake of visitors to Milan",
       "Driving into the center without knowing about Area B and Area C",
@@ -2570,7 +2570,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro M1 Conciliazione or M2 Cadorna, then a few minutes on foot. Visit on your own, at the time set on the ticket.",
         "quando": "Tuesday to Sunday 8:15-19:00, last entry 18:45; closed on Mondays, 1 January and 25 December. Booking is compulsory for all tickets, even free ones: without it you don't get in. Collect the ticket at the office next to the entrance at least 30 minutes before your slot, with ID.",
         "tempo": "15 minutes inside, an hour with waiting and checks",
-        "costo": "15 euros full price, 2 euros for ages 18-25, free under 18 (official site, 2026)",
+        "costo": "€15 full price, €2 for ages 18-25, free under 18 (2026)",
         "orari": "Tuesday to Sunday 8:15am-7pm, last entry 6:45pm. Closed Mondays, 1 January and 25 December.",
         "lat": 45.46583,
         "lng": 9.17111,
@@ -2583,7 +2583,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro M2 Lanza or M3 Montenapoleone, then on foot through the streets of Brera. Self-guided.",
         "quando": "Closed on Mondays; Tuesday to Sunday 8:30am-7:15pm, booking required. The afternoon is quieter. The neighbourhood is best explored in the evening.",
         "tempo": "2 hours",
-        "costo": "20 euros full price, Grande Brera ticket including Palazzo Citterio (2026)",
+        "costo": "€20 full price, Grande Brera ticket including Palazzo Citterio (2026)",
         "orari": "Tuesday to Sunday 8:30am-7:15pm. Closed Mondays.",
         "lat": 45.47196,
         "lng": 9.18782,
@@ -2609,7 +2609,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A short walk from the Duomo. The La Scala museum is in Largo Ghiringhelli.",
         "quando": "The Galleria is always open. The La Scala museum has its own hours: check first. Evening for the lit shop windows.",
         "tempo": "1 hour for the Galleria and square, one more hour with the museum",
-        "costo": "Galleria free; La Scala Theatre Museum €12 full price, plus online booking fee (official site, 2026)",
+        "costo": "Galleria free; La Scala Theatre Museum €12 full price, plus online booking fee (2026)",
         "orari": "Galleria always open. La Scala Museum daily 9:30am-5:30pm, last entry 5pm; closed 7, 25 and 26 December, 1 January, Easter, 1 May and 15 August.",
         "lat": 45.46561,
         "lng": 9.19002,
@@ -2634,7 +2634,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Five minutes' walk from the Duomo, in Piazza Pio XI. One ticket for the gallery and the crypt.",
         "quando": "Any day except Wednesday; early afternoon is the quietest time.",
         "tempo": "1 hour 30 minutes",
-        "costo": "€20 full price, gallery and crypt (official site, 2026)",
+        "costo": "€20 full price, gallery and crypt (2026)",
         "orari": "Daily 10am-6pm, ticket office until 5:15pm. Closed Wednesdays.",
         "lat": 45.46378,
         "lng": 9.18595,
@@ -2753,19 +2753,19 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Brera and the center",
         "perChi": "Those who want to walk everywhere",
         "testo": "Convenient and beautiful, close to the Duomo, Brera and the Castle. The most expensive in the city, with places that close early and less life in the evening.",
-        "fascia": "150-300 €"
+        "fascia": "€150-300"
       },
       {
         "nome": "Navigli and Porta Ticinese",
         "perChi": "Those who want the evenings",
         "testo": "Bars and nightlife until late. The noise on the towpath carries into rooms facing the canal: better a room at the back.",
-        "fascia": "110-220 €"
+        "fascia": "€110-220"
       },
       {
         "nome": "Central Station",
         "perChi": "Those on a tight budget or leaving by train",
         "testo": "Cheaper hotels and connections to the lakes and other cities. The area is less well kept and you should be careful at night; the centre is a few metro stops away.",
-        "fascia": "90-160 €"
+        "fascia": "€90-160"
       }
     ],
     sapori: [
@@ -3399,7 +3399,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from the Golgo plateau, at Baunei, along a trail down through the scrub. Boats can approach, but landing is restricted. Booking is required.",
         "quando": "Early morning, when you walk in the cool and the cove is still empty. May-June and September. Book before leaving: the number of daily accesses is limited.",
         "tempo": "3-4 hours for the descent, a swim and the climb back",
-        "costo": "contribution of about €7 per person, parking included, booking required (Heart of Sardinia app or Baunei municipality website, 2026)",
+        "costo": "contribution of about €7 per person, parking included, booking required (2026)",
         "lat": 40.10807,
         "lng": 9.6896,
         "consiglio": "Hiking shoes and a liter and a half of water each: the climb back on a summer afternoon is hard."
@@ -3475,7 +3475,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Alghero by plane or car. For the grotto: a boat from Alghero's port or on foot down the Escala del Cabirol, the long staircase cut into the cliff.",
         "quando": "Morning. The boat does not sail in rough seas. The sunset over Alghero's ramparts is lovely.",
         "tempo": "Half a day for the grotto, a full day with Alghero",
-        "costo": "Neptune's Grotto €18 full price (Alghero tourist board website, 2026); the boat is paid separately",
+        "costo": "Neptune's Grotto €18 full price (2026); the boat is paid separately",
         "orari": "Daily: Easter to end of September 9am-7pm, until 24 October 9am-5pm, then 10am-3pm. From 12 November to Easter 10am-3pm, closed Thursdays and 25 December. Times refer to the last tour.",
         "lat": 40.56485,
         "lng": 8.16014,
@@ -3581,25 +3581,25 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Northeast: Palau and La Maddalena",
         "perChi": "Those who want sea and the archipelago",
         "testo": "Base for the islands and the beaches of Gallura. The Costa Smeralda is close and expensive. Frequent ferries to La Maddalena. Very crowded in high season.",
-        "fascia": "120-250 €"
+        "fascia": "€120-250"
       },
       {
         "nome": "Center-east: Cala Gonone, Dorgali, Baunei",
         "perChi": "Those who want coves and trekking",
         "testo": "Base for the Gulf of Orosei, Gorropu and Goloritzé. Long, winding roads; the inland villages have agriturismi with excellent value.",
-        "fascia": "90-170 €"
+        "fascia": "€90-170"
       },
       {
         "nome": "Northwest: Alghero and Stintino",
         "perChi": "Those who want a town and beaches",
         "testo": "Alghero has a lively centre and the airport; Stintino, near La Pelosa, is a drive away. With the mistral the sea changes from one side to the other.",
-        "fascia": "90-170 €"
+        "fascia": "€90-170"
       },
       {
         "nome": "Southwest: Sulcis and Costa Verde",
         "perChi": "Those looking for less-visited beaches",
         "testo": "Almost empty beaches and dunes, mines, Carloforte. Farther from everything, you need a car and a few extra days.",
-        "fascia": "70-130 €"
+        "fascia": "€70-130"
       }
     ],
     sapori: [
@@ -4477,7 +4477,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "domanda": "How much does eating cost?",
-        "risposta": "In a village trattoria a full meal with wine usually costs between 20 and 30 euros. Often there is no written menu and you ask what's available."
+        "risposta": "In a village trattoria a full meal with wine usually costs between 20 and €30. Often there is no written menu and you ask what's available."
       },
       {
         "domanda": "Is Val Grande suitable for everyone?",
@@ -4532,7 +4532,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "**September and October**, during the harvest: the cellars are in full swing, the vineyards change color and the fairs are on the calendar. April-June is the second window, with greenery and fewer people. From November to March many small wineries reduce visits, and in August several close.",
     costi:
-      "Cellar tastings usually cost between 15 and 40 euros per person depending on the wines and the welcome, often deducted from a purchase. In the best-known areas (Barolo, Montalcino) guided visits of historic wineries cost more; in emerging areas you pay much less or nothing. Budget: about €80-110 a day per person with a farm stay in a double room, one tasting and an osteria. Mid-range: €150-200 with two wineries, lunch and dinner with wine. High: over €350 with a wine resort, a driver and historic wineries.",
+      "Cellar tastings usually cost between 15 and €40 per person depending on the wines and the welcome, often deducted from a purchase. In the best-known areas (Barolo, Montalcino) guided visits of historic wineries cost more; in emerging areas you pay much less or nothing. Budget: about €80-110 a day per person with a farm stay in a double room, one tasting and an osteria. Mid-range: €150-200 with two wineries, lunch and dinner with wine. High: over €350 with a wine resort, a driver and historic wineries.",
     erroriDaEvitare: [
       "**Showing up at a winery without an appointment**: it's mistake number one. Wineries are farms with working hours, and almost all receive only by reservation, often a few days ahead",
       "Planning more than two or three wineries a day: after the third you no longer taste anything with attention, and the day becomes a collection of stamps",
@@ -4936,7 +4936,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "domanda": "How much does a tasting cost?",
-        "risposta": "Usually between 20 and 40 euros per person, often deducted if you buy bottles. Historic wineries in Barolo and Montalcino cost more, lesser-known areas much less."
+        "risposta": "Usually between 20 and €40 per person, often deducted if you buy bottles. Historic wineries in Barolo and Montalcino cost more, lesser-known areas much less."
       },
       {
         "domanda": "When should I go?",
@@ -5016,7 +5016,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Right in the centre, on foot from Piazza Castello or Piazza San Carlo. Tickets must be bought online, with a time slot. Audioguide or app to understand the pieces.",
         "quando": "Open every day: Monday 9-14, Tuesday-Friday and Sunday 9-18:30, Saturday 9-20; on some days there are special evening openings, on the website. Early morning or Saturday evening to avoid the crowds. The Historic Rooms have been temporarily closed since 12 December 2025: see the notice on the website.",
         "tempo": "3 hours, better 4",
-        "costo": "18 euros full price (2026)",
+        "costo": "€18 full price (2026)",
         "orari": "Monday 9am-2pm; Tuesday-Friday and Sunday 9am-6:30pm; Saturday 9am-8pm. Open every day.",
         "lat": 45.06833,
         "lng": 7.68444,
@@ -5029,7 +5029,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On via Montebello, on foot from Piazza Castello. Museum, lift or combined ticket, with a time slot.",
         "quando": "On clear days the lift sells out: book ahead. Check the website for works or reduced opening.",
         "tempo": "2-3 hours with the lift",
-        "costo": "museum €18, lift €9, combined €23 (official site, 2026); until 8 December 2026 the museum alone is reduced to €16 for everyone while a new exhibition is set up",
+        "costo": "museum €18, lift €9, combined €23 (2026); until 8 December 2026 the museum alone is reduced to €16 for everyone while a new exhibition is set up",
         "orari": "Museum and lift 9am-7pm, closed Tuesdays. The ticket office closes an hour earlier; the last lift down is ten minutes before closing.",
         "lat": 45.06898,
         "lng": 7.69324,
@@ -5042,7 +5042,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In Piazza Castello, entrance from the courtyard. One ticket for the whole complex. You can walk around alone, the rooms have clear panels.",
         "quando": "Open Thursday to Tuesday, 9-19, closed on Wednesdays. On the first Sunday of the month entry is free with no booking: tickets are only issued at the ticket office on the day.",
         "tempo": "3 hours",
-        "costo": "15 euros full price (official site, 2026)",
+        "costo": "€15 full price (2026)",
         "orari": "Thursday to Tuesday 9am-7pm. Closed Wednesdays.",
         "lat": 45.0727,
         "lng": 7.686,
@@ -5055,7 +5055,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On Piazza Castello, on foot from the centre. Juvarra's staircase can be seen just by stepping into the entrance hall.",
         "quando": "Morning or early afternoon. It pairs with the Royal Museums, across the square.",
         "tempo": "1 hour 30 minutes",
-        "costo": "€10 full price, €5 for the garden only (official site, 2026)",
+        "costo": "€10 full price, €5 for the garden only (2026)",
         "orari": "Monday and Wednesday to Sunday 10am-6pm; closed Tuesdays. The ticket office closes an hour earlier.",
         "lat": 45.07094,
         "lng": 7.68578,
@@ -5110,7 +5110,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Historic rack railway from Sassi station, reached by GTT public transport from the centre, with hourly departures. On Wednesdays the railway does not run.",
         "quando": "Departures from Sassi every hour from 10:00 to 18:00, last ride down from Superga at 18:30; updated times on the GTT website. A clear day, ideally the afternoon for the light on the Alps.",
         "tempo": "2-3 hours including the ride",
-        "costo": "rack railway: €4 single and €6 return on weekdays, €6 and €9 on Saturdays and holidays (GTT, 2026)",
+        "costo": "rack railway: €4 single and €6 return on weekdays, €6 and €9 on Saturdays and holidays (2026)",
         "orari": "Rack railway: departures from Sassi every hour 10am-6pm, last descent from Superga 6:30pm. Not running on Wednesdays.",
         "lat": 45.08062,
         "lng": 7.76737,
@@ -5123,7 +5123,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "About ten kilometres from Turin, reached by train, bus or car: connections on the official site. Booking a timed entry is recommended.",
         "quando": "Open Tuesday to Sunday, closed on Mondays; hours for the palace, exhibitions and gardens change through the year. The gardens and park are fine in uncertain weather, but the rooms need a free day.",
         "tempo": "half a day, a full day with the gardens",
-        "costo": "Palace and Gardens €18 full price, Gardens only €6 (official site, 2026)",
+        "costo": "Palace and Gardens €18 full price, Gardens only €6 (2026)",
         "orari": "Closed Mondays except public holidays. Palace: Tuesday-Friday 9:30am-5pm, Saturday, Sunday and holidays 9:30am-6:30pm; Gardens 9:30am-5pm. Last entry an hour before closing (winter hours 2026).",
         "lat": 45.13528,
         "lng": 7.62528,
@@ -5200,19 +5200,19 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Historic center, between Piazza Castello and Piazza San Carlo",
         "perChi": "those who want to walk everywhere",
         "testo": "You walk under the arcades, with museums and cafés a few minutes away. Hotels cost more, evenings are quiet. It is walkable from Porta Nuova station.",
-        "fascia": "110-200 €"
+        "fascia": "€110-200"
       },
       {
         "nome": "San Salvario",
         "perChi": "those looking for lower prices and nightlife",
         "testo": "The district behind Porta Nuova, with bars and restaurants. Noisier at weekends and late at night, walkable from the centre.",
-        "fascia": "70-130 €"
+        "fascia": "€70-130"
       },
       {
         "nome": "Roman Quadrilateral",
         "perChi": "those looking for atmosphere",
         "testo": "Ancient alleys, aperitivos and bars. Very lively and noisy in the evening, close to Porta Palazzo.",
-        "fascia": "90-170 €"
+        "fascia": "€90-170"
       }
     ],
     sapori: [
@@ -5361,7 +5361,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "For swimming, Fornillo beach, west of the Spiaggia Grande, is less crowded and reached on foot along the seaside path."
       },
       {
-        "nome": "Amalfi: Duomo e Chiostro del Paradiso",
+        "nome": "Amalfi: Duomo and Chiostro del Paradiso",
         "testo": "The Duomo di Sant'Andrea sits at the top of a flight of steps above the harbor square, with a mosaic facade and a Byzantine bronze door. Next to it is the 13th-century Chiostro del Paradiso, with interlaced Arab-style arches. Amalfi was a maritime republic before Pisa and Genoa.",
         "come": "From the ferry pier it is a few minutes on foot. The ticket covers the cloister, the Basilica of the Crucifix and the museum; the cathedral is entered from the stairway.",
         "quando": "Hours and days change with religious services. Best in the morning, before the tour buses.",
@@ -5371,12 +5371,12 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Climb the steps and turn around: the square seen from above is the best photo in town."
       },
       {
-        "nome": "Ravello: Villa Rufolo e Villa Cimbrone",
+        "nome": "Ravello: Villa Rufolo and Villa Cimbrone",
         "testo": "Ravello sits high above the coast and moves at another pace: silence, gardens and viewpoints. Villa Rufolo, from the 13th century, has the Moorish tower and the garden over the void where the music festival is held. Villa Cimbrone has the Terrace of Infinity, with statues looking out to sea.",
         "come": "From Amalfi by SITA bus, or on foot via the Scala Fenicia (a path with many steps). The two villas are linked on foot through the centre.",
         "quando": "Villa Rufolo is open daily, with longer hours in season. After 5 pm the light on the Belvedere is best. The festival changes closing times.",
         "tempo": "half a day",
-        "costo": "Villa Rufolo €8 full price, tickets on site only (official site, 2026); Villa Cimbrone has a separate ticket",
+        "costo": "Villa Rufolo €8 full price, tickets on site only (2026); Villa Cimbrone has a separate ticket",
         "orari": "Villa Rufolo daily 9am-5pm, last entry 4:30pm (hours from 3 November 2026; longer in season).",
         "lat": 40.64867,
         "lng": 14.61269,
@@ -5416,7 +5416,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "For a swim, Marina di Praia: a small beach at the bottom of a gorge, with boats and few beach clubs."
       },
       {
-        "nome": "Furore e il Fiordo",
+        "nome": "Furore and its fjord",
         "testo": "Furore is a village scattered over a deep ravine: the Fiordo is a cleft in the rock with a small pebble beach under a bridge on the coast road. The village is known for its murals and terraced vineyards on the rock.",
         "come": "SITA bus from Amalfi or Positano to Furore, then a staircase goes down to the Fiordo. By boat from Amalfi with water taxis.",
         "quando": "Calm sea is needed to go down safely; avoid windy days. Late morning for the light on the ravine.",
@@ -5510,13 +5510,13 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Praiano",
         "perChi": "anyone who wants the coast at half the price",
         "testo": "Quieter and cheaper than Positano, with coves reachable on foot. The village is long and steep: wear good shoes. You reach the ferries on foot or by bus.",
-        "fascia": "150-300 €"
+        "fascia": "€150-300"
       },
       {
         "nome": "Positano and Amalfi",
         "perChi": "those who want to be in the middle and can spend",
         "testo": "Convenient for everything, but expensive and very crowded in high season. Staying here also means noise and stairs with luggage.",
-        "fascia": "250-500 €"
+        "fascia": "€250-500"
       },
       {
         "nome": "Ravello",
@@ -5746,7 +5746,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Via Krupp is often closed by rockfalls: check locally before planning to walk down to Marina Piccola."
       },
       {
-        "nome": "Monte Solaro e Scala Fenicia",
+        "nome": "Monte Solaro and the Scala Fenicia",
         "testo": "Capri's highest point, 589 metres, reached from Anacapri by chairlift. From the top you see both gulfs, Naples and Salerno together. Below, the Phoenician Steps, 921 steps over about 1.7 km, are the old route between Marina Grande and Anacapri.",
         "come": "Chairlift from the square in Anacapri. To come down on foot you can take the Scala Fenicia, in comfortable shoes.",
         "quando": "Morning, with clear air. The chairlift stops in strong wind.",
@@ -5798,7 +5798,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "End with sunset at Punta Carena: from the lighthouse the sun drops into the sea with no one in front of you."
       },
       {
-        "nome": "Procida: Marina Corricella e Terra Murata",
+        "nome": "Procida: Marina Corricella and Terra Murata",
         "testo": "Corricella is a tiered fishing village with houses of a thousand colors around the little harbor. Above it, Terra Murata is the high, fortified part of the island, with the abbey of San Michele and a viewpoint. Procida is small and can be covered in half a day.",
         "come": "Ferry or hydrofoil from Naples or Pozzuoli. From the Marina Grande harbour you walk or take the minibus up to Terra Murata.",
         "quando": "All year. Late afternoon and evening are best, with fishermen at work.",
@@ -5814,7 +5814,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "On foot from Ischia Ponte across the bridge. There is a panoramic lift to go up.",
         "quando": "Open all year with changing hours; the best light is late afternoon.",
         "tempo": "2-3 hours",
-        "costo": "€15 full price (official site, 2026)",
+        "costo": "€15 full price (2026)",
         "orari": "Daily from 9am to sunset; the last ticket is sold an hour and a half before closing. Closed for maintenance from early January to early March.",
         "lat": 40.73162,
         "lng": 13.96493,
@@ -5887,13 +5887,13 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Anacapri (Capri)",
         "perChi": "those who want Capri without Piazzetta prices",
         "testo": "Costs less than Capri town, is quieter in the evening and has Monte Solaro. A bus goes down to Marina Grande and Capri; late in the evening connections are sparse.",
-        "fascia": "110-250 €"
+        "fascia": "€110-250"
       },
       {
         "nome": "Forio and Sant'Angelo (Ischia)",
         "perChi": "thermal baths, sunsets and sea",
         "testo": "Forio, on the west coast, has the sunsets and the evening life. Sant'Angelo, in the south, is a pedestrian village with few cars and coves. Sleeping here means being far from the main port.",
-        "fascia": "90-230 €"
+        "fascia": "€90-230"
       },
       {
         "nome": "Marina Corricella (Procida)",
@@ -6111,7 +6111,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Check the current rule with the Comune di Lipari or local guides: don't build the trip around a climb that may be banned."
       },
       {
-        "nome": "Vulcano: Gran Cratere e fanghi",
+        "nome": "Vulcano: Gran Cratere and mud baths",
         "testo": "A crater just under 400 metres high with sulphur fumaroles on the rim, reached on foot from Porto di Levante. Below are the sulphur muds and the sea bubbling with gas near the Faraglioni.",
         "come": "Hydrofoil from Lipari, a short crossing. The trail starts on foot from the harbour. The mud pool is near the harbour, but it has been closed to the public since 2020 pending safety works: check whether it has reopened.",
         "quando": "Early morning for heat and sun. Access to the crater has been regulated or closed several times due to fumarole activity: check beforehand.",
@@ -6121,7 +6121,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "The mud stains and the smell stays on you: old swimsuit and no silver jewelry. Breathe little near the fumaroles."
       },
       {
-        "nome": "Lipari: Castello e Museo Archeologico",
+        "nome": "Lipari: the Castle and Archaeological Museum",
         "testo": "The biggest island has a castle on the rock overlooking the harbor, with the Museo Archeologico Regionale Eoliano inside. It holds finds from the Neolithic to Greece, including the vase collection and theater masks. Outside are the pumice quarries and the white beaches of Canneto.",
         "come": "You land at Marina Corta and walk up to the Castello. For the pumice quarries, bus or scooter toward Canneto and Acquacalda.",
         "quando": "Morning for the museum, afternoon for the sea. The museum has a closing day: check beforehand.",
@@ -6132,7 +6132,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Go up to the Quattrocchi viewpoint, on the south side, at sunset: you see Vulcano against the sun."
       },
       {
-        "nome": "Salina: Pollara e Fossa delle Felci",
+        "nome": "Salina: Pollara and Fossa delle Felci",
         "testo": "The greenest island, with two twin extinct volcanoes. Pollara is the crater that collapsed into the sea, with a viewpoint and a sheer rock stack. Monte Fossa delle Felci, the highest point of the archipelago, can be climbed in a few hours through woods and caper bushes.",
         "come": "Hydrofoil from Lipari to Rinella or Santa Marina. Around the island by bus or scooter. Pollara is on the west side.",
         "quando": "Spring and early summer for the green; sunset at Pollara. Access to Pollara beach is often limited because of rockfall risk: check.",
@@ -6142,7 +6142,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Taste the Malvasia in one of the wineries and buy capers directly from producers."
       },
       {
-        "nome": "Panarea e Capo Milazzese",
+        "nome": "Panarea and Capo Milazzese",
         "testo": "The smallest and most fashionable, with white houses and no cars. The prehistoric village of Capo Milazzese, from the Bronze Age, is on a southern headland, with the stone huts still visible. At sea are the islets, including Lisca Bianca.",
         "come": "Hydrofoil from Lipari or Stromboli. From the harbour walk south to Capo Milazzese; luggage travels on electric carts.",
         "quando": "June and September. In summer the evenings are full of yachts and prices rise.",
@@ -6182,7 +6182,7 @@ export const destinazioniItalia: Destinazione[] = [
         "lng": 14.8677
       },
       {
-        "nome": "Filicudi: Grotta del Bue Marino e Capo Graziano",
+        "nome": "Filicudi: Grotta del Bue Marino and Capo Graziano",
         "testo": "An island with almost no tourism. Capo Graziano has a prehistoric village and a dark rocky coast. The Grotta del Bue Marino is a sea cave reachable by boat, with clear water.",
         "come": "Hydrofoil from Lipari or Salina. On the island you walk; boat taxis tour the caves.",
         "quando": "June and September; rough seas prevent entry to the caves.",
@@ -6256,19 +6256,19 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Lipari",
         "perChi": "anyone wanting the most convenient base",
         "testo": "Connections to all the islands, plenty of lodging and restaurants. It is the busiest in summer, but it is the point from which everything is reachable in a day.",
-        "fascia": "80-180 €"
+        "fascia": "€80-180"
       },
       {
         "nome": "Salina",
         "perChi": "calm and quality",
         "testo": "Greener and quieter, with villages such as Malfa, Santa Marina and Rinella. Less connected, you use a scooter. Dinner with Malvasia is the reason to stay.",
-        "fascia": "120-250 €"
+        "fascia": "€120-250"
       },
       {
         "nome": "Stromboli",
         "perChi": "those who want the volcano",
         "testo": "Low black houses, dark sand beaches, the volcano's noise at night. Small, with few beds and high prices; the climb and the excursions start here.",
-        "fascia": "90-200 €"
+        "fascia": "€90-200"
       },
       {
         "nome": "Panarea",
@@ -6410,7 +6410,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Western Sicily is the one you do the second time, and in many respects it's the strongest. The **Cathedral of Monreale** holds up against any comparison: a building constructed in the twelfth century by Norman kings, with Arab architects and craftsmen and Byzantine mosaicists, where a Christ Pantocrator almost twenty meters high looks down from an apse entirely covered in gold. Around it, six thousand square meters of mosaics tell the Old and New Testament. Outside there's a cloister with two hundred and twenty-eight small columns, and **every capital is different from the others**. There you understand that Sicily held together all the cultures that conquered it, in the same building and at the same moment. The second thing is Palermo, which asks you to adapt: it's chaotic, in some areas run-down, noisy, and those who get irritated go home saying it's dirty. Those who get into the rhythm discover the markets, which in the morning are a theater, with vendors shouting the abbanniata, a kind of sung call, and where you eat standing up and walking for two euros. And then Segesta: a fifth-century Doric temple, never finished, standing alone on a hill in the middle of nowhere, with the wind. There are twenty people.",
     luoghi: [
       {
-        "nome": "Mercati di Palermo: Ballarò, Capo e Vucciria",
+        "nome": "Palermo markets: Ballarò, Capo and Vucciria",
         "testo": "Three historic markets in the center, with Arab origins. In the morning they are theater: fish stalls, spices, vegetables, vendors shouting the abbanniata. You eat standing up, walking, spending a few euros.",
         "come": "On foot from the historic center. Ballarò is near Casa Professa and Porta Nuova; the Capo is behind the Teatro Massimo; the Vucciria lies between via Roma and the port.",
         "quando": "Morning, when all the stalls are up. In the afternoon many stalls pack up. Sunday is quieter.",
@@ -6421,7 +6421,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Eat panelle, arancine and sfincione standing, at the stalls where locals queue, not at places with an English menu."
       },
       {
-        "nome": "Palazzo dei Normanni e Cappella Palatina",
+        "nome": "Palazzo dei Normanni and the Cappella Palatina",
         "testo": "The 12th-century royal chapel: walls of gold mosaics, a wooden muqarnas ceiling of Arab workmanship and marble floors. It is one of the most beautiful churches in Italy and part of the Arab-Norman itinerary, a UNESCO site.",
         "come": "From the centre walk towards Porta Nuova. Tickets online on the Fondazione Federico II website; entry with security checks and short queues if you go early.",
         "quando": "Monday-Saturday 8:30-16:30, Sundays and holidays 8:30-12:30 (last-entry times, Fondazione Federico II website). In the morning, at opening. Hours change with services and regional assembly sittings: check beforehand.",
@@ -6480,7 +6480,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Sleep there one night to see it empty, and bring a sweater even in summer."
       },
       {
-        "nome": "Saline di Trapani e Marsala, Mozia",
+        "nome": "Trapani and Marsala salt pans, Mozia",
         "testo": "The Stagnone lagoon and the salt pans between Trapani and Marsala: flat basins, windmills and mountains of salt. In the middle is Mozia, a Phoenician island with a submerged Punic road and the statue of the Giovinetto, reached by boat.",
         "come": "By car along the Via del Sale. For Mozia, a little boat from the Birgi landing, a few minutes. The salt museum is at Nubia.",
         "quando": "Sunset, when the water turns pink. Mozia: days without strong wind.",
@@ -6807,7 +6807,7 @@ export const destinazioniItalia: Destinazione[] = [
       "These three islands show well how wide the word \"Sicily\" is. Favignana is the simplest and most immediate: you arrive in twenty minutes from Trapani, rent a bike and in a day you've toured all of it, with the water of Cala Rossa a turquoise that doesn't look Italian. What makes it different from the other islands is the tuff: for centuries building stone was quarried here, and the result is a landscape of open-pit quarries, with vertical yellow walls and, inside some, underground gardens planted on the floor. Pantelleria is the exact opposite and the island I found the most interesting: no sand, black rock everywhere, wind that never stops, and a viticulture in which the vines grow inside pits dug into the ground to shelter them, a technique so particular that it was recognized as intangible heritage by UNESCO. The night swim in the Specchio di Venere, with the thermal mud, is one of those things nobody tells you about beforehand. Lampedusa, finally, has the most beautiful sea in Italy, no argument; but it's geologically Africa, barren, far away and expensive, and you go for that and only for that.",
     luoghi: [
       {
-        "nome": "Favignana: cale e Ex Stabilimento Florio",
+        "nome": "Favignana: coves and the Ex Stabilimento Florio",
         "testo": "A butterfly-shaped island, flat and hollowed by tuff quarries. Cala Rossa and Cala Azzurra have transparent water over white rock. In town the former Florio plant, the 19th-century tuna fishery, tells the story of the mattanza, no longer practiced.",
         "come": "Hydrofoil from Trapani. On the island you rent a bicycle: distances are short.",
         "quando": "June and September. Morning for the coves, afternoon for the museum. In August it is crowded.",
@@ -6818,7 +6818,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Bring rubber shoes: almost no cove has sand, you enter from the rock."
       },
       {
-        "nome": "Cave di tufo e giardini ipogei",
+        "nome": "Tuff quarries and underground gardens",
         "testo": "For centuries the island was a quarry: building stone for half of western Sicily came from here. The result is pits with vertical walls, some turned into underground gardens, sheltered from the wind, with citrus and plants.",
         "come": "By bicycle, with signs along the secondary roads. Some quarries are visitable through private operators.",
         "quando": "Morning or late afternoon; in summer the quarries give shade and coolness.",
@@ -6826,7 +6826,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Ask in town which gardens are open: hours and entry change from quarry to quarry."
       },
       {
-        "nome": "Levanzo e Grotta del Genovese",
+        "nome": "Levanzo and Grotta del Genovese",
         "testo": "The smallest of the three main Egadi islands, with a single fishing village. The Grotta del Genovese holds Upper Palaeolithic and Neolithic engravings and paintings.",
         "come": "Hydrofoil from Trapani or Favignana. The cave is reached on foot or by boat and visited with a guide.",
         "quando": "June and September. The visit is by booking and in small groups: plan for the morning.",
@@ -6849,7 +6849,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "The boat tour of the caves is the main experience; agree the price with the boatman."
       },
       {
-        "nome": "Pantelleria: Lago Specchio di Venere e dammusi",
+        "nome": "Pantelleria: Lago Specchio di Venere and the dammusi",
         "testo": "A volcanic island closer to Tunisia than to Sicily. The Lago Specchio di Venere is a lake in a crater, with thermal mud on the shore. Dammusi are lava-stone houses with domed roofs, and the vine is grown as a low bush in pits dug in the ground, a UNESCO-recognized technique.",
         "come": "Flight from Trapani, Palermo or seasonally from the mainland, or an overnight ferry from Trapani. On the island you need a car, booked ahead.",
         "quando": "Spring and September. The lake at sunset, with the mud already warm. The wind is constant.",
@@ -6861,7 +6861,7 @@ export const destinazioniItalia: Destinazione[] = [
         "consiglio": "Don't look for sandy beaches: there are none, you enter the water from the rocks or the thermal pools."
       },
       {
-        "nome": "Pantelleria: Montagna Grande e giardini panteschi",
+        "nome": "Pantelleria: Montagna Grande and the Pantesco gardens",
         "testo": "Montagna Grande is the highest point of the island, with pine woods and trails. Pantesco gardens are circular dry-stone walls protecting a single orange tree from the wind.",
         "come": "By car to the foot of Montagna Grande, then on foot. The gardens can be seen along inner roads and on some farms.",
         "quando": "Morning. Strong wind and cool at altitude even in summer.",

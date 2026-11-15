@@ -16,7 +16,7 @@ export const giappone360Meta: TripMeta = {
     'Tokio se vive solo a ratos (llegada y últimos dos días): con más tiempo merecería 4-5 días completos',
     'El ritmo es muy denso, casi cada día con cambio de ciudad o etapa larga',
   ],
-  budgetTotale: 'unos 600-750€ para toda la estancia sobre el terreno, sin vuelos ni JR Pass',
+  budgetTotale: 'unos 600-750 € para toda la estancia sobre el terreno, sin vuelos ni JR Pass',
   viaggioInBreve: {
     percheHoScelto: undefined,
     conChiSonoPartito: 'JR Pass para los grandes desplazamientos en tren, activado a partir del cuarto día',
@@ -167,7 +167,7 @@ export const giappone360Meta: TripMeta = {
   budget: [
     { etichetta: 'Vuelos', valore: undefined },
     { etichetta: 'JR Pass', valore: undefined },
-    { etichetta: 'Estancia sobre el terreno (comida, entradas, actividades)', valore: '600-750€' },
+    { etichetta: 'Estancia sobre el terreno (comida, entradas, actividades)', valore: '600-750 €' },
     { etichetta: 'Total', valore: undefined },
   ],
 }

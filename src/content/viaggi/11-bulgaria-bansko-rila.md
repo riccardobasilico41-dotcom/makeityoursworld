@@ -15,17 +15,17 @@ Non mi aspettavo grandi cose dallo sci in Bulgaria, ed è esattamente quello che
 - **Quando andare:** la stagione sciistica bulgara va dal 1° dicembre a metà aprile, con innevamento artificiale su gran parte delle piste (copertura dei cannoni oltre il 90%): la neve è garantita anche nei periodi più secchi.
 - **Documenti/visto:** la Bulgaria è nell'UE, nessun visto per i cittadini italiani; basta la carta d'identità valida per l'espatrio o il passaporto.
 - **Moneta:** **euro.** Al tempo di questo viaggio si usava il lev bulgaro (BGN), con
-  cambio fisso 1€ = 1,95583 BGN, ma dal 1° gennaio 2026 la Bulgaria è entrata
+  cambio fisso 1 € = 1,95583 BGN, ma dal 1° gennaio 2026 la Bulgaria è entrata
   nell'eurozona e dal 1° febbraio 2026 l'euro è l'unica valuta legale: i prezzi in lev
   dei racconti di viaggio più vecchi vanno riconvertiti.
 - **Come arrivarci:** si vola su **Sofia**, l'unico aeroporto internazionale comodo per Bansko (circa 160 km, 2-2h30 di auto).
 - **Dall'aeroporto al centro:** dall'aeroporto di **Sofia (SOF)** la metro M4, la linea gialla, parte dal Terminal 2 e arriva a Serdika, in centro, in circa 20 minuti: biglietto circa 0,80 € alle macchinette o con la carta contactless ai tornelli, corse dalle 5:30 a mezzanotte circa; dal Terminal 1 c'è la navetta gratuita per il T2 · taxi solo dal banco ufficiale OK Supertrans agli arrivi, a tassametro, circa 10-15 € per il centro, di più di notte · Uber in Bulgaria non c'è · l'errore tipico è seguire chi offre un taxi dentro il terminal. Per Bansko valgono le alternative qui sotto.
 - **Da Sofia a Bansko, le alternative all'auto a noleggio:** ho preso l'auto direttamente in aeroporto e ho guidato fino a Bansko, ma non è l'unica opzione:
   - **Auto a noleggio** (la mia scelta): la soluzione più flessibile, comoda soprattutto per fare tappa al Monastero di Rila lungo il tragitto. Strada di montagna, in inverno meglio con gomme invernali.
-  - **Shuttle/transfer privato o condiviso**: la soluzione più gettonata da chi va solo per sciare. Compagnie come Traventuria, Bansko Shuttle o Welcome Pickups offrono transfer diretti dall'aeroporto fino in hotel o alla stazione della gondola. Il condiviso costa di massima 15-30€ a persona, il privato 80-90€ per l'intera auto (4 persone), 2h30-3h di viaggio. Va prenotato in anticipo, perché nei weekend di alta stagione i posti condivisi finiscono.
-  - **Bus pubblico**: l'opzione più economica (circa 20-22€), ma prima serve un trasferimento dall'aeroporto alla Stazione Centrale di Sofia, poi il bus vero e proprio (3-5 ore in tutto). Sconsigliato con l'attrezzatura da sci o con poco tempo a disposizione.
+  - **Shuttle/transfer privato o condiviso**: la soluzione più gettonata da chi va solo per sciare. Compagnie come Traventuria, Bansko Shuttle o Welcome Pickups offrono transfer diretti dall'aeroporto fino in hotel o alla stazione della gondola. Il condiviso costa di massima 15-30 € a persona, il privato 80-90 € per l'intera auto (4 persone), 2h30-3h di viaggio. Va prenotato in anticipo, perché nei weekend di alta stagione i posti condivisi finiscono.
+  - **Bus pubblico**: l'opzione più economica (circa 20-22 €), ma prima serve un trasferimento dall'aeroporto alla Stazione Centrale di Sofia, poi il bus vero e proprio (3-5 ore in tutto). Sconsigliato con l'attrezzatura da sci o con poco tempo a disposizione.
   - **Treno + minibus**: da Sofia treno per Blagoevgrad (2-3h) e da lì minibus fino a Bansko. Pittoresco, ma lento.
-- **Budget indicativo:** la Bulgaria resta una delle destinazioni sciistiche più economiche d'Europa: skipass giornaliero intorno ai 35-40€, una birra locale al rifugio circa 1,50-2€, cena in mehana (osteria tipica) 15-20€ a testa.
+- **Budget indicativo:** la Bulgaria resta una delle destinazioni sciistiche più economiche d'Europa: skipass giornaliero intorno ai 35-40 €, una birra locale al rifugio circa 1,50-2 €, cena in mehana (osteria tipica) 15-20 € a testa.
 - **Bagaglio:** abbigliamento tecnico da sci/snowboard, strati termici, protezione solare, un cambio più elegante per le serate a Bansko, abbigliamento coprente (spalle e ginocchia) per la visita al monastero.
 
 ## Itinerario giorno per giorno

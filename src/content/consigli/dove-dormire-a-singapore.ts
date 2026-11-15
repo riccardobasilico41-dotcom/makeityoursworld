@@ -56,7 +56,7 @@ Il conto è il punto debole della città: gli alloggi costano molto più che nel
 
 ## Consigli pratici
 
-- **Prezzi:** una doppia di fascia media in centro costa in genere tra 100 e 180 euro a notte. Sulla baia si superano facilmente i 350.
+- **Prezzi:** una doppia di fascia media in centro costa in genere tra 100 e 180 € a notte. Sulla baia si superano facilmente i 350.
 - **Tasse:** come al ristorante, le tariffe «++» non comprendono il 10% di servizio e la GST: il prezzo finale è circa un quinto più alto.
 - **Camere:** negli hotel economici e nelle shophouse le camere sono piccole e a volte senza finestre. Conviene leggere la descrizione.
 - **Metro:** la vicinanza a una fermata conta più della zona. La carta contactless funziona ai tornelli, senza comprare una carta locale.
@@ -74,7 +74,7 @@ Per un primo viaggio Chinatown o Bugis: centrali, con gli hawker centre sotto ca
 Solo per la vista o per un'occasione speciale. Costa circa il doppio di Chinatown, che è a dieci minuti di metro.
 
 **Quanto costa un hotel a Singapore?**
-Una doppia di fascia media in centro costa tra 100 e 180 euro a notte, più tasse e servizio. Un hotel di lusso sulla baia supera i 350.
+Una doppia di fascia media in centro costa tra 100 e 180 € a notte, più tasse e servizio. Un hotel di lusso sulla baia supera i 350.
 
 **Dove dormire a Singapore spendendo poco?**
 A Little India, oppure in un hotel compatto a Chinatown come Hotel Mono.
@@ -196,7 +196,7 @@ La cuenta es el punto débil de la ciudad: el alojamiento cuesta mucho más que 
 
 ## Consejos prácticos
 
-- **Precios:** una doble de gama media en el centro cuesta normalmente entre 100 y 180 euros la noche. En la bahía se superan fácilmente los 350.
+- **Precios:** una doble de gama media en el centro cuesta normalmente entre 100 y 180 € la noche. En la bahía se superan fácilmente los 350.
 - **Tasas:** como en los restaurantes, las tarifas «++» no incluyen el 10% de servicio ni el GST: el precio final es más o menos un quinto más alto.
 - **Habitaciones:** en hoteles económicos y shophouses son pequeñas y a veces sin ventana. Conviene leer la descripción.
 - **Metro:** estar cerca de una estación importa más que la zona. La tarjeta contactless funciona en los tornos, sin comprar una tarjeta local.
@@ -214,7 +214,7 @@ Para un primer viaje, Chinatown o Bugis: céntricas, con hawker centres al lado 
 Solo por la vista o para una ocasión especial. Cuesta más o menos el doble que Chinatown, que está a diez minutos de metro.
 
 **¿Cuánto cuesta un hotel en Singapur?**
-Una doble de gama media en el centro cuesta entre 100 y 180 euros la noche, más tasas y servicio. Un hotel de lujo en la bahía supera los 350.
+Una doble de gama media en el centro cuesta entre 100 y 180 € la noche, más tasas y servicio. Un hotel de lujo en la bahía supera los 350.
 
 **¿Dónde alojarse en Singapur gastando poco?**
 En Little India, o en un hotel compacto de Chinatown como Hotel Mono.

@@ -16,7 +16,7 @@ export const italia: Paese = {
   stileViaggio: ['montagna', 'sci', 'città d\'arte', 'isole', 'enogastronomia'],
   scheda: {
     documenti:
-      "Documento de identidad para los ciudadanos de la UE, pasaporte para los demás. Ningún trámite. Lo único parecido a una tasa de entrada es la **contribución de acceso de Venecia**, que en 2026 se pagó en 60 jornadas entre abril y julio por quienes entran en la ciudad en el día sin pernoctar: 5 euros con al menos cuatro días de antelación, 10 euros por debajo de ese plazo. Es una prueba piloto que cambia de calendario y condiciones cada año, así que conviene volver a comprobarla antes de salir.",
+      "Documento de identidad para los ciudadanos de la UE, pasaporte para los demás. Ningún trámite. Lo único parecido a una tasa de entrada es la **contribución de acceso de Venecia**, que en 2026 se pagó en 60 jornadas entre abril y julio por quienes entran en la ciudad en el día sin pernoctar: 5 € con al menos cuatro días de antelación, 10 € por debajo de ese plazo. Es una prueba piloto que cambia de calendario y condiciones cada año, así que conviene volver a comprobarla antes de salir.",
     valuta: "Euro. No hay que cambiar nada, pero en muchos refugios alpinos y en varias casas rurales del interior no hay ni cajero ni conexión.",
     pagamenti:
       "Las tarjetas se aceptan en todas partes por ley y el pago sin contacto está muy extendido. Hay dos excepciones, y se encuentran justo en los mejores sitios: los **refugios de altura**, donde a menudo se paga solo en efectivo porque no hay cobertura, y los pequeños productores de vino y las trattorie de pueblo de los Apeninos. En la montaña siempre hace falta llevar efectivo en la mochila.",

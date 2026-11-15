@@ -74,7 +74,7 @@ export const indiaRajasthanVaranasiMeta: TripMeta = {
     { titoloGiorno: 'Day 19 — From Udaipur to Delhi and departure', tratta: 'Udaipur → Delhi, domestic flight about 1h30 → international flight', pernottamento: 'Flight home (optional transit room at Aerocity)', statoPernottamento: 'consigliato', intensita: 'leggero', costiNoti: 'Udaipur-Delhi flight 4,000-8,000 rupees', destinazioneSlug: 'udaipur', immagine: '/images/viaggi/india-rajasthan-varanasi/giorno-17-udaipur.jpg', imageAlt: "The Lake Palace on Lake Pichola seen from the shore among palm trees, under a sky of clouds" },
   ],
   budget: [
-    { etichetta: 'Intercontinental flights', valore: 'Italy-Delhi roughly 450-900 € round trip' },
+    { etichetta: 'Intercontinental flights', valore: 'Italy-Delhi roughly €450-900 round trip' },
     { etichetta: 'Visa and documents', valore: 'e-Tourist Visa $25 (30 days) or $40 (one year), plus a 2.5-3% fee, to be requested at least 4 days ahead; free e-Arrival Card within the 72 hours before' },
     { etichetta: 'Domestic flight', valore: 'Udaipur-Delhi 4,000-8,000 rupees if booked early' },
     { etichetta: 'Overnight trains', valore: 'Delhi-Varanasi and Varanasi-Agra in air-conditioned berths, roughly 1,000-3,000 rupees each depending on class, train and date; on 12Go with a markup' },
@@ -82,6 +82,6 @@ export const indiaRajasthanVaranasiMeta: TripMeta = {
     { etichetta: 'Varanasi', valore: 'dawn boat 800-1,500 rupees for the boat; Sarnath about 300 rupees' },
     { etichetta: 'Ranthambore safaris', valore: 'two safaris recommended, by gypsy (6 seats) or canter (about 20 seats): prices on the Rajasthan Forest Department portal at the time of booking' },
     { etichetta: 'Night in the desert', valore: '3,000-8,000 rupees per person with dinner, breakfast and camel' },
-    { etichetta: 'Monument entrance fees', valore: '10,000-12,000 rupees per person in all, about 100-120 € (2026 foreigner rates, indicative)' },
+    { etichetta: 'Monument entrance fees', valore: '10,000-12,000 rupees per person in all, about €100-120 (2026 foreigner rates, indicative)' },
   ],
 }

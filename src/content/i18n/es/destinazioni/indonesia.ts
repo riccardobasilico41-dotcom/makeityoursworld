@@ -2542,7 +2542,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Con barca privada o traslados organizados por campamentos de surf. Tasa de surf obligatoria. Para quien empieza hay olas de playa con clases y alquiler.",
         quando: "Los swells y la mejor estación dependen del nivel: preguntar a los surf camps antes de fijar fechas.",
         tempo: "al menos 5 días",
-        costo: "Clases y alquiler para principiantes unos 500.000-1.000.000 IDR al día, unos 28-55 € (2026). Tasa de surf aparte, importe a confirmar con el alojamiento.",
+        costo: "Clases y alquiler para principiantes unos 500.000-1.000.000 IDR al día, unos 28-55 € (2026). Tasa de surf aparte: el importe lo indica el alojamiento.",
         consiglio: "Los arrecifes famosos no son para principiantes: elegir los breaks según el nivel."
       },
       {

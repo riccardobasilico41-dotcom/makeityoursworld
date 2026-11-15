@@ -46,7 +46,7 @@ export const destinazioniPanama: Destinazione[] = [
           "come": "Taxi por aplicación o traslado del hotel desde Ciudad de Panamá. Entrada al centro de visitantes.",
           "quando": "Mañana: conviene consultar antes los horarios de tránsito de los barcos, porque sin barco en maniobra se mira una cuenca vacía.",
           "tempo": "2-3 horas",
-          "costo": "17,22 USD para no residentes desde 13 años (tarifa oficial de la ACP vigente en 2026).",
+          "costo": "17,22 USD para no residentes desde 13 años (vigente en 2026).",
           "url": "https://pancanal.com/",
           "consiglio": "Un portacontenedores entrando con pocos centímetros de margen a cada lado vale por sí solo el desvío."
         },

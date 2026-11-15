@@ -80,7 +80,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "Tickets are sold only online on the official website: every Tuesday at 10am the tickets for visits six weeks later are released. None are sold at the door.",
         quando: "Book as soon as your dates are set.",
         tempo: "1-1.5 hours",
-        costo: "€16.50 adults, including a €1 booking fee (official site, 2026)",
+        costo: "€16.50 adults, including a €1 booking fee (2026)",
         orari: "Daily 9am-10pm, except dates listed on the website (2026)",
         lat: 52.37516,
         lng: 4.88408,

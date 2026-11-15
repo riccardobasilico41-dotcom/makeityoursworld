@@ -71,7 +71,7 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "1 ora per serra",
         url: "https://www.gardensbythebay.com.sg/",
         consiglio: "Se se ne sceglie una sola, la Cloud Forest: è la più sorprendente della zona.",
-        costo: "biglietto per le due serre 46 SGD per i non residenti, circa 30 € (sito ufficiale, 2026)",
+        costo: "biglietto per le due serre 46 SGD per i non residenti, circa 30 € (2026)",
         orari: "tutti i giorni 9-21; ogni serra chiude a turno qualche giorno per manutenzione, date sul sito ufficiale",
         lat: 1.28396,
         lng: 103.8658
@@ -142,7 +142,7 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT fino a City Hall, poi cinque minuti a piedi attraverso il Padang. Si visita da soli; ci sono visite guidate gratuite in inglese.",
         quando: "Nelle ore calde, tra le 12 e le 16.",
         tempo: "2-3 ore",
-        costo: "ingresso generale 20 SGD per i non residenti, circa 13 € (sito ufficiale, 2026)",
+        costo: "ingresso generale 20 SGD per i non residenti, circa 13 € (2026)",
         orari: "tutti i giorni 10-19, ultimo ingresso 18:30",
         url: "https://www.nationalgallery.sg/",
         consiglio: "La galleria del Sud-est asiatico è chiusa per lavori fino alla fine del 2027: chi viene soprattutto per quella controlli prima cosa è esposto.",

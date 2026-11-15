@@ -18,7 +18,7 @@ export const estonia: Paese = {
   durataConsigliata:
     '3 giorni per Tallinn, la Città Vecchia, Toompea, Kadriorg e Telliskivi, come tappa finale di un itinerario più ampio da Vilnius e Riga.',
   budgetIndicativo:
-    'un po\' più caro di Vilnius e Riga, ma ancora contenuto per gli standard nordici: pasto normale 10-18€, ingresso alle quattro torri delle mura cittadine 12€, ingresso al museo Kumu di Kadriorg 12-16€ secondo la mostra.',
+    'un po\' più caro di Vilnius e Riga, ma ancora contenuto per gli standard nordici: pasto normale 10-18 €, ingresso alle quattro torri delle mura cittadine 12 €, ingresso al museo Kumu di Kadriorg 12-16 € secondo la mostra.',
   stileViaggio: ['città', 'storia', 'architettura', 'innovazione'],
   scheda: {
     documenti:
@@ -33,7 +33,7 @@ export const estonia: Paese = {
     trasportiInterni:
       'Il centro storico si gira tutto a piedi. Tram e bus della rete Tallinna Linnatransport (gratuiti per i residenti registrati, a pagamento per i visitatori, con biglietti economici) collegano Kadriorg e Telliskivi al centro in pochi minuti. L\'auto a noleggio non serve.',
     costoVita:
-      'È il più caro dei tre Baltici, ma resta ben sotto le capitali nordiche trattate altrove su questo sito (Oslo, Stoccolma, Reykjavík): pasto in un locale informale 10-15€, cena normale 15-20€ a testa.',
+      'È il più caro dei tre Baltici, ma resta ben sotto le capitali nordiche trattate altrove su questo sito (Oslo, Stoccolma, Reykjavík): pasto in un locale informale 10-15 €, cena normale 15-20 € a testa.',
     lingua:
       'Estone, lingua ugrofinnica. È imparentata con il finlandese (i due popoli, vicini da sempre, si capiscono solo in parte) e non ha nulla a che vedere con il lituano e il lettone, che appartengono alla famiglia linguistica baltica. Fra le tre capitali di questo itinerario è la differenza linguistica più netta. Alfabeto latino con lettere proprie (õ, ä, ö, ü). L\'inglese è molto diffuso a Tallinn, specie tra i giovani, anche grazie alla forte scena tech del paese.',
     elettricita: '230V, 50Hz, prese di tipo C ed F: le spine italiane a due poli entrano senza problemi.',

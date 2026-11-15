@@ -67,7 +67,7 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "1 hora por invernadero",
         url: "https://www.gardensbythebay.com.sg/",
         consiglio: "Si se elige uno solo, el Cloud Forest: es lo más sorprendente de la zona.",
-        costo: "entrada para los dos invernaderos 46 SGD para no residentes, unos 30 € (web oficial, 2026)",
+        costo: "entrada para los dos invernaderos 46 SGD para no residentes, unos 30 € (2026)",
         orari: "todos los días 9-21; cada invernadero cierra por turnos algunos días por mantenimiento, fechas en la web oficial",
         lat: 1.28396,
         lng: 103.8658
@@ -138,7 +138,7 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT hasta City Hall y cinco minutos a pie cruzando el Padang. Se visita por libre; hay visitas guiadas gratuitas en inglés.",
         quando: "En las horas de calor, entre las 12 y las 16.",
         tempo: "2-3 horas",
-        costo: "entrada general 20 SGD para no residentes, unos 13 € (web oficial, 2026)",
+        costo: "entrada general 20 SGD para no residentes, unos 13 € (2026)",
         orari: "todos los días 10-19, última entrada 18:30",
         url: "https://www.nationalgallery.sg/",
         consiglio: "La galería del Sudeste Asiático está cerrada por obras hasta finales de 2027: quien vaya sobre todo por ella, que compruebe antes qué se expone.",

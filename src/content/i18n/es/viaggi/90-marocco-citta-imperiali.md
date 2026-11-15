@@ -17,7 +17,7 @@ Se llega a **Tánger** y se vuelve desde **Casablanca**. El motivo es la geograf
 
 ## Scheda pratica
 - **Cuándo ir:** primavera y otoño. En verano Fez y Mequinez son muy calurosas. Durante el Ramadán cambian los horarios de tiendas y restaurantes, y de día comer, beber o fumar en público puede ofender.
-- **Documentos:** para los ciudadanos italianos, pasaporte válido al menos para toda la estancia, sin visado para turismo hasta 3 meses. En el aeropuerto pueden pedir el billete de vuelta y prueba de medios suficientes (Viaggiare Sicuri, actualizada en abril de 2026).
+- **Documentos:** para los ciudadanos italianos, pasaporte válido al menos para toda la estancia, sin visado para turismo hasta 3 meses. En el aeropuerto pueden pedir el billete de vuelta y prueba de medios suficientes.
 - **Moneda y pagos:** dírham marroquí (MAD). Está prohibido sacar dírhams de Marruecos, y al final del viaje solo se pueden volver a cambiar los que se compraron, con los recibos: hay que guardarlos. Las tarjetas funcionan en los hoteles y en muchos restaurantes de las ciudades, pero en las medinas, en los puestos de comida y para los taxis hace falta efectivo.
 - **Desplazamientos:** todo por carretera, solo de día: Viaggiare Sicuri recomienda evitar las horas nocturnas fuera de las ciudades. Se va con coche y conductor o de alquiler. Las distancias y los tiempos de conducción de cada día están calculados sobre el recorrido por carretera (OSRM, sin paradas ni tráfico): en la realidad hace falta más tiempo.
 - **Autobuses:** entre Tánger, Chefchaouen y Fez también hay autobuses CTM, útiles para los dos primeros tramos. Servicios, horarios y billetes hay que comprobarlos en ctm.ma.

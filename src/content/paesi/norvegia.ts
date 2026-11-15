@@ -24,7 +24,7 @@ export const norvegia: Paese = {
     trasportiInterni:
       'Volo interno da Oslo verso il nord (Bodø, Tromsø) per coprire le distanze, poi auto a noleggio e traghetti locali. Una regola pratica che funziona: presentarsi ai traghetti con 30-40 minuti di anticipo anche avendo il posto prenotato.',
     costoVita:
-      'Tra i paesi più cari al mondo: per una settimana si possono spendere 500-600€ a testa di soli pasti, senza contare voli, noleggio auto, traghetti e alloggi. Cucinare in appartamento o in rorbu fa scendere molto il conto.',
+      'Tra i paesi più cari al mondo: per una settimana si possono spendere 500-600 € a testa di soli pasti, senza contare voli, noleggio auto, traghetti e alloggi. Cucinare in appartamento o in rorbu fa scendere molto il conto.',
     lingua: 'Norvegese; l\'inglese è parlato da tutti, con ottima padronanza.',
     elettricita: '230V, 50Hz, prese di tipo C e F: identiche a quelle italiane.',
     fusoOrario: 'Stessa ora dell\'Italia tutto l\'anno.',

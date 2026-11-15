@@ -81,7 +81,7 @@ export const esperienzeBorneo: Esperienza[] = [
     durata: '2-3 notti in lodge, con 4-6 uscite in tutto',
     periodo:
       'da marzo a ottobre. Nella stagione delle piogge il fiume si alza, la foresta si allaga e gli animali si spargono all\'interno invece di concentrarsi sulle rive: le probabilità calano parecchio.',
-    costo: 'pacchetti da circa 100€ a notte a persona, con pensione completa, uscite in barca e trasferimenti da Sandakan compresi',
+    costo: 'pacchetti da circa 100 € a notte a persona, con pensione completa, uscite in barca e trasferimenti da Sandakan compresi',
     comePrenotare:
       'Direttamente con i lodge di Sukau o Bilit, a pacchetto: organizzare i pezzi a parte non ha senso, perché lungo il fiume non ci sono servizi indipendenti. In alta stagione conviene muoversi qualche mese prima.',
     cosaPortare:

@@ -80,7 +80,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "Las entradas se venden solo en línea en la web oficial: cada martes a las 10 salen las de las visitas seis semanas después. En la puerta no se venden.",
         quando: "Reservar en cuanto se decidan las fechas.",
         tempo: "1-1,5 horas",
-        costo: "16,50 € adultos, con 1 € de gastos de gestión (web oficial, 2026)",
+        costo: "16,50 € adultos, con 1 € de gastos de gestión (2026)",
         orari: "Todos los días 9-22, salvo las excepciones indicadas en la web (2026)",
         lat: 52.37516,
         lng: 4.88408,

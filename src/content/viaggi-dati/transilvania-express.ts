@@ -22,7 +22,6 @@ export const transilvaniaExpressMeta: TripMeta = {
   criticita: [
     'Il ritmo è molto denso per soli 5 giorni, con giornate di guida fino a 5 ore',
     'La Romania ha il tasso di mortalità stradale più alto dell\'Unione Europea: le strade di montagna richiedono prudenza extra',
-    'Non è confermato se alcune tappe facoltative (Bear Sanctuary, Viscri) siano state effettivamente fatte, né se il Giorno 4 sia stato completato con la Transfăgărășan aperta o in funivia',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {
@@ -68,7 +67,7 @@ export const transilvaniaExpressMeta: TripMeta = {
       pernottamento: 'MyContinental Sibiu',
       statoPernottamento: 'provato',
       intensita: 'intenso',
-      costiNoti: 'Viscri 12 LEI/pax; Salina Turda 10-12€; guida 100 LEI',
+      costiNoti: 'Viscri 12 LEI/pax; Salina Turda 10-12 €; guida 100 LEI',
       destinazioneSlug: 'sighisoara-salina-turda',
       immagine: '/images/viaggi/transilvania-express/giorno-3-salina-turda.jpg',
       imageAlt: 'Il lago sotterraneo di Salina Turda, con le passerelle in legno e le barchette a remi tra le pareti di sale scavate',
@@ -89,7 +88,7 @@ export const transilvaniaExpressMeta: TripMeta = {
       pernottamento: 'nessun pernottamento (giorno di partenza)',
       statoPernottamento: 'provato',
       intensita: 'leggero',
-      costiNoti: 'Terme di Bucarest 35€',
+      costiNoti: 'Terme di Bucarest 35 €',
       destinazioneSlug: 'bucarest',
       immagine: '/images/viaggi/transilvania-express/giorno-5-therme-bucuresti.jpg',
       imageAlt: 'La facciata in vetro e acciaio a vela del complesso Therme București, ultima tappa prima del rientro',
@@ -97,9 +96,9 @@ export const transilvaniaExpressMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli', valore: undefined },
-    { etichetta: 'Cassa comune', valore: '80-90€ a persona' },
-    { etichetta: 'Spesa media personale', valore: '120-150€' },
-    { etichetta: 'Terme di Bucarest (facoltative)', valore: '35€' },
+    { etichetta: 'Cassa comune', valore: '80-90 € a persona' },
+    { etichetta: 'Spesa media personale', valore: '120-150 €' },
+    { etichetta: 'Terme di Bucarest (facoltative)', valore: '35 €' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

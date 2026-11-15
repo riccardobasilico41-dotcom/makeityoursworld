@@ -23,7 +23,7 @@ export const costieraEIsoleMeta: TripMeta = {
   criticita: [
     "La carretera estatal amalfitana en verano es un atasco continuo: quien llega en coche en agosto pasa las vacaciones en la cola",
     "Con mar picada se suspenden las salidas de los ferris: siempre hace falta un plan B por tierra",
-    "Capri, Isquia y Prócida tienen limitaciones estacionales al desembarco de vehículos, que hay que comprobar cada año",
+    "Capri, Isquia y Prócida tienen limitaciones estacionales al desembarco de vehículos, que cambian cada año",
     "El acceso a la Gruta Azul depende cada día de la marea y del estado del mar",
     "Los estados de acceso de Via Krupp, el Valle de las Ferriere, Vivara y la Gruta de la Esmeralda cambian",
     "Esto no son unas vacaciones de mar en calma: se miden en escalones, no en kilómetros",

@@ -30,7 +30,7 @@ Es adecuado para quien viaja por primera vez a Egipto, para parejas y para famil
 
 ### Documentos, moneda y pagos
 - **Documentos:** pasaporte con al menos 6 meses de validez restante a la llegada, o bien, solo para turismo, documento de identidad electrónico válido para la expatriación con más de 6 meses restantes y dos fotos de carné (sin foto el visado no se concede). El documento prorrogado con el resguardo en papel no se acepta. El pasaporte evita discusiones en el check-in.
-- **Visado:** 30 $ a la llegada a El Cairo (subido desde el 1 de marzo de 2026, Viaggiare Sicuri todavía indica 25 $), en la ventanilla antes de los controles, o bien e-visa en el portal oficial visa2egypt.gov.eg. Cuidado con los sitios que imitan el oficial y piden el doble.
+- **Visado:** 30 $ a la llegada a El Cairo (subido desde el 1 de marzo de 2026), en la ventanilla antes de los controles, o bien e-visa en el portal oficial visa2egypt.gov.eg. Cuidado con los sitios que imitan el oficial y piden el doble.
 - **Moneda:** libra egipcia (EGP), aproximadamente 58-62 EGP por euro en octubre de 2026. Muchos precios turísticos están en dólares.
 - **Pagos:** tarjeta en los resorts, en los hoteles y en las taquillas de los yacimientos estatales, que solo aceptan tarjeta; las entradas se compran también online en egymonuments.com. Efectivo en billetes pequeños para taxis, propinas, baños, agua y mercados.
 - **Propinas (baksheesh):** forman parte del sistema. Aproximadamente 10-20 EGP para baños y pequeños servicios, 50-100 EGP al día para el conductor, 100-200 EGP al día para un guía, por persona. Se dan por un servicio real, no a cualquiera que tienda la mano.

@@ -17,7 +17,7 @@ export const singapore: Paese = {
   durataConsigliata:
     '2-3 giorni come tappa a sé, oppure 4-5 giorni usandola come base. Funziona bene anche come scalo lungo di 24 ore tra due voli, ed è uno dei pochi aeroporti al mondo dove uno scalo è una buona notizia.',
   budgetIndicativo:
-    'la città più cara del sud-est asiatico sugli alloggi (100-180€ a notte per una camera decente) e sull\'alcol, molto tassato. I trasporti invece costano pochi centesimi e un pasto completo in un centro hawker sta tra i 3 e i 6 euro: si può stare a Singapore spendendo poco su tutto tranne il letto.',
+    'la città più cara del sud-est asiatico sugli alloggi (100-180 € a notte per una camera decente) e sull\'alcol, molto tassato. I trasporti invece costano pochi centesimi e un pasto completo in un centro hawker sta tra i 3 e i 6 €: si può stare a Singapore spendendo poco su tutto tranne il letto.',
   stileViaggio: ['città', 'gastronomia', 'architettura', 'scalo lungo'],
   scheda: {
     documenti:
@@ -33,7 +33,7 @@ export const singapore: Paese = {
     trasportiInterni:
       'La MRT, la metropolitana, è tra le migliori del mondo: pulita, capillare, climatizzata, con annunci in inglese e con i tornelli che accettano direttamente le carte contactless estere. Copre anche l\'aeroporto. Gli autobus completano il resto, i taxi e Grab costano poco per gli standard della città. Tutto è pensato per camminare il meno possibile sotto il sole: i quartieri centrali sono collegati da passaggi sotterranei climatizzati.',
     costoVita:
-      'Doppia. Gli alloggi e l\'alcol hanno prezzi da Europa del nord (una birra in un bar costa facilmente 12-15 euro), mentre i trasporti costano pochi centesimi e i centri hawker servono piatti completi per 3-6 euro. Chi dorme in ostello o in hotel-capsula e mangia hawker sta a Singapore con una spesa giornaliera da sud-est asiatico.',
+      'Doppia. Gli alloggi e l\'alcol hanno prezzi da Europa del nord (una birra in un bar costa facilmente 12-15 €), mentre i trasporti costano pochi centesimi e i centri hawker servono piatti completi per 3-6 €. Chi dorme in ostello o in hotel-capsula e mangia hawker sta a Singapore con una spesa giornaliera da sud-est asiatico.',
     lingua:
       'Quattro lingue ufficiali: inglese, mandarino, malese e tamil. L\'inglese è la lingua franca e la si parla ovunque con una cadenza tutta locale, il singlish, che mescola le altre tre e usa particelle finali come "lah". Nessuna barriera linguistica.',
     elettricita: '230V, 50Hz, prese di tipo G, britanniche a tre poli rettangolari: stesso adattatore della Malesia.',

@@ -16,7 +16,7 @@ export const italia: Paese = {
   stileViaggio: ['montagna', 'sci', 'città d\'arte', 'isole', 'enogastronomia'],
   scheda: {
     documenti:
-      "ID card for EU citizens, passport for everyone else. No formalities. The only thing resembling an entry fee is the **Venice access fee**, which in 2026 was charged on 60 days between April and July to people entering the city for the day without staying overnight: 5 euros if booked at least four days ahead, 10 euros under that threshold. It's an experiment that changes its calendar and conditions every year, so check it again before leaving.",
+      "ID card for EU citizens, passport for everyone else. No formalities. The only thing resembling an entry fee is the **Venice access fee**, which in 2026 was charged on 60 days between April and July to people entering the city for the day without staying overnight: €5 if booked at least four days ahead, €10 under that threshold. It's an experiment that changes its calendar and conditions every year, so check it again before leaving.",
     valuta: "Euro. No exchange needed, but in many Alpine huts and several farm stays in the interior there's neither an ATM nor a connection.",
     pagamenti:
       "Cards are accepted everywhere by law and contactless is very common. There are two exceptions, and you run into them in the best places: **mountain huts**, where you often pay cash only because there's no signal, and small wine producers and village trattorias in the Apennines. In the mountains you always need cash in your pack.",

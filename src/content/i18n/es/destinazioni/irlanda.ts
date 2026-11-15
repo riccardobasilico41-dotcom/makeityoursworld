@@ -200,7 +200,7 @@ export const destinazioniIrlanda: Destinazione[] = [
         come: "En Dame Street, a cinco minutos de Temple Bar.",
         quando: "Desde 2027: el castillo está cerrado del 5 de mayo al 31 de diciembre de 2026 por la presidencia irlandesa de la UE y reabre en enero de 2027; la Chester Beatty está cerrada del 15 de junio a finales de diciembre de 2026.",
         tempo: "1-2 horas",
-        costo: "Chester Beatty gratis, donativo sugerido 10 €; precios del castillo por confirmar en la reapertura",
+        costo: "Chester Beatty gratis, donativo sugerido 10 €; los precios del castillo se anunciarán con la reapertura",
         orari: "cerrados hasta finales de 2026",
         lat: 53.34266,
         lng: -6.267,

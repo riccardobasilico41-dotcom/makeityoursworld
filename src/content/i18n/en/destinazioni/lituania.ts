@@ -391,10 +391,10 @@ export const destinazioniLituania: Destinazione[] = [
     doveDormire: "On this itinerary Trakai is visited in half a day from Vilnius, without staying overnight.",
     doveMangiare:
       "Karaim kibinai, the town's dish, can be found at several historic places near the castle. For a full meal there are the lakeside restaurants, with a view of the castle and Lithuanian and Karaim cooking.",
-    comeArrivare: "LTG Link regional trains to Trakai leave from Vilnius central station: about 35 minutes and about 1.90 € in second class, with a price that varies with demand. Alternatively there is the scheduled bus from the bus station next door, with similar times. Station and stop are a few kilometres from the castle, a walk along the lake. By car it is about 28 km from Vilnius.",
+    comeArrivare: "LTG Link regional trains to Trakai leave from Vilnius central station: about 35 minutes and about €1.90 in second class, with a price that varies with demand. Alternatively there is the scheduled bus from the bus station next door, with similar times. Station and stop are a few kilometres from the castle, a walk along the lake. By car it is about 28 km from Vilnius.",
     comeSpostarsi: "From the station or bus stop to the center of Trakai and the castle there's a relaxed walk along the lake; alternatively there's a short local bus ride.",
     periodoMigliore: "May to September, when the lake shows its colors and you can rent a boat. The castle is open all year and has a different charm under the snow.",
-    costi: "Daily budget per person sharing a double room: 40-60 € on a tight budget (guesthouse, kibinai, only the Island Castle), 80-120 € mid-range (lakeside hotel, combined castle ticket, dinner at a restaurant), over 150 € with a spa hotel. 2026 prices: train from Vilnius about 1.90 € each way, Island Castle 14 € from April to September and 12 € from October to March, combined with the Peninsula Castle 17 € (April-September only), Karaim museum 9 €.",
+    costi: "Daily budget per person sharing a double room: €40-60 on a tight budget (guesthouse, kibinai, only the Island Castle), €80-120 mid-range (lakeside hotel, combined castle ticket, dinner at a restaurant), over €150 with a spa hotel. 2026 prices: train from Vilnius about €1.90 each way, Island Castle €14 from April to September and €12 from October to March, combined with the Peninsula Castle €17 (April-September only), Karaim museum €9.",
     erroriDaEvitare: [
       "Leaving without checking opening hours: the castle's opening days and hours change with the season",
       "Stopping at the footbridge without going into the museum: the inside rooms, including those on the history of the Grand Duchy, are worth the ticket",
@@ -409,7 +409,7 @@ export const destinazioniLituania: Destinazione[] = [
         come: "From the town, pedestrian wooden bridge from the shore.",
         quando: "Weekday morning; from October to March there are fewer crowds.",
         tempo: "2-3 hours",
-        costo: "14 € April-September, 12 € October-March; reduced 7/6 €; combined with the Peninsula Castle 17 € (April-September, 2026)",
+        costo: "€14 April-September, €12 October-March; reduced 7/6 €; combined with the Peninsula Castle €17 (April-September, 2026)",
         orari: "April-September daily 10-19; March, October and November 10-18, closed Mondays; December-February 10-18, closed Mondays and Tuesdays. Last entry 30 minutes before closing",
         lat: 54.6525,
         lng: 24.93306,
@@ -443,12 +443,12 @@ export const destinazioniLituania: Destinazione[] = [
         come: "On foot from the centre, at the start of Kęstučio gatvė.",
         quando: "Before or after the Island Castle, while the crowds are on the island.",
         tempo: "45 minutes-1 hour",
-        costo: "10 € April-September, 8 € October-March; reduced 6/5 € (2026)",
+        costo: "€10 April-September, €8 October-March; reduced 6/5 € (2026)",
         orari: "April-September daily 10-18; October-March Tuesday-Saturday 10-18, closed Sundays and Mondays",
         lat: 54.646,
         lng: 24.937,
         url: "https://trakaimuziejus.lt",
-        consiglio: "From April to September the combined ticket with the Island Castle costs 17 € and is worth it."
+        consiglio: "From April to September the combined ticket with the Island Castle costs €17 and is worth it."
       },
       {
         nome: "S. Šapšal Karaim National Museum",
@@ -456,7 +456,7 @@ export const destinazioniLituania: Destinazione[] = [
         come: "On foot along Karaimų gatvė, at number 22.",
         quando: "Together with lunch in the Karaite quarter.",
         tempo: "45 minutes",
-        costo: "9 € April-September, 7 € October-March; reduced 5/4 € (2026)",
+        costo: "€9 April-September, €7 October-March; reduced 5/4 € (2026)",
         orari: "Wednesday-Sunday 10-18, closed Mondays and Tuesdays",
         lat: 54.64717,
         lng: 24.93307,
@@ -527,19 +527,19 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Old town and Karaimų gatvė",
         perChi: "Those who want the castle a few steps away",
         testo: "Guesthouses and small hotels in the wooden houses, near the restaurants; quiet in the evening.",
-        fascia: "60-110 €"
+        fascia: "€60-110"
       },
       {
         nome: "Lakeshores",
         perChi: "Those looking for a spa and a view of the water",
         testo: "Spa hotels and resorts on lakes Galvė and Totoriškės, a little outside the centre.",
-        fascia: "90-160 €"
+        fascia: "€90-160"
       },
       {
         nome: "Vilnius as a base",
         perChi: "Those doing Trakai as a day trip",
         testo: "More choice and lower prices; by train Trakai is 35 minutes away.",
-        fascia: "50-140 €"
+        fascia: "€50-140"
       }
     ],
     faq: [
@@ -549,11 +549,11 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         domanda: "How do you get from Vilnius to Trakai?",
-        risposta: "By regional train from the central station, about 35 minutes and about 1.90 € each way, or by bus from the bus station next door. From Trakai station to the castle you walk along the lake."
+        risposta: "By regional train from the central station, about 35 minutes and about €1.90 each way, or by bus from the bus station next door. From Trakai station to the castle you walk along the lake."
       },
       {
         domanda: "How much does the castle cost?",
-        risposta: "In 2026 the Island Castle costs 14 € from April to September and 12 € from October to March. From April to September there is a combined ticket with the Peninsula Castle for 17 €."
+        risposta: "In 2026 the Island Castle costs €14 from April to September and €12 from October to March. From April to September there is a combined ticket with the Peninsula Castle for €17."
       },
       {
         domanda: "Is the castle open all year?",

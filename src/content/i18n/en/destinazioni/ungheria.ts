@@ -43,7 +43,7 @@ export const destinazioniUngheria: Destinazione[] = [
     costi: "Daily budget per person, excluding flights: low €50-70 (hostel or room in District VII, lángos and canteens, public transport); mid €100-150 (three-star hotel in a double, two restaurant meals, the baths and a couple of entry tickets); high €220 and up (hotel on the Danube, modern Hungarian restaurants, evening cruise). The priciest item in a typical day is usually the baths.",
     erroriDaEvitare: [
       'Following people who approach you on the street suggesting "a fantastic place" in the Jewish Quarter or around the tourist squares: it is the classic scheme that leads to wildly inflated bills',
-      'Mixing up the zeros of the forint: a bill of "8,000" is not 8 euros, and it is easy to get it wrong in the first few days',
+      'Mixing up the zeros of the forint: a bill of "8,000" is not €8, and it is easy to get it wrong in the first few days',
       "Underestimating the baths as a relaxing one-hour break: between entry, changing room and locker queues, it is worth setting aside at least half a day",
       'Planning the weekend without booking the Parliament tour in advance, which has limited entries and often sells out days ahead in high season',
     ],

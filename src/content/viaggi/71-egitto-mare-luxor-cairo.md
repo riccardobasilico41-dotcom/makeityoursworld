@@ -30,7 +30,7 @@ La scelta del mare è la domanda che arriva per prima, ed è spiegata per esteso
 
 ### Documenti, valuta e pagamenti
 - **Documenti:** passaporto con almeno 6 mesi di validità residua all'arrivo, oppure, solo per turismo, carta d'identità elettronica valida per l'espatrio con più di 6 mesi residui e due fototessere (senza foto il visto non viene rilasciato). La carta prorogata con il cedolino cartaceo non è accettata. Il passaporto evita discussioni al check-in.
-- **Visto:** 30 $ all'arrivo al Cairo (aumentato dal 1° marzo 2026, Viaggiare Sicuri riporta ancora 25 $), allo sportello prima dei controlli, oppure e-visa sul portale ufficiale visa2egypt.gov.eg. Attenzione ai siti che imitano quello ufficiale e chiedono il doppio.
+- **Visto:** 30 $ all'arrivo al Cairo (aumentato dal 1° marzo 2026), allo sportello prima dei controlli, oppure e-visa sul portale ufficiale visa2egypt.gov.eg. Attenzione ai siti che imitano quello ufficiale e chiedono il doppio.
 - **Valuta:** lira egiziana (EGP), indicativamente 58-62 EGP per un euro a ottobre 2026. Tanti prezzi turistici sono in dollari.
 - **Pagamenti:** carta nei resort, negli hotel e nelle biglietterie dei siti statali, che accettano solo carte; i biglietti si comprano anche online su egymonuments.com. Contanti in tagli piccoli per taxi, mance, bagni, acqua e mercati.
 - **Mance (baksheesh):** fanno parte del sistema. Indicativamente 10-20 EGP per bagni e piccoli servizi, 50-100 EGP al giorno per l'autista, 100-200 EGP al giorno per una guida, a persona. Vanno date per un servizio reale, non a chiunque tenda la mano.
@@ -222,6 +222,8 @@ Il consiglio che darei è fare i siti all'apertura, anche d'inverno: a mezzogior
 
 ## Nota su questa bozza
 Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficiale dei siti archeologici egiziani, comunicati del Grand Egyptian Museum sui prezzi dal 1° novembre 2026, siti di vettori e guide recenti. **Non contiene esperienze dirette.** I prezzi dei biglietti in Egitto sono cambiati più volte dal 2024: tutte le cifre sono indicative e vanno ricontrollate prima della partenza, così come gli orari dei voli interni e le stagioni dei charter sul Mar Rosso.
+
+Visto: Viaggiare Sicuri riporta ancora 25 $, il nuovo importo è 30 $ dal 1/3/2026 (nota tolta dal testo).
 
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione:**

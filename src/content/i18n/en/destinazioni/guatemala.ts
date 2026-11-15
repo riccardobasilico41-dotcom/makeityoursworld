@@ -61,7 +61,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "Fuego is active: before going check the CONRED and INSIVUMEH bulletins and always follow the guide."
       ],
     comeArrivare: "Fly into Guatemala City (GUA), then about 1 hour by shuttle or private taxi to Antigua. From La Aurora airport it takes 1-1.5 hours depending on traffic: the shared shuttle costs about 18-20 USD per person and must be booked, a private transfer about 65-85 USD per vehicle; Uber works from the airport. Avoid unregistered taxis and the road at night. Tourist shuttles to Lake Atitlán (about 3 hours) and Chichicastenango can be booked at any agency in the centre.",
-    costi: "among the most expensive cities in Guatemala, but cheap by European standards; the Acatenango trek starts at about 60€ with gear included. Roughly 1 € = 8-9 GTQ. Budget per person per day: low 30-45 € (hostel, menú del día at the market, shared shuttles); mid 70-110 € (hotel in a colonial house, restaurants, a ruin or a chocolate workshop); high from 180 € (hotel in a restored convent, private transfers). The Acatenango park entrance is paid in cash at the starting point (from the trip).",
+    costi: "among the most expensive cities in Guatemala, but cheap by European standards; the Acatenango trek starts at about €60 with gear included. Roughly €1 = 8-9 GTQ. Budget per person per day: low €30-45 (hostel, menú del día at the market, shared shuttles); mid €70-110 (hotel in a colonial house, restaurants, a ruin or a chocolate workshop); high from €180 (hotel in a restored convent, private transfers). The Acatenango park entrance is paid in cash at the starting point.",
     luoghi: [
       {
         "nome": "Arco de Santa Catalina",
@@ -175,7 +175,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Two-day tour from Antigua with a guide, tent and meals. You climb for several hours through cornfields, pine forest and volcanic sand.",
         "quando": "Dry season (November-April); the next morning you come down on the sand. The trail can close due to Fuego's activity or bad weather (in 2026 it reopened in August after a closure): check beforehand.",
         "tempo": "2 days, 1 night",
-        "costo": "From about 60 € with gear included; the park entrance is paid in cash at the starting point (from the trip).",
+        "costo": "From about €60 with gear included; the park entrance is paid in cash at the starting point.",
         "lat": 14.50083,
         "lng": -90.87583,
         "consiglio": "At night it is cold at camp, often close to freezing: gloves, hat, warm layers and a waterproof. The descent is more sliding than walking. For the Acatenango volcano I recommend OX Expeditions, in Antigua: they're excellent and I had a really good experience with them."
@@ -220,7 +220,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "nome": "Historic centre",
         "perChi": "those who want everything on foot",
         "testo": "Cobbled streets, everything close, but noise at weekends and higher prices. From hostels with rooftop terraces to colonial houses turned boutique hotels.",
-        "fascia": "40-180 €"
+        "fascia": "€40-180"
       },
       {
         "nome": "Edges of the historic centre",
@@ -231,7 +231,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "nome": "Convents and luxury colonial houses",
         "perChi": "high end",
         "testo": "Hotels set in former convents and large houses with patios, gardens and pools, in the historic centre.",
-        "fascia": "from 200 €"
+        "fascia": "from €200"
       }
     ],
     gite: [
@@ -347,7 +347,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "The UK Foreign Office reports robberies on the country's tourist routes, including the lake area: move by day, in a group or with serious operators. In San Pedro la Laguna carry your passport or a certified copy."
       ],
     comeArrivare: "Tourist shuttle from Antigua (about 3 hours) or from Guatemala City; alternatively a chicken bus with a change at Los Encuentros. Many shuttles from Antigua go via Chichicastenango on Thursdays and Sundays, the market days, and carry on to Panajachel the same day: about three hours to Chichi, then an hour and a half to the lake. Shuttles arrive in Panajachel; from there you take a lancha to San Pedro, San Marcos or Santa Cruz. To Lanquín and Semuc Champey it takes 7-9 hours by shuttle, with the last stretch unpaved.",
-    costi: "lanchas 10-25 GTQ per trip depending on distance; accommodation among the cheapest in the country. At the Indian Nose you pay a small community fee; at Maximón's house in Santiago you leave an offering of a few quetzales (from the trip). Indicative budget per person per day: low 25-40 € (hostel in San Pedro, comedores, public lanchas); mid 60-100 € (hotel with a view in Panajachel or San Marcos, guide for the Indian Nose, a course or a kayak); high from 150 € (waterfront hotel in Santa Cruz or above Panajachel, private boats).",
+    costi: "lanchas 10-25 GTQ per trip depending on distance; accommodation among the cheapest in the country. At the Indian Nose you pay a small community fee; at Maximón's house in Santiago you leave an offering of a few quetzales. Indicative budget per person per day: low €25-40 (hostel in San Pedro, comedores, public lanchas); mid €60-100 (hotel with a view in Panajachel or San Marcos, guide for the Indian Nose, a course or a kayak); high from €150 (waterfront hotel in Santa Cruz or above Panajachel, private boats).",
     luoghi: [
       {
         "nome": "Panajachel and Calle Santander",
@@ -394,7 +394,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "By public lancha from Panajachel or San Pedro, about half an hour.",
         "quando": "Morning.",
         "tempo": "Half a day",
-        "costo": "An offering of a few quetzales at Maximón's house (from the trip)",
+        "costo": "An offering of a few quetzales at Maximón's house",
         "lat": 14.63855,
         "lng": -91.22992,
         "consiglio": "Before photographing people or the figure of Maximón, always ask permission and leave a small offering."
@@ -405,7 +405,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Wake up before dawn, a transfer and about an hour of steep walking in the dark with a local guide, from San Juan or Santa Clara.",
         "quando": "Sunrise, with a clear sky.",
         "tempo": "Mid-morning",
-        "costo": "A small community fee at the top; the guide's price is agreed the day before (from the trip).",
+        "costo": "A small community fee at the top; the guide's price is agreed the day before.",
         "lat": 14.69921,
         "lng": -91.28988,
         "consiglio": "In the rainy season you climb in the dark to look at a cloud: check the forecast."
@@ -426,7 +426,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "On foot or by tuk tuk from Panajachel, a few minutes.",
         "quando": "Morning.",
         "tempo": "2-3 hours",
-        "orari": "Open 8 am to 5 pm (official site).",
+        "orari": "Open 8 am to 5 pm.",
         "lat": 14.75084,
         "lng": -91.16582,
         "url": "https://www.atitlanreserva.com/"
@@ -479,13 +479,13 @@ export const destinazioniGuatemala: Destinazione[] = [
         "nome": "Panajachel",
         "perChi": "transport hub, first nights",
         "testo": "Services, restaurants, Calle Santander full of crafts. Less atmosphere than the rest of the lake.",
-        "fascia": "35-120 €"
+        "fascia": "€35-120"
       },
       {
         "nome": "San Pedro la Laguna",
         "perChi": "budget and nightlife",
         "testo": "Cheap, young, noisy in the evening.",
-        "fascia": "10-60 €"
+        "fascia": "€10-60"
       },
       {
         "nome": "San Marcos and San Juan",
@@ -603,8 +603,8 @@ export const destinazioniGuatemala: Destinazione[] = [
         "In the rainy season you often do not see the sunrise: decide whether it is worth the early start.",
         "At the site you walk for kilometres under the forest: bring water, repellent and closed shoes. The Foreign Office reports robberies on the roads to Tikal: travel by day and with serious operators."
       ],
-    comeArrivare: "Domestic flight from Guatemala City to Flores (about 1 hour, the fastest option) or night bus (8-10 hours). From Flores to the park, about 1h30 by shuttle. The flight lands at Mundo Maya International Airport, in Santa Elena, a few minutes by taxi from the island. The park is 63 km from Flores along the CA-13 towards Melchor de Mencos, turning at Ixlú for El Remate (Ministry of Culture); shuttles and colectivos run daily, and for sunrise hotels arrange transport at around 3 am. From Lanquín the shuttle takes 9-12 hours; from the Belize border at Melchor de Mencos, about two hours.",
-    costi: "park entrance about 150 GTQ, a supplement for sunrise entry and a mandatory guide at that time. Q150 for foreigners, plus Q100 for sunrise or sunset: about 250 GTQ in all, 28-30 €, in cash or online on the Ministry of Culture site. Indicative budget per person per day: low 30-45 € (hostel in Flores, comedores, shared shuttle); mid 70-110 € (lakeside hotel, guide at Tikal, boat trip); high from 180 € (hotel inside the park or boutique on the lake, private tours to Yaxhá).",
+    comeArrivare: "Domestic flight from Guatemala City to Flores (about 1 hour, the fastest option) or night bus (8-10 hours). From Flores to the park, about 1h30 by shuttle. The flight lands at Mundo Maya International Airport, in Santa Elena, a few minutes by taxi from the island. The park is 63 km from Flores along the CA-13 towards Melchor de Mencos, turning at Ixlú for El Remate; shuttles and colectivos run daily, and for sunrise hotels arrange transport at around 3 am. From Lanquín the shuttle takes 9-12 hours; from the Belize border at Melchor de Mencos, about two hours.",
+    costi: "park entrance about 150 GTQ, a supplement for sunrise entry and a mandatory guide at that time. Q150 for foreigners, plus Q100 for sunrise or sunset: about 250 GTQ in all, €28-30, in cash or online on the Ministry of Culture site. Indicative budget per person per day: low €30-45 (hostel in Flores, comedores, shared shuttle); mid €70-110 (lakeside hotel, guide at Tikal, boat trip); high from €180 (hotel inside the park or boutique on the lake, private tours to Yaxhá).",
     luoghi: [
       {
         "nome": "Great Plaza and Temples I and II",
@@ -612,8 +612,8 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "From the park entrance you walk through the forest; entrance and trails add up to kilometres. A guided visit is recommended, also for the wildlife.",
         "quando": "Morning, when the sun lights up Temple I and the forest is still damp.",
         "tempo": "3-4 hours",
-        "costo": "Q150 for foreigners, per day; sunrise or sunset entry costs Q100 more (Ministry of Culture fees, 2026).",
-        "orari": "Daily 6-18; special sunrise entry 4-6 and sunset entry 18-20 (Ministry of Culture).",
+        "costo": "Q150 for foreigners, per day; sunrise or sunset entry costs Q100 more (2026).",
+        "orari": "Daily 6-18; special sunrise entry 4-6 and sunset entry 18-20.",
         "lat": 17.22222,
         "lng": -89.62417,
         "url": "https://boletos.culturaguate.gob.gt/"
@@ -733,7 +733,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "nome": "Flores island",
         "perChi": "atmosphere and convenience",
         "testo": "Restaurants and hotels by the lake, narrow streets. Noise is low, but for Tikal you need a transfer by car or shuttle.",
-        "fascia": "30-100 €"
+        "fascia": "€30-100"
       },
       {
         "nome": "El Remate",
@@ -773,7 +773,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       {
         "nome": "San Ignacio (Belize)",
         "distanza": "about 2 hours to the Melchor de Mencos border",
-        "come": "Shuttle or colectivo; border open daily from 6 am to 10 pm (from the trip).",
+        "come": "Shuttle or colectivo; border open daily from 6 am to 10 pm.",
         "testo": "The first town in Belize, base for the ATM cave; from the border it takes a quarter of an hour."
       }
     ],
@@ -788,7 +788,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       },
       {
         "domanda": "How much does Tikal cost?",
-        "risposta": "Q150 for foreigners, per day, plus Q100 for sunrise or sunset (Ministry of Culture, 2026). Tickets are bought online on the ministry's site or in cash."
+        "risposta": "Q150 for foreigners, per day, plus Q100 for sunrise or sunset (2026). Tickets are bought online on the ministry's site or in cash."
       },
       {
         "domanda": "Do you need a guide at Tikal?",

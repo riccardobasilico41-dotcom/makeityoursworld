@@ -67,7 +67,7 @@ export const destinazioniSingapore: Destinazione[] = [
         tempo: "1 hour per conservatory",
         url: "https://www.gardensbythebay.com.sg/",
         consiglio: "If you only pick one, the Cloud Forest: it is the most surprising thing in the area.",
-        costo: "ticket for both conservatories 46 SGD for non-residents, about €30 (official website, 2026)",
+        costo: "ticket for both conservatories 46 SGD for non-residents, about €30 (2026)",
         orari: "daily 9am-9pm; each dome closes in turn for a few maintenance days, dates on the official website",
         lat: 1.28396,
         lng: 103.8658
@@ -138,7 +138,7 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT to City Hall, then five minutes on foot across the Padang. Visit on your own; there are free guided tours in English.",
         quando: "In the hottest hours, between noon and 4pm.",
         tempo: "2-3 hours",
-        costo: "general admission 20 SGD for non-residents, about €13 (official website, 2026)",
+        costo: "general admission 20 SGD for non-residents, about €13 (2026)",
         orari: "daily 10am-7pm, last entry 6:30pm",
         url: "https://www.nationalgallery.sg/",
         consiglio: "The Southeast Asia gallery is closed for works until late 2027: if that's the main reason to go, check first what's on show.",

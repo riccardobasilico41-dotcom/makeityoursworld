@@ -15,7 +15,6 @@ export const florida360Meta: TripMeta = {
   criticita: [
     'El ritmo es muy denso, con jornadas de conducción de hasta 5 horas',
     'Varios hoteles (Cayo Hueso/Marathon, Naples/Everglades) no están anotados por su nombre por política del DMC organizador: se indican con alternativas en lugar de un juicio inventado',
-    'No está confirmado cuál entre Universal Studios y Disney World se eligió finalmente el Día 6',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

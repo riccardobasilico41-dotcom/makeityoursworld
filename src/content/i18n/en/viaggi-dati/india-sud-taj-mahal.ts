@@ -69,7 +69,7 @@ export const indiaSudTajMahalMeta: TripMeta = {
     { titoloGiorno: 'Day 17 — Bangalore and departure', tratta: 'Bangalore City → Kempegowda airport, 1-1h30 → international flight', pernottamento: 'Flight home', statoPernottamento: 'consigliato', intensita: 'leggero', immagine: '/images/india/bangalore-vidhana-soudha-notte.jpg', imageAlt: 'Bangalore\'s Vidhana Soudha, the great Karnataka parliament building with its central dome, lit up at night' },
   ],
   budget: [
-    { etichetta: 'Intercontinental flights', valore: 'into Delhi and home from Bangalore roughly 550-1,000 € with one stopover' },
+    { etichetta: 'Intercontinental flights', valore: 'into Delhi and home from Bangalore roughly €550-1,000 with one stopover' },
     { etichetta: 'Visa and documents', valore: 'e-Tourist Visa $25 (30 days) or $40 (one year), plus a 2.5-3% fee, to be requested at least 4 days ahead; free e-Arrival Card within the 72 hours before' },
     { etichetta: 'Trains', valore: 'Delhi-Agra and back 800-1,600 rupees per leg; Hampi Express Bangalore-Hosapete and back in 2A or 3A' },
     { etichetta: 'Domestic flights', valore: 'Delhi-Chennai and Kochi-Bangalore 3,000-8,000 rupees per leg' },

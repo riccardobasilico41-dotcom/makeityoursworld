@@ -74,7 +74,8 @@ const funzioni = {
 export const siteConfig = {
   name: 'Make It Yours World',
   brandName: 'Make It Yours World',
-  shortName: 'Make It Yours',
+  // stesso nome dell'header ovunque (footer, suffisso dei titoli, og:site_name)
+  shortName: 'Make It Yours World',
   tagline: 'Itinerari e appunti di viaggio, un continente alla volta',
   description:
     'Diario di viaggio con itinerari giorno per giorno, consigli pratici e schede utili per organizzare il prossimo viaggio: dal Marocco alla Costa Rica, dalla Transilvania alla Florida.',

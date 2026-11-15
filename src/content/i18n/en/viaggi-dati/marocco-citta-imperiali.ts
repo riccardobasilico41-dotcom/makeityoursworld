@@ -26,7 +26,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
     'The Fez medina is a maze, with fake guides and pushy sellers: on the first day you need an official guide',
     'Non-Muslims cannot enter mosques in use, nor the Qarawiyyin: the Hassan II Mosque can only be visited on the guided tour',
     'In summer Fez and Meknes are very hot, and Volubilis is almost all in the sun',
-    'The driving times given are without stops or traffic; CTM bus times to be checked on ctm.ma',
+    'The driving times given are without stops or traffic; CTM bus times on ctm.ma',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {
@@ -141,7 +141,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
       pernottamento: 'Casablanca, center or seafront',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
-      costiNoti: 'Hassan II Mosque: 140 MAD for foreign adults (fmh2.ma, November 2026), guided tour only',
+      costiNoti: 'Hassan II Mosque: 140 MAD for foreign adults (2026), guided tour only',
       destinazioneSlug: 'rabat',
       immagine: '/images/viaggi/marocco-citta-imperiali/giorno-10-moschea-hassan-ii.webp',
       imageAlt: "The minaret of Casablanca's Hassan II Mosque backlit, with the sun low over the ocean",
@@ -159,7 +159,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
     { etichetta: 'Car with driver or rental car', valore: undefined },
     { etichetta: 'CTM buses (alternative)', valore: 'Tangier-Chefchaouen and Chefchaouen-Fez, services and tickets on ctm.ma' },
     { etichetta: 'Official guide in Fez', valore: undefined },
-    { etichetta: 'Hassan II Mosque', valore: '140 MAD for foreign adults (fmh2.ma, November 2026)' },
+    { etichetta: 'Hassan II Mosque', valore: '140 MAD for foreign adults (2026)' },
     { etichetta: 'Total', valore: undefined },
   ],
 }

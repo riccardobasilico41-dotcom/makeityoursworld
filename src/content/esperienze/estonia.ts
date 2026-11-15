@@ -19,7 +19,7 @@ export const esperienzeEstonia: Esperienza[] = [
       'Mostra una Tallinn diversa dalla Città Vecchia medievale: quella imperiale russa del Settecento, con un parco da reggia, e accanto l\'arte estone del Novecento e contemporanea raccolta nel KUMU. Il salto dall\'una all\'altra è di pochi minuti a piedi.',
     durata: 'circa 1 ora per il solo parco, 2-3 ore con una visita completa al KUMU',
     periodo: 'il parco tutto l\'anno, con i giardini più belli da maggio a settembre; il museo è al chiuso, quindi va bene anche con la pioggia',
-    costo: 'parco gratuito; ingresso al KUMU indicativamente 12-16€ secondo la mostra in corso; il Palazzo di Kadriorg ha un biglietto separato, di solito pochi euro',
+    costo: 'parco gratuito; ingresso al KUMU indicativamente 12-16 € secondo la mostra in corso; il Palazzo di Kadriorg ha un biglietto separato, di solito pochi euro',
     comePrenotare: 'Per il parco non serve prenotare; i biglietti del KUMU si comprano in loco o sul sito del museo, utile quando ci sono mostre temporanee molto richieste.',
     cosaPortare: 'Nessuna attrezzatura particolare; conviene controllare prima il giorno di chiusura settimanale del museo.',
     perChiEAdatta: 'Per chi ama i parchi storici e l\'arte; il KUMU in particolare è per chi vuole capire l\'Estonia oltre il centro medievale.',

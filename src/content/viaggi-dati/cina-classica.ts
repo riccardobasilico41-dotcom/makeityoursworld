@@ -205,11 +205,11 @@ export const cinaClassicaMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli intercontinentali', valore: undefined },
-    { etichetta: 'Treni ad alta velocità (3 tratte lunghe)', valore: 'indicativamente 40-90€ a tratta in seconda classe' },
+    { etichetta: 'Treni ad alta velocità (3 tratte lunghe)', valore: 'indicativamente 40-90 € a tratta in seconda classe' },
     { etichetta: 'Volo o treno Shanghai-Hong Kong', valore: undefined },
-    { etichetta: 'Alloggi', valore: '40-70€ a notte nella Cina continentale, molto di più a Hong Kong' },
+    { etichetta: 'Alloggi', valore: '40-70 € a notte nella Cina continentale, molto di più a Hong Kong' },
     { etichetta: 'Ingressi principali', valore: 'Città Proibita ~60 yuan, Esercito di Terracotta ~120, mura di Xi\'an 54, giardini di Suzhou 30-80 ciascuno' },
     { etichetta: 'Traghetto per Macao', valore: '160-200 HKD a tratta' },
-    { etichetta: 'Pasti', valore: '4-10€ a pasto nella Cina continentale, più cari a Hong Kong' },
+    { etichetta: 'Pasti', valore: '4-10 € a pasto nella Cina continentale, più cari a Hong Kong' },
   ],
 }

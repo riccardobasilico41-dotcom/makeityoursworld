@@ -118,7 +118,7 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 ### Las Mentawai
 **Qué hacer y ver:** unos días en la selva de Siberut con una familia mentawai, acompañados por guías mentawai, y luego las playas y el surf de Sipora. Fui con Mentawai Tribe, y son sitios increíbles. No es para todos: barro por todas partes, insectos, sin electricidad, se duerme en una esterilla. Y hay un lado ético que hay que afrontar con honestidad: eres invitado en casa de alguien, no en un espectáculo.
 
-**Cómo llegar y moverse:** ferri rápido Mentawai Fast desde Padang a Siberut y a Tuapejat, en Sipora. Horarios y precios cambian a menudo, y con mar agitado los barcos no salen: hacen falta días de margen. En Siberut, canoa a motor y trekking. Quien surfea paga una tasa local de surf, con importe por comprobar.
+**Cómo llegar y moverse:** ferri rápido Mentawai Fast desde Padang a Siberut y a Tuapejat, en Sipora. Horarios y precios cambian a menudo, y con mar agitado los barcos no salen: hacen falta días de margen. En Siberut, canoa a motor y trekking. Quien surfea paga una tasa local de surf.
 
 **Cuándo ir:** mayo-septiembre. De noviembre a enero llueve mucho.
 
@@ -157,13 +157,13 @@ Las islas son intercambiables, y el calendario es la forma más sencilla de eleg
 ### Raja Ampat
 **Qué hacer y ver:** snorkel e inmersiones entre Kri, Arborek, Cape Kri y las islas Fam, el mirador de Piaynemo, las aldeas de los homestays. Más al sur, Misool, con un liveaboard. Es el lugar más bonito que he visto bajo el agua, y también el más cansado de alcanzar. Quien quiera dormir en Arborek encuentra los homestays en el portal de los homestays locales, stayrajaampat.com (por ejemplo Worisun y Adefiro). Dormir en homestays en lugar de resorts es la elección que vale la pena, porque ese modelo sostiene la protección del parque.
 
-**Cómo llegar y moverse:** vuelo a Sorong desde Yakarta, Makassar y Manado, o desde Bali con el directo de Garuda en los meses en que opera (en 2026-2027 de finales de octubre a marzo). Luego el ferri a Waisai, unas 2 horas, con una salida a primera hora de la tarde y, no todos los días, una por la mañana. Entre las islas, solo barcas de los homestays, barcos privados o liveaboards. El permiso del parque (PIN) es obligatorio y se paga en Sorong o en el puerto de Waisai: el importe para extranjeros cambió en 2026 y hay que comprobarlo en el momento. En las islas no hay cajeros.
+**Cómo llegar y moverse:** vuelo a Sorong desde Yakarta, Makassar y Manado, o desde Bali con el directo de Garuda en los meses en que opera (en 2026-2027 de finales de octubre a marzo). Luego el ferri a Waisai, unas 2 horas, con una salida a primera hora de la tarde y, no todos los días, una por la mañana. Entre las islas, solo barcas de los homestays, barcos privados o liveaboards. El permiso del parque (PIN) es obligatorio y se paga en Sorong o en el puerto de Waisai: el importe para extranjeros cambió en 2026. En las islas no hay cajeros.
 
 **Cuándo ir:** octubre-abril, con mar más tranquilo, mantas y grandes pelágicos. De mayo a septiembre soplan los vientos del sureste: los traslados se alargan y las salidas a las zonas expuestas pueden anularse. Fuimos en agosto: el mar estuvo espectacular igualmente, diez días sin lluvia, pero el viento se hizo notar. Y en verano se ven menos grandes pelágicos.
 
 **Cuántos días:** una semana como mínimo. Con menos, se pasa más tiempo viajando que en el agua.
 
-**En la práctica:** ferry Sorong-Waisai unas 2 horas · permiso del parque que se paga en Sorong o en Waisai, importe de 2026 por comprobar · sacar en Sorong todo el efectivo de la estancia, en las islas no hay cajeros · homestays con reserva previa, normalmente en pensión completa, con los traslados en barco aparte.
+**En la práctica:** ferry Sorong-Waisai unas 2 horas · permiso del parque que se paga en Sorong o en Waisai · sacar en Sorong todo el efectivo de la estancia, en las islas no hay cajeros · homestays con reserva previa, normalmente en pensión completa, con los traslados en barco aparte.
 
 **Para saber más:** [la ficha de Raja Ampat](/es/destinos/indonesia/raja-ampat), [el liveaboard en Raja Ampat](/es/experiencias/indonesia/buceo-liveaboard-raja-ampat), [Bali, Célebes y Raja Ampat en 12 días](/es/viajes/bali-celebes-raja-ampat-12-dias).
 

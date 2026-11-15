@@ -21,7 +21,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     ],
     doveDormire:
       'All\'andata abbiamo dormito al Regal Réseau Hotel & Spa (4/5 su Tripadvisor, circa 400 recensioni): piace per il rooftop con piscina a sfioro, anche se secondo alcuni ospiti la musica del bar arriva fino alle camere. Al ritorno al Goldi Sands Hotel (4/5, oltre 1.700 recensioni): colazione a buffet migliore del previsto e posizione comoda, ma alcuni recensori trovano gli arredi datati.\n\nEconomiche: Icebear Guesthouse, Ocean Beauty Guest House. Fascia media: Jetwing Sea, Jetwing Lagoon. Lusso (contenuto): Jetwing Blue, Sentido Heritance Negombo.',
-    doveMangiare: 'Jude Restaurant (pesce buono ma servizio lento, circa 12€ a testa); SeaJoy per un pranzo economico.',
+    doveMangiare: 'Jude Restaurant (pesce buono ma servizio lento, circa 12 € a testa); SeaJoy per un pranzo economico.',
     usciteSerali: 'Rodeo, Sky Lounge, oppure un beach party, chiedendo a guida e locali dove c\'è.',
     comeArrivare: "Negombo è a 20-30 minuti dall'aeroporto internazionale Bandaranaike (CMB) di Katunayake: per questo è la base più comoda per la prima e l'ultima notte. Si arriva con il taxi a tariffa fissa dal banco ufficiale agli arrivi, con le app PickMe o Uber oppure con un'auto dell'hotel concordata prima, intorno ai 5.000-6.000 LKR (circa 15-18 €) a macchina. Da Colombo ci sono circa 40 km sull'autostrada E03, o il treno della linea costiera fino alla stazione di Negombo.",
     comeSpostarsi: 'Van privato con autista.',
@@ -1019,8 +1019,8 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "A piedi dal centro, sul lago. Si entra scalzi, con spalle e ginocchia coperte; la reliquia è chiusa in sette scrigni d'oro nella camera chiamata Handun Kunama. Pantaloncini e canottiere non sono ammessi; all'ingresso si trovano abiti adatti.",
         "quando": "Aperto ogni giorno dalle 5:30 alle 20. Le cerimonie sono alle 5:30, alle 9:30 e alle 18:30: per quella serale la fila si forma già nel tardo pomeriggio.",
         "tempo": "2 ore",
-        "costo": "3.000 LKR (circa 9 €) per stranieri (2026, sito ufficiale), con i musei del complesso; nel 2023 erano 2.000 LKR. Valgono solo i biglietti delle macchinette del tempio.",
-        "orari": "Tutti i giorni 5:30-20; cerimonie alle 5:30, alle 9:30 e alle 18:30 (sito ufficiale, 2026).",
+        "costo": "3.000 LKR (circa 9 €) per stranieri (2026), con i musei del complesso; nel 2023 erano 2.000 LKR. Valgono solo i biglietti delle macchinette del tempio.",
+        "orari": "Tutti i giorni 5:30-20; cerimonie alle 5:30, alle 9:30 e alle 18:30 (2026).",
         "lat": 7.2936,
         "lng": 80.6414,
         "url": "https://sridaladamaligawa.lk/",
@@ -1032,7 +1032,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "In tuk-tuk o in bus dal centro di Kandy, circa 20 minuti. Si gira a piedi: i viali sono ombreggiati, ma il giardino è grande.",
         "quando": "Mattina, prima del caldo; nei weekend arrivano molte famiglie del posto.",
         "tempo": "2-3 ore",
-        "orari": "Tutti i giorni 7:30-18 (sito ufficiale, 2026).",
+        "orari": "Tutti i giorni 7:30-18 (2026).",
         "lat": 7.27111,
         "lng": 80.59556,
         "url": "https://en.botanicgardens.gov.lk/"
@@ -1233,7 +1233,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "domanda": "A che ora è la cerimonia al Tempio del Dente?",
-        "risposta": "Le cerimonie sono alle 5:30, alle 9:30 e alle 18:30 (sito ufficiale, 2026). Per quella serale conviene mettersi in fila dal tardo pomeriggio."
+        "risposta": "Le cerimonie sono alle 5:30, alle 9:30 e alle 18:30 (2026). Per quella serale conviene mettersi in fila dal tardo pomeriggio."
       },
       {
         "domanda": "Come ci si veste per il Tempio del Dente?",
@@ -1735,7 +1735,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     cosaVedere: ['Il Nine Arches Bridge', 'Lipton\'s Seat', 'Le cascate di Ravana, a circa 6 km da Ella'],
     cosaFare: [
       'Il treno panoramico Nuwara Eliya-Ella (c\'è la scheda esperienza dedicata)',
-      'La zip line Flying Ravana (circa 20€, a 15 minuti da Ella)',
+      'La zip line Flying Ravana (circa 20 €, a 15 minuti da Ella)',
       'Un massaggio alla Spa Ceylon',
       'La cooking class con cena organizzata dal DMC',
     ],

@@ -23,6 +23,9 @@ const T = {
   es: { home: 'Inicio', consigli: 'Consejos de viaje', aggiornato: 'Actualizado el', viaggi: 'Los viajes de los que nace este artículo' },
 } satisfies Record<Lingua, Record<string, string>>
 
+// slug fuori dall'elenco: nessuna rotta, quindi la 404 vera di global-not-found.tsx (già nell'HTML)
+export const dynamicParams = false
+
 export function generateStaticParams() {
   return getAllConsigli().map((c) => ({ slug: c.slug }))
 }

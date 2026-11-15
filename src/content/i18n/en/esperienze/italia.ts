@@ -15,7 +15,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       "**from late June to mid-September**, the window in which the huts are open. In June the leftover snowfields on the high passes are a serious variable; in late September the huts start to close and the days get shorter. **September is the best month**: fewer people, clear air, huts still active until the end of the month.",
     costo:
-      "half board in a hut roughly 60-80€ per night, with significant discounts for members of the CAI and affiliated alpine associations: the membership pays for itself in three nights. Add packed lunches, cable cars where used and the return.",
+      "half board in a hut roughly €60-80 per night, with significant discounts for members of the CAI and affiliated alpine associations: the membership pays for itself in three nights. Add packed lunches, cable cars where used and the return.",
     comePrenotare:
       "**Huts are booked from January-February for the summer**, and for private rooms even earlier: it's the constraint that determines everything else. You book directly with each hut, by phone or email, or through the CAI booking portal where available. The whole itinerary has to be built beforehand, because the stages interlock and moving one means redoing everything.",
     cosaPortare:
@@ -48,7 +48,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       "from late June to early October, when the road is open. **The right moment is dawn or late afternoon**: in the middle hours of July and August the trail is one continuous line.",
     costo:
-      "**road toll around 40€ per car**, valid 12 hours from the booked time, plus motorcycles, campers and buses with their own rates. The trail itself is free.",
+      "**road toll around €40 per car**, valid 12 hours from the booked time, plus motorcycles, campers and buses with their own rates. The trail itself is free.",
     comePrenotare:
       "**Since 2026 car access to the Rifugio Auronzo parking lot requires mandatory online booking with a time slot**, in addition to the toll: anyone who arrives without it turns back. The booking is made on the official portal and the best slots sell out. Alternatively you can go up by bus from the valley floors, or on foot from Misurina or the Val Fiscalina: that's how it was done before, and the problem doesn't arise.",
     cosaPortare:
@@ -80,7 +80,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: 'from 2 to 8 hours depending on the route',
     periodo:
       "from late June to September, when the rock is dry and free of snow. **Never with thunderstorms approaching**: the steel cable is a conductor, which is why you start early and are off the wall by early afternoon.",
-    costo: "rental of the full kit (harness, ferrata set with energy absorber, helmet) roughly 15-25€ per day; a mountain guide for a small group costs much more but is the right investment the first time",
+    costo: "rental of the full kit (harness, ferrata set with energy absorber, helmet) roughly €15-25 per day; a mountain guide for a small group costs much more but is the right investment the first time",
     comePrenotare:
       "Ferratas aren't booked: you go. What should be booked is the equipment rental in peak periods and, the first time, a **mountain guide**. It's essential to choose the route according to its real difficulty: ferratas have difficulty scales, and “easy” doesn't mean trivial.",
     cosaPortare:
@@ -111,7 +111,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: 'a full day, 5-6 actual hours not counting stops',
     periodo:
       "from December to April, with the full season. **It has to be done starting early, by nine**: the last lifts close in early afternoon, and whoever starts late risks ending up on the wrong side of the massif.",
-    costo: 'included in the Dolomiti Superski pass, with the daily around 86€ in high season',
+    costo: 'included in the Dolomiti Superski pass, with the daily around €86 in high season',
     comePrenotare:
       "You don't book. You do need the Dolomiti Superski pass (or at least one valid for all the areas crossed) and you need to check the weather: in strong wind the pass lifts close and the loop is interrupted, leaving you in the valley on the opposite side from the car.",
     cosaPortare:
@@ -143,7 +143,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: 'from half a day to multi-day routes with nights in a winter hut',
     periodo:
       "from December to April, with March and April as the best months for spring ski touring. **Snow conditions matter more than the date**, and have to be checked before leaving.",
-    costo: 'ski touring equipment rental roughly 30-50€ per day, snowshoes 10-15€; a mountain guide for a day is the most sensible expense the first time',
+    costo: 'ski touring equipment rental roughly €30-50 per day, snowshoes €10-15; a mountain guide for a day is the most sensible expense the first time',
     comePrenotare:
       "Nothing to book, except the guide and winter huts. What needs doing beforehand is **reading the avalanche bulletin**, which in Italy is issued daily for each Alpine sector with a scale from 1 to 5, and adjusting the route to the danger level.",
     cosaPortare:
@@ -384,7 +384,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       "all year, with different characteristics. In spring and autumn the conditions are better; in summer it's hot at low altitudes but at the summit the wind is cold; in winter **you ski on Etna**, with two small resorts on the two sides. **Eruptive activity can close access to the summit zone without notice.**",
     costo:
-      "cable car plus off-road vehicle plus guide up to the summit zone: it's a considerable expense, to be checked beforehand because it varies by side and season. Excursions to the side craters, at lower altitudes, cost much less.",
+      "cable car plus off-road vehicle plus guide up to the summit zone: it's a considerable expense, so check beforehand because it varies by side and season. Excursions to the side craters, at lower altitudes, cost much less.",
     comePrenotare:
       "Guides are booked the day before or directly at the base of the cable car; in peak periods it's better beforehand. **The volcano's alert status should be checked**: INGV publishes bulletins, and in case of activity access above a certain altitude is prohibited.",
     cosaPortare:
@@ -479,7 +479,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       "spring and autumn. In summer the central-southern Apennines are too hot; in winter many high-altitude stretches are impassable and several lodgings close.",
     costo:
-      "the cheapest way to travel in Italy: hostels and hospitality along the cammini cost between 15 and 40 euros, often with dinner, and in some cases work on donation.",
+      "the cheapest way to travel in Italy: hostels and hospitality along the cammini cost between 15 and €40, often with dinner, and in some cases work on donation.",
     comePrenotare:
       "The **pilgrim's credential**, the document you get stamped along the route, gives access to hospitality at reduced rates and is requested from the associations that manage each cammino. Lodgings are booked stage by stage, often the day before; in peak periods and on the most trodden cammini it's better to book further ahead.",
     cosaPortare:
@@ -510,7 +510,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: '1h30-2 hours per winery',
     periodo:
       "**September and October during the harvest**, when wineries are working and you see the process. April to June is the second window. In August many close or are in preparation; in winter visits are reduced.",
-    costo: 'roughly 15-40€ per person depending on the wines and the level of hospitality, often deducted from a purchase',
+    costo: 'roughly €15-40 per person depending on the wines and the level of hospitality, often deducted from a purchase',
     comePrenotare:
       "**Always by appointment, a few days ahead.** It's the rule almost everyone ignores: a winery is a farm with a work cycle, and whoever shows up without notice usually finds it closed. An email or a phone call three days beforehand solves everything.",
     cosaPortare:

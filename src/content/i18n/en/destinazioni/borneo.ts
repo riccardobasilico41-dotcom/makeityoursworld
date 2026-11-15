@@ -54,7 +54,7 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "The climb is allowed only with a registered guide (one per five adults) and a named permit, booked months ahead together with a bed at Laban Rata, through Sabah Parks or authorized operators. You start from Timpohon Gate, at 1,866 meters: the Mesilau trail is closed.",
         quando: "In the drier months; in bad weather the mountain closes. Book with some margin.",
         tempo: "2 days, 1 night at Laban Rata",
-        costo: "Climbing permit RM 400 for foreign adults, guide RM 350 per five people, insurance RM 10 (Sabah Parks rates in force since 2023); hut and park entry extra.",
+        costo: "Climbing permit RM 400 for foreign adults, guide RM 350 per five people, insurance RM 10 (rates in force since 2023); hut and park entry extra.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Sleep near the park the night before the climb and not in Kota Kinabalu, to start rested."
       },

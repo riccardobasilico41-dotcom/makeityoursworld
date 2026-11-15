@@ -25,7 +25,7 @@ Tre giorni sono la misura giusta per fare le cose grandi senza rinunciare al res
   - **Basilica di San Marco:** l'ingresso in sé costa circa 10 €, ma **la prenotazione online con orario salta una coda che in alta stagione è di un'ora e più**, e vale ogni centesimo. **Pala d'Oro** e **Museo di San Marco con la Loggia dei Cavalli** sono biglietti aggiuntivi: **la Loggia va fatta**, perché si esce sul balcone sopra la piazza. **Dress code: spalle e ginocchia coperte**, e **gli zaini grandi non entrano**. C'è un deposito gratuito in una calle vicina, e chi non lo sa perde mezz'ora.
   - **Palazzo Ducale:** biglietto cumulativo con i musei di Piazza San Marco. Gli **Itinerari Segreti**, che portano nelle stanze amministrative, nella sala della tortura e nei Piombi da cui evase Casanova, **sono su prenotazione, in piccoli gruppi, e finiscono presto**.
 - **Vaporetti:** il **biglietto singolo è molto caro** e vale poco più di un'ora. **Gli abbonamenti a giornata o multigiornalieri si ripagano al terzo viaggio** e sono quasi obbligatori se si fanno le isole. Attenzione: **Venezia si gira a piedi**; il vaporetto serve per il Canal Grande, per le isole e per i trasferimenti lunghi.
-- **Il traghetto da gondola:** in alcuni punti del Canal Grande, dove non ci sono ponti, **le gondole traghettano da una riva all'altra per circa 2 euro**, e si sta in piedi come i veneziani. È il modo più economico di salire su una gondola e quasi nessun turista lo sa. **Le linee attive cambiano nel tempo:** conviene chiedere sul posto quali sono in servizio.
+- **Il traghetto da gondola:** in alcuni punti del Canal Grande, dove non ci sono ponti, **le gondole traghettano da una riva all'altra per circa 2 €**, e si sta in piedi come i veneziani. È il modo più economico di salire su una gondola e quasi nessun turista lo sa. **Le linee attive cambiano nel tempo:** conviene chiedere sul posto quali sono in servizio.
 - **La gondola:** ha una **tariffa ufficiale fissata dal Comune**, **a gondola e non a persona** (fino a cinque passeggeri), con **una tariffa più alta la sera** e un sovrapprezzo per la serenata. Contrattare non serve, ma **controllare la tariffa in vigore prima di salire sì**, perché è il campo con più fraintendimenti.
 - **Chorus Pass:** un cumulativo per una quindicina di chiese storiche, il patrimonio artistico più denso e meno affollato della città. Conviene già dalla terza o quarta chiesa.
 - **Cibo:** i **bacari** sono le osterie dove si mangiano i **cicchetti** in piedi al banco, con l'**ombra**, il bicchiere di vino. **Sarde in saor** (con cipolle, uvetta e pinoli, di origine marinaresca), **baccalà mantecato**, **folpetti**, **fegato alla veneziana**, **risotto di gò** dalla laguna, e le **moeche**, i granchi pescati nel breve momento della muta in cui hanno il guscio molle (**stagionali, primavera e autunno**). Lo **spritz** è nato qui, e la versione veneziana è più amara di quella che si beve nel resto d'Italia.
@@ -87,7 +87,7 @@ Il pomeriggio è per la **laguna nord**, in vaporetto:
 - **Il Ghetto di Cannaregio**, con i palazzi costruiti in altezza.
 - **Torcello**, la basilica e il mosaico della Madonna su fondo d'oro.
 - **I cicchetti nei bacari**, in piedi, cambiando banco.
-- **Il traghetto da gondola** per attraversare il Canal Grande in piedi, per circa 2 euro.
+- **Il traghetto da gondola** per attraversare il Canal Grande in piedi, per circa 2 €.
 - **Alzarsi all'alba** e camminare da soli su Rialto.
 
 ## Estensioni possibili

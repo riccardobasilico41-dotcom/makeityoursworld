@@ -25,7 +25,7 @@ Three days is the right measure to do the big things without giving up the rest:
   - **St. Mark's Basilica:** entry itself costs about €10, but **online booking with a time slot skips a line that in high season is an hour or more**, and is worth every cent. The **Pala d'Oro** and the **St. Mark's Museum with the Loggia dei Cavalli** are additional tickets: **do the Loggia**, because you step out onto the balcony above the square. **Dress code: shoulders and knees covered**, and **large backpacks are not allowed**. There's a free cloakroom in a nearby calle, and anyone who doesn't know loses half an hour.
   - **Doge's Palace:** combined ticket with the museums of Piazza San Marco. The **Secret Itineraries**, which lead into the administrative rooms, the torture chamber and the Piombi from which Casanova escaped, **are by reservation, in small groups, and sell out early**.
 - **Vaporetti:** the **single ticket is very expensive** and is good for little more than an hour. **Day passes or multi-day passes pay for themselves on the third ride** and are almost mandatory if you do the islands. Note: **Venice is explored on foot**; the vaporetto is for the Grand Canal, the islands and long transfers.
-- **The gondola ferry (traghetto):** at certain points on the Grand Canal, where there are no bridges, **gondolas ferry across from one bank to the other for about 2 euros**, and you stand up like the Venetians. It's the cheapest way to get on a gondola and almost no tourist knows it. **The active lines change over time:** ask on the spot which are running.
+- **The gondola ferry (traghetto):** at certain points on the Grand Canal, where there are no bridges, **gondolas ferry across from one bank to the other for about €2**, and you stand up like the Venetians. It's the cheapest way to get on a gondola and almost no tourist knows it. **The active lines change over time:** ask on the spot which are running.
 - **The gondola:** it has an **official rate set by the municipality**, **per gondola and not per person** (up to five passengers), with **a higher rate in the evening** and a surcharge for a serenade. Haggling is pointless, but **checking the rate in force before you board is worthwhile**, because it's the area with the most misunderstandings.
 - **Chorus Pass:** a combined pass for about fifteen historic churches, the densest and least crowded artistic heritage in the city. It pays off from the third or fourth church.
 - **Food:** the **bacari** are the taverns where you eat **cicchetti** standing at the counter, with an **ombra**, a glass of wine. **Sarde in saor** (with onions, raisins and pine nuts, of seafaring origin), **baccalà mantecato**, **folpetti**, **liver Venetian-style**, **risotto di gò** from the lagoon, and **moeche**, the crabs caught in the brief moment of molting when they have a soft shell (**seasonal, spring and autumn**). The **spritz** was born here, and the Venetian version is more bitter than the one drunk in the rest of Italy.
@@ -87,7 +87,7 @@ The afternoon is for the **northern lagoon**, by vaporetto:
 - **The Ghetto in Cannaregio**, with the buildings built upward.
 - **Torcello**, the basilica and the mosaic of the Madonna on a gold ground.
 - **Cicchetti in the bacari**, standing, changing counters.
-- **The gondola ferry** to cross the Grand Canal standing up, for about 2 euros.
+- **The gondola ferry** to cross the Grand Canal standing up, for about €2.
 - **Getting up at dawn** and walking alone on Rialto.
 
 ## Possible extensions

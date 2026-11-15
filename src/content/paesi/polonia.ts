@@ -22,7 +22,7 @@ export const polonia: Paese = {
   durataConsigliata:
     '3-4 giorni per Cracovia, il centro storico e le due gite fuori porta più comuni (Auschwitz-Birkenau e la Miniera di sale di Wieliczka); non è pensata per essere estesa a un tour di tutta la Polonia.',
   budgetIndicativo:
-    'tra le capitali europee più economiche: pasti, alloggi e trasporti pubblici costano una frazione che nell\'Europa occidentale. Le voci fisse sono la Miniera di Wieliczka (circa 120 PLN, poco più di 25€) e i trasporti verso Auschwitz (bus o treno, poche decine di PLN); l\'ingresso ad Auschwitz-Birkenau è gratuito.',
+    'tra le capitali europee più economiche: pasti, alloggi e trasporti pubblici costano una frazione che nell\'Europa occidentale. Le voci fisse sono la Miniera di Wieliczka (circa 120 PLN, poco più di 25 €) e i trasporti verso Auschwitz (bus o treno, poche decine di PLN); l\'ingresso ad Auschwitz-Birkenau è gratuito.',
   stileViaggio: ['città', 'storia', 'memoria', 'gastronomia'],
   scheda: {
     documenti:
@@ -39,7 +39,7 @@ export const polonia: Paese = {
       'Cracovia è una città sicura per gli standard europei, ma è anche una delle mete di addio al celibato più battute del continente, e questo genera un tipo di truffa specifica: promoter di strada, spesso ragazze, che invitano i turisti (soprattutto gruppi di uomini) in "un bar fantastico" nei dintorni di Rynek Główny, via Floriańska o Kazimierz. Il locale applica poi conti gonfiati a dismisura (anche centinaia di euro per pochi drink), con i buttafuori che scoraggiano l\'uscita finché non si paga. La regola è semplice: non seguire mai chi avvicina per strada proponendo un locale, e controllare sempre i prezzi al banco prima di ordinare. Per il resto, le accortezze normali contro i borseggi su tram affollati e nelle vie del centro bastano.',
     trasportiInterni:
       'Il centro storico si gira tutto a piedi. Per il resto della città, la rete di tram e bus KMK è capillare, economica ed efficiente (biglietti a tempo, dai 4 ai 25 PLN circa secondo la durata). Per Auschwitz-Birkenau: bus diretto dalla stazione dei pullman (circa 1h30, con corse ogni 20-40 minuti) o treno fino a Oświęcim (circa 1h40, poi 20-30 minuti a piedi o un breve bus fino al Museo). Per Wieliczka: bus o treno regionale in mezz\'ora circa. Non serve un\'auto a noleggio per un weekend concentrato su Cracovia.',
-    costoVita: 'Basso per gli standard dell\'Europa occidentale: pasto in un bar mleczny (i "bar del latte" della tradizione comunista, oggi mense economiche) pochi euro, cena normale 10-15€ a testa, birra o vodka locale a prezzi contenuti.',
+    costoVita: 'Basso per gli standard dell\'Europa occidentale: pasto in un bar mleczny (i "bar del latte" della tradizione comunista, oggi mense economiche) pochi euro, cena normale 10-15 € a testa, birra o vodka locale a prezzi contenuti.',
     lingua: 'Polacco. L\'inglese è diffuso nel centro storico, negli hotel e tra i più giovani; cala nei quartieri periferici e tra le generazioni più anziane. Qualche parola di polacco (dzień dobry, dziękuję) viene sempre apprezzata.',
     elettricita: '230V, 50Hz, prese di tipo C ed E: le spine italiane a due poli entrano senza problemi, quelle a tre poli con messa a terra possono richiedere un adattatore.',
     fusoOrario: 'UTC+1 (CET), lo stesso fuso orario dell\'Italia tutto l\'anno, ora legale compresa: nessuna differenza oraria.',

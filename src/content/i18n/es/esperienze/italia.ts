@@ -479,7 +479,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       "primavera y otoño. En verano los Apeninos centro-meridionales son demasiado calurosos; en invierno muchos tramos en altura son impracticables y varios alojamientos cierran.",
     costo:
-      "la manera más económica de viajar por Italia: los albergues y acogidas a lo largo de los caminos cuestan entre 15 y 40 euros, a menudo con cena, y en algunos casos funcionan a donativo.",
+      "la manera más económica de viajar por Italia: los albergues y acogidas a lo largo de los caminos cuestan entre 15 y 40 €, a menudo con cena, y en algunos casos funcionan a donativo.",
     comePrenotare:
       "La **credencial del peregrino**, el documento que se hace sellar a lo largo del recorrido, da acceso a las acogidas a tarifa reducida y se solicita a las asociaciones que gestionan cada camino. Los alojamientos se reservan etapa por etapa, a menudo el día antes; en los periodos de máxima afluencia y en los caminos más transitados conviene con más antelación.",
     cosaPortare:

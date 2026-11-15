@@ -67,8 +67,8 @@ export const malesiaSingaporeMeta: TripMeta = {
     { etichetta: 'Voli intercontinentali', valore: undefined },
     { etichetta: 'Trasporti interni in Malesia', valore: 'autobus interurbani pochi euro a tratta; eventuale volo interno molto economico' },
     { etichetta: 'Bus Malacca-Singapore', valore: 'pochi euro, 4-5 ore con la frontiera' },
-    { etichetta: 'Alloggi in Malesia', valore: '30-50€ a notte per un buon livello' },
-    { etichetta: 'Alloggi a Singapore', valore: '100-180€ a notte: la voce che ribalta il budget' },
-    { etichetta: 'Pasti', valore: '2-4€ ai food court malesi, 3-6€ nei centri hawker di Singapore' },
+    { etichetta: 'Alloggi in Malesia', valore: '30-50 € a notte per un buon livello' },
+    { etichetta: 'Alloggi a Singapore', valore: '100-180 € a notte: la voce che ribalta il budget' },
+    { etichetta: 'Pasti', valore: '2-4 € ai food court malesi, 3-6 € nei centri hawker di Singapore' },
   ],
 }

@@ -87,7 +87,7 @@ We spent the afternoon on the upper part: the **Piazzetta**, tiny, which lives o
 
 Toward evening, when the day excursions have left, **Capri changes**. In the evening the island empties by two thirds and suddenly becomes quiet, and that's why it's worth sleeping there instead of doing it as a day trip.
 
-**In practice:** ferry or hydrofoil to Capri from Amalfi, Positano, Sorrento or Naples · funicular from Marina Grande to the Piazzetta, tickets at the station · Gardens of Augustus with a ticket · check the status of Via Krupp · sleeping on the island is expensive, book early.
+**In practice:** ferry or hydrofoil to Capri from Amalfi, Positano, Sorrento or Naples · funicular from Marina Grande to the Piazzetta, tickets at the station · Gardens of Augustus with a ticket · Via Krupp is often closed: ask in town whether it's open · sleeping on the island is expensive, book early.
 
 ### Day 6 — Capri, from above and from the sea
 In the morning we went up to **Anacapri**, the upper town, the other face of the island: fewer shop windows, more life. From there we took the **chairlift to Monte Solaro**, a single-seat, open chairlift that climbs slowly over the low walls and gardens: it's the best experience on the island, at a ridiculous price. At the top, at **589 meters**, there's all of Capri below and the whole bay around.

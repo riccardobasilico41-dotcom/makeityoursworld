@@ -1,7 +1,7 @@
 # Costa Rica in due settimane: dal Caribe al Pacifico, tra bradipi, vulcani e balene
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie al diario giorno per giorno, con orari reali, contatti dei fornitori locali e prezzi effettivamente pagati; note di Rick del 5/11/2026 inserite: confermate Cahuita, cavallo, canyoning, zip line, balene e surf; mancano l'anno del viaggio e quante balene abbiamo visto)
-**Periodo del viaggio:** metà-fine novembre [anno da confermare], 16-28 novembre circa
+**Periodo del viaggio:** metà-fine novembre, 16-28 novembre circa
 **Durata:** 13 giorni, 12 notti
 **Compagni di viaggio:** con un gruppetto di amici, arrivati a sprazzi ognuno con il suo volo; abbiamo noleggiato un van con autista
 **Categoria:** America Centrale · Costa Rica · Pura Vida · giungla · vulcani · Caribe · Pacifico
@@ -16,13 +16,13 @@ In generale il Costa Rica è bellissimo. Natura incredibile, surf, animali ovunq
 ## Scheda pratica
 - **Quando andare:** clima tropicale tutto l'anno, caldo e umido, con possibili piogge soprattutto sulle coste; in caso di maltempo l'itinerario può cambiare. Novembre è tra i mesi in cui è meno probabile incontrare le balene a Uvita (la stagione migliore è gennaio-marzo o luglio-ottobre), ma per il resto del paese resta un buon periodo.
 - **Documenti/visto:** passaporto con almeno 6 mesi di validità residua. Per soggiorni turistici fino a 180 giorni non serve il visto, ma bisogna avere già il biglietto aereo di uscita dal paese.
-- **Moneta:** colón costaricano (CRC), cambio indicativo 1€ = 600 CRC. Nelle zone turistiche le carte sono accettate, ma con commissioni alte. Meglio portare contanti dall'Italia (meglio ancora dollari USA, che circolano accanto al colón) e cambiare solo in banche o uffici di cambio autorizzati: nei centri turistici, per strada, girano truffe con tassi «più favorevoli» che finiscono in banconote false.
-- **Budget indicativo:** oltre a voli e alloggi, per le attività extra calcola una spesa realistica di circa 250€ a testa. Le attività in Costa Rica sono care rispetto al resto del Centro America: una giornata di rafting o di zipline può costare 60-120$ a persona. Lo confermo: le attività sono carissime e si paga quasi sempre in dollari.
-- **Mance:** nei ristoranti sono già incluse (10%). Per le guide dei tour si consigliano 5-10$ a persona; all'autista, che ci ha accompagnato per quasi tutto l'itinerario, abbiamo lasciato circa 25$ a persona a fine viaggio.
+- **Moneta:** colón costaricano (CRC), cambio indicativo 1 € = 600 CRC. Nelle zone turistiche le carte sono accettate, ma con commissioni alte. Meglio portare contanti dall'Italia (meglio ancora dollari USA, che circolano accanto al colón) e cambiare solo in banche o uffici di cambio autorizzati: nei centri turistici, per strada, girano truffe con tassi «più favorevoli» che finiscono in banconote false.
+- **Budget indicativo:** oltre a voli e alloggi, per le attività extra calcola una spesa realistica di circa 250 € a testa. Le attività in Costa Rica sono care rispetto al resto del Centro America: una giornata di rafting o di zipline può costare 60-120 $ a persona. Lo confermo: le attività sono carissime e si paga quasi sempre in dollari.
+- **Mance:** nei ristoranti sono già incluse (10%). Per le guide dei tour si consigliano 5-10 $ a persona; all'autista, che ci ha accompagnato per quasi tutto l'itinerario, abbiamo lasciato circa 25 $ a persona a fine viaggio.
 - **Come ci si muove:** abbiamo noleggiato un van con autista per tutti i trasferimenti principali (attivo dalla mattina presto fino a sera, utilizzabile anche per spostamenti vicino all'hotel nei giorni con più tempo libero), più le barche per Tortuguero e per alcune escursioni. A San José, e per il transfer aeroporto-centro, **Uber è molto meglio dei taxi**: costa circa un terzo in meno ed è più sicuro, perché si può controllare la targa dell'auto in arrivo.
 - **Sicurezza:** a me ha dato una buona impressione. Non mi sono mai sentito particolarmente in pericolo, ma come in tutti i paesi del Centro America occhi sempre aperti. Di sera San José può essere un po' pericolosa, soprattutto per le donne da sole. Meglio muoversi sempre in compagnia o in Uber ed evitare il centro dopo il tramonto (Barrio Escalante e La California, i quartieri dove di solito si dorme, restano sicuri e vivaci anche la sera). Lo stesso vale per Puerto Viejo di notte.
 - **Dall'aeroporto al centro:** l'aeroporto **Juan Santamaría (SJO)** è ad Alajuela, una ventina di chilometri da San José, da mezz'ora a un'ora secondo il traffico · **Uber** circa 15-25 $, dal punto di ritiro indicato in app · **Taxi Aeropuerto** arancioni, gli unici autorizzati a caricare davanti agli arrivi, a tassametro, circa 25-35 $ · bus pubblici **TUASA** per San José dalla strada davanti al terminal, circa ogni 10 minuti dalle 4 alle 22, biglietto di circa 700 colones al conducente. All'uscita si viene avvicinati da chi offre passaggi «più economici»: meglio ignorarli e usare solo i taxi arancioni o l'app.
-- **Sim/dati:** una SIM locale da 5 GB costa circa 5$ (circa 3.000 colones). A San José ci sono i negozi Claro o Kölbi, anche in aeroporto (aperto dalla mattina presto fino a sera, solo contanti; conviene pagare in colones, il cambio è migliore).
+- **Sim/dati:** una SIM locale da 5 GB costa circa 5 $ (circa 3.000 colones). A San José ci sono i negozi Claro o Kölbi, anche in aeroporto (aperto dalla mattina presto fino a sera, solo contanti; conviene pagare in colones, il cambio è migliore).
 - **Cibo:** il cibo è normale, un misto tra americano e centroamericano, con tanto pollo, riso e fagioli. La frutta invece è incredibile. La cucina può essere piccante; a chi non piace basta dire sempre «no spicy» quando ordina. Il piatto base è il **casado** (riso, fagioli, carne o pesce, verdure e platano fritto), onnipresente nelle sode (i ristoranti tipici economici).
 - **Bagaglio:** zaino compatto da 40/50/60 litri o duffel bag, niente trolley. Torna utile uno zaino grande come «deposito» e uno più piccolo da riempire ogni giorno. Servono scarpe comode (niente trekking impegnativi, ma tanti chilometri a piedi), scarpette da scoglio obbligatorie per cascate e snorkeling, k-way o mantella antipioggia obbligatoria, repellente antizanzare ad alta protezione, crema solare (in loco costa carissima) e un adattatore tipo A/B (120V).
 - **Sul tempo, che qui è relativo:** è una delle cose più vere che ho imparato in questo viaggio. In Costa Rica **Google Maps non è affidabile** per i tempi reali: traffico, strade e imprevisti fanno parte del viaggio, come le attese lunghissime al ristorante. Per questo a pranzo spesso si sceglie il lunch box o il menu ordinato in anticipo, per non perdere le ore migliori alle cascate.
@@ -250,6 +250,9 @@ Appunti di viaggio:
 - [ ] foto della Cola de la Ballena
 - [ ] foto di bradipi e scimmie a Manuel Antonio
 - [ ] mappa del percorso San José-Puerto Viejo-Tortuguero-Sarapiquí-La Fortuna-Monteverde-Uvita-Manuel Antonio-San José
+
+## Nota su questa bozza
+Anno del viaggio ancora da confermare: nel periodo resta solo «metà-fine novembre».
 
 ## Tag
 `#costarica` `#puravida` `#tortuguero` `#arenal` `#monteverde` `#uvita` `#manuelantonio` `#americacentrale` `#natura`

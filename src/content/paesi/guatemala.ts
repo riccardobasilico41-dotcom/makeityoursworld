@@ -18,12 +18,12 @@ export const guatemala: Paese = {
     'novembre-aprile, stagione secca; da maggio a ottobre piove quasi ogni pomeriggio, con strade di montagna più difficili',
   durataConsigliata: '10-14 giorni per Antigua, Atitlán, Semuc Champey e Tikal senza correre',
   budgetIndicativo:
-    'tra i paesi più economici della regione: ostelli e comedor a pochi euro, shuttle turistici tra le tappe principali sui 15-30€ a tratta, trekking all\'Acatenango sui 60-120€',
+    'tra i paesi più economici della regione: ostelli e comedor a pochi euro, shuttle turistici tra le tappe principali sui 15-30 € a tratta, trekking all\'Acatenango sui 60-120 €',
   scheda: {
     documenti:
       'Passaporto con almeno 6 mesi di validità residua dall\'ingresso. Per i cittadini italiani e UE nessun visto per soggiorni turistici fino a 90 giorni. Il vaccino contro la febbre gialla è obbligatorio solo per chi arriva da un paese a rischio di trasmissione.',
     valuta:
-      'Quetzal guatemalteco (GTQ), indicativamente 1€ = 8-9 GTQ. Attenzione a una regola poco nota: non si possono portare nel paese più di 10.000 dollari USA (o l\'equivalente) in contanti, e chi la viola rischia pene severe.',
+      'Quetzal guatemalteco (GTQ), indicativamente 1 € = 8-9 GTQ. Attenzione a una regola poco nota: non si possono portare nel paese più di 10.000 dollari USA (o l\'equivalente) in contanti, e chi la viola rischia pene severe.',
     pagamenti:
       'Bancomat nelle città e nelle località turistiche: di solito sono il modo più semplice per avere quetzales. Hotel e ristoranti turistici accettano le carte, ma per mercati, lance sul lago Atitlán, tuk tuk e villaggi servono i contanti. Conviene tenere sempre tagli piccoli.',
     connettivita:
@@ -35,7 +35,7 @@ export const guatemala: Paese = {
     trasportiInterni:
       'Gli shuttle turistici collegano tutte le tappe principali (Antigua, Atitlán, Lanquín, Flores) e quasi tutti i viaggiatori usano quelli. I chicken bus costano pochissimo ma sono scomodi, poco adatti coi bagagli. Per il Petén conviene il volo interno da Città del Guatemala a Flores. Le strade sterrate sono spesso in cattivo stato e i tempi reali superano quasi sempre quelli delle mappe.',
     costoVita:
-      'Fra i paesi più economici del Centro America: un letto in ostello e i pasti nei comedor costano pochi euro, gli shuttle fra le tappe principali sui 15-30€ a tratta.',
+      'Fra i paesi più economici del Centro America: un letto in ostello e i pasti nei comedor costano pochi euro, gli shuttle fra le tappe principali sui 15-30 € a tratta.',
     lingua: 'Spagnolo, affiancato da oltre venti lingue maya ancora vive (k\'iche\', kaqchikel, q\'eqchi\', tz\'utujil e altre). L\'inglese è diffuso solo nei contesti turistici.',
     elettricita: '120V, 60Hz, prese di tipo A e B (standard nordamericano): serve un adattatore dall\'Italia.',
     fusoOrario: 'UTC-6 tutto l\'anno, senza ora legale: 7 ore indietro rispetto all\'Italia in ora legale, 8 in inverno.',

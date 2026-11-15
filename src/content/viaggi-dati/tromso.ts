@@ -27,7 +27,6 @@ export const tromsoMeta: TripMeta = {
     'Zona ben collegata anche per aggiungere whale watching o una notte in igloo di vetro con un minimo di organizzazione extra',
   ],
   criticita: [
-    'I ricordi diretti di questo viaggio sono pochi: la struttura viene da un documento di un\'agenzia di viaggi più che da un diario, quindi diversi dettagli restano da confermare',
     'Notte polare tra dicembre e gennaio: pochissime ore di luce diurna da mettere in conto nella pianificazione delle giornate',
     'La Norvegia è cara, e le escursioni organizzate (aurora, husky, sami) pesano parecchio sul budget complessivo',
   ],
@@ -45,7 +44,6 @@ export const tromsoMeta: TripMeta = {
     {
       titoloGiorno: 'Giorno 1 — Arrivo a Tromsø',
       tratta: 'Arrivo a Tromsø',
-      pernottamento: 'da confermare',
       statoPernottamento: 'da-confermare',
       intensita: 'leggero',
       destinazioneSlug: 'tromso',
@@ -55,7 +53,6 @@ export const tromsoMeta: TripMeta = {
     {
       titoloGiorno: 'Giorno 2 — Aurora chase in minibus',
       tratta: 'Tromsø e dintorni (escursione serale)',
-      pernottamento: 'da confermare',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
       destinazioneSlug: 'tromso',
@@ -65,7 +62,6 @@ export const tromsoMeta: TripMeta = {
     {
       titoloGiorno: 'Giorno 3 — Husky sledding',
       tratta: 'Dintorni di Tromsø',
-      pernottamento: 'da confermare',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
       destinazioneSlug: 'tromso',
@@ -75,7 +71,6 @@ export const tromsoMeta: TripMeta = {
     {
       titoloGiorno: 'Giorno 4 — Cultura sami e renne',
       tratta: 'Dintorni di Tromsø',
-      pernottamento: 'da confermare',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
       destinazioneSlug: 'tromso',
@@ -95,11 +90,11 @@ export const tromsoMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli', valore: undefined },
-    { etichetta: 'Alloggio (doppia centrale, indicativo)', valore: '140-170€/notte' },
-    { etichetta: 'Fjellheisen + Polaria + Polar Museum', valore: '90-95€ a persona' },
-    { etichetta: 'Aurora chase in minibus', valore: '100-160€ a persona' },
-    { etichetta: 'Husky sledding', valore: '170-320€ a persona' },
-    { etichetta: 'Esperienza sami con le renne', valore: '145-260€ a persona' },
+    { etichetta: 'Alloggio (doppia centrale, indicativo)', valore: '140-170 €/notte' },
+    { etichetta: 'Fjellheisen + Polaria + Polar Museum', valore: '90-95 € a persona' },
+    { etichetta: 'Aurora chase in minibus', valore: '100-160 € a persona' },
+    { etichetta: 'Husky sledding', valore: '170-320 € a persona' },
+    { etichetta: 'Esperienza sami con le renne', valore: '145-260 € a persona' },
     { etichetta: 'Cibo', valore: undefined },
     { etichetta: 'Totale', valore: undefined },
   ],

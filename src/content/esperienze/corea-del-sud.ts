@@ -19,7 +19,7 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
     durata: 'mezza giornata o giornata intera, 5-8 ore compresi i trasferimenti da Seoul',
     periodo:
       'tutto l\'anno. Le giornate limpide di autunno e inverno offrono la visibilità migliore dall\'Osservatorio di Dora. Le visite sono normalmente sospese il lunedì e nelle festività nazionali, e possono essere annullate senza preavviso per esercitazioni o tensioni al confine.',
-    costo: 'indicativamente 50-90€ a persona da Seoul, con pranzo spesso incluso',
+    costo: 'indicativamente 50-90 € a persona da Seoul, con pranzo spesso incluso',
     comePrenotare:
       'Solo tramite operatori autorizzati, con partenza da Seoul: non si accede in autonomia, né in auto né con i mezzi pubblici. Si prenota con qualche giorno di anticipo, comunicando i dati del passaporto; nei periodi di punta conviene farlo una settimana prima.',
     cosaPortare:
@@ -200,7 +200,7 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Qui la cucina di strada coreana si mangia nella sua forma originale. E l\'ora di punta, tra le sette e le nove di sera, è uno spettacolo a sé: centinaia di persone sedute ai banchi dentro un capannone di inizio Novecento.',
     durata: '1-2 ore',
     periodo: 'tutto l\'anno, la sera. Molti banchi chiudono la domenica o presto nel pomeriggio: l\'orario giusto è tra le sei e le nove.',
-    costo: 'indicativamente 3.000-8.000 won a porzione: si mangia molto bene con 10-15€ a testa',
+    costo: 'indicativamente 3.000-8.000 won a porzione: si mangia molto bene con 10-15 € a testa',
     comePrenotare: 'Niente da prenotare: ci si siede dove c\'è posto. Ai banchi più famosi, quelli finiti nei documentari, c\'è la coda: per evitarla basta spostarsi di dieci metri.',
     cosaPortare: 'Contanti per i banchi più piccoli, anche se quasi tutti accettano carta. E appetito, perché le porzioni arrivano in fretta.',
     perChiEAdatta:

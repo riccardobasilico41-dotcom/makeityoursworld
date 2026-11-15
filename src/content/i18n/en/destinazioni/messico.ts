@@ -30,7 +30,7 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: "Cancún international airport (CUN) is the main airport of the area. ADO buses leave the terminals for the downtown bus station in about 30-40 minutes (about 130-140 MXN, tickets at the ADO desk in arrivals or on ado.com.mx) and continue to Playa del Carmen and Tulum. The official taxi is paid at the desk inside the terminal: about 550-700 MXN to downtown, more to the hotel zone. Uber at the airport is not guaranteed. The Tren Maya's Cancún Aeropuerto station is not in the terminal: you need a shuttle. In arrivals many «transport staff» are selling timeshares: walk straight to the exit.",
     comeSpostarsi: 'Local buses (red R1 line) to the beaches, taxi/Uber for the rest of the city.',
     periodoMigliore: "I didn't note it for this stop; the general indication for the area applies, that is the dry season, from November to April.",
-    costi: "An expensive city: compared to the rest of the itinerary, prices are close to European ones. Low budget about 50-70 € a day per person (hostel or simple hotel downtown, street food at Parque las Palapas, R1 bus); mid 120-180 € (hotel downtown or a simple one in the hotel zone, Isla Mujeres by ferry, restaurant dinners); high from 300 € up (hotel zone resort, catamaran, Coco Bongo). Museo Maya 210 MXN, El Rey 145 MXN, Isla Mujeres ferry about 540 MXN return.",
+    costi: "An expensive city: compared to the rest of the itinerary, prices are close to European ones. Low budget about €50-70 a day per person (hostel or simple hotel downtown, street food at Parque las Palapas, R1 bus); mid €120-180 (hotel downtown or a simple one in the hotel zone, Isla Mujeres by ferry, restaurant dinners); high from €300 up (hotel zone resort, catamaran, Coco Bongo). Museo Maya 210 MXN, El Rey 145 MXN, Isla Mujeres ferry about 540 MXN return.",
     erroriDaEvitare: [
       "Not exchanging or withdrawing enough cash in the first two days: afterwards you're forced to stop constantly",
       "Expecting the postcard sea of the Riviera Maya: the city beaches are good but different from Tulum or Holbox",
@@ -44,7 +44,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Ferry from Puerto Juárez or Playa Tortugas; on the island you get around by rented golf cart.",
         quando: "Morning, to have time.",
         tempo: "Full day",
-        costo: "Ferry about 540 MXN return, about 27 €; golf cart 1,300-1,500 MXN a day for 4 people, about 65-75 € (from the trip, 2026)",
+        costo: "Ferry about 540 MXN return, about €27; golf cart 1,300-1,500 MXN a day for 4 people, about €65-75 (2026)",
         lat: 21.23333,
         lng: -86.73333,
         url: "https://www.ultramarferry.com/",
@@ -77,8 +77,8 @@ export const destinazioniMessico: Destinazione[] = [
         come: "R1 or R2 bus to km 16.5 of Boulevard Kukulcán; tickets at the desk or online from the INAH page.",
         quando: "In the hottest hours or on a rainy day.",
         tempo: "1.5-2 hours",
-        costo: "210 MXN for foreign visitors, about 10.50 €, San Miguelito included (INAH, 2026)",
-        orari: "Tuesday to Sunday 9am-5pm, last entry 4:30pm; closed Mondays (INAH, 2026)",
+        costo: "210 MXN for foreign visitors, about €10.50, San Miguelito included (2026)",
+        orari: "Tuesday to Sunday 9am-5pm, last entry 4:30pm; closed Mondays (2026)",
         lat: 21.07403,
         lng: -86.77727,
         url: "https://lugares.inah.gob.mx/en/node/4284",
@@ -99,7 +99,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Only on organised trips, snorkelling, diving or by glass-bottom boat, bookable on the official website.",
         quando: "Morning, when the sea is calmer and the water clearer.",
         tempo: "2-3 hours",
-        costo: "Snorkelling at Punta Nizuc 58 $, about 50 €; dives from 115 $, about 100 € (official website, 2026)",
+        costo: "Snorkelling at Punta Nizuc 58 $, about €50; dives from 115 $, about €100 (2026)",
         lat: 21.0763,
         lng: -86.8463,
         url: "https://musamexico.org/",
@@ -110,8 +110,8 @@ export const destinazioniMessico: Destinazione[] = [
         come: "At km 18 of Boulevard Kukulcán, on the lagoon side, by R1 or R2 bus.",
         quando: "Early morning or late afternoon: there is little shade.",
         tempo: "45 minutes",
-        costo: "145 MXN for foreign visitors, about 7 € (INAH, 2026)",
-        orari: "Daily 8am-5pm, last entry 4:30pm (INAH, 2026)",
+        costo: "145 MXN for foreign visitors, about €7 (2026)",
+        orari: "Daily 8am-5pm, last entry 4:30pm (2026)",
         lat: 21.06083,
         lng: -86.78111,
         url: "https://lugares.inah.gob.mx/en/node/4404",
@@ -132,7 +132,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Tickets from resellers.",
         quando: "Evening.",
         tempo: "An evening",
-        costo: "With open bar roughly from 90 $ up, about 78 €, depending on the night (from the trip, 2026)",
+        costo: "With open bar roughly from 90 $ up, about €78, depending on the night (2026)",
         lat: 21.1329,
         lng: -86.74721,
         consiglio: "For tickets try contacting Martin of Mexico Grand Tours: he has a bit of everything.",
@@ -190,13 +190,13 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Centre (Downtown)",
         perChi: "budget and local life",
         testo: "Cheap hotels, markets and restaurants, but far from the sea.",
-        fascia: "40-100 €",
+        fascia: "€40-100",
       },
       {
         nome: "Hotel Zone",
         perChi: "sea and resorts",
         testo: "Beaches and resorts, but high prices and tourist traffic.",
-        fascia: "150-350 €",
+        fascia: "€150-350",
       },
       {
         nome: "Isla Mujeres",
@@ -231,7 +231,7 @@ export const destinazioniMessico: Destinazione[] = [
       {
         nome: "Isla Contoy",
         distanza: "about 40 km north, by boat",
-        come: "Only on licensed day tours, often combined with Isla Mujeres; roughly 80-100 € per person (from the trip).",
+        come: "Only on licensed day tours, often combined with Isla Mujeres; roughly €80-100 per person.",
         testo: "A nature reserve for seabirds, with empty beaches and snorkelling on the reef. Entry is limited to 200 people a day: book ahead.",
       },
       {
@@ -332,7 +332,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Cenotes: follow the rules on sunscreen and showering before swimming."
       ],
     comeArrivare: "By van/car from Cancún (about 2-2.5 hours), often stopping at Río Lagartos on the way. By car you take the Cancún-Mérida toll motorway and exit at Valladolid; ADO buses leave from Cancún's downtown terminal and arrive at the Valladolid terminal, a few blocks from the main square. The Tren Maya has a station outside town: from there you need a taxi to the centre. Chichén Itzá is about 40 km away, three quarters of an hour by road; Mérida about one and a half to two hours, via Chichén Itzá and Izamal.",
-    costi: "I didn't note my costs in Valladolid; like the rest of the interior, it is a cheap stop. Low budget about 35-50 € a day per person (simple hotel in the centre, loncherías, colectivos to the cenotes); mid 80-130 € (boutique hotel, restaurants, Ek Balam or Chichén Itzá with a guide); high from 220 € (hacienda outside town, car with driver). Ek Balam 691 MXN for foreigners plus 100 MXN parking (INAH page); Chichén Itzá 105 MXN INAH plus 548 MXN state fee according to the INAH page (November 2026), while the local press reports 697 MXN with the single ticket.",
+    costi: "I didn't note my costs in Valladolid; like the rest of the interior, it is a cheap stop. Low budget about 35-50 € a day per person (simple hotel in the centre, loncherías, colectivos to the cenotes); mid 80-130 € (boutique hotel, restaurants, Ek Balam or Chichén Itzá with a guide); high from 220 € (hacienda outside town, car with driver). Ek Balam 691 MXN for foreigners plus 100 MXN parking; Chichén Itzá 105 MXN INAH plus 548 MXN state fee according to the INAH page (November 2026), while the local press reports 697 MXN with the single ticket.",
     luoghi: [
       {
         "nome": "Chichén Itzá",
@@ -341,7 +341,7 @@ export const destinazioniMessico: Destinazione[] = [
         "quando": "Morning, at opening, before the coaches and the heat.",
         "tempo": "3-4 hours",
         "costo": "697 MXN for foreigners, with a single federal and state ticket at one ticket office since 27 March 2026; free on Sundays only for Mexicans and residents. The INAH page instead gives 105 + 548 MXN (November 2026).",
-        "orari": "Daily 8-16, last entry at 15 (INAH page).",
+        "orari": "Daily 8-16, last entry at 15.",
         "lat": 20.68289,
         "lng": -88.56861,
         "url": "https://lugares.inah.gob.mx/es/node/4335",
@@ -353,7 +353,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "From Valladolid by taxi or car, about half an hour.",
         "quando": "Morning.",
         "tempo": "2 hours",
-        "costo": "210 MXN INAH plus 481 MXN state fee for foreigners, so 691 MXN, about 35 €, plus 100 MXN ejido parking (INAH page, 2026).",
+        "costo": "210 MXN INAH plus 481 MXN state fee for foreigners, so 691 MXN, about €35, plus 100 MXN ejido parking (2026).",
         "lat": 20.89111,
         "lng": -88.13639,
         "url": "https://www.inah.gob.mx/",
@@ -365,7 +365,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Taxi or bike from Ek Balam.",
         "quando": "Morning or early afternoon.",
         "tempo": "1-2 hours",
-        "costo": "Separate ticket from Ek Balam (from the trip)",
+        "costo": "Separate ticket from Ek Balam",
         "lat": 20.88828,
         "lng": -88.12041
       },
@@ -502,7 +502,7 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Historic centre",
         "perChi": "everything on foot",
         "testo": "Main square, cantinas and loncherías nearby, hotels a few steps away.",
-        "fascia": "55-110 €"
+        "fascia": "€55-110"
       },
       {
         "nome": "Sisal barrio and Calzada de los Frailes",
@@ -520,13 +520,13 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Izamal",
         "distanza": "about 1.5 hours by car",
         "come": "Car, or bus with a change; often a stop between Chichén Itzá and Mérida.",
-        "testo": "The yellow town with the Franciscan convent built on top of a Maya pyramid and the Kinich Kakmó pyramid among the houses (free entry, daily 8-17, INAH page)."
+        "testo": "The yellow town with the Franciscan convent built on top of a Maya pyramid and the Kinich Kakmó pyramid among the houses (free entry, daily 8-17)."
       },
       {
         "nome": "Cobá",
         "distanza": "about 1 hour by car",
         "come": "Car or colectivo towards Tulum.",
-        "testo": "The Maya site between two lagoons, with long sacbés to ride by bike and the Nohoch Mul pyramid (210 MXN for foreigners, daily 8-17, last entry at 16, INAH page)."
+        "testo": "The Maya site between two lagoons, with long sacbés to ride by bike and the Nohoch Mul pyramid (210 MXN for foreigners, daily 8-17, last entry at 16)."
       },
       {
         "nome": "Las Coloradas",
@@ -625,7 +625,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Enter from the square; the murals are along the main staircase and in the rooms upstairs.",
         quando: "Morning, before the heat.",
         tempo: "30-45 minutes",
-        costo: "Free entry (from the trip)",
+        costo: "Free entry",
         lat: 20.96783,
         lng: -89.62336,
       },
@@ -644,8 +644,8 @@ export const destinazioniMessico: Destinazione[] = [
         come: "On foot from the centre or by taxi; the museum entrance is on Calle 43.",
         quando: "The museum in the morning, the avenue in the late afternoon.",
         tempo: "2-3 hours",
-        costo: "Museum 210 MXN for foreign visitors, about 10.50 € (INAH, 2026)",
-        orari: "Museum Tuesday to Sunday 8am-5pm, last entry 4:30pm; closed Mondays (INAH, 2026)",
+        costo: "Museum 210 MXN for foreign visitors, about €10.50 (2026)",
+        orari: "Museum Tuesday to Sunday 8am-5pm, last entry 4:30pm; closed Mondays (2026)",
         lat: 20.97819,
         lng: -89.61951,
         url: "https://lugares.inah.gob.mx/en/node/4258",
@@ -704,7 +704,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Bus or car from Mérida.",
         quando: "Daytime.",
         tempo: "Full day",
-        costo: "Free sunbeds at beach clubs with a drink or meal (from the trip)",
+        costo: "Free sunbeds at beach clubs with a drink or meal",
         lat: 21.28278,
         lng: -89.66361,
         consiglio: "A mid-trip break without long transfers.",
@@ -752,19 +752,19 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Historic centre",
         perChi: "on foot to everything",
         testo: "Boutique hotels in colonial houses, near restaurants and the square.",
-        fascia: "50-150 €",
+        fascia: "€50-150",
       },
       {
         nome: "Paseo de Montejo",
         perChi: "elegance",
         testo: "Avenue of historic mansions, quieter.",
-        fascia: "100-250 €",
+        fascia: "€100-250",
       },
       {
         nome: "Santa Lucía and Santa Ana",
         perChi: "those who want a quiet neighbourhood within walking distance of the centre",
         testo: "The barrios north of the square, with restored colonial houses, small hotels and restaurants, 10-15 minutes on foot from the Plaza Grande.",
-        fascia: "60-180 €",
+        fascia: "€60-180",
       },
     ],
       "sapori": [
@@ -795,13 +795,13 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Uxmal",
         distanza: "about 1 hour 15 by car",
         come: "Car along Federal Highway 261 or an organised tour; with the Ruta Puuc it becomes a full day.",
-        testo: "The great Puuc city, with the Pyramid of the Magician and the Nunnery Quadrangle. 566 MXN for foreign visitors, open daily 8am-4pm, last entry 3pm (INAH page, November 2026).",
+        testo: "The great Puuc city, with the Pyramid of the Magician and the Nunnery Quadrangle. 566 MXN for foreign visitors, open daily 8am-4pm, last entry 3pm (November 2026).",
       },
       {
         nome: "Dzibilchaltún",
         distanza: "about 12 km north, 20-30 minutes",
         come: "Car or taxi along the road to Progreso, then the Chablekal exit.",
-        testo: "A Maya site with the Temple of the Seven Dolls, the Museum of the Maya People and the Xlacah cenote, where you can swim. At the equinoxes the sun shines through the temple door. 105 MXN, daily 8am-4pm (INAH, 2026).",
+        testo: "A Maya site with the Temple of the Seven Dolls, the Museum of the Maya People and the Xlacah cenote, where you can swim. At the equinoxes the sun shines through the temple door. 105 MXN, daily 8am-4pm (2026).",
       },
       {
         nome: "Cuzamá and Homún cenotes",
@@ -827,7 +827,7 @@ export const destinazioniMessico: Destinazione[] = [
       },
       {
         domanda: "Can you visit Uxmal as a day trip from Mérida?",
-        risposta: "Yes, it is about an hour and a quarter by car. Go in at the 8am opening because of the heat; the foreign visitor ticket is 566 MXN (INAH, November 2026).",
+        risposta: "Yes, it is about an hour and a quarter by car. Go in at the 8am opening because of the heat; the foreign visitor ticket is 566 MXN (November 2026).",
       },
       {
         domanda: "Do you need a car in Mérida?",
@@ -917,7 +917,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "On foot, on Calle 8 between 57 and 59.",
         quando: "Morning; worth seeing before going to Edzná.",
         tempo: "1 hour",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Tuesday to Sunday 8 am-5 pm, closed Monday",
         lat: 19.84629,
         lng: -90.53803,
@@ -973,7 +973,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Taxi from the centre, about 10 minutes.",
         quando: "Late afternoon for the sunset.",
         tempo: "1-2 hours",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Tuesday to Sunday 8 am-5 pm, closed Monday",
         lat: 19.82468,
         lng: -90.56849,
@@ -985,7 +985,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Taxi from the centre, about 10-15 minutes.",
         quando: "Morning; arrive at least an hour before closing.",
         tempo: "1 hour",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Tuesday to Sunday 8 am-5 pm, closed Monday",
         lat: 19.86052,
         lng: -90.5105,
@@ -997,7 +997,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Car, taxi or tour from Campeche, about 55 km and an hour's drive.",
         quando: "Early morning, before the heat.",
         tempo: "Half a day",
-        costo: "210 MXN for foreigners, about 10 € (2026); the site museum is included",
+        costo: "210 MXN for foreigners, about €10 (2026); the site museum is included",
         orari: "Daily 8 am-5 pm, last entry 4.30 pm",
         lat: 19.59678,
         lng: -90.22908,
@@ -1031,19 +1031,19 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Fortified historic centre",
         perChi: "everything on foot",
         testo: "Hotels in colonial houses, very close to the cathedral and the seafront. Rooms facing Calle 59 hear the bars in the evening.",
-        fascia: "45-100 €",
+        fascia: "€45-100",
       },
       {
         nome: "Malecón",
         perChi: "sea views and a pool",
         testo: "Larger, more modern hotels on the seafront, 5-10 minutes' walk from the walls. Handy if you travel by car and need parking.",
-        fascia: "55-110 €",
+        fascia: "€55-110",
       },
       {
         nome: "San Román and Guadalupe",
         perChi: "lower budgets",
         testo: "Neighbourhoods outside the walls with small guesthouses and apartments, quiet at night and 10-15 minutes' walk from the square.",
-        fascia: "35-70 €",
+        fascia: "€35-70",
       },
     ],
       "sapori": [
@@ -1195,7 +1195,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car or taxi, about an hour inland from the village, on road 293 past Lázaro Cárdenas.",
         quando: "At opening time, or on days with no ships in port.",
         tempo: "1.5-2 hours",
-        costo: "155 MXN for foreigners, about 8 € (2026)",
+        costo: "155 MXN for foreigners, about €8 (2026)",
         orari: "Daily 9 am-3 pm, last entry 2.30 pm",
         lat: 19.00069,
         lng: -88.23119,
@@ -1207,7 +1207,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, turn-off at km 93 of Federal Highway 186 Escárcega-Chetumal.",
         quando: "During the transfer, keeping to time: arriving late wrecks the rest of the day.",
         tempo: "1 hour",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4.45 pm",
         lat: 18.56019,
         lng: -89.94436,
@@ -1249,19 +1249,19 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "On the waterfront",
         perChi: "everything on foot",
         testo: "Hotels in every price range, with restaurants and beach clubs on the doorstep; noisier on cruise days.",
-        fascia: "35-110 €",
+        fascia: "€35-110",
       },
       {
         nome: "Coast road to the south",
         perChi: "peace and quiet",
         testo: "Cabañas and small beach hotels, away from the ships, a few minutes by bike or taxi from the village.",
-        fascia: "70-140 €",
+        fascia: "€70-140",
       },
       {
         nome: "Bacalar as a base",
         perChi: "those who also want the lagoon",
         testo: "Lodging on the lagoon of seven colours, an hour and a half away: handy if you continue to Chetumal or Calakmul and visit Mahahual for the day.",
-        fascia: "45-90 €",
+        fascia: "€45-90",
       },
     ],
       "sapori": [
@@ -1386,7 +1386,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Do not walk on the stromatolites: they are fragile organisms."
       ],
     comeArrivare: "On an organised tour from Mahahual, or independently by van or car. From Cancún it is about 4-5 hours by car along Federal Highway 307, passing Tulum; there are also ADO buses, which stop in town, and the Tren Maya with its Bacalar station, outside the centre. The nearest airport is Chetumal, about 40 km away, reached by taxi. From Xpujil and Calakmul it takes about 2 hours by road. Entering Quintana Roo from Campeche, clocks go forward one hour.",
-    costi: "I didn't note the price of the tour. The two-hour boat tour is agreed at the pier or at an agency and paid in cash; the Fuerte de San Felipe has a ticket of a few euros; many piers on the lagoon belong to hotels or private clubs, with paid entry (from the trip). Indicative budget per person per day: low 40-60 € (room in town, simple food), mid 100-160 € (lagoon hotel, boat tour, kayak), high from 250 € (design hotel on the water, private outings).",
+    costi: "I didn't note the price of the tour. The two-hour boat tour is agreed at the pier or at an agency and paid in cash; the Fuerte de San Felipe has a ticket of a few euros; many piers on the lagoon belong to hotels or private clubs, with paid entry. Indicative budget per person per day: low 40-60 € (room in town, simple food), mid 100-160 € (lagoon hotel, boat tour, kayak), high from 250 € (design hotel on the water, private outings).",
     luoghi: [
       {
         "nome": "Bacalar Lagoon",
@@ -1404,7 +1404,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Tour booked through the hotel or on the lakefront, the day before.",
         "quando": "Morning.",
         "tempo": "3 hours",
-        "costo": "Price agreed at the pier or at an agency, in cash (from the trip)."
+        "costo": "Price agreed at the pier or at an agency, in cash."
       },
       {
         "nome": "Canal de los Piratas and Isla de los Pájaros",
@@ -1466,7 +1466,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "On foot from the centre.",
         "quando": "Morning.",
         "tempo": "1 hour",
-        "costo": "A ticket of a few euros (from the trip)",
+        "costo": "A ticket of a few euros",
         "orari": "Closing days to check on site.",
         "lat": 18.67694,
         "lng": -88.39528
@@ -1502,13 +1502,13 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Bacalar lakefront",
         "perChi": "lagoon views",
         "testo": "Hotels and cabañas right on the water, pricier, often with a pier and kayaks.",
-        "fascia": "110-230 €"
+        "fascia": "€110-230"
       },
       {
         "nome": "Town centre",
         "perChi": "budget",
         "testo": "Cheaper, a few minutes from the lagoon.",
-        "fascia": "45-90 €"
+        "fascia": "€45-90"
       },
       {
         "nome": "South, Cocalitos and Los Rápidos",
@@ -1527,13 +1527,13 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Kohunlich",
         "distanza": "about 1 hour west",
         "come": "Car along Federal Highway 186 towards Escárcega.",
-        "testo": "The Temple of the Masks, with large stucco faces, in a site set in palm forest. INAH ticket, last entry at 16 local time (from the trip)."
+        "testo": "The Temple of the Masks, with large stucco faces, in a site set in palm forest. INAH ticket, last entry at 16 local time."
       },
       {
         "nome": "Chetumal and Oxtankah",
         "distanza": "about 40 km, 40 minutes",
         "come": "Car, bus or colectivo.",
-        "testo": "The Museo de la Cultura Maya and the seafront of Quintana Roo's capital, and a little to the north the Oxtankah site (145 MXN for foreigners, daily 9-17, INAH page)."
+        "testo": "The Museo de la Cultura Maya and the seafront of Quintana Roo's capital, and a little to the north the Oxtankah site (145 MXN for foreigners, daily 9-17)."
       },
       {
         "nome": "Mahahual",
@@ -1910,7 +1910,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Shared catamaran with ferry, lunch and open bar, or a private boat with the ferry paid separately: compare prices from several operators.",
         "quando": "Morning.",
         "tempo": "Full day",
-        "costo": "Catamaran about 1,670 MXN per person, about 85 €, with return ferry; private boat about 700 MXN per person plus the ferry, about 580 MXN return (from the trip).",
+        "costo": "Catamaran about 1,670 MXN per person, about €85, with return ferry; private boat about 700 MXN per person plus the ferry, about 580 MXN return.",
         "lat": 20.43,
         "lng": -87.02
       },
@@ -1940,8 +1940,8 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "On foot or by bike from Parque Fundadores, inside Playacar.",
         "quando": "Morning.",
         "tempo": "30 minutes",
-        "costo": "Free entry (INAH page, 2026).",
-        "orari": "Daily 8-17 (INAH page).",
+        "costo": "Free entry (2026).",
+        "orari": "Daily 8-17.",
         "lat": 20.60728,
         "lng": -87.09289,
         "url": "https://lugares.inah.gob.mx/es/node/4354"
@@ -1991,7 +1991,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Shuttles from the centre or taxi, about 10 minutes south.",
         "quando": "Full day, until the evening show.",
         "tempo": "Full day",
-        "orari": "Daily 8:30-22 (official site).",
+        "orari": "Daily 8:30-22.",
         "lat": 20.57806,
         "lng": -87.11917,
         "url": "https://www.xcaret.com/"
@@ -2027,7 +2027,7 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Centre (5th Avenue)",
         "perChi": "nightlife",
         "testo": "Everything on foot, but noisy and expensive; better a side street away from Calle 12.",
-        "fascia": "45-100 €"
+        "fascia": "€45-100"
       },
       {
         "nome": "Playacar",
@@ -2149,8 +2149,8 @@ export const destinazioniMessico: Destinazione[] = [
         "Bioluminescence: depends on lunar phases and weather, ask on site the same day.",
         "On Holbox beaches there is sargassum in some months: it is not a flaw of the island but must be factored in."
       ],
-    comeArrivare: "Ferry from Chiquilà (25-30 minutes), reached by van/car from Cancún. From Cancún to Chiquilá it is about two and a half hours by road; if you drive, leave the car in Chiquilá's paid guarded car parks, because tourist cars are not allowed on the island. The ferry costs about 330 MXN each way (about 16 €), with frequent sailings from morning to evening (from the trip, 2026). Golf cart taxis wait at the Holbox pier: agree the price before getting in. There is only one ATM on the island: arrive with enough cash.",
-    costi: "I didn't note the overall cost of Holbox; prices for the individual excursions are in the entries above and in the experience pages. Roughly: whale shark 3,000-4,000 MXN per person plus the park wristband, 3 Islas 750-900 MXN, kayak for the bioluminescence 400-500 MXN, horse ride 850 MXN for an hour and a half, ferry 330 MXN each way (from the trip, 2026). Budget per person per day: low 50-70 € (hostel in the village, street food), mid 120-180 € (hotel in the village and one excursion), high from 300 € (beach hotel and whale shark).",
+    comeArrivare: "Ferry from Chiquilà (25-30 minutes), reached by van/car from Cancún. From Cancún to Chiquilá it is about two and a half hours by road; if you drive, leave the car in Chiquilá's paid guarded car parks, because tourist cars are not allowed on the island. The ferry costs about 330 MXN each way (about €16), with frequent sailings from morning to evening (2026). Golf cart taxis wait at the Holbox pier: agree the price before getting in. There is only one ATM on the island: arrive with enough cash.",
+    costi: "I didn't note the overall cost of Holbox; prices for the individual excursions are in the entries above and in the experience pages. Roughly: whale shark 3,000-4,000 MXN per person plus the park wristband, 3 Islas 750-900 MXN, kayak for the bioluminescence 400-500 MXN, horse ride 850 MXN for an hour and a half, ferry 330 MXN each way (2026). Budget per person per day: low 50-70 € (hostel in the village, street food), mid 120-180 € (hotel in the village and one excursion), high from 300 € (beach hotel and whale shark).",
     luoghi: [
       {
         "nome": "Whale shark",
@@ -2158,7 +2158,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Tour from Holbox harbour, with a guide; departure around 7-8 and back in the early afternoon.",
         "quando": "The season runs roughly from mid-May to mid-September, with July and August the best months; trips run under CONANP permits.",
         "tempo": "Half a day",
-        "costo": "Shared tour roughly 3,000-4,000 MXN per person, about 150-200 €, plus the park wristband if required (from the trip, 2026).",
+        "costo": "Shared tour roughly 3,000-4,000 MXN per person, about €150-200, plus the park wristband if required (2026).",
         "consiglio": "Biodegradable sunscreen, a long-sleeved top and water; a life jacket in the water is mandatory."
       },
       {
@@ -2167,7 +2167,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Ask locally on the day: it depends on the moon phase and the weather.",
         "quando": "Evening, best on moonless nights; it is best seen from April to November.",
         "tempo": "2 hours",
-        "costo": "Guided kayak 500 MXN per person for groups over 8, 400 MXN under 8 (from the trip).",
+        "costo": "Guided kayak 500 MXN per person for groups over 8, 400 MXN under 8.",
         "lat": 21.54307,
         "lng": -87.35312,
         "consiglio": "Walking is not recommended: about an hour each way, almost all of it in the dark."
@@ -2178,7 +2178,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Prices vary by operator, some include hotel pick-up. The Yalahau cenote is paid separately.",
         "quando": "Morning.",
         "tempo": "Half a day",
-        "costo": "750-900 MXN per person, about 38-45 € (about 1,100 MXN with transfer); Yalahau cenote about 200 MXN (from the trip).",
+        "costo": "750-900 MXN per person, about €38-45 (about 1,100 MXN with transfer); Yalahau cenote about 200 MXN.",
         "lat": 21.45715,
         "lng": -87.40564
       },
@@ -2188,7 +2188,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Shared boat tour; compare several operators and what the price includes.",
         "quando": "Full day.",
         "tempo": "Full day",
-        "costo": "Roughly 80-100 dollars per person (from the trip).",
+        "costo": "Roughly 80-100 dollars per person.",
         "lat": 21.6058,
         "lng": -87.1033
       },
@@ -2237,7 +2237,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Booked in the village.",
         "quando": "Late afternoon.",
         "tempo": "1.5 hours",
-        "costo": "850 MXN per person, about 43 € (from the trip)."
+        "costo": "850 MXN per person, about €43."
       }
     ],
     programmi: [
@@ -2270,13 +2270,13 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Village centre",
         "perChi": "everything on foot",
         "testo": "Restaurants, shops and hotels close to the square, car-free sand streets. In low season prices drop a lot.",
-        "fascia": "50-170 €"
+        "fascia": "€50-170"
       },
       {
         "nome": "Beach outside the village",
         "perChi": "calm",
         "testo": "Seafront hotels, more isolated.",
-        "fascia": "150-400 €"
+        "fascia": "€150-400"
       },
       {
         "nome": "Towards Punta Cocos",
@@ -2359,7 +2359,7 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: "Uxmal is about 80 km south of Mérida on Federal Highway 261 towards Santa Elena: by car it takes about an hour and a quarter. Second-class buses also run from Mérida to Uxmal a few times a day, and many day tours go there. For the Ruta Puuc proper you need a car or a driver: the smaller sites lie along a country road, the 31, with no public transport. From Uxmal to Campeche is about 2.5 hours. The nearest airport is Mérida (MID).",
     comeSpostarsi: 'For the Puuc Route you need a car or a tour: the sites are along a country road.',
     periodoMigliore: 'November to April, the dry season; from April the heat at the shadeless sites is intense.',
-    costi: "Uxmal 105 MXN INAH ticket plus 461 MXN CULTUR state fee for foreigners; Kabah 155 MXN; Labná, Sayil and Xlapak 145 MXN each (2026). Rough daily budget per person: low 50-70 € (simple lodging in Santa Elena, tickets, meals in the villages); mid 100-150 € (hotel near the site, rental car shared by two, a guide at Uxmal); high from 200 € (upscale hotel by the ruins or in a hacienda, private driver).",
+    costi: "Uxmal 105 MXN INAH ticket plus 461 MXN CULTUR state fee for foreigners; Kabah 155 MXN; Labná, Sayil and Xlapak 145 MXN each (2026). Rough daily budget per person: low €50-70 (simple lodging in Santa Elena, tickets, meals in the villages); mid €100-150 (hotel near the site, rental car shared by two, a guide at Uxmal); high from €200 (upscale hotel by the ruins or in a hacienda, private driver).",
     erroriDaEvitare: [
       'Arriving at Uxmal in the afternoon: it closes at 4 pm, with last entry at 3 pm',
       'Bringing food to the site entrance: it is not allowed',
@@ -2373,7 +2373,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "From Mérida on Federal Highway 261 towards Santa Elena. INAH ticket plus CULTUR state fee; licensed guides are hired at the ticket office.",
         quando: "At opening, 8 am: it closes earlier than other sites and the afternoon heat is strong.",
         tempo: "2-3 hours",
-        costo: "105 MXN INAH plus 461 MXN CULTUR for foreigners, i.e. 566 MXN, about 28 €; Yucatán residents don't pay the state fee (2026)",
+        costo: "105 MXN INAH plus 461 MXN CULTUR for foreigners, i.e. 566 MXN, about €28; Yucatán residents don't pay the state fee (2026)",
         orari: "Daily 8 am-4 pm, last entry 3 pm",
         lat: 20.35944,
         lng: -89.77139,
@@ -2386,7 +2386,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, about 20 km south of Uxmal, on Federal Highway 261.",
         quando: "Morning or early afternoon, after Uxmal.",
         tempo: "1 hour",
-        costo: "155 MXN for foreigners, about 8 € (2026)",
+        costo: "155 MXN for foreigners, about €8 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4 pm",
         lat: 20.24843,
         lng: -89.6473,
@@ -2398,7 +2398,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car along the Ruta Puuc, between Kabah and Labná.",
         quando: "Morning, before the heat.",
         tempo: "45 minutes",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4 pm",
         lat: 20.17776,
         lng: -89.65218,
@@ -2410,7 +2410,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, at km 10 of the Ruta Puuc road, between Sayil and Labná.",
         quando: "Along the Ruta Puuc loop; it closes an hour earlier than the others.",
         tempo: "30 minutes",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-4 pm",
         lat: 20.17361,
         lng: -89.60833,
@@ -2422,7 +2422,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, at the end of the Ruta Puuc.",
         quando: "Late morning, before continuing to Oxkutzcab or Campeche.",
         tempo: "1 hour",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4 pm",
         lat: 20.1725,
         lng: -89.579,
@@ -2445,7 +2445,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "On foot or by car from the Uxmal car park, across the road.",
         quando: "After visiting Uxmal, in the hot hours.",
         tempo: "1-1.5 hours",
-        costo: "280 MXN, about 14 €, with reductions for children and students (2026)",
+        costo: "280 MXN, about €14, with reductions for children and students (2026)",
         orari: "Daily 9 am-7.30 pm",
         url: "https://www.choco-storymexico.com/",
       },
@@ -2464,7 +2464,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, a stop on the road from Mérida, about 30 km south of the city.",
         quando: "Morning, on the way to Uxmal; closed on Sunday.",
         tempo: "1 hour",
-        costo: "200 MXN per person, about 10 € (2026)",
+        costo: "200 MXN per person, about €10 (2026)",
         orari: "Monday-Friday 9 am-6 pm, last tour 5 pm; Saturday 9 am-2 pm; closed Sunday and holidays",
         lat: 20.74472,
         lng: -89.72222,
@@ -2491,7 +2491,7 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Around Uxmal",
         perChi: "those who want to enter at opening",
         testo: "A few hotels minutes from the site, some with a pool in the forest; book ahead.",
-        fascia: "70-140 €",
+        fascia: "€70-140",
       },
       {
         nome: "Santa Elena",
@@ -2502,7 +2502,7 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Mérida as a base",
         perChi: "services and evenings out",
         testo: "You do Uxmal as a day trip with an hour and a quarter each way, giving up on arriving at opening time.",
-        fascia: "50-150 €",
+        fascia: "€50-150",
       },
     ],
       "sapori": [
@@ -2602,7 +2602,7 @@ export const destinazioniMessico: Destinazione[] = [
     erroriDaEvitare: [
       'Driving yourself to the waterfalls on Federal Highway 199 without checking the advice: the UK Foreign Office advises against all but essential travel on that stretch',
       'Arriving at midday: intense heat and crowds',
-      'Looking for the site museum on a Monday: it is open Tuesday to Sunday (INAH page)',
+      'Looking for the site museum on a Monday: it is open Tuesday to Sunday',
     ],
       "sapori": [
         {
@@ -2619,8 +2619,8 @@ export const destinazioniMessico: Destinazione[] = [
         "The UK Foreign Office advises against all but essential travel within 40 km of the Guatemalan border: Yaxchilán and Bonampak are in that zone.",
         "Strong repellent: there are many mosquitoes in the park."
       ],
-    comeArrivare: "Tren Maya (Palenque station) or ADO bus; by car on Federal Highway 186, turning off at km 114 towards Palenque (INAH page). From Campeche it takes about 5-6 hours by car, from Xpujil and Calakmul another 5-6; Palenque is on Central time, like Campeche, one hour behind Quintana Roo. The airport with most flights is Villahermosa, from which you reach Palenque on the same Federal 186. From town to the site, about 7 km inside the national park, you go by taxi or by the colectivos running along the El Panchán road. Check Tren Maya times and tickets on the official site a few days ahead.",
-    costi: "210 MXN INAH entry for foreigners, plus 215 MXN national park fee (CONANP) (INAH page, November 2026). Indicative budget per person per day: low 35-50 € (room in town, comedores, colectivo to the site); mid 70-110 € (cabaña in the forest along the site road, guide at the site); high from 180 € (hotel in the jungle, private tour to Yaxchilán and Bonampak). Yaxchilán: free INAH entry but the boat costs about 1,200 MXN; Bonampak 210 MXN plus community fees (INAH page).",
+    comeArrivare: "Tren Maya (Palenque station) or ADO bus; by car on Federal Highway 186, turning off at km 114 towards Palenque. From Campeche it takes about 5-6 hours by car, from Xpujil and Calakmul another 5-6; Palenque is on Central time, like Campeche, one hour behind Quintana Roo. The airport with most flights is Villahermosa, from which you reach Palenque on the same Federal 186. From town to the site, about 7 km inside the national park, you go by taxi or by the colectivos running along the El Panchán road. Check Tren Maya times and tickets on the official site a few days ahead.",
+    costi: "210 MXN INAH entry for foreigners, plus 215 MXN national park fee (CONANP) (November 2026). Indicative budget per person per day: low €35-50 (room in town, comedores, colectivo to the site); mid €70-110 (cabaña in the forest along the site road, guide at the site); high from €180 (hotel in the jungle, private tour to Yaxchilán and Bonampak). Yaxchilán: free INAH entry but the boat costs about 1,200 MXN; Bonampak 210 MXN plus community fees.",
     luoghi: [
       {
         "nome": "Palenque archaeological zone",
@@ -2628,8 +2628,8 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Tickets at the visitor centre (CATVI) or online. You pay the INAH entry and the national park fee.",
         "quando": "Best at opening, when the forest is cool.",
         "tempo": "3-4 hours",
-        "costo": "210 MXN INAH plus 215 MXN CONANP for foreigners, about 21 € in total (INAH page, November 2026).",
-        "orari": "Daily 8-17, last entry at 16 (INAH page).",
+        "costo": "210 MXN INAH plus 215 MXN CONANP for foreigners, about €21 in total (November 2026).",
+        "orari": "Daily 8-17, last entry at 16.",
         "lat": 17.4836,
         "lng": -92.0468,
         "url": "https://lugares.inah.gob.mx/en/node/4853",
@@ -2685,7 +2685,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "On the site road. Entry is included in the archaeological zone ticket.",
         "quando": "After the visit, coming down the waterfall trail.",
         "tempo": "1 hour",
-        "orari": "Tuesday to Sunday, 8:30 to 17 (INAH page).",
+        "orari": "Tuesday to Sunday, 8:30 to 17.",
         "url": "https://lugares.inah.gob.mx/en/node/4293"
       },
       {
@@ -2735,13 +2735,13 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Palenque town",
         "perChi": "budget and transport",
         "testo": "Cheaper, close to buses and services.",
-        "fascia": "30-70 €"
+        "fascia": "€30-70"
       },
       {
         "nome": "Site road (El Panchán)",
         "perChi": "those who want the forest",
         "testo": "Places to stay in the vegetation, closer to the park entrance, with howler monkeys in the morning.",
-        "fascia": "60-120 €"
+        "fascia": "€60-120"
       },
       {
         "nome": "La Cañada",
@@ -2754,7 +2754,7 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Yaxchilán and Bonampak",
         "distanza": "about 3 hours by road towards the Usumacinta river",
         "come": "Day tour from town, leaving at dawn; Yaxchilán is reached only by boat from Frontera Corozal.",
-        "testo": "Yaxchilán, on the river at the border with Guatemala, has carved lintels in the forest (free entry, boat about 1,200 MXN); Bonampak the best-preserved Maya murals (210 MXN for foreigners plus 40 MXN community fee and 250 MXN internal transport). Both open 8-16:30, last entry at 16 (INAH pages). Check the latest advice before leaving: the area is close to the border."
+        "testo": "Yaxchilán, on the river at the border with Guatemala, has carved lintels in the forest (free entry, boat about 1,200 MXN); Bonampak the best-preserved Maya murals (210 MXN for foreigners plus 40 MXN community fee and 250 MXN internal transport). Both open 8-16:30, last entry at 16. Check the latest advice before leaving: the area is close to the border."
       },
       {
         "nome": "Misol-Ha and Agua Azul",
@@ -2770,11 +2770,11 @@ export const destinazioniMessico: Destinazione[] = [
       },
       {
         "domanda": "What time should you enter the site?",
-        "risposta": "At the 8 am opening, when the forest is cool and the groups haven't arrived yet; last entry is at 16 (INAH page)."
+        "risposta": "At the 8 am opening, when the forest is cool and the groups haven't arrived yet; last entry is at 16."
       },
       {
         "domanda": "How much does Palenque cost?",
-        "risposta": "For foreigners 210 MXN INAH entry plus 215 MXN national park fee, with the site museum included (INAH page, November 2026)."
+        "risposta": "For foreigners 210 MXN INAH entry plus 215 MXN national park fee, with the site museum included (November 2026)."
       },
       {
         "domanda": "Can you go to Misol-Ha and Agua Azul?",
@@ -2824,7 +2824,7 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: "From Federal Highway 186 (Escárcega-Chetumal): at the km 95 turn-off, by the ejido of Conhuas, you enter the reserve road, and the site is at km 60: about an hour and a half of slow driving from Xpujil. Xpujil is about 2 hours from Bacalar and 5-6 hours from Palenque. The Tren Maya has stations at Xpujil and Calakmul and ADO buses stop at Xpujil, but there is no known public transport to the ruins: you need a car or a tour. The nearest airports are Chetumal and Campeche.",
     comeSpostarsi: 'By car or on a tour from Xpujil.',
     periodoMigliore: 'November to April, the dry season; in the rainy season the forest is more humid and full of mosquitoes.',
-    costi: "210 MXN INAH ticket for foreigners, plus 215 MXN reserve fee (CONANP) (2026); Becán 155 MXN, Xpuhil, Chicanná and Balamkú 145 MXN, Hormiguero free. Bring cash: ATMs in Xpujil are few. Rough daily budget per person: low 40-60 € (simple hotel in Xpujil, tickets, your own food); mid 90-130 € (eco-lodge on the reserve road, rental car); high from 180 € (better lodges and a private guide for the day in the reserve).",
+    costi: "210 MXN INAH ticket for foreigners, plus 215 MXN reserve fee (CONANP) (2026); Becán 155 MXN, Xpuhil, Chicanná and Balamkú 145 MXN, Hormiguero free. Bring cash: ATMs in Xpujil are few. Rough daily budget per person: low €40-60 (simple hotel in Xpujil, tickets, your own food); mid €90-130 (eco-lodge on the reserve road, rental car); high from €180 (better lodges and a private guide for the day in the reserve).",
     erroriDaEvitare: [
       'Leaving late: last entry is at 4 pm and the reserve road is long and narrow',
       'Leaving the marked trails',
@@ -2838,7 +2838,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "From the km 95 turn-off on Federal Highway 186, 60 km of road through the reserve. You pay the INAH ticket and the CONANP reserve fee.",
         quando: "Leave Xpujil at dawn: the road is long and narrow.",
         tempo: "Full day",
-        costo: "210 MXN INAH plus 215 MXN CONANP for foreigners, about 21 € in total (2026)",
+        costo: "210 MXN INAH plus 215 MXN CONANP for foreigners, about €21 in total (2026)",
         orari: "Daily 8 am-5 pm, last entry 4 pm",
         lat: 18.105,
         lng: -89.81056,
@@ -2868,7 +2868,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, turn-off at km 145 of Federal Highway 186, a few minutes from Xpujil.",
         quando: "Late afternoon on the day you arrive.",
         tempo: "1-1.5 hours",
-        costo: "155 MXN for foreigners, about 8 € (2026)",
+        costo: "155 MXN for foreigners, about €8 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4.45 pm",
         lat: 18.51667,
         lng: -89.46667,
@@ -2880,7 +2880,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "On foot or by car from the town, on Federal Highway 186 at km 156.",
         quando: "Afternoon, or in the morning before leaving.",
         tempo: "30-45 minutes",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4.45 pm",
         lat: 18.51003,
         lng: -89.40447,
@@ -2892,7 +2892,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, turn-off at km 140 of Federal Highway 186, near Becán.",
         quando: "Together with Becán, in the afternoon.",
         tempo: "45 minutes",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4.45 pm",
         lat: 18.50692,
         lng: -89.48633,
@@ -2904,7 +2904,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "By car, turn-off at km 93 of Federal Highway 186.",
         quando: "On the way to Xpujil, in the early afternoon.",
         tempo: "1 hour",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4.45 pm",
         lat: 18.56019,
         lng: -89.94436,
@@ -2944,19 +2944,19 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Xpujil",
         perChi: "services and transport",
         testo: "The town on Federal Highway 186, with simple lodging, a few places to eat and the Tren Maya station. Restaurants close early.",
-        fascia: "25-60 €",
+        fascia: "€25-60",
       },
       {
         nome: "Reserve road",
         perChi: "those who want the forest",
         testo: "Eco-lodges closer to the site, few and to be booked, with dinner included because there is nothing else around.",
-        fascia: "60-130 €",
+        fascia: "€60-130",
       },
       {
         nome: "Bacalar as the next stop",
         perChi: "those short on time",
         testo: "About two hours away: sleep on the lagoon and do Calakmul and Becán with a single night in Xpujil.",
-        fascia: "45-90 €",
+        fascia: "€45-90",
       },
     ],
       "sapori": [

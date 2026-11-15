@@ -65,7 +65,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "Il Fuego è attivo: prima di partire controllare i bollettini di CONRED e INSIVUMEH e seguire sempre la guida."
       ],
     comeArrivare: "Volo su Città del Guatemala (GUA), poi circa 1 ora di shuttle o taxi privato fino ad Antigua. Dall'aeroporto La Aurora servono 1-1 ora e mezza secondo il traffico: lo shuttle condiviso costa circa 18-20 USD a persona e va prenotato, il transfer privato circa 65-85 USD a veicolo; Uber funziona dall'aeroporto. Da evitare i taxi non registrati e la strada di notte. Gli shuttle turistici per il lago Atitlán (circa 3 ore) e per Chichicastenango si prenotano in qualsiasi agenzia del centro.",
-    costi: "fra le città più care del Guatemala, ma economica per gli standard europei; il trekking all'Acatenango parte da circa 60€ con l'attrezzatura inclusa. Indicativamente 1 € = 8-9 GTQ. Budget a persona al giorno: basso 30-45 € (ostello, menú del día al mercato, shuttle condivisi); medio 70-110 € (hotel in casa coloniale, ristoranti, una rovina o un laboratorio di cioccolato); alto da 180 € (hotel in un convento restaurato, transfer privati). L'ingresso al parco dell'Acatenango si paga in contanti al punto di partenza (dal viaggio).",
+    costi: "fra le città più care del Guatemala, ma economica per gli standard europei; il trekking all'Acatenango parte da circa 60 € con l'attrezzatura inclusa. Indicativamente 1 € = 8-9 GTQ. Budget a persona al giorno: basso 30-45 € (ostello, menú del día al mercato, shuttle condivisi); medio 70-110 € (hotel in casa coloniale, ristoranti, una rovina o un laboratorio di cioccolato); alto da 180 € (hotel in un convento restaurato, transfer privati). L'ingresso al parco dell'Acatenango si paga in contanti al punto di partenza.",
     luoghi: [
       {
         "nome": "Arco de Santa Catalina",
@@ -179,7 +179,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Tour di due giorni da Antigua con guida, tenda e pasti. Si sale per diverse ore fra campi di mais, pineta e sabbia vulcanica.",
         "quando": "Stagione secca (novembre-aprile); la mattina dopo si scende sulla sabbia. Il sentiero può chiudere per l'attività del Fuego o il maltempo (nel 2026 ha riaperto ad agosto dopo una chiusura): verificare prima.",
         "tempo": "2 giorni, 1 notte",
-        "costo": "Da circa 60 € con l'attrezzatura inclusa; l'ingresso al parco si paga in contanti al punto di partenza (dal viaggio).",
+        "costo": "Da circa 60 € con l'attrezzatura inclusa; l'ingresso al parco si paga in contanti al punto di partenza.",
         "lat": 14.50083,
         "lng": -90.87583,
         "consiglio": "Di notte al campo fa freddo, spesso vicino allo zero: guanti, berretto, strati caldi e impermeabile. La discesa scivola più che camminare. Per l'Acatenango consiglio OX Expeditions, ad Antigua: sono bravissimi e mi sono trovato molto bene con loro."
@@ -351,7 +351,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "Il Foreign Office britannico segnala rapine sulle strade turistiche del paese, compresa la zona del lago: muoversi di giorno, in gruppo o con operatori seri. A San Pedro la Laguna tenere con sé il passaporto o una copia autenticata."
       ],
     comeArrivare: "Shuttle turistico da Antigua (circa 3 ore) o da Città del Guatemala; in alternativa chicken bus con cambio a Los Encuentros. Molti shuttle da Antigua passano per Chichicastenango il giovedì e la domenica, i giorni del mercato, e proseguono per Panajachel nello stesso giorno: circa tre ore fino a Chichi, poi un'ora e mezza fino al lago. Gli shuttle arrivano a Panajachel; da lì si prende la lancha per San Pedro, San Marcos o Santa Cruz. Verso Lanquín e Semuc Champey ci vogliono 7-9 ore di shuttle, con l'ultimo tratto sterrato.",
-    costi: "lance 10-25 GTQ a tratta secondo la distanza; alloggi tra i più economici del paese. All'Indian Nose si paga una piccola tassa alla comunità; per la casa di Maximón a Santiago si lascia un'offerta di pochi quetzales (dal viaggio). Budget indicativo a persona al giorno: basso 25-40 € (ostello a San Pedro, comedores, lance pubbliche); medio 60-100 € (hotel con vista a Panajachel o San Marcos, guida per l'Indian Nose, un corso o un kayak); alto da 150 € (hotel sull'acqua a Santa Cruz o sopra Panajachel, lance private).",
+    costi: "lance 10-25 GTQ a tratta secondo la distanza; alloggi tra i più economici del paese. All'Indian Nose si paga una piccola tassa alla comunità; per la casa di Maximón a Santiago si lascia un'offerta di pochi quetzales. Budget indicativo a persona al giorno: basso 25-40 € (ostello a San Pedro, comedores, lance pubbliche); medio 60-100 € (hotel con vista a Panajachel o San Marcos, guida per l'Indian Nose, un corso o un kayak); alto da 150 € (hotel sull'acqua a Santa Cruz o sopra Panajachel, lance private).",
     luoghi: [
       {
         "nome": "Panajachel e Calle Santander",
@@ -398,7 +398,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "In lancha pubblica da Panajachel o San Pedro, circa mezz'ora.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata",
-        "costo": "Offerta di pochi quetzales per la casa di Maximón (dal viaggio)",
+        "costo": "Offerta di pochi quetzales per la casa di Maximón",
         "lat": 14.63855,
         "lng": -91.22992,
         "consiglio": "Prima di fotografare persone o la figura di Maximón, chiedere sempre il permesso e lasciare una piccola offerta."
@@ -409,7 +409,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Sveglia prima dell'alba, trasferimento e circa un'ora di cammino ripido al buio con una guida del posto, da San Juan o da Santa Clara.",
         "quando": "Alba, con cielo sereno.",
         "tempo": "Mezza mattina",
-        "costo": "Piccola tassa alla comunità in cima; prezzo della guida da fissare il giorno prima (dal viaggio).",
+        "costo": "Piccola tassa alla comunità in cima; prezzo della guida da fissare il giorno prima.",
         "lat": 14.69921,
         "lng": -91.28988,
         "consiglio": "Nella stagione delle piogge si sale al buio per guardare una nuvola: controllare le previsioni."
@@ -430,7 +430,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "A piedi o in tuk tuk da Panajachel, pochi minuti.",
         "quando": "Mattina.",
         "tempo": "2-3 ore",
-        "orari": "Aperta dalle 8 alle 17 (sito ufficiale).",
+        "orari": "Aperta dalle 8 alle 17.",
         "lat": 14.75084,
         "lng": -91.16582,
         "url": "https://www.atitlanreserva.com/"
@@ -607,7 +607,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "Nella stagione delle piogge l'alba spesso non si vede: valutare se vale la sveglia.",
         "Nel sito si cammina per chilometri sotto la foresta: portare acqua, repellente e scarpe chiuse. Il Foreign Office segnala rapine sulle strade verso Tikal: viaggiare di giorno e con operatori seri."
       ],
-    comeArrivare: "Volo interno da Città del Guatemala a Flores (circa 1 ora, la soluzione più rapida) oppure bus notturno (8-10 ore). Da Flores al parco, circa 1h30 di navetta. Il volo arriva all'aeroporto internazionale Mundo Maya, a Santa Elena, a pochi minuti di taxi dall'isola. Il parco è a 63 km da Flores lungo la CA-13 verso Melchor de Mencos, con la deviazione a Ixlú per El Remate (Ministero della Cultura); navette e colectivos partono ogni giorno, e per l'alba gli hotel organizzano il trasporto verso le 3. Da Lanquín lo shuttle impiega 9-12 ore; dalla frontiera del Belize a Melchor de Mencos, circa due ore.",
+    comeArrivare: "Volo interno da Città del Guatemala a Flores (circa 1 ora, la soluzione più rapida) oppure bus notturno (8-10 ore). Da Flores al parco, circa 1h30 di navetta. Il volo arriva all'aeroporto internazionale Mundo Maya, a Santa Elena, a pochi minuti di taxi dall'isola. Il parco è a 63 km da Flores lungo la CA-13 verso Melchor de Mencos, con la deviazione a Ixlú per El Remate; navette e colectivos partono ogni giorno, e per l'alba gli hotel organizzano il trasporto verso le 3. Da Lanquín lo shuttle impiega 9-12 ore; dalla frontiera del Belize a Melchor de Mencos, circa due ore.",
     costi: "ingresso al parco circa 150 GTQ, supplemento per l'ingresso all'alba e guida obbligatoria in quella fascia oraria. Q150 per gli stranieri, più Q100 per l'alba o il tramonto: circa 250 GTQ in tutto, 28-30 €, in contanti o online sul sito del Ministero della Cultura. Budget indicativo a persona al giorno: basso 30-45 € (ostello a Flores, comedores, navetta condivisa); medio 70-110 € (hotel sul lago, guida a Tikal, giro in barca); alto da 180 € (hotel dentro il parco o boutique sul lago, tour privati a Yaxhá).",
     luoghi: [
       {
@@ -616,8 +616,8 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Dal parco si cammina nella foresta; entrata e sentieri fanno chilometri. Visita con guida consigliata, anche per la fauna.",
         "quando": "Mattina, quando il sole illumina il Tempio I e la foresta è ancora umida.",
         "tempo": "3-4 ore",
-        "costo": "Q150 per gli stranieri, a giornata; l'ingresso all'alba o al tramonto costa Q100 in più (tariffe del Ministero della Cultura, 2026).",
-        "orari": "Tutti i giorni 6-18; ingresso speciale all'alba 4-6 e al tramonto 18-20 (Ministero della Cultura).",
+        "costo": "Q150 per gli stranieri, a giornata; l'ingresso all'alba o al tramonto costa Q100 in più (2026).",
+        "orari": "Tutti i giorni 6-18; ingresso speciale all'alba 4-6 e al tramonto 18-20.",
         "lat": 17.22222,
         "lng": -89.62417,
         "url": "https://boletos.culturaguate.gob.gt/"
@@ -777,7 +777,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       {
         "nome": "San Ignacio (Belize)",
         "distanza": "circa 2 ore fino alla frontiera di Melchor de Mencos",
-        "come": "Shuttle o colectivo; frontiera aperta tutti i giorni dalle 6 alle 22 (dal viaggio).",
+        "come": "Shuttle o colectivo; frontiera aperta tutti i giorni dalle 6 alle 22.",
         "testo": "Il primo paese del Belize, base per la grotta ATM; dal confine si arriva in un quarto d'ora."
       }
     ],
@@ -792,7 +792,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       },
       {
         "domanda": "Quanto costa entrare a Tikal?",
-        "risposta": "Q150 per gli stranieri, a giornata, più Q100 per l'alba o il tramonto (Ministero della Cultura, 2026). I biglietti si comprano online sul sito del ministero o in contanti."
+        "risposta": "Q150 per gli stranieri, a giornata, più Q100 per l'alba o il tramonto (2026). I biglietti si comprano online sul sito del ministero o in contanti."
       },
       {
         "domanda": "Serve una guida a Tikal?",

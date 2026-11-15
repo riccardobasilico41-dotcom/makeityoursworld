@@ -25,7 +25,7 @@ export const lituania: Paese = {
   durataConsigliata:
     '3 giorni per Vilnius (Città Vecchia e Užupis) e la gita a Trakai, come prima tappa di un itinerario più ampio verso Riga e Tallinn. Bastano anche per un weekend lungo dedicato solo alla Lituania.',
   budgetIndicativo:
-    'tra le capitali europee più economiche, anche se è nell\'eurozona: pasto normale 8-15€, birra locale 3-4€, Torre di Gediminas 8€ (più 2-3€ di funicolare), Castello dell\'Isola di Trakai 12-14€ secondo la stagione.',
+    'tra le capitali europee più economiche, anche se è nell\'eurozona: pasto normale 8-15 €, birra locale 3-4 €, Torre di Gediminas 8 € (più 2-3 € di funicolare), Castello dell\'Isola di Trakai 12-14 € secondo la stagione.',
   stileViaggio: ['città', 'storia', 'arte', 'natura'],
   scheda: {
     documenti:
@@ -43,7 +43,7 @@ export const lituania: Paese = {
     trasportiInterni:
       'Il centro storico di Vilnius si gira tutto a piedi. Per il resto della città ci sono bus e filobus (rete Vilniaus viešasis transportas), economici, con biglietti a tempo o la carta ricaricabile Vilniečio kortelė. Per Trakai si prende il treno regionale (circa 34 minuti) o il bus (circa 35 minuti) dalla stazione centrale di Vilnius: entrambi costano poco e sono frequenti. Per questa tappa l\'auto a noleggio non serve.',
     costoVita:
-      'Basso per gli standard dell\'Europa occidentale e nordica, anche pagando in euro: un pasto in un bar tradizionale costa pochi euro, una cena normale 10-15€ a testa, una birra artigianale locale 3-5€. Più cara di Cracovia (dove si paga in złoty), ma molto più economica delle capitali nordiche presenti altrove sul sito (Oslo, Stoccolma, Reykjavík).',
+      'Basso per gli standard dell\'Europa occidentale e nordica, anche pagando in euro: un pasto in un bar tradizionale costa pochi euro, una cena normale 10-15 € a testa, una birra artigianale locale 3-5 €. Più cara di Cracovia (dove si paga in złoty), ma molto più economica delle capitali nordiche presenti altrove sul sito (Oslo, Stoccolma, Reykjavík).',
     lingua:
       'Lituano, una lingua baltica con un alfabeto latino esteso (lettere come ą, č, ę, š, ų, ž). È una lingua indoeuropea arcaica, che i linguisti citano spesso perché ha conservato molti tratti antichi. Con il lettone è imparentata solo alla lontana: nonostante la vicinanza, chi parla l\'una non capisce l\'altra. A Vilnius l\'inglese è diffuso tra i più giovani e nel turismo, meno nelle campagne.',
     elettricita: '230V, 50Hz, prese di tipo C ed F: le spine italiane a due poli entrano senza problemi.',

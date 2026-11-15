@@ -141,7 +141,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
       pernottamento: 'Casablanca, centro o paseo marítimo',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
-      costiNoti: 'Mezquita Hassan II: 140 MAD para adultos extranjeros (fmh2.ma, noviembre de 2026), solo con tour guiado',
+      costiNoti: 'Mezquita Hassan II: 140 MAD para adultos extranjeros (2026), solo con tour guiado',
       destinazioneSlug: 'rabat',
       immagine: '/images/viaggi/marocco-citta-imperiali/giorno-10-moschea-hassan-ii.webp',
       imageAlt: "El minarete de la Mezquita Hassan II de Casablanca a contraluz, con el sol bajo sobre el océano",
@@ -159,7 +159,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
     { etichetta: 'Coche con conductor o de alquiler', valore: undefined },
     { etichetta: 'Autobuses CTM (alternativa)', valore: 'Tánger-Chefchaouen y Chefchaouen-Fez, servicios y billetes en ctm.ma' },
     { etichetta: 'Guía oficial en Fez', valore: undefined },
-    { etichetta: 'Mezquita Hassan II', valore: '140 MAD para adultos extranjeros (fmh2.ma, noviembre de 2026)' },
+    { etichetta: 'Mezquita Hassan II', valore: '140 MAD para adultos extranjeros (2026)' },
     { etichetta: 'Total', valore: undefined },
   ],
 }

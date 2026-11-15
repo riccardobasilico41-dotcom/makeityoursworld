@@ -25,7 +25,6 @@ export const thailandiaMeta: TripMeta = {
   criticita: [
     'Il ritmo è denso, con trasferimenti diversi quasi ogni giorno',
     'Il mercato galleggiante e il mercato del treno sono molto turistici, con prezzi gonfiati rispetto a un mercato locale',
-    'Diversi hotel del giro non sono specificati per nome nelle fonti del viaggio',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

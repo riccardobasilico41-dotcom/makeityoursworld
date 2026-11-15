@@ -3,6 +3,10 @@ import type { Meraviglia } from '@/lib/types'
 export const meraviglie: Meraviglia[] = [
   {
     slug: "grande-muraglia-cinese",
+    fonti: [
+      { url: "https://www.mutianyugreatwall.com/", titolo: "Mutianyu Great Wall, web oficial" },
+      { url: "https://www.visitbeijing.com.cn/article/47QmKoFtnnF", titolo: "Visit Beijing: reserva con nombre en Badaling" },
+    ],
     nome: "Gran Muralla China",
     nomeLocale: "长城 (Chángchéng)",
     paese: "China",
@@ -55,6 +59,11 @@ export const meraviglie: Meraviglia[] = [
   },
   {
     slug: "petra",
+    fonti: [
+      { url: "https://www.jordanpass.jo/Contents/Prices.aspx", titolo: "Jordan Pass, precios" },
+      { url: "https://www.jordanpass.jo/Contents/FAQs.aspx", titolo: "Jordan Pass, preguntas frecuentes" },
+      { url: "https://international.visitjordan.com/page/17/Entrance-Fees", titolo: "Jordan Tourism Board, tarifas de entrada" },
+    ],
     nome: "Petra",
     nomeLocale: "البتراء (Al-Batrāʾ)",
     paese: "Jordania",
@@ -107,6 +116,9 @@ export const meraviglie: Meraviglia[] = [
   },
   {
     slug: "cristo-redentore",
+    fonti: [
+      { url: "https://www.tremdocorcovado.rio/", titolo: "Trem do Corcovado, web oficial" },
+    ],
     nome: "Cristo Redentor",
     nomeLocale: "Cristo Redentor",
     paese: "Brasil",
@@ -151,6 +163,11 @@ export const meraviglie: Meraviglia[] = [
   },
   {
     slug: "machu-picchu",
+    fonti: [
+      { url: "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/", titolo: "Machu Picchu, circuitos y rutas" },
+      { url: "https://www.machupicchu.gob.pe/normas-de-conducta/", titolo: "Machu Picchu, normas de conducta" },
+      { url: "https://busquedas.elperuano.pe/dispositivo/EX/2553933-1", titolo: "El Peruano, Resolución Ministerial 000334-2026-MC" },
+    ],
     nome: "Machu Picchu",
     paese: "Perú",
     citta: "Región de Cusco (base en Aguas Calientes)",
@@ -207,6 +224,9 @@ export const meraviglie: Meraviglia[] = [
   },
   {
     slug: "chichen-itza",
+    fonti: [
+      { url: "https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza", titolo: "INAH, zona arqueológica de Chichén Itzá" },
+    ],
     nome: "Chichén Itzá",
     paese: "México",
     citta: "Yucatán (cerca de Valladolid)",
@@ -219,7 +239,7 @@ export const meraviglie: Meraviglia[] = [
     comeArrivareInternazionale: "Aeropuerto de Cancún (CUN), el más cómodo; como alternativa, Mérida (MID), geográficamente más cercano al sitio.",
     comeArrivareLocale: "En autobús (ADO entre los operadores) desde Cancún, Mérida o Valladolid, la más cercana; en coche de alquiler; o con un tour organizado de un día desde Cancún o la Riviera Maya, que supone muchas horas de traslado.",
     comeSpostarsi: "El sitio se visita enteramente a pie, en una zona llana y casi sin sombra por todas partes.",
-    prenotazione: "La web del INAH no indica reserva: la entrada se paga en la taquilla del sitio. Horario (INAH): todos los días de 8:00 a 17:00, último acceso a las 16:00. Llegar a la apertura es la verdadera clave para evitar el peor calor y la llegada en masa de los autobuses turísticos a mediodía.",
+    prenotazione: "La web del INAH no indica reserva: la entrada se paga en la taquilla del sitio. Horario: todos los días de 8:00 a 17:00, último acceso a las 16:00. Llegar a la apertura es la verdadera clave para evitar el peor calor y la llegada en masa de los autobuses turísticos a mediodía.",
     prezzi: "Extranjeros: 697 pesos mexicanos en total, es decir 105 pesos de tarifa federal del INAH más 592 pesos de tarifa del Gobierno de Yucatán, que también se paga en la taquilla del sitio (para los visitantes nacionales la cuota estatal es de 205 pesos). El espectáculo nocturno Noches de Kukulcán lo organiza el Gobierno de Yucatán, con entrada e información aparte.",
     tourOAutonomo: "Fácil de visitar por tu cuenta en autobús o coche de alquiler. Los guías se encuentran en la entrada: pacta la tarifa antes de empezar. Aportan mucho contexto sobre la cosmología maya y el juego de pelota.",
     scamDaEvitare: [
@@ -262,6 +282,13 @@ export const meraviglie: Meraviglia[] = [
   },
   {
     slug: "colosseo",
+    fonti: [
+      { url: "https://colosseo.it/orari-e-biglietti/", titolo: "Parque Arqueológico del Coliseo, horarios y entradas" },
+      { url: "https://colosseo.it/biglietti/colosseo-foro-romano-palatino/", titolo: "Entrada Coliseo, Foro Romano, Palatino" },
+      { url: "https://colosseo.it/en/tickets/full-experience-underground-arena/", titolo: "Full Experience Underground and Arena" },
+      { url: "https://colosseo.it/faq-biglietti/", titolo: "Preguntas frecuentes sobre las entradas" },
+      { url: "https://colosseo.it/2025/03/domenicalmuseo-colosseo/", titolo: "Domingos y días gratuitos" },
+    ],
     nome: "Coliseo",
     nomeLocale: "Colosseum / Anfiteatro Flavio",
     paese: "Italia",
@@ -276,7 +303,7 @@ export const meraviglie: Meraviglia[] = [
     comeArrivareLocale: "Metro línea B, parada Colosseo, justo frente a la entrada; numerosas líneas de autobús y tranvía; a pie desde el centro histórico (15-20 minutos desde Piazza Venezia).",
     comeSpostarsi: "El sitio y el área arqueológica circundante (Foro Romano, Palatino) se visitan enteramente a pie, sobre un terreno a menudo irregular (pavimento antiguo, escalones).",
     prenotazione: "El canal oficial es ticketing.colosseo.it, la taquilla online del Parque arqueológico del Coliseo: la venta abre 30 días antes de la visita y la entrada al Coliseo es siempre a hora fija. Las entradas son nominativas: en el acceso hay que llevar a la vista un documento de identidad junto con la entrada, que basta con mostrar en el móvil. También hay taquilla en el lugar, pero en temporada alta conviene reservar online. Con la entrada básica se puede estar en el Coliseo como máximo 75 minutos, con la Full Experience Underground and Arena 90.",
-    prezzi: "Entrada Coliseo, Foro Romano y Palatino (24 horas): 18 euros la entrada completa; incluye el primer y segundo nivel del Coliseo, el Foro Romano y el Palatino, no la arena ni los subterráneos. Full Experience Underground and Arena: 24 euros (32 con visita didáctica), válida 2 días consecutivos; incluye arena y subterráneos (cuando están abiertos), Foro, Palatino y los sitios SUPER. Reducida a 2 euros para ciudadanos de la UE desde los 18 años hasta cumplir los 25. Entrada gratuita el primer domingo del mes, sin reserva (detalles abajo).",
+    prezzi: "Entrada Coliseo, Foro Romano y Palatino (24 horas): 18 € la entrada completa; incluye el primer y segundo nivel del Coliseo, el Foro Romano y el Palatino, no la arena ni los subterráneos. Full Experience Underground and Arena: 24 € (32 con visita didáctica), válida 2 días consecutivos; incluye arena y subterráneos (cuando están abiertos), Foro, Palatino y los sitios SUPER. Reducida a 2 € para ciudadanos de la UE desde los 18 años hasta cumplir los 25. Entrada gratuita el primer domingo del mes, sin reserva (detalles abajo).",
     tourOAutonomo: "Se visita bien por tu cuenta. La entrada Full Experience con arena y subterráneos, o una visita guiada, añade una perspectiva que solo no se puede ver: los subterráneos donde se preparaban gladiadores y animales.",
     scamDaEvitare: [
       "Vendedores de entradas «sin cola» fuera del área arqueológica a precios mucho más altos que los oficiales",
@@ -314,6 +341,9 @@ export const meraviglie: Meraviglia[] = [
   },
   {
     slug: "taj-mahal",
+    fonti: [
+      { url: "https://www.tajmahal.gov.in/", titolo: "Taj Mahal, web oficial" },
+    ],
     nome: "Taj Mahal",
     nomeLocale: "ताज महल",
     paese: "India",

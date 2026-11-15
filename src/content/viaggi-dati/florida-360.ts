@@ -22,7 +22,6 @@ export const florida360Meta: TripMeta = {
   criticita: [
     'Il ritmo è molto denso, con giornate di guida anche di 5 ore',
     'Diversi hotel (Key West/Marathon, Naples/Everglades) non sono annotati per nome per policy del DMC organizzatore: restano segnalati con alternative invece di un giudizio inventato',
-    'Non è confermato quale tra Universal Studios e Disney World sia stato effettivamente scelto al Giorno 6',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {
@@ -98,7 +97,7 @@ export const florida360Meta: TripMeta = {
       pernottamento: 'villa privata in affitto (Kissimmee/Championsgate)',
       statoPernottamento: 'provato',
       intensita: 'intenso',
-      costiNoti: 'Universal 130-210$; Disney World da 250€ per 2 giorni',
+      costiNoti: 'Universal 130-210 $; Disney World da 250 € per 2 giorni',
       destinazioneSlug: 'orlando',
       immagine: '/images/viaggi/florida-360/giorno-6-lake-eola-orlando.jpg',
       imageAlt: 'La fontana di Lake Eola Park nel centro di Orlando, con lo skyline della città sullo sfondo',
@@ -109,7 +108,7 @@ export const florida360Meta: TripMeta = {
       pernottamento: 'nessun pernottamento a Cape Canaveral, rientro a Miami',
       statoPernottamento: 'provato',
       intensita: 'intenso',
-      costiNoti: 'Kennedy Space Center $57',
+      costiNoti: 'Kennedy Space Center 57 $',
       destinazioneSlug: 'cape-canaveral',
       immagine: '/images/viaggi/florida-360/giorno-7-kennedy-space-center.jpg',
       imageAlt: 'I razzi storici esposti nel Rocket Garden del Kennedy Space Center',
@@ -147,10 +146,10 @@ export const florida360Meta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli', valore: undefined },
-    { etichetta: 'Cassa comune (auto e attività)', valore: '270€ a persona' },
-    { etichetta: 'Biglietto parco a tema di Orlando', valore: '130-260$ a seconda di stagione e numero di parchi' },
-    { etichetta: 'Kennedy Space Center', valore: 'circa 70$' },
-    { etichetta: 'Spesa media personale nel resto del viaggio', valore: '900-1.000$ a testa' },
+    { etichetta: 'Cassa comune (auto e attività)', valore: '270 € a persona' },
+    { etichetta: 'Biglietto parco a tema di Orlando', valore: '130-260 $ a seconda di stagione e numero di parchi' },
+    { etichetta: 'Kennedy Space Center', valore: 'circa 70 $' },
+    { etichetta: 'Spesa media personale nel resto del viaggio', valore: '900-1.000 $ a testa' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

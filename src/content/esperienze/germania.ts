@@ -44,7 +44,7 @@ export const esperienzeGermania: Esperienza[] = [
       'È una delle concentrazioni di musei più importanti d\'Europa, in un\'area che si attraversa a piedi in pochi minuti, con opere di livello mondiale che vanno dall\'antico Egitto alla Mesopotamia fino alla pittura europea dell\'Ottocento.',
     durata: 'mezza giornata per una visita che tocchi almeno due musei con calma; una giornata intera per vederli tutti',
     periodo: 'tutto l\'anno, perché è tutta al chiuso',
-    costo: 'biglietto per singolo museo indicativamente 12-14€, biglietto cumulativo per l\'intera isola (Museumsinsel-Ticket) intorno ai 24-29€',
+    costo: 'biglietto per singolo museo indicativamente 12-14 €, biglietto cumulativo per l\'intera isola (Museumsinsel-Ticket) intorno ai 24-29 €',
     comePrenotare:
       'Consigliato l\'acquisto online con orario prenotato, soprattutto per il Pergamonmuseum e il Neues Museum nei weekend e in alta stagione, per evitare code alla cassa.',
     cosaPortare: 'Nessuna attrezzatura particolare; conviene controllare online quali sale sono aperte.',
@@ -91,7 +91,7 @@ export const esperienzeGermania: Esperienza[] = [
       'È un fenomeno nato e cresciuto qui, legato proprio agli spazi lasciati liberi dalla caduta del Muro, ed è tra le ragioni per cui Berlino è considerata da decenni una delle capitali mondiali della musica elettronica. Vale la pena conoscerlo anche per chi non è del settore.',
     durata: 'una serata (i club aprono spesso tardi, dopo mezzanotte, e alcuni restano aperti fino al mattino o oltre)',
     periodo: 'tutto l\'anno, perché si svolge di notte e al chiuso',
-    costo: 'ingresso ai club indicativamente 10-25€ secondo il locale e l\'evento',
+    costo: 'ingresso ai club indicativamente 10-25 € secondo il locale e l\'evento',
     comePrenotare: 'Nessuna prenotazione per la maggior parte dei club: si fa la fila all\'ingresso, con selezione al momento da parte del buttafuori. Per i locali più ambiti come Berghain non esiste modo garantito di entrare.',
     cosaPortare: 'Documento d\'identità; abbigliamento informale (l\'abbigliamento elegante è spesso controproducente per l\'ingresso nei club techno berlinesi); niente macchine fotografiche, spesso vietate all\'interno.',
     perChiEAdatta:

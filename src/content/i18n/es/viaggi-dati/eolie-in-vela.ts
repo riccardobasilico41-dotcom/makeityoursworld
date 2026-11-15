@@ -62,7 +62,7 @@ export const eolieInVelaMeta: TripMeta = {
       pernottamento: "a bordo, Lípari",
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',
-      costiNoti: "acceso al Gran Cráter sujeto a ordenanzas: por comprobar",
+      costiNoti: "acceso al Gran Cráter regulado por las ordenanzas del Comune di Lipari",
       destinazioneSlug: 'eolie',
       immagine: '/images/viaggi/eolie-in-vela/giorno-2-gran-cratere-vulcano.jpg',
       imageAlt: "Fumarolas amarillas de azufre en el borde del Gran Cráter de Vulcano",

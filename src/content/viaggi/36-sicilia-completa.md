@@ -140,7 +140,7 @@ Poi siamo saliti verso l'interno, la parte che quasi tutti saltano e che cambia 
 
 Se resta tempo, **Caltagirone** con la scalinata di **142 gradini in ceramica** dipinta, ognuno diverso, o **Enna**, al centro geografico esatto della Sicilia, a 900 metri, da cui nelle giornate limpide si vede l'Etna.
 
-**In pratica:** Scala dei Turchi con accesso da verificare prima di partire (nel 2026 contingentato, circa 6 €, turni da 20 minuti) · da Agrigento a Piazza Armerina circa due ore d'auto · Villa Romana del Casale con biglietto, meglio al mattino · Caltagirone o Enna solo se resta luce.
+**In pratica:** Scala dei Turchi: prima di partire controllare se è aperta (nel 2026 contingentato, circa 6 €, turni da 20 minuti) · da Agrigento a Piazza Armerina circa due ore d'auto · Villa Romana del Casale con biglietto, meglio al mattino · Caltagirone o Enna solo se resta luce.
 
 ### Giorno 11 — Ragusa Ibla e l'arrivo nel barocco
 Siamo entrati nel **Val di Noto**, patrimonio UNESCO: **otto città ricostruite dopo il terremoto del 1693**, tutte nello stesso stile e nello stesso momento, un caso unico di pianificazione urbana barocca su scala regionale.

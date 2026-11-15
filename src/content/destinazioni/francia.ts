@@ -399,7 +399,7 @@ export const destinazioniFrancia: Destinazione[] = [
         "quando": "In un giorno di sole, quando le vetrate colorano il pavimento.",
         "tempo": "45 minuti",
         "costo": "circa 7 € (2026)",
-        "orari": "Chiusa la domenica; orari ridotti e variabili, da verificare sul sito della cappella prima di partire.",
+        "orari": "Chiusa la domenica; orari ridotti e variabili, da controllare sul sito della cappella prima di partire.",
         "lat": 43.72751,
         "lng": 7.11286,
         "consiglio": "Controllare l'ultimo bus per Cagnes prima di salire a Vence."
@@ -1858,7 +1858,7 @@ export const destinazioniFrancia: Destinazione[] = [
         "come": "In auto da Tours o da Amboise.",
         "quando": "Mattina; in autunno i giardini hanno colori più forti.",
         "tempo": "2-3 ore",
-        "costo": "19 € con il pieghevole-guida, 24 € con l'audioguida (sito ufficiale, 2026).",
+        "costo": "19 € con il pieghevole-guida, 24 € con l'audioguida (2026).",
         "url": "https://www.chenonceau.com/",
         "consiglio": "Dedicare tempo ai giardini e alle cucine, non solo alla galleria.",
         "orari": "Aperto tutti i giorni dell'anno, con orario che cambia per stagione: a novembre 9:30-17 (ultimo accesso 16:30).",

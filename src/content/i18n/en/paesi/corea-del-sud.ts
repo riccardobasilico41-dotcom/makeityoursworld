@@ -12,7 +12,7 @@ export const coreaDelSud: Paese = {
   durataConsigliata:
     "12-14 days for Seoul, the DMZ, the south (Gyeongju and Busan) and Jeju; 8-9 days for the bare minimum of Seoul-DMZ-Busan; 16 days to add Seoraksan, Andong and the downtime this country deserves",
   budgetIndicativo:
-    "Like Japan, but a bit lower: KTX Seoul-Busan around 40€, good hotels 60-90€ a night, meals 6-15€ and among the best in Asia. The intercontinental flight, the JSA tour if you take it, and Jeju in high season weigh on the budget.",
+    "Like Japan, but a bit lower: KTX Seoul-Busan around €40, good hotels €60-90 a night, meals €6-15 and among the best in Asia. The intercontinental flight, the JSA tour if you take it, and Jeju in high season weigh on the budget.",
   stileViaggio: ['storia contemporanea', 'cultura', 'gastronomia', 'isole'],
   scheda: {
     documenti:
@@ -29,7 +29,7 @@ export const coreaDelSud: Paese = {
     trasportiInterni:
       "The KTX, the high-speed network, links Seoul to Busan in a little over two and a half hours and covers much of the country. You book online on the Korail site or app, which accept foreign cards; on the main routes it's best to do it a few days ahead. Where the train doesn't reach there are express buses, comfortable and frequent, with reclining seats in the higher classes. In the cities the subway is extensive and clean, has signs and announcements in English and is paid with the T-money. For Jeju you fly: Seoul-Jeju is one of the busiest routes in the world and flights are very cheap.",
     costoVita:
-      "Cheaper than Japan on almost everything, except lodging in central Seoul. A full meal at a neighborhood restaurant runs between 6 and 12 euros, with the side dishes (banchan) always included and refilled for free when they run out. The subway costs a little over a euro. Coffee, on the other hand, costs as much as in Europe, sometimes more: in Korea cafés are places to hang out and you pay for the seat.",
+      "Cheaper than Japan on almost everything, except lodging in central Seoul. A full meal at a neighborhood restaurant runs between 6 and €12, with the side dishes (banchan) always included and refilled for free when they run out. The subway costs a little over a euro. Coffee, on the other hand, costs as much as in Europe, sometimes more: in Korea cafés are places to hang out and you pay for the seat.",
     lingua:
       "Korean. Hangul, the alphabet, was designed in the 15th century to be learned quickly, and it works: a couple of hours is enough to decipher signs and station names, and it makes a big difference. Everyone studies English but speaks it hesitantly, especially outside Seoul; for the rest there's Papago. People tend to help you more than the language barrier would suggest.",
     elettricita: "220V, 60Hz, type C and F outlets: Italian plugs with two round pins fit without an adapter, which is rare in Asia.",

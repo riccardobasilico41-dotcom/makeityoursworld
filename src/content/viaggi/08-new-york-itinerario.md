@@ -15,7 +15,7 @@ New York si vive a passo svelto, e in sei giorni l'ho attraversata a piedi per 1
 - **Documenti:** ESTA obbligatorio (autorizzazione elettronica di viaggio, https://esta.cbp.dhs.gov/) per i cittadini UE con passaporto elettronico o biometrico, per soggiorni turistici fino a 90 giorni. Chi è stato a Cuba, Corea del Nord, Siria o Iran non può usare l'ESTA e deve richiedere un visto vero e proprio.
 - **Moneta:** dollaro americano. Le carte sono accettate quasi ovunque e in molti locali si paga solo con carta, ma conviene portare comunque un po' di contanti.
 - **Spostamenti:** soprattutto metro, Uber/Lyft (meglio scaricare le app prima di partire, comodissime la notte) e a piedi, con una media di 15-20 km al giorno: un ritmo serio.
-- **Budget indicativo:** intorno ai 200€ (250-280€ per fare quasi tutto).
+- **Budget indicativo:** intorno ai 200 € (250-280 € per fare quasi tutto).
 - **App utili:** Google Maps offline (le mappe di New York scaricate in anticipo funzionano anche senza connessione, utili soprattutto in metro), Uber/Lyft per i trasferimenti.
 - **Consapevolezza sul ritmo:** le attività proposte sono più di quelle fattibili in 6 giorni. È normale non riuscire a fare tutto: meglio decidere in anticipo che cosa lasciare, invece di rincorrere la lista completa.
 - **Dall'aeroporto al centro:** da **JFK** l'**AirTrain** (circa 8,75 $, si paga all'uscita a Jamaica o Howard Beach) porta alla metro E, J/Z o A (circa 3 $) o al treno LIRR da Jamaica, più rapido verso Penn Station e Grand Central: in tutto 50-75 minuti, 24 ore su 24 · **taxi giallo** dalla coda ufficiale, tariffa fissa di 70 $ per Manhattan più supplementi, pedaggi e mancia, circa 90-100 $ · **Uber/Lyft** dalla zona app, spesso 80-120 $ · da **Newark (EWR)** AirTrain più treno NJ Transit fino a Penn Station, circa 30 minuti e 16 $ · mai accettare passaggi da chi si offre negli arrivi.
@@ -110,7 +110,7 @@ Ho dormito al **Paramount Hotel** (oggi ufficialmente "Paramount Times Square �
 - Altri: Gray's Papaya (hot dog), Liberty Bagels, Prince Street Pizza, Pisillo (panini), Vinegar Hill House e Bluestone Lane a Dumbo.
 
 ## Rooftop e locali serali
-- **230 Rooftop**: terrazza panoramica con vista su Flatiron Building, Chrysler Building ed Empire State Building. D'inverno ci sono vestaglie di lana rossa e igloo riscaldati trasparenti. Ingresso gratuito, consumazione non obbligatoria, il giovedì resta aperto fino a tarda notte, cocktail da 9$ (analcolici) a 15$.
+- **230 Rooftop**: terrazza panoramica con vista su Flatiron Building, Chrysler Building ed Empire State Building. D'inverno ci sono vestaglie di lana rossa e igloo riscaldati trasparenti. Ingresso gratuito, consumazione non obbligatoria, il giovedì resta aperto fino a tarda notte, cocktail da 9 $ (analcolici) a 15 $.
 - **Refinery Rooftop**: ingresso gratuito, ma consumazione obbligatoria se si prenota un tavolo; d'inverno in terrazza c'è un grande camino acceso.
 - **Lilli' Victoria Establishment** e **Papillon Bistro & Bar**: pub addobbati durante le feste, chiudono a tarda notte.
 - **Blue Note New York**: per una serata jazz in un locale storico.

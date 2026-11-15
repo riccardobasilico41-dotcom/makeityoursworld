@@ -95,7 +95,7 @@ Per spendere poco Tim Ho Wan a Sham Shui Po, nel Bib Gourmand. Per l'atmosfera L
 Una tavola calda di Hong Kong con la cucina ibrida anglo-cantonese nata nel dopoguerra: tè al latte, toast, uova strapazzate, maccheroni in brodo. Si mangia con pochi euro.
 
 **Quanto costa mangiare a Hong Kong?**
-Un pasto in un cha chaan teng o una ciotola di wonton noodle costa intorno ai 40-80 dollari di Hong Kong, 5-10 euro. Un pranzo di dim sum in una sala tradizionale 150-300 a testa; nei ristoranti stellati si sale molto.
+Un pasto in un cha chaan teng o una ciotola di wonton noodle costa intorno ai 40-80 dollari di Hong Kong, 5-10 €. Un pranzo di dim sum in una sala tradizionale 150-300 a testa; nei ristoranti stellati si sale molto.
 
 **Dove mangiare l'oca arrosto a Hong Kong?**
 Da Yat Lok a Central o da Kam's Roast Goose a Wan Chai, entrambi con una stella Michelin.
@@ -277,7 +277,7 @@ Para gastar poco, Tim Ho Wan en Sham Shui Po, con Bib Gourmand. Por el ambiente,
 Una cafetería de Hong Kong con la cocina híbrida angloacantonesa nacida en la posguerra: té con leche, tostadas, huevos revueltos, macarrones en caldo. Se come por pocos euros.
 
 **¿Cuánto cuesta comer en Hong Kong?**
-Una comida en un cha chaan teng o un cuenco de fideos wonton cuesta unos 40-80 dólares de Hong Kong, 5-10 euros. Un dim sum en un salón tradicional, 150-300 por persona; en los restaurantes con estrella, mucho más.
+Una comida en un cha chaan teng o un cuenco de fideos wonton cuesta unos 40-80 dólares de Hong Kong, 5-10 €. Un dim sum en un salón tradicional, 150-300 por persona; en los restaurantes con estrella, mucho más.
 
 **¿Dónde comer ganso asado en Hong Kong?**
 En Yat Lok, en Central, o en Kam's Roast Goose, en Wan Chai, los dos con una estrella Michelin.

@@ -18,7 +18,7 @@ export const esperienzeGuatemala: Esperienza[] = [
     durata: '2 giorni, 1 notte',
     periodo: 'tutto l\'anno, ma molto meglio nella stagione secca (novembre-aprile) per i sentieri e per la visibilità di notte',
     costo:
-      'indicativamente 60-120€ a persona secondo l\'operatore e il livello del campo, con attrezzatura, pasti e guida inclusi; l\'escursione extra fino alla base del Fuego costa di solito 20-30€ in più',
+      'indicativamente 60-120 € a persona secondo l\'operatore e il livello del campo, con attrezzatura, pasti e guida inclusi; l\'escursione extra fino alla base del Fuego costa di solito 20-30 € in più',
     comePrenotare: 'Con le agenzie del centro di Antigua o con gli operatori specializzati; fuori stagione anche il giorno prima, in alta stagione meglio qualche giorno prima.',
     cosaPortare:
       'Strati termici seri, perché al campo si va vicino allo zero. Scarpe da trekking con buona presa, torcia frontale, almeno 3-4 litri d\'acqua (spesso non è inclusa), guanti e berretto.',
@@ -42,7 +42,7 @@ export const esperienzeGuatemala: Esperienza[] = [
       'Ogni villaggio del lago ha un\'identità sua (la tessitura a San Juan, la vita tradizionale a Santiago, le scuole di spagnolo a San Pedro, lo yoga a San Marcos), e per capirlo bisogna vederne almeno tre o quattro di fila.',
     durata: 'una giornata per 3-4 villaggi; ogni tratta dura tra i 10 e i 40 minuti',
     periodo: 'tutto l\'anno, sempre al mattino: dal primo pomeriggio si alza il vento Xocomil e il lago diventa mosso',
-    costo: 'indicativamente 10-25 GTQ a tratta (1-3€), da pagare in contanti a bordo',
+    costo: 'indicativamente 10-25 GTQ a tratta (1-3 €), da pagare in contanti a bordo',
     comePrenotare: 'Nessuna prenotazione: ci si presenta al molo e si aspetta la partenza successiva, con corse frequenti fino al tramonto.',
     cosaPortare: 'Contanti in quetzales in piccoli tagli, giacca antivento e antispruzzo, protezione solare.',
     perChiEAdatta: 'Adatta a tutti; chi soffre il mal di mare farebbe bene a muoversi la mattina presto, quando l\'acqua è ferma.',

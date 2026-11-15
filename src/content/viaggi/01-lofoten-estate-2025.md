@@ -15,7 +15,7 @@ Delle Lofoten mi è rimasta addosso prima di tutto la luce. A luglio il sole di 
 - **Quando andare:** luglio, in piena estate polare: luce lunghissima, ma clima comunque
   freddo e ventoso, da mettere in conto anche in stagione.
 - **Documenti/visto:** nessuno, la Norvegia è in area Schengen.
-- **Budget indicativo:** 500-600€ a testa solo per i pasti; a parte voli,
+- **Budget indicativo:** 500-600 € a testa solo per i pasti; a parte voli,
   noleggio auto, traghetti e alloggi.
 - **Come mi sono mosso:** volo internazionale su Oslo, volo interno Oslo–Bodø, auto a
   noleggio per tutto il resto, traghetti locali per gli spostamenti tra isole e fiordi.
@@ -26,7 +26,7 @@ Delle Lofoten mi è rimasta addosso prima di tutto la luce. A luglio il sole di 
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Oslo
-Siamo atterrati a Gardermoen verso l'ora di pranzo. La città è a 19 minuti di **Flytoget**: dentro il terminal si seguono i cartelli «Flytoget Airport Express», i treni partono ogni dieci minuti e il biglietto costa circa 210 NOK. Da Oslo S il Citybox Hotel è a cinque minuti a piedi.
+Siamo atterrati a Gardermoen verso l'ora di pranzo. La città è a una ventina di minuti di **Flytoget**: dentro il terminal si seguono i cartelli «Flytoget Airport Express», i treni partono ogni dieci minuti e il biglietto costa circa 276 NOK. Da Oslo S il Citybox Hotel è a cinque minuti a piedi.
 
 Il pomeriggio è stato una lunga camminata: i giardini del Palazzo Reale, il lungomare di Aker Brygge, il museo Astrup Fearnley di Renzo Piano e infine l'Opera House, dove siamo saliti sul tetto a guardare la città e il mare. Al bar interno un tè caldo ci stava tutto, anche a luglio. Abbiamo cenato da **Rorbua**, sempre ad Aker Brygge: cucina norvegese tradizionale, porzioni generose, prezzi nella media, legno ovunque.
 
@@ -200,6 +200,9 @@ ancora: le foto.
 - [ ] foto della spiaggia di Bunes
 - [ ] foto del campo da calcio di Henningsvær
 - [ ] mappa dell'itinerario complessivo (Oslo → Bodø → Svolvær → Reine/Nesland → Å)
+
+## Nota su questa bozza
+Flytoget allineato al 15/11/2026 su flytoget.no: 276 NOK adulto Oslo S-aeroporto, 19 minuti dal centro (prima nel Giorno 1 c'erano 19 minuti e 210 NOK).
 
 ## Tag
 `#norvegia` `#lofoten` `#on-the-road` `#estate-polare` `#trekking`

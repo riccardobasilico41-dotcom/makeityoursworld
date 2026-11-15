@@ -228,10 +228,10 @@ export const cinaPaesaggiMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Intercontinental flights', valore: undefined },
-    { etichetta: 'Three domestic flights', valore: "roughly 60-120€ each when booked in advance" },
-    { etichetta: 'Lodging', valore: "40€ a night in provincial cities, less in the trek guesthouses" },
+    { etichetta: 'Three domestic flights', valore: "roughly €60-120 each when booked in advance" },
+    { etichetta: 'Lodging', valore: "€40 a night in provincial cities, less in the trek guesthouses" },
     { etichetta: 'Park admissions', valore: "Zhangjiajie ~236 yuan + cable cars, Tianmen Shan 250-280, Yulong Xueshan ~240 in total, gorge ~65" },
     { etichetta: 'Shows', valore: "Impression Lijiang 190-280 yuan, Impression Liu Sanjie extra" },
-    { etichetta: 'Meals', valore: "under 10€ almost everywhere, meals included in the trek guesthouses" },
+    { etichetta: 'Meals', valore: "under €10 almost everywhere, meals included in the trek guesthouses" },
   ],
 }

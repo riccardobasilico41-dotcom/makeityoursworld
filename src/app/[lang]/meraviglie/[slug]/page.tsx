@@ -110,6 +110,9 @@ const T = {
   },
 } satisfies Record<Lingua, Record<string, string>>
 
+// slug fuori dall'elenco: nessuna rotta, quindi la 404 vera di global-not-found.tsx (già nell'HTML)
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   return getAllMeraviglie(await linguaCorrente()).map((m) => ({ slug: m.slug }))
 }

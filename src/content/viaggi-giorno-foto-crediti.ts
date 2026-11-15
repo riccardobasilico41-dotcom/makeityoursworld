@@ -3127,52 +3127,52 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/group-of-people-on-concrete-road-between-buildings-oBCc0Hw6LrQ',
     },
-    'Giorno 2 — Delhi: Humayun, Qutub Minar e volo per Varanasi': {
+    'Giorno 2 — Delhi: Humayun, Qutub Minar e il treno notturno per Varanasi': {
       autore: 'Aamir Ahmad (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/qutub-minar-stands-tall-under-a-bright-cloudy-sky-7hmAhQww2oE',
     },
-    'Giorno 9 — Jaipur: i bazar e la strada per Pushkar': {
+    'Giorno 11 — Jaipur: i bazar e la strada per Pushkar': {
       autore: 'Vivek (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/aerial-view-of-city-near-body-of-water-during-daytime-8R-LJY4fcd8',
     },
-    'Giorno 10 — Pushkar all\'alba e la strada per Jodhpur': {
+    'Giorno 12 — Pushkar all\'alba e la strada per Jodhpur': {
       autore: 'Anuj Bansal (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-body-of-water-with-buildings-along-it-WlM-gMrLlTg',
     },
-    'Giorno 11 — Jodhpur: Mehrangarh e la città blu': {
+    'Giorno 13 — Jodhpur: Mehrangarh e la città blu': {
       autore: 'Vishal Gehlot (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-city-with-a-large-rock-cliff-U2Ji6d9CEGM',
     },
-    'Giorno 12 — Verso Jaisalmer e la notte nel deserto del Thar': {
+    'Giorno 14 — Verso Jaisalmer e la notte nel deserto del Thar': {
       autore: 'Sumit Kr Sau (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-person-riding-a-camel-in-the-desert-at-sunset-DmK8oBcHLck',
     },
-    'Giorno 13 — Jaisalmer, la città d\'oro': {
+    'Giorno 15 — Jaisalmer, la città d\'oro': {
       autore: 'jacopo marello (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/flock-of-birds-flying-over-ancient-golden-fort-bOti4ZCWD7A',
     },
-    'Giorno 14 — Da Jaisalmer a Jodhpur': {
+    'Giorno 16 — Da Jaisalmer a Jodhpur': {
       autore: 'Gaurav Mishra (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/view-of-a-blue-city-through-an-ornate-arched-window-iDZYORYicps',
     },
-    'Giorno 15 — Ranakpur e l\'arrivo a Udaipur': {
+    'Giorno 17 — Ranakpur e l\'arrivo a Udaipur': {
       autore: 'Shravan Suthar (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/people-walking-near-brown-concrete-building-during-daytime-m9V16z4s70Y',
     },
-    'Giorno 16 — Udaipur, la città dei laghi': {
+    'Giorno 18 — Udaipur, la città dei laghi': {
       autore: 'Subhashis Das (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-large-white-building-sitting-on-top-of-a-lake-Jmfy_ec20bk',
     },
-    'Giorno 17 — Volo da Udaipur a Delhi e partenza': {
+    'Giorno 19 — Da Udaipur a Delhi e partenza': {
       autore: 'Yashowardhan Singh (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-large-building-sitting-on-top-of-a-large-body-of-water-elw0OH-JRaE',
@@ -3189,22 +3189,22 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-stone-carving-of-elephants-and-other-animals-3OWW1ya-CEY',
     },
-    'Giorno 2 — Mamallapuram: il tempio sul mare e i Cinque Ratha': {
+    'Giorno 5 — Mamallapuram: il tempio sul mare e i Cinque Ratha': {
       autore: 'Brijender Dua (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-group-of-people-walking-around-a-stone-structure-LHKIQC-S5pI',
     },
-    'Giorno 3 — Puducherry, la città francese': {
+    'Giorno 6 — Puducherry, la città francese': {
       autore: 'maniraj (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/aerial-view-of-city-buildings-near-body-of-water-during-daytime-mJ9jvm9OkYA',
     },
-    'Giorno 4 — Verso Thanjavur e il tempio di Brihadeeswarar': {
+    'Giorno 7 — Verso Thanjavur e il tempio di Brihadeeswarar': {
       autore: 'mariyan rajesh (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-very-tall-building-with-birds-flying-around-it-gq5WGKFwK4o',
     },
-    'Giorno 5 — Da Thanjavur a Madurai e la cerimonia della sera al Meenakshi': {
+    'Giorno 8 — Da Thanjavur a Madurai e il tempio di Meenakshi': {
       autore: 'Priya Singh (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-tall-tower-with-a-statue-on-top-of-it-euPcmfnuOe8',
@@ -3214,47 +3214,47 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/brown-concrete-building-with-waters-between-kFsWnzm-psY',
     },
-    'Giorno 7 — Dalle pianure alle colline di Munnar': {
+    'Giorno 9 — Il mercato dei fiori e la salita a Munnar': {
       autore: 'Omkar Shedsale (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/winding-road-through-green-tea-plantations-under-cloudy-sky-3x0Q5OBorNM',
     },
-    'Giorno 8 — Munnar: le piantagioni di tè e il parco di Eravikulam': {
+    'Giorno 10 — Munnar: le piantagioni di tè e il parco di Eravikulam': {
       autore: 'Vivek Kumar (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/tea-gardens-on-munnar-hills-JS_ohjocm00',
     },
-    'Giorno 9 — Le backwaters: una notte in houseboat ad Alleppey': {
+    'Giorno 11 — Le backwaters: una notte in houseboat ad Alleppey': {
       autore: 'Abhishek Prasad (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/houseboat-on-alappuzha-backwaters-ii0oWs5abCo',
     },
-    'Giorno 10 — Dalle backwaters a Fort Kochi': {
+    'Giorno 12 — Dalle backwaters a Fort Kochi': {
       autore: 'Gurth Bramall (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/large-chinese-fishing-nets-stand-over-the-ocean-5_KaEisx5AA',
     },
-    'Giorno 11 — Fort Kochi e Mattancherry': {
+    'Giorno 13 — Fort Kochi e Mattancherry': {
       autore: 'Sai Sumith (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-building-with-a-mural-on-the-side-of-it-KhpZJF-TofM',
     },
-    'Giorno 12 — Volo per Bangalore e treno notturno per Hampi': {
+    'Giorno 14 — Volo per Bangalore e treno notturno per Hampi': {
       autore: 'Adhirej J R Nair (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/red-and-white-train-on-rail-1mXWRoDIZIM',
     },
-    'Giorno 13 — Hampi: il bazar, il tempio di Virupaksha e il tramonto su Matanga': {
+    'Giorno 15 — Hampi: il bazar, il tempio di Virupaksha e il tramonto su Matanga': {
       autore: 'Adarsh Sudheesan (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-river-running-through-it-yADr4J5jzOM',
     },
-    'Giorno 14 — Hampi: il Centro reale, il tempio di Vittala e il treno notturno': {
+    'Giorno 16 — Hampi: il Centro reale, il tempio di Vittala e il treno notturno': {
       autore: 'Aravind Shivkumar (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-group-of-stone-structures-sitting-on-top-of-a-dirt-field-jDMCUnvD5lY',
     },
-    'Giorno 17 — Delhi e partenza': {
+    'Giorno 2 — Delhi: Humayun, Qutub Minar e la Nuova Delhi': {
       autore: 'Shubham Sharma (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-large-building-with-a-fountain-in-front-of-it-pwPSbwExzcY',

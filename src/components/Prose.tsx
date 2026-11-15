@@ -2,6 +2,8 @@ import { Children, isValidElement, type ReactElement, type ReactNode } from 'rea
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { CardRicordo } from '@/components/scheda/CardRicordo'
+import Link from '@/components/ui/Link'
+import { canonico } from '@/lib/i18n/percorsi'
 
 /** «*Il mio ricordo: …*» (e le versioni EN/ES) diventano la card scura del ricordo. */
 const RICORDO = /^\s*(Il mio ricordo|My memory|Mi recuerdo)\s*:\s*/i
@@ -33,6 +35,13 @@ export function Prose({ children, className = '' }: { children: string; classNam
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
         components={{
+          // link interni dei contenuti (di solito canonici, /viaggi/tromso; a volte già pubblici, /es/destinos/…):
+          // riportati alla forma canonica, <Link> li porta nella lingua della pagina; esterni e ancore restano
+          a({ href, children: figli, node: _n, ...resto }) {
+            if (href && href.startsWith('/') && !href.startsWith('//'))
+              return <Link href={canonico(href).percorso} {...resto}>{figli}</Link>
+            return <a href={href} {...resto}>{figli}</a>
+          },
           p({ children: figli }) {
             const r = ricordoDa(figli)
             if (r) return <CardRicordo etichetta={r.etichetta} className="my-10">{r.corpo}</CardRicordo>

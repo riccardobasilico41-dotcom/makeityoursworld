@@ -23,7 +23,7 @@ export const indonesiaIsolaPerIsolaMeta: TripMeta = {
   criticita: [
     'Precios, horarios, cierres y tasas locales cambian a menudo: hay que comprobarlos antes de salir',
     'El Rinjani suele cerrar en los primeros meses del año (en 2026 del 1 de enero al 31 de marzo) y puede cerrar senderos también en estación seca',
-    'El importe del permiso de Raja Ampat para extranjeros no está confirmado',
+    'El importe del permiso de Raja Ampat para extranjeros cambia a menudo: se paga allí, en Sorong o en Waisai',
     'Rick no ha visitado el Borneo indonesio: solo información básica',
   ],
   budgetTotale: undefined,
@@ -49,7 +49,7 @@ export const indonesiaIsolaPerIsolaMeta: TripMeta = {
     { titoloGiorno: 'Lombok y las Gili', tratta: 'Vuelo a Lombok o lancha rápida desde Bali', intensita: 'intenso', costiNoti: 'Rinjani con guía y operador autorizado, reserva en la app oficial E-Rinjani; en 2026 cerrado del 1 de enero al 31 de marzo', destinazioneSlug: 'lombok-gili', immagine: '/images/indonesia/gili-isolotto-barche-riccardo.jpg', imageAlt: "Un islote de arena blanca frente a Lombok, con barcas de balancín amarradas y colinas al fondo" },
     { titoloGiorno: 'Java', tratta: 'Vuelo a Yakarta, Yogyakarta o Surabaya', intensita: 'intenso', costiNoti: 'entrada con cupo para subir a Borobudur', destinazioneSlug: 'giava', immagine: '/images/indonesia/bromo-alba-drone-riccardo.jpg', imageAlt: "El cráter del Bromo humeando en la caldera llena de niebla al amanecer, visto desde el dron" },
     { titoloGiorno: 'Sumatra', tratta: 'Vuelo a Medan o Padang', intensita: 'intenso', destinazioneSlug: 'sumatra', immagine: '/images/viaggi/indonesia-itinerario/giorno-04-lago-toba.jpg', imageAlt: "Vista panorámica del lago Toba y del pueblo de Parapat desde el agua, Sumatra" },
-    { titoloGiorno: 'Las Mentawai', tratta: 'Ferri rápido Mentawai Fast desde Padang', intensita: 'intenso', costiNoti: 'tasa de surf con importe por comprobar', destinazioneSlug: 'mentawai', immagine: '/images/indonesia/mentawai-costa-foresta.webp', imageAlt: "La selva de las Mentawai llegando hasta el mar, con un río serpenteando hacia la costa, vista desde el dron" },
+    { titoloGiorno: 'Las Mentawai', tratta: 'Ferri rápido Mentawai Fast desde Padang', intensita: 'intenso', costiNoti: 'tasa local de surf a pagar antes de entrar al agua', destinazioneSlug: 'mentawai', immagine: '/images/indonesia/mentawai-costa-foresta.webp', imageAlt: "La selva de las Mentawai llegando hasta el mar, con un río serpenteando hacia la costa, vista desde el dron" },
     { titoloGiorno: 'Komodo y Flores', tratta: 'Vuelo directo desde Bali o Yakarta a Labuan Bajo', intensita: 'medio', costiNoti: 'entrada al parque 250.000 IDR por persona para extranjeros desde el 30/10/2024', destinazioneSlug: 'komodo', immagine: '/images/viaggi/indonesia-itinerario/giorno-28-komodo-dragon.jpg', imageAlt: "Primer plano de la cabeza de un dragón de Komodo con la lengua bífida fuera, Parque Nacional de Komodo" },
     { titoloGiorno: 'Célebes', tratta: 'Vuelo a Makassar o Manado; 8-10 h de carretera a Toraja', intensita: 'medio', destinazioneSlug: 'sulawesi', immagine: '/images/viaggi/indonesia-itinerario/giorno-33-kete-kesu-tongkonan.jpg', imageAlt: "La fachada tallada y pintada de una tongkonan en Kete Kesu, decorada con cuernos de búfalo apilados, Tana Toraja" },
     { titoloGiorno: 'Raja Ampat', tratta: 'Vuelo a Sorong, ferri a Waisai unas 2h', intensita: 'medio', costiNoti: 'billete del ferri en el puerto; permiso del parque obligatorio', destinazioneSlug: 'raja-ampat', immagine: '/images/viaggi/bali-sulawesi-raja-ampat/giorno-09-piaynemo.webp', imageAlt: "Las islas kársticas de Piaynemo cubiertas de selva, entre lagunas verdes y canales" },
@@ -59,8 +59,8 @@ export const indonesiaIsolaPerIsolaMeta: TripMeta = {
     { etichetta: 'Visado e-VOA', valore: 'unos 500.000 IDR' },
     { etichetta: 'Tasa turística de Bali', valore: '150.000 IDR por persona' },
     { etichetta: 'Entrada al Parque de Komodo', valore: '250.000 IDR por persona para extranjeros, trekking y snorkel incluidos' },
-    { etichetta: 'Ferri Sorong-Waisai', valore: 'billete en el puerto, economy o VIP; precio por comprobar' },
-    { etichetta: 'Permiso de Raja Ampat (PIN)', valore: 'obligatorio, importe para extranjeros por comprobar' },
+    { etichetta: 'Ferri Sorong-Waisai', valore: 'billete en el puerto, economy o VIP' },
+    { etichetta: 'Permiso de Raja Ampat (PIN)', valore: 'obligatorio, se paga en Sorong o en Waisai' },
     { etichetta: 'Vuelos internos', valore: undefined },
   ],
 }

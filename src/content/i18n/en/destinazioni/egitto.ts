@@ -406,7 +406,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "quando": "At opening: the light is better and there are fewer groups.",
         "tempo": "3-4 hours",
         "costo": "EGP 700, about €11.50, for foreign adults, 350 for students (2026). Great Pyramid, pyramids of Khafre and Menkaure, tomb of Meresankh III and workers' cemetery extra.",
-        "orari": "Daily from 7am, last entry 4pm (official ticket office egymonuments.com, 2026)",
+        "orari": "Daily from 7am, last entry 4pm (2026)",
         "lat": 29.97611,
         "lng": 31.13278,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
@@ -496,7 +496,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Uber or taxi from the plateau, about 10 minutes. Timed entry, to be booked online.",
         "quando": "Half a day after the pyramids; on Wednesdays and Saturdays it stays open into the evening.",
         "tempo": "3-4 hours",
-        "costo": "EGP 1,830, about €30, from 1 November 2026 (from the trip on this site)",
+        "costo": "EGP 1,830, about €30, from 1 November 2026",
         "orari": "Sunday, Monday, Tuesday, Thursday and Friday: complex 8:30am-7pm, galleries 9am-6pm; Wednesday and Saturday: complex 8:30am-10pm, galleries 9am-9pm; last entry one hour before the galleries close (2026)",
         "lat": 29.995,
         "lng": 31.1193,
@@ -820,7 +820,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Inside the Valley of the Kings, separate ticket sold at the valley entrance.",
         "quando": "Morning, in the same visit to the valley.",
         "tempo": "30-40 minutes",
-        "costo": "about EGP 2,000, about €33 (2026, from the trip on this site)",
+        "costo": "about EGP 2,000, about €33 (2026)",
         "lat": 25.73981,
         "lng": 32.60189,
         "consiglio": "If you pay for only one extra tomb, this one is worth more than Tutankhamun's for the paintings."
@@ -1112,7 +1112,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "From the Aswan riverfront.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
-        "costo": "roughly 300-600 EGP per hour per boat, about €5-10 (2026, from the trip on this site)",
+        "costo": "roughly 300-600 EGP per hour per boat, about €5-10 (2026)",
         "consiglio": "Agree whether the price is per boat or per person, and how long it lasts."
       },
       {
@@ -1322,7 +1322,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Edfu",
         "distanza": "about 110 km, 2 hours",
         "come": "Car with driver, often on the same day as Kom Ombo, or on a cruise.",
-        "testo": "The Temple of Horus, the best preserved in the country, with pylon, hypostyle hall and sanctuary almost intact. Ticket 550 EGP (2026, from the trip on this site)."
+        "testo": "The Temple of Horus, the best preserved in the country, with pylon, hypostyle hall and sanctuary almost intact. Ticket 550 EGP (2026)."
       },
       {
         "nome": "Sehel Island",

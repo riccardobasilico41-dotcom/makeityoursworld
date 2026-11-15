@@ -154,19 +154,19 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Negombo seafront",
         "perChi": "arrival and departure",
         "testo": "Seafront hotels near Colombo airport. Convenient, but not much that is authentic beyond the fish market.",
-        "fascia": "40-100 €"
+        "fascia": "€40-100"
       },
       {
         "nome": "Lewis Place",
         "perChi": "budget",
         "testo": "The coast road north of the centre, towards the fish market: family-run guesthouses and small hotels a few steps from the beach.",
-        "fascia": "20-50 €"
+        "fascia": "€20-50"
       },
       {
         "nome": "Lagoon and Jetwing hotels",
         "perChi": "comfort and a pool",
         "testo": "Resorts with pools between the sea and the lagoon, such as the Jetwing hotels and the Heritance: pricier, but comfortable for resting before or after the flight.",
-        "fascia": "80-180 €"
+        "fascia": "€80-180"
       }
     ],
     sapori: [
@@ -393,19 +393,19 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "New town and lake",
         "perChi": "those who want a comfortable hotel",
         "testo": "Hotels and guesthouses overlooking the lake, a few minutes from the sites by tuk-tuk. The most practical area.",
-        "fascia": "25-80 €"
+        "fascia": "€25-80"
       },
       {
         "nome": "Out of town",
         "perChi": "those after luxury and quiet",
         "testo": "Country villas and resorts, farther from the sites; transfers needed.",
-        "fascia": "150-400 €"
+        "fascia": "€150-400"
       },
       {
         "nome": "Near Mihintale",
         "perChi": "those heading east",
         "testo": "Guesthouses and small country hotels on the road to Mihintale, about 20 minutes from the sites: handy for climbing Mihintale at dawn.",
-        "fascia": "25-60 €"
+        "fascia": "€25-60"
       }
     ],
     sapori: [
@@ -904,19 +904,19 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Dambulla or Sigiriya",
         "perChi": "day trip",
         "testo": "Polonnaruwa is visited in half a day from Dambulla or Sigiriya, without staying overnight.",
-        "fascia": "30-90 €"
+        "fascia": "€30-90"
       },
       {
         "nome": "New Polonnaruwa",
         "perChi": "those who want to stay close",
         "testo": "Guesthouses and small hotels near the lake and the site; little nightlife.",
-        "fascia": "20-50 €"
+        "fascia": "€20-50"
       },
       {
         "nome": "Habarana and Giritale",
         "perChi": "safaris and comfort",
         "testo": "Resorts with pools between Polonnaruwa and Sigiriya, near Minneriya and Kaudulla parks: handy for combining the site with a safari.",
-        "fascia": "50-150 €"
+        "fascia": "€50-150"
       }
     ],
     sapori: [
@@ -1017,8 +1017,8 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "On foot from the centre, by the lake. You enter barefoot with shoulders and knees covered; the relic is enclosed in seven golden caskets in the chamber called Handun Kunama. Shorts and sleeveless tops are not allowed; suitable clothing is available at the entrance.",
         "quando": "Open daily 5:30 am to 8 pm. Ceremonies are at 5:30 am, 9:30 am and 6:30 pm: for the evening one the queue forms already in the late afternoon.",
         "tempo": "2 hours",
-        "costo": "3,000 LKR (about €9) for foreigners (2026, official site), including the complex's museums; in 2023 it was 2,000 LKR. Only tickets from the temple's machines are valid.",
-        "orari": "Daily 5:30 am to 8 pm; ceremonies at 5:30 am, 9:30 am and 6:30 pm (official site, 2026).",
+        "costo": "3,000 LKR (about €9) for foreigners (2026), including the complex's museums; in 2023 it was 2,000 LKR. Only tickets from the temple's machines are valid.",
+        "orari": "Daily 5:30 am to 8 pm; ceremonies at 5:30 am, 9:30 am and 6:30 pm (2026).",
         "lat": 7.2936,
         "lng": 80.6414,
         "url": "https://sridaladamaligawa.lk/",
@@ -1030,7 +1030,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "By tuk-tuk or bus from central Kandy, about 20 minutes. You walk around: the avenues are shaded, but the garden is big.",
         "quando": "Morning, before the heat; at weekends many local families come.",
         "tempo": "2-3 hours",
-        "orari": "Daily 7:30 am to 6 pm (official site, 2026).",
+        "orari": "Daily 7:30 am to 6 pm (2026).",
         "lat": 7.27111,
         "lng": 80.59556,
         "url": "https://en.botanicgardens.gov.lk/"
@@ -1231,7 +1231,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "domanda": "What time is the ceremony at the Temple of the Tooth?",
-        "risposta": "Ceremonies are at 5:30 am, 9:30 am and 6:30 pm (official site, 2026). For the evening one it pays to queue from the late afternoon."
+        "risposta": "Ceremonies are at 5:30 am, 9:30 am and 6:30 pm (2026). For the evening one it pays to queue from the late afternoon."
       },
       {
         "domanda": "What should you wear to the Temple of the Tooth?",
@@ -1390,19 +1390,19 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Nallathanniya",
         "perChi": "those climbing at night",
         "testo": "The village where the trail starts: basic guesthouses such as the Wathsala Inn, with valley views. Not a holiday spot.",
-        "fascia": "15-40 €"
+        "fascia": "€15-40"
       },
       {
         "nome": "Hatton",
         "perChi": "more comfort",
         "testo": "Nearby town with more choice of lodging and restaurants, but further from the trailhead: the peak is about 32 km away.",
-        "fascia": "30-80 €"
+        "fascia": "€30-80"
       },
       {
         "nome": "Maskeliya and Castlereagh lakes",
         "perChi": "those staying a few days",
         "testo": "Bungalows and small hotels on the tea estates around the lakes, 30-60 minutes from the trail: quieter and more comfortable, but far for the night start.",
-        "fascia": "60-150 €"
+        "fascia": "€60-150"
       }
     ],
     sapori: [
@@ -1630,19 +1630,19 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Nuwara Eliya centre",
         "perChi": "those who want to walk",
         "testo": "Hotels and restaurants a few minutes from the park and market. More noise and traffic.",
-        "fascia": "30-90 €"
+        "fascia": "€30-90"
       },
       {
         "nome": "Tea hills",
         "perChi": "views and quiet",
         "testo": "Plantations and charming resorts such as the Heritance Tea Factory, farther from the centre.",
-        "fascia": "120-250 €"
+        "fascia": "€120-250"
       },
       {
         "nome": "Gregory Lake",
         "perChi": "families and walks",
         "testo": "Hotels and guesthouses around the lake, a few minutes from the centre: greener and less traffic, with the lakeside promenade on the doorstep.",
-        "fascia": "40-110 €"
+        "fascia": "€40-110"
       }
     ],
     sapori: [
@@ -2085,19 +2085,19 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Hikkaduwa seafront",
         "perChi": "nightlife and surf",
         "testo": "Bars, surf schools and hotels along the main road. Noisy and busy.",
-        "fascia": "40-110 €"
+        "fascia": "€40-110"
       },
       {
         "nome": "Seafront hotels outside the centre",
         "perChi": "quiet",
         "testo": "Boutique hotels such as the Sapphire Seas, directly on the beach, in less busy areas.",
-        "fascia": "60-150 €"
+        "fascia": "€60-150"
       },
       {
         "nome": "Narigama",
         "perChi": "surf and budget",
         "testo": "Guesthouses, hostels and small hotels on the stretch of beach with the best waves, close to the bars: cheap and lively, noisy at night.",
-        "fascia": "15-50 €"
+        "fascia": "€15-50"
       }
     ],
     sapori: [

@@ -69,7 +69,7 @@ export const baleariItinerarioMeta: TripMeta = {
       pernottamento: 'Palma o Sóller, Mallorca',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'trenino storico Palma-Sóller circa 32€ A/R',
+      costiNoti: 'trenino storico Palma-Sóller circa 32 € A/R',
       destinazioneSlug: 'mallorca',
       immagine: '/images/viaggi/baleari-itinerario/giorno-02-mallorca.jpg',
       imageAlt: 'Il borgo di Valldemossa incastonato tra le montagne della Serra de Tramuntana, con il campanile della parrocchia e i tetti in pietra tra il verde',
@@ -132,10 +132,10 @@ export const baleariItinerarioMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli intercontinentali/internazionali', valore: undefined },
-    { etichetta: 'Traghetti tra le isole', valore: 'Palma-Ibiza da 24€, Alcúdia-Ciutadella da 12€, secondo tratta e anticipo di prenotazione' },
-    { etichetta: 'Trenino storico Sóller', valore: 'circa 32€ A/R' },
+    { etichetta: 'Traghetti tra le isole', valore: 'Palma-Ibiza da 24 €, Alcúdia-Ciutadella da 12 €, secondo tratta e anticipo di prenotazione' },
+    { etichetta: 'Trenino storico Sóller', valore: 'circa 32 € A/R' },
     { etichetta: 'Auto a noleggio', valore: 'su ciascuna delle tre isole, prezzi molto più alti a luglio-agosto' },
-    { etichetta: 'Vita notturna a Ibiza', valore: 'molto variabile, ingressi ai grandi club anche oltre 60-100€ in alta stagione' },
+    { etichetta: 'Vita notturna a Ibiza', valore: 'molto variabile, ingressi ai grandi club anche oltre 60-100 € in alta stagione' },
     { etichetta: 'Alloggi e pasti', valore: 'tra le mete più care d\'Europa a luglio-agosto, nella media negli altri mesi' },
   ],
 }

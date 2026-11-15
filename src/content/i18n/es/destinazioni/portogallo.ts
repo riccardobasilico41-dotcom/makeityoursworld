@@ -93,7 +93,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Desde el centro con el tranvía 15 o con el tren desde Cais do Sodré hasta Belém. La entrada es para el claustro; la iglesia tiene su propio horario.",
         "quando": "Claustro de martes a domingo de 9:30 a 17:30, última entrada a las 17. Cerrado los lunes, el 1 de enero, el domingo de Pascua, el 1 de mayo, el 13 de junio y el 25 de diciembre. Llegar a la apertura: a media mañana la cola crece.",
         "tempo": "1,5 horas",
-        "costo": "Claustro 18 €, 2026 (web oficial)",
+        "costo": "Claustro 18 €, 2026",
         "orari": "Martes a domingo 9:30-17:30. Cerrado el lunes.",
         "lat": 38.6979,
         "lng": -9.2068,
@@ -106,7 +106,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "A pie desde los Jerónimos junto al río. El tranvía 15 y el tren paran cerca.",
         "quando": "De martes a domingo de 9:30 a 17:30; cerrada los lunes y los mismos festivos que los Jerónimos. Puede cerrar cuando el tiempo hace la visita poco segura. El atardecer la ilumina bien desde fuera.",
         "tempo": "45 minutos dentro, más el paseo",
-        "costo": "15 €, 2026 (web oficial)",
+        "costo": "15 €, 2026",
         "orari": "Martes a domingo 9:30-17:30. Cerrada el lunes.",
         "lat": 38.6916,
         "lng": -9.216,
@@ -150,7 +150,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "consiglio": "Subir en la cabecera para tener asiento."
       },
       {
-        "nome": "LX Factory e Cais do Sodré",
+        "nome": "LX Factory y Cais do Sodré",
         "testo": "LX Factory es un complejo industrial reconvertido bajo el puente 25 de Abril, con librerías, tiendas y restaurantes. Cerca, en Cais do Sodré, está el Time Out Market, en el mercado de la Ribeira, con puestos de comida de chefs.",
         "come": "LX Factory: tranvía 15 o autobús desde el centro. Time Out Market: metro Cais do Sodré, a pie desde la Baixa.",
         "quando": "LX Factory por la tarde y los domingos con el mercadillo. Time Out Market a mediodía, pero va lleno.",
@@ -161,7 +161,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "consiglio": "Para cenar, el barrio de Cais do Sodré con la Pink Street está más animado que el Time Out Market."
       },
       {
-        "nome": "Oceanário e Parque das Nações",
+        "nome": "Oceanário y Parque das Nações",
         "testo": "Uno de los mayores acuarios cubiertos de Europa, abierto en 1998, con un gran tanque central y los hábitats de los cuatro océanos. El Parque das Nações, el recinto de la Expo 98, tiene un paseo junto al Tajo y un teleférico.",
         "come": "Metro rojo hasta Oriente y luego un corto paseo. Desde el aeropuerto está en la misma línea.",
         "quando": "Por la mañana, con menos grupos escolares. Útil en días de lluvia.",
@@ -430,7 +430,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Parque de 9 a 19 h, palacio de 9:30 a 18:30 h (último billete a las 17:30). El palacio solo se visita con fecha y franja horaria reservadas. A primera hora: después de las 10:30 la cola se alarga. Entradas online en Parques de Sintra.",
         "tempo": "2-3 horas con el parque",
         "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
-        "costo": "Visita Essencial (parque y palacio) 20 €, solo parque 12 €, 2026 (web oficial)",
+        "costo": "Visita Essencial (parque y palacio) 20 €, solo parque 12 €, 2026",
         "consiglio": "El parque se puede visitar solo, sin la cola del palacio, y tiene miradores: útil si las colas son demasiado largas.",
         "orari": "Parque de 9 a 19 (último acceso a las 18), palacio de 9:30 a 18:30 (último acceso a las 17:30).",
         "lat": 38.78778,
@@ -444,7 +444,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "2 horas",
         "url": "https://www.regaleira.pt/",
         "consiglio": "Bajar al pozo con calzado antideslizante y volver por los túneles: la salida es más bonita que el descenso.",
-        "costo": "20 euros desde enero de 2026 (web oficial)",
+        "costo": "20 € desde enero de 2026",
         "orari": "Enero-marzo y octubre-diciembre de 10 a 18:30; abril-septiembre de 9 a 19:30. Último acceso siempre a las 17:30; el palacio y la capilla cierran 30 minutos antes que el jardín.",
         "lat": 38.79511,
         "lng": -9.3962
@@ -457,7 +457,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "1-1,5 horas",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "Si solo hay tiempo para un castillo o palacio además de la Pena, aquí hay menos gente.",
-        "costo": "12 euros (Parques de Sintra)",
+        "costo": "12 € (Parques de Sintra)",
         "orari": "De 9:30 a 18, último acceso a las 17:30.",
         "lat": 38.79241,
         "lng": -9.38867
@@ -470,7 +470,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "1 hora",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "Visitarlo si se está en el pueblo por la tarde: menos cola que la Pena.",
-        "costo": "visita esencial 13 euros (Parques de Sintra)",
+        "costo": "visita esencial 13 € (Parques de Sintra)",
         "orari": "Palacio y jardines de 9:30 a 18:30; último acceso al palacio a las 17:30.",
         "lat": 38.79778,
         "lng": -9.39083
@@ -492,7 +492,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Al oeste del centro, con el autobús 435 de Scotturb desde la estación o en coche. La carretera pasa por delante de la Quinta da Regaleira y de Seteais.",
         "quando": "Por la tarde, después de la Pena; con el sol bajo el palacio se vuelve rosado.",
         "tempo": "2 horas",
-        "costo": "12 euros (Parques de Sintra)",
+        "costo": "12 € (Parques de Sintra)",
         "orari": "Parque de 9 a 19 (último acceso a las 18), palacio de 9:30 a 18.",
         "lat": 38.79423,
         "lng": -9.42065,
@@ -504,7 +504,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Está aislado en el bosque de la sierra, lejos del centro: se llega en coche o en taxi.",
         "quando": "Los días de niebla, cuando el bosque de alrededor luce más.",
         "tempo": "1 hora",
-        "costo": "11 euros (Parques de Sintra)",
+        "costo": "11 € (Parques de Sintra)",
         "orari": "De 9 a 17:30, último acceso a las 17.",
         "lat": 38.7844,
         "lng": -9.43817,
@@ -516,7 +516,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Dentro del parque de la Pena: se llega a pie desde el palacio por los senderos del parque.",
         "quando": "Después de la Pena, cuando la gente se concentra en el palacio.",
         "tempo": "45 minutos",
-        "costo": "incluido en la entrada del parque de la Pena, 12 euros (Parques de Sintra)",
+        "costo": "incluido en la entrada del parque de la Pena, 12 € (Parques de Sintra)",
         "orari": "Chalet de 9 a 17:30, último acceso a las 17; parque de 9 a 19.",
         "lat": 38.7851,
         "lng": -9.39911,
@@ -598,7 +598,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "nome": "Palacio Nacional de Queluz",
         "distanza": "unos 20 minutos en tren",
         "come": "Tren de la línea de Sintra hasta Queluz-Belas, y después a pie hasta el palacio.",
-        "testo": "El palacio rococó de los Braganza, con salones dorados, jardines a la francesa y un canal revestido de azulejos. Está en la línea Lisboa-Sintra, así que se añade sin desvíos. Palacio y jardines 13 euros, solo jardines 6 euros; de 9 a 18, jardines hasta las 18:30 (Parques de Sintra)."
+        "testo": "El palacio rococó de los Braganza, con salones dorados, jardines a la francesa y un canal revestido de azulejos. Está en la línea Lisboa-Sintra, así que se añade sin desvíos. Palacio y jardines 13 €, solo jardines 6 €; de 9 a 18, jardines hasta las 18:30 (Parques de Sintra)."
       }
     ],
     faq: [
@@ -612,7 +612,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "domanda": "¿Cómo se llega a Sintra desde Lisboa?",
-        "risposta": "En el tren de CP desde Rossio, unos 40 minutos; ida y vuelta cuesta 5,10 euros. El billete Train&Bus de 14 euros incluye también los autobuses 434 y 435."
+        "risposta": "En el tren de CP desde Rossio, unos 40 minutos; ida y vuelta cuesta 5,10 €. El billete Train&Bus de 14 € incluye también los autobuses 434 y 435."
       },
       {
         "domanda": "Si solo hay tiempo para un sitio, ¿Pena o Regaleira?",

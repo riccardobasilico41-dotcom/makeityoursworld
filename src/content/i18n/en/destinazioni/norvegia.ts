@@ -344,7 +344,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveDormire: "I didn't stay overnight in Bodø, I only passed through: I don't have an address to recommend for anyone who wants to stop for a night.",
     doveMangiare:
       "Bryggerikaia (opens mid-morning): excellent \"mega-stuffed\" takeaway sandwiches, to eat at the city viewpoint. Melkebaren for breakfast: good, but the service is slow, something to factor in when time is tight.",
-    comeArrivare: "Domestic flight from Oslo Gardermoen, about an hour and a half. Bodø airport is about 1.5 km from the centre: buses 1 and 4 take 5-10 minutes (about 45 NOK, about 4 €, with the Reis Nordland app), a taxi costs 150-250 NOK, or it is a 15-minute walk; car rental desks are in the terminal. From the Lofoten you arrive on the Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about 53 €; passengers free); in summer the car space must be booked on the Torghatten Nord website. By train, the Nordland Line arrives from Trondheim in about 10 hours.",
+    comeArrivare: "Domestic flight from Oslo Gardermoen, about an hour and a half. Bodø airport is about 1.5 km from the centre: buses 1 and 4 take 5-10 minutes (about 45 NOK, about €4, with the Reis Nordland app), a taxi costs 150-250 NOK, or it is a 15-minute walk; car rental desks are in the terminal. From the Lofoten you arrive on the Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about €53; passengers free); in summer the car space must be booked on the Torghatten Nord website. By train, the Nordland Line arrives from Trondheim in about 10 hours.",
     comeSpostarsi: 'On foot in the center; rental car for the rest of the getting around.',
     periodoMigliore: "I passed through in summer, on the way out and back from the Lofoten; for the other months I have no direct reference",
     costi: "I didn't note down the costs of this stop. For reference: Aviation Museum 195 NOK (about 17 €), airport bus about 45 NOK, ferry to Moskenes 605 NOK per car. Indicative daily budget per person: low 90-120 € (hostel, supermarket food, buses); mid 160-230 € (hotel in a double room, a museum, one restaurant dinner); high 300 € and up (harbour-front hotel, rental car, seafood dinners).",
@@ -391,7 +391,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "About 25 minutes on foot from the centre, or by car: it sits by the airport, handy before returning a rental car.",
         quando: "On a rainy day or in the hours before a flight.",
         tempo: "2 hours",
-        costo: "Adults 195 NOK (about 17 €), children 6-16 95 NOK, family 550 NOK (2026)",
+        costo: "Adults 195 NOK (about €17), children 6-16 95 NOK, family 550 NOK (2026)",
         orari: "1 June-16 August daily 10:00-18:00; rest of the year Mon-Fri 10:00-16:00, Sat-Sun 11:00-17:00; closed for maintenance 1-24 January and on the Christmas holidays",
         url: "https://luftfartsmuseum.no",
         lat: 67.2764,
@@ -542,7 +542,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Book a trip with an operator from Svolvær.",
         quando: "Summer, in clear weather.",
         tempo: "2 hours",
-        costo: "1,195 NOK adults, 950 NOK children, about €100 (Lofoten Explorer, 2026)",
+        costo: "1,195 NOK adults, 950 NOK children, about €100 (2026)",
         lat: 68.3628,
         lng: 14.9361,
         url: "https://lofoten-explorer.no",
@@ -1262,10 +1262,10 @@ export const destinazioniNorvegia: Destinazione[] = [
       "I stayed in a private rorbu overlooking the fjord, Casa Flakstad, the most isolated and quiet lodging of the trip. It's a small place, with too few online reviews to quote: a simple, basic rorbu, few lights, plenty of silence, the fjord a few steps away.\n\nAlternatives in Nesland/Flakstad. Budget: Ramberg Gjestegård (simple cabins, 850-1050 NOK a night, discount in low season), Lofoten Beach Camp (family-run campsite in Ramberg, sauna and picnic area) · mid-range (the rorbu I chose falls here): Lofoten Nesland Guesthouse (very high review score, quiet location with an ocean view) · upscale without going overboard: Nusfjord Village & Resort (renovated historic rorbuer in the village of Nusfjord, sauna and hot tubs included; pricey, but with enthusiastic reviews).",
     doveMangiare:
       "Dinner at Ramberg Resort, in a good spot a couple of steps from Ramberg beach for a post-dinner stroll. The supermarket in Ramberg is better stocked and cheaper than the Coop in Reine and is the go-to for organizing an evening barbecue (salmon, vegetables, sides). Note: it only sells beer, no wine or spirits.",
-    comeArrivare: "By car on the E10, the road running through the whole Lofoten: about half an hour from Leknes, about an hour and a half from Svolvær, about 50 minutes from Å. The nearest ferry port is Moskenes, served by the Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about 53 €; passengers free). The most convenient airports are Leknes, with flights from Bodø, and Bodø itself. E10 buses stop at Ramberg but run rarely: a car remains the practical choice.",
+    comeArrivare: "By car on the E10, the road running through the whole Lofoten: about half an hour from Leknes, about an hour and a half from Svolvær, about 50 minutes from Å. The nearest ferry port is Moskenes, served by the Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about €53; passengers free). The most convenient airports are Leknes, with flights from Bodø, and Bodø itself. E10 buses stop at Ramberg but run rarely: a car remains the practical choice.",
     comeSpostarsi: 'Rental car.',
     periodoMigliore: "I was there in summer; for the other months I have no direct reference",
-    costi: "Cabins from 850-1050 NOK/night for the budget options in the area. Indicative daily budget per person: low 80-110 € (simple cabin for two, groceries in Ramberg and a barbecue); mid 150-220 € (rorbu or guesthouse in a double room, one restaurant dinner, fuel); high 300 € and up (restored rorbuer in Nusfjord, seafood dinners).",
+    costi: "Cabins from 850-1050 NOK/night for the budget options in the area. Indicative daily budget per person: low €80-110 (simple cabin for two, groceries in Ramberg and a barbecue); mid €150-220 (rorbu or guesthouse in a double room, one restaurant dinner, fuel); high €300 and up (restored rorbuer in Nusfjord, seafood dinners).",
     erroriDaEvitare: ["The Ramberg supermarket doesn't sell wine/spirits, only beer: plan your shopping accordingly"],
     miaEsperienza:
       "The rorbu in Nesland was the quietest place of the whole trip: no artificial light, the fjord a few steps away, and one of the most relaxed barbecue evenings of the week.",
@@ -1381,7 +1381,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     ],
     zone: [
       { nome: "Nesland and Nusfjord", perChi: "Those after silence and a fjord view", testo: "Rorbuer and guesthouses scattered along the south coast, away from the main road. Very few services: shop in Ramberg." },
-      { nome: "Ramberg", perChi: "Those who want a supermarket and a beach nearby", testo: "The best-served village on Flakstadøya, with the supermarket, Ramberg Resort and simple cabins on the beach.", fascia: "75-90 € (simple cabin, 850-1,050 NOK)" },
+      { nome: "Ramberg", perChi: "Those who want a supermarket and a beach nearby", testo: "The best-served village on Flakstadøya, with the supermarket, Ramberg Resort and simple cabins on the beach.", fascia: "€75-90 (simple cabin, 850-1,050 NOK)" },
       { nome: "Fredvang", perChi: "Those planning Kvalvika and Ryten", testo: "A village beyond the bridges, at the foot of the Kvalvika and Ryten trails. Few places to stay; book early." },
     ],
     gite: [
@@ -1417,7 +1417,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     doveDormire: "I didn't stay overnight in Å: you sleep in Nesland/Flakstad.",
     doveMangiare:
       "The village's historic bakery (few seats, but excellent pastries). On the way, in Sakrisøy, Anita's Seafood: stuffed sandwiches, soups, sushi, a view of the fjord. You order at the counter, no table service.",
-    comeArrivare: "Å is the last village on the E10, at the tip of Moskenesøya island: about 10 km from Reine, about 50 minutes by car from Nesland/Flakstad, about two hours from Svolvær. The ferry port for Bodø is at Moskenes, 5 km before the village: Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about 53 €; passengers free). Parking is after the tunnel, a few minutes' walk from the village centre. Local buses come from Reine and Leknes, but run rarely.",
+    comeArrivare: "Å is the last village on the E10, at the tip of Moskenesøya island: about 10 km from Reine, about 50 minutes by car from Nesland/Flakstad, about two hours from Svolvær. The ferry port for Bodø is at Moskenes, 5 km before the village: Moskenes-Bodø ferry (about 3 hours 15 minutes; car up to 6 metres 605 NOK, about €53; passengers free). Parking is after the tunnel, a few minutes' walk from the village centre. Local buses come from Reine and Leknes, but run rarely.",
     comeSpostarsi: 'On foot, the village is small.',
     periodoMigliore: "I was there in summer, in the rain; for the other months I have no direct reference",
     costi: "I didn't note down the costs of this stop. For reference: Fishing Village Museum 125 NOK (about 11 €), Reine parking 200 NOK for three hours, Moskenes-Bodø ferry 605 NOK per car. Indicative daily budget per person: low 80-110 € (hostel or shared rorbu, Coop groceries); mid 150-220 € (rorbu in a double room, a museum, a seafood lunch); high 300 € and up (waterfront rorbu in Reine or Hamnøy, restaurant dinners).",
@@ -1426,7 +1426,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       "Å struck me even in the rain: the Fisherman's Museum, with its guided tour in English, tells well a part of local history that elsewhere on the trip you only glimpse in passing.",
     luoghi: [
       {
-        costo: "Adults 125 NOK (about 11 €, autumn 2026)",
+        costo: "Adults 125 NOK (about €11, autumn 2026)",
         orari: "1 November-6 December 2026 daily 9:00-15:00; closed 7 December-2 January; guided tours most days",
         lat: 67.8814,
         lng: 12.9821,
@@ -1494,7 +1494,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "By car on the E10, about 15 minutes from Å.",
         quando: "Any time of day; Reinebringen only in clear weather.",
         tempo: "1 hour for the village, 2-4 hours with Reinebringen",
-        costo: "Parking 200 NOK for three hours (about 17 €)",
+        costo: "Parking 200 NOK for three hours (about €17)",
         lat: 67.9325,
         lng: 13.0888,
       },
@@ -1504,7 +1504,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "By car on the E10, about 5 km before Å.",
         quando: "At the port 40 minutes before departure.",
         tempo: "About 3 hours 15 minutes' crossing to Bodø",
-        costo: "Car up to 6 metres 605 NOK (about 53 €), passengers free (2026)",
+        costo: "Car up to 6 metres 605 NOK (about €53), passengers free (2026)",
         url: "https://www.torghatten.no/en/our-routes/18-782",
         lat: 67.8998,
         lng: 13.0438,

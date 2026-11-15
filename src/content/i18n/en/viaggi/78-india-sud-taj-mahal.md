@@ -185,10 +185,10 @@ Bangalore is the city of the South Indian breakfast: **masala dosa** with coconu
 - **June-September:** southwest monsoon in Kerala, with intense rain and the sea closed; very green landscapes and low prices if you're fine with rain. Onam, Kerala's big festival, falls between August and September.
 
 ## Estimated budget 2026
-Prices per person in a double room, intercontinental flights excluded (into Delhi and home from Bangalore roughly 550-1,000 € with one stopover).
-- **Budget (40-60 € a day):** guesthouses and homestays, a shared driver for transfers only or state buses, a shared standard houseboat, trains in 3A and CC.
-- **Mid-range (90-140 € a day):** heritage hotels in Puducherry and Fort Kochi, plantation resorts in Munnar, a driver for the whole South, a private premium houseboat, trains in 2A.
-- **High-end (from 250 € a day):** luxury resorts, a luxury houseboat, private guides.
+Prices per person in a double room, intercontinental flights excluded (into Delhi and home from Bangalore roughly €550-1,000 with one stopover).
+- **Budget (€40-60 a day):** guesthouses and homestays, a shared driver for transfers only or state buses, a shared standard houseboat, trains in 3A and CC.
+- **Mid-range (€90-140 a day):** heritage hotels in Puducherry and Fort Kochi, plantation resorts in Munnar, a driver for the whole South, a private premium houseboat, trains in 2A.
+- **High-end (from €250 a day):** luxury resorts, a luxury houseboat, private guides.
 - **Main items:** houseboat for one night 8,000-25,000 rupees for the boat; driver 3,000-4,500 rupees a day; domestic flights 3,000-8,000 rupees per leg; Delhi-Agra train 800-1,600 rupees per leg; monument entrance fees (Delhi, Taj Mahal, Agra Fort, Mamallapuram, Hampi, Eravikulam) about 6,000-7,500 rupees per person in all (foreigner rates, indicative). Many of the South's major temples are free.
 
 ## Common scams and safety

@@ -73,7 +73,7 @@ Il battello è il modo di vederle che a noi è piaciuto di più: **Voyage to the
 
 **In pratica**
 - Toronto-Niagara Falls: circa 130 km, un'ora e mezza senza traffico
-- Voyage to the Falls: 47,95 CAD adulti e 32,95 CAD bambini 3-12 anni, più HST (prezzi 2026 riportati da più guide; quello ufficiale va controllato su niagaracitycruises.com)
+- Voyage to the Falls: 47,95 CAD adulti e 32,95 CAD bambini 3-12 anni, più HST (2026), biglietti su niagaracitycruises.com
 - Journey Behind the Falls: intorno ai 30 CAD più HST in alta stagione
 - Parcheggi vicino alle cascate a pagamento e cari: meglio lasciare l'auto in hotel e usare le navette WEGO
 
@@ -291,6 +291,8 @@ Il Canada orientale l'abbiamo girato con un pick-up bello abbondante, e per un g
 
 ## Nota su questa bozza
 Viaggio fatto da Rick. Dal suo racconto vengono il noleggio del pick-up, il giudizio sulle strade e il confronto tra elicottero e battello al Niagara. Il resto dell'itinerario (tappe, ordine, tempi di guida) è una proposta di guida costruita su ricerca: canada.ca per l'eTA, governo dell'Ontario e SAAQ per la patente, 407etr.com per i pedaggi, siti e rivenditori ufficiali per Niagara City Cruises, Niagara Helicopters e Croisières AML, Frontiers North e VIA Rail per Churchill. Prezzi e stagioni cambiano ogni anno e vanno ricontrollati prima di partire.
+
+Voyage to the Falls: prezzi 2026 riportati da più guide, il sito niagaracitycruises.com non mostra il listino senza avviare l'acquisto (nota tolta dal testo).
 
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione:**

@@ -82,7 +82,7 @@ L'ultima tappa ha chiuso l'anello a **Chamonix**. Alla fine resta questo: lo ste
 
 Da lì si scende alla Flégère e si arriva a Chamonix a piedi o in funivia. Chi ha ancora mezza giornata la tiene per l'**Aiguille du Midi**, a 3.842 metri, la salita più spettacolare della valle. Se il cielo è limpido conviene salire presto, prima che le nuvole si formino sulle cime. *Le scale non sono difficili, ma chi soffre di vertigini può aggirarle con il sentiero che passa dalla Flégère.*
 
-**In pratica:** sei-sette ore se si scende a piedi fino a Chamonix · il Lac Blanc nelle ore centrali è affollato: meglio arrivarci presto · Aiguille du Midi circa 83 euro andata e ritorno in alta stagione estiva, meglio prenotare online la salita.
+**In pratica:** sei-sette ore se si scende a piedi fino a Chamonix · il Lac Blanc nelle ore centrali è affollato: meglio arrivarci presto · Aiguille du Midi circa 83 € andata e ritorno in alta stagione estiva, meglio prenotare online la salita.
 
 ## Cosa vedere / cosa fare
 - I tre versanti del massiccio, ognuno con un carattere diverso.

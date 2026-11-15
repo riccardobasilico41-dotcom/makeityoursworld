@@ -17,7 +17,7 @@ El hilo conductor, además de la costa atlántica, es la comida: el pintxo vasco
 - **Cuándo ir:** **junio-septiembre**, la ventana más seca y con las temperaturas más altas del año (de todos modos suaves, raramente por encima de 25-27 °C). Es lo opuesto de Andalucía, donde esa misma estación hay que evitarla por el calor: aquí es el periodo en que llueve menos.
 - **El clima atlántico:** incluso en la mejor ventana llueve más a menudo que en el resto de España, así que siempre hay que llevar una chaqueta ligera impermeable, en cualquier estación.
 - **Pintxos y txikiteo:** en San Sebastián y Bilbao la comida seria se hace yendo de un bar a otro, un pintxo y un vaso de txakoli o sidra por local. La regla no escrita: se come de pie en la barra, el pintxo se coge con las manos, y se paga al final diciéndole al camarero lo que se ha consumido (véase la ficha de experiencia dedicada).
-- **Guggenheim Bilbao:** cierra casi todos los lunes; en verano la apertura se amplía a veces, así que conviene comprobar el calendario. Entrada 12 € (web oficial, 2026); antes eran 18 € en verano y 15 € el resto del año.
+- **Guggenheim Bilbao:** cierra casi todos los lunes; en verano la apertura se amplía a veces, así que conviene comprobar el calendario. Entrada general 15 € (2026).
 - **Camino del Norte:** unos 825-865 km de Irún a Santiago de Compostela, atravesando el País Vasco (~175 km), Cantabria (~170 km), Asturias (~280 km) y Galicia (~220 km). Es más exigente y está menos equipado que el Camino Francés, con tramos costeros expuestos.
 - **Santiago, la Compostela:** para obtener el certificado oficial de peregrinación hay que haber recorrido a pie al menos los últimos 100 km (200 en bici), con las credenciales selladas a lo largo del recorrido.
 - **Coche:** imprescindible para este itinerario, que sigue la costa durante cientos de km tocando pueblos pequeños y mal conectados por el transporte público.
@@ -58,14 +58,14 @@ La tarde en el **Ensanche**, el Bilbao burgués del siglo XIX, y un paseo junto 
 
 Por la tarde también se puede desviar hasta el **Puente de Vizcaya** en Portugalete, el puente transbordador más antiguo del mundo, Patrimonio de la UNESCO. Desde 1893 una barquilla colgante lleva coches y personas de una orilla a otra; quien quiera sube a la pasarela superior, sobre la ría.
 
-**En la práctica:** Guggenheim unos 18 euros en verano y 15 el resto del año, cerrado casi todos los lunes · Puente de Vizcaya a unos 20 minutos en metro desde el centro, travesía en barquilla económica, pasarela con entrada aparte · el metro de Bilbao es la forma más sencilla de moverse.
+**En la práctica:** Guggenheim 15 €, cerrado casi todos los lunes · Puente de Vizcaya a unos 20 minutos en metro desde el centro, travesía en barquilla económica, pasarela con entrada aparte · el metro de Bilbao es la forma más sencilla de moverse.
 
 ### Día 5 — De Bilbao a Cantabria: Santander y Santillana del Mar
 En coche hacia **Cantabria** (unas 1h30-2h hasta Santander), con una parada en **Santillana del Mar**, uno de los pueblos medievales mejor conservados de España, cerca de las célebres cuevas de Altamira: las originales están cerradas al público para protegerlas, pero se visita la Neocueva, la réplica oficial. Conviene ir primero a Santillana, por la mañana, cuando las dos calles empedradas del pueblo aún están tranquilas: al fondo está la **Colegiata de Santa Juliana**, románica, con el claustro de capiteles esculpidos.
 
 El museo de Altamira está a un par de kilómetros del pueblo. La Neocueva reproduce el techo de los bisontes pintados con las mismas técnicas del Paleolítico, y el museo explica quiénes eran los hombres que los pintaron. La tarde en **Santander**, con el paseo marítimo y la península de la Magdalena: el palacio que fue residencia de verano de los reyes, el parque que lo rodea y las playas de **El Sardinero**. En el puerto está el **Centro Botín**, el centro de arte de Renzo Piano suspendido sobre el agua. *El museo de Altamira cierra los lunes: si el día 5 cae en lunes, conviene invertir las etapas y ver Santander primero.*
 
-**En la práctica:** museo y Neocueva de Altamira cerrados los lunes, entrada de unos 3 euros, gratuita para algunos colectivos · Santillana sin coches en el centro, aparcamiento a la entrada del pueblo · en Santander se duerme cerca de El Sardinero o en el centro.
+**En la práctica:** museo y Neocueva de Altamira cerrados los lunes, entrada de unos 3 €, gratuita para algunos colectivos · Santillana sin coches en el centro, aparcamiento a la entrada del pueblo · en Santander se duerme cerca de El Sardinero o en el centro.
 
 ### Día 6 — Cantabria y Asturias: la Costa Verde
 Seguimos por la **Costa Verde** asturiana, entre acantilados, playas y pequeños puertos pesqueros. Se sale pronto de Santander y se sigue la autovía del Cantábrico, con salidas hacia el mar cuando se quiera: **Comillas**, con el Capricho de Gaudí, y **San Vicente de la Barquera** son paradas breves en el camino. En Asturias la primera etapa es **Llanes**, con su centro medieval junto al mar.

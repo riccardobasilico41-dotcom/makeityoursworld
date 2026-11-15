@@ -24,14 +24,14 @@ Salimos de la Provenza de los papas: en **Aviñón**, el Palacio de los Papas, e
 
 Después se baja al **Puente Saint-Bénezet**, el puente de la canción, cortado a mitad del Ródano, y se sube al jardín del **Rocher des Doms**, desde donde se ven el río y el puente desde arriba. La tarde es para el centro dentro de las murallas, la plaza del Reloj y las calles en torno a Les Halles, el mercado cubierto. *En julio se celebra el Festival: la ciudad está preciosa y llena, y los precios para dormir suben mucho.*
 
-**En la práctica:** Palacio de los Papas unos 14,50 euros, entrada combinada con el puente unos 17 euros, con el puente válido 24 horas desde la primera entrada · el centro se recorre a pie, el coche conviene dejarlo en los aparcamientos fuera de las murallas · para dormir, Aviñón o Saint-Rémy, como base para los primeros días.
+**En la práctica:** Palacio de los Papas unos 14,50 €, entrada combinada con el puente unos 17 €, con el puente válido 24 horas desde la primera entrada · el centro se recorre a pie, el coche conviene dejarlo en los aparcamientos fuera de las murallas · para dormir, Aviñón o Saint-Rémy, como base para los primeros días.
 
 ### Día 2 — Pont du Gard y Nimes
 El **Pont du Gard** se mira desde abajo y, en verano, con un baño en el río. Después fuimos a **Nimes**, con el anfiteatro romano y la Maison Carrée. Conviene llegar al Pont du Gard temprano, cuando la luz da sobre el acueducto y los aparcamientos aún están vacíos. Se cruza el puente por el nivel inferior, se baja a la orilla del Gardon para verlo desde abajo y, si hay tiempo, se siguen los senderos entre el monte bajo que llevan a los restos del acueducto y a los miradores.
 
 El museo explica cómo llegaba el agua a Nimes, por un recorrido de unos cincuenta kilómetros con una pendiente mínima. Por la tarde, a media hora por carretera, **Nimes**: el **Anfiteatro**, uno de los mejor conservados del mundo romano, la **Maison Carrée**, un templo casi intacto, y los **Jardins de la Fontaine** con la Torre Magna en lo alto de la colina. *Los días de conciertos y de feria el anfiteatro cierra a las visitas: mejor mirar el calendario.*
 
-**En la práctica:** Pont du Gard aparcamiento unos 9 euros por vehículo, que incluye el acceso al sitio, abierto de 8 a medianoche · en Nimes el pase para Anfiteatro, Maison Carrée y Torre Magna cuesta unos 14,50 euros, el anfiteatro solo unos 11 · el baño en el Gardon solo en las zonas señaladas.
+**En la práctica:** Pont du Gard aparcamiento unos 9 € por vehículo, que incluye el acceso al sitio, abierto de 8 a medianoche · en Nimes el pase para Anfiteatro, Maison Carrée y Torre Magna cuesta unos 14,50 €, el anfiteatro solo unos 11 · el baño en el Gardon solo en las zonas señaladas.
 
 ### Día 3 — Arlés y la Camarga
 En **Arlés** está el anfiteatro romano. Por la tarde entramos en la **Camarga** y el paisaje cambió: de los monumentos al delta. La mañana en Arlés empieza en el **Anfiteatro**, que todavía acoge espectáculos, y sigue con el teatro antiguo y el claustro de **Saint-Trophime**, uno de los más bellos de la Provenza románica.
@@ -59,7 +59,7 @@ Su color rosa se debe a un alga microscópica que vive en el agua salada; en ver
 
 A pocos minutos está la **abadía de Sénanque**, rodeada de lavanda en julio. Por la tarde **Roussillon**, el pueblo de fachadas rojas y naranjas, con el **Sendero de los ocres**, un recorrido por las antiguas canteras donde la tierra cambia de color en cada curva. Quien siga la lavanda hasta **Valensole** debe contar más de una hora en coche: allí la floración suele ir de finales de junio a mediados de julio, en Sault un poco más tarde.
 
-**En la práctica:** Sendero de los ocres unos 3,50 euros, treinta minutos el recorrido corto y una hora el largo · calzado cerrado y ropa que no tema el polvo rojo · para dormir, Gordes o Apt como base para el Luberon.
+**En la práctica:** Sendero de los ocres unos 3,50 €, treinta minutos el recorrido corto y una hora el largo · calzado cerrado y ropa que no tema el polvo rojo · para dormir, Gordes o Apt como base para el Luberon.
 
 ### Día 7 — Las Gargantas del Verdon
 Es la sorpresa del viaje: pocos lo incluyen en el programa, y el **Verdon** sigue siendo uno de los paisajes más espectaculares de Francia, con un agua de un verde que parece retocado. Se camina por el fondo del cañón o se entra en kayak desde el lago de Sainte-Croix. El día se organiza según lo que se elija. Quien camina hace el **sendero Blanc-Martel**, una docena de kilómetros por el fondo de las gargantas, con escaleras y túneles, saliendo temprano: hacen falta seis o siete horas y una linterna para los túneles.
@@ -73,7 +73,7 @@ El Cours Mirabeau en **Aix**, y después **Marsella**: el Vieux-Port, Le Panier,
 
 Luego media hora de carretera hasta **Marsella**. Se empieza en el **Vieux-Port**, se sube por las calles de **Le Panier**, el barrio más antiguo, y se llega al **MuCEM**, el museo de las civilizaciones del Mediterráneo, unido por una pasarela al fuerte Saint-Jean. El atardecer se ve desde **Notre-Dame de la Garde**, la basílica de la colina. La cena es para la **bullabesa**. *Es un plato caro y laborioso: mejor un local que la sirva según la receta tradicional, a menudo con reserva.*
 
-**En la práctica:** el MuCEM cierra los martes, entrada a las exposiciones unos 11 euros · en Marsella conviene dejar el coche en un aparcamiento y moverse a pie, en metro o en tranvía · para subir a Notre-Dame de la Garde hay también autobús desde el Vieux-Port.
+**En la práctica:** el MuCEM cierra los martes, entrada a las exposiciones unos 11 € · en Marsella conviene dejar el coche en un aparcamiento y moverse a pie, en metro o en tranvía · para subir a Notre-Dame de la Garde hay también autobús desde el Vieux-Port.
 
 ### Día 9 — Las Calanques
 Las **Calanques**, entre Marsella y Cassis. En verano el acceso cambia día a día por el riesgo de incendios y hay que comprobarlo cada mañana. De junio a septiembre la prefectura publica cada tarde, hacia las 18, el mapa de acceso a los macizos para el día siguiente: en nivel rojo los senderos están cerrados para todos. Cuando están abiertos, desde **Cassis** se camina hacia **Port-Miou**, **Port-Pin** y **En-Vau**, la última la más bonita y la más cansada, con bajadas empinadas por roca.
@@ -87,7 +87,7 @@ Quien sigue hacia el oeste cierra con un castillo cátaro o con **Carcasona** al
 
 Quien va directamente a Carcasona entra en la **Cité**, la ciudad amurallada de la colina, y visita el castillo condal y el paseo de las murallas por la tarde. Las calles interiores están llenas de tiendas de recuerdos, pero basta subir al adarve para volver a la Edad Media, con el doble recinto de murallas y las torres cónicas. Al anochecer la Cité se vacía de grupos, y las murallas iluminadas son la mejor manera de cerrar el viaje.
 
-**En la práctica:** la Cité está abierta y es gratuita a cualquier hora, el castillo condal y las murallas son de pago, desde unos 13 euros · para los castillos cátaros, buen calzado, agua y una chaqueta incluso en verano · para volver están los aeropuertos de Carcasona, Toulouse y Montpellier.
+**En la práctica:** la Cité está abierta y es gratuita a cualquier hora, el castillo condal y las murallas son de pago, desde unos 13 € · para los castillos cátaros, buen calzado, agua y una chaqueta incluso en verano · para volver están los aeropuertos de Carcasona, Toulouse y Montpellier.
 
 ## Qué ver / qué hacer
 - El Pont du Gard, con un baño en el río.

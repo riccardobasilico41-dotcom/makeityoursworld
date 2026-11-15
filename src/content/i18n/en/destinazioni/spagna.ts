@@ -65,7 +65,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Enter through the Puerta del León, on Plaza del Triunfo, opposite the cathedral. There is a single route; audio guides are rented at the entrance.",
         "quando": "Open 9:30am-7pm from April to September and 9:30am-5pm from October to March. Closed on 1 and 6 January, Good Friday and 25 December. Early morning or the last slot of the afternoon to avoid the groups.",
         "tempo": "2-3 hours",
-        "costo": "15.50 euros full price (rate on the official website, 2026); the Royal Apartments cost extra",
+        "costo": "€15.50 full price (2026); the Royal Apartments cost extra",
         "orari": "Daily from 9:30; closes at 19 April-September and 17 in winter.",
         "lat": 37.3831,
         "lng": -5.9902,
@@ -233,19 +233,19 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Santa Cruz",
         "perChi": "Those who want to be a step from the monuments",
         "testo": "You step out of the hotel and you are already under the cathedral. By day it is crowded, and in the evening the lanes echo with tables from tourist restaurants. Prices are the highest. You get around on foot only, and taxis do not enter the lanes.",
-        "fascia": "110-220 €"
+        "fascia": "€110-220"
       },
       {
         "nome": "Triana",
         "perChi": "Those who prefer a lively, less touristy district",
         "testo": "It costs a little less and has more bars used by locals. The centre is a walk across the bridge. Noise from the riverside bars in the evening can reach the nearest rooms.",
-        "fascia": "90-170 €"
+        "fascia": "€90-170"
       },
       {
         "nome": "Alameda de Hércules and La Macarena",
         "perChi": "Budget travelers or those who like nightlife",
         "testo": "A younger district, with bars, alternative venues and modest prices, north of the centre and walkable from the cathedral. At weekends the square is noisy until late.",
-        "fascia": "80-150 €"
+        "fascia": "€80-150"
       }
     ],
     gite: [
@@ -550,19 +550,19 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Center around the cathedral",
         "perChi": "Those who want convenience and evening life",
         "testo": "Everything on foot: Alhambra, tapas, Albaicín. In the evening the noise of the bars reaches low-floor rooms. Prices are average.",
-        "fascia": "80-160 €"
+        "fascia": "€80-160"
       },
       {
         "nome": "Albaicín",
         "perChi": "Those looking for atmosphere and a view of the Alhambra",
         "testo": "Rooms in carmenes and small guesthouses, quiet at night. The streets are steep and cobbled, awkward with suitcases: a taxi often cannot reach the door.",
-        "fascia": "90-180 €"
+        "fascia": "€90-180"
       },
       {
         "nome": "Realejo",
         "perChi": "Those who want a local, cheaper neighborhood",
         "testo": "At the foot of the Alhambra, with bars used by students and low prices. The centre is a short walk away, and the climb up the hill starts right away.",
-        "fascia": "70-140 €"
+        "fascia": "€70-140"
       }
     ],
     gite: [
@@ -687,7 +687,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Entrance through the Puerta del Perdón or the Patio de los Naranjos, a step from the river. You visit on your own, with a rented audio guide; the cathedral in the center is crossed on the same route.",
         "quando": "Monday to Saturday, from 8:30 to 9:30, entry is free (access until 9:20, no groups); after that you pay. Hours change by season and services: check the official site.",
         "tempo": "1.5-2 hours",
-        "costo": "15 euros; «El Alma de Córdoba» night visit 25 euros (official site, 2026)",
+        "costo": "€15; «El Alma de Córdoba» night visit €25 (2026)",
         "url": "https://mezquita-catedraldecordoba.es/",
         "consiglio": "The free morning slot is the best: few people and low light in the aisles. You can also pay and enter later, but the silence is lost.",
         "orari": "They vary by date and religious services: in November 2026, for example, 10:00-18:00, with the ticket office closing 30 minutes earlier. Free entry Monday to Saturday 8:30-9:30. Daily calendar on the official site.",
@@ -712,7 +712,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "Check hours and closing days on the monument's website. In summer, better in the morning.",
         "tempo": "1-1.5 hours",
         "consiglio": "The gardens are the only shade to sit in after the Mezquita.",
-        "costo": "about 7 euros (2026)",
+        "costo": "about €7 (2026)",
         "orari": "Closed on Mondays; hours change by season and are shortened in summer because of the heat.",
         "lat": 37.8766,
         "lng": -4.78138,
@@ -725,7 +725,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "At sunset or after dark, when the Mezquita is lit.",
         "tempo": "30-45 minutes",
         "consiglio": "Cross the bridge and take the photo from the opposite bank, not from the bridge itself.",
-        "costo": "bridge free; Calahorra Tower 4.50 euros with terrace and audio guide (official site, 2026)",
+        "costo": "bridge free; Calahorra Tower €4.50 with terrace and audio guide (2026)",
         "orari": "Tower: November-February 10:00-18:00; October and March-May 10:00-19:00; June-September 10:00-14:00 and 16:30-20:30.",
         "lat": 37.87663,
         "lng": -4.77788,
@@ -747,7 +747,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "You climb in small timed groups, with a ticket separate from the Mezquita. Entrance from the Patio de los Naranjos.",
         "quando": "The first slot of the morning or the last of the afternoon, with low light on the rooftops.",
         "tempo": "30 minutes",
-        "costo": "4 euros (official site, 2026)",
+        "costo": "€4 (2026)",
         "orari": "Slots every 30 minutes; in November 2026 from 9:30 to 18:30.",
         "lat": 37.87955,
         "lng": -4.78032,
@@ -772,7 +772,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "About 8 km west of the centre. By car you park at the museum; from there a shuttle takes you to the site. Tourist buses and guided tours also leave from the centre.",
         "quando": "In the morning: the site has almost no shade. In summer there are evening openings.",
         "tempo": "half a day",
-        "costo": "free for European Union citizens, 1.50 euros for others (Junta de Andalucía)",
+        "costo": "free for European Union citizens, €1.50 for others (Junta de Andalucía)",
         "orari": "From 21 September to 20 March: Tuesday-Saturday 9:00-18:00, Sundays and holidays 9:00-15:00; closed on Mondays. Different hours in summer: check the website.",
         "lat": 37.88608,
         "lng": -4.86779,
@@ -785,7 +785,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "On foot, about 20 minutes from the Mezquita, in the Santa Marina quarter. You can see just the patios or add the guided tour of the interiors.",
         "quando": "In spring, with the flowers; in the morning there is more light in the courtyards.",
         "tempo": "1-1.5 hours",
-        "costo": "patios only 8.50 euros; patios and guided interiors 14 euros (official site)",
+        "costo": "patios only €8.50; patios and guided interiors €14",
         "orari": "September-December: Tuesday-Saturday 10:00-19:00, Sundays and holidays 10:00-15:00; July and August: Tuesday-Sunday 9:00-15:00. Closed on Mondays.",
         "lat": 37.88867,
         "lng": -4.77432,
@@ -884,25 +884,25 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Judería",
         "perChi": "Those who want to be near the Mezquita",
         "testo": "Rooms in historic houses with a patio, a minute from the monument. It is quiet at night, but there are more tourists and expensive restaurants. Traffic does not reach into the lanes.",
-        "fascia": "80-150 €"
+        "fascia": "€80-150"
       },
       {
         "nome": "Around Plaza de las Tendillas",
         "perChi": "Those looking for lower prices and evening life",
         "testo": "A shopping and bar district, walkable from the Mezquita. Street-side rooms can be noisy at weekends.",
-        "fascia": "60-110 €"
+        "fascia": "€60-110"
       },
       {
         "nome": "San Basilio and Alcázar Viejo",
         "perChi": "those looking for calm close to the centre",
         "testo": "The quarter with the best-kept patios, between the Alcázar and the walls. Quiet streets in the evening and courtyard houses turned into small hotels; the Mezquita is 10 minutes away on foot.",
-        "fascia": "60-110 €"
+        "fascia": "€60-110"
       },
       {
         "nome": "Santa Marina and San Pedro",
         "perChi": "those who want to spend less and see neighbourhood Córdoba",
         "testo": "The north and east of the old town, with the Fernandine churches, the Palacio de Viana and bars where locals go. Further from the Mezquita, 15 to 25 minutes on foot.",
-        "fascia": "50-100 €"
+        "fascia": "€50-100"
       }
     ],
     gite: [
@@ -1046,7 +1046,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "In the morning at opening time, before the day-trip groups from the coast.",
         "tempo": "1 hour",
         "consiglio": "Those who do not want the bullfighting theme can look only at the architecture and the horse stables.",
-        "costo": "€10 standard, €12 with audio guide (official site rates, 2026)",
+        "costo": "€10 standard, €12 with audio guide (2026)",
         "orari": "Every day from 10am; closes at 6pm November to February, 7pm in March and October, 8pm April to September. Consolidation works are under way in the ring.",
         "lat": 36.74237,
         "lng": -5.16707,
@@ -1680,7 +1680,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "Metro to Moyúa and then on foot, or tram to the Guggenheim stop. You can also just see the outside, which is free, with the riverside walk.",
         "quando": "Tuesday to Sunday 10am-7pm; until 8pm in Holy Week and from 15 June to 13 September. Closed on Mondays, except for some special openings, including the summer Mondays. Closed on 25 December and 1 January. Early in the morning the light on the titanium is best.",
         "tempo": "2-3 hours inside, 30 minutes for the exterior",
-        "costo": "12 euros full price, free under 18 (rate on the official website in November 2026: it changes with the season and the exhibitions)",
+        "costo": "€12 full price, free under 18 (rate on the official website in November 2026: it changes with the season and the exhibitions)",
         "url": "https://www.guggenheim-bilbao.eus/",
         "consiglio": "Buy the ticket online and see the Serra rooms first; then the exterior at sunset.",
         "orari": "Tuesday-Sunday 10am-7pm; until 8pm in Holy Week and from 15 June to 13 September. Closed on Mondays, except summer Mondays and a few dates (2026). Closed 25 December and 1 January; closes at 5pm on 24 and 31 December.",
@@ -1773,7 +1773,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "quando": "At sunset, with a clear sky. Check hours on the operator's site.",
         "tempo": "1 hour",
         "consiglio": "Go up around sunset time and stop for a beer on the hill.",
-        "orari": "October to May Monday-Saturday 7:15am-10pm, Sundays and holidays 8:15am-10pm; June to September until 11pm on Fridays, Saturdays and holiday eves (to be checked).",
+        "orari": "October to May Monday-Saturday 7:15am-10pm, Sundays and holidays 8:15am-10pm; June to September until 11pm on Fridays, Saturdays and holiday eves.",
         "lat": 43.2713,
         "lng": -2.92253
       },
@@ -2370,13 +2370,13 @@ export const destinazioniSpagna: Destinazione[] = [
         "tempo": "1-1.5 hours",
         "url": "https://catedraldemallorca.org/",
         "consiglio": "The best view of the facade, mirrored in the pond, is from Parc de la Mar, so take it in before going inside.",
-        "costo": "about 10 euros with the museum, about 25 with the climb to the terraces (2026)",
+        "costo": "about €10 with the museum, about 25 with the climb to the terraces (2026)",
         "orari": "Visits Monday to Friday until the afternoon and Saturday morning only; closed to visitors on Sundays.",
         "lat": 39.5675,
         "lng": 2.64806
       },
       {
-        "nome": "Palma vecchia: Almudaina e vicoli",
+        "nome": "Old Palma: the Almudaina and its lanes",
         "testo": "The Almudaina Palace, a former Moorish fortress turned residence of the kings of Mallorca, stands next to the cathedral. Around it lies the old town: hidden patios, Plaça Major, the Arab baths and the Sa Llotja district with bars by the harbour.",
         "come": "All on foot from the cathedral. The palace is run by Patrimonio Nacional and can be visited on your own with the information panels.",
         "quando": "The palace has a weekly closing day and shuts for official ceremonies: check the website. The lanes are nicest in the evening, when the heat drops.",
@@ -2402,7 +2402,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "It leaves from the Plaça d'Espanya station in Palma. From Sóller the tram goes to Port de Sóller; tickets are bought on board.",
         "quando": "The train stops in winter: for the 2026-27 season from 23 November 2026 to 1 February 2027. Times vary by season, so check the official site. Morning departures are best.",
         "tempo": "a full day including the port",
-        "costo": "€30 return Palma-Sóller; Sóller-Port de Sóller tram €10 per trip (official site, 2026)",
+        "costo": "€30 return Palma-Sóller; Sóller-Port de Sóller tram €10 per trip (2026)",
         "url": "https://trendesoller.com/",
         "consiglio": "Buy tickets online in advance in high season and sit on the right-hand side on the way out for the valley views.",
         "orari": "Departures from Palma mostly in the morning; service suspended from 23 November 2026 to 1 February 2027.",
@@ -2432,7 +2432,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 3.21229
       },
       {
-        "nome": "Cala Mondragó e Es Trenc",
+        "nome": "Cala Mondragó and Es Trenc",
         "testo": "Two beaches in the southeast. Cala Mondragó lies inside a nature park, with pine woods and two sandy coves. Es Trenc is a long white stretch with no buildings, backed by dunes and salt pans.",
         "come": "By car from Palma: Cala Mondragó is near Santanyí, Es Trenc near Campos. Paid car parks, which fill up early.",
         "quando": "June and September. In July and August arrive before 10.",
@@ -2456,7 +2456,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "By city bus or taxi up to the car park, or on foot uphill through the park from the El Terreno quarter. The ticket office is in the visitor centre at the car park.",
         "quando": "Late afternoon, with the light on the bay; on Sundays entry is free but it is busier.",
         "tempo": "1-1.5 hours",
-        "costo": "4 euros, free on Sundays (official site)",
+        "costo": "€4, free on Sundays",
         "orari": "Closed on Mondays. October-March Tuesday-Saturday 10:00-18:00, April-September 10:00-19:00; Sundays and holidays 10:00-15:00. Closed 1 January, Easter Sunday, 1 May and 25 December.",
         "lat": 39.56375,
         "lng": 2.61934,
@@ -2468,7 +2468,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "come": "By car from Palma heading east to Porto Cristo, or with organised trips. Timed entries, with tickets online.",
         "quando": "The first slot of the morning or out of season: in summer the groups are large.",
         "tempo": "1 hour for the visit, half a day with the trip",
-        "costo": "18.50 euros online, 19.50 euros at the ticket office (official site)",
+        "costo": "€18.50 online, €19.50 at the ticket office",
         "orari": "Timed visits every day; from 1 November to 15 March at 10:30, 12:00, 14:00 and 15:30. Closed 25 December and 1 January.",
         "lat": 39.53574,
         "lng": 3.33062,
@@ -2552,25 +2552,25 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Palma old town",
         "perChi": "those who want city life, restaurants and no car",
         "testo": "Everything on foot, lively evenings. Pros: bars, cathedral, markets. Cons: noise in the lanes, small rooms, parking nearly impossible.",
-        "fascia": "130-250 €"
+        "fascia": "€130-250"
       },
       {
         "nome": "Sóller and Port de Sóller",
         "perChi": "those who want mountains and sea together",
         "testo": "A valley of citrus groves with train and tram. Pros: quiet evenings, walks. Cons: far from Palma (via the tunnel), narrow roads.",
-        "fascia": "120-220 €"
+        "fascia": "€120-220"
       },
       {
         "nome": "Pollença and Alcúdia",
         "perChi": "families and beaches",
         "testo": "The north of the island: wide beaches, Formentor nearby. Pros: services for children. Cons: summer is crowded and you can't get far without a car.",
-        "fascia": "100-200 €"
+        "fascia": "€100-200"
       },
       {
         "nome": "South-east: Santanyí and around",
         "perChi": "those looking for coves and quiet villages",
         "testo": "Villages of golden stone and coves among the pine woods, near Cala Mondragó and the Cuevas del Drach. Pros: sea and a slow pace. Cons: far from the Tramuntana, you need a car.",
-        "fascia": "110-200 €"
+        "fascia": "€110-200"
       }
     ],
     gite: [
@@ -2612,7 +2612,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "domanda": "Does the Sóller train run all year?",
-        "risposta": "No: for the 2026-27 season it stops from 23 November 2026 to 1 February 2027. A return from Palma costs 30 euros, the tram to the port 10 euros each way."
+        "risposta": "No: for the 2026-27 season it stops from 23 November 2026 to 1 February 2027. A return from Palma costs €30, the tram to the port €10 each way."
       },
       {
         "domanda": "What is the best time for Mallorca?",
@@ -2722,7 +2722,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 1.4367
       },
       {
-        "nome": "Es Vedrà e Cala d'Hort",
+        "nome": "Es Vedrà and Cala d'Hort",
         "testo": "Es Vedrà is a 413-metre islet off the south-west coast, wrapped in legends. It is best seen from Cala d'Hort, a sand and pebble beach, and from the Torre des Savinar.",
         "come": "By car from Ibiza Town. Cala d'Hort has a small car park, full on summer afternoons.",
         "quando": "Sunset is the busiest moment: arrive at least an hour before.",
@@ -2744,7 +2744,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 1.22012
       },
       {
-        "nome": "Benirràs e tamburi della domenica",
+        "nome": "Benirràs and the Sunday drums",
         "testo": "A bay in the north, enclosed by cliffs. At sunset on Sundays a group of drummers has gathered on the sand for decades, with stalls and people dancing.",
         "come": "By car from Sant Joan de Labritja. The road is narrow in the last stretch.",
         "quando": "On Sundays at sunset from May to October. On other days the bay is quiet.",
@@ -2767,7 +2767,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "lng": 1.39186
       },
       {
-        "nome": "Cala Xarraca e Cala Sant Vicent",
+        "nome": "Cala Xarraca and Cala Sant Vicent",
         "testo": "Two small coves in the north. Xarraca is a green bay with calm water; Sant Vicent is rocky and wilder. Little building around.",
         "come": "By car from Sant Joan de Labritja; small car parks.",
         "quando": "Early morning or late afternoon.",
@@ -2895,25 +2895,25 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Ibiza Town",
         "perChi": "those who want services and no driving",
         "testo": "Port, restaurants and buses to the southern beaches. Noisy at night and expensive in summer.",
-        "fascia": "180-400 €"
+        "fascia": "€180-400"
       },
       {
         "nome": "Sant Antoni",
         "perChi": "those who want sea and cheaper nightlife",
         "testo": "A bay with sunsets, bars and connections. Very touristy and lively at night.",
-        "fascia": "120-280 €"
+        "fascia": "€120-280"
       },
       {
         "nome": "North: Santa Gertrudis, Sant Joan",
         "perChi": "those who want quiet",
         "testo": "Green hills, restaurants and coves. You need a car, buses are few.",
-        "fascia": "150-350 €"
+        "fascia": "€150-350"
       },
       {
         "nome": "Santa Eulària des Riu",
         "perChi": "families and those who want a quiet town",
         "testo": "Seafront, a town beach and restaurants, far from the clubs. Buses to Eivissa and a handy location for the north-east and Las Dalias.",
-        "fascia": "150-300 €"
+        "fascia": "€150-300"
       }
     ],
     gite: [
@@ -3541,25 +3541,25 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Puerto de la Cruz",
         "perChi": "those who want green, walks and fewer resorts",
         "testo": "North: cooler and damper, gardens, town life. The sea is less suited to swimming. Close to Anaga and the Teide.",
-        "fascia": "70-140 €"
+        "fascia": "€70-140"
       },
       {
         "nome": "Costa Adeje and Los Cristianos",
         "perChi": "those who want sun and beaches",
         "testo": "South: drier and hotter, many hotels, restaurants, nightlife. Less character. Near the Sur airport.",
-        "fascia": "120-250 €"
+        "fascia": "€120-250"
       },
       {
         "nome": "La Laguna",
         "perChi": "students and those heading to Anaga",
         "testo": "A historic, lively town, cooler and damper. Tram to Santa Cruz.",
-        "fascia": "60-120 €"
+        "fascia": "€60-120"
       },
       {
         "nome": "Santa Cruz de Tenerife",
         "perChi": "those getting around by public transport",
         "testo": "The capital, with the tram to La Laguna, the bus station for the whole island, and the Palmetum and Las Teresitas nearby. Not very touristy, with city prices rather than resort prices.",
-        "fascia": "70-130 €"
+        "fascia": "€70-130"
       }
     ],
     gite: [
@@ -3861,25 +3861,25 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Las Palmas (Las Canteras)",
         "perChi": "those who want city and beach",
         "testo": "Life all year, restaurants, buses. Cooler and windier than the south. Evening noise.",
-        "fascia": "90-150 €"
+        "fascia": "€90-150"
       },
       {
         "nome": "Maspalomas and Playa del Inglés",
         "perChi": "those who want guaranteed sun",
         "testo": "South coast: hot and dry, big hotels, dunes nearby. More touristy and less authentic.",
-        "fascia": "85-330 €"
+        "fascia": "€85-330"
       },
       {
         "nome": "Puerto de Mogán",
         "perChi": "those who want calm",
         "testo": "Small and quiet, but you need a car to get around. Fewer places to eat.",
-        "fascia": "135-650 €"
+        "fascia": "€135-650"
       },
       {
         "nome": "Tejeda and the island's interior",
         "perChi": "hikers and those after quiet",
         "testo": "Rural hotels and country houses among the pines and mountain villages, handy for an early start to Roque Nublo. Evenings are cool and the beach is far away.",
-        "fascia": "da circa 100 €"
+        "fascia": "da circa €100"
       }
     ],
     sapori: [
@@ -4076,7 +4076,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "consiglio": "Stop at the lay-bys and drive slowly: many tourists stop on the road."
       },
       {
-        "nome": "Playa Papagayo e Los Ajaches",
+        "nome": "Playa Papagayo and Los Ajaches",
         "testo": "Pale sand coves and turquoise water in the Los Ajaches nature park, in the south. Papagayo is the best known; the others (Caleta del Congrio, Playa Mujeres) are quieter.",
         "come": "By car from Playa Blanca on a dirt road; there is an access fee for cars (charged by Yaiza town council). Walk from the car parks.",
         "quando": "Morning in summer, with little wind. Wind kicks up the sand.",
@@ -4200,19 +4200,19 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Playa Blanca",
         "perChi": "those who want beaches and calm",
         "testo": "South: quiet, a promenade and easy beaches. Near Papagayo and Timanfaya. Little life away from the seafront.",
-        "fascia": "da circa 70 €"
+        "fascia": "da circa €70"
       },
       {
         "nome": "Puerto del Carmen",
         "perChi": "those who want activity",
         "testo": "A long avenue of bars and restaurants, a long beach. More touristy and noisy. Near the airport.",
-        "fascia": "da circa 70 €"
+        "fascia": "da circa €70"
       },
       {
         "nome": "Costa Teguise and Arrecife",
         "perChi": "those who want services and wind for surfing",
         "testo": "Costa Teguise is more modern, with wind for windsurfing; Arrecife is the capital, more practical than pretty.",
-        "fascia": "da circa 85 €"
+        "fascia": "da circa €85"
       },
       {
         "nome": "Haría and the north",

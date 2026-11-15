@@ -22,13 +22,13 @@ export const danimarca: Paese = {
     'maggio-settembre per le giornate lunghe e il clima più mite; giugno-agosto è alta stagione (più caldo, più turisti, Tivoli con gli orari estivi). Ad aprile e a ottobre si sta bene e c\'è meno gente. L\'inverno è freddo e fa buio presto, ma a fine novembre Tivoli riapre per i mercatini di Natale.',
   durataConsigliata: '3 giorni per Copenaghen da sola; è anche la prima tappa di un giro di 9 giorni con Stoccolma e Oslo (vedi l\'itinerario "Capitali nordiche")',
   budgetIndicativo:
-    'fra le città più care d\'Europa: una birra al bar 7-11€, un pranzo semplice 12-20€, una cena in un ristorante di fascia media 30-45€ a persona. Musei e attrazioni principali (Tivoli, battello sui canali) aggiungono facilmente 20-40€ al giorno a persona.',
+    'fra le città più care d\'Europa: una birra al bar 7-11 €, un pranzo semplice 12-20 €, una cena in un ristorante di fascia media 30-45 € a persona. Musei e attrazioni principali (Tivoli, battello sui canali) aggiungono facilmente 20-40 € al giorno a persona.',
   stileViaggio: ['città', 'design', 'gastronomia', 'bici'],
   scheda: {
     documenti:
       'La Danimarca è nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi. Groenlandia e Isole Fær Øer sono territori danesi ma restano fuori da Schengen e dall\'unione doganale europea: per Copenaghen non cambia nulla, ma è utile saperlo per chi pensa a un\'estensione.',
     valuta:
-      'Corona danese (DKK): la Danimarca ha un opt-out storico dall\'eurozona (referendum del 2000) e non intende adottare l\'euro. La corona però è agganciata all\'euro con l\'accordo ERM II, con una banda di oscillazione molto stretta (indicativamente 1€ = 7,46 DKK, con variazioni minime). È la valuta più stabile delle tre capitali di questo giro, ma resta una valuta diversa: le carte estere pagano spesso una piccola commissione di cambio.',
+      'Corona danese (DKK): la Danimarca ha un opt-out storico dall\'eurozona (referendum del 2000) e non intende adottare l\'euro. La corona però è agganciata all\'euro con l\'accordo ERM II, con una banda di oscillazione molto stretta (indicativamente 1 € = 7,46 DKK, con variazioni minime). È la valuta più stabile delle tre capitali di questo giro, ma resta una valuta diversa: le carte estere pagano spesso una piccola commissione di cambio.',
     pagamenti:
       'Uno dei paesi al mondo dove si usano meno contanti: carte e contactless funzionano ovunque, molti locali non accettano proprio i contanti e alcuni applicano un piccolo sovrapprezzo alle carte straniere. Non serve cambiare prima di partire; qualche corona in contanti serve solo in casi rari (alcuni mercatini, mance).',
     connettivita: 'Roaming UE incluso nelle tariffe italiane. Copertura 4G/5G ottima in tutta Copenaghen, senza zone scoperte da segnalare.',
@@ -38,7 +38,7 @@ export const danimarca: Paese = {
     trasportiInterni:
       'Una rete fitta di metro (senza conducente, attiva 24 ore nei weekend), S-tog (treni suburbani) e bus, con biglietto integrato a zone o Rejsekort ricaricabile. Il centro storico si gira bene anche a piedi o, come fa la gente del posto, in bici a noleggio. La Copenhagen Card include trasporti e ingressi a molte attrazioni, ma conviene solo con un programma molto fitto di musei.',
     costoVita:
-      'Fra le capitali più care d\'Europa: una birra al bar 7-11€ (al supermercato molto meno, 2-3€), un cappuccino 4,50-7€, un pasto economico (hot dog, panetteria, mercato) 7-20€, un pranzo in un caffè 17-27€, una cena in un ristorante di fascia media 40-75€ per due persone. Più dei singoli ingressi pesa la somma di pasti e trasporti, giorno dopo giorno.',
+      'Fra le capitali più care d\'Europa: una birra al bar 7-11 € (al supermercato molto meno, 2-3 €), un cappuccino 4,50-7 €, un pasto economico (hot dog, panetteria, mercato) 7-20 €, un pranzo in un caffè 17-27 €, una cena in un ristorante di fascia media 40-75 € per due persone. Più dei singoli ingressi pesa la somma di pasti e trasporti, giorno dopo giorno.',
     lingua: 'Danese. Quasi tutti parlano bene l\'inglese, soprattutto a Copenaghen: farsi capire non è mai un problema.',
     elettricita: '230V, 50Hz, prese di tipo C e K: le spine italiane di tipo C (due poli, senza terra) entrano senza adattatore; quelle di tipo F o con terra a tre poli possono richiederne uno.',
     fusoOrario: 'UTC+1 (CET), stessa ora dell\'Italia tutto l\'anno, ora legale compresa: nessuna differenza oraria.',

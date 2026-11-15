@@ -24,9 +24,8 @@ export const lapponiaSvedeseAbiskoMeta: TripMeta = {
   criticita: [
     'Capodanno è il periodo più caro dell\'anno per volare e dormire in zona: febbraio-marzo costa molto meno con probabilità di aurora comunque alte',
     'Il freddo estremo può causare cancellazioni dei treni (non spesso, ma capita), con il rischio di taxi a prezzi gonfiati come unica alternativa rimasta',
-    'Diversi dettagli (anno esatto del viaggio, ristoranti specifici) restano da confermare: l\'itinerario è ricostruito dai documenti dell\'agenzia più che da un diario personale',
   ],
-  budgetTotale: '1.500€ (budget base) - 1.800€ (livello ottimo) a persona',
+  budgetTotale: '1.500 € (budget base) - 1.800 € (livello ottimo) a persona',
   viaggioInBreve: {
     percheHoScelto: undefined,
     conChiSonoPartito: undefined,
@@ -79,7 +78,7 @@ export const lapponiaSvedeseAbiskoMeta: TripMeta = {
       pernottamento: 'STF Abisko Turiststation',
       statoPernottamento: 'provato',
       intensita: 'intenso',
-      costiNoti: 'Escursioni: 450-500€ a persona per 3 tour con guida',
+      costiNoti: 'Escursioni: 450-500 € a persona per 3 tour con guida',
       destinazioneSlug: 'abisko',
       immagine: '/images/viaggi/lapponia-svedese-abisko/giorno-4-aurora-abisko.jpg',
       imageAlt: 'Aurora boreale verde che danza nel cielo stellato sopra una collina innevata vicino al lago Torneträsk, ad Abisko',
@@ -116,11 +115,11 @@ export const lapponiaSvedeseAbiskoMeta: TripMeta = {
     },
   ],
   budget: [
-    { etichetta: 'Voli (Milano-Stoccolma-Kiruna A/R)', valore: '600-645€' },
-    { etichetta: 'Alloggi', valore: '400-600€' },
-    { etichetta: 'Trasporti interni (treno panoramico + transfer)', valore: '80€' },
-    { etichetta: 'Escursioni (3 tour con guida)', valore: '450-500€' },
-    { etichetta: 'Pasti', valore: '10-15€/giorno colazioni, 30-50€ a pasto' },
-    { etichetta: 'Totale', valore: '1.500-1.800€ a persona' },
+    { etichetta: 'Voli (Milano-Stoccolma-Kiruna A/R)', valore: '600-645 €' },
+    { etichetta: 'Alloggi', valore: '400-600 €' },
+    { etichetta: 'Trasporti interni (treno panoramico + transfer)', valore: '80 €' },
+    { etichetta: 'Escursioni (3 tour con guida)', valore: '450-500 €' },
+    { etichetta: 'Pasti', valore: '10-15 €/giorno colazioni, 30-50 € a pasto' },
+    { etichetta: 'Totale', valore: '1.500-1.800 € a persona' },
   ],
 }

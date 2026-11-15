@@ -46,7 +46,7 @@ export const destinazioniPanama: Destinazione[] = [
           "come": "Ride-hailing taxi or hotel transfer from Panama City. Entry ticket to the visitor centre.",
           "quando": "Morning: check ship transit times in advance, because without a ship in motion you are looking at an empty basin.",
           "tempo": "2-3 hours",
-          "costo": "17.22 USD for non-residents aged 13 and over (official ACP fee in force in 2026).",
+          "costo": "17.22 USD for non-residents aged 13 and over (in force in 2026).",
           "url": "https://pancanal.com/",
           "consiglio": "A container ship entering with a few centimetres of clearance on each side is worth the detour alone."
         },

@@ -108,7 +108,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "nome": "Casa Nassif",
         "testo": "Una delle case-torre più note di Al-Balad.",
         "come": "Dentro Al-Balad, a piedi.",
-        "quando": "Mattina o fine pomeriggio. Orari di apertura degli interni da verificare sul posto.",
+        "quando": "Mattina o fine pomeriggio. Orari di apertura degli interni: chiedere sul posto.",
         "tempo": "45 minuti"
       },
       {
@@ -524,7 +524,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "nome": "Habala",
         "testo": "Il villaggio in una valle sotto la scarpata, che un tempo si raggiungeva solo con scale di corda: il nome viene dalla parola araba per «corda». Oggi ci si scende in funivia.",
         "come": "In auto da Abha, poi funivia.",
-        "quando": "Pomeriggio; orari della funivia da verificare sul posto.",
+        "quando": "Pomeriggio; orari della funivia da chiedere sul posto.",
         "tempo": "1,5 ore"
       },
       {

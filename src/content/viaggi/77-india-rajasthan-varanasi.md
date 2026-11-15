@@ -48,7 +48,7 @@ La mattina presto la **Tomba di Humayun**, il mausoleo moghul che ha ispirato il
 
 La sera si parte. Noi da Delhi a Varanasi siamo andati con il **treno notturno**, in cuccetta, in seconda classe: si dorme sul treno e si risparmia una notte d'albergo. Sulla tratta ci sono diversi notturni. Lo **Shiv Ganga Express** parte da New Delhi verso le 20:05 e arriva a Banaras verso le 6:10, ogni giorno; lo Swatantrata Senani Express parte verso le 21:15 da New Delhi e arriva a Varanasi Junction verso le 8:05. *Conviene arrivare in stazione con un'ora di margine: New Delhi è enorme, affollata, e il binario si cerca sul tabellone.*
 
-**In pratica:** Humayun e Qutub Minar circa 600 rupie ciascuno · bagaglio grande da lasciare in hotel fino alla sera o in deposito in stazione · cena prima di salire o un pasto ordinato sul treno · orari da ricontrollare su NTES o sull'app di IRCTC il giorno prima.
+**In pratica:** Humayun e Qutub Minar circa 600 rupie ciascuno · bagaglio grande da lasciare in hotel fino alla sera o in deposito in stazione · cena prima di salire o un pasto ordinato sul treno · il giorno prima controllare gli orari su NTES o sull'app di IRCTC.
 
 ### Giorno 3 — Varanasi: l'arrivo all'alba, i ghat e l'aarti a Dashashwamedh
 Si scende dal treno con la luce del mattino. Dalla stazione al fiume ci vuole mezz'ora abbondante di e-risciò o di taxi. L'auto si ferma ai margini della città vecchia, e gli ultimi metri fino all'hotel sui ghat si fanno a piedi tra i vicoli, con il bagaglio. *Conviene chiedere all'hotel di mandare qualcuno a prendere gli ospiti dove si scende: la prima volta i vicoli sono un labirinto.*

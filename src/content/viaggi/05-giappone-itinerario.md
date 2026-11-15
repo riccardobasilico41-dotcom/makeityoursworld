@@ -30,10 +30,10 @@ Uno spoiler, però: il giro classico è intasato di turisti ovunque, soprattutto
   solito una settimana dopo Tokyo, possono regalare il pieno.
 - **Documenti/visto:** nessun visto necessario per turismo fino a 90 giorni,
   basta il passaporto in corso di validità e il biglietto di ritorno.
-- **Moneta:** yen giapponese, cambio indicativo 1€ = 160 yen. Conviene
+- **Moneta:** yen giapponese, cambio indicativo 1 € = 160 yen. Conviene
   cambiare una parte di contanti prima di partire: molti locali piccoli non
   accettano carte.
-- **Budget:** intorno ai 600-750€ per l'intero soggiorno sul
+- **Budget:** intorno ai 600-750 € per l'intero soggiorno sul
   posto (esclusi voli e mezzi pubblici), molto variabile secondo i
   ristoranti scelti.
 - **Trasporti:** JR Pass attivato dal quarto giorno (copre i principali

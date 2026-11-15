@@ -8,7 +8,8 @@ import type { Lingua } from '@/lib/i18n/config'
  */
 
 export type Consigliato = {
-  nome: string
+  /** Nome proprio (stringa) oppure, se è una frase, tradotto per lingua. */
+  nome: string | Record<Lingua, string>
   cosa: Record<Lingua, string>
   testo: Record<Lingua, string>
   url?: string
@@ -325,7 +326,7 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
       },
     },
     {
-      nome: "Messico-Belize: meglio via mare",
+      nome: { it: "Messico-Belize: meglio via mare", en: "Mexico-Belize: better by sea", es: "México-Belice: mejor por mar" },
       cosa: { it: "Il passaggio di frontiera", en: "The border crossing", es: "El paso de frontera" },
       fatto: true,
       testo: {

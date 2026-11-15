@@ -840,7 +840,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         quando: "En las horas de calor o con lluvia.",
         tempo: "2 horas",
         costo: "gratis",
-        orari: "10-18; cerrado el 1 de enero, en Seollal y en Chuseok (web oficial).",
+        orari: "10-18; cerrado el 1 de enero, en Seollal y en Chuseok.",
         url: "https://gyeongju.museum.go.kr/",
         lat: 35.82898,
         lng: 129.22836,
@@ -1540,7 +1540,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       "El coche de alquiler es con diferencia el mejor medio: hay autobuses y cuestan poco, pero son lentos, y a muchos puntos de la costa se llega con dificultad. Hace falta el carné internacional, que hay que sacarse en Italia antes de salir.",
     periodoMigliore:
       "abril-junio y septiembre-octubre. El verano está lleno de turismo interno y entre agosto y septiembre llegan los tifones. El invierno es ventoso y frío: las haenyeo trabajan en las condiciones más duras y es más raro verlas en el agua.",
-    costi: "Museo de las haenyeo unos 1.100 wones, Seongsan Ilchulbong 5.000, Manjanggul 4.000, Parque de la Paz 4·3 gratuito, ferri a Udo unos 11.000 wones ida y vuelta. Alquiler de coche desde 40-60€ al día, más caro en temporada alta. Presupuesto diario por persona, orientativo: bajo 50-70 € (casa de huéspedes, autobús, mercados); medio 100-150 € (hotel, coche compartido entre dos, marisco en los puestos de las cooperativas); alto 250 € o más (resort en Jungmun, cenas de cerdo negro y oreja de mar).",
+    costi: "Museo de las haenyeo unos 1.100 wones, Seongsan Ilchulbong 5.000, Manjanggul 4.000, Parque de la Paz 4·3 gratuito, ferri a Udo unos 11.000 wones ida y vuelta. Alquiler de coche desde 40-60 € al día, más caro en temporada alta. Presupuesto diario por persona, orientativo: bajo 50-70 € (casa de huéspedes, autobús, mercados); medio 100-150 € (hotel, coche compartido entre dos, marisco en los puestos de las cooperativas); alto 250 € o más (resort en Jungmun, cenas de cerdo negro y oreja de mar).",
     erroriDaEvitare: [
       "Esperar encontrar a las haenyeo en el agua a voluntad: salen según mareas, estación y estado del mar, y en los meses de veda biológica no se sumergen. Las únicas salidas con horario fijo son las demostraciones organizadas",
       "Fotografiarlas de cerca sin preguntar: son mujeres trabajando, a menudo muy ancianas, no una atracción folclórica",

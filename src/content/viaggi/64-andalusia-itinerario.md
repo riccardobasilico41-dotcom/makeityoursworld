@@ -33,7 +33,7 @@ Nel pomeriggio abbiamo visto la **Cattedrale di Siviglia**, la più grande chies
 
 La sera, il **Barrio de Santa Cruz**, l'ex quartiere ebraico, tra vicoli stretti e patii fioriti. Il percorso più bello passa dal **Callejón del Agua**, lungo le mura dell'Alcázar, e dalla piccola Plaza de Doña Elvira. *Dopo le nove i vicoli si svuotano dei gruppi e restano i bar di tapas: è l'ora giusta per camminarci.*
 
-**In pratica:** Cattedrale circa 13 euro online e 14 in biglietteria, con Giralda e chiesa del Salvador incluse · aperta di pomeriggio fino alle 19 circa, la domenica solo nel pomeriggio · per dormire, Santa Cruz è comodo, Triana più vissuta.
+**In pratica:** Cattedrale circa 13 € online e 14 in biglietteria, con Giralda e chiesa del Salvador incluse · aperta di pomeriggio fino alle 19 circa, la domenica solo nel pomeriggio · per dormire, Santa Cruz è comodo, Triana più vissuta.
 
 ### Giorno 2 — Siviglia: Real Alcázar, Triana e flamenco
 La mattina siamo stati al **Real Alcázar**, il palazzo reale ancora in uso, capolavoro mudéjar con i suoi patii, i giardini e la Sala degli Ambasciatori. Il biglietto ha una fascia oraria e conviene prenotarlo online in anticipo. Lo slot delle 9:30, all'apertura, è il migliore: il **Patio de las Doncellas**, con la vasca lunga e gli archi traforati, si vede quasi vuoto. Poi i giardini, che da soli valgono un'ora, con i pavoni e le gallerie del Grutesco.
@@ -42,7 +42,7 @@ Nel pomeriggio abbiamo attraversato il Guadalquivir verso **Triana**, il quartie
 
 La sera è stata per uno **spettacolo di flamenco** in un tablao acustico, piccolo (c'è la scheda esperienza dedicata). *Gli spettacoli durano circa un'ora e nei locali piccoli i posti sono pochi: conviene prenotare il giorno prima.*
 
-**In pratica:** Real Alcázar circa 15,50 euro, apertura alle 9:30, chiude prima d'inverno · Calle Betis, sul lungofiume di Triana, è il posto per l'aperitivo · tablao da prenotare in anticipo, cena prima o dopo.
+**In pratica:** Real Alcázar circa 15,50 €, apertura alle 9:30, chiude prima d'inverno · Calle Betis, sul lungofiume di Triana, è il posto per l'aperitivo · tablao da prenotare in anticipo, cena prima o dopo.
 
 ### Giorno 3 — Da Siviglia a Córdoba: la Mezquita
 La mattina abbiamo preso l'AVE per **Córdoba** (circa 45 minuti). Dalla stazione al centro storico si cammina in una ventina di minuti, oppure si prende un taxi; conviene lasciare subito i bagagli e organizzarsi per affrontare la Mezquita nelle ore meno calde, perché a Córdoba il caldo arriva prima e pesa di più che a Siviglia.
@@ -51,7 +51,7 @@ Il pomeriggio è andato tutto alla **Mezquita-Catedral**: la foresta di oltre ot
 
 La sera, la **Judería**, l'antico quartiere ebraico intorno a Calleja de las Flores, con la **Sinagoga** medievale e la Puerta de Almodóvar. *La Calleja de las Flores è minuscola e si riempie a tutte le ore: la foto con il campanile in fondo riesce meglio la sera tardi.*
 
-**In pratica:** Mezquita circa 13 euro, aperta tutto il giorno salvo durante le funzioni · ingresso gratuito la mattina presto dal lunedì al sabato, in una breve fascia prima dell'apertura turistica · a Córdoba si dorme nella Judería, vicino alla Mezquita.
+**In pratica:** Mezquita circa 13 €, aperta tutto il giorno salvo durante le funzioni · ingresso gratuito la mattina presto dal lunedì al sabato, in una breve fascia prima dell'apertura turistica · a Córdoba si dorme nella Judería, vicino alla Mezquita.
 
 ### Giorno 4 — Córdoba e trasferimento a Granada
 La mattina siamo stati all'**Alcázar de los Reyes Cristianos** e sul **Ponte Romano** sul Guadalquivir, con la vista classica sulla Mezquita dall'altra sponda. L'Alcázar è la fortezza da cui i Re Cattolici prepararono la conquista di Granada; dentro ci sono mosaici romani e, fuori, i giardini a terrazze con vasche e cipressi. All'altra estremità del ponte c'è la **Torre de la Calahorra**, la torre di guardia medievale. Se il viaggio cade a maggio, si può deviare verso i **Patios de Córdoba** aperti al pubblico.
@@ -65,7 +65,7 @@ La giornata è andata quasi tutta all'**Alhambra**: i **Palazzi Nazridi** con il
 
 Il complesso è grande e i percorsi sono lunghi: servono almeno tre o quattro ore, e scarpe comode. Conviene costruire la visita intorno all'orario dei Palazzi Nazridi, l'unico che non si può spostare, e lasciare il resto prima o dopo. Il **Palazzo di Carlo V**, il palazzo rinascimentale con il grande cortile circolare, si visita senza biglietto. Dalle torri dell'Alcazaba si vedono l'Albaicín di fronte e la Sierra Nevada. *Il nome sul biglietto deve corrispondere al documento: all'ingresso dei Palazzi lo controllano.* Chi ha ancora voglia può tornare la sera per la visita notturna, con biglietto a parte.
 
-**In pratica:** biglietto generale circa 21-22 euro, solo sul sito ufficiale e fino a tre mesi prima · si sale a piedi dalla Cuesta de Gomérez o con i minibus urbani dal centro · acqua e cappello, all'interno l'ombra è poca.
+**In pratica:** biglietto generale circa 21-22 €, solo sul sito ufficiale e fino a tre mesi prima · si sale a piedi dalla Cuesta de Gomérez o con i minibus urbani dal centro · acqua e cappello, all'interno l'ombra è poca.
 
 ### Giorno 6 — Granada: Albaicín e Sacromonte
 La mattina ci siamo persi apposta tra i vicoli dell'**Albaicín**, il quartiere moresco patrimonio UNESCO, tra carmens (case con giardino recintato) e piccole moschee, fino al **Mirador de San Nicolás**, con la vista sull'Alhambra e la Sierra Nevada innevata sullo sfondo. Si sale dalla **Carrera del Darro**, la strada lungo il fiume sotto l'Alhambra, passando per il **Bañuelo**, i bagni arabi dell'XI secolo, e il Paseo de los Tristes. Le salite sono ripide: chi non vuole farle a piedi usa i minibus che salgono dal centro.
@@ -86,7 +86,7 @@ La mattina siamo stati alla **Plaza de Toros de Ronda**, tra le arene più antic
 
 Il pomeriggio è per un'escursione in auto verso uno o due **pueblos blancos** vicini, **Setenil de las Bodegas**, con le case scavate sotto gli speroni di roccia, o **Grazalema**, nell'omonimo parco naturale, e per una tappa in una cantina della zona vinicola di Ronda. Setenil è a una mezz'ora, Grazalema a una quarantina di minuti per strade di montagna. *Chi guida alla cantina deve assaggiare poco: le strade della Serranía sono strette e piene di curve.* Le cantine ricevono quasi sempre su appuntamento.
 
-**In pratica:** Plaza de Toros circa 9 euro · Baños Árabes biglietto economico, inclusi nel bono turistico comunale di Ronda · cantine da prenotare con un giorno d'anticipo.
+**In pratica:** Plaza de Toros circa 9 € · Baños Árabes biglietto economico, inclusi nel bono turistico comunale di Ronda · cantine da prenotare con un giorno d'anticipo.
 
 ### Giorno 9 — Ronda e chiusura del viaggio verso Málaga
 L'ultima mattina a Ronda l'abbiamo lasciata libera per la Ciudad, il quartiere moresco sul lato del ponte opposto al centro. Le strade sono più tranquille di quelle intorno al Puente Nuevo: si passa dalla chiesa di **Santa María la Mayor**, costruita sopra la moschea principale, e dal **Palacio de Mondragón**, con i patii e la vista sulla valle. Accanto al ponte c'è la **Casa del Rey Moro**, con la scala scavata nella roccia che scende fino al fiume.

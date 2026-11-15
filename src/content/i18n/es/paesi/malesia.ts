@@ -28,7 +28,7 @@ export const malesia: Paese = {
     trasportiInterni:
       "Excelentes y sencillos. Los autobuses interurbanos son cómodos, puntuales y económicos, con asientos anchos incluso en las clases básicas: son el medio normal para moverse entre ciudades. El tren ETS conecta Kuala Lumpur con Ipoh y Penang en pocas horas y es la opción más cómoda en el eje oeste. Los vuelos internos de AirAsia y Batik cuestan muy poco y sirven sobre todo para Borneo, que desde la península está a dos horas y media de vuelo. En las ciudades, Grab lo resuelve todo.",
     costoVita:
-      "Entre los más bajos de la región a igual calidad. Una comida completa en un food court cuesta menos de 4 euros, una habitación doble buena unos 35-50, el autobús entre dos ciudades cuesta menos de 10. Los únicos gastos caros son el alcohol, con impuestos muy altos, y las islas en temporada alta.",
+      "Entre los más bajos de la región a igual calidad. Una comida completa en un food court cuesta menos de 4 €, una habitación doble buena unos 35-50, el autobús entre dos ciudades cuesta menos de 10. Los únicos gastos caros son el alcohol, con impuestos muy altos, y las islas en temporada alta.",
     lingua:
       "Malayo (bahasa melayu), pero el inglés está extendido y se habla bien casi en todas partes: probablemente es el país más fácil del sudeste asiático en este aspecto. También se oyen continuamente el chino mandarín, el hokkien, el cantonés y el tamil, a menudo en la misma calle.",
     elettricita: "240 V, 50 Hz, enchufes de tipo G, los mismos británicos de tres polos rectangulares: hace falta adaptador y no es el europeo.",

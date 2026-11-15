@@ -16,7 +16,7 @@ export const giappone360Meta: TripMeta = {
     'Tokyo is experienced only in bits and pieces (arrival and the last two days): with more time it would deserve 4-5 full days',
     'The pace is very dense, almost every day with a change of city or a long leg',
   ],
-  budgetTotale: 'about 600-750€ for the whole stay on the ground, excluding flights and the JR Pass',
+  budgetTotale: 'about €600-750 for the whole stay on the ground, excluding flights and the JR Pass',
   viaggioInBreve: {
     percheHoScelto: undefined,
     conChiSonoPartito: 'JR Pass for the big train transfers, activated from the fourth day on',
@@ -167,7 +167,7 @@ export const giappone360Meta: TripMeta = {
   budget: [
     { etichetta: 'Flights', valore: undefined },
     { etichetta: 'JR Pass', valore: undefined },
-    { etichetta: 'Stay on the ground (food, admissions, activities)', valore: '600-750€' },
+    { etichetta: 'Stay on the ground (food, admissions, activities)', valore: '€600-750' },
     { etichetta: 'Total', valore: undefined },
   ],
 }

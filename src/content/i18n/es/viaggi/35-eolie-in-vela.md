@@ -61,7 +61,7 @@ La tarde en barco a lo largo de la **costa nororiental**, frente a las **antigua
 
 Para quien se queda en tierra está el mirador de **Quattrocchi**, desde el que se ven juntos los farallones y Vulcano: es la postal de la isla.
 
-**En la práctica:** Museo Arqueológico Eolio abierto normalmente todos los días hasta media tarde, entrada general unos 7 €, horarios a comprobar en la web del Parque arqueológico · al menos dos horas para el museo · antiguas canteras de piedra pómez para ver solo desde el mar · Lípari es el puerto donde cargar agua y provisiones.
+**En la práctica:** Museo Arqueológico Eolio abierto normalmente todos los días hasta media tarde, entrada general unos 7 €, horarios en la web del Parque arqueológico · al menos dos horas para el museo · antiguas canteras de piedra pómez para ver solo desde el mar · Lípari es el puerto donde cargar agua y provisiones.
 
 ### Día 4 — Salina: la verde
 Breve travesía hacia **Salina**, la anomalía del archipiélago: **es la única isla con agua de manantial**, y por eso es verde, cultivada y llena de árboles mientras las otras son yermas. Tiene dos volcanes apagados gemelos, el **Monte dei Porri** y la **Fossa delle Felci**, que le dan el perfil de dos jorobas reconocible desde kilómetros.
@@ -74,7 +74,7 @@ Salina es también la isla de la comida: las **alcaparras**, que aquí son un pr
 
 Noche en rada en Santa Marina o en Rinella.
 
-**En la práctica:** subida a la Fossa delle Felci de un par de horas, calzado de trekking y agua, mejor temprano por la mañana · playa de Pollara con acceso limitado, a comprobar allí · bodegas de Malvasía con cita previa · alcaparras y Malvasía para comprar aquí, donde cuestan menos que en otros sitios.
+**En la práctica:** subida a la Fossa delle Felci de un par de horas, calzado de trekking y agua, mejor temprano por la mañana · playa de Pollara con acceso limitado: preguntar allí · bodegas de Malvasía con cita previa · alcaparras y Malvasía para comprar aquí, donde cuestan menos que en otros sitios.
 
 ### Día 5 — Panarea y los islotes
 **Panarea** es la más pequeña de las islas mayores y la más mundana. En agosto está saturada y cara; en junio y septiembre vuelve a ser lo que es, un pueblo blanco sin coches (**se recorre a pie o con vehículos eléctricos**), con buganvillas y casas bajas.

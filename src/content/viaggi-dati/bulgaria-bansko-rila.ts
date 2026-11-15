@@ -55,7 +55,7 @@ export const bulgariaBanskoRilaMeta: TripMeta = {
       pernottamento: 'hotel a pochi minuti dalla stazione della gondola (nome non annotato)',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'Skipass giornaliero 35-40€',
+      costiNoti: 'Skipass giornaliero 35-40 €',
       destinazioneSlug: 'bansko',
       immagine: '/images/viaggi/bulgaria-bansko-rila/giorno-2-4-bansko-sci.jpg',
       imageAlt: 'Una seggiovia della Bansko Ski Zone sale verso la cresta innevata vicino al Todorka Peak',
@@ -66,7 +66,7 @@ export const bulgariaBanskoRilaMeta: TripMeta = {
       pernottamento: 'nessun pernottamento (tappa lungo il rientro)',
       statoPernottamento: 'provato',
       intensita: 'medio',
-      costiNoti: 'Museo di Storia Ecclesiastica 8 BGN (4€)',
+      costiNoti: 'Museo di Storia Ecclesiastica 8 BGN (4 €)',
       destinazioneSlug: 'monastero-rila',
       immagine: '/images/viaggi/bulgaria-bansko-rila/giorno-5-rila-monastero.jpg',
       imageAlt: 'La Chiesa della Natività della Vergine al Monastero di Rila, con le cupole e il portico interamente affrescato',
@@ -85,8 +85,8 @@ export const bulgariaBanskoRilaMeta: TripMeta = {
   budget: [
     { etichetta: 'Voli', valore: undefined },
     { etichetta: 'Auto a noleggio', valore: undefined },
-    { etichetta: 'Skipass (3 giorni)', valore: '105-120€' },
-    { etichetta: 'Vitto (mehane)', valore: '15-20€ a testa a cena' },
+    { etichetta: 'Skipass (3 giorni)', valore: '105-120 €' },
+    { etichetta: 'Vitto (mehane)', valore: '15-20 € a testa a cena' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

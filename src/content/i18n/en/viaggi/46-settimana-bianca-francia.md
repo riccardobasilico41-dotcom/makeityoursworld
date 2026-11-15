@@ -25,7 +25,7 @@ We arrived at the resort, picked up the apartment and the equipment and, if the 
 
 The order of things matters more than usual. First the rental, booked online in the days before, so skis and boots are ready and the fitting takes a few minutes; then the keys to the apartment, usually handed over from the afternoon; then shopping at the resort supermarket before it closes. If there is daylight left, a couple of easy runs near the apartment help you get your ski legs back. *On the road up, the Loi Montagne rules apply: from November to March you need winter tyres or chains on board, and there are checks.*
 
-**In practice:** Carré Neige insurance costs about 3.50 euros a day on top of the lift pass · in many resorts a pass bought online is loaded onto your card or collected at automatic machines · do a big shop on the first day: shops up in the resort cost more than in the valley.
+**In practice:** Carré Neige insurance costs about €3.50 a day on top of the lift pass · in many resorts a pass bought online is loaded onto your card or collected at automatic machines · do a big shop on the first day: shops up in the resort cost more than in the valley.
 
 ### Day 2 — Skiing the main ski area
 The first full day is for exploring the chosen area: Three Valleys, Paradiski or Tignes-Val d'Isère. These are linked ski areas built since the 1960s with a single criterion, altitude, and so big that you never repeat a run. The size should be taken seriously: the **Three Valleys** advertise about 600 kilometers of runs, **Paradiski** about 425, **Tignes-Val d'Isère** about 300. On the first day stay in your own valley and the nearby sectors, to understand how the lifts connect and which runs lead back to base.

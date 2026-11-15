@@ -43,7 +43,7 @@ export const destinazioniUngheria: Destinazione[] = [
     costi: "Presupuesto diario por persona, sin vuelo: bajo 50-70 € (albergue o habitación en el distrito VII, lángos y comedores, transporte público); medio 100-150 € (hotel de tres estrellas en doble, dos comidas en restaurante, balneario y un par de entradas); alto desde 220 € (hotel junto al Danubio, restaurantes de cocina húngara moderna, crucero nocturno). Lo más caro de un día típico suele ser la entrada al balneario.",
     erroriDaEvitare: [
       'Seguir a quien aborda en la calle proponiendo «un local fantástico» en el barrio judío o alrededor de las plazas turísticas: es el esquema clásico que lleva a cuentas infladas hasta el extremo',
-      'Confundir los ceros del florín: una cuenta de «8.000» no son 8 euros, y es fácil equivocarse los primeros días',
+      'Confundir los ceros del florín: una cuenta de «8.000» no son 8 €, y es fácil equivocarse los primeros días',
       'Subestimar las termas como un paréntesis relajante de una hora: entre entrada, vestuario y colas para las taquillas, conviene reservar al menos media jornada',
       'Planificar el fin de semana sin reservar con antelación el tour del Parlamento, que tiene entradas limitadas y a menudo se agota con días de antelación en temporada alta',
     ],

@@ -169,7 +169,7 @@ export const grandiCittaItaliaMeta: TripMeta = {
   budget: [
     { etichetta: 'Alta velocità (4 tratte)', valore: 'i prezzi crollano prenotando con settimane di anticipo' },
     { etichetta: 'Ingressi contingentati', valore: 'Colosseo, Uffizi, cupola, Galleria Borghese, Pompei: da prenotare settimane prima' },
-    { etichetta: 'Contributo di accesso Venezia', valore: '5€ con almeno quattro giorni di anticipo, 10€ sotto soglia; esente chi pernotta' },
+    { etichetta: 'Contributo di accesso Venezia', valore: '5 € con almeno quattro giorni di anticipo, 10 € sotto soglia; esente chi pernotta' },
     { etichetta: 'Pass vaporetto a tempo', valore: 'quasi sempre conveniente rispetto ai biglietti singoli' },
     { etichetta: 'Chiese', valore: 'gratuite, e contengono una parte enorme di quello che si viene a vedere' },
     { etichetta: 'Pasti', valore: 'la regola che vale più di ogni altra: mai entro trecento metri da un monumento' },

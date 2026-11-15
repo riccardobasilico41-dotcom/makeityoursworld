@@ -411,7 +411,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "quando": "All'apertura: la luce è migliore e ci sono meno gruppi.",
         "tempo": "3-4 ore",
         "costo": "700 EGP, circa 11,5 €, per adulti stranieri, 350 per studenti (2026). Grande Piramide, piramidi di Chefren e Micerino, tomba di Meresankh III e cimitero degli operai a parte.",
-        "orari": "Tutti i giorni dalle 7, ultimo ingresso alle 16 (biglietteria ufficiale egymonuments.com, 2026)",
+        "orari": "Tutti i giorni dalle 7, ultimo ingresso alle 16 (2026)",
         "lat": 29.97611,
         "lng": 31.13278,
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
@@ -501,7 +501,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Uber o taxi dall'altopiano, circa 10 minuti. Ingresso a fascia oraria, da prenotare online.",
         "quando": "Mezza giornata dopo le piramidi; il mercoledì e il sabato è aperto fino a sera.",
         "tempo": "3-4 ore",
-        "costo": "1.830 EGP, circa 30 €, dal 1° novembre 2026 (dal viaggio sul sito)",
+        "costo": "1.830 EGP, circa 30 €, dal 1° novembre 2026",
         "orari": "Domenica, lunedì, martedì, giovedì e venerdì: complesso 8.30-19, gallerie 9-18; mercoledì e sabato: complesso 8.30-22, gallerie 9-21; ultimo ingresso un'ora prima della chiusura delle gallerie (2026)",
         "lat": 29.995,
         "lng": 31.1193,
@@ -825,7 +825,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Dentro la Valle dei Re, biglietto a parte venduto all'ingresso della valle.",
         "quando": "Mattina, nella stessa visita alla valle.",
         "tempo": "30-40 minuti",
-        "costo": "circa 2.000 EGP, circa 33 € (2026, dal viaggio sul sito)",
+        "costo": "circa 2.000 EGP, circa 33 € (2026)",
         "lat": 25.73981,
         "lng": 32.60189,
         "consiglio": "Se si paga una sola tomba extra, questa vale più di quella di Tutankhamon per le pitture."
@@ -1117,7 +1117,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Dal lungofiume di Assuan.",
         "quando": "Tramonto.",
         "tempo": "1-2 ore",
-        "costo": "indicativamente 300-600 EGP l'ora a barca, circa 5-10 € (2026, dal viaggio sul sito)",
+        "costo": "indicativamente 300-600 EGP l'ora a barca, circa 5-10 € (2026)",
         "consiglio": "Concordare se il prezzo è a barca o a persona, e quanto dura."
       },
       {
@@ -1327,7 +1327,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Edfu",
         "distanza": "circa 110 km, 2 ore",
         "come": "Auto con autista, spesso nella stessa giornata di Kom Ombo, o in crociera.",
-        "testo": "Il tempio di Horus, il meglio conservato del Paese, con pilone, sala ipostila e santuario quasi integri. Biglietto 550 EGP (2026, dal viaggio sul sito)."
+        "testo": "Il tempio di Horus, il meglio conservato del Paese, con pilone, sala ipostila e santuario quasi integri. Biglietto 550 EGP (2026)."
       },
       {
         "nome": "Isola di Sehel",

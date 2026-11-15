@@ -1017,8 +1017,8 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "A pie desde el centro, junto al lago. Se entra descalzo con hombros y rodillas cubiertos; la reliquia está guardada en siete cofres de oro en la cámara llamada Handun Kunama. No se admiten pantalones cortos ni camisetas sin mangas; en la entrada hay ropa adecuada.",
         "quando": "Abierto todos los días de 5:30 a 20 h. Las ceremonias son a las 5:30, a las 9:30 y a las 18:30: para la de la tarde la fila se forma ya a última hora de la tarde.",
         "tempo": "2 horas",
-        "costo": "3.000 LKR (unos 9 €) para extranjeros (2026, web oficial), con los museos del complejo; en 2023 eran 2.000 LKR. Solo valen las entradas de las máquinas del templo.",
-        "orari": "Todos los días de 5:30 a 20 h; ceremonias a las 5:30, a las 9:30 y a las 18:30 (web oficial, 2026).",
+        "costo": "3.000 LKR (unos 9 €) para extranjeros (2026), con los museos del complejo; en 2023 eran 2.000 LKR. Solo valen las entradas de las máquinas del templo.",
+        "orari": "Todos los días de 5:30 a 20 h; ceremonias a las 5:30, a las 9:30 y a las 18:30 (2026).",
         "lat": 7.2936,
         "lng": 80.6414,
         "url": "https://sridaladamaligawa.lk/",
@@ -1030,7 +1030,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "En tuk-tuk o autobús desde el centro de Kandy, unos 20 minutos. Se recorre a pie: los paseos tienen sombra, pero el jardín es grande.",
         "quando": "Por la mañana, antes del calor; los fines de semana llegan muchas familias locales.",
         "tempo": "2-3 horas",
-        "orari": "Todos los días de 7:30 a 18 h (web oficial, 2026).",
+        "orari": "Todos los días de 7:30 a 18 h (2026).",
         "lat": 7.27111,
         "lng": 80.59556,
         "url": "https://en.botanicgardens.gov.lk/"
@@ -1231,7 +1231,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "domanda": "¿A qué hora es la ceremonia del Templo del Diente?",
-        "risposta": "Las ceremonias son a las 5:30, a las 9:30 y a las 18:30 (web oficial, 2026). Para la de la tarde conviene hacer cola desde media tarde."
+        "risposta": "Las ceremonias son a las 5:30, a las 9:30 y a las 18:30 (2026). Para la de la tarde conviene hacer cola desde media tarde."
       },
       {
         "domanda": "¿Cómo hay que vestir en el Templo del Diente?",

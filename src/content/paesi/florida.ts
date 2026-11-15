@@ -11,15 +11,15 @@ export const florida: Paese = {
     'Dieci giorni e quasi 1.800 km al volante: il turchese delle Keys, la palude delle Everglades, il kitsch dorato di Orlando e i razzi della NASA a Cape Canaveral, e per finire le spiagge e la vita notturna di Miami Beach.',
   periodoMigliore: 'clima caldo-umido tutto l\'anno, con estati molto piovose e rischio uragani in stagione',
   durataConsigliata: '10 giorni, 9 notti',
-  budgetIndicativo: 'cassa comune di partenza 270€ a persona, più 900-1.000$ a testa di spesa media personale, esclusi voli',
+  budgetIndicativo: 'cassa comune di partenza 270 € a persona, più 900-1.000$ a testa di spesa media personale, esclusi voli',
   scheda: {
     documenti:
-      'Passaporto elettronico valido oltre la data di rientro (meglio almeno 3 mesi) e autorizzazione ESTA per soggiorni turistici fino a 90 giorni. Dal 30 settembre 2025 l\'ESTA costa 40,27$, quasi il doppio dei 21$ di prima, e vale 2 anni. Chi è stato a Cuba dopo il 2011 non può usarla e deve chiedere un visto vero e proprio (150-250€, con tempi di 30-45 giorni).',
+      'Passaporto elettronico valido oltre la data di rientro (meglio almeno 3 mesi) e autorizzazione ESTA per soggiorni turistici fino a 90 giorni. Dal 30 settembre 2025 l\'ESTA costa 40,27$, quasi il doppio dei 21$ di prima, e vale 2 anni. Chi è stato a Cuba dopo il 2011 non può usarla e deve chiedere un visto vero e proprio (150-250 €, con tempi di 30-45 giorni).',
     valuta: 'Dollaro statunitense (USD).',
     pagamenti:
       'Carte accettate ovunque. Due voci da mettere a budget sorprendono al primo viaggio: ai prezzi esposti vanno aggiunti circa il 7% di tasse e il 18-20% di mancia, spesso già inclusa nel conto (controlla sempre, per non pagarla due volte). Per il deposito cauzionale degli hotel, circa 50$ a notte a camera, serve una carta di credito personale.',
     connettivita:
-      'Conviene attivare un piano dati statunitense prima di partire (una SIM turistica costa indicativamente 31€ per 9 giorni, 40€ per 15) oppure comprarla sul posto. Con queste SIM non si fanno chiamate internazionali, solo dati: per sentire l\'Italia ci sono WhatsApp o Skype. Il Wi-Fi c\'è in tutti gli hotel e nei parchi di Orlando.',
+      'Conviene attivare un piano dati statunitense prima di partire (una SIM turistica costa indicativamente 31 € per 9 giorni, 40 € per 15) oppure comprarla sul posto. Con queste SIM non si fanno chiamate internazionali, solo dati: per sentire l\'Italia ci sono WhatsApp o Skype. Il Wi-Fi c\'è in tutti gli hotel e nei parchi di Orlando.',
     salute: 'Nessuna vaccinazione richiesta, ma l\'assicurazione sanitaria è indispensabile: senza copertura le cure costano moltissimo.',
     sicurezza:
       'Con le normali accortezze le zone turistiche sono tranquille. La variabile è il meteo: da giugno a novembre è la stagione degli uragani e delle tempeste tropicali, che possono far saltare qualche tappa.',

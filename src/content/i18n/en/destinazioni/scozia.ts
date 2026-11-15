@@ -216,19 +216,19 @@ export const destinazioniScozia: Destinazione[] = [
         "nome": "Old Town",
         "perChi": "anyone who wants everything on foot",
         "testo": "Along and around the Royal Mile. Convenient, but noisy in the evening and expensive in summer.",
-        "fascia": "160-300 €"
+        "fascia": "€160-300"
       },
       {
         "nome": "New Town",
         "perChi": "anyone who wants more calm",
         "testo": "The Georgian streets below the castle, a few minutes from Waverley station.",
-        "fascia": "170-320 €"
+        "fascia": "€170-320"
       },
       {
         "nome": "Leith",
         "perChi": "anyone looking for lower prices and good restaurants",
         "testo": "The port, linked to the centre by tram.",
-        "fascia": "110-200 €"
+        "fascia": "€110-200"
       }
     ],
     gite: [
@@ -1121,7 +1121,7 @@ export const destinazioniScozia: Destinazione[] = [
         quando: "On clear days; in strong wind the gondola can close without notice.",
         tempo: "2 hours; the ride takes 12-15 minutes",
         costo: "adult day ticket £28.95 (about €33, 2026 season)",
-        orari: "Daily: first gondola up 9.30am, last up 3.45pm, last down 4pm; weather closures to be checked on the website on the day.",
+        orari: "Daily: first gondola up 9.30am, last up 3.45pm, last down 4pm; check the website on the day for weather closures.",
         lat: 56.85221,
         lng: -4.99877,
         url: "https://www.nevisrange.co.uk/mountain-gondola/",

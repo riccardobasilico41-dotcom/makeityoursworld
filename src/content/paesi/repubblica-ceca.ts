@@ -36,7 +36,7 @@ export const repubblicaCeca: Paese = {
     trasportiInterni:
       'Il centro storico si gira tutto a piedi. Per il resto della città la rete di metro (tre linee), tram e bus è capillare, puntuale ed economica (biglietti a tempo del sistema PID, da circa 30 a 120 CZK secondo la durata): il biglietto singolo vale su tutti i mezzi e va convalidato a bordo. Per un weekend nel centro di Praga l\'auto a noleggio non serve.',
     costoVita:
-      'Fuori dalle zone più turistiche è basso per gli standard dell\'Europa occidentale: un mezzo litro di birra alla spina in un pub di quartiere costa indicativamente 55-80 CZK, contro i 100-150 CZK (o più) dei locali sulla Piazza della Città Vecchia; un pasto normale fuori dal centro turistico costa sui 10-15€ a testa.',
+      'Fuori dalle zone più turistiche è basso per gli standard dell\'Europa occidentale: un mezzo litro di birra alla spina in un pub di quartiere costa indicativamente 55-80 CZK, contro i 100-150 CZK (o più) dei locali sulla Piazza della Città Vecchia; un pasto normale fuori dal centro turistico costa sui 10-15 € a testa.',
     lingua: 'Ceco. L\'inglese è diffuso nel centro storico, negli hotel e tra i più giovani; cala nei quartieri periferici e tra le generazioni più anziane. Qualche parola di ceco (dobrý den, děkuji) fa sempre piacere.',
     elettricita: '230V, 50Hz, prese di tipo C ed E: le spine italiane a due poli entrano senza problemi, quelle a tre poli con messa a terra possono richiedere un adattatore.',
     fusoOrario: 'UTC+1 (CET), lo stesso fuso dell\'Italia tutto l\'anno, ora legale compresa: nessuna differenza oraria.',

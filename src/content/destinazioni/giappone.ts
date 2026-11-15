@@ -442,7 +442,7 @@ export const destinazioniGiappone: Destinazione[] = [
         come: "A piedi dalla stazione di Kita-Kamakura in una decina di minuti, tra Engaku-ji e Kencho-ji.",
         quando: "Giugno per le ortensie, sapendo che nei fine settimana si fa la coda; fine novembre per gli aceri.",
         tempo: "45 minuti",
-        costo: "500 yen (circa 3 €, 2026; dato di guide turistiche, il tempio non ha un sito ufficiale)",
+        costo: "500 yen (circa 3 €, 2026)",
         orari: "Di norma 9-16, a giugno 8.30-17 (guide turistiche)",
         lat: 35.33499,
         lng: 139.55146,
@@ -1193,7 +1193,7 @@ export const destinazioniGiappone: Destinazione[] = [
     cosaVedere: ['Il Castello di Himeji', 'I Giardini Kokoen'],
     cosaFare: ['Visita guidata al castello', 'Pranzo a base di manzo di Kobe o Wagyu'],
     doveDormire: 'Non ho pernottato qui: tappa di passaggio verso Osaka.',
-    doveMangiare: 'Fuku-tei (spiedini e burger da asporto, ottimo rapporto qualità-prezzo) o una steakhouse teppanyaki di Kobe per un\'esperienza più importante (70-80€ per 150g di carne).',
+    doveMangiare: 'Fuku-tei (spiedini e burger da asporto, ottimo rapporto qualità-prezzo) o una steakhouse teppanyaki di Kobe per un\'esperienza più importante (70-80 € per 150g di carne).',
     comeArrivare: "Himeji è sulla linea dello Shinkansen Sanyo: circa mezz'ora da Shin-Osaka e circa un'ora da Hiroshima con gli Hikari e i Sakura, coperti dal JR Pass; il Kodama ferma ovunque ed è più lento, e su alcune corse tra Hiroshima e Himeji gira il treno a tema Hello Kitty. Da Osaka e Kobe c'è anche il treno JR Special Rapid, più economico. Dalla stazione al castello si cammina dritto lungo il viale Otemae per circa 20 minuti, oppure si prende il bus Shinki fino a Otemon-mae.",
     comeSpostarsi: 'A piedi dal castello ai giardini.',
     periodoMigliore: 'mattina, prima dell\'affollamento',
@@ -3252,7 +3252,7 @@ export const destinazioniGiappone: Destinazione[] = [
     periodoMigliore: 'da fine giugno a ottobre per il mare; da luglio a settembre i tifoni possono fermare i traghetti',
     erroriDaEvitare: ['Fare il bagno nella baia di Kabira senza chiedere: ci passano le barche e si coltivano le perle', 'Andare a Iriomote senza guida per le cascate e le mangrovie'],
     sapori: [{ nome: 'Manzo di Ishigaki', testo: 'In bistecca o alla griglia yakiniku.' }],
-    comeArrivare: "Ci sono voli diretti per Ishigaki da Tokyo, Osaka e Naha, e da Miyako. Dall'aeroporto il bus arriva al terminal del porto in circa 30-45 minuti, circa 550 yen. Dal porto partono i traghetti per le isole: per Taketomi 970 yen a tratta, per Iriomote 3.290 yen fino a Uehara e 2.520 fino a Ohara (Anei Kanko, 2026). Con il mare grosso le corse per Uehara sono le prime a saltare. Su Ishigaki si gira in auto o con i bus.",
+    comeArrivare: "Ci sono voli diretti per Ishigaki da Tokyo, Osaka e Naha, e da Miyako. Dall'aeroporto il bus arriva al terminal del porto in circa 30-45 minuti, circa 550 yen. Dal porto partono i traghetti per le isole: per Taketomi 970 yen a tratta, per Iriomote 3.290 yen fino a Uehara e 2.520 fino a Ohara (2026). Con il mare grosso le corse per Uehara sono le prime a saltare. Su Ishigaki si gira in auto o con i bus.",
     costi: "Traghetti per Taketomi 970 yen, per Iriomote 2.520-3.290 yen a tratta; barche dal fondo trasparente a Kabira circa 1.300-1.700 yen. Budget giornaliero a persona, indicativo: basso 60-80 € (hotel in centro, bus e traghetti); medio 120-180 € (hotel, auto o escursione guidata a Iriomote); alto 300 € e oltre (resort a Kabira o sulle isole minori).",
     luoghi: [
       {

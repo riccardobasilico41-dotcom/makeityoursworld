@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-The classic Thailand trip is the beach one, and it's already on the site: [from Bangkok to the southern sea](/viaggi/thailandia). This is the other one, the north. Mountains, wooden temples, evening markets and a slower pace. I went to Chiang Mai on a separate trip, and you feel the contrast with Bangkok and the south from the first day. The morning with the elephants at Elephant Nature Park, without ever riding them, is still one of my best memories of Thailand.
+The classic Thailand trip is the beach one, and it's already on the site, from Bangkok to the southern sea. This is the other one, the north. Mountains, wooden temples, evening markets and a slower pace. I went to Chiang Mai on a separate trip, and you feel the contrast with Bangkok and the south from the first day. The morning with the elephants at Elephant Nature Park, without ever riding them, is still one of my best memories of Thailand.
 
 The route climbs from Bangkok on the night train, stops for almost a week in Chiang Mai, goes through Pai and ends in Chiang Rai and at the border on the Mekong. There's also a long section on elephants: how to see them without doing harm, and how to recognize a serious place.
 

@@ -1009,7 +1009,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Teleférico desde Stechelberg (valle) o desde Mürren, en varios tramos.",
         quando: "Por la mañana, con la mejor luz. Cerrado con viento fuerte.",
         tempo: "2-3 horas",
-        costo: "Ida y vuelta 115 CHF desde Stechelberg y 91,40 CHF desde Mürren, válidos hasta el 12/12/2026 (web oficial); grandes descuentos con el Swiss Travel Pass.",
+        costo: "Ida y vuelta 115 CHF desde Stechelberg y 91,40 CHF desde Mürren, válidos hasta el 12/12/2026; grandes descuentos con el Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "Desde el valle la subida es más larga pero da vistas de las paredes."
       },

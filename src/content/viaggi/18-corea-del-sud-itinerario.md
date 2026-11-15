@@ -22,7 +22,7 @@ La Corea del Sud è il paese più facile dell'Asia in cui viaggiare e uno dei pi
 - **Elettricità:** 220V, prese di tipo C e F. Le spine italiane entrano senza adattatore, cosa rara in Asia.
 - **Lingua:** l'hangul, l'alfabeto coreano, fu progettato nel Quattrocento per essere imparato in fretta, e funziona: un paio d'ore bastano per decifrare le insegne e i nomi delle fermate, e cambia parecchio. L'inglese è insegnato a tutti ma parlato con esitazione, soprattutto fuori Seoul.
 - **Jeju:** ci si arriva in aereo da Gimpo o Busan, con decine di voli al giorno a prezzi bassissimi. Sull'isola serve l'**auto a noleggio**, e per noleggiarla serve la **patente internazionale**, da fare in Italia prima di partire: non è negoziabile.
-- **Budget indicativo:** KTX Seoul-Busan attorno ai 40€, hotel di buon livello 60-90€, pasti 6-15€ con i banchan sempre inclusi e rimpiazzati gratis. Il caffè invece costa quanto in Europa: in Corea i caffè sono luoghi di ritrovo e si paga la sosta.
+- **Budget indicativo:** KTX Seoul-Busan attorno ai 40 €, hotel di buon livello 60-90 €, pasti 6-15 € con i banchan sempre inclusi e rimpiazzati gratis. Il caffè invece costa quanto in Europa: in Corea i caffè sono luoghi di ritrovo e si paga la sosta.
 - **Numeri utili:** polizia 112, emergenze 119, e soprattutto **1330**, la Korea Travel Hotline: attiva 24 ore su 24, multilingue, risolve di tutto, dai problemi di trasporto alle traduzioni al telefono. È uno dei servizi turistici migliori al mondo.
 
 ## Itinerario giorno per giorno

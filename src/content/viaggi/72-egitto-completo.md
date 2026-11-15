@@ -24,7 +24,7 @@ Tre settimane sono il tempo che serve per vedere l'Egitto senza scegliere. Il vi
 
 ### Documenti, visto e permessi
 - **Documenti:** passaporto con almeno 6 mesi di validità residua all'arrivo. Per turismo è accettata anche la carta d'identità elettronica valida per l'espatrio con più di 6 mesi residui e due fototessere, ma non quella prorogata con il cedolino cartaceo; per questo itinerario, con posti di blocco, Siwa e crociera, il passaporto è molto più pratico.
-- **Visto:** 30 $ all'arrivo al Cairo (aumentato dal 1° marzo 2026; Viaggiare Sicuri riporta ancora 25 $) oppure e-visa sul portale ufficiale visa2egypt.gov.eg (indicativamente 25-30 $ singolo, 60-65 $ multiplo). Il timbro gratuito del Sinai non vale per questo viaggio.
+- **Visto:** 30 $ all'arrivo al Cairo (aumentato dal 1° marzo 2026) oppure e-visa sul portale ufficiale visa2egypt.gov.eg (indicativamente 25-30 $ singolo, 60-65 $ multiplo). Il timbro gratuito del Sinai non vale per questo viaggio.
 - **Siwa e deserto occidentale:** l'oasi si raggiunge liberamente con documenti in regola, ma lungo la strada ci sono diversi posti di blocco militari che registrano i passaporti. Per uscire nel **Grande Mare di Sabbia** e nelle zone verso il confine libico serve un permesso che si ottiene tramite un operatore locale autorizzato, di solito in 24 ore: va dato il passaporto la sera prima. Viaggiare Sicuri chiede di evitare le aree vicine al confine con la Libia, sconsiglia vivamente le escursioni nel deserto fuori dalle zone turistiche (in molte manca anche la copertura GPS) e raccomanda di non viaggiare su strada di notte: a Siwa ci si muove solo con operatori autorizzati, e di giorno.
 - **Immersioni:** brevetto e logbook, assicurazione subacquea specifica (tipo DAN). Vedi la sezione dedicata.
 
@@ -131,7 +131,7 @@ Il pomeriggio siamo andati al **Museo Egizio di piazza Tahrir**, che anche dopo 
 ### Giorno 5 — Da Cairo a Marsa Matruh passando per Alessandria
 Abbiamo fatto il primo tratto verso Siwa in auto con autista. **Alessandria**, a tre ore dal Cairo, merita una sosta di mezza giornata: la nuova **Bibliotheca Alexandrina**, le catacombe di **Kom el-Shoqafa** e la cittadella di **Qaitbay** sul luogo del Faro. Il pranzo si fa sulla Corniche, nei ristoranti di pesce, dove si sceglie il pesce al banco e lo si fa cucinare. Conviene partire dal Cairo all'alba, per avere Alessandria in mattinata e ripartire subito dopo pranzo.
 
-Poi la strada costiera passa per **El Alamein**, con i sacrari militari e il museo della battaglia, e siamo arrivati a **Marsa Matruh** in serata. È una giornata lunga, intorno alle otto ore di guida con le soste. Il bus notturno diretto per Siwa farebbe risparmiare un giorno, ma viaggia col buio, che Viaggiare Sicuri sconsiglia: meglio spezzare il viaggio e guidare solo di giorno. *Lungo la costa ci sono posti di controllo: il passaporto va tenuto a portata di mano, non in valigia.*
+Poi la strada costiera passa per **El Alamein**, con i sacrari militari e il museo della battaglia, e siamo arrivati a **Marsa Matruh** in serata. È una giornata lunga, intorno alle otto ore di guida con le soste. Il bus notturno diretto per Siwa farebbe risparmiare un giorno, ma viaggia col buio, ed è sconsigliato: meglio spezzare il viaggio e guidare solo di giorno. *Lungo la costa ci sono posti di controllo: il passaporto va tenuto a portata di mano, non in valigia.*
 
 **In pratica**
 - Auto con autista Cairo-Siwa e ritorno: indicativamente 250-400 $ in tutto
@@ -359,6 +359,8 @@ Il nostro giro è stato questo: il Cairo con Giza, Saqqara e Dahshur; la strada 
 
 ## Nota su questa bozza
 Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficiale dei siti archeologici egiziani, comunicati del Grand Egyptian Museum sui prezzi dal 1° novembre 2026, operatori di treni notte, crociere e diving, guide recenti. **Non contiene esperienze dirette.** I prezzi dei biglietti sono cambiati più volte dal 2024 e sono indicativi; le condizioni per il deserto occidentale e le regole dei parchi marini vanno ricontrollate prima della partenza.
+
+Visto: Viaggiare Sicuri riporta ancora 25 $, il nuovo importo è 30 $ dal 1/3/2026; sconsiglio dei viaggi notturni da Viaggiare Sicuri (note tolte dal testo).
 
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione:**

@@ -51,7 +51,7 @@ export const destinazioniPanama: Destinazione[] = [
           "come": "Taxi da app o transfer dell'hotel da Panama City. Biglietto d'ingresso al centro visitatori.",
           "quando": "Mattina: gli orari di transito delle navi vanno controllati prima, perché senza una nave in manovra si guarda una vasca vuota.",
           "tempo": "2-3 ore",
-          "costo": "17,22 USD per i non residenti dai 13 anni (tariffa ufficiale ACP in vigore nel 2026).",
+          "costo": "17,22 USD per i non residenti dai 13 anni (in vigore nel 2026).",
           "url": "https://pancanal.com/",
           "consiglio": "Una portacontainer che entra con pochi centimetri di margine per lato vale da sola la deviazione."
         },

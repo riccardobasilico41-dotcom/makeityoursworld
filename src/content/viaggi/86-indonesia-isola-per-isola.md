@@ -118,7 +118,7 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 ### Le Mentawai
 **Cosa fare e vedere:** qualche giorno nella giungla di Siberut con una famiglia mentawai, accompagnati da guide mentawai, poi le spiagge e il surf di Sipora. Ci sono andato con Mentawai Tribe, e sono posti pazzeschi. Non è per tutti: fango ovunque, insetti, niente elettricità, si dorme su una stuoia. E c'è un lato etico da affrontare onestamente: si è ospiti in casa di qualcuno, non in uno spettacolo.
 
-**Come arrivare e muoversi:** traghetto veloce Mentawai Fast da Padang per Siberut e per Tuapejat, a Sipora. Orari e prezzi cambiano spesso, e con il mare mosso le barche non partono: servono giorni di margine. A Siberut canoa a motore e trekking. Chi surfa paga una tassa surf locale, con importo da verificare.
+**Come arrivare e muoversi:** traghetto veloce Mentawai Fast da Padang per Siberut e per Tuapejat, a Sipora. Orari e prezzi cambiano spesso, e con il mare mosso le barche non partono: servono giorni di margine. A Siberut canoa a motore e trekking. Chi surfa paga una tassa surf locale.
 
 **Quando andare:** maggio-settembre. Da novembre a gennaio piove molto.
 
@@ -157,13 +157,13 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 ### Raja Ampat
 **Cosa fare e vedere:** snorkeling e immersioni tra Kri, Arborek, Cape Kri e le isole Fam, il belvedere di Piaynemo, i villaggi degli homestay. Più a sud Misool, con un liveaboard. È il posto più bello che ho visto sott'acqua, e anche il più faticoso da raggiungere. Chi vuole dormire ad Arborek trova gli homestay sul portale degli homestay locali, stayrajaampat.com (per esempio Worisun e Adefiro). Dormire negli homestay invece che nei resort è la scelta che vale la pena fare, perché quel modello tiene in piedi la protezione del parco.
 
-**Come arrivare e muoversi:** volo su Sorong da Giacarta, Makassar e Manado, o da Bali con il diretto Garuda nei mesi in cui è attivo (nel 2026-2027 da fine ottobre a marzo). Poi traghetto per Waisai, circa 2 ore, con una partenza nel primo pomeriggio e, non tutti i giorni, una al mattino. Tra le isole solo barche degli homestay, barche private o liveaboard. Il permesso del parco (PIN) è obbligatorio e si paga a Sorong o al porto di Waisai: l'importo per gli stranieri è cambiato nel 2026 e va verificato al momento. Sulle isole non ci sono bancomat.
+**Come arrivare e muoversi:** volo su Sorong da Giacarta, Makassar e Manado, o da Bali con il diretto Garuda nei mesi in cui è attivo (nel 2026-2027 da fine ottobre a marzo). Poi traghetto per Waisai, circa 2 ore, con una partenza nel primo pomeriggio e, non tutti i giorni, una al mattino. Tra le isole solo barche degli homestay, barche private o liveaboard. Il permesso del parco (PIN) è obbligatorio e si paga a Sorong o al porto di Waisai: l'importo per gli stranieri è cambiato nel 2026. Sulle isole non ci sono bancomat.
 
 **Quando andare:** ottobre-aprile, con mare più calmo, mante e grandi pelagici. Da maggio a settembre soffiano i venti da sud-est: i trasferimenti si allungano e le uscite nelle zone esposte possono saltare. Ci siamo stati ad agosto: il mare è stato clamoroso lo stesso, dieci giorni senza pioggia, ma il vento si è fatto sentire. E d'estate i grandi pelagici si vedono meno.
 
 **Quanti giorni:** una settimana come minimo. Con meno, si passa più tempo in viaggio che in acqua.
 
-**In pratica:** traghetto Sorong-Waisai circa 2 ore · permesso del parco da pagare a Sorong o a Waisai, importo 2026 da verificare · prelevare a Sorong tutti i contanti del soggiorno, sulle isole non ci sono bancomat · homestay da prenotare in anticipo, di solito a pensione completa, con i trasferimenti in barca pagati a parte.
+**In pratica:** traghetto Sorong-Waisai circa 2 ore · permesso del parco da pagare a Sorong o a Waisai · prelevare a Sorong tutti i contanti del soggiorno, sulle isole non ci sono bancomat · homestay da prenotare in anticipo, di solito a pensione completa, con i trasferimenti in barca pagati a parte.
 
 **Per approfondire:** [la scheda di Raja Ampat](/destinazioni/indonesia/raja-ampat), [il liveaboard a Raja Ampat](/esperienze/indonesia/diving-liveaboard-raja-ampat), [Bali, Sulawesi e Raja Ampat in 12 giorni](/viaggi/bali-sulawesi-raja-ampat).
 
@@ -224,6 +224,8 @@ Il consiglio è uno: scegli una o due isole in base al mese e dagli almeno una s
 
 ## Nota su questa bozza
 Testo di provenienza e fonti tolto dalla chiusura (10/11/2026): Da Rick vengono i ricordi di ogni isola, ripresi dalle schede destinazione del sito, il messaggio che ogni isola merita almeno una settimana e che le destinazioni sono intercambiabili, e i contatti consigliati. Il resto viene dalle schede del sito e dalla ricerca del 5 novembre 2026: Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo, Wikivoyage e operatori per Raja Ampat, i comunicati del parco del Rinjani riportati da ANTARA, CNN Indonesia, Detik e Metro TV per la chiusura e la riapertura del 2026 e per l'app E-Rinjani, le notizie sulla rotta stagionale Garuda Denpasar-Sorong, gov.uk per documenti, sicurezza, barche e vulcani, Wikipedia e Wikivoyage per Tanjung Puting e la strada per Toraja. Prezzi, orari, chiusure e tasse locali vanno ricontrollati prima di partire.
+
+Tolti dal testo gli importi «da verificare» di tassa surf e permesso di Raja Ampat. Per il PIN di Raja Ampat a novembre 2026 le fonti non ufficiali indicano 1.000.000 IDR per gli stranieri (prima 700.000): da confermare su kkprajaampat.com.
 
 ## Tag
 `#indonesia` `#guida` `#bali` `#nusapenida` `#lombok` `#gili` `#giava` `#sumatra` `#mentawai` `#komodo` `#flores` `#sulawesi` `#rajaampat` `#borneo` `#asia`

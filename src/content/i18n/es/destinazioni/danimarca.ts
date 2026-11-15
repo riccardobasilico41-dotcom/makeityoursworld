@@ -39,7 +39,7 @@ export const destinazioniDanimarca: Destinazione[] = [
     periodoMigliore:
       'mayo-septiembre por el clima y los días largos; junio-agosto es temporada alta, con Tivoli en horario de verano. Diciembre para los mercadillos navideños, con un ambiente muy distinto e igualmente bonito.',
     costi:
-      "Tivoli: entrada a los jardines desde unos 20€, entrada combinada jardines más atracciones ilimitadas hasta unos 66€. Paseo en barco por los canales: unos 15-20€ por persona por una hora. Comida económica 7-20€, comida en cafetería 17-27€, cena de gama media 40-75€ para dos. Presupuesto diario por persona, sin alojamiento: bajo 50-70 € (bici, Torvehallerne o supermercado, atracciones gratuitas), medio 100-140 € (barco por los canales, un museo, cena media), alto más de 200 €.",
+      "Tivoli: entrada a los jardines desde unos 20 €, entrada combinada jardines más atracciones ilimitadas hasta unos 66 €. Paseo en barco por los canales: unos 15-20 € por persona por una hora. Comida económica 7-20 €, comida en cafetería 17-27 €, cena de gama media 40-75 € para dos. Presupuesto diario por persona, sin alojamiento: bajo 50-70 € (bici, Torvehallerne o supermercado, atracciones gratuitas), medio 100-140 € (barco por los canales, un museo, cena media), alto más de 200 €.",
     erroriDaEvitare: [
       'Caminar o pararse en un carril bici sin mirar: tienen tanto tráfico como las calles y los ciclistas no reducen por los turistas distraídos',
       'Fotografiar en Christiania en las zonas señalizadas (la antigua Pusher Street en particular) o a los residentes sin permiso: las reglas están a la vista y se hacen respetar',

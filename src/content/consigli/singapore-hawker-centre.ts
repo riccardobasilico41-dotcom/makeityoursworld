@@ -19,7 +19,7 @@ export const consiglioHawkerSingapore: Consiglio = {
         'I migliori hawker centre di Singapore: Maxwell, Lau Pa Sat, Tiong Bahru, Amoy Street, Old Airport Road e i banchi Michelin, con piatti, prezzi, orari e regole.',
       lead:
         'A Singapore si mangia meglio negli hawker centre che in quasi tutti i ristoranti, e con quattro o sei dollari. Ecco i centri da non perdere, i banchi premiati dalla Michelin e come funziona.',
-      corpo: `Per un primo viaggio a Singapore i centri hawker da segnare sono **Maxwell Food Centre** e **Chinatown Complex** a Chinatown, **Lau Pa Sat** vicino alla baia, **Amoy Street** e **Hong Lim** per i banchi Michelin, **Tiong Bahru Market** per la colazione e **Old Airport Road** per chi vuole il centro dei residenti. Un piatto costa in genere tra 3,50 e 6 dollari di Singapore, cioè tra 2,50 e 4 euro. Nella guida Michelin 2026 l'unico banco hawker con una stella è **Hill Street Tai Hwa Pork Noodle**; decine di altri hanno il Bib Gourmand.
+      corpo: `Per un primo viaggio a Singapore i centri hawker da segnare sono **Maxwell Food Centre** e **Chinatown Complex** a Chinatown, **Lau Pa Sat** vicino alla baia, **Amoy Street** e **Hong Lim** per i banchi Michelin, **Tiong Bahru Market** per la colazione e **Old Airport Road** per chi vuole il centro dei residenti. Un piatto costa in genere tra 3,50 e 6 dollari di Singapore, cioè tra 2,50 e 4 €. Nella guida Michelin 2026 l'unico banco hawker con una stella è **Hill Street Tai Hwa Pork Noodle**; decine di altri hanno il Bib Gourmand.
 
 Gli hawker centre sono nati negli anni Settanta, quando il governo tolse i venditori ambulanti dalle strade e li riunì sotto tettoie con acqua corrente e licenze. Oggi sono mense pubbliche con tavoli condivisi, e dal 2020 sono patrimonio immateriale dell'UNESCO. Per orientarmi ho sempre usato lo stesso sistema: guardavamo quale banco aveva la coda e ci mettevamo in fila. La prima sera ho cominciato con il pollo di Hainan.
 
@@ -81,7 +81,7 @@ I quartieri dove si trovano quasi tutti questi centri sono nella pagina di [Chin
 ## Domande frequenti
 
 **Quanto costa mangiare in un hawker centre di Singapore?**
-Un piatto costa in genere tra 3,50 e 6 dollari di Singapore, tra 2,50 e 4 euro. Con un succo o un caffè si pranza con meno di 10 euro.
+Un piatto costa in genere tra 3,50 e 6 dollari di Singapore, tra 2,50 e 4 €. Con un succo o un caffè si pranza con meno di 10 €.
 
 **Qual è il miglior hawker centre di Singapore?**
 Per un primo viaggio Maxwell Food Centre, comodo e con il chicken rice di Tian Tian. Per la sera Lau Pa Sat con la Satay Street; per il centro dei residenti Old Airport Road.
@@ -185,7 +185,7 @@ It is a chope: the seat is taken by someone who is ordering. Find another table.
         'Los mejores hawker centres de Singapur: Maxwell, Lau Pa Sat, Tiong Bahru, Amoy Street, Old Airport Road y los puestos Michelin: platos, precios y normas.',
       lead:
         'En Singapur se come mejor en los hawker centres que en casi cualquier restaurante, y por cuatro o seis dólares. Estos son los centros imprescindibles, los puestos premiados por Michelin y cómo funcionan.',
-      corpo: `Para un primer viaje a Singapur, los hawker centres que hay que apuntar son **Maxwell Food Centre** y **Chinatown Complex** en Chinatown, **Lau Pa Sat** junto a la bahía, **Amoy Street** y **Hong Lim** por los puestos Michelin, **Tiong Bahru Market** para desayunar y **Old Airport Road** para comer donde comen los residentes. Un plato suele costar entre 3,50 y 6 dólares de Singapur, entre 2,50 y 4 euros. En la guía Michelin 2026 el único puesto hawker con estrella es **Hill Street Tai Hwa Pork Noodle**; decenas de otros tienen el Bib Gourmand.
+      corpo: `Para un primer viaje a Singapur, los hawker centres que hay que apuntar son **Maxwell Food Centre** y **Chinatown Complex** en Chinatown, **Lau Pa Sat** junto a la bahía, **Amoy Street** y **Hong Lim** por los puestos Michelin, **Tiong Bahru Market** para desayunar y **Old Airport Road** para comer donde comen los residentes. Un plato suele costar entre 3,50 y 6 dólares de Singapur, entre 2,50 y 4 €. En la guía Michelin 2026 el único puesto hawker con estrella es **Hill Street Tai Hwa Pork Noodle**; decenas de otros tienen el Bib Gourmand.
 
 Los hawker centres nacieron en los años setenta, cuando el gobierno sacó a los vendedores ambulantes de la calle y los reunió bajo techados con agua corriente y licencia. Hoy son comedores públicos con mesas compartidas y, desde 2020, patrimonio inmaterial de la UNESCO. Para orientarme siempre usé el mismo sistema: mirábamos qué puesto tenía cola y nos poníamos en fila. La primera noche empecé con el pollo de Hainan.
 
@@ -247,7 +247,7 @@ Los barrios donde están casi todos estos centros aparecen en la página de [Chi
 ## Preguntas frecuentes
 
 **¿Cuánto cuesta comer en un hawker centre de Singapur?**
-Un plato cuesta normalmente entre 3,50 y 6 dólares de Singapur, entre 2,50 y 4 euros. Con un zumo o un café se come por menos de 10 euros.
+Un plato cuesta normalmente entre 3,50 y 6 dólares de Singapur, entre 2,50 y 4 €. Con un zumo o un café se come por menos de 10 €.
 
 **¿Cuál es el mejor hawker centre de Singapur?**
 Para un primer viaje, Maxwell Food Centre, céntrico y con el chicken rice de Tian Tian. Por la noche, Lau Pa Sat con la Satay Street; para comer entre residentes, Old Airport Road.

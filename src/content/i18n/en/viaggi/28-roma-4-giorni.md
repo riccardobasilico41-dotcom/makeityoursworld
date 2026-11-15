@@ -77,7 +77,7 @@ Afterward we walked to **Villa Borghese** and the **Pincio at sunset**, with the
 
 Evening in the **Ghetto**, with **carciofi alla giudia** if it's the right season.
 
-**In practice:** Pantheon ticket about 5 euros, best booked at weekends · Borghese Gallery closed on Mondays, mandatory booking on the official website and two-hour slots · San Luigi dei Francesi and Sant'Agostino are free but close in the middle of the day: check the hours · carciofi alla giudia are in season roughly from February to April.
+**In practice:** Pantheon ticket about €5, best booked at weekends · Borghese Gallery closed on Mondays, mandatory booking on the official website and two-hour slots · San Luigi dei Francesi and Sant'Agostino are free but close in the middle of the day: check the hours · carciofi alla giudia are in season roughly from February to April.
 
 ### Day 4 — The Rome that doesn't end up on postcards
 This is the day that separates those who have seen Rome from those who have seen its monuments, and it should be chosen according to taste. There are three options, all full.

@@ -11,13 +11,13 @@ export const danimarca: Paese = {
     'mayo-septiembre por los días largos y el clima más templado; junio-agosto es temporada alta (más calor, más turistas, Tivoli con horario de verano). En abril y en octubre se está bien y hay menos gente. El invierno es frío y oscurece pronto, pero a finales de noviembre Tivoli reabre para los mercadillos navideños.',
   durataConsigliata: '3 días para Copenhague sola; es también la primera parada de un recorrido de 9 días con Estocolmo y Oslo (ver el itinerario "Capitales nórdicas")',
   budgetIndicativo:
-    'entre las ciudades más caras de Europa: una cerveza en el bar 7-11€, una comida sencilla 12-20€, una cena en un restaurante de gama media 30-45€ por persona. Museos y atracciones principales (Tivoli, barco por los canales) añaden fácilmente 20-40€ al día por persona.',
+    'entre las ciudades más caras de Europa: una cerveza en el bar 7-11 €, una comida sencilla 12-20 €, una cena en un restaurante de gama media 30-45 € por persona. Museos y atracciones principales (Tivoli, barco por los canales) añaden fácilmente 20-40 € al día por persona.',
   stileViaggio: ['città', 'design', 'gastronomia', 'bici'],
   scheda: {
     documenti:
       'Dinamarca está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el carné de identidad válido para salir del país (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses. Groenlandia y las Islas Feroe son territorios daneses pero quedan fuera de Schengen y de la unión aduanera europea: para Copenhague no cambia nada, pero conviene saberlo si se piensa en una ampliación.',
     valuta:
-      'Corona danesa (DKK): Dinamarca tiene una exclusión histórica de la eurozona (referéndum del 2000) y no pretende adoptar el euro. La corona, sin embargo, está vinculada al euro con el acuerdo ERM II, con una banda de oscilación muy estrecha (orientativamente 1€ = 7,46 DKK, con variaciones mínimas). Es la moneda más estable de las tres capitales de este recorrido, pero sigue siendo una moneda distinta: las tarjetas extranjeras pagan a menudo una pequeña comisión de cambio.',
+      'Corona danesa (DKK): Dinamarca tiene una exclusión histórica de la eurozona (referéndum del 2000) y no pretende adoptar el euro. La corona, sin embargo, está vinculada al euro con el acuerdo ERM II, con una banda de oscilación muy estrecha (orientativamente 1 € = 7,46 DKK, con variaciones mínimas). Es la moneda más estable de las tres capitales de este recorrido, pero sigue siendo una moneda distinta: las tarjetas extranjeras pagan a menudo una pequeña comisión de cambio.',
     pagamenti:
       'Uno de los países del mundo donde menos efectivo se usa: tarjetas y contactless funcionan en todas partes, muchos locales no aceptan directamente efectivo y algunos aplican un pequeño recargo a las tarjetas extranjeras. No hace falta cambiar antes de salir; unas cuantas coronas en efectivo solo sirven en casos raros (algunos mercadillos, propinas).',
     connettivita: 'Roaming UE incluido en las tarifas italianas. Cobertura 4G/5G excelente en toda Copenhague, sin zonas sin cobertura que señalar.',
@@ -27,7 +27,7 @@ export const danimarca: Paese = {
     trasportiInterni:
       'Una red tupida de metro (sin conductor, activo 24 horas los fines de semana), S-tog (trenes de cercanías) y autobuses, con billete integrado por zonas o Rejsekort recargable. El casco antiguo se recorre bien también a pie o, como hace la gente del lugar, en bici de alquiler. La Copenhagen Card incluye transportes y entradas a muchas atracciones, pero solo conviene con un programa muy cargado de museos.',
     costoVita:
-      'Entre las capitales más caras de Europa: una cerveza en el bar 7-11€ (en el supermercado mucho menos, 2-3€), un capuchino 4,50-7€, una comida económica (hot dog, panadería, mercado) 7-20€, una comida en una cafetería 17-27€, una cena en un restaurante de gama media 40-75€ para dos personas. Más que las entradas individuales pesa la suma de comidas y transportes, día tras día.',
+      'Entre las capitales más caras de Europa: una cerveza en el bar 7-11 € (en el supermercado mucho menos, 2-3 €), un capuchino 4,50-7 €, una comida económica (hot dog, panadería, mercado) 7-20 €, una comida en una cafetería 17-27 €, una cena en un restaurante de gama media 40-75 € para dos personas. Más que las entradas individuales pesa la suma de comidas y transportes, día tras día.',
     lingua: 'Danés. Casi todos hablan bien inglés, sobre todo en Copenhague: hacerse entender nunca es un problema.',
     elettricita: '230V, 50Hz, enchufes de tipo C y K: los enchufes italianos de tipo C (dos polos, sin tierra) entran sin adaptador; los de tipo F o con tierra de tres polos pueden requerir uno.',
     fusoOrario: 'UTC+1 (CET), la misma hora que Italia todo el año, horario de verano incluido: ninguna diferencia horaria.',

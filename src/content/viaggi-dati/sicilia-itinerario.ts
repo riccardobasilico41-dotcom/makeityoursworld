@@ -137,7 +137,7 @@ export const siciliaItinerarioMeta: TripMeta = {
       pernottamento: 'Catania',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'accesso alla Scala dei Turchi regolamentato e a tratti interdetto: da verificare',
+      costiNoti: 'accesso alla Scala dei Turchi contingentato e a tratti interdetto',
       destinazioneSlug: 'sicilia',
       immagine: '/images/viaggi/sicilia-itinerario/giorno-9-scala-turchi.jpg',
       imageAlt: 'La scogliera bianca a gradoni della Scala dei Turchi vista dalla spiaggia',

@@ -61,7 +61,7 @@ Madrugón para la **Cruz del Cóndor**, a una hora de carretera desde Chivay: lo
 
 En la vuelta los tours suelen parar en los pueblos de **Maca** y **Yanque**, con sus iglesias coloniales de piedra, y en algún mirador sobre las terrazas. Regreso a Arequipa por la tarde. Si queda tiempo, el **Museo Santuarios Andinos** con la momia Juanita, hallada en el volcán Ampato en 1995: una niña inca sacrificada en la cumbre y conservada durante siglos por el hielo. La visita se hace solo con guía del museo y explica bien los rituales de alta montaña de los incas. La noche es la ocasión para la picantería que se quedó pendiente el primer día.
 
-**En la práctica:** cóndores más activos entre las 8 y las 10, sin garantía · Chivay-Arequipa unas 3-4 horas · Museo Santuarios Andinos unos 20-30 soles con guía obligatorio, horarios por comprobar antes, sobre todo el domingo.
+**En la práctica:** cóndores más activos entre las 8 y las 10, sin garantía · Chivay-Arequipa unas 3-4 horas · Museo Santuarios Andinos unos 20-30 soles con guía obligatorio, conviene mirar los horarios antes, sobre todo el domingo.
 
 ### Día 6 — De Arequipa a Puno, en el Titicaca
 Unas 6 horas de bus hasta **Puno**, en el lago Titicaca, a 3.812 metros. Se sale por la mañana con una de las compañías principales: la carretera cruza el altiplano, entre lagunas de altura y rebaños de alpacas, y sube por encima de los 4.000 metros antes de bajar hacia el lago. Es la mayor altura a la que se duerme en todo el recorrido. *Conviene llevar a mano agua, algo de comer y una capa de abrigo, porque en el bus la temperatura cambia mucho con la altura.*
@@ -113,7 +113,7 @@ Por la tarde el tren a **Aguas Calientes** (PeruRail o IncaRail): desde aquí la
 **En la práctica:** tren Ollantaytambo-Aguas Calientes alrededor de 1 hora y 30, reservar con semanas de antelación en temporada alta · en el tren equipaje limitado a una mochila pequeña, el resto se deja en el hotel · billetes del bus a Machu Picchu para comprar la noche anterior en el pueblo.
 
 ### Día 13 — Machu Picchu a la apertura
-En la cola del primer **bus lanzadera** (25 minutos, unos 24$ ida y vuelta), o a pie en una hora y media o dos, por una escalinata empinada en el bosque. *En 2025 el servicio de buses cambió de operador: precio y punto de venta hay que comprobarlos allí.* El consejo que vale más que cualquier otro: entrar en el primer turno. La luz es más bonita, y sobre todo hay cuarenta minutos en que el sitio está casi en silencio, antes de que lleguen los grupos.
+En la cola del primer **bus lanzadera** (25 minutos, unos 24 $ ida y vuelta), o a pie en una hora y media o dos, por una escalinata empinada en el bosque. *En 2025 el servicio de buses cambió de operador: precio y punto de venta hay que comprobarlos allí.* El consejo que vale más que cualquier otro: entrar en el primer turno. La luz es más bonita, y sobre todo hay cuarenta minutos en que el sitio está casi en silencio, antes de que lleguen los grupos.
 
 La ciudadela se visita por el circuito asignado con la entrada, en un solo sentido, así que conviene parar para las fotos en los puntos altos al principio, porque no se puede volver atrás. Yo hice también el **Huayna Picchu** y es precioso, pero hay que reservarlo con meses de antelación, y quien sufre de vértigo debe pensarlo bien. Dentro no se entra con trípodes, drones ni bolsos grandes. Por la tarde tren hacia Ollantaytambo y desde allí traslado a Cusco para la noche, alrededor de una hora y media o dos de carretera.
 

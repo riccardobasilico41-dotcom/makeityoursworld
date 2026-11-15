@@ -24,7 +24,7 @@ export const newYork360Meta: TripMeta = {
     'Prenotare Top of the Rock, i musical di Broadway e le partite sportive con largo anticipo, soprattutto in alta stagione',
     'Camere piccole, anche per gli standard newyorkesi, in quasi tutti gli hotel del centro',
   ],
-  budgetTotale: 'circa 200-280€ per fare praticamente tutto, esclusi volo e hotel',
+  budgetTotale: 'circa 200-280 € per fare praticamente tutto, esclusi volo e hotel',
   viaggioInBreve: {
     percheHoScelto: undefined,
     conChiSonoPartito: 'organizzazione flessibile, spese gestite di volta in volta',
@@ -57,7 +57,7 @@ export const newYork360Meta: TripMeta = {
       pernottamento: 'Paramount Hotel, 235 W 46th St',
       statoPernottamento: 'provato',
       intensita: 'intenso',
-      costiNoti: 'Walking tour di Harlem 275$ + mancia',
+      costiNoti: 'Walking tour di Harlem 275 $ + mancia',
       destinazioneSlug: 'harlem-central-park',
       immagine: '/images/viaggi/new-york-360/giorno-2-empire-state.jpg',
       imageAlt: "L'Empire State Building illuminato di verde al tramonto, visto dal Rockefeller Center con lo skyline di Manhattan",
@@ -106,7 +106,7 @@ export const newYork360Meta: TripMeta = {
   budget: [
     { etichetta: 'Volo', valore: undefined },
     { etichetta: 'Hotel', valore: undefined },
-    { etichetta: 'Attività ed extra sul posto', valore: '200-280€' },
+    { etichetta: 'Attività ed extra sul posto', valore: '200-280 €' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

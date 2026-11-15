@@ -80,7 +80,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Museo de la Aldea",
-        testo: "Un museo al aire libre abierto en 1936, con muchos edificios campesinos de los siglos XVII al XX traídos de todas las regiones de Rumanía. Se entiende bien la arquitectura rural.",
+        testo: "Un museo al aire libre inaugurado en 1936, con muchos edificios campesinos de los siglos XVII al XX traídos de todas las regiones de Rumanía. Se entiende bien la arquitectura rural.",
         come: "En el parque Rey Miguel I (antes Herăstrău), al norte del centro, en metro o bus.",
         quando: "Mañana; el parque es agradable.",
         tempo: "1,5-2 horas",

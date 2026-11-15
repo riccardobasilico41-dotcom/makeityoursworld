@@ -24,7 +24,7 @@ It's a trip for people who have already traveled outside Europe and can accept a
 
 ### Documents, visa and permits
 - **Documents:** passport with at least 6 months of remaining validity on arrival. For tourism, the electronic ID card valid for travel abroad with more than 6 months remaining and two passport photos is also accepted, but not one extended with the paper slip; for this itinerary, with checkpoints, Siwa and a cruise, the passport is much more practical.
-- **Visa:** $30 on arrival in Cairo (increased as of March 1, 2026; Viaggiare Sicuri still reports $25) or e-visa on the official portal visa2egypt.gov.eg (roughly $25-30 single, $60-65 multiple). The free Sinai stamp isn't valid for this trip.
+- **Visa:** $30 on arrival in Cairo (increased as of March 1, 2026) or e-visa on the official portal visa2egypt.gov.eg (roughly $25-30 single, $60-65 multiple). The free Sinai stamp isn't valid for this trip.
 - **Siwa and the Western Desert:** the oasis can be reached freely with documents in order, but along the road there are several military checkpoints that register passports. To go out into the **Great Sand Sea** and the areas toward the Libyan border you need a permit, obtained through an authorized local operator, usually within 24 hours: you hand over the passport the evening before. Viaggiare Sicuri asks to avoid the areas near the border with Libya, strongly advises against desert excursions outside the tourist areas (in many there's no GPS coverage either) and recommends not traveling by road at night: in Siwa you move around only with authorized operators, and by day.
 - **Diving:** certification and logbook, specific diving insurance (DAN type). See the dedicated section.
 
@@ -131,7 +131,7 @@ In the afternoon we went to the **Egyptian Museum in Tahrir Square**, which even
 ### Day 5 — From Cairo to Marsa Matruh via Alexandria
 We did the first leg towards Siwa by car with a driver. **Alexandria**, three hours from Cairo, deserves a half-day stop: the new **Bibliotheca Alexandrina**, the catacombs of **Kom el-Shoqafa** and the **Qaitbay** citadel on the site of the Lighthouse. Lunch is on the Corniche, in the fish restaurants, where you choose the fish at the counter and have it cooked. Leave Cairo at dawn, to have Alexandria in the morning and set off again right after lunch.
 
-Then the coast road passes **El Alamein**, with its war memorials and battle museum, and we reached **Marsa Matruh** in the evening. It's a long day, around eight hours of driving with stops. The direct overnight bus to Siwa would save a day, but it travels in the dark, which the Italian foreign ministry's travel advice (Viaggiare Sicuri) discourages: better to split the journey and drive only by day. *There are checkpoints along the coast: keep your passport at hand, not in the suitcase.*
+Then the coast road passes **El Alamein**, with its war memorials and battle museum, and we reached **Marsa Matruh** in the evening. It's a long day, around eight hours of driving with stops. The direct overnight bus to Siwa would save a day, but it travels in the dark, which is advised against: better to split the journey and drive only by day. *There are checkpoints along the coast: keep your passport at hand, not in the suitcase.*
 
 **In practice**
 - Car with driver Cairo-Siwa and back: roughly $250-400 in total

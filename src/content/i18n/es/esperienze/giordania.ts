@@ -55,7 +55,7 @@ export const esperienzeGiordania: Esperienza[] = [
     percheFarla: 'El Monasterio es todavía más macizo que el Tesoro (45 metros de altura por 50 de ancho), y hay que verlo para entender cuánto se extiende Petra más allá del Siq.',
     durata: '40-45 minutos de subida, más el tiempo en la cima',
     periodo: 'mañana, para evitar el peor calor en la subida',
-    costo: 'incluido en la entrada a Petra (Jordan Pass)',
+    costo: 'incluido en la entrada a Petra',
     comePrenotare: 'no hace falta reservar, se accede a pie desde el yacimiento',
     cosaPortare: 'botas de trekking, agua, sombrero',
     perChiEAdatta: 'quien tenga un mínimo de entrenamiento: la subida es empinada y larga',

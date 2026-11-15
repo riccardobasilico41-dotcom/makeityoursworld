@@ -9,10 +9,10 @@ export const sriLanka: Paese = {
     'Dodici giorni in van privato: il triangolo culturale buddhista, la scalata notturna dell\'Adam\'s Peak, le piantagioni di tè di Nuwara Eliya, il treno panoramico fino a Ella e le spiagge del sud. In poco più di una settimana e mezza abbiamo attraversato paesaggi molto diversi tra loro.',
   periodoMigliore: 'novembre: alta stagione per l\'Adam\'s Peak e i safari nel nord-centro, ma già bassa stagione per le piogge sulla costa ovest e sud',
   durataConsigliata: '12 giorni, 11 notti',
-  budgetIndicativo: 'circa 250€ a testa di cassa comune alla partenza, più altri 200€ a testa durante il viaggio per cibo, bevande e attività extra',
+  budgetIndicativo: 'circa 250 € a testa di cassa comune alla partenza, più altri 200 € a testa durante il viaggio per cibo, bevande e attività extra',
   scheda: {
     documenti:
-      'Passaporto con almeno 6 mesi di validità. L\'ETA (autorizzazione elettronica) è ancora obbligatoria e si chiede su eta.gov.lk, ma dal 25 maggio 2026 è gratuita per chi ha il passaporto italiano; prima costava circa 70€ a persona. Vale 30 giorni. La vaccinazione contro la febbre gialla è obbligatoria solo per chi arriva da un paese a rischio.',
+      'Passaporto con almeno 6 mesi di validità. L\'ETA (autorizzazione elettronica) è ancora obbligatoria e si chiede su eta.gov.lk, ma dal 25 maggio 2026 è gratuita per chi ha il passaporto italiano; prima costava circa 70 € a persona. Vale 30 giorni. La vaccinazione contro la febbre gialla è obbligatoria solo per chi arriva da un paese a rischio.',
     valuta: 'Rupia srilankese (LKR). Conviene cambiare o prelevare sul posto e tenere sempre contanti per i piccoli operatori.',
     pagamenti:
       'Le carte funzionano negli hotel e nei ristoranti turistici, ma molti locali, guide, jeep dei safari e piccoli operatori prendono solo contanti in rupie. Vanno messe in conto anche le mance, che a guide e autisti si lasciano quasi sempre.',
@@ -24,7 +24,7 @@ export const sriLanka: Paese = {
       'Il rischio principale è la strada. Si guida in modo caotico e con poco rispetto delle regole, e quando c\'è un incidente di solito ha torto lo straniero. Per questo guidare da soli è molto sconsigliato: van con autista o tuk tuk restano la scelta sensata. Per il resto, negli itinerari turistici si sta tranquilli con le normali accortezze sugli effetti personali.',
     trasportiInterni:
       'Chi vuole girare l\'isola in pochi giorni di solito prende un van privato con autista. I treni panoramici, soprattutto la tratta Nanu Oya-Ella, vanno prenotati con molto anticipo: i posti a sedere finiscono subito e in alta stagione c\'è un vero mercato nero. I ritardi sono la norma, e la tratta da 3 ore sulla carta può durare molto di più, senza niente da mangiare a bordo.',
-    costoVita: 'Economico: in media 250€ a testa di budget iniziale più altri 200€ durante il viaggio coprono cibo, bevande, souvenir e attività extra.',
+    costoVita: 'Economico: in media 250 € a testa di budget iniziale più altri 200 € durante il viaggio coprono cibo, bevande, souvenir e attività extra.',
     lingua: 'Le lingue ufficiali sono singalese e tamil. L\'inglese, eredità coloniale, è molto diffuso e nel circuito turistico si parla senza difficoltà.',
     elettricita:
       '230V, 50Hz, ma le prese sono di tipo D e M, a tre poli tondi (standard BS546): né italiane né le classiche inglesi. È uno degli adattatori che ci si dimentica più spesso.',

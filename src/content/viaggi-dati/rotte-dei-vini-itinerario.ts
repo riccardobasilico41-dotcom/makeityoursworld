@@ -63,7 +63,7 @@ export const rotteDeiViniMeta: TripMeta = {
       pernottamento: 'Agriturismo nelle Langhe',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'degustazioni 15-40€ a persona, spesso scalate sull\'acquisto',
+      costiNoti: 'degustazioni 15-40 € a persona, spesso scalate sull\'acquisto',
       destinazioneSlug: 'rotte-dei-vini',
       immagine: '/images/viaggi/rotte-dei-vini-itinerario/giorno-02-barolo.jpg',
       imageAlt: 'Filari di vigneti di Nebbiolo sopra il paese di Barolo, con il castello e i tetti visibili a valle',
@@ -148,7 +148,7 @@ export const rotteDeiViniMeta: TripMeta = {
     },
   ],
   budget: [
-    { etichetta: 'Degustazioni in cantina', valore: '15-40€ a persona secondo i vini, spesso scalate sull\'acquisto' },
+    { etichetta: 'Degustazioni in cantina', valore: '15-40 € a persona secondo i vini, spesso scalate sull\'acquisto' },
     { etichetta: 'Auto a noleggio', valore: 'indispensabile per tutti i dieci giorni' },
     { etichetta: 'Autista o servizio navetta', valore: 'la spesa che risolve il problema di chi guida, dove non si vuole sputare' },
     { etichetta: 'Alloggi', valore: 'alti in Langhe e in Toscana in stagione; una frazione in Irpinia, Vulture e Valtellina' },

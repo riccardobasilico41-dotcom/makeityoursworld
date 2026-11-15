@@ -31,7 +31,7 @@ Ci siamo spostati a Bayeux, la base per le spiagge, ma prima di vederle siamo pa
 
 Si arriva all'apertura, si pranza nel museo e il pomeriggio si prosegue verso **Bayeux**, a una mezz'ora di strada, dove si lasciano i bagagli per tre notti. La sera si passeggia nel centro, intorno alla cattedrale e lungo il fiume Aure, con i vecchi mulini ad acqua. Bayeux fu una delle prime città liberate nel giugno 1944 e uscì quasi intatta dalla guerra: il centro è ancora quello medievale.
 
-**In pratica:** Mémorial de Caen circa 21 euro, aperto dalle 9 alle 19 da aprile a settembre, con orari più brevi d'inverno e una chiusura annuale di qualche settimana a gennaio · conviene prenotare il biglietto online in alta stagione · per dormire Bayeux, a meno di mezz'ora da tutte le spiagge.
+**In pratica:** Mémorial de Caen circa 21 €, aperto dalle 9 alle 19 da aprile a settembre, con orari più brevi d'inverno e una chiusura annuale di qualche settimana a gennaio · conviene prenotare il biglietto online in alta stagione · per dormire Bayeux, a meno di mezz'ora da tutte le spiagge.
 
 ### Giorno 3 — Le spiagge dello sbarco (parte 2)
 Abbiamo passato una giornata intera sui settori dello sbarco: **Omaha Beach**, il cimitero americano di Colleville, la **Pointe du Hoc** e il porto artificiale di Arromanches. Omaha è una spiaggia normalissima, ed è proprio questo che la rende difficile da reggere. La sequenza più logica va da ovest a est. Si parte la mattina dalla **Pointe du Hoc**, la falesia che i ranger americani scalarono con corde e scale, con il terreno ancora segnato dai crateri delle bombe.
@@ -59,7 +59,7 @@ Il Mont è la cerniera tra le due regioni, e va vissuto dormendo nella baia, non
 
 Il sistema di accesso è semplice una volta capito: si lascia l'auto nei parcheggi sulla terraferma e si va al Mont a piedi, con una camminata di circa due chilometri e mezzo che finisce sulla passerella, oppure con la navetta gratuita **Le Passeur**, che impiega una dozzina di minuti. Il villaggio e i bastioni sono liberi; si paga l'**abbazia**, in cima, con il chiostro sospeso e la sala dei Cavalieri. Con le **grandi maree** il Mont torna a essere un'isola per qualche ora, e lo spettacolo si guarda dai bastioni. La traversata a piedi della baia si fa solo con una guida autorizzata, per le sabbie mobili e la velocità con cui sale l'acqua.
 
-**In pratica:** la navetta parte dai parcheggi dalle 7.30 a mezzanotte · parcheggio a pagamento a giornata, più caro in alta stagione · l'abbazia ha un biglietto sui 13-16 euro secondo la stagione: conviene prenotarlo online e controllare gli orari serali estivi.
+**In pratica:** la navetta parte dai parcheggi dalle 7.30 a mezzanotte · parcheggio a pagamento a giornata, più caro in alta stagione · l'abbazia ha un biglietto sui 13-16 € secondo la stagione: conviene prenotarlo online e controllare gli orari serali estivi.
 
 ### Giorno 7 — Mont-Saint-Michel all'alba, poi Saint-Malo
 Siamo tornati a guardarlo all'alba, poi siamo entrati in Bretagna e il viaggio ha rallentato. A **Saint-Malo** abbiamo fatto il giro dei bastioni con la marea, e a Cancale, lì vicino, ci sono le ostriche. All'alba il punto migliore è la diga sul Couesnon, all'inizio della passerella, con il Mont controluce e la baia ancora vuota. Poi un'ora d'auto fino a **Saint-Malo**, la città corsara chiusa nelle mura.

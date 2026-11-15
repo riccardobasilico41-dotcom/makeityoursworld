@@ -55,7 +55,7 @@ export const meraviglie: Meraviglia[] = [
       },
       {
         nome: 'Jinshanling',
-        perche: 'parzialmente restaurata, ottima per chi vuole camminare a lungo lungo torri di guardia più autentiche e panorami meno battuti.',
+        perche: 'parzialmente restaurata, ottima per chi vuole camminare a lungo tra torri di guardia più autentiche e panorami meno battuti.',
       },
       {
         nome: 'Simatai',
@@ -268,7 +268,7 @@ export const meraviglie: Meraviglia[] = [
     miaEsperienza:
       'L\'ho fatta due volte, una col sole e una con pioggia e nuvole. Col sole è più bella, perché vedi meglio tutto; con la pioggia e la nebbiolina era tutto più mistico e misterioso, super affascinante. È uno di quei posti di cui si sono viste talmente tante foto da temere la delusione, e invece regge — ma regge nella prima ora, quando la nebbia si alza a strappi e il sito compare a pezzi. Dopo, con i gruppi in fila lungo il circuito assegnato, diventa un\'altra cosa: bellissima, ma gestita. Conviene sapere prima che non si gira liberamente: dal 2024 il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no, e la fotografia classica dall\'alto non è compresa in tutti. L\'altra cosa da mettere in conto è che i biglietti per i periodi buoni si esauriscono con mesi di anticipo, Huayna Picchu per primo. Dormire ad Aguas Calientes ed entrare al primo turno non serve per la luce: serve per quei quaranta minuti in cui il posto è ancora silenzioso.',
     fonti: [
-      { url: 'https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/', titolo: 'Machu Picchu (Ministerio de Cultura), circuiti e rotte' },
+      { url: 'https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/', titolo: 'Machu Picchu, circuiti e rotte' },
       { url: 'https://www.machupicchu.gob.pe/normas-de-conducta/', titolo: 'Machu Picchu, norme di comportamento' },
       { url: 'https://busquedas.elperuano.pe/dispositivo/EX/2553933-1', titolo: 'El Peruano, Resolución Ministerial 000334-2026-MC' },
     ],
@@ -293,7 +293,7 @@ export const meraviglie: Meraviglia[] = [
     comeArrivareInternazionale: 'Aeroporto di Cancún (CUN), il più comodo; in alternativa Mérida (MID), più vicino geograficamente al sito.',
     comeArrivareLocale: 'In bus (ADO tra gli operatori) da Cancún, Mérida o Valladolid, la più vicina; in auto a noleggio; oppure con un tour organizzato di giornata da Cancún o dalla Riviera Maya, che comporta molte ore di trasferimento.',
     comeSpostarsi: 'Il sito si visita interamente a piedi, su un\'area pianeggiante e priva quasi ovunque di ombra.',
-    prenotazione: 'Sul sito dell\'INAH non è indicata una prenotazione: il biglietto si paga alla biglietteria del sito. Orari (INAH): tutti i giorni dalle 8:00 alle 17:00, ultimo ingresso alle 16:00. Arrivare all\'apertura è la vera chiave per evitare il caldo peggiore e l\'arrivo in massa dei pullman turistici a metà giornata.',
+    prenotazione: 'Sul sito dell\'INAH non è indicata una prenotazione: il biglietto si paga alla biglietteria del sito. Orari: tutti i giorni dalle 8:00 alle 17:00, ultimo ingresso alle 16:00. Arrivare all\'apertura è la vera chiave per evitare il caldo peggiore e l\'arrivo in massa dei pullman turistici a metà giornata.',
     prezzi: 'Stranieri: 697 pesos messicani in totale, cioè 105 pesos di tariffa federale INAH più 592 pesos di tariffa del Governo dello Yucatán, che si paga anch\'essa alla biglietteria del sito (per i visitatori messicani la quota statale è di 205 pesos). Lo spettacolo serale Noches de Kukulcán è organizzato dal Governo dello Yucatán, con biglietto e informazioni a parte.',
     tourOAutonomo: 'Facilmente visitabile in autonomia in bus o auto a noleggio. Le guide si trovano all\'ingresso: tariffa da concordare prima di partire. Aggiungono molto contesto sulla cosmologia Maya e sul gioco della pelota.',
     scamDaEvitare: [
@@ -360,7 +360,7 @@ export const meraviglie: Meraviglia[] = [
     comeSpostarsi: 'Il sito e l\'area archeologica circostante (Foro Romano, Palatino) si visitano interamente a piedi, su terreno spesso irregolare (pavimentazione antica, gradini).',
     prenotazione: 'Il canale ufficiale è ticketing.colosseo.it, la biglietteria online del Parco archeologico del Colosseo: le vendite aprono 30 giorni prima della visita e l\'ingresso al Colosseo è sempre a orario fisso. I biglietti sono nominativi: all\'ingresso va tenuto a vista un documento d\'identità insieme al biglietto, che basta mostrare sullo smartphone. C\'è anche la biglietteria sul posto, ma in alta stagione conviene prenotare online. Con il biglietto base si resta nel Colosseo al massimo 75 minuti, con la Full Experience Underground and Arena 90.',
     prezzi:
-      'Biglietto Colosseo, Foro Romano e Palatino (24 ore): 18 euro intero; comprende primo e secondo livello del Colosseo, Foro Romano e Palatino, non l\'arena né i sotterranei. Full Experience Underground and Arena: 24 euro (32 con visita didattica), valido 2 giorni consecutivi; comprende arena e sotterranei (quando accessibili), Foro, Palatino e i siti SUPER. Ridotto a 2 euro per i cittadini UE dai 18 anni al compimento dei 25. Ingresso gratuito la prima domenica del mese, senza prenotazione (dettagli sotto).',
+      'Biglietto Colosseo, Foro Romano e Palatino (24 ore): 18 € intero; comprende primo e secondo livello del Colosseo, Foro Romano e Palatino, non l\'arena né i sotterranei. Full Experience Underground and Arena: 24 € (32 con visita didattica), valido 2 giorni consecutivi; comprende arena e sotterranei (quando accessibili), Foro, Palatino e i siti SUPER. Ridotto a 2 € per i cittadini UE dai 18 anni al compimento dei 25. Ingresso gratuito la prima domenica del mese, senza prenotazione (dettagli sotto).',
     tourOAutonomo:
       'Visitabile bene in autonomia. Il biglietto Full Experience con arena e sotterranei, o una visita guidata, aggiunge una prospettiva che da soli non si può vedere: i sotterranei dove venivano preparati gladiatori e animali.',
     scamDaEvitare: [

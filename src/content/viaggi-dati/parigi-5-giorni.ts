@@ -107,7 +107,7 @@ export const parigi5GiorniMeta: TripMeta = {
   budget: [
     { etichetta: 'Louvre e Orsay', valore: 'biglietti singoli contenuti; il Paris Museum Pass conviene da tre musei al giorno' },
     { etichetta: 'Versailles', valore: 'biglietto medio più il trasporto in treno regionale' },
-    { etichetta: 'Metropolitana', valore: 'tariffa unica semplificata dal 2025, da verificare importi' },
+    { etichetta: 'Metropolitana', valore: 'tariffa unica dal 2025: biglietto Métro-Train-RER 2,55 € (2026)' },
     { etichetta: 'Alloggio', valore: 'la voce più alta: Marais e Canal Saint-Martin il miglior compromesso' },
     { etichetta: 'Pasti', valore: 'il menù di mezzogiorno vale la metà della sera' },
   ],

@@ -20,7 +20,7 @@ export const borneo: Paese = {
   durataConsigliata:
     '10-12 giorni per fare bene il Sabah (Kinabalu, Sepilok, Kinabatangan, Semporna); 14-16 per aggiungere la Danum Valley o il Sarawak. Con meno di una settimana si passa più tempo negli aeroporti che nella foresta.',
   budgetIndicativo:
-    'la parte più cara di qualsiasi viaggio in Malesia. I lodge nella foresta si pagano a pacchetto con i pasti compresi (da 100€ a notte in su, molto di più alla Danum Valley), i permessi per il Kinabalu e per Sipadan sono a numero chiuso e cari, e i trasferimenti interni sono lunghi. Però è l\'unico modo di vedere queste cose.',
+    'la parte più cara di qualsiasi viaggio in Malesia. I lodge nella foresta si pagano a pacchetto con i pasti compresi (da 100 € a notte in su, molto di più alla Danum Valley), i permessi per il Kinabalu e per Sipadan sono a numero chiuso e cari, e i trasferimenti interni sono lunghi. Però è l\'unico modo di vedere queste cose.',
   stileViaggio: ['natura', 'fauna selvatica', 'diving', 'trekking'],
   scheda: {
     documenti:

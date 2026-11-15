@@ -12,8 +12,8 @@ export const giordania: Paese = {
   budgetIndicativo: 'actividades y extras organizados a través de un DMC local; el alcohol conviene comprarlo antes de llegar a las zonas conservadoras o al desierto',
   scheda: {
     documenti:
-      "Pasaporte con al menos 6 meses de validez. El visado se puede obtener a la llegada en el aeropuerto, pero para casi todo el mundo la opción sensata es el Jordan Pass, que se compra online antes de salir: cuesta entre 70 y 80 JOD (90-100€ aprox.) según la fórmula e incluye el visado de entrada y el acceso a más de cuarenta lugares, entre ellos Petra, Jerash y Wadi Rum. Compensa siempre que se permanezca en el país al menos 2 noches consecutivas.",
-    valuta: "Dinar jordano (JOD), vinculado al dólar: 1 JOD vale orientativamente 1,20-1,30€. Es una de las monedas más fuertes de la región, y las cifras engañan: parecen pequeñas, pero no lo son.",
+      "Pasaporte con al menos 6 meses de validez. El visado se puede obtener a la llegada en el aeropuerto, pero para casi todo el mundo la opción sensata es el Jordan Pass, que se compra online antes de salir: cuesta entre 70 y 80 JOD (90-100 € aprox.) según la fórmula e incluye el visado de entrada y el acceso a más de cuarenta lugares, entre ellos Petra, Jerash y Wadi Rum. Compensa siempre que se permanezca en el país al menos 2 noches consecutivas.",
+    valuta: "Dinar jordano (JOD), vinculado al dólar: 1 JOD vale orientativamente 1,20-1,30 €. Es una de las monedas más fuertes de la región, y las cifras engañan: parecen pequeñas, pero no lo son.",
     pagamenti:
       "Tarjetas aceptadas en hoteles, restaurantes y tiendas de las ciudades. Hace falta efectivo para los campamentos de tiendas de Wadi Rum, los beduinos, las propinas y las pequeñas compras. El alcohol se compra solo en tiendas especializadas: conviene hacer acopio antes de desplazarse hacia el desierto o las zonas más conservadoras.",
     connettivita: "Zain y Orange son los dos operadores principales, con puestos en el aeropuerto de Amán. Buena cobertura a lo largo de la Desert Highway y en los lugares turísticos, más débil en el corazón de Wadi Rum.",

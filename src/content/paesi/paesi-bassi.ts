@@ -21,7 +21,7 @@ export const paesiBassi: Paese = {
   durataConsigliata:
     '3-4 giorni per il centro storico, l\'anello dei canali e i musei principali; il resto dei Paesi Bassi resta fuori.',
   budgetIndicativo:
-    'Amsterdam è una delle capitali più care dell\'Europa occidentale, come Parigi o Londra. Le voci fisse che pesano di più sono i biglietti dei musei maggiori (Rijksmuseum e Van Gogh Museum, circa 20-25€ l\'uno) e la Casa di Anna Frank (circa 16€, da prenotare con largo anticipo), più il noleggio bici (10-15€ al giorno) e una crociera sui canali (15-20€).',
+    'Amsterdam è una delle capitali più care dell\'Europa occidentale, come Parigi o Londra. Le voci fisse che pesano di più sono i biglietti dei musei maggiori (Rijksmuseum e Van Gogh Museum, circa 20-25 € l\'uno) e la Casa di Anna Frank (circa 16 €, da prenotare con largo anticipo), più il noleggio bici (10-15 € al giorno) e una crociera sui canali (15-20 €).',
   stileViaggio: ['città', 'arte', 'storia', 'cicloturismo'],
   scheda: {
     documenti:
@@ -37,8 +37,8 @@ export const paesiBassi: Paese = {
     sicurezza:
       'Per gli standard europei Amsterdam è una città sicura, ma il centro storico, e in particolare la zona intorno alla Stazione Centrale, Dam Square e il Quartiere a Luci Rosse, è tra i più battuti d\'Europa dai borseggiatori, soprattutto sui tram affollati, in coda ai musei e tra la folla serale. Il rischio tipico della città però sono i ciclisti. Amsterdam ha più biciclette che abitanti e sulle piste ciclabili le bici hanno la precedenza sul serio: camminare o fermarsi distratti su una pista (spesso in asfalto rosso, ben distinta dal marciapiede) è la causa più comune di incidenti e discussioni con i turisti, che non si aspettano un traffico di bici così silenzioso e veloce.',
     trasportiInterni:
-      'Il centro si gira benissimo a piedi, ma il modo più naturale di spostarsi è la bicicletta, con noleggi ovunque (10-15€ al giorno). In alternativa tram, autobus e metro GVB coprono la città, con biglietti a tempo o con la OV-chipkaart contactless (sui mezzi si può pagare direttamente con carta di credito o di debito contactless). L\'auto non serve: in centro il traffico privato è scoraggiato e il parcheggio è caro e scarso.',
-    costoVita: 'Alto per gli standard europei: un pasto normale al ristorante parte da 20-25€ a testa, una birra al bar 5-6€, un caffè 3-4€.',
+      'Il centro si gira benissimo a piedi, ma il modo più naturale di spostarsi è la bicicletta, con noleggi ovunque (10-15 € al giorno). In alternativa tram, autobus e metro GVB coprono la città, con biglietti a tempo o con la OV-chipkaart contactless (sui mezzi si può pagare direttamente con carta di credito o di debito contactless). L\'auto non serve: in centro il traffico privato è scoraggiato e il parcheggio è caro e scarso.',
+    costoVita: 'Alto per gli standard europei: un pasto normale al ristorante parte da 20-25 € a testa, una birra al bar 5-6 €, un caffè 3-4 €.',
     lingua: 'Olandese. L\'inglese lo parlano quasi tutti, e molto bene, non solo nel turismo: è probabilmente il paese europeo dove serve meno conoscere anche solo qualche parola della lingua locale.',
     elettricita: '230V, 50Hz, prese di tipo C ed F: le spine italiane a due poli entrano senza problemi, quelle a tre poli con messa a terra possono richiedere un adattatore.',
     fusoOrario: 'UTC+1 (CET), lo stesso fuso orario dell\'Italia tutto l\'anno, ora legale compresa: nessuna differenza oraria.',

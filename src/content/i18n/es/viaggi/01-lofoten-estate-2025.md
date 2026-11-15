@@ -26,7 +26,7 @@ De las Lofoten lo primero que se me quedó pegado fue la luz. En julio el sol de
 
 ## Itinerario giorno per giorno
 ### Día 1 — Oslo
-Aterrizamos en Gardermoen hacia la hora de comer. La ciudad está a 19 minutos en el **Flytoget**: dentro de la terminal se siguen los carteles «Flytoget Airport Express», los trenes salen cada diez minutos y el billete cuesta unas 210 NOK. Desde Oslo S, el Citybox Hotel está a cinco minutos andando.
+Aterrizamos en Gardermoen hacia la hora de comer. La ciudad está a unos 20 minutos en el **Flytoget**: dentro de la terminal se siguen los carteles «Flytoget Airport Express», los trenes salen cada diez minutos y el billete cuesta unas 276 NOK. Desde Oslo S, el Citybox Hotel está a cinco minutos andando.
 
 La tarde fue un largo paseo: los jardines del Palacio Real, el paseo marítimo de Aker Brygge, el museo Astrup Fearnley de Renzo Piano y, por último, la Ópera, donde subimos al tejado a mirar la ciudad y el mar. En el bar interior un té caliente nos vino de maravilla, incluso en julio. Cenamos en **Rorbua**, también en Aker Brygge: cocina noruega tradicional, raciones generosas, precios en la media, madera por todas partes.
 

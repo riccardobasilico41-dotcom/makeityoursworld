@@ -58,7 +58,7 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "La salita è consentita solo con guida registrata (una ogni cinque adulti) e un permesso nominale, da prenotare con mesi di anticipo insieme al posto letto a Laban Rata, tramite Sabah Parks o operatori autorizzati. Si sale dal Timpohon Gate, a 1.866 metri: il sentiero di Mesilau è chiuso.",
         quando: "Nei mesi più asciutti; con il maltempo la montagna chiude. Prenotare con margine.",
         tempo: "2 giorni, 1 notte a Laban Rata",
-        costo: "Permesso di salita 400 RM per gli stranieri adulti, guida 350 RM ogni cinque persone, assicurazione 10 RM (tariffe Sabah Parks in vigore dal 2023); rifugio e ingresso al parco a parte.",
+        costo: "Permesso di salita 400 RM per gli stranieri adulti, guida 350 RM ogni cinque persone, assicurazione 10 RM (tariffe in vigore dal 2023); rifugio e ingresso al parco a parte.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Dormire vicino al parco la sera prima della salita e non a Kota Kinabalu, per partire riposati."
       },

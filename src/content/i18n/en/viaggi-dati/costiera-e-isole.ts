@@ -23,7 +23,7 @@ export const costieraEIsoleMeta: TripMeta = {
   criticita: [
     "The Amalfi state road in summer is one continuous traffic jam: anyone arriving by car in August spends the vacation in line",
     'In rough seas ferry runs are cancelled: you always need a plan B by land',
-    'Capri, Ischia and Procida have seasonal limits on landing vehicles, to be checked every year',
+    'Capri, Ischia and Procida have seasonal limits on landing vehicles, which change every year',
     "Access to the Blue Grotto depends every day on the tide and sea conditions",
     "Access status of Via Krupp, the Valle delle Ferriere, Vivara and the Emerald Grotto changes",
     "This is not a flat-sea beach vacation: it's measured in steps, not kilometers",

@@ -23,7 +23,7 @@ export const giappone360Meta: TripMeta = {
     'Tokyo viene vissuta solo a spizzichi (arrivo e ultimi due giorni): con più tempo meriterebbe 4-5 giorni pieni',
     'Il ritmo è molto denso, quasi ogni giorno con cambio di città o tappa lunga',
   ],
-  budgetTotale: 'circa 600-750€ per l\'intero soggiorno sul posto, esclusi voli e JR Pass',
+  budgetTotale: 'circa 600-750 € per l\'intero soggiorno sul posto, esclusi voli e JR Pass',
   viaggioInBreve: {
     percheHoScelto: undefined,
     conChiSonoPartito: 'JR Pass per i grandi spostamenti in treno, attivato dal quarto giorno in poi',
@@ -174,7 +174,7 @@ export const giappone360Meta: TripMeta = {
   budget: [
     { etichetta: 'Voli', valore: undefined },
     { etichetta: 'JR Pass', valore: undefined },
-    { etichetta: 'Soggiorno sul posto (cibo, ingressi, attività)', valore: '600-750€' },
+    { etichetta: 'Soggiorno sul posto (cibo, ingressi, attività)', valore: '600-750 €' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

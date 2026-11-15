@@ -24,7 +24,7 @@ export const destinazioniMessico: Destinazione[] = [
     cosaFare: [
       'Giornata di spiaggia raggiungendo Playa Marlin o Playa Gaviota con il bus locale R1 (gratuite, niente lettini a pagamento come nella zona Hotelera)',
       'Isla Mujeres in autonomia: traghetto da Puerto Juárez o Playa Tortugas (circa 540 MXN a/r), poi si gira l\'isola con un golf cart a noleggio (1.300-1.500 MXN per 4 persone). In alternativa la giornata organizzata in catamarano, più cara ma con le soste di snorkeling comprese',
-      'Isla Contoy e Isla Mujeres in un tour organizzato di un\'intera giornata: Contoy è una riserva naturale con ingressi limitati a 200 persone al giorno; indicativamente 80-100€ a persona',
+      'Isla Contoy e Isla Mujeres in un tour organizzato di un\'intera giornata: Contoy è una riserva naturale con ingressi limitati a 200 persone al giorno; indicativamente 80-100 € a persona',
       'Aperitivo e street food serale a Parque las Palapas',
       'Spiaggia libera davanti al Coco Bongo e, in alta stagione, il Coco Bongo Beach Party nel pomeriggio',
     ],
@@ -33,7 +33,7 @@ export const destinazioniMessico: Destinazione[] = [
     doveMangiare:
       'Per spendere poco: bancarelle e street food a Parque las Palapas (il mio punto fisso delle prime sere), oppure El Socio Naiz o Taqueria Coapenitos per un pasto messicano semplice a prezzi bassi. Fascia media: a la Parrilla, turistico ma piacevole e con conto separato (occhio al servizio aggiunto in automatico, di solito oltre le 10 persone al tavolo), o Señor Frog, più adatto a pranzo per i suoi giochi alcolici. Per una cena più curata: Naviós Mexican Fusion Seafood, sull\'acqua nella zona Hotelera con vista sui coccodrilli (prezzo medio-alto), o Chambao, il più caro della lista (60€+ a persona) ma con un pescato molto buono.',
     usciteSerali:
-      'Il grande classico è il Coco Bongo, discoteca-spettacolo nella zona Hotelera: meglio prendere i biglietti in prevendita, soprattutto nei weekend di alta stagione. Le alternative più economiche sono Mandala (ingresso indicativo intorno ai 20€) e Monkey Business, che unisce cena e serata (all\'ingresso spesso chiedono il badge dell\'hotel o del tour).',
+      'Il grande classico è il Coco Bongo, discoteca-spettacolo nella zona Hotelera: meglio prendere i biglietti in prevendita, soprattutto nei weekend di alta stagione. Le alternative più economiche sono Mandala (ingresso indicativo intorno ai 20 €) e Monkey Business, che unisce cena e serata (all\'ingresso spesso chiedono il badge dell\'hotel o del tour).',
     comeArrivare: "L'aeroporto internazionale di Cancún (CUN) è il principale scalo della zona. I bus ADO partono dai terminal per il terminal del centro in circa 30-40 minuti (circa 130-140 MXN, biglietti al banco ADO degli arrivi o su ado.com.mx) e proseguono per Playa del Carmen e Tulum. Il taxi ufficiale si paga al banco dentro il terminal: circa 550-700 MXN per il centro, di più per la zona hotelera. Uber in aeroporto non è garantito. La stazione Cancún Aeropuerto del Tren Maya non è nel terminal: serve una navetta. Nella sala arrivi molti «addetti ai trasporti» vendono multiproprietà: si tira dritto fino all'uscita.",
     comeSpostarsi: 'Bus locali (linea R1 rossa) per le spiagge, taxi/Uber per il resto della città.',
     periodoMigliore: 'non l\'ho annotato per questa tappa; vale l\'indicazione generale per la zona, cioè la stagione secca, da novembre ad aprile.',
@@ -52,7 +52,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Traghetto da Puerto Juárez o Playa Tortugas; sull'isola si gira in golf cart a noleggio.",
         quando: "Mattina, per avere tempo.",
         tempo: "Giornata",
-        costo: "Traghetto circa 540 MXN andata e ritorno, circa 27 €; golf cart 1.300-1.500 MXN al giorno per 4 persone, circa 65-75 € (dal viaggio, 2026)",
+        costo: "Traghetto circa 540 MXN andata e ritorno, circa 27 €; golf cart 1.300-1.500 MXN al giorno per 4 persone, circa 65-75 € (2026)",
         lat: 21.23333,
         lng: -86.73333,
         url: "https://www.ultramarferry.com/",
@@ -85,8 +85,8 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Bus R1 o R2 fino al km 16,5 del Boulevard Kukulcán; biglietti in cassa o online dalla scheda INAH.",
         quando: "Nelle ore più calde o in una giornata di pioggia.",
         tempo: "1,5-2 ore",
-        costo: "210 MXN per gli stranieri, circa 10,5 €, San Miguelito compreso (INAH, 2026)",
-        orari: "Da martedì a domenica 9-17, ultimo ingresso 16:30; lunedì chiuso (INAH, 2026)",
+        costo: "210 MXN per gli stranieri, circa 10,5 €, San Miguelito compreso (2026)",
+        orari: "Da martedì a domenica 9-17, ultimo ingresso 16:30; lunedì chiuso (2026)",
         lat: 21.07403,
         lng: -86.77727,
         url: "https://lugares.inah.gob.mx/en/node/4284",
@@ -107,7 +107,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Solo con uscite organizzate, in snorkeling, immersione o barca con il fondo di vetro, prenotabili sul sito ufficiale.",
         quando: "Mattina, quando il mare è più calmo e l'acqua più limpida.",
         tempo: "2-3 ore",
-        costo: "Snorkeling a Punta Nizuc 58 $, circa 50 €; immersioni da 115 $, circa 100 € (sito ufficiale, 2026)",
+        costo: "Snorkeling a Punta Nizuc 58 $, circa 50 €; immersioni da 115 $, circa 100 € (2026)",
         lat: 21.0763,
         lng: -86.8463,
         url: "https://musamexico.org/",
@@ -118,8 +118,8 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Al km 18 del Boulevard Kukulcán, sul lato della laguna, con il bus R1 o R2.",
         quando: "Mattina presto o tardo pomeriggio: l'ombra è poca.",
         tempo: "45 minuti",
-        costo: "145 MXN per gli stranieri, circa 7 € (INAH, 2026)",
-        orari: "Tutti i giorni 8-17, ultimo ingresso 16:30 (INAH, 2026)",
+        costo: "145 MXN per gli stranieri, circa 7 € (2026)",
+        orari: "Tutti i giorni 8-17, ultimo ingresso 16:30 (2026)",
         lat: 21.06083,
         lng: -86.78111,
         url: "https://lugares.inah.gob.mx/en/node/4404",
@@ -140,7 +140,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Biglietti da rivenditori.",
         quando: "Sera.",
         tempo: "Serata",
-        costo: "Con open bar indicativamente da 90 $ in su, circa 78 €, secondo la serata (dal viaggio, 2026)",
+        costo: "Con open bar indicativamente da 90 $ in su, circa 78 €, secondo la serata (2026)",
         lat: 21.1329,
         lng: -86.74721,
         consiglio: "Per gli ingressi provate a sentire Martin di Mexico Grand Tours: ha un po' di tutto.",
@@ -240,7 +240,7 @@ export const destinazioniMessico: Destinazione[] = [
       {
         nome: "Isla Contoy",
         distanza: "circa 40 km a nord, in barca",
-        come: "Solo con tour autorizzati di una giornata, spesso abbinati a Isla Mujeres; indicativamente 80-100 € a persona (dal viaggio).",
+        come: "Solo con tour autorizzati di una giornata, spesso abbinati a Isla Mujeres; indicativamente 80-100 € a persona.",
         testo: "Riserva naturale per gli uccelli marini, con spiagge deserte e snorkeling sulla barriera. Gli ingressi sono limitati a 200 persone al giorno: si prenota con anticipo.",
       },
       {
@@ -341,7 +341,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Cenote: seguire le regole su crema solare e doccia prima del bagno."
       ],
     comeArrivare: "Via van/auto da Cancún (circa 2-2h30), spesso con tappa a Río Lagartos lungo il tragitto. In auto si prende l'autostrada a pedaggio Cancún-Mérida, uscendo a Valladolid; i bus ADO partono dal terminal del centro di Cancún e arrivano al terminal di Valladolid, a pochi isolati dalla piazza principale. Il Tren Maya ha una stazione fuori città: da lì al centro serve un taxi. Chichén Itzá è a circa 40 km, tre quarti d'ora di strada; Mérida a circa un'ora e mezza-due ore, passando per Chichén Itzá e Izamal.",
-    costi: "Non mi sono segnato le spese di Valladolid; come il resto dell'entroterra, è una tappa economica. Budget basso circa 35-50 € al giorno a persona (hotel semplice in centro, loncherías, colectivos per i cenote); medio 80-130 € (hotel boutique, ristoranti, Ek Balam o Chichén Itzá con guida); alto da 220 € (hacienda fuori città, auto con autista). Ek Balam 691 MXN per gli stranieri più 100 MXN di parcheggio (scheda INAH); Chichén Itzá 105 MXN INAH più 548 MXN di quota statale secondo la scheda INAH (novembre 2026), mentre la stampa locale riporta 697 MXN con il biglietto unico.",
+    costi: "Non mi sono segnato le spese di Valladolid; come il resto dell'entroterra, è una tappa economica. Budget basso circa 35-50 € al giorno a persona (hotel semplice in centro, loncherías, colectivos per i cenote); medio 80-130 € (hotel boutique, ristoranti, Ek Balam o Chichén Itzá con guida); alto da 220 € (hacienda fuori città, auto con autista). Ek Balam 691 MXN per gli stranieri più 100 MXN di parcheggio; Chichén Itzá 105 MXN INAH più 548 MXN di quota statale secondo la scheda INAH (novembre 2026), mentre la stampa locale riporta 697 MXN con il biglietto unico.",
     luoghi: [
       {
         "nome": "Chichén Itzá",
@@ -350,7 +350,7 @@ export const destinazioniMessico: Destinazione[] = [
         "quando": "Mattina, all'apertura, prima dei pullman e del caldo.",
         "tempo": "3-4 ore",
         "costo": "697 MXN per gli stranieri, con biglietto unico federale e statale in un'unica cassa dal 27 marzo 2026; la domenica gratis solo per messicani e residenti. La scheda INAH indica invece 105 + 548 MXN (novembre 2026).",
-        "orari": "Tutti i giorni 8-16, ultimo ingresso alle 15 (scheda INAH).",
+        "orari": "Tutti i giorni 8-16, ultimo ingresso alle 15.",
         "lat": 20.68289,
         "lng": -88.56861,
         "url": "https://lugares.inah.gob.mx/es/node/4335",
@@ -362,7 +362,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Da Valladolid in taxi o auto, circa mezz'ora.",
         "quando": "Mattina.",
         "tempo": "2 ore",
-        "costo": "210 MXN INAH più 481 MXN di quota statale per gli stranieri, cioè 691 MXN, circa 35 €, più 100 MXN di parcheggio dell'ejido (scheda INAH, 2026).",
+        "costo": "210 MXN INAH più 481 MXN di quota statale per gli stranieri, cioè 691 MXN, circa 35 €, più 100 MXN di parcheggio dell'ejido (2026).",
         "lat": 20.89111,
         "lng": -88.13639,
         "url": "https://www.inah.gob.mx/",
@@ -374,7 +374,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Taxi o bici da Ek Balam.",
         "quando": "Mattina o primo pomeriggio.",
         "tempo": "1-2 ore",
-        "costo": "Ingresso a parte rispetto a Ek Balam (dal viaggio)",
+        "costo": "Ingresso a parte rispetto a Ek Balam",
         "lat": 20.88828,
         "lng": -88.12041
       },
@@ -529,13 +529,13 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Izamal",
         "distanza": "circa 1,5 ore in auto",
         "come": "Auto, o bus con cambio; spesso tappa fra Chichén Itzá e Mérida.",
-        "testo": "La città gialla con il convento francescano costruito sopra una piramide maya e la piramide di Kinich Kakmó in mezzo alle case (ingresso gratuito, tutti i giorni 8-17, scheda INAH)."
+        "testo": "La città gialla con il convento francescano costruito sopra una piramide maya e la piramide di Kinich Kakmó in mezzo alle case (ingresso gratuito, tutti i giorni 8-17)."
       },
       {
         "nome": "Cobá",
         "distanza": "circa 1 ora in auto",
         "come": "Auto o colectivo verso Tulum.",
-        "testo": "Il sito maya fra due lagune, con lunghi sacbé da percorrere in bici e la piramide di Nohoch Mul (210 MXN per gli stranieri, tutti i giorni 8-17, ultimo ingresso alle 16, scheda INAH)."
+        "testo": "Il sito maya fra due lagune, con lunghi sacbé da percorrere in bici e la piramide di Nohoch Mul (210 MXN per gli stranieri, tutti i giorni 8-17, ultimo ingresso alle 16)."
       },
       {
         "nome": "Las Coloradas",
@@ -635,7 +635,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Si entra dalla piazza; i murales sono lungo lo scalone e nelle sale del piano superiore.",
         quando: "Mattina, prima del caldo.",
         tempo: "30-45 minuti",
-        costo: "Ingresso libero (dal viaggio)",
+        costo: "Ingresso libero",
         lat: 20.96783,
         lng: -89.62336,
       },
@@ -654,8 +654,8 @@ export const destinazioniMessico: Destinazione[] = [
         come: "A piedi dal centro o in taxi; al museo si entra da Calle 43.",
         quando: "Il museo la mattina, il viale nel tardo pomeriggio.",
         tempo: "2-3 ore",
-        costo: "Museo 210 MXN per gli stranieri, circa 10,5 € (INAH, 2026)",
-        orari: "Museo da martedì a domenica 8-17, ultimo ingresso 16:30; lunedì chiuso (INAH, 2026)",
+        costo: "Museo 210 MXN per gli stranieri, circa 10,5 € (2026)",
+        orari: "Museo da martedì a domenica 8-17, ultimo ingresso 16:30; lunedì chiuso (2026)",
         lat: 20.97819,
         lng: -89.61951,
         url: "https://lugares.inah.gob.mx/en/node/4258",
@@ -714,7 +714,7 @@ export const destinazioniMessico: Destinazione[] = [
         come: "Bus o auto da Mérida.",
         quando: "Giornata.",
         tempo: "Giornata",
-        costo: "Lettini gratis nei beach club con una consumazione (dal viaggio)",
+        costo: "Lettini gratis nei beach club con una consumazione",
         lat: 21.28278,
         lng: -89.66361,
         consiglio: "Una pausa a metà viaggio senza transfer lunghi.",
@@ -806,13 +806,13 @@ export const destinazioniMessico: Destinazione[] = [
         nome: "Uxmal",
         distanza: "circa 1 ora e un quarto in auto",
         come: "Auto lungo la Federale 261 o tour organizzato; con la Ruta Puuc diventa una giornata intera.",
-        testo: "La grande città puuc, con la Piramide dell'Indovino e il Quadrilatero delle Monache. 566 MXN per gli stranieri, aperta tutti i giorni 8-16, ultimo ingresso alle 15 (scheda INAH, novembre 2026).",
+        testo: "La grande città puuc, con la Piramide dell'Indovino e il Quadrilatero delle Monache. 566 MXN per gli stranieri, aperta tutti i giorni 8-16, ultimo ingresso alle 15 (novembre 2026).",
       },
       {
         nome: "Dzibilchaltún",
         distanza: "circa 12 km a nord, 20-30 minuti",
         come: "Auto o taxi lungo la strada per Progreso, poi l'uscita per Chablekal.",
-        testo: "Sito maya con il Tempio delle Sette Bambole, il museo del Popolo Maya e il cenote Xlacah, dove si fa il bagno. Agli equinozi il sole attraversa la porta del tempio. 105 MXN, tutti i giorni 8-16 (INAH, 2026).",
+        testo: "Sito maya con il Tempio delle Sette Bambole, il museo del Popolo Maya e il cenote Xlacah, dove si fa il bagno. Agli equinozi il sole attraversa la porta del tempio. 105 MXN, tutti i giorni 8-16 (2026).",
       },
       {
         nome: "Cenote di Cuzamá e Homún",
@@ -838,7 +838,7 @@ export const destinazioniMessico: Destinazione[] = [
       },
       {
         domanda: "Si può visitare Uxmal in giornata da Mérida?",
-        risposta: "Sì, è a circa un'ora e un quarto d'auto. Si entra all'apertura delle 8 per il caldo; il biglietto per gli stranieri è di 566 MXN (INAH, novembre 2026).",
+        risposta: "Sì, è a circa un'ora e un quarto d'auto. Si entra all'apertura delle 8 per il caldo; il biglietto per gli stranieri è di 566 MXN (novembre 2026).",
       },
       {
         domanda: "Serve l'auto a Mérida?",
@@ -1397,7 +1397,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Non camminare sugli stromatoliti: sono organismi fragili."
       ],
     comeArrivare: "In tour organizzato da Mahahual, oppure in autonomia con van o auto. Da Cancún sono circa 4-5 ore in auto lungo la Federale 307, passando per Tulum; ci sono anche i bus ADO, che fermano in paese, e il Tren Maya con la stazione di Bacalar, fuori dal centro. L'aeroporto più vicino è quello di Chetumal, a circa 40 km, raggiungibile in taxi. Da Xpujil e Calakmul servono circa 2 ore di strada. Entrando in Quintana Roo da Campeche si sposta l'orologio un'ora avanti.",
-    costi: "Il prezzo del tour non me lo sono segnato. Il tour in barca di un paio d'ore si concorda al molo o in agenzia e si paga in contanti; il Fuerte de San Felipe ha un biglietto di pochi euro; molti pontili sulla laguna sono di hotel o club privati, con ingresso a pagamento (dal viaggio). Budget indicativo a persona al giorno: basso 40-60 € (camera in paese, cucina semplice), medio 100-160 € (hotel sulla laguna, tour in barca, kayak), alto da 250 € (hotel di design sull'acqua, uscite private).",
+    costi: "Il prezzo del tour non me lo sono segnato. Il tour in barca di un paio d'ore si concorda al molo o in agenzia e si paga in contanti; il Fuerte de San Felipe ha un biglietto di pochi euro; molti pontili sulla laguna sono di hotel o club privati, con ingresso a pagamento. Budget indicativo a persona al giorno: basso 40-60 € (camera in paese, cucina semplice), medio 100-160 € (hotel sulla laguna, tour in barca, kayak), alto da 250 € (hotel di design sull'acqua, uscite private).",
     luoghi: [
       {
         "nome": "Laguna di Bacalar",
@@ -1415,7 +1415,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Tour prenotato dall'hotel o dal lungolago, il giorno prima.",
         "quando": "Mattina.",
         "tempo": "3 ore",
-        "costo": "Prezzo da concordare al molo o in agenzia, in contanti (dal viaggio)."
+        "costo": "Prezzo da concordare al molo o in agenzia, in contanti."
       },
       {
         "nome": "Canal de los Piratas e Isla de los Pájaros",
@@ -1477,7 +1477,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "A piedi dal centro.",
         "quando": "Mattina.",
         "tempo": "1 ora",
-        "costo": "Biglietto di pochi euro (dal viaggio)",
+        "costo": "Biglietto di pochi euro",
         "orari": "Giorni di chiusura da controllare sul posto.",
         "lat": 18.67694,
         "lng": -88.39528
@@ -1538,13 +1538,13 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Kohunlich",
         "distanza": "circa 1 ora a ovest",
         "come": "Auto lungo la Federale 186 verso Escárcega.",
-        "testo": "Il Tempio dei Mascheroni, con grandi volti in stucco, in un sito immerso nella foresta di palme. Biglietto INAH, ultimo ingresso alle 16 ora locale (dal viaggio)."
+        "testo": "Il Tempio dei Mascheroni, con grandi volti in stucco, in un sito immerso nella foresta di palme. Biglietto INAH, ultimo ingresso alle 16 ora locale."
       },
       {
         "nome": "Chetumal e Oxtankah",
         "distanza": "circa 40 km, 40 minuti",
         "come": "Auto, bus o colectivo.",
-        "testo": "Il Museo de la Cultura Maya e il lungomare della capitale del Quintana Roo, e poco a nord il sito di Oxtankah (145 MXN per gli stranieri, tutti i giorni 9-17, scheda INAH)."
+        "testo": "Il Museo de la Cultura Maya e il lungomare della capitale del Quintana Roo, e poco a nord il sito di Oxtankah (145 MXN per gli stranieri, tutti i giorni 9-17)."
       },
       {
         "nome": "Mahahual",
@@ -1605,7 +1605,7 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     doveDormire: 'Il nome della struttura di Tulum non me lo sono segnato.',
     doveMangiare:
-      'Sabor de Mar per il pesce, El Takazo Jr per tacos a poco prezzo, Bonita (Tulum Burger Bar) per cambiare dal messicano. Per una cena più ricercata, TuTulum: cucina messicana rivisitata (circa 40€ a persona), con qualche piatto a base di insetti per i più curiosi.',
+      'Sabor de Mar per il pesce, El Takazo Jr per tacos a poco prezzo, Bonita (Tulum Burger Bar) per cambiare dal messicano. Per una cena più ricercata, TuTulum: cucina messicana rivisitata (circa 40 € a persona), con qualche piatto a base di insetti per i più curiosi.',
     usciteSerali:
       'Lo Straw Hat è il locale più frequentato la sera; d\'inverno in zona può capitare qualche festival. Per la musica dal vivo c\'è anche Vagalume.',
     comeArrivare: "In van o in auto da Mahahual (circa 2-3 ore). Dall'aeroporto di Cancún (CUN), a circa 120 km, ci vogliono un paio d'ore in auto o con i bus ADO diretti al terminal di Tulum. Più vicino c'è l'aeroporto internazionale di Tulum (TQO), aperto a fine 2023 a circa 25 km dal paese, con voli soprattutto nazionali e dal Nord America. Tulum è anche una stazione del Tren Maya, sulla linea che scende verso Bacalar.",
@@ -1861,7 +1861,7 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     doveDormire: 'In questo viaggio a Playa del Carmen ho passato solo una serata, senza dormirci: non ho una struttura da consigliare.',
     doveMangiare:
-      'Las Camelias sulla 5ta Avenida per un pasto sostanzioso, Zitla come alternativa. Per un\'occasione speciale Mezcla (circa 50€ a persona): caro ma molto buono.',
+      'Las Camelias sulla 5ta Avenida per un pasto sostanzioso, Zitla come alternativa. Per un\'occasione speciale Mezcla (circa 50 € a persona): caro ma molto buono.',
     usciteSerali:
       'Il Coco Bongo (la stessa catena di Cancún) è la scelta più nota; sulla 5ta Avenida sono molto frequentati anche Clandestino e Santino.',
     comeSpostarsi: 'Su come muoversi in città non ho appunti: l\'ho vista solo per una serata.',
@@ -1921,7 +1921,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Catamarano condiviso con traghetto, pranzo e open bar, oppure barca privata con il traghetto a parte: confrontare i prezzi di più operatori.",
         "quando": "Mattina.",
         "tempo": "Giornata",
-        "costo": "Catamarano circa 1.670 MXN a persona, circa 85 €, con traghetto andata e ritorno; barca privata circa 700 MXN a persona più il traghetto, circa 580 MXN andata e ritorno (dal viaggio).",
+        "costo": "Catamarano circa 1.670 MXN a persona, circa 85 €, con traghetto andata e ritorno; barca privata circa 700 MXN a persona più il traghetto, circa 580 MXN andata e ritorno.",
         "lat": 20.43,
         "lng": -87.02
       },
@@ -1951,8 +1951,8 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "A piedi o in bici da Parque Fundadores, dentro Playacar.",
         "quando": "Mattina.",
         "tempo": "30 minuti",
-        "costo": "Ingresso gratuito (scheda INAH, 2026).",
-        "orari": "Tutti i giorni 8-17 (scheda INAH).",
+        "costo": "Ingresso gratuito (2026).",
+        "orari": "Tutti i giorni 8-17.",
         "lat": 20.60728,
         "lng": -87.09289,
         "url": "https://lugares.inah.gob.mx/es/node/4354"
@@ -2002,7 +2002,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Navette dal centro o taxi, circa 10 minuti a sud.",
         "quando": "Giornata intera, fino allo spettacolo della sera.",
         "tempo": "Giornata",
-        "orari": "Tutti i giorni 8.30-22 (sito ufficiale).",
+        "orari": "Tutti i giorni 8.30-22.",
         "lat": 20.57806,
         "lng": -87.11917,
         "url": "https://www.xcaret.com/"
@@ -2160,8 +2160,8 @@ export const destinazioniMessico: Destinazione[] = [
         "Bioluminescenza: dipende da fasi lunari e meteo, chiedere sul posto il giorno stesso.",
         "Sulla spiaggia a Holbox ci sono sargassi in certi mesi: non è un difetto dell'isola ma va messo in conto."
       ],
-    comeArrivare: "Traghetto da Chiquilà (25-30 minuti), raggiungibile via van/auto da Cancún. Da Cancún a Chiquilá ci vogliono circa 2 ore e mezza di strada; chi va in auto la lascia nei parcheggi custoditi a pagamento di Chiquilá, perché sull'isola le auto dei turisti non entrano. Il traghetto costa circa 330 MXN a tratta (circa 16 €), con corse frequenti dal mattino alla sera (dal viaggio, 2026). Al molo di Holbox aspettano i golf cart taxi: il prezzo si concorda prima di salire. Sull'isola c'è un solo bancomat: arrivare con abbastanza contanti.",
-    costi: "Il conto complessivo di Holbox non me lo sono segnato; i prezzi delle singole escursioni sono nelle voci qui sopra e nelle schede esperienza. Indicativamente: squalo balena 3.000-4.000 MXN a persona più il braccialetto del parco, 3 Islas 750-900 MXN, kayak per la bioluminescenza 400-500 MXN, cavallo 850 MXN per un'ora e mezza, traghetto 330 MXN a tratta (dal viaggio, 2026). Budget a persona al giorno: basso 50-70 € (ostello in paese, cucina di strada), medio 120-180 € (hotel in paese e un'escursione), alto da 300 € (hotel sulla spiaggia e squalo balena).",
+    comeArrivare: "Traghetto da Chiquilà (25-30 minuti), raggiungibile via van/auto da Cancún. Da Cancún a Chiquilá ci vogliono circa 2 ore e mezza di strada; chi va in auto la lascia nei parcheggi custoditi a pagamento di Chiquilá, perché sull'isola le auto dei turisti non entrano. Il traghetto costa circa 330 MXN a tratta (circa 16 €), con corse frequenti dal mattino alla sera (2026). Al molo di Holbox aspettano i golf cart taxi: il prezzo si concorda prima di salire. Sull'isola c'è un solo bancomat: arrivare con abbastanza contanti.",
+    costi: "Il conto complessivo di Holbox non me lo sono segnato; i prezzi delle singole escursioni sono nelle voci qui sopra e nelle schede esperienza. Indicativamente: squalo balena 3.000-4.000 MXN a persona più il braccialetto del parco, 3 Islas 750-900 MXN, kayak per la bioluminescenza 400-500 MXN, cavallo 850 MXN per un'ora e mezza, traghetto 330 MXN a tratta (2026). Budget a persona al giorno: basso 50-70 € (ostello in paese, cucina di strada), medio 120-180 € (hotel in paese e un'escursione), alto da 300 € (hotel sulla spiaggia e squalo balena).",
     luoghi: [
       {
         "nome": "Squalo balena",
@@ -2169,7 +2169,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Tour dal porto di Holbox, con guida; partenza verso le 7-8 e rientro nel primo pomeriggio.",
         "quando": "La stagione va più o meno da metà maggio a metà settembre, con i mesi migliori a luglio e agosto; le uscite si fanno con permessi della CONANP.",
         "tempo": "Mezza giornata",
-        "costo": "Tour condiviso indicativamente 3.000-4.000 MXN a persona, circa 150-200 €, più l'eventuale braccialetto del parco (dal viaggio, 2026).",
+        "costo": "Tour condiviso indicativamente 3.000-4.000 MXN a persona, circa 150-200 €, più l'eventuale braccialetto del parco (2026).",
         "consiglio": "Crema solare biodegradabile, maglia a maniche lunghe e acqua; il giubbotto di salvataggio in acqua è obbligatorio."
       },
       {
@@ -2178,7 +2178,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Chiedere sul posto il giorno stesso: dipende da fasi lunari e meteo.",
         "quando": "Sera, meglio nelle notti senza luna; si vede meglio da aprile a novembre.",
         "tempo": "2 ore",
-        "costo": "Kayak con guida 500 MXN a persona per gruppi sopra le 8 persone, 400 MXN sotto le 8 (dal viaggio).",
+        "costo": "Kayak con guida 500 MXN a persona per gruppi sopra le 8 persone, 400 MXN sotto le 8.",
         "lat": 21.54307,
         "lng": -87.35312,
         "consiglio": "A piedi è sconsigliato: circa un'ora di cammino per direzione, quasi tutta al buio."
@@ -2189,7 +2189,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Prezzi diversi secondo l'operatore, alcuni con il transfer dall'hotel. Il cenote Yalahau si paga a parte.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata",
-        "costo": "750-900 MXN a persona, circa 38-45 € (circa 1.100 MXN con transfer); cenote Yalahau circa 200 MXN (dal viaggio).",
+        "costo": "750-900 MXN a persona, circa 38-45 € (circa 1.100 MXN con transfer); cenote Yalahau circa 200 MXN.",
         "lat": 21.45715,
         "lng": -87.40564
       },
@@ -2199,7 +2199,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Tour condiviso in barca; confrontare più operatori e cosa include il prezzo.",
         "quando": "Giornata.",
         "tempo": "Giornata",
-        "costo": "Indicativamente 80-100 dollari a persona (dal viaggio).",
+        "costo": "Indicativamente 80-100 dollari a persona.",
         "lat": 21.6058,
         "lng": -87.1033
       },
@@ -2248,7 +2248,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Si prenota in paese.",
         "quando": "Tardo pomeriggio.",
         "tempo": "1,5 ore",
-        "costo": "850 MXN a persona, circa 43 € (dal viaggio)."
+        "costo": "850 MXN a persona, circa 43 €."
       }
     ],
     programmi: [
@@ -2613,7 +2613,7 @@ export const destinazioniMessico: Destinazione[] = [
     erroriDaEvitare: [
       'Andare alle cascate in auto propria sulla Federale 199 senza controllare gli avvisi: il Foreign Office sconsiglia i viaggi non essenziali su quel tratto',
       'Arrivare a metà giornata: caldo forte e folla',
-      'Cercare il museo di sito il lunedì: è aperto dal martedì alla domenica (scheda INAH)',
+      'Cercare il museo di sito il lunedì: è aperto dal martedì alla domenica',
     ],
       "sapori": [
         {
@@ -2630,8 +2630,8 @@ export const destinazioniMessico: Destinazione[] = [
         "Il Foreign Office sconsiglia la fascia di 40 km dal confine con il Guatemala: Yaxchilán e Bonampak sono in quella zona.",
         "Repellente forte: nel parco ci sono molte zanzare."
       ],
-    comeArrivare: "Tren Maya (stazione di Palenque) o bus ADO; in auto dalla Federale 186, deviando al km 114 verso Palenque (scheda INAH). Da Campeche servono circa 5-6 ore di auto, da Xpujil e Calakmul altre 5-6; Palenque è nel fuso del Centro, come Campeche, un'ora indietro rispetto al Quintana Roo. L'aeroporto con più voli è quello di Villahermosa, da cui si arriva con la stessa Federale 186. Dal paese al sito, a circa 7 km dentro il parco nazionale, si va in taxi o con i colectivos che passano lungo la strada di El Panchán. Orari e biglietti del Tren Maya vanno controllati sul sito ufficiale qualche giorno prima.",
-    costi: "210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota del parco nazionale (CONANP) (scheda INAH, novembre 2026). Budget indicativo a persona al giorno: basso 35-50 € (camera in paese, comedores, colectivo per il sito); medio 70-110 € (cabaña nella foresta lungo la strada del sito, guida al sito); alto da 180 € (hotel nella vegetazione, tour privato per Yaxchilán e Bonampak). Yaxchilán: ingresso INAH gratuito ma lancia circa 1.200 MXN; Bonampak 210 MXN più quote della comunità (scheda INAH).",
+    comeArrivare: "Tren Maya (stazione di Palenque) o bus ADO; in auto dalla Federale 186, deviando al km 114 verso Palenque. Da Campeche servono circa 5-6 ore di auto, da Xpujil e Calakmul altre 5-6; Palenque è nel fuso del Centro, come Campeche, un'ora indietro rispetto al Quintana Roo. L'aeroporto con più voli è quello di Villahermosa, da cui si arriva con la stessa Federale 186. Dal paese al sito, a circa 7 km dentro il parco nazionale, si va in taxi o con i colectivos che passano lungo la strada di El Panchán. Orari e biglietti del Tren Maya vanno controllati sul sito ufficiale qualche giorno prima.",
+    costi: "210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota del parco nazionale (CONANP) (novembre 2026). Budget indicativo a persona al giorno: basso 35-50 € (camera in paese, comedores, colectivo per il sito); medio 70-110 € (cabaña nella foresta lungo la strada del sito, guida al sito); alto da 180 € (hotel nella vegetazione, tour privato per Yaxchilán e Bonampak). Yaxchilán: ingresso INAH gratuito ma lancia circa 1.200 MXN; Bonampak 210 MXN più quote della comunità.",
     luoghi: [
       {
         "nome": "Zona archeologica di Palenque",
@@ -2639,8 +2639,8 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Biglietti al centro visitatori (CATVI) o online. Si paga l'ingresso INAH e la quota del parco nazionale.",
         "quando": "Meglio all'apertura, quando la foresta è fresca.",
         "tempo": "3-4 ore",
-        "costo": "210 MXN INAH più 215 MXN CONANP per gli stranieri, circa 21 € in tutto (scheda INAH, novembre 2026).",
-        "orari": "Tutti i giorni 8-17, ultimo ingresso alle 16 (scheda INAH).",
+        "costo": "210 MXN INAH più 215 MXN CONANP per gli stranieri, circa 21 € in tutto (novembre 2026).",
+        "orari": "Tutti i giorni 8-17, ultimo ingresso alle 16.",
         "lat": 17.4836,
         "lng": -92.0468,
         "url": "https://lugares.inah.gob.mx/en/node/4853",
@@ -2696,7 +2696,7 @@ export const destinazioniMessico: Destinazione[] = [
         "come": "Lungo la strada del sito. L'ingresso è compreso nel biglietto della zona archeologica.",
         "quando": "Dopo la visita, scendendo dal sentiero delle cascate.",
         "tempo": "1 ora",
-        "orari": "Dal martedì alla domenica, dalle 8.30 alle 17 (scheda INAH).",
+        "orari": "Dal martedì alla domenica, dalle 8.30 alle 17.",
         "url": "https://lugares.inah.gob.mx/en/node/4293"
       },
       {
@@ -2765,7 +2765,7 @@ export const destinazioniMessico: Destinazione[] = [
         "nome": "Yaxchilán e Bonampak",
         "distanza": "circa 3 ore di strada verso il fiume Usumacinta",
         "come": "Tour di una giornata dal paese, con partenza all'alba; a Yaxchilán si arriva solo in lancia da Frontera Corozal.",
-        "testo": "Yaxchilán, sul fiume al confine con il Guatemala, ha architravi scolpiti nella foresta (ingresso gratuito, lancia circa 1.200 MXN); Bonampak i murales maya meglio conservati (210 MXN per gli stranieri più 40 MXN della comunità e 250 MXN di trasporto interno). Entrambi aperti 8-16.30, ultimo ingresso alle 16 (schede INAH). Prima di partire controllare gli avvisi aggiornati: la zona è vicina al confine."
+        "testo": "Yaxchilán, sul fiume al confine con il Guatemala, ha architravi scolpiti nella foresta (ingresso gratuito, lancia circa 1.200 MXN); Bonampak i murales maya meglio conservati (210 MXN per gli stranieri più 40 MXN della comunità e 250 MXN di trasporto interno). Entrambi aperti 8-16.30, ultimo ingresso alle 16. Prima di partire controllare gli avvisi aggiornati: la zona è vicina al confine."
       },
       {
         "nome": "Misol-Ha e Agua Azul",
@@ -2781,11 +2781,11 @@ export const destinazioniMessico: Destinazione[] = [
       },
       {
         "domanda": "A che ora conviene entrare al sito?",
-        "risposta": "All'apertura delle 8, quando la foresta è fresca e i gruppi non sono ancora arrivati; l'ultimo ingresso è alle 16 (scheda INAH)."
+        "risposta": "All'apertura delle 8, quando la foresta è fresca e i gruppi non sono ancora arrivati; l'ultimo ingresso è alle 16."
       },
       {
         "domanda": "Quanto costa entrare a Palenque?",
-        "risposta": "Per gli stranieri 210 MXN di ingresso INAH più 215 MXN di quota del parco nazionale, con il museo di sito compreso (scheda INAH, novembre 2026)."
+        "risposta": "Per gli stranieri 210 MXN di ingresso INAH più 215 MXN di quota del parco nazionale, con il museo di sito compreso (novembre 2026)."
       },
       {
         "domanda": "Si può andare a Misol-Ha e Agua Azul?",

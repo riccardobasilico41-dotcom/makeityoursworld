@@ -70,7 +70,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "A piedi dal centro: Plaza de la Cultura, tra avenida 0 e 2, calle 5.",
           "quando": "Tutti i giorni, 9-16.30.",
           "tempo": "1-1,5 ore",
-          "costo": "8.800 colones per gli stranieri, 6.950 per gli studenti (sito ufficiale, 2026).",
+          "costo": "8.800 colones per gli stranieri, 6.950 per gli studenti (2026).",
           "url": "https://www.museosdelbancocentral.org/"
         }
       ],
@@ -642,7 +642,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "In auto o con un tour; si trova circa a metà strada fra l'aeroporto di San José e La Fortuna, su strada asfaltata. Non serve prenotare.",
           "quando": "Da lunedì a sabato 7-17; chiusa la domenica.",
           "tempo": "Mezza giornata",
-          "costo": "15 USD (sito ufficiale, 2026).",
+          "costo": "15 USD (2026).",
           "url": "https://www.catarata-del-toro.com/"
         }
       ],

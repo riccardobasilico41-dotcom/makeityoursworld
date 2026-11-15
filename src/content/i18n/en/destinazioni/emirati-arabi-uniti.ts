@@ -121,7 +121,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
             costo: "the visa is free, apart from administrative fees and the mandatory health insurance",
             durata: "visa valid three months, stay up to 4 days",
             pro: [
-              "Saves the ordinary tourist visa, which costs around 130 euros",
+              "Saves the ordinary tourist visa, which costs around €130",
               "Requested online after buying the ticket and arrives by email in a short time",
               "Four days are enough for Jeddah plus AlUla, the heart of the country",
               "It also allows Umrah, for those who are Muslim",
@@ -193,7 +193,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro Green Line to Al Ghubaiba, then walk along the creek.",
         "quando": "The hot hours: it is indoors and links well with Al Fahidi.",
         "tempo": "1.5-2 hours",
-        "costo": "50 AED, about €12 (official 2024 rate)",
+        "costo": "50 AED, about €12 (2024)",
         "lat": 25.26643,
         "lng": 55.28945,
         "url": "https://dubaiculture.gov.ae/"
@@ -228,7 +228,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro Red Line to Emirates Towers.",
         "quando": "As of November 2026 the museum is temporarily closed for a new set-up: check the official website before going. In the evening the lit calligraphy looks better in photos.",
         "tempo": "1.5-2 hours",
-        "orari": "Temporarily closed in November 2026 while it prepares a new exhibition (official site).",
+        "orari": "Temporarily closed in November 2026 while it prepares a new exhibition.",
         "lat": 25.21915,
         "lng": 55.28187,
         "url": "https://museumofthefuture.ae/",
@@ -251,7 +251,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Taxi along Jumeirah Road; pair it with Jumeirah Mosque, a few minutes away.",
         "quando": "The hot hours.",
         "tempo": "1.5 hours",
-        "costo": "25 AED, about €6 (official 2024 rate)",
+        "costo": "25 AED, about €6 (2024)",
         "lat": 25.23921,
         "lng": 55.26933,
         "url": "https://dubaiculture.gov.ae/"
@@ -331,25 +331,25 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "nome": "Deira / Bur Dubai",
         "perChi": "those who want old Dubai and to spend less",
         "testo": "Mid-range hotels near the creek and souqs. Noisy, but with cheap restaurants.",
-        "fascia": "50-140 €"
+        "fascia": "€50-140"
       },
       {
         "nome": "Downtown",
         "perChi": "those who want to be under the Burj Khalifa",
         "testo": "Luxury hotels and malls. Expensive and anonymous.",
-        "fascia": "180-450 €"
+        "fascia": "€180-450"
       },
       {
         "nome": "Marina / JBR",
         "perChi": "those who want beach and skyscrapers",
         "testo": "Modern and touristy, far from historic Dubai.",
-        "fascia": "130-350 €"
+        "fascia": "€130-350"
       },
       {
         "nome": "Jumeirah / Umm Suqeim",
         "perChi": "those who want the sea without the towers",
         "testo": "Low-rise villas, public beaches and luxury resorts around the Burj Al Arab. You need a taxi for everything.",
-        "fascia": "150-500 €"
+        "fascia": "€150-500"
       }
     ],
     sapori: [
@@ -631,19 +631,19 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "nome": "Corniche / center",
         "perChi": "those who want to be in the city",
         "testo": "Hotels with sea views and restaurants nearby.",
-        "fascia": "80-200 €"
+        "fascia": "€80-200"
       },
       {
         "nome": "Saadiyat",
         "perChi": "those who want museums and beach",
         "testo": "Resorts and the Louvre, more isolated and expensive.",
-        "fascia": "200-500 €"
+        "fascia": "€200-500"
       },
       {
         "nome": "Yas Island",
         "perChi": "those coming for the parks or for Formula 1",
         "testo": "Modern hotels near the airport and the parks, far from the centre. During the Grand Prix prices rise sharply.",
-        "fascia": "100-250 €"
+        "fascia": "€100-250"
       }
     ],
     sapori: [

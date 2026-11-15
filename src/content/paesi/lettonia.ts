@@ -19,7 +19,7 @@ export const lettonia: Paese = {
   durataConsigliata:
     '3 giorni per Riga (Città Vecchia, quartiere Art Nouveau, Mercato Centrale) e la gita a Jūrmala, come tappa intermedia di un itinerario più ampio tra Vilnius e Tallinn.',
   budgetIndicativo:
-    'economica per gli standard dell\'Europa occidentale, anche se è nell\'eurozona: pasto normale 8-16€, biglietto della torre panoramica della Chiesa di San Pietro 9€, treno per Jūrmala circa 2€ a tratta.',
+    'economica per gli standard dell\'Europa occidentale, anche se è nell\'eurozona: pasto normale 8-16 €, biglietto della torre panoramica della Chiesa di San Pietro 9 €, treno per Jūrmala circa 2 € a tratta.',
   stileViaggio: ['città', 'architettura', 'mare', 'gastronomia'],
   scheda: {
     documenti:
@@ -35,7 +35,7 @@ export const lettonia: Paese = {
     trasportiInterni:
       'Il centro storico si gira tutto a piedi. Tram, filobus e bus della rete Rīgas satiksme collegano il resto della città, con biglietti a tempo economici. Per Jūrmala c\'è il treno regionale dalla stazione centrale (Rīga Centrālā stacija): circa 30 minuti, con partenze almeno ogni mezz\'ora. L\'auto a noleggio non serve.',
     costoVita:
-      'Basso per gli standard dell\'Europa occidentale e nordica: un pasto in un locale tradizionale costa pochi euro, una cena normale 10-16€ a testa. Molto più economica delle capitali nordiche presenti altrove sul sito (Oslo, Stoccolma, Reykjavík), in linea con Vilnius e Tallinn.',
+      'Basso per gli standard dell\'Europa occidentale e nordica: un pasto in un locale tradizionale costa pochi euro, una cena normale 10-16 € a testa. Molto più economica delle capitali nordiche presenti altrove sul sito (Oslo, Stoccolma, Reykjavík), in linea con Vilnius e Tallinn.',
     lingua:
       'Lettone, una lingua baltica lontana parente del lituano. Le due lingue si sono separate secoli fa e oggi chi parla lettone non capisce il lituano, e viceversa. L\'alfabeto è latino, con segni diacritici propri (ā, č, ģ, ī, ķ, ļ, ņ, š, ž). A Riga l\'inglese è diffuso tra i più giovani e nel turismo; il russo è ancora molto parlato dalla consistente minoranza russofona del paese.',
     elettricita: '230V, 50Hz, prese di tipo C ed F: le spine italiane a due poli entrano senza problemi.',

@@ -82,7 +82,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Museo del Villaggio",
-        testo: "Un museo all'aperto aperto nel 1936, con molti edifici contadini dal Seicento al Novecento portati da tutte le regioni della Romania. Si capisce bene l'architettura rurale.",
+        testo: "Un museo all'aperto inaugurato nel 1936, con molti edifici contadini dal Seicento al Novecento portati da tutte le regioni della Romania. Si capisce bene l'architettura rurale.",
         come: "Nel parco Re Michele I (ex Herăstrău), a nord del centro, in metro o bus.",
         quando: "Mattina; il parco è piacevole.",
         tempo: "1,5-2 ore",

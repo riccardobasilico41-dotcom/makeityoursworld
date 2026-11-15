@@ -23,8 +23,8 @@ export const indonesia: Paese = {
     'cambia molto da isola a isola: si va dal budget contenuto di Sumatra e Flores ai costi più alti di Raja Ampat, per via della logistica e del permesso obbligatorio',
   scheda: {
     documenti:
-      'Passaporto con almeno 6 mesi di validità residua e in buone condizioni. Per turismo serve il visto on arrival: si può ottenere all\'arrivo in aeroporto oppure, meglio, richiedere online l\'e-VOA su evisa.imigrasi.go.id almeno una settimana prima. Costa circa 500.000 IDR (35€ circa) e dà diritto all\'autogate. Da ottobre 2025 è obbligatoria anche la All Indonesia Arrival Card, un modulo elettronico da compilare prima dell\'arrivo.',
-    valuta: 'Rupia indonesiana (IDR), indicativamente 1€ = 17.000-18.000 IDR. Si maneggiano cifre con molti zeri: attenzione a non confondere i tagli da 10.000 e 100.000.',
+      'Passaporto con almeno 6 mesi di validità residua e in buone condizioni. Per turismo serve il visto on arrival: si può ottenere all\'arrivo in aeroporto oppure, meglio, richiedere online l\'e-VOA su evisa.imigrasi.go.id almeno una settimana prima. Costa circa 500.000 IDR (35 € circa) e dà diritto all\'autogate. Da ottobre 2025 è obbligatoria anche la All Indonesia Arrival Card, un modulo elettronico da compilare prima dell\'arrivo.',
+    valuta: 'Rupia indonesiana (IDR), indicativamente 1 € = 17.000-18.000 IDR. Si maneggiano cifre con molti zeri: attenzione a non confondere i tagli da 10.000 e 100.000.',
     pagamenti:
       'Carte accettate a Bali, nelle grandi città di Giava e nei resort; fuori da lì servono contanti. I bancomat sono diffusi a Bali e Giava, rari o assenti a Raja Ampat, nell\'interno di Flores e sulle isole minori: conviene arrivarci già riforniti.',
     connettivita:

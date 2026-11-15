@@ -232,11 +232,11 @@ Our driver was a total loose cannon, and I wouldn't recommend him. I'm not namin
 - **July-September:** monsoon. The Ganges rises, floods the ghats and boats may be suspended; the aarti moves up to the terraces. Udaipur is green and the lakes are full.
 
 ## Estimated budget 2026
-Prices per person in a double room, intercontinental flights excluded (Italy-Delhi 450-900 € round trip).
-- **Budget (40-60 € a day):** guesthouses, overnight trains in 3A, a driver shared among several people, local restaurants.
-- **Mid-range (90-140 € a day):** heritage hotels on the river and in havelis, overnight trains in 2A, a driver for all of Rajasthan, licensed guides for the Taj and the forts.
-- **High-end (from 250 € a day):** palace hotels, private driver and guides everywhere, a luxury desert camp.
-- **Main items:** two overnight trains in air-conditioned berths, roughly 1,000-3,000 rupees each depending on class, train and date, a bit more on 12Go; driver 2,800-4,000 rupees a day for about ten days; Udaipur-Delhi flight 4,000-8,000 rupees; dawn boat in Varanasi 800-1,500 rupees for the boat; night in the desert 3,000-8,000 rupees per person; monument entrance fees 10,000-12,000 rupees per person in all, about 100-120 € (2026 foreigner rates, indicative). The Delhi-Varanasi train saves you a night in a hotel.
+Prices per person in a double room, intercontinental flights excluded (Italy-Delhi €450-900 round trip).
+- **Budget (€40-60 a day):** guesthouses, overnight trains in 3A, a driver shared among several people, local restaurants.
+- **Mid-range (€90-140 a day):** heritage hotels on the river and in havelis, overnight trains in 2A, a driver for all of Rajasthan, licensed guides for the Taj and the forts.
+- **High-end (from €250 a day):** palace hotels, private driver and guides everywhere, a luxury desert camp.
+- **Main items:** two overnight trains in air-conditioned berths, roughly 1,000-3,000 rupees each depending on class, train and date, a bit more on 12Go; driver 2,800-4,000 rupees a day for about ten days; Udaipur-Delhi flight 4,000-8,000 rupees; dawn boat in Varanasi 800-1,500 rupees for the boat; night in the desert 3,000-8,000 rupees per person; monument entrance fees 10,000-12,000 rupees per person in all, about €100-120 (2026 foreigner rates, indicative). The Delhi-Varanasi train saves you a night in a hotel.
 
 ## Common scams and safety
 - **Varanasi, wood for the poor:** at Manikarnika a man offers to explain the cremations, takes you up to a terrace and then asks for a donation for wood for the sick in the hospice. Watch on your own, from a distance, and say no.

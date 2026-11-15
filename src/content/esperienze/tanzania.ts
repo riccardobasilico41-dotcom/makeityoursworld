@@ -2,7 +2,7 @@ import type { Esperienza } from '@/lib/types'
 
 // Esperienze della Tanzania. L'unico ricordo di Rick è sul safari in tenda con
 // Suricata Safaris (che consiglia): miaEsperienza c'è solo lì. Le altre schede
-// sono guida pratica su fonti verificate (tariffe ufficiali NCAA, novembre 2026).
+// sono guida pratica su fonti verificate (novembre 2026).
 
 export const esperienzeTanzania: Esperienza[] = [
   {

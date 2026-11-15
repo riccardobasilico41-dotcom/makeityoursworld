@@ -2,7 +2,7 @@ import { IntroFiligrane } from '@/components/IntroFiligrane'
 import { IMMAGINI_INTRO } from '@/content/intro-immagini'
 import { SALTA_INTRO } from '@/lib/intro-salta'
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+import { classiHtml } from "../caratteri";
 import "../globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -14,31 +14,6 @@ import { lang } from "next/root-params";
 import { LINGUE, LOCALE, isLingua } from "@/lib/i18n/config";
 import { LinguaProvider } from "@/lib/i18n/LinguaProvider";
 import { SITO } from "@/lib/i18n/sito";
-
-// Stile A "Ghat": grotesk espressivo per i titoli, grotesk sobrio per il testo.
-// Font variabili ospitati sul sito (src/app/fonts): niente richieste a Google, niente errori di build.
-const bricolage = localFont({
-  src: "../fonts/BricolageGrotesque-normal-500-800.woff2",
-  variable: "--font-bricolage",
-  weight: "500 800",
-  display: "swap",
-});
-
-const schibsted = localFont({
-  src: "../fonts/SchibstedGrotesk-normal-400-700.woff2",
-  variable: "--font-schibsted",
-  weight: "400 700",
-  display: "swap",
-});
-
-// Macchina da scrivere solo per il marchio, come il titolo del video «Runaway».
-// Su Mac e iPhone si usa American Typewriter (lo stesso del video), altrove Courier Prime.
-const courierPrime = localFont({
-  src: "../fonts/CourierPrime-700-latin.woff2",
-  variable: "--font-courier-prime",
-  weight: "700",
-  display: "swap",
-});
 
 export async function generateMetadata(): Promise<Metadata> {
   const l = await lang();
@@ -92,7 +67,7 @@ export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
     <html
       lang={LOCALE[lingua].html}
       suppressHydrationWarning
-      className={`${bricolage.variable} ${schibsted.variable} ${courierPrime.variable} h-full antialiased`}
+      className={classiHtml}
     >
       <body className="flex min-h-full flex-col bg-cream font-sans text-ink">
         {/* senza JavaScript le animazioni d'ingresso non partono: il contenuto resta visibile */}

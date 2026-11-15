@@ -263,25 +263,25 @@ export const destinazioniInghilterra: Destinazione[] = [
         "nome": "South Bank and Southwark",
         "perChi": "anyone who wants everything on foot",
         "testo": "On the south bank, close to the river, Borough Market and Westminster.",
-        "fascia": "200-350 €"
+        "fascia": "€200-350"
       },
       {
         "nome": "Bloomsbury",
         "perChi": "anyone who wants the centre at slightly lower prices",
         "testo": "Close to the British Museum and the King's Cross and Euston stations.",
-        "fascia": "160-280 €"
+        "fascia": "€160-280"
       },
       {
         "nome": "Paddington",
         "perChi": "anyone continuing to Oxford, the Cotswolds or Bath",
         "testo": "Trains to the west leave from here, and there is the Elizabeth line to Heathrow.",
-        "fascia": "140-250 €"
+        "fascia": "€140-250"
       },
       {
         "nome": "Covent Garden and the West End",
         "perChi": "those who want theatres and nightlife on the doorstep",
         "testo": "The very centre, with everything walkable and the Tube everywhere. The most expensive area and the noisiest at night.",
-        "fascia": "250-450 €"
+        "fascia": "€250-450"
       }
     ],
     gite: [

@@ -6,26 +6,26 @@ import type { Lingua } from '@/lib/i18n/config'
 
 const T = {
   it: {
-    eyebrow: 'The face behind the project',
+    eyebrow: 'Il volto dietro il progetto',
     titolo: 'Sono Riccardo, per gli amici Rick.',
     alt: 'Riccardo Basilico sorride con la macchina fotografica in spalla davanti al Taj Mahal di Agra',
     ruoli: [
       {
-        nome: 'Health professional',
+        nome: 'Professionista sanitario',
         testo:
           "Di mestiere sono osteopata: Master of Science in Osteopathy all'ICOM di Milano, tra i titolari della Polimedica Sant'Egidio di Saronno. Ho seguito atleti dal calcio giovanile alle ultramaratone, e in Perù ho fatto volontariato con Osteopathy Without Borders.",
       },
       {
-        nome: 'Almost-entrepreneur',
+        nome: 'Quasi imprenditore',
         testo:
           "Tra lo studio e i progetti digitali per la sanità c'è sempre un'idea nuova da far partire: alcune sono già diventate software che usiamo ogni giorno.",
       },
       {
-        nome: 'Adrenaline junkie',
+        nome: 'Dipendente da adrenalina',
         testo: "Se c'è una cresta da salire, un fondale da esplorare o un salto da fare, voglio provarlo almeno una volta.",
       },
     ],
-    soprattutto: 'Ma soprattutto, traveller.',
+    soprattutto: 'Ma soprattutto, viaggiatore.',
     diario:
       'Questo sito è il mio diario di viaggio: itinerari giorno per giorno, prezzi pagati, errori fatti e tappe che non valevano la sosta, scritti perché servano a chi quel viaggio lo deve ancora organizzare.',
   },
@@ -54,7 +54,7 @@ const T = {
       "This site is my travel journal: day-by-day itineraries, prices I paid, mistakes I made and stops that weren't worth it, written to help anyone who still has that trip to plan.",
   },
   es: {
-    eyebrow: 'La cara detrás del proyecto',
+    eyebrow: 'El rostro detrás del proyecto',
     titolo: 'Soy Riccardo, para los amigos Rick.',
     alt: 'Riccardo Basilico sonríe con la cámara al hombro delante del Taj Mahal de Agra',
     ruoli: [

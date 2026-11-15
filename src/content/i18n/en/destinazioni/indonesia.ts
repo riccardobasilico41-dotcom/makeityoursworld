@@ -249,13 +249,13 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Bukit Lawang",
         perChi: "anyone doing the trek",
         testo: "Guesthouses along the Bohorok river. Simple and convenient for an early start.",
-        fascia: "10-40 €"
+        fascia: "€10-40"
       },
       {
         nome: "Tuk Tuk (Samosir)",
         perChi: "anyone going to Lake Toba",
         testo: "Homestays and guesthouses on the Tuk Tuk peninsula, on the lake. Quiet, low cost.",
-        fascia: "12-45 €"
+        fascia: "€12-45"
       },
       {
         nome: "Berastagi",
@@ -266,7 +266,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Bukittinggi, around the Jam Gadang",
         perChi: "anyone touring West Sumatra",
         testo: "Hotels and homestays in the center, with restaurants on foot and day trips to Harau and Maninjau.",
-        fascia: "15-60 €"
+        fascia: "€15-60"
       }
     ],
     sapori: [
@@ -691,7 +691,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     comeSpostarsi:
       "Rented scooter (international license recommended, frequent checks) or private driver/Grab for longer trips.",
     periodoMigliore: "April-October, dry season",
-    costi: "They vary a lot: it is one of the Indonesian destinations with the widest choice, both budget and high-end. Budget: about 30-40 € a day with guesthouses, warungs and a scooter (60,000-100,000 IDR a day). Mid-range: 80-120 € with a villa or boutique hotel and a few days with a driver (300,000-600,000 IDR per trip). High: over 200 € with resorts and a full-time driver. Tourist levy 150,000 IDR per person.",
+    costi: "They vary a lot: it is one of the Indonesian destinations with the widest choice, both budget and high-end. Budget: about €30-40 a day with guesthouses, warungs and a scooter (60,000-100,000 IDR a day). Mid-range: €80-120 with a villa or boutique hotel and a few days with a driver (300,000-600,000 IDR per trip). High: over €200 with resorts and a full-time driver. Tourist levy 150,000 IDR per person.",
     erroriDaEvitare: [
       "Renting a scooter without an international license: checks are frequent and fines are steep",
       "Underestimating the traffic between Canggu and Seminyak at rush hour",
@@ -706,7 +706,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "From Denpasar or the south by car with a driver or by scooter: times depend heavily on traffic. The rice fields are visited on foot.",
         quando: "In the morning, before the groups.",
         tempo: "1 day",
-        costo: "Tegalalang about 25,000 IDR, about 1.5 €, depending on the access point; swings extra.",
+        costo: "Tegalalang about 25,000 IDR, about €1.5, depending on the access point; swings extra.",
         lat: -8.4335,
         lng: 115.279,
         consiglio: "Head a little inland and you find the flower offerings in front of houses and temples in daily use again.",
@@ -717,7 +717,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "On foot from central Ubud.",
         quando: "In the morning.",
         tempo: "1 hour",
-        costo: "About 130,000 IDR for foreign adults since April 2026, about 7 €.",
+        costo: "About 130,000 IDR for foreign adults since April 2026, about €7.",
         orari: "Daily, about 9:00-18:00.",
         lat: -8.5188,
         lng: 115.2585,
@@ -730,7 +730,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "From Canggu or Seminyak by car or scooter; allow extra time for traffic. There are macaques everywhere.",
         quando: "At sunset.",
         tempo: "2-3 hours",
-        costo: "Temple about 50,000 IDR, about 3 €; Kecak about 150,000 IDR, about 8 €, separate ticket.",
+        costo: "Temple about 50,000 IDR, about €3; Kecak about 150,000 IDR, about €8, separate ticket.",
         orari: "The Kecak starts every evening around 18:00; in peak months seats sell out.",
         lat: -8.8291,
         lng: 115.0849,
@@ -752,7 +752,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "With a local guide, in practice mandatory, starting from Toya Bungkah or nearby villages; many agencies pick you up at your hotel between 2 and 3 a.m.",
         quando: "Leave in the middle of the night to be at the top for sunrise.",
         tempo: "Half a day",
-        costo: "Permit about 100,000 IDR per person, about 5.5 €, plus the guide.",
+        costo: "Permit about 100,000 IDR per person, about €5.5, plus the guide.",
         lat: -8.242,
         lng: 115.375,
         consiglio: "Bring a jacket: it is cold at the top.",
@@ -763,7 +763,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "About 30-40 minutes by car north of Ubud, towards Tampaksiring. Pair it with Tegalalang.",
         quando: "At opening time, before the groups; on ceremony days the pools may be reserved for worshippers.",
         tempo: "1-1.5 hours",
-        costo: "About 75,000 IDR for foreign adults, about 4 € (2026); sarong lent or rented.",
+        costo: "About 75,000 IDR for foreign adults, about €4 (2026); sarong lent or rented.",
         orari: "Daily, about 8:00-18:00.",
         lat: -8.4155,
         lng: 115.3153,
@@ -784,7 +784,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "About 2 hours by car from Ubud. Private cars are left at the terminal, then a mandatory shuttle takes you to the entrance.",
         quando: "At dawn, when the queue is shortest and Agung is clearest.",
         tempo: "Half a day including the journey",
-        costo: "About 100,000 IDR plus 50,000 for the return shuttle, about 8 € in total (2026), cash only; sarong included.",
+        costo: "About 100,000 IDR plus 50,000 for the return shuttle, about €8 in total (2026), cash only; sarong included.",
         lat: -8.3915,
         lng: 115.6305,
         consiglio: "The \"mirror\" reflection in the photos is the photographer's trick with a piece of glass: there is no lake.",
@@ -802,7 +802,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Sidemen",
         testo: "A valley of rice terraces at the foot of Gunung Agung, less touristy than Tegalalang, with villages of songket weavers. There is no monument to tick off: you walk among the fields and stop at a warung with a view of the volcano.",
-        come: "From Ubud about 1h15-1h30 by road, by scooter or with a driver (return about 350,000 IDR, about 20 €).",
+        come: "From Ubud about 1h15-1h30 by road, by scooter or with a driver (return about 350,000 IDR, about €20).",
         quando: "Early morning or late afternoon.",
         tempo: "Half a day, or a night",
         lat: -8.48,
@@ -825,7 +825,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "About 1.5-2 hours by car from Ubud; pair it with Ulun Danu Beratan.",
         quando: "In the morning, before the heat; before the harvest the terraces are green.",
         tempo: "2-3 hours",
-        costo: "About 75,000 IDR for foreigners, about 4 €.",
+        costo: "About 75,000 IDR for foreigners, about €4.",
         lat: -8.37,
         lng: 115.131,
       },
@@ -835,7 +835,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "By car, in the Bedugul area, on the road between the south and Munduk or Lovina.",
         quando: "Early morning, when the lake is still.",
         tempo: "1 hour",
-        costo: "About 100,000 IDR for foreigners since July 2026, about 5.5 €, cash or card.",
+        costo: "About 100,000 IDR for foreigners since July 2026, about €5.5, cash or card.",
         lat: -8.2752,
         lng: 115.1668,
       },
@@ -911,25 +911,25 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Ubud",
         perChi: "those looking for culture and rice fields",
         testo: "The cultural heart, with guesthouses among the fields. Very touristy by day.",
-        fascia: "35-150 €",
+        fascia: "€35-150",
       },
       {
         nome: "Canggu",
         perChi: "those looking for surf and nightlife",
         testo: "Bars, cafés and black-sand beaches. Heavy traffic and concrete.",
-        fascia: "50-180 €",
+        fascia: "€50-180",
       },
       {
         nome: "Uluwatu",
         perChi: "those looking for cliffs and relative calm",
         testo: "Beaches below the cliffs and sunsets. Quieter but far from everything.",
-        fascia: "60-250 €",
+        fascia: "€60-250",
       },
       {
         nome: "Sanur or Nusa Dua",
         perChi: "families",
         testo: "A quieter pace and sheltered sea. Boats to the Nusa islands leave from Sanur.",
-        fascia: "50-250 €",
+        fascia: "€50-250",
       },
     ],
     sapori: [
@@ -988,7 +988,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         domanda: "What do you need to enter Bali?",
-        risposta: "A passport valid for six months, an online e-VOA (about 500,000 IDR, about 35 €), the All Indonesia Arrival Card and the 150,000 IDR Love Bali tourist levy, paid online at lovebali.baliprov.go.id.",
+        risposta: "A passport valid for six months, an online e-VOA (about 500,000 IDR, about €35), the All Indonesia Arrival Card and the 150,000 IDR Love Bali tourist levy, paid online at lovebali.baliprov.go.id.",
       },
       {
         domanda: "Scooter or driver in Bali?",
@@ -2482,7 +2482,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     periodoMigliore:
       "May to early September for the Siberut jungle, May-September for the biggest swells; from November to January it rains a lot",
     costi:
-      "jungle stays with local operators are sold as packages, prices from the operator; surfers pay a compulsory surf tax, with the amount to be checked at booking. Budget: about €50-70 a day with simple homestays on Sipora and the public ferry. Mid-range: €100-150 with a better homestay, a few shared boat trips and the Siberut jungle package (from €480 per person for 6 days with a stop on Sipora). High: over €250 with a resort or surf camp and a private boat, which costs roughly 1,500,000-3,000,000 IDR a day (about €85-170).",
+      "jungle stays with local operators are sold as packages, prices from the operator; surfers pay a compulsory surf tax, with the amount given at booking. Budget: about €50-70 a day with simple homestays on Sipora and the public ferry. Mid-range: €100-150 with a better homestay, a few shared boat trips and the Siberut jungle package (from €480 per person for 6 days with a stop on Sipora). High: over €250 with a resort or surf camp and a private boat, which costs roughly 1,500,000-3,000,000 IDR a day (about €85-170).",
     erroriDaEvitare: [
       "Treating the visit as a show: you are a guest in a family's home, you ask permission before every photo and you don't pay for poses or costumes",
       "Leaving without buffer days: with a red Syahbandar flag the ferries don't go out",
@@ -2637,13 +2637,13 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Sipora homestays",
         perChi: "anyone after sea and a few boat trips",
         testo: "Simple places along the coast, between Tuapejat and the south of the island. Best to pick one with the boat transfer included.",
-        fascia: "40-85 €"
+        fascia: "€40-85"
       },
       {
         nome: "Sipora surf camps",
         perChi: "surfers",
         testo: "Dedicated facilities, with boats for the breaks.",
-        fascia: "from 220 €"
+        fascia: "from €220"
       }
     ],
     sapori: [

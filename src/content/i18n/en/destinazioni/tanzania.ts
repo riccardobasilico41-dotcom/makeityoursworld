@@ -184,7 +184,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "You drive down a steep road in a 4x4 with a guide. Each descent pays a per-vehicle fee.",
         "quando": "Dawn: the first vehicles enter early and find the crater emptier.",
         "tempo": "Half a day",
-        "costo": "USD 70.80 per person per 24 hours for non-residents aged 16+ (USD 23.60 aged 5-15), plus USD 295 per vehicle for each crater descent (NCAA tariffs, 2026)",
+        "costo": "USD 70.80 per person per 24 hours for non-residents aged 16+ (USD 23.60 aged 5-15), plus USD 295 per vehicle for each crater descent (2026)",
         "url": "https://www.ncaa.go.tz/tariffs/",
         "consiglio": "The crater fee is per vehicle: it weighs more on small groups."
       },
@@ -195,7 +195,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "quando": "Morning.",
         "tempo": "1 hour",
         "url": "https://www.ncaa.go.tz/tariffs/",
-        "costo": "USD 35.40 per person aged 16+, together with Shifting Sand (NCAA tariff, 2026)"
+        "costo": "USD 35.40 per person aged 16+, together with Shifting Sand (2026)"
       },
       {
         "nome": "Maasai boma",
@@ -204,7 +204,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "quando": "Morning.",
         "tempo": "1 hour",
         "consiglio": "Ask in advance what is included and how much goes to the villages.",
-        "costo": "Entry to the cultural bomas USD 20 per vehicle (NCAA tariff, 2026), plus what the village asks"
+        "costo": "Entry to the cultural bomas USD 20 per vehicle (2026), plus what the village asks"
       }
     ],
     programmi: [
@@ -286,7 +286,7 @@ export const destinazioniTanzania: Destinazione[] = [
     comeArrivare: 'From Arusha by 4x4: they are the two parks of the northern circuit closest to the city.',
     comeSpostarsi: 'By 4x4 with a driver-guide.',
     periodoMigliore: 'June to October, when animals gather around the water',
-    costi: 'Approximate entry of about $50-60 per person every 24 hours for each park (TANAPA rates as reported by operators, to be checked).',
+    costi: 'Approximate entry of about $50-60 per person every 24 hours for each park (indicative TANAPA rates: ask your operator to confirm).',
     erroriDaEvitare: [
       'Skipping Tarangire to rush to the Serengeti: in the dry season it\'s worth the trip on its own',
     ],

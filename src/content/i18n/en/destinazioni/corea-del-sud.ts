@@ -399,7 +399,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     periodoMigliore:
       "all year, with the clear days of fall and winter offering the best visibility from the Dora Observatory. Visits are normally suspended on Monday and national holidays, and can be canceled without notice for military drills or diplomatic tensions.",
     costi:
-      "Standard tour roughly 50-90€ per person from Seoul, often with lunch included; the tour with the JSA, when available, costs quite a bit more because of the authorization procedures.",
+      "Standard tour roughly €50-90 per person from Seoul, often with lunch included; the tour with the JSA, when available, costs quite a bit more because of the authorization procedures.",
     erroriDaEvitare: [
       "Forgetting your passport: without the original you don't pass the checkpoint, and copies or photos don't count",
       "Booking at the last minute: the standard tour should be taken days ahead, the JSA weeks ahead, because passport data must be transmitted in advance for military authorization",
@@ -417,7 +417,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
           {
             nome: 'Standard DMZ tour',
             sintesi: "Imjingak, Third Infiltration Tunnel, Dora Observatory, Dorasan station. Half a day or a full day from Seoul.",
-            costo: 'roughly 50-90€, lunch often included',
+            costo: 'roughly €50-90, lunch often included',
             durata: '5-8 hours with transfers',
             pro: [
               "Available practically always, with daily departures",
@@ -840,7 +840,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         quando: "In the hot hours or when it rains.",
         tempo: "2 hours",
         costo: "free",
-        orari: "10am-6pm; closed on 1 January, Seollal and Chuseok (official site).",
+        orari: "10am-6pm; closed on 1 January, Seollal and Chuseok.",
         url: "https://gyeongju.museum.go.kr/",
         lat: 35.82898,
         lng: 129.22836,
@@ -939,25 +939,25 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         nome: "Historic center",
         perChi: "For those who want to get around by bike",
         testo: "A flat center with the sites close by.",
-        fascia: "50-120 €",
+        fascia: "€50-120",
       },
       {
         nome: "Hwangnidan-gil",
         perChi: "those who want to sleep in a hanok",
         testo: "Hanok guesthouses, cafés and restaurants west of the tumuli, with all the central sites on foot or by bike. Prices rise at weekends.",
-        fascia: "60-150 €",
+        fascia: "€60-150",
       },
       {
         nome: "Bomun",
         perChi: "those travelling by car who want a resort",
         testo: "The big hotels on the lake, with pools and spas. Convenient by car, far from the historic centre without transport.",
-        fascia: "90-220 €",
+        fascia: "€90-220",
       },
       {
         nome: "Bus terminal area",
         perChi: "those arriving by bus on a budget",
         testo: "Motels and small hotels near the express bus terminal, a 10-15-minute walk from the tumuli.",
-        fascia: "40-80 €",
+        fascia: "€40-80",
       },
     ],
     sapori: [
@@ -1056,7 +1056,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     comeSpostarsi: "Subway with four lines and T-money; buses for Gamcheon and Haedong Yonggungsa, which aren't served by the metro.",
     periodoMigliore:
       "May-June and September-October. July and August are beach season and Haeundae becomes a carpet of umbrellas; in October the international film festival is held, the most important in Asia.",
-    costi: "Almost everything is free or nearly so: Gamcheon is free to walk around, the temple is free, markets are markets; the UN cemetery and Beomeosa are free too. Busan Tower about 12,000 won; KTX Seoul-Busan around 40 €. Indicative daily budget per person: low 40-60 € (guesthouse, metro, gukbap and markets); mid 90-140 € (hotel in Haeundae or Seomyeon, fish at Jagalchi, Blueline Park); high 250 € and up (seafront hotel in Haeundae, seafood dinners).",
+    costi: "Almost everything is free or nearly so: Gamcheon is free to walk around, the temple is free, markets are markets; the UN cemetery and Beomeosa are free too. Busan Tower about 12,000 won; KTX Seoul-Busan around €40. Indicative daily budget per person: low €40-60 (guesthouse, metro, gukbap and markets); mid €90-140 (hotel in Haeundae or Seomyeon, fish at Jagalchi, Blueline Park); high €250 and up (seafront hotel in Haeundae, seafood dinners).",
     erroriDaEvitare: [
       "Treating Gamcheon as a backdrop for photographs: it's an inhabited neighborhood, with elderly people living in those houses, and the signs asking for silence should be respected",
       "Going to Haedong Yonggungsa on the weekend, when the path on the rocks is walked in single file",
@@ -1169,7 +1169,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         come: "On foot or by escalator from Gwangbok-ro, near Nampo metro.",
         quando: "At sunset, when the city lights up.",
         tempo: "1 hour",
-        costo: "About 12,000 won (about 7 €, 2026)",
+        costo: "About 12,000 won (about €7, 2026)",
         orari: "10:00-22:00, last entry at 21:30",
         lat: 35.1013,
         lng: 129.03223,
@@ -1202,9 +1202,9 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       { titolo: "3 days: add Yeongdo and the temples", tappe: ["Days 1-2: as above", "Day 3: dawn at Haedong Yonggungsa", "Beomeosa in the late morning", "Afternoon on Yeongdo: Huinnyeoul and Taejongdae"] },
     ],
     zone: [
-      { nome: "Haeundae", perChi: "Those who want the beach", testo: "Tourist area with seafront hotels in every price range, Blueline Park within walking distance and skyscrapers behind. It's far from the harbour: Nampo is almost an hour away by metro.", fascia: "80-180 €" },
-      { nome: "Seomyeon", perChi: "Those who want the metro and nightlife", testo: "The metro hub, with shops, nightlife and the dwaeji gukbap street: handy for getting anywhere.", fascia: "50-110 €" },
-      { nome: "Nampo-dong", perChi: "Those who want markets and the harbour", testo: "Between Jagalchi, Gukje and Busan Tower, a few minutes from Gamcheon and Yeongdo; quieter in the evening than Seomyeon.", fascia: "50-100 €" },
+      { nome: "Haeundae", perChi: "Those who want the beach", testo: "Tourist area with seafront hotels in every price range, Blueline Park within walking distance and skyscrapers behind. It's far from the harbour: Nampo is almost an hour away by metro.", fascia: "€80-180" },
+      { nome: "Seomyeon", perChi: "Those who want the metro and nightlife", testo: "The metro hub, with shops, nightlife and the dwaeji gukbap street: handy for getting anywhere.", fascia: "€50-110" },
+      { nome: "Nampo-dong", perChi: "Those who want markets and the harbour", testo: "Between Jagalchi, Gukje and Busan Tower, a few minutes from Gamcheon and Yeongdo; quieter in the evening than Seomyeon.", fascia: "€50-100" },
     ],
     sapori: [
       { nome: "Dwaeji gukbap", testo: "Pork soup served with rice, one of Busan's signature dishes." },
@@ -1223,7 +1223,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     faq: [
       { domanda: "How many days do you need in Busan?", risposta: "Two full days for the harbour, Gamcheon, the UN cemetery and the Haeundae coast; with three you can add Haedong Yonggungsa, Beomeosa and Yeongdo." },
       { domanda: "Where is the best place to stay in Busan?", risposta: "Haeundae for the beach, Seomyeon for transport and nightlife, Nampo-dong for the harbour, the markets and Gamcheon. The city is thirty kilometres long: the area you choose shapes your days." },
-      { domanda: "How do you get from Seoul to Busan?", risposta: "By KTX, just over two and a half hours, around 40 € each way. It's the busiest line in the country: book a few days ahead on the Korail app." },
+      { domanda: "How do you get from Seoul to Busan?", risposta: "By KTX, just over two and a half hours, around €40 each way. It's the busiest line in the country: book a few days ahead on the Korail app." },
       { domanda: "How do you get to Gamcheon Culture Village?", risposta: "Metro line 1 to Toseong and then local minibus 2 or 2-2 to the top. You walk down through the alleys to the lower part." },
       { domanda: "Is Haedong Yonggungsa free?", risposta: "Yes, entry is free. Go at dawn or on a weekday: at weekends you walk down the stairway in single file." },
       { domanda: "Is the UN cemetery open to visitors?", risposta: "Yes, every day and free of charge, with longer hours in summer. Take the metro to Daeyeon and then walk for a quarter of an hour." },
@@ -1426,19 +1426,19 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         nome: "Hanok in the village",
         perChi: "For those who want to sleep in a traditional house",
         testo: "Floor heated by the ondol.",
-        fascia: "50-130 €",
+        fascia: "€50-130",
       },
       {
         nome: "Around Gaeksa",
         perChi: "those who want modern hotels near the village",
         testo: "The shopping district west of Pungnammun, with hotels and restaurants a 10-minute walk from the hanok village.",
-        fascia: "40-90 €",
+        fascia: "€40-90",
       },
       {
         nome: "Station area",
         perChi: "those arriving late or leaving early by KTX",
         testo: "A few hotels near Jeonju station, 15-20 minutes by bus or taxi from the village.",
-        fascia: "40-80 €",
+        fascia: "€40-80",
       },
     ],
     sapori: [
@@ -1540,7 +1540,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       "A rental car is by far the best way: buses exist and are cheap, but they're slow, and many points on the coast are hard to reach. You need an international driving permit, to be obtained in Italy before leaving.",
     periodoMigliore:
       "April-June and September-October. Summer is crowded with domestic tourism and typhoons arrive between August and September. Winter is windy and cold: the haenyeo work in the harshest conditions and it's rarer to see them in the water.",
-    costi: "Haenyeo Museum about 1,100 won, Seongsan Ilchulbong 5,000, Manjanggul 4,000, Jeju 4·3 Peace Park free, ferry to Udo about 11,000 won return. Car hire from 40-60€ a day, more in high season. Indicative daily budget per person: low 50-70 € (guesthouse, buses, markets); mid 100-150 € (hotel, car shared between two, seafood at the cooperative stalls); high 250 € and up (resort in Jungmun, black pork and abalone dinners).",
+    costi: "Haenyeo Museum about 1,100 won, Seongsan Ilchulbong 5,000, Manjanggul 4,000, Jeju 4·3 Peace Park free, ferry to Udo about 11,000 won return. Car hire from €40-60 a day, more in high season. Indicative daily budget per person: low €50-70 (guesthouse, buses, markets); mid €100-150 (hotel, car shared between two, seafood at the cooperative stalls); high €250 and up (resort in Jungmun, black pork and abalone dinners).",
     erroriDaEvitare: [
       "Expecting to find the haenyeo in the water on demand: they go out according to tides, season and sea conditions, and during the biological closure months they don't dive. The only fixed-schedule outings are the organized demonstrations",
       "Photographing them up close without asking: they are women at work, often very elderly, not a folkloric attraction",
@@ -1629,7 +1629,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         come: "By rental car or on the east-coast buses.",
         quando: "Closed on Mondays; other hours on the official website. Morning is best, before looking for the haenyeo in the water.",
         tempo: "1.5 hours",
-        costo: "About 1,100 won (under 1 €)",
+        costo: "About 1,100 won (under €1)",
         lat: 33.52358,
         lng: 126.86342,
         consiglio: "Go there before looking for the haenyeo in the water: you understand what you're watching.",
@@ -1640,7 +1640,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         come: "By car or bus from Jeju city, then a climb of about twenty minutes up steps to the crater. At the foot of the cone, depending on the tides, there's the haenyeo diving demonstration.",
         quando: "At dawn: the name means 'sunrise peak'.",
         tempo: "2 hours",
-        costo: "About 5,000 won (about 3 €)",
+        costo: "About 5,000 won (about €3)",
         orari: "Closed on the first Monday of the month",
         url: "https://www.visitjeju.net/",
         lat: 33.45889,
@@ -1757,9 +1757,9 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       { titolo: "4 days: the full loop", tappe: ["Day 1: haenyeo and Seongsan", "Day 2: Udo and Manjanggul", "Day 3: Hallasan", "Day 4: Jeju 4·3 Peace Park, then the south and west coasts"] },
     ],
     zone: [
-      { nome: "Jeju city", perChi: "Those who want transport links", testo: "Convenient for the airport and the island buses, with Dongmun Market and black pork restaurants.", fascia: "50-100 €" },
-      { nome: "Seongsan and the east coast", perChi: "Those coming for the haenyeo and the sunrise", testo: "Guesthouses and small hotels between Seongsan port and the coastal villages: the base for the cone at dawn, Udo and the dives.", fascia: "50-110 €" },
-      { nome: "Seogwipo", perChi: "Those who want the south", testo: "Quieter, on the south side, near the waterfalls, Jungmun and the Sanbangsan coast.", fascia: "60-130 €" },
+      { nome: "Jeju city", perChi: "Those who want transport links", testo: "Convenient for the airport and the island buses, with Dongmun Market and black pork restaurants.", fascia: "€50-100" },
+      { nome: "Seongsan and the east coast", perChi: "Those coming for the haenyeo and the sunrise", testo: "Guesthouses and small hotels between Seongsan port and the coastal villages: the base for the cone at dawn, Udo and the dives.", fascia: "€50-110" },
+      { nome: "Seogwipo", perChi: "Those who want the south", testo: "Quieter, on the south side, near the waterfalls, Jungmun and the Sanbangsan coast.", fascia: "€60-130" },
     ],
     sapori: [
       { nome: "Black pork", testo: "Grilled Jeju black pork, one of the island's best-known dishes." },

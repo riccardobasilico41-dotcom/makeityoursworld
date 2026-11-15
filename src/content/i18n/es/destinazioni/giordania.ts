@@ -1352,7 +1352,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "quando": "Un recorrido de 4-6 horas, con salida por la mañana o por la tarde para el atardecer.",
         "tempo": "4-6 horas",
         "costo": "Entrada al área protegida 5 JOD, unos 6 €, para extranjeros o incluida en el Jordan Pass (2026); el tour en jeep se paga aparte",
-        "orari": "Área protegida y centro de visitantes todos los días 8-17 (Jordan Pass, 2026)",
+        "orari": "Área protegida y centro de visitantes todos los días 8-17 (2026)",
         "lat": 29.5765,
         "lng": 35.41993,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",

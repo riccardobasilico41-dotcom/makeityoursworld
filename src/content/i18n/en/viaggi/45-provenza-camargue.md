@@ -24,14 +24,14 @@ We started in the Provence of the popes: in **Avignon**, the Palace of the Popes
 
 Then you walk down to the **Pont Saint-Bénezet**, the bridge of the song, broken off halfway across the Rhône, and climb to the **Rocher des Doms** garden, from where you see the river and the bridge from above. The afternoon is for the old town inside the walls, the Place de l'Horloge and the streets around Les Halles, the covered market. *In July the Festival is on: the city is beautiful and packed, and accommodation prices rise a lot.*
 
-**In practice:** Palace of the Popes about 14.50 euros, combined ticket with the bridge about 17 euros, with the bridge valid for 24 hours from the first entry · the center is walkable, so leave the car in the parking lots outside the walls · to sleep, Avignon or Saint-Rémy as a base for the first days.
+**In practice:** Palace of the Popes about €14.50, combined ticket with the bridge about €17, with the bridge valid for 24 hours from the first entry · the center is walkable, so leave the car in the parking lots outside the walls · to sleep, Avignon or Saint-Rémy as a base for the first days.
 
 ### Day 2 — Pont du Gard and Nîmes
 The **Pont du Gard** is best seen from below, and in summer with a swim in the river. Then we went on to **Nîmes**, with the Roman arena and the Maison Carrée. Get to the Pont du Gard early, when the light falls on the aqueduct and the parking lots are still empty. You cross the bridge on the lower level, go down to the bank of the Gardon to see it from below, and if you have time follow the paths through the scrub to the remains of the aqueduct and the viewpoints.
 
 The museum explains how the water reached Nîmes, along a route of about fifty kilometers with a minimal gradient. In the afternoon, half an hour away by road, **Nîmes**: the **Arena**, one of the best preserved in the Roman world, the **Maison Carrée**, an almost intact temple, and the **Jardins de la Fontaine** with the Tour Magne at the top of the hill. *On concert and feria days the arena closes to visitors: check the calendar.*
 
-**In practice:** Pont du Gard parking about 9 euros per vehicle, which covers access to the site, open from 8 a.m. to midnight · in Nîmes the pass for the Arena, Maison Carrée and Tour Magne costs about 14.50 euros, the arena alone about 11 · swim in the Gardon only in the marked areas.
+**In practice:** Pont du Gard parking about €9 per vehicle, which covers access to the site, open from 8 a.m. to midnight · in Nîmes the pass for the Arena, Maison Carrée and Tour Magne costs about €14.50, the arena alone about 11 · swim in the Gardon only in the marked areas.
 
 ### Day 3 — Arles and the Camargue
 In **Arles** there is the Roman amphitheater. In the afternoon we entered the **Camargue**, and the landscape changed: from monuments to the delta. The morning in Arles starts at the **Arena**, the Roman amphitheater that still hosts shows, and continues with the ancient theater and the cloister of **Saint-Trophime**, one of the finest in Romanesque Provence.
@@ -59,7 +59,7 @@ Their pink color comes from a microscopic alga that lives in the salt water; in 
 
 A few minutes away is the **Abbaye de Sénanque**, surrounded by lavender in July. In the afternoon **Roussillon**, the village of red and orange façades, with the **Sentier des Ocres**, a trail through the old quarries where the earth changes color at every bend. If you follow the lavender to **Valensole**, allow more than an hour by car: flowering there usually runs from late June to mid-July, a little later in Sault.
 
-**In practice:** Sentier des Ocres about 3.50 euros, thirty minutes for the short loop and an hour for the long one · closed shoes and clothes that don't mind red dust · to sleep, Gordes or Apt as a base for the Luberon.
+**In practice:** Sentier des Ocres about €3.50, thirty minutes for the short loop and an hour for the long one · closed shoes and clothes that don't mind red dust · to sleep, Gordes or Apt as a base for the Luberon.
 
 ### Day 7 — The Gorges du Verdon
 This is the surprise of the trip: few people plan it, and the **Verdon** remains one of the most spectacular landscapes in France, with water of a green that looks retouched. You can hike along the bottom of the canyon or paddle in by kayak from Lake Sainte-Croix. The day depends on which you choose. Hikers take the **Sentier Blanc-Martel**, about a dozen kilometers along the floor of the gorge, with ladders and tunnels, starting early: it takes six to seven hours and a torch for the tunnels.
@@ -73,7 +73,7 @@ The Cours Mirabeau in **Aix**, then **Marseille**: the Vieux-Port, Le Panier, th
 
 Then half an hour by road to **Marseille**. You start at the **Vieux-Port**, climb through the streets of **Le Panier**, the oldest quarter, and reach the **MuCEM**, the museum of Mediterranean civilizations, linked by a footbridge to Fort Saint-Jean. Sunset is watched from **Notre-Dame de la Garde**, the basilica on the hill. Dinner is for **bouillabaisse**. *It is an expensive dish that takes time to prepare: choose a place that serves it the traditional way, often by reservation.*
 
-**In practice:** the MuCEM is closed on Tuesdays, entry to the exhibitions about 11 euros · in Marseille leave the car in a parking garage and get around on foot, by metro or tram · there is also a bus from the Vieux-Port up to Notre-Dame de la Garde.
+**In practice:** the MuCEM is closed on Tuesdays, entry to the exhibitions about €11 · in Marseille leave the car in a parking garage and get around on foot, by metro or tram · there is also a bus from the Vieux-Port up to Notre-Dame de la Garde.
 
 ### Day 9 — The Calanques
 The **Calanques**, between Marseille and Cassis. In summer access changes day by day because of the fire risk, and it should be checked every morning. From June to September the prefecture publishes every evening, around 6 p.m., the map of access to the massifs for the next day: at red level the trails are closed to everyone. When they are open, from **Cassis** you walk to **Port-Miou**, **Port-Pin** and **En-Vau**, the last the most beautiful and the most tiring, with steep descents on rock.
@@ -87,7 +87,7 @@ If you're continuing west, finish with a Cathar castle or with **Carcassonne** i
 
 If you go straight to Carcassonne, enter the **Cité**, the fortified town on the hill, and visit the Château Comtal and the ramparts walk in the afternoon. The inner streets are full of souvenir shops, but you only need to climb onto the wall walk to be back in the Middle Ages, with the double ring of walls and the conical towers. In the evening the Cité empties of groups, and the floodlit walls are the right way to end the trip.
 
-**In practice:** the Cité is open and free at all hours, the Château Comtal and ramparts are paid, from about 13 euros · for the Cathar castles, good shoes, water and a jacket even in summer · to fly home there are the airports of Carcassonne, Toulouse and Montpellier.
+**In practice:** the Cité is open and free at all hours, the Château Comtal and ramparts are paid, from about €13 · for the Cathar castles, good shoes, water and a jacket even in summer · to fly home there are the airports of Carcassonne, Toulouse and Montpellier.
 
 ## What to see / what to do
 - The Pont du Gard, with a swim in the river.

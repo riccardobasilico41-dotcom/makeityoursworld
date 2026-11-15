@@ -60,7 +60,7 @@ The afternoon is for the Milan of the other century, according to taste:
 
 At the end of the day, the northern quadrant: **Porta Nuova** with the **Bosco Verticale**, two residential towers with hundreds of real trees on the balconies, which in summer give shade and in winter let the light through, and the walk toward **Isola**, the neighborhood with the most life in new Milan. Alternatively **CityLife**, with the three towers by Isozaki, Hadid and Libeskind and the park around them.
 
-**In practice:** Last Supper about 15 euros, by reservation only, closed on Mondays: slots are released in blocks and sell out in a few days · San Maurizio and Sant'Ambrogio free to enter, outside service times · HangarBicocca open Thursday to Sunday, by metro M5 · Fondazione Prada closed on Tuesdays, Museo del Novecento and the Monumentale closed on Mondays
+**In practice:** Last Supper about €15, by reservation only, closed on Mondays: slots are released in blocks and sell out in a few days · San Maurizio and Sant'Ambrogio free to enter, outside service times · HangarBicocca open Thursday to Sunday, by metro M5 · Fondazione Prada closed on Tuesdays, Museo del Novecento and the Monumentale closed on Mondays
 
 ## The One-Day Version
 One day in Milan works very well, better than in almost any other Italian city, because the center is compact and the metro is fast. The program:

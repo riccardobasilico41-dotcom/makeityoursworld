@@ -14,7 +14,7 @@ export const esperienzeSingapore: Esperienza[] = [
     durata: 'one meal, to be repeated every day',
     periodo:
       "all year. During Chinese New Year many family-run stalls close for days: it's the only time the system stops.",
-    costo: 'roughly 4-8 SGD per dish, that is 3-6 euros for a full meal',
+    costo: 'roughly 4-8 SGD per dish, that is €3-6 for a full meal',
     comePrenotare:
       "Nothing to book. The method for choosing is trivial and works: you look at which stall has the longest line and get in line. Many stalls accept only cash or local digital payments, but cards are becoming the norm here too.",
     cosaPortare:

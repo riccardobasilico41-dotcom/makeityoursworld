@@ -196,11 +196,11 @@ export const cinaClassicaMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Intercontinental flights', valore: undefined },
-    { etichetta: 'High-speed trains (3 long legs)', valore: "roughly 40-90€ per leg in second class" },
+    { etichetta: 'High-speed trains (3 long legs)', valore: "roughly €40-90 per leg in second class" },
     { etichetta: 'Flight or train Shanghai-Hong Kong', valore: undefined },
-    { etichetta: 'Lodging', valore: "40-70€ a night in mainland China, much more in Hong Kong" },
+    { etichetta: 'Lodging', valore: "€40-70 a night in mainland China, much more in Hong Kong" },
     { etichetta: 'Main admissions', valore: "Forbidden City ~60 yuan, Terracotta Army ~120, Xi'an walls 54, Suzhou gardens 30-80 each" },
     { etichetta: 'Ferry to Macau', valore: '160-200 HKD each way' },
-    { etichetta: 'Meals', valore: "4-10€ a meal in mainland China, pricier in Hong Kong" },
+    { etichetta: 'Meals', valore: "€4-10 a meal in mainland China, pricier in Hong Kong" },
   ],
 }

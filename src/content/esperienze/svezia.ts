@@ -26,7 +26,7 @@ export const esperienzeSvezia: Esperienza[] = [
     durata: 'in inverno la seggiovia resta aperta fino all\'1:00; una visita «mordi e fuggi» dura un\'ora o due, ma si può restare tutta la sera',
     periodo: 'stagione invernale, indicativamente da metà settembre a metà aprile',
     costo:
-      'Solo seggiovia: circa 350-450 SEK a persona (35-40€ circa), biglietto in loco o online. Pacchetto «notte in quota» con guida: pernottamento in camerata con sacco a pelo, colazione, cena, tuta termica, sauna e seggiovia inclusi, circa 2.990 SEK a persona (270-310€ circa), solo il venerdì e su prenotazione.',
+      'Solo seggiovia: circa 350-450 SEK a persona (35-40 € circa), biglietto in loco o online. Pacchetto «notte in quota» con guida: pernottamento in camerata con sacco a pelo, colazione, cena, tuta termica, sauna e seggiovia inclusi, circa 2.990 SEK a persona (270-310 € circa), solo il venerdì e su prenotazione.',
     comePrenotare: 'Il biglietto della seggiovia si compra direttamente allo STF Abisko Turiststation o online sul sito di Visit Abisko/STF; il pacchetto con cena e pernottamento va prenotato con anticipo, perché i posti sono limitati.',
     cosaPortare: 'Strati pesanti, anche se il tragitto è breve: in cima, aspettando l\'aurora, si sta fermi all\'aperto anche a lungo. Guanti pesanti e un termos con qualcosa di caldo aiutano.',
     perChiEAdatta: 'Chiunque alloggi ad Abisko, senza difficoltà fisiche: si sale in seggiovia, non a piedi.',
@@ -50,7 +50,7 @@ export const esperienzeSvezia: Esperienza[] = [
     durata: 'dalle 2 ore della versione guidata «in slitta trainata» fino a mezza giornata per i tour self-drive più lunghi',
     periodo: 'inverno, quando il lago è completamente ghiacciato, indicativamente dicembre-aprile',
     costo:
-      'Da circa 100-110€ a persona per il tour guidato in slitta trainata di 2 ore; i tour self-drive con motoslitta propria costano di più (in genere 150-250€ a seconda della durata e se si guida in solitaria o in coppia sullo stesso mezzo).',
+      'Da circa 100-110 € a persona per il tour guidato in slitta trainata di 2 ore; i tour self-drive con motoslitta propria costano di più (in genere 150-250 € a seconda della durata e se si guida in solitaria o in coppia sullo stesso mezzo).',
     comePrenotare: 'Tour di operatori locali (per esempio Activities in Abisko), prenotabili online, con ritiro o punto d\'incontro in paese; per il self-drive serve la patente.',
     cosaPortare: 'Tuta termica e casco di solito li fornisce l\'operatore, ma conviene chiederlo quando si prenota; i propri guanti pesanti servono sempre.',
     perChiEAdatta: 'La versione guidata (in slitta trainata) non richiede esperienza; per il self-drive servono la patente e un minimo di attenzione, ma non serve aver già guidato una motoslitta.',
@@ -74,7 +74,7 @@ export const esperienzeSvezia: Esperienza[] = [
     durata: 'un\'escursione base dura circa 1-2 ore di guida vera e propria; con ritiro e riconsegna in paese la serata occupa 3-4 ore',
     periodo: 'stagione invernale, indicativamente da dicembre ad aprile',
     costo:
-      '240€ a persona per il tour serale con caccia all\'aurora (la cifra del preventivo del viaggio); le versioni più brevi o diurne («panorama husky hike») partono da circa 70€, quelle self-drive più lunghe possono superare i 250€.',
+      '240 € a persona per il tour serale con caccia all\'aurora (la cifra del preventivo del viaggio); le versioni più brevi o diurne («panorama husky hike») partono da circa 70 €, quelle self-drive più lunghe possono superare i 250 €.',
     comePrenotare: 'Tour organizzato con guida, con ritiro direttamente allo STF Abisko Turiststation; conviene esserci circa 45 minuti prima della partenza. Nel periodo di Capodanno, quando la richiesta è più alta, meglio prenotare con un po\' di anticipo.',
     cosaPortare: 'Strati pesanti, guanti e sottoguanti: nella versione «passeggero» si resta immobili sulla slitta per buona parte del tempo, e il freddo si sente più che nel self-drive, dove ci si muove.',
     perChiEAdatta: 'La versione con musher va bene per chiunque, senza difficoltà fisiche; il self-drive richiede un minimo di equilibrio ma nessuna esperienza.',
@@ -99,7 +99,7 @@ export const esperienzeSvezia: Esperienza[] = [
     durata: 'la sola visita richiede un\'ora o due; chi pernotta ha accesso gratuito e illimitato alla struttura di ghiaccio per tutto il soggiorno',
     periodo: 'la versione stagionale di ghiaccio è aperta indicativamente da dicembre ad aprile; la versione permanente ICEHOTEL 365 tutto l\'anno',
     costo:
-      'Ingresso giornaliero (solo visita): circa 349 SEK adulti (31€ circa), 249 SEK studenti/over 65 (22€ circa), 125 SEK bambini 7-15 anni (11€ circa), gratis sotto i 7. Pernottamento in una camera di ghiaccio «cold»: circa 3.995 SEK a notte per 2 persone (350€ circa); una suite d\'artista: circa 4.995 SEK a notte per 2 persone (440€ circa). Chi dorme in una camera fredda ha comunque diritto a un letto in una camera calda per il resto della notte, incluso nel prezzo.',
+      'Ingresso giornaliero (solo visita): circa 349 SEK adulti (31 € circa), 249 SEK studenti/over 65 (22 € circa), 125 SEK bambini 7-15 anni (11 € circa), gratis sotto i 7. Pernottamento in una camera di ghiaccio «cold»: circa 3.995 SEK a notte per 2 persone (350 € circa); una suite d\'artista: circa 4.995 SEK a notte per 2 persone (440 € circa). Chi dorme in una camera fredda ha comunque diritto a un letto in una camera calda per il resto della notte, incluso nel prezzo.',
     comePrenotare: 'Il biglietto d\'ingresso si compra in loco, senza prenotare; il pernottamento invece va prenotato con largo anticipo sul sito ufficiale, soprattutto per Capodanno.',
     cosaPortare: 'Per chi pernotta: il sacco a pelo termico lo fornisce la struttura, ma conviene avere un cambio caldo per la mattina.',
     perChiEAdatta: 'A chi vuole un\'esperienza estrema anche solo per una notte, oppure a chi preferisce una visita guidata e dormire altrove (per esempio a Kiruna, come abbiamo fatto noi).',
@@ -119,7 +119,7 @@ export const esperienzeSvezia: Esperienza[] = [
     percheFarla: 'È il modo migliore per capire cosa sta ridisegnando Kiruna, ed è un\'esperienza diversa dalle attività nella natura del resto del viaggio.',
     durata: 'circa 3 ore, incluso il trasferimento',
     periodo: 'tutto l\'anno, ma solo in giorni fissi (martedì, giovedì, venerdì, sabato); i giorni cambiano con la stagione, quindi conviene ricontrollarli',
-    costo: 'circa 590 SEK adulti (52€ circa), 490 SEK studenti/over 65 (43€ circa), 190 SEK bambini 6-15 anni (17€ circa). Prezzo comprensivo di transfer, guida e pausa caffè.',
+    costo: 'circa 590 SEK adulti (52 € circa), 490 SEK studenti/over 65 (43 € circa), 190 SEK bambini 6-15 anni (17 € circa). Prezzo comprensivo di transfer, guida e pausa caffè.',
     comePrenotare: 'Prenotazione online obbligatoria tramite Kiruna Lappland: i posti sono limitati.',
     cosaPortare: 'Abbigliamento pesante anche sottoterra: la temperatura in miniera si aggira sui 10°C.',
     perChiEAdatta: 'Per sicurezza servono almeno 6 anni d\'età e 110 cm d\'altezza. In questo viaggio non l\'ho fatta.',
@@ -207,7 +207,7 @@ export const esperienzeSvezia: Esperienza[] = [
       'Per molti svedesi è l\'arcipelago a fare di Stoccolma una città «sull\'acqua». È l\'altra faccia della capitale rispetto al centro storico: casette rosse di legno, pinete, acqua bassa e trasparente.',
     durata: 'da 2-2,5 ore per un\'uscita guidata classica a una giornata intera per chi vuole toccare più isole',
     periodo: 'maggio-settembre, quando la maggior parte delle linee turistiche e dei collegamenti verso le isole minori è attiva; d\'inverno il servizio si riduce parecchio',
-    costo: 'da circa 375 SEK (35€ circa) per un\'uscita guidata di 2-2,5 ore; i traghetti pubblici Waxholmsbolaget costano meno, ma l\'itinerario te lo organizzi da solo',
+    costo: 'da circa 375 SEK (35 € circa) per un\'uscita guidata di 2-2,5 ore; i traghetti pubblici Waxholmsbolaget costano meno, ma l\'itinerario te lo organizzi da solo',
     comePrenotare: 'Tour guidati prenotabili online (per esempio Strömma) con partenza dal centro; i traghetti pubblici si prendono direttamente al molo di Strandvägen o Nybroplan, con biglietto in loco o via app',
     cosaPortare: 'Una giacca a vento anche d\'estate: in mare aperto il vento si sente più che in città',
     perChiEAdatta: 'Chiunque: le uscite guidate non hanno difficoltà fisiche; quelle in autonomia richiedono un minimo di organizzazione con gli orari dei traghetti',

@@ -32,7 +32,7 @@ export const destinazioniBolivia: Destinazione[] = [
     comeArrivare: "International and domestic flights land at El Alto (LPB), at over 4,000 metres: you go from sea level to maximum altitude in a few hours, and you feel the effects straight away. From the airport to the centre it is about 30-45 minutes by official taxi or one called by your hotel, longer with traffic or road blocks; at the airport it is best to change only a little cash and the rest in town. Overland, buses arrive from Copacabana (about 3.5-4 hours) and from Puno or Cusco via Titicaca; from Uyuni the overnight bus takes about 10 hours.",
     comeSpostarsi: 'Mi Teleférico for long trips, radio taxis for the rest. Avoid unofficial taxis, especially in the evening.',
     periodoMigliore: 'May-October, dry season; nights are cold all year',
-    costi: "Low budget about 20-35 € a day (hostel, almuerzo in the markets, cable car and minibuses); mid-range 50-90 € (hotel in Sopocachi or the centre, restaurants, radio taxis); high from 150 € (design hotel in San Jorge or Calacoto, private guide, refined dinners). Cable car 3 bolivianos per ride, less than half a euro, with a separate ticket at each line change; Valle de la Luna about 15 bolivianos; Tiwanaku about 100 bolivianos for foreigners; Death Road with a community toll of about 50 bolivianos, often not included in the price.",
+    costi: "Low budget about €20-35 a day (hostel, almuerzo in the markets, cable car and minibuses); mid-range €50-90 (hotel in Sopocachi or the centre, restaurants, radio taxis); high from €150 (design hotel in San Jorge or Calacoto, private guide, refined dinners). Cable car 3 bolivianos per ride, less than half a euro, with a separate ticket at each line change; Valle de la Luna about 15 bolivianos; Tiwanaku about 100 bolivianos for foreigners; Death Road with a community toll of about 50 bolivianos, often not included in the price.",
     erroriDaEvitare: [
       "Landing in El Alto and planning something demanding the same day: from sea level to 4,000 meters the body doesn't adapt in a few hours",
       'Underestimating road blockades: when they happen, they can isolate the city for days and cancel flights and transfers',
@@ -47,7 +47,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Stations are all over the city; you buy the ticket at the station.",
         "quando": "At sunset, when the basin lights up.",
         "tempo": "1-2 hours",
-        "costo": "3 bolivianos per ride (less than 0.50 €), with a new ticket at each line change",
+        "costo": "3 bolivianos per ride (less than €0.50), with a new ticket at each line change",
         "url": "https://www.miteleferico.bo/",
         "lat": -16.49148,
         "lng": -68.14482,
@@ -119,7 +119,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Bus or taxi to the southern part of La Paz.",
         "quando": "Morning, with better light.",
         "tempo": "1-2 hours",
-        "costo": "About 15 bolivianos (about 2 €)",
+        "costo": "About 15 bolivianos (about €2)",
         "lat": -16.56762,
         "lng": -68.09379,
         "consiglio": "At this altitude even a short walk tires you: go slowly."
@@ -128,7 +128,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "El Alto and the cholitas luchadoras",
         "testo": "El Alto's 16 de Julio fair (Thursday and Sunday) is a huge street market. In El Alto you can also watch the cholitas' wrestling, Aymara women in traditional skirts.",
         "come": "By cable car to El Alto.",
-        "quando": "The feria on Thursday and Sunday; the cholitas luchadoras usually on Sunday afternoon at the Multifuncional in El Alto, times to be checked",
+        "quando": "The feria on Thursday and Sunday; the cholitas luchadoras usually on Sunday afternoon at the Multifuncional in El Alto, times vary",
         "tempo": "Half a day",
         "lat": -16.49783,
         "lng": -68.17063,
@@ -196,19 +196,19 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "Sopocachi",
         "perChi": "Those who want restaurants and nightlife",
         "testo": "A more polished district, lower down and with bars. A few steps from the centre.",
-        "fascia": "35-100 €"
+        "fascia": "€35-100"
       },
       {
         "nome": "San Pedro and centre",
         "perChi": "Budget travellers",
         "testo": "Low prices and convenient for agencies, but more chaotic and noisy.",
-        "fascia": "15-50 €"
+        "fascia": "€15-50"
       },
       {
         "nome": "Zona Sur (San Miguel, Calacoto)",
         "perChi": "Those looking for modern hotels and lower altitude",
         "testo": "The well-off districts at the bottom of the basin, at around 3,300 metres: breathing is easier and there are modern hotels and restaurants. To reach the centre you need the cable car or a taxi.",
-        "fascia": "50-150 €"
+        "fascia": "€50-150"
       }
     ],
     sapori: [
@@ -279,7 +279,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "domanda": "When are the cholitas luchadoras on?",
-        "risposta": "Usually on Sunday afternoon at the Multifuncional in El Alto, times to be checked. Many people go with a tour that includes transport."
+        "risposta": "Usually on Sunday afternoon at the Multifuncional in El Alto, times vary. Many people go with a tour that includes transport."
       }
     ],
     esperienzeSlugs: ['carretera-de-la-muerte'],
@@ -320,7 +320,7 @@ export const destinazioniBolivia: Destinazione[] = [
     comeSpostarsi: "Only in a 4x4 with a driver, as part of the organized tour: it's not an area to explore independently.",
     periodoMigliore:
       "Two seasons, two different experiences. From May to October the salar is dry and can be crossed in full, with clear skies and freezing nights. From January to March a film of water turns it into the giant mirror of the most famous photographs, but some areas, Isla Incahuasi included, can become inaccessible.",
-    costi: "Shared 3-day tour about 200-350 dollars per person depending on the agency and category, with lodging and meals. Extra, in cash: Eduardo Avaroa reserve about 150 bolivianos (about 20 €), Isla Incahuasi about 30 bolivianos (about 4 €), Polques hot springs a few bolivianos, paid toilets along the way. A day in Uyuni costs little: low budget about 20-30 € (hostel and simple meals), mid-range 50-80 € (salt hotel or hotel in town).",
+    costi: "Shared 3-day tour about 200-350 dollars per person depending on the agency and category, with lodging and meals. Extra, in cash: Eduardo Avaroa reserve about 150 bolivianos (about €20), Isla Incahuasi about 30 bolivianos (about €4), Polques hot springs a few bolivianos, paid toilets along the way. A day in Uyuni costs little: low budget about €20-30 (hostel and simple meals), mid-range €50-80 (salt hotel or hotel in town).",
     erroriDaEvitare: [
       "Choosing the operator on price alone: vehicles and maintenance make a real difference on isolated tracks at 4,500 meters, where a breakdown is a serious problem",
       "Going in January-March expecting to see everything: with the water the mirror effect is spectacular but several stops are dropped",
@@ -347,7 +347,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A stop on the 4x4 tour from the salt flat, with a short climbing path.",
         "quando": "Dry season; in the rainy season it can become hard to reach.",
         "tempo": "1-2 hours",
-        "costo": "About 30 bolivianos (about 4 €), in cash",
+        "costo": "About 30 bolivianos (about €4), in cash",
         "lat": -20.24278,
         "lng": -67.62528,
         "consiglio": "The path gives the best view of the salt flat from a raised position."
@@ -467,7 +467,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "Uyuni",
         "perChi": "Those leaving for the tour",
         "testo": "Starting base, a simple town with agencies.",
-        "fascia": "25-80 €"
+        "fascia": "€25-80"
       },
       {
         "nome": "Sud Lípez lodgings",
@@ -479,7 +479,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "Salt hotel",
         "perChi": "Those who want a special experience",
         "testo": "Walls and furnishings made from salt flat blocks.",
-        "fascia": "60-200 €"
+        "fascia": "€60-200"
       }
     ],
     sapori: [
@@ -718,7 +718,7 @@ export const destinazioniBolivia: Destinazione[] = [
     comeArrivare: "The La Paz-Sucre flight takes about an hour; Alcantarí airport is about 30 km from the centre, 40 minutes by taxi or shuttle. The overnight bus from La Paz takes about 12-14 hours. Between Potosí and Sucre it is about 3 hours by bus or shared taxi from the terminal; Uyuni to Potosí about 4 hours by bus. Potosí is at over 4,000 metres: if you are coming from Sucre, it is wise to spend at least one night there without exertion.",
     comeSpostarsi: 'Both cities can be explored on foot; frequent buses between the two.',
     periodoMigliore: 'May-October; Sucre has the mildest climate in the country thanks to its lower altitude',
-    costi: "Among the cheapest areas on the continent: low budget about 20-30 € a day (hostel, almuerzo at the Mercado Central for a few bolivianos); mid-range 45-80 € (hotel in the colonial centre, restaurants, guided visits); high from 120 € (hotel in a historic casona, private guides). Parque Cretácico about 30 bolivianos with a guide; Casa de la Moneda about 40 bolivianos, guided only; mine visit about 100-150 bolivianos with a Spanish-speaking guide, 150-250 with an English-speaking guide.",
+    costi: "Among the cheapest areas on the continent: low budget about €20-30 a day (hostel, almuerzo at the Mercado Central for a few bolivianos); mid-range €45-80 (hotel in the colonial centre, restaurants, guided visits); high from €120 (hotel in a historic casona, private guides). Parque Cretácico about 30 bolivianos with a guide; Casa de la Moneda about 40 bolivianos, guided only; mine visit about 100-150 bolivianos with a Spanish-speaking guide, 150-250 with an English-speaking guide.",
     erroriDaEvitare: [
       "Passing through Potosí without accounting for the altitude: at 4,000 meters even walking around the center is tiring",
       "Treating the mine visit as just any tourist attraction: it's a real workplace, with very harsh conditions",
@@ -763,7 +763,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "About 25 minutes from the centre by tourist bus or taxi.",
         "quando": "Morning.",
         "tempo": "2 hours",
-        "costo": "About 30 bolivianos (about 4 €) with the guide",
+        "costo": "About 30 bolivianos (about €4) with the guide",
         "lat": -19.00046,
         "lng": -65.23743,
         "consiglio": "Bring comfortable shoes and a hat: the visit is outdoors."
@@ -844,7 +844,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "On foot from the centre of Potosí.",
         "quando": "Morning.",
         "tempo": "1-2 hours",
-        "costo": "About 40 bolivianos (about 5 €), guided only",
+        "costo": "About 40 bolivianos (about €5), guided only",
         "orari": "Guided visits in slots; from 2026 the building is undergoing restoration work: check the slots beforehand",
         "lat": -19.58824,
         "lng": -65.75415,
@@ -902,19 +902,19 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "Historic centre of Sucre",
         "perChi": "Those staying a few days",
         "testo": "A pleasant city to stay a few days.",
-        "fascia": "25-90 €"
+        "fascia": "€25-90"
       },
       {
         "nome": "Centre of Potosí",
         "perChi": "Those visiting the mines",
         "testo": "Basic lodgings at high altitude. Cold nights.",
-        "fascia": "20-60 €"
+        "fascia": "€20-60"
       },
       {
         "nome": "La Recoleta and around (Sucre)",
         "perChi": "Those looking for quiet and views",
         "testo": "Uphill streets above the centre, quieter, with a few hostels and guesthouses with terraces. The walk down to the square takes 15-20 minutes.",
-        "fascia": "20-60 €"
+        "fascia": "€20-60"
       }
     ],
     sapori: [

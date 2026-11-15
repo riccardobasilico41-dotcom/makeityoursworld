@@ -32,7 +32,7 @@ export const spagnaNordItinerarioMeta: TripMeta = {
   ],
   criticita: [
     'Il clima atlantico resta piovoso più spesso che nel resto di Spagna anche nella finestra consigliata (giugno-settembre): serve sempre una giacca antipioggia',
-    'Il Guggenheim Bilbao chiude quasi tutti i lunedì, con estensioni stagionali estive da verificare prima di programmare le tappe',
+    'Il Guggenheim Bilbao chiude quasi tutti i lunedì, e d\'estate a volte allunga l\'orario: meglio guardare il calendario prima di fissare le tappe',
     'Le distanze costiere sono ingannevoli sulla mappa: le strade seguono la costa con molte curve, i tempi di trasferimento sono più lunghi del previsto',
     'Percorrere un tratto del Camino del Norte richiede prenotare gli albergues nei mesi di punta, quando i posti letto nei paesi piccoli si esauriscono',
   ],
@@ -86,7 +86,7 @@ export const spagnaNordItinerarioMeta: TripMeta = {
       pernottamento: 'Bilbao, Casco Viejo o Ensanche',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'Guggenheim 18€ (metà giugno-metà settembre) o 15€ nel resto dell\'anno',
+      costiNoti: 'Guggenheim 15 € (2026)',
       destinazioneSlug: 'bilbao',
       immagine: '/images/viaggi/spagna-nord-itinerario/giorno-4-guggenheim.jpg',
       imageAlt: 'Il Museo Guggenheim di Bilbao visto da nord-ovest, con il Ponte della Salve e le sculture del cortile',
@@ -131,8 +131,8 @@ export const spagnaNordItinerarioMeta: TripMeta = {
   budget: [
     { etichetta: 'Voli intercontinentali/internazionali', valore: undefined },
     { etichetta: 'Auto a noleggio', valore: 'per l\'intero percorso di circa 550 km costieri, 8 giorni' },
-    { etichetta: 'Guggenheim Bilbao', valore: '15-18€ a persona secondo la stagione' },
-    { etichetta: 'Pintxos e txikiteo', valore: 'indicativamente 25-35€ a persona per serata a San Sebastián o Bilbao' },
+    { etichetta: 'Guggenheim Bilbao', valore: '15 € a persona (2026)' },
+    { etichetta: 'Pintxos e txikiteo', valore: 'indicativamente 25-35 € a persona per serata a San Sebastián o Bilbao' },
     { etichetta: 'Alloggi', valore: 'nella media spagnola nelle città, più contenuti nei paesi costieri di Cantabria e Asturie' },
     { etichetta: 'Cibo', valore: 'fabada asturiana e pulpo á feira tra i piatti più caratteristici, prezzi nella media' },
   ],

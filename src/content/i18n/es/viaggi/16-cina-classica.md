@@ -62,7 +62,7 @@ Por la tarde fuimos al **Palacio de Verano**, en el lago Kunming, menos monument
 
 Al llegar a Xi'an Norte tomamos el metro hasta el centro y nos instalamos dentro de las murallas. A última hora de la tarde, la **vuelta a las murallas Ming en bicicleta**: catorce kilómetros de muralla, lo bastante ancha para pedalear encima, con la ciudad vieja a un lado y los rascacielos al otro. El momento justo es la última hora de luz, cuando se encienden los farolillos rojos en las torres de las puertas. Cena por etapas en el **Barrio Musulmán**: brochetas de cordero al comino, roujiamo, biang biang noodles. Se come un poco en cada puesto y se sigue, sin sentarse.
 
-**En la práctica:** estación de Pekín Oeste para Xi'an, comprobar en el billete · a la muralla se sube por una de las puertas principales, entrada y alquiler de bici aparte, la vuelta lleva unas dos horas · el alquiler cierra antes del atardecer: salir con tiempo · en el Barrio Musulmán hay que preguntar los precios antes, y en las tiendas de recuerdos se regatea.
+**En la práctica:** a Xi'an se suele salir de Pekín Oeste: la estación viene en el billete · a la muralla se sube por una de las puertas principales, entrada y alquiler de bici aparte, la vuelta lleva unas dos horas · el alquiler cierra antes del atardecer: salir con tiempo · en el Barrio Musulmán hay que preguntar los precios antes, y en las tiendas de recuerdos se regatea.
 
 ### Día 6 — Ejército de Terracota
 La mañana la pasamos en el **museo del mausoleo de Qin Shi Huang**, a 40 minutos del centro. La reserva es nominal y está vinculada al pasaporte, y la venta abre apenas 7 días antes: hay que apuntarla en la agenda como una cita.

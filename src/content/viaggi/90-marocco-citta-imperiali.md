@@ -17,7 +17,7 @@ Si arriva a **Tangeri** e si riparte da **Casablanca**. Il motivo è la geografi
 
 ## Scheda pratica
 - **Quando andare:** primavera e autunno. D'estate Fès e Meknès sono molto calde. Durante il Ramadan cambiano gli orari di negozi e ristoranti, e di giorno mangiare, bere o fumare in pubblico può offendere.
-- **Documenti:** per i cittadini italiani passaporto valido almeno per tutto il soggiorno, nessun visto per turismo fino a 3 mesi. In aeroporto possono chiedere il biglietto di ritorno e la prova di mezzi sufficienti (Viaggiare Sicuri, aggiornata ad aprile 2026).
+- **Documenti:** per i cittadini italiani passaporto valido almeno per tutto il soggiorno, nessun visto per turismo fino a 3 mesi. In aeroporto possono chiedere il biglietto di ritorno e la prova di mezzi sufficienti.
 - **Valuta e pagamenti:** dirham marocchino (MAD). È vietato portare dirham fuori dal Marocco, e a fine viaggio si riconvertono solo quelli cambiati prima, con le ricevute: vanno conservate. Le carte funzionano negli hotel e in molti ristoranti delle città, ma nelle medine, ai banchi del cibo e per i taxi servono contanti.
 - **Spostamenti:** tutto su strada, solo di giorno: Viaggiare Sicuri raccomanda di evitare le ore notturne fuori città. Si va con un'auto con autista o a noleggio. Le distanze e i tempi di guida indicati nei giorni sono calcolati sul percorso stradale (OSRM, senza soste né traffico): nella realtà serve più tempo.
 - **Bus:** tra Tangeri, Chefchaouen e Fès ci sono anche i bus CTM, utili per le prime due tratte. Corse, orari e biglietti vanno controllati su ctm.ma.
@@ -142,6 +142,8 @@ Questo è stato il mio Marocco del nord: Chefchaouen, Fès, Meknès con Volubili
 
 ## Nota su questa bozza
 Fonti, tolte dalla chiusura: le tappe del deserto nella versione combinata vengono dall'altro itinerario, da Marrakech al Sahara. Informazioni pratiche da fonti ufficiali e di riferimento: la Fondazione della Moschea Hassan II (orari e biglietti), le schede di Viaggiare Sicuri e del governo britannico e le voci enciclopediche sui siti UNESCO, verificate a novembre 2026. Distanze e tempi di guida calcolati con OSRM sul percorso stradale, senza soste. Orari dei bus su ctm.ma.
+
+Requisiti d'ingresso da Viaggiare Sicuri, aggiornata ad aprile 2026 (fonte tolta dal testo).
 
 ## Tag
 `#marocco` `#cittaimperiali` `#fes` `#meknes` `#volubilis` `#rabat` `#chefchaouen` `#cittablu` `#casablanca` `#tangeri` `#ontheroad` `#medina`

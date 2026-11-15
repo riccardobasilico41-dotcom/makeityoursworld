@@ -36,7 +36,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
     'La medina di Fès è un labirinto, con finte guide e venditori insistenti: il primo giorno serve una guida ufficiale',
     'I non musulmani non entrano nelle moschee in uso, né nella Qarawiyyin: la Moschea Hassan II si visita solo con il tour guidato',
     'D\'estate Fès e Meknès sono molto calde, e Volubilis è quasi tutta al sole',
-    'I tempi di guida indicati sono senza soste né traffico; orari dei bus CTM da controllare su ctm.ma',
+    'I tempi di guida indicati sono senza soste né traffico; orari dei bus CTM su ctm.ma',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {
@@ -151,7 +151,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
       pernottamento: 'Casablanca, centro o lungomare',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
-      costiNoti: 'Moschea Hassan II: 140 MAD per gli adulti stranieri (fmh2.ma, novembre 2026), solo con tour guidato',
+      costiNoti: 'Moschea Hassan II: 140 MAD per gli adulti stranieri (2026), solo con tour guidato',
       destinazioneSlug: 'rabat',
       immagine: '/images/viaggi/marocco-citta-imperiali/giorno-10-moschea-hassan-ii.webp',
       imageAlt: "Il minareto della Moschea Hassan II di Casablanca in controluce, con il sole basso sull'oceano",
@@ -169,7 +169,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
     { etichetta: 'Auto con autista o noleggio', valore: undefined },
     { etichetta: 'Bus CTM (alternativa)', valore: 'Tangeri-Chefchaouen e Chefchaouen-Fès, corse e biglietti su ctm.ma' },
     { etichetta: 'Guida ufficiale a Fès', valore: undefined },
-    { etichetta: 'Moschea Hassan II', valore: '140 MAD per gli adulti stranieri (fmh2.ma, novembre 2026)' },
+    { etichetta: 'Moschea Hassan II', valore: '140 MAD per gli adulti stranieri (2026)' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

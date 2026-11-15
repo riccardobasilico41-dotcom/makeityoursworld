@@ -25,7 +25,7 @@ Tres días son la medida justa para hacer las cosas grandes sin renunciar al res
   - **Basílica de San Marcos:** la entrada en sí cuesta unos 10 €, pero **la reserva online con horario te salta una cola que en temporada alta es de una hora o más**, y vale cada céntimo. **Pala d'Oro** y **Museo de San Marcos con la Loggia dei Cavalli** son entradas adicionales: **la Loggia hay que hacerla**, porque se sale al balcón sobre la plaza. **Código de vestimenta: hombros y rodillas cubiertos**, y **las mochilas grandes no entran**. Hay una consigna gratuita en una calle cercana, y quien no lo sabe pierde media hora.
   - **Palacio Ducal:** entrada combinada con los museos de la plaza de San Marcos. Los **Itinerari Segreti**, que llevan a las estancias administrativas, a la sala de tortura y a los Plomos de los que se fugó Casanova, **son con reserva, en grupos pequeños, y se acaban pronto**.
 - **Vaporetti:** el **billete sencillo es muy caro** y vale poco más de una hora. **Los abonos de un día o de varios días se amortizan al tercer viaje** y son casi obligatorios si se hacen las islas. Ojo: **Venecia se recorre a pie**; el vaporetto sirve para el Gran Canal, para las islas y para los traslados largos.
-- **El traghetto en góndola:** en algunos puntos del Gran Canal, donde no hay puentes, **las góndolas cruzan de una orilla a otra por unos 2 euros**, y se va de pie como los venecianos. Es la forma más económica de subir a una góndola y casi ningún turista lo sabe. **Las líneas activas cambian con el tiempo:** conviene preguntar sobre el terreno cuáles están en servicio.
+- **El traghetto en góndola:** en algunos puntos del Gran Canal, donde no hay puentes, **las góndolas cruzan de una orilla a otra por unos 2 €**, y se va de pie como los venecianos. Es la forma más económica de subir a una góndola y casi ningún turista lo sabe. **Las líneas activas cambian con el tiempo:** conviene preguntar sobre el terreno cuáles están en servicio.
 - **La góndola:** tiene una **tarifa oficial fijada por el Ayuntamiento**, **por góndola y no por persona** (hasta cinco pasajeros), con **una tarifa más alta por la noche** y un recargo por la serenata. Regatear no sirve, pero **comprobar la tarifa en vigor antes de subir sí**, porque es el campo con más malentendidos.
 - **Chorus Pass:** una entrada combinada para unas quince iglesias históricas, el patrimonio artístico más denso y menos concurrido de la ciudad. Compensa ya desde la tercera o cuarta iglesia.
 - **Comida:** los **bacari** son las tabernas donde se comen los **cicchetti** de pie en la barra, con la **ombra**, el vaso de vino. **Sarde in saor** (con cebolla, pasas y piñones, de origen marinero), **baccalà mantecato**, **folpetti**, **fegato alla veneziana**, **risotto di gò** de la laguna, y las **moeche**, los cangrejos pescados en el breve momento de la muda en que tienen el caparazón blando (**de temporada, primavera y otoño**). El **spritz** nació aquí, y la versión veneciana es más amarga que la que se bebe en el resto de Italia.
@@ -87,7 +87,7 @@ La tarde es para la **laguna norte**, en vaporetto:
 - **El Gueto de Cannaregio**, con los edificios construidos a lo alto.
 - **Torcello**, la basílica y el mosaico de la Virgen sobre fondo de oro.
 - **Los cicchetti en los bacari**, de pie, cambiando de barra.
-- **El traghetto en góndola** para cruzar el Gran Canal de pie, por unos 2 euros.
+- **El traghetto en góndola** para cruzar el Gran Canal de pie, por unos 2 €.
 - **Levantarse al amanecer** y caminar solo por Rialto.
 
 ## Posibles ampliaciones

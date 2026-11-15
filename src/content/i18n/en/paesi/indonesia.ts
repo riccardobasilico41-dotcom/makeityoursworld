@@ -15,8 +15,8 @@ export const indonesia: Paese = {
     "changes a lot from island to island: from the modest budget of Sumatra and Flores to the higher costs of Raja Ampat, because of logistics and the mandatory permit",
   scheda: {
     documenti:
-      "Passport valid for at least 6 months and in good condition. For tourism you need the visa on arrival: you can get it at the airport on arrival or, better, apply online for the e-VOA at evisa.imigrasi.go.id at least a week ahead. It costs about 500,000 IDR (roughly 35€) and gives access to the autogate. Since October 2025 the All Indonesia Arrival Card is also mandatory, an electronic form to fill in before arrival.",
-    valuta: "Indonesian rupiah (IDR), roughly 1€ = 17,000-18,000 IDR. You handle figures with a lot of zeros: be careful not to confuse the 10,000 and 100,000 notes.",
+      "Passport valid for at least 6 months and in good condition. For tourism you need the visa on arrival: you can get it at the airport on arrival or, better, apply online for the e-VOA at evisa.imigrasi.go.id at least a week ahead. It costs about 500,000 IDR (roughly €35) and gives access to the autogate. Since October 2025 the All Indonesia Arrival Card is also mandatory, an electronic form to fill in before arrival.",
+    valuta: "Indonesian rupiah (IDR), roughly €1 = 17,000-18,000 IDR. You handle figures with a lot of zeros: be careful not to confuse the 10,000 and 100,000 notes.",
     pagamenti:
       "Cards are accepted in Bali, in the big cities of Java and in resorts; elsewhere you need cash. ATMs are widespread in Bali and Java, rare or absent in Raja Ampat, in the interior of Flores and on the smaller islands: better to arrive already stocked up.",
     connettivita:

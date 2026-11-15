@@ -161,7 +161,7 @@ export const siciliaCompletaMeta: TripMeta = {
       pernottamento: 'Val di Noto o zona Piazza Armerina',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'lo stato di accesso della Scala dei Turchi va verificato: è stato regolamentato e a tratti interdetto',
+      costiNoti: 'l\'accesso alla Scala dei Turchi è contingentato e a tratti interdetto',
       destinazioneSlug: 'sicilia',
       immagine: '/images/viaggi/sicilia-completa/giorno-10-scala-turchi-alto.jpg',
       imageAlt: 'Vista dall\'alto della Scala dei Turchi, la scogliera bianca a strati che scende verso la spiaggia e il mare',

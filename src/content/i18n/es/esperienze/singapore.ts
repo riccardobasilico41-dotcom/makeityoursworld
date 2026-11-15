@@ -14,7 +14,7 @@ export const esperienzeSingapore: Esperienza[] = [
     durata: 'una comida, para repetir cada día',
     periodo:
       "todo el año. Durante el Año Nuevo chino muchos puestos de gestión familiar cierran durante días: es el único momento en que el sistema se detiene.",
-    costo: 'aproximadamente 4-8 SGD por plato, es decir, 3-6 euros por una comida completa',
+    costo: 'aproximadamente 4-8 SGD por plato, es decir, 3-6 € por una comida completa',
     comePrenotare:
       "No hay nada que reservar. El método para elegir es trivial y funciona: se mira qué puesto tiene la cola más larga y uno se pone en la fila. Muchos puestos aceptan solo efectivo o pagos digitales locales, pero las tarjetas se están volviendo la norma también aquí.",
     cosaPortare:

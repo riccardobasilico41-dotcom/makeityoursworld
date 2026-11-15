@@ -36,7 +36,7 @@ export const esperienzeGermania: Esperienza[] = [
       "It's one of the most important concentrations of museums in Europe, in an area you cross on foot in a few minutes, with world-class works ranging from ancient Egypt to Mesopotamia to nineteenth-century European painting.",
     durata: 'half a day for a visit that takes in at least two museums at a relaxed pace; a full day to see them all',
     periodo: 'all year, because it is all indoors',
-    costo: 'single museum ticket roughly 12-14€, combined ticket for the whole island (Museumsinsel-Ticket) around 24-29€',
+    costo: 'single museum ticket roughly €12-14, combined ticket for the whole island (Museumsinsel-Ticket) around €24-29',
     comePrenotare:
       "Buying online with a booked time slot is recommended, especially for the Pergamonmuseum and the Neues Museum on weekends and in high season, to avoid queues at the ticket office.",
     cosaPortare: 'No special equipment; it is worth checking online which rooms are open.',
@@ -83,7 +83,7 @@ export const esperienzeGermania: Esperienza[] = [
       "It's a phenomenon born and raised here, tied to the very spaces left empty by the fall of the Wall, and it's one of the reasons Berlin has been considered for decades one of the world capitals of electronic music. It's worth knowing about even if you're not in the scene.",
     durata: 'one evening (clubs often open late, after midnight, and some stay open until the morning or beyond)',
     periodo: 'all year, because it happens at night and indoors',
-    costo: 'club entry roughly 10-25€ depending on the venue and the event',
+    costo: 'club entry roughly €10-25 depending on the venue and the event',
     comePrenotare: 'No reservation for most clubs: you queue at the entrance, with selection on the spot by the bouncer. For the most coveted venues like Berghain there is no guaranteed way in.',
     cosaPortare: 'ID; casual clothing (elegant clothing is often counterproductive for getting into Berlin techno clubs); no cameras, often banned inside.',
     perChiEAdatta:

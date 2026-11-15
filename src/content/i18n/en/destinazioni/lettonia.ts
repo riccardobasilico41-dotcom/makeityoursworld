@@ -373,10 +373,10 @@ export const destinazioniLettonia: Destinazione[] = [
     ],
     doveDormire: "On this itinerary Jūrmala is visited in half a day from Riga, without sleeping there. Anyone who wants to stay a few days at the sea can add it as an extension.",
     doveMangiare: "Along Jomas iela restaurants and cafés serve Latvian and international cooking; in summer several beach kiosks serve grilled fish and ice cream.",
-    comeArrivare: "From Riga by Vivi regional train from the central station (Rīga Centrālā stacija) to Majori: about 30-35 minutes, departures at least every half hour, tickets from about 1.40-1.50 € each way, a little less when bought online or in the Vivi app. The same train also stops at Dzintari, Bulduri and Dubulti and continues to Ķemeri. Anyone arriving by car pays the entry fee of 5 € a day.",
+    comeArrivare: "From Riga by Vivi regional train from the central station (Rīga Centrālā stacija) to Majori: about 30-35 minutes, departures at least every half hour, tickets from about €1.40-1.50 each way, a little less when bought online or in the Vivi app. The same train also stops at Dzintari, Bulduri and Dubulti and continues to Ķemeri. Anyone arriving by car pays the entry fee of €5 a day.",
     comeSpostarsi: "The center of Majori and the beach are explored on foot. For Dzintari or the farther areas you can take the same regional train again, which stops at several points along the coast.",
     periodoMigliore: "June-August for swimming. In the shoulder seasons the walk on the beach and among the wooden villas is still pleasant, with fewer people.",
-    costi: "Daily budget per person sharing a double room: 45-65 € on a tight budget (sleeping in Riga, train, beach and a simple lunch), 90-140 € mid-range (3-4 star hotel in Majori, dinner on the seafront), over 200 € with a 5-star spa hotel in high season. 2026 prices: Riga-Majori train about 1.50 € each way, beach, Dzintari tower and Jūrmala Museum free, Rainis and Aspazija Summer House 5 €, car entry fee 5 € a day.",
+    costi: "Daily budget per person sharing a double room: €45-65 on a tight budget (sleeping in Riga, train, beach and a simple lunch), €90-140 mid-range (3-4 star hotel in Majori, dinner on the seafront), over €200 with a 5-star spa hotel in high season. 2026 prices: Riga-Majori train about €1.50 each way, beach, Dzintari tower and Jūrmala Museum free, Rainis and Aspazija Summer House €5, car entry fee €5 a day.",
     erroriDaEvitare: [
       "Going out of season expecting the summer beach life: outside summer the beach is almost deserted and many places close",
       "Staying only on the beach without wandering the residential streets: it's the decorated wooden villas that make Jūrmala different from \"just another beach\"",
@@ -395,7 +395,7 @@ export const destinazioniLettonia: Destinazione[] = [
         orari: "Always open",
         lat: 56.97927,
         lng: 23.81217,
-        consiglio: "The train is easier than the car: non-residents pay a toll to enter Jūrmala by vehicle, all year round: 5 € a day for a car (2026)."
+        consiglio: "The train is easier than the car: non-residents pay a toll to enter Jūrmala by vehicle, all year round: €5 a day for a car (2026)."
       },
       {
         nome: "Jomas iela",
@@ -459,12 +459,12 @@ export const destinazioniLettonia: Destinazione[] = [
         come: "On foot from Majori station, Jāņa Pliekšāna iela 5/7.",
         quando: "Morning, on opening days.",
         tempo: "45 minutes",
-        costo: "5 €; reduced 2 €; family 7 € (2026)",
+        costo: "€5; reduced €2; family €7 (2026)",
         orari: "Tuesday-Saturday 10-17; from 1 June to 31 August Wednesdays 12-19; closed Sundays and Mondays",
         lat: 56.97594,
         lng: 23.80801,
         url: "https://memorialiemuzeji.lv",
-        consiglio: "An audio guide (3 €) helps anyone who doesn't know the two poets' story."
+        consiglio: "An audio guide (€3) helps anyone who doesn't know the two poets' story."
       },
       {
         nome: "Great Ķemeri Bog Boardwalk",
@@ -490,7 +490,7 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "To enter Jūrmala by car non-residents pay a toll all year round, 5 € a day (2026): the train trip is simpler.",
+      "To enter Jūrmala by car non-residents pay a toll all year round, €5 a day (2026): the train trip is simpler.",
       "The beach is windy: bring a sweatshirt even in summer.",
       "On summer weekends the restaurants are full: book."
     ],
@@ -513,13 +513,13 @@ export const destinazioniLettonia: Destinazione[] = [
         nome: "Majori",
         perChi: "Those who want station, beach and restaurants on foot",
         testo: "The centre of town, around Jomas iela; the liveliest in summer.",
-        fascia: "80-170 €"
+        fascia: "€80-170"
       },
       {
         nome: "Dzintari and Bulduri",
         perChi: "Those looking for pine woods and quieter villas",
         testo: "Residential streets among the pines, one or two train stops from Majori.",
-        fascia: "90-200 €"
+        fascia: "€90-200"
       },
       {
         nome: "Ķemeri",
@@ -530,13 +530,13 @@ export const destinazioniLettonia: Destinazione[] = [
         nome: "Riga as a base",
         perChi: "Those doing Jūrmala as a day trip",
         testo: "More choice and lower prices; Majori is half an hour away by train.",
-        fascia: "45-140 €"
+        fascia: "€45-140"
       }
     ],
     faq: [
       {
         domanda: "How do you get from Riga to Jūrmala?",
-        risposta: "By regional train from the central station to Majori, about 30-35 minutes and about 1.50 € each way, with departures at least every half hour. By car there is an entry fee of 5 € a day."
+        risposta: "By regional train from the central station to Majori, about 30-35 minutes and about €1.50 each way, with departures at least every half hour. By car there is an entry fee of €5 a day."
       },
       {
         domanda: "Can you swim at Jūrmala?",

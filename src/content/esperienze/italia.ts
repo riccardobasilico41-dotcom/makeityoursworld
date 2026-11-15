@@ -18,7 +18,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       '**da fine giugno a metà settembre**, la finestra in cui i rifugi sono aperti. A giugno i nevai residui sui passi alti sono una variabile seria; a fine settembre i rifugi cominciano a chiudere e le giornate si accorciano. **Settembre è il mese migliore**: meno gente, aria limpida, rifugi ancora attivi fino a fine mese.',
     costo:
-      'mezza pensione in rifugio indicativamente 60-80€ a notte, con sconti importanti per i soci CAI e delle associazioni alpinistiche affiliate: la tessera si ripaga in tre notti. Aggiungere pranzi al sacco, funivie dove si usano e il rientro.',
+      'mezza pensione in rifugio indicativamente 60-80 € a notte, con sconti importanti per i soci CAI e delle associazioni alpinistiche affiliate: la tessera si ripaga in tre notti. Aggiungere pranzi al sacco, funivie dove si usano e il rientro.',
     comePrenotare:
       '**I rifugi si prenotano da gennaio-febbraio per l\'estate**, e per le camere private anche prima: è il vincolo che determina tutto il resto. Si prenota direttamente con ogni rifugio, per telefono o email, oppure attraverso il portale di prenotazione del CAI dove disponibile. L\'itinerario va costruito tutto prima, perché le tappe si incastrano e spostarne una vuol dire rifare tutto.',
     cosaPortare:
@@ -51,7 +51,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       'da fine giugno a inizio ottobre, quando la strada è aperta. **Il momento giusto è l\'alba o il tardo pomeriggio**: nelle ore centrali di luglio e agosto il sentiero è una fila continua.',
     costo:
-      '**pedaggio della strada attorno ai 40€ per auto**, valido 12 ore dall\'orario prenotato, oltre a moto, camper e bus con tariffe proprie. Il sentiero in sé è gratuito.',
+      '**pedaggio della strada attorno ai 40 € per auto**, valido 12 ore dall\'orario prenotato, oltre a moto, camper e bus con tariffe proprie. Il sentiero in sé è gratuito.',
     comePrenotare:
       '**Dal 2026 l\'accesso in auto al parcheggio del Rifugio Auronzo richiede prenotazione online obbligatoria con fascia oraria**, oltre al pedaggio: chi arriva senza torna indietro. La prenotazione si fa sul portale ufficiale e le fasce migliori si esauriscono. In alternativa si sale in bus dai fondovalle, o a piedi da Misurina o dalla Val Fiscalina: si faceva così prima, e il problema non si pone.',
     cosaPortare:
@@ -83,7 +83,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: 'da 2 a 8 ore secondo l\'itinerario',
     periodo:
       'da fine giugno a settembre, quando la roccia è asciutta e libera da neve. **Mai con temporali in arrivo**: il cavo d\'acciaio è un conduttore, ed è la ragione per cui si parte presto e si è fuori dalla parete entro il primo pomeriggio.',
-    costo: 'noleggio del kit completo (imbrago, set da ferrata con dissipatore, casco) indicativamente 15-25€ al giorno; una guida alpina per un gruppo piccolo costa molto di più ma è l\'investimento giusto la prima volta',
+    costo: 'noleggio del kit completo (imbrago, set da ferrata con dissipatore, casco) indicativamente 15-25 € al giorno; una guida alpina per un gruppo piccolo costa molto di più ma è l\'investimento giusto la prima volta',
     comePrenotare:
       'Le ferrate non si prenotano: si va. Quello che va prenotato è il noleggio dell\'attrezzatura nei periodi di punta e, la prima volta, una **guida alpina**. È fondamentale scegliere l\'itinerario in base alla difficoltà reale: le ferrate hanno scale di difficoltà, e «facile» non vuol dire banale.',
     cosaPortare:
@@ -114,7 +114,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: 'una giornata intera, 5-6 ore effettive senza contare le soste',
     periodo:
       'da dicembre ad aprile, con la stagione completa. **Va fatto partendo presto, entro le nove**: gli ultimi impianti chiudono nel primo pomeriggio, e chi parte tardi rischia di restare dalla parte sbagliata del massiccio.',
-    costo: 'compreso nello skipass Dolomiti Superski, con il giornaliero attorno agli 86€ in alta stagione',
+    costo: 'compreso nello skipass Dolomiti Superski, con il giornaliero attorno agli 86 € in alta stagione',
     comePrenotare:
       'Non si prenota. Serve però lo skipass Dolomiti Superski (o almeno quello valido per tutte le aree attraversate) e serve controllare il meteo: con vento forte gli impianti dei passi chiudono e il giro si interrompe, lasciando a valle dalla parte opposta rispetto all\'auto.',
     cosaPortare:
@@ -146,7 +146,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: 'da mezza giornata a itinerari di più giorni con notti in rifugio invernale',
     periodo:
       'da dicembre ad aprile, con marzo e aprile come mesi migliori per lo scialpinismo primaverile. **Le condizioni della neve contano più della data**, e vanno controllate prima di partire.',
-    costo: 'noleggio attrezzatura scialpinistica indicativamente 30-50€ al giorno, ciaspole 10-15€; una guida alpina per una giornata è la spesa più sensata la prima volta',
+    costo: 'noleggio attrezzatura scialpinistica indicativamente 30-50 € al giorno, ciaspole 10-15 €; una guida alpina per una giornata è la spesa più sensata la prima volta',
     comePrenotare:
       'Niente da prenotare, salvo la guida e i rifugi invernali. Quello che va fatto prima è **leggere il bollettino valanghe**, che in Italia viene emesso quotidianamente per ogni settore alpino con una scala da 1 a 5, e adeguare l\'itinerario al grado di pericolo.',
     cosaPortare:
@@ -482,7 +482,7 @@ export const esperienzeItalia: Esperienza[] = [
     periodo:
       'primavera e autunno. D\'estate l\'Appennino centro-meridionale è troppo caldo; d\'inverno molti tratti in quota sono impraticabili e diverse strutture chiudono.',
     costo:
-      'il modo più economico di viaggiare in Italia: ostelli e accoglienze lungo i cammini costano tra i 15 e i 40 euro, spesso con cena, e in alcuni casi funzionano a offerta.',
+      'il modo più economico di viaggiare in Italia: ostelli e accoglienze lungo i cammini costano tra i 15 e i 40 €, spesso con cena, e in alcuni casi funzionano a offerta.',
     comePrenotare:
       'La **credenziale del pellegrino**, il documento che si fa timbrare lungo il percorso, dà accesso alle accoglienze a tariffa ridotta e si richiede alle associazioni che gestiscono ciascun cammino. Le strutture si prenotano tappa per tappa, spesso il giorno prima; nei periodi di punta e sui cammini più battuti conviene con più anticipo.',
     cosaPortare:
@@ -513,7 +513,7 @@ export const esperienzeItalia: Esperienza[] = [
     durata: '1h30-2 ore per cantina',
     periodo:
       '**settembre e ottobre durante la vendemmia**, quando le cantine lavorano e si vede il processo. Da aprile a giugno è la seconda finestra. Ad agosto molte chiudono o sono in preparazione; d\'inverno le visite si riducono.',
-    costo: 'indicativamente 15-40€ a persona secondo i vini e il livello dell\'accoglienza, spesso scalati sull\'acquisto',
+    costo: 'indicativamente 15-40 € a persona secondo i vini e il livello dell\'accoglienza, spesso scalati sull\'acquisto',
     comePrenotare:
       '**Sempre su appuntamento, con qualche giorno di anticipo.** È la regola che quasi tutti ignorano: una cantina è un\'azienda agricola con un ciclo di lavoro, e chi si presenta senza preavviso di solito trova chiuso. Una mail o una telefonata tre giorni prima risolvono tutto.',
     cosaPortare:

@@ -9,11 +9,11 @@ export const giappone: Paese = {
     "Un circuito clásico de Tokio a Kioto, Hiroshima, Osaka y Nara en poco más de una semana y media, a la caza de los cerezos en flor entre Chidorigafuchi y Shinjuku Gyoen, con el Templo Dorado, los torii de Fushimi Inari, el torii flotante de Miyajima y los ciervos sagrados de Nara.",
   periodoMigliore: 'principios de abril, por la floración de los cerezos (sakura), aunque el pico real suele ser a finales de marzo',
   durataConsigliata: '11-12 días',
-  budgetIndicativo: "unos 600-750€ para toda la estancia sobre el terreno, sin vuelos ni JR Pass",
+  budgetIndicativo: "unos 600-750 € para toda la estancia sobre el terreno, sin vuelos ni JR Pass",
   scheda: {
     documenti:
       "Pasaporte válido durante toda la estancia, íntegro y bien legible: un documento deteriorado puede dar problemas en el control de inmigración. No hace falta visado para turismo hasta 90 días; es obligatorio el billete de vuelta o de salida del país. Conviene registrarse en Visit Japan Web antes de salir, para tener los QR de inmigración y aduana y saltarse las colas. El sistema JESTA, del que se habla a menudo, todavía no está en vigor: su puesta en marcha está anunciada para el año fiscal 2028.",
-    valuta: "Yen japonés (JPY), cambio orientativo 1€ = 160 yenes. Conviene cambiar una parte en efectivo antes de salir.",
+    valuta: "Yen japonés (JPY), cambio orientativo 1 € = 160 yenes. Conviene cambiar una parte en efectivo antes de salir.",
     pagamenti:
       "Las tarjetas se aceptan cada vez más, pero Japón sigue siendo un país donde hace falta efectivo: muchos restaurantes pequeños, templos y mercados no aceptan tarjetas. Los cajeros más fiables para tarjetas extranjeras son los de los 7-Eleven y los de las oficinas de correos. Útil una IC card recargable (Suica o Pasmo) para metro, autobús y konbini: cuesta 2.000 yenes, de los cuales 500 son de depósito reembolsable.",
     connettivita:
@@ -24,7 +24,7 @@ export const giappone: Paese = {
       "Entre los países más seguros del mundo: la delincuencia menor es casi inexistente. Los riesgos reales son naturales (terremotos y tifones), y merece la pena instalar una app de alertas (como Safety Tips, en inglés) y saber dónde están las salidas de emergencia del alojamiento.",
     trasportiInterni:
       "El JR Pass solo compensa si se hacen varios trayectos largos en Shinkansen: cubre los Hikari y Sakura pero no los más rápidos Nozomi y Mizuho. Hay que activarlo con el pasaporte, contando con colas en la ventanilla. En los días de cambio de ciudad el salvavidas es el takkyubin, el servicio que envía el equipaje de un hotel a otro, que se reserva en el hotel o en los 7-Eleven la noche anterior.",
-    costoVita: "Orientativamente 600-750€ por doce días sobre el terreno, sin vuelos ni JR Pass, con fuertes variaciones según los restaurantes elegidos.",
+    costoVita: "Orientativamente 600-750 € por doce días sobre el terreno, sin vuelos ni JR Pass, con fuertes variaciones según los restaurantes elegidos.",
     lingua:
       "Japonés; el inglés es limitado fuera de las grandes ciudades y de los nudos turísticos. Google Translate con diccionario sin conexión y Google Lens para los menús escritos a mano son en la práctica indispensables.",
     elettricita:

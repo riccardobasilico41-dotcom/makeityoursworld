@@ -44,7 +44,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Metropolitana capillare e pulita, con cartelli e annunci in inglese: si paga con la T-money, che si compra in qualsiasi minimarket. Per i taxi c\'è Kakao T, che funziona con carta estera. Attenzione a Google Maps: in Corea non calcola i percorsi, servono Naver Map o KakaoMap.',
     periodoMigliore:
       'aprile per i ciliegi e ottobre-inizio novembre per il foliage. L\'estate è calda, umida e piovosa; l\'inverno è gelido ma limpido, e i palazzi nella neve valgono il freddo.',
-    costi: "Ingresso ai palazzi 3.000 won circa, gratis indossando l'hanbok; il biglietto combinato per quattro palazzi più il santuario di Jongmyo costa 6.000 won, valido sei mesi, ma non comprende il Giardino Segreto (2026). Metropolitana poco più di un euro, pasti 6-15€. Budget giornaliero a persona, indicativo: basso 50-70 € (guesthouse, mercati e metro); medio 110-170 € (hotel in doppia, ristoranti di barbecue, un osservatorio); alto 250 € e oltre (hotel di fascia alta a Gangnam o Jongno, cene curate).",
+    costi: "Ingresso ai palazzi 3.000 won circa, gratis indossando l'hanbok; il biglietto combinato per quattro palazzi più il santuario di Jongmyo costa 6.000 won, valido sei mesi, ma non comprende il Giardino Segreto (2026). Metropolitana poco più di un euro, pasti 6-15 €. Budget giornaliero a persona, indicativo: basso 50-70 € (guesthouse, mercati e metro); medio 110-170 € (hotel in doppia, ristoranti di barbecue, un osservatorio); alto 250 € e oltre (hotel di fascia alta a Gangnam o Jongno, cene curate).",
     erroriDaEvitare: [
       'Andare a Changdeokgung senza aver prenotato la visita al Giardino Segreto: è a numero chiuso, con orari fissi, e si esaurisce',
       'Affidarsi a Google Maps per muoversi: mostra i luoghi ma non calcola nessun percorso',
@@ -405,7 +405,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     periodoMigliore:
       'tutto l\'anno, con le giornate limpide di autunno e inverno che offrono la visibilità migliore dall\'Osservatorio di Dora. Le visite sono normalmente sospese il lunedì e nelle festività nazionali, e possono essere annullate senza preavviso per esercitazioni militari o tensioni diplomatiche.',
     costi:
-      'Tour standard indicativamente 50-90€ a persona da Seoul, spesso con pranzo incluso; il tour con la JSA, quando c\'è, costa parecchio di più per via delle procedure di autorizzazione.',
+      'Tour standard indicativamente 50-90 € a persona da Seoul, spesso con pranzo incluso; il tour con la JSA, quando c\'è, costa parecchio di più per via delle procedure di autorizzazione.',
     erroriDaEvitare: [
       'Dimenticare il passaporto: senza l\'originale non si passa il checkpoint, e copie o foto non valgono',
       'Prenotare all\'ultimo momento: il tour standard va preso con giorni di anticipo, quello della JSA con settimane, perché i dati del passaporto devono essere trasmessi in anticipo per l\'autorizzazione militare',
@@ -423,7 +423,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
           {
             nome: 'Tour standard della DMZ',
             sintesi: 'Imjingak, Terzo Tunnel d\'Infiltrazione, Osservatorio di Dora, stazione di Dorasan. Mezza giornata o giornata intera da Seoul.',
-            costo: 'indicativamente 50-90€, pranzo spesso incluso',
+            costo: 'indicativamente 50-90 €, pranzo spesso incluso',
             durata: '5-8 ore con i trasferimenti',
             pro: [
               'Disponibile praticamente sempre, con partenze quotidiane',
@@ -477,7 +477,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         nome: "Terzo Tunnel di infiltrazione",
         testo: "Uno dei tunnel scavati dalla Corea del Nord sotto il confine, scoperto nel 1978, dopo che era stata rilevata un'esplosione sotterranea. È lungo 1.635 metri e corre a 73 metri sotto terra, alto e largo circa due metri. Si scende a piedi lungo una galleria di servizio molto inclinata e si cammina dentro il cunicolo originale fino al muro di cemento che lo chiude.",
         come: "Solo con un tour da Seoul o con il programma turistico che parte da Imjingak.",
-        quando: "Giorni di apertura da verificare con l'operatore del tour.",
+        quando: "Giorni di apertura da chiedere all'operatore del tour.",
         tempo: "1 ora",
         consiglio: "La risalita è ripida e si sente nelle gambe. Dentro non si fotografa.",
       },
@@ -846,7 +846,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         quando: "Nelle ore calde o con la pioggia.",
         tempo: "2 ore",
         costo: "gratuito",
-        orari: "10-18; chiuso il 1° gennaio, a Seollal e a Chuseok (sito ufficiale).",
+        orari: "10-18; chiuso il 1° gennaio, a Seollal e a Chuseok.",
         url: "https://gyeongju.museum.go.kr/",
         lat: 35.82898,
         lng: 129.22836,
@@ -1546,7 +1546,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'L\'auto a noleggio è di gran lunga il mezzo migliore: gli autobus ci sono e costano poco, ma sono lenti, e molti punti della costa si raggiungono a fatica. Serve la patente internazionale, da fare in Italia prima di partire.',
     periodoMigliore:
       'aprile-giugno e settembre-ottobre. L\'estate è affollata di turismo interno e tra agosto e settembre arrivano i tifoni. L\'inverno è ventoso e freddo: le haenyeo lavorano nelle condizioni più dure ed è più raro vederle in acqua.',
-    costi: "Museo delle haenyeo circa 1.100 won, Seongsan Ilchulbong 5.000, Manjanggul 4.000, Parco della Pace 4·3 gratuito, traghetto per Udo circa 11.000 won andata e ritorno. Noleggio auto da 40-60€ al giorno, più caro in alta stagione. Budget giornaliero a persona, indicativo: basso 50-70 € (guesthouse, bus, mercati); medio 100-150 € (hotel, auto divisa in due, pesce alle bancarelle delle cooperative); alto 250 € e oltre (resort a Jungmun, cene di maiale nero e orecchie di mare).",
+    costi: "Museo delle haenyeo circa 1.100 won, Seongsan Ilchulbong 5.000, Manjanggul 4.000, Parco della Pace 4·3 gratuito, traghetto per Udo circa 11.000 won andata e ritorno. Noleggio auto da 40-60 € al giorno, più caro in alta stagione. Budget giornaliero a persona, indicativo: basso 50-70 € (guesthouse, bus, mercati); medio 100-150 € (hotel, auto divisa in due, pesce alle bancarelle delle cooperative); alto 250 € e oltre (resort a Jungmun, cene di maiale nero e orecchie di mare).",
     erroriDaEvitare: [
       'Aspettarsi di trovare le haenyeo in acqua a comando: escono secondo maree, stagione e condizioni del mare, e nei mesi di fermo biologico non si immergono. Le uniche uscite a orario fisso sono le dimostrazioni organizzate',
       'Fotografarle da vicino senza chiedere: sono donne al lavoro, spesso molto anziane, non un\'attrazione folkloristica',

@@ -19,8 +19,8 @@ Bali la giro lontano dal sud. Dormo verso l'interno, a Munduk e a Ubud, e scendo
 
 ## Scheda pratica
 - **Quando andare:** da maggio a settembre per Giava, quando il cielo all'alba è più terso. A Bali e alle Gili la stagione secca va da aprile a ottobre.
-- **Documenti:** passaporto con almeno 6 mesi di validità. Il visto si chiede online come **e-VOA** su evisa.imigrasi.go.id, almeno una settimana prima (circa 500.000 IDR, 35€ circa). Da ottobre 2025 serve anche la **All Indonesia Arrival Card**, un modulo elettronico da compilare prima di ogni ingresso.
-- **Valuta e pagamenti:** rupia indonesiana (IDR), di massima 1€ = 17.000-18.000 IDR. A Yogyakarta e a Bali le carte passano quasi ovunque. Al Bromo, all'Ijen e alle Gili conviene avere contanti.
+- **Documenti:** passaporto con almeno 6 mesi di validità. Il visto si chiede online come **e-VOA** su evisa.imigrasi.go.id, almeno una settimana prima (circa 500.000 IDR, 35 € circa). Da ottobre 2025 serve anche la **All Indonesia Arrival Card**, un modulo elettronico da compilare prima di ogni ingresso.
+- **Valuta e pagamenti:** rupia indonesiana (IDR), di massima 1 € = 17.000-18.000 IDR. A Yogyakarta e a Bali le carte passano quasi ovunque. Al Bromo, all'Ijen e alle Gili conviene avere contanti.
 - **Fuso orario:** Giava è in WIB (UTC+7), Bali e le Gili in WITA (UTC+8). Si guadagna un'ora sul traghetto per Bali.
 - **Trasporti:** volo interno per arrivare a Yogyakarta, treno fino a Probolinggo, minivan e jeep per il Bromo, traghetto Ketapang-Gilimanuk, driver privato o scooter a Bali, barca veloce per le Gili. A Yogyakarta e a Bali, Grab e Gojek sono comodissimi. Sulle Gili non circolano veicoli a motore.
 - **Scooter o driver:** lo scooter costa circa 60.000-100.000 IDR al giorno, ma va guidato solo da chi ha già esperienza vera, perché il traffico è denso e le strade strette. Il driver privato costa di più (di massima 300.000-600.000 IDR a tratta) e toglie ogni pensiero.
@@ -71,7 +71,7 @@ Partenza verso l'una di notte. La **maschera antigas** è obbligatoria, perché 
 
 *Il vento cambia direzione all'improvviso e spinge i fumi sul sentiero: chi ha asma o problemi respiratori non dovrebbe scendere nel cratere.* Scesi dal vulcano, verso le 8-9, si va al porto di **Ketapang**: il traghetto per **Gilimanuk** impiega 30-60 minuti e parte ogni quarto d'ora, giorno e notte. Da Gilimanuk si guida verso il nord di Bali, per dormire a **Lovina** o a **Munduk**. È la giornata più lunga del viaggio: la sera si va a letto presto.
 
-**In pratica:** cancello dell'Ijen aperto dalle 2 a mezzogiorno, ingresso per gli stranieri circa 100.000-150.000 IDR, biglietto online e controllo medico a Paltuding · chiusure per maltempo, attività vulcanica e giorni di manutenzione, da verificare prima · all'ingresso a Bali si paga la tassa turistica di 150.000 IDR, meglio online su Love Bali · Gilimanuk-Lovina circa 2-2 ore e mezza di strada.
+**In pratica:** cancello dell'Ijen aperto dalle 2 a mezzogiorno, ingresso per gli stranieri circa 100.000-150.000 IDR, biglietto online e controllo medico a Paltuding · chiusure per maltempo, attività vulcanica e giorni di manutenzione: controllare prima di partire · all'ingresso a Bali si paga la tassa turistica di 150.000 IDR, meglio online su Love Bali · Gilimanuk-Lovina circa 2-2 ore e mezza di strada.
 
 ### Giorno 7 — Bali nord: Munduk, il lago Beratan e la porta di Handara
 Il nord di Bali è un altopiano verde di caffè, cacao e cascate. A **Munduk** si cammina pochi minuti nella foresta per arrivare alla **Munduk Waterfall** e alla vicina **Melanting**. I sentieri sono umidi e scivolosi, quindi servono scarpe con un po' di grip. Conviene partire al mattino, perché sull'altopiano le nuvole salgono quasi ogni giorno dopo pranzo e la luce si spegne presto.
@@ -97,7 +97,7 @@ Chi vuole fatica sale sul **Gunung Batur** per l'alba, con partenza nella notte.
 ### Giorno 10 — Sidemen e la valle del Gunung Agung
 Gita a **Sidemen**, ai piedi del Gunung Agung. Le terrazze sono meno turistiche di Tegalalang e i pullman quasi non arrivano. Si cammina tra le risaie, si passa dai villaggi dove si tesse il **songket**, con fili d'oro e d'argento, e ci si ferma in un warung con vista sul vulcano. Il Gunung Agung, il vulcano più alto e più sacro di Bali, si vede meglio di mattina, prima che le nuvole lo coprano.
 
-Da Ubud sono 1h15-1h30 di strada. Con un driver, andata e ritorno costano di massima 350.000 IDR (20€ circa). Sulla strada del ritorno si può fermare il driver al **Tirta Gangga**, il giardino d'acqua del vecchio re di Karangasem, o a **Klungkung**, con il padiglione di giustizia dai soffitti dipinti. *Chi vuole camminare tra le risaie di Sidemen fa bene a prendere una guida del villaggio per un paio d'ore: i sentieri non sono segnalati e passano su proprietà private.* Sidemen è anche un posto tranquillo per dormire una notte, se il programma lo permette.
+Da Ubud sono 1h15-1h30 di strada. Con un driver, andata e ritorno costano di massima 350.000 IDR (20 € circa). Sulla strada del ritorno si può fermare il driver al **Tirta Gangga**, il giardino d'acqua del vecchio re di Karangasem, o a **Klungkung**, con il padiglione di giustizia dai soffitti dipinti. *Chi vuole camminare tra le risaie di Sidemen fa bene a prendere una guida del villaggio per un paio d'ore: i sentieri non sono segnalati e passano su proprietà private.* Sidemen è anche un posto tranquillo per dormire una notte, se il programma lo permette.
 
 **In pratica:** driver da Ubud circa 350.000 IDR andata e ritorno, di più se lo si tiene tutto il giorno · Tirta Gangga e Klungkung con piccoli biglietti d'ingresso · per i templi servono sarong e fascia in vita, spesso prestati all'ingresso.
 

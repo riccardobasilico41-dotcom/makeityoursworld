@@ -26,7 +26,7 @@ What stayed with me most about the Lofoten was the light. In July the midnight s
 
 ## Itinerario giorno per giorno
 ### Day 1 — Oslo
-We landed at Gardermoen around lunchtime. The city is 19 minutes away by **Flytoget**: inside the terminal you follow the "Flytoget Airport Express" signs, trains leave every ten minutes and the ticket costs about 210 NOK. From Oslo S the Citybox Hotel is a five-minute walk.
+We landed at Gardermoen around lunchtime. The city is about 20 minutes away by **Flytoget**: inside the terminal you follow the "Flytoget Airport Express" signs, trains leave every ten minutes and the ticket costs about NOK 276. From Oslo S the Citybox Hotel is a five-minute walk.
 
 The afternoon was one long walk: the Royal Palace gardens, the Aker Brygge waterfront, Renzo Piano's Astrup Fearnley museum and finally the Opera House, where we climbed onto the roof to look at the city and the sea. At the café inside, a hot tea hit the spot, even in July. We had dinner at **Rorbua**, also in Aker Brygge: traditional Norwegian cooking, generous portions, average prices, wood everywhere.
 

@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Il viaggio classico in Thailandia è quello al mare, e sul sito c'è già: [da Bangkok al mare del sud](/viaggi/thailandia). Questo è l'altro, quello del nord. Montagne, templi di legno, mercati serali e un ritmo più lento. A Chiang Mai ci sono stato in un viaggio a parte, e il contrasto con Bangkok e il sud si sente dal primo giorno. La mattinata con gli elefanti dell'Elephant Nature Park, senza mai cavalcarli, resta uno dei miei ricordi più belli della Thailandia.
+Il viaggio classico in Thailandia è quello al mare, e sul sito c'è già, da Bangkok al mare del sud. Questo è l'altro, quello del nord. Montagne, templi di legno, mercati serali e un ritmo più lento. A Chiang Mai ci sono stato in un viaggio a parte, e il contrasto con Bangkok e il sud si sente dal primo giorno. La mattinata con gli elefanti dell'Elephant Nature Park, senza mai cavalcarli, resta uno dei miei ricordi più belli della Thailandia.
 
 Il giro sale da Bangkok con il treno notturno, si ferma quasi una settimana a Chiang Mai, passa da Pai e chiude a Chiang Rai e al confine sul Mekong. C'è anche una sezione lunga sugli elefanti: come vederli senza fare del male, e come riconoscere un posto serio.
 
@@ -173,6 +173,8 @@ Di Chiang Mai mi è rimasto il ritmo, più lento del resto del paese, e la matti
 
 ## Nota su questa bozza
 Testo di provenienza e fonti tolto dalla chiusura (10/11/2026): Il viaggio nasce da luoghi che Rick ha visitato personalmente; Chiang Mai e l'Elephant Nature Park sono di un viaggio separato dal giro al mare. Per le altre tappe il testo resta sulle informazioni pratiche. Fonti: governo britannico (gov.uk), Seat61 per il treno, i siti dell'Elephant Nature Park e della Save Elephant Foundation, World Animal Protection e ABTA per gli elefanti, verificati a novembre 2026. Prezzi, orari e regole cambiano: vanno ricontrollati prima di partire.
+
+Tolte dai dati le etichette «(sito ufficiale)» sul Grand Palace e «secondo il sito del parco» sull'Elephant Nature Park. Wat Pho (circa 300 THB) e Wat Arun (circa 200 THB) secondo guide non ufficiali, non messi nel testo. Il link markdown nell'apertura è diventato testo semplice perché l'estratto delle card non lo interpreta.
 
 ## Tag
 `#thailandia` `#thailandianord` `#chiangmai` `#chiangrai` `#pai` `#triangolodoro` `#maehongson` `#elefantietici` `#trenonotturno` `#templi` `#asia`

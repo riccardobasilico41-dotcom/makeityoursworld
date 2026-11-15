@@ -61,7 +61,7 @@ export const arabiaSauditaItinerarioMeta: TripMeta = {
     { titoloGiorno: 'Giorno 12 — Rientro', tratta: 'Volo da Abha con scalo a Jeddah o Riyadh', intensita: 'leggero', destinazioneSlug: 'abha-asir', immagine: '/images/viaggi/arabia-saudita-itinerario/giorno-12-rientro.jpg', imageAlt: "La sala d'attesa vuota di un terminal aeroportuale, con l'aereo del volo di rientro visibile dal finestrino" },
   ],
   budget: [
-    { etichetta: 'Visto turistico elettronico', valore: 'circa 535 riyal (attorno ai 130€), assicurazione sanitaria inclusa' },
+    { etichetta: 'Visto turistico elettronico', valore: 'circa 535 riyal (attorno ai 130 €), assicurazione sanitaria inclusa' },
     { etichetta: 'Voli internazionali', valore: undefined },
     { etichetta: 'Tre voli interni', valore: 'Saudia e flynas, prezzi bassi ma da sommare' },
     { etichetta: 'Alloggi ad AlUla', valore: 'la voce più alta del viaggio: strutture poche e prezzi alti' },

@@ -33,7 +33,7 @@ export const destinazioniAustria: Destinazione[] = [
     cosaFare: [
       'Sedersi almeno una volta in un caffè storico (Café Central, Café Sacher o Landtmann tra i più noti) per capire dal vivo la Kaffeehauskultur, la cultura del caffè viennese riconosciuta dall\'UNESCO come patrimonio culturale immateriale dal 2011',
       'Salire sulla torre sud della Cattedrale di Santo Stefano per una vista dall\'alto sui tetti del centro storico',
-      'Assistere a uno spettacolo all\'Opera di Stato con un biglietto in piedi (Stehplatz), a partire da circa 13€, uno dei modi più economici al mondo per vedere un\'opera di alto livello',
+      'Assistere a uno spettacolo all\'Opera di Stato con un biglietto in piedi (Stehplatz), a partire da circa 13 €, uno dei modi più economici al mondo per vedere un\'opera di alto livello',
       'Un giro sul Wiener Riesenrad al Prater, soprattutto al tramonto',
       'Una passeggiata lungo il Ring, il viale che circonda l\'Innere Stadt sul tracciato delle antiche mura, tra edifici storicisti ottocenteschi',
     ],

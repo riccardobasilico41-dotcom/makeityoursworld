@@ -58,7 +58,7 @@ export const esperienzeGiordania: Esperienza[] = [
     percheFarla: 'Il Monastero è ancora più massiccio del Tesoro (45 metri di altezza per 50 di larghezza), e va visto per capire quanto si estende Petra oltre il Siq.',
     durata: '40-45 minuti di salita, più il tempo alla sommità',
     periodo: 'mattina, per evitare il caldo peggiore nella salita',
-    costo: 'incluso nell\'ingresso a Petra (Jordan Pass)',
+    costo: 'incluso nell\'ingresso a Petra',
     comePrenotare: 'nessuna prenotazione, si accede a piedi dal sito',
     cosaPortare: 'scarpe da trekking, acqua, cappello',
     perChiEAdatta: 'chi ha un minimo di allenamento: la salita è ripida e lunga',

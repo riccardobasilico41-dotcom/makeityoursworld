@@ -79,7 +79,7 @@ export const esperienzeFlorida: Esperienza[] = [
     percheFarla: 'Sono i parchi a tema più famosi al mondo, con attrazioni che vanno dai roller coaster più adrenalinici alle ricostruzioni in cui si entra, come il mondo di Harry Potter.',
     durata: 'giornata intera, dall\'apertura fino allo show serale',
     periodo: 'tutto l\'anno, meglio evitare i giorni di massima affluenza',
-    costo: 'Universal 130-210$ a seconda dei parchi scelti; Disney World da 250€ per minimo 2 giorni',
+    costo: 'Universal 130-210$ a seconda dei parchi scelti; Disney World da 250 € per minimo 2 giorni',
     comePrenotare: 'online con largo anticipo, anche tramite getyourguide.com per i biglietti cancellabili fino a 24h prima',
     cosaPortare: 'zaino piccolo (quelli grandi non entrano negli armadietti), acqua, snack leggeri, scarpe comode',
     perChiEAdatta: 'chiunque, con qualche attenzione alle attrazioni più adrenaliniche per chi soffre il movimento',

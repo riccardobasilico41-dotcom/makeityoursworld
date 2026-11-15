@@ -393,7 +393,7 @@ export const destinazioniFrancia: Destinazione[] = [
         "quando": "On a sunny day, when the windows colour the floor.",
         "tempo": "45 minutes",
         "costo": "about €7 (2026)",
-        "orari": "Closed Sundays; short and variable hours, to be checked on the chapel's website before setting off.",
+        "orari": "Closed Sundays; short and variable hours, check the chapel's website before setting off.",
         "lat": 43.72751,
         "lng": 7.11286,
         "consiglio": "Check the last bus to Cagnes before going up to Vence."
@@ -956,25 +956,25 @@ export const destinazioniFrancia: Destinazione[] = [
         "nome": "Marais and Île Saint-Louis",
         "perChi": "for a lively, central district",
         "testo": "Walking distance to many museums, with restaurants and lanes. Pricier and busy at weekends.",
-        "fascia": "180-320 €"
+        "fascia": "€180-320"
       },
       {
         "nome": "Latin Quarter and Saint-Germain",
         "perChi": "for a classic atmosphere",
         "testo": "Cafés, bookshops and metro nearby. Prices are high and nights are noisy.",
-        "fascia": "170-300 €"
+        "fascia": "€170-300"
       },
       {
         "nome": "Canal Saint-Martin",
         "perChi": "for bars and fewer tourists",
         "testo": "A young area with bars and small shops, north-east of the centre, well served by the metro.",
-        "fascia": "120-200 €"
+        "fascia": "€120-200"
       },
       {
         "nome": "Montmartre and Pigalle",
         "perChi": "those who want a village feel and slightly lower prices",
         "testo": "The upper part is quiet and hilly, with steps and lanes; the lower part towards Pigalle is livelier at night. Metro 2 and 12 reach the centre in 15-20 minutes.",
-        "fascia": "120-220 €"
+        "fascia": "€120-220"
       }
     ],
     gite: [
@@ -1459,7 +1459,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         "domanda": "Do you need to book the American cemetery at Colleville?",
-        "risposta": "Not at present: it's free and open daily from 9 am to 5 pm. The ABMC plans a free compulsory reservation from summer 2027, to be checked on its website."
+        "risposta": "Not at present: it's free and open daily from 9 am to 5 pm. The ABMC plans a free compulsory reservation from summer 2027, so check its website."
       },
       {
         "domanda": "Where can you see the Bayeux Tapestry?",
@@ -1852,7 +1852,7 @@ export const destinazioniFrancia: Destinazione[] = [
         "come": "By car from Tours or Amboise.",
         "quando": "Morning; in autumn the gardens have stronger colours.",
         "tempo": "2-3 hours",
-        "costo": "€19 with the guide leaflet, €24 with the audio guide (official site, 2026).",
+        "costo": "€19 with the guide leaflet, €24 with the audio guide (2026).",
         "url": "https://www.chenonceau.com/",
         "consiglio": "Spend time on the gardens and kitchens, not only the gallery.",
         "orari": "Open every day of the year, with hours that change by season: in November 9:30 am-5 pm (last entry 4:30 pm).",

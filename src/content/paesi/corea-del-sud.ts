@@ -17,7 +17,7 @@ export const coreaDelSud: Paese = {
   durataConsigliata:
     '12-14 giorni per Seoul, la DMZ, il sud (Gyeongju e Busan) e Jeju; 8-9 giorni per il minimo sindacale Seoul-DMZ-Busan; 16 giorni per aggiungere Seoraksan, Andong e i tempi morti che questo paese merita',
   budgetIndicativo:
-    'come il Giappone, ma un po\' più basso: KTX Seoul-Busan attorno ai 40€, hotel di buon livello 60-90€ a notte, pasti 6-15€ e tra i migliori dell\'Asia. Pesano il volo intercontinentale, l\'eventuale tour della JSA e Jeju in alta stagione.',
+    'come il Giappone, ma un po\' più basso: KTX Seoul-Busan attorno ai 40 €, hotel di buon livello 60-90 € a notte, pasti 6-15 € e tra i migliori dell\'Asia. Pesano il volo intercontinentale, l\'eventuale tour della JSA e Jeju in alta stagione.',
   stileViaggio: ['storia contemporanea', 'cultura', 'gastronomia', 'isole'],
   scheda: {
     documenti:
@@ -34,7 +34,7 @@ export const coreaDelSud: Paese = {
     trasportiInterni:
       'Il KTX, la rete ad alta velocità, collega Seoul a Busan in poco più di due ore e mezza e copre gran parte del paese. Si prenota online sul sito o sull\'app di Korail, che accettano carte estere; sulle tratte principali conviene farlo qualche giorno prima. Dove il treno non arriva ci sono gli autobus express, comodi e frequenti, con i sedili reclinabili nelle classi superiori. In città la metropolitana è capillare e pulita, ha cartelli e annunci in inglese e si paga con la T-money. Per Jeju si vola: la Seoul-Jeju è una delle tratte più trafficate al mondo e i voli costano pochissimo.',
     costoVita:
-      'Più economico del Giappone su quasi tutto, tranne gli alloggi nelle zone centrali di Seoul. Un pasto completo in un ristorante di quartiere sta tra i 6 e i 12 euro, con i contorni (banchan) sempre inclusi e riportati gratis quando finiscono. La metropolitana costa poco più di un euro. Il caffè invece costa quanto in Europa, a volte di più: in Corea i caffè sono luoghi di ritrovo e si paga la sosta.',
+      'Più economico del Giappone su quasi tutto, tranne gli alloggi nelle zone centrali di Seoul. Un pasto completo in un ristorante di quartiere sta tra i 6 e i 12 €, con i contorni (banchan) sempre inclusi e riportati gratis quando finiscono. La metropolitana costa poco più di un euro. Il caffè invece costa quanto in Europa, a volte di più: in Corea i caffè sono luoghi di ritrovo e si paga la sosta.',
     lingua:
       'Coreano. L\'hangul, l\'alfabeto, è stato progettato nel Quattrocento per essere imparato in fretta, e funziona: un paio d\'ore bastano per decifrare le insegne e i nomi delle fermate, e cambia parecchio. L\'inglese lo studiano tutti ma lo parlano con esitazione, soprattutto fuori Seoul; per il resto c\'è Papago. Le persone tendono ad aiutarti più di quanto la barriera linguistica lasci pensare.',
     elettricita: '220V, 60Hz, prese di tipo C e F: le spine italiane a due poli tondi entrano senza adattatore, cosa rara in Asia.',

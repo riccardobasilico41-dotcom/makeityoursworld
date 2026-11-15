@@ -89,8 +89,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Zócalo. Il Templo Mayor ha ingresso INAH separato; la Cattedrale è gratuita.",
         "quando": "Mattina, prima del caldo e delle manifestazioni che spesso occupano la piazza.",
         "tempo": "3 ore",
-        "costo": "Templo Mayor: 210 MXN per gli stranieri, circa 10 € (scheda INAH, 2026); la domenica è gratis solo per i cittadini messicani.",
-        "orari": "Templo Mayor: da martedì a domenica 9-17, chiuso il lunedì (scheda INAH).",
+        "costo": "Templo Mayor: 210 MXN per gli stranieri, circa 10 € (2026); la domenica è gratis solo per i cittadini messicani.",
+        "orari": "Templo Mayor: da martedì a domenica 9-17, chiuso il lunedì.",
         "lat": 19.435,
         "lng": -99.13139,
         "url": "https://lugares.inah.gob.mx/es/node/4463"
@@ -130,8 +130,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Auditorio o Chapultepec.",
         "quando": "Mattina, all'apertura; conviene cominciare dalla sala Mexica, al centro.",
         "tempo": "3-4 ore",
-        "costo": "210 MXN per gli stranieri, circa 10 € (scheda INAH, 2026).",
-        "orari": "Da martedì a domenica 9-18, chiuso il lunedì (scheda INAH).",
+        "costo": "210 MXN per gli stranieri, circa 10 € (2026).",
+        "orari": "Da martedì a domenica 9-18, chiuso il lunedì.",
         "lat": 19.42611,
         "lng": -99.18611,
         "url": "https://lugares.inah.gob.mx/es/node/4237",
@@ -143,8 +143,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Chapultepec, poi salita a piedi di circa 15 minuti dentro il parco.",
         "quando": "Mattina, abbinato al Museo di Antropologia nello stesso parco.",
         "tempo": "2 ore",
-        "costo": "210 MXN per gli stranieri, circa 10 € (scheda INAH, 2026).",
-        "orari": "Da martedì a domenica 9-17, chiuso il lunedì (scheda INAH).",
+        "costo": "210 MXN per gli stranieri, circa 10 € (2026).",
+        "orari": "Da martedì a domenica 9-17, chiuso il lunedì.",
         "lat": 19.42056,
         "lng": -99.18167,
         "url": "https://lugares.inah.gob.mx/es/node/4682"
@@ -155,8 +155,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Bus Autobuses Teotihuacán dalla Terminal del Norte, circa un'ora, o tour; ingresso INAH.",
         "quando": "All'apertura delle 8, prima del caldo e dei gruppi; la domenica è affollata.",
         "tempo": "Mezza giornata",
-        "costo": "210 MXN per gli stranieri, circa 10 € (scheda INAH, 2026). Secondo notizie dell'agosto 2026 la Piramide della Luna è chiusa fino a nuovo avviso: chiedere in biglietteria.",
-        "orari": "Tutti i giorni 8-17, ultimo ingresso alle 16.30 (scheda INAH).",
+        "costo": "210 MXN per gli stranieri, circa 10 € (2026). Secondo notizie dell'agosto 2026 la Piramide della Luna è chiusa fino a nuovo avviso: chiedere in biglietteria.",
+        "orari": "Tutti i giorni 8-17, ultimo ingresso alle 16.30.",
         "lat": 19.693,
         "lng": -98.844,
         "url": "https://lugares.inah.gob.mx/es/node/4528",
@@ -189,7 +189,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Uber o taxi da Coyoacán, una ventina di minuti.",
         "quando": "Primo pomeriggio, dopo Coyoacán.",
         "tempo": "1,5 ore",
-        "orari": "Da martedì a domenica 11-17.30, chiuso il lunedì (sito ufficiale).",
+        "orari": "Da martedì a domenica 11-17.30, chiuso il lunedì.",
         "lat": 19.3227,
         "lng": -99.14451,
         "url": "https://www.museoanahuacalli.org.mx/"
@@ -200,7 +200,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro fino a Tasqueña e poi tren ligero, o Uber fino agli imbarcaderi.",
         "quando": "Mattina nei giorni feriali, meno folla.",
         "tempo": "2-3 ore",
-        "costo": "Indicativamente 600-700 MXN all'ora per l'intera barca, circa 30-35 € (dal viaggio, 2026).",
+        "costo": "Indicativamente 600-700 MXN all'ora per l'intera barca, circa 30-35 € (2026).",
         "lat": 19.25206,
         "lng": -99.09335,
         "consiglio": "Concordare durata e prezzo della barca prima di salire; mariachi e venditori si pagano a parte."
@@ -211,8 +211,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Uber o taxi fino a Polanco (Nuevo Polanco).",
         "quando": "Pomeriggio, anche il lunedì, quando molti musei sono chiusi.",
         "tempo": "1,5 ore",
-        "costo": "Ingresso gratuito (sito ufficiale).",
-        "orari": "Tutti i giorni 10.30-18.30 (sito ufficiale).",
+        "costo": "Ingresso gratuito.",
+        "orari": "Tutti i giorni 10.30-18.30.",
         "lat": 19.44066,
         "lng": -99.20462,
         "url": "https://www.museosoumaya.org/"
@@ -304,7 +304,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       {
         "nome": "Puebla e Cholula",
         "distanza": "circa 2 ore in bus",
-        "come": "Bus ADO dal TAPO o dalla Terminal del Oriente, 200-300 MXN (dal viaggio).",
+        "come": "Bus ADO dal TAPO o dalla Terminal del Oriente, 200-300 MXN.",
         "testo": "Il centro barocco di Puebla, con la Capilla del Rosario e la Biblioteca Palafoxiana, e la chiesa di Cholula in cima alla piramide, con il Popocatépetl alle spalle. Meglio con una notte."
       },
       {
@@ -697,7 +697,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Taxi senza tassametro: concordare il prezzo."
       ],
     comeArrivare: "Bus ADO da Puebla o da Città del Messico; voli da Città del Messico. Da Puebla (CAPU) il bus ADO impiega circa 4 ore e mezza attraverso la sierra, 450-800 MXN secondo la classe (circa 22-40 €); da Città del Messico il viaggio diretto dura 6-7 ore. Nei giorni del Día de los Muertos i posti finiscono: prenotare qualche giorno prima. Il terminal ADO è a nord del centro, a una decina di minuti di taxi da Santo Domingo. Verso la costa, la nuova autostrada porta a Puerto Escondido in circa 3-3 ore e mezza di bus o van (300-500 MXN). Prima di partire chiedere in hotel se ci sono bloqueos, i blocchi stradali di sindacati e comunità.",
-    costi: "Ingresso ai panteones libero; tour serali ai cimiteri a prezzi variabili, indicativamente 600-1.200 MXN a persona con trasporto (dal viaggio, 2026). Monte Albán e Mitla 210 MXN ciascuno per gli stranieri (schede INAH, 2026), Museo de las Culturas 210 MXN, Hierve el Agua 50-100 MXN in contanti. Budget basso circa 60-90 € al giorno a persona (ostello, mercati, colectivos); medio 125-200 € (casa de huéspedes o piccolo hotel in centro, ristoranti, un tour nei Valles Centrales); alto da 300 € (hotel in casa coloniale, autista, cucina d'autore). Nelle notti della festa gli alloggi costano due o tre volte tanto.",
+    costi: "Ingresso ai panteones libero; tour serali ai cimiteri a prezzi variabili, indicativamente 600-1.200 MXN a persona con trasporto (2026). Monte Albán e Mitla 210 MXN ciascuno per gli stranieri (2026), Museo de las Culturas 210 MXN, Hierve el Agua 50-100 MXN in contanti. Budget basso circa 60-90 € al giorno a persona (ostello, mercati, colectivos); medio 125-200 € (casa de huéspedes o piccolo hotel in centro, ristoranti, un tour nei Valles Centrales); alto da 300 € (hotel in casa coloniale, autista, cucina d'autore). Nelle notti della festa gli alloggi costano due o tre volte tanto.",
     luoghi: [
       {
         "nome": "Templo de Santo Domingo e giardino etnobotanico",
@@ -716,7 +716,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Ingresso dal lato della chiesa di Santo Domingo.",
         "quando": "Mattina, prima di Monte Albán o subito dopo.",
         "tempo": "2 ore",
-        "costo": "210 MXN per gli stranieri, circa 10 € (scheda INAH, 2026).",
+        "costo": "210 MXN per gli stranieri, circa 10 € (2026).",
         "orari": "Da martedì a sabato 10-16, chiuso domenica e lunedì secondo la scheda INAH: verificare prima.",
         "lat": 17.06592,
         "lng": -96.72315,
@@ -728,8 +728,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Navette dal centro o taxi, circa 20 minuti; ingresso INAH con il museo di sito compreso.",
         "quando": "All'apertura: nelle ore centrali fa caldo e non c'è ombra.",
         "tempo": "2-3 ore",
-        "costo": "210 MXN per gli stranieri, circa 10 € (scheda INAH, 2026).",
-        "orari": "Tutti i giorni 8-17, ultimo ingresso alle 16 (scheda INAH).",
+        "costo": "210 MXN per gli stranieri, circa 10 € (2026).",
+        "orari": "Tutti i giorni 8-17, ultimo ingresso alle 16.",
         "lat": 17.04389,
         "lng": -96.76778,
         "url": "https://lugares.inah.gob.mx/es/node/4351"
@@ -781,8 +781,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "A piedi dal centro, in calle Hidalgo.",
         "quando": "Qualsiasi ora, anche la sera.",
         "tempo": "1 ora",
-        "costo": "Ingresso libero (sito ufficiale).",
-        "orari": "Lunedì-venerdì 10-20, sabato 11-20, domenica 11-18 (sito ufficiale).",
+        "costo": "Ingresso libero.",
+        "orari": "Lunedì-venerdì 10-20, sabato 11-20, domenica 11-18.",
         "lat": 17.06077,
         "lng": -96.72292,
         "url": "https://museotextildeoaxaca.org/"
@@ -909,8 +909,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       {
         "nome": "Mitla e Hierve el Agua",
         "distanza": "circa 45 km e 70 km, giornata",
-        "come": "Tour di gruppo, indicativamente 600-900 MXN a persona ingressi esclusi (dal viaggio), o colectivo fino a Mitla.",
-        "testo": "Mitla ha i mosaici geometrici di pietra unici in Mesoamerica (210 MXN per gli stranieri, aperta tutti i giorni 8-17, scheda INAH); Hierve el Agua le cascate pietrificate con le vasche sul precipizio, quando la comunità la tiene aperta (50-100 MXN in contanti)."
+        "come": "Tour di gruppo, indicativamente 600-900 MXN a persona ingressi esclusi, o colectivo fino a Mitla.",
+        "testo": "Mitla ha i mosaici geometrici di pietra unici in Mesoamerica (210 MXN per gli stranieri, aperta tutti i giorni 8-17); Hierve el Agua le cascate pietrificate con le vasche sul precipizio, quando la comunità la tiene aperta (50-100 MXN in contanti)."
       },
       {
         "nome": "San Bartolo Coyotepec",
@@ -930,7 +930,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       },
       {
         "domanda": "Come si va a Monte Albán?",
-        "risposta": "Con le navette che partono dal centro o in taxi, circa 20 minuti. Il sito apre alle 8 e l'ingresso costa 210 MXN per gli stranieri (scheda INAH, 2026)."
+        "risposta": "Con le navette che partono dal centro o in taxi, circa 20 minuti. Il sito apre alle 8 e l'ingresso costa 210 MXN per gli stranieri (2026)."
       },
       {
         "domanda": "Hierve el Agua è aperta?",
@@ -1251,7 +1251,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Strada da Oaxaca lunga e con curve: valutare il volo."
       ],
     comeArrivare: "Bus o van da Oaxaca sulla nuova autostrada; voli diretti da Città del Messico. Con l'autostrada Barranca Larga-Ventanilla, aperta del tutto nel 2024, da Oaxaca servono circa 3-3 ore e mezza invece delle sei-sette di prima, 300-500 MXN (15-25 €): meglio partire in mattinata con il posto prenotato il giorno prima e chiedere se ci sono bloqueos. Il volo da Città del Messico dura circa un'ora (Aeroméxico, Volaris e Viva) e l'aeroporto è a pochi minuti di taxi da Zicatela e dal centro. Chi dorme a Mazunte usa l'aeroporto di Huatulco, a circa un'ora di strada.",
-    costi: "Lezioni di surf e tour della laguna a prezzi variabili: confrontare sul posto. Lezione di surf di gruppo circa 600-900 MXN (30-45 €), Centro Mexicano de la Tortuga circa 50 MXN, liberazione delle tartarughe a offerta (dal viaggio, 2026). Budget basso circa 50-70 € al giorno a persona (ostello alla Punta, pesce in spiaggia, colectivos); medio 100-160 € (hotel a Zicatela, una lezione di surf, la laguna di Manialtepec); alto da 250 € (hotel tranquillo a Carrizalillo o Rinconada, uscite private).",
+    costi: "Lezioni di surf e tour della laguna a prezzi variabili: confrontare sul posto. Lezione di surf di gruppo circa 600-900 MXN (30-45 €), Centro Mexicano de la Tortuga circa 50 MXN, liberazione delle tartarughe a offerta (2026). Budget basso circa 50-70 € al giorno a persona (ostello alla Punta, pesce in spiaggia, colectivos); medio 100-160 € (hotel a Zicatela, una lezione di surf, la laguna di Manialtepec); alto da 250 € (hotel tranquillo a Carrizalillo o Rinconada, uscite private).",
     luoghi: [
       {
         "nome": "Playa Zicatela",
@@ -1279,7 +1279,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Taxi dal centro o a piedi lungo Zicatela.",
         "quando": "Mattina presto per il surf, sera per i locali.",
         "tempo": "Mezza giornata",
-        "costo": "Lezione di surf di gruppo circa 600-900 MXN, 30-45 € (dal viaggio, 2026).",
+        "costo": "Lezione di surf di gruppo circa 600-900 MXN, 30-45 € (2026).",
         "lat": 15.83415,
         "lng": -97.0442
       },
@@ -1330,8 +1330,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "A Mazunte, lungo la strada principale; si abbina a Punta Cometa.",
         "quando": "Mattina o primo pomeriggio.",
         "tempo": "1 ora",
-        "costo": "Circa 50 MXN, 2-3 € (dal viaggio, 2026)",
-        "orari": "Chiuso lunedì e martedì (dal viaggio).",
+        "costo": "Circa 50 MXN, 2-3 € (2026)",
+        "orari": "Chiuso lunedì e martedì.",
         "lat": 15.66652,
         "lng": -96.55177
       }

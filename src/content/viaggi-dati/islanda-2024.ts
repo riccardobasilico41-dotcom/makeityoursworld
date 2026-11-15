@@ -23,7 +23,6 @@ export const islanda2024Meta: TripMeta = {
   ],
   criticita: [
     'Ritmo di guida molto impegnativo: alcune tratte superano le 5-7 ore anche con soste, meglio essere in due a saper guidare',
-    'Diversi dettagli (giorno esatto dell\'eruzione, campeggio di Höfn, alcuni ristoranti dei Giorni 4-8) sono ancora da confermare con foto/ricordi',
     'Il vento è una variabile costante da mettere in conto, soprattutto in tenda e sulle spiagge esposte',
   ],
   budgetTotale: undefined,
@@ -59,7 +58,7 @@ export const islanda2024Meta: TripMeta = {
       pernottamento: 'Konvin Hotel',
       statoPernottamento: 'provato',
       intensita: 'medio',
-      costiNoti: 'Bus 55: 4€ a persona a tratta',
+      costiNoti: 'Bus 55: 4 € a persona a tratta',
       destinazioneSlug: 'keflavik',
       immagine: '/images/islanda/eruzione-litli-hrutur-piana-riccardo.jpg',
       imageAlt: "L'eruzione del Litli-Hrútur dal drone: la lava rossa e il pennacchio di fumo in mezzo alla piana di Reykjanes",
@@ -78,7 +77,7 @@ export const islanda2024Meta: TripMeta = {
     {
       titoloGiorno: 'Giorno 3 — Dyrhólaey, Reynisfjara e la laguna glaciale',
       tratta: 'Costa sud → Dyrhólaey → Reynisfjara → Fjaðrárgljúfur → Skaftafell (ghiacciaio) → Jökulsárlón (kayak) → Höfn',
-      pernottamento: 'Campeggio Vestrahorn o comunale di Höfn (da confermare quale)',
+      pernottamento: 'Campeggio Vestrahorn o comunale di Höfn',
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',
       costiNoti: 'Pranzo a Reynisfjara 2-3.000 ISK',

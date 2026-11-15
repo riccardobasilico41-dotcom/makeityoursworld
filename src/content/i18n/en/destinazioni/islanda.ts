@@ -1063,7 +1063,7 @@ export const destinazioniIslanda: Destinazione[] = [
     comeArrivare: "From Höfn along the East Fjords on Route 1: about 250 km, three or four hours on paper that become five or six with stops, as the road follows every fjord. From Akureyri, Route 1 crosses the highlands in about three and a half hours. Egilsstaðir airport has domestic flights from Reykjavík of about an hour, and the Smyril Line Norröna ferry from Denmark docks at Seyðisfjörður, 27 km away. The Öxi pass shortcut is gravel and closes in winter: check road.is.",
     comeSpostarsi: 'Rental car.',
     periodoMigliore: "the same as the whole trip: summer, if you tour the island by tent",
-    costi: "Campsite about 2,000 ISK per person. Vök Baths 7,690 ISK (about 55 €), Skriðuklaustur 1,800 ISK, Egilsstaðir museum 1,500 ISK. Indicative daily budget per person: low 60-90 € (campsite, supermarket food, fuel split between two); mid 150-220 € (guesthouse in a double room, Vök Baths, one restaurant dinner); high 300 € and up (lakeside hotel, dinners with reindeer dishes).",
+    costi: "Campsite about 2,000 ISK per person. Vök Baths 7,690 ISK (about €55), Skriðuklaustur 1,800 ISK, Egilsstaðir museum 1,500 ISK. Indicative daily budget per person: low €60-90 (campsite, supermarket food, fuel split between two); mid €150-220 (guesthouse in a double room, Vök Baths, one restaurant dinner); high €300 and up (lakeside hotel, dinners with reindeer dishes).",
     erroriDaEvitare: [],
     miaEsperienza: "The Vök Baths came at just the right moment: after two days of hiking and wind, it was the first real hot bath of the trip.",
     luoghi: [
@@ -1088,7 +1088,7 @@ export const destinazioniIslanda: Destinazione[] = [
         consiglio: "Walk to the waterfalls along the road, with several stops."
       },
       {
-        costo: "Adults 7,690 ISK (about 55 €), students and seniors 5,290 ISK, children 6-15 3,590 ISK; towel rental 1,390 ISK",
+        costo: "Adults 7,690 ISK (about €55), students and seniors 5,290 ISK, children 6-15 3,590 ISK; towel rental 1,390 ISK",
         orari: "15 June-15 September daily 10:00-23:00; 16 September-14 June daily 12:00-22:00; pools close 15 minutes before closing time",
         url: "https://www.vokbaths.is",
         lat: 65.3031,
@@ -1127,7 +1127,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "By car, about 40 km from Egilsstaðir in the Fljótsdalur valley, just past Hengifoss.",
         quando: "April to mid-October; good on a rainy day too.",
         tempo: "1-1.5 hours",
-        costo: "Adults 1,800 ISK (about 13 €) including exhibitions and guided tour; students and seniors 1,000 ISK; free up to 18 with an adult (2026)",
+        costo: "Adults 1,800 ISK (about €13) including exhibitions and guided tour; students and seniors 1,000 ISK; free up to 18 with an adult (2026)",
         orari: "April-May 11:00-17:00; June-August 10:00-17:00; September-15 October 11:00-17:00; variable hours in winter",
         url: "https://www.skriduklaustur.is",
         lat: 65.0409,
@@ -1139,7 +1139,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "On foot in the centre, at Laufskógar 1.",
         quando: "In bad weather or on a summer evening.",
         tempo: "1 hour",
-        costo: "Adults 1,500 ISK (about 11 €), seniors 1,000 ISK, free up to 17",
+        costo: "Adults 1,500 ISK (about €11), seniors 1,000 ISK, free up to 17",
         orari: "June-August daily 10:00-18:00; September-May Tue-Fri 11:00-16:00, closed Saturday, Sunday and Monday",
         url: "https://www.minjasafn.is",
         lat: 65.2626,
@@ -1176,7 +1176,7 @@ export const destinazioniIslanda: Destinazione[] = [
       { titolo: "3 days", tappe: ["Days 1-2: as above", "Day 3: loop around Lagarfljót with Hallormsstaður, Hengifoss and Skriðuklaustur", "Or head north via Stuðlagil"] },
     ],
     zone: [
-      { nome: "Central Egilsstaðir", perChi: "Those passing through on Route 1", testo: "The campsite, hotels and supermarkets are all close together, with Vök Baths ten minutes away.", fascia: "about 30 € for two in a tent at Camp Egilsstaðir (2,000 ISK per person)" },
+      { nome: "Central Egilsstaðir", perChi: "Those passing through on Route 1", testo: "The campsite, hotels and supermarkets are all close together, with Vök Baths ten minutes away.", fascia: "about €30 for two in a tent at Camp Egilsstaðir (2,000 ISK per person)" },
       { nome: "Lake Lagarfljót and Hallormsstaður", perChi: "Those who want woodland and quiet", testo: "Hotels and cottages in the forest, half an hour from town, handy for Hengifoss and Skriðuklaustur." },
       { nome: "Seyðisfjörður", perChi: "Those arriving by ferry or wanting a fjord village", testo: "Guesthouses in wooden houses and a hostel in the artists' village. Livelier than Egilsstaðir at night, but the pass can close with snow." },
     ],
@@ -1224,7 +1224,7 @@ export const destinazioniIslanda: Destinazione[] = [
     comeArrivare: "From Egilsstaðir head north-west on Route 1, with the detour to Stuðlagil (about an hour, last stretch on gravel); then about two hours to Dettifoss on paved road 862 and another 40 minutes to Ásbyrgi. From Húsavík it is about an hour along the coast, from Akureyri a couple of hours. There is no convenient public transport: you need a car, and should fill up in Húsavík or Egilsstaðir.",
     comeSpostarsi: "Rental car; last stretch to Stuðlagil on dirt road.",
     periodoMigliore: "campsite open from mid-May to the end of October",
-    costi: "check the campsite price when booking. The national park rate for the Ásbyrgi campsite is 2,800 ISK per person per night (about 20 €), 2,300 ISK for seniors, free up to 16 with an adult; electricity 1,500 ISK per 24 hours. Indicative daily budget per person: low 50-80 € (campsite, food bought beforehand, fuel split between two); mid 130-200 € (guesthouse in Kópasker or Húsavík, one restaurant dinner); high 250 € and up (hotel in Húsavík, whale watching).",
+    costi: "check the campsite price when booking. The national park rate for the Ásbyrgi campsite is 2,800 ISK per person per night (about €20), 2,300 ISK for seniors, free up to 16 with an adult; electricity 1,500 ISK per 24 hours. Indicative daily budget per person: low €50-80 (campsite, food bought beforehand, fuel split between two); mid €130-200 (guesthouse in Kópasker or Húsavík, one restaurant dinner); high €250 and up (hotel in Húsavík, whale watching).",
     erroriDaEvitare: ["Don't leave the campsite unbooked in high season: the area is very remote and alternatives are few"],
     miaEsperienza: "You hear Dettifoss before you see it: the roar and the force of the muddy water are among the most physical memories of the trip.",
     luoghi: [
@@ -1324,7 +1324,7 @@ export const destinazioniIslanda: Destinazione[] = [
       { titolo: "3 days", tappe: ["Days 1-2: as above", "Day 3: whale watching in Húsavík in the morning", "Afternoon at Lake Mývatn"] },
     ],
     zone: [
-      { nome: "Ásbyrgi campsite", perChi: "Those travelling with a tent or camper", testo: "On the canyon floor, open mid-May to late October, with showers, laundry and trails starting from the pitches.", fascia: "about 40 € for two in a tent (2,800 ISK per person)" },
+      { nome: "Ásbyrgi campsite", perChi: "Those travelling with a tent or camper", testo: "On the canyon floor, open mid-May to late October, with showers, laundry and trails starting from the pitches.", fascia: "about €40 for two in a tent (2,800 ISK per person)" },
       { nome: "Kópasker", perChi: "Those wanting a bed near the canyon", testo: "A small seaside village about 35-40 minutes away, with two guesthouses and a hostel: the only rooms nearby." },
       { nome: "Húsavík", perChi: "Those who want services and whale watching", testo: "About an hour away, with hotels, restaurants, supermarkets and whale-watching boats: the most convenient base if not camping." },
     ],

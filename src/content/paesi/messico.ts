@@ -13,7 +13,7 @@ export const messico: Paese = {
   scheda: {
     documenti:
       'Passaporto elettronico con almeno 6 mesi di validità residua. Nessun visto per turismo: i cittadini italiani possono restare fino a 180 giorni. Negli aeroporti di Cancún e Città del Messico si passa dagli e-gate e il permesso di soggiorno viene rilasciato automaticamente, senza più il modulo cartaceo FMM.',
-    valuta: 'Peso messicano (MXN), indicativamente 1€ = 20 MXN. I dollari USA sono accettati in molte zone turistiche, ma quasi sempre a un cambio sfavorevole: conviene pagare in pesos.',
+    valuta: 'Peso messicano (MXN), indicativamente 1 € = 20 MXN. I dollari USA sono accettati in molte zone turistiche, ma quasi sempre a un cambio sfavorevole: conviene pagare in pesos.',
     pagamenti:
       'Meglio prelevare o cambiare in banca (serve il passaporto) che ai banchi di cambio da strada delle zone turistiche, dove circolano banconote false. Le carte sono accettate nei posti turistici, a volte con commissioni fino al 10%. A Holbox c\'è un solo bancomat sull\'isola: conviene arrivarci con contanti sufficienti.',
     connettivita:

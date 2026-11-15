@@ -11,7 +11,7 @@ export const newYork: Paese = {
     'Seis días en la ciudad de Nueva York (no el estado del mismo nombre, mucho más grande), 15-20 km a pie al día: Times Square de noche, el atardecer desde el Top of the Rock, la Estatua de la Libertad, un musical en Broadway, DUMBO con el puente de Manhattan al fondo y un partido en directo, béisbol en plena carrera por los playoffs o baloncesto de la WNBA con las New York Liberty. El programa es más rico de lo que se consigue hacer en una semana, a propósito: hay que elegir las prioridades.',
   periodoMigliore: 'septiembre, para juntar la carrera por los playoffs de la MLB (béisbol) con los playoffs de la WNBA de las New York Liberty (la temporada de la NBA empieza solo en octubre)',
   durataConsigliata: '6-7 días para cubrir Manhattan y Brooklyn sin correr demasiado',
-  budgetIndicativo: 'unos 200-280€ para hacer casi todo (excluidos vuelo y hotel)',
+  budgetIndicativo: 'unos 200-280 € para hacer casi todo (excluidos vuelo y hotel)',
   scheda: {
     documenti:
       'Pasaporte electrónico italiano (todos los emitidos desde 2010 lo son) más autorización ESTA para estancias turísticas de hasta 90 días, con billete de ida y vuelta. El coste ha cambiado: desde el 30 de septiembre de 2025 el ESTA cuesta 40,27$, casi el doble de los 21$ anteriores. Vale 2 años, pero caduca si caduca el pasaporte. Quien ha viajado a Cuba, Corea del Norte, Siria o Irán no puede usar el ESTA y debe pedir un visado propiamente dicho.',
@@ -25,7 +25,7 @@ export const newYork: Paese = {
       'Nueva York es hoy una de las grandes ciudades más seguras de Estados Unidos para los visitantes, con las precauciones normales contra los carteristas en el metro y en las zonas concurridas como Times Square.',
     trasportiInterni:
       'El metro, activo las 24 horas, es la solución más eficiente; se paga con OMNY, acercando la tarjeta contactless. Uber y Lyft son cómodos sobre todo por la noche. Se camina muchísimo: 15-20 km al día son la norma con un programa completo.',
-    costoVita: 'Ciudad cara: aproximadamente 200-280€ por persona para hacer casi todo en seis días, excluidos vuelo y hotel.',
+    costoVita: 'Ciudad cara: aproximadamente 200-280 € por persona para hacer casi todo en seis días, excluidos vuelo y hotel.',
     lingua: 'Inglés.',
     elettricita: '120V, 60Hz, enchufes de tipo A y B: hace falta un adaptador desde Italia.',
     fusoOrario: 'UTC-4 en horario de verano y UTC-5 en invierno: 6 horas menos que en Italia todo el año.',

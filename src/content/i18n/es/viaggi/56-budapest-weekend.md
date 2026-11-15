@@ -57,7 +57,7 @@ Por la tarde, quien ha elegido Széchenyi tiene alrededor el **Parque de la Ciud
 
 *Atención: las Termas Gellért están cerradas desde el 1 de octubre de 2025 por una restauración de varios años y no se prevé su reapertura antes de 2028; en el lado de Buda la alternativa más cercana hoy son las Termas Rudas.*
 
-**En la práctica:** Széchenyi con la línea amarilla de metro M1 hasta Széchenyi fürdő · entrada de día con taquilla en torno a 30-40 euros según el día, más barata online y entre semana · traer (o alquilar) bañador, chanclas y toalla · primera hora de la mañana o última de la tarde son las franjas menos concurridas.
+**En la práctica:** Széchenyi con la línea amarilla de metro M1 hasta Széchenyi fürdő · entrada de día con taquilla en torno a 30-40 € según el día, más barata online y entre semana · traer (o alquilar) bañador, chanclas y toalla · primera hora de la mañana o última de la tarde son las franjas menos concurridas.
 
 ### Día 4 — Danubio, Isla Margarita y el último paseo
 Por la mañana fuimos a la **Isla Margarita** (Margitsziget), el parque sin tráfico en medio del Danubio, con la fuente musical y sus termas menores: un ritmo más lento después de tres días de ciudad. Se entra por el lado sur, desde el **Puente Margarita**, y se puede recorrer la isla a pie o en bici de alquiler, pasando por el jardín japonés, la torre del agua y las ruinas del convento dominico donde vivió santa Margarita. *Los espectáculos de la fuente musical se celebran en la temporada cálida: en invierno la isla sigue siendo agradable, pero más desnuda.*

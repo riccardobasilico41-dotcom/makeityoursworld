@@ -13,9 +13,9 @@ export const thailandia: Paese = {
   scheda: {
     documenti:
       'Passaporto con almeno 6 mesi di validità residua. Una modifica recente: dal 15 settembre 2026 l\'esenzione dal visto per i cittadini italiani è tornata a 30 giorni per ingresso, dopo il periodo in cui era stata estesa a 60. È obbligatoria anche la Thailand Digital Arrival Card (TDAC), da compilare online nelle 72 ore precedenti l\'arrivo e da mostrare alla frontiera. Può essere richiesta la prova di fondi: 20.000 THB a persona, 40.000 per nucleo familiare.',
-    valuta: 'Baht thailandese (THB), indicativamente 1€ = 35-40 THB.',
+    valuta: 'Baht thailandese (THB), indicativamente 1 € = 35-40 THB.',
     pagamenti:
-      'I bancomat sono ovunque, ma quasi tutte le banche thailandesi applicano una commissione fissa di circa 220 THB (6€ circa) su ogni prelievo con carta estera: conviene prelevare poche volte e importi consistenti. I 7-Eleven, aperti 24 ore e ovunque, servono per quasi tutto, ma per legge dopo le 22:00 non vendono alcolici.',
+      'I bancomat sono ovunque, ma quasi tutte le banche thailandesi applicano una commissione fissa di circa 220 THB (6 € circa) su ogni prelievo con carta estera: conviene prelevare poche volte e importi consistenti. I 7-Eleven, aperti 24 ore e ovunque, servono per quasi tutto, ma per legge dopo le 22:00 non vendono alcolici.',
     connettivita:
       'Tre operatori principali: AIS, Dtac e True Move, con stand negli aeroporti internazionali. La SIM deve essere registrata a nome di una persona fisica, quindi serve il passaporto. Copertura ottima ovunque, isole comprese.',
     salute:

@@ -106,6 +106,9 @@ function sezioniChecklist(lista: ListaAttrezzatura, lingua: Lingua): SezioneChec
   }))
 }
 
+// slug fuori dall'elenco: nessuna rotta, quindi la 404 vera di global-not-found.tsx (già nell'HTML)
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   return listeAttrezzatura.map((l) => ({ slug: l.slug }))
 }

@@ -26,12 +26,14 @@ export function Consigliati({ chiave, lingua }: { chiave: string; lingua: Lingua
       <TitoloSezione icona={HeartHandshake}>{t.titolo}</TitoloSezione>
       <p className="mt-3 max-w-[70ch] text-sm leading-relaxed text-stone">{t.nota}</p>
       <ul className="mt-6 grid gap-4 md:grid-cols-2">
-        {voci.map((v) => (
-          <li key={v.nome} className="flex flex-col border-2 border-ink bg-cream p-5 sm:p-6">
+        {voci.map((v) => {
+          const nome = typeof v.nome === 'string' ? v.nome : v.nome[lingua]
+          return (
+          <li key={nome} className="flex flex-col border-2 border-ink bg-cream p-5 sm:p-6">
             <p className={`text-[11px] font-semibold uppercase tracking-[0.18em] ${v.fatto ? 'text-rosso' : 'text-stone/85'}`}>
               {v.cosa[lingua]} · {v.fatto ? t.fatto : t.nonFatto}
             </p>
-            <h3 className="mt-1 font-display text-xl text-alpine">{v.nome}</h3>
+            <h3 className="mt-1 font-display text-xl text-alpine">{nome}</h3>
             <p className="mt-2 flex-1 leading-relaxed text-stone">{v.testo[lingua]}</p>
             {(v.url || v.whatsapp) && (
               <p className="mt-4 flex flex-wrap gap-x-5 gap-y-2">
@@ -53,7 +55,8 @@ export function Consigliati({ chiave, lingua }: { chiave: string; lingua: Lingua
               </p>
             )}
           </li>
-        ))}
+          )
+        })}
       </ul>
     </div>
   )

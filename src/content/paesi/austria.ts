@@ -19,7 +19,7 @@ export const austria: Paese = {
   durataConsigliata:
     '3-4 giorni per l\'Innere Stadt, Schönbrunn, il Belvedere e il Prater; non è pensata per essere estesa a un tour di tutto il paese.',
   budgetIndicativo:
-    'nella media europea, più alto di Praga e Cracovia ma inferiore a molte capitali dell\'Europa occidentale: i musei principali (Schönbrunn, Belvedere, Hofburg) hanno biglietti sui 20-25€, i trasporti pubblici sono economici ed efficienti, e i biglietti in piedi dell\'Opera di Stato (a partire da circa 13€) restano uno dei modi più economici al mondo per assistere a uno spettacolo lirico di alto livello.',
+    'nella media europea, più alto di Praga e Cracovia ma inferiore a molte capitali dell\'Europa occidentale: i musei principali (Schönbrunn, Belvedere, Hofburg) hanno biglietti sui 20-25 €, i trasporti pubblici sono economici ed efficienti, e i biglietti in piedi dell\'Opera di Stato (a partire da circa 13 €) restano uno dei modi più economici al mondo per assistere a uno spettacolo lirico di alto livello.',
   stileViaggio: ['città', 'arte', 'musica', 'gastronomia'],
   scheda: {
     documenti:
@@ -35,8 +35,8 @@ export const austria: Paese = {
     sicurezza:
       'Vienna è una delle città più sicure al mondo per la criminalità violenta, stabilmente ai vertici di classifiche internazionali come il Safe Cities Index. Il rischio reale è quello dei borseggi: la città registra diverse migliaia di casi l\'anno, concentrati soprattutto sulla **linea U3 della metropolitana** (in particolare tra Stephansplatz e Westbahnhof), nei vagoni affollati nelle ore di punta e nei luoghi più turistici come **Stephansplatz, il Naschmarkt nei weekend e le stazioni principali**. Circola anche qui, come in altre capitali europee, la truffa dei **finti agenti di polizia** che chiedono di controllare documenti o borsello: un vero agente non lo fa per strada senza motivo. Per il resto, le normali accortezze contro i borseggi in luoghi affollati bastano.',
     trasportiInterni:
-      'Rete di metropolitana (U-Bahn, cinque linee), tram e bus tra le più efficienti ed estese d\'Europa, gestita da Wiener Linien. Biglietto singolo attorno ai 2,40€, giornaliero (24 ore) attorno ai 6€, 48 ore attorno ai 14€: per un weekend di tre-quattro giorni vale la pena calcolare in anticipo se convenga di più il biglietto plurigiorno o i singoli. Il centro storico è comunque percorribile a piedi in gran parte. Non serve un\'auto a noleggio.',
-    costoVita: 'Nella media dell\'Europa occidentale: un caffè in un caffè storico del centro 5-7€, un pasto normale 15-25€ a testa, i biglietti in piedi dell\'Opera di Stato a partire da circa 13€.',
+      'Rete di metropolitana (U-Bahn, cinque linee), tram e bus tra le più efficienti ed estese d\'Europa, gestita da Wiener Linien. Biglietto singolo attorno ai 2,40 €, giornaliero (24 ore) attorno ai 6 €, 48 ore attorno ai 14 €: per un weekend di tre-quattro giorni vale la pena calcolare in anticipo se convenga di più il biglietto plurigiorno o i singoli. Il centro storico è comunque percorribile a piedi in gran parte. Non serve un\'auto a noleggio.',
+    costoVita: 'Nella media dell\'Europa occidentale: un caffè in un caffè storico del centro 5-7 €, un pasto normale 15-25 € a testa, i biglietti in piedi dell\'Opera di Stato a partire da circa 13 €.',
     lingua: 'Tedesco, con un accento e alcune espressioni austriache diverse dal tedesco standard. L\'inglese è molto diffuso nel centro, negli hotel e tra i più giovani.',
     elettricita: '230V, 50Hz, prese di tipo F (Schuko): le spine italiane a due poli (tipo C) entrano quasi sempre; quelle a tre poli con messa a terra possono richiedere un adattatore.',
     fusoOrario: 'UTC+1 (CET), lo stesso fuso orario dell\'Italia tutto l\'anno, ora legale compresa: nessuna differenza oraria.',

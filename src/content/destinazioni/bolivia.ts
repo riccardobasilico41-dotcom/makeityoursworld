@@ -140,7 +140,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "El Alto e le cholitas luchadoras",
         "testo": "La feria 16 de Julio di El Alto (giovedì e domenica) è un enorme mercato popolare. A El Alto si può assistere anche alla lucha libre delle cholitas, le donne aymara in gonna tradizionale.",
         "come": "In teleferica fino a El Alto.",
-        "quando": "La feria il giovedì e la domenica; le cholitas luchadoras di solito la domenica pomeriggio al Multifuncional di El Alto, con orari da verificare",
+        "quando": "La feria il giovedì e la domenica; le cholitas luchadoras di solito la domenica pomeriggio al Multifuncional di El Alto, con orari variabili",
         "tempo": "Mezza giornata",
         "lat": -16.49783,
         "lng": -68.17063,
@@ -291,7 +291,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "domanda": "Quando ci sono le cholitas luchadoras?",
-        "risposta": "Di solito la domenica pomeriggio al Multifuncional di El Alto, con orari da verificare. Molti ci vanno con un tour che include il trasporto."
+        "risposta": "Di solito la domenica pomeriggio al Multifuncional di El Alto, con orari variabili. Molti ci vanno con un tour che include il trasporto."
       }
     ],
     esperienzeSlugs: ['carretera-de-la-muerte'],
@@ -744,7 +744,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A piedi dal centro.",
         "quando": "Di giorno.",
         "tempo": "Mezza giornata",
-        "orari": "Visita guidata a turni: orari da verificare sul posto",
+        "orari": "Visita guidata a turni: orari da chiedere sul posto",
         "lat": -19.04745,
         "lng": -65.26019,
         "consiglio": "Sucre è il posto dove a Rick è venuta voglia di fermarsi più a lungo: quota più mite, clima gentile."

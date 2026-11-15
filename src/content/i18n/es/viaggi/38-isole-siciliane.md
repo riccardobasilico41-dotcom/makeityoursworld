@@ -71,7 +71,7 @@ Se viene por la **Grotta del Genovese**, uno de los yacimientos de arte prehist�
 
 El resto de Levanzo lo recorrimos a pie. Está **Cala Minnola** con el pinar y, en el fondo a pocos metros de profundidad, los restos de un **pecio romano con las ánforas todavía en posición**, visitable haciendo snorkel con acompañamiento.
 
-**En la práctica:** Grotta del Genovese solo con reserva, al menos 48 horas antes, con visitas por la mañana · unos 20 euros solo la cueva, unos 40 con el transporte, tarifas a comprobar en la web oficial · hidroala a Levanzo desde Trapani o Favignana: verificar el horario de la última vuelta · en la isla hay poquísimos servicios, mejor llevar el agua.
+**En la práctica:** Grotta del Genovese solo con reserva, al menos 48 horas antes, con visitas por la mañana · unos 20 € solo la cueva, unos 40 con el transporte · hidroala a Levanzo desde Trapani o Favignana: verificar el horario de la última vuelta · en la isla hay poquísimos servicios, mejor llevar el agua.
 
 ### Día 4 — Marettimo
 Es la más lejana, la más alta y la más distinta. **Marettimo** está a una hora de aliscafo desde Trapani, es montañosa, cubierta de matorral y pinos, y **no tiene coches**: solo el pueblo, el puerto y los senderos.
@@ -84,7 +84,7 @@ Marettimo tiene poquísimas plazas de alojamiento y casi ningún servicio noctur
 
 Por la tarde volvimos a Trapani.
 
-**En la práctica:** hidroala Trapani-Marettimo en una hora aproximadamente, con paradas en Favignana y Levanzo · el sendero a Pizzo Falcone es cansado: salir temprano, con mucha agua y calzado de trekking · la vuelta de las cuevas se reserva en el puerto con los barqueros de la isla · última hidroala a Trapani por la tarde, a verificar antes de salir.
+**En la práctica:** hidroala Trapani-Marettimo en una hora aproximadamente, con paradas en Favignana y Levanzo · el sendero a Pizzo Falcone es cansado: salir temprano, con mucha agua y calzado de trekking · la vuelta de las cuevas se reserva en el puerto con los barqueros de la isla · última hidroala a Trapani por la tarde: mirar el horario antes de salir.
 
 ### Día 5 — Traslado a Pantelaria y primera vuelta
 A **Pantelaria** se va en vuelo o en ferri; a la llegada se recoge el vehículo reservado.
@@ -128,7 +128,7 @@ Dimos la vuelta a la isla en barco, la única forma de ver la costa que de otro 
 
 Como alternativa, para quien prefiere caminar, están los senderos del interior entre los viñedos en terrazas y los dammusi abandonados, y la **Cala Cinque Denti** en la vertiente nororiental, con las rocas lávicas en punta. Los senderos se hacen temprano por la mañana o hacia la tarde, porque en verano la lava oscura retiene el calor y hay poca sombra. Con coche se pueden combinar las dos cosas: media jornada a pie y un baño por la tarde en la cala resguardada del viento del día. La última noche pantesca la cerramos con los **ravioli amari** y el Passito.
 
-**En la práctica:** excursión compartida de un día desde unos 60 euros por persona con el almuerzo, barco privado mucho más caro · reservar el día anterior y reconfirmar por la mañana según el viento · en los senderos casi no hay dónde comprar nada: agua y sombrero · la isla es Parque nacional desde 2016: no salirse de los senderos ni saltar los muretes.
+**En la práctica:** excursión compartida de un día desde unos 60 € por persona con el almuerzo, barco privado mucho más caro · reservar el día anterior y reconfirmar por la mañana según el viento · en los senderos casi no hay dónde comprar nada: agua y sombrero · la isla es Parque nacional desde 2016: no salirse de los senderos ni saltar los muretes.
 
 ### Día 9 — Jornada de tránsito
 Es la jornada honesta del itinerario: **se vuelve a Sicilia y se parte hacia Lampedusa.** Vuelo a **Palermo** o **Catania** y conexión para Lampedusa o, con horarios menos afortunados, una noche de paso en Sicilia. El vuelo desde Pantelaria dura menos de una hora, el de Lampedusa más o menos lo mismo: el problema no es el tiempo en el aire sino los horarios, porque los vuelos son pocos y no siempre encajan. **Hay que preverla con margen.** Una cancelación por viento en Pantelaria hace perder la conexión, y los vuelos a Lampedusa no son frecuentes. **No comprar billetes no modificables con pocas horas de diferencia entre uno y otro.**

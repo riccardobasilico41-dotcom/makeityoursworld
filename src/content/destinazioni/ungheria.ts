@@ -52,7 +52,7 @@ export const destinazioniUngheria: Destinazione[] = [
     costi: "Budget giornaliero a persona, volo escluso: basso 50-70 € (ostello o stanza nel VII distretto, lángos e mense, mezzi pubblici); medio 100-150 € (hotel tre stelle in doppia, due pasti al ristorante, terme e un paio di ingressi); alto da 220 € in su (hotel sul Danubio, ristoranti di cucina ungherese moderna, crociera serale). La voce più cara di una giornata tipo è di solito l'ingresso alle terme.",
     erroriDaEvitare: [
       'Seguire chi avvicina per strada proponendo "un locale fantastico" nel quartiere ebraico o intorno alle piazze turistiche: è lo schema classico che porta a conti gonfiati a dismisura',
-      'Confondere gli zeri del fiorino: un conto da "8.000" non è 8 euro, ed è facile sbagliarsi nei primi giorni',
+      'Confondere gli zeri del fiorino: un conto da "8.000" non è 8 €, ed è facile sbagliarsi nei primi giorni',
       'Sottovalutare le terme come una parentesi rilassante da un\'ora: tra ingresso, spogliatoio e code per gli armadietti, conviene riservare almeno mezza giornata',
       'Programmare il weekend senza prenotare in anticipo il tour del Parlamento, che ha ingressi contingentati e va spesso esaurito con giorni di anticipo in alta stagione',
     ],

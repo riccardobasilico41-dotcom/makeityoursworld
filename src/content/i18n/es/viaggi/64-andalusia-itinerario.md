@@ -33,7 +33,7 @@ Por la tarde vimos la **Catedral de Sevilla**, la iglesia gótica más grande de
 
 Por la noche, el **Barrio de Santa Cruz**, la antigua judería, entre callejones estrechos y patios con flores. El recorrido más bonito pasa por el **Callejón del Agua**, junto a las murallas del Alcázar, y por la pequeña Plaza de Doña Elvira. *Después de las nueve los callejones se vacían de grupos y quedan los bares de tapas: es la hora de recorrerlos.*
 
-**En la práctica:** Catedral unos 13 euros en línea y 14 en taquilla, con la Giralda y la iglesia del Salvador incluidas · abierta por la tarde hasta las 19 aproximadamente, el domingo solo por la tarde · para dormir, Santa Cruz es cómodo, Triana más auténtico.
+**En la práctica:** Catedral unos 13 € en línea y 14 en taquilla, con la Giralda y la iglesia del Salvador incluidas · abierta por la tarde hasta las 19 aproximadamente, el domingo solo por la tarde · para dormir, Santa Cruz es cómodo, Triana más auténtico.
 
 ### Día 2 — Sevilla: Real Alcázar, Triana y flamenco
 Por la mañana estuvimos en el **Real Alcázar**, el palacio real aún en uso, obra maestra mudéjar con sus patios, sus jardines y el Salón de Embajadores. La entrada tiene franja horaria y conviene reservarla en línea con antelación. La franja de las 9:30, a la apertura, es la mejor: el **Patio de las Doncellas**, con su estanque alargado y sus arcos calados, se ve casi vacío. Luego los jardines, que por sí solos valen una hora, con los pavos reales y la galería del Grutesco.
@@ -42,7 +42,7 @@ Por la tarde cruzamos el Guadalquivir hacia **Triana**, el barrio gitano cuna de
 
 La noche fue para un **espectáculo de flamenco** en un tablao acústico, pequeño (hay una ficha de experiencia dedicada). *Los espectáculos duran alrededor de una hora y en los locales pequeños hay pocas plazas: conviene reservar el día antes.*
 
-**En la práctica:** Real Alcázar unos 15,50 euros, apertura a las 9:30, cierra antes en invierno · la calle Betis, junto al río en Triana, es el sitio para el aperitivo · tablao a reservar con antelación, cena antes o después.
+**En la práctica:** Real Alcázar unos 15,50 €, apertura a las 9:30, cierra antes en invierno · la calle Betis, junto al río en Triana, es el sitio para el aperitivo · tablao a reservar con antelación, cena antes o después.
 
 ### Día 3 — De Sevilla a Córdoba: la Mezquita
 Por la mañana tomamos el AVE a **Córdoba** (unos 45 minutos). De la estación al casco histórico se camina una veintena de minutos, o se toma un taxi; conviene dejar enseguida las maletas y organizarse para ver la Mezquita en las horas menos calurosas, porque en Córdoba el calor llega antes y pesa más que en Sevilla.
@@ -51,7 +51,7 @@ La tarde fue entera para la **Mezquita-Catedral**: el bosque de más de ochocien
 
 Por la noche, la **Judería**, el antiguo barrio judío en torno a la Calleja de las Flores, con la **Sinagoga** medieval y la Puerta de Almodóvar. *La Calleja de las Flores es diminuta y está llena a todas horas: la foto con el campanario al fondo sale mejor a última hora de la noche.*
 
-**En la práctica:** Mezquita unos 13 euros, abierta todo el día salvo durante los cultos · entrada gratuita a primera hora de lunes a sábado, en una franja breve antes de la apertura turística · en Córdoba se duerme en la Judería, cerca de la Mezquita.
+**En la práctica:** Mezquita unos 13 €, abierta todo el día salvo durante los cultos · entrada gratuita a primera hora de lunes a sábado, en una franja breve antes de la apertura turística · en Córdoba se duerme en la Judería, cerca de la Mezquita.
 
 ### Día 4 — Córdoba y traslado a Granada
 Por la mañana estuvimos en el **Alcázar de los Reyes Cristianos** y en el **Puente Romano** sobre el Guadalquivir, con la vista clásica de la Mezquita desde la otra orilla. El Alcázar es la fortaleza desde la que los Reyes Católicos prepararon la conquista de Granada; dentro hay mosaicos romanos y, fuera, jardines en terrazas con estanques y cipreses. Al otro extremo del puente está la **Torre de la Calahorra**, la torre de vigilancia medieval. Si el viaje cae en mayo, se puede desviar hacia los **Patios de Córdoba** abiertos al público.
@@ -65,7 +65,7 @@ El día fue casi entero para la **Alhambra**: los **Palacios Nazaríes** con el 
 
 El conjunto es grande y los recorridos son largos: hacen falta al menos tres o cuatro horas, y calzado cómodo. Conviene organizar la visita en torno a la hora de los Palacios Nazaríes, la única que no se puede cambiar, y dejar el resto antes o después. El **Palacio de Carlos V**, el palacio renacentista con su gran patio circular, se visita sin entrada. Desde las torres de la Alcazaba se ven el Albaicín enfrente y Sierra Nevada. *El nombre de la entrada debe coincidir con el documento: en el acceso a los Palacios lo comprueban.* Quien aún tenga ganas puede volver por la noche para la visita nocturna, con entrada aparte.
 
-**En la práctica:** entrada general unos 21-22 euros, solo en la web oficial y hasta tres meses antes · se sube a pie por la Cuesta de Gomérez o en los microbuses urbanos desde el centro · agua y gorra, dentro hay poca sombra.
+**En la práctica:** entrada general unos 21-22 €, solo en la web oficial y hasta tres meses antes · se sube a pie por la Cuesta de Gomérez o en los microbuses urbanos desde el centro · agua y gorra, dentro hay poca sombra.
 
 ### Día 6 — Granada: Albaicín y Sacromonte
 Por la mañana nos perdimos a propósito por las callejuelas del **Albaicín**, el barrio morisco Patrimonio de la UNESCO, entre cármenes (casas con jardín cercado) y pequeñas mezquitas, hasta el **Mirador de San Nicolás**, con la vista sobre la Alhambra y Sierra Nevada nevada al fondo. Se sube desde la **Carrera del Darro**, la calle junto al río bajo la Alhambra, pasando por el **Bañuelo**, los baños árabes del siglo XI, y el Paseo de los Tristes. Las cuestas son empinadas: quien no quiere subirlas a pie usa los microbuses que suben desde el centro.
@@ -86,7 +86,7 @@ Por la mañana estuvimos en la **Plaza de Toros de Ronda**, entre las más antig
 
 La tarde es para una excursión en coche a uno o dos **pueblos blancos** cercanos, **Setenil de las Bodegas**, con las casas excavadas bajo los salientes de roca, o **Grazalema**, en el parque natural del mismo nombre, y para una parada en una bodega de la zona vinícola de Ronda. Setenil está a una media hora, Grazalema a unos cuarenta minutos por carreteras de montaña. *Quien conduce a la bodega debe probar poco: las carreteras de la Serranía son estrechas y llenas de curvas.* Las bodegas reciben casi siempre con cita previa.
 
-**En la práctica:** Plaza de Toros unos 9 euros · Baños Árabes entrada económica, incluidos en el bono turístico municipal de Ronda · bodegas a reservar con un día de antelación.
+**En la práctica:** Plaza de Toros unos 9 € · Baños Árabes entrada económica, incluidos en el bono turístico municipal de Ronda · bodegas a reservar con un día de antelación.
 
 ### Día 9 — Ronda y final del viaje hacia Málaga
 La última mañana en Ronda la dejamos libre para La Ciudad, el barrio morisco en el lado del puente opuesto al centro. Las calles son más tranquilas que las del Puente Nuevo: se pasa por la iglesia de **Santa María la Mayor**, construida sobre la mezquita mayor, y por el **Palacio de Mondragón**, con sus patios y la vista sobre el valle. Junto al puente está la **Casa del Rey Moro**, con la escalera excavada en la roca que baja hasta el río.

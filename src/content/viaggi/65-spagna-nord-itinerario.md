@@ -17,7 +17,7 @@ Il filo conduttore, oltre alla costa atlantica, è il cibo: il pintxo basco a Sa
 - **Quando andare:** **giugno-settembre**, la finestra più asciutta e con le temperature più alte dell'anno (comunque miti, raramente sopra i 25-27°C). È l'opposto dell'Andalusia, dove la stessa stagione va evitata per il caldo: qui è il periodo in cui piove meno.
 - **Il clima atlantico:** anche nella finestra migliore piove più spesso che nel resto della Spagna, quindi una giacca leggera antipioggia va portata sempre, in ogni stagione.
 - **Pintxos e txikiteo:** a San Sebastián e Bilbao il pasto serio si fa girando da un bar all'altro, un pintxo e un bicchiere di txakoli o sidra per locale. La regola non scritta: si mangia in piedi al bancone, il pintxo si prende con le mani, e si paga alla fine dicendo all'oste cosa si è consumato (vedi la scheda esperienza dedicata).
-- **Guggenheim Bilbao:** chiude quasi tutti i lunedì; in estate l'apertura viene a volte estesa, quindi conviene controllare il calendario. Biglietto 12 € (sito ufficiale, 2026); prima era 18 € in estate e 15 € nel resto dell'anno.
+- **Guggenheim Bilbao:** chiude quasi tutti i lunedì; in estate l'apertura viene a volte estesa, quindi conviene controllare il calendario. Biglietto intero 15 € (2026).
 - **Camino del Norte:** circa 825-865 km da Irún a Santiago de Compostela, attraverso Paesi Baschi (~175 km), Cantabria (~170 km), Asturie (~280 km) e Galizia (~220 km). È più impegnativo e meno attrezzato del Cammino Francese, con tratti costieri esposti.
 - **Santiago, la Compostela:** per avere il certificato ufficiale di pellegrinaggio bisogna aver percorso a piedi almeno gli ultimi 100 km (200 in bici), con le credenziali timbrate lungo il percorso.
 - **Auto:** indispensabile per questo itinerario, che segue la costa per centinaia di km toccando paesi piccoli e mal collegati dai mezzi pubblici.
@@ -58,14 +58,14 @@ Il pomeriggio nell'**Ensanche**, la Bilbao borghese dell'Ottocento, e una passeg
 
 Nel pomeriggio si può anche deviare fino al **Puente de Vizcaya** a Portugalete, il ponte trasbordatore più antico del mondo, patrimonio UNESCO. Dal 1893 una navicella sospesa porta auto e persone da una riva all'altra; chi vuole sale sulla passerella in alto, sopra l'estuario.
 
-**In pratica:** Guggenheim circa 18 euro in estate e 15 nel resto dell'anno, chiuso quasi tutti i lunedì · Puente de Vizcaya a circa 20 minuti di metro dal centro, traversata della navicella economica, passerella con biglietto a parte · la metro di Bilbao è il modo più semplice per muoversi.
+**In pratica:** Guggenheim 15 €, chiuso quasi tutti i lunedì · Puente de Vizcaya a circa 20 minuti di metro dal centro, traversata della navicella economica, passerella con biglietto a parte · la metro di Bilbao è il modo più semplice per muoversi.
 
 ### Giorno 5 — Da Bilbao alla Cantabria: Santander e Santillana del Mar
 In auto verso la **Cantabria** (circa 1h30-2h fino a Santander), con una sosta a **Santillana del Mar**, uno dei borghi medievali meglio conservati di Spagna, vicino alle celebri grotte di Altamira: gli originali, per tutela, sono chiusi al pubblico, ma si visita la Neocueva, la replica ufficiale. Conviene andare prima a Santillana, la mattina, quando le due strade lastricate del paese sono ancora tranquille: in fondo c'è la **Collegiata di Santa Juliana**, romanica, con il chiostro dai capitelli scolpiti.
 
 Il museo di Altamira è a un paio di chilometri dal paese. La Neocueva riproduce il soffitto dei bisonti dipinti con le stesse tecniche del Paleolitico, e il museo spiega chi erano gli uomini che li dipinsero. Il pomeriggio a **Santander**, con il lungomare e la penisola della Magdalena: il palazzo che fu residenza estiva dei re, il parco intorno e le spiagge del **Sardinero**. Sul porto c'è il **Centro Botín**, il centro d'arte di Renzo Piano sospeso sull'acqua. *Il museo di Altamira chiude il lunedì: se il giorno 5 cade di lunedì, conviene invertire le tappe e vedere Santander per prima.*
 
-**In pratica:** museo e Neocueva di Altamira chiusi il lunedì, ingresso circa 3 euro, gratuito per alcune categorie · Santillana senza auto nel centro, parcheggio all'ingresso del paese · a Santander si dorme vicino al Sardinero o in centro.
+**In pratica:** museo e Neocueva di Altamira chiusi il lunedì, ingresso circa 3 €, gratuito per alcune categorie · Santillana senza auto nel centro, parcheggio all'ingresso del paese · a Santander si dorme vicino al Sardinero o in centro.
 
 ### Giorno 6 — Cantabria e Asturie: la Costa Verde
 Abbiamo proseguito lungo la **Costa Verde** asturiana, tra scogliere, spiagge e piccoli porti di pescatori. Si lascia Santander presto e si segue l'autostrada del Cantabrico, con uscite verso il mare quando si vuole: **Comillas**, con il Capricho di Gaudí, e **San Vicente de la Barquera** sono soste brevi sulla strada. In Asturie la prima tappa è **Llanes**, con il centro medievale sul mare.
@@ -123,6 +123,8 @@ Il Nord della Spagna smentisce il cliché: non fa caldo, piove spesso, il paesag
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi, orari e regole di prenotazione (Guggenheim, albergues del Cammino) cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
 
 **Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
+
+Guggenheim: sul sito ufficiale (guggenheim-bilbao.eus, 15/11/2026) biglietto generale 15 €. Tolte dal testo la nota «(sito ufficiale, 2026)» e le cifre precedenti (12 €, 18 € d'estate, 15 € il resto dell'anno).
 
 ## Foto/media
 - [ ] foto della Playa de la Concha a San Sebastián dal Monte Igueldo

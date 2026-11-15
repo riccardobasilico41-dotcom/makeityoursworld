@@ -14,7 +14,7 @@ Volevo il Capodanno più diverso possibile da quelli passati fino ad allora: nie
 ## Scheda pratica
 - **Quando andare:** io sono partito a Capodanno (30 dicembre - 5 gennaio), il periodo peggiore per i prezzi. L'alternativa è nei consigli pratici più sotto.
 - **Documenti/visto:** nessuno, la Svezia è in area Schengen.
-- **Budget indicativo:** circa 1.500€ a testa per un budget base, 1.800€ per un livello più comodo, con voli, alloggi, trasporti interni, escursioni e pasti inclusi. Sono le cifre del preventivo dell'agenzia, non ancora confrontate con la spesa reale sul posto.
+- **Budget indicativo:** circa 1.500 € a testa per un budget base, 1.800 € per un livello più comodo, con voli, alloggi, trasporti interni, escursioni e pasti inclusi. Sono le cifre del preventivo dell'agenzia, non ancora confrontate con la spesa reale sul posto.
 - **Come mi sono mosso:** volo Milano-Stoccolma, volo interno Stoccolma-Kiruna, treno panoramico Kiruna-Abisko e ritorno, stesso volo interno e internazionale al rientro.
 - **Clima:** freddo estremo, ben sotto lo zero per tutto il soggiorno. Il termometro è arrivato a -25/-26 °C. È un freddo secco: lo senti, sì, ma se ti copri molto bene non ti entra troppo nelle ossa. Il naso, però, è un'altra storia. Con questo freddo qualche disservizio va messo in conto: c'è un consiglio sui treni più sotto.
 - **Base logistica:** due notti a Stoccolma (andata e ritorno, solo transito), una notte a Kiruna all'andata, due notti ad Abisko, una notte a Kiruna prima del rientro.
@@ -34,19 +34,19 @@ La mattina sono volato a Kiruna. Nel pomeriggio ho fatto il primo giro della cit
 
 Chi ci va oggi trova la chiesa in un altro posto: nell'agosto 2025 è stata spostata intera, su carrelli, di circa cinque chilometri verso est, tra il cimitero e il nuovo centro. Il trasloco del resto della città andrà avanti ancora per anni, e il giro a piedi tra il vecchio e il nuovo centro racconta bene come funziona. Dall'aeroporto al centro c'è un bus legato agli arrivi dei voli, in circa venti minuti, oppure il taxi. *Intorno a Capodanno a Kiruna il sole non sorge: per qualche settimana c'è solo una luce azzurra di poche ore a metà giornata, e il giro in città va fatto in quella finestra.*
 
-**In pratica:** bus aeroporto-centro con partenze legate ai voli, circa 20 minuti e circa 100-110 SEK, orari e operatore da ricontrollare · chiesa di Kiruna a ingresso libero, orari di apertura variabili · a Capodanno ristoranti con orari ridotti o chiusi, cena da prenotare.
+**In pratica:** bus aeroporto-centro con partenze legate ai voli, circa 20 minuti e circa 100-110 SEK, orari sul sito dell'aeroporto · chiesa di Kiruna a ingresso libero, orari di apertura variabili · a Capodanno ristoranti con orari ridotti o chiusi, cena da prenotare.
 
 ### Giorno 3 — Kiruna → Abisko
 Mi sono spostato con il treno panoramico Kiruna-Abisko: un'ora abbondante in un paesaggio che si fa via via più spoglio e artico. Ad Abisko mi sono sistemato allo **STF Abisko Turiststation**, la storica stazione di montagna dentro il parco nazionale, da cui parte la seggiovia della **Aurora Sky Station**. Il treno è quello della linea per Narvik, gestito da SJ: ad Abisko ci sono due fermate, Abisko Östra per il paese e Abisko Turiststation davanti alla struttura, che è quella giusta. Nelle ore di luce si può fare una breve passeggiata fino al canyon del fiume Abiskojåkka, a pochi minuti dalla stazione, con il lago Torneträsk ghiacciato sullo sfondo.
 
-La prima sera l'ho dedicata proprio a questo, ed è stato wow: un'esperienza difficile da spiegare a parole. Con circa 15-20 minuti di seggiovia (aperta fino all'1:00 in inverno) si sale sul monte Nuolja (900 m), fino a una stazione con ristorante, bar e torre di osservazione. È probabilmente il punto migliore al mondo per vedere l'aurora, grazie al microclima secco della zona: il famoso "buco blu" sopra Abisko, dove le montagne intorno deviano le nuvole più spesso che nel resto della regione. La sola seggiovia costa 350-450 SEK (35-40€ circa) a persona. C'è anche un pacchetto con pernottamento in quota, cena, colazione, tuta termica e sauna a circa 2.990 SEK (270-310€), disponibile solo il venerdì su prenotazione. *Oggi la salita serale si vende come Night Visit, con guida e abbigliamento caldo compresi, dalle 20.30 all'1 e con pochi posti: va prenotata, e se il vento ferma la seggiovia il biglietto non viene rimborsato.*
+La prima sera l'ho dedicata proprio a questo, ed è stato wow: un'esperienza difficile da spiegare a parole. Con circa 15-20 minuti di seggiovia (aperta fino all'1:00 in inverno) si sale sul monte Nuolja (900 m), fino a una stazione con ristorante, bar e torre di osservazione. È probabilmente il punto migliore al mondo per vedere l'aurora, grazie al microclima secco della zona: il famoso "buco blu" sopra Abisko, dove le montagne intorno deviano le nuvole più spesso che nel resto della regione. La sola seggiovia costa 350-450 SEK (35-40 € circa) a persona. C'è anche un pacchetto con pernottamento in quota, cena, colazione, tuta termica e sauna a circa 2.990 SEK (270-310 €), disponibile solo il venerdì su prenotazione. *Oggi la salita serale si vende come Night Visit, con guida e abbigliamento caldo compresi, dalle 20.30 all'1 e con pochi posti: va prenotata, e se il vento ferma la seggiovia il biglietto non viene rimborsato.*
 
 **In pratica:** treno Kiruna-Abisko con SJ, circa un'ora e un quarto, biglietti su sj.se · Night Visit della Aurora Sky Station 2026-27 da fine ottobre a fine marzo, prezzo sul sito STF · in quota il vento rende il freddo più duro: strati, sottocasco, guanti doppi.
 
 ### Giorno 4 — Abisko: motoslitta e husky sotto l'aurora
-Giornata piena, con le due attività più adrenaliniche del viaggio. Tra mattina e pomeriggio c'è la **motoslitta sul lago ghiacciato** del parco nazionale. Nella versione guidata si sta in una slitta trainata da una motoslitta condotta da una guida (circa 2 ore, 100-110€ a persona); nel self-drive si guida il proprio mezzo dietro la guida in testa al gruppo (mezza giornata, 150-250€). Per il self-drive serve la patente di guida. Gli operatori forniscono tuta, stivali, guanti e casco: sotto si mettono gli strati termici, perché sul lago aperto il vento è forte e la sensazione di freddo si moltiplica con la velocità.
+Giornata piena, con le due attività più adrenaliniche del viaggio. Tra mattina e pomeriggio c'è la **motoslitta sul lago ghiacciato** del parco nazionale. Nella versione guidata si sta in una slitta trainata da una motoslitta condotta da una guida (circa 2 ore, 100-110 € a persona); nel self-drive si guida il proprio mezzo dietro la guida in testa al gruppo (mezza giornata, 150-250 €). Per il self-drive serve la patente di guida. Gli operatori forniscono tuta, stivali, guanti e casco: sotto si mettono gli strati termici, perché sul lago aperto il vento è forte e la sensazione di freddo si moltiplica con la velocità.
 
-La sera ho fatto **husky sledding con caccia all'aurora**, con ritiro direttamente allo STF Abisko Turiststation (conviene arrivare 45 minuti prima della partenza). Sono un'oretta o due di guida vera e propria, nel silenzio assoluto e nel respiro dei cani, con il cielo che, tempo permettendo, si accende sopra la testa. Questa versione serale costa 240€ a persona. Ho dormito ancora allo STF Abisko Turiststation. *L'aurora non è garantita: si controllano le previsioni e il cielo, e chi ha più sere a disposizione mette le uscite più care nella sera con il meteo migliore.*
+La sera ho fatto **husky sledding con caccia all'aurora**, con ritiro direttamente allo STF Abisko Turiststation (conviene arrivare 45 minuti prima della partenza). Sono un'oretta o due di guida vera e propria, nel silenzio assoluto e nel respiro dei cani, con il cielo che, tempo permettendo, si accende sopra la testa. Questa versione serale costa 240 € a persona. Ho dormito ancora allo STF Abisko Turiststation. *L'aurora non è garantita: si controllano le previsioni e il cielo, e chi ha più sere a disposizione mette le uscite più care nella sera con il meteo migliore.*
 
 **In pratica:** motoslitta e husky da prenotare prima di partire, a Capodanno i posti finiscono · patente necessaria per il self-drive · batterie del telefono e della macchina fotografica al caldo in tasca, con il freddo si scaricano in pochi minuti.
 
@@ -72,24 +72,24 @@ La mattina libera si usa per un museo o per l'ultima passeggiata: il Vasa, il mu
 **In pratica:** Arlanda Express circa 20 minuti dalla stazione centrale · Vasamuseet a pagamento, orari ridotti in inverno · arrivo ad Arlanda circa due ore prima dei voli internazionali.
 
 ## Cosa vedere / cosa fare
-- **Aurora Sky Station:** seggiovia sul monte Nuolja (15-20 min, aperta fino all'1:00) e cena in quota, nel punto con le migliori probabilità di aurora di tutta la regione. Solo seggiovia 35-40€, pacchetto con pernottamento e cena circa 270-310€ (solo il venerdì).
-- **Motoslitta sul lago ghiacciato:** l'attività più adrenalinica del soggiorno ad Abisko. Versione guidata (in slitta trainata, 2 ore) 100-110€; self-drive (mezza giornata, richiede la patente) 150-250€.
-- **Husky sledding con caccia all'aurora:** la sera più bella del viaggio, tra i cani e il cielo. Versione serale con caccia all'aurora 240€; versioni diurne più brevi ("panorama husky hike") da 70€.
+- **Aurora Sky Station:** seggiovia sul monte Nuolja (15-20 min, aperta fino all'1:00) e cena in quota, nel punto con le migliori probabilità di aurora di tutta la regione. Solo seggiovia 35-40 €, pacchetto con pernottamento e cena circa 270-310 € (solo il venerdì).
+- **Motoslitta sul lago ghiacciato:** l'attività più adrenalinica del soggiorno ad Abisko. Versione guidata (in slitta trainata, 2 ore) 100-110 €; self-drive (mezza giornata, richiede la patente) 150-250 €.
+- **Husky sledding con caccia all'aurora:** la sera più bella del viaggio, tra i cani e il cielo. Versione serale con caccia all'aurora 240 €; versioni diurne più brevi ("panorama husky hike") da 70 €.
 - **Chiesa di legno di Kiruna** e il centro città, che nei prossimi anni cambierà volto per la ricollocazione dovuta alla miniera. Si visitano gratis.
-- **Visita guidata alla miniera LKAB** (non fatta in questo viaggio): 3 ore, fino a 540 m sottoterra nel più grande giacimento di ferro sotterraneo al mondo, circa 590 SEK (52€) a persona. È aperta solo alcuni giorni della settimana (mar/gio/ven/sab) e la prenotazione online è obbligatoria.
-- **Da valutare per un prossimo viaggio (non fatto questa volta):** l'ICEHOTEL di Jukkasjärvi, a una ventina di minuti da Kiruna, l'hotel di ghiaccio più famoso al mondo, ricostruito ogni inverno. Ingresso giornaliero 349 SEK (31€), pernottamento in camera di ghiaccio da 3.995 SEK (350€ circa) a notte per 2 persone, suite d'artista da 4.995 SEK (440€ circa); chi dorme lì ha accesso gratuito e illimitato alla struttura per tutto il soggiorno.
+- **Visita guidata alla miniera LKAB** (non fatta in questo viaggio): 3 ore, fino a 540 m sottoterra nel più grande giacimento di ferro sotterraneo al mondo, circa 590 SEK (52 €) a persona. È aperta solo alcuni giorni della settimana (mar/gio/ven/sab) e la prenotazione online è obbligatoria.
+- **Da valutare per un prossimo viaggio (non fatto questa volta):** l'ICEHOTEL di Jukkasjärvi, a una ventina di minuti da Kiruna, l'hotel di ghiaccio più famoso al mondo, ricostruito ogni inverno. Ingresso giornaliero 349 SEK (31 €), pernottamento in camera di ghiaccio da 3.995 SEK (350 € circa) a notte per 2 persone, suite d'artista da 4.995 SEK (440 € circa); chi dorme lì ha accesso gratuito e illimitato alla struttura per tutto il soggiorno.
 
 ## Quanto costa, in sintesi (per persona)
 | Voce | Prezzo indicativo |
 |---|---|
-| Voli Milano-Stoccolma-Kiruna A/R | 600-645€ |
-| Alloggi (6 notti) | 400-600€ |
-| Trasporti interni (treno panoramico + transfer aeroportuale) | 80€ |
-| Aurora Sky Station (solo seggiovia) | 35-40€ |
-| Motoslitta guidata (2h) | 100-110€ |
-| Husky sledding serale con caccia all'aurora | 240€ |
-| Pasti (colazioni + pranzi/cene) | 10-15€/giorno + 30-50€/pasto |
-| **Totale indicativo** | **1.500-1.800€** |
+| Voli Milano-Stoccolma-Kiruna A/R | 600-645 € |
+| Alloggi (6 notti) | 400-600 € |
+| Trasporti interni (treno panoramico + transfer aeroportuale) | 80 € |
+| Aurora Sky Station (solo seggiovia) | 35-40 € |
+| Motoslitta guidata (2h) | 100-110 € |
+| Husky sledding serale con caccia all'aurora | 240 € |
+| Pasti (colazioni + pranzi/cene) | 10-15 €/giorno + 30-50 €/pasto |
+| **Totale indicativo** | **1.500-1.800 €** |
 
 ## Dove abbiamo dormito
 **Stoccolma — Radisson Blu Royal Viking** (andata e ritorno, solo transito)
@@ -102,7 +102,7 @@ All'andata una sistemazione semplice ed essenziale, nello stile "STF" (Svenska T
 La struttura più iconica del viaggio: la storica stazione di montagna dentro il parco nazionale di Abisko, da cui parte la seggiovia della Aurora Sky Station. Essenziale, ma con un'atmosfera tutta sua, in mezzo al parco.
 
 ## Dove abbiamo mangiato
-Per i pasti il budget indicativo era di 10-15€ al giorno per le colazioni (spesso incluse nelle strutture STF) e 30-50€ a pasto per pranzi e cene.
+Per i pasti il budget indicativo era di 10-15 € al giorno per le colazioni (spesso incluse nelle strutture STF) e 30-50 € a pasto per pranzi e cene.
 
 ## Consigli pratici / errori da non ripetere
 - **Non andare a Capodanno se puoi evitarlo.** È il periodo più caro dell'anno per volare e dormire in questa zona. Io l'ho fatto perché volevo proprio quel Capodanno lì, ma se l'obiettivo è solo vedere l'aurora boreale in Lapponia svedese, conviene saperlo prima.

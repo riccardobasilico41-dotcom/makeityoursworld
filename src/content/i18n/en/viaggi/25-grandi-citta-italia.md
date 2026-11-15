@@ -20,7 +20,7 @@ Italy's four great art cities are almost always visited the wrong way, and not o
   - **Dome of the Florence Duomo:** **reservation with an assigned time slot**, without it you can't climb.
   - **Leonardo's Last Supper in Milan:** reservation mandatory, **openings released quarterly**, a fifteen-minute visit. It's the most common mistake of people visiting Milan: without a reservation you don't get in.
   - **Pompeii:** **named** ticket and a **cap of 20,000 visitors a day**, with time slots in summer (maximum 15,000 from 9 to 12, 5,000 from 12 on). Once the quota is used up **you cannot enter**, neither online nor at the ticket office.
-- **Venice, access fee:** it applies to those who enter **as day-trippers without staying overnight**, on a certain number of high-season days. In 2026 it was charged on 60 days between April and July: **5 euros** if booking at least four days ahead, **10 euros** below that threshold. Those who stay overnight in the city are exempt but must register. Calendar and conditions change every year.
+- **Venice, access fee:** it applies to those who enter **as day-trippers without staying overnight**, on a certain number of high-season days. In 2026 it was charged on 60 days between April and July: **€5** if booking at least four days ahead, **€10** below that threshold. Those who stay overnight in the city are exempt but must register. Calendar and conditions change every year.
 - **Transport:** the high-speed train connects everything and, booking weeks ahead, prices drop sharply. Rome-Florence 1h30, Florence-Venice 2h, Venice-Naples with a change, Rome-Naples a little over an hour. **In all four cities a car is useless or harmful**: ZTL in Florence and Rome, Area B and C in Milan, and in Venice there are simply no roads.
 - **The food rule:** in all four, **don't eat within three hundred meters of a famous monument** and never go into a place with photos of the dishes outside or with someone urging you to come in. It's the rule that, more than any other, separates eating well from eating badly in Italy.
 - **Free museums:** on the first Sunday of the month state museums are free, and therefore have enormous lines. Churches, on the other hand, are almost all free and contain a huge part of what you come to see.
@@ -37,7 +37,7 @@ We had dinner at a trattoria in **Testaccio**, not in the center. The four Roman
 
 From Fiumicino the **Leonardo Express** takes you nonstop to Termini in just over half an hour; from there Monti is a walk, Trastevere is reached by tram 8 from Piazza Venezia. After dropping your bags, the first walk is best in the late afternoon, when the light turns warm: from Monti go down to the **Imperial Fora**, climb up to the **Campidoglio** for the terrace behind the Palazzo Senatorio, which looks down on the Forum, and finish at Piazza Venezia. *In Rome the nasoni, the cast-iron fountains, give cool drinking water all day: a water bottle is all you need.* Testaccio is reached by metro, line B to Piramide, or by taxi.
 
-**In practice:** Leonardo Express Fiumicino-Termini about 14 euros, 32 minutes · city public transport ticket valid 100 minutes, you can also pay with a contactless card at the gates · in the Testaccio trattorias it's worth booking, especially at weekends
+**In practice:** Leonardo Express Fiumicino-Termini about €14, 32 minutes · city public transport ticket valid 100 minutes, you can also pay with a contactless card at the gates · in the Testaccio trattorias it's worth booking, especially at weekends
 
 ### Day 2 — Ancient Rome
 We went into the **Colosseum, Roman Forum and Palatine** with the single named ticket, booked weeks earlier, and with the **original ID in our pocket**.
@@ -46,7 +46,7 @@ For the afternoon there's **Trajan's Forum** with the Markets, or the **Domus Au
 
 The ticket has a set entry time for the Colosseum, while the Forum and Palatine are more flexible: it's best to take the Colosseum in the first slot, then climb the **Palatine** before the heat, for the Farnese gardens and the view over the Circus Maximus, and go down to the **Roman Forum** around midday. You need at least four hours to do it all without rushing. *In summer there's almost no shade: hat, water and closed shoes, because the paving stones are uneven.* After lunch, in Monti or behind Piazza Venezia, **Trajan's Markets** are a museum in themselves, with multi-story shops still standing and the walk along the Via Biberatica.
 
-**In practice:** 24-hour ticket for Colosseum, Forum and Palatine about 18 euros, Full Experience with arena and underground about 24 euros, only on ticketing.colosseo.it · sales open 30 days ahead and morning slots go quickly · Domus Aurea open only on some days, with a guided tour to book
+**In practice:** 24-hour ticket for Colosseum, Forum and Palatine about €18, Full Experience with arena and underground about €24, only on ticketing.colosseo.it · sales open 30 days ahead and morning slots go quickly · Domus Aurea open only on some days, with a guided tour to book
 
 ### Day 3 — The Vatican and the churches
 In the morning, the **Vatican Museums and Sistine Chapel**, with a reservation. Then St. Peter's and the dome: at the entrance the **dress code is enforced**, no bare shoulders or knees.
@@ -55,7 +55,7 @@ We spent the afternoon in the **churches**, the part of Rome nobody puts on the 
 
 At the Vatican Museums it's worth booking the first entry of the morning and going straight to the **Sistine Chapel**, which at that hour is still bearable, then working back slowly to the Raphael Rooms and the Pinacoteca. From there **St. Peter's** is ten minutes on foot; the dome climb is by lift to the terrace and then on foot, more than three hundred steps for the last stretch. *Many churches in the center close at lunchtime, usually between 12:30 and 3 pm: start the afternoon tour after that.* In the evening, Piazza Navona and the lanes around Campo de' Fiori.
 
-**In practice:** Vatican Museums about 20 euros plus 5 for online booking, Monday to Saturday, closed on Sundays except the last of the month · named ticket, you need ID · St. Peter's Basilica free, the dome is paid with different prices for stairs and lift
+**In practice:** Vatican Museums about €20 plus 5 for online booking, Monday to Saturday, closed on Sundays except the last of the month · named ticket, you need ID · St. Peter's Basilica free, the dome is paid with different prices for stairs and lift
 
 ### Day 4 — Underground Rome and the Appian Way
 In the morning we went to the **Basilica of San Clemente**. You enter a twelfth-century basilica, descend to a fourth-century one and from there further down to a first-century Roman building with a Mithraeum. Three eras one on top of the other, two flights of stairs, four hundred meters from the Colosseum and with a fraction of the people.
@@ -88,7 +88,7 @@ The afternoon at the **Uffizi**, with a reservation.
 
 The dome ticket also covers Giotto's bell tower, the Baptistery, the crypt of Santa Reparata and the Museo dell'Opera, and is valid for a few days: it's worth using it over several visits. The cathedral itself is free, with a queue that moves fast in the morning. At the **Uffizi** book an early-afternoon slot and allow at least three hours: Botticelli, Leonardo, Michelangelo, Caravaggio, and the café terrace looking onto the tower of Palazzo Vecchio. *If you want the Vasari Corridor, reopened after years of work, you must book separately and well ahead: places are few.*
 
-**In practice:** Brunelleschi Pass about 30 euros, with a compulsory time slot for the dome · Uffizi around 25-29 euros in high season, closed on Mondays · the dome closes in some periods for maintenance, check the calendar before booking
+**In practice:** Brunelleschi Pass about €30, with a compulsory time slot for the dome · Uffizi around €25-29 in high season, closed on Mondays · the dome closes in some periods for maintenance, check the calendar before booking
 
 ### Day 7 — The museum nobody visits
 In the morning we went to the **Museo dell'Opera del Duomo**, which almost everyone skips because "it's just an annex museum." It holds the **original doors of the Baptistery** (the ones in the square are copies) and Michelangelo's last Pietà, the one he wanted to destroy. There are four people.
@@ -99,7 +99,7 @@ For dinner, a trattoria in the Oltrarno or Sant'Ambrogio, with the bistecca: it'
 
 The Museo dell'Opera is included in the dome ticket, so it costs nothing extra: go in the morning, at opening, and stay a couple of hours. The **Brancacci Chapel**, in the Oltrarno, holds Masaccio's frescoes with the Expulsion from Paradise and is visited in small groups, by reservation. The **Medici Chapels**, behind San Lorenzo, have the New Sacristy with Michelangelo's tombs. In the afternoon you can stop by the **Sant'Ambrogio market**, used mainly by Florentines. *The bistecca is paid by weight and a whole cut weighs at least a kilo: order it for two or three.*
 
-**In practice:** Brancacci Chapel (about 15 euros, booking required, closed on Tuesdays) and Medici Chapels (about 11 euros, closed on Mondays) with separate tickets · Sant'Ambrogio market closed on Sundays · for the bistecca the price is per kilo, ask the weight before they cut it
+**In practice:** Brancacci Chapel (about €15, booking required, closed on Tuesdays) and Medici Chapels (about €11, closed on Mondays) with separate tickets · Sant'Ambrogio market closed on Sundays · for the bistecca the price is per kilo, ask the weight before they cut it
 
 ### Day 8 — High-speed train to Venice
 **Florence-Venice in 2h**, with Santa Lucia station **inside** the city.
@@ -110,7 +110,7 @@ The first evening we did the round of the **bacari**: cicheti eaten standing at 
 
 From Santa Lucia you walk straight out onto the Grand Canal, and the simplest thing is to take the vaporetto to the stop nearest your lodging. Big suitcases are a problem: bridges with steps everywhere, no cars, and paid porters. Cannaregio is a quarter of an hour's walk from the station. The afternoon is for getting lost aimlessly, away from the Rialto-San Marco axis, along the **Fondamenta della Misericordia** or toward the **Ghetto**, the oldest in Europe. *The bacaro crawl starts early, around six: many close their kitchens before nine.*
 
-**In practice:** Frecciarossa and Italo Florence-Venice about 2 hours · access fee on calendar days, in spring and summer, around 5-10 euros; if you sleep in the city you register for the exemption · cicchetti usually 2 to 4 euros each, an ombra of wine a few euros
+**In practice:** Frecciarossa and Italo Florence-Venice about 2 hours · access fee on calendar days, in spring and summer, around €5-10; if you sleep in the city you register for the exemption · cicchetti usually €2 to €4 each, an ombra of wine a few euros
 
 ### Day 9 — Venice at dawn and the Scuola di San Rocco
 **Get up at dawn**: it's the advice that changes your opinion of this city the most. At seven the calli are empty, you hear the water slapping against the walls, the delivery boats pass, and the **Rialto fish market** has been working since five (closed Sunday and Monday).
@@ -121,7 +121,7 @@ At sunset we climbed the **bell tower of San Giorgio Maggiore**, which has the b
 
 After the market cross the still-empty **Rialto Bridge** and reach San Marco before the basilica opens, when the square is clear. For the **basilica** it's worth booking entry, which is cheap, and adding the museum with the bronze horses and the loggia over the square. **Palazzo Ducale** needs at least two hours, with the prisons and the Bridge of Sighs seen from inside. The Scuola Grande di San Rocco, in the San Polo sestiere, provides mirrors so you can look at the ceilings without craning your neck. For San Giorgio take the vaporetto from San Zaccaria. *In Piazza San Marco you don't sit on the steps or eat: there are fines.*
 
-**In practice:** Palazzo Ducale around 30 euros, less if bought online in advance · San Marco basilica with a named ticket of about 10 euros and booking recommended · San Giorgio bell tower with lift, ticket of about 8 euros
+**In practice:** Palazzo Ducale around €30, less if bought online in advance · San Marco basilica with a named ticket of about €10 and booking recommended · San Giorgio bell tower with lift, ticket of about €8
 
 ### Day 10 — The lagoon
 This is the day almost nobody does. We went to **Torcello**, forty minutes by vaporetto, with the seventh-century basilica and the mosaic Last Judgment that covers an entire wall. Venice began there, before Venice existed, and there are twenty people.
@@ -132,7 +132,7 @@ Then **Burano** for the colored houses and **Murano** for the glass, knowing the
 
 For Torcello take line 12 from the **Fondamente Nove**, which stops at Murano and Burano; it's best to go to Torcello first, the farthest stop, and work back. On Torcello, besides the basilica, there's the bell tower, from which you see the whole northern lagoon among reed beds and salt marshes. Burano takes an hour, among the colored houses and the lace museum; on Murano it's worth going into a furnace to watch glass being worked and visiting the **Glass Museum**. *On the islands restaurants fill up at lunch: book or eat early.* The ride back at sunset, on the vaporetto, is one of the best views of the city.
 
-**In practice:** vaporetto single ticket about 9.50 euros, 1, 2, 3 or 7-day passes from about 25 euros · line 12 Fondamente Nove-Burano about 40 minutes, then line 9 to Torcello · Torcello basilica included in the San Marco ticket if used within six months, bell tower with a separate ticket, a few euros
+**In practice:** vaporetto single ticket about €9.50, 1, 2, 3 or 7-day passes from about €25 · line 12 Fondamente Nove-Burano about 40 minutes, then line 9 to Torcello · Torcello basilica included in the San Marco ticket if used within six months, bell tower with a separate ticket, a few euros
 
 ### Day 11 — High-speed train to Naples
 We moved to **Naples**; to sleep, the historic center or Chiaia.
@@ -143,7 +143,7 @@ In the evening, **pizza** where it was born, in a neighborhood pizzeria, where i
 
 From Venice to Naples the direct Frecciarossa takes about five hours: leave in the morning and arrive at lunchtime. The museum is reached by metro from the central station, Museo stop. Inside it's worth focusing on three things: the mosaics from the House of the Faun, including the Battle of Issus with Alexander, the Pompeii frescoes and the **Secret Cabinet**, the erotic collection kept locked for centuries. After the museum walk down Via Toledo and through the **Quartieri Spagnoli**, then **Spaccanapoli**, the street that cuts straight through the historic center. *In the crowds of Via Toledo and the Sanità, the usual big-city care applies: bags closed and phone in your pocket.*
 
-**In practice:** Frecciarossa Venice-Naples about 5 hours · National Archaeological Museum closed on Tuesdays, ticket around 20 euros · a margherita in a pizzeria usually costs 5 to 8 euros
+**In practice:** Frecciarossa Venice-Naples about 5 hours · National Archaeological Museum closed on Tuesdays, ticket around €20 · a margherita in a pizzeria usually costs €5 to €8
 
 ### Day 12 — Pompeii and Herculaneum, and the trip home
 We entered **Pompeii at opening time**, with the named ticket already booked: sixty-six hectares without shade, which in the middle hours of summer are tiring to the point of being risky.
@@ -154,7 +154,7 @@ Then the trip home from Naples.
 
 Pompeii is reached on the **Circumvesuviana** from Naples, Pompei Scavi stop, in just over half an hour; the Porta Marina entrance is two minutes from the station. It's worth following a set route: the Forum, the House of the Faun, the Stabian Baths, the Lupanar, then the **Amphitheater**, the oldest known, at the far end of town. Herculaneum is on the same line, heading back toward Naples: get off at Ercolano Scavi and walk ten minutes downhill. *Factor the train back to Napoli Centrale into your return time: the Circumvesuviana can have delays and cancellations.*
 
-**In practice:** Pompeii ticket around 20 euros, named, to buy online · Herculaneum ticket about fifteen euros, visited in two or three hours · packed lunch and water: inside Pompeii there are few refreshment points
+**In practice:** Pompeii ticket around €20, named, to buy online · Herculaneum ticket about fifteen euros, visited in two or three hours · packed lunch and water: inside Pompeii there are few refreshment points
 
 ## What to see / what to do
 - **Go from October to March.** It's the choice that changes everything else the most.

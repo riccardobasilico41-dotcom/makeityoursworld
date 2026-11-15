@@ -25,7 +25,7 @@ export const italia: Paese = {
   stileViaggio: ['montagna', 'sci', 'città d\'arte', 'isole', 'enogastronomia'],
   scheda: {
     documenti:
-      'Carta d\'identità per i cittadini UE, passaporto per gli altri. Nessuna formalità. L\'unica cosa simile a una tassa d\'ingresso è il **contributo di accesso di Venezia**, che nel 2026 si è pagato in 60 giornate tra aprile e luglio da chi entra in città in giornata senza dormirci: 5 euro con almeno quattro giorni d\'anticipo, 10 euro sotto quella soglia. È una sperimentazione che cambia calendario e condizioni ogni anno, quindi conviene ricontrollarla prima di partire.',
+      'Carta d\'identità per i cittadini UE, passaporto per gli altri. Nessuna formalità. L\'unica cosa simile a una tassa d\'ingresso è il **contributo di accesso di Venezia**, che nel 2026 si è pagato in 60 giornate tra aprile e luglio da chi entra in città in giornata senza dormirci: 5 € con almeno quattro giorni d\'anticipo, 10 € sotto quella soglia. È una sperimentazione che cambia calendario e condizioni ogni anno, quindi conviene ricontrollarla prima di partire.',
     valuta: 'Euro. Nessun cambio da fare, ma in molti rifugi alpini e in diversi agriturismi dell\'interno non ci sono né il bancomat né la connessione.',
     pagamenti:
       'Le carte sono accettate ovunque per legge e il contactless è molto diffuso. Le eccezioni sono due e si incontrano proprio nei posti migliori: i **rifugi in quota**, dove spesso si paga solo in contanti perché non c\'è linea, e i piccoli produttori di vino e le trattorie di paese nell\'Appennino. In montagna i contanti nello zaino ci vogliono sempre.',

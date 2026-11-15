@@ -16,7 +16,7 @@ export const arabiaSaudita: Paese = {
   stileViaggio: ['archeologia', 'deserto', 'montagna', 'paese in trasformazione'],
   scheda: {
     documenti:
-      "Passport with at least 6 months of remaining validity. Italian citizens apply for the **electronic tourist visa** on the official portal visa.visitsaudi.com: it costs about 535 riyals (around 130 euros, with the mandatory health insurance included), usually arrives within a few hours or days, and is valid for **one year with multiple entries**, with stays of up to 90 days each. There is also a free route: the **stopover visa** for those flying with Saudia or flynas, valid for 4 days and tied to the purchase of the ticket. It is covered in detail in the comparison of Gulf stopover programs.",
+      "Passport with at least 6 months of remaining validity. Italian citizens apply for the **electronic tourist visa** on the official portal visa.visitsaudi.com: it costs about 535 riyals (around €130, with the mandatory health insurance included), usually arrives within a few hours or days, and is valid for **one year with multiple entries**, with stays of up to 90 days each. There is also a free route: the **stopover visa** for those flying with Saudia or flynas, valid for 4 days and tied to the purchase of the ticket. It is covered in detail in the comparison of Gulf stopover programs.",
     valuta: 'Saudi riyal (SAR), pegged to the US dollar.',
     pagamenti:
       "The country has gone digital fast: in cities, cards and contactless work everywhere, even in taxis and in many small shops. Cash is needed in the souqs and in the villages of the interior. ATMs are widespread and accept foreign cards without problems.",

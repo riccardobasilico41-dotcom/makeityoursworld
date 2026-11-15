@@ -77,7 +77,7 @@ Dopo siamo andati a piedi a **Villa Borghese** e al **Pincio al tramonto**, con 
 
 Sera nel **Ghetto**, con i **carciofi alla giudia** se si è nella stagione giusta.
 
-**In pratica:** Pantheon con biglietto di circa 5 euro, meglio prenotato nei weekend · Galleria Borghese chiusa il lunedì, prenotazione obbligatoria sul sito ufficiale e turni di due ore · San Luigi dei Francesi e Sant'Agostino a ingresso libero, ma chiudono a metà giornata: controllare gli orari · i carciofi alla giudia sono di stagione più o meno da febbraio ad aprile.
+**In pratica:** Pantheon con biglietto di circa 5 €, meglio prenotato nei weekend · Galleria Borghese chiusa il lunedì, prenotazione obbligatoria sul sito ufficiale e turni di due ore · San Luigi dei Francesi e Sant'Agostino a ingresso libero, ma chiudono a metà giornata: controllare gli orari · i carciofi alla giudia sono di stagione più o meno da febbraio ad aprile.
 
 ### Giorno 4 — La Roma che non finisce sulle cartoline
 È la giornata che separa chi ha visto Roma da chi ne ha visto i monumenti, e va scelta in base ai gusti. Le opzioni sono tre, tutte piene.

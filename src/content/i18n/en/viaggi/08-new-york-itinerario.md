@@ -12,12 +12,12 @@
 New York moves at a brisk pace, and over six days I crossed it on foot, 9-12 miles (15-20 km) a day, getting back each evening worn out but with my head full of different skylines: from Times Square lit up on the first night to the sunset from Top of the Rock, which New Yorkers themselves prefer to the Empire State Building as a viewpoint. It's a rhythm that leaves little room to breathe, but it's also the only way to fit into a few days a city that deserves far more time.
 
 ## Scheda pratica
-- **Documenti:** ESTA required (electronic travel authorization, https://esta.cbp.dhs.gov/) for EU citizens with an electronic or biometric passport, for tourist stays of up to 90 days. Anyone who has been to Cuba, North Korea, Syria or Iran can't use the ESTA and has to apply for a proper visa.
-- **Moneta:** US dollar. Cards are accepted almost everywhere and many places only take cards, but it's still worth carrying a little cash.
-- **Spostamenti:** mostly the subway, Uber/Lyft (better to download the apps before leaving, very handy at night) and walking, averaging 9-12 miles (15-20 km) a day: a serious pace.
-- **Budget indicativo:** around €200 (€250-280 to do almost everything).
-- **App utili:** offline Google Maps (New York maps downloaded in advance work without a connection, especially useful in the subway), Uber/Lyft for transfers.
-- **Consapevolezza sul ritmo:** there are more activities listed than can be done in 6 days. It's normal not to manage everything: better to decide in advance what to leave out, instead of chasing the whole list.
+- **Documents:** ESTA required (electronic travel authorization, https://esta.cbp.dhs.gov/) for EU citizens with an electronic or biometric passport, for tourist stays of up to 90 days. Anyone who has been to Cuba, North Korea, Syria or Iran can't use the ESTA and has to apply for a proper visa.
+- **Currency:** US dollar. Cards are accepted almost everywhere and many places only take cards, but it's still worth carrying a little cash.
+- **Getting around:** mostly the subway, Uber/Lyft (better to download the apps before leaving, very handy at night) and walking, averaging 9-12 miles (15-20 km) a day: a serious pace.
+- **Indicative budget:** around €200 (€250-280 to do almost everything).
+- **Useful apps:** offline Google Maps (New York maps downloaded in advance work without a connection, especially useful in the subway), Uber/Lyft for transfers.
+- **About the pace:** there are more activities listed than can be done in 6 days. It's normal not to manage everything: better to decide in advance what to leave out, instead of chasing the whole list.
 - **From the airport to the centre:** from **JFK** the **AirTrain** (about $8.75, paid on exit at Jamaica or Howard Beach) connects to the E, J/Z or A subway (about $3) or to the LIRR train from Jamaica, faster to Penn Station and Grand Central: 50-75 minutes in all, 24 hours a day · **yellow taxi** from the official rank, flat fare of $70 to Manhattan plus surcharges, tolls and tip, about $90-100 · **Uber/Lyft** from the app zone, often $80-120 · from **Newark (EWR)** AirTrain plus NJ Transit train to Penn Station, about 30 minutes and $16 · never accept rides from people offering them in arrivals.
 
 ## Itinerario giorno per giorno

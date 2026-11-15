@@ -100,7 +100,7 @@ export const parigi5GiorniMeta: TripMeta = {
   budget: [
     { etichetta: 'Louvre and Orsay', valore: 'single tickets are modest; the Paris Museum Pass pays off from three museums a day' },
     { etichetta: 'Versailles', valore: 'mid-priced ticket plus the regional train fare' },
-    { etichetta: 'Metro', valore: 'simplified single fare since 2025, check amounts' },
+    { etichetta: 'Metro', valore: 'single fare since 2025: Métro-Train-RER ticket €2.55 (2026)' },
     { etichetta: 'Accommodation', valore: 'the biggest item: Marais and Canal Saint-Martin are the best compromise' },
     { etichetta: 'Meals', valore: 'the midday menu is worth half the evening one' },
   ],

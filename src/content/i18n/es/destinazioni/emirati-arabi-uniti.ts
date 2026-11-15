@@ -121,7 +121,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
             costo: 'el visado es gratuito, salvo los gastos administrativos y el seguro médico obligatorio',
             durata: 'visado válido tres meses, estancia de hasta 4 días',
             pro: [
-              "Ahorra el visado turístico ordinario, que cuesta en torno a 130 euros",
+              "Ahorra el visado turístico ordinario, que cuesta en torno a 130 €",
               "Se pide online tras comprar el billete y llega por correo en poco tiempo",
               "Cuatro días bastan para Yeda más AlUla, el corazón del país",
               "Permite también la Umrah, para quien es musulmán",
@@ -193,7 +193,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro, línea verde, hasta Al Ghubaiba, y luego a pie junto al creek.",
         "quando": "Las horas de calor: es cubierto y se enlaza bien con Al Fahidi.",
         "tempo": "1,5-2 horas",
-        "costo": "50 AED, unos 12 € (tarifa oficial de 2024)",
+        "costo": "50 AED, unos 12 € (2024)",
         "lat": 25.26643,
         "lng": 55.28945,
         "url": "https://dubaiculture.gov.ae/"
@@ -228,7 +228,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Metro, línea roja, hasta Emirates Towers.",
         "quando": "En noviembre de 2026 el museo está cerrado temporalmente por un nuevo montaje: consultar la web oficial antes de ir. Por la noche la caligrafía iluminada queda mejor en las fotos.",
         "tempo": "1,5-2 horas",
-        "orari": "Cerrado temporalmente en noviembre de 2026 por un nuevo montaje (web oficial).",
+        "orari": "Cerrado temporalmente en noviembre de 2026 por un nuevo montaje.",
         "lat": 25.21915,
         "lng": 55.28187,
         "url": "https://museumofthefuture.ae/",
@@ -251,7 +251,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Taxi por Jumeirah Road; se combina con la Mezquita de Jumeirah, a pocos minutos.",
         "quando": "Las horas de calor.",
         "tempo": "1,5 horas",
-        "costo": "25 AED, unos 6 € (tarifa oficial de 2024)",
+        "costo": "25 AED, unos 6 € (2024)",
         "lat": 25.23921,
         "lng": 55.26933,
         "url": "https://dubaiculture.gov.ae/"

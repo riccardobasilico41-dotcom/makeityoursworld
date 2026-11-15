@@ -36,7 +36,7 @@ export const esperienzeGermania: Esperienza[] = [
       "Es una de las concentraciones de museos más importantes de Europa, en un área que se atraviesa a pie en pocos minutos, con obras de nivel mundial que van del antiguo Egipto a Mesopotamia y hasta la pintura europea del siglo XIX.",
     durata: 'media jornada para una visita que toque al menos dos museos con calma; una jornada entera para verlos todos',
     periodo: 'todo el año, porque es todo en interior',
-    costo: "entrada por museo, orientativamente 12-14€; entrada combinada para toda la isla (Museumsinsel-Ticket) en torno a 24-29€",
+    costo: "entrada por museo, orientativamente 12-14 €; entrada combinada para toda la isla (Museumsinsel-Ticket) en torno a 24-29 €",
     comePrenotare:
       "Se aconseja comprar online con hora reservada, sobre todo para el Pergamonmuseum y el Neues Museum los fines de semana y en temporada alta, para evitar colas en taquilla.",
     cosaPortare: 'Ningún equipamiento especial; conviene comprobar online qué salas están abiertas.',
@@ -83,7 +83,7 @@ export const esperienzeGermania: Esperienza[] = [
       "Es un fenómeno nacido y crecido aquí, ligado precisamente a los espacios que dejó libres la caída del Muro, y es una de las razones por las que Berlín se considera desde hace décadas una de las capitales mundiales de la música electrónica. Merece la pena conocerlo incluso para quien no es del sector.",
     durata: 'una noche (los clubes suelen abrir tarde, pasada la medianoche, y algunos siguen abiertos hasta la mañana o más allá)',
     periodo: 'todo el año, porque transcurre de noche y en interior',
-    costo: 'entrada a los clubes, orientativamente 10-25€ según el local y el evento',
+    costo: 'entrada a los clubes, orientativamente 10-25 € según el local y el evento',
     comePrenotare: 'Sin reserva en la mayoría de los clubes: se hace cola en la entrada, con selección en el momento por parte del portero. Para los locales más codiciados como el Berghain no existe forma garantizada de entrar.',
     cosaPortare: 'Documento de identidad; ropa informal (la ropa elegante suele ser contraproducente para entrar en los clubes techno berlineses); nada de cámaras, que suelen estar prohibidas en el interior.',
     perChiEAdatta:

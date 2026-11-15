@@ -23,7 +23,7 @@ export const islanda: Paese = {
     sicurezza:
       'Quanto a criminalità, è tra i paesi più sicuri al mondo. I rischi veri sono ambientali: un vento capace di strappare le portiere delle auto (vanno sempre aperte e chiuse tenendole), i guadi dei fiumi, le spiagge con onde imprevedibili come Reynisfjara, il meteo che cambia in fretta. Prima delle escursioni conviene registrarsi e consultare l\'app SafeTravel.',
     trasportiInterni:
-      'L\'auto a noleggio è indispensabile: 50-80€ al giorno per una vettura standard, 150-200€ per un 4x4 da altopiani. Le strade F sono riservate ai 4x4 e aperte solo d\'estate. Una novità da mettere a budget: dal 1° gennaio 2026 c\'è una tassa stradale chilometrica sui veicoli a noleggio, a partire da circa 6,95 ISK al km (circa 0,05€/km).',
+      'L\'auto a noleggio è indispensabile: 50-80 € al giorno per una vettura standard, 150-200 € per un 4x4 da altopiani. Le strade F sono riservate ai 4x4 e aperte solo d\'estate. Una novità da mettere a budget: dal 1° gennaio 2026 c\'è una tassa stradale chilometrica sui veicoli a noleggio, a partire da circa 6,95 ISK al km (circa 0,05 €/km).',
     costoVita:
       'Uno dei paesi più cari d\'Europa, soprattutto per pasti fuori, alcolici e caffè. Chi viaggia in tenda o in camper e fa la spesa al supermercato abbassa parecchio il conto.',
     lingua: 'Islandese, ma l\'inglese lo parlano quasi tutti, a ogni età.',

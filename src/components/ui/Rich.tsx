@@ -1,5 +1,6 @@
 import { Fragment, type ReactNode } from 'react'
 import Link from '@/components/ui/Link'
+import { canonico } from '@/lib/i18n/percorsi'
 
 /**
  * Testo breve dei contenuti (destinazioni, esperienze, Paesi) con il markdown in linea
@@ -21,7 +22,7 @@ export function richNodes(text?: string | null): ReactNode[] {
       // link interni in forma canonica: <Link> ne traduce l'indirizzo
       if (!esterno && link[2].startsWith('/') && !link[2].startsWith('//'))
         return (
-          <Link key={i} href={link[2]} className={classe}>
+          <Link key={i} href={canonico(link[2]).percorso} className={classe}>
             {link[1]}
           </Link>
         )

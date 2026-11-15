@@ -9,7 +9,7 @@ export const bulgaria: Paese = {
     'Cinque-sei giorni sulle piste oneste ed economiche di Bansko, con il colpo di scena finale del Monastero di Rila, il più grande e importante monastero ortodosso di Bulgaria. Una parentesi sciistica esotica, fuori dal solito giro alpino.',
   periodoMigliore: 'stagione sciistica, dicembre-aprile',
   durataConsigliata: '5-6 giorni',
-  budgetIndicativo: 'skipass giornaliero 35-40€, cena in mehana 15-20€ a testa: tra le destinazioni sciistiche più economiche d\'Europa',
+  budgetIndicativo: 'skipass giornaliero 35-40 €, cena in mehana 15-20 € a testa: tra le destinazioni sciistiche più economiche d\'Europa',
   scheda: {
     documenti:
       'La Bulgaria è nell\'Unione Europea e dal 2025 è entrata a pieno nell\'area Schengen, anche per le frontiere terrestri: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio. La patente italiana è valida.',
@@ -21,9 +21,9 @@ export const bulgaria: Paese = {
     salute: 'La tessera europea di assicurazione malattia (TEAM) è valida. Non sono richieste vaccinazioni.',
     sicurezza: 'Paese tranquillo per chi viaggia. Contro i borseggi nelle zone affollate di Sofia bastano le normali accortezze.',
     trasportiInterni:
-      'Si vola su Sofia, l\'unico scalo comodo per Bansko (circa 160 km, 2-2h30 di auto). Da lì le opzioni sono l\'auto a noleggio (la più flessibile, utile per la tappa al Monastero di Rila), lo shuttle condiviso a 15-30€ a persona, il transfer privato a 80-90€ per auto oppure il bus pubblico, sui 20€, che però richiede un cambio in centro a Sofia e 3-5 ore in tutto.',
+      'Si vola su Sofia, l\'unico scalo comodo per Bansko (circa 160 km, 2-2h30 di auto). Da lì le opzioni sono l\'auto a noleggio (la più flessibile, utile per la tappa al Monastero di Rila), lo shuttle condiviso a 15-30 € a persona, il transfer privato a 80-90 € per auto oppure il bus pubblico, sui 20 €, che però richiede un cambio in centro a Sofia e 3-5 ore in tutto.',
     costoVita:
-      'È tra le destinazioni sciistiche più economiche d\'Europa: skipass giornaliero sui 35-40€, cena in mehana 15-20€ a testa. Con l\'euro il livello dei prezzi non è cambiato di molto.',
+      'È tra le destinazioni sciistiche più economiche d\'Europa: skipass giornaliero sui 35-40 €, cena in mehana 15-20 € a testa. Con l\'euro il livello dei prezzi non è cambiato di molto.',
     lingua: 'Bulgaro, scritto in cirillico: per i cartelli stradali aiuta riconoscere qualche lettera. L\'inglese è diffuso tra i giovani e nel turismo di Bansko.',
     elettricita: '230V, 50Hz, prese di tipo C ed F: identiche a quelle italiane.',
     fusoOrario: 'UTC+2: un\'ora avanti rispetto all\'Italia tutto l\'anno, perché l\'ora legale segue lo stesso calendario europeo.',

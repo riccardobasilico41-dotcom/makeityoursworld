@@ -20,11 +20,11 @@ export const arabiaSaudita: Paese = {
   durataConsigliata:
     '12-14 giorni per Jeddah, AlUla, Riyadh con Diriyah e le montagne dell\'Asir; 8-9 giorni per il nucleo Jeddah-AlUla-Riyadh; 4 giorni per chi arriva con un visto stopover e vuole vedere almeno AlUla.',
   budgetIndicativo:
-    'più alto di quanto ci si aspetti. Ad AlUla gli alloggi sono pochi e cari, i voli interni sono indispensabili e con distanze così l\'auto a noleggio è quasi obbligatoria. La benzina invece costa pochissimo. Il visto elettronico costa intorno ai 130€, assicurazione sanitaria compresa.',
+    'più alto di quanto ci si aspetti. Ad AlUla gli alloggi sono pochi e cari, i voli interni sono indispensabili e con distanze così l\'auto a noleggio è quasi obbligatoria. La benzina invece costa pochissimo. Il visto elettronico costa intorno ai 130 €, assicurazione sanitaria compresa.',
   stileViaggio: ['archeologia', 'deserto', 'montagna', 'paese in trasformazione'],
   scheda: {
     documenti:
-      'Passaporto con almeno 6 mesi di validità residua. I cittadini italiani chiedono il **visto turistico elettronico** sul portale ufficiale visa.visitsaudi.com: costa circa 535 riyal (intorno ai 130 euro, con l\'assicurazione sanitaria obbligatoria compresa), di solito arriva in poche ore o giorni e vale **un anno con ingressi multipli**, con soggiorni fino a 90 giorni ciascuno. C\'è anche una strada gratuita: il **visto stopover** per chi vola con Saudia o flynas, valido 4 giorni e legato all\'acquisto del biglietto. Se ne parla in dettaglio nel confronto sui programmi stopover del Golfo.',
+      'Passaporto con almeno 6 mesi di validità residua. I cittadini italiani chiedono il **visto turistico elettronico** sul portale ufficiale visa.visitsaudi.com: costa circa 535 riyal (intorno ai 130 €, con l\'assicurazione sanitaria obbligatoria compresa), di solito arriva in poche ore o giorni e vale **un anno con ingressi multipli**, con soggiorni fino a 90 giorni ciascuno. C\'è anche una strada gratuita: il **visto stopover** per chi vola con Saudia o flynas, valido 4 giorni e legato all\'acquisto del biglietto. Se ne parla in dettaglio nel confronto sui programmi stopover del Golfo.',
     valuta: 'Riyal saudita (SAR), agganciato al dollaro USA.',
     pagamenti:
       'Il paese si è digitalizzato in fretta: in città carte e contactless funzionano ovunque, anche in taxi e in molti piccoli negozi. I contanti servono nei souq e nei villaggi dell\'interno. Gli sportelli bancomat sono diffusi e accettano le carte estere senza problemi.',

@@ -38,7 +38,7 @@ The second day is still for acclimatizing, but more active. The urban cable cars
 
 In the afternoon we took a taxi to the **Valle de la Luna**, eroded clay formations a few kilometers from the center. *You still feel the effort climbing stairs: that's normal, the body hasn't fully adjusted yet.* Anyone in El Alto in the evening can catch the cholitas luchadoras, the wrestling of Aymara women.
 
-**In practice:** cable car paid per ride, with a separate ticket at each line change · Valle de la Luna has an entrance fee of about 15 bolivianos, about an hour's visit · cholitas luchadoras usually on Sunday afternoons at El Alto's Multifuncional, times to check; many go with a tour that includes transport · better not to walk around El Alto alone after dark.
+**In practice:** cable car paid per ride, with a separate ticket at each line change · Valle de la Luna has an entrance fee of about 15 bolivianos, about an hour's visit · cholitas luchadoras usually on Sunday afternoons at El Alto's Multifuncional; many go with a tour that includes transport · better not to walk around El Alto alone after dark.
 
 ### Day 3 — Tiwanaku and transfer to Copacabana
 We moved to **Copacabana**, on Lake Titicaca: about 4 hours by road, with a stop at the ruins of **Tiwanaku**, capital of a civilization older than the Incas, along the road to the lake. At the site you see the semi-subterranean temple, the **Kalasasaya** platform with the Gate of the Sun and, a short way off, the cut blocks of **Puma Punku**; the two museums, lithic and ceramic, help you understand what you are looking at. It's best to get there in the morning and give it a couple of hours, with a guide or on a tour that combines Tiwanaku with the transfer.

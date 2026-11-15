@@ -153,5 +153,7 @@ In Indonesia sono tornato per la gente, per i posti e per i sorrisi. Dodici gior
 ## Nota su questa bozza
 Da Rick vengono i ricordi di Bali, di Bunaken e di Toraja, Tomohon e Tangkoko fatti con Wale Adventure, il viaggio a Raja Ampat di agosto 2026 con il vento e il mare senza pioggia, il consiglio sugli homestay e i contatti (Villa Jacques, Pande Wirta, Wale Adventure, Paparisa, Tanjung Mefiyai, Soul Scuba Divers). Il resto viene dalle schede destinazione del sito e dalla ricerca del 5 novembre 2026: Wikivoyage e operatori per il traghetto Sorong-Waisai, il permesso e le stagioni di Raja Ampat; le notizie sulla rotta stagionale Garuda Denpasar-Sorong (ottobre 2026); il sito di Wale Adventure per i tour nel nord di Sulawesi; Wikivoyage per la strada Makassar-Toraja e i funerali; gov.uk per la sicurezza nella regione della Papua. Voli, orari e l'importo del permesso di Raja Ampat vanno ricontrollati prima di partire.
 
+Permesso di Raja Ampat: a novembre 2026 le fonti non ufficiali indicano 1.000.000 IDR per gli stranieri (prima 700.000), da confermare su kkprajaampat.com; nei dati del viaggio tolte le diciture «da verificare».
+
 ## Tag
 `#indonesia` `#bali` `#sulawesi` `#manado` `#bunaken` `#tangkoko` `#rajaampat` `#kri` `#piaynemo` `#snorkeling` `#immersioni` `#asia`

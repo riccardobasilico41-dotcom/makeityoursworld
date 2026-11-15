@@ -60,7 +60,7 @@ Il pomeriggio è per la Milano dell'altro secolo, secondo i gusti:
 
 A fine giornata, il quadrante nord: **Porta Nuova** con il **Bosco Verticale**, due torri residenziali con centinaia di alberi veri sui balconi, che d'estate fanno ombra e d'inverno lasciano passare la luce, e la passeggiata verso **Isola**, il quartiere con più vita della Milano nuova. In alternativa **CityLife**, con le tre torri di Isozaki, Hadid e Libeskind e il parco intorno.
 
-**In pratica:** Cenacolo circa 15 euro, solo su prenotazione, chiuso il lunedì: i posti escono a blocchi e finiscono in pochi giorni · San Maurizio e Sant'Ambrogio a ingresso libero, fuori dagli orari delle funzioni · HangarBicocca aperto da giovedì a domenica, con la metro M5 · Fondazione Prada chiusa il martedì, Museo del Novecento e Monumentale chiusi il lunedì
+**In pratica:** Cenacolo circa 15 €, solo su prenotazione, chiuso il lunedì: i posti escono a blocchi e finiscono in pochi giorni · San Maurizio e Sant'Ambrogio a ingresso libero, fuori dagli orari delle funzioni · HangarBicocca aperto da giovedì a domenica, con la metro M5 · Fondazione Prada chiusa il martedì, Museo del Novecento e Monumentale chiusi il lunedì
 
 ## La versione da un giorno
 Un giorno a Milano funziona benissimo, meglio che in quasi qualunque altra città italiana, perché il centro è compatto e la metro è veloce. Il programma:

@@ -9,12 +9,12 @@ export const costaRica: Paese = {
     'Trece días que cruzan el país de una costa a la otra, del mar Caribe al Pacífico: selvas tropicales, cañones de lava volcánica, el bosque nuboso de Monteverde y playas donde se avistan ballenas. Quizá el viaje más denso de los que cuento aquí.',
   periodoMigliore: 'clima tropical todo el año; noviembre va bien en general, menos para las ballenas en Uvita (mejor enero-marzo o julio-octubre)',
   durataConsigliata: '13 días, 12 noches',
-  budgetIndicativo: 'unos 250€ por cabeza de actividades extra, además de vuelos y alojamiento',
+  budgetIndicativo: 'unos 250 € por cabeza de actividades extra, además de vuelos y alojamiento',
   scheda: {
     documenti:
       'Pasaporte con al menos 30 días de validez restante desde la entrada (muchas fuentes aconsejan de todos modos 6 meses). Sin visado para turismo hasta 180 días para los ciudadanos italianos. El billete de salida del país es una condición de entrada y en el aeropuerto lo comprueban siempre: hay que reservarlo antes de embarcar.',
     valuta:
-      'Colón costarricense (CRC), orientativamente 1€ = 600 CRC. El dólar estadounidense funciona como moneda paralela y se acepta casi en todas partes. Los bancos cambian euros pero a tipos penalizadores: conviene llegar con dólares o sacar dinero allí.',
+      'Colón costarricense (CRC), orientativamente 1 € = 600 CRC. El dólar estadounidense funciona como moneda paralela y se acepta casi en todas partes. Los bancos cambian euros pero a tipos penalizadores: conviene llegar con dólares o sacar dinero allí.',
     pagamenti:
       'Las tarjetas se aceptan en las zonas turísticas, a menudo con comisiones altas. Conviene cambiar solo en bancos o casas de cambio autorizadas: en los centros turísticos, por la calle, circulan ofertas con tipos "más favorables" que acaban en billetes falsos. En el restaurante la propina ya está incluida (10%); para los guías de los tours se calculan 5-10$ por persona, para el conductor que acompaña todo el recorrido unos 25$ por cabeza al final del viaje.',
     connettivita:
@@ -26,7 +26,7 @@ export const costaRica: Paese = {
     trasportiInterni:
       'Van privada con conductor para quien quiere cubrir muchas paradas; autobuses públicos económicos y extendidos, pero lentos; vuelos internos entre San José, Liberia y los demás destinos para ahorrar horas de carretera. En la ciudad, y para el traslado aeropuerto-centro, Uber cuesta un tercio menos que los taxis y es más seguro porque se comprueba la matrícula con antelación. Los taxis oficiales son rojos con el triángulo en el techo, naranjas los de los aeropuertos.',
     costoVita:
-      'Es el país más caro de Centroamérica continental. Las actividades cuestan bastante (un día de rafting o tirolina va de 60 a 120$ por persona), y quien viaja con un tour organizado cuenta con 350-500€ en total de extras.',
+      'Es el país más caro de Centroamérica continental. Las actividades cuestan bastante (un día de rafting o tirolina va de 60 a 120$ por persona), y quien viaja con un tour organizado cuenta con 350-500 € en total de extras.',
     lingua: 'Español; el inglés está muy extendido en todo el sector turístico.',
     elettricita: '120V, 60Hz, enchufes de tipo A y B (estándar norteamericano): hace falta un adaptador desde Italia.',
     fusoOrario: 'UTC-6 todo el año, sin horario de verano: 8 horas menos que en Italia en horario de verano, 7 en invierno.',

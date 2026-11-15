@@ -88,7 +88,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         come: "I biglietti si vendono solo online sul sito ufficiale: ogni martedì alle 10 escono quelli per le visite di sei settimane dopo. All'ingresso non si vendono.",
         quando: "Prenotare appena si decidono le date.",
         tempo: "1-1,5 ore",
-        costo: "16,50 € adulti, con 1 € di commissione (sito ufficiale, 2026)",
+        costo: "16,50 € adulti, con 1 € di commissione (2026)",
         orari: "Tutti i giorni 9-22, salvo eccezioni indicate sul sito (2026)",
         lat: 52.37516,
         lng: 4.88408,

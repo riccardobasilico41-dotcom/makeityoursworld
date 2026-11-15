@@ -14,7 +14,7 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
     durata: "half a day or a full day, 5-8 hours including transfers from Seoul",
     periodo:
       "all year. The clear days of fall and winter offer the best visibility from the Dora Observatory. Visits are normally suspended on Monday and national holidays, and can be canceled without notice for drills or tensions at the border.",
-    costo: "roughly 50-90€ per person from Seoul, with lunch often included",
+    costo: "roughly €50-90 per person from Seoul, with lunch often included",
     comePrenotare:
       "Only through authorized operators, departing from Seoul: you can't enter on your own, neither by car nor by public transport. Book a few days ahead, providing your passport details; in peak periods it's best to do it a week before.",
     cosaPortare:
@@ -195,7 +195,7 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       "Here Korean street food is eaten in its original form. And the rush hour, between seven and nine in the evening, is a show in itself: hundreds of people sitting at the counters inside an early-1900s hall.",
     durata: '1-2 hours',
     periodo: "all year, in the evening. Many stalls close on Sunday or early in the afternoon: the right time is between six and nine.",
-    costo: "roughly 3,000-8,000 won per serving: you eat very well with 10-15€ per person",
+    costo: "roughly 3,000-8,000 won per serving: you eat very well with €10-15 per person",
     comePrenotare: "Nothing to book: you sit where there's room. At the most famous stalls, the ones that ended up in documentaries, there's a line: to avoid it just move ten meters.",
     cosaPortare: "Cash for the smallest stalls, though almost all accept cards. And appetite, because servings arrive fast.",
     perChiEAdatta:

@@ -118,7 +118,7 @@ To Miami airport allow from half an hour to an hour from Miami Beach, by Uber, L
 - The **Seven Mile Bridge** between the Keys, with its photo stops before and after the bridge.
 - The sunset at **Mallory Square** in Key West.
 - Wildlife spotting in the **Everglades** (alligators, manatees, herons).
-- The **Kennedy Space Center**, and with a bit of luck a live launch: the calendar has to be checked beforehand.
+- The **Kennedy Space Center**, and with a bit of luck a live launch: check the calendar beforehand.
 - **Little-touristed gem:** the Domino Park in Little Havana, where elderly Cubans meet every day to play: a piece of everyday life far from the beaten paths.
 
 ## Dove abbiamo dormito

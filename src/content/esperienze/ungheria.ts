@@ -21,7 +21,7 @@ export const esperienzeUngheria: Esperienza[] = [
     durata: 'in pratica 2,5-3 ore, tra spogliatoio, code per gli armadietti e tempo nelle vasche; si può restare anche l\'intera giornata',
     periodo: 'tutto l\'anno; d\'inverno le vasche esterne fumano nella neve, d\'estate le vasche esterne sono più affollate',
     costo:
-      'biglietto giornaliero indicativamente tra 20 e 30€ secondo il giorno (feriale/weekend) e la formula (solo ingresso, con cabina o con armadietto); telo e ciabatte da bagno non sono inclusi e si possono noleggiare in loco a pagamento, oppure portare da casa per risparmiare.',
+      'biglietto giornaliero indicativamente tra 20 e 30 € secondo il giorno (feriale/weekend) e la formula (solo ingresso, con cabina o con armadietto); telo e ciabatte da bagno non sono inclusi e si possono noleggiare in loco a pagamento, oppure portare da casa per risparmiare.',
     comePrenotare: 'Biglietto acquistabile online in anticipo sul sito ufficiale (consigliato nei weekend e in alta stagione per saltare la coda alla cassa) o direttamente in loco.',
     cosaPortare: 'Costume da bagno, ciabatte antiscivolo e telo da mare, per evitare il costo del noleggio; una cuffia se si vuole nuotare nella vasca sportiva.',
     perChiEAdatta: 'Adatta a quasi tutti; nei weekend serali (i cosiddetti "Sparty", feste notturne con musica e luci) l\'atmosfera cambia del tutto e somiglia più a un party che a una terma tradizionale: se si cerca l\'esperienza più tranquilla, conviene guardare prima il calendario.',
@@ -43,7 +43,7 @@ export const esperienzeUngheria: Esperienza[] = [
       'Perché è l\'alternativa più elegante e "fotogenica" a Széchenyi: l\'edificio stesso, con le sue decorazioni Art Nouveau, vale la visita quanto l\'acqua termale, ed è di solito meno affollata del complesso nel Parco cittadino.',
     durata: '2-3 ore, tra spogliatoio e tempo nelle vasche',
     periodo: 'tutto l\'anno; la vasca esterna con onde rende di più nei mesi estivi',
-    costo: 'biglietto giornaliero indicativamente tra 20 e 28€ secondo il giorno e la formula (con o senza cabina privata)',
+    costo: 'biglietto giornaliero indicativamente tra 20 e 28 € secondo il giorno e la formula (con o senza cabina privata)',
     comePrenotare: 'Biglietto acquistabile online in anticipo sul sito ufficiale o direttamente in loco.',
     cosaPortare: 'Costume da bagno, ciabatte antiscivolo e telo da mare, per evitare il costo del noleggio.',
     perChiEAdatta: 'Adatta a chi cerca un\'atmosfera più raccolta ed elegante rispetto a Széchenyi; meno indicata a chi cerca l\'esperienza più "sociale" delle grandi vasche esterne affollate.',
@@ -65,7 +65,7 @@ export const esperienzeUngheria: Esperienza[] = [
       'Perché il Parlamento e il Castello di Buda, entrambi costruiti per essere visti dal fiume, si vedono meglio dall\'acqua, ed è il modo più semplice per vedere insieme, in un\'unica serata, i principali monumenti illuminati delle due sponde.',
     durata: 'circa 1 ora per il giro base; le formule con cena arrivano a 2-2,5 ore',
     periodo: 'tutto l\'anno, con la parte migliore dopo il tramonto quando i monumenti sono illuminati; in inverno l\'imbrunire è già nel tardo pomeriggio',
-    costo: 'indicativamente 15-25€ a persona per il giro panoramico base, di più per le formule con cena o drink inclusi',
+    costo: 'indicativamente 15-25 € a persona per il giro panoramico base, di più per le formule con cena o drink inclusi',
     comePrenotare: 'Prenotabile online con largo anticipo o, per gli operatori più piccoli, direttamente al molo poco prima della partenza; consigliata la prenotazione anticipata nei weekend estivi.',
     cosaPortare: 'Una giacca anche in estate: sul fiume, di sera, fa più fresco che in città.',
     perChiEAdatta:
@@ -88,7 +88,7 @@ export const esperienzeUngheria: Esperienza[] = [
       'Perché è un fenomeno nato qui e difficile da trovare altrove con la stessa densità e originalità: bar improvvisati dentro edifici altrimenti destinati alla demolizione, diventati nel giro di vent\'anni uno dei motivi per cui Budapest è una delle capitali europee più note per la vita notturna.',
     durata: 'una serata, indicativamente 3-4 ore per un giro di più locali',
     periodo: 'tutto l\'anno, essendo un\'esperienza per lo più al chiuso o nei cortili coperti; d\'estate molti hanno anche spazi all\'aperto',
-    costo: 'ingresso di solito gratuito o con consumazione minima; una birra artigianale costa indicativamente 3-5€, meno che nei locali turistici del centro',
+    costo: 'ingresso di solito gratuito o con consumazione minima; una birra artigianale costa indicativamente 3-5 €, meno che nei locali turistici del centro',
     comePrenotare: 'Nessuna prenotazione necessaria per il giro in autonomia; esistono anche pub crawl organizzati con guida e ingressi prioritari in alcuni locali, prenotabili online.',
     cosaPortare: 'Documento d\'identità (alcuni locali lo richiedono all\'ingresso in tarda serata) e contante per i locali più piccoli che non accettano carte.',
     perChiEAdatta:

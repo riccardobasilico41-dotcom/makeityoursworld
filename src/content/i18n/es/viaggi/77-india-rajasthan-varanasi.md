@@ -48,7 +48,7 @@ A primera hora, la **Tumba de Humayun**, el mausoleo mogol que inspiró el Taj M
 
 Por la noche se sale. Nosotros de Delhi a Benarés fuimos en el **tren nocturno**, en litera, en segunda clase: se duerme en el tren y te ahorras una noche de hotel. En el trayecto hay varios nocturnos. El **Shiv Ganga Express** sale de Nueva Delhi hacia las 20:05 y llega a Banaras hacia las 6:10, todos los días; el Swatantrata Senani Express sale hacia las 21:15 de Nueva Delhi y llega a Varanasi Junction hacia las 8:05. *Conviene llegar a la estación con una hora de margen: Nueva Delhi es enorme, está abarrotada y el andén hay que buscarlo en el panel.*
 
-**En la práctica:** Humayun y Qutub Minar unas 600 rupias cada uno · el equipaje grande se deja en el hotel hasta la noche o en la consigna de la estación · cena antes de subir o una comida pedida en el tren · horarios que hay que volver a comprobar en NTES o en la app de IRCTC el día antes.
+**En la práctica:** Humayun y Qutub Minar unas 600 rupias cada uno · el equipaje grande se deja en el hotel hasta la noche o en la consigna de la estación · cena antes de subir o una comida pedida en el tren · el día antes, mirar los horarios en NTES o en la app de IRCTC.
 
 ### Día 3 — Benarés: la llegada al amanecer, los ghats y el aarti en Dashashwamedh
 Se baja del tren con la luz de la mañana. De la estación al río hace falta media hora larga en e-rickshaw o en taxi. El coche se detiene en los márgenes de la ciudad vieja, y los últimos metros hasta el hotel en los ghats se hacen a pie por los callejones, con el equipaje. *Conviene pedir al hotel que mande a alguien a buscar a los huéspedes donde se bajan: la primera vez los callejones son un laberinto.*

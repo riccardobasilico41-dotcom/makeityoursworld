@@ -2,6 +2,7 @@ import { NextResponse, type NextRequest } from 'next/server'
 import { canonico, localizza } from '@/lib/i18n/percorsi'
 import { LINGUE_PUBBLICATE, SEGMENTI, isLingua } from '@/lib/i18n/config'
 import { VECCHI_SLUG_VIAGGI } from '@/lib/vecchi-slug'
+import { HEADER_LINGUA } from '@/lib/i18n/lingua-header'
 
 /*
  * Lingue negli indirizzi. Ogni indirizzo pubblico (/trips/japan-itinerary,
@@ -61,7 +62,11 @@ export function proxy(request: NextRequest) {
     return NextResponse.redirect(url, 308)
   }
   url.pathname = `/${lingua}${percorso === '/' ? '' : percorso}`
-  return NextResponse.rewrite(url)
+  // la lingua viaggia anche in un header: la 404 globale (global-not-found.tsx) sta fuori da app/[lang]
+  // e senza questo non saprebbe in che lingua rispondere a /it/pagina-inesistente
+  const headers = new Headers(request.headers)
+  headers.set(HEADER_LINGUA, lingua)
+  return NextResponse.rewrite(url, { request: { headers } })
 }
 
 export const config = {

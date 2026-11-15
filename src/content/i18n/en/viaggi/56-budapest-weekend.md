@@ -57,7 +57,7 @@ In the afternoon, those who chose Széchenyi have the **City Park** (Városliget
 
 *Note: the Gellért Baths closed on 1 October 2025 for a renovation lasting several years, and reopening is not expected before 2028; on the Buda side the nearest alternative today is the Rudas Baths.*
 
-**In practice:** Széchenyi by the yellow metro line M1 to Széchenyi fürdő · day ticket with locker around 30-40 euros depending on the day, cheaper online and on weekdays · bring (or rent) swimsuit, flip-flops and towel · early morning or late afternoon are the least crowded times.
+**In practice:** Széchenyi by the yellow metro line M1 to Széchenyi fürdő · day ticket with locker around €30-40 depending on the day, cheaper online and on weekdays · bring (or rent) swimsuit, flip-flops and towel · early morning or late afternoon are the least crowded times.
 
 ### Day 4 — Danube, Margaret Island and the Last Round
 In the morning we went to **Margaret Island** (Margitsziget), the car-free park in the middle of the Danube, with the musical fountain and its smaller baths: a slower pace after three days of city. You enter from the south end, from **Margaret Bridge**, and can cross the island on foot or by rented bike, past the Japanese garden, the water tower and the ruins of the Dominican convent where Saint Margaret lived. *The musical fountain shows run in the warm season: in winter the island is still pleasant, but barer.*

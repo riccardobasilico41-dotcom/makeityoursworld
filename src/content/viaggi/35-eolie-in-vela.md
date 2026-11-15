@@ -61,7 +61,7 @@ Il pomeriggio in barca lungo la **costa nord-orientale**, davanti alle **ex cave
 
 Per chi resta a terra c'è il belvedere di **Quattrocchi**, da cui si vedono insieme i faraglioni e Vulcano: è la cartolina dell'isola.
 
-**In pratica:** Museo Archeologico Eoliano aperto di solito tutti i giorni fino al tardo pomeriggio, biglietto intero circa 7 €, orari da verificare sul sito del Parco archeologico · almeno due ore per il museo · ex cave di pomice da vedere solo dal mare · Lipari è il porto dove rifornirsi di acqua e cambusa.
+**In pratica:** Museo Archeologico Eoliano aperto di solito tutti i giorni fino al tardo pomeriggio, biglietto intero circa 7 €, orari sul sito del Parco archeologico · almeno due ore per il museo · ex cave di pomice da vedere solo dal mare · Lipari è il porto dove rifornirsi di acqua e cambusa.
 
 ### Giorno 4 — Salina: la verde
 Breve traversata verso **Salina**, l'anomalia dell'arcipelago: **è l'unica isola con acqua sorgiva**, e per questo è verde, coltivata e piena di alberi mentre le altre sono brulle. Ha due vulcani spenti gemelli, il **Monte dei Porri** e la **Fossa delle Felci**, che le danno il profilo a due gobbe riconoscibile da chilometri.
@@ -74,7 +74,7 @@ Salina è anche l'isola del cibo: i **capperi**, che qui sono un presidio e si r
 
 Notte in rada a Santa Marina o a Rinella.
 
-**In pratica:** salita alla Fossa delle Felci di un paio d'ore, scarpe da trekking e acqua, meglio al mattino presto · spiaggia di Pollara con accesso limitato, da verificare sul posto · cantine di Malvasia su prenotazione · capperi e Malvasia da comprare qui, dove costano meno che altrove.
+**In pratica:** salita alla Fossa delle Felci di un paio d'ore, scarpe da trekking e acqua, meglio al mattino presto · spiaggia di Pollara con accesso limitato: chiedere sul posto · cantine di Malvasia su prenotazione · capperi e Malvasia da comprare qui, dove costano meno che altrove.
 
 ### Giorno 5 — Panarea e gli isolotti
 **Panarea** è la più piccola delle isole maggiori e la più mondana. In agosto è satura e cara; in giugno e settembre torna a essere quello che è, un paese bianco senza auto (**si gira a piedi o con mezzi elettrici**), con le bouganville e le case basse.

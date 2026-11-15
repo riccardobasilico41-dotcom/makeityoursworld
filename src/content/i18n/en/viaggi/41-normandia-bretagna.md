@@ -31,7 +31,7 @@ We moved to Bayeux, the base for the beaches, but before seeing them we stopped 
 
 Arrive at opening time, have lunch at the museum and in the afternoon continue to **Bayeux**, half an hour away, where you drop your bags for three nights. In the evening you stroll through the center, around the cathedral and along the river Aure, with its old water mills. Bayeux was one of the first towns liberated in June 1944 and came through the war almost intact: the center is still the medieval one.
 
-**In practice:** Mémorial de Caen about 21 euros, open 9 a.m. to 7 p.m. from April to September, with shorter hours in winter and an annual closure of a few weeks in January · book online in high season · to sleep, Bayeux, less than half an hour from all the beaches.
+**In practice:** Mémorial de Caen about €21, open 9 a.m. to 7 p.m. from April to September, with shorter hours in winter and an annual closure of a few weeks in January · book online in high season · to sleep, Bayeux, less than half an hour from all the beaches.
 
 ### Day 3 — The D-Day beaches (part 2)
 We spent a whole day on the landing sectors: **Omaha Beach**, the American cemetery at Colleville, the **Pointe du Hoc** and the artificial harbor at Arromanches. Omaha is a perfectly ordinary beach, and that's exactly what makes it hard to bear. The most logical sequence runs from west to east. You start in the morning at the **Pointe du Hoc**, the cliff that the American Rangers scaled with ropes and ladders, the ground still pitted with bomb craters.
@@ -59,7 +59,7 @@ The Mont is the hinge between the two regions, and should be experienced by slee
 
 The access system is simple once you understand it: you leave the car in the parking lots on the mainland and reach the Mont on foot, a walk of about two and a half kilometers that ends on the footbridge, or with the free **Le Passeur** shuttle, which takes about twelve minutes. The village and the ramparts are free; you pay for the **abbey**, at the top, with its suspended cloister and the Knights' Hall. During the **big tides** the Mont becomes an island again for a few hours, and you watch the show from the ramparts. Crossing the bay on foot is done only with an authorized guide, because of the quicksand and the speed at which the water rises.
 
-**In practice:** the shuttle runs from the parking lots from 7:30 a.m. to midnight · parking is paid by the day, more expensive in high season · the abbey ticket costs around 13-16 euros depending on the season: book online and check the summer evening openings.
+**In practice:** the shuttle runs from the parking lots from 7:30 a.m. to midnight · parking is paid by the day, more expensive in high season · the abbey ticket costs around €13-16 depending on the season: book online and check the summer evening openings.
 
 ### Day 7 — Mont-Saint-Michel at dawn, then Saint-Malo
 We went back to look at it at dawn, then entered Brittany and the trip slowed down. In **Saint-Malo** we walked the ramparts with the tide, and in Cancale, nearby, there are oysters. At dawn the best spot is the dam on the Couesnon, at the start of the footbridge, with the Mont backlit and the bay still empty. Then an hour's drive to **Saint-Malo**, the corsair city enclosed in its walls.

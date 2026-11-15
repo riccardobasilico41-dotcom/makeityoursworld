@@ -2494,7 +2494,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     periodoMigliore:
       'maggio-inizio settembre per la giungla di Siberut, maggio-settembre per gli swell più grandi; da novembre a gennaio piove molto',
     costi:
-      "soggiorni nella giungla con operatori locali a pacchetto, prezzi da chiedere all'operatore; per i surfisti c'è una tassa surf obbligatoria, con importo da verificare al momento della prenotazione. Budget: circa 50-70 € al giorno con homestay semplici a Sipora e traghetto pubblico. Medio: 100-150 € con un homestay migliore, qualche uscita in barca condivisa e il pacchetto nella giungla di Siberut (da 480 € a persona per 6 giorni con sosta a Sipora). Alto: oltre 250 € con resort o surf camp e barca privata, che costa di massima 1.500.000-3.000.000 IDR al giorno (circa 85-170 €).",
+      "soggiorni nella giungla con operatori locali a pacchetto, prezzi da chiedere all'operatore; per i surfisti c'è una tassa surf obbligatoria, con importo comunicato al momento della prenotazione. Budget: circa 50-70 € al giorno con homestay semplici a Sipora e traghetto pubblico. Medio: 100-150 € con un homestay migliore, qualche uscita in barca condivisa e il pacchetto nella giungla di Siberut (da 480 € a persona per 6 giorni con sosta a Sipora). Alto: oltre 250 € con resort o surf camp e barca privata, che costa di massima 1.500.000-3.000.000 IDR al giorno (circa 85-170 €).",
     erroriDaEvitare: [
       'Trattare la visita come uno spettacolo: si è ospiti in casa di una famiglia, si chiede il permesso prima di ogni foto e non si paga per pose o costumi',
       'Partire senza giorni di margine: con bandiera rossa del Syahbandar i traghetti non escono',
@@ -2554,7 +2554,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "Con barca privata o trasferimenti organizzati da surf camp. Tassa surf obbligatoria. Per chi comincia ci sono onde di spiaggia con lezioni e noleggio.",
         quando: "Gli swell e la stagione migliore dipendono dal livello: chiedere ai surf camp prima di fissare le date.",
         tempo: "almeno 5 giorni",
-        costo: "Lezioni e noleggio per principianti circa 500.000-1.000.000 IDR al giorno, circa 28-55 € (2026). Tassa surf a parte, importo da confermare con l'alloggio.",
+        costo: "Lezioni e noleggio per principianti circa 500.000-1.000.000 IDR al giorno, circa 28-55 € (2026). Tassa surf a parte: l'importo lo indica l'alloggio.",
         consiglio: "I reef famosi non sono adatti ai principianti: scegliere i break secondo il livello."
       },
       {

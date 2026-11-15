@@ -28,7 +28,7 @@ export const malesia: Paese = {
     trasportiInterni:
       "Excellent and simple. Intercity buses are comfortable, punctual and cheap, with wide seats even in the basic classes: they're the normal way to get between cities. The ETS train connects Kuala Lumpur to Ipoh and Penang in a few hours and is the most comfortable choice on the west spine. AirAsia and Batik domestic flights cost very little and are mostly useful for Borneo, which is two and a half hours by air from the peninsula. In cities, Grab solves everything.",
     costoVita:
-      "Among the lowest in the region for the same quality. A full meal at a food court is under 4 euros, a good double room around 35-50, a bus between two cities costs less than 10. The only expensive items are alcohol, heavily taxed, and the islands in high season.",
+      "Among the lowest in the region for the same quality. A full meal at a food court is under €4, a good double room around 35-50, a bus between two cities costs less than 10. The only expensive items are alcohol, heavily taxed, and the islands in high season.",
     lingua:
       "Malay (bahasa melayu), but English is widespread and well spoken almost everywhere: it's probably the easiest country in Southeast Asia in this respect. You also constantly hear Mandarin Chinese, Hokkien, Cantonese and Tamil, often on the same street.",
     elettricita: "240V, 50Hz, type G sockets, the same British three rectangular pin ones: you need an adapter and it's not the European one.",

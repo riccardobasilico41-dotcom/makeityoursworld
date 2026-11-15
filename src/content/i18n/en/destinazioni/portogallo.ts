@@ -39,7 +39,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     comeSpostarsi: "There are lots of climbs, which is why there are the historic trams, the funiculars (elevadores) and the Santa Justa Lift. Metro, buses and suburban trains are paid with the Viva Viagem/Navegante contactless card. The center is also walkable, with a bit more breath for the hills.",
     periodoMigliore: 'April-May and September-October for the mild weather and fewer crowds; June-August is high season, hot and very crowded, especially on tram 28 and in Sintra; November-March is mild but rainy',
     costi:
-      'a still fairly inexpensive city for Western Europe, although prices are rising: simple lunch 10-12€, normal dinner 15-20€ per person, tram or bus ticket about 2€. Rough daily budget per person, sharing a double: low €60-80, mid €110-150, high over €220.',
+      'a still fairly inexpensive city for Western Europe, although prices are rising: simple lunch €10-12, normal dinner €15-20 per person, tram or bus ticket about €2. Rough daily budget per person, sharing a double: low €60-80, mid €110-150, high over €220.',
     erroriDaEvitare: [
       "Boarding tram 28 in the middle hours hoping for a seat and some peace: it's among the most crowded public transport in Europe and a favorite of pickpockets",
       "Planning a walking tour as if Lisbon were flat",
@@ -54,7 +54,7 @@ export const destinazioniPortogallo: Destinazione[] = [
           {
             nome: 'Train from Rossio + online tickets',
             sintesi: 'Regional train from Rossio station (about 40 minutes, very frequent departures), then local bus 434 or a walk up to the Pena Palace, with entry tickets bought online in advance with a time slot',
-            costo: 'train about 5€ each way, entry 15-25€ per site',
+            costo: 'train about €5 each way, entry €15-25 per site',
             durata: 'a full day, leaving early',
             pro: ['Costs little', 'You decide the schedule and pace', "You don't depend on a group"],
             contro: ['The local bus and lines have to be organized on your own', "There's no historical guide"],
@@ -63,7 +63,7 @@ export const destinazioniPortogallo: Destinazione[] = [
           {
             nome: 'Organized tour from Lisbon',
             sintesi: 'Minivan transfer from Lisbon with a guide, "skip-the-line" tickets included and an itinerary that often also touches Cascais or the Boca do Inferno',
-            costo: 'around 70-100€ per person',
+            costo: 'around €70-100 per person',
             durata: 'a full day',
             pro: ['No logistics to organize', 'Often priority entry', 'A guide who tells the history'],
             contro: ['Costs more', 'The group decides the pace', 'Less time left to explore on your own'],
@@ -93,7 +93,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "From the centre by tram 15 or by train from Cais do Sodré to Belém. The ticket is for the cloister; the church keeps its own hours.",
         "quando": "Cloister Tuesday to Sunday 9:30-17:30, last entry at 17:00. Closed on Mondays, 1 January, Easter Sunday, 1 May, 13 June and 25 December. Arrive at opening: by late morning the queue grows.",
         "tempo": "1.5 hours",
-        "costo": "Cloister €18, 2026 (official site)",
+        "costo": "Cloister €18, 2026",
         "orari": "Tuesday-Sunday 9:30-17:30. Closed Mondays.",
         "lat": 38.6979,
         "lng": -9.2068,
@@ -106,7 +106,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "On foot from the Jerónimos along the river. Tram 15 and the train stop nearby.",
         "quando": "Tuesday to Sunday 9:30-17:30; closed on Mondays and on the same holidays as the Jerónimos. It may close when the weather makes the visit unsafe. Sunset lights it well from outside.",
         "tempo": "45 minutes inside, plus the walk",
-        "costo": "€15, 2026 (official site)",
+        "costo": "€15, 2026",
         "orari": "Tuesday-Sunday 9:30-17:30. Closed Mondays.",
         "lat": 38.6916,
         "lng": -9.216,
@@ -150,7 +150,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "consiglio": "Board at the terminus to get a seat."
       },
       {
-        "nome": "LX Factory e Cais do Sodré",
+        "nome": "LX Factory and Cais do Sodré",
         "testo": "LX Factory is a converted industrial complex under the 25 de Abril bridge, with bookshops, shops and restaurants. Nearby Cais do Sodré has the Time Out Market, in the Ribeira market hall, with stalls of chef-run food.",
         "come": "LX Factory: tram 15 or bus from the centre. Time Out Market: Cais do Sodré metro, on foot from the Baixa.",
         "quando": "LX Factory in the afternoon and on Sundays with the market. Time Out Market at lunch, but crowded.",
@@ -161,7 +161,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "consiglio": "For dinner, the Cais do Sodré district with the Pink Street is livelier than the Time Out Market."
       },
       {
-        "nome": "Oceanário e Parque das Nações",
+        "nome": "Oceanário and Parque das Nações",
         "testo": "One of Europe's largest indoor aquariums, opened in 1998, with a large central tank and habitats from the four oceans. Parque das Nações, the Expo 98 grounds, has a Tagus promenade and a cable car.",
         "come": "Red metro line to Oriente, then a short walk. From the airport it's on the same line.",
         "quando": "Morning, with fewer school groups. Useful on rainy days.",
@@ -279,19 +279,19 @@ export const destinazioniPortogallo: Destinazione[] = [
         "nome": "Baixa and Chiado",
         "perChi": "those who want convenience",
         "testo": "Central, flat and close to metro and trains. Noisy in the evening and pricey. Few genuinely local places.",
-        "fascia": "130-250 €"
+        "fascia": "€130-250"
       },
       {
         "nome": "Alfama and Graça",
         "perChi": "those who want atmosphere",
         "testo": "Lanes, fado, viewpoints. Slopes and steps, hard for taxis, loud music at night.",
-        "fascia": "100-180 €"
+        "fascia": "€100-180"
       },
       {
         "nome": "Príncipe Real, Estrela and Campo de Ourique",
         "perChi": "those who want residential districts",
         "testo": "Quieter, with gardens and good shops. Further from the river.",
-        "fascia": "120-220 €"
+        "fascia": "€120-220"
       }
     ],
     gite: [
@@ -430,7 +430,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Park 9am-7pm, palace 9:30am-6:30pm (last ticket at 5:30pm). The palace can only be visited with a booked date and time slot. First slot of the morning: after 10:30am the queue gets longer. Tickets online on Parques de Sintra.",
         "tempo": "2-3 hours with the park",
         "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
-        "costo": "Visita Essencial (park and palace) €20, park only €12, 2026 (official site)",
+        "costo": "Visita Essencial (park and palace) €20, park only €12, 2026",
         "consiglio": "The park can be visited on its own without the palace queue and has viewpoints: useful if the queues are too long.",
         "orari": "Park 9:00-19:00 (last entry 18:00), palace 9:30-18:30 (last entry 17:30).",
         "lat": 38.78778,
@@ -444,7 +444,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "2 hours",
         "url": "https://www.regaleira.pt/",
         "consiglio": "Go down the well in non-slip shoes and return through the tunnels: the exit is nicer than the descent.",
-        "costo": "20 euros from January 2026 (official site)",
+        "costo": "€20 from January 2026",
         "orari": "January-March and October-December 10:00-18:30; April-September 9:00-19:30. Last entry always at 17:30; the palace and chapel close 30 minutes before the garden.",
         "lat": 38.79511,
         "lng": -9.3962
@@ -457,7 +457,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "1-1.5 hours",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "If you have time for only one castle or palace besides the Pena, the crowds here are smaller.",
-        "costo": "12 euros (Parques de Sintra)",
+        "costo": "€12 (Parques de Sintra)",
         "orari": "9:30-18:00, last entry 17:30.",
         "lat": 38.79241,
         "lng": -9.38867
@@ -470,7 +470,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "1 hour",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "Visit it if you're in town in the afternoon: less queue than the Pena.",
-        "costo": "essential visit 13 euros (Parques de Sintra)",
+        "costo": "essential visit €13 (Parques de Sintra)",
         "orari": "Palace and gardens 9:30-18:30; last entry to the palace 17:30.",
         "lat": 38.79778,
         "lng": -9.39083
@@ -492,7 +492,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "West of the centre, with Scotturb bus 435 from the station or by car. The road passes the Quinta da Regaleira and Seteais.",
         "quando": "In the afternoon, after Pena; with the sun low the palace turns pink.",
         "tempo": "2 hours",
-        "costo": "12 euros (Parques de Sintra)",
+        "costo": "€12 (Parques de Sintra)",
         "orari": "Park 9:00-19:00 (last entry 18:00), palace 9:30-18:00.",
         "lat": 38.79423,
         "lng": -9.42065,
@@ -504,7 +504,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "It is isolated in the forest of the serra, away from the centre: you get there by car or taxi.",
         "quando": "On foggy days, when the forest around it is at its best.",
         "tempo": "1 hour",
-        "costo": "11 euros (Parques de Sintra)",
+        "costo": "€11 (Parques de Sintra)",
         "orari": "9:00-17:30, last entry 17:00.",
         "lat": 38.7844,
         "lng": -9.43817,
@@ -516,7 +516,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Inside the Pena park: you reach it on foot from the palace along the park trails.",
         "quando": "After Pena, when people concentrate on the palace.",
         "tempo": "45 minutes",
-        "costo": "included in the Pena park ticket, 12 euros (Parques de Sintra)",
+        "costo": "included in the Pena park ticket, €12 (Parques de Sintra)",
         "orari": "Chalet 9:00-17:30, last entry 17:00; park 9:00-19:00.",
         "lat": 38.7851,
         "lng": -9.39911,
@@ -572,19 +572,19 @@ export const destinazioniPortogallo: Destinazione[] = [
         "nome": "Day trip from Lisbon",
         "perChi": "most visitors",
         "testo": "Train from Rossio in under an hour, back in the evening. A tight pace with the queues, but low cost.",
-        "fascia": "100-250 € in Lisbon"
+        "fascia": "€100-250 in Lisbon"
       },
       {
         "nome": "Sintra, old town",
         "perChi": "those who want the town without the crowds",
         "testo": "Sleeping in town means seeing Pena at opening and the centre in the evening. Few hotels and high prices.",
-        "fascia": "110-200 €"
+        "fascia": "€110-200"
       },
       {
         "nome": "Colares and the coast",
         "perChi": "those with a car who want the sea nearby",
         "testo": "Quintas and rental houses among the Colares vineyards, a few minutes from Azenhas do Mar and the beaches. Quiet evenings, but you need a car for the palaces.",
-        "fascia": "90-180 €"
+        "fascia": "€90-180"
       }
     ],
     gite: [
@@ -598,7 +598,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "nome": "Queluz National Palace",
         "distanza": "about 20 minutes by train",
         "come": "Sintra line train to Queluz-Belas, then on foot to the palace.",
-        "testo": "The Rococo palace of the Braganzas, with gilded halls, French-style gardens and a canal lined with azulejos. It is on the Lisbon-Sintra line, so it fits in without detours. Palace and gardens 13 euros, gardens only 6 euros; 9:00-18:00, gardens until 18:30 (Parques de Sintra)."
+        "testo": "The Rococo palace of the Braganzas, with gilded halls, French-style gardens and a canal lined with azulejos. It is on the Lisbon-Sintra line, so it fits in without detours. Palace and gardens €13, gardens only €6; 9:00-18:00, gardens until 18:30 (Parques de Sintra)."
       }
     ],
     faq: [
@@ -612,7 +612,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "domanda": "How do you get to Sintra from Lisbon?",
-        "risposta": "By CP train from Rossio, about 40 minutes; a return costs 5.10 euros. The 14-euro Train&Bus ticket also includes buses 434 and 435."
+        "risposta": "By CP train from Rossio, about 40 minutes; a return costs €5.10. The 14-euro Train&Bus ticket also includes buses 434 and 435."
       },
       {
         "domanda": "If there is time for only one site, Pena or Regaleira?",

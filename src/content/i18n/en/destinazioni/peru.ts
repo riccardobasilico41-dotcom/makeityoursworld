@@ -69,7 +69,7 @@ export const destinazioniPeru: Destinazione[] = [
         come: "Above the city, to the north: by taxi or uphill on foot, which is best avoided in your first days at altitude. It is included in the Boleto Turístico.",
         quando: "Morning or early afternoon. On 24 June, Inti Raymi day, access changes: check beforehand.",
         tempo: "1.5-2 hours",
-        costo: "General Boleto Turístico about 130 soles (about €33) for foreigners, valid 10 days, 16 sites (COSITUC rates, 2026). Partial tickets for a single circuit cost 70 soles (about €18)",
+        costo: "General Boleto Turístico about 130 soles (about €33) for foreigners, valid 10 days, 16 sites (2026). Partial tickets for a single circuit cost 70 soles (about €18)",
         lat: -13.50778,
         lng: -71.98222,
         consiglio: "Go up by taxi and walk down: the descent towards San Blas is pleasant and does not tire you.",
@@ -360,7 +360,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: "From Cusco to Pisac it takes about an hour by road, and from Pisac to Ollantaytambo about an hour and a quarter; Cusco to Ollantaytambo direct, via Chinchero, takes about 1.5 hours. Colectivos to Urubamba and Ollantaytambo leave from Calle Pavitos in Cusco as soon as they fill up and cost a few soles; for Pisac they leave from the Puputi area. A car with a driver for the day, at a price agreed in advance, lets you stop at Chinchero, Moray and Maras, which are awkward to reach by public transport. If you fly into Cusco you can go straight to the valley and acclimatise at a lower altitude.",
     comeSpostarsi: 'Car with a driver or an organized tour to cover Maras, Moray and Pisac in one day; colectivos between the main towns.',
     periodoMigliore: 'May-September; in the rainy season the dirt roads to Maras get difficult',
-    costi: "Low budget about 30-45 € a day (hostel in Ollantaytambo or Pisac, colectivos, menú del día); mid-range 70-120 € (hotel in Urubamba or Ollantaytambo, car with driver shared between two, country restaurants); high from 200 € (lodge in the valley, private guide). Pisac, Ollantaytambo, Chinchero and Moray are covered by the Boleto Turístico del Cusco: full ticket 130 soles (about 33 €, 10 days) or partial Valle Sagrado circuit ticket 70 soles (about 18 €, 2 days), according to the COSITUC 2026 price list. The Maras salt pans are paid separately, about 20 soles in cash.",
+    costi: "Low budget about €30-45 a day (hostel in Ollantaytambo or Pisac, colectivos, menú del día); mid-range €70-120 (hotel in Urubamba or Ollantaytambo, car with driver shared between two, country restaurants); high from €200 (lodge in the valley, private guide). Pisac, Ollantaytambo, Chinchero and Moray are covered by the Boleto Turístico del Cusco: full ticket 130 soles (about €33, 10 days) or partial Valle Sagrado circuit ticket 70 soles (about €18, 2 days), according to the COSITUC 2026 price list. The Maras salt pans are paid separately, about 20 soles in cash.",
     erroriDaEvitare: [
       'Squeezing the Sacred Valley and Machu Picchu into a single rushed day: it is the classic mistake that takes the meaning out of both',
       'Sleeping in Cusco the night before the 5 or 6 a.m. train from Ollantaytambo',
@@ -374,7 +374,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "By car or shared van from Cusco, about 72 km by road. You visit on foot. The site is included in the Boleto Turístico.",
         "quando": "The site in the morning; the town is at its best in the evening, when the tour buses have left.",
         "tempo": "2-3 hours for the site, one night for the town",
-        "costo": "Included in the Boleto Turístico del Cusco: full ticket 130 soles (about 33 €) or partial Valle Sagrado ticket 70 soles (about 18 €), COSITUC 2026 prices",
+        "costo": "Included in the Boleto Turístico del Cusco: full ticket 130 soles (about €33) or partial Valle Sagrado ticket 70 soles (about €18), COSITUC 2026 prices",
         "url": "https://cosituccusco.pe/tarifario/",
         "lat": -13.25806,
         "lng": -72.26333,
@@ -386,7 +386,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "By car with a driver or on a tour, often combined with Moray. You walk along the edge of the pans where access is allowed.",
         "quando": "Morning or late afternoon, when the salt is whitest.",
         "tempo": "1 hour",
-        "costo": "About 20 soles in cash for foreigners (about 5 €), not included in the Boleto Turístico",
+        "costo": "About 20 soles in cash for foreigners (about €5), not included in the Boleto Turístico",
         "lat": -13.30008,
         "lng": -72.15624,
         "consiglio": "The dirt roads to Maras become difficult in the rainy season."
@@ -409,7 +409,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "From Cusco by shared van or car. The archaeological site is included in the Boleto Turístico; the market is in the village.",
         "quando": "Early morning for the site, then the market. The market runs on Tuesday, Thursday and Sunday; the biggest is on Sunday.",
         "tempo": "Half a day",
-        "costo": "Included in the Boleto Turístico del Cusco: full ticket 130 soles (about 33 €) or partial Valle Sagrado ticket 70 soles (about 18 €), COSITUC 2026 prices",
+        "costo": "Included in the Boleto Turístico del Cusco: full ticket 130 soles (about €33) or partial Valle Sagrado ticket 70 soles (about €18), COSITUC 2026 prices",
         "url": "https://cosituccusco.pe/tarifario/",
         "lat": -13.41422,
         "lng": -71.84405,
@@ -499,19 +499,19 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Ollantaytambo",
         "perChi": "Those taking the train to Machu Picchu",
         "testo": "The most strategic choice: station on foot, Inca lanes and few crowds in the evening. Small, with less choice of places to eat.",
-        "fascia": "40-150 €"
+        "fascia": "€40-150"
       },
       {
         "nome": "Urubamba",
         "perChi": "Those who want comfort and a central position",
         "testo": "The town with the most comfortable lodging and often more space, halfway along the valley. Less character.",
-        "fascia": "60-250 €"
+        "fascia": "€60-250"
       },
       {
         "nome": "Pisac",
         "perChi": "Those who want quiet and an alternative feel",
         "testo": "Quieter, with a craft scene, but farther from the train. The Sunday market brings many people.",
-        "fascia": "35-120 €"
+        "fascia": "€35-120"
       }
     ],
     sapori: [
@@ -1399,7 +1399,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: "From Cusco the tourist bus takes about 10 hours with stops at Andahuaylillas, Raqchi, La Raya and Pukará, and costs about 45-60 dollars with a guide and lunch; regular buses do the journey in about 7 hours. Alternatively there is the panoramic train, which is much more expensive, or a flight to Juliaca, about an hour by road from Puno. From Arequipa it is about 5-6 hours by bus with the main companies, best done by day. Puno is at 3,812 metres: if you arrive from low altitude, plan nothing for the first day.",
     comeSpostarsi: 'Shared boats and organized tours from the port of Puno; on Taquile and Amantaní you get around only on foot, uphill.',
     periodoMigliore: 'May-September for the sun; nights are freezing all year at almost 12,800 feet (3,900 meters)',
-    costi: "Low budget about 25-40 € a day (hostel in Puno, menú, shared boat); mid-range 60-100 € (central hotel, two-day tour with homestay); high from 150 € (lakeside hotel, private boat). The two-day Uros, Taquile and Amantaní tour costs about 65-120 dollars depending on the operator, with boat, guide, most meals and the night with a family; the island entry fees are small tickets paid in cash. Sillustani about 15 soles.",
+    costi: "Low budget about €25-40 a day (hostel in Puno, menú, shared boat); mid-range €60-100 (central hotel, two-day tour with homestay); high from €150 (lakeside hotel, private boat). The two-day Uros, Taquile and Amantaní tour costs about 65-120 dollars depending on the operator, with boat, guide, most meals and the night with a family; the island entry fees are small tickets paid in cash. Sillustani about 15 soles.",
     erroriDaEvitare: [
       'Arriving in Puno straight from low altitude: at 12,500 feet (3,812 meters) altitude sickness is more likely than in Cusco',
       "Doing only the half-day Uros trip and leaving: it's the most touristy and least representative part of the lake",
@@ -1447,7 +1447,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Half-day tour or taxi from Puno, about 45 minutes by road (35 km)",
         "quando": "Afternoon, with low light.",
         "tempo": "2-3 hours",
-        "costo": "About 15 soles (about 4 €)",
+        "costo": "About 15 soles (about €4)",
         "lat": -15.72165,
         "lng": -70.15899,
         "consiglio": "If time is short, choose Amantaní over the Uros and add this separately."
@@ -1532,7 +1532,7 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Puno centre",
         "perChi": "Those who need logistics",
         "testo": "Lodging, agencies and restaurants, but at this altitude nights are cold.",
-        "fascia": "30-100 €"
+        "fascia": "€30-100"
       },
       {
         "nome": "Amantaní (homestay)",
@@ -1544,13 +1544,13 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Lakeshore outside Puno",
         "perChi": "Those looking for views and quiet",
         "testo": "Some larger hotels stand on the shore, a few kilometres from the centre, with rooms facing the lake. You need a taxi to go anywhere.",
-        "fascia": "80-200 €"
+        "fascia": "€80-200"
       },
       {
         "nome": "Llachón (Capachica peninsula)",
         "perChi": "Those who want community tourism without a boat",
         "testo": "Family homes and small rural lodgings, with dinner included. It can also be reached by land.",
-        "fascia": "25-60 €"
+        "fascia": "€25-60"
       }
     ],
     sapori: [
@@ -1688,7 +1688,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "On foot from Miraflores; guided visit.",
         "quando": "By day; opening hours on the museum's official site.",
         "tempo": "1 hour",
-        "costo": "about 15 soles, about €4, with guided tour (from the trip)",
+        "costo": "about 15 soles, about €4, with guided tour",
         "orari": "Closed on Tuesdays",
         "lat": -12.11111,
         "lng": -77.03389,
@@ -1964,7 +1964,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: "The flight from Lima takes about 1.5 hours; from Rodríguez Ballón airport to the centre it is about 20-30 minutes by official taxi. The bus from Lima takes 15-16 hours, overnight. From Puno it is about 5-6 hours by bus with the main companies, best by day for the scenery of the Salinas y Aguada Blanca reserve; from the terminal to the centre it is about 15-20 minutes by taxi. For the Colca: Arequipa to Chivay takes about 3-4 hours, on a two-day tour or by regular bus to Chivay and Cabanaconde.",
     comeSpostarsi: 'Arequipa is walkable; for the Colca, organized two-day tours or regular buses to Chivay and Cabanaconde.',
     periodoMigliore: 'May-September; condors can be seen all year but most likely in the early morning hours',
-    costi: "Low budget about 30-45 € a day (hostel in the centre, set-menu picantería, regular bus to the Colca); mid-range 70-110 € (hotel in the historic centre, two-day Colca tour, restaurants); high from 180 € (hotel in a colonial casona, private tour with a lodge in the canyon). Santa Catalina 50 soles for adult foreigners (2026); Boleto Turístico del Colca about 70 soles, checked along the road, in cash; La Calera hot springs about 15 soles.",
+    costi: "Low budget about €30-45 a day (hostel in the centre, set-menu picantería, regular bus to the Colca); mid-range €70-110 (hotel in the historic centre, two-day Colca tour, restaurants); high from €180 (hotel in a colonial casona, private tour with a lodge in the canyon). Santa Catalina 50 soles for adult foreigners (2026); Boleto Turístico del Colca about 70 soles, checked along the road, in cash; La Calera hot springs about 15 soles.",
     erroriDaEvitare: [
       'Doing the Colca in a single day from Arequipa: it means leaving at 3 a.m. and spending almost all the time on the bus',
       'Underestimating the climb out of the Sangalle oasis: about 3,600 feet (1,100 meters) of elevation gain, to be done before the sun gets strong',
@@ -2044,7 +2044,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Road from Arequipa.",
         "quando": "Evening.",
         "tempo": "1-2 hours at the springs",
-        "costo": "La Calera hot springs about 15 soles (about 4 €)",
+        "costo": "La Calera hot springs about 15 soles (about €4)",
         "lat": -15.63669,
         "lng": -71.60222,
         "consiglio": "A good base for the first night in the canyon."
@@ -2151,25 +2151,25 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Historic centre of Arequipa",
         "perChi": "Those visiting the city",
         "testo": "The most convenient area for the monastery and square. Some streets are noisy at night.",
-        "fascia": "35-130 €"
+        "fascia": "€35-130"
       },
       {
         "nome": "Chivay",
         "perChi": "Those visiting the canyon without trekking",
         "testo": "The largest town in the valley, with hot springs and a market. At altitude, cold at night.",
-        "fascia": "30-150 €"
+        "fascia": "€30-150"
       },
       {
         "nome": "Cabanaconde",
         "perChi": "Those who want to hike",
         "testo": "The town near the Cruz del Cóndor and the path to Sangalle. Simple lodging.",
-        "fascia": "20-60 €"
+        "fascia": "€20-60"
       },
       {
         "nome": "Yanahuara and Vallecito",
         "perChi": "Those who prefer quiet",
         "testo": "Residential districts 10-15 minutes' walk from the centre, quieter at night and with a few hotels in houses with gardens.",
-        "fascia": "40-110 €"
+        "fascia": "€40-110"
       }
     ],
     sapori: [
@@ -2277,7 +2277,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: "There are no convenient flights: from Lima you take an overnight bus, about 8 hours, leaving around 10pm and arriving at dawn. Tickets in the better classes cost about 80-150 soles, online or at the terminal; Cruz del Sur and Movil Tours are among the main companies. Keep a fleece to hand, because the air conditioning is strong. In Huaraz it is worth asking for early check-in in advance and keeping the first day free: the city is at about 3,050 metres.",
     comeSpostarsi: 'Colectivos and day tours from the Huaraz agencies to all the trek starting points.',
     periodoMigliore: 'May to September, the dry season: the rest of the year the high-altitude trails become impassable',
-    costi: "Low budget about 25-40 € a day (hostel, menú, colectivos to the trailheads); mid-range 50-90 € (central hotel, day tours with an agency); high from 150 € (mountain lodge, trek with a private guide). Entry to Huascarán National Park about 30 soles for one day (about 8 €), with multi-day tickets for treks; Chavín de Huántar about 15 soles; Pastoruri tour about 35-65 dollars depending on whether entry is included. Withdraw cash in town: on the trails cards are no use.",
+    costi: "Low budget about €25-40 a day (hostel, menú, colectivos to the trailheads); mid-range €50-90 (central hotel, day tours with an agency); high from €150 (mountain lodge, trek with a private guide). Entry to Huascarán National Park about 30 soles for one day (about €8), with multi-day tickets for treks; Chavín de Huántar about 15 soles; Pastoruri tour about 35-65 dollars depending on whether entry is included. Withdraw cash in town: on the trails cards are no use.",
     erroriDaEvitare: [
       'Arriving from Lima (sea level) and leaving the next day for Laguna 69 at 15,100 feet (4,600 meters): you need to acclimatize in Huaraz for at least two days',
       'Relying on the cheapest agencies without checking guides and equipment, especially for multi-day treks',
@@ -2291,7 +2291,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Day hike leaving Huaraz around 5am, a few hours by road to Cebollapampa and then about 3 hours up and 2 down. SERNANP has restricted access to authorised agencies: check that yours is one.",
         "quando": "Dry season. Leave early for a clear sky.",
         "tempo": "Full day",
-        "costo": "Entry to Huascarán National Park about 30 soles (about 8 €), usually handled by the agency; day tour extra",
+        "costo": "Entry to Huascarán National Park about 30 soles (about €8), usually handled by the agency; day tour extra",
         "url": "https://tuticket.sernanp.gob.pe/",
         "lat": -9.01035,
         "lng": -77.61204,
@@ -2346,7 +2346,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Day tour from Huaraz, with a long road journey.",
         "quando": "Morning; the galleries are cooler.",
         "tempo": "Full day with transfers",
-        "costo": "About 15 soles (about 4 €); the museum has a separate ticket",
+        "costo": "About 15 soles (about €4); the museum has a separate ticket",
         "orari": "Closed on Monday; open from 9am until the afternoon",
         "lat": -9.59375,
         "lng": -77.17792,
@@ -2432,19 +2432,19 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Huaraz centre",
         "perChi": "Those who want a base for treks",
         "testo": "Hostels and small hotels, agencies on every corner. The town is not pretty, but it is convenient.",
-        "fascia": "20-80 €"
+        "fascia": "€20-80"
       },
       {
         "nome": "Barrio de la Soledad and Independencia",
         "perChi": "Those looking for more quiet and views",
         "testo": "Hillside districts east of the centre, quieter, with hostels and small hotels with terraces facing the mountains. The centre is 10 minutes away on foot.",
-        "fascia": "25-70 €"
+        "fascia": "€25-70"
       },
       {
         "nome": "Lodges in the valley (Yungay, Caraz, Pitec)",
         "perChi": "Those who want to sleep in the mountains",
         "testo": "A few lodges outside the city, closer to the trails and with less noise. You need a car or colectivos to go anywhere.",
-        "fascia": "50-150 €"
+        "fascia": "€50-150"
       }
     ],
     sapori: [

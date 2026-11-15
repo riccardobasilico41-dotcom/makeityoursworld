@@ -32,14 +32,14 @@ Por la mañana estuvimos en la **Cité du Vin**, la forma más ordenada de enten
 
 Por la tarde volvimos a los Chartrons, entre los antiguos almacenes de los comerciantes de vino reconvertidos, con un canelé de merienda. El barrio se recorre a pie en un par de horas: la **rue Notre-Dame**, con anticuarios y tiendas pequeñas, la iglesia de Saint-Louis-des-Chartrons y el **Musée du Vin et du Négoce**, instalado en viejas bodegas, que cuenta cómo el vino salía de aquí hacia el norte de Europa. El canelé es el pequeño dulce bordelés de ron y vainilla, caramelizado por fuera y tierno por dentro. Los domingos por la mañana hay en el muelle el mercado de los Chartrons, bueno para un almuerzo de ostras y vino blanco.
 
-**En la práctica:** Cité du Vin unos 22 euros, con una copa de vino en el Belvédère incluida, entrada online recomendada, abierta normalmente de 10 a 18 en invierno y hasta las 19 de abril a octubre · tranvía B desde el centro hasta la parada La Cité du Vin · para mañana: coche listo o excursión reservada, y degustaciones fijadas de antemano.
+**En la práctica:** Cité du Vin unos 22 €, con una copa de vino en el Belvédère incluida, entrada online recomendada, abierta normalmente de 10 a 18 en invierno y hasta las 19 de abril a octubre · tranvía B desde el centro hasta la parada La Cité du Vin · para mañana: coche listo o excursión reservada, y degustaciones fijadas de antemano.
 
 ### Día 3 — Saint-Émilion
 Un día entero en la orilla derecha. **Saint-Émilion** está a una media hora de tren regional desde Burdeos, o a tres cuartos de hora en coche; la estación está abajo, entre las viñas, y al pueblo se sube a pie. El pueblo y el viñedo que lo rodea son patrimonio de la UNESCO. En Saint-Émilion la iglesia monolítica excavada en la roca solo se visita con guía: la visita sale de la oficina de turismo, dura alrededor de una hora y suele incluir también las catacumbas y la ermita donde, según la tradición, vivió el monje Emilión. Conviene reservarla a primera hora, cuando el pueblo aún está tranquilo.
 
 Luego el pueblo medieval y una degustación con cita previa. Las calles son empinadas y empedradas, con vistas al viñedo desde la Tour du Roy y el claustro de la colegiata; *hace falta calzado cómodo, y en verano las callejuelas se llenan hacia el mediodía*. Para la degustación hay châteaux grandes y pequeños a pocos minutos del centro, casi todos con visitas a horas fijas que hay que reservar. A partir de aquí vale la regla de los días de viñedo: conductor que no prueba, excursión guiada, o escupir en la cata, que es lo normal y no una ofensa.
 
-**En la práctica:** tren Burdeos-Saint-Émilion unos 35 minutos, una decena de trenes al día, comprobar el último de vuelta · iglesia monolítica solo con visita guiada desde la oficina de turismo, unos 15 euros, plazas limitadas · degustaciones en los châteaux desde unos 15 euros, siempre con cita previa.
+**En la práctica:** tren Burdeos-Saint-Émilion unos 35 minutos, una decena de trenes al día, comprobar el último de vuelta · iglesia monolítica solo con visita guiada desde la oficina de turismo, unos 15 €, plazas limitadas · degustaciones en los châteaux desde unos 15 €, siempre con cita previa.
 
 ### Día 4 — Pomerol y los Graves
 Cruzamos **Pomerol**, diminuta, con los vinos más caros del mundo, y luego bajamos a los **Graves**, al sur de la ciudad. Pomerol linda con Saint-Émilion y con Libourne: un puñado de kilómetros de viñedo casi llano, Merlot sobre arcilla, casas bajas y el campanario de la iglesia como única referencia. No tiene clasificación oficial y muchos de los nombres más famosos no reciben visitas, así que la mañana se pasa sobre todo en coche o en bici entre las hileras, con una parada en **Libourne**, la ciudad fluvial de la que salían las gabarras del vino, para el café y el almuerzo.
@@ -53,21 +53,21 @@ Es el día de la carretera de los châteaux alineados en la orilla izquierda, co
 
 A los grandes châteaux no se va sin cita: no se entra. Las visitas se reservan en las webs de las propiedades o a través de la Maison du Tourisme et du Vin de Pauillac, y en vendimia hay que fijarlas con semanas de antelación; algunas propiedades cierran el fin de semana. *Dos visitas al día son el máximo razonable: cada una dura una hora y media larga, y entre una y otra la carretera es lenta.* La vuelta a Burdeos se hace con calma antes de la noche, con el conductor que no ha probado.
 
-**En la práctica:** Burdeos-Pauillac alrededor de una hora por la D2 · visitas a los crus clasificados solo con reserva, precios desde unos 20-30 euros según el château · en septiembre y octubre reservar con mucha antelación · almuerzo en Pauillac, junto al río.
+**En la práctica:** Burdeos-Pauillac alrededor de una hora por la D2 · visitas a los crus clasificados solo con reserva, precios desde unos 20-30 € según el château · en septiembre y octubre reservar con mucha antelación · almuerzo en Pauillac, junto al río.
 
 ### Día 6 — Sauternes
 El **Sauternes** está al sur de Burdeos, a lo largo del Garona, a entre tres cuartos de hora y una hora en coche: cinco municipios (Sauternes, Barsac, Bommes, Fargues y Preignac) donde el pequeño río Ciron, frío, desemboca en el Garona, más cálido. En otoño este encuentro crea nieblas por la mañana y sol por la tarde, las condiciones en las que la podredumbre noble, la *Botrytis cinerea*, concentra los azúcares de la uva. Se elige una propiedad que reciba visitas con cita previa, y el mejor momento para ir es la mañana, cuando las nieblas siguen sobre las hileras.
 
 Una propiedad del **Sauternes**, y lo que más se queda del viaje: racimos con podredumbre noble que parecen para tirar, vendimiados a mano cinco o seis veces en la misma hilera (en temporada se ve la vendimia en pasadas sucesivas), para un vino dulce nacido de lo que a un agricultor normal le parecería una enfermedad. Por la tarde se recorren los pueblos, con Château d'Yquem visible en lo alto de su colina. *Las fechas de la vendimia cambian mucho de un año a otro: quien quiera verla debe preguntar al château cuándo reservar.*
 
-**En la práctica:** Burdeos-Sauternes entre 45 minutos y una hora en coche · visitas con degustación desde unos 15 euros, con cita previa · vendimia en pasadas entre septiembre y noviembre según la añada · el Sauternes también acompaña al queso azul, no solo al postre.
+**En la práctica:** Burdeos-Sauternes entre 45 minutos y una hora en coche · visitas con degustación desde unos 15 €, con cita previa · vendimia en pasadas entre septiembre y noviembre según la añada · el Sauternes también acompaña al queso azul, no solo al postre.
 
 ### Día 7 — Cuenca de Arcachon
 El último día lo pasamos en el océano. El tren lleva a Arcachon en unos cincuenta minutos desde Burdeos, con trenes más o menos cada hora. La mañana es para la ciudad: el paseo marítimo, el puerto y la **Ville d'Hiver**, el barrio de villas del siglo XIX en la colina, nacidas cuando Arcachon era una estación climática. Quien tenga tiempo toma el barco a **Cap Ferret**, en la otra orilla de la bahía. A la duna se va por la tarde, en el autobús urbano desde la estación.
 
 La **Dune du Pilat** se sube al atardecer (en verano la arena quema). Es la duna más alta de Europa, a más de cien metros sobre el mar, con el pinar a un lado y la bahía con el banco de Arguin al otro; en la temporada buena se instala una escalera que facilita mucho la subida. *Bajar la ladera que da al mar es un momento, volver a subirla no: conviene quedarse en la cresta.* La cena fue de ostras recién abiertas en una cabane del pantalán, con vino blanco y pan con mantequilla.
 
-**En la práctica:** tren Burdeos-Arcachon unos 50 minutos · autobús Baïa línea 3 de la estación a la duna en unos 25 minutos, sin servicio los domingos y festivos de noviembre a abril · aparcamiento de la duna de pago, unos 7 euros por cuatro horas en temporada alta · comprobar la hora del último tren a Burdeos antes de sentarse a cenar.
+**En la práctica:** tren Burdeos-Arcachon unos 50 minutos · autobús Baïa línea 3 de la estación a la duna en unos 25 minutos, sin servicio los domingos y festivos de noviembre a abril · aparcamiento de la duna de pago, unos 7 € por cuatro horas en temporada alta · comprobar la hora del último tren a Burdeos antes de sentarse a cenar.
 
 ## Qué ver / qué hacer
 - La iglesia monolítica de Saint-Émilion, con guía.

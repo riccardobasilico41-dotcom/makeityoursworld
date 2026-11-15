@@ -87,7 +87,7 @@ Il pomeriggio l'abbiamo dedicato alla parte alta: la **Piazzetta**, minuscola, c
 
 Verso sera, quando le escursioni giornaliere sono ripartite, **Capri cambia**. La sera l'isola si svuota di due terzi e diventa all'improvviso silenziosa, ed è per questo che vale la pena dormirci invece di farla in giornata.
 
-**In pratica:** traghetto o aliscafo per Capri da Amalfi, Positano, Sorrento o Napoli · funicolare da Marina Grande alla Piazzetta, biglietti alla stazione · Giardini di Augusto con biglietto · stato di Via Krupp da verificare · dormire sull'isola costa caro, prenotare presto.
+**In pratica:** traghetto o aliscafo per Capri da Amalfi, Positano, Sorrento o Napoli · funicolare da Marina Grande alla Piazzetta, biglietti alla stazione · Giardini di Augusto con biglietto · Via Krupp spesso chiusa: chiedere in paese se è aperta · dormire sull'isola costa caro, prenotare presto.
 
 ### Giorno 6 — Capri, dall'alto e dal mare
 La mattina siamo saliti ad **Anacapri**, il paese alto, l'altra faccia dell'isola: meno vetrine, più vita. Da lì abbiamo preso la **seggiovia per il Monte Solaro**, una seggiovia monoposto, aperta, che sale lentamente sopra i muretti e i giardini: è l'esperienza più bella dell'isola, a un prezzo ridicolo. In cima, a **589 metri**, c'è tutta Capri sotto e il golfo intero intorno.

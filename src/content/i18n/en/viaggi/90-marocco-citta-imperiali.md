@@ -17,7 +17,7 @@ You fly into **Tangier** and out of **Casablanca**. The reason is geography. Che
 
 ## Scheda pratica
 - **When to go:** spring and fall. In summer Fez and Meknes are very hot. During Ramadan the opening hours of shops and restaurants change, and eating, drinking or smoking in public during the day can cause offence.
-- **Documents:** Italian citizens need a passport valid at least for the whole stay, and no visa for tourism up to 3 months. At the airport you may be asked for a return ticket and proof of sufficient funds (Viaggiare Sicuri, updated April 2026).
+- **Documents:** Italian citizens need a passport valid at least for the whole stay, and no visa for tourism up to 3 months. At the airport you may be asked for a return ticket and proof of sufficient funds.
 - **Currency and payments:** Moroccan dirham (MAD). Taking dirhams out of Morocco is forbidden, and at the end of the trip you can only change back those you bought, showing the receipts: keep them. Cards work in hotels and many restaurants in the cities, but in the medinas, at food stalls and for taxis you need cash.
 - **Getting around:** everything by road, in daylight only: Viaggiare Sicuri advises avoiding night driving outside towns. You go with a car and driver or a rental car. The distances and driving times given for each day are calculated on the road route (OSRM, without stops or traffic): in reality it takes longer.
 - **Buses:** CTM buses also run between Tangier, Chefchaouen and Fez, useful for the first two legs. Check services, times and tickets on ctm.ma.

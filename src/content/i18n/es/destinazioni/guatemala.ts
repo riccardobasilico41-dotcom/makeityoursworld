@@ -61,7 +61,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "El Fuego está activo: antes de salir consulta los boletines de CONRED e INSIVUMEH y sigue siempre al guía."
       ],
     comeArrivare: "Vuelo a Ciudad de Guatemala (GUA), luego alrededor de 1 hora de shuttle o taxi privado hasta Antigua. Desde el aeropuerto La Aurora se tarda 1-1,5 horas según el tráfico: el shuttle compartido cuesta unos 18-20 USD por persona y hay que reservarlo, el traslado privado unos 65-85 USD por vehículo; Uber funciona desde el aeropuerto. Hay que evitar los taxis no registrados y la carretera de noche. Los shuttles turísticos al lago de Atitlán (unas 3 horas) y a Chichicastenango se reservan en cualquier agencia del centro.",
-    costi: "entre las ciudades más caras de Guatemala, pero económica para los estándares europeos; el trekking al Acatenango parte de unos 60€ con el equipo incluido. Aproximadamente 1 € = 8-9 GTQ. Presupuesto por persona y día: bajo 30-45 € (hostal, menú del día en el mercado, shuttles compartidos); medio 70-110 € (hotel en casa colonial, restaurantes, una ruina o un taller de chocolate); alto desde 180 € (hotel en un convento restaurado, traslados privados). La entrada al parque del Acatenango se paga en efectivo en el punto de salida (del viaje).",
+    costi: "entre las ciudades más caras de Guatemala, pero económica para los estándares europeos; el trekking al Acatenango parte de unos 60 € con el equipo incluido. Aproximadamente 1 € = 8-9 GTQ. Presupuesto por persona y día: bajo 30-45 € (hostal, menú del día en el mercado, shuttles compartidos); medio 70-110 € (hotel en casa colonial, restaurantes, una ruina o un taller de chocolate); alto desde 180 € (hotel en un convento restaurado, traslados privados). La entrada al parque del Acatenango se paga en efectivo en el punto de salida.",
     luoghi: [
       {
         "nome": "Arco de Santa Catalina",
@@ -175,7 +175,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Tour de dos días desde Antigua con guía, tienda y comidas. Se sube durante varias horas entre milpas, pinar y arena volcánica.",
         "quando": "Temporada seca (noviembre-abril); a la mañana siguiente se baja por la arena. El sendero puede cerrar por la actividad del Fuego o el mal tiempo (en 2026 reabrió en agosto tras un cierre): comprobarlo antes.",
         "tempo": "2 días, 1 noche",
-        "costo": "Desde unos 60 € con el equipo incluido; la entrada al parque se paga en efectivo en el punto de salida (del viaje).",
+        "costo": "Desde unos 60 € con el equipo incluido; la entrada al parque se paga en efectivo en el punto de salida.",
         "lat": 14.50083,
         "lng": -90.87583,
         "consiglio": "De noche en el campamento hace frío, a menudo cerca de cero: guantes, gorro, capas de abrigo e impermeable. La bajada es más deslizarse que caminar. Para el volcán Acatenango recomiendo OX Expeditions, en Antigua: son buenísimos y me encontré muy bien con ellos."
@@ -347,7 +347,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "El Foreign Office británico señala asaltos en las rutas turísticas del país, incluida la zona del lago: moverse de día, en grupo o con operadores serios. En San Pedro la Laguna lleva el pasaporte o una copia autenticada."
       ],
     comeArrivare: "Shuttle turístico desde Antigua (unas 3 horas) o desde Ciudad de Guatemala; como alternativa, camioneta con transbordo en Los Encuentros. Muchos shuttles desde Antigua pasan por Chichicastenango los jueves y domingos, los días de mercado, y siguen hasta Panajachel el mismo día: unas tres horas hasta Chichi y luego hora y media hasta el lago. Los shuttles llegan a Panajachel; desde allí se toma la lancha a San Pedro, San Marcos o Santa Cruz. Hacia Lanquín y Semuc Champey hacen falta 7-9 horas de shuttle, con el último tramo de terracería.",
-    costi: "lanchas 10-25 GTQ por trayecto según la distancia; alojamientos entre los más económicos del país. En el Indian Nose se paga una pequeña tasa a la comunidad; en la casa de Maximón en Santiago se deja una ofrenda de pocos quetzales (del viaje). Presupuesto indicativo por persona y día: bajo 25-40 € (hostal en San Pedro, comedores, lanchas públicas); medio 60-100 € (hotel con vista en Panajachel o San Marcos, guía para el Indian Nose, un curso o un kayak); alto desde 150 € (hotel sobre el agua en Santa Cruz o encima de Panajachel, lanchas privadas).",
+    costi: "lanchas 10-25 GTQ por trayecto según la distancia; alojamientos entre los más económicos del país. En el Indian Nose se paga una pequeña tasa a la comunidad; en la casa de Maximón en Santiago se deja una ofrenda de pocos quetzales. Presupuesto indicativo por persona y día: bajo 25-40 € (hostal en San Pedro, comedores, lanchas públicas); medio 60-100 € (hotel con vista en Panajachel o San Marcos, guía para el Indian Nose, un curso o un kayak); alto desde 150 € (hotel sobre el agua en Santa Cruz o encima de Panajachel, lanchas privadas).",
     luoghi: [
       {
         "nome": "Panajachel y Calle Santander",
@@ -394,7 +394,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "En lancha pública desde Panajachel o San Pedro, una media hora.",
         "quando": "Por la mañana.",
         "tempo": "Media jornada",
-        "costo": "Ofrenda de pocos quetzales en la casa de Maximón (del viaje)",
+        "costo": "Ofrenda de pocos quetzales en la casa de Maximón",
         "lat": 14.63855,
         "lng": -91.22992,
         "consiglio": "Antes de fotografiar a personas o la figura de Maximón, pedir siempre permiso y dejar una pequeña ofrenda."
@@ -405,7 +405,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Despertador antes del amanecer, traslado y alrededor de una hora de caminata empinada a oscuras con un guía local, desde San Juan o Santa Clara.",
         "quando": "Amanecer, con cielo despejado.",
         "tempo": "Media mañana",
-        "costo": "Pequeña tasa a la comunidad en la cima; precio del guía a fijar el día antes (del viaje).",
+        "costo": "Pequeña tasa a la comunidad en la cima; precio del guía a fijar el día antes.",
         "lat": 14.69921,
         "lng": -91.28988,
         "consiglio": "En la temporada de lluvias se sube a oscuras para ver una nube: revisar el pronóstico."
@@ -426,7 +426,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "A pie o en tuk tuk desde Panajachel, pocos minutos.",
         "quando": "Por la mañana.",
         "tempo": "2-3 horas",
-        "orari": "Abierta de 8 a 17 (sitio oficial).",
+        "orari": "Abierta de 8 a 17.",
         "lat": 14.75084,
         "lng": -91.16582,
         "url": "https://www.atitlanreserva.com/"
@@ -603,7 +603,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "En temporada de lluvias el amanecer a menudo no se ve: valorar si merece madrugar.",
         "En el sitio se caminan kilómetros bajo la selva: lleva agua, repelente y calzado cerrado. El Foreign Office señala asaltos en las carreteras hacia Tikal: viaja de día y con operadores serios."
       ],
-    comeArrivare: "Vuelo nacional de Ciudad de Guatemala a Flores (alrededor de 1 hora, la opción más rápida) o autobús nocturno (8-10 horas). De Flores al parque, alrededor de 1h30 de shuttle. El vuelo llega al aeropuerto internacional Mundo Maya, en Santa Elena, a pocos minutos en taxi de la isla. El parque está a 63 km de Flores por la CA-13 hacia Melchor de Mencos, con el desvío en Ixlú hacia El Remate (Ministerio de Cultura); shuttles y colectivos salen todos los días, y para el amanecer los hoteles organizan el transporte hacia las 3. Desde Lanquín el shuttle tarda 9-12 horas; desde la frontera de Belice en Melchor de Mencos, unas dos horas.",
+    comeArrivare: "Vuelo nacional de Ciudad de Guatemala a Flores (alrededor de 1 hora, la opción más rápida) o autobús nocturno (8-10 horas). De Flores al parque, alrededor de 1h30 de shuttle. El vuelo llega al aeropuerto internacional Mundo Maya, en Santa Elena, a pocos minutos en taxi de la isla. El parque está a 63 km de Flores por la CA-13 hacia Melchor de Mencos, con el desvío en Ixlú hacia El Remate; shuttles y colectivos salen todos los días, y para el amanecer los hoteles organizan el transporte hacia las 3. Desde Lanquín el shuttle tarda 9-12 horas; desde la frontera de Belice en Melchor de Mencos, unas dos horas.",
     costi: "entrada al parque unos 150 GTQ, suplemento para la entrada al amanecer y guía obligatorio en esa franja. Q150 para extranjeros, más Q100 para el amanecer o el atardecer: unos 250 GTQ en total, 28-30 €, en efectivo o online en el sitio del Ministerio de Cultura. Presupuesto indicativo por persona y día: bajo 30-45 € (hostal en Flores, comedores, shuttle compartido); medio 70-110 € (hotel junto al lago, guía en Tikal, paseo en lancha); alto desde 180 € (hotel dentro del parque o boutique en el lago, tours privados a Yaxhá).",
     luoghi: [
       {
@@ -612,8 +612,8 @@ export const destinazioniGuatemala: Destinazione[] = [
         "come": "Desde la entrada del parque se camina por la selva; entrada y senderos suman kilómetros. Se recomienda la visita con guía, también por la fauna.",
         "quando": "Por la mañana, cuando el sol ilumina el Templo I y la selva todavía está húmeda.",
         "tempo": "3-4 horas",
-        "costo": "Q150 para extranjeros, por día; la entrada al amanecer o al atardecer cuesta Q100 más (tarifas del Ministerio de Cultura, 2026).",
-        "orari": "Todos los días 6-18; entrada especial al amanecer 4-6 y al atardecer 18-20 (Ministerio de Cultura).",
+        "costo": "Q150 para extranjeros, por día; la entrada al amanecer o al atardecer cuesta Q100 más (2026).",
+        "orari": "Todos los días 6-18; entrada especial al amanecer 4-6 y al atardecer 18-20.",
         "lat": 17.22222,
         "lng": -89.62417,
         "url": "https://boletos.culturaguate.gob.gt/"
@@ -773,7 +773,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       {
         "nome": "San Ignacio (Belice)",
         "distanza": "unas 2 horas hasta la frontera de Melchor de Mencos",
-        "come": "Shuttle o colectivo; frontera abierta todos los días de 6 a 22 (del viaje).",
+        "come": "Shuttle o colectivo; frontera abierta todos los días de 6 a 22.",
         "testo": "El primer pueblo de Belice, base para la cueva ATM; desde la frontera se llega en un cuarto de hora."
       }
     ],
@@ -788,7 +788,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       },
       {
         "domanda": "¿Cuánto cuesta entrar en Tikal?",
-        "risposta": "Q150 para extranjeros, por día, más Q100 para el amanecer o el atardecer (Ministerio de Cultura, 2026). Los boletos se compran online en el sitio del ministerio o en efectivo."
+        "risposta": "Q150 para extranjeros, por día, más Q100 para el amanecer o el atardecer (2026). Los boletos se compran online en el sitio del ministerio o en efectivo."
       },
       {
         "domanda": "¿Hace falta guía en Tikal?",

@@ -60,7 +60,7 @@ La tarde es para la Milán del otro siglo, según los gustos:
 
 Al final de la jornada, el cuadrante norte: **Porta Nuova** con el **Bosco Verticale**, dos torres residenciales con cientos de árboles de verdad en los balcones, que en verano dan sombra y en invierno dejan pasar la luz, y el paseo hacia **Isola**, el barrio con más vida de la Milán nueva. Como alternativa **CityLife**, con las tres torres de Isozaki, Hadid y Libeskind y el parque alrededor.
 
-**En la práctica:** Cenacolo unos 15 euros, solo con reserva, cerrado los lunes: las plazas salen por bloques y se agotan en pocos días · San Maurizio y Sant'Ambrogio con entrada libre, fuera del horario de culto · HangarBicocca abierto de jueves a domingo, con el metro M5 · Fondazione Prada cerrada los martes, Museo del Novecento y Monumentale cerrados los lunes
+**En la práctica:** Cenacolo unos 15 €, solo con reserva, cerrado los lunes: las plazas salen por bloques y se agotan en pocos días · San Maurizio y Sant'Ambrogio con entrada libre, fuera del horario de culto · HangarBicocca abierto de jueves a domingo, con el metro M5 · Fondazione Prada cerrada los martes, Museo del Novecento y Monumentale cerrados los lunes
 
 ## La versión de un día
 Un día en Milán funciona estupendamente, mejor que en casi cualquier otra ciudad italiana, porque el centro es compacto y el metro es rápido. El programa:

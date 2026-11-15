@@ -140,7 +140,7 @@ Luego subimos hacia el interior, la parte que casi todos se saltan y que cambia 
 
 Si queda tiempo, **Caltagirone** con la escalinata de **142 peldaños de cerámica** pintada, cada uno distinto, o **Enna**, en el centro geográfico exacto de Sicilia, a 900 metros, desde donde en los días despejados se ve el Etna.
 
-**En la práctica:** acceso a la Scala dei Turchi a comprobar antes de salir (en 2026 limitado, unos 6 €, turnos de 20 minutos) · de Agrigento a Piazza Armerina unas dos horas en coche · Villa Romana del Casale con entrada, mejor por la mañana · Caltagirone o Enna solo si queda luz.
+**En la práctica:** Scala dei Turchi: antes de salir, mirar si está abierta (en 2026 limitado, unos 6 €, turnos de 20 minutos) · de Agrigento a Piazza Armerina unas dos horas en coche · Villa Romana del Casale con entrada, mejor por la mañana · Caltagirone o Enna solo si queda luz.
 
 ### Día 11 — Ragusa Ibla y la llegada al barroco
 Entramos en el **Val di Noto**, patrimonio UNESCO: **ocho ciudades reconstruidas tras el terremoto de 1693**, todas en el mismo estilo y en el mismo momento, un caso único de planificación urbana barroca a escala regional.

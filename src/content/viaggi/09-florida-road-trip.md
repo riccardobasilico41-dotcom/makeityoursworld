@@ -1,7 +1,7 @@
 # Florida in 10 giorni: dalle Keys a Orlando, on the road tra alligatori, spiagge e razzi
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie al Travel Diary e al Vade Mecum ufficiali — aneddoti scritti come bozza da rileggere e personalizzare; manca la conferma di ristoranti/attività effettivamente scelti)
-**Periodo del viaggio:** [da confermare — anno/mese esatto]
+**Periodo del viaggio:**
 **Durata:** 10 giorni, 9 notti
 **Compagni di viaggio:** con amici, auto a noleggio self-drive (Sixt)
 **Categoria:** Nord America · USA · Florida · on the road · road trip · mare
@@ -13,11 +13,11 @@ Il colpo di caldo umido appena scesi dall'aereo a Miami è stato il primo assagg
 
 ## Scheda pratica
 - **Quando andare:** clima caldo-umido tutto l'anno, con estati molto piovose; il tour può cambiare in caso di meteo avverso (uragani e tempeste tropicali in stagione).
-- **Documenti/visto:** passaporto con validità residua oltre la data di rientro. Per i cittadini UE/UK niente visto: basta l'**ESTA** (autorizzazione elettronica di viaggio, valida 2 anni; **dal 30 settembre 2025 costa 40,27$**, quasi il doppio dei 21$ di prima), da richiedere online su [esta.cbp.dhs.gov](https://esta.cbp.dhs.gov/esta/) quando si prenota il volo. Il modulo chiede dati su alloggio e contatto in USA, ma si possono lasciare in bianco. Chi è stato a Cuba dopo il 2011 deve invece richiedere un visto vero e proprio (150-250€, tempi 30-45 giorni): in quel caso l'ESTA non vale.
+- **Documenti/visto:** passaporto con validità residua oltre la data di rientro. Per i cittadini UE/UK niente visto: basta l'**ESTA** (autorizzazione elettronica di viaggio, valida 2 anni; **dal 30 settembre 2025 costa 40,27 $**, quasi il doppio dei 21 $ di prima), da richiedere online su [esta.cbp.dhs.gov](https://esta.cbp.dhs.gov/esta/) quando si prenota il volo. Il modulo chiede dati su alloggio e contatto in USA, ma si possono lasciare in bianco. Chi è stato a Cuba dopo il 2011 deve invece richiedere un visto vero e proprio (150-250 €, tempi 30-45 giorni): in quel caso l'ESTA non vale.
 - **Patente:** quella italiana è valida per guidare in Florida fino a 30 giorni (quella spagnola idem, quella britannica fino a 3 mesi).
-- **Budget indicativo:** cassa comune di partenza consigliata 270€ a persona (copre attività e spese legate all'auto), a cui si aggiungono il biglietto del parco a tema di Orlando (130-260$ a seconda di stagione e numero di parchi) e il Kennedy Space Center (circa 70$). Spesa media personale nel resto del viaggio: 900-1.000$ a testa. Il cibo in Florida è caro: fast food o cena semplice sui 20$, ristorante economico 35$, ristorante vero 50$ e oltre, più il 7% di tasse e il 18-20% di mancia (spesso già inclusa nel conto: bisogna sempre controllare e chiedere conti separati).
-- **Come mi sono spostato:** auto a noleggio (fornitore principale Sixt) per quasi tutto il viaggio, presa al Giorno 2 e riconsegnata l'ultimo giorno a Miami; Uber/Lyft per gli spostamenti serali in città (circa 30-40$ dall'aeroporto a Miami Beach, 15$ tra Mid Beach e South Beach).
-- **Assicurazione/sim/wifi:** assicurazione medico-bagaglio inclusa nel pacchetto dall'inizio alla fine del tour (da integrare con una privata se ci si ferma oltre le date). Wi-Fi sempre presente in hotel e nei parchi di Orlando. Conviene attivare un piano dati USA prima della partenza (es. SIM T-Mobile: 9 giorni/31€ o 15 giorni/40€, da attivare qualche giorno prima di partire) oppure comprare la SIM sul posto. Con queste SIM non si possono fare chiamate internazionali, solo Skype/WhatsApp.
+- **Budget indicativo:** cassa comune di partenza consigliata 270 € a persona (copre attività e spese legate all'auto), a cui si aggiungono il biglietto del parco a tema di Orlando (130-260 $ a seconda di stagione e numero di parchi) e il Kennedy Space Center (circa 70 $). Spesa media personale nel resto del viaggio: 900-1.000 $ a testa. Il cibo in Florida è caro: fast food o cena semplice sui 20 $, ristorante economico 35 $, ristorante vero 50 $ e oltre, più il 7% di tasse e il 18-20% di mancia (spesso già inclusa nel conto: bisogna sempre controllare e chiedere conti separati).
+- **Come mi sono spostato:** auto a noleggio (fornitore principale Sixt) per quasi tutto il viaggio, presa al Giorno 2 e riconsegnata l'ultimo giorno a Miami; Uber/Lyft per gli spostamenti serali in città (circa 30-40 $ dall'aeroporto a Miami Beach, 15 $ tra Mid Beach e South Beach).
+- **Assicurazione/sim/wifi:** assicurazione medico-bagaglio inclusa nel pacchetto dall'inizio alla fine del tour (da integrare con una privata se ci si ferma oltre le date). Wi-Fi sempre presente in hotel e nei parchi di Orlando. Conviene attivare un piano dati USA prima della partenza (es. SIM T-Mobile: 9 giorni/31 € o 15 giorni/40 €, da attivare qualche giorno prima di partire) oppure comprare la SIM sul posto. Con queste SIM non si possono fare chiamate internazionali, solo Skype/WhatsApp.
 - **Bagaglio:** zaino compatto 40/50/60 litri o duffel bag, niente trolley. Repellente per zanzare, crema solare, costume, una felpa e una giacca antipioggia leggera: fa caldo tutto l'anno, ma d'estate può essere molto umido e piovoso.
 - **Dall'aeroporto al centro:** **Miami International (MIA)**. · **Bus 150 Miami Beach Airport Express**: 2,25 $, si paga con carta contactless o con l'app GO Miami-Dade Transit, parte dalla MIA Station (ci si arriva con il MIA Mover gratuito) e arriva a South Beach in circa 40-60 minuti, ogni 20-30 minuti fino a tarda sera · **Metrorail Orange Line** per Downtown: 2,25 $, circa 15-20 minuti · **taxi**: col tassametro, circa 35-45 $ per Miami Beach; se l'autista propone un forfait, meglio chiedere di accendere il tassametro · **Uber/Lyft**: circa 30-40 $, dal punto di ritiro indicato dall'app · l'auto a noleggio si ritira al Rental Car Center, collegato anch'esso dal MIA Mover.
 
@@ -152,8 +152,8 @@ A Orlando ho alloggiato in una villa privata in affitto stile Airbnb/VRBO, la so
 - Attenzione alle corsie "toll by plate" in autostrada: sono riservate a chi ha il SunPass; senza il dispositivo vanno evitate.
 - Il limite di velocità è controllato con rigore, ma in genere si tollerano 5-10 miglia orarie sopra il limite.
 - Parcheggio quasi sempre a pagamento e mai economico: conviene scaricare in anticipo l'app richiesta da molti parcheggi.
-- Controllare con ogni hotel se la colazione è inclusa e se c'è una **resort fee** (tassa extra sulla camera, a Key West anche fino a 30$/camera) da pagare con la cassa comune.
-- Per il deposito cauzionale richiesto dagli hotel (circa 50$/notte/camera) serve una carta di credito/debito personale come garanzia: mai contanti o strumenti come la carta di gruppo dell'agenzia.
+- Controllare con ogni hotel se la colazione è inclusa e se c'è una **resort fee** (tassa extra sulla camera, a Key West anche fino a 30 $/camera) da pagare con la cassa comune.
+- Per il deposito cauzionale richiesto dagli hotel (circa 50 $/notte/camera) serve una carta di credito/debito personale come garanzia: mai contanti o strumenti come la carta di gruppo dell'agenzia.
 - Tutte le camere hanno letti matrimoniali doppi da condividere: da mettere in conto quando si compongono le stanze.
 
 ## Chiusura personale
@@ -162,7 +162,7 @@ Dieci giorni quasi sempre al volante, quasi 1.800 km tra le Everglades, le Keys,
 ## Materiale grezzo (appunti, non ancora editato)
 Fonti ufficiali del tour operator (WeRoad):
 1. **Travel Diary Florida 360°** — documento operativo con contatti d'emergenza DMC, regole per il noleggio auto, cassa comune, GoCity Pass, ESTA/visti, cosa mettere in valigia, e il programma giorno per giorno completo (Giorni 1-10) con attività "suggerite" e indirizzi di ristoranti/locali.
-2. **Vade Mecum Florida 360°** (in italiano) — informazioni pratiche aggiuntive: contatti del Consolato Generale d'Italia a Miami, dettagli su documenti/ESTA, clima, spostamenti, cibo, moneta, assicurazione, bagaglio, medicinali, vestiario, accessori consigliati e regole della cassa comune (270€ a persona, bonifico con causale "FLORIDA cassa comune - COGNOME NOME").
+2. **Vade Mecum Florida 360°** (in italiano) — informazioni pratiche aggiuntive: contatti del Consolato Generale d'Italia a Miami, dettagli su documenti/ESTA, clima, spostamenti, cibo, moneta, assicurazione, bagaglio, medicinali, vestiario, accessori consigliati e regole della cassa comune (270 € a persona, bonifico con causale "FLORIDA cassa comune - COGNOME NOME").
 
 **Cosa manca ancora per chiudere la bozza:**
 - Anno/mese esatto del viaggio.
@@ -182,6 +182,9 @@ Fonti ufficiali del tour operator (WeRoad):
 - [ ] foto dalle attrazioni di Universal Studios/Islands of Adventure
 - [ ] foto della Salsa Night a Miami
 - [ ] mappa del percorso ad anello (Miami → Key West → Everglades → Naples → Orlando → Cape Canaveral → Miami)
+
+## Nota su questa bozza
+Anno e mese del viaggio ancora da confermare: campo «Periodo del viaggio» lasciato vuoto.
 
 ## Tag
 `#florida` `#usa` `#roadtrip` `#keywest` `#everglades` `#orlando` `#capecanaveral` `#miami` `#nordamerica`

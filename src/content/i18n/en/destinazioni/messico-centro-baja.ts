@@ -67,8 +67,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Street taxis: use Uber or sitio taxis.",
         "Altitude: drink water and go slowly on the first day."
       ],
-    comeArrivare: "Benito Juárez International Airport (AICM), with direct flights or via a European capital; into the city by prepaid taxi or app. Authorised taxis are paid at the desks inside arrivals: about 300-450 MXN, 15-23 €, to Roma Norte or Condesa, 30-60 minutes depending on traffic. Metrobús line 4 runs from terminals 1 and 2 to the historic centre for about 30 MXN, with the rechargeable card or a contactless bank card; the metro (Terminal Aérea station) costs 5 MXN but with luggage at rush hour it isn't worth it. Since March 2026 Uber and DiDi can't pick up inside the terminal. From Puebla and Oaxaca, ADO buses arrive at TAPO or the Terminal del Sur.",
-    costi: "Teotihuacán and the Anthropology Museum about 210 MXN each for foreigners (2026); the trajinera is paid per hour and per boat, at a price agreed before boarding. Low budget about 60-90 € a day per person (hostel or private room, taquerías, metro at 5 MXN); mid 125-200 € (boutique hotel in Roma or Condesa, restaurants, a few museums and Teotihuacán); high from 300 € up (design hotel or Polanco, driver, fine dining). Roughly 1 € = 20 MXN.",
+    comeArrivare: "Benito Juárez International Airport (AICM), with direct flights or via a European capital; into the city by prepaid taxi or app. Authorised taxis are paid at the desks inside arrivals: about 300-450 MXN, €15-23, to Roma Norte or Condesa, 30-60 minutes depending on traffic. Metrobús line 4 runs from terminals 1 and 2 to the historic centre for about 30 MXN, with the rechargeable card or a contactless bank card; the metro (Terminal Aérea station) costs 5 MXN but with luggage at rush hour it isn't worth it. Since March 2026 Uber and DiDi can't pick up inside the terminal. From Puebla and Oaxaca, ADO buses arrive at TAPO or the Terminal del Sur.",
+    costi: "Teotihuacán and the Anthropology Museum about 210 MXN each for foreigners (2026); the trajinera is paid per hour and per boat, at a price agreed before boarding. Low budget about €60-90 a day per person (hostel or private room, taquerías, metro at 5 MXN); mid €125-200 (boutique hotel in Roma or Condesa, restaurants, a few museums and Teotihuacán); high from €300 up (design hotel or Polanco, driver, fine dining). Roughly €1 = 20 MXN.",
     luoghi: [
       {
         "nome": "Zócalo, Cathedral and Templo Mayor",
@@ -76,8 +76,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Zócalo. The Templo Mayor has a separate INAH ticket; the Cathedral is free.",
         "quando": "Morning, before the heat and the demonstrations that often fill the square.",
         "tempo": "3 hours",
-        "costo": "Templo Mayor: 210 MXN for foreigners, about 10 € (INAH page, 2026); on Sundays it is free only for Mexican citizens.",
-        "orari": "Templo Mayor: Tuesday to Sunday 9-17, closed on Mondays (INAH page).",
+        "costo": "Templo Mayor: 210 MXN for foreigners, about €10 (2026); on Sundays it is free only for Mexican citizens.",
+        "orari": "Templo Mayor: Tuesday to Sunday 9-17, closed on Mondays.",
         "lat": 19.435,
         "lng": -99.13139,
         "url": "https://lugares.inah.gob.mx/es/node/4463"
@@ -97,7 +97,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Bellas Artes. The façade is free to see; for the murals you buy the museum ticket.",
         "quando": "Morning for the museum; for the view from above, the top-floor bar of the building opposite, at sunset.",
         "tempo": "1.5 hours",
-        "costo": "95 MXN, about 5 € (2026).",
+        "costo": "95 MXN, about €5 (2026).",
         "orari": "Tuesday to Sunday 10-18, ticket office until 17:30; closed on Mondays.",
         "lat": 19.4353,
         "lng": -99.1414
@@ -117,8 +117,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Auditorio or Chapultepec.",
         "quando": "Morning, at opening; start with the Mexica hall, in the centre.",
         "tempo": "3-4 hours",
-        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
-        "orari": "Tuesday to Sunday 9-18, closed on Mondays (INAH page).",
+        "costo": "210 MXN for foreigners, about €10 (2026).",
+        "orari": "Tuesday to Sunday 9-18, closed on Mondays.",
         "lat": 19.42611,
         "lng": -99.18611,
         "url": "https://lugares.inah.gob.mx/es/node/4237",
@@ -130,8 +130,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro Chapultepec, then a walk uphill of about 15 minutes inside the park.",
         "quando": "Morning, combined with the Anthropology Museum in the same park.",
         "tempo": "2 hours",
-        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
-        "orari": "Tuesday to Sunday 9-17, closed on Mondays (INAH page).",
+        "costo": "210 MXN for foreigners, about €10 (2026).",
+        "orari": "Tuesday to Sunday 9-17, closed on Mondays.",
         "lat": 19.42056,
         "lng": -99.18167,
         "url": "https://lugares.inah.gob.mx/es/node/4682"
@@ -142,8 +142,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Autobuses Teotihuacán bus from the Terminal del Norte, about an hour, or a tour; INAH ticket.",
         "quando": "At the 8 am opening, before the heat and the groups; Sundays are crowded.",
         "tempo": "Half a day",
-        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026). According to news from August 2026 the Pyramid of the Moon is closed until further notice: ask at the ticket office.",
-        "orari": "Daily 8-17, last entry at 16:30 (INAH page).",
+        "costo": "210 MXN for foreigners, about €10 (2026). According to news from August 2026 the Pyramid of the Moon is closed until further notice: ask at the ticket office.",
+        "orari": "Daily 8-17, last entry at 16:30.",
         "lat": 19.693,
         "lng": -98.844,
         "url": "https://lugares.inah.gob.mx/es/node/4528",
@@ -164,7 +164,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro or Uber; for the Casa Azul, tickets must be booked online in advance.",
         "quando": "Morning; you must turn up at the time printed on the ticket.",
         "tempo": "Half a day",
-        "costo": "Casa Azul: 320 MXN for foreigners, about 16 € (2026), with timed entry booked online.",
+        "costo": "Casa Azul: 320 MXN for foreigners, about €16 (2026), with timed entry booked online.",
         "orari": "Casa Azul closed on Mondays.",
         "lat": 19.35514,
         "lng": -99.16253,
@@ -176,7 +176,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Uber or taxi from Coyoacán, about twenty minutes.",
         "quando": "Early afternoon, after Coyoacán.",
         "tempo": "1.5 hours",
-        "orari": "Tuesday to Sunday 11-17:30, closed on Mondays (official site).",
+        "orari": "Tuesday to Sunday 11-17:30, closed on Mondays.",
         "lat": 19.3227,
         "lng": -99.14451,
         "url": "https://www.museoanahuacalli.org.mx/"
@@ -187,7 +187,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Metro to Tasqueña and then the light rail, or Uber to the embarcaderos.",
         "quando": "Weekday mornings, fewer crowds.",
         "tempo": "2-3 hours",
-        "costo": "Roughly 600-700 MXN per hour for the whole boat, about 30-35 € (from the trip, 2026).",
+        "costo": "Roughly 600-700 MXN per hour for the whole boat, about €30-35 (2026).",
         "lat": 19.25206,
         "lng": -99.09335,
         "consiglio": "Agree on duration and price of the boat before boarding; mariachis and vendors are paid separately."
@@ -198,8 +198,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Uber or taxi to Polanco (Nuevo Polanco).",
         "quando": "Afternoon, also on Mondays, when many museums are closed.",
         "tempo": "1.5 hours",
-        "costo": "Free admission (official site).",
-        "orari": "Daily 10:30-18:30 (official site).",
+        "costo": "Free admission.",
+        "orari": "Daily 10:30-18:30.",
         "lat": 19.44066,
         "lng": -99.20462,
         "url": "https://www.museosoumaya.org/"
@@ -267,13 +267,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "nome": "Roma and Condesa",
         "perChi": "restaurants and bars",
         "testo": "Neighbourhoods of cafés and nightlife, safer on foot, close to Chapultepec. From hostels and private rooms to boutique hotels.",
-        "fascia": "30-175 €"
+        "fascia": "€30-175"
       },
       {
         "nome": "Polanco",
         "perChi": "high end and fine dining",
         "testo": "An upmarket neighbourhood north of Chapultepec, with design hotels, the Museo Soumaya and the city's best-known restaurants.",
-        "fascia": "from 250 €"
+        "fascia": "from €250"
       },
       {
         "nome": "Coyoacán",
@@ -291,7 +291,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       {
         "nome": "Puebla and Cholula",
         "distanza": "about 2 hours by bus",
-        "come": "ADO bus from TAPO or the Terminal del Oriente, 200-300 MXN (from the trip).",
+        "come": "ADO bus from TAPO or the Terminal del Oriente, 200-300 MXN.",
         "testo": "Puebla's baroque centre, with the Capilla del Rosario and the Biblioteca Palafoxiana, and the church of Cholula on top of the pyramid, with Popocatépetl behind it. Better with a night there."
       },
       {
@@ -358,10 +358,10 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     doveDormire:
       "In Puebla, the center around the Zócalo, with many hotels in colonial buildings. In Cholula, hostels and small hotels at the foot of the pyramid.",
     doveMangiare: 'Mole poblano, chalupas, cemitas and molotes; chiles en nogada are a seasonal late-summer dish.',
-    comeArrivare: "From Mexico City, ADO buses leave from TAPO or the Terminal del Sur, very frequently: about 2 hours and 200-300 MXN, about 10-15 € (2026), to Puebla's CAPU terminal, from where you take a taxi or app ride into the centre. Puebla airport (PBC), at Huejotzingo, has few domestic flights; nearly everyone arrives via Mexico City. From Puebla to Cholula is 20-30 minutes by Uber, taxi or colectivo. To continue to Oaxaca, the bus costs 450-800 MXN and takes about 4.5-5 hours.",
+    comeArrivare: "From Mexico City, ADO buses leave from TAPO or the Terminal del Sur, very frequently: about 2 hours and 200-300 MXN, about €10-15 (2026), to Puebla's CAPU terminal, from where you take a taxi or app ride into the centre. Puebla airport (PBC), at Huejotzingo, has few domestic flights; nearly everyone arrives via Mexico City. From Puebla to Cholula is 20-30 minutes by Uber, taxi or colectivo. To continue to Oaxaca, the bus costs 450-800 MXN and takes about 4.5-5 hours.",
     comeSpostarsi: 'On foot in the centers; taxis and apps between Puebla and Cholula.',
     periodoMigliore: 'October to April; the clear mornings of November-February are the best for seeing the volcanoes.',
-    costi: "Rough daily budget per person for 2026: low 50-80 € (hostel or simple hotel in Cholula, markets and cemitas, colectivos); mid 110-170 € (hotel in a colonial house in the centre, museums, Poblano restaurants, Uber); high from 250 € (upscale hotel, private guide, chef-led restaurants). Great Pyramid of Cholula 210 MXN for foreigners; Museo Amparo 85 MXN; Biblioteca Palafoxiana about 40 MXN, free on Tuesday.",
+    costi: "Rough daily budget per person for 2026: low €50-80 (hostel or simple hotel in Cholula, markets and cemitas, colectivos); mid €110-170 (hotel in a colonial house in the centre, museums, Poblano restaurants, Uber); high from €250 (upscale hotel, private guide, chef-led restaurants). Great Pyramid of Cholula 210 MXN for foreigners; Museo Amparo 85 MXN; Biblioteca Palafoxiana about 40 MXN, free on Tuesday.",
     erroriDaEvitare: [
       'Visiting Cholula only at midday, when haze often hides the volcano',
       'Doing Puebla as a day trip from Mexico City without sleeping at least one night in Cholula',
@@ -393,7 +393,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "On foot, on the first floor of the Casa de la Cultura, beside the cathedral.",
         quando: "Morning; entry is free on Tuesday and it gets busier.",
         tempo: "45 minutes",
-        costo: "About 40 MXN, about 2 €; free on Tuesday (2026)",
+        costo: "About 40 MXN, about €2; free on Tuesday (2026)",
         orari: "Closed Monday",
         lat: 19.0425,
         lng: -98.1989,
@@ -404,7 +404,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "On foot, two blocks from the Zócalo.",
         quando: "Morning; the terrace café is good for a break.",
         tempo: "2 hours",
-        costo: "85 MXN, about 4 € (2026)",
+        costo: "85 MXN, about €4 (2026)",
         orari: "Wednesday to Monday 10 am-6 pm, closed Tuesday",
         lat: 19.0408,
         lng: -98.1985,
@@ -445,7 +445,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "On foot from the centre, on 4 Poniente; the tour must be booked.",
         quando: "On weekdays, when the artisans are at work.",
         tempo: "50 minutes",
-        costo: "150 MXN Monday to Friday, 200 MXN on Saturday, about 8-10 € (2026)",
+        costo: "150 MXN Monday to Friday, 200 MXN on Saturday, about €8-10 (2026)",
         orari: "Tours Monday to Friday 10 am-3 pm; Saturday subject to availability",
         url: "https://www.uriartetalavera.com.mx/visita-uriarte",
         consiglio: "Genuine talavera carries the designation-of-origin mark: the pieces sold for a few pesos at stalls are almost always factory-made.",
@@ -474,7 +474,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Uber, taxi or colectivo from Puebla, 20-30 minutes; tickets also online.",
         quando: "Morning for the tunnels and the archaeological zone.",
         tempo: "2-3 hours",
-        costo: "210 MXN for foreigners, about 10 € (2026)",
+        costo: "210 MXN for foreigners, about €10 (2026)",
         orari: "Archaeological zone Wednesday to Sunday 9 am-5 pm",
         lat: 19.0575,
         lng: -98.30194,
@@ -532,13 +532,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         nome: "Puebla historic centre",
         perChi: "everything on foot",
         testo: "Hotels in colonial buildings around the Zócalo, with restaurants and museums close by.",
-        fascia: "60-125 €",
+        fascia: "€60-125",
       },
       {
         nome: "Cholula",
         perChi: "village feel and volcano views",
         testo: "Hostels and small hotels at the foot of the pyramid, some with a terrace facing Popocatépetl; in the evening there are student bars.",
-        fascia: "35-90 €",
+        fascia: "€35-90",
       },
       {
         nome: "Angelópolis",
@@ -683,8 +683,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Craft mezcal: buy from reliable producers and shops.",
         "Taxis without meter: agree the price."
       ],
-    comeArrivare: "ADO bus from Puebla or Mexico City; flights from Mexico City. From Puebla (CAPU) the ADO bus takes about four and a half hours through the sierra, 450-800 MXN depending on the class (about 22-40 €); from Mexico City the direct journey takes 6-7 hours. During the Día de los Muertos seats sell out: book a few days ahead. The ADO terminal is north of the centre, about ten minutes by taxi from Santo Domingo. Towards the coast, the new motorway gets you to Puerto Escondido in about 3-3.5 hours by bus or van (300-500 MXN). Before leaving, ask at the hotel about bloqueos, the road blockades by unions and communities.",
-    costi: "Entry to the panteones is free; evening cemetery tours at varying prices, roughly 600-1,200 MXN per person with transport (from the trip, 2026). Monte Albán and Mitla 210 MXN each for foreigners (INAH pages, 2026), Museo de las Culturas 210 MXN, Hierve el Agua 50-100 MXN in cash. Low budget about 60-90 € a day per person (hostel, markets, colectivos); mid 125-200 € (casa de huéspedes or small hotel in the centre, restaurants, a Valles Centrales tour); high from 300 € (hotel in a colonial house, driver, fine dining). On the nights of the festival accommodation costs two or three times as much.",
+    comeArrivare: "ADO bus from Puebla or Mexico City; flights from Mexico City. From Puebla (CAPU) the ADO bus takes about four and a half hours through the sierra, 450-800 MXN depending on the class (about €22-40); from Mexico City the direct journey takes 6-7 hours. During the Día de los Muertos seats sell out: book a few days ahead. The ADO terminal is north of the centre, about ten minutes by taxi from Santo Domingo. Towards the coast, the new motorway gets you to Puerto Escondido in about 3-3.5 hours by bus or van (300-500 MXN). Before leaving, ask at the hotel about bloqueos, the road blockades by unions and communities.",
+    costi: "Entry to the panteones is free; evening cemetery tours at varying prices, roughly 600-1,200 MXN per person with transport (2026). Monte Albán and Mitla 210 MXN each for foreigners (2026), Museo de las Culturas 210 MXN, Hierve el Agua 50-100 MXN in cash. Low budget about €60-90 a day per person (hostel, markets, colectivos); mid €125-200 (casa de huéspedes or small hotel in the centre, restaurants, a Valles Centrales tour); high from €300 (hotel in a colonial house, driver, fine dining). On the nights of the festival accommodation costs two or three times as much.",
     luoghi: [
       {
         "nome": "Templo de Santo Domingo and the ethnobotanical garden",
@@ -703,7 +703,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Entrance beside the church of Santo Domingo.",
         "quando": "Morning, before Monte Albán or right after.",
         "tempo": "2 hours",
-        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
+        "costo": "210 MXN for foreigners, about €10 (2026).",
         "orari": "Tuesday to Saturday 10-16, closed Sunday and Monday according to the INAH page: check before going.",
         "lat": 17.06592,
         "lng": -96.72315,
@@ -715,8 +715,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Shuttles from the centre or taxi, about 20 minutes; INAH ticket including the site museum.",
         "quando": "At opening: in the middle of the day it is hot and there is no shade.",
         "tempo": "2-3 hours",
-        "costo": "210 MXN for foreigners, about 10 € (INAH page, 2026).",
-        "orari": "Daily 8-17, last entry at 16 (INAH page).",
+        "costo": "210 MXN for foreigners, about €10 (2026).",
+        "orari": "Daily 8-17, last entry at 16.",
         "lat": 17.04389,
         "lng": -96.76778,
         "url": "https://lugares.inah.gob.mx/es/node/4351"
@@ -768,8 +768,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "On foot from the centre, on calle Hidalgo.",
         "quando": "Any time, evenings included.",
         "tempo": "1 hour",
-        "costo": "Free (official site).",
-        "orari": "Monday-Friday 10-20, Saturday 11-20, Sunday 11-18 (official site).",
+        "costo": "Free.",
+        "orari": "Monday-Friday 10-20, Saturday 11-20, Sunday 11-18.",
         "lat": 17.06077,
         "lng": -96.72292,
         "url": "https://museotextildeoaxaca.org/"
@@ -872,13 +872,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "nome": "Historic centre",
         "perChi": "everything on foot",
         "testo": "Hotels in colonial houses, culture and restaurants, noisier. Between Santo Domingo and the Zócalo; on the nights of the festival prices rise two or three times.",
-        "fascia": "75-175 €"
+        "fascia": "€75-175"
       },
       {
         "nome": "Barrio Jalatlaco",
         "perChi": "cafés and atmosphere",
         "testo": "A neighbourhood of colourful houses, quieter, walkable from the centre. Many casas de huéspedes and small hotels.",
-        "fascia": "75-175 €"
+        "fascia": "€75-175"
       },
       {
         "nome": "Barrio de Xochimilco",
@@ -896,8 +896,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       {
         "nome": "Mitla and Hierve el Agua",
         "distanza": "about 45 km and 70 km, full day",
-        "come": "Group tour, roughly 600-900 MXN per person excluding entries (from the trip), or colectivo to Mitla.",
-        "testo": "Mitla has stone geometric mosaics unique in Mesoamerica (210 MXN for foreigners, open daily 8-17, INAH page); Hierve el Agua the petrified waterfalls with pools on the edge of the cliff, when the community keeps it open (50-100 MXN in cash)."
+        "come": "Group tour, roughly 600-900 MXN per person excluding entries, or colectivo to Mitla.",
+        "testo": "Mitla has stone geometric mosaics unique in Mesoamerica (210 MXN for foreigners, open daily 8-17); Hierve el Agua the petrified waterfalls with pools on the edge of the cliff, when the community keeps it open (50-100 MXN in cash)."
       },
       {
         "nome": "San Bartolo Coyotepec",
@@ -917,7 +917,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       },
       {
         "domanda": "How do you get to Monte Albán?",
-        "risposta": "With the shuttles leaving from the centre or by taxi, about 20 minutes. The site opens at 8 and entry costs 210 MXN for foreigners (INAH page, 2026)."
+        "risposta": "With the shuttles leaving from the centre or by taxi, about 20 minutes. The site opens at 8 and entry costs 210 MXN for foreigners (2026)."
       },
       {
         "domanda": "Is Hierve el Agua open?",
@@ -962,10 +962,10 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'The muerteada of San Agustín Etla (north of Oaxaca) on the night of November 1',
       "Swim in the natural pools of Hierve el Agua",
     ],
-    comeArrivare: "All the villages of the Tlacolula valley lie along Highway 190, the Pan-American road from Oaxaca towards Tehuantepec: Tule is about 10 km away, Teotitlán and Tlacolula 30, Mitla 45 and Hierve el Agua about 70, i.e. 1.5-2 hours' drive. The easiest way is a group tour from Oaxaca (roughly 600-900 MXN per person, about 30-45 €, entry fees excluded) or a car with driver. On your own you use the colectivos and buses that run along the 190; from Mitla, shared pickups go to Hierve el Agua.",
+    comeArrivare: "All the villages of the Tlacolula valley lie along Highway 190, the Pan-American road from Oaxaca towards Tehuantepec: Tule is about 10 km away, Teotitlán and Tlacolula 30, Mitla 45 and Hierve el Agua about 70, i.e. 1.5-2 hours' drive. The easiest way is a group tour from Oaxaca (roughly 600-900 MXN per person, about €30-45, entry fees excluded) or a car with driver. On your own you use the colectivos and buses that run along the 190; from Mitla, shared pickups go to Hierve el Agua.",
     comeSpostarsi: 'Colectivos between the towns; from Mitla, shared camionetas to Hierve el Agua.',
     periodoMigliore: 'all year; late October-early November for the altars in homes and the comparsas.',
-    costi: "Group tour of the mezcal road 600-900 MXN per person, entry fees excluded; Mitla and Yagul 210 MXN, Dainzú and Lambityeco 145 MXN for foreigners (2026); Hierve el Agua 50-100 MXN between community fee and ticket, cash only; tastings at palenques often free. Rough daily budget per person: low 40-60 € (colectivos, village comedores, tickets); mid 80-120 € (tour or car, lunch at a restaurant in Teotitlán, a few purchases); high from 180 € (private driver and guide for the day).",
+    costi: "Group tour of the mezcal road 600-900 MXN per person, entry fees excluded; Mitla and Yagul 210 MXN, Dainzú and Lambityeco 145 MXN for foreigners (2026); Hierve el Agua 50-100 MXN between community fee and ticket, cash only; tastings at palenques often free. Rough daily budget per person: low €40-60 (colectivos, village comedores, tickets); mid €80-120 (tour or car, lunch at a restaurant in Teotitlán, a few purchases); high from €180 (private driver and guide for the day).",
     erroriDaEvitare: [
       'Heading to Hierve el Agua without checking that it is open: closures from disputes between communities are frequent',
       'Driving after mezcal tastings',
@@ -988,7 +988,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Turn-off at km 23.5 of the 190, then 1.5 km south.",
         quando: "Morning, before the heat.",
         tempo: "45 minutes",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4.30 pm",
         lat: 17.0037,
         lng: -96.55717,
@@ -1010,7 +1010,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "On the 190 at km 30.6, 2.5 km before Tlacolula.",
         quando: "A short stop on the way.",
         tempo: "30 minutes",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4.30 pm",
         lat: 16.97167,
         lng: -96.49194,
@@ -1032,7 +1032,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Turn-off at km 36 of the 190, 1.2 km past Tlacolula.",
         quando: "Late afternoon for the light over the valley; it closes at 5 pm.",
         tempo: "1-1.5 hours",
-        costo: "210 MXN for foreigners, about 10 € (2026)",
+        costo: "210 MXN for foreigners, about €10 (2026)",
         orari: "Daily 8 am-5 pm, last entry 4 pm",
         lat: 16.95836,
         lng: -96.45014,
@@ -1055,7 +1055,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Colectivo or tour from Oaxaca, about an hour; turn north at km 39 of the 190.",
         quando: "Morning or early afternoon.",
         tempo: "1-2 hours",
-        costo: "210 MXN for foreigners, about 10 € (2026); tickets also online",
+        costo: "210 MXN for foreigners, about €10 (2026); tickets also online",
         orari: "Daily 8 am-5 pm, last entry 4.30 pm",
         lat: 16.92083,
         lng: -96.36167,
@@ -1067,7 +1067,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Tour from Oaxaca, car or shared pickup from Mitla; about 70 km and 1.5-2 hours from Oaxaca.",
         quando: "Morning, with fewer people; check it is open the week before.",
         tempo: "2-3 hours",
-        costo: "50-100 MXN between community fee and ticket, about 3-5 €, cash only (2026)",
+        costo: "50-100 MXN between community fee and ticket, about €3-5, cash only (2026)",
         lat: 16.86552,
         lng: -96.276,
         consiglio: "After rain or because of road blockades it may be closed: check first with your hotel or a local operator.",
@@ -1094,13 +1094,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         nome: "Central Oaxaca",
         perChi: "services and tour departures",
         testo: "The Valles are visited as day trips from Oaxaca: almost all tours start in the centre. During the Day of the Dead nights prices double or triple.",
-        fascia: "75-175 €",
+        fascia: "€75-175",
       },
       {
         nome: "Jalatlaco neighbourhood",
         perChi: "quiet close to the centre",
         testo: "Cobbled streets and colourful houses east of the centre, towards the exit for the 190: handy if you drive to the Valles.",
-        fascia: "75-175 €",
+        fascia: "€75-175",
       },
       {
         nome: "Teotitlán or Mitla",
@@ -1237,8 +1237,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Thefts on the beach: leave nothing unattended.",
         "The road from Oaxaca is long and winding: consider the flight."
       ],
-    comeArrivare: "Bus or van from Oaxaca on the new motorway; direct flights from Mexico City. With the Barranca Larga-Ventanilla motorway, fully open since 2024, it takes about 3-3.5 hours from Oaxaca instead of six or seven, 300-500 MXN (15-25 €): better to leave in the morning with a seat booked the day before, and ask about bloqueos. The flight from Mexico City takes about an hour (Aeroméxico, Volaris and Viva) and the airport is a few minutes by taxi from Zicatela and the centre. Those staying in Mazunte use Huatulco airport, about an hour's drive away.",
-    costi: "Surf lessons and lagoon tours at varying prices: compare on the spot. Group surf lesson about 600-900 MXN (30-45 €), Centro Mexicano de la Tortuga about 50 MXN, turtle releases for a donation (from the trip, 2026). Low budget about 50-70 € a day per person (hostel at La Punta, fish on the beach, colectivos); mid 100-160 € (hotel in Zicatela, a surf lesson, Manialtepec lagoon); high from 250 € (quiet hotel in Carrizalillo or Rinconada, private outings).",
+    comeArrivare: "Bus or van from Oaxaca on the new motorway; direct flights from Mexico City. With the Barranca Larga-Ventanilla motorway, fully open since 2024, it takes about 3-3.5 hours from Oaxaca instead of six or seven, 300-500 MXN (€15-25): better to leave in the morning with a seat booked the day before, and ask about bloqueos. The flight from Mexico City takes about an hour (Aeroméxico, Volaris and Viva) and the airport is a few minutes by taxi from Zicatela and the centre. Those staying in Mazunte use Huatulco airport, about an hour's drive away.",
+    costi: "Surf lessons and lagoon tours at varying prices: compare on the spot. Group surf lesson about 600-900 MXN (€30-45), Centro Mexicano de la Tortuga about 50 MXN, turtle releases for a donation (2026). Low budget about €50-70 a day per person (hostel at La Punta, fish on the beach, colectivos); mid €100-160 (hotel in Zicatela, a surf lesson, Manialtepec lagoon); high from €250 (quiet hotel in Carrizalillo or Rinconada, private outings).",
     luoghi: [
       {
         "nome": "Playa Zicatela",
@@ -1266,7 +1266,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "Taxi from the centre or on foot along Zicatela.",
         "quando": "Early morning for surfing, evening for the bars.",
         "tempo": "Half a day",
-        "costo": "Group surf lesson about 600-900 MXN, 30-45 € (from the trip, 2026).",
+        "costo": "Group surf lesson about 600-900 MXN, €30-45 (2026).",
         "lat": 15.83415,
         "lng": -97.0442
       },
@@ -1317,8 +1317,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "come": "In Mazunte, along the main road; combine it with Punta Cometa.",
         "quando": "Morning or early afternoon.",
         "tempo": "1 hour",
-        "costo": "About 50 MXN, 2-3 € (from the trip, 2026)",
-        "orari": "Closed Monday and Tuesday (from the trip).",
+        "costo": "About 50 MXN, €2-3 (2026)",
+        "orari": "Closed Monday and Tuesday.",
         "lat": 15.66652,
         "lng": -96.55177
       }
@@ -1353,13 +1353,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "nome": "Zicatela",
         "perChi": "surf and nightlife",
         "testo": "Hotels, bars and restaurants, noisy at night. Mid-range.",
-        "fascia": "75-150 €"
+        "fascia": "€75-150"
       },
       {
         "nome": "La Punta",
         "perChi": "budget and a young vibe",
         "testo": "Hostels and cheap rooms, softer waves, outdoor life.",
-        "fascia": "from 30 €"
+        "fascia": "from €30"
       },
       {
         "nome": "Carrizalillo and Rinconada",
@@ -1717,10 +1717,10 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     doveDormire: 'The Malecón or the center, everything on foot; quieter resorts toward Pichilingue.',
     doveMangiare: 'Fish and shrimp tacos, ceviche, aguachile, almejas chocolatas.',
-    comeArrivare: "La Paz international airport (LAP) is about a dozen kilometres from the centre: from Mexico City the flight takes about 2 hours 15 minutes and costs roughly 1,500-3,500 MXN, about 75-175 € (2026); into town you take a taxi or the rental car, best picked up straight away. If you land at San José del Cabo (SJD), which has more international flights, the drive is about 2.5-3 hours. Baja Ferries arrive at the port of Pichilingue, 17 km north, from Mazatlán and Topolobampo.",
+    comeArrivare: "La Paz international airport (LAP) is about a dozen kilometres from the centre: from Mexico City the flight takes about 2 hours 15 minutes and costs roughly 1,500-3,500 MXN, about €75-175 (2026); into town you take a taxi or the rental car, best picked up straight away. If you land at San José del Cabo (SJD), which has more international flights, the drive is about 2.5-3 hours. Baja Ferries arrive at the port of Pichilingue, 17 km north, from Mazatlán and Topolobampo.",
     comeSpostarsi: 'Rental car for beaches and surroundings; tour boats for the islands.',
     periodoMigliore: 'autumn to spring for the whale shark, when CONANP opens the season.',
-    costi: "Rough daily budget per person for 2026: low 75-110 € (hostel or small hotel, fish tacos, shared car); mid 150-225 € (hotel on the seafront, one boat trip a day, seafood dinners); high from 350 € (resort towards Pichilingue, private trips). Single items: whale shark 1,500-2,500 MXN plus the sanctuary wristband (215 MXN in the 2025-2026 season); Espíritu Santo 2,500-3,500 MXN; Balandra 120 MXN; Regional Museum 145 MXN for foreigners.",
+    costi: "Rough daily budget per person for 2026: low €75-110 (hostel or small hotel, fish tacos, shared car); mid €150-225 (hotel on the seafront, one boat trip a day, seafood dinners); high from €350 (resort towards Pichilingue, private trips). Single items: whale shark 1,500-2,500 MXN plus the sanctuary wristband (215 MXN in the 2025-2026 season); Espíritu Santo 2,500-3,500 MXN; Balandra 120 MXN; Regional Museum 145 MXN for foreigners.",
     erroriDaEvitare: [
       'Going to Balandra without having booked a shift',
       'Choosing an unauthorized whale shark operator',
@@ -1733,7 +1733,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Boat tour from La Paz or Pichilingue with an authorised operator.",
         quando: "Early-morning departure; with strong north wind, trips are cancelled.",
         tempo: "Full day",
-        costo: "Roughly 2,500-3,500 MXN per person, about 125-175 €, plus the park fee if not included (2026)",
+        costo: "Roughly 2,500-3,500 MXN per person, about €125-175, plus the park fee if not included (2026)",
         lat: 24.47139,
         lng: -110.3325,
         consiglio: "Keep a spare day in La Paz for wind cancellations.",
@@ -1752,7 +1752,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Boat tour from the Malecón; check the operator is on CONANP's official list for the season.",
         quando: "Usually between autumn and spring, but the season only opens when CONANP counts enough sharks in the refuge: in 2025 it was suspended several times.",
         tempo: "Half a day",
-        costo: "Roughly 1,500-2,500 MXN per person, about 75-125 €, plus the sanctuary wristband (215 MXN for foreigners in the 2025-2026 season)",
+        costo: "Roughly 1,500-2,500 MXN per person, about €75-125, plus the sanctuary wristband (215 MXN for foreigners in the 2025-2026 season)",
         lat: 24.163,
         lng: -110.362,
         consiglio: "Water is 20-22 °C in winter: a shorty wetsuit helps.",
@@ -1763,7 +1763,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "By car or taxi from La Paz, about 25 minutes. Two sessions, 8 am-12 noon and 1-5 pm, with 450 people per session; book on CONANP's protected-areas portal.",
         quando: "Morning session, with less wind.",
         tempo: "Half a day",
-        costo: "120 MXN per person per day, about 6 €; half for students (2026)",
+        costo: "120 MXN per person per day, about €6; half for students (2026)",
         orari: "Sessions 8 am-12 noon and 1-5 pm, extended to 7 pm at Easter, in summer and in December",
         lat: 24.32068,
         lng: -110.3229,
@@ -1824,7 +1824,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "On foot from the centre, at the corner of Altamirano and 5 de Mayo.",
         quando: "In the hot hours or on a windy day.",
         tempo: "1-1.5 hours",
-        costo: "145 MXN for foreigners, about 7 € (2026)",
+        costo: "145 MXN for foreigners, about €7 (2026)",
         orari: "Tuesday to Sunday 9 am-6 pm, closed Monday",
         lat: 24.15956,
         lng: -110.30881,
@@ -1869,19 +1869,19 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         nome: "Centre and Malecón",
         perChi: "everything on foot",
         testo: "Hotels on the seafront and in the streets just behind, with restaurants and boat-trip agencies on foot. Mid-range seafront hotels are the most convenient choice.",
-        fascia: "90-150 €",
+        fascia: "€90-150",
       },
       {
         nome: "Old-centre streets",
         perChi: "lower budgets",
         testo: "Hostels and small hotels a few blocks from the sea, near the market and the taquerías.",
-        fascia: "35-60 €",
+        fascia: "€35-60",
       },
       {
         nome: "Towards Pichilingue and Costa Baja",
         perChi: "resorts and quiet",
         testo: "Resorts and quiet hotels to the north, on the beach road, further from the centre: you need a car.",
-        fascia: "da 225 €",
+        fascia: "da €225",
       },
     ],
       "sapori": [
@@ -2683,7 +2683,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     doveDormire: 'San José del Cabo for mid-range; the Corridor for high-end resorts; Cabo San Lucas for nightlife.',
     comeArrivare: "San José del Cabo international airport (SJD) has flights to Mexico City, with connections to Europe, and many direct flights to the United States. From the airport it takes about 20 minutes to central San José and about 45 to Cabo San Lucas along the Corridor; you go by rental car, pre-booked shuttle or authorised terminal taxi. From Todos Santos it is about an hour's drive, from La Paz 2.5-3 hours. In the arrivals hall, timeshare sellers offer «transport» and gifts: walk straight past.",
     periodoMigliore: 'winter for the humpbacks.',
-    costi: "This is the most expensive part of Baja, with many prices in dollars (paying in pesos is better). Rough daily budget per person for 2026: low 90-130 € (simple hotel in San José, street tacos, buses); mid 180-260 € (mid-range hotel, car, one boat trip); high from 400 € (resort on the Corridor, private boats). Whale watching on shared boats 80-130 dollars per person, about 70-110 €; water-taxi trip to El Arco at a price agreed in advance.",
+    costi: "This is the most expensive part of Baja, with many prices in dollars (paying in pesos is better). Rough daily budget per person for 2026: low €90-130 (simple hotel in San José, street tacos, buses); mid €180-260 (mid-range hotel, car, one boat trip); high from €400 (resort on the Corridor, private boats). Whale watching on shared boats 80-130 dollars per person, about €70-110; water-taxi trip to El Arco at a price agreed in advance.",
     erroriDaEvitare: [
       'Stopping for timeshare salespeople at the airport and in the Marina',
       'Underestimating the prices, which are very high',
@@ -2801,7 +2801,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         come: "Boat from the Cabo San Lucas Marina or San José del Cabo.",
         quando: "December to April, in the morning.",
         tempo: "2-3 hours",
-        costo: "80-130 dollars per person on shared boats, about 70-110 €; private boat for eight about 700 dollars",
+        costo: "80-130 dollars per person on shared boats, about €70-110; private boat for eight about 700 dollars",
       },
       {
         nome: "Cabo Pulmo National Park",
@@ -2834,13 +2834,13 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         nome: "San José del Cabo",
         perChi: "quiet and close to the airport",
         testo: "Colonial centre, calmer and less touristy, about twenty minutes from the airport: the easiest choice for the last night.",
-        fascia: "90-175 €",
+        fascia: "€90-175",
       },
       {
         nome: "The Corridor",
         perChi: "high-end resorts",
         testo: "The 30 km of coast between the two towns, with resorts, golf courses and the Chileno and Santa María bays; you need a car.",
-        fascia: "da 350 €",
+        fascia: "da €350",
       },
       {
         nome: "Cabo San Lucas",

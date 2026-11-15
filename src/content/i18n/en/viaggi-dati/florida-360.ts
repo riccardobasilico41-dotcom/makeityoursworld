@@ -15,7 +15,6 @@ export const florida360Meta: TripMeta = {
   criticita: [
     'The pace is very dense, with driving days of up to 5 hours',
     "Several hotels (Key West/Marathon, Naples/Everglades) aren't recorded by name because of the organizing DMC's policy: they're flagged with alternatives instead of an invented opinion",
-    "It isn't confirmed which of Universal Studios and Disney World was actually chosen on Day 6",
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

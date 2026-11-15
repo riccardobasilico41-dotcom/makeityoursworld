@@ -1009,7 +1009,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Cable car from Stechelberg (valley) or from Mürren, in several sections.",
         quando: "Morning, with the best light. Closed in high wind.",
         tempo: "2-3 hours",
-        costo: "Return CHF 115 from Stechelberg and CHF 91.40 from Mürren, valid until 12/12/2026 (official site); big discounts with the Swiss Travel Pass.",
+        costo: "Return CHF 115 from Stechelberg and CHF 91.40 from Mürren, valid until 12/12/2026; big discounts with the Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "From the valley the ride is longer but gives views of the walls."
       },

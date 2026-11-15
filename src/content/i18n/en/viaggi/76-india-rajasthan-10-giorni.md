@@ -132,11 +132,11 @@ In the afternoon, a boat ride on **Lake Pichola**, stopping at Jag Mandir, the p
 - **July-September:** monsoon. Udaipur and the Aravalli hills turn green again and the lakes fill up; humid heat, at times heavy rain, a few flooded roads.
 
 ## Estimated budget 2026
-Prices per person in a double room, intercontinental flights excluded (from Italy to Delhi 450-900 € round trip depending on the season).
-- **Budget (40-60 € a day):** simple guesthouses and havelis, trains in CC and 3A, tuk-tuks and a driver only for the transfers, meals in local restaurants.
-- **Mid-range (90-140 € a day):** heritage hotels, a driver for the transfer days, an authorized guide for the Taj and the forts, restaurants with a terrace.
-- **High-end (from 250 € a day):** palace hotels, a driver for the whole trip, private guides.
-- **Main entrance fees for foreigners:** Taj Mahal about 1,300 rupees with the mausoleum, Agra Fort about 650, Fatehpur Sikri about 600, Humayun and Qutub Minar about 600 each, Amber 1,000, Hawa Mahal, Jantar Mantar and Nahargarh 600 each, Jaipur City Palace about 700, Mehrangarh about 600, Udaipur City Palace 400-700. In all, count 9,000-11,000 rupees per person (about 90-110 €) for the trip's entrance fees (2026 foreigner rates, indicative).
+Prices per person in a double room, intercontinental flights excluded (from Italy to Delhi €450-900 round trip depending on the season).
+- **Budget (€40-60 a day):** simple guesthouses and havelis, trains in CC and 3A, tuk-tuks and a driver only for the transfers, meals in local restaurants.
+- **Mid-range (€90-140 a day):** heritage hotels, a driver for the transfer days, an authorized guide for the Taj and the forts, restaurants with a terrace.
+- **High-end (from €250 a day):** palace hotels, a driver for the whole trip, private guides.
+- **Main entrance fees for foreigners:** Taj Mahal about 1,300 rupees with the mausoleum, Agra Fort about 650, Fatehpur Sikri about 600, Humayun and Qutub Minar about 600 each, Amber 1,000, Hawa Mahal, Jantar Mantar and Nahargarh 600 each, Jaipur City Palace about 700, Mehrangarh about 600, Udaipur City Palace 400-700. In all, count 9,000-11,000 rupees per person (about €90-110) for the trip's entrance fees (2026 foreigner rates, indicative).
 
 ## Common scams and safety
 - **"Your hotel is closed":** taxi and tuk-tuk drivers say the hotel is full, closed or burned down to take you to another one for a commission. The answer is to call the hotel, or use the hotel's own transfer.

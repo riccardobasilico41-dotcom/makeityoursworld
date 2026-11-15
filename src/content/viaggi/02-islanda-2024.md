@@ -213,7 +213,7 @@ Chi ha un volo nel pomeriggio può usare la mattina per un ultimo bagno caldo: l
   panoramico, con vista diretta sul fiordo e sulla montagna.
   #### Alternative a Grundarfjörður
   In paese le opzioni sono poche: il **Kirkjufell Guesthouse and Apartments**
-  (da circa 180$/notte) è di fatto la scelta principale di fascia media, e
+  (da circa 180 $/notte) è di fatto la scelta principale di fascia media, e
   nella stessa cittadina mancano vere alternative economiche o di lusso. Per avere più
   scelta conviene guardare verso **Stykkishólmur**, a circa 25 minuti d'auto.
 
@@ -224,7 +224,7 @@ Chi ha un volo nel pomeriggio può usare la mattina per un ultimo bagno caldo: l
   - Più curate: **The Reykjavik EDITION**, **Canopy by Hilton Reykjavík**.
 
 ## Dove abbiamo mangiato
-- Keflavík: Kaffi Duus (pesce misto, ~30€)
+- Keflavík: Kaffi Duus (pesce misto, ~30 €)
 - Reynisfjara: baracchino hot dog/zuppa in spiaggia
 - Giorni 4-8: quasi sempre cucina da campeggio, con la cassa comune
 - Reykjavík: ultima cena in centro prima del rientro

@@ -44,14 +44,14 @@ Subimos con teleférico y todoterreno hasta la zona de cumbre, con el guía obli
 
 Por la tarde, los **cráteres Silvestri** a cota baja (gratuitos, accesibles en coche) o una **bodega del Etna** con cita previa: aquí las vides suelen ser **de pie franco**, porque en este suelo de lava la filoxera nunca llegó, y hay cepas de más de cien años. Las bodegas están sobre todo en la vertiente norte, en torno a Castiglione di Sicilia y Randazzo. *Cuando aumenta la actividad del volcán, la zona de cumbre se cierra incluso con pocas horas de aviso: el plan B de los cráteres Silvestri y las bodegas hace falta de verdad.*
 
-**En la práctica:** paquete de teleférico, todoterreno y guía desde unos 80-95 euros por persona, excursiones más altas a precio mayor · botas, cortavientos y gorro incluso en verano · del Rifugio Sapienza a las bodegas de la vertiente norte, una hora de carretera.
+**En la práctica:** paquete de teleférico, todoterreno y guía desde unos 80-95 € por persona, excursiones más altas a precio mayor · botas, cortavientos y gorro incluso en verano · del Rifugio Sapienza a las bodegas de la vertiente norte, una hora de carretera.
 
 ### Día 3 — Taormina y las Gargantas del Alcántara
 Estuvimos en **Taormina** a primera hora, antes de los autocares: el teatro greco-romano asomado al Etna y al mar es uno de los escenarios más espectaculares del Mediterráneo. En temporada alta el pueblo está saturado y tiene precios de otra región. Desde Catania se llega en una hora aproximadamente; el coche se deja en los aparcamientos de varias plantas en las afueras del centro, desde donde se sube en lanzadera o a pie. Después del teatro se recorre el **Corso Umberto** hasta la Piazza IX Aprile, la terraza sobre el mar.
 
 Por la tarde fuimos a las **Gargantas del Alcántara**, el cañón de basalto columnar excavado por el río en una colada de lava: se baja y se camina en el agua, helada incluso en agosto. Las gargantas están a una media hora de Taormina. Hay varios accesos, de pago y con servicios distintos, y en algunos se alquilan botas impermeables. *El nivel del agua cambia con la estación y las lluvias: en primavera la corriente puede ser fuerte, y conviene informarse en la entrada antes de bajar al río.* Quien prefiere el mar baja en cambio a **Isola Bella**, el islote bajo Taormina unido a la orilla por una lengua de arena.
 
-**En la práctica:** Teatro Antiguo de Taormina unos 14 euros, abierto todo el día, en verano con espectáculos nocturnos · Gargantas del Alcántara con accesos de pago, escarpines o botas · para comer, en Taormina los precios bajan al alejarse del Corso.
+**En la práctica:** Teatro Antiguo de Taormina unos 14 €, abierto todo el día, en verano con espectáculos nocturnos · Gargantas del Alcántara con accesos de pago, escarpines o botas · para comer, en Taormina los precios bajan al alejarse del Corso.
 
 ### Día 4 — Siracusa y Ortigia
 Nos trasladamos a **Siracusa** y nos instalamos en **Ortigia**, la isla que es el casco histórico. Desde Taormina o Catania se llega por autopista en una hora o poco más. Ortigia es casi toda zona de tráfico limitado: el coche se deja en el aparcamiento de varias plantas a la entrada de la isla, y desde allí se va a pie.
@@ -89,7 +89,7 @@ Desde la costa sudoriental se sube hacia el interior en una hora y media o dos, 
 
 Luego subimos a **Enna**, en el centro geográfico exacto de Sicilia, a 900 metros, con la vista que en los días despejados llega hasta el Etna. En lo alto del pueblo está el **Castello di Lombardia**, y un poco más allá la **Rocca di Cerere**, el espolón donde se alzaba el templo de la diosa. *Enna suele estar entre la niebla incluso cuando en la llanura hace sol: la vista se aprecia mejor a última hora de la tarde.*
 
-**En la práctica:** Villa Romana del Casale unos 14 euros, abierta todo el día, en verano con aperturas nocturnas · Piazza Armerina-Enna unos 40 minutos · para dormir, Enna o un agroturismo del interior.
+**En la práctica:** Villa Romana del Casale unos 14 €, abierta todo el día, en verano con aperturas nocturnas · Piazza Armerina-Enna unos 40 minutos · para dormir, Enna o un agroturismo del interior.
 
 ### Día 8 — Agrigento
 Nos trasladamos a **Agrigento** para el **Valle de los Templos**. Desde Enna hay una hora y media de carretera. El Valle tiene dos entradas principales, una al este cerca del Templo de Juno y otra al oeste; quien va en coche puede entrar por un lado y volver con la lanzadera interna o en taxi.
@@ -98,7 +98,7 @@ Nos trasladamos a **Agrigento** para el **Valle de los Templos**. Desde Enna hay
 
 Que no se salten el **Museo Arqueológico** con el telamón y el **Jardín de la Kolymbethra**, un jardín de agrios dentro del área arqueológica, gestionado por el FAI, donde casi no entra nadie. El museo está fuera del Valle, a pocos minutos en coche, y conserva uno de los gigantes de piedra de casi ocho metros que sostenían el Templo de Zeus. *El jardín tiene entrada aparte, y solo se entra después de haber pagado el Valle.*
 
-**En la práctica:** Valle de los Templos abierto de la mañana a la noche, con aperturas nocturnas en verano · entrada combinada Valle y Kolymbethra en torno a 23 euros · Museo Arqueológico con entrada propia · para dormir, una sola noche en Agrigento basta.
+**En la práctica:** Valle de los Templos abierto de la mañana a la noche, con aperturas nocturnas en verano · entrada combinada Valle y Kolymbethra en torno a 23 € · Museo Arqueológico con entrada propia · para dormir, una sola noche en Agrigento basta.
 
 ### Día 9 — Scala dei Turchi y regreso hacia Catania
 Por la mañana fuimos a la **Scala dei Turchi**, el acantilado de marga blanca, **con la advertencia de que el acceso se ha regulado y en ciertos periodos se ha prohibido** por la erosión: antes de ir conviene comprobar cómo está la situación. Está a una veintena de minutos de Agrigento, en el municipio de Realmonte. En los últimos años el recorrido sobre el acantilado se ha abierto con aforo limitado y de pago, con entrada que se compra in situ; cuando está cerrado, el acantilado se mira desde la playa de abajo. *La marga es frágil y resbaladiza cuando está mojada: la luz de primera hora es la mejor, y también el momento con menos gente.*

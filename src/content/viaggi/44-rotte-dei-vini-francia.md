@@ -24,7 +24,7 @@ Abbiamo cominciato dall'Alsazia, la più accessibile delle rotte del vino. Il pr
 
 Poi si esce a piedi nel centro: la **Petite Venise** con le case a graticcio colorate lungo il canale della Lauch, il quartiere dei conciatori, la Maison Pfister e la vecchia dogana del Koïfhus. Colmar è anche la città di Bartholdi, lo scultore della Statua della Libertà, che ha qui la sua casa museo. Il tardo pomeriggio è il momento migliore per la Petite Venise, quando la luce scende sulle facciate e i gruppi sono già ripartiti.
 
-**In pratica:** Unterlinden aperto dalle 9 alle 18, chiuso il martedì, biglietto circa 14 euro · il centro storico si gira solo a piedi, l'auto va lasciata nei parcheggi fuori · per dormire Colmar o un villaggio della Route des Vins, comodi per i giorni successivi.
+**In pratica:** Unterlinden aperto dalle 9 alle 18, chiuso il martedì, biglietto circa 14 € · il centro storico si gira solo a piedi, l'auto va lasciata nei parcheggi fuori · per dormire Colmar o un villaggio della Route des Vins, comodi per i giorni successivi.
 
 ### Giorno 2 — Riquewihr e Eguisheim in bicicletta
 Abbiamo noleggiato una bici e girato tra i villaggi della **Route des Vins**: Riquewihr, Eguisheim e Kaysersberg. Qui le cantine ricevono spesso senza appuntamento e le degustazioni sono gratuite o quasi: si entra e si chiacchiera. I villaggi sono a pochi chilometri l'uno dall'altro, collegati da piste ciclabili e strade secondarie tra le vigne, ma le salite verso le colline si sentono: una bici elettrica rende la giornata molto più facile.
@@ -66,7 +66,7 @@ Siamo andati a **Épernay**, dove le gallerie corrono sotto la strada stessa. Qu
 
 Le visite si prenotano sul sito delle maison, quelle più piccole spesso ricevono in modo più informale. Il pomeriggio si sale tra le vigne verso **Hautvillers**, il paese dell'abbazia di Dom Pérignon, con una vista su tutta la valle della Marna. Al ritorno ci si può fermare da un piccolo vigneron, che spesso riceve anche senza prenotazione. *Nelle colline del vigneto le strade sono strette e poco segnalate: un'app di navigazione aiuta più delle mappe stradali.*
 
-**In pratica:** da Moët & Chandon la visita base costa circa 62 euro e va prenotata · l'Avenue de Champagne si percorre a piedi in un'ora con calma · chi guida tra le maison sputa in degustazione, chi no prende il treno tra Reims ed Épernay.
+**In pratica:** da Moët & Chandon la visita base costa circa 62 € e va prenotata · l'Avenue de Champagne si percorre a piedi in un'ora con calma · chi guida tra le maison sputa in degustazione, chi no prende il treno tra Reims ed Épernay.
 
 ### Giorno 8 — Rientro
 Da Reims a Parigi c'è meno di un'ora di treno. La Borgogna resta per il prossimo viaggio: è più difficile e più cara, con un'accoglienza opposta a quella alsaziana. L'ultima mattina è libera per quello che è rimasto fuori: una maison più piccola, un giro al mercato coperto del **Boulingrin** a Reims, o una sosta al **Faro di Verzenay**, tra le vigne della Montagne de Reims, con il museo della vite e una vista ampia sui filari.

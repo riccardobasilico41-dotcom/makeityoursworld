@@ -237,10 +237,10 @@ export const cinaPaesaggiMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli intercontinentali', valore: undefined },
-    { etichetta: 'Tre voli interni', valore: 'indicativamente 60-120€ ciascuno prenotando in anticipo' },
-    { etichetta: 'Alloggi', valore: '40€ a notte nelle città di provincia, meno nelle guesthouse del trek' },
+    { etichetta: 'Tre voli interni', valore: 'indicativamente 60-120 € ciascuno prenotando in anticipo' },
+    { etichetta: 'Alloggi', valore: '40 € a notte nelle città di provincia, meno nelle guesthouse del trek' },
     { etichetta: 'Ingressi ai parchi', valore: 'Zhangjiajie ~236 yuan + funivie, Tianmen Shan 250-280, Yulong Xueshan ~240 complessivi, gola ~65' },
     { etichetta: 'Spettacoli', valore: 'Impression Lijiang 190-280 yuan, Impression Liu Sanjie a parte' },
-    { etichetta: 'Pasti', valore: 'sotto i 10€ quasi ovunque, pasti inclusi nelle guesthouse del trek' },
+    { etichetta: 'Pasti', valore: 'sotto i 10 € quasi ovunque, pasti inclusi nelle guesthouse del trek' },
   ],
 }

@@ -145,7 +145,7 @@ export const esperienzeSriLanka: Esperienza[] = [
     percheFarla: 'C\'è una possibilità concreta di vedere un leopardo selvatico, e la fauna del parco è comunque ricchissima.',
     durata: 'circa 4 ore',
     periodo: 'la mattina presto, prima dell\'alba',
-    costo: '12.000-16.000 LKR a jeep, più l\'ingresso (27-30€ a persona) e la mancia',
+    costo: '12.000-16.000 LKR a jeep, più l\'ingresso (27-30 € a persona) e la mancia',
     comePrenotare: 'tramite il DMC locale del viaggio',
     cosaPortare: 'macchina fotografica con zoom, cappello, acqua, colazione al sacco',
     perChiEAdatta: 'chiunque',

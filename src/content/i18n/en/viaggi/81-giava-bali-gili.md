@@ -19,8 +19,8 @@ I do Bali away from the south. I sleep inland, in Munduk and Ubud, and only head
 
 ## Scheda pratica
 - **When to go:** May to September for Java, when the sky at sunrise is clearest. In Bali and the Gilis the dry season runs from April to October.
-- **Documents:** passport valid for at least 6 months. Apply for the visa online as an **e-VOA** at evisa.imigrasi.go.id, at least a week ahead (about 500,000 IDR, roughly 35€). Since October 2025 you also need the **All Indonesia Arrival Card**, an electronic form to fill out before every entry.
-- **Currency and payments:** Indonesian rupiah (IDR), roughly 1€ = 17,000-18,000 IDR. In Yogyakarta and Bali cards work almost everywhere. At Bromo, Ijen and the Gilis it's better to have cash.
+- **Documents:** passport valid for at least 6 months. Apply for the visa online as an **e-VOA** at evisa.imigrasi.go.id, at least a week ahead (about 500,000 IDR, roughly €35). Since October 2025 you also need the **All Indonesia Arrival Card**, an electronic form to fill out before every entry.
+- **Currency and payments:** Indonesian rupiah (IDR), roughly €1 = 17,000-18,000 IDR. In Yogyakarta and Bali cards work almost everywhere. At Bromo, Ijen and the Gilis it's better to have cash.
 - **Time zone:** Java is on WIB (UTC+7), Bali and the Gilis on WITA (UTC+8). You gain an hour on the ferry to Bali.
 - **Getting around:** domestic flight to reach Yogyakarta, train to Probolinggo, minivan and jeep for Bromo, Ketapang-Gilimanuk ferry, private driver or scooter in Bali, fast boat to the Gilis. In Yogyakarta and Bali, Grab and Gojek are very handy. There are no motor vehicles on the Gilis.
 - **Scooter or driver:** a scooter costs about IDR 60,000-100,000 a day, but only ride one if you already have real experience, because traffic is dense and the roads are narrow. A private driver costs more (roughly 300,000-600,000 IDR per leg) and takes all the worry away.
@@ -97,7 +97,7 @@ If you want a challenge, climb **Gunung Batur** for sunrise, leaving in the nigh
 ### Day 10 — Sidemen and the Gunung Agung valley
 Day trip to **Sidemen**, at the foot of Gunung Agung. The terraces are less touristy than Tegalalang and the tour buses hardly ever come. You walk among the rice fields, pass through the villages where **songket** is woven with gold and silver threads, and stop at a warung with a view of the volcano. Gunung Agung, Bali's highest and most sacred volcano, is clearest in the morning, before the clouds cover it.
 
-From Ubud it's 1h15-1h30 by road. With a driver, a round trip costs roughly 350,000 IDR (about 20€). On the way back you can have the driver stop at **Tirta Gangga**, the water garden of the old king of Karangasem, or at **Klungkung**, with its hall of justice and painted ceilings. *If you want to walk the Sidemen rice fields, it's worth taking a village guide for a couple of hours: the paths aren't marked and cross private land.* Sidemen is also a quiet place to spend a night, if the schedule allows.
+From Ubud it's 1h15-1h30 by road. With a driver, a round trip costs roughly 350,000 IDR (about €20). On the way back you can have the driver stop at **Tirta Gangga**, the water garden of the old king of Karangasem, or at **Klungkung**, with its hall of justice and painted ceilings. *If you want to walk the Sidemen rice fields, it's worth taking a village guide for a couple of hours: the paths aren't marked and cross private land.* Sidemen is also a quiet place to spend a night, if the schedule allows.
 
 **In practice:** driver from Ubud about 350,000 IDR round trip, more if you keep him all day · Tirta Gangga and Klungkung with small entry tickets · temples require a sarong and sash, often lent at the entrance.
 

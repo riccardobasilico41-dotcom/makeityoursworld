@@ -30,7 +30,7 @@ export const costieraEIsoleMeta: TripMeta = {
   criticita: [
     'La statale amalfitana d\'estate è un ingorgo continuo: chi arriva in auto in agosto passa la vacanza in coda',
     'Con mare mosso le corse dei traghetti saltano: serve sempre un piano B via terra',
-    'Capri, Ischia e Procida hanno limitazioni stagionali allo sbarco dei veicoli, da verificare ogni anno',
+    'Capri, Ischia e Procida hanno limitazioni stagionali allo sbarco dei veicoli, che cambiano ogni anno',
     'L\'accesso alla Grotta Azzurra dipende ogni giorno dalla marea e dallo stato del mare',
     'Gli stati di accesso di Via Krupp, Valle delle Ferriere, Vivara e Grotta dello Smeraldo cambiano',
     'Questa non è una vacanza di mare piatta: si misura in scalini, non in chilometri',

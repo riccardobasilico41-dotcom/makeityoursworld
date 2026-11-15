@@ -46,7 +46,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       '**da fine giugno a metà settembre**, quando i rifugi sono aperti; prima e dopo gran parte della rete è chiusa e certi sentieri alti hanno ancora neve. Luglio e agosto sono i mesi più affollati e più cari. **Settembre è il mese migliore**: meno gente, aria limpida, bei colori e rifugi aperti fino a fine mese. A giugno i nevai residui sui passi alti sono una variabile seria.',
     costi:
-      "Mezza pensione in rifugio indicativamente 60-80€ a persona, con sconti per i soci CAI e delle associazioni alpinistiche affiliate: la tessera si ripaga in tre notti. **Pedaggio per le Tre Cime attorno ai 40€ per auto** (valido 12 ore, con prenotazione obbligatoria), funivie 15-30€ a tratta, noleggio del kit da ferrata 15-25€ al giorno. Budget indicativo al giorno a persona, in doppia: **economico 90-120 €** (rifugi e agriturismi, pranzi in malga), **medio 160-220 €** (hotel di valle e una funivia al giorno), **alto da 300 €** (hotel con spa a Cortina o in Val Gardena).",
+      "Mezza pensione in rifugio indicativamente 60-80 € a persona, con sconti per i soci CAI e delle associazioni alpinistiche affiliate: la tessera si ripaga in tre notti. **Pedaggio per le Tre Cime attorno ai 40 € per auto** (valido 12 ore, con prenotazione obbligatoria), funivie 15-30 € a tratta, noleggio del kit da ferrata 15-25 € al giorno. Budget indicativo al giorno a persona, in doppia: **economico 90-120 €** (rifugi e agriturismi, pranzi in malga), **medio 160-220 €** (hotel di valle e una funivia al giorno), **alto da 300 €** (hotel con spa a Cortina o in Val Gardena).",
     erroriDaEvitare: [
       'Presentarsi alle Tre Cime o a Braies senza prenotazione: dal 2026 la strada delle Tre Cime richiede prenotazione online obbligatoria e Braies contingenta l\'accesso in auto tra le 9 e le 16 in alta stagione. Chi arriva senza torna indietro',
       'Prenotare i rifugi a giugno per agosto: i posti si esauriscono da gennaio-febbraio, e per le camere private anche prima',
@@ -153,7 +153,7 @@ export const destinazioniItalia: Destinazione[] = [
           {
             nome: 'Rifugio in quota',
             sintesi: 'Camerate comuni o camere piccole a duemila-tremila metri, mezza pensione, cena a orario fisso, silenzio dalle 22.',
-            costo: 'mezza pensione indicativamente 60-80€, con sconti soci CAI che rendono la tessera conveniente in tre notti',
+            costo: 'mezza pensione indicativamente 60-80 €, con sconti soci CAI che rendono la tessera conveniente in tre notti',
             durata: 'da una notte a un\'Alta Via intera',
             pro: [
               'Si è già in quota all\'alba e al tramonto, che sono le due ore per cui vale la pena essere lì',
@@ -210,7 +210,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Cortina o da Dobbiaco si arriva ad Auronzo o a Misurina, poi si sale in auto sulla strada a pedaggio fino al Rifugio Auronzo (2.320 m), dove parte il giro. In alternativa c'è la navetta da Misurina.",
         "quando": "Dalla tarda primavera all'autunno, quando la strada è aperta: le date si controllano sul portale di prenotazione. Arrivare all'apertura o nel tardo pomeriggio: nelle ore centrali di luglio e agosto il sentiero è una fila continua.",
         "tempo": "3-4 ore per il giro completo (circa 10 km)",
-        "costo": "40 euro per auto, 2026; la prenotazione online è obbligatoria e il ticket vale 12 ore dall'orario scelto. La navetta da Misurina al Rifugio Auronzo costa 10 euro a persona al giorno",
+        "costo": "40 € per auto, 2026; la prenotazione online è obbligatoria e il ticket vale 12 ore dall'orario scelto. La navetta da Misurina al Rifugio Auronzo costa 10 € a persona al giorno",
         "lat": 46.6122,
         "lng": 12.2961,
         "consiglio": "Ho fatto il giro in agosto e sembrava una fila indiana: a settembre si cammina con un terzo della gente. Se si parte presto, conviene girare in senso orario e salire al Locatelli con la luce laterale del mattino."
@@ -285,7 +285,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Marmolada e Lago di Fedaia",
         "testo": "La cima più alta delle Dolomiti (3.343 m) con il suo ghiacciaio, che si ritira ogni anno. Nel luglio 2022 il crollo di una parte del ghiacciaio ha causato undici morti: oggi la salita alla cima richiede guida e attenzione al meteo.",
         "come": "Dal Passo Fedaia o da Malga Ciapela, con la funivia fino a Punta Rocca. Il lago di Fedaia, sotto, si gira in un'ora.",
-        "quando": "Da giugno a settembre; le condizioni del ghiacciaio sono da verificare ogni stagione.",
+        "quando": "Da giugno a settembre; le condizioni del ghiacciaio cambiano ogni stagione.",
         "tempo": "mezza giornata con funivia; il giro del lago in un'ora",
         "lat": 46.45971,
         "lng": 11.8691,
@@ -530,7 +530,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       'La stagione va da inizio dicembre a metà aprile, ma i periodi sono molto diversi. **Natale e Capodanno** hanno i prezzi più alti dell\'anno e le piste più affollate. **Gennaio dopo l\'Epifania** è il momento migliore per rapporto qualità-prezzo: neve buona, poca gente, prezzi bassi. **Febbraio** è il mese con la neve più affidabile ma coincide con le settimane bianche scolastiche. **Marzo** è il mese migliore per chi scia bene: giornate lunghe, sole, neve ancora buona in quota e prezzi in calo. Ad aprile si scia solo in alta quota e sui ghiacciai.',
     costi:
-      'Lo skipass è la voce principale e varia molto. Nel Dolomiti Superski il giornaliero adulto 2026/27 costa 89 euro in alta stagione e 80 in stagione ordinaria, lo stagionale in prevendita 990; a Cervinia 64, nella Vialattea da 54, a Livigno da 66. Poi ci sono noleggio (25-45€ al giorno per un set completo), lezioni e pranzo in quota. **Le tariffe scendono parecchio prenotando skipass e alloggio in pacchetto e fuori dai periodi di punta.** Budget: circa 150-180 € al giorno a persona con appartamento condiviso, skipass e noleggio. Medio: 250-300 € con hotel in mezza pensione e pranzo in rifugio. Alto: oltre 450 € con hotel ski-in/ski-out e maestro privato.',
+      'Lo skipass è la voce principale e varia molto. Nel Dolomiti Superski il giornaliero adulto 2026/27 costa 89 € in alta stagione e 80 in stagione ordinaria, lo stagionale in prevendita 990; a Cervinia 64, nella Vialattea da 54, a Livigno da 66. Poi ci sono noleggio (25-45 € al giorno per un set completo), lezioni e pranzo in quota. **Le tariffe scendono parecchio prenotando skipass e alloggio in pacchetto e fuori dai periodi di punta.** Budget: circa 150-180 € al giorno a persona con appartamento condiviso, skipass e noleggio. Medio: 250-300 € con hotel in mezza pensione e pranzo in rifugio. Alto: oltre 450 € con hotel ski-in/ski-out e maestro privato.',
     erroriDaEvitare: [
       'Prenotare a Natale o a Capodanno senza sapere che sono le due settimane più care dell\'anno, con differenze anche del quaranta per cento rispetto a gennaio',
       'Scegliere il comprensorio per fama invece che per quota: sotto i 1.800 metri, con gli inverni degli ultimi anni, la neve naturale non è più garantita e si scia su innevamento programmato',
@@ -548,7 +548,7 @@ export const destinazioniItalia: Destinazione[] = [
           {
             nome: 'Dolomiti Superski',
             sintesi: 'Il più grande consorzio sciistico al mondo per estensione servita da un unico skipass: dodici comprensori, oltre 1.200 km di piste, dal Sellaronda alla Marmolada a Cortina.',
-            costo: 'giornaliero attorno agli 89€ in alta stagione, stagionale attorno ai 990€',
+            costo: 'giornaliero attorno agli 89 € in alta stagione, stagionale attorno ai 990 €',
             durata: 'una settimana non basta per vederlo tutto',
             pro: [
               'Un\'estensione che non ha confronti: si scia per giorni senza mai ripetere una pista',
@@ -1117,7 +1117,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro A fino a Ottaviano o Cipro, poi a piedi. Meglio prenotare online dal sito ufficiale per saltare la coda in biglietteria.",
         "quando": "Dal lunedì al sabato 8-20, ultimo ingresso alle 18. Chiusi la domenica, tranne l'ultima del mese (9-14, ultimo ingresso alle 12:30), quando l'ingresso è gratuito e c'è una folla enorme. Chiusi anche in alcune festività religiose: vedere il calendario sul sito. Prima fascia del mattino o fine pomeriggio.",
         "tempo": "3-4 ore",
-        "costo": "20 euro intero, 25 euro con la prenotazione online sul sito ufficiale (2026)",
+        "costo": "20 € intero, 25 € con la prenotazione online sul sito ufficiale (2026)",
         "orari": "Lunedì-sabato 8-20, ultimo ingresso alle 18. Domenica chiusi, tranne l'ultima del mese (9-14, gratis).",
         "lat": 41.9065,
         "lng": 12.4536,
@@ -1141,7 +1141,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Pantheon",
         "testo": "Il tempio di tutti gli dèi, rifatto sotto Adriano nel II secolo d.C. La cupola in calcestruzzo non armato è ancora la più grande al mondo del suo genere, con l'oculo aperto al centro da cui entra la luce e anche la pioggia. Dentro sono sepolti Raffaello e i primi re d'Italia.",
         "come": "In centro, tra Piazza Navona e Fontana di Trevi, a piedi. Dal 2023 l'ingresso è a pagamento, con biglietto online o in loco. Durante le funzioni religiose l'accesso è limitato.",
-        "quando": "Tutti i giorni 9-19, ultimo ingresso alle 18:30; la prima domenica del mese l'ingresso è gratuito (sito ufficiale). Mattina presto o sera per avere meno gente; con la pioggia l'oculo crea un'atmosfera particolare.",
+        "quando": "Tutti i giorni 9-19, ultimo ingresso alle 18:30; la prima domenica del mese l'ingresso è gratuito. Mattina presto o sera per avere meno gente; con la pioggia l'oculo crea un'atmosfera particolare.",
         "tempo": "30-45 minuti",
         "costo": "7 € (dal 1 luglio 2026); gratis la prima domenica del mese",
         "orari": "Tutti i giorni 9-19, ultimo ingresso alle 18:30.",
@@ -1511,7 +1511,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi da Piazza della Signoria. L'ingresso è su prenotazione: la fila senza biglietto è lunga anche in bassa stagione. La visita è lineare e non c'è una scorciatoia: scegliere prima le sale.",
         "quando": "Da martedì a domenica 8:15-18:30, ultimo ingresso alle 17:30; chiuso il lunedì, il 1 gennaio e il 25 dicembre. Prima fascia del mattino o tardo pomeriggio.",
         "tempo": "3 ore",
-        "costo": "25 euro il giorno stesso, 29 euro prenotando in anticipo (sito ufficiale, 2026)",
+        "costo": "25 € il giorno stesso, 29 € prenotando in anticipo (2026)",
         "orari": "Martedì-domenica 8:15-18:30. Chiusi il lunedì.",
         "lat": 43.7678,
         "lng": 11.2553,
@@ -1537,7 +1537,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dal Ponte Vecchio. I musei e il giardino si visitano con biglietti separati o cumulativi: controllare sul sito.",
         "quando": "Chiuso il lunedì. D'estate il giardino è caldo e senza ombra in molti punti: andare la mattina presto.",
         "tempo": "mezza giornata",
-        "costo": "Palazzo Pitti 16 € il giorno stesso, 19 € prenotando; Pitti e Boboli 22 € (sito ufficiale, 2026)",
+        "costo": "Palazzo Pitti 16 € il giorno stesso, 19 € prenotando; Pitti e Boboli 22 € (2026)",
         "orari": "Palazzo Pitti martedì-domenica 8:15-18:30, chiuso il lunedì. Boboli dalle 8:15 al tramonto, chiuso il primo e l'ultimo lunedì del mese.",
         "lat": 43.7651,
         "lng": 11.25,
@@ -1845,7 +1845,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       'da novembre a febbraio, Carnevale escluso, Venezia torna a essere una città. Le giornate sono corte e umide, c\'è la possibilità di acqua alta (che oggi il MOSE limita ma non annulla), ma in cambio si hanno i campielli tutti per sé. Aprile-giugno e settembre-ottobre sono i mesi più belli e i più saturi.',
     costi:
-      '**Il contributo di accesso** si applica a chi entra in giornata senza pernottare, in un numero definito di giornate di alta stagione: nel 2026 si è pagato in 60 giornate tra aprile e luglio, 5 euro prenotando con almeno quattro giorni d\'anticipo e 10 euro sotto quella soglia. Chi pernotta in città ne è esente ma deve comunque registrarsi. Il calendario cambia ogni anno: conviene controllarlo prima di partire. Il pass vaporetto a tempo è quasi sempre conveniente; la gondola ha tariffe fissate dal Comune ed è comunque cara. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 80-100 € (dormendo a Mestre), medio 150-200 €, alto oltre 300 €.',
+      '**Il contributo di accesso** si applica a chi entra in giornata senza pernottare, in un numero definito di giornate di alta stagione: nel 2026 si è pagato in 60 giornate tra aprile e luglio, 5 € prenotando con almeno quattro giorni d\'anticipo e 10 € sotto quella soglia. Chi pernotta in città ne è esente ma deve comunque registrarsi. Il calendario cambia ogni anno: conviene controllarlo prima di partire. Il pass vaporetto a tempo è quasi sempre conveniente; la gondola ha tariffe fissate dal Comune ed è comunque cara. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 80-100 € (dormendo a Mestre), medio 150-200 €, alto oltre 300 €.',
     erroriDaEvitare: [
       'Venire in giornata in alta stagione senza controllare il contributo di accesso e senza prenotarlo in anticipo, pagando il doppio',
       'Fare Venezia tra le dieci e le cinque e giudicarla: in quelle ore, sugli assi principali, è una folla compatta. Alle sette del mattino la stessa calle è vuota',
@@ -1875,11 +1875,11 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Accanto alla Basilica, sul bacino di San Marco. Il biglietto standard comprende anche i musei di Piazza San Marco.",
         "quando": "Aperto tutti i giorni: 9-19 da aprile a ottobre, 9-18 da novembre a marzo, ultimo ingresso un'ora prima della chiusura. Prima mattina o fine pomeriggio per evitare i gruppi.",
         "tempo": "2-3 ore",
-        "costo": "35 euro intero con i Musei di Piazza San Marco, 30 euro comprando online più di 30 giorni prima (2026)",
+        "costo": "35 € intero con i Musei di Piazza San Marco, 30 € comprando online più di 30 giorni prima (2026)",
         "lat": 45.4337,
         "lng": 12.3404,
         "url": "https://palazzoducale.visitmuve.it/",
-        "consiglio": "Comprare online con più di un mese di anticipo fa risparmiare 5 euro e permette di saltare la coda. Se si ha tempo, gli Itinerari Segreti, con visita guidata, mostrano le stanze che il percorso normale non tocca."
+        "consiglio": "Comprare online con più di un mese di anticipo fa risparmiare 5 € e permette di saltare la coda. Se si ha tempo, gli Itinerari Segreti, con visita guidata, mostrano le stanze che il percorso normale non tocca."
       },
       {
         "nome": "Scuola Grande di San Rocco",
@@ -2254,7 +2254,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Circumvesuviana linea Napoli-Sorrento fino a Pompei Scavi-Villa dei Misteri, da Napoli Garibaldi. Si può anche arrivare con treno regionale a Pompei. Audioguida o guida consigliate.",
         "quando": "All'apertura o nel tardo pomeriggio d'estate; non a mezzogiorno, senza ombra. Aperto 9-19 dal 16 marzo al 14 ottobre (ultimo ingresso 17:30) e 9-17 nel resto dell'anno (ultimo ingresso 15:30). Chiuso il 25 dicembre e il 1 gennaio, salvo aperture straordinarie. Biglietti nominativi, tetto di 20.000 ingressi al giorno e fasce orarie in alta stagione.",
         "tempo": "3-4 ore",
-        "costo": "Pompei Express 20 euro; Pompei+, con le ville suburbane e Boscoreale, 25 euro (dal 12 gennaio 2026). Vendita online solo su Vivaticket, oppure in biglietteria",
+        "costo": "Pompei Express 20 €; Pompei+, con le ville suburbane e Boscoreale, 25 € (dal 12 gennaio 2026). Vendita online solo su Vivaticket, oppure in biglietteria",
         "lat": 40.749,
         "lng": 14.4848,
         "url": "https://pompeiisites.org/",
@@ -2548,7 +2548,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       'aprile-giugno e settembre-ottobre. L\'inverno è freddo e nebbioso ma la città funziona; l\'estate è afosa e ad agosto Milano si svuota, con molti locali chiusi. Durante il Salone del Mobile (aprile) e le settimane della moda i prezzi degli alloggi triplicano e trovare posto è difficile.',
     costi:
-      "Per gli alloggi è la città più cara d'Italia. Duomo e terrazze hanno un biglietto cumulativo; il Cenacolo costa 15 euro intero (sito ufficiale, 2026), il problema è trovare posto. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 80-110 €, medio 150-200 €, alto oltre 300 €.",
+      "Per gli alloggi è la città più cara d'Italia. Duomo e terrazze hanno un biglietto cumulativo; il Cenacolo costa 15 € intero (2026), il problema è trovare posto. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 80-110 €, medio 150-200 €, alto oltre 300 €.",
     erroriDaEvitare: [
       'Provare a vedere il Cenacolo senza prenotazione: **non si entra**, le aperture delle prenotazioni sono trimestrali e si esauriscono in poco tempo. È l\'errore più comune dei visitatori a Milano',
       'Entrare in centro in auto senza conoscere Area B e Area C',
@@ -2576,7 +2576,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro M1 Conciliazione o M2 Cadorna, poi pochi minuti a piedi. Visita da soli, a orario fissato sul biglietto.",
         "quando": "Da martedì a domenica 8:15-19, ultimo ingresso alle 18:45; chiuso il lunedì, il 1 gennaio e il 25 dicembre. Prenotazione obbligatoria per tutti i biglietti, anche gratuiti: senza non si entra. Il biglietto si ritira alla biglietteria accanto all'ingresso almeno 30 minuti prima del turno, con un documento.",
         "tempo": "15 minuti dentro, un'ora con attesa e controlli",
-        "costo": "15 euro intero, 2 euro per i 18-25 anni, gratis sotto i 18 (sito ufficiale, 2026)",
+        "costo": "15 € intero, 2 € per i 18-25 anni, gratis sotto i 18 (2026)",
         "orari": "Da martedì a domenica 8:15-19, ultimo ingresso alle 18:45. Chiuso il lunedì, il 1° gennaio e il 25 dicembre.",
         "lat": 45.46583,
         "lng": 9.17111,
@@ -2589,7 +2589,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Metro M2 Lanza o M3 Montenapoleone, poi a piedi tra le vie di Brera. Visita da soli.",
         "quando": "Chiusa il lunedì; dal martedì alla domenica 8:30-19:15, con prenotazione richiesta. Il pomeriggio è più tranquillo. Il quartiere si gira bene la sera.",
         "tempo": "2 ore",
-        "costo": "20 euro intero, biglietto Grande Brera con Palazzo Citterio (2026)",
+        "costo": "20 € intero, biglietto Grande Brera con Palazzo Citterio (2026)",
         "orari": "Da martedì a domenica 8:30-19:15. Chiusa il lunedì.",
         "lat": 45.47196,
         "lng": 9.18782,
@@ -2615,7 +2615,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A pochi passi dal Duomo. Il museo della Scala è nel Largo Ghiringhelli.",
         "quando": "Galleria sempre aperta. Museo della Scala con orari propri: controllare prima. Sera per le vetrine illuminate.",
         "tempo": "1 ora per galleria e piazza, un'ora in più col museo",
-        "costo": "Galleria gratuita; Museo Teatrale alla Scala 12 € intero, più la commissione online (sito ufficiale, 2026)",
+        "costo": "Galleria gratuita; Museo Teatrale alla Scala 12 € intero, più la commissione online (2026)",
         "orari": "Galleria sempre aperta. Museo della Scala tutti i giorni 9:30-17:30, ultimo ingresso alle 17; chiuso il 7, 25 e 26 dicembre, il 1° gennaio, a Pasqua, il 1° maggio e il 15 agosto.",
         "lat": 45.46561,
         "lng": 9.19002,
@@ -2640,7 +2640,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A cinque minuti a piedi dal Duomo, in Piazza Pio XI. Biglietto unico per pinacoteca e cripta.",
         "quando": "Qualsiasi giorno tranne il mercoledì; il primo pomeriggio è il momento più tranquillo.",
         "tempo": "1 ora e mezza",
-        "costo": "20 € intero, pinacoteca e cripta (sito ufficiale, 2026)",
+        "costo": "20 € intero, pinacoteca e cripta (2026)",
         "orari": "Tutti i giorni 10-18, biglietteria fino alle 17:15. Chiusa il mercoledì.",
         "lat": 45.46378,
         "lng": 9.18595,
@@ -2979,7 +2979,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Palermo: Palazzo dei Normanni e Cappella Palatina",
         "testo": "La Cappella Palatina, dentro il palazzo reale, riunisce struttura normanna, mosaici bizantini e soffitto ligneo di maestranze arabe. Nel palazzo ci sono anche gli appartamenti reali.",
         "come": "A piedi dal centro storico di Palermo, vicino alla Cattedrale, in piazza del Parlamento. Si entra con biglietto a orario; la visita è libera, audioguida facoltativa.",
-        "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso, sito della Fondazione Federico II). Mattina, per la luce sui mosaici. Controllare le chiusure per cerimonie e sedute dell'assemblea regionale.",
+        "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso). Mattina, per la luce sui mosaici. Controllare le chiusure per cerimonie e sedute dell'assemblea regionale.",
         "tempo": "1 ora e mezza",
         "costo": "19 € con il Palazzo Reale, 15,50 € la sola Cappella Palatina (dato 2025-26)",
         "orari": "Cappella Palatina: lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30. Il percorso con il Palazzo Reale non si visita il martedì e il mercoledì.",
@@ -3405,7 +3405,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi dall'Altopiano del Golgo, a Baunei, per un sentiero che scende nella macchia. In barca ci si avvicina, ma lo sbarco è limitato. Serve la prenotazione.",
         "quando": "Mattina presto, quando si cammina al fresco e la cala è ancora vuota. Maggio-giugno e settembre. Prenotare prima di partire: il numero di accessi al giorno è limitato.",
         "tempo": "3-4 ore tra discesa, bagno e risalita",
-        "costo": "contributo di circa 7 € a persona, parcheggio compreso, su prenotazione (app Heart of Sardinia o sito del Comune di Baunei, 2026)",
+        "costo": "contributo di circa 7 € a persona, parcheggio compreso, su prenotazione (2026)",
         "lat": 40.10807,
         "lng": 9.6896,
         "consiglio": "Scarpe da trekking e un litro e mezzo d'acqua a testa: la risalita nel pomeriggio d'estate è dura."
@@ -3481,7 +3481,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Alghero in aereo o in auto. Per la grotta: battello dal porto di Alghero o a piedi dall'Escala del Cabirol, la lunga scalinata scavata nella falesia.",
         "quando": "Mattina. Il battello non parte con mare mosso. Il tramonto da Alghero è bello sui bastioni.",
         "tempo": "Mezza giornata per la grotta, una giornata con Alghero",
-        "costo": "Grotta di Nettuno 18 € intero (sito turistico del Comune di Alghero, 2026); il battello si paga a parte",
+        "costo": "Grotta di Nettuno 18 € intero (2026); il battello si paga a parte",
         "orari": "Tutti i giorni: da Pasqua a fine settembre 9-19, fino al 24 ottobre 9-17, poi 10-15. Dal 12 novembre a Pasqua 10-15, chiusa il giovedì e il 25 dicembre. Gli orari indicano l'ultimo tour.",
         "lat": 40.56485,
         "lng": 8.16014,
@@ -4483,7 +4483,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "domanda": "Quanto si spende per mangiare?",
-        "risposta": "In una trattoria di paese un pasto completo con vino costa di solito tra i 20 e i 30 euro. Spesso non c'è un menu scritto e si chiede cosa c'è."
+        "risposta": "In una trattoria di paese un pasto completo con vino costa di solito tra i 20 e i 30 €. Spesso non c'è un menu scritto e si chiede cosa c'è."
       },
       {
         "domanda": "La Val Grande è adatta a tutti?",
@@ -4538,7 +4538,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       '**settembre e ottobre**, durante la vendemmia: le cantine sono in piena attività, i colori delle vigne cambiano e le fiere sono in calendario. Aprile-giugno è la seconda finestra, con il verde e meno gente. Da novembre a marzo molte piccole cantine riducono le visite, e ad agosto diverse chiudono.',
     costi:
-      'Le degustazioni in cantina costano di solito tra i 15 e i 40 euro a persona a seconda dei vini e dell\'accoglienza, spesso scalati sull\'acquisto. Nelle zone più note (Barolo, Montalcino) le visite guidate delle cantine storiche costano di più; nelle zone emergenti si paga molto meno o nulla. Budget: circa 80-110 € al giorno a persona con agriturismo in doppia, una degustazione e osteria. Medio: 150-200 € con due cantine, pranzo e cena con vino. Alto: oltre 350 € con wine resort, autista e cantine storiche.',
+      'Le degustazioni in cantina costano di solito tra i 15 e i 40 € a persona a seconda dei vini e dell\'accoglienza, spesso scalati sull\'acquisto. Nelle zone più note (Barolo, Montalcino) le visite guidate delle cantine storiche costano di più; nelle zone emergenti si paga molto meno o nulla. Budget: circa 80-110 € al giorno a persona con agriturismo in doppia, una degustazione e osteria. Medio: 150-200 € con due cantine, pranzo e cena con vino. Alto: oltre 350 € con wine resort, autista e cantine storiche.',
     erroriDaEvitare: [
       '**Presentarsi in cantina senza appuntamento**: è l\'errore numero uno. Le cantine sono aziende agricole con orari di lavoro, e quasi tutte ricevono solo su prenotazione, spesso con qualche giorno di anticipo',
       'Programmare più di due o tre cantine al giorno: dopo la terza non si assaggia più niente con attenzione, e la giornata diventa una collezione di timbri',
@@ -4942,7 +4942,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "domanda": "Quanto costa una degustazione?",
-        "risposta": "Di solito tra 20 e 40 euro a persona, spesso scalati se si comprano bottiglie. Le cantine storiche di Barolo e Montalcino costano di più, le zone meno note molto meno."
+        "risposta": "Di solito tra 20 e 40 € a persona, spesso scalati se si comprano bottiglie. Le cantine storiche di Barolo e Montalcino costano di più, le zone meno note molto meno."
       },
       {
         "domanda": "Quando andare?",
@@ -5022,7 +5022,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In pieno centro, a piedi da Piazza Castello o Piazza San Carlo. Il biglietto si compra obbligatoriamente online, a fascia oraria. Audioguida o app per capire i pezzi.",
         "quando": "Aperto tutti i giorni: lunedì 9-14, martedì-venerdì e domenica 9-18:30, sabato 9-20; in alcune giornate ci sono aperture serali straordinarie, sul sito. Mattina presto o sabato sera per evitare la folla. Le Sale Storiche sono chiuse temporaneamente dal 12 dicembre 2025: vedere l'avviso sul sito.",
         "tempo": "3 ore, meglio 4",
-        "costo": "18 euro intero (2026)",
+        "costo": "18 € intero (2026)",
         "orari": "Lunedì 9-14; martedì-venerdì e domenica 9-18:30; sabato 9-20. Aperto tutti i giorni.",
         "lat": 45.06833,
         "lng": 7.68444,
@@ -5035,7 +5035,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In via Montebello, a piedi da Piazza Castello. Biglietto del museo, dell'ascensore o cumulativo, con slot orario.",
         "quando": "Nelle giornate limpide l'ascensore si esaurisce: prenotare. Controllare sul sito eventuali lavori o aperture ridotte.",
         "tempo": "2-3 ore con l'ascensore",
-        "costo": "museo 18 euro, ascensore 9 euro, cumulativo 23 euro (sito ufficiale, 2026); fino all'8 dicembre 2026 il solo museo è ridotto per tutti a 16 euro per l'allestimento di una nuova mostra",
+        "costo": "museo 18 €, ascensore 9 €, cumulativo 23 € (2026); fino all'8 dicembre 2026 il solo museo è ridotto per tutti a 16 € per l'allestimento di una nuova mostra",
         "orari": "Museo e ascensore 9-19, chiusi il martedì. La biglietteria chiude un'ora prima, l'ultima discesa dell'ascensore è dieci minuti prima della chiusura.",
         "lat": 45.06898,
         "lng": 7.69324,
@@ -5048,7 +5048,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In Piazza Castello, ingresso dal cortile. Biglietto unico per tutto il complesso. Si può girare da soli, le sale hanno pannelli chiari.",
         "quando": "Aperti dal giovedì al martedì, 9-19, chiusi il mercoledì. La prima domenica del mese l'ingresso è gratuito senza prenotazione: i biglietti si ritirano solo in biglietteria il giorno stesso.",
         "tempo": "3 ore",
-        "costo": "15 euro intero (sito ufficiale, 2026)",
+        "costo": "15 € intero (2026)",
         "orari": "Dal giovedì al martedì 9-19. Chiusi il mercoledì.",
         "lat": 45.0727,
         "lng": 7.686,
@@ -5061,7 +5061,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "In Piazza Castello, a piedi dal centro. Lo scalone di Juvarra si vede anche solo entrando nell'atrio.",
         "quando": "Mattina o primo pomeriggio. Si abbina ai Musei Reali, dall'altra parte della piazza.",
         "tempo": "1 ora e mezza",
-        "costo": "10 € intero, 5 € il solo giardino (sito ufficiale, 2026)",
+        "costo": "10 € intero, 5 € il solo giardino (2026)",
         "orari": "Lunedì e da mercoledì a domenica 10-18; chiuso il martedì. La biglietteria chiude un'ora prima.",
         "lat": 45.07094,
         "lng": 7.68578,
@@ -5116,7 +5116,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Tranvia storica a dentiera dalla stazione Sassi, raggiungibile con i mezzi GTT dal centro, con partenze ogni ora. Il mercoledì la tranvia è ferma.",
         "quando": "Partenze da Sassi ogni ora dalle 10 alle 18, ultima discesa da Superga alle 18:30; orari aggiornati sul sito GTT. Giornata limpida, meglio il pomeriggio per la luce sulle Alpi.",
         "tempo": "2-3 ore compresa la salita",
-        "costo": "tranvia: 4 euro corsa singola e 6 andata e ritorno nei feriali, 6 e 9 euro il sabato e nei festivi (GTT, 2026)",
+        "costo": "tranvia: 4 € corsa singola e 6 andata e ritorno nei feriali, 6 e 9 € il sabato e nei festivi (2026)",
         "orari": "Tranvia: partenze da Sassi ogni ora dalle 10 alle 18, ultima discesa da Superga alle 18:30. Ferma il mercoledì.",
         "lat": 45.08062,
         "lng": 7.76737,
@@ -5129,7 +5129,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A una decina di chilometri da Torino, raggiungibile in treno, bus o auto: collegamenti sul sito ufficiale. Si consiglia di prenotare l'ingresso a orario.",
         "quando": "Aperta dal martedì alla domenica, chiusa il lunedì; gli orari di Reggia, mostre e giardini cambiano durante l'anno. Giardini e parco restano visitabili anche con tempo incerto, ma le sale vanno viste con una giornata libera.",
         "tempo": "mezza giornata, una giornata con i giardini",
-        "costo": "Reggia e Giardini 18 € intero, solo Giardini 6 € (sito ufficiale, 2026)",
+        "costo": "Reggia e Giardini 18 € intero, solo Giardini 6 € (2026)",
         "orari": "Chiusa il lunedì, tranne i festivi. Reggia: martedì-venerdì 9:30-17, sabato, domenica e festivi 9:30-18:30; Giardini 9:30-17. Ultimo ingresso un'ora prima (orario invernale 2026).",
         "lat": 45.13528,
         "lng": 7.62528,
@@ -5382,7 +5382,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Da Amalfi con bus SITA, o a piedi per la Scala Fenicia (sentiero con molti gradini). Le due ville sono collegate a piedi passando per il centro.",
         "quando": "Villa Rufolo è aperta tutti i giorni, con orario esteso in stagione. Le ore dopo le 17 hanno la luce migliore sul Belvedere. Il festival cambia gli orari di chiusura.",
         "tempo": "mezza giornata",
-        "costo": "Villa Rufolo 8 € intero, biglietto solo in loco (sito ufficiale, 2026); Villa Cimbrone con biglietto separato",
+        "costo": "Villa Rufolo 8 € intero, biglietto solo in loco (2026); Villa Cimbrone con biglietto separato",
         "orari": "Villa Rufolo tutti i giorni 9-17, ultimo ingresso alle 16:30 (orario dal 3 novembre 2026; in stagione si allunga).",
         "lat": 40.64867,
         "lng": 14.61269,
@@ -5820,7 +5820,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "A piedi da Ischia Ponte attraverso il ponte. C'è un ascensore panoramico per salire.",
         "quando": "Aperto tutto l'anno con orari che cambiano; la luce migliore è nel tardo pomeriggio.",
         "tempo": "2-3 ore",
-        "costo": "15 € intero (sito ufficiale, 2026)",
+        "costo": "15 € intero (2026)",
         "orari": "Tutti i giorni dalle 9 al tramonto; l'ultimo biglietto si vende un'ora e mezza prima della chiusura. Chiuso per manutenzione da inizio gennaio a inizio marzo.",
         "lat": 40.73162,
         "lng": 13.96493,
@@ -6430,7 +6430,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Palazzo dei Normanni e Cappella Palatina",
         "testo": "La cappella reale del Dodicesimo secolo: pareti a mosaici d'oro, soffitto ligneo a muqarnas di mano araba e pavimenti di marmo. È una delle chiese più belle d'Italia e fa parte dell'itinerario arabo-normanno, patrimonio UNESCO.",
         "come": "Dal centro si arriva a piedi verso Porta Nuova. Biglietto online sul sito della Fondazione Federico II, ingresso con controlli e file brevi se si va presto.",
-        "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso, sito della Fondazione Federico II). Al mattino, appena apre. Gli orari cambiano con le funzioni e con le sedute dell'assemblea regionale: controllare prima.",
+        "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso). Al mattino, appena apre. Gli orari cambiano con le funzioni e con le sedute dell'assemblea regionale: controllare prima.",
         "tempo": "1 ora e mezza",
         "costo": "Biglietto circa 19 € per Cappella Palatina e Appartamenti Reali",
         "orari": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (ultimo ingresso)",

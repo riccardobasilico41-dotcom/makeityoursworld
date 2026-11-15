@@ -1852,7 +1852,7 @@ export const destinazioniFrancia: Destinazione[] = [
         "come": "En coche desde Tours o Amboise.",
         "quando": "Por la mañana; en otoño los jardines tienen colores más fuertes.",
         "tempo": "2-3 horas",
-        "costo": "19 € con el folleto-guía, 24 € con la audioguía (web oficial, 2026).",
+        "costo": "19 € con el folleto-guía, 24 € con la audioguía (2026).",
         "url": "https://www.chenonceau.com/",
         "consiglio": "Dedicar tiempo a los jardines y las cocinas, no solo a la galería.",
         "orari": "Abierto todos los días del año, con horario que cambia según la temporada: en noviembre 9:30-17 (último acceso 16:30).",

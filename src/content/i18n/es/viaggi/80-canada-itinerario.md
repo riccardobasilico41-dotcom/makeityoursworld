@@ -73,7 +73,7 @@ El barco es la forma de verlas que más nos gustó: el **Voyage to the Falls** d
 
 **En la práctica**
 - Toronto-Niagara Falls: unos 130 km, una hora y media sin tráfico
-- Voyage to the Falls: 47,95 CAD adultos y 32,95 CAD niños de 3 a 12 años, más HST (precios de 2026 recogidos en varias guías; el oficial hay que comprobarlo en niagaracitycruises.com)
+- Voyage to the Falls: 47,95 CAD adultos y 32,95 CAD niños de 3 a 12 años, más HST (2026), entradas en niagaracitycruises.com
 - Journey Behind the Falls: unos 30 CAD más HST en temporada alta
 - Aparcamientos cerca de las cataratas de pago y caros: mejor dejar el coche en el hotel y usar los autobuses lanzadera WEGO
 

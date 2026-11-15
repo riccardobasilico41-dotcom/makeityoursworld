@@ -75,14 +75,14 @@ La última gran etapa nos devolvió a la vertiente francesa, y el macizo volvió
 
 Desde **Trient** se sube entre bosques y pastos hasta el **Col de Balme**, a unos 2.190 metros, la frontera con Francia, donde reaparecen de golpe el Mont Blanc y el valle de Chamonix. La bajada hacia **Le Tour** o Tré-le-Champ es fácil pero larga: mejor no tener prisa. *Quien tenga un día más hace también a pie el tramo desde Champex, por el alpage de Bovine o, solo con tiempo seguro, por la Fenêtre d'Arpette, la variante más dura de la vuelta.*
 
-**En la práctica:** a pie unas cinco o seis horas de Trient a Le Tour · horarios de buses y trenes en sbb.ch, a revisar la noche antes: el bus al Col de la Forclaz solo circula en verano · para acortar la bajada se pueden usar los remontes de Le Tour, cuando están abiertos.
+**En la práctica:** a pie unas cinco o seis horas de Trient a Le Tour · horarios de buses y trenes en sbb.ch, que conviene mirar la noche antes: el bus al Col de la Forclaz solo circula en verano · para acortar la bajada se pueden usar los remontes de Le Tour, cuando están abiertos.
 
 ### Día 9 — Chamonix
 La última etapa cerró el anillo en **Chamonix**. Al final queda esto: el mismo macizo cambia de cara en cada vertiente, vertical y helado en Francia, abierto y amplio en Italia, ordenado en Suiza. El último día sube por la vertiente de las **Aiguilles Rouges**, frente al Mont Blanc. Desde Tré-le-Champ el sendero clásico supera una serie de escaleras y pasarelas metálicas en la roca hasta el **Lac Blanc**, a unos 2.350 metros, donde el agua refleja toda la cordillera.
 
 Desde allí se baja a La Flégère y se llega a Chamonix a pie o en teleférico. Si queda medio día, se guarda para la **Aiguille du Midi**, a 3.842 metros, la subida más espectacular del valle. Si el cielo está despejado conviene subir temprano, antes de que se formen nubes en las cumbres. *Las escaleras no son difíciles, pero quien tenga vértigo puede evitarlas por el sendero que pasa por La Flégère.*
 
-**En la práctica:** seis o siete horas si se baja a pie hasta Chamonix · el Lac Blanc está lleno en las horas centrales: mejor llegar temprano · Aiguille du Midi unos 83 euros ida y vuelta en temporada alta de verano, mejor reservar la subida en línea.
+**En la práctica:** seis o siete horas si se baja a pie hasta Chamonix · el Lac Blanc está lleno en las horas centrales: mejor llegar temprano · Aiguille du Midi unos 83 € ida y vuelta en temporada alta de verano, mejor reservar la subida en línea.
 
 ## Qué ver / qué hacer
 - Las tres vertientes del macizo, cada una con un carácter distinto.

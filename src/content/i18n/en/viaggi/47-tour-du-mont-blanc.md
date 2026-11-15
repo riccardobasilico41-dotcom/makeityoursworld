@@ -82,7 +82,7 @@ The last stage closed the loop in **Chamonix**. In the end this is what stays wi
 
 From there you descend to La Flégère and reach Chamonix on foot or by cable car. If you still have half a day, keep it for the **Aiguille du Midi**, at 3,842 meters, the most spectacular ride in the valley. If the sky is clear, go up early, before clouds form on the peaks. *The ladders are not difficult, but anyone afraid of heights can avoid them on the trail via La Flégère.*
 
-**In practice:** six to seven hours if you walk all the way down to Chamonix · Lac Blanc is crowded in the middle of the day: get there early · Aiguille du Midi about 83 euros return in the summer high season, best booked online.
+**In practice:** six to seven hours if you walk all the way down to Chamonix · Lac Blanc is crowded in the middle of the day: get there early · Aiguille du Midi about €83 return in the summer high season, best booked online.
 
 ## What to see / what to do
 - The three sides of the massif, each with a different character.

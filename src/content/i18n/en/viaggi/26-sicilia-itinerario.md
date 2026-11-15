@@ -60,7 +60,7 @@ We saw the **Neapolis Archaeological Park**, with the Greek theater and the Ear 
 
 In the evening, the Ortigia market and dinner with **sea urchins**, which here are the specialty. *The market stalls work mostly in the morning: anyone who wants to see them in full should come back the next day, before leaving.*
 
-**In practice:** Neapolis with a full ticket or a combined one with the Paolo Orsi Museum, prices to be checked on the park's website · Cathedral with a ticket of about €2-3 · Talete car park at the entrance to Ortigia.
+**In practice:** Neapolis with a full ticket or a combined one with the Paolo Orsi Museum, prices on the park's website · Cathedral with a ticket of about €2-3 · Talete car park at the entrance to Ortigia.
 
 ### Day 5 — Noto, Modica, Scicli
 It's the day of the **Baroque of the Val di Noto**, a UNESCO site: eight cities rebuilt after the earthquake of 1693, all in the same style and at the same moment.
@@ -105,7 +105,7 @@ In the morning we went to the **Scala dei Turchi**, the white marl cliff, **with
 
 Then the return toward Catania, with a stop at **Caltagirone** and its staircase of 142 ceramic steps, if time allows. From Agrigento to Caltagirone it's about two hours. Every step of the **Staircase of Santa Maria del Monte** has its riser decorated with different majolica tiles, and ceramicists' workshops line the climb. From Caltagirone to Catania it's another hour and a quarter or so.
 
-**In practice:** Scala dei Turchi with limited, paid access when open (in 2026 about €6, 20-minute slots), rules to be checked on the Comune di Realmonte website · Agrigento-Catania via Caltagirone about 3 and a half hours without stops · for the last night, Catania or the Etna side, near the airport.
+**In practice:** Scala dei Turchi with limited, paid access when open (in 2026 about €6, 20-minute slots), rules on the Comune di Realmonte website · Agrigento-Catania via Caltagirone about 3 and a half hours without stops · for the last night, Catania or the Etna side, near the airport.
 
 ### Day 10 — Last Morning and Departure
 A last granita with brioche, last purchases (Bronte pistachio, Modica chocolate, Etna wine) and a flight from Catania. Granita is taken at the bar in the morning, almond, pistachio or mulberry depending on the season, and the brioche col tuppo is dipped into it. For shopping, the streets around Via Etnea and the market sell pistachio as cream and chopped, and wine shops ship wine to Italy.

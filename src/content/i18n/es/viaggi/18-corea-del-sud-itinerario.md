@@ -22,7 +22,7 @@ Corea del Sur es el país más fácil de Asia para viajar y uno de los más dif�
 - **Electricidad:** 220V, enchufes de tipo C y F. Los enchufes italianos entran sin adaptador, algo raro en Asia.
 - **Idioma:** el hangul, el alfabeto coreano, se diseñó en el siglo XV para aprenderse rápido, y funciona: un par de horas bastan para descifrar los carteles y los nombres de las paradas, y cambia bastante las cosas. El inglés se enseña a todos pero se habla con vacilación, sobre todo fuera de Seúl.
 - **Jeju:** se llega en avión desde Gimpo o Busan, con decenas de vuelos al día a precios bajísimos. En la isla hace falta **coche de alquiler**, y para alquilarlo hace falta el **carné de conducir internacional**, que hay que tramitar en Italia antes de salir: no es negociable.
-- **Presupuesto orientativo:** KTX Seúl-Busan alrededor de 40€, hotel de buen nivel 60-90€, comidas 6-15€ con los banchan siempre incluidos y repuestos gratis. El café, en cambio, cuesta lo mismo que en Europa: en Corea las cafeterías son lugares de encuentro y se paga la estancia.
+- **Presupuesto orientativo:** KTX Seúl-Busan alrededor de 40 €, hotel de buen nivel 60-90 €, comidas 6-15 € con los banchan siempre incluidos y repuestos gratis. El café, en cambio, cuesta lo mismo que en Europa: en Corea las cafeterías son lugares de encuentro y se paga la estancia.
 - **Números útiles:** policía 112, emergencias 119, y sobre todo **1330**, la Korea Travel Hotline: activa las 24 horas, multilingüe, lo resuelve todo, desde problemas de transporte hasta traducciones por teléfono. Es uno de los mejores servicios turísticos del mundo.
 
 ## Itinerario giorno per giorno

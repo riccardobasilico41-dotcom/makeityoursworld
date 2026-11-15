@@ -47,7 +47,7 @@ export const destinazioniDanimarca: Destinazione[] = [
     periodoMigliore:
       'maggio-settembre per il clima e le giornate lunghe; giugno-agosto è alta stagione, con Tivoli negli orari estivi. Dicembre per i mercatini di Natale, con un\'atmosfera molto diversa e altrettanto bella.',
     costi:
-      "Tivoli: ingresso giardini da circa 20€, biglietto combinato giardini più giostre illimitate fino a circa 66€. Giro in barca sui canali: circa 15-20€ a persona per un'ora. Pasto economico 7-20€, pranzo in caffè 17-27€, cena di fascia media 40-75€ per due. Budget giornaliero a persona, alloggio escluso: basso 50-70 € (bici, Torvehallerne o supermercato, attrazioni gratuite), medio 100-140 € (giro in barca, un museo, cena media), alto oltre 200 €.",
+      "Tivoli: ingresso giardini da circa 20 €, biglietto combinato giardini più giostre illimitate fino a circa 66 €. Giro in barca sui canali: circa 15-20 € a persona per un'ora. Pasto economico 7-20 €, pranzo in caffè 17-27 €, cena di fascia media 40-75 € per due. Budget giornaliero a persona, alloggio escluso: basso 50-70 € (bici, Torvehallerne o supermercato, attrazioni gratuite), medio 100-140 € (giro in barca, un museo, cena media), alto oltre 200 €.",
     erroriDaEvitare: [
       'Camminare o fermarsi su una pista ciclabile senza guardare: sono trafficate quanto le strade e i ciclisti non rallentano per i turisti distratti',
       'Fotografare a Christiania nelle zone segnalate (l\'ex Pusher Street in particolare) o i residenti senza permesso: le regole sono affisse e vengono fatte rispettare',

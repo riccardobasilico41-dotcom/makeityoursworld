@@ -55,7 +55,7 @@ export const esperienzeGiordania: Esperienza[] = [
     percheFarla: "The Monastery is even more massive than the Treasury (45 meters high by 50 wide), and it has to be seen to understand how far Petra extends beyond the Siq.",
     durata: '40-45 minutes of climbing, plus time at the top',
     periodo: 'morning, to avoid the worst heat on the climb',
-    costo: 'included in the Petra admission (Jordan Pass)',
+    costo: 'included in the Petra admission',
     comePrenotare: 'no reservation, you access it on foot from the site',
     cosaPortare: 'hiking shoes, water, a hat',
     perChiEAdatta: 'those with a minimum of fitness: the climb is steep and long',

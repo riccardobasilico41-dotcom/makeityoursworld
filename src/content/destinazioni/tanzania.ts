@@ -41,7 +41,7 @@ export const destinazioniTanzania: Destinazione[] = [
     periodoMigliore:
       "da giugno a ottobre (stagione secca, migrazione nel nord da luglio); da dicembre a marzo nel sud, per le nascite",
     costi:
-      "Ingresso circa 83 $ a persona ogni 24 ore in alta stagione e 71 $ in bassa, IVA inclusa, più la tassa di pernottamento nei campi e nei lodge (circa 59-71 $ a notte); nel campeggio pubblico circa 35 $ (indicativi, da verificare con l'operatore).",
+      "Ingresso circa 83 $ a persona ogni 24 ore in alta stagione e 71 $ in bassa, IVA inclusa, più la tassa di pernottamento nei campi e nei lodge (circa 59-71 $ a notte); nel campeggio pubblico circa 35 $ (indicativi: chiedere conferma all'operatore).",
     erroriDaEvitare: [
       "Andare nella zona sbagliata per il mese: la migrazione si sposta, e d'estate nel sud del parco gli gnu non ci sono",
       'Pianificare un solo giorno: tra andata e ritorno si passa più tempo in auto che a guardare animali',
@@ -192,7 +192,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Si scende per una strada ripida in fuoristrada con guida. Ogni discesa paga una tassa a veicolo.",
         "quando": "Alba: i primi veicoli entrano presto e trovano il cratere più vuoto.",
         "tempo": "Mezza giornata",
-        "costo": "70,80 $ a persona per 24 ore per i non residenti dai 16 anni (23,60 $ dai 5 ai 15), più 295 $ a veicolo per ogni discesa nel cratere (tariffe NCAA, 2026)",
+        "costo": "70,80 $ a persona per 24 ore per i non residenti dai 16 anni (23,60 $ dai 5 ai 15), più 295 $ a veicolo per ogni discesa nel cratere (2026)",
         "url": "https://www.ncaa.go.tz/tariffs/",
         "consiglio": "La tassa del cratere è per veicolo: pesa di più sui gruppi piccoli."
       },
@@ -203,7 +203,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "quando": "Mattina.",
         "tempo": "1 ora",
         "url": "https://www.ncaa.go.tz/tariffs/",
-        "costo": "35,40 $ a persona dai 16 anni, insieme a Shifting Sand (tariffa NCAA, 2026)"
+        "costo": "35,40 $ a persona dai 16 anni, insieme a Shifting Sand (2026)"
       },
       {
         "nome": "Boma Maasai",
@@ -212,7 +212,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "quando": "Mattina.",
         "tempo": "1 ora",
         "consiglio": "Chiedere in anticipo cosa è incluso e quanto va ai villaggi.",
-        "costo": "Ingresso ai boma culturali 20 $ a veicolo (tariffa NCAA, 2026), più l'offerta che chiede il villaggio"
+        "costo": "Ingresso ai boma culturali 20 $ a veicolo (2026), più l'offerta che chiede il villaggio"
       }
     ],
     programmi: [
@@ -294,7 +294,7 @@ export const destinazioniTanzania: Destinazione[] = [
     comeArrivare: 'Da Arusha in fuoristrada: sono i due parchi del circuito nord più vicini alla città.',
     comeSpostarsi: 'In fuoristrada con autista-guida.',
     periodoMigliore: 'da giugno a ottobre, quando gli animali si concentrano attorno all\'acqua',
-    costi: "Ingresso indicativo di circa 50-60 $ a persona ogni 24 ore per ciascun parco (tariffe TANAPA come riportate dagli operatori, da verificare).",
+    costi: "Ingresso indicativo di circa 50-60 $ a persona ogni 24 ore per ciascun parco (tariffe TANAPA indicative: chiedere conferma all'operatore).",
     erroriDaEvitare: [
       'Saltare Tarangire per correre verso il Serengeti: nella stagione secca vale da solo il viaggio',
     ],

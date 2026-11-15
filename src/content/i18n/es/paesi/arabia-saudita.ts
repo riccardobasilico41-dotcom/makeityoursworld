@@ -16,7 +16,7 @@ export const arabiaSaudita: Paese = {
   stileViaggio: ['archeologia', 'deserto', 'montagna', 'paese in trasformazione'],
   scheda: {
     documenti:
-      "Pasaporte con al menos 6 meses de validez restante. Los ciudadanos italianos solicitan el **visado turístico electrónico** en el portal oficial visa.visitsaudi.com: cuesta unos 535 riales (alrededor de 130 euros, con el seguro médico obligatorio incluido), suele llegar en pocas horas o días y vale **un año con entradas múltiples**, con estancias de hasta 90 días cada una. Hay también una vía gratuita: el **visado de escala** para quien vuela con Saudia o flynas, válido 4 días y ligado a la compra del billete. Se explica con detalle en la comparativa de los programas de escala del Golfo.",
+      "Pasaporte con al menos 6 meses de validez restante. Los ciudadanos italianos solicitan el **visado turístico electrónico** en el portal oficial visa.visitsaudi.com: cuesta unos 535 riales (alrededor de 130 €, con el seguro médico obligatorio incluido), suele llegar en pocas horas o días y vale **un año con entradas múltiples**, con estancias de hasta 90 días cada una. Hay también una vía gratuita: el **visado de escala** para quien vuela con Saudia o flynas, válido 4 días y ligado a la compra del billete. Se explica con detalle en la comparativa de los programas de escala del Golfo.",
     valuta: 'Riyal saudí (SAR), vinculado al dólar estadounidense.',
     pagamenti:
       "El país se ha digitalizado deprisa: en las ciudades las tarjetas y el pago sin contacto funcionan en todas partes, también en taxis y en muchas tiendas pequeñas. El efectivo hace falta en los zocos y en los pueblos del interior. Los cajeros automáticos están muy extendidos y aceptan sin problemas las tarjetas extranjeras.",

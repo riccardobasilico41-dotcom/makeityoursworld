@@ -24,7 +24,7 @@ export const lofotenEstate2025Meta: TripMeta = {
   criticita: [
     'Il Reinebringen, l\'attrazione più attesa, dipende completamente dal meteo: con cielo coperto perde gran parte del senso',
     'Diverse strutture (Bodø, Reine, Henningsvær, Å) sono solo tappe di passaggio senza pernottamento, quindi il diario non ha ancora un nome di ristorante per ogni tappa',
-    'Budget indicativo noto solo per i pasti (500-600€ a testa): voli, auto e traghetti restano da completare',
+    'Budget indicativo noto solo per i pasti (500-600 € a testa): voli, auto e traghetti restano da completare',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {
@@ -125,7 +125,7 @@ export const lofotenEstate2025Meta: TripMeta = {
     { etichetta: 'Pernottamenti', valore: undefined },
     { etichetta: 'Auto a noleggio e traghetti', valore: undefined },
     { etichetta: 'Escursioni e attività (Trollfjord, musei)', valore: undefined },
-    { etichetta: 'Cibo', valore: '500-600€ a persona' },
+    { etichetta: 'Cibo', valore: '500-600 € a persona' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

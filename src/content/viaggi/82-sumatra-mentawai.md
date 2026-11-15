@@ -22,7 +22,7 @@ Dopo la giungla, il mare. Le spiagge delle Mentawai sono bellissime, e Sipora è
 - **Traghetto per le Mentawai:** il **Mentawai Fast** parte dal porto sulla foce del fiume Batang Arau, a Padang. Ci vogliono circa 3,5 ore per **Tuapejat** (Sipora) e circa 4 per **Siberut**. Le fonti su giorni e prezzi non coincidono: si va da 300.000 a 400.000 IDR a persona, con un supplemento per le tavole da surf. Il biglietto conviene comprarlo il giorno prima al porto. La fonte più affidabile per gli orari è la pagina Facebook ufficiale di Mentawai Fast.
 - **Mare e meteo:** le barche escono solo con il via libera del Syahbandar, l'autorità portuale. Con bandiera rossa non parte nessuno, e i traghetti possono essere cancellati per meteo o scarsa visibilità. Per questo l'itinerario tiene un giorno di margine a Padang prima del volo.
 - **Voli per le Mentawai:** l'aeroporto delle Mentawai (RKI) ha sostituito Rokot nel 2023, ma non risultano voli regolari confermati. Meglio non contarci.
-- **Tassa surf:** chi surfa alle Mentawai paga una tassa locale. L'importo attuale non è confermato: le fonti vanno da 75 a 130 USD, e nel 2025 l'amministrazione ha annunciato una fascia tra 500.000 e 2.000.000 IDR secondo durata e spot. Chiedi la cifra aggiornata al tuo alloggio o all'operatore.
+- **Tassa surf:** chi surfa alle Mentawai paga una tassa locale. Nel 2025 l'amministrazione ha annunciato una fascia tra 500.000 e 2.000.000 IDR secondo durata e spot, ma l'importo cambia spesso. Chiedi la cifra aggiornata al tuo alloggio o all'operatore.
 - **Salute:** per la malaria il CDC indica un rischio nelle zone rurali di Sumatra. Prima di partire serve un passaggio in un ambulatorio di medicina dei viaggi, che decide la profilassi. Repellente, maniche e pantaloni lunghi.
 - **Assicurazione:** obbligatoria per il soggiorno con Mentawai Tribe, e deve coprire l'evacuazione. Se il traghetto di rientro viene cancellato a viaggio iniziato, l'operatore non rimborsa.
 - **Contanti:** fuori dalle città di Sumatra le carte servono poco. Conviene partire da Padang con i contanti per le isole.
@@ -57,7 +57,7 @@ Un giorno senza programma fisso serve. Le strade di Sumatra Occidentale possono 
 
 Chi resta in città può girarla a piedi senza fretta. Si parte dalla **Jam Gadang**, dove però non si sale più in cima, e si passa per il mercato di Pasar Atas. Poi il parco Panorama sul bordo del canyon di **Ngarai Sianok**, con le pareti che scendono verso il fiume, e sotto lo stesso parco il **Lobang Jepang**, i tunnel scavati durante l'occupazione giapponese nella Seconda guerra mondiale. Il Pacu Jawi invece si tiene nella zona di Tanah Datar solo dopo il raccolto del riso, in date e villaggi che cambiano: va chiesto con qualche giorno di anticipo. *Durante il Ramadan le corse si fermano.*
 
-**In pratica:** Ngarai Sianok circa 15.000 IDR · Lobang Jepang aperto più o meno dalle 8 al tardo pomeriggio, biglietto economico · Pacu Jawi solo in alcuni periodi dopo il raccolto, data da confermare con l'operatore · se le strade sono chiuse, si parte per Padang un giorno prima.
+**In pratica:** Ngarai Sianok circa 15.000 IDR · Lobang Jepang aperto più o meno dalle 8 al tardo pomeriggio, biglietto economico · Pacu Jawi solo in alcuni periodi dopo il raccolto, data da chiedere all'operatore · se le strade sono chiuse, si parte per Padang un giorno prima.
 
 ### Giorno 5 — Ritorno a Padang
 Si torna a **Padang** in auto, circa 3 ore. Il pomeriggio serve a preparare la giungla: biglietto del traghetto comprato al porto, contanti, repellente, sacca stagna, power bank, giacca da pioggia, scarpe che possano finire nel fango. Gioielli e orologi costosi restano in albergo. Si va a letto presto.
@@ -106,7 +106,7 @@ Giornata in barca verso il sud di Sipora. Nella baia di Katiet c'è **Lance's Le
 
 La barca parte presto, perché le prime ore sono quelle con meno vento e onde più pulite, e prima arrivano anche le altre barche. Lo spot si sceglie la mattina stessa con il barcaiolo o con l'alloggio, in base alla direzione dello swell e alla marea: con la bassa il reef è a pochi centimetri. *Su questi reef servono scarpette o almeno molta attenzione all'uscita, e non si entra mai da soli.* Chi non surfa può venire lo stesso: si fa snorkeling in acque calme o si resta in barca a guardare. Si rientra nel primo pomeriggio, quando il vento rinforza.
 
-**In pratica:** barca per la giornata da organizzare la sera prima con l'alloggio, prezzo da concordare · tassa surf da pagare prima, di solito circa 1.000.000 IDR a surfista per un massimo di 15 giorni (alcuni resort indicano 2.000.000), importo da confermare sul posto · scarpette da reef e kit per i tagli · acqua e cibo a bordo.
+**In pratica:** barca per la giornata da organizzare la sera prima con l'alloggio, prezzo da concordare · tassa surf da pagare prima, di solito circa 1.000.000 IDR a surfista per un massimo di 15 giorni (alcuni resort indicano 2.000.000) · scarpette da reef e kit per i tagli · acqua e cibo a bordo.
 
 ### Giorno 12 — Sipora, giorno lento o di riserva
 Un giorno tenuto libero apposta. Se il mare è buono si surfa ancora o si cerca un'altra spiaggia. Se il meteo ha fatto saltare una barca nei giorni prima, qui si recupera. A Sipora è in costruzione "The Sound of Love Mentawai", il progetto dello chef Max Mariola con un ristorante sulla spiaggia: cantiere annunciato da novembre 2026.
@@ -156,6 +156,8 @@ Poi c'è il mare, e le spiagge delle Mentawai sono bellissime.
 
 ## Nota su questa bozza
 Da Rick vengono il soggiorno nella giungla di Siberut con Mentawai Tribe, il giudizio sui posti, sulle condizioni dure e sulle spiagge, e l'invito a pensare al lato etico. Fonti della ricerca del 4 novembre 2026, tolte dalla chiusura: il sito di Mentawai Tribe per pacchetti, logistica e regole; Mongabay e Wikipedia per la storia della repressione delle tradizioni; Perfect Wave, Surfer Today e indonesia.travel per surf, stagioni e prezzi; Bucketlistly e Journey Beyond Horizon per traghetti e strade di Sumatra; il CDC per la malaria; il sito del progetto per Max Mariola. Orari e prezzi del Mentawai Fast e importo della tassa surf non confermati.
+
+Tolte dal testo e dai dati le fonti sulla tassa surf (75-130 USD secondo le fonti) e la dicitura «secondo le fonti» sul Mentawai Fast (300.000-400.000 IDR).
 
 ## Tag
 `#indonesia` `#sumatra` `#mentawai` `#siberut` `#sipora` `#bukittinggi` `#padang` `#surf` `#giungla` `#turismoetico` `#duesettimane` `#asia`

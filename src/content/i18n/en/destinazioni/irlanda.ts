@@ -200,7 +200,7 @@ export const destinazioniIrlanda: Destinazione[] = [
         come: "On Dame Street, five minutes from Temple Bar.",
         quando: "From 2027: the castle is closed from May 5 to December 31, 2026 for Ireland's EU Presidency and reopens in January 2027; the Chester Beatty is closed from June 15 to the end of December 2026.",
         tempo: "1-2 hours",
-        costo: "Chester Beatty free, suggested donation €10; castle prices to be checked on reopening",
+        costo: "Chester Beatty free, suggested donation €10; castle prices will be announced on reopening",
         orari: "closed until the end of 2026",
         lat: 53.34266,
         lng: -6.267,

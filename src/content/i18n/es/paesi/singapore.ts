@@ -12,7 +12,7 @@ export const singapore: Paese = {
   durataConsigliata:
     "2-3 días como parada en sí misma, o 4-5 días usándola como base. Funciona bien también como escala larga de 24 horas entre dos vuelos, y es uno de los pocos aeropuertos del mundo donde una escala es una buena noticia.",
   budgetIndicativo:
-    "la ciudad más cara del sudeste asiático en alojamiento (100-180 € por noche por una habitación decente) y en alcohol, muy gravado. El transporte, en cambio, cuesta pocos céntimos y una comida completa en un centro de hawkers está entre 3 y 6 euros: se puede estar en Singapur gastando poco en todo menos en la cama.",
+    "la ciudad más cara del sudeste asiático en alojamiento (100-180 € por noche por una habitación decente) y en alcohol, muy gravado. El transporte, en cambio, cuesta pocos céntimos y una comida completa en un centro de hawkers está entre 3 y 6 €: se puede estar en Singapur gastando poco en todo menos en la cama.",
   stileViaggio: ['città', 'gastronomia', 'architettura', 'scalo lungo'],
   scheda: {
     documenti:
@@ -28,7 +28,7 @@ export const singapore: Paese = {
     trasportiInterni:
       "El MRT, el metro, es de los mejores del mundo: limpio, capilar, climatizado, con avisos en inglés y con torniquetes que aceptan directamente las tarjetas contactless extranjeras. Cubre también el aeropuerto. Los autobuses completan el resto, los taxis y Grab cuestan poco para los estándares de la ciudad. Todo está pensado para caminar lo menos posible bajo el sol: los barrios centrales están conectados por pasos subterráneos climatizados.",
     costoVita:
-      "Doble. Los alojamientos y el alcohol tienen precios de Europa del norte (una cerveza en un bar cuesta fácilmente 12-15 euros), mientras que el transporte cuesta pocos céntimos y los centros de hawkers sirven platos completos por 3-6 euros. Quien duerme en albergue o en hotel cápsula y come en hawkers está en Singapur con un gasto diario de sudeste asiático.",
+      "Doble. Los alojamientos y el alcohol tienen precios de Europa del norte (una cerveza en un bar cuesta fácilmente 12-15 €), mientras que el transporte cuesta pocos céntimos y los centros de hawkers sirven platos completos por 3-6 €. Quien duerme en albergue o en hotel cápsula y come en hawkers está en Singapur con un gasto diario de sudeste asiático.",
     lingua:
       "Cuatro lenguas oficiales: inglés, mandarín, malayo y tamil. El inglés es la lengua franca y se habla en todas partes con una cadencia muy local, el singlish, que mezcla las otras tres y usa partículas finales como «lah». Ninguna barrera lingüística.",
     elettricita: "230 V, 50 Hz, enchufes de tipo G, británicos de tres polos rectangulares: el mismo adaptador que en Malasia.",

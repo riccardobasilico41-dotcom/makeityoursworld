@@ -32,14 +32,14 @@ In the morning we went to the **Cité du Vin**, the most orderly way to understa
 
 In the afternoon we went back to the Chartrons, among the converted former warehouses of the wine merchants, with a canelé as a snack. The district takes a couple of hours on foot: **rue Notre-Dame**, with antique dealers and small shops, the church of Saint-Louis-des-Chartrons and the **Musée du Vin et du Négoce**, set in old cellars, which tells how wine left from here for northern Europe. The canelé is the small Bordeaux cake with rum and vanilla, caramelized outside and soft inside. On Sunday mornings there is the Chartrons market on the quay, good for a lunch of oysters and white wine.
 
-**In practice:** Cité du Vin about 22 euros, with a glass of wine at the Belvédère included, online ticket recommended, usually open 10 a.m. to 6 p.m. in winter and until 7 p.m. from April to October · tram B from the center to the La Cité du Vin stop · for tomorrow: car ready or tour booked, and tastings arranged in advance.
+**In practice:** Cité du Vin about €22, with a glass of wine at the Belvédère included, online ticket recommended, usually open 10 a.m. to 6 p.m. in winter and until 7 p.m. from April to October · tram B from the center to the La Cité du Vin stop · for tomorrow: car ready or tour booked, and tastings arranged in advance.
 
 ### Day 3 — Saint-Émilion
 A full day on the right bank. **Saint-Émilion** is about half an hour from Bordeaux by regional train, or three quarters of an hour by car; the station is down below, among the vines, and you walk up to the village. The village and the surrounding vineyards are a UNESCO World Heritage site. In Saint-Émilion the monolithic church carved into the rock can only be visited with a guide: the tour starts from the tourist office, lasts about an hour and usually also includes the catacombs and the hermitage where, according to tradition, the monk Émilion lived. It is worth booking it for early morning, when the village is still quiet.
 
 Then the medieval village and a tasting by appointment. The streets are steep and paved, with views over the vineyards from the Tour du Roy and the cloister of the collegiate church; *you need comfortable shoes, and in summer the lanes fill up around midday*. For the tasting there are large and small châteaux a few minutes from the center, almost all with tours at set times that must be booked. From here on the rule for vineyard days applies: a driver who doesn't taste, a guided tour, or spitting at tastings, which is the norm and not an insult.
 
-**In practice:** Bordeaux-Saint-Émilion train about 35 minutes, around ten services a day, check the last train back · monolithic church only on a guided tour from the tourist office, about 15 euros, limited places · château tastings from around 15 euros upward, always by appointment.
+**In practice:** Bordeaux-Saint-Émilion train about 35 minutes, around ten services a day, check the last train back · monolithic church only on a guided tour from the tourist office, about €15, limited places · château tastings from around €15 upward, always by appointment.
 
 ### Day 4 — Pomerol and the Graves
 We crossed **Pomerol**, tiny, with the most expensive wines in the world, and then went down into the **Graves**, south of the city. Pomerol borders Saint-Émilion and Libourne: a handful of kilometers of almost flat vineyard, Merlot on clay, low houses and the church bell tower as the only landmark. It has no official classification and many of the most famous names don't receive visitors, so the morning is spent mostly driving or cycling among the rows, with a stop in **Libourne**, the river town where the wine barges used to leave from, for coffee and lunch.
@@ -53,21 +53,21 @@ This is the day of the road of châteaux lined up along the left bank, with two 
 
 You don't turn up at the great châteaux without an appointment: you won't get in. Visits are booked through the estates' websites or through the Maison du Tourisme et du Vin in Pauillac, and during harvest they must be arranged weeks ahead; some estates close at weekends. *Two visits a day are the reasonable maximum: each lasts a good hour and a half, and the road between them is slow.* The return to Bordeaux is taken calmly before evening, with the driver who hasn't tasted.
 
-**In practice:** Bordeaux-Pauillac about an hour on the D2 · visits to classified growths by appointment only, prices from about 20-30 euros upward depending on the château · in September and October book well in advance · lunch in Pauillac, on the riverfront.
+**In practice:** Bordeaux-Pauillac about an hour on the D2 · visits to classified growths by appointment only, prices from about €20-30 upward depending on the château · in September and October book well in advance · lunch in Pauillac, on the riverfront.
 
 ### Day 6 — Sauternes
 The **Sauternes** lies south of Bordeaux, along the Garonne, three quarters of an hour to an hour by car: five villages (Sauternes, Barsac, Bommes, Fargues and Preignac) where the small, cold Ciron river flows into the warmer Garonne. In autumn this meeting creates morning mists and afternoon sun, the conditions in which noble rot, *Botrytis cinerea*, concentrates the sugars in the grapes. You choose an estate that welcomes visitors by appointment, and the best time to go is the morning, while the mists still lie over the rows.
 
 An estate in **Sauternes**, and the thing that stays with you most from the trip: bunches with noble rot that look like they should be thrown away, picked by hand five or six times in the same row (in season you can see the harvest in successive passes), for a sweet wine born from what an ordinary farmer would think was a disease. In the afternoon you drive around the villages, with Château d'Yquem visible on top of its hill. *Harvest dates vary a lot from one year to the next: anyone who wants to see it should ask the château when to book.*
 
-**In practice:** Bordeaux-Sauternes about 45 minutes to an hour by car · visits with tasting from about 15 euros, by appointment · harvest in passes between September and November depending on the vintage · Sauternes also goes with blue cheese, not only with dessert.
+**In practice:** Bordeaux-Sauternes about 45 minutes to an hour by car · visits with tasting from about €15, by appointment · harvest in passes between September and November depending on the vintage · Sauternes also goes with blue cheese, not only with dessert.
 
 ### Day 7 — Arcachon Basin
 We spent the last day on the ocean. The train takes you to Arcachon in about fifty minutes from Bordeaux, with services roughly every hour. The morning is for the town: the seafront, the port and the **Ville d'Hiver**, the district of nineteenth-century villas on the hill, built when Arcachon was a health resort. Those with time take the boat to **Cap Ferret**, on the other side of the basin. You go to the dune in the afternoon, by local bus from the station.
 
 The **Dune du Pilat** is best climbed at sunset (in summer the sand is scorching). It is the highest dune in Europe, more than a hundred meters above the sea, with the pine forest on one side and the basin with the Banc d'Arguin on the other; in the warmer months a staircase is put up that makes the climb much easier. *Going down the sea-facing slope takes a moment, climbing back up doesn't: better to stay on the ridge.* Dinner was freshly opened oysters in a cabane on the jetty, with white wine and buttered bread.
 
-**In practice:** Bordeaux-Arcachon train about 50 minutes · Baïa bus line 3 from the station to the dune in about 25 minutes, no services on Sundays and public holidays from November to April · paid parking at the dune, about 7 euros for four hours in high season · check the time of the last train to Bordeaux before sitting down to dinner.
+**In practice:** Bordeaux-Arcachon train about 50 minutes · Baïa bus line 3 from the station to the dune in about 25 minutes, no services on Sundays and public holidays from November to April · paid parking at the dune, about €7 for four hours in high season · check the time of the last train to Bordeaux before sitting down to dinner.
 
 ## What to see / what to do
 - The monolithic church of Saint-Émilion, with a guide.

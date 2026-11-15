@@ -200,13 +200,13 @@ export const destinazioniCroazia: Destinazione[] = [
         "nome": "Lower Town",
         "perChi": "for station and trams",
         "testo": "Hotels and apartments within walking distance of everything; the centre is lively and a bit noisy at night.",
-        "fascia": "60-130 €"
+        "fascia": "€60-130"
       },
       {
         "nome": "Near Jelačić Square",
         "perChi": "for short stays",
         "testo": "Everything on foot; prices are a little higher.",
-        "fascia": "90-150 €"
+        "fascia": "€90-150"
       }
     ],
     sapori: [
@@ -685,13 +685,13 @@ export const destinazioniCroazia: Destinazione[] = [
         "nome": "Zadar Old Town",
         "perChi": "for the centre",
         "testo": "Stone lodgings steps from everything; lively at night around the Riva.",
-        "fascia": "80-150 €"
+        "fascia": "€80-150"
       },
       {
         "nome": "Šibenik",
         "perChi": "to reach Krka",
         "testo": "Quieter than Split, handy for the motorway and the park.",
-        "fascia": "80-150 €"
+        "fascia": "€80-150"
       },
       {
         "nome": "Borik, Zadar",
@@ -885,7 +885,7 @@ export const destinazioniCroazia: Destinazione[] = [
         "come": "On foot along the south side of Marjan (about 30 minutes from the Riva) or by bus 12.",
         "quando": "In the morning, combined with a swim on the Marjan beaches.",
         "tempo": "1-2 hours",
-        "costo": "€12 adults, Kaštilac included (official price list)",
+        "costo": "€12 adults, Kaštilac included",
         "orari": "Tuesday to Sunday 9am-5pm, last entry half an hour before closing. Closed Mondays and on national holidays.",
         "lat": 43.50492,
         "lng": 16.41794,
@@ -941,7 +941,7 @@ export const destinazioniCroazia: Destinazione[] = [
         "come": "By car or bus from Split, about 20-30 minutes. From the car park you walk up.",
         "quando": "At sunset, with the light on the coast.",
         "tempo": "1-1.5 hours",
-        "costo": "€12 adults, €4 under 15 (official site)",
+        "costo": "€12 adults, €4 under 15",
         "orari": "According to the official site, daily 9am-7pm.",
         "lat": 43.56003,
         "lng": 16.52433,
@@ -1125,7 +1125,7 @@ export const destinazioniCroazia: Destinazione[] = [
         "tempo": "2-3 hours",
         "consiglio": "Climb to the fortress at sunset and have dinner afterwards in a lane away from the square.",
         "costo": "fortress €12; combined €15 with theatre, loggia, clock tower and St John's church (2026)",
-        "orari": "Fortress 9am-6pm (tourist board summer hours 2026); off-season hours to be checked.",
+        "orari": "Fortress 9am-6pm (tourist board summer hours 2026); off-season, check before going.",
         "lat": 43.17474,
         "lng": 16.4421,
         "url": "https://visithvar.hr/"
@@ -1523,13 +1523,13 @@ export const destinazioniCroazia: Destinazione[] = [
         "nome": "Old town",
         "perChi": "for atmosphere",
         "testo": "Rooms in the historic centre; music and strolling in the evening, but you sleep well.",
-        "fascia": "90-160 €"
+        "fascia": "€90-160"
       },
       {
         "nome": "Lumbarda",
         "perChi": "for beaches",
         "testo": "A village with sand beaches and vineyards, a few kilometres from town.",
-        "fascia": "90-160 €"
+        "fascia": "€90-160"
       }
     ],
     sapori: [
@@ -1678,7 +1678,7 @@ export const destinazioniCroazia: Destinazione[] = [
         "come": "On Luža square, at the end of Stradun. Single ticket or the combined ticket for the city's ten museums.",
         "quando": "Morning, before the cruise ship groups.",
         "tempo": "1 hour",
-        "costo": "€15; combined ticket for 10 museums €20, valid 7 days (official price list)",
+        "costo": "€15; combined ticket for 10 museums €20, valid 7 days",
         "orari": "1 April-31 October daily 9am-6pm; 1 November-31 March 9am-4pm, closed Mondays. Closed at Christmas, New Year and on 3 February (St Blaise).",
         "lat": 42.64032,
         "lng": 18.11073,
@@ -1704,7 +1704,7 @@ export const destinazioniCroazia: Destinazione[] = [
         "come": "From the station near Buža Gate, on foot.",
         "quando": "Late afternoon for sunset.",
         "tempo": "1-2 hours",
-        "costo": "€30 return, €17 one way (official site, 2026). Closed in December and from January to March; last ride up 30 minutes before closing.",
+        "costo": "€30 return, €17 one way (2026). Closed in December and from January to March; last ride up 30 minutes before closing.",
         "consiglio": "Book a sunset slot: queues can be long.",
         "orari": "2026: April 9am-9pm; May 9am-10pm (from the 15th until 11:30pm); June-August 9am-midnight; September 9am-midnight (from the 15th until 11pm); October 9am-9pm (from the 21st until 8pm); November 9am-5pm. Closed December-March and in strong wind.",
         "lat": 42.64307,

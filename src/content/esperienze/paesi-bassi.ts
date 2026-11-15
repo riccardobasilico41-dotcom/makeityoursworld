@@ -21,7 +21,7 @@ export const esperienzePaesiBassi: Esperienza[] = [
       'È uno dei luoghi della memoria più visitati d\'Europa, e uno dei più diretti, sulla persecuzione degli ebrei durante l\'occupazione nazista dei Paesi Bassi, resa universale dal diario di una ragazza di tredici anni. Come altri luoghi della memoria va visitata con la disposizione giusta, diversa da quella di una normale tappa turistica.',
     durata: 'circa 1-1,5 ore per il percorso completo, con ingresso a fascia oraria prenotata',
     periodo: 'tutto l\'anno; gli spazi interni sono ristretti e la visita può risultare affollata anche fuori stagione',
-    costo: 'circa 16€ per gli adulti, con riduzioni per bambini e ragazzi; l\'ingresso online prevede una piccola commissione di prenotazione',
+    costo: 'circa 16 € per gli adulti, con riduzioni per bambini e ragazzi; l\'ingresso online prevede una piccola commissione di prenotazione',
     comePrenotare:
       'Solo online, sul sito ufficiale annefrank.org: i biglietti si aprono con settimane di anticipo (in genere il primo martedì di ogni mese per i due mesi successivi) e finiscono in fretta, soprattutto nei weekend e d\'estate. Ogni giorno online esce una piccola quota di biglietti last-minute, ma per chi ha un weekend breve non è una strategia su cui contare.',
     cosaPortare: 'Un documento d\'identità (il nome sul biglietto deve corrispondere); zaini e borse grandi non sono ammessi e vanno lasciati al guardaroba.',
@@ -45,7 +45,7 @@ export const esperienzePaesiBassi: Esperienza[] = [
       'Amsterdam è disegnata per la bicicletta più che per qualunque altro mezzo, ed è probabilmente l\'unico modo di entrare nel ritmo della città invece di guardarlo da fuori. Bisogna però imparare in fretta alcune regole non scritte, diverse da quelle di una città italiana.',
     durata: 'variabile, da poche ore a un\'intera giornata; il noleggio è tipicamente giornaliero',
     periodo: 'tutto l\'anno, con l\'accortezza di vestirsi per la pioggia (frequente) e il vento',
-    costo: 'circa 10-15€ al giorno per una bici standard, con cauzione richiesta; ombrellone/casco raramente inclusi (i ciclisti locali quasi mai indossano il casco)',
+    costo: 'circa 10-15 € al giorno per una bici standard, con cauzione richiesta; ombrellone/casco raramente inclusi (i ciclisti locali quasi mai indossano il casco)',
     comePrenotare: 'Non serve prenotare: i punti di noleggio sono tanti, concentrati vicino alla Stazione Centrale e nel centro storico; nei weekend di alta stagione conviene comunque arrivare presto per avere scelta.',
     cosaPortare: 'Un documento d\'identità o una carta di credito per la cauzione; abiti a strati e, se possibile, una mantellina antipioggia leggera.',
     perChiEAdatta:
@@ -68,7 +68,7 @@ export const esperienzePaesiBassi: Esperienza[] = [
       'Dall\'acqua l\'anello dei canali, patrimonio UNESCO, si legge in un altro modo: le case che dai ponti sembrano tutte uguali mostrano dalla barca la varietà dei gable (frontoni) e delle decorazioni, secoli di storia mercantile della città.',
     durata: 'circa 1-1,5 ore per il giro classico; esistono anche crociere serali con aperitivo o al tramonto, più lunghe',
     periodo: 'tutto l\'anno; le partenze serali d\'estate, con luce lunga fino a tardi, restano le più richieste',
-    costo: 'circa 15-20€ a persona per il giro standard; le crociere serali con aperitivo o cena costano di più',
+    costo: 'circa 15-20 € a persona per il giro standard; le crociere serali con aperitivo o cena costano di più',
     comePrenotare: 'Online in anticipo nei weekend e in alta stagione, oppure direttamente al punto di imbarco fuori stagione; diversi operatori hanno partenze frequenti per tutto il giorno.',
     cosaPortare: 'Uno strato in più anche d\'estate: per il vento, sull\'acqua fa sempre più fresco che a terra.',
     perChiEAdatta: 'Quasi chiunque, compresi bambini e persone con mobilità ridotta: si sta seduti e non si fa fatica.',

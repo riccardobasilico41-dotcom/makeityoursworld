@@ -559,7 +559,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Escursione prenotata con operatore da Svolvær.",
         quando: "Estate, con cielo sereno.",
         tempo: "2 ore",
-        costo: "1.195 NOK adulti, 950 NOK bambini, circa 100 € (Lofoten Explorer, 2026)",
+        costo: "1.195 NOK adulti, 950 NOK bambini, circa 100 € (2026)",
         lat: 68.3628,
         lng: 14.9361,
         url: "https://lofoten-explorer.no",
@@ -1598,7 +1598,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     comeArrivare: "Volo diretto o con scalo su Tromsø. L'aeroporto di Tromsø-Langnes è a circa 5 km dal centro. Il Flybussen costa circa 125 NOK (200 andata e ritorno), biglietto in app o a bordo con carta, e arriva in Storgata e agli hotel principali in 15-20 minuti, con corse legate agli arrivi. I bus urbani 40 e 42 costano circa 48 NOK ma sono più lenti e la sera passano di rado; un taxi costa circa 250-350 NOK, una decina di minuti.",
     comeSpostarsi: 'A piedi in centro; minibus/pullman organizzati per le escursioni fuori città.',
     periodoMigliore: 'da fine settembre a fine marzo per l\'aurora, con notte polare (poca luce diurna) tra dicembre e gennaio',
-    costi: "Fjellheisen: 645 NOK (circa 55€) andata e ritorno adulti, 310 NOK (circa 27€) bambini 3-15 anni (2026). Polaria: circa 400-450 NOK (35-39€). Polar Museum: 130 NOK (circa 11€). Aurora chase in minibus: 100-160€ a persona. Husky sledding: 170-320€ a persona. Esperienza sami con le renne: da 145€ a persona. Whale watching: 130-260€ a persona. Doppia in hotel centrale in alta stagione: 140-170€/notte. Indicativamente, a persona al giorno: 70-110 € con ostello e spesa al supermercato; 180-260 € con hotel centrale in due e una cena fuori; 350-500 € aggiungendo un'escursione organizzata al giorno.",
+    costi: "Fjellheisen: 645 NOK (circa 55 €) andata e ritorno adulti, 310 NOK (circa 27 €) bambini 3-15 anni (2026). Polaria: circa 400-450 NOK (35-39 €). Polar Museum: 130 NOK (circa 11 €). Aurora chase in minibus: 100-160 € a persona. Husky sledding: 170-320 € a persona. Esperienza sami con le renne: da 145 € a persona. Whale watching: 130-260 € a persona. Doppia in hotel centrale in alta stagione: 140-170 €/notte. Indicativamente, a persona al giorno: 70-110 € con ostello e spesa al supermercato; 180-260 € con hotel centrale in due e una cena fuori; 350-500 € aggiungendo un'escursione organizzata al giorno.",
     erroriDaEvitare: [
       'Prenotare le escursioni serali con un minimo di anticipo, soprattutto nei mesi di punta (novembre-marzo)',
       'Sottovalutare il vento sul lungomare: si sente più del previsto',

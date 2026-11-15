@@ -38,7 +38,7 @@ Il secondo giorno è ancora di acclimatamento, ma più attivo. Le teleferiche ur
 
 Nel pomeriggio siamo andati in taxi alla **Valle de la Luna**, formazioni di argilla erosa a pochi chilometri dal centro. *La fatica si sente ancora nel salire le scale: è normale, il corpo non si è ancora abituato del tutto.* Chi capita di sera a El Alto trova gli incontri di cholitas luchadoras, il wrestling delle donne aymara.
 
-**In pratica:** teleferica pagata a tratta, con biglietto a parte a ogni cambio di linea · Valle de la Luna con biglietto d'ingresso di circa 15 boliviani, circa un'ora di visita · cholitas luchadoras di solito la domenica pomeriggio al Multifuncional di El Alto, orari da verificare; molti ci vanno con un tour che include il trasporto · El Alto di sera meglio non girarla a piedi da soli.
+**In pratica:** teleferica pagata a tratta, con biglietto a parte a ogni cambio di linea · Valle de la Luna con biglietto d'ingresso di circa 15 boliviani, circa un'ora di visita · cholitas luchadoras di solito la domenica pomeriggio al Multifuncional di El Alto; molti ci vanno con un tour che include il trasporto · El Alto di sera meglio non girarla a piedi da soli.
 
 ### Giorno 3 — Tiwanaku e trasferimento a Copacabana
 Ci siamo spostati a **Copacabana**, sul lago Titicaca: circa 4 ore di strada, con una sosta alle rovine di **Tiwanaku**, capitale di una civiltà precedente agli Inca, lungo la strada che porta al lago. Del sito si vedono il tempio semisotterraneo, la piattaforma del **Kalasasaya** con la Porta del Sole e, poco lontano, i blocchi tagliati di **Puma Punku**; i due musei, lítico e cerámico, aiutano a capire cosa si sta guardando. Conviene arrivarci in mattinata e dedicarci un paio d'ore, con una guida o con un tour che combina Tiwanaku e il trasferimento.
@@ -64,7 +64,7 @@ In tarda mattinata siamo rientrati a Copacabana e da lì via terra a **La Paz**,
 ### Giorno 6 — La Carretera de la Muerte in mountain bike
 È l'attività più iconica della Bolivia: la discesa in mountain bike lungo la vecchia strada degli Yungas, la "strada più pericolosa del mondo" fino al 2006. Oggi è un percorso ciclistico di circa 64 km e oltre 3.400 metri di dislivello negativo, dal passo glaciale di **La Cumbre** (4.650 m) alla foresta subtropicale di **Yolosa** (1.200 m), e attraversa tre fasce climatiche in poche ore.
 
-*Qui il prezzo del tour non è una questione di comfort ma di sicurezza:* quasi tutti gli incidenti riportati coinvolgono operatori economici con bici mal tenute e gruppi troppo numerosi. Vale la pena spendere i 120-170$ di un operatore premium (il riferimento resta Gravity Bolivia, che ha inventato questi tour nel 1998) invece di risparmiare 50 dollari sulla sicurezza. Siamo rientrati a La Paz nel tardo pomeriggio, con le gambe finite e un cambio completo di vestiti necessario dopo il fango della parte bassa.
+*Qui il prezzo del tour non è una questione di comfort ma di sicurezza:* quasi tutti gli incidenti riportati coinvolgono operatori economici con bici mal tenute e gruppi troppo numerosi. Vale la pena spendere i 120-170 $ di un operatore premium (il riferimento resta Gravity Bolivia, che ha inventato questi tour nel 1998) invece di risparmiare 50 dollari sulla sicurezza. Siamo rientrati a La Paz nel tardo pomeriggio, con le gambe finite e un cambio completo di vestiti necessario dopo il fango della parte bassa.
 
 **In pratica:** ritiro in hotel molto presto, intorno all'alba, e rientro in serata · pedaggio delle comunità lungo la strada circa 50 boliviani, spesso non incluso nel prezzo: chiedere prima · strati pesanti per la partenza in quota e vestiti leggeri per l'arrivo · costume o cambio asciutto per la doccia finale, offerta da molti operatori.
 
@@ -122,7 +122,7 @@ Giornata dedicata a Sucre: la **Casa de la Libertad**, dove fu firmata l'indipen
 
 *Se le date cadono di domenica*, vale la deviazione di un'ora e mezza-due fino a **Tarabuco** per il mercato tessile domenicale, uno dei più autentici del paese per i tessuti yampara. Sucre ha anche alcune tra le migliori e più economiche scuole di spagnolo del Sud America: chi ha tempo in più può fermarsi per un corso.
 
-**In pratica:** Parque Cretácico a circa 25 minuti dal centro, ingresso intorno a 30 boliviani con guida · il mercato di Tarabuco si tiene solo la domenica mattina, colectivo o tour dal centro · Casa de la Libertad con visita guidata, orari da verificare sul posto · al Mercado Central pranzo completo per pochi boliviani.
+**In pratica:** Parque Cretácico a circa 25 minuti dal centro, ingresso intorno a 30 boliviani con guida · il mercato di Tarabuco si tiene solo la domenica mattina, colectivo o tour dal centro · Casa de la Libertad con visita guidata, orari da chiedere sul posto · al Mercado Central pranzo completo per pochi boliviani.
 
 ### Giorno 15 — Da Sucre a La Paz
 Il volo da Sucre a **La Paz** dura circa un'ora (l'alternativa, più lenta ma più economica, è il bus notturno). Conviene prendere un volo del mattino, per arrivare a La Paz con mezza giornata a disposizione; l'aeroporto di Sucre è fuori città, a circa mezz'ora di taxi dal centro.
@@ -179,7 +179,7 @@ Le ultime ore in città dipendono dal tempo che resta (un ultimo giro in telefer
 - **I primi due giorni a La Paz vanno presi con calma assoluta:** in poche ore si passa dal livello del mare a oltre 4.000 metri, ed è uno shock fisico reale prima che un modo di dire.
 - **Blocchi stradali:** vanno messi in conto nell'itinerario, non trattati come un'eventualità remota. Possono isolare intere zone per giorni e far saltare voli e trasferimenti, soprattutto sui tratti via terra tra Uyuni, Potosí e Sucre.
 - **Il tour di Uyuni si prenota in anticipo, non sul posto:** a Uyuni le agenzie di strada e quelle pop-up offrono prezzi più bassi, ma cambiano itinerario dopo il pagamento, caricano più passeggeri del previsto o mettono alla guida autisti senza patente o assicurazione. Prenotare da La Paz o online con un'agenzia verificabile riduce molto il rischio.
-- **Sull'operatore della Carretera de la Muerte non si risparmia:** quasi tutti gli incidenti riportati coinvolgono operatori economici con bici mal tenute; vale la pena spendere i 120-170$ della fascia premium.
+- **Sull'operatore della Carretera de la Muerte non si risparmia:** quasi tutti gli incidenti riportati coinvolgono operatori economici con bici mal tenute; vale la pena spendere i 120-170 $ della fascia premium.
 - **I voli per Rurrenabaque saltano spesso per il meteo**, non solo nella stagione delle piogge: conviene tenere un giorno di margine sia all'andata sia, soprattutto, al ritorno, prima di un volo internazionale.
 - **Contanti sempre con sé:** fuori da La Paz e Sucre i bancomat sono rari o a secco, e i tour si pagano quasi sempre cash.
 - **Le miniere di Potosí non sono un'attrazione turistica:** vanno affrontate con rispetto, ed è meglio evitarle se si soffre di claustrofobia o di problemi respiratori.

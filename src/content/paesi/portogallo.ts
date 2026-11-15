@@ -21,7 +21,7 @@ export const portogallo: Paese = {
   durataConsigliata:
     '4 giorni, uno dei quali tutto per la gita a Sintra. L\'itinerario non arriva a Porto né al resto del Portogallo.',
   budgetIndicativo:
-    'Lisbona è ancora tra le capitali più economiche dell\'Europa occidentale, anche se negli ultimi anni i prezzi sono saliti per la pressione turistica. Le voci fisse sono gli ingressi di Sintra (Palácio da Pena circa 20-25€, Quinta da Regaleira circa 15€) e il treno da Lisbona (circa 5€ a tratta).',
+    'Lisbona è ancora tra le capitali più economiche dell\'Europa occidentale, anche se negli ultimi anni i prezzi sono saliti per la pressione turistica. Le voci fisse sono gli ingressi di Sintra (Palácio da Pena circa 20-25 €, Quinta da Regaleira circa 15 €) e il treno da Lisbona (circa 5 € a tratta).',
   stileViaggio: ['città', 'storia', 'mare', 'gastronomia'],
   scheda: {
     documenti:
@@ -38,7 +38,7 @@ export const portogallo: Paese = {
       'Per gli standard europei Lisbona è sicura, ma nei punti più turistici i borseggi sono frequenti. Il bersaglio più segnalato è il tram 28, spesso pieno fino all\'inverosimile; seguono le stazioni delle funicolari (Elevador da Glória, Elevador da Bica) e Baixa, Chiado e Alfama nelle ore di punta serali. La regola è quella solita (borsa davanti, tasche chiuse, attenzione in più sul tram 28), e qui conviene ripeterla perché è il caso più frequente.',
     trasportiInterni:
       'Il centro si visita bene a piedi, ma Lisbona sta su sette colline e le salite sono tante e vere. Per questo ci sono i tram storici (il 28 su tutti), le funicolari (elevadores) e un ascensore panoramico, l\'Elevador de Santa Justa, oltre a metro, autobus e treni suburbani, che si pagano quasi sempre con la carta contactless Viva Viagem/Navegante. Per Sintra il modo più semplice ed economico è il treno regionale dalla stazione di Rossio, circa 40 minuti. Per un soggiorno tra Lisbona e Sintra l\'auto a noleggio non serve.',
-    costoVita: 'Medio-basso per gli standard dell\'Europa occidentale: pranzo semplice 10-12€, cena normale 15-20€ a testa, un caffè (bica) con un pastel de nata spesso sotto i 3€.',
+    costoVita: 'Medio-basso per gli standard dell\'Europa occidentale: pranzo semplice 10-12 €, cena normale 15-20 € a testa, un caffè (bica) con un pastel de nata spesso sotto i 3 €.',
     lingua: 'Portoghese. L\'inglese è diffuso nel centro storico, negli hotel e tra i più giovani; qualche parola di portoghese (bom dia, obrigado/a) fa sempre piacere.',
     elettricita: '230V, 50Hz, prese di tipo C ed F: le spine italiane a due poli entrano senza problemi, per quelle a tre poli con messa a terra può servire un adattatore.',
     fusoOrario: 'UTC+0 (WET): un\'ora indietro rispetto all\'Italia tutto l\'anno, anche con l\'ora legale. Alle 12:00 in Italia a Lisbona sono le 11:00.',

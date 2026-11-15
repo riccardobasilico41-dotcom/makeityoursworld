@@ -24,7 +24,7 @@ We started in Alsace, the most accessible of the wine routes. We spent the first
 
 Then you walk out into the center: **Petite Venise**, with colorful half-timbered houses along the Lauch canal, the tanners' quarter, the Maison Pfister and the old customs house, the Koïfhus. Colmar is also the town of Bartholdi, the sculptor of the Statue of Liberty, whose house museum is here. Late afternoon is the best time for Petite Venise, when the light falls on the façades and the groups have already left.
 
-**In practice:** Unterlinden open 9 a.m. to 6 p.m., closed on Tuesdays, ticket about 14 euros · the old town can only be explored on foot, so leave the car in the parking lots outside · to sleep, Colmar or a village on the Route des Vins, handy for the following days.
+**In practice:** Unterlinden open 9 a.m. to 6 p.m., closed on Tuesdays, ticket about €14 · the old town can only be explored on foot, so leave the car in the parking lots outside · to sleep, Colmar or a village on the Route des Vins, handy for the following days.
 
 ### Day 2 — Riquewihr and Eguisheim by bike
 We rented bikes and rode between the villages of the **Route des Vins**: Riquewihr, Eguisheim and Kaysersberg. Here the wineries often welcome you without an appointment and tastings are free or almost free: you walk in and chat. The villages are a few kilometers apart, linked by cycle paths and back roads through the vines, but the climbs toward the hills are noticeable: an e-bike makes the day much easier.
@@ -66,7 +66,7 @@ We went to **Épernay**, where the galleries run under the street itself. Here y
 
 Visits are booked on the houses' websites, while the smaller ones often welcome visitors more informally. In the afternoon you drive up through the vines to **Hautvillers**, the village of Dom Pérignon's abbey, with a view over the whole Marne valley. On the way back you can stop at a small grower, who often receives visitors even without a booking. *In the vineyard hills the roads are narrow and poorly signposted: a navigation app helps more than road maps.*
 
-**In practice:** at Moët & Chandon the basic visit costs about 62 euros and must be booked · the Avenue de Champagne takes an unhurried hour on foot · whoever drives between houses spits at tastings, the others take the train between Reims and Épernay.
+**In practice:** at Moët & Chandon the basic visit costs about €62 and must be booked · the Avenue de Champagne takes an unhurried hour on foot · whoever drives between houses spits at tastings, the others take the train between Reims and Épernay.
 
 ### Day 8 — Return
 From Reims to Paris it's less than an hour by train. Burgundy is left for the next trip: it's harder and more expensive, with a welcome opposite to the Alsatian one. The last morning is free for whatever was left out: a smaller house, a stroll through the **Boulingrin** covered market in Reims, or a stop at the **Verzenay Lighthouse**, among the vines of the Montagne de Reims, with its wine museum and a wide view over the rows.

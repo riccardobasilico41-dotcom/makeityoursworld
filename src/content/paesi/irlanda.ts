@@ -14,7 +14,7 @@ export const irlanda: Paese = {
     'La Repubblica d\'Irlanda in un anello in auto: Dublino, i monasteri di Glendalough, Kilkenny e la Rocca di Cashel, Cork e Kinsale, il Ring of Kerry e Dingle, le Cliffs of Moher e il Burren, Galway e il Connemara. Si guida a sinistra e piove spesso, ma le distanze sono brevi e ogni giorno cambia paesaggio. Il viaggio prosegue nell\'Irlanda del Nord, che è un altro Stato.',
   periodoMigliore: 'da maggio a settembre, con giornate lunghe; maggio e giugno sono di solito i mesi più soleggiati',
   durataConsigliata: '8-9 giorni per la Repubblica, 12 per l\'anello completo con l\'Irlanda del Nord',
-  budgetIndicativo: 'da calcolare su voli, auto e alloggi; gli ingressi principali costano 5-16€ (2026)',
+  budgetIndicativo: 'da calcolare su voli, auto e alloggi; gli ingressi principali costano 5-16 € (2026)',
   scheda: {
     documenti:
       'L\'Irlanda è nell\'Unione Europea ma non nell\'area Schengen: alla frontiera c\'è il controllo dei documenti. I cittadini UE possono entrare con la carta d\'identità valida per l\'espatrio o con il passaporto; ireland.com avverte però che compagnie aeree e traghetti chiedono sempre più spesso il passaporto, quindi conviene verificare con il vettore. Attenzione se il viaggio passa nell\'Irlanda del Nord: lì la carta d\'identità non basta, servono passaporto ed ETA britannica (vedi la scheda dell\'Irlanda del Nord). Prima di partire va controllata la pagina dell\'Irlanda su viaggiaresicuri.it.',
@@ -29,7 +29,7 @@ export const irlanda: Paese = {
     trasportiInterni:
       'Per un anello come questo serve l\'auto a noleggio: treni e bus collegano bene le città ma non il Ring of Kerry, Dingle, il Burren o il Connemara. Si guida a sinistra e i limiti sono in km/h (120 in autostrada, 100 sulle strade nazionali; su molte strade locali il limite è stato abbassato di recente, quindi si seguono i cartelli). Se l\'auto noleggiata nella Repubblica deve entrare nell\'Irlanda del Nord va detto al noleggio al momento della prenotazione. Su alcune autostrade c\'è il pedaggio: come si paga con l\'auto a noleggio va chiesto al ritiro.',
     costoVita:
-      'Caro, soprattutto a Dublino e d\'estate. Alcuni ingressi verificati nel 2026: Kilmainham Gaol 8€, Kilkenny Castle 8€, Rocca di Cashel 8€, centro visitatori di Glendalough 5€, Cliffs of Moher 15€ alla cassa (meno online). Alloggi e auto vanno prenotati presto per luglio e agosto.',
+      'Caro, soprattutto a Dublino e d\'estate. Alcuni ingressi verificati nel 2026: Kilmainham Gaol 8 €, Kilkenny Castle 8 €, Rocca di Cashel 8 €, centro visitatori di Glendalough 5 €, Cliffs of Moher 15 € alla cassa (meno online). Alloggi e auto vanno prenotati presto per luglio e agosto.',
     lingua: 'Inglese e irlandese (gaelico), entrambe lingue ufficiali. Nelle zone del Gaeltacht, come la penisola di Dingle e parte del Connemara, l\'irlandese si parla ogni giorno e i cartelli sono spesso solo in irlandese.',
     elettricita: '230V, 50Hz, prese di tipo G a tre poli rettangolari, come nel Regno Unito: serve un adattatore.',
     fusoOrario: 'Un\'ora indietro rispetto all\'Italia tutto l\'anno, con l\'ora legale negli stessi giorni.',

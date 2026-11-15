@@ -87,7 +87,7 @@ La tarde la dedicamos a la parte alta: la **Piazzetta**, minúscula, que vive de
 
 Hacia la noche, cuando las excursiones de un día se han marchado, **Capri cambia**. Por la noche la isla se vacía en dos tercios y de pronto se queda en silencio, y por eso vale la pena dormir allí en vez de hacerla en el día.
 
-**En la práctica:** ferry o hidroala a Capri desde Amalfi, Positano, Sorrento o Nápoles · funicular de Marina Grande a la Piazzetta, billetes en la estación · Jardines de Augusto con entrada · estado de la Via Krupp a comprobar · dormir en la isla es caro, reservar pronto.
+**En la práctica:** ferry o hidroala a Capri desde Amalfi, Positano, Sorrento o Nápoles · funicular de Marina Grande a la Piazzetta, billetes en la estación · Jardines de Augusto con entrada · la Via Krupp a menudo está cerrada: preguntar en el pueblo si está abierta · dormir en la isla es caro, reservar pronto.
 
 ### Día 6 — Capri, desde lo alto y desde el mar
 Por la mañana subimos a **Anacapri**, el pueblo alto, la otra cara de la isla: menos escaparates, más vida. Desde allí cogimos el **telesilla al Monte Solaro**, un telesilla monoplaza, abierto, que sube despacio sobre los muretes y los jardines: es la experiencia más bonita de la isla, a un precio ridículo. En la cima, a **589 metros**, se tiene toda Capri debajo y el golfo entero alrededor.

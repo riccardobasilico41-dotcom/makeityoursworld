@@ -259,25 +259,25 @@ export const destinazioniQatar: Destinazione[] = [
         "nome": "Souq Waqif / Msheireb",
         "perChi": "those who want to be near everything",
         "testo": "Boutique hotels and chains near the souq and metro.",
-        "fascia": "90-220 €"
+        "fascia": "€90-220"
       },
       {
         "nome": "West Bay",
         "perChi": "those who want skyscrapers and luxury hotels",
         "testo": "Modern skyline, far from the souq.",
-        "fascia": "100-250 €"
+        "fascia": "€100-250"
       },
       {
         "nome": "The Pearl",
         "perChi": "those who want beach and restaurants",
         "testo": "An artificial island with a marina and venues, touristy and expensive.",
-        "fascia": "150-350 €"
+        "fascia": "€150-350"
       },
       {
         "nome": "Lusail",
         "perChi": "those who want new hotels and the sea",
         "testo": "Recent hotels between the boulevard and the marina, linked by metro and tram, but 20-30 minutes from the old centre.",
-        "fascia": "110-280 €"
+        "fascia": "€110-280"
       }
     ],
     sapori: [

@@ -371,7 +371,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Boarding at Paraty port. Private lanchas cost more but choose where to stop.",
         "quando": "Morning.",
         "tempo": "4-5 hours",
-        "costo": "Escuna about 100-150 R$ per person for 4-5 hours with stops (about 17-25 €), lunch extra",
+        "costo": "Escuna about 100-150 R$ per person for 4-5 hours with stops (about €17-25), lunch extra",
         "lat": -23.21986,
         "lng": -44.71203,
         "consiglio": "If you want to avoid the crowd, choose a lancha."
@@ -487,25 +487,25 @@ export const destinazioniBrasile: Destinazione[] = [
         "nome": "Historic centre of Paraty",
         "perChi": "Those who want a colonial atmosphere",
         "testo": "Pousadas in colonial houses. Cobbled streets, evening noise from bars.",
-        "fascia": "60-200 €"
+        "fascia": "€60-200"
       },
       {
         "nome": "Vila do Abraão",
         "perChi": "Those visiting Ilha Grande",
         "testo": "Pousadas, nightlife and boat departures. Car-free island.",
-        "fascia": "40-150 €"
+        "fascia": "€40-150"
       },
       {
         "nome": "Jabaquara and outside the centre (Paraty)",
         "perChi": "Those travelling by car who want to spend less",
         "testo": "Pousadas with parking and gardens 10-20 minutes' walk from the historic centre, quieter at night.",
-        "fascia": "40-110 €"
+        "fascia": "€40-110"
       },
       {
         "nome": "Trindade",
         "perChi": "Those who want the sea and a village atmosphere",
         "testo": "Simple pousadas and campsites near the beaches, with low-key nightlife. You need the bus to get back to Paraty.",
-        "fascia": "35-100 €"
+        "fascia": "€35-100"
       }
     ],
     sapori: [
@@ -528,7 +528,7 @@ export const destinazioniBrasile: Destinazione[] = [
       "Book the airport transfer the day before.",
       "Cobbled streets at high tide: possible flooding."
     ],
-    costi: "Low budget about 40-60 € a day (simple pousada or hostel, pay-by-weight restaurants, buses); mid-range 90-140 € (pousada in Paraty's historic centre or in Abraão, escuna, transfers); high from 220 € (charming pousada, private lancha). Escuna on Paraty bay about 100-150 R$ per person for 4-5 hours, lunch extra; a private lancha costs more, to be negotiated at the pier. On the island cash is useful for boats and lunches.",
+    costi: "Low budget about €40-60 a day (simple pousada or hostel, pay-by-weight restaurants, buses); mid-range €90-140 (pousada in Paraty's historic centre or in Abraão, escuna, transfers); high from €220 (charming pousada, private lancha). Escuna on Paraty bay about 100-150 R$ per person for 4-5 hours, lunch extra; a private lancha costs more, to be negotiated at the pier. On the island cash is useful for boats and lunches.",
     gite: [
       {
         "nome": "Paraty-Mirim",
@@ -601,7 +601,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: "Foz do Iguaçu airport (IGU) has flights from São Paulo, Rio and the other big cities, almost always with a connection if you are coming from Rio. It is on the road to the park: the city is 20-30 minutes away by taxi or app, the entrance to the falls about 10 minutes; city bus 120 links the centre, the airport and the park. On the Argentine side there is Puerto Iguazú airport (IGR), with flights from Buenos Aires. You cross the border between the two cities by taxi, bus or transfer, with your passport.",
     comeSpostarsi: 'City buses and taxis to the Brazilian park; taxi or transfer to cross the border.',
     periodoMigliore: 'all year; more water between December and March, less heat between April and September.',
-    costi: "Low budget about 40-60 € a day (hostel or pousada, bus 120, pay-by-weight restaurants); mid-range 90-140 € (hotel in Foz, the falls from both sides, Parque das Aves); high from 250 € (hotel inside the park, Macuco Safari, helicopter flights). Brazilian park 134 R$ for foreigners (from 19 December 2025); Argentine park 60,000 pesos for non-resident foreigners (about 40 dollars, from 1 June 2026); Parque das Aves 110 R$; Itaipu Panorâmica 63 R$; inflatable boat 450-550 R$.",
+    costi: "Low budget about €40-60 a day (hostel or pousada, bus 120, pay-by-weight restaurants); mid-range €90-140 (hotel in Foz, the falls from both sides, Parque das Aves); high from €250 (hotel inside the park, Macuco Safari, helicopter flights). Brazilian park 134 R$ for foreigners (from 19 December 2025); Argentine park 60,000 pesos for non-resident foreigners (about 40 dollars, from 1 June 2026); Parque das Aves 110 R$; Itaipu Panorâmica 63 R$; inflatable boat 450-550 R$.",
     erroriDaEvitare: [
       'Seeing only one side',
       'Forgetting your passport for the Argentine border',
@@ -641,7 +641,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Can be booked on the spot or in advance; leaves from the Brazilian side.",
         "quando": "Morning or afternoon.",
         "tempo": "1-2 hours",
-        "costo": "About 450-550 R$ (about 75-90 €), separate from park entry",
+        "costo": "About 450-550 R$ (about €75-90), separate from park entry",
         "lat": -25.65139,
         "lng": -54.43794,
         "consiglio": "You get completely wet: spare clothes and a phone cover."
@@ -652,7 +652,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Right opposite the entrance of the Brazilian side.",
         "quando": "After the falls, in the afternoon.",
         "tempo": "1-2 hours",
-        "costo": "110 R$ full-price ticket (about 18 €), the same for Brazilians and foreigners, price valid until 30 November 2026",
+        "costo": "110 R$ full-price ticket (about €18), the same for Brazilians and foreigners, price valid until 30 November 2026",
         "orari": "Daily 8.30am-4.30pm",
         "url": "https://www.parquedasaves.com.br/",
         "lat": -25.61509,
@@ -665,7 +665,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "About 20 minutes by taxi or app from the centre of Foz; city buses from the terminal.",
         "quando": "Morning or early afternoon; on Friday and Saturday evenings the dam is lit up.",
         "tempo": "1h10 for the panoramic tour, 2h30 for the special tour",
-        "costo": "Itaipu Panorâmica 63 R$ (about 10 €), Itaipu Especial 185 R$ (about 30 €), Itaipu Iluminada 50 R$ (2026)",
+        "costo": "Itaipu Panorâmica 63 R$ (about €10), Itaipu Especial 185 R$ (about €30), Itaipu Iluminada 50 R$ (2026)",
         "orari": "Panorâmica daily 8.30am-5pm; Iluminada Friday and Saturday at 7pm",
         "url": "https://www.turismoitaipu.com.br/",
         "lat": -25.42462,
@@ -734,25 +734,25 @@ export const destinazioniBrasile: Destinazione[] = [
         "nome": "Foz do Iguaçu",
         "perChi": "Those with flights who want convenience",
         "testo": "A wide choice of hotels, linked to the airport. Easier for flights.",
-        "fascia": "40-130 €"
+        "fascia": "€40-130"
       },
       {
         "nome": "Puerto Iguazú (Argentina)",
         "perChi": "Those who want to be closer to the Argentine side",
         "testo": "A smaller town, with less choice and less convenient flights.",
-        "fascia": "40-150 €"
+        "fascia": "€40-150"
       },
       {
         "nome": "Hotel inside the Brazilian park",
         "perChi": "Those who want the view from the room",
         "testo": "A high-end hotel inside the park.",
-        "fascia": "350-800 €"
+        "fascia": "€350-800"
       },
       {
         "nome": "Avenida das Cataratas (Foz)",
         "perChi": "Those who want to stay close to the Brazilian park",
         "testo": "The road between the city and the park, with resorts and hotels with pools set among greenery. You need a taxi or bus 120 in the evening.",
-        "fascia": "70-200 €"
+        "fascia": "€70-200"
       }
     ],
     sapori: [
@@ -1024,19 +1024,19 @@ export const destinazioniBrasile: Destinazione[] = [
         "nome": "Pelourinho and Santo Antônio Além do Carmo",
         "perChi": "Those who want the historic centre",
         "testo": "Pousadas in historic houses. Patrolled by day, empties in the evening.",
-        "fascia": "40-150 €"
+        "fascia": "€40-150"
       },
       {
         "nome": "Barra and Rio Vermelho",
         "perChi": "Those who want the sea and nightlife",
         "testo": "Safer in the evening, near the beaches and restaurants.",
-        "fascia": "40-140 €"
+        "fascia": "€40-140"
       },
       {
         "nome": "Ondina and the seafront",
         "perChi": "Those who want a big hotel by the sea",
         "testo": "Between Barra and Rio Vermelho, with larger hotels facing the ocean. Handy for evenings in Rio Vermelho; you need an app to get to the historic centre.",
-        "fascia": "60-160 €"
+        "fascia": "€60-160"
       }
     ],
     sapori: [
@@ -1063,7 +1063,7 @@ export const destinazioniBrasile: Destinazione[] = [
       "Petty crime: phone thefts and bag snatching.",
       "Use apps rather than walking at night."
     ],
-    costi: "Low budget about 40-60 € a day (pousada or hostel, acarajé and pay-by-weight restaurants, metro and buses); mid-range 90-140 € (hotel in Barra or Pelourinho, Bahian restaurants, apps for getting around); high from 220 € (boutique hotel in a historic house, private boat trip on the bay). Elevador Lacerda about 1 R$ per ride (since 2025); acarajé from the baianas a few reais.",
+    costi: "Low budget about €40-60 a day (pousada or hostel, acarajé and pay-by-weight restaurants, metro and buses); mid-range €90-140 (hotel in Barra or Pelourinho, Bahian restaurants, apps for getting around); high from €220 (boutique hotel in a historic house, private boat trip on the bay). Elevador Lacerda about 1 R$ per ride (since 2025); acarajé from the baianas a few reais.",
     gite: [
       {
         "nome": "Morro de São Paulo",

@@ -32,7 +32,7 @@ export const indonesiaIsolaPerIsolaMeta: TripMeta = {
   criticita: [
     'Prezzi, orari, chiusure e tasse locali cambiano spesso: vanno ricontrollati prima di partire',
     'Il Rinjani di solito chiude nei primi mesi dell\'anno (nel 2026 dal 1° gennaio al 31 marzo) e può chiudere singoli sentieri anche in stagione secca',
-    'L\'importo del permesso di Raja Ampat per gli stranieri non è confermato',
+    'L\'importo del permesso di Raja Ampat per gli stranieri cambia spesso: si paga sul posto, a Sorong o a Waisai',
     'Il Borneo indonesiano non è stato visitato da Rick: solo informazioni di base',
   ],
   budgetTotale: undefined,
@@ -58,7 +58,7 @@ export const indonesiaIsolaPerIsolaMeta: TripMeta = {
     { titoloGiorno: 'Lombok e le Gili', tratta: 'Volo su Lombok o barca veloce da Bali', intensita: 'intenso', costiNoti: 'Rinjani con guida e operatore autorizzato, prenotazione sull\'app ufficiale E-Rinjani; nel 2026 chiuso dal 1° gennaio al 31 marzo', destinazioneSlug: 'lombok-gili', immagine: '/images/indonesia/gili-isolotto-barche-riccardo.jpg', imageAlt: "Un isolotto di sabbia bianca al largo di Lombok, con le barche a bilanciere ormeggiate e le colline sullo sfondo" },
     { titoloGiorno: 'Giava', tratta: 'Volo su Giacarta, Yogyakarta o Surabaya', intensita: 'intenso', costiNoti: 'biglietto per salire su Borobudur a numero chiuso', destinazioneSlug: 'giava', immagine: '/images/indonesia/bromo-alba-drone-riccardo.jpg', imageAlt: "Il cratere del Bromo che fuma nella caldera piena di nebbia alla luce dell'alba, visto dal drone" },
     { titoloGiorno: 'Sumatra', tratta: 'Volo su Medan o Padang', intensita: 'intenso', destinazioneSlug: 'sumatra', immagine: '/images/viaggi/indonesia-itinerario/giorno-04-lago-toba.jpg', imageAlt: "Vista panoramica del Lago Toba e della cittadina di Parapat dalle acque del lago, Sumatra" },
-    { titoloGiorno: 'Le Mentawai', tratta: 'Traghetto veloce Mentawai Fast da Padang', intensita: 'intenso', costiNoti: 'tassa surf con importo da verificare', destinazioneSlug: 'mentawai', immagine: '/images/indonesia/mentawai-costa-foresta.webp', imageAlt: "La foresta pluviale delle Mentawai che arriva fino al mare, con un fiume che serpeggia verso la costa, vista dal drone" },
+    { titoloGiorno: 'Le Mentawai', tratta: 'Traghetto veloce Mentawai Fast da Padang', intensita: 'intenso', costiNoti: 'tassa surf locale da pagare prima di entrare in acqua', destinazioneSlug: 'mentawai', immagine: '/images/indonesia/mentawai-costa-foresta.webp', imageAlt: "La foresta pluviale delle Mentawai che arriva fino al mare, con un fiume che serpeggia verso la costa, vista dal drone" },
     { titoloGiorno: 'Komodo e Flores', tratta: 'Volo diretto da Bali o Giacarta su Labuan Bajo', intensita: 'medio', costiNoti: 'ingresso al parco 250.000 IDR a persona per gli stranieri dal 30/10/2024', destinazioneSlug: 'komodo', immagine: '/images/viaggi/indonesia-itinerario/giorno-28-komodo-dragon.jpg', imageAlt: "Primo piano della testa di un drago di Komodo con la lingua biforcuta estesa, Parco Nazionale di Komodo" },
     { titoloGiorno: 'Sulawesi', tratta: 'Volo su Makassar o Manado; 8-10 h di strada per Toraja', intensita: 'medio', destinazioneSlug: 'sulawesi', immagine: '/images/viaggi/indonesia-itinerario/giorno-33-kete-kesu-tongkonan.jpg', imageAlt: "La facciata intagliata e dipinta di una tongkonan a Kete Kesu, decorata con corna di bufalo impilate, Tana Toraja" },
     { titoloGiorno: 'Raja Ampat', tratta: 'Volo su Sorong, traghetto per Waisai circa 2h', intensita: 'medio', costiNoti: 'biglietto del traghetto al porto; permesso del parco obbligatorio', destinazioneSlug: 'raja-ampat', immagine: '/images/viaggi/bali-sulawesi-raja-ampat/giorno-09-piaynemo.webp', imageAlt: "Le isole carsiche di Piaynemo coperte di foresta, tra lagune verdi e canali" },
@@ -68,8 +68,8 @@ export const indonesiaIsolaPerIsolaMeta: TripMeta = {
     { etichetta: 'Visto e-VOA', valore: 'circa 500.000 IDR' },
     { etichetta: 'Tassa turistica di Bali', valore: '150.000 IDR a persona' },
     { etichetta: 'Ingresso al Parco di Komodo', valore: '250.000 IDR a persona per gli stranieri, trekking e snorkeling compresi' },
-    { etichetta: 'Traghetto Sorong-Waisai', valore: 'biglietto al porto, economy o VIP; prezzo da verificare' },
-    { etichetta: 'Permesso di Raja Ampat (PIN)', valore: 'obbligatorio, importo per gli stranieri da verificare' },
+    { etichetta: 'Traghetto Sorong-Waisai', valore: 'biglietto al porto, economy o VIP' },
+    { etichetta: 'Permesso di Raja Ampat (PIN)', valore: 'obbligatorio, si paga a Sorong o a Waisai' },
     { etichetta: 'Voli interni', valore: undefined },
   ],
 }

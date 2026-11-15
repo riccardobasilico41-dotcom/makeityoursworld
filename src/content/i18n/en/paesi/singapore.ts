@@ -12,7 +12,7 @@ export const singapore: Paese = {
   durataConsigliata:
     "2-3 days as a stop of its own, or 4-5 days using it as a base. It also works well as a 24-hour long layover between two flights, and it's one of the few airports in the world where a layover is good news.",
   budgetIndicativo:
-    "the most expensive city in Southeast Asia for lodging (€100-180 a night for a decent room) and for alcohol, heavily taxed. Transport, on the other hand, costs a few cents and a full meal in a hawker center is between 3 and 6 euros: you can stay in Singapore spending little on everything except the bed.",
+    "the most expensive city in Southeast Asia for lodging (€100-180 a night for a decent room) and for alcohol, heavily taxed. Transport, on the other hand, costs a few cents and a full meal in a hawker center is between 3 and €6: you can stay in Singapore spending little on everything except the bed.",
   stileViaggio: ['città', 'gastronomia', 'architettura', 'scalo lungo'],
   scheda: {
     documenti:
@@ -28,7 +28,7 @@ export const singapore: Paese = {
     trasportiInterni:
       "The MRT, the metro, is among the best in the world: clean, extensive, air-conditioned, with announcements in English and with turnstiles that accept foreign contactless cards directly. It also covers the airport. Buses complete the rest, taxis and Grab are cheap by the city's standards. Everything is designed so you walk as little as possible under the sun: the central districts are connected by air-conditioned underground passages.",
     costoVita:
-      "Double. Lodging and alcohol have Northern European prices (a beer in a bar easily costs 12-15 euros), while transport costs a few cents and hawker centers serve full dishes for 3-6 euros. Those who sleep in a hostel or capsule hotel and eat at hawker centers stay in Singapore on a Southeast Asian daily budget.",
+      "Double. Lodging and alcohol have Northern European prices (a beer in a bar easily costs €12-15), while transport costs a few cents and hawker centers serve full dishes for €3-6. Those who sleep in a hostel or capsule hotel and eat at hawker centers stay in Singapore on a Southeast Asian daily budget.",
     lingua:
       "Four official languages: English, Mandarin, Malay and Tamil. English is the lingua franca and is spoken everywhere with an entirely local lilt, Singlish, which mixes the other three and uses final particles like \"lah.\" No language barrier.",
     elettricita: "230V, 50Hz, type G sockets, British three-pin rectangular: same adapter as Malaysia.",

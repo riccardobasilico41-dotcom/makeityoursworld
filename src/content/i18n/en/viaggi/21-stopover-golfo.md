@@ -18,7 +18,7 @@ This isn't an itinerary in the usual sense: it's a manual for not wasting your l
   - **Emirates Dubai Stopover**: the separate, paid commercial product, for people who stop by choice. Compare it with the price of an independent booking, because it isn't always the cheapest.
   - **Etihad Abu Dhabi Stopover**: one or two **free** hotel nights, but you have to opt in: you add it while booking a round-trip ticket, with a stop of at least 24 hours, and the hotel has to be booked a few days before the flight.
   - **Qatar Airways Stopover**: four-star hotel **from about $14 per person per night**, five-star from $20-30, from 1 to 4 nights, with a layover between 12 and 96 hours. Valid on Qatar Airways tickets, codeshares and oneworld. **You book it on a separate portal** (Discover Qatar) with the flight booking code: it's the step almost nobody knows about.
-  - **Saudia and flynas, stopover visa**: no hotel, but **a free visa** for up to 4 days in the Kingdom, to apply for online after buying the ticket. It saves the roughly 130 euros of the ordinary tourist visa.
+  - **Saudia and flynas, stopover visa**: no hotel, but **a free visa** for up to 4 days in the Kingdom, to apply for online after buying the ticket. It saves the roughly €130 of the ordinary tourist visa.
 - **Visas, in two lines:** the Emirates and Qatar give Italian citizens **free entry on arrival**, with no advance paperwork (180 days with a 90-day stay in the Emirates, 30 days extendable in Qatar). Saudi Arabia requires a paid e-visa, **or** the free stopover one if you fly Saudia or flynas.
 - **Real usable time:** a twelve-hour layover is not twelve hours in the city. Between landing, checks, transfer and getting back three hours early, you're left with five or six actual hours. The rule of thumb: **under ten hours of layover it's not worth going out**, over twelve it always is.
 - **Alcohol:** in the Emirates and Qatar you can only drink in licensed venues and hotels, with zero tolerance for public drunkenness. **In Saudi Arabia it doesn't exist**, in any form and in any hotel.
@@ -91,7 +91,7 @@ The day almost nobody does, and the reason to stretch the stopover by a day.
 **In practice:** Khor Al Adaid about an hour and a half from Doha, only by 4x4 with a driver, booked with an operator; the price is per car, so it pays to share it · leave in the early afternoon to stay until sunset · water, sunscreen and a warm layer for the evening · for the north, a rental car and a full day, with the last stretch to the Serra slabs on gravel.
 
 ### Day 7 — Jeddah, the Saudi stopover
-A block unlike all the others: here you don't save on the hotel, you save on **the visa**. Flying Saudia or flynas you apply online for the **free stopover visa**, valid for up to 4 days, instead of the tourist visa at about 130 euros.
+A block unlike all the others: here you don't save on the hotel, you save on **the visa**. Flying Saudia or flynas you apply online for the **free stopover visa**, valid for up to 4 days, instead of the tourist visa at about €130.
 
 **Al-Balad**, the UNESCO-listed historic center, is the reason to get off: tower houses of coral stone taken from the Red Sea, with the **rawashin**, carved teak wood facades up to four stories high, which came from India on the pilgrim ships. See it **in the last hour of light**: by day it's a dusty neighborhood full of scaffolding, then the low light catches the wood and everything changes.
 

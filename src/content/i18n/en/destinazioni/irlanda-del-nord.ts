@@ -26,7 +26,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     comeSpostarsi: 'On foot in the centre, taxi for the western neighbourhoods and the Titanic Quarter.',
     periodoMigliore: 'all year; around July 12 there are parades and bonfires, and it is worth finding out beforehand',
     costi:
-      "Titanic Belfast £24.95 online (about €29), SS Nomadic included (2026). The Ulster Museum, Botanic Gardens, City Hall and St George's Market are free. Mural tours have their own prices, to be checked with the operator. Indicative daily budget per person, sharing a double room: low €80-110, mid €140-200, high over €280.",
+      "Titanic Belfast £24.95 online (about €29), SS Nomadic included (2026). The Ulster Museum, Botanic Gardens, City Hall and St George's Market are free. Mural tours have their own prices: ask the operator. Indicative daily budget per person, sharing a double room: low €80-110, mid €140-200, high over €280.",
     erroriDaEvitare: [
       "Wandering among the murals alone without knowing what you are looking at: with a guide you understand who painted them and why",
       "Making political comments to people you don't know, or photographing people and houses without asking",

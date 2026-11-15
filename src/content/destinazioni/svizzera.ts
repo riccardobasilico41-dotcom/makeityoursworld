@@ -1017,7 +1017,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Funivia da Stechelberg (fondovalle) o da Mürren, con più tronchi.",
         quando: "Mattina, con la luce migliore. Chiusa al vento forte.",
         tempo: "2-3 ore",
-        costo: "Andata e ritorno 115 CHF da Stechelberg e 91,40 CHF da Mürren, validi fino al 12/12/2026 (sito ufficiale); forti sconti con Swiss Travel Pass.",
+        costo: "Andata e ritorno 115 CHF da Stechelberg e 91,40 CHF da Mürren, validi fino al 12/12/2026; forti sconti con Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "Dal fondovalle la salita è più lunga ma regala vedute sulle pareti."
       },

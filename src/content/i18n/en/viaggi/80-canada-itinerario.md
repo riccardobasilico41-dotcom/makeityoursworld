@@ -73,7 +73,7 @@ The boat is the way of seeing them that we liked best: **Voyage to the Falls** b
 
 **In practice**
 - Toronto to Niagara Falls: about 130 km (80 miles), an hour and a half without traffic
-- Voyage to the Falls: CAD 47.95 adults and CAD 32.95 children 3-12, plus HST (2026 prices reported by several guides; check the official price at niagaracitycruises.com)
+- Voyage to the Falls: CAD 47.95 adults and CAD 32.95 children 3-12, plus HST (2026), tickets on niagaracitycruises.com
 - Journey Behind the Falls: around CAD 30 plus HST in high season
 - Parking near the falls is paid and expensive: better to leave the car at the hotel and use the WEGO shuttles
 

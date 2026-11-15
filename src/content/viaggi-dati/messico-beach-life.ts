@@ -175,7 +175,7 @@ export const messicoBeachLifeMeta: TripMeta = {
     {
       titoloGiorno: 'Giorno 12 — Rientro a Cancún',
       tratta: 'Holbox → Cancún',
-      pernottamento: 'da confermare (giorno di rientro)',
+      pernottamento: '',
       statoPernottamento: 'da-confermare',
       intensita: 'leggero',
       destinazioneSlug: 'cancun',

@@ -71,7 +71,7 @@ Ci si viene per la **Grotta del Genovese**, uno dei siti d'arte preistorica più
 
 Il resto di Levanzo l'abbiamo girato a piedi. C'è **Cala Minnola** con il pineto e, sul fondale a pochi metri di profondità, i resti di un **relitto romano con le anfore ancora in posizione**, visitabile in snorkeling con accompagnamento.
 
-**In pratica:** Grotta del Genovese solo su prenotazione, almeno 48 ore prima, con visite al mattino · circa 20 euro la sola grotta, circa 40 con il trasporto, tariffe da ricontrollare sul sito ufficiale · aliscafo per Levanzo da Trapani o da Favignana: verificare l'orario dell'ultimo rientro · sull'isola pochissimi servizi, meglio portarsi l'acqua.
+**In pratica:** Grotta del Genovese solo su prenotazione, almeno 48 ore prima, con visite al mattino · circa 20 € la sola grotta, circa 40 con il trasporto · aliscafo per Levanzo da Trapani o da Favignana: verificare l'orario dell'ultimo rientro · sull'isola pochissimi servizi, meglio portarsi l'acqua.
 
 ### Giorno 4 — Marettimo
 È la più lontana, la più alta e la più diversa. **Marettimo** è a un'ora di aliscafo da Trapani, è montuosa, coperta di macchia e pini, e **non ha auto**: solo il paese, il porto e i sentieri.
@@ -84,7 +84,7 @@ Marettimo ha pochissimi posti letto e quasi nessun servizio serale: è il posto 
 
 In serata siamo rientrati a Trapani.
 
-**In pratica:** aliscafo Trapani-Marettimo in circa un'ora, con soste a Favignana e Levanzo · il sentiero per Pizzo Falcone è faticoso: partire presto, con molta acqua e scarpe da trekking · il giro delle grotte si prenota al porto con i barcaioli dell'isola · ultimo aliscafo per Trapani nel pomeriggio, da verificare prima di partire.
+**In pratica:** aliscafo Trapani-Marettimo in circa un'ora, con soste a Favignana e Levanzo · il sentiero per Pizzo Falcone è faticoso: partire presto, con molta acqua e scarpe da trekking · il giro delle grotte si prenota al porto con i barcaioli dell'isola · ultimo aliscafo per Trapani nel pomeriggio: controllare l'orario prima di partire.
 
 ### Giorno 5 — Trasferimento a Pantelleria e primo giro
 Per **Pantelleria** c'è il volo o il traghetto; all'arrivo si ritira il mezzo prenotato.
@@ -128,7 +128,7 @@ Abbiamo fatto il giro dell'isola in barca, l'unico modo per vedere la costa che 
 
 In alternativa, per chi preferisce camminare, ci sono i sentieri dell'interno tra i vigneti terrazzati e i dammusi abbandonati, e la **Cala Cinque Denti** sul versante nord-orientale, con le rocce laviche a punte. I sentieri vanno fatti al mattino presto o verso sera, perché d'estate la lava scura trattiene il calore e l'ombra è poca. Chi ha l'auto può combinare le due cose: mezza giornata a piedi e un bagno nel pomeriggio nella cala riparata dal vento del giorno. L'ultima sera pantesca l'abbiamo chiusa con i **ravioli amari** e il Passito.
 
-**In pratica:** escursione condivisa di una giornata da circa 60 euro a persona con il pranzo, barca privata molto più cara · prenotare il giorno prima e riconfermare la mattina in base al vento · sui sentieri quasi nessun punto di ristoro: acqua e cappello · l'isola è Parco nazionale dal 2016: si resta sui sentieri e non si scavalcano i muretti.
+**In pratica:** escursione condivisa di una giornata da circa 60 € a persona con il pranzo, barca privata molto più cara · prenotare il giorno prima e riconfermare la mattina in base al vento · sui sentieri quasi nessun punto di ristoro: acqua e cappello · l'isola è Parco nazionale dal 2016: si resta sui sentieri e non si scavalcano i muretti.
 
 ### Giorno 9 — Giornata di transito
 È la giornata onesta dell'itinerario: **si torna in Sicilia e si riparte verso Lampedusa.** Volo per **Palermo** o **Catania** e coincidenza per Lampedusa oppure, con orari meno fortunati, una notte di passaggio in Sicilia. Il volo da Pantelleria dura meno di un'ora, quello per Lampedusa più o meno lo stesso: il problema non sono i tempi in aria ma gli orari, perché le corse sono poche e non sempre si incastrano. **Va prevista con margine.** Una cancellazione per vento a Pantelleria fa saltare la coincidenza, e i voli per Lampedusa non sono frequenti. **Non comprare biglietti non modificabili a poche ore di distanza l'uno dall'altro.**
@@ -164,7 +164,7 @@ L'ultima mattina, poi il volo. **Con margine**, perché da queste parti l'ultima
 
 Se il volo per il continente fa scalo a Palermo o a Catania, conviene non attaccarci lo stesso giorno un volo intercontinentale o un treno a poche ore di distanza: un ritardo per vento a Lampedusa fa saltare tutto il resto. Chi può tiene una notte di riserva in Sicilia, che se tutto va bene diventa una sera in più in città. Qualcosa da mangiare per il viaggio si compra in paese, perché nel piccolo aeroporto la scelta è limitata.
 
-**In pratica:** aeroporto di Lampedusa a pochi minuti dal centro · presentarsi con un margine comodo anche se lo scalo è piccolo · tra il volo da Lampedusa e una coincidenza importante lasciare almeno mezza giornata, meglio una notte · nave per Porto Empedocle da verificare il giorno prima.
+**In pratica:** aeroporto di Lampedusa a pochi minuti dal centro · presentarsi con un margine comodo anche se lo scalo è piccolo · tra il volo da Lampedusa e una coincidenza importante lasciare almeno mezza giornata, meglio una notte · nave per Porto Empedocle: controllare l'orario il giorno prima.
 
 ## Le versioni brevi
 - **Solo Egadi (4-5 giorni):** la più facile, la più economica e la più adatta a una prima volta. Base a Favignana, Levanzo e Marettimo in giornata. Si arriva da Trapani e si riparte da Trapani.

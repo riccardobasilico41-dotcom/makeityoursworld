@@ -95,14 +95,14 @@ Davanti al porto di Hvar ci sono le **isole Pakleni**, un arcipelago di pinete e
 
 In alternativa si può fare un giro in scooter o in auto nell'interno dell'isola: i paesi abbandonati come **Malo Grablje**, i campi di lavanda (fioriscono tra giugno e luglio) e la piana di **Stari Grad**, patrimonio UNESCO per la divisione dei campi risalente ai coloni greci. Il giro si chiude bene a **Stari Grad**, una delle città più antiche d'Europa, con il porto lungo e stretto e la casa-fortezza rinascimentale di Tvrdalj del poeta Petar Hektorović. Si rientra a Hvar città per l'ultima sera prima di Curzola.
 
-**In pratica:** taxi-boat per le Pakleni dal porto di Hvar, indicativamente 10-15 € andata e ritorno, ultima barca di rientro da verificare al momento · scooter a noleggio in città, strade interne strette e con curve · Hvar-Stari Grad circa 20-30 minuti in auto o in bus · ristoranti di Palmižana cari, meglio prenotare o portarsi il pranzo.
+**In pratica:** taxi-boat per le Pakleni dal porto di Hvar, indicativamente 10-15 € andata e ritorno, l'orario dell'ultima barca di rientro si chiede al momento · scooter a noleggio in città, strade interne strette e con curve · Hvar-Stari Grad circa 20-30 minuti in auto o in bus · ristoranti di Palmižana cari, meglio prenotare o portarsi il pranzo.
 
 ### Giorno 10 — Curzola, la città di Marco Polo
 Da Hvar siamo passati in catamarano a **Curzola** (Korčula), circa un'ora e mezza. La città vecchia è costruita su una penisola a lisca di pesce: le vie laterali sono curve per spezzare il vento e far circolare l'aria. È la città che rivendica i natali di Marco Polo, con una casa-museo a lui dedicata. Poi le mura, la cattedrale di San Marco e il tramonto dal torrione. La città vecchia si gira in un paio d'ore: si entra dalla **Porta di Terraferma**, con la scalinata e la torre Revelin, e si sale lungo la via centrale fino alla cattedrale, in pietra chiara dell'isola.
 
 Nelle sere d'estate si può vedere la **moreška**, una danza delle spade tradizionale che rappresenta la battaglia tra due re. Sull'isola si produce il **grk**, un vino bianco che cresce solo nella zona di Lumbarda. Lumbarda è a pochi chilometri dalla città, raggiungibile in bus, in bici o in taxi-boat, con piccole cantine e spiagge sabbiose, rare in Dalmazia. *Il catamarano Hvar-Curzola in estate ha poche corse al giorno: conviene prenotarlo appena si fissano le date.*
 
-**In pratica:** catamarano Hvar-Curzola circa 1 ora e 30 minuti, indicativamente 20-30 € · moreška di solito il lunedì e il giovedì sera in luglio e agosto, con biglietto intorno ai 20 € per un adulto, date da verificare sul sito turistico di Curzola · Lumbarda circa 15 minuti in auto o in bus · per dormire, la città vecchia o Lumbarda.
+**In pratica:** catamarano Hvar-Curzola circa 1 ora e 30 minuti, indicativamente 20-30 € · moreška di solito il lunedì e il giovedì sera in luglio e agosto, con biglietto intorno ai 20 € per un adulto, date sul sito turistico di Curzola · Lumbarda circa 15 minuti in auto o in bus · per dormire, la città vecchia o Lumbarda.
 
 ### Giorno 11 — Da Curzola a Dubrovnik e le mura
 Da Curzola a **Dubrovnik** il catamarano impiega circa due ore (indicativamente 25-35 €). Si arriva al porto di Gruž e si raggiunge la città vecchia in bus o taxi. Il pomeriggio l'abbiamo dedicato alle **mura**: circa due chilometri di camminamento intorno al centro, con torri e bastioni sopra i tetti rossi e il mare. Il biglietto è di circa 40 € e comprende la **fortezza di Lovrijenac**; vale anche nei giorni successivi. Si entra di solito dalla **Porta Pile**, ma ci sono altri accessi vicino al porto vecchio e al forte di San Giovanni; il giro completo si percorre in un senso solo e richiede un paio d'ore con le soste.
@@ -130,7 +130,7 @@ L'aeroporto di Dubrovnik (Čilipi) è a circa 20 km a sud della città, con voli
 
 L'aeroporto si raggiunge con il bus navetta che parte dalla stazione dei bus di Gruž e passa vicino alla Porta Pile, coordinato con i voli, oppure in taxi. *In alta stagione la strada costiera verso sud si intasa: conviene partire con largo margine, soprattutto nei giorni di cambio degli affitti.* Chi rientra in traghetto parte invece dal porto di Gruž la sera e arriva a Bari la mattina dopo, con la possibilità di portare l'auto.
 
-**In pratica:** Dubrovnik-aeroporto circa 30-40 minuti · navetta aeroportuale Platanus con biglietto da circa 10 €, taxi decisamente più caro · traghetto per Bari con cabina o poltrona, da prenotare in anticipo e da verificare per date di esercizio · tassa di soggiorno spesso da pagare in contanti al check-out.
+**In pratica:** Dubrovnik-aeroporto circa 30-40 minuti · navetta aeroportuale Platanus con biglietto da circa 10 €, taxi decisamente più caro · traghetto per Bari con cabina o poltrona, da prenotare in anticipo, solo in alcuni periodi dell'anno · tassa di soggiorno spesso da pagare in contanti al check-out.
 
 ## Varianti
 **Una settimana.** Spalato (2 giorni con Traù), Hvar (2), Curzola (1) e Dubrovnik (2). Si arriva in aereo a Spalato e si riparte da Dubrovnik, senza auto.

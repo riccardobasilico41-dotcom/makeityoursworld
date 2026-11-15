@@ -82,7 +82,7 @@ Por la mañana estuvimos en el **Vigeland Park** (Frognerparken), el mayor parqu
 
 Por la tarde nos trasladamos a la península de los museos, **Bygdøy**, para el **Fram Museum**, dedicado al barco polar que usaron Nansen y Amundsen, y el **Kon-Tiki Museum**, con la balsa de Thor Heyerdahl que cruzó el Pacífico en 1947. Los dos museos están uno frente al otro, y al Fram se sube a bordo. El Viking Ship Museum, en la misma península, queda fuera del programa: está cerrado por reforma y no se prevé su reapertura antes de 2027.
 
-**En la práctica:** Vigeland Park gratuito y siempre abierto · Kon-Tiki unas 180 NOK, entrada combinada Fram y Kon-Tiki unas 325 NOK (webs de los museos, 2026) · a Bygdøy con el autobús 30 desde el centro todo el año o, en la temporada buena, con el ferry desde el muelle del ayuntamiento.
+**En la práctica:** Vigeland Park gratuito y siempre abierto · Kon-Tiki unas 180 NOK, entrada combinada Fram y Kon-Tiki unas 325 NOK (2026) · a Bygdøy con el autobús 30 desde el centro todo el año o, en la temporada buena, con el ferry desde el muelle del ayuntamiento.
 
 ### Día 9 — Crucero por el Oslofjord y salida
 La última mañana la dedicamos a un **crucero por el Oslofjord**, una salida de 1,5-2 horas entre las islas y bahías al sur de la ciudad, con salida desde el muelle frente al ayuntamiento. Es la forma más bonita de despedirse de la última de las tres capitales: verla desde el agua, como Copenhague el primer día. En el fiordo hace más frío que en la ciudad incluso en verano: conviene llevar una chaqueta y elegir un sitio al aire libre para las fotos de la Ópera y la fortaleza de Akershus a la ida.

@@ -103,7 +103,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "nome": "Casa Nassif",
         "testo": "Una de las casas-torre más conocidas de Al-Balad.",
         "come": "Dentro de Al-Balad, a pie.",
-        "quando": "Mañana o final de la tarde. Horario de los interiores, a comprobar en el lugar.",
+        "quando": "Mañana o final de la tarde. Horario de los interiores: preguntar en el lugar.",
         "tempo": "45 minutos"
       },
       {

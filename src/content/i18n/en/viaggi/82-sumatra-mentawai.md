@@ -22,7 +22,7 @@ After the jungle, the sea. The beaches of the Mentawai are beautiful, and Sipora
 - **Ferry to the Mentawai:** the **Mentawai Fast** leaves from the port at the mouth of the Batang Arau river, in Padang. It takes about 3.5 hours to **Tuapejat** (Sipora) and about 4 to **Siberut**. Sources on days and prices don't agree: they range from 300,000 to 400,000 IDR per person, with a surcharge for surfboards. It's best to buy the ticket the day before at the port. The most reliable source for schedules is the official Mentawai Fast Facebook page.
 - **Sea and weather:** boats only go out with the green light from the Syahbandar, the port authority. With a red flag nobody leaves, and ferries can be canceled because of weather or poor visibility. That's why the itinerary keeps a buffer day in Padang before the flight.
 - **Flights to the Mentawai:** the Mentawai airport (RKI) replaced Rokot in 2023, but no confirmed regular flights show up. Better not to count on them.
-- **Surf tax:** anyone surfing in the Mentawai pays a local tax. The current amount isn't confirmed: sources range from 75 to 130 USD, and in 2025 the local administration announced a range between 500,000 and 2,000,000 IDR depending on length of stay and spot. Ask your lodging or operator for the up-to-date figure.
+- **Surf tax:** anyone surfing in the Mentawai pays a local tax. In 2025 the local administration announced a range between 500,000 and 2,000,000 IDR depending on length of stay and spot, but the amount changes often. Ask your lodging or operator for the up-to-date figure.
 - **Health:** for malaria, the CDC lists a risk in rural areas of Sumatra. Before leaving you need to stop by a travel medicine clinic, which will decide on prophylaxis. Repellent, long sleeves and long pants.
 - **Insurance:** mandatory for the stay with Mentawai Tribe, and it must cover evacuation. If the return ferry is canceled once the trip has started, the operator doesn't refund.
 - **Cash:** outside the cities of Sumatra cards are of little use. It's best to leave Padang with cash for the islands.
@@ -39,7 +39,7 @@ It's better not to stop in Padang on the first night: the city is easier to see 
 **In practice:** Minangkabau International Airport to Bukittinggi about 3 hours by car, longer at weekends · private car about 500,000 IDR, agree the price first · get cash and a local SIM at the airport · accommodation in central Bukittinggi, near the Jam Gadang.
 
 ### Day 2 — The Harau Valley
-A day trip to the **Harau Valley**, within car range of Bukittinggi. For the trips on these days the simplest solution is a car with a driver: Mentawai Tribe, for example, offers one at 75 € a day for up to 4 people and 90 € for up to 9. You're back in Bukittinggi for the evening.
+A day trip to the **Harau Valley**, within car range of Bukittinggi. For the trips on these days the simplest solution is a car with a driver: Mentawai Tribe, for example, offers one at €75 a day for up to 4 people and €90 for up to 9. You're back in Bukittinggi for the evening.
 
 The valley lies beyond Payakumbuh, about 47 km away, and takes an hour and a half to two hours to reach. It's a basin of rice fields closed in by vertical rock walls, with small waterfalls running down the cliffs: the **sarasah**. The best known are Sarasah Bunta and **Sarasah Murai**, about ten minutes' walk into the forest. Leave early, because the morning light on the walls is the best and clouds and rain often roll in during the afternoon. The rest of the day is spent walking through the rice fields along the valley's lanes. *At weekends and on Indonesian holidays the valley fills up with local day-trippers: a weekday is better.* If you want more quiet, you can also sleep in one of the homestays inside the valley.
 
@@ -57,7 +57,7 @@ A day without a fixed plan is useful. Roads in West Sumatra can close: in June 2
 
 If you stay in town, you can explore it on foot without hurrying. Start from the **Jam Gadang**, where you can no longer climb to the top, and go through the Pasar Atas market. Then the Panorama park on the edge of the **Ngarai Sianok** canyon, with walls dropping toward the river, and under the same park the **Lobang Jepang**, the tunnels dug during the Japanese occupation in the Second World War. The Pacu Jawi, on the other hand, is held in the Tanah Datar area only after the rice harvest, on dates and in villages that change: ask a few days in advance. *During Ramadan the races stop.*
 
-**In practice:** Ngarai Sianok about 15,000 IDR · Lobang Jepang open roughly from 8 am to late afternoon, cheap ticket · Pacu Jawi only at certain times after the harvest, date to confirm with the operator · if the roads are closed, leave for Padang a day early.
+**In practice:** Ngarai Sianok about 15,000 IDR · Lobang Jepang open roughly from 8 am to late afternoon, cheap ticket · Pacu Jawi only at certain times after the harvest, ask the operator for the date · if the roads are closed, leave for Padang a day early.
 
 ### Day 5 — Back to Padang
 You return to **Padang** by car, about 3 hours. The afternoon is for getting ready for the jungle: ferry ticket bought at the port, cash, repellent, dry bag, power bank, rain jacket, shoes that can end up in the mud. Jewelry and expensive watches stay at the hotel. You go to bed early.
@@ -88,11 +88,11 @@ What you do depends on the family and the season, and the guide decides it with 
 **In practice:** boiled or filtered water, never from the river · repellent, long sleeves and long trousers from sunset · disinfectant and plasters for scratches · fully charged power bank: nothing gets recharged here.
 
 ### Day 9 — From the jungle to the sea, toward Sipora
-You set off again on foot and by canoe toward the coast, then by boat toward **Sipora**. Mentawai Tribe has a 6-day package that combines Siberut and a seaside stop on Sipora (from 480 € per person): it's the easiest way to arrange the passage between the islands. If you do it yourself, count on a private boat, roughly 1,500,000-3,000,000 IDR a day. On Sipora there's **Tuapejat**, the capital of the Mentawai, and the ferries to Padang leave from there.
+You set off again on foot and by canoe toward the coast, then by boat toward **Sipora**. Mentawai Tribe has a 6-day package that combines Siberut and a seaside stop on Sipora (from €480 per person): it's the easiest way to arrange the passage between the islands. If you do it yourself, count on a private boat, roughly 1,500,000-3,000,000 IDR a day. On Sipora there's **Tuapejat**, the capital of the Mentawai, and the ferries to Padang leave from there.
 
 Leave early, because the way back retraces the way in: muddy trail, canoe on the river and road to the coast, before you even get to the boat. The crossing to Sipora depends on the sea, and boats only go out with the port authority's go-ahead. *If the sea is big, wait: losing half a day is better than crossing high waves in a small boat.* You reach Sipora in the afternoon, and the first thing to do is have a real shower. Accommodation is spread along the coast, between Tuapejat and the south of the island: choose one that includes the transfer from the boat.
 
-**In practice:** Mentawai Tribe Siberut + Sipora package from 480 € per person · private boat about 1,500,000-3,000,000 IDR a day · departures only with the Syahbandar's go-ahead · book your Sipora accommodation ahead, with transfer.
+**In practice:** Mentawai Tribe Siberut + Sipora package from €480 per person · private boat about 1,500,000-3,000,000 IDR a day · departures only with the Syahbandar's go-ahead · book your Sipora accommodation ahead, with transfer.
 
 ### Day 10 — Sipora: beaches and waves
 After the jungle, the first day by the sea. The beaches of the Mentawai are beautiful. If you don't surf, you still have the beach and no plans. If you do, you've found one of the most famous places in the world, with a serious warning: the best-known reefs are for intermediate or expert surfers, not beginners. For beginners there are beach breaks, with lessons and rental at about 500,000-1,000,000 IDR a day. Homestays cost roughly 700,000-1,500,000 IDR a night, and resorts start at about 4,000,000 IDR.
@@ -106,7 +106,7 @@ A day by boat toward the south of Sipora. In Katiet Bay there's **Lance's Left**
 
 The boat leaves early, because the first hours have the least wind and the cleanest waves, and you also get there before the other boats. The spot is chosen that morning with the boatman or your accommodation, based on swell direction and tide: at low tide the reef is just centimetres below. *On these reefs you need booties, or at least a lot of care when getting out, and you never go in alone.* Non-surfers can come too: snorkel in calm water or stay on the boat and watch. You head back in the early afternoon, when the wind picks up.
 
-**In practice:** day boat to arrange the evening before with your accommodation, price to agree · surf tax to pay beforehand, usually about IDR 1,000,000 per surfer for up to 15 days (some resorts quote 2,000,000), confirm the amount locally · reef booties and a kit for cuts · water and food on board.
+**In practice:** day boat to arrange the evening before with your accommodation, price to agree · surf tax to pay beforehand, usually about IDR 1,000,000 per surfer for up to 15 days (some resorts quote 2,000,000) · reef booties and a kit for cuts · water and food on board.
 
 ### Day 12 — Sipora, slow or buffer day
 A day kept free on purpose. If the sea is good you surf again or look for another beach. If the weather knocked out a boat in the previous days, this is where you catch up. On Sipora "The Sound of Love Mentawai" is under construction, chef Max Mariola's project with a restaurant on the beach: construction announced from November 2026.
@@ -116,7 +116,7 @@ It's also the day to prepare the return. The ferry ticket to Padang needs confir
 **In practice:** reconfirm tomorrow's ferry time today · Tuapejat-Padang ticket also online, according to March 2026 reports · pay for accommodation in cash · dry bag ready for the journey.
 
 ### Day 13 — Fast ferry from Tuapejat to Padang
-The Mentawai Fast from **Tuapejat** to Padang takes about 3.5 hours, leaving in the early afternoon. The exact day needs to be checked beforehand: runs change often, and in October 2026 a Monday run was suspended for maintenance. You arrive in Padang in the evening.
+The Mentawai Fast from **Tuapejat** to Padang takes about 3.5 hours, leaving in the early afternoon. Check the exact day beforehand: runs change often, and in October 2026 a Monday run was suspended for maintenance. You arrive in Padang in the evening.
 
 The morning is free for a last swim, but don't push it: get to the port well ahead of time, because boarding can be chaotic and surfboards pay a separate surcharge. *During Indonesian holiday periods, such as Lebaran, sailings between Padang and the islands fill up: book well ahead.* It's cold on board because of the air conditioning, so a sweater helps. Once in Padang, go straight to the hotel: it's best to sleep near the old town, handy both for the port and for the next day's evening.
 

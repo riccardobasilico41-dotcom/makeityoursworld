@@ -52,7 +52,7 @@ Il dato da mettere in conto prima di partire: Hong Kong ha le camere più piccol
 
 ## Consigli pratici
 
-- **Prezzi:** una doppia di fascia media costa in genere tra 110 e 230 euro a notte; a Mong Kok si trova qualcosa tra 70 e 140. Gli hotel con la vista sul porto superano facilmente i 400.
+- **Prezzi:** una doppia di fascia media costa in genere tra 110 e 230 € a notte; a Mong Kok si trova qualcosa tra 70 e 140. Gli hotel con la vista sul porto superano facilmente i 400.
 - **Camere:** 15-20 metri quadri sono normali anche negli hotel di fascia media. Le guesthouse dei grandi palazzi di Nathan Road hanno stanze ancora più piccole.
 - **Dall'aeroporto:** l'Airport Express arriva a Hong Kong Station, a Central, in 24 minuti, per circa 130 dollari con il biglietto singolo e 120 con la carta Octopus; i bus A21 per Kowloon e A11 per l'isola costano circa 35 e 42 dollari.
 - **Check-in in città:** molte compagnie aeree permettono di consegnare i bagagli alla stazione dell'Airport Express di Hong Kong il giorno della partenza, e si gira liberi fino all'ultimo.
@@ -70,7 +70,7 @@ A Tsim Sha Tsui, per la vista e lo Star Ferry, o a Wan Chai e Causeway Bay sul l
 Kowloon, a Tsim Sha Tsui, ha la vista sullo skyline dell'isola e prezzi un po' più bassi. L'isola ha Central, il Peak e la vita serale. Con la MTR la differenza è di pochi minuti.
 
 **Quanto costa un hotel a Hong Kong?**
-Una doppia di fascia media costa tra 110 e 230 euro a notte, a Mong Kok si scende a 70-140. Gli hotel di lusso con la vista sul porto superano i 400.
+Una doppia di fascia media costa tra 110 e 230 € a notte, a Mong Kok si scende a 70-140. Gli hotel di lusso con la vista sul porto superano i 400.
 
 **Dove dormire a Hong Kong spendendo poco?**
 A Mong Kok, Jordan o Yau Ma Tei, oppure al Salisbury YMCA di Tsim Sha Tsui, che ha prezzi da fascia media in una posizione da hotel di lusso.
@@ -184,7 +184,7 @@ El dato que hay que tener en cuenta antes de salir: Hong Kong tuvo las habitacio
 
 ## Consejos prácticos
 
-- **Precios:** una doble de gama media cuesta normalmente entre 110 y 230 euros la noche; en Mong Kok hay algo entre 70 y 140. Los hoteles con vistas al puerto superan fácilmente los 400.
+- **Precios:** una doble de gama media cuesta normalmente entre 110 y 230 € la noche; en Mong Kok hay algo entre 70 y 140. Los hoteles con vistas al puerto superan fácilmente los 400.
 - **Habitaciones:** 15-20 metros cuadrados es lo normal incluso en hoteles de gama media. Las guesthouses de los grandes bloques de Nathan Road tienen cuartos todavía más pequeños.
 - **Desde el aeropuerto:** el Airport Express llega a Hong Kong Station, en Central, en 24 minutos, por unos 130 dólares con billete sencillo y 120 con la tarjeta Octopus; los autobuses A21 a Kowloon y A11 a la isla cuestan unos 35 y 42 dólares.
 - **Facturación en la ciudad:** muchas aerolíneas permiten dejar las maletas en la estación del Airport Express de Hong Kong el día de la salida, y se pasea libre hasta el final.
@@ -202,7 +202,7 @@ En Tsim Sha Tsui, por la vista y el Star Ferry, o en Wan Chai y Causeway Bay, en
 Kowloon, en Tsim Sha Tsui, tiene la vista del skyline de la isla y precios algo más bajos. La isla tiene Central, el Peak y la vida nocturna. Con el MTR la diferencia es de pocos minutos.
 
 **¿Cuánto cuesta un hotel en Hong Kong?**
-Una doble de gama media cuesta entre 110 y 230 euros la noche; en Mong Kok baja a 70-140. Los hoteles de lujo con vistas al puerto superan los 400.
+Una doble de gama media cuesta entre 110 y 230 € la noche; en Mong Kok baja a 70-140. Los hoteles de lujo con vistas al puerto superan los 400.
 
 **¿Dónde alojarse en Hong Kong gastando poco?**
 En Mong Kok, Jordan o Yau Ma Tei, o en The Salisbury YMCA de Tsim Sha Tsui, con precios de gama media en una ubicación de hotel de lujo.

@@ -71,7 +71,7 @@ You come for the **Grotta del Genovese**, one of the most important prehistoric 
 
 We toured the rest of Levanzo on foot. There's **Cala Minnola** with its pine grove and, on the seabed a few meters deep, the remains of a **Roman wreck with the amphorae still in position**, which can be visited by snorkeling with a guide.
 
-**In practice:** Grotta del Genovese by reservation only, at least 48 hours ahead, with visits in the morning · about 20 euros for the cave alone, about 40 with transport, fares to be rechecked on the official site · hydrofoil to Levanzo from Trapani or Favignana: check the time of the last return · very few services on the island, better to bring your own water.
+**In practice:** Grotta del Genovese by reservation only, at least 48 hours ahead, with visits in the morning · about €20 for the cave alone, about 40 with transport · hydrofoil to Levanzo from Trapani or Favignana: check the time of the last return · very few services on the island, better to bring your own water.
 
 ### Day 4 — Marettimo
 It is the farthest, the highest and the most different. **Marettimo** is an hour by hydrofoil from Trapani, it's mountainous, covered with scrub and pines, and **has no cars**: only the village, the port and the trails.
@@ -128,7 +128,7 @@ We circled the island by boat, the only way to see the coast that otherwise can'
 
 Alternatively, for those who prefer walking, there are the inland trails among the terraced vineyards and the abandoned dammusi, and **Cala Cinque Denti** on the northeast side, with its pointed lava rocks. The trails are best done early in the morning or toward evening, because in summer the dark lava holds the heat and there is little shade. With a car you can combine the two: half a day on foot and an afternoon swim in the cove sheltered from the day's wind. We closed our last Pantescan evening with the **ravioli amari** and the Passito.
 
-**In practice:** shared full-day excursion from about 60 euros per person with lunch, private boat much more expensive · book the day before and reconfirm in the morning according to the wind · almost no refreshment points on the trails: water and a hat · the island has been a National Park since 2016: stay on the trails and don't climb over the dry-stone walls.
+**In practice:** shared full-day excursion from about €60 per person with lunch, private boat much more expensive · book the day before and reconfirm in the morning according to the wind · almost no refreshment points on the trails: water and a hat · the island has been a National Park since 2016: stay on the trails and don't climb over the dry-stone walls.
 
 ### Day 9 — Transit day
 This is the honest day of the itinerary: **you go back to Sicily and set off toward Lampedusa.** A flight to **Palermo** or **Catania** and a connection to Lampedusa or, with less fortunate schedules, a night in transit in Sicily. The flight from Pantelleria takes less than an hour, the one to Lampedusa about the same: the problem isn't the time in the air but the schedules, because there are few flights and they don't always fit together. **Plan it with a margin.** A wind cancellation at Pantelleria breaks the connection, and flights to Lampedusa are not frequent. **Don't buy non-changeable tickets just a few hours apart.**

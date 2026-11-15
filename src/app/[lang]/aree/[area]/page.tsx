@@ -71,6 +71,9 @@ const T = {
   },
 } satisfies Record<Lingua, unknown>
 
+// slug fuori dall'elenco: nessuna rotta, quindi la 404 vera di global-not-found.tsx (già nell'HTML)
+export const dynamicParams = false
+
 export function generateStaticParams() {
   return AREE.map((a) => ({ area: a.slug }))
 }

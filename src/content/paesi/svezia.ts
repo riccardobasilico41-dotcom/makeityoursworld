@@ -9,10 +9,10 @@ export const svezia: Paese = {
     'Sette giorni nell\'estremo nord della Svezia, tra Kiruna, che per colpa della miniera si sposta pezzo per pezzo, e la stazione di montagna di Abisko, che con il suo microclima secco è uno dei punti migliori al mondo per vedere l\'aurora boreale. Motoslitta sul lago ghiacciato, husky sledding sotto il cielo che si accende e un Capodanno diverso da tutti gli altri, pagato però al prezzo del periodo più caro dell\'anno per questa zona.',
   periodoMigliore: 'da fine dicembre a marzo per l\'aurora boreale; febbraio-marzo per lo stesso itinerario a un prezzo molto più basso rispetto a Capodanno',
   durataConsigliata: '7 giorni per coprire Stoccolma (solo transito), Kiruna e Abisko senza fretta',
-  budgetIndicativo: '1.500€ a testa per un budget base, 1.800€ per un livello più comodo (voli, alloggi, trasporti interni, escursioni e pasti inclusi)',
+  budgetIndicativo: '1.500 € a testa per un budget base, 1.800 € per un livello più comodo (voli, alloggi, trasporti interni, escursioni e pasti inclusi)',
   scheda: {
     documenti: 'La Svezia è nell\'Unione Europea e in area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio.',
-    valuta: 'Corona svedese (SEK): la Svezia non ha adottato l\'euro. Cambio indicativo 1€ = 11 SEK.',
+    valuta: 'Corona svedese (SEK): la Svezia non ha adottato l\'euro. Cambio indicativo 1 € = 11 SEK.',
     pagamenti:
       'È uno dei paesi più cashless al mondo: si paga con carta ovunque e molti negozi i contanti non li accettano proprio. Non serve cambiare prima di partire. Gli alcolici sopra i 3,5 gradi si comprano solo nei negozi statali Systembolaget, con orari limitati e chiusi la domenica.',
     connettivita: 'Roaming UE incluso nelle tariffe italiane. Copertura buona a Kiruna e ad Abisko lungo la ferrovia, più incerta nel parco nazionale.',
@@ -22,7 +22,7 @@ export const svezia: Paese = {
     trasportiInterni:
       'Volo internazionale su Stoccolma, volo interno fino a Kiruna e treno panoramico Kiruna-Abisko. Con il freddo estremo qualche disservizio ferroviario va messo in conto: conviene non incastrare coincidenze troppo strette con i voli di rientro.',
     costoVita:
-      'Caro, e a Capodanno carissimo: indicativamente 1.500€ a testa per un budget base e 1.800€ per un livello più comodo, voli, alloggi, trasporti interni, escursioni e pasti inclusi. Lo stesso itinerario a febbraio-marzo costa molto meno.',
+      'Caro, e a Capodanno carissimo: indicativamente 1.500 € a testa per un budget base e 1.800 € per un livello più comodo, voli, alloggi, trasporti interni, escursioni e pasti inclusi. Lo stesso itinerario a febbraio-marzo costa molto meno.',
     lingua: 'Svedese; l\'inglese lo parlano quasi tutti.',
     elettricita: '230V, 50Hz, prese di tipo C ed F: identiche a quelle italiane.',
     fusoOrario: 'Stessa ora dell\'Italia tutto l\'anno.',

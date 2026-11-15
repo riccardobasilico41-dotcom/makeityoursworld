@@ -20,7 +20,7 @@ Le quattro grandi città d'arte italiane si visitano quasi sempre nel modo sbagl
   - **Cupola del Duomo di Firenze:** **prenotazione con fascia oraria assegnata**, senza non si sale.
   - **Cenacolo Vinciano a Milano:** prenotazione obbligatoria, **aperture a cadenza trimestrale**, quindici minuti di visita. È l'errore più comune di chi visita Milano: senza prenotazione non si entra.
   - **Pompei:** biglietto **nominativo** e **tetto di 20.000 visitatori al giorno**, con fasce orarie in estate (massimo 15.000 dalle 9 alle 12, 5.000 dalle 12 in poi). Esaurita la quota **non si entra**, né online né in biglietteria.
-- **Venezia, contributo di accesso:** si applica a chi entra **in giornata senza pernottare**, in un certo numero di giornate di alta stagione. Nel 2026 si è pagato in 60 giornate tra aprile e luglio: **5 euro** prenotando con almeno quattro giorni d'anticipo, **10 euro** sotto quella soglia. Chi pernotta in città è esente ma deve registrarsi. Calendario e condizioni cambiano ogni anno.
+- **Venezia, contributo di accesso:** si applica a chi entra **in giornata senza pernottare**, in un certo numero di giornate di alta stagione. Nel 2026 si è pagato in 60 giornate tra aprile e luglio: **5 €** prenotando con almeno quattro giorni d'anticipo, **10 €** sotto quella soglia. Chi pernotta in città è esente ma deve registrarsi. Calendario e condizioni cambiano ogni anno.
 - **Trasporti:** l'alta velocità collega tutto e, prenotando con settimane di anticipo, i prezzi crollano. Roma-Firenze 1h30, Firenze-Venezia 2h, Venezia-Napoli con cambio, Roma-Napoli poco più di un'ora. **In tutte e quattro le città l'auto è inutile o dannosa**: ZTL a Firenze e a Roma, Area B e C a Milano, e a Venezia le strade non ci sono proprio.
 - **La regola del cibo:** in tutte e quattro, **non mangiare entro trecento metri da un monumento famoso** e non entrare mai in un locale con le foto dei piatti fuori o con qualcuno che invita a entrare. È la regola che più di ogni altra separa il mangiare bene dal mangiare male in Italia.
 - **Musei gratuiti:** le prime domeniche del mese i musei statali sono gratuiti, e quindi hanno code enormi. Le chiese invece sono quasi tutte gratuite e contengono una parte enorme di ciò che si viene a vedere.
@@ -37,7 +37,7 @@ Abbiamo cenato in trattoria a **Testaccio**, non in centro. Le quattro paste rom
 
 Da Fiumicino il **Leonardo Express** porta a Termini senza fermate in poco più di mezz'ora; da lì Monti si raggiunge a piedi, Trastevere con il tram 8 da piazza Venezia. Lasciate le valigie, il primo giro conviene farlo nel tardo pomeriggio, quando la luce si fa calda: da Monti si scende ai **Fori Imperiali**, si sale al **Campidoglio** per la terrazza dietro il palazzo Senatorio, che guarda il Foro dall'alto, e si chiude a piazza Venezia. *A Roma i nasoni, le fontanelle di ghisa, danno acqua potabile e fresca tutto il giorno: basta una borraccia.* Testaccio si raggiunge in metro, linea B fino a Piramide, o in taxi.
 
-**In pratica:** Leonardo Express Fiumicino-Termini circa 14 euro, 32 minuti · biglietto dei mezzi pubblici urbani valido 100 minuti, si paga anche con la carta contactless ai tornelli · nelle trattorie di Testaccio conviene prenotare, soprattutto nel fine settimana
+**In pratica:** Leonardo Express Fiumicino-Termini circa 14 €, 32 minuti · biglietto dei mezzi pubblici urbani valido 100 minuti, si paga anche con la carta contactless ai tornelli · nelle trattorie di Testaccio conviene prenotare, soprattutto nel fine settimana
 
 ### Giorno 2 — Roma antica
 Siamo entrati a **Colosseo, Foro Romano e Palatino** con il biglietto unico nominativo, prenotato settimane prima, e con il **documento d'identità originale in tasca**.
@@ -46,7 +46,7 @@ Per il pomeriggio c'è il **Foro di Traiano** con i Mercati, oppure la **Domus A
 
 Il biglietto ha un orario d'ingresso al Colosseo, mentre Foro e Palatino si visitano con più libertà: conviene prendere il Colosseo alla prima fascia e poi salire al **Palatino** prima del caldo, per gli orti Farnesiani e la vista sul Circo Massimo, e scendere al **Foro Romano** verso mezzogiorno. Servono almeno quattro ore per fare tutto senza correre. *D'estate non c'è quasi ombra: cappello, acqua e scarpe chiuse, perché il basolato è irregolare.* Dopo pranzo, a Monti o dietro piazza Venezia, i **Mercati di Traiano** sono un museo a sé, con le botteghe a più piani ancora in piedi e la passeggiata sulla via Biberatica.
 
-**In pratica:** biglietto 24 ore per Colosseo, Foro e Palatino circa 18 euro, Full Experience con arena e sotterranei circa 24 euro, solo su ticketing.colosseo.it · le vendite aprono 30 giorni prima e le fasce del mattino finiscono presto · Domus Aurea aperta solo in alcuni giorni, con visita guidata da prenotare
+**In pratica:** biglietto 24 ore per Colosseo, Foro e Palatino circa 18 €, Full Experience con arena e sotterranei circa 24 €, solo su ticketing.colosseo.it · le vendite aprono 30 giorni prima e le fasce del mattino finiscono presto · Domus Aurea aperta solo in alcuni giorni, con visita guidata da prenotare
 
 ### Giorno 3 — Vaticano e le chiese
 La mattina **Musei Vaticani e Cappella Sistina**, con prenotazione. Poi San Pietro e la cupola: all'ingresso il **codice di abbigliamento viene applicato**, niente spalle e ginocchia scoperte.
@@ -55,7 +55,7 @@ Il pomeriggio l'abbiamo passato nelle **chiese**, la parte di Roma che nessuno m
 
 Ai Musei Vaticani conviene prenotare il primo ingresso del mattino e andare dritti alla **Cappella Sistina**, che a quell'ora è ancora vivibile, per poi tornare indietro con calma verso le Stanze di Raffaello e la Pinacoteca. Da lì a **San Pietro** ci sono dieci minuti a piedi; la salita alla cupola si fa con l'ascensore fino alla terrazza e poi a piedi, per oltre trecento gradini nell'ultimo tratto. *Molte chiese del centro chiudono all'ora di pranzo, di solito tra le 12.30 e le 15: il giro del pomeriggio conviene iniziarlo dopo.* La sera, piazza Navona e i vicoli intorno a Campo de' Fiori.
 
-**In pratica:** Musei Vaticani circa 20 euro più 5 di prenotazione online, dal lunedì al sabato, chiusi la domenica tranne l'ultima del mese · biglietto nominativo, serve il documento · basilica di San Pietro gratuita, cupola a pagamento con prezzo diverso per scale e ascensore
+**In pratica:** Musei Vaticani circa 20 € più 5 di prenotazione online, dal lunedì al sabato, chiusi la domenica tranne l'ultima del mese · biglietto nominativo, serve il documento · basilica di San Pietro gratuita, cupola a pagamento con prezzo diverso per scale e ascensore
 
 ### Giorno 4 — La Roma sotterranea e l'Appia
 La mattina siamo andati alla **Basilica di San Clemente**. Si entra in una basilica del XII secolo, si scende a una del IV e da lì ancora a un edificio romano del I con un mitreo. Tre epoche una sopra l'altra, due rampe di scale, a quattrocento metri dal Colosseo e con una frazione delle persone.
@@ -88,7 +88,7 @@ Il pomeriggio agli **Uffizi**, con prenotazione.
 
 Il biglietto della cupola comprende anche il campanile di Giotto, il Battistero, la cripta di Santa Reparata e il Museo dell'Opera, ed è valido qualche giorno: conviene usarlo in più riprese. La cattedrale in sé si visita gratis, con la coda che scorre veloce al mattino. Agli **Uffizi** si prenota una fascia di primo pomeriggio e si dedicano almeno tre ore: i Botticelli, Leonardo, Michelangelo, Caravaggio, e la terrazza del bar, che guarda la torre di Palazzo Vecchio. *Chi vuole il Corridoio Vasariano, riaperto dopo anni di lavori, deve prenotare a parte e con molto anticipo: i posti sono pochi.*
 
-**In pratica:** Brunelleschi Pass circa 30 euro, con fascia oraria obbligatoria per la cupola · Uffizi intorno ai 25-29 euro in alta stagione, chiusi il lunedì · la cupola chiude in alcuni periodi per manutenzione, conviene controllare il calendario prima di prenotare
+**In pratica:** Brunelleschi Pass circa 30 €, con fascia oraria obbligatoria per la cupola · Uffizi intorno ai 25-29 € in alta stagione, chiusi il lunedì · la cupola chiude in alcuni periodi per manutenzione, conviene controllare il calendario prima di prenotare
 
 ### Giorno 7 — Il museo che nessuno fa
 La mattina siamo stati al **Museo dell'Opera del Duomo**, che quasi tutti saltano perché «è solo un museo annesso». Contiene le **porte originali del Battistero** (quelle in piazza sono copie) e l'ultima Pietà di Michelangelo, quella che voleva distruggere. Ci sono quattro persone.
@@ -99,7 +99,7 @@ A cena, una trattoria dell'Oltrarno o di Sant'Ambrogio, con la bistecca: è un t
 
 Il Museo dell'Opera è compreso nel biglietto della cupola, quindi non costa nulla in più: conviene andarci al mattino, all'apertura, e restare un paio d'ore. La **Cappella Brancacci**, in Oltrarno, conserva gli affreschi di Masaccio con la Cacciata dal Paradiso e si visita a piccoli gruppi, su prenotazione. Le **Cappelle Medicee**, dietro San Lorenzo, hanno la sagrestia nuova con le tombe di Michelangelo. Nel pomeriggio si può passare per il **mercato di Sant'Ambrogio**, frequentato soprattutto dai fiorentini. *La bistecca si paga a peso e un taglio intero pesa almeno un chilo: conviene ordinarla in due o in tre.*
 
-**In pratica:** Cappella Brancacci (circa 15 euro, su prenotazione, chiusa il martedì) e Cappelle Medicee (circa 11 euro, chiuse il lunedì) con biglietti separati · mercato di Sant'Ambrogio chiuso la domenica · per la bistecca il prezzo è al chilo, chiedere il peso prima che la taglino
+**In pratica:** Cappella Brancacci (circa 15 €, su prenotazione, chiusa il martedì) e Cappelle Medicee (circa 11 €, chiuse il lunedì) con biglietti separati · mercato di Sant'Ambrogio chiuso la domenica · per la bistecca il prezzo è al chilo, chiedere il peso prima che la taglino
 
 ### Giorno 8 — Alta velocità per Venezia
 **Firenze-Venezia in 2h**, con la stazione di Santa Lucia **dentro** la città.
@@ -110,7 +110,7 @@ La prima sera abbiamo fatto il giro dei **bacari**: i cicheti mangiati in piedi 
 
 Da Santa Lucia si esce direttamente sul Canal Grande, e la cosa più semplice è prendere il vaporetto fino alla fermata più vicina all'alloggio. Le valigie grandi sono un problema: ponti con gradini ovunque, niente auto, e i facchini a pagamento. Cannaregio si raggiunge a piedi dalla stazione in un quarto d'ora. Il pomeriggio è per perdersi senza meta, lontano dall'asse Rialto-San Marco, lungo la **Fondamenta della Misericordia** o verso il **Ghetto**, il più antico d'Europa. *Il giro dei bacari comincia presto, verso le sei: molti chiudono la cucina prima delle nove.*
 
-**In pratica:** Frecciarossa e Italo Firenze-Venezia circa 2 ore · contributo di accesso nei giorni del calendario, in primavera e d'estate, intorno ai 5-10 euro; chi dorme in città si registra per l'esenzione · cicchetti di solito tra 2 e 4 euro l'uno, l'ombra di vino pochi euro
+**In pratica:** Frecciarossa e Italo Firenze-Venezia circa 2 ore · contributo di accesso nei giorni del calendario, in primavera e d'estate, intorno ai 5-10 €; chi dorme in città si registra per l'esenzione · cicchetti di solito tra 2 e 4 € l'uno, l'ombra di vino pochi euro
 
 ### Giorno 9 — Venezia all'alba e la Scuola di San Rocco
 **Sveglia all'alba**: è il consiglio che cambia di più il giudizio su questa città. Alle sette le calli sono vuote, si sente l'acqua battere contro i muri, passano le barche delle consegne, e il **mercato del pesce di Rialto** lavora già dalle cinque (chiuso domenica e lunedì).
@@ -121,7 +121,7 @@ Al tramonto siamo saliti sul **campanile di San Giorgio Maggiore**, che ha la vi
 
 Dopo il mercato si attraversa il **ponte di Rialto** ancora vuoto e si arriva a San Marco prima dell'apertura della basilica, quando la piazza è libera. Per la **basilica** conviene prenotare l'ingresso, che costa poco, e aggiungere il museo con i cavalli di bronzo e la loggia sulla piazza. **Palazzo Ducale** richiede almeno due ore, con le prigioni e il ponte dei Sospiri visto dall'interno. La Scuola Grande di San Rocco, nel sestiere di San Polo, ha specchi a disposizione per guardare i soffitti senza torcersi il collo. Per San Giorgio si prende il vaporetto da San Zaccaria. *A San Marco non ci si siede sui gradini e non si mangia: ci sono multe.*
 
-**In pratica:** Palazzo Ducale intorno ai 30 euro, meno comprando online in anticipo · basilica di San Marco con biglietto di circa 10 euro, nominativo, e prenotazione consigliata · campanile di San Giorgio con ascensore, biglietto di circa 8 euro
+**In pratica:** Palazzo Ducale intorno ai 30 €, meno comprando online in anticipo · basilica di San Marco con biglietto di circa 10 €, nominativo, e prenotazione consigliata · campanile di San Giorgio con ascensore, biglietto di circa 8 €
 
 ### Giorno 10 — La laguna
 È la giornata che quasi nessuno fa. Siamo andati a **Torcello**, a quaranta minuti di vaporetto, con la basilica del VII secolo e il Giudizio Universale a mosaico che copre un'intera parete. Venezia è cominciata lì, prima che esistesse Venezia, e ci sono venti persone.
@@ -132,7 +132,7 @@ Poi **Burano** per le case colorate e **Murano** per il vetro, sapendo che sono 
 
 Per Torcello si prende la linea 12 dalle **Fondamente Nove**, che passa da Murano e Burano; conviene andare prima a Torcello, la tappa più lontana, e risalire. A Torcello, oltre alla basilica, c'è il campanile, da cui si vede tutta la laguna nord tra canneti e barene. Burano si gira in un'ora, tra le case colorate e il museo del merletto; a Murano conviene entrare in una fornace per vedere lavorare il vetro e visitare il **Museo del Vetro**. *Sulle isole i ristoranti si riempiono a pranzo: conviene prenotare o mangiare presto.* Il rientro al tramonto, sul vaporetto, è una delle viste migliori sulla città.
 
-**In pratica:** vaporetto biglietto singolo circa 9,50 euro, pass da 1, 2, 3 o 7 giorni a partire da circa 25 euro · linea 12 Fondamente Nove-Burano circa 40 minuti, poi la 9 per Torcello · basilica di Torcello compresa nel biglietto di San Marco se usata entro sei mesi, campanile con biglietto separato, pochi euro
+**In pratica:** vaporetto biglietto singolo circa 9,50 €, pass da 1, 2, 3 o 7 giorni a partire da circa 25 € · linea 12 Fondamente Nove-Burano circa 40 minuti, poi la 9 per Torcello · basilica di Torcello compresa nel biglietto di San Marco se usata entro sei mesi, campanile con biglietto separato, pochi euro
 
 ### Giorno 11 — Alta velocità per Napoli
 Ci siamo trasferiti a **Napoli**; per dormire, centro storico o Chiaia.
@@ -143,7 +143,7 @@ La sera, **pizza** dove è nata, in una pizzeria di quartiere, dove costa quanto
 
 Da Venezia a Napoli il Frecciarossa diretto impiega circa cinque ore: conviene partire al mattino e arrivare all'ora di pranzo. Il museo si raggiunge con la metro dalla stazione centrale, fermata Museo. Al suo interno vale la pena puntare su tre cose: i mosaici della Casa del Fauno, compresa la Battaglia di Isso con Alessandro, gli affreschi di Pompei e il **Gabinetto Segreto**, la collezione erotica tenuta chiusa per secoli. Dopo il museo si scende per via Toledo e si attraversano i **Quartieri Spagnoli**, poi **Spaccanapoli**, la strada che taglia dritta il centro storico. *Nella folla di via Toledo e della Sanità vale l'attenzione di tutte le grandi città: borse chiuse e telefono in tasca.*
 
-**In pratica:** Frecciarossa Venezia-Napoli circa 5 ore · Museo Archeologico Nazionale chiuso il martedì, biglietto intorno ai 20 euro · una margherita in pizzeria costa di solito tra 5 e 8 euro
+**In pratica:** Frecciarossa Venezia-Napoli circa 5 ore · Museo Archeologico Nazionale chiuso il martedì, biglietto intorno ai 20 € · una margherita in pizzeria costa di solito tra 5 e 8 €
 
 ### Giorno 12 — Pompei ed Ercolano, e rientro
 Siamo entrati a **Pompei all'apertura**, con il biglietto nominativo prenotato: sessantasei ettari senza ombra, che nelle ore centrali d'estate sono faticosi al limite del rischioso.
@@ -154,7 +154,7 @@ Poi il rientro da Napoli.
 
 Pompei si raggiunge con la **Circumvesuviana** da Napoli, fermata Pompei Scavi, in poco più di mezz'ora; l'ingresso di Porta Marina è a due minuti dalla stazione. Conviene seguire un percorso preciso: il Foro, la Casa del Fauno, le Terme Stabiane, il Lupanare, poi l'**Anfiteatro**, il più antico che si conosca, all'altro capo della città. Ercolano è sulla stessa linea, tornando verso Napoli: si scende a Ercolano Scavi e si cammina dieci minuti in discesa. *Il treno per tornare a Napoli Centrale va considerato nell'orario del rientro: la Circumvesuviana può avere ritardi e soppressioni.*
 
-**In pratica:** Pompei biglietto intorno ai 20 euro, nominativo, da comprare online · Ercolano biglietto di una quindicina di euro, si visita in due o tre ore · pranzo al sacco e acqua: dentro Pompei i punti di ristoro sono pochi
+**In pratica:** Pompei biglietto intorno ai 20 €, nominativo, da comprare online · Ercolano biglietto di una quindicina di euro, si visita in due o tre ore · pranzo al sacco e acqua: dentro Pompei i punti di ristoro sono pochi
 
 ## Cosa vedere / cosa fare
 - **Andare da ottobre a marzo.** È la scelta che cambia di più tutto il resto.

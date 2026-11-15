@@ -12,8 +12,8 @@ export const giordania: Paese = {
   budgetIndicativo: 'activities and extras arranged through a local DMC; it is best to buy alcohol before arriving in conservative areas or the desert',
   scheda: {
     documenti:
-      "Passport with at least 6 months of validity. The visa can be obtained on arrival at the airport, but for almost everyone the sensible choice is the Jordan Pass, to be bought online before leaving: it costs between 70 and 80 JOD (about 90-100€) depending on the option and includes the entry visa and access to over forty sites, including Petra, Jerash and Wadi Rum. It pays off as long as you stay in the country at least 2 consecutive nights.",
-    valuta: "Jordanian dinar (JOD), pegged to the dollar: 1 JOD is roughly worth 1.20-1.30€. It is one of the strongest currencies in the region, and the numbers are deceiving: they seem small, but they are not.",
+      "Passport with at least 6 months of validity. The visa can be obtained on arrival at the airport, but for almost everyone the sensible choice is the Jordan Pass, to be bought online before leaving: it costs between 70 and 80 JOD (about €90-100) depending on the option and includes the entry visa and access to over forty sites, including Petra, Jerash and Wadi Rum. It pays off as long as you stay in the country at least 2 consecutive nights.",
+    valuta: "Jordanian dinar (JOD), pegged to the dollar: 1 JOD is roughly worth €1.20-1.30. It is one of the strongest currencies in the region, and the numbers are deceiving: they seem small, but they are not.",
     pagamenti:
       "Cards are accepted in hotels, restaurants and shops in the cities. You need cash for the Wadi Rum tented camps, the Bedouin, tips and small purchases. Alcohol is only bought in specialized shops: it's best to stock up before heading toward the desert or more conservative areas.",
     connettivita: "Zain and Orange are the two main operators, with stands at Amman airport. Good coverage along the Desert Highway and at tourist sites, weaker in the heart of Wadi Rum.",

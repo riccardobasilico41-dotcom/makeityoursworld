@@ -38,7 +38,7 @@ El segundo día sigue siendo de aclimatación, pero más activo. Los teleférico
 
 Por la tarde fuimos en taxi al **Valle de la Luna**, formaciones de arcilla erosionada a pocos kilómetros del centro. *El cansancio todavía se nota al subir escaleras: es normal, el cuerpo aún no se ha acostumbrado del todo.* Quien esté por la tarde en El Alto encuentra los combates de cholitas luchadoras, la lucha libre de las mujeres aymaras.
 
-**En la práctica:** teleférico pagado por trayecto, con billete aparte en cada cambio de línea · Valle de la Luna con entrada de unos 15 bolivianos, una hora de visita aproximadamente · cholitas luchadoras normalmente el domingo por la tarde en el Multifuncional de El Alto, horarios por confirmar; muchos van con un tour que incluye el transporte · mejor no recorrer El Alto a pie solo de noche.
+**En la práctica:** teleférico pagado por trayecto, con billete aparte en cada cambio de línea · Valle de la Luna con entrada de unos 15 bolivianos, una hora de visita aproximadamente · cholitas luchadoras normalmente el domingo por la tarde en el Multifuncional de El Alto; muchos van con un tour que incluye el transporte · mejor no recorrer El Alto a pie solo de noche.
 
 ### Día 3 — Tiwanaku y traslado a Copacabana
 Nos trasladamos a **Copacabana**, en el lago Titicaca: unas 4 horas de carretera, con una parada en las ruinas de **Tiwanaku**, capital de una civilización anterior a los incas, en el camino hacia el lago. Del sitio se ven el templo semisubterráneo, la plataforma de **Kalasasaya** con la Puerta del Sol y, no muy lejos, los bloques tallados de **Puma Punku**; los dos museos, lítico y cerámico, ayudan a entender lo que se está viendo. Conviene llegar por la mañana y dedicarle un par de horas, con un guía o con un tour que combine Tiwanaku y el traslado.
@@ -122,7 +122,7 @@ Día dedicado a Sucre: la **Casa de la Libertad**, donde se firmó la independen
 
 *Si las fechas caen en domingo*, merece la pena el desvío de una hora y media a dos hasta **Tarabuco** para el mercado textil dominical, uno de los más auténticos del país por los tejidos yampara. Sucre tiene además algunas de las mejores y más baratas escuelas de español de Sudamérica: quien tenga tiempo extra puede quedarse para un curso.
 
-**En la práctica:** Parque Cretácico a unos 25 minutos del centro, entrada en torno a 30 bolivianos con guía · el mercado de Tarabuco se celebra solo el domingo por la mañana, colectivo o tour desde el centro · Casa de la Libertad con visita guiada, horarios por verificar en el lugar · en el Mercado Central un almuerzo completo por pocos bolivianos.
+**En la práctica:** Parque Cretácico a unos 25 minutos del centro, entrada en torno a 30 bolivianos con guía · el mercado de Tarabuco se celebra solo el domingo por la mañana, colectivo o tour desde el centro · Casa de la Libertad con visita guiada, horarios a preguntar allí · en el Mercado Central un almuerzo completo por pocos bolivianos.
 
 ### Día 15 — De Sucre a La Paz
 El vuelo de Sucre a **La Paz** dura alrededor de una hora (la alternativa, más lenta pero más barata, es el autobús nocturno). Conviene tomar un vuelo de la mañana, para llegar a La Paz con medio día disponible; el aeropuerto de Sucre está fuera de la ciudad, a una media hora en taxi del centro.
@@ -179,7 +179,7 @@ Las últimas horas en la ciudad dependen del tiempo que quede (un último paseo 
 - **Los dos primeros días en La Paz hay que tomarlos con calma absoluta:** en pocas horas se pasa del nivel del mar a más de 4.000 metros, y es un choque físico antes que una forma de hablar.
 - **Bloqueos de carreteras:** hay que incluirlos en el itinerario, no tratarlos como una eventualidad remota. Pueden aislar zonas enteras durante días y hacer saltar vuelos y traslados, sobre todo en los tramos por tierra entre Uyuni, Potosí y Sucre.
 - **El tour de Uyuni se reserva con antelación, no sobre el terreno:** en Uyuni las agencias callejeras y las improvisadas ofrecen precios más bajos, pero cambian el itinerario después del pago, cargan más pasajeros de lo previsto o ponen al volante a conductores sin carné ni seguro. Reservar desde La Paz o en línea con una agencia verificable reduce mucho el riesgo.
-- **En el operador de la Carretera de la Muerte no se ahorra:** casi todos los accidentes registrados afectan a operadores baratos con bicis mal mantenidas; vale la pena gastar los 120-170$ de la gama premium.
+- **En el operador de la Carretera de la Muerte no se ahorra:** casi todos los accidentes registrados afectan a operadores baratos con bicis mal mantenidas; vale la pena gastar los 120-170 $ de la gama premium.
 - **Los vuelos a Rurrenabaque se cancelan a menudo por el tiempo**, no solo en la estación de lluvias: conviene dejar un día de margen tanto a la ida como, sobre todo, a la vuelta, antes de un vuelo internacional.
 - **Efectivo siempre encima:** fuera de La Paz y Sucre los cajeros escasean o se quedan sin dinero, y los tours se pagan casi siempre en metálico.
 - **Las minas de Potosí no son una atracción turística:** hay que afrontarlas con respeto, y es mejor evitarlas si se sufre claustrofobia o problemas respiratorios.

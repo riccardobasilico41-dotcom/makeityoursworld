@@ -76,7 +76,7 @@ export const spagnaNordItinerarioMeta: TripMeta = {
       pernottamento: 'Bilbao, Casco Viejo or Ensanche',
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
-      costiNoti: 'Guggenheim €18 (mid-June to mid-September) or €15 the rest of the year',
+      costiNoti: 'Guggenheim €15 (2026)',
       destinazioneSlug: 'bilbao',
       immagine: '/images/viaggi/spagna-nord-itinerario/giorno-4-guggenheim.jpg',
       imageAlt: "The Guggenheim Museum in Bilbao seen from the northwest, with the Salve Bridge and the sculptures of the courtyard",
@@ -121,7 +121,7 @@ export const spagnaNordItinerarioMeta: TripMeta = {
   budget: [
     { etichetta: 'Intercontinental/international flights', valore: undefined },
     { etichetta: 'Rental car', valore: 'for the whole route of about 550 coastal km, 8 days' },
-    { etichetta: 'Guggenheim Bilbao', valore: '€15-18 per person depending on the season' },
+    { etichetta: 'Guggenheim Bilbao', valore: '€15 per person (2026)' },
     { etichetta: 'Pintxos and txikiteo', valore: 'roughly €25-35 per person per evening in San Sebastián or Bilbao' },
     { etichetta: 'Lodging', valore: 'around the Spanish average in the cities, lower in the coastal towns of Cantabria and Asturias' },
     { etichetta: 'Food', valore: 'fabada asturiana and pulpo á feira among the most characteristic dishes, prices around average' },

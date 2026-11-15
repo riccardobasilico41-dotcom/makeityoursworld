@@ -118,7 +118,7 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 ### The Mentawai
 **What to do and see:** a few days in the Siberut jungle with a Mentawai family, accompanied by Mentawai guides, then the beaches and surf of Sipora. I went with Mentawai Tribe, and these places are incredible. It's not for everyone: mud everywhere, insects, no electricity, you sleep on a mat. And there's an ethical side to face honestly: you're a guest in someone's home, not at a show.
 
-**Getting there and around:** the Mentawai Fast ferry from Padang to Siberut and to Tuapejat, on Sipora. Times and prices change often, and in rough seas the boats don't leave: you need buffer days. On Siberut, motorized canoe and trekking. Surfers pay a local surf tax, amount to be checked.
+**Getting there and around:** the Mentawai Fast ferry from Padang to Siberut and to Tuapejat, on Sipora. Times and prices change often, and in rough seas the boats don't leave: you need buffer days. On Siberut, motorized canoe and trekking. Surfers pay a local surf tax.
 
 **When to go:** May-September. From November to January it rains a lot.
 
@@ -157,13 +157,13 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 ### Raja Ampat
 **What to do and see:** snorkeling and diving around Kri, Arborek, Cape Kri and the Fam Islands, the Piaynemo viewpoint, the homestay villages. Further south, Misool, with a liveaboard. It's the most beautiful place I've seen underwater, and also the hardest to reach. If you want to stay on Arborek, you'll find homestays on the local homestay portal, stayrajaampat.com (for example Worisun and Adefiro). Staying in homestays instead of resorts is the choice worth making, because that model keeps the park's protection going.
 
-**Getting there and around:** fly to Sorong from Jakarta, Makassar and Manado, or from Bali on Garuda's direct flight in the months it runs (in 2026-2027 from late October to March). Then the ferry to Waisai, about 2 hours, with an early-afternoon departure and, not every day, a morning one. Between the islands, only homestay boats, private boats or liveaboards. The park permit (PIN) is mandatory and is paid in Sorong or at Waisai port: the amount for foreigners changed in 2026 and needs to be checked at the time. There are no ATMs on the islands.
+**Getting there and around:** fly to Sorong from Jakarta, Makassar and Manado, or from Bali on Garuda's direct flight in the months it runs (in 2026-2027 from late October to March). Then the ferry to Waisai, about 2 hours, with an early-afternoon departure and, not every day, a morning one. Between the islands, only homestay boats, private boats or liveaboards. The park permit (PIN) is mandatory and is paid in Sorong or at Waisai port: the amount for foreigners changed in 2026. There are no ATMs on the islands.
 
 **When to go:** October-April, with calmer seas, manta rays and big pelagics. From May to September the southeast winds blow: transfers take longer and outings to exposed areas can be canceled. We went in August: the sea was spectacular anyway, ten days without rain, but the wind made itself felt. And in summer you see fewer big pelagics.
 
 **How many days:** a week at the very least. With less, you spend more time traveling than in the water.
 
-**In practice:** Sorong-Waisai ferry about 2 hours · park permit paid in Sorong or Waisai, 2026 amount to be checked · withdraw all the cash for your stay in Sorong, there are no ATMs on the islands · book homestays ahead, usually full board, with boat transfers paid separately.
+**In practice:** Sorong-Waisai ferry about 2 hours · park permit paid in Sorong or Waisai · withdraw all the cash for your stay in Sorong, there are no ATMs on the islands · book homestays ahead, usually full board, with boat transfers paid separately.
 
 **Read more:** [the Raja Ampat page](/destinations/indonesia/raja-ampat), [the Raja Ampat liveaboard](/experiences/indonesia/raja-ampat-liveaboard-diving), [Bali, Sulawesi and Raja Ampat in 12 days](/trips/bali-sulawesi-raja-ampat-itinerary).
 

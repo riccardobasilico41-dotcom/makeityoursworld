@@ -24,7 +24,7 @@ export const sriLanka2023Meta: TripMeta = {
     'Gli orari di treni e trasferimenti sono spesso imprevedibili (il treno panoramico Nuwara Eliya-Ella in particolare)',
     'Diversi hotel intermedi (Nallathanniya su tutti) sono punti d\'appoggio funzionali più che strutture da vacanza',
   ],
-  budgetTotale: 'circa 250€ a testa di cassa comune di partenza, più altri 200€ a testa durante il viaggio',
+  budgetTotale: 'circa 250 € a testa di cassa comune di partenza, più altri 200 € a testa durante il viaggio',
   viaggioInBreve: {
     percheHoScelto: undefined,
     conChiSonoPartito: 'van privato con autista per tutto il percorso, con DMC locale (WanderlustAsia) a organizzare hotel e attività',
@@ -145,7 +145,7 @@ export const sriLanka2023Meta: TripMeta = {
       pernottamento: 'Sapphire Seas Beachfront Hotel',
       statoPernottamento: 'provato',
       intensita: 'intenso',
-      costiNoti: 'Safari a Yala 12.000-16.000 LKR a jeep + ingresso (27-30€ a persona) + mancia',
+      costiNoti: 'Safari a Yala 12.000-16.000 LKR a jeep + ingresso (27-30 € a persona) + mancia',
       destinazioneSlug: 'hikkaduwa',
       immagine: '/images/sri-lanka/yala-elefante-jeep-riccardo.jpg',
       imageAlt: 'Un elefante selvatico avanza sulla pista rossa di Yala davanti alle jeep del safari ferme',
@@ -183,9 +183,9 @@ export const sriLanka2023Meta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli', valore: undefined },
-    { etichetta: 'Cassa comune di partenza', valore: '250€ a testa' },
-    { etichetta: 'Spese durante il viaggio (cibo, bevande, souvenir, massaggi)', valore: '200€ a testa' },
-    { etichetta: 'Visto ETA', valore: '~70€ a persona' },
+    { etichetta: 'Cassa comune di partenza', valore: '250 € a testa' },
+    { etichetta: 'Spese durante il viaggio (cibo, bevande, souvenir, massaggi)', valore: '200 € a testa' },
+    { etichetta: 'Visto ETA', valore: '~70 € a persona' },
     { etichetta: 'Totale', valore: undefined },
   ],
 }

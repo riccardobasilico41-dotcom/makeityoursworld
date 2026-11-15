@@ -20,11 +20,11 @@ Della notte dell'Adam's Peak ricordo soprattutto la fatica condivisa: partire ne
   di pellegrini fino a maggio) e per i safari nel nord-centro.
 - **Documenti/visto:** visto elettronico ETA obbligatorio, richiesta online su
   eta.gov.lk, rilasciato in circa 24h. *Aggiornamento: al tempo di questo
-  viaggio costava circa 70€ a persona, ma dal 25 maggio 2026 l'ETA è gratuita
+  viaggio costava circa 70 € a persona, ma dal 25 maggio 2026 l'ETA è gratuita
   per i titolari di passaporto italiano. Le condizioni cambiano: conviene
   controllarle sempre prima di partire.*
-- **Budget:** cassa comune di partenza consigliata 250€ a testa (basta
-  anche con attività extra), più una media di altri 200€ a testa durante il
+- **Budget:** cassa comune di partenza consigliata 250 € a testa (basta
+  anche con attività extra), più una media di altri 200 € a testa durante il
   viaggio per cibo, bevande, acqua, souvenir e massaggi.
 - **Come mi sono mosso:** van privato con autista anglofono per tutto il
   viaggio (incluso nel pacchetto), un tratto in treno panoramico da Nuwara
@@ -46,7 +46,7 @@ il viaggio da solo o in coppia e vuole più libertà ci sono due alternative
 molto gettonate:
 
 - **Tuk tuk a noleggio, self-drive**: si guida da soli per tutta l'isola.
-  Serve un permesso di guida locale temporaneo (circa 30-40$, lo organizza la
+  Serve un permesso di guida locale temporaneo (circa 30-40 $, lo organizza la
   società di noleggio) più un permesso internazionale di guida del proprio
   paese. Le aziende più affidabili (es. **Holiday Tuk Tuk**,
   holidaytuktuk.com, con base a Kandy) danno una lezione di guida completa
@@ -292,7 +292,7 @@ Seas è già su questo livello, boutique) · lusso: Crystal Sands, Aditya
 Resort.
 
 ## Dove abbiamo mangiato
-- Negombo: Jude Restaurant (pesce buono ma lento, 12€/pax); SeaJoy (pranzo
+- Negombo: Jude Restaurant (pesce buono ma lento, 12 €/pax); SeaJoy (pranzo
   economico)
 - Anuradhapura: buffet in hotel
 - Dambulla/Sigiriya: Mom's Kitchen, Golden Palace

@@ -33,7 +33,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     comeSpostarsi: 'A pie, en funicular, tranvía y autobús Muni con la tarjeta Clipper o la app, o con Uber y Lyft. Conviene recoger el coche el día de la salida.',
     periodoMigliore: 'septiembre-octubre, los meses más cálidos y con menos niebla; en verano niebla y viento frío',
     costi:
-      "Alcatraz 47,95 $ con ferri, unos 41 € (NPS, 2026), para reservar con semanas de antelación; funicular (cable car) 9 $ por viaje, Muni 2,85 $ con tarjeta o app, Visitor Passport 15 $ por 1 día y 35 $ por 3 días (SFMTA, 2026); aparcamiento en el hotel 50-80 $ por noche (orientativo). Presupuesto diario por persona: bajo 120-170 € (albergue, Muni, taquerías y Chinatown); medio 280-400 € (hotel de gama media en Union Square o North Beach, Alcatraz, cena en restaurante); alto desde 600 € (hotel en Nob Hill, cenas y tours privados). La tarifa media de una habitación en la ciudad ronda los 200-220 $ por noche en semanas normales y supera los 350 $ durante los grandes congresos (CoStar, 2025).",
+      "Alcatraz 47,95 $ con ferri, unos 41 € (2026), para reservar con semanas de antelación; funicular (cable car) 9 $ por viaje, Muni 2,85 $ con tarjeta o app, Visitor Passport 15 $ por 1 día y 35 $ por 3 días (2026); aparcamiento en el hotel 50-80 $ por noche (orientativo). Presupuesto diario por persona: bajo 120-170 € (albergue, Muni, taquerías y Chinatown); medio 280-400 € (hotel de gama media en Union Square o North Beach, Alcatraz, cena en restaurante); alto desde 600 € (hotel en Nob Hill, cenas y tours privados). La tarifa media de una habitación en la ciudad ronda los 200-220 $ por noche en semanas normales y supera los 350 $ durante los grandes congresos (2025).",
     erroriDaEvitare: [
       'Dejar cualquier cosa a la vista en el coche: las ventanillas rotas están a la orden del día',
       'Llegar a Muir Woods sin la reserva obligatoria del aparcamiento o de la lanzadera',
@@ -47,7 +47,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         quando: "A primera hora o al atardecer. En verano la niebla suele cubrir el puente hasta media mañana.",
         tempo: "2-3 horas",
         costo: "Gratis (cruce a pie o en bici)",
-        orari: "Welcome Center todos los días 9-18 (Golden Gate Bridge District, 2026)",
+        orari: "Welcome Center todos los días 9-18 (2026)",
         lat: 37.81972,
         lng: -122.47861,
         url: "https://www.goldengate.org/",
@@ -59,8 +59,8 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "El ferri sale del Pier 33 con Alcatraz City Cruises, el único servicio autorizado por el National Park Service. La entrada se compra en línea.",
         quando: "Reserva con muchas semanas de antelación: las plazas se agotan. El tour nocturno está muy solicitado.",
         tempo: "3-4 horas con la travesía",
-        costo: "47,95 $ adultos el tour diurno, unos 41 €; 59,65 $ el tour nocturno, unos 51 € (NPS, 2026)",
-        orari: "Todos los días salvo Acción de Gracias, Navidad y Año Nuevo; ferris cada media hora aproximadamente desde las 8.45, horarios variables según la temporada (NPS, 2026)",
+        costo: "47,95 $ adultos el tour diurno, unos 41 €; 59,65 $ el tour nocturno, unos 51 € (2026)",
+        orari: "Todos los días salvo Acción de Gracias, Navidad y Año Nuevo; ferris cada media hora aproximadamente desde las 8.45, horarios variables según la temporada (2026)",
         lat: 37.82667,
         lng: -122.42278,
         url: "https://www.nps.gov/alca/",
@@ -72,7 +72,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "Los cable cars salen de Powell Street, cerca de Union Square. Se paga con la app MuniMobile, la tarjeta Clipper o en efectivo con el importe exacto; en las cabeceras de Powell & Market, Bay & Taylor y Hyde & Beach, de 8 a 20, el billete se compra antes de subir.",
         quando: "En horas punta hay cola: mejor a primera hora.",
         tempo: "2-3 horas",
-        costo: "9 $ por viaje, unos 8 €, sin transbordo; Visitor Passport de Muni 15 $ por 1 día (unos 13 €), 35 $ por 3 días (unos 30 €), válido también en los cable cars (SFMTA, 2026)",
+        costo: "9 $ por viaje, unos 8 €, sin transbordo; Visitor Passport de Muni 15 $ por 1 día (unos 13 €), 35 $ por 3 días (unos 30 €), válido también en los cable cars (2026)",
         lat: 37.80833,
         lng: -122.41556,
         url: "https://www.sfmta.com/getting-around/muni/cable-cars",
@@ -127,7 +127,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         quando: "El sábado por la mañana, con el mercado de agricultores completo.",
         tempo: "1-2 horas",
         costo: "Entrada libre",
-        orari: "Edificio todos los días 6-22, tiendas con horarios propios; mercado de agricultores martes y jueves 10-14, sábado 8-14 (sitio oficial, 2026)",
+        orari: "Edificio todos los días 6-22, tiendas con horarios propios; mercado de agricultores martes y jueves 10-14, sábado 8-14 (2026)",
         lat: 37.7955,
         lng: -122.3937,
         url: "https://www.ferrybuildingmarketplace.com/",
@@ -200,8 +200,8 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "Hay que reservar con antelación el aparcamiento o el autobús lanzadera en la web del National Park Service. El sendero principal es llano.",
         quando: "A primera hora, para evitar grupos y niebla.",
         tempo: "1,5-2 horas",
-        costo: "15 $ por persona desde los 16 años, unos 13 €, más la reserva de aparcamiento o lanzadera en GoMuirWoods.com (NPS, 2026)",
-        orari: "Todos los días desde las 8 hasta la puesta de sol aproximadamente (NPS, 2026)",
+        costo: "15 $ por persona desde los 16 años, unos 13 €, más la reserva de aparcamiento o lanzadera en GoMuirWoods.com (2026)",
+        orari: "Todos los días desde las 8 hasta la puesta de sol aproximadamente (2026)",
         lat: 37.89194,
         lng: -122.57083,
         url: "https://www.nps.gov/muwo/",
@@ -280,7 +280,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "¿Hay que reservar Alcatraz?",
-        risposta: "Sí, en la práctica siempre: las entradas se venden en línea solo en Alcatraz City Cruises y en verano y festivos se agotan incluso con un mes de antelación. El tour diurno cuesta 47,95 $ (NPS, 2026).",
+        risposta: "Sí, en la práctica siempre: las entradas se venden en línea solo en Alcatraz City Cruises y en verano y festivos se agotan incluso con un mes de antelación. El tour diurno cuesta 47,95 $ (2026).",
       },
       {
         domanda: "¿Hace falta coche en San Francisco?",
@@ -288,7 +288,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "¿Cuánto cuesta el cable car?",
-        risposta: "9 $ por viaje, sin transbordo. Quien lo usa varias veces sale ganando con el Visitor Passport de Muni de 1, 3 o 7 días (15, 35 y 47 $), válido también en autobuses y tranvías (SFMTA, 2026).",
+        risposta: "9 $ por viaje, sin transbordo. Quien lo usa varias veces sale ganando con el Visitor Passport de Muni de 1, 3 o 7 días (15, 35 y 47 $), válido también en autobuses y tranvías (2026).",
       },
       {
         domanda: "¿Dónde conviene alojarse en San Francisco?",
@@ -332,7 +332,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     comeSpostarsi: 'En coche y con las lanzaderas gratuitas del valle; en verano, después de las 9, encontrar aparcamiento es difícil.',
     periodoMigliore: 'mayo-junio para las cascadas, septiembre-octubre para la tranquilidad; Tioga Road abierta normalmente desde finales de mayo o junio hasta noviembre',
     costi:
-      "Entrada 35 $ por coche para 7 días, unos 30 €; desde 2026 suplemento de 100 $ por persona para los no residentes a partir de 16 años, unos 86 €, o pase anual para no residentes America the Beautiful a 250 $, unos 215 €, que cubre entrada y suplementos para todo el coche (NPS, 2026). Presupuesto diario por persona, sin la entrada: bajo 90-140 € (camping o motel fuera del parque, compra en el supermercado); medio 200-300 € (tienda de Curry Village o motel en El Portal, comidas en las cafeterías del parque); alto desde 400 € (Yosemite Valley Lodge o The Ahwahnee, cenas en restaurante). Las tiendas de Curry Village parten de unos 190 $ por noche y el Yosemite Valley Lodge de unos 360 $ en temporada alta (National Parks Traveler).",
+      "Entrada 35 $ por coche para 7 días, unos 30 €; desde 2026 suplemento de 100 $ por persona para los no residentes a partir de 16 años, unos 86 €, o pase anual para no residentes America the Beautiful a 250 $, unos 215 €, que cubre entrada y suplementos para todo el coche (2026). Presupuesto diario por persona, sin la entrada: bajo 90-140 € (camping o motel fuera del parque, compra en el supermercado); medio 200-300 € (tienda de Curry Village o motel en El Portal, comidas en las cafeterías del parque); alto desde 400 € (Yosemite Valley Lodge o The Ahwahnee, cenas en restaurante). Las tiendas de Curry Village parten de unos 190 $ por noche y el Yosemite Valley Lodge de unos 360 $ en temporada alta (National Parks Traveler).",
     erroriDaEvitare: [
       'Llegar al valle a media mañana en verano: aparcamientos llenos y colas en las entradas',
       'Dejar comida u objetos perfumados en el coche: los osos rompen las ventanillas',
@@ -345,7 +345,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "En coche, por la Wawona Road (CA-41) antes de entrar en el valle. Hay aparcamiento.",
         quando: "Al atardecer o a primera hora; en primavera la cascada va llena.",
         tempo: "30 minutos",
-        costo: "Entrada al parque 35 $ por coche, unos 30 €, válida 7 días; los no residentes en EE. UU. desde 16 años pagan 100 $ más por persona, unos 86 € (NPS, 2026). En 2026 no hace falta reserva de entrada.",
+        costo: "Entrada al parque 35 $ por coche, unos 30 €, válida 7 días; los no residentes en EE. UU. desde 16 años pagan 100 $ más por persona, unos 86 € (2026). En 2026 no hace falta reserva de entrada.",
         lat: 37.71576,
         lng: -119.67718,
         url: "https://www.nps.gov/yose/",
@@ -354,7 +354,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Yosemite Falls",
         testo: "La cascada más alta del parque, que cae en tres saltos 739 metros sobre el fondo del valle. Desde Yosemite Village un bucle corto lleva al pie del salto inferior; el sendero hasta la cima es una de las excursiones más duras del valle.",
-        come: "A pie o con la lanzadera gratuita del valle hasta la parada de Lower Yosemite Fall. El sendero hasta Columbia Rock tiene 3,2 km ida y vuelta con 328 m de desnivel (2-3 horas); hasta lo alto de la cascada 11,6 km con 823 m de desnivel (6-8 horas) (NPS).",
+        come: "A pie o con la lanzadera gratuita del valle hasta la parada de Lower Yosemite Fall. El sendero hasta Columbia Rock tiene 3,2 km ida y vuelta con 328 m de desnivel (2-3 horas); hasta lo alto de la cascada 11,6 km con 823 m de desnivel (6-8 horas).",
         quando: "En primavera, con el caudal máximo. A finales de verano y en otoño la cascada a menudo se reduce a un hilo o se seca.",
         tempo: "30 minutos-8 horas",
         lat: 37.75684,
@@ -365,7 +365,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Mist Trail y las cascadas Vernal y Nevada",
         testo: "Un sendero empinado de escalones de piedra que lleva a las cascadas Vernal y Nevada, con salpicaduras que mojan. En primavera y a principios de verano el caudal es máximo.",
-        come: "Sale de Happy Isles, en el valle, accesible con la lanzadera gratuita. Ida y vuelta hasta el puente sobre el Vernal: 2,6 km, 1-1,5 horas; hasta lo alto de la Vernal Fall: 3,9 km, unas 3 horas; hasta lo alto de la Nevada Fall: 8,7 km, 5-6 horas (NPS).",
+        come: "Sale de Happy Isles, en el valle, accesible con la lanzadera gratuita. Ida y vuelta hasta el puente sobre el Vernal: 2,6 km, 1-1,5 horas; hasta lo alto de la Vernal Fall: 3,9 km, unas 3 horas; hasta lo alto de la Nevada Fall: 8,7 km, 5-6 horas.",
         quando: "En primavera y a principios de verano las cascadas van más llenas, pero los escalones resbalan y hay mucha gente. En invierno solo queda abierto un recorrido reducido, a tramos helado.",
         tempo: "3-6 horas",
         lat: 37.72743,
@@ -376,7 +376,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "El Capitan",
         testo: "La pared de granito de casi mil metros a la entrada del valle, la más famosa del mundo para la escalada en pared. Desde el prado a sus pies se ven, con prismáticos, las cordadas colgadas de la roca.",
-        come: "En coche o en bici por la Northside Drive, con apartaderos a lo largo de El Capitan Meadow. Hasta diciembre de 2026 hay obras en el puente de El Capitan, con esperas los días laborables de 7 a 19 (NPS).",
+        come: "En coche o en bici por la Northside Drive, con apartaderos a lo largo de El Capitan Meadow. Hasta diciembre de 2026 hay obras en el puente de El Capitan, con esperas los días laborables de 7 a 19.",
         quando: "Por la mañana por la luz sobre la pared, al atardecer cuando el granito se vuelve naranja.",
         tempo: "30 minutos-1 hora",
         costo: "Incluido en la entrada al parque",
@@ -388,11 +388,11 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Bridalveil Fall",
         testo: "La cascada de 189 metros que se ve a la derecha desde Tunnel View. El viento desplaza el agua hacia un lado, de ahí su nombre de «velo de novia».",
-        come: "Aparcamiento al inicio del sendero, desde la Wawona Road o la Southside Drive. El sendero es fácil: 0,8 km ida y vuelta con 24 m de desnivel, unos 20 minutos (NPS).",
+        come: "Aparcamiento al inicio del sendero, desde la Wawona Road o la Southside Drive. El sendero es fácil: 0,8 km ida y vuelta con 24 m de desnivel, unos 20 minutos.",
         quando: "En primavera, con el caudal máximo; la cascada corre todo el año, aunque más débil en otoño.",
         tempo: "30 minutos",
         costo: "Incluido en la entrada al parque",
-        orari: "Sendero abierto todo el año (NPS)",
+        orari: "Sendero abierto todo el año",
         lat: 37.71675,
         lng: -119.64651,
         url: "https://www.nps.gov/yose/planyourvisit/bridalveilfalltrail.htm",
@@ -423,7 +423,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Tioga Road y Tuolumne Meadows",
         testo: "La carretera de alta montaña que cruza el parque hacia el este hasta el Tioga Pass, a más de 3.000 metros, entre lagos como el Tenaya, cúpulas de granito y el mirador de Olmsted Point. Tuolumne Meadows es la gran pradera subalpina a mitad de camino, con senderos fáciles junto al río.",
-        come: "En coche por la CA-120 desde Crane Flat hacia Lee Vining y el Mono Lake. No se puede aparcar de noche junto a la carretera; en noviembre de 2026 sigue abierta, con esperas de 15 minutos los días laborables al este de Crane Flat (NPS).",
+        come: "En coche por la CA-120 desde Crane Flat hacia Lee Vining y el Mono Lake. No se puede aparcar de noche junto a la carretera; en noviembre de 2026 sigue abierta, con esperas de 15 minutos los días laborables al este de Crane Flat.",
         quando: "Desde finales de mayo o junio hasta octubre-noviembre, según la nieve: aperturas y cierres en la web del parque.",
         tempo: "media jornada",
         lat: 37.875,
@@ -434,7 +434,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Half Dome",
         testo: "La cúpula de granito partida por la mitad, símbolo de Yosemite, a unos 2.700 metros. La subida en el día tiene 22-26 km con unos 1.460 metros de desnivel y termina en los cables de acero del último tramo.",
-        come: "Se sale de Happy Isles por el Mist Trail. Para subir por los cables hace falta un permiso, que se asigna por sorteo en marzo y, en menor número, dos días antes (NPS).",
+        come: "Se sale de Happy Isles por el Mist Trail. Para subir por los cables hace falta un permiso, que se asigna por sorteo en marzo y, en menor número, dos días antes.",
         quando: "Los cables se montan normalmente desde el viernes anterior al Memorial Day (finales de mayo) hasta el día después del segundo lunes de octubre. En noviembre de 2026 ya están desmontados.",
         tempo: "10-12 horas",
         lat: 37.74604,
@@ -473,7 +473,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Productos californianos", testo: "Fruta y quesos en los pueblos cercanos." },
     ],
     attenzioni: [
-      "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más por persona además de la entrada, salvo que tengan el pase anual para no residentes (NPS, 2026).",
+      "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más por persona además de la entrada, salvo que tengan el pase anual para no residentes (2026).",
       "No dejes comida ni objetos perfumados en el coche: los osos rompen las ventanillas. Usa las taquillas antiosos de aparcamientos y campings.",
       "Llegar al valle a media mañana en verano significa aparcamientos llenos y colas: llega pronto.",
       "Comprueba la apertura de la Tioga Road y de Glacier Point en la web del parque. En 2026 no hace falta reserva para entrar en el parque, pero los días punta hay colas en las entradas.",
@@ -509,11 +509,11 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "¿Cuánto cuesta la entrada a Yosemite para un turista extranjero?",
-        risposta: "35 $ por coche, válidos 7 días, más 100 $ por persona para los no residentes desde 16 años (NPS, 2026). El pase anual para no residentes de 250 $ cubre entrada y suplementos para todo el coche y ya compensa con dos personas si se visita también Sequoia.",
+        risposta: "35 $ por coche, válidos 7 días, más 100 $ por persona para los no residentes desde 16 años (2026). El pase anual para no residentes de 250 $ cubre entrada y suplementos para todo el coche y ya compensa con dos personas si se visita también Sequoia.",
       },
       {
         domanda: "¿Cuándo está abierta la Tioga Road?",
-        risposta: "Normalmente desde finales de mayo o junio hasta octubre-noviembre, según la nieve. A principios de noviembre de 2026 seguía abierta (NPS): el estado actualizado está en la página de condiciones del parque.",
+        risposta: "Normalmente desde finales de mayo o junio hasta octubre-noviembre, según la nieve. A principios de noviembre de 2026 seguía abierta: el estado actualizado está en la página de condiciones del parque.",
       },
       {
         domanda: "¿Hace falta permiso para el Half Dome?",
@@ -802,7 +802,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Cocina mexicana", testo: "Locales de Visalia y Fresno." },
     ],
     attenzioni: [
-      "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más además de la entrada, salvo pase anual para no residentes (NPS, 2026).",
+      "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más además de la entrada, salvo pase anual para no residentes (2026).",
       "El parque desaconseja los vehículos de más de 6,7 metros entre el Potwisha Campground y el Giant Forest Museum: con una autocaravana larga entra por el norte.",
       "En invierno hacen falta cadenas y los cierres son frecuentes.",
       "Las distancias son largas: entre las dos entradas y los puntos principales se conduce mucho.",
@@ -838,7 +838,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     comeArrivare: "Desde Sequoia son unas 5-6 horas rodeando Sierra Nevada por el sur, por Lake Isabella y Ridgecrest, donde conviene llenar el depósito, hasta la entrada oeste de Panamint Springs y Stovepipe Wells. Desde Las Vegas se tardan unas 2 horas hasta Furnace Creek; en verano desde Yosemite se pasa por la Tioga Road y Lone Pine. El parque está abierto las 24 horas, no hace falta reservar y no se acepta efectivo: la entrada se compra en línea o con tarjeta en las máquinas. En el coche hay que llevar 4 litros de agua por persona.",
     comeSpostarsi: 'Solo en coche, llenando el depósito antes de entrar: en el parque las gasolineras son pocas y caras.',
     periodoMigliore: 'de noviembre a marzo; abril y octubre todavía posibles; de mayo a septiembre calor extremo, por encima de 45-50 °C',
-    costi: "Entrada 30 $ por coche para 7 días, unos 26 €, sin suplemento para no residentes y cubierta por el pase anual America the Beautiful de 250 $ (NPS, 2026). Presupuesto diario por persona, sin la entrada: bajo 70-110 € (camping o motel en Beatty, comida traída de fuera); medio 150-220 € (Stovepipe Wells o el Ranch en Furnace Creek, comidas en los restaurantes del parque); alto desde 350 € (The Inn at Death Valley). En el Ranch las habitaciones van aproximadamente de 125 a 250 $ por noche, más un resort fee de 22 $ e impuestos; el Inn supera los 400 $ (webs de reservas, 2026). Gasolina y agua en el parque cuestan mucho más que fuera.",
+    costi: "Entrada 30 $ por coche para 7 días, unos 26 €, sin suplemento para no residentes y cubierta por el pase anual America the Beautiful de 250 $ (2026). Presupuesto diario por persona, sin la entrada: bajo 70-110 € (camping o motel en Beatty, comida traída de fuera); medio 150-220 € (Stovepipe Wells o el Ranch en Furnace Creek, comidas en los restaurantes del parque); alto desde 350 € (The Inn at Death Valley). En el Ranch las habitaciones van aproximadamente de 125 a 250 $ por noche, más un resort fee de 22 $ e impuestos; el Inn supera los 400 $ (2026). Gasolina y agua en el parque cuestan mucho más que fuera.",
     erroriDaEvitare: [
       'Caminar en verano después de las 10: el calor es letal, y cada año hay rescates y muertes',
       'Entrar con medio depósito: las distancias entre una gasolinera y otra son largas',
@@ -848,11 +848,11 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Zabriskie Point",
         testo: "Un mirador sobre colinas de barro amarillo y dorado, esculpidas por la erosión. Al amanecer la luz rosada da el mejor color.",
-        come: "En coche, por la CA-190 cerca de Furnace Creek. Desde el aparcamiento un breve sendero en subida lleva al mirador; de aquí sale también el Badlands Loop, 4,3 km con 163 m de desnivel (NPS).",
+        come: "En coche, por la CA-190 cerca de Furnace Creek. Desde el aparcamiento un breve sendero en subida lleva al mirador; de aquí sale también el Badlands Loop, 4,3 km con 163 m de desnivel.",
         quando: "Al amanecer.",
         tempo: "30-45 minutos",
-        costo: "Entrada al parque 30 $ por coche, unos 26 €, válida 7 días, igual para los no residentes; se paga en línea en Recreation.gov o en las máquinas, solo con tarjeta (NPS, 2026)",
-        orari: "Parque abierto todo el año, las 24 horas (NPS)",
+        costo: "Entrada al parque 30 $ por coche, unos 26 €, válida 7 días, igual para los no residentes; se paga en línea en Recreation.gov o en las máquinas, solo con tarjeta (2026)",
+        orari: "Parque abierto todo el año, las 24 horas",
         lat: 36.42,
         lng: -116.81111,
         url: "https://www.nps.gov/deva/",
@@ -873,7 +873,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Golden Canyon",
         testo: "El cañón de roca amarilla que sube desde la Badwater Road hacia la Red Cathedral, una pared roja al fondo. Es la excursión más completa del centro del parque, y se puede alargar hasta Zabriskie Point.",
-        come: "El sendero sale de un aparcamiento asfaltado unos 3 km al sur de la CA-190 en la Badwater Road. Hasta la Red Cathedral son 4,8 km ida y vuelta, 176 m de desnivel y algunos pasos fáciles sobre roca (1,5-2 horas); el bucle con la Gower Gulch tiene 6,9 km, unas 2,5 horas (NPS).",
+        come: "El sendero sale de un aparcamiento asfaltado unos 3 km al sur de la CA-190 en la Badwater Road. Hasta la Red Cathedral son 4,8 km ida y vuelta, 176 m de desnivel y algunos pasos fáciles sobre roca (1,5-2 horas); el bucle con la Gower Gulch tiene 6,9 km, unas 2,5 horas.",
         quando: "A primera hora. De mayo a septiembre solo al amanecer, y nunca después de las 10.",
         tempo: "1,5-2,5 horas",
         costo: "Incluido en la entrada al parque",
@@ -945,14 +945,14 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Ubehebe Crater",
         testo: "Un cráter volcánico de casi 800 metros de ancho y unos 180 de profundidad, en el norte del parque, formado quizá hace solo 2.100 años por una explosión de vapor. Las paredes muestran capas de roca roja, amarilla y negra.",
-        come: "En coche hacia el norte desde Stovepipe Wells o Furnace Creek, un desvío largo. El sendero por el borde, con cráteres menores como el Little Hebe, tiene unos 2,4 km; bajar al fondo es fácil, volver a subir cansa mucho (NPS).",
+        come: "En coche hacia el norte desde Stovepipe Wells o Furnace Creek, un desvío largo. El sendero por el borde, con cráteres menores como el Little Hebe, tiene unos 2,4 km; bajar al fondo es fácil, volver a subir cansa mucho.",
         quando: "Por la mañana; el borde está expuesto al viento.",
         tempo: "1-1,5 horas más el trayecto",
         costo: "Incluido en la entrada al parque",
         lat: 37.00972,
         lng: -117.45028,
         url: "https://www.nps.gov/deva/planyourvisit/ubehebe-crater.htm",
-        consiglio: "No salgas del sendero: el borde y los barrancos de alrededor son de grava inestable. El Scotty's Castle, un poco más al norte, está cerrado por obras tras la riada, sin fecha de reapertura (NPS, 2026).",
+        consiglio: "No salgas del sendero: el borde y los barrancos de alrededor son de grava inestable. El Scotty's Castle, un poco más al norte, está cerrado por obras tras la riada, sin fecha de reapertura (2026).",
       },
     ],
     programmi: [
@@ -984,7 +984,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       "Caminar en verano en las horas de calor es peligroso: el calor mata cada año.",
       "Llena el depósito antes de entrar: en el parque las gasolineras son pocas y caras.",
       "No sigas el navegador por caminos de tierra: muchos requieren un 4x4.",
-      "Entrada: 30 $ por coche durante 7 días (NPS), igual para los no residentes.",
+      "Entrada: 30 $ por coche durante 7 días, igual para los no residentes.",
     ],
     gite: [
       {
@@ -1011,11 +1011,11 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "¿Cuánto cuesta la entrada a Death Valley?",
-        risposta: "30 $ por coche, válidos 7 días, sin suplemento para no residentes; el parque no acepta efectivo. Se paga en línea en Recreation.gov, en el centro de visitantes o en las máquinas con tarjeta (NPS, 2026).",
+        risposta: "30 $ por coche, válidos 7 días, sin suplemento para no residentes; el parque no acepta efectivo. Se paga en línea en Recreation.gov, en el centro de visitantes o en las máquinas con tarjeta (2026).",
       },
       {
         domanda: "¿Hace falta reserva para entrar?",
-        risposta: "No: el parque está abierto las 24 horas todo el año y no pide reservas (NPS). Los alojamientos de Furnace Creek y Stovepipe Wells, en cambio, conviene reservarlos con antelación.",
+        risposta: "No: el parque está abierto las 24 horas todo el año y no pide reservas. Los alojamientos de Furnace Creek y Stovepipe Wells, en cambio, conviene reservarlos con antelación.",
       },
       {
         domanda: "¿Mejor dormir en Furnace Creek o en Stovepipe Wells?",
@@ -1283,7 +1283,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       "No te salgas de los senderos entre las rocas sin agua y sin cobertura.",
       "No toques los cholla: las espinas se pegan a la piel.",
       "En verano el calor es extremo: evita las horas centrales.",
-      "Entrada: 30 $ por coche durante 7 días (NPS), igual para los no residentes.",
+      "Entrada: 30 $ por coche durante 7 días, igual para los no residentes.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
@@ -1316,7 +1316,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     comeArrivare: "En avión se llega al aeropuerto de Los Ángeles (LAX), al suroeste de la ciudad, a unos 30 minutos de Santa Mónica sin tráfico y mucho más en hora punta. Los coches de alquiler se recogen con las lanzaderas de cada empresa; taxis, Uber y Lyft se toman en la zona LAX-it, a la que se llega con una lanzadera desde las terminales. En el road trip, desde Joshua Tree o Palm Springs se conducen 2-3 horas por la I-10, evitando la hora punta de la tarde.",
     comeSpostarsi: 'En coche, con mucho tráfico entre las 7 y las 10 y entre las 15 y las 19; además Uber y Lyft, y el metro para algunos tramos.',
     periodoMigliore: 'todo el año; mayo-junio con el cielo gris de la mañana («June Gloom»)',
-    costi: "Getty Center y Getty Villa gratuitos con reserva, aparcamiento 25 $ (15 $ después de las 15); Griffith Observatory y The Broad gratuitos; Warner Bros. Studio Tour desde 79 $, unos 68 € (sitio oficial, 2026); aparcamiento del hotel 35-60 $ por noche (orientativo). Presupuesto diario por persona: bajo 120-170 € (motel o albergue, tacos y food trucks, metro y algún Uber); medio 250-380 € (hotel de gama media en West Hollywood o Santa Mónica, coche de alquiler, una visita a los estudios); alto desde 600 € (hotel en Beverly Hills o frente al mar, Universal, cenas en restaurante). En el primer semestre de 2025 la tarifa media de una habitación en la ciudad era de unos 197 $ por noche (CoStar).",
+    costi: "Getty Center y Getty Villa gratuitos con reserva, aparcamiento 25 $ (15 $ después de las 15); Griffith Observatory y The Broad gratuitos; Warner Bros. Studio Tour desde 79 $, unos 68 € (2026); aparcamiento del hotel 35-60 $ por noche (orientativo). Presupuesto diario por persona: bajo 120-170 € (motel o albergue, tacos y food trucks, metro y algún Uber); medio 250-380 € (hotel de gama media en West Hollywood o Santa Mónica, coche de alquiler, una visita a los estudios); alto desde 600 € (hotel en Beverly Hills o frente al mar, Universal, cenas en restaurante). En el primer semestre de 2025 la tarifa media de una habitación en la ciudad era de unos 197 $ por noche.",
     erroriDaEvitare: ['Planificar demasiadas zonas en un día: los tiempos en coche son largos', 'Dejar objetos a la vista en el coche aparcado'],
     luoghi: [
       {
@@ -1326,7 +1326,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         quando: "Al atardecer, llegando al menos una hora antes por el aparcamiento.",
         tempo: "2 horas",
         costo: "Gratis; aparcamiento de pago",
-        orari: "De martes a viernes 12-22, sábado y domingo 10-22; cerrado el lunes (sitio oficial, 2026)",
+        orari: "De martes a viernes 12-22, sábado y domingo 10-22; cerrado el lunes (2026)",
         lat: 34.11833,
         lng: -118.30033,
         url: "https://griffithobservatory.lacity.gov/",
@@ -1376,8 +1376,8 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "En coche hasta Burbank, cerca de Hollywood. La entrada se compra en línea.",
         quando: "Por la mañana; los fines de semana están llenos.",
         tempo: "3 horas",
-        costo: "Desde 79 $, unos 68 € (sitio oficial, 2026)",
-        orari: "Salidas de 8.30 a 15.30 (sitio oficial, 2026)",
+        costo: "Desde 79 $, unos 68 € (2026)",
+        orari: "Salidas de 8.30 a 15.30 (2026)",
         lat: 34.14889,
         lng: -118.3375,
         url: "https://www.wbstudiotour.com/",
@@ -1400,7 +1400,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "En Wilshire Boulevard, en la Miracle Mile, en coche o autobús. Al lado están el Academy Museum del cine y los pozos de alquitrán de La Brea.",
         quando: "El viernes, abierto hasta las 20; Urban Light luce más después del atardecer.",
         tempo: "2-3 horas",
-        orari: "Lunes, martes y jueves 11-18, viernes 11-20, sábado y domingo 10-19; cerrado el miércoles (sitio oficial, 2026)",
+        orari: "Lunes, martes y jueves 11-18, viernes 11-20, sábado y domingo 10-19; cerrado el miércoles (2026)",
         lat: 34.0633,
         lng: -118.3592,
         url: "https://www.lacma.org/",
@@ -1412,7 +1412,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         quando: "Entre semana por la mañana. Conviene reservar hora en línea; cada día se liberan entradas extra.",
         tempo: "1,5-2 horas",
         costo: "Entrada gratuita; algunas exposiciones de pago. La sala de Kusama requiere una reserva aparte",
-        orari: "Martes, miércoles y viernes 11-17, jueves 11-20, sábado y domingo 10-18; cerrado el lunes, Acción de Gracias y Navidad (sitio oficial, 2026)",
+        orari: "Martes, miércoles y viernes 11-17, jueves 11-20, sábado y domingo 10-18; cerrado el lunes, Acción de Gracias y Navidad (2026)",
         lat: 34.0544,
         lng: -118.2506,
         url: "https://www.thebroad.org/",
@@ -1436,7 +1436,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         quando: "A mediodía, sabiendo que en horas punta hay cola en los puestos más famosos.",
         tempo: "1 hora",
         costo: "Entrada libre",
-        orari: "Todos los días 8-21; cada puesto tiene su horario (sitio oficial, 2026)",
+        orari: "Todos los días 8-21; cada puesto tiene su horario (2026)",
         lat: 34.05081,
         lng: -118.24906,
         url: "https://www.grandcentralmarket.com/",
@@ -1554,7 +1554,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         domanda: "¿Cuándo abre el Griffith Observatory?",
-        risposta: "De martes a viernes de 12 a 22, sábado y domingo de 10 a 22; el lunes está cerrado. La entrada es libre, el aparcamiento de arriba es de pago y al atardecer se llena (sitio oficial, 2026).",
+        risposta: "De martes a viernes de 12 a 22, sábado y domingo de 10 a 22; el lunes está cerrado. La entrada es libre, el aparcamiento de arriba es de pago y al atardecer se llena (2026).",
       },
       {
         domanda: "¿Mejor Warner Bros. o Universal Studios?",

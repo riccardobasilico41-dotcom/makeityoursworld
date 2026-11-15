@@ -444,7 +444,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Amman",
         "perChi": "those who visit as a day trip",
         "testo": "Jerash is about 50 km from Amman, so you go with a driver or on a tour. Sleeping in the capital is easier.",
-        "fascia": "25-140 €"
+        "fascia": "€25-140"
       },
       {
         "nome": "Jerash town",
@@ -689,19 +689,19 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Resorts on the sea",
         "perChi": "those who want direct beach access",
         "testo": "Comfortable, with pools and spas. Food and drink prices are high and you often cannot bring food in from outside.",
-        "fascia": "90-150 €"
+        "fascia": "€90-150"
       },
       {
         "nome": "Madaba",
         "perChi": "those who want to spend less",
         "testo": "Simpler hotels and local restaurants, with about an hour of transfer to the sea.",
-        "fascia": "40-80 €"
+        "fascia": "€40-80"
       },
       {
         "nome": "Luxury resorts in Sweimeh",
         "perChi": "those after a spa and polished service",
         "testo": "The five-star hotels on the same stretch of coast, with larger beaches, more pools and spas. Food and drink are expensive too.",
-        "fascia": "170-350 €"
+        "fascia": "€170-350"
       }
     ],
     sapori: [
@@ -918,7 +918,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Wadi Musa",
         "perChi": "those continuing to Petra",
         "testo": "The natural next stop along the King's Highway.",
-        "fascia": "40-180 €"
+        "fascia": "€40-180"
       },
       {
         "nome": "Karak",
@@ -929,7 +929,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Madaba",
         "perChi": "those starting from the north",
         "testo": "A handy base for Mount Nebo, Umm ar-Rasas and Machaerus, with restaurants and simple hotels in the centre.",
-        "fascia": "40-80 €"
+        "fascia": "€40-80"
       },
       {
         "nome": "Dana village",
@@ -1352,7 +1352,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "quando": "A tour of 4-6 hours, starting in the morning or in the afternoon for the sunset.",
         "tempo": "4-6 hours",
         "costo": "Protected area entry JOD 5, about €6, for foreigners, or included in the Jordan Pass (2026); the jeep tour is paid separately",
-        "orari": "Protected area and visitor centre daily 8am-5pm (Jordan Pass, 2026)",
+        "orari": "Protected area and visitor centre daily 8am-5pm (2026)",
         "lat": 29.5765,
         "lng": 35.41993,
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
@@ -1747,13 +1747,13 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Center and seafront",
         "perChi": "those who want to be on foot",
         "testo": "Mid-range hotels and restaurants near the sea.",
-        "fascia": "45-75 €"
+        "fascia": "€45-75"
       },
       {
         "nome": "Resorts on the south coast",
         "perChi": "those who want beach and diving",
         "testo": "Luxury resorts with private beach and dive center, far from the center.",
-        "fascia": "120-200 €"
+        "fascia": "€120-200"
       },
       {
         "nome": "Ayla",

@@ -77,7 +77,7 @@ Después fuimos a pie a **Villa Borghese** y al **Pincio al atardecer**, con la 
 
 Noche en el **Gueto**, con las **alcachofas a la judía** si se está en la temporada adecuada.
 
-**En la práctica:** Panteón con entrada de unos 5 euros, mejor reservada el fin de semana · Galería Borghese cerrada los lunes, reserva obligatoria en la web oficial y turnos de dos horas · San Luigi dei Francesi y Sant'Agostino son gratuitas, pero cierran a mediodía: comprobar horarios · los carciofi alla giudia son de temporada más o menos de febrero a abril.
+**En la práctica:** Panteón con entrada de unos 5 €, mejor reservada el fin de semana · Galería Borghese cerrada los lunes, reserva obligatoria en la web oficial y turnos de dos horas · San Luigi dei Francesi y Sant'Agostino son gratuitas, pero cierran a mediodía: comprobar horarios · los carciofi alla giudia son de temporada más o menos de febrero a abril.
 
 ### Día 4 — La Roma que no sale en las postales
 Es la jornada que separa a quien ha visto Roma de quien ha visto sus monumentos, y hay que elegirla según los gustos. Las opciones son tres, todas llenas.

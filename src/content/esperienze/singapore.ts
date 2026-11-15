@@ -17,7 +17,7 @@ export const esperienzeSingapore: Esperienza[] = [
     durata: 'un pasto, da ripetere ogni giorno',
     periodo:
       'tutto l\'anno. Durante il Capodanno cinese molti banchi a gestione familiare chiudono per giorni: è l\'unico momento in cui il sistema si ferma.',
-    costo: 'indicativamente 4-8 SGD a piatto, cioè 3-6 euro per un pasto completo',
+    costo: 'indicativamente 4-8 SGD a piatto, cioè 3-6 € per un pasto completo',
     comePrenotare:
       'Niente da prenotare. Il metodo per scegliere è banale e funziona: si guarda quale banco ha la coda più lunga e ci si mette in fila. Molti banchi accettano solo contanti o pagamenti digitali locali, ma le carte stanno diventando la norma anche qui.',
     cosaPortare:

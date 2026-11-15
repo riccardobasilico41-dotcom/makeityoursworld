@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-El viaje clásico a Tailandia es el de playa, y ya está en la web: [de Bangkok al mar del sur](/viaggi/thailandia). Este es el otro, el del norte. Montañas, templos de madera, mercados nocturnos y un ritmo más lento. A Chiang Mai fui en un viaje aparte, y el contraste con Bangkok y el sur se nota desde el primer día. La mañana con los elefantes del Elephant Nature Park, sin montarlos nunca, sigue siendo uno de mis mejores recuerdos de Tailandia.
+El viaje clásico a Tailandia es el de playa, y ya está en la web, de Bangkok al mar del sur. Este es el otro, el del norte. Montañas, templos de madera, mercados nocturnos y un ritmo más lento. A Chiang Mai fui en un viaje aparte, y el contraste con Bangkok y el sur se nota desde el primer día. La mañana con los elefantes del Elephant Nature Park, sin montarlos nunca, sigue siendo uno de mis mejores recuerdos de Tailandia.
 
 La ruta sube desde Bangkok en el tren nocturno, se queda casi una semana en Chiang Mai, pasa por Pai y termina en Chiang Rai y en la frontera del Mekong. También hay una sección larga sobre los elefantes: cómo verlos sin hacer daño y cómo reconocer un lugar serio.
 

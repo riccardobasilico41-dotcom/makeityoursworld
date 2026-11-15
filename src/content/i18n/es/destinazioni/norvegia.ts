@@ -542,7 +542,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Excursión reservada con un operador desde Svolvær.",
         quando: "Verano, con cielo despejado.",
         tempo: "2 horas",
-        costo: "1.195 NOK adultos, 950 NOK niños, unos 100 € (Lofoten Explorer, 2026)",
+        costo: "1.195 NOK adultos, 950 NOK niños, unos 100 € (2026)",
         lat: 68.3628,
         lng: 14.9361,
         url: "https://lofoten-explorer.no",

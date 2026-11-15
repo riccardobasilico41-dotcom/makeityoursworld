@@ -200,6 +200,9 @@ const T = {
   },
 } satisfies Record<Lingua, Record<string, string | ((p: string) => string)>>
 
+// slug fuori dall'elenco: nessuna rotta, quindi la 404 vera di global-not-found.tsx (già nell'HTML)
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   // gli slug dei viaggi sono uguali in ogni lingua
   return getAllViaggi('en').map((v) => ({ slug: v.slug }))

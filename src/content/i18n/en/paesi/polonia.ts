@@ -12,7 +12,7 @@ export const polonia: Paese = {
   durataConsigliata:
     "3-4 days for Krakow, the historic center and the two most common day trips (Auschwitz-Birkenau and the Wieliczka Salt Mine); it is not meant to be extended to a tour of all of Poland.",
   budgetIndicativo:
-    "among the cheapest European capitals: meals, lodging and public transport cost a fraction of what they do in Western Europe. The fixed items are the Wieliczka Mine (about 120 PLN, a little over 25€) and the transport to Auschwitz (bus or train, a few tens of PLN); entry to Auschwitz-Birkenau is free.",
+    "among the cheapest European capitals: meals, lodging and public transport cost a fraction of what they do in Western Europe. The fixed items are the Wieliczka Mine (about 120 PLN, a little over €25) and the transport to Auschwitz (bus or train, a few tens of PLN); entry to Auschwitz-Birkenau is free.",
   stileViaggio: ['city', 'history', 'remembrance', 'food'],
   scheda: {
     documenti:
@@ -29,7 +29,7 @@ export const polonia: Paese = {
       'Krakow is a safe city by European standards, but it is also one of the most popular bachelor-party destinations on the continent, and this generates a specific kind of scam: street promoters, often young women, who invite tourists (especially groups of men) to "a fantastic bar" around Rynek Główny, Floriańska Street or Kazimierz. The venue then charges wildly inflated bills (even hundreds of euros for a few drinks), with bouncers discouraging you from leaving until you pay. The rule is simple: never follow anyone who approaches you in the street proposing a venue, and always check prices at the bar before ordering. For the rest, normal precautions against pickpockets on crowded trams and in the streets of the center are enough.',
     trasportiInterni:
       "The historic center is all walkable. For the rest of the city, the KMK tram and bus network is extensive, cheap and efficient (time-based tickets, from about 4 to 25 PLN depending on duration). For Auschwitz-Birkenau: a direct bus from the bus station (about 1h30, with departures every 20-40 minutes) or a train to Oświęcim (about 1h40, then a 20-30 minute walk or a short bus to the Museum). For Wieliczka: a bus or regional train in about half an hour. You don't need a rental car for a weekend focused on Krakow.",
-    costoVita: 'Low by Western European standards: a meal in a bar mleczny (the "milk bars" of the communist tradition, now cheap canteens) a few euros, a normal dinner 10-15€ per person, local beer or vodka at modest prices.',
+    costoVita: 'Low by Western European standards: a meal in a bar mleczny (the "milk bars" of the communist tradition, now cheap canteens) a few euros, a normal dinner €10-15 per person, local beer or vodka at modest prices.',
     lingua: 'Polish. English is widespread in the historic center, in hotels and among younger people; it drops in outlying neighborhoods and among older generations. A few words of Polish (dzień dobry, dziękuję) are always appreciated.',
     elettricita: '230V, 50Hz, type C and E sockets: Italian two-pin plugs fit without problems, three-pin grounded ones may require an adapter.',
     fusoOrario: 'UTC+1 (CET), the same time zone as Italy all year, daylight saving time included: no time difference.',

@@ -48,7 +48,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     comeSpostarsi: 'Le salite sono tante, e per questo ci sono i tram storici, le funicolari (elevadores) e l\'Elevador de Santa Justa. Metro, autobus e treni suburbani si pagano con la carta contactless Viva Viagem/Navegante. Il centro si gira bene anche a piedi, con un po\' di fiato in più per le colline.',
     periodoMigliore: 'aprile-maggio e settembre-ottobre per il clima mite e meno folla; giugno-agosto è alta stagione, calda e molto affollata, soprattutto sul tram 28 e a Sintra; novembre-marzo è mite ma piovoso',
     costi:
-      'città ancora abbastanza economica per l\'Europa occidentale, anche se i prezzi salgono: pranzo semplice 10-12€, cena normale 15-20€ a testa, biglietto di tram o autobus circa 2€. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 60-80 €, medio 110-150 €, alto oltre 220 €.',
+      'città ancora abbastanza economica per l\'Europa occidentale, anche se i prezzi salgono: pranzo semplice 10-12 €, cena normale 15-20 € a testa, biglietto di tram o autobus circa 2 €. Budget indicativo al giorno a persona, con la doppia divisa in due: basso 60-80 €, medio 110-150 €, alto oltre 220 €.',
     erroriDaEvitare: [
       'Salire sul tram 28 nelle ore centrali sperando in un posto e in un po\' di tranquillità: è tra i mezzi pubblici più affollati d\'Europa e tra i preferiti dai borseggiatori',
       'Organizzare un giro a piedi come se Lisbona fosse in pianura',
@@ -63,7 +63,7 @@ export const destinazioniPortogallo: Destinazione[] = [
           {
             nome: 'Treno da Rossio + biglietti online',
             sintesi: 'Treno regionale dalla stazione di Rossio (circa 40 minuti, corse molto frequenti), poi bus locale 434 o salita a piedi fino al Palácio da Pena, con gli ingressi comprati online in anticipo con orario',
-            costo: 'treno circa 5€ a tratta, ingressi 15-25€ a sito',
+            costo: 'treno circa 5 € a tratta, ingressi 15-25 € a sito',
             durata: 'giornata intera, partendo presto',
             pro: ['Costa poco', 'Orari e ritmo si decidono da soli', 'Non si dipende da un gruppo'],
             contro: ['Bus locale e code vanno organizzati da soli', 'Non c\'è una guida storica'],
@@ -72,7 +72,7 @@ export const destinazioniPortogallo: Destinazione[] = [
           {
             nome: 'Tour organizzato da Lisbona',
             sintesi: 'Transfer in minivan da Lisbona con guida, biglietti "salta fila" compresi e un itinerario che spesso tocca anche Cascais o la Boca do Inferno',
-            costo: 'sui 70-100€ a persona',
+            costo: 'sui 70-100 € a persona',
             durata: 'giornata intera',
             pro: ['Nessuna logistica da organizzare', 'Spesso ingresso prioritario', 'Una guida che racconta la storia'],
             contro: ['Costa di più', 'Il ritmo lo decide il gruppo', 'Resta meno tempo per esplorare da soli'],
@@ -102,7 +102,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Dal centro con il tram 15 o con il treno da Cais do Sodré fino a Belém. Il biglietto serve per il chiostro; la chiesa ha orari propri.",
         "quando": "Chiostro da martedì a domenica 9:30-17:30, ultimo ingresso alle 17. Chiuso il lunedì, il 1 gennaio, la domenica di Pasqua, il 1 maggio, il 13 giugno e il 25 dicembre. Arrivare all'apertura: in tarda mattinata la fila si allunga.",
         "tempo": "1 ora e mezza",
-        "costo": "Chiostro 18 €, 2026 (sito ufficiale)",
+        "costo": "Chiostro 18 €, 2026",
         "orari": "Martedì-domenica 9:30-17:30. Chiuso il lunedì.",
         "lat": 38.6979,
         "lng": -9.2068,
@@ -115,7 +115,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "A piedi dai Jerónimos lungo il fiume. Il tram 15 e il treno fermano nelle vicinanze.",
         "quando": "Da martedì a domenica 9:30-17:30; chiusa il lunedì e negli stessi festivi dei Jerónimos. Può chiudere quando il meteo rende la visita poco sicura. Il tramonto la illumina bene da fuori.",
         "tempo": "45 minuti dentro, più la passeggiata",
-        "costo": "15 €, 2026 (sito ufficiale)",
+        "costo": "15 €, 2026",
         "orari": "Martedì-domenica 9:30-17:30. Chiusa il lunedì.",
         "lat": 38.6916,
         "lng": -9.216,
@@ -439,7 +439,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "quando": "Parco 9-19, palazzo 9:30-18:30 (ultimo biglietto alle 17:30). Il palazzo si visita solo con data e fascia oraria prenotate. Primo orario della mattina: dopo le 10:30 la coda si allunga. Biglietti online su Parques de Sintra.",
         "tempo": "2-3 ore con il parco",
         "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
-        "costo": "Visita Essencial (parco e palazzo) 20 €, solo parco 12 €, 2026 (sito ufficiale)",
+        "costo": "Visita Essencial (parco e palazzo) 20 €, solo parco 12 €, 2026",
         "consiglio": "Il parco da solo si visita senza fila al palazzo e ha punti panoramici: utile se le code sono troppo lunghe.",
         "orari": "Parco 9-19 (ultimo ingresso alle 18), palazzo 9:30-18:30 (ultimo ingresso alle 17:30).",
         "lat": 38.78778,
@@ -453,7 +453,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "2 ore",
         "url": "https://www.regaleira.pt/",
         "consiglio": "Scendere nel pozzo con scarpe che non scivolano e tornare per i tunnel: l'uscita è più bella della discesa.",
-        "costo": "20 euro dal gennaio 2026 (sito ufficiale)",
+        "costo": "20 € dal gennaio 2026",
         "orari": "Gennaio-marzo e ottobre-dicembre 10-18:30; aprile-settembre 9-19:30. Ultimo ingresso sempre alle 17:30; palazzo e cappella chiudono 30 minuti prima del giardino.",
         "lat": 38.79511,
         "lng": -9.3962
@@ -466,7 +466,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "1-1 ora e mezza",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "Se si ha tempo per un solo castello o palazzo oltre alla Pena, qui la folla è minore.",
-        "costo": "12 euro (Parques de Sintra)",
+        "costo": "12 € (Parques de Sintra)",
         "orari": "9:30-18, ultimo ingresso alle 17:30.",
         "lat": 38.79241,
         "lng": -9.38867
@@ -479,7 +479,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "tempo": "1 ora",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "Visitarlo se si va in città nel pomeriggio: meno coda della Pena.",
-        "costo": "visita essenziale 13 euro (Parques de Sintra)",
+        "costo": "visita essenziale 13 € (Parques de Sintra)",
         "orari": "Palazzo e giardini 9:30-18:30; ultimo ingresso al palazzo alle 17:30.",
         "lat": 38.79778,
         "lng": -9.39083
@@ -501,7 +501,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "A ovest del centro, con il bus 435 di Scotturb dalla stazione o in auto. La strada passa davanti alla Quinta da Regaleira e a Seteais.",
         "quando": "Il pomeriggio, dopo la Pena; con il sole basso il palazzo diventa rosato.",
         "tempo": "2 ore",
-        "costo": "12 euro (Parques de Sintra)",
+        "costo": "12 € (Parques de Sintra)",
         "orari": "Parco 9-19 (ultimo ingresso alle 18), palazzo 9:30-18.",
         "lat": 38.79423,
         "lng": -9.42065,
@@ -513,7 +513,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "È isolato nel bosco della serra, lontano dal centro: si arriva in auto o in taxi.",
         "quando": "Nei giorni di nebbia, quando il bosco intorno dà il meglio.",
         "tempo": "1 ora",
-        "costo": "11 euro (Parques de Sintra)",
+        "costo": "11 € (Parques de Sintra)",
         "orari": "9-17:30, ultimo ingresso alle 17.",
         "lat": 38.7844,
         "lng": -9.43817,
@@ -525,7 +525,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "come": "Dentro il parco della Pena: si raggiunge a piedi dal palazzo lungo i sentieri del parco.",
         "quando": "Dopo la Pena, quando la gente si concentra sul palazzo.",
         "tempo": "45 minuti",
-        "costo": "incluso nel biglietto del parco della Pena, 12 euro (Parques de Sintra)",
+        "costo": "incluso nel biglietto del parco della Pena, 12 € (Parques de Sintra)",
         "orari": "Chalet 9-17:30, ultimo ingresso alle 17; parco 9-19.",
         "lat": 38.7851,
         "lng": -9.39911,
@@ -607,7 +607,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "nome": "Palácio Nacional de Queluz",
         "distanza": "circa 20 minuti in treno",
         "come": "Treno della linea di Sintra fino a Queluz-Belas, poi a piedi fino al palazzo.",
-        "testo": "Il palazzo rococò dei Braganza, con sale dorate, giardini alla francese e un canale rivestito di azulejos. Sta sulla linea Lisbona-Sintra, quindi si aggiunge senza deviazioni. Palazzo e giardini 13 euro, solo giardini 6 euro; 9-18, giardini fino alle 18:30 (Parques de Sintra)."
+        "testo": "Il palazzo rococò dei Braganza, con sale dorate, giardini alla francese e un canale rivestito di azulejos. Sta sulla linea Lisbona-Sintra, quindi si aggiunge senza deviazioni. Palazzo e giardini 13 €, solo giardini 6 €; 9-18, giardini fino alle 18:30 (Parques de Sintra)."
       }
     ],
     faq: [
@@ -621,7 +621,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "domanda": "Come si arriva a Sintra da Lisbona?",
-        "risposta": "Con il treno CP da Rossio, circa 40 minuti; andata e ritorno costa 5,10 euro. Il biglietto Train&Bus da 14 euro include anche i bus 434 e 435."
+        "risposta": "Con il treno CP da Rossio, circa 40 minuti; andata e ritorno costa 5,10 €. Il biglietto Train&Bus da 14 € include anche i bus 434 e 435."
       },
       {
         "domanda": "Se c'è tempo per un solo sito, Pena o Regaleira?",
