@@ -13,7 +13,7 @@ Non mi aspettavo grandi cose dallo sci in Bulgaria, ed è esattamente quello che
 
 ## Scheda pratica
 - **Quando andare:** la stagione sciistica bulgara va dal 1° dicembre a metà aprile, con innevamento artificiale su gran parte delle piste (copertura dei cannoni oltre il 90%): la neve è garantita anche nei periodi più secchi.
-- **Documenti/visto:** la Bulgaria è nell'UE, nessun visto per i cittadini italiani; basta la carta d'identità valida per l'espatrio o il passaporto.
+- **Documenti/visto:** la Bulgaria è nell'UE, nessun visto per i cittadini italiani; basta la carta d'identità elettronica (CIE) o il passaporto.
 - **Moneta:** **euro.** Al tempo di questo viaggio si usava il lev bulgaro (BGN), con
   cambio fisso 1 € = 1,95583 BGN, ma dal 1° gennaio 2026 la Bulgaria è entrata
   nell'eurozona e dal 1° febbraio 2026 l'euro è l'unica valuta legale: i prezzi in lev

@@ -11,7 +11,7 @@ export const svezia: Paese = {
   durataConsigliata: "7 días para cubrir Estocolmo (solo tránsito), Kiruna y Abisko sin prisas",
   budgetIndicativo: "1.500 € por persona para un presupuesto básico, 1.800 € para un nivel más cómodo (vuelos, alojamientos, transportes internos, excursiones y comidas incluidos)",
   scheda: {
-    documenti: "Suecia está en la Unión Europea y en el espacio Schengen: para los ciudadanos italianos basta el documento de identidad válido para el extranjero.",
+    documenti: "Suecia está en la Unión Europea y en el espacio Schengen: para los ciudadanos italianos basta el documento de identidad electrónico (CIE).",
     valuta: "Corona sueca (SEK): Suecia no ha adoptado el euro. Cambio indicativo 1 € = 11 SEK.",
     pagamenti:
       "Es uno de los países más cashless del mundo: se paga con tarjeta en todas partes y muchas tiendas ni siquiera aceptan efectivo. No hace falta cambiar antes de salir. Las bebidas alcohólicas de más de 3,5 grados solo se compran en las tiendas estatales Systembolaget, con horarios limitados y cerradas los domingos.",

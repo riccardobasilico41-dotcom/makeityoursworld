@@ -14,7 +14,7 @@ export const montenegro: Paese = {
     '50-70 € al día por persona en gama económica, 90-140 € en gama media, desde 200 € en los resorts; vuelos excluidos',
   scheda: {
     documenti:
-      'Para los ciudadanos italianos basta el documento de identidad válido para el extranjero o el pasaporte, para estancias turísticas de hasta 90 días. Montenegro no está en la Unión Europea ni en el espacio Schengen: en la frontera con Croacia se pasa el control biométrico EES. Los alojamientos registran a los huéspedes ante las autoridades. Antes de salir conviene consultar la ficha de Montenegro de Viaggiare Sicuri.',
+      'Para los ciudadanos italianos basta el pasaporte para estancias turísticas de hasta 90 días; con el documento de identidad electrónico (CIE) la estancia se limita a 30 días. Montenegro no está en la Unión Europea ni en el espacio Schengen: en la frontera con Croacia se pasa el control biométrico EES. Los alojamientos registran a los huéspedes ante las autoridades. Antes de salir conviene consultar la ficha de Montenegro de Viaggiare Sicuri.',
     valuta: 'Euro, adoptado unilateralmente aunque no forma parte de la eurozona.',
     pagamenti:
       'Tarjetas aceptadas en hoteles, restaurantes y supermercados de las ciudades; efectivo para aparcamientos, murallas de Kotor, barcas, parques nacionales y trattorie de montaña. Tasa turística de aproximadamente 1-1,5 € por persona y noche.',

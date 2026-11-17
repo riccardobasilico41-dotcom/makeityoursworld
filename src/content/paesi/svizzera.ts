@@ -23,7 +23,7 @@ export const svizzera: Paese = {
   stileViaggio: ['montagna', 'vanlife', 'roadtrip', 'trekking', 'laghi'],
   scheda: {
     documenti:
-      'La Svizzera è nell\'area Schengen ma **non fa parte dell\'Unione Europea**: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio, senza visto. Per chi viaggia in van conta che **il confine resta una dogana vera**, anche senza controlli sistematici dei documenti. Dal 2025 la franchigia per le merci portate con sé è scesa a metà, **150 CHF a persona** (600 CHF per una famiglia di quattro): oltre quella soglia si dichiara l\'intero valore, non solo l\'eccedenza. La patente italiana è valida.',
+      'La Svizzera è nell\'area Schengen ma **non fa parte dell\'Unione Europea**: ai cittadini italiani basta la carta d\'identità elettronica (CIE), senza visto. Per chi viaggia in van conta che **il confine resta una dogana vera**, anche senza controlli sistematici dei documenti. Dal 2025 la franchigia per le merci portate con sé è scesa a metà, **150 CHF a persona** (600 CHF per una famiglia di quattro): oltre quella soglia si dichiara l\'intero valore, non solo l\'eccedenza. La patente italiana è valida.',
     valuta:
       'Franco svizzero (CHF). Il cambio è da sempre sfavorevole all\'euro, e ogni prezzo sembra ancora più alto. Alcuni negozi turistici accettano euro in contanti, ma danno il resto in franchi a un cambio svantaggioso: conviene prelevare o pagare in CHF.',
     pagamenti:

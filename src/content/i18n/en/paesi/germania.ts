@@ -16,7 +16,7 @@ export const germania: Paese = {
   stileViaggio: ['città', 'storia', 'memoria', 'vita notturna'],
   scheda: {
     documenti:
-      "Germany is in the European Union and the Schengen area: for Italian citizens a valid identity card (or passport) is enough, with no formalities for tourist stays under three months.",
+      "Germany is in the European Union and the Schengen area: for Italian citizens an electronic ID card (CIE) or passport is enough, with no formalities for tourist stays under three months.",
     valuta:
       "Euro, as in Italy: no conversion to make, unlike other Central European destinations such as Poland or Hungary.",
     pagamenti:

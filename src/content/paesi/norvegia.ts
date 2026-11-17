@@ -12,7 +12,7 @@ export const norvegia: Paese = {
   budgetIndicativo: '500-600€ a testa solo per i pasti (è quanto abbiamo speso noi); da aggiungere voli, noleggio auto, traghetti e alloggi',
   scheda: {
     documenti:
-      'La Norvegia è in area Schengen pur non essendo nell\'Unione Europea: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio. Patente italiana valida.',
+      'La Norvegia è in area Schengen pur non essendo nell\'Unione Europea: per i cittadini italiani basta la carta d\'identità elettronica (CIE). Patente italiana valida.',
     valuta: 'Corona norvegese (NOK). Il paese è quasi del tutto cashless, ma qualche corona in contanti torna utile nei piccoli esercizi lungo la strada.',
     pagamenti:
       'Si paga con carta quasi ovunque, traghetti compresi. Attenzione ai locali più piccoli e isolati, che a volte accettano solo contanti o le app di pagamento norvegesi: capita, per esempio, nei caffè lungo la strada verso le Lofoten. Gli alcolici sopra una certa gradazione si comprano solo nei negozi statali Vinmonopolet; i supermercati vendono solo birra, con orari limitati.',

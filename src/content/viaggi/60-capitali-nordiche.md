@@ -26,7 +26,7 @@ Nove giorni, tre giorni a testa, un treno e un volo interno a fare da cerniera: 
 - **Christiania (Copenaghen):** la «città libera» fondata nel 1971 ha regole proprie, affisse e rispettate: niente foto sull'ex Pusher Street (chiusa dalle autorità danesi nel 2024 dopo un episodio di violenza) né ai residenti senza permesso. La vendita di stupefacenti, hashish compreso, resta illegale in tutta la Danimarca: per quanto la fama racconti altro, non è un'enclave fuorilegge.
 - **Il Viking Ship Museum di Oslo è chiuso:** la sede storica sulla penisola di Bygdøy è in ristrutturazione e le navi vichinghe sono in trasferimento verso il nuovo Museum of the Viking Age; la riapertura non è prevista prima del 2027. In questo itinerario Bygdøy si visita comunque, per il Fram Museum e il Kon-Tiki Museum, ma prima di partire conviene ricontrollare la data di riapertura del museo vichingo.
 - **Tivoli Gardens (Copenaghen) è stagionale:** apre in primavera-estate, per Halloween e per i mercatini di Natale, ma **chiude per alcuni mesi invernali** fuori da quei periodi. Non è aperto tutto l'anno: prima di programmare la serata va controllato il calendario ufficiale.
-- **Documenti:** Danimarca e Svezia sono nell'Unione Europea e nell'area Schengen, la Norvegia è nell'area Schengen ma fuori dall'UE. Per i cittadini italiani basta comunque, in tutte e tre, la carta d'identità valida per l'espatrio, senza visto per soggiorni turistici sotto i tre mesi.
+- **Documenti:** Danimarca e Svezia sono nell'Unione Europea e nell'area Schengen, la Norvegia è nell'area Schengen ma fuori dall'UE. Per i cittadini italiani basta comunque, in tutte e tre, la carta d'identità elettronica (CIE), senza visto per soggiorni turistici sotto i tre mesi.
 
 ## Itinerario giorno per giorno
 

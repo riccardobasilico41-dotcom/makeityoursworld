@@ -1046,7 +1046,7 @@ export const destinazioniTanzania: Destinazione[] = [
     faq: [
       {
         "domanda": "¿Hace falta un seguro para entrar en Zanzíbar?",
-        "risposta": "Sí: desde 2024 el seguro de viaje de Zanzíbar es obligatorio, 44 $ por persona para estancias de hasta 92 días. Se compra en línea antes de salir o a la llegada."
+        "risposta": "Sí: desde 2024 el seguro de viaje de Zanzíbar es obligatorio, 44 $ por persona para estancias de hasta 92 días. Se compra en línea antes de salir o a la llegada. Quien entra antes por el continente con la póliza NIC, obligatoria allí desde el 1 de octubre de 2026, no tiene que comprar otra."
       },
       {
         "domanda": "¿Mejor la costa norte o la este?",

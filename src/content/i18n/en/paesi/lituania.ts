@@ -16,7 +16,7 @@ export const lituania: Paese = {
   stileViaggio: ['città', 'storia', 'arte', 'natura'],
   scheda: {
     documenti:
-      'Lithuania is in the European Union, the Schengen area and the eurozone: Italian citizens just need a valid ID card (or passport), with no formalities for tourist stays under ninety days.',
+      'Lithuania is in the European Union, the Schengen area and the eurozone: Italian citizens just need an electronic ID card (CIE) or passport, with no formalities for tourist stays under ninety days.',
     valuta:
       "Euro, since 2015: it was the last of the three Baltic states to adopt it, after Estonia (2011) and Latvia (2014). Unlike destinations such as Poland, there's no currency to exchange.",
     pagamenti:

@@ -16,7 +16,7 @@ export const spagna: Paese = {
   stileViaggio: ['isole', 'cultura moresca', 'gastronomia', 'natura vulcanica', 'mare', 'cammino di santiago'],
   scheda: {
     documenti:
-      "Spain is in the European Union and the Schengen area (Canaries and Balearics included): Italian citizens only need an ID card valid for travel abroad (or a passport), with no formalities for tourist stays under three months.",
+      "Spain is in the European Union and the Schengen area (Canaries and Balearics included): Italian citizens only need an electronic ID card (CIE) or a passport, with no formalities for tourist stays under three months.",
     valuta: "Euro, as in Italy, in all four regions: no currency exchange needed.",
     pagamenti:
       "Cards and contactless are accepted almost everywhere, even on the smaller islands and in the little pintxos bars of the North. Cash is still needed for markets, neighborhood bars and tips.",

@@ -26,7 +26,7 @@ export const polonia: Paese = {
   stileViaggio: ['città', 'storia', 'memoria', 'gastronomia'],
   scheda: {
     documenti:
-      'Polonia nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'Polonia nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta:
       'Złoty polacco (PLN), non l\'euro. Sorprende spesso chi dà per scontato che "Unione Europea" significhi euro: la Polonia non è nell\'eurozona e non ha una data fissata per entrarci, quindi si paga in złoty ovunque, anche nei negozi che espongono cartelli con prezzi "convertiti" in euro a un cambio spesso svantaggioso.',
     pagamenti:

@@ -12,7 +12,7 @@ export const norvegia: Paese = {
   budgetIndicativo: '500-600 € por persona solo en comidas (es lo que gastamos nosotros); a añadir vuelos, alquiler de coche, ferris y alojamientos',
   scheda: {
     documenti:
-      "Noruega está en el espacio Schengen aunque no pertenece a la Unión Europea: para los ciudadanos italianos basta el documento de identidad válido para la expatriación. Permiso de conducir italiano válido.",
+      "Noruega está en el espacio Schengen aunque no pertenece a la Unión Europea: para los ciudadanos italianos basta el documento de identidad electrónico (CIE). Permiso de conducir italiano válido.",
     valuta: 'Corona noruega (NOK). El país es casi del todo cashless, pero unas coronas en efectivo vienen bien en los pequeños establecimientos de carretera.',
     pagamenti:
       "Se paga con tarjeta casi en todas partes, ferris incluidos. Ojo con los locales más pequeños y aislados, que a veces aceptan solo efectivo o las apps de pago noruegas: ocurre, por ejemplo, en las cafeterías de la carretera hacia las Lofoten. Las bebidas alcohólicas por encima de cierta graduación solo se compran en las tiendas estatales Vinmonopolet; los supermercados venden solo cerveza, con horarios limitados.",

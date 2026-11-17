@@ -16,7 +16,7 @@ export const svizzera: Paese = {
   stileViaggio: ['mountains', 'vanlife', 'road trip', 'trekking', 'lakes'],
   scheda: {
     documenti:
-      "Switzerland is in the Schengen area but **is not part of the European Union**: Italian citizens only need an ID card valid for travel abroad, no visa. For those traveling by van, note that **the border remains a real customs border**, even without systematic document checks. Since 2025 the allowance for goods carried with you has been halved, **150 CHF per person** (600 CHF for a family of four): above that threshold you declare the entire value, not just the excess. The Italian driving license is valid.",
+      "Switzerland is in the Schengen area but **is not part of the European Union**: Italian citizens only need an electronic ID card (CIE), no visa. For those traveling by van, note that **the border remains a real customs border**, even without systematic document checks. Since 2025 the allowance for goods carried with you has been halved, **150 CHF per person** (600 CHF for a family of four): above that threshold you declare the entire value, not just the excess. The Italian driving license is valid.",
     valuta:
       "Swiss franc (CHF). The exchange rate has always been unfavorable to the euro, and every price seems even higher. Some tourist shops accept euros in cash, but give change in francs at an unfavorable rate: it is best to withdraw or pay in CHF.",
     pagamenti:

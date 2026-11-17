@@ -12,7 +12,7 @@ export const costaRica: Paese = {
   budgetIndicativo: "about €250 each in extra activities, on top of flights and accommodation",
   scheda: {
     documenti:
-      "Passport with at least 30 days of remaining validity from entry (many sources recommend 6 months anyway). No visa for tourism up to 180 days for Italian citizens. The onward ticket out of the country is an entry requirement and they always check it at the airport: book it before boarding.",
+      "Passport with at least 90 days of remaining validity from entry (6 months is safer). No visa for tourism up to 180 days for Italian citizens. The onward ticket out of the country is an entry requirement and they always check it at the airport: book it before boarding.",
     valuta:
       "Costa Rican colón (CRC), roughly €1 = 600 CRC. The US dollar works as a parallel currency and is accepted almost everywhere. Banks exchange euros but at poor rates: it's better to arrive with dollars or withdraw on the spot.",
     pagamenti:

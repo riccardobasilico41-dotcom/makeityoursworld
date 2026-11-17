@@ -16,7 +16,7 @@ export const polonia: Paese = {
   stileViaggio: ['city', 'history', 'remembrance', 'food'],
   scheda: {
     documenti:
-      "Poland is in the European Union and the Schengen area: for Italian citizens a valid identity card for travel abroad (or a passport) is enough, with no formalities for tourist stays under three months.",
+      "Poland is in the European Union and the Schengen area: for Italian citizens an electronic ID card (CIE) or a passport is enough, with no formalities for tourist stays under three months.",
     valuta:
       'Polish złoty (PLN), not the euro. It often surprises those who assume "European Union" means euro: Poland is not in the eurozone and has no fixed date for joining, so you pay in złoty everywhere, even in shops that display signs with prices "converted" to euros at a frequently unfavorable rate.',
     pagamenti:

@@ -12,7 +12,7 @@ export const islanda: Paese = {
   budgetIndicativo: 'un totale non l\'ho calcolato, ma l\'isola è cara, soprattutto alcolici, caffè e pasti fuori dal campeggio',
   scheda: {
     documenti:
-      'L\'Islanda è in area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio, anche se portare il passaporto resta consigliato. Patente italiana valida per guidare.',
+      'L\'Islanda è in area Schengen: per i cittadini italiani basta la carta d\'identità elettronica (CIE), anche se portare il passaporto resta consigliato. Patente italiana valida per guidare.',
     valuta: 'Corona islandese (ISK). Non serve quasi mai cambiare contanti: il paese è di fatto cashless.',
     pagamenti:
       'Si paga con carta ovunque, anche per cifre minime. Serve però una carta con PIN funzionante per le colonnine self-service dei distributori, che fuori dalle città sono la norma: senza PIN si rischia di restare a secco. Gli alcolici si comprano solo nei negozi statali Vínbúðin, con orari limitati: conviene fare scorta al duty-free all\'arrivo.',

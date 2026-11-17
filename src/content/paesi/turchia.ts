@@ -17,7 +17,7 @@ export const turchia: Paese = {
     'indicativamente 80-130 € al giorno a persona in fascia media, esclusi voli; i musei principali si pagano in euro e sono cari (Santa Sofia 25 €, Topkapı con harem intorno ai 50 €), la mongolfiera da sola costa 180-350 €',
   scheda: {
     documenti:
-      'Ai cittadini italiani non serve il visto per soggiorni turistici fino a 90 giorni su 180. Si entra col passaporto o con la carta d\'identità valida per l\'espatrio, in tutti e due i casi con almeno 150 giorni di validità residua dalla data d\'ingresso. La carta d\'identità cartacea o con timbro di proroga può dare problemi: meglio il passaporto o la carta elettronica.',
+      'Ai cittadini italiani non serve il visto per soggiorni turistici fino a 90 giorni su 180. Si entra col passaporto o con la carta d\'identità elettronica (CIE), in tutti e due i casi con almeno 150 giorni di validità residua dalla data d\'ingresso. La carta d\'identità cartacea o con timbro di proroga può dare problemi: meglio il passaporto o la carta elettronica.',
     valuta:
       'Lira turca (TRY), con un\'inflazione molto alta: a fine 2026 indicativamente oltre 50 lire per un euro, e i prezzi locali cambiano di mese in mese. Musei statali, mongolfiere, hotel e molti tour hanno i prezzi direttamente in euro.',
     pagamenti:

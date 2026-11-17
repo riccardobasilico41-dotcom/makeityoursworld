@@ -17,7 +17,7 @@ También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cus
 
 ## Scheda pratica
 - **Cuándo ir:** de mayo a septiembre, la estación seca de los Andes. En febrero el Camino Inca cierra por mantenimiento. El 24 de junio es el Inti Raymi en Cusco: ciudad llena y precios altos, hay que reservar con mucha antelación.
-- **Documentos:** pasaporte con al menos 6 meses de validez restante. Sin visado para los ciudadanos italianos hasta 183 días.
+- **Documentos:** pasaporte con al menos 6 meses de validez restante. Sin visado para los ciudadanos italianos hasta 90 días (de 183).
 - **Moneda y pagos:** nuevo sol (PEN). Las tarjetas funcionan en Lima, Arequipa y Cusco y en los establecimientos turísticos, mucho menos en los mercados, en las barcas del Titicaca y en los pueblos. A Puno se llega con el efectivo ya en el bolsillo, en billetes pequeños.
 - **Altitud:** es el tema del viaje. Arequipa está a 2.300 metros, Cusco a 3.400, Puno a 3.812. El soroche, el mal de altura, es un riesgo real. Este recorrido sube por escalones a propósito, y para eso sirven los días lentos.
 - **Transporte:** dos vuelos internos (Lima-Arequipa a la ida, Cusco-Lima a la vuelta), autobuses turísticos de Arequipa a Puno y de Puno a Cusco, tren PeruRail o IncaRail a Machu Picchu. Los vuelos cuestan poco si se reservan con antelación.

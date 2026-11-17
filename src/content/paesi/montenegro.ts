@@ -19,7 +19,7 @@ export const montenegro: Paese = {
     '50-70 € al giorno a persona in fascia economica, 90-140 € in fascia media, da 200 € nei resort; voli esclusi',
   scheda: {
     documenti:
-      'Per i cittadini italiani basta la carta d\'identità valida per l\'espatrio o il passaporto, per soggiorni turistici fino a 90 giorni. Il Montenegro non è nell\'Unione europea né nell\'area Schengen: alla frontiera con la Croazia si passa il controllo biometrico EES. Le strutture ricettive registrano gli ospiti presso le autorità. Prima di partire conviene controllare la scheda Montenegro di Viaggiare Sicuri.',
+      'Per i cittadini italiani basta il passaporto per soggiorni turistici fino a 90 giorni; con la carta d\'identità elettronica (CIE) il soggiorno è limitato a 30 giorni. Il Montenegro non è nell\'Unione europea né nell\'area Schengen: alla frontiera con la Croazia si passa il controllo biometrico EES. Le strutture ricettive registrano gli ospiti presso le autorità. Prima di partire conviene controllare la scheda Montenegro di Viaggiare Sicuri.',
     valuta: 'Euro, adottato unilateralmente pur non facendo parte dell\'eurozona.',
     pagamenti:
       'Carte accettate in hotel, ristoranti e supermercati delle città; contanti per parcheggi, mura di Kotor, barche, parchi nazionali e trattorie di montagna. Tassa di soggiorno di circa 1-1,5 € a persona a notte.',
@@ -44,7 +44,7 @@ export const montenegro: Paese = {
     emergenze:
       'Polizia 122, ambulanza 124, vigili del fuoco 123, numero unico europeo 112. Ambasciata d\'Italia a Podgorica.',
     primaDiPartire: {
-      documento: 'Passaporto, oppure carta d\'identità valida per l\'espatrio per soggiorni fino a 30 giorni. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre la partenza.',
+      documento: 'Passaporto, oppure carta d\'identità elettronica (CIE) per soggiorni fino a 30 giorni. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre la partenza.',
       visto: 'Nessun visto fino a 90 giorni; non è UE né Schengen. Registrazione entro 24 ore: in hotel la fa la struttura, da privati tocca a te. UK: 90 giorni ogni 180.',
       vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B.',
       sim: 'Niente roaming UE: con la SIM italiana i costi possono essere alti. All\'arrivo si comprano SIM prepagate locali, anche con offerte turistiche di pochi giorni.',

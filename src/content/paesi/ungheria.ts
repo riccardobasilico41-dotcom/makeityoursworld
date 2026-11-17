@@ -25,7 +25,7 @@ export const ungheria: Paese = {
   stileViaggio: ['città', 'terme', 'vita notturna', 'gastronomia'],
   scheda: {
     documenti:
-      'Ungheria nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'Ungheria nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta:
       'Fiorino ungherese (HUF), non l\'euro. Sorprende spesso chi dà per scontato che "Unione Europea" significhi euro: l\'Ungheria non è nell\'eurozona e non ha una data fissata per entrarci. I numeri in fiorini sono grandi (un caffè può costare 800-1.200 HUF, una cena 4.000-8.000 HUF a testa) e la confusione tra "mille" e "diecimila" è l\'errore più comune di chi arriva da poco: conviene abituarsi subito a leggere gli zeri prima di pagare.',
     pagamenti:

@@ -16,7 +16,7 @@ export const croazia: Paese = {
   stileViaggio: ['mare', 'isole', 'natura', 'città storiche', 'roadtrip'],
   scheda: {
     documenti:
-      'Unión Europea y, desde 2023, espacio Schengen: para los ciudadanos italianos basta el carné de identidad válido para salir del país. Para salir hacia Bosnia o Montenegro hace falta un documento válido para salir del país y, con un coche de alquiler, la autorización de la empresa de alquiler y la carta verde.',
+      'Unión Europea y, desde 2023, espacio Schengen: para los ciudadanos italianos basta el documento de identidad electrónico (CIE). Para salir hacia Bosnia o Montenegro hace falta un documento válido para salir del país y, con un coche de alquiler, la autorización de la empresa de alquiler y la carta verde.',
     valuta: 'Euro desde el 1 de enero de 2023.',
     pagamenti:
       'Tarjetas y contactless aceptados casi en todas partes. Efectivo útil para pequeños bares de las islas, mercados y alojamientos. Evitar los cajeros independientes con comisiones altas y rechazar la conversión a la moneda de casa.',

@@ -16,7 +16,7 @@ export const svizzera: Paese = {
   stileViaggio: ['montagna', 'vanlife', 'roadtrip', 'trekking', 'laghi'],
   scheda: {
     documenti:
-      "Suiza está en el espacio Schengen pero **no forma parte de la Unión Europea**: a los ciudadanos italianos les basta el documento de identidad válido para el extranjero, sin visado. Para quien viaja en furgoneta cuenta que **la frontera sigue siendo una aduana de verdad**, aunque no haya controles sistemáticos de documentos. Desde 2025 la franquicia para las mercancías que se llevan encima se ha reducido a la mitad, **150 CHF por persona** (600 CHF para una familia de cuatro): por encima de ese umbral se declara el valor total, no solo el exceso. El carné de conducir italiano es válido.",
+      "Suiza está en el espacio Schengen pero **no forma parte de la Unión Europea**: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE), sin visado. Para quien viaja en furgoneta cuenta que **la frontera sigue siendo una aduana de verdad**, aunque no haya controles sistemáticos de documentos. Desde 2025 la franquicia para las mercancías que se llevan encima se ha reducido a la mitad, **150 CHF por persona** (600 CHF para una familia de cuatro): por encima de ese umbral se declara el valor total, no solo el exceso. El carné de conducir italiano es válido.",
     valuta:
       "Franco suizo (CHF). El cambio es desde siempre desfavorable al euro, y cada precio parece todavía más alto. Algunas tiendas turísticas aceptan euros en efectivo, pero dan el cambio en francos a un cambio desfavorable: conviene sacar dinero o pagar en CHF.",
     pagamenti:

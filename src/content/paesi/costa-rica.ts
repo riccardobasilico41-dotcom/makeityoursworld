@@ -12,7 +12,7 @@ export const costaRica: Paese = {
   budgetIndicativo: 'circa 250 € a testa di attività extra, oltre a voli e alloggi',
   scheda: {
     documenti:
-      'Passaporto con almeno 30 giorni di validità residua dall\'ingresso (molte fonti consigliano comunque 6 mesi). Nessun visto per turismo fino a 180 giorni per i cittadini italiani. Il biglietto di uscita dal paese è una condizione d\'ingresso e in aeroporto lo controllano sempre: va prenotato prima di imbarcarsi.',
+      'Passaporto con almeno 90 giorni di validità residua dall\'ingresso (meglio 6 mesi). Nessun visto per turismo fino a 180 giorni per i cittadini italiani. Il biglietto di uscita dal paese è una condizione d\'ingresso e in aeroporto lo controllano sempre: va prenotato prima di imbarcarsi.',
     valuta:
       'Colón costaricano (CRC), indicativamente 1 € = 600 CRC. Il dollaro USA funziona come valuta parallela ed è accettato quasi ovunque. Le banche cambiano euro ma a tassi penalizzanti: conviene arrivare con dollari o prelevare in loco.',
     pagamenti:

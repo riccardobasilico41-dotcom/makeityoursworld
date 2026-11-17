@@ -16,7 +16,7 @@ export const ungheria: Paese = {
   stileViaggio: ['city', 'thermal baths', 'nightlife', 'gastronomy'],
   scheda: {
     documenti:
-      "Hungary is in the European Union and the Schengen area: for Italian citizens an ID card valid for travel abroad (or a passport) is enough, with no formalities for tourist stays under three months.",
+      "Hungary is in the European Union and the Schengen area: for Italian citizens an electronic ID card (CIE) or a passport is enough, with no formalities for tourist stays under three months.",
     valuta:
       "Hungarian forint (HUF), not the euro. It often surprises those who assume that \"European Union\" means euro: Hungary is not in the eurozone and has no fixed date to join. Numbers in forints are big (a coffee can cost 800-1,200 HUF, a dinner 4,000-8,000 HUF per person) and confusion between \"a thousand\" and \"ten thousand\" is the most common mistake of those who have just arrived: it's best to get used right away to reading the zeros before paying.",
     pagamenti:

@@ -14,7 +14,7 @@ export const panama: Paese = {
     "average costs for the region, higher in San Blas because of logistics: 4x4 transfer + boat $40-60 each way, nights in a cabaña on the islands $60-150 per person with meals included",
   scheda: {
     documenti:
-      "Passport valid (at least 6 months remaining recommended); no visa for tourist stays of up to 90 days for Italian citizens. On entry you may be asked for an onward ticket out of the country and proof of sufficient funds.",
+      "Passport valid for at least 3 months on arrival (6 is safer); no visa for tourist stays of up to 90 days for Italian citizens. On entry you may be asked for an onward ticket out of the country and proof of sufficient funds.",
     valuta:
       "The balboa (PAB) is pegged 1:1 to the US dollar and exists only as coins: in practice you pay in American banknotes. For currency it's the simplest country in the region: you arrive with dollars and don't need to exchange anything.",
     pagamenti:

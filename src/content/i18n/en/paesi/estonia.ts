@@ -16,7 +16,7 @@ export const estonia: Paese = {
   stileViaggio: ['città', 'storia', 'architettura', 'innovazione'],
   scheda: {
     documenti:
-      "Estonia is in the European Union, the Schengen area and the eurozone: Italian citizens only need an ID card valid for travel abroad (or a passport), with no formalities for tourist stays under ninety days.",
+      "Estonia is in the European Union, the Schengen area and the eurozone: Italian citizens only need an electronic ID card (CIE) or a passport, with no formalities for tourist stays under ninety days.",
     valuta: "Euro, since 2011: the first of the three Baltic capitals to adopt it, before Latvia (2014) and Lithuania (2015).",
     pagamenti:
       "It's the most advanced country in the world for digital payments and services: cards and contactless are used almost everywhere, from markets to buses, and cash is of little use even for small purchases.",

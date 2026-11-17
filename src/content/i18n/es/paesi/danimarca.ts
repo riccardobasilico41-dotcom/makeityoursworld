@@ -15,7 +15,7 @@ export const danimarca: Paese = {
   stileViaggio: ['città', 'design', 'gastronomia', 'bici'],
   scheda: {
     documenti:
-      'Dinamarca está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el carné de identidad válido para salir del país (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses. Groenlandia y las Islas Feroe son territorios daneses pero quedan fuera de Schengen y de la unión aduanera europea: para Copenhague no cambia nada, pero conviene saberlo si se piensa en una ampliación.',
+      'Dinamarca está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses. Groenlandia y las Islas Feroe son territorios daneses pero quedan fuera de Schengen y de la unión aduanera europea: para Copenhague no cambia nada, pero conviene saberlo si se piensa en una ampliación.',
     valuta:
       'Corona danesa (DKK): Dinamarca tiene una exclusión histórica de la eurozona (referéndum del 2000) y no pretende adoptar el euro. La corona, sin embargo, está vinculada al euro con el acuerdo ERM II, con una banda de oscilación muy estrecha (orientativamente 1 € = 7,46 DKK, con variaciones mínimas). Es la moneda más estable de las tres capitales de este recorrido, pero sigue siendo una moneda distinta: las tarjetas extranjeras pagan a menudo una pequeña comisión de cambio.',
     pagamenti:

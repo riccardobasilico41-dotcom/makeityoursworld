@@ -13,7 +13,7 @@ export const turchia: Paese = {
     "roughly €80-130 a day per person at mid-range, flights excluded; the main museums are paid in euros and are expensive (Hagia Sophia €25, Topkapı with harem around €50), the balloon alone costs €180-350",
   scheda: {
     documenti:
-      "Italian citizens don't need a visa for tourist stays of up to 90 days in 180. You enter with a passport or an ID card valid for travel abroad, in both cases with at least 150 days of remaining validity from the date of entry. A paper ID card or one with an extension stamp can cause problems: better to use the passport or the electronic card.",
+      "Italian citizens don't need a visa for tourist stays of up to 90 days in 180. You enter with a passport or an electronic ID card (CIE), in both cases with at least 150 days of remaining validity from the date of entry. A paper ID card or one with an extension stamp can cause problems: better to use the passport or the electronic card.",
     valuta:
       "Turkish lira (TRY), with very high inflation: at the end of 2026 roughly over 50 lira to the euro, and local prices change from month to month. State museums, balloons, hotels and many tours have prices directly in euros.",
     pagamenti:

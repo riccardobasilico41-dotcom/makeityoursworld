@@ -29,7 +29,7 @@ export const germania: Paese = {
   stileViaggio: ['città', 'storia', 'memoria', 'vita notturna'],
   scheda: {
     documenti:
-      'La Germania è nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'La Germania è nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta:
       'Euro, come in Italia: nessuna conversione da fare, a differenza di altre mete dell\'Europa centrale come Polonia o Ungheria.',
     pagamenti:

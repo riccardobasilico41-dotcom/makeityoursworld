@@ -16,7 +16,7 @@ export const portogallo: Paese = {
   stileViaggio: ['città', 'storia', 'mare', 'gastronomia'],
   scheda: {
     documenti:
-      "Portugal está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad válido para viajar al extranjero (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses.",
+      "Portugal está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de tres meses.",
     valuta:
       "Euro (€), como en Italia: no hace falta cambiar.",
     pagamenti:

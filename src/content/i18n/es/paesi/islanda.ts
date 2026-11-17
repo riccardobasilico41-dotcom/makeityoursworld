@@ -12,7 +12,7 @@ export const islanda: Paese = {
   budgetIndicativo: "no he calculado un total, pero la isla es cara, sobre todo el alcohol, el café y las comidas fuera del camping",
   scheda: {
     documenti:
-      "Islandia está en el espacio Schengen: para los ciudadanos italianos basta el DNI válido para viajar al extranjero, aunque sigue siendo aconsejable llevar el pasaporte. Carné de conducir italiano válido para conducir.",
+      "Islandia está en el espacio Schengen: para los ciudadanos italianos basta el documento de identidad electrónico (CIE), aunque sigue siendo aconsejable llevar el pasaporte. Carné de conducir italiano válido para conducir.",
     valuta: "Corona islandesa (ISK). Casi nunca hace falta cambiar efectivo: el país es de hecho cashless.",
     pagamenti:
       "Se paga con tarjeta en todas partes, incluso cantidades mínimas. Hace falta, eso sí, una tarjeta con PIN que funcione para los surtidores self-service de las gasolineras, que fuera de las ciudades son la norma: sin PIN se corre el riesgo de quedarse sin combustible. El alcohol se compra solo en las tiendas estatales Vínbúðin, con horarios limitados: conviene abastecerse en el duty-free a la llegada.",

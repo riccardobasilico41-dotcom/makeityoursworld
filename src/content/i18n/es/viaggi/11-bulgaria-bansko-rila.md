@@ -13,7 +13,7 @@ No esperaba grandes cosas del esquí en Bulgaria, y es exactamente lo que encont
 
 ## Scheda pratica
 - **Cuándo ir:** la temporada de esquí búlgara va del 1 de diciembre a mediados de abril, con nieve artificial en gran parte de las pistas (cobertura de los cañones superior al 90 %): la nieve está garantizada incluso en los periodos más secos.
-- **Documentos/visado:** Bulgaria está en la UE, no hace falta visado para los ciudadanos italianos; basta el documento de identidad válido para la expatriación o el pasaporte.
+- **Documentos/visado:** Bulgaria está en la UE, no hace falta visado para los ciudadanos italianos; basta el documento de identidad electrónico (CIE) o el pasaporte.
 - **Moneda:** **euro.** En el momento de este viaje se usaba el lev búlgaro (BGN), con
   cambio fijo 1 € = 1,95583 BGN, pero desde el 1 de enero de 2026 Bulgaria ha entrado
   en la eurozona y desde el 1 de febrero de 2026 el euro es la única moneda de curso legal: los precios en lev

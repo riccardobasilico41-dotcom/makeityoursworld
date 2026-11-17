@@ -11,7 +11,7 @@ export const svezia: Paese = {
   durataConsigliata: '7 days to cover Stockholm (transit only), Kiruna and Abisko without rushing',
   budgetIndicativo: '€1,500 per person for a basic budget, €1,800 for a more comfortable level (flights, accommodation, local transport, excursions and meals included)',
   scheda: {
-    documenti: "Sweden is in the European Union and the Schengen area: Italian citizens only need an ID card valid for travel abroad.",
+    documenti: "Sweden is in the European Union and the Schengen area: Italian citizens only need an electronic ID card (CIE).",
     valuta: 'Swedish krona (SEK): Sweden has not adopted the euro. Approximate rate €1 = 11 SEK.',
     pagamenti:
       "It is one of the most cashless countries in the world: you pay by card everywhere and many shops don't accept cash at all. No need to exchange money before leaving. Alcohol above 3.5% can only be bought at the state-run Systembolaget stores, with limited hours and closed on Sundays.",

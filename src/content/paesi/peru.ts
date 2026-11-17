@@ -21,7 +21,7 @@ export const peru: Paese = {
   stileViaggio: ['trekking', 'cultura inca', 'amazzonia', 'alta quota'],
   scheda: {
     documenti:
-      'Passaporto con almeno 6 mesi di validità residua all\'arrivo. Nessun visto per soggiorni turistici fino a 183 giorni per i cittadini italiani.',
+      'Passaporto con almeno 6 mesi di validità residua all\'arrivo. Nessun visto per soggiorni turistici fino a 90 giorni (su 183) per i cittadini italiani: i giorni concessi sono quelli registrati all\'ingresso.',
     valuta: 'Nuevo sol (PEN). Si cambia in aeroporto, in banca o nelle casas de cambio autorizzate; i dollari USA sono accettati in molti contesti turistici.',
     pagamenti:
       'Carte accettate a Lima, Cusco e nelle strutture turistiche, molto meno nei mercati, sulle barche del Titicaca e nei villaggi della Valle Sacra. Conviene tenere sempre banconote di piccolo taglio: il resto per i tagli grossi è un problema ricorrente.',

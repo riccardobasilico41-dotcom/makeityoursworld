@@ -16,7 +16,7 @@ export const lettonia: Paese = {
   stileViaggio: ['città', 'architettura', 'mare', 'gastronomia'],
   scheda: {
     documenti:
-      "Latvia is in the European Union, the Schengen area and the eurozone: Italian citizens just need a valid ID card (or passport), with no formalities for tourist stays under ninety days.",
+      "Latvia is in the European Union, the Schengen area and the eurozone: Italian citizens just need an electronic ID card (CIE) or passport, with no formalities for tourist stays under ninety days.",
     valuta: "Euro, since 2014. It was the second of the three Baltic capitals to adopt it, after Estonia (2011) and before Lithuania (2015).",
     pagamenti:
       'Cards and contactless work almost everywhere, including on public transport. You need cash for the Central Market stalls and small purchases in Jūrmala.',

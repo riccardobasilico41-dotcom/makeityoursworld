@@ -23,7 +23,7 @@ export const austria: Paese = {
   stileViaggio: ['città', 'arte', 'musica', 'gastronomia'],
   scheda: {
     documenti:
-      'Austria nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'Austria nell\'Unione Europea e nell\'area Schengen: per i cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta:
       'Euro. A differenza della Repubblica Ceca e della Polonia, l\'Austria è nell\'eurozona: nessuna necessità di cambio valuta né rischio di conversioni penalizzanti nei ristoranti, un vantaggio pratico non da poco per chi arriva dall\'Italia.',
     pagamenti:

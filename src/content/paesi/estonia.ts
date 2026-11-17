@@ -22,7 +22,7 @@ export const estonia: Paese = {
   stileViaggio: ['città', 'storia', 'architettura', 'innovazione'],
   scheda: {
     documenti:
-      'L\'Estonia è nell\'Unione Europea, nell\'area Schengen e nell\'eurozona: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i novanta giorni.',
+      'L\'Estonia è nell\'Unione Europea, nell\'area Schengen e nell\'eurozona: ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i novanta giorni.',
     valuta: 'Euro, dal 2011: la prima delle tre capitali baltiche ad adottarlo, prima di Lettonia (2014) e Lituania (2015).',
     pagamenti:
       'È il paese più avanzato al mondo per pagamenti e servizi digitali: carta e contactless si usano quasi ovunque, dai mercati ai bus, e il contante serve poco anche per i piccoli acquisti.',

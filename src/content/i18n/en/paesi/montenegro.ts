@@ -14,7 +14,7 @@ export const montenegro: Paese = {
     "€50-70 a day per person on a budget, €90-140 mid-range, from €200 in resorts; flights excluded",
   scheda: {
     documenti:
-      "For Italian citizens a valid ID card for travel abroad or a passport is enough, for tourist stays of up to 90 days. Montenegro is not in the European Union or the Schengen area: at the Croatian border you go through the EES biometric check. Accommodations register guests with the authorities. Before leaving, check the Montenegro card on Viaggiare Sicuri.",
+      "For Italian citizens a passport is enough for tourist stays of up to 90 days; with the electronic ID card (CIE) the stay is limited to 30 days. Montenegro is not in the European Union or the Schengen area: at the Croatian border you go through the EES biometric check. Accommodations register guests with the authorities. Before leaving, check the Montenegro card on Viaggiare Sicuri.",
     valuta: "Euro, adopted unilaterally although the country is not part of the eurozone.",
     pagamenti:
       "Cards accepted in hotels, restaurants and supermarkets in the towns; cash for parking, the Kotor walls, boats, national parks and mountain trattorias. Tourist tax of about €1-1.50 per person per night.",

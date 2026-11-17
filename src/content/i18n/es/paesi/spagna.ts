@@ -16,7 +16,7 @@ export const spagna: Paese = {
   stileViaggio: ['isole', 'cultura moresca', 'gastronomia', 'natura vulcanica', 'mare', 'cammino di santiago'],
   scheda: {
     documenti:
-      "España está en la Unión Europea y en el espacio Schengen (Canarias y Baleares incluidas): a los ciudadanos italianos les basta el documento de identidad válido para el extranjero (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses.",
+      "España está en la Unión Europea y en el espacio Schengen (Canarias y Baleares incluidas): a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de tres meses.",
     valuta: 'Euro, como en Italia, en las cuatro regiones: no hay que cambiar dinero.',
     pagamenti:
       "Las tarjetas y el pago sin contacto se aceptan casi en todas partes, también en las islas menores y en los pequeños bares de pintxos del Norte. El efectivo sigue haciendo falta para mercados, bares de barrio y propinas.",

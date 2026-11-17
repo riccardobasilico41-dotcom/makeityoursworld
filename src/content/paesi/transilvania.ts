@@ -14,7 +14,7 @@ export const transilvania: Paese = {
   budgetIndicativo: 'circa 80-90 € di cassa comune, più 120-150 € di spesa media personale',
   scheda: {
     documenti:
-      'La Romania è nell\'Unione Europea e, dal 1° gennaio 2025, è a pieno titolo nell\'area Schengen anche alle frontiere terrestri: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio. La patente italiana vale senza conversioni né permessi internazionali.',
+      'La Romania è nell\'Unione Europea e, dal 1° gennaio 2025, è a pieno titolo nell\'area Schengen anche alle frontiere terrestri: ai cittadini italiani basta la carta d\'identità elettronica (CIE). La patente italiana vale senza conversioni né permessi internazionali.',
     valuta: 'Leu rumeno (RON): a differenza della vicina Bulgaria, la Romania non ha adottato l\'euro. Cambio indicativo 1 € = 5 RON.',
     pagamenti:
       'Le carte funzionano nei centri turistici, ma serve contante in lei per guide locali, ristoranti tipici più piccoli e ingressi pagabili solo in loco. Conviene prelevare 500-700 lei a un unico bancomat all\'inizio del viaggio, invece di fare molti prelievi con commissione.',

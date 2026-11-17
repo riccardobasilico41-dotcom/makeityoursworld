@@ -25,7 +25,7 @@ export const portogallo: Paese = {
   stileViaggio: ['città', 'storia', 'mare', 'gastronomia'],
   scheda: {
     documenti:
-      'Il Portogallo è nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'Il Portogallo è nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta:
       'Euro (€), come in Italia: non serve cambiare.',
     pagamenti:

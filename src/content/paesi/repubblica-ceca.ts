@@ -22,7 +22,7 @@ export const repubblicaCeca: Paese = {
   stileViaggio: ['città', 'storia', 'architettura', 'gastronomia'],
   scheda: {
     documenti:
-      'La Repubblica Ceca è nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'La Repubblica Ceca è nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta:
       'Corona ceca (CZK), non l\'euro. È la sorpresa più comune per chi dà per scontato che "Unione Europea" voglia dire euro: la Repubblica Ceca non è nell\'eurozona e non ha una data fissata per entrarci, quindi si paga in corone ovunque. Alcuni locali turistici intorno alla Piazza della Città Vecchia espongono prezzi "convertiti" in euro a un cambio spesso svantaggioso: meglio pagare sempre in CZK.',
     pagamenti:

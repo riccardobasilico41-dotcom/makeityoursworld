@@ -29,7 +29,7 @@ It suits first-time visitors to Egypt, couples and families with kids old enough
 - **May-September:** very warm sea and discounted resorts, but Luxor often exceeds 40 °C (104 °F) and in summer reaches 45 (113 °F). It can be done, with visits between 6 and 10 and afternoons in the hotel; it's not the ideal period for a first time.
 
 ### Documents, currency and payments
-- **Documents:** passport with at least 6 months of remaining validity on arrival, or, for tourism only, an electronic ID card valid for travel abroad with more than 6 months remaining and two passport photos (without a photo the visa isn't issued). An ID card extended with the paper slip is not accepted. The passport avoids arguments at check-in.
+- **Documents:** passport with at least 6 months of remaining validity on arrival, or, for tourism only, an electronic an electronic ID card (CIE) with more than 6 months remaining and two passport photos (without a photo the visa isn't issued). An ID card extended with the paper slip is not accepted. The passport avoids arguments at check-in.
 - **Visa:** $30 on arrival in Cairo (increased as of March 1, 2026), at the counter before the checks, or e-visa on the official portal visa2egypt.gov.eg. Beware of sites that imitate the official one and ask for double.
 - **Currency:** Egyptian pound (EGP), roughly 58-62 EGP to the euro in October 2026. Many tourist prices are in dollars.
 - **Payments:** card at resorts, hotels and the ticket offices of state sites, which accept cards only; tickets can also be bought online at egymonuments.com. Cash in small bills for taxis, tips, restrooms, water and markets.

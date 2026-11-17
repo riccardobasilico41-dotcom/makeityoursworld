@@ -26,7 +26,7 @@ Nine days, three days each, a train and a domestic flight as the hinge: not a co
 - **Christiania (Copenhagen):** the "free town" founded in 1971 has its own rules, posted and enforced: no photos on the former Pusher Street (closed by the Danish authorities in 2024 after an episode of violence) or of residents without permission. Selling drugs, hashish included, remains illegal throughout Denmark: whatever its reputation says, it isn't an outlaw enclave.
 - **The Viking Ship Museum in Oslo is closed:** the historic site on the Bygdøy peninsula is under renovation and the Viking ships are being moved to the new Museum of the Viking Age; reopening isn't expected before 2027. On this itinerary you still visit Bygdøy, for the Fram Museum and the Kon-Tiki Museum, but before leaving it's worth rechecking the Viking museum's reopening date.
 - **Tivoli Gardens (Copenhagen) is seasonal:** it opens in spring and summer, for Halloween and for the Christmas markets, but **closes for some winter months** outside those periods. It isn't open year-round: check the official calendar before planning your evening.
-- **Documents:** Denmark and Sweden are in the European Union and the Schengen area, Norway is in the Schengen area but outside the EU. For Italian citizens, a valid ID card for travel abroad is enough in all three, with no visa for tourist stays under three months.
+- **Documents:** Denmark and Sweden are in the European Union and the Schengen area, Norway is in the Schengen area but outside the EU. For Italian citizens, an electronic ID card (CIE) is enough in all three, with no visa for tourist stays under three months.
 
 ## Itinerario giorno per giorno
 

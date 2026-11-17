@@ -12,7 +12,7 @@ export const bulgaria: Paese = {
   budgetIndicativo: "day ski pass €35-40, dinner in a mehana €15-20 per person: among the cheapest ski destinations in Europe",
   scheda: {
     documenti:
-      "Bulgaria is in the European Union and since 2025 has fully joined the Schengen area, land borders included: Italian citizens only need an ID card valid for travel abroad. The Italian driver's license is valid.",
+      "Bulgaria is in the European Union and since 2025 has fully joined the Schengen area, land borders included: Italian citizens only need an electronic ID card (CIE). The Italian driver's license is valid.",
     valuta:
       "Euro. For anyone holding old guidebooks this is the most important news: Bulgaria joined the eurozone on January 1, 2026 and, after a month of dual circulation, from February 1, 2026 the euro is the only legal currency. Lev prices in earlier travel accounts need to be converted at the fixed rate of 1.95583.",
     pagamenti:

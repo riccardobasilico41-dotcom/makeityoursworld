@@ -1055,7 +1055,7 @@ export const destinazioniTanzania: Destinazione[] = [
     faq: [
       {
         "domanda": "Serve un'assicurazione per entrare a Zanzibar?",
-        "risposta": "Sì: dal 2024 è obbligatoria l'assicurazione di viaggio di Zanzibar, 44 $ a persona per soggiorni fino a 92 giorni. Si compra online prima di partire o all'arrivo."
+        "risposta": "Sì: dal 2024 è obbligatoria l'assicurazione di viaggio di Zanzibar, 44 $ a persona per soggiorni fino a 92 giorni. Si compra online prima di partire o all'arrivo. Chi entra prima dal continente con la polizza NIC, obbligatoria lì dal 1° ottobre 2026, non deve comprarne una seconda."
       },
       {
         "domanda": "Meglio la costa nord o la costa est?",

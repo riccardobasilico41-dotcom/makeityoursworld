@@ -22,7 +22,7 @@ export const croazia: Paese = {
   stileViaggio: ['mare', 'isole', 'natura', 'città storiche', 'roadtrip'],
   scheda: {
     documenti:
-      'Unione Europea e, dal 2023, area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio. Per uscire verso Bosnia o Montenegro serve un documento valido per l\'espatrio e, con un\'auto a noleggio, l\'autorizzazione del noleggiatore e la carta verde.',
+      'Unione Europea e, dal 2023, area Schengen: per i cittadini italiani basta la carta d\'identità elettronica (CIE). Per uscire verso Bosnia o Montenegro serve un documento valido per l\'espatrio e, con un\'auto a noleggio, l\'autorizzazione del noleggiatore e la carta verde.',
     valuta: 'Euro dal 1° gennaio 2023.',
     pagamenti:
       'Carte e contactless accettati quasi ovunque. Contanti utili per piccoli bar sulle isole, mercati e affittacamere. Evitare i bancomat indipendenti con commissioni alte e rifiutare la conversione nella valuta di casa.',

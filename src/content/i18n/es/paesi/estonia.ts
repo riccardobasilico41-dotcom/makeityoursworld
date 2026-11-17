@@ -16,7 +16,7 @@ export const estonia: Paese = {
   stileViaggio: ['città', 'storia', 'architettura', 'innovazione'],
   scheda: {
     documenti:
-      "Estonia está en la Unión Europea, en el espacio Schengen y en la eurozona: a los ciudadanos italianos les basta el documento de identidad válido para la expatriación (o el pasaporte), sin trámites para estancias turísticas de menos de noventa días.",
+      "Estonia está en la Unión Europea, en el espacio Schengen y en la eurozona: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de noventa días.",
     valuta: 'Euro, desde 2011: la primera de las tres capitales bálticas en adoptarlo, antes que Letonia (2014) y Lituania (2015).',
     pagamenti:
       'Es el país más avanzado del mundo en pagos y servicios digitales: la tarjeta y el contactless se usan casi en todas partes, de los mercados a los autobuses, y el efectivo hace poca falta incluso para las compras pequeñas.',

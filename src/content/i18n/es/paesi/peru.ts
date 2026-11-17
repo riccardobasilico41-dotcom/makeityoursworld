@@ -16,7 +16,7 @@ export const peru: Paese = {
   stileViaggio: ['trekking', 'cultura inca', 'amazzonia', 'alta quota'],
   scheda: {
     documenti:
-      "Pasaporte con al menos 6 meses de validez restante a la llegada. No hace falta visado para estancias turísticas de hasta 183 días para los ciudadanos italianos.",
+      "Pasaporte con al menos 6 meses de validez restante a la llegada. No hace falta visado para estancias turísticas de hasta 90 días (de 183) para los ciudadanos italianos: los días concedidos son los registrados a la entrada.",
     valuta: "Nuevo sol (PEN). Se cambia en el aeropuerto, en el banco o en las casas de cambio autorizadas; los dólares estadounidenses se aceptan en muchos contextos turísticos.",
     pagamenti:
       "Se aceptan tarjetas en Lima, Cusco y en los establecimientos turísticos, mucho menos en los mercados, en las barcas del Titicaca y en los pueblos del Valle Sagrado. Conviene llevar siempre billetes pequeños: el cambio de los billetes grandes es un problema recurrente.",

@@ -12,7 +12,7 @@ export const norvegia: Paese = {
   budgetIndicativo: "€500-600 per person for meals alone (that's what we spent); to be added: flights, car rental, ferries and lodging",
   scheda: {
     documenti:
-      "Norway is in the Schengen area despite not being in the European Union: for Italian citizens a valid ID card for travel abroad is enough. Italian driver's license valid.",
+      "Norway is in the Schengen area despite not being in the European Union: for Italian citizens an electronic ID card (CIE) is enough. Italian driver's license valid.",
     valuta: "Norwegian krone (NOK). The country is almost entirely cashless, but a few kroner in cash come in handy at small businesses along the road.",
     pagamenti:
       "You pay by card almost everywhere, ferries included. Watch out for smaller and more isolated places, which sometimes accept only cash or Norwegian payment apps: it happens, for example, at cafés along the road to the Lofoten. Alcohol above a certain strength is sold only in the state-run Vinmonopolet stores; supermarkets sell only beer, with limited hours.",

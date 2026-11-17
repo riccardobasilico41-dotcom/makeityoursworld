@@ -16,7 +16,7 @@ export const austria: Paese = {
   stileViaggio: ['città', 'arte', 'musica', 'gastronomia'],
   scheda: {
     documenti:
-      "Austria is in the European Union and the Schengen area: for Italian citizens a valid ID card for travel abroad (or a passport) is enough, with no formalities for tourist stays of under three months.",
+      "Austria is in the European Union and the Schengen area: for Italian citizens an electronic ID card (CIE) or a passport is enough, with no formalities for tourist stays of under three months.",
     valuta:
       "Euro. Unlike the Czech Republic and Poland, Austria is in the eurozone: no need to exchange currency and no risk of penalizing conversions in restaurants, a not-insignificant practical advantage for those arriving from Italy.",
     pagamenti:

@@ -17,7 +17,7 @@ export const irlanda: Paese = {
   budgetIndicativo: 'da calcolare su voli, auto e alloggi; gli ingressi principali costano 5-16 € (2026)',
   scheda: {
     documenti:
-      'L\'Irlanda è nell\'Unione Europea ma non nell\'area Schengen: alla frontiera c\'è il controllo dei documenti. I cittadini UE possono entrare con la carta d\'identità valida per l\'espatrio o con il passaporto; ireland.com avverte però che compagnie aeree e traghetti chiedono sempre più spesso il passaporto, quindi conviene verificare con il vettore. Attenzione se il viaggio passa nell\'Irlanda del Nord: lì la carta d\'identità non basta, servono passaporto ed ETA britannica (vedi la scheda dell\'Irlanda del Nord). Prima di partire va controllata la pagina dell\'Irlanda su viaggiaresicuri.it.',
+      'L\'Irlanda è nell\'Unione Europea ma non nell\'area Schengen: alla frontiera c\'è il controllo dei documenti. I cittadini UE possono entrare con la carta d\'identità elettronica (CIE) o con il passaporto; ireland.com avverte però che compagnie aeree e traghetti chiedono sempre più spesso il passaporto, quindi conviene verificare con il vettore. Attenzione se il viaggio passa nell\'Irlanda del Nord: lì la carta d\'identità non basta, servono passaporto ed ETA britannica (vedi la scheda dell\'Irlanda del Nord). Prima di partire va controllata la pagina dell\'Irlanda su viaggiaresicuri.it.',
     valuta: 'Euro. Appena si passa il confine con l\'Irlanda del Nord la moneta diventa la sterlina britannica.',
     pagamenti:
       'Le carte sono accettate quasi ovunque, anche per piccoli importi e nei parcheggi. Un po\' di contanti serve per qualche pub di campagna, i mercati e le offerte nelle chiese.',

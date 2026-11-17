@@ -15,7 +15,7 @@ export const danimarca: Paese = {
   stileViaggio: ['city', 'design', 'food', 'cycling'],
   scheda: {
     documenti:
-      "Denmark is in the European Union and the Schengen area: Italian citizens only need an ID card valid for travel abroad (or a passport), with no formalities for tourist stays under three months. Greenland and the Faroe Islands are Danish territories but remain outside Schengen and the European customs union: for Copenhagen it changes nothing, but it's useful to know for anyone thinking of an extension.",
+      "Denmark is in the European Union and the Schengen area: Italian citizens only need an electronic ID card (CIE) or a passport, with no formalities for tourist stays under three months. Greenland and the Faroe Islands are Danish territories but remain outside Schengen and the European customs union: for Copenhagen it changes nothing, but it's useful to know for anyone thinking of an extension.",
     valuta:
       "Danish krone (DKK): Denmark has a historic opt-out from the eurozone (2000 referendum) and has no intention of adopting the euro. The krone is however pegged to the euro through the ERM II agreement, with a very narrow fluctuation band (roughly €1 = 7.46 DKK, with minimal variation). It's the most stable currency of the three capitals on this tour, but it remains a different currency: foreign cards often pay a small exchange fee.",
     pagamenti:

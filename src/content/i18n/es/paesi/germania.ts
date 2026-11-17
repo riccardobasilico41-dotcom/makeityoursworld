@@ -16,7 +16,7 @@ export const germania: Paese = {
   stileViaggio: ['città', 'storia', 'memoria', 'vita notturna'],
   scheda: {
     documenti:
-      "Alemania está en la Unión Europea y en el espacio Schengen: para los ciudadanos italianos basta con el documento de identidad válido para viajar al extranjero (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses.",
+      "Alemania está en la Unión Europea y en el espacio Schengen: para los ciudadanos italianos basta con el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de tres meses.",
     valuta:
       "Euro, como en Italia: no hay que hacer ninguna conversión, a diferencia de otros destinos de Europa central como Polonia o Hungría.",
     pagamenti:

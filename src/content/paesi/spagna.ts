@@ -38,7 +38,7 @@ export const spagna: Paese = {
   stileViaggio: ['isole', 'cultura moresca', 'gastronomia', 'natura vulcanica', 'mare', 'cammino di santiago'],
   scheda: {
     documenti:
-      'La Spagna è nell\'Unione Europea e nell\'area Schengen (Canarie e Baleari comprese): ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'La Spagna è nell\'Unione Europea e nell\'area Schengen (Canarie e Baleari comprese): ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta: 'Euro, come in Italia, in tutte e quattro le regioni: nessun cambio da fare.',
     pagamenti:
       'Carte e contactless sono accettati quasi ovunque, anche nelle isole minori e nei piccoli bar da pintxos del Nord. Il contante serve ancora per mercati, bar di quartiere e mance.',

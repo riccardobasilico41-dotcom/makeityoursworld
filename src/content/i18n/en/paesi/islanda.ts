@@ -12,7 +12,7 @@ export const islanda: Paese = {
   budgetIndicativo: "I haven't worked out a total, but the island is expensive, especially alcohol, coffee and meals outside the campsite",
   scheda: {
     documenti:
-      "Iceland is in the Schengen area: for Italian citizens an ID card valid for travel abroad is enough, though bringing your passport is still recommended. An Italian driver's license is valid for driving.",
+      "Iceland is in the Schengen area: for Italian citizens an electronic ID card (CIE) is enough, though bringing your passport is still recommended. An Italian driver's license is valid for driving.",
     valuta: "Icelandic króna (ISK). You almost never need to change cash: the country is effectively cashless.",
     pagamenti:
       "You pay by card everywhere, even for tiny amounts. But you need a card with a working PIN for the self-service pumps at gas stations, which outside the cities are the norm: without a PIN you risk running dry. Alcohol is sold only in the state-run Vínbúðin stores, with limited hours: it's best to stock up at duty-free on arrival.",

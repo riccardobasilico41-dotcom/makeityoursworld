@@ -26,7 +26,7 @@ export const danimarca: Paese = {
   stileViaggio: ['città', 'design', 'gastronomia', 'bici'],
   scheda: {
     documenti:
-      'La Danimarca è nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi. Groenlandia e Isole Fær Øer sono territori danesi ma restano fuori da Schengen e dall\'unione doganale europea: per Copenaghen non cambia nulla, ma è utile saperlo per chi pensa a un\'estensione.',
+      'La Danimarca è nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi. Groenlandia e Isole Fær Øer sono territori danesi ma restano fuori da Schengen e dall\'unione doganale europea: per Copenaghen non cambia nulla, ma è utile saperlo per chi pensa a un\'estensione.',
     valuta:
       'Corona danese (DKK): la Danimarca ha un opt-out storico dall\'eurozona (referendum del 2000) e non intende adottare l\'euro. La corona però è agganciata all\'euro con l\'accordo ERM II, con una banda di oscillazione molto stretta (indicativamente 1 € = 7,46 DKK, con variazioni minime). È la valuta più stabile delle tre capitali di questo giro, ma resta una valuta diversa: le carte estere pagano spesso una piccola commissione di cambio.',
     pagamenti:

@@ -16,7 +16,7 @@ export const paesiBassi: Paese = {
   stileViaggio: ['city', 'art', 'history', 'cycling'],
   scheda: {
     documenti:
-      "The Netherlands is in the European Union and the Schengen area: Italian citizens need only a valid ID card for travel abroad (or a passport), with no formalities for tourist stays under three months.",
+      "The Netherlands is in the European Union and the Schengen area: Italian citizens need only an electronic ID card (CIE) or a passport, with no formalities for tourist stays under three months.",
     valuta:
       "Euro (€), like Italy: no currency exchange needed.",
     pagamenti:

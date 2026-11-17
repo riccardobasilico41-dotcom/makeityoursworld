@@ -13,7 +13,7 @@ export const turchia: Paese = {
     'de forma indicativa 80-130 € al día por persona en gama media, sin vuelos; los museos principales se pagan en euros y son caros (Santa Sofía 25 €, Topkapı con harén en torno a 50 €), el globo por sí solo cuesta 180-350 €',
   scheda: {
     documenti:
-      'A los ciudadanos italianos no les hace falta visado para estancias turísticas de hasta 90 días en un periodo de 180. Se entra con pasaporte o con el documento de identidad válido para la expatriación, en ambos casos con al menos 150 días de validez restante desde la fecha de entrada. El documento de identidad en papel o con sello de prórroga puede dar problemas: mejor el pasaporte o la tarjeta electrónica.',
+      'A los ciudadanos italianos no les hace falta visado para estancias turísticas de hasta 90 días en un periodo de 180. Se entra con pasaporte o con el documento de identidad electrónico (CIE), en ambos casos con al menos 150 días de validez restante desde la fecha de entrada. El documento de identidad en papel o con sello de prórroga puede dar problemas: mejor el pasaporte o la tarjeta electrónica.',
     valuta:
       'Lira turca (TRY), con una inflación muy alta: a finales de 2026, de forma indicativa, más de 50 liras por euro, y los precios locales cambian de un mes a otro. Museos estatales, globos, hoteles y muchos tours tienen los precios directamente en euros.',
     pagamenti:

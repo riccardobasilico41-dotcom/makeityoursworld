@@ -12,7 +12,7 @@ export const irlanda: Paese = {
   budgetIndicativo: 'to be worked out on flights, car and accommodation; the main entrance fees cost €5-16 (2026)',
   scheda: {
     documenti:
-      "Ireland is in the European Union but not in the Schengen area: there are document checks at the border. EU citizens can enter with an ID card valid for travel abroad or with a passport; ireland.com warns, though, that airlines and ferries ask for a passport more and more often, so check with your carrier. Be careful if the trip goes into Northern Ireland: there an ID card is not enough, you need a passport and a UK ETA (see the Northern Ireland page). Before you leave, check the Ireland page of your own government's travel advice (for Italians, viaggiaresicuri.it).",
+      "Ireland is in the European Union but not in the Schengen area: there are document checks at the border. EU citizens can enter with an electronic ID card (CIE) or with a passport; ireland.com warns, though, that airlines and ferries ask for a passport more and more often, so check with your carrier. Be careful if the trip goes into Northern Ireland: there an ID card is not enough, you need a passport and a UK ETA (see the Northern Ireland page). Before you leave, check the Ireland page of your own government's travel advice (for Italians, viaggiaresicuri.it).",
     valuta: 'Euro. As soon as you cross the border into Northern Ireland the currency becomes the British pound.',
     pagamenti:
       'Cards are accepted almost everywhere, even for small amounts and in car parks. You need a little cash for some country pubs, markets and church offerings.',

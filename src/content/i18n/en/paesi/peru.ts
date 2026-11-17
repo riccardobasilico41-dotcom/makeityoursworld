@@ -16,7 +16,7 @@ export const peru: Paese = {
   stileViaggio: ['trekking', 'Inca culture', 'Amazon', 'high altitude'],
   scheda: {
     documenti:
-      'Passport valid for at least 6 months on arrival. No visa for tourist stays of up to 183 days for Italian citizens.',
+      'Passport valid for at least 6 months on arrival. No visa for tourist stays of up to 90 days (out of 183) for Italian citizens: the days granted are the ones recorded on entry.',
     valuta: 'Nuevo sol (PEN). You exchange at the airport, at banks or at authorized casas de cambio; US dollars are accepted in many tourist settings.',
     pagamenti:
       "Cards are accepted in Lima, Cusco and tourist businesses, much less in markets, on the Titicaca boats and in the villages of the Sacred Valley. Always keep small bills: change for large notes is a recurring problem.",

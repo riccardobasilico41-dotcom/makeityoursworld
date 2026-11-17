@@ -14,7 +14,7 @@ export const panama: Paese = {
     'costes medios para la región, más altos en San Blas por la logística: traslado en 4x4 + barca 40-60 $ por tramo, noches en cabaña en las islas 60-150 $ por persona con comidas incluidas',
   scheda: {
     documenti:
-      "Pasaporte en vigor (se recomiendan al menos 6 meses de validez restante); ningún visado para estancias turísticas de hasta 90 días para los ciudadanos italianos. A la entrada pueden pedirse el billete de salida del país y la prueba de fondos suficientes.",
+      "Pasaporte con al menos 3 meses de validez a la llegada (mejor 6); ningún visado para estancias turísticas de hasta 90 días para los ciudadanos italianos. A la entrada pueden pedirse el billete de salida del país y la prueba de fondos suficientes.",
     valuta:
       "El balboa (PAB) está vinculado 1:1 al dólar estadounidense y solo existe en monedas: en la práctica se paga en billetes americanos. En cuanto a la moneda es el país más sencillo de la región: se llega con dólares y no hace falta cambiar nada.",
     pagamenti:

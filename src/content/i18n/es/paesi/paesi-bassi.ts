@@ -16,7 +16,7 @@ export const paesiBassi: Paese = {
   stileViaggio: ['città', 'arte', 'storia', 'cicloturismo'],
   scheda: {
     documenti:
-      "Los Países Bajos están en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad válido para la expatriación (o el pasaporte), sin formalidades para estancias turísticas de menos de tres meses.",
+      "Los Países Bajos están en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte, sin formalidades para estancias turísticas de menos de tres meses.",
     valuta:
       'Euro (€), como Italia: no hace falta cambiar nada.',
     pagamenti:

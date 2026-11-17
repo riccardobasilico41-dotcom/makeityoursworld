@@ -16,7 +16,7 @@ export const ungheria: Paese = {
   stileViaggio: ['città', 'terme', 'vita notturna', 'gastronomia'],
   scheda: {
     documenti:
-      'Hungría está en la Unión Europea y en el espacio Schengen: para los ciudadanos italianos basta el documento de identidad válido para la expatriación (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses.',
+      'Hungría está en la Unión Europea y en el espacio Schengen: para los ciudadanos italianos basta el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de tres meses.',
     valuta:
       'Florín húngaro (HUF), no el euro. Sorprende a menudo a quien da por descontado que «Unión Europea» significa euro: Hungría no está en la eurozona y no tiene una fecha fijada para entrar. Los números en florines son grandes (un café puede costar 800-1.200 HUF, una cena 4.000-8.000 HUF por persona) y la confusión entre «mil» y «diez mil» es el error más común de quien acaba de llegar: conviene acostumbrarse enseguida a leer los ceros antes de pagar.',
     pagamenti:

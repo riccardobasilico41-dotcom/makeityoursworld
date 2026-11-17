@@ -16,7 +16,7 @@ export const polonia: Paese = {
   stileViaggio: ['città', 'storia', 'memoria', 'gastronomia'],
   scheda: {
     documenti:
-      "Polonia está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad válido para viajar al extranjero (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses.",
+      "Polonia está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de tres meses.",
     valuta:
       "Zloty polaco (PLN), no el euro. Suele sorprender a quien da por hecho que «Unión Europea» significa euro: Polonia no está en la eurozona y no hay una fecha fijada para entrar, así que se paga en zlotys en todas partes, incluso en las tiendas que exponen carteles con precios «convertidos» a euros a un cambio a menudo desfavorable.",
     pagamenti:

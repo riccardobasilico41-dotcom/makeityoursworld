@@ -16,7 +16,7 @@ export const austria: Paese = {
   stileViaggio: ['città', 'arte', 'musica', 'gastronomia'],
   scheda: {
     documenti:
-      "Austria está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad válido para viajar al extranjero (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses.",
+      "Austria está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de tres meses.",
     valuta:
       "Euro. A diferencia de la República Checa y Polonia, Austria está en la eurozona: no hace falta cambiar moneda ni hay riesgo de conversiones desfavorables en los restaurantes, una ventaja práctica nada pequeña para quien llega desde Italia.",
     pagamenti:

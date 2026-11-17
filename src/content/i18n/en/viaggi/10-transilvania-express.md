@@ -13,7 +13,7 @@ The strongest memory of this trip is the Transfăgărășan. The fall foliage li
 
 ## Scheda pratica
 - **When to go:** cold weather, often rainy or snowy, "perfect for getting into the Transylvania mood," as the official Vade Mecum puts it. The weather can change the itinerary on the fly, especially for the Transfăgărășan (see below).
-- **Documents/visa:** Italian citizens only need a valid ID card or passport, no visa. Romania has been in the Schengen area since 2024, but it is still outside the euro.
+- **Documents/visa:** Italian citizens only need an electronic ID card (CIE) or a valid passport, no visa. Romania has been in the Schengen area since 2024, but it is still outside the euro.
 - **Driving license:** the Italian one is valid, with no conversion or international permit.
 - **Approximate budget:** a recommended starting budget of €80-90, to keep aside in cash (in lei) from the first days for the organized activities, plus an average personal spend of €120-150 (more if you add the half day at the spa on the last day).
 - **How I got around:** self-drive rental car for the whole trip (pickup and return in Bucharest at Avis, Gran Hotel Bucuresti), Uber/Bolt/taxi for getting around in cities.

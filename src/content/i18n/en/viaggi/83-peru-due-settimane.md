@@ -17,7 +17,7 @@ I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaky, a 
 
 ## Scheda pratica
 - **When to go:** May to September, the dry season in the Andes. In February the Inca Trail closes for maintenance. On June 24 there's Inti Raymi in Cusco: the city is packed and prices are high, so book well ahead.
-- **Documents:** passport with at least 6 months of remaining validity. No visa for Italian citizens for up to 183 days.
+- **Documents:** passport with at least 6 months of remaining validity. No visa for Italian citizens for up to 90 days (out of 183).
 - **Currency and payments:** nuevo sol (PEN). Cards work in Lima, Arequipa and Cusco and at tourist businesses, much less in markets, on Titicaca boats and in villages. Arrive in Puno with cash already in your pocket, in small bills.
 - **Altitude:** it's the theme of the trip. Arequipa is at 2,300 meters, Cusco at 3,400, Puno at 3,812. Soroche, altitude sickness, is a real risk. This loop climbs in steps on purpose, and the slow days are there for that.
 - **Transport:** two domestic flights (Lima-Arequipa on the way out, Cusco-Lima on the way back), tourist buses from Arequipa to Puno and from Puno to Cusco, PeruRail or IncaRail train to Machu Picchu. Flights are cheap if you book early.

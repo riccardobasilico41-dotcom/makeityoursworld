@@ -29,7 +29,7 @@ export const lituania: Paese = {
   stileViaggio: ['città', 'storia', 'arte', 'natura'],
   scheda: {
     documenti:
-      'La Lituania è nell\'Unione Europea, nell\'area Schengen e nell\'eurozona: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i novanta giorni.',
+      'La Lituania è nell\'Unione Europea, nell\'area Schengen e nell\'eurozona: ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i novanta giorni.',
     valuta:
       'Euro, dal 2015: è stato l\'ultimo dei tre Baltici ad adottarlo, dopo Estonia (2011) e Lettonia (2014). A differenza di mete come la Polonia, non c\'è nessun cambio da fare.',
     pagamenti:

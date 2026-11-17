@@ -16,7 +16,7 @@ export const lettonia: Paese = {
   stileViaggio: ['città', 'architettura', 'mare', 'gastronomia'],
   scheda: {
     documenti:
-      "Letonia está en la Unión Europea, en el espacio Schengen y en la eurozona: a los ciudadanos italianos les basta con el documento de identidad válido para la expatriación (o el pasaporte), sin trámites para estancias turísticas de menos de noventa días.",
+      "Letonia está en la Unión Europea, en el espacio Schengen y en la eurozona: a los ciudadanos italianos les basta con el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de noventa días.",
     valuta: "Euro, desde 2014. Fue la segunda de las tres capitales bálticas en adoptarlo, después de Estonia (2011) y antes de Lituania (2015).",
     pagamenti:
       "La tarjeta y el pago sin contacto funcionan casi en todas partes, también en el transporte público. El efectivo sirve para los puestos del Mercado Central y las compras pequeñas en Jūrmala.",

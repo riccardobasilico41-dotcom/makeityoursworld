@@ -1441,7 +1441,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Kastellorizo (Meis)",
         "distanza": "circa 20 minuti di traghetto da Kaş",
-        "come": "Traghetto dal porto di Kaş, con il passaporto o la carta d'identità valida per l'espatrio: è un'isola greca, quindi si esce dalla Turchia.",
+        "come": "Traghetto dal porto di Kaş, con il passaporto o la carta d'identità elettronica (CIE): è un'isola greca, quindi si esce dalla Turchia.",
         "testo": "Il paese colorato sul porto, la Grotta Azzurra in barca e le taverne sul mare. Si fa in mezza giornata."
       },
       {

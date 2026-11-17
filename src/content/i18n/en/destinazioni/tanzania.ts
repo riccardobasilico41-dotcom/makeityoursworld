@@ -1047,7 +1047,7 @@ export const destinazioniTanzania: Destinazione[] = [
     faq: [
       {
         "domanda": "Do you need insurance to enter Zanzibar?",
-        "risposta": "Yes: since 2024 Zanzibar's travel insurance has been mandatory, $44 per person for stays of up to 92 days. It's bought online before departure or on arrival."
+        "risposta": "Yes: since 2024 Zanzibar's travel insurance has been mandatory, $44 per person for stays of up to 92 days. It's bought online before departure or on arrival. If you enter on the mainland first with the NIC policy, mandatory there since October 1, 2026, you don't need a second one."
       },
       {
         "domanda": "North coast or east coast?",

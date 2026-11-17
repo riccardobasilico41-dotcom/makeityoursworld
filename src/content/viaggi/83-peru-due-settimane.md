@@ -17,7 +17,7 @@ In Perù sono stato anche due volte come volontario: a Cusco con il Proyecto Cus
 
 ## Scheda pratica
 - **Quando andare:** da maggio a settembre, la stagione secca delle Ande. A febbraio il Cammino Inca chiude per manutenzione. Il 24 giugno c'è l'Inti Raymi a Cusco: città piena e prezzi alti, da prenotare molto prima.
-- **Documenti:** passaporto con almeno 6 mesi di validità residua. Nessun visto per i cittadini italiani fino a 183 giorni.
+- **Documenti:** passaporto con almeno 6 mesi di validità residua. Nessun visto per i cittadini italiani fino a 90 giorni (su 183).
 - **Valuta e pagamenti:** nuevo sol (PEN). Le carte vanno a Lima, Arequipa e Cusco e nelle strutture turistiche, molto meno nei mercati, sulle barche del Titicaca e nei villaggi. A Puno si arriva con i contanti già in tasca, in banconote piccole.
 - **Altitudine:** è il tema del viaggio. Arequipa sta a 2.300 metri, Cusco a 3.400, Puno a 3.812. Il soroche, il mal d'altitudine, è un rischio vero. Questo giro sale per gradi apposta, e i giorni lenti servono a questo.
 - **Trasporti:** due voli interni (Lima-Arequipa all'andata, Cusco-Lima al ritorno), bus turistici da Arequipa a Puno e da Puno a Cusco, treno PeruRail o IncaRail per Machu Picchu. I voli costano poco se si prenotano con anticipo.

@@ -11,7 +11,7 @@ export const svezia: Paese = {
   durataConsigliata: '7 giorni per coprire Stoccolma (solo transito), Kiruna e Abisko senza fretta',
   budgetIndicativo: '1.500 € a testa per un budget base, 1.800 € per un livello più comodo (voli, alloggi, trasporti interni, escursioni e pasti inclusi)',
   scheda: {
-    documenti: 'La Svezia è nell\'Unione Europea e in area Schengen: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio.',
+    documenti: 'La Svezia è nell\'Unione Europea e in area Schengen: per i cittadini italiani basta la carta d\'identità elettronica (CIE).',
     valuta: 'Corona svedese (SEK): la Svezia non ha adottato l\'euro. Cambio indicativo 1 € = 11 SEK.',
     pagamenti:
       'È uno dei paesi più cashless al mondo: si paga con carta ovunque e molti negozi i contanti non li accettano proprio. Non serve cambiare prima di partire. Gli alcolici sopra i 3,5 gradi si comprano solo nei negozi statali Systembolaget, con orari limitati e chiusi la domenica.',

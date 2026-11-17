@@ -25,7 +25,7 @@ export const paesiBassi: Paese = {
   stileViaggio: ['città', 'arte', 'storia', 'cicloturismo'],
   scheda: {
     documenti:
-      'I Paesi Bassi sono nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i tre mesi.',
+      'I Paesi Bassi sono nell\'Unione Europea e nell\'area Schengen: ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i tre mesi.',
     valuta:
       'Euro (€), come l\'Italia: nessun cambio necessario.',
     pagamenti:

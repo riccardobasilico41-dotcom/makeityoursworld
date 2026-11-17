@@ -23,7 +23,7 @@ export const lettonia: Paese = {
   stileViaggio: ['città', 'architettura', 'mare', 'gastronomia'],
   scheda: {
     documenti:
-      'La Lettonia è nell\'Unione Europea, nell\'area Schengen e nell\'eurozona: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio (o il passaporto), senza formalità per soggiorni turistici sotto i novanta giorni.',
+      'La Lettonia è nell\'Unione Europea, nell\'area Schengen e nell\'eurozona: ai cittadini italiani basta la carta d\'identità elettronica (CIE) o il passaporto, senza formalità per soggiorni turistici sotto i novanta giorni.',
     valuta: 'Euro, dal 2014. È stata la seconda delle tre capitali baltiche ad adottarlo, dopo l\'Estonia (2011) e prima della Lituania (2015).',
     pagamenti:
       'Carta e contactless funzionano quasi ovunque, anche sui mezzi pubblici. I contanti servono per le bancarelle del Mercato Centrale e i piccoli acquisti a Jūrmala.',

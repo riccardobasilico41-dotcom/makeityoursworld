@@ -12,7 +12,7 @@ export const bulgaria: Paese = {
   budgetIndicativo: 'skipass giornaliero 35-40 €, cena in mehana 15-20 € a testa: tra le destinazioni sciistiche più economiche d\'Europa',
   scheda: {
     documenti:
-      'La Bulgaria è nell\'Unione Europea e dal 2025 è entrata a pieno nell\'area Schengen, anche per le frontiere terrestri: ai cittadini italiani basta la carta d\'identità valida per l\'espatrio. La patente italiana è valida.',
+      'La Bulgaria è nell\'Unione Europea e dal 2025 è entrata a pieno nell\'area Schengen, anche per le frontiere terrestri: ai cittadini italiani basta la carta d\'identità elettronica (CIE). La patente italiana è valida.',
     valuta:
       'Euro. Per chi ha in mano vecchie guide è la novità più importante: la Bulgaria è entrata nell\'eurozona il 1° gennaio 2026 e, dopo un mese di doppia circolazione, dal 1° febbraio 2026 l\'euro è l\'unica valuta legale. I prezzi in lev dei racconti di viaggio precedenti vanno riconvertiti al cambio fisso di 1,95583.',
     pagamenti:
@@ -31,7 +31,7 @@ export const bulgaria: Paese = {
       'La stagione sciistica va dal 1° dicembre a metà aprile, con innevamento artificiale su oltre il 90% delle piste: la neve c\'è anche nelle annate più secche. In estate la stessa zona è buona per il trekking sul massiccio del Pirin.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia si trova a Sofia.',
     primaDiPartire: {
-      documento: 'Passaporto o carta d\'identità valida per l\'espatrio, integra e ben leggibile. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      documento: 'Passaporto o carta d\'identità elettronica (CIE), integra e ben leggibile. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
       visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
       vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
       sim: 'Roaming UE incluso nella tariffa italiana. Rete 4G/5G con A1, Vivacom e Yettel; per una SIM prepagata locale servono dati personali e un documento.',

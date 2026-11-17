@@ -16,7 +16,7 @@ export const repubblicaCeca: Paese = {
   stileViaggio: ['città', 'storia', 'architettura', 'gastronomia'],
   scheda: {
     documenti:
-      "La República Checa está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad válido para la expatriación (o el pasaporte), sin trámites para estancias turísticas de menos de tres meses.",
+      "La República Checa está en la Unión Europea y en el espacio Schengen: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte, sin trámites para estancias turísticas de menos de tres meses.",
     valuta:
       "Corona checa (CZK), no el euro. Es la sorpresa más común para quien da por hecho que «Unión Europea» significa euro: la República Checa no está en la eurozona y no tiene fecha fijada para entrar, así que se paga en coronas en todas partes. Algunos locales turísticos de alrededor de la Plaza de la Ciudad Vieja muestran precios «convertidos» a euros a un cambio a menudo desfavorable: mejor pagar siempre en CZK.",
     pagamenti:

@@ -13,7 +13,7 @@ I didn't expect much from skiing in Bulgaria, and that's exactly what I found: n
 
 ## Scheda pratica
 - **When to go:** the Bulgarian ski season runs from December 1 to mid-April, with artificial snow on most of the slopes (snow-gun coverage over 90%): snow is guaranteed even in the driest periods.
-- **Documents/visa:** Bulgaria is in the EU, no visa for Italian citizens; an ID card valid for travel abroad or a passport is enough.
+- **Documents/visa:** Bulgaria is in the EU, no visa for Italian citizens; an electronic ID card (CIE) or a passport is enough.
 - **Currency:** **euro.** At the time of this trip the Bulgarian lev (BGN) was in use, with a
   fixed rate of €1 = 1.95583 BGN, but on January 1, 2026 Bulgaria joined the
   eurozone and from February 1, 2026 the euro is the only legal currency: lev prices

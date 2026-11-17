@@ -12,7 +12,7 @@ export const bulgaria: Paese = {
   budgetIndicativo: 'forfait diario 35-40 €, cena en mehana 15-20 € por cabeza: entre los destinos de esquí más económicos de Europa',
   scheda: {
     documenti:
-      'Bulgaria está en la Unión Europea y desde 2025 forma parte plenamente del espacio Schengen, también en las fronteras terrestres: a los ciudadanos italianos les basta el documento de identidad válido para la expatriación. El carné de conducir italiano es válido.',
+      'Bulgaria está en la Unión Europea y desde 2025 forma parte plenamente del espacio Schengen, también en las fronteras terrestres: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE). El carné de conducir italiano es válido.',
     valuta:
       'Euro. Para quien tenga guías antiguas es la novedad más importante: Bulgaria entró en la eurozona el 1 de enero de 2026 y, tras un mes de doble circulación, desde el 1 de febrero de 2026 el euro es la única moneda de curso legal. Los precios en lev de los relatos de viaje anteriores hay que reconvertirlos al cambio fijo de 1,95583.',
     pagamenti:

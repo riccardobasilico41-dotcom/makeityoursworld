@@ -16,7 +16,7 @@ export const croazia: Paese = {
   stileViaggio: ['sea', 'islands', 'nature', 'historic towns', 'road trip'],
   scheda: {
     documenti:
-      "European Union and, since 2023, Schengen area: Italian citizens only need an ID card valid for travel abroad. To cross into Bosnia or Montenegro you need a document valid for travel abroad and, with a rental car, the rental company's authorization and the green card.",
+      "European Union and, since 2023, Schengen area: Italian citizens only need an electronic ID card (CIE). To cross into Bosnia or Montenegro you need a document valid for travel abroad and, with a rental car, the rental company's authorization and the green card.",
     valuta: "Euro since January 1, 2023.",
     pagamenti:
       "Cards and contactless accepted almost everywhere. Cash is useful for small bars on the islands, markets and guesthouses. Avoid independent ATMs with high fees and decline conversion into your home currency.",

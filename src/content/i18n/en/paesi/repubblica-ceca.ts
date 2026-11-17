@@ -16,7 +16,7 @@ export const repubblicaCeca: Paese = {
   stileViaggio: ['città', 'storia', 'architettura', 'gastronomia'],
   scheda: {
     documenti:
-      "The Czech Republic is in the European Union and the Schengen Area: Italian citizens only need a national ID card valid for travel abroad (or a passport), with no formalities for tourist stays under three months.",
+      "The Czech Republic is in the European Union and the Schengen Area: Italian citizens only need an electronic ID card (CIE) or a passport, with no formalities for tourist stays under three months.",
     valuta:
       "Czech koruna (CZK), not the euro. It's the most common surprise for those who assume \"European Union\" means euro: the Czech Republic is not in the eurozone and has no set date to join, so you pay in koruna everywhere. Some tourist venues around Old Town Square display prices \"converted\" to euros at an often unfavorable rate: better to always pay in CZK.",
     pagamenti:

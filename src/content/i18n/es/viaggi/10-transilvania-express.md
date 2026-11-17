@@ -13,7 +13,7 @@ El recuerdo más fuerte de este viaje es la Transfăgărășan. El foliage nos a
 
 ## Scheda pratica
 - **Cuándo ir:** clima frío, a menudo lluvioso o nevado, «perfecto para entrar en el mood Transilvania», como dice el Vade Mecum oficial. El tiempo puede hacer cambiar el itinerario sobre la marcha, sobre todo por la Transfăgărășan (ver más abajo).
-- **Documentos/visado:** a los ciudadanos italianos les basta el documento de identidad o el pasaporte en vigor, sin visado. Rumanía está en el espacio Schengen desde 2024, pero sigue fuera del euro.
+- **Documentos/visado:** a los ciudadanos italianos les basta el documento de identidad electrónico (CIE) o el pasaporte en vigor, sin visado. Rumanía está en el espacio Schengen desde 2024, pero sigue fuera del euro.
 - **Carné de conducir:** el italiano es válido, sin conversiones ni permisos internacionales.
 - **Presupuesto indicativo:** un presupuesto inicial recomendado de 80-90 €, que se guarda en efectivo (en lei) desde los primeros días para las actividades organizadas, más un gasto medio personal de 120-150 € (más si se añade la media jornada en las Termas el último día).
 - **Cómo me moví:** coche de alquiler self-drive durante todo el viaje (recogida y devolución en Bucarest en Avis, Gran Hotel Bucuresti), Uber/Bolt/taxi para los desplazamientos por la ciudad.

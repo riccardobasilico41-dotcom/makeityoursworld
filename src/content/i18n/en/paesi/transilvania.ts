@@ -14,7 +14,7 @@ export const transilvania: Paese = {
   budgetIndicativo: 'about €80-90 in shared funds, plus €120-150 of average personal spending',
   scheda: {
     documenti:
-      "Romania is in the European Union and, since January 1, 2025, is a full member of the Schengen area at land borders too: Italian citizens only need an ID card valid for travel abroad. The Italian driving license is valid with no conversion or international permit.",
+      "Romania is in the European Union and, since January 1, 2025, is a full member of the Schengen area at land borders too: Italian citizens only need an electronic ID card (CIE). The Italian driving license is valid with no conversion or international permit.",
     valuta: "Romanian leu (RON): unlike neighboring Bulgaria, Romania has not adopted the euro. Approximate exchange rate €1 = 5 RON.",
     pagamenti:
       "Cards work in tourist centers, but you need cash in lei for local guides, smaller traditional restaurants and entrances payable only on site. It is better to withdraw 500-700 lei from a single ATM at the start of the trip, rather than making many withdrawals with fees.",

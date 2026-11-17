@@ -12,7 +12,7 @@ export const costaRica: Paese = {
   budgetIndicativo: 'unos 250 € por cabeza de actividades extra, además de vuelos y alojamiento',
   scheda: {
     documenti:
-      'Pasaporte con al menos 30 días de validez restante desde la entrada (muchas fuentes aconsejan de todos modos 6 meses). Sin visado para turismo hasta 180 días para los ciudadanos italianos. El billete de salida del país es una condición de entrada y en el aeropuerto lo comprueban siempre: hay que reservarlo antes de embarcar.',
+      'Pasaporte con al menos 90 días de validez restante desde la entrada (mejor 6 meses). Sin visado para turismo hasta 180 días para los ciudadanos italianos. El billete de salida del país es una condición de entrada y en el aeropuerto lo comprueban siempre: hay que reservarlo antes de embarcar.',
     valuta:
       'Colón costarricense (CRC), orientativamente 1 € = 600 CRC. El dólar estadounidense funciona como moneda paralela y se acepta casi en todas partes. Los bancos cambian euros pero a tipos penalizadores: conviene llegar con dólares o sacar dinero allí.',
     pagamenti:

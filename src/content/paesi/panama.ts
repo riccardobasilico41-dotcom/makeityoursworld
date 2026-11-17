@@ -20,7 +20,7 @@ export const panama: Paese = {
     'costi medi per la regione, più alti a San Blas per via della logistica: transfer 4x4 + barca 40-60$ a tratta, notti in cabaña sulle isole 60-150$ a persona con pasti inclusi',
   scheda: {
     documenti:
-      'Passaporto in corso di validità (consigliati almeno 6 mesi residui); nessun visto per soggiorni turistici fino a 90 giorni per i cittadini italiani. All\'ingresso possono essere richiesti il biglietto di uscita dal paese e la prova di fondi sufficienti.',
+      'Passaporto con almeno 3 mesi di validità residua all\'arrivo (meglio 6); nessun visto per soggiorni turistici fino a 90 giorni per i cittadini italiani. All\'ingresso possono essere richiesti il biglietto di uscita dal paese e la prova di fondi sufficienti.',
     valuta:
       'Il balboa (PAB) è agganciato 1:1 al dollaro USA ed esiste solo in monete: nella pratica si paga in banconote americane. Per la valuta è il paese più semplice della regione: si arriva con i dollari e non serve cambiare nulla.',
     pagamenti:

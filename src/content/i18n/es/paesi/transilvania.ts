@@ -14,7 +14,7 @@ export const transilvania: Paese = {
   budgetIndicativo: 'unos 80-90 € de caja común, más 120-150 € de gasto medio personal',
   scheda: {
     documenti:
-      'Rumanía forma parte de la Unión Europea y, desde el 1 de enero de 2025, es miembro de pleno derecho del espacio Schengen también en las fronteras terrestres: a los ciudadanos italianos les basta el documento de identidad válido para la expatriación. El carné de conducir italiano es válido sin conversiones ni permisos internacionales.',
+      'Rumanía forma parte de la Unión Europea y, desde el 1 de enero de 2025, es miembro de pleno derecho del espacio Schengen también en las fronteras terrestres: a los ciudadanos italianos les basta el documento de identidad electrónico (CIE). El carné de conducir italiano es válido sin conversiones ni permisos internacionales.',
     valuta: 'Leu rumano (RON): a diferencia de la vecina Bulgaria, Rumanía no ha adoptado el euro. Cambio indicativo 1 € = 5 RON.',
     pagamenti:
       'Las tarjetas funcionan en los centros turísticos, pero hace falta efectivo en lei para guías locales, restaurantes típicos más pequeños y entradas que solo se pagan en el sitio. Conviene sacar 500-700 lei en un único cajero al inicio del viaje, en lugar de hacer muchas retiradas con comisión.',

@@ -13,7 +13,7 @@ Il ricordo più forte di questo viaggio è la Transfăgărășan. Il foliage acc
 
 ## Scheda pratica
 - **Quando andare:** clima freddo, spesso piovoso o nevoso, «perfetto per entrare nel mood Transilvania», come dice il Vade Mecum ufficiale. Il meteo può far cambiare l'itinerario in corsa, soprattutto per la Transfăgărășan (vedi sotto).
-- **Documenti/visto:** ai cittadini italiani basta la carta d'identità o il passaporto in corso di validità, senza visto. La Romania è in area Schengen dal 2024, ma resta fuori dall'euro.
+- **Documenti/visto:** ai cittadini italiani basta la carta d'identità elettronica (CIE) o il passaporto in corso di validità, senza visto. La Romania è in area Schengen dal 2024, ma resta fuori dall'euro.
 - **Patente:** quella italiana è valida, senza conversioni né permessi internazionali.
 - **Budget indicativo:** un budget iniziale consigliato di 80-90 €, da tenere da parte in contanti (in lei) fin dai primi giorni per le attività organizzate, più una spesa media personale di 120-150 € (di più se si aggiunge la mezza giornata alle Terme l'ultimo giorno).
 - **Come mi sono mosso:** auto a noleggio self-drive per tutto il viaggio (ritiro e riconsegna a Bucarest presso Avis, Gran Hotel Bucuresti), Uber/Bolt/taxi negli spostamenti in città.

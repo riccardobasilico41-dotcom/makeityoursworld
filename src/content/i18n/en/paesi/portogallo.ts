@@ -16,7 +16,7 @@ export const portogallo: Paese = {
   stileViaggio: ['città', 'storia', 'mare', 'gastronomia'],
   scheda: {
     documenti:
-      "Portugal is in the European Union and the Schengen Area: Italian citizens only need a national ID card valid for travel abroad (or a passport), with no formalities for tourist stays under three months.",
+      "Portugal is in the European Union and the Schengen Area: Italian citizens only need an electronic ID card (CIE) or a passport, with no formalities for tourist stays under three months.",
     valuta:
       "Euro (€), same as in Italy: no need to exchange money.",
     pagamenti:

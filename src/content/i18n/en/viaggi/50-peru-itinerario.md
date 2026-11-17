@@ -15,7 +15,7 @@ I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaky, a 
 
 ## Scheda pratica
 - **When to go:** this itinerary follows the Andean dry season, **May to September**, which covers both Part 1 (Cusco, Sacred Valley, Titicaca, Arequipa) and the Cordillera Blanca in Part 2. Outside this window the high-altitude trails become muddy or impassable, and in February the Inca Trail closes completely for maintenance. The Amazon has no real dry season: the May-October window (low water) only makes the trails more passable and wildlife easier to spot along the rivers.
-- **Documents:** passport valid for at least 6 months. No visa for Italian citizens on tourist stays of up to 183 days.
+- **Documents:** passport valid for at least 6 months. No visa for Italian citizens on tourist stays of up to 90 days (out of 183).
 - **Currency:** nuevo sol (PEN), to be exchanged at the airport, at a bank or at an authorized casa de cambio; US dollars are accepted in many tourist settings. Always keep small bills: change for large notes is a recurring problem, especially outside the cities.
 - **Payments:** cards accepted in Lima, Cusco and tourist businesses; much less in markets, on the Titicaca boats, in the Sacred Valley villages and in Huaraz. In Puno, the Amazon and Huaraz, arrive with cash already in your pocket.
 - **Connectivity:** Claro, Movistar, Entel and Bitel, with a SIM available at the airport with your passport. Good coverage in cities and along the tourist circuit, absent at the Amazon lodges and on much of the treks (especially toward Choquequirao, but on Santa Cruz and Laguna 69 too the signal is poor or nonexistent).
