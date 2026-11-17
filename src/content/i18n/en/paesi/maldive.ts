@@ -39,6 +39,21 @@ export const maldive: Paese = {
       'Friday is the day off: shops close in the middle of the day for prayer and there are no ferries on the long routes. During Ramadan (in 2027 roughly from February 8 to March 9) many places on the local islands close during the day. Independence Day is July 26.',
     emergenze:
       "Police 119, ambulance 102, coast guard 191. Italy has no resident embassy in the Maldives: the Italian Embassy in Colombo (Sri Lanka) is responsible. Before leaving it's worth registering on Dove Siamo nel Mondo.",
+    primaDiPartire: {
+      documento: 'An e-passport is required, valid 30 days beyond your return (UK: 1 month after arrival); 6 months is safer if you have connecting flights.',
+      visto: '30-day tourist visa on arrival, extendable to 90; you need a confirmed hotel booking. Complete the free IMUGA declaration online within 96 hours of arrival.',
+      vaccini: 'None required, except yellow fever if arriving from a risk area (including layovers over 12 hours). Recommended: hepatitis A and B, typhoid; for some, rabies.',
+      pagamenti: 'Bring US dollars; euros are accepted in resorts and hotels. Visa and Mastercard are the most widely used cards.',
+      lingua: 'Dhivehi; English and Arabic are also commonly spoken.',
+      frasi: [
+        { frase: 'Assalaamu alaikum', pronuncia: 'as-sa-LAH-moo a-LAY-koom', significato: 'Hello (literally: peace be upon you)' },
+        { frase: 'Shukuriyya', pronuncia: 'shoo-koo-REE-ya', significato: 'Thank you' },
+        { frase: 'Ma\'aaf kurey', pronuncia: 'mah-AHF koo-RAY', significato: 'Excuse me, sorry' },
+        { frase: 'Mi kihaa vareh agu?', pronuncia: 'mee kee-HAA va-reh AH-goo', significato: 'How much is this?' },
+        { frase: 'Barabaru', pronuncia: 'ba-ra-BAH-roo', significato: 'Fine, all good' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/maldives',
+    },
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['mare', 'snorkeling', 'immersioni', 'isole locali', 'resort'],

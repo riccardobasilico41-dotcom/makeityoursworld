@@ -35,6 +35,22 @@ export const canada: Paese = {
     festivita:
       'Canada Day el 1 de julio, la fiesta de Quebec el 24 de junio, Thanksgiving canadiense el segundo lunes de octubre: alojamientos llenos y precios más altos.',
     emergenze: 'Número único 911. Embajada de Italia en Ottawa, Consulados Generales en Toronto y Montreal.',
+    primaDiPartire: {
+      documento: 'Pasaporte válido durante toda la estancia.',
+      visto: 'Sin visado hasta 6 meses; en avión, también en tránsito, hace falta la eTA: 7 CAD, vale 5 años o hasta que caduque el pasaporte. Por tierra o mar no. EE. UU.: sin eTA.',
+      vaccini: 'Ninguna obligatoria. Recomendadas las de rutina (incluido sarampión), hepatitis B y hepatitis A si vas a zonas rurales.',
+      pagamenti: 'Con tarjeta de crédito o débito extranjera se saca dinero en los cajeros; en los aeropuertos hay oficinas de cambio.',
+      mance: 'Lo habitual es dejar el 15 % de la cuenta en restaurantes, bares, taxis y hoteles.',
+      lingua: 'Inglés y francés son oficiales; en Quebec predomina el francés.',
+      frasi: [
+        { frase: 'Hello', pronuncia: 'jeló', significato: 'Hola' },
+        { frase: 'Thank you', pronuncia: 'zénk iu', significato: 'Gracias' },
+        { frase: 'Please', pronuncia: 'plíis', significato: 'Por favor' },
+        { frase: 'Excuse me', pronuncia: 'ekskiús mi', significato: 'Disculpe, perdone' },
+        { frase: 'How much is it?', pronuncia: 'jáu mach is it', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   stileViaggio: ['road trip', 'città', 'cascate', 'natura', 'balene'],

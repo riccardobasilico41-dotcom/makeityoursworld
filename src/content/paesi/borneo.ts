@@ -46,6 +46,23 @@ export const borneo: Paese = {
     festivita:
       'Oltre alle feste malesi, il Borneo ha le sue: il Kaamatan in Sabah (maggio) e il Gawai Dayak in Sarawak (inizio giugno), feste del raccolto delle comunità indigene, con giorni di celebrazioni nei villaggi. Sono i momenti più interessanti dell\'anno per venire qui, e anche quelli in cui trasporti e alloggi si riempiono.',
     emergenze: 'Polizia e ambulanza 999. Il Consolato italiano più vicino è a Kuala Lumpur: in caso di emergenza dal Borneo si passa comunque da lì.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità residua dall\'ingresso, integro: i controlli sono severi e non ammettono eccezioni.',
+      visto: 'Nessun visto fino a 90 giorni, MDAC obbligatoria. Sabah e Sarawak hanno un controllo immigrazione proprio: anche dalla penisola si passa il controllo, col passaporto.',
+      vaccini: 'Febbre gialla obbligatoria da 1 anno in su se si arriva da paesi a rischio. Consigliate: epatite A e B, tifo. Nelle foreste c\'è malaria da P. knowlesi: profilassi col medico.',
+      prese: 'Prese britanniche a tre poli rettangolari (tipo G): per le spine italiane serve un adattatore.',
+      sim: 'La SIM prepagata va registrata di persona col passaporto originale prima dell\'attivazione.',
+      pagamenti: 'Cambio facile in città, in banca e dai cambiavalute autorizzati. Solo alcuni bancomat accettano carte estere.',
+      lingua: 'Malese (bahasa melayu).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-là-mat pà-ghi', significato: 'Buongiorno' },
+        { frase: 'Terima kasih', pronuncia: 'te-rì-ma kà-sih', significato: 'Grazie' },
+        { frase: 'Tolong', pronuncia: 'tò-long', significato: 'Per favore (quando si chiede qualcosa)' },
+        { frase: 'Maaf', pronuncia: 'ma-àf', significato: 'Mi scusi' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rà-pa har-gà-nia', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/MYS',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Le guglie di granito di Donkey Ears e del Tunku Abdul Rahman sulla vetta del Monte Kinabalu, Sabah',

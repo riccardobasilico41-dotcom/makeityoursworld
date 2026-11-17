@@ -38,6 +38,23 @@ export const malesia: Paese = {
     festivita:
       "El país sigue varios calendarios a la vez, y es una virtud: el Año Nuevo chino (enero-febrero), el Deepavali hindú (octubre-noviembre) y el Hari Raya musulmán se celebran todos. Durante el Ramadán muchos locales malayos cierran de día, pero los barrios chinos e indios siguen abiertos como siempre, y los bazares nocturnos del Ramadán son uno de los mejores momentos gastronómicos del año. En los días de Hari Raya y de Año Nuevo chino los transportes son asaltados y muchas actividades cierran durante días.",
     emergenze: 'Policía y ambulancia 999. La Embajada de Italia está en Kuala Lumpur.',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez desde la entrada y en buen estado: los controles son estrictos y sin excepciones.',
+      visto: 'Sin visado para turismo hasta 90 días. Obligatoria la MDAC en línea en los 3 días antes de llegar. Reino Unido: igual.',
+      vaccini: 'Fiebre amarilla obligatoria desde 1 año si se llega de países de riesgo (también tránsitos de más de 12 horas). Recomendadas: hepatitis A y B, tifoidea.',
+      prese: 'Enchufes británicos de tres patas rectangulares (tipo G): para los enchufes españoles hace falta adaptador.',
+      sim: 'La SIM prepago se registra en persona con el pasaporte original antes de activarla.',
+      pagamenti: 'Es fácil cambiar dinero en las ciudades, en bancos y casas de cambio autorizadas. Solo algunos cajeros aceptan tarjetas extranjeras.',
+      lingua: 'Malayo (bahasa melayu).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-lá-mat pá-gui', significato: 'Buenos días' },
+        { frase: 'Terima kasih', pronuncia: 'te-rí-ma ká-sij', significato: 'Gracias' },
+        { frase: 'Tolong', pronuncia: 'tó-long', significato: 'Por favor (al pedir algo)' },
+        { frase: 'Maaf', pronuncia: 'ma-áf', significato: 'Perdone, disculpe' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rá-pa har-gá-ña', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Malasia',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'Las Torres Petronas iluminadas de noche con el puente colgante entre las dos torres, Kuala Lumpur',

@@ -52,6 +52,26 @@ import { consiglioHawkerSingapore } from './singapore-hawker-centre'
 import { consiglioRooftopSingapore } from './singapore-rooftop-bar'
 import { consiglioSoukMarrakech } from './souk-di-marrakech'
 import { consiglioTokyoDiSera } from './tokyo-di-sera'
+import { consiglioBaliOThailandia } from './bali-o-thailandia'
+import { consiglioDoveAndareDicembre } from './dove-andare-a-dicembre'
+import { consiglioDoveAndareFebbraio } from './dove-andare-a-febbraio'
+import { consiglioDoveAndareGennaio } from './dove-andare-a-gennaio'
+import { consiglioDoveAndareGiugno } from './dove-andare-a-giugno'
+import { consiglioDoveAndareLuglio } from './dove-andare-a-luglio'
+import { consiglioDoveAndareMaggio } from './dove-andare-a-maggio'
+import { consiglioDoveAndareMarzo } from './dove-andare-a-marzo'
+import { consiglioDoveAndareNovembre } from './dove-andare-a-novembre'
+import { consiglioDoveAndareOttobre } from './dove-andare-a-ottobre'
+import { consiglioDoveAndareSettembre } from './dove-andare-a-settembre'
+import { consiglioDoveAndareAgosto } from './dove-andare-ad-agosto'
+import { consiglioDoveAndareAprile } from './dove-andare-ad-aprile'
+import { consiglioGiapponeOCorea } from './giappone-o-corea-del-sud'
+import { consiglioIslandaONorvegia } from './islanda-o-norvegia'
+import { consiglioMaroccoOGiordania } from './marocco-o-giordania'
+import { consiglioMessicoOCostaRica } from './messico-o-costa-rica'
+import { consiglioPeruOBolivia } from './peru-o-bolivia'
+import { consiglioPortogalloOSpagnaNord } from './portogallo-o-spagna-del-nord'
+import { consiglioSriLankaOMaldive } from './sri-lanka-o-maldive'
 
 /** Registro degli articoli «Consigli» (generato da tools/indice-consigli.mjs). */
 export const CONSIGLI: Consiglio[] = [
@@ -108,4 +128,24 @@ export const CONSIGLI: Consiglio[] = [
   consiglioRooftopSingapore,
   consiglioSoukMarrakech,
   consiglioTokyoDiSera,
+  consiglioBaliOThailandia,
+  consiglioDoveAndareDicembre,
+  consiglioDoveAndareFebbraio,
+  consiglioDoveAndareGennaio,
+  consiglioDoveAndareGiugno,
+  consiglioDoveAndareLuglio,
+  consiglioDoveAndareMaggio,
+  consiglioDoveAndareMarzo,
+  consiglioDoveAndareNovembre,
+  consiglioDoveAndareOttobre,
+  consiglioDoveAndareSettembre,
+  consiglioDoveAndareAgosto,
+  consiglioDoveAndareAprile,
+  consiglioGiapponeOCorea,
+  consiglioIslandaONorvegia,
+  consiglioMaroccoOGiordania,
+  consiglioMessicoOCostaRica,
+  consiglioPeruOBolivia,
+  consiglioPortogalloOSpagnaNord,
+  consiglioSriLankaOMaldive,
 ]

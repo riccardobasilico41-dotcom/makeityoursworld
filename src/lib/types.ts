@@ -33,8 +33,30 @@ export type SchedaPaese = {
   clima: string
   festivita?: string
   emergenze?: string
+  /** Riquadro compatto «Prima di partire»: una o due righe per voce, solo dati verificati. */
+  primaDiPartire?: PrimaDiPartire
   /** Mese e anno in cui la scheda è stata verificata (es. "settembre 2026"). */
   aggiornatoAl: string
+}
+
+/**
+ * I promemoria brevi di «Prima di partire» (EN «Before you go», ES «Antes de viajar»), per chi
+ * viaggia con passaporto italiano/UE, con le note per UK e USA dove le regole cambiano. Ogni voce
+ * è facoltativa: quella che non si è potuta verificare su fonti ufficiali resta fuori.
+ */
+export type PrimaDiPartire = {
+  documento?: string
+  visto?: string
+  vaccini?: string
+  prese?: string
+  sim?: string
+  pagamenti?: string
+  mance?: string
+  lingua?: string
+  /** Cinque frasi utili con la pronuncia scritta per chi legge in questa lingua. */
+  frasi?: { frase: string; pronuncia: string; significato: string }[]
+  /** Pagina ufficiale degli avvisi di viaggio per i lettori di questa lingua (viaggiaresicuri.it, gov.uk, exteriores.gob.es). */
+  avvisi?: string
 }
 
 export type Paese = {
@@ -322,4 +344,22 @@ export type Meraviglia = {
   verificataIl?: string
   /** 'verificata': ogni dato pratico rimasto ha una fonte; 'parziale': alcuni dati sono stati resi generici o rimandano al sito ufficiale. */
   statoVerifica?: 'verificata' | 'parziale'
+  /** Guida completa (come le destinazioni arricchite). Tutti opzionali: la pagina mostra solo ciò che c'è. */
+  /** Luoghi da vedere dentro e intorno alla meraviglia, con orari, prezzi e coordinate (mappa). */
+  luoghi?: LuogoGuida[]
+  /** Programmi di visita: mezza giornata, 1 giorno, 2 giorni… */
+  programmi?: { titolo: string; tappe: string[] }[]
+  /** Tabella biglietti: tipo, prezzo in valuta locale con «circa X €», cosa include, dove si compra. */
+  biglietti?: { tipo: string; prezzo: string; include?: string; dove?: string }[]
+  /** Calendario 12 mesi (gennaio = indice 0): voto 1-5, folla, nota breve. Non meteo puro. */
+  mesi?: { voto: 1 | 2 | 3 | 4 | 5; folla?: 'bassa' | 'media' | 'alta'; nota?: string }[]
+  /** Zone dove dormire; `fascia` solo con una fonte concreta. */
+  zone?: { nome: string; perChi: string; testo: string; fascia?: string }[]
+  /** Gite nei dintorni; `link` facoltativo a una destinazione del sito (percorso italiano canonico). */
+  gite?: { nome: string; distanza: string; come: string; testo: string; link?: string }[]
+  faq?: { domanda: string; risposta: string }[]
+  /** Galleria (4-6 foto libere o di Rick), percorsi in /public, con credito nelle mappe dei crediti. */
+  galleria?: { src: string; alt: string }[]
+  /** Destinazione del sito collegata, es. 'cina/pechino'. */
+  destinazione?: string
 }

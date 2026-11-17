@@ -34,6 +34,23 @@ export const messico: Paese = {
     festivita:
       "Between late October and early November the Hanal Pixán is celebrated, the Maya version of the Día de los Muertos, with altars and traditional dinners in several Yucatán communities. It's much less touristy than the celebrations in the capital.",
     emergenze: 'Single number 911. The Italian Embassy is in Mexico City, with honorary consulates in several cities including Cancún.',
+    primaDiPartire: {
+      documento: 'EU citizens: passport valid at least 6 months on arrival. UK: valid for your stay (180 days advised). Keep your accommodation and onward flight bookings handy.',
+      visto: 'No visa for tourism up to 180 days; the border officer sets your length of stay. Quintana Roo (Cancún, Tulum) charges the Visitax, US$20.99 per person, paid online.',
+      vaccini: 'None required. Recommended: hepatitis A and B, typhoid and routine vaccines, including measles.',
+      prese: '110 V, 60 Hz, US-style flat-pin sockets: bring an adapter, as they\'re hard to find locally.',
+      pagamenti: 'Carry just the cash you need for the day plus a credit card, and use cash machines when needed; always ask for a receipt.',
+      mance: 'Tip 10-15% in restaurants, bars and food stalls, and a few coins to porters, taxi drivers and cleaning staff.',
+      lingua: 'Spanish, plus many indigenous languages such as Nahuatl and Maya.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'OH-lah', significato: 'Hello' },
+        { frase: 'Gracias', pronuncia: 'GRAH-see-ahs', significato: 'Thank you' },
+        { frase: 'Por favor', pronuncia: 'por fah-VOR', significato: 'Please' },
+        { frase: 'Disculpe', pronuncia: 'dees-KOOL-peh', significato: 'Excuse me, sorry' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'KWAHN-toh KWEHS-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/mexico',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['sea', 'nature', 'culture', 'nightlife'],

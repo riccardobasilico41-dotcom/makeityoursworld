@@ -18,6 +18,7 @@ import { BinarioCard } from '@/components/BinarioCard'
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { CountrySheet } from '@/components/CountrySheet'
+import { PrimaDiPartire } from '@/components/scheda/PrimaDiPartire'
 import { FaqPaese } from '@/components/FaqPaese'
 import { MappaPaeseSezione } from '@/components/MappaPaeseSezione'
 import { JsonLd } from '@/components/JsonLd'
@@ -423,7 +424,10 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
             }
           />
           {paese.scheda ? (
-            <CountrySheet scheda={paese.scheda} />
+            <>
+              <PrimaDiPartire dati={paese.scheda.primaDiPartire} />
+              <CountrySheet scheda={paese.scheda} />
+            </>
           ) : (
             <>
               <PracticalInfo

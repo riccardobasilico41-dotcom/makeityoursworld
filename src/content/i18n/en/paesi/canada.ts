@@ -35,6 +35,15 @@ export const canada: Paese = {
     festivita:
       "Canada Day on July 1, Québec's holiday on June 24, Canadian Thanksgiving on the second Monday of October: lodging full and prices higher.",
     emergenze: 'Single number 911. Italian Embassy in Ottawa, Consulates General in Toronto and Montréal.',
+    primaDiPartire: {
+      documento: 'A passport valid for your whole stay.',
+      visto: 'EU and UK: no visa up to 6 months; flying in, even in transit, needs an eTA: CAN$7, valid 5 years or until the passport expires. Not by land or sea. US: no eTA.',
+      vaccini: 'None required. Routine vaccines (including measles) and hepatitis B recommended; hepatitis A if visiting rural areas or eating street food.',
+      pagamenti: 'Foreign debit and credit cards work in cash machines; most airports have exchange offices.',
+      mance: 'The usual tip is 15% of the bill in restaurants, bars, taxis and hotels.',
+      lingua: 'English and French are both official; French is the main language in Quebec.',
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/canada',
+    },
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['road trip', 'cities', 'waterfalls', 'nature', 'whales'],

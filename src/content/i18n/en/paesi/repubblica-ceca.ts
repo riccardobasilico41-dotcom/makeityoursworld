@@ -39,6 +39,23 @@ export const repubblicaCeca: Paese = {
     festivita:
       "In December Old Town Square and Wenceslas Square host two of the best-known Christmas markets in Central Europe, with the crowds that come with them in the evening. October 28 (Independence Day) and July 6 (Jan Hus Day) are among the most deeply felt national holidays.",
     emergenze: "Single European emergency number 112. The Italian Embassy is in Prague.",
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: 90 days in any 180 visa-free, EES on first entry, ETIAS not yet live. Register your address with police within 3 days (hotels do it).',
+      vaccini: 'None required. Recommended: routine vaccines (including measles and whooping cough), hepatitis A and B, tick-borne encephalitis for woods and outdoor activities.',
+      prese: '230 V, the same sockets as France and Germany. UK and US visitors need an adaptor; US devices that aren\'t dual-voltage also need a converter.',
+      sim: 'EU plans roam at home rates. Prepaid SIMs from O2, Vodafone, T-Mobile and U:fon; your phone must be unlocked.',
+      pagamenti: 'Czech koruna, not the euro. Check rates carefully at the many city-centre exchange offices; where you can, change money at a bank.',
+      lingua: 'Czech.',
+      frasi: [
+        { frase: 'Dobrý den', pronuncia: 'DOB-ree den', significato: 'Good day, hello' },
+        { frase: 'Děkuji', pronuncia: 'DYEH-koo-yih', significato: 'Thank you' },
+        { frase: 'Prosím', pronuncia: 'PROH-seem', significato: 'Please, you\'re welcome' },
+        { frase: 'Promiňte', pronuncia: 'PROH-meen-teh', significato: 'Excuse me, sorry' },
+        { frase: 'Kolik to stojí?', pronuncia: 'KOH-lik toh STOH-yee', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/czech-republic',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: "Old Town Square in Prague with the two Gothic spires of the Church of Our Lady before Týn and the Kinský Palace on a sunny day",

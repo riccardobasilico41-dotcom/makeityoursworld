@@ -40,6 +40,23 @@ export const borneo: Paese = {
     festivita:
       "Besides the Malaysian holidays, Borneo has its own: Kaamatan in Sabah (May) and Gawai Dayak in Sarawak (early June), harvest festivals of the indigenous communities, with days of celebrations in the villages. They're the most interesting times of the year to come here, and also when transport and lodging fill up.",
     emergenze: "Police and ambulance 999. The nearest Italian consulate is in Kuala Lumpur: in an emergency from Borneo you go through there anyway.",
+    primaDiPartire: {
+      documento: 'Passport with at least 6 months\' validity from arrival and undamaged: checks are strict and allow no exceptions.',
+      visto: 'No visa up to 90 days; MDAC required. Sabah and Sarawak have their own immigration control: even from Peninsular Malaysia you clear immigration with your passport.',
+      vaccini: 'Yellow fever certificate required from age 1 if arriving from a risk country. Recommended: hepatitis A and B, typhoid. P. knowlesi malaria in rural forests: ask about tablets.',
+      prese: 'British three-pin sockets (type G): UK plugs fit, European plugs need an adapter.',
+      sim: 'Prepaid SIMs must be registered in person with your original passport before activation.',
+      pagamenti: 'Easy to exchange money in cities, at banks and money changers. Only some ATMs accept foreign cards.',
+      lingua: 'Malay (Bahasa Melayu).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'seh-LAH-mat PAH-gee', significato: 'Good morning' },
+        { frase: 'Terima kasih', pronuncia: 'teh-REE-mah KAH-seh', significato: 'Thank you' },
+        { frase: 'Tolong', pronuncia: 'TOH-long', significato: 'Please (when asking for something)' },
+        { frase: 'Maaf', pronuncia: 'mah-AHF', significato: 'Sorry, excuse me' },
+        { frase: 'Berapa harganya?', pronuncia: 'beh-RAH-pah har-GAH-nyah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/malaysia',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: "The granite spires of Donkey Ears and Tunku Abdul Rahman at the summit of Mount Kinabalu, Sabah",

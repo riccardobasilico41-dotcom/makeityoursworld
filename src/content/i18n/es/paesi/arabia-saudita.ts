@@ -39,6 +39,21 @@ export const arabiaSaudita: Paese = {
     festivita:
       "Aquí el **Ramadán** es más estricto que en el resto del Golfo: de día casi todo cierra, comer y beber en público a la luz del sol está prohibido para todos, también para los no musulmanes, y la vida se traslada a la noche. En los días de **Eid al-Fitr** y **Eid al-Adha** el país se para y los transportes se desbordan. Durante el Hach, masas enormes de personas se desplazan hacia el oeste del país y los precios suben. La Fiesta Nacional es el 23 de septiembre; la de la Fundación, el 22 de febrero.",
     emergenze: "Policía 999, ambulancia 997, bomberos 998; en las ciudades principales también está activo el número único 911. La Embajada de Italia está en Riad, y en Yeda hay un Consulado General.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez desde la llegada.',
+      visto: 'Visado turístico electrónico en visa.visitsaudi.com, con seguro médico incluido: vale un año, hasta 90 días. Gratis el visado stopover de 4 días volando con Saudia o flynas.',
+      vaccini: 'Fiebre amarilla solo si llegas de un país de riesgo. Umrah y Hajj exigen la vacuna meningocócica ACWY. Recomendada la tifoidea; para algunos, hepatitis A y B y rabia.',
+      pagamenti: 'Sistema bancario de nivel occidental: Visa, Mastercard, American Express y Diners son las tarjetas más usadas. El riyal se cambia en bancos y casas de cambio.',
+      lingua: 'Árabe; en los servicios turísticos también se usa el inglés.',
+      frasi: [
+        { frase: 'As-salamu alaykum', pronuncia: 'as-sa-LÁ-mu a-LÁI-kum', significato: 'Saludo: la paz sea contigo' },
+        { frase: 'Shukran', pronuncia: 'SHÚK-ran', significato: 'Gracias' },
+        { frase: 'Min fadlak', pronuncia: 'min FÁD-lak', significato: 'Por favor (a un hombre; a una mujer: min fadlik)' },
+        { frase: 'Law samaht', pronuncia: 'lau sa-MAJT', significato: 'Disculpe, con permiso' },
+        { frase: 'Bikam?', pronuncia: 'BÍ-kam', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'Las casas históricas de piedra coralina con ventanas de celosía de madera en el barrio de Al-Balad, Yeda',

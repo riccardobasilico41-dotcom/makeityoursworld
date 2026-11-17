@@ -39,6 +39,14 @@ export const belize: Paese = {
       "Garifuna Settlement Day, on November 19, is the most heartfelt holiday on the southern coast (Dangriga, Hopkins) and celebrates the arrival of the Garifuna people. In September the September Celebrations, between the 10th (Battle of St. George's Caye) and the 21st (independence), involve the whole country.",
     emergenze:
       "Single number 911. In Belize there is no resident Italian diplomatic mission: consular assistance falls to the office responsible for the area, which is worth checking on Viaggiare Sicuri before leaving.",
+    primaDiPartire: {
+      documento: 'EU citizens: passport valid at least 6 months on arrival. UK: over 3 months, though some airlines ask for 6.',
+      visto: 'No visa for tourist stays up to 30 days, with a return ticket and enough money for your stay. Leaving by land or sea costs BZ$40 (US$20) in departure tax.',
+      vaccini: 'Yellow fever certificate only if arriving from a risk country. Hepatitis A and B recommended; typhoid for rural areas or longer stays.',
+      pagamenti: 'US dollars are accepted almost everywhere at a fixed 1 USD = 2 BZD, so there\'s no need to change money.',
+      lingua: 'English (official) and Spanish.',
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/belize',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'diving', 'grotte', 'cultura maya'],

@@ -44,6 +44,22 @@ export const egitto: Paese = {
       'Durante il Ramadan (indicativamente dall\'8 febbraio al 9 marzo 2027) i siti restano aperti con orari ridotti e molti ristoranti aprono solo dopo il tramonto. Natale, Capodanno e le vacanze di Pasqua europee riempiono crociere e resort.',
     emergenze:
       'Polizia turistica 126, polizia 122, ambulanza 123, vigili del fuoco 180. Ambasciata d\'Italia al Cairo (Garden City), Consolato onorario a Hurghada e a Sharm el-Sheikh.',
+    primaDiPartire: {
+      documento: 'Passaporto con 6 mesi di validità. Solo per turismo basta la carta d\'identità elettronica con oltre 6 mesi residui, più 2 fototessere (no cedolino di proroga).',
+      visto: 'Visto obbligatorio: all\'arrivo in aeroporto, in contanti, o e-visa online. Sotto i 14 giorni nei soli resort del Sinai meridionale basta un timbro valido solo lì.',
+      vaccini: 'Febbre gialla obbligatoria solo se arrivi da un Paese a rischio (anche scali oltre 12 ore). Consigliato il tifo; per alcuni epatite A e B e rabbia.',
+      sim: 'SIM turistiche temporanee di WE, Orange, Vodafone ed Etisalat: serve una copia del passaporto.',
+      pagamenti: 'Carte accettate nelle grandi città e nei luoghi turistici, ma il Paese va ancora molto a contanti (taxi, piccoli negozi). Bancomat delle banche attivi 24 ore su 24.',
+      lingua: 'Arabo. L\'inglese è la lingua straniera più diffusa, poi il francese; a Sharm el-Sheikh si parla molto italiano.',
+      frasi: [
+        { frase: 'Ahlan', pronuncia: 'àh-lan', significato: 'Ciao, benvenuto' },
+        { frase: 'Shukran', pronuncia: 'shùk-ran', significato: 'Grazie' },
+        { frase: 'Min fadlak', pronuncia: 'min fàd-lak', significato: 'Per favore (a un uomo; a una donna: min fadlik)' },
+        { frase: 'Ma\'lesh', pronuncia: 'ma-lèsh', significato: 'Scusa, non fa niente' },
+        { frase: 'Bikam?', pronuncia: 'bì-kam', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/EGY',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['archeologia', 'mare', 'immersioni', 'deserto', 'crociera sul Nilo'],

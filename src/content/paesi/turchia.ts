@@ -40,6 +40,20 @@ export const turchia: Paese = {
     festivita:
       'Durante il Ramadan (indicativamente dall\'8 febbraio al 9 marzo 2027) i musei restano aperti; le due feste religiose nazionali (Ramazan Bayramı e Kurban Bayramı) riempiono bus, voli e località di mare, e tutto richiede più tempo.',
     emergenze: 'Numero unico 112. Ambasciata d\'Italia ad Ankara, Consolato generale a Istanbul, Consolato a Smirne.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica valida per l\'espatrio, integri e con almeno 5 mesi di validità residua. Il passaporto deve avere una pagina libera.',
+      visto: 'Nessun visto per turismo fino a 90 giorni su 180.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: epatite A e B, tifo; per alcuni la rabbia.',
+      lingua: 'Turco.',
+      frasi: [
+        { frase: 'Merhaba', pronuncia: 'mèr-ha-ba', significato: 'Ciao, salve' },
+        { frase: 'Teşekkür ederim', pronuncia: 'te-shek-kǜr e-de-rìm', significato: 'Grazie' },
+        { frase: 'Lütfen', pronuncia: 'lǜt-fen', significato: 'Per favore' },
+        { frase: 'Affedersiniz', pronuncia: 'af-fe-dèr-si-nis', significato: 'Mi scusi' },
+        { frase: 'Ne kadar?', pronuncia: 'ne ka-dàr', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/TUR',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['città', 'cultura', 'archeologia', 'mare', 'road trip'],

@@ -34,6 +34,16 @@ export const messico: Paese = {
     festivita:
       "Entre finales de octubre y principios de noviembre se celebra el Hanal Pixán, la versión maya del Día de Muertos, con altares y cenas tradicionales en varias comunidades de Yucatán. Es mucho menos turístico que las celebraciones de la capital.",
     emergenze: "Número único 911. La Embajada de Italia está en Ciudad de México, con consulados honorarios en varias ciudades, entre ellas Cancún.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez a la llegada. Lleva a mano las reservas de alojamiento y del vuelo de salida.',
+      visto: 'Sin visado por turismo hasta 180 días, pero la duración la decide el agente de frontera. En Quintana Roo (Cancún, Tulum) se paga online la Visitax, 20,99 USD por persona.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: hepatitis A y B, fiebre tifoidea y las de rutina, incluido el sarampión.',
+      prese: '110 V, 60 Hz, enchufes de clavijas planas como en EE. UU.: lleva adaptador desde casa.',
+      pagamenti: 'Mejor llevar el efectivo del día y una tarjeta de crédito, y sacar en cajeros cuando haga falta; pide siempre el recibo.',
+      mance: 'En restaurantes, bares y puestos de comida se deja el 10-15 %; unas monedas a maleteros, taxistas y personal de limpieza.',
+      lingua: 'Español, además de numerosas lenguas indígenas como el náhuatl y el maya.',
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['mare', 'natura', 'cultura', 'nightlife'],

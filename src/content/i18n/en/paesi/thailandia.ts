@@ -33,6 +33,23 @@ export const thailandia: Paese = {
     festivita:
       "Songkran, the Thai New Year (April 13-15), turns the country into a big water fight: wonderful but chaotic, with many services closed. Loi Krathong (November, variable date) is the festival of lanterns and baskets on the water. The Full Moon Party on Koh Phangan, on the other hand, follows the lunar calendar, with dates published a year in advance.",
     emergenze: 'Police 191, tourist police 1155 (speaks English), ambulance 1669. The Italian Embassy is in Bangkok.',
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months from entry, in good condition, with two blank pages: a damaged passport can get you refused entry.',
+      visto: 'Visa-free for tourism up to 30 days (from 15 September 2026), extendable by 30 days locally. You need onward travel and the online TDAC within 72 hours of arrival.',
+      vaccini: 'None required, except yellow fever if arriving from a risk country. Recommended: hepatitis A and B, typhoid; for some, Japanese encephalitis and rabies.',
+      prese: '220 V; sockets take European type C and F plugs, so EU plugs fit. UK type G plugs need an adapter.',
+      sim: 'Buy a local SIM or pocket Wi-Fi on arrival; 3G and 4G coverage is good in cities and most rural areas.',
+      pagamenti: 'Card cloning is common, even in shopping centres, so watch your card. At entry you may be asked for cash funds: 20,000 THB per person (UK citizens: 10,000).',
+      lingua: 'Thai. English is only partly spoken, in Bangkok and the main tourist areas.',
+      frasi: [
+        { frase: 'Sawatdee khrap / kha', pronuncia: 'sa-wat-DEE krap / kah', significato: 'Hello (khrap if you are a man, kha if you are a woman)' },
+        { frase: 'Khop khun khrap / kha', pronuncia: 'kop-KOON krap / kah', significato: 'Thank you' },
+        { frase: 'Kho thot', pronuncia: 'kor-TOHT', significato: 'Excuse me, sorry' },
+        { frase: 'Tao rai?', pronuncia: 'tow-RAI', significato: 'How much is it?' },
+        { frase: 'Mai pen rai', pronuncia: 'my-pen-RAI', significato: 'Never mind, no problem' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/thailand',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['sea', 'jungle', 'food', 'islands'],

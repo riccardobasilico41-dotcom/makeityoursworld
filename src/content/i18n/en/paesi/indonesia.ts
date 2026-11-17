@@ -38,6 +38,23 @@ export const indonesia: Paese = {
     festivita:
       "Nyepi, the Balinese New Year (March, variable date), is the \"day of silence\": in Bali all activity stops for 24 hours, the airport closes and you can't leave your lodging. It has to be known in advance, because it can block an itinerary.",
     emergenze: "Single emergency number 112. The Italian Embassy is in Jakarta, with an honorary consulate in Denpasar (Bali).",
+    primaDiPartire: {
+      documento: 'Passport with at least 6 months\' validity on arrival, 2 blank pages and in perfect condition: tears or loose pages can mean refused entry.',
+      visto: 'Visa on arrival (e-VOA) for 30 days, 500,000 IDR, extendable once; apply online a week ahead. Free All Indonesia declaration within 72 hours before arrival.',
+      vaccini: 'Yellow fever certificate required from 9 months if arriving from a risk country. Recommended: hepatitis A and B, typhoid. Malaria in the east (Komodo too) and rural areas.',
+      prese: '230V, 50Hz, type C and F sockets (European two-pin): UK plugs need an adapter.',
+      sim: 'SIMs are sold at operator booths in airports and are registered with your passport.',
+      pagamenti: 'Cards accepted in tourist places, and app and contactless payments are common. Euros are hard to change outside tourist areas. Bali: 150,000 IDR tourist levy.',
+      lingua: 'Indonesian (Bahasa Indonesia).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'seh-LAH-mat PAH-gee', significato: 'Good morning' },
+        { frase: 'Terima kasih', pronuncia: 'teh-REE-mah KAH-see', significato: 'Thank you' },
+        { frase: 'Tolong', pronuncia: 'TOH-long', significato: 'Please (when asking for something)' },
+        { frase: 'Permisi', pronuncia: 'per-MEE-see', significato: 'Excuse me' },
+        { frase: 'Berapa harganya?', pronuncia: 'beh-RAH-pah har-GAH-nyah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/indonesia',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['nature', 'adventure', 'islands', 'diving'],

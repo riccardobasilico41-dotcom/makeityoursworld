@@ -1,6 +1,7 @@
 import { ArrowUpRight, CalendarDays, Clock, Footprints, Lightbulb, MapPin, Ticket, Wallet } from 'lucide-react'
 import { RiquadroAvviso, TitoloSezione } from '@/components/scheda/Blocchi'
 import { ElencoFaq } from '@/components/scheda/Faq'
+import Link from '@/components/ui/Link'
 import type { Destinazione } from '@/lib/types'
 import type { Lingua } from '@/lib/i18n/config'
 
@@ -30,12 +31,12 @@ function Dato({ icona: Icona, label, valore }: { icona: typeof Clock; label: str
   )
 }
 
-export function LuoghiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
+export function LuoghiGuida({ d, lingua, id }: { d: Pick<Destinazione, 'luoghi'>; lingua: Lingua; id?: string }) {
   if (!d.luoghi?.length) return null
   const t = T[lingua]
   return (
     <div>
-      <TitoloSezione>{t.luoghi}</TitoloSezione>
+      <TitoloSezione id={id}>{t.luoghi}</TitoloSezione>
       <ol className="mt-6 space-y-5">
         {d.luoghi.map((l, i) => (
           <li key={l.nome} id={`luogo-${i + 1}`} className="scheda-lista scroll-mt-24 p-5 sm:p-7">
@@ -83,12 +84,12 @@ export function LuoghiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) 
   )
 }
 
-export function ProgrammiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
+export function ProgrammiGuida({ d, lingua, id }: { d: Pick<Destinazione, 'programmi'>; lingua: Lingua; id?: string }) {
   if (!d.programmi?.length) return null
   const t = T[lingua]
   return (
     <div>
-      <TitoloSezione>{t.programmi}</TitoloSezione>
+      <TitoloSezione id={id}>{t.programmi}</TitoloSezione>
       <div className="mt-6 grid gap-4 md:grid-cols-[repeat(auto-fit,minmax(18rem,1fr))]">
         {d.programmi.map((p) => (
           <div key={p.titolo} className="scheda-lista p-5">
@@ -108,13 +109,13 @@ export function ProgrammiGuida({ d, lingua }: { d: Destinazione; lingua: Lingua 
   )
 }
 
-export function ZoneSaporiAttenzioni({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
+export function ZoneSaporiAttenzioni({ d, lingua, id }: { d: Partial<Pick<Destinazione, 'zone' | 'sapori' | 'attenzioni'>>; lingua: Lingua; id?: string }) {
   const t = T[lingua]
   return (
     <>
       {d.zone?.length ? (
         <div>
-          <TitoloSezione>{t.zone}</TitoloSezione>
+          <TitoloSezione id={id}>{t.zone}</TitoloSezione>
           <ul className="mt-6 grid gap-4 md:grid-cols-2">
             {d.zone.map((z) => (
               <li key={z.nome} className="scheda-lista p-5">
@@ -152,16 +153,25 @@ export function ZoneSaporiAttenzioni({ d, lingua }: { d: Destinazione; lingua: L
   )
 }
 
-export function GiteGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
+/** `link`: percorso italiano canonico di una scheda del sito, localizzato da <Link>. */
+export function GiteGuida({ d, lingua, id }: { d: { gite?: (NonNullable<Destinazione['gite']>[number] & { link?: string })[] }; lingua: Lingua; id?: string }) {
   if (!d.gite?.length) return null
   const t = T[lingua]
   return (
     <div>
-      <TitoloSezione>{t.gite}</TitoloSezione>
+      <TitoloSezione id={id}>{t.gite}</TitoloSezione>
       <ul className="mt-6 grid gap-4 md:grid-cols-2">
         {d.gite.map((g) => (
           <li key={g.nome} className="scheda-lista p-5">
-            <h3 className="titolo-scheda text-alpine">{g.nome}</h3>
+            <h3 className="titolo-scheda text-alpine">
+              {g.link ? (
+                <Link href={g.link} className="inline-flex items-center gap-1.5 hover:text-rosso hover:underline">
+                  {g.nome} <ArrowUpRight size={16} aria-hidden className="text-rosso" />
+                </Link>
+              ) : (
+                g.nome
+              )}
+            </h3>
             <p className="mt-1 text-[11px] font-semibold uppercase tracking-wider text-rosso">
               {g.distanza} · <span className="normal-case tracking-normal text-stone">{g.come}</span>
             </p>
@@ -173,12 +183,12 @@ export function GiteGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
   )
 }
 
-export function FaqGuida({ d, lingua }: { d: Destinazione; lingua: Lingua }) {
+export function FaqGuida({ d, lingua, id }: { d: Pick<Destinazione, 'faq'>; lingua: Lingua; id?: string }) {
   if (!d.faq?.length) return null
   const t = T[lingua]
   return (
     <div className="max-w-4xl">
-      <TitoloSezione>{t.faq}</TitoloSezione>
+      <TitoloSezione id={id}>{t.faq}</TitoloSezione>
       <ElencoFaq voci={d.faq.map((f) => ({ domanda: f.domanda, risposta: <p>{f.risposta}</p> }))} />
     </div>
   )

@@ -45,6 +45,22 @@ export const austria: Paese = {
     festivita:
       'La quasi totalità dei negozi, supermercati compresi, **è chiusa la domenica per legge** (Ladenschlussgesetz), con le sole eccezioni dei punti vendita nelle stazioni ferroviarie, in aeroporto e delle farmacie di turno: la spesa e gli acquisti vanno organizzati nei giorni feriali o al sabato. A dicembre i mercatini di Natale, in particolare quello davanti al Municipio (Rathausplatz), sono tra i più noti d\'Europa. Il 26 ottobre è la Festa nazionale austriaca.',
     emergenze: 'Numero unico europeo 112. In alternativa: 133 polizia, 122 vigili del fuoco, 144 ambulanza. L\'Ambasciata d\'Italia è a Vienna.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      sim: 'Roaming UE incluso nella tariffa italiana. Reti 4G e 5G (A1, Magenta, Drei) e SIM prepagate come Bob, Yesss! o HOT.',
+      mance: 'Non obbligatoria, ma in ristoranti e caffè si lascia circa il 10% (5% sui conti molto alti). Si può aggiungere anche pagando con carta.',
+      lingua: 'Tedesco; in alcune regioni anche sloveno, croato e ungherese. A Vienna la maggior parte degli abitanti parla inglese.',
+      frasi: [
+        { frase: 'Grüß Gott', pronuncia: 'grüss gòt', significato: 'Buongiorno (saluto tipico austriaco)' },
+        { frase: 'Danke', pronuncia: 'dàn-ke', significato: 'Grazie' },
+        { frase: 'Bitte', pronuncia: 'bì-te', significato: 'Per favore, prego' },
+        { frase: 'Entschuldigung', pronuncia: 'ent-sciùl-di-gung', significato: 'Mi scusi' },
+        { frase: 'Wie viel kostet das?', pronuncia: 'vi fìl kò-stet das', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/AUT',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Il Palazzo del Belvedere Superiore a Vienna con i giardini all\'italiana e le siepi potate in primo piano',

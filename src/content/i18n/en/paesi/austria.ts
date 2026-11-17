@@ -38,6 +38,22 @@ export const austria: Paese = {
     festivita:
       "Almost all shops, supermarkets included, **are closed on Sundays by law** (Ladenschlussgesetz), with the sole exceptions of stores in railway stations, at the airport and duty pharmacies: groceries and shopping have to be arranged on weekdays or Saturdays. In December the Christmas markets, particularly the one in front of City Hall (Rathausplatz), are among the best known in Europe. October 26 is the Austrian National Day.",
     emergenze: "Single European number 112. Alternatively: 133 police, 122 fire brigade, 144 ambulance. The Italian Embassy is in Vienna.",
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis B, tick-borne encephalitis if you\'ll spend a lot of time outdoors.',
+      sim: 'EU plans roam at home rates. 4G and 5G networks (A1, Magenta, Drei) and prepaid SIMs such as Bob, Yesss! or HOT.',
+      mance: 'Not compulsory, but around 10% is usual in restaurants and coffee houses (5% on very large bills). You can add it when paying by card.',
+      lingua: 'German; Slovene, Croatian and Hungarian are also recognised in some regions. Most people in Vienna speak English.',
+      frasi: [
+        { frase: 'Grüß Gott', pronuncia: 'grooss GOT', significato: 'Hello (the typical Austrian greeting)' },
+        { frase: 'Danke', pronuncia: 'DAHN-keh', significato: 'Thank you' },
+        { frase: 'Bitte', pronuncia: 'BIT-teh', significato: 'Please, you\'re welcome' },
+        { frase: 'Entschuldigung', pronuncia: 'ent-SHOOL-di-goong', significato: 'Excuse me, sorry' },
+        { frase: 'Wie viel kostet das?', pronuncia: 'vee FEEL KOS-tet dahs', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/austria',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: "The Upper Belvedere Palace in Vienna with the Italian-style gardens and trimmed hedges in the foreground",

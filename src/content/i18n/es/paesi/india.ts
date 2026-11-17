@@ -40,6 +40,22 @@ export const india: Paese = {
       'Diwali (octubre-noviembre: en 2026 el 8 de noviembre) y Holi (marzo: en 2027 el 22 de marzo) son las fiestas más espectaculares pero también las de trenes llenos, precios altos y, en Holi, una jornada en la que conviene saber a qué se va a uno a enfrentar (colores por todas partes, posibles acosos a las mujeres en las zonas concurridas). Dev Deepawali en Benarés (luna llena de Kartik, en 2026 el 24 de noviembre) ilumina todos los ghats con miles de lámparas. La feria de camellos de Pushkar cae hacia la luna llena de Kartik (finales de octubre-noviembre). Las fechas de las fiestas siguen el calendario lunar y cambian cada año.',
     emergenze:
       'Número único de emergencia 112 (policía 100, ambulancia 108). Embajada de Italia en Nueva Delhi (Chanakyapuri), consulados generales en Mumbai y Calcuta. Antes de partir conviene registrar el viaje en Dove Siamo nel Mondo de la Farnesina.',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez desde la solicitud del eVisa (o desde la llegada, si es por tierra), con dos páginas en blanco.',
+      visto: 'Visado obligatorio: e-Tourist Visa de 30 días, 1 o 5 años en indianvisaonline.gov.in, al menos 4 días antes. Luego la e-Arrival Card online en las 72 horas previas.',
+      vaccini: 'Fiebre amarilla solo si llegas de un país de riesgo (mayores de 9 meses). Recomendadas: hepatitis A y B, fiebre tifoidea; para algunos, encefalitis japonesa, rabia, cólera.',
+      sim: 'Los móviles extranjeros solo funcionan bien en las ciudades principales: conviene comprar una SIM local.',
+      pagamenti: 'Se aceptan las tarjetas de los grandes circuitos en tiendas autorizadas y hoteles de las grandes ciudades, donde también hay cajeros. Las rupias no se pueden sacar del país.',
+      lingua: 'Hindi e inglés son las lenguas oficiales; en total se usan 23.',
+      frasi: [
+        { frase: 'Namaste', pronuncia: 'na-mas-TÉ', significato: 'Hola (con las palmas juntas)' },
+        { frase: 'Dhanyavaad', pronuncia: 'da-nia-VÁD', significato: 'Gracias' },
+        { frase: 'Kripya', pronuncia: 'KRÍP-ia', significato: 'Por favor' },
+        { frase: 'Maaf kijiye', pronuncia: 'maf KÍ-yi-ye', significato: 'Perdón, disculpe' },
+        { frase: 'Kitne ka hai?', pronuncia: 'KÍT-ne ka je', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   stileViaggio: ['cultura', 'treni', 'on the road', 'spiritualità', 'cibo di strada'],

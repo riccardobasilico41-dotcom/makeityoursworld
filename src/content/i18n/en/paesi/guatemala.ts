@@ -38,6 +38,22 @@ export const guatemala: Paese = {
       "Antigua's Semana Santa, with its sawdust carpets and processions, is among the most famous in Latin America: beautiful, but with much higher prices and crowds. On November 1, in Sumpango and Santiago Sacatepéquez, the giant kite festival is held for the Día de Todos los Santos.",
     emergenze:
       "Useful numbers: 110 for the national police, 1500 for the tourist police (Asistur), 122/123 for the fire department and ambulance. The Italian Embassy is in Guatemala City.",
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months on arrival, with 2 blank pages.',
+      visto: 'EU and UK citizens: no visa for tourism up to 90 days, shared with El Salvador, Honduras and Nicaragua. Fill in an online traveller declaration before entering and leaving.',
+      vaccini: 'Yellow fever certificate only if arriving from a risk country. Hepatitis A and B and typhoid recommended; malaria tablets for Petén, Izabal, Alta and Baja Verapaz, Escuintla.',
+      sim: 'Good mobile coverage and roaming on the Tigo and Claro networks; internet is widely available.',
+      pagamenti: 'Euros are hard to change: bring US dollars, taken by many hotels, restaurants and shops, as are cards. You can\'t bring in more than US$10,000 in cash.',
+      lingua: 'Spanish, plus around twenty Mayan languages.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'OH-lah', significato: 'Hello' },
+        { frase: 'Gracias', pronuncia: 'GRAH-see-ahs', significato: 'Thank you' },
+        { frase: 'Por favor', pronuncia: 'por fah-VOR', significato: 'Please' },
+        { frase: 'Disculpe', pronuncia: 'dees-KOOL-peh', significato: 'Excuse me, sorry' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'KWAHN-toh KWEHS-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/guatemala',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['volcanoes', 'Maya culture', 'nature', 'road trip'],

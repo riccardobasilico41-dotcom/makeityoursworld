@@ -47,6 +47,23 @@ export const portogallo: Paese = {
     festivita:
       'Giugno è il mese delle Festas de Lisboa, che culminano nella notte di Santo António (12-13 giugno): sardine alla griglia per strada, musica e feste di quartiere in tutta l\'Alfama. Sono belle da vivere, ma la città è molto più affollata del solito. Il 10 giugno è la Festa nazionale del Portogallo.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Lisbona.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B.',
+      prese: '230 V, prese europee standard: le spine italiane a due poli entrano, per quelle a tre poli in linea serve un adattatore.',
+      sim: 'Roaming UE incluso nella tariffa italiana. Tre operatori locali: Vodafone, MEO e NOS.',
+      pagamenti: 'Si paga in contanti o con carte di credito e di debito.',
+      lingua: 'Portoghese. Nelle località turistiche si parlano spesso inglese, spagnolo e francese.',
+      frasi: [
+        { frase: 'Olá', pronuncia: 'o-là', significato: 'Ciao, salve' },
+        { frase: 'Obrigado / Obrigada', pronuncia: 'o-bri-gà-du / o-bri-gà-da', significato: 'Grazie (detto da un uomo / da una donna)' },
+        { frase: 'Por favor', pronuncia: 'pur fa-vòr', significato: 'Per favore' },
+        { frase: 'Desculpe', pronuncia: 'dish-kùlp', significato: 'Mi scusi' },
+        { frase: 'Quanto custa?', pronuncia: 'kuàn-tu kùsh-ta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/PRT',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImage: '/images/portogallo/portogallo-paese.jpg',

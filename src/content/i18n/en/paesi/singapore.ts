@@ -38,6 +38,15 @@ export const singapore: Paese = {
     festivita:
       "The calendar reflects the four communities: Chinese New Year (January-February), which is the most deeply felt holiday and when Chinatown is transformed; Hari Raya Puasa at the end of Ramadan, with Geylang Serai lit up; Deepavali in Little India; Christmas, when Orchard Road fills with lights. At Chinese New Year many family-run places close for days, hawker centers included.",
     emergenze: "Police 999, ambulance and fire department 995. The Italian Embassy is in Singapore.",
+    primaDiPartire: {
+      documento: 'Passport with at least 6 months\' validity from your arrival date.',
+      visto: 'EU citizens: no visa for tourism up to 90 days. UK: stay set on arrival, usually 30 to 90 days. Everyone must file the free SG Arrival Card within 3 days before arrival.',
+      vaccini: 'Yellow fever certificate required from age 1 if arriving from a risk country (including transits over 12 hours). Recommended: hepatitis A and B, typhoid by trip.',
+      prese: 'British three-pin sockets (type G): UK plugs fit; European plugs, Schuko included, need an adapter.',
+      pagamenti: 'Most credit cards are accepted and many ATMs take foreign cards. Money changers in shopping centres exchange euros.',
+      lingua: 'English, Mandarin, Malay and Tamil are official languages; Malay is the national language.',
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/singapore',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: "The skyline of Singapore's Central Business District reflected in the waters of Marina Bay at sunset",

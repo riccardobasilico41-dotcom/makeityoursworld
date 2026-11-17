@@ -12,6 +12,7 @@ import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 import { copertine } from '@/lib/i18n/contenuti'
 import { datiFiltroViaggio, opzioniPaesi } from '@/lib/viaggi-filtri'
+import Link from '@/components/ui/Link'
 
 const T = {
   it: {
@@ -20,6 +21,7 @@ const T = {
     descJson: (brand: string) => `Il catalogo completo degli itinerari di ${brand}.`,
     home: 'Home',
     viaggi: 'Viaggi',
+    quiz: 'Non sai da dove partire? Fai il quiz «Dove vado?»',
     eyebrow: "L'archivio completo",
     lead: (n: number) =>
       `${n} itinerari completi, giorno per giorno, divisi per macro-regione. Oppure esplora una singola destinazione o esperienza dalla pagina Paese.`,
@@ -30,6 +32,7 @@ const T = {
     descJson: (brand: string) => `The full catalog of ${brand} itineraries.`,
     home: 'Home',
     viaggi: 'Trips',
+    quiz: 'Not sure where to start? Take the «Where should I go?» quiz',
     eyebrow: 'The full archive',
     lead: (n: number) =>
       `${n} complete itineraries, day by day, grouped by region. Or explore a single destination or experience from the country page.`,
@@ -40,6 +43,7 @@ const T = {
     descJson: (brand: string) => `El catálogo completo de itinerarios de ${brand}.`,
     home: 'Inicio',
     viaggi: 'Viajes',
+    quiz: '¿No sabes por dónde empezar? Haz el test «¿A dónde voy?»',
     eyebrow: 'El archivo completo',
     lead: (n: number) =>
       `${n} itinerarios completos, día a día, agrupados por región. O explora un solo destino o experiencia desde la página del país.`,
@@ -84,7 +88,16 @@ export default async function ViaggiIndexPage() {
         crumbs={[{ label: t.home, href: '/' }, { label: t.viaggi }]}
         eyebrow={t.eyebrow}
         title={t.titolo}
-        lead={<p>{t.lead(viaggi.length)}</p>}
+        lead={
+          <>
+            <p>{t.lead(viaggi.length)}</p>
+            <p className="mt-3 text-base">
+              <Link href="/dove-vado" className="font-semibold underline decoration-rosso decoration-2 underline-offset-4">
+                {t.quiz} →
+              </Link>
+            </p>
+          </>
+        }
       />
       <section className="sezione">
         <Container>

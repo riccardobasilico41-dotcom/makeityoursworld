@@ -33,6 +33,23 @@ export const thailandia: Paese = {
     festivita:
       "Songkran, el Año Nuevo tailandés (13-15 de abril), convierte el país en una gran batalla de agua: precioso pero caótico, con muchos servicios cerrados. Loi Krathong (noviembre, fecha variable) es la fiesta de las linternas y de las cestas sobre el agua. El Full Moon Party de Koh Phangan sigue en cambio el calendario lunar, con fechas publicadas con un año de antelación.",
     emergenze: "Policía 191, policía turística 1155 (habla inglés), ambulancia 1669. La Embajada de Italia está en Bangkok.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez desde la entrada, en buen estado y con dos páginas libres: uno dañado puede suponer la denegación de entrada.',
+      visto: 'Sin visado para turismo hasta 30 días (desde el 15 de septiembre de 2026), prorrogables 30 más allí. Hace falta billete de salida y la TDAC online 72 horas antes.',
+      vaccini: 'Ninguna obligatoria, salvo fiebre amarilla si llegas de un país de riesgo. Recomendadas: hepatitis A y B, fiebre tifoidea; para algunos, encefalitis japonesa y rabia.',
+      prese: '220 V; los enchufes admiten clavijas europeas tipo C y F, así que los enchufes españoles entran sin adaptador.',
+      sim: 'La SIM local o el router portátil se compran al llegar; cobertura 3G y 4G buena en ciudades y en gran parte de las zonas rurales.',
+      pagamenti: 'Hay muchos casos de clonación de tarjetas, también en centros comerciales. En la entrada pueden pedir 20.000 THB en efectivo por persona.',
+      lingua: 'Tailandés. El inglés se habla solo en parte, en Bangkok y en las principales zonas turísticas.',
+      frasi: [
+        { frase: 'Sawatdee khrap / kha', pronuncia: 'sa-uat-DÍ krap / ka', significato: 'Hola (khrap si habla un hombre, kha si habla una mujer)' },
+        { frase: 'Khop khun khrap / kha', pronuncia: 'kop-KÚN krap / ka', significato: 'Gracias' },
+        { frase: 'Kho thot', pronuncia: 'ko-TÓT', significato: 'Perdón, disculpe' },
+        { frase: 'Tao rai?', pronuncia: 'tao-RÁI', significato: '¿Cuánto cuesta?' },
+        { frase: 'Mai pen rai', pronuncia: 'mai-pen-RÁI', significato: 'No pasa nada, no hay problema' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'giungla', 'cibo', 'isole'],

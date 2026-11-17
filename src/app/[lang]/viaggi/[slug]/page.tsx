@@ -17,6 +17,8 @@ import { CardRicordo } from '@/components/scheda/CardRicordo'
 import { Tendina } from '@/components/Tendina'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
+import { ReelDalViaggio } from '@/components/ReelDalViaggio'
+import { reelsPerViaggio } from '@/content/reels'
 import { RiepilogoViaggio } from '@/components/RiepilogoViaggio'
 import { minutiDiLettura, PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
 import { Clock, Compass, MapPinned, RotateCcw, Search, Sparkles, Users } from 'lucide-react'
@@ -43,7 +45,7 @@ import aggiornamenti from '@/content/aggiornamenti-viaggi.json'
 import { Container } from '@/components/ui/Container'
 import { colorePaese, testaTitolo } from '@/lib/colori-etichette'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from '@/lib/viaggi'
-import { emailPubblica } from '@/lib/site-config'
+import { emailPubblica, giscusAttivo, siteConfig } from '@/lib/site-config'
 import { getPaese, getTripMeta } from '@/lib/geo'
 import type { ViaggioInBreve, TripMeta } from '@/lib/types'
 import { getContinente, slugify } from '@/lib/utils'
@@ -53,6 +55,9 @@ import type { EditorialMeta } from '@/content/viaggi-editorial'
 import { getHeroVideo } from '@/content/viaggi-hero-video'
 import { pageMetadata, primoTitoloCheSta, titoloSeoViaggio } from '@/lib/seo'
 import { DomandeViaggio } from '@/components/domande/DomandeViaggio'
+import { PrenotaHotelNoti } from '@/components/LinkPartner'
+import { CommentiGiscus } from '@/components/CommentiGiscus'
+import { hotelNoti } from '@/lib/hotel-noti'
 import { ProssimaDestinazione } from '@/components/ProssimaDestinazione'
 import { domandePubblicate } from '@/lib/domande/archivio'
 import type { Domanda } from '@/lib/domande/tipi'
@@ -413,6 +418,8 @@ function SignatureViaggioContent({
 
   // mappa vera della rotta (contorni, rilievo, tappe numerate): se manca, la linea schematica
   const rotta = meta.tappeMappa.length > 0 ? datiRotta(viaggio.slug, lingua) : null
+  // hotel con il nome scritto in «Dove abbiamo dormito»: «Prenota» lì e accanto ai pernottamenti
+  const hotel = hotelNoti(viaggio.doveDormito)
   // data dell'ultima modifica del testo (da git, tools/aggiornamenti-viaggi.mjs)
   const iso = (aggiornamenti as Record<string, string>)[viaggio.slug]
   const dataAggiornamento = iso
@@ -552,6 +559,8 @@ function SignatureViaggioContent({
               )}
             </div>
 
+            <ReelDalViaggio reels={reelsPerViaggio(viaggio.slug)} lingua={lingua} />
+
             {viaggio.schedaPratica && (
               <div id="scheda-pratica" className="scroll-mt-24 border-2 border-ink bg-cream-dark/50 p-6 sm:p-8">
                 <h2 className="titolo-scheda text-alpine">{t.schedaPratica}</h2>
@@ -672,6 +681,7 @@ function SignatureViaggioContent({
                     tappe={meta.tappeMappa}
                     tappeGiorni={tappeGiorni}
                     rottaSlug={rotta ? viaggio.slug : undefined}
+                    hotel={hotel}
                   />
                 </div>
               </div>
@@ -695,6 +705,7 @@ function SignatureViaggioContent({
               {viaggio.doveDormito && (
                 <Tendina id="dove-dormire" titolo={t.doveHoDormito} sottotitolo={t.doveHoDormitoSub}>
                   <Prose className="hotel-schede mt-2 max-w-none text-sm">{viaggio.doveDormito}</Prose>
+                  {hotel.length > 0 && <PrenotaHotelNoti hotel={hotel} lingua={lingua} />}
                 </Tendina>
               )}
               {viaggio.doveMangiato && (
@@ -750,6 +761,14 @@ function SignatureViaggioContent({
             <ProssimaDestinazione slug={viaggio.slug} lingua={lingua} />
             <AltreGuidePaese slug={viaggio.slug} lingua={lingua} />
             <DomandeViaggio viaggio={viaggio.slug} lingua={lingua} domande={domande} />
+            {giscusAttivo && (
+              <CommentiGiscus
+                config={giscusAttivo}
+                termine={`viaggi/${viaggio.slug}`}
+                lingua={lingua}
+                temaUrl={siteConfig.url.startsWith('https://') ? `${siteConfig.url}/giscus/tema.css` : undefined}
+              />
+            )}
           </div>
           </div>
 

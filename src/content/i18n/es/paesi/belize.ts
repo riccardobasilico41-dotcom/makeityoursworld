@@ -39,6 +39,21 @@ export const belize: Paese = {
       "El Garifuna Settlement Day, el 19 de noviembre, es la fiesta más sentida de la costa sur (Dangriga, Hopkins) y celebra la llegada del pueblo garífuna. En septiembre las September Celebrations, entre el 10 (Battle of St. George's Caye) y el 21 (independencia), implican a todo el país.",
     emergenze:
       "Número único 911. En Belice no hay una representación diplomática italiana residente: la asistencia consular depende de la sede competente para la zona, que conviene consultar en Viaggiare Sicuri antes de salir.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez a la entrada.',
+      visto: 'Sin visado por turismo hasta 30 días, con billete de ida y vuelta y dinero suficiente para la estancia. Quien sale por tierra o mar paga 40 BZD (20 USD) de tasa.',
+      vaccini: 'Fiebre amarilla obligatoria solo si llegas de países de riesgo. Recomendadas hepatitis A y B; fiebre tifoidea para zonas rurales o estancias largas.',
+      pagamenti: 'El dólar estadounidense se acepta casi en todas partes, al cambio fijo de 1 USD = 2 BZD: no hace falta cambiar.',
+      lingua: 'Inglés (oficial) y español.',
+      frasi: [
+        { frase: 'Hello', pronuncia: 'jeló', significato: 'Hola' },
+        { frase: 'Thank you', pronuncia: 'zénk iu', significato: 'Gracias' },
+        { frase: 'Please', pronuncia: 'plíis', significato: 'Por favor' },
+        { frase: 'Excuse me', pronuncia: 'ekskiús mi', significato: 'Disculpe, perdone' },
+        { frase: 'How much is it?', pronuncia: 'jáu mach is it', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['mare', 'diving', 'grotte', 'cultura maya'],

@@ -22,6 +22,7 @@ const T = {
     quanto: 'Quanto tempo hai',
     durate: { weekend: 'Weekend', '4-7': '4-7 giorni', '8-14': '8-14 giorni', '15+': 'Più di 2 settimane' },
     tutti: 'Tutti i viaggi',
+    quiz: 'Non sai dove andare? Fai il quiz',
     porte: 'Da dove cominciare',
     paese: 'Destinazioni',
     mappa: 'Mappa',
@@ -38,6 +39,7 @@ const T = {
     quanto: 'How much time you have',
     durate: { weekend: 'Weekend', '4-7': '4–7 days', '8-14': '8–14 days', '15+': 'Over 2 weeks' },
     tutti: 'All trips',
+    quiz: 'Not sure where to go? Take the quiz',
     porte: 'Where to start',
     paese: 'Destinations',
     mappa: 'Map',
@@ -54,6 +56,7 @@ const T = {
     quanto: 'Cuánto tiempo tienes',
     durate: { weekend: 'Fin de semana', '4-7': '4-7 días', '8-14': '8-14 días', '15+': 'Más de 2 semanas' },
     tutti: 'Todos los viajes',
+    quiz: '¿No sabes a dónde ir? Haz el test',
     porte: 'Por dónde empezar',
     paese: 'Destinos',
     mappa: 'Mapa',
@@ -72,6 +75,7 @@ const T = {
     quanto: string
     durate: Record<(typeof DURATE)[number], string>
     tutti: string
+    quiz: string
     porte: string
     paese: string
     mappa: string
@@ -187,6 +191,13 @@ export function HeroFinder() {
           </li>
         ))}
       </ul>
+
+      {/* quiz «Dove vado?»: per chi non ha ancora un'idea */}
+      <p className="mt-2">
+        <Link href="/dove-vado" className={LINK}>
+          {t.quiz} →
+        </Link>
+      </p>
 
       {/* le quattro porte del sito: trovare un viaggio, le destinazioni, la mappa, le meraviglie */}
       <nav aria-label={t.porte} className="mt-2 border-t border-cream/25 pt-1">

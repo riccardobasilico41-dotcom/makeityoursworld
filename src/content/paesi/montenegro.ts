@@ -43,6 +43,22 @@ export const montenegro: Paese = {
       'Festa dell\'indipendenza il 21-22 maggio e festa della statualità il 13 luglio. Pasqua e Natale ortodossi (il Natale si festeggia il 7 gennaio). Il pellegrinaggio a Ostrog è molto affollato a metà maggio, per la festa di San Basilio.',
     emergenze:
       'Polizia 122, ambulanza 124, vigili del fuoco 123, numero unico europeo 112. Ambasciata d\'Italia a Podgorica.',
+    primaDiPartire: {
+      documento: 'Passaporto, oppure carta d\'identità valida per l\'espatrio per soggiorni fino a 30 giorni. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre la partenza.',
+      visto: 'Nessun visto fino a 90 giorni; non è UE né Schengen. Registrazione entro 24 ore: in hotel la fa la struttura, da privati tocca a te. UK: 90 giorni ogni 180.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B.',
+      sim: 'Niente roaming UE: con la SIM italiana i costi possono essere alti. All\'arrivo si comprano SIM prepagate locali, anche con offerte turistiche di pochi giorni.',
+      pagamenti: 'Euro. Carte accettate in gran parte di hotel, ristoranti, bar, distributori e supermercati; bancomat in tutte le città.',
+      lingua: 'Montenegrino, scritto in alfabeto latino e cirillico; in uso ufficiale anche serbo, bosniaco, albanese e croato.',
+      frasi: [
+        { frase: 'Dobar dan', pronuncia: 'dò-bar dan', significato: 'Buongiorno' },
+        { frase: 'Hvala', pronuncia: 'hvà-la', significato: 'Grazie' },
+        { frase: 'Molim', pronuncia: 'mò-lim', significato: 'Per favore, prego' },
+        { frase: 'Izvinite', pronuncia: 'iz-vì-ni-te', significato: 'Mi scusi' },
+        { frase: 'Koliko košta?', pronuncia: 'kò-li-ko kòsc-ta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/MNE',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['roadtrip', 'mare', 'montagna', 'trekking'],

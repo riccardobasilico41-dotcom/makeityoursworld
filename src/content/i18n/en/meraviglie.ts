@@ -239,7 +239,7 @@ export const meraviglie: Meraviglia[] = [
     comeArrivareInternazionale: "Cancún Airport (CUN), the most convenient; alternatively Mérida (MID), geographically closer to the site.",
     comeArrivareLocale: "By bus (ADO among the operators) from Cancún, Mérida or Valladolid, the closest; by rental car; or on an organized day tour from Cancún or the Riviera Maya, which means many hours of transfer.",
     comeSpostarsi: "The site is visited entirely on foot, over a flat area with almost no shade anywhere.",
-    prenotazione: "The INAH website does not mention booking: the ticket is paid at the site's ticket office. Hours: every day from 8:00 to 17:00, last entry at 16:00. Arriving at opening time is the real key to avoiding the worst of the heat and the mass arrival of tour buses in the middle of the day.",
+    prenotazione: "The INAH website does not mention booking: the ticket is paid at the site's ticket office. Hours: every day from 8:00 to 16:00, last entry at 15:00. Arriving at opening time is the real key to avoiding the worst of the heat and the mass arrival of tour buses in the middle of the day.",
     prezzi: "Foreigners: 697 Mexican pesos in total, that is 105 pesos of federal INAH fee plus 592 pesos of Yucatán State Government fee, also paid at the site's ticket office (for Mexican visitors the state fee is 205 pesos). The Noches de Kukulcán evening show is run by the Yucatán State Government, with a separate ticket and information.",
     tourOAutonomo: "Easy to visit on your own by bus or rental car. Guides are found at the entrance: agree the rate before you start. They add a lot of context on Maya cosmology and the ball game.",
     scamDaEvitare: [

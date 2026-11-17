@@ -38,6 +38,23 @@ export const paesiBassi: Paese = {
     festivita:
       "El 27 de abril, Koningsdag (Día del Rey), es el mayor evento ciudadano del año: Ámsterdam se viste de naranja, los canales se llenan de barcas y el centro se convierte en un único gran mercadillo y fiesta callejera. La ciudad está preciosa pero abarrotada, y los alojamientos hay que reservarlos con mucha antelación. En diciembre, mercadillos de Navidad y luces a lo largo de los canales (Amsterdam Light Festival, de finales de noviembre a enero).",
     emergenze: 'Número único europeo 112. La Embajada de Italia está en La Haya; en Ámsterdam hay un Consulado General de Italia.',
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B.',
+      sim: 'El roaming de la UE va incluido en tu tarifa española: no hace falta SIM local.',
+      pagamenti: 'Tarjeta de débito y contactless casi en todas partes; la de crédito se usa menos en compras pequeñas. Más de tres cuartos de los locales aceptan efectivo, no siempre billetes de 100 o 200 €.',
+      mance: 'En torno al 10% se considera adecuado, sin reglas fijas. Se puede añadir al pagar con tarjeta.',
+      lingua: 'Neerlandés. La mayoría de la población habla inglés.',
+      frasi: [
+        { frase: 'Hallo', pronuncia: 'JÁ-lo', significato: 'Hola' },
+        { frase: 'Dank u wel', pronuncia: 'dank u UÉL', significato: 'Gracias' },
+        { frase: 'Alstublieft', pronuncia: 'al-stu-BLIFT', significato: 'Por favor, aquí tiene' },
+        { frase: 'Pardon', pronuncia: 'par-DÓN', significato: 'Disculpe' },
+        { frase: 'Hoeveel kost het?', pronuncia: 'ju-BEL KOST et', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Paises%20Bajos',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'Casas adosadas con frontones escalonados a lo largo de un canal de Ámsterdam, con las casas flotantes amarradas en primer plano',

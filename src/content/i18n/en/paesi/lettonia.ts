@@ -38,6 +38,23 @@ export const lettonia: Paese = {
     festivita:
       "The Latvian Song and Dance Festival (Dziesmu un deju svētki), a UNESCO intangible cultural heritage, is held every five years with tens of thousands of participants: if the dates overlap with your trip, crowds and prices change a lot. In December in Dome Square, in the Old Town, there is one of the most photographed Christmas markets in the Baltics.",
     emergenze: 'Single European number 112. The Italian Embassy is in Riga.',
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B, tick-borne encephalitis if you\'ll spend a lot of time outdoors.',
+      sim: 'EU plans roam at home rates. UK and US: check roaming costs with your provider before you go.',
+      pagamenti: 'Euro. Cards are accepted in most shops, restaurants, hotels and petrol stations, and ATMs are common. Take cash out before heading outside the cities.',
+      mance: 'Not obligatory, but rounding up or leaving around 10% is always appreciated.',
+      lingua: 'Latvian.',
+      frasi: [
+        { frase: 'Labdien', pronuncia: 'LAHB-dyen', significato: 'Good day, hello' },
+        { frase: 'Paldies', pronuncia: 'PAHL-dyess', significato: 'Thank you' },
+        { frase: 'Lūdzu', pronuncia: 'LOO-dzoo', significato: 'Please, you\'re welcome' },
+        { frase: 'Atvainojiet', pronuncia: 'AHT-vye-noh-yet', significato: 'Excuse me, sorry' },
+        { frase: 'Cik tas maksā?', pronuncia: 'tsik tahs MAHK-sah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/latvia',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: 'The Art Nouveau facade of a building in Riga, with carved faces, colorful pilasters and decorations under the cornice',

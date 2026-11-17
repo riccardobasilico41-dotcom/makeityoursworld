@@ -36,6 +36,13 @@ export const bolivia: Paese = {
     festivita:
       "El Carnaval de Oruro, en febrero, es Patrimonio inmaterial de la UNESCO y es la fiesta más espectacular del país. En Uyuni y en todo el altiplano el periodo de Carnaval coincide con la estación del espejo de agua: alojamientos llenos y precios más altos.",
     emergenze: "Policía 110, policía turística 800 140081, ambulancia 118. La Embajada de Italia está en La Paz.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez a la entrada y billete de vuelta o prueba de salida del país.',
+      visto: 'Sin visado hasta 90 días. En frontera suelen sellar 30 días: si te quedas más, dilo al entrar.',
+      vaccini: 'Fiebre amarilla: certificado exigido si llegas de países de riesgo, pero hay controles frecuentes y la vacuna se recomienda a todos. Recomendadas hepatitis A y B.',
+      lingua: 'Español y las lenguas de los 36 pueblos originarios; las más habladas son el aimara y el quechua.',
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Bolivia',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'El Salar de Uyuni cubierto por una lámina de agua que refleja el cielo y las nubes como un espejo, Bolivia',

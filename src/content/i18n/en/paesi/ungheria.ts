@@ -38,6 +38,22 @@ export const ungheria: Paese = {
     festivita:
       "In December the Christmas markets in Vörösmarty Square and in front of Saint Stephen's Basilica are among the most crowded events of the year. August 20 (Saint Stephen's Day, founding of the Hungarian state) brings big fireworks over the Danube. March 15 (anniversary of the 1848 revolution) is another deeply felt national date.",
     emergenze: 'Single European emergency number 112. The Italian Embassy is in Budapest.',
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B, tick-borne encephalitis if you\'ll spend a lot of time outdoors.',
+      sim: 'EU plans roam at home rates. UK and US: check roaming costs with your provider before you go.',
+      pagamenti: 'Hungarian forint, not the euro. At ATMs shield your PIN and watch your card; block it straight away if you spot odd withdrawals.',
+      lingua: 'Hungarian.',
+      frasi: [
+        { frase: 'Jó napot', pronuncia: 'YOH NAH-poht', significato: 'Good day, hello' },
+        { frase: 'Köszönöm', pronuncia: 'KUH-suh-nuhm', significato: 'Thank you' },
+        { frase: 'Kérem', pronuncia: 'KAY-rem', significato: 'Please, you\'re welcome' },
+        { frase: 'Elnézést', pronuncia: 'EL-nay-zaysht', significato: 'Excuse me, sorry' },
+        { frase: 'Mennyibe kerül?', pronuncia: 'MEN-nyee-beh KEH-rewl', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/hungary',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: 'The Hungarian Parliament lit up at blue hour, reflected in the Danube seen from the Buda bank',

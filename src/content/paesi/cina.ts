@@ -46,6 +46,23 @@ export const cina: Paese = {
     festivita:
       'Due periodi da evitare senza discussioni. Il primo è la Settimana d\'oro della Festa Nazionale, dal 1° al 7 ottobre, quando centinaia di milioni di persone si spostano insieme: treni esauriti con settimane di anticipo, siti presi d\'assalto, prezzi triplicati. Il secondo è il Capodanno cinese (tra fine gennaio e metà febbraio, data mobile), con il chunyun, la più grande migrazione umana annuale del pianeta: bellissimo da vedere, impossibile da attraversare da turista, con metà delle attività chiuse. Anche la Festa del lavoro, nei primi giorni di maggio (nel 2026 dall\'1 al 5), è festiva e affollata. In tutti questi periodi il turismo interno è impressionante e si rischiano ore di coda ovunque, dai treni ai siti più famosi. Fuori da queste date il paese si muove normalmente.',
     emergenze: 'Polizia 110, ambulanza 120, vigili del fuoco 119. L\'Ambasciata d\'Italia è a Pechino, con Consolati generali a Shanghai, Canton, Chongqing e Hong Kong.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità residua. Va tenuto sempre con sé per i controlli d\'identità.',
+      visto: 'Senza visto fino a 30 giorni per turismo, fino al 31 dicembre 2026; transito senza visto fino a 240 ore. Carta d\'ingresso online. UK: stesse regole.',
+      vaccini: 'Febbre gialla obbligatoria da 9 mesi in su se si arriva da paesi a rischio, anche in transito. Consigliate: epatite A e B; encefalite giapponese e tifo secondo il viaggio.',
+      prese: '220V. Prese miste per spine piatte a due poli, tonde e a tre poli obliqui: le spine italiane non entrano ovunque, meglio un adattatore universale.',
+      sim: 'SIM ricaricabili negli aeroporti internazionali, col passaporto. Da una connessione cinese Google, Gmail, Instagram e YouTube non funzionano.',
+      pagamenti: 'Si paga quasi tutto con Alipay e WeChat Pay, collegabili a Visa e Mastercard: conviene attivarli prima di partire. Fuori dalle grandi città carte e bancomat sono rari.',
+      lingua: 'Cinese mandarino.',
+      frasi: [
+        { frase: 'Nǐ hǎo', pronuncia: 'ni hào', significato: 'Ciao, buongiorno' },
+        { frase: 'Xièxie', pronuncia: 'scè-scie', significato: 'Grazie' },
+        { frase: 'Qǐng', pronuncia: 'cìng', significato: 'Per favore' },
+        { frase: 'Duìbuqǐ', pronuncia: 'duèi-bu-ci', significato: 'Mi scusi' },
+        { frase: 'Duōshao qián?', pronuncia: 'duo-sciao ciàn', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/CHN',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'La Grande Muraglia a Mutianyu che segue il crinale tra le colline boscose a nord di Pechino',

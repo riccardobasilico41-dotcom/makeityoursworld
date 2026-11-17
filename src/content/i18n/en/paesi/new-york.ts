@@ -34,6 +34,17 @@ export const newYork: Paese = {
     festivita:
       "In September the September 11 commemoration ceremony is held at Ground Zero. November and December bring the Thanksgiving parade and the Christmas lights, with the city at peak crowding.",
     emergenze: "Single number 911. The Italian Consulate General is in New York, on Park Avenue.",
+    primaDiPartire: {
+      documento: 'An e-passport valid for your whole stay.',
+      visto: 'EU and UK: no visa up to 90 days, but you need an ESTA online at least 72 hours before (valid 2 years). Been to Cuba since 12 January 2021? You need a visa.',
+      vaccini: 'No vaccinations required. Just be up to date with your routine jabs.',
+      prese: '110-120 V, US flat-pin sockets: UK and European plugs need an adapter.',
+      sim: 'Foreign SIMs work on roaming; the main local networks are Verizon, AT&T, T-Mobile and Mint Mobile.',
+      pagamenti: 'Cards accepted almost everywhere: check with your bank that yours works and its limit. ATMs open 24 hours. Sales tax is added to the price shown.',
+      mance: 'Expected: 15-20% in restaurants (10% at a buffet), about $1 a drink at the bar, $2-5 a night for hotel housekeeping.',
+      lingua: 'English; Spanish is increasingly common.',
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/usa',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['città', 'sport', 'cultura'],

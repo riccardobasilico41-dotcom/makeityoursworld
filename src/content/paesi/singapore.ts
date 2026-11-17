@@ -43,6 +43,22 @@ export const singapore: Paese = {
     festivita:
       'Il calendario riflette le quattro comunità: Capodanno cinese (gennaio-febbraio), che è la festa più sentita e in cui Chinatown si trasforma; Hari Raya Puasa alla fine del Ramadan, con Geylang Serai illuminata; Deepavali a Little India; Natale, quando Orchard Road si riempie di luminarie. Nel Capodanno cinese molti locali a gestione familiare chiudono per giorni, centri hawker compresi.',
     emergenze: 'Polizia 999, ambulanza e vigili del fuoco 995. L\'Ambasciata d\'Italia è a Singapore.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità residua dalla data d\'ingresso.',
+      visto: 'Nessun visto per turismo fino a 90 giorni. Obbligatoria la SG Arrival Card online, gratuita, nei 3 giorni prima dell\'arrivo. UK: 30-90 giorni, decisi all\'arrivo.',
+      vaccini: 'Febbre gialla obbligatoria da 1 anno in su se si arriva da paesi a rischio (anche transito oltre 12 ore). Consigliate: epatite A e B, tifo secondo il viaggio.',
+      prese: 'Prese britanniche a tre poli rettangolari (tipo G): le spine italiane e le Schuko non vanno bene, serve un adattatore.',
+      pagamenti: 'Quasi tutte le carte di credito sono accettate e molti bancomat prendono carte europee. Nei centri commerciali si cambiano euro.',
+      lingua: 'Inglese, mandarino, malese e tamil sono lingue ufficiali; il malese è la lingua nazionale.',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-là-mat pà-ghi', significato: 'Buongiorno' },
+        { frase: 'Terima kasih', pronuncia: 'te-rì-ma kà-sih', significato: 'Grazie' },
+        { frase: 'Tolong', pronuncia: 'tò-long', significato: 'Per favore (quando si chiede qualcosa)' },
+        { frase: 'Maaf', pronuncia: 'ma-àf', significato: 'Mi scusi' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rà-pa har-gà-nia', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/SGP',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Lo skyline del Central Business District di Singapore che si specchia nelle acque di Marina Bay al tramonto',

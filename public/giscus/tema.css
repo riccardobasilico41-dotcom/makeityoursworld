@@ -1,0 +1,76 @@
+/*
+ * Tema Giscus di Make It Yours World: panna, nero caldo e rosso sindoor come il sito.
+ * Giscus lo carica dal dominio pubblico (data-theme = URL assoluto di questo file),
+ * quindi funziona solo online, non su localhost: lì il componente usa il tema «light».
+ */
+main {
+  --color-prettylights-syntax-comment: #6e6a63;
+  --color-prettylights-syntax-constant: #8e1d17;
+  --color-prettylights-syntax-entity: #8e1d17;
+  --color-prettylights-syntax-keyword: #b3261e;
+  --color-prettylights-syntax-string: #3b3833;
+  --color-prettylights-syntax-variable: #8e1d17;
+  --color-btn-text: #161412;
+  --color-btn-bg: #f4eee3;
+  --color-btn-border: rgba(22, 20, 18, 0.35);
+  --color-btn-shadow: none;
+  --color-btn-inset-shadow: none;
+  --color-btn-hover-bg: #e9e0cf;
+  --color-btn-hover-border: #161412;
+  --color-btn-active-bg: #e9e0cf;
+  --color-btn-active-border: #161412;
+  --color-btn-selected-bg: #e9e0cf;
+  --color-btn-primary-text: #f4eee3;
+  --color-btn-primary-bg: #161412;
+  --color-btn-primary-border: #161412;
+  --color-btn-primary-shadow: none;
+  --color-btn-primary-inset-shadow: none;
+  --color-btn-primary-hover-bg: #b3261e;
+  --color-btn-primary-hover-border: #b3261e;
+  --color-btn-primary-selected-bg: #8e1d17;
+  --color-btn-primary-selected-shadow: none;
+  --color-btn-primary-disabled-text: rgba(244, 238, 227, 0.8);
+  --color-btn-primary-disabled-bg: rgba(22, 20, 18, 0.5);
+  --color-btn-primary-disabled-border: rgba(22, 20, 18, 0.5);
+  --color-action-list-item-default-hover-bg: rgba(22, 20, 18, 0.06);
+  --color-segmented-control-bg: #e9e0cf;
+  --color-segmented-control-button-bg: #ffffff;
+  --color-segmented-control-button-selected-border: rgba(22, 20, 18, 0.35);
+  --color-fg-default: #161412;
+  --color-fg-muted: #3b3833;
+  --color-fg-subtle: #6e6a63;
+  --color-canvas-default: #ffffff;
+  --color-canvas-overlay: #ffffff;
+  --color-canvas-inset: #f4eee3;
+  --color-canvas-subtle: #f4eee3;
+  --color-border-default: rgba(22, 20, 18, 0.2);
+  --color-border-muted: rgba(22, 20, 18, 0.12);
+  --color-neutral-muted: rgba(22, 20, 18, 0.08);
+  --color-accent-fg: #b3261e;
+  --color-accent-emphasis: #b3261e;
+  --color-accent-muted: rgba(179, 38, 30, 0.4);
+  --color-accent-subtle: rgba(179, 38, 30, 0.08);
+  --color-success-fg: #1f6f43;
+  --color-attention-fg: #8a5a00;
+  --color-attention-muted: rgba(138, 90, 0, 0.4);
+  --color-attention-subtle: #fbf3dd;
+  --color-danger-fg: #8e1d17;
+  --color-danger-muted: rgba(142, 29, 23, 0.4);
+  --color-danger-subtle: #fbeceb;
+  --color-primer-shadow-inset: none;
+  --color-scale-gray-1: #e9e0cf;
+  --color-scale-blue-1: #f2d6d3;
+  --color-social-reaction-bg-hover: #e9e0cf;
+  --color-social-reaction-bg-reacted-hover: #f2d6d3;
+}
+
+main .gsc-loading-image {
+  background-image: none;
+}
+
+main .rounded-md,
+main .gsc-comment-box,
+main .gsc-reply-box,
+main .btn {
+  border-radius: 0;
+}

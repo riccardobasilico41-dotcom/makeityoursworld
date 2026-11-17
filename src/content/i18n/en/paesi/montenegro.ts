@@ -38,6 +38,22 @@ export const montenegro: Paese = {
       "Independence Day on May 21-22 and Statehood Day on July 13. Orthodox Easter and Christmas (Christmas is celebrated on January 7). The pilgrimage to Ostrog is very crowded in mid-May, for the feast of Saint Basil.",
     emergenze:
       "Police 122, ambulance 124, fire brigade 123, single European number 112. Italian Embassy in Podgorica.",
+    primaDiPartire: {
+      documento: 'EU citizens: passport, or national ID card for stays of up to 30 days. UK and US: passport issued less than 10 years ago and valid 3 months beyond departure.',
+      visto: 'No visa for up to 90 days; not in the EU or Schengen. Register within 24 hours: hotels do it, in private lets it\'s up to you. UK: 90 days in any 180.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B.',
+      sim: 'No EU or UK roaming deal, so home data can be costly. Local prepaid SIMs are sold on arrival, including short tourist bundles.',
+      pagamenti: 'Euro. Cards are accepted in most hotels, restaurants, bars, petrol stations and supermarkets; ATMs in every town.',
+      lingua: 'Montenegrin, written in both Latin and Cyrillic; Serbian, Bosnian, Albanian and Croatian are also in official use.',
+      frasi: [
+        { frase: 'Dobar dan', pronuncia: 'DOH-bar dahn', significato: 'Good day, hello' },
+        { frase: 'Hvala', pronuncia: 'HVAH-lah', significato: 'Thank you' },
+        { frase: 'Molim', pronuncia: 'MOH-leem', significato: 'Please, you\'re welcome' },
+        { frase: 'Izvinite', pronuncia: 'eez-VEE-nee-teh', significato: 'Excuse me, sorry' },
+        { frase: 'Koliko košta?', pronuncia: 'KOH-lee-koh KOSH-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/montenegro',
+    },
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['roadtrip', 'mare', 'montagna', 'trekking'],

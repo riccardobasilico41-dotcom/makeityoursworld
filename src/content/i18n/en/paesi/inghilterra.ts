@@ -34,6 +34,16 @@ export const inghilterra: Paese = {
     clima:
       'Temperate and changeable: it can rain in any month, and within the same day you go from sun to clouds. Summer is usually warm but rarely too hot. Dress in layers and keep a waterproof jacket.',
     emergenze: 'Emergency number 999. The Italian Embassy is in London.',
+    primaDiPartire: {
+      documento: 'EU citizens need a passport valid for the whole stay; ID cards are accepted only in a few cases, such as EU Settlement Scheme status.',
+      visto: 'No visa for tourism up to 6 months, but EU and US citizens need an ETA (£20, via GOV.UK or the UK ETA app, linked to the passport). British and Irish citizens don\'t need one.',
+      vaccini: 'None required. Make sure routine jabs are up to date, including measles (MMR); hepatitis A can be considered.',
+      prese: 'Type G sockets with three rectangular pins, 230V: visitors with European two-pin plugs need an adaptor.',
+      sim: 'EU roam-like-at-home rules don\'t cover the UK, so check your plan. With an unlocked phone, a prepaid UK SIM is often the cheaper option.',
+      pagamenti: 'Cards, contactless and phone wallets are widely accepted, mainly Visa and Mastercard; Amex less so. Some small shops and markets are cash only. Cash machines are everywhere.',
+      mance: 'Not expected but appreciated. In restaurants 10-15% if no service charge is added; in taxis round up or tip about 10%.',
+      lingua: 'English. Welsh and Scottish Gaelic are also spoken elsewhere in the UK.',
+    },
     aggiornatoAl: 'November 2026',
   },
   stileViaggio: ['city', 'countryside', 'train', 'museums'],

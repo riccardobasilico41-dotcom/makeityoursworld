@@ -37,6 +37,23 @@ export const croazia: Paese = {
     festivita:
       'Festivales de verano de Dubrovnik (julio-agosto) y de Split; mercadillo navideño de Zagreb en diciembre. El 15 de agosto, la Asunción, es uno de los días más concurridos de la costa.',
     emergenze: 'Número único europeo 112; 192 policía, 194 ambulancia, 195 rescate en el mar.',
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor durante toda la estancia. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B, encefalitis por garrapatas si pasarás mucho tiempo al aire libre.',
+      prese: '220 V, enchufes tipo F (Schuko): los enchufes españoles encajan sin adaptador.',
+      sim: 'Roaming de la UE incluido en tu tarifa. Hay cobertura móvil en todo el país.',
+      pagamenti: 'Euro. Las tarjetas principales se aceptan casi en todas partes y hay cajeros en todo el país; algunos mercados solo aceptan efectivo. Evita los cajeros independientes con comisión.',
+      lingua: 'Croata. El inglés está muy extendido, sobre todo entre los jóvenes; en los destinos turísticos grandes se habla también alemán e italiano.',
+      frasi: [
+        { frase: 'Dobar dan', pronuncia: 'DÓ-bar dan', significato: 'Buenos días' },
+        { frase: 'Hvala', pronuncia: 'JVÁ-la', significato: 'Gracias' },
+        { frase: 'Molim', pronuncia: 'MÓ-lim', significato: 'Por favor, de nada' },
+        { frase: 'Oprostite', pronuncia: 'o-PRÓS-ti-te', significato: 'Disculpe, perdón' },
+        { frase: 'Koliko košta?', pronuncia: 'KÓ-li-ko KÓSH-ta', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Croacia',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   heroImageAlt: 'Las murallas de Dubrovnik y los tejados rojos de la ciudad vieja sobre el mar',

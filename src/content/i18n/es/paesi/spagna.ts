@@ -40,6 +40,16 @@ export const spagna: Paese = {
     festivita:
       "La Semana Santa es el evento religioso y turístico más sentido, sobre todo en Sevilla: las procesiones bloquean el casco antiguo durante una semana y los alojamientos se reservan con meses de antelación. La Feria de Abril de Sevilla (dos semanas después de Pascua) es la otra gran cita andaluza. Los Sanfermines de Pamplona (6-14 de julio) quedan fuera de las cuatro regiones de esta guía, pero en esos días hacen subir los precios de los vuelos en todo el Norte. El Camino de Santiago tiene su pico alrededor del 25 de julio, fiesta de Santiago, sobre todo en los años santos (Xacobeo).",
     emergenze: 'Número único europeo 112, activo en todo el territorio, islas incluidas. Embajada de Italia en Madrid, consulado en Barcelona y consulados honorarios en varias ciudades, también en Canarias y Baleares.',
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B.',
+      prese: '220 V, enchufes de dos clavijas redondas, como en el resto del país.',
+      sim: 'Tu tarifa española funciona igual en todo el país, islas incluidas. Wi-Fi habitual en hoteles, locales y edificios públicos.',
+      pagamenti: 'Efectivo y tarjeta (sobre todo Visa y Mastercard) en casi todas partes; a veces hay un mínimo de unos 10 €. Cajeros fáciles de encontrar en los centros.',
+      mance: 'Opcional, el servicio va incluido. En bares, restaurantes, hoteles y taxis se suele dejar entre el 5 y el 10%.',
+      lingua: 'Castellano, con catalán, euskera y gallego en sus comunidades.',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImage: '/images/spagna/spagna-paese.jpg',

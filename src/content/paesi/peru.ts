@@ -42,6 +42,23 @@ export const peru: Paese = {
     festivita:
       'L\'Inti Raymi, la festa del sole, si celebra a Cusco il 24 giugno ed è l\'evento più importante dell\'anno: città piena e prezzi alle stelle, da prenotare con largo anticipo. A febbraio, la Virgen de la Candelaria a Puno è una delle feste più grandi del continente.',
     emergenze: 'Polizia 105, emergenze 911, polizia turistica dedicata nelle città principali. L\'Ambasciata d\'Italia si trova a Lima.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità all\'arrivo, più il biglietto di ritorno: con meno di 6 mesi l\'ingresso viene rifiutato.',
+      visto: 'Nessun visto per turismo fino a 90 giorni (su 183). L\'ingresso è registrato nella TAM digitale: i giorni concessi si controllano online sul sito di Migraciones.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: epatite A e B; febbre gialla per chi va in Amazzonia sotto i 2.300 m; per alcuni tifo e rabbia.',
+      prese: '220 V, 60 Hz (50 Hz ad Arequipa): i caricatori 100-240 V funzionano senza trasformatore.',
+      pagamenti: 'Il dollaro è accettato quasi ovunque; l\'euro si cambia solo in alcune banche e a cambio sfavorevole. Cambia solo in banca o nelle casas de cambio, mai per strada.',
+      mance: 'Non c\'è una cifra fissa, dipende da quanto sei soddisfatto: di solito il 10% del conto va bene.',
+      lingua: 'Spagnolo; nell\'entroterra si parla anche il quechua, nel sud (Puno) l\'aymara.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'ò-la', significato: 'Ciao' },
+        { frase: 'Gracias', pronuncia: 'grà-sias', significato: 'Grazie' },
+        { frase: 'Por favor', pronuncia: 'por fa-vòr', significato: 'Per favore' },
+        { frase: 'Disculpe', pronuncia: 'di-skùl-pe', significato: 'Mi scusi' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'kuàn-to kuè-sta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/PER',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Un lama solitario pascola sui terrazzamenti inca di Machu Picchu avvolti nella nebbia del mattino, Perù',

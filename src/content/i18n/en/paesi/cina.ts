@@ -39,6 +39,23 @@ export const cina: Paese = {
     festivita:
       "Two periods to avoid, no discussion. The first is the Golden Week of the National Day, from October 1 to 7, when hundreds of millions of people travel at once: trains sold out weeks ahead, sites stormed, prices tripled. The second is Chinese New Year (between late January and mid-February, movable date), with the chunyun, the largest annual human migration on the planet: wonderful to watch, impossible to get through as a tourist, with half of the businesses closed. The Labour Day holiday in the first days of May (May 1-5 in 2026) is also busy. In all these periods domestic tourism is staggering and you risk hours of queuing everywhere, from trains to the most famous sites. Outside these dates the country moves normally.",
     emergenze: "Police 110, ambulance 120, fire department 119. The Italian Embassy is in Beijing, with Consulates General in Shanghai, Guangzhou, Chongqing and Hong Kong.",
+    primaDiPartire: {
+      documento: 'Passport with at least 6 months\' validity on arrival and 2 blank pages. Carry it at all times for identity checks.',
+      visto: 'UK and EU citizens: visa-free up to 30 days for tourism until 31 December 2026; online arrival card. US citizens: 240-hour visa-free transit, check tourist visa rules.',
+      vaccini: 'Yellow fever certificate required from 9 months if arriving from a risk country, even in transit. Recommended: hepatitis A and B; Japanese encephalitis, typhoid by trip.',
+      prese: '220V. Mixed sockets for flat two-pin, round two-pin and angled three-pin plugs: UK plugs won\'t fit, bring a universal adapter.',
+      sim: 'Top-up SIMs at international airports, with your passport. On a Chinese connection Google, Gmail, Instagram and YouTube are blocked.',
+      pagamenti: 'Almost everything is paid with Alipay and WeChat Pay, which link to Visa and Mastercard: set them up before you go. Outside big cities cards and ATMs are scarce.',
+      lingua: 'Mandarin Chinese.',
+      frasi: [
+        { frase: 'Nǐ hǎo', pronuncia: 'nee HOW', significato: 'Hello' },
+        { frase: 'Xièxie', pronuncia: 'SHYEH-shyeh', significato: 'Thank you' },
+        { frase: 'Qǐng', pronuncia: 'CHING', significato: 'Please' },
+        { frase: 'Duìbuqǐ', pronuncia: 'DWAY-boo-chee', significato: 'Sorry, excuse me' },
+        { frase: 'Duōshao qián?', pronuncia: 'DWAW-shaow CHYEN', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/china',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: 'The Great Wall at Mutianyu following the ridge between the wooded hills north of Beijing',

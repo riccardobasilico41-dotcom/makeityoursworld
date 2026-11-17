@@ -38,6 +38,22 @@ export const singapore: Paese = {
     festivita:
       "El calendario refleja las cuatro comunidades: el Año Nuevo chino (enero-febrero), que es la fiesta más sentida y en la que Chinatown se transforma; Hari Raya Puasa al final del Ramadán, con Geylang Serai iluminada; Deepavali en Little India; Navidad, cuando Orchard Road se llena de luminarias. En el Año Nuevo chino muchos locales de gestión familiar cierran durante días, centros de hawkers incluidos.",
     emergenze: "Policía 999, ambulancia y bomberos 995. La Embajada de Italia está en Singapur.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez desde la fecha de entrada.',
+      visto: 'Sin visado para turismo hasta 90 días. Obligatoria la SG Arrival Card en línea, gratuita, en los 3 días antes de llegar. Reino Unido: estancia fijada a la llegada, 30-90 días.',
+      vaccini: 'Fiebre amarilla obligatoria desde 1 año si se llega de países de riesgo (también tránsitos de más de 12 horas). Recomendadas: hepatitis A y B, tifoidea según el viaje.',
+      prese: 'Enchufes británicos de tres patas rectangulares (tipo G): los enchufes españoles y los Schuko no sirven, hace falta adaptador.',
+      pagamenti: 'Se aceptan casi todas las tarjetas de crédito y muchos cajeros admiten tarjetas españolas. En los centros comerciales se cambian euros.',
+      lingua: 'Inglés, mandarín, malayo y tamil son lenguas oficiales; el malayo es la lengua nacional.',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-lá-mat pá-gui', significato: 'Buenos días' },
+        { frase: 'Terima kasih', pronuncia: 'te-rí-ma ká-sij', significato: 'Gracias' },
+        { frase: 'Tolong', pronuncia: 'tó-long', significato: 'Por favor (al pedir algo)' },
+        { frase: 'Maaf', pronuncia: 'ma-áf', significato: 'Perdone, disculpe' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rá-pa har-gá-ña', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Singapur',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'El skyline del Central Business District de Singapur reflejándose en las aguas de Marina Bay al atardecer',

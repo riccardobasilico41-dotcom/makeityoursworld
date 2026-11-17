@@ -34,6 +34,23 @@ export const messico: Paese = {
     festivita:
       'Fra fine ottobre e inizio novembre si celebra lo Hanal Pixán, la versione maya del Día de los Muertos, con altari e cene tradizionali in diverse comunità dello Yucatán. È molto meno turistico delle celebrazioni della capitale.',
     emergenze: 'Numero unico 911. L\'Ambasciata d\'Italia si trova a Città del Messico, con consolati onorari in diverse città tra cui Cancún.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità all\'arrivo. Tieni a portata di mano le prenotazioni di alloggio e volo di uscita. UK: basta valido per il soggiorno.',
+      visto: 'Niente visto per turismo fino a 180 giorni, ma la durata la decide l\'agente di frontiera. Per il Quintana Roo (Cancún, Tulum) si paga online la Visitax, 20,99 USD a persona.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: epatite A e B, tifo e vaccinazioni di routine, morbillo compreso.',
+      prese: '110 V, 60 Hz, prese a lamelle piatte come negli Stati Uniti: serve un adattatore, da portare da casa.',
+      pagamenti: 'Conviene girare con i contanti del giorno più una carta di credito e prelevare al bancomat quando serve; chiedi sempre la ricevuta.',
+      mance: 'Al ristorante, al bar e ai banchi di cibo si lascia il 10-15%; qualche moneta a facchini, tassisti e personale delle pulizie.',
+      lingua: 'Spagnolo, più numerose lingue indigene come náhuatl e maya.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'ò-la', significato: 'Ciao, buongiorno' },
+        { frase: 'Gracias', pronuncia: 'grà-sias', significato: 'Grazie' },
+        { frase: 'Por favor', pronuncia: 'por fa-vòr', significato: 'Per favore' },
+        { frase: 'Disculpe', pronuncia: 'di-skùl-pe', significato: 'Mi scusi, permesso' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'kuàn-to kuè-sta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/MEX',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'natura', 'cultura', 'nightlife'],

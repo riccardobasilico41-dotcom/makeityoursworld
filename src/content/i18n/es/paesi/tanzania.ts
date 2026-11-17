@@ -36,6 +36,21 @@ export const tanzania: Paese = {
     festivita:
       'Zanzíbar es de mayoría musulmana: durante el Ramadán (aproximadamente del 8 de febrero al 9 de marzo de 2027) en Stone Town muchos locales cierran de día y el ritmo se ralentiza. Navidad, Año Nuevo y julio-agosto son la temporada más alta de safaris: los mejores lodges y campamentos hay que reservarlos con meses de antelación.',
     emergenze: 'Embajada de Italia en Dar es Salaam. En los parques el primer contacto es el operador del safari: conviene llevar siempre su número y el del seguro médico.',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez y una página libre.',
+      visto: 'Visado obligatorio: e-visa en visa.immigration.go.tz 10 días antes, o a la llegada. Desde el 1/10/2026, también el seguro estatal de 44 $: NIC (continente) o ZIC (Zanzíbar).',
+      vaccini: 'Fiebre amarilla solo si llegas de un país de riesgo (también escalas de 12 h o más). Recomendadas: hepatitis A, tifoidea, refuerzo de polio; antipalúdicos bajo 1.800 m.',
+      pagamenti: 'Tarjetas poco extendidas: sobre todo en hoteles, restaurantes y tiendas de nivel internacional, a menudo con un 5-10% de recargo. Euros y dólares se cambian en bancos.',
+      lingua: 'Suajili e inglés, este último sobre todo en las ciudades.',
+      frasi: [
+        { frase: 'Jambo', pronuncia: 'YÁM-bo', significato: 'Hola (saludo usado con los turistas)' },
+        { frase: 'Asante', pronuncia: 'a-SÁN-te', significato: 'Gracias' },
+        { frase: 'Tafadhali', pronuncia: 'ta-fa-DÁ-li', significato: 'Por favor' },
+        { frase: 'Samahani', pronuncia: 'sa-ma-JÁ-ni', significato: 'Perdón, lo siento' },
+        { frase: 'Bei gani?', pronuncia: 'BÉI GÁ-ni', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Tanzania',
+    },
     aggiornatoAl: 'noviembre de 2026',
   },
   stileViaggio: ['safari', 'natura', 'campeggio', 'mare'],

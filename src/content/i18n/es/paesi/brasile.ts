@@ -41,6 +41,21 @@ export const brasile: Paese = {
     festivita:
       "Carnaval en febrero o principios de marzo (Río, Salvador, Olinda), con precios duplicados y alojamientos agotados; Nochevieja en Copacabana; fiestas juninas en junio en el Nordeste; el Bumba-meu-boi en São Luís entre junio y julio.",
     emergenze: "Policía 190, ambulancia (SAMU) 192, bomberos 193. Embajada de Italia en Brasilia, consulados en Río de Janeiro, São Paulo y otras ciudades.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez a la entrada y billete de ida y vuelta.',
+      visto: 'Sin visado para turismo hasta 90 días cada 180, con billete de vuelta. Comprueba que la Policía Federal selle el pasaporte al entrar.',
+      vaccini: 'Ninguna obligatoria. Fiebre amarilla recomendada en muchos estados, incluidos Iguazú, Río, São Paulo y Brasilia. También hepatitis A y B; para algunos, tifoidea.',
+      pagamenti: 'El cambio es libre en casas de cambio, bancos y grandes hoteles. Cuidado con los fraudes con tarjeta, incluida la clonación en cajeros y tiendas.',
+      lingua: 'Portugués (brasileño).',
+      frasi: [
+        { frase: 'Olá', pronuncia: 'o-LÁ', significato: 'Hola' },
+        { frase: 'Obrigado / Obrigada', pronuncia: 'o-bri-GÁ-du / o-bri-GÁ-da', significato: 'Gracias (dicho por un hombre / por una mujer)' },
+        { frase: 'Por favor', pronuncia: 'por fa-VÓR', significato: 'Por favor' },
+        { frase: 'Desculpe', pronuncia: 'dis-KÚL-pi', significato: 'Perdone' },
+        { frase: 'Quanto custa?', pronuncia: 'KUÁN-tu KÚS-ta', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Brasil',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   heroImageAlt: "Las lagunas de agua de lluvia entre las dunas blancas de los Lençóis Maranhenses",

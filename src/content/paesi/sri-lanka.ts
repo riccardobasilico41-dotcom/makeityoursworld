@@ -34,6 +34,22 @@ export const sriLanka: Paese = {
     festivita:
       'Ogni mese il giorno di Poya, la luna piena, è festivo: non si vendono alcolici e molte attività chiudono o rallentano. Chi non lo sa resta sorpreso, quindi conviene guardare il calendario prima di fissare le tappe.',
     emergenze: 'Polizia 119, ambulanza 1990. L\'Ambasciata d\'Italia è a Colombo.',
+    primaDiPartire: {
+      documento: 'Passaporto valido almeno 6 mesi, con almeno due pagine bianche consecutive per visto e timbri.',
+      visto: 'Serve l\'ETA online prima di partire: dal 25 maggio 2026 è gratuita per chi ha il passaporto italiano. Consente un soggiorno di 30 giorni.',
+      vaccini: 'Nessuna obbligatoria, salvo febbre gialla per chi arriva da paesi a rischio. Consigliate: epatite A e B, tifo; per alcuni encefalite giapponese e rabbia.',
+      sim: 'La SIM locale va registrata con un documento: per i turisti vale il passaporto.',
+      pagamenti: 'Euro e dollari in contanti sono ben accettati; le carte servono soprattutto nelle strutture turistiche. Nelle zone rurali, specie al nord, pochi bancomat.',
+      lingua: 'Singalese e tamil. L\'inglese è diffuso solo a Colombo e nei luoghi turistici.',
+      frasi: [
+        { frase: 'Ayubowan', pronuncia: 'a-iù-bo-van', significato: 'Saluto tradizionale (augurio di lunga vita)' },
+        { frase: 'Bohoma stuti', pronuncia: 'bò-o-ma stù-ti', significato: 'Grazie mille' },
+        { frase: 'Karunakarala', pronuncia: 'ka-ru-nà-ka-ra-la', significato: 'Per favore' },
+        { frase: 'Samavenna', pronuncia: 'sa-ma-vèn-na', significato: 'Mi scusi' },
+        { frase: 'Meka kiyada?', pronuncia: 'mè-ka ki-ià-da', significato: 'Quanto costa questo?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/LKA',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['on the road', 'natura', 'cultura', 'mare'],

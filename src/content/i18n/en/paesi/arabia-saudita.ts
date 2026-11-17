@@ -39,6 +39,21 @@ export const arabiaSaudita: Paese = {
     festivita:
       "Here **Ramadan** is stricter than in the rest of the Gulf: during the day almost everything closes, eating and drinking in public in daylight is forbidden for everyone, including non-Muslims, and life shifts to the night. On **Eid al-Fitr** and **Eid al-Adha** the country comes to a halt and transport is stormed. During the Hajj huge crowds move toward the west of the country and prices go up. National Day is September 23, Founding Day is February 22.",
     emergenze: 'Police 999, ambulance 997, fire brigade 998; in the main cities the single number 911 is also active. The Italian Embassy is in Riyadh, and there is a Consulate General in Jeddah.',
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months from arrival.',
+      visto: 'Tourist e-visa at visa.visitsaudi.com, health insurance included: valid one year, up to 90 days in total. UK citizens can also use the ETA or the electronic visa waiver.',
+      vaccini: 'Yellow fever only if arriving from a risk country. Umrah and Hajj require the meningococcal ACWY vaccine. Typhoid recommended; for some, hepatitis A and B and rabies.',
+      pagamenti: 'Banking is on a par with Europe: Visa, Mastercard, American Express and Diners are the most widely used cards. Riyals can be exchanged at banks and bureaux.',
+      lingua: 'Arabic; English is also used in tourist services.',
+      frasi: [
+        { frase: 'As-salamu alaykum', pronuncia: 'as-sa-LAH-moo a-LAY-koom', significato: 'Hello (literally: peace be upon you)' },
+        { frase: 'Shukran', pronuncia: 'SHOOK-ran', significato: 'Thank you' },
+        { frase: 'Min fadlak', pronuncia: 'min FAD-lak', significato: 'Please (to a man; to a woman: min fadlik)' },
+        { frase: 'Law samaht', pronuncia: 'law sa-MAHT', significato: 'Excuse me' },
+        { frase: 'Bikam?', pronuncia: 'BEE-kam', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/saudi-arabia',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'The historic coral-stone houses with wooden lattice windows in the Al-Balad district, Jeddah',

@@ -46,6 +46,23 @@ export const indonesia: Paese = {
     festivita:
       'Il Nyepi, il capodanno balinese (marzo, data variabile), è il "giorno del silenzio": a Bali si fermano tutte le attività per 24 ore, l\'aeroporto chiude e non si può uscire dall\'alloggio. Va saputo in anticipo, perché può bloccare un itinerario.',
     emergenze: 'Numero unico 112. L\'Ambasciata d\'Italia è a Giacarta, con un consolato onorario a Denpasar (Bali).',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità all\'ingresso, due pagine libere e perfettamente integro: per strappi o scollature si viene respinti.',
+      visto: 'Visto all\'arrivo (e-VOA) per 30 giorni, 500.000 IDR, rinnovabile una volta; online almeno una settimana prima. Dichiarazione All Indonesia nelle 72 ore prima. UK: uguale.',
+      vaccini: 'Febbre gialla obbligatoria da 9 mesi in su se si arriva da paesi a rischio. Consigliate: epatite A e B, tifo. Malaria nell\'est (anche Komodo) e in zone rurali.',
+      prese: '230V, 50Hz, prese di tipo C e F: le spine italiane a due poli tondi e le Schuko entrano, per la tripolare serve un adattatore.',
+      sim: 'SIM in vendita ai banchi degli operatori in aeroporto, da registrare col passaporto.',
+      pagamenti: 'Carte accettate nei luoghi turistici, molto usati i pagamenti da app e contactless. L\'euro si cambia poco fuori dalle zone turistiche. Bali: tassa turistica di 150.000 IDR.',
+      lingua: 'Indonesiano (bahasa Indonesia).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-là-mat pà-ghi', significato: 'Buongiorno' },
+        { frase: 'Terima kasih', pronuncia: 'te-rì-ma kà-si', significato: 'Grazie' },
+        { frase: 'Tolong', pronuncia: 'tò-long', significato: 'Per favore (quando si chiede qualcosa)' },
+        { frase: 'Permisi', pronuncia: 'per-mì-si', significato: 'Permesso, mi scusi' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rà-pa har-gà-nia', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/IDN',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['natura', 'avventura', 'isole', 'diving'],

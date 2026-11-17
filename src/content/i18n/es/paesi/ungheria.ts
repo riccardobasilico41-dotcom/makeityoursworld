@@ -38,6 +38,22 @@ export const ungheria: Paese = {
     festivita:
       'En diciembre los mercadillos de Navidad en la Plaza Vörösmarty y delante de la Basílica de San Esteban están entre los eventos más concurridos del año. El 20 de agosto (Fiesta de San Esteban, fundación del Estado húngaro) trae grandes fuegos artificiales sobre el Danubio. El 15 de marzo (aniversario de la revolución de 1848) es otra fecha nacional muy sentida.',
     emergenze: 'Número único europeo 112. La Embajada de Italia está en Budapest.',
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B, encefalitis por garrapatas si pasarás mucho tiempo al aire libre.',
+      sim: 'Roaming de la UE incluido en tu tarifa: no hace falta una SIM local.',
+      pagamenti: 'Florín húngaro, no euro. En los cajeros tapa el PIN y vigila la tarjeta; si ves cargos extraños, bloquéala enseguida.',
+      lingua: 'Húngaro.',
+      frasi: [
+        { frase: 'Jó napot', pronuncia: 'IÓ NÁ-pot', significato: 'Buenos días' },
+        { frase: 'Köszönöm', pronuncia: 'KÖ-sö-nöm', significato: 'Gracias' },
+        { frase: 'Kérem', pronuncia: 'KÉ-rem', significato: 'Por favor, de nada' },
+        { frase: 'Elnézést', pronuncia: 'ÉL-ne-sesht', significato: 'Disculpe, perdón' },
+        { frase: 'Mennyibe kerül?', pronuncia: 'MÉ-ñi-be KÉ-rül', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Hungria',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'El Parlamento húngaro iluminado en la hora azul, reflejado en el Danubio visto desde la orilla de Buda',

@@ -41,6 +41,21 @@ export const brasile: Paese = {
     festivita:
       "Carnival in February or early March (Rio, Salvador, Olinda), with doubled prices and sold-out lodging; New Year's at Copacabana; festas juninas in June in the Northeast; Bumba-meu-boi in São Luís between June and July.",
     emergenze: "Police 190, ambulance (SAMU) 192, fire department 193. Italian Embassy in Brasília, consulates in Rio de Janeiro, São Paulo and other cities.",
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months on entry, plus a return ticket.',
+      visto: 'EU and UK: no visa for tourism up to 90 days. Make sure the Federal Police stamp your passport, or you may be fined when leaving.',
+      vaccini: 'None required. Yellow fever recommended for many states, including Iguaçu, Rio, São Paulo and Brasília. Also hepatitis A and B; for some travellers typhoid and rabies.',
+      pagamenti: 'Money is easy to change at bureaux, banks and big hotels. Card fraud is common, including skimming at ATMs and in shops.',
+      lingua: 'Portuguese (Brazilian).',
+      frasi: [
+        { frase: 'Olá', pronuncia: 'oh-LAH', significato: 'Hello' },
+        { frase: 'Obrigado / Obrigada', pronuncia: 'oh-bree-GAH-doo / oh-bree-GAH-dah', significato: 'Thank you (said by a man / by a woman)' },
+        { frase: 'Por favor', pronuncia: 'poor fa-VOR', significato: 'Please' },
+        { frase: 'Desculpe', pronuncia: 'dis-KOOL-pee', significato: 'Excuse me, sorry' },
+        { frase: 'Quanto custa?', pronuncia: 'KWAN-too KOOS-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/brazil',
+    },
     aggiornatoAl: 'October 2026',
   },
   heroImageAlt: 'The rainwater lagoons among the white dunes of the Lençóis Maranhenses',

@@ -43,6 +43,23 @@ export const croazia: Paese = {
     festivita:
       'Festival estivi di Dubrovnik (luglio-agosto) e di Spalato; mercatino di Natale di Zagabria a dicembre. Il 15 agosto, l\'Assunzione, è uno dei giorni più affollati della costa.',
     emergenze: 'Numero unico europeo 112; 192 polizia, 194 ambulanza, 195 soccorso in mare.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) valida per tutta la durata del soggiorno. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      prese: '220 V, prese di tipo F (Schuko): le spine italiane Schuko e a due poli entrano, per quelle a tre poli in linea serve un adattatore.',
+      sim: 'Roaming UE incluso nella tariffa italiana. La copertura telefonica arriva su tutto il territorio.',
+      pagamenti: 'Euro. Carte dei principali circuiti accettate quasi ovunque e bancomat in tutto il paese; alcuni mercati vogliono solo contanti. Evita i bancomat indipendenti con commissioni.',
+      lingua: 'Croato. L\'inglese è molto diffuso, soprattutto tra i giovani; nelle località turistiche più grandi si parlano spesso anche tedesco e italiano.',
+      frasi: [
+        { frase: 'Dobar dan', pronuncia: 'dò-bar dan', significato: 'Buongiorno' },
+        { frase: 'Hvala', pronuncia: 'hvà-la', significato: 'Grazie' },
+        { frase: 'Molim', pronuncia: 'mò-lim', significato: 'Per favore, prego' },
+        { frase: 'Oprostite', pronuncia: 'o-prò-sti-te', significato: 'Mi scusi' },
+        { frase: 'Koliko košta?', pronuncia: 'kò-li-ko kòsc-ta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/HRV',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   heroImageAlt: 'Le mura di Dubrovnik e i tetti rossi della città vecchia sul mare',

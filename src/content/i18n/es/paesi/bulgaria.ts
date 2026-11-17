@@ -30,6 +30,22 @@ export const bulgaria: Paese = {
     clima:
       'La temporada de esquí va del 1 de diciembre a mediados de abril, con nieve artificial en más del 90 % de las pistas: hay nieve incluso en los años más secos. En verano la misma zona es buena para el senderismo en el macizo del Pirin.',
     emergenze: 'Número único europeo 112. La Embajada de Italia está en Sofía.',
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor y en buen estado. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B, encefalitis por garrapatas si pasarás mucho tiempo al aire libre.',
+      sim: 'Roaming de la UE incluido en tu tarifa. Redes 4G/5G de A1, Vivacom y Yettel; la SIM de prepago local se registra con un documento de identidad.',
+      pagamenti: 'Euro desde el 1 de enero de 2026. Tarjetas aceptadas en hoteles, restaurantes y tiendas grandes; cajeros en los bancos principales. En zonas rurales lleva efectivo.',
+      lingua: 'Búlgaro, escrito en alfabeto cirílico.',
+      frasi: [
+        { frase: 'Zdravejte (Здравейте)', pronuncia: 'sdra-VÉI-te', significato: 'Hola, buenos días' },
+        { frase: 'Blagodarja (Благодаря)', pronuncia: 'bla-go-da-RIÁ', significato: 'Gracias' },
+        { frase: 'Molja (Моля)', pronuncia: 'MÓ-lia', significato: 'Por favor, de nada' },
+        { frase: 'Izvinete (Извинете)', pronuncia: 'is-vi-NÉ-te', significato: 'Disculpe, perdón' },
+        { frase: 'Kolko struva? (Колко струва?)', pronuncia: 'KÓL-ko STRÚ-va', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Bulgaria',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['sci', 'montagna', 'balcani'],

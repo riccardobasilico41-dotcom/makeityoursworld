@@ -38,6 +38,15 @@ export const guatemala: Paese = {
       'La Semana Santa de Antigua, con las alfombras de serrín y las procesiones, es de las más célebres de América Latina: preciosa, pero con precios y multitudes mucho más altos. El 1 de noviembre, en Sumpango y Santiago Sacatepéquez, se celebra la fiesta de los barriletes gigantes por el Día de Todos los Santos.',
     emergenze:
       'Números útiles: 110 para la policía nacional, 1500 para la policía turística (Asistur), 122/123 para bomberos y ambulancia. La Embajada de Italia está en Ciudad de Guatemala.',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez a la entrada.',
+      visto: 'Sin visado por turismo hasta 90 días, que cuentan en total también para El Salvador, Honduras y Nicaragua. Antes de entrar y salir se rellena una declaración online.',
+      vaccini: 'Fiebre amarilla obligatoria solo si llegas de países de riesgo. Recomendadas hepatitis A y B y fiebre tifoidea; antipalúdico en Petén, Izabal, Alta y Baja Verapaz, Escuintla.',
+      sim: 'Buena cobertura móvil e itinerancia con los operadores Tigo y Claro; internet muy extendido.',
+      pagamenti: 'Cambiar euros es difícil: mejor dólares, aceptados en muchos hoteles, restaurantes y tiendas, igual que tarjetas y cajeros. Prohibido entrar con más de 10.000 USD en efectivo.',
+      lingua: 'Español, además de una veintena de lenguas mayas.',
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['vulcani', 'cultura maya', 'natura', 'on the road'],

@@ -53,6 +53,8 @@ export const SEGMENTI: Record<Lingua, Record<string, string>> = {
     amazzonia: 'amazon',
     aree: 'regions',
     consigli: 'travel-tips',
+    'dove-vado': 'where-should-i-go',
+    'cosa-uso-in-viaggio': 'travel-resources',
   },
   es: {
     viaggi: 'viajes',
@@ -71,5 +73,7 @@ export const SEGMENTI: Record<Lingua, Record<string, string>> = {
     amazzonia: 'amazonia',
     aree: 'regiones',
     consigli: 'consejos',
+    'dove-vado': 'a-donde-voy',
+    'cosa-uso-in-viaggio': 'recursos-de-viaje',
   },
 }

@@ -1508,14 +1508,12 @@ export const destinazioniFrancia: Destinazione[] = [
       "Bretaña se recorre cambiando de base, porque de este a oeste las distancias son largas. **Saint-Malo** para la costa nororiental y el Mont-Saint-Michel; **Perros-Guirec o Ploumanac'h** para la Côte de Granit Rose; **Quimper, Douarnenez o la península de Crozon** para el Finistère; **Carnac, Vannes o Auray** para el Morbihan y los megalitos. Los precios son mucho más bajos que en la costa mediterránea, salvo en Saint-Malo y Dinard en agosto.",
     doveMangiare:
       "Hay una distinción que los bretones se toman en serio: las **galettes** son saladas y se hacen con **harina de trigo sarraceno**, las **crêpes** son dulces y se hacen con harina de trigo. Quien pide una «crêpe de jamón» declara enseguida de dónde viene. Se acompañan con **sidra servida en cuenco** (bolée). Luego las **ostras de Cancale**, los **mejillones**, el **kouign-amann** (hojaldre, mantequilla y azúcar caramelizado: quizá el dulce más calórico de Francia), el **far breton**, el **caramelo de mantequilla salada** y la **mantequilla salada** en general, que aquí es la norma.",
-    comeArrivare:
-      "Desde París el alta velocidad llega a Rennes en aproximadamente una hora y media, y de allí se continúa hacia Saint-Malo, Brest, Quimper y Vannes. Los aeropuertos útiles son Rennes, Brest y Nantes. **Para la costa y para el interior hace falta coche**.",
+    comeArrivare: "Desde París Montparnasse, la alta velocidad llega a **Rennes** en una hora y media aproximadamente; desde allí trenes regionales y TGV siguen hacia **Saint-Malo**, **Brest**, **Quimper** y **Vannes**, a los que también se llega desde París con TGV directos en tres o cuatro horas. Los aeropuertos útiles son Rennes, Brest y Nantes, con vuelos desde las principales ciudades europeas. Desde el norte de Italia en coche son más de mil kilómetros, al menos una larga jornada de carretera. **Para la costa, los cabos y el interior hace falta coche de todos modos**, mejor alquilado en Rennes o en el aeropuerto.",
     comeSpostarsi:
       "**Coche.** Los trenes conectan las ciudades principales pero no la costa, que es el motivo por el que se viene. Una cosa útil que saber: **en Bretaña las autopistas son gratuitas**, una herencia de los viejos planes de desarrollo regional. Es la única región francesa en la que esto vale para toda la red principal.",
     periodoMigliore:
       "**de mayo a septiembre**; los meses ideales son **junio y septiembre**. El tiempo bretón es proverbial, y aquí dicen que el buen tiempo ocurre varias veces al día: llueve, escampa y vuelve el sol en el espacio de una hora, todo el año. Julio y agosto tienen más sol y más gente. **Las grandes mareas**, con una amplitud entre las mayores de Europa, son un espectáculo, y el calendario sale con antelación.",
-    costi:
-      "En alojamientos y restaurantes es una de las regiones francesas más económicas, salvo las localidades de mar más conocidas en agosto. El GR34 es gratuito, los megalitos cuestan poco, los ferris a las islas tienen precios contenidos.",
+    costi: "En alojamiento y restaurantes es una de las regiones francesas más baratas, salvo las localidades de playa más conocidas en agosto. El GR34 es gratuito, los megalitos cuestan poco, los ferris a las islas tienen precios contenidos y las autopistas no se pagan. Una cena en crêperie con galette, crêpe y sidra sigue siendo de las más baratas de Francia. Presupuesto orientativo al día por persona, en habitación doble y sin alquiler de coche: bajo 60-90 €, medio 110-160 €, alto más de 250 €.",
     erroriDaEvitare: [
       "Subestimar las distancias: Bretaña es grande, y para ir de Saint-Malo a Quimper hace falta media jornada",
       "Contar con el tiempo. El chubasquero hace falta en todos los meses del año",
@@ -1576,87 +1574,259 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Alineamientos de Carnac",
-        testo: "Más de 3.000 menhires en filas paralelas, erigidos en el Neolítico: la mayor colección de este tipo del mundo. Las tres zonas principales son Ménec, Kermario y Kerlescan.",
-        come: "En coche desde Auray. Desde 1991 las filas principales están valladas para proteger la vegetación: el acceso entre las piedras cambia según la temporada.",
-        quando: "A primera hora o al final de la tarde.",
+        testo: "Más de 3.000 menhires en filas paralelas, levantados en el Neolítico: es la mayor concentración de piedras de este tipo del mundo. Las tres zonas principales son Ménec, Kermario y Kerlescan.",
+        come: "En coche desde Auray. Desde 1991 las filas principales están valladas para proteger la vegetación: el acceso entre las piedras cambia con la temporada. El sendero peatonal alrededor de los recintos es libre todo el año.",
+        quando: "A primera hora de la mañana o al final de la tarde.",
         tempo: "2 horas",
-        consiglio: "La Maison des Mégalithes explica las piedras y las normas de acceso."
+        costo: "Sendero alrededor de los recintos libre; visita guiada dentro de los alineamientos 13 € (2026)",
+        lat: 47.5933,
+        lng: -3.0797,
+        url: "https://www.menhirs-carnac.fr/",
+        consiglio: "La Maison des Mégalithes explica las piedras y las normas de acceso.",
       },
       {
         nome: "Saint-Malo",
-        testo: "La ciudad corsaria dentro de las murallas, destruida en 1944 y reconstruida piedra a piedra. El paseo por los baluartes da vistas al mar y los islotes; con marea baja se llega a pie al Grand Bé.",
+        testo: "La ciudad corsaria amurallada, destruida en 1944 y reconstruida piedra a piedra. El paseo por las murallas da vistas al mar y a los islotes; con la marea baja se llega a pie al Grand Bé.",
         come: "Tren directo desde París. Se visita a pie.",
-        quando: "Por la mañana; consultar las mareas antes de caminar al Grand Bé.",
-        tempo: "media jornada",
-        consiglio: "Comprobar la hora de marea baja: al islote solo se llega entonces."
+        quando: "Por la mañana; mirar las mareas antes de caminar hasta el Grand Bé.",
+        tempo: "medio día",
+        costo: "Murallas y ciudad amurallada libres",
+        lat: 48.6494,
+        lng: -2.0261,
+        url: "https://www.saint-malo-tourisme.com/",
+        consiglio: "Comprobar la hora de la marea baja: al islote solo se llega entonces.",
       },
       {
-        nome: "Costa de Granito Rosa",
-        testo: "Bloques de granito rosa erosionados en formas extrañas, entre Ploumanac'h y Perros-Guirec. El sendero de aduaneros (GR34) los atraviesa.",
-        come: "En coche hasta Ploumanac'h; el sendero costero parte del pueblo.",
-        quando: "Atardecer, cuando la luz resalta el color.",
+        nome: "Côte de Granit Rose",
+        testo: "Bloques de granito rosa erosionados en formas extrañas, entre Ploumanac'h y Perros-Guirec. El sendero de los aduaneros (GR34) pasa entre ellos.",
+        come: "En coche hasta Ploumanac'h; el sendero costero sale del pueblo.",
+        quando: "Al atardecer, cuando la luz enciende el color.",
         tempo: "2-3 horas",
-        consiglio: "El tramo hasta el faro de Mean Ruz es fácil y apto para todos."
+        costo: "Sendero libre; aparcamientos de pago en temporada alta",
+        lat: 48.8311,
+        lng: -3.4869,
+        consiglio: "El tramo hasta el faro de Mean Ruz es fácil y apto para todos.",
       },
       {
         nome: "Pointe du Raz",
-        testo: "Un promontorio sobre un acantilado a pico sobre el Atlántico, uno de los puntos más occidentales de Francia. Senderos en la punta y un faro en el mar.",
-        come: "En coche desde Quimper, hasta la punta del Cap Sizun.",
-        quando: "Día despejado; con niebla no se ve nada.",
+        testo: "Un cabo sobre acantilados cortados a pico sobre el Atlántico, uno de los puntos más occidentales de Francia. Senderos en la punta y un faro en el mar.",
+        come: "En coche desde Quimper, hasta la punta del Cap Sizun. Desde el aparcamiento se camina alrededor de un kilómetro hasta la punta.",
+        quando: "Un día despejado; con niebla no se ve nada.",
         tempo: "1-2 horas",
-        consiglio: "Mantenerse en los senderos marcados: los acantilados son inestables."
+        costo: "Acceso a la punta libre, aparcamiento de pago",
+        lat: 48.0403,
+        lng: -4.7411,
+        url: "https://www.pointeduraz.com/",
+        consiglio: "No salirse de los senderos señalizados: los acantilados son inestables.",
       },
       {
         nome: "Golfo de Morbihan y Gavrinis",
-        testo: "Un mar interior con unas cuarenta islas. La isla de Gavrinis alberga un túmulo neolítico con piedras grabadas extraordinarias.",
-        come: "Barco desde Larmor-Baden; cómo visitar y reservar Gavrinis, en la web oficial.",
+        testo: "Un mar interior con una cuarentena de islas. La isla de Gavrinis guarda un túmulo neolítico con piedras grabadas de forma extraordinaria.",
+        come: "Barco desde la rampa de Pen Lannic en Larmor-Baden, un cuarto de hora de travesía; la isla y el túmulo solo se visitan con guía.",
         quando: "Primavera y otoño; reservar antes.",
-        tempo: "media jornada",
-        consiglio: "Comprobar con antelación cómo se reserva la visita a Gavrinis."
-      }
+        tempo: "medio día",
+        lat: 47.572,
+        lng: -2.8989,
+        consiglio: "Comprobar con antelación cómo se reserva la visita a Gavrinis.",
+      },
+      {
+        nome: "Dinan",
+        testo: "Una villa medieval amurallada sobre una altura encima del Rance, con casas de entramado de madera y casi tres kilómetros de murallas. La Rue du Jerzual baja empinada y empedrada hasta el puerto fluvial.",
+        come: "En coche desde Saint-Malo en media hora, o en tren vía Dol-de-Bretagne. El centro se recorre a pie.",
+        quando: "Por la mañana, antes de los grupos; a finales de julio de los años pares se celebra la Fête des Remparts.",
+        tempo: "medio día",
+        costo: "Centro y murallas libres",
+        lat: 48.4564,
+        lng: -2.0489,
+        consiglio: "Bajar al puerto por la Rue du Jerzual y volver a subir en lanzadera si las piernas protestan.",
+      },
+      {
+        nome: "Cap Fréhel y Fort la Latte",
+        testo: "Acantilados de arenisca rosa de unos setenta metros sobre el mar, con el faro y un brezal de brezo y aulagas. A cuatro kilómetros, en el GR34, el Fort la Latte es un castillo del siglo XIV sobre un espolón a pico sobre el agua.",
+        come: "En coche desde Saint-Malo en unos 50 minutos. Entre el cabo y el fuerte se va a pie por el sendero costero, alrededor de una hora.",
+        quando: "De abril a octubre, cuando el fuerte abre todos los días; el atardecer en el cabo.",
+        tempo: "medio día",
+        costo: "Fort la Latte 8,50 € (2026), entradas solo en taquilla",
+        orari: "Fort la Latte abierto todos los días de abril a octubre; cerrado el 25 de diciembre y el 1 de enero",
+        lat: 48.6683,
+        lng: -2.2847,
+        url: "https://www.lefortlalatte.com/",
+      },
+      {
+        nome: "Locronan",
+        testo: "Un pueblo de granito gris casi intacto desde el siglo XVIII, cuando se enriqueció con las telas para velas. La plaza con el pozo y la iglesia de Saint-Ronan es de las más fotografiadas de Bretaña.",
+        come: "En coche desde Quimper en unos 20 minutos; aparcamiento fuera del pueblo, que es peatonal.",
+        quando: "A primera hora o fuera de temporada; en diciembre las luces de Navidad atraen a mucha gente.",
+        tempo: "1-2 horas",
+        costo: "Pueblo libre, aparcamiento de pago",
+        lat: 48.0985,
+        lng: -4.206,
+      },
+      {
+        nome: "Concarneau, la Ville Close",
+        testo: "Un islote fortificado dentro del puerto pesquero, cerrado por murallas de granito y unido a tierra firme por un puente. Dentro hay callejuelas, tiendas y el museo de la pesca.",
+        come: "En coche o autobús desde Quimper, una media hora. Se entra a pie por la puerta principal.",
+        quando: "Por la tarde-noche, cuando los grupos se han ido.",
+        tempo: "2 horas",
+        costo: "Entrada a la Ville Close libre",
+        lat: 47.8717,
+        lng: -3.9163,
+        consiglio: "El paseo por la muralla da vistas al puerto de los pesqueros.",
+      },
+      {
+        nome: "Península de Crozon y Pointe de Pen-Hir",
+        testo: "Una península en forma de cruz entre la rada de Brest y la bahía de Douarnenez, con acantilados, playas vacías y los Tas de Pois, tres farallones alineados frente a la Pointe de Pen-Hir. Es uno de los tramos más salvajes del GR34.",
+        come: "En coche desde Quimper o Brest, alrededor de una hora; de Camaret-sur-Mer a la punta, pocos minutos.",
+        quando: "Primavera y septiembre, con el cielo despejado.",
+        tempo: "1 día",
+        costo: "Cabos y senderos libres",
+        lat: 48.2509,
+        lng: -4.6236,
+        consiglio: "El tramo del GR34 entre Camaret y Morgat se divide bien en dos medias jornadas.",
+      },
+      {
+        nome: "Cancale",
+        testo: "El pueblo de las ostras, con el puerto de La Houle y los criaderos que con la marea baja emergen en la bahía del Mont-Saint-Michel. En el muelle los puestos venden ostras para comer allí mismo.",
+        come: "En coche desde Saint-Malo, unos 20 minutos; el sendero costero lleva a la Pointe du Grouin.",
+        quando: "A mediodía; con la marea baja se ven los criaderos.",
+        tempo: "2-3 horas",
+        costo: "Pueblo libre; las ostras de los puestos se pagan por docena",
+        lat: 48.6767,
+        lng: -1.8519,
+        consiglio: "Las conchas se tiran a la playa bajo el muelle: se ha hecho así siempre.",
+      },
+      {
+        nome: "Quimper",
+        testo: "La capital de la Cornualles bretona, con la catedral gótica de Saint-Corentin, las casas de entramado y la loza pintada a mano. Es la ciudad donde más se siente la cultura bretona, sobre todo en julio con el Festival de Cornouaille.",
+        come: "TGV directo desde París en unas cuatro horas. El centro se recorre a pie.",
+        quando: "Todo el año; a finales de julio por el festival.",
+        tempo: "medio día",
+        costo: "Catedral de entrada libre",
+        lat: 47.9956,
+        lng: -4.1022,
+      },
+      {
+        nome: "Belle-Île-en-Mer",
+        testo: "La mayor de las islas bretonas, con la ciudadela de Le Palais, las Aiguilles de Port-Coton que pintó Monet y una costa salvaje expuesta al océano. Se recorre en bici, scooter o coche.",
+        come: "Ferri desde Quiberon, menos de una hora de travesía, todo el año; en verano también desde otros puertos.",
+        quando: "De mayo a septiembre; en agosto reservar ferri y alojamiento.",
+        tempo: "1-2 días",
+        lat: 47.3331,
+        lng: -3.187,
+        url: "https://oceane.breizhgo.bzh/",
+        consiglio: "Para un día conviene alquilar una bici eléctrica en el puerto: la isla tiene cuestas.",
+      },
+      {
+        nome: "Île de Bréhat",
+        testo: "Un archipiélago de granito rosa sin coches, con jardines en flor gracias al clima suave, casas de pescadores y rocas que cambian de dibujo con la marea. Se recorre a pie o en bici en pocas horas.",
+        come: "Barco desde la Pointe de l'Arcouest, cerca de Paimpol: pocos minutos de travesía, en temporada cada media hora por la mañana.",
+        quando: "Primavera y principios de otoño; en verano llegar con los primeros barcos.",
+        tempo: "1 día",
+        costo: "Travesía de ida y vuelta desde unos 10,50 € (2026)",
+        lat: 48.8469,
+        lng: -2.9986,
+        url: "https://www.vedettesdebrehat.com/",
+      },
+      {
+        nome: "Vannes",
+        testo: "Una ciudad amurallada en el golfo de Morbihan, con jardines al pie de las murallas, antiguos lavaderos y un centro de casas de entramado. Es la base más cómoda para el golfo y para Carnac.",
+        come: "TGV desde París en unas dos horas y media; el centro, a pie desde la estación.",
+        quando: "Por la mañana, con el mercado del miércoles y del sábado.",
+        tempo: "medio día",
+        costo: "Centro y jardines libres",
+        lat: 47.6559,
+        lng: -2.7603,
+        consiglio: "Del puerto salen los barcos para la vuelta al golfo y para la Île aux Moines.",
+      },
+      {
+        nome: "Salinas de Guérande",
+        testo: "Dos mil hectáreas de balsas de arcilla donde los paludiers recogen a mano la sal y la flor de sal, como en la Edad Media. En el borde está la villa amurallada de Guérande.",
+        come: "En coche desde Vannes en una hora aproximadamente; las salinas se cruzan en bici o a pie por los senderos entre las balsas.",
+        quando: "De junio a septiembre, cuando se recoge la sal, al final de la tarde.",
+        tempo: "medio día",
+        costo: "Senderos entre las salinas libres; visitas guiadas de pago",
+        lat: 47.2963,
+        lng: -2.4536,
+      },
     ],
     programmi: [
       {
         titolo: "1 día",
         tappe: [
-          "Saint-Malo por la mañana",
-          "Cancale para las ostras",
-          "Pointe du Grouin",
-          "Regreso por la costa"
-        ]
+          "Saint-Malo por la mañana: murallas y, con la marea baja, el Grand Bé",
+          "Cancale para las ostras en los puestos del muelle",
+          "Sendero costero hasta la Pointe du Grouin",
+          "Vuelta por la costa, cena en una crêperie",
+        ],
       },
       {
         titolo: "2 días",
         tappe: [
           "Día 1: Saint-Malo y Dinan",
-          "Día 2: Costa de Granito Rosa"
-        ]
+          "Día 2: Cap Fréhel y Fort la Latte a pie por el GR34, luego la Côte de Granit Rose al atardecer",
+        ],
       },
       {
         titolo: "3 días",
         tappe: [
           "Día 1: Saint-Malo",
-          "Día 2: Costa de Granito Rosa y GR34",
-          "Día 3: Carnac y Golfo de Morbihan"
-        ]
-      }
+          "Día 2: Côte de Granit Rose y GR34",
+          "Día 3: Carnac y golfo de Morbihan",
+        ],
+      },
+      {
+        titolo: "7 días",
+        tappe: [
+          "Días 1-2: Saint-Malo, Cancale, Dinan y Cap Fréhel",
+          "Día 3: Côte de Granit Rose y Bréhat",
+          "Día 4: península de Crozon",
+          "Día 5: Locronan, Pointe du Raz y Quimper",
+          "Día 6: Concarneau y Carnac",
+          "Día 7: Vannes y el golfo de Morbihan",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Saint-Malo",
-        perChi: "para una ciudad amurallada",
-        testo: "Hoteles y apartamentos dentro de las murallas; abarrotada en verano."
+        perChi: "quien quiere una ciudad amurallada",
+        testo: "Hoteles y apartamentos dentro de las murallas; en verano está llena. Es la base para Cancale, Dinan y el Mont-Saint-Michel.",
       },
       {
         nome: "Perros-Guirec",
-        perChi: "para el granito rosa",
-        testo: "Pueblo marinero, sendero GR34 y playas, más tranquilo."
+        perChi: "quien quiere el granito rosa",
+        testo: "Pueblo de mar, sendero GR34 y playas, más tranquilo. Cómodo también para Bréhat.",
+      },
+      {
+        nome: "Quimper o la península de Crozon",
+        perChi: "quien quiere el Finistère",
+        testo: "Quimper tiene más servicios y trenes; Crozon y Camaret son pequeños puertos en el sendero, para quien camina.",
       },
       {
         nome: "Vannes o Auray",
-        perChi: "para Carnac y Morbihan",
-        testo: "Bases cómodas para los megalitos y el golfo."
-      }
+        perChi: "quien quiere Carnac y el Morbihan",
+        testo: "Bases cómodas para los megalitos y el golfo.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Mont-Saint-Michel",
+        distanza: "alrededor de 1 hora desde Saint-Malo",
+        come: "En coche hasta los aparcamientos de tierra firme, luego lanzadera gratuita o 45 minutos a pie por la pasarela.",
+        testo: "La abadía sobre el islote rocoso de la bahía, justo al otro lado de la frontera con Normandía. Se combina bien con una mañana en Cancale.",
+      },
+      {
+        nome: "Rennes",
+        distanza: "alrededor de 1 hora desde Saint-Malo en tren",
+        come: "TER directos desde Saint-Malo; el centro se recorre a pie desde la estación.",
+        testo: "La capital de Bretaña, con casas de entramado torcidas, el Parlamento de Bretaña y el mercado del sábado de Les Lices, de los más grandes de Francia.",
+      },
+      {
+        nome: "Île aux Moines",
+        distanza: "5 minutos en barco desde Port-Blanc",
+        come: "Barcos frecuentes todo el año desde el embarcadero de Port-Blanc, en Baden; se recorre a pie o en bici.",
+        testo: "La mayor isla del golfo de Morbihan, con senderos entre pinos, mimosas y pequeños dólmenes, y playas resguardadas.",
+      },
     ],
     sapori: [
       {
@@ -1680,6 +1850,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "Las mareas son muy fuertes: consultar la tabla antes de caminar por islotes y playas.",
       "El tiempo cambia varias veces al día: llevar chaqueta impermeable incluso en verano.",
       "En julio y agosto Carnac y Saint-Malo están llenas: llegar pronto."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para Bretaña?",
+        risposta: "Al menos una semana para ver el norte, el Finistère y el Morbihan cambiando de base dos o tres veces. Con tres o cuatro días conviene elegir una sola zona, por ejemplo Saint-Malo y la costa norte.",
+      },
+      {
+        domanda: "¿Hace falta coche en Bretaña?",
+        risposta: "Sí, para la costa y los cabos. Los trenes unen Rennes, Saint-Malo, Quimper, Brest y Vannes, pero no los pueblos del GR34. Las autopistas bretonas son gratuitas.",
+      },
+      {
+        domanda: "¿Se puede caminar entre los menhires de Carnac?",
+        risposta: "Las filas principales están valladas para proteger el terreno: se camina libremente por el sendero que las rodea, y dentro de los alineamientos se entra con visitas guiadas, que cuestan 13 € en 2026. Las normas cambian con la temporada.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para ir a Bretaña?",
+        risposta: "Junio y septiembre: días largos, menos gente y precios normales. Julio y agosto tienen más sol pero localidades llenas; el tiempo cambia a menudo en cualquier estación.",
+      },
+      {
+        domanda: "¿Qué diferencia hay entre galette y crêpe?",
+        risposta: "La galette es salada y se hace con trigo sarraceno, la crêpe es dulce y se hace con harina de trigo. Normalmente se comen las dos en la misma comida, con la sidra en tazón.",
+      },
+      {
+        domanda: "¿Se puede hacer el GR34 por tramos?",
+        risposta: "Sí, es lo más habitual: casi todos los pueblos de la costa tienen acceso al sendero, y el tramo entre dos localidades se hace en medio día. En verano algunos autobuses costeros ayudan a volver al punto de partida.",
+      },
     ],
     esperienzeSlugs: ['gr34-sentiero-doganieri', 'carnac-megaliti', 'saint-malo-bastioni'],
     tripSlugs: ['normandia-bretagna'],
@@ -2541,8 +2737,7 @@ export const destinazioniFrancia: Destinazione[] = [
       "**Coche, con un conductor que no prueba**, o bien **excursiones guiadas de un día**, que existen en todas estas regiones y resuelven el problema. Dos alternativas que funcionan: en **Alsacia** la Route des Vins se hace estupendamente **en bicicleta**, porque los pueblos distan pocos kilómetros y hay una red ciclable; en **Borgoña** un carril bici a lo largo de la Côte conecta los pueblos del viñedo. **Escupir durante las catas es la norma profesional, y nadie se ofende.**",
     periodoMigliore:
       "**septiembre y octubre**, por la vendimia y los colores. Conviene saber que **durante la vendimia muchas propiedades suspenden o reducen las visitas** porque están trabajando, así que conviene preguntar antes. **Mayo y junio** son excelentes para el paisaje y más fáciles para las reservas. La **Alsacia en diciembre** es un caso aparte: los mercadillos de Navidad (el de Estrasburgo es el más antiguo de Francia) llenan los pueblos y hacen subir los precios.",
-    costi:
-      "Muy variables. En Champaña y en Borgoña las visitas a las grandes maisons y a los domaines más conocidos son caras y hay que reservarlas; en las denominaciones menores y con los pequeños productores se gasta poco o nada. **Borgoña es la región más difícil y más cara de todas**: muchos domaines no reciben al público, y los que lo hacen quieren ser contactados antes.",
+    costi: "Muy variables. En Champaña y Borgoña las visitas a las grandes maisons y a los domaines más conocidos son caras y hay que reservarlas: en Moët & Chandon la visita básica cuesta unos 62 €. En las denominaciones menores y con los pequeños productores se gasta poco o nada, y en Alsacia la cata a menudo se paga comprando algunas botellas. **Borgoña es la región más difícil y más cara de todas**: muchos domaines no reciben público, y los que lo hacen quieren que se les contacte antes. Presupuesto orientativo al día por persona, en habitación doble y sin coche: bajo 80-110 € (Alsacia, Jura), medio 150-220 €, alto más de 350 € con visitas a las grandes maisons y cenas con estrella.",
     erroriDaEvitare: [
       "**Presentarse sin cita.** En Francia las bodegas no son tiendas: la visita se acuerda, y en Borgoña a menudo no se consigue",
       "Ir en vendimia sin preguntar antes: es el periodo más bonito, y es aquel en el que muchos productores no reciben",
@@ -2672,79 +2867,254 @@ export const destinazioniFrancia: Destinazione[] = [
       "Mi manera de mirar el vino francés cambió caminando, más que en una bodega. En Borgoña, a lo largo de la Côte de Nuits, un sendero pasa entre los viñedos y atraviesa los grandes crus uno tras otro, con los carteles de piedra en la esquina de cada parcela. En veinte minutos a pie se pasa de una denominación regional a un grand cru que vale cien veces más, y en medio hay un muro de piedra seca de un metro de alto. El terreno a los dos lados parece idéntico. No lo es: cambian la pendiente, el drenaje, la exposición al sol de la mañana. Pero la diferencia es tan sutil que resulta invisible, y solo el vino la registra. En Italia la idea existe, pero nadie la ha codificado nunca así, y verla dibujada sobre el terreno con los muretes es la lección más útil de todo el viaje. El otro descubrimiento es que las regiones tratan a quien llega de maneras opuestas. En Alsacia entras en la bodega, te acogen, pruebas seis vinos, pagas poco o nada y charlas. En Borgoña la misma petición, sin un contacto tomado semanas antes, recibe un no amable: el productor hace diez mil botellas al año, ya las ha vendido todas, y recibir visitantes no es su trabajo. Saberlo antes evita confundir con descortesía una cuestión de escala.",
     luoghi: [
       {
-        nome: "Champaña: Reims y Épernay",
-        testo: "La catedral de Reims, donde se coronaba a los reyes, con las vidrieras de Chagall. En Épernay la Avenue de Champagne tiene kilómetros de galerías excavadas en la tiza bajo las casas de las grandes maisons.",
-        come: "Tren desde París Este a Reims; de Reims a Épernay en tren regional.",
-        quando: "Primavera y otoño; vendimia a finales de agosto-septiembre.",
-        tempo: "1-2 días",
-        consiglio: "Las visitas a bodegas se reservan: muchas no reciben sin cita."
+        nome: "Reims y la catedral",
+        testo: "La catedral de Reims, donde se coronaba a los reyes de Francia, es una de las obras maestras del gótico, con las vidrieras de Chagall en el ábside. Bajo la ciudad las grandes maisons guardan las botellas en las crayères, canteras de creta de época galorromana.",
+        come: "TGV desde París Este en unos 45 minutos. El centro y la catedral se recorren a pie desde la estación.",
+        quando: "Por la mañana, con la luz en la fachada; primavera y otoño para las bodegas.",
+        tempo: "1 día",
+        costo: "Catedral de entrada libre",
+        lat: 49.2536,
+        lng: 4.0339,
+        consiglio: "Las visitas a las bodegas se reservan: muchas no reciben sin cita.",
+      },
+      {
+        nome: "Las crayères de Reims",
+        testo: "Canteras de creta excavadas en época galorromana, de hasta una treintena de metros de profundidad, reutilizadas por las maisons como bodegas. Desde 2015 son Patrimonio de la UNESCO junto con las laderas y las casas de Champaña.",
+        come: "Visita guiada en una de las maisons de la colina Saint-Nicaise, al sureste del centro, en autobús o a pie en media hora.",
+        quando: "Todo el año; reservar en línea con días o semanas de antelación.",
+        tempo: "1,5-2 horas",
+        costo: "Visitas a las grandes maisons normalmente unas decenas de euros, con cata (2026)",
+        lat: 49.2448,
+        lng: 4.0466,
+        consiglio: "En las galerías hace fresco incluso en verano: hace falta un jersey.",
+      },
+      {
+        nome: "Épernay y la Avenue de Champagne",
+        testo: "Una avenida de palacetes de las grandes maisons, con kilómetros de galerías excavadas en la creta bajo las fachadas. Es la calle donde se concentran los nombres más conocidos del champán.",
+        come: "Tren regional desde Reims en una media hora; de la estación a la Avenue a pie.",
+        quando: "Primavera y otoño; vendimia entre finales de agosto y septiembre.",
+        tempo: "medio día",
+        costo: "Avenue libre; en Moët & Chandon la visita básica cuesta unos 62 € (2026)",
+        lat: 49.0412,
+        lng: 3.9697,
+        consiglio: "La Avenue de Champagne se recorre a pie en una hora con calma.",
+      },
+      {
+        nome: "Hautvillers",
+        testo: "El pueblo en la colina sobre el Marne donde vivió Dom Pérignon, el monje ligado a la historia del champán, enterrado en la iglesia de la abadía. Los rótulos de hierro forjado de las casas cuentan los oficios de la viña.",
+        come: "En coche o en bici desde Épernay, unos 10 minutos; del pueblo salen senderos señalizados entre los viñedos.",
+        quando: "Al final de la tarde, con la luz sobre el valle del Marne.",
+        tempo: "2 horas",
+        costo: "Pueblo e iglesia abacial libres",
+        lat: 49.085,
+        lng: 3.9444,
+      },
+      {
+        nome: "Beaune y el Hôtel-Dieu",
+        testo: "El hospital para pobres fundado en 1443, con el tejado de tejas esmaltadas en dibujos geométricos y la gran sala de enfermos. Cada noviembre acoge la subasta de vinos de los Hospices, la venta benéfica más famosa del mundo del vino.",
+        come: "Tren desde Dijon en unos 25 minutos; el centro amurallado se recorre a pie.",
+        quando: "Por la mañana a la apertura; el tercer fin de semana de noviembre para la subasta.",
+        tempo: "1,5 horas",
+        orari: "Abierto todos los días: 9-19.30 del 1 de abril al 15 de noviembre, 9-12.30 y 14-18.30 el resto del año; la taquilla cierra una hora antes",
+        lat: 47.0219,
+        lng: 4.8367,
+        url: "https://hoteldieu.hospices-de-beaune.com/",
       },
       {
         nome: "Borgoña: Côte de Nuits y Côte de Beaune",
-        testo: "Los climats de Borgoña, pequeñas parcelas de viña delimitadas con precisión, inscritos por la UNESCO en 2015. En Beaune, los Hospices con su tejado de tejas de colores.",
-        come: "Tren de París a Dijon, luego coche o bici por la Route des Grands Crus.",
+        testo: "Los climats de Borgoña, pequeñas parcelas de viña delimitadas con precisión, inscritos por la UNESCO en 2015. En Vosne-Romanée la Romanée-Conti, de menos de dos hectáreas, es la viña más célebre del mundo, separada de las vecinas solo por muretes.",
+        come: "Tren de París a Dijon, luego en coche o bici por la Route des Grands Crus.",
         quando: "Primavera y otoño.",
         tempo: "2 días",
-        consiglio: "El carril bici de la Voie des Vignes sale de Beaune y recorre los viñedos hacia el sur."
+        costo: "Los senderos entre los viñedos son libres",
+        lat: 47.1617,
+        lng: 4.9497,
+        consiglio: "El carril bici de la Voie des Vignes sale de Beaune y corre entre los viñedos hacia el sur.",
       },
       {
-        nome: "Alsacia: la Ruta del Vino",
+        nome: "Château du Clos de Vougeot",
+        testo: "El castillo de los monjes cistercienses en medio del mayor clos de la Côte de Nuits, con las prensas medievales de madera y las grandes bodegas. Es la sede de la cofradía de los Chevaliers du Tastevin.",
+        come: "En coche o en bici por la Route des Grands Crus, a unos 20 minutos de Dijon.",
+        quando: "Por la mañana; visitas guiadas en francés e inglés a horas fijas.",
+        tempo: "1 hora",
+        costo: "Visita guiada 15 € (2026)",
+        orari: "1 de abril-31 de octubre 9.30-18; 1 de noviembre-31 de marzo 10-17 (última entrada 16.30), con horario de verano los fines de semana",
+        lat: 47.1749,
+        lng: 4.9554,
+        url: "https://www.closdevougeot.fr/",
+      },
+      {
+        nome: "Dijon, Cité de la gastronomie et du vin",
+        testo: "La capital de Borgoña, con el palacio de los Duques, las iglesias góticas y los tejados policromados. En el antiguo hospital general la Cité de la gastronomie cuenta la cocina y el vino franceses, con una bodega de vinos borgoñones por copas.",
+        come: "TGV desde París en una hora y media aproximadamente; la Cité está a 15 minutos a pie del centro.",
+        quando: "Todo el año; por la mañana para el mercado cubierto Les Halles.",
+        tempo: "medio día",
+        lat: 47.3173,
+        lng: 5.0301,
+        url: "https://www.citedelagastronomie-dijon.fr/",
+      },
+      {
+        nome: "Alsacia: la Route des Vins",
         testo: "Unos 170 km de carretera entre los Vosgos y la llanura, con pueblos de entramado como Colmar, Riquewihr, Eguisheim y Kaysersberg.",
-        come: "En coche desde Estrasburgo o Basilea. Trenes a Colmar.",
-        quando: "Septiembre-octubre por los colores; diciembre por los mercados de Navidad.",
+        come: "En coche desde Estrasburgo o Basilea. Trenes hacia Colmar.",
+        quando: "Septiembre-octubre por los colores; diciembre por los mercadillos de Navidad.",
         tempo: "2 días",
-        consiglio: "Eguisheim y Riquewihr son más tranquilos que Colmar."
+        costo: "Las bodegas con el cartel «dégustation» a menudo dan a probar gratis o con la compra",
+        consiglio: "Eguisheim y Riquewihr son más tranquilos que Colmar.",
       },
       {
-        nome: "Valle del Ródano",
-        testo: "Al norte las laderas en terrazas, muy empinadas, de Côte-Rôtie y Hermitage; al sur Châteauneuf-du-Pape, con los cantos rodados entre las hileras.",
-        come: "Tren a Valence o Aviñón; luego coche o bici.",
+        nome: "Colmar y el Museo Unterlinden",
+        testo: "El centro de casas de entramado pintadas, con la Petite Venise a lo largo de los canales del Lauch. El Museo Unterlinden, en un convento del siglo XIII, guarda el retablo de Isenheim de Grünewald.",
+        come: "Tren TER desde Estrasburgo en unos 30 minutos; el centro se recorre solo a pie, el coche se queda en los aparcamientos de fuera.",
+        quando: "A primera hora; diciembre por los mercadillos.",
+        tempo: "1 día",
+        costo: "Unterlinden unos 14 € (2026)",
+        orari: "Unterlinden 9-18, última entrada 17.30; cerrado los martes, el 1 de enero, el 1 de mayo, el 1 de noviembre y el 25 de diciembre",
+        lat: 48.0798,
+        lng: 7.3555,
+        url: "https://www.musee-unterlinden.com/",
+      },
+      {
+        nome: "Riquewihr",
+        testo: "Un pueblo amurallado del siglo XVI que sigue intacto entre los viñedos de los grand cru Schoenenbourg y Sporen. La calle principal sube desde la puerta baja hasta la torre del Dolder.",
+        come: "En coche o en bici desde Colmar, unos 20 minutos; aparcamientos de pago fuera de las murallas.",
+        quando: "A primera hora o al final de la tarde: en las horas centrales está lleno.",
+        tempo: "2-3 horas",
+        costo: "Pueblo libre",
+        lat: 48.1672,
+        lng: 7.2978,
+      },
+      {
+        nome: "Eguisheim",
+        testo: "Un pueblo construido en círculos concéntricos alrededor del castillo, con las casas de entramado siguiendo la curva de las murallas. A pocos minutos a pie los viñedos suben a los grand cru Eichberg y Pfersigberg.",
+        come: "En coche o en bici desde Colmar, unos 10 minutos; desde la estación de Colmar también en autobús.",
+        quando: "Todo el año; por la tarde-noche está tranquilo.",
+        tempo: "2 horas",
+        costo: "Pueblo libre",
+        lat: 48.0436,
+        lng: 7.3067,
+        consiglio: "El sendero vitícola que sale del pueblo hace un circuito entre las viñas en una hora.",
+      },
+      {
+        nome: "Kaysersberg",
+        testo: "Un pueblo sobre el Weiss dominado por las ruinas del castillo, con el puente fortificado y la casa natal de Albert Schweitzer. Desde la colina del castillo se ven los viñedos del valle.",
+        come: "En coche desde Colmar, unos 15 minutos; autobús desde la estación de Colmar.",
+        quando: "Por la mañana; en diciembre su mercadillo de Navidad es de los más bonitos de Alsacia.",
+        tempo: "2 horas",
+        costo: "Pueblo y subida al castillo libres",
+        lat: 48.1394,
+        lng: 7.2614,
+      },
+      {
+        nome: "Ródano septentrional: Côte-Rôtie y Hermitage",
+        testo: "Al norte, las laderas en terrazas empinadísimas de Côte-Rôtie sobre Ampuis, y la colina del Hermitage que domina Tain-l'Hermitage. Son viñas de syrah de las más empinadas de Europa.",
+        come: "Tren hasta Valence o Tain-l'Hermitage; luego coche o bici por la ViaRhôna.",
         quando: "Primavera y otoño.",
-        tempo: "1-2 días",
-        consiglio: "Châteauneuf-du-Pape está cerca de Aviñón: se combina bien con una visita a la ciudad."
+        tempo: "1 día",
+        costo: "Senderos de la colina del Hermitage libres",
+        lat: 45.0717,
+        lng: 4.8431,
+        consiglio: "Desde el centro de Tain un sendero sube entre las hileras hasta la capilla en lo alto del Hermitage.",
       },
       {
-        nome: "Jura",
-        testo: "Una región pequeña y fuera de los circuitos, famosa por el vin jaune, que entre vendimia y embotellado madura seis años y tres meses en barrica bajo un velo de levaduras, sin rellenar.",
-        come: "En coche desde Besançon o Lons-le-Saunier.",
+        nome: "Châteauneuf-du-Pape",
+        testo: "El pueblo del castillo de verano de los papas de Aviñón, hoy una torre en ruinas sobre una altura. Alrededor, los galets roulés: cantos rodados entre las hileras que de día acumulan calor y de noche lo devuelven.",
+        come: "En coche desde Aviñón en unos 25 minutos.",
+        quando: "Primavera y otoño; en verano el calor es fuerte.",
+        tempo: "medio día",
+        costo: "Pueblo y ruinas del castillo libres",
+        lat: 44.0569,
+        lng: 4.8319,
+        consiglio: "Châteauneuf-du-Pape está cerca de Aviñón: se combina bien con una visita a la ciudad.",
+      },
+      {
+        nome: "Jura: Arbois y Château-Chalon",
+        testo: "Una región pequeña y fuera de los circuitos, famosa por el vin jaune, que entre vendimia y embotellado madura seis años y tres meses en barrica bajo un velo de levaduras, sin rellenar. Arbois es la capital de los vinos del Jura, Château-Chalon el pueblo sobre un espolón que da nombre al vin jaune más célebre.",
+        come: "En coche desde Besanzón o Lons-le-Saunier; Arbois tiene también estación.",
         quando: "Todo el año; la fiesta Percée du vin jaune entre finales de enero y principios de febrero.",
         tempo: "1 día",
-        consiglio: "El vin jaune combina con el queso comté."
-      }
+        costo: "Pueblos libres",
+        lat: 46.9036,
+        lng: 5.7747,
+        consiglio: "El vin jaune combina con el queso comté.",
+      },
     ],
     programmi: [
       {
-        titolo: "2 días",
+        titolo: "Champaña en 2 días",
         tappe: [
-          "Día 1: Reims y la catedral, bodegas de Épernay",
-          "Día 2: Avenue de Champagne y senderos entre viñas"
-        ]
+          "Día 1: Reims y la catedral, visita a una crayère",
+          "Día 2: Épernay y la Avenue de Champagne, tarde en Hautvillers y senderos entre las viñas",
+        ],
       },
       {
-        titolo: "3 días",
+        titolo: "Borgoña en 3 días",
         tappe: [
-          "Día 1: Beaune y los Hospices",
-          "Día 2: Côte de Nuits en bici o coche",
-          "Día 3: Dijon y regreso"
-        ]
-      }
+          "Día 1: Beaune y el Hôtel-Dieu",
+          "Día 2: Côte de Nuits en bici o coche, Clos de Vougeot y Vosne-Romanée",
+          "Día 3: Dijon y la Cité de la gastronomie, regreso",
+        ],
+      },
+      {
+        titolo: "Alsacia en 3 días",
+        tappe: [
+          "Día 1: Colmar y el Unterlinden",
+          "Día 2: en bici entre Eguisheim, Riquewihr y Kaysersberg",
+          "Día 3: Estrasburgo, catedral y Petite France",
+        ],
+      },
+      {
+        titolo: "La ruta larga en 10 días",
+        tappe: [
+          "Días 1-3: Alsacia, base en Colmar",
+          "Día 4: Jura, Arbois y Château-Chalon",
+          "Días 5-7: Borgoña, base en Beaune",
+          "Día 8: traslado hacia el norte",
+          "Días 9-10: Champaña, Épernay y Reims, regreso desde París",
+        ],
+      },
     ],
     zone: [
       {
-        nome: "Reims",
-        perChi: "para Champaña",
-        testo: "Ciudad con la catedral, restaurantes y bodegas en el centro."
+        nome: "Reims o Épernay",
+        perChi: "quien visita Champaña",
+        testo: "Reims tiene la catedral, los restaurantes y el TGV a París; Épernay es más pequeña y está entre las viñas.",
       },
       {
         nome: "Beaune",
-        perChi: "para Borgoña",
-        testo: "Ciudad amurallada cerca de los viñedos y los mejores crus."
+        perChi: "quien visita Borgoña",
+        testo: "Pequeña ciudad amurallada, cerca de los viñedos y de los mejores crus. Las chambres d'hôtes en los pueblos de la Côte cuestan menos.",
       },
       {
         nome: "Colmar",
-        perChi: "para Alsacia",
-        testo: "Centro de casas de entramado, base cómoda para la Ruta del Vino."
-      }
+        perChi: "quien visita Alsacia",
+        testo: "Centro de casas de entramado, base cómoda para la Route des Vins. En diciembre los precios suben con los mercadillos.",
+      },
+      {
+        nome: "Aviñón o Tain-l'Hermitage",
+        perChi: "quien visita el Ródano",
+        testo: "Aviñón para Châteauneuf-du-Pape y la Provenza; Tain para Hermitage y Côte-Rôtie.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Estrasburgo",
+        distanza: "30 minutos desde Colmar en tren",
+        come: "TER frecuentes desde Colmar; de la estación al centro a pie o en tranvía.",
+        testo: "La catedral de arenisca rosa con el reloj astronómico, la Petite France sobre los canales y el mercadillo de Navidad más antiguo de Francia. La plataforma de la catedral tiene entrada aparte, unos 10 €.",
+      },
+      {
+        nome: "Lyon",
+        distanza: "alrededor de 1 hora y media desde Beaune en coche",
+        come: "Autopista A6, o tren desde Beaune o Dijon.",
+        testo: "La capital gastronómica francesa, entre Borgoña y el Ródano: los bouchons con la cocina lionesa, el barrio renacentista del Vieux Lyon y Les Halles Paul Bocuse.",
+      },
+      {
+        nome: "Aviñón",
+        distanza: "25 minutos desde Châteauneuf-du-Pape",
+        come: "En coche o en autobús regional; desde la estación TGV, lanzadera al centro.",
+        testo: "El Palacio de los Papas y el puente de Saint-Bénézet, con una entrada combinada. Es la puerta del Ródano meridional y de la Provenza.",
+      },
     ],
     sapori: [
       {
@@ -2768,6 +3138,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "No conducir después de las catas: llevar un conductor designado o usar bicis eléctricas.",
       "En la vendimia (septiembre-octubre) las bodegas están muy ocupadas: reservar con antelación.",
       "Muchas bodegas cierran a mediodía y los domingos: comprobar los horarios."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuál es la región vinícola francesa más fácil de visitar?",
+        risposta: "Alsacia: muchas bodegas reciben sin cita, las catas cuestan poco y la Route des Vins se hace también en bicicleta. Champaña es la más cómoda desde París, Borgoña la más difícil.",
+      },
+      {
+        domanda: "¿Hay que reservar las visitas a las bodegas?",
+        risposta: "Casi siempre. Las grandes maisons de Champaña se reservan en línea con días o semanas de antelación, los domaines de Borgoña hay que contactarlos con tiempo y a menudo no reciben. En Alsacia muchas bodegas con el cartel «dégustation» atienden incluso sin aviso.",
+      },
+      {
+        domanda: "¿Se pueden visitar las bodegas sin coche?",
+        risposta: "Sí en Champaña, donde Reims y Épernay están unidas en tren, y en Alsacia, con bicis de alquiler en Colmar y la red ciclista entre los pueblos. En Borgoña y el Ródano el coche o una excursión guiada simplifican mucho.",
+      },
+      {
+        domanda: "¿Cuánto cuesta una cata en Francia?",
+        risposta: "Con los pequeños productores alsacianos a menudo es gratuita o va incluida en la compra. En las grandes maisons de Champaña se pagan unas decenas de euros: en Moët & Chandon la visita básica cuesta unos 62 €.",
+      },
+      {
+        domanda: "¿Cuándo conviene ir para la vendimia?",
+        risposta: "Entre finales de agosto y octubre, según la región y la añada. Es el periodo más animado, pero muchas fincas reducen las visitas porque están trabajando: conviene preguntar antes.",
+      },
+      {
+        domanda: "¿Cómo se evita conducir después de las catas?",
+        risposta: "Escupir es lo habitual incluso entre profesionales, y nadie se ofende. Si no, se elige un conductor que no prueba, se usa el tren entre Reims y Épernay o se reserva una excursión guiada.",
+      },
     ],
     esperienzeSlugs: ['cantina-champagne', 'route-des-vins-alsazia', 'climats-borgogna'],
     tripSlugs: ['rotte-dei-vini-francia'],
@@ -3243,14 +3639,12 @@ export const destinazioniFrancia: Destinazione[] = [
       "**Arlés** es la base más práctica y más bonita, a media hora del corazón de la Camarga y llena de historia romana. **Saintes-Maries-de-la-Mer** para estar dentro, con una oferta limitada y estacional. **Aigues-Mortes** para el lado occidental. Muchas **manades** ofrecen alojamiento en la explotación, y es la forma más coherente de dormir aquí.",
     doveMangiare:
       "La cocina camarguesa es particular y muy local: la **gardiane de taureau**, un guiso de toro al vino tinto cocinado durante horas y servido con el **arroz de la Camarga**; el **arroz rojo** integral de la zona; las **coquinas** recogidas en la orilla; las **anguilas**; y la **sal de la Camarga** con su flor de sal. Para beber los *vins de sable*, producidos en suelos arenosos donde la filoxera nunca llegó.",
-    comeArrivare:
-      "En tren hasta **Arlés** o **Nîmes**, luego en coche. Los aeropuertos más cercanos son Marsella y Nîmes.",
+    comeArrivare: "En tren hasta **Arles** o **Nîmes**, a las que se llega desde París con el TGV en tres o cuatro horas, y luego en coche: de Arles a Saintes-Maries-de-la-Mer hay unos cuarenta minutos de carretera. Aigues-Mortes tiene una estación regional en la línea desde Nîmes. Los aeropuertos más cercanos son **Marsella**, a una hora de Arles, **Nîmes** y **Montpellier**. Hay autobuses de Arles a Saintes-Maries y Salin-de-Giraud, pero con pocas salidas: **para moverse entre lagunas, salinas y manades hace falta coche o bici**.",
     comeSpostarsi:
       "**Coche o bicicleta.** Las carreteras son pocas y rectas, y muchas pistas son de tierra y están cerradas al tráfico. La bici va estupendamente porque no hay ni un metro de desnivel, pero **el viento cuenta bastante**: con el mistral, pedalear contra el viento en la digue es durísimo.",
     periodoMigliore:
       "**abril-mayo y septiembre-octubre.** En primavera están la migración, los flamencos en plena actividad y las flores en las praderas salobres; en otoño la luz es mejor y no hay nadie. **El verano tiene dos problemas serios: el calor húmedo y los mosquitos**, que en la Camarga deciden si una velada al aire libre se puede hacer o no. Repelente fuerte y manga larga al atardecer.",
-    costi:
-      "Bajos. Gran parte de la reserva es de **acceso libre**, los senderos y las carreteras panorámicas son gratuitos, el parque ornitológico y las murallas de Aigues-Mortes tienen entradas contenidas. El gasto principal son los paseos a caballo y las visitas a las manades.",
+    costi: "Bajos. Gran parte de la reserva es de **acceso libre**, los senderos y las carreteras panorámicas son gratuitos, el parque ornitológico de Pont de Gau cuesta 8,50 € y las torres y murallas de Aigues-Mortes 9 €. El gasto principal son los paseos a caballo y las visitas a las manades. Presupuesto orientativo al día por persona, en habitación doble y sin alquiler de coche: bajo 60-90 €, medio 110-160 €, alto más de 250 € en un mas con encanto.",
     erroriDaEvitare: [
       "**Venir en verano sin repelente.** Los mosquitos de la Camarga tienen la fama que se merecen, y al atardecer hacen impracticables las zonas húmedas",
       "Esperar paisajes espectaculares: la Camarga es llanísima y hay que mirarla de cerca (aves, luz, horizonte). Quien busca panorámicas se lleva una decepción",
@@ -3263,38 +3657,130 @@ export const destinazioniFrancia: Destinazione[] = [
       "La Camarga es el lugar que menos se parece al resto de Francia, y el que decepciona más fácilmente a quien llega con las expectativas equivocadas. No hay panorámicas. Es plana, el horizonte es una línea continua, y desde cualquier punto se ven agua, cañas y cielo. Hay que bajar la mirada, y entonces empiezan a aparecer las cosas: los flamencos que filtran el fango con el pico al revés, hacia abajo, una postura absurda de ver; los caballos blancos en grupo en el agua baja; las garzas; y al atardecer una cantidad de aves que se desplazan todas juntas. Luego está la gente. Los gardians no son una puesta en escena para turistas: son vaqueros que gobiernan a caballo, con un tridente, toros semisalvajes, y el oficio existe todavía porque existe todavía la ganadería. Una course camarguaise en una plaza de pueblo, donde el toro no muere y la multitud aplaude al animal más que al raseteur, es la forma más directa de entender que aquí la relación con esos animales es distinta de como uno se la imagina. Y una nota práctica que vale más que muchas otras: en verano, después del atardecer, los mosquitos son un problema serio, no una broma.",
     luoghi: [
       {
-        nome: "Parque ornitológico de Pont de Gau",
-        testo: "Un parque con estanques y senderos donde se ven de cerca flamencos rosas, garzas y cigüeñas. Un buen sitio para entender la zona antes de salir a los senderos.",
+        nome: "Parc ornithologique de Pont de Gau",
+        testo: "Un parque con estanques y senderos donde se ven de cerca flamencos rosas, garzas y cigüeñas. Es un buen punto para entender la zona antes de salir a los senderos.",
         come: "En coche desde Saintes-Maries-de-la-Mer, a pocos minutos.",
-        quando: "A primera hora o a última de la tarde, con la mejor luz.",
+        quando: "A primera hora de la mañana o al final de la tarde, con la mejor luz.",
         tempo: "2 horas",
+        costo: "8,50 € (2026)",
+        orari: "Abierto todos los días; recepción 10-17, visita libre hasta la puesta de sol",
+        lat: 43.4909,
+        lng: 4.4072,
         url: "https://www.parcornithologique.com/",
-        consiglio: "Llevar prismáticos y repelente de mosquitos."
+        consiglio: "Llevar prismáticos y repelente de mosquitos.",
       },
       {
         nome: "Saintes-Maries-de-la-Mer",
-        testo: "El pueblo marinero con iglesia fortificada, destino a finales de mayo de la peregrinación gitana a Sara la Negra. Las playas son largas y de arena.",
-        come: "En coche desde Arlés, atravesando la Camarga.",
+        testo: "El pueblo de mar con la iglesia fortificada, meta a finales de mayo de la peregrinación gitana a Sara la Negra. Las playas son largas y de arena.",
+        come: "En coche desde Arles, cruzando la Camarga, en unos cuarenta minutos.",
         quando: "Finales de mayo por la peregrinación; verano por las playas.",
-        tempo: "media jornada",
-        consiglio: "Evitar el fin de semana de la peregrinación si se busca calma."
+        tempo: "medio día",
+        costo: "Pueblo e iglesia libres",
+        lat: 43.4528,
+        lng: 4.4286,
+        consiglio: "Evitar el fin de semana de la peregrinación si se busca calma.",
       },
       {
         nome: "Aigues-Mortes",
-        testo: "La ciudad amurallada que Luis IX mandó construir como puerto de las cruzadas, con murallas intactas y la Tour de Constance. Al lado están las salinas rosas.",
-        come: "Tren y autobús desde Nîmes o Montpellier, o en coche.",
+        testo: "La ciudad amurallada que Luis IX mandó construir como puerto para las cruzadas, con murallas intactas y la Tour de Constance. Al lado están las salinas rosas.",
+        come: "Tren y autobús desde Nîmes o Montpellier, o coche.",
         quando: "Por la mañana.",
-        tempo: "media jornada",
-        consiglio: "Recorrer el adarve de las murallas al atardecer."
+        tempo: "medio día",
+        costo: "Torres y murallas 9 €, gratis para menores de 26 años residentes en la UE (2026); ciudad libre",
+        lat: 43.5685,
+        lng: 4.1897,
+        url: "https://www.aigues-mortes-monument.fr/",
+        consiglio: "Recorrer el paseo de las murallas al atardecer.",
       },
       {
         nome: "Caballos y toros de las manades",
-        testo: "Los caballos blancos de Camarga y los toros negros criados en libertad, con los gardians a caballo. Se visitan granjas con paseos a caballo.",
-        come: "Reservar una visita a una manade de la zona.",
+        testo: "Los caballos blancos camargueses y los toros negros criados en libertad, con los gardians a caballo. Se visitan las granjas con paseos a caballo.",
+        come: "Reservar una visita en una manade de la zona.",
         quando: "Primavera, otoño.",
         tempo: "2 horas",
-        consiglio: "Elegir granjas que respeten a los animales y no hagan espectáculos forzados."
-      }
+        consiglio: "Elegir granjas que respeten a los animales y no hagan espectáculos forzados.",
+      },
+      {
+        nome: "Étang de Vaccarès y La Capelière",
+        testo: "La mayor laguna de la Camarga, corazón de la Reserva nacional. En La Capelière, centro de la reserva en la orilla oriental, un sendero corto lleva a observatorios sobre las marismas.",
+        come: "En coche desde Arles en unos 40 minutos, por la D36 hacia Salin-de-Giraud.",
+        quando: "Primavera y otoño para la migración; a primera hora.",
+        tempo: "2 horas",
+        costo: "7 € (2026)",
+        lat: 43.5355,
+        lng: 4.6445,
+        consiglio: "El recorrido es llano y corto: importan más los prismáticos que las botas de montaña.",
+      },
+      {
+        nome: "Salin-de-Giraud y las salinas",
+        testo: "El pueblo construido por las compañías de la sal, con sus casas obreras de ladrillo, y alrededor las balsas rosas y las montañas de sal blanca. Desde el mirador sobre las salinas se ve toda la extensión.",
+        come: "En coche desde Arles en unos 45 minutos, por la D36.",
+        quando: "Verano y principios de otoño, cuando las balsas están más rosas.",
+        tempo: "1-2 horas",
+        costo: "Mirador libre",
+        lat: 43.415,
+        lng: 4.7336,
+      },
+      {
+        nome: "Domaine de la Palissade",
+        testo: "La única zona de la Camarga fuera de los diques, donde el Ródano y el mar todavía se mezclan libremente. Senderos entre lagunas, sansouires y praderas salobres, con paseos a caballo.",
+        come: "En coche desde Salin-de-Giraud, unos diez minutos hacia la desembocadura del Ródano.",
+        quando: "Primavera y otoño; en verano solo a primera hora.",
+        tempo: "2-3 horas",
+        lat: 43.3759,
+        lng: 4.8105,
+      },
+      {
+        nome: "Plage de Piémanson",
+        testo: "Una playa salvaje de arena de kilómetros en la desembocadura del Gran Ródano, sin construcciones. Es el mar de la Camarga en su forma más desnuda.",
+        come: "En coche desde Salin-de-Giraud, un cuarto de hora por la carretera de las salinas.",
+        quando: "Junio y septiembre; con el mistral el viento es fortísimo.",
+        tempo: "medio día",
+        costo: "Libre",
+        lat: 43.3398,
+        lng: 4.814,
+        consiglio: "No hay servicios: llevar agua, sombra y repelente.",
+      },
+      {
+        nome: "Digue à la mer y faro de la Gacholle",
+        testo: "Un dique de tierra de kilómetros entre lagunas y mar, cerrado a los coches, que se recorre a pie o en bici. A mitad de camino, el pequeño faro de la Gacholle tiene un punto de observación de aves.",
+        come: "Desde Saintes-Maries en bici, o en coche hasta el aparcamiento de la Gacholle y luego a pie.",
+        quando: "Por la mañana, antes del calor y del viento.",
+        tempo: "medio día",
+        costo: "Libre",
+        lat: 43.4547,
+        lng: 4.5703,
+        consiglio: "Mirar la dirección del viento: la vuelta en bici con viento en contra es dura.",
+      },
+      {
+        nome: "Musée de la Camargue",
+        testo: "El museo del Parque natural regional, en un antiguo aprisco, el Mas du Pont de Rousty, cuenta la vida de los vaqueros, las salinas y los arrozales. Del museo sale un sendero entre los campos.",
+        come: "En coche desde Arles, unos 10 km por la D570 hacia Saintes-Maries.",
+        quando: "Al principio del viaje, para entender el territorio.",
+        tempo: "1,5-2 horas",
+        orari: "Abril-septiembre todos los días 9-18; octubre todos los días 10-17; el resto de meses de lunes a viernes 10-17; cerrado el 1 de enero, el 1 de mayo y el 25 de diciembre",
+        lat: 43.6233,
+        lng: 4.5269,
+        url: "https://www.museedelacamargue.com/",
+      },
+      {
+        nome: "Salinas de Aigues-Mortes",
+        testo: "Las balsas rosas al sur de la ciudad amurallada, donde se recoge sal desde hace siglos. El color viene de un alga microscópica y de pequeños crustáceos que viven en el agua salada.",
+        come: "Entrada a pocos minutos de las murallas; visita en trenecito o en bici, según la temporada.",
+        quando: "Desde finales de verano a principios de otoño, durante la cosecha.",
+        tempo: "1,5 horas",
+        lat: 43.5577,
+        lng: 4.1833,
+      },
+      {
+        nome: "Tour Carbonnière",
+        testo: "Una torre de vigilancia del siglo XIII en el único camino que llevaba a Aigues-Mortes a través de las marismas. Desde la terraza se ven las lagunas hasta el mar.",
+        come: "En coche desde Aigues-Mortes, pocos kilómetros por la D58.",
+        quando: "Al atardecer.",
+        tempo: "30 minutos",
+        lat: 43.5921,
+        lng: 4.2094,
+      },
     ],
     programmi: [
       {
@@ -3303,26 +3789,66 @@ export const destinazioniFrancia: Destinazione[] = [
           "Pont de Gau por la mañana",
           "Comida en Saintes-Maries-de-la-Mer",
           "Paseo a caballo por la tarde",
-          "Aigues-Mortes al atardecer"
-        ]
-      }
+          "Aigues-Mortes al atardecer",
+        ],
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: Musée de la Camargue, Pont de Gau y Saintes-Maries, caballo al atardecer",
+          "Día 2: Aigues-Mortes con las murallas y las salinas, Tour Carbonnière",
+        ],
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: Arles, Musée de la Camargue y La Capelière en el Vaccarès",
+          "Día 2: Saintes-Maries, Pont de Gau y la digue à la mer en bici",
+          "Día 3: Salin-de-Giraud, La Palissade y la playa de Piémanson",
+        ],
+      },
     ],
     zone: [
       {
-        nome: "Arlés",
-        perChi: "para base urbana",
-        testo: "Base para la Camarga y la Provenza."
+        nome: "Arles",
+        perChi: "quien quiere una ciudad",
+        testo: "Base para la Camarga y la Provenza, con monumentos romanos, restaurantes y trenes.",
       },
       {
         nome: "Saintes-Maries-de-la-Mer",
-        perChi: "para el mar",
-        testo: "Alojamiento en la playa; abarrotada el fin de semana de la peregrinación."
+        perChi: "quien quiere el mar",
+        testo: "Alojamientos junto a la playa; lleno el fin de semana de la peregrinación.",
       },
       {
         nome: "Aigues-Mortes",
-        perChi: "para la ciudad amurallada",
-        testo: "Murallas y salinas; más tranquila por la noche."
-      }
+        perChi: "quien busca la ciudad amurallada",
+        testo: "Murallas y salinas; más tranquila por la noche. Cómoda para Montpellier y Nîmes.",
+      },
+      {
+        nome: "Mas y manades",
+        perChi: "quien quiere dormir dentro de la Camarga",
+        testo: "Granjas con habitaciones entre las praderas, a menudo con caballos y toros; hace falta coche.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Nîmes",
+        distanza: "unos 45 minutos desde Aigues-Mortes",
+        come: "En coche o en tren regional desde Aigues-Mortes.",
+        testo: "La arena romana mejor conservada, la Maison Carrée y la Tour Magne. Un pase único para los tres monumentos cuesta unos 14,50 €.",
+      },
+      {
+        nome: "Les Baux-de-Provence",
+        distanza: "unos 30 minutos desde Arles",
+        come: "En coche; aparcamientos de pago bajo el pueblo.",
+        testo: "El pueblo sobre un espolón de los Alpilles con el castillo en ruinas, y debajo las Carrières des Lumières, una cantera de caliza usada para proyecciones de arte.",
+      },
+      {
+        nome: "Montpellier",
+        distanza: "unos 40 minutos desde Aigues-Mortes",
+        come: "En coche o en tren vía Nîmes; el casco antiguo se recorre a pie y en tranvía.",
+        testo: "Una ciudad universitaria animada, con el centro medieval del Écusson, la plaza de la Comédie y el Musée Fabre.",
+      },
     ],
     sapori: [
       {
@@ -3342,6 +3868,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "Hay muchos mosquitos de mayo a septiembre: repelente y manga larga por la noche.",
       "No acercarse a toros y caballos en el sendero: son animales semisalvajes.",
       "No salir de los senderos en las zonas de reserva natural."
+    ],
+    faq: [
+      {
+        domanda: "¿Dónde se ven los flamencos en la Camarga?",
+        risposta: "Casi en cualquier sitio con agua poco profunda, todo el año. El punto más fácil es el parque ornitológico de Pont de Gau, cerca de Saintes-Maries, donde se acercan a las pasarelas; muchos se ven también desde la carretera junto al Vaccarès y alrededor de las salinas.",
+      },
+      {
+        domanda: "¿Cuántos días hacen falta para la Camarga?",
+        risposta: "Uno basta para Pont de Gau, Saintes-Maries y Aigues-Mortes. Con dos o tres se añaden el Vaccarès, Salin-de-Giraud, la digue à la mer en bici y un paseo a caballo sin prisas.",
+      },
+      {
+        domanda: "¿Los mosquitos son de verdad un problema?",
+        risposta: "Sí, sobre todo de mayo a septiembre y después de la puesta de sol. Repelente fuerte, manga larga y pantalones por la noche; con el mistral bajan mucho.",
+      },
+      {
+        domanda: "¿La course camarguaise es como la corrida?",
+        risposta: "No: en la course camarguaise el toro no muere, y los raseteurs tienen que arrancarle las escarapelas de los cuernos. En Arles y Nîmes, sin embargo, durante las ferias se celebran también corridas de tipo español.",
+      },
+      {
+        domanda: "¿Se puede recorrer la Camarga en bicicleta?",
+        risposta: "Sí, es llana y tiene pistas de tierra cerradas al tráfico como la digue à la mer. Pero el viento cuenta mucho: con mistral pedalear en contra cansa, y conviene salir contra el viento para volver con él a favor.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para ir a la Camarga?",
+        risposta: "Abril-mayo y septiembre-octubre: migraciones, luz bonita, menos mosquitos y menos calor. A finales de mayo Saintes-Maries se llena por la peregrinación.",
+      },
     ],
     esperienzeSlugs: ['camargue-a-cavallo', 'fenicotteri-camargue', 'aigues-mortes'],
     tripSlugs: ['provenza-camargue'],
@@ -3381,14 +3933,12 @@ export const destinazioniFrancia: Destinazione[] = [
       "**Carcasona**, mejor en la ciudad baja, mucho más económica, a veinte minutos a pie de la cité. **Narbona o Béziers** para el canal y la costa. **Albi** para el norte. **Millau** para las gargantas. Los precios están entre los más bajos del sur de Francia.",
     doveMangiare:
       "El plato símbolo es el **cassoulet**: alubias blancas, corteza de cerdo, salchicha y confit, cocinados lentamente en un recipiente de barro. Tres ciudades reivindican la receta correcta, y la polémica dura desde siempre. Luego el **confit de canard**, el **foie gras**, el **Roquefort**, que se afina en las cuevas del pueblo del mismo nombre y se puede visitar, y las **ostras de Bouzigues** de la laguna de Thau. Para beber, los vinos del **Languedoc**, la mayor área vinícola de Francia por superficie, y en la costa catalana el **Banyuls** dulce.",
-    comeArrivare:
-      "Alta velocidad y trenes a Toulouse, Carcasona, Narbona, Béziers y Montpellier. Aeropuertos en Toulouse, Montpellier, Carcasona y Perpiñán. **Para los castillos cátaros y para las gargantas hace falta coche**.",
+    comeArrivare: "Alta velocidad y trenes a **Toulouse**, **Carcassonne**, **Narbona**, **Béziers** y **Montpellier**: desde París, Montpellier está a tres horas y media de TGV y Toulouse a unas cuatro y media; entre Toulouse y Narbona los trenes regionales pasan por Carcassonne en una hora. Aeropuertos en Toulouse, Montpellier, Carcassonne y Perpiñán, con vuelos de bajo coste también desde Italia. Desde la costa de Liguria en coche se llega a Montpellier en unas seis horas. **Para los castillos cátaros, las gargantas del Tarn y los causses hace falta coche**.",
     comeSpostarsi:
       "**Coche.** Los castillos cátaros están dispersos por carreteras de montaña lentas. El canal se recorre en bici o con una barca de alquiler, una fórmula muy extendida que no requiere titulación náutica.",
     periodoMigliore:
       "**mayo-junio y septiembre-octubre.** El verano en el interior es muy caluroso, y los castillos cátaros, sin sombra, se vuelven agotadores. En agosto la costa está concurrida, pero mucho menos que la provenzal. El invierno es suave en la costa y frío en los causses.",
-    costi:
-      "Entre los más bajos del sur de Francia: alojamientos, restaurantes y entradas cuestan bastante menos que en la Provenza y en la Costa Azul. Muchos castillos cátaros tienen entradas simbólicas o son gratuitos.",
+    costi: "De los más bajos del sur de Francia: alojamiento, restaurantes y entradas cuestan bastante menos que en la Provenza y la Costa Azul. Los castillos cátaros cobran pocos euros (Quéribus 9 €), el castillo condal de Carcassonne cuesta 13-19 € según la temporada y el camino de sirga del Canal du Midi es gratuito. Presupuesto orientativo al día por persona, en habitación doble y sin alquiler de coche: bajo 60-90 €, medio 110-160 €, alto más de 250 €.",
     erroriDaEvitare: [
       "Ver Carcasona solo de día: **en las horas centrales la cité es un flujo continuo**, por la noche está vacía e iluminada",
       "Subestimar los castillos cátaros: se llega en coche a un aparcamiento y luego **se sube a pie**, a menudo con fuerte pendiente, con viento fuerte en la cima",
@@ -3400,88 +3950,243 @@ export const destinazioniFrancia: Destinazione[] = [
       "Occitania responde a una pregunta que casi nadie se hace: adónde ir en el sur de Francia cuando la Provenza está llena y cara. Los paisajes son los mismos (caliza, viñas, cipreses, luz), los precios un tercio y los turistas casi ausentes. Pero lo que me ha quedado es la historia cátara, más que el ahorro. Se sube a Peyrepertuse o a Quéribus, castillos construidos en crestas calizas estrechísimas a cientos de metros de altura, con un viento que no para nunca, y debajo hay un valle vacío. Allí arriba, en el siglo XIII, se refugió una comunidad religiosa contra la que el papado proclamó una cruzada: contra cristianos del mismo país, no contra musulmanes. La campaña duró veinte años y terminó con un exterminio. De aquella gente solo han quedado estas rocas y los nombres de los lugares. En Italia esta historia no se estudia; aquí está por todas partes, en los carteles, en los museos de pueblo, en los rótulos. Carcasona, en cambio, hay que tomarla por lo que es: una restauración decimonónica muy discutida, que inventó tejados puntiagudos que probablemente nunca habían existido. Impresiona de todos modos, y por la noche, cuando los autocares ya se han ido, se camina entre los dos recintos amurallados sin cruzarse con nadie.",
     luoghi: [
       {
-        nome: "Carcasona",
-        testo: "La cité fortificada: cincuenta y dos torres y doble cinturón de murallas, restaurada en el siglo XIX por Viollet-le-Duc con criterios muy discutidos. Dentro hay callejuelas, tiendas y el castillo.",
-        come: "Tren directo desde Toulouse. Desde la estación, en la ciudad baja, se sube a pie a la cité cruzando el río.",
+        nome: "Carcassonne",
+        testo: "La cité fortificada: cincuenta y dos torres y doble recinto de murallas, restaurada en el siglo XIX por Viollet-le-Duc con criterios muy discutidos. Dentro hay callejuelas, tiendas y el castillo.",
+        come: "Tren directo desde Toulouse. Desde la estación, en la ciudad baja, se sube a la cité a pie cruzando el río.",
         quando: "Por la tarde-noche o a primera hora, cuando no hay grupos.",
-        tempo: "media jornada",
-        costo: "Castillo condal y paseo de las murallas: 19 € hasta el 30 de septiembre, 13 € de octubre a marzo (2026). La cité y sus calles son libres.",
-        consiglio: "Caminar junto a la muralla exterior es gratis y da una buena idea de la estructura."
+        tempo: "medio día",
+        costo: "Castillo condal y paseos de las murallas: 19 € hasta el 30 de septiembre, 13 € de octubre a marzo (2026). La cité y sus calles son libres.",
+        lat: 43.2067,
+        lng: 2.3636,
+        url: "https://www.remparts-carcassonne.fr/",
+        consiglio: "Caminar a lo largo del recinto exterior es gratis y da una buena idea de la estructura.",
       },
       {
         nome: "Canal du Midi",
-        testo: "Un canal del siglo XVII de 240 km que une el Garona, en Toulouse, con el Mediterráneo; junto al canal del Garona enlaza el Atlántico con el Mediterráneo. Patrimonio UNESCO, con plátanos en las orillas.",
-        come: "A pie o en bici por el camino de sirga; barcas de alquiler desde Carcasona o Castelnaudary.",
+        testo: "Un canal del siglo XVII de 240 km que une el Garona, en Toulouse, con el Mediterráneo; junto con el canal del Garona une el Atlántico con el Mediterráneo. Patrimonio de la UNESCO, con plátanos en las orillas. En el Seuil de Naurouze, su punto más alto, un obelisco recuerda a Pierre-Paul Riquet, que lo proyectó.",
+        come: "A pie o en bici por el camino de sirga; barcos de alquiler desde Carcassonne o Castelnaudary.",
         quando: "Primavera y otoño.",
-        tempo: "media jornada",
-        consiglio: "El camino de sirga es llano y apto para bici."
+        tempo: "medio día",
+        costo: "Camino de sirga libre",
+        lat: 43.3517,
+        lng: 1.8226,
+        consiglio: "El camino de sirga es llano y apto para la bici.",
       },
       {
-        nome: "Castillos cátaros",
-        testo: "Quéribus, Peyrepertuse y Montségur están encaramados a crestas calizas a cientos de metros, últimos refugios de los cátaros en el siglo XIII.",
-        come: "En coche desde la zona de Carcasona, luego una subida a pie empinada hasta las murallas.",
+        nome: "Esclusas de Fonseranes",
+        testo: "Una escalera de ocho vasos y nueve puertas que hace salvar al Canal du Midi un desnivel de más de veinte metros bajo Béziers. Desde arriba se ve la catedral de Saint-Nazaire en la colina.",
+        come: "A pie o en bici desde el centro de Béziers, una media hora; aparcamiento junto a las esclusas.",
+        quando: "De primavera a otoño, cuando pasan los barcos.",
+        tempo: "1 hora",
+        costo: "Libre",
+        lat: 43.3308,
+        lng: 3.2001,
+        consiglio: "Sentarse a mirar un barco que sube toda la escalera da idea de la ingeniería del siglo XVII.",
+      },
+      {
+        nome: "Peyrepertuse",
+        testo: "El mayor de los castillos cátaros, de trescientos metros de largo sobre una cresta caliza a casi ochocientos metros de altura. Desde la parte alta, el castillo de San Jordi, se ven los Pirineos y el mar.",
+        come: "En coche desde Carcassonne en una hora y media, hasta el aparcamiento sobre Duilhac; luego una subida a pie empinada de unos veinte minutos.",
         quando: "Por la mañana; el viento es fuerte y no hay sombra.",
-        tempo: "3 horas cada uno",
-        consiglio: "Llevar agua, gorra y zapatos de senderismo."
+        tempo: "2-3 horas",
+        orari: "Abierto todos los días todo el año, salvo el 24, 25 y 31 de diciembre y el 1 de enero",
+        lat: 42.8708,
+        lng: 2.5554,
+        url: "https://www.peyrepertuse.com/",
+        consiglio: "Llevar agua, sombrero y calzado de montaña.",
+      },
+      {
+        nome: "Quéribus",
+        testo: "El último refugio cátaro, caído en 1255, sobre un pico aislado a más de setecientos metros. La sala del pilar, con una bóveda gótica en abanico, es la parte mejor conservada.",
+        come: "En coche desde Peyrepertuse en unos 20 minutos, por Cucugnan; desde el aparcamiento se sube en un cuarto de hora.",
+        quando: "Por la mañana o al final de la tarde; evitar las horas centrales en verano.",
+        tempo: "1,5 horas",
+        costo: "9 € (2026)",
+        orari: "Abril-octubre 9.30-18.15, julio-agosto 9-19.45; febrero, marzo, noviembre y diciembre 10-16.30; cerrado gran parte de enero",
+        lat: 42.8368,
+        lng: 2.6214,
+        url: "https://www.cucugnan.fr/en/opening-hours-and-tickets-of-admission/",
+      },
+      {
+        nome: "Montségur",
+        testo: "El castillo sobre el pog, un pico de más de mil metros en el Ariège, donde en 1244 el asedio terminó con la hoguera de más de doscientos cátaros. Es la subida más dura de los castillos cátaros, y el silencio en la cima pesa.",
+        come: "En coche desde Carcassonne en una hora y media; desde el aparcamiento bajo el pog, entre media hora y tres cuartos de subida.",
+        quando: "De primavera a otoño; en invierno el sendero puede estar helado.",
+        tempo: "2-3 horas",
+        lat: 42.8756,
+        lng: 1.8325,
+        url: "https://www.montsegur.fr/",
+        consiglio: "El museo del pueblo de Montségur expone los hallazgos de las excavaciones del castillo.",
       },
       {
         nome: "Albi",
-        testo: "La catedral de Sainte-Cécile, considerada el mayor edificio de ladrillo del mundo, que desde fuera parece una fortaleza. En el palacio de la Berbie está el museo Toulouse-Lautrec.",
-        come: "Tren desde Toulouse.",
+        testo: "La catedral de Sainte-Cécile, considerada el mayor edificio de ladrillo del mundo, parece una fortaleza desde fuera. En el palacio de la Berbie está el museo Toulouse-Lautrec.",
+        come: "Tren desde Toulouse en una hora aproximadamente.",
         quando: "Por la mañana.",
-        tempo: "media jornada",
-        consiglio: "Dentro, mirar el Juicio Final al fresco."
+        tempo: "medio día",
+        costo: "Jardines y terraza del palacio de la Berbie libres",
+        orari: "Museo Toulouse-Lautrec: junio-septiembre 10-18, octubre-mayo 10-12.30 y 14-18",
+        lat: 43.9285,
+        lng: 2.1429,
+        url: "https://www.musee-toulouse-lautrec.com/",
+        consiglio: "Dentro, mirar el Juicio Final pintado al fresco.",
       },
       {
         nome: "Toulouse",
         testo: "La «ville rose» de ladrillo, con la basílica de Saint-Sernin, una de las mayores iglesias románicas conservadas de Europa, y la plaza del Capitole.",
-        come: "Aeropuerto y trenes de toda Francia.",
-        quando: "Mañana o noche.",
+        come: "Aeropuerto y trenes desde toda Francia; metro y tranvía desde el aeropuerto y la estación Matabiau.",
+        quando: "Por la mañana o por la tarde-noche.",
         tempo: "1 día",
-        consiglio: "El mercado Victor Hugo por la mañana es un buen desayuno."
+        costo: "Basílica de Saint-Sernin de entrada libre",
+        lat: 43.6085,
+        lng: 1.4421,
+        consiglio: "El mercado Victor Hugo por la mañana es un buen desayuno.",
+      },
+      {
+        nome: "Narbona",
+        testo: "Una de las primeras colonias romanas fuera de Italia, con un tramo de la vía Domitia al descubierto en medio de la plaza del ayuntamiento y el palacio de los Arzobispos. El museo Narbo Via reúne cientos de estelas e inscripciones romanas en un muro a la vista.",
+        come: "Tren desde Carcassonne o Montpellier; el centro se recorre a pie junto al canal de la Robine.",
+        quando: "Todo el año; por la mañana para Les Halles.",
+        tempo: "medio día",
+        lat: 43.1789,
+        lng: 3.0191,
+        url: "https://narbovia.fr/",
+      },
+      {
+        nome: "Minerve",
+        testo: "Un pueblo encaramado en un espolón entre dos gargantas, donde en 1210 la cruzada quemó a ciento cuarenta cátaros. Bajo el pueblo los ríos han excavado puentes naturales en la roca.",
+        come: "En coche desde Carcassonne o Narbona en una hora aproximadamente; aparcamiento fuera del pueblo, que es peatonal.",
+        quando: "Primavera y otoño; en verano los puentes naturales se visitan a pie cuando el río está seco.",
+        tempo: "2 horas",
+        costo: "Pueblo libre, aparcamiento de pago",
+        lat: 43.3547,
+        lng: 2.7472,
       },
       {
         nome: "Collioure",
-        testo: "El puerto catalán donde a principios del siglo XX pintaron los fauvistas, entre ellos Matisse y Derain, con su castillo junto al mar.",
+        testo: "El puerto catalán donde a principios del siglo XX pintaron los fauvistas, entre ellos Matisse y Derain, con el castillo sobre el mar.",
         come: "Tren desde Perpiñán.",
         quando: "Primavera y otoño.",
-        tempo: "media jornada",
-        consiglio: "Seguir el recorrido de los pintores con reproducciones de los cuadros."
-      }
+        tempo: "medio día",
+        costo: "Pueblo y ruta de los pintores libres",
+        lat: 42.5267,
+        lng: 3.0814,
+        consiglio: "Seguir la ruta de los pintores con las reproducciones de los cuadros.",
+      },
+      {
+        nome: "Viaducto de Millau",
+        testo: "El puente atirantado de Norman Foster que lleva la autopista A75 sobre el valle del Tarn, con el pilón más alto del mundo. Siete pilas, casi dos kilómetros y medio de tablero, a menudo por encima de las nubes por la mañana.",
+        come: "Cruzándolo por la A75 (de peaje), o desde el área de servicio del viaducto, al norte, con un sendero panorámico; desde abajo se mira desde la carretera de Peyre.",
+        quando: "A primera hora, cuando la niebla se queda en el valle.",
+        tempo: "1 hora",
+        costo: "Área de descanso y mirador libres; el paso por el viaducto es de peaje",
+        lat: 44.0872,
+        lng: 3.0208,
+        consiglio: "El pueblo de Peyre, excavado en el acantilado bajo el puente, da el mejor encuadre.",
+      },
+      {
+        nome: "Roquefort-sur-Soulzon",
+        testo: "El pueblo construido contra el acantilado del Combalou, donde las cuevas naturales recorridas por corrientes de aire, las fleurines, afinan el roquefort. Varias bodegas se visitan con cata.",
+        come: "En coche desde Millau en una media hora.",
+        quando: "Todo el año; en verano las visitas son más frecuentes.",
+        tempo: "2 horas",
+        lat: 43.9749,
+        lng: 2.992,
+        consiglio: "En las cuevas la temperatura ronda los diez grados incluso en verano.",
+      },
+      {
+        nome: "Gargantas del Tarn y Sainte-Énimie",
+        testo: "Un cañón de unos cincuenta kilómetros entre el Causse Méjean y el Causse de Sauveterre, con paredes de caliza y pueblos de piedra junto al río. Sainte-Énimie, aferrado a un meandro, es el más bonito.",
+        come: "En coche desde Millau en una hora y media; canoas de alquiler en Sainte-Énimie o La Malène.",
+        quando: "Mayo-junio y septiembre; en agosto la carretera y el río están llenos.",
+        tempo: "1 día",
+        costo: "Pueblos y carretera de las gargantas libres",
+        lat: 44.3675,
+        lng: 3.4119,
+        consiglio: "Bajar un tramo en canoa permite ver las gargantas desde el punto justo.",
+      },
+      {
+        nome: "Cirque de Navacelles",
+        testo: "Un meandro abandonado por el Vis, de trescientos metros de profundidad, con el pueblo en el fondo y una cascada. Es el paisaje emblema de los causses inscritos por la UNESCO.",
+        come: "En coche desde Montpellier en una hora y media; mirador en el borde del causse, luego una carretera de curvas baja al pueblo.",
+        quando: "Primavera y otoño; por la mañana por la luz.",
+        tempo: "medio día",
+        costo: "Mirador libre",
+        lat: 43.893,
+        lng: 3.5101,
+        consiglio: "Un sendero empinado baja al pueblo desde el mirador: la subida de vuelta cansa.",
+      },
     ],
     programmi: [
       {
         titolo: "2 días",
         tappe: [
-          "Día 1: Carcasona y Canal du Midi",
-          "Día 2: castillos cátaros"
-        ]
+          "Día 1: Carcassonne y Canal du Midi",
+          "Día 2: castillos cátaros, Peyrepertuse y Quéribus",
+        ],
       },
       {
         titolo: "3 días",
         tappe: [
           "Día 1: Toulouse",
-          "Día 2: Albi y Carcasona",
-          "Día 3: castillos cátaros y Collioure"
-        ]
-      }
+          "Día 2: Albi y Carcassonne",
+          "Día 3: castillos cátaros y Collioure",
+        ],
+      },
+      {
+        titolo: "7 días",
+        tappe: [
+          "Día 1: Toulouse",
+          "Día 2: Albi, luego Millau",
+          "Día 3: gargantas del Tarn y Roquefort",
+          "Día 4: Cirque de Navacelles, luego Béziers y las esclusas de Fonseranes",
+          "Día 5: Narbona y Minerve",
+          "Día 6: Peyrepertuse y Quéribus",
+          "Día 7: Carcassonne por la tarde-noche",
+        ],
+      },
     ],
     zone: [
       {
-        nome: "Carcasona",
-        perChi: "para el centro",
-        testo: "Alojamiento en la Bastide o en la cité; la cité es tranquila por la noche."
+        nome: "Carcassonne",
+        perChi: "quien busca el centro",
+        testo: "Alojamientos en la Bastide o en la cité; por la noche la cité está tranquila. La ciudad baja cuesta menos y está a veinte minutos a pie.",
       },
       {
         nome: "Toulouse",
-        perChi: "si se usan trenes",
-        testo: "Ciudad grande y vital, con aeropuerto."
+        perChi: "quien usa el tren",
+        testo: "Ciudad grande, muy animada, con aeropuerto.",
+      },
+      {
+        nome: "Narbona o Béziers",
+        perChi: "quien quiere canal y costa",
+        testo: "Ciudades medianas en el Canal du Midi, cómodas para Minerve, Fonseranes y el mar.",
       },
       {
         nome: "Collioure",
-        perChi: "para el mar",
-        testo: "Pequeño puerto mediterráneo, algo más caro."
-      }
+        perChi: "quien quiere el mar",
+        testo: "Pequeño puerto en el Mediterráneo, algo más caro.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Lagrasse",
+        distanza: "unos 45 minutos desde Carcassonne",
+        come: "En coche por las Corbières; aparcamiento fuera del pueblo.",
+        testo: "Un pueblo medieval junto al Orbieu con el puente viejo, las casas de piedra y una gran abadía benedictina al otro lado del río.",
+      },
+      {
+        nome: "Cordes-sur-Ciel",
+        distanza: "unos 30 minutos desde Albi",
+        come: "En coche; desde el aparcamiento de abajo se sube a pie.",
+        testo: "Una bastida del siglo XIII en lo alto de una colina, con las casas góticas de los mercaderes en la calle principal y vistas al valle del Cérou.",
+      },
+      {
+        nome: "Sète",
+        distanza: "unos 30 minutos desde Béziers",
+        come: "En tren o en coche por la costa.",
+        testo: "El puerto pesquero entre canales, el mar y la laguna de Thau, con las ostras de Bouzigues, la tielle (tarta de pulpo) y el cementerio marino donde está enterrado Paul Valéry.",
+      },
     ],
     sapori: [
       {
@@ -3505,6 +4210,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "El viento (tramontana, cers) es fuerte en los castillos cátaros: llevar chaqueta.",
       "En pleno verano el calor es pesado: ir por la mañana.",
       "El aparcamiento en la cité de Carcasona es limitado: usar los aparcamientos exteriores."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuántos días hacen falta para Occitania?",
+        risposta: "Tres días bastan para Carcassonne, el Canal du Midi y un par de castillos cátaros. Con una semana se añaden Toulouse, Albi, el viaducto de Millau y las gargantas del Tarn.",
+      },
+      {
+        domanda: "¿Qué castillo cátaro visitar si solo hay tiempo para uno?",
+        risposta: "Peyrepertuse, el mayor y más escenográfico, con vistas a los Pirineos y al mar. Quéribus está a veinte minutos y se suma fácilmente en la misma mañana.",
+      },
+      {
+        domanda: "¿Cuánto cuesta entrar en la cité de Carcassonne?",
+        risposta: "Las calles de la cité son libres a cualquier hora. Se paga el castillo condal con los paseos de las murallas: 19 € hasta el 30 de septiembre y 13 € de octubre a marzo en 2026.",
+      },
+      {
+        domanda: "¿Se puede recorrer el Canal du Midi en bici?",
+        risposta: "Sí, el camino de sirga es llano y en gran parte ciclable, con tramos de tierra. Los más fáciles están alrededor de Carcassonne, Castelnaudary y Béziers.",
+      },
+      {
+        domanda: "¿Hace falta licencia náutica para alquilar un barco en el canal?",
+        risposta: "No, los barcos fluviales de alquiler del Canal du Midi se manejan sin licencia tras una breve explicación a la salida.",
+      },
+      {
+        domanda: "¿Cuándo conviene ir a Occitania?",
+        risposta: "Mayo-junio y septiembre-octubre. El verano en el interior es muy caluroso y los castillos cátaros, sin sombra, se hacen pesados; en invierno la costa es suave y los causses son fríos.",
+      },
     ],
     esperienzeSlugs: ['castelli-catari', 'canal-du-midi', 'carcassonne'],
     tripSlugs: ['provenza-camargue'],
@@ -3549,8 +4280,7 @@ export const destinazioniFrancia: Destinazione[] = [
       "En la estación el coche no hace falta: las lanzaderas gratuitas conectan barrios y remontes. **El punto delicado es el día de llegada**: el sábado, en temporada alta, todas las semanas blancas francesas cambian a la vez, y en las carreteras de la Tarentaise y de la Maurienne las colas pueden durar horas. Salir el domingo, o muy pronto el sábado, cambia la jornada.",
     periodoMigliore:
       "**de mediados de enero a mediados de marzo** por la relación entre nieve y precios, y **marzo** es el mejor mes por nieve, luz y días largos. **En Francia la variable decisiva son las vacaciones escolares de invierno, escalonadas en tres zonas** a lo largo de cuatro o cinco semanas seguidas entre febrero y principios de marzo: en ese periodo, por turnos, las estaciones están llenas y los precios al máximo. **El calendario de las zonas sale con mucha antelación y hay que consultarlo antes de reservar.** Navidad y Fin de Año son carísimos, y en las cotas bajas la nieve no está garantizada.",
-    costi:
-      "Altos, y estructurados de forma distinta a Italia: **apartamento por la semana + forfait + alquiler + escuela**, con el forfait de los grandes dominios entre las partidas más caras de Europa. **Los forfaits de varios días comprados en línea con antelación cuestan bastante menos.** Hay que añadir el **seguro de rescate en pista**, vendido con el forfait: **en Francia el rescate en pista se paga**, y una intervención fuera de pista cuesta cifras muy altas.",
+    costi: "Altos, y organizados de otra forma que en Italia: **apartamento para la semana + forfait + alquiler + escuela**, con el forfait de los grandes dominios entre los más caros de Europa. Para la temporada 2026/27 el forfait adulto de 6 días cuesta unos 421 € en los Tres Valles, unos 412 € en Paradiski y unos 468 € en Tignes-Val d'Isère; el alquiler de un equipo completo unos 25-45 € al día. **Los forfaits de varios días comprados en línea con antelación cuestan bastante menos.** Hay que sumar el **seguro de rescate en pistas** (Carré Neige, unos 3,50 € al día), que se vende con el forfait: **en Francia el rescate en pistas se paga**, y una intervención fuera de pista cuesta cifras muy altas. Presupuesto orientativo al día por persona, con apartamento compartido, forfait y alquiler: bajo 150-200 € (Alpes del Sur, Pirineos), medio 250-350 €, alto más de 500 € en Courchevel o Val d'Isère.",
     erroriDaEvitare: [
       "**Reservar sin mirar el calendario de las vacaciones escolares francesas**: es la diferencia entre una semana normal y una con precios dobles y pistas llenas",
       "Llegar en sábado en temporada alta sin contar con las colas en el valle",
@@ -3728,58 +4458,233 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Les Trois Vallées",
-        testo: "Una gran zona esquiable conectada, con Courchevel, Méribel, Val Thorens, Les Menuires y Saint-Martin-de-Belleville. Val Thorens está entre las estaciones más altas de Europa.",
+        testo: "Un gran dominio enlazado, con Courchevel, Méribel, Val Thorens, Les Menuires y Saint-Martin-de-Belleville. Val Thorens es una de las estaciones más altas de Europa.",
         come: "Tren hasta Moûtiers y lanzadera; aeropuerto de Lyon o Ginebra con traslado.",
         quando: "Diciembre-abril; Val Thorens conserva la nieve más tiempo.",
         tempo: "mínimo 4-5 días",
-        consiglio: "Elegir la base según el nivel: Méribel en el centro, Val Thorens en altura."
+        costo: "Forfait adulto 6 días unos 421 € (temporada 2026/27)",
+        lat: 45.4011,
+        lng: 6.5656,
+        url: "https://www.les3vallees.com/",
+        consiglio: "Elegir la base según el nivel: Méribel en el centro, Val Thorens en altura.",
+      },
+      {
+        nome: "Val Thorens",
+        testo: "La estación en la cabecera del valle de Belleville, a 2.300 metros, con la nieve más fiable de los Alpes franceses y una de las temporadas más largas. Se esquía desde la puerta, y desde aquí sale el enlace con Orelle y la Maurienne.",
+        come: "Tren hasta Moûtiers, luego autobús o traslado de una hora por la carretera del valle.",
+        quando: "De finales de noviembre a principios de mayo; marzo y abril por la nieve y los días largos.",
+        tempo: "una semana",
+        costo: "Forfait Tres Valles adulto 6 días unos 421 € (2026/27)",
+        lat: 45.2981,
+        lng: 6.58,
+        consiglio: "Con viento fuerte los remontes más altos cierran: mirar la app del dominio.",
       },
       {
         nome: "Paradiski",
         testo: "La Plagne y Les Arcs unidas por el Vanoise Express, el teleférico de dos pisos que cruza el valle a 380 metros de altura en unos 4 minutos.",
-        come: "Tren hasta Bourg-Saint-Maurice y lanzadera.",
+        come: "Tren hasta Bourg-Saint-Maurice y lanzadera; desde Bourg un funicular sube directamente a Arc 1600.",
         quando: "Diciembre-abril.",
         tempo: "4-5 días",
-        consiglio: "Les Arcs tiene varios pueblos en altura, cada uno con su carácter: elegir la base con calma."
+        costo: "Forfait adulto 6 días unos 412 € (temporada 2026/27)",
+        lat: 45.5494,
+        lng: 6.7393,
+        url: "https://www.paradiski.com/",
+        consiglio: "Les Arcs tiene varios pueblos en altura, cada uno con un carácter distinto: elegir la base con calma.",
       },
       {
         nome: "Tignes y Val d'Isère",
-        testo: "Dos estaciones de gran altitud, unidas en el Espace Killy, con glaciares y temporada de nieve más larga. Val d'Isère tiene más ambiente, Tignes remontes modernos.",
+        testo: "Dos estaciones de gran altitud, unidas en el Espace Killy, con glaciares y nieve que dura más en la temporada. Val d'Isère tiene más ambiente, Tignes tiene remontes modernos.",
         come: "Tren a Bourg-Saint-Maurice y lanzadera.",
-        quando: "Diciembre-abril; glaciar incluso en verano.",
+        quando: "Diciembre-abril; glaciar también en verano.",
         tempo: "4-5 días",
-        consiglio: "Tignes tiene nieve más segura al principio y final de temporada."
+        costo: "Forfait adulto de la semana unos 468 € (temporada 2026/27)",
+        lat: 45.4733,
+        lng: 6.9139,
+        consiglio: "Tignes tiene nieve más segura a principio y final de temporada.",
       },
       {
         nome: "Chamonix",
-        testo: "Un valle, más que una zona conectada, a los pies del Mont Blanc, capital del alpinismo. Para esquiadores expertos, con la Vallée Blanche desde la Aiguille du Midi.",
-        come: "Tren desde Ginebra o París; autobuses unen los sectores.",
+        testo: "Un valle, más que un dominio enlazado, al pie del Mont Blanc, capital del alpinismo. Para esquiadores expertos, con la Vallée Blanche desde la Aiguille du Midi.",
+        come: "Tren desde Ginebra o París; los autobuses unen los sectores. Desde Ginebra autobuses directos en 1h15-1h40, unos 15-30 €.",
         quando: "Enero-abril.",
         tempo: "4-5 días",
-        consiglio: "La Vallée Blanche se hace con guía."
-      }
+        costo: "Aiguille du Midi ida y vuelta unos 83 €",
+        lat: 45.9231,
+        lng: 6.8697,
+        url: "https://www.chamonix.com/",
+        consiglio: "La Vallée Blanche se hace con guía.",
+      },
+      {
+        nome: "Portes du Soleil y Avoriaz",
+        testo: "Un dominio a caballo entre Francia y Suiza, con una docena de estaciones bajo el mismo forfait. Avoriaz, construida en los años sesenta sobre un acantilado, es peatonal: uno se mueve a pie, con los esquís o en trineo.",
+        come: "Tren hasta Thonon-les-Bains o Cluses, luego autobús a Morzine; desde Morzine una telecabina sube a Avoriaz. Desde Ginebra una hora y media.",
+        quando: "Enero-marzo; en 2026/27 todo el dominio abre el 19 de diciembre.",
+        tempo: "una semana",
+        lat: 46.1956,
+        lng: 6.7679,
+        url: "https://www.portesdusoleil.com/",
+        consiglio: "Para forfaits de tres días o más hace falta la tarjeta «manos libres», 3 €.",
+      },
+      {
+        nome: "Grand Massif y Flaine",
+        testo: "Un gran dominio en Alta Saboya que baja desde Flaine, la estación de hormigón proyectada por Marcel Breuer, hasta los pueblos de Samoëns y Sixt en el bosque. La pista de las Cascades desciende catorce kilómetros hasta Sixt.",
+        come: "Tren hasta Cluses, luego autobús a Flaine; desde Ginebra una hora.",
+        quando: "Enero-marzo.",
+        tempo: "una semana",
+        lat: 46.0069,
+        lng: 6.6919,
+        consiglio: "Samoëns tiene el carácter de un pueblo de verdad y una telecabina que sube al dominio.",
+      },
+      {
+        nome: "Alpe d'Huez",
+        testo: "El gran dominio del Oisans, en una meseta muy soleada sobre Bourg-d'Oisans. Desde el Pic Blanc, a más de 3.300 metros, sale la Sarenne, una de las pistas negras más largas del mundo.",
+        come: "Tren hasta Grenoble, luego autobús de una hora y media; las famosas veintiuna curvas llevan a la estación.",
+        quando: "Diciembre-abril; marzo por el sol.",
+        tempo: "una semana",
+        lat: 45.09,
+        lng: 6.07,
+        url: "https://www.alpedhuez.com/",
+        consiglio: "La Sarenne es más larga que difícil: mejor por la mañana con nieve fresca.",
+      },
+      {
+        nome: "Les 2 Alpes",
+        testo: "Una estación encajada en una hondonada del Oisans con un glaciar por encima de los tres mil metros, donde se esquía también a principio y final de temporada. El desnivel del pueblo a la cima es de los mayores de Francia.",
+        come: "Tren hasta Grenoble, luego autobús de una hora y tres cuartos.",
+        quando: "De finales de noviembre a principios de mayo; glaciar también en verano.",
+        tempo: "4-6 días",
+        lat: 45.0072,
+        lng: 6.1217,
+        consiglio: "Las pistas bajas hacia el pueblo suelen estar duras o cerradas en primavera: se baja en telecabina.",
+      },
+      {
+        nome: "Serre Chevalier",
+        testo: "Un largo valle sobre Briançon, la ciudad más alta de Francia, con pistas entre bosques de alerces y cuatro sectores enlazados. Es uno de los grandes dominios de los Alpes del Sur, con más sol y menos viento.",
+        come: "Tren nocturno desde París hasta Briançon, luego lanzadera; desde Turín unas dos horas en coche por el Montgenèvre.",
+        quando: "Temporada 2026/27 del 5 de diciembre al 18 de abril (el sector de Briançon del 12 de diciembre al 4 de abril).",
+        tempo: "una semana",
+        lat: 44.9444,
+        lng: 6.5667,
+        url: "https://www.serre-chevalier.com/",
+        consiglio: "Los días de mal tiempo los bosques de alerces son el mejor sitio para esquiar.",
+      },
+      {
+        nome: "La Clusaz y Le Grand-Bornand",
+        testo: "Dos pueblos de verdad de los Aravis, a menos de una hora de Annecy, con iglesias, mercados y los chalés de los pastos del reblochon. Los dominios están a cota media, con pistas entre bosques.",
+        come: "Tren hasta Annecy, luego autobús de unos 45 minutos.",
+        quando: "Enero-febrero.",
+        tempo: "3-6 días",
+        lat: 45.905,
+        lng: 6.4239,
+        consiglio: "El mercado del miércoles en Le Grand-Bornand es el sitio para el reblochon fermier.",
+      },
+      {
+        nome: "Megève",
+        testo: "La estación nacida en los años veinte por iniciativa de la familia Rothschild, con un centro medieval peatonal, coches de caballos y chalés de lujo. Las pistas miran al Mont Blanc y son adecuadas para esquiadores de nivel medio.",
+        come: "Tren hasta Sallanches, luego autobús de unos 20 minutos; desde Ginebra una hora.",
+        quando: "Enero-marzo.",
+        tempo: "3-6 días",
+        lat: 45.8578,
+        lng: 6.6181,
+        consiglio: "Es el pueblo adecuado para quien alterna esquí y días sin esquí.",
+      },
+      {
+        nome: "Isola 2000",
+        testo: "Una estación integrada en los Alpes Marítimos, a hora y media de Niza, en la frontera con el Piamonte. Las pistas reciben mucho sol y la nieve llega a menudo con las borrascas mediterráneas.",
+        come: "En coche o en autobús de temporada desde Niza, unos 90 km de carretera de montaña.",
+        quando: "Enero-marzo; nevadas irregulares a principio de temporada.",
+        tempo: "1-3 días",
+        lat: 44.1847,
+        lng: 7.1611,
+        consiglio: "Se puede esquiar por la mañana y bajar a Niza para la tarde junto al mar.",
+      },
+      {
+        nome: "Pirineos: Grand Tourmalet y Font-Romeu",
+        testo: "El Grand Tourmalet, entre La Mongie y Barèges, es el mayor dominio de los Pirineos franceses, con el Pic du Midi sobre las pistas. Font-Romeu, en los Pirineos catalanes, es una estación muy soleada en una meseta alta.",
+        come: "Para La Mongie tren hasta Lourdes o Tarbes, luego coche; para Font-Romeu tren nocturno desde París hasta Latour-de-Carol y el Train Jaune.",
+        quando: "Enero-marzo.",
+        tempo: "3-6 días",
+        lat: 42.91,
+        lng: 0.1792,
+        consiglio: "Precios y gente mucho más bajos que en los Alpes, incluso en vacaciones escolares.",
+      },
     ],
     programmi: [
+      {
+        titolo: "Fin de semana de 3 días",
+        tappe: [
+          "Día 1: llegada el viernes por la noche a una estación cerca de Ginebra (Portes du Soleil, Grand Massif, Aravis)",
+          "Día 2: esquí todo el día en los sectores principales",
+          "Día 3: mañana en las pistas, salida después de comer para evitar el tráfico de la tarde",
+        ],
+      },
       {
         titolo: "5 días",
         tappe: [
           "Día 1: llegada y recogida del material",
-          "Días 2-4: esquí por los valles conectados",
-          "Día 5: descanso o fuera de pista con guía"
-        ]
-      }
+          "Días 2-4: esquí entre los valles enlazados",
+          "Día 5: descanso o salida fuera de pista con guía",
+        ],
+      },
+      {
+        titolo: "La semana de sábado a sábado",
+        tappe: [
+          "Sábado: llegar temprano o el domingo para evitar las colas del valle, recoger forfait y alquiler",
+          "Domingo-lunes: sectores cerca del alojamiento para entender el dominio",
+          "Martes-miércoles: travesías entre los valles enlazados",
+          "Jueves: Vallée Blanche o fuera de pista con guía, o descanso y raquetas",
+          "Viernes: último día y devolución del alquiler por la tarde",
+        ],
+      },
+      {
+        titolo: "Nieve y mar en 3 días",
+        tappe: [
+          "Día 1: Niza",
+          "Día 2: Isola 2000 por la mañana, vuelta a la costa por la tarde",
+          "Día 3: segundo día de esquí o la costa hasta Antibes",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Estaciones integradas",
-        perChi: "para esquiar desde la puerta",
-        testo: "Alojamiento pie de pista, feo pero cómodo, con todo cerca."
+        perChi: "quien quiere esquiar desde la puerta",
+        testo: "Alojamientos ski-in/ski-out, feos pero cómodos, con todo cerca. Val Thorens, Tignes, Les Arcs, La Plagne, Avoriaz, Flaine.",
       },
       {
         nome: "Pueblos históricos",
-        perChi: "para el ambiente",
-        testo: "Chalets y restaurantes, pero hace falta lanzadera para las pistas."
-      }
+        perChi: "quien quiere ambiente",
+        testo: "Chalés y restaurantes, pero hace falta la lanzadera para las pistas. Chamonix, Megève, La Clusaz, Samoëns, Saint-Martin-de-Belleville.",
+      },
+      {
+        nome: "Fondo del valle de la Tarentaise",
+        perChi: "quien quiere ahorrar",
+        testo: "Bourg-Saint-Maurice y Moûtiers tienen alojamientos más baratos y estación de tren; desde Bourg el funicular sube a Arc 1600 en pocos minutos.",
+      },
+      {
+        nome: "Alpes del Sur y Pirineos",
+        perChi: "quien tiene un presupuesto ajustado o pocos días",
+        testo: "Isola 2000, Serre Chevalier, Font-Romeu y La Mongie: precios más bajos y menos gente, dominios más pequeños.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Annecy",
+        distanza: "45 minutos desde La Clusaz",
+        come: "Autobús o coche desde los Aravis; el casco antiguo se recorre a pie.",
+        testo: "La ciudad vieja sobre los canales y el lago, para un día sin esquí o una vuelta tranquila hacia Ginebra.",
+      },
+      {
+        nome: "Aiguille du Midi",
+        distanza: "20 minutos de teleférico desde Chamonix",
+        come: "Teleférico desde el centro de Chamonix, unos 83 € ida y vuelta; reservar en línea la hora de subida.",
+        testo: "La terraza a 3.842 metros frente al Mont Blanc, de donde sale la Vallée Blanche. Merece la subida aunque no se esquíe.",
+      },
+      {
+        nome: "Mer de Glace",
+        distanza: "20 minutos de tren desde Chamonix",
+        come: "Tren de cremallera del Montenvers, que sale de la estación junto a la SNCF de Chamonix.",
+        testo: "El mayor glaciar de Francia, donde termina el descenso de la Vallée Blanche. Quien no esquía llega en tren.",
+      },
     ],
     sapori: [
       {
@@ -3803,6 +4708,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "Comprar el forfait en línea antes: en taquilla cuesta más y hay cola.",
       "El rescate en pista puede ser de pago: tener seguro.",
       "Fuera de pista es peligroso sin guía y equipo: avalanchas."
+    ],
+    faq: [
+      {
+        domanda: "¿Cuánto cuesta el forfait en Francia?",
+        risposta: "Para la temporada 2026/27 el forfait adulto de 6 días cuesta unos 421 € en los Tres Valles, unos 412 € en Paradiski y unos 468 € en Tignes-Val d'Isère. Comprado en línea con antelación sale más barato que en taquilla.",
+      },
+      {
+        domanda: "¿Cuándo conviene ir a esquiar a Francia?",
+        risposta: "De mediados de enero a mediados de marzo, evitando las semanas de vacaciones escolares francesas de febrero, escalonadas en tres zonas. Marzo tiene nieve, sol y días largos; Navidad y Año Nuevo son los periodos más caros.",
+      },
+      {
+        domanda: "¿El rescate en pistas se paga?",
+        risposta: "Sí, en Francia el rescate en pistas es de pago. El seguro Carré Neige, que se vende con el forfait, cuesta unos 3,50 € al día y cubre también la evacuación en helicóptero.",
+      },
+      {
+        domanda: "¿Cuál es el mejor dominio para una familia?",
+        risposta: "Paradiski y estaciones de los Tres Valles como Les Menuires tienen muchas pistas azules largas y zonas protegidas para niños. Con quien no esquía conviene un pueblo como Megève, La Clusaz o Chamonix.",
+      },
+      {
+        domanda: "¿Hacen falta cadenas o neumáticos de invierno?",
+        risposta: "Sí: en los municipios de montaña las cadenas a bordo o los neumáticos de invierno son obligatorios por ley de noviembre a marzo. En coche, el sábado de cambio de semana las colas en el valle pueden durar horas.",
+      },
+      {
+        domanda: "¿Cómo se llega a las estaciones sin coche?",
+        risposta: "En tren hasta Moûtiers, Bourg-Saint-Maurice, Cluses o Briançon, luego autobuses y lanzaderas. Desde Ginebra salen autobuses y traslados compartidos a todas las grandes estaciones, desde unos 30-70 € por persona.",
+      },
     ],
     esperienzeSlugs: ['vallee-blanche', 'aiguille-du-midi', 'scialpinismo-francia'],
     tripSlugs: ['settimana-bianca-francia'],
@@ -3847,8 +4778,7 @@ export const destinazioniFrancia: Destinazione[] = [
       "En los trekkings por etapas uno se desplaza a pie: el problema, en todo caso, es volver al punto de partida, y para el Tour du Mont Blanc hay lanzaderas y traslados de equipaje en todo el recorrido. En el valle de Chamonix el transporte público es excelente y **normalmente está incluido en la tarjeta que dan los establecimientos donde se duerme**: conviene preguntarlo al hacer la reserva.",
     periodoMigliore:
       "**de mediados de junio a mediados de septiembre**, la ventana en la que los refugios están abiertos y los collados altos están libres de nieve. **Julio y agosto son los meses más concurridos**, y en el Tour du Mont Blanc la multitud se nota. **El mejor mes es septiembre**: aire limpio, menos gente, refugios todavía abiertos en la primera mitad del mes. En junio las neveras que quedan en los collados altos son un problema serio. **El GR20 se recorre aproximadamente de junio a septiembre**, con los meses centrales muy calurosos en los tramos bajos.",
-    costi:
-      "La partida principal es la media pensión en refugio, que en Francia está en la franja alta de los Alpes. Los remontes (Aiguille du Midi, Montenvers) son caros y hay que contarlos aparte. El rescate público es en principio gratuito, pero **un seguro que cubra repatriación y gastos médicos sigue siendo sensato**.",
+    costi: "El gasto principal es la media pensión en refugio, que en Francia está en la franja alta de los Alpes. Los remontes son caros y hay que contarlos aparte: la Aiguille du Midi ida y vuelta cuesta entre 60,20 y 83 € según la fecha, el billete Montenvers-Mer de Glace con tren, telecabina y gruta 51,30 €. De Ginebra a Chamonix los autobuses directos cuestan unos 15-30 €. El rescate público es en principio gratuito, pero **un seguro que cubra repatriación y gastos médicos sigue siendo sensato**. Presupuesto orientativo al día por persona en el Tour du Mont Blanc, con media pensión en refugio o gîte d'étape: bajo 70-90 € en literas, medio 100-140 €, alto más de 200 € con hoteles en los pueblos y transporte de equipaje.",
     erroriDaEvitare: [
       "**Reservar en mayo los refugios del Tour du Mont Blanc para agosto.** Se agotan desde enero-febrero, y es la limitación sobre la que se construye todo el viaje",
       "Subestimar los desniveles: en el TMB las etapas suelen tener ochocientos o novecientos metros de subida y otros tantos de bajada",
@@ -3965,66 +4895,214 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Tour du Mont Blanc",
-        testo: "Unos 165-170 km alrededor del macizo, entre Francia, Italia y Suiza, con más de 10.000 metros de desnivel. Suele hacerse en 9-14 días, de refugio en refugio, en sentido antihorario.",
-        come: "Salida desde Les Houches o Chamonix; autobuses y trenes para los regresos.",
-        quando: "Julio a mediados de septiembre; los refugios solo abren en verano.",
+        testo: "Unos 165-170 km alrededor del macizo, entre Francia, Italia y Suiza, con más de 10.000 metros de desnivel. Normalmente se hace en 9-14 días, de refugio en refugio, en sentido antihorario.",
+        come: "Salida desde Les Houches o Chamonix; autobuses y trenes para volver. De Chamonix a Les Houches autobús local o tren Mont-Blanc Express en 10-15 minutos, gratis con la tarjeta de huésped.",
+        quando: "Julio-mediados de septiembre; los refugios solo abren en verano.",
         tempo: "9-14 días",
-        consiglio: "Los refugios hay que reservarlos con meses de antelación."
+        costo: "Sendero libre; se pagan refugios y transportes",
+        lat: 45.8908,
+        lng: 6.7992,
+        consiglio: "Los refugios se reservan con meses de antelación.",
       },
       {
         nome: "Lac Blanc y Grand Balcon",
-        testo: "Excursión sobre Chamonix con vistas al macizo del Mont Blanc reflejado en el lago. El Grand Balcon Nord es un sendero panorámico a media ladera.",
+        testo: "Excursión sobre Chamonix con vistas al macizo del Mont Blanc, que se refleja en el lago. El Grand Balcon Nord es un sendero panorámico a media ladera.",
         come: "Teleférico hasta La Flégère, luego a pie por el sendero hasta el lago.",
         quando: "Por la mañana; julio-septiembre.",
-        tempo: "media jornada",
-        consiglio: "Salir pronto para evitar multitudes en el lago."
+        tempo: "medio día",
+        lat: 45.9826,
+        lng: 6.8889,
+        consiglio: "Salir temprano para no encontrar gente en el lago.",
       },
       {
         nome: "Mer de Glace y Montenvers",
-        testo: "Uno de los mayores glaciares de Francia, al que se llega en el tren de cremallera del Montenvers. A lo largo de la escalera hacia el hielo, carteles muestran cuánto ha retrocedido.",
-        come: "El tren cremallera del Montenvers, con salida desde Chamonix.",
+        testo: "Uno de los mayores glaciares de Francia, al que se llega con el tren de cremallera del Montenvers. A lo largo de la escalera para bajar al hielo, unos carteles muestran cuánto ha retrocedido.",
+        come: "Tren de cremallera del Montenvers, con salida desde Chamonix.",
         quando: "Por la mañana; verano y otoño.",
-        tempo: "media jornada",
-        consiglio: "El glaciar ha bajado decenas de metros: los carteles lo muestran."
+        tempo: "medio día",
+        costo: "Billete Mer de Glace con tren, telecabina y gruta de hielo 51,30 € (2026)",
+        orari: "Tren cerrado del 2 de noviembre al 4 de diciembre; telecabina y gruta reabren el 19 de diciembre",
+        lat: 45.9331,
+        lng: 6.9172,
+        url: "https://montenversmerdeglace.montblancnaturalresort.com/",
+        consiglio: "El glaciar ha bajado decenas de metros: los carteles lo muestran.",
+      },
+      {
+        nome: "Aiguille du Midi",
+        testo: "El teleférico sube desde Chamonix a 3.842 metros en dos tramos, con la terraza panorámica sobre el Mont Blanc y el «Pas dans le vide», una cabina de cristal suspendida sobre el vacío. De aquí salen la Vallée Blanche y las vías de alpinismo hacia el Mont Blanc.",
+        come: "Teleférico desde el centro de Chamonix, unos 20 minutos hasta arriba; conviene reservar en línea la hora de subida.",
+        quando: "A primera hora y en días despejados; en verano la cola se forma pronto.",
+        tempo: "medio día",
+        costo: "Ida y vuelta de 60,20 a 83 € según la fecha (2026)",
+        orari: "Cerrada a finales de otoño, reabre el 19 de diciembre de 2026",
+        lat: 45.8786,
+        lng: 6.8872,
+        url: "https://aiguilledumidi.montblancnaturalresort.com/",
+        consiglio: "A casi cuatro mil metros el aire es fino: subir con calma y abrigarse incluso en agosto.",
       },
       {
         nome: "Parque de la Vanoise",
-        testo: "El primer parque nacional francés, creado en 1963. En la vertiente alpina occidental es fácil ver el íbice.",
+        testo: "El primer parque nacional francés, creado en 1963. En esta vertiente alpina occidental el íbice es fácil de ver. Desde Pralognan un sendero clásico sube al refugio del Col de la Vanoise, bajo la Grande Casse.",
         come: "En coche desde Pralognan-la-Vanoise o Bonneval-sur-Arc.",
         quando: "Verano y principios de otoño.",
         tempo: "2-3 días",
-        consiglio: "Llevar prismáticos para ver los íbices."
+        costo: "Entrada al parque libre",
+        lat: 45.3825,
+        lng: 6.7222,
+        url: "https://www.vanoise-parcnational.fr/",
+        consiglio: "Llevar prismáticos para ver los íbices.",
       },
       {
-        nome: "Circo de Gavarnie (Pirineos)",
-        testo: "Un anfiteatro glaciar con paredes de hasta 1.500 metros y la cascada de Gavarnie, de 422 metros, la segunda más alta de Europa. Patrimonio UNESCO desde 1997.",
-        come: "En coche hasta Gavarnie, luego a pie por el sendero del valle hasta el circo.",
+        nome: "Écrins: Glacier Blanc",
+        testo: "Una excursión de un día que pone en contacto con un glaciar de verdad, bajo la Barre des Écrins, el cuatromil más meridional de los Alpes. El sendero sube desde el Pré de Madame Carle al refugio del Glacier Blanc.",
+        come: "En coche desde Briançon hasta Vallouise y Ailefroide, luego la carretera estrecha hasta el Pré de Madame Carle; desde allí a pie.",
+        quando: "Julio-septiembre; la carretera final está cerrada en invierno.",
+        tempo: "1 día",
+        costo: "Sendero libre",
+        lat: 44.9168,
+        lng: 6.4213,
+        url: "https://www.ecrins-parcnational.fr/",
+        consiglio: "No bajar al glaciar sin material y guía: hay grietas.",
+      },
+      {
+        nome: "Cirque de Gavarnie (Pirineos)",
+        testo: "Un anfiteatro glaciar con paredes de hasta 1.500 metros y la cascada de Gavarnie, de 422 metros, la segunda más alta de Europa. Patrimonio de la UNESCO desde 1997. Sobre el circo, la Brecha de Rolando es un paso en la cresta fronteriza con España.",
+        come: "En coche hasta Gavarnie, luego a pie por el sendero del fondo del valle hasta el circo.",
         quando: "Verano, a primera hora.",
-        tempo: "media jornada",
-        consiglio: "Subir pronto: el sendero está embarrado en primavera."
-      }
+        tempo: "medio día",
+        costo: "Sendero libre",
+        lat: 42.6969,
+        lng: -0.0081,
+        consiglio: "Subir temprano: el sendero está embarrado en primavera.",
+      },
+      {
+        nome: "Pont d'Espagne y Lac de Gaube",
+        testo: "Cascadas y puentes de piedra en el Parque nacional de los Pirineos sobre Cauterets, y más arriba el lago de Gaube con el Vignemale al fondo. Es uno de los paseos más bonitos y fáciles de la cordillera.",
+        come: "En coche o en lanzadera desde Cauterets hasta el aparcamiento del Pont d'Espagne; al lago a pie en una hora, o con telecabina y telesilla.",
+        quando: "Junio-octubre; en invierno es una zona de esquí de fondo.",
+        tempo: "medio día",
+        lat: 42.8311,
+        lng: -0.1397,
+        consiglio: "El sendero de las cascadas entre Cauterets y el Pont d'Espagne evita la carretera.",
+      },
+      {
+        nome: "Pic du Midi de Bigorre",
+        testo: "Un observatorio astronómico a 2.877 metros, al que se sube en teleférico desde La Mongie, con una terraza que domina media cordillera pirenaica. Se puede pasar la noche y observar el cielo con los astrónomos.",
+        come: "En coche hasta La Mongie, luego teleférico en dos tramos.",
+        quando: "Días despejados; en invierno por el panorama nevado.",
+        tempo: "medio día",
+        costo: "Billete de visita desde 34 €, hasta un 25% menos reservando con antelación (temporada 2026/27)",
+        orari: "Invierno 2026/27 del 5 de diciembre al 11 de abril, todos los días: subidas 9.30-16, cerrado 12.30-14, última bajada a las 17",
+        lat: 42.9364,
+        lng: 0.1428,
+        url: "https://picdumidi.com/",
+      },
+      {
+        nome: "GR20 (Córcega)",
+        testo: "Unos 180 kilómetros a lo largo de la dorsal montañosa de la isla, de Calenzana al norte a Conca al sur, en quince etapas. Se considera el recorrido señalizado más duro de Europa, con tramos equipados y pasos en los que hacen falta las manos.",
+        come: "Avión o ferri a Córcega, luego tren o autobús hasta Calenzana, cerca de Calvi.",
+        quando: "Junio-septiembre; los meses centrales son muy calurosos en los tramos bajos.",
+        tempo: "12-16 días, o la mitad norte o sur",
+        lat: 42.5086,
+        lng: 8.8558,
+        consiglio: "La mitad norte es la más espectacular y la más dura: quien tenga dudas, que empiece por la mitad sur.",
+      },
+      {
+        nome: "Lac d'Allos (Mercantour)",
+        testo: "Uno de los mayores lagos naturales de alta montaña de Europa, a más de 2.200 metros en el Parque nacional del Mercantour, cerrado por paredes calizas. Alrededor hay marmotas y prados en flor en julio.",
+        come: "En coche desde Allos hasta el aparcamiento del lago, luego unos 45 minutos a pie; en verano el acceso a la carretera está regulado.",
+        quando: "Julio-septiembre.",
+        tempo: "medio día",
+        costo: "Sendero libre",
+        lat: 44.2333,
+        lng: 6.7083,
+        url: "https://www.mercantour-parcnational.fr/",
+      },
+      {
+        nome: "Bonneval-sur-Arc",
+        testo: "El último pueblo de la Haute-Maurienne, con casas de piedra y tejados de losas, al pie del Col de l'Iseran. Es una puerta de la Vanoise oriental y de los pastos del beaufort.",
+        come: "En coche desde Modane en una hora; en verano el puerto del Iseran lleva a Val d'Isère.",
+        quando: "Julio-septiembre para las excursiones.",
+        tempo: "1 día",
+        costo: "Pueblo libre",
+        lat: 45.3722,
+        lng: 7.0472,
+        consiglio: "El sendero hacia el refugio del Carro es un balcón sobre los glaciares fronterizos.",
+      },
     ],
     programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Aiguille du Midi en la primera subida de la mañana",
+          "Bajada a pie por el Grand Balcon Nord hasta el Montenvers",
+          "Mer de Glace y vuelta en tren a Chamonix",
+        ],
+      },
       {
         titolo: "3 días",
         tappe: [
           "Día 1: Chamonix y Lac Blanc",
           "Día 2: Mer de Glace",
-          "Día 3: una etapa del Tour du Mont Blanc"
-        ]
-      }
+          "Día 3: una etapa del Tour du Mont Blanc",
+        ],
+      },
+      {
+        titolo: "Tour du Mont Blanc en 9 días",
+        tappe: [
+          "Día 1: Les Houches, salida hacia Les Contamines",
+          "Día 2: Col du Bonhomme y Les Chapieux",
+          "Día 3: entrada en Italia, Val Veny",
+          "Día 4: Courmayeur",
+          "Día 5: Rifugio Bonatti",
+          "Día 6: paso a Suiza por el Col Ferret",
+          "Día 7: La Fouly y Champex-Lac",
+          "Día 8: Trient y vuelta a Francia",
+          "Día 9: Lac Blanc y bajada a Chamonix",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Chamonix",
-        perChi: "para la montaña",
-        testo: "Bien servida, con teleféricos y trenes."
+        perChi: "quien quiere la montaña",
+        testo: "Bien comunicada, con teleféricos y trenes. La tarjeta de huésped que dan los alojamientos incluye autobuses y tren del valle.",
       },
       {
         nome: "Les Houches",
-        perChi: "para ahorrar",
-        testo: "Más tranquilo, salida del tour."
-      }
+        perChi: "quien quiere ahorrar",
+        testo: "Más tranquilo, salida del tour.",
+      },
+      {
+        nome: "Pralognan o Bonneval-sur-Arc",
+        perChi: "quien va a la Vanoise",
+        testo: "Pueblos de montaña al borde del parque, con senderos directos hacia los refugios.",
+      },
+      {
+        nome: "Cauterets o Gavarnie",
+        perChi: "quien va a los Pirineos",
+        testo: "Cauterets tiene más servicios y termas, Gavarnie está al pie del circo.",
+      },
+    ],
+    gite: [
+      {
+        nome: "Courmayeur y la Skyway",
+        distanza: "unos 30 minutos desde Chamonix",
+        come: "Autobús o coche por el túnel del Mont Blanc; la Skyway sube a Punta Helbronner, unos 59-63 € ida y vuelta.",
+        testo: "La vertiente italiana del macizo, con el teleférico giratorio que llega a 3.466 metros frente al Diente del Gigante.",
+      },
+      {
+        nome: "Annecy",
+        distanza: "alrededor de 1 hora desde Chamonix",
+        come: "En coche por la autopista o en autobús.",
+        testo: "El lago y la ciudad vieja sobre los canales, para un día de descanso después del trekking.",
+      },
+      {
+        nome: "Briançon",
+        distanza: "unos 45 minutos desde el Pré de Madame Carle",
+        come: "En coche por Vallouise; Briançon tiene estación con el tren nocturno desde París.",
+        testo: "La ciudad más alta de Francia, con las fortificaciones de Vauban inscritas por la UNESCO y la ciudad vieja a lo largo de la Grande Gargouille.",
+      },
     ],
     sapori: [
       {
@@ -4044,6 +5122,32 @@ export const destinazioniFrancia: Destinazione[] = [
       "Fuera de las zonas de esquí el rescate en montaña en Francia es gratuito: en una emergencia llamar al 112. Un seguro sigue siendo recomendable.",
       "El tiempo cambia rápido: salir temprano y consultar las previsiones de Météo-France.",
       "Avisar de la ruta al refugio o a un amigo."
+    ],
+    faq: [
+      {
+        domanda: "¿Es difícil el Tour du Mont Blanc?",
+        risposta: "No es técnico pero cansa: etapas de seis a ocho horas con a menudo ochocientos o novecientos metros de subida y otros tantos de bajada. Hace falta entrenamiento, no experiencia alpinística.",
+      },
+      {
+        domanda: "¿Cuándo se reservan los refugios del TMB?",
+        risposta: "Desde enero-febrero para el verano: los más solicitados, como el Bonatti y el Elisabetta en la vertiente italiana, se llenan primero. El itinerario se construye sobre la disponibilidad de los refugios.",
+      },
+      {
+        domanda: "¿Cuánto cuesta subir a la Aiguille du Midi?",
+        risposta: "Entre 60,20 y 83 € ida y vuelta en 2026, según la fecha y la franja horaria. Conviene reservar en línea la hora de subida, sobre todo en verano.",
+      },
+      {
+        domanda: "¿El rescate en montaña es gratuito en Francia?",
+        risposta: "El rescate de las unidades públicas de montaña es en principio gratuito, mientras que el de las pistas de esquí se paga. En emergencia se llama al 112; un seguro de repatriación y gastos médicos sigue siendo recomendable.",
+      },
+      {
+        domanda: "¿El GR20 es adecuado para principiantes?",
+        risposta: "No: tiene pasos de roca en los que hacen falta las manos, tramos con cadenas y desniveles enormes, y abandonar a mitad es complicado. Para un primer trekking por etapas es mejor el TMB en versión reducida.",
+      },
+      {
+        domanda: "¿Cuál es la mejor época para caminar por los Alpes franceses?",
+        risposta: "De mediados de junio a mediados de septiembre, con septiembre como mejor mes: aire limpio y menos gente. En junio los puertos altos pueden tener todavía neveros.",
+      },
     ],
     esperienzeSlugs: ['tour-du-mont-blanc', 'gr20-corsica', 'mer-de-glace'],
     tripSlugs: ['tour-du-mont-blanc'],

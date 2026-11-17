@@ -47,6 +47,22 @@ export const ungheria: Paese = {
     festivita:
       'A dicembre i mercatini di Natale in Piazza Vörösmarty e davanti alla Basilica di Santo Stefano sono tra gli eventi più affollati dell\'anno. Il 20 agosto (Festa di Santo Stefano, fondazione dello Stato ungherese) porta grandi fuochi d\'artificio sul Danubio. Il 15 marzo (anniversario della rivoluzione del 1848) è un\'altra data nazionale sentita.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Budapest.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      sim: 'Roaming UE incluso nella tariffa italiana: la SIM locale non serve.',
+      pagamenti: 'Fiorino ungherese, non euro. Ai bancomat copri il PIN e controlla la carta; in caso di prelievi strani bloccala subito.',
+      lingua: 'Ungherese.',
+      frasi: [
+        { frase: 'Jó napot', pronuncia: 'iò nà-pot', significato: 'Buongiorno' },
+        { frase: 'Köszönöm', pronuncia: 'kö̀-sö-nöm', significato: 'Grazie' },
+        { frase: 'Kérem', pronuncia: 'kè-rem', significato: 'Per favore, prego' },
+        { frase: 'Elnézést', pronuncia: 'èl-ne-zesht', significato: 'Mi scusi' },
+        { frase: 'Mennyibe kerül?', pronuncia: 'mèn-gni-be ke-rül', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/HUN',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Il Parlamento ungherese illuminato all\'ora blu, riflesso nel Danubio visto dalla riva di Buda',

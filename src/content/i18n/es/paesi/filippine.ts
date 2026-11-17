@@ -36,6 +36,23 @@ export const filippine: Paese = {
     festivita:
       'La Semana Santa (Pascua) y el periodo de Navidad-Año Nuevo llenan vuelos, ferris y resorts: conviene reservar con meses de antelación. En enero se celebran el Sinulog en Cebú y el Ati-Atihan en Kalibo.',
     emergenze: 'Número único 911. Embajada de Italia en Manila (Makati).',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez desde la llegada, y billete de vuelta o de salida del país.',
+      visto: 'Sin visado hasta 30 días, prorrogables allí. Obligatorio el registro gratuito eTravel en las 72 horas antes de llegar, con código QR. Reino Unido: igual.',
+      vaccini: 'Fiebre amarilla obligatoria desde 1 año si se llega de países de riesgo, incluso en tránsito. Recomendadas: hepatitis A y B, tifoidea. Malaria en Palawan y Mindanao.',
+      prese: '220V, 60Hz, enchufes tipo A y B de clavijas planas: para los enchufes españoles hace falta adaptador.',
+      sim: 'SIM de Smart o Globe con registro obligatorio mediante pasaporte; también hay eSIM para tener datos al llegar.',
+      pagamenti: 'Las tarjetas se usan en las grandes ciudades; fuera, casi solo efectivo. Muchos cajeros en ciudad y pocos en zonas rurales: lleve efectivo a las islas.',
+      lingua: 'Filipino e inglés, ambas oficiales.',
+      frasi: [
+        { frase: 'Magandang araw', pronuncia: 'ma-gan-DÁNG a-RÁU', significato: 'Buenos días' },
+        { frase: 'Salamat', pronuncia: 'sa-LÁ-mat', significato: 'Gracias' },
+        { frase: 'Pakiusap', pronuncia: 'pa-ki-Ú-sap', significato: 'Por favor' },
+        { frase: 'Pasensya na', pronuncia: 'pa-SÉN-sia na', significato: 'Perdone, lo siento' },
+        { frase: 'Magkano po?', pronuncia: 'mag-KÁ-no po', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Filipinas',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['mare', 'island hopping', 'immersioni', 'snorkeling', 'surf'],

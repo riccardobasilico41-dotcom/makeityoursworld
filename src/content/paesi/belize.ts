@@ -45,6 +45,21 @@ export const belize: Paese = {
       'Il Garifuna Settlement Day, il 19 novembre, è la festa più sentita della costa sud (Dangriga, Hopkins) e celebra l\'arrivo del popolo garifuna. A settembre le September Celebrations, fra il 10 (Battle of St. George\'s Caye) e il 21 (indipendenza), coinvolgono tutto il paese.',
     emergenze:
       'Numero unico 911. In Belize non c\'è una rappresentanza diplomatica italiana residente: l\'assistenza consolare fa capo alla sede competente per l\'area, che conviene controllare su Viaggiare Sicuri prima di partire.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità all\'ingresso. UK: bastano 3 mesi, ma alcune compagnie aeree ne chiedono 6.',
+      visto: 'Niente visto per turismo fino a 30 giorni, con biglietto di andata e ritorno e soldi sufficienti per il soggiorno. Chi esce via terra o mare paga 40 BZD (20 USD) di tassa.',
+      vaccini: 'Febbre gialla obbligatoria solo se arrivi da paesi a rischio (non dall\'Italia). Consigliate epatite A e B; tifo per chi va in zone rurali o resta a lungo.',
+      pagamenti: 'Il dollaro USA è accettato quasi ovunque, al cambio fisso di 1 USD = 2 BZD: non serve cambiare.',
+      lingua: 'Inglese (ufficiale) e spagnolo.',
+      frasi: [
+        { frase: 'Hello', pronuncia: 'el-lòu', significato: 'Ciao, buongiorno' },
+        { frase: 'Thank you', pronuncia: 'tènk-iu', significato: 'Grazie' },
+        { frase: 'Please', pronuncia: 'plìis', significato: 'Per favore' },
+        { frase: 'Excuse me', pronuncia: 'eks-kiùs mi', significato: 'Mi scusi, permesso' },
+        { frase: 'How much is it?', pronuncia: 'hau màc is it', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/BLZ',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'diving', 'grotte', 'cultura maya'],

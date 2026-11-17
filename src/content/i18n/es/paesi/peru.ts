@@ -37,6 +37,16 @@ export const peru: Paese = {
     festivita:
       "El Inti Raymi, la fiesta del sol, se celebra en Cusco el 24 de junio y es el evento más importante del año: ciudad llena y precios por las nubes, hay que reservar con mucha antelación. En febrero, la Virgen de la Candelaria en Puno es una de las fiestas más grandes del continente.",
     emergenze: "Policía 105, emergencias 911, policía turística específica en las ciudades principales. La Embajada de Italia está en Lima.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez a la llegada y billete de vuelta: con menos de 6 meses se deniega la entrada.',
+      visto: 'Sin visado para turismo hasta 90 días (en 183). La entrada queda registrada en la TAM digital: los días concedidos se consultan en línea en Migraciones.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: hepatitis A y B; fiebre amarilla para la Amazonía por debajo de 2.300 m; para algunos, fiebre tifoidea y rabia.',
+      prese: '220 V, 60 Hz (50 Hz en Arequipa): los cargadores de 100-240 V funcionan sin transformador.',
+      pagamenti: 'El dólar se acepta casi en todas partes; el euro solo se cambia en algunos bancos y a mal cambio. Cambia solo en bancos o casas de cambio, nunca en la calle.',
+      mance: 'No hay una cantidad fija, depende de lo satisfecho que quedes: en general, el 10% de la cuenta está bien.',
+      lingua: 'Español; en el interior se habla también quechua y en el sur (Puno), aimara.',
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Peru',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: "Una llama solitaria pasta en las terrazas incas de Machu Picchu envueltas en la niebla de la mañana, Perú",

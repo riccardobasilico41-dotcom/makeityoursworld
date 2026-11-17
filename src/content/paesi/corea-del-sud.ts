@@ -44,6 +44,23 @@ export const coreaDelSud: Paese = {
     festivita:
       'Due date da evitare: Seollal, il capodanno lunare (tra fine gennaio e febbraio), e Chuseok, la festa del raccolto (settembre-ottobre). In entrambe il paese si sposta in massa verso i luoghi d\'origine: trasporti esauriti, autostrade bloccate, moltissimi ristoranti e negozi chiusi per giorni, anche a Seoul. Il 6 giugno è il Memorial Day e il 25 giugno l\'anniversario dello scoppio della guerra di Corea: in quei giorni la DMZ ha accessi ridotti e cerimonie ufficiali.',
     emergenze: 'Polizia 112, emergenze mediche e vigili del fuoco 119. C\'è anche la Korea Travel Hotline, il numero 1330, attiva 24 ore su 24 e multilingue: è uno dei migliori servizi turistici al mondo e risolve di tutto, dai problemi di trasporto alle traduzioni al telefono. L\'Ambasciata d\'Italia è a Seoul.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 3 mesi di validità residua, integro e non danneggiato. Può essere chiesto il biglietto di ritorno.',
+      visto: 'Nessun visto per turismo fino a 90 giorni. Esenzione dal K-ETA prorogata fino al 31 dicembre 2026. La Arrival Card si può precompilare online. UK: stesse regole.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: epatite A e B; secondo il viaggio tifo ed encefalite giapponese. Malaria solo in zone rurali vicino alla DMZ.',
+      prese: '220V, 60Hz, prese a due fori tondi: le spine italiane a due poli tondi entrano, per le tripolari serve un adattatore.',
+      sim: 'SIM prepagate ed eSIM ai banchi degli operatori in aeroporto a Incheon; le eSIM si comprano anche online e si attivano col QR.',
+      pagamenti: 'Carte Visa, Mastercard e Amex accettate quasi ovunque, ma qualche negozio no. Quasi tutti i bancomat accettano carte estere.',
+      lingua: 'Coreano.',
+      frasi: [
+        { frase: 'Annyeonghaseyo', pronuncia: 'an-niòng-ha-se-iò', significato: 'Buongiorno, ciao' },
+        { frase: 'Gamsahamnida', pronuncia: 'kam-sa-ham-ni-dà', significato: 'Grazie' },
+        { frase: 'Juseyo', pronuncia: 'ciù-se-io', significato: 'Per favore, mi dia' },
+        { frase: 'Jeogiyo', pronuncia: 'ciò-ghi-io', significato: 'Scusi (per chiamare qualcuno)' },
+        { frase: 'Eolmayeyo?', pronuncia: 'òl-ma-ie-io', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/KOR',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Il cortile e i padiglioni del palazzo Gyeongbokgung con il monte Bugaksan alle spalle, Seoul',

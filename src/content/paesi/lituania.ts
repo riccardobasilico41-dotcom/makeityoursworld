@@ -54,6 +54,22 @@ export const lituania: Paese = {
     festivita:
       'Il 1° aprile Užupis festeggia il suo "giorno dell\'indipendenza" con eventi in tutto il quartiere. Il solstizio d\'estate (fine giugno, festa di Rasos/Joninės) è tra le ricorrenze più sentite del paese, con fuochi e canti fino all\'alba. A dicembre ci sono i mercatini di Natale intorno a Piazza della Cattedrale, nella Città Vecchia.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Vilnius.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) valida per tutto il soggiorno. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      sim: 'Roaming UE incluso nella tariffa italiana. SIM prepagate in vendita dagli operatori Telia, Tele2 e Bite.',
+      pagamenti: 'Euro. Visa e Mastercard accettate quasi ovunque (meno American Express), anche contactless; molti bancomat. Contanti utili ai mercati e in campagna.',
+      lingua: 'Lituano. Con l\'inglese ci si muove senza problemi.',
+      frasi: [
+        { frase: 'Laba diena', pronuncia: 'là-ba die-nà', significato: 'Buongiorno' },
+        { frase: 'Ačiū', pronuncia: 'à-ciu', significato: 'Grazie' },
+        { frase: 'Prašau', pronuncia: 'pra-sciàu', significato: 'Per favore, prego' },
+        { frase: 'Atsiprašau', pronuncia: 'at-si-pra-sciàu', significato: 'Mi scusi' },
+        { frase: 'Kiek kainuoja?', pronuncia: 'kiek kai-nuò-ia', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/LTU',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Piazza della Cattedrale a Vilnius con la Cattedrale neoclassica, il campanile e la statua di Gediminas',

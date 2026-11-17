@@ -36,6 +36,23 @@ export const filippine: Paese = {
     festivita:
       "Holy Week (Easter) and the Christmas-New Year period fill flights, ferries and resorts: it's best to book months ahead. In January there are the Sinulog in Cebu and the Ati-Atihan in Kalibo.",
     emergenze: "Single number 911. Italian Embassy in Manila (Makati).",
+    primaDiPartire: {
+      documento: 'Passport with at least 6 months\' validity from arrival, plus a return or onward ticket.',
+      visto: 'No visa for up to 30 days, extendable in the country. Free eTravel registration within 72 hours before arrival is required, with a QR code. UK: same rules.',
+      vaccini: 'Yellow fever certificate required from age 1 if arriving from a risk country, even in transit. Recommended: hepatitis A and B, typhoid. Malaria in Palawan and Mindanao.',
+      prese: '220V, 60Hz, type A and B sockets with flat pins: UK and European plugs need an adapter.',
+      sim: 'Smart or Globe SIMs must be registered with your passport; eSIMs are available for data on arrival.',
+      pagamenti: 'Cards are common in big cities, elsewhere it\'s mostly cash. Plenty of ATMs in cities, few in rural areas: carry cash for the islands.',
+      lingua: 'Filipino and English, both official.',
+      frasi: [
+        { frase: 'Magandang araw', pronuncia: 'mah-gahn-DAHNG ah-ROW', significato: 'Good day' },
+        { frase: 'Salamat', pronuncia: 'sah-LAH-maht', significato: 'Thank you' },
+        { frase: 'Pakiusap', pronuncia: 'pah-kee-OO-sahp', significato: 'Please' },
+        { frase: 'Pasensya na', pronuncia: 'pah-SEN-shah nah', significato: 'Sorry, excuse me' },
+        { frase: 'Magkano po?', pronuncia: 'mahg-KAH-noh poh', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/philippines',
+    },
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['mare', 'island hopping', 'immersioni', 'snorkeling', 'surf'],

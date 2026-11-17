@@ -34,6 +34,22 @@ export const sriLanka: Paese = {
     festivita:
       "Every month the Poya day, the full moon, is a holiday: alcohol is not sold and many activities close or slow down. Anyone who doesn't know is surprised, so it's worth checking the calendar before setting the stops.",
     emergenze: "Police 119, ambulance 1990. The Italian Embassy is in Colombo.",
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months, with two consecutive blank pages for the visa and stamps.',
+      visto: 'You need an online ETA before travelling; it is free for Italian passport holders since 25 May 2026 and for British citizens too. It allows a 30-day stay.',
+      vaccini: 'None required, except yellow fever if arriving from a risk country. Recommended: hepatitis A and B, typhoid; for some, Japanese encephalitis and rabies.',
+      sim: 'Local SIMs must be registered with ID: tourists use their passport.',
+      pagamenti: 'Euros and US dollars in cash are widely accepted; cards work mainly in tourist businesses. ATMs are scarce in rural areas, especially in the north.',
+      lingua: 'Sinhala and Tamil. English is common only in Colombo and tourist areas.',
+      frasi: [
+        { frase: 'Ayubowan', pronuncia: 'ah-YOO-boh-wahn', significato: 'Traditional greeting (wishing a long life)' },
+        { frase: 'Bohoma stuti', pronuncia: 'BOH-ho-ma STOO-tee', significato: 'Thank you very much' },
+        { frase: 'Karunakarala', pronuncia: 'ka-roo-NAH-ka-ra-la', significato: 'Please' },
+        { frase: 'Samavenna', pronuncia: 'sa-ma-VEN-na', significato: 'Excuse me, sorry' },
+        { frase: 'Meka kiyada?', pronuncia: 'MAY-ka kee-YAH-da', significato: 'How much is this?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/sri-lanka',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['on the road', 'natura', 'cultura', 'mare'],

@@ -39,6 +39,22 @@ export const egitto: Paese = {
       "During Ramadan (roughly February 8 to March 9, 2027) the sites stay open with reduced hours and many restaurants open only after sunset. Christmas, New Year and the European Easter holidays fill up cruises and resorts.",
     emergenze:
       "Tourist police 126, police 122, ambulance 123, fire department 180. Italian Embassy in Cairo (Garden City), Honorary Consulate in Hurghada and Sharm el-Sheikh.",
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months on arrival, with a blank page. EU travellers can also use an electronic ID card plus 2 passport photos, for tourism only.',
+      visto: 'Visa required: on arrival at the airport (cash) or e-visa online. Under 14 days in South Sinai resorts only, a free stamp valid there alone will do. UK: same.',
+      vaccini: 'Yellow fever certificate only if arriving from a risk country (layovers over 12 hours count). Typhoid recommended; for some travellers hepatitis A and B, rabies.',
+      sim: 'Temporary tourist SIMs from WE, Orange, Vodafone and Etisalat: you\'ll need a copy of your passport.',
+      pagamenti: 'Cards work in big cities and tourist spots, but Egypt is still largely cash-based (taxis, small shops). Bank ATMs run 24/7.',
+      lingua: 'Arabic. English is the most widely spoken foreign language, followed by French.',
+      frasi: [
+        { frase: 'Ahlan', pronuncia: 'AH-lan', significato: 'Hello, welcome' },
+        { frase: 'Shukran', pronuncia: 'SHOOK-ran', significato: 'Thank you' },
+        { frase: 'Min fadlak', pronuncia: 'min FAD-lak', significato: 'Please (to a man; to a woman: min fadlik)' },
+        { frase: 'Ma\'lesh', pronuncia: 'ma-LESH', significato: 'Sorry, never mind' },
+        { frase: 'Bikam?', pronuncia: 'BEE-kam', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/egypt',
+    },
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['archaeology', 'sea', 'diving', 'desert', 'Nile cruise'],

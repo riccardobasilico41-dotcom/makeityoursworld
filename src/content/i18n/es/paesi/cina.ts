@@ -39,6 +39,23 @@ export const cina: Paese = {
     festivita:
       "Dos periodos que hay que evitar sin discusión. El primero es la Semana Dorada de la Fiesta Nacional, del 1 al 7 de octubre, cuando cientos de millones de personas se desplazan a la vez: trenes agotados con semanas de antelación, webs tomadas al asalto, precios triplicados. El segundo es el Año Nuevo chino (entre finales de enero y mediados de febrero, fecha móvil), con el chunyun, la mayor migración humana anual del planeta: precioso de ver, imposible de atravesar como turista, con la mitad de las actividades cerradas. También la Fiesta del Trabajo, los primeros días de mayo (del 1 al 5 en 2026), es festiva y hay mucha gente. En todos estos periodos el turismo interno es impresionante y te arriesgas a horas de cola en todas partes, de los trenes a los sitios más famosos. Fuera de estas fechas el país se mueve con normalidad.",
     emergenze: "Policía 110, ambulancia 120, bomberos 119. La Embajada de Italia está en Pekín, con Consulados generales en Shanghái, Cantón, Chongqing y Hong Kong.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez. Hay que llevarlo siempre encima para los controles de identidad.',
+      visto: 'Sin visado hasta 30 días para turismo, hasta el 31 de diciembre de 2026; tránsito sin visado hasta 240 horas. Tarjeta de llegada en línea. Reino Unido: igual.',
+      vaccini: 'Fiebre amarilla obligatoria desde los 9 meses si se llega de países de riesgo, incluso en tránsito. Recomendadas: hepatitis A y B; según el viaje, encefalitis japonesa.',
+      prese: '220V. Enchufes mixtos para clavijas planas, redondas y de tres patas en ángulo: los enchufes españoles no entran en todas partes, mejor un adaptador universal.',
+      sim: 'SIM recargables en los aeropuertos internacionales, con el pasaporte. Desde una conexión china no funcionan Google, Gmail, Instagram ni YouTube.',
+      pagamenti: 'Casi todo se paga con Alipay y WeChat Pay, que se vinculan a Visa y Mastercard: conviene activarlos antes de llegar. Fuera de las grandes ciudades hay pocos cajeros.',
+      lingua: 'Chino mandarín.',
+      frasi: [
+        { frase: 'Nǐ hǎo', pronuncia: 'ni JÁO', significato: 'Hola, buenos días' },
+        { frase: 'Xièxie', pronuncia: 'SIÉ-sie', significato: 'Gracias' },
+        { frase: 'Qǐng', pronuncia: 'CHÍNG', significato: 'Por favor' },
+        { frase: 'Duìbuqǐ', pronuncia: 'DUÉI-bu-chi', significato: 'Perdone, lo siento' },
+        { frase: 'Duōshao qián?', pronuncia: 'DUÓ-shao CHIÉN', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=China',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'La Gran Muralla en Mutianyu siguiendo la cresta entre las colinas boscosas al norte de Pekín',

@@ -35,6 +35,22 @@ export const marocco: Paese = {
     festivita:
       'Durante il Ramadan, nelle zone non turistiche, molti ristoranti restano chiusi di giorno e i ritmi cambiano; in compenso dopo il tramonto le serate si animano molto.',
     emergenze: 'Polizia 19 in città, gendarmeria 177 fuori città, ambulanza 15. L\'Ambasciata d\'Italia è a Rabat, con un consolato generale a Casablanca.',
+    primaDiPartire: {
+      documento: 'Passaporto valido almeno per tutta la durata del soggiorno.',
+      visto: 'Nessun visto per turismo fino a 3 mesi.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: epatite A e B, tifo; per alcuni la rabbia.',
+      sim: 'SIM locali in vendita ovunque, con ricariche nei chioschi: serve il telefono sbloccato. Maroc Telecom, Orange e Inwi coprono quasi tutto il Paese.',
+      pagamenti: 'Bancomat diffusi. Visa e Mastercard accettate in quasi tutti gli hotel e in alcuni ristoranti e negozi. I dirham non si possono portare fuori dal Paese.',
+      lingua: 'Arabo e amazigh (berbero). Il francese è capito quasi da tutti, lo spagnolo è diffuso al nord e al sud; l\'inglese è poco parlato.',
+      frasi: [
+        { frase: 'Salam', pronuncia: 'sa-làm', significato: 'Ciao' },
+        { frase: 'Shukran', pronuncia: 'shùk-ran', significato: 'Grazie' },
+        { frase: 'Afak', pronuncia: 'à-fak', significato: 'Per favore' },
+        { frase: 'Smeh li', pronuncia: 'smàh-li', significato: 'Scusa, mi dispiace' },
+        { frase: 'Bshhal?', pronuncia: 'b-shàl', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/MAR',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['deserto', 'kasbah', 'on the road'],

@@ -71,6 +71,62 @@ const funzioni = {
   moduloDomande: false,
 }
 
+/**
+ * Programmi di affiliazione. Rick non ne ha ancora nessuno: gli ID sono vuoti e tutti i
+ * link verso i partner escono come link normali (ricerca giusta sul sito del partner,
+ * senza tracciamento, rel="noopener noreferrer"). Per attivare un programma basta incollare
+ * qui il suo ID o il link affiliato: i link di quel partner diventano affiliati
+ * (rel="sponsored noopener") e accanto compare da solo l'avviso «link affiliati».
+ * Il codice che costruisce i link è in src/lib/affiliazioni.ts.
+ */
+export type Affiliati = {
+  /** Booking.com Affiliate Partner Programme: parametro `aid`. */
+  booking: { aid: string }
+  /** Trip.com Affiliate: `Allianceid` e `SID`. Usato per gli itinerari in Asia. */
+  tripcom: { allianceId: string; sid: string }
+  /** GetYourGuide Partner: `partner_id`. */
+  getyourguide: { partnerId: string }
+  /** Viator (Tripadvisor) Partner: `pid` e `mcid`. */
+  viator: { pid: string; mcid: string }
+  /** Amazon Associates: un `tag` per negozio (Italia e Spagna finiscono in -21, Stati Uniti in -20). */
+  amazon: { it: string; en: string; es: string }
+  /** Assicurazione di viaggio (Heymondo): link affiliato completo. */
+  assicurazione: { link: string }
+  /** eSIM Airalo: link affiliato completo. */
+  airalo: { link: string }
+  /** eSIM Holafly: link affiliato completo. */
+  holafly: { link: string }
+  /** Noleggio auto DiscoverCars: link affiliato completo. */
+  discovercars: { link: string }
+  /** Voli Skyscanner: link affiliato completo. */
+  skyscanner: { link: string }
+}
+
+const affiliati: Affiliati = {
+  booking: { aid: '' },
+  tripcom: { allianceId: '', sid: '' },
+  getyourguide: { partnerId: '' },
+  viator: { pid: '', mcid: '' },
+  amazon: { it: '', en: '', es: '' },
+  assicurazione: { link: '' },
+  airalo: { link: '' },
+  holafly: { link: '' },
+  discovercars: { link: '' },
+  skyscanner: { link: '' },
+}
+
+/**
+ * Commenti Giscus sotto i viaggi (GitHub Discussions). I valori arrivano dalle variabili
+ * d'ambiente NEXT_PUBLIC_GISCUS_* (vedi docs/giscus-setup.md): se ne manca anche una, la
+ * sezione «Domande e commenti» non viene mostrata.
+ */
+const giscus = {
+  repo: process.env.NEXT_PUBLIC_GISCUS_REPO ?? '',
+  repoId: process.env.NEXT_PUBLIC_GISCUS_REPO_ID ?? '',
+  category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY ?? '',
+  categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID ?? '',
+}
+
 export const siteConfig = {
   name: 'Make It Yours World',
   brandName: 'Make It Yours World',
@@ -91,6 +147,8 @@ export const siteConfig = {
   contact,
   titolare,
   funzioni,
+  affiliati,
+  giscus,
 } as const
 
 export type SiteConfig = typeof siteConfig
@@ -131,3 +189,9 @@ export const datiTitolareMancanti: DatoMancante[] = [
  * non potrebbe chiedere di cancellare la propria domanda.
  */
 export const domandeAttive = funzioni.moduloDomande && datiTitolareMancanti.length === 0
+
+/** Giscus configurato: repo nel formato «utente/repo» e tutti e quattro gli ID presenti. */
+export const giscusAttivo: typeof giscus | null =
+  /^[\w.-]+\/[\w.-]+$/.test(giscus.repo) && pieno(giscus.repoId) && pieno(giscus.category) && pieno(giscus.categoryId)
+    ? giscus
+    : null

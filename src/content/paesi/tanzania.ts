@@ -44,6 +44,21 @@ export const tanzania: Paese = {
     festivita:
       "Zanzibar è a maggioranza musulmana: durante il Ramadan (indicativamente dall'8 febbraio al 9 marzo 2027) a Stone Town molti locali restano chiusi di giorno e i ritmi rallentano. Natale, Capodanno e luglio-agosto sono l'altissima stagione dei safari: lodge e campi migliori vanno prenotati mesi prima.",
     emergenze: "Ambasciata d'Italia a Dar es Salaam. Nei parchi il primo riferimento è l'operatore del safari: conviene avere sempre con sé il suo numero e quello dell'assicurazione sanitaria.",
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità residua e una pagina libera.',
+      visto: 'Visto obbligatorio: e-visa su visa.immigration.go.tz 10 giorni prima, o all\'arrivo. Dal 1/10/2026 anche l\'assicurazione statale da 44 $: NIC (continente) o ZIC (Zanzibar).',
+      vaccini: 'Febbre gialla solo se arrivi da un Paese a rischio (anche scali oltre 12 ore). Consigliate: epatite A, tifo, richiamo antipolio; antimalarica sotto i 1.800 m.',
+      pagamenti: 'Carte poco diffuse: soprattutto in hotel, ristoranti e negozi di livello internazionale in città, spesso con il 5-10% di commissione. Euro e dollari si cambiano in banca.',
+      lingua: 'Swahili e inglese, quest\'ultimo parlato soprattutto nelle città.',
+      frasi: [
+        { frase: 'Jambo', pronuncia: 'giàm-bo', significato: 'Ciao (saluto usato con i turisti)' },
+        { frase: 'Asante', pronuncia: 'a-sàn-te', significato: 'Grazie' },
+        { frase: 'Tafadhali', pronuncia: 'ta-fa-dhà-li', significato: 'Per favore' },
+        { frase: 'Samahani', pronuncia: 'sa-ma-hà-ni', significato: 'Scusa, mi dispiace' },
+        { frase: 'Bei gani?', pronuncia: 'bè-i gà-ni', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/TZA',
+    },
     aggiornatoAl: 'novembre 2026',
   },
   stileViaggio: ['safari', 'natura', 'campeggio', 'mare'],

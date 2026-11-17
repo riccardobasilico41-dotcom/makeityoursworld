@@ -30,6 +30,22 @@ export const bulgaria: Paese = {
     clima:
       "The ski season runs from December 1 to mid-April, with artificial snow on over 90% of the slopes: there is snow even in the driest years. In summer the same area is good for trekking in the Pirin massif.",
     emergenze: 'Single European emergency number 112. The Italian Embassy is in Sofia.',
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or ID card in good condition. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B, tick-borne encephalitis if you\'ll spend a lot of time outdoors.',
+      sim: 'EU plans roam at home rates. 4G/5G networks from A1, Vivacom and Yettel; a local prepaid SIM must be registered with your ID.',
+      pagamenti: 'Euro since 1 January 2026. Cards are accepted in hotels, restaurants and larger shops; ATMs at the main banks. Carry cash in rural areas.',
+      lingua: 'Bulgarian, written in the Cyrillic alphabet.',
+      frasi: [
+        { frase: 'Zdravejte (Здравейте)', pronuncia: 'zdrah-VAY-teh', significato: 'Hello' },
+        { frase: 'Blagodarja (Благодаря)', pronuncia: 'blah-go-dah-RYAH', significato: 'Thank you' },
+        { frase: 'Molja (Моля)', pronuncia: 'MOH-lyah', significato: 'Please, you\'re welcome' },
+        { frase: 'Izvinete (Извинете)', pronuncia: 'eez-vee-NEH-teh', significato: 'Excuse me, sorry' },
+        { frase: 'Kolko struva? (Колко струва?)', pronuncia: 'KOL-koh STROO-vah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/bulgaria',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['skiing', 'mountains', 'balkans'],

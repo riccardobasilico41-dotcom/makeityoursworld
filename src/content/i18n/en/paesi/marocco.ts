@@ -35,6 +35,22 @@ export const marocco: Paese = {
     festivita:
       "During Ramadan, in non-touristy areas, many restaurants stay closed in the daytime and the rhythms change; in return, evenings get very lively after sunset.",
     emergenze: "Police 19 in cities, gendarmerie 177 outside cities, ambulance 15. The Italian Embassy is in Rabat, with a consulate general in Casablanca.",
+    primaDiPartire: {
+      documento: 'EU: passport valid for the whole stay. UK: passport valid for at least 3 months after arrival.',
+      visto: 'No visa for tourist stays of up to 90 days. UK: same.',
+      vaccini: 'None required. Recommended: hepatitis A and B, typhoid; rabies for some travellers.',
+      sim: 'Local SIMs are sold everywhere, with top-ups at kiosks: your phone must be unlocked. Maroc Telecom, Orange and Inwi cover almost the whole country.',
+      pagamenti: 'ATMs are everywhere. Visa and Mastercard are taken in most hotels and some restaurants, shops and petrol stations. You can\'t take dirhams out of Morocco.',
+      lingua: 'Arabic and Amazigh (Berber). Almost everyone understands French and Spanish is common in the north and south; English is not widely spoken.',
+      frasi: [
+        { frase: 'Salam', pronuncia: 'sa-LAAM', significato: 'Hello' },
+        { frase: 'Shukran', pronuncia: 'SHOOK-ran', significato: 'Thank you' },
+        { frase: 'Afak', pronuncia: 'AH-fak', significato: 'Please' },
+        { frase: 'Smeh li', pronuncia: 'SMEH-lee', significato: 'Sorry, excuse me' },
+        { frase: 'Bshhal?', pronuncia: 'b-SHAHL', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/morocco',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['desert', 'kasbahs', 'road trip'],

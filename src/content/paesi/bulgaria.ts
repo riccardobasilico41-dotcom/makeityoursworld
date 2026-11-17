@@ -30,6 +30,22 @@ export const bulgaria: Paese = {
     clima:
       'La stagione sciistica va dal 1° dicembre a metà aprile, con innevamento artificiale su oltre il 90% delle piste: la neve c\'è anche nelle annate più secche. In estate la stessa zona è buona per il trekking sul massiccio del Pirin.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia si trova a Sofia.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità valida per l\'espatrio, integra e ben leggibile. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      sim: 'Roaming UE incluso nella tariffa italiana. Rete 4G/5G con A1, Vivacom e Yettel; per una SIM prepagata locale servono dati personali e un documento.',
+      pagamenti: 'Euro dal 1° gennaio 2026. Carte accettate in hotel, ristoranti e grandi negozi; bancomat delle maggiori banche. In campagna porta contanti.',
+      lingua: 'Bulgaro, scritto in alfabeto cirillico.',
+      frasi: [
+        { frase: 'Zdravejte (Здравейте)', pronuncia: 'zdra-vèi-te', significato: 'Buongiorno, salve' },
+        { frase: 'Blagodarja (Благодаря)', pronuncia: 'bla-go-da-rià', significato: 'Grazie' },
+        { frase: 'Molja (Моля)', pronuncia: 'mò-lia', significato: 'Per favore, prego' },
+        { frase: 'Izvinete (Извинете)', pronuncia: 'iz-vi-nè-te', significato: 'Mi scusi' },
+        { frase: 'Kolko struva? (Колко струва?)', pronuncia: 'kòl-ko strù-va', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/BGR',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['sci', 'montagna', 'balcani'],

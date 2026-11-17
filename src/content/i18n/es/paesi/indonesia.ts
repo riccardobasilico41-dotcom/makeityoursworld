@@ -38,6 +38,23 @@ export const indonesia: Paese = {
     festivita:
       "El Nyepi, el año nuevo balinés (marzo, fecha variable), es el «día del silencio»: en Bali se detienen todas las actividades durante 24 horas, el aeropuerto cierra y no se puede salir del alojamiento. Hay que saberlo con antelación, porque puede bloquear un itinerario.",
     emergenze: "Número único 112. La Embajada de Italia está en Yakarta, con un consulado honorario en Denpasar (Bali).",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez a la entrada, dos páginas libres y en perfecto estado: con roturas o páginas despegadas niegan la entrada.',
+      visto: 'Visado a la llegada (e-VOA) de 30 días, 500.000 IDR, renovable una vez; en línea una semana antes. Declaración All Indonesia en las 72 horas previas. Reino Unido: igual.',
+      vaccini: 'Fiebre amarilla obligatoria desde los 9 meses si se llega de países de riesgo. Recomendadas: hepatitis A y B, tifoidea. Malaria en el este (también Komodo) y zonas rurales.',
+      prese: '230V, 50Hz, enchufes tipo C y F: los enchufes españoles entran sin adaptador.',
+      sim: 'SIM a la venta en los puestos de los operadores del aeropuerto, con registro mediante pasaporte.',
+      pagamenti: 'Se aceptan tarjetas en zonas turísticas y se usan mucho los pagos por app y NFC. No pierda de vista la tarjeta al pagar. Bali: tasa turística de 150.000 IDR.',
+      lingua: 'Indonesio (bahasa Indonesia).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-lá-mat pá-gui', significato: 'Buenos días' },
+        { frase: 'Terima kasih', pronuncia: 'te-rí-ma ká-si', significato: 'Gracias' },
+        { frase: 'Tolong', pronuncia: 'tó-long', significato: 'Por favor (al pedir algo)' },
+        { frase: 'Permisi', pronuncia: 'per-mí-si', significato: 'Con permiso, disculpe' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rá-pa har-gá-ña', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Indonesia',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['natura', 'avventura', 'isole', 'diving'],

@@ -29,6 +29,23 @@ export const svezia: Paese = {
     clima:
       'The northern lights season runs from late September to late March. Abisko has a dry microclimate, the so-called "blue hole" created by the surrounding mountains, which reduces cloud and makes it one of the places with the highest chances in the world. New Year is the most expensive period; in February and March the chances of seeing the aurora are the same, prices are much lower and there are more hours of daylight.',
     emergenze: 'Single European emergency number 112. The Italian Embassy is in Stockholm.',
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines (including measles), hepatitis A and B; tick-borne encephalitis if you\'ll spend time in meadows and woodland.',
+      sim: 'EU plans roam at home rates. UK and US: check roaming costs with your provider before you go.',
+      pagamenti: 'Swedish krona; euros aren\'t accepted. Cards work almost everywhere and many places are cashless. Bring a chip-and-PIN card, plus a backup if yours is Amex.',
+      mance: 'Welcome but not expected: people round up the bill, or leave about 10% for great service. Some bills already include a service charge.',
+      lingua: 'Swedish. Most Swedes speak English.',
+      frasi: [
+        { frase: 'Hej', pronuncia: 'HAY', significato: 'Hello, hi' },
+        { frase: 'Tack', pronuncia: 'TAHK', significato: 'Thank you' },
+        { frase: 'Ursäkta', pronuncia: 'oor-SHEK-tah', significato: 'Excuse me, sorry' },
+        { frase: 'Vad kostar det?', pronuncia: 'vah KOS-tar deh', significato: 'How much is it?' },
+        { frase: 'Hej då', pronuncia: 'hay DOH', significato: 'Goodbye' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/sweden',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['nature', 'adventure', 'extreme winter'],

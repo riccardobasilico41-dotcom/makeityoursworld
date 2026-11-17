@@ -29,6 +29,23 @@ export const svezia: Paese = {
     clima:
       "La temporada de la aurora boreal va de finales de septiembre a finales de marzo. Abisko tiene un microclima seco, el llamado «agujero azul» creado por las montañas de alrededor, que reduce las nubes y lo convierte en uno de los puntos con más probabilidades del mundo. Nochevieja es la época más cara; en febrero y marzo las probabilidades de aurora son las mismas, los precios mucho más bajos y las horas de luz más numerosas.",
     emergenze: "Número único europeo 112. La Embajada de Italia está en Estocolmo.",
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina (sarampión incluido), hepatitis A y B; encefalitis por garrapatas si vas a prados y bosques.',
+      sim: 'Roaming de la UE incluido en tu tarifa: no hace falta una SIM local.',
+      pagamenti: 'Corona sueca; no se aceptan euros. Se paga con tarjeta casi en todas partes y muchos sitios no aceptan efectivo. Hace falta tarjeta con chip y PIN.',
+      mance: 'Se agradece pero no se espera: se redondea la cuenta o se deja un 10% por un servicio excelente. A veces el servicio ya va incluido.',
+      lingua: 'Sueco. Casi todo el mundo habla inglés.',
+      frasi: [
+        { frase: 'Hej', pronuncia: 'jéi', significato: 'Hola' },
+        { frase: 'Tack', pronuncia: 'ták', significato: 'Gracias' },
+        { frase: 'Ursäkta', pronuncia: 'ur-SHÉK-ta', significato: 'Disculpe, perdón' },
+        { frase: 'Vad kostar det?', pronuncia: 'va KÓS-tar de', significato: '¿Cuánto cuesta?' },
+        { frase: 'Hej då', pronuncia: 'jei DÓ', significato: 'Adiós' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Suecia',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['natura', 'avventura', 'inverno estremo'],

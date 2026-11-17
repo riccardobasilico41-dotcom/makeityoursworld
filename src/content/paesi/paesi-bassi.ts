@@ -47,6 +47,23 @@ export const paesiBassi: Paese = {
     festivita:
       'Il 27 aprile, Koningsdag (Festa del Re), è l\'evento cittadino più grande dell\'anno: Amsterdam si veste d\'arancione, i canali si riempiono di barche e il centro diventa un unico grande mercatino e festa di strada. La città è bellissima ma affollatissima, e gli alloggi vanno prenotati con largo anticipo. A dicembre mercatini di Natale e luci lungo i canali (Amsterdam Light Festival, da fine novembre a gennaio).',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è all\'Aia; ad Amsterdam c\'è un Consolato Generale d\'Italia.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B.',
+      sim: 'Roaming UE incluso nella tariffa italiana: la SIM locale non serve.',
+      pagamenti: 'Bancomat e contactless quasi ovunque; le carte di credito sono meno usate per le piccole spese. Più di tre quarti dei locali accetta contanti, ma non sempre banconote da 100 o 200 €.',
+      mance: 'Circa il 10% è considerato giusto, senza regole fisse. Pagando con carta si può aggiungere al conto.',
+      lingua: 'Olandese. L\'inglese è parlato dalla maggioranza della popolazione.',
+      frasi: [
+        { frase: 'Hallo', pronuncia: 'hà-lo', significato: 'Ciao, salve' },
+        { frase: 'Dank u wel', pronuncia: 'dank ü vèl', significato: 'Grazie' },
+        { frase: 'Alstublieft', pronuncia: 'al-stü-blìft', significato: 'Per favore, prego' },
+        { frase: 'Pardon', pronuncia: 'par-dòn', significato: 'Mi scusi' },
+        { frase: 'Hoeveel kost het?', pronuncia: 'hu-vèl kòst et', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/NLD',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Case a schiera con i frontoni a gradino lungo un canale di Amsterdam, con le case galleggianti ormeggiate in primo piano',

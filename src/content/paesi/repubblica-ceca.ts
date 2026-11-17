@@ -45,6 +45,23 @@ export const repubblicaCeca: Paese = {
     festivita:
       'A dicembre la Piazza della Città Vecchia e Piazza Venceslao ospitano due dei mercatini di Natale più noti dell\'Europa centrale, con la folla che ne consegue la sera. Il 28 ottobre (Giorno dell\'Indipendenza) e il 6 luglio (Jan Hus) sono tra le feste nazionali più sentite.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Praga.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine (morbillo e pertosse comprese), epatite A e B, encefalite da zecche per boschi e attività all\'aperto.',
+      prese: '230 V, prese come in Francia e Germania: le spine italiane a due poli entrano, per quelle a tre poli in linea serve un adattatore.',
+      sim: 'Roaming UE incluso nella tariffa italiana. SIM prepagate di O2, Vodafone, T-Mobile e U:fon; il telefono deve essere sbloccato.',
+      pagamenti: 'Corona ceca, non euro. Occhio ai tassi dei tanti cambiavalute del centro: dove possibile si cambia in banca.',
+      lingua: 'Ceco.',
+      frasi: [
+        { frase: 'Dobrý den', pronuncia: 'dò-bri den', significato: 'Buongiorno' },
+        { frase: 'Děkuji', pronuncia: 'diè-ku-i', significato: 'Grazie' },
+        { frase: 'Prosím', pronuncia: 'prò-sim', significato: 'Per favore, prego' },
+        { frase: 'Promiňte', pronuncia: 'prò-min-te', significato: 'Mi scusi' },
+        { frase: 'Kolik to stojí?', pronuncia: 'kò-lik to stò-ii', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/CZE',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'La Piazza della Città Vecchia di Praga con le due guglie gotiche della Chiesa di Santa Maria di Týn e il Palazzo Kinský in una giornata di sole',

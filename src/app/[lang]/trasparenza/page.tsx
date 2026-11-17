@@ -115,7 +115,7 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
   it: ({ email }) => (
     <>
       <p>
-        <em>Ultimo aggiornamento: 6 novembre 2026</em>
+        <em>Ultimo aggiornamento: 17 novembre 2026</em>
       </p>
 
       <h2>A che punto sono le affiliazioni</h2>
@@ -134,12 +134,14 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
       )}
       <p>
         I link di un programma attivo portano l&apos;attributo <code>rel=&quot;sponsored&quot;</code>, come chiede
-        Google; quelli dei riquadri «Organizza questo viaggio» lo portano già, per prudenza.
+        Google, e accanto compare sempre l&apos;avviso «link affiliati»; finché un programma non è attivo, i suoi link
+        sono link normali.
+        <strong> In breve: alcuni link possono essere affiliati, ma non ti costano nulla in più.</strong>
       </p>
 
       <h2>Dove trovi gli avvisi</h2>
       <ul>
-        <li>nei riquadri «Organizza questo viaggio» e «Prenota» delle pagine di viaggi, destinazioni ed esperienze, con un link a questa pagina;</li>
+        <li>nei riquadri «Organizza il viaggio» e accanto ai link «Prenota» e «Cerca tour» delle pagine di viaggi, destinazioni ed esperienze, con un link a questa pagina;</li>
         <li>nelle liste «Cosa portare» (attrezzatura), accanto ai link verso Amazon;</li>
         <li>all&apos;inizio di un contenuto sponsorizzato, se mai ce ne sarà uno (vedi sotto).</li>
       </ul>
@@ -208,7 +210,7 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
   en: ({ email }) => (
     <>
       <p>
-        <em>Last updated: November 6, 2026</em>
+        <em>Last updated: November 17, 2026</em>
       </p>
 
       <h2>Where affiliations stand</h2>
@@ -226,13 +228,14 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
         </p>
       )}
       <p>
-        Links of an active program carry the <code>rel=&quot;sponsored&quot;</code> attribute, as Google asks; those in
-        the «Plan this trip» boxes already carry it, as a precaution.
+        Links of an active program carry the <code>rel=&quot;sponsored&quot;</code> attribute, as Google asks, and the
+        «affiliate links» notice always appears next to them; until a program is active, its links are plain links.
+        <strong> In short: some links may be affiliate links, and they never cost you anything extra.</strong>
       </p>
 
       <h2>Where you find the notices</h2>
       <ul>
-        <li>in the «Plan this trip» and «Book» boxes on trip, destination and experience pages, with a link to this page;</li>
+        <li>in the «Plan the trip» strip and next to the «Book» and «Find tours» links on trip, destination and experience pages, with a link to this page;</li>
         <li>in the «What to pack» gear lists, next to the links to Amazon;</li>
         <li>at the top of any sponsored content, should there ever be any (see below).</li>
       </ul>
@@ -300,7 +303,7 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
   es: ({ email }) => (
     <>
       <p>
-        <em>Última actualización: 6 de noviembre de 2026</em>
+        <em>Última actualización: 17 de noviembre de 2026</em>
       </p>
 
       <h2>En qué punto están las afiliaciones</h2>
@@ -318,13 +321,15 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
         </p>
       )}
       <p>
-        Los enlaces de un programa activo llevan el atributo <code>rel=&quot;sponsored&quot;</code>, como pide Google;
-        los de los recuadros «Organiza este viaje» ya lo llevan, por prudencia.
+        Los enlaces de un programa activo llevan el atributo <code>rel=&quot;sponsored&quot;</code>, como pide Google,
+        y a su lado aparece siempre el aviso «enlaces de afiliados»; mientras un programa no esté activo, sus enlaces son
+        enlaces normales.
+        <strong> En resumen: algunos enlaces pueden ser de afiliados, pero no te cuestan nada más.</strong>
       </p>
 
       <h2>Dónde encuentras los avisos</h2>
       <ul>
-        <li>en los recuadros «Organiza este viaje» y «Reserva» de las páginas de viajes, destinos y experiencias, con un enlace a esta página;</li>
+        <li>en los recuadros «Organiza el viaje» y junto a los enlaces «Reservar» y «Buscar tours» de las páginas de viajes, destinos y experiencias, con un enlace a esta página;</li>
         <li>en las listas «Qué llevar» (equipamiento), junto a los enlaces a Amazon;</li>
         <li>al principio de un contenido patrocinado, si alguna vez lo hay (ver abajo).</li>
       </ul>

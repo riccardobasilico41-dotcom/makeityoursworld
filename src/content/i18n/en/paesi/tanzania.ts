@@ -36,6 +36,21 @@ export const tanzania: Paese = {
     festivita:
       "Zanzibar is Muslim-majority: during Ramadan (roughly February 8 to March 9, 2027) many places in Stone Town close during the day and the pace slows down. Christmas, New Year and July-August are the peak safari season: the best lodges and camps need booking months ahead.",
     emergenze: "Embassy of Italy in Dar es Salaam. In the parks your first point of contact is the safari operator: always keep their number and your health insurance's number with you.",
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months on arrival, with one blank page.',
+      visto: 'Visa required: e-visa at visa.immigration.go.tz 10 days ahead, or on arrival. Since 1/10/2026 also 44 USD state insurance: NIC (mainland) or ZIC (Zanzibar).',
+      vaccini: 'Yellow fever certificate only if arriving from a risk country (incl. 12h+ layovers). Recommended: hepatitis A, typhoid, polio booster; antimalarials below 1,800 m.',
+      pagamenti: 'Cards aren\'t widely used: mainly in upmarket hotels, restaurants and shops in cities, often with a 5-10% surcharge. Euros and dollars can be changed at banks.',
+      lingua: 'Swahili and English, the latter mostly in towns and cities.',
+      frasi: [
+        { frase: 'Jambo', pronuncia: 'JAM-boh', significato: 'Hello (greeting used with visitors)' },
+        { frase: 'Asante', pronuncia: 'a-SAHN-teh', significato: 'Thank you' },
+        { frase: 'Tafadhali', pronuncia: 'ta-fa-THAH-lee', significato: 'Please' },
+        { frase: 'Samahani', pronuncia: 'sa-ma-HAH-nee', significato: 'Sorry, excuse me' },
+        { frase: 'Bei gani?', pronuncia: 'BAY GAH-nee', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/tanzania',
+    },
     aggiornatoAl: 'November 2026',
   },
   stileViaggio: ['safari', 'nature', 'camping', 'sea'],

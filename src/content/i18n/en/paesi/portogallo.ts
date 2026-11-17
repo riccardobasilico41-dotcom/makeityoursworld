@@ -38,6 +38,23 @@ export const portogallo: Paese = {
     festivita:
       "June is the month of the Festas de Lisboa, which peak on the night of Saint Anthony (June 12-13): grilled sardines in the streets, music and neighborhood parties all over the Alfama. They're lovely to experience, but the city is much more crowded than usual. June 10 is Portugal Day, the national holiday.",
     emergenze: "Single European emergency number 112. The Italian Embassy is in Lisbon.",
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B.',
+      prese: '230 V, standard European sockets. UK visitors need an adaptor; US plugs need an adaptor and a transformer for 110 V devices.',
+      sim: 'EU plans roam at home rates. Three local networks: Vodafone, MEO and NOS. UK and US: check roaming costs before you go.',
+      pagamenti: 'You can pay in cash or by credit and debit card.',
+      lingua: 'Portuguese. English, Spanish and French are widely understood in tourist areas.',
+      frasi: [
+        { frase: 'Olá', pronuncia: 'oh-LAH', significato: 'Hello' },
+        { frase: 'Obrigado / Obrigada', pronuncia: 'oh-bree-GAH-doo / oh-bree-GAH-dah', significato: 'Thank you (said by a man / by a woman)' },
+        { frase: 'Por favor', pronuncia: 'poor fah-VOR', significato: 'Please' },
+        { frase: 'Desculpe', pronuncia: 'dish-KOOLP', significato: 'Excuse me, sorry' },
+        { frase: 'Quanto custa?', pronuncia: 'KWAN-too KOOSH-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/portugal',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImage: '/images/portogallo/portogallo-paese.jpg',

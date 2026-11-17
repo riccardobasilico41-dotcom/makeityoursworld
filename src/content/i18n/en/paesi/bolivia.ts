@@ -36,6 +36,20 @@ export const bolivia: Paese = {
     festivita:
       "The Oruro Carnival, in February, is UNESCO intangible heritage and is the most spectacular festival in the country. In Uyuni and across the altiplano the Carnival period coincides with the mirror-water season: facilities are full and prices higher.",
     emergenze: 'Police 110, tourist police 800 140081, ambulance 118. The Italian Embassy is in La Paz.',
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months on entry, plus a return ticket or proof of onward travel. UK: also 2 blank pages.',
+      visto: 'No visa for up to 90 days. Officers usually stamp 30 days: if staying longer, say so at entry. UK: same 90 days.',
+      vaccini: 'Yellow fever: certificate needed if arriving from a risk country, and US guidance lists it for all arrivals aged 1+. Get the jab. Also recommended: hepatitis A and B.',
+      lingua: 'Spanish and the languages of 36 indigenous peoples, Aymara and Quechua being the most widely spoken.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'OH-la', significato: 'Hello' },
+        { frase: 'Gracias', pronuncia: 'GRAH-see-ahs', significato: 'Thank you' },
+        { frase: 'Por favor', pronuncia: 'por fa-VOR', significato: 'Please' },
+        { frase: 'Disculpe', pronuncia: 'dees-KOOL-peh', significato: 'Excuse me, sorry' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'KWAN-toh KWES-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/bolivia',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'The Salar de Uyuni covered by a film of water that reflects the sky and clouds like a mirror, Bolivia',

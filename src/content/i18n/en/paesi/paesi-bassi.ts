@@ -38,6 +38,23 @@ export const paesiBassi: Paese = {
     festivita:
       "April 27, Koningsdag (King's Day), is the biggest city event of the year: Amsterdam dresses in orange, the canals fill with boats and the center becomes one big flea market and street party. The city is beautiful but extremely crowded, and lodging must be booked well in advance. In December, Christmas markets and lights along the canals (Amsterdam Light Festival, from late November to January).",
     emergenze: "Single European emergency number 112. The Italian Embassy is in The Hague; in Amsterdam there is an Italian Consulate General.",
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B.',
+      sim: 'EU phone plans roam at no extra cost here. UK and US: check your roaming charges before you go.',
+      pagamenti: 'Debit cards and contactless work almost everywhere; credit cards are less used for small purchases. Over three quarters of places take cash, though not always €100 or €200 notes.',
+      mance: 'Around 10% is reasonable, but there\'s no fixed rule. You can add it when paying by card.',
+      lingua: 'Dutch. Most people speak English.',
+      frasi: [
+        { frase: 'Hallo', pronuncia: 'HAH-loh', significato: 'Hello' },
+        { frase: 'Dank u wel', pronuncia: 'DAHNK ew vel', significato: 'Thank you' },
+        { frase: 'Alstublieft', pronuncia: 'ahl-stew-BLEEFT', significato: 'Please, here you are' },
+        { frase: 'Pardon', pronuncia: 'par-DON', significato: 'Excuse me' },
+        { frase: 'Hoeveel kost het?', pronuncia: 'hoo-VAYL KOST et', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/netherlands',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: "Row houses with stepped gables along an Amsterdam canal, with houseboats moored in the foreground",

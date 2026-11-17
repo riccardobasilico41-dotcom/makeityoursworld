@@ -36,6 +36,20 @@ export const turchia: Paese = {
     festivita:
       'Durante el Ramadán (de forma indicativa del 8 de febrero al 9 de marzo de 2027) los museos siguen abiertos; las dos fiestas religiosas nacionales (Ramazan Bayramı y Kurban Bayramı) llenan autobuses, vuelos y localidades de playa, y todo requiere más tiempo.',
     emergenze: 'Número único 112. Embajada de Italia en Ankara, Consulado general en Estambul, Consulado en Esmirna.',
+    primaDiPartire: {
+      documento: 'Pasaporte o DNI electrónico, en perfecto estado y con al menos 5 meses de validez. El pasaporte debe tener una página libre.',
+      visto: 'Sin visado para turismo hasta 90 días en un periodo de 180.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: hepatitis A y B, fiebre tifoidea; para algunos, rabia.',
+      lingua: 'Turco.',
+      frasi: [
+        { frase: 'Merhaba', pronuncia: 'MÉR-ja-ba', significato: 'Hola' },
+        { frase: 'Teşekkür ederim', pronuncia: 'te-shek-KÜR e-de-RÍM', significato: 'Gracias' },
+        { frase: 'Lütfen', pronuncia: 'LÜT-fen', significato: 'Por favor' },
+        { frase: 'Affedersiniz', pronuncia: 'af-fe-DÉR-si-nis', significato: 'Perdone' },
+        { frase: 'Ne kadar?', pronuncia: 'ne ka-DÁR', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Turquia',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   stileViaggio: ['città', 'cultura', 'archeologia', 'mare', 'road trip'],

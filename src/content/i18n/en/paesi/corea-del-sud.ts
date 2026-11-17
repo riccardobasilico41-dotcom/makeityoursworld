@@ -39,6 +39,23 @@ export const coreaDelSud: Paese = {
     festivita:
       "Two dates to avoid: Seollal, the lunar new year (between late January and February), and Chuseok, the harvest festival (September-October). In both the country moves en masse toward home towns: sold-out transport, blocked highways, plenty of restaurants and shops closed for days, even in Seoul. June 6 is Memorial Day and June 25 is the anniversary of the outbreak of the Korean War: on those days the DMZ has reduced access and official ceremonies.",
     emergenze: "Police 112, medical emergencies and fire department 119. There's also the Korea Travel Hotline, number 1330, open 24 hours a day and multilingual: it's one of the best tourist services in the world and solves everything, from transport problems to phone translation. The Embassy of Italy is in Seoul.",
+    primaDiPartire: {
+      documento: 'EU citizens: passport with at least 3 months\' validity, undamaged. UK: valid beyond your departure date. A return ticket may be asked for.',
+      visto: 'No visa for tourism up to 90 days. UK and EU citizens are exempt from K-ETA until 31 December 2026. The arrival card can be filled in online in advance.',
+      vaccini: 'None required. Recommended: hepatitis A and B; typhoid and Japanese encephalitis depending on your trip. Malaria only in rural areas near the DMZ.',
+      prese: '220V, 60Hz, sockets with two round holes (European style): UK plugs need an adapter.',
+      sim: 'Prepaid SIMs and eSIMs at operator counters in Incheon airport; eSIMs can also be bought online and activated with a QR code.',
+      pagamenti: 'Visa, Mastercard and Amex are accepted almost everywhere, though some shops don\'t take cards. Most ATMs accept foreign cards.',
+      lingua: 'Korean.',
+      frasi: [
+        { frase: 'Annyeonghaseyo', pronuncia: 'ahn-nyong-hah-SEH-yo', significato: 'Hello' },
+        { frase: 'Gamsahamnida', pronuncia: 'kahm-sah-HAHM-nee-dah', significato: 'Thank you' },
+        { frase: 'Juseyo', pronuncia: 'JOO-seh-yo', significato: 'Please (give me)' },
+        { frase: 'Jeogiyo', pronuncia: 'JUH-gee-yo', significato: 'Excuse me (to get attention)' },
+        { frase: 'Eolmayeyo?', pronuncia: 'UL-mah-yeh-yo', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/south-korea',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: "The courtyard and pavilions of Gyeongbokgung Palace with Mount Bugaksan behind, Seoul",

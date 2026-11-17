@@ -41,6 +41,22 @@ export const lituania: Paese = {
     festivita:
       "El 1 de abril Užupis celebra su \"día de la independencia\" con eventos por todo el barrio. El solsticio de verano (finales de junio, fiesta de Rasos/Joninės) es una de las celebraciones más sentidas del país, con hogueras y cantos hasta el amanecer. En diciembre hay mercados navideños alrededor de la plaza de la Catedral, en el casco antiguo.",
     emergenze: "Número único europeo 112. La Embajada de Italia está en Vilna.",
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI válido para toda la estancia. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir de Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B, encefalitis por garrapatas si pasarás mucho tiempo al aire libre.',
+      sim: 'Roaming de la UE incluido en tu tarifa. SIM de prepago de los operadores Telia, Tele2 y Bite.',
+      pagamenti: 'Euro. Visa y Mastercard se aceptan casi en todas partes, también sin contacto (American Express menos); muchos cajeros. Efectivo útil en mercados y zonas rurales.',
+      lingua: 'Lituano. Con inglés uno se defiende sin problemas.',
+      frasi: [
+        { frase: 'Laba diena', pronuncia: 'LÁ-ba die-NÁ', significato: 'Buenos días' },
+        { frase: 'Ačiū', pronuncia: 'Á-chu', significato: 'Gracias' },
+        { frase: 'Prašau', pronuncia: 'pra-SHÁU', significato: 'Por favor, de nada' },
+        { frase: 'Atsiprašau', pronuncia: 'at-si-pra-SHÁU', significato: 'Disculpe, perdón' },
+        { frase: 'Kiek kainuoja?', pronuncia: 'kiek kai-NUÓ-ia', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Lituania',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'Plaza de la Catedral de Vilna con la catedral neoclásica, el campanario y la estatua de Gediminas',

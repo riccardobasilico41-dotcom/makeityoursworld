@@ -37,6 +37,23 @@ export const croazia: Paese = {
     festivita:
       "Summer festivals in Dubrovnik (July-August) and Split; Zagreb's Christmas market in December. August 15, the Assumption, is one of the busiest days on the coast.",
     emergenze: "European single number 112; 192 police, 194 ambulance, 195 sea rescue.",
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card, valid for your whole stay. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B, tick-borne encephalitis if you\'ll spend a lot of time outdoors.',
+      prese: '220 V, Type F (Schuko) sockets. UK and US visitors need an adaptor.',
+      sim: 'EU plans roam at home rates. Mobile coverage reaches the whole country.',
+      pagamenti: 'Euro. Major cards are accepted almost everywhere and there are ATMs nationwide; some markets take cash only. Avoid independent ATMs that add extra fees.',
+      lingua: 'Croatian. English is widely spoken, especially by younger people; German and Italian are common in the bigger resorts.',
+      frasi: [
+        { frase: 'Dobar dan', pronuncia: 'DOH-bar dahn', significato: 'Good day, hello' },
+        { frase: 'Hvala', pronuncia: 'HVAH-lah', significato: 'Thank you' },
+        { frase: 'Molim', pronuncia: 'MOH-leem', significato: 'Please, you\'re welcome' },
+        { frase: 'Oprostite', pronuncia: 'oh-PROH-stee-teh', significato: 'Excuse me, sorry' },
+        { frase: 'Koliko košta?', pronuncia: 'KOH-lee-koh KOSH-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/croatia',
+    },
     aggiornatoAl: "October 2026",
   },
   heroImageAlt: "The walls of Dubrovnik and the red roofs of the old town by the sea",

@@ -39,6 +39,23 @@ export const coreaDelSud: Paese = {
     festivita:
       "Dos fechas que evitar: Seollal, el año nuevo lunar (entre finales de enero y febrero), y Chuseok, la fiesta de la cosecha (septiembre-octubre). En ambas el país se desplaza en masa hacia los lugares de origen: transportes agotados, autopistas bloqueadas, muchísimos restaurantes y tiendas cerrados durante días, también en Seúl. El 6 de junio es el Memorial Day y el 25 de junio el aniversario del estallido de la guerra de Corea: en esos días la DMZ tiene accesos reducidos y ceremonias oficiales.",
     emergenze: 'Policía 112, emergencias médicas y bomberos 119. Existe también la Korea Travel Hotline, el número 1330, activa las 24 horas y multilingüe: es uno de los mejores servicios turísticos del mundo y lo resuelve todo, desde problemas de transporte hasta traducciones por teléfono. La Embajada de Italia está en Seúl.',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 3 meses de validez, en buen estado y sin daños. Pueden pedir el billete de vuelta.',
+      visto: 'Sin visado para turismo hasta 90 días. Exención del K-ETA prorrogada hasta el 31 de diciembre de 2026. La Arrival Card se puede rellenar antes en línea.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: hepatitis A y B; según el viaje, fiebre tifoidea y encefalitis japonesa. Malaria solo en zonas rurales junto a la DMZ.',
+      prese: '220V, 60Hz, enchufes de dos clavijas redondas: los enchufes españoles entran sin adaptador.',
+      sim: 'SIM prepago y eSIM en los mostradores de los operadores del aeropuerto de Incheon; las eSIM también se compran en línea y se activan con un QR.',
+      pagamenti: 'Visa, Mastercard y Amex se aceptan casi en todas partes, aunque alguna tienda no. Casi todos los cajeros admiten tarjetas extranjeras.',
+      lingua: 'Coreano.',
+      frasi: [
+        { frase: 'Annyeonghaseyo', pronuncia: 'an-ñong-ja-SÉ-io', significato: 'Hola, buenos días' },
+        { frase: 'Gamsahamnida', pronuncia: 'kam-sa-JAM-ni-da', significato: 'Gracias' },
+        { frase: 'Juseyo', pronuncia: 'CHU-se-io', significato: 'Por favor, deme' },
+        { frase: 'Jeogiyo', pronuncia: 'CHÓ-gui-io', significato: 'Perdone (para llamar la atención)' },
+        { frase: 'Eolmayeyo?', pronuncia: 'ÓL-ma-ie-io', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Corea',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'El patio y los pabellones del palacio Gyeongbokgung con el monte Bugaksan al fondo, Seúl',

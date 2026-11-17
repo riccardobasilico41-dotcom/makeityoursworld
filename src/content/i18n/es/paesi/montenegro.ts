@@ -38,6 +38,22 @@ export const montenegro: Paese = {
       'Fiesta de la independencia el 21-22 de mayo y fiesta de la condición de Estado el 13 de julio. Pascua y Navidad ortodoxas (la Navidad se celebra el 7 de enero). La peregrinación a Ostrog está muy concurrida a mediados de mayo, por la fiesta de San Basilio.',
     emergenze:
       'Policía 122, ambulancia 124, bomberos 123, número único europeo 112. Embajada de Italia en Podgorica.',
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: mejor pasaporte; con DNI la estancia puede limitarse a 30 días. Reino Unido y EE. UU.: pasaporte de menos de 10 años y válido 3 meses tras la salida.',
+      visto: 'Sin visado hasta 90 días; no es UE ni Schengen. Registro en 24 horas: en el hotel lo hacen ellos, en casas particulares tú. Reino Unido: 90 días cada 180.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B.',
+      sim: 'Sin roaming de la UE: con tu SIM los datos pueden salir caros. Al llegar se compran SIM de prepago locales, también con ofertas turísticas de pocos días.',
+      pagamenti: 'Euro. Tarjetas aceptadas en casi todos los hoteles, restaurantes, bares, gasolineras y supermercados; cajeros en todas las ciudades.',
+      lingua: 'Montenegrino, escrito en alfabeto latino y cirílico; también son de uso oficial el serbio, el bosnio, el albanés y el croata.',
+      frasi: [
+        { frase: 'Dobar dan', pronuncia: 'DÓ-bar dan', significato: 'Buenos días' },
+        { frase: 'Hvala', pronuncia: 'JVÁ-la', significato: 'Gracias' },
+        { frase: 'Molim', pronuncia: 'MÓ-lim', significato: 'Por favor, de nada' },
+        { frase: 'Izvinite', pronuncia: 'is-VÍ-ni-te', significato: 'Disculpe, perdón' },
+        { frase: 'Koliko košta?', pronuncia: 'KÓ-li-ko KÓSH-ta', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Montenegro',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   stileViaggio: ['roadtrip', 'mare', 'montagna', 'trekking'],

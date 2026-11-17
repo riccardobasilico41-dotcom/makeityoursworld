@@ -38,6 +38,23 @@ export const malesia: Paese = {
     festivita:
       "The country follows several calendars at once, and it's a strength: Chinese New Year (January-February), Hindu Deepavali (October-November) and Muslim Hari Raya are all celebrated. During Ramadan many Malay places close during the day, but the Chinese and Indian neighborhoods stay open as usual, and the Ramadan evening bazaars are one of the best food moments of the year. On Hari Raya and Chinese New Year days transport is stormed and many businesses close for days.",
     emergenze: 'Police and ambulance 999. The Italian Embassy is in Kuala Lumpur.',
+    primaDiPartire: {
+      documento: 'Passport with at least 6 months\' validity from arrival and undamaged: checks are strict and allow no exceptions.',
+      visto: 'No visa for tourism up to 90 days. Everyone must submit the MDAC arrival card online within 3 days before arrival. UK: same rules.',
+      vaccini: 'Yellow fever certificate required from age 1 if arriving from a risk country (including transits over 12 hours). Recommended: hepatitis A and B, typhoid.',
+      prese: 'British three-pin sockets (type G): UK plugs fit, European plugs need an adapter.',
+      sim: 'Prepaid SIMs must be registered in person with your original passport before activation.',
+      pagamenti: 'Easy to exchange money in cities, at banks and licensed money changers. Only some ATMs accept foreign cards.',
+      lingua: 'Malay (Bahasa Melayu).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'seh-LAH-mat PAH-gee', significato: 'Good morning' },
+        { frase: 'Terima kasih', pronuncia: 'teh-REE-mah KAH-seh', significato: 'Thank you' },
+        { frase: 'Tolong', pronuncia: 'TOH-long', significato: 'Please (when asking for something)' },
+        { frase: 'Maaf', pronuncia: 'mah-AHF', significato: 'Sorry, excuse me' },
+        { frase: 'Berapa harganya?', pronuncia: 'beh-RAH-pah har-GAH-nyah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/malaysia',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: 'The Petronas Twin Towers lit up at night with the skybridge between the two towers, Kuala Lumpur',

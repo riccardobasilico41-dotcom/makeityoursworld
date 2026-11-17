@@ -37,6 +37,23 @@ export const peru: Paese = {
     festivita:
       "Inti Raymi, the festival of the sun, is celebrated in Cusco on June 24 and is the most important event of the year: the city is full and prices skyrocket, so book well ahead. In February, the Virgen de la Candelaria in Puno is one of the biggest festivals on the continent.",
     emergenze: 'Police 105, emergencies 911, dedicated tourist police in the main cities. The Italian Embassy is in Lima.',
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months on arrival, plus a return ticket: with less than 6 months you\'ll be refused entry.',
+      visto: 'No visa for tourism up to 90 days. Your entry is logged on the digital TAM, which you can check online. UK: normally up to 90 days in 180, maximum 183 days a year.',
+      vaccini: 'None required. Recommended: hepatitis A; yellow fever for Amazon areas below 2,300 m; for some travellers hepatitis B, typhoid, rabies.',
+      prese: '220 V, 60 Hz (50 Hz in Arequipa): 100-240 V chargers work fine, 110 V-only devices need a converter.',
+      pagamenti: 'US dollars are accepted almost everywhere. Change money only at banks or casas de cambio, never on the street, to avoid fake notes.',
+      mance: 'There\'s no fixed amount, it depends on how happy you are with the service: 10% of the bill is generally fine.',
+      lingua: 'Spanish; Quechua is also spoken inland and Aymara in the south (Puno).',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'OH-la', significato: 'Hello' },
+        { frase: 'Gracias', pronuncia: 'GRAH-see-ahs', significato: 'Thank you' },
+        { frase: 'Por favor', pronuncia: 'por fa-VOR', significato: 'Please' },
+        { frase: 'Disculpe', pronuncia: 'dees-KOOL-peh', significato: 'Excuse me, sorry' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'KWAN-toh KWES-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/peru',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: 'A lone llama grazes on the Inca terraces of Machu Picchu wrapped in morning mist, Peru',

@@ -34,6 +34,22 @@ export const sriLanka: Paese = {
     festivita:
       "Cada mes el día de Poya, la luna llena, es festivo: no se venden bebidas alcohólicas y muchas actividades cierran o reducen el ritmo. Quien no lo sabe se sorprende, así que conviene mirar el calendario antes de fijar las paradas.",
     emergenze: 'Policía 119, ambulancia 1990. La Embajada de Italia está en Colombo.',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez y dos páginas en blanco consecutivas para el visado y los sellos.',
+      visto: 'Hace falta la ETA online antes de viajar; para pasaportes italianos es gratuita desde el 25 de mayo de 2026. Permite una estancia de 30 días.',
+      vaccini: 'Ninguna obligatoria, salvo fiebre amarilla si llegas de un país de riesgo. Recomendadas: hepatitis A y B, fiebre tifoidea; para algunos, encefalitis japonesa y rabia.',
+      sim: 'La SIM local se registra con un documento: los turistas usan el pasaporte.',
+      pagamenti: 'Se aceptan bien euros y dólares en efectivo; las tarjetas sirven sobre todo en establecimientos turísticos. En zonas rurales, sobre todo en el norte, hay pocos cajeros.',
+      lingua: 'Cingalés y tamil. El inglés solo está extendido en Colombo y en las zonas turísticas.',
+      frasi: [
+        { frase: 'Ayubowan', pronuncia: 'a-YÚ-bo-uan', significato: 'Saludo tradicional (deseo de larga vida)' },
+        { frase: 'Bohoma stuti', pronuncia: 'BÓ-o-ma STÚ-ti', significato: 'Muchas gracias' },
+        { frase: 'Karunakarala', pronuncia: 'ka-ru-NÁ-ka-ra-la', significato: 'Por favor' },
+        { frase: 'Samavenna', pronuncia: 'sa-ma-VÉN-na', significato: 'Perdón, disculpe' },
+        { frase: 'Meka kiyada?', pronuncia: 'MÉ-ka ki-YÁ-da', significato: '¿Cuánto cuesta esto?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['on the road', 'natura', 'cultura', 'mare'],

@@ -39,6 +39,21 @@ export const maldive: Paese = {
       "El viernes es el día festivo: tiendas cerradas a mediodía por la oración y sin ferris en los trayectos largos. Durante el Ramadán (en 2027 aproximadamente del 8 de febrero al 9 de marzo) en las islas locales muchos locales cierran de día. Fiesta de la independencia el 26 de julio.",
     emergenze:
       "Policía 119, ambulancia 102, guardia costera 191. Italia no tiene embajada residente en Maldivas: es competente la Embajada de Italia en Colombo (Sri Lanka). Antes de salir conviene registrarse en Dove Siamo nel Mondo.",
+    primaDiPartire: {
+      documento: 'Pasaporte electrónico. Maldivas pide 30 días de validez tras el regreso, pero por las escalas conviene que tenga al menos 6 meses.',
+      visto: 'Visado turístico de 30 días a la llegada, prorrogable hasta 90; hace falta una reserva de alojamiento confirmada. Declaración IMUGA online gratuita en las 96 horas previas.',
+      vaccini: 'Ninguna obligatoria, salvo fiebre amarilla si llegas de zonas de riesgo (o tras escalas de más de 12 h). Recomendadas: hepatitis A y B, fiebre tifoidea; para algunos, rabia.',
+      pagamenti: 'Mejor llevar dólares estadounidenses; el euro se acepta en resorts y hoteles. Las tarjetas más usadas son Visa y Mastercard.',
+      lingua: 'Dhivehi; también se hablan habitualmente inglés y árabe.',
+      frasi: [
+        { frase: 'Assalaamu alaikum', pronuncia: 'as-sa-LÁ-mu a-LÁI-kum', significato: 'Saludo: la paz sea contigo' },
+        { frase: 'Shukuriyya', pronuncia: 'shu-ku-RÍ-ya', significato: 'Gracias' },
+        { frase: 'Ma\'aaf kurey', pronuncia: 'ma-ÁF ku-RÉI', significato: 'Perdón, disculpe' },
+        { frase: 'Mi kihaa vareh agu?', pronuncia: 'mi ki-JÁ va-re Á-gu', significato: '¿Cuánto cuesta esto?' },
+        { frase: 'Barabaru', pronuncia: 'ba-ra-BÁ-ru', significato: 'Vale, todo bien' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   stileViaggio: ['mare', 'snorkeling', 'immersioni', 'isole locali', 'resort'],

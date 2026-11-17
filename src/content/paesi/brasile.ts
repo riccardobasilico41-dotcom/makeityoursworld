@@ -47,6 +47,21 @@ export const brasile: Paese = {
     festivita:
       'Carnevale a febbraio o inizio marzo (Rio, Salvador, Olinda), con prezzi raddoppiati e alloggi esauriti; Capodanno a Copacabana; feste juninas a giugno nel Nordeste; il Bumba-meu-boi a São Luís tra giugno e luglio.',
     emergenze: 'Polizia 190, ambulanza (SAMU) 192, vigili del fuoco 193. Ambasciata d\'Italia a Brasília, consolati a Rio de Janeiro, São Paulo e in altre città.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità residua all\'ingresso, più il biglietto aereo di andata e ritorno.',
+      visto: 'Nessun visto per turismo fino a 90 giorni ogni 180, con biglietto di ritorno. Controlla che la Polizia Federale timbri il passaporto all\'ingresso.',
+      vaccini: 'Nessuna obbligatoria. Febbre gialla raccomandata in molti Stati, comprese Iguaçu, Rio, São Paulo e Brasília. Consigliate anche epatite A e B; per alcuni tifo e rabbia.',
+      pagamenti: 'Il cambio è libero negli sportelli di cambio, nelle banche e nei grandi alberghi. Attenzione alle frodi con le carte, compresa la clonazione ai bancomat e nei negozi.',
+      lingua: 'Portoghese (brasiliano).',
+      frasi: [
+        { frase: 'Olá', pronuncia: 'o-là', significato: 'Ciao' },
+        { frase: 'Obrigado / Obrigada', pronuncia: 'o-bri-gà-du / o-bri-gà-da', significato: 'Grazie (detto da un uomo / da una donna)' },
+        { frase: 'Por favor', pronuncia: 'por fa-vòr', significato: 'Per favore' },
+        { frase: 'Desculpe', pronuncia: 'di-skùl-pi', significato: 'Mi scusi' },
+        { frase: 'Quanto custa?', pronuncia: 'kuàn-tu kù-sta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/BRA',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   heroImageAlt: 'Le lagune d\'acqua piovana tra le dune bianche dei Lençóis Maranhenses',

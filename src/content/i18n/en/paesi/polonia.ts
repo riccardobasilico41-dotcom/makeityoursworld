@@ -38,6 +38,23 @@ export const polonia: Paese = {
     festivita:
       "The week of Orthodox and Catholic Easter can overlap with religious events that are deeply felt in the city. November 1 (All Saints' Day) is a very observed date in Poland, with cemeteries lit by thousands of candles. In December Rynek Główny hosts one of the best-known Christmas markets in Central Europe, with the resulting evening crowds. May 3 (Constitution Day) and November 11 (Independence Day) are the two main national holidays.",
     emergenze: 'Single European number 112. The Italian Embassy is in Warsaw; an Honorary Consulate of Italy operates in Krakow.',
+    primaDiPartire: {
+      documento: 'EU citizens: valid passport or national ID card. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B, tick-borne encephalitis if you\'ll spend a lot of time outdoors.',
+      prese: '230 V, Type C and E sockets. UK and US visitors need an adaptor; US devices that aren\'t dual-voltage also need a converter.',
+      sim: 'EU plans roam at home rates. UK and US: check roaming costs with your provider before you go.',
+      pagamenti: 'Polish złoty, not the euro. Cards work almost everywhere and contactless is very popular; there are around 10,000 ATMs. Change money at banks or kantor offices.',
+      lingua: 'Polish.',
+      frasi: [
+        { frase: 'Dzień dobry', pronuncia: 'jen DOH-brih', significato: 'Good day, hello' },
+        { frase: 'Dziękuję', pronuncia: 'jen-KOO-yeh', significato: 'Thank you' },
+        { frase: 'Proszę', pronuncia: 'PRO-sheh', significato: 'Please, you\'re welcome' },
+        { frase: 'Przepraszam', pronuncia: 'psheh-PRAH-shahm', significato: 'Excuse me, sorry' },
+        { frase: 'Ile to kosztuje?', pronuncia: 'EE-leh toh kosh-TOO-yeh', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/poland',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: 'The Sukiennice, the Cloth Hall, on Krakow\'s Market Square with the towers of St. Mary\'s Basilica in the background',

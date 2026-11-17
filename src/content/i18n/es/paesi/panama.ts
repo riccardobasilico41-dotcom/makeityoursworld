@@ -37,6 +37,16 @@ export const panama: Paese = {
     festivita:
       "El Carnaval (febrero o marzo, según el año) es la fiesta más sentida del país y en la práctica paraliza Panamá durante cuatro días, con Las Tablas como epicentro. En noviembre se concentran las fiestas patrias, con varios festivos seguidos.",
     emergenze: 'Número único 911. La Embajada de Italia está en Ciudad de Panamá.',
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 3 meses de validez a la llegada y billete de salida del país.',
+      visto: 'Sin visado por turismo hasta 90 días, sin prórroga. Antes de entrar se rellena online la declaración de aduanas.',
+      vaccini: 'Fiebre amarilla obligatoria si llegas de países de riesgo, recomendada para Darién y zonas al este del Canal. Recomendadas hepatitis A y B y fiebre tifoidea.',
+      prese: '110 V con enchufes de tipo estadounidense: desde España hace falta un adaptador.',
+      sim: 'Cuatro operadores (Tigo, Digicel, Claro, Movistar): muy buena cobertura en ciudades y zonas turísticas, escasa o nula en las remotas.',
+      pagamenti: 'Se usa el dólar: lleva billetes de 20 y 50, cambiar euros es difícil. Tarjetas aceptadas casi en todas partes, cajeros en las ciudades principales.',
+      lingua: 'Español; el inglés se conoce pero se habla poco, sobre todo fuera de la capital.',
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['mare', 'isole', 'natura', 'città'],

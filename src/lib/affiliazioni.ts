@@ -1,37 +1,35 @@
 import type { Lingua } from './i18n/config'
+import { siteConfig } from './site-config'
 
 /**
- * Link di affiliazione in un posto solo. Gli ID sono vuoti finché Rick non
- * si iscrive ai programmi: in quel caso i link funzionano comunque (portano
- * alla ricerca giusta sul sito del partner) ma senza tracciamento. Per
- * attivare un programma basta incollare qui il suo ID o il link affiliato.
- *
- * Tutti i link escono con rel="sponsored nofollow noopener" (vedi LinkAffiliato).
+ * Link verso i partner (alloggi, tour, eSIM, assicurazione…) in un posto solo.
+ * Gli ID si compilano in `siteConfig.affiliati` (src/lib/site-config.ts): finché sono
+ * vuoti i link funzionano comunque (portano alla ricerca giusta sul sito del partner)
+ * ma sono link normali. Con l'ID compilato diventano affiliati: `linkPartner()` dà
+ * allora rel="sponsored noopener" e `affiliato: true`, che accende l'avviso accanto.
  */
+const A = siteConfig.affiliati
 export const AFFILIAZIONI = {
-  /** Booking.com Affiliate Partner Programme: parametro `aid`. */
-  booking: { aid: '' },
-  /** Trip.com Affiliate: `Allianceid` e `SID`. Usato per gli itinerari in Asia. */
-  tripcom: { allianceId: '', sid: '' },
-  /** GetYourGuide Partner: `partner_id`. */
-  getyourguide: { partnerId: '' },
-  /** Viator (Tripadvisor) Partner: `pid` e `mcid`. */
-  viator: { pid: '', mcid: '' },
-  /**
-   * Amazon Associates: un `tag` per negozio, perché ogni programma nazionale ha il suo
-   * (Italia e Spagna finiscono in -21, Stati Uniti in -20). Vuoto = link senza affiliazione.
-   */
-  amazon: { it: '', en: '', es: '' } as Record<Lingua, string>,
-  /** Link affiliati completi, da incollare quando arrivano dai programmi. */
-  heymondo: { link: '' },
-  airalo: { link: '' },
-  holafly: { link: '' },
-  discovercars: { link: '' },
-  skyscanner: { link: '' },
+  booking: A.booking,
+  tripcom: A.tripcom,
+  getyourguide: A.getyourguide,
+  viator: A.viator,
+  amazon: A.amazon as Record<Lingua, string>,
+  heymondo: A.assicurazione,
+  airalo: A.airalo,
+  holafly: A.holafly,
+  discovercars: A.discovercars,
+  skyscanner: A.skyscanner,
 }
 
+export type PartnerAffiliato = keyof typeof AFFILIAZIONI
+
+/** Un partner è affiliato quando in site-config c'è almeno un suo ID o link. */
+export const partnerAttivo = (p: PartnerAffiliato) =>
+  Object.values(AFFILIAZIONI[p]).some((v) => typeof v === 'string' && v.trim() !== '')
+
 /** Vero se almeno un programma è attivo: serve per mostrare l'avviso «link affiliati». */
-export const affiliazioniAttive = Object.values(AFFILIAZIONI).some((p) => Object.values(p).some(Boolean))
+export const affiliazioniAttive = (Object.keys(AFFILIAZIONI) as PartnerAffiliato[]).some(partnerAttivo)
 
 function conParametri(base: string, parametri: Record<string, string>) {
   const url = new URL(base)
@@ -113,5 +111,59 @@ export const link = {
   voli: (lingua: Lingua) => AFFILIAZIONI.skyscanner.link || SITI[lingua].voli,
 }
 
-/** Attributi comuni dei link verso i partner. */
+/** Attributi comuni dei link verso i partner (usato da attrezzatura: Amazon). */
 export const relAffiliato = 'sponsored nofollow noopener noreferrer'
+
+/** rel per un link affiliato e per un link normale verso un sito esterno. */
+export const REL_AFFILIATO = 'sponsored noopener'
+export const REL_ESTERNO = 'noopener noreferrer'
+
+export type LinkPartner = { href: string; rel: string; affiliato: boolean; partner: PartnerAffiliato | null }
+
+/**
+ * Il link pronto per un `<a>`: con l'ID vuoto è un link normale, con l'ID compilato è
+ * affiliato (rel="sponsored noopener"). `affiliato` serve a mostrare l'avviso accanto.
+ */
+export function linkPartner(partner: PartnerAffiliato, href: string): LinkPartner {
+  const affiliato = partnerAttivo(partner)
+  return { href, rel: affiliato ? REL_AFFILIATO : REL_ESTERNO, affiliato, partner }
+}
+
+/** Scorciatoie per i link contestuali (Prenota, Cerca tour, Organizza il viaggio). */
+export const prenota = {
+  /** Ricerca Booking per «<hotel>, <città>» o per una città. */
+  hotel: (cosa: string, lingua: Lingua) => linkPartner('booking', link.booking(cosa, lingua)),
+  hotelAsia: (cosa: string, lingua: Lingua) => linkPartner('tripcom', link.tripcomHotel(cosa, lingua)),
+  treniCina: (lingua: Lingua) => linkPartner('tripcom', link.tripcomTreniCina(lingua)),
+  tour: (cosa: string, lingua: Lingua) => linkPartner('getyourguide', link.getyourguide(cosa, lingua)),
+  esim: (lingua: Lingua) => linkPartner('airalo', link.esim(lingua)),
+  esimAlternativa: (lingua: Lingua) => linkPartner('holafly', link.esimAlternativa(lingua)),
+  assicurazione: (lingua: Lingua) => linkPartner('heymondo', link.assicurazione(lingua)),
+  auto: (lingua: Lingua) => linkPartner('discovercars', link.auto(lingua)),
+  voli: (lingua: Lingua) => linkPartner('skyscanner', link.voli(lingua)),
+}
+
+const HOST_PARTNER: [RegExp, PartnerAffiliato][] = [
+  [/booking\.com$/, 'booking'],
+  [/trip\.com$/, 'tripcom'],
+  [/getyourguide\./, 'getyourguide'],
+  [/viator\.com$/, 'viator'],
+  [/amazon\./, 'amazon'],
+  [/heymondo\./, 'heymondo'],
+  [/airalo\.com$/, 'airalo'],
+  [/holafly\.com$/, 'holafly'],
+  [/discovercars\.com$/, 'discovercars'],
+  [/skyscanner\./, 'skyscanner'],
+]
+
+/** Come `linkPartner`, ma riconosce il partner dall'indirizzo (per i link già costruiti con `link.*`). */
+export function linkDaHref(href: string): LinkPartner {
+  let host = ''
+  try {
+    host = new URL(href).hostname
+  } catch {}
+  const partner = HOST_PARTNER.find(([re]) => re.test(host))?.[1]
+  if (!partner) return { href, rel: REL_ESTERNO, affiliato: false, partner: null }
+  // con un link affiliato completo (eSIM, assicurazione…) l'indirizzo è già quello del partner
+  return linkPartner(partner, href)
+}

@@ -45,6 +45,23 @@ export const lettonia: Paese = {
     festivita:
       'Il Festival della Canzone e della Danza lettone (Dziesmu un deju svētki), patrimonio culturale immateriale UNESCO, si tiene ogni cinque anni con decine di migliaia di partecipanti: se le date coincidono, affollamento e prezzi cambiano di molto. A dicembre in Piazza del Duomo, nella Città Vecchia, c\'è uno dei mercatini di Natale più fotografati del Baltico.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Riga.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      sim: 'Roaming UE incluso nella tariffa italiana: la SIM locale non serve.',
+      pagamenti: 'Euro. Carte accettate nella maggior parte di negozi, ristoranti, hotel e distributori; bancomat diffusi. Fuori città conviene avere contanti.',
+      mance: 'Non è obbligatoria, ma arrotondare il conto o lasciare circa il 10% è sempre apprezzato.',
+      lingua: 'Lettone.',
+      frasi: [
+        { frase: 'Labdien', pronuncia: 'làb-dien', significato: 'Buongiorno' },
+        { frase: 'Paldies', pronuncia: 'pàl-dies', significato: 'Grazie' },
+        { frase: 'Lūdzu', pronuncia: 'lù-dzu', significato: 'Per favore, prego' },
+        { frase: 'Atvainojiet', pronuncia: 'àt-vai-no-iet', significato: 'Mi scusi' },
+        { frase: 'Cik tas maksā?', pronuncia: 'zik tas màk-sa', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/LVA',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'La facciata Art Nouveau di un palazzo di Riga, con volti scolpiti, lesene colorate e decorazioni sotto il cornicione',

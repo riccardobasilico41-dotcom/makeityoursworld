@@ -41,6 +41,22 @@ export const canada: Paese = {
     festivita:
       'Canada Day il 1° luglio, la festa del Québec il 24 giugno, Thanksgiving canadese il secondo lunedì di ottobre: alloggi pieni e prezzi più alti.',
     emergenze: 'Numero unico 911. Ambasciata d\'Italia a Ottawa, Consolati Generali a Toronto e Montréal.',
+    primaDiPartire: {
+      documento: 'Passaporto valido per tutta la durata del soggiorno.',
+      visto: 'Niente visto fino a 6 mesi; in aereo, anche in transito, serve l\'eTA: 7 CAD, vale 5 anni o fino alla scadenza del passaporto. Via terra o mare no. USA: niente eTA.',
+      vaccini: 'Nessuna obbligatoria. Consigliate le vaccinazioni di routine (morbillo compreso), l\'epatite B e l\'epatite A per chi va in zone rurali.',
+      pagamenti: 'Con carta di credito o di debito estera si preleva ai bancomat; negli aeroporti ci sono uffici di cambio.',
+      mance: 'Si lascia di solito il 15% del conto in ristoranti, bar, taxi e hotel.',
+      lingua: 'Inglese e francese sono lingue ufficiali; in Québec prevale il francese.',
+      frasi: [
+        { frase: 'Hello', pronuncia: 'el-lòu', significato: 'Ciao, buongiorno' },
+        { frase: 'Thank you', pronuncia: 'tènk-iu', significato: 'Grazie' },
+        { frase: 'Please', pronuncia: 'plìis', significato: 'Per favore' },
+        { frase: 'Excuse me', pronuncia: 'eks-kiùs mi', significato: 'Mi scusi, permesso' },
+        { frase: 'How much is it?', pronuncia: 'hau màc is it', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/CAN',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['road trip', 'città', 'cascate', 'natura', 'balene'],

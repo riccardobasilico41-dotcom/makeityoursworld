@@ -40,6 +40,23 @@ export const filippine: Paese = {
     festivita:
       'La Settimana Santa (Pasqua) e il periodo di Natale-Capodanno riempiono voli, traghetti e resort: conviene prenotare con mesi di anticipo. A gennaio ci sono il Sinulog a Cebu e l\'Ati-Atihan a Kalibo.',
     emergenze: 'Numero unico 911. Ambasciata d\'Italia a Manila (Makati).',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità dal giorno d\'arrivo, più biglietto di ritorno o di uscita dal paese.',
+      visto: 'Nessun visto fino a 30 giorni, prorogabili sul posto. Obbligatoria la registrazione gratuita eTravel nelle 72 ore prima dell\'arrivo, con QR. UK: stesse regole.',
+      vaccini: 'Febbre gialla obbligatoria da 1 anno in su se si arriva da paesi a rischio, anche in transito. Consigliate: epatite A e B, tifo. Malaria a Palawan e Mindanao.',
+      prese: '220V, 60Hz, prese di tipo A e B a lamelle piatte: per le spine italiane serve un adattatore.',
+      sim: 'SIM Smart o Globe da registrare col passaporto; disponibili anche eSIM per avere dati appena atterrati.',
+      pagamenti: 'Carte diffuse nelle grandi città, fuori quasi solo contanti. Bancomat numerosi in città, rari in campagna: portate contanti per le isole.',
+      lingua: 'Filippino e inglese, entrambe lingue ufficiali.',
+      frasi: [
+        { frase: 'Magandang araw', pronuncia: 'ma-gan-dàng a-ràu', significato: 'Buongiorno' },
+        { frase: 'Salamat', pronuncia: 'sa-là-mat', significato: 'Grazie' },
+        { frase: 'Pakiusap', pronuncia: 'pa-ki-ù-sap', significato: 'Per favore' },
+        { frase: 'Pasensya na', pronuncia: 'pa-sèn-scia na', significato: 'Mi scusi, mi dispiace' },
+        { frase: 'Magkano po?', pronuncia: 'mag-kà-no po', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/PHL',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['mare', 'island hopping', 'immersioni', 'snorkeling', 'surf'],

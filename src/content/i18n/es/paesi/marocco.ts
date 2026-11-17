@@ -35,6 +35,22 @@ export const marocco: Paese = {
     festivita:
       "Durante el Ramadán, en las zonas no turísticas, muchos restaurantes permanecen cerrados de día y los ritmos cambian; en cambio, después del atardecer las noches se animan mucho.",
     emergenze: "Policía 19 en ciudad, gendarmería 177 fuera de ciudad, ambulancia 15. La Embajada de Italia está en Rabat, con un consulado general en Casablanca.",
+    primaDiPartire: {
+      documento: 'Pasaporte válido al menos durante toda la estancia.',
+      visto: 'Sin visado para turismo hasta 3 meses.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: hepatitis A y B, fiebre tifoidea; para algunos, rabia.',
+      sim: 'SIM locales a la venta en todas partes, con recargas en quioscos: el móvil debe estar liberado. Maroc Telecom, Orange e Inwi cubren casi todo el país.',
+      pagamenti: 'Cajeros por todas partes. Visa y Mastercard en casi todos los hoteles y en algunos restaurantes y tiendas. Los dírhams no se pueden sacar del país.',
+      lingua: 'Árabe y amazigh (bereber). Casi todo el mundo entiende el francés y el español está extendido en el norte y el sur; el inglés se habla poco.',
+      frasi: [
+        { frase: 'Salam', pronuncia: 'sa-LÁM', significato: 'Hola' },
+        { frase: 'Shukran', pronuncia: 'SHÚK-ran', significato: 'Gracias' },
+        { frase: 'Afak', pronuncia: 'Á-fak', significato: 'Por favor' },
+        { frase: 'Smeh li', pronuncia: 'SMÉJ-li', significato: 'Perdón, lo siento' },
+        { frase: 'Bshhal?', pronuncia: 'b-SHÁL', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Marruecos',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['deserto', 'kasbah', 'on the road'],

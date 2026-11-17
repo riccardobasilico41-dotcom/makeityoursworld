@@ -39,6 +39,22 @@ export const egitto: Paese = {
       "Durante el Ramadán (aproximadamente del 8 de febrero al 9 de marzo de 2027) los yacimientos siguen abiertos con horarios reducidos y muchos restaurantes abren solo después del atardecer. Navidad, Año Nuevo y las vacaciones de Semana Santa europeas llenan cruceros y resorts.",
     emergenze:
       "Policía turística 126, policía 122, ambulancia 123, bomberos 180. Embajada de Italia en El Cairo (Garden City), consulado honorario en Hurghada y en Sharm el-Sheikh.",
+    primaDiPartire: {
+      documento: 'Pasaporte con 6 meses de validez. Solo para turismo, los ciudadanos de la UE pueden usar el DNI electrónico con más de 6 meses de validez y 2 fotos de carné.',
+      visto: 'Visado obligatorio: a la llegada al aeropuerto (en efectivo) o e-visa en línea. Menos de 14 días solo en los resorts del Sinaí sur: basta un sello válido allí.',
+      vaccini: 'Fiebre amarilla solo si llegas de un país de riesgo (también escalas de más de 12 h). Recomendada la tifoidea; para algunos, hepatitis A y B y rabia.',
+      sim: 'SIM turísticas temporales de WE, Orange, Vodafone y Etisalat: piden una copia del pasaporte.',
+      pagamenti: 'Tarjetas aceptadas en las grandes ciudades y zonas turísticas, pero el país funciona aún mucho con efectivo (taxis, tiendas pequeñas). Cajeros de los bancos 24 horas.',
+      lingua: 'Árabe. El inglés es la lengua extranjera más extendida, seguido del francés.',
+      frasi: [
+        { frase: 'Ahlan', pronuncia: 'ÁJ-lan', significato: 'Hola, bienvenido' },
+        { frase: 'Shukran', pronuncia: 'SHÚK-ran', significato: 'Gracias' },
+        { frase: 'Min fadlak', pronuncia: 'min FÁD-lak', significato: 'Por favor (a un hombre; a una mujer: min fadlik)' },
+        { frase: 'Ma\'lesh', pronuncia: 'ma-LÉSH', significato: 'Perdón, no pasa nada' },
+        { frase: 'Bikam?', pronuncia: 'BÍ-kam', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Egipto',
+    },
     aggiornatoAl: 'octubre de 2026',
   },
   stileViaggio: ['archeologia', 'mare', 'immersioni', 'deserto', 'crociera sul Nilo'],

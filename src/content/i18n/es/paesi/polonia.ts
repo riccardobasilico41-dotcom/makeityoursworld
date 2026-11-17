@@ -38,6 +38,23 @@ export const polonia: Paese = {
     festivita:
       "La semana de la Pascua ortodoxa y católica puede coincidir con eventos religiosos muy sentidos en la ciudad. El 1 de noviembre (Todos los Santos) es una fecha muy sentida en Polonia, con los cementerios iluminados por miles de velas. En diciembre Rynek Główny acoge uno de los mercadillos de Navidad más conocidos de Europa central, con la consiguiente aglomeración por las tardes. El 3 de mayo (Día de la Constitución) y el 11 de noviembre (Día de la Independencia) son las dos fiestas nacionales principales.",
     emergenze: "Número único europeo 112. La Embajada de Italia está en Varsovia; en Cracovia hay un Consulado honorario de Italia.",
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B, encefalitis por garrapatas si pasarás mucho tiempo al aire libre.',
+      prese: '230 V, enchufes tipo C y E: los enchufes españoles de dos patas encajan; para los Schuko puede hacer falta adaptador.',
+      sim: 'Roaming de la UE incluido en tu tarifa: no hace falta una SIM local.',
+      pagamenti: 'Esloti polaco, no euro. Se aceptan tarjetas casi en todas partes y el pago sin contacto es muy común; unos diez mil cajeros. Cambio en bancos o kantor.',
+      lingua: 'Polaco.',
+      frasi: [
+        { frase: 'Dzień dobry', pronuncia: 'yen DÓ-bri', significato: 'Buenos días' },
+        { frase: 'Dziękuję', pronuncia: 'yen-KÚ-ie', significato: 'Gracias' },
+        { frase: 'Proszę', pronuncia: 'PRÓ-she', significato: 'Por favor, de nada' },
+        { frase: 'Przepraszam', pronuncia: 'pshe-PRÁ-sham', significato: 'Disculpe, perdón' },
+        { frase: 'Ile to kosztuje?', pronuncia: 'Í-le to kosh-TÚ-ie', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Polonia',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: "La Sukiennice, la Lonja de los Paños, en la plaza del Mercado de Cracovia con las torres de la Basílica de Santa María al fondo",

@@ -39,6 +39,23 @@ export const repubblicaCeca: Paese = {
     festivita:
       "En diciembre la Plaza de la Ciudad Vieja y la Plaza de Wenceslao acogen dos de los mercadillos de Navidad más conocidos de Europa central, con la multitud que conlleva por la noche. El 28 de octubre (Día de la Independencia) y el 6 de julio (Jan Hus) están entre las fiestas nacionales más sentidas.",
     emergenze: "Número único europeo 112. La Embajada de Italia está en Praga.",
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina (sarampión y tosferina incluidos), hepatitis A y B, encefalitis por garrapatas para bosques y actividades al aire libre.',
+      prese: '230 V, enchufes como en Francia y Alemania: los enchufes españoles encajan sin adaptador.',
+      sim: 'Roaming de la UE incluido en tu tarifa. SIM de prepago de O2, Vodafone, T-Mobile y U:fon; el móvil debe estar libre.',
+      pagamenti: 'Corona checa, no euro. Cuidado con los tipos de las muchas casas de cambio del centro: si se puede, mejor cambiar en un banco.',
+      lingua: 'Checo.',
+      frasi: [
+        { frase: 'Dobrý den', pronuncia: 'DÓ-bri den', significato: 'Buenos días' },
+        { frase: 'Děkuji', pronuncia: 'DIÉ-ku-i', significato: 'Gracias' },
+        { frase: 'Prosím', pronuncia: 'PRÓ-sim', significato: 'Por favor, de nada' },
+        { frase: 'Promiňte', pronuncia: 'PRÓ-miñ-te', significato: 'Disculpe, perdón' },
+        { frase: 'Kolik to stojí?', pronuncia: 'KÓ-lik to STÓ-ii', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'La Plaza de la Ciudad Vieja de Praga con las dos agujas góticas de la Iglesia de Santa María de Týn y el Palacio Kinský en un día de sol',

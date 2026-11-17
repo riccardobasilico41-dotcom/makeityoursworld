@@ -44,6 +44,23 @@ export const malesia: Paese = {
     festivita:
       'Il paese segue più calendari insieme, ed è un pregio: il Capodanno cinese (gennaio-febbraio), il Deepavali indù (ottobre-novembre) e l\'Hari Raya musulmano si festeggiano tutti. Durante il Ramadan molti locali malesi chiudono di giorno, ma i quartieri cinesi e indiani restano aperti come sempre, e i bazar serali del Ramadan sono uno dei momenti gastronomici migliori dell\'anno. Nei giorni di Hari Raya e di Capodanno cinese i trasporti sono presi d\'assalto e molte attività chiudono per giorni.',
     emergenze: 'Polizia e ambulanza 999. L\'Ambasciata d\'Italia è a Kuala Lumpur.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità residua dall\'ingresso, integro: i controlli sono severi e non ammettono eccezioni.',
+      visto: 'Nessun visto per turismo fino a 90 giorni. Obbligatoria la MDAC online nei 3 giorni prima dell\'arrivo. UK: stesse regole.',
+      vaccini: 'Febbre gialla obbligatoria da 1 anno in su se si arriva da paesi a rischio (anche transito oltre 12 ore). Consigliate: epatite A e B, tifo.',
+      prese: 'Prese britanniche a tre poli rettangolari (tipo G): per le spine italiane serve un adattatore.',
+      sim: 'La SIM prepagata va registrata di persona col passaporto originale prima dell\'attivazione.',
+      pagamenti: 'Cambio facile in città, in banca e dai cambiavalute autorizzati. Solo alcuni bancomat accettano carte estere.',
+      lingua: 'Malese (bahasa melayu).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-là-mat pà-ghi', significato: 'Buongiorno' },
+        { frase: 'Terima kasih', pronuncia: 'te-rì-ma kà-sih', significato: 'Grazie' },
+        { frase: 'Tolong', pronuncia: 'tò-long', significato: 'Per favore (quando si chiede qualcosa)' },
+        { frase: 'Maaf', pronuncia: 'ma-àf', significato: 'Mi scusi' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rà-pa har-gà-nia', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/MYS',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Le Petronas Twin Towers illuminate di notte con il ponte sospeso tra le due torri, Kuala Lumpur',

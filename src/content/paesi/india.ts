@@ -52,6 +52,22 @@ export const india: Paese = {
       'Diwali (ottobre-novembre: nel 2026 l\'8 novembre) e Holi (marzo: nel 2027 il 22 marzo) sono le feste più spettacolari ma anche quelle con treni pieni, prezzi alti e, per Holi, una giornata in cui conviene sapere a cosa si va incontro (colori ovunque, molestie possibili verso le donne nelle zone affollate). Dev Deepawali a Varanasi (luna piena di Kartik, nel 2026 il 24 novembre) illumina tutti i ghat con migliaia di lampade. La fiera dei cammelli di Pushkar cade intorno alla luna piena di Kartik (fine ottobre-novembre). Le date delle feste seguono il calendario lunare e cambiano ogni anno.',
     emergenze:
       'Numero unico di emergenza 112 (polizia 100, ambulanza 108). Ambasciata d\'Italia a New Delhi (Chanakyapuri), Consolati generali a Mumbai e Calcutta. Prima di partire conviene registrare il viaggio su Dove Siamo nel Mondo della Farnesina.',
+    primaDiPartire: {
+      documento: 'Passaporto valido almeno 6 mesi dalla domanda di eVisa (o dall\'arrivo, se via terra), con due pagine bianche.',
+      visto: 'Visto obbligatorio: e-Tourist Visa da 30 giorni, 1 o 5 anni su indianvisaonline.gov.in, almeno 4 giorni prima. Poi e-Arrival Card online nelle 72 ore prima.',
+      vaccini: 'Febbre gialla obbligatoria solo arrivando da paesi a rischio (sopra i 9 mesi). Consigliate: epatite A e B, tifo; per alcuni encefalite giapponese, rabbia, colera.',
+      sim: 'I cellulari italiani funzionano bene solo nelle città principali: conviene comprare una SIM locale.',
+      pagamenti: 'Carte dei grandi circuiti accettate nei negozi autorizzati e negli hotel delle grandi città, dove ci sono anche i bancomat. Le rupie non si possono esportare.',
+      lingua: 'Hindi e inglese sono le lingue ufficiali; in tutto se ne usano 23.',
+      frasi: [
+        { frase: 'Namaste', pronuncia: 'na-ma-stè', significato: 'Ciao, buongiorno (a mani giunte)' },
+        { frase: 'Dhanyavaad', pronuncia: 'dha-nia-vàad', significato: 'Grazie' },
+        { frase: 'Kripya', pronuncia: 'krìp-ia', significato: 'Per favore' },
+        { frase: 'Maaf kijiye', pronuncia: 'maaf kì-gi-e', significato: 'Mi scusi' },
+        { frase: 'Kitne ka hai?', pronuncia: 'kìt-ne ka hè', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/IND',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['cultura', 'treni', 'on the road', 'spiritualità', 'cibo di strada'],

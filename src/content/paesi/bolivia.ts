@@ -46,6 +46,20 @@ export const bolivia: Paese = {
     festivita:
       'Il Carnevale di Oruro, a febbraio, è Patrimonio immateriale UNESCO ed è la festa più spettacolare del paese. A Uyuni e in tutto l\'altopiano il periodo di Carnevale coincide con la stagione dello specchio d\'acqua: strutture piene e prezzi più alti.',
     emergenze: 'Polizia 110, polizia turistica 800 140081, ambulanza 118. L\'Ambasciata d\'Italia si trova a La Paz.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità all\'ingresso, più biglietto di ritorno o prova che lascerai il Paese.',
+      visto: 'Nessun visto fino a 90 giorni. Alla frontiera di solito timbrano 30 giorni: se resti di più, dillo all\'ingresso.',
+      vaccini: 'Febbre gialla: certificato richiesto se arrivi da Paesi a rischio, ma i controlli sono frequenti e il vaccino è raccomandato a tutti. Consigliate epatite A e B.',
+      lingua: 'Spagnolo e le lingue dei 36 popoli originari, le più diffuse sono aymara e quechua.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'ò-la', significato: 'Ciao' },
+        { frase: 'Gracias', pronuncia: 'grà-sias', significato: 'Grazie' },
+        { frase: 'Por favor', pronuncia: 'por fa-vòr', significato: 'Per favore' },
+        { frase: 'Disculpe', pronuncia: 'di-skùl-pe', significato: 'Mi scusi' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'kuàn-to kuè-sta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/BOL',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Il Salar de Uyuni coperto da un velo d\'acqua che riflette il cielo e le nuvole come uno specchio, Bolivia',

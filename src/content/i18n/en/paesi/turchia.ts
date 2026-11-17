@@ -36,6 +36,20 @@ export const turchia: Paese = {
     festivita:
       "During Ramadan (roughly from February 8 to March 9, 2027) museums stay open; the two national religious holidays (Ramazan Bayramı and Kurban Bayramı) fill buses, flights and seaside resorts, and everything takes more time.",
     emergenze: 'Single number 112. Italian Embassy in Ankara, Consulate General in Istanbul, Consulate in Izmir.',
+    primaDiPartire: {
+      documento: 'UK: passport valid for at least 150 days after arrival, with a blank page. EU: passport or electronic ID card with at least 5 months\' validity.',
+      visto: 'No visa for tourism up to 90 days in any 180. UK: same, with a full British citizen passport.',
+      vaccini: 'None required. Recommended: hepatitis A and B, typhoid; rabies for some travellers.',
+      lingua: 'Turkish.',
+      frasi: [
+        { frase: 'Merhaba', pronuncia: 'MEHR-ha-ba', significato: 'Hello' },
+        { frase: 'Teşekkür ederim', pronuncia: 'teh-shek-KEWR eh-deh-REEM', significato: 'Thank you' },
+        { frase: 'Lütfen', pronuncia: 'LEWT-fen', significato: 'Please' },
+        { frase: 'Affedersiniz', pronuncia: 'af-feh-DEHR-see-neez', significato: 'Excuse me, sorry' },
+        { frase: 'Ne kadar?', pronuncia: 'neh ka-DAR', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/turkey',
+    },
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['city', 'culture', 'archaeology', 'sea', 'road trip'],

@@ -41,6 +41,22 @@ export const lituania: Paese = {
     festivita:
       "On April 1st Užupis celebrates its \"independence day\" with events all over the neighborhood. The summer solstice (late June, the Rasos/Joninės festival) is one of the most heartfelt occasions in the country, with bonfires and songs until dawn. In December there are Christmas markets around Cathedral Square, in the Old Town.",
     emergenze: 'Single European number 112. The Italian Embassy is in Vilnius.',
+    primaDiPartire: {
+      documento: 'EU citizens: passport or national ID card valid for your whole stay. UK and US: passport issued less than 10 years ago and valid 3 months beyond your departure from Schengen.',
+      visto: 'No visa for EU citizens. UK and US: visa-free up to 90 days in any 180, with EES registration (fingerprints and photo) on first entry. ETIAS is not yet in operation.',
+      vaccini: 'None required. Recommended: routine vaccines up to date (including measles), hepatitis A and B, tick-borne encephalitis if you\'ll spend a lot of time outdoors.',
+      sim: 'EU plans roam at home rates. Prepaid SIM cards are sold by the operators Telia, Tele2 and Bite.',
+      pagamenti: 'Euro. Visa and Mastercard work almost everywhere, contactless included (Amex less so), and ATMs are plentiful. Cash helps at markets and in rural areas.',
+      lingua: 'Lithuanian. English is usually enough to get around.',
+      frasi: [
+        { frase: 'Laba diena', pronuncia: 'LAH-bah dyeh-NAH', significato: 'Good day, hello' },
+        { frase: 'Ačiū', pronuncia: 'AH-choo', significato: 'Thank you' },
+        { frase: 'Prašau', pronuncia: 'prah-SHOW', significato: 'Please, you\'re welcome' },
+        { frase: 'Atsiprašau', pronuncia: 'aht-sih-prah-SHOW', significato: 'Excuse me, sorry' },
+        { frase: 'Kiek kainuoja?', pronuncia: 'kyek kye-NWOH-yah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/lithuania',
+    },
     aggiornatoAl: 'September 2026',
   },
   heroImageAlt: "Cathedral Square in Vilnius with the neoclassical Cathedral, the bell tower and the statue of Gediminas",

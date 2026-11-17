@@ -239,7 +239,7 @@ export const meraviglie: Meraviglia[] = [
     comeArrivareInternazionale: "Aeropuerto de Cancún (CUN), el más cómodo; como alternativa, Mérida (MID), geográficamente más cercano al sitio.",
     comeArrivareLocale: "En autobús (ADO entre los operadores) desde Cancún, Mérida o Valladolid, la más cercana; en coche de alquiler; o con un tour organizado de un día desde Cancún o la Riviera Maya, que supone muchas horas de traslado.",
     comeSpostarsi: "El sitio se visita enteramente a pie, en una zona llana y casi sin sombra por todas partes.",
-    prenotazione: "La web del INAH no indica reserva: la entrada se paga en la taquilla del sitio. Horario: todos los días de 8:00 a 17:00, último acceso a las 16:00. Llegar a la apertura es la verdadera clave para evitar el peor calor y la llegada en masa de los autobuses turísticos a mediodía.",
+    prenotazione: "La web del INAH no indica reserva: la entrada se paga en la taquilla del sitio. Horario: todos los días de 8:00 a 16:00, último acceso a las 15:00. Llegar a la apertura es la verdadera clave para evitar el peor calor y la llegada en masa de los autobuses turísticos a mediodía.",
     prezzi: "Extranjeros: 697 pesos mexicanos en total, es decir 105 pesos de tarifa federal del INAH más 592 pesos de tarifa del Gobierno de Yucatán, que también se paga en la taquilla del sitio (para los visitantes nacionales la cuota estatal es de 205 pesos). El espectáculo nocturno Noches de Kukulcán lo organiza el Gobierno de Yucatán, con entrada e información aparte.",
     tourOAutonomo: "Fácil de visitar por tu cuenta en autobús o coche de alquiler. Los guías se encuentran en la entrada: pacta la tarifa antes de empezar. Aportan mucho contexto sobre la cosmología maya y el juego de pelota.",
     scamDaEvitare: [

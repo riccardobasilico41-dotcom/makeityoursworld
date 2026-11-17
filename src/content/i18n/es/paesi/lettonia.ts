@@ -38,6 +38,23 @@ export const lettonia: Paese = {
     festivita:
       "El Festival de la Canción y la Danza letón (Dziesmu un deju svētki), Patrimonio Cultural Inmaterial de la UNESCO, se celebra cada cinco años con decenas de miles de participantes: si las fechas coinciden, la afluencia y los precios cambian mucho. En diciembre, en la plaza de la Catedral, en el casco antiguo, hay uno de los mercados navideños más fotografiados del Báltico.",
     emergenze: "Número único europeo 112. La Embajada de Italia está en Riga.",
+    primaDiPartire: {
+      documento: 'Ciudadanos UE: pasaporte o DNI en vigor. Reino Unido y EE. UU.: pasaporte expedido hace menos de 10 años y válido 3 meses tras salir del espacio Schengen.',
+      visto: 'Sin visado para ciudadanos UE. Reino Unido y EE. UU.: sin visado hasta 90 días cada 180, con registro EES (huellas y foto) en la primera entrada. ETIAS aún no está operativo.',
+      vaccini: 'Ninguna obligatoria. Recomendadas: vacunas de rutina al día (sarampión incluido), hepatitis A y B, encefalitis por garrapatas si pasarás mucho tiempo al aire libre.',
+      sim: 'Roaming de la UE incluido en tu tarifa: no hace falta una SIM local.',
+      pagamenti: 'Euro. Se aceptan tarjetas en la mayoría de tiendas, restaurantes, hoteles y gasolineras; hay muchos cajeros. Fuera de las ciudades conviene llevar efectivo.',
+      mance: 'No es obligatoria, pero redondear la cuenta o dejar en torno al 10% siempre se agradece.',
+      lingua: 'Letón.',
+      frasi: [
+        { frase: 'Labdien', pronuncia: 'LÁB-dien', significato: 'Buenos días' },
+        { frase: 'Paldies', pronuncia: 'PÁL-dies', significato: 'Gracias' },
+        { frase: 'Lūdzu', pronuncia: 'LÚ-dsu', significato: 'Por favor, de nada' },
+        { frase: 'Atvainojiet', pronuncia: 'ÁT-vai-no-iet', significato: 'Disculpe, perdón' },
+        { frase: 'Cik tas maksā?', pronuncia: 'tsik tas MÁK-sa', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Letonia',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: 'La fachada Art Nouveau de un edificio de Riga, con rostros esculpidos, pilastras de colores y decoraciones bajo la cornisa',

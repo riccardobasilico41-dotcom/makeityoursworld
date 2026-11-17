@@ -45,6 +45,22 @@ export const guatemala: Paese = {
       'La Semana Santa di Antigua, con i tappeti di segatura e le processioni, è fra le più celebri dell\'America Latina: bellissima, ma con prezzi e folla molto più alti. Il 1° novembre, a Sumpango e Santiago Sacatepéquez, si tiene la festa degli aquiloni giganti per il Día de Todos los Santos.',
     emergenze:
       'Numeri utili: 110 per la polizia nazionale, 1500 per la polizia turistica (Asistur), 122/123 per vigili del fuoco e ambulanza. L\'Ambasciata d\'Italia si trova a Città del Guatemala.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 6 mesi di validità all\'ingresso.',
+      visto: 'Niente visto per turismo fino a 90 giorni, che valgono in totale anche per El Salvador, Honduras e Nicaragua. Prima di entrare e di uscire si compila una dichiarazione online.',
+      vaccini: 'Febbre gialla obbligatoria solo se arrivi da paesi a rischio. Consigliate epatite A e B e tifo; antimalarica per Petén, Izabal, Alta e Baja Verapaz, Escuintla.',
+      sim: 'Rete mobile e roaming buoni, con gli operatori Tigo e Claro; internet molto diffuso.',
+      pagamenti: 'Cambiare euro è difficile: meglio dollari USA, accettati in molti hotel, ristoranti e negozi, come carte e bancomat. Vietato entrare con più di 10.000 USD in contanti.',
+      lingua: 'Spagnolo, più una ventina di lingue maya.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'ò-la', significato: 'Ciao, buongiorno' },
+        { frase: 'Gracias', pronuncia: 'grà-sias', significato: 'Grazie' },
+        { frase: 'Por favor', pronuncia: 'por fa-vòr', significato: 'Per favore' },
+        { frase: 'Disculpe', pronuncia: 'di-skùl-pe', significato: 'Mi scusi, permesso' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'kuàn-to kuè-sta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/GTM',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['vulcani', 'cultura maya', 'natura', 'on the road'],

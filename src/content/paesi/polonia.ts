@@ -48,6 +48,23 @@ export const polonia: Paese = {
     festivita:
       'La settimana della Pasqua ortodossa e cattolica può sovrapporsi a eventi religiosi sentiti in città. Il 1° novembre (Ognissanti) è una data molto sentita in Polonia, con i cimiteri illuminati da migliaia di candele. A dicembre Rynek Główny ospita uno dei mercatini di Natale più noti dell\'Europa centrale, con relativo affollamento serale. Il 3 maggio (Festa della Costituzione) e l\'11 novembre (Festa dell\'Indipendenza) sono le due feste nazionali principali.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Varsavia; a Cracovia opera un Consolato onorario d\'Italia.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      prese: '230 V, prese di tipo C ed E: le spine italiane a due poli entrano, per quelle a tre poli in linea serve un adattatore.',
+      sim: 'Roaming UE incluso nella tariffa italiana: la SIM locale non serve.',
+      pagamenti: 'Złoty, non euro. Carte accettate quasi ovunque, contactless molto diffuso; circa diecimila bancomat. Cambio in banca o nei kantor.',
+      lingua: 'Polacco.',
+      frasi: [
+        { frase: 'Dzień dobry', pronuncia: 'gèn dò-bri', significato: 'Buongiorno' },
+        { frase: 'Dziękuję', pronuncia: 'gen-kù-ie', significato: 'Grazie' },
+        { frase: 'Proszę', pronuncia: 'prò-sce', significato: 'Per favore, prego' },
+        { frase: 'Przepraszam', pronuncia: 'psce-prà-sciam', significato: 'Mi scusi' },
+        { frase: 'Ile to kosztuje?', pronuncia: 'ì-le to kosc-tù-ie', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/POL',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'La Sukiennice, il Mercato dei Tessuti, sulla piazza del Mercato di Cracovia con le torri della Basilica di Santa Maria sullo sfondo',

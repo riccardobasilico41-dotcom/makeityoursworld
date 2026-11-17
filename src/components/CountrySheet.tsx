@@ -8,19 +8,19 @@ import type { Lingua } from '@/lib/i18n/config'
 
 const T = {
   it: {
-    prima: 'Prima di partire', documenti: 'Documenti e visto', salute: 'Salute e vaccinazioni', valuta: 'Valuta', pagamenti: 'Pagamenti e contanti',
+    prima: 'Documenti e denaro', documenti: 'Documenti e visto', salute: 'Salute e vaccinazioni', valuta: 'Valuta', pagamenti: 'Pagamenti e contanti',
     posto: 'Una volta sul posto', trasporti: 'Trasporti interni', sim: 'SIM e connettività', costo: 'Quanto costa', lingua: 'Lingua', elettricita: 'Elettricità e prese', fuso: 'Fuso orario',
     comunque: 'Da sapere comunque', sicurezza: 'Sicurezza', clima: 'Clima e stagioni', feste: 'Feste e date da segnare', numeri: 'Numeri utili',
     verificata: (data: string) => `Scheda verificata a ${data}. Regole d'ingresso, prezzi e livelli di sicurezza cambiano: controlla sempre le fonti ufficiali del tuo paese prima di partire.`,
   },
   en: {
-    prima: 'Before you go', documenti: 'Documents and visa', salute: 'Health and vaccinations', valuta: 'Currency', pagamenti: 'Payments and cash',
+    prima: 'Papers and money', documenti: 'Documents and visa', salute: 'Health and vaccinations', valuta: 'Currency', pagamenti: 'Payments and cash',
     posto: 'Once you are there', trasporti: 'Getting around', sim: 'SIM and connectivity', costo: 'What things cost', lingua: 'Language', elettricita: 'Electricity and plugs', fuso: 'Time zone',
     comunque: 'Good to know anyway', sicurezza: 'Safety', clima: 'Climate and seasons', feste: 'Holidays and dates to note', numeri: 'Useful numbers',
     verificata: (data: string) => `Guide checked in ${data}. Entry rules, prices and safety levels change: always check the official sources of your own country before you go.`,
   },
   es: {
-    prima: 'Antes de salir', documenti: 'Documentos y visado', salute: 'Salud y vacunas', valuta: 'Moneda', pagamenti: 'Pagos y efectivo',
+    prima: 'Documentos y dinero', documenti: 'Documentos y visado', salute: 'Salud y vacunas', valuta: 'Moneda', pagamenti: 'Pagos y efectivo',
     posto: 'Una vez allí', trasporti: 'Transporte interno', sim: 'SIM y conectividad', costo: 'Cuánto cuesta', lingua: 'Idioma', elettricita: 'Electricidad y enchufes', fuso: 'Huso horario',
     comunque: 'Conviene saber', sicurezza: 'Seguridad', clima: 'Clima y estaciones', feste: 'Fiestas y fechas que apuntar', numeri: 'Teléfonos útiles',
     verificata: (data: string) => `Ficha verificada en ${data}. Las normas de entrada, los precios y los niveles de seguridad cambian: consulta siempre las fuentes oficiales de tu país antes de salir.`,

@@ -29,6 +29,23 @@ export const svezia: Paese = {
     clima:
       'La stagione dell\'aurora boreale va da fine settembre a fine marzo. Abisko ha un microclima secco, il cosiddetto «buco blu» creato dalle montagne intorno, che riduce le nuvole e ne fa uno dei punti con le probabilità più alte al mondo. Capodanno è il periodo più caro; a febbraio e marzo le probabilità di aurora sono le stesse, i prezzi molto più bassi e le ore di luce di più.',
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia si trova a Stoccolma.',
+    primaDiPartire: {
+      documento: 'Passaporto o carta d\'identità elettronica (CIE) in corso di validità. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto: paese UE e Schengen. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine (morbillo compreso), epatite A e B; encefalite da zecche e attenzione alla Lyme se si va in prati e boschi.',
+      sim: 'Roaming UE incluso nella tariffa italiana: la SIM locale non serve.',
+      pagamenti: 'Corona svedese, l\'euro non si accetta. Si paga con carta quasi ovunque e molti locali non prendono contanti. Serve una carta con chip e PIN.',
+      mance: 'Non è obbligatoria ma fa piacere: si arrotonda il conto, o circa il 10% per un servizio ottimo. A volte il servizio è già indicato in conto.',
+      lingua: 'Svedese. Quasi tutti parlano inglese.',
+      frasi: [
+        { frase: 'Hej', pronuncia: 'hèi', significato: 'Ciao, salve' },
+        { frase: 'Tack', pronuncia: 'tàk', significato: 'Grazie' },
+        { frase: 'Ursäkta', pronuncia: 'ur-scèk-ta', significato: 'Mi scusi' },
+        { frase: 'Vad kostar det?', pronuncia: 'va kò-star de', significato: 'Quanto costa?' },
+        { frase: 'Hej då', pronuncia: 'hèi dò', significato: 'Arrivederci, ciao' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/SWE',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['natura', 'avventura', 'inverno estremo'],

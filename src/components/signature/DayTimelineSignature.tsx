@@ -14,6 +14,18 @@ import type { GiornoMeta, IntensitaGiorno } from '@/lib/types'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import { etichetta } from '@/lib/i18n/etichette'
 import type { Lingua } from '@/lib/i18n/config'
+import { prenota } from '@/lib/affiliazioni'
+import { hotelCitato, type HotelNoto } from '@/lib/hotel-noti'
+import { RigaPartner, TESTI_PARTNER } from '@/components/LinkPartner'
+
+/**
+ * Giorni che parlano di un'attività che di solito si fa con un tour (safari, whale watching,
+ * visita guidata…): sotto il giorno compare «Cerca tour» con il luogo e l'attività.
+ * I giorni di rientro citano spesso le attività dei giorni prima e restano fuori.
+ */
+const TOUR_TIPICO =
+  /\b(tour (?:guidat|organizzat|in barca|di gruppo|privat)\w*|escursion[ei] (?:guidat|organizzat|in barca|con guida)\w*|guided (?:tour|hike|walk)s?|boat (?:tour|trip)s?|day tours?|tours? guiados?|excursi[oó]n(?:es)? guiadas?|visit[ae] guidat[ae]|guided visits?|visitas? guiadas?|safari|whale watching|avvistamento (?:delle )?balene|avistamiento de ballenas|snorkeling tour|free tour|food tour|jeep tour)\b/i
+const RIENTRO = /^(rientro|ritorno|return|back home|regreso|vuelta)\b/i
 
 const T = {
   it: {
@@ -58,8 +70,8 @@ const INTENSITA_CLASSES: Record<IntensitaGiorno, string> = {
  */
 export const DayTimelineSignature = forwardRef<
   HTMLOListElement,
-  { giorni: ViaggioGiorno[]; meta: GiornoMeta[]; paeseSlug: string; unitaLabel?: string }
->(function DayTimelineSignature({ giorni, meta, paeseSlug, unitaLabel = 'Giorno' }, ref) {
+  { giorni: ViaggioGiorno[]; meta: GiornoMeta[]; paeseSlug: string; unitaLabel?: string; hotel?: HotelNoto[] }
+>(function DayTimelineSignature({ giorni, meta, paeseSlug, unitaLabel = 'Giorno', hotel = [] }, ref) {
   const lingua = useLingua()
   const t = T[lingua]
   return (
@@ -73,6 +85,10 @@ export const DayTimelineSignature = forwardRef<
         // «Giorno 0» senza luogo: il titolo resta il titolo; le zone dei roadtrip sono già il luogo
         const titolo = luogo || giorno.titolo
         const { racconto, pratica } = dividiGiorno(giorno.corpo)
+        // «Prenota» solo se il pernottamento nomina un hotel scritto in «Dove abbiamo dormito»
+        const hotelDelGiorno = hotelCitato(info?.pernottamento, hotel)
+        const tour = !RIENTRO.test(titolo) ? giorno.corpo.match(TOUR_TIPICO)?.[0] : undefined
+        const luogoTour = titolo.split(/[,:(—–]/)[0].trim()
 
         return (
           // <li> figlio diretto di <ol> (HTML valido); l'animazione sta dentro, sul contenuto.
@@ -120,6 +136,14 @@ export const DayTimelineSignature = forwardRef<
                           {t.pernottamento}
                         </dt>
                         <dd className="flex flex-wrap items-center gap-1.5 text-ink">{info.pernottamento}</dd>
+                        {hotelDelGiorno && (
+                          <RigaPartner
+                            className="mt-1"
+                            lingua={lingua}
+                            etichetta={TESTI_PARTNER[lingua].prenota}
+                            voci={[{ testo: 'Booking', link: prenota.hotel(`${hotelDelGiorno.hotel}, ${hotelDelGiorno.citta}`, lingua) }]}
+                          />
+                        )}
                       </div>
                     )}
                     {info.costiNoti && (
@@ -146,6 +170,15 @@ export const DayTimelineSignature = forwardRef<
                     </p>
                     <Prose className="mt-2 text-sm prose-ul:my-0 prose-li:my-1">{pratica}</Prose>
                   </div>
+                )}
+
+                {tour && luogoTour && (
+                  <RigaPartner
+                    className="mt-4"
+                    lingua={lingua}
+                    etichetta={TESTI_PARTNER[lingua].cercaTour}
+                    voci={[{ testo: `${luogoTour} · ${tour.toLowerCase()}`, link: prenota.tour(`${luogoTour} ${tour.toLowerCase()}`, lingua) }]}
+                  />
                 )}
 
                 {hrefDestinazione && (

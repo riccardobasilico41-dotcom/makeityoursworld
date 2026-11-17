@@ -48,6 +48,16 @@ export const italia: Paese = {
     festivita:
       '**Il punto è agosto**: nella settimana di Ferragosto il paese si sposta in massa verso il mare e la montagna, i prezzi triplicano, le strade si bloccano e in città molte attività chiudono. Tra Natale e l\'Epifania succede lo stesso sulla neve. Il ponte del 25 aprile-1° maggio e quello del 2 giugno riempiono le città d\'arte, la Settimana Santa muove il sud. In compenso ogni paese ha la sua festa patronale, e nell\'Italia interna resta l\'evento più vivo dell\'anno.',
     emergenze: 'Numero unico europeo 112. Soccorso alpino attraverso il 112, specificando la posizione: le app che trasmettono le coordinate esatte sono utili quanto un\'assicurazione.',
+    primaDiPartire: {
+      documento: 'Per i cittadini UE basta un documento d\'identità valido o il passaporto. UK e USA: passaporto emesso da meno di 10 anni e valido 3 mesi oltre l\'uscita da Schengen.',
+      visto: 'Nessun visto per i cittadini UE. UK e USA: senza visto fino a 90 giorni ogni 180, con registrazione EES (impronte e foto) al primo ingresso. ETIAS non ancora attivo.',
+      vaccini: 'Nessuna obbligatoria. Consigliate: vaccinazioni di routine in regola (morbillo compreso), epatite A e B, encefalite da zecche per chi fa molte attività all\'aperto.',
+      prese: '220 V, prese di tipo C e L; quelle multistandard accettano anche le spine Schuko.',
+      sim: 'Per chi arriva da un altro paese UE il roaming è incluso nella tariffa. Con l\'app WiFi Italia si accede gratis agli hotspot pubblici aderenti.',
+      pagamenti: 'Si paga in contanti o con carta ovunque; Visa, Mastercard, Maestro e American Express sono molto diffuse. Bancomat attivi 24 ore su 24.',
+      mance: 'Non obbligatoria e senza regole fisse; se il servizio è piaciuto si lascia circa il 10%.',
+      lingua: 'Italiano.',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImage: '/images/italia/sassolungo-passo-sella-riccardo.jpg',

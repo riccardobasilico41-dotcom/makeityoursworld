@@ -47,6 +47,21 @@ export const arabiaSaudita: Paese = {
     festivita:
       'Qui il **Ramadan** è più rigido che nel resto del Golfo: di giorno quasi tutto chiude, mangiare e bere in pubblico alla luce del sole è vietato a tutti, anche ai non musulmani, e la vita si sposta di notte. Nei giorni di **Eid al-Fitr** e **Eid al-Adha** il paese si ferma e i trasporti sono presi d\'assalto. Durante l\'Hajj masse enormi di persone si spostano verso l\'ovest del paese e i prezzi salgono. La Festa Nazionale è il 23 settembre, quella della Fondazione il 22 febbraio.',
     emergenze: 'Polizia 999, ambulanza 997, vigili del fuoco 998; nelle città principali è attivo anche il numero unico 911. L\'Ambasciata d\'Italia è a Riyadh, e a Jeddah c\'è un Consolato generale.',
+    primaDiPartire: {
+      documento: 'Passaporto valido almeno 6 mesi dall\'arrivo.',
+      visto: 'Visto turistico elettronico su visa.visitsaudi.com, assicurazione inclusa: vale un anno, fino a 90 giorni. Gratis il visto stopover di 4 giorni con Saudia o flynas.',
+      vaccini: 'Febbre gialla solo arrivando da paesi a rischio. Per Umrah e Hajj serve l\'antimeningococcica ACWY. Consigliato il tifo; per alcuni epatite A e B e rabbia.',
+      pagamenti: 'Sistema bancario di livello occidentale: Visa, Mastercard, American Express e Diners sono le carte più diffuse. Il riyal si cambia in banca e dai cambiavalute.',
+      lingua: 'Arabo; nei servizi turistici si usa anche l\'inglese.',
+      frasi: [
+        { frase: 'As-salamu alaykum', pronuncia: 'as-sa-là-mu a-lài-kum', significato: 'Saluto: la pace sia con te' },
+        { frase: 'Shukran', pronuncia: 'sciùk-ran', significato: 'Grazie' },
+        { frase: 'Min fadlak', pronuncia: 'min fàd-lak', significato: 'Per favore (a un uomo; a una donna: min fadlik)' },
+        { frase: 'Law samaht', pronuncia: 'lau sa-màht', significato: 'Mi scusi, permesso' },
+        { frase: 'Bikam?', pronuncia: 'bì-kam', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/SAU',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   heroImageAlt: 'Le case storiche in pietra corallina con le finestre a graticcio in legno nel quartiere di Al-Balad, Jeddah',

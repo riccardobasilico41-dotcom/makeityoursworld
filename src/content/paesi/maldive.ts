@@ -45,6 +45,21 @@ export const maldive: Paese = {
       'Il venerdì è il giorno di festa: negozi chiusi a metà giornata per la preghiera e niente traghetti sulle tratte lunghe. Durante il Ramadan (nel 2027 indicativamente dall\'8 febbraio al 9 marzo) sulle isole locali molti locali chiudono di giorno. Festa dell\'indipendenza il 26 luglio.',
     emergenze:
       'Polizia 119, ambulanza 102, guardia costiera 191. L\'Italia non ha un\'ambasciata residente alle Maldive: è competente l\'Ambasciata d\'Italia a Colombo (Sri Lanka). Prima di partire conviene registrarsi su Dove Siamo nel Mondo.',
+    primaDiPartire: {
+      documento: 'Passaporto elettronico. Le Maldive chiedono 30 giorni di validità dopo il rientro, ma per gli scali è meglio averne almeno 6 mesi.',
+      visto: 'Visto turistico di 30 giorni all\'arrivo, estendibile fino a 90; serve una prenotazione confermata. Dichiarazione IMUGA online gratuita nelle 96 ore prima dell\'arrivo.',
+      vaccini: 'Nessuna obbligatoria, salvo febbre gialla per chi arriva da zone a rischio (anche dopo scali oltre 12 ore). Consigliate: epatite A e B, tifo; per alcuni rabbia.',
+      pagamenti: 'Meglio portare dollari USA; l\'euro si accetta nei resort e negli hotel. Le carte più usate sono Visa e Mastercard.',
+      lingua: 'Dhivehi; si parlano correntemente anche inglese e arabo.',
+      frasi: [
+        { frase: 'Assalaamu alaikum', pronuncia: 'as-sa-là-mu a-lài-kum', significato: 'Saluto: la pace sia con te' },
+        { frase: 'Shukuriyya', pronuncia: 'sciu-ku-rìi-ia', significato: 'Grazie' },
+        { frase: 'Ma\'aaf kurey', pronuncia: 'ma-àaf ku-rèi', significato: 'Mi scusi' },
+        { frase: 'Mi kihaa vareh agu?', pronuncia: 'mi ki-hàa va-rè à-gu', significato: 'Quanto costa questo?' },
+        { frase: 'Barabaru', pronuncia: 'ba-ra-bà-ru', significato: 'Va bene, tutto a posto' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/MDV',
+    },
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['mare', 'snorkeling', 'immersioni', 'isole locali', 'resort'],

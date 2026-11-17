@@ -16,6 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [
     { path: '/', priority: 1, changeFrequency: 'weekly' as const },
     { path: '/viaggi', priority: 0.9, changeFrequency: 'weekly' as const },
+    { path: '/dove-vado', priority: 0.7, changeFrequency: 'monthly' as const },
     { path: '/destinazioni', priority: 0.9, changeFrequency: 'weekly' as const },
     { path: '/meraviglie', priority: 0.9, changeFrequency: 'weekly' as const },
     { path: '/consigli', priority: 0.8, changeFrequency: 'weekly' as const },

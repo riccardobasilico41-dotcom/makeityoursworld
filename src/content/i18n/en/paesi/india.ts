@@ -40,6 +40,22 @@ export const india: Paese = {
       "Diwali (October-November: November 8 in 2026) and Holi (March: March 22 in 2027) are the most spectacular festivals but also the ones with full trains, high prices and, for Holi, a day when it's good to know what you're getting into (colors everywhere, possible harassment of women in crowded areas). Dev Deepawali in Varanasi (full moon of Kartik, November 24 in 2026) lights up all the ghats with thousands of lamps. The Pushkar camel fair falls around the full moon of Kartik (late October-November). Festival dates follow the lunar calendar and change every year.",
     emergenze:
       "Single emergency number 112 (police 100, ambulance 108). Italian Embassy in New Delhi (Chanakyapuri), Consulates General in Mumbai and Kolkata. Before leaving, it's worth registering your trip on Dove Siamo nel Mondo from the Italian Foreign Ministry.",
+    primaDiPartire: {
+      documento: 'Passport valid for at least 6 months from the e-visa application (or from arrival, if by land), with two blank pages.',
+      visto: 'Visa required, UK citizens included: e-Tourist Visa for 30 days, 1 or 5 years at indianvisaonline.gov.in, at least 4 days ahead. Then the e-Arrival Card within 72 hours.',
+      vaccini: 'Yellow fever only if arriving from a risk country (over 9 months old). Recommended: hepatitis A and B, typhoid; for some, Japanese encephalitis, rabies, cholera.',
+      sim: 'Foreign phones work reliably only in the main cities, so a local SIM is worth buying.',
+      pagamenti: 'Major international cards are accepted in licensed shops and big-city hotels, where you\'ll also find ATMs. Rupees cannot be taken out of the country.',
+      lingua: 'Hindi and English are the official languages; 23 languages are used in all.',
+      frasi: [
+        { frase: 'Namaste', pronuncia: 'NUH-muh-stay', significato: 'Hello (with palms pressed together)' },
+        { frase: 'Dhanyavaad', pronuncia: 'dhun-yuh-VAHD', significato: 'Thank you' },
+        { frase: 'Kripya', pronuncia: 'KRIP-yah', significato: 'Please' },
+        { frase: 'Maaf kijiye', pronuncia: 'mahf KEE-jee-yay', significato: 'Excuse me, sorry' },
+        { frase: 'Kitne ka hai?', pronuncia: 'KIT-nay kah hay', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/india',
+    },
     aggiornatoAl: 'October 2026',
   },
   stileViaggio: ['culture', 'trains', 'road trip', 'spirituality', 'street food'],

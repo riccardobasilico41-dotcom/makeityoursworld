@@ -40,6 +40,23 @@ export const borneo: Paese = {
     festivita:
       "Además de las fiestas malayas, Borneo tiene las suyas: el Kaamatan en Sabah (mayo) y el Gawai Dayak en Sarawak (principios de junio), fiestas de la cosecha de las comunidades indígenas, con días de celebraciones en los pueblos. Son los momentos más interesantes del año para venir aquí, y también aquellos en que transportes y alojamientos se llenan.",
     emergenze: "Policía y ambulancia 999. El consulado italiano más cercano está en Kuala Lumpur: en caso de emergencia desde Borneo se pasa igualmente por allí.",
+    primaDiPartire: {
+      documento: 'Pasaporte con al menos 6 meses de validez desde la entrada y en buen estado: los controles son estrictos y sin excepciones.',
+      visto: 'Sin visado hasta 90 días; MDAC obligatoria. Sabah y Sarawak tienen control de inmigración propio: incluso desde la península se pasa inmigración con pasaporte.',
+      vaccini: 'Fiebre amarilla obligatoria desde 1 año si se llega de países de riesgo. Recomendadas: hepatitis A y B, tifoidea. Malaria P. knowlesi en zonas forestales: pregunte al médico.',
+      prese: 'Enchufes británicos de tres patas rectangulares (tipo G): para los enchufes españoles hace falta adaptador.',
+      sim: 'La SIM prepago se registra en persona con el pasaporte original antes de activarla.',
+      pagamenti: 'Es fácil cambiar dinero en las ciudades, en bancos y casas de cambio. Solo algunos cajeros aceptan tarjetas extranjeras.',
+      lingua: 'Malayo (bahasa melayu).',
+      frasi: [
+        { frase: 'Selamat pagi', pronuncia: 'se-lá-mat pá-gui', significato: 'Buenos días' },
+        { frase: 'Terima kasih', pronuncia: 'te-rí-ma ká-sij', significato: 'Gracias' },
+        { frase: 'Tolong', pronuncia: 'tó-long', significato: 'Por favor (al pedir algo)' },
+        { frase: 'Maaf', pronuncia: 'ma-áf', significato: 'Perdone, disculpe' },
+        { frase: 'Berapa harganya?', pronuncia: 'be-rá-pa har-gá-ña', significato: '¿Cuánto cuesta?' },
+      ],
+      avvisi: 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Malasia',
+    },
     aggiornatoAl: 'septiembre de 2026',
   },
   heroImageAlt: "Los picos de granito de Donkey Ears y del Tunku Abdul Rahman en la cumbre del Monte Kinabalu, Sabah",

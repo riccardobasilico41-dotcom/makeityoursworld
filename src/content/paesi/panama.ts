@@ -43,6 +43,23 @@ export const panama: Paese = {
     festivita:
       'Il Carnevale (febbraio o marzo, secondo l\'anno) è la festa più sentita del paese e in pratica blocca Panama per quattro giorni, con Las Tablas come epicentro. A novembre si concentrano le fiestas patrias, con più giorni festivi ravvicinati.',
     emergenze: 'Numero unico 911. L\'Ambasciata d\'Italia si trova a Panama City.',
+    primaDiPartire: {
+      documento: 'Passaporto con almeno 3 mesi di validità all\'arrivo e biglietto di uscita dal paese. UK: 6 mesi dalla partenza.',
+      visto: 'Niente visto per turismo fino a 90 giorni, senza proroghe. Prima dell\'ingresso si compila online la dichiarazione doganale.',
+      vaccini: 'Febbre gialla obbligatoria se arrivi da paesi a rischio, consigliata per Darién e zone a est del Canale. Consigliate epatite A e B e tifo.',
+      prese: '110 V con prese di tipo statunitense: serve un adattatore dall\'Italia.',
+      sim: 'Quattro operatori (Tigo, Digicel, Claro, Movistar): ottima copertura in città e nelle zone turistiche, scarsa o assente in quelle remote.',
+      pagamenti: 'Si usa il dollaro USA: porta banconote da 20 e 50, cambiare euro è difficile. Carte accettate quasi ovunque, bancomat nelle città principali.',
+      lingua: 'Spagnolo; l\'inglese è conosciuto ma poco parlato, soprattutto fuori dalla capitale.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'ò-la', significato: 'Ciao, buongiorno' },
+        { frase: 'Gracias', pronuncia: 'grà-sias', significato: 'Grazie' },
+        { frase: 'Por favor', pronuncia: 'por fa-vòr', significato: 'Per favore' },
+        { frase: 'Disculpe', pronuncia: 'di-skùl-pe', significato: 'Mi scusi, permesso' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'kuàn-to kuè-sta', significato: 'Quanto costa?' },
+      ],
+      avvisi: 'https://www.viaggiaresicuri.it/find-country/country/PAN',
+    },
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'isole', 'natura', 'città'],

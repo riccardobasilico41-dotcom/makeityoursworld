@@ -1,6 +1,7 @@
 import Link from '@/components/ui/Link'
-import { ArrowUpRight, BedDouble, Car, Luggage, Plane, ShieldCheck, Smartphone, Ticket, TrainFront } from 'lucide-react'
-import { affiliazioniAttive, link, relAffiliato } from '@/lib/affiliazioni'
+import { ArrowUpRight, BedDouble, Car, Luggage, ShieldCheck, Smartphone, Ticket, TrainFront } from 'lucide-react'
+import { linkDaHref, prenota, type LinkPartner } from '@/lib/affiliazioni'
+import { AvvisoAffiliati, LinkEsterno } from '@/components/LinkPartner'
 import type { ListaAttrezzatura } from '@/content/attrezzatura'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { etichetta } from '@/lib/i18n/etichette'
@@ -9,9 +10,12 @@ import type { Lingua } from '@/lib/i18n/config'
 const T = {
   it: {
     prenotaTappe: 'Prenota le stesse tappe',
-    organizza: 'Organizza questo viaggio',
+    organizza: 'Organizza il viaggio',
+    hotelIn: 'Hotel',
+    tour: 'Tour',
+    altro: 'Altro',
     hotelBooking: 'Hotel su Booking',
-    hotelTrip: 'Hotel su Trip.com',
+    hotelTrip: 'anche su Trip.com',
     visite: 'Visite e attività su GetYourGuide',
     treniCina: 'Treni in Cina',
     altaVelocita: 'Alta velocità cinese',
@@ -34,9 +38,12 @@ const T = {
   },
   en: {
     prenotaTappe: 'Book the same stops',
-    organizza: 'Plan this trip',
+    organizza: 'Plan the trip',
+    hotelIn: 'Hotels',
+    tour: 'Tours',
+    altro: 'More',
     hotelBooking: 'Hotels on Booking',
-    hotelTrip: 'Hotels on Trip.com',
+    hotelTrip: 'also on Trip.com',
     visite: 'Tours and activities on GetYourGuide',
     treniCina: 'Trains in China',
     altaVelocita: 'Chinese high-speed rail',
@@ -59,9 +66,12 @@ const T = {
   },
   es: {
     prenotaTappe: 'Reserva las mismas paradas',
-    organizza: 'Organiza este viaje',
+    organizza: 'Organiza el viaje',
+    hotelIn: 'Hoteles',
+    tour: 'Tours',
+    altro: 'Más',
     hotelBooking: 'Hoteles en Booking',
-    hotelTrip: 'Hoteles en Trip.com',
+    hotelTrip: 'también en Trip.com',
     visite: 'Visitas y actividades en GetYourGuide',
     treniCina: 'Trenes en China',
     altaVelocita: 'Alta velocidad china',
@@ -87,11 +97,12 @@ const T = {
 type Voce = { etichetta: string; href: string; nota?: string }
 
 function Esterno({ voce }: { voce: Voce }) {
+  const l = linkDaHref(voce.href)
   return (
     <a
-      href={voce.href}
+      href={l.href}
       target="_blank"
-      rel={relAffiliato}
+      rel={l.rel}
       className="group inline-flex min-h-11 items-center gap-1.5 border border-ink/20 bg-white px-3 py-1.5 text-sm text-ink transition-colors hover:border-ink hover:text-rosso"
     >
       {voce.etichetta}
@@ -101,23 +112,42 @@ function Esterno({ voce }: { voce: Voce }) {
   )
 }
 
-function Riga({ icona: Icona, titolo, children }: { icona: typeof BedDouble; titolo: string; children: React.ReactNode }) {
+/** Una riga della striscia: icona, etichetta e link testuali separati da un punto. */
+function Riga({
+  icona: Icona,
+  titolo,
+  voci,
+}: {
+  icona: typeof BedDouble
+  titolo: string
+  voci: { testo: string; nota?: string; link: LinkPartner }[]
+}) {
   return (
-    <div className="border-t border-ink/15 py-4">
-      <p className="mb-3 flex items-center gap-2 font-display text-base text-ink">
-        <Icona size={18} aria-hidden="true" className="text-rosso" />
+    <div className="grid gap-1 border-t border-ink/10 py-2.5 sm:grid-cols-[11rem_minmax(0,1fr)] sm:gap-4">
+      <dt className="flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.14em] text-stone">
+        <Icona size={15} aria-hidden="true" className="text-rosso" />
         {titolo}
-      </p>
-      <div className="flex flex-wrap gap-2">{children}</div>
+      </dt>
+      <dd className="flex flex-wrap items-baseline gap-x-2 gap-y-1 text-sm">
+        {voci.map((v, i) => (
+          <span key={v.link.href} className="inline-flex items-baseline gap-2">
+            {i > 0 && <span aria-hidden="true" className="text-stone/60">·</span>}
+            <LinkEsterno voce={v.link} className="min-h-8">
+              {v.testo}
+              {v.nota && <span className="ml-1 text-xs text-stone no-underline">{v.nota}</span>}
+            </LinkEsterno>
+          </span>
+        ))}
+      </dd>
     </div>
   )
 }
 
 /**
- * «Organizza questo viaggio»: i link per prenotare le stesse tappe
- * dell'itinerario (alloggi, attività, assicurazione, eSIM, auto, voli) e la
- * lista dell'attrezzatura. I link sono affiliati (vedi src/lib/affiliazioni.ts)
- * e l'avviso lo dice sempre, anche prima che i programmi siano attivi.
+ * «Organizza il viaggio»: una striscia compatta, in tono editoriale, con i link per
+ * cercare hotel e tour nelle tappe dell'itinerario, l'eSIM per il Paese e l'assicurazione.
+ * Con gli ID di affiliazione vuoti (site-config `affiliati`) sono link normali; l'avviso
+ * «link affiliati» compare da solo quando almeno uno dei link mostrati è affiliato.
  */
 export async function OrganizzaViaggio({
   tappe,
@@ -136,73 +166,51 @@ export async function OrganizzaViaggio({
   const lingua = await linguaCorrente()
   const t = T[lingua]
   const paeseVisto = etichetta(paese, lingua)
-  const luoghi = [...new Set(tappe)].slice(0, 6)
-  if (luoghi.length === 0) luoghi.push(paese)
+  const luoghi = [...new Set(tappe)].slice(0, 5)
+  if (luoghi.length === 0) luoghi.push(paeseVisto)
+
+  const hotel = luoghi.map((l) => ({ testo: l, link: prenota.hotel(`${l}, ${paese}`, lingua) }))
+  if (asia) hotel.push({ testo: t.hotelTrip, link: prenota.hotelAsia(luoghi[0], lingua) })
+  const tour = luoghi.map((l) => ({ testo: l, link: prenota.tour(l, lingua) }))
+  const esim = [
+    { testo: t.esimPer(paeseVisto), nota: 'Airalo', link: prenota.esim(lingua) },
+    { testo: t.esimIllimitata, nota: 'Holafly', link: prenota.esimAlternativa(lingua) },
+  ]
+  const assicurazione = [{ testo: t.assicurazioneViaggio, nota: 'Heymondo', link: prenota.assicurazione(lingua) }]
+  const treni = cina ? [{ testo: t.altaVelocita, nota: 'Trip.com', link: prenota.treniCina(lingua) }] : []
+  const altro = [
+    { testo: t.noleggio, nota: 'DiscoverCars', link: prenota.auto(lingua) },
+    { testo: t.voliPer(paeseVisto), nota: 'Skyscanner', link: prenota.voli(lingua) },
+  ]
+  const tutti = [...hotel, ...tour, ...esim, ...assicurazione, ...treni, ...altro].map((v) => v.link)
 
   return (
-    <section id="organizza" aria-labelledby="organizza-titolo" className="scroll-mt-24 border-2 border-ink bg-cream p-5 sm:p-7">
-      <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.prenotaTappe}</p>
-      <h2 id="organizza-titolo" className="mt-2 titolo-scheda text-ink">
+    <section id="organizza" aria-labelledby="organizza-titolo" className="scroll-mt-24 border-y-2 border-ink py-5">
+      <h2 id="organizza-titolo" className="font-display text-xl text-ink sm:text-2xl">
         {t.organizza}
       </h2>
-
-      <div className="mt-5">
-        <Riga icona={BedDouble} titolo={t.hotelBooking}>
-          {luoghi.map((l) => (
-            <Esterno key={`b-${l}`} voce={{ etichetta: l, href: link.booking(`${l}, ${paese}`, lingua) }} />
-          ))}
-        </Riga>
-        {asia && (
-          <Riga icona={BedDouble} titolo={t.hotelTrip}>
-            {luoghi.map((l) => (
-              <Esterno key={`t-${l}`} voce={{ etichetta: l, href: link.tripcomHotel(l, lingua) }} />
-            ))}
-          </Riga>
-        )}
-        <Riga icona={Ticket} titolo={t.visite}>
-          {luoghi.map((l) => (
-            <Esterno key={`g-${l}`} voce={{ etichetta: l, href: link.getyourguide(l, lingua) }} />
-          ))}
-        </Riga>
-        {cina && (
-          <Riga icona={TrainFront} titolo={t.treniCina}>
-            <Esterno voce={{ etichetta: t.altaVelocita, href: link.tripcomTreniCina(lingua), nota: 'Trip.com' }} />
-          </Riga>
-        )}
-        <Riga icona={ShieldCheck} titolo={t.assicurazione}>
-          <Esterno voce={{ etichetta: t.assicurazioneViaggio, href: link.assicurazione(lingua), nota: 'Heymondo' }} />
-        </Riga>
-        <Riga icona={Smartphone} titolo={t.internet}>
-          <Esterno voce={{ etichetta: t.esimPer(paeseVisto), href: link.esim(lingua), nota: 'Airalo' }} />
-          <Esterno voce={{ etichetta: t.esimIllimitata, href: link.esimAlternativa(lingua), nota: 'Holafly' }} />
-        </Riga>
-        <Riga icona={Car} titolo={t.auto}>
-          <Esterno voce={{ etichetta: t.noleggio, href: link.auto(lingua), nota: 'DiscoverCars' }} />
-        </Riga>
-        <Riga icona={Plane} titolo={t.voli}>
-          <Esterno voce={{ etichetta: t.voliPer(paeseVisto), href: link.voli(lingua), nota: 'Skyscanner' }} />
-        </Riga>
+      <dl className="mt-3">
+        <Riga icona={BedDouble} titolo={t.hotelIn} voci={hotel} />
+        <Riga icona={Ticket} titolo={t.tour} voci={tour} />
+        <Riga icona={Smartphone} titolo={t.internet} voci={esim} />
+        <Riga icona={ShieldCheck} titolo={t.assicurazione} voci={assicurazione} />
+        {treni.length > 0 && <Riga icona={TrainFront} titolo={t.treniCina} voci={treni} />}
+        <Riga icona={Car} titolo={t.altro} voci={altro} />
         {lista && (
-          <Riga icona={Luggage} titolo={t.cosaPortare}>
-            <Link
-              href={`/attrezzatura/${lista.slug}`}
-              className="inline-flex min-h-11 items-center gap-1.5 border border-ink bg-ink px-3 py-2 text-sm font-semibold text-cream hover:bg-rosso"
-            >
-              {t.laLista} {lista.titolo}
-            </Link>
-          </Riga>
+          <div className="grid gap-1 border-t border-ink/10 py-2.5 sm:grid-cols-[11rem_minmax(0,1fr)] sm:gap-4">
+            <dt className="flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.14em] text-stone">
+              <Luggage size={15} aria-hidden="true" className="text-rosso" />
+              {t.cosaPortare}
+            </dt>
+            <dd className="text-sm">
+              <Link href={`/attrezzatura/${lista.slug}`} className="text-ink underline decoration-rosso decoration-2 underline-offset-[3px] hover:text-rosso">
+                {t.laLista} {lista.titolo}
+              </Link>
+            </dd>
+          </div>
         )}
-      </div>
-
-      {/* l'avviso compare solo quando c'è davvero un programma di affiliazione attivo */}
-      {affiliazioniAttive && (
-        <p className="mt-4 border-t border-ink/15 pt-4 text-xs leading-relaxed text-stone">
-          {t.affiliati}{' '}
-          <Link href="/trasparenza" className="underline underline-offset-2 hover:text-rosso">
-            {t.comeFunziona}
-          </Link>
-        </p>
-      )}
+      </dl>
+      <AvvisoAffiliati link={tutti} lingua={lingua} className="mt-2 border-t border-ink/10 pt-3" />
     </section>
   )
 }
@@ -218,7 +226,7 @@ export async function PrenotaQui({ voci }: { voci: Voce[] }) {
           <Esterno key={v.href} voce={v} />
         ))}
       </div>
-      {affiliazioniAttive && (
+      {voci.some((v) => linkDaHref(v.href).affiliato) && (
         <p className="mt-3 text-xs leading-relaxed text-stone">
           {t.affiliatiBreve}{' '}
           <Link href="/trasparenza" className="underline underline-offset-2 hover:text-rosso">

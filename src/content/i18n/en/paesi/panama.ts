@@ -37,6 +37,23 @@ export const panama: Paese = {
     festivita:
       "Carnival (February or March, depending on the year) is the most heartfelt celebration in the country and in practice shuts Panama down for four days, with Las Tablas as the epicenter. In November the fiestas patrias cluster together, with several holidays close together.",
     emergenze: 'Single number 911. The Italian Embassy is in Panama City.',
+    primaDiPartire: {
+      documento: 'EU citizens: passport valid 3 months on arrival. UK: 6 months after you leave, plus a blank page. Carry a return or onward ticket.',
+      visto: 'No visa for tourism up to 90 days, with no extensions. Fill in the online customs declaration before arrival. UK: you may need to show US$1,000 or a credit card.',
+      vaccini: 'Yellow fever certificate if arriving from a risk country; vaccine advised for Darién and areas east of the Canal. Hepatitis A and B and typhoid recommended.',
+      prese: '110 V with US-style sockets: UK and European plugs need an adapter.',
+      sim: 'Four networks (Tigo, Digicel, Claro, Movistar): excellent coverage in cities and tourist areas, poor or none in remote ones.',
+      pagamenti: 'The currency in use is the US dollar: bring $20 and $50 notes, as changing euros or pounds is hard. Cards accepted almost everywhere, ATMs in main towns.',
+      lingua: 'Spanish; English is understood but not widely spoken, especially outside the capital.',
+      frasi: [
+        { frase: 'Hola', pronuncia: 'OH-lah', significato: 'Hello' },
+        { frase: 'Gracias', pronuncia: 'GRAH-see-ahs', significato: 'Thank you' },
+        { frase: 'Por favor', pronuncia: 'por fah-VOR', significato: 'Please' },
+        { frase: 'Disculpe', pronuncia: 'dees-KOOL-peh', significato: 'Excuse me, sorry' },
+        { frase: '¿Cuánto cuesta?', pronuncia: 'KWAHN-toh KWEHS-tah', significato: 'How much is it?' },
+      ],
+      avvisi: 'https://www.gov.uk/foreign-travel-advice/panama',
+    },
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['sea', 'islands', 'nature', 'city'],

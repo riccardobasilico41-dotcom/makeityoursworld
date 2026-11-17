@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 import Link from '@/components/ui/Link'
 import { Consigliati } from '@/components/Consigliati'
+import { ReelDalViaggio } from '@/components/ReelDalViaggio'
+import { reelsPerDestinazione } from '@/content/reels'
 import { LuoghiGuida, ProgrammiGuida, ZoneSaporiAttenzioni, GiteGuida, FaqGuida } from '@/components/scheda/MiniGuida'
 import { MINI_GUIDE_VERIFICATE } from '@/content/mini-guide-verificate'
 import { Filigrana } from '@/components/Filigrana'
@@ -327,6 +329,8 @@ export default async function DestinazionePage({
               <Ricordo testo={destinazione.miaEsperienza} />
             </div>
           )}
+
+          <ReelDalViaggio reels={reelsPerDestinazione(paeseSlug, destinazione.slug)} lingua={lingua} />
 
           <Consigliati chiave={`${paeseSlug}/${destinazione.slug}`} lingua={lingua} />
 

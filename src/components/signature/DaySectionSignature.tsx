@@ -8,6 +8,7 @@ import { useAncoraAttiva } from './useAncoraAttiva'
 import { idGiorno } from './giorni-ancore'
 import type { ViaggioGiorno } from '@/lib/viaggi'
 import type { GiornoMeta, TappaMappa } from '@/lib/types'
+import type { HotelNoto } from '@/lib/hotel-noti'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import type { Lingua } from '@/lib/i18n/config'
 
@@ -32,6 +33,7 @@ export function DaySectionSignature({
   tappe = [],
   tappeGiorni = [],
   rottaSlug,
+  hotel = [],
 }: {
   giorni: ViaggioGiorno[]
   meta: GiornoMeta[]
@@ -43,6 +45,8 @@ export function DaySectionSignature({
   tappeGiorni?: number[][]
   /** slug del viaggio, se ha la mappa vera della rotta (src/lib/mappa-rotta.ts): al posto della linea astratta */
   rottaSlug?: string
+  /** Hotel con il nome noto (src/lib/hotel-noti.ts): accanto al pernottamento compare «Prenota». */
+  hotel?: HotelNoto[]
 }) {
   const lingua = useLingua()
   const containerRef = useRef<HTMLOListElement>(null)
@@ -53,7 +57,7 @@ export function DaySectionSignature({
 
   return (
     <div className="xl:grid xl:grid-cols-[minmax(0,1fr)_14rem] xl:gap-10">
-      <DayTimelineSignature ref={containerRef} giorni={giorni} meta={meta} paeseSlug={paeseSlug} unitaLabel={unitaLabel} />
+      <DayTimelineSignature ref={containerRef} giorni={giorni} meta={meta} paeseSlug={paeseSlug} unitaLabel={unitaLabel} hotel={hotel} />
       <div className="hidden xl:sticky xl:top-6 xl:block xl:self-start">
         {/* stesso giorno attivo dell'indice laterale e della barra mobile (useAncoraAttiva) */}
         <p className="font-mono text-xs text-stone" aria-hidden="true">
