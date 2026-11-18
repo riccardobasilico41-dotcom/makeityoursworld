@@ -8,12 +8,13 @@ import { Marchio } from '@/components/Marchio'
  * dei Paesi che si alternano, e al centro il marchio.
  *
  * Arriva già nell'HTML del server, quindi è la prima cosa che si vede: copre il sito mentre
- * carica e sfuma quando la pagina è pronta (minimo ~1,2 s, massimo ~3,5 s). Uno script in
+ * carica e sfuma appena la pagina è pronta (al massimo ~3,5 s). Uno script in
  * linea, eseguito prima che il browser disegni, la nasconde subito se è già stata vista nella
  * sessione o con «riduci movimento», così il sito non lampeggia. `?intro=colore|bn` la forza.
  */
 
-const MINIMO = 1200
+// nessuna attesa minima: l'apertura copre solo il caricamento vero e sparisce appena la pagina è pronta
+const MINIMO = 0
 const MASSIMO = 3500
 const SFUMATURA = 500
 const CELLE = 160 // abbastanza per coprire uno schermo grande; quelle in più restano fuori vista

@@ -28,6 +28,7 @@ export function HeaderMedia({ media, sizes = '(min-width: 1024px) 42vw, 100vw' }
         alt={media.alt}
         fill
         preload
+        fetchPriority="high"
         sizes={sizes}
         className="object-cover"
       />
