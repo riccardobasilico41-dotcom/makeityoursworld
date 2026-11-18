@@ -23,87 +23,220 @@ export const destinazioniCostaRica: Destinazione[] = [
       'Casa Boutique Las Orquídeas, dove abbiamo dormito sia all\'arrivo sia l\'ultima notte. È più una casa che un hotel: atmosfera familiare, staff disponibile a ogni ora, colazione preparata al momento. Qualche recensione segnala pareti sottili e camere un po\' spartane. Fascia media.\n\nAlternative: economiche: Selina San José, Costa Rica Backpackers Hostel · fascia media: Hotel Presidente, Hotel Kekoldi (Barrio Amón) · lusso: Hotel Grano de Oro, Xandari Resort & Spa (Alajuela, vicino all\'aeroporto).',
     doveMangiare: 'Jardín de Lolita e Colonia Arepas y Bar all\'arrivo; Costa Rica Beer Factory per la cena d\'arrivederci.',
     usciteSerali: 'La Concha, nel quartiere di La California, che a differenza del centro è sicuro e animato anche di sera.',
-    comeArrivare: 'Volo internazionale su San José; Uber dall\'aeroporto al centro (30 min-1h, circa 14$).',
+    comeArrivare: "L'aeroporto internazionale Juan Santamaría (SJO) è ad Alajuela, una ventina di chilometri dal centro: da mezz'ora a un'ora secondo il traffico. Uber costa circa 15-25 $ dal punto di ritiro indicato nell'app; i taxi arancioni Taxi Aeropuerto, gli unici autorizzati davanti agli arrivi, vanno a tassametro, circa 25-35 $. I bus TUASA per San José partono dalla strada davanti al terminal circa ogni 10 minuti dalle 4 alle 22, per circa 700 colones. Chi atterra a Liberia (LIR), in Guanacaste, ha circa 4 ore di strada.",
     comeSpostarsi: 'Uber, meglio dei taxi: costa circa un terzo in meno ed è più sicuro.',
     periodoMigliore: 'metà-fine novembre',
-    costi: 'Uber aeroporto-centro circa 14$.',
+    costi: "Uber aeroporto-centro circa 14-25 $. Museo Nazionale 11 $, Museo del Oro 8.800 colones. Budget giornaliero a persona, indicativo per il 2026: basso 45-70 € (ostello, sodas, bus e musei); medio 100-150 € (hotel a Barrio Amón o Escalante, Uber, cene al ristorante); alto da 220 € (hotel storico, transfer privati e un'escursione ai vulcani).",
     erroriDaEvitare: ['Evitare il centro città dopo il tramonto: meglio muoversi sempre in compagnia o in Uber', 'Cambiare valuta solo in banche o uffici autorizzati, mai per strada'],
     miaEsperienza:
       "San José merita di essere vista solo di passaggio. Carini il Mercado Central e il Museo Nazionale, quello di storia; per il resto niente di speciale. La cena al Jardín de Lolita, tra i food truck e tutti seduti insieme, è stata la serata giusta per ritrovarci dopo gli arrivi alla spicciolata.",
       "luoghi": [
-        {
-          "nome": "Mercado Central",
-          "testo": "Il mercato coperto storico del centro, con bancarelle di cibo, caffè, artigianato e le sodas che servono il casado del giorno.",
-          "come": "A piedi dal centro.",
-          "quando": "Mattina e pranzo, quando le sodas lavorano di più.",
-          "tempo": "1-1,5 ore",
-          "consiglio": "Mangiare in una soda dentro il mercato è il modo più economico per assaggiare la cucina di casa."
-        },
-        {
-          "nome": "Barrio Amón",
-          "testo": "Quartiere con case in legno e mattoni costruite fra fine Ottocento e inizio Novecento, ex dimore dei baroni del caffè, ora con gallerie, caffè e hotel di charme.",
-          "come": "A piedi, a nord del centro.",
-          "quando": "Mattina, a luce buona.",
-          "tempo": "1-2 ore",
-          "consiglio": "Meglio non girare con il telefono in mano e di sera sono preferibili i taxi."
-        },
-        {
-          "nome": "Museo Nazionale",
-          "testo": "Ospitato nell'ex Cuartel Bellavista, con sale di storia, archeologia e natura del paese, di fronte all'Assemblea legislativa.",
-          "come": "A piedi dal centro.",
-          "quando": "Da martedì a sabato 8.30-16.30, domenica 9-16.30; chiuso il lunedì.",
-          "tempo": "1-2 ore",
-          "url": "https://www.museocostarica.go.cr/"
-        },
-        {
-          "nome": "Teatro Nacional",
-          "testo": "Il teatro neoclassico inaugurato nel 1897 con il Faust, pagato con una tassa sul caffè. Dentro c'è il celebre dipinto dell'allegoria del caffè e delle banane.",
-          "come": "A piedi dal centro, sulla Plaza de la Cultura.",
-          "quando": "Mattina.",
-          "tempo": "1 ora",
-          "url": "https://www.teatronacional.go.cr/",
-          "consiglio": "Prenotare in anticipo se si vuole assistere a uno spettacolo."
-        },
-        {
-          "nome": "Museo del Oro Precolombino",
-          "testo": "I musei del Banco Central, in sale sotterranee sotto la Plaza de la Cultura, con la mostra permanente sull'oro precolombino e il museo di numismatica.",
-          "come": "A piedi dal centro: Plaza de la Cultura, tra avenida 0 e 2, calle 5.",
-          "quando": "Tutti i giorni, 9-16.30.",
-          "tempo": "1-1,5 ore",
-          "costo": "8.800 colones per gli stranieri, 6.950 per gli studenti (2026).",
-          "url": "https://www.museosdelbancocentral.org/"
-        }
-      ],
+      {
+        "nome": "Mercado Central",
+        "testo": "Il mercato coperto storico del centro, aperto nel 1880, con bancarelle di cibo, caffè, artigianato e le sodas che servono il casado del giorno. I corridoi sono stretti e affollati, ed è il posto giusto per comprare caffè in grani e salsa Lizano prima di ripartire.",
+        "come": "A piedi dal centro.",
+        "quando": "Mattina e pranzo, quando le sodas lavorano di più.",
+        "tempo": "1-1,5 ore",
+        "consiglio": "Mangiare in una soda dentro il mercato è il modo più economico per assaggiare la cucina di casa.",
+        "costo": "Ingresso libero; un casado in una soda costa poco rispetto ai ristoranti",
+        "lat": 9.93474,
+        "lng": -84.08201
+      },
+      {
+        "nome": "Barrio Amón",
+        "testo": "Quartiere con case in legno e mattoni costruite fra fine Ottocento e inizio Novecento, ex dimore dei baroni del caffè, ora con gallerie, caffè e hotel di charme. Tra le facciate spicca il Castillo del Moro, una villa in stile moresco.",
+        "come": "A piedi, a nord del centro.",
+        "quando": "Mattina, a luce buona.",
+        "tempo": "1-2 ore",
+        "consiglio": "Meglio non girare con il telefono in mano e di sera sono preferibili i taxi.",
+        "costo": "Gratis",
+        "lat": 9.93835,
+        "lng": -84.0767
+      },
+      {
+        "nome": "Museo Nazionale",
+        "testo": "Ospitato nell'ex Cuartel Bellavista, la caserma con i muri ancora segnati dai proiettili della guerra civile del 1948, con sale di storia, archeologia e natura del paese e un giardino di farfalle. Sta di fronte all'Assemblea legislativa, sopra la Plaza de la Democracia.",
+        "come": "A piedi dal centro.",
+        "quando": "Mattina, appena apre.",
+        "tempo": "1-2 ore",
+        "url": "https://www.museocostarica.go.cr/",
+        "orari": "Da martedì a sabato 8.30-16.30, domenica 9-16.30; chiuso il lunedì",
+        "costo": "11 USD per gli stranieri, circa 9,5 € (2026)",
+        "lat": 9.93283,
+        "lng": -84.07174
+      },
+      {
+        "nome": "Teatro Nacional",
+        "testo": "Il teatro neoclassico inaugurato nel 1897 con il Faust, pagato con una tassa sul caffè. Dentro c'è il celebre dipinto dell'allegoria del caffè e delle banane.",
+        "come": "A piedi dal centro, sulla Plaza de la Cultura.",
+        "quando": "Mattina.",
+        "tempo": "1 ora",
+        "url": "https://www.teatronacional.go.cr/",
+        "consiglio": "Prenotare in anticipo se si vuole assistere a uno spettacolo.",
+        "orari": "Visite e biglietteria 9-16",
+        "costo": "Visita dell'edificio 3.500 colones per gli stranieri, circa 6 € (2026)",
+        "lat": 9.93316,
+        "lng": -84.07697
+      },
+      {
+        "nome": "Museo del Oro Precolombino",
+        "testo": "I musei del Banco Central, in sale sotterranee sotto la Plaza de la Cultura, con la mostra permanente sull'oro precolombino e il museo di numismatica.",
+        "come": "A piedi dal centro: Plaza de la Cultura, tra avenida 0 e 2, calle 5.",
+        "quando": "Mattina o in un pomeriggio di pioggia.",
+        "tempo": "1-1,5 ore",
+        "costo": "8.800 colones per gli stranieri, circa 15 €; 6.950 per gli studenti (2026)",
+        "url": "https://www.museosdelbancocentral.org/",
+        "orari": "Tutti i giorni 9-16.30",
+        "lat": 9.9335,
+        "lng": -84.07668
+      },
+      {
+        "nome": "Catedral Metropolitana",
+        "testo": "La cattedrale neoclassica della capitale, ricostruita dopo il terremoto del 1821 e più volte restaurata, con le vetrate colorate e il soffitto in legno. Accanto c'è il Parque Central, il punto di ritrovo del centro.",
+        "come": "A piedi, sull'Avenida 2, a due isolati dal Teatro Nacional.",
+        "quando": "Mattina, fuori dagli orari delle messe.",
+        "tempo": "20-30 minuti",
+        "costo": "Gratis",
+        "lat": 9.93275,
+        "lng": -84.07876
+      },
+      {
+        "nome": "Museo del Jade",
+        "testo": "Il museo del jade e della cultura precolombina, in un edificio moderno vicino alla Plaza de la Democracia, con la collezione di giada americana più grande al mondo e sale su ceramica e vita quotidiana dei popoli indigeni. È il museo più completo della città.",
+        "come": "A piedi dal centro, accanto al Museo Nazionale.",
+        "quando": "Mattina; il mercoledì gli stranieri entrano in due pagando un biglietto.",
+        "tempo": "1,5-2 ore",
+        "url": "https://museodeljade.grupoins.com/"
+      },
+      {
+        "nome": "Parque Nacional e Monumento Nacional",
+        "testo": "Il parco più grande del centro, con il Monumento Nacional che celebra la vittoria del 1856 contro i filibustieri di William Walker. Intorno ci sono la Biblioteca Nacional e l'Assemblea legislativa.",
+        "come": "A piedi, a nord del Museo Nazionale.",
+        "quando": "Di giorno.",
+        "tempo": "20-30 minuti",
+        "costo": "Gratis",
+        "lat": 9.93461,
+        "lng": -84.0708
+      },
+      {
+        "nome": "Parque Morazán",
+        "testo": "Il parco con il Templo de la Música, un tempietto bianco del 1920 al centro dei giardini, al confine fra il centro e Barrio Amón. È un buon punto di passaggio fra i monumenti e il quartiere storico.",
+        "come": "A piedi, tra l'Avenida 3 e l'Avenida 5.",
+        "quando": "Di giorno.",
+        "tempo": "15-20 minuti",
+        "costo": "Gratis",
+        "lat": 9.93562,
+        "lng": -84.07537
+      },
+      {
+        "nome": "Edificio Metálico",
+        "testo": "Un edificio scolastico in lamiera e ferro prefabbricato in Belgio e montato a San José all'inizio del Novecento, con la facciata gialla e grigia. Ospita ancora una scuola, la Escuela Buenaventura Corrales.",
+        "come": "A piedi, di fronte al Parque España, a pochi passi da Parque Morazán.",
+        "quando": "Di giorno; si vede da fuori.",
+        "tempo": "10 minuti",
+        "costo": "Gratis",
+        "lat": 9.93613,
+        "lng": -84.07437,
+        "consiglio": "È una scuola in funzione: si fotografa dalla strada senza entrare."
+      },
+      {
+        "nome": "Museo de los Niños",
+        "testo": "Il museo interattivo per bambini, ricavato nell'ex penitenziario centrale, un castello giallo con le torrette. Le sale di scienza e storia sono pensate per le famiglie; dentro c'è anche la Galería Nacional d'arte.",
+        "come": "A nord del centro, oltre il fiume Torres: meglio in taxi o Uber.",
+        "quando": "Mattina, nei giorni feriali c'è meno folla.",
+        "tempo": "2-3 ore",
+        "url": "https://www.museocr.org/",
+        "lat": 9.94136,
+        "lng": -84.07967
+      },
+      {
+        "nome": "Mercado Borbón",
+        "testo": "Il mercato all'ingrosso di frutta e verdura, a pochi isolati dal Mercado Central, molto meno turistico. Qui si vede la frutta tropicale che arriva da tutto il paese e la si compra a prezzi di mercato.",
+        "come": "A piedi dal Mercado Central, due isolati a nord.",
+        "quando": "Mattina presto, quando arrivano i carichi.",
+        "tempo": "30-45 minuti",
+        "costo": "Gratis",
+        "lat": 9.93642,
+        "lng": -84.08286,
+        "consiglio": "Zona affollata e un po' caotica: zaino davanti e solo il necessario in tasca."
+      },
+      {
+        "nome": "Parque Metropolitano La Sabana",
+        "testo": "Il grande parco a ovest del centro, costruito sull'area del vecchio aeroporto, con un lago, prati, campi sportivi e lo Stadio Nazionale. La domenica si riempie di famiglie.",
+        "come": "In Uber o in bus dal centro, circa 10-15 minuti.",
+        "quando": "Domenica mattina per vedere la città che si rilassa.",
+        "tempo": "1-2 ore",
+        "costo": "Gratis",
+        "lat": 9.93556,
+        "lng": -84.1045
+      },
+      {
+        "nome": "Museo de Arte Costarricense",
+        "testo": "Il museo d'arte nazionale, nel vecchio terminal dell'aeroporto di La Sabana. Al piano superiore c'è il Salón Dorado, con un fregio in rilievo che racconta la storia del Costa Rica.",
+        "come": "All'angolo est di La Sabana, in Uber dal centro.",
+        "quando": "Mattina o primo pomeriggio.",
+        "tempo": "1 ora",
+        "lat": 9.93542,
+        "lng": -84.09903
+      },
+      {
+        "nome": "Barrio Escalante",
+        "testo": "Il quartiere residenziale a est del centro diventato la zona dei ristoranti, dei caffè e dei birrifici artigianali, lungo la Calle 33. Con La California è una delle zone più sicure e vivaci anche la sera.",
+        "come": "In Uber dal centro, circa 10 minuti.",
+        "quando": "Sera, per cena.",
+        "tempo": "Una serata",
+        "costo": "Gratis; cena da 15-25 € a persona",
+        "lat": 9.9364,
+        "lng": -84.06387
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mercato Centrale e pranzo in una soda",
-            "Teatro Nacional e Plaza de la Cultura",
-            "Barrio Amón nel pomeriggio",
-            "Cena in centro"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1 come sopra",
-            "Giorno 2: escursione verso un vulcano (Poás o Irazú) in giornata, oppure caffè e museo Nazionale"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Mercado Central e pranzo in una soda",
+          "Pomeriggio: Teatro Nacional, Plaza de la Cultura e Museo del Oro",
+          "Fine pomeriggio: Parque Morazán, Edificio Metálico e Barrio Amón",
+          "Sera: cena a Barrio Escalante"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1 come sopra",
+          "Giorno 2: Museo Nazionale e Museo del Jade la mattina, Parque Nacional, poi La Sabana e il Museo de Arte Costarricense nel pomeriggio"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: gita al vulcano Irazú o al Poás la mattina presto, prima delle nuvole, con rientro a Cartago e alla Basilica de los Ángeles"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Barrio Amón e Otoya",
-          "perChi": "chi vuole atmosfera",
-          "testo": "Case storiche, caffè e un po' di vita serale; quartiere da attraversare con attenzione dopo il tramonto."
-        },
-        {
-          "nome": "Vicino all'aeroporto (Alajuela)",
-          "perChi": "arrivo o partenza tardi",
-          "testo": "Hotel comodi per voli presto o tardi; poco da vedere."
-        }
-      ],
+      {
+        "nome": "Barrio Amón e Otoya",
+        "perChi": "chi vuole atmosfera",
+        "testo": "Case storiche trasformate in piccoli hotel, a piedi dai musei; quartiere da attraversare con attenzione dopo il tramonto."
+      },
+      {
+        "nome": "Barrio Escalante e La California",
+        "perChi": "chi vuole uscire la sera",
+        "testo": "Ristoranti, birrerie e locali a pochi minuti dal centro, sicuri e animati anche di notte; ci si muove a piedi o in Uber."
+      },
+      {
+        "nome": "La Sabana e Rohrmoser",
+        "perChi": "chi preferisce la calma",
+        "testo": "Zona residenziale vicino al grande parco, con hotel moderni e supermercati; per il centro storico serve l'Uber."
+      },
+      {
+        "nome": "Vicino all'aeroporto (Alajuela)",
+        "perChi": "arrivo o partenza tardi",
+        "testo": "Hotel comodi per voli presto o tardi; poco da vedere."
+      }
+    ],
       "sapori": [
         {
           "nome": "Pollo, riso e fagioli",
@@ -133,6 +266,52 @@ export const destinazioniCostaRica: Destinazione[] = [
         "Le attività in Costa Rica sono carissime e si paga quasi sempre in dollari: mettetelo in conto nel budget.",
         "La sicurezza mi ha dato una buona impressione, ma come in tutto il Centro America occhi sempre aperti."
       ],
+    gite: [
+      {
+        "nome": "Vulcano Irazú",
+        "distanza": "circa 1 ora e mezza",
+        "come": "In auto, con un tour o con il bus da San José che sale la mattina e rientra nel primo pomeriggio.",
+        "testo": "Il vulcano più alto del paese, oltre 3.400 metri, con i crateri grigi e lunari; nelle giornate limpide si vedono i due oceani."
+      },
+      {
+        "nome": "Vulcano Poás",
+        "distanza": "circa 1 ora e mezza",
+        "come": "In auto o con un tour; il biglietto va comprato online sul portale del SINAC e conviene controllare prima lo stato del vulcano.",
+        "testo": "Uno dei crateri attivi più grandi al mondo, con la laguna acida sul fondo; le nuvole salgono presto, quindi si arriva all'apertura."
+      },
+      {
+        "nome": "Cartago e la Valle di Orosi",
+        "distanza": "circa 45 minuti",
+        "come": "In bus o in treno fino a Cartago, poi in auto o con un tour per la valle.",
+        "testo": "L'antica capitale con la Basilica de los Ángeles e le rovine della chiesa di Santiago Apóstol, poi le piantagioni di caffè e la chiesa coloniale di Orosi."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a San José?",
+        "risposta": "Un giorno basta per mercato, Teatro Nacional e musei principali. Con un secondo giorno si aggiunge una gita all'Irazú o al Poás."
+      },
+      {
+        "domanda": "San José è sicura?",
+        "risposta": "Di giorno, con le normali attenzioni, sì. La sera il centro si svuota: meglio muoversi in Uber e cenare a Barrio Escalante o La California, che restano vivaci e sicuri."
+      },
+      {
+        "domanda": "Come si va dall'aeroporto al centro?",
+        "risposta": "In Uber, circa 15-25 $, con i taxi arancioni autorizzati, circa 25-35 $, oppure con il bus TUASA per circa 700 colones. Servono da mezz'ora a un'ora."
+      },
+      {
+        "domanda": "Quale museo scegliere se c'è poco tempo?",
+        "risposta": "Il Museo del Oro, sotto la Plaza de la Cultura, è il più facile da incastrare; il Museo del Jade è il più completo sulla cultura precolombina."
+      },
+      {
+        "domanda": "Si paga in colones o in dollari?",
+        "risposta": "In tutti e due: la carta è accettata quasi ovunque e i dollari girano molto. Nelle sodas e al mercato conviene avere colones in piccolo taglio."
+      },
+      {
+        "domanda": "Dove dormire per una sola notte?",
+        "risposta": "Per visitare la città, Barrio Amón o Escalante. Con un volo all'alba, meglio un hotel ad Alajuela, vicino all'aeroporto."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Il centro di San José, capitale della Costa Rica',
@@ -606,70 +785,149 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       'Epic Adventure Lodge, apprezzato per la vicinanza al fiume, la colazione abbondante e il calore dei proprietari. L\'unica nota stonata sono piccole mancanze, come zanzariere e ganci per gli asciugamani. Fascia media.\n\nAlternative: economiche: Hotel El Bambú, Perla Verde Hostel · fascia media: La Quinta de Sarapiquí Lodge · lusso: Sueño Azul Resort, Islas del Río.',
     doveMangiare: 'La cooking class al lodge, che diventa anche la cena; Restaurante Mirador Tinamú.',
-    comeArrivare: '1h30 in barca da Tortuguero più 2h30 in van.',
+    comeArrivare: "Da Tortuguero si fanno circa un'ora e mezza di barca fino al molo e poi due ore e mezza di van. Da San José sono circa 1 ora e mezza-2 ore: la Ruta 32 attraversa il Parco Braulio Carrillo, la Ruta 126 passa da Vara Blanca e dalla zona delle cascate. Gli autobus pubblici partono dalla Gran Terminal del Caribe di San José per Puerto Viejo de Sarapiquí. Verso La Fortuna e l'Arenal si calcola circa 1 ora e 20 di van.",
     comeSpostarsi: 'Van privato; a piedi nel lodge.',
     periodoMigliore: 'tutto l\'anno, il Sarapiquí è più costante del Pacuaré',
-    costi: 'Pranzo al sacco per Bajos del Toro circa 12$ a persona.',
+    costi: "Pranzo al sacco per Bajos del Toro circa 12 $ a persona; Catarata del Toro 15 $; Braulio Carrillo 12 $. Budget giornaliero a persona, indicativo per il 2026: basso 55-80 € (cabinas a Puerto Viejo de Sarapiquí, sodas, sentieri senza guida); medio 120-170 € (lodge sul fiume con colazione, rafting o una riserva con guida); alto da 230 € (lodge nella foresta con pasti e attività comprese).",
     erroriDaEvitare: ['Fare scorta di bibite al supermercato lungo il tragitto prima di arrivare al lodge'],
     miaEsperienza:
       'La cooking class al lodge, con le empanadas preparate a mano che poi sono diventate la nostra cena, è stato un momento conviviale diverso dal resto del viaggio, più lento e più vero.',
       "luoghi": [
-        {
-          "nome": "Rafting sul Río Sarapiquí",
-          "testo": "Discesa sul fiume tra rapide e foresta. Esiste una scheda esperienza dedicata.",
-          "come": "Tour organizzato dal lodge o da operatori della zona, con guida e attrezzatura.",
-          "quando": "Mattina.",
-          "tempo": "Mezza giornata"
-        },
-        {
-          "nome": "Cooking class al lodge",
-          "testo": "Lezione di cucina costaricana, tipicamente empanadas fatte a mano che diventano la cena.",
-          "come": "Inclusa nel pacchetto del lodge.",
-          "quando": "Pomeriggio.",
-          "tempo": "2 ore",
-          "consiglio": "Un momento conviviale, più lento e più vero del resto del viaggio."
-        },
-        {
-          "nome": "Foresta del lodge",
-          "testo": "Sentieri nella foresta intorno al lodge, con uccelli, rane e scimmie.",
-          "come": "A piedi dal lodge con guida.",
-          "quando": "Alba.",
-          "tempo": "1-2 ore"
-        },
-        {
-          "nome": "Catarata del Toro",
-          "testo": "Una cascata che cade dentro un antico cratere vulcanico, nella foresta di Bajos del Toro, con quattro belvedere in alto. Escursione opzionale.",
-          "come": "In auto o con un tour; si trova circa a metà strada fra l'aeroporto di San José e La Fortuna, su strada asfaltata. Non serve prenotare.",
-          "quando": "Da lunedì a sabato 7-17; chiusa la domenica.",
-          "tempo": "Mezza giornata",
-          "costo": "15 USD (2026).",
-          "url": "https://www.catarata-del-toro.com/"
-        }
-      ],
+      {
+        "nome": "Rafting sul Río Sarapiquí",
+        "testo": "Discesa sul fiume tra rapide e foresta, con soste per acqua e frutta. Rispetto al Pacuaré è un fiume più regolare tutto l'anno, adatto anche a chi non ha mai fatto rafting. Esiste una scheda esperienza dedicata.",
+        "come": "Tour organizzato dal lodge o da operatori della zona, con guida e attrezzatura.",
+        "quando": "Mattina.",
+        "tempo": "Mezza giornata",
+        "costo": "Spesso compreso nei pacchetti dei lodge della zona",
+        "consiglio": "Scarpe chiuse da bagnare e niente oggetti di valore in barca."
+      },
+      {
+        "nome": "Cooking class al lodge",
+        "testo": "Lezione di cucina costaricana, tipicamente empanadas fatte a mano che diventano la cena.",
+        "come": "Inclusa nel pacchetto del lodge.",
+        "quando": "Pomeriggio.",
+        "tempo": "2 ore",
+        "consiglio": "Un momento conviviale, più lento e più vero del resto del viaggio.",
+        "lat": 10.32396,
+        "lng": -84.17823
+      },
+      {
+        "nome": "Foresta del lodge",
+        "testo": "Sentieri nella foresta intorno al lodge, con uccelli, rane e scimmie. All'alba la foresta è più rumorosa e si vedono più animali.",
+        "come": "A piedi dal lodge con guida.",
+        "quando": "Alba.",
+        "tempo": "1-2 ore",
+        "lat": 10.32396,
+        "lng": -84.17823
+      },
+      {
+        "nome": "Catarata del Toro",
+        "testo": "Una cascata che cade dentro un antico cratere vulcanico, nella foresta di Bajos del Toro, con quattro belvedere in alto. Escursione opzionale.",
+        "come": "In auto o con un tour, circa un'ora dalla zona di Sarapiquí; si trova circa a metà strada fra l'aeroporto di San José e La Fortuna, su strada asfaltata. Non serve prenotare.",
+        "quando": "Mattina o primo pomeriggio: l'area chiude nel tardo pomeriggio.",
+        "tempo": "Mezza giornata",
+        "costo": "15 USD, circa 13 € (2026)",
+        "url": "https://www.catarata-del-toro.com/",
+        "orari": "Da lunedì a sabato 7-17; chiusa la domenica",
+        "lat": 10.25324,
+        "lng": -84.27259
+      },
+      {
+        "nome": "Blue Falls of Costa Rica",
+        "testo": "Una serie di cascate e pozze di un azzurro latteo, colorate dai minerali di origine vulcanica, nella stessa valle di Bajos del Toro. Il sentiero scende tra scale e guadi fino a diverse cascate in cui si può fare il bagno.",
+        "come": "In auto fino a Bajos del Toro, poi a piedi lungo il sentiero; si abbina alla Catarata del Toro con un biglietto combinato.",
+        "quando": "Mattina, con la luce migliore sull'acqua; da evitare dopo forti piogge.",
+        "tempo": "2-4 ore",
+        "url": "https://www.catarata-del-toro.com/",
+        "lat": 10.25676,
+        "lng": -84.26504,
+        "consiglio": "Scarpe da trekking con buona presa e costume: le pozze sono fredde ma limpide."
+      },
+      {
+        "nome": "Estación Biológica La Selva",
+        "testo": "Una delle stazioni di ricerca sulla foresta tropicale più importanti al mondo, gestita dall'Organizzazione per gli Studi Tropicali dal 1968. Oltre 1.600 ettari di foresta pianeggiante, con sentieri attrezzati dove si vedono bradipi, pecari, tucani e rane velenose.",
+        "come": "Pochi chilometri a sud di Puerto Viejo de Sarapiquí; visite con guida naturalista su prenotazione, la mattina o il primo pomeriggio.",
+        "quando": "Mattina presto, con più fauna attiva.",
+        "tempo": "3 ore",
+        "url": "https://tropicalstudies.org/",
+        "lat": 10.42466,
+        "lng": -84.00643
+      },
+      {
+        "nome": "Reserva Biológica Tirimbina",
+        "testo": "Una riserva privata di foresta a La Virgen, con un ponte sospeso lungo sopra il fiume Sarapiquí e sentieri nella foresta. È nota anche per il tour del cioccolato, che racconta il cacao dalla pianta alla tavoletta.",
+        "come": "A La Virgen, lungo la strada principale; si visita da soli o con le visite guidate della riserva.",
+        "quando": "Mattina per i sentieri, sera per la camminata notturna.",
+        "tempo": "2-3 ore",
+        "orari": "Tutti i giorni 7-17",
+        "url": "https://tirimbina.org/",
+        "lat": 10.41673,
+        "lng": -84.12383
+      },
+      {
+        "nome": "Parco Nazionale Braulio Carrillo, settore Quebrada González",
+        "testo": "Il settore più facile da visitare di un grande parco di foresta pluviale montana, attraversato dalla strada San José-Limón. Tre sentieri brevi con belvedere sulla foresta, con buone possibilità di vedere uccelli e rane.",
+        "come": "In auto sulla Ruta 32 verso Limón, 42 km a nord-est di San José; si ferma lungo il tragitto da o per la capitale.",
+        "quando": "Mattina, prima della pioggia del pomeriggio.",
+        "tempo": "2-3 ore",
+        "orari": "Tutti i giorni 8-15.30",
+        "costo": "12 USD per gli stranieri, circa 10 €",
+        "lat": 10.16161,
+        "lng": -83.93781
+      },
+      {
+        "nome": "Puerto Viejo de Sarapiquí",
+        "testo": "Il paese di riferimento della zona, con banca, supermercati e il molo sul fiume Sarapiquí da cui partono le gite in barca. Fino all'arrivo della strada era il porto da cui si scendeva verso il Río San Juan e il Caribe.",
+        "come": "In auto o in bus da San José; in barca dal molo per le uscite sul fiume.",
+        "quando": "Di giorno, per spesa e contanti prima di tornare al lodge.",
+        "tempo": "1-2 ore",
+        "costo": "Gratis",
+        "lat": 10.45414,
+        "lng": -84.00825
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: rafting",
-            "Pranzo al lodge",
-            "Pomeriggio: cooking class"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: rafting e cooking class",
-            "Giorno 2: sentieri nella foresta del lodge, poi trasferimento verso Arenal"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: rafting sul Sarapiquí",
+          "Pranzo al lodge",
+          "Pomeriggio: cooking class, che diventa la cena"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: rafting e cooking class",
+          "Giorno 2: sentieri all'alba e Catarata del Toro con le Blue Falls, poi trasferimento verso Arenal"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: visita guidata a La Selva la mattina, ponte sospeso e tour del cioccolato a Tirimbina nel pomeriggio"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Lodge nella foresta",
-          "perChi": "chi cerca natura",
-          "testo": "Sistemazioni isolate, con attività incluse, ma lontane dai paesi."
-        }
-      ],
+      {
+        "nome": "Lodge nella foresta",
+        "perChi": "chi cerca natura",
+        "testo": "Sistemazioni isolate, con attività incluse, ma lontane dai paesi."
+      },
+      {
+        "nome": "La Virgen",
+        "perChi": "chi vuole il rafting sotto casa",
+        "testo": "Il paese lungo il fiume dove partono gli operatori di rafting, con lodge sul Sarapiquí e la riserva di Tirimbina."
+      },
+      {
+        "nome": "Puerto Viejo de Sarapiquí",
+        "perChi": "budget e servizi",
+        "testo": "Cabinas e piccoli hotel economici, con supermercati e banca; vicino a La Selva, ma meno immerso nella foresta."
+      }
+    ],
       "sapori": [
         {
           "nome": "Empanadas",
@@ -693,6 +951,48 @@ export const destinazioniCostaRica: Destinazione[] = [
         "La zona è piovosa e umida: impermeabile e ricambio.",
         "Zanzare e insetti: repellente."
       ],
+    gite: [
+      {
+        "nome": "La Fortuna e il vulcano Arenal",
+        "distanza": "circa 1 ora e 20",
+        "come": "In van o in auto, di solito come tappa successiva del viaggio.",
+        "testo": "Il vulcano a cono perfetto, la Cascada de La Fortuna e le sorgenti termali: la meta naturale dopo Sarapiquí."
+      },
+      {
+        "nome": "La Paz Waterfall Gardens",
+        "distanza": "circa 45 minuti",
+        "come": "In auto sulla Ruta 126 verso Vara Blanca.",
+        "testo": "Un parco privato con cinque cascate lungo un sentiero nella foresta, con farfallario, colibrì e animali recuperati."
+      },
+      {
+        "nome": "Vulcano Poás",
+        "distanza": "circa 1 ora e mezza",
+        "come": "In auto sulla Ruta 126; biglietto online sul portale del SINAC.",
+        "testo": "Il grande cratere attivo con la laguna acida, da vedere la mattina presto prima che arrivino le nuvole."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Il rafting sul Sarapiquí è adatto ai principianti?",
+        "risposta": "Sì: è più regolare del Pacuaré tutto l'anno e lo fanno anche famiglie e chi non ha mai provato. Si segue la guida e si indossano sempre casco e giubbotto."
+      },
+      {
+        "domanda": "Quanti giorni servono a Sarapiquí?",
+        "risposta": "Due giorni bastano per rafting, cooking class e Bajos del Toro. Con un terzo si aggiungono La Selva e Tirimbina."
+      },
+      {
+        "domanda": "La Catarata del Toro è aperta tutti i giorni?",
+        "risposta": "No: apre dal lunedì al sabato dalle 7 alle 17 ed è chiusa la domenica. L'ingresso costa 15 dollari e non serve prenotare."
+      },
+      {
+        "domanda": "Piove molto a Sarapiquí?",
+        "risposta": "È una delle zone più umide del paese e piove spesso anche in stagione secca, di solito nel pomeriggio. Impermeabile e un cambio asciutto sono indispensabili."
+      },
+      {
+        "domanda": "Conviene dormire in un lodge o in paese?",
+        "risposta": "Il lodge nella foresta è il motivo per venire qui, con attività e pasti inclusi. Puerto Viejo de Sarapiquí costa meno ed è comodo per chi viaggia in bus."
+      }
+    ],
     esperienzeSlugs: ['rafting-sarapiqui'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'La foresta pluviale intorno a un lodge a Sarapiquí, Costa Rica',
@@ -1179,85 +1479,167 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       'El Tecal: buona posizione e staff cordiale sono gli aspetti più citati, ma diverse recensioni segnalano camere e bagni non sempre curati come dovrebbero. Fascia economico-media.\n\nAlternative: economiche: Flutterby House, Cascada Verde Hostel · fascia media: Eden Tica Lodge, Hotel Por Qué No? · lusso: La Cusinga Lodge, Oxygen Jungle Villas.',
     doveMangiare: 'Gastro Park di Uvita (spesso sconto del 10% se avvisato in anticipo).',
-    comeArrivare: 'Fino a 4 ore di van da Monteverde, con sosta fotografica al ponte di Tárcoles.',
+    comeArrivare: "Da Monteverde sono fino a 4 ore di van, con la sosta fotografica al ponte di Tárcoles lungo la Costanera. Da San José si calcolano circa 3-3,5 ore in auto, prendendo la Ruta 27 fino a Orotina e poi la Costanera verso sud passando per Jacó e Quepos. Gli autobus diretti partono da San José. Da Manuel Antonio è circa 1 ora e mezza. Gli aeroporti nazionali più vicini sono Quepos e Palmar Sur. Conviene arrivare prima di sera: le strade secondarie sono poco illuminate.",
     comeSpostarsi: 'A piedi in spiaggia; van per le escursioni.',
     periodoMigliore: 'gennaio-marzo o luglio-ottobre per il whale watching (novembre-dicembre è meno favorevole)',
-    costi: 'Whale watching 70$ a persona; equitazione 52$ a persona; surf 70$ per 4 tavole al giorno; yoga 10$ a persona.',
+    costi: "Whale watching 70 $ a persona; equitazione 52 $ a persona; surf 70 $ per 4 tavole al giorno; yoga 10 $ a persona; Parco Marino Ballena 6 $. Budget giornaliero a persona, indicativo per il 2026: basso 55-85 € (ostello o cabinas, sodas, spiaggia e cascate); medio 130-190 € (hotel con piscina, whale watching o cavallo, cene al ristorante); alto da 260 € (lodge con vista sulle colline, tour privati e Isla del Caño).",
     erroriDaEvitare: ['Affidarsi a operatori improvvisati per il whale watching: meglio un operatore serio come Uvita Ballena Jorobada, e chiedere sempre dell\'assicurazione'],
     miaEsperienza:
       "A Uvita ho fatto un po' di tutto. Per il tour delle balene consiglio Uvita Ballena Jorobada. Al Rancho La Merced abbiamo fatto il giro a cavallo al tramonto in spiaggia: io sono caduto, perché non sono un cavallerizzo esperto, ma è bellissimo. Gli animali sono trattati bene, cosa per me importantissima, e sono docili. Super consigliato. Il Costa Rica è bellissimo anche per il surf, e io qui l'ho fatto con Ariel. E la Cola de la Ballena con la bassa marea resta uno dei paesaggi più belli del viaggio.",
       "luoghi": [
-        {
-          "nome": "Parco Nazionale Marino Ballena e Cola de la Ballena",
-          "testo": "Un banco di sabbia a forma di coda di balena che emerge con la bassa marea, nel Parco Marino Ballena. Uno dei paesaggi più belli del viaggio.",
-          "come": "Ingresso dalla spiaggia di Playa Uvita; il banco si raggiunge a piedi con la bassa marea.",
-          "quando": "Con bassa marea, da controllare sulle tabelle.",
-          "tempo": "1-2 ore",
-          "consiglio": "Controllare gli orari di marea: con l'alta marea il banco sparisce."
-        },
-        {
-          "nome": "Whale watching",
-          "testo": "Uscita in barca nel Parco Marino Ballena, creato nel 1989, per avvistare le megattere che vengono qui a riprodursi. Esiste una scheda esperienza dedicata.",
-          "come": "Tour da Uvita con barca di piccole dimensioni.",
-          "quando": "Due stagioni: da dicembre ad aprile arrivano le megattere dell'emisfero nord, da luglio a novembre quelle dell'emisfero sud.",
-          "tempo": "3 ore",
-          "consiglio": "Gli avvistamenti non sono garantiti, ma il paesaggio vale comunque."
-        },
-        {
-          "nome": "Ponte di Tárcoles",
-          "testo": "Un ponte sul fiume Tárcoles, lungo la strada principale, da cui si vedono grandi coccodrilli sulle rive.",
-          "come": "Sosta lungo la strada Costanera, a piedi sul ponte.",
-          "quando": "Giorno, con luce.",
-          "tempo": "15-30 minuti",
-          "consiglio": "Non scendere sulla riva: i coccodrilli sono reali."
-        },
-        {
-          "nome": "Surf e yoga",
-          "testo": "Noleggio di tavole e lezioni sulla spiaggia, e yoga al tramonto su un deck panoramico.",
-          "come": "Scuole e deck nella zona di Uvita e Dominical.",
-          "quando": "Mattina per il surf, tramonto per lo yoga.",
-          "tempo": "2 ore"
-        },
-        {
-          "nome": "Parco Nazionale Corcovado",
-          "testo": "Il parco più selvaggio del paese, nella penisola di Osa: foresta primaria, spiagge deserte, tapiri, pecari e la popolazione più grande di are rosse del Costa Rica.",
-          "come": "Solo con guida autorizzata e prenotazione (reservaciones.pnc@sinac.go.cr). In barca da Bahía Drake, Sierpe o Puerto Jiménez fino alla stazione Sirena; via terra dal settore La Leona, vicino a Playa Carate.",
-          "quando": "Tutti i giorni 8-16. Il periodo migliore va da dicembre ad aprile; a ottobre la stazione Sirena è chiusa.",
-          "tempo": "1-2 giorni",
-          "url": "https://www.visitcostarica.com/",
-          "consiglio": "Prenotare con largo anticipo: l'ente del turismo costaricano indica almeno sei mesi."
-        }
-      ],
+      {
+        "nome": "Parco Nazionale Marino Ballena e Cola de la Ballena",
+        "testo": "Un banco di sabbia a forma di coda di balena che emerge con la bassa marea, nel Parco Marino Ballena, a Punta Uvita. Con l'acqua bassa si cammina fino alla punta tra due spiagge. Uno dei paesaggi più belli del viaggio.",
+        "come": "Ingresso dalla spiaggia di Playa Uvita; il banco si raggiunge a piedi con la bassa marea.",
+        "quando": "Con bassa marea, da controllare sulle tabelle.",
+        "tempo": "1-2 ore",
+        "consiglio": "Controllare gli orari di marea: con l'alta marea il banco sparisce.",
+        "costo": "6 USD per gli stranieri, circa 5 €, solo con carta",
+        "url": "https://www.visitcostarica.com/where-to-go/protected-areas/ballena-national-marine-park",
+        "lat": 9.14689,
+        "lng": -83.76133
+      },
+      {
+        "nome": "Whale watching",
+        "testo": "Uscita in barca nel Parco Marino Ballena, creato nel 1989, per avvistare le megattere che vengono qui a riprodursi. Esiste una scheda esperienza dedicata.",
+        "come": "Tour da Uvita con barca di piccole dimensioni, con un operatore serio come Uvita Ballena Jorobada; chiedere sempre dell'assicurazione.",
+        "quando": "Due stagioni: da dicembre ad aprile arrivano le megattere dell'emisfero nord, da luglio a novembre quelle dell'emisfero sud.",
+        "tempo": "3,5-4 ore",
+        "consiglio": "Gli avvistamenti non sono garantiti, ma il paesaggio vale comunque.",
+        "costo": "70 USD a persona con acqua e frutta, circa 60 € (2026)"
+      },
+      {
+        "nome": "Ponte di Tárcoles",
+        "testo": "Un ponte sul fiume Tárcoles, lungo la strada principale, da cui si vedono grandi coccodrilli sulle rive.",
+        "come": "Sosta lungo la strada Costanera, a piedi sul ponte.",
+        "quando": "Giorno, con luce.",
+        "tempo": "15-30 minuti",
+        "consiglio": "Non scendere sulla riva: i coccodrilli sono reali.",
+        "costo": "Gratis",
+        "lat": 9.80087,
+        "lng": -84.60611
+      },
+      {
+        "nome": "Surf e yoga",
+        "testo": "Noleggio di tavole e lezioni sulla spiaggia, e yoga al tramonto su un deck panoramico.",
+        "come": "Scuole e deck nella zona di Uvita e Dominical.",
+        "quando": "Mattina per il surf, tramonto per lo yoga.",
+        "tempo": "2 ore",
+        "costo": "Tavole circa 70 USD al giorno per quattro; yoga circa 10 USD a persona, circa 9 €",
+        "consiglio": "Lo yoga al tramonto accoglie al massimo dieci persone: conviene prenotare."
+      },
+      {
+        "nome": "Parco Nazionale Corcovado",
+        "testo": "Il parco più selvaggio del paese, nella penisola di Osa: foresta primaria, spiagge deserte, tapiri, pecari e la popolazione più grande di are rosse del Costa Rica.",
+        "come": "Solo con guida autorizzata e prenotazione (reservaciones.pnc@sinac.go.cr). In barca da Bahía Drake, Sierpe o Puerto Jiménez fino alla stazione Sirena; via terra dal settore La Leona, vicino a Playa Carate.",
+        "quando": "Il periodo migliore va da dicembre ad aprile.",
+        "tempo": "1-2 giorni",
+        "url": "https://www.visitcostarica.com/",
+        "consiglio": "Prenotare con largo anticipo: l'ente del turismo costaricano indica almeno sei mesi.",
+        "orari": "Tutti i giorni 7-16; il settore Sirena è chiuso a ottobre",
+        "costo": "15 USD per gli stranieri, circa 13 €, più la guida obbligatoria",
+        "lat": 8.48048,
+        "lng": -83.58919
+      },
+      {
+        "nome": "Rancho La Merced",
+        "testo": "Un rifugio di fauna selvatica e fattoria vicino a Punta Uvita, accanto al Parco Marino Ballena, dove si fa il giro a cavallo fino alla spiaggia. I cavalli sono docili e vanno bene anche per chi non è un cavaliere esperto.",
+        "come": "Pochi minuti in auto da Uvita, sulla Costanera verso nord; prenotazione per telefono o WhatsApp.",
+        "quando": "Tardo pomeriggio, per arrivare in spiaggia al tramonto.",
+        "tempo": "2 ore",
+        "costo": "Circa 52 USD a persona, circa 45 € (2026)",
+        "url": "https://rancholamerced.com/",
+        "lat": 9.18241,
+        "lng": -83.75978
+      },
+      {
+        "nome": "Cascate Nauyaca",
+        "testo": "Due salti d'acqua uno sopra l'altro, il più alto di circa 45 metri, con una grande pozza dove si nuota. Sono la cascata più famosa della costa sud del Pacifico.",
+        "come": "In auto verso San Isidro de El General, poi a piedi su una sterrata di circa 4 km per tratta, oppure con il trasporto 4x4 degli ingressi privati.",
+        "quando": "Mattina, prima del caldo e della folla.",
+        "tempo": "Mezza giornata",
+        "lat": 9.25464,
+        "lng": -83.80754,
+        "consiglio": "Scarpe da trekking per la sterrata e scarpe da acqua per la pozza."
+      },
+      {
+        "nome": "Catarata Uvita",
+        "testo": "Una piccola cascata a pochi minuti dal paese, con uno scivolo naturale di roccia che finisce in una pozza. È il bagno d'acqua dolce più comodo di Uvita.",
+        "come": "In auto o in taxi dal centro di Uvita, poi un breve sentiero.",
+        "quando": "Mattina o nelle ore calde.",
+        "tempo": "1-2 ore",
+        "lat": 9.17696,
+        "lng": -83.73032
+      },
+      {
+        "nome": "Playa Ventanas",
+        "testo": "Una spiaggia di sabbia scura a sud di Uvita, chiusa da scogliere con grotte marine che con la bassa marea si attraversano a piedi. Il mare è spesso agitato: si viene per le grotte più che per nuotare.",
+        "come": "In auto sulla Costanera verso sud, circa 15-20 minuti, vicino a Ojochal; parcheggio custodito a pagamento.",
+        "quando": "Con la bassa marea, per entrare nelle grotte.",
+        "tempo": "2 ore",
+        "lat": 9.0895,
+        "lng": -83.67746,
+        "consiglio": "Non entrare nelle grotte con la marea che sale: l'acqua arriva in fretta."
+      },
+      {
+        "nome": "Dominical",
+        "testo": "Il paese del surf della costa sud, con onde potenti su una spiaggia lunga, bar sulla sabbia e un'atmosfera da villaggio di surfisti. Per chi è alle prime armi le onde sono spesso troppo forti.",
+        "come": "In auto o in bus sulla Costanera, circa 20 minuti a nord di Uvita.",
+        "quando": "Tardo pomeriggio, per guardare i surfisti e il tramonto.",
+        "tempo": "Mezza giornata",
+        "costo": "Gratis",
+        "lat": 9.25357,
+        "lng": -83.8627,
+        "consiglio": "Correnti forti: fare il bagno solo davanti ai bagnini."
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 giorno",
-          "tappe": [
-            "Mattina: Cola de la Ballena con bassa marea",
-            "Pranzo a Uvita",
-            "Pomeriggio: surf",
-            "Tramonto: yoga sul deck"
-          ]
-        },
-        {
-          "titolo": "2 giorni",
-          "tappe": [
-            "Giorno 1: Cola de la Ballena e spiaggia",
-            "Giorno 2: whale watching in stagione, sosta al ponte di Tárcoles verso nord"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Cola de la Ballena con la bassa marea",
+          "Pranzo a Uvita",
+          "Pomeriggio: surf",
+          "Tramonto: yoga sul deck"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Cola de la Ballena e spiaggia",
+          "Giorno 2: whale watching in stagione la mattina, Catarata Uvita nel pomeriggio e cena al Gastro Park"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: cascate Nauyaca la mattina, poi giro a cavallo al tramonto al Rancho La Merced oppure le grotte di Playa Ventanas con la bassa marea"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Uvita",
-          "perChi": "spiagge e servizi",
-          "testo": "Ristoranti, tour e negozi vicino alla spiaggia, a poca distanza dal parco."
-        },
-        {
-          "nome": "Colline sopra la costa",
-          "perChi": "chi cerca vista e silenzio",
-          "testo": "Lodge con vista sull'oceano, ma lontani dai servizi."
-        }
-      ],
+      {
+        "nome": "Uvita",
+        "perChi": "spiagge e servizi",
+        "testo": "Ristoranti, tour e negozi vicino alla spiaggia, a poca distanza dal parco."
+      },
+      {
+        "nome": "Colline sopra la costa",
+        "perChi": "chi cerca vista e silenzio",
+        "testo": "Lodge con vista sull'oceano, ma lontani dai servizi; serve l'auto e le salite sono ripide."
+      },
+      {
+        "nome": "Dominical",
+        "perChi": "surfisti e viaggiatori giovani",
+        "testo": "Ostelli, cabinas e bar sulla spiaggia; vita serale più vivace, mare più forte."
+      },
+      {
+        "nome": "Ojochal",
+        "perChi": "chi vuole mangiare bene",
+        "testo": "Un piccolo paese a sud con molti ristoranti di buon livello e case nella foresta, vicino a Playa Ventanas."
+      }
+    ],
       "sapori": [
         {
           "nome": "Casado di pesce",
@@ -1281,6 +1663,52 @@ export const destinazioniCostaRica: Destinazione[] = [
         "Il mare del Pacifico ha correnti forti: nuotare con prudenza.",
         "Furti dalle auto parcheggiate sulle spiagge: non lasciare niente a vista."
       ],
+    gite: [
+      {
+        "nome": "Isla del Caño",
+        "distanza": "circa 1 ora di barca",
+        "come": "Con un tour di snorkeling o immersione da Uvita, quando il mare lo permette.",
+        "testo": "Riserva biologica al largo della penisola di Osa, con acque limpide, tartarughe, razze e squali di barriera: uno dei punti migliori del paese per lo snorkeling."
+      },
+      {
+        "nome": "Parco Nazionale Manuel Antonio",
+        "distanza": "circa 1 ora e mezza",
+        "come": "In auto o in van sulla Costanera verso nord; biglietto online sul portale del SINAC, chiuso il martedì.",
+        "testo": "Spiagge dentro la foresta, bradipi e scimmie cappuccine sui sentieri: il parco più famoso del Pacifico."
+      },
+      {
+        "nome": "Mangrovie di Térraba-Sierpe",
+        "distanza": "circa 45 minuti",
+        "come": "In auto fino a Sierpe, poi in barca con una guida.",
+        "testo": "Una delle mangrovie più estese dell'America Centrale, con coccodrilli, aironi e scimmie lungo i canali; da Sierpe partono anche le barche per Bahía Drake."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quando si vedono le balene a Uvita?",
+        "risposta": "Le stagioni migliori sono gennaio-marzo e luglio-ottobre, quando arrivano le megattere dei due emisferi. A novembre-dicembre e maggio-giugno gli incontri sono meno probabili."
+      },
+      {
+        "domanda": "Come si vede la Cola de la Ballena?",
+        "risposta": "Con la bassa marea, entrando dal settore di Playa Uvita del Parco Marino Ballena e camminando fino alla punta. Conviene controllare le tabelle delle maree il giorno prima."
+      },
+      {
+        "domanda": "Quanto costa l'ingresso al Parco Marino Ballena?",
+        "risposta": "Per gli stranieri circa 6 dollari, pagabili solo con carta agli ingressi. Non serve prenotare."
+      },
+      {
+        "domanda": "Si può fare surf a Uvita da principianti?",
+        "risposta": "Sì, con una lezione: le onde di Uvita sono più adatte di quelle di Dominical, che sono potenti. Le tavole si noleggiano anche per la giornata."
+      },
+      {
+        "domanda": "Uvita è una buona base per il Corcovado?",
+        "risposta": "È lontana: per il Corcovado conviene dormire a Bahía Drake o a Puerto Jiménez. La visita si fa solo con guida autorizzata e va prenotata con molto anticipo."
+      },
+      {
+        "domanda": "Quanti giorni servono a Uvita?",
+        "risposta": "Tre giorni permettono balene, Cola de la Ballena, cascate e un giro a cavallo senza correre."
+      }
+    ],
     esperienzeSlugs: ['whale-watching-uvita'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "Il tramonto arancione e viola sul Pacifico, dalla spiaggia di Uvita",

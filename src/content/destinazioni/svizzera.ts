@@ -852,10 +852,10 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     doveDormire: 'Non si pernotta in quota: è una gita di giornata da Interlaken o dalle valli vicine.',
     doveMangiare: 'Ristoranti self-service in stazione, prezzi da zona di alta quota isolata.',
-    comeArrivare: 'Treno a cremagliera da Interlaken Ost, con cambi a Grindelwald o Lauterbrunnen e a Kleine Scheidegg, circa 2h20 complessive.',
+    comeArrivare: "Da Interlaken Ost si prende il treno per Grindelwald Terminal e poi la cabinovia Eiger Express fino a Eigergletscher, dove parte la Jungfraubahn: in tutto circa 1 ora e mezza. La via classica passa invece per Lauterbrunnen e Wengen, o per Grindelwald Grund, con cambio a Kleine Scheidegg, e richiede circa 2 ore e 20. Chi arriva in van lo lascia a Grindelwald Terminal o a Lauterbrunnen.",
     comeSpostarsi: 'A piedi tra le terrazze e le gallerie panoramiche in quota.',
     periodoMigliore: 'tutto l\'anno, con orari e frequenze diversi fra alta e bassa stagione; di solito le mattine sono più serene dei pomeriggi.',
-    costi: 'Biglietto A/R da Interlaken Ost circa 224-261 CHF secondo la stagione; Good Morning Ticket scontato per chi parte entro le 8.',
+    costi: "Biglietto andata e ritorno da Interlaken Ost circa 224-261 CHF (circa 240-280 €) secondo la stagione, sconto del 15% con il Good Morning Ticket da maggio a ottobre 2026, posto riservato 10 CHF. Budget basso: in van e campeggio, con la spesa al supermercato, circa 80-110 € al giorno a persona oltre al biglietto. Al ristorante un pasto semplice parte da 25-30 CHF a persona (circa 27-32 €); in quota i prezzi salgono.",
     erroriDaEvitare: [
       'Partire nel primo pomeriggio: di solito le nuvole si formano dopo mezzogiorno e coprono la vista',
       'Non prenotare online: alla cassa i biglietti costano di solito di più',
@@ -865,62 +865,178 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Il Jungfraujoch è stato una delle tappe del nostro giro in van con gli amici: il van resta giù, in cima si sale solo in treno.",
     luoghi: [
       {
-        nome: "Terrazza della Sphinx",
-        testo: "L'osservatorio e la terrazza a 3.571 metri, raggiunti con un ascensore dalla stazione. Da qui si vedono l'Aletsch, il Mönch e, nelle giornate limpide, la Foresta Nera e i Vosgi.",
-        come: "Ascensore veloce dalla stazione (Top of Europe) alla piattaforma.",
-        quando: "Mattina, con meno nuvole. Chiusa in caso di vento forte o tempesta.",
-        tempo: "45 minuti",
-        costo: "Biglietto caro, con prezzi che cambiano per data e stagione; sconti con Swiss Travel Pass o abbonamento metà prezzo. Posto riservato 10 CHF; il Good Morning Ticket del primo treno ha il 15% di sconto dal 1 maggio al 31 ottobre 2026. Prezzi e offerte sul sito ufficiale.",
-        url: "https://www.jungfrau.ch/",
-        consiglio: "Controllare la webcam prima di partire: nelle giornate coperte non si vede nulla."
+        "nome": "Terrazza della Sphinx",
+        "testo": "L'osservatorio e la terrazza a 3.571 metri, raggiunti con un ascensore dalla stazione. Da qui si vedono l'Aletsch, il Mönch e, nelle giornate limpide, la Foresta Nera e i Vosgi.",
+        "come": "Ascensore veloce dalla stazione (Top of Europe) alla piattaforma.",
+        "quando": "Mattina, con meno nuvole. Chiusa in caso di vento forte o tempesta.",
+        "tempo": "45 minuti",
+        "costo": "Biglietto caro, con prezzi che cambiano per data e stagione; sconti con Swiss Travel Pass o abbonamento metà prezzo. Posto riservato 10 CHF; il Good Morning Ticket del primo treno ha il 15% di sconto dal 1 maggio al 31 ottobre 2026. Prezzi e offerte sul sito ufficiale.",
+        "orari": "Aperta tutto l'anno negli orari della ferrovia, che cambiano tra estate e inverno; chiusa con vento forte.",
+        "lat": 46.5475,
+        "lng": 7.985,
+        "url": "https://www.jungfrau.ch/",
+        "consiglio": "Controllare la webcam prima di partire: nelle giornate coperte non si vede nulla."
       },
       {
-        nome: "Palazzo di ghiaccio",
-        testo: "Un tunnel scavato nel ghiacciaio, con sculture di ghiaccio, a circa 3.450 metri. Ha pavimento scivoloso e temperatura sotto zero tutto l'anno.",
-        come: "Incluso nel biglietto, accanto alla stazione.",
-        quando: "Tutto l'anno.",
-        tempo: "30 minuti",
-        consiglio: "Indossare scarpe con suola antiscivolo e guanti."
+        "nome": "Palazzo di ghiaccio",
+        "testo": "Un tunnel scavato nel ghiacciaio, con sculture di ghiaccio, a circa 3.450 metri. Ha pavimento scivoloso e temperatura sotto zero tutto l'anno.",
+        "come": "Incluso nel biglietto, accanto alla stazione.",
+        "quando": "Tutto l'anno.",
+        "tempo": "30 minuti",
+        "costo": "Compreso nel biglietto del Jungfraujoch.",
+        "orari": "Tutto l'anno, negli orari della ferrovia.",
+        "lat": 46.5474,
+        "lng": 7.9827,
+        "url": "https://www.jungfrau.ch/",
+        "consiglio": "Indossare scarpe con suola antiscivolo e guanti."
       },
       {
-        nome: "Ghiacciaio dell'Aletsch e passeggiata sul Plateau",
-        testo: "Il più lungo ghiacciaio delle Alpi, oltre 20 chilometri, e il sentiero battuto sulla neve verso la capanna Mönchsjoch. La camminata è facile ma in alta quota.",
-        come: "Si esce dalla stazione e si segue il sentiero segnalato sul plateau.",
-        quando: "Mattina; la neve è più compatta e il tempo migliore.",
-        tempo: "1 ora",
-        consiglio: "L'aria è rarefatta: camminare piano e bere acqua."
+        "nome": "Ghiacciaio dell'Aletsch e passeggiata sul Plateau",
+        "testo": "Il più lungo ghiacciaio delle Alpi, oltre 20 chilometri, e il sentiero battuto sulla neve verso la capanna Mönchsjoch. La camminata è facile ma in alta quota.",
+        "come": "Si esce dalla stazione e si segue il sentiero segnalato sul plateau.",
+        "quando": "Mattina; la neve è più compatta e il tempo migliore.",
+        "tempo": "1 ora",
+        "orari": "Il sentiero sul plateau è aperto quando il tempo lo consente.",
+        "lat": 46.5474,
+        "lng": 7.9827,
+        "url": "https://www.jungfrau.ch/",
+        "consiglio": "L'aria è rarefatta: camminare piano e bere acqua."
       },
       {
-        nome: "Fermata Eismeer",
-        testo: "Sulla salita il treno corre in galleria dentro l'Eiger e il Mönch e si ferma alla stazione Eismeer, a circa 3.160 metri. Dalle vetrate scavate nella roccia si guarda il ghiacciaio sottostante. La sosta dura circa 5 minuti, ma è il momento in cui si capisce l'impresa della ferrovia, finita nel 1912.",
-        come: "Breve sosta compresa nel viaggio, solo in salita.",
-        quando: "Tutto l'anno.",
-        tempo: "pochi minuti",
-        consiglio: "Sedersi in modo da scendere subito: le vetrate sono poche e si affollano."
+        "nome": "Fermata Eismeer",
+        "testo": "Sulla salita il treno corre in galleria dentro l'Eiger e il Mönch e si ferma alla stazione Eismeer, a circa 3.160 metri. Dalle vetrate scavate nella roccia si guarda il ghiacciaio sottostante. La sosta dura circa 5 minuti, ma è il momento in cui si capisce l'impresa della ferrovia, finita nel 1912.",
+        "come": "Breve sosta compresa nel viaggio, solo in salita.",
+        "quando": "Tutto l'anno.",
+        "tempo": "pochi minuti",
+        "costo": "Compresa nel biglietto.",
+        "lat": 46.5723,
+        "lng": 8.0102,
+        "url": "https://www.jungfrau.ch/",
+        "consiglio": "Sedersi in modo da scendere subito: le vetrate sono poche e si affollano."
+      },
+      {
+        "nome": "Alpine Sensation",
+        "testo": "Un percorso coperto che collega gli spazi della stazione con installazioni sulla storia della ferrovia e sulla vita in quota. Ripara dal freddo e spiega come sono stati scavati i tunnel tra il 1896 e il 1912.",
+        "come": "All'interno del complesso della stazione, seguendo le indicazioni del giro circolare.",
+        "quando": "Tutto l'anno, utile anche con il brutto tempo.",
+        "tempo": "15 minuti",
+        "costo": "Compreso nel biglietto.",
+        "orari": "Tutto l'anno, negli orari della ferrovia.",
+        "lat": 46.5474,
+        "lng": 7.9827,
+        "url": "https://www.jungfrau.ch/"
+      },
+      {
+        "nome": "Lindt Swiss Chocolate Heaven",
+        "testo": "Il negozio e spazio espositivo della Lindt dentro la stazione, con il racconto della lavorazione del cioccolato. È una sosta turistica, ma è anche il punto più caldo del giro in cima.",
+        "come": "All'interno del complesso della stazione.",
+        "quando": "A fine visita, prima di riprendere il treno.",
+        "tempo": "10 minuti",
+        "orari": "Tutto l'anno, negli orari della ferrovia.",
+        "lat": 46.5474,
+        "lng": 7.9827,
+        "url": "https://www.jungfrau.ch/"
+      },
+      {
+        "nome": "Sentiero per la Mönchsjochhütte",
+        "testo": "Dal plateau una pista battuta sulla neve porta alla capanna Mönchsjoch, sul colle sotto il Mönch. È il modo per stare sul ghiacciaio lontano dalla folla della stazione, ma si cammina sopra i 3.500 metri.",
+        "come": "Si esce dalla galleria Sphinx sul lato del ghiacciaio e si segue la pista segnata; il resto del ghiacciaio è fuori percorso e richiede attrezzatura.",
+        "quando": "Solo con bel tempo e pista aperta.",
+        "tempo": "1,5-2 ore andata e ritorno",
+        "lat": 46.5547,
+        "lng": 8.0057,
+        "consiglio": "Occhiali da sole e crema: la neve riflette molto anche con il cielo velato."
+      },
+      {
+        "nome": "Kleine Scheidegg",
+        "testo": "Il passo a circa 2.060 metri tra Grindelwald e Wengen, ai piedi della parete nord dell'Eiger. Qui si cambia per la Jungfraubahn sulla via classica, e d'estate partono diversi sentieri panoramici.",
+        "come": "In treno da Lauterbrunnen via Wengen o da Grindelwald Grund.",
+        "quando": "Al rientro, quando c'è tempo per una passeggiata prima del treno a valle.",
+        "tempo": "1 ora",
+        "lat": 46.5852,
+        "lng": 7.9613,
+        "url": "https://www.jungfrau.ch/",
+        "consiglio": "Salire da un lato e scendere dall'altro: il biglietto andata e ritorno permette percorsi diversi."
+      },
+      {
+        "nome": "Eigergletscher e l'Eiger Trail",
+        "testo": "La stazione a circa 2.320 metri dove arriva la cabinovia Eiger Express e parte l'ultimo tratto della Jungfraubahn. Da qui l'Eiger Trail scende verso Alpiglen sotto la parete nord, con la roccia a pochi metri.",
+        "come": "Con l'Eiger Express da Grindelwald Terminal o in treno da Kleine Scheidegg.",
+        "quando": "Estate e inizio autunno, quando il sentiero è sgombro dalla neve.",
+        "tempo": "15 minuti per la sosta, mezza giornata con il sentiero",
+        "lat": 46.5748,
+        "lng": 7.9749,
+        "url": "https://www.jungfrau.ch/",
+        "consiglio": "L'Eiger Trail è in discesa ma su terreno sassoso: scarpe da trekking."
+      },
+      {
+        "nome": "Grindelwald Terminal ed Eiger Express",
+        "testo": "La stazione di valle della cabinovia trifune che sale in circa 15 minuti a Eigergletscher. Con l'Eiger Express il viaggio da Interlaken Ost al Jungfraujoch scende a circa 1 ora e mezza.",
+        "come": "In treno da Interlaken Ost; ampio parcheggio coperto per chi arriva in auto o in van.",
+        "quando": "Partenza la mattina presto.",
+        "tempo": "15 minuti di cabinovia",
+        "lat": 46.624,
+        "lng": 8.0209,
+        "url": "https://www.jungfrau.ch/",
+        "consiglio": "In alta stagione conviene il posto riservato (10 CHF, circa 11 €) sulla tratta per la cima."
+      },
+      {
+        "nome": "Wengen",
+        "testo": "Un villaggio senza auto su un terrazzo sopra la valle di Lauterbrunnen, sulla linea che sale a Kleine Scheidegg. Ha una vista ampia sulla valle e sulla Jungfrau ed è una base più quieta di Grindelwald.",
+        "come": "In treno da Lauterbrunnen; il van resta nel parcheggio di Lauterbrunnen.",
+        "quando": "Tutto l'anno; è più tranquillo la sera, quando partono i gruppi.",
+        "tempo": "1-2 ore",
+        "lat": 46.6054,
+        "lng": 7.9217
       }
     ],
     programmi: [
       {
-        titolo: "1 giorno",
-        tappe: [
+        "titolo": "1 giorno",
+        "tappe": [
           "Partenza da Interlaken Ost entro le 8",
           "Cambio a Kleine Scheidegg",
           "Terrazza della Sphinx e palazzo di ghiaccio",
           "Passeggiata sul plateau",
           "Rientro nel primo pomeriggio"
         ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: primo treno da Interlaken Ost, Eiger Express e Jungfraujoch, rientro via Kleine Scheidegg e Wengen",
+          "Giorno 2: Eiger Express fino a Eigergletscher, Eiger Trail fino ad Alpiglen e treno per Grindelwald"
+        ]
+      },
+      {
+        "titolo": "3 giorni nella regione",
+        "tappe": [
+          "Giorno 1: Jungfraujoch con partenza presto",
+          "Giorno 2: Kleine Scheidegg, Männlichen e discesa a Wengen",
+          "Giorno 3: valle di Lauterbrunnen, oppure First da Grindelwald"
+        ]
       }
     ],
     zone: [
       {
-        nome: "Interlaken",
-        perChi: "chi parte la mattina presto",
-        testo: "Base comoda per il primo treno; alloggi per ogni budget."
+        "nome": "Interlaken",
+        "perChi": "chi parte la mattina presto",
+        "testo": "Base comoda per il primo treno; alloggi per ogni budget."
       },
       {
-        nome: "Grindelwald",
-        perChi: "chi vuole il treno diretto",
-        testo: "Da Grindelwald si sale con la cremagliera verso Kleine Scheidegg e in meno cambi."
+        "nome": "Grindelwald",
+        "perChi": "chi vuole il treno diretto",
+        "testo": "Da Grindelwald si sale con la cremagliera verso Kleine Scheidegg e in meno cambi."
+      },
+      {
+        "nome": "Wengen",
+        "perChi": "chi vuole un villaggio senza auto",
+        "testo": "Sulla linea per Kleine Scheidegg, con la vista sulla valle. Ci si arriva solo in treno, quindi l'auto o il van restano a Lauterbrunnen."
+      },
+      {
+        "nome": "Lauterbrunnen",
+        "perChi": "chi viaggia in van",
+        "testo": "Fondovalle con campeggi attrezzati e treni per Wengen e Kleine Scheidegg. Il campeggio libero nella valle è vietato."
       }
     ],
     sapori: [
@@ -941,6 +1057,52 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Il mal di quota può colpire anche a 3.400 metri: salire con calma, bere e fermarsi se si ha mal di testa.",
       "Il biglietto è tra i più cari del Paese: confrontare le tariffe del Good Morning Ticket.",
       "Non tenere i documenti nelle tasche esterne: vento e guanti rendono scomodo cercarli."
+    ],
+    gite: [
+      {
+        "nome": "Grindelwald e il First",
+        "distanza": "circa 45 minuti di discesa dalla cima a Grindelwald",
+        "come": "In treno o con l'Eiger Express fino a Grindelwald, poi la cabinovia del First.",
+        "testo": "Il Cliff Walk sospeso sulla parete e il sentiero per il Bachalpsee, il lago che con l'aria ferma riflette Eiger, Mönch e Jungfrau. Andata e ritorno del First 72-76 CHF (circa 77-81 €)."
+      },
+      {
+        "nome": "Valle di Lauterbrunnen",
+        "distanza": "circa 20 minuti di treno da Interlaken Ost",
+        "come": "Treno fino a Lauterbrunnen, poi bus postale per le cascate.",
+        "testo": "La valle glaciale delle 72 cascate, con la Staubbach che cade per circa 300 metri vicino al paese e le Trümmelbachfälle dentro la roccia."
+      },
+      {
+        "nome": "Schynige Platte",
+        "distanza": "circa 1 ora da Interlaken Ost",
+        "come": "Treno fino a Wilderswil, poi la cremagliera storica.",
+        "testo": "Un balcone di fronte alla catena Eiger-Mönch-Jungfrau, con un giardino botanico alpino. Aperta indicativamente da metà giugno a fine ottobre; andata e ritorno circa 68 CHF (circa 73 €)."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanto costa salire al Jungfraujoch?",
+        "risposta": "Da Interlaken Ost l'andata e ritorno costa indicativamente 224-261 CHF secondo la stagione, cioè circa 240-280 €. Con Swiss Travel Pass o abbonamento metà prezzo si paga meno, e il Good Morning Ticket del primo treno ha il 15% di sconto dal 1 maggio al 31 ottobre 2026."
+      },
+      {
+        "domanda": "Quanto tempo serve?",
+        "risposta": "Una giornata intera. Il viaggio da Interlaken Ost dura circa 1 ora e mezza con l'Eiger Express, e in cima servono 2-3 ore per terrazze, palazzo di ghiaccio e plateau."
+      },
+      {
+        "domanda": "Conviene prenotare il posto?",
+        "risposta": "Nelle giornate di bel tempo d'estate sì: il posto riservato costa 10 CHF, circa 11 €, e garantisce la corsa scelta sull'ultima tratta."
+      },
+      {
+        "domanda": "Si soffre il mal di quota?",
+        "risposta": "A 3.454 metri capita di avere mal di testa o fiato corto. Meglio muoversi piano, bere e scendere se i sintomi peggiorano; i bambini piccoli e chi ha problemi cardiaci dovrebbero chiedere al medico prima di salire."
+      },
+      {
+        "domanda": "Ha senso andarci con il cielo coperto?",
+        "risposta": "Poco: con le nuvole basse dalle terrazze non si vede nulla. Conviene guardare le webcam della ferrovia la mattina e spostare la salita a un altro giorno se la cima è coperta."
+      },
+      {
+        "domanda": "Si può dormire in cima?",
+        "risposta": "No, alla stazione non ci sono alloggi. Si dorme a Interlaken, Grindelwald, Wengen o Lauterbrunnen e si sale in giornata."
+      }
     ],
     esperienzeSlugs: ['jungfraujoch-top-of-europe'],
     tripSlugs: ['svizzera-alpi-van'],
@@ -971,10 +1133,10 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     doveDormire: 'Nessun campeggio dentro Mürren (paese senza auto): si dorme nei campeggi del fondovalle a Lauterbrunnen o Stechelberg.',
     doveMangiare: 'Ristoranti di paese con cucina di montagna; il Piz Gloria in cima allo Schilthorn ha un menù turistico con prezzi da terrazza panoramica.',
-    comeArrivare: 'Da Lauterbrunnen, funivia da Stechelberg oppure cremagliera via Grütschalp.',
+    comeArrivare: "Da Lauterbrunnen ci sono due strade. La prima è in bus postale o in auto fino a Stechelberg, in fondo alla valle, e da lì la funivia sale a Gimmelwald, Mürren, Birg e Schilthorn, in circa mezz'ora fino in cima. La seconda è la funivia dalla stazione di Lauterbrunnen a Grütschalp e poi il trenino fino a Mürren. Il van resta a Lauterbrunnen o a Stechelberg.",
     comeSpostarsi: 'Mürren si gira a piedi; per lo Schilthorn e per Gimmelwald servono funivia o via ferrata.',
     periodoMigliore: 'da giugno a ottobre; la via ferrata è aperta solo in questa finestra.',
-    costi: 'Funivia Schilthorn circa 115 CHF A/R da Stechelberg, 91 CHF da Mürren.',
+    costi: "Funivia Schilthorn 115 CHF andata e ritorno da Stechelberg (circa 123 €) e 91,40 CHF da Mürren (circa 98 €); Allmendhubel 16 CHF da Mürren. Budget basso: campeggio in fondovalle e spesa al supermercato, circa 80-110 € al giorno a persona esclusi gli impianti. Un pasto semplice al ristorante parte da 25-30 CHF (circa 27-32 €).",
     erroriDaEvitare: [
       'Affrontare la via ferrata senza kit omologato o senza aver fatto prima un percorso più semplice',
       'Lasciare il van a Lauterbrunnen pensando di guidare fino a Mürren: il paese non è raggiungibile in auto',
@@ -1012,63 +1174,145 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Mürren e lo Schilthorn erano una delle zone del nostro giro in van con gli amici nella Jungfrau Region.",
     luoghi: [
       {
-        nome: "Schilthorn e Piz Gloria",
-        testo: "La vetta a 2.970 metri con il ristorante girevole che compare in un film di James Bond del 1969. Dalla terrazza si vedono Eiger, Mönch e Jungfrau.",
-        come: "Funivia da Stechelberg (fondovalle) o da Mürren, con più tronchi.",
-        quando: "Mattina, con la luce migliore. Chiusa al vento forte.",
-        tempo: "2-3 ore",
-        costo: "Andata e ritorno 115 CHF da Stechelberg e 91,40 CHF da Mürren, validi fino al 12/12/2026; forti sconti con Swiss Travel Pass.",
-        url: "https://www.schilthorn.ch/",
-        consiglio: "Dal fondovalle la salita è più lunga ma regala vedute sulle pareti."
+        "nome": "Schilthorn e Piz Gloria",
+        "testo": "La vetta a 2.970 metri con il ristorante girevole che compare in un film di James Bond del 1969. Dalla terrazza si vedono Eiger, Mönch e Jungfrau.",
+        "come": "Funivia da Stechelberg (fondovalle) o da Mürren, con più tronchi.",
+        "quando": "Mattina, con la luce migliore. Chiusa al vento forte.",
+        "tempo": "2-3 ore",
+        "costo": "Andata e ritorno 115 CHF da Stechelberg e 91,40 CHF da Mürren, validi fino al 12/12/2026; forti sconti con Swiss Travel Pass.",
+        "orari": "Tutto l'anno; con tempesta il servizio può essere ridotto o sospeso. La tratta diretta Stechelberg-Mürren è ferma per manutenzione dal 16 al 20 novembre 2026: si passa da Gimmelwald.",
+        "lat": 46.5572,
+        "lng": 7.8353,
+        "url": "https://www.schilthorn.ch/",
+        "consiglio": "Dal fondovalle la salita è più lunga ma regala vedute sulle pareti."
       },
       {
-        nome: "Mürren",
-        testo: "Un villaggio senza auto sull'altopiano, di fronte alla parete nord dell'Eiger. Un posto per la vista, non per i monumenti.",
-        come: "Funivia da Stechelberg o treno da Grütschalp.",
-        quando: "Tutto l'anno.",
-        tempo: "2 ore",
-        consiglio: "Camminare fino al Allmendhubel per la vista sulle montagne."
+        "nome": "Mürren",
+        "testo": "Un villaggio senza auto sull'altopiano, di fronte alla parete nord dell'Eiger. Un posto per la vista, non per i monumenti.",
+        "come": "Funivia da Stechelberg o treno da Grütschalp.",
+        "quando": "Tutto l'anno.",
+        "tempo": "2 ore",
+        "costo": "Funivia Stechelberg-Mürren 11,80 CHF solo andata e 23,60 CHF andata e ritorno (circa 13 e 25 €), tariffe valide fino al 12/12/2026.",
+        "lat": 46.5594,
+        "lng": 7.8922,
+        "url": "https://schilthorn.ch/",
+        "consiglio": "Camminare fino al Allmendhubel per la vista sulle montagne."
       },
       {
-        nome: "Gimmelwald",
-        testo: "Un minuscolo villaggio agricolo a metà parete, senza auto, raggiungibile in funivia o a piedi da Mürren. Fienili in legno e mucche al pascolo. È il punto più quieto della valle, con la stessa vista di Mürren e pochissimi posti letto.",
-        come: "Sentiero in discesa da Mürren, oppure la funivia per Stechelberg, che ferma qui.",
-        quando: "Estate e autunno.",
-        tempo: "1 ora e mezza",
-        consiglio: "È un villaggio vivo: rispettare le proprietà e non entrare nelle stalle."
+        "nome": "Gimmelwald",
+        "testo": "Un minuscolo villaggio agricolo a metà parete, senza auto, raggiungibile in funivia o a piedi da Mürren. Fienili in legno e mucche al pascolo. È il punto più quieto della valle, con la stessa vista di Mürren e pochissimi posti letto.",
+        "come": "Sentiero in discesa da Mürren, oppure la funivia per Stechelberg, che ferma qui.",
+        "quando": "Estate e autunno.",
+        "tempo": "1 ora e mezza",
+        "orari": "La funivia Stechelberg-Gimmelwald-Mürren è chiusa per revisione dal 19 al 30 ottobre 2026 e dal 26 aprile al 7 maggio 2027, con bus navetta via Mürren.",
+        "lat": 46.5469,
+        "lng": 7.8936,
+        "url": "https://schilthorn.ch/",
+        "consiglio": "È un villaggio vivo: rispettare le proprietà e non entrare nelle stalle."
       },
       {
-        nome: "Birg e il Thrill Walk",
-        testo: "La stazione intermedia della funivia dello Schilthorn, sospesa sopra la valle. Da qui parte il Thrill Walk, un sentiero attrezzato che scende lungo le pareti verticali della roccia. Si vede la parete nord dell'Eiger da vicino, con il vuoto sotto i piedi.",
-        come: "Si scende a Birg con lo stesso biglietto della funivia dello Schilthorn.",
-        quando: "Quando la funivia è aperta; con ghiaccio la passerella può essere chiusa.",
-        tempo: "30-45 minuti",
-        costo: "Compreso nel biglietto della funivia.",
-        consiglio: "Chi soffre di vertigini può fermarsi alla terrazza della stazione, che ha la stessa vista."
+        "nome": "Birg e il Thrill Walk",
+        "testo": "La stazione intermedia della funivia dello Schilthorn, sospesa sopra la valle. Da qui parte il Thrill Walk, un sentiero attrezzato che scende lungo le pareti verticali della roccia. Si vede la parete nord dell'Eiger da vicino, con il vuoto sotto i piedi.",
+        "come": "Si scende a Birg con lo stesso biglietto della funivia dello Schilthorn.",
+        "quando": "Quando la funivia è aperta; con ghiaccio la passerella può essere chiusa.",
+        "tempo": "30-45 minuti",
+        "costo": "Compreso nel biglietto della funivia.",
+        "lat": 46.5596,
+        "lng": 7.8463,
+        "url": "https://schilthorn.ch/",
+        "consiglio": "Chi soffre di vertigini può fermarsi alla terrazza della stazione, che ha la stessa vista."
+      },
+      {
+        "nome": "Allmendhubel",
+        "testo": "Il poggio sopra Mürren, a circa 1.900 metri, raggiunto da una funicolare in pochi minuti. D'estate c'è il Flower Trail, un sentiero facile tra i fiori dei prati alpini, e un parco giochi per bambini; la vista sull'Eiger, il Mönch e la Jungfrau è aperta come dallo Schilthorn, ma più vicina.",
+        "come": "Funicolare dal paese di Mürren, a pochi minuti a piedi dalla stazione.",
+        "quando": "Da giugno ad agosto per i fiori; al tramonto per la luce sulle pareti.",
+        "tempo": "1-2 ore",
+        "costo": "Andata e ritorno 16 CHF da Mürren (circa 17 €), 39,60 CHF da Stechelberg (circa 42 €), tariffe valide fino al 12/12/2026.",
+        "orari": "Chiusa dal 19 ottobre all'11 dicembre 2026 e dal 5 aprile al 28 maggio 2027.",
+        "lat": 46.5642,
+        "lng": 7.8878,
+        "url": "https://schilthorn.ch/",
+        "consiglio": "Si può scendere a piedi fino a Mürren in circa mezz'ora."
+      },
+      {
+        "nome": "Via ferrata Mürren-Gimmelwald",
+        "testo": "Un percorso attrezzato di circa 2,2 km che, cosa rara, scende invece di salire, lungo le pareti tra Mürren e Gimmelwald. Il tratto più noto è un ponte sospeso di circa 90 metri sopra la cascata del Mürrenbach. Difficoltà media-alta, circa 400 metri di dislivello in discesa.",
+        "come": "Partenza a Mürren, arrivo a Gimmelwald; rientro con la funivia. Kit da ferrata omologato e casco obbligatori, noleggio in paese.",
+        "quando": "Da giugno a ottobre, con roccia asciutta.",
+        "tempo": "2-3 ore",
+        "consiglio": "Chi non ha mai fatto una ferrata dovrebbe provarne prima una più facile, o andare con una guida."
+      },
+      {
+        "nome": "Grütschalp e la ferrovia per Mürren",
+        "testo": "L'altra strada per Mürren: una funivia sale da Lauterbrunnen a Grütschalp e da lì un trenino corre in piano lungo il bordo dell'altopiano fino a Mürren. Accanto ai binari passa un sentiero panoramico facile, con l'Eiger, il Mönch e la Jungfrau di fronte per tutto il tragitto.",
+        "come": "Funivia dalla stazione di Lauterbrunnen, poi treno; oppure a piedi da Grütschalp a Mürren.",
+        "quando": "Mattina, con la luce sulle cime.",
+        "tempo": "30 minuti in treno, 1-1,5 ore a piedi",
+        "costo": "Il giro circolare Lauterbrunnen-Schilthorn via Grütschalp con ritorno da Stechelberg costa 115 CHF (circa 123 €), valido fino al 12/12/2026.",
+        "lat": 46.5965,
+        "lng": 7.8909,
+        "consiglio": "Salire da Grütschalp e scendere da Stechelberg permette di vedere tutti e due i lati della valle."
+      },
+      {
+        "nome": "Stechelberg",
+        "testo": "L'ultimo paese in fondo alla valle di Lauterbrunnen, dove parte la funivia per Mürren e lo Schilthorn. Da qui si vede la cascata del Mürrenbach scendere dalla parete, e il fondovalle è il punto più quieto della valle.",
+        "come": "In auto o van, o in bus postale da Lauterbrunnen; parcheggio alla stazione della funivia.",
+        "quando": "La mattina presto, per prendere la prima funivia.",
+        "tempo": "30 minuti",
+        "costo": "Andata e ritorno per lo Schilthorn 115 CHF (circa 123 €), fino al 12/12/2026.",
+        "orari": "La funivia diretta per Mürren è ferma per manutenzione dal 16 al 20 novembre 2026.",
+        "lat": 46.5555,
+        "lng": 7.9014,
+        "url": "https://schilthorn.ch/"
       }
     ],
     programmi: [
       {
-        titolo: "1 giorno",
-        tappe: [
+        "titolo": "1 giorno",
+        "tappe": [
           "Funivia per lo Schilthorn di mattina",
           "Colazione a Piz Gloria",
           "Discesa a Mürren",
           "Camminata a Gimmelwald",
           "Rientro a Stechelberg"
         ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: salita da Lauterbrunnen a Grütschalp, sentiero panoramico fino a Mürren, Allmendhubel nel pomeriggio",
+          "Giorno 2: Schilthorn di mattina con sosta a Birg e Thrill Walk, poi via ferrata o sentiero fino a Gimmelwald e funivia per Stechelberg"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: fondovalle di Lauterbrunnen con le Trümmelbachfälle, oppure Wengen e Kleine Scheidegg"
+        ]
       }
     ],
     zone: [
       {
-        nome: "Mürren",
-        perChi: "chi vuole vista e silenzio",
-        testo: "Sull'altopiano, senza auto; pochi servizi e prezzi alti."
+        "nome": "Mürren",
+        "perChi": "chi vuole vista e silenzio",
+        "testo": "Sull'altopiano, senza auto; pochi servizi e prezzi alti."
       },
       {
-        nome: "Lauterbrunnen",
-        perChi: "chi vuole risparmiare",
-        testo: "Fondovalle, più servizi e meno cari, con funivia per Mürren."
+        "nome": "Lauterbrunnen",
+        "perChi": "chi vuole risparmiare",
+        "testo": "Fondovalle, più servizi e meno cari, con funivia per Mürren."
+      },
+      {
+        "nome": "Gimmelwald",
+        "perChi": "chi cerca il silenzio",
+        "testo": "Pochissimi posti letto in un villaggio agricolo senza auto, collegato dalla funivia. La sera non c'è quasi nulla aperto."
+      },
+      {
+        "nome": "Stechelberg",
+        "perChi": "chi viaggia in van",
+        "testo": "In fondo alla valle, con un campeggio attrezzato vicino alla funivia per lo Schilthorn. Si dorme in regola e si sale presto la mattina."
       }
     ],
     sapori: [
@@ -1089,6 +1333,52 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Con nuvole basse lo Schilthorn non si vede: controllare le webcam.",
       "La sera la funivia ferma presto: segnarsi l'ultima corsa.",
       "Gimmelwald è un villaggio residenziale: non fare rumore la sera."
+    ],
+    gite: [
+      {
+        "nome": "Trümmelbachfälle e Staubbach",
+        "distanza": "pochi chilometri, 10 minuti da Stechelberg",
+        "come": "In bus postale o in auto lungo il fondovalle.",
+        "testo": "Dieci cascate glaciali dentro la montagna, viste da gallerie e da un ascensore scavato nella roccia, e la Staubbach che cade per circa 300 metri vicino a Lauterbrunnen."
+      },
+      {
+        "nome": "Wengen e Kleine Scheidegg",
+        "distanza": "dall'altra parte della valle, circa 1 ora da Lauterbrunnen",
+        "come": "Treno da Lauterbrunnen.",
+        "testo": "Il versante opposto della valle, con la parete nord dell'Eiger da vicino e i sentieri tra Kleine Scheidegg e il Männlichen."
+      },
+      {
+        "nome": "Jungfraujoch",
+        "distanza": "giornata intera",
+        "come": "Treno da Lauterbrunnen via Wengen e Kleine Scheidegg.",
+        "testo": "La stazione a 3.454 metri sul ghiacciaio dell'Aletsch, da vedere in una giornata di cielo sereno."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanto costa salire allo Schilthorn?",
+        "risposta": "Andata e ritorno 115 CHF da Stechelberg (circa 123 €) e 91,40 CHF da Mürren (circa 98 €), tariffe valide fino al 12/12/2026. Con Swiss Travel Pass o abbonamento metà prezzo si paga molto meno."
+      },
+      {
+        "domanda": "Si può arrivare a Mürren in auto?",
+        "risposta": "No, il paese è senza auto. Si lascia il mezzo a Stechelberg o a Lauterbrunnen e si sale in funivia o con la ferrovia via Grütschalp."
+      },
+      {
+        "domanda": "Meglio Mürren o Wengen?",
+        "risposta": "Mürren ha la vista più aperta sulla catena Eiger-Mönch-Jungfrau ed è più vicino allo Schilthorn; Wengen è sulla linea per Kleine Scheidegg e il Jungfraujoch. Sono due versanti della stessa valle."
+      },
+      {
+        "domanda": "La via ferrata è adatta ai principianti?",
+        "risposta": "Non del tutto: è di difficoltà media-alta, con tratti esposti. Serve kit omologato e un'esperienza minima, oppure una guida."
+      },
+      {
+        "domanda": "Quanto tempo serve per lo Schilthorn?",
+        "risposta": "Con la sosta a Birg e il pranzo o la colazione al Piz Gloria, mezza giornata. La salita da Stechelberg dura circa mezz'ora."
+      },
+      {
+        "domanda": "Quando è aperta la funivia?",
+        "risposta": "Tutto l'anno, salvo i periodi di revisione delle singole tratte e le giornate di tempesta. Le chiusure programmate sono sul sito della funivia."
+      }
     ],
     esperienzeSlugs: ['via-ferrata-muerren-gimmelwald'],
     tripSlugs: ['svizzera-alpi-van'],
@@ -1118,10 +1408,10 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     doveDormire: 'Nessuna sosta prevista: è una giornata di trasferimento tra la Jungfrau Region e il Vallese.',
     doveMangiare: 'Pochi rifugi e punti di ristoro sui passi, con prezzi da alta quota isolata: conviene avere provviste nel van.',
-    comeArrivare: 'Da Interlaken o dalla zona di Lauterbrunnen-Mürren, circa 2-3 ore di guida con soste.',
+    comeArrivare: "Da Interlaken si guida lungo il Lago di Brienz fino a Meiringen e Innertkirchen, dove inizia la salita del Grimsel; dalla zona di Lauterbrunnen e Mürren servono circa 2-3 ore fino ai passi con le soste. Dal valico si scende a Gletsch e si risale alla Furka. In bus, d'estate i bus postali collegano Meiringen, il Grimsel e Oberwald.",
     comeSpostarsi: 'Solo in auto o van; non esiste un collegamento pubblico diretto lungo l\'intero tracciato.',
     periodoMigliore: 'da giugno a ottobre; le date di apertura cambiano ogni anno secondo la neve rimasta.',
-    costi: 'Nessun pedaggio sulla strada.',
+    costi: "La strada è senza pedaggio; per arrivarci in autostrada serve la vignetta annuale da circa 40 CHF. Benzina indicativamente 2,00-2,15 CHF al litro, diesel 2,25-2,45 CHF. Gelmerbahn 40 CHF andata e ritorno (circa 43 €). Budget basso: in van, con la spesa fatta a valle, circa 80-110 € al giorno a persona; sui passi rifugi e ristoranti hanno prezzi da alta quota.",
     erroriDaEvitare: [
       'Programmare il trasferimento senza controllare prima che i due passi siano aperti, soprattutto a inizio giugno o a fine ottobre',
       'Non sapere che il Furka ha un\'alternativa in treno-navetta (Furka Autoverlad) quando il passo è chiuso alla circolazione ordinaria',
@@ -1130,52 +1420,174 @@ export const destinazioniSvizzera: Destinazione[] = [
       "Grimselpass e Furkapass sono stati il trasferimento in van con gli amici dalla Jungfrau Region verso il Vallese, sulla strada per Zermatt.",
     luoghi: [
       {
-        nome: "Passo del Grimsel",
-        testo: "Un valico a 2.164 metri tra il Canton Berna e il Vallese, in un paesaggio di laghi artificiali, dighe e rocce di granito levigate dal ghiaccio. La strada ha tornanti e punti di sosta.",
-        come: "In auto da Meiringen verso Gletsch. Strada aperta di norma da giugno a ottobre.",
-        quando: "Mattina: meno traffico e luce migliore. Controllare l'apertura in primavera e autunno.",
-        tempo: "2 ore con le soste",
-        consiglio: "Fermarsi alla diga del Räterichsboden e al lago del Grimsel."
+        "nome": "Passo del Grimsel",
+        "testo": "Un valico a 2.164 metri tra il Canton Berna e il Vallese, in un paesaggio di laghi artificiali, dighe e rocce di granito levigate dal ghiaccio. La strada ha tornanti e punti di sosta.",
+        "come": "In auto da Meiringen verso Gletsch. Strada aperta di norma da giugno a ottobre.",
+        "quando": "Mattina: meno traffico e luce migliore. Controllare l'apertura in primavera e autunno.",
+        "tempo": "2 ore con le soste",
+        "costo": "Nessun pedaggio.",
+        "orari": "Strada aperta di norma da giugno a ottobre, secondo la neve; le date cambiano ogni anno.",
+        "lat": 46.5615,
+        "lng": 8.3377,
+        "consiglio": "Fermarsi alla diga del Räterichsboden e al lago del Grimsel."
       },
       {
-        nome: "Ghiacciaio del Rodano",
-        testo: "La sorgente del Rodano, che scende dal ghiacciaio di fronte all'Albergo Belvédère. Una grotta di ghiaccio scavata nel ghiacciaio si visita in estate.",
-        come: "Dal parcheggio di Gletsch, a pochi minuti a piedi dal Belvédère.",
-        quando: "Estate.",
-        tempo: "1 ora",
-        consiglio: "Il ghiacciaio si è ritirato molto: i cartelli mostrano la posizione in anni diversi."
+        "nome": "Ghiacciaio del Rodano",
+        "testo": "La sorgente del Rodano, che scende dal ghiacciaio di fronte all'Albergo Belvédère. Una grotta di ghiaccio scavata nel ghiacciaio si visita in estate.",
+        "come": "Dal parcheggio di Gletsch, a pochi minuti a piedi dal Belvédère.",
+        "quando": "Estate.",
+        "tempo": "1 ora",
+        "lat": 46.572,
+        "lng": 8.3763,
+        "consiglio": "Il ghiacciaio si è ritirato molto: i cartelli mostrano la posizione in anni diversi."
       },
       {
-        nome: "Passo della Furka",
-        testo: "Un valico a 2.429 metri, con tornanti ripidi e panorami sul Rodano. Il passo è stato set di un film di James Bond (Goldfinger, 1964).",
-        come: "Da Gletsch in auto, salendo per i tornanti.",
-        quando: "Estate.",
-        tempo: "1 ora",
-        consiglio: "La strada ha tratti stretti: precedenza a chi sale."
+        "nome": "Passo della Furka",
+        "testo": "Un valico a 2.429 metri, con tornanti ripidi e panorami sul Rodano. Il passo è stato set di un film di James Bond (Goldfinger, 1964).",
+        "come": "Da Gletsch in auto, salendo per i tornanti.",
+        "quando": "Estate.",
+        "tempo": "1 ora",
+        "costo": "Nessun pedaggio.",
+        "orari": "Aperto di norma da giugno a ottobre; quando è chiuso, le auto passano sotto il valico con il treno navetta Furka Autoverlad tra Realp e Oberwald.",
+        "lat": 46.5727,
+        "lng": 8.4152,
+        "consiglio": "La strada ha tratti stretti: precedenza a chi sale."
+      },
+      {
+        "nome": "Aareschlucht",
+        "testo": "Una gola stretta e profonda scavata dall'Aar nel calcare tra Meiringen e Innertkirchen, percorsa da passerelle e gallerie per circa 1,4 km. In alcuni punti le pareti sono così vicine che il cielo si vede appena. È fresca anche in piena estate.",
+        "come": "Ingresso ovest a Meiringen e ingresso est a Innertkirchen, con parcheggio gratuito; si attraversa a piedi e si torna con il treno locale.",
+        "quando": "La mattina presto, prima dei gruppi.",
+        "tempo": "1 ora",
+        "orari": "Chiusa per la pausa invernale fino al 25 marzo 2027; riapre il 26 marzo 2027.",
+        "lat": 46.7178,
+        "lng": 8.2136,
+        "url": "https://www.aareschlucht.ch/",
+        "consiglio": "Si abbina bene alla partenza da Meiringen verso il Grimsel."
+      },
+      {
+        "nome": "Handeck e il ponte sospeso",
+        "testo": "A metà salita verso il Grimsel, l'Aar e l'Aerlenbach precipitano nella stessa gola. Il ponte sospeso dell'Handeckfall passa sopra la cascata, a circa 70 metri dal fondo.",
+        "come": "Sosta lungo la strada del Grimsel, accanto all'Hotel Handeck; il ponte è a pochi minuti a piedi.",
+        "quando": "Estate, quando la cascata ha più acqua.",
+        "tempo": "30 minuti",
+        "lat": 46.6136,
+        "lng": 8.308,
+        "url": "https://www.grimselwelt.ch/",
+        "consiglio": "Il ponte oscilla: chi soffre di vertigini può guardare la cascata dalla strada."
+      },
+      {
+        "nome": "Gelmerbahn",
+        "testo": "Una delle funicolari più ripide d'Europa, con pendenza fino al 106%, costruita per i lavori della diga e poi aperta al pubblico. Sale in pochi minuti al lago di Gelmer, dove un sentiero ad anello gira intorno all'acqua.",
+        "come": "Stazione a valle presso Handeck, sulla strada del Grimsel. Nel 2026 la stazione è un cantiere e dal parcheggio o dalla fermata del bus si cammina circa 15 minuti. Prenotazione online fortemente consigliata.",
+        "quando": "Da inizio giugno a fine ottobre.",
+        "tempo": "2-3 ore con il giro del lago",
+        "costo": "Andata e ritorno 40 CHF, solo andata 20 CHF (circa 43 e 21 €); bambini 6-15 anni 20 CHF.",
+        "orari": "Giugno, settembre e ottobre 9:00-16:00 (ultima salita 15:48); luglio e agosto 8:36-16:48 (ultima salita 16:36).",
+        "lat": 46.6136,
+        "lng": 8.3086,
+        "url": "https://www.grimselwelt.ch/en/railways/gelmerbahn/",
+        "consiglio": "Alla stazione a monte non si vendono biglietti: comprare online anche la discesa. Nel 2026 la diga del Gelmer è chiusa per lavori, ma il giro del lago si fa con una deviazione."
+      },
+      {
+        "nome": "Räterichsbodensee",
+        "testo": "Il primo dei grandi laghi artificiali della salita, chiuso da una diga di cemento tra le rocce di granito levigate dai ghiacciai. Il colore dell'acqua cambia con la luce, dal verde al grigio.",
+        "come": "Piazzole lungo la strada del Grimsel, sopra la diga.",
+        "quando": "Mattina o tardo pomeriggio, con la luce radente sul granito.",
+        "tempo": "20 minuti",
+        "lat": 46.5853,
+        "lng": 8.3281,
+        "consiglio": "Una delle soste fotografiche più semplici della salita."
+      },
+      {
+        "nome": "Grimselsee e Grimsel Hospiz",
+        "testo": "Il lago artificiale più grande della salita, con l'albergo storico del Grimsel Hospiz su uno sperone di roccia tra le due dighe. È il punto in cui ci si ferma per un pranzo prima del passo.",
+        "come": "Breve deviazione dalla strada del passo verso le dighe.",
+        "quando": "Ora di pranzo, o la sera per chi dorme in quota.",
+        "tempo": "30-45 minuti",
+        "lat": 46.5715,
+        "lng": 8.3323,
+        "url": "https://www.grimselwelt.ch/",
+        "consiglio": "Chi vuole spezzare il viaggio in due giorni può dormire qui e affrontare la Furka la mattina dopo."
+      },
+      {
+        "nome": "Totensee",
+        "testo": "Il laghetto scuro proprio sul valico del Grimsel, a 2.160 metri, tra la discesa verso il Vallese e quella verso Berna. Il nome, «lago dei morti», ricorda i combattimenti del 1799 tra truppe francesi e austriache.",
+        "come": "Sul passo, accanto al parcheggio.",
+        "quando": "Estate.",
+        "tempo": "15 minuti",
+        "lat": 46.5603,
+        "lng": 8.3397,
+        "consiglio": "Da qui si vedono i tornanti che scendono a Gletsch e risalgono verso la Furka."
+      },
+      {
+        "nome": "Hotel Belvédère",
+        "testo": "Il vecchio albergo appoggiato su un tornante della Furka, di fronte al ghiacciaio del Rodano. È chiuso da anni, ma resta una delle immagini più note dei passi svizzeri, anche per l'inseguimento di «Goldfinger» girato su questa strada.",
+        "come": "Si guarda dal tornante, dove c'è anche l'ingresso alla grotta del ghiacciaio.",
+        "quando": "Estate, con il passo aperto.",
+        "tempo": "15 minuti",
+        "lat": 46.5769,
+        "lng": 8.388,
+        "consiglio": "I tornanti sono stretti: fermarsi solo nelle piazzole."
+      },
+      {
+        "nome": "Dampfbahn Furka-Bergstrecke",
+        "testo": "La vecchia linea a cremagliera sul valico della Furka, circa 18 km tra Realp nel canton Uri e Oberwald nel Vallese, passando per Gletsch. Dopo l'apertura della galleria di base fu abbandonata e poi rimessa in funzione da volontari con locomotive a vapore.",
+        "come": "Treno storico da Realp o da Oberwald; la stazione di Gletsch è sotto il passo, vicina alla strada.",
+        "quando": "Solo d'estate e in alcuni giorni della settimana: il calendario va controllato sul sito della ferrovia.",
+        "tempo": "Mezza giornata",
+        "lat": 46.5613,
+        "lng": 8.3615,
+        "url": "https://www.dfb.ch/",
+        "consiglio": "Chi viaggia in van può fare la Furka in treno e la strada al ritorno."
       }
     ],
     programmi: [
       {
-        titolo: "1 giorno",
-        tappe: [
+        "titolo": "1 giorno",
+        "tappe": [
           "Meiringen",
           "Passo del Grimsel",
           "Gletsch e ghiacciaio del Rodano",
           "Passo della Furka",
           "Andermatt o rientro per il Susten"
         ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Meiringen e Aareschlucht, Handeck, Gelmerbahn, notte al Grimsel Hospiz o a valle",
+          "Giorno 2: Totensee e valico del Grimsel, Gletsch e ghiacciaio del Rodano, Hotel Belvédère, Furka e discesa ad Andermatt"
+        ]
+      },
+      {
+        "titolo": "3 giorni: l'anello dei passi",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: da Andermatt verso il Sustenpass e ritorno a Meiringen e Innertkirchen"
+        ]
       }
     ],
     zone: [
       {
-        nome: "Meiringen",
-        perChi: "chi arriva da Berna",
-        testo: "Cittadina ai piedi del Grimsel, con alberghi per ogni budget."
+        "nome": "Meiringen",
+        "perChi": "chi arriva da Berna",
+        "testo": "Cittadina ai piedi del Grimsel, con alberghi per ogni budget."
       },
       {
-        nome: "Andermatt",
-        perChi: "chi continua verso il Ticino",
-        testo: "Paese alpino sulla Furka, comodo per ripartire verso il Gottardo."
+        "nome": "Andermatt",
+        "perChi": "chi continua verso il Ticino",
+        "testo": "Paese alpino sulla Furka, comodo per ripartire verso il Gottardo."
+      },
+      {
+        "nome": "Innertkirchen e Guttannen",
+        "perChi": "chi vuole partire presto per il Grimsel",
+        "testo": "Paesi piccoli ai piedi della salita, con alberghi e campeggi più tranquilli di Meiringen."
+      },
+      {
+        "nome": "Valle di Goms (Oberwald e Obergesteln)",
+        "perChi": "chi prosegue verso il Vallese e Zermatt",
+        "testo": "Villaggi di legno scuro sotto il Grimsel e la Furka, con il treno della Matterhorn Gotthard Bahn e la partenza del treno navetta per Realp."
       }
     ],
     sapori: [
@@ -1196,6 +1608,52 @@ export const destinazioniSvizzera: Destinazione[] = [
       "I passi sono chiusi da ottobre-novembre a giugno: controllare l'apertura sui siti ufficiali.",
       "Il maltempo e il ghiaccio possono chiudere il passo in giornata.",
       "Carburante: i distributori sono rari in quota, fare il pieno a valle."
+    ],
+    gite: [
+      {
+        "nome": "Andermatt",
+        "distanza": "circa 30 km dal passo della Furka",
+        "come": "In auto scendendo dalla Furka verso Realp.",
+        "testo": "Il paese di montagna all'incrocio tra Furka, Oberalp e Gottardo, con un piccolo centro storico e i collegamenti verso il Ticino e i Grigioni."
+      },
+      {
+        "nome": "Sustenpass",
+        "distanza": "da Innertkirchen, circa 45 km fino a Wassen",
+        "come": "In auto; con Grimsel e Furka forma un anello di tre passi.",
+        "testo": "Un altro passo d'alta quota, con il ghiacciaio dello Stein visibile dalla strada e un lago glaciale sotto il valico. Ha la stessa stagione del Grimsel."
+      },
+      {
+        "nome": "Cascate di Reichenbach",
+        "distanza": "pochi minuti da Meiringen",
+        "come": "In auto o a piedi dal centro di Meiringen.",
+        "testo": "Le cascate dove Conan Doyle fece cadere Sherlock Holmes nella lotta con Moriarty. Meiringen ricorda il detective con un piccolo museo e una statua."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quando sono aperti Grimsel e Furka?",
+        "risposta": "Di norma da inizio giugno a fine ottobre, ma le date cambiano ogni anno secondo la neve. Ai margini della stagione conviene controllare lo stato dei passi il giorno prima."
+      },
+      {
+        "domanda": "Cosa si fa se la Furka è chiusa?",
+        "risposta": "Si usa il treno navetta Furka Autoverlad, che carica auto e van tra Realp e Oberwald attraverso la galleria di base."
+      },
+      {
+        "domanda": "Quanto tempo serve per la strada?",
+        "risposta": "Da Meiringen ad Andermatt la guida pura richiede circa 2-3 ore, ma con le soste ai laghi, alla Gelmerbahn e al ghiacciaio del Rodano diventa una giornata intera."
+      },
+      {
+        "domanda": "Ci sono pedaggi?",
+        "risposta": "No, i passi sono gratuiti. Sulle autostrade svizzere che si usano per arrivarci serve invece la vignetta annuale, circa 40 CHF."
+      },
+      {
+        "domanda": "È una strada adatta ai van?",
+        "risposta": "Sì, è asfaltata e ben tenuta, ma ha tornanti stretti e tratti ripidi. Conviene fare il pieno a valle, dove il carburante costa meno, e salire senza fretta."
+      },
+      {
+        "domanda": "Si vede ancora il ghiacciaio del Rodano?",
+        "risposta": "Sì, dal tornante del Belvédère, ma si è ritirato molto: d'estate una parte è coperta da teli bianchi per rallentare lo scioglimento."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],

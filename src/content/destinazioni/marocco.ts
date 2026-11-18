@@ -805,10 +805,10 @@ export const destinazioniMarocco: Destinazione[] = [
     doveDormire:
       'Abbiamo passato una notte alla Kasbah Trane, lungo la valle del Draa: zona tranquilla e buon punto d\'appoggio per la vicina Kasbah di Tamnougalt. Recensioni con questo nome esatto non ne ho trovate.\n\nEconomiche: Kasbah Maktob Tamnougalt, Guest House Jardin de Tamnougalt · fascia media: Maison d\'Hôtes Kasbah Azul, Dar Jnane - La Maison Du Jardin · lux (non eccessiva): Hotel and Restaurant Kasbah Draa, Kasbah Kissane.',
     doveMangiare: 'Cena in hotel.',
-    comeArrivare: 'Circa 4h da Merzouga.',
+    comeArrivare: "Circa 4h da Merzouga: sono circa 300 km, con l'ultimo tratto nella valle del Draa tra i palmeti. Agdz è a circa 65 km a sud di Ouarzazate e a circa 92 km a nord di Zagora, sulla strada che scende verso il deserto. Per proseguire verso la costa, Taliouine è a circa 173 km, due ore e mezza di guida. Conviene viaggiare di giorno, con un'auto con autista o a noleggio.",
     comeSpostarsi: 'A piedi nella kasbah.',
     periodoMigliore: 'sera, per la visita alla Kasbah di Tamnougalt',
-    costi: 'Kasbah di Tamnougalt 20 MAD a persona + 200 MAD di mancia per la guida locale.',
+    costi: "Kasbah di Tamnougalt 20 MAD a persona + 200 MAD di mancia per la guida locale. Budget giornaliero a persona, indicativo: basso 35-50 € (guesthouse semplice, pasti in paese); medio 70-110 € (kasbah-hotel con piscina e cena inclusa, guida locale); alto 150 € e oltre (kasbah di fascia alta, auto con autista).",
     erroriDaEvitare: [],
     miaEsperienza:
       'Dopo il deserto, Agdz è arrivata al momento giusto per rifiatare, e la Kasbah di Tamnougalt mi ha ricordato quanto valga la pena uscire dagli itinerari più battuti.',
@@ -820,7 +820,9 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "In auto lungo la valle del Draa.",
         "quando": "Sera, per la luce sulle mura di fango.",
         "tempo": "1 ora",
-        "costo": "20 MAD a persona più circa 200 MAD di mancia per la guida (dal mio viaggio)"
+        "costo": "20 MAD a persona più circa 200 MAD di mancia per la guida (dal mio viaggio)",
+        "lat": 30.67515,
+        "lng": -6.38808
       },
       {
         "nome": "Valle del Draa",
@@ -836,7 +838,65 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "Da Agdz verso sud lungo la valle. Tamegroute è poco più avanti.",
         "quando": "Mattina per Tamegroute e i laboratori dei vasai.",
         "tempo": "Mezza giornata",
-        "consiglio": "Nella biblioteca di Tamegroute i libri si possono guardare solo sul posto; i forni dei vasai valgono più delle piccole dune della zona."
+        "consiglio": "Nella biblioteca di Tamegroute i libri si possono guardare solo sul posto; i forni dei vasai valgono più delle piccole dune della zona.",
+        "lat": 30.33056,
+        "lng": -5.83806
+      },
+      {
+        "nome": "Jebel Kissane",
+        "testo": "La montagna che chiude la valle a est di Agdz, alta circa 1.500 metri. Il nome in arabo vuol dire «bicchieri», perché le sue cime ricordano i bicchieri del tè accanto alla teiera. Si vede da tutto il paese e cambia colore al tramonto.",
+        "come": "Si guarda dalla strada e dalle terrazze delle kasbah; la salita si fa solo con una guida locale.",
+        "quando": "Al tramonto, dalla terrazza dell'hotel.",
+        "tempo": "Pochi minuti per guardarla, una giornata per salirci",
+        "lat": 30.7028,
+        "lng": -6.32806
+      },
+      {
+        "nome": "Kasbah del Caid Ali",
+        "testo": "La kasbah di terra cruda ai margini del palmeto di Agdz, antica residenza del caid che governava questa parte del Draa. Dentro c'è un labirinto di stanze, cortili e scale fino alla terrazza sul palmeto.",
+        "come": "Pochi minuti in auto dal centro di Agdz. Di solito la mostra un custode o un membro della famiglia: chiedere il prezzo prima di entrare.",
+        "quando": "Pomeriggio, quando il sole non picchia sulle terrazze.",
+        "tempo": "45 minuti",
+        "lat": 30.71286,
+        "lng": -6.44502
+      },
+      {
+        "nome": "Palmeto di Agdz e souk del giovedì",
+        "testo": "Il palmeto lungo il Draa, attraversato dalle seguia, i canali d'irrigazione che portano l'acqua agli orti sotto le palme. Il giovedì in paese c'è il souk settimanale, un mercato per la gente della valle più che per i turisti: il nome stesso di Agdz in tamazight vuol dire «mercato».",
+        "come": "A piedi dal centro, meglio con una guida locale per non perdersi tra i sentieri.",
+        "quando": "Mattina presto, il giovedì per il souk.",
+        "tempo": "1-2 ore",
+        "lat": 30.69778,
+        "lng": -6.44972
+      },
+      {
+        "nome": "Tamegroute",
+        "testo": "Il villaggio a circa 20 km a sud di Zagora, sull'antica via delle carovane per Timbuctù. La zawiya Naciria custodisce una biblioteca di circa 4.000 manoscritti di matematica, astronomia e medicina, i più antichi dell'XI secolo, su pergamena di pelle di gazzella. Nei laboratori dei vasai si vede cuocere la ceramica smaltata di verde nei forni alimentati con le palme.",
+        "come": "In auto da Zagora, circa mezz'ora verso sud. La biblioteca si visita con il custode; i laboratori sono in paese.",
+        "quando": "Mattina.",
+        "tempo": "1,5 ore",
+        "consiglio": "Le donne entrano nella biblioteca con le spalle coperte; non si fotografano i manoscritti senza chiedere.",
+        "lat": 30.26191,
+        "lng": -5.67951
+      },
+      {
+        "nome": "Ksar Tissergate",
+        "testo": "Un villaggio fortificato di terra alle porte di Zagora, ancora abitato da alcune famiglie. Dentro c'è il Museo delle arti e tradizioni della valle del Draa, su tre piani, con abiti, gioielli, utensili di casa e attrezzi agricoli.",
+        "come": "In auto, pochi chilometri a nord di Zagora sulla strada da Agdz.",
+        "quando": "Sulla strada per Zagora, a metà mattina.",
+        "tempo": "1 ora",
+        "lat": 30.39633,
+        "lng": -5.85869
+      },
+      {
+        "nome": "Dune di Tinfou",
+        "testo": "Un piccolo gruppo di dune dorate oltre Tamegroute, le più vicine a Zagora. Sono poche e piccole rispetto a Erg Chebbi o Erg Chigaga: valgono una sosta per chi non va nel deserto vero.",
+        "come": "In auto, pochi chilometri dopo Tamegroute.",
+        "quando": "Tardo pomeriggio.",
+        "tempo": "30-45 minuti",
+        "consiglio": "Dopo Merzouga si possono saltare senza rimpianti.",
+        "lat": 30.24093,
+        "lng": -5.60114
       }
     ],
     programmi: [
@@ -848,6 +908,13 @@ export const destinazioniMarocco: Destinazione[] = [
           "Kasbah di Tamnougalt",
           "Tempo libero in piscina"
         ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: arrivo ad Agdz, piscina e Kasbah di Tamnougalt al tramonto",
+          "Giorno 2: palmeto e Kasbah del Caid Ali la mattina, poi verso sud: Ksar Tissergate, Zagora e Tamegroute"
+        ]
       }
     ],
     zone: [
@@ -855,6 +922,11 @@ export const destinazioniMarocco: Destinazione[] = [
         "nome": "Agdz",
         "perChi": "chi vuole una pausa dopo il deserto",
         "testo": "Piccola cittadina con kasbah-hotel e piscina, tranquilla e senza turisti."
+      },
+      {
+        "nome": "Tamnougalt",
+        "perChi": "chi vuole dormire dentro una kasbah",
+        "testo": "Guesthouse e kasbah restaurate a pochi minuti da Agdz, di fronte al palmeto e al Jebel Kissane. Si dorme in camere di terra cruda, fresche anche d'estate."
       },
       {
         "nome": "Zagora",
@@ -885,6 +957,42 @@ export const destinazioniMarocco: Destinazione[] = [
       "Il caldo è forte in estate.",
       "Il territorio è molto isolato: portare contanti."
     ],
+    gite: [
+      {
+        "nome": "Zagora e Tamegroute",
+        "distanza": "circa 92 km fino a Zagora, poi altri 20 km",
+        "come": "In auto verso sud lungo la valle del Draa",
+        "testo": "La valle si allarga tra palmeti e ksar fino a Zagora, poi la biblioteca dei manoscritti e i vasai di Tamegroute. Si torna ad Agdz in serata."
+      },
+      {
+        "nome": "Ouarzazate",
+        "distanza": "circa 65 km",
+        "come": "In auto verso nord, oltre il passo",
+        "testo": "La città degli studi cinematografici e della Kasbah di Taourirt, utile anche come tappa di passaggio verso Aït Benhaddou e Marrakech."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono ad Agdz?",
+        "risposta": "Una notte basta per la piscina e la Kasbah di Tamnougalt. Con due giorni si aggiungono il palmeto e la discesa verso Zagora e Tamegroute."
+      },
+      {
+        "domanda": "Quanto costa visitare la Kasbah di Tamnougalt?",
+        "risposta": "20 MAD a persona per l'ingresso, più la mancia alla guida locale: noi abbiamo dato 200 MAD. Conviene concordarla prima."
+      },
+      {
+        "domanda": "Agdz è una buona tappa tra Merzouga e la costa?",
+        "risposta": "Sì: spezza le circa quattro ore da Merzouga e il giorno dopo si riparte per Taliouine e Agadir. In una sera si vede l'essenziale."
+      },
+      {
+        "domanda": "Quando fa troppo caldo nella valle del Draa?",
+        "risposta": "Da giugno ad agosto le giornate sono molto calde. Primavera e autunno sono i periodi più comodi, e le visite vanno fatte la mattina o la sera."
+      },
+      {
+        "domanda": "Servono contanti?",
+        "risposta": "Sì: la zona è isolata e le carte non si usano quasi da nessuna parte fuori dagli hotel. Ingressi, mance e souk si pagano in dirham."
+      }
+    ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-itinerario'],
@@ -911,10 +1019,10 @@ export const destinazioniMarocco: Destinazione[] = [
       'Abbiamo passato una notte all\'Hotel Oasis, comodo perché vicino al mare e ai ristoranti. Le recensioni online sono contrastanti: buone la posizione e la colazione a buffet, meno la manutenzione delle camere, che diversi ospiti descrivono come datate.\n\nEconomiche: Hotel Sindibad Agadir, Résidence IGOUDAR · fascia media: Riad Dar Maktoub, Hôtel Riad Salam Agadir · lux (non eccessiva): Sofitel Agadir Thalassa Sea & Spa, Hotel Riu Palace Tikida Agadir.',
     doveMangiare: 'Les Blancs (terrazza vista mare, cucina spagnola e mediterranea); pranzo a Taghazout dopo il surf.',
     usciteSerali: 'LOFT, narghilè e birre, atmosfera da discoteca araba.',
-    comeArrivare: 'Circa 2h30 da Agdz per Taliouine, poi circa 3h per Agadir.',
+    comeArrivare: "Circa 2h30 da Agdz per Taliouine, poi circa 3h per Agadir: in tutto sono circa 360 km, con la sosta a Taroudant per il pranzo. Da Agadir a Taghazout c'è mezz'ora di strada lungo la costa, e da Taghazout a Essaouira circa due ore e mezza per 152 km. L'aeroporto di Agadir Al Massira ha voli diretti dall'Europa, e i bus collegano la città con Marrakech ed Essaouira.",
     comeSpostarsi: 'Van privato, a piedi a Taghazout.',
     periodoMigliore: 'inizio maggio, buone condizioni per iniziare a surfare',
-    costi: 'Lezione di surf 250 MAD a persona (docce 10 MAD).',
+    costi: "Lezione di surf 250 MAD a persona (docce 10 MAD). Budget giornaliero a persona, indicativo: basso 40-60 € (guesthouse o ostello del surf a Taghazout, pesce al porto); medio 80-130 € (hotel sul lungomare, ristoranti, una lezione di surf); alto 200 € e oltre (resort di Taghazout Bay, cene in terrazza, auto con autista).",
     erroriDaEvitare: ['Comprare lo zafferano nei negozi lungo la strada pensati per i turisti di passaggio: a Taliouine conviene andare solo nei posti consigliati dalla guida'],
     miaEsperienza:
       'Una mattinata diversa dal resto del viaggio: dopo giorni di deserto e kasbah, il surf a Taghazout è stato un tuffo, anche in senso letterale, in tutt\'altro mondo.',
@@ -926,7 +1034,9 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "In auto da Agdz, sulla strada verso Taroudant.",
         "quando": "Autunno, nella stagione della fioritura.",
         "tempo": "1 ora",
-        "consiglio": "Comprare lo zafferano nelle cooperative e nei posti consigliati, non nei negozi per turisti di passaggio."
+        "consiglio": "Comprare lo zafferano nelle cooperative e nei posti consigliati, non nei negozi per turisti di passaggio.",
+        "lat": 30.53278,
+        "lng": -7.92556
       },
       {
         "nome": "Taghazout e il surf",
@@ -935,14 +1045,18 @@ export const destinazioniMarocco: Destinazione[] = [
         "quando": "Le condizioni migliori vanno da settembre ad aprile; per i principianti contano le scuole e il giorno.",
         "tempo": "Mezza giornata",
         "costo": "Lezione 250 MAD a persona, docce 10 MAD (dal mio viaggio)",
-        "consiglio": "Fermarsi a pranzo a Taghazout dopo la lezione."
+        "consiglio": "Fermarsi a pranzo a Taghazout dopo la lezione.",
+        "lat": 30.54472,
+        "lng": -9.70913
       },
       {
         "nome": "Taroudant",
         "testo": "Una cittadina dentro mura di terra lunghe tra i 6 e gli 8 km, con bastioni e nove porte ancora in uso. Ha due souq vicino alle piazze principali, molto meno turistici di quelli di Marrakech, e si gira bene in calesse lungo le mura.",
         "come": "Da Taliouine in auto, verso Agadir.",
         "quando": "Pomeriggio.",
-        "tempo": "1-2 ore"
+        "tempo": "1-2 ore",
+        "lat": 30.471,
+        "lng": -8.8806
       },
       {
         "nome": "Kasbah di Agadir Oufella",
@@ -950,7 +1064,9 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "In taxi oppure con la cabinovia in servizio dal 2022, che sale per circa 1,7 km dal ponte di Tildi.",
         "quando": "Tramonto, con la luce sulla baia.",
         "tempo": "1 ora",
-        "consiglio": "Salire in cabinovia e scendere in taxi o a piedi, guardando il porto dei pescherecci."
+        "consiglio": "Salire in cabinovia e scendere in taxi o a piedi, guardando il porto dei pescherecci.",
+        "lat": 30.42944,
+        "lng": -9.62417
       },
       {
         "nome": "Souk El Had",
@@ -958,15 +1074,114 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "In taxi dal lungomare.",
         "quando": "Mattina. Chiuso il lunedì; aperto di solito dalle 9 alle 18 (2026), ma i singoli banchi hanno orari propri.",
         "tempo": "1,5-2 ore",
-        "consiglio": "Le bancarelle di frutta e verdura sono la parte più viva."
+        "consiglio": "Le bancarelle di frutta e verdura sono la parte più viva.",
+        "orari": "Di solito 9-18, chiuso il lunedì; i singoli banchi hanno orari propri",
+        "lat": 30.41251,
+        "lng": -9.57975
+      },
+      {
+        "nome": "Spiaggia e Corniche di Agadir",
+        "testo": "La baia sabbiosa di Agadir corre per oltre 10 km, con una passeggiata a mare di circa 9 km tra la marina e la zona degli hotel. È una spiaggia larga e riparata, buona per camminare e fare il bagno, molto più tranquilla delle spiagge del surf a nord.",
+        "come": "A piedi dagli hotel del lungomare; petit taxi dal centro.",
+        "quando": "Al tramonto, quando la Corniche si riempie di famiglie.",
+        "tempo": "1-2 ore",
+        "costo": "Gratis",
+        "lat": 30.39761,
+        "lng": -9.60014
+      },
+      {
+        "nome": "Marina di Agadir",
+        "testo": "Il porto turistico ai piedi della collina della kasbah, con yacht, caffè, ristoranti e negozi. È il punto più curato del lungomare e il posto più comodo per una cena guardando le barche.",
+        "come": "A piedi lungo la Corniche, all'estremità nord della spiaggia.",
+        "quando": "Sera.",
+        "tempo": "1 ora",
+        "costo": "Gratis",
+        "lat": 30.42505,
+        "lng": -9.61707
+      },
+      {
+        "nome": "Porto dei pescatori",
+        "testo": "Agadir è uno dei grandi porti di pesca del Marocco. All'ingresso del porto ci sono i banchi dove si sceglie il pesce appena sbarcato e lo si fa grigliare sul posto, seduti ai tavoli comuni.",
+        "come": "Petit taxi fino all'ingresso del porto di pesca, a nord della marina.",
+        "quando": "Pranzo.",
+        "tempo": "1-1,5 ore",
+        "consiglio": "Chiedere il prezzo al chilo prima di ordinare e controllare il peso.",
+        "lat": 30.42283,
+        "lng": -9.64192
+      },
+      {
+        "nome": "Médina d'Agadir (Coco Polizzi)",
+        "testo": "Una medina ricostruita da zero a partire dal 1992 dall'artista italo-marocchino Coco Polizzi, a Ben Sergao, circa 4,5 km a sud del centro. Su circa cinque ettari ci sono botteghe di artigiani, un piccolo museo e un giardino, costruiti con le tecniche tradizionali berbere del Souss.",
+        "come": "In taxi dal centro, verso Inezgane.",
+        "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "1-1,5 ore",
+        "lat": 30.37849,
+        "lng": -9.57245
+      },
+      {
+        "nome": "Crocoparc",
+        "testo": "Un parco con più di 300 coccodrilli del Nil, giardini botanici, cactus, tartarughe giganti e una grotta dei serpenti. È la tappa più semplice con i bambini, a un quarto d'ora di strada dal centro.",
+        "come": "In auto o taxi lungo la RN8 verso Drarga, circa 13 km; il parco ha anche un pacchetto con navetta da Agadir e Taghazout.",
+        "quando": "Mattina, prima del caldo.",
+        "tempo": "2 ore",
+        "costo": "100 MAD adulti, 70 MAD bambini da 3 a 12 anni (circa 9 € e 6,50 €, 2026)",
+        "orari": "10-17.30 tutti i giorni, la biglietteria chiude mezz'ora prima; durante il Ramadan 10-17; chiuso il primo giorno dell'Aid el-Kebir",
+        "url": "https://www.crocoparc.com/",
+        "lat": 30.38938,
+        "lng": -9.48403
+      },
+      {
+        "nome": "Paradise Valley",
+        "testo": "Un tratto della valle del fiume Tamraght nell'Alto Atlante, con palme, ulivi e fichi, piccole cascate e pozze tra le rocce dove fare il bagno. Si raggiunge con un breve sentiero dalla strada per Imouzzer.",
+        "come": "In auto circa 34 km, tre quarti d'ora da Agadir; poi un breve tratto a piedi.",
+        "quando": "Primavera, quando c'è più acqua; evitare il fine settimana d'estate, molto affollato.",
+        "tempo": "Mezza giornata",
+        "consiglio": "Scarpe che possano bagnarsi; non tuffarsi senza controllare la profondità.",
+        "lat": 30.58761,
+        "lng": -9.53104
+      },
+      {
+        "nome": "Anchor Point",
+        "testo": "Il punto più famoso del surf marocchino, appena a nord di Taghazout: un'onda destra lunga che si rompe sulla scogliera e funziona con le mareggiate invernali. È per surfisti esperti; per gli altri è bello guardare dalla scogliera.",
+        "come": "A piedi da Taghazout, 10-15 minuti verso nord.",
+        "quando": "Da ottobre a marzo, con le mareggiate.",
+        "tempo": "30 minuti per guardare",
+        "lat": 30.54528,
+        "lng": -9.72679
+      },
+      {
+        "nome": "Tamraght e Banana Beach",
+        "testo": "Il villaggio tra Agadir e Taghazout, con guesthouse e scuole di surf, e sotto la spiaggia di Banana Beach, larga e con onde morbide adatte a chi comincia.",
+        "come": "In taxi o bus sulla strada costiera, circa 20 minuti da Agadir.",
+        "quando": "Mattina, per le lezioni con poco vento.",
+        "tempo": "Mezza giornata",
+        "lat": 30.50198,
+        "lng": -9.68001
       }
     ],
     programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: surf a Taghazout o Banana Beach",
+          "Pranzo: pesce al porto dei pescatori",
+          "Pomeriggio: Souk El Had",
+          "Tramonto: Kasbah di Agadir Oufella in cabinovia, cena alla marina"
+        ]
+      },
       {
         "titolo": "2 giorni",
         "tappe": [
           "Giorno 1: Taliouine, zafferano, poi Taroudant e arrivo ad Agadir, yoga al tramonto",
           "Giorno 2: surf a Taghazout, pranzo, cena a Les Blancs"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: Taliouine e Taroudant lungo la strada, arrivo ad Agadir",
+          "Giorno 2: Souk El Had, porto dei pescatori, Agadir Oufella al tramonto",
+          "Giorno 3: surf a Taghazout e Paradise Valley nel pomeriggio"
         ]
       }
     ],
@@ -980,6 +1195,16 @@ export const destinazioniMarocco: Destinazione[] = [
         "nome": "Taghazout",
         "perChi": "chi vuole surf e atmosfera",
         "testo": "Villaggio con scuole di surf e guesthouse, rilassato."
+      },
+      {
+        "nome": "Tamraght e Aourir",
+        "perChi": "chi comincia con il surf",
+        "testo": "Villaggi più quieti tra Agadir e Taghazout, con surf camp e guesthouse vicino a Banana Beach."
+      },
+      {
+        "nome": "Taghazout Bay",
+        "perChi": "chi vuole un resort",
+        "testo": "La zona di grandi hotel con piscine e campo da golf appena a sud del villaggio di Taghazout, comoda ma meno autentica."
       }
     ],
     sapori: [
@@ -1004,6 +1229,52 @@ export const destinazioniMarocco: Destinazione[] = [
       "Zafferano in vendita nei negozi per turisti: spesso è adulterato, comprare solo in luoghi consigliati.",
       "La corrente a Taghazout può essere forte: seguire le istruzioni dell'istruttore.",
       "Il sole sulla costa scotta anche con il cielo coperto."
+    ],
+    gite: [
+      {
+        "nome": "Imsouane",
+        "distanza": "circa 93 km, 1h45",
+        "come": "In auto lungo la costa verso nord",
+        "testo": "Un villaggio di pescatori in una baia riparata tra le scogliere, con un'onda lunga e lenta, La Baie, perfetta per principianti e longboard. Buono anche solo per il pesce e il tramonto."
+      },
+      {
+        "nome": "Parco nazionale del Souss-Massa",
+        "distanza": "circa 65 km, poco più di un'ora",
+        "come": "In auto verso sud, fino alla foce dell'oued Massa",
+        "testo": "Parco costiero istituito nel 1991, con dune, lagune e una delle ultime colonie selvatiche al mondo dell'ibis eremita. Si cammina lungo la foce del fiume con il binocolo."
+      },
+      {
+        "nome": "Tiznit",
+        "distanza": "circa 91 km, 1h30",
+        "come": "In auto verso sud",
+        "testo": "Una cittadina dentro mura di terra rossa, famosa per i gioiellieri d'argento berberi del suo souk."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Meglio dormire ad Agadir o a Taghazout?",
+        "risposta": "Ad Agadir per la spiaggia lunga, i ristoranti e i servizi; a Taghazout o Tamraght se l'obiettivo è il surf. Le due località sono a mezz'ora di strada."
+      },
+      {
+        "domanda": "Si può imparare il surf da zero a Taghazout?",
+        "risposta": "Sì: le scuole portano i principianti sulle spiagge con onde più morbide, come Banana Beach. Una lezione di due ore costa circa 250 MAD a persona."
+      },
+      {
+        "domanda": "Quando andare ad Agadir?",
+        "risposta": "Il clima è mite tutto l'anno. Per il surf le condizioni migliori vanno da settembre ad aprile; d'estate il mare è più calmo e la città più affollata."
+      },
+      {
+        "domanda": "Dove comprare olio d'argan e zafferano senza farsi fregare?",
+        "risposta": "L'argan e l'amlou al Souk El Had o nelle cooperative; lo zafferano a Taliouine, nei posti consigliati, evitando i negozi lungo la strada."
+      },
+      {
+        "domanda": "Il mare di Agadir è sicuro per fare il bagno?",
+        "risposta": "La baia di Agadir è riparata e adatta al bagno; più a nord le correnti sono forti. Conviene nuotare dove c'è il bagnino e seguire le bandiere."
+      },
+      {
+        "domanda": "Quanti giorni servono?",
+        "risposta": "Due giorni bastano per Taliouine, Taroudant e il surf; con tre si aggiungono il porto, la kasbah e Paradise Valley."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: ['surf-taghazout'],
@@ -1812,9 +2083,10 @@ export const destinazioniMarocco: Destinazione[] = [
       'Moulay Idriss Zerhoun',
     ],
     cosaFare: ['Volubilis la mattina presto', 'Un giro a piedi nella medina di Meknès, da soli'],
-    comeArrivare: 'In auto da Fès (circa 70 km, un\'ora di guida) o da Rabat (circa 140 km, quasi 2 ore). In alternativa il treno ONCF: Meknès ha due stazioni.',
+    comeArrivare: "In auto da Fès (circa 70 km, un'ora di guida) o da Rabat (circa 140 km, quasi 2 ore). In alternativa il treno ONCF: Meknès ha due stazioni. Volubilis è a circa 30 km a nord di Meknès, mezz'ora di strada, e Moulay Idriss è a pochi chilometri dalle rovine: si fanno insieme con un taxi o un'auto con autista, da concordare con attesa e ritorno inclusi.",
     comeSpostarsi: 'A piedi nella medina, petit taxi in città, taxi o auto con autista per Volubilis e Moulay Idriss.',
     periodoMigliore: 'primavera e autunno; a Volubilis d\'estate il sole picchia',
+    costi: "Volubilis circa 70 MAD; Dar Jamai 30 MAD. Budget giornaliero a persona, indicativo: basso 35-55 € (guesthouse in medina, pasti intorno a el-Hedim, treno); medio 70-120 € (riad, ristoranti, taxi per Volubilis); alto 180 € e oltre (riad di fascia alta, auto con autista e guida ufficiale).",
     erroriDaEvitare: [
       'Andare a Volubilis nelle ore centrali d\'estate: il sito è quasi senza ombra',
       'Chiamare scuderie l\'Heri es-Souani: era un granaio, come spiegano le fonti storiche',
@@ -1831,6 +2103,9 @@ export const destinazioniMarocco: Destinazione[] = [
         quando: 'Mattina presto: il sito è aperto e quasi senza ombra.',
         tempo: 'un paio d\'ore',
         consiglio: 'Cappello, acqua e scarpe chiuse. Una guida aiuta a leggere le rovine.',
+        "costo": "Circa 70 MAD a persona (circa 6,50 €); guide ufficiali all'ingresso, a pagamento",
+        "lat": 34.03996,
+        "lng": -5.56269
       },
       {
         nome: 'Moulay Idriss Zerhoun',
@@ -1840,6 +2115,8 @@ export const destinazioniMarocco: Destinazione[] = [
         quando: 'Dopo Volubilis, a fine mattina.',
         tempo: 'un\'ora circa',
         consiglio: 'Salire sulla collina più alta del paese, da dove si vede tutto il complesso religioso.',
+        "lat": 34.05594,
+        "lng": -5.51832
       },
       {
         nome: 'Bab Mansour e la piazza el-Hedim',
@@ -1848,12 +2125,17 @@ export const destinazioniMarocco: Destinazione[] = [
         come: 'A piedi, all\'ingresso della medina.',
         quando: 'Tardo pomeriggio, quando la piazza si anima.',
         tempo: 'mezz\'ora circa',
+        "lat": 33.89261,
+        "lng": -5.56464
       },
       {
         nome: 'Mausoleo di Moulay Ismail',
         testo: 'La tomba del sultano. È ancora un luogo religioso, aperto anche ai turisti.',
         come: 'A piedi da Bab Mansour, nella città imperiale. Abiti coprenti e silenzio.',
         tempo: 'mezz\'ora circa',
+        "consiglio": "Il mausoleo è stato chiuso a lungo per restauri: conviene chiedere in hotel se è visitabile prima di andarci.",
+        "lat": 33.89082,
+        "lng": -5.56332
       },
       {
         nome: 'Heri es-Souani',
@@ -1861,41 +2143,118 @@ export const destinazioniMarocco: Destinazione[] = [
           'L\'enorme granaio e magazzino di Moulay Ismail, con 22 file di archi che reggevano una volta ormai crollata. Spesso viene chiamato scuderia, ma era un granaio. È accanto al bacino dell\'Agdal, parte del sistema idrico del palazzo.',
         come: 'Petit taxi da Bab Mansour: è lontano a piedi.',
         tempo: 'un\'ora scarsa',
+        "lat": 33.88054,
+        "lng": -5.55749
       },
       {
         nome: 'Medersa Bou Inania di Meknès',
         testo: 'La madrasa merinide fondata nel 1335-36 dal sultano Abu al-Hasan e oggi intitolata al figlio Abu Inan.',
         come: 'Nella medina, a piedi da el-Hedim.',
         tempo: 'mezz\'ora circa',
+        "lat": 33.89519,
+        "lng": -5.56528
       },
       {
         nome: 'Museo Dar Jamai',
         testo: 'Un palazzo del 1882, costruito da un gran visir del sultano Moulay Hassan, che oggi ospita un museo affacciato sulla piazza el-Hedim.',
         come: 'Sulla piazza el-Hedim.',
         tempo: 'un\'ora scarsa',
+        "costo": "30 MAD adulti, 20 MAD ragazzi sopra i 10 anni (circa 3 € e 2 €, 2026)",
+        "orari": "10-18, chiuso il martedì",
+        "url": "https://fnm.ma/museums/37",
+        "consiglio": "Dal 2022 è il Museo nazionale della musica: più di cento strumenti, dalla musica andalusa a quella delle confraternite gnawa e aissawa.",
+        "lat": 33.89366,
+        "lng": -5.56658
       },
+      {
+        "nome": "Piazza Lalla Aouda",
+        "testo": "La grande piazza che si apre oltre Bab Mansour, il mechouar del palazzo dove si tenevano cerimonie, ricevimenti e parate militari. Sul lato est c'è la moschea di Lalla Aouda, la moschea reale della kasbah, rinnovata verso il 1677.",
+        "come": "A piedi, attraversando Bab Mansour da el-Hedim.",
+        "quando": "Tardo pomeriggio, sulla strada tra Bab Mansour e il mausoleo.",
+        "tempo": "20 minuti",
+        "costo": "Gratis",
+        "lat": 33.89305,
+        "lng": -5.5628
+      },
+      {
+        "nome": "Koubba el-Khayatine e Habs Qara",
+        "testo": "Il padiglione dove Moulay Ismail riceveva gli ambasciatori stranieri, poi diventato laboratorio delle uniformi militari. Sotto la piazza davanti si aprono le grandi sale a volta di Habs Qara, che la tradizione chiama prigione degli schiavi cristiani: per la maggior parte degli studiosi erano magazzini o silos.",
+        "come": "A piedi dalla piazza Lalla Aouda, verso il mausoleo.",
+        "quando": "Insieme al mausoleo, nel pomeriggio.",
+        "tempo": "30-45 minuti",
+        "lat": 33.89113,
+        "lng": -5.56462
+      },
+      {
+        "nome": "Bacino dell'Agdal",
+        "testo": "Il grande bacino rettangolare, circa 149 per 319 metri, che serviva la riserva d'acqua del palazzo ed era alimentato dalla Casa delle dieci norie. Accanto c'è l'Heri es-Souani; intorno all'acqua i meknassi vengono a passeggiare la sera.",
+        "come": "Petit taxi dalla medina, insieme all'Heri es-Souani.",
+        "quando": "Al tramonto.",
+        "tempo": "20-30 minuti",
+        "costo": "Gratis",
+        "lat": 33.88159,
+        "lng": -5.56013
+      },
+      {
+        "nome": "Bab Berdaine",
+        "testo": "La porta nord della medina, costruita o ricostruita sotto Moulay Ismail, accanto al quartiere e alla moschea omonimi. Da qui partono i souk degli artigiani, molto meno turistici di quelli di Fès.",
+        "come": "A piedi dalla Medersa Bou Inania, attraverso i souk, 15 minuti verso nord.",
+        "quando": "Mattina, quando le botteghe sono aperte.",
+        "tempo": "1 ora con i souk",
+        "lat": 33.90107,
+        "lng": -5.56831
+      },
+      {
+        "nome": "Mellah e Bab el-Khemis",
+        "testo": "Il quartiere ebraico che Moulay Ismail spostò a ovest della kasbah, con il vecchio cimitero israelita e il mercato. Poco lontano c'è Bab el-Khemis, una delle porte aperte dal sultano nei suoi lavori sulla medina.",
+        "come": "A piedi da el-Hedim, verso ovest.",
+        "quando": "Mattina.",
+        "tempo": "45 minuti",
+        "lat": 33.89235,
+        "lng": -5.57174
+      }
     ],
     programmi: [
       {
-        titolo: '1 giorno',
-        tappe: ['Mattina: Volubilis', 'Fine mattina: Moulay Idriss', 'Pomeriggio: Bab Mansour, el-Hedim e il mausoleo di Moulay Ismail'],
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Volubilis",
+          "Fine mattina: Moulay Idriss",
+          "Pomeriggio: Bab Mansour, el-Hedim e il mausoleo di Moulay Ismail"
+        ]
       },
       {
-        titolo: '2 giorni',
-        tappe: ['Giorno 1: Volubilis e Moulay Idriss', 'Giorno 2: Meknès, con Heri es-Souani, la medersa e Dar Jamai'],
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Volubilis e Moulay Idriss",
+          "Giorno 2: Meknès, con Heri es-Souani, la medersa e Dar Jamai"
+        ]
       },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: Volubilis la mattina presto e Moulay Idriss, cena a el-Hedim",
+          "Giorno 2: Bab Mansour, piazza Lalla Aouda, Koubba el-Khayatine, mausoleo, poi Heri es-Souani e il bacino dell'Agdal al tramonto",
+          "Giorno 3: medersa, Dar Jamai, i souk fino a Bab Berdaine e il Mellah"
+        ]
+      }
     ],
     zone: [
       {
-        nome: 'Medina',
-        perChi: 'chi vuole dormire vicino a el-Hedim',
-        testo: 'Riad e guest house a pochi passi da Bab Mansour.',
+        "nome": "Medina",
+        "perChi": "chi vuole dormire vicino a el-Hedim",
+        "testo": "Riad e guest house a pochi passi da Bab Mansour."
       },
       {
-        nome: 'Ville Nouvelle',
-        perChi: 'chi arriva in auto',
-        testo: 'Hotel più semplici da raggiungere in auto; per la medina serve il taxi.',
+        "nome": "Ville Nouvelle",
+        "perChi": "chi arriva in auto",
+        "testo": "Hotel più semplici da raggiungere in auto; per la medina serve il taxi."
       },
+      {
+        "nome": "Vicino a Volubilis",
+        "perChi": "chi vuole il sito all'apertura",
+        "testo": "Qualche hotel e guesthouse tra gli ulivi intorno alle rovine: serve l'auto, ma si entra a Volubilis prima del caldo e dei gruppi."
+      }
     ],
     sapori: [
       { nome: 'Olive e olio della piana', testo: 'La zona di Volubilis e Meknès è terra di ulivi fin dall\'epoca romana.' },
@@ -1906,6 +2265,42 @@ export const destinazioniMarocco: Destinazione[] = [
       'A Volubilis si offrono guide: concordare prezzo e durata prima di partire, e chiedere il tesserino ufficiale.',
       'Il taxi per Volubilis e Moulay Idriss va concordato prima, con attesa e ritorno inclusi.',
       'Abiti coprenti a Moulay Idriss, che è una città santa.',
+    ],
+    gite: [
+      {
+        "nome": "Fès",
+        "distanza": "circa 70 km, un'ora",
+        "come": "In auto in autostrada o in treno ONCF",
+        "testo": "La medina più grande del Marocco, con le concerie e la Medersa Bou Inania. In giornata si vede poco: meglio dormirci almeno due notti."
+      },
+      {
+        "nome": "Ifrane e il Medio Atlante",
+        "distanza": "circa 66 km, 1h30",
+        "come": "In auto verso sud-est",
+        "testo": "La cittadina di montagna con tetti spioventi e parchi, a oltre 1.600 metri, e più avanti le foreste di cedri intorno ad Azrou, dove vivono le bertucce."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Meglio dormire a Meknès o fare Volubilis in giornata da Fès?",
+        "risposta": "Da Fès si fa in giornata, ma dormendo a Meknès si arriva a Volubilis presto e la mattina dopo si gira la città di Moulay Ismail con calma."
+      },
+      {
+        "domanda": "Quanto costa entrare a Volubilis?",
+        "risposta": "Circa 70 MAD a persona. All'ingresso ci sono guide ufficiali a pagamento: prezzo e durata vanno concordati prima."
+      },
+      {
+        "domanda": "I non musulmani possono entrare nei monumenti religiosi?",
+        "risposta": "Nel mausoleo di Moulay Ismail sì, con abiti coprenti. Il mausoleo di Moulay Idriss e le moschee in uso non sono aperti ai non musulmani."
+      },
+      {
+        "domanda": "Quanto tempo serve a Volubilis?",
+        "risposta": "Un paio d'ore per il percorso del sito con i mosaici. D'estate conviene entrare all'apertura, perché non c'è quasi ombra."
+      },
+      {
+        "domanda": "Meknès si gira a piedi?",
+        "risposta": "La medina e la città imperiale intorno a Bab Mansour sì. Per l'Heri es-Souani e il bacino dell'Agdal serve un petit taxi."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -1935,9 +2330,10 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['Il belvedere della kasbah sul fiume e sull\'Atlantico', 'Il tour guidato della Moschea Hassan II'],
     comeArrivare:
-      'In auto da Meknès (circa 140 km, quasi 2 ore) e da Casablanca (circa 95 km, poco più di un\'ora). In alternativa il treno ONCF, con le stazioni di Rabat Ville e Rabat Agdal. C\'è anche l\'aeroporto di Rabat-Salé.',
+      "In auto da Meknès (circa 140 km, quasi 2 ore) e da Casablanca (circa 95 km, poco più di un'ora). In alternativa il treno ONCF, con le stazioni di Rabat Ville e Rabat Agdal: da Rabat Agdal passa anche l'alta velocità Al Boraq per Tangeri e Casablanca. C'è anche l'aeroporto di Rabat-Salé, a pochi chilometri dal centro. In città ci si muove a piedi e con il tram, che arriva fino a Salé.",
     comeSpostarsi: 'A piedi e in tram, che collega Rabat e Salé dal 2011.',
     periodoMigliore: 'tutto l\'anno, con la primavera e l\'autunno più piacevoli',
+    costi: "Moschea Hassan II 140 MAD; musei della Fondazione nazionale dei musei da 20 a 60 MAD. Budget giornaliero a persona, indicativo: basso 40-60 € (riad semplice in medina, pasti nei locali, tram); medio 80-130 € (riad o hotel in centro, ristoranti, un paio di musei); alto 200 € e oltre (hotel di fascia alta, cene curate, auto con autista per Casablanca).",
     erroriDaEvitare: [
       'Arrivare alla Moschea Hassan II in pantaloncini o senza maniche: non si entra',
       'Andare alla Moschea Hassan II senza controllare i turni: il venerdì sono meno',
@@ -1953,12 +2349,16 @@ export const destinazioniMarocco: Destinazione[] = [
         come: 'A piedi dalla medina. Ingresso libero alla kasbah.',
         quando: 'Mattina o tardo pomeriggio.',
         tempo: 'un\'ora o poco più',
+        "lat": 34.03056,
+        "lng": -6.83556
       },
       {
         nome: 'Giardini andalusi',
         testo: 'Il giardino creato tra il 1915 e il 1918, durante il protettorato francese, sul modello dei giardini moreschi di al-Andalus, dentro la kasbah.',
         come: 'Dentro la Kasbah degli Oudaya.',
         tempo: 'mezz\'ora circa',
+        "lat": 34.03005,
+        "lng": -6.83538
       },
       {
         nome: 'Torre Hassan e Mausoleo di Mohammed V',
@@ -1968,6 +2368,8 @@ export const destinazioniMarocco: Destinazione[] = [
         quando: 'Mattina o tardo pomeriggio.',
         tempo: 'un\'ora circa',
         consiglio: 'Abiti coprenti e niente foto alle guardie senza chiedere.',
+        "lat": 34.0241,
+        "lng": -6.82272
       },
       {
         nome: 'Chellah',
@@ -1976,6 +2378,8 @@ export const destinazioniMarocco: Destinazione[] = [
         come: 'Petit taxi o a piedi dalla Torre Hassan.',
         quando: 'Pomeriggio, quando la luce è più morbida.',
         tempo: 'un\'ora circa',
+        "lat": 34.00667,
+        "lng": -6.82028
       },
       {
         nome: 'Moschea Hassan II (Casablanca)',
@@ -1988,29 +2392,139 @@ export const destinazioniMarocco: Destinazione[] = [
         costo: '140 MAD per gli adulti stranieri (fmh2.ma, novembre 2026)',
         url: 'https://fmh2.ma/',
         consiglio: 'Spalle, busto e gambe coperti fin sotto le ginocchia: niente pantaloncini né canottiere. Le scarpe si tolgono all\'ingresso, con i sacchetti dati alla porta.',
+        "orari": "Turni guidati più volte al giorno, la mattina e nel primo pomeriggio; il venerdì sono meno",
+        "lat": 33.60734,
+        "lng": -7.63256
       },
+      {
+        "nome": "Museo nazionale della parura",
+        "testo": "Il museo dentro la Kasbah degli Oudaya, in un edificio finito sotto Moulay Ismail tra il 1672 e il 1694. È dedicato ai gioielli e agli ornamenti del Marocco, con la collezione di gioielli amazigh messa a disposizione dal re Mohammed VI, in cinque sezioni.",
+        "come": "A piedi dentro la kasbah, all'estremità ovest, vicino ai Giardini andalusi.",
+        "quando": "Mattina, prima del belvedere.",
+        "tempo": "45 minuti",
+        "costo": "60 MAD per gli stranieri (circa 5,50 €, 2026)",
+        "orari": "10-18, chiuso il martedì",
+        "url": "https://fnm.ma/museums/39",
+        "lat": 34.03049,
+        "lng": -6.8357
+      },
+      {
+        "nome": "Medina e rue des Consuls",
+        "testo": "La medina di Rabat sta tra la Kasbah degli Oudaya e il Muro andaluso: piccola, piana e ordinata, si gira senza le pressioni di Fès o Marrakech. La rue des Consuls, dove abitavano i consoli europei, è oggi la via dei tappeti, del cuoio e dell'artigianato.",
+        "come": "A piedi dalla kasbah, scendendo verso il centro.",
+        "quando": "Tardo pomeriggio, quando la medina si riempie.",
+        "tempo": "1-1,5 ore",
+        "costo": "Gratis",
+        "lat": 34.028,
+        "lng": -6.83403
+      },
+      {
+        "nome": "Bab er-Rouah",
+        "testo": "La più bella porta delle mura almohadi, costruita sotto Yaqub al-Mansur alla fine del XII secolo, con l'arco in pietra decorato da fasce scolpite. Il nome vuol dire «porta dei venti».",
+        "come": "A piedi o in tram dal centro moderno, lungo le mura.",
+        "quando": "Tardo pomeriggio, con la luce radente sulla pietra.",
+        "tempo": "15-20 minuti",
+        "costo": "Gratis",
+        "lat": 34.01283,
+        "lng": -6.83764
+      },
+      {
+        "nome": "Museo Mohammed VI d'arte moderna e contemporanea",
+        "testo": "Il primo grande museo d'arte moderna del Marocco, inaugurato nel 2014. Conserva più di 500 dipinti dei maestri marocchini, da Gharbaoui a Belkahia e Melehi, e ospita mostre temporanee internazionali.",
+        "come": "A piedi o in tram, sull'avenue Moulay Hassan, nel centro moderno.",
+        "quando": "Pomeriggio.",
+        "tempo": "1-1,5 ore",
+        "costo": "60 MAD per gli stranieri (circa 5,50 €, 2026)",
+        "orari": "10-18, chiuso il martedì",
+        "url": "https://fnm.ma/museums/31",
+        "lat": 34.01528,
+        "lng": -6.83278
+      },
+      {
+        "nome": "Museo di storia e delle civiltà",
+        "testo": "L'ex museo archeologico nazionale, con reperti dalla preistoria alle dinastie islamiche. La sala dei bronzi romani trovati a Volubilis, con la testa di Giuba II e l'efebo, è il motivo principale per entrare.",
+        "come": "A piedi, in rue El Brihi, vicino alla moschea As-Sunna.",
+        "quando": "Mattina o primo pomeriggio.",
+        "tempo": "1 ora",
+        "costo": "20 MAD adulti (circa 2 €, 2026)",
+        "orari": "10-18, chiuso il martedì",
+        "url": "https://fnm.ma/museums/27",
+        "consiglio": "Utile prima o dopo Volubilis, per vedere i pezzi migliori del sito.",
+        "lat": 34.01361,
+        "lng": -6.83139
+      },
+      {
+        "nome": "Cattedrale di Saint-Pierre",
+        "testo": "La cattedrale cattolica di Rabat, inaugurata nel 1921 nel quartiere costruito durante il protettorato francese. Dà sulla piazza del Golan, nel cuore della città nuova.",
+        "come": "A piedi dal Museo Mohammed VI, pochi minuti.",
+        "quando": "Di passaggio, nel centro moderno.",
+        "tempo": "15 minuti",
+        "lat": 34.0179,
+        "lng": -6.83125
+      },
+      {
+        "nome": "Museo nazionale della fotografia (Forte Rottembourg)",
+        "testo": "Un forte costruito tra il 1873 e il 1894, il primo edificio in cemento armato del Marocco, restaurato e aperto nel 2020 come museo della fotografia. Sta sulla scogliera a ovest della medina, sopra l'Atlantico.",
+        "come": "In taxi dalla medina, lungo la costa verso ovest.",
+        "quando": "Pomeriggio, con la vista sull'oceano.",
+        "tempo": "1 ora",
+        "costo": "20 MAD adulti (circa 2 €, 2026)",
+        "orari": "10-18, chiuso il martedì",
+        "url": "https://fnm.ma/museums/36",
+        "lat": 34.025,
+        "lng": -6.8509
+      },
+      {
+        "nome": "Salé e la medersa merinide",
+        "testo": "La città sull'altra riva del Bou Regreg, più popolare e meno visitata di Rabat, con una medina dai monumenti merinidi. Vicino alla Grande Moschea c'è la madrasa di Abu al-Hasan, del XIV secolo, con legni e stucchi scolpiti.",
+        "come": "In tram da Rabat, attraversando il ponte sul Bou Regreg, poi a piedi.",
+        "quando": "Mattina.",
+        "tempo": "1,5-2 ore",
+        "lat": 34.03996,
+        "lng": -6.82725
+      }
     ],
     programmi: [
       {
-        titolo: '1 giorno',
-        tappe: ['Mattina: Kasbah degli Oudaya e Giardini andalusi', 'Pomeriggio: Torre Hassan e Mausoleo di Mohammed V', 'Fine pomeriggio: Chellah'],
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Kasbah degli Oudaya e Giardini andalusi",
+          "Pomeriggio: Torre Hassan e Mausoleo di Mohammed V",
+          "Fine pomeriggio: Chellah"
+        ]
       },
       {
-        titolo: '2 giorni',
-        tappe: ['Giorno 1: come sopra', 'Giorno 2: in auto a Casablanca e tour della Moschea Hassan II'],
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: come sopra",
+          "Giorno 2: in auto a Casablanca e tour della Moschea Hassan II"
+        ]
       },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: Kasbah degli Oudaya, Museo della parura, medina e rue des Consuls",
+          "Giorno 2: Torre Hassan, Mausoleo di Mohammed V, Museo Mohammed VI, Bab er-Rouah e Chellah",
+          "Giorno 3: in auto a Casablanca e tour della Moschea Hassan II"
+        ]
+      }
     ],
     zone: [
       {
-        nome: 'Medina di Rabat',
-        perChi: 'chi vuole dormire vicino alla kasbah',
-        testo: 'Riad a pochi minuti dalla Kasbah degli Oudaya. Più tranquilla della medina di Fès.',
+        "nome": "Medina di Rabat",
+        "perChi": "chi vuole dormire vicino alla kasbah",
+        "testo": "Riad a pochi minuti dalla Kasbah degli Oudaya. Più tranquilla della medina di Fès."
       },
       {
-        nome: 'Centro moderno e Agdal',
-        perChi: 'chi arriva in auto o vuole comodità',
-        testo: 'Hotel nella città moderna, con il tram per la medina.',
+        "nome": "Centro moderno e Agdal",
+        "perChi": "chi arriva in auto o vuole comodità",
+        "testo": "Hotel nella città moderna, con il tram per la medina."
       },
+      {
+        "nome": "Hassan e il lungofiume",
+        "perChi": "chi vuole stare tra medina e Torre Hassan",
+        "testo": "La zona tra le mura della medina e la Torre Hassan, con hotel e il tram sotto casa: si va a piedi sia alla kasbah sia al mausoleo."
+      }
     ],
     sapori: [
       { nome: 'Pesce dell\'Atlantico', testo: 'Pesce alla griglia nei ristoranti verso il porto e la foce del fiume.' },
@@ -2020,6 +2534,52 @@ export const destinazioniMarocco: Destinazione[] = [
       'Alla Moschea Hassan II si entra solo con il tour guidato e con abiti coprenti: il prezzo ufficiale è quello del sito fmh2.ma.',
       'Borseggi nelle zone affollate e sulle spiagge.',
       'Taxi: chiedere il tassametro o concordare il prezzo prima.',
+    ],
+    gite: [
+      {
+        "nome": "Casablanca",
+        "distanza": "circa 95 km, poco più di un'ora",
+        "come": "In auto in autostrada o in treno ONCF",
+        "testo": "Per la Moschea Hassan II sul mare, con il tour guidato, il quartiere Habous e i palazzi Art Déco del centro."
+      },
+      {
+        "nome": "Lago di Sidi Boughaba e Mehdia",
+        "distanza": "circa 36 km, tre quarti d'ora",
+        "come": "In auto verso nord, vicino a Kenitra",
+        "testo": "Una riserva naturale con un lago d'acqua dolce dietro le dune, buona per gli uccelli acquatici, e poco più in là la spiaggia di Mehdia, frequentata dai surfisti di Rabat."
+      },
+      {
+        "nome": "Meknès e Volubilis",
+        "distanza": "circa 140 km, quasi 2 ore",
+        "come": "In auto in autostrada o in treno ONCF",
+        "testo": "La città di Moulay Ismail e le rovine romane di Volubilis: in giornata si fa una delle due, meglio dormire a Meknès."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Rabat?",
+        "risposta": "Un giorno basta per la Kasbah degli Oudaya, la Torre Hassan e lo Chellah. Con due o tre si aggiungono i musei, Salé e Casablanca."
+      },
+      {
+        "domanda": "Si può visitare la Moschea Hassan II?",
+        "risposta": "Sì, solo con il tour guidato, a 140 MAD per gli adulti stranieri. Gli orari dei turni sono su fmh2.ma e servono abiti coprenti fino sotto le ginocchia."
+      },
+      {
+        "domanda": "Rabat è sicura e tranquilla da girare?",
+        "risposta": "È una delle città più ordinate del Marocco e si gira senza pressioni. Restano i borseggi nelle zone affollate, come in ogni capitale."
+      },
+      {
+        "domanda": "Il Mausoleo di Mohammed V si visita?",
+        "risposta": "Sì, l'ingresso è gratuito e aperto anche ai non musulmani, con abiti composti. Le guardie d'onore si fotografano solo chiedendo."
+      },
+      {
+        "domanda": "Come ci si muove tra Rabat e Salé?",
+        "risposta": "Con il tram, che dal 2011 collega le due città attraverso il ponte sul Bou Regreg. In alternativa i petit taxi, con il tassametro."
+      },
+      {
+        "domanda": "Quali musei di Rabat sono chiusi il martedì?",
+        "risposta": "Quelli della Fondazione nazionale dei musei: Museo Mohammed VI, Museo di storia e delle civiltà, Museo della parura e Museo della fotografia, aperti 10-18 negli altri giorni."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

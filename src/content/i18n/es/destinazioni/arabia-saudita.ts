@@ -31,13 +31,12 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Cerca de Al-Balad para estar en la parte histórica, o en la Corniche por el mar y los restaurantes. Yeda es grande y dispersa: la ubicación cuenta más que en otros sitios.",
     doveMangiare:
       "Yeda es la ciudad donde mejor se come en Arabia Saudí, porque siglos de peregrinación han traído aquí cocinas de todo el mundo musulmán. Hay que probar el kabsa, el plato nacional de arroz especiado con carne, el mandi yemení cocinado en horno enterrado, el foul en el desayuno y el pescado del Mar Rojo a la parrilla en la Corniche. Luego el café árabe con dátiles, que aquí es un ritual de hospitalidad más que una consumición. **En el país no hay alcohol**, ni siquiera en los hoteles.",
-    comeArrivare:
-      "Vuelo internacional al King Abdulaziz (JED), el principal aeropuerto del oeste saudí. Es también el aeropuerto donde aterriza quien usa el visado de escala de Saudia o flynas.",
+    comeArrivare: "Vuelo internacional al King Abdulaziz (JED), el principal aeropuerto del oeste saudí, donde aterriza también quien usa el visado stopover de Saudia o flynas. Para llegar al centro lo más práctico es Uber o Careem, unos 50-100 SAR (12-23 €) y 30-50 minutos hasta Al-Balad o la Corniche; los taxis oficiales de la parada cuestan unos 100-150 SAR. El tren Haramain sale de la Terminal 1 hacia la estación Al Sulaymaniyah, pero queda lejos del casco antiguo. Evitar a los conductores sin licencia que se ofrecen en llegadas.",
     comeSpostarsi:
       "Uber y Careem funcionan muy bien y cuestan poco: son el medio normal. Al-Balad se recorre a pie, el resto de la ciudad no, porque las distancias son de metrópolis americana.",
     periodoMigliore:
       "de noviembre a marzo. Por el Mar Rojo, Yeda es cálida y húmeda casi todo el año, y en verano el calor y la humedad juntos pesan incluso para los estándares de la región.",
-    costi: "Pasear por Al-Balad no cuesta nada; las casas-museo tienen entradas contenidas. Los hoteles tienen precios de capital.",
+    costi: "Pasear por Al-Balad y la Corniche no cuesta nada, Hayy Jameel es gratuito, las casas-museo tienen entradas moderadas. Uber y Careem cuestan poco; los hoteles tienen precios de capital. Presupuesto diario por persona, orientativo: bajo 60-80 € (hotel sencillo en doble, Uber, comida de barrio); medio 130-180 € (hotel en la Corniche, una cena de pescado, un museo); alto 300 € o más (resort en Obhur, salida privada en barco).",
     erroriDaEvitare: [
       "Intentar ir a La Meca: está **vetada a los no musulmanes**, en la autopista los carteles indican los desvíos obligatorios y hay controles. No es una formalidad que se pueda eludir",
       "Visitar Al-Balad a mediodía: el barrio se anima a última hora de la tarde, y solo entonces la luz llega a las fachadas de madera",
@@ -97,14 +96,20 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "come": "Se recorre a pie por las callejuelas; taxi o Uber hasta el borde del barrio. Con un guía se entiende mejor lo que se ve.",
         "quando": "Última hora de la tarde, cuando la luz baja toca la madera y el barrio se anima. A mediodía está polvoriento y vacío.",
         "tempo": "2-3 horas",
-        "consiglio": "Terminar la visita en los callejones del zoco con un café árabe con cardamomo."
+        "consiglio": "Terminar la visita en los callejones del zoco con un café árabe con cardamomo.",
+        "orari": "Barrio siempre abierto; tiendas y puestos del zoco cierran durante las oraciones",
+        "costo": "Entrada libre (2026)",
+        "lat": 21.48333,
+        "lng": 39.18333
       },
       {
         "nome": "Casa Nassif",
-        "testo": "Una de las casas-torre más conocidas de Al-Balad.",
+        "testo": "Construida entre 1872 y 1881 para el comerciante Omar Nasseef, es la casa-torre más conocida de Al-Balad: en 1925 vivió en ella Ibn Saud tras entrar en Yeda. La rampa interior permitía subir los camellos a los pisos altos. Hoy es un centro cultural con exposiciones y charlas.",
         "come": "Dentro de Al-Balad, a pie.",
         "quando": "Mañana o final de la tarde. Horario de los interiores: preguntar en el lugar.",
-        "tempo": "45 minutos"
+        "tempo": "45 minutos",
+        "lat": 21.48389,
+        "lng": 39.18778
       },
       {
         "nome": "Corniche, Fuente del Rey Fahd y mezquita Al-Rahma",
@@ -112,23 +117,124 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "come": "Taxi o Uber desde el centro. Se pasea por el paseo marítimo.",
         "quando": "Atardecer y noche, sobre todo el fin de semana.",
         "tempo": "2 horas",
-        "consiglio": "Cenar pescado en alguno de los restaurantes de la zona."
+        "consiglio": "Cenar pescado en alguno de los restaurantes de la zona.",
+        "orari": "Paseo marítimo siempre abierto; la fuente funciona sobre todo por la noche",
+        "costo": "Gratis (2026)",
+        "lat": 21.51556,
+        "lng": 39.145
+      },
+      {
+        "nome": "Mezquita Al-Shafi'i",
+        "testo": "Una de las mezquitas más antiguas de Yeda, con orígenes en el siglo XIII, en el barrio Al-Mazloum de Al-Balad. Su minarete se ve desde las callejuelas de alrededor y sirve de referencia para orientarse en el casco antiguo.",
+        "come": "A pie desde Casa Nassif, pocos minutos por las callejuelas.",
+        "quando": "Fuera de las horas de oración, con ropa que cubra.",
+        "tempo": "20 minutos",
+        "lat": 21.48611,
+        "lng": 39.1875,
+        "consiglio": "Los no musulmanes suelen verla desde fuera: preguntar en el lugar antes de entrar."
+      },
+      {
+        "nome": "Zoco Al-Alawi",
+        "testo": "La calle-mercado que cruza Al-Balad, todavía en actividad: especias, incienso, telas, dátiles y café. Es la forma más sencilla de ver el barrio vivido, no solo restaurado.",
+        "come": "A pie, dentro de Al-Balad.",
+        "quando": "Última hora de la tarde y después de la oración del atardecer, cuando reabren las tiendas.",
+        "tempo": "1 hora",
+        "orari": "Tiendas cerradas durante las oraciones",
+        "costo": "Entrada libre (2026)",
+        "lat": 21.48421,
+        "lng": 39.1875,
+        "consiglio": "Llevar efectivo para los puestos más pequeños."
+      },
+      {
+        "nome": "Bab Makkah",
+        "testo": "La puerta oriental de la ciudad vieja, de donde salía el camino hacia La Meca. A su alrededor hay uno de los mercados más populares de Al-Balad, con fruta, dulces y comida callejera.",
+        "come": "A pie desde el zoco Al-Alawi, hacia el este.",
+        "quando": "Noche.",
+        "tempo": "30-45 minutos",
+        "costo": "Entrada libre (2026)",
+        "lat": 21.48526,
+        "lng": 39.1927
+      },
+      {
+        "nome": "Casa-museo Matbouli",
+        "testo": "Una casa de Al-Balad abierta como museo: una de las pocas formas de ver por dentro una casa-torre del barrio.",
+        "come": "A pie, cerca del zoco Al-Alawi.",
+        "quando": "Tarde; preguntar el horario en el lugar.",
+        "tempo": "45 minutos",
+        "lat": 21.48499,
+        "lng": 39.18884
+      },
+      {
+        "nome": "Museo del Mar Rojo",
+        "testo": "Abierto el 6 de diciembre de 2025 en el edificio restaurado de Bab Al-Bunt, la antigua puerta al mar de Yeda, en el borde de Al-Balad. Más de mil objetos en 23 salas cuentan el Mar Rojo: comercio, peregrinación, navegación y naturaleza.",
+        "come": "Taxi o Uber hasta el paseo marítimo de Al-Balad, luego a pie.",
+        "quando": "Mañana o primera hora de la tarde, antes del paseo por el barrio al atardecer.",
+        "tempo": "1,5-2 horas",
+        "consiglio": "Verlo antes de Al-Balad: ayuda a entender de dónde llegaban la madera de los rawashin y los peregrinos."
+      },
+      {
+        "nome": "Mezquita Al-Rahma",
+        "testo": "La «mezquita flotante», de 1985, construida al borde del mar en la Corniche norte: con la marea alta parece apoyada sobre el agua. Tiene una cúpula principal y 52 cúpulas más pequeñas.",
+        "come": "Taxi o Uber por la Corniche norte, unos 30 minutos desde Al-Balad.",
+        "quando": "Al atardecer, por la luz sobre el agua.",
+        "tempo": "30 minutos",
+        "lat": 21.6486,
+        "lng": 39.1008,
+        "consiglio": "Ropa que cubra; las mujeres llevan pañuelo si entran."
+      },
+      {
+        "nome": "Museo Tayebat",
+        "testo": "Un gran complejo privado construido en estilo hiyazí, con salas sobre historia de la península, arqueología, monedas, trajes tradicionales y arte islámico. Útil para ver cómo se amueblaban los interiores de las casas del Hiyaz.",
+        "come": "Taxi o Uber, barrio Al-Faisaliyah.",
+        "quando": "Mañana.",
+        "tempo": "2 horas",
+        "orari": "Domingo a jueves 8-21",
+        "lat": 21.58064,
+        "lng": 39.17655
+      },
+      {
+        "nome": "Hayy Jameel",
+        "testo": "El centro de artes contemporáneas de Art Jameel, abierto en 2021: exposiciones, cine, biblioteca, talleres y cafés. Es el mejor lugar para ver la escena artística saudí actual.",
+        "come": "Taxi o Uber, barrio Al-Muhammadiyah, en el norte de la ciudad.",
+        "quando": "Tarde o noche.",
+        "tempo": "1,5 horas",
+        "orari": "Todos los días 14-22; cerrado el martes",
+        "costo": "Entrada libre (2026)",
+        "url": "https://hayyjameel.org/visit/"
+      },
+      {
+        "nome": "Sharm Obhur",
+        "testo": "La ensenada al norte de la ciudad, un antiguo valle fluvial invadido por el mar, con puerto deportivo, clubes náuticos y playas privadas. Al fondo se ve la obra de la Jeddah Tower, que en noviembre de 2026 ha superado los 480 metros.",
+        "come": "Taxi o Uber, unos 30 km y media hora desde Al-Balad.",
+        "quando": "Mañana para el mar, atardecer para la vista.",
+        "tempo": "Medio día",
+        "lat": 21.7167,
+        "lng": 39.1167,
+        "consiglio": "Las mejores playas son de pago y están dentro de resorts o clubes: informarse antes sobre las normas de acceso y de vestimenta."
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Tarde: Al-Balad y Casa Nassif",
-          "Zoco Al-Alawi al atardecer",
-          "Noche: Corniche, fuente y cena de pescado"
+          "Mañana: Museo del Mar Rojo",
+          "Tarde: Al-Balad, Casa Nassif y mezquita Al-Shafi'i",
+          "Atardecer en el zoco Al-Alawi hasta Bab Makkah",
+          "Noche: Corniche, Fuente del Rey Fahd y cena de pescado"
         ]
       },
       {
         "titolo": "2 días",
         "tappe": [
           "Día 1: como arriba",
-          "Día 2: mañana en el Mar Rojo con snorkel o buceo, luego barrios de arte contemporáneo"
+          "Día 2: mañana en Sharm Obhur o en barco a los arrecifes, tarde en Hayy Jameel, atardecer en la mezquita Al-Rahma"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2: como arriba",
+          "Día 3: Museo Tayebat por la mañana, Casa-museo Matbouli y una segunda vuelta por Al-Balad, jueves por la noche en la Corniche con las familias"
         ]
       }
     ],
@@ -136,17 +242,22 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Al-Balad",
         "perChi": "quien quiere dormir en el centro histórico",
-        "testo": "Pocos alojamientos, restaurados en casas antiguas. Cerca de todo pero lejos del mar."
+        "testo": "Pocos alojamientos, en casas antiguas restauradas. Se sale a pie por las callejuelas al atardecer, pero el mar y los barrios nuevos quedan lejos."
       },
       {
         "nome": "Corniche",
         "perChi": "quien quiere mar y comodidad",
-        "testo": "Hoteles y resorts en el paseo marítimo, con restaurantes cerca."
+        "testo": "Hoteles y resorts en el paseo marítimo, con restaurantes de pescado y paseos nocturnos. Para Al-Balad hacen falta 15-30 minutos de taxi."
       },
       {
         "nome": "Barrios nuevos",
         "perChi": "quien prefiere hoteles internacionales",
-        "testo": "Torres de cristal y cadenas globales, cómodos pero anónimos."
+        "testo": "Torres de cristal y cadenas internacionales a lo largo de las grandes avenidas del norte: cómodos y con muchos servicios, pero desde aquí solo se mueve uno en coche."
+      },
+      {
+        "nome": "Obhur",
+        "perChi": "quien quiere mar y salidas en barco",
+        "testo": "Resorts y clubes con playa privada en la ensenada del norte. Lejos del centro, a una media hora de Al-Balad."
       }
     ],
     sapori: [
@@ -173,6 +284,46 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Al-Balad a mediodía: el barrio se anima a última hora de la tarde, cuando la luz llega a la madera.",
       "Fotos a las personas, sobre todo a las mujeres: pedir siempre permiso.",
       "Normas de vestimenta y comportamiento en público: comprobar los canales oficiales antes de partir."
+    ],
+    gite: [
+      {
+        "nome": "Arrecifes del Mar Rojo en barco",
+        "distanza": "30 km, unos 30 minutos hasta Obhur",
+        "come": "Salidas de snorkel o buceo con los centros de buceo y clubes náuticos de Obhur, reservadas uno o dos días antes.",
+        "testo": "Frente a Yeda hay arrecifes mucho menos frecuentados que los egipcios. Medio día basta para dos inmersiones y volver antes del calor."
+      },
+      {
+        "nome": "Umluj",
+        "distanza": "unas 5-6 horas de carretera hacia el norte",
+        "come": "En coche por la costa, mejor con al menos una noche allí.",
+        "testo": "Un archipiélago de islas de arena blanca y arrecifes casi intactos, todavía sin estructuras turísticas. No es una excursión de un día: tiene sentido como etapa hacia AlUla."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Yeda?",
+        "risposta": "Dos días bastan para Al-Balad, la Corniche y una mañana en el mar. Con tres se añaden los museos y Hayy Jameel sin prisas."
+      },
+      {
+        "domanda": "¿Pueden los no musulmanes visitar Yeda?",
+        "risposta": "Sí, Yeda está abierta a todos. Es La Meca, a unos 80 km, la que está prohibida a los no musulmanes: las autopistas señalan los desvíos obligatorios."
+      },
+      {
+        "domanda": "¿Cuál es el mejor momento para Al-Balad?",
+        "risposta": "La última hora de la tarde, una hora y media antes del atardecer. A mediodía el barrio está vacío y la luz es plana; tras la oración del atardecer reabren las tiendas."
+      },
+      {
+        "domanda": "¿Cómo moverse por la ciudad?",
+        "risposta": "Con Uber o Careem, que cuestan poco y funcionan bien. Al-Balad se recorre a pie, el resto de la ciudad no: las distancias son enormes."
+      },
+      {
+        "domanda": "¿Se puede uno bañar en Yeda?",
+        "risposta": "Sí, pero las mejores playas están dentro de resorts y clubes de pago, sobre todo en Obhur. En las playas públicas rigen las normas de vestimenta del país."
+      },
+      {
+        "domanda": "¿Cuándo conviene ir?",
+        "risposta": "De noviembre a marzo. El resto del año el calor y la humedad del Mar Rojo hacen pesado incluso un paseo nocturno."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: ['al-balad-jeddah'],
@@ -212,14 +363,12 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "AlUla tiene pocos alojamientos para la demanda y precios altos, desde los resorts en el desierto, carísimos, hasta los alojamientos más sencillos de la ciudad nueva. **Hay que reservar con mucha antelación**, sobre todo entre diciembre y febrero, en plena temporada, con festivales y eventos.",
     doveMangiare:
       "La oferta ha crecido deprisa, pero sigue siendo limitada y cara comparada con el resto del país. En la ciudad vieja restaurada hay restaurantes y cafés; en la ciudad nueva se come en los locales de barrio a precios normales. Hay que buscar los dátiles del oasis, el producto local, para comprar directamente a los productores.",
-    comeArrivare:
-      "Normalmente con un vuelo interno a AlUla (ULH) desde Riad o Yeda. Como alternativa hay unas 7 horas de carretera desde Yeda y 3-4 desde Medina: las carreteras son excelentes y la gasolina cuesta poquísimo, así que el coche de alquiler es una opción posible.",
+    comeArrivare: "Normalmente con un vuelo interno a AlUla (ULH): alrededor de una hora y media desde Yeda y dos horas desde Riad, con Saudia y flynas. Al llegar conviene recoger el coche de alquiler, reservado antes en temporada alta. Como alternativa hay unas 7 horas de carretera desde Yeda y 3-4 desde Medina: las carreteras son excelentes y la gasolina cuesta poquísimo.",
     comeSpostarsi:
       "En AlUla hay un servicio de lanzaderas entre los sitios principales; para lo demás hace falta coche. **En Hegra no se entra con vehículo propio**: solo se accede con los autobuses y los guías del sitio.",
     periodoMigliore:
       "de octubre a marzo; los mejores meses son diciembre y febrero, con temperaturas entre 12 y 25 grados. En verano se supera con mucho los 40 y la visita se vuelve imposible. Las noches en el desierto son frías incluso en invierno.",
-    costi:
-      "la entrada a Hegra con visita guiada tiene un billete con aforo limitado que hay que reservar online; los demás sitios tienen entradas separadas o combinadas. El alojamiento es la partida más cara de todo el viaje por Arabia Saudí.",
+    costi: "Hegra Day Tour 95 SAR (unos 22 €), tour Dadan y Jabal Ikmah desde 60 SAR (unos 14 €), el oasis, AlJadidah y el Harrat Viewpoint gratuitos. El alojamiento es la partida más cara de todo el viaje a Arabia Saudí. Presupuesto diario por persona, orientativo: bajo 90-120 € (hotel sencillo en la ciudad nueva, coche compartido, un tour); medio 180-260 € (buen hotel, dos tours, cenas en AlJadidah); alto 500 € o más (resort en el desierto, tours privados en 4x4).",
     erroriDaEvitare: [
       "Presentarse en Hegra sin reserva: los accesos son limitados, solo se entra con guía y en los meses de más afluencia las plazas se agotan",
       "Reservar el alojamiento en el último momento: AlUla tiene pocos alojamientos y en temporada alta se llena",
@@ -239,7 +388,9 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "tempo": "2-3 horas",
         "url": "https://www.experiencealula.com/en/places-to-go/hegra",
         "consiglio": "Reservar con semanas de antelación en los meses punta. No es «Petra sin multitud»: es más pequeña y más silenciosa.",
-        "costo": "Hegra Day Tour con guía 95 SAR por persona (2026)"
+        "costo": "Hegra Day Tour con guía 95 SAR por persona, unos 22 €; Hegra Premium Tour en 4x4 privado desde 1.000 SAR por vehículo, unos 230 € (2026)",
+        "lat": 26.79167,
+        "lng": 37.95278
       },
       {
         "nome": "Jabal Ikmah",
@@ -248,7 +399,9 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "quando": "Por la mañana, cuando la luz rasante resalta los grabados.",
         "tempo": "1-1,5 horas",
         "url": "https://www.experiencealula.com/en/places-to-go/jabal-ikmah",
-        "costo": "Tour Dadan y Jabal Ikmah desde 60 SAR por persona, unas 2 horas (2026)"
+        "costo": "Tour Dadan y Jabal Ikmah desde 60 SAR por persona, unos 14 €, unas 2 horas (2026)",
+        "lat": 26.695,
+        "lng": 37.8839
       },
       {
         "nome": "Dadan",
@@ -258,7 +411,9 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "tempo": "1,5 horas",
         "url": "https://www.experiencealula.com/en/places-to-go/dadan",
         "consiglio": "Suele combinarse con Jabal Ikmah.",
-        "costo": "Incluido en el tour Dadan y Jabal Ikmah (desde 60 SAR, 2026)"
+        "costo": "Incluido en el tour Dadan y Jabal Ikmah (desde 60 SAR, unos 14 €, 2026)",
+        "lat": 26.64676,
+        "lng": 37.91393
       },
       {
         "nome": "Ciudad vieja de AlUla y Elephant Rock",
@@ -267,16 +422,105 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "quando": "Ciudad vieja de la tarde a la noche; Elephant Rock abierta todos los días de 16 a medianoche (2026), mejor al atardecer.",
         "tempo": "2 horas",
         "consiglio": "No se puede subir a la roca; por la noche en el desierto hace frío y hay braseros.",
-        "costo": "Ciudad vieja de acceso libre, visita guiada 70 SAR (2026)",
-        "url": "https://www.experiencealula.com/en/places-to-go/alula-old-town"
+        "costo": "Ciudad vieja de entrada libre, visita guiada 70 SAR, unos 16 € (2026); Elephant Rock con aparcamiento gratuito",
+        "url": "https://www.experiencealula.com/en/places-to-go/alula-old-town",
+        "orari": "Ciudad vieja desde las 8-9 de la mañana, tiendas hasta las 23 y restaurantes hasta la una; Elephant Rock todos los días 16-24",
+        "lat": 26.61667,
+        "lng": 37.91667
+      },
+      {
+        "nome": "Qasr al-Farid",
+        "testo": "La «tumba solitaria», la más fotografiada de Hegra: una fachada nabatea tallada en una única roca aislada en el desierto. Quedó inacabada, y la parte baja todavía en bruto muestra que trabajaban de arriba abajo.",
+        "come": "Solo con el tour de Hegra, que hace parada aquí.",
+        "quando": "Última hora de la tarde, cuando la luz calienta la arenisca.",
+        "tempo": "20-30 minutos, dentro del tour",
+        "costo": "Incluida en el tour de Hegra (2026)",
+        "lat": 26.77397,
+        "lng": 37.96122,
+        "url": "https://www.experiencealula.com/en/places-to-go/hegra"
+      },
+      {
+        "nome": "Oasis de AlUla",
+        "testo": "El palmeral que da vida al valle: las palmeras producen más de 90.000 toneladas de dátiles al año, y entre los campos crecen también cítricos y hierbas. Unos 6 km de senderos señalizados pasan entre casas de barro abandonadas, granjas en activo y murallas antiguas.",
+        "come": "A pie o en bici; aparcamientos gratuitos, los más cómodos son Heart of the Oasis y North Parking junto a AlJadidah.",
+        "quando": "Primera hora de la mañana o final de la tarde, a la sombra.",
+        "tempo": "1,5-2 horas",
+        "orari": "Senderos abiertos día y noche",
+        "costo": "Entrada libre; Oasis Heritage Trail con guía 35 SAR, unos 8 € (2026)",
+        "lat": 26.62696,
+        "lng": 37.91683,
+        "url": "https://www.experiencealula.com/en/places-to-go/alula-oasis",
+        "consiglio": "Los dátiles se compran al peso directamente a los productores."
+      },
+      {
+        "nome": "AlJadidah Arts District",
+        "testo": "El barrio peatonal del arte, a un paso de la ciudad vieja: murales, galerías, exposiciones temporales, un cine al aire libre y una pista de patinaje. Por la noche es el lugar más animado de AlUla, con cafés, restaurantes y food trucks.",
+        "come": "A pie desde la ciudad vieja; aparcamiento gratuito en North Parking, con lanzadera.",
+        "quando": "A partir de las 16, cuando se anima.",
+        "tempo": "1-2 horas",
+        "orari": "Restaurantes, food trucks y tiendas a menudo abiertos al menos hasta medianoche",
+        "costo": "Entrada libre (2026)",
+        "lat": 26.63195,
+        "lng": 37.91184,
+        "url": "https://www.experiencealula.com/en/places-to-go/aljadidah-arts-district"
+      },
+      {
+        "nome": "Harrat Viewpoint",
+        "testo": "Un mirador a 1.219 metros sobre el Harrat Uwayrid, un campo de lava encima del valle: desde aquí se ven el oasis, Dadan y la ciudad vieja. Hay telescopios para mirar las estrellas después del atardecer.",
+        "come": "En coche, unos 30 minutos desde la ciudad vieja, aparcamiento gratuito; muchos tours también paran aquí.",
+        "quando": "Atardecer, y quedarse para las estrellas.",
+        "tempo": "1-1,5 horas",
+        "orari": "Todos los días 14-22",
+        "costo": "Entrada libre, sin reserva (2026)",
+        "lat": 26.63181,
+        "lng": 37.89725,
+        "url": "https://www.experiencealula.com/en/places-to-go/harrat-viewpoint",
+        "consiglio": "Llevar sombrero y chaqueta: por la noche allí arriba sopla el viento y hace frío."
+      },
+      {
+        "nome": "Maraya",
+        "testo": "El edificio revestido de espejos en el valle de Ashar, el más grande del mundo: 9.740 paneles que reflejan las rocas de alrededor. Acoge conciertos y eventos, con una sala de 500 plazas.",
+        "come": "En coche, unos 20 minutos desde el centro de AlUla. El interior solo se ve con el tour específico o en un evento.",
+        "quando": "Última hora de la tarde, cuando el reflejo de las rocas es más cálido.",
+        "tempo": "30-45 minutos",
+        "lat": 26.74315,
+        "lng": 37.86528,
+        "url": "https://www.experiencealula.com/en/places-to-go/maraya"
+      },
+      {
+        "nome": "Reserva natural de Sharaan",
+        "testo": "Un área protegida de 1.500 km² al noreste de Hegra, con cañones de roca roja y valles en flor. Viven allí íbices de Nubia, gacelas y avestruces; algún día debería volver también el leopardo árabe.",
+        "come": "Solo con safaris en 4x4 o excursiones guiadas, a unos 45 minutos de la ciudad vieja. Niños a partir de 8 años.",
+        "quando": "Primera hora de la mañana o final de la tarde, en los meses frescos; en verano las actividades se detienen.",
+        "tempo": "3-7 horas según el tour",
+        "costo": "Hidden Valley Hike desde 304 SAR por persona, unos 70 €; safari con cena desde 1.295 SAR, unos 300 € (2026)",
+        "lat": 26.8663,
+        "lng": 38.24419,
+        "url": "https://www.experiencealula.com/en/places-to-go/sharaan-nature-reserve",
+        "consiglio": "Ropa de color arena o verde y una chaqueta: al amanecer hace frío."
       }
     ],
     programmi: [
       {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Hegra con el Day Tour y Qasr al-Farid",
+          "Tarde: oasis de AlUla a la sombra",
+          "Atardecer en Elephant Rock, cena en AlJadidah"
+        ]
+      },
+      {
         "titolo": "2 días",
         "tappe": [
           "Día 1: Hegra con visita guiada, atardecer en Elephant Rock",
-          "Día 2: Jabal Ikmah y Dadan por la mañana, ciudad vieja por la tarde"
+          "Día 2: Jabal Ikmah y Dadan por la mañana, ciudad vieja y oasis por la tarde, atardecer en Harrat Viewpoint"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2: como arriba",
+          "Día 3: excursión en la reserva de Sharaan por la mañana, Maraya por la tarde, noche en AlJadidah"
         ]
       }
     ],
@@ -284,17 +528,17 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Ciudad nueva de AlUla",
         "perChi": "quien quiere precios normales",
-        "testo": "Hoteles de barrio y locales a precios más bajos, algo lejos de los sitios."
+        "testo": "Hoteles de barrio y locales a precios más bajos, a 10-30 minutos en coche de los yacimientos. Hace falta coche igualmente."
       },
       {
         "nome": "Resorts en el desierto",
         "perChi": "quien quiere lujo",
-        "testo": "Pocos alojamientos de alto nivel, muy caros y a veces lejos de todo."
+        "testo": "Pocos alojamientos de alto nivel en el valle de Ashar y alrededores, muy caros y para reservar con meses de antelación entre diciembre y febrero."
       },
       {
         "nome": "Ciudad vieja",
         "perChi": "quien quiere el ambiente histórico",
-        "testo": "Restaurantes y cafés en la parte restaurada, con alojamiento limitado."
+        "testo": "Restaurantes y cafés en la parte restaurada y en AlJadidah, a pie; pocos alojamientos."
       }
     ],
     sapori: [
@@ -321,6 +565,46 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Reservar el alojamiento a última hora: en AlUla hay pocos y en temporada alta se llenan.",
       "En verano el calor es extremo: venir entre octubre y marzo.",
       "Quedarse en Hegra y saltarse Jabal Ikmah y Dadan: son igual de interesantes."
+    ],
+    gite: [
+      {
+        "nome": "Tayma",
+        "distanza": "185 km, unas 2 horas y 45 en coche",
+        "come": "En coche hacia el noreste por carretera asfaltada, ida y vuelta en el día.",
+        "testo": "Uno de los oasis más antiguos de la península, donde en el siglo VI a. C. se retiró durante años el rey babilonio Nabonido. Quedan murallas antiguas y pozos."
+      },
+      {
+        "nome": "Khaybar",
+        "distanza": "265 km, unas 3 horas y 20 en coche",
+        "come": "En coche hacia el sureste; mejor con una noche, por las distancias.",
+        "testo": "Un oasis rodeado de campos de lava negra, con una fortaleza y restos de murallas antiguas: el paisaje volcánico es lo contrario de la arenisca de AlUla."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en AlUla?",
+        "risposta": "Tres días es la medida justa: uno para Hegra, uno para Jabal Ikmah, Dadan y la ciudad vieja, uno para Sharaan o el Harrat Viewpoint. Con dos se ve lo esencial."
+      },
+      {
+        "domanda": "¿Se puede visitar Hegra por libre?",
+        "risposta": "No. Solo se entra con tours guiados de plazas limitadas, el Day Tour en autobús desde 95 SAR o el Premium en 4x4 privado. Conviene reservar online con semanas de antelación."
+      },
+      {
+        "domanda": "¿Hace falta coche en AlUla?",
+        "risposta": "Casi siempre sí: los yacimientos están repartidos en decenas de kilómetros y los tours salen de puntos distintos. Para Hegra, Dadan y Jabal Ikmah el transporte dentro del sitio está incluido en el tour."
+      },
+      {
+        "domanda": "¿Cuándo ir a AlUla?",
+        "risposta": "De octubre a marzo, mejor entre diciembre y febrero. En verano se superan los 40 grados y muchas actividades se detienen."
+      },
+      {
+        "domanda": "¿AlUla es como Petra?",
+        "risposta": "Las dos son nabateas, pero Hegra tiene menos tumbas, ni Siq ni Tesoro. A cambio hay poquísimos visitantes e inscripciones todavía legibles."
+      },
+      {
+        "domanda": "¿Se puede dormir en AlUla sin gastar demasiado?",
+        "risposta": "Los alojamientos son pocos y caros. Los más económicos están en la ciudad nueva; en temporada alta hay que reservarlos con mucha antelación."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: ['hegra-alula'],
@@ -357,12 +641,12 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "La zona más cómoda para transporte y restaurantes es el centro moderno (Olaya, King Fahd Road). Diriyah tiene alojamientos de gama alta en el distrito restaurado. Riad es enorme y dispersa: sin coche o Uber no se llega a ninguna parte.",
     doveMangiare:
       "La cocina del Néyed es distinta de la de Yeda, más seca: el kabsa como plato principal, la jareesh (trigo partido cocido largo rato) y el mutabbaq. En los barrios viejos hay restaurantes populares excelentes que cuestan poquísimo; en los nuevos, una escena de cafés y restaurantes que ha estallado en los últimos años, con precios de capital. Hay que probar el café árabe saudí, claro y especiado con cardamomo, servido con dátiles.",
-    comeArrivare: "En avión al King Khalid International (RUH), con vuelos directos desde Europa. Desde Yeda, vuelo interno de unas 2 horas.",
+    comeArrivare: "En avión al King Khalid International (RUH), con vuelos directos desde Europa; desde Yeda el vuelo interno dura unas 2 horas, igual que desde AlUla. Desde el aeropuerto la línea 4 amarilla del metro llega a la ciudad por unos 4 SAR (menos de 1 €), con la app Darb o la tarjeta; Uber y Careem cuestan unos 60-100 SAR (14-23 €). Evitar a los conductores sin licencia en llegadas.",
     comeSpostarsi:
       "Con Uber y Careem, el medio normal, que cuestan poco. El metro de Riad se ha inaugurado hace poco y cubre los ejes principales. Para el Edge of the World hace falta un 4x4 con conductor: el último tramo es por pista y es fácil perderse.",
     periodoMigliore:
       "de noviembre a marzo. En el interior el clima es seco, y 30 grados se soportan mucho mejor que la humedad de Yeda; pero en verano se superan los 45-50 y las noches de invierno bajan cerca de cero.",
-    costi: "Diriyah tiene una entrada para At-Turaif; el Museo Nacional cuesta poco; la excursión al Edge of the World 300-600 riales según la fórmula.",
+    costi: "At-Turaif unos 100 SAR (23 €), Museo Nacional y Masmak gratuitos, Edge of the World con tour 300-600 SAR (70-140 €). Uber cuesta poco, los hoteles tienen precios de capital. Presupuesto diario por persona, orientativo: bajo 60-90 € (hotel sencillo en doble, metro y Uber, restaurantes populares); medio 140-200 € (hotel en Olaya, Diriyah, cena en los barrios nuevos); alto 350 € o más (hotel en Diriyah, tour privado, cenas en Bujairi).",
     erroriDaEvitare: [
       "Ir al Edge of the World por cuenta propia con un coche normal: el último tramo es pista, no hay señalización y el móvil tiene cobertura a ratos",
       "Visitar Diriyah a mediodía: el adobe reverbera, y lo bonito está todo en la última hora de luz",
@@ -379,21 +663,35 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "come": "En las afueras noroeste de Riad, en taxi o Uber. Entrada con billete reservado; se recorre a pie.",
         "quando": "La última hora de luz.",
         "tempo": "2 horas",
-        "consiglio": "Cenar en Bujairi Terrace para ver el sitio iluminado; Bujairi también requiere entrada reservada."
+        "consiglio": "Cenar en Bujairi Terrace para ver el sitio iluminado; Bujairi también requiere entrada reservada.",
+        "orari": "Hasta medianoche; el viernes desde las 14",
+        "costo": "Unos 100 SAR, unos 23 € (2026), entrada en diriyah.sa",
+        "url": "https://www.diriyah.sa",
+        "lat": 24.73333,
+        "lng": 46.57556
       },
       {
         "nome": "Museo Nacional Saudí",
         "testo": "Un museo completo para entender la historia de la península: ocho salas, de la geología y la prehistoria a los reinos preislámicos, el islam, los dos Estados saudíes y la unificación del reino.",
         "come": "Taxi o Uber, en el barrio de Al-Murabba, dentro del Centro histórico Rey Abdulaziz.",
-        "quando": "Mañana. Horarios en el lugar o en los canales oficiales.",
-        "tempo": "2 horas"
+        "quando": "Mañana, antes de Diriyah.",
+        "tempo": "2 horas",
+        "orari": "9-19; jueves y viernes 14-22; cerrado el domingo",
+        "costo": "Entrada gratuita (2026)",
+        "lat": 24.64572,
+        "lng": 46.71087,
+        "consiglio": "Verlo antes de Diriyah: da el contexto para entender At-Turaif."
       },
       {
         "nome": "Fuerte Masmak",
         "testo": "La fortaleza de barro y adobe en el centro viejo, desde donde en enero de 1902 empezó la reconquista de Riad por Ibn Saud. Desde 1995 es un museo, con fotos, mapas y armas.",
         "come": "Taxi o Uber, en el centro.",
         "quando": "Tarde.",
-        "tempo": "45 minutos"
+        "tempo": "45 minutos",
+        "orari": "Cerrado a mediodía, reabre por la tarde",
+        "costo": "Entrada gratuita (2026)",
+        "lat": 24.63125,
+        "lng": 46.71333
       },
       {
         "nome": "Edge of the World",
@@ -401,15 +699,111 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "come": "Con una excursión organizada o un guía local. Quien vaya por su cuenta necesita un 4x4, porque las carreteras son malas, y todo lo necesario: la zona es salvaje y no tiene servicios.",
         "quando": "Mañana o última hora de la tarde.",
         "tempo": "Medio día",
-        "consiglio": "Ir con una excursión y mantenerse lejos del borde."
+        "consiglio": "Ir con una excursión y mantenerse lejos del borde.",
+        "costo": "Sin entrada; tour en 4x4 con conductor 300-600 SAR, unos 70-140 € según la fórmula (2026)",
+        "lat": 24.95004,
+        "lng": 46.00264
+      },
+      {
+        "nome": "Bujairi Terrace",
+        "testo": "El barrio de restaurantes y cafés frente a At-Turaif, al otro lado del wadi Hanifa. Desde aquí se ven las murallas de barro iluminadas después del atardecer.",
+        "come": "A pie desde At-Turaif; también Bujairi requiere una entrada reservada.",
+        "quando": "Noche, después de la visita a At-Turaif.",
+        "tempo": "1,5-2 horas",
+        "lat": 24.73579,
+        "lng": 46.57586,
+        "url": "https://www.diriyah.sa",
+        "consiglio": "Es caro: para la vista basta un café en la terraza."
+      },
+      {
+        "nome": "Zoco Al-Zal",
+        "testo": "El mercado tradicional junto al Masmak, con alfombras, incienso, ropa, puñales y antigüedades. Es la parte de la ciudad que más se parece al Riad de antes de los rascacielos.",
+        "come": "A pie desde el Masmak.",
+        "quando": "Después de la oración de la tarde, cuando reabre y se anima.",
+        "tempo": "1 hora",
+        "orari": "Tiendas cerradas durante las oraciones",
+        "costo": "Entrada libre (2026)",
+        "lat": 24.62897,
+        "lng": 46.71224,
+        "consiglio": "Se regatea, sobre todo con las alfombras."
+      },
+      {
+        "nome": "Plaza Deira y Gran Mezquita Imam Turki",
+        "testo": "La plaza del centro antiguo, junto al palacio Al-Hukm y a la Gran Mezquita Imam Turki bin Abdullah: fundada hacia 1830 y reconstruida en 1992 en estilo najdí, acoge a 17.000 fieles. Por la noche la piedra caliza de Riad se vuelve dorada.",
+        "come": "A pie desde el Masmak y el zoco Al-Zal.",
+        "quando": "Noche, cuando refresca y la mezquita está iluminada.",
+        "tempo": "30 minutos",
+        "costo": "Entrada libre (2026)",
+        "lat": 24.63088,
+        "lng": 46.71184
+      },
+      {
+        "nome": "Palacio Murabba",
+        "testo": "El palacio «cuadrado» construido fuera de las murallas de la ciudad vieja: de 1938 a 1953 fue residencia y despacho del rey Abdulaziz. Desde 1999 es un museo, dentro del Centro Histórico Rey Abdulaziz, el mismo del Museo Nacional.",
+        "come": "A pie desde el Museo Nacional.",
+        "quando": "Tarde, junto con el museo.",
+        "tempo": "45 minutos",
+        "lat": 24.6465,
+        "lng": 46.7093
+      },
+      {
+        "nome": "Kingdom Centre y Sky Bridge",
+        "testo": "El rascacielos de 302 metros y 99 plantas con el gran hueco en lo alto, símbolo del Riad moderno. El Sky Bridge, la pasarela suspendida entre sus dos puntas, ofrece la vista más amplia de la ciudad.",
+        "come": "Taxi o Uber, barrio Olaya; taquilla en la planta baja, ascensores desde el centro comercial.",
+        "quando": "Al atardecer, con el cielo despejado.",
+        "tempo": "1 hora",
+        "lat": 24.71138,
+        "lng": 46.67435
+      },
+      {
+        "nome": "Torre Al-Faisaliah",
+        "testo": "El primer rascacielos saudí, de 2000, proyectado por Foster + Partners: 267 metros, con la esfera de cristal cerca de la cima. Hasta 2002 fue el edificio más alto del país.",
+        "come": "Taxi o Uber, barrio Olaya, a pocos minutos del Kingdom Centre.",
+        "quando": "Noche, cuando está iluminada.",
+        "tempo": "30 minutos",
+        "lat": 24.69004,
+        "lng": 46.68521
+      },
+      {
+        "nome": "King Abdullah Financial District",
+        "testo": "El distrito financiero del norte de la ciudad, con torres de estudios internacionales y calles peatonales. Es donde mejor se ve el Riad que está naciendo ahora.",
+        "come": "Metro (estación KAFD) o Uber.",
+        "quando": "Noche, para pasear.",
+        "tempo": "1 hora",
+        "lat": 24.76281,
+        "lng": 46.64031
+      },
+      {
+        "nome": "Wadi Hanifa",
+        "testo": "El valle que atraviesa Riad durante 120 km de noroeste a sureste: a lo largo de su curso están Diriyah, Uyaynah y otros pueblos históricos. En el tramo urbano hay parques y senderos junto al lecho del wadi.",
+        "come": "En coche o Uber hasta los parques del wadi.",
+        "quando": "Final de la tarde, en los meses frescos.",
+        "tempo": "1-2 horas",
+        "lat": 24.5809,
+        "lng": 46.71311
       }
     ],
     programmi: [
       {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Museo Nacional y Palacio Murabba",
+          "Tarde: Masmak, zoco Al-Zal y plaza Deira",
+          "Atardecer y noche: At-Turaif y cena en Bujairi Terrace"
+        ]
+      },
+      {
         "titolo": "2 días",
         "tappe": [
-          "Día 1: Museo Nacional y Fuerte Masmak, noche en los barrios nuevos",
-          "Día 2: mañana Edge of the World, tarde Diriyah al atardecer"
+          "Día 1: como arriba",
+          "Día 2: mañana junto al Wadi Hanifa, tarde en el Edge of the World en 4x4 hasta el atardecer"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2: como arriba",
+          "Día 3: Kingdom Centre y Sky Bridge, torre Al-Faisaliah, noche en el King Abdullah Financial District"
         ]
       }
     ],
@@ -417,12 +811,17 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Olaya / centro",
         "perChi": "quien quiere estar cerca de los servicios",
-        "testo": "Hoteles modernos y centros comerciales."
+        "testo": "Hoteles modernos, centros comerciales y restaurantes a lo largo de King Fahd Road. Es la base más cómoda para metro y Uber; a Diriyah hay unos 30 minutos."
       },
       {
         "nome": "Diriyah",
         "perChi": "quien quiere dormir cerca del sitio histórico",
-        "testo": "Pocos hoteles nuevos, tranquilos y cuidados."
+        "testo": "Pocos hoteles nuevos, tranquilos y cuidados, a pocos pasos de At-Turaif y Bujairi. Lejos del centro: cada desplazamiento a la ciudad es un viaje."
+      },
+      {
+        "nome": "Al-Murabba y centro antiguo",
+        "perChi": "quien quiere estar cerca de los museos",
+        "testo": "Hoteles más sencillos cerca del Museo Nacional, el Masmak y el zoco Al-Zal. Por la noche la zona está menos animada que los barrios nuevos."
       }
     ],
     sapori: [
@@ -449,6 +848,46 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Visitar Diriyah a mediodía: el barro refleja el calor, lo bello está en la última hora de luz.",
       "Esperar una ciudad histórica: Riad es en gran parte moderna.",
       "En verano el calor es extremo: venir entre noviembre y marzo."
+    ],
+    gite: [
+      {
+        "nome": "Ushaiger",
+        "distanza": "211 km, unas 2 horas y media en coche",
+        "come": "En coche hacia el noroeste, o con un tour de un día desde Riad.",
+        "testo": "Uno de los pueblos más antiguos del Najd, parada de los peregrinos hacia La Meca y lugar de origen de la familia Al Thani, que reina en Catar. Casas de barro restauradas, callejuelas y palmerales."
+      },
+      {
+        "nome": "Reserva Rey Khalid (Thumamah)",
+        "distanza": "74 km, alrededor de una hora en coche",
+        "come": "En coche o Uber hacia el noreste.",
+        "testo": "La antigua finca del rey Khalid, hoy área protegida entre dunas y llanuras: donde los habitantes de Riad van de pícnic al desierto en los meses frescos."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en Riad?",
+        "risposta": "Dos días para los museos del centro, Diriyah y el Edge of the World. Con un tercer día se añaden el Kingdom Centre y los barrios nuevos."
+      },
+      {
+        "domanda": "¿Se puede ir al Edge of the World por libre?",
+        "risposta": "Se puede, pero no conviene: el último tramo es pista sin señalizar, el teléfono va y viene y hace falta un 4x4. Un tour con conductor cuesta 300-600 SAR."
+      },
+      {
+        "domanda": "¿Hay que reservar Diriyah?",
+        "risposta": "Sí, la entrada a At-Turaif, unos 100 SAR, se compra online en diriyah.sa; también Bujairi Terrace requiere una entrada reservada."
+      },
+      {
+        "domanda": "¿Cómo moverse por Riad?",
+        "risposta": "Con Uber o Careem, que cuestan poco, y con el metro en los ejes principales. A pie solo se recorre el centro antiguo alrededor del Masmak."
+      },
+      {
+        "domanda": "¿El Museo Nacional es de pago?",
+        "risposta": "No, la entrada es gratuita. Cierra el domingo y abre de 9 a 19, el jueves y el viernes de 14 a 22."
+      },
+      {
+        "domanda": "¿Cuándo ir a Riad?",
+        "risposta": "De noviembre a marzo. En verano se superan los 45 grados, y las noches de invierno pueden bajar cerca de cero."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: ['diriyah', 'edge-of-the-world'],
@@ -485,12 +924,11 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Abha tiene la oferta normal de una ciudad, a precios contenidos; en los pueblos de montaña empiezan a aparecer pequeños alojamientos, pero todavía son pocos.",
     doveMangiare:
       "Por la agricultura de montaña, la cocina del Asir usa más cereales y verduras que el resto del país. Hay que probar el areeka, el pan con miel y mantequilla clarificada, y la miel del Asir, la más apreciada de la península, que en los mercados se vende a precios importantes.",
-    comeArrivare:
-      "Normalmente con un vuelo interno a Abha (AHB) desde Riad o Yeda: por tierra desde Yeda son más de 600 kilómetros de carreteras de montaña.",
+    comeArrivare: "Normalmente con un vuelo interno a Abha (AHB) desde Riad o Yeda, alrededor de una hora y media con Saudia o flynas. El aeropuerto es pequeño y está cerca de la ciudad, y el coche de alquiler se recoge allí: conviene reservarlo antes, sobre todo en verano. Por carretera desde Yeda son más de 600 kilómetros de carreteras de montaña. A la vuelta, si los billetes son separados, dejar al menos 3 horas entre el vuelo interno y el internacional.",
     comeSpostarsi: "El coche de alquiler es indispensable: los pueblos están dispersos entre las montañas y no hay transporte público útil.",
     periodoMigliore:
       "aquí el calendario va al revés que en el resto del país. La buena estación es el verano, fresco y verde; el invierno puede ser frío y brumoso. De junio a agosto el Asir se llena de saudíes que huyen del calor, y es también el periodo más animado.",
-    costi: "contenidos: quitado el vuelo interno, es una de las zonas más baratas del Reino.",
+    costi: "Contenidos: quitando el vuelo interno, es una de las zonas más económicas del Reino. El museo de Rijal Almaa cuesta unas pocas decenas de riales, los teleféricos son de pago con horarios que cambian según la temporada. Presupuesto diario por persona, orientativo: bajo 50-70 € (hotel de ciudad en doble, coche compartido, restaurantes de barrio); medio 100-150 € (mejor hotel, teleféricos, comidas en los pueblos); alto 250 € o más (resort de montaña, guía privado).",
     erroriDaEvitare: [
       "Programarla en invierno esperando el clima del resto del país: a 2.200 metros hace frío y hay niebla",
       "Ir sin coche: los pueblos están dispersos en decenas de kilómetros de montaña",
@@ -503,34 +941,103 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Rijal Almaa",
-        "testo": "La aldea de unas sesenta casas-torre de piedra, arcilla y madera en las montañas de Asir, algunas de hasta ocho plantas, con un museo del patrimonio de más de dos mil objetos y documentos.",
-        "come": "En coche desde Abha, unos 50 km al oeste, por carretera de montaña.",
-        "quando": "Mañana.",
-        "tempo": "Medio día"
+        "testo": "El pueblo de unas sesenta casas-torre de piedra, arcilla y madera, algunas de hasta ocho pisos, con las ventanas ribeteadas de blanco. Tiene más de 900 años y era una etapa comercial entre Yemen, La Meca y el Levante; en las casas restauradas hay un museo con más de dos mil objetos y documentos.",
+        "come": "En coche desde Abha, unos 50 km y una hora de curvas bajando hacia la llanura costera.",
+        "quando": "Mañana, cuando la luz es mejor y en el fondo del valle hace menos calor.",
+        "tempo": "Medio día",
+        "lat": 18.2125,
+        "lng": 42.27361
       },
       {
         "nome": "Jebel Sawda y teleférico del Asir",
-        "testo": "Considerada la cima más alta del país, aunque las mediciones de su altitud no coinciden. Se llega en coche o en teleférico.",
-        "come": "En coche desde Abha.",
+        "testo": "Reconocida oficialmente como la cima más alta del país, 3.207 metros, aunque una medición de 2018 en el Jabal Ferwa ha puesto en duda el récord. La zona está cubierta de bosques de enebro, a menudo entre la niebla, y hay babuinos que se acercan a los coches.",
+        "come": "En coche desde Abha, de media hora a una hora; o con el teleférico.",
         "quando": "A primera hora, cuando las nubes están bajas.",
-        "tempo": "Medio día"
+        "tempo": "Medio día",
+        "lat": 18.26672,
+        "lng": 42.36826,
+        "consiglio": "No dar de comer a los babuinos."
       },
       {
         "nome": "Habala",
-        "testo": "El pueblo en un valle bajo el escarpe, al que antes solo se llegaba con escalas de cuerda: el nombre viene de la palabra árabe para «cuerda». Hoy se baja en teleférico.",
-        "come": "En coche desde Abha y luego teleférico.",
-        "quando": "Por la tarde; los horarios del teleférico se comprueban allí.",
-        "tempo": "1,5 horas"
+        "testo": "El pueblo en un valle unos 300 metros por debajo del borde del escarpe, antes accesible solo con escaleras de cuerda: el nombre viene de la palabra árabe para «cuerda». Lo habitaban los «hombres de las flores», que llevaban guirnaldas de hierbas y flores secas en la cabeza. Desde los años noventa se baja en teleférico.",
+        "come": "En coche desde Abha, alrededor de una hora (58 km), luego teleférico.",
+        "quando": "Tarde; el teleférico tiene horario reducido y puede pararse con viento.",
+        "tempo": "1,5 horas",
+        "lat": 18.03808,
+        "lng": 42.87266
       },
       {
         "nome": "Abha y las casas pintadas",
-        "testo": "El qatt asiri, los motivos geométricos de colores que las mujeres pintan en las paredes interiores de las casas, patrimonio inmaterial de la UNESCO desde 2017.",
+        "testo": "El qatt asiri, los motivos geométricos de colores que las mujeres pintan en las paredes interiores de las casas, patrimonio inmaterial de la UNESCO desde 2017. Abha está a 2.270 metros y en verano es la ciudad más fresca del Reino.",
         "come": "A pie o en taxi en el centro.",
         "quando": "Mañana.",
-        "tempo": "2 horas"
+        "tempo": "2 horas",
+        "lat": 18.21694,
+        "lng": 42.50528
+      },
+      {
+        "nome": "Pueblo de arte Al-Muftaha",
+        "testo": "El barrio de los artistas de Abha, con talleres y galerías. Es uno de los lugares donde ver el qatt asiri reinterpretado por pintores actuales.",
+        "come": "A pie o en taxi desde el centro de Abha.",
+        "quando": "Tarde y noche.",
+        "tempo": "1 hora",
+        "lat": 18.21314,
+        "lng": 42.49556
+      },
+      {
+        "nome": "Monte Verde (Al-Jabal Al-Akhdar)",
+        "testo": "La colina en medio de la ciudad, con el mirador más cómodo sobre Abha y las montañas de alrededor. Por la noche es el punto de encuentro de las familias.",
+        "come": "En coche o taxi desde el centro, pocos minutos.",
+        "quando": "Atardecer y noche.",
+        "tempo": "45 minutos",
+        "lat": 18.20451,
+        "lng": 42.50634
+      },
+      {
+        "nome": "Lago de la presa de Abha",
+        "testo": "El embalse a las puertas de la ciudad, con un parque y paseos por la orilla.",
+        "come": "En coche o taxi, a pocos minutos del centro.",
+        "quando": "Última hora de la tarde.",
+        "tempo": "1 hora",
+        "lat": 18.21228,
+        "lng": 42.48668
+      },
+      {
+        "nome": "Parque Al-Sahab",
+        "testo": "El «parque de las nubes», en el borde del escarpe al oeste de Abha: con la niebla parece que uno está por encima del cielo. Hay miradores sobre los valles que bajan hacia la Tihama.",
+        "come": "En coche desde Abha, pocos kilómetros hacia el oeste.",
+        "quando": "Primera hora de la mañana o final de la tarde, cuando las nubes suben del valle.",
+        "tempo": "1 hora",
+        "lat": 18.21832,
+        "lng": 42.39671
+      },
+      {
+        "nome": "Parque nacional del Asir",
+        "testo": "Creado en 1981, cubre las crestas alrededor de Abha y del Jebel Sawda. Bosques de enebro, zonas de pícnic y carreteras panorámicas: en verano se llena de familias saudíes que huyen del calor.",
+        "come": "En coche desde Abha; la zona de As-Sūda está a una media hora.",
+        "quando": "Verano, por la mañana.",
+        "tempo": "Medio día",
+        "lat": 18.27615,
+        "lng": 42.36442
       }
     ],
     programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Rijal Almaa y su museo",
+          "Tarde: Abha, las casas pintadas y el pueblo de arte Al-Muftaha",
+          "Atardecer en el Monte Verde"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba",
+          "Día 2: Jebel Sawda y parque nacional del Asir por la mañana, tarde en el parque Al-Sahab"
+        ]
+      },
       {
         "titolo": "3 días",
         "tappe": [
@@ -544,12 +1051,17 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Abha",
         "perChi": "quien quiere una base con servicios",
-        "testo": "Hoteles y restaurantes, base para las excursiones por la montaña."
+        "testo": "Hoteles de ciudad a precios contenidos y restaurantes, en el centro de todas las excursiones: Rijal Almaa, Habala y el Jebel Sawda están a menos de una hora."
       },
       {
         "nome": "Pueblos de montaña",
         "perChi": "quien quiere calma",
-        "testo": "Pocas casas de huéspedes, hace falta coche."
+        "testo": "Pocas casas de huéspedes y pequeños alojamientos entre las terrazas. Hace falta coche, y en invierno la niebla y el frío se notan."
+      },
+      {
+        "nome": "Khamis Mushait",
+        "perChi": "quien busca más oferta y precios bajos",
+        "testo": "La gran ciudad a media hora de Abha, con hoteles de cadena y centros comerciales. Más cómoda por los servicios, menos bonita como base."
       }
     ],
     sapori: [
@@ -576,6 +1088,42 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Sin coche no se llega: los pueblos están repartidos en decenas de kilómetros.",
       "Visitarla con prisa: en un día solo se ve la carretera.",
       "Zona fronteriza: el gobierno británico desaconseja cualquier viaje a menos de 10 km de la frontera con Yemen."
+    ],
+    gite: [
+      {
+        "nome": "Khamis Mushait",
+        "distanza": "30 km, una media hora en coche",
+        "come": "En coche o taxi desde Abha.",
+        "testo": "La quinta ciudad del país y uno de los grandes centros comerciales del sur. El nombre significa «el jueves de Mushait», por el mercado semanal del jueves."
+      },
+      {
+        "nome": "Al-Namas",
+        "distanza": "144 km, alrededor de una hora y 45 en coche",
+        "come": "En coche hacia el norte por la carretera de montaña.",
+        "testo": "Una cabecera del Asir a unos 120 km al norte de Abha, en las alturas entre terrazas de cultivo. Es la excursión para quien quiere ver la montaña fuera de las rutas más trilladas."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuándo ir al Asir?",
+        "risposta": "En verano, al revés que el resto del país: por encima de los 2.000 metros hace fresco y todo está verde. El invierno puede ser frío y con niebla."
+      },
+      {
+        "domanda": "¿Hace falta coche en Abha?",
+        "risposta": "Sí. Los pueblos y miradores están repartidos por carreteras de montaña y no hay transporte público útil. El coche se recoge en el aeropuerto de Abha."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta?",
+        "risposta": "Al menos dos, mejor tres: uno para Abha, uno para Rijal Almaa, uno para Habala y el Jebel Sawda. En un solo día se ve sobre todo la carretera."
+      },
+      {
+        "domanda": "¿Es seguro ir al Asir?",
+        "risposta": "El gobierno británico desaconseja cualquier viaje a menos de 10 km de la frontera con Yemen y los viajes no esenciales a todo el país. Consultar las recomendaciones oficiales antes de salir y no bajar hacia el sur."
+      },
+      {
+        "domanda": "¿Qué comprar en el Asir?",
+        "risposta": "La miel de montaña, la más apreciada de la península, comprada a los productores tras probarla. Viaja bien en la bodega, no en el equipaje de mano."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -610,12 +1158,11 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     doveDormire:
       "En Umluj la oferta sigue siendo escasa y sobre todo sencilla; los grandes resorts costeros en construcción cambiarán por completo el cuadro. Muchos hacen base en Yanbu, mejor equipada.",
     doveMangiare: "Pescado, en los restaurantes de los puertos y de los pueblos costeros, a precios bajos. Es una zona todavía no turística: pocas opciones y ningún menú en inglés.",
-    comeArrivare:
-      "Con un vuelo interno a Yanbu o Al Wajh, o bien en coche desde Yeda: unas 5-6 horas de carretera costera, que encajan bien en el trayecto hacia AlUla.",
+    comeArrivare: "Con un vuelo interno a Yanbu o Al-Wajh y luego en coche, o directamente en coche desde Yeda: unas 5-6 horas por la carretera de la costa, que encajan bien en el trayecto hacia AlUla. De Yanbu a Umluj hay unos 150 km, de Umluj a Al-Wajh 176. Conviene recoger el coche de alquiler en el aeropuerto: en la zona no hay transporte público útil.",
     comeSpostarsi: "El coche propio es obligatorio; las salidas en barca se organizan en el puerto con los operadores locales.",
     periodoMigliore:
       "de octubre a abril. En verano el calor y la humedad de la costa hacen cansada una jornada en barca, aunque el agua sigue siendo excelente.",
-    costi: "salidas en barca a precios contenidos comparados con el Mar Rojo egipcio; alojamiento económico hasta que los grandes proyectos estén abiertos.",
+    costi: "Salidas en barco a precios contenidos respecto al Mar Rojo egipcio, a negociar con los operadores locales; alojamientos económicos en el pueblo, carísimos en los resorts de The Red Sea. Presupuesto diario por persona, orientativo: bajo 60-80 € (alojamiento sencillo en doble, coche compartido, pescado en el puerto); medio 120-180 € (mejor hotel o Yanbu, salida en barco en grupo); alto 600 € o más (resort en las islas).",
     erroriDaEvitare: [
       "Esperar infraestructuras turísticas: aquí todavía no las hay, y es la virtud y a la vez el límite de la zona",
       "Contar con operadores de nivel internacional para las inmersiones: la escena es incipiente y hay que valorarla caso por caso",
@@ -626,24 +1173,105 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Archipiélago de Umluj",
-        "testo": "Islas de arena y bancos de coral frente a Umluj, pequeña ciudad de la costa. El turismo aquí está aún poco desarrollado.",
-        "come": "En barco desde Umluj, con operadores locales.",
-        "quando": "En los meses más frescos.",
-        "tempo": "Un día entero"
+        "testo": "Un archipiélago de 103 islas de arena blanca y bancos de coral frente a Umluj, pequeña ciudad de la costa. El turismo aquí está aún poco desarrollado: nada de estructuras en las islas, solo barcos de operadores locales.",
+        "come": "En barco desde Umluj, con operadores locales, a acordar en el puerto o a través del alojamiento.",
+        "quando": "De octubre a abril, por la mañana cuando el mar está más tranquilo.",
+        "tempo": "Un día",
+        "consiglio": "Llevar agua, sombra y comida: en las islas no hay nada."
       },
       {
         "nome": "Arrecifes del norte del Mar Rojo",
-        "testo": "Arrecifes poco frecuentados, porque el país solo concede visados turísticos desde septiembre de 2019. Snorkel y buceo con operadores locales.",
+        "testo": "Arrecifes poco frecuentados, porque el país solo emite visados turísticos desde septiembre de 2019. Se calculan unos 200 tipos de coral y 1.200 especies de peces. Snorkel y buceo con operadores locales.",
         "come": "Operadores locales, todavía pocos.",
         "quando": "En los meses más frescos.",
         "tempo": "Medio día"
+      },
+      {
+        "nome": "Isla de Jabal Hassan",
+        "testo": "La isla más grande de la provincia de Tabuk en el Mar Rojo, con relieves rocosos y aguas llenas de vida: tortugas verdes y carey, delfines y dugongos. Es también una parada de aves migratorias como grullas y avefrías.",
+        "come": "En barco desde Umluj, normalmente dentro de una salida de un día entre las islas.",
+        "quando": "Mañana, con el mar en calma.",
+        "tempo": "Medio día o un día entero",
+        "lat": 24.97778,
+        "lng": 37.08361
+      },
+      {
+        "nome": "Playa de Ras al-Shabaan",
+        "testo": "Una de las playas de arena blanca con palmeras cerca de Umluj, en el Mar Rojo. No hay servicios organizados.",
+        "come": "En coche desde Umluj.",
+        "quando": "Mañana o final de la tarde.",
+        "tempo": "2-3 horas",
+        "consiglio": "Fuera de los resorts cerrados la gente se baña vestida: informarse de las normas locales."
+      },
+      {
+        "nome": "Playa de Al-Duqm",
+        "testo": "La costa al norte de la ciudad, con palmeras en la playa y arena clara.",
+        "come": "En coche, pocos kilómetros al norte de Umluj.",
+        "quando": "Final de la tarde.",
+        "tempo": "2 horas",
+        "lat": 25.0842,
+        "lng": 37.25913
+      },
+      {
+        "nome": "Umluj y el puerto",
+        "testo": "El pueblo de pescadores del que salen todas las excursiones en barco. No tiene monumentos, pero es donde encontrar barcos, pescado y una idea de cómo era la costa antes de los grandes proyectos.",
+        "come": "En coche; desde Yeda unas 5-6 horas por la costa.",
+        "quando": "Temprano por la mañana, cuando vuelven los barcos.",
+        "tempo": "1 hora",
+        "lat": 25.03028,
+        "lng": 37.26223
+      },
+      {
+        "nome": "Destino The Red Sea",
+        "testo": "El gran proyecto turístico entre Umluj y Al-Wajh: el objetivo es llegar a 50 hoteles en 22 islas y 6 lugares de interior. Es el futuro de esta costa, con resorts de gama altísima.",
+        "come": "Se llega por el aeropuerto propio o en coche con traslado a las islas, solo con reserva en un resort.",
+        "quando": "De octubre a abril.",
+        "tempo": "Uno o varios días",
+        "lat": 25.505,
+        "lng": 36.955
+      },
+      {
+        "nome": "Al-Wajh",
+        "testo": "La pequeña ciudad costera más al norte, capital de su propia gobernación en el Mar Rojo. Tiene aeropuerto nacional y es la alternativa a Umluj para quien llega en avión.",
+        "come": "En coche desde Umluj, 176 km y unas 2 horas.",
+        "quando": "De paso, hacia AlUla o hacia el norte.",
+        "tempo": "Medio día",
+        "lat": 26.28333,
+        "lng": 36.41667
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: salida en barco entre las islas y snorkel en los arrecifes",
+          "Tarde: playa de Al-Duqm",
+          "Noche: pescado en el puerto de Umluj"
+        ]
+      },
+      {
+        "titolo": "2 días, entre Yeda y AlUla",
+        "tappe": [
+          "Día 1: de Yeda a Umluj en coche por la costa, atardecer en Ras al-Shabaan",
+          "Día 2: día en barco a Jabal Hassan, luego salida hacia AlUla o noche en Al-Wajh"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Umluj",
         "perChi": "quien quiere una base sencilla",
-        "testo": "Alojamiento barato en el puerto, sin instalaciones turísticas."
+        "testo": "Alojamientos económicos y sencillos en el pueblo, cerca del puerto del que salen los barcos. Sin estructuras turísticas propiamente dichas."
+      },
+      {
+        "nome": "Yanbu",
+        "perChi": "quien quiere más servicios",
+        "testo": "La ciudad portuaria a unos 150 km al sur, más grande y equipada, con hoteles de cadena. Se va y se vuelve en el día."
+      },
+      {
+        "nome": "Resorts de The Red Sea",
+        "perChi": "quien quiere lujo en las islas",
+        "testo": "Pocos resorts de altísimo nivel entre Umluj y Al-Wajh, muy caros y para reservar con traslado incluido."
       }
     ],
     sapori: [
@@ -669,6 +1297,42 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       "Aquí todavía no hay instalaciones turísticas: es la virtud y el límite de la zona.",
       "Operadores de buceo de nivel internacional: la escena está empezando, hay que valorarlos caso por caso.",
       "Fuera de los resorts las normas del país valen también en la playa: ropa discreta, informarse en el lugar."
+    ],
+    gite: [
+      {
+        "nome": "Harrat Lunayyir",
+        "distanza": "en el interior de Umluj",
+        "come": "En 4x4 con un guía local: no hay servicios ni señalización.",
+        "testo": "Un campo de lava con cráteres y conos volcánicos. En 2009 un enjambre de terremotos abrió grietas en el suelo y obligó a evacuar a más de dos mil personas: se considera todavía activo."
+      },
+      {
+        "nome": "Yanbu",
+        "distanza": "147 km, alrededor de una hora y 45 en coche",
+        "come": "En coche por la costa hacia el sur.",
+        "testo": "El gran puerto del Mar Rojo entre Yeda y Umluj, la base mejor equipada de la zona. Útil para partir el viaje desde Yeda o para encontrar hoteles y servicios."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Umluj es de verdad «las Maldivas saudíes»?",
+        "risposta": "Es una exageración: las islas y los arrecifes son preciosos, pero no hay resorts en las islas ni servicios turísticos. Es una costa que se está abriendo ahora."
+      },
+      {
+        "domanda": "¿Cómo se llega a Umluj?",
+        "risposta": "En coche desde Yeda, unas 5-6 horas por la costa, o con un vuelo interno a Yanbu o Al-Wajh y luego en coche. Sin coche propio no hay forma de moverse."
+      },
+      {
+        "domanda": "¿Se puede uno bañar en bañador?",
+        "risposta": "Solo dentro de los resorts cerrados. En las playas públicas rigen las normas del país, y la gente se baña vestida."
+      },
+      {
+        "domanda": "¿Cuándo ir a Umluj?",
+        "risposta": "De octubre a abril. En verano el calor y la humedad hacen agotador un día en barco, aunque el mar sigue siendo excelente."
+      },
+      {
+        "domanda": "¿Hay centros de buceo fiables?",
+        "risposta": "Pocos, y la escena está empezando: conviene elegir operadores con reseñas recientes y comprobar equipo y seguridad antes de salir."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

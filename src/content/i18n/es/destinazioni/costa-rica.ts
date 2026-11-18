@@ -21,87 +21,220 @@ export const destinazioniCostaRica: Destinazione[] = [
       'Casa Boutique Las Orquídeas, donde dormimos tanto a la llegada como la última noche. Es más una casa que un hotel: ambiente familiar, personal disponible a cualquier hora, desayuno preparado al momento. Alguna reseña señala paredes finas y habitaciones algo espartanas. Gama media.\n\nAlternativas: económicas: Selina San José, Costa Rica Backpackers Hostel · gama media: Hotel Presidente, Hotel Kekoldi (Barrio Amón) · lujo: Hotel Grano de Oro, Xandari Resort & Spa (Alajuela, cerca del aeropuerto).',
     doveMangiare: 'Jardín de Lolita y Colonia Arepas y Bar a la llegada; Costa Rica Beer Factory para la cena de despedida.',
     usciteSerali: 'La Concha, en el barrio de La California, que a diferencia del centro es seguro y animado también por la noche.',
-    comeArrivare: 'Vuelo internacional a San José; Uber del aeropuerto al centro (30 min-1h, unos 14$).',
+    comeArrivare: "El aeropuerto internacional Juan Santamaría (SJO) está en Alajuela, a unos veinte kilómetros del centro: de media hora a una hora según el tráfico. Uber cuesta unos 15-25 $ desde el punto de recogida que indica la app; los taxis naranjas Taxi Aeropuerto, los únicos autorizados frente a llegadas, van con taxímetro, unos 25-35 $. Los buses TUASA a San José salen de la calle frente a la terminal cada 10 minutos aproximadamente, de 4 a 22, por unos 700 colones. Quien aterriza en Liberia (LIR), en Guanacaste, tiene unas 4 horas de carretera.",
     comeSpostarsi: 'Uber, mejor que los taxis: cuesta un tercio menos y es más seguro.',
     periodoMigliore: 'mediados-finales de noviembre',
-    costi: 'Uber aeropuerto-centro unos 14$.',
+    costi: "Uber aeropuerto-centro unos 14-25 $. Museo Nacional 11 $, Museo del Oro 8.800 colones. Presupuesto diario por persona, orientativo para 2026: bajo 45-70 € (hostal, sodas, bus y museos); medio 100-150 € (hotel en Barrio Amón o Escalante, Uber, cenas en restaurante); alto desde 220 € (hotel histórico, traslados privados y una excursión a los volcanes).",
     erroriDaEvitare: ['Evitar el centro de la ciudad después de anochecer: mejor moverse siempre acompañado o en Uber', 'Cambiar moneda solo en bancos o casas de cambio autorizadas, nunca en la calle'],
     miaEsperienza:
       "San José merece verse solo de paso. Están bien el Mercado Central y el Museo Nacional, el de historia; por lo demás, nada especial. La cena en el Jardín de Lolita, entre los food trucks y todos sentados juntos, fue la noche perfecta para reencontrarnos después de las llegadas sueltas.",
       "luoghi": [
-        {
-          "nome": "Mercado Central",
-          "testo": "El histórico mercado cubierto del centro, con puestos de comida, café, artesanía y las sodas que sirven el casado del día.",
-          "come": "A pie desde el centro.",
-          "quando": "Mañana y mediodía, cuando las sodas tienen más movimiento.",
-          "tempo": "1-1,5 horas",
-          "consiglio": "Comer en una soda dentro del mercado es la forma más barata de probar la cocina casera."
-        },
-        {
-          "nome": "Barrio Amón",
-          "testo": "Barrio de casas de madera y ladrillo construidas entre finales del siglo XIX y principios del XX, antiguas casas de los barones del café, hoy con galerías, cafés y hoteles con encanto.",
-          "come": "A pie, al norte del centro.",
-          "quando": "Mañana, con buena luz.",
-          "tempo": "1-2 horas",
-          "consiglio": "Mejor no caminar con el teléfono en la mano, y de noche son preferibles los taxis."
-        },
-        {
-          "nome": "Museo Nacional",
-          "testo": "Alojado en el antiguo Cuartel Bellavista, con salas de historia, arqueología y naturaleza del país, frente a la Asamblea Legislativa.",
-          "come": "A pie desde el centro.",
-          "quando": "Martes a sábado de 8:30 a 16:30, domingo de 9 a 16:30; cerrado los lunes.",
-          "tempo": "1-2 horas",
-          "url": "https://www.museocostarica.go.cr/"
-        },
-        {
-          "nome": "Teatro Nacional",
-          "testo": "El teatro neoclásico inaugurado en 1897 con el Fausto, pagado con un impuesto al café. Dentro está la famosa pintura de la alegoría del café y el banano.",
-          "come": "A pie desde el centro, en la Plaza de la Cultura.",
-          "quando": "Mañana.",
-          "tempo": "1 hora",
-          "url": "https://www.teatronacional.go.cr/",
-          "consiglio": "Reservar con antelación si se quiere asistir a un espectáculo."
-        },
-        {
-          "nome": "Museo del Oro Precolombino",
-          "testo": "Los museos del Banco Central, en salas subterráneas bajo la Plaza de la Cultura, con la exposición permanente sobre el oro precolombino y el museo de numismática.",
-          "come": "A pie desde el centro: Plaza de la Cultura, entre avenida 0 y 2, calle 5.",
-          "quando": "Todos los días, 9-16.30.",
-          "tempo": "1-1,5 horas",
-          "costo": "8.800 colones para extranjeros, 6.950 para estudiantes (2026).",
-          "url": "https://www.museosdelbancocentral.org/"
-        }
-      ],
+      {
+        "nome": "Mercado Central",
+        "testo": "El mercado cubierto histórico del centro, abierto en 1880, con puestos de comida, café, artesanía y las sodas que sirven el casado del día. Los pasillos son estrechos y concurridos, y es el sitio para comprar café en grano y salsa Lizano antes de irse.",
+        "come": "A pie desde el centro.",
+        "quando": "Mañana y mediodía, cuando las sodas tienen más movimiento.",
+        "tempo": "1-1,5 horas",
+        "consiglio": "Comer en una soda dentro del mercado es la forma más barata de probar la cocina casera.",
+        "costo": "Entrada libre; un casado en una soda cuesta poco comparado con los restaurantes",
+        "lat": 9.93474,
+        "lng": -84.08201
+      },
+      {
+        "nome": "Barrio Amón",
+        "testo": "Barrio de casas de madera y ladrillo construidas entre finales del siglo XIX y principios del XX, antiguas residencias de los barones del café, hoy con galerías, cafés y hoteles con encanto. Entre las fachadas destaca el Castillo del Moro, una villa de estilo morisco.",
+        "come": "A pie, al norte del centro.",
+        "quando": "Mañana, con buena luz.",
+        "tempo": "1-2 horas",
+        "consiglio": "Mejor no caminar con el teléfono en la mano, y de noche son preferibles los taxis.",
+        "costo": "Gratis",
+        "lat": 9.93835,
+        "lng": -84.0767
+      },
+      {
+        "nome": "Museo Nacional",
+        "testo": "Ocupa el antiguo Cuartel Bellavista, el cuartel con los muros aún marcados por las balas de la guerra civil de 1948, con salas de historia, arqueología y naturaleza del país y un mariposario. Está frente a la Asamblea Legislativa, sobre la Plaza de la Democracia.",
+        "come": "A pie desde el centro.",
+        "quando": "Por la mañana, nada más abrir.",
+        "tempo": "1-2 horas",
+        "url": "https://www.museocostarica.go.cr/",
+        "orari": "De martes a sábado 8.30-16.30, domingo 9-16.30; cerrado los lunes",
+        "costo": "11 USD para extranjeros, unos 9,5 € (2026)",
+        "lat": 9.93283,
+        "lng": -84.07174
+      },
+      {
+        "nome": "Teatro Nacional",
+        "testo": "El teatro neoclásico inaugurado en 1897 con el Fausto, pagado con un impuesto al café. Dentro está la famosa pintura de la alegoría del café y el banano.",
+        "come": "A pie desde el centro, en la Plaza de la Cultura.",
+        "quando": "Mañana.",
+        "tempo": "1 hora",
+        "url": "https://www.teatronacional.go.cr/",
+        "consiglio": "Reservar con antelación si se quiere asistir a un espectáculo.",
+        "orari": "Visitas y taquilla 9-16",
+        "costo": "Visita del edificio 3.500 colones para extranjeros, unos 6 € (2026)",
+        "lat": 9.93316,
+        "lng": -84.07697
+      },
+      {
+        "nome": "Museo del Oro Precolombino",
+        "testo": "Los museos del Banco Central, en salas subterráneas bajo la Plaza de la Cultura, con la exposición permanente sobre el oro precolombino y el museo de numismática.",
+        "come": "A pie desde el centro: Plaza de la Cultura, entre avenida 0 y 2, calle 5.",
+        "quando": "Por la mañana o una tarde de lluvia.",
+        "tempo": "1-1,5 horas",
+        "costo": "8.800 colones para extranjeros, unos 15 €; 6.950 para estudiantes (2026)",
+        "url": "https://www.museosdelbancocentral.org/",
+        "orari": "Todos los días 9-16.30",
+        "lat": 9.9335,
+        "lng": -84.07668
+      },
+      {
+        "nome": "Catedral Metropolitana",
+        "testo": "La catedral neoclásica de la capital, reconstruida tras el terremoto de 1821 y restaurada varias veces, con vitrales de colores y techo de madera. Al lado está el Parque Central, el punto de encuentro del centro.",
+        "come": "A pie, en la Avenida 2, a dos cuadras del Teatro Nacional.",
+        "quando": "Por la mañana, fuera del horario de misas.",
+        "tempo": "20-30 minutos",
+        "costo": "Gratis",
+        "lat": 9.93275,
+        "lng": -84.07876
+      },
+      {
+        "nome": "Museo del Jade",
+        "testo": "El museo del jade y de la cultura precolombina, en un edificio moderno junto a la Plaza de la Democracia, con la mayor colección de jade americano del mundo y salas sobre cerámica y vida cotidiana de los pueblos indígenas. Es el museo más completo de la ciudad.",
+        "come": "A pie desde el centro, junto al Museo Nacional.",
+        "quando": "Por la mañana; los miércoles los extranjeros entran dos por el precio de una entrada.",
+        "tempo": "1,5-2 horas",
+        "url": "https://museodeljade.grupoins.com/"
+      },
+      {
+        "nome": "Parque Nacional y Monumento Nacional",
+        "testo": "El parque más grande del centro, con el Monumento Nacional que celebra la victoria de 1856 contra los filibusteros de William Walker. Alrededor están la Biblioteca Nacional y la Asamblea Legislativa.",
+        "come": "A pie, al norte del Museo Nacional.",
+        "quando": "De día.",
+        "tempo": "20-30 minutos",
+        "costo": "Gratis",
+        "lat": 9.93461,
+        "lng": -84.0708
+      },
+      {
+        "nome": "Parque Morazán",
+        "testo": "El parque con el Templo de la Música, un templete blanco de 1920 en medio de los jardines, entre el centro y Barrio Amón. Es un buen paso entre los monumentos y el barrio histórico.",
+        "come": "A pie, entre la Avenida 3 y la Avenida 5.",
+        "quando": "De día.",
+        "tempo": "15-20 minutos",
+        "costo": "Gratis",
+        "lat": 9.93562,
+        "lng": -84.07537
+      },
+      {
+        "nome": "Edificio Metálico",
+        "testo": "Un edificio escolar de chapa y hierro prefabricado en Bélgica y montado en San José a principios del siglo XX, con la fachada amarilla y gris. Todavía alberga una escuela, la Escuela Buenaventura Corrales.",
+        "come": "A pie, frente al Parque España, a pocos pasos del Parque Morazán.",
+        "quando": "De día; se ve desde fuera.",
+        "tempo": "10 minutos",
+        "costo": "Gratis",
+        "lat": 9.93613,
+        "lng": -84.07437,
+        "consiglio": "Es una escuela en funcionamiento: se fotografía desde la calle sin entrar."
+      },
+      {
+        "nome": "Museo de los Niños",
+        "testo": "El museo interactivo para niños, instalado en la antigua penitenciaría central, un castillo amarillo con torreones. Las salas de ciencia e historia están pensadas para familias; dentro está también la Galería Nacional de arte.",
+        "come": "Al norte del centro, pasado el río Torres: mejor en taxi o Uber.",
+        "quando": "Por la mañana; entre semana hay menos gente.",
+        "tempo": "2-3 horas",
+        "url": "https://www.museocr.org/",
+        "lat": 9.94136,
+        "lng": -84.07967
+      },
+      {
+        "nome": "Mercado Borbón",
+        "testo": "El mercado mayorista de frutas y verduras, a pocas cuadras del Mercado Central y mucho menos turístico. Aquí se ve la fruta tropical que llega de todo el país y se compra a precio de mercado.",
+        "come": "A pie desde el Mercado Central, dos cuadras al norte.",
+        "quando": "Temprano por la mañana, cuando llegan las cargas.",
+        "tempo": "30-45 minutos",
+        "costo": "Gratis",
+        "lat": 9.93642,
+        "lng": -84.08286,
+        "consiglio": "Zona concurrida y algo caótica: mochila delante y solo lo necesario en los bolsillos."
+      },
+      {
+        "nome": "Parque Metropolitano La Sabana",
+        "testo": "El gran parque al oeste del centro, construido sobre el antiguo aeropuerto, con un lago, praderas, canchas deportivas y el Estadio Nacional. Los domingos se llena de familias.",
+        "come": "En Uber o en bus desde el centro, unos 10-15 minutos.",
+        "quando": "Domingo por la mañana, para ver la ciudad descansar.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis",
+        "lat": 9.93556,
+        "lng": -84.1045
+      },
+      {
+        "nome": "Museo de Arte Costarricense",
+        "testo": "El museo de arte nacional, en la antigua terminal del aeropuerto de La Sabana. En la planta alta está el Salón Dorado, con un friso en relieve que cuenta la historia de Costa Rica.",
+        "come": "En la esquina este de La Sabana, en Uber desde el centro.",
+        "quando": "Por la mañana o a primera hora de la tarde.",
+        "tempo": "1 hora",
+        "lat": 9.93542,
+        "lng": -84.09903
+      },
+      {
+        "nome": "Barrio Escalante",
+        "testo": "El barrio residencial al este del centro convertido en la zona de restaurantes, cafés y cervecerías artesanales, a lo largo de la Calle 33. Con La California es una de las zonas más seguras y animadas también de noche.",
+        "come": "En Uber desde el centro, unos 10 minutos.",
+        "quando": "Por la noche, para cenar.",
+        "tempo": "Una noche",
+        "costo": "Gratis; cena desde 15-25 € por persona",
+        "lat": 9.9364,
+        "lng": -84.06387
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mercado Central y almuerzo en una soda",
-            "Teatro Nacional y Plaza de la Cultura",
-            "Barrio Amón por la tarde",
-            "Cena en el centro"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1 como arriba",
-            "Día 2: excursión a un volcán (Poás o Irazú) en el día, o café y Museo Nacional"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Mercado Central y almuerzo en una soda",
+          "Tarde: Teatro Nacional, Plaza de la Cultura y Museo del Oro",
+          "Final de la tarde: Parque Morazán, Edificio Metálico y Barrio Amón",
+          "Noche: cena en Barrio Escalante"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1 como arriba",
+          "Día 2: Museo Nacional y Museo del Jade por la mañana, Parque Nacional, luego La Sabana y el Museo de Arte Costarricense por la tarde"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: excursión al volcán Irazú o al Poás temprano, antes de las nubes, con regreso por Cartago y la Basílica de los Ángeles"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Barrio Amón y Otoya",
-          "perChi": "quien busca ambiente",
-          "testo": "Casas históricas, cafés y algo de vida nocturna; barrio para cruzar con cuidado después del atardecer."
-        },
-        {
-          "nome": "Cerca del aeropuerto (Alajuela)",
-          "perChi": "llegada o salida tarde",
-          "testo": "Hoteles cómodos para vuelos temprano o tarde; poco que ver."
-        }
-      ],
+      {
+        "nome": "Barrio Amón y Otoya",
+        "perChi": "quien busca ambiente",
+        "testo": "Casas históricas convertidas en pequeños hoteles, a pie de los museos; barrio que conviene cruzar con cuidado después del atardecer."
+      },
+      {
+        "nome": "Barrio Escalante y La California",
+        "perChi": "quien quiere salir de noche",
+        "testo": "Restaurantes, cervecerías y locales a pocos minutos del centro, seguros y animados también de noche; se va a pie o en Uber."
+      },
+      {
+        "nome": "La Sabana y Rohrmoser",
+        "perChi": "quien prefiere la calma",
+        "testo": "Zona residencial junto al gran parque, con hoteles modernos y supermercados; para el centro histórico hace falta Uber."
+      },
+      {
+        "nome": "Cerca del aeropuerto (Alajuela)",
+        "perChi": "llegada o salida tarde",
+        "testo": "Hoteles cómodos para vuelos muy temprano o tarde; poco que ver."
+      }
+    ],
       "sapori": [
         {
           "nome": "Pollo, arroz y frijoles",
@@ -131,6 +264,52 @@ export const destinazioniCostaRica: Destinazione[] = [
         "Las actividades en Costa Rica son carísimas y casi siempre se paga en dólares: tenedlo en cuenta en el presupuesto.",
         "La seguridad me dio una buena impresión, pero como en toda Centroamérica, siempre ojos abiertos."
       ],
+    gite: [
+      {
+        "nome": "Volcán Irazú",
+        "distanza": "aproximadamente 1 hora y media",
+        "come": "En coche, con un tour o con el bus desde San José que sube por la mañana y vuelve a primera hora de la tarde.",
+        "testo": "El volcán más alto del país, más de 3.400 metros, con cráteres grises y lunares; en días despejados se ven los dos océanos."
+      },
+      {
+        "nome": "Volcán Poás",
+        "distanza": "aproximadamente 1 hora y media",
+        "come": "En coche o con un tour; la entrada se compra en línea en el portal del SINAC y conviene revisar antes el estado del volcán.",
+        "testo": "Uno de los cráteres activos más grandes del mundo, con la laguna ácida al fondo; las nubes suben pronto, así que se llega a la apertura."
+      },
+      {
+        "nome": "Cartago y el Valle de Orosi",
+        "distanza": "unos 45 minutos",
+        "come": "En bus o en tren hasta Cartago, luego en coche o con un tour por el valle.",
+        "testo": "La antigua capital con la Basílica de los Ángeles y las ruinas de la iglesia de Santiago Apóstol, luego los cafetales y la iglesia colonial de Orosi."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta en San José?",
+        "risposta": "Un día basta para el mercado, el Teatro Nacional y los museos principales. Con un segundo día se suma una excursión al Irazú o al Poás."
+      },
+      {
+        "domanda": "¿Es segura San José?",
+        "risposta": "De día, con las precauciones normales, sí. Por la noche el centro se vacía: mejor moverse en Uber y cenar en Barrio Escalante o La California, que siguen animados y seguros."
+      },
+      {
+        "domanda": "¿Cómo se va del aeropuerto al centro?",
+        "risposta": "En Uber, unos 15-25 $, con los taxis naranjas autorizados, unos 25-35 $, o en el bus TUASA por unos 700 colones. Se tarda de media hora a una hora."
+      },
+      {
+        "domanda": "¿Qué museo elegir si hay poco tiempo?",
+        "risposta": "El Museo del Oro, bajo la Plaza de la Cultura, es el más fácil de encajar; el Museo del Jade es el más completo sobre la cultura precolombina."
+      },
+      {
+        "domanda": "¿Se paga en colones o en dólares?",
+        "risposta": "En los dos: la tarjeta se acepta casi en todas partes y los dólares circulan mucho. En las sodas y en el mercado conviene llevar colones en billetes pequeños."
+      },
+      {
+        "domanda": "¿Dónde dormir una sola noche?",
+        "risposta": "Para visitar la ciudad, Barrio Amón o Escalante. Con un vuelo al amanecer, mejor un hotel en Alajuela, cerca del aeropuerto."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'El centro de San José, capital de Costa Rica',
@@ -604,70 +783,149 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       'Epic Adventure Lodge, apreciado por la cercanía al río, el desayuno abundante y la calidez de los propietarios. La única nota discordante son pequeñas carencias, como mosquiteros y ganchos para toallas. Gama media.\n\nAlternativas: económicas: Hotel El Bambú, Perla Verde Hostel · gama media: La Quinta de Sarapiquí Lodge · lujo: Sueño Azul Resort, Islas del Río.',
     doveMangiare: 'La clase de cocina en el lodge, que se convierte también en la cena; Restaurante Mirador Tinamú.',
-    comeArrivare: '1h30 en barco desde Tortuguero más 2h30 en van.',
+    comeArrivare: "Desde Tortuguero se hace aproximadamente una hora y media de barco hasta el muelle y luego dos horas y media de van. Desde San José son entre 1 hora y media y 2 horas: la Ruta 32 cruza el Parque Braulio Carrillo, la Ruta 126 pasa por Vara Blanca y la zona de las cataratas. Los buses públicos salen de la Gran Terminal del Caribe de San José hacia Puerto Viejo de Sarapiquí. Hacia La Fortuna y el Arenal se calcula 1 hora y 20 minutos de van.",
     comeSpostarsi: 'Van privada; a pie en el lodge.',
     periodoMigliore: 'todo el año, el Sarapiquí es más constante que el Pacuaré',
-    costi: 'Comida de picnic para Bajos del Toro unos 12$ por persona.',
+    costi: "Comida de picnic para Bajos del Toro unos 12 $ por persona; Catarata del Toro 15 $; Braulio Carrillo 12 $. Presupuesto diario por persona, orientativo para 2026: bajo 55-80 € (cabinas en Puerto Viejo de Sarapiquí, sodas, senderos sin guía); medio 120-170 € (lodge junto al río con desayuno, rafting o una reserva con guía); alto desde 230 € (lodge en la selva con comidas y actividades incluidas).",
     erroriDaEvitare: ['Hacer provisión de bebidas en el supermercado por el camino antes de llegar al lodge'],
     miaEsperienza:
       'La clase de cocina en el lodge, con las empanadas preparadas a mano que luego se convirtieron en nuestra cena, fue un momento de convivencia distinto del resto del viaje, más lento y más verdadero.',
       "luoghi": [
-        {
-          "nome": "Rafting en el Río Sarapiquí",
-          "testo": "Un descenso por el río con rápidos y selva. Hay una ficha de experiencia dedicada.",
-          "come": "Tour organizado desde el lodge o con operadores locales, con guía y equipo.",
-          "quando": "Mañana.",
-          "tempo": "Media jornada"
-        },
-        {
-          "nome": "Clase de cocina en el lodge",
-          "testo": "Lección de cocina costarricense, típicamente empanadas hechas a mano que se convierten en la cena.",
-          "come": "Incluida en el paquete del lodge.",
-          "quando": "Tarde.",
-          "tempo": "2 horas",
-          "consiglio": "Un momento de convivencia, más lento y más real que el resto del viaje."
-        },
-        {
-          "nome": "Selva del lodge",
-          "testo": "Senderos en la selva alrededor del lodge, con aves, ranas y monos.",
-          "come": "A pie desde el lodge con guía.",
-          "quando": "Amanecer.",
-          "tempo": "1-2 horas"
-        },
-        {
-          "nome": "Catarata del Toro",
-          "testo": "Una catarata que cae dentro de un antiguo cráter volcánico, en el bosque de Bajos del Toro, con cuatro miradores arriba. Excursión opcional.",
-          "come": "En coche o con un tour; está más o menos a mitad de camino entre el aeropuerto de San José y La Fortuna, por carretera asfaltada. No hace falta reservar.",
-          "quando": "De lunes a sábado de 7 a 17; cerrada los domingos.",
-          "tempo": "Media jornada",
-          "costo": "15 USD (2026).",
-          "url": "https://www.catarata-del-toro.com/"
-        }
-      ],
+      {
+        "nome": "Rafting en el Río Sarapiquí",
+        "testo": "Descenso por el río entre rápidos y selva, con paradas para agua y fruta. Comparado con el Pacuare es un río más regular todo el año, apto incluso para quien nunca ha hecho rafting. Hay una ficha de experiencia dedicada.",
+        "come": "Tour organizado desde el lodge o con operadores locales, con guía y equipo.",
+        "quando": "Mañana.",
+        "tempo": "Media jornada",
+        "costo": "A menudo incluido en los paquetes de los lodges de la zona",
+        "consiglio": "Zapatos cerrados que se puedan mojar y nada de objetos de valor en la balsa."
+      },
+      {
+        "nome": "Clase de cocina en el lodge",
+        "testo": "Lección de cocina costarricense, típicamente empanadas hechas a mano que se convierten en la cena.",
+        "come": "Incluida en el paquete del lodge.",
+        "quando": "Tarde.",
+        "tempo": "2 horas",
+        "consiglio": "Un momento de convivencia, más lento y más real que el resto del viaje.",
+        "lat": 10.32396,
+        "lng": -84.17823
+      },
+      {
+        "nome": "Selva del lodge",
+        "testo": "Senderos en la selva alrededor del lodge, con aves, ranas y monos. Al amanecer la selva es más ruidosa y se ven más animales.",
+        "come": "A pie desde el lodge con guía.",
+        "quando": "Amanecer.",
+        "tempo": "1-2 horas",
+        "lat": 10.32396,
+        "lng": -84.17823
+      },
+      {
+        "nome": "Catarata del Toro",
+        "testo": "Una catarata que cae dentro de un antiguo cráter volcánico, en el bosque de Bajos del Toro, con cuatro miradores arriba. Excursión opcional.",
+        "come": "En coche o con un tour, a una hora de la zona de Sarapiquí; está más o menos a mitad de camino entre el aeropuerto de San José y La Fortuna, por carretera asfaltada. No hace falta reservar.",
+        "quando": "Por la mañana o a primera hora de la tarde: la zona cierra al final de la tarde.",
+        "tempo": "Media jornada",
+        "costo": "15 USD, unos 13 € (2026)",
+        "url": "https://www.catarata-del-toro.com/",
+        "orari": "De lunes a sábado 7-17; cerrada los domingos",
+        "lat": 10.25324,
+        "lng": -84.27259
+      },
+      {
+        "nome": "Blue Falls of Costa Rica",
+        "testo": "Una serie de cataratas y pozas de un azul lechoso, teñidas por minerales de origen volcánico, en el mismo valle de Bajos del Toro. El sendero baja entre escaleras y vados hasta varias cataratas donde se puede nadar.",
+        "come": "En coche hasta Bajos del Toro, luego a pie por el sendero; se combina con la Catarata del Toro con una entrada combinada.",
+        "quando": "Por la mañana, con la mejor luz sobre el agua; mejor evitarlo después de lluvias fuertes.",
+        "tempo": "2-4 horas",
+        "url": "https://www.catarata-del-toro.com/",
+        "lat": 10.25676,
+        "lng": -84.26504,
+        "consiglio": "Zapatos de montaña con buen agarre y traje de baño: las pozas son frías pero cristalinas."
+      },
+      {
+        "nome": "Estación Biológica La Selva",
+        "testo": "Una de las estaciones de investigación de bosque tropical más importantes del mundo, gestionada por la Organización para Estudios Tropicales desde 1968. Más de 1.600 hectáreas de bosque de llanura, con senderos acondicionados donde se ven perezosos, saínos, tucanes y ranas venenosas.",
+        "come": "A pocos kilómetros al sur de Puerto Viejo de Sarapiquí; visitas con guía naturalista con reserva, por la mañana o a primera hora de la tarde.",
+        "quando": "Temprano por la mañana, con más fauna activa.",
+        "tempo": "3 horas",
+        "url": "https://tropicalstudies.org/",
+        "lat": 10.42466,
+        "lng": -84.00643
+      },
+      {
+        "nome": "Reserva Biológica Tirimbina",
+        "testo": "Una reserva privada de bosque en La Virgen, con un largo puente colgante sobre el río Sarapiquí y senderos en la selva. Es conocida también por su tour del chocolate, que cuenta el cacao desde la planta hasta la tableta.",
+        "come": "En La Virgen, en la carretera principal; se visita por libre o con las visitas guiadas de la reserva.",
+        "quando": "Por la mañana para los senderos, por la noche para la caminata nocturna.",
+        "tempo": "2-3 horas",
+        "orari": "Todos los días 7-17",
+        "url": "https://tirimbina.org/",
+        "lat": 10.41673,
+        "lng": -84.12383
+      },
+      {
+        "nome": "Parque Nacional Braulio Carrillo, sector Quebrada González",
+        "testo": "El sector más fácil de visitar de un gran parque de bosque lluvioso de montaña, atravesado por la carretera San José-Limón. Tres senderos cortos con miradores sobre el bosque, con buenas posibilidades de ver aves y ranas.",
+        "come": "En coche por la Ruta 32 hacia Limón, a 42 km al noreste de San José; una parada en el camino hacia o desde la capital.",
+        "quando": "Por la mañana, antes de la lluvia de la tarde.",
+        "tempo": "2-3 horas",
+        "orari": "Todos los días 8-15.30",
+        "costo": "12 USD para extranjeros, unos 10 €",
+        "lat": 10.16161,
+        "lng": -83.93781
+      },
+      {
+        "nome": "Puerto Viejo de Sarapiquí",
+        "testo": "El pueblo de referencia de la zona, con banco, supermercados y el muelle sobre el río Sarapiquí de donde salen los paseos en bote. Antes de que llegara la carretera era el puerto desde el que se bajaba hacia el río San Juan y el Caribe.",
+        "come": "En coche o en bus desde San José; en bote desde el muelle para las salidas por el río.",
+        "quando": "De día, para hacer compras y sacar efectivo antes de volver al lodge.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis",
+        "lat": 10.45414,
+        "lng": -84.00825
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: rafting",
-            "Almuerzo en el lodge",
-            "Tarde: clase de cocina"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: rafting y clase de cocina",
-            "Día 2: senderos en el bosque del lodge, luego traslado hacia Arenal"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: rafting en el Sarapiquí",
+          "Almuerzo en el lodge",
+          "Tarde: clase de cocina, que se convierte en la cena"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: rafting y clase de cocina",
+          "Día 2: senderos al amanecer y Catarata del Toro con las Blue Falls, luego traslado hacia Arenal"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: visita guiada a La Selva por la mañana, puente colgante y tour del chocolate en Tirimbina por la tarde"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Lodge en la selva",
-          "perChi": "quien busca naturaleza",
-          "testo": "Alojamientos aislados, con actividades incluidas, pero lejos de los pueblos."
-        }
-      ],
+      {
+        "nome": "Lodge en la selva",
+        "perChi": "quien busca naturaleza",
+        "testo": "Alojamientos aislados, con actividades incluidas, pero lejos de los pueblos."
+      },
+      {
+        "nome": "La Virgen",
+        "perChi": "quien quiere el rafting a la puerta",
+        "testo": "El pueblo junto al río de donde salen los operadores de rafting, con lodges sobre el Sarapiquí y la reserva de Tirimbina."
+      },
+      {
+        "nome": "Puerto Viejo de Sarapiquí",
+        "perChi": "presupuesto y servicios",
+        "testo": "Cabinas y hoteles pequeños económicos, con supermercados y banco; cerca de La Selva, pero menos metido en la selva."
+      }
+    ],
       "sapori": [
         {
           "nome": "Empanadas",
@@ -691,6 +949,48 @@ export const destinazioniCostaRica: Destinazione[] = [
         "La zona es lluviosa y húmeda: impermeable y ropa de repuesto.",
         "Mosquitos e insectos: repelente."
       ],
+    gite: [
+      {
+        "nome": "La Fortuna y el volcán Arenal",
+        "distanza": "aproximadamente 1 hora y 20 minutos",
+        "come": "En van o en coche, normalmente como siguiente etapa del viaje.",
+        "testo": "El volcán de cono perfecto, la Catarata de La Fortuna y las aguas termales: la etapa natural después de Sarapiquí."
+      },
+      {
+        "nome": "La Paz Waterfall Gardens",
+        "distanza": "unos 45 minutos",
+        "come": "En coche por la Ruta 126 hacia Vara Blanca.",
+        "testo": "Un parque privado con cinco cataratas a lo largo de un sendero en el bosque, con mariposario, colibríes y animales rescatados."
+      },
+      {
+        "nome": "Volcán Poás",
+        "distanza": "aproximadamente 1 hora y media",
+        "come": "En coche por la Ruta 126; entrada en línea en el portal del SINAC.",
+        "testo": "El gran cráter activo con la laguna ácida, para ver temprano por la mañana antes de que lleguen las nubes."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿El rafting en el Sarapiquí es apto para principiantes?",
+        "risposta": "Sí: es más regular que el Pacuare todo el año y lo hacen también familias y quien nunca lo ha probado. Se sigue al guía y se llevan siempre casco y chaleco."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta en Sarapiquí?",
+        "risposta": "Dos días bastan para rafting, clase de cocina y Bajos del Toro. Con un tercero se añaden La Selva y Tirimbina."
+      },
+      {
+        "domanda": "¿La Catarata del Toro abre todos los días?",
+        "risposta": "No: abre de lunes a sábado de 7 a 17 y cierra los domingos. La entrada cuesta 15 dólares y no hace falta reservar."
+      },
+      {
+        "domanda": "¿Llueve mucho en Sarapiquí?",
+        "risposta": "Es una de las zonas más húmedas del país y llueve a menudo incluso en temporada seca, normalmente por la tarde. Impermeable y una muda seca son imprescindibles."
+      },
+      {
+        "domanda": "¿Conviene dormir en un lodge o en el pueblo?",
+        "risposta": "El lodge en la selva es el motivo para venir aquí, con actividades y comidas incluidas. Puerto Viejo de Sarapiquí cuesta menos y es cómodo para quien viaja en bus."
+      }
+    ],
     esperienzeSlugs: ['rafting-sarapiqui'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'La selva tropical alrededor de un lodge en Sarapiquí, Costa Rica',
@@ -1177,85 +1477,167 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       'El Tecal: la buena ubicación y el personal cordial son los aspectos más citados, pero varias reseñas señalan habitaciones y baños no siempre tan cuidados como deberían. Gama económica-media.\n\nAlternativas: económicas: Flutterby House, Cascada Verde Hostel · gama media: Eden Tica Lodge, Hotel Por Qué No? · lujo: La Cusinga Lodge, Oxygen Jungle Villas.',
     doveMangiare: 'Gastro Park de Uvita (a menudo descuento del 10% si se avisa con antelación).',
-    comeArrivare: 'Hasta 4 horas de van desde Monteverde, con parada fotográfica en el puente de Tárcoles.',
+    comeArrivare: "Desde Monteverde son hasta 4 horas de van, con parada fotográfica en el puente de Tárcoles por la Costanera. Desde San José se calculan unas 3-3,5 horas en coche, tomando la Ruta 27 hasta Orotina y luego la Costanera hacia el sur pasando por Jacó y Quepos. Los buses directos salen de San José. Desde Manuel Antonio es aproximadamente una hora y media. Los aeropuertos nacionales más cercanos son Quepos y Palmar Sur. Conviene llegar antes de que anochezca: las carreteras secundarias están poco iluminadas.",
     comeSpostarsi: 'A pie en la playa; van para las excursiones.',
     periodoMigliore: 'enero-marzo o julio-octubre para el whale watching (noviembre-diciembre es menos favorable)',
-    costi: 'Whale watching 70$ por persona; equitación 52$ por persona; surf 70$ por 4 tablas al día; yoga 10$ por persona.',
+    costi: "Whale watching 70 $ por persona; equitación 52 $ por persona; surf 70 $ por 4 tablas al día; yoga 10 $ por persona; Parque Marino Ballena 6 $. Presupuesto diario por persona, orientativo para 2026: bajo 55-85 € (hostal o cabinas, sodas, playa y cataratas); medio 130-190 € (hotel con piscina, avistamiento de ballenas o cabalgata, cenas en restaurante); alto desde 260 € (lodge con vista en las colinas, tours privados e Isla del Caño).",
     erroriDaEvitare: ['Fiarse de operadores improvisados para el whale watching: mejor uno serio como Uvita Ballena Jorobada, y preguntar siempre por el seguro'],
     miaEsperienza:
       "En Uvita hice un poco de todo. Para el tour de las ballenas recomiendo Uvita Ballena Jorobada. En el Rancho La Merced hicimos el paseo a caballo al atardecer por la playa: yo me caí, porque no soy un jinete experto, pero es precioso. Los animales están bien tratados, algo importantísimo para mí, y son dóciles. Superrecomendado. Costa Rica es preciosa también para el surf, y aquí lo hice con Ariel. Y la Cola de la Ballena con la marea baja sigue siendo uno de los paisajes más bonitos del viaje.",
       "luoghi": [
-        {
-          "nome": "Parque Nacional Marino Ballena y Cola de la Ballena",
-          "testo": "Un banco de arena con forma de cola de ballena que emerge con la marea baja, en el Parque Marino Ballena. Uno de los paisajes más bonitos del viaje.",
-          "come": "Entrada desde la playa de Playa Uvita; el banco se alcanza a pie con la marea baja.",
-          "quando": "Con marea baja, a consultar en las tablas de mareas.",
-          "tempo": "1-2 horas",
-          "consiglio": "Comprobar los horarios de marea: con marea alta el banco desaparece."
-        },
-        {
-          "nome": "Avistamiento de ballenas",
-          "testo": "Salida en barca en el Parque Nacional Marino Ballena, creado en 1989, para ver las ballenas jorobadas que vienen aquí a reproducirse. Hay una ficha de experiencia dedicada.",
-          "come": "Tour desde Uvita en barca pequeña.",
-          "quando": "Dos temporadas: de diciembre a abril llegan las jorobadas del hemisferio norte, de julio a noviembre las del sur.",
-          "tempo": "3 horas",
-          "consiglio": "Los avistamientos no están garantizados, pero el paisaje merece la pena igual."
-        },
-        {
-          "nome": "Puente de Tárcoles",
-          "testo": "Un puente sobre el río Tárcoles, a lo largo de la carretera principal, desde el que se ven grandes cocodrilos en las orillas.",
-          "come": "Parada en la carretera Costanera, a pie por el puente.",
-          "quando": "De día, con luz.",
-          "tempo": "15-30 minutos",
-          "consiglio": "No bajar a la orilla: los cocodrilos son reales."
-        },
-        {
-          "nome": "Surf y yoga",
-          "testo": "Alquiler de tablas y clases en la playa, y yoga al atardecer en una terraza panorámica.",
-          "come": "Escuelas y terrazas en la zona de Uvita y Dominical.",
-          "quando": "Mañana para el surf, atardecer para el yoga.",
-          "tempo": "2 horas"
-        },
-        {
-          "nome": "Parque Nacional Corcovado",
-          "testo": "El parque más salvaje del país, en la península de Osa: bosque primario, playas desiertas, dantas, pecaríes y la mayor población de lapas rojas de Costa Rica.",
-          "come": "Solo con guía autorizado y reserva (reservaciones.pnc@sinac.go.cr). En barco desde Bahía Drake, Sierpe o Puerto Jiménez hasta la estación Sirena; por tierra desde el sector La Leona, cerca de Playa Carate.",
-          "quando": "Todos los días 8-16. La mejor época va de diciembre a abril; en octubre la estación Sirena está cerrada.",
-          "tempo": "1-2 días",
-          "url": "https://www.visitcostarica.com/",
-          "consiglio": "Reservar con mucha antelación: el instituto de turismo costarricense indica al menos seis meses."
-        }
-      ],
+      {
+        "nome": "Parque Nacional Marino Ballena y Cola de la Ballena",
+        "testo": "Un banco de arena con forma de cola de ballena que aparece con la marea baja, en el Parque Marino Ballena, en Punta Uvita. Con el agua baja se camina hasta la punta entre dos playas. Uno de los paisajes más bonitos del viaje.",
+        "come": "Entrada desde la playa de Playa Uvita; el banco se alcanza a pie con la marea baja.",
+        "quando": "Con marea baja, a consultar en las tablas de mareas.",
+        "tempo": "1-2 horas",
+        "consiglio": "Comprobar los horarios de marea: con marea alta el banco desaparece.",
+        "costo": "6 USD para extranjeros, unos 5 €, solo con tarjeta",
+        "url": "https://www.visitcostarica.com/where-to-go/protected-areas/ballena-national-marine-park",
+        "lat": 9.14689,
+        "lng": -83.76133
+      },
+      {
+        "nome": "Avistamiento de ballenas",
+        "testo": "Salida en barca en el Parque Nacional Marino Ballena, creado en 1989, para ver las ballenas jorobadas que vienen aquí a reproducirse. Hay una ficha de experiencia dedicada.",
+        "come": "Tour desde Uvita en barco pequeño, con un operador serio como Uvita Ballena Jorobada; preguntar siempre por el seguro.",
+        "quando": "Dos temporadas: de diciembre a abril llegan las jorobadas del hemisferio norte, de julio a noviembre las del sur.",
+        "tempo": "3,5-4 horas",
+        "consiglio": "Los avistamientos no están garantizados, pero el paisaje merece la pena igual.",
+        "costo": "70 USD por persona con agua y fruta, unos 60 € (2026)"
+      },
+      {
+        "nome": "Puente de Tárcoles",
+        "testo": "Un puente sobre el río Tárcoles, a lo largo de la carretera principal, desde el que se ven grandes cocodrilos en las orillas.",
+        "come": "Parada en la carretera Costanera, a pie por el puente.",
+        "quando": "De día, con luz.",
+        "tempo": "15-30 minutos",
+        "consiglio": "No bajar a la orilla: los cocodrilos son reales.",
+        "costo": "Gratis",
+        "lat": 9.80087,
+        "lng": -84.60611
+      },
+      {
+        "nome": "Surf y yoga",
+        "testo": "Alquiler de tablas y clases en la playa, y yoga al atardecer en una terraza panorámica.",
+        "come": "Escuelas y terrazas en la zona de Uvita y Dominical.",
+        "quando": "Mañana para el surf, atardecer para el yoga.",
+        "tempo": "2 horas",
+        "costo": "Tablas unos 70 USD al día para cuatro; yoga unos 10 USD por persona, unos 9 €",
+        "consiglio": "El yoga al atardecer admite diez personas como máximo: conviene reservar."
+      },
+      {
+        "nome": "Parque Nacional Corcovado",
+        "testo": "El parque más salvaje del país, en la península de Osa: bosque primario, playas desiertas, dantas, pecaríes y la mayor población de lapas rojas de Costa Rica.",
+        "come": "Solo con guía autorizado y reserva (reservaciones.pnc@sinac.go.cr). En barco desde Bahía Drake, Sierpe o Puerto Jiménez hasta la estación Sirena; por tierra desde el sector La Leona, cerca de Playa Carate.",
+        "quando": "La mejor época va de diciembre a abril.",
+        "tempo": "1-2 días",
+        "url": "https://www.visitcostarica.com/",
+        "consiglio": "Reservar con mucha antelación: el instituto de turismo costarricense indica al menos seis meses.",
+        "orari": "Todos los días 7-16; el sector Sirena cierra en octubre",
+        "costo": "15 USD para extranjeros, unos 13 €, más el guía obligatorio",
+        "lat": 8.48048,
+        "lng": -83.58919
+      },
+      {
+        "nome": "Rancho La Merced",
+        "testo": "Un refugio de vida silvestre y finca cerca de Punta Uvita, junto al Parque Marino Ballena, donde se hace la cabalgata hasta la playa. Los caballos son dóciles y valen también para quien no es un jinete experto.",
+        "come": "A pocos minutos en coche de Uvita, por la Costanera hacia el norte; reserva por teléfono o WhatsApp.",
+        "quando": "Final de la tarde, para llegar a la playa al atardecer.",
+        "tempo": "2 horas",
+        "costo": "Unos 52 USD por persona, unos 45 € (2026)",
+        "url": "https://rancholamerced.com/",
+        "lat": 9.18241,
+        "lng": -83.75978
+      },
+      {
+        "nome": "Cataratas Nauyaca",
+        "testo": "Dos saltos de agua uno sobre otro, el más alto de unos 45 metros, con una gran poza donde se nada. Son la catarata más famosa de la costa sur del Pacífico.",
+        "come": "En coche hacia San Isidro de El General, luego a pie por un camino de tierra de unos 4 km por trayecto, o con el transporte 4x4 de las entradas privadas.",
+        "quando": "Por la mañana, antes del calor y de la gente.",
+        "tempo": "Media jornada",
+        "lat": 9.25464,
+        "lng": -83.80754,
+        "consiglio": "Zapatos de montaña para el camino y escarpines para la poza."
+      },
+      {
+        "nome": "Catarata Uvita",
+        "testo": "Una pequeña catarata a pocos minutos del pueblo, con un tobogán natural de roca que acaba en una poza. Es el baño de agua dulce más cómodo de Uvita.",
+        "come": "En coche o taxi desde el centro de Uvita, luego un sendero corto.",
+        "quando": "Por la mañana o en las horas de calor.",
+        "tempo": "1-2 horas",
+        "lat": 9.17696,
+        "lng": -83.73032
+      },
+      {
+        "nome": "Playa Ventanas",
+        "testo": "Una playa de arena oscura al sur de Uvita, cerrada por acantilados con cuevas marinas que con la marea baja se cruzan a pie. El mar suele estar movido: se viene por las cuevas más que para nadar.",
+        "come": "En coche por la Costanera hacia el sur, unos 15-20 minutos, cerca de Ojochal; parqueo vigilado de pago.",
+        "quando": "Con la marea baja, para entrar en las cuevas.",
+        "tempo": "2 horas",
+        "lat": 9.0895,
+        "lng": -83.67746,
+        "consiglio": "No entrar en las cuevas con la marea subiendo: el agua llega rápido."
+      },
+      {
+        "nome": "Dominical",
+        "testo": "El pueblo surfista de la costa sur, con olas potentes en una playa larga, bares sobre la arena y ambiente de pueblo de surfistas. Para principiantes las olas suelen ser demasiado fuertes.",
+        "come": "En coche o en bus por la Costanera, unos 20 minutos al norte de Uvita.",
+        "quando": "Final de la tarde, para ver a los surfistas y el atardecer.",
+        "tempo": "Media jornada",
+        "costo": "Gratis",
+        "lat": 9.25357,
+        "lng": -83.8627,
+        "consiglio": "Corrientes fuertes: bañarse solo frente a los socorristas."
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: Cola de la Ballena con marea baja",
-            "Almuerzo en Uvita",
-            "Tarde: surf",
-            "Atardecer: yoga en la terraza"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: Cola de la Ballena y playa",
-            "Día 2: avistamiento de ballenas en temporada, parada en el puente de Tárcoles hacia el norte"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Cola de la Ballena con marea baja",
+          "Almuerzo en Uvita",
+          "Tarde: surf",
+          "Atardecer: yoga en el deck"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Cola de la Ballena y playa",
+          "Día 2: avistamiento de ballenas en temporada por la mañana, Catarata Uvita por la tarde y cena en el Gastro Park"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: cataratas Nauyaca por la mañana, luego cabalgata al atardecer en el Rancho La Merced o las cuevas de Playa Ventanas con marea baja"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Uvita",
-          "perChi": "playas y servicios",
-          "testo": "Restaurantes, tours y tiendas cerca de la playa, a poca distancia del parque."
-        },
-        {
-          "nome": "Colinas sobre la costa",
-          "perChi": "quien busca vistas y silencio",
-          "testo": "Lodges con vista al océano, pero lejos de los servicios."
-        }
-      ],
+      {
+        "nome": "Uvita",
+        "perChi": "playas y servicios",
+        "testo": "Restaurantes, tours y tiendas cerca de la playa, a poca distancia del parque."
+      },
+      {
+        "nome": "Colinas sobre la costa",
+        "perChi": "quien busca vistas y silencio",
+        "testo": "Lodges con vista al océano, pero lejos de los servicios; hace falta coche y las subidas son empinadas."
+      },
+      {
+        "nome": "Dominical",
+        "perChi": "surfistas y viajeros jóvenes",
+        "testo": "Hostales, cabinas y bares en la playa; vida nocturna más animada, mar más fuerte."
+      },
+      {
+        "nome": "Ojochal",
+        "perChi": "quien quiere comer bien",
+        "testo": "Un pueblo pequeño al sur con muchos restaurantes de buen nivel y casas en el bosque, cerca de Playa Ventanas."
+      }
+    ],
       "sapori": [
         {
           "nome": "Casado de pescado",
@@ -1279,6 +1661,52 @@ export const destinazioniCostaRica: Destinazione[] = [
         "El mar del Pacífico tiene corrientes fuertes: nadar con prudencia.",
         "Robos de coches aparcados en las playas: no dejar nada a la vista."
       ],
+    gite: [
+      {
+        "nome": "Isla del Caño",
+        "distanza": "aproximadamente 1 hora en barco",
+        "come": "Con un tour de snorkel o buceo desde Uvita, cuando el mar lo permite.",
+        "testo": "Reserva biológica frente a la península de Osa, con aguas claras, tortugas, rayas y tiburones de arrecife: uno de los mejores puntos del país para el snorkel."
+      },
+      {
+        "nome": "Parque Nacional Manuel Antonio",
+        "distanza": "aproximadamente 1 hora y media",
+        "come": "En coche o en van por la Costanera hacia el norte; entrada en línea en el portal del SINAC, cerrado los martes.",
+        "testo": "Playas dentro del bosque, perezosos y monos capuchinos en los senderos: el parque más famoso del Pacífico."
+      },
+      {
+        "nome": "Manglares de Térraba-Sierpe",
+        "distanza": "unos 45 minutos",
+        "come": "En coche hasta Sierpe, luego en barco con un guía.",
+        "testo": "Uno de los manglares más extensos de Centroamérica, con cocodrilos, garzas y monos a lo largo de los canales; de Sierpe salen también los barcos hacia Bahía Drake."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuándo se ven las ballenas en Uvita?",
+        "risposta": "Las mejores temporadas son enero-marzo y julio-octubre, cuando llegan las jorobadas de los dos hemisferios. En noviembre-diciembre y mayo-junio los encuentros son menos probables."
+      },
+      {
+        "domanda": "¿Cómo se ve la Cola de la Ballena?",
+        "risposta": "Con la marea baja, entrando por el sector Playa Uvita del Parque Marino Ballena y caminando hasta la punta. Conviene revisar las tablas de mareas el día anterior."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada al Parque Marino Ballena?",
+        "risposta": "Para extranjeros unos 6 dólares, que se pagan solo con tarjeta en las entradas. No hace falta reservar."
+      },
+      {
+        "domanda": "¿Se puede surfear en Uvita siendo principiante?",
+        "risposta": "Sí, con una clase: las olas de Uvita son más adecuadas que las de Dominical, que son potentes. Las tablas se alquilan también por el día."
+      },
+      {
+        "domanda": "¿Es Uvita una buena base para el Corcovado?",
+        "risposta": "Queda lejos: para el Corcovado conviene dormir en Bahía Drake o en Puerto Jiménez. La visita se hace solo con guía autorizado y se reserva con mucha antelación."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta en Uvita?",
+        "risposta": "Tres días permiten ballenas, Cola de la Ballena, cataratas y una cabalgata sin prisas."
+      }
+    ],
     esperienzeSlugs: ['whale-watching-uvita'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: "El atardecer naranja y violeta sobre el Pacífico, desde la playa de Uvita",

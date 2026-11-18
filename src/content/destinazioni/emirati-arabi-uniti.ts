@@ -753,12 +753,11 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       'A Liwa ci sono pochi resort nel deserto, cari e da prenotare in anticipo; Al Ain ha la normale offerta di una città. Quasi tutti arrivano da Abu Dhabi in giornata, ed è la scelta che fa perdere la parte migliore: la notte.',
     doveMangiare:
       'Fuori dai resort ci sono i ristoranti di quartiere, quasi tutti indiani o pakistani, buoni ed economici. Ad Al Ain conviene cercare i datteri locali, il prodotto agricolo dell\'oasi, che si vendono nei mercati specializzati.',
-    comeArrivare:
-      'Da Abu Dhabi sono circa 2 ore di strada per Liwa e 1h30 per Al Ain. Serve un\'auto a noleggio o un transfer: i mezzi pubblici ci sono ma sono poco pratici, e per le dune serve comunque un 4x4 con guida.',
+    comeArrivare: "Da Abu Dhabi sono circa 2 ore di strada per Liwa e un'ora e mezza per Al Ain; tra Liwa e Al Ain ci sono circa 320 km e 3 ore. Serve un'auto a noleggio o un transfer: i mezzi pubblici ci sono ma sono poco pratici, e per le dune serve comunque un 4x4 con guida. Chi arriva in aereo usa l'aeroporto di Abu Dhabi (AUH).",
     comeSpostarsi: 'Con un\'auto propria sulle strade asfaltate; sulle dune solo in 4x4 con un autista esperto. Chi guida sulla sabbia senza esperienza di solito resta impantanato.',
     periodoMigliore:
       'da novembre a marzo, e anche allora nel deserto le notti sono fredde. D\'estate nell\'interno si superano spesso i 50 gradi.',
-    costi: 'oasi di Al Ain e forti gratuiti o quasi; la voce cara sono i resort nel deserto.',
+    costi: "L'oasi di Al Ain, il forte Al Jahili e Qasr Al Muwaiji sono gratuiti, lo zoo costa da 31,5 AED (circa 7 €); la voce cara sono i resort nel deserto. Budget giornaliero a persona, indicativo: basso 60-80 € (hotel di città ad Al Ain in doppia, auto in comune, ristoranti indiani); medio 130-200 € (hotel migliore, uscita in 4x4 sulle dune); alto 400 € e oltre (resort a Liwa o Qasr Al Sarab).",
     erroriDaEvitare: [
       'Scambiare un safari serale intorno a Dubai per il deserto: quelli si fanno su dune piccole a mezz\'ora dalla città, qui si è sul bordo del Rub\' al-Khali',
       'Guidare sulla sabbia senza esperienza e senza un secondo mezzo: è il modo più comune di finire nei guai',
@@ -769,40 +768,150 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dune di Moreeb e Liwa",
-        "testo": "Il bordo del Rub' al-Khali, il deserto di sabbia del sud della penisola arabica, con dune molto alte; Moreeb, circa 25 km a sud dell'oasi di Liwa, alta circa 300 metri, è la più alta degli Emirati. Qui non ci sono safari serali: serve una notte nel deserto.",
-        "come": "In auto o con tour da Abu Dhabi; fuori pista serve un 4x4 con esperienza.",
+        "testo": "Il bordo del Rub' al-Khali, il deserto di sabbia del sud della penisola arabica. Moreeb, circa 25 km a sud dell'oasi di Liwa, è la duna più alta degli Emirati: circa 300 metri, con un versante inclinato di 50 gradi, dove si tiene il festival con le gare in salita. Qui non ci sono safari serali: serve una notte nel deserto.",
+        "come": "In auto da Abu Dhabi, circa 2 ore fino a Liwa, poi 29 km e circa 45 minuti fino a Moreeb su strada asfaltata; fuori pista serve un 4x4 con esperienza.",
         "quando": "Alba e tramonto.",
         "tempo": "1-2 giorni",
-        "consiglio": "Non guidare sulla sabbia senza esperienza e senza un secondo mezzo."
+        "consiglio": "Non guidare sulla sabbia senza esperienza e senza un secondo mezzo.",
+        "lat": 22.97967,
+        "lng": 53.78622
       },
       {
         "nome": "Oasi di Al Ain",
-        "testo": "Parte del patrimonio UNESCO dei Siti culturali di Al Ain dal 2011: oltre 147.000 palme da dattero su più di 1.200 ettari, irrigate dai canali falaj, un sistema antico di millenni. Si cammina all'ombra sentendo scorrere l'acqua.",
+        "testo": "La più grande delle sei oasi di Al Ain iscritte nel patrimonio UNESCO dal 2011: oltre 147.000 palme da dattero di più di 100 varietà su 136 ettari, irrigate dai canali falaj, un sistema antico di millenni. Si cammina all'ombra sentendo scorrere l'acqua.",
         "come": "In auto da Abu Dhabi. L'oasi si gira a piedi.",
         "quando": "Mattina.",
-        "tempo": "2 ore"
+        "tempo": "2 ore",
+        "orari": "Tutti i giorni 9-19",
+        "costo": "Ingresso libero, tour guidati a pagamento (2026)",
+        "url": "https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/al-ain-oases",
+        "lat": 24.217,
+        "lng": 55.762
       },
       {
         "nome": "Forte Al Jahili e siti di Hili",
-        "testo": "Il forte Al Jahili, costruito intorno al 1891, con le sue torri di guardia, e il parco archeologico di Hili, uno dei principali siti dell'età del bronzo degli Emirati, con tombe del III millennio a.C., parte del patrimonio UNESCO.",
+        "testo": "Il forte Al Jahili, costruito nel 1891 dallo sceicco Zayed bin Khalifa per proteggere i coltivatori di palme, poi base dei Trucial Oman Scouts negli anni Cinquanta. A pochi chilometri c'è il parco archeologico di Hili, uno dei principali siti dell'età del bronzo degli Emirati, con tombe del III millennio a.C., parte del patrimonio UNESCO.",
         "come": "In auto da Al Ain.",
         "quando": "Mattina.",
-        "tempo": "2 ore"
+        "tempo": "2 ore",
+        "orari": "Forte Al Jahili 9-19; chiuso il primo giorno di Eid al-Fitr ed Eid al-Adha",
+        "costo": "Forte Al Jahili a ingresso libero (2026)",
+        "url": "https://abudhabiculture.ae/en/Cultural-Sites/Historic-Buildings-And-Cultural-Landscapes/Al-Jahili-Fort",
+        "lat": 24.21611,
+        "lng": 55.7525
       },
       {
         "nome": "Jebel Hafeet",
-        "testo": "La montagna sopra Al Ain, con una strada panoramica di 11,7 km e 60 curve fino al parcheggio in cima, da cui si vede la città.",
+        "testo": "L'unica montagna dell'emirato di Abu Dhabi, al confine con l'Oman, con una strada panoramica di 11,7 km e 60 curve fino al parcheggio in cima, da cui si vede la città. Ha dato il nome al periodo di Hafit dell'età del bronzo (3200-2600 a.C.), per le tombe trovate alle sue pendici.",
         "come": "In auto da Al Ain.",
         "quando": "Tramonto.",
-        "tempo": "1-2 ore"
+        "tempo": "1-2 ore",
+        "lat": 24.05861,
+        "lng": 55.7775
+      },
+      {
+        "nome": "Museo di Al Ain",
+        "testo": "Fondato nel 1969 dallo sceicco Zayed, è il primo museo costruito apposta negli Emirati: archeologia e storia di Al Ain, dall'età del bronzo alla vita nell'oasi. Sta nel quartiere storico di Harat Al Hosn, a est dell'oasi.",
+        "come": "A piedi dall'ingresso est dell'oasi.",
+        "quando": "Mattina, prima dell'oasi.",
+        "tempo": "1,5 ore",
+        "orari": "Tutti i giorni 9-19; durante il Ramadan 10-22",
+        "url": "https://abudhabiculture.ae/en/cultural-sites/museums/al-ain-museum",
+        "lat": 24.21615,
+        "lng": 55.77376
+      },
+      {
+        "nome": "Qasr Al Muwaiji",
+        "testo": "Il forte nel centro di Al Ain dove nacque lo sceicco Khalifa bin Zayed, secondo presidente degli Emirati, e da cui lo sceicco Zayed governò la regione orientale. Dentro c'è una mostra sulla storia della famiglia.",
+        "come": "In taxi o in auto, nel centro della città.",
+        "quando": "Pomeriggio.",
+        "tempo": "45 minuti",
+        "orari": "9-19; durante il Ramadan 10-22",
+        "costo": "Ingresso libero (2026)",
+        "lat": 24.225,
+        "lng": 55.72694
+      },
+      {
+        "nome": "Museo del Palazzo dello sceicco Zayed",
+        "testo": "L'ex residenza della famiglia regnante, costruita nel 1937 e ampliata dallo sceicco Zayed, trasformata in casa-museo nel 2001. Racconta la vita degli Emirati nel Novecento, accanto all'oasi.",
+        "come": "A piedi dal bordo ovest dell'oasi di Al Ain.",
+        "quando": "Mattina.",
+        "tempo": "1 ora",
+        "orari": "Chiuso per restauro dal 1° luglio 2024: verificare la riapertura prima di andare",
+        "costo": "Ingresso libero (2026)",
+        "lat": 24.21583,
+        "lng": 55.77389
+      },
+      {
+        "nome": "Zoo di Al Ain",
+        "testo": "Un parco faunistico di 400 ettari ai piedi del Jebel Hafeet, con animali dei deserti e delle savane. D'estate chiude per qualche settimana.",
+        "come": "In auto o taxi, a sud della città.",
+        "quando": "Mattina presto o tardo pomeriggio, quando gli animali sono più attivi.",
+        "tempo": "3 ore",
+        "costo": "Da 31,5 AED per gli adulti, circa 7 € (2026)",
+        "url": "https://visitabudhabi.ae/where-to-go/parks-and-zoos/al-ain-zoo",
+        "lat": 24.17608,
+        "lng": 55.73849
+      },
+      {
+        "nome": "Green Mubazzarah",
+        "testo": "Il parco verde ai piedi del Jebel Hafeet, con prati, sorgenti calde e laghetti. Si abbina alla salita in auto sulla montagna.",
+        "come": "In auto, alla base della strada del Jebel Hafeet.",
+        "quando": "Tardo pomeriggio, prima del tramonto in cima.",
+        "tempo": "1 ora",
+        "lat": 24.10253,
+        "lng": 55.75042
+      },
+      {
+        "nome": "Mercato dei cammelli di Al Ain",
+        "testo": "Uno degli ultimi mercati di cammelli tradizionali degli Emirati, dove allevatori e compratori trattano la mattina. Non è un'attrazione costruita per i turisti.",
+        "come": "In auto, alla periferia sud-est della città.",
+        "quando": "La mattina presto, quando arrivano i camion.",
+        "tempo": "45 minuti",
+        "costo": "Ingresso libero (2026)",
+        "lat": 24.16167,
+        "lng": 55.81468
+      },
+      {
+        "nome": "Jebel Hafit Desert Park",
+        "testo": "Il parco sul versante del Jebel Hafeet con le tombe ad alveare dell'età del bronzo, circa cinquemila anni fa, alcune restaurate. Ci sono sentieri, noleggio di bici e campeggio.",
+        "come": "In auto da Al Ain verso il confine con l'Oman.",
+        "quando": "Mattina, nei mesi freschi.",
+        "tempo": "2 ore",
+        "orari": "Tutti i giorni 8-18"
+      },
+      {
+        "nome": "Oasi di Liwa e forte di Mezairaa",
+        "testo": "La mezzaluna di villaggi e palmeti che si allunga per decine di chilometri sul bordo delle dune, culla della famiglia regnante di Abu Dhabi. Il forte di Mezairaa sta nel centro principale dell'oasi.",
+        "come": "In auto da Abu Dhabi, circa 2 ore.",
+        "quando": "Tardo pomeriggio, prima di salire sulle dune.",
+        "tempo": "1-2 ore",
+        "lat": 23.13891,
+        "lng": 53.78048
       }
     ],
     programmi: [
       {
+        "titolo": "1 giorno ad Al Ain",
+        "tappe": [
+          "Mattina: Museo di Al Ain e oasi lungo i falaj",
+          "Pomeriggio: forte Al Jahili e Qasr Al Muwaiji",
+          "Tramonto: Green Mubazzarah e salita sul Jebel Hafeet"
+        ]
+      },
+      {
         "titolo": "2 giorni",
         "tappe": [
+          "Giorno 1: Abu Dhabi verso Liwa, oasi e forte di Mezairaa, notte nel deserto",
+          "Giorno 2: alba sulle dune di Moreeb, poi rientro ad Abu Dhabi"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
           "Giorno 1: Abu Dhabi verso Liwa, notte nel deserto",
-          "Giorno 2: alba sulle dune di Moreeb, poi Al Ain, oasi e forte"
+          "Giorno 2: alba a Moreeb, trasferimento ad Al Ain (circa 3 ore)",
+          "Giorno 3: Al Ain come nel programma di un giorno, con il mercato dei cammelli la mattina presto"
         ]
       }
     ],
@@ -810,12 +919,17 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Campi e resort a Liwa",
         "perChi": "chi vuole il deserto vero",
-        "testo": "Pochi resort, anche di lusso, in mezzo alle dune."
+        "testo": "Pochi resort, anche di lusso, in mezzo alle dune o sul bordo dell'oasi: da prenotare in anticipo nei mesi freschi."
       },
       {
         "nome": "Al Ain",
         "perChi": "chi vuole l'oasi",
-        "testo": "Hotel di città e ristoranti indiani e pakistani, economici."
+        "testo": "Hotel di città e ristoranti indiani e pakistani, economici. Comoda per l'oasi, i forti e il Jebel Hafeet."
+      },
+      {
+        "nome": "Abu Dhabi",
+        "perChi": "chi va e torna in giornata",
+        "testo": "Per Al Ain bastano un'ora e mezza di strada, per Liwa due: dormire in città si può, ma a Liwa si perde la notte nel deserto."
       }
     ],
     sapori: [
@@ -841,6 +955,42 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Guidare sulla sabbia senza esperienza e senza un secondo mezzo.",
       "Venire in giornata e saltare la notte, che è il motivo per cui si va a Liwa.",
       "D'estate nell'interno il caldo è estremo: venire tra novembre e marzo."
+    ],
+    gite: [
+      {
+        "nome": "Al-Buraimi (Oman)",
+        "distanza": "subito oltre il confine, attaccata ad Al Ain",
+        "come": "In auto attraverso il valico di frontiera, con passaporto; regole d'ingresso dell'Oman e assicurazione dell'auto da verificare prima.",
+        "testo": "La città-oasi omanita gemella di Al Ain, con forti e case storiche: il forte Al-Khandaq, quello «della trincea», è il simbolo della città."
+      },
+      {
+        "nome": "Qasr Al Sarab",
+        "distanza": "81 km da Liwa, circa un'ora e 20 di auto",
+        "come": "In auto su strada asfaltata tra le dune.",
+        "testo": "Un resort costruito come un forte in mezzo al Rub' al-Khali, a sud-est di Liwa. La strada che ci arriva è il modo più comodo di attraversare il Quarto Vuoto senza un 4x4."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Meglio Liwa o Al Ain?",
+        "risposta": "Sono due cose diverse: Liwa è il deserto vero, Al Ain l'oasi e la storia. Con un giorno solo, Al Ain è più vicina e comoda; con due, una notte a Liwa vale la deviazione."
+      },
+      {
+        "domanda": "Si può andare a Liwa in giornata da Abu Dhabi?",
+        "risposta": "Si può, con circa 2 ore di strada per tratta, ma si perde la parte migliore: il tramonto e la notte sulle dune. Meglio dormire almeno una notte."
+      },
+      {
+        "domanda": "Serve un 4x4?",
+        "risposta": "Sulle strade asfaltate no, sulle dune sì, e con un autista esperto. Chi guida sulla sabbia senza esperienza di solito resta impantanato."
+      },
+      {
+        "domanda": "I siti di Al Ain sono a pagamento?",
+        "risposta": "L'oasi, il forte Al Jahili e Qasr Al Muwaiji sono a ingresso libero; si pagano i tour guidati e lo zoo, da 31,5 AED."
+      },
+      {
+        "domanda": "Quando andare?",
+        "risposta": "Da novembre a marzo. D'estate nell'interno si superano spesso i 50 gradi, e anche d'inverno le notti nel deserto sono fredde."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

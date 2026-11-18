@@ -987,12 +987,11 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire:
       "Camping a lo largo de todo el recorrido (Chiquisca, Santa Rosa, Marampata), con algunas familias que alquilan espacios y servicios básicos en Marampata, el pueblo más cercano al sitio.",
     doveMangiare: "Comidas preparadas por la propia organización del trek; en Marampata y Chiquisca se encuentra algo sencillo.",
-    comeArrivare: "Desde Cusco unas 4 horas en coche hasta Cachora (región de Apurímac), el punto de partida del sendero.",
+    comeArrivare: "Desde Cusco se tarda unas 4 horas en coche hasta Cachora, en la región de Apurímac, por la carretera a Abancay; sin agencia se toma el bus a Abancay, se baja en el desvío de Cachora y se sigue en taxi hasta el pueblo. El sendero empieza en el puesto de control de Capuliyoc, sobre Cachora, donde se compra el boleto en efectivo con el pasaporte. La ruta Capuliyoc-Cachora estuvo cerrada de febrero a abril de 2026 por los derrumbes de las lluvias y reabrió tras el mantenimiento: antes de salir conviene preguntar en Cusco si está abierta.",
     comeSpostarsi: "Solo a pie. Se pueden alquilar mulas para el equipaje y, en algunos tramos, para quien tiene dificultades.",
     periodoMigliore:
       "de abril a octubre. En la estación de lluvias el sendero se vuelve peligroso por los desprendimientos y el calor en el cañón es pesado en cualquier periodo",
-    costi:
-      "Trek organizado, unos 400-700 $ por persona para 4-5 días con guía, mulas y comidas; por cuenta propia se gasta mucho menos, más la entrada al sitio, que se paga en el puesto de control.",
+    costi: "Presupuesto bajo unos 30-45 € al día por cuenta propia, con tienda propia, comida llevada desde Cusco y alguna comida sencilla en los campamentos; medio unos 90-130 € al día con un trek organizado en grupo (unos 400-700 $ por persona para 4-5 días, con guía, mulas y comidas); alto desde 180 € al día con guía privado, mula de montura y campamentos mejor equipados. La entrada al sitio se paga aparte en el puesto de control de Capuliyoc, en soles y en efectivo, si no está incluida en el paquete.",
     confronti: [
       {
         titolo: "¿Ir ahora o esperar al teleférico?",
@@ -1046,60 +1045,162 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "La ciudadela de Choquequirao",
-        "testo": "Una ciudadela inca llamada la «ciudad hermana» de Machu Picchu por su estructura y arquitectura, excavada solo en parte (entre el 30 y el 40%). Llega poca gente, porque no hay otra forma que caminar.",
-        "come": "Solo a pie desde Cachora, tras dos días de caminata. Se acampa cerca del sitio; guía recomendable.",
-        "quando": "Temporada seca. En la temporada de lluvias el sendero es peligroso.",
-        "tempo": "Una mañana o un día entero; mejor dos noches",
-        "costo": "Entrada al sitio que se paga en el puesto de control antes de la ciudadela; tarifa en la web del Ministerio de Cultura",
+        "testo": "Una ciudadela inca llamada la «ciudad hermana» de Machu Picchu por su estructura y arquitectura, excavada solo en parte (entre el 30 y el 40%). El núcleo es la plaza principal, con casas, almacenes y templos dispuestos sobre una cresta encima del cañón del Apurímac, a unos 3.000 metros. Llega poca gente, porque no hay otra forma que caminar.",
+        "come": "Solo a pie desde Cachora, tras dos días de camino. Se acampa en Marampata o en el campamento junto al sitio; se recomienda guía, también para entender los sectores.",
+        "quando": "Estación seca, de mayo a septiembre. En la estación de lluvias el sendero es peligroso.",
+        "tempo": "Un día entero; mejor dos noches en los alrededores",
+        "costo": "Boleto que se paga en efectivo en el puesto de control de Capuliyoc, al inicio del sendero; suele estar incluido en los treks organizados",
+        "url": "https://www.gob.pe/cultura",
+        "lat": -13.3929766,
+        "lng": -72.8737975,
         "consiglio": "Quédate dos noches para tener un día completo entre las ruinas sin el cansancio de la subida."
       },
       {
         "nome": "Las terrazas de las llamas",
-        "testo": "Terrazas decoradas con figuras de llamas y otros camélidos en piedra blanca incrustada en el muro, el detalle más reconocible del sitio.",
-        "come": "En el sector agrícola del sitio, a corta caminata desde la zona central.",
-        "quando": "Temprano por la mañana, con la luz rasante sobre los muros.",
-        "tempo": "30-60 minutos",
-        "consiglio": "Lleva un teleobjetivo o acércate a los muros: las figuras son pequeñas."
+        "testo": "Andenes decorados con figuras de llamas y otros camélidos en piedra blanca incrustada en el muro, el detalle más reconocible del sitio. Están en la ladera oeste, por debajo de la plaza, y se ven bien desde el mirador situado enfrente.",
+        "come": "Desde el centro de la ciudadela se baja por un sendero empinado de escalones hasta el mirador sobre las terrazas.",
+        "quando": "Primera hora de la mañana, con la luz rasante sobre los muros.",
+        "tempo": "1-1,5 horas con la bajada y la subida",
+        "lat": -13.3944982,
+        "lng": -72.8758306,
+        "consiglio": "Las figuras son pequeñas: un teleobjetivo ayuda. La subida de vuelta es más dura de lo que parece, lleva agua."
       },
       {
-        "nome": "El cañón del Apurímac",
-        "testo": "Un cañón profundísimo: entre el sitio y el río hay unos 1.600 metros de desnivel, y el sendero los baja y los vuelve a subir, con mucho calor en el fondo.",
-        "come": "El sendero parte de Cachora, baja hasta el río y sube hacia Marampata. Las etapas se hacen con campamentos en el camino.",
-        "quando": "Sal al amanecer para evitar el calor en el fondo del valle.",
-        "tempo": "2 días de caminata en cada sentido",
-        "consiglio": "Los mulos para el equipaje valen cada sol: el desnivel se nota muchísimo."
+        "nome": "El usnu",
+        "testo": "Una plataforma ceremonial obtenida allanando la cima de una pequeña colina junto a la plaza. Desde aquí se domina el cañón del Apurímac en todas las direcciones, y es el punto desde el que se entiende por qué los incas eligieron esta cresta.",
+        "come": "A pocos minutos a pie de la plaza principal, subiendo.",
+        "quando": "Al amanecer o al atardecer, cuando las nubes suben del cañón.",
+        "tempo": "30 minutos",
+        "lat": -13.3951937,
+        "lng": -72.8739557
       },
       {
-        "nome": "Marampata y los campamentos en el sendero",
-        "testo": "El pueblo justo antes del sitio, con algunas familias que alquilan espacio para tiendas y servicios básicos. Más abajo, Chiquisca y Santa Rosa son las paradas clásicas.",
-        "come": "En el sendero, poco antes del sitio.",
-        "quando": "Como parada nocturna, antes de la última subida.",
+        "nome": "El sector de Paqchayoq y la Casa de la Caída de Agua",
+        "testo": "El sector de andenes agrícolas y canales, en el flanco este del sitio, con fuentes de piedra que traían el agua desde arriba. Es la parte que mejor muestra la ingeniería hidráulica inca, todavía legible en los canales tallados en la roca.",
+        "come": "En el sendero de llegada desde Marampata, antes de la plaza: se encuentra subiendo hacia el centro.",
+        "quando": "Por la tarde, al entrar en el sitio desde el sendero.",
+        "tempo": "45 minutos",
+        "lat": -13.3946798,
+        "lng": -72.8659795
+      },
+      {
+        "nome": "Pikiwasi",
+        "testo": "Un grupo de edificios sobre un espolón al oeste de la plaza, separado del resto de la ciudadela. Las casas apretadas unas contra otras y la vista del río, mucho más abajo, lo convierten en uno de los rincones más fotografiados.",
+        "come": "Breve sendero desde el centro del sitio, en bajada.",
+        "quando": "Última hora de la tarde.",
+        "tempo": "30-45 minutos",
+        "lat": -13.3960004,
+        "lng": -72.8726606
+      },
+      {
+        "nome": "El sector Hanan y los almacenes (qolqas)",
+        "testo": "La parte alta de la ciudadela, con las residencias más cuidadas y, un poco más arriba, la fila de almacenes donde se guardaban las provisiones. Desde arriba se ve el plano de todo el sitio.",
+        "come": "Subiendo desde la plaza principal hacia el norte, por escalones de piedra.",
+        "quando": "Por la mañana, antes del calor.",
+        "tempo": "45 minutos-1 hora",
+        "lat": -13.391408,
+        "lng": -72.8744346
+      },
+      {
+        "nome": "El cañón del Apurímac y Playa Rosalina",
+        "testo": "Un cañón profundísimo: entre el sitio y el río hay unos 1.500 metros de desnivel, y el sendero los baja y los vuelve a subir, con calor fuerte en el fondo. Playa Rosalina, a unos 1.550 metros, es el punto más bajo: se cruza el río por un puente y empieza la subida hacia Santa Rosa y Marampata.",
+        "come": "El sendero sale de Capuliyoc, baja por Chiquisca hasta el puente de Playa Rosalina y sube por la otra ladera.",
+        "quando": "Sal al amanecer para evitar el calor del fondo del valle.",
+        "tempo": "2 días de camino a la ida, 2 a la vuelta",
+        "lat": -13.421926,
+        "lng": -72.8536551,
+        "consiglio": "Las mulas para el equipaje valen cada sol: el desnivel se nota muchísimo."
+      },
+      {
+        "nome": "Marampata",
+        "testo": "El pueblo justo antes del sitio, a unos 2.900 metros, al final de la subida desde Playa Rosalina. Algunas familias alquilan sitio para la tienda, duchas y comidas sencillas, y desde aquí quedan una hora y media de sendero casi llano hasta la ciudadela.",
+        "come": "A lo largo del sendero, tras la subida desde Santa Rosa.",
+        "quando": "Como parada para dormir, antes o después de la visita.",
         "tempo": "Una noche",
+        "lat": -13.4036824,
+        "lng": -72.8537793,
         "consiglio": "Lleva efectivo en monedas y billetes pequeños: no hay cajeros."
+      },
+      {
+        "nome": "Chiquisca y Santa Rosa",
+        "testo": "Las dos paradas clásicas a ambos lados del cañón. Chiquisca, a unos 1.950 metros, es el primer campamento bajando desde Capuliyoc; Santa Rosa, a unos 2.200, está a mitad de la subida hacia Marampata, con una cascada y algunas familias que venden bebidas y fruta.",
+        "come": "A lo largo del sendero principal, con campamentos donde montar la tienda.",
+        "quando": "Chiquisca como primera noche a la ida; Santa Rosa como parada para comer o para partir la subida.",
+        "tempo": "Una noche o una parada",
+        "lat": -13.4291838,
+        "lng": -72.8431954
+      },
+      {
+        "nome": "El mirador de Capuliyoc",
+        "testo": "El punto de partida del sendero, a unos 2.950 metros, con el puesto de control donde se paga la entrada. Desde el mirador se ve por primera vez el cañón del Apurímac y, con el cielo limpio, también la ciudadela en la ladera opuesta.",
+        "come": "En coche o taxi desde Cachora por la pista de tierra, o a pie.",
+        "quando": "Al amanecer del primer día de camino.",
+        "tempo": "30 minutos de parada",
+        "costo": "Aquí se compra el boleto para el sitio, en efectivo y con el pasaporte",
+        "lat": -13.4465049,
+        "lng": -72.8084702
+      },
+      {
+        "nome": "Cachora",
+        "testo": "El pueblo del que salen casi todos los treks, con alojamientos sencillos, alguna tienda y los arrieros que trabajan con las agencias.",
+        "come": "Unas 4 horas de carretera desde Cusco, en coche o con el bus a Abancay hasta el desvío y luego taxi.",
+        "quando": "La tarde antes de salir.",
+        "tempo": "Una noche",
+        "lat": -13.5127736,
+        "lng": -72.8130405,
+        "consiglio": "Una noche aquí sirve para organizar mulas y equipaje sin prisa."
       }
     ],
     programmi: [
       {
-        "titolo": "4-5 días",
+        "titolo": "4 días (rápido)",
+        "tappe": [
+          "Día 1: Cusco-Cachora en coche, Capuliyoc, bajada hasta Chiquisca o Playa Rosalina",
+          "Día 2: subida por Santa Rosa hasta Marampata y tarde en el sitio",
+          "Día 3: amanecer entre las ruinas, luego vuelta hasta Chiquisca",
+          "Día 4: subida a Capuliyoc y regreso a Cusco"
+        ]
+      },
+      {
+        "titolo": "5 días (recomendado)",
         "tappe": [
           "Día 1: Cusco-Cachora en coche, luego bajada hacia el río y primer campamento",
           "Día 2: subida hacia Marampata",
-          "Día 3: visita a Choquequirao",
-          "Día 4: regreso hacia Chiquisca o Santa Rosa",
+          "Día 3: día completo en Choquequirao, con las terrazas de las llamas y Pikiwasi",
+          "Día 4: vuelta hacia Chiquisca o Santa Rosa",
           "Día 5: subida a Cachora y regreso a Cusco"
+        ]
+      },
+      {
+        "titolo": "8-9 días (travesía hasta Machu Picchu)",
+        "tappe": [
+          "Días 1-3: como en el trek clásico hasta Choquequirao",
+          "Días 4-6: hacia Pinchaunuyoc, Maizal y Yanama, con pasos de más de 4.000 metros por senderos poco transitados",
+          "Días 7-8: bajada hacia el valle de Santa Teresa",
+          "Día 9: Aguas Calientes y Machu Picchu"
         ]
       }
     ],
     zone: [
       {
         "nome": "Cachora",
-        "perChi": "Quien parte y prepara el trek",
-        "testo": "El pueblo de salida, con alojamientos sencillos y mulos para alquilar. Una noche antes de salir ayuda con la altura."
+        "perChi": "Quien sale y prepara el trek",
+        "testo": "El pueblo de partida, con alojamientos sencillos y mulas de alquiler. Una noche antes de salir sirve para organizarse con calma y acostumbrarse a la altura."
       },
       {
-        "nome": "Campamentos en el sendero (Chiquisca, Santa Rosa, Marampata)",
-        "perChi": "Caminantes",
-        "testo": "Camping con servicios básicos. Poca comodidad, mucho silencio."
+        "nome": "Marampata",
+        "perChi": "Quien quiere dormir cerca del sitio",
+        "testo": "Campamentos gestionados por familias del pueblo, con duchas frías, comidas sencillas y vista al cañón. Es la mejor base para entrar temprano en el sitio."
+      },
+      {
+        "nome": "Campamentos del sendero (Chiquisca, Santa Rosa, Playa Rosalina)",
+        "perChi": "Quien camina",
+        "testo": "Camping con servicios básicos. Poco confort, mucho silencio; en Playa Rosalina hace calor y hay más insectos."
+      },
+      {
+        "nome": "Cusco",
+        "perChi": "Quien va con una agencia",
+        "testo": "La mayoría de los treks salen de Cusco al amanecer: la noche anterior y la del regreso se pasan en la ciudad, donde se deja el equipaje grande."
       }
     ],
     sapori: [
@@ -1117,6 +1218,46 @@ export const destinazioniPeru: Destinazione[] = [
       "No en la estación de lluvias: el sendero en la ladera del cañón se vuelve peligroso.",
       "Sin cobertura telefónica: deja tu itinerario a alguien.",
       "Una sola noche en el sitio es muy poco."
+    ],
+    gite: [
+      {
+        "nome": "Pinchaunuyoc",
+        "distanza": "unas 1-1,5 horas a pie desde la ciudadela, en bajada",
+        "come": "A pie con el guía, por el sendero que sigue hacia Yanama; se añade al día en el sitio.",
+        "testo": "Un pequeño grupo de andenes y casas incas en la ladera de la montaña, más allá de Choquequirao, adonde casi no va nadie. La vuelta es toda en subida."
+      },
+      {
+        "nome": "Piedra de Saywite",
+        "distanza": "en la carretera Cusco-Cachora, poco antes del desvío a Cachora",
+        "come": "Parada en coche a la ida o a la vuelta; con agencia se puede pedir que paren.",
+        "testo": "Un monolito inca tallado con cientos de figuras, terrazas, canales y animales, que se cree servía para ritos ligados al agua. Una parada breve que corta las horas de carretera."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Qué tan difícil es el trek de Choquequirao?",
+        "risposta": "Se considera más duro que el Camino Inca y el Salkantay: se bajan y se suben unos 1.500 metros por cada lado del cañón, a la ida y a la vuelta, con calor fuerte en el fondo. Hace falta buena forma física."
+      },
+      {
+        "domanda": "¿Hace falta guía?",
+        "risposta": "No es obligatorio, pero sí recomendable: el sendero está señalizado, pero sin guía se pierde el sentido de los sectores del sitio. Con una agencia se tienen además mulas, tienda y comidas."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta?",
+        "risposta": "Cuatro días es el mínimo, cinco el formato más cómodo, con un día completo en el sitio. La travesía hasta Machu Picchu requiere 8-9 días."
+      },
+      {
+        "domanda": "¿Dónde se compra el boleto?",
+        "risposta": "En el puesto de control de Capuliyoc, al inicio del sendero, en soles y en efectivo con el pasaporte. En los treks organizados suele estar incluido."
+      },
+      {
+        "domanda": "¿Cuándo ir a Choquequirao?",
+        "risposta": "De mayo a septiembre, en la estación seca. Con las lluvias el sendero se vuelve peligroso: en 2026 estuvo cerrado de febrero a abril por los derrumbes."
+      },
+      {
+        "domanda": "¿Ya existe el teleférico?",
+        "risposta": "No. El proyecto lleva años en concurso y en 2026 todavía no tiene fecha de construcción: hoy a Choquequirao solo se llega a pie."
+      }
     ],
     esperienzeSlugs: ['trek-choquequirao'],
     tripSlugs: [],
@@ -1213,12 +1354,11 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire:
       "Lodges en la selva, casi siempre vendidos en paquete con traslados, comidas y excursiones incluidas. Cuenta más la distancia de la ciudad que el lujo del establecimiento: cuanto más se remonta el río, más fauna se ve.",
     doveMangiare: "Comidas incluidas en los paquetes de los lodges.",
-    comeArrivare:
-      "Puerto Maldonado: vuelo desde Cusco (algo más de una hora) o desde Lima. Iquitos: vuelo desde Lima, o remontando el río: no existen carreteras. Manu: desde Cusco por tierra y luego en barca, con dos días de traslado.",
+    comeArrivare: "Puerto Maldonado: vuelo desde Cusco (algo más de una hora) o directo desde Lima (cerca de una hora y tres cuartos); como alternativa, unas 10 horas por carretera desde Cusco. El aeropuerto está a pocos kilómetros de la ciudad y los lodges recogen a los clientes a la llegada, con una parada en la oficina para dejar el equipaje grande antes de la barca. Iquitos: vuelo desde Lima, o remontando el río: no hay carreteras que la unan con el resto del país. Manu: desde Cusco por tierra y luego en barca, con dos días de traslado.",
     comeSpostarsi: "Solo en barca por los ríos y a pie por los senderos, siempre acompañados por un guía del lodge.",
     periodoMigliore:
       "De mayo a octubre (aguas bajas) los senderos son más practicables y la fauna se concentra a lo largo de los cursos de agua; de diciembre a mayo (aguas altas) se navega más adentro en la selva inundada. No existe una estación sin lluvia.",
-    costi: "La partida principal es el paquete del lodge; el vuelo interno de Cusco a Puerto Maldonado cuesta poco si se reserva con tiempo.",
+    costi: "Presupuesto bajo unos 80-100 € al día por persona: una expedición sencilla desde Iquitos (3 días con Ruth Amazon Expedition 1.000 soles, unos 255 €) o un lodge cerca de Puerto Maldonado; medio unos 100-180 € al día en un lodge de Tambopata en paquete (unos 300-600 $ por 3 noches con barca, comidas y excursiones); alto desde 250 € al día en los lodges más lejanos y equipados o en una expedición al Manu. Aparte, si no está en el paquete, la entrada a las reservas: Tambopata y Pacaya-Samiria 30 soles (unos 8 €) por un día, 60 soles (unos 15 €) por 2-3 días (2026).",
     erroriDaEvitare: [
       "Elegir el lodge más cercano a la ciudad porque cuesta menos: es la razón número uno por la que la gente vuelve diciendo «no hemos visto nada»",
       "Ir a la Amazonia dos noches: el primer y el último día se van casi enteros en traslados",
@@ -1231,9 +1371,14 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Puerto Maldonado y la reserva de Tambopata",
         "testo": "La puerta más cómoda a la Amazonía peruana, con vuelo desde Cusco o Lima y luego barca hasta los lodges de la reserva. Aquí Rick hizo la pasarela de dosel y la navegación.",
-        "come": "Vuelo desde Cusco o Lima, luego barca por el río. Los lodges venden paquetes con traslados y excursiones.",
+        "come": "Vuelo desde Cusco o Lima, luego barca por el río. Los lodges venden paquetes con traslados y excursiones; para entrar en la reserva hace falta un operador autorizado, y uno se registra en los puestos de control.",
         "quando": "La temporada seca tiene senderos más transitables y fauna concentrada en los ríos.",
         "tempo": "3-4 días",
+        "costo": "Entrada a la Reserva Nacional Tambopata 30 soles (unos 8 €) por un día, 60 soles (unos 15 €) por 2-3 días, 150 soles (unos 38 €) de 4 a 30 días, tarifa general 2026; a menudo incluida en el paquete del lodge",
+        "orari": "Todos los días 5:00-19:00",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+        "lat": -12.8384379,
+        "lng": -69.184041,
         "consiglio": "Elige un lodge lejos de la ciudad: en los cercanos se ve muy poco."
       },
       {
@@ -1247,20 +1392,105 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Lago Sandoval",
         "testo": "Un lago en el bosque donde se ven aves y caimanes y, con algo de suerte, nutrias gigantes. Se llega con una caminata por el bosque y luego en canoa.",
-        "come": "Excursión organizada por los lodges, a pie más canoa.",
+        "come": "Una media hora de barca desde Puerto Maldonado, luego unos 3 km a pie, por pasarela y sendero, y la canoa en el lago. Al inicio del sendero está el puesto de control con el centro de interpretación. Excursión organizada por los lodges.",
         "quando": "Mañana o última hora de la tarde.",
         "tempo": "Medio día",
+        "costo": "Entra en la entrada a la Reserva Nacional Tambopata: 30 soles (unos 8 €) por un día (2026)",
+        "orari": "Todos los días 5:00-19:00",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+        "lat": -12.6025946,
+        "lng": -69.0459929,
         "consiglio": "Lleva repelente y linterna frontal."
+      },
+      {
+        "nome": "Lagos del Medio Tambopata (Cocococha y Sachavacayoc)",
+        "testo": "Lagos en forma de herradura más arriba, en el corazón de la reserva, donde las nutrias gigantes y los shanshos se ven con menos barcas alrededor que en Sandoval. Son el destino de los lodges a unas horas de navegación de la ciudad.",
+        "come": "Unas 3 horas de barca desde Puerto Maldonado por el Tambopata, luego senderos y canoa con el guía del lodge.",
+        "quando": "Al amanecer, cuando la fauna está más activa.",
+        "tempo": "Medio día desde el lodge; hacen falta al menos 3 noches en la zona",
+        "costo": "Entrada a la reserva 60 soles (unos 15 €) por 2-3 días (2026), normalmente en el paquete",
+        "orari": "Todos los días 5:00-19:00",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+        "lat": -12.8166844,
+        "lng": -69.2612768
+      },
+      {
+        "nome": "Alto Tambopata: las collpas Chuncho y Colorado",
+        "testo": "Las grandes paredes de arcilla de la parte alta de la reserva, de las más frecuentadas por guacamayos y loros de toda la Amazonía. Solo se llega con los lodges más lejanos, y es la zona donde el bosque está menos alterado.",
+        "come": "Unas 5 horas y media de barca desde Puerto Maldonado, pasando por los puestos de control de La Torre y Malinowski.",
+        "quando": "Al amanecer, en la temporada seca.",
+        "tempo": "4-5 días en total, con los traslados",
+        "costo": "Entrada a la reserva 150 soles (unos 38 €) de 4 a 30 días (2026), normalmente en el paquete",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/"
+      },
+      {
+        "nome": "Lago Valencia",
+        "testo": "Un gran lago río abajo de Puerto Maldonado, cerca de la frontera con Bolivia, donde las comunidades viven de la pesca. Está menos visitado que los lagos de Tambopata y se visita sobre todo por la pesca y las aves.",
+        "come": "En barca por el Madre de Dios, con excursiones de los lodges de la zona o con guías de Puerto Maldonado.",
+        "quando": "Primera hora de la mañana.",
+        "tempo": "Un día",
+        "lat": -12.4469969,
+        "lng": -68.8175589
+      },
+      {
+        "nome": "El centro de Puerto Maldonado",
+        "testo": "La ciudad de paso por la que pasan todos, con la Plaza de Armas y, cerca, el Obelisco, una torre con mirador sobre los tejados y el bosque. Útil para una tarde, para el efectivo y para las últimas compras antes del lodge.",
+        "come": "En mototaxi desde el aeropuerto o el puerto, pocos minutos.",
+        "quando": "Al atardecer, cuando baja el calor.",
+        "tempo": "1-2 horas",
+        "lat": -12.594238,
+        "lng": -69.1763811
       },
       {
         "nome": "Iquitos y Pacaya-Samiria",
         "testo": "Iquitos es la ciudad más grande del mundo, fuera de las islas, a la que no se llega por carretera: solo en avión o en barco. Desde la ciudad salen expediciones hacia la reserva Pacaya-Samiria, donde Rick fue con Ruth Amazon Expedition: noches en casas de campesinos y en carpa en el bosque.",
-        "come": "Vuelo desde Lima o barca por el río. Desde Iquitos los tours salen de agencias y alojamientos.",
+        "come": "Vuelo desde Lima o barca por el río. Desde Iquitos los tours salen de agencias y alojamientos: unas 2 horas por carretera hasta Nauta, luego la barca hasta los puestos de control de la reserva. Solo se entra con un operador autorizado.",
         "quando": "Todo el año; la temporada seca hace más fáciles los senderos.",
         "tempo": "3-4 días para una expedición",
-        "costo": "3 días 1.000 soles, 4 días 1.350 soles por persona con Ruth Amazon Expedition (noviembre de 2026)",
+        "costo": "3 días 1.000 soles, 4 días 1.350 soles por persona con Ruth Amazon Expedition (noviembre de 2026); entrada a la reserva 60 soles (unos 15 €) por 2-3 días, 150 soles desde 4 días (2026)",
+        "orari": "Reserva: todos los días 6:00-17:00",
         "url": "https://ruthamazonexpeditions.com/",
+        "lat": -5.3089375,
+        "lng": -74.9631727,
         "consiglio": "Dormir en carpa en el bosque no es para todos: valóralo antes de salir. El mercado de Belén se puede recorrer por cuenta propia pero con cuidado."
+      },
+      {
+        "nome": "Plaza de Armas y Casa de Fierro, Iquitos",
+        "testo": "El centro de la ciudad del caucho, con la plaza, la catedral y la Casa de Fierro, un edificio de planchas de hierro traído por piezas desde Europa a finales del siglo XIX y atribuido por tradición a la escuela de Eiffel. Alrededor quedan las casonas con fachadas de azulejos de los barones del caucho.",
+        "come": "A pie por el centro; para moverse se usan los mototaxis.",
+        "quando": "Mañana o tarde-noche, evitando las horas de más calor.",
+        "tempo": "1-2 horas",
+        "lat": -3.7499142,
+        "lng": -73.2440721
+      },
+      {
+        "nome": "Belén y su mercado",
+        "testo": "El mercado más grande de Iquitos, con pescado de río, frutas de la selva, hierbas medicinales y carnes que no se ven en otros sitios. Más abajo está el barrio de casas sobre pilotes y balsas que con las aguas altas flota sobre el río.",
+        "come": "A pie o en mototaxi desde el centro. El barrio flotante se visita en canoa con un guía local.",
+        "quando": "Primera hora de la mañana, cuando el mercado está en plena actividad.",
+        "tempo": "1-2 horas",
+        "lat": -3.7621564,
+        "lng": -73.2484532,
+        "consiglio": "Nada de objetos de valor a la vista y la bolsa delante: hay carteristas. No compres animales silvestres ni productos de especies protegidas."
+      },
+      {
+        "nome": "Malecón Tarapacá y Museo de Culturas Indígenas Amazónicas",
+        "testo": "El malecón de Iquitos, con vista al Itaya y casas coloniales, es el paseo de la tarde. En el malecón está el museo dedicado a los pueblos indígenas de la Amazonía, con objetos, vestidos e instrumentos de decenas de grupos distintos.",
+        "come": "A pie desde la Plaza de Armas, pocos minutos.",
+        "quando": "El museo de día, el malecón al atardecer.",
+        "tempo": "1-1,5 horas",
+        "lat": -3.7519167,
+        "lng": -73.2440383
+      },
+      {
+        "nome": "Pilpintuwasi",
+        "testo": "Un mariposario y centro de rescate de animales sacados del tráfico, cerca del pueblo de Padre Cocha, en el río Nanay. Se ven mariposas amazónicas en todas sus fases y animales como monos y perezosos acogidos tras su decomiso.",
+        "come": "Desde Iquitos en mototaxi hasta el puerto de Bellavista-Nanay, luego barca hasta Padre Cocha y una breve caminata.",
+        "quando": "Por la mañana.",
+        "tempo": "Medio día con el traslado",
+        "url": "https://www.pilpintuwasi.com/",
+        "lat": -3.7042106,
+        "lng": -73.2828074
       },
       {
         "nome": "Manu",
@@ -1268,6 +1498,8 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Desde Cusco por carretera y luego en barca, con un traslado largo.",
         "quando": "Temporada seca.",
         "tempo": "6-8 días",
+        "lat": -11.85638889,
+        "lng": -71.72138889,
         "consiglio": "Elígelo solo con al menos una semana y presupuesto alto."
       }
     ],
@@ -1281,24 +1513,53 @@ export const destinazioniPeru: Destinazione[] = [
         ]
       },
       {
+        "titolo": "5 días (Alto Tambopata)",
+        "tappe": [
+          "Día 1: vuelo a Puerto Maldonado y barca hasta un lodge del Medio Tambopata",
+          "Día 2: lagos Cocococha o Sachavacayoc y subida por el río",
+          "Día 3: collpa Colorado o Chuncho al amanecer, senderos en el bosque",
+          "Día 4: salida nocturna y bajada por el río",
+          "Día 5: lago Sandoval o regreso directo y vuelo"
+        ]
+      },
+      {
         "titolo": "4 días (Iquitos y Pacaya-Samiria)",
         "tappe": [
           "Día 1: Iquitos y traslado en barca",
           "Días 2-3: navegación, caminatas y noches en el bosque",
           "Día 4: regreso a Iquitos"
         ]
+      },
+      {
+        "titolo": "1 día en Iquitos",
+        "tappe": [
+          "Mañana: mercado de Belén y, en canoa, el barrio flotante",
+          "Almuerzo: pescado de río o juane",
+          "Tarde: barca desde Bellavista-Nanay hasta Pilpintuwasi",
+          "Noche: Plaza de Armas, Casa de Fierro y malecón Tarapacá"
+        ]
       }
     ],
     zone: [
       {
-        "nome": "Lodges lejos de la ciudad",
-        "perChi": "Quien quiere ver fauna",
-        "testo": "Cuanto más arriba por el río, más se ve. Cuestan más y requieren más horas de barca."
+        "nome": "Lodges del lago Sandoval y del bajo Madre de Dios",
+        "perChi": "Quien tiene 3 días y quiere traslados cortos",
+        "testo": "De media hora a una hora de barca desde Puerto Maldonado. Cómodos, pero la fauna está más alterada: sirven para una primera vez."
       },
       {
-        "nome": "Puerto Maldonado e Iquitos",
-        "perChi": "Quien necesita logística",
-        "testo": "Ciudades de tránsito con alojamientos sencillos, calor y ruido de mototaxis."
+        "nome": "Lodges del Medio y Alto Tambopata",
+        "perChi": "Quien quiere ver fauna",
+        "testo": "Cuanto más arriba por el río, más se ve: nutrias en los lagos y collpas de guacamayos. Cuestan más y requieren de 3 a más de 5 horas de barca."
+      },
+      {
+        "nome": "Puerto Maldonado",
+        "perChi": "Quien llega tarde o sale temprano",
+        "testo": "Ciudad de paso con alojamientos sencillos, calor y ruido de mototaxis. Una noche solo hace falta si los horarios de los vuelos no encajan con la barca."
+      },
+      {
+        "nome": "Centro de Iquitos y malecón",
+        "perChi": "Quien sale hacia Pacaya-Samiria o el río Amazonas",
+        "testo": "El centro alrededor de la Plaza de Armas y el malecón es la zona más cómoda para agencias, restaurantes y mototaxis; por la noche hay ambiente."
       }
     ],
     sapori: [
@@ -1321,6 +1582,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Dos noches son pocas: el primer y el último día se van en traslados.",
       "Zonas fronterizas con Ecuador, Colombia y Brasil: más riesgos por el crimen ligado al narcotráfico, sigue los avisos de viaje oficiales.",
       "Ceremonias de ayahuasca y San Pedro en Iquitos: no están reguladas y los avisos oficiales señalan casos graves, muertes y agresiones."
+    ],
+    gite: [
+      {
+        "nome": "Lago Sandoval desde Puerto Maldonado",
+        "distanza": "unos 30 minutos de barca más 3 km a pie",
+        "come": "Con un lodge o un guía autorizado, saliendo del puerto de Puerto Maldonado.",
+        "testo": "Quien no duerme en Sandoval puede hacerlo en el día desde la ciudad: nutrias gigantes, caimanes y aves, con regreso por la tarde."
+      },
+      {
+        "nome": "Nauta y el nacimiento del Amazonas",
+        "distanza": "unas 2 horas por carretera desde Iquitos",
+        "come": "En bus, colectivo o con un tour; desde Nauta salen barcas hasta la confluencia.",
+        "testo": "Poco después de Nauta el Marañón y el Ucayali se unen y desde allí el río toma el nombre de Amazonas. De Nauta salen también las barcas para Pacaya-Samiria."
+      },
+      {
+        "nome": "Pilpintuwasi y el río Nanay",
+        "distanza": "un breve trayecto en barca desde el puerto de Bellavista-Nanay",
+        "come": "Mototaxi hasta el puerto, luego barca colectiva o privada hasta Padre Cocha.",
+        "testo": "Medio día desde Iquitos entre el mariposario, los animales rescatados y el pueblo junto al río."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Mejor Puerto Maldonado, Iquitos o el Manu?",
+        "risposta": "Con 3-4 días y un circuito andino, Puerto Maldonado: se llega con un vuelo corto desde Cusco o Lima. Iquitos tiene sentido con una semana para el río, el Manu solo con 6-8 días y un presupuesto alto."
+      },
+      {
+        "domanda": "¿Cuántos días hacen falta en la Amazonía?",
+        "risposta": "Al menos 3 días y 2 noches, mejor 4: el primer y el último día se van casi enteros en traslados. Para el Alto Tambopata o Pacaya-Samiria hacen falta 4-5."
+      },
+      {
+        "domanda": "¿Hace falta la vacuna de la fiebre amarilla?",
+        "risposta": "Está recomendada para la Amazonía y algunos lodges piden el certificado. Hay que ponerla al menos 10 días antes de salir, después de hablarlo con el médico."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada a las reservas?",
+        "risposta": "Para Tambopata y Pacaya-Samiria la tarifa general de 2026 es de 30 soles por un día, 60 por 2-3 días y 150 de 4 a 30 días. A menudo ya está incluida en el paquete del lodge o de la expedición."
+      },
+      {
+        "domanda": "¿Se puede ir a la Amazonía sin agencia?",
+        "risposta": "En la ciudad sí, pero en las reservas de Tambopata y Pacaya-Samiria solo se entra con un operador autorizado por el Sernanp. Conviene elegirlo antes, comprobando lo lejos que está el lodge."
+      },
+      {
+        "domanda": "¿Cuándo conviene ir?",
+        "risposta": "De mayo a octubre, con aguas bajas, los senderos son más transitables y la fauna se concentra en los ríos; de diciembre a mayo se navega por el bosque inundado. Llueve todos los meses."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],

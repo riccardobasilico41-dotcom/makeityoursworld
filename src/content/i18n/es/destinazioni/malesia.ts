@@ -1347,12 +1347,11 @@ export const destinazioniMalesia: Destinazione[] = [
       "Kuala Tahan, el pueblo en la orilla opuesta a la entrada del parque, tiene los alojamientos económicos y los restaurantes flotantes; dentro del parque está el resort oficial, más caro pero con la ventaja de estar ya en el lado correcto del río por la mañana.",
     doveMangiare:
       "En Kuala Tahan se come en los restaurantes flotantes amarrados en el río, que sirven cocina malaya sencilla a precios bajos con la corriente pasando bajo las mesas. Dentro del parque la oferta es limitada y cara. Para los treks largos se lleva todo de fuera: agua incluida, porque a lo largo de los senderos no hay nada.",
-    comeArrivare:
-      "Minibús desde Kuala Lumpur hasta Kuala Tembeling o a Jerantut, luego barca larga por el río Tembeling: la travesía es la parte más bonita del traslado. Muchos operadores ofrecen el paquete combinado desde la capital.",
+    comeArrivare: "Desde Kuala Lumpur se sale temprano en autobús hasta Jerantut, unas tres horas y media, luego un breve tramo en minivan hasta el embarcadero de Kuala Tembeling y la barca larga por el río Tembeling, dos o tres horas contracorriente hasta Kuala Tahan. Muchas agencias de la capital venden el paquete combinado de autobús y barca, que coordina los horarios. Cuando el río está bajo las barcas no salen y se llega en minivan por carretera hasta Kuala Tahan.",
     comeSpostarsi: 'A pie en el parque y en barca por el río: no hay carreteras. Para cruzar de Kuala Tahan a la entrada hay barquitas frecuentes y baratas.',
     periodoMigliore:
       "la ventana más seca es a mitad de año. A final de año las lluvias son fuertes y algunas actividades se suspenden; el nivel del río condiciona las remontadas en barca.",
-    costi: "para entrar en el parque hace falta el permiso del Departamento de Fauna y Parques (a menudo incluido en los paquetes); la canopy walkway y las excursiones guiadas se pagan aparte, con precios que varían según la duración.",
+    costi: "Permiso de entrada al parque de pocos ringgit, que se compra en la sede central y a menudo va incluido en los paquetes; canopy walkway, night walk y excursiones en barca se pagan aparte. Económico: unos 30-40 € al día con guesthouse en Kuala Tahan y cenas en los restaurantes flotantes. Medio: 60-90 € con chalet, night walk y salida en barca. Alto: más de 130 € con el resort dentro del parque y guía privado.",
     erroriDaEvitare: [
       "Esperar ver tigres, elefantes o tapires: existen, pero los avistamientos son rarísimos y quien llega con esa idea vuelve decepcionado. Aquí se oye más de lo que se ve",
       "Ir sin calcetines antisanguijuelas en la estación húmeda: las sanguijuelas terrestres son numerosas y llegan desde abajo",
@@ -1368,7 +1367,10 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "A pie desde el pueblo de Kuala Tahan, por un sendero en la selva. El permiso se compra en el centro de visitantes; se pasa de pocos en pocos.",
         quando: "A la apertura: más tarde se va con cola detrás.",
         tempo: "2-3 horas",
-        consiglio: "Ir a la apertura para tener la pasarela casi libre."
+        consiglio: "Ir a la apertura para tener la pasarela casi libre.",
+        orari: "De sábado a jueves 9:30-15:00, último billete a las 14:00; cerrada los viernes por mantenimiento y con mal tiempo. Reabierta el 22 de junio de 2026 tras el cierre de 2024; no se admiten niños menores de 7 años.",
+        lat: 4.3928,
+        lng: 102.4106,
       },
       {
         nome: "Bukit Teresek",
@@ -1376,7 +1378,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "A pie desde Kuala Tahan, por el mismo sendero de la canopy walkway, con un tramo más.",
         quando: "A primera hora de la mañana, por el fresco.",
         tempo: "2 horas",
-        consiglio: "Llevar agua y calcetines altos contra las sanguijuelas."
+        consiglio: "Llevar agua y calcetines altos contra las sanguijuelas.",
+        lat: 4.3999,
+        lng: 102.4079,
       },
       {
         nome: "Lata Berkoh",
@@ -1384,7 +1388,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "En barca larga desde el pueblo, a horas acordadas con los operadores. El nivel del río decide si se puede ir.",
         quando: "Por la mañana. En la temporada de lluvias las salidas se suspenden.",
         tempo: "medio día",
-        consiglio: "Preguntar a varios operadores si la salida está confirmada antes de reservar."
+        consiglio: "Preguntar a varios operadores si la salida está confirmada antes de reservar.",
+        lat: 4.4433,
+        lng: 102.3849,
       },
       {
         nome: "Night walk",
@@ -1392,7 +1398,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "Con un guía del parque o de un operador autorizado, desde el pueblo.",
         quando: "Después del atardecer, durante un par de horas.",
         tempo: "2 horas",
-        consiglio: "Es la parte que casi todos se saltan por cansancio y la que merece la pena."
+        consiglio: "Es la parte que casi todos se saltan por cansancio y la que merece la pena.",
+        lat: 4.3853,
+        lng: 102.4002,
       },
       {
         nome: "Poblado Orang Asli y Gua Telinga",
@@ -1400,35 +1408,92 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "Con operadores autorizados, en barca. La visita a la cueva exige no tener problemas con los espacios estrechos.",
         quando: "Por la mañana.",
         tempo: "medio día",
-        consiglio: "Elegir un operador que lleve dinero a la comunidad y no haga un espectáculo."
-      }
+        consiglio: "Elegir un operador que lleve dinero a la comunidad y no haga un espectáculo.",
+        lat: 4.3745,
+        lng: 102.3875,
+      },
+      {
+        nome: "Kuala Tahan y los restaurantes flotantes",
+        testo: "El pueblo de pocas calles en la orilla opuesta a la entrada del parque, con guesthouses, tiendecitas y las oficinas donde se reservan las actividades. Por la noche se cena en los restaurantes flotantes amarrados en el río, con la corriente pasando bajo las mesas.",
+        come: "Se llega en barca desde Kuala Tembeling o en minivan desde Jerantut; para entrar en el parque se cruza el río en las barquitas que van y vienen.",
+        quando: "La tarde de llegada, para comprar el permiso y reservar el night walk.",
+        tempo: "Base para toda la estancia",
+        lat: 4.3823,
+        lng: 102.4017,
+        consiglio: "El cajero del pueblo no es fiable: llegar con efectivo para todos los días.",
+      },
+      {
+        nome: "El río Tembeling en barca larga",
+        testo: "La subida de Kuala Tembeling a Kuala Tahan, dos o tres horas contracorriente en una barca larga y estrecha entre dos muros de selva. Es la mejor parte de la llegada y ya vale por sí sola.",
+        come: "Minibús desde Kuala Lumpur o Jerantut hasta el embarcadero de Kuala Tembeling, y luego la barca; muchas agencias venden el paquete combinado.",
+        quando: "Salida a media mañana; los servicios dependen del nivel del río y se han reducido en los últimos años.",
+        tempo: "2-3 horas",
+        lat: 4.0746,
+        lng: 102.323,
+        consiglio: "Comprobar que la barca sale antes de reservar: con el agua baja solo se llega por carretera.",
+      },
+      {
+        nome: "Bumbun Tabing",
+        testo: "Uno de los puestos de observación del parque, una cabaña sobre pilotes asomada a un claro donde los animales vienen a beber y a lamer sal. Se puede parar a mirar unas horas o, con permiso, pasar la noche.",
+        come: "A pie desde Kuala Tahan, hora y media por la selva más allá de la canopy walkway.",
+        quando: "Al amanecer o al atardecer, en silencio.",
+        tempo: "Media jornada o una noche",
+        lat: 4.4088,
+        lng: 102.4038,
+        consiglio: "Los avistamientos no están garantizados: llevar paciencia, linterna y algo de comer.",
+      },
+      {
+        nome: "Gunung Tahan",
+        testo: "La cumbre más alta de la península malaya, 2.187 metros, en el corazón del parque. Desde Kuala Tahan se alcanza con un trek de varios días cruzando ríos y crestas, solo con guía autorizado.",
+        come: "Trek organizado con guía y permiso, saliendo de Kuala Tahan o de Merapoh.",
+        quando: "En la estación más seca, a mitad de año; a final de año la ruta cierra por las lluvias.",
+        tempo: "7-9 días desde Kuala Tahan",
+        lat: 4.633,
+        lng: 102.235,
+      },
     ],
     programmi: [
       {
         titolo: "2 días",
         tappe: [
-          "Día 1: llegada en barca desde Kuala Tembeling (unas 2 horas y media por el río), instalación, night walk",
-          "Día 2: canopy walkway a la apertura, Bukit Teresek, almuerzo en el pueblo, regreso por la tarde"
-        ]
+          "Día 1: llegada en barca desde Kuala Tembeling (unas 2 horas y media por el río), permiso en la sede, night walk",
+          "Día 2: canopy walkway a la apertura, Bukit Teresek, comida en el pueblo, regreso por la tarde",
+        ],
       },
       {
         titolo: "3 días",
         tappe: [
-          "Como los 2 días, con el día adicional para Lata Berkoh o el poblado Orang Asli"
-        ]
-      }
+          "Días 1-2: como arriba",
+          "Día 3: barca a Lata Berkoh y baño en los rápidos",
+          "Tarde: poblado orang asli y Gua Telinga",
+          "Noche: Bumbun Tabing al atardecer",
+        ],
+      },
+      {
+        titolo: "4 días",
+        tappe: [
+          "Días 1-3: como arriba",
+          "Día 4: noche en un bumbun o trek hacia Kuala Trenggan, regreso en barca",
+          "Minivan a las Cameron Highlands o a Kuala Lumpur",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Kuala Tahan (lado del pueblo)",
-        perChi: "quien quiere una cama barata y restaurantes cerca",
-        testo: "Casas de huéspedes y chalés en el río frente al parque, con restaurantes flotantes. Ruidoso y sencillo."
+        perChi: "quien quiere una cama económica y restaurantes cerca",
+        testo: "Guesthouses y chalets junto al río frente al parque, con restaurantes flotantes. Ruidoso y sencillo.",
       },
       {
         nome: "Dentro del parque",
         perChi: "quien quiere alojarse dentro del parque",
-        testo: "Resort con chalés, cerca de los senderos. Más caro, con poca oferta de comida."
-      }
+        testo: "Resort con chalets, cerca de los senderos y ya en el lado bueno del río por la mañana. Más caro, con poca oferta de comida.",
+      },
+      {
+        nome: "Bumbun y lodges interiores",
+        perChi: "quien busca fauna",
+        testo: "Puestos de observación y lodges más arriba en el río, accesibles a pie o en barca, para quien quiere dormir en la selva. Hacen falta permiso, saco de dormir y provisiones.",
+      },
     ],
     sapori: [
       {
@@ -1453,6 +1518,46 @@ export const destinazioniMalesia: Destinazione[] = [
       "No esperar ver tigres ni elefantes: los avistamientos son rarísimos.",
       "Casi no hay cajeros en el pueblo: llevar efectivo desde Kuala Lumpur o Jerantut.",
       "En la estación de lluvias, a final de año, los ríos crecen y algunas actividades se suspenden: preguntar en el lugar."
+    ],
+    gite: [
+      {
+        nome: "Kuala Trenggan y Bumbun Kumbang",
+        distanza: "unos 9 km río arriba, media hora en barca",
+        come: "Barca desde Kuala Tahan a la ida y vuelta a pie por el sendero del río, o al revés.",
+        testo: "Un lodge en plena selva y uno de los puestos de observación más remotos del parque. El sendero de vuelta es largo y húmedo, pero mucho menos concurrido que los de alrededor de la sede.",
+      },
+      {
+        nome: "Kuala Keniam",
+        distanza: "1-1,5 horas en barca río arriba",
+        come: "Barca alquilada en Kuala Tahan con guía.",
+        testo: "La zona más interior alcanzable en el día, con cuevas de caliza y senderos donde apenas se cruza a nadie. Hay que organizarla el día antes con los operadores del pueblo.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Está abierta la canopy walkway?",
+        risposta: "Reabrió el 22 de junio de 2026 tras el cierre de 2024. Funciona de sábado a jueves de 9:30 a 15:00, cierra los viernes y se suspende con mal tiempo.",
+      },
+      {
+        domanda: "¿Cómo se llega a Taman Negara desde Kuala Lumpur?",
+        risposta: "Autobús hasta Jerantut, minivan hasta Kuala Tembeling y barca larga por el río hasta Kuala Tahan. Muchas agencias venden el paquete combinado; con el río bajo solo se llega por carretera.",
+      },
+      {
+        domanda: "¿Cuántos días hacen falta?",
+        risposta: "Dos días bastan para la canopy walkway, Bukit Teresek y el night walk. Con tres se añaden los rápidos de Lata Berkoh o una noche en un bumbun.",
+      },
+      {
+        domanda: "¿Se ven animales?",
+        risposta: "Pocos, sobre todo de día. El night walk con guía es el momento en que más se ven: insectos, arañas, serpientes, ranas y a veces algún mamífero.",
+      },
+      {
+        domanda: "¿Las sanguijuelas son un problema?",
+        risposta: "En la estación húmeda y después de la lluvia son casi seguras. No transmiten enfermedades conocidas: calcetines antisanguijuelas y revisar las piernas al final del día bastan.",
+      },
+      {
+        domanda: "¿Hay cajeros en Kuala Tahan?",
+        risposta: "Mejor no contar con ellos. Conviene sacar dinero en Kuala Lumpur o en Jerantut y llevar efectivo para toda la estancia.",
+      },
     ],
     esperienzeSlugs: ['canopy-walkway-taman-negara'],
     tripSlugs: ['malesia-singapore'],
@@ -1805,13 +1910,11 @@ export const destinazioniMalesia: Destinazione[] = [
       "Besar para las familias y quien busca calma, Kecil y Long Beach para el ritmo más social y los precios bajos. Los alojamientos son sencillos: chalets de madera, aire acondicionado no siempre, y en algunos establecimientos la electricidad funciona por franjas horarias.",
     doveMangiare:
       "Se come en los restaurantes de los chalets y en las barbacoas nocturnas en la playa, donde el pescado se expone sobre hielo y se asa al momento: es la cena típica y cuesta poco. La oferta es limitada y repetitiva (nasi goreng, mie goreng, pescado, curry) y hay que aceptarla como parte del paquete. Hay que saber que estamos en un estado conservador, el alcohol se encuentra poco y es caro, y algunos establecimientos no lo sirven en absoluto.",
-    comeArrivare:
-      "Vuelo a Kota Bharu o autobús nocturno desde Kuala Lumpur hasta Kuala Besut, luego speedboat. La travesía es rápida pero movida: quien se marea en el mar lo nota.",
+    comeArrivare: "Vuelo a Kota Bharu y luego una hora de taxi hasta Kuala Besut, o autobús nocturno desde Kuala Lumpur hasta Kuala Besut. Desde el embarcadero las lanchas llegan a las islas en una media hora y dejan a los pasajeros directamente en la playa o en el muelle del alojamiento: hay que decir al embarcar dónde se duerme. La travesía es rápida pero movida, y quien se marea lo nota. En el embarcadero se paga la tasa del parque marino.",
     comeSpostarsi: 'Solo a pie y en water taxi: en las islas no hay carreteras ni vehículos. Los traslados entre playas se hacen en barca, por pocos ringgit.',
     periodoMigliore:
       "los meses fuera del monzón, en la parte central del año. **Entre finales y principios de año las islas cierran casi por completo** por el monzón del noreste: los establecimientos echan el cierre y los ferris se detienen. Es un cierre de verdad, más que una temporada baja.",
-    costi:
-      "chalets sencillos a precios bajos, lancha rápida de ida y vuelta desde Kuala Besut; inmersiones a precios bajos.",
+    costi: "Tasa del parque marino 30 RM para extranjeros (unos 6 €), lancha ida y vuelta desde Kuala Besut, water taxis entre playas por pocos ringgit, buceo a precios bajos. Económico: unos 30-45 € al día con chalet sencillo y barbacoa en la playa. Medio: 70-110 € con habitación con aire acondicionado y salida de snorkel. Alto: más de 150 € con los resorts de Besar y buceo.",
     erroriDaEvitare: [
       "Programarlas durante el monzón del noreste: están cerradas, y es el error que echa a perder itinerarios enteros",
       "Contar con los pagos con tarjeta: en las islas se funciona casi solo con efectivo y los cajeros son poquísimos y a menudo están vacíos: se saca dinero en tierra firme",
@@ -1828,7 +1931,9 @@ export const destinazioniMalesia: Destinazione[] = [
         quando: "En los meses fuera del monzón. Con el monzón del noreste casi todos los resorts y ferris paran.",
         tempo: "al menos 2 noches",
         costo: "Tasa de conservación del parque marino: 30 RM para extranjeros (2022), se paga en la oficina del muelle de Kuala Besut.",
-        consiglio: "Reservar chalé y barca con antelación en temporada alta."
+        consiglio: "Reservar chalé y barca con antelación en temporada alta.",
+        lat: 5.9029,
+        lng: 102.7557,
       },
       {
         nome: "Perhentian Kecil y Long Beach",
@@ -1836,7 +1941,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "Lancha rápida desde Kuala Besut; entre playas con taxi acuático.",
         quando: "En los meses fuera del monzón.",
         tempo: "al menos 2 noches",
-        consiglio: "Quien busque silencio debe ir a Coral Bay o a Besar."
+        consiglio: "Quien busque silencio debe ir a Coral Bay o a Besar.",
+        lat: 5.9187,
+        lng: 102.7221,
       },
       {
         nome: "Snorkel en el arrecife",
@@ -1844,7 +1951,9 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "En barca con los operadores de snorkel, medio día.",
         quando: "Por la mañana, con el agua más clara.",
         tempo: "medio día",
-        consiglio: "No tocar ni perseguir a las tortugas: se miran sin acercarse."
+        consiglio: "No tocar ni perseguir a las tortugas: se miran sin acercarse.",
+        lat: 5.9046,
+        lng: 102.7412,
       },
       {
         nome: "Calas solo por mar",
@@ -1852,41 +1961,126 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "Con taxi acuático desde Kecil, o a pie por el bosque con sendero señalizado.",
         quando: "Por la mañana.",
         tempo: "medio día",
-        consiglio: "Llevar efectivo para el taxi acuático: en las islas los cajeros son muy pocos."
-      }
+        consiglio: "Llevar efectivo para el taxi acuático: en las islas los cajeros son muy pocos.",
+        lat: 5.9158,
+        lng: 102.7197,
+      },
+      {
+        nome: "Coral Bay (Teluk Aur)",
+        testo: "La bahía del lado oeste de Perhentian Kecil, más recogida y tranquila que Long Beach, con agua en calma y atardeceres sobre el mar. Un sendero de unos diez minutos por la selva la une con Long Beach.",
+        come: "Water taxi desde Kuala Besut o desde las otras playas; a pie desde Long Beach.",
+        quando: "Al atardecer.",
+        tempo: "Media jornada",
+        lat: 5.9134,
+        lng: 102.717,
+        consiglio: "El sendero entre las dos bahías está oscuro por la noche: llevar linterna.",
+      },
+      {
+        nome: "Playa de Adán y Eva",
+        testo: "Una pequeña playa en el lado norte de Perhentian Kecil, sin servicios, a la que se llega a pie desde Long Beach por un sendero en la selva o en barca. Arena, rocas y agua transparente.",
+        come: "A pie desde Long Beach, una media hora de sendero, o en water taxi.",
+        quando: "Por la mañana, antes de que lleguen las barcas de los tours.",
+        tempo: "2-3 horas",
+        lat: 5.9342,
+        lng: 102.7187,
+        consiglio: "No hay nada que comprar: llevar agua y comida.",
+      },
+      {
+        nome: "Romantic Beach",
+        testo: "Una cala diminuta en el lado oeste de Kecil, un poco al norte de Coral Bay, encerrada entre rocas. Es una de las paradas de las salidas de snorkel y a primera hora casi siempre está vacía.",
+        come: "Water taxi, o a pie desde Coral Bay por la costa.",
+        quando: "Por la mañana.",
+        tempo: "1-2 horas",
+        lat: 5.923,
+        lng: 102.7171,
+      },
+      {
+        nome: "Playa Petani",
+        testo: "Una playa apartada en el lado sur de Perhentian Kecil, con pocos alojamientos y agua baja y clara delante. Quien busca silencio en Kecil viene aquí.",
+        come: "Water taxi desde Kuala Besut o desde Long Beach.",
+        quando: "Mañana y primera hora de la tarde.",
+        tempo: "Media jornada",
+        lat: 5.8951,
+        lng: 102.7217,
+      },
+      {
+        nome: "Kampung Pasir Hantu",
+        testo: "El único pueblo de pescadores de las islas, en el lado sur de Kecil, frente a Besar. Mezquita, escuela, casas sobre pilotes y alguna tienda: es el lugar para ver cómo vive quien habita aquí todo el año.",
+        come: "Water taxi desde cualquier playa, o a pie desde Petani.",
+        quando: "De día, evitando las horas de la oración del viernes.",
+        tempo: "1 hora",
+        lat: 5.8976,
+        lng: 102.7295,
+        consiglio: "Aquí se viste de forma recatada, como en tierra firme.",
+      },
+      {
+        nome: "Tiga Ruang",
+        testo: "La costa noreste de Perhentian Besar, con una playa y un arrecife donde se hace snorkel desde la orilla. Es uno de los puntos donde más a menudo se ven tortugas comiendo las algas del fondo.",
+        come: "Water taxi desde las playas de Besar o en las salidas de snorkel.",
+        quando: "Por la mañana, con el agua más quieta.",
+        tempo: "2-3 horas",
+        lat: 5.9112,
+        lng: 102.7532,
+        consiglio: "Las tortugas se miran sin tocarlas ni perseguirlas.",
+      },
+      {
+        nome: "Embarcadero de Kuala Besut",
+        testo: "El pueblo de tierra firme desde el que salen las lanchas a las islas, a una media hora de mar. Aquí se paga la tasa del parque marino, se saca efectivo y, si se llega desde Kota Bharu, se deja el coche.",
+        come: "Taxi desde Kota Bharu (una hora) o autobús nocturno desde Kuala Lumpur.",
+        quando: "Las barcas salen de la mañana a primera hora de la tarde; la última sale pronto.",
+        tempo: "Parada de 1 hora",
+        costo: "Tasa de conservación del parque marino 30 RM para extranjeros (unos 6 €)",
+        lat: 5.8307,
+        lng: 102.5582,
+        consiglio: "Sacar dinero aquí: en las islas los cajeros son poquísimos y a menudo están vacíos.",
+      },
     ],
     programmi: [
       {
         titolo: "3 días",
         tappe: [
-          "Día 1: llegada, chalé, playa y atardecer",
-          "Día 2: salida de snorkel por el arrecife",
-          "Día 3: calas solo por mar y regreso en barca"
-        ]
+          "Día 1: llegada, chalet, playa y atardecer en Coral Bay",
+          "Día 2: salida de snorkel por el arrecife con paradas en Tiga Ruang y Romantic Beach",
+          "Día 3: sendero hasta Adán y Eva, pueblo de Pasir Hantu y regreso en barca",
+        ],
       },
       {
         titolo: "4 días",
         tappe: [
-          "Como los 3 días, con el cuarto para una inmersión o un día libre en la playa"
-        ]
-      }
+          "Días 1-3: como arriba",
+          "Día 4: una inmersión o un día libre en una playa de Besar",
+        ],
+      },
+      {
+        titolo: "5 días con curso de buceo",
+        tappe: [
+          "Días 1-3: curso Open Water con inmersiones por la mañana",
+          "Tardes libres entre Long Beach y Coral Bay",
+          "Días 4-5: snorkel en Besar, última inmersión y regreso a Kuala Besut",
+        ],
+      },
     ],
     zone: [
       {
         nome: "Long Beach (Kecil)",
         perChi: "quien quiere vida nocturna y comodidad",
-        testo: "Chalés sencillos, bares, restaurantes, centros de buceo. Más ruidosa."
+        testo: "Chalets sencillos, bares, restaurantes, buceo. Más ruidosa.",
       },
       {
         nome: "Coral Bay (Kecil)",
         perChi: "quien quiere atardeceres y algo de calma",
-        testo: "En el lado oeste de Kecil, con bares en la playa y poca gente."
+        testo: "En el lado oeste de Kecil, con bares en la playa y poca gente.",
       },
       {
         nome: "Perhentian Besar",
         perChi: "quien quiere el mejor mar y silencio",
-        testo: "Pocos resorts y chalés, algunos restaurantes. Electricidad a ciertas horas."
-      }
+        testo: "Pocos resorts y chalets, algún restaurante. Electricidad por horas.",
+      },
+      {
+        nome: "Kuala Besut",
+        perChi: "quien llega tarde o sale al amanecer",
+        testo: "Hoteles sencillos cerca del embarcadero para la noche antes o después de las islas, cuando ya no salen barcas.",
+      },
     ],
     sapori: [
       {
@@ -1911,6 +2105,52 @@ export const destinazioniMalesia: Destinazione[] = [
       "Efectivo: pocos cajeros y a menudo vacíos, retirar en el continente.",
       "Terengganu es un estado conservador: lejos de las playas, vestir ropa cubierta.",
       "Electricidad a ciertas horas y sin aire acondicionado en muchos chalés."
+    ],
+    gite: [
+      {
+        nome: "Pulau Redang",
+        distanza: "una hora en barca",
+        come: "Salida en barca organizada por los operadores de Kecil y Besar, con paradas de snorkel.",
+        testo: "La isla más grande del parque marino, con agua turquesa y arrecifes extensos. En el día se ve la playa principal y uno o dos puntos de snorkel.",
+      },
+      {
+        nome: "Pulau Lang Tengah",
+        distanza: "unos 45 minutos en barca",
+        come: "Barca privada o salida organizada desde las Perhentian.",
+        testo: "Una isla pequeña con pocos resorts, playas casi vacías y un proyecto de protección de tortugas.",
+      },
+      {
+        nome: "Kota Bharu",
+        distanza: "una hora en coche desde Kuala Besut",
+        come: "Taxi o coche a la ida o a la vuelta de las islas.",
+        testo: "La capital de Kelantan, con el mercado central de Siti Khadijah, llevado sobre todo por mujeres, y una cocina malaya distinta de la de la costa oeste.",
+      },
+    ],
+    faq: [
+      {
+        domanda: "¿Cuándo se puede ir a las Perhentian?",
+        risposta: "De mayo a septiembre, los meses fuera del monzón. De noviembre a febrero el monzón del noreste cierra casi todos los alojamientos y detiene las barcas.",
+      },
+      {
+        domanda: "¿Mejor Kecil o Besar?",
+        risposta: "Kecil para vida nocturna y precios bajos, sobre todo en Long Beach; Besar para playas más tranquilas, familias y resorts. Entre las dos islas hay water taxis en pocos minutos.",
+      },
+      {
+        domanda: "¿Cómo se llega?",
+        risposta: "Avión o autobús hasta Kuala Besut, y luego una media hora de lancha. En el embarcadero se paga la tasa del parque marino de 30 RM.",
+      },
+      {
+        domanda: "¿Se ven tortugas?",
+        risposta: "A menudo sí, incluso haciendo snorkel desde la orilla, sobre todo en el lado de Besar. Hay que mirarlas sin tocarlas ni perseguirlas.",
+      },
+      {
+        domanda: "¿Hay cajeros en las islas?",
+        risposta: "Poquísimos y a menudo vacíos. Conviene sacar dinero en Kuala Besut o en Kota Bharu y llevar efectivo para toda la estancia.",
+      },
+      {
+        domanda: "¿Se puede beber alcohol?",
+        risposta: "Poco y caro: Terengganu es un estado conservador y muchos alojamientos no lo sirven. Fuera de las playas se espera también ropa recatada.",
+      },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],

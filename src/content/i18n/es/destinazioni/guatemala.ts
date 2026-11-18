@@ -835,10 +835,10 @@ export const destinazioniGuatemala: Destinazione[] = [
     doveMangiare:
       'No hay donde elegir, y conviene saberlo: en Lanquín y a lo largo del camino de tierra hacia el parque se come en los hostales, con menús fijos por la noche, o en los pocos comedores del pueblo. A la entrada de Semuc algunas familias venden pollo a la parrilla y tortillas hechas al momento, lo mejor de la zona. El agua y los snacks hay que comprarlos antes: dentro del parque no se encuentra nada.',
     comeArrivare:
-      'Shuttle turístico desde Antigua, Ciudad de Guatemala o Flores: 8-10 horas, con el último tramo por camino de tierra muy lento. Es el traslado más exigente de un recorrido clásico por Guatemala.',
+      "Shuttle turístico desde Antigua, Ciudad de Guatemala o Flores: 8-10 horas, con el último tramo por camino de tierra muy lento. Es el traslado más exigente de un recorrido clásico por Guatemala. Desde Panajachel, en el lago Atitlán, hacen falta unas 7-9 horas, subiendo al norte por Cobán; el shuttle se reserva con un día de antelación. De Lanquín a la entrada del parque hay unos 10 km de pista, 30-45 minutos en pick-up. Hacia Flores y Tikal el shuttle tarda 9-12 horas.",
     comeSpostarsi: 'Del pueblo a la entrada del parque se viaja en la caja de las camionetas colectivas, aproximadamente 30-45 minutos.',
     periodoMigliore: 'estación seca para el agua más turquesa: después de las lluvias el color vira a un verde turbio',
-    costi: 'entrada al parque aproximadamente 50 GTQ; tour combinado cuevas + tubing + entrada sobre los 150-250 GTQ',
+    costi: "entrada al parque aproximadamente 50 GTQ; tour combinado cuevas + tubing + entrada sobre los 150-250 GTQ. Presupuesto orientativo por persona y día: bajo 25-40 € (dormitorio en hostal en Lanquín, menú fijo por la noche, pick-up compartido); medio 50-80 € (habitación privada en un lodge junto al río, tour combinado con las cuevas); alto desde 110 € (lodge más cuidado en el valle, traslado privado).",
     erroriDaEvitare: [
       'Programarlo como parada «de paso»: los traslados de ida y vuelta a Lanquín son largos y cansados, hace falta un día entero para cada tramo',
       'Ir justo después de días de lluvia intensa, cuando las piscinas pierden el color turquesa',
@@ -846,67 +846,126 @@ export const destinazioniGuatemala: Destinazione[] = [
     miaEsperienza:
       "Llegar es la mitad del relato: de Panajachel a Lanquín fue la jornada de traslado más larga del viaje, con el último tramo por un camino de tierra que baja lento al valle. Al día siguiente remontamos las piscinas de abajo hacia arriba y luego subimos al Mirador: la subida es empinada, pero sin la vista desde arriba no se entiende cómo funciona el lugar, con el río que desaparece bajo el puente de roca y reaparece trescientos metros más allá. Por la tarde entramos en las cuevas de K'anba, con una vela en la mano y algunos tramos a nado en la oscuridad: lo menos turístico de la zona y lo que más recuerdo. Quien sufra claustrofobia puede saltárselas sin arrepentirse.",
       "luoghi": [
-        {
-          "nome": "Pozas naturales de Semuc Champey",
-          "testo": "Una serie de pozas turquesa escalonadas sobre un puente natural de caliza de unos 300 metros, bajo el cual corre el río Cahabón. Monumento natural desde 2005, gestionado por el CONAP y la municipalidad de Lanquín, con entrada de pago.",
-          "come": "Desde Lanquín en pick-up por un camino de tierra. Desde la entrada se camina hasta las pozas.",
-          "quando": "Mañana, con menos gente y agua más clara; evitar tras lluvias fuertes, cuando el agua se enturbia.",
-          "tempo": "2-3 horas",
-          "consiglio": "Se sube desde abajo hacia arriba y luego al Mirador: así se entiende cómo funciona el lugar."
-        },
-        {
-          "nome": "El Mirador",
-          "testo": "El punto panorámico sobre las pozas. Desde aquí se ve cómo el río desaparece bajo el puente de roca y vuelve a salir más abajo.",
-          "come": "Sendero empinado y caluroso de unos 45 minutos desde la entrada, con escaleras y barro.",
-          "quando": "Mañana; evitar las horas de lluvia, cuando los escalones resbalan.",
-          "tempo": "1-1,5 horas",
-          "consiglio": "Zapatos con agarre y agua: la subida es dura, pero sin la vista desde arriba se pierde el sentido del lugar."
-        },
-        {
-          "nome": "Cuevas de K'anba",
-          "testo": "Una cueva con pasillos inundados que se recorren con guía a la luz de las velas, con algunos tramos a nado.",
-          "come": "Con guía; el desvío está a un kilómetro antes de Semuc Champey, justo antes del gran puente sobre el río.",
-          "quando": "Después de visitar las pozas.",
-          "tempo": "Unas 2 horas",
-          "consiglio": "Llevar una linterna impermeable: con las velas solas se ve poco. Los grupos pueden ir muy llenos; quien sufra claustrofobia, mejor que se las salte."
-        },
-        {
-          "nome": "Lanquín",
-          "testo": "El pueblo q'eqchi' que sirve de base para Semuc Champey, con hostales y pocos servicios.",
-          "come": "Desde Cobán o en shuttle desde Antigua o Atitlán: es un día largo de carretera.",
-          "quando": "Llegar el día anterior.",
-          "tempo": "Una noche"
-        }
-      ],
+      {
+        "nome": "Pozas naturales de Semuc Champey",
+        "testo": "Una serie de pozas turquesa escalonadas sobre un puente natural de caliza de unos 300 metros, bajo el cual corre el río Cahabón. Monumento natural desde 2005, gestionado por el CONAP y la municipalidad de Lanquín, con entrada de pago.",
+        "come": "Desde Lanquín en pick-up por un camino de tierra. Desde la entrada se camina hasta las pozas.",
+        "quando": "Mañana, con menos gente y agua más clara; evitar tras lluvias fuertes, cuando el agua se enturbia.",
+        "tempo": "2-3 horas",
+        "consiglio": "Se sube desde abajo hacia arriba y luego al Mirador: así se entiende cómo funciona el lugar.",
+        "costo": "50 GTQ para extranjeros, unos 6 €, en efectivo",
+        "lat": 15.53376,
+        "lng": -89.95811
+      },
+      {
+        "nome": "El Mirador",
+        "testo": "El punto panorámico sobre las pozas. Desde aquí se ve cómo el río desaparece bajo el puente de roca y vuelve a salir más abajo.",
+        "come": "Sendero empinado y caluroso de unos 45 minutos desde la entrada, con escaleras y barro.",
+        "quando": "Mañana; evitar las horas de lluvia, cuando los escalones resbalan.",
+        "tempo": "1-1,5 horas",
+        "consiglio": "Zapatos con agarre y agua: la subida es dura, pero sin la vista desde arriba se pierde el sentido del lugar.",
+        "costo": "Incluido en la entrada al parque",
+        "lat": 15.53346,
+        "lng": -89.95752
+      },
+      {
+        "nome": "Cuevas de K'anba",
+        "testo": "Una cueva con pasillos inundados que se recorren con guía a la luz de las velas, con algunos tramos a nado.",
+        "come": "Con guía; el desvío está a un kilómetro antes de Semuc Champey, justo antes del gran puente sobre el río.",
+        "quando": "Después de visitar las pozas.",
+        "tempo": "Unas 2 horas",
+        "consiglio": "Llevar una linterna impermeable: con las velas solas se ve poco. Los grupos pueden ir muy llenos; quien sufra claustrofobia, mejor que se las salte."
+      },
+      {
+        "nome": "Lanquín",
+        "testo": "El pueblo q'eqchi' que sirve de base para Semuc Champey, en un valle verde junto al río Lanquín, con hostales y pocos servicios. Muchos alojamientos están fuera del pueblo, junto al río, y mandan un pick-up a recoger a los huéspedes en la parada del shuttle.",
+        "come": "Desde Cobán o en shuttle desde Antigua o Atitlán: es un día largo de carretera.",
+        "quando": "Llegar el día anterior.",
+        "tempo": "Una noche",
+        "consiglio": "En la zona hay poquísimos cajeros: conviene llegar con efectivo suficiente para todos los días.",
+        "lat": 15.57498,
+        "lng": -89.98076
+      },
+      {
+        "nome": "El Sumidero",
+        "testo": "El punto, al inicio de las pozas, donde el río Cahabón con toda su fuerza se mete bajo el puente de caliza y desaparece. El ruido del agua entrando en la roca explica mejor que cualquier descripción cómo nació el lugar.",
+        "come": "A pie desde la entrada del parque, por el sendero que lleva a la parte alta de las pozas.",
+        "quando": "Junto con la visita a las pozas.",
+        "tempo": "15-20 minutos",
+        "costo": "Incluido en la entrada al parque",
+        "lat": 15.53305,
+        "lng": -89.96034,
+        "consiglio": "Está prohibido bañarse en este tramo: la corriente es fortísima."
+      },
+      {
+        "nome": "Grutas de Lanquín",
+        "testo": "Un sistema de cuevas de caliza justo a las afueras del pueblo, de donde sale el río Lanquín. Al atardecer miles de murciélagos salen a la vez por la entrada, el espectáculo por el que vale la pena venir.",
+        "come": "A pie o en tuk tuk desde Lanquín, aproximadamente un kilómetro; el primer tramo de la cueva está iluminado y resbala.",
+        "quando": "Final de la tarde, para quedarse en la entrada al atardecer.",
+        "tempo": "1-1,5 horas",
+        "lat": 15.58073,
+        "lng": -89.99106,
+        "consiglio": "Zapatos con agarre y una linterna: dentro los escalones están mojados."
+      },
+      {
+        "nome": "Tubing en el río Cahabón",
+        "testo": "Descenso lento del Cahabón en neumáticos, entre paredes de selva, normalmente por la tarde después de las cuevas de K'anba. En algunos tramos hay niños que venden cerveza fría desde la orilla.",
+        "come": "Incluido en muchos tours combinados que se reservan en el alojamiento; se sale cerca del puente sobre el río.",
+        "quando": "Por la tarde, en temporada seca y con el agua baja.",
+        "tempo": "1 hora",
+        "consiglio": "Bolsa estanca para teléfono y documentos, o dejarlos en el alojamiento."
+      },
+      {
+        "nome": "Cobán",
+        "testo": "La cabecera de Alta Verapaz, ciudad de café y cardamomo en las colinas, húmeda y a menudo envuelta en niebla. Las fincas de café alrededor del centro, como la Finca Santa Margarita, organizan visitas a los cafetales.",
+        "come": "En el camino a Lanquín: los shuttles desde Antigua y Atitlán pasan por aquí; de Cobán salen también los microbuses a Lanquín.",
+        "quando": "Como parada en el viaje de ida o de vuelta.",
+        "tempo": "Media jornada",
+        "lat": 15.4702,
+        "lng": -90.37351
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Mañana: pozas y Mirador",
-            "Almuerzo",
-            "Tarde: cuevas de K'anba y regreso a Lanquín"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: llegada a Lanquín, parada en la entrada del parque",
-            "Día 2: pozas, Mirador y cuevas de K'anba; regreso en shuttle al día siguiente"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Temprano: Mirador, antes del calor y de la gente",
+          "Mañana: El Sumidero y baño en las pozas",
+          "Tarde: cuevas de K'anba y tubing en el Cahabón, luego regreso a Lanquín"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: llegada a Lanquín por la tarde, murciélagos al atardecer en las Grutas de Lanquín",
+          "Día 2: pozas, Mirador y cuevas de K'anba; regreso en shuttle al día siguiente"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: jornada tranquila junto al río, luego salida hacia Cobán con parada en una finca de café, o shuttle a Flores"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Lanquín",
-          "perChi": "todos",
-          "testo": "El pueblo base: pocos alojamientos, hostales y casas de huéspedes sencillas, servicios limitados."
-        },
-        {
-          "nome": "Alrededores del río Cahabón",
-          "perChi": "quien busca naturaleza",
-          "testo": "Algunos lodges en el río, en plena selva, pero lejos de los servicios."
-        }
-      ],
+      {
+        "nome": "Lanquín",
+        "perChi": "todos",
+        "testo": "Es el pueblo base: pocos alojamientos, hostales y guesthouses sencillas, servicios limitados."
+      },
+      {
+        "nome": "Alrededores del río Cahabón",
+        "perChi": "quien busca naturaleza",
+        "testo": "Algunos lodges sobre el río, inmersos en la selva, pero lejos de los servicios."
+      },
+      {
+        "nome": "En el camino de tierra hacia Semuc",
+        "perChi": "quien quiere llegar el primero a las pozas",
+        "testo": "Hostales y bungalows a pocos minutos de la entrada del parque, con cena en el alojamiento; por la noche no hay nada más."
+      }
+    ],
       "sapori": [
         {
           "nome": "Caldo de pollo y frijoles",
@@ -930,6 +989,42 @@ export const destinazioniGuatemala: Destinazione[] = [
         "No dejar objetos de valor sin vigilancia en las pozas ni en los senderos.",
         "Tras lluvias fuertes las pozas pierden color y algunos tramos se vuelven peligrosos: preguntar en el pueblo antes de salir."
       ],
+    gite: [
+      {
+        "nome": "Cobán y las fincas de café",
+        "distanza": "unas 2-2,5 horas",
+        "come": "En microbús o shuttle por la carretera hacia Ciudad de Guatemala.",
+        "testo": "La cabecera de Alta Verapaz, con visitas a cafetales y cardamomales; cómoda como parada en el camino de vuelta."
+      },
+      {
+        "nome": "Biotopo del Quetzal",
+        "distanza": "unas 3 horas",
+        "come": "En coche o shuttle por la carretera entre Cobán y Ciudad de Guatemala, poco antes de Purulhá.",
+        "testo": "Una reserva de bosque nuboso con senderos entre musgos y helechos, donde al amanecer se puede ver el quetzal, el ave nacional; de febrero a mayo es la época de anidación."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Cuántos días hacen falta para Semuc Champey?",
+        "risposta": "Al menos dos noches en Lanquín: un día se va entero en la carretera, el segundo es para pozas, Mirador y cuevas. Con una tercera noche se descansa antes del siguiente traslado."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada a Semuc Champey?",
+        "risposta": "Para extranjeros unos 50 quetzales, en efectivo en la entrada. El tour combinado con cuevas y tubing se reserva en el alojamiento."
+      },
+      {
+        "domanda": "¿Son peligrosas las cuevas de K'anba?",
+        "risposta": "Se hacen con guía, a la luz de las velas y con algunos tramos a nado: hace falta algo de soltura en el agua. Quien sufre claustrofobia mejor que se las salte."
+      },
+      {
+        "domanda": "¿Cuándo está el agua más turquesa?",
+        "risposta": "En la temporada seca y después de unos días sin lluvia. Tras lluvias fuertes el agua se vuelve verde y turbia y algunos tramos se cierran."
+      },
+      {
+        "domanda": "¿Hay cajeros en Lanquín?",
+        "risposta": "Casi ninguno: conviene llegar con efectivo para todos los días, sacándolo en Cobán o antes de salir."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Las piscinas naturales turquesa escalonadas de Semuc Champey vistas desde arriba entre la selva, Guatemala',
@@ -959,10 +1054,10 @@ export const destinazioniGuatemala: Destinazione[] = [
     doveDormire: 'La mayoría de los visitantes llega en el día; para estar en el mercado a la apertura conviene, sin embargo, dormir en el pueblo la noche anterior.',
     doveMangiare:
       'En los días de mercado se come en el mercado, en la parte alimentaria de las calles laterales, de pie en los puestos con los vendedores: tamales envueltos en hoja, chuchitos, caldo, tortillas hechas al momento. Los restaurantes alrededor de la plaza sirven lo mismo al triple de precio. Los demás días hay poco, y nada especial.',
-    comeArrivare: 'Shuttle turístico desde Antigua (unas 3 horas) o desde Panajachel (aproximadamente 1h30), con salidas concentradas en los días de mercado.',
+    comeArrivare: "Shuttle turístico desde Antigua (unas 3 horas) o desde Panajachel (aproximadamente 1h30), con salidas concentradas en los días de mercado. Muchos shuttles desde Antigua ofrecen el paquete con continuación a Panajachel el mismo día, saliendo al final de la tarde. Como alternativa están las camionetas, los chicken bus, con cambio en Los Encuentros sobre la Interamericana. Desde Ciudad de Guatemala hacen falta unas 3 horas. Los jueves y domingos las calles alrededor de la plaza se cierran al tráfico y se baja a la entrada del pueblo.",
     comeSpostarsi: 'Todo a pie, el pueblo es pequeño.',
     periodoMigliore: 'solo jueves y domingo, los días de mercado; conviene llegar pronto, cuando el mercado todavía es de quien trabaja en él',
-    costi: 'sin entrada; el coste es lo que se gasta regateando',
+    costi: "sin entrada; el coste es lo que se gasta regateando. Presupuesto orientativo por persona y día: bajo 20-35 € (en el día en camioneta, almuerzo en el mercado); medio 45-80 € (shuttle desde Antigua con continuación al lago, alguna compra); alto desde 110 € (una noche en un hotel histórico del pueblo y traslado privado).",
     erroriDaEvitare: [
       'Llegar en un día distinto del jueves o el domingo: fuera de los días de mercado el pueblo está tranquilo y es poco interesante',
       'Fotografiar a personas o ritos sin pedir permiso: aquí es una cuestión de respeto',
@@ -970,61 +1065,133 @@ export const destinazioniGuatemala: Destinazione[] = [
     miaEsperienza:
       "Llegamos desde Antigua, tres horas de shuttle, en uno de los dos días de mercado: fuera del jueves y el domingo el pueblo está tranquilo y es poco interesante. Anduvimos entre los puestos de tejidos, máscaras y cerámicas y comimos de pie en los puestos de la parte alimentaria, en las calles laterales. Lo que me ha quedado, sin embargo, es la escalinata de Santo Tomás: en los escalones de una iglesia católica todavía se queman copal y ofrendas según ritos k'iche'. Es un rito de verdad y se mira con respeto, sin fotografiar a las personas sin permiso. A última hora de la tarde seguimos hacia el lago de Atitlán.",
       "luoghi": [
-        {
-          "nome": "Mercado de Chichicastenango",
-          "testo": "El gran mercado de este pueblo k'iche': tejidos, huipiles, máscaras, cerámica, copal y productos locales en la plaza, comida y flores en las calles laterales.",
-          "come": "En el centro del pueblo, a pie. Shuttle desde Antigua o Atitlán, unas horas de carretera.",
-          "quando": "Jueves y domingo. Fuera de esos días el pueblo está tranquilo y es poco interesante.",
-          "tempo": "3-4 horas",
-          "consiglio": "Regatear con calma. Comer de pie en los puestos de la parte de alimentos, en las calles laterales."
-        },
-        {
-          "nome": "Iglesia de Santo Tomás",
-          "testo": "Iglesia colonial en la plaza principal, construida sobre una plataforma precolombina. En sus 20 gradas, que según se dice representan los meses del calendario maya, los sacerdotes k'iche' queman incienso y velas. Un rito real, no un espectáculo.",
-          "come": "A pie desde la plaza. Se puede mirar desde la escalinata, pero el interior tiene sus propias reglas.",
-          "quando": "Días de mercado.",
-          "tempo": "1 hora",
-          "consiglio": "No fotografiar a las personas sin permiso y mantener distancia de los ritos."
-        },
-        {
-          "nome": "Pascual Abaj",
-          "testo": "Una piedra tallada en una colina cerca del pueblo, venerada por los k'iche', donde los sacerdotes todavía celebran ritos con fuego y ofrendas.",
-          "come": "A pie desde el centro, con una subida corta.",
-          "quando": "Mañana.",
-          "tempo": "45 minutos",
-          "consiglio": "Respeto y discreción: es un lugar de culto en uso, no un decorado. Pide permiso antes de hacer fotos."
-        }
-      ],
+      {
+        "nome": "Mercado de Chichicastenango",
+        "testo": "El gran mercado de este pueblo k'iche': tejidos, huipiles, máscaras, cerámica, copal y productos locales en la plaza, comida y flores en las calles laterales.",
+        "come": "En el centro del pueblo, a pie. Shuttle desde Antigua o Atitlán, unas horas de carretera.",
+        "quando": "Jueves y domingo. Fuera de esos días el pueblo está tranquilo y es poco interesante.",
+        "tempo": "3-4 horas",
+        "consiglio": "Regatear con calma. Comer de pie en los puestos de la parte de alimentos, en las calles laterales.",
+        "costo": "Entrada libre; hacen falta quetzales en billetes pequeños para regatear",
+        "lat": 14.94281,
+        "lng": -91.11177
+      },
+      {
+        "nome": "Iglesia de Santo Tomás",
+        "testo": "Iglesia colonial en la plaza principal, construida sobre una plataforma precolombina. En sus 20 gradas, que según se dice representan los meses del calendario maya, los sacerdotes k'iche' queman incienso y velas. Un rito real, no un espectáculo.",
+        "come": "A pie desde la plaza. Se puede mirar desde la escalinata, pero el interior tiene sus propias reglas.",
+        "quando": "Días de mercado.",
+        "tempo": "1 hora",
+        "consiglio": "No fotografiar a las personas sin permiso y mantener distancia de los ritos.",
+        "costo": "Gratis",
+        "lat": 14.94211,
+        "lng": -91.11121
+      },
+      {
+        "nome": "Pascual Abaj",
+        "testo": "Una piedra tallada en una colina cerca del pueblo, venerada por los k'iche', donde los sacerdotes todavía celebran ritos con fuego y ofrendas.",
+        "come": "A pie desde el centro, con una subida corta.",
+        "quando": "Mañana.",
+        "tempo": "45 minutos",
+        "consiglio": "Respeto y discreción: es un lugar de culto en uso, no un decorado. Pide permiso antes de hacer fotos.",
+        "costo": "Gratis; a veces se deja una ofrenda",
+        "lat": 14.93673,
+        "lng": -91.11481
+      },
+      {
+        "nome": "Capilla del Calvario",
+        "testo": "La pequeña iglesia blanca frente a Santo Tomás, al otro lado de la plaza, con una escalinata donde también se queman incienso y velas. Desde lo alto de los escalones se tiene la mejor vista del mercado.",
+        "come": "A pie, en el lado oeste de la plaza principal.",
+        "quando": "Días de mercado, por la mañana.",
+        "tempo": "20-30 minutos",
+        "costo": "Gratis",
+        "lat": 14.94268,
+        "lng": -91.11268
+      },
+      {
+        "nome": "Museo Regional",
+        "testo": "Un pequeño museo junto a Santo Tomás con la colección de jades y cerámicas precolombinas reunida por el padre Ildefonso Rossbach, el sacerdote alemán que vivió en el pueblo durante cincuenta años, hasta 1944.",
+        "come": "A pie, en la plaza, al lado de la iglesia.",
+        "quando": "Después de recorrer el mercado.",
+        "tempo": "30 minutos",
+        "lat": 14.94225,
+        "lng": -91.11187,
+        "consiglio": "Llevar efectivo: rara vez aceptan tarjeta."
+      },
+      {
+        "nome": "Cementerio General",
+        "testo": "El cementerio en la colina al oeste del centro, con tumbas pintadas de colores vivos, del turquesa al amarillo, y ceremonias mayas entre las capillas. Es uno de los lugares más fotografiados del pueblo.",
+        "come": "A pie desde el centro, pocos minutos más allá de la Capilla del Calvario.",
+        "quando": "Por la mañana o a primera hora de la tarde, con luz plena sobre los colores.",
+        "tempo": "30-45 minutos",
+        "costo": "Gratis",
+        "lat": 14.94356,
+        "lng": -91.11586,
+        "consiglio": "Es un lugar de duelo y de culto: nada de fotos a las familias ni a los ritos."
+      },
+      {
+        "nome": "Museo de Máscaras Ceremoniales",
+        "testo": "Un taller familiar que alquila y restaura las máscaras y los trajes de las danzas tradicionales, como el Baile de la Conquista. Se ven cientos de máscaras de madera pintada colgadas en las paredes.",
+        "come": "A pie por la calle que sube hacia Pascual Abaj.",
+        "quando": "Junto con la visita a Pascual Abaj.",
+        "tempo": "20-30 minutos",
+        "lat": 14.93895,
+        "lng": -91.11405
+      },
+      {
+        "nome": "Arco Gucumatz",
+        "testo": "El arco sobre la calle de entrada al pueblo, decorado con mosaicos de colores y dedicado a Gucumatz, la serpiente emplumada de la tradición k'iche'. Por debajo pasan los coches y las camionetas que llegan al mercado.",
+        "come": "A pie, en la entrada norte del centro, en la 5a Avenida.",
+        "quando": "De día.",
+        "tempo": "10 minutos",
+        "costo": "Gratis",
+        "lat": 14.94455,
+        "lng": -91.11069
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 día",
-          "tappe": [
-            "Llegada por la mañana con el mercado ya activo",
-            "Almuerzo en los puestos de la parte de alimentos",
-            "Santo Tomás y Pascual Abaj a primera hora de la tarde",
-            "Salida a última hora de la tarde hacia Atitlán"
-          ]
-        },
-        {
-          "titolo": "2 días",
-          "tappe": [
-            "Día 1: mercado, iglesia, Pascual Abaj",
-            "Noche en el pueblo, regreso al día siguiente, cuando está tranquilo"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Llegada por la mañana con el mercado ya en marcha",
+          "Santo Tomás, Capilla del Calvario y Museo Regional",
+          "Almuerzo en los puestos de comida",
+          "Cementerio General y Pascual Abaj a primera hora de la tarde",
+          "Salida al final de la tarde hacia Atitlán"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: llegada la tarde antes del mercado, Pascual Abaj y el taller de máscaras con el pueblo tranquilo",
+          "Día 2: mercado al amanecer, iglesia, cementerio; salida por la tarde"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: ruinas de Q'umarkaj en Santa Cruz del Quiché por la mañana, luego hacia el lago Atitlán pasando por el mercado de Sololá"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Centro",
-          "perChi": "quien duerme en el sitio",
-          "testo": "Pequeños hoteles y posadas en la plaza, ruidosos la noche antes del mercado."
-        },
-        {
-          "nome": "De excursión desde Antigua o Atitlán",
-          "perChi": "la mayoría",
-          "testo": "El pueblo se ve bien en un día: se llega por la mañana y se sale por la tarde."
-        }
-      ],
+      {
+        "nome": "Centro",
+        "perChi": "quien duerme en el pueblo",
+        "testo": "Pequeños hoteles y posadas en la plaza, ruidosos la noche antes del mercado."
+      },
+      {
+        "nome": "En el día desde Antigua o Atitlán",
+        "perChi": "la mayoría",
+        "testo": "El pueblo se ve bien en un día: se llega por la mañana y se sale por la tarde."
+      },
+      {
+        "nome": "Panajachel",
+        "perChi": "quien quiere el lago como base",
+        "testo": "A una hora y media, con mucha más oferta de alojamiento y restaurantes; se va al mercado en el día en shuttle o camioneta."
+      }
+    ],
       "sapori": [
         {
           "nome": "Pepián y caldo de pollo",
@@ -1048,6 +1215,48 @@ export const destinazioniGuatemala: Destinazione[] = [
         "Carteristas entre la multitud: llevar los objetos de valor delante.",
         "Respetar los ritos k'iche': pedir siempre permiso antes de fotografiar a las personas, que a veces piden una pequeña propina."
       ],
+    gite: [
+      {
+        "nome": "Q'umarkaj",
+        "distanza": "unos 30 minutos",
+        "come": "En bus o tuk tuk hasta Santa Cruz del Quiché, luego pocos kilómetros hasta el sitio.",
+        "testo": "Las ruinas de la antigua capital del reino k'iche', destruida por los españoles en 1524: hoy quedan plataformas entre los árboles y los túneles donde todavía se celebran ritos mayas."
+      },
+      {
+        "nome": "Mercado de Sololá",
+        "distanza": "aproximadamente 1 hora",
+        "come": "En camioneta o shuttle por la carretera a Panajachel.",
+        "testo": "El mercado de los martes y viernes, frecuentado casi solo por la gente del lugar, con los hombres aún vestidos con el traje tradicional."
+      },
+      {
+        "nome": "Lago Atitlán",
+        "distanza": "aproximadamente 1 hora y media hasta Panajachel",
+        "come": "En shuttle, a menudo en el mismo paquete de la excursión al mercado.",
+        "testo": "El lago entre tres volcanes, con los pueblos mayas de la orilla a los que se llega en lancha: la etapa que suele seguir a Chichicastenango."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Qué días hay mercado en Chichicastenango?",
+        "risposta": "Los jueves y los domingos. Fuera de esos dos días el pueblo está tranquilo y tiene poco interés, así que conviene fijar las fechas del viaje en consecuencia."
+      },
+      {
+        "domanda": "¿Se puede fotografiar en la iglesia y en los ritos?",
+        "risposta": "En la escalinata y dentro de Santo Tomás los ritos son reales: nada de fotos a las personas sin permiso, que a veces piden una pequeña propina. Dentro de la iglesia es mejor no fotografiar."
+      },
+      {
+        "domanda": "¿Conviene dormir en Chichicastenango?",
+        "risposta": "Para ver el mercado cuando llegan los vendedores, sí: se duerme la noche anterior. Si no, basta un día desde Antigua o desde el lago."
+      },
+      {
+        "domanda": "¿Cómo se regatea en el mercado?",
+        "risposta": "Con calma y sonriendo: se pregunta el precio, se ofrece una cifra más baja y se busca un punto medio. Hacen falta quetzales en billetes pequeños."
+      },
+      {
+        "domanda": "¿Cuándo es la fiesta de Santo Tomás?",
+        "risposta": "Del 13 al 21 de diciembre, con procesiones, danzas de máscaras y el palo volador en la plaza. Esos días el pueblo está lleno y hay que reservar alojamiento pronto."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'El arco decorado con mosaico de colores en una calle empedrada de Chichicastenango, Guatemala',

@@ -835,10 +835,10 @@ export const destinazioniGuatemala: Destinazione[] = [
     doveMangiare:
       "There's no choice, and it's good to know: in Lanquín and along the dirt road to the park you eat at the hostels, with set menus in the evening, or at the few comedores in town. At the Semuc entrance some families sell grilled chicken and freshly made tortillas, the best thing in the area. Buy water and snacks beforehand: inside the park there's nothing to be found.",
     comeArrivare:
-      "Tourist shuttle from Antigua, Guatemala City or Flores: 8-10 hours, with the last stretch on a very slow dirt road. It's the most demanding transfer on a classic Guatemala route.",
+      "Tourist shuttle from Antigua, Guatemala City or Flores: 8-10 hours, with the last stretch on a very slow dirt road. It's the most demanding transfer on a classic Guatemala route. From Panajachel, on Lake Atitlán, it takes roughly 7-9 hours, heading north via Cobán; book the shuttle a day ahead. From Lanquín to the park entrance it's about 10 km of track, 30-45 minutes by pick-up. Towards Flores and Tikal the shuttle takes 9-12 hours.",
     comeSpostarsi: "From town to the park entrance you ride in the bed of shared pickups, about 30-45 minutes.",
     periodoMigliore: "dry season for the most turquoise water: after the rains the color turns murky green",
-    costi: "park entrance about 50 GTQ; combined tour of caves + tubing + entrance around 150-250 GTQ",
+    costi: "park entrance about 50 GTQ; combined tour of caves + tubing + entrance around 150-250 GTQ. Indicative daily budget per person: low €25-40 (hostel dorm in Lanquín, set evening meal, shared pick-up); mid €50-80 (private room in a riverside lodge, combined tour with the caves); high from €110 (a more polished lodge in the valley, private transfer).",
     erroriDaEvitare: [
       "Planning it as a 'pass-through' stop: the transfers to and from Lanquín are long and tiring, you need a full day for each leg",
       "Going right after days of heavy rain, when the pools lose their turquoise color",
@@ -846,67 +846,126 @@ export const destinazioniGuatemala: Destinazione[] = [
     miaEsperienza:
       "Getting there is half the story: from Panajachel to Lanquín was the longest transfer day of the trip, with the last stretch on a dirt road that slowly descends into the valley. The next day we climbed up the pools from the bottom and then went up to the Mirador: the climb is steep, but without the view from above you can't understand how the place works, with the river disappearing under the rock bridge and re-emerging three hundred meters further on. In the afternoon we entered the K'anba caves, with a candle in hand and some stretches to swim in the dark: the least touristy thing in the area and the one I remember most. If you're claustrophobic, skip them without regrets.",
       "luoghi": [
-        {
-          "nome": "Semuc Champey natural pools",
-          "testo": "A series of stepped turquoise pools on a natural limestone bridge about 300 metres long, under which the Cahabón river flows. A natural monument since 2005, run by CONAP and the municipality of Lanquín, with an entry fee.",
-          "come": "From Lanquín by pick-up along a dirt road. From the entrance you walk to the pools.",
-          "quando": "Morning, with fewer people and clearer water; avoid after heavy rain, when the water turns murky.",
-          "tempo": "2-3 hours",
-          "consiglio": "Go from the bottom to the top, then climb to the Mirador: that is how you understand how the place works."
-        },
-        {
-          "nome": "The Mirador",
-          "testo": "The viewpoint above the pools. From here you see how the river disappears under the rock bridge and comes out further downstream.",
-          "come": "A steep, hot trail of about 45 minutes from the entrance, with steps and mud.",
-          "quando": "Morning; avoid rainy hours, when steps are slippery.",
-          "tempo": "1-1.5 hours",
-          "consiglio": "Shoes with grip and water: the climb is hard, but without the view from above you lose the sense of the place."
-        },
-        {
-          "nome": "K'anba Caves",
-          "testo": "A cave with flooded passages walked with a guide by candlelight, with some stretches to swim.",
-          "come": "With a guide; the turn-off is about a kilometre before Semuc Champey, just before the large bridge over the river.",
-          "quando": "After visiting the pools.",
-          "tempo": "About 2 hours",
-          "consiglio": "Bring a waterproof torch: candles alone light very little. Groups can be very crowded; skip it if you are claustrophobic."
-        },
-        {
-          "nome": "Lanquín",
-          "testo": "The Q'eqchi' village that serves as the base for Semuc Champey, with hostels and few services.",
-          "come": "From Cobán or by shuttle from Antigua or Atitlán: it is a long day on the road.",
-          "quando": "Arrive the day before.",
-          "tempo": "One night"
-        }
-      ],
+      {
+        "nome": "Semuc Champey natural pools",
+        "testo": "A series of stepped turquoise pools on a natural limestone bridge about 300 metres long, under which the Cahabón river flows. A natural monument since 2005, run by CONAP and the municipality of Lanquín, with an entry fee.",
+        "come": "From Lanquín by pick-up along a dirt road. From the entrance you walk to the pools.",
+        "quando": "Morning, with fewer people and clearer water; avoid after heavy rain, when the water turns murky.",
+        "tempo": "2-3 hours",
+        "consiglio": "Go from the bottom to the top, then climb to the Mirador: that is how you understand how the place works.",
+        "costo": "50 GTQ for foreigners, about €6, in cash",
+        "lat": 15.53376,
+        "lng": -89.95811
+      },
+      {
+        "nome": "The Mirador",
+        "testo": "The viewpoint above the pools. From here you see how the river disappears under the rock bridge and comes out further downstream.",
+        "come": "A steep, hot trail of about 45 minutes from the entrance, with steps and mud.",
+        "quando": "Morning; avoid rainy hours, when steps are slippery.",
+        "tempo": "1-1.5 hours",
+        "consiglio": "Shoes with grip and water: the climb is hard, but without the view from above you lose the sense of the place.",
+        "costo": "Included in the park entry",
+        "lat": 15.53346,
+        "lng": -89.95752
+      },
+      {
+        "nome": "K'anba Caves",
+        "testo": "A cave with flooded passages walked with a guide by candlelight, with some stretches to swim.",
+        "come": "With a guide; the turn-off is about a kilometre before Semuc Champey, just before the large bridge over the river.",
+        "quando": "After visiting the pools.",
+        "tempo": "About 2 hours",
+        "consiglio": "Bring a waterproof torch: candles alone light very little. Groups can be very crowded; skip it if you are claustrophobic."
+      },
+      {
+        "nome": "Lanquín",
+        "testo": "The Q'eqchi' village that serves as the base for Semuc Champey, in a green valley along the Lanquín river, with hostels and few services. Many lodgings are outside the village, along the river, and send a pick-up to collect guests at the shuttle stop.",
+        "come": "From Cobán or by shuttle from Antigua or Atitlán: it is a long day on the road.",
+        "quando": "Arrive the day before.",
+        "tempo": "One night",
+        "consiglio": "There are very few ATMs in the area: arrive with enough cash for all your days.",
+        "lat": 15.57498,
+        "lng": -89.98076
+      },
+      {
+        "nome": "El Sumidero",
+        "testo": "The spot, at the start of the pools, where the Cahabón river with all its force plunges under the limestone bridge and disappears. The roar of the water entering the rock explains how the place was formed better than any description.",
+        "come": "On foot from the park entrance, along the trail to the upper part of the pools.",
+        "quando": "Together with the visit to the pools.",
+        "tempo": "15-20 minutes",
+        "costo": "Included in the park entry",
+        "lat": 15.53305,
+        "lng": -89.96034,
+        "consiglio": "Swimming is forbidden here: the current is extremely strong."
+      },
+      {
+        "nome": "Lanquín Caves",
+        "testo": "A system of limestone caves just outside the village, from which the Lanquín river flows. At sunset thousands of bats pour out of the entrance at once, the show that makes the visit worthwhile.",
+        "come": "On foot or by tuk tuk from Lanquín, about a kilometer; the first section of the cave is lit and slippery.",
+        "quando": "Late afternoon, to stay at the entrance at sunset.",
+        "tempo": "1-1.5 hours",
+        "lat": 15.58073,
+        "lng": -89.99106,
+        "consiglio": "Shoes with grip and a flashlight: the steps inside are wet."
+      },
+      {
+        "nome": "Tubing on the Cahabón river",
+        "testo": "A slow float down the Cahabón on inner tubes, between walls of forest, usually in the afternoon after the K'anba caves. Along some stretches children sell cold beer from the bank.",
+        "come": "Included in many combined tours booked at your lodging; you start near the bridge over the river.",
+        "quando": "Afternoon, in the dry season with low water.",
+        "tempo": "1 hour",
+        "consiglio": "Dry bag for phone and documents, or leave them at your lodging."
+      },
+      {
+        "nome": "Cobán",
+        "testo": "The capital of Alta Verapaz, a town of coffee and cardamom in the hills, humid and often wrapped in mist. The coffee fincas around the center, such as Finca Santa Margarita, run plantation visits.",
+        "come": "On the road to Lanquín: shuttles from Antigua and Atitlán pass through; minibuses to Lanquín also leave from Cobán.",
+        "quando": "As a stop on the way there or back.",
+        "tempo": "Half a day",
+        "lat": 15.4702,
+        "lng": -90.37351
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Morning: pools and Mirador",
-            "Lunch",
-            "Afternoon: K'anba Caves, then back to Lanquín"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: arrive in Lanquín, stop at the park entrance",
-            "Day 2: pools, Mirador and K'anba Caves; shuttle back the following day"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Early morning: Mirador, before the heat and the crowds",
+          "Morning: El Sumidero and a swim in the pools",
+          "Afternoon: K'anba caves and tubing on the Cahabón, then back to Lanquín"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: arrival in Lanquín in the afternoon, bats at sunset at the Lanquín Caves",
+          "Day 2: pools, Mirador and K'anba caves; shuttle out the next day"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: a slow day along the river, then departure towards Cobán with a stop at a coffee finca, or a shuttle to Flores"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Lanquín",
-          "perChi": "everyone",
-          "testo": "The base town: few places to stay, simple hostels and guesthouses, limited services."
-        },
-        {
-          "nome": "Around the Cahabón river",
-          "perChi": "those who want nature",
-          "testo": "A few lodges on the river, in the forest, but far from services."
-        }
-      ],
+      {
+        "nome": "Lanquín",
+        "perChi": "everyone",
+        "testo": "It's the base town: few places to stay, hostels and simple guesthouses, limited services."
+      },
+      {
+        "nome": "Around the Cahabón river",
+        "perChi": "those seeking nature",
+        "testo": "A few lodges on the river, immersed in the forest, but far from services."
+      },
+      {
+        "nome": "Along the dirt road to Semuc",
+        "perChi": "those who want to reach the pools first",
+        "testo": "Hostels and bungalows a few minutes from the park entrance, with dinner at the lodgings; in the evening there's nothing else."
+      }
+    ],
       "sapori": [
         {
           "nome": "Caldo de pollo and frijoles",
@@ -930,6 +989,42 @@ export const destinazioniGuatemala: Destinazione[] = [
         "Do not leave valuables unattended at the pools and along the trails.",
         "After heavy rain the pools lose colour and some stretches become dangerous: ask in the village before leaving."
       ],
+    gite: [
+      {
+        "nome": "Cobán and the coffee fincas",
+        "distanza": "about 2-2.5 hours",
+        "come": "By minibus or shuttle on the road to Guatemala City.",
+        "testo": "The capital of Alta Verapaz, with visits to coffee and cardamom plantations; handy as a stop on the way back."
+      },
+      {
+        "nome": "Biotopo del Quetzal",
+        "distanza": "about 3 hours",
+        "come": "By car or shuttle on the road between Cobán and Guatemala City, just before Purulhá.",
+        "testo": "A cloud forest reserve with trails among moss and ferns, where at dawn you may see the quetzal, the country's national bird; February to May is nesting season."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How many days do you need for Semuc Champey?",
+        "risposta": "At least two nights in Lanquín: one day goes entirely on the road, the second is for the pools, the Mirador and the caves. A third night lets you recover before the next transfer."
+      },
+      {
+        "domanda": "How much is entry to Semuc Champey?",
+        "risposta": "For foreigners about 50 quetzales, in cash at the entrance. The combined tour with caves and tubing is booked at your lodging."
+      },
+      {
+        "domanda": "Are the K'anba caves dangerous?",
+        "risposta": "They are done with a guide, by candlelight and with some swimming sections: you need some confidence in the water. Anyone with claustrophobia is better off skipping them."
+      },
+      {
+        "domanda": "When is the water most turquoise?",
+        "risposta": "In the dry season and after a few days without rain. After heavy rain the water turns green and murky and some sections close."
+      },
+      {
+        "domanda": "Are there ATMs in Lanquín?",
+        "risposta": "Hardly any: arrive with cash for all your days, withdrawing in Cobán or before you set off."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'The turquoise terraced natural pools of Semuc Champey seen from above among the jungle, Guatemala',
@@ -959,10 +1054,10 @@ export const destinazioniGuatemala: Destinazione[] = [
     doveDormire: "Most visitors come for the day; to be at the market when it opens, though, it's worth sleeping in town the night before.",
     doveMangiare:
       "On market days you eat at the market, in the food section of the side streets, standing at the stalls with the vendors: tamales wrapped in leaves, chuchitos, caldo, freshly made tortillas. The restaurants around the square serve the same things at triple the price. On other days there's little, and nothing special.",
-    comeArrivare: "Tourist shuttle from Antigua (about 3 hours) or from Panajachel (about 1h30), with departures concentrated on market days.",
+    comeArrivare: "Tourist shuttle from Antigua (about 3 hours) or from Panajachel (about 1h30), with departures concentrated on market days. Many shuttles from Antigua offer a package continuing to Panajachel the same day, leaving in the late afternoon. Alternatively there are chicken buses, changing at Los Encuentros on the Pan-American Highway. From Guatemala City it takes about 3 hours. On Thursdays and Sundays the streets around the square are closed to traffic and you get off at the edge of town.",
     comeSpostarsi: "All on foot, the town is small.",
     periodoMigliore: "only Thursday and Sunday, the market days; it's best to arrive early, when the market still belongs to the people who work there",
-    costi: "no admission; the cost is whatever you spend haggling",
+    costi: "no admission; the cost is whatever you spend haggling. Indicative daily budget per person: low €20-35 (day trip by chicken bus, lunch at the market); mid €45-80 (shuttle from Antigua continuing to the lake, a few purchases); high from €110 (a night in a historic hotel in town and a private transfer).",
     erroriDaEvitare: [
       "Arriving on a day other than Thursday or Sunday: outside market days the town is quiet and not very interesting",
       "Photographing people or rites without asking permission: here it's a matter of respect",
@@ -970,61 +1065,133 @@ export const destinazioniGuatemala: Destinazione[] = [
     miaEsperienza:
       "We got there from Antigua, three hours by shuttle, on one of the two market days: outside Thursday and Sunday the town is quiet and not very interesting. We wandered among the stalls of textiles, masks and ceramics and ate standing at the stalls in the food section, in the side streets. What stayed with me, though, is the Santo Tomás staircase: on the steps of a Catholic church, copal and offerings are still burned according to K'iche' rites. It's a real ritual and you watch it with respect, without photographing people without permission. In the late afternoon we continued toward Lake Atitlán.",
       "luoghi": [
-        {
-          "nome": "Chichicastenango market",
-          "testo": "The great market of this K'iche' town: textiles, huipiles, masks, pottery, copal and local produce on the square, food and flowers in the side streets.",
-          "come": "In the town centre, on foot. Shuttle from Antigua or Atitlán, a few hours on the road.",
-          "quando": "Thursday and Sunday. Outside those days the town is quiet and uninteresting.",
-          "tempo": "3-4 hours",
-          "consiglio": "Haggle calmly. Eat standing at the stalls in the food section, in the side streets."
-        },
-        {
-          "nome": "Church of Santo Tomás",
-          "testo": "A colonial church on the main square, built on a pre-Columbian platform. On its 20 steps, said to represent the months of the Maya calendar, K'iche' priests burn incense and candles. A real ritual, not a show.",
-          "come": "On foot from the square. You can watch from the steps, but the interior has its own rules.",
-          "quando": "Market days.",
-          "tempo": "1 hour",
-          "consiglio": "Do not photograph people without permission and keep a distance from the rituals."
-        },
-        {
-          "nome": "Pascual Abaj",
-          "testo": "A carved stone on a hill near town, venerated by the K'iche', where priests still hold rituals with fire and offerings.",
-          "come": "On foot from the centre, with a short climb.",
-          "quando": "Morning.",
-          "tempo": "45 minutes",
-          "consiglio": "Respect and discretion: it is a place of worship in use, not a set. Ask before taking photos."
-        }
-      ],
+      {
+        "nome": "Chichicastenango market",
+        "testo": "The great market of this K'iche' town: textiles, huipiles, masks, pottery, copal and local produce on the square, food and flowers in the side streets.",
+        "come": "In the town centre, on foot. Shuttle from Antigua or Atitlán, a few hours on the road.",
+        "quando": "Thursday and Sunday. Outside those days the town is quiet and uninteresting.",
+        "tempo": "3-4 hours",
+        "consiglio": "Haggle calmly. Eat standing at the stalls in the food section, in the side streets.",
+        "costo": "Free entry; bring quetzales in small notes for haggling",
+        "lat": 14.94281,
+        "lng": -91.11177
+      },
+      {
+        "nome": "Church of Santo Tomás",
+        "testo": "A colonial church on the main square, built on a pre-Columbian platform. On its 20 steps, said to represent the months of the Maya calendar, K'iche' priests burn incense and candles. A real ritual, not a show.",
+        "come": "On foot from the square. You can watch from the steps, but the interior has its own rules.",
+        "quando": "Market days.",
+        "tempo": "1 hour",
+        "consiglio": "Do not photograph people without permission and keep a distance from the rituals.",
+        "costo": "Free",
+        "lat": 14.94211,
+        "lng": -91.11121
+      },
+      {
+        "nome": "Pascual Abaj",
+        "testo": "A carved stone on a hill near town, venerated by the K'iche', where priests still hold rituals with fire and offerings.",
+        "come": "On foot from the centre, with a short climb.",
+        "quando": "Morning.",
+        "tempo": "45 minutes",
+        "consiglio": "Respect and discretion: it is a place of worship in use, not a set. Ask before taking photos.",
+        "costo": "Free; sometimes you leave an offering",
+        "lat": 14.93673,
+        "lng": -91.11481
+      },
+      {
+        "nome": "Capilla del Calvario",
+        "testo": "The small white church facing Santo Tomás, on the other side of the square, with steps where incense and candles are burned here too. From the top of the steps you get the best view over the market.",
+        "come": "On foot, on the west side of the main square.",
+        "quando": "Market days, in the morning.",
+        "tempo": "20-30 minutes",
+        "costo": "Free",
+        "lat": 14.94268,
+        "lng": -91.11268
+      },
+      {
+        "nome": "Regional Museum",
+        "testo": "A small museum next to Santo Tomás with the collection of pre-Columbian jade and pottery gathered by Father Ildefonso Rossbach, the German priest who lived in the town for fifty years, until 1944.",
+        "come": "On foot, on the square, beside the church.",
+        "quando": "After your round of the market.",
+        "tempo": "30 minutes",
+        "lat": 14.94225,
+        "lng": -91.11187,
+        "consiglio": "Bring cash: cards are rarely accepted."
+      },
+      {
+        "nome": "Cementerio General",
+        "testo": "The cemetery on the hill west of the center, with tombs painted in bright colors, from turquoise to yellow, and Maya ceremonies held among the chapels. It is one of the most photographed places in town.",
+        "come": "On foot from the center, a few minutes past the Capilla del Calvario.",
+        "quando": "Morning or early afternoon, with full light on the colors.",
+        "tempo": "30-45 minutes",
+        "costo": "Free",
+        "lat": 14.94356,
+        "lng": -91.11586,
+        "consiglio": "It's a place of mourning and worship: no photos of families or rituals."
+      },
+      {
+        "nome": "Museo de Máscaras Ceremoniales",
+        "testo": "A family workshop that rents out and restores the masks and costumes used in traditional dances, such as the Baile de la Conquista. Hundreds of painted wooden masks hang on the walls.",
+        "come": "On foot on the road that climbs towards Pascual Abaj.",
+        "quando": "Together with the visit to Pascual Abaj.",
+        "tempo": "20-30 minutes",
+        "lat": 14.93895,
+        "lng": -91.11405
+      },
+      {
+        "nome": "Arco Gucumatz",
+        "testo": "The arch over the entrance road to town, decorated with colorful mosaics and dedicated to Gucumatz, the feathered serpent of K'iche' tradition. Cars and chicken buses heading to the market pass beneath it.",
+        "come": "On foot, at the northern entrance to the center, on 5a Avenida.",
+        "quando": "During the day.",
+        "tempo": "10 minutes",
+        "costo": "Free",
+        "lat": 14.94455,
+        "lng": -91.11069
+      }
+    ],
       "programmi": [
-        {
-          "titolo": "1 day",
-          "tappe": [
-            "Arrive in the morning with the market already active",
-            "Lunch at the stalls in the food section",
-            "Santo Tomás and Pascual Abaj in the early afternoon",
-            "Late afternoon departure for Atitlán"
-          ]
-        },
-        {
-          "titolo": "2 days",
-          "tappe": [
-            "Day 1: market, church, Pascual Abaj",
-            "Night in town, leave the next day, when the town is quiet"
-          ]
-        }
-      ],
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Arrival in the morning with the market already in full swing",
+          "Santo Tomás, Capilla del Calvario and the Regional Museum",
+          "Lunch at the food stalls",
+          "Cementerio General and Pascual Abaj in the early afternoon",
+          "Departure in the late afternoon for Atitlán"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: arrive the afternoon before the market, Pascual Abaj and the mask workshop while the town is quiet",
+          "Day 2: market at dawn, church, cemetery; departure in the afternoon"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: the ruins of Q'umarkaj at Santa Cruz del Quiché in the morning, then on to Lake Atitlán via the Sololá market"
+        ]
+      }
+    ],
       "zone": [
-        {
-          "nome": "Centre",
-          "perChi": "those sleeping on site",
-          "testo": "Small hotels and inns on the square, noisy the night before the market."
-        },
-        {
-          "nome": "As a day trip from Antigua or Atitlán",
-          "perChi": "most people",
-          "testo": "The town is easy to see in a day: arrive in the morning and leave in the afternoon."
-        }
-      ],
+      {
+        "nome": "Center",
+        "perChi": "those staying overnight",
+        "testo": "Small hotels and inns on the square, noisy the night before the market."
+      },
+      {
+        "nome": "Day trip from Antigua or Atitlán",
+        "perChi": "most visitors",
+        "testo": "The town is easy to see in a day: you arrive in the morning and leave in the afternoon."
+      },
+      {
+        "nome": "Panajachel",
+        "perChi": "those who want the lake as a base",
+        "testo": "An hour and a half away, with a much wider choice of lodgings and restaurants; you visit the market as a day trip by shuttle or chicken bus."
+      }
+    ],
       "sapori": [
         {
           "nome": "Pepián and chicken broth",
@@ -1048,6 +1215,48 @@ export const destinazioniGuatemala: Destinazione[] = [
         "Pickpockets in the crowd: keep valuables in front of you.",
         "Respect K'iche' rituals: always ask permission before photographing people, who sometimes ask for a small payment."
       ],
+    gite: [
+      {
+        "nome": "Q'umarkaj",
+        "distanza": "about 30 minutes",
+        "come": "By bus or tuk tuk to Santa Cruz del Quiché, then a few kilometers to the site.",
+        "testo": "The ruins of the ancient capital of the K'iche' kingdom, destroyed by the Spanish in 1524: today platforms remain among the trees, along with tunnels where Maya rituals are still held."
+      },
+      {
+        "nome": "Sololá market",
+        "distanza": "about 1 hour",
+        "come": "By chicken bus or shuttle on the road to Panajachel.",
+        "testo": "The Tuesday and Friday market, attended almost only by locals, with the men still in traditional dress."
+      },
+      {
+        "nome": "Lake Atitlán",
+        "distanza": "about 1.5 hours to Panajachel",
+        "come": "By shuttle, often in the same package as the market trip.",
+        "testo": "The lake among three volcanoes, with Maya villages on its shores reached by lancha: the stop that usually follows Chichicastenango."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Which days is the Chichicastenango market held?",
+        "risposta": "Thursday and Sunday. Outside those two days the town is quiet and of little interest, so plan your dates accordingly."
+      },
+      {
+        "domanda": "Can you take photos in the church and at the rituals?",
+        "risposta": "On the steps and inside Santo Tomás the rituals are real: no photos of people without permission, and they sometimes ask for a small fee. Inside the church it's best not to photograph at all."
+      },
+      {
+        "domanda": "Is it worth staying overnight in Chichicastenango?",
+        "risposta": "To see the market as the vendors arrive, yes: stay the night before. Otherwise a day trip from Antigua or the lake is enough."
+      },
+      {
+        "domanda": "How do you haggle at the market?",
+        "risposta": "Calmly and with a smile: ask the price, offer a lower figure and meet in the middle. You need quetzales in small notes."
+      },
+      {
+        "domanda": "When is the Santo Tomás festival?",
+        "risposta": "From 13 to 21 December, with processions, masked dances and the palo volador on the square. On those days the town is packed and lodgings should be booked early."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'The colorful mosaic-decorated arch over a cobblestone street in Chichicastenango, Guatemala',

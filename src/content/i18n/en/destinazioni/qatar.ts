@@ -386,12 +386,11 @@ export const destinazioniQatar: Destinazione[] = [
       "In the southern desert there are tented camps of various levels, from basic to luxurious; the north has almost no facilities and is done as a day trip from Doha, less than an hour and a half away.",
     doveMangiare:
       "There's very little outside Doha: in the tented camps meals are included, in the north there's almost nothing. Lunch and water are brought from Doha, as Qataris do on their days out of the city.",
-    comeArrivare:
-      "Khor Al Adaid is about an hour and a half from Doha, but **it can only be reached by 4x4 with an experienced driver**: the last kilometers are on sand. The north is reached with a regular car on paved road, in a little over an hour.",
+    comeArrivare: "Khor Al Adaid is about an hour and a half from Doha, but **you can only get there by 4x4 with an experienced driver**: the last kilometres, about half an hour, are on sand. The north is reachable by ordinary car on paved roads: Al Zubarah is about 105 km away, just over an hour; the Serra plates and Film City, on the west coast, about 95 km, with a final dirt stretch.",
     comeSpostarsi: "Rental car for the north; 4x4 with a guide for the south and the desert. Outside the capital there is no useful public transport.",
     periodoMigliore:
       "November to March. In summer the Qatari desert is impassable, and even organized excursions run only in the cooler months.",
-    costi: "4x4 excursion to the inland sea roughly 250-500 riyals depending on the format and duration; Al Zubarah free or nearly so.",
+    costi: "4x4 excursion to the inland sea roughly 250-500 riyals depending on the package and length, split between those in the car; Al Zubarah, Al Jumail and the Serra plates free. Indicative daily budget per person: low 50-80 € (shared hire car, packed lunch, night in Doha); mid 120-180 € (4x4 tour to Khor Al Adaid split four ways, dinner in Doha); high 300 € and up (night in a luxury tented camp, private tour).",
     erroriDaEvitare: [
       "Trying to reach Khor Al Adaid in a regular car: you get stuck, and it's a classic",
       "Dune bashing right after a meal: it's rougher than it looks",
@@ -409,23 +408,31 @@ export const destinazioniQatar: Destinazione[] = [
         "quando": "Afternoon, until sunset.",
         "tempo": "Half a day",
         "costo": "Free entry (2026)",
-        "consiglio": "Do not do dune bashing right after eating: it is livelier than it looks."
+        "consiglio": "Do not do dune bashing right after eating: it is livelier than it looks.",
+        "lat": 24.63,
+        "lng": 51.296
       },
       {
         "nome": "Al Zubarah Fort",
-        "testo": "UNESCO World Heritage since 2013: the port town that flourished in the late 18th century, now an excavation site, and the fort built in 1938 nearby.",
-        "come": "By car from Doha, about 105 km to the north-west.",
+        "testo": "UNESCO World Heritage Site since 2013: the port town founded in the mid-18th century by the Bani Utbah confederation, who came from Kuwait, which flourished on trade and pearl diving and is today one of the best-preserved excavation sites in the Gulf. The fort, built nearby in 1938, houses a small visitor centre with photo exhibitions.",
+        "come": "By car from Doha, about 105 km and 1 hour 15 north-west, on a paved road.",
         "quando": "Morning.",
         "tempo": "1-1.5 hours",
-        "consiglio": "Bring water and lunch: there are few services in the north."
+        "consiglio": "Bring water and lunch: there are few services in the north.",
+        "costo": "Free entry (2026)",
+        "lat": 25.9769,
+        "lng": 51.0454
       },
       {
         "nome": "East-West/West-East by Richard Serra",
-        "testo": "Four huge steel plates from 2014, lined up over hundreds of metres in a valley in the Brouq reserve. They are reached on a dirt track.",
-        "come": "By car, preferably a 4x4, towards the west coast.",
+        "testo": "Four steel plates from 2014, 14 metres high and lined up over about a kilometre in a valley of the Brouq reserve, near Zekreet. No car park, no ticket, no signs: you arrive, walk from one plate to the next and go back.",
+        "come": "By car from Doha, about 95 km and almost 2 hours; the last stretch is a dirt track, better with a 4x4.",
         "quando": "Sunset, when the steel changes color.",
         "tempo": "1-2 hours",
-        "consiglio": "Walk between the slabs hearing only the wind: it is the opposite of the rest of the Gulf."
+        "consiglio": "Walk between the slabs hearing only the wind: it is the opposite of the rest of the Gulf.",
+        "costo": "Free (2026)",
+        "lat": 25.51675,
+        "lng": 50.86527
       },
       {
         "nome": "Al Thakhira mangroves",
@@ -433,22 +440,82 @@ export const destinazioniQatar: Destinazione[] = [
         "come": "By car from Doha, heading north. Kayaks for hire from local operators, best booked ahead.",
         "quando": "At high tide, early morning or late afternoon, in the cooler months.",
         "tempo": "2-3 hours",
-        "consiglio": "Check the tide times before setting off: at low tide the kayaks are left on the mud."
+        "consiglio": "Check the tide times before setting off: at low tide the kayaks are left on the mud.",
+        "lat": 25.73472,
+        "lng": 51.5475
+      },
+      {
+        "nome": "Purple Island (Jazirat Bin Ghanim)",
+        "testo": "The island among the Al Khor mangroves, linked by a partly broken causeway. It holds Qatar's only archaeological site from the 2nd millennium BC: under Kassite control, purple dye was made here from shells, hence the name. From the small hill you see the whole bay.",
+        "come": "By car from Doha towards Al Khor, about 50 km; kayaks leave from the camp on the island.",
+        "quando": "At high tide, early morning or late afternoon.",
+        "tempo": "2-4 hours",
+        "lat": 25.69278,
+        "lng": 51.54889,
+        "consiglio": "Check the tides before setting off."
+      },
+      {
+        "nome": "Al Jumail",
+        "testo": "An abandoned fishing village on the north coast, with ruined houses left as they were. Until the 20th century it was one of the main towns in the north.",
+        "come": "By car, a little north-east of Al Zubarah; the last stretch is a dirt track.",
+        "quando": "Late afternoon, with low light on the ruins.",
+        "tempo": "45 minutes",
+        "costo": "Free (2026)",
+        "lat": 26.09972,
+        "lng": 51.16111,
+        "consiglio": "Do not go inside houses that look unstable."
+      },
+      {
+        "nome": "Ar Rakiyat Fort",
+        "testo": "A 19th-century fort in the north-west, built near the village of Ar Rakiyat to protect the area's wells. It is one of the larger forts in Qatar and pairs easily with Al Zubarah.",
+        "come": "By car, a few kilometres north-east of Al Zubarah.",
+        "quando": "Morning.",
+        "tempo": "30 minutes",
+        "lat": 26.03,
+        "lng": 51.08
+      },
+      {
+        "nome": "Fuwairit beach",
+        "testo": "The beach near the village of Fuwairit, on the north-east coast, where according to tradition Mohammed bin Thani, regarded as the first ruler of modern Qatar, was born. Until 1847 the village was the seat of the Al Thani, before they moved to Doha.",
+        "come": "By car from Doha, about 97 km and 1 hour 15.",
+        "quando": "Morning or late afternoon, in the cool months.",
+        "tempo": "2-3 hours",
+        "lat": 26.04828,
+        "lng": 51.35925
+      },
+      {
+        "nome": "Film City and Ras Abrouq",
+        "testo": "A fake stone village built as a film set in the desert of the west coast, next to the wind-carved mushroom rocks of Ras Abrouq. It is a few minutes from the Serra plates.",
+        "come": "By car, better a 4x4, near Zekreet, about 95 km from Doha.",
+        "quando": "Late afternoon, before sunset at the Serra plates.",
+        "tempo": "1 hour",
+        "costo": "Free (2026)",
+        "lat": 25.57826,
+        "lng": 50.84629
       }
     ],
     programmi: [
       {
-        "titolo": "1 day",
+        "titolo": "1 day in the north",
         "tappe": [
-          "Morning: Al Zubarah and the north",
-          "Afternoon: Serra installations at sunset"
+          "Morning: Al Zubarah and Ar Rakiyat Fort",
+          "Midday: Al Jumail and a packed lunch",
+          "Afternoon: Purple Island and the Al Khor mangroves, or the west coast with Film City and the Serra plates at sunset"
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: Khor Al Adaid by 4x4",
-          "Day 2: north, Al Zubarah and Serra"
+          "Day 1: Khor Al Adaid by 4x4 in the afternoon, sunset on the dunes and night in a camp",
+          "Day 2: the north, Al Zubarah and Serra"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Khor Al Adaid and a night in the desert",
+          "Day 2: west coast with Film City, Ras Abrouq and the Serra plates at sunset",
+          "Day 3: the north with Al Zubarah, Al Jumail, Fuwairit and kayaking in the Al Khor mangroves"
         ]
       }
     ],
@@ -456,12 +523,17 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Desert tented camps",
         "perChi": "those who want a night under the stars",
-        "testo": "Camps with meals included, in the south, in the desert."
+        "testo": "Tented camps of every level in the southern desert, from simple to luxury, with meals included. You only get there in the operator's 4x4."
       },
       {
         "nome": "Doha",
         "perChi": "those who prefer to return to the city",
-        "testo": "All excursions leave from Doha as day trips."
+        "testo": "All excursions leave from Doha as day trips: the north is just over an hour away, the west coast under two."
+      },
+      {
+        "nome": "Al Khor",
+        "perChi": "those who want to be close to the north and the mangroves",
+        "testo": "The town on the north-east coast, 50 km from Doha, with a few resorts. Handy for Purple Island, Fuwairit and Al Zubarah."
       }
     ],
     sapori: [
@@ -487,6 +559,42 @@ export const destinazioniQatar: Destinazione[] = [
       "Dune bashing after a meal.",
       "Heading north without water or lunch: services are few.",
       "Planning the desert between June and September."
+    ],
+    gite: [
+      {
+        "nome": "Barzan Towers (Umm Salal Mohammed)",
+        "distanza": "22 km from Doha, about 25 minutes",
+        "come": "By car or taxi heading north.",
+        "testo": "16-metre watchtowers from the late 19th century, renovated in 1910 by Sheikh Mohammed bin Jassim Al Thani to protect a rawda, the hollow where rainwater collects. Restored in 2003, they make an easy stop on the road north."
+      },
+      {
+        "nome": "Al Khor",
+        "distanza": "51 km from Doha, about 40 minutes",
+        "come": "By car on the Shamal Highway, then towards the coast.",
+        "testo": "The second town of the north, with its corniche on the sea. It is the starting point for Purple Island and for kayaking in the Al Thakhira mangroves."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Can you go to Khor Al Adaid on your own?",
+        "risposta": "Not unless you have experience driving on sand: there is no road and you need a 4x4 with deflated tyres. Almost everyone goes with an operator, who charges per car."
+      },
+      {
+        "domanda": "Can the north of Qatar be done in a day?",
+        "risposta": "Yes, Al Zubarah is about 1 hour 15 from Doha and the west coast under two hours. Start early and bring water and lunch."
+      },
+      {
+        "domanda": "Do you need a 4x4 for the Serra plates?",
+        "risposta": "It is recommended: the last stretch is a dirt track. There is no car park and no ticket."
+      },
+      {
+        "domanda": "When should you go into the Qatari desert?",
+        "risposta": "From November to March. From June to September the heat is extreme and even organised excursions stop."
+      },
+      {
+        "domanda": "Can you sleep in the desert?",
+        "risposta": "Yes, in the tented camps in the south near Khor Al Adaid, with meals included. The north, on the other hand, has almost no accommodation."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

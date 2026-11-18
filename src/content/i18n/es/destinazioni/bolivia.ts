@@ -579,11 +579,10 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     doveDormire: "Copacabana por la comodidad de las conexiones; la Isla del Sol para la noche más sugerente, en alojamientos sencillos y sin calefacción.",
     doveMangiare: "Trucha (trucha del lago) casi en todas partes, en el paseo del lago de Copacabana.",
-    comeArrivare:
-      "Autobús desde Puno (Perú) con paso por la frontera de Kasani, unas 3-4 horas en total; desde La Paz unas 4 horas, con la travesía del estrecho de Tiquina en balsa.",
+    comeArrivare: "Bus desde Puno (Perú) con paso por la frontera de Kasani, unas 3-4 horas en total: el paso cierra por la noche, la aduana para a mediodía y para entrar en Bolivia hoy hace falta un prerregistro en línea. Desde La Paz unas 3,5-4 horas en bus turístico o minibús, con la travesía del estrecho de Tiquina: el vehículo cruza en una balsa de madera y los pasajeros cruzan aparte en una lancha, pagando pocos bolivianos. En Copacabana hay pocos cajeros: mejor llegar con efectivo.",
     comeSpostarsi: "Barcas colectivas desde Copacabana a la Isla del Sol; en la isla no hay vehículos: se camina, siempre cuesta arriba.",
     periodoMigliore: "mayo-octubre por el sol; a 3.800 metros las noches son frías todo el año",
-    costi: "muy económico: barca a la isla pocos dólares, más pequeñas tasas de entrada que cobran las comunidades locales",
+    costi: "Presupuesto bajo unos 15-25 € al día (albergue o habitación sencilla, trucha en el malecón, lanchas colectivas); medio unos 35-60 € (hotel con vista al lago en Copacabana, comidas en restaurante, un guía en Tiwanaku); alto desde 90 € (hotel mejor, lancha privada a la Isla del Sol y la Isla de la Luna, coche con conductor desde La Paz). En efectivo: boleto único de Tiwanaku unos 100 bolivianos (unos 13 €) para extranjeros, con sitios y museos; lancha de Tiquina pocos bolivianos; pequeños peajes de las comunidades en la Isla del Sol.",
     erroriDaEvitare: [
       "Programar la Isla del Sol en el día desde Copacabana: los horarios de las barcas dejan pocas horas útiles y se pierde la mejor parte",
       "Dar por hecho el acceso a toda la isla: las tensiones entre comunidades han limitado a ratos el paso hacia la parte norte, así que conviene preguntar en el lugar",
@@ -594,52 +593,144 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Basílica de Copacabana",
-        "testo": "Destino de peregrinación dedicado a la Virgen de Copacabana, en un pueblo algo destartalado pero con alma.",
-        "come": "A pie desde el malecón.",
-        "quando": "Mañana.",
+        "testo": "Destino de peregrinación dedicado a la Virgen de Copacabana, en un pueblo algo destartalado pero con alma. La iglesia blanca con cúpulas de azulejos guarda la imagen de la Virgen, y delante del atrio, los fines de semana, se bendicen los coches adornados con flores.",
+        "come": "A pie desde el malecón, subiendo unas pocas cuadras.",
+        "quando": "Por la mañana; el fin de semana para la bendición de los coches.",
         "tempo": "1 hora",
+        "costo": "entrada libre",
+        "lat": -16.1665754,
+        "lng": -69.0856364,
         "consiglio": "Copacabana es la entrada natural desde Perú."
       },
       {
         "nome": "Cerro Calvario",
-        "testo": "La colina sobre el pueblo, para el atardecer sobre el lago.",
-        "come": "A pie desde el centro, con una subida corta pero empinada.",
+        "testo": "La colina sobre el pueblo, para el atardecer sobre el lago. El sendero sube entre las estaciones del Vía Crucis hasta la cima, desde donde se ven la bahía, el pueblo y, con el cielo limpio, las islas.",
+        "come": "A pie desde el centro, con una subida corta pero empinada: unos 30-40 minutos.",
         "quando": "Atardecer.",
         "tempo": "1-2 horas",
+        "lat": -16.161688,
+        "lng": -69.091294,
         "consiglio": "A unos 3.800 metros la subida cansa: ve despacio."
+      },
+      {
+        "nome": "Horca del Inca",
+        "testo": "Un pequeño sitio en la colina opuesta al Calvario, con dos piedras verticales y una transversal que se cree servían para observar el sol y las estaciones. Menos visitado que el Calvario, con una buena vista del pueblo.",
+        "come": "A pie desde el centro, subiendo por el lado sur del pueblo por un sendero empinado entre las rocas.",
+        "quando": "Primera hora de la mañana.",
+        "tempo": "1 hora",
+        "lat": -16.1712441,
+        "lng": -69.0846377
       },
       {
         "nome": "Isla del Sol: Chincana y Roca Sagrada",
         "testo": "Las ruinas de Chincana y la Roca Sagrada, en el extremo norte de la isla donde según la tradición nacieron el sol y el primer Inca.",
-        "come": "Lancha colectiva desde Copacabana. En la isla no hay vehículos a motor ni carreteras asfaltadas.",
+        "come": "Lancha colectiva desde Copacabana hasta Challapampa, una hora y media a dos, luego a pie. En la isla no hay vehículos a motor ni carreteras asfaltadas.",
         "quando": "Mañana y atardecer.",
         "tempo": "Medio día",
         "costo": "Lancha y pequeñas tasas de entrada cobradas por las comunidades: lleva efectivo",
+        "lat": -15.99027778,
+        "lng": -69.20277778,
         "consiglio": "Pregunta en el lugar si el paso hacia la parte norte está abierto: tensiones entre comunidades lo han limitado a ratos."
       },
       {
         "nome": "El sendero del lomo de la Isla del Sol",
         "testo": "El sendero que recorre el lomo de la isla de norte a sur entre terrazas y ruinas.",
-        "come": "A pie, siempre cuesta arriba y a gran altura.",
+        "come": "A pie, siempre en subida y en altura. Las comunidades cobran un pequeño peaje en cada sector.",
         "quando": "Mañana y atardecer.",
         "tempo": "3-4 horas",
+        "costo": "Pequeños peajes de las comunidades, en efectivo",
+        "lat": -16.0179647,
+        "lng": -69.177019,
         "consiglio": "Dormir una noche en la isla lo cambia todo: las barcas del día llegan y se van todas juntas, y luego la isla vuelve al silencio."
       },
       {
+        "nome": "Yumani, la Escalinata del Inca y la Fuente",
+        "testo": "El pueblo del sur de la isla, donde desembarca la mayoría de las lanchas. Desde el muelle una larga escalinata inca sube junto a la fuente, con el agua que baja por tres canales, hasta las casas y los alojamientos de la cresta.",
+        "come": "Lancha colectiva desde Copacabana hasta el muelle de Yumani, luego a pie en subida.",
+        "quando": "Al amanecer, antes de que lleguen los grupos del día.",
+        "tempo": "1 hora",
+        "lat": -16.0387107,
+        "lng": -69.1452634,
+        "consiglio": "Deja la mochila grande en Copacabana: la escalinata en altura con peso se nota."
+      },
+      {
+        "nome": "Pilko Kaina",
+        "testo": "Un edificio inca de dos pisos en la costa sur de la isla, con puertas y hornacinas trapezoidales y vista al lago. Está a poca distancia de Yumani y se combina bien con la escalinata.",
+        "come": "A pie desde Yumani, una media hora por el sendero costero hacia el sur.",
+        "quando": "Mañana o última hora de la tarde.",
+        "tempo": "1-1,5 horas con la caminata",
+        "costo": "Pequeño peaje de la comunidad, en efectivo",
+        "lat": -16.0486735,
+        "lng": -69.1442118
+      },
+      {
+        "nome": "Museo de Challapampa",
+        "testo": "Un pequeño museo en el pueblo del norte de la isla, con objetos hallados en el lago y en la isla: cerámicas, figuras de oro y piezas de época tiwanaku e inca. Es el punto de partida para subir a Chincana.",
+        "come": "En el pueblo de Challapampa, cerca del muelle norte.",
+        "quando": "Antes de subir a las ruinas.",
+        "tempo": "30 minutos",
+        "lat": -15.9973662,
+        "lng": -69.1830501
+      },
+      {
+        "nome": "Isla de la Luna e Iñak Uyu",
+        "testo": "La isla más pequeña al este de la Isla del Sol, ligada en la tradición a la luna. El sitio de Iñak Uyu, llamado palacio de las Vírgenes del Sol, conserva muros y hornacinas de un complejo inca asomado al agua.",
+        "come": "Lancha desde Copacabana o desde Yumani; muchas la combinan con la Isla del Sol en el día.",
+        "quando": "Por la mañana, con el lago más tranquilo.",
+        "tempo": "1-2 horas en la isla",
+        "costo": "Pequeño peaje de la comunidad, en efectivo",
+        "lat": -16.0388573,
+        "lng": -69.0712132
+      },
+      {
+        "nome": "Estrecho de Tiquina",
+        "testo": "El punto más estrecho del lago, entre San Pedro y San Pablo de Tiquina, en la carretera entre La Paz y Copacabana. Buses y coches cruzan en balsas de madera y las personas en lanchas aparte: una travesía corta que se queda en la memoria.",
+        "come": "En la carretera La Paz-Copacabana: se baja del bus, se cruza en lancha y se vuelve a subir en la otra orilla.",
+        "quando": "De día, en el trayecto.",
+        "tempo": "20-30 minutos",
+        "costo": "Lancha para pasajeros, pocos bolivianos",
+        "lat": -16.22172222,
+        "lng": -68.85297222
+      },
+      {
         "nome": "Tiwanaku",
-        "testo": "Las ruinas de una civilización anterior a los Incas, en el camino a La Paz.",
-        "come": "Con tour o taxi desde el camino a La Paz.",
-        "quando": "Mañana.",
+        "testo": "Las ruinas de una civilización anterior a los Incas, en el camino a La Paz. Se ven el templo semisubterráneo con las cabezas talladas en los muros, la plataforma de Kalasasaya con la Puerta del Sol y la pirámide de Akapana; los dos museos, lítico y cerámico, ayudan a entender lo que se está viendo.",
+        "come": "Con tour o taxi desde la carretera a La Paz. Se recorre a pie; se recomienda guía.",
+        "quando": "Por la mañana.",
         "tempo": "2-3 horas",
+        "costo": "Boleto único unos 100 bolivianos (unos 13 €) para extranjeros, con Kalasasaya, Puma Punku y los museos",
+        "url": "https://tiwanaku.gob.bo/",
+        "lat": -16.5547893,
+        "lng": -68.6734268,
         "consiglio": "Se combina con el regreso a La Paz."
+      },
+      {
+        "nome": "Puma Punku",
+        "testo": "El segundo sector de Tiwanaku, a pocos minutos de Kalasasaya, con bloques de andesita y arenisca cortados con ángulos y encajes precisísimos, esparcidos por el suelo como las piezas de un juego desmontado.",
+        "come": "A pie desde el sector principal, unos 10-15 minutos; mismo boleto que Tiwanaku.",
+        "quando": "Por la mañana, después de Kalasasaya.",
+        "tempo": "45 minutos",
+        "costo": "Incluido en el boleto único de Tiwanaku",
+        "url": "https://tiwanaku.gob.bo/",
+        "lat": -16.5616896,
+        "lng": -68.6795893
       }
     ],
     programmi: [
       {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Basílica de Copacabana y malecón",
+          "Lancha de la mañana a Yumani, Escalinata del Inca y Pilko Kaina",
+          "Lancha de la tarde a Copacabana",
+          "Atardecer desde el Cerro Calvario"
+        ]
+      },
+      {
         "titolo": "2 días",
         "tappe": [
           "Día 1: Copacabana, Cerro Calvario al atardecer",
-          "Día 2: barca a la Isla del Sol, sendero del lomo"
+          "Día 2: lancha a la Isla del Sol, sendero del lomo"
         ]
       },
       {
@@ -649,18 +740,32 @@ export const destinazioniBolivia: Destinazione[] = [
           "Día 2: Isla del Sol, noche en la isla",
           "Día 3: amanecer en la isla y regreso a Copacabana, luego La Paz"
         ]
+      },
+      {
+        "titolo": "Por la carretera La Paz-Copacabana",
+        "tappe": [
+          "Mañana: Tiwanaku, con Kalasasaya, Puma Punku y los museos",
+          "Almuerzo y traslado hacia el lago",
+          "Tarde: travesía del estrecho de Tiquina",
+          "Noche: llegada a Copacabana y cena de trucha"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Copacabana",
         "perChi": "Quien busca conexiones y comodidad",
-        "testo": "Más cómoda para el transporte. Noches frías en la altura."
+        "testo": "Más cómoda para los transportes, con alojamientos en el malecón y en la calle que sube a la basílica. Noches frías en altura."
       },
       {
-        "nome": "Isla del Sol",
+        "nome": "Isla del Sol, Yumani",
         "perChi": "Quien busca la noche más sugerente",
-        "testo": "Alojamientos sencillos y sin calefacción. Todo cuesta arriba."
+        "testo": "La parte sur de la isla, con la mayoría de los alojamientos en lo alto de la escalinata. Estructuras sencillas y sin calefacción. Todo en subida."
+      },
+      {
+        "nome": "Isla del Sol, Challapampa",
+        "perChi": "Quien quiere estar cerca de las ruinas del norte",
+        "testo": "El pueblo de playa del norte, más pequeño y tranquilo, a una hora a pie de Chincana. Antes de dormir allí conviene preguntar si el paso hacia el norte está abierto."
       }
     ],
     sapori: [
@@ -682,6 +787,52 @@ export const destinazioniBolivia: Destinazione[] = [
       "El acceso a toda la isla no está garantizado: pregunta en el lugar.",
       "Subestimar la altura: se camina cuesta arriba a gran altura.",
       "Frontera de Kasani/Yunguyo: horarios y trámites cambian, vuelve a comprobarlos antes de salir."
+    ],
+    gite: [
+      {
+        "nome": "Isla de la Luna",
+        "distanza": "un breve trayecto en lancha desde Yumani, más desde Copacabana",
+        "come": "Lancha desde Copacabana o Yumani, a menudo combinada con la Isla del Sol.",
+        "testo": "La pequeña isla de la luna, con las ruinas de Iñak Uyu junto al agua y muy poca gente."
+      },
+      {
+        "nome": "Tiwanaku",
+        "distanza": "una hora y media desde La Paz, en la carretera hacia el lago",
+        "come": "Tour de un día desde La Paz o parada en el traslado a Copacabana.",
+        "testo": "Las ruinas de la civilización anterior a los Incas, con la Puerta del Sol y los bloques de Puma Punku."
+      },
+      {
+        "nome": "Puno y las islas peruanas",
+        "distanza": "unas 3-4 horas de bus, frontera incluida",
+        "come": "Bus desde Copacabana por Kasani/Yunguyo; mejor como etapa que en el día.",
+        "testo": "Al otro lado del lago están las islas flotantes de los Uros, Taquile y Amantaní. Tiene sentido si se sigue el viaje hacia Perú."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Mejor dormir en Copacabana o en la Isla del Sol?",
+        "risposta": "Al menos una noche en la isla: las lanchas del día llegan y se van todas juntas, y al amanecer y al atardecer la isla queda casi vacía. Copacabana sirve para la noche anterior y la posterior."
+      },
+      {
+        "domanda": "¿Cuánto dura la lancha a la Isla del Sol?",
+        "risposta": "Una hora y media a dos desde Copacabana. Las lanchas suelen salir por la mañana y a primera hora de la tarde y desembarcan en Yumani, al sur, o en Challapampa, al norte."
+      },
+      {
+        "domanda": "¿Se puede recorrer toda la isla?",
+        "risposta": "El sendero del lomo une norte y sur en unas horas de camino, pero tensiones entre las comunidades han cerrado a ratos el paso hacia el norte. Hay que preguntar en el lugar antes de salir."
+      },
+      {
+        "domanda": "¿Cómo se cruza la frontera con Perú?",
+        "risposta": "Por el paso de Kasani/Yunguyo, a pocos kilómetros de Copacabana, a pie entre las dos oficinas. El paso cierra por la noche, la aduana para a mediodía y hace falta un prerregistro en línea para entrar en Bolivia."
+      },
+      {
+        "domanda": "¿Hay cajeros en Copacabana y en la isla?",
+        "risposta": "En Copacabana pocos, en la isla ninguno y sin tarjetas. Conviene llegar con bolivianos en efectivo para alojamiento, comidas, lanchas y peajes."
+      },
+      {
+        "domanda": "¿Cuánto cuesta Tiwanaku?",
+        "risposta": "El boleto único para extranjeros cuesta unos 100 bolivianos e incluye Kalasasaya, Puma Punku y los dos museos. Hacen falta un par de horas, mejor con guía."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
@@ -1058,11 +1209,10 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     doveDormire: 'Rurrenabaque como base; durante los tours se duerme en lodges junto al río, básicos pero con mosquiteras.',
     doveMangiare: 'Comidas incluidas en los tours.',
-    comeArrivare:
-      "Vuelo de La Paz a Rurrenabaque (unos 45 minutos, en avionetas, a menudo canceladas por el tiempo) o autobús de 18-20 horas por una carretera de montaña exigente.",
+    comeArrivare: "Vuelo de La Paz a Rurrenabaque, unos 45 minutos en aviones pequeños: hoy la ruta la vuela sobre todo EcoJet, con pocos vuelos a la semana, y las cancelaciones por el tiempo son frecuentes también fuera de la estación de lluvias, porque basta la nubosidad baja para impedir el aterrizaje. El aeropuerto está a pocos minutos del pueblo en taxi o motocarro. La alternativa es un bus de 18-20 horas por una carretera de montaña exigente. Para las pampas se sigue con unas 3 horas de pista de tierra hasta Santa Rosa del Yacuma, y luego en barca.",
     comeSpostarsi: 'Solo en barca y a pie, en el marco de los tours organizados.',
     periodoMigliore: "mayo-octubre, estación seca: menos mosquitos, carreteras y pistas transitables y fauna concentrada junto a los ríos",
-    costi: 'entre las experiencias amazónicas más económicas del mundo',
+    costi: "Presupuesto bajo unos 30-45 € al día (albergue en Rurrenabaque y tour de pampas económico, unos 100-200 $ por 3 días todo incluido); medio unos 50-90 € (operador con buenas reseñas sobre el trato a los animales, tour en el Madidi de 3-4 días a 150-300 $); alto desde 120 € al día (lodges comunitarios en el corazón del Madidi, vuelos desde La Paz). Aparte, en efectivo: entrada al área protegida de las pampas unos 150 bolivianos (unos 20 €), a menudo no incluida en el precio del tour.",
     erroriDaEvitare: [
       "Contar con el vuelo de regreso sin margen: los vuelos a Rurrenabaque se cancelan a menudo por el tiempo, y la alternativa es un autobús de casi veinte horas",
       "Elegir el operador más barato sin informarse: en las pampas algunas prácticas con caimanes y anacondas son dañinas para los animales",
@@ -1074,19 +1224,21 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Pampas del Yacuma",
         "testo": "Praderas inundadas recorridas en barca por el río Yacuma: caimanes, capibaras, monos, delfines rosados y muchísimas aves, con avistamientos de cerca.",
-        "come": "Tour organizado de 3 días desde Rurrenabaque, con navegación y noches en lodge.",
-        "quando": "En la temporada seca.",
+        "come": "Tour organizado de 3 días desde Rurrenabaque: unas 3 horas de pista de tierra hasta Santa Rosa del Yacuma, luego barca por el río y noches en lodge.",
+        "quando": "En la temporada seca. Las mejores salidas son a primera hora de la mañana y a última de la tarde.",
         "tempo": "3 días, 2 noches",
-        "costo": "Tour todo incluido: el precio cambia entre agencias, compara varias en Rurrenabaque",
+        "costo": "Tour todo incluido: el precio cambia entre agencias, compara varias en Rurrenabaque. La entrada al área protegida, unos 150 bolivianos (unos 20 €) en efectivo, suele ir aparte",
         "consiglio": "Rick vio más animales con menos esfuerzo que en cualquier otro sitio. Si el guía saca caimanes del agua o busca anacondas para que las toquen, di que no."
       },
       {
         "nome": "Selva del Madidi",
         "testo": "Bosque primario dentro del parque nacional, con árboles enormes y biodiversidad altísima. La fauna es más difícil de ver.",
-        "come": "Tour de 3-4 días con caminatas guiadas y noches en lodge o campamento.",
+        "come": "Tour de 3-4 días con caminatas guiadas y noches en lodge o campamento, remontando en barca el Beni y el Tuichi.",
         "quando": "En la temporada seca.",
         "tempo": "3-4 días",
         "costo": "Depende del lodge y de la duración: pregunta el precio directamente al lodge o a la agencia",
+        "lat": -13.8,
+        "lng": -67.63333333,
         "consiglio": "Elige un lodge gestionado por comunidades indígenas."
       },
       {
@@ -1098,15 +1250,74 @@ export const destinazioniBolivia: Destinazione[] = [
         "consiglio": "Nadar con delfines solo se permite donde los guías lo autorizan."
       },
       {
+        "nome": "Santa Rosa del Yacuma",
+        "testo": "El pueblo de la llanura del Beni donde termina la carretera y empiezan las pampas. Aquí se paga la entrada al área protegida y se suben las barcas hacia los lodges del río.",
+        "come": "Unas 3 horas de pista de tierra desde Rurrenabaque, con el transporte del tour.",
+        "quando": "El primer y el último día del tour de las pampas.",
+        "tempo": "Una parada breve",
+        "costo": "Entrada a las pampas unos 150 bolivianos (unos 20 €), en efectivo",
+        "lat": -14.079683,
+        "lng": -66.7924102,
+        "consiglio": "Ten preparados bolivianos en efectivo: la entrada a menudo no está incluida en el precio del tour."
+      },
+      {
+        "nome": "La orilla del río en Rurrenabaque",
+        "testo": "El pueblo se extiende a lo largo del río Beni, al pie de las últimas colinas cubiertas de selva, con las barcas amarradas frente a las agencias y San Buenaventura en la otra orilla. Es el sitio de la tarde, antes y después de los tours.",
+        "come": "A pie desde el centro; todo está cerca.",
+        "quando": "Al atardecer, cuando baja el calor.",
+        "tempo": "1 hora",
+        "lat": -14.44222222,
+        "lng": -67.52833333
+      },
+      {
+        "nome": "Mirador de la Cruz",
+        "testo": "El mirador en la colina sobre el pueblo, con la cruz y la vista del río Beni, los tejados y la selva que empieza justo detrás. Desde aquí se entiende dónde terminan los Andes y empieza la llanura amazónica.",
+        "come": "A pie desde el centro, con una subida corta pero empinada, o en motocarro buena parte del trayecto.",
+        "quando": "Al atardecer.",
+        "tempo": "1 hora",
+        "lat": -14.447785,
+        "lng": -67.5252244,
+        "consiglio": "Lleva agua y repelente: la subida con el calor húmedo cansa más de lo que parece."
+      },
+      {
+        "nome": "San Miguel del Bala",
+        "testo": "Una comunidad tacana a orillas del Beni, en el límite del Madidi, que gestiona un ecolodge y recibe a los visitantes con caminatas por la selva y la vida del pueblo. Es la forma más rápida de entrar en la zona del parque desde Rurrenabaque.",
+        "come": "Unos 40-45 minutos de barca río Beni arriba; la visita se organiza en la oficina de la comunidad en Rurrenabaque.",
+        "quando": "Todo el año; mejor en la temporada seca.",
+        "tempo": "Un día o una noche",
+        "lat": -14.5060694,
+        "lng": -67.4851126
+      },
+      {
+        "nome": "Chalalán y su laguna",
+        "testo": "Un ecolodge gestionado por la comunidad de San José de Uchupiamonas, en el corazón del Madidi, junto a una laguna rodeada de selva. Es uno de los primeros proyectos de turismo comunitario de Bolivia, con guías de la comunidad y senderos en el bosque primario.",
+        "come": "Varias horas de barca desde Rurrenabaque remontando el Beni y el Tuichi, luego unos 25 minutos a pie por un sendero hasta el lodge. Se reserva en paquete, con barca y comidas.",
+        "quando": "En la temporada seca.",
+        "tempo": "3-4 días",
+        "lat": -14.4281731,
+        "lng": -67.9201702
+      },
+      {
         "nome": "Vuelo La Paz-Rurrenabaque",
         "testo": "Un vuelo de unos 45 minutos a una hora en aviones pequeños, que puede cancelarse por el clima y lleva del altiplano al nivel de la selva.",
-        "come": "Reserva con margen; la alternativa es un bus de unas 18 horas.",
+        "come": "Reserva con margen; la alternativa es un bus de unas 18 horas. Del aeropuerto al pueblo pocos minutos en taxi o motocarro.",
         "quando": "Todo el año.",
-        "tempo": "45 minutos a 1 hora",
+        "tempo": "45 minutos-1 hora",
+        "lat": -14.4258916,
+        "lng": -67.5005821,
         "consiglio": "No cuentes con el vuelo de regreso sin margen."
       }
     ],
     programmi: [
+      {
+        "titolo": "1 día en Rurrenabaque",
+        "tappe": [
+          "Mañana: barca hasta San Miguel del Bala y caminata por la selva con la comunidad",
+          "Almuerzo: pescado de río en el pueblo",
+          "Tarde: elegir y reservar el tour, efectivo y repelente",
+          "Atardecer desde el Mirador de la Cruz y noche en la orilla del río"
+        ]
+      },
       {
         "titolo": "3 días (pampas)",
         "tappe": [
@@ -1119,7 +1330,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "titolo": "4-5 días (pampas y selva)",
         "tappe": [
           "Días 1-3: pampas",
-          "Días 4-5: Madidi con lodge en el bosque"
+          "Días 4-5: Madidi con lodge en la selva"
         ]
       }
     ],
@@ -1127,12 +1338,17 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Rurrenabaque",
         "perChi": "Quien sale a los tours",
-        "testo": "Pueblo base con agencias. Calor húmedo."
+        "testo": "Pueblo base con agencias. Calor húmedo. Los alojamientos están cerca del río y de las agencias; hace falta una noche antes y otra después de los tours."
       },
       {
         "nome": "Lodges junto al río",
         "perChi": "Quien hace los tours",
         "testo": "Básicos pero con mosquiteros."
+      },
+      {
+        "nome": "Lodges comunitarios del Madidi",
+        "perChi": "Quien quiere bosque primario y un vínculo con las comunidades",
+        "testo": "Estructuras gestionadas por comunidades indígenas, como Chalalán o San Miguel del Bala, dentro o en el borde del parque. Más caras que los tours de pampas, con guías locales."
       }
     ],
     sapori: [
@@ -1150,6 +1366,46 @@ export const destinazioniBolivia: Destinazione[] = [
       "Algunas prácticas con caimanes y anacondas dañan a los animales: infórmate sobre el operador.",
       "Repelente serio. Para la zona de Rurrenabaque se recomienda la vacuna contra la fiebre amarilla: consulta a tu médico antes de salir.",
       "Mosquitos en cantidad notable."
+    ],
+    gite: [
+      {
+        "nome": "San Miguel del Bala",
+        "distanza": "unos 40-45 minutos de barca",
+        "come": "Barca por el Beni, organizada por la oficina de la comunidad en Rurrenabaque.",
+        "testo": "Un día con la comunidad tacana: senderos en la selva, el pueblo y el río, sin los días de un tour largo."
+      },
+      {
+        "nome": "San Buenaventura",
+        "distanza": "pocos minutos de barca, en la otra orilla del Beni",
+        "come": "Barcas colectivas desde el puerto de Rurrenabaque.",
+        "testo": "El pueblo de enfrente, más tranquilo, con su plaza y la vista de Rurrenabaque al otro lado del río."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "¿Pampas o selva?",
+        "risposta": "Las pampas para ver muchos animales de cerca y con poco esfuerzo, el Madidi para el bosque primario, aceptando ver menos fauna. Con 4-5 días se hacen las dos."
+      },
+      {
+        "domanda": "¿Cómo elegir el operador de las pampas?",
+        "risposta": "Comparando varios en Rurrenabaque y leyendo las reseñas sobre el trato a los animales. Hay que evitar a quien saca caimanes del agua o deja tocar anacondas."
+      },
+      {
+        "domanda": "¿Es fiable el vuelo desde La Paz?",
+        "risposta": "Se cancela a menudo por el tiempo, no solo en la estación de lluvias. Conviene dejar un día de margen, sobre todo antes de un vuelo internacional."
+      },
+      {
+        "domanda": "¿Cuánto cuesta la entrada a las pampas?",
+        "risposta": "Unos 150 bolivianos en efectivo, que se pagan en Santa Rosa del Yacuma y a menudo no están incluidos en el precio del tour."
+      },
+      {
+        "domanda": "¿Hace falta la vacuna de la fiebre amarilla?",
+        "risposta": "Está recomendada para la zona de Rurrenabaque. Hay que consultarlo con el médico con tiempo, antes de salir."
+      },
+      {
+        "domanda": "¿Cuándo ir?",
+        "risposta": "De mayo a octubre, en la temporada seca: menos mosquitos, pistas transitables y fauna concentrada en los ríos."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],

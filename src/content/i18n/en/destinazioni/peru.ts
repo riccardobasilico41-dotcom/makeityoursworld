@@ -987,12 +987,11 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire:
       'Camping all along the route (Chiquisca, Santa Rosa, Marampata), with some families renting out space and basic services at Marampata, the village closest to the site.',
     doveMangiare: "Meals prepared by your own trek organization; at Marampata and Chiquisca you can find something simple.",
-    comeArrivare: 'From Cusco about 4 hours by car to Cachora (Apurímac region), the starting point of the trail.',
+    comeArrivare: "From Cusco it takes about 4 hours by car to Cachora, in the Apurímac region, along the road to Abancay; without an agency, take the bus to Abancay, get off at the Cachora junction and continue by taxi to the village. The trail starts at the Capuliyoc control point above Cachora, where you buy the ticket in cash with your passport. The Capuliyoc-Cachora route was closed from February to April 2026 because of rain landslides and reopened after maintenance: ask in Cusco whether it is open before you set off.",
     comeSpostarsi: 'Only on foot. Mules can be hired for the luggage and, on some stretches, for those who are struggling.',
     periodoMigliore:
       'April to October. In the rainy season the trail becomes dangerous because of landslides, and the heat in the canyon is heavy at any time of year',
-    costi:
-      'Organized trek roughly $400-700 per person for 4-5 days with guide, mules and meals; independently you spend much less, plus the site entry, paid at the control point.',
+    costi: "Low budget about €30-45 a day independently, with your own tent, food brought from Cusco and a few simple meals at the camps; mid-range about €90-130 a day on an organised group trek (roughly $400-700 per person for 4-5 days, with guide, mules and meals); high from €180 a day with a private guide, a riding mule and better-equipped camps. Site entry is paid separately at the Capuliyoc control point, in soles and in cash, if it is not included in the package.",
     confronti: [
       {
         titolo: 'Go now or wait for the cable car?',
@@ -1046,60 +1045,162 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "The citadel of Choquequirao",
-        "testo": "An Inca citadel called Machu Picchu's \"sister city\" for its layout and architecture, only partly excavated (30-40%). Few people get here, because there is no way but walking.",
-        "come": "Only on foot from Cachora, after two days of walking. You camp near the site; a guide is advised.",
-        "quando": "Dry season. In the rainy season the trail is dangerous.",
-        "tempo": "A morning or a full day; two nights is best",
-        "costo": "Site entry paid at the control point before the citadel; fare on the Ministry of Culture site",
-        "consiglio": "Stay two nights to have a full day among the ruins without the fatigue of the climb."
+        "testo": "An Inca citadel called the \"sister city\" of Machu Picchu for its layout and architecture, only partly excavated (between 30 and 40%). Its core is the main plaza, with houses, storehouses and temples set on a ridge above the Apurímac canyon at about 3,000 metres. Few people come, because the only way is to walk.",
+        "come": "Only on foot from Cachora, after two days of walking. You camp at Marampata or at the campsite near the site; a guide is recommended, also to make sense of the sectors.",
+        "quando": "Dry season, May to September. In the rainy season the trail is dangerous.",
+        "tempo": "A full day; better two nights nearby",
+        "costo": "Ticket paid in cash at the Capuliyoc control point, at the start of the trail; often included in organised treks",
+        "url": "https://www.gob.pe/cultura",
+        "lat": -13.3929766,
+        "lng": -72.8737975,
+        "consiglio": "Stay two nights to get a full day among the ruins without the tiredness of the climb."
       },
       {
         "nome": "The llama terraces",
-        "testo": "Terraces decorated with figures of llamas and other camelids in white stone set into the wall, the site's most recognisable detail.",
-        "come": "In the agricultural sector of the site, reached by a short walk from the central area.",
+        "testo": "Terraces decorated with figures of llamas and other camelids in white stone set into the wall, the site's most recognisable detail. They lie on the west slope, below the plaza, and are best seen from the viewpoint facing them.",
+        "come": "From the centre of the citadel a steep stepped path leads down to the viewpoint over the terraces.",
         "quando": "Early morning, with low light on the walls.",
-        "tempo": "30-60 minutes",
-        "consiglio": "Bring a zoom lens or stay close to the walls: the figures are small."
+        "tempo": "1-1.5 hours including the descent and climb back",
+        "lat": -13.3944982,
+        "lng": -72.8758306,
+        "consiglio": "The figures are small: a telephoto lens helps. The climb back is harder than it looks, so carry water."
       },
       {
-        "nome": "The Apurímac canyon",
-        "testo": "A very deep canyon: there are about 1,600 metres of height difference between the site and the river, and the trail goes all the way down and back up, with strong heat at the bottom.",
-        "come": "The path starts at Cachora, descends to the river and climbs towards Marampata. Stages are done with camps along the way.",
-        "quando": "Start at dawn to avoid the heat in the valley floor.",
-        "tempo": "2 days of walking each way",
-        "consiglio": "Mules for the luggage are worth every sol: the elevation change is felt a lot."
+        "nome": "The usnu",
+        "testo": "A ceremonial platform made by levelling the top of a small hill next to the plaza. From here you overlook the Apurímac canyon in every direction, and it is the spot where you understand why the Incas chose this ridge.",
+        "come": "A few minutes' walk uphill from the main plaza.",
+        "quando": "At dawn or sunset, when the clouds rise from the canyon.",
+        "tempo": "30 minutes",
+        "lat": -13.3951937,
+        "lng": -72.8739557
       },
       {
-        "nome": "Marampata and the camps along the trail",
-        "testo": "The village just before the site, with some families renting tent space and basic services. Lower down, Chiquisca and Santa Rosa are the classic stops.",
-        "come": "Along the trail, shortly before the site.",
-        "quando": "As an evening stop, before the last climb.",
+        "nome": "The Paqchayoq sector and the House of the Waterfall",
+        "testo": "The sector of farming terraces and channels on the east side of the site, with stone fountains that brought water down from the mountain. It is the part that best shows Inca hydraulic engineering, still readable in the channels cut into the rock.",
+        "come": "On the arrival path from Marampata, before the plaza: you pass it on the way up to the centre.",
+        "quando": "In the afternoon, as you enter the site from the trail.",
+        "tempo": "45 minutes",
+        "lat": -13.3946798,
+        "lng": -72.8659795
+      },
+      {
+        "nome": "Pikiwasi",
+        "testo": "A group of buildings on a spur west of the plaza, separate from the rest of the citadel. The tightly packed houses and the view of the river far below make it one of the most photographed corners.",
+        "come": "A short downhill path from the centre of the site.",
+        "quando": "Late afternoon.",
+        "tempo": "30-45 minutes",
+        "lat": -13.3960004,
+        "lng": -72.8726606
+      },
+      {
+        "nome": "The Hanan sector and the storehouses (qolqas)",
+        "testo": "The upper part of the citadel, with the finest residences and, just above, the row of storehouses where supplies were kept. From up here you see the layout of the whole site.",
+        "come": "Climbing north from the main plaza on stone steps.",
+        "quando": "Morning, before the heat.",
+        "tempo": "45 minutes-1 hour",
+        "lat": -13.391408,
+        "lng": -72.8744346
+      },
+      {
+        "nome": "The Apurímac canyon and Playa Rosalina",
+        "testo": "A very deep canyon: there are about 1,500 metres of height difference between the site and the river, and the trail goes all the way down and up again, with strong heat at the bottom. Playa Rosalina, at about 1,550 metres, is the lowest point: you cross the river on a bridge and start the climb towards Santa Rosa and Marampata.",
+        "come": "The trail starts at Capuliyoc, descends via Chiquisca to the Playa Rosalina bridge and climbs the other side.",
+        "quando": "Leave at dawn to avoid the heat in the valley bottom.",
+        "tempo": "2 days' walking there, 2 back",
+        "lat": -13.421926,
+        "lng": -72.8536551,
+        "consiglio": "Mules for the luggage are worth every sol: you feel the height difference a lot."
+      },
+      {
+        "nome": "Marampata",
+        "testo": "The village just before the site, at about 2,900 metres, at the end of the climb from Playa Rosalina. A few families rent tent pitches, showers and simple meals, and from here about an hour and a half of almost level trail remains to the citadel.",
+        "come": "Along the trail, after the climb from Santa Rosa.",
+        "quando": "As the overnight stop before or after the visit.",
         "tempo": "One night",
+        "lat": -13.4036824,
+        "lng": -72.8537793,
         "consiglio": "Bring cash in coins and small notes: there are no ATMs."
+      },
+      {
+        "nome": "Chiquisca and Santa Rosa",
+        "testo": "The two classic stops on either side of the canyon. Chiquisca, at about 1,950 metres, is the first camp coming down from Capuliyoc; Santa Rosa, at about 2,200, is halfway up the climb to Marampata, with a waterfall and a few families selling drinks and fruit.",
+        "come": "Along the main trail, with campsites for pitching tents.",
+        "quando": "Chiquisca as the first night on the way in; Santa Rosa as a lunch stop or to break up the climb.",
+        "tempo": "One night or a stop",
+        "lat": -13.4291838,
+        "lng": -72.8431954
+      },
+      {
+        "nome": "The Capuliyoc viewpoint",
+        "testo": "The starting point of the trail, at about 2,950 metres, with the control point where you pay the entry. From the viewpoint you see the Apurímac canyon for the first time and, on a clear day, the citadel on the opposite slope.",
+        "come": "By car or taxi from Cachora along the dirt road, or on foot.",
+        "quando": "At dawn on the first day of walking.",
+        "tempo": "30-minute stop",
+        "costo": "This is where you buy the site ticket, in cash and with your passport",
+        "lat": -13.4465049,
+        "lng": -72.8084702
+      },
+      {
+        "nome": "Cachora",
+        "testo": "The village where almost all treks start, with simple lodgings, a few shops and the muleteers who work with the agencies.",
+        "come": "About 4 hours by road from Cusco, by car or on the Abancay bus to the junction and then a taxi.",
+        "quando": "The evening before you set off.",
+        "tempo": "One night",
+        "lat": -13.5127736,
+        "lng": -72.8130405,
+        "consiglio": "A night here lets you sort out mules and luggage without rushing."
       }
     ],
     programmi: [
       {
-        "titolo": "4-5 days",
+        "titolo": "4 days (fast)",
+        "tappe": [
+          "Day 1: Cusco-Cachora by car, Capuliyoc, descent to Chiquisca or Playa Rosalina",
+          "Day 2: climb via Santa Rosa to Marampata and afternoon at the site",
+          "Day 3: dawn among the ruins, then back to Chiquisca",
+          "Day 4: climb to Capuliyoc and return to Cusco"
+        ]
+      },
+      {
+        "titolo": "5 days (recommended)",
         "tappe": [
           "Day 1: Cusco-Cachora by car, then descent towards the river and first camp",
           "Day 2: climb towards Marampata",
-          "Day 3: visit Choquequirao",
+          "Day 3: full day at Choquequirao, with the llama terraces and Pikiwasi",
           "Day 4: back towards Chiquisca or Santa Rosa",
           "Day 5: climb to Cachora and return to Cusco"
+        ]
+      },
+      {
+        "titolo": "8-9 days (traverse to Machu Picchu)",
+        "tappe": [
+          "Days 1-3: as on the classic trek to Choquequirao",
+          "Days 4-6: towards Pinchaunuyoc, Maizal and Yanama, over passes above 4,000 metres on little-used trails",
+          "Days 7-8: descent towards the Santa Teresa valley",
+          "Day 9: Aguas Calientes and Machu Picchu"
         ]
       }
     ],
     zone: [
       {
         "nome": "Cachora",
-        "perChi": "Those starting and preparing the trek",
-        "testo": "The starting village, with simple lodging and mules to hire. A night before leaving helps with the altitude."
+        "perChi": "Those setting off and preparing the trek",
+        "testo": "The starting village, with simple lodgings and mules for hire. A night here before leaving lets you get organised calmly and get used to the altitude."
       },
       {
-        "nome": "Camps on the trail (Chiquisca, Santa Rosa, Marampata)",
+        "nome": "Marampata",
+        "perChi": "Those who want to sleep close to the site",
+        "testo": "Campsites run by village families, with cold showers, simple meals and canyon views. It is the best base for entering the site early."
+      },
+      {
+        "nome": "Camps along the trail (Chiquisca, Santa Rosa, Playa Rosalina)",
         "perChi": "Walkers",
-        "testo": "Camping with basic services. Little comfort, a lot of silence."
+        "testo": "Camping with basic facilities. Little comfort, lots of silence; Playa Rosalina is hot and has more insects."
+      },
+      {
+        "nome": "Cusco",
+        "perChi": "Those travelling with an agency",
+        "testo": "Most treks leave Cusco at dawn: the night before and the night after are spent in the city, where you leave your big luggage."
       }
     ],
     sapori: [
@@ -1117,6 +1218,46 @@ export const destinazioniPeru: Destinazione[] = [
       "Not in the rainy season: the path on the canyon side becomes dangerous.",
       "No phone signal: leave your itinerary with someone.",
       "One night at the site is too little."
+    ],
+    gite: [
+      {
+        "nome": "Pinchaunuyoc",
+        "distanza": "about 1-1.5 hours on foot from the citadel, downhill",
+        "come": "On foot with the guide, on the trail that continues towards Yanama; added to the day at the site.",
+        "testo": "A small group of Inca terraces and houses on the mountainside beyond Choquequirao, where hardly anyone goes. The way back is all uphill."
+      },
+      {
+        "nome": "Saywite stone",
+        "distanza": "on the Cusco-Cachora road, just before the Cachora turn-off",
+        "come": "A stop by car on the way there or back; with an agency you can ask to stop.",
+        "testo": "An Inca monolith carved with hundreds of figures, terraces, channels and animals, thought to have been used for water rituals. A short stop that breaks up the hours on the road."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "How hard is the Choquequirao trek?",
+        "risposta": "It is considered harder than the Inca Trail and the Salkantay: you descend and climb about 1,500 metres on each side of the canyon, both ways, with strong heat at the bottom. Good fitness is needed."
+      },
+      {
+        "domanda": "Do I need a guide?",
+        "risposta": "It is not compulsory but recommended: the trail is marked, but without a guide you miss the meaning of the site's sectors. With an agency you also get mules, tents and meals."
+      },
+      {
+        "domanda": "How many days do I need?",
+        "risposta": "Four days is the minimum, five the most comfortable format, with a full day at the site. The traverse to Machu Picchu takes 8-9 days."
+      },
+      {
+        "domanda": "Where do I buy the ticket?",
+        "risposta": "At the Capuliyoc control point, at the start of the trail, in soles and in cash with your passport. On organised treks it is usually included."
+      },
+      {
+        "domanda": "When should I go to Choquequirao?",
+        "risposta": "From May to September, in the dry season. With the rains the trail becomes dangerous: in 2026 it was closed from February to April because of landslides."
+      },
+      {
+        "domanda": "Does the cable car exist yet?",
+        "risposta": "No. The project has been out to tender for years and in 2026 still has no construction date: today Choquequirao can only be reached on foot."
+      }
     ],
     esperienzeSlugs: ['trek-choquequirao'],
     tripSlugs: [],
@@ -1213,12 +1354,11 @@ export const destinazioniPeru: Destinazione[] = [
     doveDormire:
       'Lodges in the forest, almost always sold as a package with transfers, meals and excursions included. Distance from the city matters more than the luxury of the lodge: the farther up the river you go, the more wildlife you see.',
     doveMangiare: 'Meals included in the lodge packages.',
-    comeArrivare:
-      "Puerto Maldonado: flight from Cusco (a little over an hour) or from Lima. Iquitos: flight from Lima, or going up the river: there are no roads. Manu: from Cusco by land and then by boat, with two days of transfers.",
+    comeArrivare: "Puerto Maldonado: flight from Cusco (a little over an hour) or direct from Lima (about an hour and three quarters); alternatively about 10 hours by road from Cusco. The airport is a few kilometres from town and lodges pick guests up on arrival, with a stop at their office to leave big luggage before the boat. Iquitos: flight from Lima, or going up the river: no roads link it to the rest of the country. Manu: from Cusco by land and then by boat, with two days of transfers.",
     comeSpostarsi: 'Only by boat along the rivers and on foot along the trails, always accompanied by a lodge guide.',
     periodoMigliore:
       "From May to October (low water) the trails are more passable and wildlife concentrates along the waterways; from December to May (high water) you navigate deeper into the flooded forest. There is no rain-free season.",
-    costi: 'The main cost is the lodge package; the domestic flight from Cusco to Puerto Maldonado costs little if booked in time.',
+    costi: "Low budget about €80-100 a day per person: a simple expedition from Iquitos (3 days with Ruth Amazon Expedition 1,000 soles, about €255) or a lodge near Puerto Maldonado; mid-range about €100-180 a day in a Tambopata lodge package (roughly $300-600 for 3 nights with boat, meals and excursions); high from €250 a day in the farthest, best-equipped lodges or on a Manu expedition. On top, if not in the package, reserve entry: Tambopata and Pacaya-Samiria 30 soles (about €8) for one day, 60 soles (about €15) for 2-3 days (2026).",
     erroriDaEvitare: [
       'Choosing the lodge closest to the city because it costs less: it is the number one reason people come back saying "we didn\'t see anything"',
       'Going to the Amazon for two nights: the first and last days are almost entirely lost to transfers',
@@ -1231,9 +1371,14 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Puerto Maldonado and the Tambopata reserve",
         "testo": "The most convenient gateway to the Peruvian Amazon, with a flight from Cusco or Lima and then a boat to lodges in the reserve. Here Rick did the canopy walkway and the boat trip.",
-        "come": "Fly from Cusco or Lima, then a boat along the river. Lodges sell packages with transfers and excursions.",
+        "come": "Fly from Cusco or Lima, then a boat along the river. Lodges sell packages with transfers and excursions; entering the reserve requires an authorised operator, and you register at the control posts.",
         "quando": "The dry season has more walkable trails and wildlife concentrated along the rivers.",
         "tempo": "3-4 days",
+        "costo": "Tambopata National Reserve entry 30 soles (about €8) for one day, 60 soles (about €15) for 2-3 days, 150 soles (about €38) for 4 to 30 days, general rate 2026; often included in the lodge package",
+        "orari": "Daily 5:00-19:00",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+        "lat": -12.8384379,
+        "lng": -69.184041,
         "consiglio": "Choose a lodge far from the town: from the near ones you see very little."
       },
       {
@@ -1247,20 +1392,105 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Sandoval Lake",
         "testo": "A forest lake where you see birds and caimans and, with some luck, giant otters. You reach it with a walk in the forest and then by canoe.",
-        "come": "Excursion organised by the lodges, on foot plus canoe.",
+        "come": "About half an hour by boat from Puerto Maldonado, then about 3 km on foot, on boardwalk and trail, and the canoe on the lake. At the start of the trail is the control post with the visitor centre. Excursion organised by the lodges.",
         "quando": "Morning or late afternoon.",
         "tempo": "Half a day",
+        "costo": "Covered by the Tambopata National Reserve entry: 30 soles (about €8) for one day (2026)",
+        "orari": "Daily 5:00-19:00",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+        "lat": -12.6025946,
+        "lng": -69.0459929,
         "consiglio": "Bring repellent and a headlamp."
+      },
+      {
+        "nome": "Middle Tambopata lakes (Cocococha and Sachavacayoc)",
+        "testo": "Oxbow lakes further upstream, in the heart of the reserve, where giant otters and hoatzins are seen with fewer boats around than at Sandoval. They are the destination of lodges a few hours' boat ride from town.",
+        "come": "About 3 hours by boat from Puerto Maldonado up the Tambopata, then trails and canoe with the lodge guide.",
+        "quando": "At dawn, when wildlife is most active.",
+        "tempo": "Half a day from the lodge; at least 3 nights in the area",
+        "costo": "Reserve entry 60 soles (about €15) for 2-3 days (2026), usually in the package",
+        "orari": "Daily 5:00-19:00",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/",
+        "lat": -12.8166844,
+        "lng": -69.2612768
+      },
+      {
+        "nome": "Upper Tambopata: the Chuncho and Colorado clay licks",
+        "testo": "The large clay walls of the upper reserve, among the most visited by macaws and parrots in the whole Amazon. You get there only with the most remote lodges, and it is the area where the forest is least disturbed.",
+        "come": "About 5 and a half hours by boat from Puerto Maldonado, passing the La Torre and Malinowski control posts.",
+        "quando": "At dawn, in the dry season.",
+        "tempo": "4-5 days in total, with transfers",
+        "costo": "Reserve entry 150 soles (about €38) for 4 to 30 days (2026), usually in the package",
+        "url": "https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/"
+      },
+      {
+        "nome": "Lake Valencia",
+        "testo": "A large lake downstream from Puerto Maldonado, near the Bolivian border, where communities live from fishing. It is less visited than the Tambopata lakes and is mainly visited for fishing and birds.",
+        "come": "By boat along the Madre de Dios, with excursions from lodges in the area or with guides from Puerto Maldonado.",
+        "quando": "Early morning.",
+        "tempo": "A full day",
+        "lat": -12.4469969,
+        "lng": -68.8175589
+      },
+      {
+        "nome": "Central Puerto Maldonado",
+        "testo": "The transit town everyone passes through, with the Plaza de Armas and, nearby, the Obelisco, a tower with a viewpoint over the rooftops and the forest. Useful for an evening, for cash and for last supplies before the lodge.",
+        "come": "By mototaxi from the airport or the port, a few minutes.",
+        "quando": "At sunset, when the heat drops.",
+        "tempo": "1-2 hours",
+        "lat": -12.594238,
+        "lng": -69.1763811
       },
       {
         "nome": "Iquitos and Pacaya-Samiria",
         "testo": "Iquitos is the largest city in the world, outside islands, that cannot be reached by road: you arrive only by air or by river. From the city, expeditions leave for the Pacaya-Samiria reserve, where Rick went with Ruth Amazon Expedition: nights in farmers' houses and in tents in the forest.",
-        "come": "Flight from Lima or boat along the river. From Iquitos tours leave from agencies and lodgings.",
+        "come": "Flight from Lima or boat along the river. From Iquitos tours leave from agencies and lodgings: about 2 hours by road to Nauta, then the boat to the reserve's control posts. Entry is allowed only with an authorised operator.",
         "quando": "All year; the dry season makes the trails easier.",
         "tempo": "3-4 days for an expedition",
-        "costo": "3 days 1,000 soles, 4 days 1,350 soles per person with Ruth Amazon Expedition (November 2026)",
+        "costo": "3 days 1,000 soles, 4 days 1,350 soles per person with Ruth Amazon Expedition (November 2026); reserve entry 60 soles (about €15) for 2-3 days, 150 soles from 4 days (2026)",
+        "orari": "Reserve: daily 6:00-17:00",
         "url": "https://ruthamazonexpeditions.com/",
+        "lat": -5.3089375,
+        "lng": -74.9631727,
         "consiglio": "Sleeping in a tent in the forest is not for everyone: consider it before leaving. Belén market can be visited on your own but with care."
+      },
+      {
+        "nome": "Plaza de Armas and Casa de Fierro, Iquitos",
+        "testo": "The centre of the rubber city, with the square, the cathedral and the Casa de Fierro, a building of iron sheets shipped in pieces from Europe at the end of the 19th century and traditionally attributed to the Eiffel school. Around it stand the rubber barons' mansions with azulejo-tiled façades.",
+        "come": "On foot in the centre; mototaxis for getting around.",
+        "quando": "Morning or evening, avoiding the hottest hours.",
+        "tempo": "1-2 hours",
+        "lat": -3.7499142,
+        "lng": -73.2440721
+      },
+      {
+        "nome": "Belén and its market",
+        "testo": "The largest market in Iquitos, with river fish, jungle fruit, medicinal herbs and meats you do not see elsewhere. Below it lies the district of stilt houses and rafts that floats on the river when the water is high.",
+        "come": "On foot or by mototaxi from the centre. The floating district is visited by canoe with a local guide.",
+        "quando": "Early morning, when the market is in full swing.",
+        "tempo": "1-2 hours",
+        "lat": -3.7621564,
+        "lng": -73.2484532,
+        "consiglio": "No valuables on show and keep your bag in front: pickpocketing is common. Do not buy wild animals or products made from protected species."
+      },
+      {
+        "nome": "Malecón Tarapacá and the Museum of Amazonian Indigenous Cultures",
+        "testo": "The Iquitos riverfront, with views over the Itaya and colonial houses, is the evening stroll. On the malecón stands the museum devoted to the indigenous peoples of the Amazon, with objects, clothing and tools from dozens of different groups.",
+        "come": "On foot from the Plaza de Armas, a few minutes.",
+        "quando": "The museum by day, the malecón at sunset.",
+        "tempo": "1-1.5 hours",
+        "lat": -3.7519167,
+        "lng": -73.2440383
+      },
+      {
+        "nome": "Pilpintuwasi",
+        "testo": "A butterfly farm and rescue centre for animals taken from trafficking, near the village of Padre Cocha on the Nanay river. You see Amazonian butterflies at every stage and animals such as monkeys and sloths housed after being confiscated.",
+        "come": "From Iquitos by mototaxi to the Bellavista-Nanay port, then a boat to Padre Cocha and a short walk.",
+        "quando": "Morning.",
+        "tempo": "Half a day with the transfer",
+        "url": "https://www.pilpintuwasi.com/",
+        "lat": -3.7042106,
+        "lng": -73.2828074
       },
       {
         "nome": "Manu",
@@ -1268,6 +1498,8 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "From Cusco by road and then by boat, with a long transfer.",
         "quando": "Dry season.",
         "tempo": "6-8 days",
+        "lat": -11.85638889,
+        "lng": -71.72138889,
         "consiglio": "Choose it only with at least a week and a high budget."
       }
     ],
@@ -1281,24 +1513,53 @@ export const destinazioniPeru: Destinazione[] = [
         ]
       },
       {
+        "titolo": "5 days (Upper Tambopata)",
+        "tappe": [
+          "Day 1: flight to Puerto Maldonado and boat to a Middle Tambopata lodge",
+          "Day 2: Cocococha or Sachavacayoc lakes and journey upriver",
+          "Day 3: Colorado or Chuncho clay lick at dawn, forest trails",
+          "Day 4: night outing and trip back down the river",
+          "Day 5: Sandoval Lake or straight back and flight"
+        ]
+      },
+      {
         "titolo": "4 days (Iquitos and Pacaya-Samiria)",
         "tappe": [
           "Day 1: Iquitos and transfer by boat",
           "Days 2-3: boat trips, walks and nights in the forest",
           "Day 4: return to Iquitos"
         ]
+      },
+      {
+        "titolo": "1 day in Iquitos",
+        "tappe": [
+          "Morning: Belén market and, by canoe, the floating district",
+          "Lunch: river fish or juane",
+          "Afternoon: boat from Bellavista-Nanay to Pilpintuwasi",
+          "Evening: Plaza de Armas, Casa de Fierro and the Tarapacá malecón"
+        ]
       }
     ],
     zone: [
       {
-        "nome": "Lodges far from the city",
-        "perChi": "Those who want to see wildlife",
-        "testo": "The farther up the river, the more you see. They cost more and need more hours by boat."
+        "nome": "Lodges at Sandoval Lake and on the lower Madre de Dios",
+        "perChi": "Those with 3 days who want short transfers",
+        "testo": "Half an hour to an hour by boat from Puerto Maldonado. Convenient, but wildlife is more disturbed: fine for a first time."
       },
       {
-        "nome": "Puerto Maldonado and Iquitos",
-        "perChi": "Those who need logistics",
-        "testo": "Transit cities with simple lodging, heat and mototaxi noise."
+        "nome": "Middle and Upper Tambopata lodges",
+        "perChi": "Those who want to see wildlife",
+        "testo": "The farther up the river, the more you see: otters in the lakes and macaw clay licks. They cost more and need from 3 to over 5 hours by boat."
+      },
+      {
+        "nome": "Puerto Maldonado",
+        "perChi": "Those arriving late or leaving early",
+        "testo": "Transit town with simple lodging, heat and mototaxi noise. A night is only needed if flight times do not match the boat."
+      },
+      {
+        "nome": "Central Iquitos and the malecón",
+        "perChi": "Those heading to Pacaya-Samiria or the Amazon river",
+        "testo": "The centre around the Plaza de Armas and the malecón is the most convenient area for agencies, restaurants and mototaxis; evenings are lively."
       }
     ],
     sapori: [
@@ -1321,6 +1582,52 @@ export const destinazioniPeru: Destinazione[] = [
       "Two nights are too few: the first and last days go in transfers.",
       "Areas bordering Ecuador, Colombia and Brazil: higher risk from drug-related crime, follow official travel advice.",
       "Ayahuasca and San Pedro ceremonies in Iquitos: they are unregulated, and official advice reports serious illness, deaths and assaults."
+    ],
+    gite: [
+      {
+        "nome": "Sandoval Lake from Puerto Maldonado",
+        "distanza": "about 30 minutes by boat plus 3 km on foot",
+        "come": "With a lodge or an authorised guide, leaving from the Puerto Maldonado port.",
+        "testo": "If you are not staying at Sandoval you can do it as a day trip from town: giant otters, caimans and birds, back in the afternoon."
+      },
+      {
+        "nome": "Nauta and the birth of the Amazon",
+        "distanza": "about 2 hours by road from Iquitos",
+        "come": "By bus, colectivo or on a tour; from Nauta boats go to the confluence.",
+        "testo": "Just past Nauta the Marañón and the Ucayali meet, and from there the river takes the name Amazon. Boats for Pacaya-Samiria also leave from Nauta."
+      },
+      {
+        "nome": "Pilpintuwasi and the Nanay river",
+        "distanza": "a short boat ride from the Bellavista-Nanay port",
+        "come": "Mototaxi to the port, then a shared or private boat to Padre Cocha.",
+        "testo": "Half a day from Iquitos between the butterfly farm, the rescued animals and the riverside village."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Puerto Maldonado, Iquitos or Manu?",
+        "risposta": "With 3-4 days and an Andean circuit, Puerto Maldonado: you get there on a short flight from Cusco or Lima. Iquitos makes sense with a week to devote to the river, Manu only with 6-8 days and a high budget."
+      },
+      {
+        "domanda": "How many days do I need in the Amazon?",
+        "risposta": "At least 3 days and 2 nights, better 4: the first and last days go almost entirely on transfers. Upper Tambopata or Pacaya-Samiria need 4-5."
+      },
+      {
+        "domanda": "Do I need the yellow fever vaccine?",
+        "risposta": "It is recommended for the Amazon and some lodges ask for the certificate. It should be done at least 10 days before leaving, after talking to your doctor."
+      },
+      {
+        "domanda": "How much is reserve entry?",
+        "risposta": "For Tambopata and Pacaya-Samiria the 2026 general rate is 30 soles for one day, 60 for 2-3 days and 150 for 4 to 30 days. It is often already included in the lodge or expedition package."
+      },
+      {
+        "domanda": "Can I go to the Amazon without an agency?",
+        "risposta": "In town yes, but entry to the Tambopata and Pacaya-Samiria reserves is allowed only with a Sernanp-authorised operator. Choose it in advance, checking how far the lodge is."
+      },
+      {
+        "domanda": "When is the best time to go?",
+        "risposta": "From May to October, with low water, trails are more passable and wildlife gathers along the rivers; from December to May you boat through the flooded forest. It rains in every month."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],

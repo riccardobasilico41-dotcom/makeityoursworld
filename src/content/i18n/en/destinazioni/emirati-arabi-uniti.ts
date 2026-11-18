@@ -748,12 +748,11 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "In Liwa there are few resorts in the desert, expensive and to be booked in advance; Al Ain has the normal offering of a city. Almost everyone comes from Abu Dhabi for the day, and it's the choice that makes you miss the best part: the night.",
     doveMangiare:
       "Outside the resorts there are neighborhood restaurants, almost all Indian or Pakistani, good and cheap. In Al Ain, look for the local dates, the oasis's agricultural product, sold in specialized markets.",
-    comeArrivare:
-      "From Abu Dhabi it's about 2 hours by road to Liwa and 1 hour 30 minutes to Al Ain. You need a rental car or a transfer: public transport exists but is impractical, and for the dunes you need a 4x4 with a guide anyway.",
+    comeArrivare: "From Abu Dhabi it is about 2 hours by road to Liwa and an hour and a half to Al Ain; between Liwa and Al Ain there are about 320 km and 3 hours. You need a hire car or a transfer: public transport exists but is impractical, and for the dunes you need a 4x4 with a guide anyway. If you fly in, use Abu Dhabi airport (AUH).",
     comeSpostarsi: "By your own car on paved roads; on the dunes only in a 4x4 with an experienced driver. Anyone driving on sand without experience usually gets stuck.",
     periodoMigliore:
       "November to March, and even then nights in the desert are cold. In summer the interior often tops 50 degrees (122 °F).",
-    costi: "Al Ain oasis and forts free or nearly so; the expensive item is the resorts in the desert.",
+    costi: "Al Ain Oasis, Al Jahili Fort and Qasr Al Muwaiji are free, the zoo costs from 31.5 AED (about 7 €); the expensive item is the desert resorts. Indicative daily budget per person: low 60-80 € (city hotel in Al Ain in a double room, shared car, Indian restaurants); mid 130-200 € (better hotel, 4x4 trip on the dunes); high 400 € and up (resort at Liwa or Qasr Al Sarab).",
     erroriDaEvitare: [
       "Mistaking an evening safari around Dubai for the desert: those are done on small dunes half an hour from the city, here you're on the edge of the Rub' al-Khali",
       "Driving on sand without experience and without a second vehicle: it's the most common way of ending up in trouble",
@@ -764,40 +763,150 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Moreeb dunes and Liwa",
-        "testo": "The edge of the Rub' al-Khali, the sand desert of the southern Arabian Peninsula, with very high dunes; Moreeb, about 25 km south of the Liwa oasis and about 300 metres high, is the tallest in the Emirates. There are no evening safaris here: you need a night in the desert.",
-        "come": "By car or on a tour from Abu Dhabi; off-road you need a 4x4 and experience.",
+        "testo": "The edge of the Rub' al-Khali, the sand desert of the southern Arabian peninsula. Moreeb, about 25 km south of Liwa Oasis, is the highest dune in the Emirates: about 300 metres, with a 50-degree slope, where the festival with hill-climb races is held. There are no evening safaris here: you need a night in the desert.",
+        "come": "By car from Abu Dhabi, about 2 hours to Liwa, then 29 km and about 45 minutes to Moreeb on a paved road; off-road you need a 4x4 and experience.",
         "quando": "Dawn and sunset.",
         "tempo": "1-2 days",
-        "consiglio": "Do not drive on sand without experience and without a second vehicle."
+        "consiglio": "Do not drive on sand without experience and without a second vehicle.",
+        "lat": 22.97967,
+        "lng": 53.78622
       },
       {
         "nome": "Al Ain Oasis",
-        "testo": "Part of the UNESCO Cultural Sites of Al Ain since 2011: over 147,000 date palms across more than 1,200 hectares, watered by falaj channels, a system thousands of years old. You walk in the shade hearing the water run.",
+        "testo": "The largest of the six Al Ain oases on the UNESCO World Heritage list since 2011: more than 147,000 date palms of over 100 varieties on 136 hectares, watered by the falaj channels, a system thousands of years old. You walk in the shade listening to the water running.",
         "come": "By car from Abu Dhabi. The oasis is explored on foot.",
         "quando": "Morning.",
-        "tempo": "2 hours"
+        "tempo": "2 hours",
+        "orari": "Daily 9am-7pm",
+        "costo": "Free entry, guided tours paid (2026)",
+        "url": "https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/al-ain-oases",
+        "lat": 24.217,
+        "lng": 55.762
       },
       {
         "nome": "Al Jahili Fort and the Hili sites",
-        "testo": "Al Jahili Fort, built around 1891, with its watchtowers, and the Hili Archaeological Park, one of the main Bronze Age sites in the Emirates, with tombs from the 3rd millennium BC, part of the UNESCO World Heritage Site.",
+        "testo": "Al Jahili Fort, built in 1891 by Sheikh Zayed bin Khalifa to protect the palm growers, later a base of the Trucial Oman Scouts in the 1950s. A few kilometres away is Hili Archaeological Park, one of the main Bronze Age sites in the Emirates, with tombs from the 3rd millennium BC, part of the UNESCO site.",
         "come": "By car from Al Ain.",
         "quando": "Morning.",
-        "tempo": "2 hours"
+        "tempo": "2 hours",
+        "orari": "Al Jahili Fort 9am-7pm; closed on the first day of Eid al-Fitr and Eid al-Adha",
+        "costo": "Al Jahili Fort free (2026)",
+        "url": "https://abudhabiculture.ae/en/Cultural-Sites/Historic-Buildings-And-Cultural-Landscapes/Al-Jahili-Fort",
+        "lat": 24.21611,
+        "lng": 55.7525
       },
       {
         "nome": "Jebel Hafeet",
-        "testo": "The mountain above Al Ain, with an 11.7 km scenic road of 60 bends up to the car park at the top, overlooking the city.",
+        "testo": "The only mountain in the emirate of Abu Dhabi, on the border with Oman, with an 11.7 km scenic road and 60 bends up to the car park at the top, from where you see the city. It gave its name to the Hafit period of the Bronze Age (3200-2600 BC), after the tombs found on its slopes.",
         "come": "By car from Al Ain.",
         "quando": "Sunset.",
-        "tempo": "1-2 hours"
+        "tempo": "1-2 hours",
+        "lat": 24.05861,
+        "lng": 55.7775
+      },
+      {
+        "nome": "Al Ain Museum",
+        "testo": "Founded in 1969 by Sheikh Zayed, it is the first purpose-built museum in the Emirates: archaeology and history of Al Ain, from the Bronze Age to life in the oasis. It is in the historic Harat Al Hosn quarter, east of the oasis.",
+        "come": "On foot from the eastern entrance of the oasis.",
+        "quando": "Morning, before the oasis.",
+        "tempo": "1.5 hours",
+        "orari": "Daily 9am-7pm; during Ramadan 10am-10pm",
+        "url": "https://abudhabiculture.ae/en/cultural-sites/museums/al-ain-museum",
+        "lat": 24.21615,
+        "lng": 55.77376
+      },
+      {
+        "nome": "Qasr Al Muwaiji",
+        "testo": "The fort in central Al Ain where Sheikh Khalifa bin Zayed, second president of the Emirates, was born, and from where Sheikh Zayed governed the eastern region. Inside is an exhibition on the family's history.",
+        "come": "By taxi or car, in the city centre.",
+        "quando": "Afternoon.",
+        "tempo": "45 minutes",
+        "orari": "9am-7pm; during Ramadan 10am-10pm",
+        "costo": "Free entry (2026)",
+        "lat": 24.225,
+        "lng": 55.72694
+      },
+      {
+        "nome": "Sheikh Zayed Palace Museum",
+        "testo": "The former residence of the ruling family, built in 1937 and extended by Sheikh Zayed, turned into a house museum in 2001. It tells the story of 20th-century life in the Emirates, next to the oasis.",
+        "come": "On foot from the western edge of Al Ain Oasis.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "orari": "Closed for renovation since 1 July 2024: check whether it has reopened before going",
+        "costo": "Free entry (2026)",
+        "lat": 24.21583,
+        "lng": 55.77389
+      },
+      {
+        "nome": "Al Ain Zoo",
+        "testo": "A 400-hectare wildlife park at the foot of Jebel Hafeet, with animals from deserts and savannahs. It closes for a few weeks in summer.",
+        "come": "By car or taxi, south of the city.",
+        "quando": "Early morning or late afternoon, when the animals are most active.",
+        "tempo": "3 hours",
+        "costo": "From 31.5 AED for adults, about 7 € (2026)",
+        "url": "https://visitabudhabi.ae/where-to-go/parks-and-zoos/al-ain-zoo",
+        "lat": 24.17608,
+        "lng": 55.73849
+      },
+      {
+        "nome": "Green Mubazzarah",
+        "testo": "The green park at the foot of Jebel Hafeet, with lawns, hot springs and small lakes. It goes well with the drive up the mountain.",
+        "come": "By car, at the bottom of the Jebel Hafeet road.",
+        "quando": "Late afternoon, before sunset at the top.",
+        "tempo": "1 hour",
+        "lat": 24.10253,
+        "lng": 55.75042
+      },
+      {
+        "nome": "Al Ain Camel Market",
+        "testo": "One of the last traditional camel markets in the Emirates, where breeders and buyers deal in the morning. It is not an attraction built for tourists.",
+        "come": "By car, on the south-eastern outskirts of the city.",
+        "quando": "Early morning, when the trucks arrive.",
+        "tempo": "45 minutes",
+        "costo": "Free entry (2026)",
+        "lat": 24.16167,
+        "lng": 55.81468
+      },
+      {
+        "nome": "Jebel Hafit Desert Park",
+        "testo": "The park on the slopes of Jebel Hafeet with Bronze Age beehive tombs, about five thousand years old, some of them restored. There are trails, bike hire and camping.",
+        "come": "By car from Al Ain towards the Oman border.",
+        "quando": "Morning, in the cool months.",
+        "tempo": "2 hours",
+        "orari": "Daily 8am-6pm"
+      },
+      {
+        "nome": "Liwa Oasis and Mezairaa Fort",
+        "testo": "The crescent of villages and palm groves stretching for tens of kilometres along the edge of the dunes, the cradle of Abu Dhabi's ruling family. Mezairaa Fort stands in the oasis's main town.",
+        "come": "By car from Abu Dhabi, about 2 hours.",
+        "quando": "Late afternoon, before going up the dunes.",
+        "tempo": "1-2 hours",
+        "lat": 23.13891,
+        "lng": 53.78048
       }
     ],
     programmi: [
       {
+        "titolo": "1 day in Al Ain",
+        "tappe": [
+          "Morning: Al Ain Museum and the oasis along the falaj",
+          "Afternoon: Al Jahili Fort and Qasr Al Muwaiji",
+          "Sunset: Green Mubazzarah and the drive up Jebel Hafeet"
+        ]
+      },
+      {
         "titolo": "2 days",
         "tappe": [
+          "Day 1: Abu Dhabi to Liwa, the oasis and Mezairaa Fort, night in the desert",
+          "Day 2: sunrise on the Moreeb dunes, then back to Abu Dhabi"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
           "Day 1: Abu Dhabi to Liwa, night in the desert",
-          "Day 2: dawn on the Moreeb dunes, then Al Ain, oasis and fort"
+          "Day 2: sunrise at Moreeb, transfer to Al Ain (about 3 hours)",
+          "Day 3: Al Ain as in the one-day plan, with the camel market early in the morning"
         ]
       }
     ],
@@ -805,12 +914,17 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Camps and resorts at Liwa",
         "perChi": "those who want the real desert",
-        "testo": "A few resorts, some luxury, in the middle of the dunes."
+        "testo": "A few resorts, some of them luxury, among the dunes or on the edge of the oasis: book ahead in the cool months."
       },
       {
         "nome": "Al Ain",
         "perChi": "those who want the oasis",
-        "testo": "City hotels and cheap Indian and Pakistani restaurants."
+        "testo": "City hotels and cheap Indian and Pakistani restaurants. Handy for the oasis, the forts and Jebel Hafeet."
+      },
+      {
+        "nome": "Abu Dhabi",
+        "perChi": "those going there and back in a day",
+        "testo": "Al Ain is an hour and a half's drive, Liwa two hours: you can sleep in the city, but at Liwa you miss the night in the desert."
       }
     ],
     sapori: [
@@ -836,6 +950,42 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Driving on sand without experience and without a second vehicle.",
       "Coming for the day and skipping the night, which is the reason to go to Liwa.",
       "In summer the interior is extremely hot: come between November and March."
+    ],
+    gite: [
+      {
+        "nome": "Al-Buraimi (Oman)",
+        "distanza": "just across the border, joined to Al Ain",
+        "come": "By car through the border crossing, with a passport; check Oman's entry rules and car insurance beforehand.",
+        "testo": "The Omani oasis town twinned with Al Ain, with forts and historic houses: Al-Khandaq Fort, the «trench» fort, is the town's symbol."
+      },
+      {
+        "nome": "Qasr Al Sarab",
+        "distanza": "81 km from Liwa, about 1 hour 20 by car",
+        "come": "By car on a paved road through the dunes.",
+        "testo": "A resort built like a fort in the middle of the Rub' al-Khali, south-east of Liwa. The road there is the easiest way to cross the Empty Quarter without a 4x4."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Liwa or Al Ain?",
+        "risposta": "They are two different things: Liwa is the real desert, Al Ain the oasis and the history. With one day only, Al Ain is closer and easier; with two, a night at Liwa is worth the detour."
+      },
+      {
+        "domanda": "Can you do Liwa as a day trip from Abu Dhabi?",
+        "risposta": "You can, with about 2 hours' driving each way, but you miss the best part: sunset and night on the dunes. Better to sleep at least one night."
+      },
+      {
+        "domanda": "Do you need a 4x4?",
+        "risposta": "Not on paved roads, but yes on the dunes, with an experienced driver. People who drive on sand without experience usually get stuck."
+      },
+      {
+        "domanda": "Do Al Ain's sites charge entry?",
+        "risposta": "The oasis, Al Jahili Fort and Qasr Al Muwaiji are free; you pay for guided tours and the zoo, from 31.5 AED."
+      },
+      {
+        "domanda": "When should you go?",
+        "risposta": "From November to March. In summer the interior often goes above 50 degrees, and even in winter desert nights are cold."
+      }
     ],
     // GUIDA-END
     esperienzeSlugs: [],

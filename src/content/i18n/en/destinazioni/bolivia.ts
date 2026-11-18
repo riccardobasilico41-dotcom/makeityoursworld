@@ -579,11 +579,10 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     doveDormire: "Copacabana for convenient connections; Isla del Sol for the most evocative night, in basic lodgings without heating.",
     doveMangiare: 'Trucha (lake trout) almost everywhere, on the Copacabana lakefront.',
-    comeArrivare:
-      "Bus from Puno (Peru) with a crossing at the Kasani border, about 3-4 hours in total; from La Paz about 4 hours, with the crossing of the Tiquina Strait on a barge.",
+    comeArrivare: "Bus from Puno (Peru) with a crossing at the Kasani border, about 3-4 hours in total: the crossing closes in the evening, the customs office breaks for lunch, and entering Bolivia now requires online pre-registration. From La Paz about 3.5-4 hours by tourist bus or minibus, crossing the Tiquina Strait: the vehicle goes over on a wooden barge while passengers cross separately on a small boat, paying a few bolivianos. Copacabana has few ATMs: arrive with cash.",
     comeSpostarsi: 'Shared boats from Copacabana to Isla del Sol; on the island there are no vehicles: you walk, always uphill.',
     periodoMigliore: 'May-October for the sun; at 3,800 meters nights are cold all year',
-    costi: 'very cheap: boat to the island a few dollars, plus small entrance fees collected by the local communities',
+    costi: "Low budget about €15-25 a day (hostel or simple room, trucha on the lakefront, shared boats); mid-range about €35-60 (lake-view hotel in Copacabana, restaurant meals, a guide at Tiwanaku); high from €90 (better hotel, private boat to Isla del Sol and Isla de la Luna, car with driver from La Paz). In cash: Tiwanaku single ticket about 100 bolivianos (about €13) for foreigners, covering sites and museums; Tiquina boat a few bolivianos; small community tolls on Isla del Sol.",
     erroriDaEvitare: [
       "Planning Isla del Sol as a day trip from Copacabana: boat schedules leave few useful hours and you miss the best part",
       "Taking access to the whole island for granted: tensions between communities have at times limited passage to the northern part, so it's best to ask on the spot",
@@ -594,47 +593,139 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Copacabana Basilica",
-        "testo": "A pilgrimage destination devoted to the Virgen de Copacabana, in a slightly shabby town with a soul.",
-        "come": "On foot from the lakefront.",
-        "quando": "Morning.",
+        "testo": "A pilgrimage destination devoted to the Virgen de Copacabana, in a slightly shabby town with a soul. The white church with tiled domes houses the statue of the Virgin, and in front of it, at weekends, flower-decked cars are blessed.",
+        "come": "On foot from the lakefront, a few blocks uphill.",
+        "quando": "Morning; at weekends for the blessing of the cars.",
         "tempo": "1 hour",
+        "costo": "free entry",
+        "lat": -16.1665754,
+        "lng": -69.0856364,
         "consiglio": "Copacabana is the natural entry from Peru."
       },
       {
         "nome": "Cerro Calvario",
-        "testo": "The hill above the town, for sunset over the lake.",
-        "come": "On foot from the centre, a short but steep climb.",
+        "testo": "The hill above the town, for sunset over the lake. The path climbs past the Stations of the Cross to the top, from where you see the bay, the town and, on clear days, the islands.",
+        "come": "On foot from the centre, a short but steep climb: about 30-40 minutes.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
+        "lat": -16.161688,
+        "lng": -69.091294,
         "consiglio": "At about 3,800 metres the climb tires: go slowly."
+      },
+      {
+        "nome": "Horca del Inca",
+        "testo": "A small site on the hill opposite the Calvario, with two upright stones and a crossbar thought to have been used to observe the sun and the seasons. Less visited than the Calvario, with a fine view of the town.",
+        "come": "On foot from the centre, climbing on the south side of town along a steep path among the rocks.",
+        "quando": "Early morning.",
+        "tempo": "1 hour",
+        "lat": -16.1712441,
+        "lng": -69.0846377
       },
       {
         "nome": "Isla del Sol: Chincana and Roca Sagrada",
         "testo": "The Chincana ruins and the Roca Sagrada, at the northern end of the island where tradition says the sun and the first Inca were born.",
-        "come": "Shared boat from Copacabana. There are no motor vehicles or paved roads on the island.",
+        "come": "Shared boat from Copacabana to Challapampa, about an hour and a half to two hours, then on foot. There are no motor vehicles or paved roads on the island.",
         "quando": "Morning and sunset.",
         "tempo": "Half a day",
         "costo": "Boat plus small entry fees collected by the communities: carry cash",
+        "lat": -15.99027778,
+        "lng": -69.20277778,
         "consiglio": "Ask locally whether the passage to the northern part is open: tensions between communities have at times limited it."
       },
       {
         "nome": "The Isla del Sol ridge path",
         "testo": "The path along the island's ridge from north to south among terraces and ruins.",
-        "come": "On foot, always uphill and at high altitude.",
+        "come": "On foot, always uphill and at high altitude. The communities charge a small toll for each sector.",
         "quando": "Morning and sunset.",
         "tempo": "3-4 hours",
+        "costo": "Small community tolls, in cash",
+        "lat": -16.0179647,
+        "lng": -69.177019,
         "consiglio": "Sleeping one night on the island changes everything: day boats arrive and leave all together, and then the island goes quiet again."
       },
       {
+        "nome": "Yumani, the Inca Stairway and the Fountain",
+        "testo": "The village in the south of the island, where most boats land. From the pier a long Inca stairway climbs beside the fountain, its water running down three channels, up to the houses and lodgings on the ridge.",
+        "come": "Shared boat from Copacabana to the Yumani pier, then uphill on foot.",
+        "quando": "At dawn, before the day groups arrive.",
+        "tempo": "1 hour",
+        "lat": -16.0387107,
+        "lng": -69.1452634,
+        "consiglio": "Leave your big backpack in Copacabana: the stairway at altitude is hard with weight."
+      },
+      {
+        "nome": "Pilko Kaina",
+        "testo": "A two-storey Inca building on the island's south coast, with trapezoidal doors and niches and a view over the lake. It is a short distance from Yumani and pairs well with the stairway.",
+        "come": "On foot from Yumani, about half an hour along the coastal path southwards.",
+        "quando": "Morning or late afternoon.",
+        "tempo": "1-1.5 hours with the walk",
+        "costo": "Small community toll, in cash",
+        "lat": -16.0486735,
+        "lng": -69.1442118
+      },
+      {
+        "nome": "Challapampa museum",
+        "testo": "A small museum in the village in the north of the island, with objects found in the lake and on the island: ceramics, gold figures and Tiwanaku and Inca pieces. It is the starting point for the walk up to Chincana.",
+        "come": "In the village of Challapampa, near the north pier.",
+        "quando": "Before walking up to the ruins.",
+        "tempo": "30 minutes",
+        "lat": -15.9973662,
+        "lng": -69.1830501
+      },
+      {
+        "nome": "Isla de la Luna and Iñak Uyu",
+        "testo": "The smaller island east of Isla del Sol, linked in tradition to the moon. The Iñak Uyu site, called the palace of the Virgins of the Sun, keeps walls and niches of an Inca complex overlooking the water.",
+        "come": "Boat from Copacabana or Yumani; many boats combine it with Isla del Sol in a day.",
+        "quando": "Morning, when the lake is calmer.",
+        "tempo": "1-2 hours on the island",
+        "costo": "Small community toll, in cash",
+        "lat": -16.0388573,
+        "lng": -69.0712132
+      },
+      {
+        "nome": "Tiquina Strait",
+        "testo": "The narrowest point of the lake, between San Pedro and San Pablo de Tiquina, on the road between La Paz and Copacabana. Buses and cars cross on wooden barges and people on separate small boats: a short crossing that stays with you.",
+        "come": "On the La Paz-Copacabana road: you get off the bus, cross by small boat and get back on on the other shore.",
+        "quando": "By day, on the way.",
+        "tempo": "20-30 minutes",
+        "costo": "Passenger boat, a few bolivianos",
+        "lat": -16.22172222,
+        "lng": -68.85297222
+      },
+      {
         "nome": "Tiwanaku",
-        "testo": "The ruins of a civilisation older than the Incas, on the road to La Paz.",
-        "come": "By tour or taxi from the road to La Paz.",
+        "testo": "The ruins of a civilisation older than the Incas, on the road to La Paz. You see the semi-subterranean temple with heads carved into its walls, the Kalasasaya platform with the Gate of the Sun and the Akapana pyramid; the two museums, lithic and ceramic, help you understand what you are looking at.",
+        "come": "By tour or taxi from the La Paz road. You walk around; a guide is recommended.",
         "quando": "Morning.",
         "tempo": "2-3 hours",
+        "costo": "Single ticket about 100 bolivianos (about €13) for foreigners, with Kalasasaya, Puma Punku and the museums",
+        "url": "https://tiwanaku.gob.bo/",
+        "lat": -16.5547893,
+        "lng": -68.6734268,
         "consiglio": "It combines with the return to La Paz."
+      },
+      {
+        "nome": "Puma Punku",
+        "testo": "The second sector of Tiwanaku, a few minutes from the Kalasasaya, with andesite and sandstone blocks cut with extremely precise angles and joints, scattered on the ground like the pieces of a dismantled puzzle.",
+        "come": "On foot from the main sector, about 10-15 minutes; same ticket as Tiwanaku.",
+        "quando": "Morning, after the Kalasasaya.",
+        "tempo": "45 minutes",
+        "costo": "Included in the Tiwanaku single ticket",
+        "url": "https://tiwanaku.gob.bo/",
+        "lat": -16.5616896,
+        "lng": -68.6795893
       }
     ],
     programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Copacabana Basilica and the lakefront",
+          "Morning boat to Yumani, the Inca Stairway and Pilko Kaina",
+          "Afternoon boat back to Copacabana",
+          "Sunset from Cerro Calvario"
+        ]
+      },
       {
         "titolo": "2 days",
         "tappe": [
@@ -647,20 +738,34 @@ export const destinazioniBolivia: Destinazione[] = [
         "tappe": [
           "Day 1: Copacabana",
           "Day 2: Isla del Sol, night on the island",
-          "Day 3: dawn on the island and return to Copacabana, then La Paz"
+          "Day 3: dawn on the island and back to Copacabana, then La Paz"
+        ]
+      },
+      {
+        "titolo": "Along the La Paz-Copacabana road",
+        "tappe": [
+          "Morning: Tiwanaku, with the Kalasasaya, Puma Punku and the museums",
+          "Lunch and transfer towards the lake",
+          "Afternoon: crossing the Tiquina Strait",
+          "Evening: arrival in Copacabana and a trucha dinner"
         ]
       }
     ],
     zone: [
       {
         "nome": "Copacabana",
-        "perChi": "Those who want connections and convenience",
-        "testo": "More convenient for transport. Cold nights at altitude."
+        "perChi": "Those after connections and comfort",
+        "testo": "Handiest for transport, with lodgings on the lakefront and along the street up to the basilica. Cold nights at altitude."
       },
       {
-        "nome": "Isla del Sol",
-        "perChi": "Those who want the most atmospheric night",
-        "testo": "Simple lodgings with no heating. Everything uphill."
+        "nome": "Isla del Sol, Yumani",
+        "perChi": "Those after the most atmospheric night",
+        "testo": "The south of the island, with most lodgings at the top of the stairway. Simple places without heating. Everything uphill."
+      },
+      {
+        "nome": "Isla del Sol, Challapampa",
+        "perChi": "Those who want to be near the northern ruins",
+        "testo": "The beach village in the north, smaller and quieter, an hour's walk from Chincana. Before sleeping there, ask whether the passage north is open."
       }
     ],
     sapori: [
@@ -682,6 +787,52 @@ export const destinazioniBolivia: Destinazione[] = [
       "Access to the whole island is not guaranteed: ask locally.",
       "Underestimating altitude: you walk uphill high up.",
       "Kasani/Yunguyo border: hours and formalities change, check them again before you go."
+    ],
+    gite: [
+      {
+        "nome": "Isla de la Luna",
+        "distanza": "a short boat ride from Yumani, longer from Copacabana",
+        "come": "Boat from Copacabana or Yumani, often combined with Isla del Sol.",
+        "testo": "The small island of the moon, with the Iñak Uyu ruins by the water and very few people."
+      },
+      {
+        "nome": "Tiwanaku",
+        "distanza": "about 1.5 hours from La Paz, on the road to the lake",
+        "come": "Day tour from La Paz or a stop on the transfer to Copacabana.",
+        "testo": "The ruins of the civilisation before the Incas, with the Gate of the Sun and the Puma Punku blocks."
+      },
+      {
+        "nome": "Puno and the Peruvian islands",
+        "distanza": "about 3-4 hours by bus, border included",
+        "come": "Bus from Copacabana via Kasani/Yunguyo; better as a stage than as a day trip.",
+        "testo": "On the other side of the lake are the floating islands of the Uros, Taquile and Amantaní. It makes sense if you continue the trip into Peru."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Is it better to sleep in Copacabana or on Isla del Sol?",
+        "risposta": "At least one night on the island: day boats arrive and leave all together, and at dawn and sunset the island is almost empty. Copacabana is fine for the night before and after."
+      },
+      {
+        "domanda": "How long is the boat to Isla del Sol?",
+        "risposta": "About an hour and a half to two hours from Copacabana. Boats usually leave in the morning and early afternoon and land at Yumani, in the south, or Challapampa, in the north."
+      },
+      {
+        "domanda": "Can you walk the whole island?",
+        "risposta": "The ridge path links north and south in a few hours' walk, but tensions between communities have at times closed the passage north. Ask locally before setting off."
+      },
+      {
+        "domanda": "How do you cross the border with Peru?",
+        "risposta": "At the Kasani/Yunguyo crossing, a few kilometres from Copacabana, on foot between the two offices. The crossing closes in the evening, customs breaks for lunch and you need online pre-registration to enter Bolivia."
+      },
+      {
+        "domanda": "Are there ATMs in Copacabana and on the island?",
+        "risposta": "Few in Copacabana, none on the island and no cards. Arrive with bolivianos in cash for lodging, meals, boats and tolls."
+      },
+      {
+        "domanda": "How much is Tiwanaku?",
+        "risposta": "The single ticket for foreigners costs about 100 bolivianos and covers the Kalasasaya, Puma Punku and the two museums. Allow a couple of hours, best with a guide."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
@@ -1058,11 +1209,10 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     doveDormire: 'Rurrenabaque as a base; during the tours you sleep in lodges along the river, basic but with mosquito nets.',
     doveMangiare: 'Meals included in the tours.',
-    comeArrivare:
-      "Flight from La Paz to Rurrenabaque (about 45 minutes, on small planes, often canceled due to weather) or an 18-20 hour bus along a demanding mountain road.",
+    comeArrivare: "Flight from La Paz to Rurrenabaque, about 45 minutes on small planes: today the route is flown mainly by EcoJet, with few flights a week, and weather cancellations are frequent even outside the rainy season, because low cloud is enough to prevent landing. The airport is a few minutes from town by taxi or motocarro. The alternative is an 18-20 hour bus along a demanding mountain road. For the pampas you continue with about 3 hours of dirt road to Santa Rosa del Yacuma, then by boat.",
     comeSpostarsi: 'Only by boat and on foot, as part of organized tours.',
     periodoMigliore: 'May-October, dry season: fewer mosquitoes, passable roads and tracks, and wildlife concentrated along the rivers',
-    costi: 'among the cheapest Amazon experiences in the world',
+    costi: "Low budget about €30-45 a day (hostel in Rurrenabaque and a budget pampas tour, roughly $100-200 for 3 days all inclusive); mid-range about €50-90 (operator with good reviews on animal treatment, 3-4 day Madidi tour at $150-300); high from €120 a day (community lodges deep in Madidi, flights from La Paz). On top, in cash: pampas protected area entry about 150 bolivianos (about €20), often not included in the tour price.",
     erroriDaEvitare: [
       "Counting on the return flight with no margin: flights to Rurrenabaque are often canceled because of weather, and the alternative is a bus of almost twenty hours",
       "Choosing the cheapest operator without checking: in the pampas some practices with caimans and anacondas are harmful to the animals",
@@ -1074,19 +1224,21 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Yacuma pampas",
         "testo": "Flooded grasslands explored by boat along the Rio Yacuma: caimans, capybaras, monkeys, pink dolphins and a great many birds, seen up close.",
-        "come": "Organised 3-day tour from Rurrenabaque, with boat trips and nights in a lodge.",
-        "quando": "In the dry season.",
+        "come": "Organised 3-day tour from Rurrenabaque: about 3 hours of dirt road to Santa Rosa del Yacuma, then a boat along the river and nights in a lodge.",
+        "quando": "In the dry season. The best outings are early morning and late afternoon.",
         "tempo": "3 days, 2 nights",
-        "costo": "All-inclusive tour: prices vary between agencies, compare several in Rurrenabaque",
+        "costo": "All-inclusive tour: prices vary between agencies, compare several in Rurrenabaque. Protected area entry, about 150 bolivianos (about €20) in cash, is often extra",
         "consiglio": "Rick saw more animals with less effort than anywhere else. If the guide pulls caimans out of the water or looks for anacondas to be touched, say no."
       },
       {
         "nome": "Madidi jungle",
         "testo": "Primary forest inside the national park, with huge trees and very high biodiversity. Wildlife is harder to see.",
-        "come": "3-4 day tour with guided walks and nights in a lodge or tent camp.",
+        "come": "3-4 day tour with guided walks and nights in a lodge or tent camp, going up the Beni and Tuichi rivers by boat.",
         "quando": "In the dry season.",
         "tempo": "3-4 days",
         "costo": "Depends on the lodge and the length: ask the lodge or agency directly",
+        "lat": -13.8,
+        "lng": -67.63333333,
         "consiglio": "Choose a lodge run by indigenous communities."
       },
       {
@@ -1098,20 +1250,79 @@ export const destinazioniBolivia: Destinazione[] = [
         "consiglio": "Swimming with dolphins is only allowed where the guides permit."
       },
       {
+        "nome": "Santa Rosa del Yacuma",
+        "testo": "The town on the Beni plains where the road ends and the pampas begin. Here you pay the protected area entry and board the boats to the lodges along the river.",
+        "come": "About 3 hours of dirt road from Rurrenabaque, with the tour transport.",
+        "quando": "On the first and last day of the pampas tour.",
+        "tempo": "A short stop",
+        "costo": "Pampas entry about 150 bolivianos (about €20), in cash",
+        "lat": -14.079683,
+        "lng": -66.7924102,
+        "consiglio": "Have bolivianos in cash ready: the entry is often not included in the tour price."
+      },
+      {
+        "nome": "The Rurrenabaque riverfront",
+        "testo": "The town stretches along the Beni river, at the foot of the last forest-covered hills, with boats moored in front of the agencies and San Buenaventura on the far bank. It is the evening spot before and after the tours.",
+        "come": "On foot from the centre; everything is close.",
+        "quando": "At sunset, when the heat drops.",
+        "tempo": "1 hour",
+        "lat": -14.44222222,
+        "lng": -67.52833333
+      },
+      {
+        "nome": "Mirador de la Cruz",
+        "testo": "The viewpoint on the hill above town, with the cross and a view over the Beni river, the rooftops and the forest that starts right behind. From here you see where the Andes end and the Amazon lowlands begin.",
+        "come": "On foot from the centre, a short but steep climb, or by motocarro for most of the way.",
+        "quando": "At sunset.",
+        "tempo": "1 hour",
+        "lat": -14.447785,
+        "lng": -67.5252244,
+        "consiglio": "Bring water and repellent: the climb in the humid heat is more tiring than it looks."
+      },
+      {
+        "nome": "San Miguel del Bala",
+        "testo": "A Tacana community on the bank of the Beni, on the edge of Madidi, which runs an ecolodge and welcomes visitors with forest walks and village life. It is the quickest way into the park area from Rurrenabaque.",
+        "come": "About 40-45 minutes by boat up the Beni; visits are arranged at the community office in Rurrenabaque.",
+        "quando": "All year; best in the dry season.",
+        "tempo": "A day or one night",
+        "lat": -14.5060694,
+        "lng": -67.4851126
+      },
+      {
+        "nome": "Chalalán and its lagoon",
+        "testo": "An ecolodge run by the community of San José de Uchupiamonas, deep in Madidi, on a lagoon surrounded by forest. It is one of the first community tourism projects in Bolivia, with community guides and trails in primary forest.",
+        "come": "Several hours by boat from Rurrenabaque up the Beni and the Tuichi, then about 25 minutes on foot along a trail to the lodge. Booked as a package, with boat and meals.",
+        "quando": "In the dry season.",
+        "tempo": "3-4 days",
+        "lat": -14.4281731,
+        "lng": -67.9201702
+      },
+      {
         "nome": "La Paz-Rurrenabaque flight",
         "testo": "A flight of about 45 minutes to an hour on small planes, which can be cancelled for weather, taking you from the altiplano down to forest level.",
-        "come": "Book with a margin; the alternative is a bus of about 18 hours.",
+        "come": "Book with a margin; the alternative is a bus of about 18 hours. From the airport to town a few minutes by taxi or motocarro.",
         "quando": "All year.",
-        "tempo": "45 minutes to 1 hour",
+        "tempo": "45 minutes-1 hour",
+        "lat": -14.4258916,
+        "lng": -67.5005821,
         "consiglio": "Do not count on the return flight without margin."
       }
     ],
     programmi: [
       {
+        "titolo": "1 day in Rurrenabaque",
+        "tappe": [
+          "Morning: boat to San Miguel del Bala and a forest walk with the community",
+          "Lunch: river fish in town",
+          "Afternoon: choosing and booking the tour, cash and repellent",
+          "Sunset from the Mirador de la Cruz and evening on the riverfront"
+        ]
+      },
+      {
         "titolo": "3 days (pampas)",
         "tappe": [
-          "Day 1: boat and sightings along the Rio Yacuma",
-          "Day 2: piranha fishing, pink dolphins, night caiman search",
+          "Day 1: boat and wildlife spotting along the Rio Yacuma",
+          "Day 2: piranha fishing, pink dolphins, night search for caimans",
           "Day 3: dawn over the pampas and return"
         ]
       },
@@ -1119,20 +1330,25 @@ export const destinazioniBolivia: Destinazione[] = [
         "titolo": "4-5 days (pampas and jungle)",
         "tappe": [
           "Days 1-3: pampas",
-          "Days 4-5: Madidi with a lodge in the forest"
+          "Days 4-5: Madidi with a forest lodge"
         ]
       }
     ],
     zone: [
       {
         "nome": "Rurrenabaque",
-        "perChi": "Those leaving for the tours",
-        "testo": "Base town with agencies. Humid heat."
+        "perChi": "Those leaving on tours",
+        "testo": "Base town with agencies. Humid heat. Lodgings are close to the river and the agencies; you need a night before and one after the tours."
       },
       {
         "nome": "Lodges along the river",
-        "perChi": "Those on the tours",
+        "perChi": "Those on tours",
         "testo": "Basic but with mosquito nets."
+      },
+      {
+        "nome": "Madidi community lodges",
+        "perChi": "Those who want primary forest and a link with the communities",
+        "testo": "Places run by indigenous communities, such as Chalalán or San Miguel del Bala, inside or on the edge of the park. Pricier than pampas tours, with local guides."
       }
     ],
     sapori: [
@@ -1150,6 +1366,46 @@ export const destinazioniBolivia: Destinazione[] = [
       "Some practices with caimans and anacondas harm the animals: check the operator.",
       "Serious repellent. Yellow fever vaccination is recommended for the Rurrenabaque area: ask your doctor before you go.",
       "Mosquitoes in notable quantity."
+    ],
+    gite: [
+      {
+        "nome": "San Miguel del Bala",
+        "distanza": "about 40-45 minutes by boat",
+        "come": "Boat on the Beni, arranged by the community office in Rurrenabaque.",
+        "testo": "A day with the Tacana community: forest trails, the village and the river, without the days of a long tour."
+      },
+      {
+        "nome": "San Buenaventura",
+        "distanza": "a few minutes by boat, on the other bank of the Beni",
+        "come": "Shared boats from the Rurrenabaque port.",
+        "testo": "The town opposite, quieter, with its square and a view of Rurrenabaque across the river."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Pampas or jungle?",
+        "risposta": "The pampas to see lots of animals up close with little effort, Madidi for primary forest, accepting you will see less wildlife. With 4-5 days you can do both."
+      },
+      {
+        "domanda": "How do I choose a pampas operator?",
+        "risposta": "Compare several in Rurrenabaque and read the reviews on how they treat animals. Avoid those who pull caimans out of the water or let people touch anacondas."
+      },
+      {
+        "domanda": "Is the flight from La Paz reliable?",
+        "risposta": "It is often cancelled for weather, not only in the rainy season. Keep a day of margin, especially before an international flight."
+      },
+      {
+        "domanda": "How much is the pampas entry?",
+        "risposta": "About 150 bolivianos in cash, paid at Santa Rosa del Yacuma and often not included in the tour price."
+      },
+      {
+        "domanda": "Do I need the yellow fever vaccine?",
+        "risposta": "It is recommended for the Rurrenabaque area. Ask your doctor in good time before leaving."
+      },
+      {
+        "domanda": "When should I go?",
+        "risposta": "From May to October, in the dry season: fewer mosquitoes, passable roads and wildlife concentrated along the rivers."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],

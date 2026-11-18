@@ -1140,10 +1140,10 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     cosaFare: ['Il trekking di più giorni del Vale do Pati', 'Il bagno al Ribeirão do Meio'],
     doveDormire: 'Lençóis (pousadas 200-500 R$) o il Vale do Capão.',
-    comeArrivare: 'Bus da Salvador (6-7 ore).',
+    comeArrivare: "Da Salvador a Lençóis ci sono circa 6-7 ore di bus verso l'interno, con partenze dalla rodoviária: conviene quello del mattino presto o quello notturno. In alcuni periodi Azul vola da Salvador all'aeroporto della Chapada, a una ventina di chilometri dal paese, in circa 1 ora e 15, con poche frequenze a settimana. Per le escursioni servono poi tour con guida e auto.",
     comeSpostarsi: 'Tour con guida e auto; i sentieri sono poco segnalati.',
     periodoMigliore: 'aprile-settembre, stagione secca; il Poço Encantado si illumina da aprile a settembre.',
-    costi: 'Tour giornalieri 150-300 R$ più guida e ingressi.',
+    costi: "Pousadas a Lençóis 200-500 R$ a notte la doppia (circa 35-90 €). Tour giornalieri 150-300 R$ a persona (circa 25-50 €), più guida e ingressi alle grotte, di solito esclusi. Budget basso: pousada semplice in due e un tour di gruppo, circa 50-70 € al giorno a persona oltre ai pasti; medio e alto salgono con le pousadas più curate e le guide private.",
     erroriDaEvitare: ['Fare i sentieri lunghi senza guida', 'Sottovalutare la salita iniziale della Fumaça'],
     miaEsperienza:
       "Tre giorni nella Chapada con base a Lençóis, arrivando in bus da Salvador. Abbiamo fatto il giro classico con guida e auto, fra le grotte, il Poço do Diabo e il tramonto sul Morro do Pai Inácio.",
@@ -1151,43 +1151,94 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Morro do Pai Inácio",
         "testo": "La mesa che domina la valle. Il tramonto da qui è il classico della Chapada.",
-        "come": "Con tour o auto; dal parcheggio una salita breve e ripida.",
+        "come": "Con tour o auto; dal parcheggio 20-30 minuti di salita breve e ripida.",
         "quando": "Tramonto.",
         "tempo": "2 ore",
-        "consiglio": "Porta una torcia per la discesa."
+        "lat": -12.4594,
+        "lng": -41.4715,
+        "consiglio": "Arrivare mezz'ora prima del tramonto e portare una frontale per la discesa: in cima si sta sulla roccia senza parapetti."
       },
       {
         "nome": "Cachoeira da Fumaça",
         "testo": "Una cascata di circa 340 metri: il vento spesso disperde l'acqua in nebbia prima che tocchi terra.",
-        "come": "Dalla valle del Capão con un sentiero di andata e ritorno di alcune ore e una salita iniziale ripida.",
+        "come": "Dal Vale do Capão, a circa un'ora e mezza di strada da Lençóis, con un sentiero di circa 6 km andata e ritorno e una salita iniziale ripida.",
         "quando": "Nelle giornate limpide: con le nuvole basse dall'alto si vede poco.",
-        "tempo": "Mezza giornata",
+        "tempo": "Mezza giornata, partendo presto",
+        "lat": -12.6007,
+        "lng": -41.4551,
         "consiglio": "Non sottovalutare la salita iniziale."
       },
       {
         "nome": "Poço Azul e Poço Encantado",
-        "testo": "Grotte allagate dove la luce del sole entra e accende l'acqua di blu.",
+        "testo": "Grotte allagate dove la luce del sole entra e accende l'acqua di blu. Al Poço Azul si può entrare in acqua con la maschera, il Poço Encantado si guarda soltanto.",
         "come": "Con tour e guida, in auto.",
         "quando": "Il raggio di sole entra solo in alcuni mesi e in alcune ore: chiedi gli orari alla guida.",
         "tempo": "Mezza giornata",
-        "costo": "Tour giornalieri con guida; gli ingressi si pagano a parte: chiedi cosa include il prezzo",
+        "costo": "Biglietto d'ingresso in entrambe le grotte, di solito non compreso nel prezzo del tour.",
+        "lat": -12.7821,
+        "lng": -41.1492,
         "consiglio": "Controlla gli orari della luce: fuori stagione il blu non si vede."
       },
       {
         "nome": "Lapa Doce e Pratinha",
-        "testo": "Grotte con acqua turchese dove si fa snorkeling. Il Poço do Diabo è una cascata con una pozza scura.",
+        "testo": "Grotte con acqua turchese. A Pratinha si nuota con maschera e torcia dentro la grotta, guidati da una corda; Lapa Doce si percorre a piedi per circa un'ora, tra stalattiti e grandi sale.",
         "come": "Giro classico con guida e auto.",
         "quando": "Giornata intera.",
         "tempo": "Giornata",
+        "costo": "Ingressi a pagamento, di solito non compresi nel tour.",
+        "lat": -12.3339,
+        "lng": -41.6048,
         "consiglio": "Vai con una guida: nelle grotte aiuta a orientarsi."
       },
       {
         "nome": "Vale do Pati",
         "testo": "Trekking di più giorni tra valli remote dormendo nelle case dei contadini.",
-        "come": "Con guida, a piedi, da Guiné o dal Vale do Capão.",
+        "come": "Con una guida locale, da organizzare giorni prima; si parte a piedi da Guiné o dal Vale do Capão.",
         "quando": "Stagione secca.",
         "tempo": "3-5 giorni",
+        "lat": -12.7566,
+        "lng": -41.5119,
         "consiglio": "Per chi ha tempo e gambe, è l'alternativa ai tour di giornata."
+      },
+      {
+        "nome": "Lençóis",
+        "testo": "Il paese nato nell'Ottocento con la corsa ai diamanti, con case coloniali colorate, strade di pietra e il fiume che scorre tra le rocce rosse sotto il centro. È la base dei tour: le agenzie sono tutte in centro e la sera il paese si gira a piedi.",
+        "come": "Bus da Salvador fino alla stazione degli autobus, a pochi minuti dal centro.",
+        "quando": "La sera, quando si organizzano i tour del giorno dopo.",
+        "tempo": "Mezza giornata",
+        "lat": -12.5615,
+        "lng": -41.3895,
+        "consiglio": "Parlare con un paio di agenzie e fissare guida e auto la sera prima."
+      },
+      {
+        "nome": "Ribeirão do Meio",
+        "testo": "Un fiume che scorre su una lunga lastra di roccia liscia, usata come scivolo naturale, con una pozza dove si fa il bagno. È la passeggiata più facile da Lençóis.",
+        "come": "A piedi dal paese, circa 45 minuti su sentiero facile.",
+        "quando": "Il giorno dell'arrivo o nel pomeriggio libero.",
+        "tempo": "2-3 ore",
+        "lat": -12.5875,
+        "lng": -41.3893,
+        "consiglio": "Le pozze sono scure e profonde: entrare solo dove si vede entrare la gente del posto."
+      },
+      {
+        "nome": "Poço do Diabo",
+        "testo": "Una cascata che cade in una pozza scura circondata da pareti di roccia, sul fiume Mucugezinho. È una delle soste del giro classico verso il Pai Inácio e le grotte.",
+        "come": "Breve sentiero dalla strada, compreso nel giro classico con guida e auto.",
+        "quando": "Nelle ore calde, per il bagno.",
+        "tempo": "1 ora",
+        "lat": -12.4617,
+        "lng": -41.4145,
+        "consiglio": "Scarpe da acqua per le rocce scivolose."
+      },
+      {
+        "nome": "Vale do Capão",
+        "testo": "Una valle verde sotto le mesas, con il villaggio di Caeté-Açu e un'atmosfera più alternativa di Lençóis. Da qui partono il sentiero della Fumaça e una delle vie per il Vale do Pati.",
+        "come": "In auto o con transfer da Lençóis, circa un'ora e mezza.",
+        "quando": "Per una o due notti, se si vuole camminare.",
+        "tempo": "1-2 giorni",
+        "lat": -12.6093,
+        "lng": -41.5014,
+        "consiglio": "Chi fa la Fumaça la mattina presto risparmia molta strada dormendo qui."
       }
     ],
     programmi: [
@@ -1204,18 +1255,38 @@ export const destinazioniBrasile: Destinazione[] = [
           "Giorni 1-2 come sopra",
           "Giorno 3: seconda attività a scelta, o inizio del Vale do Pati"
         ]
+      },
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Giro classico con guida e auto: Lapa Doce o Pratinha, Poço do Diabo, tramonto al Pai Inácio"
+        ]
+      },
+      {
+        "titolo": "5 giorni",
+        "tappe": [
+          "Giorno 1: arrivo a Lençóis e Ribeirão do Meio",
+          "Giorno 2: giro classico delle grotte e Pai Inácio",
+          "Giorni 3-5: trekking del Vale do Pati con guida, oppure Fumaça dal Capão e Poço Azul"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Lençóis",
         "perChi": "Chi vuole la base dei tour",
-        "testo": "Pousadas per ogni budget. Piccolo paese con agenzie e ristoranti."
+        "testo": "Pousadas per ogni budget. Piccolo paese con agenzie e ristoranti.",
+        "fascia": "200-500 R$, circa 35-90 €"
       },
       {
         "nome": "Vale do Capão",
         "perChi": "Chi vuole camminare",
         "testo": "Più tranquillo, vicino alla Fumaça e al Pati."
+      },
+      {
+        "nome": "Mucugê e Igatu",
+        "perChi": "chi esplora il sud della Chapada",
+        "testo": "Paesi di pietra dell'epoca dei diamanti, più vicini al Poço Azul, al Poço Encantado e agli accessi del Pati. Meno agenzie e servizi che a Lençóis."
       }
     ],
     sapori: [
@@ -1232,6 +1303,46 @@ export const destinazioniBrasile: Destinazione[] = [
       "Sentieri lunghi senza guida: i percorsi sono poco segnalati.",
       "Sottovalutare la salita iniziale della Fumaça.",
       "Fuori dalla stagione secca molte cascate sono più difficili."
+    ],
+    gite: [
+      {
+        "nome": "Igatu",
+        "distanza": "circa 2 ore d'auto da Lençóis",
+        "come": "In auto o con un tour, via Andaraí; l'ultimo tratto è su strada di pietra.",
+        "testo": "Un villaggio di cercatori di diamanti in parte abbandonato, con le case di pietra a secco in rovina tra la vegetazione. Si abbina al Poço Azul e al Poço Encantado, che sono nella stessa zona."
+      },
+      {
+        "nome": "Cachoeira do Buracão",
+        "distanza": "nel sud della Chapada, verso Ibicoara: lontana da Lençóis, meglio con una notte in zona",
+        "come": "Con guida locale, obbligatoria per l'accesso.",
+        "testo": "Una cascata alta che cade in un canyon stretto: l'ultimo tratto si fa nuotando nel fiume tra le pareti fino alla pozza sotto il salto."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono nella Chapada Diamantina?",
+        "risposta": "Tre giorni bastano per il giro classico delle grotte, il Pai Inácio e una tra Fumaça e Poço Azul. Con cinque giorni si aggiunge il trekking del Vale do Pati."
+      },
+      {
+        "domanda": "Serve una guida?",
+        "risposta": "Non ovunque, ma sui sentieri lunghi e nelle grotte sì, e i percorsi sono poco segnalati. Le agenzie di Lençóis organizzano guida e auto la sera prima."
+      },
+      {
+        "domanda": "Meglio dormire a Lençóis o nel Vale do Capão?",
+        "risposta": "Lençóis per i tour di giornata, i servizi e le agenzie; il Capão per chi vuole camminare, vicino alla Fumaça e al Pati, in un ambiente più tranquillo."
+      },
+      {
+        "domanda": "Si può fare il bagno al Poço Azul e al Poço Encantado?",
+        "risposta": "Al Poço Azul sì, con la maschera. Il Poço Encantado si guarda soltanto. Entrambi hanno un biglietto d'ingresso."
+      },
+      {
+        "domanda": "Quando si vede la luce blu nel Poço Encantado?",
+        "risposta": "Indicativamente da aprile a settembre, nelle ore centrali della giornata, quando il raggio di sole entra nella grotta."
+      },
+      {
+        "domanda": "Qual è il periodo migliore?",
+        "risposta": "Da aprile a settembre, nella stagione secca, con sentieri praticabili; le cascate hanno ancora acqua fino a giugno-luglio."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -1257,10 +1368,10 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     cosaFare: ['I circuiti in jardineira 4x4', 'La barca sul Rio Preguiças fino al mare', 'Il volo panoramico sopra il parco', 'Kitesurf ad Atins'],
     doveDormire: 'Barreirinhas (pousadas 250-600 R$) o Atins per una base sul mare.',
-    comeArrivare: 'Volo per São Luís, poi van per Barreirinhas (circa 4 ore).',
+    comeArrivare: "Si vola a São Luís, quasi sempre con uno scalo a São Paulo, Brasília o Fortaleza; dall'aeroporto al centro c'è circa mezz'ora. Da São Luís a Barreirinhas sono circa 4 ore in van, con partenza al mattino presto. Atins si raggiunge da Barreirinhas in barca o in 4x4; Santo Amaro ha un accesso separato da São Luís.",
     comeSpostarsi: 'Solo 4x4 con autisti autorizzati dentro il parco; barche sul fiume.',
     periodoMigliore: 'giugno-settembre, con il massimo d\'acqua in luglio-agosto.',
-    costi: 'Jardineira 100-150 R$ a persona per circuito; l\'ingresso al parco è gratuito: l\'ICMBio non vende biglietti e il piano di concessione ai privati è stato ritirato a fine 2023.',
+    costi: "Pousadas a Barreirinhas 250-600 R$ a notte la doppia (circa 45-105 €); ad Atins fascia media-alta. Jardineira 100-150 R$ a persona per circuito (circa 17-26 €), ingresso al parco gratuito, barca sul Rio Preguiças e pranzi a parte. Budget basso: pousada semplice in due e un circuito al giorno, circa 40-70 € a persona oltre ai pasti; con pousadas sulla spiaggia ad Atins e voli panoramici il conto sale.",
     erroriDaEvitare: [
       'Andare fuori stagione, quando le lagune sono vuote',
       'Entrare nel parco nelle ore centrali senza acqua e cappello',
@@ -1274,7 +1385,10 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "In jardineira, il fuoristrada con panche sul cassone che attraversa il fiume su una zattera e prende il sentiero di sabbia.",
         "quando": "Tramonto, quando la sabbia cambia colore. Le lagune si riempiono con le piogge, che cadono più o meno da gennaio a giugno, ed evaporano nei mesi secchi: informati sul livello dell'acqua prima di partire.",
         "tempo": "Mezza giornata",
-        "costo": "Jardineira a persona per circuito, guida inclusa: prezzo dalle agenzie di Barreirinhas. Ingresso al parco gratuito (2026)",
+        "costo": "Jardineira indicativamente 100-150 R$ a persona per circuito, guida inclusa (circa 17-26 €). Ingresso al parco gratuito.",
+        "orari": "Le partenze sono nel primo pomeriggio, per restare fino al tramonto; rientro con il buio.",
+        "lat": -2.6631,
+        "lng": -42.8621,
         "consiglio": "Dentro il parco non c'è nulla: acqua e cappello vanno portati da Barreirinhas."
       },
       {
@@ -1283,14 +1397,19 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Circuito in jardineira dal lato di Barreirinhas.",
         "quando": "All'alba o al tramonto. A mezzogiorno la sabbia è rovente.",
         "tempo": "Mezza giornata",
+        "costo": "Jardineira indicativamente 100-150 R$ a persona, guida inclusa (circa 17-26 €). Ingresso al parco gratuito.",
+        "lat": -2.6833,
+        "lng": -42.938,
         "consiglio": "Vai nelle prime ore o nel pomeriggio."
       },
       {
         "nome": "Rio Preguiças: Vassouras, Mandacaru e Caburé",
         "testo": "Una giornata in barca lungo il fiume fino al mare. A Vassouras le scimmie cappuccine si avvicinano alla riva, a Mandacaru c'è un faro da cui si guardano le dune, Caburé è una lingua di sabbia tra il fiume e l'oceano.",
-        "come": "Barca da Barreirinhas.",
+        "come": "Barca da Barreirinhas la mattina, con soste lungo il fiume e pranzo a Caburé (a parte).",
         "quando": "Giornata intera.",
         "tempo": "Giornata",
+        "lat": -2.6503,
+        "lng": -42.689,
         "consiglio": "Chi vuole può dormire ad Atins invece di rientrare."
       },
       {
@@ -1299,6 +1418,8 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "In barca o 4x4 da Barreirinhas.",
         "quando": "Meglio per una notte.",
         "tempo": "Una notte",
+        "lat": -2.5717,
+        "lng": -42.7428,
         "consiglio": "Il transfer di rientro verso São Luís è più lungo da Atins: pianifica con anticipo."
       },
       {
@@ -1307,7 +1428,69 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "In app o a piedi nella Praia Grande.",
         "quando": "Prima di partire per Barreirinhas o all'arrivo.",
         "tempo": "Mezza giornata",
+        "lat": -2.5309,
+        "lng": -44.3057,
         "consiglio": "Chi arriva presto può fare una passeggiata nella Praia Grande."
+      },
+      {
+        "nome": "Barreirinhas",
+        "testo": "Il paese sul Rio Preguiças che fa da porta d'ingresso al parco, con le agenzie dei circuiti, le pousadas e il lungofiume dove partono le barche. Non è bello in sé, ma è la base più comoda.",
+        "come": "In van da São Luís, circa 4 ore.",
+        "quando": "Tutto l'anno; per le lagune piene da giugno a settembre.",
+        "tempo": "La base per 2-3 notti",
+        "lat": -2.7541,
+        "lng": -42.826,
+        "consiglio": "Prenotare i circuiti la sera prima e portare contanti per barche e pranzi."
+      },
+      {
+        "nome": "Faro di Mandacaru",
+        "testo": "Il faro bianco e rosso sopra il villaggio di Mandacaru, lungo il Rio Preguiças. Dall'alto si vedono insieme il fiume, le dune e il mare.",
+        "come": "Sosta del giro in barca sul Rio Preguiças; si sale a piedi con una scala interna.",
+        "quando": "Durante il giro in barca, a metà mattina.",
+        "tempo": "30-45 minuti",
+        "lat": -2.5926,
+        "lng": -42.7074,
+        "consiglio": "Molti gradini e poco spazio in cima: aspettare il proprio turno."
+      },
+      {
+        "nome": "Caburé",
+        "testo": "Una lingua di sabbia stretta tra il fiume e l'oceano, con qualche pousada e ristorante di pesce. È la sosta del pranzo nel giro in barca.",
+        "come": "In barca da Barreirinhas o da Atins.",
+        "quando": "A pranzo; da agosto il vento soffia forte.",
+        "tempo": "2 ore",
+        "lat": -2.58,
+        "lng": -42.6965,
+        "consiglio": "Il vento a Caburé e Atins è forte da agosto in poi: è la stagione del kitesurf, meno comoda per il bagno."
+      },
+      {
+        "nome": "Canto do Atins",
+        "testo": "Il punto dove le dune del parco arrivano quasi fino alla spiaggia, a ovest di Atins, con lagune raggiungibili a piedi e un paio di ristoranti di gamberi. Dal lato di Atins il parco è meno frequentato.",
+        "come": "In 4x4 o a piedi sulla spiaggia da Atins.",
+        "quando": "Tardo pomeriggio, per le lagune al tramonto.",
+        "tempo": "Mezza giornata",
+        "lat": -2.5719,
+        "lng": -42.8021,
+        "consiglio": "Portare acqua: tra le dune non c'è ombra."
+      },
+      {
+        "nome": "Santo Amaro do Maranhão",
+        "testo": "La porta d'ingresso occidentale del parco, meno frequentata di Barreirinhas, con lagune grandi a pochi chilometri dal paese. Qui le dune arrivano quasi fino alle case.",
+        "come": "Da São Luís in 4x4 o con transfer, poi jardineira verso le lagune.",
+        "quando": "Da giugno a settembre, con le lagune piene.",
+        "tempo": "1-2 giorni",
+        "lat": -2.4988,
+        "lng": -43.2533,
+        "consiglio": "La tassa turistica di 10 R$ introdotta dal comune nel 2023 è stata sospesa dal tribunale del Maranhão."
+      },
+      {
+        "nome": "Queimada dos Britos",
+        "testo": "Un'oasi abitata da poche famiglie nel cuore delle dune, con alberi, animali e piccole case. È una delle tappe del trekking che attraversa il parco da Atins verso Santo Amaro.",
+        "come": "A piedi con guida nella traversata di più giorni, o in 4x4 da Santo Amaro.",
+        "quando": "Stagione secca e lagune piene, da giugno a settembre.",
+        "tempo": "Una notte nella traversata",
+        "lat": -2.5023,
+        "lng": -43.0599,
+        "consiglio": "La traversata si fa solo con guida: tra le dune non ci sono sentieri segnati."
       }
     ],
     programmi: [
@@ -1324,18 +1507,44 @@ export const destinazioniBrasile: Destinazione[] = [
           "Giorni 1-2 come sopra",
           "Giorno 3: Atins e Caburé, rientro a São Luís"
         ]
+      },
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Arrivo presto a Barreirinhas, circuito della Lagoa Azul o della Lagoa Bonita nel pomeriggio fino al tramonto"
+        ]
+      },
+      {
+        "titolo": "4 giorni",
+        "tappe": [
+          "Giorno 1: São Luís e Praia Grande",
+          "Giorno 2: van per Barreirinhas e circuito della Lagoa Azul",
+          "Giorno 3: Lagoa Bonita all'alba, pomeriggio libero o volo panoramico",
+          "Giorno 4: barca sul Rio Preguiças, Mandacaru e Caburé, notte ad Atins"
+        ]
       }
     ],
     zone: [
       {
         "nome": "Barreirinhas",
         "perChi": "Chi vuole la base dei circuiti",
-        "testo": "Pousadas per ogni budget. Porta d'ingresso del parco."
+        "testo": "Pousadas per ogni budget. Porta d'ingresso del parco.",
+        "fascia": "250-600 R$, circa 45-105 €"
       },
       {
         "nome": "Atins",
         "perChi": "Chi vuole il mare e il kitesurf",
-        "testo": "Villaggio sul mare, più isolato e meno servito."
+        "testo": "Villaggio sul mare, più isolato e meno servito, con resort di kitesurf e pousadas sulla spiaggia di fascia media-alta."
+      },
+      {
+        "nome": "Santo Amaro do Maranhão",
+        "perChi": "chi vuole il lato meno frequentato",
+        "testo": "Porta d'ingresso occidentale del parco, con lagune vicine al paese e meno gruppi."
+      },
+      {
+        "nome": "Centro storico di São Luís",
+        "perChi": "chi arriva o riparte in aereo",
+        "testo": "Una notte nella Praia Grande o nei quartieri sul mare prima del van per Barreirinhas; la sera si resta nelle vie animate e si rientra in app."
       }
     ],
     sapori: [
@@ -1358,6 +1567,46 @@ export const destinazioniBrasile: Destinazione[] = [
       "Nel parco si va con i fuoristrada e gli autisti delle agenzie locali.",
       "Febbre gialla: vaccinazione raccomandata per tutto il Maranhão."
     ],
+    gite: [
+      {
+        "nome": "Volo panoramico sul parco",
+        "distanza": "dall'aeroporto di Barreirinhas",
+        "come": "In piccolo aereo, con le agenzie del paese.",
+        "testo": "Dall'alto si capisce quanto sono estese le lagune: un mare di dune bianche con migliaia di pozze azzurre e verdi fino alla costa."
+      },
+      {
+        "nome": "Alcântara",
+        "distanza": "dall'altra parte della baia di São Luís",
+        "come": "In barca dal Cais da Praia Grande di São Luís.",
+        "testo": "Una cittadina coloniale in parte in rovina, con chiese e palazzi dei proprietari terrieri dell'Ottocento. Si visita in giornata prima o dopo i Lençóis."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quando ci sono le lagune piene?",
+        "risposta": "Da giugno a settembre, con il massimo d'acqua in luglio-agosto. Le piogge cadono più o meno da gennaio a giugno; nei mesi secchi le lagune evaporano."
+      },
+      {
+        "domanda": "Si paga l'ingresso al parco?",
+        "risposta": "No. L'ICMBio non vende biglietti e il piano di concessione ai privati è stato ritirato a fine 2023. Si pagano i circuiti in jardineira, circa 100-150 R$ a persona."
+      },
+      {
+        "domanda": "Si può entrare nel parco con la propria auto?",
+        "risposta": "No, si entra solo con i fuoristrada e gli autisti autorizzati delle agenzie locali."
+      },
+      {
+        "domanda": "Meglio Barreirinhas o Atins?",
+        "risposta": "Barreirinhas per i circuiti classici, i servizi e i transfer per São Luís; Atins per il mare, il kitesurf e le dune meno frequentate del lato est."
+      },
+      {
+        "domanda": "Quanti giorni servono?",
+        "risposta": "Due o tre giorni per i due circuiti principali e il giro in barca sul Rio Preguiças, più il tempo del transfer da São Luís, circa 4 ore per tratta."
+      },
+      {
+        "domanda": "Serve il vaccino della febbre gialla?",
+        "risposta": "È raccomandato per tutto il Maranhão, da fare almeno 10 giorni prima della partenza."
+      }
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: 'Lagune turchesi tra le dune bianche dei Lençóis Maranhenses',
@@ -1377,10 +1626,10 @@ export const destinazioniBrasile: Destinazione[] = [
     cosaVedere: ['La Transpantaneira e i suoi ponti di legno', 'I fiumi Cuiabá, Três Irmãos e Piquiri intorno a Porto Jofre'],
     cosaFare: ['Uscite in barca all\'alba e nel pomeriggio per i giaguari', 'Safari in auto, a cavallo o a piedi dalle pousadas'],
     doveDormire: 'Pousadas semplici lungo la Transpantaneira (opzione economica), lodge sul fiume o hotel galleggiante vicino a Porto Jofre (fascia alta).',
-    comeArrivare: 'Volo per Cuiabá, poi circa 2 ore fino a Poconé e la Transpantaneira (147 km fino a Porto Jofre).',
+    comeArrivare: "Si vola a Cuiabá, di solito con scalo a São Paulo o Brasília; l'aeroporto è a Várzea Grande, appena fuori città. Da qui si guida circa 2 ore fino a Poconé, dove comincia la Transpantaneira, 147 km di sterrato con oltre cento ponti di legno fino a Porto Jofre. Serve un'auto alta, meglio 4x4, oppure un pacchetto con transfer.",
     comeSpostarsi: 'Auto alta o 4x4, oppure pacchetti con transfer; barche con piloteiro.',
     periodoMigliore: 'luglio-ottobre, meglio agosto-settembre.',
-    costi: 'Barca per la giornata intorno a 1.600 R$ per massimo 4 persone; pacchetti completi 9.000-13.000 R$ a persona per 3-4 notti.',
+    costi: "Barca con piloteiro intorno a 1.400-1.600 R$ la giornata per 4-6 persone (circa 240-275 €), 1.000 R$ la mezza giornata. Budget basso, in autonomia con auto a noleggio e pousadas semplici: sotto i 1.000-1.500 R$ al giorno a persona (circa 170-260 €). Budget alto: pacchetti completi con guida naturalista, pensione completa e barca privata, 9.000-13.000 R$ a persona per 3-4 notti (circa 1.550-2.250 €).",
     erroriDaEvitare: [
       'Andare nella stagione delle piogge (novembre-aprile)',
       'Scegliere operatori che accerchiano gli animali con troppe barche',
@@ -1393,6 +1642,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Volo per Cuiabá, poi strada fino a Poconé, dove inizia la Transpantaneira. Auto alta o 4x4, oppure pacchetti con transfer.",
         "quando": "Nella stagione secca. Le piogge cadono soprattutto da novembre a marzo e possono allagare la strada.",
         "tempo": "Un giorno",
+        "costo": "Strada pubblica, senza pedaggio.",
+        "lat": -16.2827,
+        "lng": -56.6277,
         "consiglio": "Non percorrerla di notte."
       },
       {
@@ -1401,7 +1653,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Uscite in barca con piloteiro all'alba e nel pomeriggio.",
         "quando": "Stagione secca.",
         "tempo": "1-2 giorni di uscite",
-        "costo": "Barca con piloteiro a giornata o mezza giornata, da dividere in gruppo: chiedi il prezzo alla pousada",
+        "costo": "Barca con piloteiro intorno a 1.400-1.600 R$ per la giornata intera per 4-6 persone (circa 240-275 €) e intorno a 1.000 R$ per mezza giornata (circa 170 €), da dividere.",
+        "lat": -17.3644,
+        "lng": -56.7735,
         "consiglio": "Evita gli operatori che accerchiano gli animali con troppe barche."
       },
       {
@@ -1418,7 +1672,47 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Volo da São Paulo o Brasília.",
         "quando": "Giorno di arrivo e di partenza.",
         "tempo": "Una notte",
+        "lat": -15.5987,
+        "lng": -56.0991,
         "consiglio": "Il Mato Grosso è a UTC-4, un'ora indietro rispetto a Rio: controlla gli orari dei voli."
+      },
+      {
+        "nome": "Poconé e l'inizio della Transpantaneira",
+        "testo": "La cittadina dove finisce l'asfalto e comincia la Transpantaneira, con il portale d'ingresso in legno. È l'ultimo posto con distributori, bancomat e negozi prima di 147 km di sterrato.",
+        "come": "Da Cuiabá in auto, circa 2 ore.",
+        "quando": "La mattina, per arrivare alle pousadas con la luce.",
+        "tempo": "30 minuti di sosta",
+        "lat": -16.2579,
+        "lng": -56.6339,
+        "consiglio": "Fare il pieno e prelevare contanti qui."
+      },
+      {
+        "nome": "Rio Pixaim",
+        "testo": "Il fiume che la Transpantaneira attraversa più o meno a metà strada, con diverse pousadas sulle rive. È uno dei tratti migliori per uscite in barca brevi, caimani, capibara e uccelli d'acqua.",
+        "come": "Lungo la Transpantaneira, in auto; le uscite in barca si prenotano con la pousada.",
+        "quando": "Alba e tardo pomeriggio, quando gli animali sono più attivi.",
+        "tempo": "1-2 notti",
+        "lat": -16.7444,
+        "lng": -56.8635,
+        "consiglio": "Una buona tappa intermedia per spezzare la strada verso Porto Jofre."
+      },
+      {
+        "nome": "Parque Estadual Encontro das Águas",
+        "testo": "L'area protetta alla confluenza dei fiumi Cuiabá, Piquiri e Três Irmãos, raggiunta in barca da Porto Jofre. È qui che si concentrano gli avvistamenti di giaguari sulle rive nella stagione secca.",
+        "come": "Solo in barca con piloteiro da Porto Jofre o dai lodge sul fiume.",
+        "quando": "Da luglio a ottobre, meglio agosto e settembre.",
+        "tempo": "Uscite di mezza giornata o giornata intera",
+        "lat": -17.0861,
+        "lng": -56.7203,
+        "consiglio": "Partire all'alba: con il caldo del pomeriggio i giaguari cercano l'ombra."
+      },
+      {
+        "nome": "Canali del Três Irmãos e lontre giganti",
+        "testo": "I canali laterali e le anse dei fiumi intorno a Porto Jofre, dove vivono le famiglie di lontre giganti e si vedono martin pescatori, aironi e giabiru. Sono le uscite più tranquille, lontane dalle barche che seguono i giaguari.",
+        "come": "In barca con il piloteiro, chiedendo di entrare nei canali più piccoli.",
+        "quando": "Mattina presto.",
+        "tempo": "2-3 ore",
+        "consiglio": "Le lontre sono rumorose e curiose, ma vanno osservate a distanza dalle tane."
       }
     ],
     programmi: [
@@ -1439,6 +1733,21 @@ export const destinazioniBrasile: Destinazione[] = [
           "Giorni 3-4: barca all'alba e nel pomeriggio",
           "Giorno 5: rientro a Cuiabá e volo"
         ]
+      },
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Da Cuiabá a Poconé e sulla Transpantaneira fino al Rio Pixaim, con soste per gli animali, e notte in pousada: il minimo per vedere il Pantanal, senza giaguari garantiti"
+        ]
+      },
+      {
+        "titolo": "6 giorni",
+        "tappe": [
+          "Giorno 1: volo per Cuiabá e strada fino a Poconé e al Rio Pixaim",
+          "Giorno 2: safari intorno alla pousada e discesa a Porto Jofre",
+          "Giorni 3-5: barca all'alba e nel pomeriggio verso l'Encontro das Águas e i canali del Três Irmãos",
+          "Giorno 6: rientro a Cuiabá e volo"
+        ]
       }
     ],
     zone: [
@@ -1451,6 +1760,16 @@ export const destinazioniBrasile: Destinazione[] = [
         "nome": "Lodge sul fiume o hotel galleggiante a Porto Jofre",
         "perChi": "Chi vuole i giaguari",
         "testo": "Fascia alta, con pacchetti completi di più notti."
+      },
+      {
+        "nome": "Poconé",
+        "perChi": "chi arriva tardi da Cuiabá",
+        "testo": "Cittadina all'inizio della Transpantaneira, con alberghi semplici e servizi. Comoda per partire all'alba sulla strada."
+      },
+      {
+        "nome": "Cuiabá",
+        "perChi": "chi ha il volo presto",
+        "testo": "Capitale del Mato Grosso, con alberghi vicino all'aeroporto, che è a Várzea Grande, appena fuori città."
       }
     ],
     sapori: [
@@ -1468,6 +1787,46 @@ export const destinazioniBrasile: Destinazione[] = [
       "Operatori che accerchiano gli animali: scegli chi rispetta la distanza.",
       "Non guidare la Transpantaneira di notte.",
       "Febbre gialla: vaccino raccomandato per il Mato Grosso."
+    ],
+    gite: [
+      {
+        "nome": "Chapada dos Guimarães",
+        "distanza": "circa 65 km da Cuiabá, 1 ora d'auto",
+        "come": "In auto a noleggio o con tour da Cuiabá.",
+        "testo": "Un altopiano di arenaria rossa con canyon e cascate, come il Véu de Noiva, che cade da una parete verticale. Si abbina al Pantanal il giorno prima del volo."
+      },
+      {
+        "nome": "Pantanal sud e Bonito",
+        "distanza": "dall'altra parte del Pantanal, con volo su Campo Grande",
+        "come": "In volo da Cuiabá a Campo Grande con scalo, poi strada verso Miranda e Bonito.",
+        "testo": "Fazendas tra i pascoli allagati e i fiumi trasparenti di Bonito per lo snorkeling. I giaguari si vedono con meno regolarità che al nord."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quando si vedono i giaguari?",
+        "risposta": "Da luglio a ottobre, nella stagione secca, quando l'acqua si ritira nei fiumi; agosto e settembre sono i mesi migliori intorno a Porto Jofre."
+      },
+      {
+        "domanda": "Quanti giorni servono?",
+        "risposta": "Almeno 4-5 giorni: uno per arrivare sulla Transpantaneira, due o tre di barca da Porto Jofre e uno per rientrare a Cuiabá."
+      },
+      {
+        "domanda": "Si può fare il Pantanal da soli?",
+        "risposta": "Sì, con un'auto alta o 4x4 noleggiata a Cuiabá e le pousadas prenotate prima. La barca con piloteiro si organizza con la pousada a Porto Jofre e si divide con altri viaggiatori."
+      },
+      {
+        "domanda": "Quanto costa?",
+        "risposta": "In autonomia si resta indicativamente sotto i 1.000-1.500 R$ al giorno a persona (circa 170-260 €). I pacchetti completi con guida e barca privata costano 9.000-13.000 R$ a persona per 3-4 notti (circa 1.550-2.250 €)."
+      },
+      {
+        "domanda": "Serve il vaccino della febbre gialla?",
+        "risposta": "È raccomandato per il Mato Grosso, da fare almeno 10 giorni prima della partenza."
+      },
+      {
+        "domanda": "Che fuso orario ha il Pantanal nord?",
+        "risposta": "Il Mato Grosso è a UTC-4, un'ora indietro rispetto a Rio e a São Paulo: va considerato con i voli interni."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -1496,10 +1855,10 @@ export const destinazioniBrasile: Destinazione[] = [
       'La barca veloce o lenta fino a Tabatinga, poi Leticia (Colombia) o Iquitos (Perù)',
     ],
     doveDormire: 'Lodge con pensione completa sul Rio Negro (800-2.500 R$ a persona a notte); hotel in centro a Manaus.',
-    comeArrivare: 'Volo per Manaus da São Paulo, Brasília o Cuiabá.',
+    comeArrivare: "Manaus si raggiunge solo in aereo o in barca. I voli diretti arrivano da São Paulo, Brasília e altre città brasiliane, e c'è un volo da Cuiabá per chi viene dal Pantanal. L'aeroporto Eduardo Gomes è a nord-ovest del centro, raggiungibile in taxi o in app. I lodge mandano il transfer in barca o in auto più barca dal porto della città.",
     comeSpostarsi: 'Transfer dei lodge in barca; per Tabatinga volo (circa 1h30), barca veloce (30-36 ore) o lenta (6-7 giorni).',
     periodoMigliore: 'tutto l\'anno: acque alte aprile-luglio, acque basse settembre-dicembre.',
-    costi: 'Barca veloce Manaus-Tabatinga circa 1.000 R$; barca veloce Santa Rosa-Iquitos indicativamente 150-200 soles.',
+    costi: "Teatro Amazonas 20 R$ (circa 3,50 €), Palacete Provincial gratuito. Lodge con pensione completa, guida e attività da circa 800-1.500 R$ a persona a notte (circa 140-260 €), oltre 2.500 R$ (circa 430 €) nella fascia alta. Barca veloce per Tabatinga intorno ai 1.000 R$ (circa 170 €). In città il budget dipende dall'albergo; nel lodge quasi tutto è compreso.",
     erroriDaEvitare: [
       'Dimenticare i timbri di uscita alla Polícia Federal di Tabatinga',
       'Partire senza vaccino della febbre gialla',
@@ -1509,9 +1868,14 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Teatro Amazonas e Mercado Adolpho Lisboa",
         "testo": "Il teatro dell'opera del boom della gomma e il mercato sul porto, inaugurato nel 1883 con una struttura in ferro ispirata alle Halles di Parigi. Sono le due tappe urbane di Manaus.",
-        "come": "A piedi nel centro storico.",
+        "come": "A piedi nel centro storico. La visita al teatro è guidata.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata",
+        "costo": "Teatro: 20 R$ intero, 10 R$ ridotto (circa 3,50 e 1,70 €); gratis per i nati in Amazonas e i bambini fino a 10 anni.",
+        "orari": "Teatro: visite da martedì a sabato 9:00-17:00, domenica e festivi 9:00-13:00; lunedì non sono previste visite.",
+        "lat": -3.1303,
+        "lng": -60.0234,
+        "url": "https://cultura.am.gov.br/espacos-culturais/teatros/teatro-amazonas/",
         "consiglio": "Il mercato è un buon posto per assaggiare pesci amazzonici."
       },
       {
@@ -1520,6 +1884,8 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "In barca da Manaus, spesso incluso nei tour.",
         "quando": "Mattina.",
         "tempo": "2-3 ore",
+        "lat": -3.1189,
+        "lng": -59.8927,
         "consiglio": "Si vede meglio con un tour in barca che dal porto."
       },
       {
@@ -1528,6 +1894,8 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Con tour o lodge.",
         "quando": "Con le acque alte si naviga dentro la foresta allagata: chiedi al lodge il livello del fiume.",
         "tempo": "1-2 giorni",
+        "lat": -2.5291,
+        "lng": -60.9196,
         "consiglio": "Controlla se il tour include la foresta allagata."
       },
       {
@@ -1536,7 +1904,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Transfer dei lodge in barca da Manaus.",
         "quando": "Tutto l'anno; il paesaggio cambia molto tra acque alte e basse.",
         "tempo": "2-3 notti",
-        "costo": "Pensione completa ed escursioni incluse: i prezzi variano molto da lodge a lodge",
+        "costo": "Indicativamente da 800-1.500 R$ a persona a notte nelle strutture semplici (circa 140-260 €) a oltre 2.500 R$ (circa 430 €) in quelle di fascia alta, con pensione completa, guida e attività.",
         "consiglio": "Per un'informazione sulle agenzie, vedi la pagina Amazzonia del sito."
       },
       {
@@ -1545,8 +1913,91 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "In volo, oppure in barca veloce o lenta: la barca lenta richiede diversi giorni.",
         "quando": "Tutto l'anno; gli orari delle barche cambiano spesso.",
         "tempo": "Da un giorno a diversi giorni, secondo il mezzo",
-        "costo": "Prezzi delle barche al porto di Manaus o presso le compagnie",
+        "costo": "Barca veloce Manaus-Tabatinga intorno ai 1.000 R$ (circa 170 €), con una partenza al giorno nell'aprile 2026; da Santa Rosa a Iquitos barca veloce indicativamente 150-200 soles.",
+        "lat": -4.2247,
+        "lng": -69.9362,
         "consiglio": "Prima di passare in Colombia o in Perù informati sulle formalità di uscita dal Brasile."
+      },
+      {
+        "nome": "Palácio Rio Negro",
+        "testo": "La villa costruita all'inizio del Novecento per un commerciante tedesco della gomma, poi sede del governo dello stato. Oggi è un centro culturale con sale d'epoca e mostre, e racconta bene il lusso dell'epoca del caucciù.",
+        "come": "A piedi o in app dal centro, lungo l'Avenida Sete de Setembro.",
+        "quando": "Di mattina, insieme al Palacete Provincial.",
+        "tempo": "1 ora",
+        "orari": "Lunedì, mercoledì, giovedì, venerdì e sabato 9:00-15:00; chiuso il martedì.",
+        "lat": -3.1351,
+        "lng": -60.0168,
+        "url": "https://cultura.am.gov.br/espacos-culturais/centros-culturais/centro-cultural-palacio-rio-negro/"
+      },
+      {
+        "nome": "Palacete Provincial",
+        "testo": "Un palazzo dell'Ottocento sulla Praça Heliodoro Balbi che riunisce diversi piccoli musei, tra archeologia, numismatica, pinacoteca e immagine e suono. È fresco e poco frequentato.",
+        "come": "A piedi dal Teatro Amazonas, circa 10 minuti.",
+        "quando": "Nelle ore calde, al riparo dal sole.",
+        "tempo": "1-1,5 ore",
+        "costo": "Ingresso gratuito.",
+        "orari": "Lunedì, martedì, giovedì, venerdì e sabato 9:00-15:00.",
+        "lat": -3.1356,
+        "lng": -60.021,
+        "url": "https://cultura.am.gov.br/espacos-culturais/centros-culturais/centro-cultural-palacete-provincial/"
+      },
+      {
+        "nome": "Catedral Metropolitana",
+        "testo": "La cattedrale di Nossa Senhora da Conceição, sopra il porto, con la facciata semplice e la piazza alberata davanti. Da qui si scende a piedi verso il mercato e il fiume.",
+        "come": "A piedi nel centro, tra il porto e l'Avenida Eduardo Ribeiro.",
+        "quando": "Di mattina.",
+        "tempo": "30 minuti",
+        "lat": -3.1352,
+        "lng": -60.0255
+      },
+      {
+        "nome": "Largo de São Sebastião",
+        "testo": "La piazza davanti al Teatro Amazonas, con il pavimento a onde bianche e nere che richiama l'Incontro delle Acque, la chiesa di São Sebastião e il monumento all'apertura dei porti. La sera si riempie di bar e chioschi di tacacá.",
+        "come": "A piedi, di fronte al teatro.",
+        "quando": "La sera, quando si anima.",
+        "tempo": "1 ora",
+        "lat": -3.1298,
+        "lng": -60.0226,
+        "consiglio": "Buon posto per assaggiare il tacacá dai chioschi."
+      },
+      {
+        "nome": "MUSA - Museu da Amazônia",
+        "testo": "Un museo all'aperto dentro la riserva forestale Adolpho Ducke, ai margini nord della città, con sentieri nella foresta e una torre di osservazione di 42 metri che sale sopra la chioma degli alberi. È il modo più semplice di vedere la foresta senza uscire da Manaus.",
+        "come": "In app o taxi dal centro, circa 40 minuti. Visite guidate, birdwatching e salita alla torre all'alba o al tramonto vanno prenotati.",
+        "quando": "All'alba o al tramonto dalla torre.",
+        "tempo": "Mezza giornata",
+        "lat": -3.0078,
+        "lng": -59.9397,
+        "consiglio": "Repellente e scarpe chiuse sui sentieri."
+      },
+      {
+        "nome": "Bosque da Ciência (INPA)",
+        "testo": "Il parco dell'Istituto nazionale di ricerche dell'Amazzonia, in città, con sentieri nella foresta, vasche con lamantini amazzonici e lontre giganti. Adatto anche ai bambini.",
+        "come": "In app o taxi dal centro, circa 20 minuti.",
+        "quando": "Di mattina, quando gli animali sono più attivi.",
+        "tempo": "2 ore",
+        "lat": -3.0973,
+        "lng": -59.9864,
+        "consiglio": "Chiude in alcuni giorni festivi: controllare prima di andare."
+      },
+      {
+        "nome": "Praia da Ponta Negra",
+        "testo": "La spiaggia di sabbia sul Rio Negro, a ovest del centro, con un lungofiume pedonale, ristoranti e anfiteatro. Il tramonto sul fiume è il momento migliore; la spiaggia si allarga o sparisce secondo il livello dell'acqua.",
+        "come": "In app o taxi dal centro, circa 30 minuti.",
+        "quando": "Tardo pomeriggio e tramonto.",
+        "tempo": "2 ore",
+        "lat": -3.0625,
+        "lng": -60.1038
+      },
+      {
+        "nome": "Museu do Seringal Vila Paraíso",
+        "testo": "La ricostruzione di una piantagione di gomma dell'Ottocento su un affluente del Rio Negro, con la casa del padrone, le baracche dei seringueiros e la lavorazione del lattice. Spiega la storia dietro i palazzi del centro.",
+        "come": "In barca dal porto di Marina do Davi, nella zona di Ponta Negra, circa mezz'ora.",
+        "quando": "Di mattina, con il caldo meno forte.",
+        "tempo": "Mezza giornata",
+        "lat": -3.0242,
+        "lng": -60.1618,
+        "consiglio": "Si abbina a una sosta a Ponta Negra al ritorno."
       }
     ],
     programmi: [
@@ -1567,6 +2018,28 @@ export const destinazioniBrasile: Destinazione[] = [
           "Giorni 3-4: foresta e Anavilhanas",
           "Giorno 5: rientro a Manaus"
         ]
+      },
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Teatro Amazonas, Largo de São Sebastião e Palacete Provincial",
+          "Pomeriggio: Mercado Adolpho Lisboa e porto, tramonto a Ponta Negra",
+          "Sera: tacacá al Largo de São Sebastião"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: centro storico come sopra",
+          "Giorno 2: Incontro delle Acque in barca la mattina, MUSA e torre al tramonto"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Museu do Seringal in barca e Bosque da Ciência, oppure partenza per il lodge"
+        ]
       }
     ],
     zone: [
@@ -1579,6 +2052,16 @@ export const destinazioniBrasile: Destinazione[] = [
         "nome": "Lodge sul Rio Negro",
         "perChi": "Chi cerca la foresta",
         "testo": "Pensione completa, escursioni incluse. Costi alti, ma tutto compreso."
+      },
+      {
+        "nome": "Ponta Negra",
+        "perChi": "chi vuole il fiume e la sera tranquilla",
+        "testo": "Quartiere di alberghi e condomini sul Rio Negro, vicino al lungofiume e al porto di Marina do Davi. Lontano dal centro storico, che si raggiunge in app."
+      },
+      {
+        "nome": "Novo Airão",
+        "perChi": "chi vuole le Anavilhanas da vicino",
+        "testo": "Cittadina sul Rio Negro di fronte all'arcipelago, con pousadas semplici e uscite in barca. Si raggiunge in strada da Manaus passando il ponte sul Rio Negro."
       }
     ],
     sapori: [
@@ -1600,6 +2083,46 @@ export const destinazioniBrasile: Destinazione[] = [
       "Vaccino della febbre gialla: raccomandato per tutta l'Amazzonia.",
       "Orari delle barche non fissi: tieni margine.",
       "Contanti nella valuta del Paese prima di imbarcarti."
+    ],
+    gite: [
+      {
+        "nome": "Presidente Figueiredo",
+        "distanza": "circa 110 km a nord, 2 ore di strada",
+        "come": "In auto lungo la BR-174 o con un tour da Manaus.",
+        "testo": "La zona delle cascate e delle grotte nella foresta, con pozze dove fare il bagno e sentieri brevi. È la gita in giornata più semplice per vedere acqua e foresta fuori città."
+      },
+      {
+        "nome": "Novo Airão e le Anavilhanas",
+        "distanza": "circa 3 ore di strada",
+        "come": "In auto o con tour, passando il ponte sul Rio Negro; poi barca nell'arcipelago.",
+        "testo": "Il paese di fronte al parco nazionale delle Anavilhanas, con le uscite in barca tra le isole e la foresta allagata e i delfini rosa del Rio Negro vicini alla riva."
+      }
+    ],
+    faq: [
+      {
+        "domanda": "Quanti giorni servono a Manaus?",
+        "risposta": "Uno o due giorni per la città, poi due o tre notti in un lodge nella foresta: in tutto 4-5 giorni. Chi prosegue verso Perù o Colombia in barca ne aggiunge diversi."
+      },
+      {
+        "domanda": "Meglio un lodge sul Rio Negro o sul Solimões?",
+        "risposta": "Sul Rio Negro l'acqua scura e acida tiene lontane molte zanzare e si vedono i delfini rosa; il Solimões ha più fauna lungo le rive ma più insetti."
+      },
+      {
+        "domanda": "Quando andare?",
+        "risposta": "Tutto l'anno. Con le acque alte, da aprile a luglio, si naviga in canoa dentro la foresta allagata; con le acque basse, da settembre a dicembre, compaiono spiagge e si cammina di più."
+      },
+      {
+        "domanda": "Quanto costa visitare il Teatro Amazonas?",
+        "risposta": "La visita guidata costa 20 R$, 10 R$ il ridotto, da martedì a sabato 9:00-17:00 e la domenica fino alle 13:00."
+      },
+      {
+        "domanda": "Come si va da Manaus a Tabatinga?",
+        "risposta": "In volo in circa un'ora e mezza, in barca veloce in 30-36 ore (intorno ai 1.000 R$) o in barca lenta, con l'amaca sul ponte, in 6-7 giorni. A Tabatinga si fa il timbro di uscita alla Polícia Federal."
+      },
+      {
+        "domanda": "Serve il vaccino della febbre gialla?",
+        "risposta": "È raccomandato per tutta l'Amazzonia, almeno 10 giorni prima della partenza; il certificato può essere chiesto entrando in Colombia o in Perù dalla frontiera amazzonica."
+      }
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
