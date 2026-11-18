@@ -295,8 +295,8 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     esperienzeSlugs: ['musical-broadway'],
     tripSlugs: ['new-york-itinerario'],
-    imageAlt: 'Le luci e i cartelloni pubblicitari di Times Square di notte, New York',
-    immagine: '/images/new-york/times-square-notte.jpg',
+    imageAlt: "Midtown dall'alto del Top of the Rock, con i grattacieli sottili e Central Park sullo sfondo",
+    immagine: "/images/new-york/midtown-top-of-the-rock-riccardo.jpg",
   },
   {
     slug: 'harlem-central-park',
@@ -546,8 +546,8 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     esperienzeSlugs: ['messa-gospel-harlem'],
     tripSlugs: ['new-york-itinerario'],
-    imageAlt: 'La facciata storica dell\'Apollo Theater ad Harlem, New York',
-    immagine: '/images/new-york/apollo-theater-harlem.jpg',
+    imageAlt: "La Bethesda Fountain di Central Park con l'angelo in cima e gli alberi riflessi nell'acqua",
+    immagine: "/images/new-york/central-park-bethesda-riccardo.jpg",
   },
   {
     slug: 'rockefeller-chelsea',
@@ -797,8 +797,8 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     esperienzeSlugs: ['high-line-vessel'],
     tripSlugs: ['new-york-itinerario'],
-    imageAlt: 'La passeggiata pensile della High Line tra i grattacieli di Manhattan, New York',
-    immagine: '/images/new-york/high-line.jpg',
+    imageAlt: "Il Vessel a Hudson Yards, la scala a nido d'ape in rame tra i grattacieli di vetro",
+    immagine: "/images/new-york/vessel-hudson-yards-riccardo.jpg",
   },
   {
     slug: 'statua-liberta-wall-street',

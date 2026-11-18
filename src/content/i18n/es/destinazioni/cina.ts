@@ -947,8 +947,8 @@ export const destinazioniCina: Destinazione[] = [
     ],
     esperienzeSlugs: ['giardini-suzhou', 'bund-pudong'],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Una barca en el canal principal de Zhujiajiao, pueblo de agua en el distrito de Qingpu, Shanghái',
-    immagine: '/images/cina/shanghai.jpg',
+    imageAlt: "Un pabellón con tejados curvados y el estanque con rocas en el jardín Yuyuan de Shanghái",
+    immagine: "/images/cina/shanghai-yuyuan-riccardo.jpg",
   },
   {
     slug: 'zhangjiajie',

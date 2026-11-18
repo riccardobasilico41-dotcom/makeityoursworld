@@ -57,8 +57,8 @@ export const cinaClassicaMeta: TripMeta = {
       intensita: 'intenso',
       costiNoti: "Forbidden City about 60 yuan in high season, reservation required",
       destinazioneSlug: 'pechino',
-      immagine: '/images/viaggi/cina-classica/giorno-2-citta-proibita.jpg',
-      imageAlt: "The Hall of Supreme Harmony in the Forbidden City, with the great marble staircase and the visitors",
+      immagine: "/images/cina/pechino-tiananmen-riccardo.jpg",
+      imageAlt: "Tiananmen Gate with Mao's portrait and the marble bridges, under Beijing's blue sky",
     },
     {
       titoloGiorno: 'Day 3 — The Great Wall at Jinshanling',
@@ -68,8 +68,8 @@ export const cinaClassicaMeta: TripMeta = {
       intensita: 'intenso',
       costiNoti: "admission about 65 yuan plus private transfer",
       destinazioneSlug: 'pechino',
-      immagine: '/images/viaggi/cina-classica/giorno-3-muraglia-jinshanling.jpg',
-      imageAlt: "The Great Wall running along the green ridges of Jinshanling, unrestored and almost empty",
+      immagine: "/images/cina/muraglia-tramonto-riccardo.jpg",
+      imageAlt: "The stone path of the Wall climbing the ridge at sunset, seen from under a rock",
     },
     {
       titoloGiorno: "Day 4 — Temple of Heaven, hutongs and Summer Palace",
@@ -120,8 +120,8 @@ export const cinaClassicaMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: "Shanghai Tower about 180 yuan",
       destinazioneSlug: 'shanghai',
-      immagine: '/images/viaggi/cina-classica/giorno-8-yuyuan-garden.jpg',
-      imageAlt: "The red pavilions of Yu Garden overlooking the pond, in the heart of the old city",
+      immagine: "/images/cina/shanghai-yuyuan-riccardo.jpg",
+      imageAlt: "A pavilion with upturned roofs and a pond with rocks in Shanghai's Yuyuan Garden",
     },
     {
       titoloGiorno: 'Day 9 — Suzhou and the classical gardens',

@@ -721,8 +721,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'I grattacieli del lungomare di Abu Dhabi visti dal mare, con una barca a vela',
-    immagine: '/images/emirati-arabi-uniti/abu-dhabi.jpg',
+    imageAlt: "Le cupole bianche, gli archi e un minareto della Grande Moschea Sheikh Zayed di Abu Dhabi",
+    immagine: "/images/emirati-arabi-uniti/abu-dhabi-sheikh-zayed-riccardo.jpg",
   },
   {
     slug: 'liwa-al-ain',

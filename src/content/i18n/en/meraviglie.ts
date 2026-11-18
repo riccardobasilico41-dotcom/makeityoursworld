@@ -277,8 +277,8 @@ export const meraviglie: Meraviglia[] = [
       "Not bringing water and sun protection: the site is almost completely shadeless",
     ],
     miaEsperienza: "I've seen it four times. It's beautiful, but with reservations. It's the wonder that disappoints most those who arrive unprepared, and the reason isn't the site but the way it's visited. From ten o'clock on the mass-tourism buses from the Riviera arrive, from Cancún and Playa del Carmen, and I don't like that at all, just like the stalls that are everywhere: the avenues fill up with vendors, one stall next to another along almost every path, with jaguar-shaped whistles sounding nonstop. Entering at opening time completely changes the experience. You haven't been able to climb the Castillo for years, so it has to be looked at from below, and that's where you understand the trick: clap your hands in front of the staircase and the echo comes back like the call of the quetzal, and it's no coincidence. If you're after a feeling of discovery you find it more at Uxmal or Cobá, and across Mexico, Belize and Guatemala there are temples that in my opinion are more beautiful: Calakmul, Palenque, Tikal, Caracol. Here you come for the astronomical precision, which is something else and is still worth it.",
-    heroImageAlt: "The pyramid of El Castillo at Chichén Itzá seen head-on, with the central staircase, the green lawn and the blue sky, Yucatán, Mexico",
-    heroImage: "/images/meraviglie/chichen-itza-el-castillo.jpg",
+    heroImageAlt: "The El Castillo pyramid at Chichén Itzá under a cloudy sky, with the lawn and path in front",
+    heroImage: "/images/messico/chichen-itza-nuvole-riccardo.jpg",
   },
   {
     slug: "colosseo",

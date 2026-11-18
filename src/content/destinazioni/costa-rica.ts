@@ -379,8 +379,8 @@ export const destinazioniCostaRica: Destinazione[] = [
     ],
     esperienzeSlugs: ['tour-cahuita'],
     tripSlugs: ['costa-rica-itinerario'],
-    imageAlt: 'La spiaggia caraibica di Punta Uva vicino a Puerto Viejo, Costa Rica',
-    immagine: '/images/costa-rica/punta-uva-spiaggia.jpg',
+    imageAlt: "Una spiaggia della costa caraibica tra palme e tronchi caduti, con la giungla che arriva fino al mare",
+    immagine: "/images/costa-rica/cahuita-spiaggia-riccardo.jpg",
   },
   {
     slug: 'tortuguero',
@@ -1283,8 +1283,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       ],
     esperienzeSlugs: ['whale-watching-uvita'],
     tripSlugs: ['costa-rica-itinerario'],
-    imageAlt: 'Il banco di sabbia della Cola de la Ballena a Uvita, Costa Rica',
-    immagine: '/images/costa-rica/uvita-tombolo-marino-ballena.jpg',
+    imageAlt: "Il tramonto arancione e viola sul Pacifico, dalla spiaggia di Uvita",
+    immagine: "/images/costa-rica/uvita-tramonto-riccardo.jpg",
   },
   {
     slug: 'manuel-antonio',

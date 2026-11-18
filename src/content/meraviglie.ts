@@ -338,8 +338,8 @@ export const meraviglie: Meraviglia[] = [
     ],
     verificataIl: '2026-11-06',
     statoVerifica: 'verificata',
-    heroImageAlt: 'La piramide di El Castillo a Chichén Itzá vista di fronte, con la scalinata centrale, il prato verde e il cielo azzurro, Yucatán, Messico',
-    heroImage: '/images/meraviglie/chichen-itza-el-castillo.jpg',
+    heroImageAlt: "La piramide di El Castillo a Chichén Itzá sotto un cielo di nuvole, con il prato e il sentiero davanti",
+    heroImage: "/images/messico/chichen-itza-nuvole-riccardo.jpg",
   },
   {
     slug: 'colosseo',

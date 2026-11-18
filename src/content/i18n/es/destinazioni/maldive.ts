@@ -735,8 +735,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'La playa blanca del lado de la laguna de Kuramathi, en el atolón de Rasdhoo',
-    immagine: '/images/maldive/rasdhoo.jpg',
+    imageAlt: 'El agua baja y transparente de la laguna de Ukulhas, con la lengua de arena y las palmeras al fondo',
+    immagine: '/images/maldive/ukulhas-laguna-riccardo.jpg',
   },
   {
     slug: 'ari-sud',
@@ -967,8 +967,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'Un tiburón ballena nadando justo bajo la superficie, el encuentro por el que se va a Ari Sur',
-    immagine: '/images/maldive/squalo-balena.jpg',
+    imageAlt: 'La playa blanca de Dhigurah que baja hacia la laguna turquesa de Ari Sur',
+    immagine: '/images/maldive/dhigurah-spiaggia-riccardo.jpg',
   },
   {
     slug: 'baa-hanifaru',

@@ -735,8 +735,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'The white beach on the lagoon side of Kuramathi, in Rasdhoo atoll',
-    immagine: '/images/maldive/rasdhoo.jpg',
+    imageAlt: 'The shallow, clear water of the Ukulhas lagoon, with the sandbar and palms in the background',
+    immagine: '/images/maldive/ukulhas-laguna-riccardo.jpg',
   },
   {
     slug: 'ari-sud',
@@ -967,8 +967,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'A whale shark swimming just below the surface, the encounter people go to South Ari for',
-    immagine: '/images/maldive/squalo-balena.jpg',
+    imageAlt: 'Dhigurah\'s white beach sloping into the turquoise lagoon of South Ari',
+    immagine: '/images/maldive/dhigurah-spiaggia-riccardo.jpg',
   },
   {
     slug: 'baa-hanifaru',

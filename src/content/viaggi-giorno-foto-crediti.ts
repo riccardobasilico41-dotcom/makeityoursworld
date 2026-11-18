@@ -473,17 +473,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Times_square_at_night.jpg',
     },
-    'Giorno 2 (08.09) — Harlem, Central Park, Empire State Building': {
-      autore: 'dllu (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg',
-    },
-    'Giorno 3 (09.09) — Cattedrale, MoMA, High Line, The Vessel': {
-      autore: 'Wikimedia Commons',
-      licenza: 'CC BY 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Vessel_June_2024.jpg',
-    },
   },
   'florida-road-trip': {
     'Giorno 1 — Arrivo a Miami': {
@@ -945,16 +934,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Teatro_Nacional_CRI_07_2019_8963.jpg',
     },
-    'Giorno 2 — Puerto Viejo, tra Caribe e giungla': {
-      autore: 'Aude (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Beach_at_Puerto_Viejo_de_Talamanca.jpg',
-    },
-    'Giorno 3 — Parco Nazionale di Cahuita': {
-      autore: 'Bernal Saborio (Wikimedia Commons)',
-      licenza: 'CC BY-SA 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Cahuita_Point_(44975091512).jpg',
-    },
     'Giorno 4 — Verso Tortuguero, tra fiume e giungla': {
       autore: 'Lars0001 (Wikimedia Commons)',
       licenza: 'Public Domain',
@@ -984,16 +963,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Costaricapro (Wikimedia Commons)',
       licenza: 'CC BY-SA 3.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Zip_Line_Canopy_Tour_Costa_Rica.jpg',
-    },
-    'Giorno 10 — Uvita: avvistamento balene': {
-      autore: 'Ceever (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Uvita,_Ballena_Marine_National_Park.jpg',
-    },
-    'Giorno 11 — Uvita: giornata libera tra surf, cavalli e yoga': {
-      autore: 'François Bianco (Wikimedia Commons)',
-      licenza: 'CC BY-SA 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Surfer_at_sunset_(15709034809).jpg',
     },
     'Giorno 12 — Parco Nazionale Manuel Antonio e rientro a San José': {
       autore: 'Rodtico21 (Wikimedia Commons)',
@@ -1167,16 +1136,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl:
         'https://commons.wikimedia.org/wiki/File:Hutong,_Gasse_in_Peking,_alley_in_Beijing_(44042315480).jpg',
     },
-    'Giorno 2 — Città Proibita, Tiananmen e Jingshan': {
-      autore: 'Peter K Burian (Wikimedia Commons)',
-      licenza: 'CC BY 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_2018._Forbidden_City.jpg',
-    },
-    'Giorno 3 — La Grande Muraglia a Jinshanling': {
-      autore: 'Vincent Ndaku (Wikimedia Commons)',
-      licenza: 'CC BY-SA 3.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling.jpg',
-    },
     "Giorno 5 — Treno per Xi'an e mura in bicicletta": {
       autore: 'AcidBomber (Wikimedia Commons)',
       licenza: 'CC BY 3.0',
@@ -1192,11 +1151,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Daniel Case (Wikimedia Commons)',
       licenza: 'CC BY-SA 3.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lujiazui_skyline_by_night_from_Bund,_fully_illuminated.jpg',
-    },
-    'Giorno 8 — Shanghai: Concessione Francese, Yuyuan, Pudong': {
-      autore: 'Elizaveta Butryn (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Shanghai,_Yuyuan_Garden.jpg',
     },
     'Giorno 9 — Suzhou e i giardini classici': {
       autore: 'Rose Abrams (Wikimedia Commons)',
@@ -1858,11 +1812,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Desertsafarideals (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Desert_Dune.jpg',
-    },
-    'Giorno 3 — Abu Dhabi, lo stopover Etihad': {
-      autore: 'Guilhem Vellut (Wikimedia Commons)',
-      licenza: 'CC BY 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Grand_Mosque_@_Abu_Dhabi_(15856602738).jpg',
     },
     'Giorno 4 — Abu Dhabi, il Louvre e il deserto': {
       autore: 'Boubloub (Wikimedia Commons)',
@@ -3262,11 +3211,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     },
   },
   'maldive-guida': {
-    'Giorno 1 — Arrivo a Malé e speedboat per Dhigurah': {
-      autore: 'Shifaaz shamoon (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/aerial-shot-of-body-of-water-during-daytime-AAFH_AADpRg',
-    },
     'Giorno 2 — Dhigurah: lo squalo balena sulla barriera di Ari Sud': {
       autore: 'Sebastian Pena Lambarri (Unsplash)',
       licenza: 'Unsplash License',
@@ -3276,16 +3220,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Sebastian Pena Lambarri (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/grey-and-black-stingray-in-underwater-photography-F54xLcv9wQ0',
-    },
-    'Giorno 4 — La vita del villaggio e la pesca al tramonto': {
-      autore: 'Ishan @seefromthesky (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/boat-on-calm-water-at-low-sun-2d7n2sfYjHY',
-    },
-    'Giorno 5 — Ultima mattina ad Ari e un\'immersione': {
-      autore: 'Rayyu Maldives (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/a-turtle-swimming-in-the-ocean-cDsfRDTqg_8',
     },
     'Giorno 6 — Dall\'isola locale al resort': {
       autore: 'Rayyu Maldives (Unsplash)',
@@ -4449,7 +4383,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     'Giorno 13 — Gili: tartarughe, biciclette e tramonto': { autore: 'Anna & Michal', licenza: 'CC BY 2.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sunset_on_Gili_Trawangan2.jpg' },
     'Giorno 12 — In barca veloce verso le Gili': { autore: 'FBilula', licenza: 'CC BY 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Gili_Trawangan_aerial_2026_01.jpg' },
     'Giorno 8 — Le risaie di Jatiluwih e arrivo a Ubud': { autore: 'Paxson Woelber', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Rice_fields_at_Jatiluwih._Bali,_Indonesia.JPG' },
-    'Giorno 5 — Alba al Bromo e verso l\'Ijen': { autore: 'Andhika bayu nugraha', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg' },
     'Giorno 1 — Arrivo a Giacarta e volo per Yogyakarta': {
       autore: 'Ramayoni (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',

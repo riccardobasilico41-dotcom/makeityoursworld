@@ -52,8 +52,8 @@ export const newYork360Meta: TripMeta = {
       intensita: 'intenso',
       costiNoti: 'Harlem walking tour $275 + tip',
       destinazioneSlug: 'harlem-central-park',
-      immagine: '/images/viaggi/new-york-360/giorno-2-empire-state.jpg',
-      imageAlt: "The Empire State Building lit in green at sunset, seen from Rockefeller Center with the Manhattan skyline",
+      immagine: "/images/new-york/central-park-bethesda-riccardo.jpg",
+      imageAlt: "Bethesda Fountain in Central Park, with the angel on top and the trees reflected in the water",
     },
     {
       titoloGiorno: 'Day 3 (09.09) — Cathedral, MoMA, High Line, The Vessel',
@@ -62,8 +62,8 @@ export const newYork360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'rockefeller-chelsea',
-      immagine: '/images/viaggi/new-york-360/giorno-3-the-vessel.jpg',
-      imageAlt: "The honeycomb structure of The Vessel at Hudson Yards, with glass skyscrapers in the background",
+      immagine: "/images/new-york/vessel-hudson-yards-riccardo.jpg",
+      imageAlt: "The Vessel at Hudson Yards, the copper honeycomb staircase among the glass towers",
     },
     {
       titoloGiorno: 'Day 4 (10.09) — Statue of Liberty, Wall Street, Chinatown, Broadway',

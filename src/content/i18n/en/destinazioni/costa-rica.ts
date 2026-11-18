@@ -377,8 +377,8 @@ export const destinazioniCostaRica: Destinazione[] = [
     ],
     esperienzeSlugs: ['tour-cahuita'],
     tripSlugs: ['costa-rica-itinerario'],
-    imageAlt: "The Caribbean beach of Punta Uva near Puerto Viejo, Costa Rica",
-    immagine: '/images/costa-rica/punta-uva-spiaggia.jpg',
+    imageAlt: "A beach on the Caribbean coast among palms and fallen trunks, with the jungle reaching the sea",
+    immagine: "/images/costa-rica/cahuita-spiaggia-riccardo.jpg",
   },
   {
     slug: 'tortuguero',
@@ -1281,8 +1281,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       ],
     esperienzeSlugs: ['whale-watching-uvita'],
     tripSlugs: ['costa-rica-itinerario'],
-    imageAlt: "The Cola de la Ballena sandbar at Uvita, Costa Rica",
-    immagine: '/images/costa-rica/uvita-tombolo-marino-ballena.jpg',
+    imageAlt: "An orange and purple sunset over the Pacific, from the beach at Uvita",
+    immagine: "/images/costa-rica/uvita-tramonto-riccardo.jpg",
   },
   {
     slug: 'manuel-antonio',

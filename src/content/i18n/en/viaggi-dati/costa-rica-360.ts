@@ -56,8 +56,8 @@ export const costaRica360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'medio',
       destinazioneSlug: 'puerto-viejo',
-      immagine: '/images/viaggi/costa-rica-360/giorno-2-puerto-viejo.jpg',
-      imageAlt: "The Caribbean coast of Puerto Viejo, with palm trees and a fishing boat among the waves",
+      immagine: "/images/costa-rica/scimmia-cappuccina-riccardo.jpg",
+      imageAlt: "A capuchin monkey among the leaves of the Caribbean jungle",
     },
     {
       titoloGiorno: "Day 3 — Cahuita National Park",
@@ -67,8 +67,8 @@ export const costaRica360Meta: TripMeta = {
       intensita: 'medio',
       costiNoti: "Cahuita tour $50 per person",
       destinazioneSlug: 'puerto-viejo',
-      immagine: '/images/viaggi/costa-rica-360/giorno-3-cahuita.jpg',
-      imageAlt: "Aerial view of Cahuita Point, where the rainforest meets the beach and the coral reef",
+      immagine: "/images/costa-rica/cahuita-spiaggia-riccardo.jpg",
+      imageAlt: "A beach on the Caribbean coast among palms and fallen trunks, with the jungle reaching the sea",
     },
     {
       titoloGiorno: "Day 4 — To Tortuguero, between river and jungle",
@@ -140,8 +140,8 @@ export const costaRica360Meta: TripMeta = {
       intensita: 'medio',
       costiNoti: "Whale watching $70 per person",
       destinazioneSlug: 'uvita',
-      immagine: '/images/viaggi/costa-rica-360/giorno-10-uvita-marino-ballena.jpg',
-      imageAlt: "The sandy beach and palm-covered promontory of Ballena Marine Park in Uvita, where the \"whale tail\" forms",
+      immagine: "/images/costa-rica/uvita-spiaggia-palme-riccardo.jpg",
+      imageAlt: "A palm frond over the beach at Uvita, with surfboards on the sand and Pacific waves",
     },
     {
       titoloGiorno: "Day 11 — Uvita: free day for surfing, horses and yoga",
@@ -150,8 +150,8 @@ export const costaRica360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'leggero',
       destinazioneSlug: 'uvita',
-      immagine: '/images/viaggi/costa-rica-360/giorno-11-uvita-surf.jpg',
-      imageAlt: "A surfer comes out of the waves with the board under his arm at sunset on a Pacific beach",
+      immagine: "/images/costa-rica/uvita-surf-riccardo.jpg",
+      imageAlt: "In the water at Uvita with the surfboard over my head",
     },
     {
       titoloGiorno: "Day 12 — Manuel Antonio National Park and return to San José",

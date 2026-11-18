@@ -285,8 +285,8 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     esperienzeSlugs: ['musical-broadway'],
     tripSlugs: ['new-york-itinerario'],
-    imageAlt: 'The lights and billboards of Times Square at night, New York',
-    immagine: '/images/new-york/times-square-notte.jpg',
+    imageAlt: "Midtown from the Top of the Rock, with the slim towers and Central Park behind",
+    immagine: "/images/new-york/midtown-top-of-the-rock-riccardo.jpg",
   },
   {
     slug: 'harlem-central-park',
@@ -536,8 +536,8 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     esperienzeSlugs: ['messa-gospel-harlem'],
     tripSlugs: ['new-york-itinerario'],
-    imageAlt: "The historic facade of the Apollo Theater in Harlem, New York",
-    immagine: '/images/new-york/apollo-theater-harlem.jpg',
+    imageAlt: "Bethesda Fountain in Central Park, with the angel on top and the trees reflected in the water",
+    immagine: "/images/new-york/central-park-bethesda-riccardo.jpg",
   },
   {
     slug: 'rockefeller-chelsea',
@@ -787,8 +787,8 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     esperienzeSlugs: ['high-line-vessel'],
     tripSlugs: ['new-york-itinerario'],
-    imageAlt: 'The elevated High Line promenade among the skyscrapers of Manhattan, New York',
-    immagine: '/images/new-york/high-line.jpg',
+    imageAlt: "The Vessel at Hudson Yards, the copper honeycomb staircase among the glass towers",
+    immagine: "/images/new-york/vessel-hudson-yards-riccardo.jpg",
   },
   {
     slug: 'statua-liberta-wall-street',

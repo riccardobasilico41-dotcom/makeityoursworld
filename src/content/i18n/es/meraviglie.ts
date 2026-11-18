@@ -277,8 +277,8 @@ export const meraviglie: Meraviglia[] = [
       "No llevar agua ni protección solar: el sitio casi no tiene sombra",
     ],
     miaEsperienza: "La he visto cuatro veces. Es preciosa, pero con reservas. Es la maravilla que más decepciona a quien llega sin preparación, y el motivo no es el sitio sino la forma de visitarlo. A partir de las diez llegan los autobuses del turismo de masas desde la Riviera, desde Cancún y Playa del Carmen, y no me gusta nada, igual que los puestos que hay por todas partes: los paseos se llenan de vendedores, un puesto junto a otro por casi todos los recorridos, con los silbatos en forma de jaguar sonando sin parar. Entrar a la apertura cambia por completo la experiencia. A El Castillo ya no se sube desde hace años, así que hay que mirarlo desde abajo, y ahí se entiende el juego: dando palmas frente a la escalinata el eco vuelve como el canto del quetzal, y no es casualidad. Quien busque la sensación de descubrimiento la encuentra más en Uxmal o en Cobá, y entre México, Belice y Guatemala hay templos que para mí son más bonitos: Calakmul, Palenque, Tikal, Caracol. Aquí se viene por la precisión astronómica, que es otra cosa y vale la pena igualmente.",
-    heroImageAlt: "La pirámide de El Castillo en Chichén Itzá vista de frente, con la escalinata central, el césped verde y el cielo azul, Yucatán, México",
-    heroImage: "/images/meraviglie/chichen-itza-el-castillo.jpg",
+    heroImageAlt: "La pirámide de El Castillo en Chichén Itzá bajo un cielo de nubes, con el césped y el camino delante",
+    heroImage: "/images/messico/chichen-itza-nuvole-riccardo.jpg",
   },
   {
     slug: "colosseo",
